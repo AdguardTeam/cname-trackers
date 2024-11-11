@@ -25,6 +25,7 @@
 ||tools.mojegotowanie.pl^
 ||tools.mojpieknyogrod.pl^
 ||tools.national-geographic.pl^
+||tools.niania.pl^
 ||tools.party.pl^
 ||tools.polki.pl^
 ||tools.przyslijprzepis.pl^

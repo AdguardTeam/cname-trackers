@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -95,6 +95,7 @@ mteme7li1d6r.vertexmarketingagency.com CNAME .
 my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com CNAME .
 n367tqpdxce0.quine.sh CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
+nq3ghu0vy2qo.www.ryaktive.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
 ns3w1qrlbk4s.tip.etip-staging.etip.io CNAME .
 o3gxzoewxl1x.cp.zomro.com CNAME .

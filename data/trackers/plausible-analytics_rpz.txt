@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -644,6 +644,7 @@ stats.mesenvies.fr CNAME .
 stats.metamorphium.com CNAME .
 stats.michaeloliver.dev CNAME .
 stats.micv.works CNAME .
+stats.mindhive.ca CNAME .
 stats.missionmet.com CNAME .
 stats.missionrabies.com CNAME .
 stats.moco-comics.com CNAME .
@@ -664,6 +665,7 @@ stats.newslit.co CNAME .
 stats.nexagon.dk CNAME .
 stats.niceshitforbitcoiners.com CNAME .
 stats.nodewood.com CNAME .
+stats.noeticflow.com CNAME .
 stats.nonprofit.foundation CNAME .
 stats.nothingbutnylon.com CNAME .
 stats.nullsecure.com CNAME .
@@ -684,6 +686,7 @@ stats.outpostdemo.com CNAME .
 stats.ownpath.xyz CNAME .
 stats.owre.se CNAME .
 stats.p42.ai CNAME .
+stats.paramountperformance.net CNAME .
 stats.parqet.com CNAME .
 stats.parrot.dev CNAME .
 stats.passwordyeti.com CNAME .
@@ -718,6 +721,7 @@ stats.preeventualist.org CNAME .
 stats.pri.org CNAME .
 stats.pricewell.io CNAME .
 stats.principedepaz.gt CNAME .
+stats.print-io.de CNAME .
 stats.print.work CNAME .
 stats.processserver101.com CNAME .
 stats.procumeni.cz CNAME .

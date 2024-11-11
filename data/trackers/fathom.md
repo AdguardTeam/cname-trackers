@@ -148,7 +148,6 @@
 | butterfly.rfortherestofus.com | deprecated-custom-domains.b-cdn.net |
 | buzzard.donotresearch.net | deprecated-custom-domains.b-cdn.net |
 | buzzard.ficabo.com.au | deprecated-custom-domains.b-cdn.net |
-| buzzard.nimble.team | deprecated-custom-domains.b-cdn.net |
 | camel.gastro-plan.app | deprecated-custom-domains.b-cdn.net |
 | camel.nonpopularopinion.com | deprecated-custom-domains.b-cdn.net |
 | camel.warvik.no | deprecated-custom-domains.b-cdn.net |
@@ -425,7 +424,6 @@
 | heron.oneaudiobooks.app | deprecated-custom-domains.b-cdn.net |
 | herring.artemis.cloud | deprecated-custom-domains.b-cdn.net |
 | herring.panda.network | deprecated-custom-domains.b-cdn.net |
-| herring.superfast.dev | deprecated-custom-domains.b-cdn.net |
 | hookworm.campaignzee.com | deprecated-custom-domains.b-cdn.net |
 | hornet.amandaheal.com.au | deprecated-custom-domains.b-cdn.net |
 | hornet.energizer.co.za | deprecated-custom-domains.b-cdn.net |
@@ -493,7 +491,6 @@
 | koi.henrydennis.dev | deprecated-custom-domains.b-cdn.net |
 | koi.lkae.dev | deprecated-custom-domains.b-cdn.net |
 | koi.project-tampah.com | deprecated-custom-domains.b-cdn.net |
-| koi.valleywestlandscapes.com | deprecated-custom-domains.b-cdn.net |
 | koi.vyer.com | deprecated-custom-domains.b-cdn.net |
 | krill.far.site | deprecated-custom-domains.b-cdn.net |
 | krill.spoonrage.com | deprecated-custom-domains.b-cdn.net |
@@ -751,7 +748,6 @@
 | rook.clarify.io | deprecated-custom-domains.b-cdn.net |
 | rook.flowlens.com | deprecated-custom-domains.b-cdn.net |
 | rook.grithix.com | deprecated-custom-domains.b-cdn.net |
-| rook.sameerhazari.com | deprecated-custom-domains.b-cdn.net |
 | rooster.cashforcolumbushouses.com | deprecated-custom-domains.b-cdn.net |
 | rooster.ohqcloud.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.hoap.com | deprecated-custom-domains.b-cdn.net |
@@ -1053,6 +1049,7 @@
 | beaver.ecosecretariat.org | starman.fathomdns.com |
 | beaver.livechatlabs.com | starman.fathomdns.com |
 | bee.andreawhitmer.com | starman.fathomdns.com |
+| bee.farmaciavdg.com | starman.fathomdns.com |
 | bee.jbkmobiledj.com | starman.fathomdns.com |
 | bee.nfte.app | starman.fathomdns.com |
 | beetle.enlacepermanente.es | starman.fathomdns.com |
@@ -1139,7 +1136,6 @@
 | centipede.roasted.dev | starman.fathomdns.com |
 | centipede.wildbit.com | starman.fathomdns.com |
 | cephalopod.nucleus.us | starman.fathomdns.com |
-| cephalopod.photoprism.pro | starman.fathomdns.com |
 | cephalopod.revelio.io | starman.fathomdns.com |
 | cephalopod.staff.design | starman.fathomdns.com |
 | cheetah.gaptry.com | starman.fathomdns.com |
@@ -1363,7 +1359,6 @@
 | heron.oneaudiobooks.app | starman.fathomdns.com |
 | herring.artemis.cloud | starman.fathomdns.com |
 | herring.panda.network | starman.fathomdns.com |
-| herring.superfast.dev | starman.fathomdns.com |
 | hookworm.campaignzee.com | starman.fathomdns.com |
 | hornet.amandaheal.com.au | starman.fathomdns.com |
 | hornet.energizer.co.za | starman.fathomdns.com |
@@ -1431,7 +1426,6 @@
 | koi.henrydennis.dev | starman.fathomdns.com |
 | koi.lkae.dev | starman.fathomdns.com |
 | koi.project-tampah.com | starman.fathomdns.com |
-| koi.valleywestlandscapes.com | starman.fathomdns.com |
 | koi.vyer.com | starman.fathomdns.com |
 | krill.far.site | starman.fathomdns.com |
 | krill.spoonrage.com | starman.fathomdns.com |
@@ -1530,6 +1524,7 @@
 | mole.vcntlee.com | starman.fathomdns.com |
 | mollusk.forwardmx.io | starman.fathomdns.com |
 | mollusk.working.actor | starman.fathomdns.com |
+| mongoose.cse-algolia.fr | starman.fathomdns.com |
 | mongoose.jasonlbeggs.com | starman.fathomdns.com |
 | mongoose.scrumgenius.com | starman.fathomdns.com |
 | mongoose.thechocolatelife.com | starman.fathomdns.com |
@@ -1595,6 +1590,7 @@
 | parakeet.buildcodelearn.com | starman.fathomdns.com |
 | parakeet.jorenvanhocht.be | starman.fathomdns.com |
 | parakeet.kenleyar.ai | starman.fathomdns.com |
+| parakeet.phantomphone.net | starman.fathomdns.com |
 | parakeet.quotetweet.com | starman.fathomdns.com |
 | parrot.alookwithin.ca | starman.fathomdns.com |
 | parrot.lovably.com | starman.fathomdns.com |
@@ -1854,7 +1850,6 @@
 | wallaby.cron.help | starman.fathomdns.com |
 | wallaby.legendkeeper.com | starman.fathomdns.com |
 | wallaby.short1.link | starman.fathomdns.com |
-| walrus.blindemployment.solutions | starman.fathomdns.com |
 | walrus.fetzcolor.at | starman.fathomdns.com |
 | walrus.oscaroarevalo.com | starman.fathomdns.com |
 | warbler.resumebuilder.dev | starman.fathomdns.com |
@@ -1884,6 +1879,7 @@
 | woodpecker.ember.ly | starman.fathomdns.com |
 | woodpecker.mikehalliday.com | starman.fathomdns.com |
 | woodpecker.seabits.com | starman.fathomdns.com |
+| worm.communitytrustproject.org | starman.fathomdns.com |
 | yak.auclantis.com | starman.fathomdns.com |
 | yak.flutterblog.net | starman.fathomdns.com |
 | yak.gregsullivan.com | starman.fathomdns.com |

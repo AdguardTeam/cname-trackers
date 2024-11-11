@@ -277,6 +277,8 @@
 ||web.e.soakaways.com^
 ||web.email.farrow-ball.com^
 ||web.email.mishimoto.co.uk^
+||web.email.mishimoto.com^
+||web.email.mishimoto.eu^
 ||web.email.pizzaexpress.com^
 ||web.email.superga.co.uk^
 ||web.email.topfarmacia.it^
@@ -368,6 +370,7 @@
 ||web.tummytox.it^
 ||web.tummytox.pt^
 ||web.tummytox.sk^
+||web.updates.ditano.com^
 ||web.usautosupply.com^
 ||web.web.tomasiauto.com^
 ||web.x.ilpost.it^

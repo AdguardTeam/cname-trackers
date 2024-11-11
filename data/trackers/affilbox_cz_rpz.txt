@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -169,6 +169,7 @@ affiliate.fotopasti-bunaty.cz CNAME .
 affiliate.gaymegastore.cz CNAME .
 affiliate.gaymegastore.eu CNAME .
 affiliate.geoweb.easy.cz CNAME .
+affiliate.gilitickets.online CNAME .
 affiliate.golfplan.org CNAME .
 affiliate.growmarket.cz CNAME .
 affiliate.hamham.cz CNAME .
@@ -233,7 +234,6 @@ affiliate.pasti.cz CNAME .
 affiliate.pesvbyte.cz CNAME .
 affiliate.petr-zeman.cz CNAME .
 affiliate.ph7.cz CNAME .
-affiliate.pietro-filipi.com CNAME .
 affiliate.plutoscompany.sk CNAME .
 affiliate.polti.cz CNAME .
 affiliate.portu.cz CNAME .
@@ -450,7 +450,6 @@ partner.aerium.sk CNAME .
 partner.aeriumshop.nl CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
-partner.affilnet.cz CNAME .
 partner.alesio.cz CNAME .
 partner.amonit.sk CNAME .
 partner.amonitsro.sk CNAME .
@@ -916,7 +915,6 @@ partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
 partners.duckferries.com CNAME .
 partners.elitecoaching.cz CNAME .
-partners.lawofattraction.cz CNAME .
 partners.oktagon.tv CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .

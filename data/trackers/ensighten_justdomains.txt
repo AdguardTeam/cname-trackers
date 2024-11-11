@@ -315,6 +315,7 @@ pulse.rac.co.uk
 pulse.sleepnumber.com
 pulse.wyndhamhotels.com
 secureanalytics.carecredit.com
+secureanalytics.mysynchrony.com
 secureanalytics.syf.com
 secureanalytics.synchrony.com
 secureanalytics.synchronybank.com

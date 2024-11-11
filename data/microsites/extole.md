@@ -36,6 +36,7 @@
     * ebags.extole.com
     * fabkids-ssl.extole.com
     * fivestars.extole.com
+    * freshdirect.extole.com
     * freshly.extole.com
     * fuzebox-ssl.extole.com
     * gevalia.extole.com
@@ -228,7 +229,6 @@
     * copper-crane.extole.io
     * cos-bar.extole.io
     * coupon-cabin.extole.io
-    * cox.extole.io
     * creativelive.extole.io
     * credible.extole.io
     * creditninja.extole.io
@@ -315,6 +315,7 @@
     * harryrosen.extole.io
     * havenwellwithin.extole.io
     * henri-bendel.extole.io
+    * heydude.extole.io
     * hicapitalize.extole.io
     * hill-city.extole.io
     * hollandamerica.extole.io
@@ -750,7 +751,6 @@
 | refer.copperandcrane.com | copper-crane.extole.io |
 | share.cosbar.com | cos-bar.extole.io |
 | share.couponcabin.com | coupon-cabin.extole.io |
-| share.cox.com | cox.extole.io |
 | refer.creativelive.com | creativelive.extole.io |
 | share.credible.com | credible.extole.io |
 | share.creditninja.com | creditninja.extole.io |
@@ -831,6 +831,7 @@
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
 | refer.forgetrust.com | forgetrust.extole.io |
+| refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
@@ -842,11 +843,14 @@
 | share.azcentral.com | gannett.extole.io |
 | share.battlecreekenquirer.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
+| share.cincinnati.com | gannett.extole.io |
+| share.clarionledger.com | gannett.extole.io |
 | share.coloradoan.com | gannett.extole.io |
 | share.commercialappeal.com | gannett.extole.io |
 | share.courier-journal.com | gannett.extole.io |
 | share.courierpostonline.com | gannett.extole.io |
 | share.delawareonline.com | gannett.extole.io |
+| share.desertsun.com | gannett.extole.io |
 | share.desmoinesregister.com | gannett.extole.io |
 | share.detroitnews.com | gannett.extole.io |
 | share.elpasotimes.com | gannett.extole.io |
@@ -871,6 +875,7 @@
 | share.northjersey.com | gannett.extole.io |
 | share.patriotledger.com | gannett.extole.io |
 | share.pnj.com | gannett.extole.io |
+| share.postcrescent.com | gannett.extole.io |
 | share.poughkeepsiejournal.com | gannett.extole.io |
 | share.pressconnects.com | gannett.extole.io |
 | share.redding.com | gannett.extole.io |
@@ -928,6 +933,7 @@
 | share.havenwellwithin.com | havenwellwithin.extole.io |
 | refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | refer.henribendel.com | henri-bendel.extole.io |
+| share.heydude.com | heydude.extole.io |
 | share.hicapitalize.com | hicapitalize.extole.io |
 | refer.hillcity.gap.com | hill-city.extole.io |
 | refer.hollandamerica.com | hollandamerica.extole.io |
@@ -1032,6 +1038,7 @@
 | share.mlb.tv | mlbtv.extole.com |
 | refer.mpgsport.ca | mondetta.extole.io |
 | refer.mpgsport.com | mondetta.extole.io |
+| refer.styleitforwardreward.com | mondetta.extole.io |
 | www.styleitforwardreward.com | mondetta.extole.io |
 | refer.montgomeryadvertiser.com | montgomeryadvertiser.extole.com |
 | refer.moo.com | moo.extole.com |

@@ -54,6 +54,7 @@
 ||api.v1.threatmetrix.space.ge^
 ||api1.sfcu.org^
 ||apicorporativops.portoseguro.com.br^
+||app.saldodipje.nl^
 ||app.uob.co.th^
 ||app.uob.com.my^
 ||app.uob.com.sg^
@@ -480,6 +481,7 @@
 ||dtpm.kuady.com^
 ||dtrust.atratopago.com^
 ||dvc0271.play.jackpocket.com^
+||ebcontent.mcbankny.com^
 ||ela1.bankofscotland.co.uk^
 ||elevate.stg.na02.aws.ballys.tech^
 ||enligne.bnc.ca^
@@ -535,6 +537,7 @@
 ||hunt.elcorteingles.es^
 ||id.latitudefinancial.com^
 ||id.solidgate.com^
+||identidaddigital.credicomer.com.sv^
 ||identity.myblueprint.arkansasbluecross.com^
 ||identity4.citidirect.com^
 ||idhtm.bb.com.br^
@@ -550,7 +553,6 @@
 ||images.suntrakfleetaccount.com^
 ||images.wexinc.com^
 ||images.wrightexpress.com^
-||imagesmx.cdiscountpro.com^
 ||imagesmx.cdscdn.com^
 ||imagestm.bossrevolution.com^
 ||img.consumer.risk.lexisnexis.com^
@@ -748,6 +750,7 @@
 ||prod-sfcupa.chaperone.lumindigitalhosting.com^
 ||prod-sfcutx.chaperone.lumindigitalhosting.com^
 ||prod-sperofin.chaperone.lumindigitalhosting.com^
+||prod-statedept.chaperone.lumindigitalhosting.com^
 ||prod-tapco.chaperone.lumindigitalhosting.com^
 ||prod-travis.chaperone.lumindigitalhosting.com^
 ||prod-tvfcuwy.chaperone.lumindigitalhosting.com^
@@ -1082,7 +1085,6 @@
 ||tmx.pampersrewards.com^
 ||tmx.pat.td.com^
 ||tmx.prod.efsllc.com^
-||tmx.revolut.codes^
 ||tmx.rnd.gemaltodigitalbankingidcloud.com^
 ||tmx.tchek.com^
 ||tmx.td.com^

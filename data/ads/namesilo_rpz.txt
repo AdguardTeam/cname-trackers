@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -83,6 +83,7 @@ $TTL 300
 3178552.notifysrv.com CNAME .
 3178572.notifysrv.com CNAME .
 3178848.notifysrv.com CNAME .
+3178930.notify6.com CNAME .
 3179416.notify6.com CNAME .
 3179416.notifysrv.com CNAME .
 3179552.notifysrv.com CNAME .
@@ -493,6 +494,7 @@ $TTL 300
 3472323.notifysrv.com CNAME .
 3474937.notify6.com CNAME .
 3474937.notifysrv.com CNAME .
+3475333.notify6.com CNAME .
 3475333.notifysrv.com CNAME .
 3475335.notify6.com CNAME .
 3475337.notifysrv.com CNAME .
@@ -589,6 +591,7 @@ $TTL 300
 3557821.notifysrv.com CNAME .
 3562657.notifysrv.com CNAME .
 3562665.notify6.com CNAME .
+3562667.notify6.com CNAME .
 3563549.notify6.com CNAME .
 3563551.notify6.com CNAME .
 3563551.notifysrv.com CNAME .
@@ -613,6 +616,7 @@ $TTL 300
 3572277.notifysrv.com CNAME .
 3572279.notify6.com CNAME .
 3572281.notify6.com CNAME .
+3572281.notifysrv.com CNAME .
 3572283.notifysrv.com CNAME .
 3572285.notifysrv.com CNAME .
 3572293.notifysrv.com CNAME .
@@ -1120,6 +1124,7 @@ $TTL 300
 5276648.notify6.com CNAME .
 5296856.notify6.com CNAME .
 535.notify.optimizesrv.com CNAME .
+5350536.notify6.com CNAME .
 5602.notify.optimizesrv.com CNAME .
 577.notify.optimizesrv.com CNAME .
 583.notify.optimizesrv.com CNAME .
@@ -1151,7 +1156,6 @@ a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
 a.asvsm.com CNAME .
 a.b7q9v8z.com CNAME .
-a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
 a.etology.com CNAME .
 a.eunow4u.com CNAME .
@@ -1192,6 +1196,7 @@ admin1.notifysrv.com CNAME .
 administration.notifysrv.com CNAME .
 admissions.notifysrv.com CNAME .
 adrepository.opoxv.com CNAME .
+ads.toroadvertising.com CNAME .
 adult.notifysrv.com CNAME .
 andy.notifysrv.com CNAME .
 answers.notifysrv.com CNAME .
@@ -1323,6 +1328,7 @@ s.elnz23.com CNAME .
 s.etology.com CNAME .
 s.eunow4u.com CNAME .
 s.exv6.com CNAME .
+s.huklop.com CNAME .
 s.linkw2c.com CNAME .
 s.linkw2e.com CNAME .
 s.linkw2g.com CNAME .
@@ -1489,6 +1495,7 @@ www.4.notify.bizonads-ssp.com CNAME .
 www.4065194.notify6.com CNAME .
 www.4065944.notify6.com CNAME .
 www.4069896.notify6.com CNAME .
+www.4080560.notify6.com CNAME .
 www.4130286.notify6.com CNAME .
 www.4146994.notify6.com CNAME .
 www.4152316.notify6.com CNAME .
@@ -1504,4 +1511,5 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
+a.bizonads-ssp.com CNAME .
 ads.optimizesrv.com CNAME .

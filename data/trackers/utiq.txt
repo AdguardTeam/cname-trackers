@@ -54,6 +54,7 @@
 ||utiq.computerfrage.net^
 ||utiq.courrier-picard.fr^
 ||utiq.cuisineactuelle.fr^
+||utiq.dacia.fr^
 ||utiq.dasgelbeblatt.de^
 ||utiq.desired.de^
 ||utiq.diariocordoba.com^
@@ -141,6 +142,7 @@
 ||utiq.laopiniondezamora.es^
 ||utiq.laprovincia.es^
 ||utiq.lardennais.fr^
+||utiq.larepubliquedespyrenees.fr^
 ||utiq.larioja.com^
 ||utiq.lasprovincias.es^
 ||utiq.laverdad.es^
@@ -202,6 +204,7 @@
 ||utiq.purepeople.com^
 ||utiq.regio7.cat^
 ||utiq.renault.fr^
+||utiq.renew.auto^
 ||utiq.rireetchansons.fr^
 ||utiq.rmcbfmplay.com^
 ||utiq.salamancahoy.es^
@@ -256,6 +259,7 @@
 ||utiq.xatakahome.com^
 ||utiq.xatakamovil.com^
 ||utiq.xatakandroid.com^
+||utiq.xatakawindows.com^
 ||utiq.zdnet.fr^
 ||vfdemsp.mno.link^
 ||vfes.mno.link^

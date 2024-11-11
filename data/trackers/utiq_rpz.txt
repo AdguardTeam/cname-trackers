@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -65,6 +65,7 @@ utiq.computerbild.de CNAME .
 utiq.computerfrage.net CNAME .
 utiq.courrier-picard.fr CNAME .
 utiq.cuisineactuelle.fr CNAME .
+utiq.dacia.fr CNAME .
 utiq.dasgelbeblatt.de CNAME .
 utiq.desired.de CNAME .
 utiq.diariocordoba.com CNAME .
@@ -152,6 +153,7 @@ utiq.laopiniondemurcia.es CNAME .
 utiq.laopiniondezamora.es CNAME .
 utiq.laprovincia.es CNAME .
 utiq.lardennais.fr CNAME .
+utiq.larepubliquedespyrenees.fr CNAME .
 utiq.larioja.com CNAME .
 utiq.lasprovincias.es CNAME .
 utiq.laverdad.es CNAME .
@@ -213,6 +215,7 @@ utiq.purebreak.com CNAME .
 utiq.purepeople.com CNAME .
 utiq.regio7.cat CNAME .
 utiq.renault.fr CNAME .
+utiq.renew.auto CNAME .
 utiq.rireetchansons.fr CNAME .
 utiq.rmcbfmplay.com CNAME .
 utiq.salamancahoy.es CNAME .
@@ -267,6 +270,7 @@ utiq.xataka.com CNAME .
 utiq.xatakahome.com CNAME .
 utiq.xatakamovil.com CNAME .
 utiq.xatakandroid.com CNAME .
+utiq.xatakawindows.com CNAME .
 utiq.zdnet.fr CNAME .
 vfdemsp.mno.link CNAME .
 vfes.mno.link CNAME .

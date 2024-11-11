@@ -44,6 +44,7 @@
 ||by.adxt.com^
 ||cdn-adv.unionesarda.it^
 ||cdn.adspmg.com^
+||cdn.conservativestar.com^
 ||cdn.datateam.co.uk^
 ||cdn.headlinesmart.com^
 ||cdn.leightonbroadcasting.com^
@@ -147,6 +148,7 @@
 ||static.engineeringnews.co.za^
 ||static.environmentalleader.com^
 ||static.everythingcolorado.com^
+||static.everythingnevada.com^
 ||static.fa-mag.com^
 ||static.healthcarescene.com^
 ||static.hollandhortimedia.nl^
@@ -155,6 +157,7 @@
 ||static.mannixmarketing.com^
 ||static.miningweekly.com^
 ||static.polity.org.za^
+||static.postandparcel.info^
 ||static.proxibid.com^
 ||static.schrotundkorn.de^
 ||static.sonicplug.com^
@@ -163,6 +166,7 @@
 ||static.walaplusadserver.com^
 ||tlads.midtc.com^
 ||treehouse.wwoz.org^
+||www.adserver.sniffies.com^
 ||www.adserver.sonicplug.com^
 ||www.api.adbility-media.com^
 ||www.cdn-adv.unionesarda.it^
@@ -175,5 +179,6 @@
 ||www.servedby.quirks.com^
 ||www.servedby.schrotundkorn.de^
 ||www.static.imagineobx.com^
+||www.static.livingmagonline.com^
 ||www.static.the-saleroom.com^
 ||xtraa-secure.reviveservers.com^

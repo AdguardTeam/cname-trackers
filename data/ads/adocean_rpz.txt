@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ tools.mamotoja.pl CNAME .
 tools.mojegotowanie.pl CNAME .
 tools.mojpieknyogrod.pl CNAME .
 tools.national-geographic.pl CNAME .
+tools.niania.pl CNAME .
 tools.party.pl CNAME .
 tools.polki.pl CNAME .
 tools.przyslijprzepis.pl CNAME .

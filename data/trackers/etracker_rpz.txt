@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 analytics.freiraumakustik.de CNAME .
+auszeichnungen.pokale-nrw.de CNAME .
 bmkt.bernhardtmoden.de CNAME .
 click.easycosmetic.at CNAME .
 click.easycosmetic.be CNAME .
@@ -72,7 +73,9 @@ track.karlstorz.com CNAME .
 track.richtig-schaerfen.de CNAME .
 track.thegundogaffair.com CNAME .
 tracker.bkk24.de CNAME .
+tracking.ostsee-resort-dampland.de CNAME .
 wa.ostermann.eu CNAME .
+wctr.kunststoff-schachtabdeckungen.com CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcontr.bet-at-home.com CNAME .

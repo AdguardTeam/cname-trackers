@@ -15,6 +15,7 @@ data-007f9d19c8.sbz-monteur.de
 data-00c4a5bd11.rockland.fm
 data-00db6fbb05.yachtrevue.at
 data-0142dcfbcf.yacht.de
+data-016ae3225f.baugewerbe-magazin.de
 data-0186141170.apps.iocnt.de
 data-019a21151c.apps.iocnt.de
 data-01a19c0522.apps.iocnt.de
@@ -189,6 +190,7 @@ data-16d7ec9a30.wn-gruesse.de
 data-16d7ec9a30.wn-immo.de
 data-16d7ec9a30.wn-jobs.de
 data-16d7ec9a30.wn-net.de
+data-16d7ec9a30.wn-online.de
 data-16d7ec9a30.wn-trauer.de
 data-16d7ec9a30.wn.de
 data-16d7ec9a30.zeitungsgruppe-muenster.de
@@ -919,6 +921,7 @@ data-62e93c650b.entdeckertag.de
 data-62e93c650b.hannover.de
 data-62e93c650b.landheime.de
 data-62e93c650b.visit-hannover.com
+data-62e93c650b.visit-niedersachsen.de
 data-63015eaef7.apps.iocnt.de
 data-6314dfb442.chip.de
 data-6314dfb442.focus.de
@@ -1086,6 +1089,7 @@ data-75671117cf.radiowaf.de
 data-75671117cf.radiowafhilft.de
 data-75adc1b92b.fleischerei.de
 data-7609d780e9.apps.iocnt.de
+data-7613d707d4.enbausa.de
 data-767a8be759.berliner-kurier.de
 data-770ef2669c.egovernment.de
 data-7723a9baa7.internetworld.at
@@ -1267,6 +1271,7 @@ data-8d5185014c.apps.iocnt.de
 data-8d9711db79.gusto.at
 data-8dfcf84b38.rundschau-online.de
 data-8dffad7d98.photovoltaik.eu
+data-8e0cc612e5.lighting-jobs.de
 data-8e96b6cfc5.gelbeseiten.de
 data-8ec1348702.apps.iocnt.de
 data-8ec206415a.dnb.de
@@ -1529,6 +1534,7 @@ data-a842dac709.apps.iocnt.de
 data-a85b10211f.rhein-neckar-zeitung.com
 data-a85b10211f.rhein-neckar-zeitung.de
 data-a85b10211f.rhein-neckar-zeitung.net
+data-a85b10211f.rhein-neckar-zeitung.org
 data-a85b10211f.rnz.de
 data-a85b10211f.rnz.info
 data-a90e364910.rga.de
@@ -1700,6 +1706,7 @@ data-babf36a332.apps.iocnt.de
 data-bae5a0a55a.apps.iocnt.de
 data-bb21a2f11b.bild.de
 data-bb21a2f11b.bz-berlin.de
+data-bb21a2f11b.fitbook-magazine.com
 data-bb21a2f11b.fitbook.de
 data-bb21a2f11b.myhomebook.de
 data-bb21a2f11b.petbook-magazine.com
@@ -1708,6 +1715,7 @@ data-bb21a2f11b.sportbild.de
 data-bb21a2f11b.stylebook.de
 data-bb21a2f11b.techbook-magazine.com
 data-bb21a2f11b.techbook.de
+data-bb21a2f11b.travelbook-magazine.com
 data-bb21a2f11b.travelbook.de
 data-bb4ada6163.travelbook.de
 data-bc153aec3e.addradio.de
@@ -1856,6 +1864,7 @@ data-cc21ca250f.apps.iocnt.de
 data-ccadb8b6f3.apps.iocnt.de
 data-ccea961373.dach-holzbau.de
 data-cd0b4bd19f.auto-motor-und-sport.de
+data-cd0b4bd19f.mehr-tanken.de
 data-cd0b4bd19f.webauto.de
 data-cd3f2f9c0c.radiobielefeld.de
 data-cd863d9507.capital.de
@@ -1876,6 +1885,7 @@ data-ce964ae059.guterrat.de
 data-cedbf1e823.apps.iocnt.de
 data-cf38608471.de24live.de
 data-cf521b4223.op-marburg.de
+data-cf56e4da9b.1000ps.de
 data-cf56e4da9b.motorradonline.de
 data-cf8fd9b799.heizungsjournal.de
 data-cf8fd9b799.integrale-planung.net
@@ -1944,6 +1954,7 @@ data-d7dfad490d.feldkirch.com
 data-d815104c6c.dastelefonbuch.de
 data-d815104c6c.it2media.de
 data-d815104c6c.telefonbuch.de
+data-d858e7585b.jobs26.de
 data-d858e7585b.lokal26.de
 data-d85ba30209.solidbau.at
 data-d88bd5abf8.die-glocke.de
@@ -2120,7 +2131,6 @@ data-ee807be806.radiomuelheim.de
 data-ee807be806.radiooberhausen.de
 data-ee807be806.radiosauerland.de
 data-ee807be806.trauer.de
-data-eea926926e.connect-channel.de
 data-ef2b66d556.miss.at
 data-ef2df4302f.baumagazin-online.de
 data-ef3fcaa7e9.0rtl.de
@@ -2282,6 +2292,7 @@ data-f59db3288b.heidelberg24.de
 data-f59db3288b.herbstfest-rosenheim.de
 data-f59db3288b.hersfelder-zeitung.de
 data-f59db3288b.hna.de
+data-f59db3288b.idcdn.de
 data-f59db3288b.in-muenchen.de
 data-f59db3288b.ingame.de
 data-f59db3288b.inn-salzach24.tv
@@ -2354,6 +2365,7 @@ data-fa3432c50a.ingolstadt-today.de
 data-fa59f9f6b5.capitol-kornwestheim.de
 data-fa59f9f6b5.cincinnati-muenchen.de
 data-fa59f9f6b5.cinema-badsaarow.de
+data-fa59f9f6b5.cinema-prerow.de
 data-fa59f9f6b5.cineworld-luenen.de
 data-fa59f9f6b5.cinexx.de
 data-fa59f9f6b5.cityshowbuehne.de
@@ -2363,11 +2375,13 @@ data-fa59f9f6b5.filmtheater-zwiesel.de
 data-fa59f9f6b5.groebenlichtspiele.de
 data-fa59f9f6b5.kino-bad-salzuflen.de
 data-fa59f9f6b5.kino-oelde.de
+data-fa59f9f6b5.kino-wolfhagen.de
 data-fa59f9f6b5.kinokorbach.de
 data-fa59f9f6b5.kronberger-lichtspiele.de
 data-fa59f9f6b5.kuki-landau.de
 data-fa59f9f6b5.kulturhaus-pritzwalk.de
 data-fa59f9f6b5.lichtspiele-grosshabersdorf.de
+data-fa59f9f6b5.liliservicekino.de
 data-fa59f9f6b5.saarfilm.net
 data-fa59f9f6b5.uc-kino-ruegen.de
 data-fa59f9f6b5.wied-scala.de
@@ -2443,7 +2457,6 @@ data-ff5b197ecc.traceparts.com
 data-ff6ba35ab1.cash-online.de
 data-ff95894520.apps.iocnt.de
 data-nl.computer-automation.de
-data-nl.connect-channel.de
 data-nl.connect-professional.de
 data-nl.deutsche-apotheker-zeitung.de
 data-nl.elektroniknet.de

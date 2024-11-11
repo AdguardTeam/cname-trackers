@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -288,6 +288,8 @@ web.e.pvccladding.com CNAME .
 web.e.soakaways.com CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.mishimoto.co.uk CNAME .
+web.email.mishimoto.com CNAME .
+web.email.mishimoto.eu CNAME .
 web.email.pizzaexpress.com CNAME .
 web.email.superga.co.uk CNAME .
 web.email.topfarmacia.it CNAME .
@@ -379,6 +381,7 @@ web.tummytox.fr CNAME .
 web.tummytox.it CNAME .
 web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .
+web.updates.ditano.com CNAME .
 web.usautosupply.com CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .

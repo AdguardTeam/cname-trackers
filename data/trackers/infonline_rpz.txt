@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ data-007f9d19c8.sbz-monteur.de CNAME .
 data-00c4a5bd11.rockland.fm CNAME .
 data-00db6fbb05.yachtrevue.at CNAME .
 data-0142dcfbcf.yacht.de CNAME .
+data-016ae3225f.baugewerbe-magazin.de CNAME .
 data-0186141170.apps.iocnt.de CNAME .
 data-019a21151c.apps.iocnt.de CNAME .
 data-01a19c0522.apps.iocnt.de CNAME .
@@ -200,6 +201,7 @@ data-16d7ec9a30.wn-gruesse.de CNAME .
 data-16d7ec9a30.wn-immo.de CNAME .
 data-16d7ec9a30.wn-jobs.de CNAME .
 data-16d7ec9a30.wn-net.de CNAME .
+data-16d7ec9a30.wn-online.de CNAME .
 data-16d7ec9a30.wn-trauer.de CNAME .
 data-16d7ec9a30.wn.de CNAME .
 data-16d7ec9a30.zeitungsgruppe-muenster.de CNAME .
@@ -930,6 +932,7 @@ data-62e93c650b.entdeckertag.de CNAME .
 data-62e93c650b.hannover.de CNAME .
 data-62e93c650b.landheime.de CNAME .
 data-62e93c650b.visit-hannover.com CNAME .
+data-62e93c650b.visit-niedersachsen.de CNAME .
 data-63015eaef7.apps.iocnt.de CNAME .
 data-6314dfb442.chip.de CNAME .
 data-6314dfb442.focus.de CNAME .
@@ -1097,6 +1100,7 @@ data-75671117cf.radiowaf.de CNAME .
 data-75671117cf.radiowafhilft.de CNAME .
 data-75adc1b92b.fleischerei.de CNAME .
 data-7609d780e9.apps.iocnt.de CNAME .
+data-7613d707d4.enbausa.de CNAME .
 data-767a8be759.berliner-kurier.de CNAME .
 data-770ef2669c.egovernment.de CNAME .
 data-7723a9baa7.internetworld.at CNAME .
@@ -1278,6 +1282,7 @@ data-8d5185014c.apps.iocnt.de CNAME .
 data-8d9711db79.gusto.at CNAME .
 data-8dfcf84b38.rundschau-online.de CNAME .
 data-8dffad7d98.photovoltaik.eu CNAME .
+data-8e0cc612e5.lighting-jobs.de CNAME .
 data-8e96b6cfc5.gelbeseiten.de CNAME .
 data-8ec1348702.apps.iocnt.de CNAME .
 data-8ec206415a.dnb.de CNAME .
@@ -1540,6 +1545,7 @@ data-a842dac709.apps.iocnt.de CNAME .
 data-a85b10211f.rhein-neckar-zeitung.com CNAME .
 data-a85b10211f.rhein-neckar-zeitung.de CNAME .
 data-a85b10211f.rhein-neckar-zeitung.net CNAME .
+data-a85b10211f.rhein-neckar-zeitung.org CNAME .
 data-a85b10211f.rnz.de CNAME .
 data-a85b10211f.rnz.info CNAME .
 data-a90e364910.rga.de CNAME .
@@ -1711,6 +1717,7 @@ data-babf36a332.apps.iocnt.de CNAME .
 data-bae5a0a55a.apps.iocnt.de CNAME .
 data-bb21a2f11b.bild.de CNAME .
 data-bb21a2f11b.bz-berlin.de CNAME .
+data-bb21a2f11b.fitbook-magazine.com CNAME .
 data-bb21a2f11b.fitbook.de CNAME .
 data-bb21a2f11b.myhomebook.de CNAME .
 data-bb21a2f11b.petbook-magazine.com CNAME .
@@ -1719,6 +1726,7 @@ data-bb21a2f11b.sportbild.de CNAME .
 data-bb21a2f11b.stylebook.de CNAME .
 data-bb21a2f11b.techbook-magazine.com CNAME .
 data-bb21a2f11b.techbook.de CNAME .
+data-bb21a2f11b.travelbook-magazine.com CNAME .
 data-bb21a2f11b.travelbook.de CNAME .
 data-bb4ada6163.travelbook.de CNAME .
 data-bc153aec3e.addradio.de CNAME .
@@ -1867,6 +1875,7 @@ data-cc21ca250f.apps.iocnt.de CNAME .
 data-ccadb8b6f3.apps.iocnt.de CNAME .
 data-ccea961373.dach-holzbau.de CNAME .
 data-cd0b4bd19f.auto-motor-und-sport.de CNAME .
+data-cd0b4bd19f.mehr-tanken.de CNAME .
 data-cd0b4bd19f.webauto.de CNAME .
 data-cd3f2f9c0c.radiobielefeld.de CNAME .
 data-cd863d9507.capital.de CNAME .
@@ -1887,6 +1896,7 @@ data-ce964ae059.guterrat.de CNAME .
 data-cedbf1e823.apps.iocnt.de CNAME .
 data-cf38608471.de24live.de CNAME .
 data-cf521b4223.op-marburg.de CNAME .
+data-cf56e4da9b.1000ps.de CNAME .
 data-cf56e4da9b.motorradonline.de CNAME .
 data-cf8fd9b799.heizungsjournal.de CNAME .
 data-cf8fd9b799.integrale-planung.net CNAME .
@@ -1955,6 +1965,7 @@ data-d7dfad490d.feldkirch.com CNAME .
 data-d815104c6c.dastelefonbuch.de CNAME .
 data-d815104c6c.it2media.de CNAME .
 data-d815104c6c.telefonbuch.de CNAME .
+data-d858e7585b.jobs26.de CNAME .
 data-d858e7585b.lokal26.de CNAME .
 data-d85ba30209.solidbau.at CNAME .
 data-d88bd5abf8.die-glocke.de CNAME .
@@ -2131,7 +2142,6 @@ data-ee807be806.radiomuelheim.de CNAME .
 data-ee807be806.radiooberhausen.de CNAME .
 data-ee807be806.radiosauerland.de CNAME .
 data-ee807be806.trauer.de CNAME .
-data-eea926926e.connect-channel.de CNAME .
 data-ef2b66d556.miss.at CNAME .
 data-ef2df4302f.baumagazin-online.de CNAME .
 data-ef3fcaa7e9.0rtl.de CNAME .
@@ -2293,6 +2303,7 @@ data-f59db3288b.heidelberg24.de CNAME .
 data-f59db3288b.herbstfest-rosenheim.de CNAME .
 data-f59db3288b.hersfelder-zeitung.de CNAME .
 data-f59db3288b.hna.de CNAME .
+data-f59db3288b.idcdn.de CNAME .
 data-f59db3288b.in-muenchen.de CNAME .
 data-f59db3288b.ingame.de CNAME .
 data-f59db3288b.inn-salzach24.tv CNAME .
@@ -2365,6 +2376,7 @@ data-fa3432c50a.ingolstadt-today.de CNAME .
 data-fa59f9f6b5.capitol-kornwestheim.de CNAME .
 data-fa59f9f6b5.cincinnati-muenchen.de CNAME .
 data-fa59f9f6b5.cinema-badsaarow.de CNAME .
+data-fa59f9f6b5.cinema-prerow.de CNAME .
 data-fa59f9f6b5.cineworld-luenen.de CNAME .
 data-fa59f9f6b5.cinexx.de CNAME .
 data-fa59f9f6b5.cityshowbuehne.de CNAME .
@@ -2374,11 +2386,13 @@ data-fa59f9f6b5.filmtheater-zwiesel.de CNAME .
 data-fa59f9f6b5.groebenlichtspiele.de CNAME .
 data-fa59f9f6b5.kino-bad-salzuflen.de CNAME .
 data-fa59f9f6b5.kino-oelde.de CNAME .
+data-fa59f9f6b5.kino-wolfhagen.de CNAME .
 data-fa59f9f6b5.kinokorbach.de CNAME .
 data-fa59f9f6b5.kronberger-lichtspiele.de CNAME .
 data-fa59f9f6b5.kuki-landau.de CNAME .
 data-fa59f9f6b5.kulturhaus-pritzwalk.de CNAME .
 data-fa59f9f6b5.lichtspiele-grosshabersdorf.de CNAME .
+data-fa59f9f6b5.liliservicekino.de CNAME .
 data-fa59f9f6b5.saarfilm.net CNAME .
 data-fa59f9f6b5.uc-kino-ruegen.de CNAME .
 data-fa59f9f6b5.wied-scala.de CNAME .
@@ -2454,7 +2468,6 @@ data-ff5b197ecc.traceparts.com CNAME .
 data-ff6ba35ab1.cash-online.de CNAME .
 data-ff95894520.apps.iocnt.de CNAME .
 data-nl.computer-automation.de CNAME .
-data-nl.connect-channel.de CNAME .
 data-nl.connect-professional.de CNAME .
 data-nl.deutsche-apotheker-zeitung.de CNAME .
 data-nl.elektroniknet.de CNAME .

@@ -70,6 +70,7 @@
     * h-47blm1l4.online-metrix.net
     * h-47z24dz9.online-metrix.net
     * h-4hq91r5k.online-metrix.net
+    * h-4izfn6dr.online-metrix.net
     * h-4nyhdbu2.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ruz3ugq2.online-metrix.net
@@ -167,6 +168,7 @@
     * h-9zzsit89.online-metrix.net
     * h-a4nx1etl.online-metrix.net
     * h-a4s32zk0.online-metrix.net
+    * h-a5j4qgb0.online-metrix.net
     * h-a9ndqgz3.online-metrix.net
     * h-a9vkgbg7-2.online-metrix.net
     * h-a9vkgbg7.online-metrix.net
@@ -189,6 +191,7 @@
     * h-allstate.online-metrix.net
     * h-alterna.online-metrix.net
     * h-ameriprise.online-metrix.net
+    * h-ameskrdi.online-metrix.net
     * h-amount.online-metrix.net
     * h-amwager.online-metrix.net
     * h-anai49qi.online-metrix.net
@@ -782,7 +785,6 @@
 | content-tix.topi.eu | h-1020poof.online-metrix.net |
 | aucrdtfrd.revolut.codes | h-107yrgnw.online-metrix.net |
 | aucrdtfrd.revolut.com | h-107yrgnw.online-metrix.net |
-| tmx.revolut.codes | h-107yrgnw.online-metrix.net |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
 | partition.enterprise.com | h-10mkgm4b.online-metrix.net |
 | content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
@@ -845,6 +847,7 @@
 | prod-sfcupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sfcutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sperofin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-statedept.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-tapco.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-travis.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-tvfcuwy.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -925,6 +928,7 @@
 | content002.bet365.nl | h-47z24dz9.online-metrix.net |
 | content002.bet365.pe | h-47z24dz9.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
+| identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | onoutput.com | h-4nyhdbu2.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | dep.gambit29.gameassists.co.uk | h-4ruz3ugq2.online-metrix.net |
@@ -1111,6 +1115,7 @@
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
 | content.rias.co.uk | h-a4s32zk0.online-metrix.net |
+| ebcontent.mcbankny.com | h-a5j4qgb0.online-metrix.net |
 | fms.perahub.com.ph | h-a9ndqgz3.online-metrix.net |
 | tcontent.auchantelecom.fr | h-a9vkgbg7-2.online-metrix.net |
 | tcontent.nrjmobile.fr | h-a9vkgbg7.online-metrix.net |
@@ -1138,6 +1143,7 @@
 | content.alterna.ca | h-alterna.online-metrix.net |
 | content.alternabank.ca | h-alterna.online-metrix.net |
 | ocs.ameriprise.com | h-ameriprise.online-metrix.net |
+| app.saldodipje.nl | h-ameskrdi.online-metrix.net |
 | im2.prod.amount.com | h-amount.online-metrix.net |
 | intm.amwager.com | h-amwager.online-metrix.net |
 | content.tfbank.at | h-anai49qi.online-metrix.net |
@@ -1290,7 +1296,6 @@
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | tcontent.cdiscountmobile.cdiscount.com | h-cdcmobile.online-metrix.net |
-| imagesmx.cdiscountpro.com | h-cdiscount.online-metrix.net |
 | imagesmx.cdscdn.com | h-cdiscount.online-metrix.net |
 | fp.cdn-scripts.com | h-cdn-scripts.online-metrix.net |
 | cdn.coastcapitalsavings.com | h-cdn.coastcapitalsavings.online-metrix.net |

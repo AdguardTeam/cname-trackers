@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ shortener.np6.com CNAME .
 sms.gestion.cetelem.fr CNAME .
 sms.news.allopneus.com CNAME .
 t8.mailperformance.com CNAME .
+tr.3ou4xcb.cetelem.fr CNAME .
 tr.aasi.espmp-agfr.net CNAME .
 tr.abo.cotemaison.fr CNAME .
 tr.account.np6.com CNAME .
@@ -597,6 +598,7 @@ tr.ltbu02o.espmp-agfr.net CNAME .
 tr.lvmhappening.lvmh.fr CNAME .
 tr.m.cwisas.com CNAME .
 tr.macarte.truffaut.com CNAME .
+tr.made.faure-u.com CNAME .
 tr.mail-companeo.fr CNAME .
 tr.mail.cdiscount.com.ec CNAME .
 tr.mail.cdiscount.com.pa CNAME .
@@ -740,6 +742,7 @@ tr.news.corsicalinea.com CNAME .
 tr.news.cotemaison.fr CNAME .
 tr.news.cporadio.tv CNAME .
 tr.news.crystal-partenaires.com CNAME .
+tr.news.delifrance.com CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
 tr.news.deshotelsetdesiles.com CNAME .
 tr.news.devisdirect.be CNAME .
@@ -753,7 +756,6 @@ tr.news.easyviajar.com CNAME .
 tr.news.easyvoyage.co.uk CNAME .
 tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
-tr.news.economic-studies.fr CNAME .
 tr.news.editions-lva.fr CNAME .
 tr.news.ekosport-rent.fr CNAME .
 tr.news.enkiapp.io CNAME .
@@ -868,6 +870,7 @@ tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
 tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
+tr.newsletter-mdh.com CNAME .
 tr.newsletter-stressless.com CNAME .
 tr.newsletter.10h01.fr CNAME .
 tr.newsletter.1664france.fr CNAME .
@@ -1016,6 +1019,7 @@ tr.relation.uneo.fr CNAME .
 tr.renowizze.be CNAME .
 tr.republicains-info.org CNAME .
 tr.rh.auchan.com CNAME .
+tr.rnrmc.org.uk CNAME .
 tr.route-solutiondata.fr CNAME .
 tr.roxi02e.espmp-agfr.net CNAME .
 tr.safrancom-esp.net CNAME .
@@ -1024,6 +1028,7 @@ tr.sash02g.espmp-nifr.net CNAME .
 tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.satisfaction.villagesnature.com CNAME .
+tr.schj.espmp-aufr.net CNAME .
 tr.scienceshumaines.info CNAME .
 tr.scienceshumaines.pro CNAME .
 tr.seat-fs-email.fr CNAME .
@@ -1094,8 +1099,10 @@ tr.urfk03x.espmp-agfr.net CNAME .
 tr.urfk041.espmp-cufr.net CNAME .
 tr.urfk042.espmp-nifr.net CNAME .
 tr.urfk044.espmp-nifr.net CNAME .
+tr.urfk04h.espmp-nifr.net CNAME .
 tr.urfk050.espmp-cufr.net CNAME .
 tr.urfk052.espmp-cufr.net CNAME .
+tr.urfk053.espmp-aufr.net CNAME .
 tr.urfk057.espmp-aufr.net CNAME .
 tr.urfk05g.espmp-agfr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .
@@ -1103,6 +1110,7 @@ tr.urfk05o.espmp-pofr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .
 tr.urfk06n.espmp-nifr.net CNAME .
 tr.urfk06o.espmp-agfr.net CNAME .
+tr.urfk06v.espmp-aufr.net CNAME .
 tr.urfk06x.espmp-cufr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
 tr.urfk07j.espmp-nifr.net CNAME .
@@ -1155,7 +1163,6 @@ tr1.mailperf.com CNAME .
 tr1.mailperformance.com CNAME .
 tr1.mperf.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
-tr1.psa-surveys.com CNAME .
 tr4.mailperf.com CNAME .
 tr5.mailperf.com CNAME .
 tr5.mperf.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -93,6 +93,7 @@ tk.blancheporte.be CNAME .
 tk.blancheporte.fr CNAME .
 tk.boutique.capital.fr CNAME .
 tk.boutique.geo.fr CNAME .
+tk.boutique.hbrfrance.fr CNAME .
 tk.boutique.voici.fr CNAME .
 tk.bricoprive.com CNAME .
 tk.bullebleue.fr CNAME .
@@ -127,7 +128,6 @@ tk.jeux.loro.ch CNAME .
 tk.jim-joe.fr CNAME .
 tk.kidsaround.com CNAME .
 tk.kitchendiet.fr CNAME .
-tk.klm.com CNAME .
 tk.kusmitea.com CNAME .
 tk.lacoste.com CNAME .
 tk.lamaisonduchocolat.com CNAME .

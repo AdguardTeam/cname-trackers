@@ -82,6 +82,7 @@
     * platformiq-del.aquaplatform.com
     * portwest-delivery.aquaplatform.com
     * postandparcel-delivery.aquaplatform.com
+    * postandparcel-static.aquaplatform.com
     * proxibid-delivery.aquaplatform.com
     * proxibid-static.aquaplatform.com
     * ptp-delivery.aquaplatform.com
@@ -115,6 +116,7 @@
 | console.informingnews.com | adaptigo-console.aquaplatform.com |
 | by.addrecipes.com | adaptigo-delivery.aquaplatform.com |
 | by.adxt.com | adaptigo-delivery.aquaplatform.com |
+| cdn.conservativestar.com | adaptigo-static.aquaplatform.com |
 | cdn.headlinesmart.com | adaptigo-static.aquaplatform.com |
 | www.api.adbility-media.com | adbility-api.aquaplatform.com |
 | console.adbility-media.com | adbility-console.aquaplatform.com |
@@ -192,6 +194,7 @@
 | console.livingmagonline.com | livingmag-console.aquaplatform.com |
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
+| www.static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
 | console.mannixmarketing.com | mannix-console.aquaplatform.com |
@@ -214,6 +217,7 @@
 | servedby.imagineobx.com | oneboat-delivery.aquaplatform.com |
 | servedby.tahoe.com | oneboat-delivery.aquaplatform.com |
 | static.everythingcolorado.com | oneboat-static.aquaplatform.com |
+| static.everythingnevada.com | oneboat-static.aquaplatform.com |
 | www.static.imagineobx.com | oneboat-static.aquaplatform.com |
 | console.adspmg.com | pamplin-console.aquaplatform.com |
 | cdn.adspmg.com | pamplin-static.aquaplatform.com |
@@ -242,6 +246,7 @@
 | xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.portwest.com | portwest-delivery.aquaplatform.com |
 | ads.postandparcel.info | postandparcel-delivery.aquaplatform.com |
+| static.postandparcel.info | postandparcel-static.aquaplatform.com |
 | ads.bidspotter.co.uk | proxibid-delivery.aquaplatform.com |
 | ads.i-bidder.com | proxibid-delivery.aquaplatform.com |
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |
@@ -262,6 +267,7 @@
 | adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | servedby.cricketworld.com | revivehosted-delivery.aquaplatform.com |
 | servedby.revive-adserver.net | revivehosted-delivery.aquaplatform.com |
+| www.adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | adimages.eva.live | revivehosted-static.aquaplatform.com |
 | adimages.sniffies.com | revivehosted-static.aquaplatform.com |
 | cdn.revive-adserver.net | revivehosted-static.aquaplatform.com |

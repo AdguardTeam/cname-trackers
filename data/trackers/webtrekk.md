@@ -92,6 +92,7 @@
     * 378118469332445.wt-eu02.net
     * 390993738581837.wt-eu02.net
     * 412666916963576.wt-eu02.net
+    * 417596326564824.wt-eu02.net
     * 419688409688487.wt-eu02.net
     * 425083143959940.wt-eu02.net
     * 425587064188106.wt-eu02.net
@@ -327,6 +328,7 @@
 | web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
 | website-usage.b2bendix.com | 390993738581837.wt-eu02.net |
 | mff.messefrankfurt.com | 412666916963576.wt-eu02.net |
+| web.updates.ditano.com | 417596326564824.wt-eu02.net |
 | info.klett-international.com | 419688409688487.wt-eu02.net |
 | startrekk.flaconi.nl | 425083143959940.wt-eu02.net |
 | web.news.piquadro.com | 425587064188106.wt-eu02.net |
@@ -437,6 +439,8 @@
 | trk.nuernberger.de | 887450638197118.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | web.email.mishimoto.co.uk | 902786519867551.wt-eu02.net |
+| web.email.mishimoto.com | 902786519867551.wt-eu02.net |
+| web.email.mishimoto.eu | 902786519867551.wt-eu02.net |
 | info.derdiedaf.com | 911505776570324.wt-eu02.net |
 | web.newsletterit.esprinet.com | 913761141602487.wt-eu02.net |
 | joda.corriereadriatico.it | 927615140575951.wt-eu02.net |

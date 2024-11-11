@@ -633,6 +633,7 @@ stats.mesenvies.fr
 stats.metamorphium.com
 stats.michaeloliver.dev
 stats.micv.works
+stats.mindhive.ca
 stats.missionmet.com
 stats.missionrabies.com
 stats.moco-comics.com
@@ -653,6 +654,7 @@ stats.newslit.co
 stats.nexagon.dk
 stats.niceshitforbitcoiners.com
 stats.nodewood.com
+stats.noeticflow.com
 stats.nonprofit.foundation
 stats.nothingbutnylon.com
 stats.nullsecure.com
@@ -673,6 +675,7 @@ stats.outpostdemo.com
 stats.ownpath.xyz
 stats.owre.se
 stats.p42.ai
+stats.paramountperformance.net
 stats.parqet.com
 stats.parrot.dev
 stats.passwordyeti.com
@@ -707,6 +710,7 @@ stats.preeventualist.org
 stats.pri.org
 stats.pricewell.io
 stats.principedepaz.gt
+stats.print-io.de
 stats.print.work
 stats.processserver101.com
 stats.procumeni.cz

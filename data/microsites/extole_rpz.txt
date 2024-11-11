@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -53,6 +53,7 @@ refer.dna.ancestry.co.uk CNAME .
 refer.dna.ancestry.com CNAME .
 refer.dnj.com CNAME .
 refer.fivestars.com CNAME .
+refer.foodkick.com CNAME .
 refer.freshly.com CNAME .
 refer.fuzebox.com CNAME .
 refer.gevalia.com CNAME .
@@ -381,6 +382,7 @@ refer.starfurniture.com CNAME .
 refer.steelseries.com CNAME .
 refer.stopandshop.com CNAME .
 refer.striderite.com CNAME .
+refer.styleitforwardreward.com CNAME .
 refer.sugarandjade.com CNAME .
 refer.sundancevacations.com CNAME .
 refer.swansonvitamins.com CNAME .
@@ -493,7 +495,9 @@ share.cellcom.ca CNAME .
 share.cheaperthandirt.com CNAME .
 share.cheaperthandirt.net CNAME .
 share.chewsidental.com CNAME .
+share.cincinnati.com CNAME .
 share.cityfurniture.com CNAME .
+share.clarionledger.com CNAME .
 share.cluballiance.aaa.com CNAME .
 share.coloradoan.com CNAME .
 share.columbiacu.org CNAME .
@@ -503,7 +507,6 @@ share.cosbar.com CNAME .
 share.couponcabin.com CNAME .
 share.courier-journal.com CNAME .
 share.courierpostonline.com CNAME .
-share.cox.com CNAME .
 share.credible.com CNAME .
 share.creditninja.com CNAME .
 share.cunard.com CNAME .
@@ -512,6 +515,7 @@ share.dailypay.com CNAME .
 share.darwinspet.com CNAME .
 share.delawareonline.com CNAME .
 share.desertfinancial.com CNAME .
+share.desertsun.com CNAME .
 share.desmoinesregister.com CNAME .
 share.detroitnews.com CNAME .
 share.discountschoolsupply.com CNAME .
@@ -552,6 +556,7 @@ share.greenvilleonline.com CNAME .
 share.gruntstyle.com CNAME .
 share.gxvebeauty.com CNAME .
 share.havenwellwithin.com CNAME .
+share.heydude.com CNAME .
 share.hicapitalize.com CNAME .
 share.hotwire.com CNAME .
 share.htrnews.com CNAME .
@@ -619,6 +624,7 @@ share.perfectgift.com CNAME .
 share.petsbest.com CNAME .
 share.pnj.com CNAME .
 share.policygenius.com CNAME .
+share.postcrescent.com CNAME .
 share.poughkeepsiejournal.com CNAME .
 share.pressconnects.com CNAME .
 share.princess.com CNAME .

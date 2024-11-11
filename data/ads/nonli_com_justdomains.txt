@@ -13,6 +13,7 @@ go.solidworks.com
 in.h24.news
 it.h24.news
 l.20minutes.fr
+l.750g.com
 l.actu.fr
 l.africabusinessplus.com
 l.allocine.fr
@@ -26,6 +27,7 @@ l.beaute-test.com
 l.beauxarts.com
 l.bfmtv.com
 l.bibamagazine.fr
+l.blissim.fr
 l.caminteresse.fr
 l.capital.fr
 l.centre-presse.fr
@@ -53,6 +55,7 @@ l.franceinter.fr
 l.francemusique.fr
 l.frandroid.com
 l.gala.fr
+l.gamekult.com
 l.gentside.com
 l.gentside.de
 l.geo.fr
@@ -90,6 +93,7 @@ l.mediapart.fr
 l.melty.fr
 l.midilibre.fr
 l.monacomatin.mc
+l.mouv.fr
 l.mprovence.com
 l.netmums.com
 l.nextplz.fr

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -326,6 +326,7 @@ pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .
 pulse.wyndhamhotels.com CNAME .
 secureanalytics.carecredit.com CNAME .
+secureanalytics.mysynchrony.com CNAME .
 secureanalytics.syf.com CNAME .
 secureanalytics.synchrony.com CNAME .
 secureanalytics.synchronybank.com CNAME .

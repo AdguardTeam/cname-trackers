@@ -1,6 +1,7 @@
 #
 # Company name: Etracker
 analytics.freiraumakustik.de
+auszeichnungen.pokale-nrw.de
 bmkt.bernhardtmoden.de
 click.easycosmetic.at
 click.easycosmetic.be
@@ -61,7 +62,9 @@ track.karlstorz.com
 track.richtig-schaerfen.de
 track.thegundogaffair.com
 tracker.bkk24.de
+tracking.ostsee-resort-dampland.de
 wa.ostermann.eu
+wctr.kunststoff-schachtabdeckungen.com
 webanalytics.pwc.fr
 webaus.dw-shop.de
 webcontr.bet-at-home.com

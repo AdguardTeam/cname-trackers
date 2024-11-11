@@ -158,6 +158,7 @@ affiliate.fotopasti-bunaty.cz
 affiliate.gaymegastore.cz
 affiliate.gaymegastore.eu
 affiliate.geoweb.easy.cz
+affiliate.gilitickets.online
 affiliate.golfplan.org
 affiliate.growmarket.cz
 affiliate.hamham.cz
@@ -222,7 +223,6 @@ affiliate.pasti.cz
 affiliate.pesvbyte.cz
 affiliate.petr-zeman.cz
 affiliate.ph7.cz
-affiliate.pietro-filipi.com
 affiliate.plutoscompany.sk
 affiliate.polti.cz
 affiliate.portu.cz
@@ -439,7 +439,6 @@ partner.aerium.sk
 partner.aeriumshop.nl
 partner.affilbox.com
 partner.affiliateark.com
-partner.affilnet.cz
 partner.alesio.cz
 partner.amonit.sk
 partner.amonitsro.sk
@@ -905,7 +904,6 @@ partners.almaf.cz
 partners.bonyacademy.com
 partners.duckferries.com
 partners.elitecoaching.cz
-partners.lawofattraction.cz
 partners.oktagon.tv
 partners.pocitarna.cz
 partners.puravidashop.cz

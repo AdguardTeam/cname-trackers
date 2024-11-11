@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -235,9 +235,9 @@ ebis.jukkou.com CNAME .
 ebis.kan54.jp CNAME .
 ebis.kimonoichiba.com CNAME .
 ebis.kubara.jp CNAME .
-ebis.lululun.com CNAME .
 ebis.macchialabel.com CNAME .
 ebis.makeshop.jp CNAME .
+ebis.mamayaku.com CNAME .
 ebis.mucuna.co.jp CNAME .
 ebis.n-pri.jp CNAME .
 ebis.nomu-silica.jp CNAME .
@@ -301,9 +301,9 @@ mcad.mods-clinic.com CNAME .
 mcad.mods-clinic.info CNAME .
 mcad.modsclinic-osaka.com CNAME .
 mdm.hibinobi-mandom.jp CNAME .
+media.geinoschool-hikaku.com CNAME .
 media.geinoschool-hikaku.net CNAME .
 mgn.ebis.xn--olsz5f0ufw02b.net CNAME .
-msr.p-antiaging.com CNAME .
 ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .
 p5mcwdbu.ginzo-buy.jp CNAME .

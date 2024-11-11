@@ -63,6 +63,7 @@
 | utiq.computerfrage.net | frontend.prod.utiq-aws.net |
 | utiq.courrier-picard.fr | frontend.prod.utiq-aws.net |
 | utiq.cuisineactuelle.fr | frontend.prod.utiq-aws.net |
+| utiq.dacia.fr | frontend.prod.utiq-aws.net |
 | utiq.dasgelbeblatt.de | frontend.prod.utiq-aws.net |
 | utiq.desired.de | frontend.prod.utiq-aws.net |
 | utiq.diariocordoba.com | frontend.prod.utiq-aws.net |
@@ -150,6 +151,7 @@
 | utiq.laopiniondezamora.es | frontend.prod.utiq-aws.net |
 | utiq.laprovincia.es | frontend.prod.utiq-aws.net |
 | utiq.lardennais.fr | frontend.prod.utiq-aws.net |
+| utiq.larepubliquedespyrenees.fr | frontend.prod.utiq-aws.net |
 | utiq.larioja.com | frontend.prod.utiq-aws.net |
 | utiq.lasprovincias.es | frontend.prod.utiq-aws.net |
 | utiq.laverdad.es | frontend.prod.utiq-aws.net |
@@ -211,6 +213,7 @@
 | utiq.purepeople.com | frontend.prod.utiq-aws.net |
 | utiq.regio7.cat | frontend.prod.utiq-aws.net |
 | utiq.renault.fr | frontend.prod.utiq-aws.net |
+| utiq.renew.auto | frontend.prod.utiq-aws.net |
 | utiq.rireetchansons.fr | frontend.prod.utiq-aws.net |
 | utiq.rmcbfmplay.com | frontend.prod.utiq-aws.net |
 | utiq.salamancahoy.es | frontend.prod.utiq-aws.net |
@@ -263,6 +266,7 @@
 | utiq.xatakahome.com | frontend.prod.utiq-aws.net |
 | utiq.xatakamovil.com | frontend.prod.utiq-aws.net |
 | utiq.xatakandroid.com | frontend.prod.utiq-aws.net |
+| utiq.xatakawindows.com | frontend.prod.utiq-aws.net |
 | utiq.zdnet.fr | frontend.prod.utiq-aws.net |
 | vfes.mno.link | frontend.prod.utiq-aws.net |
 | orangefr-test.mno.link | frontend.test.utiq-aws.net |

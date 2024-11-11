@@ -31,12 +31,14 @@
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
     * huku.goatcounter.com
+    * isaacfreund.goatcounter.com
     * jakebailey.goatcounter.com
     * jam.goatcounter.com
     * jmmr-dev.goatcounter.com
     * johanneswienke.goatcounter.com
     * jojonas.goatcounter.com
     * jsq.goatcounter.com
+    * kc-ie.goatcounter.com
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
@@ -107,12 +109,14 @@
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | goat.huku.rocks | huku.goatcounter.com |
+| stats.isaacfreund.com | isaacfreund.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
 | stats.jamesgwyer.com | jam.goatcounter.com |
 | stats.jmmr.dev | jmmr-dev.goatcounter.com |
 | stats.johanneswienke.de | johanneswienke.goatcounter.com |
 | stats.jonaslieb.de | jojonas.goatcounter.com |
 | stats.jessesquires.com | jsq.goatcounter.com |
+| stats.kc.ie | kc-ie.goatcounter.com |
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |

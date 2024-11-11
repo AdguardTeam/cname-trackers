@@ -13,6 +13,7 @@
 | ---- | ---- |
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
+| l.blissim.fr | non.li |
 | l.heidi.news | non.li |
 | l.monacomatin.mc | non.li |
 | l.mprovence.com | non.li |
@@ -37,6 +38,7 @@
 | in.h24.news | tls.non.li |
 | it.h24.news | tls.non.li |
 | l.20minutes.fr | tls.non.li |
+| l.750g.com | tls.non.li |
 | l.actu.fr | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |
 | l.allocine.fr | tls.non.li |
@@ -76,6 +78,7 @@
 | l.francemusique.fr | tls.non.li |
 | l.frandroid.com | tls.non.li |
 | l.gala.fr | tls.non.li |
+| l.gamekult.com | tls.non.li |
 | l.gentside.com | tls.non.li |
 | l.gentside.de | tls.non.li |
 | l.geo.fr | tls.non.li |
@@ -110,6 +113,7 @@
 | l.mediapart.fr | tls.non.li |
 | l.melty.fr | tls.non.li |
 | l.midilibre.fr | tls.non.li |
+| l.mouv.fr | tls.non.li |
 | l.netmums.com | tls.non.li |
 | l.nextplz.fr | tls.non.li |
 | l.notretemps.com | tls.non.li |

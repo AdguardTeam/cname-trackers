@@ -72,6 +72,7 @@
 ||3178552.notifysrv.com^
 ||3178572.notifysrv.com^
 ||3178848.notifysrv.com^
+||3178930.notify6.com^
 ||3179416.notify6.com^
 ||3179416.notifysrv.com^
 ||3179552.notifysrv.com^
@@ -482,6 +483,7 @@
 ||3472323.notifysrv.com^
 ||3474937.notify6.com^
 ||3474937.notifysrv.com^
+||3475333.notify6.com^
 ||3475333.notifysrv.com^
 ||3475335.notify6.com^
 ||3475337.notifysrv.com^
@@ -578,6 +580,7 @@
 ||3557821.notifysrv.com^
 ||3562657.notifysrv.com^
 ||3562665.notify6.com^
+||3562667.notify6.com^
 ||3563549.notify6.com^
 ||3563551.notify6.com^
 ||3563551.notifysrv.com^
@@ -602,6 +605,7 @@
 ||3572277.notifysrv.com^
 ||3572279.notify6.com^
 ||3572281.notify6.com^
+||3572281.notifysrv.com^
 ||3572283.notifysrv.com^
 ||3572285.notifysrv.com^
 ||3572293.notifysrv.com^
@@ -1109,6 +1113,7 @@
 ||5276648.notify6.com^
 ||5296856.notify6.com^
 ||535.notify.optimizesrv.com^
+||5350536.notify6.com^
 ||5602.notify.optimizesrv.com^
 ||577.notify.optimizesrv.com^
 ||583.notify.optimizesrv.com^
@@ -1140,7 +1145,6 @@
 ||a.advertrek.com^
 ||a.asvsm.com^
 ||a.b7q9v8z.com^
-||a.bizonads-ssp.com^
 ||a.cant3am.com^
 ||a.etology.com^
 ||a.eunow4u.com^
@@ -1181,6 +1185,7 @@
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
 ||adrepository.opoxv.com^
+||ads.toroadvertising.com^
 ||adult.notifysrv.com^
 ||andy.notifysrv.com^
 ||answers.notifysrv.com^
@@ -1312,6 +1317,7 @@
 ||s.etology.com^
 ||s.eunow4u.com^
 ||s.exv6.com^
+||s.huklop.com^
 ||s.linkw2c.com^
 ||s.linkw2e.com^
 ||s.linkw2g.com^
@@ -1478,6 +1484,7 @@
 ||www.4065194.notify6.com^
 ||www.4065944.notify6.com^
 ||www.4069896.notify6.com^
+||www.4080560.notify6.com^
 ||www.4130286.notify6.com^
 ||www.4146994.notify6.com^
 ||www.4152316.notify6.com^
@@ -1493,4 +1500,5 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
+||a.bizonads-ssp.com^
 ||ads.optimizesrv.com^

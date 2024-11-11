@@ -75,6 +75,7 @@
 ||a8.de-limmo.jp^
 ||a8.denki-koji.work^
 ||a8.denki-tatsujin.com^
+||a8.denki.dokoyorimo.jp^
 ||a8.denwa-hikari.com^
 ||a8.denwa-kaisen.jp^
 ||a8.denwa-kanyuken.com^
@@ -245,6 +246,7 @@
 ||a8.princess-jp.com^
 ||a8.print-netsquare.com^
 ||a8.projectee.online^
+||a8.pykespeak.jp^
 ||a8.rank-quest.jp^
 ||a8.recmount-plus.com^
 ||a8.refasta.com^
@@ -611,6 +613,7 @@
 ||a8clk.point-land.net^
 ||a8clk.point-museum.com^
 ||a8clk.point-stadium.com^
+||a8clk.pollet.tech^
 ||a8clk.psd.jp^
 ||a8clk.purekon.jp^
 ||a8clk.qracian365.com^
@@ -657,6 +660,7 @@
 ||a8clk.starwifi.jp^
 ||a8clk.store.kadokawa.co.jp^
 ||a8clk.store.mago-ch.com^
+||a8clk.stst-used.com^
 ||a8clk.stylestore.jp^
 ||a8clk.suguchoku.jp^
 ||a8clk.sumafuri.jp^
@@ -765,6 +769,7 @@
 ||a8cv.all-plan.co.jp^
 ||a8cv.all24.jp^
 ||a8cv.alvo.co.jp^
+||a8cv.ama-create.com^
 ||a8cv.amiami.jp^
 ||a8cv.anapnet.com^
 ||a8cv.androsophybaby.com^
@@ -956,6 +961,7 @@
 ||a8cv.hotyoga-loive.com^
 ||a8cv.houjin-keitai.com^
 ||a8cv.housingbazar.jp^
+||a8cv.hugkumiplus.net^
 ||a8cv.humming-water.com^
 ||a8cv.hyperknife.info^
 ||a8cv.i-office1.net^
@@ -1027,10 +1033,12 @@
 ||a8cv.leasonable.com^
 ||a8cv.lens-1.jp^
 ||a8cv.leoandlea.com^
+||a8cv.lesson-note.com^
 ||a8cv.leverage-learning.com^
 ||a8cv.lianest.co.jp^
 ||a8cv.lp.nalevi.mynavi.jp^
 ||a8cv.lp.x-house.co.jp^
+||a8cv.lvs.jp^
 ||a8cv.lyprinol.jp^
 ||a8cv.ma-cp.com^
 ||a8cv.machi-ene.jp^
@@ -1062,6 +1070,7 @@
 ||a8cv.mura.ne.jp^
 ||a8cv.my-arrow.co.jp^
 ||a8cv.nagatani-shop.com^
+||a8cv.naiagym.com^
 ||a8cv.naire-seisakusho.jp^
 ||a8cv.naradenryoku.co.jp^
 ||a8cv.naris-online.jp^
@@ -1104,7 +1113,6 @@
 ||a8cv.orochoku.shop^
 ||a8cv.otakudathough.com^
 ||a8cv.otoriyose.site^
-||a8cv.p-antiaging.com^
 ||a8cv.paidy.com^
 ||a8cv.paintory.com^
 ||a8cv.palms-gym.com^
@@ -1170,6 +1178,7 @@
 ||a8cv.shibuya-scramble-figure.com^
 ||a8cv.shimomoto-cl.co.jp^
 ||a8cv.shokubun.ec-design.co.jp^
+||a8cv.shokubun2.ec-design.co.jp^
 ||a8cv.shokunosoyokaze.com^
 ||a8cv.shop.matsuo1956.jp^
 ||a8cv.shop.pixela.jp^
@@ -1207,6 +1216,7 @@
 ||a8cv.success-idea.com^
 ||a8cv.sumai-surfin.com^
 ||a8cv.sunmillion-ikiiki.jp^
+||a8cv.surffit.jp^
 ||a8cv.suzaku.or.jp^
 ||a8cv.suzette-shop.jp^
 ||a8cv.t-bang.jp^
@@ -1236,6 +1246,7 @@
 ||a8cv.ulp-kyoto.jp^
 ||a8cv.unias.jp^
 ||a8cv.unico-fan.co.jp^
+||a8cv.universal-speaking.com^
 ||a8cv.untenmenkyo-yi.com^
 ||a8cv.usedfun.jp^
 ||a8cv.veggie-toreru.jp^
@@ -1279,6 +1290,7 @@
 ||a8cv.ya-man.com^
 ||a8cv.yakuzaishi.yakumatch.com^
 ||a8cv.yakuzaishibestcareer.com^
+||a8cv.yamachiya.co.jp^
 ||a8cv.yamasa-suppon.com^
 ||a8cv.yamato-gp.net^
 ||a8cv.yamatokouso.com^
@@ -1295,6 +1307,8 @@
 ||a8cv.zeroen-denki.com^
 ||a8cv.zerorenovation.com^
 ||a8cv.zoner.com^
+||a8cv2.handmade-ch.jp^
+||a8cv2.jm-neo.com^
 ||a8cv2.vapelog.jp^
 ||a8cventry.uqwimax.jp^
 ||a8cvhoiku.kidsmate.jp^
@@ -1302,6 +1316,7 @@
 ||a8cvtrack.tokai.jp^
 ||a8dev.hikarinet-s.com^
 ||a8dns.webcircle.co.jp^
+||a8enquete.eventos.tokyo^
 ||a8hokuro.ike-sunshine.co.jp^
 ||a8itp.bitoka-japan.com^
 ||a8itp.skinx-japan.com^
@@ -1488,6 +1503,7 @@
 ||cv.theatreacademy.info^
 ||cv.ticketpay.jp^
 ||cv.tokyowork.jp^
+||cv.top-management.co.jp^
 ||cv.ui-chiho.clinic^
 ||cv.viday.jp^
 ||cv.virtualoffice-resonance.jp^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ go.solidworks.com CNAME .
 in.h24.news CNAME .
 it.h24.news CNAME .
 l.20minutes.fr CNAME .
+l.750g.com CNAME .
 l.actu.fr CNAME .
 l.africabusinessplus.com CNAME .
 l.allocine.fr CNAME .
@@ -37,6 +38,7 @@ l.beaute-test.com CNAME .
 l.beauxarts.com CNAME .
 l.bfmtv.com CNAME .
 l.bibamagazine.fr CNAME .
+l.blissim.fr CNAME .
 l.caminteresse.fr CNAME .
 l.capital.fr CNAME .
 l.centre-presse.fr CNAME .
@@ -64,6 +66,7 @@ l.franceinter.fr CNAME .
 l.francemusique.fr CNAME .
 l.frandroid.com CNAME .
 l.gala.fr CNAME .
+l.gamekult.com CNAME .
 l.gentside.com CNAME .
 l.gentside.de CNAME .
 l.geo.fr CNAME .
@@ -101,6 +104,7 @@ l.mediapart.fr CNAME .
 l.melty.fr CNAME .
 l.midilibre.fr CNAME .
 l.monacomatin.mc CNAME .
+l.mouv.fr CNAME .
 l.mprovence.com CNAME .
 l.netmums.com CNAME .
 l.nextplz.fr CNAME .

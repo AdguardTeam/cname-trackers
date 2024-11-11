@@ -181,6 +181,7 @@
 | tk.zenpark.com | tk-zenpark-com.wizaly.com |
 | tk.boutique.capital.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.geo.fr | tk_prismashop_fr.wizaly.com |
+| tk.boutique.hbrfrance.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.voici.fr | tk_prismashop_fr.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
 | tk.transavia.com | tk_transavia_com.wizaly.com |
@@ -250,7 +251,6 @@
 | tk.airfrance.ua | tkairfrance.wizaly.com |
 | tk.airfrance.us | tkairfrance.wizaly.com |
 | tk.airfrance.vn | tkairfrance.wizaly.com |
-| tk.klm.com | tkairfrance.wizaly.com |
 | tk.lolivier.fr | tklolivierfr.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |
 | t.wiz.meilleurtaux.com | wiz_meilleurtaux_com.wizaly.com |

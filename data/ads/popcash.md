@@ -34,6 +34,7 @@
 | assets.diagomics.com | bannieres.b-cdn.net |
 | ads.djc.com | bs-adserver.b-cdn.net |
 | allnews.chestertelegraph.org | bs-adserver.b-cdn.net |
+| amaze.hamptonroads.myactivechild.com | bs-adserver.b-cdn.net |
 | apogee.spacenews.com | bs-adserver.b-cdn.net |
 | assets-v2.boisedev.com | bs-adserver.b-cdn.net |
 | assets-v2.invaluable.com | bs-adserver.b-cdn.net |
@@ -47,6 +48,7 @@
 | floorforce.streetinteractive.com | bs-adserver.b-cdn.net |
 | gemtun.ctnewsjunkie.com | bs-adserver.b-cdn.net |
 | images.decaturish.com | bs-adserver.b-cdn.net |
+| informed.belocalnwa.com | bs-adserver.b-cdn.net |
 | kitt.tucsonsentinel.com | bs-adserver.b-cdn.net |
 | news.coveringkaty.com | bs-adserver.b-cdn.net |
 | ourtown.toledoparent.com | bs-adserver.b-cdn.net |
@@ -184,6 +186,7 @@
 | beaver.ecosecretariat.org | deprecated-custom-domains.b-cdn.net |
 | beaver.livechatlabs.com | deprecated-custom-domains.b-cdn.net |
 | bee.andreawhitmer.com | deprecated-custom-domains.b-cdn.net |
+| bee.farmaciavdg.com | deprecated-custom-domains.b-cdn.net |
 | bee.jbkmobiledj.com | deprecated-custom-domains.b-cdn.net |
 | bee.nfte.app | deprecated-custom-domains.b-cdn.net |
 | beetle.enlacepermanente.es | deprecated-custom-domains.b-cdn.net |
@@ -271,7 +274,6 @@
 | centipede.roasted.dev | deprecated-custom-domains.b-cdn.net |
 | centipede.wildbit.com | deprecated-custom-domains.b-cdn.net |
 | cephalopod.nucleus.us | deprecated-custom-domains.b-cdn.net |
-| cephalopod.photoprism.pro | deprecated-custom-domains.b-cdn.net |
 | cephalopod.revelio.io | deprecated-custom-domains.b-cdn.net |
 | cephalopod.staff.design | deprecated-custom-domains.b-cdn.net |
 | cheetah.gaptry.com | deprecated-custom-domains.b-cdn.net |
@@ -497,7 +499,6 @@
 | heron.oneaudiobooks.app | deprecated-custom-domains.b-cdn.net |
 | herring.artemis.cloud | deprecated-custom-domains.b-cdn.net |
 | herring.panda.network | deprecated-custom-domains.b-cdn.net |
-| herring.superfast.dev | deprecated-custom-domains.b-cdn.net |
 | hookworm.campaignzee.com | deprecated-custom-domains.b-cdn.net |
 | hornet.amandaheal.com.au | deprecated-custom-domains.b-cdn.net |
 | hornet.energizer.co.za | deprecated-custom-domains.b-cdn.net |
@@ -565,7 +566,6 @@
 | koi.henrydennis.dev | deprecated-custom-domains.b-cdn.net |
 | koi.lkae.dev | deprecated-custom-domains.b-cdn.net |
 | koi.project-tampah.com | deprecated-custom-domains.b-cdn.net |
-| koi.valleywestlandscapes.com | deprecated-custom-domains.b-cdn.net |
 | koi.vyer.com | deprecated-custom-domains.b-cdn.net |
 | krill.far.site | deprecated-custom-domains.b-cdn.net |
 | krill.spoonrage.com | deprecated-custom-domains.b-cdn.net |
@@ -664,6 +664,7 @@
 | mole.vcntlee.com | deprecated-custom-domains.b-cdn.net |
 | mollusk.forwardmx.io | deprecated-custom-domains.b-cdn.net |
 | mollusk.working.actor | deprecated-custom-domains.b-cdn.net |
+| mongoose.cse-algolia.fr | deprecated-custom-domains.b-cdn.net |
 | mongoose.jasonlbeggs.com | deprecated-custom-domains.b-cdn.net |
 | mongoose.scrumgenius.com | deprecated-custom-domains.b-cdn.net |
 | mongoose.thechocolatelife.com | deprecated-custom-domains.b-cdn.net |
@@ -729,6 +730,7 @@
 | parakeet.buildcodelearn.com | deprecated-custom-domains.b-cdn.net |
 | parakeet.jorenvanhocht.be | deprecated-custom-domains.b-cdn.net |
 | parakeet.kenleyar.ai | deprecated-custom-domains.b-cdn.net |
+| parakeet.phantomphone.net | deprecated-custom-domains.b-cdn.net |
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
 | parrot.alookwithin.ca | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
@@ -990,7 +992,6 @@
 | wallaby.cron.help | deprecated-custom-domains.b-cdn.net |
 | wallaby.legendkeeper.com | deprecated-custom-domains.b-cdn.net |
 | wallaby.short1.link | deprecated-custom-domains.b-cdn.net |
-| walrus.blindemployment.solutions | deprecated-custom-domains.b-cdn.net |
 | walrus.fetzcolor.at | deprecated-custom-domains.b-cdn.net |
 | walrus.oscaroarevalo.com | deprecated-custom-domains.b-cdn.net |
 | warbler.resumebuilder.dev | deprecated-custom-domains.b-cdn.net |
@@ -1020,6 +1021,7 @@
 | woodpecker.ember.ly | deprecated-custom-domains.b-cdn.net |
 | woodpecker.mikehalliday.com | deprecated-custom-domains.b-cdn.net |
 | woodpecker.seabits.com | deprecated-custom-domains.b-cdn.net |
+| worm.communitytrustproject.org | deprecated-custom-domains.b-cdn.net |
 | www.stork.notlessbutbetter.com | deprecated-custom-domains.b-cdn.net |
 | yak.auclantis.com | deprecated-custom-domains.b-cdn.net |
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |

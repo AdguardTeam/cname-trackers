@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,12 +59,14 @@ stats.cloudflex.team CNAME .
 stats.fieald.com CNAME .
 stats.hedy.dev CNAME .
 stats.how.wtf CNAME .
+stats.isaacfreund.com CNAME .
 stats.jakebailey.dev CNAME .
 stats.jamesgwyer.com CNAME .
 stats.jessesquires.com CNAME .
 stats.jmmr.dev CNAME .
 stats.johanneswienke.de CNAME .
 stats.jonaslieb.de CNAME .
+stats.kc.ie CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
 stats.lspeed.org CNAME .

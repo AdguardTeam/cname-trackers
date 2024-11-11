@@ -177,6 +177,7 @@
 | affiliate.gaymegastore.cz | cz.affilbox.cz |
 | affiliate.gaymegastore.eu | cz.affilbox.cz |
 | affiliate.geoweb.easy.cz | cz.affilbox.cz |
+| affiliate.gilitickets.online | cz.affilbox.cz |
 | affiliate.golfplan.org | cz.affilbox.cz |
 | affiliate.growmarket.cz | cz.affilbox.cz |
 | affiliate.hamham.cz | cz.affilbox.cz |
@@ -241,7 +242,6 @@
 | affiliate.pesvbyte.cz | cz.affilbox.cz |
 | affiliate.petr-zeman.cz | cz.affilbox.cz |
 | affiliate.ph7.cz | cz.affilbox.cz |
-| affiliate.pietro-filipi.com | cz.affilbox.cz |
 | affiliate.plutoscompany.sk | cz.affilbox.cz |
 | affiliate.polti.cz | cz.affilbox.cz |
 | affiliate.portu.cz | cz.affilbox.cz |
@@ -458,7 +458,6 @@
 | partner.aeriumshop.nl | cz.affilbox.cz |
 | partner.affilbox.com | cz.affilbox.cz |
 | partner.affiliateark.com | cz.affilbox.cz |
-| partner.affilnet.cz | cz.affilbox.cz |
 | partner.alesio.cz | cz.affilbox.cz |
 | partner.amonit.sk | cz.affilbox.cz |
 | partner.amonitsro.sk | cz.affilbox.cz |
@@ -924,7 +923,6 @@
 | partners.bonyacademy.com | cz.affilbox.cz |
 | partners.duckferries.com | cz.affilbox.cz |
 | partners.elitecoaching.cz | cz.affilbox.cz |
-| partners.lawofattraction.cz | cz.affilbox.cz |
 | partners.oktagon.tv | cz.affilbox.cz |
 | partners.pocitarna.cz | cz.affilbox.cz |
 | partners.puravidashop.cz | cz.affilbox.cz |

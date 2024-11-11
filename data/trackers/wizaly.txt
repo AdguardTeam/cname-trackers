@@ -82,6 +82,7 @@
 ||tk.blancheporte.fr^
 ||tk.boutique.capital.fr^
 ||tk.boutique.geo.fr^
+||tk.boutique.hbrfrance.fr^
 ||tk.boutique.voici.fr^
 ||tk.bricoprive.com^
 ||tk.bullebleue.fr^
@@ -116,7 +117,6 @@
 ||tk.jim-joe.fr^
 ||tk.kidsaround.com^
 ||tk.kitchendiet.fr^
-||tk.klm.com^
 ||tk.kusmitea.com^
 ||tk.lacoste.com^
 ||tk.lamaisonduchocolat.com^

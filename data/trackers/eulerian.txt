@@ -59,6 +59,7 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
+||c0i.ckoi.com^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
 ||cbl6.destinia.gt^
@@ -76,7 +77,7 @@
 ||ctp1.bforbank.com^
 ||cvi6.destinia.qa^
 ||cyf9.destinia.cl^
-||d0f.le-dauphin.com^
+||d2u.dauphinquebec.com^
 ||dbj.quebecregion.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
@@ -483,9 +484,8 @@
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
 ||5fm.985fm.ca^
-||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
-||d2u.dauphinquebec.com^
+||d0f.le-dauphin.com^
 ||eat9.thebeat925.ca^
 ||nym5c.bonlook.com^
 ||ry0.rythmefm.com^

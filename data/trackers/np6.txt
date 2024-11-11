@@ -10,6 +10,7 @@
 ||sms.gestion.cetelem.fr^
 ||sms.news.allopneus.com^
 ||t8.mailperformance.com^
+||tr.3ou4xcb.cetelem.fr^
 ||tr.aasi.espmp-agfr.net^
 ||tr.abo.cotemaison.fr^
 ||tr.account.np6.com^
@@ -586,6 +587,7 @@
 ||tr.lvmhappening.lvmh.fr^
 ||tr.m.cwisas.com^
 ||tr.macarte.truffaut.com^
+||tr.made.faure-u.com^
 ||tr.mail-companeo.fr^
 ||tr.mail.cdiscount.com.ec^
 ||tr.mail.cdiscount.com.pa^
@@ -729,6 +731,7 @@
 ||tr.news.cotemaison.fr^
 ||tr.news.cporadio.tv^
 ||tr.news.crystal-partenaires.com^
+||tr.news.delifrance.com^
 ||tr.news.deneuville-chocolat.fr^
 ||tr.news.deshotelsetdesiles.com^
 ||tr.news.devisdirect.be^
@@ -742,7 +745,6 @@
 ||tr.news.easyvoyage.co.uk^
 ||tr.news.easyvoyage.com^
 ||tr.news.easyvoyage.de^
-||tr.news.economic-studies.fr^
 ||tr.news.editions-lva.fr^
 ||tr.news.ekosport-rent.fr^
 ||tr.news.enkiapp.io^
@@ -857,6 +859,7 @@
 ||tr.news2pjms.fr^
 ||tr.news5.cdiscount.com^
 ||tr.news6.cdiscount.com^
+||tr.newsletter-mdh.com^
 ||tr.newsletter-stressless.com^
 ||tr.newsletter.10h01.fr^
 ||tr.newsletter.1664france.fr^
@@ -1005,6 +1008,7 @@
 ||tr.renowizze.be^
 ||tr.republicains-info.org^
 ||tr.rh.auchan.com^
+||tr.rnrmc.org.uk^
 ||tr.route-solutiondata.fr^
 ||tr.roxi02e.espmp-agfr.net^
 ||tr.safrancom-esp.net^
@@ -1013,6 +1017,7 @@
 ||tr.satisfaction.alinea.com^
 ||tr.satisfaction.groupe-pv-cp.com^
 ||tr.satisfaction.villagesnature.com^
+||tr.schj.espmp-aufr.net^
 ||tr.scienceshumaines.info^
 ||tr.scienceshumaines.pro^
 ||tr.seat-fs-email.fr^
@@ -1083,8 +1088,10 @@
 ||tr.urfk041.espmp-cufr.net^
 ||tr.urfk042.espmp-nifr.net^
 ||tr.urfk044.espmp-nifr.net^
+||tr.urfk04h.espmp-nifr.net^
 ||tr.urfk050.espmp-cufr.net^
 ||tr.urfk052.espmp-cufr.net^
+||tr.urfk053.espmp-aufr.net^
 ||tr.urfk057.espmp-aufr.net^
 ||tr.urfk05g.espmp-agfr.net^
 ||tr.urfk05l.espmp-nifr.net^
@@ -1092,6 +1099,7 @@
 ||tr.urfk06h.espmp-nifr.net^
 ||tr.urfk06n.espmp-nifr.net^
 ||tr.urfk06o.espmp-agfr.net^
+||tr.urfk06v.espmp-aufr.net^
 ||tr.urfk06x.espmp-cufr.net^
 ||tr.urfk06y.espmp-nifr.net^
 ||tr.urfk07j.espmp-nifr.net^
@@ -1144,7 +1152,6 @@
 ||tr1.mailperformance.com^
 ||tr1.mperf.com^
 ||tr1.peugeot-ipsos.com^
-||tr1.psa-surveys.com^
 ||tr4.mailperf.com^
 ||tr5.mailperf.com^
 ||tr5.mperf.com^

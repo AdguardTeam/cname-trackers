@@ -42,6 +42,7 @@ refer.dna.ancestry.co.uk
 refer.dna.ancestry.com
 refer.dnj.com
 refer.fivestars.com
+refer.foodkick.com
 refer.freshly.com
 refer.fuzebox.com
 refer.gevalia.com
@@ -370,6 +371,7 @@ refer.starfurniture.com
 refer.steelseries.com
 refer.stopandshop.com
 refer.striderite.com
+refer.styleitforwardreward.com
 refer.sugarandjade.com
 refer.sundancevacations.com
 refer.swansonvitamins.com
@@ -482,7 +484,9 @@ share.cellcom.ca
 share.cheaperthandirt.com
 share.cheaperthandirt.net
 share.chewsidental.com
+share.cincinnati.com
 share.cityfurniture.com
+share.clarionledger.com
 share.cluballiance.aaa.com
 share.coloradoan.com
 share.columbiacu.org
@@ -492,7 +496,6 @@ share.cosbar.com
 share.couponcabin.com
 share.courier-journal.com
 share.courierpostonline.com
-share.cox.com
 share.credible.com
 share.creditninja.com
 share.cunard.com
@@ -501,6 +504,7 @@ share.dailypay.com
 share.darwinspet.com
 share.delawareonline.com
 share.desertfinancial.com
+share.desertsun.com
 share.desmoinesregister.com
 share.detroitnews.com
 share.discountschoolsupply.com
@@ -541,6 +545,7 @@ share.greenvilleonline.com
 share.gruntstyle.com
 share.gxvebeauty.com
 share.havenwellwithin.com
+share.heydude.com
 share.hicapitalize.com
 share.hotwire.com
 share.htrnews.com
@@ -608,6 +613,7 @@ share.perfectgift.com
 share.petsbest.com
 share.pnj.com
 share.policygenius.com
+share.postcrescent.com
 share.poughkeepsiejournal.com
 share.pressconnects.com
 share.princess.com

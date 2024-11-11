@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -109,6 +109,7 @@ beaver.bluebunnypaper.com CNAME .
 beaver.ecosecretariat.org CNAME .
 beaver.livechatlabs.com CNAME .
 bee.andreawhitmer.com CNAME .
+bee.farmaciavdg.com CNAME .
 bee.jbkmobiledj.com CNAME .
 bee.nfte.app CNAME .
 beetle.enlacepermanente.es CNAME .
@@ -195,7 +196,6 @@ centipede.davimug.com CNAME .
 centipede.roasted.dev CNAME .
 centipede.wildbit.com CNAME .
 cephalopod.nucleus.us CNAME .
-cephalopod.photoprism.pro CNAME .
 cephalopod.revelio.io CNAME .
 cephalopod.staff.design CNAME .
 cheetah.gaptry.com CNAME .
@@ -419,7 +419,6 @@ heron.notability.com CNAME .
 heron.oneaudiobooks.app CNAME .
 herring.artemis.cloud CNAME .
 herring.panda.network CNAME .
-herring.superfast.dev CNAME .
 hookworm.campaignzee.com CNAME .
 hornet.amandaheal.com.au CNAME .
 hornet.energizer.co.za CNAME .
@@ -487,7 +486,6 @@ koi.fullyexplained.co.uk CNAME .
 koi.henrydennis.dev CNAME .
 koi.lkae.dev CNAME .
 koi.project-tampah.com CNAME .
-koi.valleywestlandscapes.com CNAME .
 koi.vyer.com CNAME .
 krill.far.site CNAME .
 krill.spoonrage.com CNAME .
@@ -586,6 +584,7 @@ mole.rtbhouse.com CNAME .
 mole.vcntlee.com CNAME .
 mollusk.forwardmx.io CNAME .
 mollusk.working.actor CNAME .
+mongoose.cse-algolia.fr CNAME .
 mongoose.jasonlbeggs.com CNAME .
 mongoose.scrumgenius.com CNAME .
 mongoose.thechocolatelife.com CNAME .
@@ -651,6 +650,7 @@ panther.tigil.rs CNAME .
 parakeet.buildcodelearn.com CNAME .
 parakeet.jorenvanhocht.be CNAME .
 parakeet.kenleyar.ai CNAME .
+parakeet.phantomphone.net CNAME .
 parakeet.quotetweet.com CNAME .
 parrot.alookwithin.ca CNAME .
 parrot.lovably.com CNAME .
@@ -910,7 +910,6 @@ vulture.lagosdesaliencia.com CNAME .
 wallaby.cron.help CNAME .
 wallaby.legendkeeper.com CNAME .
 wallaby.short1.link CNAME .
-walrus.blindemployment.solutions CNAME .
 walrus.fetzcolor.at CNAME .
 walrus.oscaroarevalo.com CNAME .
 warbler.resumebuilder.dev CNAME .
@@ -940,13 +939,13 @@ woodpecker.binario11.de CNAME .
 woodpecker.ember.ly CNAME .
 woodpecker.mikehalliday.com CNAME .
 woodpecker.seabits.com CNAME .
+worm.communitytrustproject.org CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
 yak.gregsullivan.com CNAME .
 alligator.remotecyberwork.com CNAME .
 antelope.hoap.dev CNAME .
 antelope.targetinternet.com CNAME .
-bee.farmaciavdg.com CNAME .
 crow.centresustains.com CNAME .
 llama.whatcha.io CNAME .
 moose.octo.app CNAME .

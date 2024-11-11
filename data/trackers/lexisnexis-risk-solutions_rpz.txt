@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -65,6 +65,7 @@ analyze.central1.cc CNAME .
 api.v1.threatmetrix.space.ge CNAME .
 api1.sfcu.org CNAME .
 apicorporativops.portoseguro.com.br CNAME .
+app.saldodipje.nl CNAME .
 app.uob.co.th CNAME .
 app.uob.com.my CNAME .
 app.uob.com.sg CNAME .
@@ -491,6 +492,7 @@ dt.payla.io CNAME .
 dtpm.kuady.com CNAME .
 dtrust.atratopago.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
+ebcontent.mcbankny.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
 elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
@@ -546,6 +548,7 @@ hooru.regence.com CNAME .
 hunt.elcorteingles.es CNAME .
 id.latitudefinancial.com CNAME .
 id.solidgate.com CNAME .
+identidaddigital.credicomer.com.sv CNAME .
 identity.myblueprint.arkansasbluecross.com CNAME .
 identity4.citidirect.com CNAME .
 idhtm.bb.com.br CNAME .
@@ -561,7 +564,6 @@ images.sunocofleetcards.com CNAME .
 images.suntrakfleetaccount.com CNAME .
 images.wexinc.com CNAME .
 images.wrightexpress.com CNAME .
-imagesmx.cdiscountpro.com CNAME .
 imagesmx.cdscdn.com CNAME .
 imagestm.bossrevolution.com CNAME .
 img.consumer.risk.lexisnexis.com CNAME .
@@ -759,6 +761,7 @@ prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcupa.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcutx.chaperone.lumindigitalhosting.com CNAME .
 prod-sperofin.chaperone.lumindigitalhosting.com CNAME .
+prod-statedept.chaperone.lumindigitalhosting.com CNAME .
 prod-tapco.chaperone.lumindigitalhosting.com CNAME .
 prod-travis.chaperone.lumindigitalhosting.com CNAME .
 prod-tvfcuwy.chaperone.lumindigitalhosting.com CNAME .
@@ -1093,7 +1096,6 @@ tmx.monzo.co.uk CNAME .
 tmx.pampersrewards.com CNAME .
 tmx.pat.td.com CNAME .
 tmx.prod.efsllc.com CNAME .
-tmx.revolut.codes CNAME .
 tmx.rnd.gemaltodigitalbankingidcloud.com CNAME .
 tmx.tchek.com CNAME .
 tmx.td.com CNAME .

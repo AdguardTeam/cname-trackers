@@ -31,6 +31,7 @@
 | sms.gestion.cetelem.fr | tracking.bp01.net |
 | sms.news.allopneus.com | tracking.bp01.net |
 | t8.mailperformance.com | tracking.bp01.net |
+| tr.3ou4xcb.cetelem.fr | tracking.bp01.net |
 | tr.aasi.espmp-agfr.net | tracking.bp01.net |
 | tr.abo.cotemaison.fr | tracking.bp01.net |
 | tr.account.np6.com | tracking.bp01.net |
@@ -607,6 +608,7 @@
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
 | tr.m.cwisas.com | tracking.bp01.net |
 | tr.macarte.truffaut.com | tracking.bp01.net |
+| tr.made.faure-u.com | tracking.bp01.net |
 | tr.mail-companeo.fr | tracking.bp01.net |
 | tr.mail.cdiscount.com.ec | tracking.bp01.net |
 | tr.mail.cdiscount.com.pa | tracking.bp01.net |
@@ -750,6 +752,7 @@
 | tr.news.cotemaison.fr | tracking.bp01.net |
 | tr.news.cporadio.tv | tracking.bp01.net |
 | tr.news.crystal-partenaires.com | tracking.bp01.net |
+| tr.news.delifrance.com | tracking.bp01.net |
 | tr.news.deneuville-chocolat.fr | tracking.bp01.net |
 | tr.news.deshotelsetdesiles.com | tracking.bp01.net |
 | tr.news.devisdirect.be | tracking.bp01.net |
@@ -763,7 +766,6 @@
 | tr.news.easyvoyage.co.uk | tracking.bp01.net |
 | tr.news.easyvoyage.com | tracking.bp01.net |
 | tr.news.easyvoyage.de | tracking.bp01.net |
-| tr.news.economic-studies.fr | tracking.bp01.net |
 | tr.news.editions-lva.fr | tracking.bp01.net |
 | tr.news.ekosport-rent.fr | tracking.bp01.net |
 | tr.news.enkiapp.io | tracking.bp01.net |
@@ -878,6 +880,7 @@
 | tr.news2pjms.fr | tracking.bp01.net |
 | tr.news5.cdiscount.com | tracking.bp01.net |
 | tr.news6.cdiscount.com | tracking.bp01.net |
+| tr.newsletter-mdh.com | tracking.bp01.net |
 | tr.newsletter-stressless.com | tracking.bp01.net |
 | tr.newsletter.10h01.fr | tracking.bp01.net |
 | tr.newsletter.1664france.fr | tracking.bp01.net |
@@ -1026,6 +1029,7 @@
 | tr.renowizze.be | tracking.bp01.net |
 | tr.republicains-info.org | tracking.bp01.net |
 | tr.rh.auchan.com | tracking.bp01.net |
+| tr.rnrmc.org.uk | tracking.bp01.net |
 | tr.route-solutiondata.fr | tracking.bp01.net |
 | tr.roxi02e.espmp-agfr.net | tracking.bp01.net |
 | tr.safrancom-esp.net | tracking.bp01.net |
@@ -1034,6 +1038,7 @@
 | tr.satisfaction.alinea.com | tracking.bp01.net |
 | tr.satisfaction.groupe-pv-cp.com | tracking.bp01.net |
 | tr.satisfaction.villagesnature.com | tracking.bp01.net |
+| tr.schj.espmp-aufr.net | tracking.bp01.net |
 | tr.scienceshumaines.info | tracking.bp01.net |
 | tr.scienceshumaines.pro | tracking.bp01.net |
 | tr.seat-fs-email.fr | tracking.bp01.net |
@@ -1104,8 +1109,10 @@
 | tr.urfk041.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk042.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk044.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk04h.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk050.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk052.espmp-cufr.net | tracking.bp01.net |
+| tr.urfk053.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk057.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk05g.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk05l.espmp-nifr.net | tracking.bp01.net |
@@ -1113,6 +1120,7 @@
 | tr.urfk06h.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk06n.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk06o.espmp-agfr.net | tracking.bp01.net |
+| tr.urfk06v.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk06x.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07j.espmp-nifr.net | tracking.bp01.net |
@@ -1165,7 +1173,6 @@
 | tr1.mailperformance.com | tracking.bp01.net |
 | tr1.mperf.com | tracking.bp01.net |
 | tr1.peugeot-ipsos.com | tracking.bp01.net |
-| tr1.psa-surveys.com | tracking.bp01.net |
 | tr4.mailperf.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
 | tr5.mperf.com | tracking.bp01.net |

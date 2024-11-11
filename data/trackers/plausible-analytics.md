@@ -646,6 +646,7 @@
 | stats.metamorphium.com | custom.plausible.io |
 | stats.michaeloliver.dev | custom.plausible.io |
 | stats.micv.works | custom.plausible.io |
+| stats.mindhive.ca | custom.plausible.io |
 | stats.missionmet.com | custom.plausible.io |
 | stats.missionrabies.com | custom.plausible.io |
 | stats.moco-comics.com | custom.plausible.io |
@@ -666,6 +667,7 @@
 | stats.nexagon.dk | custom.plausible.io |
 | stats.niceshitforbitcoiners.com | custom.plausible.io |
 | stats.nodewood.com | custom.plausible.io |
+| stats.noeticflow.com | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
 | stats.nothingbutnylon.com | custom.plausible.io |
 | stats.nullsecure.com | custom.plausible.io |
@@ -686,6 +688,7 @@
 | stats.ownpath.xyz | custom.plausible.io |
 | stats.owre.se | custom.plausible.io |
 | stats.p42.ai | custom.plausible.io |
+| stats.paramountperformance.net | custom.plausible.io |
 | stats.parqet.com | custom.plausible.io |
 | stats.parrot.dev | custom.plausible.io |
 | stats.passwordyeti.com | custom.plausible.io |
@@ -720,6 +723,7 @@
 | stats.pri.org | custom.plausible.io |
 | stats.pricewell.io | custom.plausible.io |
 | stats.principedepaz.gt | custom.plausible.io |
+| stats.print-io.de | custom.plausible.io |
 | stats.print.work | custom.plausible.io |
 | stats.processserver101.com | custom.plausible.io |
 | stats.procumeni.cz | custom.plausible.io |

@@ -9,7 +9,6 @@
 
 * api.clickaine.com
 * 7450.bodis.com
-* u53.hypnorat.com
 * 77980.bodis.com
 
 ## Cloaking domains
@@ -49,6 +48,7 @@
 | 4iazoa.xyz | 0i0i0i0.com |
 | 5475feaab.clicknplay.to | 0i0i0i0.com |
 | 58745.clicknplay.to | 0i0i0i0.com |
+| 5iaox.xyz | 0i0i0i0.com |
 | 5u3a2gse.fedqdf.quest | 0i0i0i0.com |
 | 5u3eg342.fedqdf.quest | 0i0i0i0.com |
 | 5ua3hj3e.fedqdf.quest | 0i0i0i0.com |
@@ -65,7 +65,6 @@
 | 938az.xyz | 0i0i0i0.com |
 | a.1appup.com | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
-| a.4fxjozeu7dwn.shop | 0i0i0i0.com |
 | a.aahen.site | 0i0i0i0.com |
 | a.aliposite.site | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
@@ -146,8 +145,6 @@
 | a.myprettyads.one | 0i0i0i0.com |
 | a.mysalo.store | 0i0i0i0.com |
 | a.naliw.xyz | 0i0i0i0.com |
-| a.o2veei8c9to4.shop | 0i0i0i0.com |
-| a.o31249ehg2k1.shop | 0i0i0i0.com |
 | a.obrom.xyz | 0i0i0i0.com |
 | a.paulsmatures.com | 0i0i0i0.com |
 | a.paulsmilfs.com | 0i0i0i0.com |
@@ -167,14 +164,12 @@
 | a.spearmint4334.gb.net | 0i0i0i0.com |
 | a.spyad.cc | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
-| a.t4yv0sj9u8ja.shop | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
 | a.testda.homes | 0i0i0i0.com |
 | a.vieva.xyz | 0i0i0i0.com |
 | a.viralnewsbd.xyz | 0i0i0i0.com |
 | a.vrime.xyz | 0i0i0i0.com |
 | a.warddogs.com | 0i0i0i0.com |
-| a.wmmbcwzd24bk.shop | 0i0i0i0.com |
 | a.xolen.xyz | 0i0i0i0.com |
 | a.yamcha.xyz | 0i0i0i0.com |
 | a.zenam.xyz | 0i0i0i0.com |
@@ -275,7 +270,6 @@
 | as1.maturexxx.vip | 0i0i0i0.com |
 | ascc.javquick.com | 0i0i0i0.com |
 | asdf.eldos.xyz | 0i0i0i0.com |
-| asds.hentaitimes.com | 0i0i0i0.com |
 | asg.animehdl.net | 0i0i0i0.com |
 | asg.aphex.me | 0i0i0i0.com |
 | asg.dormtapes.com | 0i0i0i0.com |
@@ -287,6 +281,7 @@
 | asg.mrporn.online | 0i0i0i0.com |
 | asg.page-x.com | 0i0i0i0.com |
 | asg.phukienthoitranggiare.com | 0i0i0i0.com |
+| asg.poplink.info | 0i0i0i0.com |
 | asg.pornomoglie.com | 0i0i0i0.com |
 | asg.pornoplay.online | 0i0i0i0.com |
 | asg.pornvids.fr | 0i0i0i0.com |
@@ -350,6 +345,7 @@
 | bio.booseed.com | 0i0i0i0.com |
 | birthday3452.fun | 0i0i0i0.com |
 | blow.week1time.com | 0i0i0i0.com |
+| blum.stellaplus.xyz | 0i0i0i0.com |
 | bnrs.esexa.online | 0i0i0i0.com |
 | bnrs.manrec.cc | 0i0i0i0.com |
 | bnrs.shemrec.cc | 0i0i0i0.com |
@@ -520,14 +516,16 @@
 | gallicize25.fun | 0i0i0i0.com |
 | gallonjav128.fun | 0i0i0i0.com |
 | galvanize26.fun | 0i0i0i0.com |
-| game.starswalker.site | 0i0i0i0.com |
 | gamecocks24.fun | 0i0i0i0.com |
 | garbanzos24.fun | 0i0i0i0.com |
 | gatejav11.fun | 0i0i0i0.com |
 | gatejav12.fun | 0i0i0i0.com |
 | gauzelike26.fun | 0i0i0i0.com |
 | gazehound25.fun | 0i0i0i0.com |
+| gazpachos28.fun | 0i0i0i0.com |
 | gazumpers27.fun | 0i0i0i0.com |
+| gazumping30.fun | 0i0i0i0.com |
+| gemsbucks25.fun | 0i0i0i0.com |
 | germanize24.fun | 0i0i0i0.com |
 | gh3hswoo.sdbrrrr.lat | 0i0i0i0.com |
 | ghtry.amateurswild.com | 0i0i0i0.com |
@@ -554,6 +552,7 @@
 | great.xxxbanglavideo.com | 0i0i0i0.com |
 | grecizing26.fun | 0i0i0i0.com |
 | grizzlers30.fun | 0i0i0i0.com |
+| grizzlier30.fun | 0i0i0i0.com |
 | grizzlies30.fun | 0i0i0i0.com |
 | grizzling33.fun | 0i0i0i0.com |
 | growjav11.fun | 0i0i0i0.com |
@@ -631,7 +630,6 @@
 | javdawn.fun | 0i0i0i0.com |
 | javgenetic11.fun | 0i0i0i0.com |
 | javgulf.fun | 0i0i0i0.com |
-| javguru.gggsss.site | 0i0i0i0.com |
 | javjean.fun | 0i0i0i0.com |
 | javlicense11.fun | 0i0i0i0.com |
 | javmanager11.fun | 0i0i0i0.com |
@@ -743,12 +741,14 @@
 | msioi.steeelm.xyz | 0i0i0i0.com |
 | mvmzlg.xyz | 0i0i0i0.com |
 | mx6.3pornhere.com | 0i0i0i0.com |
+| my.blissgallery.xyz | 0i0i0i0.com |
 | my.dawncreations.art | 0i0i0i0.com |
 | my.infinitypixel.online | 0i0i0i0.com |
 | my.neogallery.xyz | 0i0i0i0.com |
 | my.pixelmuse.store | 0i0i0i0.com |
 | my.shymilftube.com | 0i0i0i0.com |
 | my.vistaarts.site | 0i0i0i0.com |
+| my.vistaarts.xyz | 0i0i0i0.com |
 | mydomainbest.com | 0i0i0i0.com |
 | n.bloblohub.com | 0i0i0i0.com |
 | n.hubhubhub.name | 0i0i0i0.com |
@@ -771,6 +771,7 @@
 | nopetube.xn--mgbkt9eckr.net | 0i0i0i0.com |
 | notabl8.com | 0i0i0i0.com |
 | notonthebedsheets.com | 0i0i0i0.com |
+| nowaaint.xyz | 0i0i0i0.com |
 | npbvqqkpuele.cdnvideo3.com | 0i0i0i0.com |
 | nudapp.com | 0i0i0i0.com |
 | nx7.hdxxxclips.com | 0i0i0i0.com |
@@ -816,6 +817,7 @@
 | padtue.xyz | 0i0i0i0.com |
 | paiena.xyz | 0i0i0i0.com |
 | paiwena.xyz | 0i0i0i0.com |
+| pangzz.xyz | 0i0i0i0.com |
 | panpant.xyz | 0i0i0i0.com |
 | pantuz.xyz | 0i0i0i0.com |
 | parkurl.com | 0i0i0i0.com |
@@ -826,6 +828,7 @@
 | pickard.hubhubhub.name | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
 | pjsos.xyz | 0i0i0i0.com |
+| play.rooski.net | 0i0i0i0.com |
 | pleasejav182.fun | 0i0i0i0.com |
 | pnpjceawvmeu.cdnvideo3.com | 0i0i0i0.com |
 | poeze.xyz | 0i0i0i0.com |
@@ -833,6 +836,7 @@
 | pop.nkiris.com | 0i0i0i0.com |
 | porn18.me | 0i0i0i0.com |
 | pornvideos.casa | 0i0i0i0.com |
+| position3452.fun | 0i0i0i0.com |
 | postaoz.xyz | 0i0i0i0.com |
 | pouam.xyz | 0i0i0i0.com |
 | pouanz.xyz | 0i0i0i0.com |
@@ -991,7 +995,6 @@
 | smart.sunporno.com | 0i0i0i0.com |
 | snubjav12.fun | 0i0i0i0.com |
 | solo.chinese-sex-tube.com | 0i0i0i0.com |
-| sor.pornxok.com | 0i0i0i0.com |
 | sp1.freeonlinegayporn.com | 0i0i0i0.com |
 | spa.arabtoons.net | 0i0i0i0.com |
 | spokesperson254.fun | 0i0i0i0.com |
@@ -1147,11 +1150,13 @@
 | you4cdn.com | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
 | yt.jabesmen.shop | 0i0i0i0.com |
+| yummycdn.com | 0i0i0i0.com |
 | z0000g.yorkvillemarketing.net | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
 | z54a.xyz | 0i0i0i0.com |
 | zaemi.xyz | 0i0i0i0.com |
 | zajh3a.xyz | 0i0i0i0.com |
+| zaokko.com | 0i0i0i0.com |
 | zenal.xyz | 0i0i0i0.com |
 | zenaot.xyz | 0i0i0i0.com |
 | zi3nna.xyz | 0i0i0i0.com |
@@ -1165,7 +1170,7 @@
 | mziso.xyz | 7450.bodis.com |
 | panoz.xyz | 7450.bodis.com |
 | quantoz.xyz | 7450.bodis.com |
-| sdfdfff.flelgwe.site | 77980.bodis.com |
+| javguru.gggsss.site | 77980.bodis.com |
 | ad.desibp.com | api.clickaine.com |
 | addin.name | u50.0i0i0i0.com |
 | ads-xtits.pro | u50.0i0i0i0.com |
@@ -1181,4 +1186,3 @@
 | www.adxhand.name | u50.0i0i0i0.com |
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| ontj.com | u53.hypnorat.com |

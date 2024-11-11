@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -35,6 +35,7 @@ asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 c.gotoxxxtube.com CNAME .
 c0n.tubestash.com CNAME .
+c4n.arcjav.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.hotjavmovies.com CNAME .
 c4n.mypornovideos.com CNAME .
@@ -68,6 +69,7 @@ cl.sexstories-all.com CNAME .
 click.freepopnews.skin CNAME .
 clickc4n.pornharlot.com CNAME .
 clickc4n.pornharlot.net CNAME .
+clk.billiontraffic.com CNAME .
 clk.slutcam.org CNAME .
 clka.bondagevalley.cc CNAME .
 clkn.apostle.onl CNAME .
@@ -107,7 +109,6 @@ k10.usefto.com CNAME .
 k8.usefto.com CNAME .
 mail.7porn.ru CNAME .
 net.fuckxstream.com CNAME .
-notifications.animeshqip.info CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
 p.porn0hd.online CNAME .

@@ -224,9 +224,9 @@
 ||ebis.kan54.jp^
 ||ebis.kimonoichiba.com^
 ||ebis.kubara.jp^
-||ebis.lululun.com^
 ||ebis.macchialabel.com^
 ||ebis.makeshop.jp^
+||ebis.mamayaku.com^
 ||ebis.mucuna.co.jp^
 ||ebis.n-pri.jp^
 ||ebis.nomu-silica.jp^
@@ -290,9 +290,9 @@
 ||mcad.mods-clinic.info^
 ||mcad.modsclinic-osaka.com^
 ||mdm.hibinobi-mandom.jp^
+||media.geinoschool-hikaku.com^
 ||media.geinoschool-hikaku.net^
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
-||msr.p-antiaging.com^
 ||ncc.nip-col.jp^
 ||nlp-japan.life-and-mind.com^
 ||p5mcwdbu.ginzo-buy.jp^

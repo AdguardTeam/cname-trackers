@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730707207352        ; Serial
+           1731312007717        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,13 +17,10 @@ a.mystery.software CNAME .
 a.ogio.com CNAME .
 a.topgolf.com CNAME .
 accounts-meta-events.outsideonline.com CNAME .
-aiq-in.applevacations.com CNAME .
 aiq-in.autoweek.com CNAME .
-aiq-in.beachbound.com CNAME .
 aiq-in.bestproducts.com CNAME .
 aiq-in.bicycling.com CNAME .
 aiq-in.caranddriver.com CNAME .
-aiq-in.cheapcaribbean.com CNAME .
 aiq-in.cosmopolitan.com CNAME .
 aiq-in.countryliving.com CNAME .
 aiq-in.delish.com CNAME .
@@ -31,7 +28,6 @@ aiq-in.elle.com CNAME .
 aiq-in.elledecor.com CNAME .
 aiq-in.esquire.com CNAME .
 aiq-in.ext.hp.com CNAME .
-aiq-in.funjet.com CNAME .
 aiq-in.goodhousekeeping.com CNAME .
 aiq-in.harpersbazaar.com CNAME .
 aiq-in.housebeautiful.com CNAME .
@@ -47,7 +43,6 @@ aiq-in.skechers.ca CNAME .
 aiq-in.skechers.co.uk CNAME .
 aiq-in.skechers.de CNAME .
 aiq-in.skechers.es CNAME .
-aiq-in.southwestvacations.com CNAME .
 aiq-in.thepioneerwoman.com CNAME .
 aiq-in.townandcountrymag.com CNAME .
 aiq-in.vacations.united.com CNAME .
@@ -64,6 +59,7 @@ aiqx.travismathew.co.uk CNAME .
 aiqx.travismathew.com CNAME .
 aiqx.wheeloffortune.com CNAME .
 aiqx.www.ghostbusters.com CNAME .
+anx-staging.learnwithhomer.com CNAME .
 anx.learnwithhomer.com CNAME .
 meta-events.backpacker.com CNAME .
 meta-events.bikereg.com CNAME .
@@ -99,5 +95,4 @@ meta-events.yellowstonepark.com CNAME .
 mr-in.beginlearning.com CNAME .
 mr-in.littlepassports.com CNAME .
 mr.pinkbike.com CNAME .
-anx-staging.learnwithhomer.com CNAME .
 mr-in-staging.beginlearning.com CNAME .
