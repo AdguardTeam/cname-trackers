@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,6 +44,7 @@ afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
 afm.vtmarketsfr.com CNAME .
 afm.vtmarketsid.com CNAME .
+afm.vtmarketsjp.com CNAME .
 afm.vtmarketsnet.com CNAME .
 afm.vtmarketsuk.com CNAME .
 afm.vtmarketsweb.com CNAME .
@@ -316,6 +317,7 @@ content.nu.com.mx CNAME .
 content.nubank.com.br CNAME .
 content.numobile.com.au CNAME .
 content.nycers.org CNAME .
+content.ofx.com CNAME .
 content.olympus.ao.com CNAME .
 content.orixbank.co.jp CNAME .
 content.partycity.ca CNAME .
@@ -341,6 +343,7 @@ content.royalairmaroc.com CNAME .
 content.royalvegascasino.ca CNAME .
 content.rubyfortune.ca CNAME .
 content.rubyfortunecasino.ca CNAME .
+content.rytbank.my CNAME .
 content.sb.lt CNAME .
 content.sfbli.com CNAME .
 content.sheerid.com CNAME .
@@ -392,12 +395,10 @@ content22.citi.eu CNAME .
 content22.citibank.ae CNAME .
 content22.citibank.co.id CNAME .
 content22.citibank.co.in CNAME .
-content22.citibank.co.th CNAME .
 content22.citibank.com CNAME .
 content22.citibank.com.au CNAME .
 content22.citibank.com.cn CNAME .
 content22.citibank.com.hk CNAME .
-content22.citibank.com.ph CNAME .
 content22.citibank.com.sg CNAME .
 content22.citibank.com.tw CNAME .
 content22.citibank.com.vn CNAME .
@@ -605,6 +606,7 @@ info.betway.co.za CNAME .
 info.betway.co.zm CNAME .
 info.betway.fr CNAME .
 info.betway.lat CNAME .
+info.betway.ng CNAME .
 info.betwaypartnersafrica.com CNAME .
 info.jackpotcity.co.za CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
@@ -620,6 +622,7 @@ kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
 ln.acornfun.com CNAME .
 ln.cash.app CNAME .
+ln.jackpotgo.club CNAME .
 ln.meudigio.com.br CNAME .
 ln.spinsorcery.net CNAME .
 ln.zenmerge.club CNAME .
@@ -1071,6 +1074,7 @@ tmcontent.meridiancu.ca CNAME .
 tmcontent.motusbank.ca CNAME .
 tmcontent.sixt.com CNAME .
 tmcontent.zoom.com CNAME .
+tmcontent.zoom.us CNAME .
 tmfp.klarna.com CNAME .
 tmi.my529.org CNAME .
 tmln.caesarscasino.com CNAME .

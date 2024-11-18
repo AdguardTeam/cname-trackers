@@ -17,6 +17,7 @@
 ||tk.airfrance.cg^
 ||tk.airfrance.ch^
 ||tk.airfrance.cm^
+||tk.airfrance.co.ao^
 ||tk.airfrance.co.il^
 ||tk.airfrance.co.jp^
 ||tk.airfrance.co.kr^
@@ -76,7 +77,6 @@
 ||tk.assurland.com^
 ||tk.assurlandpro.com^
 ||tk.atol.fr^
-||tk.balenciaga.com^
 ||tk.biovea.com^
 ||tk.blancheporte.be^
 ||tk.blancheporte.fr^

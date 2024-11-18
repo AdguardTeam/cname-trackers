@@ -319,6 +319,7 @@
 | doporuc.konferenceryba.cz | cz.affilbox.cz |
 | doporuc.mechaneo.cz | cz.affilbox.cz |
 | doporuc.necojakocola.cz | cz.affilbox.cz |
+| doporuc.promujdomov.cz | cz.affilbox.cz |
 | doporuc.skolaslava.cz | cz.affilbox.cz |
 | doporucim.zjistitcenu.cz | cz.affilbox.cz |
 | equilist.raj-ohlavek.cz | cz.affilbox.cz |
@@ -467,6 +468,7 @@
 | partner.artmaster.com | cz.affilbox.cz |
 | partner.artmasteracademy.cz | cz.affilbox.cz |
 | partner.astaxanthincz.cz | cz.affilbox.cz |
+| partner.austriaapotheke.sk | cz.affilbox.cz |
 | partner.avetour.cz | cz.affilbox.cz |
 | partner.babysigns.cz | cz.affilbox.cz |
 | partner.bandana.cz | cz.affilbox.cz |
@@ -481,6 +483,7 @@
 | partner.bitcoinzmenaren.sk | cz.affilbox.cz |
 | partner.bohemiaclean.eu | cz.affilbox.cz |
 | partner.bohempia.com | cz.affilbox.cz |
+| partner.bomtonbeauty.cz | cz.affilbox.cz |
 | partner.bontonck.cz | cz.affilbox.cz |
 | partner.bonyplus.cz | cz.affilbox.cz |
 | partner.booktook.cz | cz.affilbox.cz |
@@ -549,6 +552,7 @@
 | partner.ecomail.cz | cz.affilbox.cz |
 | partner.econea.cz | cz.affilbox.cz |
 | partner.edutu.cz | cz.affilbox.cz |
+| partner.elektrostech.cz | cz.affilbox.cz |
 | partner.energiezivota.com | cz.affilbox.cz |
 | partner.epravo.cz | cz.affilbox.cz |
 | partner.equilist.cz | cz.affilbox.cz |
@@ -704,6 +708,7 @@
 | partner.prosperk.cz | cz.affilbox.cz |
 | partner.proviznasiet.sk | cz.affilbox.cz |
 | partner.psidetektiv.cz | cz.affilbox.cz |
+| partner.respelen.cz | cz.affilbox.cz |
 | partner.root.cz | cz.affilbox.cz |
 | partner.royalfashion.cz | cz.affilbox.cz |
 | partner.rozhladna.sk | cz.affilbox.cz |

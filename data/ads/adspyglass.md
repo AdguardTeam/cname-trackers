@@ -10,6 +10,7 @@
 * api.clickaine.com
 * 7450.bodis.com
 * 77980.bodis.com
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -61,7 +62,6 @@
 | 6cf0e7801e8cd.clicknplay.to | 0i0i0i0.com |
 | 784.56ovido.site | 0i0i0i0.com |
 | 7bd3d001ff6.clicknplay.to | 0i0i0i0.com |
-| 91199a.xyz | 0i0i0i0.com |
 | 938az.xyz | 0i0i0i0.com |
 | a.1appup.com | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
@@ -349,6 +349,7 @@
 | bnrs.esexa.online | 0i0i0i0.com |
 | bnrs.manrec.cc | 0i0i0i0.com |
 | bnrs.shemrec.cc | 0i0i0i0.com |
+| bombozzz.xyz | 0i0i0i0.com |
 | boob.sukaporn.com | 0i0i0i0.com |
 | borrowjavgg124.fun | 0i0i0i0.com |
 | bort.busty-wife.com | 0i0i0i0.com |
@@ -461,7 +462,6 @@
 | dx7.sosporntube.com | 0i0i0i0.com |
 | e.bloblohub.com | 0i0i0i0.com |
 | e.celebsarchive.net | 0i0i0i0.com |
-| e.seematurevideos.com | 0i0i0i0.com |
 | e.sexbule.xxx | 0i0i0i0.com |
 | e.sexygirlscontact.com | 0i0i0i0.com |
 | easyjav12.fun | 0i0i0i0.com |
@@ -478,6 +478,7 @@
 | enrgy.fwtrck.com | 0i0i0i0.com |
 | entertainment3x.fun | 0i0i0i0.com |
 | environmental3x.fun | 0i0i0i0.com |
+| equity-dev.hubhubhub.name | 0i0i0i0.com |
 | esondvn.ehrydnmdoe.com | 0i0i0i0.com |
 | essential.awmcash.com | 0i0i0i0.com |
 | ethnic1266.fun | 0i0i0i0.com |
@@ -589,6 +590,7 @@
 | i.mikesmatures.com | 0i0i0i0.com |
 | i.wideblacks.com | 0i0i0i0.com |
 | i1cshi.axxxfeee.lat | 0i0i0i0.com |
+| i1i.heyaiii111iidsfsdbfjb132222ffco.xyz | 0i0i0i0.com |
 | iduq.com | 0i0i0i0.com |
 | ignore.hot-bbw-tube.com | 0i0i0i0.com |
 | ih3hswhi.sdbrrrr.lat | 0i0i0i0.com |
@@ -703,13 +705,10 @@
 | m.xrum.info | 0i0i0i0.com |
 | makejav11.fun | 0i0i0i0.com |
 | mamamia.vintageporno.stream | 0i0i0i0.com |
-| manduzo.xyz | 0i0i0i0.com |
 | mangoa.xyz | 0i0i0i0.com |
 | mangzoi.xyz | 0i0i0i0.com |
-| manzosui.xyz | 0i0i0i0.com |
 | marginjavgg124.fun | 0i0i0i0.com |
 | marketjavgg124.fun | 0i0i0i0.com |
-| markxa.xyz | 0i0i0i0.com |
 | mauzna.xyz | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
 | maxx1.a.pleasedonotblockme.com | 0i0i0i0.com |
@@ -818,7 +817,6 @@
 | paiena.xyz | 0i0i0i0.com |
 | paiwena.xyz | 0i0i0i0.com |
 | pangzz.xyz | 0i0i0i0.com |
-| panpant.xyz | 0i0i0i0.com |
 | pantuz.xyz | 0i0i0i0.com |
 | parkurl.com | 0i0i0i0.com |
 | pasteljav128.fun | 0i0i0i0.com |
@@ -867,7 +865,6 @@
 | pundr.manrec.cc | 0i0i0i0.com |
 | pundr.shemrec.cc | 0i0i0i0.com |
 | purp.sukaporn.com | 0i0i0i0.com |
-| puzzio.xyz | 0i0i0i0.com |
 | puzzoa.xyz | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
 | pziaix.xyz | 0i0i0i0.com |
@@ -887,11 +884,11 @@
 | quanzai.xyz | 0i0i0i0.com |
 | quatxio.xyz | 0i0i0i0.com |
 | question.hot-step-mom.com | 0i0i0i0.com |
-| quiazo.xyz | 0i0i0i0.com |
 | quitjav11.fun | 0i0i0i0.com |
 | quizna.xyz | 0i0i0i0.com |
 | quote.bloblohub.com | 0i0i0i0.com |
 | qx0.xnxxtubevideos.com | 0i0i0i0.com |
+| qyusgj.xyz | 0i0i0i0.com |
 | r.archertube.com | 0i0i0i0.com |
 | r.erohabu.com | 0i0i0i0.com |
 | r.eroticos.tv | 0i0i0i0.com |
@@ -902,6 +899,7 @@
 | redi.teengirl-pics.com | 0i0i0i0.com |
 | registration423.fun | 0i0i0i0.com |
 | reklama.teenfuckhd.com | 0i0i0i0.com |
+| reload.hotscopes.org | 0i0i0i0.com |
 | rema.neigh11.xyz | 0i0i0i0.com |
 | report.beta.bloblohub.com | 0i0i0i0.com |
 | rerunja.com | 0i0i0i0.com |
@@ -935,11 +933,9 @@
 | s.commissie.online | 0i0i0i0.com |
 | s.everydayporn.co | 0i0i0i0.com |
 | s.freeporncave.com | 0i0i0i0.com |
-| s.fuxporn.vip | 0i0i0i0.com |
 | s.grova.buzz | 0i0i0i0.com |
 | s.grova.xyz | 0i0i0i0.com |
 | s.isoporno.com | 0i0i0i0.com |
-| s.joypornyou.cc | 0i0i0i0.com |
 | s.krivo.buzz | 0i0i0i0.com |
 | s.malay.buzz | 0i0i0i0.com |
 | s.oralblow.com | 0i0i0i0.com |
@@ -1006,7 +1002,6 @@
 | starjav11.fun | 0i0i0i0.com |
 | staticz.hotpornfile.org | 0i0i0i0.com |
 | strikebreaker3x.fun | 0i0i0i0.com |
-| strwaoz.xyz | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
 | sub.empressleak.biz | 0i0i0i0.com |
 | subcom.uiiumovie.com | 0i0i0i0.com |
@@ -1040,8 +1035,6 @@
 | tolerant126.fun | 0i0i0i0.com |
 | touaz.xyz | 0i0i0i0.com |
 | touena.xyz | 0i0i0i0.com |
-| touzia.xyz | 0i0i0i0.com |
-| tozuoi.xyz | 0i0i0i0.com |
 | tr.7vid.net | 0i0i0i0.com |
 | track.sexbule.one | 0i0i0i0.com |
 | transmission423.fun | 0i0i0i0.com |
@@ -1104,7 +1097,6 @@
 | www.invast.site | 0i0i0i0.com |
 | www.ithaca.hubhubhub.name | 0i0i0i0.com |
 | www.javtvnow.xyz | 0i0i0i0.com |
-| www.letstry69.xyz | 0i0i0i0.com |
 | www.mysalo.store | 0i0i0i0.com |
 | www.n.bloblohub.com | 0i0i0i0.com |
 | www.pleasedonotblockme.com | 0i0i0i0.com |
@@ -1113,6 +1105,7 @@
 | www.uk.boffinsoft.com | 0i0i0i0.com |
 | www.upperoh.hubhubhub.name | 0i0i0i0.com |
 | www.vozesencarnadas.hubhubhub.name | 0i0i0i0.com |
+| www.web18781.hubhubhub.name | 0i0i0i0.com |
 | www.xz8.ru | 0i0i0i0.com |
 | www.zqwe.ru | 0i0i0i0.com |
 | www4.hentai-rpg.com | 0i0i0i0.com |
@@ -1149,6 +1142,7 @@
 | yapzoa.xyz | 0i0i0i0.com |
 | you4cdn.com | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
+| youaixx.xyz | 0i0i0i0.com |
 | yt.jabesmen.shop | 0i0i0i0.com |
 | yummycdn.com | 0i0i0i0.com |
 | z0000g.yorkvillemarketing.net | 0i0i0i0.com |
@@ -1186,3 +1180,4 @@
 | www.adxhand.name | u50.0i0i0i0.com |
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| ontj.com | u53.hypnorat.com |

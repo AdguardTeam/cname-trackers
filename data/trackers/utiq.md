@@ -24,6 +24,7 @@
 | utiq.24vita.de | frontend.prod.utiq-aws.net |
 | utiq.3djuegos.com | frontend.prod.utiq-aws.net |
 | utiq.3djuegosguias.com | frontend.prod.utiq-aws.net |
+| utiq.3djuegospc.com | frontend.prod.utiq-aws.net |
 | utiq.750g.com | frontend.prod.utiq-aws.net |
 | utiq.abc.es | frontend.prod.utiq-aws.net |
 | utiq.actu.fr | frontend.prod.utiq-aws.net |
@@ -140,6 +141,7 @@
 | utiq.jeuxvideo.com | frontend.prod.utiq-aws.net |
 | utiq.jux.news | frontend.prod.utiq-aws.net |
 | utiq.kino.de | frontend.prod.utiq-aws.net |
+| utiq.kreis-anzeiger.de | frontend.prod.utiq-aws.net |
 | utiq.kreisbote.de | frontend.prod.utiq-aws.net |
 | utiq.kreiszeitung.de | frontend.prod.utiq-aws.net |
 | utiq.kundendienst-info.de | frontend.prod.utiq-aws.net |
@@ -230,6 +232,7 @@
 | utiq.sports.fr | frontend.prod.utiq-aws.net |
 | utiq.stimme.de | frontend.prod.utiq-aws.net |
 | utiq.stylebook.de | frontend.prod.utiq-aws.net |
+| utiq.sudouest.fr | frontend.prod.utiq-aws.net |
 | utiq.sueddeutsche.de | frontend.prod.utiq-aws.net |
 | utiq.superdeporte.es | frontend.prod.utiq-aws.net |
 | utiq.t-online.de | frontend.prod.utiq-aws.net |
@@ -263,6 +266,7 @@
 | utiq.wmn.de | frontend.prod.utiq-aws.net |
 | utiq.wochenblatt.de | frontend.prod.utiq-aws.net |
 | utiq.xataka.com | frontend.prod.utiq-aws.net |
+| utiq.xatakafoto.com | frontend.prod.utiq-aws.net |
 | utiq.xatakahome.com | frontend.prod.utiq-aws.net |
 | utiq.xatakamovil.com | frontend.prod.utiq-aws.net |
 | utiq.xatakandroid.com | frontend.prod.utiq-aws.net |

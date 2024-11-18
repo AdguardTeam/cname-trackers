@@ -224,6 +224,7 @@
 ||ebis.kan54.jp^
 ||ebis.kimonoichiba.com^
 ||ebis.kubara.jp^
+||ebis.lululun.com^
 ||ebis.macchialabel.com^
 ||ebis.makeshop.jp^
 ||ebis.mamayaku.com^
@@ -303,6 +304,7 @@
 ||sinceregarden.sincere-garden.jp^
 ||test-ad.lucia-c.com^
 ||test-ad.mens-lucia.com^
+||tracking.axis-kobetsu.jp^
 ||tracking.axis.onl^
 ||tracking.mysurance.co.jp^
 ||tracking.nokai.jp^

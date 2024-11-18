@@ -27,6 +27,7 @@ l.beaute-test.com
 l.beauxarts.com
 l.bfmtv.com
 l.bibamagazine.fr
+l.bienpublic.com
 l.blissim.fr
 l.caminteresse.fr
 l.capital.fr
@@ -37,10 +38,12 @@ l.charentelibre.fr
 l.closermag.fr
 l.cuisineactuelle.fr
 l.diapasonmag.fr
+l.dna.fr
 l.doctissimo.fr
 l.dzfoot.com
 l.enfant.com
 l.entrenous.fr
+l.estrepublicain.fr
 l.euronews.com
 l.familiscope.fr
 l.femmeactuelle.fr
@@ -67,6 +70,7 @@ l.jeuneafrique.com
 l.jeuxvideo.com
 l.journaldemillau.fr
 l.ladepeche.fr
+l.lalsace.fr
 l.lanouvellerepublique.fr
 l.laprovence.com
 l.lardennais.fr
@@ -74,10 +78,14 @@ l.larepubliquedespyrenees.fr
 l.lavoixdunord.fr
 l.le10sport.com
 l.lechasseurfrancais.com
+l.ledauphine.com
 l.lefigaro.fr
 l.lejournaldelamaison.fr
+l.lejsl.com
 l.leparisien.fr
 l.lepoint.fr
+l.leprogres.fr
+l.lequipe.fr
 l.lequotidiendelart.com
 l.lesnumeriques.com
 l.letemps.ch
@@ -114,6 +122,7 @@ l.purebreak.com
 l.purepeople.com
 l.radiofrance.fr
 l.reporterre.net
+l.republicain-lorrain.fr
 l.rmc.fr
 l.rmcsport.fr
 l.roole.fr
@@ -134,6 +143,7 @@ l.touteleurope.eu
 l.traxmag.com
 l.varmatin.com
 l.voici.fr
+l.vosgesmatin.fr
 l.zdnet.fr
 nr.lanouvellerepublique.fr
 on.qobuz.com

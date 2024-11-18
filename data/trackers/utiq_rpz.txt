@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ utiq.24rhein.de CNAME .
 utiq.24vita.de CNAME .
 utiq.3djuegos.com CNAME .
 utiq.3djuegosguias.com CNAME .
+utiq.3djuegospc.com CNAME .
 utiq.750g.com CNAME .
 utiq.abc.es CNAME .
 utiq.actu.fr CNAME .
@@ -142,6 +143,7 @@ utiq.inspirational.es CNAME .
 utiq.jeuxvideo.com CNAME .
 utiq.jux.news CNAME .
 utiq.kino.de CNAME .
+utiq.kreis-anzeiger.de CNAME .
 utiq.kreisbote.de CNAME .
 utiq.kreiszeitung.de CNAME .
 utiq.kundendienst-info.de CNAME .
@@ -232,6 +234,7 @@ utiq.sportlerfrage.net CNAME .
 utiq.sports.fr CNAME .
 utiq.stimme.de CNAME .
 utiq.stylebook.de CNAME .
+utiq.sudouest.fr CNAME .
 utiq.sueddeutsche.de CNAME .
 utiq.superdeporte.es CNAME .
 utiq.t-online.de CNAME .
@@ -267,6 +270,7 @@ utiq.wlz-online.de CNAME .
 utiq.wmn.de CNAME .
 utiq.wochenblatt.de CNAME .
 utiq.xataka.com CNAME .
+utiq.xatakafoto.com CNAME .
 utiq.xatakahome.com CNAME .
 utiq.xatakamovil.com CNAME .
 utiq.xatakandroid.com CNAME .

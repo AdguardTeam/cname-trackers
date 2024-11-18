@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,9 @@ maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
 mktg.activemind.legal CNAME .
 mytrd.orion.at CNAME .
+pse.gabor.com CNAME .
+ric.arrive-im-herzogpark.de CNAME .
+ric.riedel-immobilien.de CNAME .
 src.vector.com CNAME .
 statistics.fruchtbarewelt.de CNAME .
 stats.folienmarkt.de CNAME .
@@ -85,11 +88,16 @@ webcontr.chiptuning.com CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.l.de CNAME .
 webcontr.pedalbox.com CNAME .
+webcontr.reisprinzen.de CNAME .
 webcontr.ryzon.net CNAME .
 webcontr.synvia.de CNAME .
 webcontr.verpoorten.de CNAME .
+webtr.dachser.com CNAME .
+weco.gasteo.de CNAME .
+weco.ilon.de CNAME .
 wt.leitz.org CNAME .
 wurst.hausschlachtebedarf.de CNAME .
+wurst.leffis.de CNAME .
 esub.akkusys.de CNAME .
 esub.akkusys.shop CNAME .
 esub.autobatterie-markt.de CNAME .

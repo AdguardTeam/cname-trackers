@@ -42,6 +42,7 @@
     * geodelivery.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
     * goldseek-static.aquaplatform.com
+    * hcs-console.aquaplatform.com
     * hcs-delivery.aquaplatform.com
     * hcs-static.aquaplatform.com
     * hourmedia-console.aquaplatform.com
@@ -83,6 +84,7 @@
     * portwest-delivery.aquaplatform.com
     * postandparcel-delivery.aquaplatform.com
     * postandparcel-static.aquaplatform.com
+    * proxibid-console.aquaplatform.com
     * proxibid-delivery.aquaplatform.com
     * proxibid-static.aquaplatform.com
     * ptp-delivery.aquaplatform.com
@@ -169,6 +171,8 @@
 | advertising.goldseek.com | goldseek-delivery.aquaplatform.com |
 | creatives.goldseek.com | goldseek-static.aquaplatform.com |
 | images.goldseek.com | goldseek-static.aquaplatform.com |
+| console.healthcarescene.com | hcs-console.aquaplatform.com |
+| www.console.healthcarescene.com | hcs-console.aquaplatform.com |
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
 | static.healthcarescene.com | hcs-static.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
@@ -230,6 +234,7 @@
 | images.jacilla.no | platformiq-cdn.aquaplatform.com |
 | images.mannenmedia.nl | platformiq-cdn.aquaplatform.com |
 | images.proxena-adserver.com | platformiq-cdn.aquaplatform.com |
+| informatm-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | static.hollandhortimedia.nl | platformiq-cdn.aquaplatform.com |
@@ -247,6 +252,7 @@
 | servedby.portwest.com | portwest-delivery.aquaplatform.com |
 | ads.postandparcel.info | postandparcel-delivery.aquaplatform.com |
 | static.postandparcel.info | postandparcel-static.aquaplatform.com |
+| adconsole.bidspotter.co.uk | proxibid-console.aquaplatform.com |
 | ads.bidspotter.co.uk | proxibid-delivery.aquaplatform.com |
 | ads.i-bidder.com | proxibid-delivery.aquaplatform.com |
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |

@@ -163,6 +163,7 @@
 ||albatross.creacoon.com^
 ||albatross.mypromo.co^
 ||albatross.ohseesoftware.com^
+||alligator.remotecyberwork.com^
 ||alpaca.hans-hornberger.com^
 ||alpaca.miidbaby.com^
 ||alpaca.thesocialmedwork.com^
@@ -279,7 +280,6 @@
 ||butterfly.rfortherestofus.com^
 ||buzzard.donotresearch.net^
 ||buzzard.ficabo.com.au^
-||buzzard.nimble.team^
 ||camel.gastro-plan.app^
 ||camel.nonpopularopinion.com^
 ||camel.warvik.no^
@@ -293,6 +293,7 @@
 ||cardinal.businessfirstonline.co.uk^
 ||cardinal.ensembleblock.com^
 ||cardinal.genx.be^
+||cardinal.krisenchat.de^
 ||cardinal.newman.is^
 ||cardinal.zenting.app^
 ||caribou.color.io^
@@ -309,7 +310,6 @@
 ||cat.sprucely.net^
 ||cat.thisminute.app^
 ||cat.tinylittlebusinesses.com^
-||cat.weddingsabroad.com^
 ||caterpilla.ibon.live^
 ||catfish.lucalabs.com^
 ||catfish.phuclh.com^
@@ -416,6 +416,7 @@
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
 ||donkey.masteringfinland.com^
+||donkey.mrfrisby.com^
 ||donkey.the3rd.place^
 ||dormouse.consentkit.com^
 ||dormouse.nektarium.de^
@@ -435,7 +436,6 @@
 ||echidna.hellotomorrow.agency^
 ||echidna.honeybadger.io^
 ||eel.aware7.de^
-||eel.beekeeperstudio.io^
 ||eel.ieo.do^
 ||egret.brothers.studio^
 ||egret.chankaryik.com^
@@ -620,6 +620,7 @@
 ||koala.readyfive.io^
 ||koi.artsvp.co^
 ||koi.fftf.cat^
+||koi.filtersource.com^
 ||koi.fullyexplained.co.uk^
 ||koi.henrydennis.dev^
 ||koi.lkae.dev^
@@ -810,7 +811,6 @@
 ||pig.notion.chat^
 ||pigeon.surtitlesolutions.com^
 ||pigeon.thankyuu.com^
-||pinniped.gardenofficeguide.co.uk^
 ||pinniped.quarantinecup.live^
 ||pinniped.resist.bot^
 ||pinniped.spacecountdown.com^
@@ -833,6 +833,7 @@
 ||porpoise.kristinholl.com^
 ||porpoise.numberzs.com^
 ||prairiedog.hashnode.com^
+||prairiedog.thisismattsmith.com^
 ||prawn.lionsmouth.digital^
 ||primate.logology.co^
 ||primate.oleggera.com^
@@ -879,7 +880,6 @@
 ||rook.clarify.io^
 ||rook.flowlens.com^
 ||rook.grithix.com^
-||rook.sameerhazari.com^
 ||rooster.cashforcolumbushouses.com^
 ||rooster.ohqcloud.com^
 ||sailfish.hoap.com^
@@ -1020,7 +1020,6 @@
 ||trout.batzo.net^
 ||trout.openfpl.com^
 ||trout.travelmassive.com^
-||trout.unicornplatform.com^
 ||tuna.ajaymantri.com^
 ||tuna.purplespider.com^
 ||turkey.tella.tv^
@@ -1065,6 +1064,7 @@
 ||whitefish.kenku.fm^
 ||wildcat.fspy.io^
 ||wildcat.longviewforecasting.com^
+||wildcat.restq.co^
 ||wildcat.vivritiamc.com^
 ||wildebeest.gmk.today^
 ||wildebeest.quarva.dev^

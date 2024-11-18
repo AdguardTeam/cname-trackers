@@ -264,6 +264,7 @@
 ||web.crm.speedup.it^
 ||web.diebayerische.de^
 ||web.e.aldermore.co.uk^
+||web.e.bifoldsales.co.uk^
 ||web.e.bolts.co.uk^
 ||web.e.compositesales.co.uk^
 ||web.e.dekogardensupplies.co.uk^

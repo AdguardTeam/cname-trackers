@@ -6,6 +6,7 @@
     * 0chris.goatcounter.com
     * 45rpm-ch.goatcounter.com
     * abdodaoud.goatcounter.com
+    * afirmation.goatcounter.com
     * apitman_com.goatcounter.com
     * artur.goatcounter.com
     * belak.goatcounter.com
@@ -18,7 +19,6 @@
     * cgcristi.goatcounter.com
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
-    * croustade.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
     * dungeon.goatcounter.com
@@ -28,6 +28,7 @@
     * gavin.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
+    * haseebmajid.goatcounter.com
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
     * huku.goatcounter.com
@@ -52,11 +53,13 @@
     * nhimmeo.goatcounter.com
     * novi.goatcounter.com
     * ooo.goatcounter.com
+    * paddy-site.goatcounter.com
     * palaisdesfetes.goatcounter.com
     * psiyum.goatcounter.com
     * renit.goatcounter.com
     * riggraz.goatcounter.com
     * rocketgoboom.goatcounter.com
+    * ryanch.goatcounter.com
     * satanisk.goatcounter.com
     * semipol.goatcounter.com
     * skeetstats.goatcounter.com
@@ -66,6 +69,7 @@
     * tailspace.goatcounter.com
     * tbx.goatcounter.com
     * thecrafters001.goatcounter.com
+    * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
     * trainsley69.goatcounter.com
     * trool.goatcounter.com
@@ -84,6 +88,7 @@
 | stats.0chris.com | 0chris.goatcounter.com |
 | stats.45rpm.ch | 45rpm-ch.goatcounter.com |
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
+| stats.afirmacijas.lv | afirmation.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | goat.belak.io | belak.goatcounter.com |
@@ -96,7 +101,6 @@
 | stats.cgcristi.xyz | cgcristi.goatcounter.com |
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
-| goat.croustade.studio | croustade.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
@@ -106,6 +110,7 @@
 | goat.gavv.in | gavin.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
+| stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | goat.huku.rocks | huku.goatcounter.com |
@@ -130,11 +135,13 @@
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |
+| c.paddyk45.de | paddy-site.goatcounter.com |
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | stats.renit.pl | renit.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
+| stats.ryanchmelir.com | ryanch.goatcounter.com |
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
@@ -144,6 +151,7 @@
 | goat.tailspace.net | tailspace.goatcounter.com |
 | gc.tbx.at | tbx.goatcounter.com |
 | stats.thecrafters001.com | thecrafters001.goatcounter.com |
+| goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
 | moo.geopogs.party | trool.goatcounter.com |

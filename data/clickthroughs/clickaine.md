@@ -74,7 +74,6 @@
 | clkn2.apostle.onl | api.clickaine.com |
 | clkn3.apostle.onl | api.clickaine.com |
 | clknrtrg.pro | api.clickaine.com |
-| cln.willyporn.com | api.clickaine.com |
 | cn4.animehdl.net | api.clickaine.com |
 | cn4.cheemsporn.com | api.clickaine.com |
 | cvk.supklik.com | api.clickaine.com |
@@ -117,8 +116,8 @@
 | s1.rtnews.pro | api.clickaine.com |
 | s3.rtnews.pro | api.clickaine.com |
 | s5.rtnews.pro | api.clickaine.com |
-| sda.am-da.xyz | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
+| sunie21.gimmeporn.xyz | api.clickaine.com |
 | taco.sexreels.net | api.clickaine.com |
 | tcp.topcomicporno.net | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |

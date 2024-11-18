@@ -239,6 +239,7 @@
 | plausible.nickmazuk.com | custom.plausible.io |
 | plausible.nmyvsn.net | custom.plausible.io |
 | plausible.nuqu.org | custom.plausible.io |
+| plausible.plausible.tangodelta.media | custom.plausible.io |
 | plausible.prufit.co | custom.plausible.io |
 | plausible.pumpkint.com | custom.plausible.io |
 | plausible.quantumcomputingexplained.com | custom.plausible.io |
@@ -340,6 +341,7 @@
 | stats.achtsame-yonimassage.de | custom.plausible.io |
 | stats.activityvault.io | custom.plausible.io |
 | stats.adlperformance.es | custom.plausible.io |
+| stats.aikidowaza.com | custom.plausible.io |
 | stats.aixbrain.de | custom.plausible.io |
 | stats.albert-kropp-gmbh.de | custom.plausible.io |
 | stats.alibhai.co | custom.plausible.io |
@@ -453,7 +455,6 @@
 | stats.divyanshu013.dev | custom.plausible.io |
 | stats.dmail.co.nz | custom.plausible.io |
 | stats.dmarcdigests.com | custom.plausible.io |
-| stats.doana-r.com | custom.plausible.io |
 | stats.doors.live | custom.plausible.io |
 | stats.dotnetos.org | custom.plausible.io |
 | stats.dotplan.io | custom.plausible.io |

@@ -1,22 +1,21 @@
 !
 ! Company name: Commanders Act
+||data.auchandirect.fr^
 ||data.decathlon.co.uk^
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.decathlon.it^
 ||data.decathlon.pl^
-||data.ouigo.com^
+||data.ricaud.com^
+||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.ch^
-||configure.adlermode.com^
-||data.auchandirect.fr^
-||data.ricaud.com^
-||data.ubi.com^
-||tag.boulanger.fr^
 ||tc.europcar.com^
 ||tc.europcar.com.au^
 ||tc.europcar.de^
 ||tcdata.fnac.com^
+||configure.adlermode.com^
+||tag.boulanger.fr^

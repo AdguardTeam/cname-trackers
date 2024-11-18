@@ -12,7 +12,6 @@
     * tk-apprentis-auteuil-com.wizaly.com
     * tk-assurland-com.wizaly.com
     * tk-atol-fr.wizaly.com
-    * tk-balenciaga-com.wizaly.com
     * tk-biovea-com.wizaly.com
     * tk-blancheporte-be.wizaly.com
     * tk-blancheporte-fr.wizaly.com
@@ -95,7 +94,6 @@
 | tk.assurlandpro.com | tk-assurland-com.wizaly.com |
 | tk.opinion-assurances.fr | tk-assurland-com.wizaly.com |
 | tk.atol.fr | tk-atol-fr.wizaly.com |
-| tk.balenciaga.com | tk-balenciaga-com.wizaly.com |
 | tk.biovea.com | tk-biovea-com.wizaly.com |
 | tk.blancheporte.be | tk-blancheporte-be.wizaly.com |
 | tk.blancheporte.fr | tk-blancheporte-fr.wizaly.com |
@@ -197,6 +195,7 @@
 | tk.airfrance.cg | tkairfrance.wizaly.com |
 | tk.airfrance.ch | tkairfrance.wizaly.com |
 | tk.airfrance.cm | tkairfrance.wizaly.com |
+| tk.airfrance.co.ao | tkairfrance.wizaly.com |
 | tk.airfrance.co.il | tkairfrance.wizaly.com |
 | tk.airfrance.co.jp | tkairfrance.wizaly.com |
 | tk.airfrance.co.kr | tkairfrance.wizaly.com |

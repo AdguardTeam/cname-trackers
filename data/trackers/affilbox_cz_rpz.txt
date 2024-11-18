@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -311,6 +311,7 @@ doporuc.hopsej.cz CNAME .
 doporuc.konferenceryba.cz CNAME .
 doporuc.mechaneo.cz CNAME .
 doporuc.necojakocola.cz CNAME .
+doporuc.promujdomov.cz CNAME .
 doporuc.skolaslava.cz CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
@@ -459,6 +460,7 @@ partner.antihacker.cz CNAME .
 partner.artmaster.com CNAME .
 partner.artmasteracademy.cz CNAME .
 partner.astaxanthincz.cz CNAME .
+partner.austriaapotheke.sk CNAME .
 partner.avetour.cz CNAME .
 partner.babysigns.cz CNAME .
 partner.bandana.cz CNAME .
@@ -473,6 +475,7 @@ partner.biomag.cz CNAME .
 partner.bitcoinzmenaren.sk CNAME .
 partner.bohemiaclean.eu CNAME .
 partner.bohempia.com CNAME .
+partner.bomtonbeauty.cz CNAME .
 partner.bontonck.cz CNAME .
 partner.bonyplus.cz CNAME .
 partner.booktook.cz CNAME .
@@ -541,6 +544,7 @@ partner.eandilek.cz CNAME .
 partner.ecomail.cz CNAME .
 partner.econea.cz CNAME .
 partner.edutu.cz CNAME .
+partner.elektrostech.cz CNAME .
 partner.energiezivota.com CNAME .
 partner.epravo.cz CNAME .
 partner.equilist.cz CNAME .
@@ -696,6 +700,7 @@ partner.prosperity-vision.com CNAME .
 partner.prosperk.cz CNAME .
 partner.proviznasiet.sk CNAME .
 partner.psidetektiv.cz CNAME .
+partner.respelen.cz CNAME .
 partner.root.cz CNAME .
 partner.royalfashion.cz CNAME .
 partner.rozhladna.sk CNAME .

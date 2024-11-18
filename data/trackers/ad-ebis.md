@@ -58,6 +58,7 @@
     * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
     * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
+    * 2cc59598-glhirlqn.cname.ebis.ne.jp
     * 2cf4b0df-n5mdheza.cname.ebis.ne.jp
     * 2ea869fd-4z4kfqrd.cname.ebis.ne.jp
     * 2effafae-p5xsryk6.cname.ebis.ne.jp
@@ -215,6 +216,7 @@
     * a6a5d774-vsrgbn9q.cname.ebis.ne.jp
     * aa9c1a10-bxd3nsfc.cname.ebis.ne.jp
     * aba2bacf-gbnru9wt.cname.ebis.ne.jp
+    * ac07a441-hd5f4dhg.cname.ebis.ne.jp
     * ac8dd399-7xybwgkv.cname.ebis.ne.jp
     * ad332265-3fbqyybv.cname.ebis.ne.jp
     * add991cb-t3ucd5yy.cname.ebis.ne.jp
@@ -380,6 +382,7 @@
 | corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
 | ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
+| ebis.lululun.com | 2cc59598-glhirlqn.cname.ebis.ne.jp |
 | adebis.zenyaku-hbshop.com | 2cf4b0df-n5mdheza.cname.ebis.ne.jp |
 | mcad.modsclinic-osaka.com | 2ea869fd-4z4kfqrd.cname.ebis.ne.jp |
 | isebis.takamiclinic.or.jp | 2effafae-p5xsryk6.cname.ebis.ne.jp |
@@ -537,6 +540,7 @@
 | adebis.thd-web.jp | a6a5d774-vsrgbn9q.cname.ebis.ne.jp |
 | nlp-japan.life-and-mind.com | aa9c1a10-bxd3nsfc.cname.ebis.ne.jp |
 | ade.jfx.co.jp | aba2bacf-gbnru9wt.cname.ebis.ne.jp |
+| tracking.axis-kobetsu.jp | ac07a441-hd5f4dhg.cname.ebis.ne.jp |
 | ebis.jobcan.ne.jp | ac8dd399-7xybwgkv.cname.ebis.ne.jp |
 | isebis.yutoriform.com | ad332265-3fbqyybv.cname.ebis.ne.jp |
 | ebiscname.infofactory.jp | add991cb-t3ucd5yy.cname.ebis.ne.jp |

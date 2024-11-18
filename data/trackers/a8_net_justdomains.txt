@@ -200,6 +200,7 @@ a8.mamaworks.jp
 a8.manara.jp
 a8.mar-cari.jp
 a8.medireanetshopoi.com
+a8.migi-agari.co.jp
 a8.migxl.com
 a8.minion-wifi.com
 a8.mira-feel.com
@@ -215,6 +216,7 @@ a8.n-pri.jp
 a8.nachurabo.com
 a8.nanafu.tokyo
 a8.narikiri.me
+a8.natural-elements.jp
 a8.nengahonpo.com
 a8.nengajyo.co.jp
 a8.neur.jp
@@ -256,7 +258,6 @@ a8.ricafrosh.com
 a8.ringbell.co.jp
 a8.rinshosiken.com
 a8.route-roller.info
-a8.runway-harmonia.co.jp
 a8.ryugaku.kuraveil.jp
 a8.sakemuseum.com
 a8.sakuramobile.jp
@@ -928,6 +929,7 @@ a8cv.gaikouexterior-partners.jp
 a8cv.gakuen.omobic.com
 a8cv.gb-chat.com
 a8cv.gbset.jp
+a8cv.genesis-nipt.com
 a8cv.gigabaito.com
 a8cv.gimuiko.com
 a8cv.global-dive.jp
@@ -1029,7 +1031,6 @@ a8cv.lalavie.jp
 a8cv.lancers.jp
 a8cv.laviepre.co.jp
 a8cv.lc-jewel.jp
-a8cv.lear-caree.com
 a8cv.leasonable.com
 a8cv.lens-1.jp
 a8cv.leoandlea.com
@@ -1225,6 +1226,7 @@ a8cv.taclinic.jp
 a8cv.taiko-direct.jp
 a8cv.taisyokudaiko.jp
 a8cv.tamago-repeat.com
+a8cv.taxi-qjin.com
 a8cv.techkidsschool.jp
 a8cv.tenishokunext.jp
 a8cv.tenkuryo.jp

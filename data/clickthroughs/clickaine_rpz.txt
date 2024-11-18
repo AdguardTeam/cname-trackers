@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -77,7 +77,6 @@ clkn.moviesinspector.com CNAME .
 clkn2.apostle.onl CNAME .
 clkn3.apostle.onl CNAME .
 clknrtrg.pro CNAME .
-cln.willyporn.com CNAME .
 cn4.animehdl.net CNAME .
 cn4.cheemsporn.com CNAME .
 cvk.supklik.com CNAME .
@@ -120,8 +119,8 @@ reg.ancensored.com CNAME .
 s1.rtnews.pro CNAME .
 s3.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
-sda.am-da.xyz CNAME .
 snow.snowdayonline.xyz CNAME .
+sunie21.gimmeporn.xyz CNAME .
 taco.sexreels.net CNAME .
 tcp.topcomicporno.net CNAME .
 v040419.badjojo.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 adamsads.midtc.com CNAME .
+adconsole.bidspotter.co.uk CNAME .
 adconsole.kozoom.com CNAME .
 adconsole.lot-tissimo.com CNAME .
 adconsole.sniffies.com CNAME .
@@ -75,6 +76,7 @@ console.datateam.co.uk CNAME .
 console.everythingcolorado.com CNAME .
 console.falconstudios.com CNAME .
 console.greenspring.com CNAME .
+console.healthcarescene.com CNAME .
 console.hour-media.com CNAME .
 console.imagineobx.com CNAME .
 console.informingnews.com CNAME .
@@ -95,6 +97,7 @@ images.jacilla.no CNAME .
 images.mannenmedia.nl CNAME .
 images.proxena-adserver.com CNAME .
 images.worldofshowjumping.com CNAME .
+informatm-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
 media360ads.midtc.com CNAME .
 openx.mondiale.co.uk CNAME .
@@ -181,6 +184,7 @@ www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.api.adbility-media.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
+www.console.healthcarescene.com CNAME .
 www.display.lawbulletin.com CNAME .
 www.proforums.com CNAME .
 www.revive-static.worldscreen.com CNAME .

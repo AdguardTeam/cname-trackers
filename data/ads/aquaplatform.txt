@@ -1,6 +1,7 @@
 !
 ! Company name: Aquaplatform
 ||adamsads.midtc.com^
+||adconsole.bidspotter.co.uk^
 ||adconsole.kozoom.com^
 ||adconsole.lot-tissimo.com^
 ||adconsole.sniffies.com^
@@ -64,6 +65,7 @@
 ||console.everythingcolorado.com^
 ||console.falconstudios.com^
 ||console.greenspring.com^
+||console.healthcarescene.com^
 ||console.hour-media.com^
 ||console.imagineobx.com^
 ||console.informingnews.com^
@@ -84,6 +86,7 @@
 ||images.mannenmedia.nl^
 ||images.proxena-adserver.com^
 ||images.worldofshowjumping.com^
+||informatm-static.reviveservers.com^
 ||lalala.geenstijl.nl^
 ||media360ads.midtc.com^
 ||openx.mondiale.co.uk^
@@ -170,6 +173,7 @@
 ||www.adserver.sonicplug.com^
 ||www.api.adbility-media.com^
 ||www.cdn-adv.unionesarda.it^
+||www.console.healthcarescene.com^
 ||www.display.lawbulletin.com^
 ||www.proforums.com^
 ||www.revive-static.worldscreen.com^

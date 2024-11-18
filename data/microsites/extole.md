@@ -303,7 +303,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -417,12 +416,14 @@
     * pacsafe.extole.io
     * pacu.extole.io
     * panerabread.extole.io
+    * parrainage-quickbooks-fr.extole.io
     * partsvu.extole.io
     * paulmitchell.extole.io
     * paylocity.extole.io
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -436,6 +437,7 @@
     * pottery-barn.extole.io
     * princess.extole.io
     * princessau.extole.io
+    * princesscruises.em.extole.io
     * princessuk.extole.io
     * prokeds.extole.io
     * propark.extole.io
@@ -455,6 +457,7 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
+    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -528,6 +531,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -573,6 +577,7 @@
     * washtrust.extole.io
     * wearesouthwind.extole.io
     * wecohospitality.extole.io
+    * westerracu.extole.io
     * whiparound.extole.io
     * whistle.extole.io
     * whitehouseblackmarket.extole.io
@@ -819,6 +824,7 @@
 | kenn.extoleu.com | extoleu.extole.io |
 | rob.extoleu.com | extoleu.extole.io |
 | ufsmdjkg1zhzcx9i.extoleu.com | extoleu.extole.io |
+| www.rob.extoleu.com | extoleu.extole.io |
 | social.fabkids.com | fabkids-ssl.extole.com |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
@@ -888,6 +894,7 @@
 | share.tauntongazette.com | gannett.extole.io |
 | share.tcpalm.com | gannett.extole.io |
 | share.telegram.com | gannett.extole.io |
+| share.theadvertiser.com | gannett.extole.io |
 | share.thedailyjournal.com | gannett.extole.io |
 | share.theledger.com | gannett.extole.io |
 | share.thenorthwestern.com | gannett.extole.io |
@@ -912,7 +919,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1084,6 +1090,7 @@
 | refer.pageonce.com | pageonce.extole.com |
 | refer.panerabread.com | panerabread.extole.io |
 | refer.paramountsolar.com | paramountsolar.extole.com |
+| www.parrainage-quickbooks.fr | parrainage-quickbooks-fr.extole.io |
 | share.partsvu.com | partsvu.extole.io |
 | share.paulmitchell.com | paulmitchell.extole.io |
 | refer.paylocity.com | paylocity.extole.io |
@@ -1091,6 +1098,7 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1111,6 +1119,7 @@
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
 | refer-au.princess.com | princessau.extole.io |
+| em1476.princesscruises.com | princesscruises.em.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
@@ -1137,6 +1146,7 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
+| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1236,6 +1246,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1310,6 +1321,7 @@
 | www.trevoce.com | web-tool-qa.lb.extole.com |
 | refer.webs.com | webs.extole.com |
 | share.wecohospitality.com | wecohospitality.extole.io |
+| refer.westerracu.com | westerracu.extole.io |
 | refer.wgu.edu | wgu.extole.com |
 | share.whiparound.com | whiparound.extole.io |
 | share.whistle.com | whistle.extole.io |

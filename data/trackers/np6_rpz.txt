@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -64,6 +64,7 @@ tr.asp00a0.espmp-cufr.net CNAME .
 tr.asp00a1.espmp-agfr.net CNAME .
 tr.asp00a3.espmp-agfr.net CNAME .
 tr.asp00a6.espmp-nifr.net CNAME .
+tr.asp00ab.espmp-cufr.net CNAME .
 tr.asp00ah.espmp-nifr.net CNAME .
 tr.asp00am.espmp-cufr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
@@ -80,6 +81,7 @@ tr.asp109e.espmp-cufr.net CNAME .
 tr.asp109y.espmp-agfr.net CNAME .
 tr.asp10a7.espmp-aufr.net CNAME .
 tr.asp10ai.espmp-nifr.net CNAME .
+tr.asp10aj.espmp-aufr.net CNAME .
 tr.asp10ap.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10b3.espmp-agfr.net CNAME .
@@ -90,6 +92,7 @@ tr.asp10c8.espmp-agfr.net CNAME .
 tr.asp10cc.espmp-nifr.net CNAME .
 tr.asp10cg.espmp-nifr.net CNAME .
 tr.asp10ch.espmp-nifr.net CNAME .
+tr.asp10cp.espmp-nifr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10d7.espmp-nifr.net CNAME .
 tr.asp10de.espmp-agfr.net CNAME .
@@ -120,6 +123,7 @@ tr.asp2035.espmp-nifr.net CNAME .
 tr.asp203m.espmp-cufr.net CNAME .
 tr.asp2045.espmp-nifr.net CNAME .
 tr.asp204q.espmp-cufr.net CNAME .
+tr.asp204v.espmp-cufr.net CNAME .
 tr.asp205a.espmp-cufr.net CNAME .
 tr.asp2063.espmp-nifr.net CNAME .
 tr.asp206k.espmp-agfr.net CNAME .
@@ -141,6 +145,7 @@ tr.bati-partner.be CNAME .
 tr.bati-partners.be CNAME .
 tr.batirenover.info CNAME .
 tr.batiweb.co CNAME .
+tr.batiwebmedia.com CNAME .
 tr.bel-pros.be CNAME .
 tr.bern.espmp-nifr.net CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
@@ -193,6 +198,7 @@ tr.ciblexo.fr CNAME .
 tr.cifa.espmp-nifr.net CNAME .
 tr.cifa02b.espmp-aufr.net CNAME .
 tr.cifa02d.espmp-aufr.net CNAME .
+tr.cifa02h.espmp-aufr.net CNAME .
 tr.cifa02k.espmp-aufr.net CNAME .
 tr.cifa02l.espmp-nifr.net CNAME .
 tr.citiesforlifeparis.latribune.fr CNAME .
@@ -212,7 +218,6 @@ tr.clients.idaia.group CNAME .
 tr.cnaf.espmp-nifr.net CNAME .
 tr.cobranca.younited-credit.com CNAME .
 tr.cogedim.espmp-agfr.net CNAME .
-tr.collectif.groupe-vyv.fr CNAME .
 tr.com-clients.sfr.fr CNAME .
 tr.com-parc.sfr.fr CNAME .
 tr.com-red.sfr.fr CNAME .
@@ -269,6 +274,7 @@ tr.contrats.cetelem.fr CNAME .
 tr.contrats.cofinoga.fr CNAME .
 tr.contrats.domofinance.fr CNAME .
 tr.corporate.moethennessy.com CNAME .
+tr.courriel.ganassurances.fr CNAME .
 tr.courriel.mae.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
@@ -309,6 +315,7 @@ tr.devisminute-siteecommerce.com CNAME .
 tr.devisminute-weber.com CNAME .
 tr.devize-companeo.ro CNAME .
 tr.devizul-meu.ro CNAME .
+tr.dial03g.espmp-agfr.net CNAME .
 tr.digitalacademy.np6.com CNAME .
 tr.digitaldigest.lvmh.com CNAME .
 tr.directferries.com CNAME .
@@ -441,6 +448,7 @@ tr.group-appointments.lvmh.fr CNAME .
 tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
 tr.gtr.moethennessy.com CNAME .
+tr.gvbn.espmp-agfr.net CNAME .
 tr.haute-maurienne-vanoise.net CNAME .
 tr.hcahealthcare.co.uk CNAME .
 tr.hello.maisonfoody.com CNAME .
@@ -505,6 +513,7 @@ tr.info.np6.fr CNAME .
 tr.info.oceane-pme.com CNAME .
 tr.info.offres-cartegie.fr CNAME .
 tr.info.onboarding.corporatecards.bnpparibas CNAME .
+tr.info.parlons-incontinence.fr CNAME .
 tr.info.perl.fr CNAME .
 tr.info.ph-bpifrance.fr CNAME .
 tr.info.phsolidaire-bpifrance.fr CNAME .
@@ -554,7 +563,6 @@ tr.inspiration.culture-data.fr CNAME .
 tr.interieur.cotemaison.fr CNAME .
 tr.interviews-mediametrie.fr CNAME .
 tr.invest.younited-credit.com CNAME .
-tr.invitation-mesdessous.fr CNAME .
 tr.invitation.perfectstay.com CNAME .
 tr.ipsos-surveys.com CNAME .
 tr.ispaconsulting.com CNAME .
@@ -717,6 +725,7 @@ tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
 tr.news.alinea.fr CNAME .
 tr.news.allopneus.com CNAME .
+tr.news.apotamox.com CNAME .
 tr.news.aramisauto.com CNAME .
 tr.news.assuragency.net CNAME .
 tr.news.bruneau.fr CNAME .
@@ -734,6 +743,7 @@ tr.news.cenpac.fr CNAME .
 tr.news.chapsvision.com CNAME .
 tr.news.chezmonveto.com CNAME .
 tr.news.chilican.com CNAME .
+tr.news.cioradio.tv CNAME .
 tr.news.clicochic.com CNAME .
 tr.news.companeo.es CNAME .
 tr.news.companeo.ro CNAME .
@@ -890,7 +900,6 @@ tr.newsletter.cuisine-plus.tv CNAME .
 tr.newsletter.ecig-privee.fr CNAME .
 tr.newsletter.erenumerique.fr CNAME .
 tr.newsletter.etoiledevenus.com CNAME .
-tr.newsletter.fotodiscount.com CNAME .
 tr.newsletter.huilesdolive.fr CNAME .
 tr.newsletter.leocare.eu CNAME .
 tr.newsletter.location.boulanger.com CNAME .
@@ -906,7 +915,7 @@ tr.newsletter.opcoep.fr CNAME .
 tr.newsletter.photoservice.com CNAME .
 tr.newsletter.phyto.com CNAME .
 tr.newsletter.plurielmedia.com CNAME .
-tr.newsletter.tiragephoto.fr CNAME .
+tr.newsletter.veuveclicquot.com CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletterpagesjaunes.fr CNAME .
 tr.newsletters-bonpoint.com CNAME .
@@ -959,11 +968,11 @@ tr.orcamentos-companeo.pt CNAME .
 tr.oxatis.devisdirect.com CNAME .
 tr.panels-mediametrie.fr CNAME .
 tr.part.offres-cartegie.fr CNAME .
-tr.partenaire.groupe-vyv.fr CNAME .
 tr.partenaire.manageo.info CNAME .
 tr.particuliers8.engie.com CNAME .
 tr.partners.younited-credit.it CNAME .
 tr.payment.lvmh.com CNAME .
+tr.perv.espmp-agfr.net CNAME .
 tr.phjk.espmp-nifr.net CNAME .
 tr.pipa.espmp-aufr.net CNAME .
 tr.pixe.espmp-cufr.net CNAME .
@@ -976,11 +985,13 @@ tr.politicoevents.eu CNAME .
 tr.politicolive.eu CNAME .
 tr.politicomarketing.eu CNAME .
 tr.portail.afpa.fr CNAME .
+tr.preferenza.unaoffertaalgiorno.com CNAME .
 tr.presupuesto-b2b.es CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
 tr.pro.odalys-vacances.com CNAME .
+tr.pro.residencehappysenior.fr CNAME .
 tr.pro.sgit.net CNAME .
 tr.programme-voyageur-sncf.com CNAME .
 tr.projet.cotemaison.fr CNAME .
@@ -996,7 +1007,6 @@ tr.qualitaveicolo.com CNAME .
 tr.qualite.groupama.com CNAME .
 tr.qualite.groupebarriere.com CNAME .
 tr.qualite.viparis.com CNAME .
-tr.qualitevehicule.fr CNAME .
 tr.qualityvehiclesurvey.com CNAME .
 tr.quotes.digital CNAME .
 tr.quotes4business.com CNAME .
@@ -1079,6 +1089,7 @@ tr.tourisme.visit-lanarbonnaise.com CNAME .
 tr.tpe.harmonie-mutuelle.fr CNAME .
 tr.tr.bricodepot.com CNAME .
 tr.trafficnews.lyria.com CNAME .
+tr.ug2r.espmp-agfr.net CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
 tr.uk.icicibank.com CNAME .
 tr.uk.katun.com CNAME .

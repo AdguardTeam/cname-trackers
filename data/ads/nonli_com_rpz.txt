@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ l.beaute-test.com CNAME .
 l.beauxarts.com CNAME .
 l.bfmtv.com CNAME .
 l.bibamagazine.fr CNAME .
+l.bienpublic.com CNAME .
 l.blissim.fr CNAME .
 l.caminteresse.fr CNAME .
 l.capital.fr CNAME .
@@ -48,10 +49,12 @@ l.charentelibre.fr CNAME .
 l.closermag.fr CNAME .
 l.cuisineactuelle.fr CNAME .
 l.diapasonmag.fr CNAME .
+l.dna.fr CNAME .
 l.doctissimo.fr CNAME .
 l.dzfoot.com CNAME .
 l.enfant.com CNAME .
 l.entrenous.fr CNAME .
+l.estrepublicain.fr CNAME .
 l.euronews.com CNAME .
 l.familiscope.fr CNAME .
 l.femmeactuelle.fr CNAME .
@@ -78,6 +81,7 @@ l.jeuneafrique.com CNAME .
 l.jeuxvideo.com CNAME .
 l.journaldemillau.fr CNAME .
 l.ladepeche.fr CNAME .
+l.lalsace.fr CNAME .
 l.lanouvellerepublique.fr CNAME .
 l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
@@ -85,10 +89,14 @@ l.larepubliquedespyrenees.fr CNAME .
 l.lavoixdunord.fr CNAME .
 l.le10sport.com CNAME .
 l.lechasseurfrancais.com CNAME .
+l.ledauphine.com CNAME .
 l.lefigaro.fr CNAME .
 l.lejournaldelamaison.fr CNAME .
+l.lejsl.com CNAME .
 l.leparisien.fr CNAME .
 l.lepoint.fr CNAME .
+l.leprogres.fr CNAME .
+l.lequipe.fr CNAME .
 l.lequotidiendelart.com CNAME .
 l.lesnumeriques.com CNAME .
 l.letemps.ch CNAME .
@@ -125,6 +133,7 @@ l.purebreak.com CNAME .
 l.purepeople.com CNAME .
 l.radiofrance.fr CNAME .
 l.reporterre.net CNAME .
+l.republicain-lorrain.fr CNAME .
 l.rmc.fr CNAME .
 l.rmcsport.fr CNAME .
 l.roole.fr CNAME .
@@ -145,6 +154,7 @@ l.touteleurope.eu CNAME .
 l.traxmag.com CNAME .
 l.varmatin.com CNAME .
 l.voici.fr CNAME .
+l.vosgesmatin.fr CNAME .
 l.zdnet.fr CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .

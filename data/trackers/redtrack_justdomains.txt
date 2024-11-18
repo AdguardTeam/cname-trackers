@@ -341,8 +341,6 @@ ad.charmedbrightmornings.com
 ad.domquigleyphotography.com
 ad.droptheknowhere.com
 ad.duttak.com
-ad.top-max-buy.live
-ad.trackrdtck.com
 adaptnestrk.com
 addrawlestrk.com
 adhegmenttrk.com
@@ -482,6 +480,7 @@ blimberflap.wumplesnack.site
 blimberwham.quaggletwix.site
 blog.5minskin.com
 blog.blogdavanessa.com.br
+blog.comunidadebelezaempauta.com.br
 blog.cuidadocaseiro.com
 blog.fithealthbeautlifestyle.com
 blog.fithealthbeautnewsnow.com
@@ -495,6 +494,7 @@ bolgaria.treker.fun
 bom.flourishpath.online
 bonus.sunshinesolar.homes
 bonus.tortuga-promotions.com
+borillettrk.com
 boss-www.com
 bot.trackall.site
 botevgrad.treker.fun
@@ -710,6 +710,7 @@ durgapur.globalsearch.space
 dussel.trekkww.fun
 e.equipolatinodeahorro.com
 easytrk.overalldomaintrk.org
+echyzrtrk.com
 eckta.trekkww.fun
 ecologi.link
 ehtrack.lifebrandsdigital.com
@@ -778,7 +779,6 @@ fev42.flourishpath.online
 fev45x.flourishpath.online
 fev47.flourishpath.online
 fev55.flourishpath.online
-fev55x.flourishpath.online
 fev70.flourishpath.online
 fev73.flourishpath.online
 fev74.flourishpath.online
@@ -817,8 +817,6 @@ fujisawa.treker.fun
 fun.healthybenefitstoday.com
 funes.treker.fun
 fuzhou.treker.fun
-fw.onbrams.com
-ga.amgtrack.link
 gad.wellnesswavesonline.com
 gama.manifestacaoriquezaarabe.com
 game.ftuzl.co
@@ -928,7 +926,6 @@ go.healthywellnessfromwithin.com
 go.helpfultipsforall.com
 go.hometica.co
 go.hsrtrack.com
-go.ice-protocol.com
 go.instant-redirector.com
 go.insuranceenrollmentsupporting.com
 go.jbihairtrk.com
@@ -946,7 +943,6 @@ go.masteryxz.com
 go.mediallowance.com
 go.melhoresbets.com
 go.metafundslnk.com
-go.miro-kredit.ch
 go.mmodragon.com
 go.mmolegend.com
 go.myinnovativefinds.com
@@ -1137,12 +1133,14 @@ ipadclaim-1jrztrk.com
 ipadclaim-3yoptrk.com
 ipadclaim-424ptrk.com
 ipadclaim-4e64trk.com
+ipadclaim-4x5mtrk.com
 ipadclaim-6d7ltrk.com
 ipadclaim-bi10trk.com
 ipadclaim-jv6ntrk.com
 ipadclaim-kcdstrk.com
 ipadclaim-lpsotrk.com
 ipadclaim-mar0trk.com
+ipadclaim-p8m7trk.com
 ipadclaim-q3xwtrk.com
 ipadclaim-rgdwtrk.com
 ipadclaim-xtebtrk.com
@@ -1196,6 +1194,7 @@ khenifra.treker.fun
 khouribga.treker.fun
 kiama.treker.fun
 kiotome.stockaded.uno
+kjsagtrk.com
 klerdond.nirtlos.uno
 konnektikut.trekkww.fun
 kristianstad.treker.fun
@@ -1230,6 +1229,7 @@ lemos.treker.fun
 leroy.trekkww.space
 lesotto.trekkww.fun
 lidingo.moooon.space
+lifegoalcheck.com
 limberf.quigglef.site
 linfen.treker.fun
 link.americanhomesaver.com
@@ -1280,7 +1280,6 @@ lp.brvittacarotene.com.br
 lp.cafezil.site
 lp.canalvitalidadenatural.com
 lp.centralsaudevida.com
-lp.centrosaudemasculina.com.br
 lp.cleangutnow.com
 lp.cuatro-estimulos.online
 lp.docecarboidrato.com
@@ -1289,6 +1288,7 @@ lp.energizegentlemen.site
 lp.eromax.online
 lp.erosbooster.com
 lp.feelingawesome.club
+lp.feelingfantastic.club
 lp.feelingwonderful.club
 lp.gamesreview.club
 lp.gentlemanvigor.site
@@ -1323,7 +1323,6 @@ lp.mitocondril.com
 lp.mitozine.website
 lp.morenergy.online
 lp.musicpix.pro
-lp.my-best-vibes.club
 lp.myfantasticvibes.club
 lp.mygreatvibes.club
 lp.myhealthytonic.co
@@ -1365,9 +1364,7 @@ lp.sisteman7.com.br
 lp.site.tuannybacelarnutri.com.br
 lp.sliwitta.com.br
 lp.sliwittapromo.com.br
-lp.smartamericanconsumer.com
 lp.songreviewerred.com
-lp.suamelhormemoria.com.br
 lp.suavidaperfeita.com.br
 lp.supersetonic.com
 lp.supervigor.online
@@ -1482,6 +1479,7 @@ my.nationalfreedomfunds.com
 my.trk.debtgenie.org
 myachievementhub.org
 mycooljourneyz.com
+mygoalsuccess.org
 myhomequotepro.com
 mytrack.ph143.fun
 mytrack.victory-play1.com
@@ -1548,6 +1546,7 @@ ok.covermycarnow.com
 ok.fedhealthcare.us
 ok.fedmedi.us
 ok.gethealthperks.net
+ok.gethealthperks.us
 ok.healthfare.us
 ok.healthfareplan.org
 ok.healthpayouts.com
@@ -1566,6 +1565,7 @@ omniomar.com
 on.securedhops.com
 onbxftrk.com
 one.jankyaught.com
+only-www.com
 opportunitynow.today
 order.sestella.com
 osissmistlytrk.com
@@ -1596,6 +1596,7 @@ path.maxhomeupgrade.com
 path.naturewellnesstips.com
 path.newamericaneducation.com
 path.savvyamericansavings.com
+path.savvyautosavings2024.com
 path.secretsavingsusa.com
 path.smartamericantips.com
 path.smartfinancesusa2023.com
@@ -1645,7 +1646,6 @@ portaugusta.treker.fun
 porthedland.treker.fun
 portmacquarie.treker.fun
 power.aizenofficial.site
-pp.gentvitalityroute.com
 pp.renewedhealthvoyage.com
 pre.aldenjquesada.online
 prerendtrk.com
@@ -1704,7 +1704,6 @@ rd.viriltonic.com
 rd.viriltonic24.com
 rdboclk.redboostmegaoffer.online
 rdt.mackeeper.com
-rdt.mackeeperaff.com
 rdt.whitewall.com
 rdtk.camrabbit.com
 rdtk.carsfast.ca
@@ -1729,7 +1728,6 @@ red.maxionresearch.com
 red.natura-secrets.com
 red.promixnutrition.cc
 red.thetrackad.com
-red.track.overhealthy.online
 red.trk.financerelief.org
 redbull.trekkww.space
 redirect.insightprosolution.com
@@ -1773,6 +1771,7 @@ register.astro-palace.com
 requered.trekkww.space
 residental.trekkww.space
 rewardclaim-ycl8trk.com
+rfbxbstrk.com
 rls.regulerlesucre.com
 ro2.ro.trackrocasino.com
 roctus.trekkeeee.space
@@ -1841,12 +1840,14 @@ rtk.palattine.com.br
 rtk.portaldasaude.store
 rtk.portalnoticias-g2.com
 rtk.renewessences.com
+rtk.resetvitamina.com
 rtk.revitabem.online
 rtk.san-marco.com
 rtk.trk.dailyboostercenter.com
 rtk.trk.greaterlivingnews.com
 rtk.trk.onestopmedicareshop.com
 rtk.trk.theonlinecarecenters.com
+rtk.trk.todaysadvhealthline.com
 rtk.trk.trendyburst.com
 rtk.undetectable.ai
 rtk.usasend.online
@@ -1912,6 +1913,7 @@ search.valuehunter.site
 searchestracker.org
 seationstrytrk.com
 secret.trekkww.space
+secure.americanstockadvisors.com
 secure.bamsocks.com
 secure.ccwqualifyfirst.com
 secure.check.beautyestetique24.com
@@ -1957,10 +1959,8 @@ sf.blogsbrasilonline.org
 sfdsgfg.notice-def.shop
 shantou.treker.fun
 shaoxing.treker.fun
-shop.getalluronow.com
 shop.loyalorigins.com
 shop.overstockcostco.com
-shop.shopchicmajesty.com
 shopify.2adosum.com
 sicher.exklusiv-und-zertifiziert.com
 sichere-verbindung.offizielle-gewinnspiele.com
@@ -1982,6 +1982,7 @@ snuggle.zlewag.uno
 snugglepuff.leasterdo.tech
 so.socialmore.click
 solar.greenenergyalliance.net
+solarsavings.info
 solicite.potegratis.site
 souq.treker.fun
 sp.solus.nu
@@ -2043,6 +2044,7 @@ t.usa-benefits-claim.com
 t.usa-benefits-guide.com
 t.usatoday-breakingupdates.com
 t.ventralife.com
+t.vexlapoint.com
 t.virosync.com
 t.vitalwellnessnow.com
 t.wealthwisealliance.com
@@ -2134,7 +2136,6 @@ track.autoguardcoverage.info
 track.avidata.de
 track.bcwinbr.online
 track.bedtimekz.com
-track.bemestarconexo.com
 track.bemestardavida.com
 track.bemestarharmonia.com
 track.bestautocover.com
@@ -2186,7 +2187,6 @@ track.dieselecmexchange.com
 track.digiklase.lt
 track.digitalina.io
 track.digitalscoop.ca
-track.divfeminine.com
 track.divinesoulmatesketch.com
 track.docu-bay.com
 track.docubay-kw.com
@@ -2211,7 +2211,6 @@ track.eternalbelief.com
 track.euforiadossentidos.online
 track.eunatural.com
 track.eurasc.org
-track.ezmoney.space
 track.faith.fashion
 track.fastbank.am
 track.fastex.com
@@ -2297,10 +2296,12 @@ track.incomeresearchers.com
 track.increaseyourhlth.com
 track.injuryjusticealliance.com
 track.inspiredailyhq.com
+track.inspiringhome.it
 track.inst-benizo.com
 track.instaboostinc.com
 track.instacashy.com
 track.instantautosavings.com
+track.instantprizesforyou.online
 track.insutrilblog.com
 track.interutilityhub.info
 track.isovoxbooth.com
@@ -2315,7 +2316,6 @@ track.junexdogreen.com
 track.junexgames.com
 track.junexgreen.com
 track.juventudeduradoura.com
-track.katecharm.com
 track.ketogummiespro.com
 track.kfacials.com
 track.kodland.org
@@ -2495,7 +2495,6 @@ track.seatalents.com
 track.serenebalancesupport.com
 track.seubemestaresaude.com
 track.shine-group.fr
-track.simples-saude.com
 track.sinergianutricional.store
 track.sketerterus.com
 track.skymap.ro
@@ -2620,7 +2619,6 @@ tracker.857ahud.com
 tracker.acelerashot.com.br
 tracker.bodymindperformancemaximum.com
 tracker.descobrindosegredos.top
-tracker.ecleadtrack.com
 tracker.menovida.com.br
 tracker.selectivv.com
 tracker.top10casinoangebote.com
@@ -2631,7 +2629,6 @@ tracking.afffcompensation.com
 tracking.afffhelp.com
 tracking.carpshop24.com
 tracking.dubaishop.ro
-tracking.freigesund.de
 tracking.healthful-warrior.com
 tracking.leadlink.de
 tracking.maticnic-direprimee.com
@@ -2675,7 +2672,6 @@ trck.bestonlinecasino.club
 trck.cldtrck.com
 trck.fb6k.com
 trck.luksmi.com
-trck.trcknotifs.com
 trck1.xwager.xyz
 trcking.xyz
 trckn.dailytradingdigest.com
@@ -2685,7 +2681,6 @@ trckr.beatconnect.com
 trelleborg.shielllld.space
 trend.faxnews.info
 tricolored.ageisms.site
-trk.5news.name
 trk.addrawlestrk.com
 trk.advanced-tracker.com
 trk.advancedtrkr.com
@@ -2813,6 +2808,7 @@ trk.swvetrk.com
 trk.thehealthyadvantages.com
 trk.themaryhilton.net
 trk.themichelamorellato.com
+trk.theplatinumhealth.net
 trk.thequotehound.com
 trk.therewardsfinder.com
 trk.timeshareexit.co
@@ -2939,6 +2935,7 @@ vratsa.treker.fun
 vsa.vivasaudeagora.online
 vwyfee.com
 wafters.stromatoporidae.uno
+walak.online
 wam.flirttrck.com
 watch.hiddensecretsusa.com
 watch.your-mindful-life.com
@@ -2959,6 +2956,7 @@ woof.haustierbewertungen.de
 woof.petsylabs.fr
 woof.psi-lekarna.cz
 www.buy-briteblaze.com
+www.consumerinsightsguide.com
 www.dctrckng.com
 www.in.rabbtrk.com
 www.insureyoursauto.com

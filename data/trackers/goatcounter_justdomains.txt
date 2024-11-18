@@ -9,6 +9,7 @@ analytics.popov.link
 analytics.riggraz.dev
 analytics.yofbrc.com
 argus.umarbutler.com
+c.paddyk45.de
 contacapre.bortox.it
 count.vidsrc.pro
 counter.storydragon.nl
@@ -18,7 +19,6 @@ gc.securitydungeon.sk
 gc.tbx.at
 github.gpuzelenograd.cloudns.be
 goat.belak.io
-goat.croustade.studio
 goat.dabric.xyz
 goat.dheinemann.com
 goat.gavv.in
@@ -29,6 +29,7 @@ goat.twoistoomany.com
 goat1.nhimmeo.cf
 goatcounter.blu3id.uk
 goatcounter.gamecraft.it
+goatcounter.thedave.dev
 goatcounter.thedave.me
 moo.geopogs.party
 novi.webnovi.eu
@@ -37,6 +38,7 @@ st.mapleranks.com
 stats.0chris.com
 stats.45rpm.ch
 stats.abdodaoud.com
+stats.afirmacijas.lv
 stats.apitman.com
 stats.artur-rodrigues.com
 stats.boredkevin.com
@@ -46,6 +48,7 @@ stats.cassie.omg.lol
 stats.cgcristi.xyz
 stats.cloudflex.team
 stats.fieald.com
+stats.haseebmajid.dev
 stats.hedy.dev
 stats.how.wtf
 stats.isaacfreund.com
@@ -64,6 +67,7 @@ stats.msol.io
 stats.palaisdesfetes.eu
 stats.renit.pl
 stats.rocketgoboom.lol
+stats.ryanchmelir.com
 stats.semipol.de
 stats.sofianlak.fr
 stats.stchris.net

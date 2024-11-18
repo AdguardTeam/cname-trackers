@@ -53,6 +53,7 @@
 ||tr.asp00a1.espmp-agfr.net^
 ||tr.asp00a3.espmp-agfr.net^
 ||tr.asp00a6.espmp-nifr.net^
+||tr.asp00ab.espmp-cufr.net^
 ||tr.asp00ah.espmp-nifr.net^
 ||tr.asp00am.espmp-cufr.net^
 ||tr.asp1.espmp-agfr.net^
@@ -69,6 +70,7 @@
 ||tr.asp109y.espmp-agfr.net^
 ||tr.asp10a7.espmp-aufr.net^
 ||tr.asp10ai.espmp-nifr.net^
+||tr.asp10aj.espmp-aufr.net^
 ||tr.asp10ap.espmp-nifr.net^
 ||tr.asp10ar.espmp-cufr.net^
 ||tr.asp10b3.espmp-agfr.net^
@@ -79,6 +81,7 @@
 ||tr.asp10cc.espmp-nifr.net^
 ||tr.asp10cg.espmp-nifr.net^
 ||tr.asp10ch.espmp-nifr.net^
+||tr.asp10cp.espmp-nifr.net^
 ||tr.asp10cr.espmp-nifr.net^
 ||tr.asp10d7.espmp-nifr.net^
 ||tr.asp10de.espmp-agfr.net^
@@ -109,6 +112,7 @@
 ||tr.asp203m.espmp-cufr.net^
 ||tr.asp2045.espmp-nifr.net^
 ||tr.asp204q.espmp-cufr.net^
+||tr.asp204v.espmp-cufr.net^
 ||tr.asp205a.espmp-cufr.net^
 ||tr.asp2063.espmp-nifr.net^
 ||tr.asp206k.espmp-agfr.net^
@@ -130,6 +134,7 @@
 ||tr.bati-partners.be^
 ||tr.batirenover.info^
 ||tr.batiweb.co^
+||tr.batiwebmedia.com^
 ||tr.bel-pros.be^
 ||tr.bern.espmp-nifr.net^
 ||tr.bienvenue.envie-de-bien-manger.com^
@@ -182,6 +187,7 @@
 ||tr.cifa.espmp-nifr.net^
 ||tr.cifa02b.espmp-aufr.net^
 ||tr.cifa02d.espmp-aufr.net^
+||tr.cifa02h.espmp-aufr.net^
 ||tr.cifa02k.espmp-aufr.net^
 ||tr.cifa02l.espmp-nifr.net^
 ||tr.citiesforlifeparis.latribune.fr^
@@ -201,7 +207,6 @@
 ||tr.cnaf.espmp-nifr.net^
 ||tr.cobranca.younited-credit.com^
 ||tr.cogedim.espmp-agfr.net^
-||tr.collectif.groupe-vyv.fr^
 ||tr.com-clients.sfr.fr^
 ||tr.com-parc.sfr.fr^
 ||tr.com-red.sfr.fr^
@@ -258,6 +263,7 @@
 ||tr.contrats.cofinoga.fr^
 ||tr.contrats.domofinance.fr^
 ||tr.corporate.moethennessy.com^
+||tr.courriel.ganassurances.fr^
 ||tr.courriel.mae.fr^
 ||tr.courriel.ouestnormandie.cci.fr^
 ||tr.courrier.charentelibre.fr^
@@ -298,6 +304,7 @@
 ||tr.devisminute-weber.com^
 ||tr.devize-companeo.ro^
 ||tr.devizul-meu.ro^
+||tr.dial03g.espmp-agfr.net^
 ||tr.digitalacademy.np6.com^
 ||tr.digitaldigest.lvmh.com^
 ||tr.directferries.com^
@@ -430,6 +437,7 @@
 ||tr.group-hr.lvmh.fr^
 ||tr.groupama-gne.fr^
 ||tr.gtr.moethennessy.com^
+||tr.gvbn.espmp-agfr.net^
 ||tr.haute-maurienne-vanoise.net^
 ||tr.hcahealthcare.co.uk^
 ||tr.hello.maisonfoody.com^
@@ -494,6 +502,7 @@
 ||tr.info.oceane-pme.com^
 ||tr.info.offres-cartegie.fr^
 ||tr.info.onboarding.corporatecards.bnpparibas^
+||tr.info.parlons-incontinence.fr^
 ||tr.info.perl.fr^
 ||tr.info.ph-bpifrance.fr^
 ||tr.info.phsolidaire-bpifrance.fr^
@@ -543,7 +552,6 @@
 ||tr.interieur.cotemaison.fr^
 ||tr.interviews-mediametrie.fr^
 ||tr.invest.younited-credit.com^
-||tr.invitation-mesdessous.fr^
 ||tr.invitation.perfectstay.com^
 ||tr.ipsos-surveys.com^
 ||tr.ispaconsulting.com^
@@ -706,6 +714,7 @@
 ||tr.news.alinea.com^
 ||tr.news.alinea.fr^
 ||tr.news.allopneus.com^
+||tr.news.apotamox.com^
 ||tr.news.aramisauto.com^
 ||tr.news.assuragency.net^
 ||tr.news.bruneau.fr^
@@ -723,6 +732,7 @@
 ||tr.news.chapsvision.com^
 ||tr.news.chezmonveto.com^
 ||tr.news.chilican.com^
+||tr.news.cioradio.tv^
 ||tr.news.clicochic.com^
 ||tr.news.companeo.es^
 ||tr.news.companeo.ro^
@@ -879,7 +889,6 @@
 ||tr.newsletter.ecig-privee.fr^
 ||tr.newsletter.erenumerique.fr^
 ||tr.newsletter.etoiledevenus.com^
-||tr.newsletter.fotodiscount.com^
 ||tr.newsletter.huilesdolive.fr^
 ||tr.newsletter.leocare.eu^
 ||tr.newsletter.location.boulanger.com^
@@ -895,7 +904,7 @@
 ||tr.newsletter.photoservice.com^
 ||tr.newsletter.phyto.com^
 ||tr.newsletter.plurielmedia.com^
-||tr.newsletter.tiragephoto.fr^
+||tr.newsletter.veuveclicquot.com^
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletterpagesjaunes.fr^
 ||tr.newsletters-bonpoint.com^
@@ -948,11 +957,11 @@
 ||tr.oxatis.devisdirect.com^
 ||tr.panels-mediametrie.fr^
 ||tr.part.offres-cartegie.fr^
-||tr.partenaire.groupe-vyv.fr^
 ||tr.partenaire.manageo.info^
 ||tr.particuliers8.engie.com^
 ||tr.partners.younited-credit.it^
 ||tr.payment.lvmh.com^
+||tr.perv.espmp-agfr.net^
 ||tr.phjk.espmp-nifr.net^
 ||tr.pipa.espmp-aufr.net^
 ||tr.pixe.espmp-cufr.net^
@@ -965,11 +974,13 @@
 ||tr.politicolive.eu^
 ||tr.politicomarketing.eu^
 ||tr.portail.afpa.fr^
+||tr.preferenza.unaoffertaalgiorno.com^
 ||tr.presupuesto-b2b.es^
 ||tr.prevention.harmonie-mutuelle.fr^
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro-renov.be^
 ||tr.pro.odalys-vacances.com^
+||tr.pro.residencehappysenior.fr^
 ||tr.pro.sgit.net^
 ||tr.programme-voyageur-sncf.com^
 ||tr.projet.cotemaison.fr^
@@ -985,7 +996,6 @@
 ||tr.qualite.groupama.com^
 ||tr.qualite.groupebarriere.com^
 ||tr.qualite.viparis.com^
-||tr.qualitevehicule.fr^
 ||tr.qualityvehiclesurvey.com^
 ||tr.quotes.digital^
 ||tr.quotes4business.com^
@@ -1068,6 +1078,7 @@
 ||tr.tpe.harmonie-mutuelle.fr^
 ||tr.tr.bricodepot.com^
 ||tr.trafficnews.lyria.com^
+||tr.ug2r.espmp-agfr.net^
 ||tr.ujsv.espmp-agfr.net^
 ||tr.uk.icicibank.com^
 ||tr.uk.katun.com^

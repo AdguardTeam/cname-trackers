@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -237,6 +237,7 @@ plausible.myvirtualsuper.com CNAME .
 plausible.nickmazuk.com CNAME .
 plausible.nmyvsn.net CNAME .
 plausible.nuqu.org CNAME .
+plausible.plausible.tangodelta.media CNAME .
 plausible.prufit.co CNAME .
 plausible.pumpkint.com CNAME .
 plausible.quantumcomputingexplained.com CNAME .
@@ -338,6 +339,7 @@ stats.acadevor.com CNAME .
 stats.achtsame-yonimassage.de CNAME .
 stats.activityvault.io CNAME .
 stats.adlperformance.es CNAME .
+stats.aikidowaza.com CNAME .
 stats.aixbrain.de CNAME .
 stats.albert-kropp-gmbh.de CNAME .
 stats.alibhai.co CNAME .
@@ -451,7 +453,6 @@ stats.dillen.dev CNAME .
 stats.divyanshu013.dev CNAME .
 stats.dmail.co.nz CNAME .
 stats.dmarcdigests.com CNAME .
-stats.doana-r.com CNAME .
 stats.doors.live CNAME .
 stats.dotnetos.org CNAME .
 stats.dotplan.io CNAME .

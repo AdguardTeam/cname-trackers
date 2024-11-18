@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -275,6 +275,7 @@ web.crm.beps.it CNAME .
 web.crm.speedup.it CNAME .
 web.diebayerische.de CNAME .
 web.e.aldermore.co.uk CNAME .
+web.e.bifoldsales.co.uk CNAME .
 web.e.bolts.co.uk CNAME .
 web.e.compositesales.co.uk CNAME .
 web.e.dekogardensupplies.co.uk CNAME .

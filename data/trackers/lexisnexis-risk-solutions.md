@@ -41,6 +41,7 @@
     * h-2gkqfg5y.online-metrix.net
     * h-2gssvh01.online-metrix.net
     * h-2ic7z584.online-metrix.net
+    * h-2lg00mry.online-metrix.net
     * h-2lrwrk15.online-metrix.net
     * h-2n067wr9.online-metrix.net
     * h-2odx9gtz.online-metrix.net
@@ -69,6 +70,7 @@
     * h-42guvm37.online-metrix.net
     * h-47blm1l4.online-metrix.net
     * h-47z24dz9.online-metrix.net
+    * h-4a04ohow.online-metrix.net
     * h-4hq91r5k.online-metrix.net
     * h-4izfn6dr.online-metrix.net
     * h-4nyhdbu2.online-metrix.net
@@ -84,6 +86,7 @@
     * h-5rsqem15.online-metrix.net
     * h-5sc89hft.online-metrix.net
     * h-5tjn91kn.online-metrix.net
+    * h-5uqko7px2.online-metrix.net
     * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
     * h-5wvo3z5x.online-metrix.net
@@ -323,11 +326,9 @@
     * h-citibank-id.online-metrix.net
     * h-citibank-in.online-metrix.net
     * h-citibank-mx.online-metrix.net
-    * h-citibank-ph.online-metrix.net
     * h-citibank-pl.online-metrix.net
     * h-citibank-ru.online-metrix.net
     * h-citibank-sg.online-metrix.net
-    * h-citibank-th.online-metrix.net
     * h-citibank-tw.online-metrix.net
     * h-citibank-uk.online-metrix.net
     * h-citibank-vn.online-metrix.net
@@ -878,6 +879,7 @@
 | skw.eve.account.sony.com | h-2gkqfg5y.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | tm.sunbit.com | h-2ic7z584.online-metrix.net |
+| ln.jackpotgo.club | h-2lg00mry.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
 | fp.ambrosewilson.com | h-2n067wr9.online-metrix.net |
 | fp.crazyclearance.co.uk | h-2n067wr9.online-metrix.net |
@@ -927,6 +929,7 @@
 | content002.bet365.mx | h-47z24dz9.online-metrix.net |
 | content002.bet365.nl | h-47z24dz9.online-metrix.net |
 | content002.bet365.pe | h-47z24dz9.online-metrix.net |
+| content.ofx.com | h-4a04ohow.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | onoutput.com | h-4nyhdbu2.online-metrix.net |
@@ -962,6 +965,7 @@
 | content.fig.ca | h-5rsqem15.online-metrix.net |
 | netinf.curemd.com | h-5sc89hft.online-metrix.net |
 | content.nu.com.mx | h-5tjn91kn.online-metrix.net |
+| content.rytbank.my | h-5uqko7px2.online-metrix.net |
 | rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | dp.mynylottery.org | h-5wvo3z5x.online-metrix.net |
@@ -987,6 +991,7 @@
 | assets.harlandclarke.com | h-71i2mvka.online-metrix.net |
 | rba.infinitium.com | h-72wrr4p1.online-metrix.net |
 | tmcontent.zoom.com | h-73e8orvb.online-metrix.net |
+| tmcontent.zoom.us | h-73e8orvb.online-metrix.net |
 | analytics.vodafone.com.au | h-748xxcci.online-metrix.net |
 | analyze.central1.cc | h-76ussz09.online-metrix.net |
 | apps.shift.com.au | h-7aid6tml.online-metrix.net |
@@ -1009,6 +1014,7 @@
 | info.betway.co.zm | h-7v30y901.online-metrix.net |
 | info.betway.fr | h-7v30y901.online-metrix.net |
 | info.betway.lat | h-7v30y901.online-metrix.net |
+| info.betway.ng | h-7v30y901.online-metrix.net |
 | info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
 | info.jackpotcity.co.za | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
@@ -1077,6 +1083,7 @@
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
 | afm.vtmarketsfr.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsid.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsjp.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsnet.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsuk.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsweb.com | h-96eziru5.online-metrix.net |
@@ -1335,11 +1342,9 @@
 | content22.citibank.co.id | h-citibank-id.online-metrix.net |
 | content22.citibank.co.in | h-citibank-in.online-metrix.net |
 | content22.bancanet.banamex.com | h-citibank-mx.online-metrix.net |
-| content22.citibank.com.ph | h-citibank-ph.online-metrix.net |
 | content22.citibank.pl | h-citibank-pl.online-metrix.net |
 | content22.citibank.ru | h-citibank-ru.online-metrix.net |
 | content22.citibank.com.sg | h-citibank-sg.online-metrix.net |
-| content22.citibank.co.th | h-citibank-th.online-metrix.net |
 | content22.citibank.com.tw | h-citibank-tw.online-metrix.net |
 | content22.citi.eu | h-citibank-uk.online-metrix.net |
 | content22.citibank.com.vn | h-citibank-vn.online-metrix.net |

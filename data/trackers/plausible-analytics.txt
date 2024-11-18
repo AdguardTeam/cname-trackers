@@ -226,6 +226,7 @@
 ||plausible.nickmazuk.com^
 ||plausible.nmyvsn.net^
 ||plausible.nuqu.org^
+||plausible.plausible.tangodelta.media^
 ||plausible.prufit.co^
 ||plausible.pumpkint.com^
 ||plausible.quantumcomputingexplained.com^
@@ -327,6 +328,7 @@
 ||stats.achtsame-yonimassage.de^
 ||stats.activityvault.io^
 ||stats.adlperformance.es^
+||stats.aikidowaza.com^
 ||stats.aixbrain.de^
 ||stats.albert-kropp-gmbh.de^
 ||stats.alibhai.co^
@@ -440,7 +442,6 @@
 ||stats.divyanshu013.dev^
 ||stats.dmail.co.nz^
 ||stats.dmarcdigests.com^
-||stats.doana-r.com^
 ||stats.doors.live^
 ||stats.dotnetos.org^
 ||stats.dotplan.io^

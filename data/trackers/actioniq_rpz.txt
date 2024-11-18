@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,7 +59,6 @@ aiqx.travismathew.co.uk CNAME .
 aiqx.travismathew.com CNAME .
 aiqx.wheeloffortune.com CNAME .
 aiqx.www.ghostbusters.com CNAME .
-anx-staging.learnwithhomer.com CNAME .
 anx.learnwithhomer.com CNAME .
 meta-events.backpacker.com CNAME .
 meta-events.bikereg.com CNAME .
@@ -95,4 +94,5 @@ meta-events.yellowstonepark.com CNAME .
 mr-in.beginlearning.com CNAME .
 mr-in.littlepassports.com CNAME .
 mr.pinkbike.com CNAME .
+anx-staging.learnwithhomer.com CNAME .
 mr-in-staging.beginlearning.com CNAME .

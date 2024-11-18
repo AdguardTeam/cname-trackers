@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731312007717        ; Serial
+           1731916813637        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ analytics.popov.link CNAME .
 analytics.riggraz.dev CNAME .
 analytics.yofbrc.com CNAME .
 argus.umarbutler.com CNAME .
+c.paddyk45.de CNAME .
 contacapre.bortox.it CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
@@ -29,7 +30,6 @@ gc.securitydungeon.sk CNAME .
 gc.tbx.at CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
 goat.belak.io CNAME .
-goat.croustade.studio CNAME .
 goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
 goat.gavv.in CNAME .
@@ -40,6 +40,7 @@ goat.twoistoomany.com CNAME .
 goat1.nhimmeo.cf CNAME .
 goatcounter.blu3id.uk CNAME .
 goatcounter.gamecraft.it CNAME .
+goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
 moo.geopogs.party CNAME .
 novi.webnovi.eu CNAME .
@@ -48,6 +49,7 @@ st.mapleranks.com CNAME .
 stats.0chris.com CNAME .
 stats.45rpm.ch CNAME .
 stats.abdodaoud.com CNAME .
+stats.afirmacijas.lv CNAME .
 stats.apitman.com CNAME .
 stats.artur-rodrigues.com CNAME .
 stats.boredkevin.com CNAME .
@@ -57,6 +59,7 @@ stats.cassie.omg.lol CNAME .
 stats.cgcristi.xyz CNAME .
 stats.cloudflex.team CNAME .
 stats.fieald.com CNAME .
+stats.haseebmajid.dev CNAME .
 stats.hedy.dev CNAME .
 stats.how.wtf CNAME .
 stats.isaacfreund.com CNAME .
@@ -75,6 +78,7 @@ stats.msol.io CNAME .
 stats.palaisdesfetes.eu CNAME .
 stats.renit.pl CNAME .
 stats.rocketgoboom.lol CNAME .
+stats.ryanchmelir.com CNAME .
 stats.semipol.de CNAME .
 stats.sofianlak.fr CNAME .
 stats.stchris.net CNAME .

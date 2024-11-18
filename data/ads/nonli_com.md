@@ -3,6 +3,8 @@
 ## Disguised trackers list
 
 * non.li
+    * origin.non.li
+    * tls-ebra.non.li
     * tls-lp-cm.non.li
     * tls-rfi.non.li
     * tls.non.li
@@ -24,6 +26,24 @@
 | on.qobuz.com | non.li |
 | social.lafranceagricole.fr | non.li |
 | sur.laprovence.com | non.li |
+| l.bienpublic.com | origin.non.li |
+| l.dna.fr | origin.non.li |
+| l.estrepublicain.fr | origin.non.li |
+| l.lalsace.fr | origin.non.li |
+| l.ledauphine.com | origin.non.li |
+| l.lejsl.com | origin.non.li |
+| l.leprogres.fr | origin.non.li |
+| l.republicain-lorrain.fr | origin.non.li |
+| l.vosgesmatin.fr | origin.non.li |
+| l.bienpublic.com | tls-ebra.non.li |
+| l.dna.fr | tls-ebra.non.li |
+| l.estrepublicain.fr | tls-ebra.non.li |
+| l.lalsace.fr | tls-ebra.non.li |
+| l.ledauphine.com | tls-ebra.non.li |
+| l.lejsl.com | tls-ebra.non.li |
+| l.leprogres.fr | tls-ebra.non.li |
+| l.republicain-lorrain.fr | tls-ebra.non.li |
+| l.vosgesmatin.fr | tls-ebra.non.li |
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
@@ -99,6 +119,7 @@
 | l.lejournaldelamaison.fr | tls.non.li |
 | l.leparisien.fr | tls.non.li |
 | l.lepoint.fr | tls.non.li |
+| l.lequipe.fr | tls.non.li |
 | l.lequotidiendelart.com | tls.non.li |
 | l.lesnumeriques.com | tls.non.li |
 | l.letemps.ch | tls.non.li |

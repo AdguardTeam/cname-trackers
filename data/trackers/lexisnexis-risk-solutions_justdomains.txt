@@ -33,6 +33,7 @@ afm.vtmarkets.com
 afm.vtmarkets.net
 afm.vtmarketsfr.com
 afm.vtmarketsid.com
+afm.vtmarketsjp.com
 afm.vtmarketsnet.com
 afm.vtmarketsuk.com
 afm.vtmarketsweb.com
@@ -305,6 +306,7 @@ content.nu.com.mx
 content.nubank.com.br
 content.numobile.com.au
 content.nycers.org
+content.ofx.com
 content.olympus.ao.com
 content.orixbank.co.jp
 content.partycity.ca
@@ -330,6 +332,7 @@ content.royalairmaroc.com
 content.royalvegascasino.ca
 content.rubyfortune.ca
 content.rubyfortunecasino.ca
+content.rytbank.my
 content.sb.lt
 content.sfbli.com
 content.sheerid.com
@@ -381,12 +384,10 @@ content22.citi.eu
 content22.citibank.ae
 content22.citibank.co.id
 content22.citibank.co.in
-content22.citibank.co.th
 content22.citibank.com
 content22.citibank.com.au
 content22.citibank.com.cn
 content22.citibank.com.hk
-content22.citibank.com.ph
 content22.citibank.com.sg
 content22.citibank.com.tw
 content22.citibank.com.vn
@@ -594,6 +595,7 @@ info.betway.co.za
 info.betway.co.zm
 info.betway.fr
 info.betway.lat
+info.betway.ng
 info.betwaypartnersafrica.com
 info.jackpotcity.co.za
 intlsdpntrca.nitrocasino.ca
@@ -609,6 +611,7 @@ kyc.usend.com
 lab4.lloydsbank.com
 ln.acornfun.com
 ln.cash.app
+ln.jackpotgo.club
 ln.meudigio.com.br
 ln.spinsorcery.net
 ln.zenmerge.club
@@ -1060,6 +1063,7 @@ tmcontent.meridiancu.ca
 tmcontent.motusbank.ca
 tmcontent.sixt.com
 tmcontent.zoom.com
+tmcontent.zoom.us
 tmfp.klarna.com
 tmi.my529.org
 tmln.caesarscasino.com

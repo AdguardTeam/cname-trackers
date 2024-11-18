@@ -15,6 +15,7 @@ utiq.24rhein.de
 utiq.24vita.de
 utiq.3djuegos.com
 utiq.3djuegosguias.com
+utiq.3djuegospc.com
 utiq.750g.com
 utiq.abc.es
 utiq.actu.fr
@@ -131,6 +132,7 @@ utiq.inspirational.es
 utiq.jeuxvideo.com
 utiq.jux.news
 utiq.kino.de
+utiq.kreis-anzeiger.de
 utiq.kreisbote.de
 utiq.kreiszeitung.de
 utiq.kundendienst-info.de
@@ -221,6 +223,7 @@ utiq.sportlerfrage.net
 utiq.sports.fr
 utiq.stimme.de
 utiq.stylebook.de
+utiq.sudouest.fr
 utiq.sueddeutsche.de
 utiq.superdeporte.es
 utiq.t-online.de
@@ -256,6 +259,7 @@ utiq.wlz-online.de
 utiq.wmn.de
 utiq.wochenblatt.de
 utiq.xataka.com
+utiq.xatakafoto.com
 utiq.xatakahome.com
 utiq.xatakamovil.com
 utiq.xatakandroid.com
