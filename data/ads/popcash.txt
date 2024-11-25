@@ -191,6 +191,7 @@
 ||anteater.ttbwsd.com^
 ||anteater.webitize.com^
 ||antelope.gabriellaroche.dev^
+||antelope.hoap.dev^
 ||antelope.itsluke.co.uk^
 ||antelope.johndbeatty.com^
 ||antelope.journeyofanurse.com^
@@ -211,6 +212,7 @@
 ||asp.ashesashes.org^
 ||asp.brightmachine.uk^
 ||asp.dimileeh.com^
+||asp.goodpa.co.uk^
 ||asp.podlist.de^
 ||asp.rikkeekelund.com^
 ||asp.sepiasoft.eu^
@@ -236,6 +238,7 @@
 ||bass.alfrednerstu.com^
 ||bass.goulet.dev^
 ||bass.siterig.io^
+||bass.taivo.ai^
 ||bat.heelix.be^
 ||bear.builtbyborda.com^
 ||bear.datingrelationshipsadvice.com^
@@ -260,6 +263,7 @@
 ||blackbird.docstation.co^
 ||blackbird.marcelgil.com^
 ||bluejay.edgesoftware.cloud^
+||bluejay.fivefold.vc^
 ||bluejay.postmediagroup.com^
 ||bluejay.schreinerei-virnich.de^
 ||bluejay.wearegray.com^
@@ -270,6 +274,7 @@
 ||boar.kostholdsveilederen.no^
 ||bobcat.pronounce.technology^
 ||bobcat.snapshooter.io^
+||bonobo.nola.today^
 ||boom.laravel.io^
 ||bovid.neural.love^
 ||bowie-cdn.fathomdns.com^
@@ -313,6 +318,7 @@
 ||caterpilla.ibon.live^
 ||catfish.lucalabs.com^
 ||catfish.phuclh.com^
+||catfish.pressure.cooking^
 ||catfish.sofatido.ch^
 ||catshark.janetalexandersson.com^
 ||catshark.jimmyaldape.dev^
@@ -374,16 +380,17 @@
 ||coyote.12gem.me^
 ||coyote.gnx.cloud^
 ||coyote.nickgurney.com^
+||coyote.pbnbuilds.com^
 ||coyote.txet.ch^
 ||crab.dunkeldbutchers.co.uk^
 ||crab.goalcanvas.com^
 ||crane.auctic.com^
 ||crane.maggsgroup.com^
-||crane.thegardenroomguide.co.uk^
 ||crawdad.craiga.id.au^
 ||crawdad.dillonerhardt.com^
 ||crayfish.fansubbing.com^
 ||crayfish.portbanecottagelochtay.co.uk^
+||crayfish.spotlessconcepts.com^
 ||crayfish.thecatherinewheel.co^
 ||crocodile.rapid-sale.co.uk^
 ||crow.claudiakeil.de^
@@ -415,6 +422,7 @@
 ||donkey.elegantmusicgroup.com^
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
+||donkey.jackellis.me^
 ||donkey.masteringfinland.com^
 ||donkey.mrfrisby.com^
 ||donkey.the3rd.place^
@@ -435,6 +443,7 @@
 ||earwig.architecturesofhiding.com^
 ||echidna.hellotomorrow.agency^
 ||echidna.honeybadger.io^
+||echidna.scandinaviantaste.no^
 ||eel.aware7.de^
 ||eel.ieo.do^
 ||egret.brothers.studio^
@@ -462,6 +471,7 @@
 ||felidae.mmm.page^
 ||felidae.mysuperportal.com^
 ||felidae.theforeignarchitect.com^
+||felidae.top10partnersuche.ch^
 ||ferret.ecvan.io^
 ||ferret.firstprogressivechurch.org^
 ||ferret.helpspace.com^
@@ -516,6 +526,7 @@
 ||goldfish.untitledspreadsheet.com^
 ||goose.accountsjs.com^
 ||goose.markerchase.com^
+||goose.surfboardpayments.com^
 ||gopher.mina.ca^
 ||gorilla.celcyon.com^
 ||gorilla.hakai.org^
@@ -555,6 +566,7 @@
 ||heron.joel.is^
 ||heron.notability.com^
 ||heron.oneaudiobooks.app^
+||heron.scarletnoir.co^
 ||herring.artemis.cloud^
 ||herring.panda.network^
 ||hookworm.campaignzee.com^
@@ -663,7 +675,6 @@
 ||llama.growthinkers.nl^
 ||llama.lobbly.com^
 ||llama.mallardbay.com^
-||llama.vivriticapital.com^
 ||lobster.justunderwear.com^
 ||locust.ausrebellion.earth^
 ||loon.analogjoe.com^
@@ -677,7 +688,6 @@
 ||lynx.inovo.io^
 ||lynx.lumy.network^
 ||lynx.microl.ink^
-||lynx.pascivite.com^
 ||lynx.sbstjn.com^
 ||lynx.simpleparish.com^
 ||macaw.ianmitchell.dev^
@@ -755,6 +765,7 @@
 ||ocelot.sonicumonitoring.com^
 ||octopus.evobend.com^
 ||octopus.hans-hornberger.de^
+||octopus.janandsusan.io^
 ||octopus.katrinebrandborg.dk^
 ||opossum.roleup.com^
 ||opossum.stephanieharari.com^
@@ -783,6 +794,7 @@
 ||panda.unpublished.app^
 ||panther.codyhatfield.me^
 ||panther.essentialwellnessyoga.com.au^
+||panther.familytools.app^
 ||panther.hoprnet.org^
 ||panther.thestocks.im^
 ||panther.tigil.rs^
@@ -834,6 +846,7 @@
 ||porpoise.numberzs.com^
 ||prairiedog.hashnode.com^
 ||prairiedog.thisismattsmith.com^
+||prairiedog.xview.us^
 ||prawn.lionsmouth.digital^
 ||primate.logology.co^
 ||primate.oleggera.com^
@@ -891,6 +904,7 @@
 ||salamander.augmentedmind.io^
 ||salamander.showandtelldata.com^
 ||salamander.yourownpay.com^
+||salmon.cedricreeves.com^
 ||salmon.thespiritualpsychologist.co.uk^
 ||sawfish.black-forest-digital.de^
 ||sawfish.hxd-lab.de^
@@ -912,7 +926,6 @@
 ||sheep.vaxstandby.com^
 ||silkworm.bobsmechanicalrepairs.co.uk^
 ||silkworm.boxmood.be^
-||silkworm.energizergrouplegal.com^
 ||silkworm.hoprnet.io^
 ||silkworm.preventingsuicideinsussex.org^
 ||silkworm.waspexpert.com^
@@ -960,7 +973,9 @@
 ||stoat.death-to-ie11.com^
 ||stork.ibite.company^
 ||stork.notlessbutbetter.com^
+||sturgeon.patentfamily.com^
 ||swallow.axiom.co^
+||swallow.olgakudrina.com^
 ||swallow.pelias.io^
 ||swan.visualma.com^
 ||swift.avenue.so^
@@ -969,6 +984,7 @@
 ||swift.mi-boda.com^
 ||swift.radio12.org^
 ||swift.unovy.net^
+||swift.vanuitjehuis.nl^
 ||swordfish.elvietanny.com^
 ||swordfish.floofs.com^
 ||swordfish.holzschuhe.at^
@@ -1058,6 +1074,7 @@
 ||waterboa.nighttrain.co^
 ||whale.gdebrauwer.dev^
 ||whippet.ianglover.com^
+||whippet.madewithspark.com^
 ||whippet.miniforetak.no^
 ||whitefish.antonopoulos-stores.gr^
 ||whitefish.autharmor.com^

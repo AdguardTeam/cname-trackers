@@ -40,7 +40,6 @@ culture.intermedes.com
 d.deloitte.fr
 d.m-net.de
 d.santemagazine.fr
-d.uni-medias.com
 da.freo.nl
 da.maif.fr
 da.rabobank.nl

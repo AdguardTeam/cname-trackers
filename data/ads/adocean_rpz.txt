@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,14 +31,17 @@ siewca.topagrar.pl CNAME .
 tools.elle.pl CNAME .
 tools.glamour.pl CNAME .
 tools.gotujmy.pl CNAME .
+tools.ilewazy.pl CNAME .
 tools.kobieta.pl CNAME .
 tools.mamotoja.pl CNAME .
 tools.mojegotowanie.pl CNAME .
 tools.mojpieknyogrod.pl CNAME .
 tools.national-geographic.pl CNAME .
 tools.niania.pl CNAME .
+tools.opiekaseniora.pl CNAME .
 tools.party.pl CNAME .
 tools.polki.pl CNAME .
+tools.pomocedomowe.pl CNAME .
 tools.przyslijprzepis.pl CNAME .
 tools.viva.pl CNAME .
 tools.wizaz.pl CNAME .

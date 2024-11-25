@@ -355,6 +355,7 @@
 | stats.arquido.com | custom.plausible.io |
 | stats.artisansfiables.fr | custom.plausible.io |
 | stats.artistchristinacarmel.com | custom.plausible.io |
+| stats.ase.edu.au | custom.plausible.io |
 | stats.asmodee.net | custom.plausible.io |
 | stats.astrr.ru | custom.plausible.io |
 | stats.asymptotic.io | custom.plausible.io |
@@ -587,7 +588,6 @@
 | stats.kitspace.org | custom.plausible.io |
 | stats.klaussteinke.com | custom.plausible.io |
 | stats.klj-consult.com | custom.plausible.io |
-| stats.knowkit.cloud | custom.plausible.io |
 | stats.kod.ru | custom.plausible.io |
 | stats.koehrer.de | custom.plausible.io |
 | stats.koerner-logopaedie.de | custom.plausible.io |
@@ -677,6 +677,7 @@
 | stats.obokat.se | custom.plausible.io |
 | stats.odysseeseine.org | custom.plausible.io |
 | stats.officefoosball.com | custom.plausible.io |
+| stats.ohmysmtp.com | custom.plausible.io |
 | stats.oldtinroof.com | custom.plausible.io |
 | stats.oliveoil.pro | custom.plausible.io |
 | stats.onepagelove.com | custom.plausible.io |
@@ -892,7 +893,6 @@
 | traffic.taktikal.is | custom.plausible.io |
 | triton.companyegg.com | custom.plausible.io |
 | varys.asongofzandc.xyz | custom.plausible.io |
-| views.emikajewelry.com | custom.plausible.io |
 | views.ericcapella.com | custom.plausible.io |
 | views.sikerlogistics.com | custom.plausible.io |
 | views.sikerproducts.com | custom.plausible.io |

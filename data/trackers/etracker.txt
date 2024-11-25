@@ -21,6 +21,7 @@
 ||et.electronic4you.hr^
 ||et.electronic4you.si^
 ||et.goal-based.investments^
+||et.lavita.com^
 ||et.majdic.at^
 ||et.pns24.de^
 ||etd.kramer-online.com^
@@ -29,6 +30,7 @@
 ||etracker.alex-gross.com^
 ||ets.verivox.com^
 ||ettcc.steute-controltec.com^
+||ettcc.steute-leantec.com^
 ||ettcc.steute-meditec.com^
 ||ettcc.steute.com^
 ||ferthu.seyffer.shop^
@@ -68,6 +70,8 @@
 ||tracking.ostsee-resort-dampland.de^
 ||wa.ostermann.eu^
 ||wctr.kunststoff-schachtabdeckungen.com^
+||wctr.menkenunddrees.de^
+||wctr.vitanova-kliniken.de^
 ||webanalytics.pwc.fr^
 ||webaus.dw-shop.de^
 ||webcontr.bet-at-home.com^
@@ -75,9 +79,11 @@
 ||webcontr.chairgo.de^
 ||webcontr.chiptuning.com^
 ||webcontr.ib-kc.de^
+||webcontr.jalousiescout.at^
 ||webcontr.l.de^
 ||webcontr.pedalbox.com^
 ||webcontr.reisprinzen.de^
+||webcontr.rollytoys.de^
 ||webcontr.ryzon.net^
 ||webcontr.synvia.de^
 ||webcontr.verpoorten.de^

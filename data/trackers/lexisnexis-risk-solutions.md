@@ -6,6 +6,7 @@
     * citi.online-metrix.net
     * h-1020poof.online-metrix.net
     * h-107yrgnw.online-metrix.net
+    * h-10f74n25.online-metrix.net
     * h-10kdwzzr.online-metrix.net
     * h-10mkgm4b.online-metrix.net
     * h-11b6fun8-bl.online-metrix.net
@@ -40,6 +41,7 @@
     * h-2g7dk5bn.online-metrix.net
     * h-2gkqfg5y.online-metrix.net
     * h-2gssvh01.online-metrix.net
+    * h-2hr2ixbz.online-metrix.net
     * h-2ic7z584.online-metrix.net
     * h-2lg00mry.online-metrix.net
     * h-2lrwrk15.online-metrix.net
@@ -54,6 +56,7 @@
     * h-30fpzt2y.online-metrix.net
     * h-324klu1j.online-metrix.net
     * h-32rts1pk.online-metrix.net
+    * h-3375wwy7.online-metrix.net
     * h-34mvnza6.online-metrix.net
     * h-35y9sib5.online-metrix.net
     * h-39zuido3.online-metrix.net
@@ -79,6 +82,7 @@
     * h-4ulk5mz4.online-metrix.net
     * h-4vocbmhq.online-metrix.net
     * h-516jl8bt.online-metrix.net
+    * h-5176c3mo.online-metrix.net
     * h-5g3kt0kj.online-metrix.net
     * h-5h8i3ud8.online-metrix.net
     * h-5nex4pgp.online-metrix.net
@@ -786,6 +790,7 @@
 | content-tix.topi.eu | h-1020poof.online-metrix.net |
 | aucrdtfrd.revolut.codes | h-107yrgnw.online-metrix.net |
 | aucrdtfrd.revolut.com | h-107yrgnw.online-metrix.net |
+| tmx.astroline.today | h-10f74n25.online-metrix.net |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
 | partition.enterprise.com | h-10mkgm4b.online-metrix.net |
 | content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
@@ -878,6 +883,7 @@
 | pdr.eve.sonyentertainmentnetwork.com | h-2gkqfg5y.online-metrix.net |
 | skw.eve.account.sony.com | h-2gkqfg5y.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
+| img4.cargurus.com | h-2hr2ixbz.online-metrix.net |
 | tm.sunbit.com | h-2ic7z584.online-metrix.net |
 | ln.jackpotgo.club | h-2lg00mry.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
@@ -901,6 +907,7 @@
 | app.uob.com.sg | h-30fpzt2y.online-metrix.net |
 | applicant.rbfcu.org | h-324klu1j.online-metrix.net |
 | secure.freshbooks.com | h-32rts1pk.online-metrix.net |
+| login-verification.dol.ct.gov | h-3375wwy7.online-metrix.net |
 | nv-2.liveaction.com | h-34mvnza6.online-metrix.net |
 | id.solidgate.com | h-35y9sib5.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
@@ -938,6 +945,7 @@
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
 | svc.ondeck.com.au | h-4vocbmhq.online-metrix.net |
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
+| tm.play.pl | h-5176c3mo.online-metrix.net |
 | page-format.chase.com | h-5g3kt0kj.online-metrix.net |
 | cfa.advisorchannel.com | h-5h8i3ud8.online-metrix.net |
 | cfa.fidelity.com | h-5h8i3ud8.online-metrix.net |
@@ -1058,6 +1066,7 @@
 | afm.monetaindonesia.com | h-96eziru5.online-metrix.net |
 | afm.monetamarkets.com | h-96eziru5.online-metrix.net |
 | afm.monetaturkey.com | h-96eziru5.online-metrix.net |
+| afm.pu-prime.com | h-96eziru5.online-metrix.net |
 | afm.puprime.com | h-96eziru5.online-metrix.net |
 | afm.puprime.online | h-96eziru5.online-metrix.net |
 | afm.startrader.asia | h-96eziru5.online-metrix.net |

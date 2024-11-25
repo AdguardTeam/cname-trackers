@@ -1,5 +1,6 @@
 !
 ! Company name: Utiq
+||esca.mno.link^
 ||o2de.mno.link^
 ||orangefr-test.mno.link^
 ||orangefr.mno.link^
@@ -7,6 +8,8 @@
 ||sfr.mno.link^
 ||tmi.jv-telcoid.es^
 ||tmi.vodafone.de^
+||u.20mn.it^
+||utiq-test.utest3.work^
 ||utiq.20minutos.es^
 ||utiq.24auto.de^
 ||utiq.24books.de^
@@ -67,6 +70,7 @@
 ||utiq.diariovasco.com^
 ||utiq.directoalpaladar.com^
 ||utiq.donaukurier.de^
+||utiq.duden.de^
 ||utiq.easyvoyage.com^
 ||utiq.eatbetter.de^
 ||utiq.einfach-tasty.de^
@@ -85,6 +89,7 @@
 ||utiq.elperiodicodearagon.com^
 ||utiq.elperiodicoextremadura.com^
 ||utiq.elperiodicomediterraneo.com^
+||utiq.emporda.info^
 ||utiq.epe.es^
 ||utiq.espinof.com^
 ||utiq.eventfinder.de^
@@ -129,6 +134,7 @@
 ||utiq.ingame.de^
 ||utiq.ingolstadt-today.de^
 ||utiq.inspirational.es^
+||utiq.jamesonwhiskey.com^
 ||utiq.jeuxvideo.com^
 ||utiq.jux.news^
 ||utiq.kino.de^
@@ -216,6 +222,7 @@
 ||utiq.sensacine.com^
 ||utiq.serienjunkies.de^
 ||utiq.soester-anzeiger.de^
+||utiq.speakup.es^
 ||utiq.speisekarte.de^
 ||utiq.spielaffe.de^
 ||utiq.sport.es^
@@ -244,6 +251,7 @@
 ||utiq.usinger-anzeiger.de^
 ||utiq.utest1-prod.work^
 ||utiq.utest2.work^
+||utiq.utest3-prod.work^
 ||utiq.utest3.work^
 ||utiq.utopia.de^
 ||utiq.verisure.fr^
@@ -265,6 +273,7 @@
 ||utiq.xatakandroid.com^
 ||utiq.xatakawindows.com^
 ||utiq.zdnet.fr^
+||utiq.zeit.de^
 ||vfdemsp.mno.link^
 ||vfes.mno.link^
 ||vfesmsp.mno.link^

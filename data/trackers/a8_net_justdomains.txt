@@ -139,7 +139,6 @@ a8.hikari-n.jp
 a8.hikari-softbank.jp
 a8.hikarix.net
 a8.hitohana.tokyo
-a8.hitoma-tuhan.com
 a8.hoken-connect.com
 a8.hokengarden.com
 a8.hokkaido-nb.jp
@@ -180,7 +179,6 @@ a8.kujo-service.com
 a8.l-co-shop.jp
 a8.labiotte.jp
 a8.lacitashop.com
-a8.lalala-clean.com
 a8.lantelno.jp
 a8.lat-international.com
 a8.lavie-official.jp
@@ -217,6 +215,7 @@ a8.nachurabo.com
 a8.nanafu.tokyo
 a8.narikiri.me
 a8.natural-elements.jp
+a8.nc-moncouture.com
 a8.nengahonpo.com
 a8.nengajyo.co.jp
 a8.neur.jp
@@ -369,7 +368,6 @@ a8.yuzen-official.com
 a8.zen-camps.com
 a8.zeroku.jp
 a8.zipan.jp
-a8.zzz-land.com
 a802.xn--38jf6c4pa86a1dv833cexrb.com
 a803.xn--38jf6c4pa86a1dv833cexrb.com
 a8affiliate.liftup-turban.net
@@ -381,7 +379,6 @@ a8aspconv.xn--auso-net-h53gmnzi.com
 a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com
 a8aspconv.xn--biglobe-kc9k.com
 a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com
-a8aspconv.xn--ocn-ws1e.jp
 a8atcomsme.mellife.jp
 a8clic.alcosystem.co.jp
 a8click.daini2.co.jp
@@ -415,12 +412,14 @@ a8clk.audiobook.jp
 a8clk.autoc-one.jp
 a8clk.bang.co.jp
 a8clk.beauteq.jp
+a8clk.belle-co.jp
 a8clk.bikeman.jp
 a8clk.biken-mall.com
 a8clk.biomarche.jp
 a8clk.birai-cm.com
 a8clk.biz-communication.jp
 a8clk.bizworkers.jp
+a8clk.blastmail.jp
 a8clk.booking.jetfi.jp
 a8clk.bresmile.jp
 a8clk.bungeisha.co.jp
@@ -551,6 +550,7 @@ a8clk.lecinq.medicalnote.jp
 a8clk.lens-1.jp
 a8clk.libinc.jp
 a8clk.life.bang.co.jp
+a8clk.livr.jp
 a8clk.lolipop.jp
 a8clk.loungemembers.com
 a8clk.low-ya.com
@@ -653,6 +653,7 @@ a8clk.skynet-c.jp
 a8clk.skyoffice.info
 a8clk.sma-ene.jp
 a8clk.smart-keiri.com
+a8clk.smartmethod.rarejob.com
 a8clk.smile-zemi.jp
 a8clk.sohbi-company.com
 a8clk.solideajapan.com
@@ -855,6 +856,7 @@ a8cv.danipita.com
 a8cv.danjiki-net.jp
 a8cv.dazzyclinic.jp
 a8cv.deiba.jp
+a8cv.dekitus.net
 a8cv.delis.co.jp
 a8cv.dentalhr.jp
 a8cv.designlearn.co.jp
@@ -901,6 +903,7 @@ a8cv.f.012grp.co.jp
 a8cv.factoringzero.jp
 a8cv.fafa-shop.com
 a8cv.favorric.com
+a8cv.fc-hikaku.net
 a8cv.fc-japan.biz
 a8cv.fc-osoujikakumei.jp
 a8cv.first-spoon.com
@@ -992,6 +995,7 @@ a8cv.jbl-link.com
 a8cv.jcom.co.jp
 a8cv.jeansmate.co.jp
 a8cv.jemmy.co.jp
+a8cv.jiyuujinn.com
 a8cv.join-tech.jp
 a8cv.jokyonext.jp
 a8cv.joy-karaokerental.com
@@ -1163,6 +1167,7 @@ a8cv.sankyo-fs.jp
 a8cv.saraschool.net
 a8cv.scheeme.com
 a8cv.scom-f.jp
+a8cv.scuu.jp
 a8cv.se-navi.jp
 a8cv.second-hand.jp
 a8cv.secure.sakura.ad.jp
@@ -1460,6 +1465,7 @@ cv.betrading.jp
 cv.bloomeelife.com
 cv.cante-gym.com
 cv.cart.naturath.jp
+cv.classmall.jp
 cv.colleize.com
 cv.cp-c21.com
 cv.denkichoice.jp

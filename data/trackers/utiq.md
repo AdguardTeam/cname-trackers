@@ -10,12 +10,14 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| esca.mno.link | frontend.prod.utiq-aws.net |
 | o2de.mno.link | frontend.prod.utiq-aws.net |
 | orangefr.mno.link | frontend.prod.utiq-aws.net |
 | service.utiq.com | frontend.prod.utiq-aws.net |
 | sfr.mno.link | frontend.prod.utiq-aws.net |
 | tmi.jv-telcoid.es | frontend.prod.utiq-aws.net |
 | tmi.vodafone.de | frontend.prod.utiq-aws.net |
+| u.20mn.it | frontend.prod.utiq-aws.net |
 | utiq.20minutos.es | frontend.prod.utiq-aws.net |
 | utiq.24auto.de | frontend.prod.utiq-aws.net |
 | utiq.24books.de | frontend.prod.utiq-aws.net |
@@ -76,6 +78,7 @@
 | utiq.diariovasco.com | frontend.prod.utiq-aws.net |
 | utiq.directoalpaladar.com | frontend.prod.utiq-aws.net |
 | utiq.donaukurier.de | frontend.prod.utiq-aws.net |
+| utiq.duden.de | frontend.prod.utiq-aws.net |
 | utiq.easyvoyage.com | frontend.prod.utiq-aws.net |
 | utiq.eatbetter.de | frontend.prod.utiq-aws.net |
 | utiq.einfach-tasty.de | frontend.prod.utiq-aws.net |
@@ -94,6 +97,7 @@
 | utiq.elperiodicodearagon.com | frontend.prod.utiq-aws.net |
 | utiq.elperiodicoextremadura.com | frontend.prod.utiq-aws.net |
 | utiq.elperiodicomediterraneo.com | frontend.prod.utiq-aws.net |
+| utiq.emporda.info | frontend.prod.utiq-aws.net |
 | utiq.epe.es | frontend.prod.utiq-aws.net |
 | utiq.espinof.com | frontend.prod.utiq-aws.net |
 | utiq.eventfinder.de | frontend.prod.utiq-aws.net |
@@ -138,6 +142,7 @@
 | utiq.ingame.de | frontend.prod.utiq-aws.net |
 | utiq.ingolstadt-today.de | frontend.prod.utiq-aws.net |
 | utiq.inspirational.es | frontend.prod.utiq-aws.net |
+| utiq.jamesonwhiskey.com | frontend.prod.utiq-aws.net |
 | utiq.jeuxvideo.com | frontend.prod.utiq-aws.net |
 | utiq.jux.news | frontend.prod.utiq-aws.net |
 | utiq.kino.de | frontend.prod.utiq-aws.net |
@@ -225,6 +230,7 @@
 | utiq.sensacine.com | frontend.prod.utiq-aws.net |
 | utiq.serienjunkies.de | frontend.prod.utiq-aws.net |
 | utiq.soester-anzeiger.de | frontend.prod.utiq-aws.net |
+| utiq.speakup.es | frontend.prod.utiq-aws.net |
 | utiq.speisekarte.de | frontend.prod.utiq-aws.net |
 | utiq.spielaffe.de | frontend.prod.utiq-aws.net |
 | utiq.sport.es | frontend.prod.utiq-aws.net |
@@ -252,6 +258,7 @@
 | utiq.tz.de | frontend.prod.utiq-aws.net |
 | utiq.usinger-anzeiger.de | frontend.prod.utiq-aws.net |
 | utiq.utest1-prod.work | frontend.prod.utiq-aws.net |
+| utiq.utest3-prod.work | frontend.prod.utiq-aws.net |
 | utiq.utopia.de | frontend.prod.utiq-aws.net |
 | utiq.verisure.fr | frontend.prod.utiq-aws.net |
 | utiq.vidaextra.com | frontend.prod.utiq-aws.net |
@@ -272,8 +279,10 @@
 | utiq.xatakandroid.com | frontend.prod.utiq-aws.net |
 | utiq.xatakawindows.com | frontend.prod.utiq-aws.net |
 | utiq.zdnet.fr | frontend.prod.utiq-aws.net |
+| utiq.zeit.de | frontend.prod.utiq-aws.net |
 | vfes.mno.link | frontend.prod.utiq-aws.net |
 | orangefr-test.mno.link | frontend.test.utiq-aws.net |
+| utiq-test.utest3.work | frontend.test.utiq-aws.net |
 | utiq.utest2.work | frontend.test.utiq-aws.net |
 | utiq.utest3.work | frontend.test.utiq-aws.net |
 | vfdemsp.mno.link | frontend.test.utiq-aws.net |

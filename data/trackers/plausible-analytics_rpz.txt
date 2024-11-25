@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -353,6 +353,7 @@ stats.appcessible.org CNAME .
 stats.arquido.com CNAME .
 stats.artisansfiables.fr CNAME .
 stats.artistchristinacarmel.com CNAME .
+stats.ase.edu.au CNAME .
 stats.asmodee.net CNAME .
 stats.astrr.ru CNAME .
 stats.asymptotic.io CNAME .
@@ -585,7 +586,6 @@ stats.kfcsint-lenaartsjeugd.be CNAME .
 stats.kitspace.org CNAME .
 stats.klaussteinke.com CNAME .
 stats.klj-consult.com CNAME .
-stats.knowkit.cloud CNAME .
 stats.kod.ru CNAME .
 stats.koehrer.de CNAME .
 stats.koerner-logopaedie.de CNAME .
@@ -675,6 +675,7 @@ stats.obiit.co CNAME .
 stats.obokat.se CNAME .
 stats.odysseeseine.org CNAME .
 stats.officefoosball.com CNAME .
+stats.ohmysmtp.com CNAME .
 stats.oldtinroof.com CNAME .
 stats.oliveoil.pro CNAME .
 stats.onepagelove.com CNAME .
@@ -890,7 +891,6 @@ traffic.hostedstatus.page CNAME .
 traffic.taktikal.is CNAME .
 triton.companyegg.com CNAME .
 varys.asongofzandc.xyz CNAME .
-views.emikajewelry.com CNAME .
 views.ericcapella.com CNAME .
 views.sikerlogistics.com CNAME .
 views.sikerproducts.com CNAME .

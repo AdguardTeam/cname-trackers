@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -77,7 +77,6 @@ cc.conforama.pt CNAME .
 cf.campagnes-france.com CNAME .
 ch.credithypo.com CNAME .
 ch0p.darty.com CNAME .
-cls7.theushuaiaexperience.com CNAME .
 cpgo.avatacar.com CNAME .
 cse3.chausport.com CNAME .
 csm.magnetintell.com CNAME .
@@ -257,7 +256,6 @@ gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 gif1.gifi.fr CNAME .
 gli9.inseec-bs.com CNAME .
 gnh2.destinia.lv CNAME .
@@ -277,7 +275,6 @@ iro.iperceptions.com CNAME .
 irs.iperceptions.com CNAME .
 iu6t.consobaby.it CNAME .
 j2i0.mathon.fr CNAME .
-jcr3.onlyyouhotels.com CNAME .
 jelr1.dili.fr CNAME .
 jfo0.societegenerale.fr CNAME .
 jfp6.destinia.de CNAME .
@@ -290,7 +287,6 @@ ju23.madeindesign.co.uk CNAME .
 jun23.madeindesign.de CNAME .
 jxy6.evobanco.es CNAME .
 kep6.destinia.ie CNAME .
-kvt5.blesscollectionhotels.com CNAME .
 kwsjy9.oui.sncf CNAME .
 lbc.lesbonscommerces.fr CNAME .
 leo1.leon-de-bruxelles.fr CNAME .
@@ -504,5 +500,6 @@ eat9.thebeat925.ca CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
 ea.mnt.fr CNAME .
+gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .
 pk1u.melanielyne.com CNAME .

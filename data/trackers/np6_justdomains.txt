@@ -73,6 +73,7 @@ tr.asp10ai.espmp-nifr.net
 tr.asp10aj.espmp-aufr.net
 tr.asp10ap.espmp-nifr.net
 tr.asp10ar.espmp-cufr.net
+tr.asp10b1.espmp-nifr.net
 tr.asp10b3.espmp-agfr.net
 tr.asp10bq.espmp-nifr.net
 tr.asp10bs.espmp-aufr.net
@@ -135,6 +136,7 @@ tr.bati-partners.be
 tr.batirenover.info
 tr.batiweb.co
 tr.batiwebmedia.com
+tr.bees.espmp-aufr.net
 tr.bel-pros.be
 tr.bern.espmp-nifr.net
 tr.bienvenue.envie-de-bien-manger.com
@@ -284,6 +286,7 @@ tr.devis-companeo.be
 tr.devis-companeo.com
 tr.devis-companeo.fr
 tr.devis-express.be
+tr.devis-professionnel.fr
 tr.devis-professionnels.com
 tr.devis-professionnels.fr
 tr.devis.digital
@@ -585,6 +588,7 @@ tr.lesmarques.envie-de-bien-manger.com
 tr.lesmarquesenviedebienmanger.fr
 tr.lettre.dechets-infos.com
 tr.lettre.helianthal.fr
+tr.lettre.lecho-circulaire.com
 tr.leyravaud.devisdirect.com
 tr.liberation.espmp-aufr.net
 tr.livrephoto.espmp-aufr.net
@@ -961,6 +965,7 @@ tr.partenaire.manageo.info
 tr.particuliers8.engie.com
 tr.partners.younited-credit.it
 tr.payment.lvmh.com
+tr.paysanbreton.com
 tr.perv.espmp-agfr.net
 tr.phjk.espmp-nifr.net
 tr.pipa.espmp-aufr.net
@@ -1137,6 +1142,7 @@ tr.welcome.lacollection-airfrance.ch
 tr.welcome.lacollection-airfrance.co.uk
 tr.welcome.lacollection-airfrance.de
 tr.welcome.lacollection-airfrance.fr
+tr.welcome.leclubtravel.fr
 tr.welcome.lexpress.fr
 tr.welcome.moncoupdepouce.com
 tr.welcome.odalys-vacances.com

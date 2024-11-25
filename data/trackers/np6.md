@@ -94,6 +94,7 @@
 | tr.asp10aj.espmp-aufr.net | tracking.bp01.net |
 | tr.asp10ap.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ar.espmp-cufr.net | tracking.bp01.net |
+| tr.asp10b1.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10b3.espmp-agfr.net | tracking.bp01.net |
 | tr.asp10bq.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10bs.espmp-aufr.net | tracking.bp01.net |
@@ -156,6 +157,7 @@
 | tr.batirenover.info | tracking.bp01.net |
 | tr.batiweb.co | tracking.bp01.net |
 | tr.batiwebmedia.com | tracking.bp01.net |
+| tr.bees.espmp-aufr.net | tracking.bp01.net |
 | tr.bel-pros.be | tracking.bp01.net |
 | tr.bern.espmp-nifr.net | tracking.bp01.net |
 | tr.bienvenue.envie-de-bien-manger.com | tracking.bp01.net |
@@ -305,6 +307,7 @@
 | tr.devis-companeo.com | tracking.bp01.net |
 | tr.devis-companeo.fr | tracking.bp01.net |
 | tr.devis-express.be | tracking.bp01.net |
+| tr.devis-professionnel.fr | tracking.bp01.net |
 | tr.devis-professionnels.com | tracking.bp01.net |
 | tr.devis-professionnels.fr | tracking.bp01.net |
 | tr.devis.digital | tracking.bp01.net |
@@ -606,6 +609,7 @@
 | tr.lesmarquesenviedebienmanger.fr | tracking.bp01.net |
 | tr.lettre.dechets-infos.com | tracking.bp01.net |
 | tr.lettre.helianthal.fr | tracking.bp01.net |
+| tr.lettre.lecho-circulaire.com | tracking.bp01.net |
 | tr.leyravaud.devisdirect.com | tracking.bp01.net |
 | tr.liberation.espmp-aufr.net | tracking.bp01.net |
 | tr.livrephoto.espmp-aufr.net | tracking.bp01.net |
@@ -982,6 +986,7 @@
 | tr.particuliers8.engie.com | tracking.bp01.net |
 | tr.partners.younited-credit.it | tracking.bp01.net |
 | tr.payment.lvmh.com | tracking.bp01.net |
+| tr.paysanbreton.com | tracking.bp01.net |
 | tr.perv.espmp-agfr.net | tracking.bp01.net |
 | tr.phjk.espmp-nifr.net | tracking.bp01.net |
 | tr.pipa.espmp-aufr.net | tracking.bp01.net |
@@ -1158,6 +1163,7 @@
 | tr.welcome.lacollection-airfrance.co.uk | tracking.bp01.net |
 | tr.welcome.lacollection-airfrance.de | tracking.bp01.net |
 | tr.welcome.lacollection-airfrance.fr | tracking.bp01.net |
+| tr.welcome.leclubtravel.fr | tracking.bp01.net |
 | tr.welcome.lexpress.fr | tracking.bp01.net |
 | tr.welcome.moncoupdepouce.com | tracking.bp01.net |
 | tr.welcome.odalys-vacances.com | tracking.bp01.net |

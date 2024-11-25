@@ -60,6 +60,7 @@
 ||console.adbility-media.com^
 ||console.adspmg.com^
 ||console.aqua-adserver.com^
+||console.ceramicartsnetwork.org^
 ||console.channelvas.com^
 ||console.datateam.co.uk^
 ||console.everythingcolorado.com^
@@ -117,6 +118,7 @@
 ||servedby.hour-media.com^
 ||servedby.imagineobx.com^
 ||servedby.insideradverts.com^
+||servedby.lamag.com^
 ||servedby.lintigroup.se^
 ||servedby.livingmagonline.com^
 ||servedby.mannixmarketing.com^
@@ -139,10 +141,12 @@
 ||servedby.schrotundkorn.de^
 ||servedby.tahoe.com^
 ||servedby.trackandfieldnews.com^
+||servedby.twinriversmedia.com^
 ||server.ad.logic-prod.viasat.io^
 ||server.ad.logic.viasat.io^
 ||static.ad.logic-prod.viasat.io^
 ||static.ad.logic-test.viasat.io^
+||static.ammoland.com^
 ||static.aqua-adserver.com^
 ||static.biohandel.de^
 ||static.blulab.net^
@@ -167,6 +171,7 @@
 ||static.the-saleroom.com^
 ||static.trackandfieldnews.com^
 ||static.walaplusadserver.com^
+||stommeplaatjes.geenstijl.nl^
 ||tlads.midtc.com^
 ||treehouse.wwoz.org^
 ||www.adserver.sniffies.com^
@@ -180,6 +185,7 @@
 ||www.revive.ahk.de^
 ||www.servedby.geminipub.com^
 ||www.servedby.greenspring.com^
+||www.servedby.lintigroup.se^
 ||www.servedby.quirks.com^
 ||www.servedby.schrotundkorn.de^
 ||www.static.imagineobx.com^

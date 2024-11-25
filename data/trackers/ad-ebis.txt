@@ -53,6 +53,7 @@
 ||adebis.blackboard60s.com^
 ||adebis.chojyu.com^
 ||adebis.crowdcredit.jp^
+||adebis.curilla.jp^
 ||adebis.daiwahouse.co.jp^
 ||adebis.demae-can.com^
 ||adebis.e-ohaka.com^
@@ -109,6 +110,7 @@
 ||adebis.toitoitoi.clinic^
 ||adebis.tokyuhotels.co.jp^
 ||adebis.toushi-up.com^
+||adebis.toushiman.com^
 ||adebis.tspot.co.jp^
 ||adebis.urban-research.jp^
 ||adebis.zenyaku-hbshop.com^
@@ -169,6 +171,7 @@
 ||cnebis.eisai.jp^
 ||cnebis.i-no-science.com^
 ||corporate.frontierconsul.net^
+||cs0008sbeda.moromi-koso-c.com^
 ||cs0010sbeda.theory-clinic.com^
 ||cs0010sbeda.theory-diet.com^
 ||cs1470sbeda.schoolasp.com^
@@ -188,7 +191,9 @@
 ||ebis-tracking.okinawa-keisei.com^
 ||ebis-tracking.shinyokohama-beauty.com^
 ||ebis-tracking.tcb-beauty.net^
+||ebis-tracking.tcb-fukuoka.com^
 ||ebis-tracking.tcb-fukushima.com^
+||ebis-tracking.tcb-ginza.com^
 ||ebis-tracking.tcb-mito.com^
 ||ebis-tracking.tcb-recruit.com^
 ||ebis-tracking.tcb-setagaya.com^
@@ -203,6 +208,7 @@
 ||ebis.biyo-job.com^
 ||ebis.bulk.co.jp^
 ||ebis.care-tensyoku.com^
+||ebis.ccjusers.com^
 ||ebis.ce-parfait.com^
 ||ebis.coyori.com^
 ||ebis.cp.claudia.co.jp^
@@ -228,6 +234,7 @@
 ||ebis.macchialabel.com^
 ||ebis.makeshop.jp^
 ||ebis.mamayaku.com^
+||ebis.microdiet.promo^
 ||ebis.mucuna.co.jp^
 ||ebis.n-pri.jp^
 ||ebis.nomu-silica.jp^
@@ -283,6 +290,7 @@
 ||itp.phoebebeautyup.com^
 ||itpebis03.deep2031.com^
 ||itpebis03.recella3d.com^
+||lmpadebis.gala-series.com^
 ||marketing.biz.mynavi.jp^
 ||marketing.zwei.com^
 ||matsubun.matsubun.com^
@@ -316,6 +324,7 @@
 ||ureruebis.nintama.co.jp^
 ||urr.kumamoto-food.com^
 ||www-ebis.384.co.jp^
+||www-ebis.surpasslog.com^
 ||www2.hnavi.co.jp^
 ||y8hxgv9m.kobetsu.co.jp^
 ||z89yxner8h.datsumou-beauty-times.com^

@@ -390,6 +390,7 @@
 ||3408133.notifysrv.com^
 ||3408773.notify6.com^
 ||3408773.notifysrv.com^
+||3409129.notify6.com^
 ||3409173.notifysrv.com^
 ||3409957.notifysrv.com^
 ||3410343.notify6.com^
@@ -442,6 +443,7 @@
 ||3440863.notifysrv.com^
 ||3442145.notifysrv.com^
 ||3442291.notify6.com^
+||3444967.notify6.com^
 ||3447913.notifysrv.com^
 ||3451465.notifysrv.com^
 ||3453873.notifysrv.com^
@@ -574,6 +576,7 @@
 ||3544557.notify6.com^
 ||3546.notify.optimizesrv.com^
 ||3549573.notifysrv.com^
+||3551063.notify6.com^
 ||3551873.notifysrv.com^
 ||3556327.notifysrv.com^
 ||3556651.notifysrv.com^
@@ -634,6 +637,7 @@
 ||3585435.notify6.com^
 ||3587723.notifysrv.com^
 ||3587729.notifysrv.com^
+||3587731.notify6.com^
 ||3587733.notify6.com^
 ||3587733.notifysrv.com^
 ||3587739.notifysrv.com^
@@ -718,6 +722,7 @@
 ||3662967.notify6.com^
 ||3662967.notifysrv.com^
 ||3662975.notifysrv.com^
+||3667313.notifysrv.com^
 ||3668783.notifysrv.com^
 ||3668785.notify6.com^
 ||3668785.notifysrv.com^
@@ -1092,6 +1097,7 @@
 ||4842686.notify6.com^
 ||4844530.notify6.com^
 ||4847642.notify6.com^
+||4856482.notify6.com^
 ||4863208.notify6.com^
 ||4872274.notify6.com^
 ||4872816.notify6.com^
@@ -1104,6 +1110,7 @@
 ||4902880.notify6.com^
 ||4917212.notify6.com^
 ||4919236.notify6.com^
+||4929320.notify6.com^
 ||4960922.notify6.com^
 ||4983200.notify6.com^
 ||4983282.notify6.com^
@@ -1192,7 +1199,6 @@
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
 ||adrepository.opoxv.com^
-||ads.optimizesrv.com^
 ||ads.toroadvertising.com^
 ||adult.notifysrv.com^
 ||andy.notifysrv.com^
@@ -1264,6 +1270,7 @@
 ||rtb.advertrek.com^
 ||rtb.exoclick.com^
 ||rtb.nowsrv.com^
+||rtb.optidigital.com^
 ||rtb.trafficfactory.com^
 ||s.18ramp.com^
 ||s.344eva.com^
@@ -1277,6 +1284,7 @@
 ||s.bizonads-ssp.com^
 ||s.cant3am.com^
 ||s.datingclix.com^
+||s.ds0yue.com^
 ||s.eaalink.com^
 ||s.elink2b.com^
 ||s.elink2c.com^
@@ -1502,6 +1510,7 @@
 ||www.4389756.notify6.com^
 ||www.8.notify.bizonads-ssp.com^
 ||www.android.notifysrv.com^
+||www.exaapi.com^
 ||www.exasrv.com^
 ||www.feedback.notifysrv.com^
 ||www.notify.bizonads-ssp.com^
@@ -1509,3 +1518,4 @@
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
 ||a.bizonads-ssp.com^
+||ads.optimizesrv.com^

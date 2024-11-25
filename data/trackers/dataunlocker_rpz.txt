@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,9 +24,11 @@ $TTL 300
 1j2n061x3td.www.digi.no CNAME .
 1k5vz1ejbcx.staging.probemas.com CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
+1phrzgfqiym8.marketingtornado.ca CNAME .
 1vyt1eguj27.ommasign.com CNAME .
 21fhq0t574p.talentkit.io CNAME .
 21udflra4wd.app-dev.cainthus.com CNAME .
+23t63tvyxz.marketingtornado.ca CNAME .
 25ix8gm8ien.sandbox.panprices.com CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2922qj5tf2n.swyftx.com.au CNAME .

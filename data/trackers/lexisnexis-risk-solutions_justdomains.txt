@@ -8,6 +8,7 @@ af.mobile.free.fr
 afm.monetaindonesia.com
 afm.monetamarkets.com
 afm.monetaturkey.com
+afm.pu-prime.com
 afm.puprime.com
 afm.puprime.online
 afm.startrader.asia
@@ -581,6 +582,7 @@ img3.avis.com
 img3.budget.com
 img3.forte.net
 img3.paylesscar.com
+img4.cargurus.com
 img4.nbpa.com
 img4.portal.citidirect.com
 img4.portaluat.citidirect.com
@@ -629,6 +631,7 @@ log.checkmyfile.com
 log.creditreport.co.uk
 log.open.investorsbank.com
 log.scanmypost.co.uk
+login-verification.dol.ct.gov
 login.eki-net.com
 loyaltyprogram.latam.com
 loyaltyprogram.latamairlines.com
@@ -1013,6 +1016,7 @@ tm.gumtree.com.au
 tm.kotak.com
 tm.okinushub.com
 tm.paysafecard.com
+tm.play.pl
 tm.production.eu1.tmfp.klarna.net
 tm.promotion-cdn.com
 tm.regions.com
@@ -1072,6 +1076,7 @@ tmt.houzz.com
 tmuat.kotak.com
 tmx-fpt.credit-agricole.pl
 tmx.additionfi.com
+tmx.astroline.today
 tmx.banquemanuvie.com
 tmx.bestbuy.com
 tmx.beyondbank.com.au

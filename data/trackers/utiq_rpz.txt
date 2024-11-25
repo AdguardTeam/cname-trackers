@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+esca.mno.link CNAME .
 o2de.mno.link CNAME .
 orangefr-test.mno.link CNAME .
 orangefr.mno.link CNAME .
@@ -18,6 +19,8 @@ service.utiq.com CNAME .
 sfr.mno.link CNAME .
 tmi.jv-telcoid.es CNAME .
 tmi.vodafone.de CNAME .
+u.20mn.it CNAME .
+utiq-test.utest3.work CNAME .
 utiq.20minutos.es CNAME .
 utiq.24auto.de CNAME .
 utiq.24books.de CNAME .
@@ -78,6 +81,7 @@ utiq.diariosur.es CNAME .
 utiq.diariovasco.com CNAME .
 utiq.directoalpaladar.com CNAME .
 utiq.donaukurier.de CNAME .
+utiq.duden.de CNAME .
 utiq.easyvoyage.com CNAME .
 utiq.eatbetter.de CNAME .
 utiq.einfach-tasty.de CNAME .
@@ -96,6 +100,7 @@ utiq.elperiodico.com CNAME .
 utiq.elperiodicodearagon.com CNAME .
 utiq.elperiodicoextremadura.com CNAME .
 utiq.elperiodicomediterraneo.com CNAME .
+utiq.emporda.info CNAME .
 utiq.epe.es CNAME .
 utiq.espinof.com CNAME .
 utiq.eventfinder.de CNAME .
@@ -140,6 +145,7 @@ utiq.informacion.es CNAME .
 utiq.ingame.de CNAME .
 utiq.ingolstadt-today.de CNAME .
 utiq.inspirational.es CNAME .
+utiq.jamesonwhiskey.com CNAME .
 utiq.jeuxvideo.com CNAME .
 utiq.jux.news CNAME .
 utiq.kino.de CNAME .
@@ -227,6 +233,7 @@ utiq.science-et-vie.com CNAME .
 utiq.sensacine.com CNAME .
 utiq.serienjunkies.de CNAME .
 utiq.soester-anzeiger.de CNAME .
+utiq.speakup.es CNAME .
 utiq.speisekarte.de CNAME .
 utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
@@ -255,6 +262,7 @@ utiq.tz.de CNAME .
 utiq.usinger-anzeiger.de CNAME .
 utiq.utest1-prod.work CNAME .
 utiq.utest2.work CNAME .
+utiq.utest3-prod.work CNAME .
 utiq.utest3.work CNAME .
 utiq.utopia.de CNAME .
 utiq.verisure.fr CNAME .
@@ -276,6 +284,7 @@ utiq.xatakamovil.com CNAME .
 utiq.xatakandroid.com CNAME .
 utiq.xatakawindows.com CNAME .
 utiq.zdnet.fr CNAME .
+utiq.zeit.de CNAME .
 vfdemsp.mno.link CNAME .
 vfes.mno.link CNAME .
 vfesmsp.mno.link CNAME .

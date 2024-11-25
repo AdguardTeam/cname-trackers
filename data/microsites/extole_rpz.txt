@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,11 +137,12 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em2287.theory.com CNAME .
-em8928.em.petco.com CNAME .
+em3904.skillshare.com CNAME .
+em8561.go2bank.com CNAME .
 em924.refer.starbucks.com CNAME .
-emxxxx.rent.app CNAME .
+em9523.walmartmoneycard.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -159,6 +160,7 @@ love.columbiacu.org CNAME .
 love.suncoastcreditunion.com CNAME .
 my.kotn.com CNAME .
 pals.petco.com CNAME .
+prepod.refer.intuit.com CNAME .
 promos.zinli.com CNAME .
 propertyperks.xfinity.com CNAME .
 q.share.qvcemail.com CNAME .
@@ -268,7 +270,6 @@ refer.globalknowledge.com CNAME .
 refer.gnc.com CNAME .
 refer.gopetplan.ca CNAME .
 refer.gopetplan.com CNAME .
-refer.greatwesternbank.com CNAME .
 refer.gymboree.com CNAME .
 refer.hair.com CNAME .
 refer.harley-davidsonfootwear.com CNAME .
@@ -545,6 +546,7 @@ share.firstleaf.com CNAME .
 share.floridatoday.com CNAME .
 share.freep.com CNAME .
 share.fundrive.savers.com CNAME .
+share.getmobilemechanic.com CNAME .
 share.getsetup.io CNAME .
 share.getshyft.co.za CNAME .
 share.giftcardgranny.com CNAME .
@@ -745,11 +747,10 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-em225.codecademy.com CNAME .
-em3904.skillshare.com CNAME .
+em1476.princesscruises.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
-em9523.walmartmoneycard.com CNAME .
+em8928.em.petco.com CNAME .
+emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

@@ -227,6 +227,7 @@
 ||app-clicks.firstrepublic.com^
 ||app.agebold.com^
 ||app.dickssportinggoods.com^
+||app.em.laredoute.ru^
 ||app.email.influitive.com^
 ||app.fluro.co.uk^
 ||app.golfgalaxy.com^
@@ -319,6 +320,7 @@
 ||click.mail.theknot.com^
 ||click.marketing.carousell.com^
 ||click.redditmail.com^
+||click.rudy.capital^
 ||click.sutra.co^
 ||click.totallymoney.com^
 ||click.transactional.carousell.com^
@@ -465,6 +467,7 @@
 ||email.app.theiconic.com.au^
 ||email.branch.ninomail.com^
 ||email.branchio.mg.kreezee.com^
+||email.chope.co^
 ||email.clearscore.ca^
 ||email.clearscore.co.za^
 ||email.clearscore.com^
@@ -530,7 +533,6 @@
 ||email.staging-link.flipgive.com^
 ||email.strava.com^
 ||email.thislife.com^
-||email.wingocard.com^
 ||email.wirexapp.com^
 ||email1.strava.com^
 ||emailclk.dutchbros.com^
@@ -550,7 +552,6 @@
 ||emails.sciencechannel.com^
 ||emails.tlc.com^
 ||emails.travelchannel.com^
-||emails.verishop.com^
 ||emails.watchown.tv^
 ||emlink.hermo.my^
 ||emm.ca.puma.com^
@@ -639,6 +640,7 @@
 ||link.mktg.almosafer.com^
 ||link.mktg.tajawal.com^
 ||link.mobstar.com^
+||link.mypostcard.com^
 ||link.nbcadmin.com^
 ||link.news.bleacherreport.com^
 ||link.news.clearpay.co.uk^
@@ -884,6 +886,7 @@
 ||url2987.affirm.com^
 ||url3009.onbunches.com^
 ||url3083.woofapp.se^
+||url363.james.tantawy.app^
 ||url3630.newsletter.experience-muse.com^
 ||url3788.blazepizza.com^
 ||url4142.dev.att.llabs.io^
@@ -907,6 +910,7 @@
 ||url7674.fitgenieapp.com^
 ||url8196.mindrise.app^
 ||url8258.jshek.branch.rocks^
+||url9138.bri.tantawy.app^
 ||url9609.account.experience-muse.com^
 ||url9684.wahi.com^
 ||url9748.kinlia.com^
@@ -934,6 +938,7 @@
 ||757d.pandasuite.io^
 ||76ef.pandasuite.io^
 ||8820.pandasuite.io^
+||8bp.onjoyri.de^
 ||8d4b.pandasuite.io^
 ||9189.pandasuite.io^
 ||9693.pandasuite.io^
@@ -952,6 +957,7 @@
 ||a.pickme.lk^
 ||a.topya.com^
 ||a2.slotxbros.com^
+||a7.slotxbros.com^
 ||aakashapp.byjus.com^
 ||abcd.coderays.com^
 ||acc-link-ccontact.focuscura.com^
@@ -964,6 +970,8 @@
 ||acro.egghead.link^
 ||act.wynk.in^
 ||activation.cmtelematicsdev.com^
+||activation.floatcard.com^
+||activearmor-origin.att.com^
 ||ad.gogox.com^
 ||ad.inhaabit.com^
 ||adl.kkguan.com^
@@ -1000,6 +1008,7 @@
 ||apac.links.discoveryplus.com^
 ||app-branch.yummybazaar-qa.com^
 ||app-dat.kingofthecurve.org^
+||app-dev.goodiez.io^
 ||app-dev.hayhayapp.se^
 ||app-dev.mave.ly^
 ||app-dev.mschfsneakers.com^
@@ -1058,6 +1067,7 @@
 ||app.almosafer.com^
 ||app.almutawapharmacies.com^
 ||app.amigopaisano.com^
+||app.analyst-collective.com^
 ||app.anch.co^
 ||app.appcity.com.au^
 ||app.aquaservice.com^
@@ -1114,7 +1124,6 @@
 ||app.catchconnect.com.au^
 ||app.changemakerz.org^
 ||app.citibikenyc.com^
-||app.citylink.ro^
 ||app.clientbook.com^
 ||app.coconuts.co^
 ||app.colesmobile.com.au^
@@ -1126,6 +1135,7 @@
 ||app.cuahealth.com.au^
 ||app.curesk.in^
 ||app.currenciesdirect.com^
+||app.cy.link^
 ||app.danmurphys.com.au^
 ||app.daycon.ai^
 ||app.deliverynow.vn^
@@ -1142,6 +1152,7 @@
 ||app.dreambox.ru.com^
 ||app.driveford.com^
 ||app.dttd.io^
+||app.dwellspring.io^
 ||app.echo.co.uk^
 ||app.echovisuals.com^
 ||app.edinarealty.com^
@@ -1163,6 +1174,7 @@
 ||app.flatex.at^
 ||app.flatex.de^
 ||app.flowyour.money^
+||app.fluid.travel^
 ||app.flykitt.com^
 ||app.flyx.me^
 ||app.food.li^
@@ -1200,6 +1212,7 @@
 ||app.grapevine.in^
 ||app.greenweez.com^
 ||app.grubster.com.br^
+||app.guidebooktravel.com^
 ||app.gustave-et-rosalie.com^
 ||app.gwsportsapp.in^
 ||app.gymstreak.com^
@@ -1300,12 +1313,14 @@
 ||app.mogo.ca^
 ||app.moneta.lk^
 ||app.moneywalkie.com^
+||app.moonbeam.vet^
 ||app.movebe.com^
 ||app.movegb.com^
 ||app.mschfsneakers.com^
 ||app.mt11.io^
 ||app.musaffa.com^
 ||app.musely.com^
+||app.myartfull.com^
 ||app.mybestphotobook.com^
 ||app.mybliss.ai^
 ||app.mycirclecare.com^
@@ -1323,6 +1338,7 @@
 ||app.nursef.ly^
 ||app.ocamping.fr^
 ||app.oceans.io^
+||app.offert.fans^
 ||app.ofisten.com^
 ||app.ollepass.org^
 ||app.onet.pl^
@@ -1345,6 +1361,7 @@
 ||app.pickyourtrail.com^
 ||app.pixapp.com^
 ||app.pizzeriasamio.nl^
+||app.place2biz.fr^
 ||app.playtally.com^
 ||app.pointer.com.br^
 ||app.pokerup.net^
@@ -1467,6 +1484,7 @@
 ||app.tsgo.io^
 ||app.tutorela.com^
 ||app.twocentsapp.io^
+||app.umma.io^
 ||app.unlockar.com^
 ||app.urbanculture.me^
 ||app.uremont.com^
@@ -1481,6 +1499,7 @@
 ||app.voice.football^
 ||app.vyaparapp.in^
 ||app.w3w.io^
+||app.warringtonplus.com^
 ||app.waybetter.com^
 ||app.waychit.com^
 ||app.well.co.uk^
@@ -1535,6 +1554,7 @@
 ||applink.jetsobee.com^
 ||applink.joyrun.com^
 ||applink.jurafuchs.de^
+||applink.makiapp.co^
 ||applink.mojilala.com^
 ||applink.moolban.com^
 ||applink.mybundle.tv^
@@ -1632,6 +1652,7 @@
 ||b.pickme.lk^
 ||b.pscp.live^
 ||b.sharechat.com^
+||b.spruce-dev.com^
 ||b.sprucehealth.com^
 ||b.staging.thechivery.com^
 ||b.tate.it^
@@ -1651,6 +1672,9 @@
 ||battlenet.openapp.link^
 ||bb.onjoyri.de^
 ||bbanywhere.links.rosieapp.com^
+||bbqg.inhaabit.com^
+||bcn.flckn.com^
+||be.outmore.app^
 ||be.slowmographer.co^
 ||bears.daigostudio.com^
 ||beautybar.openapp.link^
@@ -1658,14 +1682,17 @@
 ||bepartof.wechain.eu^
 ||beta-link.liilix.com^
 ||beta-link.rmbr.in^
+||beta-view.repro.stream^
 ||beta.view.repro.stream^
 ||betterhealthrewards.headuplabs.com^
 ||bettermedical-app.hotdoc.com.au^
 ||bfg.loanzify.app^
+||bi.bestlook.net^
 ||bi.irisdating.com^
 ||bint.openapp.link^
 ||bio.chups.co^
 ||bizlink.dinifi.com^
+||bka-link.shares.social^
 ||bkstg.flyx.me^
 ||bl-test.curatedplanet.com^
 ||blackdagger.openapp.link^
@@ -1675,10 +1702,10 @@
 ||blink.checkworkrights.com.au^
 ||blink.machobear.ca^
 ||blinks.outcomes4me.com^
+||bmw-charging.tupimob.com^
 ||bn.coupocket.com^
 ||bnc-papago.naver.com^
 ||bnc.chewchunks.com^
-||bnc.citylink.ro^
 ||bnc.cityscope.media^
 ||bnc.findlife.com.tw^
 ||bnc.go-better.com^
@@ -1749,7 +1776,6 @@
 ||branch.getcredible.io^
 ||branch.gosunpro.com^
 ||branch.hyr.work^
-||branch.indi.com^
 ||branch.kastapp.link^
 ||branch.kiddom.co^
 ||branch.koper.ski^
@@ -1777,6 +1803,7 @@
 ||branch.spaceback.me^
 ||branch.step.com^
 ||branch.supportgenie.io^
+||branch.suprf.one^
 ||branch.t.slac.com^
 ||branch.tadatada.com^
 ||branch.tbal.io^
@@ -1790,8 +1817,8 @@
 ||branch.weeblme.com^
 ||branch.wellsitenavigator.com^
 ||branch.whatsnxt.app^
+||branch2.dashphone.app^
 ||branchcust.zulln.se^
-||branchio.rsvp.com.au^
 ||branchio.services.evaneos.com^
 ||branchio.taxibeat.com^
 ||branchioth.thehindu.co.in^
@@ -1928,6 +1955,7 @@
 ||cmflinks.provesio.com^
 ||cnaexam.quantresear.ch^
 ||cname.pebmed.com.br^
+||co.techieustad.com^
 ||collect.ezidox.com^
 ||colors.chamoji.com^
 ||community.keeperz.app^
@@ -1980,6 +2008,7 @@
 ||cz-fightstore.m-shop.me^
 ||cz-fitness007.m-shop.me^
 ||cz-grafficon.m-shop.me^
+||cz-harleydavidson.m-shop.me^
 ||cz-hopsej.m-shop.me^
 ||cz-joealex.m-shop.me^
 ||cz-laznejupiter.m-shop.me^
@@ -2044,9 +2073,11 @@
 ||deeplink.mobile360.io^
 ||deeplink.oxstreet.com^
 ||deeplink.ring.md^
+||deeplink.sa-labs.info^
 ||deeplink.sky.com^
 ||deeplink.the-secret-society.com^
 ||deeplink.tytod.com^
+||deeplink.upoker.net^
 ||deeplink.wagr.ai^
 ||deeplink.wbnc.99array.com^
 ||deeplink.winespectator.com^
@@ -2097,9 +2128,9 @@
 ||dev.links.myplace.co^
 ||dev.me.thequad.com^
 ||dev.punk.wagr.us^
-||dev.smartrbuyer.com^
 ||dev.sswt.co^
 ||devapp.mawada.com^
+||devbranch.joinautopilot.com^
 ||development.me.thequad.com^
 ||devgmfiles.freeaxez.com^
 ||devlink.goag.app^
@@ -2128,6 +2159,7 @@
 ||dl-test.furni-shop.com^
 ||dl-test.hadaaya.com^
 ||dl-test.myathath.com^
+||dl-test.myemprove.com^
 ||dl-test.rivafashion.com^
 ||dl.6thstreet.com^
 ||dl.amazonmusic.com^
@@ -2165,12 +2197,15 @@
 ||dlink-staging.blueapron.com^
 ||dlink.blueapron.com^
 ||dlink.hsdyn.com^
+||dlink.lumenen.com^
+||dlink.solidappmaker.in^
 ||dlink.upperinc.com^
 ||dlp.egghead.link^
 ||dls.guidrr.com^
 ||dltest.fanfq.com^
 ||dluat.pokerbros.net^
 ||dluat.supremapoker.net^
+||dncg-link.ecomnet.app^
 ||do.exaai.chat^
 ||do.usefireside.com^
 ||domino.flycl.ps^
@@ -2186,7 +2221,6 @@
 ||download.dealizen.com^
 ||download.frolit.io^
 ||download.getneema.com^
-||download.headhelp.io^
 ||download.helponymous.com^
 ||download.ibuzza.net^
 ||download.innit.com^
@@ -2202,7 +2236,6 @@
 ||download.planify.io^
 ||download.poolking.in^
 ||download.quiptgsm.com^
-||download.quizdom.com^
 ||download.quizdom.gr^
 ||download.quizdomeducation.com^
 ||download.sendstack.africa^
@@ -2210,6 +2243,7 @@
 ||download.shiftsmart.com^
 ||download.spotangels.com^
 ||download.supercoating.com.hk^
+||download.wdyouxi88.com^
 ||download.withu.fit^
 ||download.yuehlia.com^
 ||download.zikirapp.com^
@@ -2221,6 +2255,7 @@
 ||drngoc.abphotos.link^
 ||dropcoffee.openapp.link^
 ||dsmexam.quantresear.ch^
+||dtdt.peblla.app^
 ||dutchrosetest.dutchrosemedia.com^
 ||dynamic.kayana.co.uk^
 ||dynamic.link.app.waave.com^
@@ -2229,6 +2264,7 @@
 ||e035.pandasuite.io^
 ||e246.pandasuite.io^
 ||e403.pandasuite.io^
+||e764.pandasuite.io^
 ||edocs.didgigo.com^
 ||edu.quizdom.gr^
 ||educationlink.clear360.com^
@@ -2269,11 +2305,14 @@
 ||feedback.imsmetals.com^
 ||feedme.use-beez.com^
 ||fetch.gethuan.com^
+||ff.fanfight.com^
 ||ff.pdf.ac^
 ||fight.offtherecord.com^
 ||firefighterexam.quantresear.ch^
+||first.1dydx.com^
 ||fischerenergyapp.boxharryservices.com^
 ||fishing.daigostudio.com^
+||flowerpizza.openapp.link^
 ||foodsouvlakibar.openapp.link^
 ||francezbulldog.openapp.link^
 ||frankys.openapp.link^
@@ -2304,6 +2343,7 @@
 ||get-beta.kabbee.com^
 ||get-dev.mastersapp.com^
 ||get-employer.switchapp.com^
+||get-lms.f-secure.com^
 ||get-lor.tacter.app^
 ||get-mwf.loanzify.com^
 ||get-stage.petdesk.com^
@@ -2335,6 +2375,7 @@
 ||get.blue.weme.sh^
 ||get.buddyhealthcare.com^
 ||get.buzzwallet.io^
+||get.chatlasapp.com^
 ||get.cheapshot.co^
 ||get.cityworthapp.com^
 ||get.clubcooee.com^
@@ -2372,6 +2413,8 @@
 ||get.mastersapp.com^
 ||get.medifi.com^
 ||get.megastarfinancial.com^
+||get.mergenchat.com^
+||get.miracleapp.ru^
 ||get.miso.kr^
 ||get.mistplay.com^
 ||get.mndbdy.ly^
@@ -2382,12 +2425,13 @@
 ||get.myoyster.mx^
 ||get.nala.money^
 ||get.nfit.club^
-||get.noknok.co^
+||get.nodnod.app^
 ||get.noonlight.com^
 ||get.nospace.app^
 ||get.oneatwork.app^
 ||get.openph.one^
 ||get.oshp.io^
+||get.paytend.com^
 ||get.peoople.app^
 ||get.peoople.co^
 ||get.playgpl.id^
@@ -2449,6 +2493,7 @@
 ||get.wemoms.com^
 ||get.wishmindr.com^
 ||get.wishup.co^
+||get.worthingtonmortgage.com^
 ||get.wyndy.com^
 ||get.wysa.uk^
 ||get.xstee.com^
@@ -2464,17 +2509,21 @@
 ||gh.vsee.me^
 ||ghd.vsee.me^
 ||gi.inhaabit.com^
+||gift.altruus.com^
 ||giveshopvn.abphotos.link^
 ||gnh-link.shares.social^
 ||go-beta.locosonic.com^
 ||go-dev.callersmart.com^
+||go-dev.mymatey.com^
 ||go-dev.qantaswellbeing.com^
+||go-staging.panda.sa^
 ||go-staging.qantaswellbeing.com^
 ||go-test.bigspring.io^
 ||go-test.citizen.com^
 ||go-test.goflux.de^
 ||go-test.homepass.com^
 ||go-test.karos.fr^
+||go-test.livenpay.io^
 ||go-test.string.me^
 ||go-test.tamed.fdm.dk^
 ||go-test.wondavr.com^
@@ -2509,6 +2558,7 @@
 ||go.bouncie.com^
 ||go.brazil.innovatedating.com^
 ||go.bro.social^
+||go.buzzable.app^
 ||go.callersmart.com^
 ||go.cardless.com^
 ||go.cb-w.com^
@@ -2545,6 +2595,7 @@
 ||go.ebat.es^
 ||go.ebates.ca^
 ||go.egypt.innovatedating.com^
+||go.ember.london^
 ||go.enzly.de^
 ||go.europe.mingle.com^
 ||go.everfave.com^
@@ -2676,6 +2727,7 @@
 ||go.poland.innovatedating.com^
 ||go.polen-app.com^
 ||go.porschedrive.com^
+||go.porschedrive.us^
 ||go.porscheparkingplus.com^
 ||go.portfoliobyopenroad.com^
 ||go.portugal.innovatedating.com^
@@ -2689,6 +2741,7 @@
 ||go.rakuten.com^
 ||go.rate.sh^
 ||go.real.co^
+||go.remento.co^
 ||go.russia.innovatedating.com^
 ||go.rzr.to^
 ||go.saudiarabia.innovatedating.com^
@@ -2730,6 +2783,7 @@
 ||go.test.mindfi.co^
 ||go.test.shop.app^
 ||go.thai.innovatedating.com^
+||go.thaicupid.me^
 ||go.tinder.com^
 ||go.topicit.net^
 ||go.trevo.my^
@@ -2743,6 +2797,7 @@
 ||go.upwards.com^
 ||go.usecaya.com^
 ||go.venezuela.innovatedating.com^
+||go.ver.to^
 ||go.viet.innovatedating.com^
 ||go.vietsingles.ignite.technology^
 ||go.voot.com^
@@ -2788,6 +2843,7 @@
 ||gym.daashfit.com^
 ||gyradiko.openapp.link^
 ||gyrosaristotelous.openapp.link^
+||habit.openapp.link^
 ||habix-link.nginel.com^
 ||halm.app.mobilapp.io^
 ||hanadev.branch.rocks^
@@ -2811,6 +2867,7 @@
 ||hol.dir.tvsmiles.tv^
 ||hop.dttd.app^
 ||host.roxiapp.com^
+||hst2-invite-test.ander.ai^
 ||hst2-invite.ander.ai^
 ||htf-link.shares.social^
 ||hu-topgal.m-shop.me^
@@ -2830,6 +2887,7 @@
 ||i.live.xyz^
 ||i.livexyz.com^
 ||i.morons.us^
+||i.multiply.onl^
 ||i.play.vividpicks.com^
 ||i.poker2u.app^
 ||i.pokerbros.net^
@@ -2865,13 +2923,13 @@
 ||internet.degoo.com^
 ||inv.mksp.io^
 ||invest.rubicoin.com^
-||invitation.friendshipwallet.com^
 ||invitation.mindbliss.com^
 ||invitation.reyesmagos.app^
 ||invite-alternate.ritual.co^
 ||invite-demo.easypark.net^
 ||invite-sandbox.ritual.co^
 ||invite-staging.grandtracker.com^
+||invite-test.gust.show^
 ||invite-test.sadapay.pk^
 ||invite.abra.com^
 ||invite.airtabapp.com^
@@ -2908,6 +2966,7 @@
 ||invite.urpay.sa^
 ||invite.wizzy.app^
 ||invite.youmail.com^
+||invites.thenoplace.com^
 ||io.piupiu.io^
 ||iob.imgur.com^
 ||ios.asktagapp.com^
@@ -2927,6 +2986,7 @@
 ||join.asteride.co^
 ||join.belive.sg^
 ||join.codehub.ninja^
+||join.e1app.com^
 ||join.entrylevel.net^
 ||join.evercoin.com^
 ||join.fitgrid.com^
@@ -2979,6 +3039,8 @@
 ||keyes.myre.io^
 ||kl-branch-sandbox.thekono.com^
 ||kl-branch.thekono.com^
+||knmart.abphotos.link^
+||kokiocl.peblla.app^
 ||kotopoulathanasis.openapp.link^
 ||l-t.topya.com^
 ||l-test.civic.com^
@@ -2987,7 +3049,6 @@
 ||l.arbor.news^
 ||l.arborit.ai^
 ||l.atomicreader.com^
-||l.audibook.si^
 ||l.azarlive.com^
 ||l.bhaibandhu.com^
 ||l.bigbasket.com^
@@ -3000,11 +3061,11 @@
 ||l.coastapp.com^
 ||l.cultgear.com^
 ||l.dev.arborit.ai^
-||l.dev.audibook.si^
 ||l.du.coach^
 ||l.fitzmedia.com.au^
 ||l.fusionos.ai^
 ||l.getpyfl.com^
+||l.getwya.com^
 ||l.gocement.com^
 ||l.gpay.to^
 ||l.guesthug.com^
@@ -3022,6 +3083,7 @@
 ||l.newnew.co^
 ||l.nflo.at^
 ||l.openhouseapp.ai^
+||l.otherweb.co^
 ||l.post2b.com^
 ||l.prk.bz^
 ||l.redcross.or.ke^
@@ -3040,6 +3102,7 @@
 ||l.whizzl.com^
 ||l.your.md^
 ||lapescheria.openapp.link^
+||lapinsa.peblla.app^
 ||larocca.openapp.link^
 ||launch.aella.app^
 ||launch.meetsaturn.com^
@@ -3084,7 +3147,6 @@
 ||link-staging.samewave.com^
 ||link-staging.viivio.io^
 ||link-staging.youbooq.me^
-||link-test.360vuz.com^
 ||link-test.avenue.us^
 ||link-test.chalknation.com^
 ||link-test.daryse.com^
@@ -3100,12 +3162,15 @@
 ||link-test.steadio.co^
 ||link-test.trendstag.com^
 ||link-test.tumblbug.com^
+||link-test.wheretradesgo.com^
+||link-tst.samenmetco.nl^
 ||link-web.tatadigital.com^
 ||link.1112.com^
 ||link.1112dev.com^
 ||link.1800contacts.com^
+||link.1inch.io^
 ||link.24go.co^
-||link.360vuz.com^
+||link.5mins.ai^
 ||link.7-eleven.vn^
 ||link.abandonedmonkey.codes^
 ||link.access.medstarhealth.org^
@@ -3154,6 +3219,7 @@
 ||link.bible.is^
 ||link.bigroom.tv^
 ||link.binx.hu^
+||link.birda.org^
 ||link.bluecallapp.com^
 ||link.blueheart.io^
 ||link.bobmakler.com^
@@ -3163,6 +3229,7 @@
 ||link.booknet.ua^
 ||link.booksy.com^
 ||link.boost.fit^
+||link.bounce.cx^
 ||link.bounty.com^
 ||link.broadly.com^
 ||link.brottsplats-app.se^
@@ -3209,6 +3276,7 @@
 ||link.dana.id^
 ||link.daryse.com^
 ||link.deilma.app^
+||link.delatipset.se^
 ||link.deliverr.ca^
 ||link.dev-portal.icanbwell.com^
 ||link.dev.appewa.com^
@@ -3223,6 +3291,7 @@
 ||link.dishcult.com^
 ||link.divcity.com^
 ||link.divyamarathi.com^
+||link.diyatvusa.com^
 ||link.doctorcareanywhere.com^
 ||link.dongnealba.com^
 ||link.doopage.com^
@@ -3230,6 +3299,7 @@
 ||link.dosh.cash^
 ||link.dralilabolsanelo.com^
 ||link.drum.io^
+||link.duprcoach.com^
 ||link.dvendor.com^
 ||link.ealiox.com^
 ||link.easy.me^
@@ -3313,6 +3383,7 @@
 ||link.groovetime.dev^
 ||link.guoqi365.com^
 ||link.halal-navi.com^
+||link.hanpath.com^
 ||link.happycar.info^
 ||link.harveyssupermarkets.com^
 ||link.hayhayapp.se^
@@ -3327,6 +3398,7 @@
 ||link.hiccup.dev^
 ||link.hivexchange.com.au^
 ||link.hola.health^
+||link.hollywoodnights.app^
 ||link.home.id^
 ||link.hugoapp.com^
 ||link.huuu.ge^
@@ -3362,6 +3434,7 @@
 ||link.jitta.co^
 ||link.jittawealth.co^
 ||link.jobble.com^
+||link.jogga.app^
 ||link.joincitro.co.nz^
 ||link.joincitro.com.au^
 ||link.joinswitch.co^
@@ -3417,6 +3490,7 @@
 ||link.mixbit.com^
 ||link.mixnpik.com^
 ||link.mobi.com^
+||link.moby.my^
 ||link.modstylist.com^
 ||link.mojagazetka.com^
 ||link.morty.app^
@@ -3478,10 +3552,13 @@
 ||link.piesystems.io^
 ||link.pillowcast.app^
 ||link.pinpoint.golf^
+||link.pixieapp.co^
 ||link.place2biz.fr^
+||link.placebo.life^
 ||link.plantis.app^
 ||link.playbackhealth.com^
 ||link.plaympe.com^
+||link.playsight.com^
 ||link.plazahogar.com.py^
 ||link.pluckk.in^
 ||link.plzgrp.it^
@@ -3492,6 +3569,7 @@
 ||link.pray.com^
 ||link.prenuvo.com^
 ||link.prokure.it^
+||link.propspoints.com^
 ||link.pulsz.com^
 ||link.purplebrick.io^
 ||link.qa.bepretty.cl^
@@ -3518,6 +3596,7 @@
 ||link.rippling.com^
 ||link.rmbr.in^
 ||link.roveworld.xyz^
+||link.royalecheese.com^
 ||link.rtme.us^
 ||link.ruhgu.com^
 ||link.samewave.com^
@@ -3563,6 +3642,7 @@
 ||link.soultime.com^
 ||link.space.ge^
 ||link.spacetalk.co^
+||link.sparklist.io^
 ||link.sparrow.geekup.vn^
 ||link.splittr.io^
 ||link.sporfie.com^
@@ -3691,6 +3771,7 @@
 ||link.wvbs.org^
 ||link.xiahealth.com^
 ||link.xibee.io^
+||link.yapscan.com^
 ||link.yesorno.bet^
 ||link.yoodo.com.my^
 ||link.youbooq.me^
@@ -3712,6 +3793,7 @@
 ||linkdev.challer.app^
 ||linkdev.sprive.com^
 ||linkhealth-app.hotdoc.com.au^
+||linkie.buddybet.com^
 ||linking.givefeels.com^
 ||linking.venueapp-system.com^
 ||linkort.insights.md^
@@ -3723,6 +3805,7 @@
 ||links.aclokey.com^
 ||links.agoratix.com^
 ||links.ahctv.com^
+||links.alkemehealth.com^
 ||links.amazingdiscoveries.org^
 ||links.animalplanet.com^
 ||links.app.medintegral.es^
@@ -3800,6 +3883,7 @@
 ||links.rogervoice.com^
 ||links.samsclub.com^
 ||links.sciencechannel.com^
+||links.seashell.com^
 ||links.shukran.com^
 ||links.sidehide.com^
 ||links.sleep.com^
@@ -3807,6 +3891,7 @@
 ||links.sliceit.com^
 ||links.slicepay.in^
 ||links.sock.app^
+||links.somewheregood.com^
 ||links.soulsoftware.org^
 ||links.sportyeah.com^
 ||links.stage.atlobha.com^
@@ -3866,6 +3951,7 @@
 ||location.imsmetals.com^
 ||login.e-ticket.co.jp^
 ||london.masterofcity.com^
+||loyalty-alternate.abaha.vn^
 ||lp.egghead.link^
 ||lpwlinks.mindtickle.com^
 ||lub-links.eyecue.io^
@@ -3874,6 +3960,7 @@
 ||m-test.etherean.app^
 ||m-test.go4.io^
 ||m-test.papertrail.io^
+||m.abaq.app^
 ||m.aecrimecentral.com^
 ||m.aetv.com^
 ||m.alto.com^
@@ -3951,6 +4038,7 @@
 ||maui.shakaguide.com^
 ||mcatexam.quantresear.ch^
 ||mcgrawrealtors12103.myre.io^
+||mcr-link.shares.social^
 ||md.diceid.com^
 ||me.glamhive.com^
 ||mealtime.openapp.link^
@@ -3974,6 +4062,7 @@
 ||ml.houzz.com^
 ||mlinkdemo.bookedout.com^
 ||mlinkdev.bookedout.com^
+||mlinkstage.bookedout.com^
 ||mm.openapp.link^
 ||mobil.hry.yt^
 ||mobilapptest.app.mobilapp.io^
@@ -3990,6 +4079,7 @@
 ||mobile.bswift.com^
 ||mobile.btgpactualdigital.com^
 ||mobile.clickastro.com^
+||mobile.cloudtrucks-staging.com^
 ||mobile.dat.com^
 ||mobile.etiquetaunica.com.br^
 ||mobile.everytap.com^
@@ -3999,13 +4089,16 @@
 ||mobile.leo1.in^
 ||mobile.locumprime.co.uk^
 ||mobile.mailchimpapp.com^
+||mobile.mydocendo.com^
 ||mobile.nationwiderun.org^
 ||mobile.nprod.dat.com^
 ||mobile.reki.tv^
 ||mobile.suiste.com^
+||mobileapp.gesture.vip^
 ||mobiletest.aspensnowmass.com^
 ||mobilize.tupinambaenergia.com.br^
 ||mobwars-alternate.kano.link^
+||monogyro.openapp.link^
 ||more.telier.app^
 ||mpakal.openapp.link^
 ||mpoumpas.openapp.link^
@@ -4037,6 +4130,7 @@
 ||mymix.mixtel.com^
 ||mymix.mixtelematics.com^
 ||myopia.gocheckkids.com^
+||myphamdep.abphotos.link^
 ||mypowur.eyecue.io^
 ||n.homepass.com^
 ||nala.headuplabs.com^
@@ -4053,6 +4147,7 @@
 ||o.myomnicard.in^
 ||o388.pandasuite.io^
 ||oahu.shakaguide.com^
+||oarl.peblla.app^
 ||ochre-app.hotdoc.com.au^
 ||oferte.cos2000.ro^
 ||okaerijc.peblla.app^
@@ -4066,9 +4161,9 @@
 ||open-test.iproov.me^
 ||open-test.wynk.in^
 ||open.ailo.app^
+||open.ailo.pm^
 ||open.airtelxstream.in^
 ||open.anghami.com^
-||open.bitcoinmagazine.app^
 ||open.catchapp.mobi^
 ||open.clerkie.io^
 ||open.ditch.cash^
@@ -4090,6 +4185,7 @@
 ||open.novamoney.com^
 ||open.olakrutrim.com^
 ||open.osnplus.com^
+||open.podvine.com^
 ||open.polaroid.link^
 ||open.speeko.co^
 ||open.swapu.app^
@@ -4098,6 +4194,7 @@
 ||open.together-social.com^
 ||open.trakks.com^
 ||open.uzitapp.com^
+||open.wallpon.com^
 ||open.wynk.in^
 ||openshop.m-shop.me^
 ||oshp.io^
@@ -4110,7 +4207,6 @@
 ||panceexam.quantresear.ch^
 ||paramedicexam.quantresear.ch^
 ||parentapp.byjus.com^
-||parents.app.playosmo.com^
 ||partner-staging.miso.kr^
 ||partner.librarius.com.ua^
 ||partner.miso.kr^
@@ -4134,6 +4230,7 @@
 ||phoenix.thexlife.co^
 ||phonetrack.hukumkaikka.in^
 ||piatsakalamaki.openapp.link^
+||piin-link.shares.social^
 ||pirateclan-alternate.kano.link^
 ||pirounakia.openapp.link^
 ||pitapan.openapp.link^
@@ -4170,12 +4267,14 @@
 ||pontios.openapp.link^
 ||pool.onjoyri.de^
 ||pop3.happ.social^
+||pos.orda-app.com^
 ||power.viggo.com^
 ||prassas.openapp.link^
 ||prasserie.openapp.link^
 ||prealpha.go.levelbank.com^
 ||premiumapp.byjus.com^
 ||prenesi-mojm.mercator.si^
+||preview.tapday.com^
 ||primary-app.hotdoc.com.au^
 ||priority-app.hotdoc.com.au^
 ||prism.epoise.com^
@@ -4183,6 +4282,7 @@
 ||pro.jig.space^
 ||pro.pokerup.net^
 ||production-link-ccontact.focuscura.com^
+||profile-dev.joinroll.com^
 ||promo.animocabrands.com^
 ||promo.gogo.org.ua^
 ||promo.monea.me^
@@ -4205,6 +4305,7 @@
 ||qh1xtzdo.pandasuite.io^
 ||qlp.egghead.link^
 ||qms.castelomega.com^
+||qr.backyard-hunt.com^
 ||qr.disneyland.com^
 ||qr.disneyworld.com^
 ||qr.juuice.com^
@@ -4237,6 +4338,8 @@
 ||redirect.indacar.io^
 ||redirect.kataklop.com^
 ||redirectdemoqpay.2c2p.com^
+||ref-devs.getroamify.com^
+||ref.bakai24.app^
 ||ref.elitehrv.com^
 ||ref.mybb.id^
 ||ref.zypto.com^
@@ -4310,10 +4413,12 @@
 ||s.upoker.net^
 ||s.utop.vn^
 ||s100003.shoppingappsg.com^
+||s100009.shoppingappsg.com^
 ||safepass.citizen.com^
 ||safetravelsapp.progressive.com^
 ||sailinsight-app.sapsailing.com^
 ||sailinsight20-app.sapsailing.com^
+||sailinsight30-app.sapsailing.com^
 ||sales.pandasuite.io^
 ||saltsabar.openapp.link^
 ||sbc-app-links.specialized.com^
@@ -4339,6 +4444,7 @@
 ||sf5q8gbnve37.branch.salesfloor.net^
 ||sg.carousellmotors.com^
 ||sh.b.inhaabit.com^
+||shabakah.ghostkey.io^
 ||share-backcountry.onxmaps.com^
 ||share-dev.perchwell.com^
 ||share-dev1.sparemin.com^
@@ -4358,6 +4464,7 @@
 ||share.atlantic.money^
 ||share.aynrand.org^
 ||share.beaconlearningapp.com^
+||share.beautifulquotes.app^
 ||share.bitzer.app^
 ||share.blindside.pro^
 ||share.bookey.app^
@@ -4387,6 +4494,7 @@
 ||share.groove.ooo^
 ||share.haloedapp.com^
 ||share.headliner.app^
+||share.hellocamp.us^
 ||share.helpthyneighbour.com^
 ||share.heygroup.com^
 ||share.heypubstory.com^
@@ -4400,14 +4508,19 @@
 ||share.keeano.com^
 ||share.ksedi.com^
 ||share.learn.xyz^
+||share.letsmeet.today^
+||share.lit.it^
 ||share.liv.rent^
 ||share.made.me^
 ||share.mansi.io^
 ||share.marrow.com^
+||share.mechi.app^
 ||share.meditationschool.co^
 ||share.membee.vn^
+||share.methos.app^
 ||share.moonlightcake.com^
 ||share.mooodek.com^
+||share.moovup.hk^
 ||share.nearpod.us^
 ||share.nokioapp.com^
 ||share.oneway.cab^
@@ -4423,6 +4536,7 @@
 ||share.ridehip.com^
 ||share.robinhood.com^
 ||share.scoreholio.com^
+||share.shalomworld.org^
 ||share.sharafdg.com^
 ||share.soundit.com^
 ||share.sparemin.com^
@@ -4430,13 +4544,14 @@
 ||share.swinx.io^
 ||share.swishpick.com^
 ||share.talkit.app^
+||share.teleprompter.com^
 ||share.tepnot.com^
 ||share.tessie.com^
 ||share.theladbible.com^
+||share.theloopapp.org^
 ||share.titanvest.com^
 ||share.tops.co.th^
 ||share.tornado.com^
-||share.tp666.vip^
 ||share.tradeapp.me^
 ||share.travelloapp.com^
 ||share.tunespotter.com^
@@ -4455,7 +4570,9 @@
 ||sharelink.oppvenuz.com^
 ||sharing.kptncook.com^
 ||shell-recharge.tupinambaenergia.com.br^
+||ship.mothership.com^
 ||shop.myaeon2go.com^
+||shophoom.abphotos.link^
 ||shoppingapp.norwex.com^
 ||short.afgruppen.no^
 ||short.isdev.info^
@@ -4468,7 +4585,6 @@
 ||sk-batteryimport.m-shop.me^
 ||sk-sanasport.m-shop.me^
 ||sk-topgal.m-shop.me^
-||skaffa.tidyapp.se^
 ||skincheckwa-app.hotdoc.com.au^
 ||skosgrill.openapp.link^
 ||sl.trycircle.com^
@@ -4485,6 +4601,7 @@
 ||social.talenttitan.com^
 ||social.tinyview.com^
 ||sp-app.fixly.pl^
+||spjp.peblla.app^
 ||splitexpenses.oworld.fr^
 ||splitgym-app.foxboxapp.com^
 ||spread.epoolers.com^
@@ -4492,6 +4609,7 @@
 ||ssltest2.branch.io^
 ||stadac.mobilapp.io^
 ||stageapplink.reki.tv^
+||stagelink.heynow.me^
 ||stagelink.lola.com^
 ||stagelink.supershare.com^
 ||stagelink.youareaceo.com^
@@ -4506,6 +4624,7 @@
 ||staging-link2.divyabhaskar.com^
 ||staging-links.thriveglobal.com^
 ||staging-refer.rooam.co^
+||staging.eleph.app^
 ||staging.findeck.link^
 ||staging.link.findeck.de^
 ||staging.link.snapfeet.io^
@@ -4552,6 +4671,7 @@
 ||tec.techieustad.com^
 ||teilen.radlland-bayern.de^
 ||test-app.getgifted.com^
+||test-app.nautilus.io^
 ||test-app.popsa.com^
 ||test-app.rmbr.in^
 ||test-app.thetimes.link^
@@ -4559,6 +4679,7 @@
 ||test-applink.plumpop.com^
 ||test-card.getgifted.com^
 ||test-link-ccontact.focuscura.com^
+||test-link.ars.company^
 ||test-link.californiapsychics.com^
 ||test-link.dev.deilma.app^
 ||test-link.electrover.se^
@@ -4575,6 +4696,7 @@
 ||test-listen.tunein.com^
 ||test-share.glorify-app.com^
 ||test.apac.links.discoveryplus.com^
+||test.app.kravein.com.au^
 ||test.asteride.co^
 ||test.bilt.page^
 ||test.fbird.co^
@@ -4583,6 +4705,7 @@
 ||test.handy-alarm.com^
 ||test.links.discoveryplus.com^
 ||test.links.emea.discoveryplus.com^
+||test.lys.to^
 ||test.openapp.link^
 ||test.smrtp.link^
 ||test.spenn.com^
@@ -4629,11 +4752,13 @@
 ||tommys.openapp.link^
 ||tongkhohangnhat.abphotos.link^
 ||top3.inhaabit.com^
+||topmeat.openapp.link^
 ||toto.pandasuite.io^
 ||track.ivia.com^
 ||tracking-app.maismei.com.br^
 ||traicaydi.abaha.vn^
 ||transmissionapp.jacoblegrone.com^
+||tranthienly-link.membee.vn^
 ||travel.stage.x.unikoom.com^
 ||travel.travelfairy.ai^
 ||travel.x.unikoom.com^
@@ -4648,6 +4773,7 @@
 ||tst-link-ccontact.focuscura.com^
 ||tune.sckmediatv.com^
 ||tw.spiriteq.com^
+||twocafe.peblla.app^
 ||txt.fuelmyclub.com^
 ||txt.hooplaguru.com^
 ||txt.htltn.com^
@@ -4668,18 +4794,19 @@
 ||uatrewards-sg.greateasternlife.com^
 ||uatshare.entertainment.com^
 ||ujvh.pandasuite.io^
+||uk.omaze.app^
 ||uni.okane-reco-plus.com^
 ||universal.okane-reco-plus.com^
 ||universal.shakaguide.com^
 ||universaldev.taylormadegolf.com^
 ||unsubscribe.openapp.link^
+||uptomax.eland.kr^
 ||uptvmovies.uptv.com^
 ||ur.b.inhaabit.com^
 ||url.density.exchange^
 ||url.wind.app^
 ||us.app.puma.com^
 ||use.fvr.to^
-||use.lunos.app^
 ||users.rentbabe.com^
 ||v-t.topya.com^
 ||v.angha.me^
@@ -4696,7 +4823,9 @@
 ||verizon-branch.locationlabs.com^
 ||video.bzfd.it^
 ||video.vitcord.com^
+||view.peqaboo.com^
 ||viewer.pandasuite.io^
+||vih-link.shares.social^
 ||vip.agentteam.com.au^
 ||visit-sbx.tngdigital.com.my^
 ||visit.campermate.com^
@@ -4744,6 +4873,7 @@
 ||x88s.pandasuite.io^
 ||y-t.topya.com^
 ||y.topya.com^
+||yellowstone.shakaguide.com^
 ||you.pixellot.link^
 ||you.stage.pixellot.link^
 ||youate.co^
@@ -4775,6 +4905,7 @@
 ||link.winwintechnology.com^
 ||linksbntest.branchcustom.xyz^
 ||lnk.christmaslistapp.com^
+||quicklinks.branchcustom.xyz^
 ||s.airgoat.com^
 ||s.goat.com^
 ||sharen.oyorooms.com^

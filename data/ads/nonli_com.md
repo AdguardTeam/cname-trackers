@@ -27,11 +27,14 @@
 | social.lafranceagricole.fr | non.li |
 | sur.laprovence.com | non.li |
 | l.bienpublic.com | origin.non.li |
+| l.bienpublic.com | origin.non.li |
+| l.dna.fr | origin.non.li |
 | l.dna.fr | origin.non.li |
 | l.estrepublicain.fr | origin.non.li |
 | l.lalsace.fr | origin.non.li |
 | l.ledauphine.com | origin.non.li |
 | l.lejsl.com | origin.non.li |
+| l.leprogres.fr | origin.non.li |
 | l.leprogres.fr | origin.non.li |
 | l.republicain-lorrain.fr | origin.non.li |
 | l.vosgesmatin.fr | origin.non.li |

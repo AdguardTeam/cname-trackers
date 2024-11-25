@@ -11,6 +11,7 @@
     * adbility-delivery.aquaplatform.com
     * ahk-delivery.aquaplatform.com
     * ammoland-delivery.aquaplatform.com
+    * ammoland-static.aquaplatform.com
     * artionet-delivery.aquaplatform.com
     * artionet-static.aquaplatform.com
     * atg-console.aquaplatform.com
@@ -20,6 +21,7 @@
     * blulab-delivery.aquaplatform.com
     * blulab-static.aquaplatform.com
     * cambridge-delivery.aquaplatform.com
+    * ceramics-console.aquaplatform.com
     * ceramics-delivery.aquaplatform.com
     * ceramics-static.aquaplatform.com
     * channelvas-console.aquaplatform.com
@@ -39,6 +41,7 @@
     * famag-static.aquaplatform.com
     * geenstijl-console.aquaplatform.com
     * geenstijl-delivery.aquaplatform.com
+    * geenstijl-static.aquaplatform.com
     * geodelivery.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
     * goldseek-static.aquaplatform.com
@@ -126,6 +129,7 @@
 | revive.ahk.de | ahk-delivery.aquaplatform.com |
 | www.revive.ahk.de | ahk-delivery.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
+| static.ammoland.com | ammoland-static.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
 | ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
 | images.worldofshowjumping.com | artionet-static.aquaplatform.com |
@@ -139,6 +143,7 @@
 | adv.blulab.net | blulab-delivery.aquaplatform.com |
 | static.blulab.net | blulab-static.aquaplatform.com |
 | coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
+| console.ceramicartsnetwork.org | ceramics-console.aquaplatform.com |
 | servedby.ceramicartsnetwork.org | ceramics-delivery.aquaplatform.com |
 | static.ceramicartsnetwork.org | ceramics-static.aquaplatform.com |
 | console.channelvas.com | channelvas-console.aquaplatform.com |
@@ -164,6 +169,7 @@
 | static.fa-mag.com | famag-static.aquaplatform.com |
 | adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
 | lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
+| stommeplaatjes.geenstijl.nl | geenstijl-static.aquaplatform.com |
 | adserver.kozoom.com | geodelivery.aquaplatform.com |
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
 | servedby.quirks.com | geodelivery.aquaplatform.com |
@@ -182,6 +188,7 @@
 | servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
 | servedby.hour-media.com | hourmedia-delivery.aquaplatform.com |
+| servedby.lamag.com | hourmedia-delivery.aquaplatform.com |
 | servedby.palmbeachmedia.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
@@ -247,7 +254,9 @@
 | servedby.lintigroup.se | platformiq-del.aquaplatform.com |
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
 | servedby.reviveservers.com | platformiq-del.aquaplatform.com |
+| servedby.twinriversmedia.com | platformiq-del.aquaplatform.com |
 | www.proforums.com | platformiq-del.aquaplatform.com |
+| www.servedby.lintigroup.se | platformiq-del.aquaplatform.com |
 | xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.portwest.com | portwest-delivery.aquaplatform.com |
 | ads.postandparcel.info | postandparcel-delivery.aquaplatform.com |

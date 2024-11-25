@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,10 +21,14 @@ analytics.riggraz.dev CNAME .
 analytics.yofbrc.com CNAME .
 argus.umarbutler.com CNAME .
 c.paddyk45.de CNAME .
+c.qrdate.org CNAME .
 contacapre.bortox.it CNAME .
+count.andreabrandi.com CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
+gc.his2nd.life CNAME .
 gc.mindenugyved.hu CNAME .
+gc.neiku.org CNAME .
 gc.sanyamkapoor.com CNAME .
 gc.securitydungeon.sk CNAME .
 gc.tbx.at CNAME .
@@ -44,10 +48,12 @@ goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
 moo.geopogs.party CNAME .
 novi.webnovi.eu CNAME .
+ping.irisphotos.app CNAME .
 pixel.embed.su CNAME .
 st.mapleranks.com CNAME .
 stats.0chris.com CNAME .
 stats.45rpm.ch CNAME .
+stats.abdo.wtf CNAME .
 stats.abdodaoud.com CNAME .
 stats.afirmacijas.lv CNAME .
 stats.apitman.com CNAME .
@@ -75,16 +81,24 @@ stats.ksr.onl CNAME .
 stats.lspeed.org CNAME .
 stats.mele.dev CNAME .
 stats.msol.io CNAME .
+stats.nullzwo.dev CNAME .
 stats.palaisdesfetes.eu CNAME .
+stats.pollux.codes CNAME .
 stats.renit.pl CNAME .
+stats.roalgo.ro CNAME .
 stats.rocketgoboom.lol CNAME .
 stats.ryanchmelir.com CNAME .
 stats.semipol.de CNAME .
+stats.sharukhi.xyz CNAME .
 stats.sofianlak.fr CNAME .
 stats.stchris.net CNAME .
+stats.svc.lol CNAME .
 stats.thecrafters001.com CNAME .
 stats.trainsley69.me CNAME .
+stats.umcconnell.net CNAME .
 stats.whatacools.com CNAME .
+stats.wswg.xyz CNAME .
 stats.ybbond.id CNAME .
+vault-stats.sladewatkins.net CNAME .
 visit.hijacklibs.net CNAME .
 webstats.maik.dev CNAME .

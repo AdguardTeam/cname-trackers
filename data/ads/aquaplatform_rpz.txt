@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,6 +71,7 @@ championads.midtc.com CNAME .
 console.adbility-media.com CNAME .
 console.adspmg.com CNAME .
 console.aqua-adserver.com CNAME .
+console.ceramicartsnetwork.org CNAME .
 console.channelvas.com CNAME .
 console.datateam.co.uk CNAME .
 console.everythingcolorado.com CNAME .
@@ -128,6 +129,7 @@ servedby.hlipublishing.com CNAME .
 servedby.hour-media.com CNAME .
 servedby.imagineobx.com CNAME .
 servedby.insideradverts.com CNAME .
+servedby.lamag.com CNAME .
 servedby.lintigroup.se CNAME .
 servedby.livingmagonline.com CNAME .
 servedby.mannixmarketing.com CNAME .
@@ -150,10 +152,12 @@ servedby.sacommunications.com CNAME .
 servedby.schrotundkorn.de CNAME .
 servedby.tahoe.com CNAME .
 servedby.trackandfieldnews.com CNAME .
+servedby.twinriversmedia.com CNAME .
 server.ad.logic-prod.viasat.io CNAME .
 server.ad.logic.viasat.io CNAME .
 static.ad.logic-prod.viasat.io CNAME .
 static.ad.logic-test.viasat.io CNAME .
+static.ammoland.com CNAME .
 static.aqua-adserver.com CNAME .
 static.biohandel.de CNAME .
 static.blulab.net CNAME .
@@ -178,6 +182,7 @@ static.sonicplug.com CNAME .
 static.the-saleroom.com CNAME .
 static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
+stommeplaatjes.geenstijl.nl CNAME .
 tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
 www.adserver.sniffies.com CNAME .
@@ -191,6 +196,7 @@ www.revive-static.worldscreen.com CNAME .
 www.revive.ahk.de CNAME .
 www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
+www.servedby.lintigroup.se CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.schrotundkorn.de CNAME .
 www.static.imagineobx.com CNAME .

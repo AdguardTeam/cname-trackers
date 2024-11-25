@@ -342,6 +342,7 @@ stats.appcessible.org
 stats.arquido.com
 stats.artisansfiables.fr
 stats.artistchristinacarmel.com
+stats.ase.edu.au
 stats.asmodee.net
 stats.astrr.ru
 stats.asymptotic.io
@@ -574,7 +575,6 @@ stats.kfcsint-lenaartsjeugd.be
 stats.kitspace.org
 stats.klaussteinke.com
 stats.klj-consult.com
-stats.knowkit.cloud
 stats.kod.ru
 stats.koehrer.de
 stats.koerner-logopaedie.de
@@ -664,6 +664,7 @@ stats.obiit.co
 stats.obokat.se
 stats.odysseeseine.org
 stats.officefoosball.com
+stats.ohmysmtp.com
 stats.oldtinroof.com
 stats.oliveoil.pro
 stats.onepagelove.com
@@ -879,7 +880,6 @@ traffic.hostedstatus.page
 traffic.taktikal.is
 triton.companyegg.com
 varys.asongofzandc.xyz
-views.emikajewelry.com
 views.ericcapella.com
 views.sikerlogistics.com
 views.sikerproducts.com

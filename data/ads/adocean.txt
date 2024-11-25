@@ -20,14 +20,17 @@
 ||tools.elle.pl^
 ||tools.glamour.pl^
 ||tools.gotujmy.pl^
+||tools.ilewazy.pl^
 ||tools.kobieta.pl^
 ||tools.mamotoja.pl^
 ||tools.mojegotowanie.pl^
 ||tools.mojpieknyogrod.pl^
 ||tools.national-geographic.pl^
 ||tools.niania.pl^
+||tools.opiekaseniora.pl^
 ||tools.party.pl^
 ||tools.polki.pl^
+||tools.pomocedomowe.pl^
 ||tools.przyslijprzepis.pl^
 ||tools.viva.pl^
 ||tools.wizaz.pl^

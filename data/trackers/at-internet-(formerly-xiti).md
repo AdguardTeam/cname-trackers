@@ -42,7 +42,6 @@
     * d-deloitte-fr-cddc.at-o.net
     * d-m-net-de-cddc.at-o.net
     * d-santemagazine-fr-cddc.at-o.net
-    * d-uni-medias-com-cddc.at-o.net
     * da-freo-nl-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
     * da-rabobank-nl-cddc.at-o.net
@@ -166,7 +165,6 @@
 | d.deloitte.fr | d-deloitte-fr-cddc.at-o.net |
 | d.m-net.de | d-m-net-de-cddc.at-o.net |
 | d.santemagazine.fr | d-santemagazine-fr-cddc.at-o.net |
-| d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
 | da.freo.nl | da-freo-nl-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
 | da.rabobank.nl | da-rabobank-nl-cddc.at-o.net |

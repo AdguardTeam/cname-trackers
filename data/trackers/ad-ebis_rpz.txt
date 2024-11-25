@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -64,6 +64,7 @@ adebis.beautiful-voyager.com CNAME .
 adebis.blackboard60s.com CNAME .
 adebis.chojyu.com CNAME .
 adebis.crowdcredit.jp CNAME .
+adebis.curilla.jp CNAME .
 adebis.daiwahouse.co.jp CNAME .
 adebis.demae-can.com CNAME .
 adebis.e-ohaka.com CNAME .
@@ -120,6 +121,7 @@ adebis.tohshin.co.jp CNAME .
 adebis.toitoitoi.clinic CNAME .
 adebis.tokyuhotels.co.jp CNAME .
 adebis.toushi-up.com CNAME .
+adebis.toushiman.com CNAME .
 adebis.tspot.co.jp CNAME .
 adebis.urban-research.jp CNAME .
 adebis.zenyaku-hbshop.com CNAME .
@@ -180,6 +182,7 @@ cnebis.chocola.com CNAME .
 cnebis.eisai.jp CNAME .
 cnebis.i-no-science.com CNAME .
 corporate.frontierconsul.net CNAME .
+cs0008sbeda.moromi-koso-c.com CNAME .
 cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .
 cs1470sbeda.schoolasp.com CNAME .
@@ -199,7 +202,9 @@ ebis-tracking.hirakata-skin-clinic.com CNAME .
 ebis-tracking.okinawa-keisei.com CNAME .
 ebis-tracking.shinyokohama-beauty.com CNAME .
 ebis-tracking.tcb-beauty.net CNAME .
+ebis-tracking.tcb-fukuoka.com CNAME .
 ebis-tracking.tcb-fukushima.com CNAME .
+ebis-tracking.tcb-ginza.com CNAME .
 ebis-tracking.tcb-mito.com CNAME .
 ebis-tracking.tcb-recruit.com CNAME .
 ebis-tracking.tcb-setagaya.com CNAME .
@@ -214,6 +219,7 @@ ebis.belta.co.jp CNAME .
 ebis.biyo-job.com CNAME .
 ebis.bulk.co.jp CNAME .
 ebis.care-tensyoku.com CNAME .
+ebis.ccjusers.com CNAME .
 ebis.ce-parfait.com CNAME .
 ebis.coyori.com CNAME .
 ebis.cp.claudia.co.jp CNAME .
@@ -239,6 +245,7 @@ ebis.lululun.com CNAME .
 ebis.macchialabel.com CNAME .
 ebis.makeshop.jp CNAME .
 ebis.mamayaku.com CNAME .
+ebis.microdiet.promo CNAME .
 ebis.mucuna.co.jp CNAME .
 ebis.n-pri.jp CNAME .
 ebis.nomu-silica.jp CNAME .
@@ -294,6 +301,7 @@ isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
 itpebis03.deep2031.com CNAME .
 itpebis03.recella3d.com CNAME .
+lmpadebis.gala-series.com CNAME .
 marketing.biz.mynavi.jp CNAME .
 marketing.zwei.com CNAME .
 matsubun.matsubun.com CNAME .
@@ -327,6 +335,7 @@ urerucname.manara.jp CNAME .
 ureruebis.nintama.co.jp CNAME .
 urr.kumamoto-food.com CNAME .
 www-ebis.384.co.jp CNAME .
+www-ebis.surpasslog.com CNAME .
 www2.hnavi.co.jp CNAME .
 y8hxgv9m.kobetsu.co.jp CNAME .
 z89yxner8h.datsumou-beauty-times.com CNAME .

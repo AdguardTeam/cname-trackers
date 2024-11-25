@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * fathomdns.com
+    * starman-jack.fathomdns.com
     * starman.fathomdns.com
 
 ### Rarely active trackers
@@ -161,6 +162,7 @@
 | cardinal.businessfirstonline.co.uk | deprecated-custom-domains.b-cdn.net |
 | cardinal.ensembleblock.com | deprecated-custom-domains.b-cdn.net |
 | cardinal.genx.be | deprecated-custom-domains.b-cdn.net |
+| cardinal.krisenchat.de | deprecated-custom-domains.b-cdn.net |
 | cardinal.newman.is | deprecated-custom-domains.b-cdn.net |
 | cardinal.zenting.app | deprecated-custom-domains.b-cdn.net |
 | caribou.color.io | deprecated-custom-domains.b-cdn.net |
@@ -246,7 +248,6 @@
 | crab.goalcanvas.com | deprecated-custom-domains.b-cdn.net |
 | crane.auctic.com | deprecated-custom-domains.b-cdn.net |
 | crane.maggsgroup.com | deprecated-custom-domains.b-cdn.net |
-| crane.thegardenroomguide.co.uk | deprecated-custom-domains.b-cdn.net |
 | crawdad.craiga.id.au | deprecated-custom-domains.b-cdn.net |
 | crawdad.dillonerhardt.com | deprecated-custom-domains.b-cdn.net |
 | crayfish.fansubbing.com | deprecated-custom-domains.b-cdn.net |
@@ -284,6 +285,7 @@
 | donkey.guggenbichler.co.at | deprecated-custom-domains.b-cdn.net |
 | donkey.hackoregon.org | deprecated-custom-domains.b-cdn.net |
 | donkey.masteringfinland.com | deprecated-custom-domains.b-cdn.net |
+| donkey.mrfrisby.com | deprecated-custom-domains.b-cdn.net |
 | donkey.the3rd.place | deprecated-custom-domains.b-cdn.net |
 | dormouse.consentkit.com | deprecated-custom-domains.b-cdn.net |
 | dormouse.nektarium.de | deprecated-custom-domains.b-cdn.net |
@@ -485,6 +487,7 @@
 | koala.readyfive.io | deprecated-custom-domains.b-cdn.net |
 | koi.artsvp.co | deprecated-custom-domains.b-cdn.net |
 | koi.fftf.cat | deprecated-custom-domains.b-cdn.net |
+| koi.filtersource.com | deprecated-custom-domains.b-cdn.net |
 | koi.fullyexplained.co.uk | deprecated-custom-domains.b-cdn.net |
 | koi.henrydennis.dev | deprecated-custom-domains.b-cdn.net |
 | koi.lkae.dev | deprecated-custom-domains.b-cdn.net |
@@ -527,7 +530,6 @@
 | llama.growthinkers.nl | deprecated-custom-domains.b-cdn.net |
 | llama.lobbly.com | deprecated-custom-domains.b-cdn.net |
 | llama.mallardbay.com | deprecated-custom-domains.b-cdn.net |
-| llama.vivriticapital.com | deprecated-custom-domains.b-cdn.net |
 | llama.whatcha.io | deprecated-custom-domains.b-cdn.net |
 | lobster.justunderwear.com | deprecated-custom-domains.b-cdn.net |
 | locust.ausrebellion.earth | deprecated-custom-domains.b-cdn.net |
@@ -542,7 +544,6 @@
 | lynx.inovo.io | deprecated-custom-domains.b-cdn.net |
 | lynx.lumy.network | deprecated-custom-domains.b-cdn.net |
 | lynx.microl.ink | deprecated-custom-domains.b-cdn.net |
-| lynx.pascivite.com | deprecated-custom-domains.b-cdn.net |
 | lynx.sbstjn.com | deprecated-custom-domains.b-cdn.net |
 | lynx.simpleparish.com | deprecated-custom-domains.b-cdn.net |
 | macaw.ianmitchell.dev | deprecated-custom-domains.b-cdn.net |
@@ -700,6 +701,7 @@
 | porpoise.kristinholl.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.numberzs.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.hashnode.com | deprecated-custom-domains.b-cdn.net |
+| prairiedog.thisismattsmith.com | deprecated-custom-domains.b-cdn.net |
 | prawn.inchperfect.com | deprecated-custom-domains.b-cdn.net |
 | prawn.lionsmouth.digital | deprecated-custom-domains.b-cdn.net |
 | primate.logology.co | deprecated-custom-domains.b-cdn.net |
@@ -779,7 +781,6 @@
 | sheep.vaxstandby.com | deprecated-custom-domains.b-cdn.net |
 | silkworm.bobsmechanicalrepairs.co.uk | deprecated-custom-domains.b-cdn.net |
 | silkworm.boxmood.be | deprecated-custom-domains.b-cdn.net |
-| silkworm.energizergrouplegal.com | deprecated-custom-domains.b-cdn.net |
 | silkworm.hoprnet.io | deprecated-custom-domains.b-cdn.net |
 | silkworm.preventingsuicideinsussex.org | deprecated-custom-domains.b-cdn.net |
 | silkworm.waspexpert.com | deprecated-custom-domains.b-cdn.net |
@@ -931,6 +932,7 @@
 | whitefish.kenku.fm | deprecated-custom-domains.b-cdn.net |
 | wildcat.fspy.io | deprecated-custom-domains.b-cdn.net |
 | wildcat.longviewforecasting.com | deprecated-custom-domains.b-cdn.net |
+| wildcat.restq.co | deprecated-custom-domains.b-cdn.net |
 | wildcat.vivritiamc.com | deprecated-custom-domains.b-cdn.net |
 | wildebeest.gmk.today | deprecated-custom-domains.b-cdn.net |
 | wildebeest.quarva.dev | deprecated-custom-domains.b-cdn.net |
@@ -950,6 +952,7 @@
 | yak.auclantis.com | deprecated-custom-domains.b-cdn.net |
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
+| donkey.jackellis.me | starman-jack.fathomdns.com |
 | 4ke5b4ila.codedge.de | starman.fathomdns.com |
 | 7wrxo2xh.iriscreative.co | starman.fathomdns.com |
 | 8inhjmd.usefathom.com | starman.fathomdns.com |
@@ -968,6 +971,7 @@
 | albatross.mypromo.co | starman.fathomdns.com |
 | albatross.ohseesoftware.com | starman.fathomdns.com |
 | alligator.remotecyberwork.com | starman.fathomdns.com |
+| alpaca.hans-hornberger.com | starman.fathomdns.com |
 | alpaca.miidbaby.com | starman.fathomdns.com |
 | alpaca.thesocialmedwork.com | starman.fathomdns.com |
 | alpaca.wingmantracker.com | starman.fathomdns.com |
@@ -994,6 +998,7 @@
 | anteater.ttbwsd.com | starman.fathomdns.com |
 | anteater.webitize.com | starman.fathomdns.com |
 | antelope.gabriellaroche.dev | starman.fathomdns.com |
+| antelope.hoap.dev | starman.fathomdns.com |
 | antelope.itsluke.co.uk | starman.fathomdns.com |
 | antelope.johndbeatty.com | starman.fathomdns.com |
 | antelope.journeyofanurse.com | starman.fathomdns.com |
@@ -1014,6 +1019,7 @@
 | asp.ashesashes.org | starman.fathomdns.com |
 | asp.brightmachine.uk | starman.fathomdns.com |
 | asp.dimileeh.com | starman.fathomdns.com |
+| asp.goodpa.co.uk | starman.fathomdns.com |
 | asp.podlist.de | starman.fathomdns.com |
 | asp.rikkeekelund.com | starman.fathomdns.com |
 | asp.sepiasoft.eu | starman.fathomdns.com |
@@ -1039,6 +1045,7 @@
 | bass.alfrednerstu.com | starman.fathomdns.com |
 | bass.goulet.dev | starman.fathomdns.com |
 | bass.siterig.io | starman.fathomdns.com |
+| bass.taivo.ai | starman.fathomdns.com |
 | bat.heelix.be | starman.fathomdns.com |
 | bear.builtbyborda.com | starman.fathomdns.com |
 | bear.datingrelationshipsadvice.com | starman.fathomdns.com |
@@ -1063,6 +1070,7 @@
 | blackbird.docstation.co | starman.fathomdns.com |
 | blackbird.marcelgil.com | starman.fathomdns.com |
 | bluejay.edgesoftware.cloud | starman.fathomdns.com |
+| bluejay.fivefold.vc | starman.fathomdns.com |
 | bluejay.postmediagroup.com | starman.fathomdns.com |
 | bluejay.schreinerei-virnich.de | starman.fathomdns.com |
 | bluejay.wearegray.com | starman.fathomdns.com |
@@ -1073,6 +1081,7 @@
 | boar.kostholdsveilederen.no | starman.fathomdns.com |
 | bobcat.pronounce.technology | starman.fathomdns.com |
 | bobcat.snapshooter.io | starman.fathomdns.com |
+| bonobo.nola.today | starman.fathomdns.com |
 | boom.laravel.io | starman.fathomdns.com |
 | bovid.neural.love | starman.fathomdns.com |
 | bug.aestheticpixels.io | starman.fathomdns.com |
@@ -1115,6 +1124,7 @@
 | caterpilla.ibon.live | starman.fathomdns.com |
 | catfish.lucalabs.com | starman.fathomdns.com |
 | catfish.phuclh.com | starman.fathomdns.com |
+| catfish.pressure.cooking | starman.fathomdns.com |
 | catfish.sofatido.ch | starman.fathomdns.com |
 | catshark.janetalexandersson.com | starman.fathomdns.com |
 | catshark.jimmyaldape.dev | starman.fathomdns.com |
@@ -1176,16 +1186,17 @@
 | coyote.12gem.me | starman.fathomdns.com |
 | coyote.gnx.cloud | starman.fathomdns.com |
 | coyote.nickgurney.com | starman.fathomdns.com |
+| coyote.pbnbuilds.com | starman.fathomdns.com |
 | coyote.txet.ch | starman.fathomdns.com |
 | crab.dunkeldbutchers.co.uk | starman.fathomdns.com |
 | crab.goalcanvas.com | starman.fathomdns.com |
 | crane.auctic.com | starman.fathomdns.com |
 | crane.maggsgroup.com | starman.fathomdns.com |
-| crane.thegardenroomguide.co.uk | starman.fathomdns.com |
 | crawdad.craiga.id.au | starman.fathomdns.com |
 | crawdad.dillonerhardt.com | starman.fathomdns.com |
 | crayfish.fansubbing.com | starman.fathomdns.com |
 | crayfish.portbanecottagelochtay.co.uk | starman.fathomdns.com |
+| crayfish.spotlessconcepts.com | starman.fathomdns.com |
 | crayfish.thecatherinewheel.co | starman.fathomdns.com |
 | crocodile.rapid-sale.co.uk | starman.fathomdns.com |
 | crow.claudiakeil.de | starman.fathomdns.com |
@@ -1217,6 +1228,7 @@
 | donkey.elegantmusicgroup.com | starman.fathomdns.com |
 | donkey.guggenbichler.co.at | starman.fathomdns.com |
 | donkey.hackoregon.org | starman.fathomdns.com |
+| donkey.jackellis.me | starman.fathomdns.com |
 | donkey.masteringfinland.com | starman.fathomdns.com |
 | donkey.mrfrisby.com | starman.fathomdns.com |
 | donkey.the3rd.place | starman.fathomdns.com |
@@ -1237,6 +1249,7 @@
 | earwig.architecturesofhiding.com | starman.fathomdns.com |
 | echidna.hellotomorrow.agency | starman.fathomdns.com |
 | echidna.honeybadger.io | starman.fathomdns.com |
+| echidna.scandinaviantaste.no | starman.fathomdns.com |
 | eel.aware7.de | starman.fathomdns.com |
 | eel.ieo.do | starman.fathomdns.com |
 | egret.brothers.studio | starman.fathomdns.com |
@@ -1262,6 +1275,7 @@
 | felidae.mmm.page | starman.fathomdns.com |
 | felidae.mysuperportal.com | starman.fathomdns.com |
 | felidae.theforeignarchitect.com | starman.fathomdns.com |
+| felidae.top10partnersuche.ch | starman.fathomdns.com |
 | ferret.ecvan.io | starman.fathomdns.com |
 | ferret.firstprogressivechurch.org | starman.fathomdns.com |
 | ferret.helpspace.com | starman.fathomdns.com |
@@ -1316,6 +1330,7 @@
 | goldfish.untitledspreadsheet.com | starman.fathomdns.com |
 | goose.accountsjs.com | starman.fathomdns.com |
 | goose.markerchase.com | starman.fathomdns.com |
+| goose.surfboardpayments.com | starman.fathomdns.com |
 | gopher.mina.ca | starman.fathomdns.com |
 | gorilla.celcyon.com | starman.fathomdns.com |
 | gorilla.hakai.org | starman.fathomdns.com |
@@ -1355,6 +1370,7 @@
 | heron.joel.is | starman.fathomdns.com |
 | heron.notability.com | starman.fathomdns.com |
 | heron.oneaudiobooks.app | starman.fathomdns.com |
+| heron.scarletnoir.co | starman.fathomdns.com |
 | herring.artemis.cloud | starman.fathomdns.com |
 | herring.panda.network | starman.fathomdns.com |
 | hookworm.campaignzee.com | starman.fathomdns.com |
@@ -1421,6 +1437,7 @@
 | koi.artsvp.co | starman.fathomdns.com |
 | koi.fftf.cat | starman.fathomdns.com |
 | koi.filtersource.com | starman.fathomdns.com |
+| koi.fullyexplained.co.uk | starman.fathomdns.com |
 | koi.henrydennis.dev | starman.fathomdns.com |
 | koi.lkae.dev | starman.fathomdns.com |
 | koi.project-tampah.com | starman.fathomdns.com |
@@ -1462,7 +1479,6 @@
 | llama.growthinkers.nl | starman.fathomdns.com |
 | llama.lobbly.com | starman.fathomdns.com |
 | llama.mallardbay.com | starman.fathomdns.com |
-| llama.vivriticapital.com | starman.fathomdns.com |
 | lobster.justunderwear.com | starman.fathomdns.com |
 | locust.ausrebellion.earth | starman.fathomdns.com |
 | loon.analogjoe.com | starman.fathomdns.com |
@@ -1476,7 +1492,6 @@
 | lynx.inovo.io | starman.fathomdns.com |
 | lynx.lumy.network | starman.fathomdns.com |
 | lynx.microl.ink | starman.fathomdns.com |
-| lynx.pascivite.com | starman.fathomdns.com |
 | lynx.sbstjn.com | starman.fathomdns.com |
 | lynx.simpleparish.com | starman.fathomdns.com |
 | macaw.ianmitchell.dev | starman.fathomdns.com |
@@ -1554,6 +1569,7 @@
 | ocelot.sonicumonitoring.com | starman.fathomdns.com |
 | octopus.evobend.com | starman.fathomdns.com |
 | octopus.hans-hornberger.de | starman.fathomdns.com |
+| octopus.janandsusan.io | starman.fathomdns.com |
 | octopus.katrinebrandborg.dk | starman.fathomdns.com |
 | opossum.roleup.com | starman.fathomdns.com |
 | opossum.stephanieharari.com | starman.fathomdns.com |
@@ -1582,6 +1598,7 @@
 | panda.unpublished.app | starman.fathomdns.com |
 | panther.codyhatfield.me | starman.fathomdns.com |
 | panther.essentialwellnessyoga.com.au | starman.fathomdns.com |
+| panther.familytools.app | starman.fathomdns.com |
 | panther.hoprnet.org | starman.fathomdns.com |
 | panther.thestocks.im | starman.fathomdns.com |
 | panther.tigil.rs | starman.fathomdns.com |
@@ -1599,6 +1616,7 @@
 | penguin.mobiadroit.com | starman.fathomdns.com |
 | penguin.revolana.com | starman.fathomdns.com |
 | perch.luckydiff.com | starman.fathomdns.com |
+| perch.matiasvad.com | starman.fathomdns.com |
 | perch.searchwp.com | starman.fathomdns.com |
 | perch.stefangasser.com | starman.fathomdns.com |
 | pheasant.ampapageorgiou.gr | starman.fathomdns.com |
@@ -1632,6 +1650,7 @@
 | porpoise.numberzs.com | starman.fathomdns.com |
 | prairiedog.hashnode.com | starman.fathomdns.com |
 | prairiedog.thisismattsmith.com | starman.fathomdns.com |
+| prairiedog.xview.us | starman.fathomdns.com |
 | prawn.lionsmouth.digital | starman.fathomdns.com |
 | primate.logology.co | starman.fathomdns.com |
 | primate.oleggera.com | starman.fathomdns.com |
@@ -1689,6 +1708,7 @@
 | salamander.augmentedmind.io | starman.fathomdns.com |
 | salamander.showandtelldata.com | starman.fathomdns.com |
 | salamander.yourownpay.com | starman.fathomdns.com |
+| salmon.cedricreeves.com | starman.fathomdns.com |
 | salmon.thespiritualpsychologist.co.uk | starman.fathomdns.com |
 | sawfish.black-forest-digital.de | starman.fathomdns.com |
 | sawfish.hxd-lab.de | starman.fathomdns.com |
@@ -1710,7 +1730,6 @@
 | sheep.vaxstandby.com | starman.fathomdns.com |
 | silkworm.bobsmechanicalrepairs.co.uk | starman.fathomdns.com |
 | silkworm.boxmood.be | starman.fathomdns.com |
-| silkworm.energizergrouplegal.com | starman.fathomdns.com |
 | silkworm.hoprnet.io | starman.fathomdns.com |
 | silkworm.preventingsuicideinsussex.org | starman.fathomdns.com |
 | silkworm.waspexpert.com | starman.fathomdns.com |
@@ -1756,7 +1775,9 @@
 | stoat.death-to-ie11.com | starman.fathomdns.com |
 | stork.ibite.company | starman.fathomdns.com |
 | stork.notlessbutbetter.com | starman.fathomdns.com |
+| sturgeon.patentfamily.com | starman.fathomdns.com |
 | swallow.axiom.co | starman.fathomdns.com |
+| swallow.olgakudrina.com | starman.fathomdns.com |
 | swallow.pelias.io | starman.fathomdns.com |
 | swan.visualma.com | starman.fathomdns.com |
 | swift.avenue.so | starman.fathomdns.com |
@@ -1765,6 +1786,7 @@
 | swift.mi-boda.com | starman.fathomdns.com |
 | swift.radio12.org | starman.fathomdns.com |
 | swift.unovy.net | starman.fathomdns.com |
+| swift.vanuitjehuis.nl | starman.fathomdns.com |
 | swordfish.elvietanny.com | starman.fathomdns.com |
 | swordfish.floofs.com | starman.fathomdns.com |
 | swordfish.holzschuhe.at | starman.fathomdns.com |
@@ -1854,6 +1876,7 @@
 | waterboa.nighttrain.co | starman.fathomdns.com |
 | whale.gdebrauwer.dev | starman.fathomdns.com |
 | whippet.ianglover.com | starman.fathomdns.com |
+| whippet.madewithspark.com | starman.fathomdns.com |
 | whippet.miniforetak.no | starman.fathomdns.com |
 | whitefish.antonopoulos-stores.gr | starman.fathomdns.com |
 | whitefish.autharmor.com | starman.fathomdns.com |

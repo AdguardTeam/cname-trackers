@@ -40,6 +40,8 @@
 | 3333.sanjay44.xyz | 0i0i0i0.com |
 | 3333.sieglinde22.xyz | 0i0i0i0.com |
 | 33serve.bussyhunter.com | 0i0i0i0.com |
+| 356.freeonlinegayporn.com | 0i0i0i0.com |
+| 365.freeonlinegayporn.com | 0i0i0i0.com |
 | 3691.hevc.site | 0i0i0i0.com |
 | 3haiaz.xyz | 0i0i0i0.com |
 | 3krujww3z31l4def.bloblohub.com | 0i0i0i0.com |
@@ -67,6 +69,7 @@
 | a.1film.to | 0i0i0i0.com |
 | a.aahen.site | 0i0i0i0.com |
 | a.aliposite.site | 0i0i0i0.com |
+| a.alony.site | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.atris.xyz | 0i0i0i0.com |
 | a.avrom.xyz | 0i0i0i0.com |
@@ -206,7 +209,6 @@
 | ads.crazyads.icu | 0i0i0i0.com |
 | ads.eporno.pro | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
-| ads.gotxx.net | 0i0i0i0.com |
 | ads.hentaiheart.com | 0i0i0i0.com |
 | ads.javtit.com | 0i0i0i0.com |
 | ads.onetouchtv.me | 0i0i0i0.com |
@@ -414,7 +416,6 @@
 | continuation423.fun | 0i0i0i0.com |
 | contradiction2.fun | 0i0i0i0.com |
 | cool.gaygo.tv | 0i0i0i0.com |
-| cool.sunporno.com | 0i0i0i0.com |
 | cool.tubous.com | 0i0i0i0.com |
 | coolpornvids.com | 0i0i0i0.com |
 | copperjav182.fun | 0i0i0i0.com |
@@ -456,6 +457,7 @@
 | domineering1x.xyz | 0i0i0i0.com |
 | doonedo.com | 0i0i0i0.com |
 | dore.new-indian-porn.com | 0i0i0i0.com |
+| drleez.xyz | 0i0i0i0.com |
 | dsg.reifporn.de | 0i0i0i0.com |
 | dude.pleasedonotblockme.com | 0i0i0i0.com |
 | dust.xxx-video-indian.com | 0i0i0i0.com |
@@ -504,6 +506,7 @@
 | filterjavgg124.fun | 0i0i0i0.com |
 | firaapp.com | 0i0i0i0.com |
 | flower1266.fun | 0i0i0i0.com |
+| followjav182.fun | 0i0i0i0.com |
 | free.srcdn.xyz | 0i0i0i0.com |
 | frighten3452.fun | 0i0i0i0.com |
 | fuckers.nieuws.xxx | 0i0i0i0.com |
@@ -742,6 +745,7 @@
 | mx6.3pornhere.com | 0i0i0i0.com |
 | my.blissgallery.xyz | 0i0i0i0.com |
 | my.dawncreations.art | 0i0i0i0.com |
+| my.etherart.online | 0i0i0i0.com |
 | my.infinitypixel.online | 0i0i0i0.com |
 | my.neogallery.xyz | 0i0i0i0.com |
 | my.pixelmuse.store | 0i0i0i0.com |
@@ -825,6 +829,7 @@
 | penguest.xyz | 0i0i0i0.com |
 | pickard.hubhubhub.name | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
+| piotyo.xyz | 0i0i0i0.com |
 | pjsos.xyz | 0i0i0i0.com |
 | play.rooski.net | 0i0i0i0.com |
 | pleasejav182.fun | 0i0i0i0.com |
@@ -892,7 +897,6 @@
 | r.archertube.com | 0i0i0i0.com |
 | r.erohabu.com | 0i0i0i0.com |
 | r.eroticos.tv | 0i0i0i0.com |
-| r.freeadultporn.tv | 0i0i0i0.com |
 | r.tropictube.com | 0i0i0i0.com |
 | rainbo9.com | 0i0i0i0.com |
 | recondite1x.xyz | 0i0i0i0.com |
@@ -971,6 +975,7 @@
 | sdg.fwtrck.com | 0i0i0i0.com |
 | sdtg.tjaard11.xyz | 0i0i0i0.com |
 | secondjav128.fun | 0i0i0i0.com |
+| ser.everydayporn.co | 0i0i0i0.com |
 | serve.bdsmstreak.com | 0i0i0i0.com |
 | settle1266.fun | 0i0i0i0.com |
 | sfwe.tjaard11.xyz | 0i0i0i0.com |
@@ -988,7 +993,6 @@
 | slacdn.com | 0i0i0i0.com |
 | sli.crazyporn.xxx | 0i0i0i0.com |
 | slit.lewd.rip | 0i0i0i0.com |
-| smart.sunporno.com | 0i0i0i0.com |
 | snubjav12.fun | 0i0i0i0.com |
 | solo.chinese-sex-tube.com | 0i0i0i0.com |
 | sp1.freeonlinegayporn.com | 0i0i0i0.com |
@@ -1070,6 +1074,7 @@
 | visualize-beta.bloblohub.com | 0i0i0i0.com |
 | vo.turbocap.net | 0i0i0i0.com |
 | voltron.invast.site | 0i0i0i0.com |
+| vozesencarnadas.hubhubhub.name | 0i0i0i0.com |
 | vsx.hotpornfile.org | 0i0i0i0.com |
 | vuiluaz.xyz | 0i0i0i0.com |
 | vuwjv7sjvg7.zedporn.com | 0i0i0i0.com |
@@ -1097,6 +1102,7 @@
 | www.invast.site | 0i0i0i0.com |
 | www.ithaca.hubhubhub.name | 0i0i0i0.com |
 | www.javtvnow.xyz | 0i0i0i0.com |
+| www.letstry69.xyz | 0i0i0i0.com |
 | www.mysalo.store | 0i0i0i0.com |
 | www.n.bloblohub.com | 0i0i0i0.com |
 | www.pleasedonotblockme.com | 0i0i0i0.com |
@@ -1118,13 +1124,13 @@
 | www9.downloadani.me | 0i0i0i0.com |
 | wz.xyxz.site | 0i0i0i0.com |
 | x.adactioner.com | 0i0i0i0.com |
+| x.crazyporn.xxx | 0i0i0i0.com |
 | x.xxxbf.tv | 0i0i0i0.com |
 | x.xxxbp.tv | 0i0i0i0.com |
 | x.xxxbule.com | 0i0i0i0.com |
 | x.xxxbule.tv | 0i0i0i0.com |
 | x.xxxbule2.com | 0i0i0i0.com |
 | x.xxxex.com | 0i0i0i0.com |
-| x.xxxmovies.fun | 0i0i0i0.com |
 | x.xxxxxx.name | 0i0i0i0.com |
 | x1-24.fin.ovh | 0i0i0i0.com |
 | x1cdn.fin.ovh | 0i0i0i0.com |
@@ -1180,4 +1186,4 @@
 | www.adxhand.name | u50.0i0i0i0.com |
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| ontj.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

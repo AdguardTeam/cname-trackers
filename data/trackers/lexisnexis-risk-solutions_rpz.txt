@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ af.mobile.free.fr CNAME .
 afm.monetaindonesia.com CNAME .
 afm.monetamarkets.com CNAME .
 afm.monetaturkey.com CNAME .
+afm.pu-prime.com CNAME .
 afm.puprime.com CNAME .
 afm.puprime.online CNAME .
 afm.startrader.asia CNAME .
@@ -592,6 +593,7 @@ img3.avis.com CNAME .
 img3.budget.com CNAME .
 img3.forte.net CNAME .
 img3.paylesscar.com CNAME .
+img4.cargurus.com CNAME .
 img4.nbpa.com CNAME .
 img4.portal.citidirect.com CNAME .
 img4.portaluat.citidirect.com CNAME .
@@ -640,6 +642,7 @@ log.checkmyfile.com CNAME .
 log.creditreport.co.uk CNAME .
 log.open.investorsbank.com CNAME .
 log.scanmypost.co.uk CNAME .
+login-verification.dol.ct.gov CNAME .
 login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
 loyaltyprogram.latamairlines.com CNAME .
@@ -1024,6 +1027,7 @@ tm.gumtree.com.au CNAME .
 tm.kotak.com CNAME .
 tm.okinushub.com CNAME .
 tm.paysafecard.com CNAME .
+tm.play.pl CNAME .
 tm.production.eu1.tmfp.klarna.net CNAME .
 tm.promotion-cdn.com CNAME .
 tm.regions.com CNAME .
@@ -1083,6 +1087,7 @@ tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .
 tmx-fpt.credit-agricole.pl CNAME .
 tmx.additionfi.com CNAME .
+tmx.astroline.today CNAME .
 tmx.banquemanuvie.com CNAME .
 tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ et.electronic4you.de CNAME .
 et.electronic4you.hr CNAME .
 et.electronic4you.si CNAME .
 et.goal-based.investments CNAME .
+et.lavita.com CNAME .
 et.majdic.at CNAME .
 et.pns24.de CNAME .
 etd.kramer-online.com CNAME .
@@ -40,6 +41,7 @@ etd.weidemann.com CNAME .
 etracker.alex-gross.com CNAME .
 ets.verivox.com CNAME .
 ettcc.steute-controltec.com CNAME .
+ettcc.steute-leantec.com CNAME .
 ettcc.steute-meditec.com CNAME .
 ettcc.steute.com CNAME .
 ferthu.seyffer.shop CNAME .
@@ -79,6 +81,8 @@ tracker.bkk24.de CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
 wa.ostermann.eu CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
+wctr.menkenunddrees.de CNAME .
+wctr.vitanova-kliniken.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcontr.bet-at-home.com CNAME .
@@ -86,9 +90,11 @@ webcontr.bet-at-home.de CNAME .
 webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
 webcontr.ib-kc.de CNAME .
+webcontr.jalousiescout.at CNAME .
 webcontr.l.de CNAME .
 webcontr.pedalbox.com CNAME .
 webcontr.reisprinzen.de CNAME .
+webcontr.rollytoys.de CNAME .
 webcontr.ryzon.net CNAME .
 webcontr.synvia.de CNAME .
 webcontr.verpoorten.de CNAME .

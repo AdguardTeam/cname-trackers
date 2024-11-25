@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -51,7 +51,6 @@ culture.intermedes.com CNAME .
 d.deloitte.fr CNAME .
 d.m-net.de CNAME .
 d.santemagazine.fr CNAME .
-d.uni-medias.com CNAME .
 da.freo.nl CNAME .
 da.maif.fr CNAME .
 da.rabobank.nl CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1731916813637        ; Serial
+           1732521607818        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -84,6 +84,7 @@ tr.asp10ai.espmp-nifr.net CNAME .
 tr.asp10aj.espmp-aufr.net CNAME .
 tr.asp10ap.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
+tr.asp10b1.espmp-nifr.net CNAME .
 tr.asp10b3.espmp-agfr.net CNAME .
 tr.asp10bq.espmp-nifr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
@@ -146,6 +147,7 @@ tr.bati-partners.be CNAME .
 tr.batirenover.info CNAME .
 tr.batiweb.co CNAME .
 tr.batiwebmedia.com CNAME .
+tr.bees.espmp-aufr.net CNAME .
 tr.bel-pros.be CNAME .
 tr.bern.espmp-nifr.net CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
@@ -295,6 +297,7 @@ tr.devis-companeo.be CNAME .
 tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
 tr.devis-express.be CNAME .
+tr.devis-professionnel.fr CNAME .
 tr.devis-professionnels.com CNAME .
 tr.devis-professionnels.fr CNAME .
 tr.devis.digital CNAME .
@@ -596,6 +599,7 @@ tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.lesmarquesenviedebienmanger.fr CNAME .
 tr.lettre.dechets-infos.com CNAME .
 tr.lettre.helianthal.fr CNAME .
+tr.lettre.lecho-circulaire.com CNAME .
 tr.leyravaud.devisdirect.com CNAME .
 tr.liberation.espmp-aufr.net CNAME .
 tr.livrephoto.espmp-aufr.net CNAME .
@@ -972,6 +976,7 @@ tr.partenaire.manageo.info CNAME .
 tr.particuliers8.engie.com CNAME .
 tr.partners.younited-credit.it CNAME .
 tr.payment.lvmh.com CNAME .
+tr.paysanbreton.com CNAME .
 tr.perv.espmp-agfr.net CNAME .
 tr.phjk.espmp-nifr.net CNAME .
 tr.pipa.espmp-aufr.net CNAME .
@@ -1148,6 +1153,7 @@ tr.welcome.lacollection-airfrance.ch CNAME .
 tr.welcome.lacollection-airfrance.co.uk CNAME .
 tr.welcome.lacollection-airfrance.de CNAME .
 tr.welcome.lacollection-airfrance.fr CNAME .
+tr.welcome.leclubtravel.fr CNAME .
 tr.welcome.lexpress.fr CNAME .
 tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .

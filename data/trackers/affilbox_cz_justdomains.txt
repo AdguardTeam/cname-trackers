@@ -274,6 +274,7 @@ affiliate.wugi.cz
 affiliate.xbx.cz
 affiliate.zdraviafitness.cz
 affiliate.zdravykos.cz
+affiliate.zhubnichytre.cz
 affiliateold.firma20.cz
 affiliates.adinternet.cz
 affilo.crosta.cz
@@ -495,6 +496,7 @@ partner.chytranemovitost.cz
 partner.chytrydopravce.cz
 partner.cleanee.cz
 partner.cleverfood.eu
+partner.cocochoco-keratin.cz
 partner.cokoladovnajanek.cz
 partner.colosseumticket.cz
 partner.colway.cz
@@ -571,7 +573,9 @@ partner.hothousecucumber.com
 partner.hubnu.online
 partner.hubnutimarija.cz
 partner.hunter.games
+partner.hurom.cz
 partner.idoklad.cz
+partner.intelligentfood.cz
 partner.investinslovakia.eu
 partner.iodesign.cz
 partner.ioznameni.cz
@@ -632,7 +636,6 @@ partner.mhsexshop.com
 partner.minikoioi.cz
 partner.misinacokolada.cz
 partner.mojeluha.cz
-partner.mojetonery.sk
 partner.momcare.cz
 partner.momcare.sk
 partner.montessorihracky.cz
@@ -653,6 +656,7 @@ partner.naslouchamesrdcem.cz
 partner.natubea.cz
 partner.naturinka.cz
 partner.nejlepsi-darecky.cz
+partner.neotax.eu
 partner.neviditelnepradlo.cz
 partner.nextwood.cz
 partner.oblicejovajoga.cz
@@ -666,9 +670,11 @@ partner.olivum.cz
 partner.olo.cz
 partner.onlinepriznani.cz
 partner.onlinepriznanie.sk
+partner.oriclo.cz
 partner.ozogan.cz
 partner.palstorm.cz
 partner.parfemy-parfumeur.cz
+partner.patchworkparty.cz
 partner.patchworkparty.sk
 partner.patizon.com
 partner.perfect-dress.eu
@@ -804,6 +810,7 @@ partneri.evolveo.cz
 partneri.fengshuiacademy.cz
 partneri.fitstore.cz
 partneri.frcime.cz
+partneri.freli.cz
 partneri.gigamat.cz
 partneri.givt.cz
 partneri.goaffiliate.cz
@@ -821,7 +828,9 @@ partneri.keramika-dum.cz
 partneri.kerasek.cz
 partneri.kimgroup.cz
 partneri.konverzacniklub.cz
+partneri.korkie.cz
 partneri.kuptorazdva.cz
+partneri.kurzeo.com
 partneri.legalni-konopi.cz
 partneri.levne-barvy-laky.cz
 partneri.liborcinka.cz
@@ -847,10 +856,12 @@ partneri.netfotbal.cz
 partneri.nutricbistro.cz
 partneri.onlinejazyky.cz
 partneri.onlinelearning.cz
+partneri.onlinestar.cz
 partneri.oportskem.cz
 partneri.palmknihy.cz
 partneri.piercing.cz
 partneri.piratecbd.cz
+partneri.plantobesto.com
 partneri.portske.cz
 partneri.prectime.cz
 partneri.professionail.sk
@@ -884,6 +895,7 @@ partneri.tradicne-feng-shui.sk
 partneri.trenink-vyjednavani.cz
 partneri.trollbeads.cz
 partneri.trollbeadscz.com
+partneri.tvorboshop.cz
 partneri.umenibytzdrav.cz
 partneri.umenijazyku.cz
 partneri.variantbyznys.cz

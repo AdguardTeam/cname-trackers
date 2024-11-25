@@ -13,9 +13,11 @@
 ||1j2n061x3td.www.digi.no^
 ||1k5vz1ejbcx.staging.probemas.com^
 ||1kpv4njzilv.community.intersystems.com^
+||1phrzgfqiym8.marketingtornado.ca^
 ||1vyt1eguj27.ommasign.com^
 ||21fhq0t574p.talentkit.io^
 ||21udflra4wd.app-dev.cainthus.com^
+||23t63tvyxz.marketingtornado.ca^
 ||25ix8gm8ien.sandbox.panprices.com^
 ||2829i2p88jx.www.csaladinet.hu^
 ||2922qj5tf2n.swyftx.com.au^
