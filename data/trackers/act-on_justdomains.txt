@@ -2,17 +2,20 @@
 # Company name: Act-On
 3dm.3dimensional.com
 a.evergage.com
+a2.avomeen.com
 aad-marketing.ascendeventmedia.com
 aahamarketing.hubinternational.com
 absinfo.eagle.org
 act-on.ioactive.com
 act.davistech.edu
+act.lanap.com
 act.pivotpointsecurity.com
 act.soneticscorp.com
 act.wernerelectric.com
 actie.milieudefensie.nl
 action.logixfiber.com
 action.unifiedoffice.com
+actis.boeingavenue8.nl
 acton.brightspeed.com
 acton.goldencomm.com
 acton.oosis.com
@@ -26,10 +29,15 @@ admit.mountsaintvincent.edu
 advisers.kingstonsmith.co.uk
 advisors.beaconfinserv.com
 ae.cobweb.com
+aginginplace.vyta.ca
 alwayscare.starmountlife.com
+analytics.rivaliq.com
+ao.jsitel.com
+ao.pioncomm.net
 ao.tolydigital.net
 aomarketing.blytheco.com
 aooptout.zoominformation.com
+aopcoms.aoptec.com
 apply.levelupfunding.com
 apply.maxlend.com
 asiamarketing.sedgwick.com
@@ -42,10 +50,12 @@ axisinsurance.axiscapital.com
 axisre.axiscapital.com
 baptist-health.hrm.healthgrades.com
 baptisthealth.hrm.healthgrades.com
+bayarea.summitry.com
 bcob.charlotte.edu
 bcob.uncc.edu
 becool.everydayindustries.com
 biminibliss.rwbimini.com
+biznews.oregon.gov
 bizz.cochraneco.com
 bjc.hrm.healthgrades.com
 blog.trinityconsultants.com
@@ -55,11 +65,10 @@ business.franchiseopportunities.com
 business.matchd.nl
 buzz.logility.com
 buzz.neilsonmarketing.com
+ca.promo.skf.com
 ca.ssl.holdmybeerconsulting.com
 calgary-content.cresa.com
 campaign.csrxp.org
-campaign.viessmann-cold.com
-campaign.viessmann-cool.com
 campaigns.hygiena.com
 campaigns.micromass.com
 campaigns.primaverabss.com
@@ -67,7 +76,6 @@ canadamarketing.travelsavers.com
 cgrs.smu.edu.sg
 ch.sharpmarketing.eu
 charlotte-content.cresa.com
-chromatography.mac-mod.com
 cincinnati-content.cresa.com
 click.aabacosmallbusiness.com
 click.avalere.com
@@ -85,19 +93,18 @@ communications.all-risks.com
 communications.engineering.oregonstate.edu
 communications.enrouteglobalexchange.com
 communications.fernenergy.co.nz
+communications.foyston.com
 communications.globalwidemedia.com
 communications.lydallpm.com
 communications.meadowbrook.com
 communications.prodways.com
 communications.securityins.net
 communications.taylorcorp.com
-communications.westendadvisors.com
 communications.worldtravelinc.com
 communications.ypo.org
 community.axiscapital.com
 complianceupdates.aem.org
 confiaen.legalitas.com
-connect.atonix.com
 connect.azulseven.com
 connect.chiropractic.ac.nz
 connect.ciena.com
@@ -132,7 +139,6 @@ content.fabasoft.com
 content.harrisproductsgroup.com
 content.linesight.com
 content.logile.com
-content.mhs.net
 content.mrgmarketing.net
 content.msufcu.org
 content.ncek12.com
@@ -144,6 +150,7 @@ content.xpublisher.com
 corporate-marketing.hrs.com
 corporate.averydennison.com
 crm.casabaca.com
+crm.childrens.com
 crm.toyotago.com.ec
 crmcommunications.progressive.com
 cure.trueface.org
@@ -163,7 +170,6 @@ discover.dignityhealth.org
 discover.kloverproducts.com
 discover.maringeneral.org
 discover.megafrost.gr
-discover.openroadfabric.com
 discover.supplydepotstore.com
 distribution.provenpharma.com
 dmc.romotur.com
@@ -182,10 +188,7 @@ email.bowl.com
 email.cobsbread.com
 email.zumaoffice.com
 emailmarketing.vidanthealth.com
-emea.promo.skf.com
 engage.atriosystems.com
-engage.figmarketing.com
-engage.innovativesystems.com
 engage.krm22.com
 engage.nigp.org
 engage.permission.com.au
@@ -193,14 +196,17 @@ engage.physicstoday.org
 engage.tines.com
 engage.us.victorinsurance.com
 enterpriseimaging.agfahealthcare.com
+envelope.aw.ca
 epicgolive.rainresources.com
 equity.e2g.com
 es.sharpmarketing.eu
 eservices.lubetech.com
 estore.biscoind.com
+etude.epidemiologie-pop-ge.ch
 eu.sharpmarketing.eu
 eumarketing.sedgwick.com
 events.trapptechnology.com
+exdmarketing.smu.edu.sg
 execreps.actonsoftware.com
 experience.faiu.com
 experience.rochesterregional.org
@@ -214,12 +220,9 @@ fna.fnainsurance.com
 foodpackaging.kpfilms.com
 forms.accc-cancer.org
 forpci3.siege-corp.com
-foxitsoftware.actonsoftware.com
 fr.sharpmarketing.eu
-franchise.bmave.com
+franchise.abc-seniors.com
 franchise.goodearthcoffeehouse.com
-franchise.hbham.com
-franchise.scorepizza.ca
 franchiserecruitment.laserclinics.ca
 franchising.indooractivebrands.com
 franchising.kas.co.nz
@@ -254,7 +257,6 @@ go.getreadyforthefuture.com
 go.godunnage.com
 go.gpcom.com
 go.hatcocorp.com
-go.lanair.com
 go.leecompany.com
 go.loveshaw.com
 go.madisoncollege.edu
@@ -284,7 +286,6 @@ go.tm4.com
 go.toonboom.com
 go.triumphlearning.com
 go.unitusccu.com
-go.usadata.com
 go.uscad.com
 go.ustruckbody.com
 go.wtcmachinery.com
@@ -307,16 +308,15 @@ hub.hubfinancial.com
 icslearn.actonsoftware.com
 il.promo.skf.com
 independence.americanportfolios.com
-indigobusiness.actonsoftware.com
 info-pacific.marsh.com
 info.acacialearning.com
-info.accupurls.com
 info.accutrain.com
 info.acoginsurance.com
 info.advantageman.com
 info.aestiva.com
 info.allcatcoverage.com
 info.alticoadvisors.com
+info.americanroller.com
 info.apbspeakers.com
 info.apisensor.com
 info.apparound.com
@@ -330,6 +330,7 @@ info.authentic4d.com
 info.autozonepro.com
 info.avantiplc.com
 info.avmalife.org
+info.avtechcapital.com
 info.base2s.com
 info.battelle.org
 info.beaumont.org
@@ -342,7 +343,6 @@ info.bris.bdo.com.au
 info.burnswhite.com
 info.calypto.com
 info.camchealth.org
-info.candid.com
 info.capitalonesettlement.com
 info.cascadeo.com
 info.ccbjournal.com
@@ -361,6 +361,7 @@ info.constellationbehavioralhealth.com
 info.cpenow.com
 info.cranes101.com
 info.createeveryopportunity.org
+info.ctg.com
 info.ctiimage.com
 info.dailybuzzbarrel.com
 info.data-basics.com
@@ -380,7 +381,9 @@ info.eecoonline.com
 info.electrifai.net
 info.emergentsx.com
 info.emishealth.com
+info.enchantedrock.com
 info.enduraproducts.com
+info.esribangladesh.com.bd
 info.esriindonesia.co.id
 info.esrimalaysia.com.my
 info.etap.com
@@ -442,7 +445,6 @@ info.klasresearch.com
 info.kratosdefense.com
 info.kuttatech.com
 info.labelworks.com
-info.lambis.com
 info.landstar.com
 info.lansingbp.com
 info.lincolnloop.com
@@ -455,7 +457,6 @@ info.marublue.com
 info.maruedrcx.com
 info.marumatchbox.com
 info.mccloudservices.com
-info.medisense.consulting
 info.memberzone.com
 info.meriwest.com
 info.mesquitegaming.com
@@ -488,7 +489,6 @@ info.nvtc.org
 info.ochsner.org
 info.oh-ins.com
 info.ortecfinance.com
-info.osiriseducational.co.uk
 info.osufoundation.org
 info.padistance.org
 info.parallel6.com
@@ -514,7 +514,6 @@ info.reltio.com
 info.rev1ventures.com
 info.rhahvac.com
 info.rodenhiser.com
-info.royaltyroofing.com
 info.safeguardrisksolutions.com
 info.sagewater.com
 info.sante-group.com
@@ -539,8 +538,10 @@ info.summitministries.org
 info.suncloudhealth.com
 info.supercare.health
 info.superchoiceservices.com.au
+info.suzy.com
 info.sydist.com
 info.symbio.com
+info.sync-stream.com
 info.synteract.com
 info.techoregon.org
 info.terradatum.com
@@ -577,10 +578,10 @@ info.wafergen.com
 info.watertechonline.com
 info.wespath.com
 info.westerville.org
-info.wingsrecovery.org
 info.woodward.com
 info.wsplanadvisor.com
 info.xactflex.com
+info.ymor.com
 info.zelmanassociates.com
 info.zoominfo-notice.com
 info.zuidema.nl
@@ -602,12 +603,14 @@ insights.alley.com
 insights.avad3.com
 insights.diamond-consultants.com
 insights.goodandprosper.com
+insights.governmentresource.com
 insights.hugheseurope.com
 insights.jabian.com
 insights.jackporter.com
 insights.journey.world
 insights.partnerwithfacet.com
 insights.squintopera.com
+insights.winwithoutpitching.com
 install.orderwork.online
 int.deltafaucet.com
 internalcomms.hubinternational.com
@@ -628,9 +631,6 @@ links.riverview.org
 look-ahead.nurturemarketing.com
 lowermybills.actonsoftware.com
 lp.fsresidential.com
-lubrication.promo.skf.com
-lubricationde.promo.skf.com
-lubricationus.promo.skf.com
 m.smartmatch.email
 m.unitedmedicareadvisors.com
 ma.brightby.se
@@ -655,18 +655,15 @@ marketing-us.contentguru.com
 marketing-us.palettesoftware.com
 marketing.100days.co.il
 marketing.1edisource.com
-marketing.4psgroup.com
 marketing.4sightcomms.com
 marketing.5lovelanguages.com
 marketing.602.cz
 marketing.a1cu.org
 marketing.aaaflag.com
 marketing.aad.org
-marketing.aamcompany.com
 marketing.absoft.co.uk
 marketing.acadian-asset.com
 marketing.acceleratedwealth.com
-marketing.accuride.com
 marketing.acendas.com
 marketing.activehousing.co.uk
 marketing.advancedpowertech.com
@@ -700,12 +697,12 @@ marketing.ashcroft.com
 marketing.assetstrategy.com
 marketing.asurarisk.com
 marketing.atcautomation.com
-marketing.atcombts.com
 marketing.aten.com
 marketing.atlanticcitynj.com
 marketing.atlanticdiagnosticlaboratories.com
 marketing.att-smb.com
 marketing.attaneresults.com
+marketing.avantage.nl
 marketing.avtex.com
 marketing.awh.net
 marketing.awidubai.com
@@ -715,6 +712,7 @@ marketing.basyspro.com
 marketing.bcaportugal.pt
 marketing.bcpas.com
 marketing.beachleymedical.com
+marketing.bencordropsupport.com
 marketing.beringer.net
 marketing.bfandt.com
 marketing.bftwealth.com
@@ -752,7 +750,6 @@ marketing.carlisleit.com
 marketing.carmichael-hill.com
 marketing.carolina.com
 marketing.catamarans.com
-marketing.cavitysliders.com
 marketing.celebratinghomedirect.com
 marketing.cellero.com
 marketing.challengemyteam.co.uk
@@ -764,7 +761,6 @@ marketing.christchurchnz.com
 marketing.chromachecker.com
 marketing.ciandt.com
 marketing.circadence.com
-marketing.cisco-eagle.com
 marketing.cla.aero
 marketing.claritydiagnostics.com
 marketing.classroominc.org
@@ -830,7 +826,6 @@ marketing.dmcc.ae
 marketing.dmcplc.co.uk
 marketing.dnacenter.com
 marketing.doorway.com
-marketing.dorhoutretirementservices.com
 marketing.dreamlawn.com
 marketing.driveline.co.nz
 marketing.driveulu.com
@@ -841,10 +836,8 @@ marketing.dulsco.com
 marketing.dylangrayconsulting.com
 marketing.e-emphasys.com
 marketing.echostarmobile.com
-marketing.ecofastensolar.com
 marketing.ecslearn.com
 marketing.electroind.com
-marketing.emgbrokerage.com
 marketing.emplicity.com
 marketing.enhancedvision.com
 marketing.enrichmentjourneys.com
@@ -888,13 +881,10 @@ marketing.fortworth.com
 marketing.foxrehab.org
 marketing.frogtape.com
 marketing.ftfnews.com
-marketing.fullclarity.com
 marketing.fwcbd.com
-marketing.gaig.com
 marketing.gatlinburg.com
 marketing.gbg.com
 marketing.genesis-fs.com
-marketing.gleamacademy.com
 marketing.glenviewterrace.com
 marketing.globalmedics.co.nz
 marketing.globalpointofcare.abbott
@@ -902,7 +892,6 @@ marketing.globerunner.com
 marketing.gogofunding.com
 marketing.gogovapps.com
 marketing.golaurelhighlands.com
-marketing.goldenpaints.com
 marketing.goodfunding.com
 marketing.gosenergy.com
 marketing.gotolouisville.com
@@ -926,7 +915,6 @@ marketing.haughn.com
 marketing.havenfinancialgroup.com
 marketing.hcrwealth.com
 marketing.hcu.coop
-marketing.hdmoneyinc.com
 marketing.healthfoodinsurance.com
 marketing.healthtech.net
 marketing.helloposition.com
@@ -949,15 +937,11 @@ marketing.hyperdisk.com
 marketing.iaccompanies.com
 marketing.iaclarington.com
 marketing.iacm.com
-marketing.iacollaborative.com
 marketing.idquantique.com
-marketing.ieap.com
 marketing.igel.com
-marketing.iip-llc.net
 marketing.ijoinsolutions.com
 marketing.imageworkscreative.com
 marketing.imagexmedia.com
-marketing.imanami.com
 marketing.impactinnovationgroup.com
 marketing.inaani.com
 marketing.incrediwear.com
@@ -980,6 +964,7 @@ marketing.invitria.com
 marketing.ismguide.com
 marketing.itshome.com
 marketing.jacksonholechamber.com
+marketing.jad.com
 marketing.javs.com
 marketing.jaysoncompany.com
 marketing.jdicleaning.com
@@ -1004,7 +989,6 @@ marketing.ledgeviewpartners.com
 marketing.libertyhomeequity.com
 marketing.libertyreverse.com
 marketing.lightstreamin.com
-marketing.ligroup.ca
 marketing.lilogy.com
 marketing.liquidvoice.co.uk
 marketing.livepaniau.com
@@ -1040,15 +1024,14 @@ marketing.modalife.com
 marketing.moldex.com
 marketing.molenaar.nl
 marketing.monetsoftware.com
-marketing.montaukchamber.com
 marketing.moodypublishers.com
+marketing.motocarrental.co.nz
 marketing.myadvice.com
 marketing.mycvcu.org
 marketing.mydario.com
 marketing.mypoindexter.com
 marketing.mypureradiance.com
 marketing.nabatakinc.com
-marketing.nak.co.uk
 marketing.nanthealth.net
 marketing.napatech.com
 marketing.natilik.com
@@ -1120,7 +1103,6 @@ marketing.qualificationcheck.com
 marketing.queenstownnz.nz
 marketing.quickencompare.com
 marketing.quickenloans.com
-marketing.quinceimaging.com
 marketing.quonticbank.com
 marketing.ramsayinnovations.com
 marketing.rdoequipment.com
@@ -1134,7 +1116,6 @@ marketing.resolutionre.com
 marketing.resuelve.mx
 marketing.revgroup.com
 marketing.rfactr.com
-marketing.rgproducts.com
 marketing.riseagainsthunger.org
 marketing.rmhoffman.com
 marketing.rmhoist.com
@@ -1145,12 +1126,14 @@ marketing.runyonsurfaceprep.com
 marketing.rxaap.com
 marketing.safesend.com
 marketing.safetreeretirement.com
+marketing.sahu-ca.com
 marketing.santabarbaraca.com
 marketing.scalematrix.com
 marketing.scenicsedona.com
 marketing.schneiderdowns.com
 marketing.schuff.com
 marketing.sectra.com
+marketing.seeclearfield.com
 marketing.seemonterey.com
 marketing.self-helpfcu.org
 marketing.sensoft.ca
@@ -1173,6 +1156,7 @@ marketing.sosintl.com
 marketing.sossystems.co.uk
 marketing.soundtrackyourbrand.com
 marketing.sourceadvisors.com
+marketing.southeastmortgage.com
 marketing.southwestblinds.com
 marketing.spbatpa.org
 marketing.specgradeled.com
@@ -1210,6 +1194,7 @@ marketing.tfawealthplanning.com
 marketing.thebasiccompanies.com
 marketing.thebeacongrp.com
 marketing.thecea.ca
+marketing.thecommonwell.ca
 marketing.theoccasionsgroup.com
 marketing.theofficestore.com
 marketing.thequincygroupinc.com
@@ -1231,10 +1216,10 @@ marketing.travelsavers.com
 marketing.trextape.com
 marketing.triconamericanhomes.com
 marketing.triconresidential.com
+marketing.trifectacapitaladvisors.com
 marketing.trimtabconsultants.com
 marketing.trubridge.com
 marketing.trustid.com
-marketing.trustonefinancial.org
 marketing.ttcu.com
 marketing.tucasi.com
 marketing.tvcn.nl
@@ -1249,7 +1234,7 @@ marketing.useadam.co.uk
 marketing.usglobaltax.com
 marketing.uxreactor.com
 marketing.vabi.nl
-marketing.valv.com
+marketing.vancive.averydennison.com
 marketing.vantagepoint-financial.com
 marketing.verasci.com
 marketing.vertexcs.com
@@ -1267,7 +1252,6 @@ marketing.visitcorpuschristi.com
 marketing.visitestespark.com
 marketing.visitfortwayne.com
 marketing.visitguam.org
-marketing.visithendrickscounty.com
 marketing.visitjamaica.com
 marketing.visitlex.com
 marketing.visitloscabos.travel
@@ -1277,21 +1261,20 @@ marketing.visitmusiccity.com
 marketing.visitnorthplatte.com
 marketing.visitomaha.com
 marketing.visitorlando.com
+marketing.visitpaamericana.com
 marketing.visitpasadena.com
 marketing.visitphoenix.com
-marketing.visitranchocordova.com
 marketing.visitrapidcity.com
 marketing.visitsanantonio.com
 marketing.visitsanmarcos.com
 marketing.visitsmcsv.com
-marketing.visittulsa.com
+marketing.visittucson.org
 marketing.visitwashingtoncountypa.com
 marketing.visitwausau.com
 marketing.visualskus.com
 marketing.voiply.us
 marketing.wachsws.com
 marketing.wallindustries.com
-marketing.warburtonavenue.com
 marketing.washcochamber.com
 marketing.wateriqtech.com
 marketing.wbf.com
@@ -1301,7 +1284,6 @@ marketing.webdcmarketing.com
 marketing.welending.com
 marketing.wellingtonwealthstrategies.com
 marketing.wesco.com.br
-marketing.whiterockcap.net
 marketing.wmta.org
 marketing.worldnetpr.com
 marketing.wsandco.com
@@ -1335,10 +1317,8 @@ mktg.bekapublishing.com
 mktg.mecinc.com
 mktg.northwoodsoft.com
 mktg.rocklandmfg.com
-mktg.schlage.com
 mktg.senneca.com
 mktg.ummhealth.org
-mm.evolutionmotion.com
 mm.morrellinc.com
 moody.actonsoftware.com
 more.socialflow.com
@@ -1359,9 +1339,9 @@ news.bestcompaniesgroup.com
 news.bridgetowermedia.com
 news.chiefexecutive.net
 news.cmatcherlink.com
+news.coloradobiz.com
 news.rbj.net
 news.strategiccfo360.com
-news.strategicchro360.com
 news.strategiccio360.com
 newsletter.bcautoencheres.fr
 nordic.promo.skf.com
@@ -1371,6 +1351,7 @@ nu.esri.nl
 nurture.mylivingvoice.com
 oar.smu.edu.sg
 oasismarketing.oasisadvantage.com
+obixdelivery.obix.com
 offers.jazelauto.com
 one-workspace.matrix42.com
 onlinesellerenforcement.vorys.com
@@ -1405,7 +1386,7 @@ photography.hursey.com
 pimpoint.inriver.com
 pl.sharpmarketing.eu
 postgraduate.smu.edu.sg
-postgraduate2.smu.edu.sg
+privacyoptout.zoominformation.com
 privateclient.hubinternational.com
 processserver.abclegal.com
 promo.ewellix.com
@@ -1423,8 +1404,8 @@ resources.acarasolutions.com
 resources.acarasolutions.in
 resources.davey.com
 resources.digitcom.ca
+resources.engagewithallen.com
 resources.talentrise.com
-retailleaders.rila.org
 ruw.roanokeunderwriting.com
 saas.stratitude.com
 sales.northeastind.com
@@ -1456,7 +1437,7 @@ sfsinfo.sabic.com
 shipsmarter.idrivelogistics.com
 shop.iwantclips.com
 smf.southernmetalfab.com
-smusoa.smu.edu.sg
+smugiving.smu.edu.sg
 smuyphsl.smu.edu.sg
 snd.freshstartnews.com
 solar.sharpmarketing.eu
@@ -1491,7 +1472,6 @@ toronto-content.cresa.com
 tradeshows.aem.org
 training.indigobusiness.co.uk
 trappcloudservices.trapptechnology.com
-travel.caradonna.com
 travel.cruisesforless.com
 travel.ec-ovc.com
 travel.onlinevacationcenter.com
@@ -1502,10 +1482,9 @@ ugmarketing.smu.edu.sg
 uk-marketing.roxtec.com
 uk.sharpmarketing.eu
 ukmarketing.sedgwick.com
-umassmemorial.hrm.healthgrades.com
+updates.venuekings.com
 usb-vna.coppermountaintech.com
 value.kfcu.org
-verified.beefbooster.com
 vhans.siege-corp.com
 video.funnelbox.com
 vip.gophersport.com
@@ -1516,6 +1495,7 @@ web.consolid8.com.au
 web.eisenhowerhealthnews.org
 web.iru.org
 web.yourerc.com
+welcome.hubinternational.com
 why.hdvest.com
 withyou.shorr.com
 workspacesolutions.gos1.com
@@ -1535,6 +1515,7 @@ www2.bobcad.com
 www2.citizensclimatelobby.org
 www2.dws-global.com
 www2.esri.se
+www2.senetas.com
 www2.timecommunications.biz
 www2.tyrens.se
 www2.zacco.com
@@ -2262,7 +2243,6 @@ a19858.actonservice.com
 a19895.actonservice.com
 a19930.actonservice.com
 a19997.actonservice.com
-a2.avomeen.com
 a20022.actonservice.com
 a20204.actonservice.com
 a20207.actonservice.com
@@ -2814,6 +2794,7 @@ a28320.actonservice.com
 a28328.actonservice.com
 a28335.actonservice.com
 a28337.actonservice.com
+a28345.actonservice.com
 a28348.actonservice.com
 a28350.actonservice.com
 a28351.actonservice.com
@@ -2944,6 +2925,7 @@ a29412.actonservice.com
 a29418.actonservice.com
 a29421.actonservice.com
 a29424.actonservice.com
+a29425.actonservice.com
 a29429.actonservice.com
 a29431.actonservice.com
 a29433.actonservice.com
@@ -3671,6 +3653,7 @@ a45036.actonservice.com
 a45040.actonservice.com
 a45044.actonservice.com
 a45046.actonservice.com
+a45050.actonservice.com
 a45064.actonservice.com
 a45071.actonservice.com
 a45080.actonservice.com
@@ -3874,11 +3857,13 @@ a46087.actonservice.com
 a46090.actonservice.com
 a46097.actonservice.com
 a46106.actonservice.com
+a46120.actonservice.com
 a46122.actonservice.com
 a46133.actonservice.com
 a46136.actonservice.com
 a46180.actonservice.com
 a46187.actonservice.com
+a46199.actonservice.com
 a46206.actonservice.com
 a46248.actonservice.com
 a46265.actonservice.com
@@ -3894,12 +3879,15 @@ a46330.actonservice.com
 a46338.actonservice.com
 a46357.actonservice.com
 a46366.actonservice.com
+a46376.actonservice.com
 a46402.actonservice.com
 a46425.actonservice.com
 a46433.actonservice.com
 a46434.actonservice.com
 a46449.actonservice.com
+a46460.actonservice.com
 a46477.actonservice.com
+a46498.actonservice.com
 a46502.actonservice.com
 a8780.actonservice.com
 a9643.actonservice.com
@@ -3932,14 +3920,12 @@ act.colorlines.com
 act.convergencetraining.com
 act.cwsglobal.org
 act.enli.net
-act.lanap.com
 act.online.engineering.nyu.edu
 act.plumvoice.com
 act.raceforward.org
 action.advisorycloud.com
 action.totalcompbuilder.com
 action.totalrewardssoftware.com
-actis.boeingavenue8.nl
 acton.ajmfg.com
 acton.altep.com
 acton.bluetreesystems.com
@@ -3972,7 +3958,6 @@ africafr.promo.skf.com
 aftermath.actonservice.com
 afterschoolallstars.actonservice.com
 agcs-knowledge.allianz.com
-aginginplace.vyta.ca
 agvinfo.kollmorgen.com
 aicipc.actonservice.com
 aip.actonservice.com
@@ -4009,18 +3994,14 @@ amigraphics.actonservice.com
 amimon.actonservice.com
 amitracks.actonservice.com
 amsunsolar.actonservice.com
-analytics.rivaliq.com
 anesthesiaos.actonservice.com
 antonsystems.actonservice.com
 anytime.digitaljobs.gr
 ao-marketing.essendant.com
 ao-mkt.tableausoftware.com
-ao.jsitel.com
-ao.pioncomm.net
 aom.smartbrief.com
 aon.insurancemail.ca
 aon.smartbrief.com
-aopcoms.aoptec.com
 apbspeakers.actonservice.com
 apcerpharma.actonservice.com
 aperio.leicabiosystems.com
@@ -4089,7 +4070,6 @@ bakercommunications.actonservice.com
 ballantine.actonservice.com
 ballymoregroup.actonservice.com
 bambee.actonservice.com
-bayarea.summitry.com
 bayshoresystems.actonservice.com
 bcanl.bca-autoveiling.nl
 bcc-ltd.actonservice.com
@@ -4111,7 +4091,6 @@ bioanalyticalmarketing.eurofins-info.com
 biophysicsgroup.actonservice.com
 bison.actonservice.com
 biworldwide.actonservice.com
-biznews.oregon.gov
 bke.actonservice.com
 bkifg.actonservice.com
 blackbirdventures.actonservice.com
@@ -4155,7 +4134,6 @@ butlercc.actonservice.com
 c-c-l.actonservice.com
 c4cm.actonservice.com
 c4contexture.actonservice.com
-ca.promo.skf.com
 caderonline.bu.edu
 caf.actonservice.com
 caliberco.actonservice.com
@@ -4165,6 +4143,8 @@ callsource.actonservice.com
 calmradio.actonservice.com
 camisado.actonservice.com
 campaign.lexjet.com
+campaign.viessmann-cold.com
+campaign.viessmann-cool.com
 campaigns.ashfieldengage.com
 campaigns.wordandbrown.com
 capplanllc.actonservice.com
@@ -4177,6 +4157,7 @@ carolina.actonservice.com
 catapultnewbusiness.actonservice.com
 catharsisproductionsmarketing.catharsisproductions.com
 cc.pennstatehealth.org
+ccbjournal.actonservice.com
 celigo.actonservice.com
 centermarkplacements.actonservice.com
 central.actonservice.com
@@ -4192,6 +4173,7 @@ chartec.actonservice.com
 chevalierusa.actonservice.com
 chicagolandchamber.actonservice.com
 chiefexecutive.actonservice.com
+chromatography.mac-mod.com
 ci42.rgp.com
 cil.isotope.com
 circadence.actonservice.com
@@ -4241,6 +4223,7 @@ communications.peopleadmin.com
 communications.qualico.com
 communications.rillion.com
 communications.usfleettracking.com
+communications.westendadvisors.com
 community.actonline.org
 community.chpw.org
 compass.munsonhealthcare.org
@@ -4250,6 +4233,7 @@ compulite.actonservice.com
 compuware.actonservice.com
 comviewcorp.actonservice.com
 conference.flsmidth.com
+connect.atonix.com
 connect.audalianexia.com
 connect.bdoalliance.com
 connect.businessldn.co.uk
@@ -4289,6 +4273,7 @@ content.familyfeatures.com
 content.hourigan.group
 content.hurix.com
 content.investresolve.com
+content.mhs.net
 content.ndm.net
 content.northcdatacenters.info
 content.recordpoint.com
@@ -4304,7 +4289,6 @@ cpd.dignityhealth.org
 cpihrinfo.cpihr.com
 crawford-industries.actonservice.com
 creationagency.actonservice.com
-crm.childrens.com
 crm.masonmac.com
 crmonline.actonservice.com
 crs.actonservice.com
@@ -4344,6 +4328,7 @@ dincloud.actonservice.com
 dincloudllc.actonservice.com
 diningalliance.actonservice.com
 discover.amdesign.com
+discover.openroadfabric.com
 discoverorg.actonservice.com
 displaymaxmerchandising.actonservice.com
 dkno.netpartnering.com
@@ -4401,6 +4386,7 @@ emarketing.moveo.com
 emarketing.zulkiepartners.com
 emcalliance.vmware.com
 emea.kollmorgen.com
+emea.promo.skf.com
 emisgroupplc.actonservice.com
 emkt.stefanini.com
 emplicity.actonservice.com
@@ -4417,6 +4403,8 @@ engage.clinipace.com
 engage.dorngroup.com
 engage.dovetailinsurance.com
 engage.encon.ca
+engage.figmarketing.com
+engage.innovativesystems.com
 engage.ipcginsurance.com
 engage.mhainc.com
 engage.navigatorgpo.com
@@ -4426,7 +4414,6 @@ engage.td.org
 enrichmentjourneys.actonservice.com
 enrolldi.glic.com
 enterprisehive.actonservice.com
-envelope.aw.ca
 eo.pearlinsurance.com
 epcvip.actonservice.com
 equippo.actonservice.com
@@ -4434,12 +4421,10 @@ erepublic.actonservice.com
 ergogenesis.actonservice.com
 eschsupply.actonservice.com
 esri.nl.actonservice.com
-etude.epidemiologie-pop-ge.ch
 evergage1.actonservice.com
 eversource.actonservice.com
 evolent.actonservice.com
 evolutionmarketing.actonservice.com
-exdmarketing.smu.edu.sg
 experts.actonservice.com
 experts.cutter.com
 explore.coursefinders.com
@@ -4478,12 +4463,15 @@ fnbwynne.actonservice.com
 forbidden.actonservice.com
 forbin.actonservice.com
 forms.cooperaerobics.com
+foxitsoftware.actonsoftware.com
 foxt.actonservice.com
 foxtinfo.foxt.com
 fr.promo.skf.com
-franchise.abc-seniors.com
+franchise.bmave.com
 franchise.doorgurus.com
+franchise.hbham.com
 franchise.locktonaffinity.net
+franchise.scorepizza.ca
 franchising.pizzapizza.ca
 franklin-edu.actonservice.com
 franklin.edu.actonservice.com
@@ -4526,6 +4514,7 @@ go.acelisconnectedhealth.com
 go.aculab.com
 go.adaquest.com
 go.ahmmarketing.com
+go.aktieinvest.se
 go.bitnami.com
 go.brandactive.com
 go.brandactiveinsights.com
@@ -4544,6 +4533,7 @@ go.infopulse.com
 go.isbamutual.com
 go.janesvilleinnovation.com
 go.kontract.se
+go.lanair.com
 go.lendspace.com
 go.linksource.com
 go.metalgoodsmfg.com
@@ -4567,6 +4557,7 @@ go.tmacteex.org
 go.transversal.com
 go.unifiedav.com
 go.unifysquare.com
+go.usadata.com
 go.vividlearningsystems.com
 go.warrenaverett.com
 go.wireco.com
@@ -4662,6 +4653,7 @@ immunocorp.actonservice.com
 impact-dm.actonservice.com
 in.promo.skf.com
 incisive.actonservice.com
+indigobusiness.actonsoftware.com
 industry.promo.skf.com
 industry.statefoodsafety.com
 inetprocess.actonservice.com
@@ -4672,6 +4664,7 @@ info.abadiscount.org
 info.abcnorcal.org
 info.abcsd.org
 info.acacialearning.co.uk
+info.accupurls.com
 info.admtech.com.au
 info.advanced-energy.com
 info.advantageind.com
@@ -4681,7 +4674,6 @@ info.aiabbs.aleragroup.com
 info.aiabrg.aleragroup.com
 info.air-weigh.com
 info.aleragroup.com
-info.americanroller.com
 info.amerprint.com
 info.anglianwaterbusiness.co.uk
 info.applied.com
@@ -4691,7 +4683,6 @@ info.aspcapro.org
 info.astronovainc.com
 info.atlaslift.com
 info.avondixon.aleragroup.com
-info.avtechcapital.com
 info.azuga.com
 info.b2lead-marketing.com
 info.backbonemedia.com
@@ -4711,6 +4702,7 @@ info.brilliantfs.com
 info.bvcm.nl
 info.call2recycle.org
 info.calnexsol.com
+info.candid.com
 info.canterburyconsulting.com
 info.capsresearch.org
 info.castlemetals.com
@@ -4759,7 +4751,6 @@ info.energyriskassessment.com
 info.epworthvilla.org
 info.escocorp.com
 info.esriaustralia.com.au
-info.esribangladesh.com.bd
 info.eu.tmi.yokogawa.com
 info.evergagecorp.com
 info.exxcel.com
@@ -4782,7 +4773,6 @@ info.garveyproducts.com
 info.gcaaltium.com
 info.gcgfinancial-aia.aleragroup.com
 info.globalventuring.com
-info.gluenetworks.com
 info.gluware.com
 info.goegyptian.com
 info.goldmine.com
@@ -4826,6 +4816,7 @@ info.kollmorgen.com
 info.kroff.com
 info.laconservancy.org
 info.lakewoodwestend.org
+info.lambis.com
 info.laseradvanced.com
 info.ledcrew.com
 info.liftfund.com
@@ -4840,6 +4831,7 @@ info.managementsuccess.com
 info.marketing.spxflow.com
 info.marugroup.net
 info.med-iq.com
+info.medisense.consulting
 info.membercoverage.com
 info.mergertech.com
 info.meyerandassoc.com
@@ -4866,6 +4858,7 @@ info.ocr-inc.com
 info.omep.org
 info.onlinetech.com
 info.orthoticmarketing.com
+info.osiriseducational.co.uk
 info.ozerybakery.com
 info.patientwise.com
 info.paulsontraining.com
@@ -4901,6 +4894,7 @@ info.relphbenefit.aleragroup.com
 info.relphbenefitadvisors.aleragroup.com
 info.rescignos.com
 info.romerlabs.com
+info.royaltyroofing.com
 info.rsquaredcre.com
 info.rumsey.com
 info.safecorhealth.com
@@ -4923,8 +4917,6 @@ info.southstarcapital.com
 info.starwindins.com
 info.stratus.hr
 info.suite1000.com
-info.suzy.com
-info.sync-stream.com
 info.tcasonline.com
 info.technologia.com
 info.techwave.net
@@ -4959,6 +4951,7 @@ info.washingtoninstitute.org
 info.wellbe.me
 info.weloveournewwindows.com
 info.wenzelspine.com
+info.wingsrecovery.org
 info.zoominfotechnologies.com
 info01.on24.com
 infoaction.mimakiusa.com
@@ -4980,14 +4973,13 @@ insight.wittkieffer.com
 insights.accessiblu.com
 insights.blueplanet.com
 insights.forumone.com
-insights.governmentresource.com
 insights.grnbull.com
 insights.kitestring.com
 insights.molequlbrands.com
 insights.nowitmatters.com
 insights.openfieldx.com
 insights.thisisgrow.com
-insights.winwithoutpitching.com
+inspiration.franklincovey.se
 insurance.caainsurancecompany.com
 insurance.locktonaffinity.net
 insurance.thehullgroup.com
@@ -5093,6 +5085,9 @@ lord.actonservice.com
 loveeveryday.brighterkind.com
 lp.rallypoint.com
 ltcnetwork.mhainc.com
+lubrication.promo.skf.com
+lubricationde.promo.skf.com
+lubricationus.promo.skf.com
 lucanet.actonservice.com
 lumenera.actonservice.com
 lydallpm.actonservice.com
@@ -5149,8 +5144,10 @@ marketing.3dcadtools.com
 marketing.3mark.com
 marketing.3scorp.com
 marketing.4over.com
+marketing.4psgroup.com
 marketing.90degreebenefits.com
 marketing.a2btracking.com
+marketing.aamcompany.com
 marketing.abaco.com
 marketing.abnbfcu.org
 marketing.absoluteexhibits.com
@@ -5161,6 +5158,7 @@ marketing.accesscapitalgrp.com
 marketing.accesshardware.com
 marketing.accessmarketingcompany.com
 marketing.accountorgroup.com
+marketing.accuride.com
 marketing.accurisksolutions.com
 marketing.acieu.net
 marketing.acromag.com
@@ -5210,13 +5208,13 @@ marketing.asmarterwindow.com
 marketing.astecsolutions.com
 marketing.asteracu.com
 marketing.astm.org
+marketing.atcombts.com
 marketing.attivoconsulting.com
 marketing.attocube.com
 marketing.attunelive.com
 marketing.austiner.com
 marketing.autopayplus.com
 marketing.autozonemecanicos.com
-marketing.avantage.nl
 marketing.aventel.nl
 marketing.aviacode.com
 marketing.avidiahealth.com
@@ -5235,7 +5233,6 @@ marketing.bca.srl
 marketing.bcaespana.es
 marketing.bcltechnologies.com
 marketing.bellwethercorp.com
-marketing.bencordropsupport.com
 marketing.beneplace.com
 marketing.benzcommunications.com
 marketing.berktek.us
@@ -5286,6 +5283,7 @@ marketing.capsasolutions.com
 marketing.careservicesllc.com
 marketing.carltontechnologies.com
 marketing.castrum.uk
+marketing.cavitysliders.com
 marketing.cbancnetwork.com
 marketing.ccbtechnology.com
 marketing.celayix.com
@@ -5300,6 +5298,7 @@ marketing.cfa.ca
 marketing.championsales.com
 marketing.charityfirst.com
 marketing.chemometec.com
+marketing.cisco-eagle.com
 marketing.citadelus.com
 marketing.citycollege.edu
 marketing.cjisgroup.com
@@ -5334,6 +5333,7 @@ marketing.couplescruise.com
 marketing.cpa2biz.com
 marketing.credoreference.com
 marketing.ctic.ca
+marketing.cusn.com
 marketing.customercarebg.com
 marketing.cvisiontech.com
 marketing.cyber-edge.com
@@ -5373,6 +5373,7 @@ marketing.dmihotels.com
 marketing.docstar.com
 marketing.dohenycompanies.com
 marketing.doprocess.com
+marketing.dorhoutretirementservices.com
 marketing.draycir.com
 marketing.dreamstyleremodeling.com
 marketing.dscdredge.com
@@ -5388,6 +5389,7 @@ marketing.ece.org
 marketing.ecgmc.com
 marketing.echohealthinc.com
 marketing.eclipsecap.com
+marketing.ecofastensolar.com
 marketing.econolite.com
 marketing.ecosensors.com
 marketing.ecosystemintegrity.com
@@ -5400,6 +5402,7 @@ marketing.elrig.org
 marketing.emds.com
 marketing.emeraldheights.com
 marketing.emergenttech.com
+marketing.emgbrokerage.com
 marketing.emirsoftware.com
 marketing.empathiq.io
 marketing.empire-pa.com
@@ -5465,9 +5468,11 @@ marketing.foxitsoftware1.com
 marketing.fpaaust.com.au
 marketing.frontrowseatsllc.com
 marketing.ftcollins.com
+marketing.fullclarity.com
 marketing.funmobility.com
 marketing.funraise.io
 marketing.gables.com
+marketing.gaig.com
 marketing.gasandsupply.com
 marketing.gatewayp.com
 marketing.gca.net
@@ -5478,12 +5483,14 @@ marketing.geowarehouse.ca
 marketing.gep.com
 marketing.getoverdrive.com
 marketing.glaciertanks.com
+marketing.gleamacademy.com
 marketing.globalbmg.com
 marketing.globalmed.com
 marketing.globalpetfoods.ca
 marketing.globalsoftwareinc.com
 marketing.gmcvb.com
 marketing.gogreat.com
+marketing.goldenpaints.com
 marketing.goochandhousego.com
 marketing.goodcoinc.com
 marketing.goosedigital.com
@@ -5502,6 +5509,7 @@ marketing.halobi.com
 marketing.hardysolutions.com
 marketing.hayesgibson.com
 marketing.hcsbenefits.com
+marketing.hdmoneyinc.com
 marketing.headwaycorp.com
 marketing.healthcarousel.com
 marketing.hellogain.com
@@ -5519,13 +5527,17 @@ marketing.homedna.com
 marketing.horizonfoodgroup.com
 marketing.hospitalityexcellence.com
 marketing.hvcb.org
+marketing.iacollaborative.com
 marketing.iansresearch.com
 marketing.iar.com
 marketing.ibermatica.com
 marketing.icatsoftware.com
 marketing.icreative.nl
 marketing.idakc.com
+marketing.ieap.com
+marketing.iip-llc.net
 marketing.iloveny.com
+marketing.imanami.com
 marketing.imatrix.com
 marketing.impexium.com
 marketing.industrialspec.com
@@ -5551,10 +5563,10 @@ marketing.itiball.com
 marketing.itsavvy.com
 marketing.ivctechnologies.com
 marketing.iwsinc.com
-marketing.jad.com
 marketing.jagransolutions.com
 marketing.janek.com
 marketing.jcbll.com
+marketing.joerns.com
 marketing.johnsonbts.com
 marketing.jstokes.com
 marketing.kainmcarthur.com
@@ -5581,6 +5593,7 @@ marketing.leatherberryassociates.com
 marketing.leegov.com
 marketing.lhbindustries.com
 marketing.libertyrent.com
+marketing.ligroup.ca
 marketing.lincoln.org
 marketing.linkdex.com
 marketing.livevol.com
@@ -5639,11 +5652,11 @@ marketing.mma-mi.com
 marketing.mnmpartnersllc.com
 marketing.mobile.org
 marketing.monochrome.co.uk
+marketing.montaukchamber.com
 marketing.motionsolutions.com
 marketing.motista.com
 marketing.motivation.se
 marketing.motleys.com
-marketing.motocarrental.co.nz
 marketing.moverschoiceinfo.com
 marketing.mowe.studio
 marketing.mplsnw.com
@@ -5657,6 +5670,7 @@ marketing.na.schoeck.com
 marketing.nace.org
 marketing.nada.org
 marketing.nagaworld.com
+marketing.nak.co.uk
 marketing.naniaenergy.com
 marketing.nasiff.com
 marketing.navitascredit.com
@@ -5757,6 +5771,7 @@ marketing.qivos.com
 marketing.quadramed.com
 marketing.quenchonline.com
 marketing.quickattach.com
+marketing.quinceimaging.com
 marketing.rals.com
 marketing.rapidlockingsystem.com
 marketing.rattleback.com
@@ -5777,6 +5792,7 @@ marketing.revparts.com
 marketing.revrecreationgroup.com
 marketing.revrvgroup.com
 marketing.rfl.uk.com
+marketing.rgproducts.com
 marketing.rhinofoods.com
 marketing.ric-ins.com
 marketing.rimes.com
@@ -5795,7 +5811,6 @@ marketing.ruf-briquetter.com
 marketing.rxhelpcenters.info
 marketing.saa.com
 marketing.safetychix.com
-marketing.sahu-ca.com
 marketing.sambasafety.com
 marketing.sanantonioedf.com
 marketing.sanitysolutions.com
@@ -5804,7 +5819,6 @@ marketing.satuit.com
 marketing.savannahchamber.com
 marketing.scheidingsprofs.nl
 marketing.sedgwick.com
-marketing.seeclearfield.com
 marketing.sensysgatso.com
 marketing.sentinelgroup.com
 marketing.sentirlabs.com
@@ -5827,7 +5841,6 @@ marketing.soenergy.com
 marketing.softwaresecure.com
 marketing.soloprotect.com
 marketing.sonasoft.com
-marketing.southeastmortgage.com
 marketing.southparkcapital.com
 marketing.sparinvest.lu
 marketing.sparktx.com
@@ -5873,7 +5886,6 @@ marketing.thatsbiz.com
 marketing.thealtan.com
 marketing.thebestclaims.com
 marketing.thebestirs.com
-marketing.thecommonwell.ca
 marketing.thefranchiseconsultingcompany.ca
 marketing.thefusiongroup.com
 marketing.theinovogroup.com
@@ -5908,11 +5920,11 @@ marketing.travelportland.com
 marketing.traveltags.com
 marketing.traversecity.com
 marketing.traxtech.com
-marketing.trifectacapitaladvisors.com
 marketing.trucode.com
 marketing.trueinfluence.com
 marketing.trustarmarketing.com
 marketing.trusteedplans.com
+marketing.trustonefinancial.org
 marketing.tsadvertising.com
 marketing.txsource.net
 marketing.u-pic.com
@@ -5929,6 +5941,7 @@ marketing.usmedequip.com
 marketing.vacationcondos.com
 marketing.vacationvillastwo.com
 marketing.valleyforge.org
+marketing.valv.com
 marketing.vathorst.nl
 marketing.vault49.com
 marketing.vcasoftware.com
@@ -5957,6 +5970,7 @@ marketing.visiteauclaire.com
 marketing.visitgreaterpalmsprings.com
 marketing.visitgreenvillesc.com
 marketing.visithamiltoncounty.com
+marketing.visithendrickscounty.com
 marketing.visitindy.com
 marketing.visitkingston.ca
 marketing.visitlubbock.org
@@ -5966,10 +5980,10 @@ marketing.visitmontrose.com
 marketing.visitnapavalley.com
 marketing.visitnepa.org
 marketing.visitoakland.com
-marketing.visitpaamericana.com
 marketing.visitpanamacitybeach.com
 marketing.visitpensacola.com
 marketing.visitraleigh.com
+marketing.visitranchocordova.com
 marketing.visitrenotahoe.com
 marketing.visitsacramento.com
 marketing.visitsalisburync.com
@@ -5980,6 +5994,7 @@ marketing.visitsouthwalton.com
 marketing.visitspc.com
 marketing.visitspokane.com
 marketing.visittemeculavalley.com
+marketing.visittulsa.com
 marketing.visitvancouverusa.com
 marketing.visitvancouverwa.com
 marketing.visitvirginiabeach.com
@@ -5995,6 +6010,7 @@ marketing.vroozi.com
 marketing.wainscotsolutions.com
 marketing.waitrainer.com
 marketing.wallstreetsystems.com
+marketing.warburtonavenue.com
 marketing.washington.org
 marketing.watchsystems.com
 marketing.watercannon.com
@@ -6005,6 +6021,7 @@ marketing.wealthhorizon.com
 marketing.webgruppen.no
 marketing.wescam.info
 marketing.whiteeaglecoalition.com
+marketing.whiterockcap.net
 marketing.whysymphony.com
 marketing.wildhorsepass.com
 marketing.willamettewines.com
@@ -6118,6 +6135,7 @@ mktg.matssoft.com
 mktg.rtx.travel
 mktg.xeniumhr.com
 mktgpage.appier.com
+mm.evolutionmotion.com
 mmarkhigh.actonservice.com
 mmc-ltd.actonservice.com
 moldex.actonservice.com
@@ -6160,7 +6178,6 @@ news.azcapitoltimes.com
 news.bpsecinc.com
 news.brokersalliance.com
 news.caamp.org
-news.coloradobiz.com
 news.colormagazine.com
 news.cpbj.com
 news.dailyreporter.com
@@ -6183,6 +6200,7 @@ news.petage.com
 news.scbiznews.com
 news.scmanufacturingconference.com
 news.sp2.org
+news.strategicchro360.com
 news.thedailyrecord.com
 news.thedolancompany.com
 news.valawyersweekly.com
@@ -6281,12 +6299,12 @@ polypak.actonservice.com
 portal.dcgone.com
 portal.insight.maruedr.com
 possibilities.theajinetwork.com
+postgraduate2.smu.edu.sg
 powerup.rsaworks.com
 ppadv.actonservice.com
 practicemanagement.securitiesamerica.com
 premiercio.actonservice.com
 primavera.actonservice.com
-privacyoptout.zoominformation.com
 pro.gounified.tech
 product.cel-fi.com
 proffiliatesinc.actonservice.com
@@ -6337,6 +6355,7 @@ realogic.actonservice.com
 realogicinc.actonservice.com
 recoverypoint.actonservice.com
 recruit.gradleaders.com
+recruiting.pillartopost.com
 redbooks.actonservice.com
 redclassic.actonservice.com
 redlion.actonservice.com
@@ -6359,10 +6378,12 @@ resources.recordpoint.com
 resources.sightlogix.com
 resources.superiorgroup.in
 results.sierrapiedmont.com
+retailleaders.rila.org
 retirementliving.actsretirement.org
 retirementservices.firstallied.com
 reverb.digitalviscosity.com
 revgroup.actonservice.com
+rewards.parago.com
 rhahvac.actonservice.com
 rhinowebgroup.actonservice.com
 rightanswers.actonservice.com
@@ -6491,8 +6512,8 @@ smu.actonservice.com
 smuacademy.smu.edu.sg
 smucityperspectives.smu.edu.sg
 smuengage.smu.edu.sg
-smugiving.smu.edu.sg
 smumst.smu.edu.sg
+smusoa.smu.edu.sg
 smusoe.smu.edu.sg
 soccajoeys.actonservice.com
 social.oomi.co.uk
@@ -6612,6 +6633,7 @@ tracking.experiencescottsdale.com
 transportation.external.conduent.com
 transportation.external.xerox.com
 trapptech.actonservice.com
+travel.caradonna.com
 travelmarketreport.actonservice.com
 treeoflifecenterus.actonservice.com
 triadtechnologies.actonservice.com
@@ -6629,6 +6651,7 @@ tvppa.actonservice.com
 tw.promo.skf.com
 tyrens.actonservice.com
 uk.promo.skf.com
+umassmemorial.hrm.healthgrades.com
 unchealthcare.hrm.healthgrades.com
 unifilabs.actonservice.com
 unitedautocredit.actonservice.com
@@ -6636,7 +6659,6 @@ unitusccu.actonservice.com
 universalbackground.actonservice.com
 updates.aem.org
 updates.conexpoconagg.com
-updates.venuekings.com
 us-marketing.roxtec.com
 us.onkyo.actonservice.com
 us.promo.skf.com
@@ -6646,6 +6668,7 @@ utexas.actonservice.com
 valimail.actonservice.com
 velocitypartners.actonservice.com
 veoci.actonservice.com
+verified.beefbooster.com
 vertexcs.actonservice.com
 vetsource.actonservice.com
 via.ssl.holdmybeerconsulting.com
@@ -6666,7 +6689,6 @@ warrenfcu.actonservice.com
 washlaundry.actonservice.com
 wealthcarecapital.actonservice.com
 weidenhammer.actonservice.com
-welcome.hubinternational.com
 welcome.patientmatters.com
 welcome.qualicoliving.com
 welcome.visitthelandmark.com
@@ -6694,7 +6716,6 @@ www2.cet-uk.com
 www2.extensis.com
 www2.paxport.net
 www2.rifton.com
-www2.senetas.com
 www2.simplilearn.com
 www2.unit4.nl
 www2.yellowspring.co.uk

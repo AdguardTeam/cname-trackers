@@ -293,6 +293,7 @@
 3328388.notifysrv.com
 3328394.notifysrv.com
 3328396.notifysrv.com
+3328398.notifysrv.com
 3328402.notifysrv.com
 3328404.notifysrv.com
 3329496.notify6.com
@@ -1125,6 +1126,7 @@
 5132062.notify6.com
 5153152.notify6.com
 5276648.notify6.com
+5289086.notify6.com
 5296856.notify6.com
 535.notify.optimizesrv.com
 5350536.notify6.com
@@ -1153,7 +1155,6 @@ _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
 a.18ramp.com
 a.344eva.com
-a.addisplaynetwork.com
 a.adsession.com
 a.advantageclicks.net
 a.advertrek.com
@@ -1199,6 +1200,7 @@ admin1.notifysrv.com
 administration.notifysrv.com
 admissions.notifysrv.com
 adrepository.opoxv.com
+ads.optimizesrv.com
 ads.toroadvertising.com
 adult.notifysrv.com
 andy.notifysrv.com
@@ -1274,7 +1276,6 @@ rtb.optidigital.com
 rtb.trafficfactory.com
 s.18ramp.com
 s.344eva.com
-s.addisplaynetwork.com
 s.adnflow.com
 s.adsession.com
 s.advantageclicks.net
@@ -1285,6 +1286,7 @@ s.bizonads-ssp.com
 s.cant3am.com
 s.datingclix.com
 s.ds0yue.com
+s.ds239w.com
 s.eaalink.com
 s.elink2b.com
 s.elink2c.com
@@ -1456,6 +1458,7 @@ win4.notifysrv.com
 www.10.notify.bizonads-ssp.com
 www.12.notify.bizonads-ssp.com
 www.3166293.notifysrv.com
+www.3174430.notifysrv.com
 www.3177866.notifysrv.com
 www.3191479.notifysrv.com
 www.3207479.notify6.com
@@ -1469,6 +1472,7 @@ www.3254306.notifysrv.com
 www.3270262.notifysrv.com
 www.3294264.notify6.com
 www.3328380.notifysrv.com
+www.3328398.notifysrv.com
 www.3345712.notify6.com
 www.3351072.notifysrv.com
 www.3352256.notify6.com
@@ -1483,6 +1487,7 @@ www.3466863.notify6.com
 www.3475335.notify6.com
 www.3493551.notify6.com
 www.3501655.notify6.com
+www.3512165.notifysrv.com
 www.3593835.notify6.com
 www.3618947.notify6.com
 www.3662839.notify6.com
@@ -1518,4 +1523,3 @@ www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
 a.bizonads-ssp.com
-ads.optimizesrv.com

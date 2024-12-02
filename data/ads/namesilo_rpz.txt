@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -304,6 +304,7 @@ $TTL 300
 3328388.notifysrv.com CNAME .
 3328394.notifysrv.com CNAME .
 3328396.notifysrv.com CNAME .
+3328398.notifysrv.com CNAME .
 3328402.notifysrv.com CNAME .
 3328404.notifysrv.com CNAME .
 3329496.notify6.com CNAME .
@@ -1136,6 +1137,7 @@ $TTL 300
 5132062.notify6.com CNAME .
 5153152.notify6.com CNAME .
 5276648.notify6.com CNAME .
+5289086.notify6.com CNAME .
 5296856.notify6.com CNAME .
 535.notify.optimizesrv.com CNAME .
 5350536.notify6.com CNAME .
@@ -1164,7 +1166,6 @@ _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
 a.344eva.com CNAME .
-a.addisplaynetwork.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
@@ -1210,6 +1211,7 @@ admin1.notifysrv.com CNAME .
 administration.notifysrv.com CNAME .
 admissions.notifysrv.com CNAME .
 adrepository.opoxv.com CNAME .
+ads.optimizesrv.com CNAME .
 ads.toroadvertising.com CNAME .
 adult.notifysrv.com CNAME .
 andy.notifysrv.com CNAME .
@@ -1285,7 +1287,6 @@ rtb.optidigital.com CNAME .
 rtb.trafficfactory.com CNAME .
 s.18ramp.com CNAME .
 s.344eva.com CNAME .
-s.addisplaynetwork.com CNAME .
 s.adnflow.com CNAME .
 s.adsession.com CNAME .
 s.advantageclicks.net CNAME .
@@ -1296,6 +1297,7 @@ s.bizonads-ssp.com CNAME .
 s.cant3am.com CNAME .
 s.datingclix.com CNAME .
 s.ds0yue.com CNAME .
+s.ds239w.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
@@ -1467,6 +1469,7 @@ win4.notifysrv.com CNAME .
 www.10.notify.bizonads-ssp.com CNAME .
 www.12.notify.bizonads-ssp.com CNAME .
 www.3166293.notifysrv.com CNAME .
+www.3174430.notifysrv.com CNAME .
 www.3177866.notifysrv.com CNAME .
 www.3191479.notifysrv.com CNAME .
 www.3207479.notify6.com CNAME .
@@ -1480,6 +1483,7 @@ www.3254306.notifysrv.com CNAME .
 www.3270262.notifysrv.com CNAME .
 www.3294264.notify6.com CNAME .
 www.3328380.notifysrv.com CNAME .
+www.3328398.notifysrv.com CNAME .
 www.3345712.notify6.com CNAME .
 www.3351072.notifysrv.com CNAME .
 www.3352256.notify6.com CNAME .
@@ -1494,6 +1498,7 @@ www.3466863.notify6.com CNAME .
 www.3475335.notify6.com CNAME .
 www.3493551.notify6.com CNAME .
 www.3501655.notify6.com CNAME .
+www.3512165.notifysrv.com CNAME .
 www.3593835.notify6.com CNAME .
 www.3618947.notify6.com CNAME .
 www.3662839.notify6.com CNAME .
@@ -1529,4 +1534,3 @@ www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 a.bizonads-ssp.com CNAME .
-ads.optimizesrv.com CNAME .

@@ -195,6 +195,7 @@
 ||antelope.itsluke.co.uk^
 ||antelope.johndbeatty.com^
 ||antelope.journeyofanurse.com^
+||antelope.targetinternet.com^
 ||antelope.u3a.com.au^
 ||antlion.codivores.com^
 ||antlion.hendrikhaack.de^
@@ -1171,7 +1172,6 @@
 ||dntcl.qualaroo.com^
 ||live-tag.creatopy.net^
 ||log.ads-m.net^
-||sp.cleaningkeepers.com^
 ||sp.freshlooklens.pk^
 ||sp.lenspk.com^
 ||sp.theladyshop.pk^

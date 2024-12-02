@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,6 +54,7 @@ l.doctissimo.fr CNAME .
 l.dzfoot.com CNAME .
 l.enfant.com CNAME .
 l.entrenous.fr CNAME .
+l.equidia.fr CNAME .
 l.estrepublicain.fr CNAME .
 l.euronews.com CNAME .
 l.familiscope.fr CNAME .
@@ -80,6 +81,7 @@ l.humanite.fr CNAME .
 l.jeuneafrique.com CNAME .
 l.jeuxvideo.com CNAME .
 l.journaldemillau.fr CNAME .
+l.lacremedugaming.fr CNAME .
 l.ladepeche.fr CNAME .
 l.lalsace.fr CNAME .
 l.lanouvellerepublique.fr CNAME .
@@ -111,6 +113,7 @@ l.maxisciences.com CNAME .
 l.mediapart.fr CNAME .
 l.melty.fr CNAME .
 l.midilibre.fr CNAME .
+l.modesettravaux.fr CNAME .
 l.monacomatin.mc CNAME .
 l.mouv.fr CNAME .
 l.mprovence.com CNAME .

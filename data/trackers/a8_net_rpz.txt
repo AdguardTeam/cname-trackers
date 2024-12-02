@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -379,6 +379,7 @@ a8.yuzen-official.com CNAME .
 a8.zen-camps.com CNAME .
 a8.zeroku.jp CNAME .
 a8.zipan.jp CNAME .
+a8.zzz-land.com CNAME .
 a802.xn--38jf6c4pa86a1dv833cexrb.com CNAME .
 a803.xn--38jf6c4pa86a1dv833cexrb.com CNAME .
 a8affiliate.liftup-turban.net CNAME .
@@ -801,7 +802,6 @@ a8cv.baku-art.jp CNAME .
 a8cv.balanslab.jp CNAME .
 a8cv.bb-internet-qsyu.net CNAME .
 a8cv.bbt757.com CNAME .
-a8cv.be-slim-spbikyou.com CNAME .
 a8cv.beaming.jp CNAME .
 a8cv.bellcosme.com CNAME .
 a8cv.bellevie-inc.co.jp CNAME .
@@ -943,7 +943,6 @@ a8cv.gaikouexterior-partners.jp CNAME .
 a8cv.gakuen.omobic.com CNAME .
 a8cv.gb-chat.com CNAME .
 a8cv.gbset.jp CNAME .
-a8cv.genesis-nipt.com CNAME .
 a8cv.gigabaito.com CNAME .
 a8cv.gimuiko.com CNAME .
 a8cv.global-dive.jp CNAME .
@@ -1455,7 +1454,6 @@ clk.glam-print.com CNAME .
 clk.ingage.jp CNAME .
 clk.liberty-e.com CNAME .
 clk.wagon-hire.com CNAME .
-clkcv.biglobehikari-kaisen.com CNAME .
 clkcv.livede55.com CNAME .
 complete.smilecbd.jp CNAME .
 contact.kdg-yobi.com CNAME .

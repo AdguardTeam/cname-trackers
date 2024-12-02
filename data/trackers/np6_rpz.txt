@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -532,6 +532,7 @@ tr.info.snpden.net CNAME .
 tr.info.solidarm.fr CNAME .
 tr.info.svp.com CNAME .
 tr.info.valcenis.com CNAME .
+tr.info.valfrejus.com CNAME .
 tr.info.vip-mag.co.uk CNAME .
 tr.info.webikeo.fr CNAME .
 tr.infolettre.securite-routiere.gouv.fr CNAME .
@@ -756,7 +757,6 @@ tr.news.corsicalinea.com CNAME .
 tr.news.cotemaison.fr CNAME .
 tr.news.cporadio.tv CNAME .
 tr.news.crystal-partenaires.com CNAME .
-tr.news.delifrance.com CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
 tr.news.deshotelsetdesiles.com CNAME .
 tr.news.devisdirect.be CNAME .
@@ -903,7 +903,6 @@ tr.newsletter.chandon.com CNAME .
 tr.newsletter.cuisine-plus.tv CNAME .
 tr.newsletter.ecig-privee.fr CNAME .
 tr.newsletter.erenumerique.fr CNAME .
-tr.newsletter.etoiledevenus.com CNAME .
 tr.newsletter.huilesdolive.fr CNAME .
 tr.newsletter.leocare.eu CNAME .
 tr.newsletter.location.boulanger.com CNAME .
@@ -1049,6 +1048,7 @@ tr.scienceshumaines.pro CNAME .
 tr.seat-fs-email.fr CNAME .
 tr.secretary.wfitn.org CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
+tr.service-client.mhdfrance.fr CNAME .
 tr.service.linxea.com CNAME .
 tr.serviceclient.adagcaladoise.fr CNAME .
 tr.serviceclient.bf-depannage.fr CNAME .

@@ -525,7 +525,6 @@
 | partner.cukrarskaskola.cz | cz.affilbox.cz |
 | partner.cukrarskyklub.cz | cz.affilbox.cz |
 | partner.cukraszvilag.hu | cz.affilbox.cz |
-| partner.dailymix.cz | cz.affilbox.cz |
 | partner.danfil.cz | cz.affilbox.cz |
 | partner.darinapetrakova.cz | cz.affilbox.cz |
 | partner.dellinger.cz | cz.affilbox.cz |
@@ -994,6 +993,7 @@
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |
 | spoluprace.vcelarstvi-domovina.cz | cz.affilbox.cz |
 | spoluprace.vivobarefoot.cz | cz.affilbox.cz |
+| udrzitelny-nakup.mydlia.cz | cz.affilbox.cz |
 | vydelavejtesnami.pg.cz | cz.affilbox.cz |
 | www.affilbox.mironet.cz | cz.affilbox.cz |
 | www.affilo.cz | cz.affilbox.cz |

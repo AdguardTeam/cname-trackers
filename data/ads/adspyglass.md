@@ -81,6 +81,7 @@
 | a.bosda.xyz | 0i0i0i0.com |
 | a.boyjackpot.com | 0i0i0i0.com |
 | a.broim.xyz | 0i0i0i0.com |
+| a.bronca.site | 0i0i0i0.com |
 | a.buicks.xyz | 0i0i0i0.com |
 | a.bumog.xyz | 0i0i0i0.com |
 | a.bynix.xyz | 0i0i0i0.com |
@@ -89,14 +90,17 @@
 | a.coinhub.wiki | 0i0i0i0.com |
 | a.craftbeerclub.com.ua | 0i0i0i0.com |
 | a.cromq.xyz | 0i0i0i0.com |
+| a.croni.site | 0i0i0i0.com |
 | a.cynem.xyz | 0i0i0i0.com |
 | a.debub.site | 0i0i0i0.com |
 | a.demba.xyz | 0i0i0i0.com |
 | a.dhoma.xyz | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
+| a.dripe.site | 0i0i0i0.com |
 | a.duria.site | 0i0i0i0.com |
 | a.dylop.xyz | 0i0i0i0.com |
 | a.ebolat.xyz | 0i0i0i0.com |
+| a.emban.site | 0i0i0i0.com |
 | a.endod.site | 0i0i0i0.com |
 | a.evrae.xyz | 0i0i0i0.com |
 | a.eynol.xyz | 0i0i0i0.com |
@@ -105,6 +109,7 @@
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fedot.site | 0i0i0i0.com |
+| a.fidar.site | 0i0i0i0.com |
 | a.fimoa.xyz | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
 | a.fukoa.site | 0i0i0i0.com |
@@ -168,7 +173,6 @@
 | a.spyad.cc | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
-| a.testda.homes | 0i0i0i0.com |
 | a.vieva.xyz | 0i0i0i0.com |
 | a.viralnewsbd.xyz | 0i0i0i0.com |
 | a.vrime.xyz | 0i0i0i0.com |
@@ -203,10 +207,8 @@
 | ad.xxam.org | 0i0i0i0.com |
 | adblock.vidomo.xyz | 0i0i0i0.com |
 | adilk.ilikecomix.com | 0i0i0i0.com |
-| ads.ad3d.icu | 0i0i0i0.com |
 | ads.ads-goodstream.homes | 0i0i0i0.com |
 | ads.aphex.me | 0i0i0i0.com |
-| ads.crazyads.icu | 0i0i0i0.com |
 | ads.eporno.pro | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
 | ads.hentaiheart.com | 0i0i0i0.com |
@@ -221,6 +223,7 @@
 | adservc.com | 0i0i0i0.com |
 | adservf.com | 0i0i0i0.com |
 | adservg.com | 0i0i0i0.com |
+| adservh.com | 0i0i0i0.com |
 | adspi.xyz | 0i0i0i0.com |
 | adspy.hdthot.com | 0i0i0i0.com |
 | adspy.javrank.com | 0i0i0i0.com |
@@ -480,6 +483,7 @@
 | enrgy.fwtrck.com | 0i0i0i0.com |
 | entertainment3x.fun | 0i0i0i0.com |
 | environmental3x.fun | 0i0i0i0.com |
+| epicalyx3452.fun | 0i0i0i0.com |
 | equity-dev.hubhubhub.name | 0i0i0i0.com |
 | esondvn.ehrydnmdoe.com | 0i0i0i0.com |
 | essential.awmcash.com | 0i0i0i0.com |
@@ -685,6 +689,7 @@
 | larasub.conxxx.pro | 0i0i0i0.com |
 | launch1266.fun | 0i0i0i0.com |
 | lengthjavgg124.fun | 0i0i0i0.com |
+| lianzl.xyz | 0i0i0i0.com |
 | liracdn.com | 0i0i0i0.com |
 | lixir.wargers.org | 0i0i0i0.com |
 | load.lolsauce.net | 0i0i0i0.com |
@@ -709,6 +714,7 @@
 | makejav11.fun | 0i0i0i0.com |
 | mamamia.vintageporno.stream | 0i0i0i0.com |
 | mangoa.xyz | 0i0i0i0.com |
+| mangtaoxa.xyz | 0i0i0i0.com |
 | mangzoi.xyz | 0i0i0i0.com |
 | marginjavgg124.fun | 0i0i0i0.com |
 | marketjavgg124.fun | 0i0i0i0.com |
@@ -717,10 +723,12 @@
 | maxx1.a.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx1.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx2.a.pleasedonotblockme.com | 0i0i0i0.com |
+| maxxter.mooo.com | 0i0i0i0.com |
 | meatjav11.fun | 0i0i0i0.com |
 | mediacdn.x1hub.com | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
 | menkaox.xyz | 0i0i0i0.com |
+| mestierediscrivere.hubhubhub.name | 0i0i0i0.com |
 | metzia.xyz | 0i0i0i0.com |
 | mficlyxgvfsp.cdnvideo3.com | 0i0i0i0.com |
 | mgbkt9eckr.xn--mgbkt9eckr.net | 0i0i0i0.com |
@@ -1035,6 +1043,7 @@
 | tkauru.xyz | 0i0i0i0.com |
 | tkwe.tjaard11.xyz | 0i0i0i0.com |
 | tlv.ui02.com | 0i0i0i0.com |
+| toangroi.xyz | 0i0i0i0.com |
 | toapz.xyz | 0i0i0i0.com |
 | tolerant126.fun | 0i0i0i0.com |
 | touaz.xyz | 0i0i0i0.com |
@@ -1064,6 +1073,7 @@
 | usdtaz.xyz | 0i0i0i0.com |
 | v1.sellbuy.click | 0i0i0i0.com |
 | vainjav11.fun | 0i0i0i0.com |
+| vboiutv.xyz | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
 | vergo.ehrydnmdoe.com | 0i0i0i0.com |
 | vi1.prettytube.net | 0i0i0i0.com |
@@ -1090,6 +1100,7 @@
 | workable1x.xyz | 0i0i0i0.com |
 | ww.hoes.tube | 0i0i0i0.com |
 | www.antiadblock.info | 0i0i0i0.com |
+| www.apgate.hubhubhub.name | 0i0i0i0.com |
 | www.asgex.click | 0i0i0i0.com |
 | www.b.hubhubhub.name | 0i0i0i0.com |
 | www.bigboy.monster | 0i0i0i0.com |
@@ -1185,5 +1196,6 @@
 | www.addin.name | u50.0i0i0i0.com |
 | www.adxhand.name | u50.0i0i0i0.com |
 | www.adzilla.name | u50.0i0i0i0.com |
+| www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| qoqv.com | u53.hypnorat.com |
+| qhip.com | u53.hypnorat.com |

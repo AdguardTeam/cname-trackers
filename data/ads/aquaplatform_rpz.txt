@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -87,6 +87,8 @@ console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
 console.revive-adserver.net CNAME .
 console.sacommunications.com CNAME .
+coreads-console.cambridge.org CNAME .
+coreads-static.cambridge.org CNAME .
 coreads.cambridge.org CNAME .
 creatives.goldseek.com CNAME .
 display.lawbulletin.com CNAME .
@@ -190,6 +192,9 @@ www.adserver.sonicplug.com CNAME .
 www.api.adbility-media.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
 www.console.healthcarescene.com CNAME .
+www.coreads-console.cambridge.org CNAME .
+www.coreads-static.cambridge.org CNAME .
+www.coreads.cambridge.org CNAME .
 www.display.lawbulletin.com CNAME .
 www.proforums.com CNAME .
 www.revive-static.worldscreen.com CNAME .
@@ -199,6 +204,7 @@ www.servedby.greenspring.com CNAME .
 www.servedby.lintigroup.se CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.schrotundkorn.de CNAME .
+www.static.healthcarescene.com CNAME .
 www.static.imagineobx.com CNAME .
 www.static.livingmagonline.com CNAME .
 www.static.the-saleroom.com CNAME .

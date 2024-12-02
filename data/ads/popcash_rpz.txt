@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -206,6 +206,7 @@ antelope.hoap.dev CNAME .
 antelope.itsluke.co.uk CNAME .
 antelope.johndbeatty.com CNAME .
 antelope.journeyofanurse.com CNAME .
+antelope.targetinternet.com CNAME .
 antelope.u3a.com.au CNAME .
 antlion.codivores.com CNAME .
 antlion.hendrikhaack.de CNAME .
@@ -1182,7 +1183,6 @@ contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .
 live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
-sp.cleaningkeepers.com CNAME .
 sp.freshlooklens.pk CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .

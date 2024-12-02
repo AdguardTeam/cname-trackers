@@ -332,6 +332,7 @@ web.newsletter.viviennewestwood.com
 web.newsletterit.esprinet.com
 web.online.monnalisa.com
 web.powgen.it
+web.redazione.italiaoggi.it
 web.redazione.milanofinanza.it
 web.s.sasrx.com
 web.sensilab.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,8 @@ $TTL 300
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 af.mobile.free.fr CNAME .
+afm.alphatick.com CNAME .
+afm.infinox.com CNAME .
 afm.monetaindonesia.com CNAME .
 afm.monetamarkets.com CNAME .
 afm.monetaturkey.com CNAME .
@@ -25,6 +27,7 @@ afm.puprime.online CNAME .
 afm.startrader.asia CNAME .
 afm.startrader.com CNAME .
 afm.startrader.live CNAME .
+afm.startradermy.com CNAME .
 afm.sthub.cc CNAME .
 afm.ultimamarkets.asia CNAME .
 afm.ultimamarkets.com CNAME .
@@ -38,6 +41,7 @@ afm.vantagemarkets.com CNAME .
 afm.vantagemarkets.io CNAME .
 afm.vantagemarketsea.com CNAME .
 afm.vantagetradings.com CNAME .
+afm.vnvtglobal.com CNAME .
 afm.vtg-mkt-apac.com CNAME .
 afm.vtg-mkt.com CNAME .
 afm.vtg-mkts.com CNAME .
@@ -45,10 +49,12 @@ afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
 afm.vtmarketsfr.com CNAME .
 afm.vtmarketsid.com CNAME .
+afm.vtmarketsintlcn.com CNAME .
 afm.vtmarketsjp.com CNAME .
 afm.vtmarketsnet.com CNAME .
 afm.vtmarketsuk.com CNAME .
 afm.vtmarketsweb.com CNAME .
+afm.vtmindo.com CNAME .
 afs.wearemp.com CNAME .
 analytics.amrcollection.com CNAME .
 analytics.beachbound.com CNAME .
@@ -243,7 +249,6 @@ content.bnl.it CNAME .
 content.bnpparibas.net CNAME .
 content.byabcd.com CNAME .
 content.canadiantire.ca CNAME .
-content.canyon.com CNAME .
 content.certifid.com CNAME .
 content.citadele.lv CNAME .
 content.citbankapp.cit.com CNAME .
@@ -279,6 +284,7 @@ content.frs.fl.gov CNAME .
 content.gap.com CNAME .
 content.gapfactory.com CNAME .
 content.gaptechol.com CNAME .
+content.happybank.com CNAME .
 content.hellobank.fr CNAME .
 content.hellobank.it CNAME .
 content.hellomobile.com CNAME .
@@ -302,6 +308,7 @@ content.marks.com CNAME .
 content.massmutual.com CNAME .
 content.maxconnector.com CNAME .
 content.mdeferred-payment.sevenbank.co.jp CNAME .
+content.midi.io CNAME .
 content.moneza.ru CNAME .
 content.moni.com.ar CNAME .
 content.my100bank.com CNAME .
@@ -498,6 +505,9 @@ ebcontent.mcbankny.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
 elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
+ep-content.patento.pl CNAME .
+ep-content.vivus.pl CNAME .
+ep-content.zaplo.pl CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
 eve.playstation.com CNAME .
@@ -1099,6 +1109,7 @@ tmx.idp.safenetid-staging.safenetid.com CNAME .
 tmx.idp.safenetid.com CNAME .
 tmx.idp.us-staging.safenetid.com CNAME .
 tmx.idp.us.safenetid.com CNAME .
+tmx.katapult.com CNAME .
 tmx.kijiji.ca CNAME .
 tmx.manulifebank.com CNAME .
 tmx.monzo.co.uk CNAME .

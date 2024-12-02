@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ utiq.24auto.de CNAME .
 utiq.24books.de CNAME .
 utiq.24hamburg.de CNAME .
 utiq.24rhein.de CNAME .
+utiq.24royal.de CNAME .
 utiq.24vita.de CNAME .
 utiq.3djuegos.com CNAME .
 utiq.3djuegosguias.com CNAME .
@@ -235,6 +236,7 @@ utiq.serienjunkies.de CNAME .
 utiq.soester-anzeiger.de CNAME .
 utiq.speakup.es CNAME .
 utiq.speisekarte.de CNAME .
+utiq.spektrum.de CNAME .
 utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
 utiq.sportlerfrage.net CNAME .

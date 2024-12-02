@@ -4,6 +4,7 @@
 
 * ntv.io
     * edge.ntv.io
+    * i.ntv.io
 * ntvpforever.com
 * postrelease.com
     * jadserve.postrelease.com
@@ -23,31 +24,9 @@
 | img.nativo.net | a1082.g.akamai.net |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
+| img.nativo.net | i.ntv.io |
 | a135.wftv.com | jadserve.postrelease.com |
-| a135.wsoctv.com | jadserve.postrelease.com |
-| a235.beaumontenterprise.com | jadserve.postrelease.com |
-| a235.chron.com | jadserve.postrelease.com |
-| a235.ctpost.com | jadserve.postrelease.com |
-| a235.greenwichtime.com | jadserve.postrelease.com |
-| a235.lmtonline.com | jadserve.postrelease.com |
-| a235.michigansthumb.com | jadserve.postrelease.com |
-| a235.middletownpress.com | jadserve.postrelease.com |
-| a235.mrt.com | jadserve.postrelease.com |
-| a235.myjournalcourier.com | jadserve.postrelease.com |
-| a235.myplainview.com | jadserve.postrelease.com |
-| a235.mysanantonio.com | jadserve.postrelease.com |
-| a235.newstimes.com | jadserve.postrelease.com |
-| a235.nhregister.com | jadserve.postrelease.com |
-| a235.ourmidland.com | jadserve.postrelease.com |
-| a235.registercitizen.com | jadserve.postrelease.com |
-| a235.seattlepi.com | jadserve.postrelease.com |
-| a235.sfchronicle.com | jadserve.postrelease.com |
-| a235.stamfordadvocate.com | jadserve.postrelease.com |
-| a235.thehour.com | jadserve.postrelease.com |
-| a235.theintelligencer.com | jadserve.postrelease.com |
-| a235.thetelegraph.com | jadserve.postrelease.com |
-| a235.timesunion.com | jadserve.postrelease.com |
-| mlive.share.ntv.io | jadserve.postrelease.com |
+| pressdemocrat.share.ntv.io | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.fox23.com | jadserve.postrelease.com.akadns.net |
@@ -85,17 +64,17 @@
 | 0d0d40efa5.ff4caac512.com | ntvpforever.com |
 | 0e49988bd9.66edbd8744.com | ntvpforever.com |
 | 0f0249e503.533e4e8be4.com | ntvpforever.com |
+| 10b30c035f.805bbde005.com | ntvpforever.com |
 | 116f21a281.7fbe2fd8a8.com | ntvpforever.com |
 | 1173fc98f8.871981043f.com | ntvpforever.com |
 | 134e00f267.9c58ac1287.com | ntvpforever.com |
 | 13a749c97a.9b36dd8348.com | ntvpforever.com |
+| 13e5899e55.ed72403cf8.com | ntvpforever.com |
 | 171a426230.585ca31d10.com | ntvpforever.com |
 | 1734081ce4.64c8149326.com | ntvpforever.com |
 | 17641c9b6d.fbebe71ece.com | ntvpforever.com |
 | 179d1eff2c.f1cf6f66fe.com | ntvpforever.com |
-| 17a9866c32.3a6b4dc07c.com | ntvpforever.com |
 | 18110fa18a.6a8a99e349.com | ntvpforever.com |
-| 19072bb204.08916fb8f8.com | ntvpforever.com |
 | 194c1ce74c.98492e1a06.com | ntvpforever.com |
 | 195063d014.4156f3bca2.com | ntvpforever.com |
 | 1b99c23583.d25ce885a1.com | ntvpforever.com |
@@ -106,7 +85,9 @@
 | 1f630c0f37.da5ac5f203.com | ntvpforever.com |
 | 1f659ac3f1.fea3389c8c.com | ntvpforever.com |
 | 204a6e5bbc.54568557b3.com | ntvpforever.com |
+| 20fff4ff2f.e2605341ca.com | ntvpforever.com |
 | 212dc8d866.4a4a9db4ab.com | ntvpforever.com |
+| 2159d7bb08.d8df5ac9e8.com | ntvpforever.com |
 | 217bf5cc5e.ad70bbfb11.com | ntvpforever.com |
 | 21de807f7e.c43559b499.com | ntvpforever.com |
 | 2399ec89e5.b52d1cf65f.com | ntvpforever.com |
@@ -129,7 +110,6 @@
 | 2f20db3e20.3b38bb1916.com | ntvpforever.com |
 | 319317829f.b15560d3a9.com | ntvpforever.com |
 | 32fdf9462b.2bed5bafa6.com | ntvpforever.com |
-| 332c2b9009.2843b4bf95.com | ntvpforever.com |
 | 337643a00f.8e403e6714.com | ntvpforever.com |
 | 34141a11eb.59fb4bffe0.com | ntvpforever.com |
 | 3526ef6930.6e28e6bf7e.com | ntvpforever.com |
@@ -165,6 +145,7 @@
 | 4d93255c75.70cf68d2ed.com | ntvpforever.com |
 | 4de392ba1b.172c47da4d.com | ntvpforever.com |
 | 4eea23ee25.cff913e5b4.com | ntvpforever.com |
+| 4f1c8cf090.138b1541c6.com | ntvpforever.com |
 | 4f731442e8.f27386cec2.com | ntvpforever.com |
 | 50c702568d.5305c68a0b.com | ntvpforever.com |
 | 5393e2d07f.a196f8c478.com | ntvpforever.com |
@@ -318,7 +299,6 @@
 | c3b2cda611.b8be15ca44.com | ntvpforever.com |
 | c3e888b020.1b37e98bb7.com | ntvpforever.com |
 | c516d35905.496f1a400a.com | ntvpforever.com |
-| c54211e84b.a81004c24d.com | ntvpforever.com |
 | c5a0e6a4bf.46663dd0cc.com | ntvpforever.com |
 | c63e006632.1843be0a5b.com | ntvpforever.com |
 | c6c88db817.84f72415a9.com | ntvpforever.com |
@@ -352,7 +332,6 @@
 | dc594f6d5d.f28f8ccf8b.com | ntvpforever.com |
 | dc7b8b23dd.bf1685177f.com | ntvpforever.com |
 | dc8b1985cd.a336b509d9.com | ntvpforever.com |
-| dc8ca1f9ac.557632af6e.com | ntvpforever.com |
 | dde341a1e9.d0428f37ca.com | ntvpforever.com |
 | de2d6d62ab.bb9b49c131.com | ntvpforever.com |
 | deb8cb5eff.a4a8fa91e2.com | ntvpforever.com |
@@ -365,6 +344,7 @@
 | e2fd1de2bc.bfa09a4496.com | ntvpforever.com |
 | e32350d110.84bfe218ba.com | ntvpforever.com |
 | e512fc8a4c.1534aec4d7.com | ntvpforever.com |
+| e5f4a975e1.379b3d01c3.com | ntvpforever.com |
 | e6dfdf813a.8b0a9809d8.com | ntvpforever.com |
 | e7bed470e8.394cf0bf1c.com | ntvpforever.com |
 | e7d7103a48.dca35279ca.com | ntvpforever.com |
@@ -375,7 +355,6 @@
 | ea30436110.46f0529545.com | ntvpforever.com |
 | ec21f1f236.03e41ef81f.com | ntvpforever.com |
 | ed3fb005dc.546a5a69a9.com | ntvpforever.com |
-| ed4508bbba.6fe1e5ccc3.com | ntvpforever.com |
 | edc188eac3.7a8490057c.com | ntvpforever.com |
 | eee8ce9926.8787e24f3c.com | ntvpforever.com |
 | ef919a7d9f.30f6a0aa8e.com | ntvpforever.com |
@@ -389,6 +368,7 @@
 | f30b951f89.b1f576d5c6.com | ntvpforever.com |
 | f377888b95.449715c797.com | ntvpforever.com |
 | f3d1a8ee12.c37b652f3a.com | ntvpforever.com |
+| f4573d395e.9acf69ca5f.com | ntvpforever.com |
 | f87b1af192.a60c6e0c85.com | ntvpforever.com |
 | f905b11999.4895a69f7e.com | ntvpforever.com |
 | f95d80b33b.cf98a92559.com | ntvpforever.com |
@@ -396,7 +376,6 @@
 | f9c456929e.23f9e517a6.com | ntvpforever.com |
 | fa32763d62.90757c7d6c.com | ntvpforever.com |
 | fbb10acfdf.e98d6d914e.com | ntvpforever.com |
-| fc2cea8e51.31a422feac.com | ntvpforever.com |
 | fc5f6008bc.6006833376.com | ntvpforever.com |
 | fdd5c91116.606b85787b.com | ntvpforever.com |
 | i.selecttopoff.com | ntvpforever.com |

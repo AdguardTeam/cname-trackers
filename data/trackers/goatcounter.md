@@ -24,8 +24,10 @@
     * dannynullzwo.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
+    * doarpstsjerke.goatcounter.com
     * dungeon.goatcounter.com
     * embedx.goatcounter.com
+    * ferrybig.goatcounter.com
     * fieald.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
@@ -120,8 +122,10 @@
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
+| stats.doarpstsjerke.nl | doarpstsjerke.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
 | pixel.embed.su | embedx.goatcounter.com |
+| analytics.ferrybig.me | ferrybig.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |

@@ -29,7 +29,6 @@
 | app.rtnews.pro | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
-| bat11.gimmeporn.xyz | api.clickaine.com |
 | blabla.leakgallery.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.arcjav.com | api.clickaine.com |
@@ -102,6 +101,8 @@
 | jpnj.hotpornfile.org | api.clickaine.com |
 | k10.usefto.com | api.clickaine.com |
 | k8.usefto.com | api.clickaine.com |
+| lunie21.gimmeporn.xyz | api.clickaine.com |
+| mail.7porn.ru | api.clickaine.com |
 | net.fuckxstream.com | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
 | orange.arabtoons.net | api.clickaine.com |
@@ -116,7 +117,6 @@
 | s4.rtnews.pro | api.clickaine.com |
 | s5.rtnews.pro | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
-| sunie21.gimmeporn.xyz | api.clickaine.com |
 | taco.sexreels.net | api.clickaine.com |
 | tcp.topcomicporno.net | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |

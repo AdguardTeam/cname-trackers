@@ -5,6 +5,8 @@
 ||acdc.toolineo.de^
 ||acsweb-3dr1.dnp-cdms.jp^
 ||af.mobile.free.fr^
+||afm.alphatick.com^
+||afm.infinox.com^
 ||afm.monetaindonesia.com^
 ||afm.monetamarkets.com^
 ||afm.monetaturkey.com^
@@ -14,6 +16,7 @@
 ||afm.startrader.asia^
 ||afm.startrader.com^
 ||afm.startrader.live^
+||afm.startradermy.com^
 ||afm.sthub.cc^
 ||afm.ultimamarkets.asia^
 ||afm.ultimamarkets.com^
@@ -27,6 +30,7 @@
 ||afm.vantagemarkets.io^
 ||afm.vantagemarketsea.com^
 ||afm.vantagetradings.com^
+||afm.vnvtglobal.com^
 ||afm.vtg-mkt-apac.com^
 ||afm.vtg-mkt.com^
 ||afm.vtg-mkts.com^
@@ -34,10 +38,12 @@
 ||afm.vtmarkets.net^
 ||afm.vtmarketsfr.com^
 ||afm.vtmarketsid.com^
+||afm.vtmarketsintlcn.com^
 ||afm.vtmarketsjp.com^
 ||afm.vtmarketsnet.com^
 ||afm.vtmarketsuk.com^
 ||afm.vtmarketsweb.com^
+||afm.vtmindo.com^
 ||afs.wearemp.com^
 ||analytics.amrcollection.com^
 ||analytics.beachbound.com^
@@ -232,7 +238,6 @@
 ||content.bnpparibas.net^
 ||content.byabcd.com^
 ||content.canadiantire.ca^
-||content.canyon.com^
 ||content.certifid.com^
 ||content.citadele.lv^
 ||content.citbankapp.cit.com^
@@ -268,6 +273,7 @@
 ||content.gap.com^
 ||content.gapfactory.com^
 ||content.gaptechol.com^
+||content.happybank.com^
 ||content.hellobank.fr^
 ||content.hellobank.it^
 ||content.hellomobile.com^
@@ -291,6 +297,7 @@
 ||content.massmutual.com^
 ||content.maxconnector.com^
 ||content.mdeferred-payment.sevenbank.co.jp^
+||content.midi.io^
 ||content.moneza.ru^
 ||content.moni.com.ar^
 ||content.my100bank.com^
@@ -487,6 +494,9 @@
 ||ela1.bankofscotland.co.uk^
 ||elevate.stg.na02.aws.ballys.tech^
 ||enligne.bnc.ca^
+||ep-content.patento.pl^
+||ep-content.vivus.pl^
+||ep-content.zaplo.pl^
 ||ep.vystarcu.org^
 ||eps.uprova.com^
 ||eve.playstation.com^
@@ -1088,6 +1098,7 @@
 ||tmx.idp.safenetid.com^
 ||tmx.idp.us-staging.safenetid.com^
 ||tmx.idp.us.safenetid.com^
+||tmx.katapult.com^
 ||tmx.kijiji.ca^
 ||tmx.manulifebank.com^
 ||tmx.monzo.co.uk^

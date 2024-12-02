@@ -87,6 +87,7 @@
 | l.dzfoot.com | tls.non.li |
 | l.enfant.com | tls.non.li |
 | l.entrenous.fr | tls.non.li |
+| l.equidia.fr | tls.non.li |
 | l.euronews.com | tls.non.li |
 | l.familiscope.fr | tls.non.li |
 | l.femmeactuelle.fr | tls.non.li |
@@ -111,6 +112,7 @@
 | l.jeuneafrique.com | tls.non.li |
 | l.jeuxvideo.com | tls.non.li |
 | l.journaldemillau.fr | tls.non.li |
+| l.lacremedugaming.fr | tls.non.li |
 | l.ladepeche.fr | tls.non.li |
 | l.lanouvellerepublique.fr | tls.non.li |
 | l.lardennais.fr | tls.non.li |
@@ -137,6 +139,7 @@
 | l.mediapart.fr | tls.non.li |
 | l.melty.fr | tls.non.li |
 | l.midilibre.fr | tls.non.li |
+| l.modesettravaux.fr | tls.non.li |
 | l.mouv.fr | tls.non.li |
 | l.netmums.com | tls.non.li |
 | l.nextplz.fr | tls.non.li |

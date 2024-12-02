@@ -368,6 +368,7 @@
 ||a8.zen-camps.com^
 ||a8.zeroku.jp^
 ||a8.zipan.jp^
+||a8.zzz-land.com^
 ||a802.xn--38jf6c4pa86a1dv833cexrb.com^
 ||a803.xn--38jf6c4pa86a1dv833cexrb.com^
 ||a8affiliate.liftup-turban.net^
@@ -790,7 +791,6 @@
 ||a8cv.balanslab.jp^
 ||a8cv.bb-internet-qsyu.net^
 ||a8cv.bbt757.com^
-||a8cv.be-slim-spbikyou.com^
 ||a8cv.beaming.jp^
 ||a8cv.bellcosme.com^
 ||a8cv.bellevie-inc.co.jp^
@@ -932,7 +932,6 @@
 ||a8cv.gakuen.omobic.com^
 ||a8cv.gb-chat.com^
 ||a8cv.gbset.jp^
-||a8cv.genesis-nipt.com^
 ||a8cv.gigabaito.com^
 ||a8cv.gimuiko.com^
 ||a8cv.global-dive.jp^
@@ -1444,7 +1443,6 @@
 ||clk.ingage.jp^
 ||clk.liberty-e.com^
 ||clk.wagon-hire.com^
-||clkcv.biglobehikari-kaisen.com^
 ||clkcv.livede55.com^
 ||complete.smilecbd.jp^
 ||contact.kdg-yobi.com^

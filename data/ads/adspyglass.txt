@@ -65,6 +65,7 @@
 ||a.bosda.xyz^
 ||a.boyjackpot.com^
 ||a.broim.xyz^
+||a.bronca.site^
 ||a.buicks.xyz^
 ||a.bumog.xyz^
 ||a.bynix.xyz^
@@ -73,14 +74,17 @@
 ||a.coinhub.wiki^
 ||a.craftbeerclub.com.ua^
 ||a.cromq.xyz^
+||a.croni.site^
 ||a.cynem.xyz^
 ||a.debub.site^
 ||a.demba.xyz^
 ||a.dhoma.xyz^
 ||a.digitalgiftshopping.com^
+||a.dripe.site^
 ||a.duria.site^
 ||a.dylop.xyz^
 ||a.ebolat.xyz^
+||a.emban.site^
 ||a.endod.site^
 ||a.evrae.xyz^
 ||a.eynol.xyz^
@@ -89,6 +93,7 @@
 ||a.fapcat.com^
 ||a.fapster.xxx^
 ||a.fedot.site^
+||a.fidar.site^
 ||a.fimoa.xyz^
 ||a.fuckamouth.com^
 ||a.fukoa.site^
@@ -152,7 +157,6 @@
 ||a.spyad.cc^
 ||a.suptube.com^
 ||a.teencfnm.com^
-||a.testda.homes^
 ||a.vieva.xyz^
 ||a.viralnewsbd.xyz^
 ||a.vrime.xyz^
@@ -189,10 +193,8 @@
 ||addin.name^
 ||adilk.ilikecomix.com^
 ||ads-xtits.pro^
-||ads.ad3d.icu^
 ||ads.ads-goodstream.homes^
 ||ads.aphex.me^
-||ads.crazyads.icu^
 ||ads.eporno.pro^
 ||ads.free-to.download^
 ||ads.hentaiheart.com^
@@ -207,6 +209,7 @@
 ||adservc.com^
 ||adservf.com^
 ||adservg.com^
+||adservh.com^
 ||adspi.xyz^
 ||adspy.hdthot.com^
 ||adspy.javrank.com^
@@ -470,6 +473,7 @@
 ||enrgy.fwtrck.com^
 ||entertainment3x.fun^
 ||environmental3x.fun^
+||epicalyx3452.fun^
 ||equity-dev.hubhubhub.name^
 ||esondvn.ehrydnmdoe.com^
 ||essential.awmcash.com^
@@ -678,6 +682,7 @@
 ||larasub.conxxx.pro^
 ||launch1266.fun^
 ||lengthjavgg124.fun^
+||lianzl.xyz^
 ||liracdn.com^
 ||lixir.wargers.org^
 ||load.lolsauce.net^
@@ -703,6 +708,7 @@
 ||makumva.all-usanomination.com^
 ||mamamia.vintageporno.stream^
 ||mangoa.xyz^
+||mangtaoxa.xyz^
 ||mangzoi.xyz^
 ||marginjavgg124.fun^
 ||marketjavgg124.fun^
@@ -711,10 +717,12 @@
 ||maxx1.a.pleasedonotblockme.com^
 ||maxx1.pleasedonotblockme.com^
 ||maxx2.a.pleasedonotblockme.com^
+||maxxter.mooo.com^
 ||meatjav11.fun^
 ||mediacdn.x1hub.com^
 ||member.javtvnow.xyz^
 ||menkaox.xyz^
+||mestierediscrivere.hubhubhub.name^
 ||metzia.xyz^
 ||mficlyxgvfsp.cdnvideo3.com^
 ||mgbkt9eckr.xn--mgbkt9eckr.net^
@@ -1029,6 +1037,7 @@
 ||tkauru.xyz^
 ||tkwe.tjaard11.xyz^
 ||tlv.ui02.com^
+||toangroi.xyz^
 ||toapz.xyz^
 ||tolerant126.fun^
 ||touaz.xyz^
@@ -1058,6 +1067,7 @@
 ||usdtaz.xyz^
 ||v1.sellbuy.click^
 ||vainjav11.fun^
+||vboiutv.xyz^
 ||vd.7vid.net^
 ||vergo.ehrydnmdoe.com^
 ||vi1.prettytube.net^
@@ -1087,6 +1097,7 @@
 ||www.adxhand.name^
 ||www.adzilla.name^
 ||www.antiadblock.info^
+||www.apgate.hubhubhub.name^
 ||www.asgex.click^
 ||www.b.hubhubhub.name^
 ||www.bigboy.monster^
@@ -1095,6 +1106,7 @@
 ||www.dude.pleasedonotblockme.com^
 ||www.enjoymediafile.hubhubhub.name^
 ||www.f.bloblohub.com^
+||www.go.showmeyouradsnow.com^
 ||www.hq3x.com^
 ||www.hubhubhub.name^
 ||www.invast.site^

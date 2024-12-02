@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -517,7 +517,6 @@ partner.cshop.sk CNAME .
 partner.cukrarskaskola.cz CNAME .
 partner.cukrarskyklub.cz CNAME .
 partner.cukraszvilag.hu CNAME .
-partner.dailymix.cz CNAME .
 partner.danfil.cz CNAME .
 partner.darinapetrakova.cz CNAME .
 partner.dellinger.cz CNAME .
@@ -986,6 +985,7 @@ spoluprace.sikland.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
 spoluprace.vivobarefoot.cz CNAME .
+udrzitelny-nakup.mydlia.cz CNAME .
 vydelavejtesnami.pg.cz CNAME .
 www.affilbox.mironet.cz CNAME .
 www.affilo.cz CNAME .

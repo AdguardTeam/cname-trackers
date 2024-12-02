@@ -4,6 +4,7 @@
 ||analytics.code.dccouncil.gov^
 ||analytics.code.dccouncil.us^
 ||analytics.demo.plateau.ng.open.law^
+||analytics.ferrybig.me^
 ||analytics.law.cityofsanmateo.org^
 ||analytics.popov.link^
 ||analytics.riggraz.dev^
@@ -53,6 +54,7 @@
 ||stats.cassie.omg.lol^
 ||stats.cgcristi.xyz^
 ||stats.cloudflex.team^
+||stats.doarpstsjerke.nl^
 ||stats.fieald.com^
 ||stats.haseebmajid.dev^
 ||stats.hedy.dev^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,6 +59,7 @@ al.neckar.jp CNAME .
 al.noemie.jp CNAME .
 al.office-com.jp CNAME .
 al.packstyle.jp CNAME .
+al.paragel-onlineshop.jp CNAME .
 al.peak-blue.com CNAME .
 al.pierrotshop.jp CNAME .
 al.rayell.jp CNAME .

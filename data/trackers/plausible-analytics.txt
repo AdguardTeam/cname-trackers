@@ -382,7 +382,6 @@
 ||stats.brumtechtapas.co.uk^
 ||stats.buddiy.net^
 ||stats.bungeefit.co.uk^
-||stats.burocratin.com^
 ||stats.byma.com.br^
 ||stats.byterocket.dev^
 ||stats.callum.fyi^
@@ -725,7 +724,6 @@
 ||stats.qovery.com^
 ||stats.quicksilvercre.com^
 ||stats.radicaldata.org^
-||stats.radicalweb.design^
 ||stats.rasulkireev.com^
 ||stats.reactician.com^
 ||stats.readng.co^
@@ -812,7 +810,6 @@
 ||stats.time2unfold.com^
 ||stats.timkhoury.com^
 ||stats.timmo.immo^
-||stats.tinkerer.tools^
 ||stats.tl8.io^
 ||stats.tms-development.com^
 ||stats.tms-development.de^

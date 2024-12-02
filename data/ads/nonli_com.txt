@@ -43,6 +43,7 @@
 ||l.dzfoot.com^
 ||l.enfant.com^
 ||l.entrenous.fr^
+||l.equidia.fr^
 ||l.estrepublicain.fr^
 ||l.euronews.com^
 ||l.familiscope.fr^
@@ -69,6 +70,7 @@
 ||l.jeuneafrique.com^
 ||l.jeuxvideo.com^
 ||l.journaldemillau.fr^
+||l.lacremedugaming.fr^
 ||l.ladepeche.fr^
 ||l.lalsace.fr^
 ||l.lanouvellerepublique.fr^
@@ -100,6 +102,7 @@
 ||l.mediapart.fr^
 ||l.melty.fr^
 ||l.midilibre.fr^
+||l.modesettravaux.fr^
 ||l.monacomatin.mc^
 ||l.mouv.fr^
 ||l.mprovence.com^

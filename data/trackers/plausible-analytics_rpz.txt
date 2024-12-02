@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -393,7 +393,6 @@ stats.briskoda.net CNAME .
 stats.brumtechtapas.co.uk CNAME .
 stats.buddiy.net CNAME .
 stats.bungeefit.co.uk CNAME .
-stats.burocratin.com CNAME .
 stats.byma.com.br CNAME .
 stats.byterocket.dev CNAME .
 stats.callum.fyi CNAME .
@@ -736,7 +735,6 @@ stats.pubfind.io CNAME .
 stats.qovery.com CNAME .
 stats.quicksilvercre.com CNAME .
 stats.radicaldata.org CNAME .
-stats.radicalweb.design CNAME .
 stats.rasulkireev.com CNAME .
 stats.reactician.com CNAME .
 stats.readng.co CNAME .
@@ -823,7 +821,6 @@ stats.tijdschrift.zenleven.nl CNAME .
 stats.time2unfold.com CNAME .
 stats.timkhoury.com CNAME .
 stats.timmo.immo CNAME .
-stats.tinkerer.tools CNAME .
 stats.tl8.io CNAME .
 stats.tms-development.com CNAME .
 stats.tms-development.de CNAME .

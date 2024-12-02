@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,7 +32,6 @@ api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
-bat11.gimmeporn.xyz CNAME .
 blabla.leakgallery.com CNAME .
 c0n.tubestash.com CNAME .
 c4n.arcjav.com CNAME .
@@ -105,6 +104,8 @@ jg3.trypicz.com CNAME .
 jpnj.hotpornfile.org CNAME .
 k10.usefto.com CNAME .
 k8.usefto.com CNAME .
+lunie21.gimmeporn.xyz CNAME .
+mail.7porn.ru CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
@@ -119,7 +120,6 @@ s3.rtnews.pro CNAME .
 s4.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
 snow.snowdayonline.xyz CNAME .
-sunie21.gimmeporn.xyz CNAME .
 taco.sexreels.net CNAME .
 tcp.topcomicporno.net CNAME .
 v040419.badjojo.com CNAME .

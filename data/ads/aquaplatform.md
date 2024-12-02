@@ -20,7 +20,9 @@
     * bioverlag-static.aquaplatform.com
     * blulab-delivery.aquaplatform.com
     * blulab-static.aquaplatform.com
+    * cambridge-console.aquaplatform.com
     * cambridge-delivery.aquaplatform.com
+    * cambridge-static.aquaplatform.com
     * ceramics-console.aquaplatform.com
     * ceramics-delivery.aquaplatform.com
     * ceramics-static.aquaplatform.com
@@ -142,7 +144,12 @@
 | static.schrotundkorn.de | bioverlag-static.aquaplatform.com |
 | adv.blulab.net | blulab-delivery.aquaplatform.com |
 | static.blulab.net | blulab-static.aquaplatform.com |
+| coreads-console.cambridge.org | cambridge-console.aquaplatform.com |
+| www.coreads-console.cambridge.org | cambridge-console.aquaplatform.com |
 | coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
+| www.coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
+| coreads-static.cambridge.org | cambridge-static.aquaplatform.com |
+| www.coreads-static.cambridge.org | cambridge-static.aquaplatform.com |
 | console.ceramicartsnetwork.org | ceramics-console.aquaplatform.com |
 | servedby.ceramicartsnetwork.org | ceramics-delivery.aquaplatform.com |
 | static.ceramicartsnetwork.org | ceramics-static.aquaplatform.com |
@@ -181,6 +188,7 @@
 | www.console.healthcarescene.com | hcs-console.aquaplatform.com |
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
 | static.healthcarescene.com | hcs-static.aquaplatform.com |
+| www.static.healthcarescene.com | hcs-static.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
 | console.hour-media.com | hourmedia-console.aquaplatform.com |
 | servedby.atlantamagazine.com | hourmedia-delivery.aquaplatform.com |

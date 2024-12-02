@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -76,6 +76,7 @@ a.bloblohub.com CNAME .
 a.bosda.xyz CNAME .
 a.boyjackpot.com CNAME .
 a.broim.xyz CNAME .
+a.bronca.site CNAME .
 a.buicks.xyz CNAME .
 a.bumog.xyz CNAME .
 a.bynix.xyz CNAME .
@@ -84,14 +85,17 @@ a.cloba.xyz CNAME .
 a.coinhub.wiki CNAME .
 a.craftbeerclub.com.ua CNAME .
 a.cromq.xyz CNAME .
+a.croni.site CNAME .
 a.cynem.xyz CNAME .
 a.debub.site CNAME .
 a.demba.xyz CNAME .
 a.dhoma.xyz CNAME .
 a.digitalgiftshopping.com CNAME .
+a.dripe.site CNAME .
 a.duria.site CNAME .
 a.dylop.xyz CNAME .
 a.ebolat.xyz CNAME .
+a.emban.site CNAME .
 a.endod.site CNAME .
 a.evrae.xyz CNAME .
 a.eynol.xyz CNAME .
@@ -100,6 +104,7 @@ a.familylust.net CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.fedot.site CNAME .
+a.fidar.site CNAME .
 a.fimoa.xyz CNAME .
 a.fuckamouth.com CNAME .
 a.fukoa.site CNAME .
@@ -163,7 +168,6 @@ a.spearmint4334.gb.net CNAME .
 a.spyad.cc CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
-a.testda.homes CNAME .
 a.vieva.xyz CNAME .
 a.viralnewsbd.xyz CNAME .
 a.vrime.xyz CNAME .
@@ -200,10 +204,8 @@ adblock.vidomo.xyz CNAME .
 addin.name CNAME .
 adilk.ilikecomix.com CNAME .
 ads-xtits.pro CNAME .
-ads.ad3d.icu CNAME .
 ads.ads-goodstream.homes CNAME .
 ads.aphex.me CNAME .
-ads.crazyads.icu CNAME .
 ads.eporno.pro CNAME .
 ads.free-to.download CNAME .
 ads.hentaiheart.com CNAME .
@@ -218,6 +220,7 @@ adservb.com CNAME .
 adservc.com CNAME .
 adservf.com CNAME .
 adservg.com CNAME .
+adservh.com CNAME .
 adspi.xyz CNAME .
 adspy.hdthot.com CNAME .
 adspy.javrank.com CNAME .
@@ -481,6 +484,7 @@ enjoymediafile.hubhubhub.name CNAME .
 enrgy.fwtrck.com CNAME .
 entertainment3x.fun CNAME .
 environmental3x.fun CNAME .
+epicalyx3452.fun CNAME .
 equity-dev.hubhubhub.name CNAME .
 esondvn.ehrydnmdoe.com CNAME .
 essential.awmcash.com CNAME .
@@ -689,6 +693,7 @@ lagrys.xyz CNAME .
 larasub.conxxx.pro CNAME .
 launch1266.fun CNAME .
 lengthjavgg124.fun CNAME .
+lianzl.xyz CNAME .
 liracdn.com CNAME .
 lixir.wargers.org CNAME .
 load.lolsauce.net CNAME .
@@ -714,6 +719,7 @@ makejav11.fun CNAME .
 makumva.all-usanomination.com CNAME .
 mamamia.vintageporno.stream CNAME .
 mangoa.xyz CNAME .
+mangtaoxa.xyz CNAME .
 mangzoi.xyz CNAME .
 marginjavgg124.fun CNAME .
 marketjavgg124.fun CNAME .
@@ -722,10 +728,12 @@ maxcdn.dmm-video.online CNAME .
 maxx1.a.pleasedonotblockme.com CNAME .
 maxx1.pleasedonotblockme.com CNAME .
 maxx2.a.pleasedonotblockme.com CNAME .
+maxxter.mooo.com CNAME .
 meatjav11.fun CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 menkaox.xyz CNAME .
+mestierediscrivere.hubhubhub.name CNAME .
 metzia.xyz CNAME .
 mficlyxgvfsp.cdnvideo3.com CNAME .
 mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
@@ -1040,6 +1048,7 @@ tirejav12.fun CNAME .
 tkauru.xyz CNAME .
 tkwe.tjaard11.xyz CNAME .
 tlv.ui02.com CNAME .
+toangroi.xyz CNAME .
 toapz.xyz CNAME .
 tolerant126.fun CNAME .
 touaz.xyz CNAME .
@@ -1069,6 +1078,7 @@ upperoh.hubhubhub.name CNAME .
 usdtaz.xyz CNAME .
 v1.sellbuy.click CNAME .
 vainjav11.fun CNAME .
+vboiutv.xyz CNAME .
 vd.7vid.net CNAME .
 vergo.ehrydnmdoe.com CNAME .
 vi1.prettytube.net CNAME .
@@ -1098,6 +1108,7 @@ www.addin.name CNAME .
 www.adxhand.name CNAME .
 www.adzilla.name CNAME .
 www.antiadblock.info CNAME .
+www.apgate.hubhubhub.name CNAME .
 www.asgex.click CNAME .
 www.b.hubhubhub.name CNAME .
 www.bigboy.monster CNAME .
@@ -1106,6 +1117,7 @@ www.cephei-b.com CNAME .
 www.dude.pleasedonotblockme.com CNAME .
 www.enjoymediafile.hubhubhub.name CNAME .
 www.f.bloblohub.com CNAME .
+www.go.showmeyouradsnow.com CNAME .
 www.hq3x.com CNAME .
 www.hubhubhub.name CNAME .
 www.invast.site CNAME .

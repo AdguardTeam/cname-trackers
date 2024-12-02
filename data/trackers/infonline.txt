@@ -31,6 +31,7 @@
 ||data-02011e6008.dasoertliche.de^
 ||data-02011e6008.golocal.de^
 ||data-02011e6008.t-online.de^
+||data-020f60e247.apps.iocnt.de^
 ||data-0282cb9d1f.apps.iocnt.de^
 ||data-029be27def.apps.iocnt.de^
 ||data-02d6c01d72.rga.de^
@@ -417,6 +418,7 @@
 ||data-30bae1cc41.futurezone.de^
 ||data-30e0430fbb.thueringen24.de^
 ||data-30e91950da.joyn.at^
+||data-3102d425a1.apps.iocnt.de^
 ||data-311d8c614b.natursteinonline.de^
 ||data-31ba81426f.apps.iocnt.de^
 ||data-31c137b707.behindertengerechte-dusche.de^
@@ -443,12 +445,14 @@
 ||data-367bcf5bd6.lebensmittelzeitung.de^
 ||data-367bcf5bd6.lebensmittelzeitung.net^
 ||data-367bcf5bd6.lzjobs.de^
+||data-36851a8aa0.apps.iocnt.de^
 ||data-3698886e7b.manager-magazin.de^
 ||data-3698886e7b.spiegel.de^
 ||data-36eb08aa0f.autozeitung.de^
 ||data-36fd9d40cb.apps.iocnt.de^
 ||data-3706a2ecb0.bauletter.de^
 ||data-3706a2ecb0.baulinks.de^
+||data-379665bfa7.apps.iocnt.de^
 ||data-37acaca926.maedchen.de^
 ||data-37bb36fb44.apps.iocnt.de^
 ||data-38132d333d.e-hausaufgaben.de^
@@ -798,6 +802,7 @@
 ||data-572c83e731.motorsport-total.com^
 ||data-574debde52.bunte.de^
 ||data-574debde52.focus.de^
+||data-576de2ec82.apps.iocnt.de^
 ||data-579dbb4ef1.airliners.de^
 ||data-57b3173bb4.wallstreet-online.de^
 ||data-57e4acce5f.oe24radio.at^
@@ -1126,6 +1131,7 @@
 ||data-79b61f918a.mittelbayerische-stellen.de^
 ||data-79b61f918a.mittelbayerische-trauer.de^
 ||data-79b61f918a.mittelbayerische.de^
+||data-7a3ad4c334.apps.iocnt.de^
 ||data-7a534833b2.techbook.de^
 ||data-7b326f376b.apps.iocnt.de^
 ||data-7b4229ab74.idowa.de^
@@ -1289,6 +1295,7 @@
 ||data-8dfcf84b38.rundschau-online.de^
 ||data-8dffad7d98.photovoltaik.eu^
 ||data-8e0cc612e5.lighting-jobs.de^
+||data-8e2d0c548f.apps.iocnt.de^
 ||data-8e96b6cfc5.gelbeseiten.de^
 ||data-8ec1348702.apps.iocnt.de^
 ||data-8ec206415a.dnb.de^
@@ -1443,6 +1450,7 @@
 ||data-9dc3fcd9b4.netdoktor.de^
 ||data-9dc3fcd9b4.netmoms.de^
 ||data-9df22f196a.motor1.com^
+||data-9e29b39c0b.apps.iocnt.de^
 ||data-9e4f40dc7c.travelbook.de^
 ||data-9e4ff1c91f.wz.de^
 ||data-9e925e9341.this-magazin.de^
@@ -1725,7 +1733,6 @@
 ||data-ba3ff52f53.fitforfun.de^
 ||data-ba5075b88b.apps.iocnt.de^
 ||data-ba652c7ba3.springerpflege.de^
-||data-ba9232a07a.nuernberg.de^
 ||data-bab9a31794.shz.de^
 ||data-babf36a332.apps.iocnt.de^
 ||data-bae5a0a55a.apps.iocnt.de^
@@ -1738,6 +1745,7 @@
 ||data-bb21a2f11b.petbook-magazine.com^
 ||data-bb21a2f11b.petbook.de^
 ||data-bb21a2f11b.sportbild.de^
+||data-bb21a2f11b.stylebook-magazine.com^
 ||data-bb21a2f11b.stylebook.de^
 ||data-bb21a2f11b.techbook-magazine.com^
 ||data-bb21a2f11b.techbook.de^
@@ -1913,6 +1921,7 @@
 ||data-ce904c6d42.metallbau-magazin.de^
 ||data-ce964ae059.guter-rat.de^
 ||data-ce964ae059.guterrat.de^
+||data-ceb2600919.apps.iocnt.de^
 ||data-cedbf1e823.apps.iocnt.de^
 ||data-cf38608471.de24live.de^
 ||data-cf521b4223.op-marburg.de^
@@ -1963,11 +1972,13 @@
 ||data-d4ecb517ab.tvspielfilm.de^
 ||data-d4ecb517ab.tvtoday.de^
 ||data-d50f71e18f.apps.iocnt.de^
+||data-d53414767b.apps.iocnt.de^
 ||data-d543661da8.oe24.at^
 ||data-d5c733accc.infonline.de^
 ||data-d5cb47d8e4.radiotop40.de^
 ||data-d5d9e85944.textilwirtschaft.de^
 ||data-d5efd1b9c0.dzonline.de^
+||data-d611a11039.apps.iocnt.de^
 ||data-d61ee02db0.pirsch.de^
 ||data-d6484416fd.maclife.de^
 ||data-d6485d3579.playboy.de^
@@ -2047,6 +2058,7 @@
 ||data-e0c8f57796.selbst.de^
 ||data-e0cdc680c2.kurier.at^
 ||data-e0e7873b34.stadtbibliothek-schwerin.de^
+||data-e124ae3cf1.apps.iocnt.de^
 ||data-e138bc4173.apps.iocnt.de^
 ||data-e159daf928.obermain.de^
 ||data-e16817998e.apps.iocnt.de^
@@ -2289,6 +2301,7 @@
 ||data-f42d3c8446.apps.iocnt.de^
 ||data-f44b46d558.baulinks.de^
 ||data-f47ffbb200.apps.iocnt.de^
+||data-f4f60a6d2f.apps.iocnt.de^
 ||data-f4f9925b8a.styleupyourlife.at^
 ||data-f5928669e0.apps.iocnt.de^
 ||data-f59db3288b.24auto.de^
@@ -2328,6 +2341,7 @@
 ||data-f59db3288b.herbstfest-rosenheim.de^
 ||data-f59db3288b.hersfelder-zeitung.de^
 ||data-f59db3288b.hna.de^
+||data-f59db3288b.homeofsports.de^
 ||data-f59db3288b.idcdn.de^
 ||data-f59db3288b.ingame.de^
 ||data-f59db3288b.inn-salzach24.tv^
@@ -2505,6 +2519,7 @@
 ||member.oewa.at^
 ||pool1.i-am.io^
 ||pool2.ioam.de^
+||pool4.ioam.de^
 ||report.oewa.at^
 ||source-66584305d5.mainpost.de^
 ||source-ed91a21bf0.dastelefonbuch.de^

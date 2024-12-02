@@ -521,6 +521,7 @@ tr.info.snpden.net
 tr.info.solidarm.fr
 tr.info.svp.com
 tr.info.valcenis.com
+tr.info.valfrejus.com
 tr.info.vip-mag.co.uk
 tr.info.webikeo.fr
 tr.infolettre.securite-routiere.gouv.fr
@@ -745,7 +746,6 @@ tr.news.corsicalinea.com
 tr.news.cotemaison.fr
 tr.news.cporadio.tv
 tr.news.crystal-partenaires.com
-tr.news.delifrance.com
 tr.news.deneuville-chocolat.fr
 tr.news.deshotelsetdesiles.com
 tr.news.devisdirect.be
@@ -892,7 +892,6 @@ tr.newsletter.chandon.com
 tr.newsletter.cuisine-plus.tv
 tr.newsletter.ecig-privee.fr
 tr.newsletter.erenumerique.fr
-tr.newsletter.etoiledevenus.com
 tr.newsletter.huilesdolive.fr
 tr.newsletter.leocare.eu
 tr.newsletter.location.boulanger.com
@@ -1038,6 +1037,7 @@ tr.scienceshumaines.pro
 tr.seat-fs-email.fr
 tr.secretary.wfitn.org
 tr.secteurentreprises.harmonie-mutuelle.fr
+tr.service-client.mhdfrance.fr
 tr.service.linxea.com
 tr.serviceclient.adagcaladoise.fr
 tr.serviceclient.bf-depannage.fr

@@ -137,6 +137,7 @@
 | antelope.itsluke.co.uk | deprecated-custom-domains.b-cdn.net |
 | antelope.johndbeatty.com | deprecated-custom-domains.b-cdn.net |
 | antelope.journeyofanurse.com | deprecated-custom-domains.b-cdn.net |
+| antelope.targetinternet.com | deprecated-custom-domains.b-cdn.net |
 | antelope.u3a.com.au | deprecated-custom-domains.b-cdn.net |
 | antlion.codivores.com | deprecated-custom-domains.b-cdn.net |
 | antlion.hendrikhaack.de | deprecated-custom-domains.b-cdn.net |
@@ -1192,7 +1193,6 @@
 | cdn.shrtfly.vip | popupads.b-cdn.net |
 | cdn-b.notsy.io | prebid.b-cdn.net |
 | dntcl.qualaroo.com | qualdnt.b-cdn.net |
-| sp.cleaningkeepers.com | spixel.b-cdn.net |
 | sp.freshlooklens.pk | spixel.b-cdn.net |
 | sp.lenspk.com | spixel.b-cdn.net |
 | sp.theladyshop.pk | spixel.b-cdn.net |

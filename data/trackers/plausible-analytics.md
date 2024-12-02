@@ -395,7 +395,6 @@
 | stats.brumtechtapas.co.uk | custom.plausible.io |
 | stats.buddiy.net | custom.plausible.io |
 | stats.bungeefit.co.uk | custom.plausible.io |
-| stats.burocratin.com | custom.plausible.io |
 | stats.byma.com.br | custom.plausible.io |
 | stats.byterocket.dev | custom.plausible.io |
 | stats.callum.fyi | custom.plausible.io |
@@ -738,7 +737,6 @@
 | stats.qovery.com | custom.plausible.io |
 | stats.quicksilvercre.com | custom.plausible.io |
 | stats.radicaldata.org | custom.plausible.io |
-| stats.radicalweb.design | custom.plausible.io |
 | stats.rasulkireev.com | custom.plausible.io |
 | stats.reactician.com | custom.plausible.io |
 | stats.readng.co | custom.plausible.io |
@@ -825,7 +823,6 @@
 | stats.time2unfold.com | custom.plausible.io |
 | stats.timkhoury.com | custom.plausible.io |
 | stats.timmo.immo | custom.plausible.io |
-| stats.tinkerer.tools | custom.plausible.io |
 | stats.tl8.io | custom.plausible.io |
 | stats.tms-development.com | custom.plausible.io |
 | stats.tms-development.de | custom.plausible.io |

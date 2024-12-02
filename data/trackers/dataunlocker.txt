@@ -20,7 +20,6 @@
 ||23t63tvyxz.marketingtornado.ca^
 ||25ix8gm8ien.sandbox.panprices.com^
 ||2829i2p88jx.www.csaladinet.hu^
-||2922qj5tf2n.swyftx.com.au^
 ||2aa6f9qgrh9.acc.evservice.nl^
 ||2e718yf5jypb.test.digitalsurge.io^
 ||2rid9fii9chx.www.atlaslane.com^
@@ -64,7 +63,6 @@
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fyznhp8inq9x.jaywilsonwebsolutions.com^
 ||gl5g98t0vfjb.panprices.com^
-||gvmomuqjv1.swyftx.com^
 ||hht8m6w8mnug.quine.sh^
 ||ia84berzxy7v.de.themoneytizer.com^
 ||ilkk97e98lvg.www.sidsplumbing.ie^
@@ -110,6 +108,7 @@
 ||ti3av8k3ikwm.resume.gerardbosch.xyz^
 ||tnincvf1d1jl.de.themoneytizer.com^
 ||tutbc1.www.tapmyback.com^
+||twn36gx4109r.loveisblank.com^
 ||tzgurwizule3.app.cardahealth.com^
 ||u0crsrah75fy.camberlion.com^
 ||uhd5nn09mgml.fort-shop.kiev.ua^

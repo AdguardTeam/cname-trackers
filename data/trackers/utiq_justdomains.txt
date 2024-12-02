@@ -15,6 +15,7 @@ utiq.24auto.de
 utiq.24books.de
 utiq.24hamburg.de
 utiq.24rhein.de
+utiq.24royal.de
 utiq.24vita.de
 utiq.3djuegos.com
 utiq.3djuegosguias.com
@@ -224,6 +225,7 @@ utiq.serienjunkies.de
 utiq.soester-anzeiger.de
 utiq.speakup.es
 utiq.speisekarte.de
+utiq.spektrum.de
 utiq.spielaffe.de
 utiq.sport.es
 utiq.sportlerfrage.net

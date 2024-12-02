@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -343,6 +343,7 @@ web.newsletter.viviennewestwood.com CNAME .
 web.newsletterit.esprinet.com CNAME .
 web.online.monnalisa.com CNAME .
 web.powgen.it CNAME .
+web.redazione.italiaoggi.it CNAME .
 web.redazione.milanofinanza.it CNAME .
 web.s.sasrx.com CNAME .
 web.sensilab.com CNAME .

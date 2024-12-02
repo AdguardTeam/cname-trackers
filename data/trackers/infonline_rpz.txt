@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1732521607818        ; Serial
+           1733126408591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ data-01fb540c41.bym.de CNAME .
 data-02011e6008.dasoertliche.de CNAME .
 data-02011e6008.golocal.de CNAME .
 data-02011e6008.t-online.de CNAME .
+data-020f60e247.apps.iocnt.de CNAME .
 data-0282cb9d1f.apps.iocnt.de CNAME .
 data-029be27def.apps.iocnt.de CNAME .
 data-02d6c01d72.rga.de CNAME .
@@ -428,6 +429,7 @@ data-30826b1c29.agrarheute.com CNAME .
 data-30bae1cc41.futurezone.de CNAME .
 data-30e0430fbb.thueringen24.de CNAME .
 data-30e91950da.joyn.at CNAME .
+data-3102d425a1.apps.iocnt.de CNAME .
 data-311d8c614b.natursteinonline.de CNAME .
 data-31ba81426f.apps.iocnt.de CNAME .
 data-31c137b707.behindertengerechte-dusche.de CNAME .
@@ -454,12 +456,14 @@ data-367bcf5bd6.german-retail-blog.com CNAME .
 data-367bcf5bd6.lebensmittelzeitung.de CNAME .
 data-367bcf5bd6.lebensmittelzeitung.net CNAME .
 data-367bcf5bd6.lzjobs.de CNAME .
+data-36851a8aa0.apps.iocnt.de CNAME .
 data-3698886e7b.manager-magazin.de CNAME .
 data-3698886e7b.spiegel.de CNAME .
 data-36eb08aa0f.autozeitung.de CNAME .
 data-36fd9d40cb.apps.iocnt.de CNAME .
 data-3706a2ecb0.bauletter.de CNAME .
 data-3706a2ecb0.baulinks.de CNAME .
+data-379665bfa7.apps.iocnt.de CNAME .
 data-37acaca926.maedchen.de CNAME .
 data-37bb36fb44.apps.iocnt.de CNAME .
 data-38132d333d.e-hausaufgaben.de CNAME .
@@ -809,6 +813,7 @@ data-56def2f6bc.vol.at CNAME .
 data-572c83e731.motorsport-total.com CNAME .
 data-574debde52.bunte.de CNAME .
 data-574debde52.focus.de CNAME .
+data-576de2ec82.apps.iocnt.de CNAME .
 data-579dbb4ef1.airliners.de CNAME .
 data-57b3173bb4.wallstreet-online.de CNAME .
 data-57e4acce5f.oe24radio.at CNAME .
@@ -1137,6 +1142,7 @@ data-79b61f918a.autoanzeigen.de CNAME .
 data-79b61f918a.mittelbayerische-stellen.de CNAME .
 data-79b61f918a.mittelbayerische-trauer.de CNAME .
 data-79b61f918a.mittelbayerische.de CNAME .
+data-7a3ad4c334.apps.iocnt.de CNAME .
 data-7a534833b2.techbook.de CNAME .
 data-7b326f376b.apps.iocnt.de CNAME .
 data-7b4229ab74.idowa.de CNAME .
@@ -1300,6 +1306,7 @@ data-8d9711db79.gusto.at CNAME .
 data-8dfcf84b38.rundschau-online.de CNAME .
 data-8dffad7d98.photovoltaik.eu CNAME .
 data-8e0cc612e5.lighting-jobs.de CNAME .
+data-8e2d0c548f.apps.iocnt.de CNAME .
 data-8e96b6cfc5.gelbeseiten.de CNAME .
 data-8ec1348702.apps.iocnt.de CNAME .
 data-8ec206415a.dnb.de CNAME .
@@ -1454,6 +1461,7 @@ data-9dc3fcd9b4.mylife.de CNAME .
 data-9dc3fcd9b4.netdoktor.de CNAME .
 data-9dc3fcd9b4.netmoms.de CNAME .
 data-9df22f196a.motor1.com CNAME .
+data-9e29b39c0b.apps.iocnt.de CNAME .
 data-9e4f40dc7c.travelbook.de CNAME .
 data-9e4ff1c91f.wz.de CNAME .
 data-9e925e9341.this-magazin.de CNAME .
@@ -1736,7 +1744,6 @@ data-b9db45caa4.apps.iocnt.de CNAME .
 data-ba3ff52f53.fitforfun.de CNAME .
 data-ba5075b88b.apps.iocnt.de CNAME .
 data-ba652c7ba3.springerpflege.de CNAME .
-data-ba9232a07a.nuernberg.de CNAME .
 data-bab9a31794.shz.de CNAME .
 data-babf36a332.apps.iocnt.de CNAME .
 data-bae5a0a55a.apps.iocnt.de CNAME .
@@ -1749,6 +1756,7 @@ data-bb21a2f11b.myhomebook.de CNAME .
 data-bb21a2f11b.petbook-magazine.com CNAME .
 data-bb21a2f11b.petbook.de CNAME .
 data-bb21a2f11b.sportbild.de CNAME .
+data-bb21a2f11b.stylebook-magazine.com CNAME .
 data-bb21a2f11b.stylebook.de CNAME .
 data-bb21a2f11b.techbook-magazine.com CNAME .
 data-bb21a2f11b.techbook.de CNAME .
@@ -1924,6 +1932,7 @@ data-ce5e7d3f53.apps.iocnt.de CNAME .
 data-ce904c6d42.metallbau-magazin.de CNAME .
 data-ce964ae059.guter-rat.de CNAME .
 data-ce964ae059.guterrat.de CNAME .
+data-ceb2600919.apps.iocnt.de CNAME .
 data-cedbf1e823.apps.iocnt.de CNAME .
 data-cf38608471.de24live.de CNAME .
 data-cf521b4223.op-marburg.de CNAME .
@@ -1974,11 +1983,13 @@ data-d4ecb517ab.tvspielfilm.at CNAME .
 data-d4ecb517ab.tvspielfilm.de CNAME .
 data-d4ecb517ab.tvtoday.de CNAME .
 data-d50f71e18f.apps.iocnt.de CNAME .
+data-d53414767b.apps.iocnt.de CNAME .
 data-d543661da8.oe24.at CNAME .
 data-d5c733accc.infonline.de CNAME .
 data-d5cb47d8e4.radiotop40.de CNAME .
 data-d5d9e85944.textilwirtschaft.de CNAME .
 data-d5efd1b9c0.dzonline.de CNAME .
+data-d611a11039.apps.iocnt.de CNAME .
 data-d61ee02db0.pirsch.de CNAME .
 data-d6484416fd.maclife.de CNAME .
 data-d6485d3579.playboy.de CNAME .
@@ -2058,6 +2069,7 @@ data-e09a956c79.du-bist-der-teamchef.at CNAME .
 data-e0c8f57796.selbst.de CNAME .
 data-e0cdc680c2.kurier.at CNAME .
 data-e0e7873b34.stadtbibliothek-schwerin.de CNAME .
+data-e124ae3cf1.apps.iocnt.de CNAME .
 data-e138bc4173.apps.iocnt.de CNAME .
 data-e159daf928.obermain.de CNAME .
 data-e16817998e.apps.iocnt.de CNAME .
@@ -2300,6 +2312,7 @@ data-f41b8197e7.obermain.de CNAME .
 data-f42d3c8446.apps.iocnt.de CNAME .
 data-f44b46d558.baulinks.de CNAME .
 data-f47ffbb200.apps.iocnt.de CNAME .
+data-f4f60a6d2f.apps.iocnt.de CNAME .
 data-f4f9925b8a.styleupyourlife.at CNAME .
 data-f5928669e0.apps.iocnt.de CNAME .
 data-f59db3288b.24auto.de CNAME .
@@ -2339,6 +2352,7 @@ data-f59db3288b.heidelberg24.de CNAME .
 data-f59db3288b.herbstfest-rosenheim.de CNAME .
 data-f59db3288b.hersfelder-zeitung.de CNAME .
 data-f59db3288b.hna.de CNAME .
+data-f59db3288b.homeofsports.de CNAME .
 data-f59db3288b.idcdn.de CNAME .
 data-f59db3288b.ingame.de CNAME .
 data-f59db3288b.inn-salzach24.tv CNAME .
@@ -2516,6 +2530,7 @@ dnsbl.test.data-6dbef37a3c.apps.iocnt.de CNAME .
 member.oewa.at CNAME .
 pool1.i-am.io CNAME .
 pool2.ioam.de CNAME .
+pool4.ioam.de CNAME .
 report.oewa.at CNAME .
 source-66584305d5.mainpost.de CNAME .
 source-ed91a21bf0.dastelefonbuch.de CNAME .

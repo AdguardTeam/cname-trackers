@@ -76,6 +76,8 @@ console.livingmagonline.com
 console.mannixmarketing.com
 console.revive-adserver.net
 console.sacommunications.com
+coreads-console.cambridge.org
+coreads-static.cambridge.org
 coreads.cambridge.org
 creatives.goldseek.com
 display.lawbulletin.com
@@ -179,6 +181,9 @@ www.adserver.sonicplug.com
 www.api.adbility-media.com
 www.cdn-adv.unionesarda.it
 www.console.healthcarescene.com
+www.coreads-console.cambridge.org
+www.coreads-static.cambridge.org
+www.coreads.cambridge.org
 www.display.lawbulletin.com
 www.proforums.com
 www.revive-static.worldscreen.com
@@ -188,6 +193,7 @@ www.servedby.greenspring.com
 www.servedby.lintigroup.se
 www.servedby.quirks.com
 www.servedby.schrotundkorn.de
+www.static.healthcarescene.com
 www.static.imagineobx.com
 www.static.livingmagonline.com
 www.static.the-saleroom.com

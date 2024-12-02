@@ -74,7 +74,9 @@
     * h-47blm1l4.online-metrix.net
     * h-47z24dz9.online-metrix.net
     * h-4a04ohow.online-metrix.net
+    * h-4f0drex6.online-metrix.net
     * h-4hq91r5k.online-metrix.net
+    * h-4iibpm7t.online-metrix.net
     * h-4izfn6dr.online-metrix.net
     * h-4nyhdbu2.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
@@ -128,6 +130,7 @@
     * h-7nwhwds3.online-metrix.net
     * h-7p277rpe.online-metrix.net
     * h-7prfpfvh.online-metrix.net
+    * h-7prn07hc.online-metrix.net
     * h-7ubbkvkt.online-metrix.net
     * h-7v30y901.online-metrix.net
     * h-7xy7wvmp.online-metrix.net
@@ -289,7 +292,6 @@
     * h-cafa.online-metrix.net
     * h-cambiahealth.online-metrix.net
     * h-canadiantire.online-metrix.net
-    * h-canyon.online-metrix.net
     * h-cardinalcommerce.online-metrix.net
     * h-cards.citidirect.online-metrix.net
     * h-carhistory.online-metrix.net
@@ -937,7 +939,11 @@
 | content002.bet365.nl | h-47z24dz9.online-metrix.net |
 | content002.bet365.pe | h-47z24dz9.online-metrix.net |
 | content.ofx.com | h-4a04ohow.online-metrix.net |
+| content.midi.io | h-4f0drex6.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
+| ep-content.patento.pl | h-4iibpm7t.online-metrix.net |
+| ep-content.vivus.pl | h-4iibpm7t.online-metrix.net |
+| ep-content.zaplo.pl | h-4iibpm7t.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | onoutput.com | h-4nyhdbu2.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
@@ -1016,6 +1022,7 @@
 | telem.highlow.com | h-7nwhwds3.online-metrix.net |
 | dt.extrakarte.com | h-7p277rpe.online-metrix.net |
 | rt.wisecartapp.com | h-7prfpfvh.online-metrix.net |
+| tmx.katapult.com | h-7prn07hc.online-metrix.net |
 | contentimage.fretebras.com.br | h-7ubbkvkt.online-metrix.net |
 | info.betway.bg | h-7v30y901.online-metrix.net |
 | info.betway.co.za | h-7v30y901.online-metrix.net |
@@ -1063,6 +1070,8 @@
 | regstat.skyvegas.com | h-94b5bk32.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
+| afm.alphatick.com | h-96eziru5.online-metrix.net |
+| afm.infinox.com | h-96eziru5.online-metrix.net |
 | afm.monetaindonesia.com | h-96eziru5.online-metrix.net |
 | afm.monetamarkets.com | h-96eziru5.online-metrix.net |
 | afm.monetaturkey.com | h-96eziru5.online-metrix.net |
@@ -1072,6 +1081,7 @@
 | afm.startrader.asia | h-96eziru5.online-metrix.net |
 | afm.startrader.com | h-96eziru5.online-metrix.net |
 | afm.startrader.live | h-96eziru5.online-metrix.net |
+| afm.startradermy.com | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.asia | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.com | h-96eziru5.online-metrix.net |
@@ -1085,6 +1095,7 @@
 | afm.vantagemarkets.io | h-96eziru5.online-metrix.net |
 | afm.vantagemarketsea.com | h-96eziru5.online-metrix.net |
 | afm.vantagetradings.com | h-96eziru5.online-metrix.net |
+| afm.vnvtglobal.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt-apac.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkts.com | h-96eziru5.online-metrix.net |
@@ -1092,10 +1103,12 @@
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
 | afm.vtmarketsfr.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsid.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsintlcn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsjp.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsnet.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsuk.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsweb.com | h-96eziru5.online-metrix.net |
+| afm.vtmindo.com | h-96eziru5.online-metrix.net |
 | tmcdn.7sultanscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.alljackpotscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.allslotscasino.com | h-98oju8tz.online-metrix.net |
@@ -1293,7 +1306,6 @@
 | content.partycity.ca | h-canadiantire.online-metrix.net |
 | content.sportchek.ca | h-canadiantire.online-metrix.net |
 | content.sportsexperts.ca | h-canadiantire.online-metrix.net |
-| content.canyon.com | h-canyon.online-metrix.net |
 | tm-out.cardinalcommerce.com | h-cardinalcommerce.online-metrix.net |
 | cmprofile.cards.citidirect.com | h-cards.citidirect.online-metrix.net |
 | tmx.carhistory.com.au | h-carhistory.online-metrix.net |
@@ -1318,6 +1330,7 @@
 | cdn2.intercambioexpress.com | h-cdn2.intercambioexpress.online-metrix.net |
 | tm.rsa-claims.co.uk | h-cdryhofv.online-metrix.net |
 | cdnm.sts.pl | h-ce5udwb7.online-metrix.net |
+| content.happybank.com | h-centennial.online-metrix.net |
 | content.my100bank.com | h-centennial.online-metrix.net |
 | content.certifid.com | h-certifid.online-metrix.net |
 | contentneworks.nebraska.gov | h-cesikaps.online-metrix.net |
