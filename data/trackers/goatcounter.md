@@ -18,6 +18,7 @@
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
     * cassie.goatcounter.com
+    * celerry.goatcounter.com
     * cgcristi.goatcounter.com
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
@@ -60,6 +61,7 @@
     * msol.goatcounter.com
     * neiku.goatcounter.com
     * nhimmeo.goatcounter.com
+    * noscirep.goatcounter.com
     * novi.goatcounter.com
     * ooo.goatcounter.com
     * paddy-site.goatcounter.com
@@ -90,6 +92,7 @@
     * ubr.goatcounter.com
     * ultimategopher.goatcounter.com
     * umcconnell.goatcounter.com
+    * unbegames.goatcounter.com
     * valentineus.goatcounter.com
     * vault.goatcounter.com
     * vpro.goatcounter.com
@@ -116,6 +119,7 @@
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
+| stats.celerry.com | celerry.goatcounter.com |
 | stats.cgcristi.xyz | cgcristi.goatcounter.com |
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
@@ -158,6 +162,7 @@
 | stats.msol.io | msol.goatcounter.com |
 | gc.neiku.org | neiku.goatcounter.com |
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
+| gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |
 | c.paddyk45.de | paddy-site.goatcounter.com |
@@ -188,6 +193,7 @@
 | argus.umarbutler.com | ubr.goatcounter.com |
 | stats.hedy.dev | ultimategopher.goatcounter.com |
 | stats.umcconnell.net | umcconnell.goatcounter.com |
+| pageviews.unbegames.com | unbegames.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |

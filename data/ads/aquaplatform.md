@@ -262,7 +262,6 @@
 | servedby.lintigroup.se | platformiq-del.aquaplatform.com |
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
 | servedby.reviveservers.com | platformiq-del.aquaplatform.com |
-| servedby.twinriversmedia.com | platformiq-del.aquaplatform.com |
 | www.proforums.com | platformiq-del.aquaplatform.com |
 | www.servedby.lintigroup.se | platformiq-del.aquaplatform.com |
 | xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
@@ -270,6 +269,7 @@
 | ads.postandparcel.info | postandparcel-delivery.aquaplatform.com |
 | static.postandparcel.info | postandparcel-static.aquaplatform.com |
 | adconsole.bidspotter.co.uk | proxibid-console.aquaplatform.com |
+| www.adconsole.proxibid.com | proxibid-console.aquaplatform.com |
 | ads.bidspotter.co.uk | proxibid-delivery.aquaplatform.com |
 | ads.i-bidder.com | proxibid-delivery.aquaplatform.com |
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |

@@ -8,9 +8,7 @@
 ### Rarely active trackers
 
 * api.clickaine.com
-* 7450.bodis.com
 * 77980.bodis.com
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -64,6 +62,7 @@
 | 6cf0e7801e8cd.clicknplay.to | 0i0i0i0.com |
 | 784.56ovido.site | 0i0i0i0.com |
 | 7bd3d001ff6.clicknplay.to | 0i0i0i0.com |
+| 879.thebussybandit.com | 0i0i0i0.com |
 | 938az.xyz | 0i0i0i0.com |
 | a.1appup.com | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
@@ -228,6 +227,7 @@
 | adspy.hdthot.com | 0i0i0i0.com |
 | adspy.javrank.com | 0i0i0i0.com |
 | advocate420.fun | 0i0i0i0.com |
+| akm3w.pleasedonotblockme.com | 0i0i0i0.com |
 | alaot.com | 0i0i0i0.com |
 | alkosalvb.filasofighit.com | 0i0i0i0.com |
 | analytics-uat.bloblohub.com | 0i0i0i0.com |
@@ -432,6 +432,7 @@
 | d.3dfetishgirls.com | 0i0i0i0.com |
 | d.adultporn.tv | 0i0i0i0.com |
 | d.bloblohub.com | 0i0i0i0.com |
+| daldk.com | 0i0i0i0.com |
 | dash.bloblohub.com | 0i0i0i0.com |
 | daswercd.filasofighit.com | 0i0i0i0.com |
 | data.bangtubevideos.com | 0i0i0i0.com |
@@ -583,7 +584,6 @@
 | hegdcrxavrtk.cdnvideo3.com | 0i0i0i0.com |
 | helmpa.xyz | 0i0i0i0.com |
 | help.fanza.cc | 0i0i0i0.com |
-| hero3.nude-asian-videos.com | 0i0i0i0.com |
 | hjdw.tjaard11.xyz | 0i0i0i0.com |
 | hookjav12.fun | 0i0i0i0.com |
 | hotpornpro.com | 0i0i0i0.com |
@@ -728,7 +728,9 @@
 | mediacdn.x1hub.com | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
 | menkaox.xyz | 0i0i0i0.com |
+| meorzoi.xyz | 0i0i0i0.com |
 | mestierediscrivere.hubhubhub.name | 0i0i0i0.com |
+| metroiz.xyz | 0i0i0i0.com |
 | metzia.xyz | 0i0i0i0.com |
 | mficlyxgvfsp.cdnvideo3.com | 0i0i0i0.com |
 | mgbkt9eckr.xn--mgbkt9eckr.net | 0i0i0i0.com |
@@ -1015,7 +1017,6 @@
 | staticz.hotpornfile.org | 0i0i0i0.com |
 | strikebreaker3x.fun | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
-| sub.empressleak.biz | 0i0i0i0.com |
 | subcom.uiiumovie.com | 0i0i0i0.com |
 | subfun.uiiumovie.fun | 0i0i0i0.com |
 | suckae.xyz | 0i0i0i0.com |
@@ -1024,6 +1025,7 @@
 | support.streamjav.top | 0i0i0i0.com |
 | switch1266.fun | 0i0i0i0.com |
 | switchjavgg124.fun | 0i0i0i0.com |
+| t.hoes.tube | 0i0i0i0.com |
 | tagmai.xyz | 0i0i0i0.com |
 | tagrua.xyz | 0i0i0i0.com |
 | talented3452.fun | 0i0i0i0.com |
@@ -1173,14 +1175,6 @@
 | zi3nna.xyz | 0i0i0i0.com |
 | zinipx.xyz | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
-| aoihaizo.xyz | 7450.bodis.com |
-| bazao.xyz | 7450.bodis.com |
-| eznoz.xyz | 7450.bodis.com |
-| kaizzz.xyz | 7450.bodis.com |
-| manboo.xyz | 7450.bodis.com |
-| mziso.xyz | 7450.bodis.com |
-| panoz.xyz | 7450.bodis.com |
-| quantoz.xyz | 7450.bodis.com |
 | javguru.gggsss.site | 77980.bodis.com |
 | ad.desibp.com | api.clickaine.com |
 | addin.name | u50.0i0i0i0.com |
@@ -1198,4 +1192,3 @@
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| qhip.com | u53.hypnorat.com |

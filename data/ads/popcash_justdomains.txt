@@ -252,6 +252,7 @@ bee.andreawhitmer.com
 bee.farmaciavdg.com
 bee.jbkmobiledj.com
 bee.nfte.app
+bee.shelveholidays.co.uk
 beetle.enlacepermanente.es
 bird.brondby.com
 bird.recruitkit.com.au
@@ -359,7 +360,6 @@ chimpanzee.ines-papert.com
 chimpanzee.thestoryengine.co.uk
 chinchilla.68keys.io
 chipmunk.sqltoapi.com
-cicada.escapethecorporatecult.com
 cicada.wordvested.org
 clam.figmachina.com
 clam.mglaman.dev
@@ -637,7 +637,6 @@ koi.filtersource.com
 koi.fullyexplained.co.uk
 koi.henrydennis.dev
 koi.lkae.dev
-koi.project-tampah.com
 koi.vyer.com
 krill.far.site
 krill.spoonrage.com
@@ -684,6 +683,7 @@ loon.energizer.asia
 loon.jrmyfranck.com
 louse.demaree.space
 louse.seanconnolly.dev
+louse.shredit.app
 louse.sigle.io
 lungfish.datadividendproject.com
 lynx.inovo.io
@@ -735,7 +735,6 @@ mole.vcntlee.com
 mollusk.forwardmx.io
 mollusk.working.actor
 mongoose.cse-algolia.fr
-mongoose.jasonlbeggs.com
 mongoose.scrumgenius.com
 mongoose.thechocolatelife.com
 monkey.colinjohnston.com
@@ -931,13 +930,11 @@ silkworm.hoprnet.io
 silkworm.preventingsuicideinsussex.org
 silkworm.waspexpert.com
 silkworm.westwoodmbc.org
-silverfish.dailybuilds.com
 silverfish.djordjevanjek.com
 skink.asorman.io
 skink.thoumi.ch
 skunk.dwa.li
 skunk.gameworkersolidarity.com
-sloth.vaalinstudio.com
 smelt.allenpike.com
 smelt.gautrowski.com
 snipe.mfaber.at
@@ -1105,6 +1102,7 @@ yak.gregsullivan.com
 ads.djc.com
 allnews.chestertelegraph.org
 amaze.hamptonroads.myactivechild.com
+amplify.madison365.com
 apogee.spacenews.com
 assets-v2.boisedev.com
 assets-v2.invaluable.com
@@ -1115,6 +1113,7 @@ connected.ashrae.org
 connected.county10.com
 daily.yubanet.com
 doppler.streetinteractive.com
+featured.premiermedia.net
 floorforce.streetinteractive.com
 gemtun.ctnewsjunkie.com
 images.decaturish.com
@@ -1128,6 +1127,7 @@ partners.hourmediagroup.com
 partners.nationalmortgageprofessional.com
 partners.seetheworld.com
 pnq.babcoxmediainc.com
+promote.melangeandco.com
 saucon-sponsors.streetinteractive.com
 sponsor-v2.lebtown.com
 sponsor.styleblueprint.com
@@ -1172,6 +1172,7 @@ contact-gloss-production.accelerator.net
 dntcl.qualaroo.com
 live-tag.creatopy.net
 log.ads-m.net
+matomo-cdn-bunny.ramsalt.com
 sp.freshlooklens.pk
 sp.lenspk.com
 sp.theladyshop.pk

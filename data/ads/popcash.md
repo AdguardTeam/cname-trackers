@@ -35,6 +35,7 @@
 | ads.djc.com | bs-adserver.b-cdn.net |
 | allnews.chestertelegraph.org | bs-adserver.b-cdn.net |
 | amaze.hamptonroads.myactivechild.com | bs-adserver.b-cdn.net |
+| amplify.madison365.com | bs-adserver.b-cdn.net |
 | apogee.spacenews.com | bs-adserver.b-cdn.net |
 | assets-v2.boisedev.com | bs-adserver.b-cdn.net |
 | assets-v2.invaluable.com | bs-adserver.b-cdn.net |
@@ -45,6 +46,7 @@
 | connected.county10.com | bs-adserver.b-cdn.net |
 | daily.yubanet.com | bs-adserver.b-cdn.net |
 | doppler.streetinteractive.com | bs-adserver.b-cdn.net |
+| featured.premiermedia.net | bs-adserver.b-cdn.net |
 | floorforce.streetinteractive.com | bs-adserver.b-cdn.net |
 | gemtun.ctnewsjunkie.com | bs-adserver.b-cdn.net |
 | images.decaturish.com | bs-adserver.b-cdn.net |
@@ -58,6 +60,7 @@
 | partners.nationalmortgageprofessional.com | bs-adserver.b-cdn.net |
 | partners.seetheworld.com | bs-adserver.b-cdn.net |
 | pnq.babcoxmediainc.com | bs-adserver.b-cdn.net |
+| promote.melangeandco.com | bs-adserver.b-cdn.net |
 | saucon-sponsors.streetinteractive.com | bs-adserver.b-cdn.net |
 | sponsor-v2.lebtown.com | bs-adserver.b-cdn.net |
 | sponsor.styleblueprint.com | bs-adserver.b-cdn.net |
@@ -194,6 +197,7 @@
 | bee.farmaciavdg.com | deprecated-custom-domains.b-cdn.net |
 | bee.jbkmobiledj.com | deprecated-custom-domains.b-cdn.net |
 | bee.nfte.app | deprecated-custom-domains.b-cdn.net |
+| bee.shelveholidays.co.uk | deprecated-custom-domains.b-cdn.net |
 | beetle.enlacepermanente.es | deprecated-custom-domains.b-cdn.net |
 | bird.brondby.com | deprecated-custom-domains.b-cdn.net |
 | bird.recruitkit.com.au | deprecated-custom-domains.b-cdn.net |
@@ -301,7 +305,6 @@
 | chimpanzee.thestoryengine.co.uk | deprecated-custom-domains.b-cdn.net |
 | chinchilla.68keys.io | deprecated-custom-domains.b-cdn.net |
 | chipmunk.sqltoapi.com | deprecated-custom-domains.b-cdn.net |
-| cicada.escapethecorporatecult.com | deprecated-custom-domains.b-cdn.net |
 | cicada.wordvested.org | deprecated-custom-domains.b-cdn.net |
 | clam.figmachina.com | deprecated-custom-domains.b-cdn.net |
 | clam.mglaman.dev | deprecated-custom-domains.b-cdn.net |
@@ -579,7 +582,6 @@
 | koi.fullyexplained.co.uk | deprecated-custom-domains.b-cdn.net |
 | koi.henrydennis.dev | deprecated-custom-domains.b-cdn.net |
 | koi.lkae.dev | deprecated-custom-domains.b-cdn.net |
-| koi.project-tampah.com | deprecated-custom-domains.b-cdn.net |
 | koi.vyer.com | deprecated-custom-domains.b-cdn.net |
 | krill.far.site | deprecated-custom-domains.b-cdn.net |
 | krill.spoonrage.com | deprecated-custom-domains.b-cdn.net |
@@ -626,6 +628,7 @@
 | loon.jrmyfranck.com | deprecated-custom-domains.b-cdn.net |
 | louse.demaree.space | deprecated-custom-domains.b-cdn.net |
 | louse.seanconnolly.dev | deprecated-custom-domains.b-cdn.net |
+| louse.shredit.app | deprecated-custom-domains.b-cdn.net |
 | louse.sigle.io | deprecated-custom-domains.b-cdn.net |
 | lungfish.datadividendproject.com | deprecated-custom-domains.b-cdn.net |
 | lynx.inovo.io | deprecated-custom-domains.b-cdn.net |
@@ -677,7 +680,6 @@
 | mollusk.forwardmx.io | deprecated-custom-domains.b-cdn.net |
 | mollusk.working.actor | deprecated-custom-domains.b-cdn.net |
 | mongoose.cse-algolia.fr | deprecated-custom-domains.b-cdn.net |
-| mongoose.jasonlbeggs.com | deprecated-custom-domains.b-cdn.net |
 | mongoose.scrumgenius.com | deprecated-custom-domains.b-cdn.net |
 | mongoose.thechocolatelife.com | deprecated-custom-domains.b-cdn.net |
 | monkey.colinjohnston.com | deprecated-custom-domains.b-cdn.net |
@@ -873,13 +875,11 @@
 | silkworm.preventingsuicideinsussex.org | deprecated-custom-domains.b-cdn.net |
 | silkworm.waspexpert.com | deprecated-custom-domains.b-cdn.net |
 | silkworm.westwoodmbc.org | deprecated-custom-domains.b-cdn.net |
-| silverfish.dailybuilds.com | deprecated-custom-domains.b-cdn.net |
 | silverfish.djordjevanjek.com | deprecated-custom-domains.b-cdn.net |
 | skink.asorman.io | deprecated-custom-domains.b-cdn.net |
 | skink.thoumi.ch | deprecated-custom-domains.b-cdn.net |
 | skunk.dwa.li | deprecated-custom-domains.b-cdn.net |
 | skunk.gameworkersolidarity.com | deprecated-custom-domains.b-cdn.net |
-| sloth.vaalinstudio.com | deprecated-custom-domains.b-cdn.net |
 | smelt.allenpike.com | deprecated-custom-domains.b-cdn.net |
 | smelt.gautrowski.com | deprecated-custom-domains.b-cdn.net |
 | snipe.mfaber.at | deprecated-custom-domains.b-cdn.net |
@@ -1044,6 +1044,7 @@
 | yak.auclantis.com | deprecated-custom-domains.b-cdn.net |
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
+| matomo-cdn-bunny.ramsalt.com | matomo.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |

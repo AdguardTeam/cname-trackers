@@ -22,7 +22,6 @@
 ||alpaca.miidbaby.com^
 ||alpaca.thesocialmedwork.com^
 ||alpaca.wingmantracker.com^
-||amphibian.foodfamily.app^
 ||amphibian.juergenhaller.at^
 ||amphibian.pinestc.com^
 ||amphibian.studionimbus.nl^
@@ -106,6 +105,7 @@
 ||bee.farmaciavdg.com^
 ||bee.jbkmobiledj.com^
 ||bee.nfte.app^
+||bee.shelveholidays.co.uk^
 ||beetle.enlacepermanente.es^
 ||bird.brondby.com^
 ||bird.recruitkit.com.au^
@@ -154,7 +154,6 @@
 ||cardinal.genx.be^
 ||cardinal.krisenchat.de^
 ||cardinal.newman.is^
-||cardinal.zenting.app^
 ||caribou.color.io^
 ||caribou.mcgregorpublishing.com^
 ||caribou.reiterstolz.com^
@@ -172,6 +171,7 @@
 ||caterpilla.ibon.live^
 ||catfish.lucalabs.com^
 ||catfish.phuclh.com^
+||catfish.pressure.cooking^
 ||catfish.sofatido.ch^
 ||catshark.janetalexandersson.com^
 ||catshark.jimmyaldape.dev^
@@ -189,7 +189,6 @@
 ||cattle.weiss-bregenz.at^
 ||centipede.davimug.com^
 ||centipede.roasted.dev^
-||centipede.wildbit.com^
 ||cephalopod.nucleus.us^
 ||cephalopod.revelio.io^
 ||cephalopod.staff.design^
@@ -211,7 +210,6 @@
 ||chimpanzee.thestoryengine.co.uk^
 ||chinchilla.68keys.io^
 ||chipmunk.sqltoapi.com^
-||cicada.escapethecorporatecult.com^
 ||cicada.wordvested.org^
 ||clam.figmachina.com^
 ||clam.mglaman.dev^
@@ -263,7 +261,6 @@
 ||dog.christinamoore.us^
 ||dog.franchisesocial.co.uk^
 ||dog.ghvenue.com^
-||dog.justsketch.me^
 ||dog.orbit.love^
 ||dog.rejuvenateyouohio.com^
 ||dog.streameon.com^
@@ -337,7 +334,6 @@
 ||fish.trampoline.cx^
 ||fish.whitney.org^
 ||fjikgr.dennmart.com^
-||flamingo.abihome.de^
 ||flamingo.apatonsrompus.com^
 ||flamingo.stacking-club.com^
 ||flea.elbertsnaturalfoods.com^
@@ -394,7 +390,6 @@
 ||guineapig.espressive.com^
 ||guineapig.magnatkaffehus.no^
 ||guineapig.themenaffin.de^
-||gull.mayansmithgobat.com^
 ||guppy.ausowned.com.au^
 ||guppy.ironmic.fm^
 ||guppy.omana.me^
@@ -487,7 +482,6 @@
 ||koi.fullyexplained.co.uk^
 ||koi.henrydennis.dev^
 ||koi.lkae.dev^
-||koi.project-tampah.com^
 ||koi.vyer.com^
 ||krill.far.site^
 ||krill.spoonrage.com^
@@ -527,13 +521,13 @@
 ||llama.lobbly.com^
 ||llama.mallardbay.com^
 ||lobster.justunderwear.com^
-||locust.ausrebellion.earth^
 ||loon.analogjoe.com^
 ||loon.davidalindahl.com^
 ||loon.energizer.asia^
 ||loon.jrmyfranck.com^
 ||louse.demaree.space^
 ||louse.seanconnolly.dev^
+||louse.shredit.app^
 ||louse.sigle.io^
 ||lungfish.datadividendproject.com^
 ||lynx.inovo.io^
@@ -585,7 +579,6 @@
 ||mollusk.forwardmx.io^
 ||mollusk.working.actor^
 ||mongoose.cse-algolia.fr^
-||mongoose.jasonlbeggs.com^
 ||mongoose.scrumgenius.com^
 ||mongoose.thechocolatelife.com^
 ||monkey.colinjohnston.com^
@@ -681,7 +674,6 @@
 ||piranha.mediumsuite.co.uk^
 ||piranha.minnmyatsoe.com^
 ||planarian.614deals.com^
-||planarian.dailylocation.com^
 ||planarian.dtesta.com^
 ||planarian.fatsackfails.com^
 ||planarian.reverberate.org^
@@ -781,13 +773,11 @@
 ||silkworm.preventingsuicideinsussex.org^
 ||silkworm.waspexpert.com^
 ||silkworm.westwoodmbc.org^
-||silverfish.dailybuilds.com^
 ||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
 ||skink.thoumi.ch^
 ||skunk.dwa.li^
 ||skunk.gameworkersolidarity.com^
-||sloth.vaalinstudio.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
 ||snipe.mfaber.at^
@@ -946,15 +936,22 @@
 ||woodpecker.mikehalliday.com^
 ||woodpecker.seabits.com^
 ||worm.communitytrustproject.org^
-||www.stork.notlessbutbetter.com^
 ||yak.auclantis.com^
 ||yak.flutterblog.net^
 ||yak.gregsullivan.com^
-||catfish.pressure.cooking^
+||amphibian.foodfamily.app^
+||cardinal.zenting.app^
+||centipede.wildbit.com^
 ||crow.centresustains.com^
+||dog.justsketch.me^
+||flamingo.abihome.de^
+||gull.mayansmithgobat.com^
 ||llama.whatcha.io^
+||locust.ausrebellion.earth^
 ||moose.octo.app^
+||planarian.dailylocation.com^
 ||porcupine.reminyborg.com^
 ||prawn.inchperfect.com^
 ||vulture.bettershore.com^
 ||walrus.scalue.com^
+||www.stork.notlessbutbetter.com^

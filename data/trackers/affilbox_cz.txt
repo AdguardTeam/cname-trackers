@@ -42,6 +42,7 @@
 ||affil.kralovstvi-tiande.cz^
 ||affil.lesgoodies.com^
 ||affil.litinove-nadobi.cz^
+||affil.lojdovale.cz^
 ||affil.moringamix.cz^
 ||affil.mydrinks.cz^
 ||affil.nanoshop.cz^
@@ -745,6 +746,7 @@
 ||partner.vataonline.cz^
 ||partner.vffoto.com^
 ||partner.virulent.cz^
+||partner.vivabeauty.cz^
 ||partner.vladimirekart.cz^
 ||partner.volne-reality.cz^
 ||partner.vyprodejskladu.com^
@@ -819,6 +821,7 @@
 ||partneri.incacollagen.eu^
 ||partneri.intimfitness.cz^
 ||partneri.jakofenix.cz^
+||partneri.jazykovavyzva.cz^
 ||partneri.jazykovedarky.cz^
 ||partneri.jazykyodpiky.cz^
 ||partneri.jipos.cz^

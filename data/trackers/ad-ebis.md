@@ -272,6 +272,7 @@
     * c7d741c1-ppn7hhsn.cname.ebis.ne.jp
     * c802e1f3-kqwcfkqu.cname.ebis.ne.jp
     * c802e58e-eth6amyu.cname.ebis.ne.jp
+    * c951c540-6pusefyf.cname.ebis.ne.jp
     * c990b46a-cy6kqhld.cname.ebis.ne.jp
     * c9b592e5-3ddhh4av.cname.ebis.ne.jp
     * c9bc9065-hd5f4dhg.cname.ebis.ne.jp
@@ -605,6 +606,7 @@
 | cname.gladis.jp | c7d741c1-ppn7hhsn.cname.ebis.ne.jp |
 | hokkaidobank.rapi.jp | c802e1f3-kqwcfkqu.cname.ebis.ne.jp |
 | ac-ebis.usen.biz | c802e58e-eth6amyu.cname.ebis.ne.jp |
+| ebis-tracking.tcb-shibuya.com | c951c540-6pusefyf.cname.ebis.ne.jp |
 | ebisfracora.fracora.com | c990b46a-cy6kqhld.cname.ebis.ne.jp |
 | adebis.urban-research.jp | c9b592e5-3ddhh4av.cname.ebis.ne.jp |
 | tracking.wao.ne.jp | c9bc9065-hd5f4dhg.cname.ebis.ne.jp |

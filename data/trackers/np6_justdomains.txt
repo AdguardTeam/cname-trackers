@@ -332,6 +332,7 @@ tr.e.trouver-un-logement-neuf.com
 tr.easy-offertes.be
 tr.ecolab-france.fr
 tr.ecologie-shop.espmp-agfr.net
+tr.elections.simplivote.fr
 tr.em.cdiscount-pro.com
 tr.em.cdiscountpro.com
 tr.email.aeroexpo.online
@@ -414,6 +415,7 @@ tr.fidal.pro
 tr.fidalformation.pro
 tr.finance.moethennessy.com
 tr.fleetmatics.vraaguwofferte.be
+tr.fortuneo.com
 tr.forum.veuveclicquot.fr
 tr.fr.pro.accor.com
 tr.france.plimsoll.fr
@@ -734,6 +736,7 @@ tr.news.cci-puydedome.com
 tr.news.cdiscount.com
 tr.news.cdiscountpro.com
 tr.news.cenpac.fr
+tr.news.cforadio.tv
 tr.news.chapsvision.com
 tr.news.chezmonveto.com
 tr.news.chilican.com
@@ -813,9 +816,6 @@ tr.news.lalettredelexpansion.com
 tr.news.latribunebordeaux.fr
 tr.news.leclubtravel.fr
 tr.news.lentillesmoinscheres.com
-tr.news.lentreprise.lexpress.fr
-tr.news.lexpansion.lexpress.fr
-tr.news.lexpress.fr
 tr.news.libranoo.com
 tr.news.linxea.com
 tr.news.lisez.com
@@ -849,7 +849,6 @@ tr.news.seine-estuaire.cci.fr
 tr.news.smartdeals-transavia-fr.com
 tr.news.smartdealstransavia-fr.com
 tr.news.sport2000.fr
-tr.news.styles.lexpress.fr
 tr.news.supercasino.fr
 tr.news.teklifim.pro
 tr.news.thelist-emirates.fr
@@ -864,7 +863,6 @@ tr.news.vip-mag.co.uk
 tr.news.vipmag.fr
 tr.news.vivrecotesud.fr
 tr.news.vo3000.com
-tr.news.votreargent.lexpress.fr
 tr.news.voyagesleclerc.com
 tr.news.vraaguwofferte.be
 tr.news.vraaguwofferte.com
@@ -1064,6 +1062,7 @@ tr.smtp1.email-mediapost.fr
 tr.solendi.com
 tr.solocal.espmp-aufr.net
 tr.solution.uneo.fr
+tr.sorecson.fr
 tr.sort.espmp-nifr.net
 tr.souscription.floa.fr
 tr.spain.plimsoll.es

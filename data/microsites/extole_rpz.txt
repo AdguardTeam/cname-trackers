@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,10 +137,9 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em2287.theory.com CNAME .
+em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
-em7952.dailypay.com CNAME .
-em8561.go2bank.com CNAME .
+em767.forgetrust.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
@@ -305,6 +304,7 @@ refer.lasenza.ca CNAME .
 refer.lasenza.com CNAME .
 refer.last-stitch.com CNAME .
 refer.lastcall.com CNAME .
+refer.latexforless.com CNAME .
 refer.lauramercier.com CNAME .
 refer.laylasleep.com CNAME .
 refer.lemonaidhealth.com CNAME .
@@ -420,7 +420,6 @@ refer.underarmour.nl CNAME .
 refer.unison.com CNAME .
 refer.us.davines.com CNAME .
 refer.vayasleep.com CNAME .
-refer.vincecamuto.com CNAME .
 refer.vitaminpacks.com CNAME .
 refer.vitaminshoppe.com CNAME .
 refer.washtrust.com CNAME .
@@ -539,6 +538,7 @@ share.enzocustom.com CNAME .
 share.esteelauder.co.kr CNAME .
 share.esteelauder.com.au CNAME .
 share.esteelauder.com.tw CNAME .
+share.ets.org CNAME .
 share.evine.com CNAME .
 share.fetchpet.com CNAME .
 share.figopetinsurance.com CNAME .
@@ -698,6 +698,7 @@ share.stockpile.com CNAME .
 share.stopagingnow.com CNAME .
 share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
+share.suffolkcu.org CNAME .
 share.sundaysfordogs.com CNAME .
 share.suneast.org CNAME .
 share.swordhealth.com CNAME .
@@ -750,8 +751,10 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
-em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.skillshare.com CNAME .

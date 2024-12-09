@@ -110,7 +110,6 @@
     * 489164258023327.wt-eu02.net
     * 495967780350059.wt-eu02.net
     * 517717528680725.wt-eu02.net
-    * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
     * 554833903189763.wt-eu02.net
@@ -144,7 +143,6 @@
     * 725569110638965.wt-eu02.net
     * 728252369996325.wt-eu02.net
     * 729347163621496.wt-eu02.net
-    * 730059294506327.wt-eu02.net
     * 734297997850272.wt-eu02.net
     * 737859735586197.wt-eu02.net
     * 741723125859679.wt-eu02.net
@@ -352,7 +350,6 @@
 | web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
-| census.misterspex.no | 524656123914087.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
 | web.s.sasrx.com | 554833903189763.wt-eu02.net |
@@ -404,7 +401,6 @@
 | web.mailing.morawa.at | 725569110638965.wt-eu02.net |
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
-| census.misterspex.at | 730059294506327.wt-eu02.net |
 | web.info.varelotteriet.dk | 734297997850272.wt-eu02.net |
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |
 | web.mail.proximaati.com | 741723125859679.wt-eu02.net |

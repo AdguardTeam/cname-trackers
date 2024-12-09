@@ -219,6 +219,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -236,7 +237,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -269,6 +269,7 @@
     * esteelauderhk.extole.io
     * esteelauderjp.extole.io
     * etrade.extole.io
+    * ets.extole.io
     * everlywell.extole.io
     * evine.extole.io
     * evite.extole.io
@@ -282,6 +283,7 @@
     * first-tech-federal.extole.io
     * firstleaf.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * forgetrust.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
@@ -304,7 +306,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -514,6 +515,7 @@
     * stride-rite.extole.io
     * stridehealth.extole.io
     * studiosashiko.extole.io
+    * suffolkcu.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -532,7 +534,6 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
-    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -569,7 +570,6 @@
     * veo.extole.io
     * veritycu.extole.io
     * viktor-rolf.extole.io
-    * vincecamuto.extole.io
     * visions.extole.io
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
@@ -748,6 +748,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -777,7 +778,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -818,6 +818,7 @@
 | share.refer-esteelauder.com.hk | esteelauderhk.extole.io |
 | share.refer-esteelauder.jp | esteelauderjp.extole.io |
 | refer.etrade.net | etrade.extole.io |
+| share.ets.org | ets.extole.io |
 | refer.everlywell.com | everlywell.extole.io |
 | share.evine.com | evine.extole.io |
 | refer.evite.com | evite.extole.io |
@@ -841,6 +842,7 @@
 | share.firstleaf.com | firstleaf.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.forgetrust.com | forgetrust.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
@@ -924,7 +926,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1116,6 +1117,7 @@
 | refer.pimsleur.com | pimsleur.extole.io |
 | refer.cbdpillow.com | plush-beds.extole.io |
 | refer.ecoterrabeds.com | plush-beds.extole.io |
+| refer.latexforless.com | plush-beds.extole.io |
 | refer.plushbeds.com | plush-beds.extole.io |
 | share.policygenius.com | policygenius.extole.io |
 | refer.thepopcornfactory.com | popcorn-factory.extole.io |
@@ -1224,6 +1226,7 @@
 | refer.striderite.com | stride-rite.extole.io |
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
+| share.suffolkcu.org | suffolkcu.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1251,7 +1254,6 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
-| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1286,6 +1288,7 @@
 | em2287.theory.com | u82658.wl159.sendgrid.net |
 | em3904.skillshare.com | u82658.wl159.sendgrid.net |
 | em4367.raf-studentloans.discover.com | u82658.wl159.sendgrid.net |
+| em7952.dailypay.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
 | em8928.em.petco.com | u82658.wl159.sendgrid.net |
 | em924.refer.starbucks.com | u82658.wl159.sendgrid.net |
@@ -1313,7 +1316,6 @@
 | share.veritycu.com | veritycu.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |
 | share.vimeo.com | vimeo.extole.com |
-| refer.vincecamuto.com | vincecamuto.extole.io |
 | referrals.visionsfcu.org | visions.extole.io |
 | referral.vistaprint.com | vistaprint-ssl.extole.com |
 | refer.vitaminpacks.com | vitaminpacks.extole.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -263,6 +263,7 @@ bee.andreawhitmer.com CNAME .
 bee.farmaciavdg.com CNAME .
 bee.jbkmobiledj.com CNAME .
 bee.nfte.app CNAME .
+bee.shelveholidays.co.uk CNAME .
 beetle.enlacepermanente.es CNAME .
 bird.brondby.com CNAME .
 bird.recruitkit.com.au CNAME .
@@ -370,7 +371,6 @@ chimpanzee.ines-papert.com CNAME .
 chimpanzee.thestoryengine.co.uk CNAME .
 chinchilla.68keys.io CNAME .
 chipmunk.sqltoapi.com CNAME .
-cicada.escapethecorporatecult.com CNAME .
 cicada.wordvested.org CNAME .
 clam.figmachina.com CNAME .
 clam.mglaman.dev CNAME .
@@ -648,7 +648,6 @@ koi.filtersource.com CNAME .
 koi.fullyexplained.co.uk CNAME .
 koi.henrydennis.dev CNAME .
 koi.lkae.dev CNAME .
-koi.project-tampah.com CNAME .
 koi.vyer.com CNAME .
 krill.far.site CNAME .
 krill.spoonrage.com CNAME .
@@ -695,6 +694,7 @@ loon.energizer.asia CNAME .
 loon.jrmyfranck.com CNAME .
 louse.demaree.space CNAME .
 louse.seanconnolly.dev CNAME .
+louse.shredit.app CNAME .
 louse.sigle.io CNAME .
 lungfish.datadividendproject.com CNAME .
 lynx.inovo.io CNAME .
@@ -746,7 +746,6 @@ mole.vcntlee.com CNAME .
 mollusk.forwardmx.io CNAME .
 mollusk.working.actor CNAME .
 mongoose.cse-algolia.fr CNAME .
-mongoose.jasonlbeggs.com CNAME .
 mongoose.scrumgenius.com CNAME .
 mongoose.thechocolatelife.com CNAME .
 monkey.colinjohnston.com CNAME .
@@ -942,13 +941,11 @@ silkworm.hoprnet.io CNAME .
 silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.waspexpert.com CNAME .
 silkworm.westwoodmbc.org CNAME .
-silverfish.dailybuilds.com CNAME .
 silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
 skink.thoumi.ch CNAME .
 skunk.dwa.li CNAME .
 skunk.gameworkersolidarity.com CNAME .
-sloth.vaalinstudio.com CNAME .
 smelt.allenpike.com CNAME .
 smelt.gautrowski.com CNAME .
 snipe.mfaber.at CNAME .
@@ -1116,6 +1113,7 @@ yak.gregsullivan.com CNAME .
 ads.djc.com CNAME .
 allnews.chestertelegraph.org CNAME .
 amaze.hamptonroads.myactivechild.com CNAME .
+amplify.madison365.com CNAME .
 apogee.spacenews.com CNAME .
 assets-v2.boisedev.com CNAME .
 assets-v2.invaluable.com CNAME .
@@ -1126,6 +1124,7 @@ connected.ashrae.org CNAME .
 connected.county10.com CNAME .
 daily.yubanet.com CNAME .
 doppler.streetinteractive.com CNAME .
+featured.premiermedia.net CNAME .
 floorforce.streetinteractive.com CNAME .
 gemtun.ctnewsjunkie.com CNAME .
 images.decaturish.com CNAME .
@@ -1139,6 +1138,7 @@ partners.hourmediagroup.com CNAME .
 partners.nationalmortgageprofessional.com CNAME .
 partners.seetheworld.com CNAME .
 pnq.babcoxmediainc.com CNAME .
+promote.melangeandco.com CNAME .
 saucon-sponsors.streetinteractive.com CNAME .
 sponsor-v2.lebtown.com CNAME .
 sponsor.styleblueprint.com CNAME .
@@ -1183,6 +1183,7 @@ contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .
 live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
+matomo-cdn-bunny.ramsalt.com CNAME .
 sp.freshlooklens.pk CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .

@@ -61,6 +61,7 @@
 | affil.kralovstvi-tiande.cz | cz.affilbox.cz |
 | affil.lesgoodies.com | cz.affilbox.cz |
 | affil.litinove-nadobi.cz | cz.affilbox.cz |
+| affil.lojdovale.cz | cz.affilbox.cz |
 | affil.moringamix.cz | cz.affilbox.cz |
 | affil.mydrinks.cz | cz.affilbox.cz |
 | affil.nanoshop.cz | cz.affilbox.cz |
@@ -764,6 +765,7 @@
 | partner.vataonline.cz | cz.affilbox.cz |
 | partner.vffoto.com | cz.affilbox.cz |
 | partner.virulent.cz | cz.affilbox.cz |
+| partner.vivabeauty.cz | cz.affilbox.cz |
 | partner.vladimirekart.cz | cz.affilbox.cz |
 | partner.volne-reality.cz | cz.affilbox.cz |
 | partner.vyprodejskladu.com | cz.affilbox.cz |
@@ -838,6 +840,7 @@
 | partneri.incacollagen.eu | cz.affilbox.cz |
 | partneri.intimfitness.cz | cz.affilbox.cz |
 | partneri.jakofenix.cz | cz.affilbox.cz |
+| partneri.jazykovavyzva.cz | cz.affilbox.cz |
 | partneri.jazykovedarky.cz | cz.affilbox.cz |
 | partneri.jazykyodpiky.cz | cz.affilbox.cz |
 | partneri.jipos.cz | cz.affilbox.cz |

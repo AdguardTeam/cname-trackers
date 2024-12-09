@@ -68,6 +68,7 @@
     * kiki-rireetchansons-fr-cddc.at-o.net
     * kistacity-viessmann-se-cddc.at-o.net
     * lem-nouvelobs-com-cddc.at-o.net
+    * leo-goplay-be-cddc.at-o.net
     * mediniku-viessmann-lt-cddc.at-o.net
     * mefo1-zdf-de-cddc.at-o.net
     * mkt-usz-ch-cddc.at-o.net
@@ -191,6 +192,7 @@
 | kiki.rireetchansons.fr | kiki-rireetchansons-fr-cddc.at-o.net |
 | kistacity.viessmann.se | kistacity-viessmann-se-cddc.at-o.net |
 | lem.nouvelobs.com | lem-nouvelobs-com-cddc.at-o.net |
+| leo.goplay.be | leo-goplay-be-cddc.at-o.net |
 | mediniku.viessmann.lt | mediniku-viessmann-lt-cddc.at-o.net |
 | mefo1.zdf.de | mefo1-zdf-de-cddc.at-o.net |
 | mkt.usz.ch | mkt-usz-ch-cddc.at-o.net |

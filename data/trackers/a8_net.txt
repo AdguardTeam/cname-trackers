@@ -82,6 +82,7 @@
 ||a8.diakaimasu.jp^
 ||a8.doctorstretch.com^
 ||a8.dolcibolle.com^
+||a8.donnatokimo-wifi.jp^
 ||a8.drinco.jp^
 ||a8.dstation.jp^
 ||a8.dymtech.jp^
@@ -346,6 +347,7 @@
 ||a8.wifi.erasutamo.onlinestaff.jp^
 ||a8.willcloud.jp^
 ||a8.williesenglish.jp^
+||a8.wimax-broad.jp^
 ||a8.wizrecruitment.012grp.co.jp^
 ||a8.woodlife.jp^
 ||a8.worldikids.com^
@@ -578,6 +580,7 @@
 ||a8clk.moving.a-tm.co.jp^
 ||a8clk.mutukistyle.com^
 ||a8clk.muumuu-domain.com^
+||a8clk.mynavi-cr.jp^
 ||a8clk.mynavi-creator.jp^
 ||a8clk.mynavi-job20s.jp^
 ||a8clk.mypage.awesome-wash.com^
@@ -710,9 +713,11 @@
 ||a8clk.www.duskin-hozumi.com^
 ||a8clk.www.duskin-hozumi.jp^
 ||a8clk.www.e87.com^
+||a8clk.www.eco-life.tokyo^
 ||a8clk.www.fitnessshop.jp^
 ||a8clk.www.flierinc.com^
 ||a8clk.www.gaihekitosou-partners.jp^
+||a8clk.www.golf-station.net^
 ||a8clk.www.green-dog.com^
 ||a8clk.www.italki.com^
 ||a8clk.www.jaf.or.jp^
@@ -762,6 +767,7 @@
 ||a8cv.a-satei.com^
 ||a8cv.accelfacter.co.jp^
 ||a8cv.access-jp.jp^
+||a8cv.adv.gr.jp^
 ||a8cv.aff.life-110.com^
 ||a8cv.ageru-career.com^
 ||a8cv.aiambeauty.jp^
@@ -850,6 +856,7 @@
 ||a8cv.crowdcredit.jp^
 ||a8cv.crowdlinks.jp^
 ||a8cv.cv2308001.tanomelu.com^
+||a8cv.cx-cloud.jp^
 ||a8cv.daini-agent.jp^
 ||a8cv.daisenham.com^
 ||a8cv.danipita.com^
@@ -1074,7 +1081,6 @@
 ||a8cv.mura.ne.jp^
 ||a8cv.my-arrow.co.jp^
 ||a8cv.nagatani-shop.com^
-||a8cv.naiagym.com^
 ||a8cv.naire-seisakusho.jp^
 ||a8cv.naradenryoku.co.jp^
 ||a8cv.naris-online.jp^
@@ -1122,6 +1128,7 @@
 ||a8cv.palms-gym.com^
 ||a8cv.pf.classicmusic.tokyo^
 ||a8cv.phonim.com^
+||a8cv.photo.concorde-corp.jp^
 ||a8cv.photojoy.jp^
 ||a8cv.physiqueframe.com^
 ||a8cv.picksitter.com^
@@ -1235,6 +1242,7 @@
 ||a8cv.tenishokunext.jp^
 ||a8cv.tenkuryo.jp^
 ||a8cv.tenshinocart.com^
+||a8cv.tintle.net^
 ||a8cv.tmix.jp^
 ||a8cv.tokei-syuri.jp^
 ||a8cv.toko-navi.com^
@@ -1265,7 +1273,6 @@
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.wellcrew.net^
-||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.willfu.jp^
@@ -1312,12 +1319,14 @@
 ||a8cv.zeal-agent.com^
 ||a8cv.zeroen-denki.com^
 ||a8cv.zerorenovation.com^
+||a8cv.zita.life^
 ||a8cv.zoner.com^
 ||a8cv2.handmade-ch.jp^
 ||a8cv2.jm-neo.com^
 ||a8cv2.vapelog.jp^
 ||a8cventry.uqwimax.jp^
 ||a8cvhoiku.kidsmate.jp^
+||a8cvt.care-wing.jp^
 ||a8cvtrack.sincere-garden.jp^
 ||a8cvtrack.tokai.jp^
 ||a8dev.hikarinet-s.com^

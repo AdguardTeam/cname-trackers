@@ -1,5 +1,6 @@
 !
 ! Company name: Utiq
+||bob-a1at.mno.link^
 ||esca.mno.link^
 ||o2de.mno.link^
 ||orangefr-test.mno.link^
@@ -27,6 +28,7 @@
 ||utiq.allocine.fr^
 ||utiq.applesfera.com^
 ||utiq.ariva.de^
+||utiq.arquitecturaydiseno.es^
 ||utiq.atf-tagmanager.de^
 ||utiq.aufeminin.com^
 ||utiq.autobild.de^
@@ -47,7 +49,9 @@
 ||utiq.bw24.de^
 ||utiq.bz-berlin.de^
 ||utiq.caminteresse.fr^
+||utiq.canarias7.es^
 ||utiq.capital.fr^
+||utiq.centrepresseaveyron.fr^
 ||utiq.cesoirtv.com^
 ||utiq.chartsinfrance.net^
 ||utiq.cheriefm.fr^
@@ -144,6 +148,8 @@
 ||utiq.kreiszeitung.de^
 ||utiq.kundendienst-info.de^
 ||utiq.lachainemeteo.com^
+||utiq.ladepeche.fr^
+||utiq.lagacetadesalamanca.es^
 ||utiq.landtiere.de^
 ||utiq.laopinioncoruna.es^
 ||utiq.laopiniondemalaga.es^
@@ -154,6 +160,7 @@
 ||utiq.larepubliquedespyrenees.fr^
 ||utiq.larioja.com^
 ||utiq.lasprovincias.es^
+||utiq.lauterbacher-anzeiger.de^
 ||utiq.laverdad.es^
 ||utiq.lavoixdunord.fr^
 ||utiq.lavozdigital.es^
@@ -167,6 +174,7 @@
 ||utiq.levante-emv.com^
 ||utiq.lexpress.fr^
 ||utiq.liberation-champagne.fr^
+||utiq.lindependant.fr^
 ||utiq.lne.es^
 ||utiq.lunion.fr^
 ||utiq.madmoizelle.com^
@@ -179,6 +187,7 @@
 ||utiq.marmiton.org^
 ||utiq.meine-anzeigenzeitung.de^
 ||utiq.merkur.de^
+||utiq.midilibre.fr^
 ||utiq.millenium.gg^
 ||utiq.millenium.org^
 ||utiq.mittelbayerische.de^
@@ -195,6 +204,7 @@
 ||utiq.nostalgie.fr^
 ||utiq.nrj-play.fr^
 ||utiq.nrj.fr^
+||utiq.nrpyrenees.fr^
 ||utiq.numerama.com^
 ||utiq.oberhessische-zeitung.de^
 ||utiq.op-online.de^
@@ -205,6 +215,7 @@
 ||utiq.paroledemamans.com^
 ||utiq.petbook-magazine.com^
 ||utiq.petbook.de^
+||utiq.petitbleu.fr^
 ||utiq.pleinevie.fr^
 ||utiq.pnp.de^
 ||utiq.programme.tv^
@@ -216,6 +227,7 @@
 ||utiq.renew.auto^
 ||utiq.rireetchansons.fr^
 ||utiq.rmcbfmplay.com^
+||utiq.rugbyrama.fr^
 ||utiq.salamancahoy.es^
 ||utiq.sauerlandkurier.de^
 ||utiq.schlager.de^

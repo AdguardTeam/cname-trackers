@@ -47,6 +47,7 @@
     * tp-frankonia-at.oghub.io
     * tp-frankonia-com.oghub.io
     * tp-frankonia-de.oghub.io
+    * tp-frankoniamoda-ch.oghub.io
     * tp-heine-at.oghub.io
     * tp-heine-de.oghub.io
     * tp-heine-shop-nl.oghub.io
@@ -87,6 +88,7 @@
 | tp.frankonia.at | js.oghub.io |
 | tp.frankonia.com | js.oghub.io |
 | tp.frankonia.de | js.oghub.io |
+| tp.frankoniamoda.ch | js.oghub.io |
 | tp.frankoniamoda.ch | js.oghub.io |
 | tp.heine-shop.nl | js.oghub.io |
 | tp.heine-shop.nl | js.oghub.io |
@@ -216,6 +218,7 @@
 | tp.frankonia.at | tp-frankonia-at.oghub.io |
 | tp.frankonia.com | tp-frankonia-com.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
+| tp.frankoniamoda.ch | tp-frankoniamoda-ch.oghub.io |
 | tp.heine.at | tp-heine-at.oghub.io |
 | tp.heine.de | tp-heine-de.oghub.io |
 | tp.heine-shop.nl | tp-heine-shop-nl.oghub.io |

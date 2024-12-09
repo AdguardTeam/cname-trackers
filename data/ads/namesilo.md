@@ -41,7 +41,6 @@
 | a.redpathmedia.com | 1208818836.rsc.cdn77.org |
 | a.rocoads.net | 1208818836.rsc.cdn77.org |
 | a.santabrowser.com | 1208818836.rsc.cdn77.org |
-| a.slice.exchange | 1208818836.rsc.cdn77.org |
 | a.tf4srv.com | 1208818836.rsc.cdn77.org |
 | a.traffic-gold.com | 1208818836.rsc.cdn77.org |
 | a.vws4brkfst.com | 1208818836.rsc.cdn77.org |
@@ -667,6 +666,7 @@
 | 3572283.notifysrv.com | tk6if76q.ab1n.net |
 | 3572285.notifysrv.com | tk6if76q.ab1n.net |
 | 3572293.notifysrv.com | tk6if76q.ab1n.net |
+| 3572295.notify6.com | tk6if76q.ab1n.net |
 | 3572299.notify6.com | tk6if76q.ab1n.net |
 | 3572299.notifysrv.com | tk6if76q.ab1n.net |
 | 3572301.notify6.com | tk6if76q.ab1n.net |
@@ -1027,6 +1027,7 @@
 | 4162264.notify6.com | tk6if76q.ab1n.net |
 | 4165670.notify6.com | tk6if76q.ab1n.net |
 | 4166040.notify6.com | tk6if76q.ab1n.net |
+| 4170408.notify6.com | tk6if76q.ab1n.net |
 | 4172026.notify6.com | tk6if76q.ab1n.net |
 | 4173044.notify6.com | tk6if76q.ab1n.net |
 | 4177784.notify6.com | tk6if76q.ab1n.net |
@@ -1173,6 +1174,7 @@
 | 5085594.notify6.com | tk6if76q.ab1n.net |
 | 5111734.notify6.com | tk6if76q.ab1n.net |
 | 5114166.notify6.com | tk6if76q.ab1n.net |
+| 5118920.notify6.com | tk6if76q.ab1n.net |
 | 5121952.notify6.com | tk6if76q.ab1n.net |
 | 5129508.notify6.com | tk6if76q.ab1n.net |
 | 5131774.notify6.com | tk6if76q.ab1n.net |
@@ -1477,6 +1479,7 @@
 | www.3493551.notify6.com | tk6if76q.ab1n.net |
 | www.3501655.notify6.com | tk6if76q.ab1n.net |
 | www.3512165.notifysrv.com | tk6if76q.ab1n.net |
+| www.3572295.notify6.com | tk6if76q.ab1n.net |
 | www.3593835.notify6.com | tk6if76q.ab1n.net |
 | www.3618947.notify6.com | tk6if76q.ab1n.net |
 | www.3662839.notify6.com | tk6if76q.ab1n.net |
@@ -1502,6 +1505,7 @@
 | www.4195388.notify6.com | tk6if76q.ab1n.net |
 | www.4270606.notify6.com | tk6if76q.ab1n.net |
 | www.4389756.notify6.com | tk6if76q.ab1n.net |
+| www.4455804.notify6.com | tk6if76q.ab1n.net |
 | www.8.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | www.android.notifysrv.com | tk6if76q.ab1n.net |
 | www.exasrv.com | tk6if76q.ab1n.net |
@@ -1533,6 +1537,7 @@
 | a.cant3am.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
+| a.huklop.com | w2u4v9e1.ab1n.net |
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.n4m5x60.com | w2u4v9e1.ab1n.net |
 | a.optimizesrv.com | w2u4v9e1.ab1n.net |

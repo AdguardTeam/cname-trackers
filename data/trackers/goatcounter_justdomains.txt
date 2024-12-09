@@ -19,6 +19,7 @@ counter.storydragon.nl
 gc.his2nd.life
 gc.mindenugyved.hu
 gc.neiku.org
+gc.noscirep.com
 gc.sanyamkapoor.com
 gc.securitydungeon.sk
 gc.tbx.at
@@ -38,6 +39,7 @@ goatcounter.thedave.dev
 goatcounter.thedave.me
 moo.geopogs.party
 novi.webnovi.eu
+pageviews.unbegames.com
 ping.irisphotos.app
 pixel.embed.su
 st.mapleranks.com
@@ -52,6 +54,7 @@ stats.boredkevin.com
 stats.boringproxy.io
 stats.brandontoner.ca
 stats.cassie.omg.lol
+stats.celerry.com
 stats.cgcristi.xyz
 stats.cloudflex.team
 stats.doarpstsjerke.nl

@@ -143,7 +143,6 @@
 ||servedby.schrotundkorn.de^
 ||servedby.tahoe.com^
 ||servedby.trackandfieldnews.com^
-||servedby.twinriversmedia.com^
 ||server.ad.logic-prod.viasat.io^
 ||server.ad.logic.viasat.io^
 ||static.ad.logic-prod.viasat.io^
@@ -176,6 +175,7 @@
 ||stommeplaatjes.geenstijl.nl^
 ||tlads.midtc.com^
 ||treehouse.wwoz.org^
+||www.adconsole.proxibid.com^
 ||www.adserver.sniffies.com^
 ||www.adserver.sonicplug.com^
 ||www.api.adbility-media.com^

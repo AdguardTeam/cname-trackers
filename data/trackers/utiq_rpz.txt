@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+bob-a1at.mno.link CNAME .
 esca.mno.link CNAME .
 o2de.mno.link CNAME .
 orangefr-test.mno.link CNAME .
@@ -38,6 +39,7 @@ utiq.aisnenouvelle.fr CNAME .
 utiq.allocine.fr CNAME .
 utiq.applesfera.com CNAME .
 utiq.ariva.de CNAME .
+utiq.arquitecturaydiseno.es CNAME .
 utiq.atf-tagmanager.de CNAME .
 utiq.aufeminin.com CNAME .
 utiq.autobild.de CNAME .
@@ -58,7 +60,9 @@ utiq.buzzfeed.de CNAME .
 utiq.bw24.de CNAME .
 utiq.bz-berlin.de CNAME .
 utiq.caminteresse.fr CNAME .
+utiq.canarias7.es CNAME .
 utiq.capital.fr CNAME .
+utiq.centrepresseaveyron.fr CNAME .
 utiq.cesoirtv.com CNAME .
 utiq.chartsinfrance.net CNAME .
 utiq.cheriefm.fr CNAME .
@@ -155,6 +159,8 @@ utiq.kreisbote.de CNAME .
 utiq.kreiszeitung.de CNAME .
 utiq.kundendienst-info.de CNAME .
 utiq.lachainemeteo.com CNAME .
+utiq.ladepeche.fr CNAME .
+utiq.lagacetadesalamanca.es CNAME .
 utiq.landtiere.de CNAME .
 utiq.laopinioncoruna.es CNAME .
 utiq.laopiniondemalaga.es CNAME .
@@ -165,6 +171,7 @@ utiq.lardennais.fr CNAME .
 utiq.larepubliquedespyrenees.fr CNAME .
 utiq.larioja.com CNAME .
 utiq.lasprovincias.es CNAME .
+utiq.lauterbacher-anzeiger.de CNAME .
 utiq.laverdad.es CNAME .
 utiq.lavoixdunord.fr CNAME .
 utiq.lavozdigital.es CNAME .
@@ -178,6 +185,7 @@ utiq.lest-eclair.fr CNAME .
 utiq.levante-emv.com CNAME .
 utiq.lexpress.fr CNAME .
 utiq.liberation-champagne.fr CNAME .
+utiq.lindependant.fr CNAME .
 utiq.lne.es CNAME .
 utiq.lunion.fr CNAME .
 utiq.madmoizelle.com CNAME .
@@ -190,6 +198,7 @@ utiq.mariefrance.fr CNAME .
 utiq.marmiton.org CNAME .
 utiq.meine-anzeigenzeitung.de CNAME .
 utiq.merkur.de CNAME .
+utiq.midilibre.fr CNAME .
 utiq.millenium.gg CNAME .
 utiq.millenium.org CNAME .
 utiq.mittelbayerische.de CNAME .
@@ -206,6 +215,7 @@ utiq.nordlittoral.fr CNAME .
 utiq.nostalgie.fr CNAME .
 utiq.nrj-play.fr CNAME .
 utiq.nrj.fr CNAME .
+utiq.nrpyrenees.fr CNAME .
 utiq.numerama.com CNAME .
 utiq.oberhessische-zeitung.de CNAME .
 utiq.op-online.de CNAME .
@@ -216,6 +226,7 @@ utiq.paris-normandie.fr CNAME .
 utiq.paroledemamans.com CNAME .
 utiq.petbook-magazine.com CNAME .
 utiq.petbook.de CNAME .
+utiq.petitbleu.fr CNAME .
 utiq.pleinevie.fr CNAME .
 utiq.pnp.de CNAME .
 utiq.programme.tv CNAME .
@@ -227,6 +238,7 @@ utiq.renault.fr CNAME .
 utiq.renew.auto CNAME .
 utiq.rireetchansons.fr CNAME .
 utiq.rmcbfmplay.com CNAME .
+utiq.rugbyrama.fr CNAME .
 utiq.salamancahoy.es CNAME .
 utiq.sauerlandkurier.de CNAME .
 utiq.schlager.de CNAME .

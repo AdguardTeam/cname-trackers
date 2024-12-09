@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -74,7 +74,6 @@ sun.solar-haus.de CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
 track.dictum-handwerksgalerie.de CNAME .
 track.dictum-shop.de CNAME .
-track.dictum.com CNAME .
 track.karlstorz.com CNAME .
 track.richtig-schaerfen.de CNAME .
 track.thegundogaffair.com CNAME .
@@ -84,6 +83,7 @@ wa.ostermann.eu CNAME .
 wctr.hh-klebetechnologie.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
 wctr.menkenunddrees.de CNAME .
+wctr.moenninghoff.net CNAME .
 wctr.vitanova-kliniken.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
@@ -100,6 +100,7 @@ webcontr.reisprinzen.de CNAME .
 webcontr.rollytoys.de CNAME .
 webcontr.ryzon.net CNAME .
 webcontr.synvia.de CNAME .
+webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .
 webtr.dachser.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -93,6 +93,7 @@ a8.denwa-kanyuken.com CNAME .
 a8.diakaimasu.jp CNAME .
 a8.doctorstretch.com CNAME .
 a8.dolcibolle.com CNAME .
+a8.donnatokimo-wifi.jp CNAME .
 a8.drinco.jp CNAME .
 a8.dstation.jp CNAME .
 a8.dymtech.jp CNAME .
@@ -357,6 +358,7 @@ a8.wifi-tokyo-rentalshop.com CNAME .
 a8.wifi.erasutamo.onlinestaff.jp CNAME .
 a8.willcloud.jp CNAME .
 a8.williesenglish.jp CNAME .
+a8.wimax-broad.jp CNAME .
 a8.wizrecruitment.012grp.co.jp CNAME .
 a8.woodlife.jp CNAME .
 a8.worldikids.com CNAME .
@@ -589,6 +591,7 @@ a8clk.mouse-jp.co.jp CNAME .
 a8clk.moving.a-tm.co.jp CNAME .
 a8clk.mutukistyle.com CNAME .
 a8clk.muumuu-domain.com CNAME .
+a8clk.mynavi-cr.jp CNAME .
 a8clk.mynavi-creator.jp CNAME .
 a8clk.mynavi-job20s.jp CNAME .
 a8clk.mypage.awesome-wash.com CNAME .
@@ -721,9 +724,11 @@ a8clk.www.duskin-hozumi.co.jp CNAME .
 a8clk.www.duskin-hozumi.com CNAME .
 a8clk.www.duskin-hozumi.jp CNAME .
 a8clk.www.e87.com CNAME .
+a8clk.www.eco-life.tokyo CNAME .
 a8clk.www.fitnessshop.jp CNAME .
 a8clk.www.flierinc.com CNAME .
 a8clk.www.gaihekitosou-partners.jp CNAME .
+a8clk.www.golf-station.net CNAME .
 a8clk.www.green-dog.com CNAME .
 a8clk.www.italki.com CNAME .
 a8clk.www.jaf.or.jp CNAME .
@@ -773,6 +778,7 @@ a8cv.a-ru-ku.co.jp CNAME .
 a8cv.a-satei.com CNAME .
 a8cv.accelfacter.co.jp CNAME .
 a8cv.access-jp.jp CNAME .
+a8cv.adv.gr.jp CNAME .
 a8cv.aff.life-110.com CNAME .
 a8cv.ageru-career.com CNAME .
 a8cv.aiambeauty.jp CNAME .
@@ -861,6 +867,7 @@ a8cv.crefus.jp CNAME .
 a8cv.crowdcredit.jp CNAME .
 a8cv.crowdlinks.jp CNAME .
 a8cv.cv2308001.tanomelu.com CNAME .
+a8cv.cx-cloud.jp CNAME .
 a8cv.daini-agent.jp CNAME .
 a8cv.daisenham.com CNAME .
 a8cv.danipita.com CNAME .
@@ -1085,7 +1092,6 @@ a8cv.ms-toushiguide.jp CNAME .
 a8cv.mura.ne.jp CNAME .
 a8cv.my-arrow.co.jp CNAME .
 a8cv.nagatani-shop.com CNAME .
-a8cv.naiagym.com CNAME .
 a8cv.naire-seisakusho.jp CNAME .
 a8cv.naradenryoku.co.jp CNAME .
 a8cv.naris-online.jp CNAME .
@@ -1133,6 +1139,7 @@ a8cv.paintory.com CNAME .
 a8cv.palms-gym.com CNAME .
 a8cv.pf.classicmusic.tokyo CNAME .
 a8cv.phonim.com CNAME .
+a8cv.photo.concorde-corp.jp CNAME .
 a8cv.photojoy.jp CNAME .
 a8cv.physiqueframe.com CNAME .
 a8cv.picksitter.com CNAME .
@@ -1246,6 +1253,7 @@ a8cv.techkidsschool.jp CNAME .
 a8cv.tenishokunext.jp CNAME .
 a8cv.tenkuryo.jp CNAME .
 a8cv.tenshinocart.com CNAME .
+a8cv.tintle.net CNAME .
 a8cv.tmix.jp CNAME .
 a8cv.tokei-syuri.jp CNAME .
 a8cv.toko-navi.com CNAME .
@@ -1276,7 +1284,6 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
-a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .
@@ -1323,12 +1330,14 @@ a8cv.zacc.jp CNAME .
 a8cv.zeal-agent.com CNAME .
 a8cv.zeroen-denki.com CNAME .
 a8cv.zerorenovation.com CNAME .
+a8cv.zita.life CNAME .
 a8cv.zoner.com CNAME .
 a8cv2.handmade-ch.jp CNAME .
 a8cv2.jm-neo.com CNAME .
 a8cv2.vapelog.jp CNAME .
 a8cventry.uqwimax.jp CNAME .
 a8cvhoiku.kidsmate.jp CNAME .
+a8cvt.care-wing.jp CNAME .
 a8cvtrack.sincere-garden.jp CNAME .
 a8cvtrack.tokai.jp CNAME .
 a8dev.hikarinet-s.com CNAME .

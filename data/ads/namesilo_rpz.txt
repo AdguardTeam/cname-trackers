@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -625,6 +625,7 @@ $TTL 300
 3572283.notifysrv.com CNAME .
 3572285.notifysrv.com CNAME .
 3572293.notifysrv.com CNAME .
+3572295.notify6.com CNAME .
 3572299.notify6.com CNAME .
 3572299.notifysrv.com CNAME .
 3572301.notify6.com CNAME .
@@ -985,6 +986,7 @@ $TTL 300
 4162264.notify6.com CNAME .
 4165670.notify6.com CNAME .
 4166040.notify6.com CNAME .
+4170408.notify6.com CNAME .
 4172026.notify6.com CNAME .
 4173044.notify6.com CNAME .
 4177784.notify6.com CNAME .
@@ -1131,6 +1133,7 @@ $TTL 300
 5085594.notify6.com CNAME .
 5111734.notify6.com CNAME .
 5114166.notify6.com CNAME .
+5118920.notify6.com CNAME .
 5121952.notify6.com CNAME .
 5129508.notify6.com CNAME .
 5131774.notify6.com CNAME .
@@ -1174,6 +1177,7 @@ a.b7q9v8z.com CNAME .
 a.cant3am.com CNAME .
 a.etology.com CNAME .
 a.eunow4u.com CNAME .
+a.huklop.com CNAME .
 a.ma3ion.com CNAME .
 a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
@@ -1499,6 +1503,7 @@ www.3475335.notify6.com CNAME .
 www.3493551.notify6.com CNAME .
 www.3501655.notify6.com CNAME .
 www.3512165.notifysrv.com CNAME .
+www.3572295.notify6.com CNAME .
 www.3593835.notify6.com CNAME .
 www.3618947.notify6.com CNAME .
 www.3662839.notify6.com CNAME .
@@ -1524,6 +1529,7 @@ www.4160048.notify6.com CNAME .
 www.4195388.notify6.com CNAME .
 www.4270606.notify6.com CNAME .
 www.4389756.notify6.com CNAME .
+www.4455804.notify6.com CNAME .
 www.8.notify.bizonads-ssp.com CNAME .
 www.android.notifysrv.com CNAME .
 www.exaapi.com CNAME .

@@ -197,6 +197,7 @@ ebis-tracking.tcb-ginza.com
 ebis-tracking.tcb-mito.com
 ebis-tracking.tcb-recruit.com
 ebis-tracking.tcb-setagaya.com
+ebis-tracking.tcb-shibuya.com
 ebis.15jikai.com
 ebis.2jikaikun.com
 ebis.aibashiro.jp

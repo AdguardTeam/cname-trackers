@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -154,6 +154,7 @@ cdna.paiement.cofidis.fr CNAME .
 cdna.paymentncb.cofidis.es CNAME .
 cdna.paymentncb.cofidis.fr CNAME .
 cdna.rqt-paiement.cofidis.fr CNAME .
+cdna.tiranabank.al CNAME .
 cdna.tst-paiement.cofidis.fr CNAME .
 cdna.xotto.de CNAME .
 cdna.zopa.com CNAME .
@@ -359,6 +360,7 @@ content.shop.post.ch CNAME .
 content.solutions-corporate.com CNAME .
 content.spincasino.ca CNAME .
 content.sportchek.ca CNAME .
+content.sportscheck.ch CNAME .
 content.sportscheck.com CNAME .
 content.sportsexperts.ca CNAME .
 content.ssctech.com CNAME .
@@ -430,6 +432,7 @@ contentimage.fretebras.com.br CNAME .
 contentinfo.tcdrs.org CNAME .
 contentmx.okcoin.com CNAME .
 contentneworks.nebraska.gov CNAME .
+contents.healthfirst.org CNAME .
 contentservices.ascendloans.com CNAME .
 contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
@@ -621,6 +624,7 @@ info.betway.lat CNAME .
 info.betway.ng CNAME .
 info.betwaypartnersafrica.com CNAME .
 info.jackpotcity.co.za CNAME .
+intl.payu.in CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
 invalid-qa2.threatmetrix.com CNAME .
@@ -681,7 +685,6 @@ mobile-tmx.ssisurveys.com CNAME .
 mobile.du.ae CNAME .
 mobilecontent.networks.prod.p0.phx-infra.com CNAME .
 mobilecontent.projectdrgn.com CNAME .
-mobsessions.worldremit.com CNAME .
 msimkpups.michaels.com CNAME .
 mtx.thirdstream.ca CNAME .
 nav.sciencedirect.com CNAME .
@@ -828,6 +831,9 @@ rba.phub-im.uhg.com CNAME .
 rbawis.pocketcard.co.jp CNAME .
 rebatecontent.finance.delaware.gov CNAME .
 regstat.betfair.com CNAME .
+regstat.betfair.es CNAME .
+regstat.betfair.ro CNAME .
+regstat.betfair.se CNAME .
 regstat.paddypower.com CNAME .
 regstat.skybet.com CNAME .
 regstat.skybetservices.com CNAME .
@@ -836,6 +842,7 @@ regstat.skycasino.com CNAME .
 regstat.skypoker.com CNAME .
 regstat.skyvegas.com CNAME .
 req.secured-content.com CNAME .
+res.1wcommon.com CNAME .
 res.pay.ionos.com CNAME .
 rfp.intuit.com CNAME .
 rhino.gocardless.com CNAME .
@@ -1049,6 +1056,7 @@ tm.stats.home24.at CNAME .
 tm.stats.home24.be CNAME .
 tm.stats.home24.ch CNAME .
 tm.stats.home24.de CNAME .
+tm.stats.home24.fr CNAME .
 tm.stats.home24.it CNAME .
 tm.stats.home24.nl CNAME .
 tm.stoiximan.com.cy CNAME .
@@ -1097,7 +1105,6 @@ tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .
 tmx-fpt.credit-agricole.pl CNAME .
 tmx.additionfi.com CNAME .
-tmx.astroline.today CNAME .
 tmx.banquemanuvie.com CNAME .
 tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .
@@ -1194,6 +1201,7 @@ ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www.content.bnl.it CNAME .
 www.content.espace-client.hellobank.fr CNAME .
+www.content.mabanqueprivee.bnpparibas CNAME .
 www.content.mabanquepro.bnpparibas CNAME .
 xfp.intuit.com CNAME .
 xmt.paze.com CNAME .

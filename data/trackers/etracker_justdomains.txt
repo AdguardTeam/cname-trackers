@@ -63,7 +63,6 @@ sun.solar-haus.de
 track.dictum-gartenwerkzeug.de
 track.dictum-handwerksgalerie.de
 track.dictum-shop.de
-track.dictum.com
 track.karlstorz.com
 track.richtig-schaerfen.de
 track.thegundogaffair.com
@@ -73,6 +72,7 @@ wa.ostermann.eu
 wctr.hh-klebetechnologie.de
 wctr.kunststoff-schachtabdeckungen.com
 wctr.menkenunddrees.de
+wctr.moenninghoff.net
 wctr.vitanova-kliniken.de
 webanalytics.pwc.fr
 webaus.dw-shop.de
@@ -89,6 +89,7 @@ webcontr.reisprinzen.de
 webcontr.rollytoys.de
 webcontr.ryzon.net
 webcontr.synvia.de
+webcontr.verpoorten-mall.de
 webcontr.verpoorten.de
 webcontr.vetter-pharma.com
 webtr.dachser.com

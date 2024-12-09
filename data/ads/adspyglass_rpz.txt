@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,6 +59,7 @@ $TTL 300
 6cf0e7801e8cd.clicknplay.to CNAME .
 784.56ovido.site CNAME .
 7bd3d001ff6.clicknplay.to CNAME .
+879.thebussybandit.com CNAME .
 938az.xyz CNAME .
 a.1appup.com CNAME .
 a.1film.to CNAME .
@@ -229,6 +230,7 @@ adsxtits.pro CNAME .
 advocate420.fun CNAME .
 adxhand.name CNAME .
 adzilla.name CNAME .
+akm3w.pleasedonotblockme.com CNAME .
 alaot.com CNAME .
 alkosalvb.filasofighit.com CNAME .
 analytics-uat.bloblohub.com CNAME .
@@ -433,6 +435,7 @@ cx6.lastxxxmovies.com CNAME .
 d.3dfetishgirls.com CNAME .
 d.adultporn.tv CNAME .
 d.bloblohub.com CNAME .
+daldk.com CNAME .
 dash.bloblohub.com CNAME .
 daswercd.filasofighit.com CNAME .
 data.bangtubevideos.com CNAME .
@@ -585,7 +588,6 @@ heatjav12.fun CNAME .
 hegdcrxavrtk.cdnvideo3.com CNAME .
 helmpa.xyz CNAME .
 help.fanza.cc CNAME .
-hero3.nude-asian-videos.com CNAME .
 hjdw.tjaard11.xyz CNAME .
 hookjav12.fun CNAME .
 hotpornpro.com CNAME .
@@ -733,7 +735,9 @@ meatjav11.fun CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 menkaox.xyz CNAME .
+meorzoi.xyz CNAME .
 mestierediscrivere.hubhubhub.name CNAME .
+metroiz.xyz CNAME .
 metzia.xyz CNAME .
 mficlyxgvfsp.cdnvideo3.com CNAME .
 mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
@@ -1020,7 +1024,6 @@ starjav11.fun CNAME .
 staticz.hotpornfile.org CNAME .
 strikebreaker3x.fun CNAME .
 stuff.wikiporno.org CNAME .
-sub.empressleak.biz CNAME .
 subcom.uiiumovie.com CNAME .
 subfun.uiiumovie.fun CNAME .
 suckae.xyz CNAME .
@@ -1029,6 +1032,7 @@ supplementary2.fun CNAME .
 support.streamjav.top CNAME .
 switch1266.fun CNAME .
 switchjavgg124.fun CNAME .
+t.hoes.tube CNAME .
 tagmai.xyz CNAME .
 tagrua.xyz CNAME .
 talented3452.fun CNAME .
@@ -1184,12 +1188,4 @@ zi3nna.xyz CNAME .
 zinipx.xyz CNAME .
 zv.7vid.net CNAME .
 ad.desibp.com CNAME .
-aoihaizo.xyz CNAME .
-bazao.xyz CNAME .
-eznoz.xyz CNAME .
-kaizzz.xyz CNAME .
-manboo.xyz CNAME .
-mziso.xyz CNAME .
-panoz.xyz CNAME .
-quantoz.xyz CNAME .
 javguru.gggsss.site CNAME .

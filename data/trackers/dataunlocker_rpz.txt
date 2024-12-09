@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,7 @@ $TTL 300
 16i6nuuc2ej.koelewijn.nl CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
+1b6wvktphtz.stresshelden-coaching.de CNAME .
 1baq2nvd6n7.www.keevowallet.com CNAME .
 1bpmtrvkqkj.pettoonies.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
@@ -131,6 +132,7 @@ w38ju82bano4.cv.gerardbosch.xyz CNAME .
 wayyaj8t094u.www.kodalia.com CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
+xtxclegp6zan.landing.uprava.tk CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
 yrjpgjv35y9x.salud-masculina.info CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .

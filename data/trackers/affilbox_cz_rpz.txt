@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -53,6 +53,7 @@ affil.knihazenasnov.sk CNAME .
 affil.kralovstvi-tiande.cz CNAME .
 affil.lesgoodies.com CNAME .
 affil.litinove-nadobi.cz CNAME .
+affil.lojdovale.cz CNAME .
 affil.moringamix.cz CNAME .
 affil.mydrinks.cz CNAME .
 affil.nanoshop.cz CNAME .
@@ -756,6 +757,7 @@ partner.unuo.de CNAME .
 partner.vataonline.cz CNAME .
 partner.vffoto.com CNAME .
 partner.virulent.cz CNAME .
+partner.vivabeauty.cz CNAME .
 partner.vladimirekart.cz CNAME .
 partner.volne-reality.cz CNAME .
 partner.vyprodejskladu.com CNAME .
@@ -830,6 +832,7 @@ partneri.hopsaj.sk CNAME .
 partneri.incacollagen.eu CNAME .
 partneri.intimfitness.cz CNAME .
 partneri.jakofenix.cz CNAME .
+partneri.jazykovavyzva.cz CNAME .
 partneri.jazykovedarky.cz CNAME .
 partneri.jazykyodpiky.cz CNAME .
 partneri.jipos.cz CNAME .

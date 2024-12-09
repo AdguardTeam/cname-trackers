@@ -614,6 +614,7 @@
 3572283.notifysrv.com
 3572285.notifysrv.com
 3572293.notifysrv.com
+3572295.notify6.com
 3572299.notify6.com
 3572299.notifysrv.com
 3572301.notify6.com
@@ -974,6 +975,7 @@
 4162264.notify6.com
 4165670.notify6.com
 4166040.notify6.com
+4170408.notify6.com
 4172026.notify6.com
 4173044.notify6.com
 4177784.notify6.com
@@ -1120,6 +1122,7 @@
 5085594.notify6.com
 5111734.notify6.com
 5114166.notify6.com
+5118920.notify6.com
 5121952.notify6.com
 5129508.notify6.com
 5131774.notify6.com
@@ -1163,6 +1166,7 @@ a.b7q9v8z.com
 a.cant3am.com
 a.etology.com
 a.eunow4u.com
+a.huklop.com
 a.ma3ion.com
 a.mx.notifysrv.com
 a.n4m5x60.com
@@ -1488,6 +1492,7 @@ www.3475335.notify6.com
 www.3493551.notify6.com
 www.3501655.notify6.com
 www.3512165.notifysrv.com
+www.3572295.notify6.com
 www.3593835.notify6.com
 www.3618947.notify6.com
 www.3662839.notify6.com
@@ -1513,6 +1518,7 @@ www.4160048.notify6.com
 www.4195388.notify6.com
 www.4270606.notify6.com
 www.4389756.notify6.com
+www.4455804.notify6.com
 www.8.notify.bizonads-ssp.com
 www.android.notifysrv.com
 www.exaapi.com

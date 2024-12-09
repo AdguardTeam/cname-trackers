@@ -245,6 +245,7 @@ plausible.strzibny.name
 plausible.sysloun.cz
 plausible.tac.dappstar.io
 plausible.tasteslikeme.ca
+plausible.thefutureoftheworkplacebook.com
 plausible.tlschedule.com
 plausible.treelightsoftware.com
 plausible.urbanekuensteruhr.de
@@ -403,7 +404,6 @@ stats.coachinghive.com
 stats.code-it-studio.de
 stats.codinginfinity.me
 stats.codis.io
-stats.coditia.com
 stats.cohere.so
 stats.coldbox.org
 stats.connect.pm
@@ -418,6 +418,7 @@ stats.crewebo.de
 stats.crypdit.com
 stats.curbnumberpro.com
 stats.curtiscummings.me
+stats.cymbiant.co.uk
 stats.dailyposter.com
 stats.danestevens.dev
 stats.danielwolf.photography
@@ -490,9 +491,11 @@ stats.findvax.us
 stats.flightsphere.com
 stats.florianfritz.net
 stats.flowphantom.com
+stats.footwork.co
 stats.frantic.im
 stats.frenlo.com
 stats.fs4c.org
+stats.fsvdr.me
 stats.fundimmo.com
 stats.fungus.computer
 stats.galeb.org
@@ -528,7 +531,6 @@ stats.homestow.com
 stats.hpz-scharnhausen.de
 stats.htmlcsstoimage.com
 stats.htp.org
-stats.hugoreeves.com
 stats.huysmanbouw.be
 stats.iamzero.dev
 stats.ibuildings.net
@@ -652,6 +654,7 @@ stats.nerdbusiness.com
 stats.new.sublimesecurity.com
 stats.newslit.co
 stats.nexagon.dk
+stats.nice.kiwi
 stats.niceshitforbitcoiners.com
 stats.nodewood.com
 stats.noeticflow.com
@@ -697,7 +700,6 @@ stats.photographer.com.au
 stats.pinoymusicstation.com
 stats.piplette.co
 stats.pitstone.co.uk
-stats.plainsending.com
 stats.planxti.com
 stats.playoutgame.app
 stats.poesieundgenuss.com
@@ -755,7 +757,6 @@ stats.screenagers.com
 stats.screenwavemedia.com
 stats.seanbailey.dev
 stats.sebastiandombrowski.de
-stats.sebastiangale.ca
 stats.selectam.io
 stats.sendngnt.com
 stats.servicedesignjobs.com
@@ -816,6 +817,7 @@ stats.tms-development.de
 stats.tms-institut.de
 stats.tnc.sc
 stats.toiletmap.org.uk
+stats.topstudyworld.com
 stats.training.fit
 stats.travelfodder.com
 stats.trenntoi.de

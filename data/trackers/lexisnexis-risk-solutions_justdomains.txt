@@ -143,6 +143,7 @@ cdna.paiement.cofidis.fr
 cdna.paymentncb.cofidis.es
 cdna.paymentncb.cofidis.fr
 cdna.rqt-paiement.cofidis.fr
+cdna.tiranabank.al
 cdna.tst-paiement.cofidis.fr
 cdna.xotto.de
 cdna.zopa.com
@@ -348,6 +349,7 @@ content.shop.post.ch
 content.solutions-corporate.com
 content.spincasino.ca
 content.sportchek.ca
+content.sportscheck.ch
 content.sportscheck.com
 content.sportsexperts.ca
 content.ssctech.com
@@ -419,6 +421,7 @@ contentimage.fretebras.com.br
 contentinfo.tcdrs.org
 contentmx.okcoin.com
 contentneworks.nebraska.gov
+contents.healthfirst.org
 contentservices.ascendloans.com
 contentservices.brightlending.com
 contentservices.clearairlending.com
@@ -610,6 +613,7 @@ info.betway.lat
 info.betway.ng
 info.betwaypartnersafrica.com
 info.jackpotcity.co.za
+intl.payu.in
 intlsdpntrca.nitrocasino.ca
 intm.amwager.com
 invalid-qa2.threatmetrix.com
@@ -670,7 +674,6 @@ mobile-tmx.ssisurveys.com
 mobile.du.ae
 mobilecontent.networks.prod.p0.phx-infra.com
 mobilecontent.projectdrgn.com
-mobsessions.worldremit.com
 msimkpups.michaels.com
 mtx.thirdstream.ca
 nav.sciencedirect.com
@@ -817,6 +820,9 @@ rba.phub-im.uhg.com
 rbawis.pocketcard.co.jp
 rebatecontent.finance.delaware.gov
 regstat.betfair.com
+regstat.betfair.es
+regstat.betfair.ro
+regstat.betfair.se
 regstat.paddypower.com
 regstat.skybet.com
 regstat.skybetservices.com
@@ -825,6 +831,7 @@ regstat.skycasino.com
 regstat.skypoker.com
 regstat.skyvegas.com
 req.secured-content.com
+res.1wcommon.com
 res.pay.ionos.com
 rfp.intuit.com
 rhino.gocardless.com
@@ -1038,6 +1045,7 @@ tm.stats.home24.at
 tm.stats.home24.be
 tm.stats.home24.ch
 tm.stats.home24.de
+tm.stats.home24.fr
 tm.stats.home24.it
 tm.stats.home24.nl
 tm.stoiximan.com.cy
@@ -1086,7 +1094,6 @@ tmt.houzz.com
 tmuat.kotak.com
 tmx-fpt.credit-agricole.pl
 tmx.additionfi.com
-tmx.astroline.today
 tmx.banquemanuvie.com
 tmx.bestbuy.com
 tmx.beyondbank.com.au
@@ -1183,6 +1190,7 @@ ww9.lloydsbank.com
 www.cdna.cofidis.be
 www.content.bnl.it
 www.content.espace-client.hellobank.fr
+www.content.mabanqueprivee.bnpparibas
 www.content.mabanquepro.bnpparibas
 xfp.intuit.com
 xmt.paze.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,6 +30,7 @@ counter.storydragon.nl CNAME .
 gc.his2nd.life CNAME .
 gc.mindenugyved.hu CNAME .
 gc.neiku.org CNAME .
+gc.noscirep.com CNAME .
 gc.sanyamkapoor.com CNAME .
 gc.securitydungeon.sk CNAME .
 gc.tbx.at CNAME .
@@ -49,6 +50,7 @@ goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
 moo.geopogs.party CNAME .
 novi.webnovi.eu CNAME .
+pageviews.unbegames.com CNAME .
 ping.irisphotos.app CNAME .
 pixel.embed.su CNAME .
 st.mapleranks.com CNAME .
@@ -63,6 +65,7 @@ stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .
 stats.cassie.omg.lol CNAME .
+stats.celerry.com CNAME .
 stats.cgcristi.xyz CNAME .
 stats.cloudflex.team CNAME .
 stats.doarpstsjerke.nl CNAME .

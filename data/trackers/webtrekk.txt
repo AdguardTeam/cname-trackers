@@ -48,8 +48,6 @@
 ||analytics.myhermes.de^
 ||app03.ikk-classic.de^
 ||cdn7.baunetz.de^
-||census.misterspex.at^
-||census.misterspex.no^
 ||ctd.domusweb.it^
 ||ctdfm.ilgiornale.it^
 ||ctrkd.ilsole24ore.com^

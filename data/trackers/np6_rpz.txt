@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -343,6 +343,7 @@ tr.e.trouver-un-logement-neuf.com CNAME .
 tr.easy-offertes.be CNAME .
 tr.ecolab-france.fr CNAME .
 tr.ecologie-shop.espmp-agfr.net CNAME .
+tr.elections.simplivote.fr CNAME .
 tr.em.cdiscount-pro.com CNAME .
 tr.em.cdiscountpro.com CNAME .
 tr.email.aeroexpo.online CNAME .
@@ -425,6 +426,7 @@ tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
 tr.finance.moethennessy.com CNAME .
 tr.fleetmatics.vraaguwofferte.be CNAME .
+tr.fortuneo.com CNAME .
 tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
@@ -745,6 +747,7 @@ tr.news.cci-puydedome.com CNAME .
 tr.news.cdiscount.com CNAME .
 tr.news.cdiscountpro.com CNAME .
 tr.news.cenpac.fr CNAME .
+tr.news.cforadio.tv CNAME .
 tr.news.chapsvision.com CNAME .
 tr.news.chezmonveto.com CNAME .
 tr.news.chilican.com CNAME .
@@ -824,9 +827,6 @@ tr.news.lalettredelexpansion.com CNAME .
 tr.news.latribunebordeaux.fr CNAME .
 tr.news.leclubtravel.fr CNAME .
 tr.news.lentillesmoinscheres.com CNAME .
-tr.news.lentreprise.lexpress.fr CNAME .
-tr.news.lexpansion.lexpress.fr CNAME .
-tr.news.lexpress.fr CNAME .
 tr.news.libranoo.com CNAME .
 tr.news.linxea.com CNAME .
 tr.news.lisez.com CNAME .
@@ -860,7 +860,6 @@ tr.news.seine-estuaire.cci.fr CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
-tr.news.styles.lexpress.fr CNAME .
 tr.news.supercasino.fr CNAME .
 tr.news.teklifim.pro CNAME .
 tr.news.thelist-emirates.fr CNAME .
@@ -875,7 +874,6 @@ tr.news.vip-mag.co.uk CNAME .
 tr.news.vipmag.fr CNAME .
 tr.news.vivrecotesud.fr CNAME .
 tr.news.vo3000.com CNAME .
-tr.news.votreargent.lexpress.fr CNAME .
 tr.news.voyagesleclerc.com CNAME .
 tr.news.vraaguwofferte.be CNAME .
 tr.news.vraaguwofferte.com CNAME .
@@ -1075,6 +1073,7 @@ tr.smtp1.email-mediapost.fr CNAME .
 tr.solendi.com CNAME .
 tr.solocal.espmp-aufr.net CNAME .
 tr.solution.uneo.fr CNAME .
+tr.sorecson.fr CNAME .
 tr.sort.espmp-nifr.net CNAME .
 tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .

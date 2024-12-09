@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -154,7 +154,6 @@ servedby.sacommunications.com CNAME .
 servedby.schrotundkorn.de CNAME .
 servedby.tahoe.com CNAME .
 servedby.trackandfieldnews.com CNAME .
-servedby.twinriversmedia.com CNAME .
 server.ad.logic-prod.viasat.io CNAME .
 server.ad.logic.viasat.io CNAME .
 static.ad.logic-prod.viasat.io CNAME .
@@ -187,6 +186,7 @@ static.walaplusadserver.com CNAME .
 stommeplaatjes.geenstijl.nl CNAME .
 tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
+www.adconsole.proxibid.com CNAME .
 www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.api.adbility-media.com CNAME .

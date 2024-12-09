@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733126408591        ; Serial
+           1733731207644        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,20 +13,16 @@ $TTL 300
 
 3dm.3dimensional.com CNAME .
 a.evergage.com CNAME .
-a2.avomeen.com CNAME .
-aad-marketing.ascendeventmedia.com CNAME .
 aahamarketing.hubinternational.com CNAME .
 absinfo.eagle.org CNAME .
 act-on.ioactive.com CNAME .
 act.davistech.edu CNAME .
-act.lanap.com CNAME .
 act.pivotpointsecurity.com CNAME .
 act.soneticscorp.com CNAME .
 act.wernerelectric.com CNAME .
 actie.milieudefensie.nl CNAME .
 action.logixfiber.com CNAME .
 action.unifiedoffice.com CNAME .
-actis.boeingavenue8.nl CNAME .
 acton.brightspeed.com CNAME .
 acton.goldencomm.com CNAME .
 acton.oosis.com CNAME .
@@ -40,16 +36,11 @@ admit.mountsaintvincent.edu CNAME .
 advisers.kingstonsmith.co.uk CNAME .
 advisors.beaconfinserv.com CNAME .
 ae.cobweb.com CNAME .
-aginginplace.vyta.ca CNAME .
 alwayscare.starmountlife.com CNAME .
-analytics.rivaliq.com CNAME .
-ao.jsitel.com CNAME .
-ao.pioncomm.net CNAME .
 ao.tolydigital.net CNAME .
 aomarketing.blytheco.com CNAME .
 aooptout.zoominformation.com CNAME .
 aopcoms.aoptec.com CNAME .
-apply.levelupfunding.com CNAME .
 apply.maxlend.com CNAME .
 asiamarketing.sedgwick.com CNAME .
 at.sharpmarketing.eu CNAME .
@@ -61,12 +52,9 @@ axisinsurance.axiscapital.com CNAME .
 axisre.axiscapital.com CNAME .
 baptist-health.hrm.healthgrades.com CNAME .
 baptisthealth.hrm.healthgrades.com CNAME .
-bayarea.summitry.com CNAME .
 bcob.charlotte.edu CNAME .
 bcob.uncc.edu CNAME .
-becool.everydayindustries.com CNAME .
 biminibliss.rwbimini.com CNAME .
-biznews.oregon.gov CNAME .
 bizz.cochraneco.com CNAME .
 bjc.hrm.healthgrades.com CNAME .
 blog.trinityconsultants.com CNAME .
@@ -76,10 +64,10 @@ business.franchiseopportunities.com CNAME .
 business.matchd.nl CNAME .
 buzz.logility.com CNAME .
 buzz.neilsonmarketing.com CNAME .
-ca.promo.skf.com CNAME .
 ca.ssl.holdmybeerconsulting.com CNAME .
 calgary-content.cresa.com CNAME .
 campaign.csrxp.org CNAME .
+campaign.viessmann-cold.com CNAME .
 campaigns.hygiena.com CNAME .
 campaigns.micromass.com CNAME .
 campaigns.primaverabss.com CNAME .
@@ -104,17 +92,16 @@ communications.all-risks.com CNAME .
 communications.engineering.oregonstate.edu CNAME .
 communications.enrouteglobalexchange.com CNAME .
 communications.fernenergy.co.nz CNAME .
-communications.foyston.com CNAME .
 communications.globalwidemedia.com CNAME .
 communications.lydallpm.com CNAME .
 communications.meadowbrook.com CNAME .
 communications.prodways.com CNAME .
 communications.securityins.net CNAME .
 communications.taylorcorp.com CNAME .
+communications.westendadvisors.com CNAME .
 communications.worldtravelinc.com CNAME .
 communications.ypo.org CNAME .
 community.axiscapital.com CNAME .
-complianceupdates.aem.org CNAME .
 confiaen.legalitas.com CNAME .
 connect.azulseven.com CNAME .
 connect.chiropractic.ac.nz CNAME .
@@ -128,9 +115,9 @@ connect.lightriver.com CNAME .
 connect.mdtelephone.com CNAME .
 connect.mikrocentrum.nl CNAME .
 connect.opendoorerp.com CNAME .
+connect.prowareness.nl CNAME .
 connect.riseengineering.com CNAME .
 connect.rush.edu CNAME .
-connect.sfscapital.com CNAME .
 connect.shopaplusrentals.com CNAME .
 connect.shopezrentals.com CNAME .
 connect.shoprentone.com CNAME .
@@ -150,6 +137,7 @@ content.fabasoft.com CNAME .
 content.harrisproductsgroup.com CNAME .
 content.linesight.com CNAME .
 content.logile.com CNAME .
+content.mhs.net CNAME .
 content.mrgmarketing.net CNAME .
 content.msufcu.org CNAME .
 content.ncek12.com CNAME .
@@ -158,10 +146,10 @@ content.palram.com CNAME .
 content.qumulo.com CNAME .
 content.sffirecu.org CNAME .
 content.xpublisher.com CNAME .
+content2.talkshoe.com CNAME .
 corporate-marketing.hrs.com CNAME .
 corporate.averydennison.com CNAME .
 crm.casabaca.com CNAME .
-crm.childrens.com CNAME .
 crm.toyotago.com.ec CNAME .
 crmcommunications.progressive.com CNAME .
 cure.trueface.org CNAME .
@@ -171,6 +159,7 @@ dallas-content.cresa.com CNAME .
 dav.davrontech.com CNAME .
 de.sharpmarketing.eu CNAME .
 dealercontent.homehardware.ca CNAME .
+depot.cranepi.com CNAME .
 devotionalclicks.amazingfacts.org CNAME .
 dialog.dqs.de CNAME .
 digital.opsbase.com CNAME .
@@ -192,6 +181,7 @@ edeals.rhymebiz.com CNAME .
 education.brettdanko.com CNAME .
 education.eatoncambridge.com CNAME .
 education.greatbatch.com CNAME .
+edward.hrm.healthgrades.com CNAME .
 em-info2.thermofisher.com CNAME .
 em.stauffersafety.com CNAME .
 email-hg.holyredeemer.com CNAME .
@@ -200,6 +190,7 @@ email.cobsbread.com CNAME .
 email.zumaoffice.com CNAME .
 emailmarketing.vidanthealth.com CNAME .
 engage.atriosystems.com CNAME .
+engage.figmarketing.com CNAME .
 engage.krm22.com CNAME .
 engage.nigp.org CNAME .
 engage.permission.com.au CNAME .
@@ -213,11 +204,9 @@ equity.e2g.com CNAME .
 es.sharpmarketing.eu CNAME .
 eservices.lubetech.com CNAME .
 estore.biscoind.com CNAME .
-etude.epidemiologie-pop-ge.ch CNAME .
 eu.sharpmarketing.eu CNAME .
 eumarketing.sedgwick.com CNAME .
 events.trapptechnology.com CNAME .
-exdmarketing.smu.edu.sg CNAME .
 execreps.actonsoftware.com CNAME .
 experience.faiu.com CNAME .
 experience.rochesterregional.org CNAME .
@@ -232,8 +221,10 @@ foodpackaging.kpfilms.com CNAME .
 forms.accc-cancer.org CNAME .
 forpci3.siege-corp.com CNAME .
 fr.sharpmarketing.eu CNAME .
-franchise.abc-seniors.com CNAME .
+franchise.bmave.com CNAME .
 franchise.goodearthcoffeehouse.com CNAME .
+franchise.scorepizza.ca CNAME .
+franchisemarketing.beavertails.com CNAME .
 franchiserecruitment.laserclinics.ca CNAME .
 franchising.indooractivebrands.com CNAME .
 franchising.kas.co.nz CNAME .
@@ -246,6 +237,7 @@ gettoknow.skookum.com CNAME .
 global.raboag.com CNAME .
 globalcommunications.sc.com CNAME .
 glue.evansadhesive.com CNAME .
+go.aculab.com CNAME .
 go.alliancefunds.com CNAME .
 go.americangriddle.com CNAME .
 go.anthonyliftgates.com CNAME .
@@ -268,6 +260,7 @@ go.getreadyforthefuture.com CNAME .
 go.godunnage.com CNAME .
 go.gpcom.com CNAME .
 go.hatcocorp.com CNAME .
+go.lanair.com CNAME .
 go.leecompany.com CNAME .
 go.loveshaw.com CNAME .
 go.madisoncollege.edu CNAME .
@@ -305,6 +298,7 @@ gobeyond.superiorgroup.com CNAME .
 grado.ufv.es CNAME .
 groupevents.sixflags.com CNAME .
 hancockhealth.hancockregional.org CNAME .
+hcagulfcoast.hrm.healthgrades.com CNAME .
 health.brgeneral.org CNAME .
 health.hillcrest.com CNAME .
 hello.controlmap.io CNAME .
@@ -319,15 +313,17 @@ hub.hubfinancial.com CNAME .
 icslearn.actonsoftware.com CNAME .
 il.promo.skf.com CNAME .
 independence.americanportfolios.com CNAME .
+indigobusiness.actonsoftware.com CNAME .
 info-pacific.marsh.com CNAME .
+info.acacialearning.co.uk CNAME .
 info.acacialearning.com CNAME .
+info.accupurls.com CNAME .
 info.accutrain.com CNAME .
 info.acoginsurance.com CNAME .
 info.advantageman.com CNAME .
 info.aestiva.com CNAME .
 info.allcatcoverage.com CNAME .
 info.alticoadvisors.com CNAME .
-info.americanroller.com CNAME .
 info.apbspeakers.com CNAME .
 info.apisensor.com CNAME .
 info.apparound.com CNAME .
@@ -335,13 +331,13 @@ info.archerdx.com CNAME .
 info.ascassociation.org CNAME .
 info.ashergroup.com CNAME .
 info.assure360.com CNAME .
+info.astronovainc.com CNAME .
 info.atlastravel.com CNAME .
 info.augustahealth.org CNAME .
 info.authentic4d.com CNAME .
 info.autozonepro.com CNAME .
 info.avantiplc.com CNAME .
 info.avmalife.org CNAME .
-info.avtechcapital.com CNAME .
 info.base2s.com CNAME .
 info.battelle.org CNAME .
 info.beaumont.org CNAME .
@@ -349,6 +345,7 @@ info.bellingrathwealth.com CNAME .
 info.bgi.com CNAME .
 info.bkifg.com CNAME .
 info.blazecu.com CNAME .
+info.bluebirdfiber.com CNAME .
 info.briefing.com CNAME .
 info.bris.bdo.com.au CNAME .
 info.burnswhite.com CNAME .
@@ -372,7 +369,6 @@ info.constellationbehavioralhealth.com CNAME .
 info.cpenow.com CNAME .
 info.cranes101.com CNAME .
 info.createeveryopportunity.org CNAME .
-info.ctg.com CNAME .
 info.ctiimage.com CNAME .
 info.dailybuzzbarrel.com CNAME .
 info.data-basics.com CNAME .
@@ -382,6 +378,7 @@ info.digitalsys.com CNAME .
 info.dimensionfunding.com CNAME .
 info.dlancegolf.com CNAME .
 info.doigcorp.com CNAME .
+info.dpglearn.co.uk CNAME .
 info.drawingboard.com CNAME .
 info.duprelogistics.com CNAME .
 info.easealert.com CNAME .
@@ -390,11 +387,10 @@ info.edriving.com CNAME .
 info.edtrainingcenter.com CNAME .
 info.eecoonline.com CNAME .
 info.electrifai.net CNAME .
+info.em-ametek.com CNAME .
 info.emergentsx.com CNAME .
 info.emishealth.com CNAME .
-info.enchantedrock.com CNAME .
 info.enduraproducts.com CNAME .
-info.esribangladesh.com.bd CNAME .
 info.esriindonesia.co.id CNAME .
 info.esrimalaysia.com.my CNAME .
 info.etap.com CNAME .
@@ -430,6 +426,7 @@ info.healthcarescene.com CNAME .
 info.heartflow.com CNAME .
 info.heirtight.co CNAME .
 info.helens.se CNAME .
+info.helpfullending.com CNAME .
 info.hiway.org CNAME .
 info.holisticprimarycare.net CNAME .
 info.horizononline.com CNAME .
@@ -440,6 +437,7 @@ info.icslearn.co.uk CNAME .
 info.ijungo.com CNAME .
 info.imagethink.net CNAME .
 info.imagimob.com CNAME .
+info.instephealth.com CNAME .
 info.interworks.cloud CNAME .
 info.invata.com CNAME .
 info.ioactive.com CNAME .
@@ -514,6 +512,7 @@ info.pmg360research.com CNAME .
 info.pmhsi.com CNAME .
 info.polypak.com CNAME .
 info.positioninteractive.com CNAME .
+info.premierstaffservices.net CNAME .
 info.progressinvestment.com CNAME .
 info.prontopilates.com CNAME .
 info.racksquared.com CNAME .
@@ -549,7 +548,6 @@ info.summitministries.org CNAME .
 info.suncloudhealth.com CNAME .
 info.supercare.health CNAME .
 info.superchoiceservices.com.au CNAME .
-info.suzy.com CNAME .
 info.sydist.com CNAME .
 info.symbio.com CNAME .
 info.sync-stream.com CNAME .
@@ -571,6 +569,7 @@ info.tradeinterchange.com CNAME .
 info.treeoflifecenterus.com CNAME .
 info.trinityconsultants.com CNAME .
 info.truemfg.com CNAME .
+info.ttmc.co.uk CNAME .
 info.txeee.engr.utexas.edu CNAME .
 info.uchealth.com CNAME .
 info.uila.com CNAME .
@@ -592,7 +591,6 @@ info.westerville.org CNAME .
 info.woodward.com CNAME .
 info.wsplanadvisor.com CNAME .
 info.xactflex.com CNAME .
-info.ymor.com CNAME .
 info.zelmanassociates.com CNAME .
 info.zoominfo-notice.com CNAME .
 info.zuidema.nl CNAME .
@@ -603,6 +601,7 @@ infonyc.readingpartners.org CNAME .
 information.cleanservices.co.uk CNAME .
 information.fi360.com CNAME .
 information.remploy.co.uk CNAME .
+information.specialoccasionlinen.com CNAME .
 infosfba.readingpartners.org CNAME .
 infotc.readingpartners.org CNAME .
 infotul.readingpartners.org CNAME .
@@ -614,7 +613,6 @@ insights.alley.com CNAME .
 insights.avad3.com CNAME .
 insights.diamond-consultants.com CNAME .
 insights.goodandprosper.com CNAME .
-insights.governmentresource.com CNAME .
 insights.hugheseurope.com CNAME .
 insights.jabian.com CNAME .
 insights.jackporter.com CNAME .
@@ -637,13 +635,15 @@ ksamarketing.sedgwick.com CNAME .
 kuwaitmarketing.sedgwick.com CNAME .
 learn.altsourcesoftware.com CNAME .
 learn.apartnership.com CNAME .
+learn.neocertified.com CNAME .
 link.hitachi-hightech.com CNAME .
 links.riverview.org CNAME .
 look-ahead.nurturemarketing.com CNAME .
 lowermybills.actonsoftware.com CNAME .
 lp.fsresidential.com CNAME .
+lubrication.promo.skf.com CNAME .
+lubricationde.promo.skf.com CNAME .
 m.smartmatch.email CNAME .
-m.unitedmedicareadvisors.com CNAME .
 ma.brightby.se CNAME .
 ma.kyloepartners.com CNAME .
 ma.lekab.com CNAME .
@@ -666,15 +666,18 @@ marketing-us.contentguru.com CNAME .
 marketing-us.palettesoftware.com CNAME .
 marketing.100days.co.il CNAME .
 marketing.1edisource.com CNAME .
-marketing.4sightcomms.com CNAME .
+marketing.4psgroup.com CNAME .
 marketing.5lovelanguages.com CNAME .
 marketing.602.cz CNAME .
+marketing.9knots.co.uk CNAME .
 marketing.a1cu.org CNAME .
 marketing.aaaflag.com CNAME .
 marketing.aad.org CNAME .
+marketing.aamcompany.com CNAME .
 marketing.absoft.co.uk CNAME .
 marketing.acadian-asset.com CNAME .
 marketing.acceleratedwealth.com CNAME .
+marketing.accuride.com CNAME .
 marketing.acendas.com CNAME .
 marketing.activehousing.co.uk CNAME .
 marketing.advancedpowertech.com CNAME .
@@ -682,6 +685,7 @@ marketing.advantage.tech CNAME .
 marketing.advicemedia.com CNAME .
 marketing.advisorsres.com CNAME .
 marketing.afterschoolallstars.org CNAME .
+marketing.agathonforministries.com CNAME .
 marketing.airefco.com CNAME .
 marketing.akaes.com CNAME .
 marketing.alcopro.com CNAME .
@@ -694,6 +698,7 @@ marketing.alsearsmd.com CNAME .
 marketing.americanairlinescenter.com CNAME .
 marketing.americanweathertechsoffers.com CNAME .
 marketing.amocc.net CNAME .
+marketing.anmtg.com CNAME .
 marketing.aod-cloud.com CNAME .
 marketing.apllogistics.com CNAME .
 marketing.apparound.com CNAME .
@@ -705,6 +710,7 @@ marketing.arlington.org CNAME .
 marketing.armsolutions.com CNAME .
 marketing.arrayasolutions.com CNAME .
 marketing.ashcroft.com CNAME .
+marketing.aspenavionics.com CNAME .
 marketing.assetstrategy.com CNAME .
 marketing.asurarisk.com CNAME .
 marketing.atcautomation.com CNAME .
@@ -713,8 +719,6 @@ marketing.atlanticcitynj.com CNAME .
 marketing.atlanticdiagnosticlaboratories.com CNAME .
 marketing.att-smb.com CNAME .
 marketing.attaneresults.com CNAME .
-marketing.avantage.nl CNAME .
-marketing.avtex.com CNAME .
 marketing.awh.net CNAME .
 marketing.awidubai.com CNAME .
 marketing.barnumfg.com CNAME .
@@ -761,6 +765,7 @@ marketing.carlisleit.com CNAME .
 marketing.carmichael-hill.com CNAME .
 marketing.carolina.com CNAME .
 marketing.catamarans.com CNAME .
+marketing.cavitysliders.com CNAME .
 marketing.celebratinghomedirect.com CNAME .
 marketing.cellero.com CNAME .
 marketing.challengemyteam.co.uk CNAME .
@@ -772,6 +777,7 @@ marketing.christchurchnz.com CNAME .
 marketing.chromachecker.com CNAME .
 marketing.ciandt.com CNAME .
 marketing.circadence.com CNAME .
+marketing.cisco-eagle.com CNAME .
 marketing.cla.aero CNAME .
 marketing.claritydiagnostics.com CNAME .
 marketing.classroominc.org CNAME .
@@ -800,7 +806,6 @@ marketing.cresa.com CNAME .
 marketing.crystalcoastnc.org CNAME .
 marketing.cura-hpc.com CNAME .
 marketing.curetoday.com CNAME .
-marketing.cvma.com CNAME .
 marketing.cygnetcloud.com CNAME .
 marketing.cypram.com CNAME .
 marketing.dacocorp.com CNAME .
@@ -812,6 +817,7 @@ marketing.dataprise.com CNAME .
 marketing.dataxoom.net CNAME .
 marketing.dcmh.net CNAME .
 marketing.dcmservices.com CNAME .
+marketing.decisioninvestments.com CNAME .
 marketing.dedola.com CNAME .
 marketing.deepcrawl.com CNAME .
 marketing.demagcranes.com CNAME .
@@ -847,12 +853,15 @@ marketing.dulsco.com CNAME .
 marketing.dylangrayconsulting.com CNAME .
 marketing.e-emphasys.com CNAME .
 marketing.echostarmobile.com CNAME .
+marketing.econolite.com CNAME .
 marketing.ecslearn.com CNAME .
 marketing.electroind.com CNAME .
+marketing.empathiq.io CNAME .
 marketing.emplicity.com CNAME .
 marketing.enhancedvision.com CNAME .
 marketing.enrichmentjourneys.com CNAME .
 marketing.enterprise-selling.com CNAME .
+marketing.entrinsik.com CNAME .
 marketing.envisionpackaging.com CNAME .
 marketing.equiscript.com CNAME .
 marketing.ergogenesis.com CNAME .
@@ -877,6 +886,7 @@ marketing.ezicarrental.co.nz CNAME .
 marketing.fatiguescience.com CNAME .
 marketing.fedsched.com CNAME .
 marketing.fiduciaryfirst.com CNAME .
+marketing.fiimarketing.com CNAME .
 marketing.firearmsins.com CNAME .
 marketing.firstinsurancefunding.com CNAME .
 marketing.firstpac.com CNAME .
@@ -894,7 +904,6 @@ marketing.frogtape.com CNAME .
 marketing.ftfnews.com CNAME .
 marketing.fwcbd.com CNAME .
 marketing.gatlinburg.com CNAME .
-marketing.gbg.com CNAME .
 marketing.genesis-fs.com CNAME .
 marketing.glenviewterrace.com CNAME .
 marketing.globalmedics.co.nz CNAME .
@@ -904,6 +913,7 @@ marketing.gogofunding.com CNAME .
 marketing.gogovapps.com CNAME .
 marketing.golaurelhighlands.com CNAME .
 marketing.goodfunding.com CNAME .
+marketing.goremutual.ca CNAME .
 marketing.gosenergy.com CNAME .
 marketing.gotolouisville.com CNAME .
 marketing.gowestgroup.com CNAME .
@@ -948,6 +958,7 @@ marketing.hyperdisk.com CNAME .
 marketing.iaccompanies.com CNAME .
 marketing.iaclarington.com CNAME .
 marketing.iacm.com CNAME .
+marketing.iacollaborative.com CNAME .
 marketing.idquantique.com CNAME .
 marketing.igel.com CNAME .
 marketing.ijoinsolutions.com CNAME .
@@ -963,6 +974,7 @@ marketing.insdesign.com CNAME .
 marketing.insigniam.com CNAME .
 marketing.insignio.de CNAME .
 marketing.insurancedesigners.com CNAME .
+marketing.insurancedesigners.net CNAME .
 marketing.insureline.com CNAME .
 marketing.insureon.com CNAME .
 marketing.inszoneinsurance.com CNAME .
@@ -975,7 +987,6 @@ marketing.invitria.com CNAME .
 marketing.ismguide.com CNAME .
 marketing.itshome.com CNAME .
 marketing.jacksonholechamber.com CNAME .
-marketing.jad.com CNAME .
 marketing.javs.com CNAME .
 marketing.jaysoncompany.com CNAME .
 marketing.jdicleaning.com CNAME .
@@ -1000,6 +1011,7 @@ marketing.ledgeviewpartners.com CNAME .
 marketing.libertyhomeequity.com CNAME .
 marketing.libertyreverse.com CNAME .
 marketing.lightstreamin.com CNAME .
+marketing.ligroup.ca CNAME .
 marketing.lilogy.com CNAME .
 marketing.liquidvoice.co.uk CNAME .
 marketing.livepaniau.com CNAME .
@@ -1036,13 +1048,13 @@ marketing.moldex.com CNAME .
 marketing.molenaar.nl CNAME .
 marketing.monetsoftware.com CNAME .
 marketing.moodypublishers.com CNAME .
-marketing.motocarrental.co.nz CNAME .
 marketing.myadvice.com CNAME .
 marketing.mycvcu.org CNAME .
 marketing.mydario.com CNAME .
 marketing.mypoindexter.com CNAME .
 marketing.mypureradiance.com CNAME .
 marketing.nabatakinc.com CNAME .
+marketing.nak.co.uk CNAME .
 marketing.nanthealth.net CNAME .
 marketing.napatech.com CNAME .
 marketing.natilik.com CNAME .
@@ -1085,6 +1097,7 @@ marketing.orthofi.com CNAME .
 marketing.paducah.travel CNAME .
 marketing.page1solutions.com CNAME .
 marketing.pal-v.com CNAME .
+marketing.panas.nl CNAME .
 marketing.paraflex.com CNAME .
 marketing.parkseniorvillas.com CNAME .
 marketing.partnerrc.com CNAME .
@@ -1107,7 +1120,6 @@ marketing.profmi.org CNAME .
 marketing.projectares.academy CNAME .
 marketing.pronaca.com CNAME .
 marketing.protosell.se CNAME .
-marketing.ptw-i.com CNAME .
 marketing.ptw.com CNAME .
 marketing.puffininn.net CNAME .
 marketing.qualificationcheck.com CNAME .
@@ -1131,13 +1143,13 @@ marketing.riseagainsthunger.org CNAME .
 marketing.rmhoffman.com CNAME .
 marketing.rmhoist.com CNAME .
 marketing.robtheiraguy.com CNAME .
+marketing.ronbarretire.com CNAME .
 marketing.rosica.com CNAME .
 marketing.roxtec.com CNAME .
 marketing.runyonsurfaceprep.com CNAME .
 marketing.rxaap.com CNAME .
 marketing.safesend.com CNAME .
 marketing.safetreeretirement.com CNAME .
-marketing.sahu-ca.com CNAME .
 marketing.santabarbaraca.com CNAME .
 marketing.scalematrix.com CNAME .
 marketing.scenicsedona.com CNAME .
@@ -1162,6 +1174,7 @@ marketing.slocal.com CNAME .
 marketing.smartcoversystems.com CNAME .
 marketing.smartowner.com CNAME .
 marketing.soha.io CNAME .
+marketing.solutionsfirstgroup.com CNAME .
 marketing.somero.com CNAME .
 marketing.sosintl.com CNAME .
 marketing.sossystems.co.uk CNAME .
@@ -1180,14 +1193,15 @@ marketing.stamen.com CNAME .
 marketing.stellarmls.com CNAME .
 marketing.stentel.com CNAME .
 marketing.stockcero.com CNAME .
+marketing.stratisinsurance.com CNAME .
 marketing.streck.com CNAME .
 marketing.striveoffice.com CNAME .
 marketing.summittruckgroup.com CNAME .
 marketing.suncrestadvisors.com CNAME .
+marketing.superiorrecreationalproducts.com CNAME .
 marketing.surfcityusa.com CNAME .
-marketing.systancia.com CNAME .
 marketing.systempavers.com CNAME .
-marketing.t2greeninsurance.com CNAME .
+marketing.tandemmedicalsolutions.com CNAME .
 marketing.tarheelpaper.com CNAME .
 marketing.tas.business CNAME .
 marketing.tba.group CNAME .
@@ -1198,6 +1212,7 @@ marketing.techinsurance.com CNAME .
 marketing.technologyadvice.com CNAME .
 marketing.telstraphonewords.com.au CNAME .
 marketing.tengointernet.com CNAME .
+marketing.tennesonnissan.com CNAME .
 marketing.ternian.com CNAME .
 marketing.test-acton.com CNAME .
 marketing.testforce.com CNAME .
@@ -1206,6 +1221,7 @@ marketing.thebasiccompanies.com CNAME .
 marketing.thebeacongrp.com CNAME .
 marketing.thecea.ca CNAME .
 marketing.thecommonwell.ca CNAME .
+marketing.thefranchiseconsultingcompany.ca CNAME .
 marketing.theoccasionsgroup.com CNAME .
 marketing.theofficestore.com CNAME .
 marketing.thequincygroupinc.com CNAME .
@@ -1227,7 +1243,6 @@ marketing.travelsavers.com CNAME .
 marketing.trextape.com CNAME .
 marketing.triconamericanhomes.com CNAME .
 marketing.triconresidential.com CNAME .
-marketing.trifectacapitaladvisors.com CNAME .
 marketing.trimtabconsultants.com CNAME .
 marketing.trubridge.com CNAME .
 marketing.trustid.com CNAME .
@@ -1245,7 +1260,6 @@ marketing.useadam.co.uk CNAME .
 marketing.usglobaltax.com CNAME .
 marketing.uxreactor.com CNAME .
 marketing.vabi.nl CNAME .
-marketing.vancive.averydennison.com CNAME .
 marketing.vantagepoint-financial.com CNAME .
 marketing.verasci.com CNAME .
 marketing.vertexcs.com CNAME .
@@ -1272,14 +1286,13 @@ marketing.visitmusiccity.com CNAME .
 marketing.visitnorthplatte.com CNAME .
 marketing.visitomaha.com CNAME .
 marketing.visitorlando.com CNAME .
-marketing.visitpaamericana.com CNAME .
 marketing.visitpasadena.com CNAME .
 marketing.visitphoenix.com CNAME .
+marketing.visitpompanobeach.com CNAME .
 marketing.visitrapidcity.com CNAME .
 marketing.visitsanantonio.com CNAME .
 marketing.visitsanmarcos.com CNAME .
 marketing.visitsmcsv.com CNAME .
-marketing.visittucson.org CNAME .
 marketing.visitwashingtoncountypa.com CNAME .
 marketing.visitwausau.com CNAME .
 marketing.visualskus.com CNAME .
@@ -1300,6 +1313,7 @@ marketing.worldnetpr.com CNAME .
 marketing.wsandco.com CNAME .
 marketing.xait.com CNAME .
 marketing.xcess.nl CNAME .
+marketing.xsightusa.com CNAME .
 marketing.xtralight.com CNAME .
 marketing.yeovilaudi.co.uk CNAME .
 marketing.ynsecureserver.net CNAME .
@@ -1328,6 +1342,7 @@ mktg.bekapublishing.com CNAME .
 mktg.mecinc.com CNAME .
 mktg.northwoodsoft.com CNAME .
 mktg.rocklandmfg.com CNAME .
+mktg.schlage.com CNAME .
 mktg.senneca.com CNAME .
 mktg.ummhealth.org CNAME .
 mm.morrellinc.com CNAME .
@@ -1363,6 +1378,7 @@ nurture.mylivingvoice.com CNAME .
 oar.smu.edu.sg CNAME .
 oasismarketing.oasisadvantage.com CNAME .
 obixdelivery.obix.com CNAME .
+offers.bathexperts.com CNAME .
 offers.jazelauto.com CNAME .
 one-workspace.matrix42.com CNAME .
 onlinesellerenforcement.vorys.com CNAME .
@@ -1380,6 +1396,7 @@ page.ggled.net CNAME .
 page.hpcspecialtypharmacy.com CNAME .
 page.irco.com CNAME .
 page.northstateconsultingllc.com CNAME .
+page.terguspharma.com CNAME .
 page.vital4.net CNAME .
 pages.cobweb.com CNAME .
 pages.crd.com CNAME .
@@ -1397,6 +1414,7 @@ photography.hursey.com CNAME .
 pimpoint.inriver.com CNAME .
 pl.sharpmarketing.eu CNAME .
 postgraduate.smu.edu.sg CNAME .
+postgraduate2.smu.edu.sg CNAME .
 privacyoptout.zoominformation.com CNAME .
 privateclient.hubinternational.com CNAME .
 processserver.abclegal.com CNAME .
@@ -1414,9 +1432,8 @@ resolution.taxdefensenetwork.com CNAME .
 resources.acarasolutions.com CNAME .
 resources.acarasolutions.in CNAME .
 resources.davey.com CNAME .
-resources.digitcom.ca CNAME .
-resources.engagewithallen.com CNAME .
 resources.talentrise.com CNAME .
+rs.promo.skf.com CNAME .
 ruw.roanokeunderwriting.com CNAME .
 saas.stratitude.com CNAME .
 sales.northeastind.com CNAME .
@@ -1443,13 +1460,15 @@ seniorliving.whitneycenter.com CNAME .
 seniorliving.winchestergardens.com CNAME .
 seniors.fairportbaptisthomes.org CNAME .
 service.charitiesaidfoundation.org.uk CNAME .
+services.freedomid.com CNAME .
 services.releasepoint.com CNAME .
 sfsinfo.sabic.com CNAME .
 shipsmarter.idrivelogistics.com CNAME .
 shop.iwantclips.com CNAME .
 smf.southernmetalfab.com CNAME .
-smugiving.smu.edu.sg CNAME .
-smuyphsl.smu.edu.sg CNAME .
+smucityperspectives.smu.edu.sg CNAME .
+smumst.smu.edu.sg CNAME .
+smusoa.smu.edu.sg CNAME .
 snd.freshstartnews.com CNAME .
 solar.sharpmarketing.eu CNAME .
 solutions.amigraphics.com CNAME .
@@ -1459,9 +1478,9 @@ southwest.pgaofamericagolf.com CNAME .
 srmy.srglobal.com CNAME .
 srsa.srglobal.com CNAME .
 srsg.srglobal.com CNAME .
-sruk.srglobal.com CNAME .
 start.mybillingtree.com CNAME .
 start.spark-thinking.com CNAME .
+stcharleshealthcare.hrm.healthgrades.com CNAME .
 success.azzure-it.com CNAME .
 success.catman.global CNAME .
 success.ebmcatalyst.com CNAME .
@@ -1472,7 +1491,6 @@ success.vertigis.com CNAME .
 success.vertigisstudio.com CNAME .
 support.amputee-coalition.org CNAME .
 support.hqts.com CNAME .
-t.ao.argyleforum.com CNAME .
 teach.graduateprogram.org CNAME .
 team.moxtra.com CNAME .
 teamhodges.hodgesualumniandfriends.com CNAME .
@@ -1483,6 +1501,7 @@ toronto-content.cresa.com CNAME .
 tradeshows.aem.org CNAME .
 training.indigobusiness.co.uk CNAME .
 trappcloudservices.trapptechnology.com CNAME .
+travel.caradonna.com CNAME .
 travel.cruisesforless.com CNAME .
 travel.ec-ovc.com CNAME .
 travel.onlinevacationcenter.com CNAME .
@@ -1493,7 +1512,7 @@ ugmarketing.smu.edu.sg CNAME .
 uk-marketing.roxtec.com CNAME .
 uk.sharpmarketing.eu CNAME .
 ukmarketing.sedgwick.com CNAME .
-updates.venuekings.com CNAME .
+umassmemorial.hrm.healthgrades.com CNAME .
 usb-vna.coppermountaintech.com CNAME .
 value.kfcu.org CNAME .
 vhans.siege-corp.com CNAME .
@@ -1526,7 +1545,6 @@ www2.bobcad.com CNAME .
 www2.citizensclimatelobby.org CNAME .
 www2.dws-global.com CNAME .
 www2.esri.se CNAME .
-www2.senetas.com CNAME .
 www2.timecommunications.biz CNAME .
 www2.tyrens.se CNAME .
 www2.zacco.com CNAME .
@@ -2254,6 +2272,7 @@ a19858.actonservice.com CNAME .
 a19895.actonservice.com CNAME .
 a19930.actonservice.com CNAME .
 a19997.actonservice.com CNAME .
+a2.avomeen.com CNAME .
 a20022.actonservice.com CNAME .
 a20204.actonservice.com CNAME .
 a20207.actonservice.com CNAME .
@@ -3283,6 +3302,7 @@ a43533.actonservice.com CNAME .
 a43534.actonservice.com CNAME .
 a43538.actonservice.com CNAME .
 a43539.actonservice.com CNAME .
+a43541.actonservice.com CNAME .
 a43542.actonservice.com CNAME .
 a43545.actonservice.com CNAME .
 a43546.actonservice.com CNAME .
@@ -3371,6 +3391,7 @@ a43762.actonservice.com CNAME .
 a43765.actonservice.com CNAME .
 a43766.actonservice.com CNAME .
 a43767.actonservice.com CNAME .
+a43768.actonservice.com CNAME .
 a43770.actonservice.com CNAME .
 a43772.actonservice.com CNAME .
 a43775.actonservice.com CNAME .
@@ -3395,6 +3416,7 @@ a43804.actonservice.com CNAME .
 a43805.actonservice.com CNAME .
 a43806.actonservice.com CNAME .
 a43807.actonservice.com CNAME .
+a43811.actonservice.com CNAME .
 a43812.actonservice.com CNAME .
 a43814.actonservice.com CNAME .
 a43818.actonservice.com CNAME .
@@ -3634,6 +3656,7 @@ a44784.actonservice.com CNAME .
 a44785.actonservice.com CNAME .
 a44791.actonservice.com CNAME .
 a44795.actonservice.com CNAME .
+a44797.actonservice.com CNAME .
 a44820.actonservice.com CNAME .
 a44828.actonservice.com CNAME .
 a44831.actonservice.com CNAME .
@@ -3661,6 +3684,7 @@ a45024.actonservice.com CNAME .
 a45034.actonservice.com CNAME .
 a45035.actonservice.com CNAME .
 a45036.actonservice.com CNAME .
+a45037.actonservice.com CNAME .
 a45040.actonservice.com CNAME .
 a45044.actonservice.com CNAME .
 a45046.actonservice.com CNAME .
@@ -3669,6 +3693,7 @@ a45064.actonservice.com CNAME .
 a45071.actonservice.com CNAME .
 a45080.actonservice.com CNAME .
 a45115.actonservice.com CNAME .
+a45122.actonservice.com CNAME .
 a45125.actonservice.com CNAME .
 a45126.actonservice.com CNAME .
 a45139.actonservice.com CNAME .
@@ -3691,6 +3716,7 @@ a45199.actonservice.com CNAME .
 a45205.actonservice.com CNAME .
 a45208.actonservice.com CNAME .
 a45213.actonservice.com CNAME .
+a45214.actonservice.com CNAME .
 a45218.actonservice.com CNAME .
 a45223.actonservice.com CNAME .
 a45225.actonservice.com CNAME .
@@ -3895,13 +3921,17 @@ a46402.actonservice.com CNAME .
 a46425.actonservice.com CNAME .
 a46433.actonservice.com CNAME .
 a46434.actonservice.com CNAME .
+a46446.actonservice.com CNAME .
 a46449.actonservice.com CNAME .
 a46460.actonservice.com CNAME .
 a46477.actonservice.com CNAME .
 a46498.actonservice.com CNAME .
 a46502.actonservice.com CNAME .
+a46526.actonservice.com CNAME .
+a46527.actonservice.com CNAME .
 a8780.actonservice.com CNAME .
 a9643.actonservice.com CNAME .
+aad-marketing.ascendeventmedia.com CNAME .
 aad.actonservice.com CNAME .
 aagon.actonservice.com CNAME .
 aajtech.actonservice.com CNAME .
@@ -3931,12 +3961,14 @@ act.colorlines.com CNAME .
 act.convergencetraining.com CNAME .
 act.cwsglobal.org CNAME .
 act.enli.net CNAME .
+act.lanap.com CNAME .
 act.online.engineering.nyu.edu CNAME .
 act.plumvoice.com CNAME .
 act.raceforward.org CNAME .
 action.advisorycloud.com CNAME .
 action.totalcompbuilder.com CNAME .
 action.totalrewardssoftware.com CNAME .
+actis.boeingavenue8.nl CNAME .
 acton.ajmfg.com CNAME .
 acton.altep.com CNAME .
 acton.bluetreesystems.com CNAME .
@@ -3949,6 +3981,7 @@ acton.tourismireland.com CNAME .
 acton.trefis.com CNAME .
 acton.trendemon.com CNAME .
 actondev.actonservice.com CNAME .
+adamsoftware.actonservice.com CNAME .
 adllab.actonservice.com CNAME .
 adm.adminstrumentengineering.com.au CNAME .
 admission.concord.edu CNAME .
@@ -3960,7 +3993,6 @@ advantageauburn.actonservice.com CNAME .
 advantageind.actonservice.com CNAME .
 advantagetech.actonservice.com CNAME .
 adverator.actonservice.com CNAME .
-advisor.raa.com CNAME .
 advisorycloud-dev.actonservice.com CNAME .
 advtek.actonservice.com CNAME .
 aeromark.actonservice.com CNAME .
@@ -3969,6 +4001,7 @@ africafr.promo.skf.com CNAME .
 aftermath.actonservice.com CNAME .
 afterschoolallstars.actonservice.com CNAME .
 agcs-knowledge.allianz.com CNAME .
+aginginplace.vyta.ca CNAME .
 agvinfo.kollmorgen.com CNAME .
 aicipc.actonservice.com CNAME .
 aip.actonservice.com CNAME .
@@ -4005,11 +4038,14 @@ amigraphics.actonservice.com CNAME .
 amimon.actonservice.com CNAME .
 amitracks.actonservice.com CNAME .
 amsunsolar.actonservice.com CNAME .
+analytics.rivaliq.com CNAME .
 anesthesiaos.actonservice.com CNAME .
 antonsystems.actonservice.com CNAME .
 anytime.digitaljobs.gr CNAME .
 ao-marketing.essendant.com CNAME .
 ao-mkt.tableausoftware.com CNAME .
+ao.jsitel.com CNAME .
+ao.pioncomm.net CNAME .
 aom.smartbrief.com CNAME .
 aon.insurancemail.ca CNAME .
 aon.smartbrief.com CNAME .
@@ -4019,6 +4055,7 @@ aperio.leicabiosystems.com CNAME .
 apisensor.actonservice.com CNAME .
 apllogistics.actonservice.com CNAME .
 apparound.actonservice.com CNAME .
+apply.levelupfunding.com CNAME .
 apptus.actonservice.com CNAME .
 aptare.actonservice.com CNAME .
 apwip-dev.actonservice.com CNAME .
@@ -4081,6 +4118,7 @@ bakercommunications.actonservice.com CNAME .
 ballantine.actonservice.com CNAME .
 ballymoregroup.actonservice.com CNAME .
 bambee.actonservice.com CNAME .
+bayarea.summitry.com CNAME .
 bayshoresystems.actonservice.com CNAME .
 bcanl.bca-autoveiling.nl CNAME .
 bcc-ltd.actonservice.com CNAME .
@@ -4089,6 +4127,7 @@ bdo.actonservice.com CNAME .
 bdoaustralia.bdo.com.au CNAME .
 beanworks.actonservice.com CNAME .
 beaumont.actonservice.com CNAME .
+becool.everydayindustries.com CNAME .
 benelux.promo.skf.com CNAME .
 bersondeanstevens.actonservice.com CNAME .
 bestbuy.actonservice.com CNAME .
@@ -4102,6 +4141,7 @@ bioanalyticalmarketing.eurofins-info.com CNAME .
 biophysicsgroup.actonservice.com CNAME .
 bison.actonservice.com CNAME .
 biworldwide.actonservice.com CNAME .
+biznews.oregon.gov CNAME .
 bke.actonservice.com CNAME .
 bkifg.actonservice.com CNAME .
 blackbirdventures.actonservice.com CNAME .
@@ -4145,6 +4185,7 @@ butlercc.actonservice.com CNAME .
 c-c-l.actonservice.com CNAME .
 c4cm.actonservice.com CNAME .
 c4contexture.actonservice.com CNAME .
+ca.promo.skf.com CNAME .
 caderonline.bu.edu CNAME .
 caf.actonservice.com CNAME .
 caliberco.actonservice.com CNAME .
@@ -4154,7 +4195,6 @@ callsource.actonservice.com CNAME .
 calmradio.actonservice.com CNAME .
 camisado.actonservice.com CNAME .
 campaign.lexjet.com CNAME .
-campaign.viessmann-cold.com CNAME .
 campaign.viessmann-cool.com CNAME .
 campaigns.ashfieldengage.com CNAME .
 campaigns.wordandbrown.com CNAME .
@@ -4228,17 +4268,18 @@ communication.jkseva.com CNAME .
 communication.teakmedia.com CNAME .
 communication.treston.com CNAME .
 communications.ameritrustgroup.com CNAME .
+communications.foyston.com CNAME .
 communications.marlboroughgroup.com CNAME .
 communications.parmenion-im.co.uk CNAME .
 communications.peopleadmin.com CNAME .
 communications.qualico.com CNAME .
 communications.rillion.com CNAME .
 communications.usfleettracking.com CNAME .
-communications.westendadvisors.com CNAME .
 community.actonline.org CNAME .
 community.chpw.org CNAME .
 compass.munsonhealthcare.org CNAME .
 compliance.govdocs.com CNAME .
+complianceupdates.aem.org CNAME .
 compugen.actonservice.com CNAME .
 compulite.actonservice.com CNAME .
 compuware.actonservice.com CNAME .
@@ -4259,6 +4300,7 @@ connect.myokuma.com CNAME .
 connect.planusa.org CNAME .
 connect.purebranding.com CNAME .
 connect.rallypoint.com CNAME .
+connect.sfscapital.com CNAME .
 connect.thinkinterval.com CNAME .
 connect.tpgtelecom.com.au CNAME .
 connect.zehno.com CNAME .
@@ -4284,7 +4326,6 @@ content.familyfeatures.com CNAME .
 content.hourigan.group CNAME .
 content.hurix.com CNAME .
 content.investresolve.com CNAME .
-content.mhs.net CNAME .
 content.ndm.net CNAME .
 content.northcdatacenters.info CNAME .
 content.recordpoint.com CNAME .
@@ -4300,6 +4341,7 @@ cpd.dignityhealth.org CNAME .
 cpihrinfo.cpihr.com CNAME .
 crawford-industries.actonservice.com CNAME .
 creationagency.actonservice.com CNAME .
+crm.childrens.com CNAME .
 crm.masonmac.com CNAME .
 crmonline.actonservice.com CNAME .
 crs.actonservice.com CNAME .
@@ -4311,6 +4353,7 @@ customercare.aircycle.com CNAME .
 customerrelations.theinstitutes.org CNAME .
 cvcheck.actonservice.com CNAME .
 cxm.ingeniux.com CNAME .
+cz.promo.skf.com CNAME .
 dacocorp.actonservice.com CNAME .
 daegis.actonservice.com CNAME .
 danielsmoving.actonservice.com CNAME .
@@ -4414,7 +4457,6 @@ engage.clinipace.com CNAME .
 engage.dorngroup.com CNAME .
 engage.dovetailinsurance.com CNAME .
 engage.encon.ca CNAME .
-engage.figmarketing.com CNAME .
 engage.innovativesystems.com CNAME .
 engage.ipcginsurance.com CNAME .
 engage.mhainc.com CNAME .
@@ -4432,10 +4474,12 @@ erepublic.actonservice.com CNAME .
 ergogenesis.actonservice.com CNAME .
 eschsupply.actonservice.com CNAME .
 esri.nl.actonservice.com CNAME .
+etude.epidemiologie-pop-ge.ch CNAME .
 evergage1.actonservice.com CNAME .
 eversource.actonservice.com CNAME .
 evolent.actonservice.com CNAME .
 evolutionmarketing.actonservice.com CNAME .
+exdmarketing.smu.edu.sg CNAME .
 experts.actonservice.com CNAME .
 experts.cutter.com CNAME .
 explore.coursefinders.com CNAME .
@@ -4455,6 +4499,7 @@ festo.actonservice.com CNAME .
 ffr.actonservice.com CNAME .
 fi.on-channel.com CNAME .
 fiduciaryfirst.actonservice.com CNAME .
+figmarketing.actonservice.com CNAME .
 filbrandtco.actonservice.com CNAME .
 filemobile.actonservice.com CNAME .
 files.urlinsgroup.com CNAME .
@@ -4478,12 +4523,12 @@ foxitsoftware.actonsoftware.com CNAME .
 foxt.actonservice.com CNAME .
 foxtinfo.foxt.com CNAME .
 fr.promo.skf.com CNAME .
-franchise.bmave.com CNAME .
+franchise.abc-seniors.com CNAME .
 franchise.doorgurus.com CNAME .
 franchise.hbham.com CNAME .
 franchise.locktonaffinity.net CNAME .
-franchise.scorepizza.ca CNAME .
 franchising.pizzapizza.ca CNAME .
+franchising.scholarscanada.com CNAME .
 franklin-edu.actonservice.com CNAME .
 franklin.edu.actonservice.com CNAME .
 frankwatching.actonservice.com CNAME .
@@ -4522,7 +4567,6 @@ globalmed.actonservice.com CNAME .
 gmnameplate.actonservice.com CNAME .
 go.accumaxglobal.com.au CNAME .
 go.acelisconnectedhealth.com CNAME .
-go.aculab.com CNAME .
 go.adaquest.com CNAME .
 go.ahmmarketing.com CNAME .
 go.aktieinvest.se CNAME .
@@ -4544,7 +4588,6 @@ go.infopulse.com CNAME .
 go.isbamutual.com CNAME .
 go.janesvilleinnovation.com CNAME .
 go.kontract.se CNAME .
-go.lanair.com CNAME .
 go.lendspace.com CNAME .
 go.linksource.com CNAME .
 go.metalgoodsmfg.com CNAME .
@@ -4664,7 +4707,6 @@ immunocorp.actonservice.com CNAME .
 impact-dm.actonservice.com CNAME .
 in.promo.skf.com CNAME .
 incisive.actonservice.com CNAME .
-indigobusiness.actonsoftware.com CNAME .
 industry.promo.skf.com CNAME .
 industry.statefoodsafety.com CNAME .
 inetprocess.actonservice.com CNAME .
@@ -4674,8 +4716,6 @@ info.aajtech.com CNAME .
 info.abadiscount.org CNAME .
 info.abcnorcal.org CNAME .
 info.abcsd.org CNAME .
-info.acacialearning.co.uk CNAME .
-info.accupurls.com CNAME .
 info.admtech.com.au CNAME .
 info.advanced-energy.com CNAME .
 info.advantageind.com CNAME .
@@ -4685,15 +4725,16 @@ info.aiabbs.aleragroup.com CNAME .
 info.aiabrg.aleragroup.com CNAME .
 info.air-weigh.com CNAME .
 info.aleragroup.com CNAME .
+info.americanroller.com CNAME .
 info.amerprint.com CNAME .
 info.anglianwaterbusiness.co.uk CNAME .
 info.applied.com CNAME .
 info.appliedtech.pro CNAME .
 info.ardentsolutionsllc.aleragroup.com CNAME .
 info.aspcapro.org CNAME .
-info.astronovainc.com CNAME .
 info.atlaslift.com CNAME .
 info.avondixon.aleragroup.com CNAME .
+info.avtechcapital.com CNAME .
 info.azuga.com CNAME .
 info.b2lead-marketing.com CNAME .
 info.backbonemedia.com CNAME .
@@ -4707,7 +4748,6 @@ info.bildgta.ca CNAME .
 info.bintheredumpthatusa.com CNAME .
 info.biocision.com CNAME .
 info.biologos.org CNAME .
-info.bluebirdfiber.com CNAME .
 info.blueskytherapy.net CNAME .
 info.brilliantfs.com CNAME .
 info.bvcm.nl CNAME .
@@ -4733,11 +4773,13 @@ info.cmworks.com CNAME .
 info.comsoft-direct.nl CNAME .
 info.conres.com CNAME .
 info.coyfc.org CNAME .
+info.cpa.com CNAME .
 info.cpihr.aleragroup.com CNAME .
 info.creadis.com CNAME .
 info.cresinsurance.com CNAME .
 info.crisp.aleragroup.com CNAME .
 info.crossmfg.com CNAME .
+info.ctg.com CNAME .
 info.culturespanmarketing.com CNAME .
 info.dairymaster.com CNAME .
 info.datasci.com CNAME .
@@ -4749,24 +4791,25 @@ info.dickerson-group.aleragroup.com CNAME .
 info.dimplexthermal.com CNAME .
 info.dincloud.com CNAME .
 info.divurgent.com CNAME .
-info.doverpark.org.sg CNAME .
 info.duncan-parnell.com CNAME .
 info.dynamictechservices.com CNAME .
 info.e-tabs.com CNAME .
 info.eagleinvsys.com CNAME .
 info.echelonprint.com CNAME .
-info.em-ametek.com CNAME .
 info.emersonecologics.com CNAME .
+info.enchantedrock.com CNAME .
 info.energizect.com CNAME .
 info.energyriskassessment.com CNAME .
 info.epworthvilla.org CNAME .
 info.escocorp.com CNAME .
 info.esriaustralia.com.au CNAME .
+info.esribangladesh.com.bd CNAME .
 info.eu.tmi.yokogawa.com CNAME .
 info.evergagecorp.com CNAME .
 info.exxcel.com CNAME .
 info.familyfeatures.com CNAME .
 info.fastroofquotes.com CNAME .
+info.fifthadvertising.com CNAME .
 info.filesanywhere.com CNAME .
 info.flattstationers.com CNAME .
 info.fleetlanding.com CNAME .
@@ -4794,7 +4837,6 @@ info.groupbenefits.aleragroup.com CNAME .
 info.gucu.org CNAME .
 info.halogistics.com CNAME .
 info.harmonyhit.com CNAME .
-info.helpfullending.com CNAME .
 info.hesconet.com CNAME .
 info.hmk-ins.aleragroup.com CNAME .
 info.holmenpaper.com CNAME .
@@ -4928,6 +4970,7 @@ info.southstarcapital.com CNAME .
 info.starwindins.com CNAME .
 info.stratus.hr CNAME .
 info.suite1000.com CNAME .
+info.suzy.com CNAME .
 info.tcasonline.com CNAME .
 info.technologia.com CNAME .
 info.techwave.net CNAME .
@@ -4944,7 +4987,6 @@ info.trapptechnology.com CNAME .
 info.trendler.com CNAME .
 info.truitycu.org CNAME .
 info.tscpainsure.org CNAME .
-info.ttmc.co.uk CNAME .
 info.tyfone.com CNAME .
 info.unicosystem.com CNAME .
 info.uptophealth.com CNAME .
@@ -4963,6 +5005,7 @@ info.wellbe.me CNAME .
 info.weloveournewwindows.com CNAME .
 info.wenzelspine.com CNAME .
 info.wingsrecovery.org CNAME .
+info.ymor.com CNAME .
 info.zoominfotechnologies.com CNAME .
 info01.on24.com CNAME .
 infoaction.mimakiusa.com CNAME .
@@ -4984,6 +5027,7 @@ insight.wittkieffer.com CNAME .
 insights.accessiblu.com CNAME .
 insights.blueplanet.com CNAME .
 insights.forumone.com CNAME .
+insights.governmentresource.com CNAME .
 insights.grnbull.com CNAME .
 insights.kitestring.com CNAME .
 insights.molequlbrands.com CNAME .
@@ -5029,6 +5073,7 @@ jobappplus.actonservice.com CNAME .
 jobsgopublic.actonservice.com CNAME .
 joe.hitaniceberg.com CNAME .
 joinsai.securitiesamerica.com CNAME .
+joyridecoffee.actonservice.com CNAME .
 jumpstartinc.actonservice.com CNAME .
 kbs-services.actonservice.com CNAME .
 kennisdomein.pqr.com CNAME .
@@ -5070,7 +5115,6 @@ learn.brightspotstrategy.com CNAME .
 learn.edmarketing.agency CNAME .
 learn.healthyinteractions.com CNAME .
 learn.image-iq.com CNAME .
-learn.neocertified.com CNAME .
 learn.primerainteriors.com CNAME .
 learn.ultherapy.com CNAME .
 learn.voxeo.com CNAME .
@@ -5096,8 +5140,6 @@ lord.actonservice.com CNAME .
 loveeveryday.brighterkind.com CNAME .
 lp.rallypoint.com CNAME .
 ltcnetwork.mhainc.com CNAME .
-lubrication.promo.skf.com CNAME .
-lubricationde.promo.skf.com CNAME .
 lubricationus.promo.skf.com CNAME .
 lucanet.actonservice.com CNAME .
 lumenera.actonservice.com CNAME .
@@ -5106,6 +5148,7 @@ lyonsdown.actonservice.com CNAME .
 m-m.actonservice.com CNAME .
 m.acmgloballab.com CNAME .
 m.evolutiondigital.com CNAME .
+m.unitedmedicareadvisors.com CNAME .
 m.vistaresourcegroup.com CNAME .
 m2t.actonservice.com CNAME .
 ma.a3.se CNAME .
@@ -5144,6 +5187,7 @@ maricich.actonservice.com CNAME .
 markentive.actonservice.com CNAME .
 marketing-company.getinsured.com CNAME .
 marketing-de.contentguru.com CNAME .
+marketing-eme.toxicology.abbott CNAME .
 marketing-fl.waterstonemortgage.com CNAME .
 marketing-us.alere.com CNAME .
 marketing.1-800boardup.com CNAME .
@@ -5155,10 +5199,9 @@ marketing.3dcadtools.com CNAME .
 marketing.3mark.com CNAME .
 marketing.3scorp.com CNAME .
 marketing.4over.com CNAME .
-marketing.4psgroup.com CNAME .
+marketing.4sightcomms.com CNAME .
 marketing.90degreebenefits.com CNAME .
 marketing.a2btracking.com CNAME .
-marketing.aamcompany.com CNAME .
 marketing.abaco.com CNAME .
 marketing.abnbfcu.org CNAME .
 marketing.absoluteexhibits.com CNAME .
@@ -5169,7 +5212,6 @@ marketing.accesscapitalgrp.com CNAME .
 marketing.accesshardware.com CNAME .
 marketing.accessmarketingcompany.com CNAME .
 marketing.accountorgroup.com CNAME .
-marketing.accuride.com CNAME .
 marketing.accurisksolutions.com CNAME .
 marketing.acieu.net CNAME .
 marketing.acromag.com CNAME .
@@ -5178,7 +5220,6 @@ marketing.act-on.com CNAME .
 marketing.activeprospect.com CNAME .
 marketing.acumenehr.com CNAME .
 marketing.acumenmd.com CNAME .
-marketing.adamasconsulting.com CNAME .
 marketing.adept-telecom.co.uk CNAME .
 marketing.advancedpractice.com CNAME .
 marketing.advanceflooring.co.nz CNAME .
@@ -5226,9 +5267,11 @@ marketing.attunelive.com CNAME .
 marketing.austiner.com CNAME .
 marketing.autopayplus.com CNAME .
 marketing.autozonemecanicos.com CNAME .
+marketing.avantage.nl CNAME .
 marketing.aventel.nl CNAME .
 marketing.aviacode.com CNAME .
 marketing.avidiahealth.com CNAME .
+marketing.avtex.com CNAME .
 marketing.ayasdi.com CNAME .
 marketing.ayesa.com CNAME .
 marketing.balconette.co.uk CNAME .
@@ -5292,9 +5335,9 @@ marketing.callahan.agency CNAME .
 marketing.caplin.com CNAME .
 marketing.capsasolutions.com CNAME .
 marketing.careservicesllc.com CNAME .
+marketing.careshield.co.uk CNAME .
 marketing.carltontechnologies.com CNAME .
 marketing.castrum.uk CNAME .
-marketing.cavitysliders.com CNAME .
 marketing.cbancnetwork.com CNAME .
 marketing.ccbtechnology.com CNAME .
 marketing.celayix.com CNAME .
@@ -5309,7 +5352,6 @@ marketing.cfa.ca CNAME .
 marketing.championsales.com CNAME .
 marketing.charityfirst.com CNAME .
 marketing.chemometec.com CNAME .
-marketing.cisco-eagle.com CNAME .
 marketing.citadelus.com CNAME .
 marketing.citycollege.edu CNAME .
 marketing.cjisgroup.com CNAME .
@@ -5347,6 +5389,7 @@ marketing.ctic.ca CNAME .
 marketing.cusn.com CNAME .
 marketing.customercarebg.com CNAME .
 marketing.cvisiontech.com CNAME .
+marketing.cvma.com CNAME .
 marketing.cyber-edge.com CNAME .
 marketing.cyber360solutions.com CNAME .
 marketing.d4discovery.com CNAME .
@@ -5362,11 +5405,9 @@ marketing.davidcbaker.com CNAME .
 marketing.dbh-group.com CNAME .
 marketing.dcihollowmetal.com CNAME .
 marketing.ddc-cabtech.com CNAME .
-marketing.decisioninvestments.com CNAME .
 marketing.deckerretirementplanning.com CNAME .
 marketing.dedicated-db.com CNAME .
 marketing.deltechomes.com CNAME .
-marketing.deppecommunications.com CNAME .
 marketing.dessy.com CNAME .
 marketing.destinationdc.com CNAME .
 marketing.destinationtravelnetwork.com CNAME .
@@ -5401,7 +5442,6 @@ marketing.ecgmc.com CNAME .
 marketing.echohealthinc.com CNAME .
 marketing.eclipsecap.com CNAME .
 marketing.ecofastensolar.com CNAME .
-marketing.econolite.com CNAME .
 marketing.ecosensors.com CNAME .
 marketing.ecosystemintegrity.com CNAME .
 marketing.efleets.com CNAME .
@@ -5415,13 +5455,11 @@ marketing.emeraldheights.com CNAME .
 marketing.emergenttech.com CNAME .
 marketing.emgbrokerage.com CNAME .
 marketing.emirsoftware.com CNAME .
-marketing.empathiq.io CNAME .
 marketing.empire-pa.com CNAME .
 marketing.employeedevelopmentsystems.com CNAME .
 marketing.enablis.com.au CNAME .
 marketing.endologix.com CNAME .
 marketing.energystewardsinc.com CNAME .
-marketing.entrinsik.com CNAME .
 marketing.entrustinc.com CNAME .
 marketing.envylabs.com CNAME .
 marketing.epicbrokers.com CNAME .
@@ -5446,6 +5484,7 @@ marketing.execshape.com CNAME .
 marketing.executivetravel.com CNAME .
 marketing.experiencecolumbus.com CNAME .
 marketing.experiencegr.com CNAME .
+marketing.experiencemoxie.com CNAME .
 marketing.experienceolympia.com CNAME .
 marketing.explorewhitefish.com CNAME .
 marketing.expworld.com CNAME .
@@ -5460,7 +5499,7 @@ marketing.festivagetaways.com CNAME .
 marketing.festivaorlandoresort.com CNAME .
 marketing.fhlbtopeka.com CNAME .
 marketing.fhsr.com CNAME .
-marketing.fiimarketing.com CNAME .
+marketing.finditparts.com CNAME .
 marketing.finleyalexander.com CNAME .
 marketing.first-insight.com CNAME .
 marketing.firstchoicebrokerage.com CNAME .
@@ -5486,6 +5525,7 @@ marketing.gables.com CNAME .
 marketing.gaig.com CNAME .
 marketing.gasandsupply.com CNAME .
 marketing.gatewayp.com CNAME .
+marketing.gbg.com CNAME .
 marketing.gca.net CNAME .
 marketing.gebroederskoffie.nl CNAME .
 marketing.geigerwealth.com CNAME .
@@ -5493,6 +5533,7 @@ marketing.genpak.com CNAME .
 marketing.geowarehouse.ca CNAME .
 marketing.gep.com CNAME .
 marketing.getoverdrive.com CNAME .
+marketing.giantsrl.com CNAME .
 marketing.glaciertanks.com CNAME .
 marketing.gleamacademy.com CNAME .
 marketing.globalbmg.com CNAME .
@@ -5506,7 +5547,6 @@ marketing.goochandhousego.com CNAME .
 marketing.goodcoinc.com CNAME .
 marketing.goosedigital.com CNAME .
 marketing.goprovidence.com CNAME .
-marketing.goremutual.ca CNAME .
 marketing.gorillagroup.com CNAME .
 marketing.gotobermuda.com CNAME .
 marketing.gpatpa.com CNAME .
@@ -5538,7 +5578,6 @@ marketing.homedna.com CNAME .
 marketing.horizonfoodgroup.com CNAME .
 marketing.hospitalityexcellence.com CNAME .
 marketing.hvcb.org CNAME .
-marketing.iacollaborative.com CNAME .
 marketing.iansresearch.com CNAME .
 marketing.iar.com CNAME .
 marketing.ibermatica.com CNAME .
@@ -5556,7 +5595,6 @@ marketing.influitive.com CNAME .
 marketing.infrontconsulting.com CNAME .
 marketing.ink-co.com CNAME .
 marketing.instrumentassociates.com CNAME .
-marketing.insurancedesigners.net CNAME .
 marketing.intelli-shop.com CNAME .
 marketing.interact911.com CNAME .
 marketing.intergraph.net CNAME .
@@ -5574,6 +5612,7 @@ marketing.itiball.com CNAME .
 marketing.itsavvy.com CNAME .
 marketing.ivctechnologies.com CNAME .
 marketing.iwsinc.com CNAME .
+marketing.jad.com CNAME .
 marketing.jagransolutions.com CNAME .
 marketing.janek.com CNAME .
 marketing.jcbll.com CNAME .
@@ -5604,7 +5643,6 @@ marketing.leatherberryassociates.com CNAME .
 marketing.leegov.com CNAME .
 marketing.lhbindustries.com CNAME .
 marketing.libertyrent.com CNAME .
-marketing.ligroup.ca CNAME .
 marketing.lincoln.org CNAME .
 marketing.linkdex.com CNAME .
 marketing.livevol.com CNAME .
@@ -5668,6 +5706,7 @@ marketing.motionsolutions.com CNAME .
 marketing.motista.com CNAME .
 marketing.motivation.se CNAME .
 marketing.motleys.com CNAME .
+marketing.motocarrental.co.nz CNAME .
 marketing.moverschoiceinfo.com CNAME .
 marketing.mowe.studio CNAME .
 marketing.mplsnw.com CNAME .
@@ -5681,7 +5720,6 @@ marketing.na.schoeck.com CNAME .
 marketing.nace.org CNAME .
 marketing.nada.org CNAME .
 marketing.nagaworld.com CNAME .
-marketing.nak.co.uk CNAME .
 marketing.naniaenergy.com CNAME .
 marketing.nasiff.com CNAME .
 marketing.navitascredit.com CNAME .
@@ -5774,6 +5812,7 @@ marketing.promiles.com CNAME .
 marketing.promoboxx.com CNAME .
 marketing.prosperoware.com CNAME .
 marketing.protegic.com.au CNAME .
+marketing.ptw-i.com CNAME .
 marketing.punctuation.com CNAME .
 marketing.pureaircontrols.com CNAME .
 marketing.pureflorida.com CNAME .
@@ -5784,6 +5823,7 @@ marketing.quenchonline.com CNAME .
 marketing.quickattach.com CNAME .
 marketing.quinceimaging.com CNAME .
 marketing.rals.com CNAME .
+marketing.rangeleylakeresortmaine.com CNAME .
 marketing.rapidlockingsystem.com CNAME .
 marketing.rattleback.com CNAME .
 marketing.realstorygroup.com CNAME .
@@ -5813,7 +5853,6 @@ marketing.riverfrontig.com CNAME .
 marketing.rjpestateplanning.com CNAME .
 marketing.rme360.com CNAME .
 marketing.rogards.com CNAME .
-marketing.ronbarretire.com CNAME .
 marketing.roofconnect.com CNAME .
 marketing.rsvpportal.com CNAME .
 marketing.rtx.travel CNAME .
@@ -5822,6 +5861,7 @@ marketing.ruf-briquetter.com CNAME .
 marketing.rxhelpcenters.info CNAME .
 marketing.saa.com CNAME .
 marketing.safetychix.com CNAME .
+marketing.sahu-ca.com CNAME .
 marketing.sambasafety.com CNAME .
 marketing.sanantonioedf.com CNAME .
 marketing.sanitysolutions.com CNAME .
@@ -5842,6 +5882,7 @@ marketing.shoresmith.com CNAME .
 marketing.shpfinancial.com CNAME .
 marketing.simio.com CNAME .
 marketing.simpartners.com CNAME .
+marketing.simplicittech.com CNAME .
 marketing.sinctech.com CNAME .
 marketing.sirata.com CNAME .
 marketing.smartcenter.nl CNAME .
@@ -5879,6 +5920,7 @@ marketing.swiftprepaid.com CNAME .
 marketing.symbolarts.com CNAME .
 marketing.syntax.com CNAME .
 marketing.syntrio.com CNAME .
+marketing.t2greeninsurance.com CNAME .
 marketing.t2systems.com CNAME .
 marketing.t4media.co.uk CNAME .
 marketing.talbot-promo.com CNAME .
@@ -5890,14 +5932,12 @@ marketing.techlogix.com CNAME .
 marketing.technicalprospects.com CNAME .
 marketing.techoregon.org CNAME .
 marketing.teleswitch.com CNAME .
-marketing.temptimecorp.com CNAME .
 marketing.tenoapp.com CNAME .
 marketing.testtargettreat.com CNAME .
 marketing.thatsbiz.com CNAME .
 marketing.thealtan.com CNAME .
 marketing.thebestclaims.com CNAME .
 marketing.thebestirs.com CNAME .
-marketing.thefranchiseconsultingcompany.ca CNAME .
 marketing.thefusiongroup.com CNAME .
 marketing.theinovogroup.com CNAME .
 marketing.thepalmbeaches.com CNAME .
@@ -5915,6 +5955,7 @@ marketing.toolkitgroup.com CNAME .
 marketing.topekapartnership.com CNAME .
 marketing.topspot.com CNAME .
 marketing.topspotims.com CNAME .
+marketing.toscs.net CNAME .
 marketing.tourismkelowna.com CNAME .
 marketing.tourismrichmond.com CNAME .
 marketing.tourismsaskatoon.com CNAME .
@@ -5931,6 +5972,7 @@ marketing.travelportland.com CNAME .
 marketing.traveltags.com CNAME .
 marketing.traversecity.com CNAME .
 marketing.traxtech.com CNAME .
+marketing.trifectacapitaladvisors.com CNAME .
 marketing.trucode.com CNAME .
 marketing.trueinfluence.com CNAME .
 marketing.trustarmarketing.com CNAME .
@@ -5953,6 +5995,7 @@ marketing.vacationcondos.com CNAME .
 marketing.vacationvillastwo.com CNAME .
 marketing.valleyforge.org CNAME .
 marketing.valv.com CNAME .
+marketing.vancive.averydennison.com CNAME .
 marketing.vathorst.nl CNAME .
 marketing.vault49.com CNAME .
 marketing.vcasoftware.com CNAME .
@@ -5991,6 +6034,7 @@ marketing.visitmontrose.com CNAME .
 marketing.visitnapavalley.com CNAME .
 marketing.visitnepa.org CNAME .
 marketing.visitoakland.com CNAME .
+marketing.visitpaamericana.com CNAME .
 marketing.visitpanamacitybeach.com CNAME .
 marketing.visitpensacola.com CNAME .
 marketing.visitraleigh.com CNAME .
@@ -6005,6 +6049,7 @@ marketing.visitsouthwalton.com CNAME .
 marketing.visitspc.com CNAME .
 marketing.visitspokane.com CNAME .
 marketing.visittemeculavalley.com CNAME .
+marketing.visittucson.org CNAME .
 marketing.visittulsa.com CNAME .
 marketing.visitvancouverusa.com CNAME .
 marketing.visitvancouverwa.com CNAME .
@@ -6048,7 +6093,6 @@ marketing.wvtourism.com CNAME .
 marketing.xcenda.com CNAME .
 marketing.xicato.com CNAME .
 marketing.xportsoft.com CNAME .
-marketing.xsightusa.com CNAME .
 marketing.yapmo.com CNAME .
 marketing.yesmarketing.com CNAME .
 marketing.youththink.net CNAME .
@@ -6227,6 +6271,7 @@ novarecoverycenter.actonservice.com CNAME .
 now.infinitecampus.com CNAME .
 now.tana.fi CNAME .
 nparallel.actonservice.com CNAME .
+npn360.actonservice.com CNAME .
 nra.locktonaffinity.net CNAME .
 nsfocus.actonservice.com CNAME .
 nuvi.actonservice.com CNAME .
@@ -6234,7 +6279,6 @@ oasisadvantage.actonservice.com CNAME .
 objectpartners.actonservice.com CNAME .
 oceanair.actonservice.com CNAME .
 oceanautomotive.actonservice.com CNAME .
-offers.bathexperts.com CNAME .
 offers.hddistributors.com CNAME .
 offers.linkelectric.com CNAME .
 offers.storagepipe.com CNAME .
@@ -6289,6 +6333,7 @@ paynewest.actonservice.com CNAME .
 pccipieces.actonservice.com CNAME .
 pe.promo.skf.com CNAME .
 peoplehr.actonservice.com CNAME .
+performance.actonservice.com CNAME .
 performantcorp.actonservice.com CNAME .
 permission.au.actonservice.com CNAME .
 ph.promo.skf.com CNAME .
@@ -6310,7 +6355,6 @@ polypak.actonservice.com CNAME .
 portal.dcgone.com CNAME .
 portal.insight.maruedr.com CNAME .
 possibilities.theajinetwork.com CNAME .
-postgraduate2.smu.edu.sg CNAME .
 powerup.rsaworks.com CNAME .
 ppadv.actonservice.com CNAME .
 practicemanagement.securitiesamerica.com CNAME .
@@ -6381,6 +6425,8 @@ resources.activatems.com CNAME .
 resources.aldec.com CNAME .
 resources.biz-tech-insights.com CNAME .
 resources.broadleafresults.com CNAME .
+resources.digitcom.ca CNAME .
+resources.engagewithallen.com CNAME .
 resources.faronics.com CNAME .
 resources.harneys.com CNAME .
 resources.linengineering.com CNAME .
@@ -6433,6 +6479,7 @@ seamarketny.actonservice.com CNAME .
 securityins.actonservice.com CNAME .
 sedgwickpooling.sedgwick.com CNAME .
 segra.actonservice.com CNAME .
+selfstorage.sparefoot.com CNAME .
 senior-systems.actonservice.com CNAME .
 seniorliving.blakehurstlcs.com CNAME .
 seniorliving.brandonwildelcs.com CNAME .
@@ -6500,7 +6547,6 @@ seniorliving.welcometosedgebrook.com CNAME .
 seniorliving.westminsteraustintx.org CNAME .
 seniorliving.wyndemerelcs.com CNAME .
 servcliente.marathon-sports-ec.com CNAME .
-services.freedomid.com CNAME .
 servicesandsolutions.promo.skf.com CNAME .
 servicing.unitedautocredit.net CNAME .
 setaram.actonservice.com CNAME .
@@ -6521,18 +6567,16 @@ slashnext.actonservice.com CNAME .
 smartworksforme.actonservice.com CNAME .
 smu.actonservice.com CNAME .
 smuacademy.smu.edu.sg CNAME .
-smucityperspectives.smu.edu.sg CNAME .
 smuengage.smu.edu.sg CNAME .
-smumst.smu.edu.sg CNAME .
-smusoa.smu.edu.sg CNAME .
+smugiving.smu.edu.sg CNAME .
 smusoe.smu.edu.sg CNAME .
+smuyphsl.smu.edu.sg CNAME .
 soccajoeys.actonservice.com CNAME .
 social.oomi.co.uk CNAME .
 solidscape.actonservice.com CNAME .
 solmax.actonservice.com CNAME .
 solutions.a-1freeman.com CNAME .
 solutions.advantageauburn.com CNAME .
-solutions.bowengroup.com.au CNAME .
 solutions.bwtek.com CNAME .
 solutions.cmsa.org CNAME .
 solutions.intactstudio.ca CNAME .
@@ -6553,6 +6597,7 @@ spamtitan.actonservice.com CNAME .
 spark.thelyst.com CNAME .
 spec-sensors.actonservice.com CNAME .
 spinnakermgmt.actonservice.com CNAME .
+sruk.srglobal.com CNAME .
 ssfllp.actonservice.com CNAME .
 sswhitedental.actonservice.com CNAME .
 stahl.actonservice.com CNAME .
@@ -6561,7 +6606,6 @@ start.mediware.com CNAME .
 start.ptl.org CNAME .
 start.sharpclinical.com CNAME .
 starwind.actonservice.com CNAME .
-stcharleshealthcare.hrm.healthgrades.com CNAME .
 steel.newmill.com CNAME .
 stentel.actonservice.com CNAME .
 stopthink.onefamilyadviser.com CNAME .
@@ -6590,6 +6634,7 @@ synapse-da.actonservice.com CNAME .
 synbiobeta.actonservice.com CNAME .
 systancia-scp.actonservice.com CNAME .
 system.nefiber.com CNAME .
+t.ao.argyleforum.com CNAME .
 t.ao.consumerfinancereport.com CNAME .
 tablesafe.actonservice.com CNAME .
 talkto.comreal.com CNAME .
@@ -6644,7 +6689,6 @@ tracking.experiencescottsdale.com CNAME .
 transportation.external.conduent.com CNAME .
 transportation.external.xerox.com CNAME .
 trapptech.actonservice.com CNAME .
-travel.caradonna.com CNAME .
 travelmarketreport.actonservice.com CNAME .
 treeoflifecenterus.actonservice.com CNAME .
 triadtechnologies.actonservice.com CNAME .
@@ -6662,7 +6706,6 @@ tvppa.actonservice.com CNAME .
 tw.promo.skf.com CNAME .
 tyrens.actonservice.com CNAME .
 uk.promo.skf.com CNAME .
-umassmemorial.hrm.healthgrades.com CNAME .
 unchealthcare.hrm.healthgrades.com CNAME .
 unifilabs.actonservice.com CNAME .
 unitedautocredit.actonservice.com CNAME .
@@ -6670,6 +6713,7 @@ unitusccu.actonservice.com CNAME .
 universalbackground.actonservice.com CNAME .
 updates.aem.org CNAME .
 updates.conexpoconagg.com CNAME .
+updates.venuekings.com CNAME .
 us-marketing.roxtec.com CNAME .
 us.onkyo.actonservice.com CNAME .
 us.promo.skf.com CNAME .
@@ -6677,6 +6721,7 @@ usaprogrip.actonservice.com CNAME .
 ussco-dev.actonservice.com CNAME .
 utexas.actonservice.com CNAME .
 valimail.actonservice.com CNAME .
+vehicleaftermarket.nam.promo.skf.com CNAME .
 velocitypartners.actonservice.com CNAME .
 veoci.actonservice.com CNAME .
 verified.beefbooster.com CNAME .
@@ -6727,6 +6772,7 @@ www2.cet-uk.com CNAME .
 www2.extensis.com CNAME .
 www2.paxport.net CNAME .
 www2.rifton.com CNAME .
+www2.senetas.com CNAME .
 www2.simplilearn.com CNAME .
 www2.unit4.nl CNAME .
 www2.yellowspring.co.uk CNAME .
