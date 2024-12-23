@@ -123,6 +123,13 @@
         ]
     },
     {
+        "company_name": "Content Ignite",
+        "type": "tracker",
+        "domains": [
+            "greylabeldelivery.com"
+        ]
+    },
+    {
         "company_name": "Cordial",
         "type": "mail_tracker",
         "domains": [
@@ -360,6 +367,13 @@
         ]
     },
     {
+        "company_name": "Stape",
+        "type": "tracker",
+        "domains": [
+            "stape.net"
+        ]
+    },
+    {
         "company_name": "TraceDock",
         "type": "microsite",
         "domains": [
@@ -396,6 +410,13 @@
         "type": "ad",
         "domains": [
             "ak-is2.net"
+        ]
+    },
+    {
+        "company_name": "Wecantrack",
+        "type": "tracker",
+        "domains": [
+            "wecantrack.com"
         ]
     },
     {
