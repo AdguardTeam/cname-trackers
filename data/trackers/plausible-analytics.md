@@ -100,7 +100,6 @@
 | hola.xebel.co | custom.plausible.io |
 | hstats.askmiso.com | custom.plausible.io |
 | hurricane.tinybird.co | custom.plausible.io |
-| info.bestbudgetapps.com | custom.plausible.io |
 | informatics.filamentcolors.xyz | custom.plausible.io |
 | insights.affilimate.com | custom.plausible.io |
 | jinx.skullctf.com | custom.plausible.io |
@@ -361,7 +360,6 @@
 | stats.astrr.ru | custom.plausible.io |
 | stats.asymptotic.io | custom.plausible.io |
 | stats.auto-dombrowski.de | custom.plausible.io |
-| stats.autofarm.network | custom.plausible.io |
 | stats.bananatimer.com | custom.plausible.io |
 | stats.bcdtravel.com | custom.plausible.io |
 | stats.beanr.coffee | custom.plausible.io |
@@ -586,7 +584,6 @@
 | stats.kensho.com | custom.plausible.io |
 | stats.kettlebellbundle.com | custom.plausible.io |
 | stats.kfcsint-lenaartsjeugd.be | custom.plausible.io |
-| stats.kitspace.org | custom.plausible.io |
 | stats.klaussteinke.com | custom.plausible.io |
 | stats.klj-consult.com | custom.plausible.io |
 | stats.kod.ru | custom.plausible.io |
@@ -839,6 +836,7 @@
 | stats.trimbles.ie | custom.plausible.io |
 | stats.trussed.dev | custom.plausible.io |
 | stats.tubecalculator.co.uk | custom.plausible.io |
+| stats.turisme.nu | custom.plausible.io |
 | stats.twhl.xyz | custom.plausible.io |
 | stats.ubiwiz.com | custom.plausible.io |
 | stats.unka.space | custom.plausible.io |
@@ -891,6 +889,7 @@
 | traffic.hostedstatus.page | custom.plausible.io |
 | traffic.taktikal.is | custom.plausible.io |
 | triton.companyegg.com | custom.plausible.io |
+| usage.growthbook.io | custom.plausible.io |
 | varys.asongofzandc.xyz | custom.plausible.io |
 | views.ericcapella.com | custom.plausible.io |
 | views.sikerlogistics.com | custom.plausible.io |

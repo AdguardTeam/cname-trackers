@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,15 +45,18 @@ goat.tailspace.net CNAME .
 goat.twoistoomany.com CNAME .
 goat1.nhimmeo.cf CNAME .
 goatcounter.blu3id.uk CNAME .
+goatcounter.codinggrace.com CNAME .
 goatcounter.gamecraft.it CNAME .
 goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
+gtcntr.enamya.me CNAME .
 moo.geopogs.party CNAME .
 novi.webnovi.eu CNAME .
 pageviews.unbegames.com CNAME .
 ping.irisphotos.app CNAME .
 pixel.embed.su CNAME .
 st.mapleranks.com CNAME .
+statistic.elkobraas.com CNAME .
 stats.0chris.com CNAME .
 stats.45rpm.ch CNAME .
 stats.abdo.wtf CNAME .
@@ -69,10 +72,12 @@ stats.celerry.com CNAME .
 stats.cgcristi.xyz CNAME .
 stats.cloudflex.team CNAME .
 stats.doarpstsjerke.nl CNAME .
+stats.ebdruplab.dk CNAME .
 stats.fieald.com CNAME .
 stats.haseebmajid.dev CNAME .
 stats.hedy.dev CNAME .
 stats.how.wtf CNAME .
+stats.ignatuque.xyz CNAME .
 stats.isaacfreund.com CNAME .
 stats.jakebailey.dev CNAME .
 stats.jamesgwyer.com CNAME .
@@ -84,6 +89,7 @@ stats.kc.ie CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
 stats.lspeed.org CNAME .
+stats.mausoleum.me CNAME .
 stats.mele.dev CNAME .
 stats.msol.io CNAME .
 stats.nullzwo.dev CNAME .

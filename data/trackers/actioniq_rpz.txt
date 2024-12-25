@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -66,6 +66,7 @@ meta-events.betternutrition.com CNAME .
 meta-events.bikereg.com CNAME .
 meta-events.cleaneatingmag.com CNAME .
 meta-events.climbing.com CNAME .
+meta-events.crossresults.com CNAME .
 meta-events.finisherpix.com CNAME .
 meta-events.gaiagps.com CNAME .
 meta-events.mycoloradoparks.com CNAME .

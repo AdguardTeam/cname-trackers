@@ -42,6 +42,7 @@ utiq.bibamagazine.fr
 utiq.bild.de
 utiq.bitban.com
 utiq.blogthinkbig.com
+utiq.buffed.de
 utiq.bunte.de
 utiq.burgosconecta.es
 utiq.buzzfeed.at
@@ -78,6 +79,7 @@ utiq.donaukurier.de
 utiq.duden.de
 utiq.easyvoyage.com
 utiq.eatbetter.de
+utiq.einbuergerungstest-online.de
 utiq.einfach-tasty.de
 utiq.einfachkochen.de
 utiq.elcomercio.es
@@ -186,12 +188,14 @@ utiq.marca.com
 utiq.mariefrance.fr
 utiq.marmiton.org
 utiq.meine-anzeigenzeitung.de
+utiq.mejorconectados.com
 utiq.merkur.de
 utiq.midilibre.fr
 utiq.millenium.gg
 utiq.millenium.org
 utiq.mittelbayerische.de
 utiq.modesettravaux.fr
+utiq.monacomatin.mc
 utiq.mopo.de
 utiq.motor-talk.de
 utiq.motorradfrage.net
@@ -200,6 +204,7 @@ utiq.mundoxiaomi.com
 utiq.myhomebook.de
 utiq.neonmag.fr
 utiq.news38.de
+utiq.nicematin.com
 utiq.nordlittoral.fr
 utiq.nostalgie.fr
 utiq.nrj-play.fr
@@ -213,6 +218,7 @@ utiq.ozap.com
 utiq.palladiumhotelgroup.com
 utiq.paris-normandie.fr
 utiq.paroledemamans.com
+utiq.pcgames.de
 utiq.petbook-magazine.com
 utiq.petbook.de
 utiq.petitbleu.fr
@@ -251,6 +257,7 @@ utiq.t-online.de
 utiq.tagesspiegel.de
 utiq.tatort-fans.de
 utiq.techbook.de
+utiq.telefonica.com
 utiq.telekom.de
 utiq.terrafemina.com
 utiq.thueringen24.de
@@ -268,6 +275,7 @@ utiq.utest2.work
 utiq.utest3-prod.work
 utiq.utest3.work
 utiq.utopia.de
+utiq.varmatin.com
 utiq.verisure.fr
 utiq.vidaextra.com
 utiq.vitonica.com

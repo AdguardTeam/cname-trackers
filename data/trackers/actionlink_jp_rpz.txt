@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,6 +63,7 @@ al.paragel-onlineshop.jp CNAME .
 al.peak-blue.com CNAME .
 al.pierrotshop.jp CNAME .
 al.rayell.jp CNAME .
+al.route-2.net CNAME .
 al.saifuku-knit.jp CNAME .
 al.santelabo.jp CNAME .
 al.sanwaweb.com CNAME .

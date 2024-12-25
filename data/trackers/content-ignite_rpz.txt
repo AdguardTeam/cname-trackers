@@ -1,0 +1,33 @@
+;
+; Company name: Content Ignite
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1735125016711        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+tagdelivery.mayoclinic.org CNAME .
+tccd.douglas.at CNAME .
+tccd.douglas.be CNAME .
+tccd.douglas.bg CNAME .
+tccd.douglas.ch CNAME .
+tccd.douglas.cz CNAME .
+tccd.douglas.de CNAME .
+tccd.douglas.ee CNAME .
+tccd.douglas.es CNAME .
+tccd.douglas.hr CNAME .
+tccd.douglas.hu CNAME .
+tccd.douglas.it CNAME .
+tccd.douglas.lt CNAME .
+tccd.douglas.lv CNAME .
+tccd.douglas.nl CNAME .
+tccd.douglas.pl CNAME .
+tccd.douglas.pt CNAME .
+tccd.douglas.ro CNAME .
+tccd.douglas.si CNAME .
+tccd.douglas.sk CNAME .

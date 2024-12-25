@@ -7,10 +7,7 @@
 ||a1.api.bbc.co.uk^
 ||a1.api.bbc.com^
 ||abncx.amv.fr^
-||ama.planet-wissen.de^
-||ama.quarks.de^
 ||ama.wdr.de^
-||ama.wdrmaus.de^
 ||ana.tv5unis.ca^
 ||arrietty.nrj.fr^
 ||at-cddc.actu-juridique.fr^

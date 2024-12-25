@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -167,6 +167,7 @@ tr.btob.mhdfrance.fr CNAME .
 tr.btobquotes.be CNAME .
 tr.btobquotes.cl CNAME .
 tr.btobquotes.com CNAME .
+tr.btobquotes.com.br CNAME .
 tr.btobquotes.mx CNAME .
 tr.buenasofertas.pro CNAME .
 tr.bureauveritas.espmp-aufr.net CNAME .
@@ -736,6 +737,7 @@ tr.news.apotamox.com CNAME .
 tr.news.aramisauto.com CNAME .
 tr.news.assuragency.net CNAME .
 tr.news.bruneau.fr CNAME .
+tr.news.btob-pro.nl CNAME .
 tr.news.business-deal.co.uk CNAME .
 tr.news.c-media.fr CNAME .
 tr.news.cad-magazine.com CNAME .
@@ -797,11 +799,13 @@ tr.news.happycap.org CNAME .
 tr.news.havasvoyages-groupes.fr CNAME .
 tr.news.helvyre.fr CNAME .
 tr.news.heredis.com CNAME .
+tr.news.hrdradio.tv CNAME .
 tr.news.i24news.tv CNAME .
 tr.news.ics.fr CNAME .
 tr.news.ifh.fr CNAME .
 tr.news.infopro-digital.com CNAME .
 tr.news.interforum.fr CNAME .
+tr.news.invinoradio.tv CNAME .
 tr.news.itancia.com CNAME .
 tr.news.jautomatise.com CNAME .
 tr.news.kaptainmusic.fr CNAME .
@@ -875,6 +879,7 @@ tr.news.vipmag.fr CNAME .
 tr.news.vivrecotesud.fr CNAME .
 tr.news.vo3000.com CNAME .
 tr.news.voyagesleclerc.com CNAME .
+tr.news.voyamar.fr CNAME .
 tr.news.vraaguwofferte.be CNAME .
 tr.news.vraaguwofferte.com CNAME .
 tr.news.younited-coach.com CNAME .
@@ -884,7 +889,6 @@ tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
 tr.newsletter-mdh.com CNAME .
 tr.newsletter-stressless.com CNAME .
-tr.newsletter.10h01.fr CNAME .
 tr.newsletter.1664france.fr CNAME .
 tr.newsletter.1oag.com CNAME .
 tr.newsletter.actalians.fr CNAME .
@@ -1004,12 +1008,9 @@ tr.prosfores-etairias.gr CNAME .
 tr.ps.espmp-agfr.net CNAME .
 tr.psaparts.com CNAME .
 tr.publicisdrugstore.espmp-agfr.net CNAME .
-tr.qualitaetsumfrage.com CNAME .
-tr.qualitaveicolo.com CNAME .
 tr.qualite.groupama.com CNAME .
 tr.qualite.groupebarriere.com CNAME .
 tr.qualite.viparis.com CNAME .
-tr.qualityvehiclesurvey.com CNAME .
 tr.quotes.digital CNAME .
 tr.quotes4business.com CNAME .
 tr.quotes4business.info CNAME .
@@ -1128,6 +1129,7 @@ tr.urfk06o.espmp-agfr.net CNAME .
 tr.urfk06v.espmp-aufr.net CNAME .
 tr.urfk06x.espmp-cufr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
+tr.urfk07h.espmp-agfr.net CNAME .
 tr.urfk07j.espmp-nifr.net CNAME .
 tr.urfk07r.espmp-agfr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .
@@ -1197,3 +1199,4 @@ f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
 www.bfc-mp.caisse-epargne.fr CNAME .
+www.lgch.mp CNAME .

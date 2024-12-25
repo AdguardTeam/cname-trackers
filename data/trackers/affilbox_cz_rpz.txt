@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -445,7 +445,6 @@ my.weplayvolleyball.si CNAME .
 my.weplayvolleyball.sk CNAME .
 obluk.equilist.cz CNAME .
 online.pdfknihovna.cz CNAME .
-partak.surfey.cz CNAME .
 partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
 partner.2din.cz CNAME .
@@ -706,6 +705,7 @@ partner.prosperity-vision.com CNAME .
 partner.prosperk.cz CNAME .
 partner.proviznasiet.sk CNAME .
 partner.psidetektiv.cz CNAME .
+partner.pureharmony.cz CNAME .
 partner.respelen.cz CNAME .
 partner.root.cz CNAME .
 partner.royalfashion.cz CNAME .
@@ -736,7 +736,6 @@ partner.strendem.cz CNAME .
 partner.stromkyonline.cz CNAME .
 partner.summermyles.cz CNAME .
 partner.susmevem.com CNAME .
-partner.svatba.cz CNAME .
 partner.svatebni-diar.cz CNAME .
 partner.svetcukrarov.sk CNAME .
 partner.svetcukraru.cz CNAME .
@@ -744,7 +743,6 @@ partner.svetruzi.cz CNAME .
 partner.swaglift.com CNAME .
 partner.sypanycaj.eu CNAME .
 partner.tahnabranu.cz CNAME .
-partner.tajemstvi-uspechu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.thelisteningworld.com CNAME .
 partner.top-obaly.cz CNAME .
@@ -805,7 +803,6 @@ partneri.cestovatelskyobchod.cz CNAME .
 partneri.chytraopicka.cz CNAME .
 partneri.chytrykvetinac.cz CNAME .
 partneri.cvicenie-strava.sk CNAME .
-partneri.danahanouskova.cz CNAME .
 partneri.dietavkrabicce.cz CNAME .
 partneri.dluhopisomat.cz CNAME .
 partneri.domaci-outlet.cz CNAME .
@@ -911,7 +908,6 @@ partneri.trollbeadscz.com CNAME .
 partneri.tvorboshop.cz CNAME .
 partneri.umenibytzdrav.cz CNAME .
 partneri.umenijazyku.cz CNAME .
-partneri.variantbyznys.cz CNAME .
 partneri.vashop.cz CNAME .
 partneri.viadelicia.cz CNAME .
 partneri.vitaon.cz CNAME .
@@ -969,6 +965,7 @@ spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .
 spoluprace.cistapohoda.cz CNAME .
 spoluprace.eroticstore.cz CNAME .
+spoluprace.fotozde.cz CNAME .
 spoluprace.galaxy.cz CNAME .
 spoluprace.h2world.store CNAME .
 spoluprace.hyla.cz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 analytics.freiraumakustik.de CNAME .
+atrdb.laeckerli-huus.ch CNAME .
 auszeichnungen.pokale-nrw.de CNAME .
 bmkt.bernhardtmoden.de CNAME .
 click.easycosmetic.at CNAME .
@@ -45,6 +46,7 @@ ettcc.steute-leantec.com CNAME .
 ettcc.steute-meditec.com CNAME .
 ettcc.steute.com CNAME .
 ferthu.seyffer.shop CNAME .
+insides.honic.eu CNAME .
 js.edingershops.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
@@ -95,6 +97,7 @@ webcontr.chiptuning.com CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.l.de CNAME .
+webcontr.lmz-bw.de CNAME .
 webcontr.pedalbox.com CNAME .
 webcontr.reisprinzen.de CNAME .
 webcontr.rollytoys.de CNAME .

@@ -10,6 +10,7 @@ go.meretmarine.com
 go.publicsenat.fr
 go.rfi.fr
 go.solidworks.com
+ie.h24.news
 in.h24.news
 it.h24.news
 l.20minutes.fr
@@ -36,11 +37,13 @@ l.centrepresseaveyron.fr
 l.challenges.fr
 l.charentelibre.fr
 l.closermag.fr
+l.cnetfrance.fr
 l.cuisineactuelle.fr
 l.diapasonmag.fr
 l.dna.fr
 l.doctissimo.fr
 l.dzfoot.com
+l.easyvoyage.com
 l.enfant.com
 l.entrenous.fr
 l.equidia.fr
@@ -60,6 +63,7 @@ l.francemusique.fr
 l.frandroid.com
 l.gala.fr
 l.gamekult.com
+l.gamesider.com
 l.gentside.com
 l.gentside.de
 l.geo.fr
@@ -124,6 +128,7 @@ l.programme.tv
 l.psychologies.com
 l.purebreak.com
 l.purepeople.com
+l.purepeople.com.br
 l.radiofrance.fr
 l.reporterre.net
 l.republicain-lorrain.fr

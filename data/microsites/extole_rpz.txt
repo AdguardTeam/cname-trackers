@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,12 +137,12 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
 em3904.skillshare.com CNAME .
-em767.forgetrust.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
+em7952.dailypay.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
-emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -265,7 +265,6 @@ refer.gcefcu.org CNAME .
 refer.giantfood.com CNAME .
 refer.giantfoodstores.com CNAME .
 refer.glamglow.com CNAME .
-refer.glasses.com CNAME .
 refer.globalknowledge.com CNAME .
 refer.gnc.com CNAME .
 refer.gopetplan.ca CNAME .
@@ -327,6 +326,7 @@ refer.minted.com CNAME .
 refer.mission.com CNAME .
 refer.mpgsport.ca CNAME .
 refer.mpgsport.com CNAME .
+refer.msgcu.org CNAME .
 refer.myheritagedna.com CNAME .
 refer.narscosmetics.com CNAME .
 refer.naturalizer.com CNAME .
@@ -540,11 +540,13 @@ share.esteelauder.com.au CNAME .
 share.esteelauder.com.tw CNAME .
 share.ets.org CNAME .
 share.evine.com CNAME .
+share.fastbridgefiber.com CNAME .
 share.fetchpet.com CNAME .
 share.figopetinsurance.com CNAME .
 share.fingercheck.com CNAME .
 share.firstleaf.club CNAME .
 share.firstleaf.com CNAME .
+share.fitnessconnection.com CNAME .
 share.floridatoday.com CNAME .
 share.freep.com CNAME .
 share.fundrive.savers.com CNAME .
@@ -564,6 +566,7 @@ share.greenvilleonline.com CNAME .
 share.gruntstyle.com CNAME .
 share.gxvebeauty.com CNAME .
 share.havenwellwithin.com CNAME .
+share.heydayskincare.com CNAME .
 share.heydude.com CNAME .
 share.hicapitalize.com CNAME .
 share.hotwire.com CNAME .
@@ -693,7 +696,6 @@ share.starbucks.com CNAME .
 share.stargazette.com CNAME .
 share.statesman.com CNAME .
 share.statesmanjournal.com CNAME .
-share.steadyapp.com CNAME .
 share.stockpile.com CNAME .
 share.stopagingnow.com CNAME .
 share.stridehealth.com CNAME .
@@ -736,7 +738,6 @@ share.vonage.co.uk CNAME .
 share.vonage.com CNAME .
 share.wagwalking.com CNAME .
 share.walmartmoneycard.com CNAME .
-share.wecohospitality.com CNAME .
 share.whiparound.com CNAME .
 share.whistle.com CNAME .
 share.wisdompanel.com CNAME .
@@ -751,11 +752,12 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
-em2287.theory.com CNAME .
+em225.codecademy.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em7952.dailypay.com CNAME .
+em767.forgetrust.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
+emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

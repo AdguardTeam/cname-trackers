@@ -58,6 +58,7 @@
 | go.meretmarine.com | tls.non.li |
 | go.publicsenat.fr | tls.non.li |
 | go.solidworks.com | tls.non.li |
+| ie.h24.news | tls.non.li |
 | in.h24.news | tls.non.li |
 | it.h24.news | tls.non.li |
 | l.20minutes.fr | tls.non.li |
@@ -81,10 +82,12 @@
 | l.challenges.fr | tls.non.li |
 | l.charentelibre.fr | tls.non.li |
 | l.closermag.fr | tls.non.li |
+| l.cnetfrance.fr | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
 | l.diapasonmag.fr | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
 | l.dzfoot.com | tls.non.li |
+| l.easyvoyage.com | tls.non.li |
 | l.enfant.com | tls.non.li |
 | l.entrenous.fr | tls.non.li |
 | l.equidia.fr | tls.non.li |
@@ -103,6 +106,7 @@
 | l.frandroid.com | tls.non.li |
 | l.gala.fr | tls.non.li |
 | l.gamekult.com | tls.non.li |
+| l.gamesider.com | tls.non.li |
 | l.gentside.com | tls.non.li |
 | l.gentside.de | tls.non.li |
 | l.geo.fr | tls.non.li |
@@ -158,6 +162,7 @@
 | l.psychologies.com | tls.non.li |
 | l.purebreak.com | tls.non.li |
 | l.purepeople.com | tls.non.li |
+| l.purepeople.com.br | tls.non.li |
 | l.radiofrance.fr | tls.non.li |
 | l.reporterre.net | tls.non.li |
 | l.rmc.fr | tls.non.li |

@@ -1385,7 +1385,6 @@
 ||acv.cmf-hikari.net^
 ||acv.crea-lp.com^
 ||acv.fletsntt.com^
-||acv.hikariocn.com^
 ||acv.hikarisoftbank.com^
 ||acv.internet-moushikomi.net^
 ||acv.kyushu-internet.com^

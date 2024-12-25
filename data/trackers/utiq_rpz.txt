@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -53,6 +53,7 @@ utiq.bibamagazine.fr CNAME .
 utiq.bild.de CNAME .
 utiq.bitban.com CNAME .
 utiq.blogthinkbig.com CNAME .
+utiq.buffed.de CNAME .
 utiq.bunte.de CNAME .
 utiq.burgosconecta.es CNAME .
 utiq.buzzfeed.at CNAME .
@@ -89,6 +90,7 @@ utiq.donaukurier.de CNAME .
 utiq.duden.de CNAME .
 utiq.easyvoyage.com CNAME .
 utiq.eatbetter.de CNAME .
+utiq.einbuergerungstest-online.de CNAME .
 utiq.einfach-tasty.de CNAME .
 utiq.einfachkochen.de CNAME .
 utiq.elcomercio.es CNAME .
@@ -197,12 +199,14 @@ utiq.marca.com CNAME .
 utiq.mariefrance.fr CNAME .
 utiq.marmiton.org CNAME .
 utiq.meine-anzeigenzeitung.de CNAME .
+utiq.mejorconectados.com CNAME .
 utiq.merkur.de CNAME .
 utiq.midilibre.fr CNAME .
 utiq.millenium.gg CNAME .
 utiq.millenium.org CNAME .
 utiq.mittelbayerische.de CNAME .
 utiq.modesettravaux.fr CNAME .
+utiq.monacomatin.mc CNAME .
 utiq.mopo.de CNAME .
 utiq.motor-talk.de CNAME .
 utiq.motorradfrage.net CNAME .
@@ -211,6 +215,7 @@ utiq.mundoxiaomi.com CNAME .
 utiq.myhomebook.de CNAME .
 utiq.neonmag.fr CNAME .
 utiq.news38.de CNAME .
+utiq.nicematin.com CNAME .
 utiq.nordlittoral.fr CNAME .
 utiq.nostalgie.fr CNAME .
 utiq.nrj-play.fr CNAME .
@@ -224,6 +229,7 @@ utiq.ozap.com CNAME .
 utiq.palladiumhotelgroup.com CNAME .
 utiq.paris-normandie.fr CNAME .
 utiq.paroledemamans.com CNAME .
+utiq.pcgames.de CNAME .
 utiq.petbook-magazine.com CNAME .
 utiq.petbook.de CNAME .
 utiq.petitbleu.fr CNAME .
@@ -262,6 +268,7 @@ utiq.t-online.de CNAME .
 utiq.tagesspiegel.de CNAME .
 utiq.tatort-fans.de CNAME .
 utiq.techbook.de CNAME .
+utiq.telefonica.com CNAME .
 utiq.telekom.de CNAME .
 utiq.terrafemina.com CNAME .
 utiq.thueringen24.de CNAME .
@@ -279,6 +286,7 @@ utiq.utest2.work CNAME .
 utiq.utest3-prod.work CNAME .
 utiq.utest3.work CNAME .
 utiq.utopia.de CNAME .
+utiq.varmatin.com CNAME .
 utiq.verisure.fr CNAME .
 utiq.vidaextra.com CNAME .
 utiq.vitonica.com CNAME .

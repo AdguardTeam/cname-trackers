@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1396,7 +1396,6 @@ acv.biglobe-hikari.net CNAME .
 acv.cmf-hikari.net CNAME .
 acv.crea-lp.com CNAME .
 acv.fletsntt.com CNAME .
-acv.hikariocn.com CNAME .
 acv.hikarisoftbank.com CNAME .
 acv.internet-moushikomi.net CNAME .
 acv.kyushu-internet.com CNAME .

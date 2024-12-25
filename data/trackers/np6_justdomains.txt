@@ -156,6 +156,7 @@ tr.btob.mhdfrance.fr
 tr.btobquotes.be
 tr.btobquotes.cl
 tr.btobquotes.com
+tr.btobquotes.com.br
 tr.btobquotes.mx
 tr.buenasofertas.pro
 tr.bureauveritas.espmp-aufr.net
@@ -725,6 +726,7 @@ tr.news.apotamox.com
 tr.news.aramisauto.com
 tr.news.assuragency.net
 tr.news.bruneau.fr
+tr.news.btob-pro.nl
 tr.news.business-deal.co.uk
 tr.news.c-media.fr
 tr.news.cad-magazine.com
@@ -786,11 +788,13 @@ tr.news.happycap.org
 tr.news.havasvoyages-groupes.fr
 tr.news.helvyre.fr
 tr.news.heredis.com
+tr.news.hrdradio.tv
 tr.news.i24news.tv
 tr.news.ics.fr
 tr.news.ifh.fr
 tr.news.infopro-digital.com
 tr.news.interforum.fr
+tr.news.invinoradio.tv
 tr.news.itancia.com
 tr.news.jautomatise.com
 tr.news.kaptainmusic.fr
@@ -864,6 +868,7 @@ tr.news.vipmag.fr
 tr.news.vivrecotesud.fr
 tr.news.vo3000.com
 tr.news.voyagesleclerc.com
+tr.news.voyamar.fr
 tr.news.vraaguwofferte.be
 tr.news.vraaguwofferte.com
 tr.news.younited-coach.com
@@ -873,7 +878,6 @@ tr.news5.cdiscount.com
 tr.news6.cdiscount.com
 tr.newsletter-mdh.com
 tr.newsletter-stressless.com
-tr.newsletter.10h01.fr
 tr.newsletter.1664france.fr
 tr.newsletter.1oag.com
 tr.newsletter.actalians.fr
@@ -993,12 +997,9 @@ tr.prosfores-etairias.gr
 tr.ps.espmp-agfr.net
 tr.psaparts.com
 tr.publicisdrugstore.espmp-agfr.net
-tr.qualitaetsumfrage.com
-tr.qualitaveicolo.com
 tr.qualite.groupama.com
 tr.qualite.groupebarriere.com
 tr.qualite.viparis.com
-tr.qualityvehiclesurvey.com
 tr.quotes.digital
 tr.quotes4business.com
 tr.quotes4business.info
@@ -1117,6 +1118,7 @@ tr.urfk06o.espmp-agfr.net
 tr.urfk06v.espmp-aufr.net
 tr.urfk06x.espmp-cufr.net
 tr.urfk06y.espmp-nifr.net
+tr.urfk07h.espmp-agfr.net
 tr.urfk07j.espmp-nifr.net
 tr.urfk07r.espmp-agfr.net
 tr.urfk07s.espmp-nifr.net
@@ -1186,3 +1188,4 @@ f1.np6.com
 infojeux.paris.fr
 lbv5.mperf.com
 www.bfc-mp.caisse-epargne.fr
+www.lgch.mp

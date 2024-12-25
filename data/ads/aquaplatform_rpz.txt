@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,7 @@ adamsads.midtc.com CNAME .
 adconsole.bidspotter.co.uk CNAME .
 adconsole.kozoom.com CNAME .
 adconsole.lot-tissimo.com CNAME .
+adconsole.proxibid.com CNAME .
 adconsole.sniffies.com CNAME .
 adimages.eva.live CNAME .
 adimages.sniffies.com CNAME .
@@ -175,6 +176,7 @@ static.insideradverts.com CNAME .
 static.livingmagonline.com CNAME .
 static.mannixmarketing.com CNAME .
 static.miningweekly.com CNAME .
+static.mondiale.co.uk CNAME .
 static.polity.org.za CNAME .
 static.postandparcel.info CNAME .
 static.proxibid.com CNAME .

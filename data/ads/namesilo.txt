@@ -273,6 +273,7 @@
 ||3317882.notifysrv.com^
 ||3317892.notify6.com^
 ||3317892.notifysrv.com^
+||3319502.notify6.com^
 ||3319502.notifysrv.com^
 ||3319834.notifysrv.com^
 ||3321270.notifysrv.com^
@@ -313,6 +314,7 @@
 ||3344862.notifysrv.com^
 ||3344934.notifysrv.com^
 ||3344944.notifysrv.com^
+||3345712.notify6.com^
 ||3345712.notifysrv.com^
 ||3346174.notify6.com^
 ||3346174.notifysrv.com^
@@ -348,6 +350,7 @@
 ||3362426.notifysrv.com^
 ||3363688.notify6.com^
 ||3364366.notify6.com^
+||3364638.notify6.com^
 ||3365442.notifysrv.com^
 ||3373381.notify6.com^
 ||3376753.notifysrv.com^
@@ -371,6 +374,7 @@
 ||3398315.notify6.com^
 ||3398771.notifysrv.com^
 ||3398793.notifysrv.com^
+||3399031.notifysrv.com^
 ||3400453.notifysrv.com^
 ||3402191.notifysrv.com^
 ||3404041.notifysrv.com^
@@ -623,6 +627,7 @@
 ||3576531.notifysrv.com^
 ||3576907.notifysrv.com^
 ||3578231.notify6.com^
+||3578231.notifysrv.com^
 ||3578235.notify6.com^
 ||3578239.notify6.com^
 ||3578241.notify6.com^
@@ -651,6 +656,7 @@
 ||3588587.notifysrv.com^
 ||3588589.notify6.com^
 ||3588591.notify6.com^
+||3588591.notifysrv.com^
 ||3588593.notifysrv.com^
 ||3588597.notifysrv.com^
 ||3588599.notifysrv.com^
@@ -1114,7 +1120,9 @@
 ||4917212.notify6.com^
 ||4919236.notify6.com^
 ||4929320.notify6.com^
+||4947244.notify6.com^
 ||4960922.notify6.com^
+||4971156.notify6.com^
 ||4983200.notify6.com^
 ||4983282.notify6.com^
 ||5.notifysrv.com^
@@ -1128,6 +1136,7 @@
 ||5131774.notify6.com^
 ||5132062.notify6.com^
 ||5153152.notify6.com^
+||5186246.notify6.com^
 ||5276648.notify6.com^
 ||5289086.notify6.com^
 ||5296856.notify6.com^
@@ -1163,6 +1172,7 @@
 ||a.advertrek.com^
 ||a.asvsm.com^
 ||a.b7q9v8z.com^
+||a.bizonads-ssp.com^
 ||a.cant3am.com^
 ||a.etology.com^
 ||a.eunow4u.com^
@@ -1179,7 +1189,6 @@
 ||a.redpathmedia.com^
 ||a.rocoads.net^
 ||a.santabrowser.com^
-||a.slice.exchange^
 ||a.tf4srv.com^
 ||a.traffic-gold.com^
 ||a.vws4brkfst.com^
@@ -1204,7 +1213,6 @@
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
 ||adrepository.opoxv.com^
-||ads.optimizesrv.com^
 ||ads.toroadvertising.com^
 ||adult.notifysrv.com^
 ||andy.notifysrv.com^
@@ -1214,7 +1222,6 @@
 ||api.datingclix.com^
 ||api.getblaze.app^
 ||api.shafttraffic.com^
-||api.slice.exchange^
 ||api.tf4srv.com^
 ||api.trafficfactory.com^
 ||api.vrumeads.com^
@@ -1284,6 +1291,7 @@
 ||s.adsession.com^
 ||s.advantageclicks.net^
 ||s.advertrek.com^
+||s.allureanews.com^
 ||s.asvsm.com^
 ||s.b7q9v8z.com^
 ||s.bizonads-ssp.com^
@@ -1291,6 +1299,8 @@
 ||s.datingclix.com^
 ||s.ds0yue.com^
 ||s.ds239w.com^
+||s.ds2gs4.com^
+||s.ds3jbr.com^
 ||s.eaalink.com^
 ||s.elink2b.com^
 ||s.elink2c.com^
@@ -1309,6 +1319,7 @@
 ||s.elnk40.com^
 ||s.elnk4b.com^
 ||s.elnk4d.com^
+||s.elnk66.com^
 ||s.elnk90.com^
 ||s.elnk92.com^
 ||s.elnkp2.com^
@@ -1360,7 +1371,6 @@
 ||s.q88z1s3.com^
 ||s.redpathmedia.com^
 ||s.rocoads.net^
-||s.slice.exchange^
 ||s.st1net.com^
 ||s.tf4srv.com^
 ||s.traffic-gold.com^
@@ -1429,6 +1439,7 @@
 ||syndication.link2nx.com^
 ||syndication.link2zz.com^
 ||syndication.link3dx.com^
+||syndication.link5a.com^
 ||syndication.link5c.com^
 ||syndication.linkfryn.com^
 ||syndication.linkwitt.com^
@@ -1528,4 +1539,4 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
-||a.bizonads-ssp.com^
+||ads.optimizesrv.com^

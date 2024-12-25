@@ -55,6 +55,7 @@ meta-events.betternutrition.com
 meta-events.bikereg.com
 meta-events.cleaneatingmag.com
 meta-events.climbing.com
+meta-events.crossresults.com
 meta-events.finisherpix.com
 meta-events.gaiagps.com
 meta-events.mycoloradoparks.com

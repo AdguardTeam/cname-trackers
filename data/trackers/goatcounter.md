@@ -22,12 +22,16 @@
     * cgcristi.goatcounter.com
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
+    * codinggrace.goatcounter.com
     * dannynullzwo.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
     * doarpstsjerke.goatcounter.com
     * dungeon.goatcounter.com
+    * ebdruplab.goatcounter.com
+    * elkobraas.goatcounter.com
     * embedx.goatcounter.com
+    * enamya.goatcounter.com
     * ferrybig.goatcounter.com
     * fieald.goatcounter.com
     * gamecraft.goatcounter.com
@@ -39,6 +43,7 @@
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
     * huku.goatcounter.com
+    * ignatuque.goatcounter.com
     * irisphotos.goatcounter.com
     * isaacfreund.goatcounter.com
     * jakebailey.goatcounter.com
@@ -55,6 +60,7 @@
     * lspeed.goatcounter.com
     * maik-dev.goatcounter.com
     * maple.goatcounter.com
+    * mausoleum.goatcounter.com
     * mele.goatcounter.com
     * mindenugyved.goatcounter.com
     * mine.goatcounter.com
@@ -123,12 +129,16 @@
 | stats.cgcristi.xyz | cgcristi.goatcounter.com |
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
+| goatcounter.codinggrace.com | codinggrace.goatcounter.com |
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
 | stats.doarpstsjerke.nl | doarpstsjerke.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
+| stats.ebdruplab.dk | ebdruplab.goatcounter.com |
+| statistic.elkobraas.com | elkobraas.goatcounter.com |
 | pixel.embed.su | embedx.goatcounter.com |
+| gtcntr.enamya.me | enamya.goatcounter.com |
 | analytics.ferrybig.me | ferrybig.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
@@ -140,6 +150,7 @@
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | goat.huku.rocks | huku.goatcounter.com |
+| stats.ignatuque.xyz | ignatuque.goatcounter.com |
 | ping.irisphotos.app | irisphotos.goatcounter.com |
 | stats.isaacfreund.com | isaacfreund.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
@@ -156,6 +167,7 @@
 | stats.lspeed.org | lspeed.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |
 | st.mapleranks.com | maple.goatcounter.com |
+| stats.mausoleum.me | mausoleum.goatcounter.com |
 | stats.mele.dev | mele.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |

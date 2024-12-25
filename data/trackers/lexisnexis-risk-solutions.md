@@ -58,6 +58,7 @@
     * h-32rts1pk.online-metrix.net
     * h-3375wwy7.online-metrix.net
     * h-34mvnza6.online-metrix.net
+    * h-35y9sib5-2.online-metrix.net
     * h-35y9sib5.online-metrix.net
     * h-39zuido3.online-metrix.net
     * h-3ch524y7.online-metrix.net
@@ -83,6 +84,7 @@
     * h-4nyhdbu2.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ruz3ugq2.online-metrix.net
+    * h-4saxfla9.online-metrix.net
     * h-4ulk5mz4.online-metrix.net
     * h-4vocbmhq.online-metrix.net
     * h-516jl8bt.online-metrix.net
@@ -111,6 +113,7 @@
     * h-6jfhwoo3.online-metrix.net
     * h-6mlhprq2-a.online-metrix.net
     * h-6mlhprq2.online-metrix.net
+    * h-6r2adsk3.online-metrix.net
     * h-6rj18la4.online-metrix.net
     * h-6voqock8.online-metrix.net
     * h-6wp7e261.online-metrix.net
@@ -153,7 +156,6 @@
     * h-8ms1wsqq.online-metrix.net
     * h-8om29r2u-a.online-metrix.net
     * h-8om29r2u.online-metrix.net
-    * h-8oyp0c5v.online-metrix.net
     * h-8s9j9vgb.online-metrix.net
     * h-8t63q4n4.online-metrix.net
     * h-8uj1s5zr.online-metrix.net
@@ -405,6 +407,7 @@
     * h-disney.online-metrix.net
     * h-dnp-cdms.online-metrix.net
     * h-doregtzf.online-metrix.net
+    * h-dpugokq9.online-metrix.net
     * h-draftkings.online-metrix.net
     * h-drav45kl.online-metrix.net
     * h-drbo60la.online-metrix.net
@@ -424,7 +427,6 @@
     * h-e0j3u9ji-fool.online-metrix.net
     * h-e0j3u9ji-legalzoom.online-metrix.net
     * h-e0j3u9ji-wptm.online-metrix.net
-    * h-e0j3u9ji.online-metrix.net
     * h-ebay-kleinanzeigen.online-metrix.net
     * h-ebay.online-metrix.net
     * h-ecampus.online-metrix.net
@@ -913,6 +915,7 @@
 | secure.freshbooks.com | h-32rts1pk.online-metrix.net |
 | login-verification.dol.ct.gov | h-3375wwy7.online-metrix.net |
 | nv-2.liveaction.com | h-34mvnza6.online-metrix.net |
+| id.charge-auth.com | h-35y9sib5-2.online-metrix.net |
 | id.solidgate.com | h-35y9sib5.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | fss.glbank.com | h-3ch524y7.online-metrix.net |
@@ -952,6 +955,7 @@
 | onoutput.com | h-4nyhdbu2.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | dep.gambit29.gameassists.co.uk | h-4ruz3ugq2.online-metrix.net |
+| cnt.faktoria.pl | h-4saxfla9.online-metrix.net |
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
 | svc.ondeck.com.au | h-4vocbmhq.online-metrix.net |
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
@@ -1000,6 +1004,7 @@
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
 | tblsdp.staging.tonybet.ca | h-6mlhprq2-a.online-metrix.net |
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
+| myuw5.nj.gov | h-6r2adsk3.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | content.telusinternational.ai | h-6voqock8.online-metrix.net |
 | contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
@@ -1038,6 +1043,7 @@
 | info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
 | info.jackpotcity.co.za | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
+| tm.tbcbusiness.uz | h-7xy7wvmp.online-metrix.net |
 | sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
 | ltxup.sumup.com | h-84sv8qof.online-metrix.net |
 | ltxup.sumup.io | h-84sv8qof.online-metrix.net |
@@ -1056,7 +1062,6 @@
 | tmuat.kotak.com | h-8ms1wsqq.online-metrix.net |
 | digitalidentity.compass.it | h-8om29r2u-a.online-metrix.net |
 | piafapp.poste.it | h-8om29r2u.online-metrix.net |
-| testappcontent.fcmbtest.com | h-8oyp0c5v.online-metrix.net |
 | cdna.monabanq.com | h-8s9j9vgb.online-metrix.net |
 | rba.apata.io | h-8t63q4n4.online-metrix.net |
 | req.secured-content.com | h-8uj1s5zr.online-metrix.net |
@@ -1104,6 +1109,7 @@
 | afm.vtg-mkt-apac.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkts.com | h-96eziru5.online-metrix.net |
+| afm.vtmarkets.co | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
 | afm.vtmarketsfr.com | h-96eziru5.online-metrix.net |
@@ -1123,6 +1129,7 @@
 | tmcdn.jackpotcity.mx | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcitycasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcitycasino.com.py | h-98oju8tz.online-metrix.net |
+| tmcdn.kiwistreasure.com | h-98oju8tz.online-metrix.net |
 | tmcdn.luckynuggetcasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.mummysgold.com | h-98oju8tz.online-metrix.net |
 | tmcdn.platinumplaycasino.com | h-98oju8tz.online-metrix.net |
@@ -1235,6 +1242,7 @@
 | srv.squaretrade.es | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.fi | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.no | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.pt | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.se | h-b6te0xmf.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
@@ -1253,8 +1261,10 @@
 | log.betdaq.com | h-betdaq.online-metrix.net |
 | regstat.betfair.com | h-betfair.online-metrix.net |
 | regstat.betfair.es | h-betfair.online-metrix.net |
+| regstat.betfair.it | h-betfair.online-metrix.net |
 | regstat.betfair.ro | h-betfair.online-metrix.net |
 | regstat.betfair.se | h-betfair.online-metrix.net |
+| regstat.dibz.co.uk | h-betfair.online-metrix.net |
 | assessment.nj.betmgm.com | h-betmgm.online-metrix.net |
 | secure.idbank.it | h-bewnb8q4.online-metrix.net |
 | tmx.beyondbank.com.au | h-beyondbank.online-metrix.net |
@@ -1461,6 +1471,7 @@
 | fp.disney.go.com | h-disney.online-metrix.net |
 | acsweb-3dr1.dnp-cdms.jp | h-dnp-cdms.online-metrix.net |
 | asanalytics.booking.com | h-doregtzf.online-metrix.net |
+| content.novunaconsumerfinance.co.uk | h-dpugokq9.online-metrix.net |
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |
 | content.wizink.es | h-drav45kl.online-metrix.net |
 | payments.hd-plus.de | h-drbo60la.online-metrix.net |
@@ -1484,7 +1495,6 @@
 | fingerprint.fool.com | h-e0j3u9ji-fool.online-metrix.net |
 | shield.legalzoom.com | h-e0j3u9ji-legalzoom.online-metrix.net |
 | wptm.worldvision.org | h-e0j3u9ji-wptm.online-metrix.net |
-| zacchaeus.logos.com | h-e0j3u9ji.online-metrix.net |
 | fdts.kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
 | src.ebay-us.com | h-ebay.online-metrix.net |
 | content.ecampus.com | h-ecampus.online-metrix.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,10 +18,7 @@ a.pourquoidocteur.fr CNAME .
 a1.api.bbc.co.uk CNAME .
 a1.api.bbc.com CNAME .
 abncx.amv.fr CNAME .
-ama.planet-wissen.de CNAME .
-ama.quarks.de CNAME .
 ama.wdr.de CNAME .
-ama.wdrmaus.de CNAME .
 ana.tv5unis.ca CNAME .
 arrietty.nrj.fr CNAME .
 at-cddc.actu-juridique.fr CNAME .

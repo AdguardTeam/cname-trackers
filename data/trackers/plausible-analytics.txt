@@ -87,7 +87,6 @@
 ||hola.xebel.co^
 ||hstats.askmiso.com^
 ||hurricane.tinybird.co^
-||info.bestbudgetapps.com^
 ||informatics.filamentcolors.xyz^
 ||insights.affilimate.com^
 ||jinx.skullctf.com^
@@ -348,7 +347,6 @@
 ||stats.astrr.ru^
 ||stats.asymptotic.io^
 ||stats.auto-dombrowski.de^
-||stats.autofarm.network^
 ||stats.bananatimer.com^
 ||stats.bcdtravel.com^
 ||stats.beanr.coffee^
@@ -573,7 +571,6 @@
 ||stats.kensho.com^
 ||stats.kettlebellbundle.com^
 ||stats.kfcsint-lenaartsjeugd.be^
-||stats.kitspace.org^
 ||stats.klaussteinke.com^
 ||stats.klj-consult.com^
 ||stats.kod.ru^
@@ -826,6 +823,7 @@
 ||stats.trimbles.ie^
 ||stats.trussed.dev^
 ||stats.tubecalculator.co.uk^
+||stats.turisme.nu^
 ||stats.twhl.xyz^
 ||stats.ubiwiz.com^
 ||stats.unka.space^
@@ -878,6 +876,7 @@
 ||traffic.hostedstatus.page^
 ||traffic.taktikal.is^
 ||triton.companyegg.com^
+||usage.growthbook.io^
 ||varys.asongofzandc.xyz^
 ||views.ericcapella.com^
 ||views.sikerlogistics.com^

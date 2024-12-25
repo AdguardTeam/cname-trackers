@@ -34,6 +34,7 @@ afm.vnvtglobal.com
 afm.vtg-mkt-apac.com
 afm.vtg-mkt.com
 afm.vtg-mkts.com
+afm.vtmarkets.co
 afm.vtmarkets.com
 afm.vtmarkets.net
 afm.vtmarketsfr.com
@@ -206,6 +207,7 @@ clear.wallapop.com
 client.online.sandyspringbank.com
 clovergo.june-testing.firstdata.com
 cmprofile.cards.citidirect.com
+cnt.faktoria.pl
 cnt.goboo.com
 cnt.patpat.com
 compliance.mohegansuncasino.com
@@ -310,6 +312,7 @@ content.mywisely.com
 content.name.com
 content.nebraska.gov
 content.netcredit.pl
+content.novunaconsumerfinance.co.uk
 content.nu.com.co
 content.nu.com.mx
 content.nubank.com.br
@@ -550,6 +553,7 @@ h.truist.com
 hint-tmdp.opendoor.com
 hooru.regence.com
 hunt.elcorteingles.es
+id.charge-auth.com
 id.latitudefinancial.com
 id.solidgate.com
 identidaddigital.credicomer.com.sv
@@ -676,6 +680,7 @@ mobilecontent.networks.prod.p0.phx-infra.com
 mobilecontent.projectdrgn.com
 msimkpups.michaels.com
 mtx.thirdstream.ca
+myuw5.nj.gov
 nav.sciencedirect.com
 neo.cdx-bankislam.com
 neo.fashionette.de
@@ -821,8 +826,10 @@ rbawis.pocketcard.co.jp
 rebatecontent.finance.delaware.gov
 regstat.betfair.com
 regstat.betfair.es
+regstat.betfair.it
 regstat.betfair.ro
 regstat.betfair.se
+regstat.dibz.co.uk
 regstat.paddypower.com
 regstat.skybet.com
 regstat.skybetservices.com
@@ -907,6 +914,7 @@ srv.squaretrade.dk
 srv.squaretrade.es
 srv.squaretrade.fi
 srv.squaretrade.no
+srv.squaretrade.pt
 srv.squaretrade.se
 ssafp.samsclub.com
 st10.sofi.com
@@ -986,7 +994,6 @@ tcontent.auchantelecom.fr
 tcontent.cdiscountmobile.cdiscount.com
 tcontent.nrjmobile.fr
 telem.highlow.com
-testappcontent.fcmbtest.com
 tfp.intuit.com
 th.barclays.co.uk
 thm.v.me
@@ -1053,6 +1060,7 @@ tm.stoiximan.gr
 tm.summit-services.ca
 tm.sunbit.com
 tm.tbcbank.uz
+tm.tbcbusiness.uz
 tm.telecharge.com
 tm.uship.com
 tm.verify.illion.com.au
@@ -1066,6 +1074,7 @@ tmcdn.jackpotcity.ca
 tmcdn.jackpotcity.mx
 tmcdn.jackpotcitycasino.com
 tmcdn.jackpotcitycasino.com.py
+tmcdn.kiwistreasure.com
 tmcdn.luckynuggetcasino.com
 tmcdn.mummysgold.com
 tmcdn.platinumplaycasino.com
@@ -1197,6 +1206,5 @@ xmt.paze.com
 xmt.wallet.cat.earlywarning.io
 ydkwim.targobank.de
 yr3ioxw.hoaresbank.co.uk
-zacchaeus.logos.com
 zfp.intuit.com
 zrn.payglocal.com

@@ -198,6 +198,7 @@
 ||dc.sterlingjewelers.com^
 ||dc.stokke.com^
 ||dc.volkswagen.com^
+||dc.volkswagen.com.au^
 ||dc.volkswagen.de^
 ||dc.volkswagen.pl^
 ||dc.vw.co.za^

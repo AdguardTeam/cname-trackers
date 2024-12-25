@@ -291,14 +291,12 @@ camel.gastro-plan.app
 camel.nonpopularopinion.com
 camel.warvik.no
 canid.20inchlabs.com
-canid.mestamaster.fi
 canidae.collectingsocialphoto.org
 canidae.fidum.uk
 capybara.civicsoftwarefoundation.org
 capybara.kylewinton.com
 capybara.randyhamiltonelectric.com
 cardinal.businessfirstonline.co.uk
-cardinal.ensembleblock.com
 cardinal.genx.be
 cardinal.krisenchat.de
 cardinal.newman.is
@@ -795,7 +793,6 @@ panda.unpublished.app
 panther.codyhatfield.me
 panther.essentialwellnessyoga.com.au
 panther.familytools.app
-panther.hoprnet.org
 panther.thestocks.im
 panther.tigil.rs
 parakeet.buildcodelearn.com
@@ -926,7 +923,6 @@ sheep.pixair-survey.com
 sheep.vaxstandby.com
 silkworm.bobsmechanicalrepairs.co.uk
 silkworm.boxmood.be
-silkworm.hoprnet.io
 silkworm.preventingsuicideinsussex.org
 silkworm.waspexpert.com
 silkworm.westwoodmbc.org
@@ -1088,7 +1084,6 @@ wildebeest.trigo.dev
 wildfowl.getmoneyoff.com
 wolf.samarasousa.com
 wolverine.barac.at
-wolverine.jhdierenklinieken.nl
 wombat.buildrtech.com
 woodpecker.binario11.de
 woodpecker.ember.ly
@@ -1109,6 +1104,7 @@ assets-v2.invaluable.com
 assets-v2.northsidesun.com
 avemariaas.vmrcommunications.com
 carlsonmedia.streetinteractive.com
+community.jerseyshoreonline.com
 connected.ashrae.org
 connected.county10.com
 daily.yubanet.com

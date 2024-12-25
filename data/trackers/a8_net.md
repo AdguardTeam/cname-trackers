@@ -1398,7 +1398,6 @@
 | acv.cmf-hikari.net | trck.a8.net |
 | acv.crea-lp.com | trck.a8.net |
 | acv.fletsntt.com | trck.a8.net |
-| acv.hikariocn.com | trck.a8.net |
 | acv.hikarisoftbank.com | trck.a8.net |
 | acv.internet-moushikomi.net | trck.a8.net |
 | acv.kyushu-internet.com | trck.a8.net |

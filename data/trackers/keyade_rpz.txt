@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ k.laredoute.es CNAME .
 k.laredoute.pt CNAME .
 k.laredoute.ru CNAME .
 k.laredoute.se CNAME .
+k.total.fr CNAME .
 k.voyageursdumonde.be CNAME .
 k.voyageursdumonde.ca CNAME .
 k.voyageursdumonde.ch CNAME .

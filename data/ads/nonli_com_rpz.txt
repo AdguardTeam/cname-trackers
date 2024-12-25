@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ go.meretmarine.com CNAME .
 go.publicsenat.fr CNAME .
 go.rfi.fr CNAME .
 go.solidworks.com CNAME .
+ie.h24.news CNAME .
 in.h24.news CNAME .
 it.h24.news CNAME .
 l.20minutes.fr CNAME .
@@ -47,11 +48,13 @@ l.centrepresseaveyron.fr CNAME .
 l.challenges.fr CNAME .
 l.charentelibre.fr CNAME .
 l.closermag.fr CNAME .
+l.cnetfrance.fr CNAME .
 l.cuisineactuelle.fr CNAME .
 l.diapasonmag.fr CNAME .
 l.dna.fr CNAME .
 l.doctissimo.fr CNAME .
 l.dzfoot.com CNAME .
+l.easyvoyage.com CNAME .
 l.enfant.com CNAME .
 l.entrenous.fr CNAME .
 l.equidia.fr CNAME .
@@ -71,6 +74,7 @@ l.francemusique.fr CNAME .
 l.frandroid.com CNAME .
 l.gala.fr CNAME .
 l.gamekult.com CNAME .
+l.gamesider.com CNAME .
 l.gentside.com CNAME .
 l.gentside.de CNAME .
 l.geo.fr CNAME .
@@ -135,6 +139,7 @@ l.programme.tv CNAME .
 l.psychologies.com CNAME .
 l.purebreak.com CNAME .
 l.purepeople.com CNAME .
+l.purepeople.com.br CNAME .
 l.radiofrance.fr CNAME .
 l.reporterre.net CNAME .
 l.republicain-lorrain.fr CNAME .

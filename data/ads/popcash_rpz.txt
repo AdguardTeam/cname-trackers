@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -302,14 +302,12 @@ camel.gastro-plan.app CNAME .
 camel.nonpopularopinion.com CNAME .
 camel.warvik.no CNAME .
 canid.20inchlabs.com CNAME .
-canid.mestamaster.fi CNAME .
 canidae.collectingsocialphoto.org CNAME .
 canidae.fidum.uk CNAME .
 capybara.civicsoftwarefoundation.org CNAME .
 capybara.kylewinton.com CNAME .
 capybara.randyhamiltonelectric.com CNAME .
 cardinal.businessfirstonline.co.uk CNAME .
-cardinal.ensembleblock.com CNAME .
 cardinal.genx.be CNAME .
 cardinal.krisenchat.de CNAME .
 cardinal.newman.is CNAME .
@@ -806,7 +804,6 @@ panda.unpublished.app CNAME .
 panther.codyhatfield.me CNAME .
 panther.essentialwellnessyoga.com.au CNAME .
 panther.familytools.app CNAME .
-panther.hoprnet.org CNAME .
 panther.thestocks.im CNAME .
 panther.tigil.rs CNAME .
 parakeet.buildcodelearn.com CNAME .
@@ -937,7 +934,6 @@ sheep.pixair-survey.com CNAME .
 sheep.vaxstandby.com CNAME .
 silkworm.bobsmechanicalrepairs.co.uk CNAME .
 silkworm.boxmood.be CNAME .
-silkworm.hoprnet.io CNAME .
 silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.waspexpert.com CNAME .
 silkworm.westwoodmbc.org CNAME .
@@ -1099,7 +1095,6 @@ wildebeest.trigo.dev CNAME .
 wildfowl.getmoneyoff.com CNAME .
 wolf.samarasousa.com CNAME .
 wolverine.barac.at CNAME .
-wolverine.jhdierenklinieken.nl CNAME .
 wombat.buildrtech.com CNAME .
 woodpecker.binario11.de CNAME .
 woodpecker.ember.ly CNAME .
@@ -1120,6 +1115,7 @@ assets-v2.invaluable.com CNAME .
 assets-v2.northsidesun.com CNAME .
 avemariaas.vmrcommunications.com CNAME .
 carlsonmedia.streetinteractive.com CNAME .
+community.jerseyshoreonline.com CNAME .
 connected.ashrae.org CNAME .
 connected.county10.com CNAME .
 daily.yubanet.com CNAME .

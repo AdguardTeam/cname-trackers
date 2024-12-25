@@ -4,6 +4,7 @@ adamsads.midtc.com
 adconsole.bidspotter.co.uk
 adconsole.kozoom.com
 adconsole.lot-tissimo.com
+adconsole.proxibid.com
 adconsole.sniffies.com
 adimages.eva.live
 adimages.sniffies.com
@@ -164,6 +165,7 @@ static.insideradverts.com
 static.livingmagonline.com
 static.mannixmarketing.com
 static.miningweekly.com
+static.mondiale.co.uk
 static.polity.org.za
 static.postandparcel.info
 static.proxibid.com

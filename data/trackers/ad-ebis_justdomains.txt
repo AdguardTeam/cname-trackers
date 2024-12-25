@@ -3,7 +3,6 @@
 a9d8e7b6i5s.andgino.jp
 aaa.aqualink.tv
 aaaa.jawfp2.org
-aaaa.nocor.jp
 ac-3.mix.tokyo
 ac-ebis-otrk.usen.com
 ac-ebis-stb.usen.com
@@ -81,6 +80,7 @@ adebis.leben-style.jp
 adebis.lifestylemag.jp
 adebis.livable.co.jp
 adebis.logoshome.jp
+adebis.lypo-c.shop
 adebis.mizunomori.com
 adebis.muscledeli.jp
 adebis.no.01.alo-organic.com
@@ -167,9 +167,6 @@ cname2.shaken-yoyaku.com
 cnameebis.eizoshigoto.com
 cnameebis.usagi-online.com
 cnameforitp.dermed.jp
-cnebis.chocola.com
-cnebis.eisai.jp
-cnebis.i-no-science.com
 corporate.frontierconsul.net
 cs0008sbeda.moromi-koso-c.com
 cs0010sbeda.theory-clinic.com

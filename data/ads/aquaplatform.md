@@ -75,6 +75,7 @@
     * midtc5-delivery.aquaplatform.com
     * milenar-delivery.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
+    * mondiale-static.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
     * myadsmyanmar-static.aquaplatform.com
     * oneboat-console.aquaplatform.com
@@ -228,6 +229,7 @@
 | ads-delivery.milenarmedia.pt | milenar-delivery.aquaplatform.com |
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
+| static.mondiale.co.uk | mondiale-static.aquaplatform.com |
 | servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
 | cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
 | console.everythingcolorado.com | oneboat-console.aquaplatform.com |
@@ -269,6 +271,7 @@
 | ads.postandparcel.info | postandparcel-delivery.aquaplatform.com |
 | static.postandparcel.info | postandparcel-static.aquaplatform.com |
 | adconsole.bidspotter.co.uk | proxibid-console.aquaplatform.com |
+| adconsole.proxibid.com | proxibid-console.aquaplatform.com |
 | www.adconsole.proxibid.com | proxibid-console.aquaplatform.com |
 | ads.bidspotter.co.uk | proxibid-delivery.aquaplatform.com |
 | ads.i-bidder.com | proxibid-delivery.aquaplatform.com |

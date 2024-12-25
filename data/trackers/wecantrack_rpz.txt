@@ -1,0 +1,27 @@
+;
+; Company name: Wecantrack
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1735125016711        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+w.revenuegeeks.com CNAME .
+w.vpnalert.com CNAME .
+wct.softonic-ar.com CNAME .
+wct.softonic-id.com CNAME .
+wct.softonic-th.com CNAME .
+wct.softonic.cn CNAME .
+wct.softonic.com CNAME .
+wct.softonic.com.br CNAME .
+wct.softonic.com.tr CNAME .
+wct.softonic.jp CNAME .
+wct.softonic.kr CNAME .
+wct.softonic.nl CNAME .
+wct.softonic.pl CNAME .
+wct.softonic.ru CNAME .

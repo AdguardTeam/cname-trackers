@@ -434,7 +434,6 @@ my.weplayvolleyball.si
 my.weplayvolleyball.sk
 obluk.equilist.cz
 online.pdfknihovna.cz
-partak.surfey.cz
 partener.aeriumshop.ro
 partner-affilbox.telly.cz
 partner.2din.cz
@@ -695,6 +694,7 @@ partner.prosperity-vision.com
 partner.prosperk.cz
 partner.proviznasiet.sk
 partner.psidetektiv.cz
+partner.pureharmony.cz
 partner.respelen.cz
 partner.root.cz
 partner.royalfashion.cz
@@ -725,7 +725,6 @@ partner.strendem.cz
 partner.stromkyonline.cz
 partner.summermyles.cz
 partner.susmevem.com
-partner.svatba.cz
 partner.svatebni-diar.cz
 partner.svetcukrarov.sk
 partner.svetcukraru.cz
@@ -733,7 +732,6 @@ partner.svetruzi.cz
 partner.swaglift.com
 partner.sypanycaj.eu
 partner.tahnabranu.cz
-partner.tajemstvi-uspechu.cz
 partner.thechillidoctor.cz
 partner.thelisteningworld.com
 partner.top-obaly.cz
@@ -794,7 +792,6 @@ partneri.cestovatelskyobchod.cz
 partneri.chytraopicka.cz
 partneri.chytrykvetinac.cz
 partneri.cvicenie-strava.sk
-partneri.danahanouskova.cz
 partneri.dietavkrabicce.cz
 partneri.dluhopisomat.cz
 partneri.domaci-outlet.cz
@@ -900,7 +897,6 @@ partneri.trollbeadscz.com
 partneri.tvorboshop.cz
 partneri.umenibytzdrav.cz
 partneri.umenijazyku.cz
-partneri.variantbyznys.cz
 partneri.vashop.cz
 partneri.viadelicia.cz
 partneri.vitaon.cz
@@ -958,6 +954,7 @@ spoluprace.bafoo.cz
 spoluprace.blackkale.cz
 spoluprace.cistapohoda.cz
 spoluprace.eroticstore.cz
+spoluprace.fotozde.cz
 spoluprace.galaxy.cz
 spoluprace.h2world.store
 spoluprace.hyla.cz

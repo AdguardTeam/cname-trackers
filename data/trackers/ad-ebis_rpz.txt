@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 a9d8e7b6i5s.andgino.jp CNAME .
 aaa.aqualink.tv CNAME .
 aaaa.jawfp2.org CNAME .
-aaaa.nocor.jp CNAME .
 ac-3.mix.tokyo CNAME .
 ac-ebis-otrk.usen.com CNAME .
 ac-ebis-stb.usen.com CNAME .
@@ -92,6 +91,7 @@ adebis.leben-style.jp CNAME .
 adebis.lifestylemag.jp CNAME .
 adebis.livable.co.jp CNAME .
 adebis.logoshome.jp CNAME .
+adebis.lypo-c.shop CNAME .
 adebis.mizunomori.com CNAME .
 adebis.muscledeli.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
@@ -178,9 +178,6 @@ cname2.shaken-yoyaku.com CNAME .
 cnameebis.eizoshigoto.com CNAME .
 cnameebis.usagi-online.com CNAME .
 cnameforitp.dermed.jp CNAME .
-cnebis.chocola.com CNAME .
-cnebis.eisai.jp CNAME .
-cnebis.i-no-science.com CNAME .
 corporate.frontierconsul.net CNAME .
 cs0008sbeda.moromi-koso-c.com CNAME .
 cs0010sbeda.theory-clinic.com CNAME .

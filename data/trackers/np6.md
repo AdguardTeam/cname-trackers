@@ -7,6 +7,7 @@
 ### Rarely active trackers
 
 * form.bp01.net
+* shortener.bp01.net
 
 ## Cloaking domains
 
@@ -21,6 +22,7 @@
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
+| www.lgch.mp | shortener.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
@@ -177,6 +179,7 @@
 | tr.btobquotes.be | tracking.bp01.net |
 | tr.btobquotes.cl | tracking.bp01.net |
 | tr.btobquotes.com | tracking.bp01.net |
+| tr.btobquotes.com.br | tracking.bp01.net |
 | tr.btobquotes.mx | tracking.bp01.net |
 | tr.buenasofertas.pro | tracking.bp01.net |
 | tr.bureauveritas.espmp-aufr.net | tracking.bp01.net |
@@ -746,6 +749,7 @@
 | tr.news.aramisauto.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
 | tr.news.bruneau.fr | tracking.bp01.net |
+| tr.news.btob-pro.nl | tracking.bp01.net |
 | tr.news.business-deal.co.uk | tracking.bp01.net |
 | tr.news.c-media.fr | tracking.bp01.net |
 | tr.news.cad-magazine.com | tracking.bp01.net |
@@ -807,11 +811,13 @@
 | tr.news.havasvoyages-groupes.fr | tracking.bp01.net |
 | tr.news.helvyre.fr | tracking.bp01.net |
 | tr.news.heredis.com | tracking.bp01.net |
+| tr.news.hrdradio.tv | tracking.bp01.net |
 | tr.news.i24news.tv | tracking.bp01.net |
 | tr.news.ics.fr | tracking.bp01.net |
 | tr.news.ifh.fr | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
 | tr.news.interforum.fr | tracking.bp01.net |
+| tr.news.invinoradio.tv | tracking.bp01.net |
 | tr.news.itancia.com | tracking.bp01.net |
 | tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kaptainmusic.fr | tracking.bp01.net |
@@ -885,6 +891,7 @@
 | tr.news.vivrecotesud.fr | tracking.bp01.net |
 | tr.news.vo3000.com | tracking.bp01.net |
 | tr.news.voyagesleclerc.com | tracking.bp01.net |
+| tr.news.voyamar.fr | tracking.bp01.net |
 | tr.news.vraaguwofferte.be | tracking.bp01.net |
 | tr.news.vraaguwofferte.com | tracking.bp01.net |
 | tr.news.younited-coach.com | tracking.bp01.net |
@@ -894,7 +901,6 @@
 | tr.news6.cdiscount.com | tracking.bp01.net |
 | tr.newsletter-mdh.com | tracking.bp01.net |
 | tr.newsletter-stressless.com | tracking.bp01.net |
-| tr.newsletter.10h01.fr | tracking.bp01.net |
 | tr.newsletter.1664france.fr | tracking.bp01.net |
 | tr.newsletter.1oag.com | tracking.bp01.net |
 | tr.newsletter.actalians.fr | tracking.bp01.net |
@@ -1014,12 +1020,9 @@
 | tr.ps.espmp-agfr.net | tracking.bp01.net |
 | tr.psaparts.com | tracking.bp01.net |
 | tr.publicisdrugstore.espmp-agfr.net | tracking.bp01.net |
-| tr.qualitaetsumfrage.com | tracking.bp01.net |
-| tr.qualitaveicolo.com | tracking.bp01.net |
 | tr.qualite.groupama.com | tracking.bp01.net |
 | tr.qualite.groupebarriere.com | tracking.bp01.net |
 | tr.qualite.viparis.com | tracking.bp01.net |
-| tr.qualityvehiclesurvey.com | tracking.bp01.net |
 | tr.quotes.digital | tracking.bp01.net |
 | tr.quotes4business.com | tracking.bp01.net |
 | tr.quotes4business.info | tracking.bp01.net |
@@ -1138,6 +1141,7 @@
 | tr.urfk06v.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk06x.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk07h.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk07j.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07r.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk07s.espmp-nifr.net | tracking.bp01.net |

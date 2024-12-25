@@ -16,8 +16,8 @@
 
 ### Rarely active trackers
 
-* homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com
 * homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com
+* homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com
 
 ## Cloaking domains
 
@@ -50,10 +50,10 @@
 | aiq-in.veranda.com | hearst-prod.actioniq.mr-in.com |
 | aiq-in.womansday.com | hearst-prod.actioniq.mr-in.com |
 | aiq-in.womenshealthmag.com | hearst-prod.actioniq.mr-in.com |
+| anx-new.learnwithhomer.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
 | anx.learnwithhomer.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
 | mr-in.beginlearning.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
 | mr-in.littlepassports.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
-| anx-new.learnwithhomer.com | homer-prod1.aws-ap-south-1.mr-in.com |
 | anx.learnwithhomer.com | homer-prod1.aws-ap-south-1.mr-in.com |
 | mr-in.beginlearning.com | homer-prod1.aws-ap-south-1.mr-in.com |
 | anx-new.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
@@ -70,6 +70,7 @@
 | meta-events.bikereg.com | outside.mr-in.com |
 | meta-events.cleaneatingmag.com | outside.mr-in.com |
 | meta-events.climbing.com | outside.mr-in.com |
+| meta-events.crossresults.com | outside.mr-in.com |
 | meta-events.finisherpix.com | outside.mr-in.com |
 | meta-events.gaiagps.com | outside.mr-in.com |
 | meta-events.mycoloradoparks.com | outside.mr-in.com |

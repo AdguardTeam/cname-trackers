@@ -28,6 +28,7 @@
 | k.laredoute.pt | k.keyade.com |
 | k.laredoute.ru | k.keyade.com |
 | k.laredoute.se | k.keyade.com |
+| k.total.fr | k.keyade.com |
 | k.voyageursdumonde.be | k.keyade.com |
 | k.voyageursdumonde.ca | k.keyade.com |
 | k.voyageursdumonde.ch | k.keyade.com |

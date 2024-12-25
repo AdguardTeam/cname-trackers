@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1733731207644        ; Serial
+           1735125016711        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,6 +45,7 @@ afm.vnvtglobal.com CNAME .
 afm.vtg-mkt-apac.com CNAME .
 afm.vtg-mkt.com CNAME .
 afm.vtg-mkts.com CNAME .
+afm.vtmarkets.co CNAME .
 afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
 afm.vtmarketsfr.com CNAME .
@@ -217,6 +218,7 @@ clear.wallapop.com CNAME .
 client.online.sandyspringbank.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
+cnt.faktoria.pl CNAME .
 cnt.goboo.com CNAME .
 cnt.patpat.com CNAME .
 compliance.mohegansuncasino.com CNAME .
@@ -321,6 +323,7 @@ content.mywisely.com CNAME .
 content.name.com CNAME .
 content.nebraska.gov CNAME .
 content.netcredit.pl CNAME .
+content.novunaconsumerfinance.co.uk CNAME .
 content.nu.com.co CNAME .
 content.nu.com.mx CNAME .
 content.nubank.com.br CNAME .
@@ -561,6 +564,7 @@ h.truist.com CNAME .
 hint-tmdp.opendoor.com CNAME .
 hooru.regence.com CNAME .
 hunt.elcorteingles.es CNAME .
+id.charge-auth.com CNAME .
 id.latitudefinancial.com CNAME .
 id.solidgate.com CNAME .
 identidaddigital.credicomer.com.sv CNAME .
@@ -687,6 +691,7 @@ mobilecontent.networks.prod.p0.phx-infra.com CNAME .
 mobilecontent.projectdrgn.com CNAME .
 msimkpups.michaels.com CNAME .
 mtx.thirdstream.ca CNAME .
+myuw5.nj.gov CNAME .
 nav.sciencedirect.com CNAME .
 neo.cdx-bankislam.com CNAME .
 neo.fashionette.de CNAME .
@@ -832,8 +837,10 @@ rbawis.pocketcard.co.jp CNAME .
 rebatecontent.finance.delaware.gov CNAME .
 regstat.betfair.com CNAME .
 regstat.betfair.es CNAME .
+regstat.betfair.it CNAME .
 regstat.betfair.ro CNAME .
 regstat.betfair.se CNAME .
+regstat.dibz.co.uk CNAME .
 regstat.paddypower.com CNAME .
 regstat.skybet.com CNAME .
 regstat.skybetservices.com CNAME .
@@ -918,6 +925,7 @@ srv.squaretrade.dk CNAME .
 srv.squaretrade.es CNAME .
 srv.squaretrade.fi CNAME .
 srv.squaretrade.no CNAME .
+srv.squaretrade.pt CNAME .
 srv.squaretrade.se CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
@@ -997,7 +1005,6 @@ tcontent.auchantelecom.fr CNAME .
 tcontent.cdiscountmobile.cdiscount.com CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.highlow.com CNAME .
-testappcontent.fcmbtest.com CNAME .
 tfp.intuit.com CNAME .
 th.barclays.co.uk CNAME .
 thm.v.me CNAME .
@@ -1064,6 +1071,7 @@ tm.stoiximan.gr CNAME .
 tm.summit-services.ca CNAME .
 tm.sunbit.com CNAME .
 tm.tbcbank.uz CNAME .
+tm.tbcbusiness.uz CNAME .
 tm.telecharge.com CNAME .
 tm.uship.com CNAME .
 tm.verify.illion.com.au CNAME .
@@ -1077,6 +1085,7 @@ tmcdn.jackpotcity.ca CNAME .
 tmcdn.jackpotcity.mx CNAME .
 tmcdn.jackpotcitycasino.com CNAME .
 tmcdn.jackpotcitycasino.com.py CNAME .
+tmcdn.kiwistreasure.com CNAME .
 tmcdn.luckynuggetcasino.com CNAME .
 tmcdn.mummysgold.com CNAME .
 tmcdn.platinumplaycasino.com CNAME .
@@ -1208,6 +1217,5 @@ xmt.paze.com CNAME .
 xmt.wallet.cat.earlywarning.io CNAME .
 ydkwim.targobank.de CNAME .
 yr3ioxw.hoaresbank.co.uk CNAME .
-zacchaeus.logos.com CNAME .
 zfp.intuit.com CNAME .
 zrn.payglocal.com CNAME .

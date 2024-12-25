@@ -29,7 +29,6 @@
 | app.rtnews.pro | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
-| bat12.gimmeporn.xyz | api.clickaine.com |
 | blabla.leakgallery.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.arcjav.com | api.clickaine.com |
@@ -37,7 +36,6 @@
 | c4n.hotjavmovies.com | api.clickaine.com |
 | c4n.mypornovideos.com | api.clickaine.com |
 | c4n.myteentgp.com | api.clickaine.com |
-| c4n.perverzija.com | api.clickaine.com |
 | c4n.shudhdesiporn.com | api.clickaine.com |
 | c4n.surfotresors.com | api.clickaine.com |
 | c4n.swift4claim.com | api.clickaine.com |
@@ -102,6 +100,7 @@
 | jpnj.hotpornfile.org | api.clickaine.com |
 | k10.usefto.com | api.clickaine.com |
 | k8.usefto.com | api.clickaine.com |
+| lunie22.gimmeporn.xyz | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
 | net.fuckxstream.com | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
