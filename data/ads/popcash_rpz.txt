@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -419,7 +419,6 @@ deer.ray.io CNAME .
 dingo.moehring.dev CNAME .
 dog.christinamoore.us CNAME .
 dog.franchisesocial.co.uk CNAME .
-dog.ghvenue.com CNAME .
 dog.justsketch.me CNAME .
 dog.orbit.love CNAME .
 dog.rejuvenateyouohio.com CNAME .
@@ -437,7 +436,6 @@ donkey.masteringfinland.com CNAME .
 donkey.mrfrisby.com CNAME .
 donkey.the3rd.place CNAME .
 dormouse.consentkit.com CNAME .
-dormouse.nektarium.de CNAME .
 dove.hoku.nz CNAME .
 dragon.codemakes.art CNAME .
 dragon.sh2.com CNAME .
@@ -523,6 +521,7 @@ gerbil.downtown-mafia.com CNAME .
 gerbil.lespetitsbots.com CNAME .
 gerbil.meenit.com CNAME .
 gerbil.recipe-ipsum.com CNAME .
+gibbon.711.st CNAME .
 giraffe.talktalent.com CNAME .
 giraffe.viatorci.com CNAME .
 goat.aicontentdojo.com CNAME .
@@ -701,6 +700,7 @@ lynx.microl.ink CNAME .
 lynx.sbstjn.com CNAME .
 lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
+macaw.lab75.jp CNAME .
 mackerel.passiveincome.io CNAME .
 magpie.onething.org CNAME .
 magpie.phil.dev CNAME .
@@ -857,7 +857,6 @@ prairiedog.thisismattsmith.com CNAME .
 prairiedog.xview.us CNAME .
 prawn.lionsmouth.digital CNAME .
 primate.logology.co CNAME .
-primate.oleggera.com CNAME .
 primate.productcolors.com CNAME .
 ptarmigan.bridal-hair-and-accessories-now.com CNAME .
 ptarmigan.codebycorey.com CNAME .
@@ -932,6 +931,7 @@ sheep.littleboat.digital CNAME .
 sheep.peterfowler.com CNAME .
 sheep.pixair-survey.com CNAME .
 sheep.vaxstandby.com CNAME .
+shrew.ryangjchandler.co.uk CNAME .
 silkworm.bobsmechanicalrepairs.co.uk CNAME .
 silkworm.boxmood.be CNAME .
 silkworm.preventingsuicideinsussex.org CNAME .

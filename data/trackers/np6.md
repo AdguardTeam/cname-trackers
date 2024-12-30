@@ -147,6 +147,7 @@
 | tr.asp2078.espmp-nifr.net | tracking.bp01.net |
 | tr.asp207e.espmp-nifr.net | tracking.bp01.net |
 | tr.asp207f.espmp-cufr.net | tracking.bp01.net |
+| tr.audi-fs-email.fr | tracking.bp01.net |
 | tr.avisecheance.maaf.fr | tracking.bp01.net |
 | tr.axa-millesimes.espmp-aufr.net | tracking.bp01.net |
 | tr.axa.espmp-aufr.net | tracking.bp01.net |
@@ -442,7 +443,6 @@
 | tr.fortuneo.com | tracking.bp01.net |
 | tr.forum.veuveclicquot.fr | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
-| tr.france.plimsoll.fr | tracking.bp01.net |
 | tr.fts.francetravail.fr | tracking.bp01.net |
 | tr.future-commerce.mhdfrance.fr | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
@@ -651,6 +651,7 @@
 | tr.mailing.heliades.fr | tracking.bp01.net |
 | tr.mailing.laredoute.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
+| tr.mailing.opinionrelate.com | tracking.bp01.net |
 | tr.mailing.promodeclic.fr | tracking.bp01.net |
 | tr.mailmp.macif.net | tracking.bp01.net |
 | tr.mailperf.institut-de-la-protection-sociale.fr | tracking.bp01.net |
@@ -699,6 +700,7 @@
 | tr.monagenligne.fr | tracking.bp01.net |
 | tr.mondevis-b2b.com | tracking.bp01.net |
 | tr.mondevis-pro.com | tracking.bp01.net |
+| tr.moving.espmp-agfr.net | tracking.bp01.net |
 | tr.moving.fr | tracking.bp01.net |
 | tr.mp.aconclue-business.fr | tracking.bp01.net |
 | tr.mp.aconclue-entreprise.fr | tracking.bp01.net |
@@ -819,7 +821,6 @@
 | tr.news.interforum.fr | tracking.bp01.net |
 | tr.news.invinoradio.tv | tracking.bp01.net |
 | tr.news.itancia.com | tracking.bp01.net |
-| tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kaptainmusic.fr | tracking.bp01.net |
 | tr.news.kpmg-avocats.fr | tracking.bp01.net |
 | tr.news.kpmg.fr | tracking.bp01.net |
@@ -948,6 +949,7 @@
 | tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.nl.stadefrance.com | tracking.bp01.net |
 | tr.nl.troyes.cci.fr | tracking.bp01.net |
+| tr.nl.vipmag.fr | tracking.bp01.net |
 | tr.nl2.sncf-fidelite.com | tracking.bp01.net |
 | tr.nmcm.espmp-cufr.net | tracking.bp01.net |
 | tr.nmcm.espmp-nifr.net | tracking.bp01.net |
@@ -1117,6 +1119,7 @@
 | tr.urfk02t.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk02v.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk02z.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk039.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk03c.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03h.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03i.espmp-nifr.net | tracking.bp01.net |
@@ -1147,6 +1150,7 @@
 | tr.urfk07s.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk080.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk08c.espmp-cufr.net | tracking.bp01.net |
+| tr.urfk08j.espmp-nifr.net | tracking.bp01.net |
 | tr.vernede.huilesdolive.fr | tracking.bp01.net |
 | tr.vf7n.espmp-agfr.net | tracking.bp01.net |
 | tr.videofutur.fr | tracking.bp01.net |

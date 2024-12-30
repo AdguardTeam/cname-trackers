@@ -182,6 +182,7 @@
 ||www.adserver.sonicplug.com^
 ||www.api.adbility-media.com^
 ||www.cdn-adv.unionesarda.it^
+||www.cdn.datateam.co.uk^
 ||www.console.healthcarescene.com^
 ||www.coreads-console.cambridge.org^
 ||www.coreads-static.cambridge.org^
@@ -190,13 +191,16 @@
 ||www.proforums.com^
 ||www.revive-static.worldscreen.com^
 ||www.revive.ahk.de^
+||www.servedby.cincinnatimagazine.com^
 ||www.servedby.geminipub.com^
 ||www.servedby.greenspring.com^
 ||www.servedby.lintigroup.se^
 ||www.servedby.quirks.com^
 ||www.servedby.schrotundkorn.de^
+||www.static.ad.logic-test.viasat.io^
 ||www.static.healthcarescene.com^
 ||www.static.imagineobx.com^
 ||www.static.livingmagonline.com^
+||www.static.schrotundkorn.de^
 ||www.static.the-saleroom.com^
 ||xtraa-secure.reviveservers.com^

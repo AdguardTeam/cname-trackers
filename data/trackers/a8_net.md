@@ -71,6 +71,7 @@
 | a8.centarc.com | trck.a8.net |
 | a8.chat-lady.jp | trck.a8.net |
 | a8.chiyo-moni.com | trck.a8.net |
+| a8.choole.jp | trck.a8.net |
 | a8.choomia.com | trck.a8.net |
 | a8.chuo-estate.net | trck.a8.net |
 | a8.clarah.jp | trck.a8.net |
@@ -135,6 +136,7 @@
 | a8.geo-online.co.jp | trck.a8.net |
 | a8.global-mobility-service.com | trck.a8.net |
 | a8.gme.co.jp | trck.a8.net |
+| a8.gofood.jp | trck.a8.net |
 | a8.golfland.co.jp | trck.a8.net |
 | a8.goodappeal.site | trck.a8.net |
 | a8.gtm.co.jp | trck.a8.net |
@@ -771,6 +773,7 @@
 | a8cv.03plus.net | trck.a8.net |
 | a8cv.04510.jp | trck.a8.net |
 | a8cv.1-class.jp | trck.a8.net |
+| a8cv.17kg.shop | trck.a8.net |
 | a8cv.1sbc.com | trck.a8.net |
 | a8cv.464981.com | trck.a8.net |
 | a8cv.489pro.com | trck.a8.net |
@@ -784,6 +787,7 @@
 | a8cv.aff.life-110.com | trck.a8.net |
 | a8cv.ageru-career.com | trck.a8.net |
 | a8cv.aiambeauty.jp | trck.a8.net |
+| a8cv.air-mobileset.jp | trck.a8.net |
 | a8cv.akapon.kanritools.com | trck.a8.net |
 | a8cv.akihabara-x.jp | trck.a8.net |
 | a8cv.akippa.com | trck.a8.net |
@@ -1081,6 +1085,7 @@
 | a8cv.members.race.sanspo.com | trck.a8.net |
 | a8cv.menina-joue.jp | trck.a8.net |
 | a8cv.mentors-lwc.com | trck.a8.net |
+| a8cv.mhg-webstore.com | trck.a8.net |
 | a8cv.minana-jp.com | trck.a8.net |
 | a8cv.mitaina.tokyo | trck.a8.net |
 | a8cv.mobabiji.jp | trck.a8.net |
@@ -1139,6 +1144,7 @@
 | a8cv.paidy.com | trck.a8.net |
 | a8cv.paintory.com | trck.a8.net |
 | a8cv.palms-gym.com | trck.a8.net |
+| a8cv.peraichiapp.com | trck.a8.net |
 | a8cv.pf.classicmusic.tokyo | trck.a8.net |
 | a8cv.phonim.com | trck.a8.net |
 | a8cv.photo.concorde-corp.jp | trck.a8.net |
@@ -1517,7 +1523,6 @@
 | cv.online.ysroad.co.jp | trck.a8.net |
 | cv.optimo-slb.com | trck.a8.net |
 | cv.quocard.jp | trck.a8.net |
-| cv.rakuten-hikari.net | trck.a8.net |
 | cv.re-shop.jp | trck.a8.net |
 | cv.ryoutuki-kyujin.com | trck.a8.net |
 | cv.shiryoku1.com | trck.a8.net |
@@ -1570,7 +1575,6 @@
 | salto.freeto.jp | trck.a8.net |
 | sekaopi.nocre.jp | trck.a8.net |
 | sfcv.chinavi-shop.jp | trck.a8.net |
-| shop.anu-cosme.com | trck.a8.net |
 | shopping.cellpure.co.jp | trck.a8.net |
 | smn.dankore.jp | trck.a8.net |
 | sokutei.car2828.jp | trck.a8.net |

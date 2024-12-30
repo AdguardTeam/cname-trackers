@@ -143,6 +143,7 @@
 | www.servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
 | static.biohandel.de | bioverlag-static.aquaplatform.com |
 | static.schrotundkorn.de | bioverlag-static.aquaplatform.com |
+| www.static.schrotundkorn.de | bioverlag-static.aquaplatform.com |
 | adv.blulab.net | blulab-delivery.aquaplatform.com |
 | static.blulab.net | blulab-static.aquaplatform.com |
 | coreads-console.cambridge.org | cambridge-console.aquaplatform.com |
@@ -170,6 +171,7 @@
 | console.datateam.co.uk | datateam-console.aquaplatform.com |
 | ads.datateam.co.uk | datateam-delivery.aquaplatform.com |
 | cdn.datateam.co.uk | datateam-static.aquaplatform.com |
+| www.cdn.datateam.co.uk | datateam-static.aquaplatform.com |
 | ads.environmentalleader.com | el-delivery.aquaplatform.com |
 | static.environmentalleader.com | el-static.aquaplatform.com |
 | serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
@@ -199,6 +201,7 @@
 | servedby.hour-media.com | hourmedia-delivery.aquaplatform.com |
 | servedby.lamag.com | hourmedia-delivery.aquaplatform.com |
 | servedby.palmbeachmedia.com | hourmedia-delivery.aquaplatform.com |
+| www.servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
 | banners.cincinnatimagazine.com | hourmedia-static.aquaplatform.com |
@@ -317,6 +320,7 @@
 | server.ad.logic.viasat.io | viasat-delivery.aquaplatform.com |
 | static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |
 | static.ad.logic-test.viasat.io | viasat-static.aquaplatform.com |
+| www.static.ad.logic-test.viasat.io | viasat-static.aquaplatform.com |
 | revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
 | revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
 | www.revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |

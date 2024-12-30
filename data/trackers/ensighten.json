@@ -385,7 +385,7 @@
   "tms.marriott.com": "edge-geo.nc0.co",
   "tms.nab.com.au": "edge-geo.nc0.co",
   "tms.nabmarginlending.com.au": "edge-geo.nc0.co",
-  "tms.nabtrade.com.au": "nab-trade.edge.nc0.co",
+  "tms.nabtrade.com.au": "edge-geo.nc0.co",
   "tms.nationaltrust.org.uk": "edge-geo.nc0.co",
   "tms.securid.com": "edge-geo.nc0.co",
   "tms.suzukibusinesscloud-qa.com": "edge-geo.nc0.co",

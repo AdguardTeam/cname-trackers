@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -224,6 +224,7 @@ affiliate.nabytek-forliveshop.cz CNAME .
 affiliate.nakladatelstvi-riva.cz CNAME .
 affiliate.nalepime.cz CNAME .
 affiliate.nejfotopasti.cz CNAME .
+affiliate.nethost.cz CNAME .
 affiliate.nomind.cz CNAME .
 affiliate.novakabelka.cz CNAME .
 affiliate.nutricnitycinky.cz CNAME .
@@ -533,6 +534,7 @@ partner.dolorescannon.cz CNAME .
 partner.dolorescannon.sk CNAME .
 partner.domaca-pivoteka.sk CNAME .
 partner.domaci-pivoteka.cz CNAME .
+partner.domalep.cz CNAME .
 partner.dometa.cz CNAME .
 partner.domoveda.cz CNAME .
 partner.doplnse.cz CNAME .
@@ -823,6 +825,7 @@ partneri.freli.cz CNAME .
 partneri.gigamat.cz CNAME .
 partneri.givt.cz CNAME .
 partneri.goaffiliate.cz CNAME .
+partneri.hankamokra.cz CNAME .
 partneri.heavytamper.com CNAME .
 partneri.heavytamper.cz CNAME .
 partneri.hopsaj.sk CNAME .

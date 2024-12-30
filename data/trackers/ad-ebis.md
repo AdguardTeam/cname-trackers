@@ -199,6 +199,7 @@
     * 9b82c7fc-jpe7blqe.cname.ebis.ne.jp
     * 9cdd7999-shopserve.cname.ebis.ne.jp
     * 9d47ee5c-tkd4tdox.cname.ebis.ne.jp
+    * 9e8f55e3-sca9scbo.cname.ebis.ne.jp
     * 9ee2360d-hwfrjewf.cname.ebis.ne.jp
     * 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp
     * 9fc5109a-rgq6b9zp.cname.ebis.ne.jp
@@ -530,6 +531,7 @@
 | adebis.bbb-life.jp | 9b82c7fc-jpe7blqe.cname.ebis.ne.jp |
 | adebis.shopserve.jp | 9cdd7999-shopserve.cname.ebis.ne.jp |
 | adebis.logoshome.jp | 9d47ee5c-tkd4tdox.cname.ebis.ne.jp |
+| cnameadebisu.sincere-vision.com | 9e8f55e3-sca9scbo.cname.ebis.ne.jp |
 | ebis.aibashiro.jp | 9ee2360d-hwfrjewf.cname.ebis.ne.jp |
 | cname-adebis.nice2meet.us | 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp |
 | y8hxgv9m.kobetsu.co.jp | 9fc5109a-rgq6b9zp.cname.ebis.ne.jp |

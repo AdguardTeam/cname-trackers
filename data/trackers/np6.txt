@@ -124,6 +124,7 @@
 ||tr.asp2078.espmp-nifr.net^
 ||tr.asp207e.espmp-nifr.net^
 ||tr.asp207f.espmp-cufr.net^
+||tr.audi-fs-email.fr^
 ||tr.avisecheance.maaf.fr^
 ||tr.axa-millesimes.espmp-aufr.net^
 ||tr.axa.espmp-aufr.net^
@@ -419,7 +420,6 @@
 ||tr.fortuneo.com^
 ||tr.forum.veuveclicquot.fr^
 ||tr.fr.pro.accor.com^
-||tr.france.plimsoll.fr^
 ||tr.fts.francetravail.fr^
 ||tr.future-commerce.mhdfrance.fr^
 ||tr.futurecommerce.moethennessy.com^
@@ -628,6 +628,7 @@
 ||tr.mailing.heliades.fr^
 ||tr.mailing.laredoute.fr^
 ||tr.mailing.lvmhappening.com^
+||tr.mailing.opinionrelate.com^
 ||tr.mailing.promodeclic.fr^
 ||tr.mailmp.macif.net^
 ||tr.mailperf.institut-de-la-protection-sociale.fr^
@@ -676,6 +677,7 @@
 ||tr.monagenligne.fr^
 ||tr.mondevis-b2b.com^
 ||tr.mondevis-pro.com^
+||tr.moving.espmp-agfr.net^
 ||tr.moving.fr^
 ||tr.mp.aconclue-business.fr^
 ||tr.mp.aconclue-entreprise.fr^
@@ -796,7 +798,6 @@
 ||tr.news.interforum.fr^
 ||tr.news.invinoradio.tv^
 ||tr.news.itancia.com^
-||tr.news.jautomatise.com^
 ||tr.news.kaptainmusic.fr^
 ||tr.news.kpmg-avocats.fr^
 ||tr.news.kpmg.fr^
@@ -925,6 +926,7 @@
 ||tr.nl.services-sncf.com^
 ||tr.nl.stadefrance.com^
 ||tr.nl.troyes.cci.fr^
+||tr.nl.vipmag.fr^
 ||tr.nl2.sncf-fidelite.com^
 ||tr.nmcm.espmp-cufr.net^
 ||tr.nmcm.espmp-nifr.net^
@@ -1094,6 +1096,7 @@
 ||tr.urfk02t.espmp-agfr.net^
 ||tr.urfk02v.espmp-cufr.net^
 ||tr.urfk02z.espmp-nifr.net^
+||tr.urfk039.espmp-aufr.net^
 ||tr.urfk03c.espmp-nifr.net^
 ||tr.urfk03h.espmp-nifr.net^
 ||tr.urfk03i.espmp-nifr.net^
@@ -1124,6 +1127,7 @@
 ||tr.urfk07s.espmp-nifr.net^
 ||tr.urfk080.espmp-agfr.net^
 ||tr.urfk08c.espmp-cufr.net^
+||tr.urfk08j.espmp-nifr.net^
 ||tr.vernede.huilesdolive.fr^
 ||tr.vf7n.espmp-agfr.net^
 ||tr.videofutur.fr^

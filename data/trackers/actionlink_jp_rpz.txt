@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ al.gokokumai.co.jp CNAME .
 al.gold-japan.jp CNAME .
 al.hamari-health.jp CNAME .
 al.happysun-hinode.com CNAME .
+al.jtb-gift.com CNAME .
 al.junior-onlineshop.jp CNAME .
 al.kagukuro.com CNAME .
 al.kawashima-ya.jp CNAME .

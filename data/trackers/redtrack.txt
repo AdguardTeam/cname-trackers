@@ -382,6 +382,7 @@
 ||a.mygreatrelief.com^
 ||a.porndub.us^
 ||a.quizif.com^
+||a.testeriful.com^
 ||a.trckr.club^
 ||a.trk2trk.org^
 ||a2.americasavingsexperts.com^
@@ -517,6 +518,7 @@
 ||blimberflap.wumplesnack.site^
 ||blimberwham.quaggletwix.site^
 ||blog.blogdavanessa.com.br^
+||blog.blogsemprejovem.com^
 ||blog.blogvocebonita.com^
 ||blog.comunidadebelezaempauta.com.br^
 ||blog.cuidadocaseiro.com^
@@ -529,6 +531,7 @@
 ||bolgaria.treker.fun^
 ||bonus.sunshinesolar.homes^
 ||bonus.tortuga-promotions.com^
+||borillettrk.com^
 ||boss-www.com^
 ||bot.trackall.site^
 ||botevgrad.treker.fun^
@@ -557,6 +560,7 @@
 ||c1.onegreatamericansolutions.com^
 ||c1.realamericancenter.com^
 ||c1.thegreatamericanservices.com^
+||c2.greatamericanworld.com^
 ||c2.newamericancenter.com^
 ||c2.realusacenter.com^
 ||c2.theamericansolutions.com^
@@ -665,6 +669,7 @@
 ||clk2.allaboutvibe.com^
 ||cll.start.acahealthpros.com^
 ||cm.trk.rdtrkr.com^
+||cmjfitrk.com^
 ||cmnzucwxl1tzlxs4.rabbclk.com^
 ||cnv.ignmb.com^
 ||cobram.treker.fun^
@@ -757,6 +762,7 @@
 ||enigwatch-redtrack.enigwatch.com^
 ||enzan.treker.fun^
 ||epotation.bilders.website^
+||equivagueltrk.com^
 ||errachidia.treker.fun^
 ||es.globaloffers.store^
 ||escorial.treker.fun^
@@ -842,6 +848,7 @@
 ||flubblet.xysyster.online^
 ||flumgibble.flustycs.store^
 ||fluubits.corminot.store^
+||fo7.facilidaddeuda.com^
 ||follow.ciciunderwear.com^
 ||follow.edmontonppc.ca^
 ||follow.greaterlifelessons.com^
@@ -891,7 +898,6 @@
 ||go.acquirerewards.com^
 ||go.advanceriseassistant.com^
 ||go.agelessadvicedaily.com^
-||go.aidfareprogram.com^
 ||go.alivioparadeudas.com^
 ||go.americanhealthfair.com^
 ||go.amienaturals.com^
@@ -915,6 +921,7 @@
 ||go.bicho365.com^
 ||go.bktracksit.art^
 ||go.breakthroughscienceideas.com^
+||go.clickandtrk.com^
 ||go.clicktracker101.com^
 ||go.coffeecontinent.com^
 ||go.connectadvantagepro.com^
@@ -1159,6 +1166,7 @@
 ||icarusrt.moonwlkr.com^
 ||iceland.trekkww.space^
 ||idit.trdid9.com^
+||ieswfitrk.com^
 ||ifrane.treker.fun^
 ||ihomedating.ez123dating.xyz^
 ||ikawo.ikariajuiceworks.site^
@@ -1179,9 +1187,12 @@
 ||info.healthpathh.com^
 ||info.homebenefitstoday.com^
 ||inform.comparenchoose.com^
+||innerbetterme.trk.agency^
 ||inrunning.unalienability.uno^
 ||inside.technetworkstats.org^
 ||ipadclaim-3yoptrk.com^
+||ipadclaim-o57itrk.com^
+||ipadclaim-q3xwtrk.com^
 ||ipadclaim-xnt7trk.com^
 ||ipadclaim-xtebtrk.com^
 ||iran.trekkww.space^
@@ -1220,6 +1231,7 @@
 ||karlstad.treker.fun^
 ||karnobat.treker.fun^
 ||kasukabe.treker.fun^
+||katar.trekkww.fun^
 ||katoomba.treker.fun^
 ||katrineholm.innngot.space^
 ||kazanlak.plisser.space^
@@ -1273,8 +1285,7 @@
 ||link.better-health-care.info^
 ||link.epichomesavings.com^
 ||link.finalacademics.com^
-||link.kimovl.com^
-||link.magnifyhealth.guide^
+||link.kelly-clarkson-diet.org^
 ||link.thecapitalpulse.com^
 ||link.topdealspost.com^
 ||link.tradertalktoyou.com^
@@ -1291,7 +1302,6 @@
 ||lnk.health-offers.site^
 ||lnk.healthjournal.guide^
 ||lnk.kelly-clarkson.info^
-||lnk.kellyclarkson-diet.org^
 ||lnk.providentsite.org^
 ||lnk.wisehealthreviews.org^
 ||loading.healthyzaq.club^
@@ -1340,7 +1350,6 @@
 ||lp.iambrilliant.club^
 ||lp.intestpro.com^
 ||lp.invigoratedlifestyle.site^
-||lp.isabellemartin.online^
 ||lp.iuricastro.com.br^
 ||lp.jornaldamemoria.online^
 ||lp.libidmasster.com.br^
@@ -1356,6 +1365,7 @@
 ||lp.mitozine.website^
 ||lp.musicpix.pro^
 ||lp.myfantasticvibes.club^
+||lp.myglowingvibes.club^
 ||lp.mygreatvibes.club^
 ||lp.myhealthytonic.co^
 ||lp.naturalvivasaude.com.br^
@@ -1555,12 +1565,10 @@
 ||ob.tracking.ssltrackread.com^
 ||obblewha.agglet.store^
 ||offer.click-trackerz.co^
-||offer.click-trackerz.com^
 ||offer.dutyprice.com^
 ||offer.gentleandrose.com^
 ||offer.kundenmanufaktur.com^
 ||offer.safecoverageusa.com^
-||offer.try-leanbellyjuice.shop^
 ||offers.biotrust.me^
 ||official-www.com^
 ||official.mybest-option.site^
@@ -1604,6 +1612,7 @@
 ||page.lp.tuannybacelarnutri.com.br^
 ||paiement.securise.matiprice.com^
 ||pallau.trekkww.space^
+||palocalcontrk.com^
 ||panagyurishte.treker.fun^
 ||panihati.treker.fun^
 ||parkthis.parkplaceinstallations.com^
@@ -1623,6 +1632,7 @@
 ||path.maxhomeupgrade.com^
 ||path.naturewellnesstips.com^
 ||path.newamericaneducation.com^
+||path.saveinsuresite.com^
 ||path.savvyamericansavings.com^
 ||path.savvyautosavings2024.com^
 ||path.secretsavingsusa.com^
@@ -1643,6 +1653,7 @@
 ||path.usafinancialfreedom2023.com^
 ||path.usafinancialhelper.com^
 ||path.usaresourcestoday.com^
+||path.wellnesswisechoice.com^
 ||pathway.tradingnodes.com^
 ||paulette.treker.fun^
 ||pernik.leest.space^
@@ -1733,6 +1744,7 @@
 ||rdt.mackeeper.com^
 ||rdt.whitewall.com^
 ||rdtk.camrabbit.com^
+||rdtk.camrabbit.sex^
 ||rdtk.carsfast.ca^
 ||rdtk.maia.insure^
 ||rdtk.menhub.site^
@@ -1787,6 +1799,7 @@
 ||redtrack.trusted-property-buyers.com^
 ||redtrack.trykanibi.com^
 ||redtrack.vidaselect.com^
+||redtrack.virtualvenus.net^
 ||redtracking.firstbetgo.co.za^
 ||redtrackkerio.com^
 ||redtrck.individualogist.com^
@@ -1815,6 +1828,7 @@
 ||rt.dailyvitalnews.com^
 ||rt.designlifestyleeveryday.com^
 ||rt.destinyinvoker.com^
+||rt.easyhealthline.com^
 ||rt.fastinsuranceservices.net^
 ||rt.fortuneharvesting.com^
 ||rt.freelessons.online^
@@ -1928,7 +1942,6 @@
 ||rtsandbox2.natural-life.club^
 ||rtsandbox2.theactivelifestyle.live^
 ||ruanda.trekkww.fun^
-||rublacietrk.com^
 ||run.surveyjump.com^
 ||rwerwere.tgtftgyuju.fun^
 ||s.angmee.pics^
@@ -1972,6 +1985,7 @@
 ||secure.checkout.brand-stock2-sv.com^
 ||secure.checkout.dutyprice.com^
 ||secure.checkout.ecosferastile.com^
+||secure.checkout.essentialsnutra.com^
 ||secure.checkout.melacompri.com^
 ||secure.checkout.re-brand-de.com^
 ||secure.checkout.re-brand-fi.com^
@@ -2049,7 +2063,6 @@
 ||strishintrk.com^
 ||stsoclk.sumatratonicshop.online^
 ||su-offers.com^
-||sub.solarvistatechusa.com^
 ||subnarcotic.stockaded.uno^
 ||sunburnt.valva.site^
 ||sup.spinky.site^
@@ -2138,7 +2151,6 @@
 ||the.checkfox.de^
 ||thisdomainisfortracking.org^
 ||timur.trekkww.space^
-||tipollerstrk.com^
 ||tiznit.treker.fun^
 ||tk.acsfinancial.com.au^
 ||tk.americanlifenow.com^
@@ -2188,6 +2200,7 @@
 ||track.autocoveragepro.com^
 ||track.avidata.de^
 ||track.bcwinbr.online^
+||track.beautybloomh.com^
 ||track.bedtimekz.com^
 ||track.bemestardavida.com^
 ||track.bemestarharmonia.com^
@@ -2206,7 +2219,6 @@
 ||track.braingymnasticsuae.com^
 ||track.brezinobrwin.site^
 ||track.brightzy.com^
-||track.bullishstocktrader.com^
 ||track.buvanha.de^
 ||track.buvanha.nl^
 ||track.buybrushly.com^
@@ -2246,7 +2258,6 @@
 ||track.docu-bay.com^
 ||track.docubay-kw.com^
 ||track.docubay-my.com^
-||track.drivesecurepro.com^
 ||track.drizbo.com^
 ||track.drvisionbreakthrough.com^
 ||track.duelbits.com^
@@ -2300,7 +2311,6 @@
 ||track.funplusjo.com^
 ||track.funscapeuae.com^
 ||track.futebolesportesjack.online^
-||track.gadteks.com^
 ||track.gamefinitysa.com^
 ||track.gamekingdomae.com^
 ||track.gamestationqa.com^
@@ -2315,6 +2325,7 @@
 ||track.good-traffic.com^
 ||track.goodhomeamerica.com^
 ||track.grabrewardstoday.com^
+||track.grandmobi.net^
 ||track.gravitydigital.com^
 ||track.greatbigphotographyworld.net^
 ||track.greatestjoytoday.com^
@@ -2424,6 +2435,7 @@
 ||track.mrgugu.com^
 ||track.mtraq121gr2.com^
 ||track.mtraq121om2.com^
+||track.mtraq121ps.com^
 ||track.mtraq123uae.com^
 ||track.mtraq127sa.com^
 ||track.mtraq129gr.com^
@@ -2569,9 +2581,7 @@
 ||track.socialstudio.ai^
 ||track.solucoesnaturais.org^
 ||track.sorteediversao.com^
-||track.spaxads.com^
 ||track.speedlinesp.com^
-||track.starsandstripessociety.com^
 ||track.stillserenity.com^
 ||track.strategiavincentelotto.com^
 ||track.strongandfitlife.online^
@@ -2768,6 +2778,7 @@
 ||trk.betterdecisionspro.com^
 ||trk.bighealthyenergynow.com^
 ||trk.boxcoupon.link^
+||trk.brightology.com^
 ||trk.bugmd.com^
 ||trk.calm-fit.com^
 ||trk.clarifion.com^
@@ -2776,7 +2787,6 @@
 ||trk.dailyfitconsumers.com^
 ||trk.debtfreehelpline.ca^
 ||trk.degreepathadvisor.com^
-||trk.dentalhealthnewsblog.com^
 ||trk.directautocoverage.org^
 ||trk.drvonda.com^
 ||trk.e-deals.xyz^
@@ -2811,7 +2821,6 @@
 ||trk.healthcaremarketquotes.com^
 ||trk.healthndharmony.com^
 ||trk.healthupdatesus.com^
-||trk.healthy-lifestyle-us.com^
 ||trk.healthylungreports.com^
 ||trk.healthywellnessguide.com^
 ||trk.homeownersofcanada.com^
@@ -2888,6 +2897,7 @@
 ||trk.therewardsfinder.com^
 ||trk.timeshareexit.co^
 ||trk.tinatransforms.com^
+||trk.trackmsclk.com^
 ||trk.trkr.store^
 ||trk.trksky23.com^
 ||trk.trktrackingpt.click^
@@ -2982,6 +2992,7 @@
 ||vagolysis.misdoers.site^
 ||valeria.trk.agency^
 ||vandal.trekkeeee.space^
+||vanersborg.fisherrr.space^
 ||varberg.moooon.space^
 ||varnamo.rawww.space^
 ||vasteras.treker.fun^
@@ -2994,6 +3005,7 @@
 ||vegetalcule.misdoers.site^
 ||velingrad.lingos.space^
 ||veni.trekkww.space^
+||verearetrk.com^
 ||vicky.tweaknology.org^
 ||video.feetatube.fun^
 ||video.ishotube.xyz^
@@ -3037,10 +3049,12 @@
 ||www.insureyoursauto.com^
 ||www.limkb.shop^
 ||www.pltrack.co.uk^
+||www.pornocam.be^
 ||www.promdealss.top^
 ||www.tryprofits.com^
 ||www.trythatdeal.info^
 ||www.vcrnads.com^
+||www.worldiedeals.com^
 ||xeunllyvpijp14mi.trkrabb.com^
 ||xiamen.treker.fun^
 ||xinyu.treker.fun^
@@ -3048,6 +3062,7 @@
 ||yt.ooceanlift.com^
 ||zaragoza.treker.fun^
 ||zk.atarsuccess.com.au^
+||zmpeotrk.com^
 ||zwolle.treker.fun^
 ||1es.trkrt.eskk7tk.com^
 ||aleksa.mtxbreak.click^
@@ -3064,7 +3079,6 @@
 ||pavle.exclusive-offers-su.click^
 ||pl.trk.quirkalooquotient.com^
 ||pl.trk.wackywonderlandweb.com^
-||re.trk.retailrenaissancehubbap.com^
 ||rt.maximumincrease.pro^
 ||tr.track-myleads.com^
 ||tr.trk.exodustrackai.com^

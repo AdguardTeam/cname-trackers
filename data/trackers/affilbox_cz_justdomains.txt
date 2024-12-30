@@ -213,6 +213,7 @@ affiliate.nabytek-forliveshop.cz
 affiliate.nakladatelstvi-riva.cz
 affiliate.nalepime.cz
 affiliate.nejfotopasti.cz
+affiliate.nethost.cz
 affiliate.nomind.cz
 affiliate.novakabelka.cz
 affiliate.nutricnitycinky.cz
@@ -522,6 +523,7 @@ partner.dolorescannon.cz
 partner.dolorescannon.sk
 partner.domaca-pivoteka.sk
 partner.domaci-pivoteka.cz
+partner.domalep.cz
 partner.dometa.cz
 partner.domoveda.cz
 partner.doplnse.cz
@@ -812,6 +814,7 @@ partneri.freli.cz
 partneri.gigamat.cz
 partneri.givt.cz
 partneri.goaffiliate.cz
+partneri.hankamokra.cz
 partneri.heavytamper.com
 partneri.heavytamper.cz
 partneri.hopsaj.sk

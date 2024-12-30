@@ -1,7 +1,10 @@
 !
 ! Company name: Wecantrack
+||api.datingxperten.de^
+||api.eltjek24.dk^
 ||w.revenuegeeks.com^
 ||w.vpnalert.com^
+||wct.compari.se^
 ||wct.softonic-ar.com^
 ||wct.softonic-id.com^
 ||wct.softonic-th.com^

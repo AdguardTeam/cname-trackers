@@ -408,7 +408,6 @@
 ||dingo.moehring.dev^
 ||dog.christinamoore.us^
 ||dog.franchisesocial.co.uk^
-||dog.ghvenue.com^
 ||dog.justsketch.me^
 ||dog.orbit.love^
 ||dog.rejuvenateyouohio.com^
@@ -426,7 +425,6 @@
 ||donkey.mrfrisby.com^
 ||donkey.the3rd.place^
 ||dormouse.consentkit.com^
-||dormouse.nektarium.de^
 ||dove.hoku.nz^
 ||dragon.codemakes.art^
 ||dragon.sh2.com^
@@ -512,6 +510,7 @@
 ||gerbil.lespetitsbots.com^
 ||gerbil.meenit.com^
 ||gerbil.recipe-ipsum.com^
+||gibbon.711.st^
 ||giraffe.talktalent.com^
 ||giraffe.viatorci.com^
 ||goat.aicontentdojo.com^
@@ -690,6 +689,7 @@
 ||lynx.sbstjn.com^
 ||lynx.simpleparish.com^
 ||macaw.ianmitchell.dev^
+||macaw.lab75.jp^
 ||mackerel.passiveincome.io^
 ||magpie.onething.org^
 ||magpie.phil.dev^
@@ -846,7 +846,6 @@
 ||prairiedog.xview.us^
 ||prawn.lionsmouth.digital^
 ||primate.logology.co^
-||primate.oleggera.com^
 ||primate.productcolors.com^
 ||ptarmigan.bridal-hair-and-accessories-now.com^
 ||ptarmigan.codebycorey.com^
@@ -921,6 +920,7 @@
 ||sheep.peterfowler.com^
 ||sheep.pixair-survey.com^
 ||sheep.vaxstandby.com^
+||shrew.ryangjchandler.co.uk^
 ||silkworm.bobsmechanicalrepairs.co.uk^
 ||silkworm.boxmood.be^
 ||silkworm.preventingsuicideinsussex.org^

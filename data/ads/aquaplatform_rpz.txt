@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -193,6 +193,7 @@ www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.api.adbility-media.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
+www.cdn.datateam.co.uk CNAME .
 www.console.healthcarescene.com CNAME .
 www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .
@@ -201,13 +202,16 @@ www.display.lawbulletin.com CNAME .
 www.proforums.com CNAME .
 www.revive-static.worldscreen.com CNAME .
 www.revive.ahk.de CNAME .
+www.servedby.cincinnatimagazine.com CNAME .
 www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
 www.servedby.lintigroup.se CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.schrotundkorn.de CNAME .
+www.static.ad.logic-test.viasat.io CNAME .
 www.static.healthcarescene.com CNAME .
 www.static.imagineobx.com CNAME .
 www.static.livingmagonline.com CNAME .
+www.static.schrotundkorn.de CNAME .
 www.static.the-saleroom.com CNAME .
 xtraa-secure.reviveservers.com CNAME .

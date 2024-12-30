@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,7 +73,6 @@ badwolf.open-election-compass.com CNAME .
 besucher.nona.de CNAME .
 bob.gitclear.com CNAME .
 btstats.benakt.com CNAME .
-cats.d20.rs CNAME .
 cdn.arcstudiopro.com CNAME .
 channelwatcher.panda.tech CNAME .
 cheese.guac.live CNAME .
@@ -734,6 +733,7 @@ stats.pubfind.io CNAME .
 stats.qovery.com CNAME .
 stats.quicksilvercre.com CNAME .
 stats.radicaldata.org CNAME .
+stats.radicitoscane.it CNAME .
 stats.rasulkireev.com CNAME .
 stats.reactician.com CNAME .
 stats.readng.co CNAME .

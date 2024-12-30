@@ -29,6 +29,7 @@ afm.vantagemarkets.co.uk
 afm.vantagemarkets.com
 afm.vantagemarkets.io
 afm.vantagemarketsea.com
+afm.vantagemarketssea.com
 afm.vantagetradings.com
 afm.vnvtglobal.com
 afm.vtg-mkt-apac.com
@@ -38,6 +39,7 @@ afm.vtmarkets.co
 afm.vtmarkets.com
 afm.vtmarkets.net
 afm.vtmarketsfr.com
+afm.vtmarketsfx-cn.com
 afm.vtmarketsid.com
 afm.vtmarketsintlcn.com
 afm.vtmarketsjp.com
@@ -312,6 +314,7 @@ content.mywisely.com
 content.name.com
 content.nebraska.gov
 content.netcredit.pl
+content.nhrs.org
 content.novunaconsumerfinance.co.uk
 content.nu.com.co
 content.nu.com.mx
@@ -686,7 +689,6 @@ neo.cdx-bankislam.com
 neo.fashionette.de
 netinf.curemd.com
 nexus-svc.sc.com
-nv-2.liveaction.com
 ocs.ameriprise.com
 offtest.fnfis.com
 ofxmryjd.seller.walmart.com

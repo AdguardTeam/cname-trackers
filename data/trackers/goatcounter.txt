@@ -17,6 +17,7 @@
 ||count.vidsrc.pro^
 ||counter.storydragon.nl^
 ||gc.his2nd.life^
+||gc.miluchacontraeltabaco.com^
 ||gc.mindenugyved.hu^
 ||gc.neiku.org^
 ||gc.noscirep.com^
@@ -24,6 +25,7 @@
 ||gc.securitydungeon.sk^
 ||gc.tbx.at^
 ||github.gpuzelenograd.cloudns.be^
+||go.d8a.org^
 ||goat.belak.io^
 ||goat.dabric.xyz^
 ||goat.dheinemann.com^
@@ -60,9 +62,12 @@
 ||stats.celerry.com^
 ||stats.cgcristi.xyz^
 ||stats.cloudflex.team^
+||stats.dalinwilliams.com^
+||stats.dandelion.computer^
 ||stats.doarpstsjerke.nl^
 ||stats.ebdruplab.dk^
 ||stats.fieald.com^
+||stats.gopikrishna.dev^
 ||stats.haseebmajid.dev^
 ||stats.hedy.dev^
 ||stats.how.wtf^
@@ -80,7 +85,9 @@
 ||stats.lspeed.org^
 ||stats.mausoleum.me^
 ||stats.mele.dev^
+||stats.merrell.dev^
 ||stats.msol.io^
+||stats.niravraval.com^
 ||stats.nullzwo.dev^
 ||stats.palaisdesfetes.eu^
 ||stats.pollux.codes^
@@ -99,6 +106,7 @@
 ||stats.whatacools.com^
 ||stats.wswg.xyz^
 ||stats.ybbond.id^
+||trackerstats.davidthe.dev^
 ||vault-stats.sladewatkins.net^
 ||visit.hijacklibs.net^
 ||webstats.maik.dev^

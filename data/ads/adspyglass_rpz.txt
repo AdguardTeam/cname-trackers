@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -141,6 +141,7 @@ a.lewxi.online CNAME .
 a.lifsi.pro CNAME .
 a.mafon.xyz CNAME .
 a.markporn.com CNAME .
+a.marksmatures.com CNAME .
 a.markstube.com CNAME .
 a.maturepussyporn.net CNAME .
 a.medriz.xyz CNAME .
@@ -181,7 +182,6 @@ a.warddogs.com CNAME .
 a.xolen.xyz CNAME .
 a.yamcha.xyz CNAME .
 a.zenam.xyz CNAME .
-a.zillastream.com CNAME .
 a.ztulcrynw.online CNAME .
 a5g.oves.biz CNAME .
 a9o.youlikeboys.com CNAME .
@@ -242,6 +242,7 @@ ancestor3452.fun CNAME .
 announcement317.fun CNAME .
 antiadblock.info CNAME .
 anun.comicsarmy.com CNAME .
+aopapp.com CNAME .
 apathyjav128.fun CNAME .
 api.adultsclips.com CNAME .
 app.gayapp.one CNAME .
@@ -409,6 +410,7 @@ cjwp.cdnhls.pro CNAME .
 click.fastupload.io CNAME .
 client2009x25.xcdn.ovh CNAME .
 clit.lewdl.com CNAME .
+cmpsci.hubhubhub.name CNAME .
 coercejavgg124.fun CNAME .
 colonyjav182.fun CNAME .
 comedyjav128.fun CNAME .
@@ -519,6 +521,7 @@ filterjavgg124.fun CNAME .
 firaapp.com CNAME .
 flower1266.fun CNAME .
 followjav182.fun CNAME .
+foorcdn.com CNAME .
 free.srcdn.xyz CNAME .
 frighten3452.fun CNAME .
 fuckers.nieuws.xxx CNAME .
@@ -699,6 +702,7 @@ lagrys.xyz CNAME .
 larasub.conxxx.pro CNAME .
 launch1266.fun CNAME .
 lengthjavgg124.fun CNAME .
+lewd.ws CNAME .
 lianzl.xyz CNAME .
 liracdn.com CNAME .
 lixir.wargers.org CNAME .
@@ -825,7 +829,6 @@ okkodoo.com CNAME .
 oldsia.xyz CNAME .
 omission119.fun CNAME .
 onacao.com CNAME .
-ontj.com CNAME .
 opus.sexyxxx.biz CNAME .
 organize3452.fun CNAME .
 origin1266.fun CNAME .
@@ -903,7 +906,6 @@ q.roovs.xyz CNAME .
 q.tubetruck.com CNAME .
 qhip.com CNAME .
 qiaoxz.xyz CNAME .
-qoqv.com CNAME .
 qovua60gue.tubewolf.com CNAME .
 qsdr.mysunnylawn.com CNAME .
 quaizoa.xyz CNAME .
@@ -965,7 +967,6 @@ s.malay.buzz CNAME .
 s.oralblow.com CNAME .
 s.porndub.us CNAME .
 s.pornoshub.site CNAME .
-s.pornox.site CNAME .
 s.pornworld.pro CNAME .
 s.quedo.buzz CNAME .
 s.remonti.org CNAME .
@@ -1062,6 +1063,7 @@ track.sexbule.one CNAME .
 transmission423.fun CNAME .
 tron.bbw-porn-video.com CNAME .
 truazka.xyz CNAME .
+true.aahen.site CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 ttquix.xyz CNAME .
@@ -1080,6 +1082,7 @@ up1app.com CNAME .
 up2cdn.com CNAME .
 upperoh.hubhubhub.name CNAME .
 usdtaz.xyz CNAME .
+uvac.devcre.site CNAME .
 v1.sellbuy.click CNAME .
 vainjav11.fun CNAME .
 vboiutv.xyz CNAME .
@@ -1164,6 +1167,7 @@ xs213.javgg.club CNAME .
 xserve.zapurl.cc CNAME .
 xxx.sdtraff.com CNAME .
 xxxlove.rooski.net CNAME .
+xzx.jtiasfkkg.xyz CNAME .
 y.crazyporn.xxx CNAME .
 y.sphinxtube.com CNAME .
 y43wd34.dagobert33.xyz CNAME .
@@ -1183,6 +1187,7 @@ zaokko.com CNAME .
 zenal.xyz CNAME .
 zenaot.xyz CNAME .
 zi3nna.xyz CNAME .
+zrakos.com CNAME .
 zudvl.com CNAME .
 zv.7vid.net CNAME .
 ad.desibp.com CNAME .

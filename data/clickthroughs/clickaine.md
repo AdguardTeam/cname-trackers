@@ -67,6 +67,7 @@
 | clk.slutcam.org | api.clickaine.com |
 | clka.bondagevalley.cc | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
+| clkn.desihub.org | api.clickaine.com |
 | clkn.moviesinspector.com | api.clickaine.com |
 | clkn2.apostle.onl | api.clickaine.com |
 | clkn3.apostle.onl | api.clickaine.com |

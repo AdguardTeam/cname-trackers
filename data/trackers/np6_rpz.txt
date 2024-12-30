@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -135,6 +135,7 @@ tr.asp2077.espmp-nifr.net CNAME .
 tr.asp2078.espmp-nifr.net CNAME .
 tr.asp207e.espmp-nifr.net CNAME .
 tr.asp207f.espmp-cufr.net CNAME .
+tr.audi-fs-email.fr CNAME .
 tr.avisecheance.maaf.fr CNAME .
 tr.axa-millesimes.espmp-aufr.net CNAME .
 tr.axa.espmp-aufr.net CNAME .
@@ -430,7 +431,6 @@ tr.fleetmatics.vraaguwofferte.be CNAME .
 tr.fortuneo.com CNAME .
 tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
-tr.france.plimsoll.fr CNAME .
 tr.fts.francetravail.fr CNAME .
 tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
@@ -639,6 +639,7 @@ tr.mailing.achatpublic.com CNAME .
 tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
+tr.mailing.opinionrelate.com CNAME .
 tr.mailing.promodeclic.fr CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
@@ -687,6 +688,7 @@ tr.moja-wycena.pl CNAME .
 tr.monagenligne.fr CNAME .
 tr.mondevis-b2b.com CNAME .
 tr.mondevis-pro.com CNAME .
+tr.moving.espmp-agfr.net CNAME .
 tr.moving.fr CNAME .
 tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-entreprise.fr CNAME .
@@ -807,7 +809,6 @@ tr.news.infopro-digital.com CNAME .
 tr.news.interforum.fr CNAME .
 tr.news.invinoradio.tv CNAME .
 tr.news.itancia.com CNAME .
-tr.news.jautomatise.com CNAME .
 tr.news.kaptainmusic.fr CNAME .
 tr.news.kpmg-avocats.fr CNAME .
 tr.news.kpmg.fr CNAME .
@@ -936,6 +937,7 @@ tr.nl.myvipmag.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl.stadefrance.com CNAME .
 tr.nl.troyes.cci.fr CNAME .
+tr.nl.vipmag.fr CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
 tr.nmcm.espmp-cufr.net CNAME .
 tr.nmcm.espmp-nifr.net CNAME .
@@ -1105,6 +1107,7 @@ tr.urfk02r.espmp-nifr.net CNAME .
 tr.urfk02t.espmp-agfr.net CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk02z.espmp-nifr.net CNAME .
+tr.urfk039.espmp-aufr.net CNAME .
 tr.urfk03c.espmp-nifr.net CNAME .
 tr.urfk03h.espmp-nifr.net CNAME .
 tr.urfk03i.espmp-nifr.net CNAME .
@@ -1135,6 +1138,7 @@ tr.urfk07r.espmp-agfr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .
 tr.urfk080.espmp-agfr.net CNAME .
 tr.urfk08c.espmp-cufr.net CNAME .
+tr.urfk08j.espmp-nifr.net CNAME .
 tr.vernede.huilesdolive.fr CNAME .
 tr.vf7n.espmp-agfr.net CNAME .
 tr.videofutur.fr CNAME .

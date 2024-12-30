@@ -23,6 +23,10 @@
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
     * codinggrace.goatcounter.com
+    * d8a.goatcounter.com
+    * dailies.goatcounter.com
+    * dalinwilliams.goatcounter.com
+    * dandelion-computer.goatcounter.com
     * dannynullzwo.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
@@ -37,6 +41,7 @@
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
+    * gopikrishna.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
     * h2l.goatcounter.com
     * haseebmajid.goatcounter.com
@@ -62,11 +67,14 @@
     * maple.goatcounter.com
     * mausoleum.goatcounter.com
     * mele.goatcounter.com
+    * merrelldev.goatcounter.com
     * mindenugyved.goatcounter.com
     * mine.goatcounter.com
+    * mlcet.goatcounter.com
     * msol.goatcounter.com
     * neiku.goatcounter.com
     * nhimmeo.goatcounter.com
+    * niravraval.goatcounter.com
     * noscirep.goatcounter.com
     * novi.goatcounter.com
     * ooo.goatcounter.com
@@ -130,6 +138,10 @@
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
+| go.d8a.org | d8a.goatcounter.com |
+| trackerstats.davidthe.dev | dailies.goatcounter.com |
+| stats.dalinwilliams.com | dalinwilliams.goatcounter.com |
+| stats.dandelion.computer | dandelion-computer.goatcounter.com |
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
@@ -144,6 +156,7 @@
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
+| stats.gopikrishna.dev | gopikrishna.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | gc.his2nd.life | h2l.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
@@ -169,11 +182,14 @@
 | st.mapleranks.com | maple.goatcounter.com |
 | stats.mausoleum.me | mausoleum.goatcounter.com |
 | stats.mele.dev | mele.goatcounter.com |
+| stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
+| gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
 | gc.neiku.org | neiku.goatcounter.com |
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
+| stats.niravraval.com | niravraval.goatcounter.com |
 | gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |

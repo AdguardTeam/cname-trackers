@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ afm.vantagemarkets.co.uk CNAME .
 afm.vantagemarkets.com CNAME .
 afm.vantagemarkets.io CNAME .
 afm.vantagemarketsea.com CNAME .
+afm.vantagemarketssea.com CNAME .
 afm.vantagetradings.com CNAME .
 afm.vnvtglobal.com CNAME .
 afm.vtg-mkt-apac.com CNAME .
@@ -49,6 +50,7 @@ afm.vtmarkets.co CNAME .
 afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
 afm.vtmarketsfr.com CNAME .
+afm.vtmarketsfx-cn.com CNAME .
 afm.vtmarketsid.com CNAME .
 afm.vtmarketsintlcn.com CNAME .
 afm.vtmarketsjp.com CNAME .
@@ -323,6 +325,7 @@ content.mywisely.com CNAME .
 content.name.com CNAME .
 content.nebraska.gov CNAME .
 content.netcredit.pl CNAME .
+content.nhrs.org CNAME .
 content.novunaconsumerfinance.co.uk CNAME .
 content.nu.com.co CNAME .
 content.nu.com.mx CNAME .
@@ -697,7 +700,6 @@ neo.cdx-bankislam.com CNAME .
 neo.fashionette.de CNAME .
 netinf.curemd.com CNAME .
 nexus-svc.sc.com CNAME .
-nv-2.liveaction.com CNAME .
 ocs.ameriprise.com CNAME .
 offtest.fnfis.com CNAME .
 ofxmryjd.seller.walmart.com CNAME .

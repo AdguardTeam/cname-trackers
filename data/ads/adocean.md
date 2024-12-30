@@ -47,6 +47,7 @@
 | content.ingbank.pl | ing.adocean.pl |
 | serveris.lnk.lt | lt.adocean.pl |
 | ad.santa.lv | lv.adocean.pl |
+| ao.la.lv | lv.adocean.pl |
 | siewca.topagrar.pl | myao.adocean.pl |
 | zniwiarz.topagrar.pl | myao.adocean.pl |
 | ipla.hit.stat24.com | redefine.adocean.pl |

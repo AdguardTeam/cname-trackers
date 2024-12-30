@@ -6,6 +6,7 @@
 ||ado.icorp.ro^
 ||ads.tvp.pl^
 ||ao.city24.lv^
+||ao.la.lv^
 ||content.ingbank.pl^
 ||ee.sportacentrs.com^
 ||icorpado.9am.ro^

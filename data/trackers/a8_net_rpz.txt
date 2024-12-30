@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -68,6 +68,7 @@ a8.cbiz.io CNAME .
 a8.centarc.com CNAME .
 a8.chat-lady.jp CNAME .
 a8.chiyo-moni.com CNAME .
+a8.choole.jp CNAME .
 a8.choomia.com CNAME .
 a8.chuo-estate.net CNAME .
 a8.clarah.jp CNAME .
@@ -132,6 +133,7 @@ a8.gaizyu-taiji.com CNAME .
 a8.geo-online.co.jp CNAME .
 a8.global-mobility-service.com CNAME .
 a8.gme.co.jp CNAME .
+a8.gofood.jp CNAME .
 a8.golfland.co.jp CNAME .
 a8.goodappeal.site CNAME .
 a8.gtm.co.jp CNAME .
@@ -769,6 +771,7 @@ a8cv.012grp.co.jp CNAME .
 a8cv.03plus.net CNAME .
 a8cv.04510.jp CNAME .
 a8cv.1-class.jp CNAME .
+a8cv.17kg.shop CNAME .
 a8cv.1sbc.com CNAME .
 a8cv.464981.com CNAME .
 a8cv.489pro.com CNAME .
@@ -782,6 +785,7 @@ a8cv.adv.gr.jp CNAME .
 a8cv.aff.life-110.com CNAME .
 a8cv.ageru-career.com CNAME .
 a8cv.aiambeauty.jp CNAME .
+a8cv.air-mobileset.jp CNAME .
 a8cv.akapon.kanritools.com CNAME .
 a8cv.akihabara-x.jp CNAME .
 a8cv.akippa.com CNAME .
@@ -1079,6 +1083,7 @@ a8cv.memberpay.jp CNAME .
 a8cv.members.race.sanspo.com CNAME .
 a8cv.menina-joue.jp CNAME .
 a8cv.mentors-lwc.com CNAME .
+a8cv.mhg-webstore.com CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.mitaina.tokyo CNAME .
 a8cv.mobabiji.jp CNAME .
@@ -1137,6 +1142,7 @@ a8cv.otoriyose.site CNAME .
 a8cv.paidy.com CNAME .
 a8cv.paintory.com CNAME .
 a8cv.palms-gym.com CNAME .
+a8cv.peraichiapp.com CNAME .
 a8cv.pf.classicmusic.tokyo CNAME .
 a8cv.phonim.com CNAME .
 a8cv.photo.concorde-corp.jp CNAME .
@@ -1515,7 +1521,6 @@ cv.oiz-care.jp CNAME .
 cv.online.ysroad.co.jp CNAME .
 cv.optimo-slb.com CNAME .
 cv.quocard.jp CNAME .
-cv.rakuten-hikari.net CNAME .
 cv.re-shop.jp CNAME .
 cv.ryoutuki-kyujin.com CNAME .
 cv.shiryoku1.com CNAME .
@@ -1568,7 +1573,6 @@ rsv.pairorder.jp CNAME .
 salto.freeto.jp CNAME .
 sekaopi.nocre.jp CNAME .
 sfcv.chinavi-shop.jp CNAME .
-shop.anu-cosme.com CNAME .
 shopping.cellpure.co.jp CNAME .
 smn.dankore.jp CNAME .
 sokutei.car2828.jp CNAME .

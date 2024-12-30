@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735125016711        ; Serial
+           1735545607844        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ count.andreabrandi.com CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
 gc.his2nd.life CNAME .
+gc.miluchacontraeltabaco.com CNAME .
 gc.mindenugyved.hu CNAME .
 gc.neiku.org CNAME .
 gc.noscirep.com CNAME .
@@ -35,6 +36,7 @@ gc.sanyamkapoor.com CNAME .
 gc.securitydungeon.sk CNAME .
 gc.tbx.at CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
+go.d8a.org CNAME .
 goat.belak.io CNAME .
 goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
@@ -71,9 +73,12 @@ stats.cassie.omg.lol CNAME .
 stats.celerry.com CNAME .
 stats.cgcristi.xyz CNAME .
 stats.cloudflex.team CNAME .
+stats.dalinwilliams.com CNAME .
+stats.dandelion.computer CNAME .
 stats.doarpstsjerke.nl CNAME .
 stats.ebdruplab.dk CNAME .
 stats.fieald.com CNAME .
+stats.gopikrishna.dev CNAME .
 stats.haseebmajid.dev CNAME .
 stats.hedy.dev CNAME .
 stats.how.wtf CNAME .
@@ -91,7 +96,9 @@ stats.ksr.onl CNAME .
 stats.lspeed.org CNAME .
 stats.mausoleum.me CNAME .
 stats.mele.dev CNAME .
+stats.merrell.dev CNAME .
 stats.msol.io CNAME .
+stats.niravraval.com CNAME .
 stats.nullzwo.dev CNAME .
 stats.palaisdesfetes.eu CNAME .
 stats.pollux.codes CNAME .
@@ -110,6 +117,7 @@ stats.umcconnell.net CNAME .
 stats.whatacools.com CNAME .
 stats.wswg.xyz CNAME .
 stats.ybbond.id CNAME .
+trackerstats.davidthe.dev CNAME .
 vault-stats.sladewatkins.net CNAME .
 visit.hijacklibs.net CNAME .
 webstats.maik.dev CNAME .

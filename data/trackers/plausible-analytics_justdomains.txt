@@ -62,7 +62,6 @@ badwolf.open-election-compass.com
 besucher.nona.de
 bob.gitclear.com
 btstats.benakt.com
-cats.d20.rs
 cdn.arcstudiopro.com
 channelwatcher.panda.tech
 cheese.guac.live
@@ -723,6 +722,7 @@ stats.pubfind.io
 stats.qovery.com
 stats.quicksilvercre.com
 stats.radicaldata.org
+stats.radicitoscane.it
 stats.rasulkireev.com
 stats.reactician.com
 stats.readng.co

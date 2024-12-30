@@ -57,7 +57,6 @@
     * h-324klu1j.online-metrix.net
     * h-32rts1pk.online-metrix.net
     * h-3375wwy7.online-metrix.net
-    * h-34mvnza6.online-metrix.net
     * h-35y9sib5-2.online-metrix.net
     * h-35y9sib5.online-metrix.net
     * h-39zuido3.online-metrix.net
@@ -100,6 +99,7 @@
     * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
     * h-5wvo3z5x.online-metrix.net
+    * h-5xjzypxf.online-metrix.net
     * h-5xx71132.online-metrix.net
     * h-63ep99l5.online-metrix.net
     * h-68mv9954.online-metrix.net
@@ -914,7 +914,6 @@
 | applicant.rbfcu.org | h-324klu1j.online-metrix.net |
 | secure.freshbooks.com | h-32rts1pk.online-metrix.net |
 | login-verification.dol.ct.gov | h-3375wwy7.online-metrix.net |
-| nv-2.liveaction.com | h-34mvnza6.online-metrix.net |
 | id.charge-auth.com | h-35y9sib5-2.online-metrix.net |
 | id.solidgate.com | h-35y9sib5.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
@@ -991,6 +990,7 @@
 | rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | dp.mynylottery.org | h-5wvo3z5x.online-metrix.net |
+| content.nhrs.org | h-5xjzypxf.online-metrix.net |
 | lncdn.goosehead.com | h-5xx71132.online-metrix.net |
 | applibs.fglife.com | h-63ep99l5.online-metrix.net |
 | fms-dev.citysavings.net.ph | h-68mv9954.online-metrix.net |
@@ -1104,6 +1104,7 @@
 | afm.vantagemarkets.com | h-96eziru5.online-metrix.net |
 | afm.vantagemarkets.io | h-96eziru5.online-metrix.net |
 | afm.vantagemarketsea.com | h-96eziru5.online-metrix.net |
+| afm.vantagemarketssea.com | h-96eziru5.online-metrix.net |
 | afm.vantagetradings.com | h-96eziru5.online-metrix.net |
 | afm.vnvtglobal.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt-apac.com | h-96eziru5.online-metrix.net |
@@ -1113,6 +1114,7 @@
 | afm.vtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
 | afm.vtmarketsfr.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsfx-cn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsid.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsintlcn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsjp.com | h-96eziru5.online-metrix.net |

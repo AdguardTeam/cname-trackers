@@ -10,7 +10,10 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| api.datingxperten.de | api.wecantrack.com |
+| api.eltjek24.dk | api.wecantrack.com |
 | w.revenuegeeks.com | api.wecantrack.com |
+| wct.compari.se | api.wecantrack.com |
 | wct.softonic-ar.com | api.wecantrack.com |
 | wct.softonic-id.com | api.wecantrack.com |
 | wct.softonic-th.com | api.wecantrack.com |

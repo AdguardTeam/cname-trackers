@@ -57,6 +57,7 @@ a8.cbiz.io
 a8.centarc.com
 a8.chat-lady.jp
 a8.chiyo-moni.com
+a8.choole.jp
 a8.choomia.com
 a8.chuo-estate.net
 a8.clarah.jp
@@ -121,6 +122,7 @@ a8.gaizyu-taiji.com
 a8.geo-online.co.jp
 a8.global-mobility-service.com
 a8.gme.co.jp
+a8.gofood.jp
 a8.golfland.co.jp
 a8.goodappeal.site
 a8.gtm.co.jp
@@ -758,6 +760,7 @@ a8cv.012grp.co.jp
 a8cv.03plus.net
 a8cv.04510.jp
 a8cv.1-class.jp
+a8cv.17kg.shop
 a8cv.1sbc.com
 a8cv.464981.com
 a8cv.489pro.com
@@ -771,6 +774,7 @@ a8cv.adv.gr.jp
 a8cv.aff.life-110.com
 a8cv.ageru-career.com
 a8cv.aiambeauty.jp
+a8cv.air-mobileset.jp
 a8cv.akapon.kanritools.com
 a8cv.akihabara-x.jp
 a8cv.akippa.com
@@ -1068,6 +1072,7 @@ a8cv.memberpay.jp
 a8cv.members.race.sanspo.com
 a8cv.menina-joue.jp
 a8cv.mentors-lwc.com
+a8cv.mhg-webstore.com
 a8cv.minana-jp.com
 a8cv.mitaina.tokyo
 a8cv.mobabiji.jp
@@ -1126,6 +1131,7 @@ a8cv.otoriyose.site
 a8cv.paidy.com
 a8cv.paintory.com
 a8cv.palms-gym.com
+a8cv.peraichiapp.com
 a8cv.pf.classicmusic.tokyo
 a8cv.phonim.com
 a8cv.photo.concorde-corp.jp
@@ -1504,7 +1510,6 @@ cv.oiz-care.jp
 cv.online.ysroad.co.jp
 cv.optimo-slb.com
 cv.quocard.jp
-cv.rakuten-hikari.net
 cv.re-shop.jp
 cv.ryoutuki-kyujin.com
 cv.shiryoku1.com
@@ -1557,7 +1562,6 @@ rsv.pairorder.jp
 salto.freeto.jp
 sekaopi.nocre.jp
 sfcv.chinavi-shop.jp
-shop.anu-cosme.com
 shopping.cellpure.co.jp
 smn.dankore.jp
 sokutei.car2828.jp
