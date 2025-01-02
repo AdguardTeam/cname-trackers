@@ -42,6 +42,13 @@
         ]
     },
     {
+        "company_name": "Ad-Shield",
+        "type": "ad",
+        "domains": [
+            "ad-shield.cc"
+        ]
+    },
+    {
         "company_name": "AdSpyglass",
         "type": "ad",
         "domains": [
