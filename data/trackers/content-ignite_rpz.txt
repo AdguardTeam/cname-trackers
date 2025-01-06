@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,7 +24,6 @@ ast.welt.de CNAME .
 blackberry.basf.com CNAME .
 blackberry.suvinil.com.br CNAME .
 collect.aeonbank.co.jp CNAME .
-collect.ansons.de CNAME .
 collect.asics.com CNAME .
 collect.calvinklein.at CNAME .
 collect.calvinklein.be CNAME .
@@ -32,8 +31,10 @@ collect.calvinklein.bg CNAME .
 collect.calvinklein.ch CNAME .
 collect.calvinklein.co.uk CNAME .
 collect.calvinklein.com CNAME .
+collect.calvinklein.cz CNAME .
 collect.calvinklein.de CNAME .
 collect.calvinklein.dk CNAME .
+collect.calvinklein.ee CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
@@ -42,11 +43,13 @@ collect.calvinklein.hu CNAME .
 collect.calvinklein.ie CNAME .
 collect.calvinklein.it CNAME .
 collect.calvinklein.lt CNAME .
+collect.calvinklein.lu CNAME .
 collect.calvinklein.lv CNAME .
 collect.calvinklein.nl CNAME .
 collect.calvinklein.pl CNAME .
 collect.calvinklein.pt CNAME .
 collect.calvinklein.se CNAME .
+collect.calvinklein.si CNAME .
 collect.calvinklein.sk CNAME .
 collect.kinto-jp.com CNAME .
 collect.mtgec.jp CNAME .
@@ -59,6 +62,7 @@ dp.idealista.com CNAME .
 dp.idealista.it CNAME .
 dp.idealista.pt CNAME .
 dp.rentalia.com CNAME .
+events.just-eat.ch CNAME .
 events.just-eat.co.uk CNAME .
 events.just-eat.dk CNAME .
 events.just-eat.es CNAME .
@@ -101,6 +105,7 @@ tagdelivery.mayoclinic.org CNAME .
 tags.abercrombie.com CNAME .
 tags.accessmore.com CNAME .
 tags.achieve.com CNAME .
+tags.achieveloans.com CNAME .
 tags.air1.com CNAME .
 tags.alhurra.com CNAME .
 tags.amerikaninsesi.org CNAME .
@@ -151,6 +156,7 @@ tags.calvinklein.nl CNAME .
 tags.calvinklein.pl CNAME .
 tags.calvinklein.pt CNAME .
 tags.calvinklein.se CNAME .
+tags.calvinklein.si CNAME .
 tags.calvinklein.sk CNAME .
 tags.cardscout.de CNAME .
 tags.carecredit.com CNAME .
@@ -182,6 +188,7 @@ tags.freedomfinancialnetwork.com CNAME .
 tags.glasamerike.net CNAME .
 tags.gnhearing.com CNAME .
 tags.golosameriki.com CNAME .
+tags.groupmartech.vodafone.com CNAME .
 tags.heathrow.com CNAME .
 tags.heathrowexpress.com CNAME .
 tags.hollisterco.com CNAME .
@@ -231,6 +238,7 @@ tags.radiotavisupleba.ge CNAME .
 tags.radiyoyacuvoa.com CNAME .
 tags.reagroupdata.com.au CNAME .
 tags.realestate.com.au CNAME .
+tags.resound.com CNAME .
 tags.rfa.org CNAME .
 tags.rferl.org CNAME .
 tags.roberthalf.com CNAME .
@@ -243,7 +251,6 @@ tags.severreal.org CNAME .
 tags.shaw.ca CNAME .
 tags.shop.com CNAME .
 tags.sibreal.org CNAME .
-tags.sixpad.jp CNAME .
 tags.slobodnaevropa.mk CNAME .
 tags.slobodnaevropa.org CNAME .
 tags.streampicker.de CNAME .
@@ -254,6 +261,7 @@ tags.syf.com CNAME .
 tags.synchrony.com CNAME .
 tags.synchronybank.com CNAME .
 tags.synchronybusiness.com CNAME .
+tags.synchronycredit.com CNAME .
 tags.szabadeuropa.hu CNAME .
 tags.tekna.no CNAME .
 tags.telenor.dk CNAME .
@@ -284,6 +292,7 @@ tags.voashona.com CNAME .
 tags.voasomali.com CNAME .
 tags.voaswahili.com CNAME .
 tags.voathai.com CNAME .
+tags.voatibetan.com CNAME .
 tags.voatiengviet.com CNAME .
 tags.voaturkce.com CNAME .
 tags.voazimbabwe.com CNAME .
@@ -336,6 +345,7 @@ tealm-c.crocs.nl CNAME .
 tealm-c.heydude.de CNAME .
 tealm-c.heydude.eu CNAME .
 tealm-c.heydude.uk CNAME .
+tiq.esprit.fr CNAME .
 tiq.esprit.us CNAME .
 tiq.espritshop.pl CNAME .
 tiq.linda.nl CNAME .
@@ -393,3 +403,5 @@ vtd.vontobel.com CNAME .
 webtags.logitech.com CNAME .
 webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
+collect.ansons.de CNAME .
+tags.sixpad.jp CNAME .

@@ -13,7 +13,6 @@
 ||blackberry.basf.com^
 ||blackberry.suvinil.com.br^
 ||collect.aeonbank.co.jp^
-||collect.ansons.de^
 ||collect.asics.com^
 ||collect.calvinklein.at^
 ||collect.calvinklein.be^
@@ -21,8 +20,10 @@
 ||collect.calvinklein.ch^
 ||collect.calvinklein.co.uk^
 ||collect.calvinklein.com^
+||collect.calvinklein.cz^
 ||collect.calvinklein.de^
 ||collect.calvinklein.dk^
+||collect.calvinklein.ee^
 ||collect.calvinklein.es^
 ||collect.calvinklein.fi^
 ||collect.calvinklein.fr^
@@ -31,11 +32,13 @@
 ||collect.calvinklein.ie^
 ||collect.calvinklein.it^
 ||collect.calvinklein.lt^
+||collect.calvinklein.lu^
 ||collect.calvinklein.lv^
 ||collect.calvinklein.nl^
 ||collect.calvinklein.pl^
 ||collect.calvinklein.pt^
 ||collect.calvinklein.se^
+||collect.calvinklein.si^
 ||collect.calvinklein.sk^
 ||collect.kinto-jp.com^
 ||collect.mtgec.jp^
@@ -48,6 +51,7 @@
 ||dp.idealista.it^
 ||dp.idealista.pt^
 ||dp.rentalia.com^
+||events.just-eat.ch^
 ||events.just-eat.co.uk^
 ||events.just-eat.dk^
 ||events.just-eat.es^
@@ -90,6 +94,7 @@
 ||tags.abercrombie.com^
 ||tags.accessmore.com^
 ||tags.achieve.com^
+||tags.achieveloans.com^
 ||tags.air1.com^
 ||tags.alhurra.com^
 ||tags.amerikaninsesi.org^
@@ -140,6 +145,7 @@
 ||tags.calvinklein.pl^
 ||tags.calvinklein.pt^
 ||tags.calvinklein.se^
+||tags.calvinklein.si^
 ||tags.calvinklein.sk^
 ||tags.cardscout.de^
 ||tags.carecredit.com^
@@ -171,6 +177,7 @@
 ||tags.glasamerike.net^
 ||tags.gnhearing.com^
 ||tags.golosameriki.com^
+||tags.groupmartech.vodafone.com^
 ||tags.heathrow.com^
 ||tags.heathrowexpress.com^
 ||tags.hollisterco.com^
@@ -220,6 +227,7 @@
 ||tags.radiyoyacuvoa.com^
 ||tags.reagroupdata.com.au^
 ||tags.realestate.com.au^
+||tags.resound.com^
 ||tags.rfa.org^
 ||tags.rferl.org^
 ||tags.roberthalf.com^
@@ -232,7 +240,6 @@
 ||tags.shaw.ca^
 ||tags.shop.com^
 ||tags.sibreal.org^
-||tags.sixpad.jp^
 ||tags.slobodnaevropa.mk^
 ||tags.slobodnaevropa.org^
 ||tags.streampicker.de^
@@ -243,6 +250,7 @@
 ||tags.synchrony.com^
 ||tags.synchronybank.com^
 ||tags.synchronybusiness.com^
+||tags.synchronycredit.com^
 ||tags.szabadeuropa.hu^
 ||tags.tekna.no^
 ||tags.telenor.dk^
@@ -273,6 +281,7 @@
 ||tags.voasomali.com^
 ||tags.voaswahili.com^
 ||tags.voathai.com^
+||tags.voatibetan.com^
 ||tags.voatiengviet.com^
 ||tags.voaturkce.com^
 ||tags.voazimbabwe.com^
@@ -325,6 +334,7 @@
 ||tealm-c.heydude.de^
 ||tealm-c.heydude.eu^
 ||tealm-c.heydude.uk^
+||tiq.esprit.fr^
 ||tiq.esprit.us^
 ||tiq.espritshop.pl^
 ||tiq.linda.nl^
@@ -382,3 +392,5 @@
 ||webtags.logitech.com^
 ||webtags.logitechg.com^
 ||www.tags.kmart.com.au^
+||collect.ansons.de^
+||tags.sixpad.jp^

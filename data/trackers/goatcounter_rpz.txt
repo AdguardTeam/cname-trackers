@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,7 +59,7 @@ ping.irisphotos.app CNAME .
 pixel.embed.su CNAME .
 st.mapleranks.com CNAME .
 statistic.elkobraas.com CNAME .
-stats.0chris.com CNAME .
+stats-ruzickap-github-io.ruzicka.dev CNAME .
 stats.45rpm.ch CNAME .
 stats.abdo.wtf CNAME .
 stats.abdodaoud.com CNAME .
@@ -111,9 +111,11 @@ stats.sharukhi.xyz CNAME .
 stats.sofianlak.fr CNAME .
 stats.stchris.net CNAME .
 stats.svc.lol CNAME .
+stats.tdurand.com CNAME .
 stats.thecrafters001.com CNAME .
 stats.trainsley69.me CNAME .
 stats.umcconnell.net CNAME .
+stats.w0chp.radio CNAME .
 stats.whatacools.com CNAME .
 stats.wswg.xyz CNAME .
 stats.ybbond.id CNAME .

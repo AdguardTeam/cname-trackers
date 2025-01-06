@@ -17,6 +17,7 @@
 ||l.750g.com^
 ||l.actu.fr^
 ||l.africabusinessplus.com^
+||l.africanews.com^
 ||l.allocine.fr^
 ||l.alternatives-economiques.fr^
 ||l.aufeminin.com^
@@ -156,6 +157,7 @@
 ||l.zdnet.fr^
 ||nr.lanouvellerepublique.fr^
 ||on.qobuz.com^
+||prod-3.moarty.com^
 ||social.lafranceagricole.fr^
 ||sur.corsematin.com^
 ||sur.laprovence.com^

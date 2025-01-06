@@ -16,6 +16,7 @@
 ||afm.startrader.asia^
 ||afm.startrader.com^
 ||afm.startrader.live^
+||afm.startraderfr.com^
 ||afm.startradermy.com^
 ||afm.sthub.cc^
 ||afm.ultimamarkets.asia^
@@ -40,6 +41,7 @@
 ||afm.vtmarkets.net^
 ||afm.vtmarketsfr.com^
 ||afm.vtmarketsfx-cn.com^
+||afm.vtmarketsglobal.com^
 ||afm.vtmarketsid.com^
 ||afm.vtmarketsintlcn.com^
 ||afm.vtmarketsjp.com^
@@ -372,6 +374,7 @@
 ||content.washingtonnational.com^
 ||content.westcreekfin.com^
 ||content.wizink.es^
+||content002.bet365.bet.br^
 ||content002.bet365.ca^
 ||content002.bet365.com^
 ||content002.bet365.com.au^
@@ -1015,6 +1018,7 @@
 ||tm.beachbody.com^
 ||tm.benevity.org^
 ||tm.betano.ar^
+||tm.betano.bet.br^
 ||tm.betano.bg^
 ||tm.betano.ca^
 ||tm.betano.co^
@@ -1023,7 +1027,6 @@
 ||tm.betano.de^
 ||tm.betano.dk^
 ||tm.betano.mx^
-||tm.betano.ng^
 ||tm.cbd.ae^
 ||tm.clearcover.com^
 ||tm.cox.com^

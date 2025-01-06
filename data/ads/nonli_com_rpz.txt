@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ l.20minutes.fr CNAME .
 l.750g.com CNAME .
 l.actu.fr CNAME .
 l.africabusinessplus.com CNAME .
+l.africanews.com CNAME .
 l.allocine.fr CNAME .
 l.alternatives-economiques.fr CNAME .
 l.aufeminin.com CNAME .
@@ -167,6 +168,7 @@ l.vosgesmatin.fr CNAME .
 l.zdnet.fr CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
+prod-3.moarty.com CNAME .
 social.lafranceagricole.fr CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .

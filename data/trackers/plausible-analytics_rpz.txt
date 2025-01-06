@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -305,6 +305,7 @@ s.sporks.space CNAME .
 s.stgeorgeafc.com.au CNAME .
 s.testingreactjs.com CNAME .
 s.useeffectbyexample.com CNAME .
+s.vejenerhverv.dk CNAME .
 s.vucko.co CNAME .
 sa.flux.community CNAME .
 sats.mailbrew.com CNAME .
@@ -323,6 +324,7 @@ st.anastasija.lt CNAME .
 st.picshuffle.com CNAME .
 st.preciousamber.com CNAME .
 st.tulastudio.se CNAME .
+st.turnou.com CNAME .
 stat.bill.harding.blog CNAME .
 stat.landingpro.pl CNAME .
 stat.recklesslove.co.za CNAME .
@@ -415,6 +417,7 @@ stats.codis.io CNAME .
 stats.cohere.so CNAME .
 stats.coldbox.org CNAME .
 stats.connect.pm CNAME .
+stats.constructdps.co.uk CNAME .
 stats.convaise.com CNAME .
 stats.corona-navi.de CNAME .
 stats.covid.vitordino.com CNAME .
@@ -603,6 +606,7 @@ stats.learnlinux.tv CNAME .
 stats.leavetrackapp.com CNAME .
 stats.lefthoek.com CNAME .
 stats.legendofnom.com CNAME .
+stats.leiamarjaana.com CNAME .
 stats.leoloso.com CNAME .
 stats.levinowska.com CNAME .
 stats.lica.at CNAME .
@@ -652,7 +656,6 @@ stats.motorcyclepartsireland.ie CNAME .
 stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
 stats.multiply.cloud CNAME .
-stats.musicuniverse.education CNAME .
 stats.myherocard.com CNAME .
 stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
@@ -745,6 +748,7 @@ stats.remotebear.io CNAME .
 stats.reprage.com CNAME .
 stats.respkt.de CNAME .
 stats.reto.tv CNAME .
+stats.retroware.com CNAME .
 stats.revitfamily.app CNAME .
 stats.rideinpeace.ie CNAME .
 stats.rightourhistoryhawaii.com CNAME .

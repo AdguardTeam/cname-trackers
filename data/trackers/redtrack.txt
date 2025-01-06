@@ -6,6 +6,7 @@
 ||101vilnius.trekkww.space^
 ||102asilah.treker.fun^
 ||102cardiff.trekkww.space^
+||102vilanova.treker.fun^
 ||103dnipro.trekkww.space^
 ||103sidikacem.treker.fun^
 ||103taourirt.treker.fun^
@@ -407,7 +408,6 @@
 ||af.galaxykids.ai^
 ||aff.magneticjv.com^
 ||aff.trckleads.com^
-||aff.vtui.ch^
 ||affiliates.herbsofeden.store^
 ||affsandbox.trk.agency^
 ||agadir.treker.fun^
@@ -453,6 +453,7 @@
 ||astorga.treker.fun^
 ||astrogated.monzodiorite.uno^
 ||asturias.treker.fun^
+||asynchantrk.com^
 ||atoso.alphatonicoffers.online^
 ||atrack.trekkww.space^
 ||atstal.trekkeeee.space^
@@ -504,10 +505,10 @@
 ||bedrop.marketing-tech.io^
 ||begiddl.bythint.uno^
 ||best.amazingbeautifulblog.com^
-||best.biolifesupplement.com^
 ||best.flexibilityover40.com^
 ||best.forever-wellness.net^
 ||best.gentlestretching.com^
+||bestlifestyleadvicetoday.com^
 ||bgwncsntrack.trackaffmktg.com^
 ||bhopal.treker.fun^
 ||bigleapforward.org^
@@ -564,6 +565,7 @@
 ||c2.newamericancenter.com^
 ||c2.realusacenter.com^
 ||c2.theamericansolutions.com^
+||c4.theamericantime.com^
 ||cadvztrk.com^
 ||california.trekkeeee.space^
 ||call.idealhealthins.com^
@@ -614,6 +616,7 @@
 ||click.lifelonghealthpath.com^
 ||click.linksaude.club^
 ||click.mmotoplay.com^
+||click.motiyo.com^
 ||click.myinspiredblogs.com^
 ||click.pocketoption.world^
 ||click.qualifyforcare.org^
@@ -694,6 +697,7 @@
 ||dan.danimillions.com^
 ||dar.treker.fun^
 ||data.samuraistea.com^
+||datong.treker.fun^
 ||daunting.manned.site^
 ||daviner.dooclis.uno^
 ||dazzlitude.kimferno.uno^
@@ -899,7 +903,7 @@
 ||go.advanceriseassistant.com^
 ||go.agelessadvicedaily.com^
 ||go.alivioparadeudas.com^
-||go.americanhealthfair.com^
+||go.americanseniordiscounts.com^
 ||go.amienaturals.com^
 ||go.apostabrasileira.org^
 ||go.apostaronline.org^
@@ -1108,6 +1112,7 @@
 ||go.wellnesstoday4all.com^
 ||go.welltrk.com^
 ||go.windowspronation.com^
+||go.wintracked.com^
 ||go.women40s.com^
 ||go.xtrack.click^
 ||go.your-healthy-days.com^
@@ -1143,6 +1148,7 @@
 ||hello.istrks.com^
 ||help.americancrashclaims.com^
 ||here.bathroomupgradeservice.com^
+||hermlenizetrk.com^
 ||hfc.healthfanclub.com^
 ||higashiosaka.treker.fun^
 ||hikaria.healthy365days.org^
@@ -1221,8 +1227,10 @@
 ||jmp.yoursolarpros.net^
 ||job.o9o.store^
 ||join.ornament.app^
+||join.rewardingprogramsinza.com^
 ||jp.jajipo.com^
 ||jt.tracks.insiderlegacysecret.com^
+||jt.tracks.theeconomiclegacy.com^
 ||kakogawa.treker.fun^
 ||kalahari.trekkww.fun^
 ||kalmar.treker.fun^
@@ -1244,6 +1252,7 @@
 ||kiotome.stockaded.uno^
 ||klerdond.nirtlos.uno^
 ||konnektikut.trekkww.fun^
+||kqovktrk.com^
 ||kristianstad.treker.fun^
 ||kungalv.shielllld.space^
 ||kure.treker.fun^
@@ -1403,8 +1412,6 @@
 ||lp.silverfoxcare.site^
 ||lp.sisteman7.com.br^
 ||lp.site.tuannybacelarnutri.com.br^
-||lp.sliwitta.com.br^
-||lp.sliwittapromo.com.br^
 ||lp.songreviewerred.com^
 ||lp.suavidaperfeita.com.br^
 ||lp.supersetonic.com^
@@ -1416,7 +1423,6 @@
 ||lp.tudosobresaudenoticias.com.br^
 ||lp.typetwocontroled.com^
 ||lp.uniqueperformance.site^
-||lp.universodoscalcados.online^
 ||lp.viavelsaude.site^
 ||lp.vibrantman.site^
 ||lp.vidaativanoticias.com^
@@ -1607,6 +1613,7 @@
 ||order.sestella.com^
 ||ouezzane.treker.fun^
 ||out.trkrabb.com^
+||oviestruptrk.com^
 ||p.programadealivio.com^
 ||page.financeclubdaily.com^
 ||page.lp.tuannybacelarnutri.com.br^
@@ -1713,6 +1720,7 @@
 ||quiz.rewagify.com^
 ||quiz.rewifu.com^
 ||quiz.survifu.com^
+||qullity.trekkeeee.space^
 ||quobblewhack.wobbleflib.store^
 ||r.bhsaccessories.com^
 ||r.comparisonadviser.com^
@@ -1722,6 +1730,7 @@
 ||r.peter4webloggers.com^
 ||rabat.treker.fun^
 ||radjastan.trekkww.fun^
+||rboss.redboostonlineshop.site^
 ||rbptt.com^
 ||rd.autoservicesdomain.com^
 ||rd.availableusabenefits.com^
@@ -1824,6 +1833,7 @@
 ||rt.ayudafinancieras.com^
 ||rt.balletbeautiful.com^
 ||rt.bvtrkr.com^
+||rt.civilcarcoverage.com^
 ||rt.coverageprofessor.com^
 ||rt.dailyvitalnews.com^
 ||rt.designlifestyleeveryday.com^
@@ -1848,7 +1858,6 @@
 ||rt.meuimperiodigital.com^
 ||rt.nationalhealthmatters.com^
 ||rt.nsadstracking.com^
-||rt.policyfamilyquote.com^
 ||rt.policysidekick.com^
 ||rt.primeiramenteeducacao.com^
 ||rt.sarahssilks.com^
@@ -1897,6 +1906,7 @@
 ||rtk.trk.customcareplans.com^
 ||rtk.trk.dailyboostercenter.com^
 ||rtk.trk.getyourhealthalways.com^
+||rtk.trk.goldencarepath.com^
 ||rtk.trk.healthbenefitsinfo.com^
 ||rtk.trk.healthchoicemadesimple.com^
 ||rtk.trk.healthrebatesdaily.com^
@@ -1923,6 +1933,7 @@
 ||rtrack.frome.co^
 ||rtrack.hendricksendesign.com^
 ||rtrack.myzenoo.com^
+||rtrack.savenationtoday.com^
 ||rtrack.seemysavings.com^
 ||rtrack.vitalcard.com^
 ||rtrck.best5goldira.com^
@@ -2060,7 +2071,7 @@
 ||ssp.subsidiesplan.online^
 ||start.cheerfulhealthyme.com^
 ||start.datingsitesinfo.com^
-||strishintrk.com^
+||stitiefftrk.com^
 ||stsoclk.sumatratonicshop.online^
 ||su-offers.com^
 ||subnarcotic.stockaded.uno^
@@ -2103,7 +2114,6 @@
 ||t.trustaegisvault.org^
 ||t.trustedgeprotection.com^
 ||t.usa-benefits-guide.com^
-||t.usatoday-breakingupdates.com^
 ||t.ventralife.com^
 ||t.vexlapoint.com^
 ||t.virosync.com^
@@ -2289,7 +2299,6 @@
 ||track.fb3k.com^
 ||track.feelingbetterlifestyle.com^
 ||track.feldluft.de^
-||track.financialpolicies.live^
 ||track.findbestcoverage.live^
 ||track.fit-bee.fr^
 ||track.fit4lifesa.com^
@@ -2372,7 +2381,6 @@
 ||track.instacashy.com^
 ||track.instantautosavings.com^
 ||track.instantprizesforyou.online^
-||track.insutrilblog.com^
 ||track.interutilityhub.info^
 ||track.isovoxbooth.com^
 ||track.ivitasana.com^
@@ -2396,6 +2404,7 @@
 ||track.lifeswitcher.com^
 ||track.lifewelllived.fitness^
 ||track.lipocaps.co^
+||track.lipozemoffer.online^
 ||track.livecamtracker.com^
 ||track.livexsite.com^
 ||track.livredaconstipacao.online^
@@ -2539,9 +2548,9 @@
 ||track.promoworldhub.com^
 ||track.properhaus.com^
 ||track.prostapriime.com^
-||track.protipslifeguide.com^
 ||track.psmode.com^
 ||track.pulsechecker.fit^
+||track.purrheaven.com^
 ||track.quizinsurance.com^
 ||track.rabbclk.com^
 ||track.radiantwaystation.com^
@@ -2610,8 +2619,6 @@
 ||track.trackdashboardapi.com^
 ||track.trackerop.com^
 ||track.trackingapiflow.com^
-||track.trackingflow40.com^
-||track.trackingflow65.com^
 ||track.trackmate777.com^
 ||track.trackmate888.com^
 ||track.trc4mk.pro^
@@ -2666,6 +2673,7 @@
 ||track.vivermaisativo.com^
 ||track.vivermaisequilibrado.com^
 ||track.vivermaisvida.com^
+||track.watchmore.shop^
 ||track.wellnessjournaltoday.com^
 ||track.wellnesspathwaysblog.com^
 ||track.wellnessstayfit.com^
@@ -2680,21 +2688,6 @@
 ||trackaa.adsdomaintracking.com^
 ||trackagency.likeableagent.com^
 ||trackbuyers.likeableagent.com^
-||tracker.112odsj.com^
-||tracker.1232sdf.com^
-||tracker.123heldo.com^
-||tracker.1625djnc.com^
-||tracker.3452jdush.com^
-||tracker.374nnahs.com^
-||tracker.654fsg.com^
-||tracker.6756wasdf.com^
-||tracker.758skd.com^
-||tracker.765wafr.com^
-||tracker.823sded.com^
-||tracker.8473sads.com^
-||tracker.8574plsjd.com^
-||tracker.857ahsy.com^
-||tracker.857ahud.com^
 ||tracker.acelerashot.com.br^
 ||tracker.bodymindperformancemaximum.com^
 ||tracker.descobrindosegredos.top^
@@ -2784,6 +2777,7 @@
 ||trk.clarifion.com^
 ||trk.cleanomic.com^
 ||trk.cleanomicessentials.com^
+||trk.consumerlifestylereports.com^
 ||trk.dailyfitconsumers.com^
 ||trk.debtfreehelpline.ca^
 ||trk.degreepathadvisor.com^
@@ -2904,6 +2898,7 @@
 ||trk.truehealthytoday.com^
 ||trk.truesolarrates.com^
 ||trk.ttinsuredrivers.com^
+||trk.vcod.shop^
 ||trk.vitaliv.us^
 ||trk.vitalpulsejunction.com^
 ||trk.vyve.in^
@@ -2931,6 +2926,7 @@
 ||trrk9.pointpointiklo.pro^
 ||trump.savemaxauto.com^
 ||trx.uslivingadvice.com^
+||try.surveydose.com^
 ||tsb.turmasaudebrasil.com^
 ||tsp.adsdomaintracking.com^
 ||tt.flowntw.com^
@@ -3045,7 +3041,6 @@
 ||www.dctrckng.com^
 ||www.iiillililllillillilillililililllliiiillllliilili.com^
 ||www.in.rabbtrk.com^
-||www.instantloans2024.com^
 ||www.insureyoursauto.com^
 ||www.limkb.shop^
 ||www.pltrack.co.uk^
@@ -3080,6 +3075,7 @@
 ||pl.trk.quirkalooquotient.com^
 ||pl.trk.wackywonderlandweb.com^
 ||rt.maximumincrease.pro^
+||rt.policyfamilyquote.com^
 ||tr.track-myleads.com^
 ||tr.trk.exodustrackai.com^
 ||track.24monetize.com^

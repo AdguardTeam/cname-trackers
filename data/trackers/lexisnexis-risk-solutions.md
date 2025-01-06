@@ -440,7 +440,6 @@
     * h-fanduel.online-metrix.net
     * h-fashionworld.online-metrix.net
     * h-fedex.online-metrix.net
-    * h-fekkqfzv.online-metrix.net
     * h-fidelity.online-metrix.net
     * h-firstcitizensbank.online-metrix.net
     * h-firstdata.online-metrix.net
@@ -454,6 +453,7 @@
     * h-freelancer1.online-metrix.net
     * h-fundingcircle-uk.online-metrix.net
     * h-fundingstream.online-metrix.net
+    * h-gambling-malta.online-metrix.net
     * h-garmin.online-metrix.net
     * h-gbophb.online-metrix.net
     * h-genworth.online-metrix.net
@@ -931,6 +931,7 @@
 | diff3.jazztel.com | h-40347ghm2.online-metrix.net |
 | ivaacontent.ers.ga.gov | h-42guvm37.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
+| content002.bet365.bet.br | h-47z24dz9.online-metrix.net |
 | content002.bet365.ca | h-47z24dz9.online-metrix.net |
 | content002.bet365.com | h-47z24dz9.online-metrix.net |
 | content002.bet365.com.au | h-47z24dz9.online-metrix.net |
@@ -1091,6 +1092,7 @@
 | afm.startrader.asia | h-96eziru5.online-metrix.net |
 | afm.startrader.com | h-96eziru5.online-metrix.net |
 | afm.startrader.live | h-96eziru5.online-metrix.net |
+| afm.startraderfr.com | h-96eziru5.online-metrix.net |
 | afm.startradermy.com | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.asia | h-96eziru5.online-metrix.net |
@@ -1115,6 +1117,7 @@
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
 | afm.vtmarketsfr.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsfx-cn.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsglobal.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsid.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsintlcn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsjp.com | h-96eziru5.online-metrix.net |
@@ -1510,18 +1513,6 @@
 | tm.fanduel.com | h-fanduel.online-metrix.net |
 | did.fashionworld.co.uk | h-fashionworld.online-metrix.net |
 | ccf.prod.fedex.com | h-fedex.online-metrix.net |
-| tm.betano.ar | h-fekkqfzv.online-metrix.net |
-| tm.betano.bg | h-fekkqfzv.online-metrix.net |
-| tm.betano.ca | h-fekkqfzv.online-metrix.net |
-| tm.betano.co | h-fekkqfzv.online-metrix.net |
-| tm.betano.com | h-fekkqfzv.online-metrix.net |
-| tm.betano.cz | h-fekkqfzv.online-metrix.net |
-| tm.betano.de | h-fekkqfzv.online-metrix.net |
-| tm.betano.dk | h-fekkqfzv.online-metrix.net |
-| tm.betano.mx | h-fekkqfzv.online-metrix.net |
-| tm.betano.ng | h-fekkqfzv.online-metrix.net |
-| tm.stoiximan.com.cy | h-fekkqfzv.online-metrix.net |
-| tm.stoiximan.gr | h-fekkqfzv.online-metrix.net |
 | cfa.febtest.com | h-fidelity.online-metrix.net |
 | daotm.firstcitizens.com | h-firstcitizensbank.online-metrix.net |
 | clovergo.june-testing.firstdata.com | h-firstdata.online-metrix.net |
@@ -1553,6 +1544,18 @@
 | ww3.fundingstream.com | h-fundingstream.online-metrix.net |
 | ww3.marlincapitalsolutions.com | h-fundingstream.online-metrix.net |
 | ww3.peacsolutions.com | h-fundingstream.online-metrix.net |
+| tm.betano.ar | h-gambling-malta.online-metrix.net |
+| tm.betano.bet.br | h-gambling-malta.online-metrix.net |
+| tm.betano.bg | h-gambling-malta.online-metrix.net |
+| tm.betano.ca | h-gambling-malta.online-metrix.net |
+| tm.betano.co | h-gambling-malta.online-metrix.net |
+| tm.betano.com | h-gambling-malta.online-metrix.net |
+| tm.betano.cz | h-gambling-malta.online-metrix.net |
+| tm.betano.de | h-gambling-malta.online-metrix.net |
+| tm.betano.dk | h-gambling-malta.online-metrix.net |
+| tm.betano.mx | h-gambling-malta.online-metrix.net |
+| tm.stoiximan.com.cy | h-gambling-malta.online-metrix.net |
+| tm.stoiximan.gr | h-gambling-malta.online-metrix.net |
 | dfp.garmin.com | h-garmin.online-metrix.net |
 | content.benefitsaccess.org | h-gbophb.online-metrix.net |
 | imgcdn.genworth.com | h-genworth.online-metrix.net |

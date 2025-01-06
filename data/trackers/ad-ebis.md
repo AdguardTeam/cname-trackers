@@ -184,6 +184,7 @@
     * 91637823-s2mywwuv.cname.ebis.ne.jp
     * 917e1794-a9hmqa9q.cname.ebis.ne.jp
     * 92a7d885-sz3ynfbf.cname.ebis.ne.jp
+    * 92f3a936-skp6evzk.cname.ebis.ne.jp
     * 93269da3-jabnwha0.cname.ebis.ne.jp
     * 93c1009e-6pusefyf.cname.ebis.ne.jp
     * 9473cf8f-y4rfthkp.cname.ebis.ne.jp
@@ -516,6 +517,7 @@
 | ebis01.vernal.co.jp | 91637823-s2mywwuv.cname.ebis.ne.jp |
 | ebis.shabon.com | 917e1794-a9hmqa9q.cname.ebis.ne.jp |
 | ebis.umulin-lab.com | 92a7d885-sz3ynfbf.cname.ebis.ne.jp |
+| euglism.euglenaone.jp | 92f3a936-skp6evzk.cname.ebis.ne.jp |
 | adebis.kamada.co.jp | 93269da3-jabnwha0.cname.ebis.ne.jp |
 | ebis-tracking.hirakata-skin-clinic.com | 93c1009e-6pusefyf.cname.ebis.ne.jp |
 | campaign-direct.eisai.jp | 9473cf8f-y4rfthkp.cname.ebis.ne.jp |

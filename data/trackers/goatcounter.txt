@@ -48,7 +48,7 @@
 ||pixel.embed.su^
 ||st.mapleranks.com^
 ||statistic.elkobraas.com^
-||stats.0chris.com^
+||stats-ruzickap-github-io.ruzicka.dev^
 ||stats.45rpm.ch^
 ||stats.abdo.wtf^
 ||stats.abdodaoud.com^
@@ -100,9 +100,11 @@
 ||stats.sofianlak.fr^
 ||stats.stchris.net^
 ||stats.svc.lol^
+||stats.tdurand.com^
 ||stats.thecrafters001.com^
 ||stats.trainsley69.me^
 ||stats.umcconnell.net^
+||stats.w0chp.radio^
 ||stats.whatacools.com^
 ||stats.wswg.xyz^
 ||stats.ybbond.id^

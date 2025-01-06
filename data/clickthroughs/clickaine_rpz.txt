@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,6 +50,7 @@ c8d.upde.cc CNAME .
 ca.findyourpussy.net CNAME .
 ca.infomix.best CNAME .
 cc.histoires-de-sexe-gratuites.com CNAME .
+cc.opowiadaniaerotyczne-darmowo.pl CNAME .
 cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
 cc.sexgeschichten-kostenlos.com CNAME .
@@ -70,7 +71,6 @@ clk.billiontraffic.com CNAME .
 clk.slutcam.org CNAME .
 clka.bondagevalley.cc CNAME .
 clkn.apostle.onl CNAME .
-clkn.desihub.org CNAME .
 clkn.moviesinspector.com CNAME .
 clkn2.apostle.onl CNAME .
 clkn3.apostle.onl CNAME .
@@ -79,6 +79,7 @@ cn4.animehdl.net CNAME .
 cn4.cheemsporn.com CNAME .
 cvk.supklik.com CNAME .
 cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
+d.desihub.org CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dr1.piczlabs.com CNAME .

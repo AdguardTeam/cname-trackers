@@ -10,6 +10,7 @@
     * adbility-console.aquaplatform.com
     * adbility-delivery.aquaplatform.com
     * ahk-delivery.aquaplatform.com
+    * ahk-static.aquaplatform.com
     * ammoland-delivery.aquaplatform.com
     * ammoland-static.aquaplatform.com
     * artionet-delivery.aquaplatform.com
@@ -107,6 +108,7 @@
     * sonicplug-static.aquaplatform.com
     * t101-delivery.aquaplatform.com
     * t101-static.aquaplatform.com
+    * tfn-console.aquaplatform.com
     * tfn-delivery.aquaplatform.com
     * tfn-static.aquaplatform.com
     * unionesarda-delivery.aquaplatform.com
@@ -131,6 +133,7 @@
 | servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
 | revive.ahk.de | ahk-delivery.aquaplatform.com |
 | www.revive.ahk.de | ahk-delivery.aquaplatform.com |
+| static.ahk.de | ahk-static.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
 | static.ammoland.com | ammoland-static.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
@@ -179,6 +182,7 @@
 | static.fa-mag.com | famag-static.aquaplatform.com |
 | adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
 | lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
+| www.lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
 | stommeplaatjes.geenstijl.nl | geenstijl-static.aquaplatform.com |
 | adserver.kozoom.com | geodelivery.aquaplatform.com |
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
@@ -245,6 +249,7 @@
 | www.static.imagineobx.com | oneboat-static.aquaplatform.com |
 | console.adspmg.com | pamplin-console.aquaplatform.com |
 | cdn.adspmg.com | pamplin-static.aquaplatform.com |
+| www.cdn.adspmg.com | pamplin-static.aquaplatform.com |
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
 | assets.lintigroup.se | platformiq-cdn.aquaplatform.com |
@@ -280,6 +285,7 @@
 | ads.i-bidder.com | proxibid-delivery.aquaplatform.com |
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |
 | ads.the-saleroom.com | proxibid-delivery.aquaplatform.com |
+| static.i-bidder.com | proxibid-static.aquaplatform.com |
 | static.proxibid.com | proxibid-static.aquaplatform.com |
 | static.the-saleroom.com | proxibid-static.aquaplatform.com |
 | www.static.the-saleroom.com | proxibid-static.aquaplatform.com |
@@ -311,6 +317,7 @@
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |
 | ads.recon.com | t101-delivery.aquaplatform.com |
 | ads-static.recon.com | t101-static.aquaplatform.com |
+| console.trackandfieldnews.com | tfn-console.aquaplatform.com |
 | servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | static.trackandfieldnews.com | tfn-static.aquaplatform.com |
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |

@@ -3,7 +3,6 @@
 ## Disguised trackers list
 
 * goatcounter.com
-    * 0chris.goatcounter.com
     * 45rpm-ch.goatcounter.com
     * abdodaoud.goatcounter.com
     * abdoughnut.goatcounter.com
@@ -87,6 +86,7 @@
     * riggraz.goatcounter.com
     * roalgo-arhiva-edu.goatcounter.com
     * rocketgoboom.goatcounter.com
+    * ruzickap-github-io.goatcounter.com
     * ryanch.goatcounter.com
     * satanisk.goatcounter.com
     * semipol.goatcounter.com
@@ -97,6 +97,7 @@
     * storydragon.goatcounter.com
     * tailspace.goatcounter.com
     * tbx.goatcounter.com
+    * tdurand.goatcounter.com
     * thecrafters001.goatcounter.com
     * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
@@ -110,6 +111,7 @@
     * valentineus.goatcounter.com
     * vault.goatcounter.com
     * vpro.goatcounter.com
+    * w0chp.goatcounter.com
     * whatacools.goatcounter.com
     * wswg.goatcounter.com
     * ybbond.goatcounter.com
@@ -118,7 +120,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| stats.0chris.com | 0chris.goatcounter.com |
 | stats.45rpm.ch | 45rpm-ch.goatcounter.com |
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.abdo.wtf | abdoughnut.goatcounter.com |
@@ -202,6 +203,7 @@
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.roalgo.ro | roalgo-arhiva-edu.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
+| stats-ruzickap-github-io.ruzicka.dev | ruzickap-github-io.goatcounter.com |
 | stats.ryanchmelir.com | ryanch.goatcounter.com |
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
@@ -212,6 +214,7 @@
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
 | gc.tbx.at | tbx.goatcounter.com |
+| stats.tdurand.com | tdurand.goatcounter.com |
 | stats.thecrafters001.com | thecrafters001.goatcounter.com |
 | goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
@@ -225,6 +228,7 @@
 | analytics.popov.link | valentineus.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
+| stats.w0chp.radio | w0chp.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.wswg.xyz | wswg.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |

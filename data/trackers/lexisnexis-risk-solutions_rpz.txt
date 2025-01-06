@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ afm.puprime.online CNAME .
 afm.startrader.asia CNAME .
 afm.startrader.com CNAME .
 afm.startrader.live CNAME .
+afm.startraderfr.com CNAME .
 afm.startradermy.com CNAME .
 afm.sthub.cc CNAME .
 afm.ultimamarkets.asia CNAME .
@@ -51,6 +52,7 @@ afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
 afm.vtmarketsfr.com CNAME .
 afm.vtmarketsfx-cn.com CNAME .
+afm.vtmarketsglobal.com CNAME .
 afm.vtmarketsid.com CNAME .
 afm.vtmarketsintlcn.com CNAME .
 afm.vtmarketsjp.com CNAME .
@@ -383,6 +385,7 @@ content.vi.gov CNAME .
 content.washingtonnational.com CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
+content002.bet365.bet.br CNAME .
 content002.bet365.ca CNAME .
 content002.bet365.com CNAME .
 content002.bet365.com.au CNAME .
@@ -1026,6 +1029,7 @@ tm.bdc-cdn.com CNAME .
 tm.beachbody.com CNAME .
 tm.benevity.org CNAME .
 tm.betano.ar CNAME .
+tm.betano.bet.br CNAME .
 tm.betano.bg CNAME .
 tm.betano.ca CNAME .
 tm.betano.co CNAME .
@@ -1034,7 +1038,6 @@ tm.betano.cz CNAME .
 tm.betano.de CNAME .
 tm.betano.dk CNAME .
 tm.betano.mx CNAME .
-tm.betano.ng CNAME .
 tm.cbd.ae CNAME .
 tm.clearcover.com CNAME .
 tm.cox.com CNAME .

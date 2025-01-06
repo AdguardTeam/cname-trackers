@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
 estats.globus.de CNAME .
+et.akademie-handel.de CNAME .
 et.electronic4you.at CNAME .
 et.electronic4you.de CNAME .
 et.electronic4you.hr CNAME .
@@ -84,6 +85,7 @@ tracking.ostsee-resort-dampland.de CNAME .
 tracking.terrassenhof.de CNAME .
 wa.ostermann.eu CNAME .
 wctr.hh-klebetechnologie.de CNAME .
+wctr.khk-karlsruhe.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
 wctr.menkenunddrees.de CNAME .
 wctr.moenninghoff.net CNAME .

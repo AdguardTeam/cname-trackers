@@ -294,6 +294,7 @@
 ||s.stgeorgeafc.com.au^
 ||s.testingreactjs.com^
 ||s.useeffectbyexample.com^
+||s.vejenerhverv.dk^
 ||s.vucko.co^
 ||sa.flux.community^
 ||sats.mailbrew.com^
@@ -312,6 +313,7 @@
 ||st.picshuffle.com^
 ||st.preciousamber.com^
 ||st.tulastudio.se^
+||st.turnou.com^
 ||stat.bill.harding.blog^
 ||stat.landingpro.pl^
 ||stat.recklesslove.co.za^
@@ -404,6 +406,7 @@
 ||stats.cohere.so^
 ||stats.coldbox.org^
 ||stats.connect.pm^
+||stats.constructdps.co.uk^
 ||stats.convaise.com^
 ||stats.corona-navi.de^
 ||stats.covid.vitordino.com^
@@ -592,6 +595,7 @@
 ||stats.leavetrackapp.com^
 ||stats.lefthoek.com^
 ||stats.legendofnom.com^
+||stats.leiamarjaana.com^
 ||stats.leoloso.com^
 ||stats.levinowska.com^
 ||stats.lica.at^
@@ -641,7 +645,6 @@
 ||stats.mrtnvh.com^
 ||stats.multiplelenses.com^
 ||stats.multiply.cloud^
-||stats.musicuniverse.education^
 ||stats.myherocard.com^
 ||stats.napaconnect.ca^
 ||stats.navedislam.com^
@@ -734,6 +737,7 @@
 ||stats.reprage.com^
 ||stats.respkt.de^
 ||stats.reto.tv^
+||stats.retroware.com^
 ||stats.revitfamily.app^
 ||stats.rideinpeace.ie^
 ||stats.rightourhistoryhawaii.com^

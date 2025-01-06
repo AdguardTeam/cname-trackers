@@ -286,6 +286,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * forgetrust.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
@@ -571,9 +572,9 @@
     * useagle.extole.io
     * uvacreditunion.extole.io
     * vayasleep.extole.io
-    * veo.extole.io
     * veritycu.extole.io
     * viktor-rolf.extole.io
+    * virginvoyages.extole.io
     * visions.extole.io
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
@@ -848,6 +849,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.forgetrust.com | forgetrust.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
@@ -1019,6 +1021,7 @@
 | refer.lendingclub.com | lending-club.extole.io |
 | refer.lenscrafters.com | lenscrafters.extole.io |
 | share.levi.com | levi.extole.io |
+| share.s1.levi-site.com | levi.extole.io |
 | share.s4.levi-site.com | levi.extole.io |
 | share.lifedna.com | lifedna.extole.io |
 | refer.lightstream.com | lightstream.extole.io |
@@ -1320,11 +1323,11 @@
 | share.useagle.org | useagle.extole.io |
 | friends.uvacreditunion.org | uvacreditunion.extole.io |
 | refer.vayasleep.com | vayasleep.extole.io |
-| share.veo.co | veo.extole.io |
 | refer.verabradley.com | verabradley.extole.com |
 | share.veritycu.com | veritycu.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |
 | share.vimeo.com | vimeo.extole.com |
+| share.virginvoyages.com | virginvoyages.extole.io |
 | referrals.visionsfcu.org | visions.extole.io |
 | referral.vistaprint.com | vistaprint-ssl.extole.com |
 | refer.vitaminpacks.com | vitaminpacks.extole.io |

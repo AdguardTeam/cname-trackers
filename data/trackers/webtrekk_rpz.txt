@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -246,7 +246,6 @@ waaf1.aldi-music.de CNAME .
 waaf1.aldilife.com CNAME .
 waaf1.aldiphotos.co.uk CNAME .
 waaf1.alditalk.de CNAME .
-waaf1.hoferfotos.at CNAME .
 watg.xxxlutz.com CNAME .
 wbtrkk.deutschlandcard.de CNAME .
 wbtrkk.teufel.ch CNAME .
@@ -406,7 +405,6 @@ wt.generali.de CNAME .
 wt.generalibewegtdeutschland.de CNAME .
 wt.generalihealthsolutions.de CNAME .
 wt.netze-bw.de CNAME .
-wt.vhb.de CNAME .
 wttd.douglas.at CNAME .
 wttd.douglas.ch CNAME .
 wttd.douglas.de CNAME .

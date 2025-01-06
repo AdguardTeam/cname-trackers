@@ -235,7 +235,6 @@ waaf1.aldi-music.de
 waaf1.aldilife.com
 waaf1.aldiphotos.co.uk
 waaf1.alditalk.de
-waaf1.hoferfotos.at
 watg.xxxlutz.com
 wbtrkk.deutschlandcard.de
 wbtrkk.teufel.ch
@@ -395,7 +394,6 @@ wt.generali.de
 wt.generalibewegtdeutschland.de
 wt.generalihealthsolutions.de
 wt.netze-bw.de
-wt.vhb.de
 wttd.douglas.at
 wttd.douglas.ch
 wttd.douglas.de

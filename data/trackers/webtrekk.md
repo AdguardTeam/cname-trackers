@@ -228,7 +228,6 @@
     * tipp24-de01.wt-eu02.net
     * tr.computeruniverse.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
-    * vhb-01.wt-eu02.net
     * volksfreund01.wt-eu02.net
     * wa-wdr.wt-eu02.net
     * wt-ara.wt-eu02.net
@@ -596,7 +595,6 @@
 | waaf1.aldilife.com | medion01.wt-eu02.net |
 | waaf1.aldiphotos.co.uk | medion01.wt-eu02.net |
 | waaf1.alditalk.de | medion01.wt-eu02.net |
-| waaf1.hoferfotos.at | medion01.wt-eu02.net |
 | web.mytoys.de | mytoys02.wt-eu02.net |
 | tracking.netcologne.de | netcologne-01.webtrekk.net |
 | wt.netze-bw.de | netze-bw01.wt-eu02.net |
@@ -635,7 +633,6 @@
 | tippcom01.tipp24.com | tipp24-de01.wt-eu02.net |
 | tr.computeruniverse.net | tr.computeruniverse.wt-eu02.net |
 | daten.union-investment.de | unioninvestment-de01.wt-eu02.net |
-| wt.vhb.de | vhb-01.wt-eu02.net |
 | data.volksfreund.de | volksfreund01.wt-eu02.net |
 | wa.planet-wissen.de | wa-wdr.wt-eu02.net |
 | wa.quarks.de | wa-wdr.wt-eu02.net |

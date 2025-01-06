@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -365,7 +365,6 @@ tr.email.grandjeupaysgourmand.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.infocredit.orangebank.fr CNAME .
 tr.email.janedeboy.com CNAME .
-tr.email.maisonfoody.com CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.mnpaf.fr CNAME .
 tr.email.nauticexpo.com CNAME .
@@ -431,6 +430,7 @@ tr.fleetmatics.vraaguwofferte.be CNAME .
 tr.fortuneo.com CNAME .
 tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
+tr.france.plimsoll.fr CNAME .
 tr.fts.francetravail.fr CNAME .
 tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
@@ -457,7 +457,6 @@ tr.gtr.moethennessy.com CNAME .
 tr.gvbn.espmp-agfr.net CNAME .
 tr.haute-maurienne-vanoise.net CNAME .
 tr.hcahealthcare.co.uk CNAME .
-tr.hello.maisonfoody.com CNAME .
 tr.helloartisan.info CNAME .
 tr.hmut.espmp-agfr.net CNAME .
 tr.holidaycottages.co.uk CNAME .
@@ -503,6 +502,7 @@ tr.info.ecole-de-savignac.com CNAME .
 tr.info.fulli.com CNAME .
 tr.info.galian.fr CNAME .
 tr.info.harmonie-mutuelle.fr CNAME .
+tr.info.la-norma.fr CNAME .
 tr.info.lacentrale.fr CNAME .
 tr.info.linnc.com CNAME .
 tr.info.linxea.com CNAME .
@@ -592,6 +592,7 @@ tr.kpfc.espmp-nifr.net CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
 tr.kpyn02a.espmp-cufr.net CNAME .
 tr.kpyn02f.espmp-cufr.net CNAME .
+tr.kpyn03r.espmp-nifr.net CNAME .
 tr.kpyn059.espmp-pofr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
 tr.lachaiselongue.fr CNAME .
@@ -636,6 +637,7 @@ tr.mail1.macif.fr CNAME .
 tr.mail306.com CNAME .
 tr.mailatia.com CNAME .
 tr.mailing.achatpublic.com CNAME .
+tr.mailing.associationici.fr CNAME .
 tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
@@ -658,6 +660,7 @@ tr.marketing.younited-credit.es CNAME .
 tr.marketing.younited-credit.pt CNAME .
 tr.mart.espmp-agfr.net CNAME .
 tr.mcom03b.espmp-aufr.net CNAME .
+tr.mcom03x.espmp-aufr.net CNAME .
 tr.mcom04p.espmp-aufr.net CNAME .
 tr.media.harmonie-sante.fr CNAME .
 tr.melhores-propostas.pt CNAME .
@@ -809,6 +812,7 @@ tr.news.infopro-digital.com CNAME .
 tr.news.interforum.fr CNAME .
 tr.news.invinoradio.tv CNAME .
 tr.news.itancia.com CNAME .
+tr.news.jautomatise.com CNAME .
 tr.news.kaptainmusic.fr CNAME .
 tr.news.kpmg-avocats.fr CNAME .
 tr.news.kpmg.fr CNAME .
@@ -836,7 +840,6 @@ tr.news.libranoo.com CNAME .
 tr.news.linxea.com CNAME .
 tr.news.lisez.com CNAME .
 tr.news.lokapimail.com CNAME .
-tr.news.maisonfoody.com CNAME .
 tr.news.maisons-du-monde.com CNAME .
 tr.news.manufacturing.fr CNAME .
 tr.news.manutan-collectivites.fr CNAME .
@@ -975,6 +978,7 @@ tr.orcamentos-companeo.pt CNAME .
 tr.oxatis.devisdirect.com CNAME .
 tr.panels-mediametrie.fr CNAME .
 tr.part.offres-cartegie.fr CNAME .
+tr.partenaire.groupe-vyv.fr CNAME .
 tr.partenaire.manageo.info CNAME .
 tr.particuliers8.engie.com CNAME .
 tr.partners.younited-credit.it CNAME .
@@ -998,6 +1002,7 @@ tr.presupuesto-b2b.es CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
+tr.pro.odalys-campus.com CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.pro.residencehappysenior.fr CNAME .
 tr.pro.sgit.net CNAME .
@@ -1088,6 +1093,7 @@ tr.talentconnect.lvmh.com CNAME .
 tr.tdgx.espmp-cufr.net CNAME .
 tr.think.lvmh.fr CNAME .
 tr.thisiseurope.moethennessy.com CNAME .
+tr.tibo.espmp-nifr.net CNAME .
 tr.tns.harmonie-mutuelle.fr CNAME .
 tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
@@ -1127,6 +1133,7 @@ tr.urfk05g.espmp-agfr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .
 tr.urfk05o.espmp-pofr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .
+tr.urfk06l.espmp-aufr.net CNAME .
 tr.urfk06n.espmp-nifr.net CNAME .
 tr.urfk06o.espmp-agfr.net CNAME .
 tr.urfk06v.espmp-aufr.net CNAME .

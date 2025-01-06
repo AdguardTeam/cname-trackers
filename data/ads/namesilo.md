@@ -522,6 +522,7 @@
 | 3461293.notifysrv.com | tk6if76q.ab1n.net |
 | 3461347.notify6.com | tk6if76q.ab1n.net |
 | 3461347.notifysrv.com | tk6if76q.ab1n.net |
+| 3461533.notify6.com | tk6if76q.ab1n.net |
 | 3461533.notifysrv.com | tk6if76q.ab1n.net |
 | 3464703.notifysrv.com | tk6if76q.ab1n.net |
 | 3466497.notifysrv.com | tk6if76q.ab1n.net |
@@ -921,6 +922,7 @@
 | 3946234.notify6.com | tk6if76q.ab1n.net |
 | 3946240.notify6.com | tk6if76q.ab1n.net |
 | 3946250.notify6.com | tk6if76q.ab1n.net |
+| 3946260.notify6.com | tk6if76q.ab1n.net |
 | 3948256.notify6.com | tk6if76q.ab1n.net |
 | 3950056.notify6.com | tk6if76q.ab1n.net |
 | 3950664.notify6.com | tk6if76q.ab1n.net |
@@ -1500,6 +1502,7 @@
 | www.3512165.notifysrv.com | tk6if76q.ab1n.net |
 | www.3572295.notify6.com | tk6if76q.ab1n.net |
 | www.3593835.notify6.com | tk6if76q.ab1n.net |
+| www.3598461.notify6.com | tk6if76q.ab1n.net |
 | www.3618947.notify6.com | tk6if76q.ab1n.net |
 | www.3662839.notify6.com | tk6if76q.ab1n.net |
 | www.3662845.notifysrv.com | tk6if76q.ab1n.net |
@@ -1536,9 +1539,10 @@
 | s.exv6.com | tk6if76r.ab1n.net |
 | admin.adnation.com | v3j9t5q9.ab1n.net |
 | admin.datingclix.com | v3j9t5q9.ab1n.net |
-| admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
+| admin.landingtrk.com | v3j9t5q9.ab1n.net |
 | admin.redpathmedia.com | v3j9t5q9.ab1n.net |
+| admin.rocoads.net | v3j9t5q9.ab1n.net |
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | admin.trafficbaron.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
@@ -1573,7 +1577,6 @@
 | *.exaapi.com | x0xmrxm4.ab1n.net |
 | admin.adnation.com | x0xmrxm4.ab1n.net |
 | admin.datingclix.com | x0xmrxm4.ab1n.net |
-| admin.datingclix.com | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
@@ -1584,11 +1587,13 @@
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.trafficbaron.com | x0xmrxm4.ab1n.net |
+| admin.trafficbaron.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | adrepository.opoxv.com | x0xmrxm4.ab1n.net |
+| ads.toroadvertising.com | x0xmrxm4.ab1n.net |
 | ads.toroadvertising.com | x0xmrxm4.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |
 | api.datingclix.com | x0xmrxm4.ab1n.net |

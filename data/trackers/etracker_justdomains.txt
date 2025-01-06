@@ -17,6 +17,7 @@ e.mediherz-shop.de
 e.medikamente-per-klick.de
 e.preisapo.de
 estats.globus.de
+et.akademie-handel.de
 et.electronic4you.at
 et.electronic4you.de
 et.electronic4you.hr
@@ -73,6 +74,7 @@ tracking.ostsee-resort-dampland.de
 tracking.terrassenhof.de
 wa.ostermann.eu
 wctr.hh-klebetechnologie.de
+wctr.khk-karlsruhe.de
 wctr.kunststoff-schachtabdeckungen.com
 wctr.menkenunddrees.de
 wctr.moenninghoff.net

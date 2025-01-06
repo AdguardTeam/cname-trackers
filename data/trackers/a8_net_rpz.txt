@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -880,6 +880,7 @@ a8cv.dazzyclinic.jp CNAME .
 a8cv.deiba.jp CNAME .
 a8cv.dekitus.net CNAME .
 a8cv.delis.co.jp CNAME .
+a8cv.dental-recruit.jp CNAME .
 a8cv.dentalhr.jp CNAME .
 a8cv.designlearn.co.jp CNAME .
 a8cv.direct-teleshop.jp CNAME .
@@ -1035,6 +1036,7 @@ a8cv.kajier.jp CNAME .
 a8cv.kamurogi.net CNAME .
 a8cv.karitoke.jp CNAME .
 a8cv.karrimor.jp CNAME .
+a8cv.kasikiru.com CNAME .
 a8cv.kidsmoneyschool.net CNAME .
 a8cv.kikubari-bento.com CNAME .
 a8cv.king-makura.com CNAME .
@@ -1062,6 +1064,7 @@ a8cv.leoandlea.com CNAME .
 a8cv.lesson-note.com CNAME .
 a8cv.leverage-learning.com CNAME .
 a8cv.lianest.co.jp CNAME .
+a8cv.lifenrich.co.jp CNAME .
 a8cv.lp.nalevi.mynavi.jp CNAME .
 a8cv.lp.x-house.co.jp CNAME .
 a8cv.lvs.jp CNAME .

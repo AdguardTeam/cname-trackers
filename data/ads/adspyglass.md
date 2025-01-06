@@ -8,7 +8,6 @@
 ### Rarely active trackers
 
 * api.clickaine.com
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -18,7 +17,6 @@
 | 0.oldgyhogola.com | 0i0i0i0.com |
 | 0i.iqostaiwan.com | 0i0i0i0.com |
 | 0i.sh-cdn.com | 0i0i0i0.com |
-| 0i.simply-hentai.com | 0i0i0i0.com |
 | 1111.sanjay44.xyz | 0i0i0i0.com |
 | 1111.sieglinde22.xyz | 0i0i0i0.com |
 | 123rtgeg.gr3hjjj.pics | 0i0i0i0.com |
@@ -91,10 +89,12 @@
 | a.cromq.xyz | 0i0i0i0.com |
 | a.croni.site | 0i0i0i0.com |
 | a.cynem.xyz | 0i0i0i0.com |
+| a.dboobs.tv | 0i0i0i0.com |
 | a.debub.site | 0i0i0i0.com |
 | a.demba.xyz | 0i0i0i0.com |
 | a.dhoma.xyz | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
+| a.dporntube.site | 0i0i0i0.com |
 | a.dripe.site | 0i0i0i0.com |
 | a.duria.site | 0i0i0i0.com |
 | a.dylop.xyz | 0i0i0i0.com |
@@ -110,6 +110,7 @@
 | a.fedot.site | 0i0i0i0.com |
 | a.fidar.site | 0i0i0i0.com |
 | a.fimoa.xyz | 0i0i0i0.com |
+| a.frezeporn.site | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
 | a.fukoa.site | 0i0i0i0.com |
 | a.fullpornoflix.net | 0i0i0i0.com |
@@ -154,6 +155,7 @@
 | a.mikiporntube.one | 0i0i0i0.com |
 | a.mikop.xyz | 0i0i0i0.com |
 | a.moera.xyz | 0i0i0i0.com |
+| a.mydznew.xyz | 0i0i0i0.com |
 | a.myprettyads.one | 0i0i0i0.com |
 | a.mysalo.store | 0i0i0i0.com |
 | a.naliw.xyz | 0i0i0i0.com |
@@ -161,6 +163,7 @@
 | a.paulsmatures.com | 0i0i0i0.com |
 | a.paulsmilfs.com | 0i0i0i0.com |
 | a.paulswomen.com | 0i0i0i0.com |
+| a.pchat.com | 0i0i0i0.com |
 | a.picsnakedgirls.com | 0i0i0i0.com |
 | a.pinayviralsexx.com | 0i0i0i0.com |
 | a.pinoymoviepedia.ru | 0i0i0i0.com |
@@ -195,6 +198,7 @@
 | aaa.sieglinde22.xyz | 0i0i0i0.com |
 | aab.faperoni.com | 0i0i0i0.com |
 | aab.taboohome.com | 0i0i0i0.com |
+| aab1.a.asg.maxx.ddac.ru | 0i0i0i0.com |
 | aabb.faperoni.com | 0i0i0i0.com |
 | aabtest.asg-media.com | 0i0i0i0.com |
 | ab.cumhot.org | 0i0i0i0.com |
@@ -269,6 +273,8 @@
 | arabs.xn--ngboe5a6f.com | 0i0i0i0.com |
 | arabs.xn--ngbs7dg.net | 0i0i0i0.com |
 | arabss.arabxn.org | 0i0i0i0.com |
+| arakcdn.com | 0i0i0i0.com |
+| arjokas.com | 0i0i0i0.com |
 | arrestjav182.fun | 0i0i0i0.com |
 | ars.bloblohub.com | 0i0i0i0.com |
 | as.ebacdn.com | 0i0i0i0.com |
@@ -444,6 +450,7 @@
 | data.bangtubevideos.com | 0i0i0i0.com |
 | data.streamtape.com | 0i0i0i0.com |
 | ddd.adil23.xyz | 0i0i0i0.com |
+| ddijapp.com | 0i0i0i0.com |
 | deckjav11.fun | 0i0i0i0.com |
 | deliver.vkcdnservice.com | 0i0i0i0.com |
 | demonstration2.fun | 0i0i0i0.com |
@@ -456,6 +463,7 @@
 | dfbdfh4w3.sanjay44.xyz | 0i0i0i0.com |
 | dfgw.neigh11.xyz | 0i0i0i0.com |
 | dg3qtwew.sanjay44.xyz | 0i0i0i0.com |
+| dieadi.com | 0i0i0i0.com |
 | digiadzone.com | 0i0i0i0.com |
 | dinejav11.fun | 0i0i0i0.com |
 | display.cdnbucket.com | 0i0i0i0.com |
@@ -471,6 +479,7 @@
 | dsg.reifporn.de | 0i0i0i0.com |
 | dude.pleasedonotblockme.com | 0i0i0i0.com |
 | dust.xxx-video-indian.com | 0i0i0i0.com |
+| duzvl.com | 0i0i0i0.com |
 | dx7.sosporntube.com | 0i0i0i0.com |
 | e.bloblohub.com | 0i0i0i0.com |
 | e.celebsarchive.net | 0i0i0i0.com |
@@ -712,6 +721,7 @@
 | lonazia.xyz | 0i0i0i0.com |
 | long1x.xyz | 0i0i0i0.com |
 | loop.bengali-sex-video.com | 0i0i0i0.com |
+| lozna.xyz | 0i0i0i0.com |
 | lpair.xyz | 0i0i0i0.com |
 | lpaoz.xyz | 0i0i0i0.com |
 | ltapsxz.xyz | 0i0i0i0.com |
@@ -722,6 +732,7 @@
 | m.xrum.info | 0i0i0i0.com |
 | makejav11.fun | 0i0i0i0.com |
 | mamamia.vintageporno.stream | 0i0i0i0.com |
+| mangbaiz.xyz | 0i0i0i0.com |
 | mangoa.xyz | 0i0i0i0.com |
 | mangtaoxa.xyz | 0i0i0i0.com |
 | marginjavgg124.fun | 0i0i0i0.com |
@@ -823,6 +834,7 @@
 | oldsia.xyz | 0i0i0i0.com |
 | omission119.fun | 0i0i0i0.com |
 | onacao.com | 0i0i0i0.com |
+| ontj.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | organize3452.fun | 0i0i0i0.com |
 | origin1266.fun | 0i0i0i0.com |
@@ -900,6 +912,7 @@
 | q.tubetruck.com | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
 | qiaoxz.xyz | 0i0i0i0.com |
+| qoqv.com | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
 | quaizoa.xyz | 0i0i0i0.com |
@@ -915,6 +928,7 @@
 | r.erohabu.com | 0i0i0i0.com |
 | r.eroticos.tv | 0i0i0i0.com |
 | r.tropictube.com | 0i0i0i0.com |
+| raang.ucavu.live | 0i0i0i0.com |
 | rainbo9.com | 0i0i0i0.com |
 | recondite1x.xyz | 0i0i0i0.com |
 | registration423.fun | 0i0i0i0.com |
@@ -1041,6 +1055,7 @@
 | test-insight.bloblohub.com | 0i0i0i0.com |
 | test2.maxx.ddac.ru | 0i0i0i0.com |
 | testcommon.soundrussian.com | 0i0i0i0.com |
+| teza.igraard.xyz | 0i0i0i0.com |
 | tiaoap.xyz | 0i0i0i0.com |
 | timberjavgg124.fun | 0i0i0i0.com |
 | tirejav12.fun | 0i0i0i0.com |
@@ -1102,6 +1117,7 @@
 | websterro.com | 0i0i0i0.com |
 | wecvhi.ekftei2weudt.info | 0i0i0i0.com |
 | wingjav11.fun | 0i0i0i0.com |
+| withdraw3452.fun | 0i0i0i0.com |
 | workable1x.xyz | 0i0i0i0.com |
 | ww.hoes.tube | 0i0i0i0.com |
 | www.antiadblock.info | 0i0i0i0.com |
@@ -1154,7 +1170,6 @@
 | x9ner.anygay.com | 0i0i0i0.com |
 | xn--q1a.bloblohub.com | 0i0i0i0.com |
 | xs213.javgg.club | 0i0i0i0.com |
-| xserve.zapurl.cc | 0i0i0i0.com |
 | xxx.sdtraff.com | 0i0i0i0.com |
 | xxxlove.rooski.net | 0i0i0i0.com |
 | xzx.jtiasfkkg.xyz | 0i0i0i0.com |
@@ -1194,4 +1209,3 @@
 | www.adxhand.name | u50.0i0i0i0.com |
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
-| qhip.com | u53.hypnorat.com |

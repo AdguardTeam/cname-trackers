@@ -77,6 +77,7 @@ console.livingmagonline.com
 console.mannixmarketing.com
 console.revive-adserver.net
 console.sacommunications.com
+console.trackandfieldnews.com
 coreads-console.cambridge.org
 coreads-static.cambridge.org
 coreads.cambridge.org
@@ -148,6 +149,7 @@ server.ad.logic-prod.viasat.io
 server.ad.logic.viasat.io
 static.ad.logic-prod.viasat.io
 static.ad.logic-test.viasat.io
+static.ahk.de
 static.ammoland.com
 static.aqua-adserver.com
 static.biohandel.de
@@ -161,6 +163,7 @@ static.everythingnevada.com
 static.fa-mag.com
 static.healthcarescene.com
 static.hollandhortimedia.nl
+static.i-bidder.com
 static.insideradverts.com
 static.livingmagonline.com
 static.mannixmarketing.com
@@ -182,12 +185,14 @@ www.adserver.sniffies.com
 www.adserver.sonicplug.com
 www.api.adbility-media.com
 www.cdn-adv.unionesarda.it
+www.cdn.adspmg.com
 www.cdn.datateam.co.uk
 www.console.healthcarescene.com
 www.coreads-console.cambridge.org
 www.coreads-static.cambridge.org
 www.coreads.cambridge.org
 www.display.lawbulletin.com
+www.lalala.geenstijl.nl
 www.proforums.com
 www.revive-static.worldscreen.com
 www.revive.ahk.de

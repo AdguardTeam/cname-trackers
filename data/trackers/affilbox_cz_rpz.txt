@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -160,6 +160,7 @@ affiliate.esensino.cz CNAME .
 affiliate.esensino.sk CNAME .
 affiliate.eshop-naturhouse.cz CNAME .
 affiliate.eshop-rychle.cz CNAME .
+affiliate.espressoenglish.cz CNAME .
 affiliate.expertnapredaj.sk CNAME .
 affiliate.f-p-g.cz CNAME .
 affiliate.faceyogainstitute.eu CNAME .
@@ -255,6 +256,7 @@ affiliate.sexshop.cz CNAME .
 affiliate.sexshop51.cz CNAME .
 affiliate.sexshop51.eu CNAME .
 affiliate.sexshop51.sk CNAME .
+affiliate.siko.cz CNAME .
 affiliate.smarty.cz CNAME .
 affiliate.smsticket.cz CNAME .
 affiliate.snowbitch.cz CNAME .
@@ -464,11 +466,11 @@ partner.artmasteracademy.cz CNAME .
 partner.astaxanthincz.cz CNAME .
 partner.austriaapotheke.sk CNAME .
 partner.avetour.cz CNAME .
+partner.babypatent.sk CNAME .
 partner.babysigns.cz CNAME .
 partner.bandana.cz CNAME .
 partner.barnaby.cz CNAME .
 partner.bazaroveregaly.cz CNAME .
-partner.beautylash.cz CNAME .
 partner.bed4dogs.com CNAME .
 partner.bilynabytek.cz CNAME .
 partner.bio-nechty.sk CNAME .
@@ -942,7 +944,6 @@ promo.smskouc.cz CNAME .
 provize.3dfitness.cz CNAME .
 provize.brilas.cz CNAME .
 provize.dzumdzum.cz CNAME .
-provize.ftfc.cz CNAME .
 provize.hopsej.cz CNAME .
 provize.mimulo.cz CNAME .
 provize.pracenasobe.cz CNAME .

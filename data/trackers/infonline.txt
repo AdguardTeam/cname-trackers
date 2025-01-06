@@ -75,6 +75,7 @@
 ||data-073db1ac20.rationell-reinigen.de^
 ||data-0797a61d67.starfm.de^
 ||data-07bc6012a0.apps.iocnt.de^
+||data-07ca87a981.verkehrsrundschau.de^
 ||data-07e0108925.apps.iocnt.de^
 ||data-080d03ce0d.technikundeinkauf.de^
 ||data-080db1a14d.stadtbibliothek-jena.de^
@@ -157,6 +158,7 @@
 ||data-13d258638d.blick.de^
 ||data-13d258638d.erzgebirge.de^
 ||data-13d258638d.freiepresse.de^
+||data-13e75de547.labo.de^
 ||data-143ac31e30.brocken.de^
 ||data-143ac31e30.radio-brocken.com^
 ||data-143ac31e30.radio-brocken.de^
@@ -253,6 +255,7 @@
 ||data-1bc9d87af9.ahgzimmo.de^
 ||data-1be5adcd69.apps.iocnt.de^
 ||data-1c0a3d83e3.transfermarkt.co.id^
+||data-1c0a3d83e3.transfermarkt.co.za^
 ||data-1c0a3d83e3.transfermarkt.com.br^
 ||data-1c0a3d83e3.transfermarkt.com.tr^
 ||data-1c0a3d83e3.transfermarkt.de^
@@ -376,8 +379,10 @@
 ||data-2f9a02e6cd.tga-fachplaner.de^
 ||data-3069017f33.oldenburg.de^
 ||data-30826b1c29.agrarheute.com^
+||data-30866d53e2.eatbetter.de^
 ||data-30e91950da.joyn.at^
 ||data-3102d425a1.apps.iocnt.de^
+||data-311d8c614b.natursteinonline.de^
 ||data-31ba81426f.apps.iocnt.de^
 ||data-31c137b707.behindertengerechte-dusche.de^
 ||data-31c137b707.sanitaerjournal.de^
@@ -462,6 +467,7 @@
 ||data-3cb5515026.harpersbazaar.de^
 ||data-3cce760e0e.gq-magazin.de^
 ||data-3cd8fb3825.kicker.de^
+||data-3d30b366ad.karl.jetzt^
 ||data-3d30b366ad.mountainbike-magazin.de^
 ||data-3d5b38580a.apps.iocnt.de^
 ||data-3d5dda1509.apps.iocnt.de^
@@ -787,6 +793,7 @@
 ||data-5d621ddc78.videogameszone.de^
 ||data-5d848783f7.spiegel.de^
 ||data-5d9e07c784.stadt-und-werk.de^
+||data-5dd8125a5b.gofeminin.de^
 ||data-5e25716aa5.apps.iocnt.de^
 ||data-5e5ac4ec65.menshealth.de^
 ||data-5e8d192b40.fussballn.de^
@@ -820,6 +827,7 @@
 ||data-60d896f23d.oaz-online.de^
 ||data-60d896f23d.op-marburg.de^
 ||data-60d896f23d.ostsee-zeitung.de^
+||data-60d896f23d.ovz-online.de^
 ||data-60d896f23d.paz-online.de^
 ||data-60d896f23d.radio.at^
 ||data-60d896f23d.radio.de^
@@ -871,9 +879,11 @@
 ||data-6314dfb442.focus.de^
 ||data-631fe157dc.gesund.at^
 ||data-63224ea7ba.apps.iocnt.de^
+||data-6345746ba5.nwz-glueckwunsch.de^
 ||data-6345746ba5.nwzonline.de^
 ||data-63659a24a7.apps.iocnt.de^
 ||data-63798c78f2.apps.iocnt.de^
+||data-638190bf02.galileo.tv^
 ||data-639ebd97e3.transport-online.de^
 ||data-63bbe3ec45.wuv.de^
 ||data-63ef19fa52.apps.iocnt.de^
@@ -906,6 +916,7 @@
 ||data-67f17c94f0.onmeda.de^
 ||data-67f17c94f0.scheidenpilz.com^
 ||data-67f17c94f0.special-rueckenschmerz.de^
+||data-684c5faba8.okmag.de^
 ||data-686f12c8aa.regionaljobs.at^
 ||data-69f8b27f58.deutsche-handwerks-zeitung.de^
 ||data-6a61a15cf3.laendleanzeiger.at^
@@ -1133,6 +1144,7 @@
 ||data-84bc7eaa45.vodafonemail.de^
 ||data-84bcae01a1.iz.de^
 ||data-8522662a32.ansbachplus.de^
+||data-8522662a32.autoanzeigen.de^
 ||data-8522662a32.fraenkischer-weinfestkalender.de^
 ||data-8522662a32.main-ding.de^
 ||data-8522662a32.mainpost.de^
@@ -1175,6 +1187,7 @@
 ||data-8abe5cc617.bz-ticket.de^
 ||data-8abe5cc617.bzflirt.de^
 ||data-8abe5cc617.bztrauer.de^
+||data-8abe5cc617.schnapp.de^
 ||data-8abe5cc617.wohnverdient.de^
 ||data-8ad4a97c5f.apps.iocnt.de^
 ||data-8b242b85ce.textilwirtschaft.de^
@@ -1196,9 +1209,11 @@
 ||data-8d9711db79.gusto.at^
 ||data-8dfcf84b38.rundschau-online.de^
 ||data-8dffad7d98.photovoltaik.eu^
+||data-8e0cc612e5.lighting-jobs.de^
 ||data-8e2d0c548f.apps.iocnt.de^
 ||data-8e96b6cfc5.gelbeseiten.de^
 ||data-8ec1348702.apps.iocnt.de^
+||data-8ec206415a.ag-sdd.de^
 ||data-8ec206415a.dnb.de^
 ||data-8ec206415a.gnd.network^
 ||data-8ec206415a.kuenste-im-exil.de^
@@ -1207,6 +1222,7 @@
 ||data-8f03f9dd42.spiegel.de^
 ||data-8f7660c51c.apps.iocnt.de^
 ||data-8f7f72a50d.vogue.de^
+||data-8fae9ae422.apps.iocnt.de^
 ||data-8faed93ef7.mytischtennis.de^
 ||data-8fc521096f.monat.at^
 ||data-90725c51d9.gn-online.de^
@@ -1287,6 +1303,7 @@
 ||data-975521d9ad.horizont.de^
 ||data-975521d9ad.horizont.net^
 ||data-975521d9ad.horizontjobs.de^
+||data-97d159685e.bbheute.de^
 ||data-97d159685e.gemeinsam-gedenken.de^
 ||data-97d159685e.jobsbb.de^
 ||data-97d159685e.szbz.de^
@@ -1514,6 +1531,7 @@
 ||data-aebbfac9e2.apps.iocnt.de^
 ||data-aebdc1adf0.elle.de^
 ||data-aec7b6c8e0.apps.iocnt.de^
+||data-af2292b12d.eatbetter.de^
 ||data-af44ba1484.apps.iocnt.de^
 ||data-af69d737cf.vision-mobility.de^
 ||data-af7593657a.apps.iocnt.de^
@@ -1523,6 +1541,7 @@
 ||data-af9f3dfb33.zeit.de^
 ||data-afa7d79a5a.apps.iocnt.de^
 ||data-afa8dd5312.kleinezeitung.at^
+||data-afd30fa9a3.apps.iocnt.de^
 ||data-b0980db7ec.wiwo.de^
 ||data-b0fd716f10.auto-medienportal.net^
 ||data-b182afd830.it-times.de^
@@ -1795,6 +1814,7 @@
 ||data-d03ddf25a3.wissenschaft.de^
 ||data-d0a45359d6.apps.iocnt.de^
 ||data-d0ace8123a.gewinnarena.de^
+||data-d0d624845f.hcm-magazin.de^
 ||data-d0efcc98f4.apps.iocnt.de^
 ||data-d0f2ad8f69.apps.iocnt.de^
 ||data-d10cac15a4.onpulson.de^
@@ -1861,6 +1881,7 @@
 ||data-d8a16b307b.eishockeynews.de^
 ||data-d8a16b307b.idowa.de^
 ||data-d9000a5626.apps.iocnt.de^
+||data-d946a9c4a1.thueringen24.de^
 ||data-d98f082afe.dmax.de^
 ||data-d9c82db6b2.motor.at^
 ||data-da1d9cc48a.osthessen-news.de^
@@ -1919,6 +1940,7 @@
 ||data-e28d5b2f77.wetter.live^
 ||data-e2b70f0c07.lb-oldenburg.de^
 ||data-e337e2a6a8.kuechenplaner-magazin.de^
+||data-e34440d805.das-onlinespiel.de^
 ||data-e34440d805.jolie.de^
 ||data-e363eeae09.apps.iocnt.de^
 ||data-e392d35d53.kino-zeit.de^
@@ -2074,6 +2096,7 @@
 ||data-f1e447fbcf.herbstfest-rosenheim.de^
 ||data-f1e447fbcf.hersfelder-zeitung.de^
 ||data-f1e447fbcf.hna.de^
+||data-f1e447fbcf.homeofsports.de^
 ||data-f1e447fbcf.idcdn.de^
 ||data-f1e447fbcf.ingame.de^
 ||data-f1e447fbcf.inn-salzach24.tv^
@@ -2235,9 +2258,11 @@
 ||data-f8fea2d99e.staatsbibliothek-berlin.de^
 ||data-f943e74ec9.bz-berlin.de^
 ||data-f9b542cb96.apps.iocnt.de^
+||data-fa2c5597f6.cavallo.de^
 ||data-fa2d848059.aachener-zeitung.de^
 ||data-fa3432c50a.donaukurier.de^
 ||data-fa3432c50a.ingolstadt-today.de^
+||data-fa59f9f6b5.blueboxx-kino.de^
 ||data-fa59f9f6b5.capitol-kornwestheim.de^
 ||data-fa59f9f6b5.cincinnati-muenchen.de^
 ||data-fa59f9f6b5.cinema-badsaarow.de^
@@ -2249,8 +2274,10 @@
 ||data-fa59f9f6b5.einbecker-kinos.de^
 ||data-fa59f9f6b5.filmcenter-dillingen.de^
 ||data-fa59f9f6b5.filmpalast-sulingen.de^
+||data-fa59f9f6b5.ge-kinos.de^
 ||data-fa59f9f6b5.groebenlichtspiele.de^
 ||data-fa59f9f6b5.kino-bad-salzuflen.de^
+||data-fa59f9f6b5.kino-buedingen.de^
 ||data-fa59f9f6b5.kino-oelde.de^
 ||data-fa59f9f6b5.kino-wemding.de^
 ||data-fa59f9f6b5.kino-wolfhagen.de^
@@ -2260,6 +2287,7 @@
 ||data-fa59f9f6b5.kulturhaus-pritzwalk.de^
 ||data-fa59f9f6b5.lichtspiele-grosshabersdorf.de^
 ||data-fa59f9f6b5.liliservicekino.de^
+||data-fa59f9f6b5.movieplexx.de^
 ||data-fa59f9f6b5.neue-filmbuehne.de^
 ||data-fa59f9f6b5.saarfilm.net^
 ||data-fa59f9f6b5.uc-kino-ruegen.de^
@@ -2312,6 +2340,8 @@
 ||data-fdc5118d41.at-minerals.com^
 ||data-fdf4690b14.derwesten.de^
 ||data-fdf4690b14.radioduisburg.de^
+||data-fdf4690b14.radiohagen.de^
+||data-fdf4690b14.radiomuelheim.de^
 ||data-fdf649e16e.fussballn.de^
 ||data-fdf649e16e.liga2-online.de^
 ||data-fdf649e16e.rb-fans.de^

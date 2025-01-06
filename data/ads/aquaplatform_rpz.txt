@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -88,6 +88,7 @@ console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
 console.revive-adserver.net CNAME .
 console.sacommunications.com CNAME .
+console.trackandfieldnews.com CNAME .
 coreads-console.cambridge.org CNAME .
 coreads-static.cambridge.org CNAME .
 coreads.cambridge.org CNAME .
@@ -159,6 +160,7 @@ server.ad.logic-prod.viasat.io CNAME .
 server.ad.logic.viasat.io CNAME .
 static.ad.logic-prod.viasat.io CNAME .
 static.ad.logic-test.viasat.io CNAME .
+static.ahk.de CNAME .
 static.ammoland.com CNAME .
 static.aqua-adserver.com CNAME .
 static.biohandel.de CNAME .
@@ -172,6 +174,7 @@ static.everythingnevada.com CNAME .
 static.fa-mag.com CNAME .
 static.healthcarescene.com CNAME .
 static.hollandhortimedia.nl CNAME .
+static.i-bidder.com CNAME .
 static.insideradverts.com CNAME .
 static.livingmagonline.com CNAME .
 static.mannixmarketing.com CNAME .
@@ -193,12 +196,14 @@ www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.api.adbility-media.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
+www.cdn.adspmg.com CNAME .
 www.cdn.datateam.co.uk CNAME .
 www.console.healthcarescene.com CNAME .
 www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .
 www.coreads.cambridge.org CNAME .
 www.display.lawbulletin.com CNAME .
+www.lalala.geenstijl.nl CNAME .
 www.proforums.com CNAME .
 www.revive-static.worldscreen.com CNAME .
 www.revive.ahk.de CNAME .

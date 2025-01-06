@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -240,6 +240,7 @@ utiq.psychologies.com CNAME .
 utiq.purebreak.com CNAME .
 utiq.purepeople.com CNAME .
 utiq.regio7.cat CNAME .
+utiq.reisefrage.net CNAME .
 utiq.renault.fr CNAME .
 utiq.renew.auto CNAME .
 utiq.rireetchansons.fr CNAME .

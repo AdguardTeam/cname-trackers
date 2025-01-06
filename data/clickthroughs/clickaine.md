@@ -47,6 +47,7 @@
 | ca.findyourpussy.net | api.clickaine.com |
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
+| cc.opowiadaniaerotyczne-darmowo.pl | api.clickaine.com |
 | cc.relatoseroticos-gratis.com | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
 | cc.sexgeschichten-kostenlos.com | api.clickaine.com |
@@ -67,7 +68,6 @@
 | clk.slutcam.org | api.clickaine.com |
 | clka.bondagevalley.cc | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
-| clkn.desihub.org | api.clickaine.com |
 | clkn.moviesinspector.com | api.clickaine.com |
 | clkn2.apostle.onl | api.clickaine.com |
 | clkn3.apostle.onl | api.clickaine.com |
@@ -76,6 +76,7 @@
 | cn4.cheemsporn.com | api.clickaine.com |
 | cvk.supklik.com | api.clickaine.com |
 | cza4wopwcvdiq6sg.brandnewapp.pro | api.clickaine.com |
+| d.desihub.org | api.clickaine.com |
 | ddd.contoseroticoscnn.com | api.clickaine.com |
 | ddd.sexstories69.com | api.clickaine.com |
 | dr1.piczlabs.com | api.clickaine.com |

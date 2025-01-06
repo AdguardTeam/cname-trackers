@@ -149,6 +149,7 @@ affiliate.esensino.cz
 affiliate.esensino.sk
 affiliate.eshop-naturhouse.cz
 affiliate.eshop-rychle.cz
+affiliate.espressoenglish.cz
 affiliate.expertnapredaj.sk
 affiliate.f-p-g.cz
 affiliate.faceyogainstitute.eu
@@ -244,6 +245,7 @@ affiliate.sexshop.cz
 affiliate.sexshop51.cz
 affiliate.sexshop51.eu
 affiliate.sexshop51.sk
+affiliate.siko.cz
 affiliate.smarty.cz
 affiliate.smsticket.cz
 affiliate.snowbitch.cz
@@ -453,11 +455,11 @@ partner.artmasteracademy.cz
 partner.astaxanthincz.cz
 partner.austriaapotheke.sk
 partner.avetour.cz
+partner.babypatent.sk
 partner.babysigns.cz
 partner.bandana.cz
 partner.barnaby.cz
 partner.bazaroveregaly.cz
-partner.beautylash.cz
 partner.bed4dogs.com
 partner.bilynabytek.cz
 partner.bio-nechty.sk
@@ -931,7 +933,6 @@ promo.smskouc.cz
 provize.3dfitness.cz
 provize.brilas.cz
 provize.dzumdzum.cz
-provize.ftfc.cz
 provize.hopsej.cz
 provize.mimulo.cz
 provize.pracenasobe.cz

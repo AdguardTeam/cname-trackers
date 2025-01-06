@@ -1,11 +1,13 @@
 #
 # Company name: Nativo
 c333.macworld.co.uk
+img.nativo.net
 sponsor.syracuse.com
 0179234cdb.3201cba126.com
 0378acbc90.52e531519f.com
 03ca5e6daa.f9fefdd6b1.com
 0460629af6.d17438cacf.com
+066fb1ba95.66147a7d78.com
 06b72692b0.f47ecc72be.com
 06b9d703ee.bd6b488fb5.com
 0709793986.849c4089ff.com
@@ -16,6 +18,7 @@ sponsor.syracuse.com
 09b5b8e815.e5691e6be3.com
 09ec99929f.ded5d3d100.com
 0b4dd9af1d.d2cc4794b1.com
+0b7e225c9e.90f935cdcd.com
 0ba4f0f30a.5e992d1f70.com
 0c02a7421b.42a84ebf4e.com
 0c5395c299.f7144ba33d.com
@@ -51,6 +54,7 @@ sponsor.syracuse.com
 21de807f7e.c43559b499.com
 2399ec89e5.b52d1cf65f.com
 240f1e8590.da1bfba70b.com
+2465ea745e.89558cd8d1.com
 25f07559f6.85d2ae7308.com
 26d8d63e24.1b00a325c4.com
 26e2a92a02.a19f79e94d.com
@@ -69,6 +73,7 @@ sponsor.syracuse.com
 2f0d2783a4.03cc900069.com
 2f20db3e20.3b38bb1916.com
 319317829f.b15560d3a9.com
+32681af5e0.f8cf277abf.com
 32fdf9462b.2bed5bafa6.com
 337643a00f.8e403e6714.com
 34141a11eb.59fb4bffe0.com
@@ -151,6 +156,7 @@ sponsor.syracuse.com
 6bcab443c6.633140e52a.com
 6c681da42c.3788d48da0.com
 6cdd6559e1.df077d05e6.com
+6ce27ec378.35a1bdd1d1.com
 6cf760e4a8.4e43ae85e0.com
 6e193330bb.58ade98f38.com
 6fe031ebf3.ec2f57e8c7.com
@@ -257,6 +263,7 @@ bb1573a84f.984b3c5501.com
 bbf15b57a2.42dbd09587.com
 be69a981ad.a5bc535601.com
 bf69d06a0a.1d9d606c74.com
+bf8d745387.77f02948e0.com
 c089e9d9e7.01b491026c.com
 c0da893cb3.3d43d43f68.com
 c250af3066.c731649c79.com
@@ -342,15 +349,16 @@ f95d80b33b.cf98a92559.com
 f965b45a51.e25ebbeb6b.com
 f9c456929e.23f9e517a6.com
 fa32763d62.90757c7d6c.com
+fba5d54634.d9303988cb.com
 fc5f6008bc.6006833376.com
 fdd5c91116.606b85787b.com
 i.selecttopoff.com
 i.statelinear.com
 a135.wftv.com
-a235.gametimect.com
-mlive.share.ntv.io
+a235.sfgate.com
 share.ntv.io
 shared.sponsoredcontent.com
+tastingtable.share.ntv.io
 651a584f5e.6c078023c1.com
 a135.fox23.com
 a135.wpxi.com
@@ -361,6 +369,7 @@ a614.oregonlive.com
 a614.pennlive.com
 a614.syracuse.com
 ajc.share.ntv.io
+mlive.share.ntv.io
 nj.finegardening.com
 pressdemocrat.share.ntv.io
 silive.share.ntv.io
@@ -368,6 +377,7 @@ sonomamag.share.ntv.io
 a235.beaumontenterprise.com
 a235.chron.com
 a235.ctpost.com
+a235.gametimect.com
 a235.greenstate.com
 a235.greenwichtime.com
 a235.lmtonline.com
@@ -383,10 +393,8 @@ a235.ourmidland.com
 a235.registercitizen.com
 a235.seattlepi.com
 a235.sfchronicle.com
-a235.sfgate.com
 a235.stamfordadvocate.com
 a235.thehour.com
 a235.theintelligencer.com
 a235.thetelegraph.com
 a235.timesunion.com
-img.nativo.net

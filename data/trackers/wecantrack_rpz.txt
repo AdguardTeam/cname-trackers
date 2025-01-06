@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 api.datingxperten.de CNAME .
 api.eltjek24.dk CNAME .
+api.findenkaereste.dk CNAME .
 w.revenuegeeks.com CNAME .
 w.vpnalert.com CNAME .
 wct.compari.se CNAME .

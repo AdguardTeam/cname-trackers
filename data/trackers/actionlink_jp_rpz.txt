@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ al.aaa-shop.jp CNAME .
 al.agriz.net CNAME .
 al.amiami345.shop CNAME .
 al.amorosa-shop.jp CNAME .
+al.andmel.jp CNAME .
 al.andyell2.com CNAME .
 al.apros.co.jp CNAME .
 al.atelierofsleep.com CNAME .

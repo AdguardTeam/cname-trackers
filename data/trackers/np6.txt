@@ -354,7 +354,6 @@
 ||tr.email.harmonie-mutuelle.fr^
 ||tr.email.infocredit.orangebank.fr^
 ||tr.email.janedeboy.com^
-||tr.email.maisonfoody.com^
 ||tr.email.medicalexpo.com^
 ||tr.email.mnpaf.fr^
 ||tr.email.nauticexpo.com^
@@ -420,6 +419,7 @@
 ||tr.fortuneo.com^
 ||tr.forum.veuveclicquot.fr^
 ||tr.fr.pro.accor.com^
+||tr.france.plimsoll.fr^
 ||tr.fts.francetravail.fr^
 ||tr.future-commerce.mhdfrance.fr^
 ||tr.futurecommerce.moethennessy.com^
@@ -446,7 +446,6 @@
 ||tr.gvbn.espmp-agfr.net^
 ||tr.haute-maurienne-vanoise.net^
 ||tr.hcahealthcare.co.uk^
-||tr.hello.maisonfoody.com^
 ||tr.helloartisan.info^
 ||tr.hmut.espmp-agfr.net^
 ||tr.holidaycottages.co.uk^
@@ -492,6 +491,7 @@
 ||tr.info.fulli.com^
 ||tr.info.galian.fr^
 ||tr.info.harmonie-mutuelle.fr^
+||tr.info.la-norma.fr^
 ||tr.info.lacentrale.fr^
 ||tr.info.linnc.com^
 ||tr.info.linxea.com^
@@ -581,6 +581,7 @@
 ||tr.kpyn.espmp-cufr.net^
 ||tr.kpyn02a.espmp-cufr.net^
 ||tr.kpyn02f.espmp-cufr.net^
+||tr.kpyn03r.espmp-nifr.net^
 ||tr.kpyn059.espmp-pofr.net^
 ||tr.krus.espmp-agfr.net^
 ||tr.lachaiselongue.fr^
@@ -625,6 +626,7 @@
 ||tr.mail306.com^
 ||tr.mailatia.com^
 ||tr.mailing.achatpublic.com^
+||tr.mailing.associationici.fr^
 ||tr.mailing.heliades.fr^
 ||tr.mailing.laredoute.fr^
 ||tr.mailing.lvmhappening.com^
@@ -647,6 +649,7 @@
 ||tr.marketing.younited-credit.pt^
 ||tr.mart.espmp-agfr.net^
 ||tr.mcom03b.espmp-aufr.net^
+||tr.mcom03x.espmp-aufr.net^
 ||tr.mcom04p.espmp-aufr.net^
 ||tr.media.harmonie-sante.fr^
 ||tr.melhores-propostas.pt^
@@ -798,6 +801,7 @@
 ||tr.news.interforum.fr^
 ||tr.news.invinoradio.tv^
 ||tr.news.itancia.com^
+||tr.news.jautomatise.com^
 ||tr.news.kaptainmusic.fr^
 ||tr.news.kpmg-avocats.fr^
 ||tr.news.kpmg.fr^
@@ -825,7 +829,6 @@
 ||tr.news.linxea.com^
 ||tr.news.lisez.com^
 ||tr.news.lokapimail.com^
-||tr.news.maisonfoody.com^
 ||tr.news.maisons-du-monde.com^
 ||tr.news.manufacturing.fr^
 ||tr.news.manutan-collectivites.fr^
@@ -964,6 +967,7 @@
 ||tr.oxatis.devisdirect.com^
 ||tr.panels-mediametrie.fr^
 ||tr.part.offres-cartegie.fr^
+||tr.partenaire.groupe-vyv.fr^
 ||tr.partenaire.manageo.info^
 ||tr.particuliers8.engie.com^
 ||tr.partners.younited-credit.it^
@@ -987,6 +991,7 @@
 ||tr.prevention.harmonie-mutuelle.fr^
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro-renov.be^
+||tr.pro.odalys-campus.com^
 ||tr.pro.odalys-vacances.com^
 ||tr.pro.residencehappysenior.fr^
 ||tr.pro.sgit.net^
@@ -1077,6 +1082,7 @@
 ||tr.tdgx.espmp-cufr.net^
 ||tr.think.lvmh.fr^
 ||tr.thisiseurope.moethennessy.com^
+||tr.tibo.espmp-nifr.net^
 ||tr.tns.harmonie-mutuelle.fr^
 ||tr.toner-service.fr^
 ||tr.toner-services.fr^
@@ -1116,6 +1122,7 @@
 ||tr.urfk05l.espmp-nifr.net^
 ||tr.urfk05o.espmp-pofr.net^
 ||tr.urfk06h.espmp-nifr.net^
+||tr.urfk06l.espmp-aufr.net^
 ||tr.urfk06n.espmp-nifr.net^
 ||tr.urfk06o.espmp-agfr.net^
 ||tr.urfk06v.espmp-aufr.net^

@@ -369,7 +369,6 @@
 | donkey.jackellis.me | deprecated-custom-domains.b-cdn.net |
 | donkey.masteringfinland.com | deprecated-custom-domains.b-cdn.net |
 | donkey.mrfrisby.com | deprecated-custom-domains.b-cdn.net |
-| donkey.the3rd.place | deprecated-custom-domains.b-cdn.net |
 | dormouse.consentkit.com | deprecated-custom-domains.b-cdn.net |
 | dove.hoku.nz | deprecated-custom-domains.b-cdn.net |
 | dragon.codemakes.art | deprecated-custom-domains.b-cdn.net |
@@ -792,6 +791,7 @@
 | prairiedog.xview.us | deprecated-custom-domains.b-cdn.net |
 | prawn.lionsmouth.digital | deprecated-custom-domains.b-cdn.net |
 | primate.logology.co | deprecated-custom-domains.b-cdn.net |
+| primate.oleggera.com | deprecated-custom-domains.b-cdn.net |
 | primate.productcolors.com | deprecated-custom-domains.b-cdn.net |
 | ptarmigan.bridal-hair-and-accessories-now.com | deprecated-custom-domains.b-cdn.net |
 | ptarmigan.codebycorey.com | deprecated-custom-domains.b-cdn.net |

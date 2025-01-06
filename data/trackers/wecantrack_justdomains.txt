@@ -2,6 +2,7 @@
 # Company name: Wecantrack
 api.datingxperten.de
 api.eltjek24.dk
+api.findenkaereste.dk
 w.revenuegeeks.com
 w.vpnalert.com
 wct.compari.se

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1735545607844        ; Serial
+           1736150407730        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -480,6 +480,7 @@ $TTL 300
 3461293.notifysrv.com CNAME .
 3461347.notify6.com CNAME .
 3461347.notifysrv.com CNAME .
+3461533.notify6.com CNAME .
 3461533.notifysrv.com CNAME .
 3464703.notifysrv.com CNAME .
 3466497.notifysrv.com CNAME .
@@ -879,6 +880,7 @@ $TTL 300
 3946234.notify6.com CNAME .
 3946240.notify6.com CNAME .
 3946250.notify6.com CNAME .
+3946260.notify6.com CNAME .
 3948256.notify6.com CNAME .
 3950056.notify6.com CNAME .
 3950664.notify6.com CNAME .
@@ -1521,6 +1523,7 @@ www.3501655.notify6.com CNAME .
 www.3512165.notifysrv.com CNAME .
 www.3572295.notify6.com CNAME .
 www.3593835.notify6.com CNAME .
+www.3598461.notify6.com CNAME .
 www.3618947.notify6.com CNAME .
 www.3662839.notify6.com CNAME .
 www.3662845.notifysrv.com CNAME .

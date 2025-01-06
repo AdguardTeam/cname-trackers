@@ -65,6 +65,7 @@
 | l.750g.com | tls.non.li |
 | l.actu.fr | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |
+| l.africanews.com | tls.non.li |
 | l.allocine.fr | tls.non.li |
 | l.alternatives-economiques.fr | tls.non.li |
 | l.aujourdhui.fr | tls.non.li |
@@ -184,6 +185,7 @@
 | l.touteleurope.eu | tls.non.li |
 | l.voici.fr | tls.non.li |
 | l.zdnet.fr | tls.non.li |
+| prod-3.moarty.com | tls.non.li |
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |
 | www.h24.news | tls.non.li |

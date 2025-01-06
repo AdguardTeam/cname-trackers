@@ -30,6 +30,7 @@
 | e.medikamente-per-klick.de | customer.etracker.com |
 | e.preisapo.de | customer.etracker.com |
 | estats.globus.de | customer.etracker.com |
+| et.akademie-handel.de | customer.etracker.com |
 | et.electronic4you.at | customer.etracker.com |
 | et.electronic4you.de | customer.etracker.com |
 | et.electronic4you.hr | customer.etracker.com |
@@ -86,6 +87,7 @@
 | tracking.terrassenhof.de | customer.etracker.com |
 | wa.ostermann.eu | customer.etracker.com |
 | wctr.hh-klebetechnologie.de | customer.etracker.com |
+| wctr.khk-karlsruhe.de | customer.etracker.com |
 | wctr.kunststoff-schachtabdeckungen.com | customer.etracker.com |
 | wctr.menkenunddrees.de | customer.etracker.com |
 | wctr.moenninghoff.net | customer.etracker.com |
