@@ -109,7 +109,6 @@
 ||data-0dc128409f.watchtime.net^
 ||data-0e160b5dfc.apps.iocnt.de^
 ||data-0e1ca78ad4.rw-textilservice.de^
-||data-0e6bbb5192.bibkat.de^
 ||data-0e6bbb5192.eopac.net^
 ||data-0e6bbb5192.lmscloud.net^
 ||data-0e974e9c43.mt.de^
@@ -259,7 +258,10 @@
 ||data-1c0a3d83e3.transfermarkt.com.br^
 ||data-1c0a3d83e3.transfermarkt.com.tr^
 ||data-1c0a3d83e3.transfermarkt.de^
+||data-1c0a3d83e3.transfermarkt.fr^
 ||data-1c0a3d83e3.transfermarkt.it^
+||data-1c0a3d83e3.transfermarkt.mx^
+||data-1c0a3d83e3.transfermarkt.ru^
 ||data-1c70f16ae2.newsflix.at^
 ||data-1ce541951d.apps.iocnt.de^
 ||data-1ce6da1e66.diabetes-news.de^
@@ -480,6 +482,7 @@
 ||data-3eff3aac07.kino-zeit.de^
 ||data-3f0062caa0.elektro.net^
 ||data-3f37694eeb.esports.com^
+||data-3f8b797e45.stadtbuecherei-km.de^
 ||data-3f9c4f5eb9.automotive.at^
 ||data-3fb5262fad.unsersalzburg.at^
 ||data-40370dcf13.emsdettenervolkszeitung.de^
@@ -634,6 +637,7 @@
 ||data-48d3085f82.hildesheimer-allgemeine.de^
 ||data-493270df85.laendle24.de^
 ||data-494b3b236f.goslarsche.de^
+||data-497ecca600.erft-kurier.de^
 ||data-497ecca600.fupa.net^
 ||data-497ecca600.ga.de^
 ||data-497ecca600.moneyspecial.de^
@@ -849,6 +853,7 @@
 ||data-60d896f23d.sn-online.de^
 ||data-60d896f23d.solinger-tageblatt.de^
 ||data-60d896f23d.sportbuzzer.de^
+||data-60d896f23d.sz-auktion.de^
 ||data-60d896f23d.sz-jobs.de^
 ||data-60d896f23d.sz-trauer.de^
 ||data-60d896f23d.szlz.de^
@@ -915,6 +920,7 @@
 ||data-67f17c94f0.lifeline.de^
 ||data-67f17c94f0.onmeda.de^
 ||data-67f17c94f0.scheidenpilz.com^
+||data-67f17c94f0.special-harninkontinenz.de^
 ||data-67f17c94f0.special-rueckenschmerz.de^
 ||data-684c5faba8.okmag.de^
 ||data-686f12c8aa.regionaljobs.at^
@@ -929,6 +935,7 @@
 ||data-6c57a6137f.imsueden.de^
 ||data-6ccf929934.recovery-worldwide.com^
 ||data-6cfdf9f979.lebensmittelzeitung.net^
+||data-6d6bae47f7.bibkat.de^
 ||data-6d6bae47f7.eopac.net^
 ||data-6dafa8d42f.desired.de^
 ||data-6dbef37a3c.apps.iocnt.de^
@@ -1220,6 +1227,7 @@
 ||data-8ec206415a.zdb-katalog.de^
 ||data-8eeb5d63be.gast.at^
 ||data-8f03f9dd42.spiegel.de^
+||data-8f73761c5c.stadtbuecherei-dreieich.de^
 ||data-8f7660c51c.apps.iocnt.de^
 ||data-8f7f72a50d.vogue.de^
 ||data-8fae9ae422.apps.iocnt.de^
@@ -1236,6 +1244,7 @@
 ||data-908fd409d9.hoerzu.de^
 ||data-908fd409d9.hormontherapie-wechseljahre.de^
 ||data-908fd409d9.lifeline.de^
+||data-908fd409d9.myself.de^
 ||data-908fd409d9.onmeda.de^
 ||data-908fd409d9.scheidenpilz.com^
 ||data-908fd409d9.special-harninkontinenz.de^
@@ -1320,6 +1329,7 @@
 ||data-9a1d790604.maennersache.de^
 ||data-9a1ff0f093.apps.iocnt.de^
 ||data-9a326ab638.connect.de^
+||data-9a3ec9cf52.moviepilot.de^
 ||data-9a84c04ecb.meintophotel.de^
 ||data-9aa5e80b66.super-illu.de^
 ||data-9aa5e80b66.superillu.de^
@@ -1407,6 +1417,7 @@
 ||data-a0f0ae1310.gelbeseiten-schluesseldienst.de^
 ||data-a0f0ae1310.gelbeseiten.de^
 ||data-a0f0ae1310.goyellow.de^
+||data-a113f4b41d.trucker.de^
 ||data-a114e51991.ikz.de^
 ||data-a1937ab7ea.materialfluss.de^
 ||data-a195367ecc.apps.iocnt.de^
@@ -1775,6 +1786,7 @@
 ||data-cb62759f4c.rpr1.de^
 ||data-cb62759f4c.vereinsleben.de^
 ||data-cb6448e7d7.apps.iocnt.de^
+||data-cb9194abee.bundeslaenderinnen.at^
 ||data-cb9b83f47f.t3n.de^
 ||data-cbafce2f20.apps.iocnt.de^
 ||data-cc10b861be.winbiap.de^
@@ -1845,8 +1857,10 @@
 ||data-d4dfa4bc2c.weather.com^
 ||data-d4ecb517ab.cinema.de^
 ||data-d4ecb517ab.streampicker.de^
+||data-d4ecb517ab.tv-spielfilm.de^
 ||data-d4ecb517ab.tvspielfilm.de^
 ||data-d4ecb517ab.tvtoday.de^
+||data-d50538de89.5min.at^
 ||data-d50f71e18f.apps.iocnt.de^
 ||data-d53414767b.apps.iocnt.de^
 ||data-d543661da8.oe24.at^
@@ -1881,7 +1895,6 @@
 ||data-d8a16b307b.eishockeynews.de^
 ||data-d8a16b307b.idowa.de^
 ||data-d9000a5626.apps.iocnt.de^
-||data-d946a9c4a1.thueringen24.de^
 ||data-d98f082afe.dmax.de^
 ||data-d9c82db6b2.motor.at^
 ||data-da1d9cc48a.osthessen-news.de^
@@ -1948,6 +1961,7 @@
 ||data-e3d4300b49.sport.de^
 ||data-e3d4300b49.teleboerse.de^
 ||data-e44d38afc3.apps.iocnt.de^
+||data-e47ac57521.immobilien26.de^
 ||data-e47ac57521.lokal26.de^
 ||data-e4997adf31.bilanz.de^
 ||data-e4997adf31.metal-hammer.de^
@@ -2259,6 +2273,7 @@
 ||data-f943e74ec9.bz-berlin.de^
 ||data-f9b542cb96.apps.iocnt.de^
 ||data-fa2c5597f6.cavallo.de^
+||data-fa2d848059.aachen-gedenkt.de^
 ||data-fa2d848059.aachener-zeitung.de^
 ||data-fa3432c50a.donaukurier.de^
 ||data-fa3432c50a.ingolstadt-today.de^

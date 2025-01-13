@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -159,7 +159,6 @@ pl.mynorthstarapp.com CNAME .
 pl.terraintinker.com CNAME .
 pl.venusafe.com CNAME .
 pl.volunteeringhb.org.nz CNAME .
-pl.weinshops.online CNAME .
 pla.wigglepixel.nl CNAME .
 plan.devbyexample.com CNAME .
 plans.fundtherebuild.com CNAME .
@@ -293,12 +292,14 @@ s.fission.codes CNAME .
 s.fraservotes.com CNAME .
 s.freelanceratecalculator.com CNAME .
 s.glimesh.tv CNAME .
+s.hueman.vision CNAME .
 s.innoq.com CNAME .
 s.inspectelement.co CNAME .
 s.leolabs.org CNAME .
 s.mannes.tech CNAME .
 s.maxrozen.com CNAME .
 s.nerdfulmind.com CNAME .
+s.pjh.is CNAME .
 s.repguard.uk CNAME .
 s.saucisson-rebellion.fr CNAME .
 s.sporks.space CNAME .
@@ -478,7 +479,6 @@ stats.emmah.net CNAME .
 stats.emmas.site CNAME .
 stats.engel-apotheke.de CNAME .
 stats.engeldirekt.de CNAME .
-stats.equium.io CNAME .
 stats.erik.joling.me CNAME .
 stats.erikinthekitchen.com CNAME .
 stats.erikkemp.eu CNAME .
@@ -500,7 +500,6 @@ stats.ferienwohnung-dombrowski.com CNAME .
 stats.finalrabiesgeneration.org CNAME .
 stats.findvax.us CNAME .
 stats.flightsphere.com CNAME .
-stats.florianfritz.net CNAME .
 stats.flowphantom.com CNAME .
 stats.footwork.co CNAME .
 stats.frantic.im CNAME .
@@ -820,7 +819,6 @@ stats.thingsthatkeepmeupatnight.dev CNAME .
 stats.thomasbandt.com CNAME .
 stats.thomasvitale.com CNAME .
 stats.tijdschrift.zenleven.nl CNAME .
-stats.time2unfold.com CNAME .
 stats.timkhoury.com CNAME .
 stats.timmo.immo CNAME .
 stats.tl8.io CNAME .

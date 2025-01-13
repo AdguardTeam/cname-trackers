@@ -211,6 +211,7 @@
 | banners.cincinnatimagazine.com | hourmedia-static.aquaplatform.com |
 | banners.geminipub.com | hourmedia-static.aquaplatform.com |
 | banners.orangecoast.com | hourmedia-static.aquaplatform.com |
+| www.images.hour-media.com | hourmedia-static.aquaplatform.com |
 | console.insideradverts.com | im-console.aquaplatform.com |
 | servedby.insideradverts.com | im-delivery.aquaplatform.com |
 | static.insideradverts.com | im-static.aquaplatform.com |
@@ -246,6 +247,7 @@
 | servedby.tahoe.com | oneboat-delivery.aquaplatform.com |
 | static.everythingcolorado.com | oneboat-static.aquaplatform.com |
 | static.everythingnevada.com | oneboat-static.aquaplatform.com |
+| static.imagineobx.com | oneboat-static.aquaplatform.com |
 | www.static.imagineobx.com | oneboat-static.aquaplatform.com |
 | console.adspmg.com | pamplin-console.aquaplatform.com |
 | cdn.adspmg.com | pamplin-static.aquaplatform.com |
@@ -295,6 +297,7 @@
 | adstatic.kozoom.com | reservoir.aquaplatform.com |
 | static.aqua-adserver.com | reservoir.aquaplatform.com |
 | static.walaplusadserver.com | reservoir.aquaplatform.com |
+| www.cdn.metrike.com | reservoir.aquaplatform.com |
 | adconsole.sniffies.com | revivehosted-console.aquaplatform.com |
 | console.falconstudios.com | revivehosted-console.aquaplatform.com |
 | console.isn.nl | revivehosted-console.aquaplatform.com |

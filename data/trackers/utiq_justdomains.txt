@@ -116,6 +116,7 @@ utiq.frandroid.com
 utiq.fuehrerscheintest-online.de
 utiq.funandnews.de
 utiq.futurezone.de
+utiq.gala.fr
 utiq.gamekult.com
 utiq.genbeta.com
 utiq.geo.fr
@@ -149,6 +150,7 @@ utiq.kreis-anzeiger.de
 utiq.kreisbote.de
 utiq.kreiszeitung.de
 utiq.kundendienst-info.de
+utiq.lacentrale.fr
 utiq.lachainemeteo.com
 utiq.ladepeche.fr
 utiq.lagacetadesalamanca.es
@@ -241,6 +243,7 @@ utiq.schlager.de
 utiq.science-et-vie.com
 utiq.sensacine.com
 utiq.serienjunkies.de
+utiq.sevilla.abc.es
 utiq.soester-anzeiger.de
 utiq.speakup.es
 utiq.speisekarte.de

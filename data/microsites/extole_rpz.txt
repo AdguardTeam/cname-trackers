@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,12 +137,12 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
+em1476.princesscruises.com CNAME .
 em2287.theory.com CNAME .
 em3904.skillshare.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
@@ -494,6 +494,7 @@ share.bose.com.au CNAME .
 share.brava.com CNAME .
 share.brunettethelabel.com CNAME .
 share.buildertrend.com CNAME .
+share.burlingtonfreepress.com CNAME .
 share.buttahskin.com CNAME .
 share.bvwines.com CNAME .
 share.caller.com CNAME .
@@ -628,6 +629,8 @@ share.ollocard.com CNAME .
 share.onenevada.org CNAME .
 share.openenglish.com CNAME .
 share.openenglish.com.br CNAME .
+share.openenglish.com.tr CNAME .
+share.openenglish.es CNAME .
 share.opploans.com CNAME .
 share.origins.com CNAME .
 share.partsvu.com CNAME .
@@ -722,13 +725,13 @@ share.thenorthwestern.com CNAME .
 share.theory.com CNAME .
 share.theoryoutlet.com CNAME .
 share.theprisonerwinecompany.com CNAME .
+share.thewineshop.com CNAME .
 share.tireagent.com CNAME .
 share.tommy.com CNAME .
 share.tonies.com CNAME .
 share.trafalgar.com CNAME .
 share.travelzoo.com CNAME .
 share.treasurywineevent.com CNAME .
-share.truckstop.com CNAME .
 share.uk.theory.com CNAME .
 share.unchartedsociety.com CNAME .
 share.united.net CNAME .
@@ -755,9 +758,9 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em8928.em.petco.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.skillshare.com CNAME .

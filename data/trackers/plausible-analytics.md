@@ -161,7 +161,6 @@
 | pl.terraintinker.com | custom.plausible.io |
 | pl.venusafe.com | custom.plausible.io |
 | pl.volunteeringhb.org.nz | custom.plausible.io |
-| pl.weinshops.online | custom.plausible.io |
 | pla.wigglepixel.nl | custom.plausible.io |
 | plan.devbyexample.com | custom.plausible.io |
 | plans.fundtherebuild.com | custom.plausible.io |
@@ -295,12 +294,14 @@
 | s.fraservotes.com | custom.plausible.io |
 | s.freelanceratecalculator.com | custom.plausible.io |
 | s.glimesh.tv | custom.plausible.io |
+| s.hueman.vision | custom.plausible.io |
 | s.innoq.com | custom.plausible.io |
 | s.inspectelement.co | custom.plausible.io |
 | s.leolabs.org | custom.plausible.io |
 | s.mannes.tech | custom.plausible.io |
 | s.maxrozen.com | custom.plausible.io |
 | s.nerdfulmind.com | custom.plausible.io |
+| s.pjh.is | custom.plausible.io |
 | s.repguard.uk | custom.plausible.io |
 | s.saucisson-rebellion.fr | custom.plausible.io |
 | s.sporks.space | custom.plausible.io |
@@ -480,7 +481,6 @@
 | stats.emmas.site | custom.plausible.io |
 | stats.engel-apotheke.de | custom.plausible.io |
 | stats.engeldirekt.de | custom.plausible.io |
-| stats.equium.io | custom.plausible.io |
 | stats.erik.joling.me | custom.plausible.io |
 | stats.erikinthekitchen.com | custom.plausible.io |
 | stats.erikkemp.eu | custom.plausible.io |
@@ -502,7 +502,6 @@
 | stats.finalrabiesgeneration.org | custom.plausible.io |
 | stats.findvax.us | custom.plausible.io |
 | stats.flightsphere.com | custom.plausible.io |
-| stats.florianfritz.net | custom.plausible.io |
 | stats.flowphantom.com | custom.plausible.io |
 | stats.footwork.co | custom.plausible.io |
 | stats.frantic.im | custom.plausible.io |
@@ -822,7 +821,6 @@
 | stats.thomasbandt.com | custom.plausible.io |
 | stats.thomasvitale.com | custom.plausible.io |
 | stats.tijdschrift.zenleven.nl | custom.plausible.io |
-| stats.time2unfold.com | custom.plausible.io |
 | stats.timkhoury.com | custom.plausible.io |
 | stats.timmo.immo | custom.plausible.io |
 | stats.tl8.io | custom.plausible.io |

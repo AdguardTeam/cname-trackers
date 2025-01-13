@@ -6,6 +6,7 @@ acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 af.mobile.free.fr
 afm.alphatick.com
+afm.cnthevtmarkets.com
 afm.infinox.com
 afm.monetaindonesia.com
 afm.monetamarkets.com
@@ -234,7 +235,6 @@ content.asurion53.com
 content.atmosphere.ca
 content.b-social.io
 content.bank-abc.com
-content.bankerslife.com
 content.bankoncit.com
 content.benefitsaccess.org
 content.berluti.com
@@ -290,6 +290,7 @@ content.iddataweb.com
 content.imagedepositgateway.com
 content.incredit.pl
 content.interaconline.com
+content.ip4y.com.br
 content.jackpotcitycasino.ca
 content.knetbooks.com
 content.koalafi.com
@@ -371,7 +372,6 @@ content.tfbank.it
 content.usps.com
 content.varetire.org
 content.vi.gov
-content.washingtonnational.com
 content.westcreekfin.com
 content.wizink.es
 content002.bet365.bet.br
@@ -507,6 +507,7 @@ ela1.bankofscotland.co.uk
 elevate.stg.na02.aws.ballys.tech
 enligne.bnc.ca
 ep-content.patento.pl
+ep-content.vivigo.pl
 ep-content.vivus.pl
 ep-content.zaplo.pl
 ep.vystarcu.org

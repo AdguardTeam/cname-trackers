@@ -64,6 +64,7 @@
 ||l.frandroid.com^
 ||l.gala.fr^
 ||l.gamekult.com^
+||l.gamepro.de^
 ||l.gamesider.com^
 ||l.gentside.com^
 ||l.gentside.de^
@@ -72,6 +73,7 @@
 ||l.harpersbazaar.fr^
 ||l.heidi.news^
 ||l.humanite.fr^
+||l.ici.fr^
 ||l.jeuneafrique.com^
 ||l.jeuxvideo.com^
 ||l.journaldemillau.fr^
@@ -151,6 +153,7 @@
 ||l.topsante.com^
 ||l.touteleurope.eu^
 ||l.traxmag.com^
+||l.uppercutmma.com^
 ||l.varmatin.com^
 ||l.voici.fr^
 ||l.vosgesmatin.fr^

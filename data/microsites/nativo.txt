@@ -1,11 +1,11 @@
 !
 ! Company name: Nativo
 ||c333.macworld.co.uk^
-||img.nativo.net^
 ||sponsor.syracuse.com^
 ||0179234cdb.3201cba126.com^
 ||0378acbc90.52e531519f.com^
 ||03ca5e6daa.f9fefdd6b1.com^
+||0436e447eb.bf4a39dfe0.com^
 ||0460629af6.d17438cacf.com^
 ||066fb1ba95.66147a7d78.com^
 ||06b72692b0.f47ecc72be.com^
@@ -52,6 +52,7 @@
 ||2159d7bb08.d8df5ac9e8.com^
 ||217bf5cc5e.ad70bbfb11.com^
 ||21de807f7e.c43559b499.com^
+||22f93ea046.c74632eb91.com^
 ||2399ec89e5.b52d1cf65f.com^
 ||240f1e8590.da1bfba70b.com^
 ||2465ea745e.89558cd8d1.com^
@@ -64,6 +65,7 @@
 ||2784de9292.9359ca9921.com^
 ||28f382a788.999181dbee.com^
 ||2957601840.561bf1cf0d.com^
+||29ab6fe859.658c9e9187.com^
 ||2b52362557.22670c0b39.com^
 ||2b72ab91a5.03bcce4872.com^
 ||2bdfa5663a.14cf88c422.com^
@@ -72,6 +74,7 @@
 ||2ee8c3ad24.3addb7ccee.com^
 ||2f0d2783a4.03cc900069.com^
 ||2f20db3e20.3b38bb1916.com^
+||2f744850a9.4fcd77ec66.com^
 ||319317829f.b15560d3a9.com^
 ||32681af5e0.f8cf277abf.com^
 ||32fdf9462b.2bed5bafa6.com^
@@ -174,6 +177,7 @@
 ||7a22832f7a.8b25345f40.com^
 ||7a2d2c66d3.4b6563a120.com^
 ||7a2e6c0335.ced3494312.com^
+||7bdc97a611.469ccf55cc.com^
 ||7d9abe8eb2.53ad45898e.com^
 ||7db1b0305a.05c7f67ff8.com^
 ||7ee8621add.bb06fa60bf.com^
@@ -234,6 +238,7 @@
 ||a6b10ce254.524ebffe72.com^
 ||a6ef6929e5.6cc5f97c91.com^
 ||a763c85c07.27a3ae31fc.com^
+||a91a3eb601.68d4d1e771.com^
 ||abd749242d.6e12f10bdb.com^
 ||ad6dc9f2a9.fa729bc841.com^
 ||ae08fdf92e.05bf50f70d.com^
@@ -253,6 +258,7 @@
 ||b527fc6b10.00e7540027.com^
 ||b53accf7d8.8f59bb0891.com^
 ||b5c12def58.e09a290e1b.com^
+||b7bff12888.bbbe6e2472.com^
 ||b830a4d240.cfcebde8e4.com^
 ||b841298463.cf7f9a4788.com^
 ||b8441b826c.0865a125ce.com^
@@ -355,17 +361,17 @@
 ||i.selecttopoff.com^
 ||i.statelinear.com^
 ||a135.wftv.com^
-||a235.sfgate.com^
+||a235.seattlepi.com^
+||a614.mlive.com^
+||a614.oregonlive.com^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
-||tastingtable.share.ntv.io^
+||sonomamag.share.ntv.io^
 ||651a584f5e.6c078023c1.com^
 ||a135.fox23.com^
 ||a135.wpxi.com^
 ||a135.wsoctv.com^
-||a614.mlive.com^
 ||a614.nj.com^
-||a614.oregonlive.com^
 ||a614.pennlive.com^
 ||a614.syracuse.com^
 ||ajc.share.ntv.io^
@@ -373,7 +379,7 @@
 ||nj.finegardening.com^
 ||pressdemocrat.share.ntv.io^
 ||silive.share.ntv.io^
-||sonomamag.share.ntv.io^
+||tastingtable.share.ntv.io^
 ||a235.beaumontenterprise.com^
 ||a235.chron.com^
 ||a235.ctpost.com^
@@ -391,10 +397,11 @@
 ||a235.nhregister.com^
 ||a235.ourmidland.com^
 ||a235.registercitizen.com^
-||a235.seattlepi.com^
 ||a235.sfchronicle.com^
+||a235.sfgate.com^
 ||a235.stamfordadvocate.com^
 ||a235.thehour.com^
 ||a235.theintelligencer.com^
 ||a235.thetelegraph.com^
 ||a235.timesunion.com^
+||img.nativo.net^

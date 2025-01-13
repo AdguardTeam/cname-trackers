@@ -23,7 +23,6 @@
 ||collect.calvinklein.cz^
 ||collect.calvinklein.de^
 ||collect.calvinklein.dk^
-||collect.calvinklein.ee^
 ||collect.calvinklein.es^
 ||collect.calvinklein.fi^
 ||collect.calvinklein.fr^
@@ -32,7 +31,6 @@
 ||collect.calvinklein.ie^
 ||collect.calvinklein.it^
 ||collect.calvinklein.lt^
-||collect.calvinklein.lu^
 ||collect.calvinklein.lv^
 ||collect.calvinklein.nl^
 ||collect.calvinklein.pl^
@@ -139,7 +137,6 @@
 ||tags.calvinklein.ie^
 ||tags.calvinklein.it^
 ||tags.calvinklein.lt^
-||tags.calvinklein.lu^
 ||tags.calvinklein.lv^
 ||tags.calvinklein.nl^
 ||tags.calvinklein.pl^
@@ -155,6 +152,7 @@
 ||tags.cdp.ppq.com.au^
 ||tags.chip.de^
 ||tags.cinema.de^
+||tags.crisisresponse.org^
 ||tags.currenttime.tv^
 ||tags.cxagents.com^
 ||tags.darivoa.com^
@@ -178,6 +176,7 @@
 ||tags.gnhearing.com^
 ||tags.golosameriki.com^
 ||tags.groupmartech.vodafone.com^
+||tags.gskpro-com.preview-cf65.gskinternet.com^
 ||tags.heathrow.com^
 ||tags.heathrowexpress.com^
 ||tags.hollisterco.com^
@@ -188,6 +187,7 @@
 ||tags.irfaasawtak.com^
 ||tags.joyobank.co.jp^
 ||tags.kavkazr.com^
+||tags.kiyotaro.com^
 ||tags.klove.com^
 ||tags.kmart.com.au^
 ||tags.krymr.com^
@@ -334,7 +334,9 @@
 ||tealm-c.heydude.de^
 ||tealm-c.heydude.eu^
 ||tealm-c.heydude.uk^
+||tiq.esprit.at^
 ||tiq.esprit.fr^
+||tiq.esprit.hk^
 ||tiq.esprit.us^
 ||tiq.espritshop.pl^
 ||tiq.linda.nl^
@@ -389,8 +391,12 @@
 ||visitor.oportun.com^
 ||vtd.twentyfouram.com^
 ||vtd.vontobel.com^
+||vtd.vontobelsfa.com^
 ||webtags.logitech.com^
 ||webtags.logitechg.com^
 ||www.tags.kmart.com.au^
 ||collect.ansons.de^
+||collect.calvinklein.ee^
+||collect.calvinklein.lu^
+||tags.calvinklein.lu^
 ||tags.sixpad.jp^

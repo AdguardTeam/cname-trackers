@@ -68,6 +68,7 @@
 ||tk.airfrance.si^
 ||tk.airfrance.sk^
 ||tk.airfrance.sn^
+||tk.airfrance.tg^
 ||tk.airfrance.tn^
 ||tk.airfrance.ua^
 ||tk.airfrance.us^

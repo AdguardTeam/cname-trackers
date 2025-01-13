@@ -1,9 +1,11 @@
 #
 # Company name: GoatCounter
+a.50-nuances-octets.fr
 anal.sataniskwijt.be
 analytics.code.dccouncil.gov
 analytics.code.dccouncil.us
 analytics.demo.plateau.ng.open.law
+analytics.ewpratten.com
 analytics.ferrybig.me
 analytics.law.cityofsanmateo.org
 analytics.popov.link
@@ -55,6 +57,7 @@ stats.abdodaoud.com
 stats.afirmacijas.lv
 stats.apitman.com
 stats.artur-rodrigues.com
+stats.benjaminmorris.com
 stats.boredkevin.com
 stats.boringproxy.io
 stats.brandontoner.ca
@@ -62,6 +65,7 @@ stats.cassie.omg.lol
 stats.celerry.com
 stats.cgcristi.xyz
 stats.cloudflex.team
+stats.crosshair.dev
 stats.dalinwilliams.com
 stats.dandelion.computer
 stats.doarpstsjerke.nl
@@ -91,14 +95,14 @@ stats.niravraval.com
 stats.nullzwo.dev
 stats.palaisdesfetes.eu
 stats.pollux.codes
-stats.renit.pl
+stats.riccardomurachelli.it
 stats.roalgo.ro
 stats.rocketgoboom.lol
 stats.ryanchmelir.com
+stats.sebastianzehner.com
 stats.semipol.de
 stats.sharukhi.xyz
 stats.sofianlak.fr
-stats.stchris.net
 stats.svc.lol
 stats.tdurand.com
 stats.thecrafters001.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,7 +34,6 @@ collect.calvinklein.com CNAME .
 collect.calvinklein.cz CNAME .
 collect.calvinklein.de CNAME .
 collect.calvinklein.dk CNAME .
-collect.calvinklein.ee CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
@@ -43,7 +42,6 @@ collect.calvinklein.hu CNAME .
 collect.calvinklein.ie CNAME .
 collect.calvinklein.it CNAME .
 collect.calvinklein.lt CNAME .
-collect.calvinklein.lu CNAME .
 collect.calvinklein.lv CNAME .
 collect.calvinklein.nl CNAME .
 collect.calvinklein.pl CNAME .
@@ -150,7 +148,6 @@ tags.calvinklein.hu CNAME .
 tags.calvinklein.ie CNAME .
 tags.calvinklein.it CNAME .
 tags.calvinklein.lt CNAME .
-tags.calvinklein.lu CNAME .
 tags.calvinklein.lv CNAME .
 tags.calvinklein.nl CNAME .
 tags.calvinklein.pl CNAME .
@@ -166,6 +163,7 @@ tags.cathaypacific.com CNAME .
 tags.cdp.ppq.com.au CNAME .
 tags.chip.de CNAME .
 tags.cinema.de CNAME .
+tags.crisisresponse.org CNAME .
 tags.currenttime.tv CNAME .
 tags.cxagents.com CNAME .
 tags.darivoa.com CNAME .
@@ -189,6 +187,7 @@ tags.glasamerike.net CNAME .
 tags.gnhearing.com CNAME .
 tags.golosameriki.com CNAME .
 tags.groupmartech.vodafone.com CNAME .
+tags.gskpro-com.preview-cf65.gskinternet.com CNAME .
 tags.heathrow.com CNAME .
 tags.heathrowexpress.com CNAME .
 tags.hollisterco.com CNAME .
@@ -199,6 +198,7 @@ tags.insidevoa.com CNAME .
 tags.irfaasawtak.com CNAME .
 tags.joyobank.co.jp CNAME .
 tags.kavkazr.com CNAME .
+tags.kiyotaro.com CNAME .
 tags.klove.com CNAME .
 tags.kmart.com.au CNAME .
 tags.krymr.com CNAME .
@@ -345,7 +345,9 @@ tealm-c.crocs.nl CNAME .
 tealm-c.heydude.de CNAME .
 tealm-c.heydude.eu CNAME .
 tealm-c.heydude.uk CNAME .
+tiq.esprit.at CNAME .
 tiq.esprit.fr CNAME .
+tiq.esprit.hk CNAME .
 tiq.esprit.us CNAME .
 tiq.espritshop.pl CNAME .
 tiq.linda.nl CNAME .
@@ -400,8 +402,12 @@ visitor.collect.oportun.com CNAME .
 visitor.oportun.com CNAME .
 vtd.twentyfouram.com CNAME .
 vtd.vontobel.com CNAME .
+vtd.vontobelsfa.com CNAME .
 webtags.logitech.com CNAME .
 webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
 collect.ansons.de CNAME .
+collect.calvinklein.ee CNAME .
+collect.calvinklein.lu CNAME .
+tags.calvinklein.lu CNAME .
 tags.sixpad.jp CNAME .

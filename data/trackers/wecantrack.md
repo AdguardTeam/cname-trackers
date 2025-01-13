@@ -10,6 +10,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| api.datinghelp.dk | api.wecantrack.com |
 | api.datingxperten.de | api.wecantrack.com |
 | api.eltjek24.dk | api.wecantrack.com |
 | api.findenkaereste.dk | api.wecantrack.com |

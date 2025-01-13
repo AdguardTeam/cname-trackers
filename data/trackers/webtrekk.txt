@@ -291,6 +291,7 @@
 ||web.info.teamwarrior.com^
 ||web.info.vantastic-foods.com^
 ||web.info.varelotteriet.dk^
+||web.info.xerjoff.com^
 ||web.info.yeppon.it^
 ||web.jana-shoes.com^
 ||web.mail.parmalat.it^

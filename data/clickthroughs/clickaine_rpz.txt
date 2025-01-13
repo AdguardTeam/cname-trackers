@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,7 +21,6 @@ ad.desibp.com CNAME .
 ads.imgdesu.art CNAME .
 ads.luffy.my.id CNAME .
 adsv.cki.name CNAME .
-anti.69vclub.com CNAME .
 api.animeshqip.icu CNAME .
 api.hugemedia.cz CNAME .
 api.kekw.world CNAME .
@@ -61,6 +60,7 @@ cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
 cdn1.xvideohub.top CNAME .
 cdn2.picyield.com CNAME .
+cdn4.sparkporn.com CNAME .
 cent.up-click.xyz CNAME .
 ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
@@ -91,6 +91,7 @@ g4s.nfss.my.id CNAME .
 ge6.getfto.com CNAME .
 ge8.getfto.com CNAME .
 get.xclick24.com CNAME .
+gg.divj.site CNAME .
 go.lize.bid CNAME .
 hostmaster.brandnewapp.pro CNAME .
 hostmaster.rtnews.pro CNAME .

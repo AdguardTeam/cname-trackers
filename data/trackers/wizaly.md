@@ -247,6 +247,7 @@
 | tk.airfrance.si | tkairfrance.wizaly.com |
 | tk.airfrance.sk | tkairfrance.wizaly.com |
 | tk.airfrance.sn | tkairfrance.wizaly.com |
+| tk.airfrance.tg | tkairfrance.wizaly.com |
 | tk.airfrance.tn | tkairfrance.wizaly.com |
 | tk.airfrance.ua | tkairfrance.wizaly.com |
 | tk.airfrance.us | tkairfrance.wizaly.com |

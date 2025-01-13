@@ -48,6 +48,7 @@
   "aiqx.wheeloffortune.com": "sony-prod.actioniq.mr-in.com",
   "aiqx.www.ghostbusters.com": "sony-prod.actioniq.mr-in.com",
   "anx-new.learnwithhomer.com": "homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com",
+  "anx-new.littlepassports.com": "homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com",
   "anx-staging.learnwithhomer.com": "homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com",
   "anx.learnwithhomer.com": "homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com",
   "meta-events.backpacker.com": "outside.mr-in.com",

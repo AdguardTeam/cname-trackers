@@ -113,6 +113,7 @@
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
     * 554833903189763.wt-eu02.net
+    * 572457300660290.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 587628343151442.wt-eu02.net
@@ -352,6 +353,7 @@
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
 | web.s.sasrx.com | 554833903189763.wt-eu02.net |
+| web.info.xerjoff.com | 572457300660290.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | web.e.bifoldsales.co.uk | 587628343151442.wt-eu02.net |

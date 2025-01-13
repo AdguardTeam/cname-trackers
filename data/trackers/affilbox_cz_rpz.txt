@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,7 +54,6 @@ affil.kralovstvi-tiande.cz CNAME .
 affil.lesgoodies.com CNAME .
 affil.litinove-nadobi.cz CNAME .
 affil.lojdovale.cz CNAME .
-affil.moringamix.cz CNAME .
 affil.mydrinks.cz CNAME .
 affil.nanoshop.cz CNAME .
 affil.nanospace.cz CNAME .
@@ -178,7 +177,6 @@ affiliate.hamham.cz CNAME .
 affiliate.hanibal.cz CNAME .
 affiliate.herbadent.cz CNAME .
 affiliate.hokr.eu CNAME .
-affiliate.horseandme.eu CNAME .
 affiliate.ihrelinsen.at CNAME .
 affiliate.inkytattoo.cz CNAME .
 affiliate.innone.cz CNAME .
@@ -212,6 +210,7 @@ affiliate.lg-store.cz CNAME .
 affiliate.licit.cz CNAME .
 affiliate.loveo.cz CNAME .
 affiliate.luxor.cz CNAME .
+affiliate.malujememazlicky.cz CNAME .
 affiliate.marketingminer.com CNAME .
 affiliate.martinchudy.sk CNAME .
 affiliate.martinreznicek.cz CNAME .
@@ -318,6 +317,7 @@ doporuc.mechaneo.cz CNAME .
 doporuc.necojakocola.cz CNAME .
 doporuc.promujdomov.cz CNAME .
 doporuc.skolaslava.cz CNAME .
+doporuc.slevomat.cz CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
 hcaffil.mironet.cz CNAME .
@@ -841,7 +841,6 @@ partneri.jipos.cz CNAME .
 partneri.jrc.cz CNAME .
 partneri.keramika-dum.cz CNAME .
 partneri.kerasek.cz CNAME .
-partneri.kimgroup.cz CNAME .
 partneri.konverzacniklub.cz CNAME .
 partneri.korkie.cz CNAME .
 partneri.kuptorazdva.cz CNAME .

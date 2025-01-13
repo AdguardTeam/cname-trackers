@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,6 +43,7 @@ a8.b-cafe.net CNAME .
 a8.bambi-craft.com CNAME .
 a8.bandel.jp CNAME .
 a8.banninkun.com CNAME .
+a8.beachaccesssurf.com CNAME .
 a8.beerowle.com CNAME .
 a8.benro.jp CNAME .
 a8.big-hikari.com CNAME .
@@ -169,7 +170,6 @@ a8.ippin-do.com CNAME .
 a8.jiiawater.com CNAME .
 a8.joygirl.jp CNAME .
 a8.joylab.jp CNAME .
-a8.joyvack.com CNAME .
 a8.jp.peacebird.com CNAME .
 a8.kajitaku.com CNAME .
 a8.kami2323.com CNAME .
@@ -308,7 +308,6 @@ a8.st.oddspark.com CNAME .
 a8.store.aceservice.jp CNAME .
 a8.store.goo.ne.jp CNAME .
 a8.strapya.com CNAME .
-a8.sui-so.com CNAME .
 a8.suma-sapo.net CNAME .
 a8.sumai-planet.com CNAME .
 a8.sumilena.co.jp CNAME .
@@ -674,6 +673,7 @@ a8clk.smartmethod.rarejob.com CNAME .
 a8clk.smile-zemi.jp CNAME .
 a8clk.sohbi-company.com CNAME .
 a8clk.solideajapan.com CNAME .
+a8clk.sp.move-ebike.co.jp CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .
 a8clk.starwifi.jp CNAME .
@@ -686,6 +686,7 @@ a8clk.sumafuri.jp CNAME .
 a8clk.support-hoiku.com CNAME .
 a8clk.supreme-noi.jp CNAME .
 a8clk.sure-i.co.jp CNAME .
+a8clk.sweethomefloripa.com CNAME .
 a8clk.t-fic.co.jp CNAME .
 a8clk.taisho-beauty.jp CNAME .
 a8clk.takken-job.com CNAME .
@@ -888,6 +889,7 @@ a8cv.direct.shark.co.jp CNAME .
 a8cv.diyfactory.jp CNAME .
 a8cv.doctor-agent.com CNAME .
 a8cv.doctoryotsu.com CNAME .
+a8cv.dodopep-kobe.com CNAME .
 a8cv.dokoyorimo.com CNAME .
 a8cv.dokugaku-dx.com CNAME .
 a8cv.downjacket.pro CNAME .
@@ -1047,6 +1049,7 @@ a8cv.kobe38.com CNAME .
 a8cv.kosodatemoney.com CNAME .
 a8cv.kstarselect.com CNAME .
 a8cv.kuih.jp CNAME .
+a8cv.kuradashi.jp CNAME .
 a8cv.kurashi-bears.com CNAME .
 a8cv.kusmitea.jp CNAME .
 a8cv.kuzefuku-arcade.jp CNAME .
@@ -1405,7 +1408,6 @@ acv.biglobe-hikari.net CNAME .
 acv.cmf-hikari.net CNAME .
 acv.crea-lp.com CNAME .
 acv.fletsntt.com CNAME .
-acv.hikarisoftbank.com CNAME .
 acv.internet-moushikomi.net CNAME .
 acv.kyushu-internet.com CNAME .
 acv.mc-doctor.net CNAME .

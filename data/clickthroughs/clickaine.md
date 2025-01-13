@@ -18,7 +18,6 @@
 | ads.imgdesu.art | api.clickaine.com |
 | ads.luffy.my.id | api.clickaine.com |
 | adsv.cki.name | api.clickaine.com |
-| anti.69vclub.com | api.clickaine.com |
 | api.animeshqip.icu | api.clickaine.com |
 | api.hugemedia.cz | api.clickaine.com |
 | api.kekw.world | api.clickaine.com |
@@ -58,6 +57,7 @@
 | cdn1.memojav.com | api.clickaine.com |
 | cdn1.xvideohub.top | api.clickaine.com |
 | cdn2.picyield.com | api.clickaine.com |
+| cdn4.sparkporn.com | api.clickaine.com |
 | cent.up-click.xyz | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
 | cl.sexstories-all.com | api.clickaine.com |
@@ -88,6 +88,7 @@
 | ge6.getfto.com | api.clickaine.com |
 | ge8.getfto.com | api.clickaine.com |
 | get.xclick24.com | api.clickaine.com |
+| gg.divj.site | api.clickaine.com |
 | go.lize.bid | api.clickaine.com |
 | hostmaster.brandnewapp.pro | api.clickaine.com |
 | hostmaster.rtnews.pro | api.clickaine.com |

@@ -548,6 +548,7 @@
 ||tr.infos.afpa.fr^
 ||tr.infos.allianz-trade.com^
 ||tr.infos.ariase.com^
+||tr.infos.boursobank.info^
 ||tr.infos.enerplus-bordeaux.fr^
 ||tr.infos.fongecifcentre.com^
 ||tr.infos.gazdebordeaux.fr^
@@ -1041,7 +1042,6 @@
 ||tr.scienceshumaines.info^
 ||tr.scienceshumaines.pro^
 ||tr.seat-fs-email.fr^
-||tr.secretary.wfitn.org^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
 ||tr.service-client.mhdfrance.fr^
 ||tr.service.linxea.com^
@@ -1084,8 +1084,6 @@
 ||tr.thisiseurope.moethennessy.com^
 ||tr.tibo.espmp-nifr.net^
 ||tr.tns.harmonie-mutuelle.fr^
-||tr.toner-service.fr^
-||tr.toner-services.fr^
 ||tr.tonerservices.fr^
 ||tr.tourisme.visit-lanarbonnaise.com^
 ||tr.tpe.harmonie-mutuelle.fr^

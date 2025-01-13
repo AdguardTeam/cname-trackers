@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -175,6 +175,7 @@ static.fa-mag.com CNAME .
 static.healthcarescene.com CNAME .
 static.hollandhortimedia.nl CNAME .
 static.i-bidder.com CNAME .
+static.imagineobx.com CNAME .
 static.insideradverts.com CNAME .
 static.livingmagonline.com CNAME .
 static.mannixmarketing.com CNAME .
@@ -198,11 +199,13 @@ www.api.adbility-media.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
 www.cdn.adspmg.com CNAME .
 www.cdn.datateam.co.uk CNAME .
+www.cdn.metrike.com CNAME .
 www.console.healthcarescene.com CNAME .
 www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .
 www.coreads.cambridge.org CNAME .
 www.display.lawbulletin.com CNAME .
+www.images.hour-media.com CNAME .
 www.lalala.geenstijl.nl CNAME .
 www.proforums.com CNAME .
 www.revive-static.worldscreen.com CNAME .

@@ -124,6 +124,7 @@
 | utiq.fuehrerscheintest-online.de | frontend.prod.utiq-aws.net |
 | utiq.funandnews.de | frontend.prod.utiq-aws.net |
 | utiq.futurezone.de | frontend.prod.utiq-aws.net |
+| utiq.gala.fr | frontend.prod.utiq-aws.net |
 | utiq.gamekult.com | frontend.prod.utiq-aws.net |
 | utiq.genbeta.com | frontend.prod.utiq-aws.net |
 | utiq.geo.fr | frontend.prod.utiq-aws.net |
@@ -157,6 +158,7 @@
 | utiq.kreisbote.de | frontend.prod.utiq-aws.net |
 | utiq.kreiszeitung.de | frontend.prod.utiq-aws.net |
 | utiq.kundendienst-info.de | frontend.prod.utiq-aws.net |
+| utiq.lacentrale.fr | frontend.prod.utiq-aws.net |
 | utiq.lachainemeteo.com | frontend.prod.utiq-aws.net |
 | utiq.ladepeche.fr | frontend.prod.utiq-aws.net |
 | utiq.lagacetadesalamanca.es | frontend.prod.utiq-aws.net |
@@ -249,6 +251,7 @@
 | utiq.science-et-vie.com | frontend.prod.utiq-aws.net |
 | utiq.sensacine.com | frontend.prod.utiq-aws.net |
 | utiq.serienjunkies.de | frontend.prod.utiq-aws.net |
+| utiq.sevilla.abc.es | frontend.prod.utiq-aws.net |
 | utiq.soester-anzeiger.de | frontend.prod.utiq-aws.net |
 | utiq.speakup.es | frontend.prod.utiq-aws.net |
 | utiq.speisekarte.de | frontend.prod.utiq-aws.net |

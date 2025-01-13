@@ -241,6 +241,7 @@
 ||bass.siterig.io^
 ||bass.taivo.ai^
 ||bat.heelix.be^
+||bat.storyplay.no^
 ||bear.builtbyborda.com^
 ||bear.datingrelationshipsadvice.com^
 ||bear.jake.nyc^
@@ -367,6 +368,7 @@
 ||cobra.michaelkoper.com^
 ||cockroach.head4work.com.au^
 ||cockroach.no.mortgage^
+||cod.governmentaladvisory.com^
 ||cod.onemanandhisblog.com^
 ||cod.serverlesslaravelcourse.com^
 ||cod.tandartspraktijkjagtkade.nl^
@@ -493,6 +495,7 @@
 ||fowl.saulhardman.com^
 ||fowl.teamyap.app^
 ||fox.visionaudiovisual.com^
+||frog.borgs.app^
 ||gamefowl.emailforward.mx^
 ||gamefowl.karlsutt.com^
 ||gamefowl.nonprofit.foundation^
@@ -549,6 +552,7 @@
 ||haddock.simgenie.app^
 ||haddock.slack.rocks^
 ||halibut.codehooks.io^
+||halibut.jimruegolfinstruction.com^
 ||halibut.phytype.com^
 ||hamster.consentkit.io^
 ||hamster.darstellendekuenste.de^
@@ -702,7 +706,6 @@
 ||marmoset.rocketlog.app^
 ||marmot.hippiemodernism.com^
 ||marmot.jfontana.fr^
-||marmot.theshootingcentre.com^
 ||marsupial.dbcontractingltd.ca^
 ||marsupial.kymellis.co^
 ||marten.countertype.com^
@@ -727,7 +730,6 @@
 ||mole.energizer.eu^
 ||mole.getfamealy.com^
 ||mole.gostartupco.com^
-||mole.rtbhouse.com^
 ||mole.vcntlee.com^
 ||mollusk.forwardmx.io^
 ||mollusk.working.actor^
@@ -746,6 +748,7 @@
 ||moth.underscoretw.com^
 ||mouse.anthony-noel.com^
 ||mouse.botreach.co^
+||mouse.seekingtv.com^
 ||mule.caddyserver.com^
 ||mule.pricelessai.com^
 ||muskox.appital.io^
@@ -971,6 +974,7 @@
 ||swallow.axiom.co^
 ||swallow.olgakudrina.com^
 ||swallow.pelias.io^
+||swan.turbonav.com^
 ||swan.visualma.com^
 ||swift.avenue.so^
 ||swift.ciudadanob.com^
@@ -1026,6 +1030,7 @@
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
 ||treefrog.kaffeknappen.no^
+||treefrog.mii-chi.app^
 ||treefrog.walkingwithdaddy.com^
 ||trout.batzo.net^
 ||trout.openfpl.com^
@@ -1066,6 +1071,7 @@
 ||wasp.mattjennings.io^
 ||waterboa.midu.dev^
 ||waterboa.nighttrain.co^
+||weasel.madebytune.be^
 ||whale.gdebrauwer.dev^
 ||whippet.ianglover.com^
 ||whippet.madewithspark.com^
@@ -1090,6 +1096,7 @@
 ||woodpecker.mikehalliday.com^
 ||woodpecker.seabits.com^
 ||worm.communitytrustproject.org^
+||wren.camdenmecc.org.uk^
 ||www.stork.notlessbutbetter.com^
 ||yak.auclantis.com^
 ||yak.flutterblog.net^

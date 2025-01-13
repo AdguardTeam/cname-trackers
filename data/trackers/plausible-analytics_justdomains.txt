@@ -148,7 +148,6 @@ pl.mynorthstarapp.com
 pl.terraintinker.com
 pl.venusafe.com
 pl.volunteeringhb.org.nz
-pl.weinshops.online
 pla.wigglepixel.nl
 plan.devbyexample.com
 plans.fundtherebuild.com
@@ -282,12 +281,14 @@ s.fission.codes
 s.fraservotes.com
 s.freelanceratecalculator.com
 s.glimesh.tv
+s.hueman.vision
 s.innoq.com
 s.inspectelement.co
 s.leolabs.org
 s.mannes.tech
 s.maxrozen.com
 s.nerdfulmind.com
+s.pjh.is
 s.repguard.uk
 s.saucisson-rebellion.fr
 s.sporks.space
@@ -467,7 +468,6 @@ stats.emmah.net
 stats.emmas.site
 stats.engel-apotheke.de
 stats.engeldirekt.de
-stats.equium.io
 stats.erik.joling.me
 stats.erikinthekitchen.com
 stats.erikkemp.eu
@@ -489,7 +489,6 @@ stats.ferienwohnung-dombrowski.com
 stats.finalrabiesgeneration.org
 stats.findvax.us
 stats.flightsphere.com
-stats.florianfritz.net
 stats.flowphantom.com
 stats.footwork.co
 stats.frantic.im
@@ -809,7 +808,6 @@ stats.thingsthatkeepmeupatnight.dev
 stats.thomasbandt.com
 stats.thomasvitale.com
 stats.tijdschrift.zenleven.nl
-stats.time2unfold.com
 stats.timkhoury.com
 stats.timmo.immo
 stats.tl8.io

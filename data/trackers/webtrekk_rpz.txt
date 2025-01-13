@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -302,6 +302,7 @@ web.info.bonprix.es CNAME .
 web.info.teamwarrior.com CNAME .
 web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
+web.info.xerjoff.com CNAME .
 web.info.yeppon.it CNAME .
 web.jana-shoes.com CNAME .
 web.mail.parmalat.it CNAME .

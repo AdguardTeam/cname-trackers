@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -127,6 +127,7 @@ utiq.frandroid.com CNAME .
 utiq.fuehrerscheintest-online.de CNAME .
 utiq.funandnews.de CNAME .
 utiq.futurezone.de CNAME .
+utiq.gala.fr CNAME .
 utiq.gamekult.com CNAME .
 utiq.genbeta.com CNAME .
 utiq.geo.fr CNAME .
@@ -160,6 +161,7 @@ utiq.kreis-anzeiger.de CNAME .
 utiq.kreisbote.de CNAME .
 utiq.kreiszeitung.de CNAME .
 utiq.kundendienst-info.de CNAME .
+utiq.lacentrale.fr CNAME .
 utiq.lachainemeteo.com CNAME .
 utiq.ladepeche.fr CNAME .
 utiq.lagacetadesalamanca.es CNAME .
@@ -252,6 +254,7 @@ utiq.schlager.de CNAME .
 utiq.science-et-vie.com CNAME .
 utiq.sensacine.com CNAME .
 utiq.serienjunkies.de CNAME .
+utiq.sevilla.abc.es CNAME .
 utiq.soester-anzeiger.de CNAME .
 utiq.speakup.es CNAME .
 utiq.speisekarte.de CNAME .

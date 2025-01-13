@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,10 +13,15 @@ $TTL 300
 
 www.05454674.xyz CNAME .
 www.07421283.xyz CNAME .
+www.10288299.xyz CNAME .
 www.19706903.xyz CNAME .
+www.224cc86d.xyz CNAME .
 www.45496fee.xyz CNAME .
+www.59768910.xyz CNAME .
 www.77886044.xyz CNAME .
 www.79180284.xyz CNAME .
 www.79893962.xyz CNAME .
 www.83761158.xyz CNAME .
+www.8eef59a5.live CNAME .
+www.bdec1f37.xyz CNAME .
 www.dcad1d97.xyz CNAME .

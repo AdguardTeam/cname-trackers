@@ -1178,6 +1178,7 @@
 ||a.advertrek.com^
 ||a.asvsm.com^
 ||a.b7q9v8z.com^
+||a.bizonads-ssp.com^
 ||a.cant3am.com^
 ||a.etology.com^
 ||a.eunow4u.com^
@@ -1308,6 +1309,7 @@
 ||s.ds2gs4.com^
 ||s.ds3jbr.com^
 ||s.ds6ulg.com^
+||s.ds7eji.com^
 ||s.eaalink.com^
 ||s.elink2b.com^
 ||s.elink2c.com^
@@ -1547,4 +1549,3 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
-||a.bizonads-ssp.com^

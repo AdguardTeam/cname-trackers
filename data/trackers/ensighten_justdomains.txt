@@ -74,7 +74,6 @@ amex.activate.ensighten.com
 analytics.amica.com
 analytics.athome.com
 analytics.carecredit.com
-analytics.carecreditlearning.com
 analytics.carecreditprovidercenter.com
 analytics.ensighten.com
 analytics.mysynchrony.com
@@ -194,6 +193,7 @@ dc.gordonsjewelers.com
 dc.jared.com
 dc.kay.com
 dc.kayoutlet.com
+dc.pagoda.com
 dc.peoplesjewellers.com
 dc.sterlingjewelers.com
 dc.stokke.com
@@ -240,6 +240,7 @@ ensighten.maurices.com
 ensighten.norton.com
 ensighten.postoffice.co.uk
 ensighten.safeauto.com
+ensighten.staging2.cedar.digital
 ensightenone.danskespil.dk
 ep.americanexpress.com
 fcone.demo-charitablegift.com

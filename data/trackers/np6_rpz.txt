@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -559,6 +559,7 @@ tr.infos-admissions.com CNAME .
 tr.infos.afpa.fr CNAME .
 tr.infos.allianz-trade.com CNAME .
 tr.infos.ariase.com CNAME .
+tr.infos.boursobank.info CNAME .
 tr.infos.enerplus-bordeaux.fr CNAME .
 tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
@@ -1052,7 +1053,6 @@ tr.schj.espmp-aufr.net CNAME .
 tr.scienceshumaines.info CNAME .
 tr.scienceshumaines.pro CNAME .
 tr.seat-fs-email.fr CNAME .
-tr.secretary.wfitn.org CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.service-client.mhdfrance.fr CNAME .
 tr.service.linxea.com CNAME .
@@ -1095,8 +1095,6 @@ tr.think.lvmh.fr CNAME .
 tr.thisiseurope.moethennessy.com CNAME .
 tr.tibo.espmp-nifr.net CNAME .
 tr.tns.harmonie-mutuelle.fr CNAME .
-tr.toner-service.fr CNAME .
-tr.toner-services.fr CNAME .
 tr.tonerservices.fr CNAME .
 tr.tourisme.visit-lanarbonnaise.com CNAME .
 tr.tpe.harmonie-mutuelle.fr CNAME .

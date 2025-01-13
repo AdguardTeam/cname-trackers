@@ -32,11 +32,15 @@
 | l.dna.fr | origin.non.li |
 | l.estrepublicain.fr | origin.non.li |
 | l.lalsace.fr | origin.non.li |
+| l.lalsace.fr | origin.non.li |
+| l.ledauphine.com | origin.non.li |
 | l.ledauphine.com | origin.non.li |
 | l.lejsl.com | origin.non.li |
-| l.leprogres.fr | origin.non.li |
+| l.lejsl.com | origin.non.li |
 | l.leprogres.fr | origin.non.li |
 | l.republicain-lorrain.fr | origin.non.li |
+| l.republicain-lorrain.fr | origin.non.li |
+| l.vosgesmatin.fr | origin.non.li |
 | l.vosgesmatin.fr | origin.non.li |
 | l.bienpublic.com | tls-ebra.non.li |
 | l.dna.fr | tls-ebra.non.li |
@@ -107,6 +111,7 @@
 | l.frandroid.com | tls.non.li |
 | l.gala.fr | tls.non.li |
 | l.gamekult.com | tls.non.li |
+| l.gamepro.de | tls.non.li |
 | l.gamesider.com | tls.non.li |
 | l.gentside.com | tls.non.li |
 | l.gentside.de | tls.non.li |
@@ -114,6 +119,7 @@
 | l.grazia.fr | tls.non.li |
 | l.harpersbazaar.fr | tls.non.li |
 | l.humanite.fr | tls.non.li |
+| l.ici.fr | tls.non.li |
 | l.jeuneafrique.com | tls.non.li |
 | l.jeuxvideo.com | tls.non.li |
 | l.journaldemillau.fr | tls.non.li |
@@ -183,6 +189,7 @@
 | l.topmusic.fr | tls.non.li |
 | l.topsante.com | tls.non.li |
 | l.touteleurope.eu | tls.non.li |
+| l.uppercutmma.com | tls.non.li |
 | l.voici.fr | tls.non.li |
 | l.zdnet.fr | tls.non.li |
 | prod-3.moarty.com | tls.non.li |

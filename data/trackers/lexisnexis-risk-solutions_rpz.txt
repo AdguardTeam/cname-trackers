@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
+afm.cnthevtmarkets.com CNAME .
 afm.infinox.com CNAME .
 afm.monetaindonesia.com CNAME .
 afm.monetamarkets.com CNAME .
@@ -245,7 +246,6 @@ content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
 content.b-social.io CNAME .
 content.bank-abc.com CNAME .
-content.bankerslife.com CNAME .
 content.bankoncit.com CNAME .
 content.benefitsaccess.org CNAME .
 content.berluti.com CNAME .
@@ -301,6 +301,7 @@ content.iddataweb.com CNAME .
 content.imagedepositgateway.com CNAME .
 content.incredit.pl CNAME .
 content.interaconline.com CNAME .
+content.ip4y.com.br CNAME .
 content.jackpotcitycasino.ca CNAME .
 content.knetbooks.com CNAME .
 content.koalafi.com CNAME .
@@ -382,7 +383,6 @@ content.tfbank.it CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
 content.vi.gov CNAME .
-content.washingtonnational.com CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
 content002.bet365.bet.br CNAME .
@@ -518,6 +518,7 @@ ela1.bankofscotland.co.uk CNAME .
 elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
 ep-content.patento.pl CNAME .
+ep-content.vivigo.pl CNAME .
 ep-content.vivus.pl CNAME .
 ep-content.zaplo.pl CNAME .
 ep.vystarcu.org CNAME .

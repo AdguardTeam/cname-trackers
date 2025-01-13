@@ -4,6 +4,7 @@
 
 * goatcounter.com
     * 45rpm-ch.goatcounter.com
+    * 50no.goatcounter.com
     * abdodaoud.goatcounter.com
     * abdoughnut.goatcounter.com
     * afirmation.goatcounter.com
@@ -11,6 +12,7 @@
     * apitman_com.goatcounter.com
     * artur.goatcounter.com
     * belak.goatcounter.com
+    * benjaminmorris.goatcounter.com
     * bkvn.goatcounter.com
     * blu3id-uk.goatcounter.com
     * boringproxy-io.goatcounter.com
@@ -22,6 +24,7 @@
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
     * codinggrace.goatcounter.com
+    * crosshair.goatcounter.com
     * d8a.goatcounter.com
     * dailies.goatcounter.com
     * dalinwilliams.goatcounter.com
@@ -35,6 +38,7 @@
     * elkobraas.goatcounter.com
     * embedx.goatcounter.com
     * enamya.goatcounter.com
+    * ewpratten.goatcounter.com
     * ferrybig.goatcounter.com
     * fieald.goatcounter.com
     * gamecraft.goatcounter.com
@@ -82,18 +86,18 @@
     * polluxcodes.goatcounter.com
     * psiyum.goatcounter.com
     * qrdate.goatcounter.com
-    * renit.goatcounter.com
+    * riccardomurachelli.goatcounter.com
     * riggraz.goatcounter.com
     * roalgo-arhiva-edu.goatcounter.com
     * rocketgoboom.goatcounter.com
     * ruzickap-github-io.goatcounter.com
     * ryanch.goatcounter.com
     * satanisk.goatcounter.com
+    * sebastianzehner.goatcounter.com
     * semipol.goatcounter.com
     * sharukhi.goatcounter.com
     * skeetstats.goatcounter.com
     * sofianlak.goatcounter.com
-    * stchris.goatcounter.com
     * storydragon.goatcounter.com
     * tailspace.goatcounter.com
     * tbx.goatcounter.com
@@ -121,6 +125,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | stats.45rpm.ch | 45rpm-ch.goatcounter.com |
+| a.50-nuances-octets.fr | 50no.goatcounter.com |
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.abdo.wtf | abdoughnut.goatcounter.com |
 | stats.afirmacijas.lv | afirmation.goatcounter.com |
@@ -128,6 +133,7 @@
 | stats.apitman.com | apitman_com.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | goat.belak.io | belak.goatcounter.com |
+| stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
 | stats.boringproxy.io | boringproxy-io.goatcounter.com |
@@ -139,6 +145,7 @@
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
+| stats.crosshair.dev | crosshair.goatcounter.com |
 | go.d8a.org | d8a.goatcounter.com |
 | trackerstats.davidthe.dev | dailies.goatcounter.com |
 | stats.dalinwilliams.com | dalinwilliams.goatcounter.com |
@@ -152,6 +159,7 @@
 | statistic.elkobraas.com | elkobraas.goatcounter.com |
 | pixel.embed.su | embedx.goatcounter.com |
 | gtcntr.enamya.me | enamya.goatcounter.com |
+| analytics.ewpratten.com | ewpratten.goatcounter.com |
 | analytics.ferrybig.me | ferrybig.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
@@ -199,18 +207,18 @@
 | stats.pollux.codes | polluxcodes.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
-| stats.renit.pl | renit.goatcounter.com |
+| stats.riccardomurachelli.it | riccardomurachelli.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.roalgo.ro | roalgo-arhiva-edu.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
 | stats-ruzickap-github-io.ruzicka.dev | ruzickap-github-io.goatcounter.com |
 | stats.ryanchmelir.com | ryanch.goatcounter.com |
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
+| stats.sebastianzehner.com | sebastianzehner.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
 | stats.sharukhi.xyz | sharukhi.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
 | stats.sofianlak.fr | sofianlak.goatcounter.com |
-| stats.stchris.net | stchris.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
 | gc.tbx.at | tbx.goatcounter.com |

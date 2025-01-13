@@ -8,8 +8,6 @@
     * h-107yrgnw.online-metrix.net
     * h-10kdwzzr.online-metrix.net
     * h-10mkgm4b.online-metrix.net
-    * h-11b6fun8-bl.online-metrix.net
-    * h-11b6fun8-wn.online-metrix.net
     * h-11b6fun8cno.online-metrix.net
     * h-12jodw87.online-metrix.net
     * h-14iyhddh.online-metrix.net
@@ -115,6 +113,7 @@
     * h-6mlhprq2.online-metrix.net
     * h-6r2adsk3.online-metrix.net
     * h-6rj18la4.online-metrix.net
+    * h-6v2be3y0.online-metrix.net
     * h-6voqock8.online-metrix.net
     * h-6wp7e261.online-metrix.net
     * h-6wvzx05q.online-metrix.net
@@ -798,8 +797,6 @@
 | aucrdtfrd.revolut.com | h-107yrgnw.online-metrix.net |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
 | partition.enterprise.com | h-10mkgm4b.online-metrix.net |
-| content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
-| content.washingtonnational.com | h-11b6fun8-wn.online-metrix.net |
 | content.mycno.com | h-11b6fun8cno.online-metrix.net |
 | cdna.tiranabank.al | h-12jodw87.online-metrix.net |
 | tmx.monzo.co.uk | h-14iyhddh.online-metrix.net |
@@ -949,6 +946,7 @@
 | content.midi.io | h-4f0drex6.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | ep-content.patento.pl | h-4iibpm7t.online-metrix.net |
+| ep-content.vivigo.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.vivus.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.zaplo.pl | h-4iibpm7t.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
@@ -1007,6 +1005,7 @@
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | myuw5.nj.gov | h-6r2adsk3.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
+| content.ip4y.com.br | h-6v2be3y0.online-metrix.net |
 | content.telusinternational.ai | h-6voqock8.online-metrix.net |
 | contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
 | pic.bankonline.ge | h-6wvzx05q.online-metrix.net |
@@ -1082,6 +1081,7 @@
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | afm.alphatick.com | h-96eziru5.online-metrix.net |
+| afm.cnthevtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.infinox.com | h-96eziru5.online-metrix.net |
 | afm.monetaindonesia.com | h-96eziru5.online-metrix.net |
 | afm.monetamarkets.com | h-96eziru5.online-metrix.net |

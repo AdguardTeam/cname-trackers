@@ -43,7 +43,6 @@
 ||affil.lesgoodies.com^
 ||affil.litinove-nadobi.cz^
 ||affil.lojdovale.cz^
-||affil.moringamix.cz^
 ||affil.mydrinks.cz^
 ||affil.nanoshop.cz^
 ||affil.nanospace.cz^
@@ -167,7 +166,6 @@
 ||affiliate.hanibal.cz^
 ||affiliate.herbadent.cz^
 ||affiliate.hokr.eu^
-||affiliate.horseandme.eu^
 ||affiliate.ihrelinsen.at^
 ||affiliate.inkytattoo.cz^
 ||affiliate.innone.cz^
@@ -201,6 +199,7 @@
 ||affiliate.licit.cz^
 ||affiliate.loveo.cz^
 ||affiliate.luxor.cz^
+||affiliate.malujememazlicky.cz^
 ||affiliate.marketingminer.com^
 ||affiliate.martinchudy.sk^
 ||affiliate.martinreznicek.cz^
@@ -307,6 +306,7 @@
 ||doporuc.necojakocola.cz^
 ||doporuc.promujdomov.cz^
 ||doporuc.skolaslava.cz^
+||doporuc.slevomat.cz^
 ||doporucim.zjistitcenu.cz^
 ||equilist.raj-ohlavek.cz^
 ||hcaffil.mironet.cz^
@@ -830,7 +830,6 @@
 ||partneri.jrc.cz^
 ||partneri.keramika-dum.cz^
 ||partneri.kerasek.cz^
-||partneri.kimgroup.cz^
 ||partneri.konverzacniklub.cz^
 ||partneri.korkie.cz^
 ||partneri.kuptorazdva.cz^

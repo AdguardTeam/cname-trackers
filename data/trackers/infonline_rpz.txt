@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -120,7 +120,6 @@ data-0d9eff53aa.kuhn-fachmedien.de CNAME .
 data-0dc128409f.watchtime.net CNAME .
 data-0e160b5dfc.apps.iocnt.de CNAME .
 data-0e1ca78ad4.rw-textilservice.de CNAME .
-data-0e6bbb5192.bibkat.de CNAME .
 data-0e6bbb5192.eopac.net CNAME .
 data-0e6bbb5192.lmscloud.net CNAME .
 data-0e974e9c43.mt.de CNAME .
@@ -270,7 +269,10 @@ data-1c0a3d83e3.transfermarkt.co.za CNAME .
 data-1c0a3d83e3.transfermarkt.com.br CNAME .
 data-1c0a3d83e3.transfermarkt.com.tr CNAME .
 data-1c0a3d83e3.transfermarkt.de CNAME .
+data-1c0a3d83e3.transfermarkt.fr CNAME .
 data-1c0a3d83e3.transfermarkt.it CNAME .
+data-1c0a3d83e3.transfermarkt.mx CNAME .
+data-1c0a3d83e3.transfermarkt.ru CNAME .
 data-1c70f16ae2.newsflix.at CNAME .
 data-1ce541951d.apps.iocnt.de CNAME .
 data-1ce6da1e66.diabetes-news.de CNAME .
@@ -491,6 +493,7 @@ data-3e886ae3e6.zaubertopf.de CNAME .
 data-3eff3aac07.kino-zeit.de CNAME .
 data-3f0062caa0.elektro.net CNAME .
 data-3f37694eeb.esports.com CNAME .
+data-3f8b797e45.stadtbuecherei-km.de CNAME .
 data-3f9c4f5eb9.automotive.at CNAME .
 data-3fb5262fad.unsersalzburg.at CNAME .
 data-40370dcf13.emsdettenervolkszeitung.de CNAME .
@@ -645,6 +648,7 @@ data-48bcc52851.wirtrauern.at CNAME .
 data-48d3085f82.hildesheimer-allgemeine.de CNAME .
 data-493270df85.laendle24.de CNAME .
 data-494b3b236f.goslarsche.de CNAME .
+data-497ecca600.erft-kurier.de CNAME .
 data-497ecca600.fupa.net CNAME .
 data-497ecca600.ga.de CNAME .
 data-497ecca600.moneyspecial.de CNAME .
@@ -860,6 +864,7 @@ data-60d896f23d.siegener-zeitung.de CNAME .
 data-60d896f23d.sn-online.de CNAME .
 data-60d896f23d.solinger-tageblatt.de CNAME .
 data-60d896f23d.sportbuzzer.de CNAME .
+data-60d896f23d.sz-auktion.de CNAME .
 data-60d896f23d.sz-jobs.de CNAME .
 data-60d896f23d.sz-trauer.de CNAME .
 data-60d896f23d.szlz.de CNAME .
@@ -926,6 +931,7 @@ data-67f17c94f0.herzberatung.de CNAME .
 data-67f17c94f0.lifeline.de CNAME .
 data-67f17c94f0.onmeda.de CNAME .
 data-67f17c94f0.scheidenpilz.com CNAME .
+data-67f17c94f0.special-harninkontinenz.de CNAME .
 data-67f17c94f0.special-rueckenschmerz.de CNAME .
 data-684c5faba8.okmag.de CNAME .
 data-686f12c8aa.regionaljobs.at CNAME .
@@ -940,6 +946,7 @@ data-6b5868992a.apps.iocnt.de CNAME .
 data-6c57a6137f.imsueden.de CNAME .
 data-6ccf929934.recovery-worldwide.com CNAME .
 data-6cfdf9f979.lebensmittelzeitung.net CNAME .
+data-6d6bae47f7.bibkat.de CNAME .
 data-6d6bae47f7.eopac.net CNAME .
 data-6dafa8d42f.desired.de CNAME .
 data-6dbef37a3c.apps.iocnt.de CNAME .
@@ -1231,6 +1238,7 @@ data-8ec206415a.kuenste-im-exil.de CNAME .
 data-8ec206415a.zdb-katalog.de CNAME .
 data-8eeb5d63be.gast.at CNAME .
 data-8f03f9dd42.spiegel.de CNAME .
+data-8f73761c5c.stadtbuecherei-dreieich.de CNAME .
 data-8f7660c51c.apps.iocnt.de CNAME .
 data-8f7f72a50d.vogue.de CNAME .
 data-8fae9ae422.apps.iocnt.de CNAME .
@@ -1247,6 +1255,7 @@ data-908fd409d9.herzberatung.de CNAME .
 data-908fd409d9.hoerzu.de CNAME .
 data-908fd409d9.hormontherapie-wechseljahre.de CNAME .
 data-908fd409d9.lifeline.de CNAME .
+data-908fd409d9.myself.de CNAME .
 data-908fd409d9.onmeda.de CNAME .
 data-908fd409d9.scheidenpilz.com CNAME .
 data-908fd409d9.special-harninkontinenz.de CNAME .
@@ -1331,6 +1340,7 @@ data-997fc825f1.murrhardter-zeitung.de CNAME .
 data-9a1d790604.maennersache.de CNAME .
 data-9a1ff0f093.apps.iocnt.de CNAME .
 data-9a326ab638.connect.de CNAME .
+data-9a3ec9cf52.moviepilot.de CNAME .
 data-9a84c04ecb.meintophotel.de CNAME .
 data-9aa5e80b66.super-illu.de CNAME .
 data-9aa5e80b66.superillu.de CNAME .
@@ -1418,6 +1428,7 @@ data-a0e53f0266.westjob.at CNAME .
 data-a0f0ae1310.gelbeseiten-schluesseldienst.de CNAME .
 data-a0f0ae1310.gelbeseiten.de CNAME .
 data-a0f0ae1310.goyellow.de CNAME .
+data-a113f4b41d.trucker.de CNAME .
 data-a114e51991.ikz.de CNAME .
 data-a1937ab7ea.materialfluss.de CNAME .
 data-a195367ecc.apps.iocnt.de CNAME .
@@ -1786,6 +1797,7 @@ data-cb2c174131.menshealth.de CNAME .
 data-cb62759f4c.rpr1.de CNAME .
 data-cb62759f4c.vereinsleben.de CNAME .
 data-cb6448e7d7.apps.iocnt.de CNAME .
+data-cb9194abee.bundeslaenderinnen.at CNAME .
 data-cb9b83f47f.t3n.de CNAME .
 data-cbafce2f20.apps.iocnt.de CNAME .
 data-cc10b861be.winbiap.de CNAME .
@@ -1856,8 +1868,10 @@ data-d4dfa4bc2c.focus.de CNAME .
 data-d4dfa4bc2c.weather.com CNAME .
 data-d4ecb517ab.cinema.de CNAME .
 data-d4ecb517ab.streampicker.de CNAME .
+data-d4ecb517ab.tv-spielfilm.de CNAME .
 data-d4ecb517ab.tvspielfilm.de CNAME .
 data-d4ecb517ab.tvtoday.de CNAME .
+data-d50538de89.5min.at CNAME .
 data-d50f71e18f.apps.iocnt.de CNAME .
 data-d53414767b.apps.iocnt.de CNAME .
 data-d543661da8.oe24.at CNAME .
@@ -1892,7 +1906,6 @@ data-d897c57edf.hausarzt.digital CNAME .
 data-d8a16b307b.eishockeynews.de CNAME .
 data-d8a16b307b.idowa.de CNAME .
 data-d9000a5626.apps.iocnt.de CNAME .
-data-d946a9c4a1.thueringen24.de CNAME .
 data-d98f082afe.dmax.de CNAME .
 data-d9c82db6b2.motor.at CNAME .
 data-da1d9cc48a.osthessen-news.de CNAME .
@@ -1959,6 +1972,7 @@ data-e3af19e759.apps.iocnt.de CNAME .
 data-e3d4300b49.sport.de CNAME .
 data-e3d4300b49.teleboerse.de CNAME .
 data-e44d38afc3.apps.iocnt.de CNAME .
+data-e47ac57521.immobilien26.de CNAME .
 data-e47ac57521.lokal26.de CNAME .
 data-e4997adf31.bilanz.de CNAME .
 data-e4997adf31.metal-hammer.de CNAME .
@@ -2270,6 +2284,7 @@ data-f8fea2d99e.staatsbibliothek-berlin.de CNAME .
 data-f943e74ec9.bz-berlin.de CNAME .
 data-f9b542cb96.apps.iocnt.de CNAME .
 data-fa2c5597f6.cavallo.de CNAME .
+data-fa2d848059.aachen-gedenkt.de CNAME .
 data-fa2d848059.aachener-zeitung.de CNAME .
 data-fa3432c50a.donaukurier.de CNAME .
 data-fa3432c50a.ingolstadt-today.de CNAME .

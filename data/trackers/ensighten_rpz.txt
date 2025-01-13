@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736150407730        ; Serial
+           1736755208296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -85,7 +85,6 @@ amex.activate.ensighten.com CNAME .
 analytics.amica.com CNAME .
 analytics.athome.com CNAME .
 analytics.carecredit.com CNAME .
-analytics.carecreditlearning.com CNAME .
 analytics.carecreditprovidercenter.com CNAME .
 analytics.ensighten.com CNAME .
 analytics.mysynchrony.com CNAME .
@@ -205,6 +204,7 @@ dc.gordonsjewelers.com CNAME .
 dc.jared.com CNAME .
 dc.kay.com CNAME .
 dc.kayoutlet.com CNAME .
+dc.pagoda.com CNAME .
 dc.peoplesjewellers.com CNAME .
 dc.sterlingjewelers.com CNAME .
 dc.stokke.com CNAME .
@@ -251,6 +251,7 @@ ensighten.maurices.com CNAME .
 ensighten.norton.com CNAME .
 ensighten.postoffice.co.uk CNAME .
 ensighten.safeauto.com CNAME .
+ensighten.staging2.cedar.digital CNAME .
 ensightenone.danskespil.dk CNAME .
 ep.americanexpress.com CNAME .
 fcone.demo-charitablegift.com CNAME .
