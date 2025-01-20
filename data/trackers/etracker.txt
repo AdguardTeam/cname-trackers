@@ -26,6 +26,7 @@
 ||et.lavita.com^
 ||et.majdic.at^
 ||et.pns24.de^
+||et.university-of-labour.de^
 ||etd.kramer-online.com^
 ||etd.wackerneusongroup.com^
 ||etd.weidemann.com^
@@ -95,6 +96,7 @@
 ||webcontr.jalousiescout.at^
 ||webcontr.l.de^
 ||webcontr.lmz-bw.de^
+||webcontr.patrick-wentzel.de^
 ||webcontr.pedalbox.com^
 ||webcontr.reisprinzen.de^
 ||webcontr.rollytoys.de^
@@ -111,13 +113,6 @@
 ||wurst.hausschlachtebedarf.de^
 ||wurst.leffis.de^
 ||esub.akkusys.de^
-||esub.akkusys.shop^
-||esub.autobatterie-markt.de^
-||esub.online-batterien.at^
-||esub.online-batterien.de^
-||esub.solarshopaustria.at^
-||esub.solarspeicher24.de^
-||esub.staplerbatterie.center^
 ||et.juskys.de^
 ||stats.bodenverkauf.de^
 ||stats.ekd.de^

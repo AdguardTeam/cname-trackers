@@ -13,6 +13,7 @@
 ||blackberry.basf.com^
 ||blackberry.suvinil.com.br^
 ||collect.aeonbank.co.jp^
+||collect.ansons.de^
 ||collect.asics.com^
 ||collect.calvinklein.at^
 ||collect.calvinklein.be^
@@ -23,6 +24,7 @@
 ||collect.calvinklein.cz^
 ||collect.calvinklein.de^
 ||collect.calvinklein.dk^
+||collect.calvinklein.ee^
 ||collect.calvinklein.es^
 ||collect.calvinklein.fi^
 ||collect.calvinklein.fr^
@@ -31,6 +33,7 @@
 ||collect.calvinklein.ie^
 ||collect.calvinklein.it^
 ||collect.calvinklein.lt^
+||collect.calvinklein.lu^
 ||collect.calvinklein.lv^
 ||collect.calvinklein.nl^
 ||collect.calvinklein.pl^
@@ -137,6 +140,7 @@
 ||tags.calvinklein.ie^
 ||tags.calvinklein.it^
 ||tags.calvinklein.lt^
+||tags.calvinklein.lu^
 ||tags.calvinklein.lv^
 ||tags.calvinklein.nl^
 ||tags.calvinklein.pl^
@@ -211,6 +215,7 @@
 ||tags.ozodlik.org^
 ||tags.partenamut.be^
 ||tags.pashtovoa.com^
+||tags.pepperl-fuchs.com^
 ||tags.pocruises.com.au^
 ||tags.programdashboard.com^
 ||tags.propertyfinder.ae^
@@ -230,6 +235,7 @@
 ||tags.resound.com^
 ||tags.rfa.org^
 ||tags.rferl.org^
+||tags.roberthalf.cn^
 ||tags.roberthalf.com^
 ||tags.ruta67.com^
 ||tags.sage.com^
@@ -240,6 +246,7 @@
 ||tags.shaw.ca^
 ||tags.shop.com^
 ||tags.sibreal.org^
+||tags.sixpad.jp^
 ||tags.slobodnaevropa.mk^
 ||tags.slobodnaevropa.org^
 ||tags.streampicker.de^
@@ -288,6 +295,7 @@
 ||tags.vodafone.pt^
 ||tags.votvot.tv^
 ||tags.vozdeamerica.com^
+||tags.wainao.me^
 ||tags.wnba.com^
 ||tags.zeriamerikes.com^
 ||tccd.douglas.at^
@@ -340,10 +348,12 @@
 ||tiq.esprit.us^
 ||tiq.espritshop.pl^
 ||tiq.linda.nl^
+||tiq.monash.edu^
 ||tiq.sunlife.com^
 ||tms-collect.sony.jp^
 ||tms-visitor-service.sony.jp^
 ||tms.ace.aaa.com^
+||tms.data.hsbc.com^
 ||tms.oracle.com^
 ||tms.tescomobile.com^
 ||tttd.douglas.at^
@@ -395,8 +405,3 @@
 ||webtags.logitech.com^
 ||webtags.logitechg.com^
 ||www.tags.kmart.com.au^
-||collect.ansons.de^
-||collect.calvinklein.ee^
-||collect.calvinklein.lu^
-||tags.calvinklein.lu^
-||tags.sixpad.jp^

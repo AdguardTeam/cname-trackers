@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -258,12 +258,12 @@ bear.datingrelationshipsadvice.com CNAME .
 bear.jake.nyc CNAME .
 bear.modulr.design CNAME .
 beaver.bluebunnypaper.com CNAME .
+beaver.brush.ninja CNAME .
 beaver.ecosecretariat.org CNAME .
 beaver.livechatlabs.com CNAME .
 bee.andreawhitmer.com CNAME .
 bee.farmaciavdg.com CNAME .
 bee.jbkmobiledj.com CNAME .
-bee.nfte.app CNAME .
 bee.shelveholidays.co.uk CNAME .
 beetle.enlacepermanente.es CNAME .
 bird.brondby.com CNAME .
@@ -326,7 +326,6 @@ cat.laravel-news.com CNAME .
 cat.mattr.global CNAME .
 cat.sprucely.net CNAME .
 cat.thisminute.app CNAME .
-cat.tinylittlebusinesses.com CNAME .
 caterpilla.ibon.live CNAME .
 catfish.lucalabs.com CNAME .
 catfish.phuclh.com CNAME .
@@ -434,7 +433,6 @@ donkey.elegantmusicgroup.com CNAME .
 donkey.guggenbichler.co.at CNAME .
 donkey.hackoregon.org CNAME .
 donkey.jackellis.me CNAME .
-donkey.masteringfinland.com CNAME .
 donkey.mrfrisby.com CNAME .
 dormouse.consentkit.com CNAME .
 dove.hoku.nz CNAME .
@@ -857,6 +855,7 @@ porpoise.numberzs.com CNAME .
 prairiedog.hashnode.com CNAME .
 prairiedog.thisismattsmith.com CNAME .
 prairiedog.xview.us CNAME .
+prawn.inchperfect.com CNAME .
 prawn.lionsmouth.digital CNAME .
 primate.logology.co CNAME .
 primate.oleggera.com CNAME .
@@ -1071,6 +1070,7 @@ vole.nettskaperne.no CNAME .
 vole.noteapps.info CNAME .
 vole.sonicrida.com CNAME .
 vole.tsttechnology.com CNAME .
+vulture.bettershore.com CNAME .
 vulture.lagosdesaliencia.com CNAME .
 wallaby.cron.help CNAME .
 wallaby.legendkeeper.com CNAME .
@@ -1132,6 +1132,7 @@ floorforce.streetinteractive.com CNAME .
 gemtun.ctnewsjunkie.com CNAME .
 images.decaturish.com CNAME .
 informed.belocalnwa.com CNAME .
+jobs.educationweekjobs.co.uk CNAME .
 kitt.tucsonsentinel.com CNAME .
 news.coveringkaty.com CNAME .
 ourtown.toledoparent.com CNAME .

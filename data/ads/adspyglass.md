@@ -4,11 +4,11 @@
 
 * 0i0i0i0.com
     * u50.0i0i0i0.com
+* u57.muzikguide.com
 
 ### Rarely active trackers
 
 * api.clickaine.com
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -66,6 +66,7 @@
 | a.aahen.site | 0i0i0i0.com |
 | a.aliposite.site | 0i0i0i0.com |
 | a.alony.site | 0i0i0i0.com |
+| a.amylo.site | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.atris.xyz | 0i0i0i0.com |
 | a.avrom.xyz | 0i0i0i0.com |
@@ -118,6 +119,7 @@
 | a.glovet.xyz | 0i0i0i0.com |
 | a.groox.xyz | 0i0i0i0.com |
 | a.gumon.site | 0i0i0i0.com |
+| a.gupload.xyz | 0i0i0i0.com |
 | a.gylor.xyz | 0i0i0i0.com |
 | a.hefim.site | 0i0i0i0.com |
 | a.hemyn.site | 0i0i0i0.com |
@@ -268,7 +270,6 @@
 | arabs.sexxarabxx.com | 0i0i0i0.com |
 | arabs.xn--mgbcvg3b0d2b.com | 0i0i0i0.com |
 | arabs.xn--ngbcrg3b.net | 0i0i0i0.com |
-| arabs.xn--ngboe5a6f.com | 0i0i0i0.com |
 | arabs.xn--ngbs7dg.net | 0i0i0i0.com |
 | arabss.arabxn.org | 0i0i0i0.com |
 | arakcdn.com | 0i0i0i0.com |
@@ -287,6 +288,7 @@
 | asg.animehdl.net | 0i0i0i0.com |
 | asg.aphex.me | 0i0i0i0.com |
 | asg.dormtapes.com | 0i0i0i0.com |
+| asg.earn150.com | 0i0i0i0.com |
 | asg.faperoni.com | 0i0i0i0.com |
 | asg.hornygrail.com | 0i0i0i0.com |
 | asg.irontube.net | 0i0i0i0.com |
@@ -306,9 +308,8 @@
 | asg.srvtax.com | 0i0i0i0.com |
 | asg.titdumps.com | 0i0i0i0.com |
 | asg.zzipps.com | 0i0i0i0.com |
-| asg1.hostsolutinns.com | 0i0i0i0.com |
+| asg1.hostadsmarkets.com | 0i0i0i0.com |
 | asg1.xueserverhost.com | 0i0i0i0.com |
-| asg2.hostsolutinns.com | 0i0i0i0.com |
 | asg2.xueserverhost.com | 0i0i0i0.com |
 | asgex.click | 0i0i0i0.com |
 | asn.banginterracial.com | 0i0i0i0.com |
@@ -556,7 +557,6 @@
 | gimmicked25.fun | 0i0i0i0.com |
 | gimmickry26.fun | 0i0i0i0.com |
 | givebacks25.fun | 0i0i0i0.com |
-| glass.rubyrevenue.com | 0i0i0i0.com |
 | globalize25.fun | 0i0i0i0.com |
 | go.ero-vtuber.com | 0i0i0i0.com |
 | goallbest.com | 0i0i0i0.com |
@@ -706,6 +706,7 @@
 | larasub.conxxx.pro | 0i0i0i0.com |
 | launch1266.fun | 0i0i0i0.com |
 | lengthjavgg124.fun | 0i0i0i0.com |
+| lentaopz.xyz | 0i0i0i0.com |
 | lewd.ws | 0i0i0i0.com |
 | lianzl.xyz | 0i0i0i0.com |
 | liracdn.com | 0i0i0i0.com |
@@ -779,6 +780,7 @@
 | my.infinitypixel.online | 0i0i0i0.com |
 | my.neogallery.xyz | 0i0i0i0.com |
 | my.pixelmuse.store | 0i0i0i0.com |
+| my.quantumcanvas.store | 0i0i0i0.com |
 | my.shymilftube.com | 0i0i0i0.com |
 | my.virtualbrush.site | 0i0i0i0.com |
 | my.vistaarts.site | 0i0i0i0.com |
@@ -805,6 +807,7 @@
 | nopetube.xn--mgbkt9eckr.net | 0i0i0i0.com |
 | notabl8.com | 0i0i0i0.com |
 | notonthebedsheets.com | 0i0i0i0.com |
+| now.plsgotoasg.com | 0i0i0i0.com |
 | nowaaint.xyz | 0i0i0i0.com |
 | npbvqqkpuele.cdnvideo3.com | 0i0i0i0.com |
 | nudapp.com | 0i0i0i0.com |
@@ -831,11 +834,11 @@
 | oj.lesbianbliss.com | 0i0i0i0.com |
 | ok.fapnow.xxx | 0i0i0i0.com |
 | ok.forwank.com | 0i0i0i0.com |
+| ok.transhero.com | 0i0i0i0.com |
 | okkodoo.com | 0i0i0i0.com |
 | oldsia.xyz | 0i0i0i0.com |
 | omission119.fun | 0i0i0i0.com |
 | onacao.com | 0i0i0i0.com |
-| ontj.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | organize3452.fun | 0i0i0i0.com |
 | origin1266.fun | 0i0i0i0.com |
@@ -967,6 +970,7 @@
 | s.bussyhunter.com | 0i0i0i0.com |
 | s.commissie.online | 0i0i0i0.com |
 | s.everydayporn.co | 0i0i0i0.com |
+| s.freeonlinegayporn.com | 0i0i0i0.com |
 | s.freeporncave.com | 0i0i0i0.com |
 | s.grova.buzz | 0i0i0i0.com |
 | s.grova.xyz | 0i0i0i0.com |
@@ -975,7 +979,6 @@
 | s.krivo.buzz | 0i0i0i0.com |
 | s.malay.buzz | 0i0i0i0.com |
 | s.oralblow.com | 0i0i0i0.com |
-| s.porndub.us | 0i0i0i0.com |
 | s.pornoshub.site | 0i0i0i0.com |
 | s.pornworld.pro | 0i0i0i0.com |
 | s.quedo.buzz | 0i0i0i0.com |
@@ -1211,5 +1214,17 @@
 | www.adxhand.name | u50.0i0i0i0.com |
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |
-| ontj.com | u53.hypnorat.com |
+| bestpornaction.com | u57.muzikguide.com |
+| coolpornaction.com | u57.muzikguide.com |
+| hotadultcontent.com | u57.muzikguide.com |
+| hotadultvids.com | u57.muzikguide.com |
+| hotpornaction.com | u57.muzikguide.com |
+| hotxxxcontent.com | u57.muzikguide.com |
+| hqpornpro.com | u57.muzikguide.com |
+| news.jennydanny.com | u57.muzikguide.com |
+| store4porn.com | u57.muzikguide.com |
+| topsexmovs.com | u57.muzikguide.com |
+| video.cdnako.com | u57.muzikguide.com |
+| www.bollyocean.com | u57.muzikguide.com |
+| www.monsoonlassi.com | u57.muzikguide.com |
+| wwww.bollyocean.com | u57.muzikguide.com |

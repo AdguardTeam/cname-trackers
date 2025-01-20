@@ -8,6 +8,8 @@
 ||analytics.ewpratten.com^
 ||analytics.ferrybig.me^
 ||analytics.law.cityofsanmateo.org^
+||analytics.law.mohican.com^
+||analytics.leespace.co^
 ||analytics.popov.link^
 ||analytics.riggraz.dev^
 ||analytics.yofbrc.com^
@@ -65,6 +67,7 @@
 ||stats.celerry.com^
 ||stats.cgcristi.xyz^
 ||stats.cloudflex.team^
+||stats.cloudnativebitcoin.org^
 ||stats.crosshair.dev^
 ||stats.dalinwilliams.com^
 ||stats.dandelion.computer^

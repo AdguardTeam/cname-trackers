@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -454,6 +454,7 @@ tr.group-appointments.lvmh.fr CNAME .
 tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
 tr.gtr.moethennessy.com CNAME .
+tr.guys.espmp-agfr.net CNAME .
 tr.gvbn.espmp-agfr.net CNAME .
 tr.haute-maurienne-vanoise.net CNAME .
 tr.hcahealthcare.co.uk CNAME .
@@ -567,6 +568,7 @@ tr.infos.lacarte.demenagez-moi.com CNAME .
 tr.infos.lettre-resiliation.com CNAME .
 tr.infos.mnt.fr CNAME .
 tr.infos.odalys-vacances.com CNAME .
+tr.infos.resilier.com CNAME .
 tr.inspiration.culture-data.fr CNAME .
 tr.interieur.cotemaison.fr CNAME .
 tr.interviews-mediametrie.fr CNAME .
@@ -604,6 +606,7 @@ tr.legrandjeu.boulanger.com CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.lesmarquesenviedebienmanger.fr CNAME .
 tr.lettre.dechets-infos.com CNAME .
+tr.lettre.durbanparticipations.com CNAME .
 tr.lettre.helianthal.fr CNAME .
 tr.lettre.lecho-circulaire.com CNAME .
 tr.leyravaud.devisdirect.com CNAME .
@@ -625,6 +628,7 @@ tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
 tr.mail.hagerservices.fr CNAME .
 tr.mail.koregraf.com CNAME .
+tr.mail.larmoiredespetits.com CNAME .
 tr.mail.mdbp.fr CNAME .
 tr.mail.moncoupdepouce.com CNAME .
 tr.mail.perial.info CNAME .
@@ -755,6 +759,7 @@ tr.news.cci-puydedome.com CNAME .
 tr.news.cdiscount.com CNAME .
 tr.news.cdiscountpro.com CNAME .
 tr.news.cenpac.fr CNAME .
+tr.news.ceoradio.tv CNAME .
 tr.news.cforadio.tv CNAME .
 tr.news.chapsvision.com CNAME .
 tr.news.chezmonveto.com CNAME .
@@ -900,7 +905,6 @@ tr.newsletter.actalians.fr CNAME .
 tr.newsletter.afpa.fr CNAME .
 tr.newsletter.assuragency.net CNAME .
 tr.newsletter.astro-mail.com CNAME .
-tr.newsletter.bassins-a-flot.fr CNAME .
 tr.newsletter.bauermedia.fr CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.bouygues.com CNAME .
@@ -1081,6 +1085,7 @@ tr.smtp1.email-mediapost.fr CNAME .
 tr.solendi.com CNAME .
 tr.solocal.espmp-aufr.net CNAME .
 tr.solution.uneo.fr CNAME .
+tr.sopr.espmp-agfr.net CNAME .
 tr.sorecson.fr CNAME .
 tr.sort.espmp-nifr.net CNAME .
 tr.souscription.floa.fr CNAME .
@@ -1150,6 +1155,7 @@ tr.videofutur.fr CNAME .
 tr.ville.bordeaux.fr CNAME .
 tr.voeux-wishes.ipsilon-ip.com CNAME .
 tr.voixduclient.harmonie-mutuelle.fr CNAME .
+tr.volkswagen-fs-mail.fr CNAME .
 tr.votrealarme.securitasdirect.fr CNAME .
 tr.vous.hellobank.fr CNAME .
 tr.wa.wordappeal.com CNAME .

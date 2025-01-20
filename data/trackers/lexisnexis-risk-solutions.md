@@ -104,6 +104,7 @@
     * h-69glwtrs.online-metrix.net
     * h-6a6y6kka.online-metrix.net
     * h-6bp8wff7.online-metrix.net
+    * h-6cre91n7.online-metrix.net
     * h-6do2934n.online-metrix.net
     * h-6e1hqgi3.online-metrix.net
     * h-6ej4o5iw.online-metrix.net
@@ -996,6 +997,7 @@
 | contents.healthfirst.org | h-69glwtrs.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | device.register.greenlight.com | h-6bp8wff7.online-metrix.net |
+| logln.bancoprimus.pt | h-6cre91n7.online-metrix.net |
 | secure-collector.zen.com | h-6do2934n.online-metrix.net |
 | tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
 | content.affinityfcu.com | h-6ej4o5iw.online-metrix.net |
@@ -1093,6 +1095,7 @@
 | afm.startrader.com | h-96eziru5.online-metrix.net |
 | afm.startrader.live | h-96eziru5.online-metrix.net |
 | afm.startraderfr.com | h-96eziru5.online-metrix.net |
+| afm.startraderjp.com | h-96eziru5.online-metrix.net |
 | afm.startradermy.com | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.asia | h-96eziru5.online-metrix.net |
@@ -1100,6 +1103,7 @@
 | afm.ultimamarketsglobal.com | h-96eziru5.online-metrix.net |
 | afm.ultimamkts.com | h-96eziru5.online-metrix.net |
 | afm.umtradings.com | h-96eziru5.online-metrix.net |
+| afm.umultima.hk | h-96eziru5.online-metrix.net |
 | afm.vantage-markets.com | h-96eziru5.online-metrix.net |
 | afm.vantagemarkets.co | h-96eziru5.online-metrix.net |
 | afm.vantagemarkets.co.uk | h-96eziru5.online-metrix.net |
@@ -1379,7 +1383,6 @@
 | content.bankoncit.com | h-citbank.online-metrix.net |
 | content.citbankapp.cit.com | h-citbank.online-metrix.net |
 | contentfd.directcapital.com | h-citcommercial.online-metrix.net |
-| img4.portaluat.citidirect.com | h-citi.vanity.online-metrix.net |
 | uatidentity4.citidirect.com | h-citi.vanity.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |

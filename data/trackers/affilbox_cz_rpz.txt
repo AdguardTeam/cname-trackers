@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -147,10 +147,12 @@ affiliate.easylingo.com CNAME .
 affiliate.easyproject.com CNAME .
 affiliate.easyproject.cz CNAME .
 affiliate.easyredmine.com CNAME .
+affiliate.easysoftware.com CNAME .
 affiliate.ehotel.cz CNAME .
 affiliate.elektronicke-vycvikove-obojky.com CNAME .
 affiliate.elektronickeobojkypropsy.cz CNAME .
 affiliate.elisdesign.cz CNAME .
+affiliate.elitedate.eu CNAME .
 affiliate.ellex.cz CNAME .
 affiliate.epohledavky.cz CNAME .
 affiliate.eros.sk CNAME .
@@ -562,6 +564,7 @@ partner.expresmenu.cz CNAME .
 partner.expresmenu.pl CNAME .
 partner.expresmenu.sk CNAME .
 partner.fabulo.sk CNAME .
+partner.ferratum.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
 partner.fitnessrevolucia.sk CNAME .
@@ -762,7 +765,6 @@ partner.virulent.cz CNAME .
 partner.vivabeauty.cz CNAME .
 partner.vladimirekart.cz CNAME .
 partner.volne-reality.cz CNAME .
-partner.vyprodejskladu.com CNAME .
 partner.webareal.cz CNAME .
 partner.webareal.sk CNAME .
 partner.webovkysusmevem.cz CNAME .
@@ -929,7 +931,6 @@ partneri.zburnik.cz CNAME .
 partneri.zdravy-zivotny-styl.sk CNAME .
 partneri.zdravykram.cz CNAME .
 partneri.zijchytre.cz CNAME .
-partneri.zkustenzvuk.cz CNAME .
 partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
 partners.duckferries.com CNAME .
@@ -989,6 +990,7 @@ spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
 spoluprace.vivobarefoot.cz CNAME .
 udrzitelny-nakup.mydlia.cz CNAME .
+udrzitelny-nakup.tierraverde.cz CNAME .
 vydelavejtesnami.pg.cz CNAME .
 www.affilbox.mironet.cz CNAME .
 www.affilo.cz CNAME .

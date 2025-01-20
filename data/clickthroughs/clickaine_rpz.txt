@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,6 +33,7 @@ asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 blabla.leakgallery.com CNAME .
 c0n.tubestash.com CNAME .
+c4n.anonimayzer.site CNAME .
 c4n.arcjav.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.hotjavmovies.com CNAME .

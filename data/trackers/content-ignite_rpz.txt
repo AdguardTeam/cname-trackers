@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ ast.welt.de CNAME .
 blackberry.basf.com CNAME .
 blackberry.suvinil.com.br CNAME .
 collect.aeonbank.co.jp CNAME .
+collect.ansons.de CNAME .
 collect.asics.com CNAME .
 collect.calvinklein.at CNAME .
 collect.calvinklein.be CNAME .
@@ -34,6 +35,7 @@ collect.calvinklein.com CNAME .
 collect.calvinklein.cz CNAME .
 collect.calvinklein.de CNAME .
 collect.calvinklein.dk CNAME .
+collect.calvinklein.ee CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
@@ -42,6 +44,7 @@ collect.calvinklein.hu CNAME .
 collect.calvinklein.ie CNAME .
 collect.calvinklein.it CNAME .
 collect.calvinklein.lt CNAME .
+collect.calvinklein.lu CNAME .
 collect.calvinklein.lv CNAME .
 collect.calvinklein.nl CNAME .
 collect.calvinklein.pl CNAME .
@@ -148,6 +151,7 @@ tags.calvinklein.hu CNAME .
 tags.calvinklein.ie CNAME .
 tags.calvinklein.it CNAME .
 tags.calvinklein.lt CNAME .
+tags.calvinklein.lu CNAME .
 tags.calvinklein.lv CNAME .
 tags.calvinklein.nl CNAME .
 tags.calvinklein.pl CNAME .
@@ -222,6 +226,7 @@ tags.ozodi.org CNAME .
 tags.ozodlik.org CNAME .
 tags.partenamut.be CNAME .
 tags.pashtovoa.com CNAME .
+tags.pepperl-fuchs.com CNAME .
 tags.pocruises.com.au CNAME .
 tags.programdashboard.com CNAME .
 tags.propertyfinder.ae CNAME .
@@ -241,6 +246,7 @@ tags.realestate.com.au CNAME .
 tags.resound.com CNAME .
 tags.rfa.org CNAME .
 tags.rferl.org CNAME .
+tags.roberthalf.cn CNAME .
 tags.roberthalf.com CNAME .
 tags.ruta67.com CNAME .
 tags.sage.com CNAME .
@@ -251,6 +257,7 @@ tags.severreal.org CNAME .
 tags.shaw.ca CNAME .
 tags.shop.com CNAME .
 tags.sibreal.org CNAME .
+tags.sixpad.jp CNAME .
 tags.slobodnaevropa.mk CNAME .
 tags.slobodnaevropa.org CNAME .
 tags.streampicker.de CNAME .
@@ -299,6 +306,7 @@ tags.voazimbabwe.com CNAME .
 tags.vodafone.pt CNAME .
 tags.votvot.tv CNAME .
 tags.vozdeamerica.com CNAME .
+tags.wainao.me CNAME .
 tags.wnba.com CNAME .
 tags.zeriamerikes.com CNAME .
 tccd.douglas.at CNAME .
@@ -351,10 +359,12 @@ tiq.esprit.hk CNAME .
 tiq.esprit.us CNAME .
 tiq.espritshop.pl CNAME .
 tiq.linda.nl CNAME .
+tiq.monash.edu CNAME .
 tiq.sunlife.com CNAME .
 tms-collect.sony.jp CNAME .
 tms-visitor-service.sony.jp CNAME .
 tms.ace.aaa.com CNAME .
+tms.data.hsbc.com CNAME .
 tms.oracle.com CNAME .
 tms.tescomobile.com CNAME .
 tttd.douglas.at CNAME .
@@ -406,8 +416,3 @@ vtd.vontobelsfa.com CNAME .
 webtags.logitech.com CNAME .
 webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
-collect.ansons.de CNAME .
-collect.calvinklein.ee CNAME .
-collect.calvinklein.lu CNAME .
-tags.calvinklein.lu CNAME .
-tags.sixpad.jp CNAME .

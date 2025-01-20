@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,6 +63,7 @@ a.1film.to CNAME .
 a.aahen.site CNAME .
 a.aliposite.site CNAME .
 a.alony.site CNAME .
+a.amylo.site CNAME .
 a.antiadxxxspy.com CNAME .
 a.atris.xyz CNAME .
 a.avrom.xyz CNAME .
@@ -115,6 +116,7 @@ a.gemen.site CNAME .
 a.glovet.xyz CNAME .
 a.groox.xyz CNAME .
 a.gumon.site CNAME .
+a.gupload.xyz CNAME .
 a.gylor.xyz CNAME .
 a.hefim.site CNAME .
 a.hemyn.site CNAME .
@@ -271,7 +273,6 @@ arabs.sexarbda.com CNAME .
 arabs.sexxarabxx.com CNAME .
 arabs.xn--mgbcvg3b0d2b.com CNAME .
 arabs.xn--ngbcrg3b.net CNAME .
-arabs.xn--ngboe5a6f.com CNAME .
 arabs.xn--ngbs7dg.net CNAME .
 arabss.arabxn.org CNAME .
 arakcdn.com CNAME .
@@ -290,6 +291,7 @@ asdf.eldos.xyz CNAME .
 asg.animehdl.net CNAME .
 asg.aphex.me CNAME .
 asg.dormtapes.com CNAME .
+asg.earn150.com CNAME .
 asg.faperoni.com CNAME .
 asg.hornygrail.com CNAME .
 asg.irontube.net CNAME .
@@ -309,9 +311,8 @@ asg.soundrussian.com CNAME .
 asg.srvtax.com CNAME .
 asg.titdumps.com CNAME .
 asg.zzipps.com CNAME .
-asg1.hostsolutinns.com CNAME .
+asg1.hostadsmarkets.com CNAME .
 asg1.xueserverhost.com CNAME .
-asg2.hostsolutinns.com CNAME .
 asg2.xueserverhost.com CNAME .
 asgex.click CNAME .
 asn.banginterracial.com CNAME .
@@ -559,7 +560,6 @@ gigahertz24.fun CNAME .
 gimmicked25.fun CNAME .
 gimmickry26.fun CNAME .
 givebacks25.fun CNAME .
-glass.rubyrevenue.com CNAME .
 globalize25.fun CNAME .
 go.ero-vtuber.com CNAME .
 go.showmeyouradsnow.com CNAME .
@@ -711,6 +711,7 @@ labourjavgg124.fun CNAME .
 larasub.conxxx.pro CNAME .
 launch1266.fun CNAME .
 lengthjavgg124.fun CNAME .
+lentaopz.xyz CNAME .
 lewd.ws CNAME .
 lianzl.xyz CNAME .
 liracdn.com CNAME .
@@ -785,6 +786,7 @@ my.etherart.online CNAME .
 my.infinitypixel.online CNAME .
 my.neogallery.xyz CNAME .
 my.pixelmuse.store CNAME .
+my.quantumcanvas.store CNAME .
 my.shymilftube.com CNAME .
 my.virtualbrush.site CNAME .
 my.vistaarts.site CNAME .
@@ -811,6 +813,7 @@ nope.xn--ygba1c.wtf CNAME .
 nopetube.xn--mgbkt9eckr.net CNAME .
 notabl8.com CNAME .
 notonthebedsheets.com CNAME .
+now.plsgotoasg.com CNAME .
 nowaaint.xyz CNAME .
 npbvqqkpuele.cdnvideo3.com CNAME .
 nudapp.com CNAME .
@@ -837,11 +840,11 @@ oj.fapnow.xxx CNAME .
 oj.lesbianbliss.com CNAME .
 ok.fapnow.xxx CNAME .
 ok.forwank.com CNAME .
+ok.transhero.com CNAME .
 okkodoo.com CNAME .
 oldsia.xyz CNAME .
 omission119.fun CNAME .
 onacao.com CNAME .
-ontj.com CNAME .
 opus.sexyxxx.biz CNAME .
 organize3452.fun CNAME .
 origin1266.fun CNAME .
@@ -973,6 +976,7 @@ s.brada.buzz CNAME .
 s.bussyhunter.com CNAME .
 s.commissie.online CNAME .
 s.everydayporn.co CNAME .
+s.freeonlinegayporn.com CNAME .
 s.freeporncave.com CNAME .
 s.grova.buzz CNAME .
 s.grova.xyz CNAME .
@@ -981,7 +985,6 @@ s.isoporno.com CNAME .
 s.krivo.buzz CNAME .
 s.malay.buzz CNAME .
 s.oralblow.com CNAME .
-s.porndub.us CNAME .
 s.pornoshub.site CNAME .
 s.pornworld.pro CNAME .
 s.quedo.buzz CNAME .
@@ -1207,4 +1210,18 @@ zi3nna.xyz CNAME .
 zrakos.com CNAME .
 zudvl.com CNAME .
 zv.7vid.net CNAME .
+bestpornaction.com CNAME .
+coolpornaction.com CNAME .
+hotadultcontent.com CNAME .
+hotadultvids.com CNAME .
+hotpornaction.com CNAME .
+hotxxxcontent.com CNAME .
+hqpornpro.com CNAME .
+news.jennydanny.com CNAME .
+store4porn.com CNAME .
+topsexmovs.com CNAME .
+video.cdnako.com CNAME .
+www.bollyocean.com CNAME .
+www.monsoonlassi.com CNAME .
+wwww.bollyocean.com CNAME .
 ad.desibp.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,17 +11,38 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+www.01045395.xyz CNAME .
 www.05454674.xyz CNAME .
 www.07421283.xyz CNAME .
+www.08f8f073.xyz CNAME .
 www.10288299.xyz CNAME .
+www.16972675.xyz CNAME .
+www.19009143.xyz CNAME .
 www.19706903.xyz CNAME .
 www.224cc86d.xyz CNAME .
+www.33862684.xyz CNAME .
+www.38167473.xyz CNAME .
+www.40451343.xyz CNAME .
 www.45496fee.xyz CNAME .
+www.47235645.xyz CNAME .
 www.59768910.xyz CNAME .
+www.656f1ba3.xyz CNAME .
+www.72075223.xyz CNAME .
 www.77886044.xyz CNAME .
+www.78847798.xyz CNAME .
 www.79180284.xyz CNAME .
 www.79893962.xyz CNAME .
 www.83761158.xyz CNAME .
 www.8eef59a5.live CNAME .
+www.a908a849.xyz CNAME .
+www.b0f2f18e.xyz CNAME .
+www.b1181fb1.site CNAME .
+www.b395bfcd.xyz CNAME .
+www.bc0ca74b.live CNAME .
 www.bdec1f37.xyz CNAME .
+www.ca9246.xyz CNAME .
 www.dcad1d97.xyz CNAME .
+www.e076.xyz CNAME .
+www.e8e2063b.xyz CNAME .
+www.ea6c0ac4.xyz CNAME .
+www.f54cd504.xyz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ et.goal-based.investments CNAME .
 et.lavita.com CNAME .
 et.majdic.at CNAME .
 et.pns24.de CNAME .
+et.university-of-labour.de CNAME .
 etd.kramer-online.com CNAME .
 etd.wackerneusongroup.com CNAME .
 etd.weidemann.com CNAME .
@@ -106,6 +107,7 @@ webcontr.ib-kc.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.l.de CNAME .
 webcontr.lmz-bw.de CNAME .
+webcontr.patrick-wentzel.de CNAME .
 webcontr.pedalbox.com CNAME .
 webcontr.reisprinzen.de CNAME .
 webcontr.rollytoys.de CNAME .
@@ -122,13 +124,6 @@ wt.leitz.org CNAME .
 wurst.hausschlachtebedarf.de CNAME .
 wurst.leffis.de CNAME .
 esub.akkusys.de CNAME .
-esub.akkusys.shop CNAME .
-esub.autobatterie-markt.de CNAME .
-esub.online-batterien.at CNAME .
-esub.online-batterien.de CNAME .
-esub.solarshopaustria.at CNAME .
-esub.solarspeicher24.de CNAME .
-esub.staplerbatterie.center CNAME .
 et.juskys.de CNAME .
 stats.bodenverkauf.de CNAME .
 stats.ekd.de CNAME .

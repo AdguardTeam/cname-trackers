@@ -15,6 +15,7 @@
 | ---- | ---- |
 | a-api.skz.dev | custom.plausible.io |
 | a.linkz.ai | custom.plausible.io |
+| aloha.getoperand.com | custom.plausible.io |
 | also.greatsecuritydebate.net | custom.plausible.io |
 | an.xavierrosee.com | custom.plausible.io |
 | analytics.adam.page | custom.plausible.io |
@@ -160,7 +161,6 @@
 | pl.mynorthstarapp.com | custom.plausible.io |
 | pl.terraintinker.com | custom.plausible.io |
 | pl.venusafe.com | custom.plausible.io |
-| pl.volunteeringhb.org.nz | custom.plausible.io |
 | pla.wigglepixel.nl | custom.plausible.io |
 | plan.devbyexample.com | custom.plausible.io |
 | plans.fundtherebuild.com | custom.plausible.io |
@@ -576,7 +576,6 @@
 | stats.jjude.com | custom.plausible.io |
 | stats.joaopedro.dev | custom.plausible.io |
 | stats.jsbible.com | custom.plausible.io |
-| stats.jtrees.io | custom.plausible.io |
 | stats.jun-etan.com | custom.plausible.io |
 | stats.justinwilliams.ca | custom.plausible.io |
 | stats.kaladyaudiology.com | custom.plausible.io |
@@ -657,6 +656,7 @@
 | stats.mrtnvh.com | custom.plausible.io |
 | stats.multiplelenses.com | custom.plausible.io |
 | stats.multiply.cloud | custom.plausible.io |
+| stats.murrayhometextiles.ie | custom.plausible.io |
 | stats.myherocard.com | custom.plausible.io |
 | stats.napaconnect.ca | custom.plausible.io |
 | stats.navedislam.com | custom.plausible.io |
@@ -848,9 +848,11 @@
 | stats.useeffect.dev | custom.plausible.io |
 | stats.uxtools.co | custom.plausible.io |
 | stats.v4.agirpourlenvironnement.org | custom.plausible.io |
+| stats.vallery.store | custom.plausible.io |
 | stats.vanityprojects.com | custom.plausible.io |
 | stats.vdsnow.ru | custom.plausible.io |
 | stats.vican.me | custom.plausible.io |
+| stats.vinkkaa.fi | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |
 | stats.voltimum.com | custom.plausible.io |
 | stats.wachstum.at | custom.plausible.io |

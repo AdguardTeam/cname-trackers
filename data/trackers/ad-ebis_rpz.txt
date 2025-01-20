@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -190,7 +190,6 @@ cs2087sbeda.manage-tempstaffing.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
 cv-adebis.my-studies.net CNAME .
 cv-adebis.nlpjapan.co.jp CNAME .
-cvs.kireimo.jp CNAME .
 d-kint.d-kintetsu.co.jp CNAME .
 digital.anicom-sompo.co.jp CNAME .
 eb.bewithyou.jp CNAME .
@@ -291,6 +290,7 @@ ebisfracora.fracora.com CNAME .
 ebisfracora.like.jp CNAME .
 ebisstore.tamagokichi.com CNAME .
 ebistoppan1.kyowahakko-bio-campaign-1.com CNAME .
+ebistoppan2.10nengenki.com CNAME .
 emc.dr-stick.shop CNAME .
 euglism.euglenaone.jp CNAME .
 frontierconsul02.tsunagaru-office.com CNAME .

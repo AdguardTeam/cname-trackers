@@ -81,6 +81,7 @@
 ||337643a00f.8e403e6714.com^
 ||34141a11eb.59fb4bffe0.com^
 ||3526ef6930.6e28e6bf7e.com^
+||357ceb3cef.289537e8c0.com^
 ||37bb2a34af.05c09b357d.com^
 ||38ab1a2189.81ad09b8ab.com^
 ||38f4121674.4f03644ab8.com^
@@ -112,6 +113,7 @@
 ||4d2c79d385.cec741d143.com^
 ||4d93255c75.70cf68d2ed.com^
 ||4de392ba1b.172c47da4d.com^
+||4e58ef526f.aa7a70aa38.com^
 ||4eea23ee25.cff913e5b4.com^
 ||4f1c8cf090.138b1541c6.com^
 ||4f731442e8.f27386cec2.com^
@@ -123,6 +125,7 @@
 ||556b7878f9.fdc02736b4.com^
 ||582f10131d.0b1f9d356f.com^
 ||5840be6951.ba5704d33b.com^
+||5953096a4b.d76cd1b5fb.com^
 ||5ab42d746f.57a52161ff.com^
 ||5ace42af7e.e2d79d2c74.com^
 ||5b9bc72dc8.53ebf10be3.com^
@@ -200,6 +203,8 @@
 ||8b9cf751fc.e00623c9a6.com^
 ||8c3ebbe6d3.0c9747d501.com^
 ||8c91443955.6ec0a61a52.com^
+||8d4bbdfb6f.461a49d04c.com^
+||8daf90335f.6f825cf9f5.com^
 ||8df7efe7c9.af2feff0f9.com^
 ||8e38fd0315.72ae065d7f.com^
 ||8f33cfa4f5.2adc6faaa1.com^
@@ -268,6 +273,7 @@
 ||bb1573a84f.984b3c5501.com^
 ||bbf15b57a2.42dbd09587.com^
 ||be69a981ad.a5bc535601.com^
+||bed6c3dbc7.c7b6f80a62.com^
 ||bf69d06a0a.1d9d606c74.com^
 ||bf8d745387.77f02948e0.com^
 ||c089e9d9e7.01b491026c.com^
@@ -293,6 +299,7 @@
 ||cf9fba9e00.d3089f6c34.com^
 ||d011b1c7bf.09222d3e04.com^
 ||d2495c1a07.7e4eb2b5eb.com^
+||d263c5431c.1e3afdea62.com^
 ||d2a500bd5e.87b7754886.com^
 ||d3f013ea52.895c67da73.com^
 ||d4d1547cd0.80896e4695.com^
@@ -359,26 +366,24 @@
 ||fc5f6008bc.6006833376.com^
 ||fdd5c91116.606b85787b.com^
 ||i.selecttopoff.com^
-||i.statelinear.com^
 ||a135.wftv.com^
-||a235.seattlepi.com^
-||a614.mlive.com^
-||a614.oregonlive.com^
+||mlive.share.ntv.io^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
-||sonomamag.share.ntv.io^
 ||651a584f5e.6c078023c1.com^
 ||a135.fox23.com^
 ||a135.wpxi.com^
 ||a135.wsoctv.com^
+||a614.mlive.com^
 ||a614.nj.com^
+||a614.oregonlive.com^
 ||a614.pennlive.com^
 ||a614.syracuse.com^
 ||ajc.share.ntv.io^
-||mlive.share.ntv.io^
 ||nj.finegardening.com^
 ||pressdemocrat.share.ntv.io^
 ||silive.share.ntv.io^
+||sonomamag.share.ntv.io^
 ||tastingtable.share.ntv.io^
 ||a235.beaumontenterprise.com^
 ||a235.chron.com^
@@ -397,6 +402,7 @@
 ||a235.nhregister.com^
 ||a235.ourmidland.com^
 ||a235.registercitizen.com^
+||a235.seattlepi.com^
 ||a235.sfchronicle.com^
 ||a235.sfgate.com^
 ||a235.stamfordadvocate.com^

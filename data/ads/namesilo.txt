@@ -619,6 +619,7 @@
 ||3572281.notifysrv.com^
 ||3572283.notifysrv.com^
 ||3572285.notifysrv.com^
+||3572291.notify6.com^
 ||3572293.notifysrv.com^
 ||3572295.notify6.com^
 ||3572299.notify6.com^
@@ -698,6 +699,7 @@
 ||3619313.notifysrv.com^
 ||3621331.notifysrv.com^
 ||3621333.notifysrv.com^
+||3621607.notifysrv.com^
 ||3622691.notify6.com^
 ||3622827.notify6.com^
 ||3629687.notify6.com^
@@ -778,9 +780,11 @@
 ||3749331.notify6.com^
 ||3752469.notifysrv.com^
 ||3756889.notifysrv.com^
+||3762001.notifysrv.com^
 ||3767411.notify6.com^
 ||3768747.notify6.com^
 ||3768747.notifysrv.com^
+||3771491.notify6.com^
 ||3775247.notifysrv.com^
 ||3783121.notify6.com^
 ||3783123.notifysrv.com^
@@ -854,6 +858,7 @@
 ||3935380.notify6.com^
 ||3935570.notify6.com^
 ||3935618.notify6.com^
+||3935626.notify6.com^
 ||3937625.notify6.com^
 ||3938193.notify6.com^
 ||3938711.notify6.com^
@@ -1310,11 +1315,13 @@
 ||s.ds3jbr.com^
 ||s.ds6ulg.com^
 ||s.ds7eji.com^
+||s.ds8wql.com^
 ||s.eaalink.com^
 ||s.elink2b.com^
 ||s.elink2c.com^
 ||s.elink3w.com^
 ||s.elink3x.com^
+||s.eln14e.com^
 ||s.elna1v.com^
 ||s.elna1w.com^
 ||s.elna1x.com^
@@ -1343,6 +1350,7 @@
 ||s.elnn24.com^
 ||s.elnn26.com^
 ||s.elnp11.com^
+||s.elnp12.com^
 ||s.elnr14.com^
 ||s.elnr15.com^
 ||s.elnr16.com^
@@ -1498,6 +1506,7 @@
 ||www.3328380.notifysrv.com^
 ||www.3328398.notifysrv.com^
 ||www.3345712.notify6.com^
+||www.3346174.notify6.com^
 ||www.3351072.notifysrv.com^
 ||www.3352256.notify6.com^
 ||www.3389741.notify6.com^

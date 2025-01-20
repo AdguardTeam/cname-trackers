@@ -119,6 +119,7 @@
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
 ||img.foodspring.at^
+||img.foodspring.be^
 ||img.foodspring.ch^
 ||img.foodspring.co.uk^
 ||img.foodspring.cz^
@@ -139,6 +140,7 @@
 ||info.genialklick.ch^
 ||info.klett-international.com^
 ||info.klett-sprachen.de^
+||info.klett-sprachen.es^
 ||intel.web.noleggiare.it^
 ||intelligence.officialwesthamstore.com^
 ||joda.corriereadriatico.it^
@@ -278,6 +280,7 @@
 ||web.email.mishimoto.co.uk^
 ||web.email.mishimoto.com^
 ||web.email.mishimoto.eu^
+||web.email.parkcameras.com^
 ||web.email.pizzaexpress.com^
 ||web.email.superga.co.uk^
 ||web.email.topfarmacia.it^
@@ -371,6 +374,7 @@
 ||web.tummytox.it^
 ||web.tummytox.pt^
 ||web.tummytox.sk^
+||web.update.sandiego.org^
 ||web.updates.ditano.com^
 ||web.usautosupply.com^
 ||web.web.tomasiauto.com^

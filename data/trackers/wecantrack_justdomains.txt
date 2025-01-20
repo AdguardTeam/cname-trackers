@@ -1,5 +1,6 @@
 #
 # Company name: Wecantrack
+api.a-kasse-guiden.dk
 api.datinghelp.dk
 api.datingxperten.de
 api.eltjek24.dk

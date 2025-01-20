@@ -179,7 +179,6 @@ cs2087sbeda.manage-tempstaffing.net
 cs2113sbeda.hokto-onlineshop.jp
 cv-adebis.my-studies.net
 cv-adebis.nlpjapan.co.jp
-cvs.kireimo.jp
 d-kint.d-kintetsu.co.jp
 digital.anicom-sompo.co.jp
 eb.bewithyou.jp
@@ -280,6 +279,7 @@ ebisfracora.fracora.com
 ebisfracora.like.jp
 ebisstore.tamagokichi.com
 ebistoppan1.kyowahakko-bio-campaign-1.com
+ebistoppan2.10nengenki.com
 emc.dr-stick.shop
 euglism.euglenaone.jp
 frontierconsul02.tsunagaru-office.com

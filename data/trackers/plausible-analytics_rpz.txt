@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 a-api.skz.dev CNAME .
 a.linkz.ai CNAME .
+aloha.getoperand.com CNAME .
 also.greatsecuritydebate.net CNAME .
 an.xavierrosee.com CNAME .
 analytics.adam.page CNAME .
@@ -158,7 +159,6 @@ pl.maya-astro.fi CNAME .
 pl.mynorthstarapp.com CNAME .
 pl.terraintinker.com CNAME .
 pl.venusafe.com CNAME .
-pl.volunteeringhb.org.nz CNAME .
 pla.wigglepixel.nl CNAME .
 plan.devbyexample.com CNAME .
 plans.fundtherebuild.com CNAME .
@@ -574,7 +574,6 @@ stats.jhsheridan.com CNAME .
 stats.jjude.com CNAME .
 stats.joaopedro.dev CNAME .
 stats.jsbible.com CNAME .
-stats.jtrees.io CNAME .
 stats.jun-etan.com CNAME .
 stats.justinwilliams.ca CNAME .
 stats.kaladyaudiology.com CNAME .
@@ -655,6 +654,7 @@ stats.motorcyclepartsireland.ie CNAME .
 stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
 stats.multiply.cloud CNAME .
+stats.murrayhometextiles.ie CNAME .
 stats.myherocard.com CNAME .
 stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
@@ -846,9 +846,11 @@ stats.urlaubsverwaltung.cloud CNAME .
 stats.useeffect.dev CNAME .
 stats.uxtools.co CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
+stats.vallery.store CNAME .
 stats.vanityprojects.com CNAME .
 stats.vdsnow.ru CNAME .
 stats.vican.me CNAME .
+stats.vinkkaa.fi CNAME .
 stats.visions.ch CNAME .
 stats.voltimum.com CNAME .
 stats.wachstum.at CNAME .

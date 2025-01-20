@@ -46,6 +46,7 @@ l.doctissimo.fr
 l.dzfoot.com
 l.easyvoyage.com
 l.enfant.com
+l.enfemenino.com
 l.entrenous.fr
 l.equidia.fr
 l.estrepublicain.fr
@@ -138,6 +139,7 @@ l.republicain-lorrain.fr
 l.rmc.fr
 l.rmcsport.fr
 l.roole.fr
+l.rtl.fr
 l.science-et-vie.com
 l.sciencesetavenir.fr
 l.sportauto.fr

@@ -19,6 +19,7 @@
 | tmi.jv-telcoid.es | frontend.prod.utiq-aws.net |
 | tmi.vodafone.de | frontend.prod.utiq-aws.net |
 | u.20mn.it | frontend.prod.utiq-aws.net |
+| utiq.11freunde.de | frontend.prod.utiq-aws.net |
 | utiq.20minutos.es | frontend.prod.utiq-aws.net |
 | utiq.24auto.de | frontend.prod.utiq-aws.net |
 | utiq.24books.de | frontend.prod.utiq-aws.net |
@@ -45,6 +46,7 @@
 | utiq.automobile-magazine.fr | frontend.prod.utiq-aws.net |
 | utiq.autoplus.fr | frontend.prod.utiq-aws.net |
 | utiq.az-online.de | frontend.prod.utiq-aws.net |
+| utiq.berlin-live.de | frontend.prod.utiq-aws.net |
 | utiq.bfmtv.com | frontend.prod.utiq-aws.net |
 | utiq.bibamagazine.fr | frontend.prod.utiq-aws.net |
 | utiq.bild.de | frontend.prod.utiq-aws.net |
@@ -177,6 +179,7 @@
 | utiq.lavoixdunord.fr | frontend.prod.utiq-aws.net |
 | utiq.lavozdigital.es | frontend.prod.utiq-aws.net |
 | utiq.le10sport.com | frontend.prod.utiq-aws.net |
+| utiq.lebenindeutschland.eu | frontend.prod.utiq-aws.net |
 | utiq.lefigaro.fr | frontend.prod.utiq-aws.net |
 | utiq.lejournaldelamaison.fr | frontend.prod.utiq-aws.net |
 | utiq.lemessager.fr | frontend.prod.utiq-aws.net |
@@ -234,6 +237,8 @@
 | utiq.petitbleu.fr | frontend.prod.utiq-aws.net |
 | utiq.pleinevie.fr | frontend.prod.utiq-aws.net |
 | utiq.pnp.de | frontend.prod.utiq-aws.net |
+| utiq.poprosa.com | frontend.prod.utiq-aws.net |
+| utiq.programme-tv.net | frontend.prod.utiq-aws.net |
 | utiq.programme.tv | frontend.prod.utiq-aws.net |
 | utiq.psychologies.com | frontend.prod.utiq-aws.net |
 | utiq.purebreak.com | frontend.prod.utiq-aws.net |

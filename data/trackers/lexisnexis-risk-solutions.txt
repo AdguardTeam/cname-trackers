@@ -18,6 +18,7 @@
 ||afm.startrader.com^
 ||afm.startrader.live^
 ||afm.startraderfr.com^
+||afm.startraderjp.com^
 ||afm.startradermy.com^
 ||afm.sthub.cc^
 ||afm.ultimamarkets.asia^
@@ -25,6 +26,7 @@
 ||afm.ultimamarketsglobal.com^
 ||afm.ultimamkts.com^
 ||afm.umtradings.com^
+||afm.umultima.hk^
 ||afm.vantage-markets.com^
 ||afm.vantagemarkets.co^
 ||afm.vantagemarkets.co.uk^
@@ -609,7 +611,6 @@
 ||img4.cargurus.com^
 ||img4.nbpa.com^
 ||img4.portal.citidirect.com^
-||img4.portaluat.citidirect.com^
 ||img4.uscellular.com^
 ||img9.target.com^
 ||imgcdn.genworth.com^
@@ -658,6 +659,7 @@
 ||log.scanmypost.co.uk^
 ||login-verification.dol.ct.gov^
 ||login.eki-net.com^
+||logln.bancoprimus.pt^
 ||loyaltyprogram.latam.com^
 ||loyaltyprogram.latamairlines.com^
 ||ls-dp.nj.thelotter.us^

@@ -180,6 +180,7 @@
     * boden-de.extole.io
     * boden-fr.extole.io
     * boden-uk.extole.io
+    * boden.extole.io
     * booksy.extole.io
     * bose.extole.io
     * brava.extole.io
@@ -285,7 +286,6 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
-    * forgetrust.em.extole.io
     * forgetrust.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
@@ -307,7 +307,6 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -443,7 +442,6 @@
     * pottery-barn.extole.io
     * princess.extole.io
     * princessau.extole.io
-    * princesscruises.em.extole.io
     * princessuk.extole.io
     * prokeds.extole.io
     * propark.extole.io
@@ -463,7 +461,6 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -691,10 +688,15 @@
 | share.bjs.com | bjs.extole.io |
 | referral.bluehost.com | bluehost.extole.io |
 | indique.bemmaisseguro.com | bms-br.extole.com |
+| share.au.boden.com | boden-au.extole.io |
 | share.bodenclothing.com.au | boden-au.extole.io |
 | share.bodendirect.de | boden-de.extole.io |
+| share.de.boden.com | boden-de.extole.io |
 | share.boden.fr | boden-fr.extole.io |
+| share.fr.boden.com | boden-fr.extole.io |
 | share.boden.co.uk | boden-uk.extole.io |
+| share.uk.boden.com | boden-uk.extole.io |
+| share.us.boden.com | boden.extole.io |
 | refer.booksy.com | booksy.extole.io |
 | refer.bose.co.uk | bose.extole.io |
 | refer.bose.com | bose.extole.io |
@@ -847,7 +849,6 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
-| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.forgetrust.com | forgetrust.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
@@ -931,7 +932,6 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1137,7 +1137,6 @@
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
 | refer-au.princess.com | princessau.extole.io |
-| em1476.princesscruises.com | princesscruises.em.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
@@ -1164,7 +1163,6 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1369,6 +1367,7 @@
 | share.zenbusiness.com | zenbusiness.extole.io |
 | refer.zentrointernet.com | zentrointernet.extole.io |
 | refer.1099online.com | zenwork.extole.io |
+| refer.ez2290.com | zenwork.extole.io |
 | refer.tax1099.com | zenwork.extole.io |
 | promos.zinli.com | zinli.extole.io |
 | refer.zipcar.ca | zipcar-ca.extole.io |

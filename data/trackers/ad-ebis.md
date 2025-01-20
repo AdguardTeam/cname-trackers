@@ -115,7 +115,6 @@
     * 4f187ea1-yphasapa.cname.ebis.ne.jp
     * 4ff9329a-digitalgarage.cname.ebis.ne.jp
     * 5032afa8-66fsga6n.cname.ebis.ne.jp
-    * 518dea17-lwmskzks.cname.ebis.ne.jp
     * 51c49914-chxzuwk9.cname.ebis.ne.jp
     * 520a8d3c-sxwkkncm.cname.ebis.ne.jp
     * 52e84b1b-f9cqqk3h.cname.ebis.ne.jp
@@ -156,6 +155,7 @@
     * 74583186-mvysh92x.cname.ebis.ne.jp
     * 7480e75d-vhd4fq1g.cname.ebis.ne.jp
     * 748da21f-kuqpafku.cname.ebis.ne.jp
+    * 7700f733-gwbfzy7a.cname.ebis.ne.jp
     * 77898d5b-lkppvk2g.cname.ebis.ne.jp
     * 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp
     * 7af5d4ff-q4vseaye.cname.ebis.ne.jp
@@ -448,7 +448,6 @@
 | ac-ebis.usen-insurance.com | 4f187ea1-yphasapa.cname.ebis.ne.jp |
 | adebis.kirei-journal.jp | 4ff9329a-digitalgarage.cname.ebis.ne.jp |
 | adebis.nursery.co.jp | 5032afa8-66fsga6n.cname.ebis.ne.jp |
-| cvs.kireimo.jp | 518dea17-lwmskzks.cname.ebis.ne.jp |
 | adebiscname.sumirin-ht.co.jp | 51c49914-chxzuwk9.cname.ebis.ne.jp |
 | adebis.chojyu.com | 520a8d3c-sxwkkncm.cname.ebis.ne.jp |
 | adebis-52667624.wowma.jp | 52e84b1b-f9cqqk3h.cname.ebis.ne.jp |
@@ -489,6 +488,7 @@
 | adebis.saison-pocket.com | 74583186-mvysh92x.cname.ebis.ne.jp |
 | ad.aim-universe.co.jp | 7480e75d-vhd4fq1g.cname.ebis.ne.jp |
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |
+| ebistoppan2.10nengenki.com | 7700f733-gwbfzy7a.cname.ebis.ne.jp |
 | adebis.harutaka.jp | 77898d5b-lkppvk2g.cname.ebis.ne.jp |
 | cname-adebis.vcube.com | 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp |
 | ebis.radish-pocket.com | 7af5d4ff-q4vseaye.cname.ebis.ne.jp |

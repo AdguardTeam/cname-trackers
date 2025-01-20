@@ -162,6 +162,7 @@ ablink.offroad-marketing.onxmaps.com
 ablink.p.radio.com
 ablink.pomelo.fashion
 ablink.pomelofashion.com
+ablink.promos.marketingkfc.co
 ablink.promos.marketingkfcchile.cl
 ablink.promos.timhortons.ca
 ablink.promos.timhortons.com
@@ -291,6 +292,7 @@ branchlink.adobespark.com
 branchtest.uk.puma.com
 branchtrk.lendingtree.com
 brc.emails.rakuten.com
+btrack.ag.fan
 cb.tablethotels.com
 cclink.carfax.com
 chelsea.clicks.hqo.co
@@ -594,9 +596,14 @@ inform.liilix.com
 iterable.convoy.com
 kartik.devishetty.net
 kingnews.burgerking.co.za
+kun.devishetty.in
+l.comms.binge.com.au
+l.comms.hubbl.com.au
+l.comms.kayosports.com.au
 l.create.canva.com
 l.e.domain.com.au
 l.engage.canva.com
+l.info.hubbl.com.au
 l.m.tradiecore.com.au
 l.support.canva.com
 l.t.domain.com.au
@@ -614,6 +621,7 @@ link.afterpay.com
 link.alerts.busuu.app
 link.angelstudios.com
 link.announce.busuu.app
+link.automated.almosafer.com
 link.automated.tajawal.com
 link.bypasstest.ridewithvia.com
 link.carfax.com
@@ -693,6 +701,7 @@ links.alerts.depop.com
 links.alerts.forhims.com
 links.alerts.hims.com
 links.amiralearning.com
+links.announce.touchsurgery.com
 links.automated.almosafer.com
 links.aws.nexttrucking.com
 links.blueapron.com
@@ -707,7 +716,6 @@ links.e.history.com
 links.e.historyvault.com
 links.e.lifetimemovieclub.com
 links.e.mylifetime.com
-links.e.wine.com
 links.edm.noracora.com
 links.elmc.mylifetime.com
 links.em.aetv.com
@@ -766,6 +774,7 @@ links.notarize.com
 links.notifications.headspace.com
 links.official.vsco.co
 links.ohhey.depop.com
+links.openfit.com
 links.orders.kfc.com
 links.petpartner.co
 links.ph.discoveryplus.com
@@ -780,13 +789,13 @@ links.sparkmail.branch.rocks
 links.strava.com
 links.t.blueapron.com
 links.t.totallymoney.com
-links.t.wine.com
 links.younify.tv
 links2.chownowmail.com
 links2.fluent-forever.com
 linksg-1.nike.ae
 linktrace.diningcity.cn
 lnk2.patpat.com
+m.irl.com
 m.irlmail.org
 m1.stadiumgoods.com
 mail.blueapronwine.com
@@ -794,6 +803,7 @@ mail.bravado.co
 mail.central.co.th
 mail.tops.co.th
 mailjet.getcoral.app
+matthewk.tantawy.app
 mlinks.fluz.app
 mlinks.helloalfred.com
 mobile-deeplink.clearme.com
@@ -807,6 +817,7 @@ news.tracking.laredoute.fr
 news.tracking.laredoute.it
 news.tracking.laredoute.nl
 news.tracking.laredoute.pt
+nl.sssports.com
 nl.underarmour.ae
 notice.hoopladigital.com
 notify.pray.com
@@ -827,6 +838,7 @@ sendpulsetest.branch.rocks
 sephora-qa.branch.rocks
 sephora-qa.branchstaging.com
 service.tracking.laredoute.be
+service.tracking.laredoute.ch
 service.tracking.laredoute.it
 sg3.notarize.com
 shoppers-test.instacartemail.com
@@ -1046,6 +1058,7 @@ antico.openapp.link
 aod.echovisuals.com
 ap.shouta.co
 apac.links.discoveryplus.com
+app-beta.brandclub.com
 app-branch.yummybazaar-qa.com
 app-dat.kingofthecurve.org
 app-dev.goodiez.io
@@ -1107,6 +1120,7 @@ app.aarogya.one
 app.acekuwait.com
 app.activityhero.com
 app.ad-bis.com
+app.airfox.com
 app.albrt.co
 app.allyos.com
 app.almosafer.com
@@ -1178,11 +1192,11 @@ app.cookdtv.com
 app.coolwallet.io
 app.coto.world
 app.cover.com
+app.csewhy.com
 app.cuahealth.com.au
 app.curesk.in
 app.currenciesdirect.com
 app.cy.link
-app.cylo.care
 app.danmurphys.com.au
 app.daycon.ai
 app.deliverynow.vn
@@ -1305,9 +1319,11 @@ app.iwanttfc.com
 app.jaihope.in
 app.jamdoughnut.com
 app.jili178.us
+app.jindumall.info
 app.joatspace.com
 app.join.goodapp.co.za
 app.joinkroo.com
+app.joinouting.com
 app.joinraft.com
 app.jurishand.com
 app.kaptain11.com
@@ -1324,6 +1340,7 @@ app.kora.money
 app.koyamedical.com
 app.kravein.com.au
 app.kumu.ph
+app.l8p8.com
 app.lark.com
 app.latrobehealth.com.au
 app.lawnlove.com
@@ -1342,10 +1359,10 @@ app.loansbybrad.com
 app.locumprime.co.uk
 app.looqbox.com
 app.lootpop.com
-app.luckysweater.com
 app.luve.tv
 app.manager.privateaser.com
 app.marriott.com
+app.matchx.az
 app.mave.ly
 app.mawada.com
 app.mcpay.io
@@ -1365,13 +1382,13 @@ app.mobilevikings.pl
 app.mogo.ca
 app.moneta.lk
 app.moneywalkie.com
-app.moonbeam.vet
 app.movebe.com
 app.movegb.com
 app.mschfsneakers.com
 app.mt11.io
 app.musaffa.com
 app.musely.com
+app.musicbymasses.com
 app.mvmnt.com
 app.myartfull.com
 app.mybestphotobook.com
@@ -1483,6 +1500,7 @@ app.siin.live
 app.simpler.link
 app.singlife.com
 app.skideal-prod.ynadev.com
+app.skip.dating
 app.skurtt.me
 app.slotxbros.com
 app.smartcredit.com
@@ -1635,6 +1653,7 @@ applink.rxhacker.com
 applink.staylio.com
 applink.tarjetabumeran.com
 applink.test.jurafuchs.de
+applink.thetreedots.com
 applink.timespro.com
 applink.whizzl.com
 applink.youareaceo.com
@@ -2001,6 +2020,7 @@ cdl.booksy.com
 cdl.lvsafe.io
 cdl2.booksy.com
 cenexam.quantresear.ch
+ceo-link.shares.social
 cfaexam.quantresear.ch
 cfb.8it.me
 champ.carselonadaily.com
@@ -2083,6 +2103,7 @@ cz-hopsej.m-shop.me
 cz-joealex.m-shop.me
 cz-kuckuc.m-shop.me
 cz-laznejupiter.m-shop.me
+cz-malypomocnik.m-shop.me
 cz-milobrno.m-shop.me
 cz-mjmodely.m-shop.me
 cz-mujkoberec.m-shop.me
@@ -2106,6 +2127,7 @@ cz-trenyrkarna.m-shop.me
 cz-trikator.m-shop.me
 cz-tropicliberec.m-shop.me
 cz-velkykosik.m-shop.me
+cz-victus.m-shop.me
 cz-wellness4you.m-shop.me
 cz-zaakcniceny.m-shop.me
 d-app.progressive.com
@@ -2205,6 +2227,7 @@ dev.links.myplace.co
 dev.me.thequad.com
 dev.punk.wagr.us
 dev.shortlink.upnotch.com
+dev.smartrbuyer.com
 dev.sswt.co
 devapp.mawada.com
 devbranch.joinautopilot.com
@@ -2226,7 +2249,6 @@ dinocraft-test.animocabrands.com
 dinocraft.animocabrands.com
 direct.diarymuslim.com
 directlink.hanapha.com
-directlink.hasdukmerahputih.com
 distiller.kano.link
 divya.bhaskar.com
 dl-dev.tablelist.com
@@ -2379,6 +2401,7 @@ exitachieve.myre.io
 exprealty377.myre.io
 f.a23.in
 f928.pandasuite.io
+fa1e.pandasuite.io
 face2.ishoppingapp.com
 familydoctor-app.hotdoc.com.au
 familypractice-app.hotdoc.com.au
@@ -2446,6 +2469,7 @@ get-test.livekick.com
 get-test.switchapp.com
 get.1tap.build
 get.1tap.tax
+get.7thhole.com
 get.aeon-vn-staging.e.spresso.com
 get.aeoneshop.com
 get.air-measure.com
@@ -2590,6 +2614,7 @@ get.wysa.uk
 get.xstee.com
 get.yugengamers.com
 getapp.eltiempo.es
+getapp.marinemax.com
 getapp.myhappyforce.com
 getapp.priceza.com
 getdev.payso.ca
@@ -2677,6 +2702,7 @@ go.develapme.com
 go.dgsta.com
 go.divorced.ignite.technology
 go.dngn.kr
+go.dominicancupid.date
 go.driveblacktie.com
 go.driveclutch.com
 go.driveford.com
@@ -2710,7 +2736,6 @@ go.france.innovatedating.com
 go.francesingles.ignite.technology
 go.freework.com
 go.frescofridge.app
-go.frescofrigo.app
 go.frip.kr
 go.futupilot.com
 go.fyndi.ng
@@ -2950,6 +2975,7 @@ habix-link.nginel.com
 halm.app.mobilapp.io
 hanadev.branch.rocks
 hanatest.branch.rocks
+harman.epoise.com
 harmantest.epoise.com
 harnisch-schmid.app.mobilapp.io
 harpra-companion-test.harvinar.com
@@ -2983,6 +3009,7 @@ i-test.streakmatch.com
 i.academeet.io
 i.airtel.in
 i.appbox.me
+i.carry.bible
 i.degoo.com
 i.getemoji.me
 i.honk.me
@@ -3051,7 +3078,6 @@ invite.coinmine.com
 invite.coinstats.app
 invite.colu.co
 invite.colu.com
-invite.easypark.net
 invite.entrylevel.net
 invite.etransport.lt
 invite.europion.hu
@@ -3066,7 +3092,6 @@ invite.openhouse.study
 invite.paltalk.net
 invite.ritual.co
 invite.sadapay.pk
-invite.staging.trnd.io
 invite.supersonic.run
 invite.traktivity.com
 invite.trueteams.co
@@ -3233,6 +3258,7 @@ lets.watcho.com
 lhp-mortgage.loanzify.com
 li.icredit.works
 li.rtl2.de
+liens.groupemerxa.com
 link-acceptance.alan.com
 link-app-dev.agvisorpro.com
 link-app-preprod.agvisorpro.com
@@ -3251,6 +3277,7 @@ link-dev.partyhunt.com
 link-dev.reklaimyours.com
 link-dev.sensemetrics.com
 link-dev.tradee.com
+link-dev.urbansitter.net
 link-es-acceptance.alan.com
 link-es.alan.com
 link-mind.alan.com
@@ -3376,6 +3403,7 @@ link.cariber.co
 link.cashi.in
 link.cerego.com
 link.chalknation.com
+link.challer.app
 link.chefsclub.com.br
 link.classicalradio.com
 link.cleaninglab.co.kr
@@ -3414,6 +3442,7 @@ link.dior.com
 link.discotech.me
 link.discoverasr.com
 link.dishcult.com
+link.district34.com
 link.divcity.com
 link.divyamarathi.com
 link.diyatvusa.com
@@ -3500,9 +3529,9 @@ link.go-supernova.com
 link.goconfirm-dev.com
 link.goconfirm.com
 link.gokimboo.com
+link.gotmy.com
 link.gradeproof.com
 link.gradeviewapp.com
-link.grana.capital
 link.granderota.riadeaveiro.pt
 link.gravio.com
 link.groovetime.com
@@ -3881,13 +3910,13 @@ link.uproad.com
 link.urbansitter.com
 link.us.paramountplus.com
 link.uwai.cn
-link.vavabid.fr
 link.velas.com
 link.vezeeta.com
 link.vibo.io
 link.victoriatheapp.com
 link.viim.ai
 link.viivio.io
+link.vinivia.live
 link.vircle.com
 link.viska.com
 link.voiapp.io
@@ -3897,11 +3926,13 @@ link.volt.app
 link.vueling.com
 link.wagerlab.app
 link.wait.nl
+link.wajeez.com
 link.wakatoon.com
 link.walem.io
 link.wappiter.com
 link.wazirx.com
 link.wb.rewardgateway.com
+link.wealthwise.cc
 link.wearecauli.com
 link.weepec.com
 link.wefish.app
@@ -3984,6 +4015,7 @@ links.extra.app
 links.fable.co
 links.fashiontiy.com
 links.feltapp.com
+links.flutrr.date
 links.foodnetwork.com
 links.gamersafer.com
 links.gardyn.io
@@ -4021,7 +4053,6 @@ links.ottplay.com
 links.outskill.app
 links.own.tv
 links.oxstreet.com
-links.palupapp.com
 links.pawplaces.app
 links.picsart.com
 links.pinart.io
@@ -4078,12 +4109,14 @@ links.wesponsored.com
 links.worker.thehelloapp.com
 links.yayzy.com
 links.younow.com
+links2.tamsonvn.com
 linkspa.spacetalk.co
 linkspine.insights.md
 linkspinedev.insights.md
 linkstaging3.divyamarathi.com
 linktest.itsdcode.com
 linkto.driver.codes
+linkuat.sprive.com
 linkus.buddybet.com
 linkvet.insights.md
 linkvetdev.insights.md
@@ -4091,6 +4124,7 @@ listen.trakks.com
 listen.tunein.com
 live.spree.shop
 live.zoovie.com
+lk.bnsworldwide.com
 lk.vma.to
 lk.vrstories.com
 lnk-stg.welthee.com
@@ -4264,6 +4298,7 @@ mpakal.openapp.link
 mpoumpas.openapp.link
 mrpp.peblla.app
 mt.plateiq.com
+mtcha.peblla.app
 mtest.fontself.com
 mx.happ.social
 mx2.happ.social
@@ -4322,6 +4357,7 @@ on.art.com
 on.hellostake.com
 on.unin.tv
 onarrival-event.cvent.me
+one.appice.io
 one.godigit.com
 onelink.taptalk.io
 onelink.unest.co
@@ -4416,7 +4452,6 @@ play.fanslide.com
 play.getpeel.app
 play.jdb888.club
 play.journey8.com
-play.maxgame.store
 play.pixellot.link
 play.rheo.tv
 play.scavos.com
@@ -4442,6 +4477,7 @@ prasserie.openapp.link
 prealpha.go.levelbank.com
 premiumapp.byjus.com
 prenesi-mojm.mercator.si
+presets.malibufilters.com
 preview.tapday.com
 primary-app.hotdoc.com.au
 priority-app.hotdoc.com.au
@@ -4482,6 +4518,7 @@ qr.spirii.com
 qualitas-app.hotdoc.com.au
 quest.epoise.com
 question.snapiio.com
+questtest.epoise.com
 quick.openapp.link
 r-dev.urbansitter.net
 r.atlasearth.com
@@ -4534,6 +4571,7 @@ referral.rvappstudio.com
 referral.setipe.com
 referral.upay.lk
 referral.yourcanvas.co
+referrals-test.ridealto.app
 referrals-test.ridealto.com
 referrals.bonnti.com
 referrals.ridealto.com
@@ -4588,6 +4626,7 @@ s.upoker.net
 s.utop.vn
 s100003.shoppingappsg.com
 s100006.shoppingappsg.com
+s100007.shoppingappsg.com
 s100009.shoppingappsg.com
 s100087.shoppingappsg.com
 safepass.citizen.com
@@ -4618,6 +4657,7 @@ semog.gruvi.link
 send.merit.me
 sense.cliexa.com
 setup.physiapp.com
+sf4567w2a56q-test.branch.salesfloor.net
 sf4567w2a56q.branch.salesfloor.net
 sf5q8gbnve37-test.branch.salesfloor.net
 sf5q8gbnve37.branch.salesfloor.net
@@ -4716,6 +4756,7 @@ share.realcrushconnection.com
 share.recasty.com
 share.ridehip.com
 share.robinhood.com
+share.rocketnow.co.jp
 share.scoreholio.com
 share.shalomworld.org
 share.sharafdg.com
@@ -4864,6 +4905,7 @@ tciev99o4uw9u3uw.dev.loanzify.app
 teachers.saarthipedagogy.com
 tec.techieustad.com
 teilen.radlland-bayern.de
+teleport.livemote.com
 test-app.getgifted.com
 test-app.nautilus.io
 test-app.popsa.com
@@ -4891,6 +4933,7 @@ test-links.dipdip.com
 test-links.yelsa.app
 test-listen.tunein.com
 test-share.glorify-app.com
+test-starify.appsonic.fr
 test.apac.links.discoveryplus.com
 test.app.kravein.com.au
 test.asteride.co
@@ -4954,6 +4997,7 @@ toto.pandasuite.io
 track.ivia.com
 tracking-app.maismei.com.br
 traicaydi.abaha.vn
+train.uplift.ai
 transmissionapp.jacoblegrone.com
 tranthienly-link.membee.vn
 travel.stage.x.unikoom.com
@@ -4986,6 +5030,7 @@ uat-link.covve.com
 uat-links.devtest.vegas
 uat-scanner-link.covve.com
 uat.bcfi.us
+uat.redirects.promex.io
 uatrewards-my.greateasternlife.com
 uatrewards-sg.greateasternlife.com
 uatshare.entertainment.com
@@ -5049,6 +5094,7 @@ webmail.happ.social
 webtoons.naver.com
 welcome.pilot.ly
 welcome.songnhi.ai
+wellbeing.orangegriffin.com
 whitelabel.intelnet.vn
 whitelabel.membee.vn
 wl.bl.frequentvalues.com.au
@@ -5064,7 +5110,6 @@ www.getone.today
 www.rentone.today
 www.shoptranthienly.com
 www.smpgn.co
-www.talengineer.com
 www.vetxanh.edu.vn
 www.vidco.eu.org
 www1.happ.social
@@ -5073,15 +5118,18 @@ x.gldn.io
 x.hkdl.hk
 x.xtar.io
 x88s.pandasuite.io
+xxx.hottie.eu.org
 y-t.topya.com
 y.topya.com
 yellowstone.shakaguide.com
+yfhummus.peblla.app
 you.pixellot.link
 you.stage.pixellot.link
 youate.co
 yummylink.funcapital.com
 z.inlist.com
 z.ziki.app
+zlmtpa.peblla.app
 zombieslayer-alternate.kano.link
 app.bovra.se
 app.brain.ly

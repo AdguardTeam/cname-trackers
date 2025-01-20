@@ -11,6 +11,7 @@
 ||tmi.vodafone.de^
 ||u.20mn.it^
 ||utiq-test.utest3.work^
+||utiq.11freunde.de^
 ||utiq.20minutos.es^
 ||utiq.24auto.de^
 ||utiq.24books.de^
@@ -37,6 +38,7 @@
 ||utiq.automobile-magazine.fr^
 ||utiq.autoplus.fr^
 ||utiq.az-online.de^
+||utiq.berlin-live.de^
 ||utiq.bfmtv.com^
 ||utiq.bibamagazine.fr^
 ||utiq.bild.de^
@@ -169,6 +171,7 @@
 ||utiq.lavoixdunord.fr^
 ||utiq.lavozdigital.es^
 ||utiq.le10sport.com^
+||utiq.lebenindeutschland.eu^
 ||utiq.lefigaro.fr^
 ||utiq.lejournaldelamaison.fr^
 ||utiq.lemessager.fr^
@@ -226,6 +229,8 @@
 ||utiq.petitbleu.fr^
 ||utiq.pleinevie.fr^
 ||utiq.pnp.de^
+||utiq.poprosa.com^
+||utiq.programme-tv.net^
 ||utiq.programme.tv^
 ||utiq.psychologies.com^
 ||utiq.purebreak.com^

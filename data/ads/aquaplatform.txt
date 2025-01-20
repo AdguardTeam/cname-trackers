@@ -8,6 +8,7 @@
 ||adconsole.sniffies.com^
 ||adimages.eva.live^
 ||adimages.sniffies.com^
+||ads-console.recon.com^
 ||ads-delivery.milenarmedia.pt^
 ||ads-static.recon.com^
 ||ads.bidspotter.co.uk^
@@ -36,6 +37,7 @@
 ||adv.unionesarda.it^
 ||advertising.goldseek.com^
 ||adwin.geenstijl.nl^
+||api.adbility-media.com^
 ||api.metrike.com^
 ||assets.lintigroup.se^
 ||banners.cincinnatimagazine.com^
@@ -43,7 +45,6 @@
 ||banners.leightonbroadcasting.com^
 ||banners.orangecoast.com^
 ||by.addrecipes.com^
-||by.adxt.com^
 ||cdn-adv.unionesarda.it^
 ||cdn.adspmg.com^
 ||cdn.conservativestar.com^
@@ -58,6 +59,7 @@
 ||cdn.reviveservers.com^
 ||cdn.rlnads.net^
 ||championads.midtc.com^
+||console.ad.logic.viasat.io^
 ||console.adbility-media.com^
 ||console.adspmg.com^
 ||console.aqua-adserver.com^
@@ -86,6 +88,7 @@
 ||images.addurance.com^
 ||images.cricketworld.com^
 ||images.goldseek.com^
+||images.hour-media.com^
 ||images.informatm.com^
 ||images.jacilla.no^
 ||images.mannenmedia.nl^
@@ -204,6 +207,7 @@
 ||www.servedby.greenspring.com^
 ||www.servedby.lintigroup.se^
 ||www.servedby.quirks.com^
+||www.servedby.sacommunications.com^
 ||www.servedby.schrotundkorn.de^
 ||www.static.ad.logic-test.viasat.io^
 ||www.static.healthcarescene.com^

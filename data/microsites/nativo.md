@@ -24,12 +24,9 @@
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
 | a135.wftv.com | jadserve.postrelease.com |
-| a235.seattlepi.com | jadserve.postrelease.com |
-| a614.mlive.com | jadserve.postrelease.com |
-| a614.oregonlive.com | jadserve.postrelease.com |
+| mlive.share.ntv.io | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
-| sonomamag.share.ntv.io | jadserve.postrelease.com |
 | a135.fox23.com | jadserve.postrelease.com.akadns.net |
 | a135.wftv.com | jadserve.postrelease.com.akadns.net |
 | a135.wpxi.com | jadserve.postrelease.com.akadns.net |
@@ -127,6 +124,7 @@
 | 337643a00f.8e403e6714.com | ntvpforever.com |
 | 34141a11eb.59fb4bffe0.com | ntvpforever.com |
 | 3526ef6930.6e28e6bf7e.com | ntvpforever.com |
+| 357ceb3cef.289537e8c0.com | ntvpforever.com |
 | 37bb2a34af.05c09b357d.com | ntvpforever.com |
 | 38ab1a2189.81ad09b8ab.com | ntvpforever.com |
 | 38f4121674.4f03644ab8.com | ntvpforever.com |
@@ -158,6 +156,7 @@
 | 4d2c79d385.cec741d143.com | ntvpforever.com |
 | 4d93255c75.70cf68d2ed.com | ntvpforever.com |
 | 4de392ba1b.172c47da4d.com | ntvpforever.com |
+| 4e58ef526f.aa7a70aa38.com | ntvpforever.com |
 | 4eea23ee25.cff913e5b4.com | ntvpforever.com |
 | 4f1c8cf090.138b1541c6.com | ntvpforever.com |
 | 4f731442e8.f27386cec2.com | ntvpforever.com |
@@ -169,6 +168,7 @@
 | 556b7878f9.fdc02736b4.com | ntvpforever.com |
 | 582f10131d.0b1f9d356f.com | ntvpforever.com |
 | 5840be6951.ba5704d33b.com | ntvpforever.com |
+| 5953096a4b.d76cd1b5fb.com | ntvpforever.com |
 | 5ab42d746f.57a52161ff.com | ntvpforever.com |
 | 5ace42af7e.e2d79d2c74.com | ntvpforever.com |
 | 5b9bc72dc8.53ebf10be3.com | ntvpforever.com |
@@ -246,6 +246,8 @@
 | 8b9cf751fc.e00623c9a6.com | ntvpforever.com |
 | 8c3ebbe6d3.0c9747d501.com | ntvpforever.com |
 | 8c91443955.6ec0a61a52.com | ntvpforever.com |
+| 8d4bbdfb6f.461a49d04c.com | ntvpforever.com |
+| 8daf90335f.6f825cf9f5.com | ntvpforever.com |
 | 8df7efe7c9.af2feff0f9.com | ntvpforever.com |
 | 8e38fd0315.72ae065d7f.com | ntvpforever.com |
 | 8f33cfa4f5.2adc6faaa1.com | ntvpforever.com |
@@ -314,6 +316,7 @@
 | bb1573a84f.984b3c5501.com | ntvpforever.com |
 | bbf15b57a2.42dbd09587.com | ntvpforever.com |
 | be69a981ad.a5bc535601.com | ntvpforever.com |
+| bed6c3dbc7.c7b6f80a62.com | ntvpforever.com |
 | bf69d06a0a.1d9d606c74.com | ntvpforever.com |
 | bf8d745387.77f02948e0.com | ntvpforever.com |
 | c089e9d9e7.01b491026c.com | ntvpforever.com |
@@ -339,6 +342,7 @@
 | cf9fba9e00.d3089f6c34.com | ntvpforever.com |
 | d011b1c7bf.09222d3e04.com | ntvpforever.com |
 | d2495c1a07.7e4eb2b5eb.com | ntvpforever.com |
+| d263c5431c.1e3afdea62.com | ntvpforever.com |
 | d2a500bd5e.87b7754886.com | ntvpforever.com |
 | d3f013ea52.895c67da73.com | ntvpforever.com |
 | d4d1547cd0.80896e4695.com | ntvpforever.com |
@@ -405,7 +409,6 @@
 | fc5f6008bc.6006833376.com | ntvpforever.com |
 | fdd5c91116.606b85787b.com | ntvpforever.com |
 | i.selecttopoff.com | ntvpforever.com |
-| i.statelinear.com | ntvpforever.com |
 | a235.beaumontenterprise.com | unavailable.hearstnp.com |
 | a235.chron.com | unavailable.hearstnp.com |
 | a235.ctpost.com | unavailable.hearstnp.com |

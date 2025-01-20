@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -57,6 +57,7 @@ l.doctissimo.fr CNAME .
 l.dzfoot.com CNAME .
 l.easyvoyage.com CNAME .
 l.enfant.com CNAME .
+l.enfemenino.com CNAME .
 l.entrenous.fr CNAME .
 l.equidia.fr CNAME .
 l.estrepublicain.fr CNAME .
@@ -149,6 +150,7 @@ l.republicain-lorrain.fr CNAME .
 l.rmc.fr CNAME .
 l.rmcsport.fr CNAME .
 l.roole.fr CNAME .
+l.rtl.fr CNAME .
 l.science-et-vie.com CNAME .
 l.sciencesetavenir.fr CNAME .
 l.sportauto.fr CNAME .

@@ -247,12 +247,12 @@
 ||bear.jake.nyc^
 ||bear.modulr.design^
 ||beaver.bluebunnypaper.com^
+||beaver.brush.ninja^
 ||beaver.ecosecretariat.org^
 ||beaver.livechatlabs.com^
 ||bee.andreawhitmer.com^
 ||bee.farmaciavdg.com^
 ||bee.jbkmobiledj.com^
-||bee.nfte.app^
 ||bee.shelveholidays.co.uk^
 ||beetle.enlacepermanente.es^
 ||bird.brondby.com^
@@ -315,7 +315,6 @@
 ||cat.mattr.global^
 ||cat.sprucely.net^
 ||cat.thisminute.app^
-||cat.tinylittlebusinesses.com^
 ||caterpilla.ibon.live^
 ||catfish.lucalabs.com^
 ||catfish.phuclh.com^
@@ -423,7 +422,6 @@
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
 ||donkey.jackellis.me^
-||donkey.masteringfinland.com^
 ||donkey.mrfrisby.com^
 ||dormouse.consentkit.com^
 ||dove.hoku.nz^
@@ -846,6 +844,7 @@
 ||prairiedog.hashnode.com^
 ||prairiedog.thisismattsmith.com^
 ||prairiedog.xview.us^
+||prawn.inchperfect.com^
 ||prawn.lionsmouth.digital^
 ||primate.logology.co^
 ||primate.oleggera.com^
@@ -1060,6 +1059,7 @@
 ||vole.noteapps.info^
 ||vole.sonicrida.com^
 ||vole.tsttechnology.com^
+||vulture.bettershore.com^
 ||vulture.lagosdesaliencia.com^
 ||wallaby.cron.help^
 ||wallaby.legendkeeper.com^
@@ -1121,6 +1121,7 @@
 ||gemtun.ctnewsjunkie.com^
 ||images.decaturish.com^
 ||informed.belocalnwa.com^
+||jobs.educationweekjobs.co.uk^
 ||kitt.tucsonsentinel.com^
 ||news.coveringkaty.com^
 ||ourtown.toledoparent.com^

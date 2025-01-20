@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+api.a-kasse-guiden.dk CNAME .
 api.datinghelp.dk CNAME .
 api.datingxperten.de CNAME .
 api.eltjek24.dk CNAME .

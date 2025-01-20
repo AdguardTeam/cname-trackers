@@ -94,6 +94,7 @@
 | l.dzfoot.com | tls.non.li |
 | l.easyvoyage.com | tls.non.li |
 | l.enfant.com | tls.non.li |
+| l.enfemenino.com | tls.non.li |
 | l.entrenous.fr | tls.non.li |
 | l.equidia.fr | tls.non.li |
 | l.euronews.com | tls.non.li |
@@ -175,6 +176,7 @@
 | l.rmc.fr | tls.non.li |
 | l.rmcsport.fr | tls.non.li |
 | l.roole.fr | tls.non.li |
+| l.rtl.fr | tls.non.li |
 | l.science-et-vie.com | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
 | l.sportauto.fr | tls.non.li |

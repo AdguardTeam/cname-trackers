@@ -13,6 +13,7 @@
     * te-frankonia-at.oghub.io
     * te-frankonia-com.oghub.io
     * te-frankonia-de.oghub.io
+    * te-frankoniamoda-ch.oghub.io
     * te-heine-at.oghub.io
     * te-heine-de.oghub.io
     * te-heine-shop-nl.oghub.io
@@ -34,6 +35,7 @@
     * te-witt-international-nl.oghub.io
     * te-witt-international-sk.oghub.io
     * te-witt-weiden-at.oghub.io
+    * te-witt-weiden-ch.oghub.io
     * te-witt-weiden-de.oghub.io
     * te-yomonda-de.oghub.io
     * te-your-look-for-less-nl.oghub.io
@@ -47,7 +49,8 @@
     * tp-frankonia-at.oghub.io
     * tp-frankonia-com.oghub.io
     * tp-frankonia-de.oghub.io
-    * tp-heine-ch.oghub.io
+    * tp-frankoniamoda-ch.oghub.io
+    * tp-heine-at.oghub.io
     * tp-heine-de.oghub.io
     * tp-heine-shop-nl.oghub.io
     * tp-jelmoli-shop-ch.oghub.io
@@ -136,6 +139,7 @@
 | te.frankonia.at | te-frankonia-at.oghub.io |
 | te.frankonia.com | te-frankonia-com.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
+| te.frankoniamoda.ch | te-frankoniamoda-ch.oghub.io |
 | te.heine.at | te-heine-at.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
 | te.heine-shop.nl | te-heine-shop-nl.oghub.io |
@@ -157,6 +161,7 @@
 | te.witt-international.nl | te-witt-international-nl.oghub.io |
 | te.witt-international.sk | te-witt-international-sk.oghub.io |
 | te.witt-weiden.at | te-witt-weiden-at.oghub.io |
+| te.witt-weiden.ch | te-witt-weiden-ch.oghub.io |
 | te.witt-weiden.de | te-witt-weiden-de.oghub.io |
 | te.yomonda.de | te-yomonda-de.oghub.io |
 | te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |
@@ -172,6 +177,7 @@
 | te.frankonia.com | te.oghub.io |
 | te.frankonia.com | te.oghub.io |
 | te.frankonia.de | te.oghub.io |
+| te.frankoniamoda.ch | te.oghub.io |
 | te.frankoniamoda.ch | te.oghub.io |
 | te.heine-shop.nl | te.oghub.io |
 | te.heine.at | te.oghub.io |
@@ -210,6 +216,7 @@
 | te.witt-weiden.at | te.oghub.io |
 | te.witt-weiden.at | te.oghub.io |
 | te.witt-weiden.ch | te.oghub.io |
+| te.witt-weiden.ch | te.oghub.io |
 | te.witt-weiden.de | te.oghub.io |
 | te.yomonda.de | te.oghub.io |
 | te.yomonda.de | te.oghub.io |
@@ -223,7 +230,8 @@
 | tp.frankonia.at | tp-frankonia-at.oghub.io |
 | tp.frankonia.com | tp-frankonia-com.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
-| tp.heine.ch | tp-heine-ch.oghub.io |
+| tp.frankoniamoda.ch | tp-frankoniamoda-ch.oghub.io |
+| tp.heine.at | tp-heine-at.oghub.io |
 | tp.heine.de | tp-heine-de.oghub.io |
 | tp.heine-shop.nl | tp-heine-shop-nl.oghub.io |
 | tp.jelmoli-shop.ch | tp-jelmoli-shop-ch.oghub.io |

@@ -2,6 +2,7 @@
 # Company name: Plausible Analytics
 a-api.skz.dev
 a.linkz.ai
+aloha.getoperand.com
 also.greatsecuritydebate.net
 an.xavierrosee.com
 analytics.adam.page
@@ -147,7 +148,6 @@ pl.maya-astro.fi
 pl.mynorthstarapp.com
 pl.terraintinker.com
 pl.venusafe.com
-pl.volunteeringhb.org.nz
 pla.wigglepixel.nl
 plan.devbyexample.com
 plans.fundtherebuild.com
@@ -563,7 +563,6 @@ stats.jhsheridan.com
 stats.jjude.com
 stats.joaopedro.dev
 stats.jsbible.com
-stats.jtrees.io
 stats.jun-etan.com
 stats.justinwilliams.ca
 stats.kaladyaudiology.com
@@ -644,6 +643,7 @@ stats.motorcyclepartsireland.ie
 stats.mrtnvh.com
 stats.multiplelenses.com
 stats.multiply.cloud
+stats.murrayhometextiles.ie
 stats.myherocard.com
 stats.napaconnect.ca
 stats.navedislam.com
@@ -835,9 +835,11 @@ stats.urlaubsverwaltung.cloud
 stats.useeffect.dev
 stats.uxtools.co
 stats.v4.agirpourlenvironnement.org
+stats.vallery.store
 stats.vanityprojects.com
 stats.vdsnow.ru
 stats.vican.me
+stats.vinkkaa.fi
 stats.visions.ch
 stats.voltimum.com
 stats.wachstum.at

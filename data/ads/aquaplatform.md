@@ -106,6 +106,7 @@
     * sacomm-delivery.aquaplatform.com
     * sonicplug-delivery.aquaplatform.com
     * sonicplug-static.aquaplatform.com
+    * t101-console.aquaplatform.com
     * t101-delivery.aquaplatform.com
     * t101-static.aquaplatform.com
     * tfn-console.aquaplatform.com
@@ -113,6 +114,7 @@
     * tfn-static.aquaplatform.com
     * unionesarda-delivery.aquaplatform.com
     * unionesarda-static.aquaplatform.com
+    * viasat-console.aquaplatform.com
     * viasat-delivery.aquaplatform.com
     * viasat-static.aquaplatform.com
     * worldscreen-delivery.aquaplatform.com
@@ -125,9 +127,9 @@
 | ---- | ---- |
 | console.informingnews.com | adaptigo-console.aquaplatform.com |
 | by.addrecipes.com | adaptigo-delivery.aquaplatform.com |
-| by.adxt.com | adaptigo-delivery.aquaplatform.com |
 | cdn.conservativestar.com | adaptigo-static.aquaplatform.com |
 | cdn.headlinesmart.com | adaptigo-static.aquaplatform.com |
+| api.adbility-media.com | adbility-api.aquaplatform.com |
 | www.api.adbility-media.com | adbility-api.aquaplatform.com |
 | console.adbility-media.com | adbility-console.aquaplatform.com |
 | servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
@@ -211,6 +213,7 @@
 | banners.cincinnatimagazine.com | hourmedia-static.aquaplatform.com |
 | banners.geminipub.com | hourmedia-static.aquaplatform.com |
 | banners.orangecoast.com | hourmedia-static.aquaplatform.com |
+| images.hour-media.com | hourmedia-static.aquaplatform.com |
 | www.images.hour-media.com | hourmedia-static.aquaplatform.com |
 | console.insideradverts.com | im-console.aquaplatform.com |
 | servedby.insideradverts.com | im-delivery.aquaplatform.com |
@@ -315,9 +318,11 @@
 | ads.cavalier-romand.ch | romand-delivery.aquaplatform.com |
 | console.sacommunications.com | sacomm-console.aquaplatform.com |
 | servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
+| www.servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | www.adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |
+| ads-console.recon.com | t101-console.aquaplatform.com |
 | ads.recon.com | t101-delivery.aquaplatform.com |
 | ads-static.recon.com | t101-static.aquaplatform.com |
 | console.trackandfieldnews.com | tfn-console.aquaplatform.com |
@@ -326,6 +331,7 @@
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
 | cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
 | www.cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
+| console.ad.logic.viasat.io | viasat-console.aquaplatform.com |
 | server.ad.logic-prod.viasat.io | viasat-delivery.aquaplatform.com |
 | server.ad.logic.viasat.io | viasat-delivery.aquaplatform.com |
 | static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |

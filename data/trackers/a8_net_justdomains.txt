@@ -49,6 +49,7 @@ a8.bridal-hills.com
 a8.buddyup.shop
 a8.buvlabo.com
 a8.calmia-clinic.com
+a8.campaign.musclesuit.co.jp
 a8.careecen-shukatsu-agent.com
 a8.careerpark.jp
 a8.casie.jp
@@ -223,7 +224,6 @@ a8.nengahonpo.com
 a8.nengajyo.co.jp
 a8.neur.jp
 a8.next-hikari.jp
-a8.nezumi-guard.com
 a8.nezumi-kanzentaiji.com
 a8.nosh.jp
 a8.novicetokyo.com
@@ -502,6 +502,7 @@ a8clk.fromcocoro.com
 a8clk.fujisan.co.jp
 a8clk.fuku-chan.jp
 a8clk.funds.jp
+a8clk.ganba.jp
 a8clk.geo-arekore.jp
 a8clk.global-crown.com
 a8clk.globalbase.jp
@@ -663,6 +664,7 @@ a8clk.smile-zemi.jp
 a8clk.sohbi-company.com
 a8clk.solideajapan.com
 a8clk.sp.move-ebike.co.jp
+a8clk.speedcoaching.co.jp
 a8clk.staff.mynavi.jp
 a8clk.star-mall.net
 a8clk.starwifi.jp
@@ -791,6 +793,7 @@ a8cv.ans-ec.shop
 a8cv.aplod.jp
 a8cv.aquasilver.co.jp
 a8cv.araiba.net
+a8cv.aruci.jp
 a8cv.atami-box.com
 a8cv.atgp.jp
 a8cv.auhikari-bykddi.com
@@ -896,6 +899,7 @@ a8cv.e-earphone.jp
 a8cv.e-stretch-diet.com
 a8cv.eakindo.com
 a8cv.ec.oliveunion.com
+a8cv.ecnavi.jp
 a8cv.eco-ring.com
 a8cv.ecodepa.jp
 a8cv.eeo.today
@@ -1313,6 +1317,7 @@ a8cv.xn--hckxam3skb2412b1hxe.com
 a8cv.xn--hdks151yx96c.com
 a8cv.y-osohshiki.com
 a8cv.ya-man.com
+a8cv.yakuin-organic.co.jp
 a8cv.yakuzaishi.yakumatch.com
 a8cv.yakuzaishibestcareer.com
 a8cv.yamachiya.co.jp

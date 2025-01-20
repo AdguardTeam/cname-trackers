@@ -136,10 +136,12 @@
 ||affiliate.easyproject.com^
 ||affiliate.easyproject.cz^
 ||affiliate.easyredmine.com^
+||affiliate.easysoftware.com^
 ||affiliate.ehotel.cz^
 ||affiliate.elektronicke-vycvikove-obojky.com^
 ||affiliate.elektronickeobojkypropsy.cz^
 ||affiliate.elisdesign.cz^
+||affiliate.elitedate.eu^
 ||affiliate.ellex.cz^
 ||affiliate.epohledavky.cz^
 ||affiliate.eros.sk^
@@ -551,6 +553,7 @@
 ||partner.expresmenu.pl^
 ||partner.expresmenu.sk^
 ||partner.fabulo.sk^
+||partner.ferratum.cz^
 ||partner.finstyle.cz^
 ||partner.firmin.cz^
 ||partner.fitnessrevolucia.sk^
@@ -751,7 +754,6 @@
 ||partner.vivabeauty.cz^
 ||partner.vladimirekart.cz^
 ||partner.volne-reality.cz^
-||partner.vyprodejskladu.com^
 ||partner.webareal.cz^
 ||partner.webareal.sk^
 ||partner.webovkysusmevem.cz^
@@ -918,7 +920,6 @@
 ||partneri.zdravy-zivotny-styl.sk^
 ||partneri.zdravykram.cz^
 ||partneri.zijchytre.cz^
-||partneri.zkustenzvuk.cz^
 ||partners.almaf.cz^
 ||partners.bonyacademy.com^
 ||partners.duckferries.com^
@@ -978,6 +979,7 @@
 ||spoluprace.vcelarstvi-domovina.cz^
 ||spoluprace.vivobarefoot.cz^
 ||udrzitelny-nakup.mydlia.cz^
+||udrzitelny-nakup.tierraverde.cz^
 ||vydelavejtesnami.pg.cz^
 ||www.affilbox.mironet.cz^
 ||www.affilo.cz^

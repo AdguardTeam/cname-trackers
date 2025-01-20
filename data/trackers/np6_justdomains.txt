@@ -443,6 +443,7 @@ tr.group-appointments.lvmh.fr
 tr.group-hr.lvmh.fr
 tr.groupama-gne.fr
 tr.gtr.moethennessy.com
+tr.guys.espmp-agfr.net
 tr.gvbn.espmp-agfr.net
 tr.haute-maurienne-vanoise.net
 tr.hcahealthcare.co.uk
@@ -556,6 +557,7 @@ tr.infos.lacarte.demenagez-moi.com
 tr.infos.lettre-resiliation.com
 tr.infos.mnt.fr
 tr.infos.odalys-vacances.com
+tr.infos.resilier.com
 tr.inspiration.culture-data.fr
 tr.interieur.cotemaison.fr
 tr.interviews-mediametrie.fr
@@ -593,6 +595,7 @@ tr.legrandjeu.boulanger.com
 tr.lesmarques.envie-de-bien-manger.com
 tr.lesmarquesenviedebienmanger.fr
 tr.lettre.dechets-infos.com
+tr.lettre.durbanparticipations.com
 tr.lettre.helianthal.fr
 tr.lettre.lecho-circulaire.com
 tr.leyravaud.devisdirect.com
@@ -614,6 +617,7 @@ tr.mail.enviedebienmanger.fr
 tr.mail.floa.fr
 tr.mail.hagerservices.fr
 tr.mail.koregraf.com
+tr.mail.larmoiredespetits.com
 tr.mail.mdbp.fr
 tr.mail.moncoupdepouce.com
 tr.mail.perial.info
@@ -744,6 +748,7 @@ tr.news.cci-puydedome.com
 tr.news.cdiscount.com
 tr.news.cdiscountpro.com
 tr.news.cenpac.fr
+tr.news.ceoradio.tv
 tr.news.cforadio.tv
 tr.news.chapsvision.com
 tr.news.chezmonveto.com
@@ -889,7 +894,6 @@ tr.newsletter.actalians.fr
 tr.newsletter.afpa.fr
 tr.newsletter.assuragency.net
 tr.newsletter.astro-mail.com
-tr.newsletter.bassins-a-flot.fr
 tr.newsletter.bauermedia.fr
 tr.newsletter.bouygues-construction.com
 tr.newsletter.bouygues.com
@@ -1070,6 +1074,7 @@ tr.smtp1.email-mediapost.fr
 tr.solendi.com
 tr.solocal.espmp-aufr.net
 tr.solution.uneo.fr
+tr.sopr.espmp-agfr.net
 tr.sorecson.fr
 tr.sort.espmp-nifr.net
 tr.souscription.floa.fr
@@ -1139,6 +1144,7 @@ tr.videofutur.fr
 tr.ville.bordeaux.fr
 tr.voeux-wishes.ipsilon-ip.com
 tr.voixduclient.harmonie-mutuelle.fr
+tr.volkswagen-fs-mail.fr
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr
 tr.wa.wordappeal.com

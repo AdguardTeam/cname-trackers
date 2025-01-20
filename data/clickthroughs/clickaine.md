@@ -30,6 +30,7 @@
 | asg.pienude.com | api.clickaine.com |
 | blabla.leakgallery.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
+| c4n.anonimayzer.site | api.clickaine.com |
 | c4n.arcjav.com | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
 | c4n.hotjavmovies.com | api.clickaine.com |

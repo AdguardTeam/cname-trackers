@@ -21,6 +21,7 @@
     * cassie.goatcounter.com
     * celerry.goatcounter.com
     * cgcristi.goatcounter.com
+    * cloudnativebitcoin.goatcounter.com
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
     * codinggrace.goatcounter.com
@@ -43,6 +44,7 @@
     * fieald.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
+    * gcls001239028.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
     * gopikrishna.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
@@ -64,6 +66,7 @@
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
+    * law-mohican-com.goatcounter.com
     * localhosed.goatcounter.com
     * lspeed.goatcounter.com
     * maik-dev.goatcounter.com
@@ -142,6 +145,7 @@
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
 | stats.cgcristi.xyz | cgcristi.goatcounter.com |
+| stats.cloudnativebitcoin.org | cloudnativebitcoin.goatcounter.com |
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
@@ -164,6 +168,7 @@
 | stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
+| analytics.leespace.co | gcls001239028.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
@@ -185,6 +190,7 @@
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
+| analytics.law.mohican.com | law-mohican-com.goatcounter.com |
 | stats.svc.lol | localhosed.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |

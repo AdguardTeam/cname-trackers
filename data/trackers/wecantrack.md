@@ -10,6 +10,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| api.a-kasse-guiden.dk | api.wecantrack.com |
 | api.datinghelp.dk | api.wecantrack.com |
 | api.datingxperten.de | api.wecantrack.com |
 | api.eltjek24.dk | api.wecantrack.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,6 +60,7 @@ a8.bridal-hills.com CNAME .
 a8.buddyup.shop CNAME .
 a8.buvlabo.com CNAME .
 a8.calmia-clinic.com CNAME .
+a8.campaign.musclesuit.co.jp CNAME .
 a8.careecen-shukatsu-agent.com CNAME .
 a8.careerpark.jp CNAME .
 a8.casie.jp CNAME .
@@ -234,7 +235,6 @@ a8.nengahonpo.com CNAME .
 a8.nengajyo.co.jp CNAME .
 a8.neur.jp CNAME .
 a8.next-hikari.jp CNAME .
-a8.nezumi-guard.com CNAME .
 a8.nezumi-kanzentaiji.com CNAME .
 a8.nosh.jp CNAME .
 a8.novicetokyo.com CNAME .
@@ -513,6 +513,7 @@ a8clk.fromcocoro.com CNAME .
 a8clk.fujisan.co.jp CNAME .
 a8clk.fuku-chan.jp CNAME .
 a8clk.funds.jp CNAME .
+a8clk.ganba.jp CNAME .
 a8clk.geo-arekore.jp CNAME .
 a8clk.global-crown.com CNAME .
 a8clk.globalbase.jp CNAME .
@@ -674,6 +675,7 @@ a8clk.smile-zemi.jp CNAME .
 a8clk.sohbi-company.com CNAME .
 a8clk.solideajapan.com CNAME .
 a8clk.sp.move-ebike.co.jp CNAME .
+a8clk.speedcoaching.co.jp CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .
 a8clk.starwifi.jp CNAME .
@@ -802,6 +804,7 @@ a8cv.ans-ec.shop CNAME .
 a8cv.aplod.jp CNAME .
 a8cv.aquasilver.co.jp CNAME .
 a8cv.araiba.net CNAME .
+a8cv.aruci.jp CNAME .
 a8cv.atami-box.com CNAME .
 a8cv.atgp.jp CNAME .
 a8cv.auhikari-bykddi.com CNAME .
@@ -907,6 +910,7 @@ a8cv.e-earphone.jp CNAME .
 a8cv.e-stretch-diet.com CNAME .
 a8cv.eakindo.com CNAME .
 a8cv.ec.oliveunion.com CNAME .
+a8cv.ecnavi.jp CNAME .
 a8cv.eco-ring.com CNAME .
 a8cv.ecodepa.jp CNAME .
 a8cv.eeo.today CNAME .
@@ -1324,6 +1328,7 @@ a8cv.xn--hckxam3skb2412b1hxe.com CNAME .
 a8cv.xn--hdks151yx96c.com CNAME .
 a8cv.y-osohshiki.com CNAME .
 a8cv.ya-man.com CNAME .
+a8cv.yakuin-organic.co.jp CNAME .
 a8cv.yakuzaishi.yakumatch.com CNAME .
 a8cv.yakuzaishibestcareer.com CNAME .
 a8cv.yamachiya.co.jp CNAME .

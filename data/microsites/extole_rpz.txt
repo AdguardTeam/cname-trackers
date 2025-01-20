@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,15 +137,11 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em1476.princesscruises.com CNAME .
 em2287.theory.com CNAME .
 em3904.skillshare.com CNAME .
-em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
-em8561.go2bank.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
-emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -254,6 +250,7 @@ refer.eset.com CNAME .
 refer.etrade.net CNAME .
 refer.everlywell.com CNAME .
 refer.evite.com CNAME .
+refer.ez2290.com CNAME .
 refer.fahw.com CNAME .
 refer.firstaidbeauty.com CNAME .
 refer.firsttechfed.com CNAME .
@@ -474,6 +471,7 @@ share.ashleyhomestore.ca CNAME .
 share.asics.com CNAME .
 share.asurion.com CNAME .
 share.atlasbars.com CNAME .
+share.au.boden.com CNAME .
 share.aveda.com.au CNAME .
 share.azcentral.com CNAME .
 share.baiconnect.com CNAME .
@@ -523,6 +521,7 @@ share.cunard.com CNAME .
 share.cwbank.com CNAME .
 share.dailypay.com CNAME .
 share.darwinspet.com CNAME .
+share.de.boden.com CNAME .
 share.delawareonline.com CNAME .
 share.desertfinancial.com CNAME .
 share.desertsun.com CNAME .
@@ -552,6 +551,7 @@ share.firstleaf.club CNAME .
 share.firstleaf.com CNAME .
 share.fitnessconnection.com CNAME .
 share.floridatoday.com CNAME .
+share.fr.boden.com CNAME .
 share.freep.com CNAME .
 share.fundrive.savers.com CNAME .
 share.getmobilemechanic.com CNAME .
@@ -732,10 +732,12 @@ share.tonies.com CNAME .
 share.trafalgar.com CNAME .
 share.travelzoo.com CNAME .
 share.treasurywineevent.com CNAME .
+share.uk.boden.com CNAME .
 share.uk.theory.com CNAME .
 share.unchartedsociety.com CNAME .
 share.united.net CNAME .
 share.urbanmop.ca CNAME .
+share.us.boden.com CNAME .
 share.usatoday.com CNAME .
 share.useagle.org CNAME .
 share.vcstar.com CNAME .
@@ -758,10 +760,14 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
+em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
+em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
+emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

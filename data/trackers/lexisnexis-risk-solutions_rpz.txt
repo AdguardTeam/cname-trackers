@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ afm.startrader.asia CNAME .
 afm.startrader.com CNAME .
 afm.startrader.live CNAME .
 afm.startraderfr.com CNAME .
+afm.startraderjp.com CNAME .
 afm.startradermy.com CNAME .
 afm.sthub.cc CNAME .
 afm.ultimamarkets.asia CNAME .
@@ -36,6 +37,7 @@ afm.ultimamarkets.com CNAME .
 afm.ultimamarketsglobal.com CNAME .
 afm.ultimamkts.com CNAME .
 afm.umtradings.com CNAME .
+afm.umultima.hk CNAME .
 afm.vantage-markets.com CNAME .
 afm.vantagemarkets.co CNAME .
 afm.vantagemarkets.co.uk CNAME .
@@ -620,7 +622,6 @@ img3.paylesscar.com CNAME .
 img4.cargurus.com CNAME .
 img4.nbpa.com CNAME .
 img4.portal.citidirect.com CNAME .
-img4.portaluat.citidirect.com CNAME .
 img4.uscellular.com CNAME .
 img9.target.com CNAME .
 imgcdn.genworth.com CNAME .
@@ -669,6 +670,7 @@ log.open.investorsbank.com CNAME .
 log.scanmypost.co.uk CNAME .
 login-verification.dol.ct.gov CNAME .
 login.eki-net.com CNAME .
+logln.bancoprimus.pt CNAME .
 loyaltyprogram.latam.com CNAME .
 loyaltyprogram.latamairlines.com CNAME .
 ls-dp.nj.thelotter.us CNAME .

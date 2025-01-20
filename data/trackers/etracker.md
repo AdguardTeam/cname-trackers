@@ -39,6 +39,7 @@
 | et.lavita.com | customer.etracker.com |
 | et.majdic.at | customer.etracker.com |
 | et.pns24.de | customer.etracker.com |
+| et.university-of-labour.de | customer.etracker.com |
 | etd.kramer-online.com | customer.etracker.com |
 | etd.wackerneusongroup.com | customer.etracker.com |
 | etd.weidemann.com | customer.etracker.com |
@@ -108,6 +109,7 @@
 | webcontr.jalousiescout.at | customer.etracker.com |
 | webcontr.l.de | customer.etracker.com |
 | webcontr.lmz-bw.de | customer.etracker.com |
+| webcontr.patrick-wentzel.de | customer.etracker.com |
 | webcontr.pedalbox.com | customer.etracker.com |
 | webcontr.reisprinzen.de | customer.etracker.com |
 | webcontr.rollytoys.de | customer.etracker.com |
@@ -124,13 +126,6 @@
 | wurst.hausschlachtebedarf.de | customer.etracker.com |
 | wurst.leffis.de | customer.etracker.com |
 | esub.akkusys.de | customer2.etracker.com |
-| esub.akkusys.shop | customer2.etracker.com |
-| esub.autobatterie-markt.de | customer2.etracker.com |
-| esub.online-batterien.at | customer2.etracker.com |
-| esub.online-batterien.de | customer2.etracker.com |
-| esub.solarshopaustria.at | customer2.etracker.com |
-| esub.solarspeicher24.de | customer2.etracker.com |
-| esub.staplerbatterie.center | customer2.etracker.com |
 | et.juskys.de | customer2.etracker.com |
 | stats.bodenverkauf.de | customer2.etracker.com |
 | stats.ekd.de | customer2.etracker.com |

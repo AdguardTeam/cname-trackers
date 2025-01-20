@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,6 +22,7 @@ tmi.jv-telcoid.es CNAME .
 tmi.vodafone.de CNAME .
 u.20mn.it CNAME .
 utiq-test.utest3.work CNAME .
+utiq.11freunde.de CNAME .
 utiq.20minutos.es CNAME .
 utiq.24auto.de CNAME .
 utiq.24books.de CNAME .
@@ -48,6 +49,7 @@ utiq.autojournal.fr CNAME .
 utiq.automobile-magazine.fr CNAME .
 utiq.autoplus.fr CNAME .
 utiq.az-online.de CNAME .
+utiq.berlin-live.de CNAME .
 utiq.bfmtv.com CNAME .
 utiq.bibamagazine.fr CNAME .
 utiq.bild.de CNAME .
@@ -180,6 +182,7 @@ utiq.laverdad.es CNAME .
 utiq.lavoixdunord.fr CNAME .
 utiq.lavozdigital.es CNAME .
 utiq.le10sport.com CNAME .
+utiq.lebenindeutschland.eu CNAME .
 utiq.lefigaro.fr CNAME .
 utiq.lejournaldelamaison.fr CNAME .
 utiq.lemessager.fr CNAME .
@@ -237,6 +240,8 @@ utiq.petbook.de CNAME .
 utiq.petitbleu.fr CNAME .
 utiq.pleinevie.fr CNAME .
 utiq.pnp.de CNAME .
+utiq.poprosa.com CNAME .
+utiq.programme-tv.net CNAME .
 utiq.programme.tv CNAME .
 utiq.psychologies.com CNAME .
 utiq.purebreak.com CNAME .

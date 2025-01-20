@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1736755208296        ; Serial
+           1737360008032        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ adconsole.proxibid.com CNAME .
 adconsole.sniffies.com CNAME .
 adimages.eva.live CNAME .
 adimages.sniffies.com CNAME .
+ads-console.recon.com CNAME .
 ads-delivery.milenarmedia.pt CNAME .
 ads-static.recon.com CNAME .
 ads.bidspotter.co.uk CNAME .
@@ -47,6 +48,7 @@ adv.consulcesi.it CNAME .
 adv.unionesarda.it CNAME .
 advertising.goldseek.com CNAME .
 adwin.geenstijl.nl CNAME .
+api.adbility-media.com CNAME .
 api.metrike.com CNAME .
 assets.lintigroup.se CNAME .
 banners.cincinnatimagazine.com CNAME .
@@ -54,7 +56,6 @@ banners.geminipub.com CNAME .
 banners.leightonbroadcasting.com CNAME .
 banners.orangecoast.com CNAME .
 by.addrecipes.com CNAME .
-by.adxt.com CNAME .
 cdn-adv.unionesarda.it CNAME .
 cdn.adspmg.com CNAME .
 cdn.conservativestar.com CNAME .
@@ -69,6 +70,7 @@ cdn.revive-adserver.net CNAME .
 cdn.reviveservers.com CNAME .
 cdn.rlnads.net CNAME .
 championads.midtc.com CNAME .
+console.ad.logic.viasat.io CNAME .
 console.adbility-media.com CNAME .
 console.adspmg.com CNAME .
 console.aqua-adserver.com CNAME .
@@ -97,6 +99,7 @@ display.lawbulletin.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
 images.goldseek.com CNAME .
+images.hour-media.com CNAME .
 images.informatm.com CNAME .
 images.jacilla.no CNAME .
 images.mannenmedia.nl CNAME .
@@ -215,6 +218,7 @@ www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
 www.servedby.lintigroup.se CNAME .
 www.servedby.quirks.com CNAME .
+www.servedby.sacommunications.com CNAME .
 www.servedby.schrotundkorn.de CNAME .
 www.static.ad.logic-test.viasat.io CNAME .
 www.static.healthcarescene.com CNAME .

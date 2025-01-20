@@ -52,6 +52,7 @@
 | gemtun.ctnewsjunkie.com | bs-adserver.b-cdn.net |
 | images.decaturish.com | bs-adserver.b-cdn.net |
 | informed.belocalnwa.com | bs-adserver.b-cdn.net |
+| jobs.educationweekjobs.co.uk | bs-adserver.b-cdn.net |
 | kitt.tucsonsentinel.com | bs-adserver.b-cdn.net |
 | news.coveringkaty.com | bs-adserver.b-cdn.net |
 | ourtown.toledoparent.com | bs-adserver.b-cdn.net |
@@ -193,12 +194,12 @@
 | bear.jake.nyc | deprecated-custom-domains.b-cdn.net |
 | bear.modulr.design | deprecated-custom-domains.b-cdn.net |
 | beaver.bluebunnypaper.com | deprecated-custom-domains.b-cdn.net |
+| beaver.brush.ninja | deprecated-custom-domains.b-cdn.net |
 | beaver.ecosecretariat.org | deprecated-custom-domains.b-cdn.net |
 | beaver.livechatlabs.com | deprecated-custom-domains.b-cdn.net |
 | bee.andreawhitmer.com | deprecated-custom-domains.b-cdn.net |
 | bee.farmaciavdg.com | deprecated-custom-domains.b-cdn.net |
 | bee.jbkmobiledj.com | deprecated-custom-domains.b-cdn.net |
-| bee.nfte.app | deprecated-custom-domains.b-cdn.net |
 | bee.shelveholidays.co.uk | deprecated-custom-domains.b-cdn.net |
 | beetle.enlacepermanente.es | deprecated-custom-domains.b-cdn.net |
 | bird.brondby.com | deprecated-custom-domains.b-cdn.net |
@@ -261,7 +262,6 @@
 | cat.mattr.global | deprecated-custom-domains.b-cdn.net |
 | cat.sprucely.net | deprecated-custom-domains.b-cdn.net |
 | cat.thisminute.app | deprecated-custom-domains.b-cdn.net |
-| cat.tinylittlebusinesses.com | deprecated-custom-domains.b-cdn.net |
 | caterpilla.ibon.live | deprecated-custom-domains.b-cdn.net |
 | catfish.lucalabs.com | deprecated-custom-domains.b-cdn.net |
 | catfish.phuclh.com | deprecated-custom-domains.b-cdn.net |
@@ -369,7 +369,6 @@
 | donkey.guggenbichler.co.at | deprecated-custom-domains.b-cdn.net |
 | donkey.hackoregon.org | deprecated-custom-domains.b-cdn.net |
 | donkey.jackellis.me | deprecated-custom-domains.b-cdn.net |
-| donkey.masteringfinland.com | deprecated-custom-domains.b-cdn.net |
 | donkey.mrfrisby.com | deprecated-custom-domains.b-cdn.net |
 | dormouse.consentkit.com | deprecated-custom-domains.b-cdn.net |
 | dove.hoku.nz | deprecated-custom-domains.b-cdn.net |
@@ -792,6 +791,7 @@
 | prairiedog.hashnode.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.thisismattsmith.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.xview.us | deprecated-custom-domains.b-cdn.net |
+| prawn.inchperfect.com | deprecated-custom-domains.b-cdn.net |
 | prawn.lionsmouth.digital | deprecated-custom-domains.b-cdn.net |
 | primate.logology.co | deprecated-custom-domains.b-cdn.net |
 | primate.oleggera.com | deprecated-custom-domains.b-cdn.net |
@@ -1006,6 +1006,7 @@
 | vole.noteapps.info | deprecated-custom-domains.b-cdn.net |
 | vole.sonicrida.com | deprecated-custom-domains.b-cdn.net |
 | vole.tsttechnology.com | deprecated-custom-domains.b-cdn.net |
+| vulture.bettershore.com | deprecated-custom-domains.b-cdn.net |
 | vulture.lagosdesaliencia.com | deprecated-custom-domains.b-cdn.net |
 | wallaby.cron.help | deprecated-custom-domains.b-cdn.net |
 | wallaby.legendkeeper.com | deprecated-custom-domains.b-cdn.net |
