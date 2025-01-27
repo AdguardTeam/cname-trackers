@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -87,8 +87,6 @@ ct5m.citadium.com CNAME .
 ctp1.bforbank.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d0f.le-dauphin.com CNAME .
-d2u.dauphinquebec.com CNAME .
 dbj.quebecregion.com CNAME .
 deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
@@ -260,6 +258,7 @@ gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
+gi7a.structube.com CNAME .
 gli9.inseec-bs.com CNAME .
 gnh2.destinia.lv CNAME .
 gsg9.carrefour-banque.fr CNAME .
@@ -332,8 +331,6 @@ nlf6.vente-unique.pl CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.bonlook.com CNAME .
-nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
@@ -395,10 +392,10 @@ rmp4.destinia.uy CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
-ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
 sa.skoda.fr CNAME .
+sa.skodafabia.fr CNAME .
 sa.skodasuperb.fr CNAME .
 sby1.madeindesign.de CNAME .
 sd.securitasdirect.fr CNAME .
@@ -473,6 +470,7 @@ wnd2.destinia.cat CNAME .
 wph2.destinia.us CNAME .
 www.admanager.fr CNAME .
 www.attribution-school.com CNAME .
+www.attributionday.com CNAME .
 www.dataholics.tech CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
@@ -502,7 +500,11 @@ zyq2.destinia.sk CNAME .
 5fm.985fm.ca CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
+d0f.le-dauphin.com CNAME .
+d2u.dauphinquebec.com CNAME .
+nym5c.bonlook.com CNAME .
+ry0.rythmefm.com CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
-gi7a.structube.com CNAME .
+nym5c.laura.ca CNAME .
 pk1u.melanielyne.com CNAME .

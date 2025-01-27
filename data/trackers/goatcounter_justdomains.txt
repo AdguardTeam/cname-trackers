@@ -98,6 +98,7 @@ stats.niravraval.com
 stats.nullzwo.dev
 stats.palaisdesfetes.eu
 stats.pollux.codes
+stats.raycordlegends.com
 stats.riccardomurachelli.it
 stats.roalgo.ro
 stats.rocketgoboom.lol

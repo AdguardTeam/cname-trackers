@@ -52,12 +52,10 @@
     * 158325876760515.wt-eu02.net
     * 175750679116864.wt-eu02.net
     * 176652923057792.wt-eu02.net
-    * 180629549208289.wt-eu02.net
     * 184874202187158.wt-eu02.net
     * 186015257614542.wt-eu02.net
     * 195357560818821.wt-eu02.net
     * 198101699966051.wt-eu02.net
-    * 209191871910909.wt-eu02.net
     * 215973748390194.wt-eu02.net
     * 227633596530844.wt-eu02.net
     * 229792913412288.wt-eu02.net
@@ -272,13 +270,11 @@
 | web.news.gnv.it | 175750679116864.wt-eu02.net |
 | trk.krebsversicherung.de | 176652923057792.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
-| web.solesource.com | 180629549208289.wt-eu02.net |
 | web.mapp.docpeter.it | 184874202187158.wt-eu02.net |
 | web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
 | webmet.creditreform-mahnwesen.de | 195357560818821.wt-eu02.net |
 | webmet.crefotrust.de | 195357560818821.wt-eu02.net |
 | web.campaign.jaked.com | 198101699966051.wt-eu02.net |
-| web.usautosupply.com | 209191871910909.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
 | web.web.tomasiauto.com | 229792913412288.wt-eu02.net |
@@ -390,7 +386,6 @@
 | web.slimjoy.dk | 657801072187647.wt-eu02.net |
 | web.slimjoy.es | 657801072187647.wt-eu02.net |
 | web.slimjoy.it | 657801072187647.wt-eu02.net |
-| web.slimjoy.ro | 657801072187647.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
@@ -419,6 +414,7 @@
 | w.m.nkl-peters.de | 770833460572104.wt-eu02.net |
 | ctd.domusweb.it | 778835614863159.wt-eu02.net |
 | ctd.dueruote.it | 778835614863159.wt-eu02.net |
+| ctd.edidomus.it | 778835614863159.wt-eu02.net |
 | web.communications.amouage.com | 790635424156780.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.powgen.it | 795078683620107.wt-eu02.net |

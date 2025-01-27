@@ -50,6 +50,7 @@ app03.ikk-classic.de
 cdn7.baunetz.de
 ctd.domusweb.it
 ctd.dueruote.it
+ctd.edidomus.it
 ctdfm.ilgiornale.it
 ctrkd.ilsole24ore.com
 da.bodenhaus.de
@@ -360,10 +361,8 @@ web.slimjoy.cz
 web.slimjoy.dk
 web.slimjoy.es
 web.slimjoy.it
-web.slimjoy.ro
 web.slimjoy.se
 web.slimjoy.sk
-web.solesource.com
 web.tamaris.com
 web.tummy-tox.com
 web.tummytox.at
@@ -376,7 +375,6 @@ web.tummytox.pt
 web.tummytox.sk
 web.update.sandiego.org
 web.updates.ditano.com
-web.usautosupply.com
 web.web.tomasiauto.com
 web.x.ilpost.it
 webanalytics.also.com

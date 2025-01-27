@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -138,10 +138,9 @@ businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em2287.theory.com CNAME .
-em3904.skillshare.com CNAME .
-em7952.dailypay.com CNAME .
+em767.forgetrust.com CNAME .
+em8561.go2bank.com CNAME .
 em924.refer.starbucks.com CNAME .
-em9523.walmartmoneycard.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -500,7 +499,6 @@ share.calvinklein.us CNAME .
 share.carparts.com CNAME .
 share.cefaly.com CNAME .
 share.cellcom.ca CNAME .
-share.cheaperthandirt.com CNAME .
 share.cheaperthandirt.net CNAME .
 share.chewsidental.com CNAME .
 share.cincinnati.com CNAME .
@@ -546,6 +544,7 @@ share.evine.com CNAME .
 share.fastbridgefiber.com CNAME .
 share.fetchpet.com CNAME .
 share.figopetinsurance.com CNAME .
+share.findheadway.com CNAME .
 share.fingercheck.com CNAME .
 share.firstleaf.club CNAME .
 share.firstleaf.com CNAME .
@@ -762,11 +761,12 @@ www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
-em767.forgetrust.com CNAME .
-em8561.go2bank.com CNAME .
+em7952.dailypay.com CNAME .
 em8928.em.petco.com CNAME .
+em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.skillshare.com CNAME .

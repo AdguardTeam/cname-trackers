@@ -18,6 +18,7 @@
 ||l.actu.fr^
 ||l.africabusinessplus.com^
 ||l.africanews.com^
+||l.aisnenouvelle.fr^
 ||l.allocine.fr^
 ||l.alternatives-economiques.fr^
 ||l.aufeminin.com^
@@ -31,6 +32,7 @@
 ||l.bibamagazine.fr^
 ||l.bienpublic.com^
 ||l.blissim.fr^
+||l.bon-esprit.fr^
 ||l.caminteresse.fr^
 ||l.capital.fr^
 ||l.centre-presse.fr^
@@ -39,6 +41,7 @@
 ||l.charentelibre.fr^
 ||l.closermag.fr^
 ||l.cnetfrance.fr^
+||l.courrier-picard.fr^
 ||l.cuisineactuelle.fr^
 ||l.diapasonmag.fr^
 ||l.dna.fr^
@@ -75,6 +78,7 @@
 ||l.heidi.news^
 ||l.humanite.fr^
 ||l.ici.fr^
+||l.ideat.fr^
 ||l.jeuneafrique.com^
 ||l.jeuxvideo.com^
 ||l.journaldemillau.fr^
@@ -126,6 +130,7 @@
 ||l.ouest-france.fr^
 ||l.ozap.com^
 ||l.paroledemamans.com^
+||l.planet.fr^
 ||l.pleinevie.fr^
 ||l.programme-tv.net^
 ||l.programme.tv^

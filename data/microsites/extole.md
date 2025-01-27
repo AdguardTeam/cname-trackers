@@ -237,7 +237,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -286,6 +285,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * forgetrust.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
@@ -307,6 +307,7 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -316,6 +317,7 @@
     * harley.extole.io
     * harryrosen.extole.io
     * havenwellwithin.extole.io
+    * headway.extole.io
     * henri-bendel.extole.io
     * heydayskincare.extole.io
     * heydude.extole.io
@@ -493,7 +495,6 @@
     * simon-and-schuster.extole.io
     * simplepractice.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -576,7 +577,6 @@
     * vonagebusiness.extole.io
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
-    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
@@ -731,7 +731,6 @@
 | refer.centier.com | centier.extole.io |
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
-| share.cheaperthandirt.com | cheaper-than-dirt.extole.io |
 | share.cheaperthandirt.net | cheaper-than-dirt.extole.io |
 | refer.cheaptickets.com | cheaptickets.extole.io |
 | refer.checkngo.com | checkngo.extole.com |
@@ -782,7 +781,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -849,6 +847,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.forgetrust.com | forgetrust.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
@@ -932,6 +931,7 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -949,6 +949,7 @@
 | refer.harryrosen.com | harryrosen.extole.io |
 | refer.hattiesburgamerican.com | hattiesburgamerican.extole.com |
 | share.havenwellwithin.com | havenwellwithin.extole.io |
+| share.findheadway.com | headway.extole.io |
 | refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | refer.henribendel.com | henri-bendel.extole.io |
 | share.heydayskincare.com | heydayskincare.extole.io |
@@ -1209,7 +1210,6 @@
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | share.simplepractice.com | simplepractice.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1336,7 +1336,6 @@
 | share.vonage.com | vonagebusiness.extole.io |
 | share.vonage.co.uk | vonagebusinessuk.extole.io |
 | share.wagwalking.com | wagwalking.extole.io |
-| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |

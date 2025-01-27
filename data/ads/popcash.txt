@@ -163,6 +163,7 @@
 ||albatross.creacoon.com^
 ||albatross.mypromo.co^
 ||albatross.ohseesoftware.com^
+||alligator.bluehorn.digital^
 ||alligator.remotecyberwork.com^
 ||alpaca.hans-hornberger.com^
 ||alpaca.miidbaby.com^
@@ -248,7 +249,6 @@
 ||bear.modulr.design^
 ||beaver.bluebunnypaper.com^
 ||beaver.brush.ninja^
-||beaver.ecosecretariat.org^
 ||beaver.livechatlabs.com^
 ||bee.andreawhitmer.com^
 ||bee.farmaciavdg.com^
@@ -350,6 +350,7 @@
 ||chicken.alpla.info^
 ||chicken.clerklabs.com^
 ||chicken.couleur.io^
+||chicken.p2pmarketdata.com^
 ||chicken.redbrushart.com^
 ||chicken.tjsoler.dev^
 ||chicken.zwei.haus^
@@ -402,7 +403,6 @@
 ||cuckoo.jerandky.com^
 ||cuckoo.minaexplorer.com^
 ||cuckoo.peoplefirstjobs.com^
-||damselfly.clk.click^
 ||damselfly.vegenook.com^
 ||deer.m1x.co^
 ||deer.ray.io^
@@ -437,6 +437,7 @@
 ||earthworm.mxdvl.com^
 ||earthworm.robbevanpetegem.be^
 ||earwig.architecturesofhiding.com^
+||earwig.oofi.es^
 ||echidna.hellotomorrow.agency^
 ||echidna.honeybadger.io^
 ||echidna.scandinaviantaste.no^
@@ -660,8 +661,10 @@
 ||leopard.laszlo.cloud^
 ||leopard.ui-snippets.dev^
 ||leopard.understandit.se^
+||leopon.jmk.wtf^
 ||leopon.luckycasts.com^
 ||leopon.originalmineral.com^
+||leopon.thingsin.space^
 ||limpet.eddiehinkle.com^
 ||limpet.pioneerlandscapingllc.com^
 ||limpet.yago.dev^
@@ -673,6 +676,7 @@
 ||llama.growthinkers.nl^
 ||llama.lobbly.com^
 ||llama.mallardbay.com^
+||llama.whatcha.io^
 ||lobster.justunderwear.com^
 ||locust.ausrebellion.earth^
 ||loon.analogjoe.com^
@@ -737,6 +741,7 @@
 ||monkey.colinjohnston.com^
 ||monkey.compulsivo.co^
 ||moose.cloverlearning.com^
+||moose.octo.app^
 ||mosquito.birbs.art^
 ||mosquito.iamamandaperez.com^
 ||mosquito.nooraldiyar.com^
@@ -893,6 +898,7 @@
 ||rook.grithix.com^
 ||rooster.cashforcolumbushouses.com^
 ||rooster.ohqcloud.com^
+||sailfish.deck9.co^
 ||sailfish.hoap.com^
 ||sailfish.kentcdodds.com^
 ||sailfish.lifelines-film.com^
@@ -1026,6 +1032,7 @@
 ||toad.ettiennevorster.co.za^
 ||toad.frontendmentor.io^
 ||tortoise.mdx.one^
+||tortoise.trysmartplan.com^
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
 ||treefrog.kaffeknappen.no^
@@ -1066,6 +1073,7 @@
 ||wallaby.short1.link^
 ||walrus.fetzcolor.at^
 ||walrus.oscaroarevalo.com^
+||walrus.scalue.com^
 ||warbler.resumebuilder.dev^
 ||wasp.dyrynda.dev^
 ||wasp.mattjennings.io^

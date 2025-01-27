@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,6 +140,7 @@ cmp.dieterengroup.com CNAME .
 cmp.dieterenmobilitycompany.be CNAME .
 cmp.microlino.be CNAME .
 cmp.microlino.fr CNAME .
+cmp.myaudi.be CNAME .
 cmp.myway.be CNAME .
 cmp.porsche.be CNAME .
 cmp.seat.be CNAME .
@@ -235,7 +236,6 @@ ens.trauerportal-ostschweiz.ch CNAME .
 ens.urnerzeitung.ch CNAME .
 ens.wilerzeitung.ch CNAME .
 ens.zugerzeitung.ch CNAME .
-ensighten.airnewzealand.co.uk CNAME .
 ensighten.bhphoto.com CNAME .
 ensighten.davidyurman.com CNAME .
 ensighten.distrelec.com CNAME .
@@ -404,6 +404,7 @@ tms.suzukibusinesscloud-qa.com CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
 tracking-sst.clicksafety.com CNAME .
+uat1-dc.gordonsjewelers.com CNAME .
 uat1-dc.pagoda.com CNAME .
 uat1-dc.peoplesjewellers.com CNAME .
 uat1-dc.zales.com CNAME .

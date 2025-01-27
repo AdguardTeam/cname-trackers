@@ -10,6 +10,7 @@
     * a1-api-bbc-co-uk-cddc.at-o.net
     * a1-api-bbc-com-cddc.at-o.net
     * abncx-amv-fr-cddc.at-o.net
+    * adl-national-lottery-co-uk-cddc.at-o.net
     * ana-tv5unis-ca-cddc.at-o.net
     * arrietty-nrj-fr-cddc.at-o.net
     * at-badische-zeitung-de-cddc.at-o.net
@@ -104,6 +105,7 @@
     * stiwa-test-de-cddc.at-o.net
     * strawberry-basf-com-cddc.at-o.net
     * tm-urssaf-fr-cddc.at-o.net
+    * tm-urssaf-org-cddc.at-o.net
     * torropinto-viessmann-es-cddc.at-o.net
     * tse-telerama-fr-cddc.at-o.net
     * uusimaa-viessmann-fi-cddc.at-o.net
@@ -130,6 +132,7 @@
 | ati-a1.946d001b783803c1.xhst.bbci.co.uk | a1-api-bbc-co-uk-cddc.at-o.net |
 | a1.api.bbc.com | a1-api-bbc-com-cddc.at-o.net |
 | abncx.amv.fr | abncx-amv-fr-cddc.at-o.net |
+| adl.national-lottery.co.uk | adl-national-lottery-co-uk-cddc.at-o.net |
 | ana.tv5unis.ca | ana-tv5unis-ca-cddc.at-o.net |
 | arrietty.nrj.fr | arrietty-nrj-fr-cddc.at-o.net |
 | at.badische-zeitung.de | at-badische-zeitung-de-cddc.at-o.net |
@@ -225,6 +228,7 @@
 | strawberry.basf.com | strawberry-basf-com-cddc.at-o.net |
 | www.strawberry.basf.com | strawberry-basf-com-cddc.at-o.net |
 | tm.urssaf.fr | tm-urssaf-fr-cddc.at-o.net |
+| tm.urssaf.org | tm-urssaf-org-cddc.at-o.net |
 | torropinto.viessmann.es | torropinto-viessmann-es-cddc.at-o.net |
 | tse.telerama.fr | tse-telerama-fr-cddc.at-o.net |
 | uusimaa.viessmann.fi | uusimaa-viessmann-fi-cddc.at-o.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,7 +24,6 @@ ast.welt.de CNAME .
 blackberry.basf.com CNAME .
 blackberry.suvinil.com.br CNAME .
 collect.aeonbank.co.jp CNAME .
-collect.ansons.de CNAME .
 collect.asics.com CNAME .
 collect.calvinklein.at CNAME .
 collect.calvinklein.be CNAME .
@@ -39,12 +38,10 @@ collect.calvinklein.ee CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
-collect.calvinklein.hr CNAME .
 collect.calvinklein.hu CNAME .
 collect.calvinklein.ie CNAME .
 collect.calvinklein.it CNAME .
 collect.calvinklein.lt CNAME .
-collect.calvinklein.lu CNAME .
 collect.calvinklein.lv CNAME .
 collect.calvinklein.nl CNAME .
 collect.calvinklein.pl CNAME .
@@ -103,6 +100,7 @@ t.sumppumpsdirect.com CNAME .
 t.waterpumpsdirect.com CNAME .
 tag.bi.serviceplan.com CNAME .
 tagdelivery.mayoclinic.org CNAME .
+tags.3m.com.om CNAME .
 tags.abercrombie.com CNAME .
 tags.accessmore.com CNAME .
 tags.achieve.com CNAME .
@@ -151,7 +149,6 @@ tags.calvinklein.hu CNAME .
 tags.calvinklein.ie CNAME .
 tags.calvinklein.it CNAME .
 tags.calvinklein.lt CNAME .
-tags.calvinklein.lu CNAME .
 tags.calvinklein.lv CNAME .
 tags.calvinklein.nl CNAME .
 tags.calvinklein.pl CNAME .
@@ -192,6 +189,7 @@ tags.gnhearing.com CNAME .
 tags.golosameriki.com CNAME .
 tags.groupmartech.vodafone.com CNAME .
 tags.gskpro-com.preview-cf65.gskinternet.com CNAME .
+tags.healthinsurance.be CNAME .
 tags.heathrow.com CNAME .
 tags.heathrowexpress.com CNAME .
 tags.hollisterco.com CNAME .
@@ -257,7 +255,6 @@ tags.severreal.org CNAME .
 tags.shaw.ca CNAME .
 tags.shop.com CNAME .
 tags.sibreal.org CNAME .
-tags.sixpad.jp CNAME .
 tags.slobodnaevropa.mk CNAME .
 tags.slobodnaevropa.org CNAME .
 tags.streampicker.de CNAME .
@@ -304,6 +301,7 @@ tags.voatiengviet.com CNAME .
 tags.voaturkce.com CNAME .
 tags.voazimbabwe.com CNAME .
 tags.vodafone.pt CNAME .
+tags.voluntariadocaixabank.org CNAME .
 tags.votvot.tv CNAME .
 tags.vozdeamerica.com CNAME .
 tags.wainao.me CNAME .
@@ -416,3 +414,8 @@ vtd.vontobelsfa.com CNAME .
 webtags.logitech.com CNAME .
 webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
+collect.ansons.de CNAME .
+collect.calvinklein.hr CNAME .
+collect.calvinklein.lu CNAME .
+tags.calvinklein.lu CNAME .
+tags.sixpad.jp CNAME .

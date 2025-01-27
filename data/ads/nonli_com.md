@@ -16,6 +16,7 @@
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |
+| l.bon-esprit.fr | non.li |
 | l.heidi.news | non.li |
 | l.monacomatin.mc | non.li |
 | l.mprovence.com | non.li |
@@ -32,15 +33,11 @@
 | l.dna.fr | origin.non.li |
 | l.estrepublicain.fr | origin.non.li |
 | l.lalsace.fr | origin.non.li |
-| l.lalsace.fr | origin.non.li |
 | l.ledauphine.com | origin.non.li |
-| l.ledauphine.com | origin.non.li |
-| l.lejsl.com | origin.non.li |
 | l.lejsl.com | origin.non.li |
 | l.leprogres.fr | origin.non.li |
+| l.leprogres.fr | origin.non.li |
 | l.republicain-lorrain.fr | origin.non.li |
-| l.republicain-lorrain.fr | origin.non.li |
-| l.vosgesmatin.fr | origin.non.li |
 | l.vosgesmatin.fr | origin.non.li |
 | l.bienpublic.com | tls-ebra.non.li |
 | l.dna.fr | tls-ebra.non.li |
@@ -70,6 +67,7 @@
 | l.actu.fr | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |
 | l.africanews.com | tls.non.li |
+| l.aisnenouvelle.fr | tls.non.li |
 | l.allocine.fr | tls.non.li |
 | l.alternatives-economiques.fr | tls.non.li |
 | l.aujourdhui.fr | tls.non.li |
@@ -88,6 +86,7 @@
 | l.charentelibre.fr | tls.non.li |
 | l.closermag.fr | tls.non.li |
 | l.cnetfrance.fr | tls.non.li |
+| l.courrier-picard.fr | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
 | l.diapasonmag.fr | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
@@ -121,6 +120,7 @@
 | l.harpersbazaar.fr | tls.non.li |
 | l.humanite.fr | tls.non.li |
 | l.ici.fr | tls.non.li |
+| l.ideat.fr | tls.non.li |
 | l.jeuneafrique.com | tls.non.li |
 | l.jeuxvideo.com | tls.non.li |
 | l.journaldemillau.fr | tls.non.li |
@@ -164,6 +164,7 @@
 | l.ouest-france.fr | tls.non.li |
 | l.ozap.com | tls.non.li |
 | l.paroledemamans.com | tls.non.li |
+| l.planet.fr | tls.non.li |
 | l.pleinevie.fr | tls.non.li |
 | l.programme-tv.net | tls.non.li |
 | l.programme.tv | tls.non.li |

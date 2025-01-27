@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,11 +54,13 @@ affil.kralovstvi-tiande.cz CNAME .
 affil.lesgoodies.com CNAME .
 affil.litinove-nadobi.cz CNAME .
 affil.lojdovale.cz CNAME .
+affil.moringamix.cz CNAME .
 affil.mydrinks.cz CNAME .
 affil.nanoshop.cz CNAME .
 affil.nanospace.cz CNAME .
 affil.nutriadapt.cz CNAME .
 affil.peliskydog.cz CNAME .
+affil.pgs.sk CNAME .
 affil.plkshop.cz CNAME .
 affil.progamingshop.sk CNAME .
 affil.reedog.cz CNAME .
@@ -586,7 +588,6 @@ partner.hegesztok-bolt.hu CNAME .
 partner.hizeromop.com CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
-partner.hothousecucumber.com CNAME .
 partner.hubnu.online CNAME .
 partner.hubnutimarija.cz CNAME .
 partner.hunter.games CNAME .
@@ -753,7 +754,6 @@ partner.tahnabranu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.thelisteningworld.com CNAME .
 partner.top-obaly.cz CNAME .
-partner.totalniplavani.cz CNAME .
 partner.tozax.cz CNAME .
 partner.tozax.sk CNAME .
 partner.tyano.cz CNAME .
@@ -819,6 +819,7 @@ partneri.edibles.eu CNAME .
 partneri.eduway.cz CNAME .
 partneri.epiderma.cz CNAME .
 partneri.eshop.hankamokra.cz CNAME .
+partneri.eshop.jarkamatuskova.cz CNAME .
 partneri.espressoenglish.cz CNAME .
 partneri.evolveo.com CNAME .
 partneri.evolveo.cz CNAME .
@@ -897,6 +898,7 @@ partneri.serafinbyliny.cz CNAME .
 partneri.silaprozivot.com CNAME .
 partneri.smartemailing.cz CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .
+partneri.somsamasebou.sk CNAME .
 partneri.sportfotbal.cz CNAME .
 partneri.sportmentor.cz CNAME .
 partneri.sterixretro.cz CNAME .
@@ -963,6 +965,7 @@ splatky.aquatrend.sk CNAME .
 spolu.kuskakaa.cz CNAME .
 spoluhraci.decathlon.cz CNAME .
 spolupraca.aretacia-rozvodov.sk CNAME .
+spolupraca.easylight.sk CNAME .
 spolupraca.vivobarefoot.sk CNAME .
 spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .
@@ -971,6 +974,7 @@ spoluprace.cistapohoda.cz CNAME .
 spoluprace.eroticstore.cz CNAME .
 spoluprace.fotozde.cz CNAME .
 spoluprace.galaxy.cz CNAME .
+spoluprace.gprooms.eu CNAME .
 spoluprace.h2world.store CNAME .
 spoluprace.hyla.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .

@@ -118,6 +118,7 @@ adebis01.job-con.jp
 adebis02.juku.st
 adebis0508.brain-sleep.com
 adebis1.1rnavi.com
+adebis2.line-property.com
 adebis8628.matsui.co.jp
 adebiscname.au-sonpo.co.jp
 adebiscname.auone.jp
@@ -280,6 +281,7 @@ ebisfracora.like.jp
 ebisstore.tamagokichi.com
 ebistoppan1.kyowahakko-bio-campaign-1.com
 ebistoppan2.10nengenki.com
+ebistoppan3.ornithine.jp
 emc.dr-stick.shop
 euglism.euglenaone.jp
 frontierconsul02.tsunagaru-office.com

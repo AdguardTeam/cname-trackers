@@ -181,7 +181,6 @@
 ||a8.kougu-kaitoriyasan.com^
 ||a8.kujo-service.com^
 ||a8.l-co-shop.jp^
-||a8.labiotte.jp^
 ||a8.lacitashop.com^
 ||a8.lantelno.jp^
 ||a8.lat-international.com^
@@ -613,6 +612,7 @@
 ||a8clk.patpat.com^
 ||a8clk.petelect.jp^
 ||a8clk.petitjob.jp^
+||a8clk.ph-10.com^
 ||a8clk.photo-gift.me^
 ||a8clk.photorevo.info^
 ||a8clk.plusone.space^
@@ -664,7 +664,6 @@
 ||a8clk.sohbi-company.com^
 ||a8clk.solideajapan.com^
 ||a8clk.sp.move-ebike.co.jp^
-||a8clk.speedcoaching.co.jp^
 ||a8clk.staff.mynavi.jp^
 ||a8clk.star-mall.net^
 ||a8clk.starwifi.jp^
@@ -1164,6 +1163,7 @@
 ||a8cv.r-maid.com^
 ||a8cv.radi-cool.shop^
 ||a8cv.rakumizu.jp^
+||a8cv.rank-checker.com^
 ||a8cv.rawfood-lohas.com^
 ||a8cv.raycop.co.jp^
 ||a8cv.rehome-navi.com^
@@ -1307,7 +1307,6 @@
 ||a8cv.www.covearth.co.jp^
 ||a8cv.www.iropuri.com^
 ||a8cv.www.mogecheck.jp^
-||a8cv.www.monologue.watch^
 ||a8cv.www.pascaljp.com^
 ||a8cv.www.sofastyle.jp^
 ||a8cv.www2.sundai.ac.jp^
@@ -1491,7 +1490,6 @@
 ||cv.colleize.com^
 ||cv.cp-c21.com^
 ||cv.denkichoice.jp^
-||cv.drive-hikari.net^
 ||cv.e-tukline.jp^
 ||cv.fire-bird.jp^
 ||cv.gas-choice.net^
@@ -1523,6 +1521,7 @@
 ||cv.re-shop.jp^
 ||cv.ryoutuki-kyujin.com^
 ||cv.shiryoku1.com^
+||cv.smakon.jp^
 ||cv.stella-s.com^
 ||cv.subscription-store.com^
 ||cv.sumaho-hoken.jp^
@@ -1543,7 +1542,6 @@
 ||cv.www.rokuzan.net^
 ||cv.xn--bcktcvdzde3c.biz^
 ||cv.xn--zbs202g.com^
-||cv.zephylrin-x.net^
 ||cv1.start-eo.jp^
 ||cv1.stefany.co.jp^
 ||dwuzxuvwlq.winticket.jp^

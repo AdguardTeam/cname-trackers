@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,9 +13,11 @@ $TTL 300
 
 a-api.skz.dev CNAME .
 a.linkz.ai CNAME .
+a.visitelitoral.com CNAME .
 aloha.getoperand.com CNAME .
 also.greatsecuritydebate.net CNAME .
 an.xavierrosee.com CNAME .
+ana.grumpygamer.com CNAME .
 analytics.adam.page CNAME .
 analytics.andrewsmith.com.au CNAME .
 analytics.arunraghavan.net CNAME .
@@ -139,7 +141,6 @@ pa-stats.encore.dev CNAME .
 pa.opqr.co CNAME .
 pa.travelwhiz.app CNAME .
 peards.zevvle.com CNAME .
-pine.clk.click CNAME .
 pine.nervecentral.com CNAME .
 ping.naturadapt.com CNAME .
 ping.resoluteoil.com CNAME .
@@ -159,6 +160,7 @@ pl.maya-astro.fi CNAME .
 pl.mynorthstarapp.com CNAME .
 pl.terraintinker.com CNAME .
 pl.venusafe.com CNAME .
+pl.volunteeringhb.org.nz CNAME .
 pla.wigglepixel.nl CNAME .
 plan.devbyexample.com CNAME .
 plans.fundtherebuild.com CNAME .
@@ -202,6 +204,7 @@ plausible.deploymentfromscratch.com CNAME .
 plausible.dev.logicboard.com CNAME .
 plausible.dingran.me CNAME .
 plausible.doctave.com CNAME .
+plausible.easytrak.io CNAME .
 plausible.ejs.dev CNAME .
 plausible.eurostocks.nl CNAME .
 plausible.exploreandcreate.com CNAME .
@@ -497,6 +500,7 @@ stats.fastbackward.app CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
 stats.ferienwohnung-dombrowski.com CNAME .
+stats.filejuggler.com CNAME .
 stats.finalrabiesgeneration.org CNAME .
 stats.findvax.us CNAME .
 stats.flightsphere.com CNAME .
@@ -581,6 +585,7 @@ stats.keirwhitaker.com CNAME .
 stats.kendix.org CNAME .
 stats.kensho.com CNAME .
 stats.kettlebellbundle.com CNAME .
+stats.kevlatus.de CNAME .
 stats.kfcsint-lenaartsjeugd.be CNAME .
 stats.klaussteinke.com CNAME .
 stats.klj-consult.com CNAME .
@@ -615,7 +620,6 @@ stats.literacysomerset.org CNAME .
 stats.literaturkreis.online CNAME .
 stats.lmdsp.com CNAME .
 stats.localmetravel.com CNAME .
-stats.lord.io CNAME .
 stats.lstfnd.de CNAME .
 stats.ltdhunt.com CNAME .
 stats.luieremmer.net CNAME .
@@ -684,7 +688,6 @@ stats.ordinarypuzzles.com CNAME .
 stats.ortussolutions.com CNAME .
 stats.osiemsiedem.com CNAME .
 stats.otsohavanto.net CNAME .
-stats.outpostdemo.com CNAME .
 stats.ownpath.xyz CNAME .
 stats.owre.se CNAME .
 stats.p42.ai CNAME .
@@ -707,7 +710,6 @@ stats.petr.codes CNAME .
 stats.phili.pe CNAME .
 stats.photographer.com.au CNAME .
 stats.pinoymusicstation.com CNAME .
-stats.piplette.co CNAME .
 stats.pitstone.co.uk CNAME .
 stats.planxti.com CNAME .
 stats.playoutgame.app CNAME .
@@ -794,7 +796,6 @@ stats.staging.hex.pm CNAME .
 stats.staging.hexdocs.pm CNAME .
 stats.stephlow.audio CNAME .
 stats.steuer-soldaten.de CNAME .
-stats.stoelverhoger.net CNAME .
 stats.strawberry.rocks CNAME .
 stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
@@ -812,6 +813,7 @@ stats.teenranch.com CNAME .
 stats.tekin.co.uk CNAME .
 stats.terre-compagne.fr CNAME .
 stats.textprotocol.org CNAME .
+stats.thecapablecollective.com CNAME .
 stats.theiere-tasse.com CNAME .
 stats.thelandofar.be CNAME .
 stats.thenewradiance.com CNAME .

@@ -62,11 +62,13 @@
 | affil.lesgoodies.com | cz.affilbox.cz |
 | affil.litinove-nadobi.cz | cz.affilbox.cz |
 | affil.lojdovale.cz | cz.affilbox.cz |
+| affil.moringamix.cz | cz.affilbox.cz |
 | affil.mydrinks.cz | cz.affilbox.cz |
 | affil.nanoshop.cz | cz.affilbox.cz |
 | affil.nanospace.cz | cz.affilbox.cz |
 | affil.nutriadapt.cz | cz.affilbox.cz |
 | affil.peliskydog.cz | cz.affilbox.cz |
+| affil.pgs.sk | cz.affilbox.cz |
 | affil.plkshop.cz | cz.affilbox.cz |
 | affil.progamingshop.sk | cz.affilbox.cz |
 | affil.reedog.cz | cz.affilbox.cz |
@@ -594,7 +596,6 @@
 | partner.hizeromop.com | cz.affilbox.cz |
 | partner.hodinarstvi.cz | cz.affilbox.cz |
 | partner.hoska-tour.cz | cz.affilbox.cz |
-| partner.hothousecucumber.com | cz.affilbox.cz |
 | partner.hubnu.online | cz.affilbox.cz |
 | partner.hubnutimarija.cz | cz.affilbox.cz |
 | partner.hunter.games | cz.affilbox.cz |
@@ -761,7 +762,6 @@
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.thelisteningworld.com | cz.affilbox.cz |
 | partner.top-obaly.cz | cz.affilbox.cz |
-| partner.totalniplavani.cz | cz.affilbox.cz |
 | partner.tozax.cz | cz.affilbox.cz |
 | partner.tozax.sk | cz.affilbox.cz |
 | partner.tyano.cz | cz.affilbox.cz |
@@ -827,6 +827,7 @@
 | partneri.eduway.cz | cz.affilbox.cz |
 | partneri.epiderma.cz | cz.affilbox.cz |
 | partneri.eshop.hankamokra.cz | cz.affilbox.cz |
+| partneri.eshop.jarkamatuskova.cz | cz.affilbox.cz |
 | partneri.espressoenglish.cz | cz.affilbox.cz |
 | partneri.evolveo.com | cz.affilbox.cz |
 | partneri.evolveo.cz | cz.affilbox.cz |
@@ -905,6 +906,7 @@
 | partneri.silaprozivot.com | cz.affilbox.cz |
 | partneri.smartemailing.cz | cz.affilbox.cz |
 | partneri.smyslovy-pruzkumnik.cz | cz.affilbox.cz |
+| partneri.somsamasebou.sk | cz.affilbox.cz |
 | partneri.sportfotbal.cz | cz.affilbox.cz |
 | partneri.sportmentor.cz | cz.affilbox.cz |
 | partneri.sterixretro.cz | cz.affilbox.cz |
@@ -971,6 +973,7 @@
 | spolu.kuskakaa.cz | cz.affilbox.cz |
 | spoluhraci.decathlon.cz | cz.affilbox.cz |
 | spolupraca.aretacia-rozvodov.sk | cz.affilbox.cz |
+| spolupraca.easylight.sk | cz.affilbox.cz |
 | spolupraca.vivobarefoot.sk | cz.affilbox.cz |
 | spoluprace.aretacni-pripravky.cz | cz.affilbox.cz |
 | spoluprace.bafoo.cz | cz.affilbox.cz |
@@ -979,6 +982,7 @@
 | spoluprace.eroticstore.cz | cz.affilbox.cz |
 | spoluprace.fotozde.cz | cz.affilbox.cz |
 | spoluprace.galaxy.cz | cz.affilbox.cz |
+| spoluprace.gprooms.eu | cz.affilbox.cz |
 | spoluprace.h2world.store | cz.affilbox.cz |
 | spoluprace.hyla.cz | cz.affilbox.cz |
 | spoluprace.janitaurbanova.cz | cz.affilbox.cz |

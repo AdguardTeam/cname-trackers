@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -182,7 +182,6 @@ tr.business-quotes.co.uk CNAME .
 tr.businessdev.younited-credit.es CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
-tr.camara.eu.com CNAME .
 tr.campaign.colossusbets.com CNAME .
 tr.candidats-dispos-fed.fr CNAME .
 tr.capu.espmp-agfr.net CNAME .
@@ -823,7 +822,6 @@ tr.news.kaptainmusic.fr CNAME .
 tr.news.kpmg-avocats.fr CNAME .
 tr.news.kpmg.fr CNAME .
 tr.news.kpmgacademy.fr CNAME .
-tr.news.kpmgnet.fr CNAME .
 tr.news.kuhn.com CNAME .
 tr.news.la-collectionairfrance.fr CNAME .
 tr.news.la-meilleure-voyance.com CNAME .
@@ -1131,6 +1129,7 @@ tr.urfk04h.espmp-nifr.net CNAME .
 tr.urfk050.espmp-cufr.net CNAME .
 tr.urfk052.espmp-cufr.net CNAME .
 tr.urfk053.espmp-aufr.net CNAME .
+tr.urfk056.espmp-nifr.net CNAME .
 tr.urfk057.espmp-aufr.net CNAME .
 tr.urfk05g.espmp-agfr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .

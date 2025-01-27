@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,7 @@ actionlk.ozie.co.jp CNAME .
 al.484364.com CNAME .
 al.aaa-shop.jp CNAME .
 al.agriz.net CNAME .
+al.ala-mode.jp CNAME .
 al.amiami345.shop CNAME .
 al.amorosa-shop.jp CNAME .
 al.andmel.jp CNAME .
@@ -80,6 +81,7 @@ al.talex.co.jp CNAME .
 al.tanabesports.com CNAME .
 al.tokimeku-otoriyose.jp CNAME .
 al.tsukurupajama.jp CNAME .
+al.urbancosme.co.jp CNAME .
 al.uruoin.com CNAME .
 al.uzu-japan.com CNAME .
 al.vintorte.com CNAME .

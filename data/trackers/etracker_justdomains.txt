@@ -1,6 +1,7 @@
 #
 # Company name: Etracker
 analytics.freiraumakustik.de
+assets.telefonanlage-shop.de
 atrdb.laeckerli-huus.ch
 auszeichnungen.pokale-nrw.de
 bmkt.bernhardtmoden.de

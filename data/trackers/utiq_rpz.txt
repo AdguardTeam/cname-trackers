@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -206,6 +206,7 @@ utiq.marmiton.org CNAME .
 utiq.meine-anzeigenzeitung.de CNAME .
 utiq.mejorconectados.com CNAME .
 utiq.merkur.de CNAME .
+utiq.metodomontessori.com CNAME .
 utiq.midilibre.fr CNAME .
 utiq.millenium.gg CNAME .
 utiq.millenium.org CNAME .
@@ -268,6 +269,7 @@ utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
 utiq.sportlerfrage.net CNAME .
 utiq.sports.fr CNAME .
+utiq.staging--wiwo.hmg.systems CNAME .
 utiq.stimme.de CNAME .
 utiq.stylebook.de CNAME .
 utiq.sudouest.fr CNAME .

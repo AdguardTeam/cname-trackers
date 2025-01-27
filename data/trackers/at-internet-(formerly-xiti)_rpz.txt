@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ a.pourquoidocteur.fr CNAME .
 a1.api.bbc.co.uk CNAME .
 a1.api.bbc.com CNAME .
 abncx.amv.fr CNAME .
+adl.national-lottery.co.uk CNAME .
 ana.tv5unis.ca CNAME .
 arrietty.nrj.fr CNAME .
 at-cddc.actu-juridique.fr CNAME .
@@ -113,6 +114,7 @@ steinsala.viessmann.lu CNAME .
 stiwa.test.de CNAME .
 strawberry.basf.com CNAME .
 tm.urssaf.fr CNAME .
+tm.urssaf.org CNAME .
 torropinto.viessmann.es CNAME .
 tse.telerama.fr CNAME .
 uusimaa.viessmann.fi CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -129,6 +129,7 @@ adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .
 adebis0508.brain-sleep.com CNAME .
 adebis1.1rnavi.com CNAME .
+adebis2.line-property.com CNAME .
 adebis8628.matsui.co.jp CNAME .
 adebiscname.au-sonpo.co.jp CNAME .
 adebiscname.auone.jp CNAME .
@@ -291,6 +292,7 @@ ebisfracora.like.jp CNAME .
 ebisstore.tamagokichi.com CNAME .
 ebistoppan1.kyowahakko-bio-campaign-1.com CNAME .
 ebistoppan2.10nengenki.com CNAME .
+ebistoppan3.ornithine.jp CNAME .
 emc.dr-stick.shop CNAME .
 euglism.euglenaone.jp CNAME .
 frontierconsul02.tsunagaru-office.com CNAME .

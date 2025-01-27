@@ -2,9 +2,11 @@
 # Company name: Plausible Analytics
 a-api.skz.dev
 a.linkz.ai
+a.visitelitoral.com
 aloha.getoperand.com
 also.greatsecuritydebate.net
 an.xavierrosee.com
+ana.grumpygamer.com
 analytics.adam.page
 analytics.andrewsmith.com.au
 analytics.arunraghavan.net
@@ -128,7 +130,6 @@ pa-stats.encore.dev
 pa.opqr.co
 pa.travelwhiz.app
 peards.zevvle.com
-pine.clk.click
 pine.nervecentral.com
 ping.naturadapt.com
 ping.resoluteoil.com
@@ -148,6 +149,7 @@ pl.maya-astro.fi
 pl.mynorthstarapp.com
 pl.terraintinker.com
 pl.venusafe.com
+pl.volunteeringhb.org.nz
 pla.wigglepixel.nl
 plan.devbyexample.com
 plans.fundtherebuild.com
@@ -191,6 +193,7 @@ plausible.deploymentfromscratch.com
 plausible.dev.logicboard.com
 plausible.dingran.me
 plausible.doctave.com
+plausible.easytrak.io
 plausible.ejs.dev
 plausible.eurostocks.nl
 plausible.exploreandcreate.com
@@ -486,6 +489,7 @@ stats.fastbackward.app
 stats.felipesere.com
 stats.femtobill.com
 stats.ferienwohnung-dombrowski.com
+stats.filejuggler.com
 stats.finalrabiesgeneration.org
 stats.findvax.us
 stats.flightsphere.com
@@ -570,6 +574,7 @@ stats.keirwhitaker.com
 stats.kendix.org
 stats.kensho.com
 stats.kettlebellbundle.com
+stats.kevlatus.de
 stats.kfcsint-lenaartsjeugd.be
 stats.klaussteinke.com
 stats.klj-consult.com
@@ -604,7 +609,6 @@ stats.literacysomerset.org
 stats.literaturkreis.online
 stats.lmdsp.com
 stats.localmetravel.com
-stats.lord.io
 stats.lstfnd.de
 stats.ltdhunt.com
 stats.luieremmer.net
@@ -673,7 +677,6 @@ stats.ordinarypuzzles.com
 stats.ortussolutions.com
 stats.osiemsiedem.com
 stats.otsohavanto.net
-stats.outpostdemo.com
 stats.ownpath.xyz
 stats.owre.se
 stats.p42.ai
@@ -696,7 +699,6 @@ stats.petr.codes
 stats.phili.pe
 stats.photographer.com.au
 stats.pinoymusicstation.com
-stats.piplette.co
 stats.pitstone.co.uk
 stats.planxti.com
 stats.playoutgame.app
@@ -783,7 +785,6 @@ stats.staging.hex.pm
 stats.staging.hexdocs.pm
 stats.stephlow.audio
 stats.steuer-soldaten.de
-stats.stoelverhoger.net
 stats.strawberry.rocks
 stats.studypages.com
 stats.sublimesecurity.com
@@ -801,6 +802,7 @@ stats.teenranch.com
 stats.tekin.co.uk
 stats.terre-compagne.fr
 stats.textprotocol.org
+stats.thecapablecollective.com
 stats.theiere-tasse.com
 stats.thelandofar.be
 stats.thenewradiance.com

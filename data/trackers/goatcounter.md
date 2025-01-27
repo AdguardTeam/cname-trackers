@@ -200,6 +200,7 @@
 | stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
+| stats.raycordlegends.com | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
 | gc.neiku.org | neiku.goatcounter.com |

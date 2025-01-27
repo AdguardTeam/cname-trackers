@@ -14,6 +14,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | analytics.freiraumakustik.de | customer.etracker.com |
+| assets.telefonanlage-shop.de | customer.etracker.com |
 | atrdb.laeckerli-huus.ch | customer.etracker.com |
 | auszeichnungen.pokale-nrw.de | customer.etracker.com |
 | bmkt.bernhardtmoden.de | customer.etracker.com |

@@ -59,6 +59,7 @@ analytics.breathlessresorts.com
 analytics.cheapcaribbean.com
 analytics.dreamsresorts.com
 analytics.funjet.com
+analytics.m10payments.com
 analytics.nowresorts.com
 analytics.southwestvacations.com
 analytics.sunscaperesorts.com
@@ -640,6 +641,7 @@ lab4.lloydsbank.com
 ln.acornfun.com
 ln.cash.app
 ln.jackpotgo.club
+ln.lavishluck.net
 ln.meudigio.com.br
 ln.spinsorcery.net
 ln.zenmerge.club
@@ -784,6 +786,7 @@ prod-sfcutx.chaperone.lumindigitalhosting.com
 prod-sperofin.chaperone.lumindigitalhosting.com
 prod-statedept.chaperone.lumindigitalhosting.com
 prod-tapco.chaperone.lumindigitalhosting.com
+prod-tmx.cofidis.hu
 prod-travis.chaperone.lumindigitalhosting.com
 prod-tvfcuwy.chaperone.lumindigitalhosting.com
 prod-uecupa.chaperone.lumindigitalhosting.com

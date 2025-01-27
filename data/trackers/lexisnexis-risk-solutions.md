@@ -29,6 +29,7 @@
     * h-1qpcog32.online-metrix.net
     * h-1rvzo2et.online-metrix.net
     * h-1u7ubqzg.online-metrix.net
+    * h-1v2qttg8.online-metrix.net
     * h-1vjjer2n.online-metrix.net
     * h-22outib0.online-metrix.net
     * h-22vdduyk.online-metrix.net
@@ -129,6 +130,7 @@
     * h-7aid6tml.online-metrix.net
     * h-7bugohi5.online-metrix.net
     * h-7g11ytc6.online-metrix.net
+    * h-7ih7ebik.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
     * h-7lw52x9e.online-metrix.net
@@ -234,6 +236,7 @@
     * h-b2u9vacd.online-metrix.net
     * h-b2u9vacd1.online-metrix.net
     * h-b2u9vacd3.online-metrix.net
+    * h-b2u9vacd5.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
     * h-b3zpl92l.online-metrix.net
@@ -875,6 +878,7 @@
 | cdn-lntmps.mintmobile.com | h-1rvzo2et.online-metrix.net |
 | cdn-lntmps.ultramobile.com | h-1rvzo2et.online-metrix.net |
 | cnt.goboo.com | h-1u7ubqzg.online-metrix.net |
+| prod-tmx.cofidis.hu | h-1v2qttg8.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
 | mtx.thirdstream.ca | h-22outib0.online-metrix.net |
 | ghisa.subito.it | h-22vdduyk.online-metrix.net |
@@ -1023,6 +1027,7 @@
 | apps.shift.com.au | h-7aid6tml.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
 | business.streetshares.com | h-7g11ytc6.online-metrix.net |
+| analytics.m10payments.com | h-7ih7ebik.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.royalvegascasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.rubyfortune.ca | h-7ij9mii1-a.online-metrix.net |
@@ -1237,6 +1242,7 @@
 | ln.acornfun.com | h-b2u9vacd.online-metrix.net |
 | ln.zenmerge.club | h-b2u9vacd1.online-metrix.net |
 | ln.spinsorcery.net | h-b2u9vacd3.online-metrix.net |
+| ln.lavishluck.net | h-b2u9vacd5.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |

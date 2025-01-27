@@ -13,7 +13,6 @@ ast.welt.de
 blackberry.basf.com
 blackberry.suvinil.com.br
 collect.aeonbank.co.jp
-collect.ansons.de
 collect.asics.com
 collect.calvinklein.at
 collect.calvinklein.be
@@ -28,12 +27,10 @@ collect.calvinklein.ee
 collect.calvinklein.es
 collect.calvinklein.fi
 collect.calvinklein.fr
-collect.calvinklein.hr
 collect.calvinklein.hu
 collect.calvinklein.ie
 collect.calvinklein.it
 collect.calvinklein.lt
-collect.calvinklein.lu
 collect.calvinklein.lv
 collect.calvinklein.nl
 collect.calvinklein.pl
@@ -92,6 +89,7 @@ t.sumppumpsdirect.com
 t.waterpumpsdirect.com
 tag.bi.serviceplan.com
 tagdelivery.mayoclinic.org
+tags.3m.com.om
 tags.abercrombie.com
 tags.accessmore.com
 tags.achieve.com
@@ -140,7 +138,6 @@ tags.calvinklein.hu
 tags.calvinklein.ie
 tags.calvinklein.it
 tags.calvinklein.lt
-tags.calvinklein.lu
 tags.calvinklein.lv
 tags.calvinklein.nl
 tags.calvinklein.pl
@@ -181,6 +178,7 @@ tags.gnhearing.com
 tags.golosameriki.com
 tags.groupmartech.vodafone.com
 tags.gskpro-com.preview-cf65.gskinternet.com
+tags.healthinsurance.be
 tags.heathrow.com
 tags.heathrowexpress.com
 tags.hollisterco.com
@@ -246,7 +244,6 @@ tags.severreal.org
 tags.shaw.ca
 tags.shop.com
 tags.sibreal.org
-tags.sixpad.jp
 tags.slobodnaevropa.mk
 tags.slobodnaevropa.org
 tags.streampicker.de
@@ -293,6 +290,7 @@ tags.voatiengviet.com
 tags.voaturkce.com
 tags.voazimbabwe.com
 tags.vodafone.pt
+tags.voluntariadocaixabank.org
 tags.votvot.tv
 tags.vozdeamerica.com
 tags.wainao.me
@@ -405,3 +403,8 @@ vtd.vontobelsfa.com
 webtags.logitech.com
 webtags.logitechg.com
 www.tags.kmart.com.au
+collect.ansons.de
+collect.calvinklein.hr
+collect.calvinklein.lu
+tags.calvinklein.lu
+tags.sixpad.jp

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ adv.consulcesi.it CNAME .
 adv.unionesarda.it CNAME .
 advertising.goldseek.com CNAME .
 adwin.geenstijl.nl CNAME .
+adztech-images.reviveservers.com CNAME .
 api.adbility-media.com CNAME .
 api.metrike.com CNAME .
 assets.lintigroup.se CNAME .
@@ -104,6 +105,7 @@ images.informatm.com CNAME .
 images.jacilla.no CNAME .
 images.mannenmedia.nl CNAME .
 images.proxena-adserver.com CNAME .
+images.swiss-equestrian.ch CNAME .
 images.worldofshowjumping.com CNAME .
 informatm-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
@@ -181,6 +183,7 @@ static.i-bidder.com CNAME .
 static.imagineobx.com CNAME .
 static.insideradverts.com CNAME .
 static.livingmagonline.com CNAME .
+static.lot-tissimo.com CNAME .
 static.mannixmarketing.com CNAME .
 static.miningweekly.com CNAME .
 static.mondiale.co.uk CNAME .
@@ -192,10 +195,13 @@ static.sonicplug.com CNAME .
 static.the-saleroom.com CNAME .
 static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
+static.wwoz.org CNAME .
 stommeplaatjes.geenstijl.nl CNAME .
 tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
 www.adconsole.proxibid.com CNAME .
+www.ads.environmentalleader.com CNAME .
+www.ads.proxibid.com CNAME .
 www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.api.adbility-media.com CNAME .
@@ -226,4 +232,5 @@ www.static.imagineobx.com CNAME .
 www.static.livingmagonline.com CNAME .
 www.static.schrotundkorn.de CNAME .
 www.static.the-saleroom.com CNAME .
+www.stommeplaatjes.geenstijl.nl CNAME .
 xtraa-secure.reviveservers.com CNAME .

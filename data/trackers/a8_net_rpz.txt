@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -192,7 +192,6 @@ a8.kotei-denwa.com CNAME .
 a8.kougu-kaitoriyasan.com CNAME .
 a8.kujo-service.com CNAME .
 a8.l-co-shop.jp CNAME .
-a8.labiotte.jp CNAME .
 a8.lacitashop.com CNAME .
 a8.lantelno.jp CNAME .
 a8.lat-international.com CNAME .
@@ -624,6 +623,7 @@ a8clk.pages.supporterz.jp CNAME .
 a8clk.patpat.com CNAME .
 a8clk.petelect.jp CNAME .
 a8clk.petitjob.jp CNAME .
+a8clk.ph-10.com CNAME .
 a8clk.photo-gift.me CNAME .
 a8clk.photorevo.info CNAME .
 a8clk.plusone.space CNAME .
@@ -675,7 +675,6 @@ a8clk.smile-zemi.jp CNAME .
 a8clk.sohbi-company.com CNAME .
 a8clk.solideajapan.com CNAME .
 a8clk.sp.move-ebike.co.jp CNAME .
-a8clk.speedcoaching.co.jp CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .
 a8clk.starwifi.jp CNAME .
@@ -1175,6 +1174,7 @@ a8cv.quick-management.jp CNAME .
 a8cv.r-maid.com CNAME .
 a8cv.radi-cool.shop CNAME .
 a8cv.rakumizu.jp CNAME .
+a8cv.rank-checker.com CNAME .
 a8cv.rawfood-lohas.com CNAME .
 a8cv.raycop.co.jp CNAME .
 a8cv.rehome-navi.com CNAME .
@@ -1318,7 +1318,6 @@ a8cv.www.club-sincerite.co.jp CNAME .
 a8cv.www.covearth.co.jp CNAME .
 a8cv.www.iropuri.com CNAME .
 a8cv.www.mogecheck.jp CNAME .
-a8cv.www.monologue.watch CNAME .
 a8cv.www.pascaljp.com CNAME .
 a8cv.www.sofastyle.jp CNAME .
 a8cv.www2.sundai.ac.jp CNAME .
@@ -1502,7 +1501,6 @@ cv.classmall.jp CNAME .
 cv.colleize.com CNAME .
 cv.cp-c21.com CNAME .
 cv.denkichoice.jp CNAME .
-cv.drive-hikari.net CNAME .
 cv.e-tukline.jp CNAME .
 cv.fire-bird.jp CNAME .
 cv.gas-choice.net CNAME .
@@ -1534,6 +1532,7 @@ cv.quocard.jp CNAME .
 cv.re-shop.jp CNAME .
 cv.ryoutuki-kyujin.com CNAME .
 cv.shiryoku1.com CNAME .
+cv.smakon.jp CNAME .
 cv.stella-s.com CNAME .
 cv.subscription-store.com CNAME .
 cv.sumaho-hoken.jp CNAME .
@@ -1554,7 +1553,6 @@ cv.www.risetokyo.jp CNAME .
 cv.www.rokuzan.net CNAME .
 cv.xn--bcktcvdzde3c.biz CNAME .
 cv.xn--zbs202g.com CNAME .
-cv.zephylrin-x.net CNAME .
 cv1.start-eo.jp CNAME .
 cv1.stefany.co.jp CNAME .
 dwuzxuvwlq.winticket.jp CNAME .

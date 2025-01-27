@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -70,6 +70,7 @@ analytics.breathlessresorts.com CNAME .
 analytics.cheapcaribbean.com CNAME .
 analytics.dreamsresorts.com CNAME .
 analytics.funjet.com CNAME .
+analytics.m10payments.com CNAME .
 analytics.nowresorts.com CNAME .
 analytics.southwestvacations.com CNAME .
 analytics.sunscaperesorts.com CNAME .
@@ -651,6 +652,7 @@ lab4.lloydsbank.com CNAME .
 ln.acornfun.com CNAME .
 ln.cash.app CNAME .
 ln.jackpotgo.club CNAME .
+ln.lavishluck.net CNAME .
 ln.meudigio.com.br CNAME .
 ln.spinsorcery.net CNAME .
 ln.zenmerge.club CNAME .
@@ -795,6 +797,7 @@ prod-sfcutx.chaperone.lumindigitalhosting.com CNAME .
 prod-sperofin.chaperone.lumindigitalhosting.com CNAME .
 prod-statedept.chaperone.lumindigitalhosting.com CNAME .
 prod-tapco.chaperone.lumindigitalhosting.com CNAME .
+prod-tmx.cofidis.hu CNAME .
 prod-travis.chaperone.lumindigitalhosting.com CNAME .
 prod-tvfcuwy.chaperone.lumindigitalhosting.com CNAME .
 prod-uecupa.chaperone.lumindigitalhosting.com CNAME .

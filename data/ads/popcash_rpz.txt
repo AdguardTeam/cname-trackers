@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -174,6 +174,7 @@ albatros.teamground.fr CNAME .
 albatross.creacoon.com CNAME .
 albatross.mypromo.co CNAME .
 albatross.ohseesoftware.com CNAME .
+alligator.bluehorn.digital CNAME .
 alligator.remotecyberwork.com CNAME .
 alpaca.hans-hornberger.com CNAME .
 alpaca.miidbaby.com CNAME .
@@ -259,7 +260,6 @@ bear.jake.nyc CNAME .
 bear.modulr.design CNAME .
 beaver.bluebunnypaper.com CNAME .
 beaver.brush.ninja CNAME .
-beaver.ecosecretariat.org CNAME .
 beaver.livechatlabs.com CNAME .
 bee.andreawhitmer.com CNAME .
 bee.farmaciavdg.com CNAME .
@@ -361,6 +361,7 @@ chickadee.serverlessfirst.com CNAME .
 chicken.alpla.info CNAME .
 chicken.clerklabs.com CNAME .
 chicken.couleur.io CNAME .
+chicken.p2pmarketdata.com CNAME .
 chicken.redbrushart.com CNAME .
 chicken.tjsoler.dev CNAME .
 chicken.zwei.haus CNAME .
@@ -413,7 +414,6 @@ cuckoo.cult.supply CNAME .
 cuckoo.jerandky.com CNAME .
 cuckoo.minaexplorer.com CNAME .
 cuckoo.peoplefirstjobs.com CNAME .
-damselfly.clk.click CNAME .
 damselfly.vegenook.com CNAME .
 deer.m1x.co CNAME .
 deer.ray.io CNAME .
@@ -448,6 +448,7 @@ earthworm.makethemdebate.com CNAME .
 earthworm.mxdvl.com CNAME .
 earthworm.robbevanpetegem.be CNAME .
 earwig.architecturesofhiding.com CNAME .
+earwig.oofi.es CNAME .
 echidna.hellotomorrow.agency CNAME .
 echidna.honeybadger.io CNAME .
 echidna.scandinaviantaste.no CNAME .
@@ -671,8 +672,10 @@ leopard.davidlindahlphoto.com CNAME .
 leopard.laszlo.cloud CNAME .
 leopard.ui-snippets.dev CNAME .
 leopard.understandit.se CNAME .
+leopon.jmk.wtf CNAME .
 leopon.luckycasts.com CNAME .
 leopon.originalmineral.com CNAME .
+leopon.thingsin.space CNAME .
 limpet.eddiehinkle.com CNAME .
 limpet.pioneerlandscapingllc.com CNAME .
 limpet.yago.dev CNAME .
@@ -684,6 +687,7 @@ llama.eniston.io CNAME .
 llama.growthinkers.nl CNAME .
 llama.lobbly.com CNAME .
 llama.mallardbay.com CNAME .
+llama.whatcha.io CNAME .
 lobster.justunderwear.com CNAME .
 locust.ausrebellion.earth CNAME .
 loon.analogjoe.com CNAME .
@@ -748,6 +752,7 @@ mongoose.thechocolatelife.com CNAME .
 monkey.colinjohnston.com CNAME .
 monkey.compulsivo.co CNAME .
 moose.cloverlearning.com CNAME .
+moose.octo.app CNAME .
 mosquito.birbs.art CNAME .
 mosquito.iamamandaperez.com CNAME .
 mosquito.nooraldiyar.com CNAME .
@@ -904,6 +909,7 @@ rook.flowlens.com CNAME .
 rook.grithix.com CNAME .
 rooster.cashforcolumbushouses.com CNAME .
 rooster.ohqcloud.com CNAME .
+sailfish.deck9.co CNAME .
 sailfish.hoap.com CNAME .
 sailfish.kentcdodds.com CNAME .
 sailfish.lifelines-film.com CNAME .
@@ -1037,6 +1043,7 @@ tiglon.davidroessli.com CNAME .
 toad.ettiennevorster.co.za CNAME .
 toad.frontendmentor.io CNAME .
 tortoise.mdx.one CNAME .
+tortoise.trysmartplan.com CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
 treefrog.kaffeknappen.no CNAME .
@@ -1077,6 +1084,7 @@ wallaby.legendkeeper.com CNAME .
 wallaby.short1.link CNAME .
 walrus.fetzcolor.at CNAME .
 walrus.oscaroarevalo.com CNAME .
+walrus.scalue.com CNAME .
 warbler.resumebuilder.dev CNAME .
 wasp.dyrynda.dev CNAME .
 wasp.mattjennings.io CNAME .

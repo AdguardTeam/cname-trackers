@@ -17,6 +17,7 @@
     * artionet-static.aquaplatform.com
     * atg-console.aquaplatform.com
     * atg-delivery.aquaplatform.com
+    * atg-static.aquaplatform.com
     * bioverlag-delivery.aquaplatform.com
     * bioverlag-static.aquaplatform.com
     * blulab-delivery.aquaplatform.com
@@ -120,6 +121,7 @@
     * worldscreen-delivery.aquaplatform.com
     * worldscreen-static.aquaplatform.com
     * wwoz-delivery.aquaplatform.com
+    * wwoz-static.aquaplatform.com
 
 ## Cloaking domains
 
@@ -140,9 +142,11 @@
 | static.ammoland.com | ammoland-static.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
 | ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
+| images.swiss-equestrian.ch | artionet-static.aquaplatform.com |
 | images.worldofshowjumping.com | artionet-static.aquaplatform.com |
 | adconsole.lot-tissimo.com | atg-console.aquaplatform.com |
 | ads.lot-tissimo.com | atg-delivery.aquaplatform.com |
+| static.lot-tissimo.com | atg-static.aquaplatform.com |
 | servedby.biohandel.de | bioverlag-delivery.aquaplatform.com |
 | servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
 | www.servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
@@ -178,6 +182,7 @@
 | cdn.datateam.co.uk | datateam-static.aquaplatform.com |
 | www.cdn.datateam.co.uk | datateam-static.aquaplatform.com |
 | ads.environmentalleader.com | el-delivery.aquaplatform.com |
+| www.ads.environmentalleader.com | el-delivery.aquaplatform.com |
 | static.environmentalleader.com | el-static.aquaplatform.com |
 | serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
 | adserver.fa-mag.com | famag-delivery.aquaplatform.com |
@@ -186,6 +191,7 @@
 | lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
 | www.lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
 | stommeplaatjes.geenstijl.nl | geenstijl-static.aquaplatform.com |
+| www.stommeplaatjes.geenstijl.nl | geenstijl-static.aquaplatform.com |
 | adserver.kozoom.com | geodelivery.aquaplatform.com |
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
 | servedby.quirks.com | geodelivery.aquaplatform.com |
@@ -257,6 +263,7 @@
 | www.cdn.adspmg.com | pamplin-static.aquaplatform.com |
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
+| adztech-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | assets.lintigroup.se | platformiq-cdn.aquaplatform.com |
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | images.addurance.com | platformiq-cdn.aquaplatform.com |
@@ -290,6 +297,7 @@
 | ads.i-bidder.com | proxibid-delivery.aquaplatform.com |
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |
 | ads.the-saleroom.com | proxibid-delivery.aquaplatform.com |
+| www.ads.proxibid.com | proxibid-delivery.aquaplatform.com |
 | static.i-bidder.com | proxibid-static.aquaplatform.com |
 | static.proxibid.com | proxibid-static.aquaplatform.com |
 | static.the-saleroom.com | proxibid-static.aquaplatform.com |
@@ -341,3 +349,4 @@
 | revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
 | www.revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
 | treehouse.wwoz.org | wwoz-delivery.aquaplatform.com |
+| static.wwoz.org | wwoz-static.aquaplatform.com |

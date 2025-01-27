@@ -43,11 +43,13 @@ affil.kralovstvi-tiande.cz
 affil.lesgoodies.com
 affil.litinove-nadobi.cz
 affil.lojdovale.cz
+affil.moringamix.cz
 affil.mydrinks.cz
 affil.nanoshop.cz
 affil.nanospace.cz
 affil.nutriadapt.cz
 affil.peliskydog.cz
+affil.pgs.sk
 affil.plkshop.cz
 affil.progamingshop.sk
 affil.reedog.cz
@@ -575,7 +577,6 @@ partner.hegesztok-bolt.hu
 partner.hizeromop.com
 partner.hodinarstvi.cz
 partner.hoska-tour.cz
-partner.hothousecucumber.com
 partner.hubnu.online
 partner.hubnutimarija.cz
 partner.hunter.games
@@ -742,7 +743,6 @@ partner.tahnabranu.cz
 partner.thechillidoctor.cz
 partner.thelisteningworld.com
 partner.top-obaly.cz
-partner.totalniplavani.cz
 partner.tozax.cz
 partner.tozax.sk
 partner.tyano.cz
@@ -808,6 +808,7 @@ partneri.edibles.eu
 partneri.eduway.cz
 partneri.epiderma.cz
 partneri.eshop.hankamokra.cz
+partneri.eshop.jarkamatuskova.cz
 partneri.espressoenglish.cz
 partneri.evolveo.com
 partneri.evolveo.cz
@@ -886,6 +887,7 @@ partneri.serafinbyliny.cz
 partneri.silaprozivot.com
 partneri.smartemailing.cz
 partneri.smyslovy-pruzkumnik.cz
+partneri.somsamasebou.sk
 partneri.sportfotbal.cz
 partneri.sportmentor.cz
 partneri.sterixretro.cz
@@ -952,6 +954,7 @@ splatky.aquatrend.sk
 spolu.kuskakaa.cz
 spoluhraci.decathlon.cz
 spolupraca.aretacia-rozvodov.sk
+spolupraca.easylight.sk
 spolupraca.vivobarefoot.sk
 spoluprace.aretacni-pripravky.cz
 spoluprace.bafoo.cz
@@ -960,6 +963,7 @@ spoluprace.cistapohoda.cz
 spoluprace.eroticstore.cz
 spoluprace.fotozde.cz
 spoluprace.galaxy.cz
+spoluprace.gprooms.eu
 spoluprace.h2world.store
 spoluprace.hyla.cz
 spoluprace.janitaurbanova.cz

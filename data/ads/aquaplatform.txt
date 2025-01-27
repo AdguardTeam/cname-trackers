@@ -37,6 +37,7 @@
 ||adv.unionesarda.it^
 ||advertising.goldseek.com^
 ||adwin.geenstijl.nl^
+||adztech-images.reviveservers.com^
 ||api.adbility-media.com^
 ||api.metrike.com^
 ||assets.lintigroup.se^
@@ -93,6 +94,7 @@
 ||images.jacilla.no^
 ||images.mannenmedia.nl^
 ||images.proxena-adserver.com^
+||images.swiss-equestrian.ch^
 ||images.worldofshowjumping.com^
 ||informatm-static.reviveservers.com^
 ||lalala.geenstijl.nl^
@@ -170,6 +172,7 @@
 ||static.imagineobx.com^
 ||static.insideradverts.com^
 ||static.livingmagonline.com^
+||static.lot-tissimo.com^
 ||static.mannixmarketing.com^
 ||static.miningweekly.com^
 ||static.mondiale.co.uk^
@@ -181,10 +184,13 @@
 ||static.the-saleroom.com^
 ||static.trackandfieldnews.com^
 ||static.walaplusadserver.com^
+||static.wwoz.org^
 ||stommeplaatjes.geenstijl.nl^
 ||tlads.midtc.com^
 ||treehouse.wwoz.org^
 ||www.adconsole.proxibid.com^
+||www.ads.environmentalleader.com^
+||www.ads.proxibid.com^
 ||www.adserver.sniffies.com^
 ||www.adserver.sonicplug.com^
 ||www.api.adbility-media.com^
@@ -215,4 +221,5 @@
 ||www.static.livingmagonline.com^
 ||www.static.schrotundkorn.de^
 ||www.static.the-saleroom.com^
+||www.stommeplaatjes.geenstijl.nl^
 ||xtraa-secure.reviveservers.com^

@@ -129,6 +129,7 @@ cmp.dieterengroup.com
 cmp.dieterenmobilitycompany.be
 cmp.microlino.be
 cmp.microlino.fr
+cmp.myaudi.be
 cmp.myway.be
 cmp.porsche.be
 cmp.seat.be
@@ -224,7 +225,6 @@ ens.trauerportal-ostschweiz.ch
 ens.urnerzeitung.ch
 ens.wilerzeitung.ch
 ens.zugerzeitung.ch
-ensighten.airnewzealand.co.uk
 ensighten.bhphoto.com
 ensighten.davidyurman.com
 ensighten.distrelec.com
@@ -393,6 +393,7 @@ tms.suzukibusinesscloud-qa.com
 tms.virginatlantic.com
 tmsgi.lv.com
 tracking-sst.clicksafety.com
+uat1-dc.gordonsjewelers.com
 uat1-dc.pagoda.com
 uat1-dc.peoplesjewellers.com
 uat1-dc.zales.com

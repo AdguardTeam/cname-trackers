@@ -171,7 +171,6 @@
 ||tr.businessdev.younited-credit.es^
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.cacf.ipsos-surveys.com^
-||tr.camara.eu.com^
 ||tr.campaign.colossusbets.com^
 ||tr.candidats-dispos-fed.fr^
 ||tr.capu.espmp-agfr.net^
@@ -812,7 +811,6 @@
 ||tr.news.kpmg-avocats.fr^
 ||tr.news.kpmg.fr^
 ||tr.news.kpmgacademy.fr^
-||tr.news.kpmgnet.fr^
 ||tr.news.kuhn.com^
 ||tr.news.la-collectionairfrance.fr^
 ||tr.news.la-meilleure-voyance.com^
@@ -1120,6 +1118,7 @@
 ||tr.urfk050.espmp-cufr.net^
 ||tr.urfk052.espmp-cufr.net^
 ||tr.urfk053.espmp-aufr.net^
+||tr.urfk056.espmp-nifr.net^
 ||tr.urfk057.espmp-aufr.net^
 ||tr.urfk05g.espmp-agfr.net^
 ||tr.urfk05l.espmp-nifr.net^

@@ -4,14 +4,12 @@ data.auchandirect.fr
 data.decathlon.co.uk
 data.decathlon.es
 data.decathlon.fr
-data.decathlon.it
 data.decathlon.pl
 data.ricaud.com
 data.ubi.com
 data.wptag.net
 logger.yp.ca
 sales.disneylandparis.com
-tag.boulanger.fr
 tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tc.europcar.com
@@ -19,3 +17,5 @@ tc.europcar.com.au
 tc.europcar.de
 tcdata.fnac.com
 configure.adlermode.com
+data.decathlon.it
+tag.boulanger.fr

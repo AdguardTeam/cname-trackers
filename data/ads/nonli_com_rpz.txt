@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ l.750g.com CNAME .
 l.actu.fr CNAME .
 l.africabusinessplus.com CNAME .
 l.africanews.com CNAME .
+l.aisnenouvelle.fr CNAME .
 l.allocine.fr CNAME .
 l.alternatives-economiques.fr CNAME .
 l.aufeminin.com CNAME .
@@ -42,6 +43,7 @@ l.bfmtv.com CNAME .
 l.bibamagazine.fr CNAME .
 l.bienpublic.com CNAME .
 l.blissim.fr CNAME .
+l.bon-esprit.fr CNAME .
 l.caminteresse.fr CNAME .
 l.capital.fr CNAME .
 l.centre-presse.fr CNAME .
@@ -50,6 +52,7 @@ l.challenges.fr CNAME .
 l.charentelibre.fr CNAME .
 l.closermag.fr CNAME .
 l.cnetfrance.fr CNAME .
+l.courrier-picard.fr CNAME .
 l.cuisineactuelle.fr CNAME .
 l.diapasonmag.fr CNAME .
 l.dna.fr CNAME .
@@ -86,6 +89,7 @@ l.harpersbazaar.fr CNAME .
 l.heidi.news CNAME .
 l.humanite.fr CNAME .
 l.ici.fr CNAME .
+l.ideat.fr CNAME .
 l.jeuneafrique.com CNAME .
 l.jeuxvideo.com CNAME .
 l.journaldemillau.fr CNAME .
@@ -137,6 +141,7 @@ l.ohmymag.de CNAME .
 l.ouest-france.fr CNAME .
 l.ozap.com CNAME .
 l.paroledemamans.com CNAME .
+l.planet.fr CNAME .
 l.pleinevie.fr CNAME .
 l.programme-tv.net CNAME .
 l.programme.tv CNAME .

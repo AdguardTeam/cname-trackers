@@ -110,6 +110,7 @@
 | albatross.creacoon.com | deprecated-custom-domains.b-cdn.net |
 | albatross.mypromo.co | deprecated-custom-domains.b-cdn.net |
 | albatross.ohseesoftware.com | deprecated-custom-domains.b-cdn.net |
+| alligator.bluehorn.digital | deprecated-custom-domains.b-cdn.net |
 | alligator.remotecyberwork.com | deprecated-custom-domains.b-cdn.net |
 | alpaca.hans-hornberger.com | deprecated-custom-domains.b-cdn.net |
 | alpaca.miidbaby.com | deprecated-custom-domains.b-cdn.net |
@@ -195,7 +196,6 @@
 | bear.modulr.design | deprecated-custom-domains.b-cdn.net |
 | beaver.bluebunnypaper.com | deprecated-custom-domains.b-cdn.net |
 | beaver.brush.ninja | deprecated-custom-domains.b-cdn.net |
-| beaver.ecosecretariat.org | deprecated-custom-domains.b-cdn.net |
 | beaver.livechatlabs.com | deprecated-custom-domains.b-cdn.net |
 | bee.andreawhitmer.com | deprecated-custom-domains.b-cdn.net |
 | bee.farmaciavdg.com | deprecated-custom-domains.b-cdn.net |
@@ -297,6 +297,7 @@
 | chicken.alpla.info | deprecated-custom-domains.b-cdn.net |
 | chicken.clerklabs.com | deprecated-custom-domains.b-cdn.net |
 | chicken.couleur.io | deprecated-custom-domains.b-cdn.net |
+| chicken.p2pmarketdata.com | deprecated-custom-domains.b-cdn.net |
 | chicken.redbrushart.com | deprecated-custom-domains.b-cdn.net |
 | chicken.tjsoler.dev | deprecated-custom-domains.b-cdn.net |
 | chicken.zwei.haus | deprecated-custom-domains.b-cdn.net |
@@ -349,7 +350,6 @@
 | cuckoo.jerandky.com | deprecated-custom-domains.b-cdn.net |
 | cuckoo.minaexplorer.com | deprecated-custom-domains.b-cdn.net |
 | cuckoo.peoplefirstjobs.com | deprecated-custom-domains.b-cdn.net |
-| damselfly.clk.click | deprecated-custom-domains.b-cdn.net |
 | damselfly.vegenook.com | deprecated-custom-domains.b-cdn.net |
 | deer.m1x.co | deprecated-custom-domains.b-cdn.net |
 | deer.ray.io | deprecated-custom-domains.b-cdn.net |
@@ -384,6 +384,7 @@
 | earthworm.mxdvl.com | deprecated-custom-domains.b-cdn.net |
 | earthworm.robbevanpetegem.be | deprecated-custom-domains.b-cdn.net |
 | earwig.architecturesofhiding.com | deprecated-custom-domains.b-cdn.net |
+| earwig.oofi.es | deprecated-custom-domains.b-cdn.net |
 | echidna.hellotomorrow.agency | deprecated-custom-domains.b-cdn.net |
 | echidna.honeybadger.io | deprecated-custom-domains.b-cdn.net |
 | echidna.scandinaviantaste.no | deprecated-custom-domains.b-cdn.net |
@@ -607,8 +608,10 @@
 | leopard.laszlo.cloud | deprecated-custom-domains.b-cdn.net |
 | leopard.ui-snippets.dev | deprecated-custom-domains.b-cdn.net |
 | leopard.understandit.se | deprecated-custom-domains.b-cdn.net |
+| leopon.jmk.wtf | deprecated-custom-domains.b-cdn.net |
 | leopon.luckycasts.com | deprecated-custom-domains.b-cdn.net |
 | leopon.originalmineral.com | deprecated-custom-domains.b-cdn.net |
+| leopon.thingsin.space | deprecated-custom-domains.b-cdn.net |
 | limpet.eddiehinkle.com | deprecated-custom-domains.b-cdn.net |
 | limpet.pioneerlandscapingllc.com | deprecated-custom-domains.b-cdn.net |
 | limpet.yago.dev | deprecated-custom-domains.b-cdn.net |
@@ -620,6 +623,7 @@
 | llama.growthinkers.nl | deprecated-custom-domains.b-cdn.net |
 | llama.lobbly.com | deprecated-custom-domains.b-cdn.net |
 | llama.mallardbay.com | deprecated-custom-domains.b-cdn.net |
+| llama.whatcha.io | deprecated-custom-domains.b-cdn.net |
 | lobster.justunderwear.com | deprecated-custom-domains.b-cdn.net |
 | locust.ausrebellion.earth | deprecated-custom-domains.b-cdn.net |
 | loon.analogjoe.com | deprecated-custom-domains.b-cdn.net |
@@ -684,6 +688,7 @@
 | monkey.colinjohnston.com | deprecated-custom-domains.b-cdn.net |
 | monkey.compulsivo.co | deprecated-custom-domains.b-cdn.net |
 | moose.cloverlearning.com | deprecated-custom-domains.b-cdn.net |
+| moose.octo.app | deprecated-custom-domains.b-cdn.net |
 | mosquito.birbs.art | deprecated-custom-domains.b-cdn.net |
 | mosquito.iamamandaperez.com | deprecated-custom-domains.b-cdn.net |
 | mosquito.nooraldiyar.com | deprecated-custom-domains.b-cdn.net |
@@ -840,6 +845,7 @@
 | rook.grithix.com | deprecated-custom-domains.b-cdn.net |
 | rooster.cashforcolumbushouses.com | deprecated-custom-domains.b-cdn.net |
 | rooster.ohqcloud.com | deprecated-custom-domains.b-cdn.net |
+| sailfish.deck9.co | deprecated-custom-domains.b-cdn.net |
 | sailfish.hoap.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.kentcdodds.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.lifelines-film.com | deprecated-custom-domains.b-cdn.net |
@@ -973,6 +979,7 @@
 | toad.ettiennevorster.co.za | deprecated-custom-domains.b-cdn.net |
 | toad.frontendmentor.io | deprecated-custom-domains.b-cdn.net |
 | tortoise.mdx.one | deprecated-custom-domains.b-cdn.net |
+| tortoise.trysmartplan.com | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
@@ -1013,6 +1020,7 @@
 | wallaby.short1.link | deprecated-custom-domains.b-cdn.net |
 | walrus.fetzcolor.at | deprecated-custom-domains.b-cdn.net |
 | walrus.oscaroarevalo.com | deprecated-custom-domains.b-cdn.net |
+| walrus.scalue.com | deprecated-custom-domains.b-cdn.net |
 | warbler.resumebuilder.dev | deprecated-custom-domains.b-cdn.net |
 | wasp.dyrynda.dev | deprecated-custom-domains.b-cdn.net |
 | wasp.mattjennings.io | deprecated-custom-domains.b-cdn.net |

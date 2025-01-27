@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737360008032        ; Serial
+           1737964808964        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,6 +61,7 @@ app03.ikk-classic.de CNAME .
 cdn7.baunetz.de CNAME .
 ctd.domusweb.it CNAME .
 ctd.dueruote.it CNAME .
+ctd.edidomus.it CNAME .
 ctdfm.ilgiornale.it CNAME .
 ctrkd.ilsole24ore.com CNAME .
 da.bodenhaus.de CNAME .
@@ -371,10 +372,8 @@ web.slimjoy.cz CNAME .
 web.slimjoy.dk CNAME .
 web.slimjoy.es CNAME .
 web.slimjoy.it CNAME .
-web.slimjoy.ro CNAME .
 web.slimjoy.se CNAME .
 web.slimjoy.sk CNAME .
-web.solesource.com CNAME .
 web.tamaris.com CNAME .
 web.tummy-tox.com CNAME .
 web.tummytox.at CNAME .
@@ -387,7 +386,6 @@ web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .
 web.update.sandiego.org CNAME .
 web.updates.ditano.com CNAME .
-web.usautosupply.com CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 webanalytics.also.com CNAME .
