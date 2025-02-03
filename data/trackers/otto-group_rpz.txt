@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -67,6 +67,7 @@ tp.heine.ch CNAME .
 tp.heine.de CNAME .
 tp.imwalking.de CNAME .
 tp.jelmoli-shop.ch CNAME .
+tp.lascana.ch CNAME .
 tp.limango.de CNAME .
 tp.mirapodo.de CNAME .
 tp.mytoys.de CNAME .

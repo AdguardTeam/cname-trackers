@@ -549,6 +549,7 @@ partner.equilist.cz
 partner.eshop-gyorsan.hu
 partner.eshop-rodas.cz
 partner.evolutionhub.cz
+partner.excaliburshop.com
 partner.expertnavlasy.sk
 partner.expresmenu.com
 partner.expresmenu.cz
@@ -604,7 +605,6 @@ partner.kokiskashop.cz
 partner.kokiskashop.sk
 partner.kominy-bokra.cz
 partner.korff.sk
-partner.kreativnisvet.cz
 partner.kupcomp.sk
 partner.kurzysusmevem.cz
 partner.kutnohorskytolar.cz
@@ -641,6 +641,7 @@ partner.memolingo.cz
 partner.metagram.sk
 partner.mhsexshop.com
 partner.minikoioi.cz
+partner.minikoioi.sk
 partner.misinacokolada.cz
 partner.mojeluha.cz
 partner.momcare.cz
@@ -662,6 +663,7 @@ partner.naseano.cz
 partner.naslouchamesrdcem.cz
 partner.natubea.cz
 partner.naturinka.cz
+partner.ne-io.com
 partner.nejlepsi-darecky.cz
 partner.neotax.eu
 partner.neviditelnepradlo.cz

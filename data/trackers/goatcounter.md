@@ -13,6 +13,7 @@
     * artur.goatcounter.com
     * belak.goatcounter.com
     * benjaminmorris.goatcounter.com
+    * bilderbrief.goatcounter.com
     * bkvn.goatcounter.com
     * blu3id-uk.goatcounter.com
     * boringproxy-io.goatcounter.com
@@ -24,6 +25,7 @@
     * cloudnativebitcoin.goatcounter.com
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
+    * coderscompass.goatcounter.com
     * codinggrace.goatcounter.com
     * crosshair.goatcounter.com
     * d8a.goatcounter.com
@@ -36,6 +38,7 @@
     * doarpstsjerke.goatcounter.com
     * dungeon.goatcounter.com
     * ebdruplab.goatcounter.com
+    * eithel.goatcounter.com
     * elkobraas.goatcounter.com
     * embedx.goatcounter.com
     * enamya.goatcounter.com
@@ -52,7 +55,6 @@
     * haseebmajid.goatcounter.com
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
-    * huku.goatcounter.com
     * ignatuque.goatcounter.com
     * irisphotos.goatcounter.com
     * isaacfreund.goatcounter.com
@@ -137,6 +139,7 @@
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | goat.belak.io | belak.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
+| stats.bilderbrief.de | bilderbrief.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
 | stats.boringproxy.io | boringproxy-io.goatcounter.com |
@@ -148,6 +151,7 @@
 | stats.cloudnativebitcoin.org | cloudnativebitcoin.goatcounter.com |
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
+| stats.coderscompass.org | coderscompass.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
 | stats.crosshair.dev | crosshair.goatcounter.com |
 | go.d8a.org | d8a.goatcounter.com |
@@ -160,6 +164,7 @@
 | stats.doarpstsjerke.nl | doarpstsjerke.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
 | stats.ebdruplab.dk | ebdruplab.goatcounter.com |
+| stats.eithel.org | eithel.goatcounter.com |
 | statistic.elkobraas.com | elkobraas.goatcounter.com |
 | pixel.embed.su | embedx.goatcounter.com |
 | gtcntr.enamya.me | enamya.goatcounter.com |
@@ -176,7 +181,6 @@
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
-| goat.huku.rocks | huku.goatcounter.com |
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
 | ping.irisphotos.app | irisphotos.goatcounter.com |
 | stats.isaacfreund.com | isaacfreund.goatcounter.com |

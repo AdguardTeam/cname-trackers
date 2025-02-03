@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 analytics.freiraumakustik.de CNAME .
+analytics.monobloc.de CNAME .
 assets.telefonanlage-shop.de CNAME .
 atrdb.laeckerli-huus.ch CNAME .
 auszeichnungen.pokale-nrw.de CNAME .
@@ -62,7 +63,9 @@ ric.arrive-im-herzogpark.de CNAME .
 ric.contur-muenchen.de CNAME .
 ric.riedel-immobilien.de CNAME .
 src.vector.com CNAME .
+stat.beetfreunde.de CNAME .
 statistics.fruchtbarewelt.de CNAME .
+stats.die-bibel.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.mopo.de CNAME .
@@ -88,6 +91,7 @@ tracker.bkk24.de CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
 tracking.terrassenhof.de CNAME .
 trkkr.bugatti-media.com CNAME .
+trkkr.bugatti-newsroom.com CNAME .
 wa.ostermann.eu CNAME .
 wctr.hh-klebetechnologie.de CNAME .
 wctr.khk-karlsruhe.de CNAME .
@@ -108,6 +112,7 @@ webcontr.ib-kc.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.l.de CNAME .
 webcontr.lmz-bw.de CNAME .
+webcontr.mea-living.de CNAME .
 webcontr.patrick-wentzel.de CNAME .
 webcontr.pedalbox.com CNAME .
 webcontr.reisprinzen.de CNAME .
@@ -118,6 +123,7 @@ webcontr.synvia.de CNAME .
 webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .
+webcontrol.brenners-altholz.at CNAME .
 webtr.dachser.com CNAME .
 weco.gasteo.de CNAME .
 weco.ilon.de CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ sfr.mno.link CNAME .
 tmi.jv-telcoid.es CNAME .
 tmi.vodafone.de CNAME .
 u.20mn.it CNAME .
+utiq-test.utest1.work CNAME .
 utiq-test.utest3.work CNAME .
 utiq.11freunde.de CNAME .
 utiq.20minutos.es CNAME .
@@ -70,12 +71,14 @@ utiq.cesoirtv.com CNAME .
 utiq.chartsinfrance.net CNAME .
 utiq.cheriefm.fr CNAME .
 utiq.chip.de CNAME .
+utiq.clara.es CNAME .
 utiq.cnetfrance.fr CNAME .
 utiq.come-on.de CNAME .
 utiq.compradiccion.com CNAME .
 utiq.computerbild.de CNAME .
 utiq.computerfrage.net CNAME .
 utiq.courrier-picard.fr CNAME .
+utiq.cuerpomente.com CNAME .
 utiq.cuisineactuelle.fr CNAME .
 utiq.dacia.fr CNAME .
 utiq.dasgelbeblatt.de CNAME .

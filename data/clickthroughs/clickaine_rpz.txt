@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
+bat13.gimmeporn.xyz CNAME .
 blabla.leakgallery.com CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
@@ -81,7 +82,6 @@ cn4.animehdl.net CNAME .
 cn4.cheemsporn.com CNAME .
 cvk.supklik.com CNAME .
 cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
-d.desihub.org CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dr1.piczlabs.com CNAME .
@@ -108,7 +108,6 @@ jg3.trypicz.com CNAME .
 jpnj.hotpornfile.org CNAME .
 k10.usefto.com CNAME .
 k8.usefto.com CNAME .
-lunie22.gimmeporn.xyz CNAME .
 mail.7porn.ru CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -93,6 +93,7 @@ data-07e0108925.apps.iocnt.de CNAME .
 data-080d03ce0d.technikundeinkauf.de CNAME .
 data-080db1a14d.stadtbibliothek-jena.de CNAME .
 data-0827b0d9ef.dailydose.de CNAME .
+data-0827b0d9ef.windsurfen-lernen.de CNAME .
 data-0898a580fd.immo-schaumburg.de CNAME .
 data-0898a580fd.szlz.de CNAME .
 data-08ab9d2892.fupa.net CNAME .
@@ -135,6 +136,7 @@ data-102d2d1a41.tu-clausthal.de CNAME .
 data-1059b0a270.apps.iocnt.de CNAME .
 data-10ac9f794d.apps.iocnt.de CNAME .
 data-10e222a818.ligaportal.at CNAME .
+data-10e3ac0592.apps.iocnt.de CNAME .
 data-1105c42328.apps.iocnt.de CNAME .
 data-11c63b1cbc.abschied-nehmen.de CNAME .
 data-11c63b1cbc.azubis.de CNAME .
@@ -298,6 +300,7 @@ data-1f00ebbd99.trend.at CNAME .
 data-1f251755af.apps.iocnt.de CNAME .
 data-1f42f38527.apps.iocnt.de CNAME .
 data-1f749567de.agrarzeitung.de CNAME .
+data-1fbcf6d7f5.alb-flirt.de CNAME .
 data-1fbcf6d7f5.cannstatter-zeitung.de CNAME .
 data-1fbcf6d7f5.esslinger-zeitung.de CNAME .
 data-1fbcf6d7f5.franken-gedenkt.de CNAME .
@@ -531,6 +534,7 @@ data-4190908d67.watson.de CNAME .
 data-421b67c653.ka-news.de CNAME .
 data-421b67c653.karriereregion.de CNAME .
 data-4248af8297.futurezone.at CNAME .
+data-434ba718f3.gofeminin.de CNAME .
 data-44384eebca.allgaeuer-zeitung.de CNAME .
 data-4494a61d21.chefkoch.de CNAME .
 data-449cc4329e.90minuten.at CNAME .
@@ -708,8 +712,8 @@ data-4e9ff460f2.autobild.de CNAME .
 data-4e9ff460f2.bike-bild.de CNAME .
 data-4e9ff460f2.clever-tanken.de CNAME .
 data-4eb828715f.apps.iocnt.de CNAME .
+data-4ede7e9c86.faz.com CNAME .
 data-4ede7e9c86.faz.de CNAME .
-data-4ede7e9c86.faz.net CNAME .
 data-4ede7e9c86.testfaz.net CNAME .
 data-4eee35d766.apps.iocnt.de CNAME .
 data-4f2efe538c.einfachbacken.de CNAME .
@@ -848,6 +852,7 @@ data-60d896f23d.dewezet.de CNAME .
 data-60d896f23d.dieharke.de CNAME .
 data-60d896f23d.dnn.de CNAME .
 data-60d896f23d.doebelner-allgemeine.de CNAME .
+data-60d896f23d.eichsfelder-tageblatt.de CNAME .
 data-60d896f23d.gnz.de CNAME .
 data-60d896f23d.goettinger-tageblatt.de CNAME .
 data-60d896f23d.haz.de CNAME .
@@ -1233,6 +1238,7 @@ data-8abe5cc617.badische-zeitung.de CNAME .
 data-8abe5cc617.bz-ticket.de CNAME .
 data-8abe5cc617.bzflirt.de CNAME .
 data-8abe5cc617.bztrauer.de CNAME .
+data-8abe5cc617.fupa.net CNAME .
 data-8abe5cc617.schnapp.de CNAME .
 data-8abe5cc617.wohnverdient.de CNAME .
 data-8ad4a97c5f.apps.iocnt.de CNAME .
@@ -1305,11 +1311,11 @@ data-91a00d98ad.apps.iocnt.de CNAME .
 data-91d77b307e.apps.iocnt.de CNAME .
 data-91e02cd2b8.ip-insider.de CNAME .
 data-91f69542bd.radiolippe.de CNAME .
+data-924def9ef0.apps.iocnt.de CNAME .
 data-9265b7c6dd.computer-automation.de CNAME .
 data-927768f668.pharmastellen.jobs CNAME .
 data-927768f668.pharmazeutische-zeitung.de CNAME .
 data-92cc871c16.glaswelt.de CNAME .
-data-92cf33b2ed.faz.net CNAME .
 data-92cf33b2ed.testfaz.net CNAME .
 data-93158690b1.moviepilot.de CNAME .
 data-93346271bf.holidaycheck.at CNAME .
@@ -1669,9 +1675,6 @@ data-b8587f1b76.jobstimme.de CNAME .
 data-b8587f1b76.stimme.de CNAME .
 data-b8587f1b76.trauerundgedenken.de CNAME .
 data-b8587f1b76.verliebt-in-bw.de CNAME .
-data-b85ecb4160.faszination-fankurve.de CNAME .
-data-b85ecb4160.sportplatzwelt.de CNAME .
-data-b85ecb4160.stadionwelt.de CNAME .
 data-b8625c5378.lz-job.de CNAME .
 data-b8625c5378.lz-trauer.de CNAME .
 data-b8625c5378.lz.de CNAME .

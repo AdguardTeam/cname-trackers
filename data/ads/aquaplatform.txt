@@ -127,6 +127,7 @@
 ||servedby.hour-media.com^
 ||servedby.imagineobx.com^
 ||servedby.insideradverts.com^
+||servedby.jacilla.no^
 ||servedby.lamag.com^
 ||servedby.lintigroup.se^
 ||servedby.livingmagonline.com^

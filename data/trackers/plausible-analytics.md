@@ -180,7 +180,6 @@
 | plaus.outpost.pub | custom.plausible.io |
 | plaus.pentserv.com | custom.plausible.io |
 | plausdj2ajskljzx0ikwkiasible.ethics.info | custom.plausible.io |
-| plausibel.ablis.net | custom.plausible.io |
 | plausible-stats.tangodelta.media | custom.plausible.io |
 | plausible.adreform.com | custom.plausible.io |
 | plausible.alexandar.me | custom.plausible.io |
@@ -202,7 +201,6 @@
 | plausible.corbettbarr.com | custom.plausible.io |
 | plausible.countingindia.com | custom.plausible.io |
 | plausible.dailytics.com | custom.plausible.io |
-| plausible.deploymentfromscratch.com | custom.plausible.io |
 | plausible.dev.logicboard.com | custom.plausible.io |
 | plausible.dingran.me | custom.plausible.io |
 | plausible.doctave.com | custom.plausible.io |
@@ -397,6 +395,7 @@
 | stats.brennholzauktion.com | custom.plausible.io |
 | stats.briskoda.net | custom.plausible.io |
 | stats.brumtechtapas.co.uk | custom.plausible.io |
+| stats.bruskowski.design | custom.plausible.io |
 | stats.buddiy.net | custom.plausible.io |
 | stats.bungeefit.co.uk | custom.plausible.io |
 | stats.byma.com.br | custom.plausible.io |
@@ -445,6 +444,7 @@
 | stats.davydepauw.be | custom.plausible.io |
 | stats.dawn.md | custom.plausible.io |
 | stats.declanbyrd.co.uk | custom.plausible.io |
+| stats.deerpark.app | custom.plausible.io |
 | stats.deja-lu.de | custom.plausible.io |
 | stats.depends-on-the-definition.com | custom.plausible.io |
 | stats.develop.wwdcscholars.com | custom.plausible.io |
@@ -664,7 +664,6 @@
 | stats.myherocard.com | custom.plausible.io |
 | stats.napaconnect.ca | custom.plausible.io |
 | stats.navedislam.com | custom.plausible.io |
-| stats.nddmed.com | custom.plausible.io |
 | stats.nerdbusiness.com | custom.plausible.io |
 | stats.new.sublimesecurity.com | custom.plausible.io |
 | stats.newslit.co | custom.plausible.io |
@@ -813,7 +812,6 @@
 | stats.tedserbinski.com | custom.plausible.io |
 | stats.teenranch.com | custom.plausible.io |
 | stats.tekin.co.uk | custom.plausible.io |
-| stats.terre-compagne.fr | custom.plausible.io |
 | stats.textprotocol.org | custom.plausible.io |
 | stats.thecapablecollective.com | custom.plausible.io |
 | stats.theiere-tasse.com | custom.plausible.io |

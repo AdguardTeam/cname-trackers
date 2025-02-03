@@ -113,6 +113,7 @@
 ||l.marsactu.fr^
 ||l.maxisciences.com^
 ||l.mediapart.fr^
+||l.medisite.fr^
 ||l.melty.fr^
 ||l.midilibre.fr^
 ||l.modesettravaux.fr^
@@ -129,6 +130,7 @@
 ||l.ohmymag.de^
 ||l.ouest-france.fr^
 ||l.ozap.com^
+||l.paris-normandie.fr^
 ||l.paroledemamans.com^
 ||l.planet.fr^
 ||l.pleinevie.fr^

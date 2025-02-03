@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -360,7 +360,6 @@ tr.email.defiscaliser.com CNAME .
 tr.email.directindustry.com CNAME .
 tr.email.distributor-expo.com CNAME .
 tr.email.gap-france.fr CNAME .
-tr.email.grandjeupaysgourmand.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.infocredit.orangebank.fr CNAME .
 tr.email.janedeboy.com CNAME .
@@ -399,7 +398,6 @@ tr.emailing.coe.int CNAME .
 tr.emailing.cstar.fr CNAME .
 tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
-tr.emailing.pogioclub.be CNAME .
 tr.emailing.studiocanal.com CNAME .
 tr.emailing.tvcaraibes.tv CNAME .
 tr.emailium.fr CNAME .
@@ -779,7 +777,6 @@ tr.news.devisdirect.com CNAME .
 tr.news.digitpjms.fr CNAME .
 tr.news.directeo.fr CNAME .
 tr.news.drveto.com CNAME .
-tr.news.easy-voyage.com CNAME .
 tr.news.easyviaggio.com CNAME .
 tr.news.easyviajar.com CNAME .
 tr.news.easyvoyage.co.uk CNAME .
@@ -951,6 +948,7 @@ tr.notification.cafineo.fr CNAME .
 tr.notification.cdiscount.com CNAME .
 tr.notification.cetelem.fr CNAME .
 tr.notification.credit-moderne.fr CNAME .
+tr.notification.domofinance.fr CNAME .
 tr.notification.norrsken.fr CNAME .
 tr.notification.np6.com CNAME .
 tr.np6.com CNAME .

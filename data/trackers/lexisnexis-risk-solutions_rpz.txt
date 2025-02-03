@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ afm.cnthevtmarkets.com CNAME .
 afm.infinox.com CNAME .
 afm.monetaindonesia.com CNAME .
 afm.monetamarkets.com CNAME .
+afm.monetamarketsit.com CNAME .
 afm.monetaturkey.com CNAME .
 afm.pu-prime.com CNAME .
 afm.puprime.com CNAME .
@@ -168,6 +169,7 @@ cdna.tst-paiement.cofidis.fr CNAME .
 cdna.xotto.de CNAME .
 cdna.zopa.com CNAME .
 cdnb.cashcentral.com CNAME .
+cdncy.bgasc.com CNAME .
 cdncy.jmbullion.com CNAME .
 cdncy.providentmetals.com CNAME .
 cdncy.silver.com CNAME .
@@ -373,7 +375,6 @@ content.solutions-corporate.com CNAME .
 content.spincasino.ca CNAME .
 content.sportchek.ca CNAME .
 content.sportscheck.ch CNAME .
-content.sportscheck.com CNAME .
 content.sportsexperts.ca CNAME .
 content.ssctech.com CNAME .
 content.sso.tracesmart.co.uk CNAME .
@@ -558,6 +559,7 @@ fp.ubagroup.com CNAME .
 fp.ups.com CNAME .
 fpcn.bpsgameserver.com CNAME .
 fpmobile.uplift-platform.com CNAME .
+fps.lascana.nl CNAME .
 fpt.norton.com CNAME .
 fraudcheck.walmart.ca CNAME .
 fss.glbank.com CNAME .
@@ -935,6 +937,7 @@ srv.squaretrade.de CNAME .
 srv.squaretrade.dk CNAME .
 srv.squaretrade.es CNAME .
 srv.squaretrade.fi CNAME .
+srv.squaretrade.nl CNAME .
 srv.squaretrade.no CNAME .
 srv.squaretrade.pt CNAME .
 srv.squaretrade.se CNAME .

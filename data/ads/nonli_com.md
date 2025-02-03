@@ -150,6 +150,7 @@
 | l.marsactu.fr | tls.non.li |
 | l.maxisciences.com | tls.non.li |
 | l.mediapart.fr | tls.non.li |
+| l.medisite.fr | tls.non.li |
 | l.melty.fr | tls.non.li |
 | l.midilibre.fr | tls.non.li |
 | l.modesettravaux.fr | tls.non.li |
@@ -163,6 +164,7 @@
 | l.ohmymag.de | tls.non.li |
 | l.ouest-france.fr | tls.non.li |
 | l.ozap.com | tls.non.li |
+| l.paris-normandie.fr | tls.non.li |
 | l.paroledemamans.com | tls.non.li |
 | l.planet.fr | tls.non.li |
 | l.pleinevie.fr | tls.non.li |

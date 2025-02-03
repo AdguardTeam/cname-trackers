@@ -4,7 +4,6 @@
 ||image.kfw-entwicklungsbank.de^
 ||image.kfw-ipex-bank.de^
 ||image.kfw.de^
-||images1.test.de^
 ||img.buch.ch^
 ||mon.ingservices.nl^
 ||now.peek-cloppenburg.de^
@@ -42,7 +41,6 @@
 ||a.hrewards.com^
 ||a.jaz-hotel.com^
 ||a.maxxhotel.com^
-||a.zleep.com^
 ||abc.bayer04.de^
 ||analytics.hermesworld.com^
 ||analytics.myhermes.de^
@@ -318,6 +316,7 @@
 ||web.marketing.jellybelly.com^
 ||web.mytoys.de^
 ||web.news.bottegaverde.com^
+||web.news.coccinelle.com^
 ||web.news.creedfragrances.co.uk^
 ||web.news.dixiefashion.com^
 ||web.news.eprice.it^
@@ -327,6 +326,7 @@
 ||web.news.paganistore.com^
 ||web.news.piquadro.com^
 ||web.news.pleasefashion.com^
+||web.news.sbm.mc^
 ||web.news.thebridge.it^
 ||web.news.turnbullandasser.co.uk^
 ||web.newsletter.bennet.com^

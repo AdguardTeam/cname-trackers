@@ -10,6 +10,7 @@ sfr.mno.link
 tmi.jv-telcoid.es
 tmi.vodafone.de
 u.20mn.it
+utiq-test.utest1.work
 utiq-test.utest3.work
 utiq.11freunde.de
 utiq.20minutos.es
@@ -59,12 +60,14 @@ utiq.cesoirtv.com
 utiq.chartsinfrance.net
 utiq.cheriefm.fr
 utiq.chip.de
+utiq.clara.es
 utiq.cnetfrance.fr
 utiq.come-on.de
 utiq.compradiccion.com
 utiq.computerbild.de
 utiq.computerfrage.net
 utiq.courrier-picard.fr
+utiq.cuerpomente.com
 utiq.cuisineactuelle.fr
 utiq.dacia.fr
 utiq.dasgelbeblatt.de

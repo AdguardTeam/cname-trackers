@@ -369,6 +369,7 @@
     * h-consumer-relx.online-metrix.net
     * h-content.rodanandfields.online-metrix.net
     * h-coombeus1.online-metrix.net
+    * h-coombeus3.online-metrix.net
     * h-coutts.online-metrix.net
     * h-couttscrowndependencies.online-metrix.net
     * h-covantage.online-metrix.net
@@ -510,6 +511,7 @@
     * h-k8vif92e-ace.online-metrix.net
     * h-k8vif92e-au.online-metrix.net
     * h-k8vif92e-av.online-metrix.net
+    * h-k8vif92e-bgasc.online-metrix.net
     * h-k8vif92e-cdn3.online-metrix.net
     * h-k8vif92e-cogno.online-metrix.net
     * h-k8vif92e-egy.online-metrix.net
@@ -1092,6 +1094,7 @@
 | afm.infinox.com | h-96eziru5.online-metrix.net |
 | afm.monetaindonesia.com | h-96eziru5.online-metrix.net |
 | afm.monetamarkets.com | h-96eziru5.online-metrix.net |
+| afm.monetamarketsit.com | h-96eziru5.online-metrix.net |
 | afm.monetaturkey.com | h-96eziru5.online-metrix.net |
 | afm.pu-prime.com | h-96eziru5.online-metrix.net |
 | afm.puprime.com | h-96eziru5.online-metrix.net |
@@ -1256,6 +1259,7 @@
 | srv.squaretrade.dk | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.es | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.fi | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.nl | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.no | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.pt | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.se | h-b6te0xmf.online-metrix.net |
@@ -1439,6 +1443,7 @@
 | img.consumer.risk.lexisnexis.com | h-consumer-relx.online-metrix.net |
 | cdntm.rodanandfields.com | h-content.rodanandfields.online-metrix.net |
 | img.lascana.nl | h-coombeus1.online-metrix.net |
+| fps.lascana.nl | h-coombeus3.online-metrix.net |
 | pn1927.coutts.com | h-coutts.online-metrix.net |
 | pn1927.couttscrowndependencies.com | h-couttscrowndependencies.online-metrix.net |
 | content.covantagecu.org | h-covantage.online-metrix.net |
@@ -1463,7 +1468,6 @@
 | tm.cybersource.com | h-cybersource.online-metrix.net |
 | content.nu.com.co | h-czmm8tx9.online-metrix.net |
 | content.sportscheck.ch | h-d1kh7jfh.online-metrix.net |
-| content.sportscheck.com | h-d1kh7jfh.online-metrix.net |
 | d3tracking.rbc.com | h-d3tracking.rbc.online-metrix.net |
 | qtbm.fundourselves.com | h-d5k4yw92.online-metrix.net |
 | qtbm.welendus.com | h-d5k4yw92.online-metrix.net |
@@ -1657,6 +1661,7 @@
 | img3.avis.com | h-k8vif92e-av.online-metrix.net |
 | img3.budget.com | h-k8vif92e-av.online-metrix.net |
 | img3.paylesscar.com | h-k8vif92e-av.online-metrix.net |
+| cdncy.bgasc.com | h-k8vif92e-bgasc.online-metrix.net |
 | cdn3.littlecaesars.com | h-k8vif92e-cdn3.online-metrix.net |
 | sg-payment.cydf.hoyoverse.com | h-k8vif92e-cogno.online-metrix.net |
 | content.egyptair.com | h-k8vif92e-egy.online-metrix.net |

@@ -568,6 +568,7 @@
 | partner.eshop-gyorsan.hu | cz.affilbox.cz |
 | partner.eshop-rodas.cz | cz.affilbox.cz |
 | partner.evolutionhub.cz | cz.affilbox.cz |
+| partner.excaliburshop.com | cz.affilbox.cz |
 | partner.expertnavlasy.sk | cz.affilbox.cz |
 | partner.expresmenu.com | cz.affilbox.cz |
 | partner.expresmenu.cz | cz.affilbox.cz |
@@ -623,7 +624,6 @@
 | partner.kokiskashop.sk | cz.affilbox.cz |
 | partner.kominy-bokra.cz | cz.affilbox.cz |
 | partner.korff.sk | cz.affilbox.cz |
-| partner.kreativnisvet.cz | cz.affilbox.cz |
 | partner.kupcomp.sk | cz.affilbox.cz |
 | partner.kurzysusmevem.cz | cz.affilbox.cz |
 | partner.kutnohorskytolar.cz | cz.affilbox.cz |
@@ -660,6 +660,7 @@
 | partner.metagram.sk | cz.affilbox.cz |
 | partner.mhsexshop.com | cz.affilbox.cz |
 | partner.minikoioi.cz | cz.affilbox.cz |
+| partner.minikoioi.sk | cz.affilbox.cz |
 | partner.misinacokolada.cz | cz.affilbox.cz |
 | partner.mojeluha.cz | cz.affilbox.cz |
 | partner.momcare.cz | cz.affilbox.cz |
@@ -681,6 +682,7 @@
 | partner.naslouchamesrdcem.cz | cz.affilbox.cz |
 | partner.natubea.cz | cz.affilbox.cz |
 | partner.naturinka.cz | cz.affilbox.cz |
+| partner.ne-io.com | cz.affilbox.cz |
 | partner.nejlepsi-darecky.cz | cz.affilbox.cz |
 | partner.neotax.eu | cz.affilbox.cz |
 | partner.neviditelnepradlo.cz | cz.affilbox.cz |

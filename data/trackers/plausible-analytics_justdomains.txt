@@ -167,7 +167,6 @@ plauplauplau.budg.co
 plaus.outpost.pub
 plaus.pentserv.com
 plausdj2ajskljzx0ikwkiasible.ethics.info
-plausibel.ablis.net
 plausible-stats.tangodelta.media
 plausible.adreform.com
 plausible.alexandar.me
@@ -189,7 +188,6 @@ plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.countingindia.com
 plausible.dailytics.com
-plausible.deploymentfromscratch.com
 plausible.dev.logicboard.com
 plausible.dingran.me
 plausible.doctave.com
@@ -384,6 +382,7 @@ stats.breathly.app
 stats.brennholzauktion.com
 stats.briskoda.net
 stats.brumtechtapas.co.uk
+stats.bruskowski.design
 stats.buddiy.net
 stats.bungeefit.co.uk
 stats.byma.com.br
@@ -432,6 +431,7 @@ stats.davidlms.com
 stats.davydepauw.be
 stats.dawn.md
 stats.declanbyrd.co.uk
+stats.deerpark.app
 stats.deja-lu.de
 stats.depends-on-the-definition.com
 stats.develop.wwdcscholars.com
@@ -651,7 +651,6 @@ stats.murrayhometextiles.ie
 stats.myherocard.com
 stats.napaconnect.ca
 stats.navedislam.com
-stats.nddmed.com
 stats.nerdbusiness.com
 stats.new.sublimesecurity.com
 stats.newslit.co
@@ -800,7 +799,6 @@ stats.teamdetails.com
 stats.tedserbinski.com
 stats.teenranch.com
 stats.tekin.co.uk
-stats.terre-compagne.fr
 stats.textprotocol.org
 stats.thecapablecollective.com
 stats.theiere-tasse.com

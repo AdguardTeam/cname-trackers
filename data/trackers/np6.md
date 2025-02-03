@@ -372,7 +372,6 @@
 | tr.email.directindustry.com | tracking.bp01.net |
 | tr.email.distributor-expo.com | tracking.bp01.net |
 | tr.email.gap-france.fr | tracking.bp01.net |
-| tr.email.grandjeupaysgourmand.fr | tracking.bp01.net |
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.infocredit.orangebank.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
@@ -411,7 +410,6 @@
 | tr.emailing.cstar.fr | tracking.bp01.net |
 | tr.emailing.detours.canal.fr | tracking.bp01.net |
 | tr.emailing.grassavoye.com | tracking.bp01.net |
-| tr.emailing.pogioclub.be | tracking.bp01.net |
 | tr.emailing.studiocanal.com | tracking.bp01.net |
 | tr.emailing.tvcaraibes.tv | tracking.bp01.net |
 | tr.emailium.fr | tracking.bp01.net |
@@ -791,7 +789,6 @@
 | tr.news.digitpjms.fr | tracking.bp01.net |
 | tr.news.directeo.fr | tracking.bp01.net |
 | tr.news.drveto.com | tracking.bp01.net |
-| tr.news.easy-voyage.com | tracking.bp01.net |
 | tr.news.easyviaggio.com | tracking.bp01.net |
 | tr.news.easyviajar.com | tracking.bp01.net |
 | tr.news.easyvoyage.co.uk | tracking.bp01.net |
@@ -963,6 +960,7 @@
 | tr.notification.cdiscount.com | tracking.bp01.net |
 | tr.notification.cetelem.fr | tracking.bp01.net |
 | tr.notification.credit-moderne.fr | tracking.bp01.net |
+| tr.notification.domofinance.fr | tracking.bp01.net |
 | tr.notification.norrsken.fr | tracking.bp01.net |
 | tr.notification.np6.com | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -35,6 +35,7 @@ a8.aliceandolivia.jp CNAME .
 a8.amairo-sky.com CNAME .
 a8.andethic.com CNAME .
 a8.anipos.com CNAME .
+a8.aphex-group.com CNAME .
 a8.arrrt-shop.com CNAME .
 a8.asdf.co.jp CNAME .
 a8.au-hikarinet.com CNAME .
@@ -125,8 +126,6 @@ a8.form.run CNAME .
 a8.fots.jp CNAME .
 a8.fpo.bz CNAME .
 a8.fracora.com CNAME .
-a8.freeconsultant.btcagent.jp CNAME .
-a8.freeengineer.btcagent.jp CNAME .
 a8.ftcbeauty.com CNAME .
 a8.fujiorganics.com CNAME .
 a8.funtre.co.jp CNAME .
@@ -253,6 +252,7 @@ a8.papapa.baby CNAME .
 a8.parcys.com CNAME .
 a8.pcnext.shop CNAME .
 a8.pcwrap.com CNAME .
+a8.personalfile.tech CNAME .
 a8.petfood.mtflat.co.jp CNAME .
 a8.pla-cole.wedding CNAME .
 a8.pocket-m.jp CNAME .
@@ -741,6 +741,7 @@ a8clk.www.ka-nabell.com CNAME .
 a8clk.www.khaki.jp CNAME .
 a8clk.www.netage.ne.jp CNAME .
 a8clk.www.nortonstore.jp CNAME .
+a8clk.www.ogacos.com CNAME .
 a8clk.www.oms.energy-itsol.com CNAME .
 a8clk.www.rebo-success.co.jp CNAME .
 a8clk.www.solar-partners.jp CNAME .
@@ -903,7 +904,6 @@ a8cv.dsc-nightstore.com CNAME .
 a8cv.dshu.jp CNAME .
 a8cv.duo.jp CNAME .
 a8cv.e-3shop.com CNAME .
-a8cv.e-3x.jp CNAME .
 a8cv.e-d-v-j.co.jp CNAME .
 a8cv.e-earphone.jp CNAME .
 a8cv.e-stretch-diet.com CNAME .
@@ -916,6 +916,7 @@ a8cv.eeo.today CNAME .
 a8cv.effisage.com CNAME .
 a8cv.egmkt.co.jp CNAME .
 a8cv.eikajapan.com CNAME .
+a8cv.ekamo.com CNAME .
 a8cv.emma-sleep-japan.com CNAME .
 a8cv.encounter2017.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
@@ -1043,7 +1044,6 @@ a8cv.karitoke.jp CNAME .
 a8cv.karrimor.jp CNAME .
 a8cv.kasikiru.com CNAME .
 a8cv.kidsmoneyschool.net CNAME .
-a8cv.kikubari-bento.com CNAME .
 a8cv.king-makura.com CNAME .
 a8cv.kk-orange.jp CNAME .
 a8cv.kkmatsusho.jp CNAME .
@@ -1167,6 +1167,7 @@ a8cv.premium.aidemy.net CNAME .
 a8cv.presence.jp CNAME .
 a8cv.print-gakufu.com CNAME .
 a8cv.pro.omobic.com CNAME .
+a8cv.pururu.work CNAME .
 a8cv.pxdt-store.com CNAME .
 a8cv.quattrocart.com CNAME .
 a8cv.queenbee.co.jp CNAME .
@@ -1280,6 +1281,7 @@ a8cv.tokyogas.bocco.me CNAME .
 a8cv.tomodachi-my.com CNAME .
 a8cv.tomorrow-bright.jp CNAME .
 a8cv.tonyuclub.com CNAME .
+a8cv.torudakeweb.com CNAME .
 a8cv.toushi-up.com CNAME .
 a8cv.toybox-mnr.com CNAME .
 a8cv.toysub.net CNAME .
@@ -1541,14 +1543,12 @@ cv.taskar.online CNAME .
 cv.tenjin.cc CNAME .
 cv.theatreacademy.info CNAME .
 cv.ticketpay.jp CNAME .
-cv.tokyowork.jp CNAME .
 cv.top-management.co.jp CNAME .
 cv.ui-chiho.clinic CNAME .
 cv.viday.jp CNAME .
 cv.virtualoffice-resonance.jp CNAME .
 cv.web-sana.com CNAME .
 cv.willbefit.jp CNAME .
-cv.www.jobcareer.jp CNAME .
 cv.www.risetokyo.jp CNAME .
 cv.www.rokuzan.net CNAME .
 cv.xn--bcktcvdzde3c.biz CNAME .

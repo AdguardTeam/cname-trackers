@@ -21,6 +21,7 @@
 ||al.combinationmeal.com^
 ||al.directishii.net^
 ||al.dmjegao.com^
+||al.dressherself.com^
 ||al.eaphi.co.jp^
 ||al.entresquare.com^
 ||al.epoi-jp.com^
@@ -36,6 +37,7 @@
 ||al.jtb-gift.com^
 ||al.junior-onlineshop.jp^
 ||al.kagukuro.com^
+||al.katakana-net.com^
 ||al.kawashima-ya.jp^
 ||al.kbwine.com^
 ||al.keymemory.co.jp^

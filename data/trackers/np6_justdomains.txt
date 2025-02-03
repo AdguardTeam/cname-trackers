@@ -349,7 +349,6 @@ tr.email.defiscaliser.com
 tr.email.directindustry.com
 tr.email.distributor-expo.com
 tr.email.gap-france.fr
-tr.email.grandjeupaysgourmand.fr
 tr.email.harmonie-mutuelle.fr
 tr.email.infocredit.orangebank.fr
 tr.email.janedeboy.com
@@ -388,7 +387,6 @@ tr.emailing.coe.int
 tr.emailing.cstar.fr
 tr.emailing.detours.canal.fr
 tr.emailing.grassavoye.com
-tr.emailing.pogioclub.be
 tr.emailing.studiocanal.com
 tr.emailing.tvcaraibes.tv
 tr.emailium.fr
@@ -768,7 +766,6 @@ tr.news.devisdirect.com
 tr.news.digitpjms.fr
 tr.news.directeo.fr
 tr.news.drveto.com
-tr.news.easy-voyage.com
 tr.news.easyviaggio.com
 tr.news.easyviajar.com
 tr.news.easyvoyage.co.uk
@@ -940,6 +937,7 @@ tr.notification.cafineo.fr
 tr.notification.cdiscount.com
 tr.notification.cetelem.fr
 tr.notification.credit-moderne.fr
+tr.notification.domofinance.fr
 tr.notification.norrsken.fr
 tr.notification.np6.com
 tr.np6.com

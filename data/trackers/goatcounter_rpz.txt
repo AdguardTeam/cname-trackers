@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,7 +45,6 @@ goat.belak.io CNAME .
 goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
 goat.gavv.in CNAME .
-goat.huku.rocks CNAME .
 goat.skeetstats.xyz CNAME .
 goat.tailspace.net CNAME .
 goat.twoistoomany.com CNAME .
@@ -71,6 +70,7 @@ stats.afirmacijas.lv CNAME .
 stats.apitman.com CNAME .
 stats.artur-rodrigues.com CNAME .
 stats.benjaminmorris.com CNAME .
+stats.bilderbrief.de CNAME .
 stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .
@@ -79,11 +79,13 @@ stats.celerry.com CNAME .
 stats.cgcristi.xyz CNAME .
 stats.cloudflex.team CNAME .
 stats.cloudnativebitcoin.org CNAME .
+stats.coderscompass.org CNAME .
 stats.crosshair.dev CNAME .
 stats.dalinwilliams.com CNAME .
 stats.dandelion.computer CNAME .
 stats.doarpstsjerke.nl CNAME .
 stats.ebdruplab.dk CNAME .
+stats.eithel.org CNAME .
 stats.fieald.com CNAME .
 stats.gopikrishna.dev CNAME .
 stats.haseebmajid.dev CNAME .

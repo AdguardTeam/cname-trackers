@@ -43,6 +43,7 @@
 | avemariaas.vmrcommunications.com | bs-adserver.b-cdn.net |
 | carlsonmedia.streetinteractive.com | bs-adserver.b-cdn.net |
 | community.jerseyshoreonline.com | bs-adserver.b-cdn.net |
+| community.noozhawk.com | bs-adserver.b-cdn.net |
 | connected.ashrae.org | bs-adserver.b-cdn.net |
 | connected.county10.com | bs-adserver.b-cdn.net |
 | daily.yubanet.com | bs-adserver.b-cdn.net |
@@ -189,7 +190,6 @@
 | bass.siterig.io | deprecated-custom-domains.b-cdn.net |
 | bass.taivo.ai | deprecated-custom-domains.b-cdn.net |
 | bat.heelix.be | deprecated-custom-domains.b-cdn.net |
-| bat.storyplay.no | deprecated-custom-domains.b-cdn.net |
 | bear.builtbyborda.com | deprecated-custom-domains.b-cdn.net |
 | bear.datingrelationshipsadvice.com | deprecated-custom-domains.b-cdn.net |
 | bear.jake.nyc | deprecated-custom-domains.b-cdn.net |
@@ -721,7 +721,6 @@
 | opossum.stephanieharari.com | deprecated-custom-domains.b-cdn.net |
 | orangutan.equaliteam.com | deprecated-custom-domains.b-cdn.net |
 | orangutan.renovare.org | deprecated-custom-domains.b-cdn.net |
-| orca.getnodo.com | deprecated-custom-domains.b-cdn.net |
 | orca.overbold.co | deprecated-custom-domains.b-cdn.net |
 | ostrich.getschools.org | deprecated-custom-domains.b-cdn.net |
 | ostrich.hegic-tokenizer.co | deprecated-custom-domains.b-cdn.net |
@@ -849,7 +848,6 @@
 | sailfish.hoap.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.kentcdodds.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.lifelines-film.com | deprecated-custom-domains.b-cdn.net |
-| sailfish.mastercw.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.the-psychedelicatessen.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.youracademycommunity.com | deprecated-custom-domains.b-cdn.net |
 | salamander.augmentedmind.io | deprecated-custom-domains.b-cdn.net |
@@ -915,7 +913,6 @@
 | starman.usefathom.com | deprecated-custom-domains.b-cdn.net |
 | stingray.codecoolture.com | deprecated-custom-domains.b-cdn.net |
 | stingray.communityally.org | deprecated-custom-domains.b-cdn.net |
-| stingray.cryptovoxels.com | deprecated-custom-domains.b-cdn.net |
 | stingray.danielzoller.com | deprecated-custom-domains.b-cdn.net |
 | stingray.reform.app | deprecated-custom-domains.b-cdn.net |
 | stingray.tagedraussen-film.at | deprecated-custom-domains.b-cdn.net |
@@ -992,7 +989,6 @@
 | tuna.purplespider.com | deprecated-custom-domains.b-cdn.net |
 | turkey.tella.tv | deprecated-custom-domains.b-cdn.net |
 | turtle.geshem.space | deprecated-custom-domains.b-cdn.net |
-| turtle.hackstock.net | deprecated-custom-domains.b-cdn.net |
 | turtle.mushtache.com | deprecated-custom-domains.b-cdn.net |
 | turtle.mydataroom.io | deprecated-custom-domains.b-cdn.net |
 | turtle.olivier.cx | deprecated-custom-domains.b-cdn.net |

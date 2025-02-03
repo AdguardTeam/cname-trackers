@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -178,7 +178,6 @@ plauplauplau.budg.co CNAME .
 plaus.outpost.pub CNAME .
 plaus.pentserv.com CNAME .
 plausdj2ajskljzx0ikwkiasible.ethics.info CNAME .
-plausibel.ablis.net CNAME .
 plausible-stats.tangodelta.media CNAME .
 plausible.adreform.com CNAME .
 plausible.alexandar.me CNAME .
@@ -200,7 +199,6 @@ plausible.conveyal.com CNAME .
 plausible.corbettbarr.com CNAME .
 plausible.countingindia.com CNAME .
 plausible.dailytics.com CNAME .
-plausible.deploymentfromscratch.com CNAME .
 plausible.dev.logicboard.com CNAME .
 plausible.dingran.me CNAME .
 plausible.doctave.com CNAME .
@@ -395,6 +393,7 @@ stats.breathly.app CNAME .
 stats.brennholzauktion.com CNAME .
 stats.briskoda.net CNAME .
 stats.brumtechtapas.co.uk CNAME .
+stats.bruskowski.design CNAME .
 stats.buddiy.net CNAME .
 stats.bungeefit.co.uk CNAME .
 stats.byma.com.br CNAME .
@@ -443,6 +442,7 @@ stats.davidlms.com CNAME .
 stats.davydepauw.be CNAME .
 stats.dawn.md CNAME .
 stats.declanbyrd.co.uk CNAME .
+stats.deerpark.app CNAME .
 stats.deja-lu.de CNAME .
 stats.depends-on-the-definition.com CNAME .
 stats.develop.wwdcscholars.com CNAME .
@@ -662,7 +662,6 @@ stats.murrayhometextiles.ie CNAME .
 stats.myherocard.com CNAME .
 stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
-stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
 stats.new.sublimesecurity.com CNAME .
 stats.newslit.co CNAME .
@@ -811,7 +810,6 @@ stats.teamdetails.com CNAME .
 stats.tedserbinski.com CNAME .
 stats.teenranch.com CNAME .
 stats.tekin.co.uk CNAME .
-stats.terre-compagne.fr CNAME .
 stats.textprotocol.org CNAME .
 stats.thecapablecollective.com CNAME .
 stats.theiere-tasse.com CNAME .

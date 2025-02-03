@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -560,6 +560,7 @@ partner.equilist.cz CNAME .
 partner.eshop-gyorsan.hu CNAME .
 partner.eshop-rodas.cz CNAME .
 partner.evolutionhub.cz CNAME .
+partner.excaliburshop.com CNAME .
 partner.expertnavlasy.sk CNAME .
 partner.expresmenu.com CNAME .
 partner.expresmenu.cz CNAME .
@@ -615,7 +616,6 @@ partner.kokiskashop.cz CNAME .
 partner.kokiskashop.sk CNAME .
 partner.kominy-bokra.cz CNAME .
 partner.korff.sk CNAME .
-partner.kreativnisvet.cz CNAME .
 partner.kupcomp.sk CNAME .
 partner.kurzysusmevem.cz CNAME .
 partner.kutnohorskytolar.cz CNAME .
@@ -652,6 +652,7 @@ partner.memolingo.cz CNAME .
 partner.metagram.sk CNAME .
 partner.mhsexshop.com CNAME .
 partner.minikoioi.cz CNAME .
+partner.minikoioi.sk CNAME .
 partner.misinacokolada.cz CNAME .
 partner.mojeluha.cz CNAME .
 partner.momcare.cz CNAME .
@@ -673,6 +674,7 @@ partner.naseano.cz CNAME .
 partner.naslouchamesrdcem.cz CNAME .
 partner.natubea.cz CNAME .
 partner.naturinka.cz CNAME .
+partner.ne-io.com CNAME .
 partner.nejlepsi-darecky.cz CNAME .
 partner.neotax.eu CNAME .
 partner.neviditelnepradlo.cz CNAME .

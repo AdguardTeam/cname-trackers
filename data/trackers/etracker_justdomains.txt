@@ -1,6 +1,7 @@
 #
 # Company name: Etracker
 analytics.freiraumakustik.de
+analytics.monobloc.de
 assets.telefonanlage-shop.de
 atrdb.laeckerli-huus.ch
 auszeichnungen.pokale-nrw.de
@@ -51,7 +52,9 @@ ric.arrive-im-herzogpark.de
 ric.contur-muenchen.de
 ric.riedel-immobilien.de
 src.vector.com
+stat.beetfreunde.de
 statistics.fruchtbarewelt.de
+stats.die-bibel.de
 stats.folienmarkt.de
 stats.kaerntnerjobs.at
 stats.mopo.de
@@ -77,6 +80,7 @@ tracker.bkk24.de
 tracking.ostsee-resort-dampland.de
 tracking.terrassenhof.de
 trkkr.bugatti-media.com
+trkkr.bugatti-newsroom.com
 wa.ostermann.eu
 wctr.hh-klebetechnologie.de
 wctr.khk-karlsruhe.de
@@ -97,6 +101,7 @@ webcontr.ib-kc.de
 webcontr.jalousiescout.at
 webcontr.l.de
 webcontr.lmz-bw.de
+webcontr.mea-living.de
 webcontr.patrick-wentzel.de
 webcontr.pedalbox.com
 webcontr.reisprinzen.de
@@ -107,6 +112,7 @@ webcontr.synvia.de
 webcontr.verpoorten-mall.de
 webcontr.verpoorten.de
 webcontr.vetter-pharma.com
+webcontrol.brenners-altholz.at
 webtr.dachser.com
 weco.gasteo.de
 weco.ilon.de

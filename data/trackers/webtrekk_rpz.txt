@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,7 +15,6 @@ image.deginvest.de CNAME .
 image.kfw-entwicklungsbank.de CNAME .
 image.kfw-ipex-bank.de CNAME .
 image.kfw.de CNAME .
-images1.test.de CNAME .
 img.buch.ch CNAME .
 mon.ingservices.nl CNAME .
 now.peek-cloppenburg.de CNAME .
@@ -53,7 +52,6 @@ www7.springer.com CNAME .
 a.hrewards.com CNAME .
 a.jaz-hotel.com CNAME .
 a.maxxhotel.com CNAME .
-a.zleep.com CNAME .
 abc.bayer04.de CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .
@@ -329,6 +327,7 @@ web.marcotozzi.com CNAME .
 web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.bottegaverde.com CNAME .
+web.news.coccinelle.com CNAME .
 web.news.creedfragrances.co.uk CNAME .
 web.news.dixiefashion.com CNAME .
 web.news.eprice.it CNAME .
@@ -338,6 +337,7 @@ web.news.lancel.com CNAME .
 web.news.paganistore.com CNAME .
 web.news.piquadro.com CNAME .
 web.news.pleasefashion.com CNAME .
+web.news.sbm.mc CNAME .
 web.news.thebridge.it CNAME .
 web.news.turnbullandasser.co.uk CNAME .
 web.newsletter.bennet.com CNAME .

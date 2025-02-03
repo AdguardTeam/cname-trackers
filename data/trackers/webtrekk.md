@@ -39,7 +39,6 @@
     * telekom01.webtrekk.net
     * telekom02.webtrekk.net
     * teufel-de01.webtrekk.net
-    * warentest-de01.webtrekk.net
     * yello-de01.webtrekk.net
 * wt-eu02.net
     * 101230059950694.wt-eu02.net
@@ -106,6 +105,7 @@
     * 481394388917209.wt-eu02.net
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
+    * 487143832382979.wt-eu02.net
     * 489164258023327.wt-eu02.net
     * 495967780350059.wt-eu02.net
     * 517717528680725.wt-eu02.net
@@ -191,6 +191,7 @@
     * 988195797407130.wt-eu02.net
     * 988523091244829.wt-eu02.net
     * 989502084988358.wt-eu02.net
+    * 993518719908385.wt-eu02.net
     * 997311968670029.wt-eu02.net
     * airbusgroup-de01.wt-eu02.net
     * aktionrsbank01.wt-eu02.net
@@ -299,7 +300,6 @@
 | a.hrewards.com | 307902509027183.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | a.maxxhotel.com | 307902509027183.wt-eu02.net |
-| a.zleep.com | 307902509027183.wt-eu02.net |
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
 | web.mail.parmalat.it | 312310057961150.wt-eu02.net |
 | web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
@@ -346,6 +346,7 @@
 | web.crm.speedup.it | 481394388917209.wt-eu02.net |
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
+| web.news.coccinelle.com | 487143832382979.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
 | web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
@@ -467,6 +468,7 @@
 | ctrkd.ilsole24ore.com | 988195797407130.wt-eu02.net |
 | web.email.topfarmacia.it | 988523091244829.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
+| web.news.sbm.mc | 993518719908385.wt-eu02.net |
 | wbtrkk.teufelaudio.pl | 997311968670029.wt-eu02.net |
 | webts.adac.de | adac02.webtrekk.net |
 | pix.airbusgroup.com | airbusgroup-de01.wt-eu02.net |
@@ -643,7 +645,6 @@
 | wa.quarks.de | wa-wdr.wt-eu02.net |
 | wa.wdr.de | wa-wdr.wt-eu02.net |
 | wa.wdrmaus.de | wa-wdr.wt-eu02.net |
-| images1.test.de | warentest-de01.webtrekk.net |
 | wt.ara.ad | wt-ara.wt-eu02.net |
 | wt.ara.cat | wt-ara.wt-eu02.net |
 | wt.arabalears.cat | wt-ara.wt-eu02.net |

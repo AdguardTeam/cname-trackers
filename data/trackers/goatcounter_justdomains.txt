@@ -34,7 +34,6 @@ goat.belak.io
 goat.dabric.xyz
 goat.dheinemann.com
 goat.gavv.in
-goat.huku.rocks
 goat.skeetstats.xyz
 goat.tailspace.net
 goat.twoistoomany.com
@@ -60,6 +59,7 @@ stats.afirmacijas.lv
 stats.apitman.com
 stats.artur-rodrigues.com
 stats.benjaminmorris.com
+stats.bilderbrief.de
 stats.boredkevin.com
 stats.boringproxy.io
 stats.brandontoner.ca
@@ -68,11 +68,13 @@ stats.celerry.com
 stats.cgcristi.xyz
 stats.cloudflex.team
 stats.cloudnativebitcoin.org
+stats.coderscompass.org
 stats.crosshair.dev
 stats.dalinwilliams.com
 stats.dandelion.computer
 stats.doarpstsjerke.nl
 stats.ebdruplab.dk
+stats.eithel.org
 stats.fieald.com
 stats.gopikrishna.dev
 stats.haseebmajid.dev

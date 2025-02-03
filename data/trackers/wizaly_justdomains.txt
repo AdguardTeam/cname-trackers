@@ -16,6 +16,7 @@ tk.airfrance.ca
 tk.airfrance.cd
 tk.airfrance.cg
 tk.airfrance.ch
+tk.airfrance.cl
 tk.airfrance.cm
 tk.airfrance.co.ao
 tk.airfrance.co.il

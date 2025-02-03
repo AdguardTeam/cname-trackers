@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,6 +41,7 @@ $TTL 300
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
 4jaehnfqizyx.controlconceptsusa.com CNAME .
 5mc92su06suu.www.abhijith.page CNAME .
+5zb0xuoeglfx.cit-dev.stylumia.com CNAME .
 6nwp0r33a71m.app.dev.cardahealth.com CNAME .
 6ynyejkv0j1s.app.tapmyback.com CNAME .
 704g8xh7qfzx.www.intercity.technology CNAME .

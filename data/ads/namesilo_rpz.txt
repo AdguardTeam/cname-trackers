@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -483,6 +483,7 @@ $TTL 300
 3461347.notifysrv.com CNAME .
 3461533.notify6.com CNAME .
 3461533.notifysrv.com CNAME .
+3464703.notify6.com CNAME .
 3464703.notifysrv.com CNAME .
 3466497.notifysrv.com CNAME .
 3466503.notifysrv.com CNAME .
@@ -495,6 +496,7 @@ $TTL 300
 3466863.notify6.com CNAME .
 3466863.notifysrv.com CNAME .
 3467523.notifysrv.com CNAME .
+3467915.notify6.com CNAME .
 3468917.notify6.com CNAME .
 3468917.notifysrv.com CNAME .
 3470933.notifysrv.com CNAME .
@@ -1196,12 +1198,9 @@ _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
-a.advertrek.com CNAME .
 a.asvsm.com CNAME .
 a.b7q9v8z.com CNAME .
-a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
-a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.huklop.com CNAME .
 a.ma3ion.com CNAME .
@@ -1209,12 +1208,8 @@ a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
-a.ouzads.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
-a.redpathmedia.com CNAME .
-a.rocoads.net CNAME .
-a.santabrowser.com CNAME .
 a.tf4srv.com CNAME .
 a.traffic-gold.com CNAME .
 a.vws4brkfst.com CNAME .
@@ -1239,7 +1234,6 @@ admin1.notifysrv.com CNAME .
 administration.notifysrv.com CNAME .
 admissions.notifysrv.com CNAME .
 adrepository.opoxv.com CNAME .
-ads.optimizesrv.com CNAME .
 ads.toroadvertising.com CNAME .
 adult.notifysrv.com CNAME .
 andy.notifysrv.com CNAME .
@@ -1335,12 +1329,14 @@ s.ds6ulg.com CNAME .
 s.ds7eji.com CNAME .
 s.ds8wql.com CNAME .
 s.dsa9k5.com CNAME .
+s.dsau5u.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
 s.elink3w.com CNAME .
 s.elink3x.com CNAME .
 s.eln14e.com CNAME .
+s.eln16e.com CNAME .
 s.elna1v.com CNAME .
 s.elna1w.com CNAME .
 s.elna1x.com CNAME .
@@ -1559,6 +1555,7 @@ www.4065194.notify6.com CNAME .
 www.4065944.notify6.com CNAME .
 www.4069896.notify6.com CNAME .
 www.4080560.notify6.com CNAME .
+www.4086498.notify6.com CNAME .
 www.4130286.notify6.com CNAME .
 www.4146994.notify6.com CNAME .
 www.4152316.notify6.com CNAME .
@@ -1579,4 +1576,12 @@ www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 a.344eva.com CNAME .
+a.advertrek.com CNAME .
+a.bizonads-ssp.com CNAME .
+a.etology.com CNAME .
+a.ouzads.com CNAME .
 a.r8lnet.com CNAME .
+a.redpathmedia.com CNAME .
+a.rocoads.net CNAME .
+a.santabrowser.com CNAME .
+ads.optimizesrv.com CNAME .

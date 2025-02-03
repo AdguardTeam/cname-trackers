@@ -82,6 +82,7 @@
 ||data-080d03ce0d.technikundeinkauf.de^
 ||data-080db1a14d.stadtbibliothek-jena.de^
 ||data-0827b0d9ef.dailydose.de^
+||data-0827b0d9ef.windsurfen-lernen.de^
 ||data-0898a580fd.immo-schaumburg.de^
 ||data-0898a580fd.szlz.de^
 ||data-08ab9d2892.fupa.net^
@@ -124,6 +125,7 @@
 ||data-1059b0a270.apps.iocnt.de^
 ||data-10ac9f794d.apps.iocnt.de^
 ||data-10e222a818.ligaportal.at^
+||data-10e3ac0592.apps.iocnt.de^
 ||data-1105c42328.apps.iocnt.de^
 ||data-11c63b1cbc.abschied-nehmen.de^
 ||data-11c63b1cbc.azubis.de^
@@ -287,6 +289,7 @@
 ||data-1f251755af.apps.iocnt.de^
 ||data-1f42f38527.apps.iocnt.de^
 ||data-1f749567de.agrarzeitung.de^
+||data-1fbcf6d7f5.alb-flirt.de^
 ||data-1fbcf6d7f5.cannstatter-zeitung.de^
 ||data-1fbcf6d7f5.esslinger-zeitung.de^
 ||data-1fbcf6d7f5.franken-gedenkt.de^
@@ -520,6 +523,7 @@
 ||data-421b67c653.ka-news.de^
 ||data-421b67c653.karriereregion.de^
 ||data-4248af8297.futurezone.at^
+||data-434ba718f3.gofeminin.de^
 ||data-44384eebca.allgaeuer-zeitung.de^
 ||data-4494a61d21.chefkoch.de^
 ||data-449cc4329e.90minuten.at^
@@ -697,8 +701,8 @@
 ||data-4e9ff460f2.bike-bild.de^
 ||data-4e9ff460f2.clever-tanken.de^
 ||data-4eb828715f.apps.iocnt.de^
+||data-4ede7e9c86.faz.com^
 ||data-4ede7e9c86.faz.de^
-||data-4ede7e9c86.faz.net^
 ||data-4ede7e9c86.testfaz.net^
 ||data-4eee35d766.apps.iocnt.de^
 ||data-4f2efe538c.einfachbacken.de^
@@ -837,6 +841,7 @@
 ||data-60d896f23d.dieharke.de^
 ||data-60d896f23d.dnn.de^
 ||data-60d896f23d.doebelner-allgemeine.de^
+||data-60d896f23d.eichsfelder-tageblatt.de^
 ||data-60d896f23d.gnz.de^
 ||data-60d896f23d.goettinger-tageblatt.de^
 ||data-60d896f23d.haz.de^
@@ -1222,6 +1227,7 @@
 ||data-8abe5cc617.bz-ticket.de^
 ||data-8abe5cc617.bzflirt.de^
 ||data-8abe5cc617.bztrauer.de^
+||data-8abe5cc617.fupa.net^
 ||data-8abe5cc617.schnapp.de^
 ||data-8abe5cc617.wohnverdient.de^
 ||data-8ad4a97c5f.apps.iocnt.de^
@@ -1294,11 +1300,11 @@
 ||data-91d77b307e.apps.iocnt.de^
 ||data-91e02cd2b8.ip-insider.de^
 ||data-91f69542bd.radiolippe.de^
+||data-924def9ef0.apps.iocnt.de^
 ||data-9265b7c6dd.computer-automation.de^
 ||data-927768f668.pharmastellen.jobs^
 ||data-927768f668.pharmazeutische-zeitung.de^
 ||data-92cc871c16.glaswelt.de^
-||data-92cf33b2ed.faz.net^
 ||data-92cf33b2ed.testfaz.net^
 ||data-93158690b1.moviepilot.de^
 ||data-93346271bf.holidaycheck.at^
@@ -1658,9 +1664,6 @@
 ||data-b8587f1b76.stimme.de^
 ||data-b8587f1b76.trauerundgedenken.de^
 ||data-b8587f1b76.verliebt-in-bw.de^
-||data-b85ecb4160.faszination-fankurve.de^
-||data-b85ecb4160.sportplatzwelt.de^
-||data-b85ecb4160.stadionwelt.de^
 ||data-b8625c5378.lz-job.de^
 ||data-b8625c5378.lz-trauer.de^
 ||data-b8625c5378.lz.de^

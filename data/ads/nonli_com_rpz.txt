@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1737964808964        ; Serial
+           1738569609752        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -124,6 +124,7 @@ l.mariefrance.fr CNAME .
 l.marsactu.fr CNAME .
 l.maxisciences.com CNAME .
 l.mediapart.fr CNAME .
+l.medisite.fr CNAME .
 l.melty.fr CNAME .
 l.midilibre.fr CNAME .
 l.modesettravaux.fr CNAME .
@@ -140,6 +141,7 @@ l.ohmymag.com CNAME .
 l.ohmymag.de CNAME .
 l.ouest-france.fr CNAME .
 l.ozap.com CNAME .
+l.paris-normandie.fr CNAME .
 l.paroledemamans.com CNAME .
 l.planet.fr CNAME .
 l.pleinevie.fr CNAME .

@@ -281,6 +281,7 @@
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.hlipublishing.com | platformiq-del.aquaplatform.com |
+| servedby.jacilla.no | platformiq-del.aquaplatform.com |
 | servedby.lintigroup.se | platformiq-del.aquaplatform.com |
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
 | servedby.reviveservers.com | platformiq-del.aquaplatform.com |

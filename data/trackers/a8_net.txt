@@ -24,6 +24,7 @@
 ||a8.amairo-sky.com^
 ||a8.andethic.com^
 ||a8.anipos.com^
+||a8.aphex-group.com^
 ||a8.arrrt-shop.com^
 ||a8.asdf.co.jp^
 ||a8.au-hikarinet.com^
@@ -114,8 +115,6 @@
 ||a8.fots.jp^
 ||a8.fpo.bz^
 ||a8.fracora.com^
-||a8.freeconsultant.btcagent.jp^
-||a8.freeengineer.btcagent.jp^
 ||a8.ftcbeauty.com^
 ||a8.fujiorganics.com^
 ||a8.funtre.co.jp^
@@ -242,6 +241,7 @@
 ||a8.parcys.com^
 ||a8.pcnext.shop^
 ||a8.pcwrap.com^
+||a8.personalfile.tech^
 ||a8.petfood.mtflat.co.jp^
 ||a8.pla-cole.wedding^
 ||a8.pocket-m.jp^
@@ -730,6 +730,7 @@
 ||a8clk.www.khaki.jp^
 ||a8clk.www.netage.ne.jp^
 ||a8clk.www.nortonstore.jp^
+||a8clk.www.ogacos.com^
 ||a8clk.www.oms.energy-itsol.com^
 ||a8clk.www.rebo-success.co.jp^
 ||a8clk.www.solar-partners.jp^
@@ -892,7 +893,6 @@
 ||a8cv.dshu.jp^
 ||a8cv.duo.jp^
 ||a8cv.e-3shop.com^
-||a8cv.e-3x.jp^
 ||a8cv.e-d-v-j.co.jp^
 ||a8cv.e-earphone.jp^
 ||a8cv.e-stretch-diet.com^
@@ -905,6 +905,7 @@
 ||a8cv.effisage.com^
 ||a8cv.egmkt.co.jp^
 ||a8cv.eikajapan.com^
+||a8cv.ekamo.com^
 ||a8cv.emma-sleep-japan.com^
 ||a8cv.encounter2017.jp^
 ||a8cv.english-bootcamp.com^
@@ -1032,7 +1033,6 @@
 ||a8cv.karrimor.jp^
 ||a8cv.kasikiru.com^
 ||a8cv.kidsmoneyschool.net^
-||a8cv.kikubari-bento.com^
 ||a8cv.king-makura.com^
 ||a8cv.kk-orange.jp^
 ||a8cv.kkmatsusho.jp^
@@ -1156,6 +1156,7 @@
 ||a8cv.presence.jp^
 ||a8cv.print-gakufu.com^
 ||a8cv.pro.omobic.com^
+||a8cv.pururu.work^
 ||a8cv.pxdt-store.com^
 ||a8cv.quattrocart.com^
 ||a8cv.queenbee.co.jp^
@@ -1269,6 +1270,7 @@
 ||a8cv.tomodachi-my.com^
 ||a8cv.tomorrow-bright.jp^
 ||a8cv.tonyuclub.com^
+||a8cv.torudakeweb.com^
 ||a8cv.toushi-up.com^
 ||a8cv.toybox-mnr.com^
 ||a8cv.toysub.net^
@@ -1530,14 +1532,12 @@
 ||cv.tenjin.cc^
 ||cv.theatreacademy.info^
 ||cv.ticketpay.jp^
-||cv.tokyowork.jp^
 ||cv.top-management.co.jp^
 ||cv.ui-chiho.clinic^
 ||cv.viday.jp^
 ||cv.virtualoffice-resonance.jp^
 ||cv.web-sana.com^
 ||cv.willbefit.jp^
-||cv.www.jobcareer.jp^
 ||cv.www.risetokyo.jp^
 ||cv.www.rokuzan.net^
 ||cv.xn--bcktcvdzde3c.biz^
