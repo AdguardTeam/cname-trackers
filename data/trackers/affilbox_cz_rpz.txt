@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -599,7 +599,6 @@ partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
 partner.ioznameni.cz CNAME .
 partner.italier.cz CNAME .
-partner.ivadekor.cz CNAME .
 partner.izlato24.cz CNAME .
 partner.jak-na-bolava-zada.cz CNAME .
 partner.jakfotitsladke.cz CNAME .
@@ -878,7 +877,6 @@ partneri.onlinelearning.cz CNAME .
 partneri.onlinestar.cz CNAME .
 partneri.oportskem.cz CNAME .
 partneri.palmknihy.cz CNAME .
-partneri.piercing.cz CNAME .
 partneri.piratecbd.cz CNAME .
 partneri.plantobesto.com CNAME .
 partneri.portske.cz CNAME .

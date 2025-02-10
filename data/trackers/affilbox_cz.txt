@@ -588,7 +588,6 @@
 ||partner.iodesign.cz^
 ||partner.ioznameni.cz^
 ||partner.italier.cz^
-||partner.ivadekor.cz^
 ||partner.izlato24.cz^
 ||partner.jak-na-bolava-zada.cz^
 ||partner.jakfotitsladke.cz^
@@ -867,7 +866,6 @@
 ||partneri.onlinestar.cz^
 ||partneri.oportskem.cz^
 ||partneri.palmknihy.cz^
-||partneri.piercing.cz^
 ||partneri.piratecbd.cz^
 ||partneri.plantobesto.com^
 ||partneri.portske.cz^

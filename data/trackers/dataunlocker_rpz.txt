@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,6 +63,7 @@ b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
+bvajo3mxq.kvest.ee CNAME .
 c319tpiw462o.segops.madisonspecs.com CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
@@ -107,14 +108,12 @@ q4l5gz6lqog6.www.eventus.io CNAME .
 qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qri2r94eeajr.innovationcast.com CNAME .
-qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 rgb9uinh2dej9ri.jacobzhang.de CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .
 swaljol72dgv.controlconceptsusa.com CNAME .
-sxwxswg8z1xe.www.arnowebtv.com CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 ti3av8k3ikwm.resume.gerardbosch.xyz CNAME .
 tnincvf1d1jl.de.themoneytizer.com CNAME .

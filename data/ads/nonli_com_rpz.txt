@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+at.h24.news CNAME .
 c.leparisien.fr CNAME .
 flow-prod.h24.news CNAME .
 go.3ds.com CNAME .
@@ -55,6 +56,7 @@ l.cnetfrance.fr CNAME .
 l.courrier-picard.fr CNAME .
 l.cuisineactuelle.fr CNAME .
 l.diapasonmag.fr CNAME .
+l.diverto.tv CNAME .
 l.dna.fr CNAME .
 l.doctissimo.fr CNAME .
 l.dzfoot.com CNAME .

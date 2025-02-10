@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -375,7 +375,6 @@ clam.mglaman.dev CNAME .
 clownfish.onvard.de CNAME .
 clownfish.philipkiely.com CNAME .
 clownfish.wrestlingiq.com CNAME .
-cobra.michaelkoper.com CNAME .
 cockroach.head4work.com.au CNAME .
 cockroach.no.mortgage CNAME .
 cod.governmentaladvisory.com CNAME .
@@ -679,7 +678,6 @@ limpet.eddiehinkle.com CNAME .
 limpet.pioneerlandscapingllc.com CNAME .
 limpet.yago.dev CNAME .
 lion.lastfrontiermagazine.com CNAME .
-lizard.juststeveking.uk CNAME .
 lizard.priorart.dev CNAME .
 lizard.utropia.es CNAME .
 llama.eniston.io CNAME .
@@ -1060,7 +1058,6 @@ vampirebat.datingmedellin.com CNAME .
 vampirebat.febolos.es CNAME .
 vampirebat.git-tower.com CNAME .
 vampirebat.tinamrak.com CNAME .
-vicuna.callisoma.com CNAME .
 vicuna.casa-moebel.at CNAME .
 vicuna.equity.no CNAME .
 vicuna.joblicant.de CNAME .

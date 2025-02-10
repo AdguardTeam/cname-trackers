@@ -120,5 +120,6 @@
 ||stats.ybbond.id^
 ||trackerstats.davidthe.dev^
 ||vault-stats.sladewatkins.net^
+||visit.argfuscator.net^
 ||visit.hijacklibs.net^
 ||webstats.maik.dev^

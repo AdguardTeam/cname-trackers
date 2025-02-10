@@ -115,6 +115,7 @@
     * h-6mlhprq2.online-metrix.net
     * h-6r2adsk3.online-metrix.net
     * h-6rj18la4.online-metrix.net
+    * h-6t5eekm8.online-metrix.net
     * h-6v2be3y0.online-metrix.net
     * h-6voqock8.online-metrix.net
     * h-6wp7e261.online-metrix.net
@@ -172,6 +173,7 @@
     * h-96ch0zc2.online-metrix.net
     * h-96clh8g7.online-metrix.net
     * h-96eziru5.online-metrix.net
+    * h-97sdcyug.online-metrix.net
     * h-98oju8tz.online-metrix.net
     * h-9bkavv7r.online-metrix.net
     * h-9f85se8g-pav.online-metrix.net
@@ -235,6 +237,7 @@
     * h-b124ow4n.online-metrix.net
     * h-b2u9vacd.online-metrix.net
     * h-b2u9vacd1.online-metrix.net
+    * h-b2u9vacd2.online-metrix.net
     * h-b2u9vacd3.online-metrix.net
     * h-b2u9vacd5.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
@@ -369,6 +372,7 @@
     * h-consumer-relx.online-metrix.net
     * h-content.rodanandfields.online-metrix.net
     * h-coombeus1.online-metrix.net
+    * h-coombeus2.online-metrix.net
     * h-coombeus3.online-metrix.net
     * h-coutts.online-metrix.net
     * h-couttscrowndependencies.online-metrix.net
@@ -954,6 +958,7 @@
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | ep-content.patento.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.vivigo.pl | h-4iibpm7t.online-metrix.net |
+| ep-content.viviraty.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.vivus.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.zaplo.pl | h-4iibpm7t.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
@@ -1013,6 +1018,7 @@
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | myuw5.nj.gov | h-6r2adsk3.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
+| content.norwegianlab.com | h-6t5eekm8.online-metrix.net |
 | content.ip4y.com.br | h-6v2be3y0.online-metrix.net |
 | content.telusinternational.ai | h-6voqock8.online-metrix.net |
 | contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
@@ -1137,6 +1143,7 @@
 | afm.vtmarketsuk.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsweb.com | h-96eziru5.online-metrix.net |
 | afm.vtmindo.com | h-96eziru5.online-metrix.net |
+| check.jaja.finance | h-97sdcyug.online-metrix.net |
 | tmcdn.7sultanscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.alljackpotscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.allslotscasino.com | h-98oju8tz.online-metrix.net |
@@ -1244,6 +1251,7 @@
 | bland.starone.org | h-b124ow4n.online-metrix.net |
 | ln.acornfun.com | h-b2u9vacd.online-metrix.net |
 | ln.zenmerge.club | h-b2u9vacd1.online-metrix.net |
+| ln.coolspinslot.com | h-b2u9vacd2.online-metrix.net |
 | ln.spinsorcery.net | h-b2u9vacd3.online-metrix.net |
 | ln.lavishluck.net | h-b2u9vacd5.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
@@ -1278,6 +1286,7 @@
 | content.berluti.com | h-berluti.online-metrix.net |
 | tmx.bestbuy.com | h-bestbuy.online-metrix.net |
 | log.betdaq.com | h-betdaq.online-metrix.net |
+| regstat.betfair.bet.br | h-betfair.online-metrix.net |
 | regstat.betfair.com | h-betfair.online-metrix.net |
 | regstat.betfair.es | h-betfair.online-metrix.net |
 | regstat.betfair.it | h-betfair.online-metrix.net |
@@ -1443,6 +1452,7 @@
 | img.consumer.risk.lexisnexis.com | h-consumer-relx.online-metrix.net |
 | cdntm.rodanandfields.com | h-content.rodanandfields.online-metrix.net |
 | img.lascana.nl | h-coombeus1.online-metrix.net |
+| fps.otto.nl | h-coombeus2.online-metrix.net |
 | fps.lascana.nl | h-coombeus3.online-metrix.net |
 | pn1927.coutts.com | h-coutts.online-metrix.net |
 | pn1927.couttscrowndependencies.com | h-couttscrowndependencies.online-metrix.net |
@@ -2008,7 +2018,6 @@
 | df.fragrancex.com | h.online-metrix.net |
 | fp.avatrade.com | h.online-metrix.net |
 | fp.gucci.com | h.online-metrix.net |
-| fraudcheck.walmart.ca | h.online-metrix.net |
 | gateway.jmbullion.com | h.online-metrix.net |
 | h.greenmangaming.com | h.online-metrix.net |
 | metrix.motosport.com | h.online-metrix.net |

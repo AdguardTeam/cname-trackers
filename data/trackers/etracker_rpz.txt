@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,10 +25,12 @@ click.easycosmetic.nl CNAME .
 ct.krauss.app CNAME .
 ctrl.guenther.de CNAME .
 data.drhauschka.de CNAME .
+data.juhu.auto CNAME .
 data.moebel-style.de CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
+eck.brettspieleck.de CNAME .
 estats.globus.de CNAME .
 et.akademie-handel.de CNAME .
 et.electronic4you.at CNAME .
@@ -118,7 +120,9 @@ webcontr.pedalbox.com CNAME .
 webcontr.reisprinzen.de CNAME .
 webcontr.rollytoys.de CNAME .
 webcontr.ryzon.net CNAME .
+webcontr.scandtrack.com CNAME .
 webcontr.sienagarden.de CNAME .
+webcontr.splendid-internet.de CNAME .
 webcontr.synvia.de CNAME .
 webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten.de CNAME .

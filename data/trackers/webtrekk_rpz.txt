@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -286,6 +286,7 @@ web.e.pbslgroup.co.uk CNAME .
 web.e.professionalbuildingsupplies.co.uk CNAME .
 web.e.pvccladding.com CNAME .
 web.e.soakaways.com CNAME .
+web.email.amplifiedclothing.com CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.mishimoto.co.uk CNAME .
 web.email.mishimoto.com CNAME .
@@ -389,6 +390,7 @@ web.updates.ditano.com CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 webanalytics.also.com CNAME .
+webanalytics.also.pt CNAME .
 webmet.creditreform-mahnwesen.de CNAME .
 webmet.creditreform.de CNAME .
 webmet.crefotrust.de CNAME .

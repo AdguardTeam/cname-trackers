@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -354,7 +354,6 @@ tr.email.archiexpo.com CNAME .
 tr.email.contact-jaguar.fr CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
-tr.email.d17.tv CNAME .
 tr.email.d8.tv CNAME .
 tr.email.defiscaliser.com CNAME .
 tr.email.directindustry.com CNAME .
@@ -695,6 +694,7 @@ tr.mondevis-b2b.com CNAME .
 tr.mondevis-pro.com CNAME .
 tr.moving.espmp-agfr.net CNAME .
 tr.moving.fr CNAME .
+tr.mp.aconclue-business.com CNAME .
 tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-entreprise.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
@@ -809,7 +809,6 @@ tr.news.heredis.com CNAME .
 tr.news.hrdradio.tv CNAME .
 tr.news.i24news.tv CNAME .
 tr.news.ics.fr CNAME .
-tr.news.ifh.fr CNAME .
 tr.news.infopro-digital.com CNAME .
 tr.news.interforum.fr CNAME .
 tr.news.invinoradio.tv CNAME .
@@ -1082,7 +1081,6 @@ tr.solendi.com CNAME .
 tr.solocal.espmp-aufr.net CNAME .
 tr.solution.uneo.fr CNAME .
 tr.sopr.espmp-agfr.net CNAME .
-tr.sorecson.fr CNAME .
 tr.sort.espmp-nifr.net CNAME .
 tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .

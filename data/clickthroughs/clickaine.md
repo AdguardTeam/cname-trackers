@@ -14,7 +14,6 @@
 | a3.hotpornfile.org | api.clickaine.com |
 | a4.hotpornfile.org | api.clickaine.com |
 | aabclkane.bachelorarchive.com | api.clickaine.com |
-| ad.desibp.com | api.clickaine.com |
 | ads.imgdesu.art | api.clickaine.com |
 | ads.luffy.my.id | api.clickaine.com |
 | adsv.cki.name | api.clickaine.com |
@@ -29,7 +28,6 @@
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
 | asg.redfans.org | api.clickaine.com |
-| bat13.gimmeporn.xyz | api.clickaine.com |
 | blabla.leakgallery.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
@@ -60,7 +58,6 @@
 | cdn1.memojav.com | api.clickaine.com |
 | cdn1.xvideohub.top | api.clickaine.com |
 | cdn2.picyield.com | api.clickaine.com |
-| cdn4.sparkporn.com | api.clickaine.com |
 | cent.up-click.xyz | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
 | cl.sexstories-all.com | api.clickaine.com |
@@ -105,6 +102,7 @@
 | jpnj.hotpornfile.org | api.clickaine.com |
 | k10.usefto.com | api.clickaine.com |
 | k8.usefto.com | api.clickaine.com |
+| lunie23.gimmeporn.xyz | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
 | net.fuckxstream.com | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,7 +17,6 @@ a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 a4.hotpornfile.org CNAME .
 aabclkane.bachelorarchive.com CNAME .
-ad.desibp.com CNAME .
 ads.imgdesu.art CNAME .
 ads.luffy.my.id CNAME .
 adsv.cki.name CNAME .
@@ -32,7 +31,6 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
-bat13.gimmeporn.xyz CNAME .
 blabla.leakgallery.com CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
@@ -63,7 +61,6 @@ cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
 cdn1.xvideohub.top CNAME .
 cdn2.picyield.com CNAME .
-cdn4.sparkporn.com CNAME .
 cent.up-click.xyz CNAME .
 ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
@@ -108,6 +105,7 @@ jg3.trypicz.com CNAME .
 jpnj.hotpornfile.org CNAME .
 k10.usefto.com CNAME .
 k8.usefto.com CNAME .
+lunie23.gimmeporn.xyz CNAME .
 mail.7porn.ru CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .

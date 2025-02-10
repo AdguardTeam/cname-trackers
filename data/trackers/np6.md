@@ -366,7 +366,6 @@
 | tr.email.contact-jaguar.fr | tracking.bp01.net |
 | tr.email.contact-landrover.fr | tracking.bp01.net |
 | tr.email.custom-campaign.com | tracking.bp01.net |
-| tr.email.d17.tv | tracking.bp01.net |
 | tr.email.d8.tv | tracking.bp01.net |
 | tr.email.defiscaliser.com | tracking.bp01.net |
 | tr.email.directindustry.com | tracking.bp01.net |
@@ -707,6 +706,7 @@
 | tr.mondevis-pro.com | tracking.bp01.net |
 | tr.moving.espmp-agfr.net | tracking.bp01.net |
 | tr.moving.fr | tracking.bp01.net |
+| tr.mp.aconclue-business.com | tracking.bp01.net |
 | tr.mp.aconclue-business.fr | tracking.bp01.net |
 | tr.mp.aconclue-entreprise.fr | tracking.bp01.net |
 | tr.mp.aconclue-pro.com | tracking.bp01.net |
@@ -821,7 +821,6 @@
 | tr.news.hrdradio.tv | tracking.bp01.net |
 | tr.news.i24news.tv | tracking.bp01.net |
 | tr.news.ics.fr | tracking.bp01.net |
-| tr.news.ifh.fr | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
 | tr.news.interforum.fr | tracking.bp01.net |
 | tr.news.invinoradio.tv | tracking.bp01.net |
@@ -1094,7 +1093,6 @@
 | tr.solocal.espmp-aufr.net | tracking.bp01.net |
 | tr.solution.uneo.fr | tracking.bp01.net |
 | tr.sopr.espmp-agfr.net | tracking.bp01.net |
-| tr.sorecson.fr | tracking.bp01.net |
 | tr.sort.espmp-nifr.net | tracking.bp01.net |
 | tr.souscription.floa.fr | tracking.bp01.net |
 | tr.spain.plimsoll.es | tracking.bp01.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ al.entresquare.com CNAME .
 al.epoi-jp.com CNAME .
 al.fafa-shop.com CNAME .
 al.fakui.jp CNAME .
+al.ffs-online.shop CNAME .
 al.fundokin.co.jp CNAME .
 al.ganzo.ne.jp CNAME .
 al.germanpet.com CNAME .
@@ -76,7 +77,6 @@ al.seleb.co.jp CNAME .
 al.selif.jp CNAME .
 al.shiffon-online.jp CNAME .
 al.shinfulife.com CNAME .
-al.shopyamatoya-jp.com CNAME .
 al.sotouba.net CNAME .
 al.store.kyokotsu.jp CNAME .
 al.talex.co.jp CNAME .

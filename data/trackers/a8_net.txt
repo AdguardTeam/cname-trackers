@@ -390,7 +390,6 @@
 ||a8clk.011330.jp^
 ||a8clk.1osechi.com^
 ||a8clk.292957.jp^
-||a8clk.9factor.com^
 ||a8clk.account.matsui.co.jp^
 ||a8clk.adeliv.treasure-f.com^
 ||a8clk.adventkk.co.jp^
@@ -744,7 +743,6 @@
 ||a8clk.y-station.net^
 ||a8clk.ykd.co.jp^
 ||a8clk.yourmystar.jp^
-||a8clk.yu-en.com^
 ||a8clk.yubisashi.com^
 ||a8clk.yumeyakata.com^
 ||a8clk.ziaco.eco-life.tokyo^
@@ -1291,6 +1289,7 @@
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.wellcrew.net^
+||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.willfu.jp^

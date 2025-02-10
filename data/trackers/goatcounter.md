@@ -10,6 +10,7 @@
     * afirmation.goatcounter.com
     * andreabrandi.goatcounter.com
     * apitman_com.goatcounter.com
+    * argfuscator.goatcounter.com
     * artur.goatcounter.com
     * belak.goatcounter.com
     * benjaminmorris.goatcounter.com
@@ -136,6 +137,7 @@
 | stats.afirmacijas.lv | afirmation.goatcounter.com |
 | count.andreabrandi.com | andreabrandi.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
+| visit.argfuscator.net | argfuscator.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | goat.belak.io | belak.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |

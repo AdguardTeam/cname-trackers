@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -131,5 +131,6 @@ stats.wswg.xyz CNAME .
 stats.ybbond.id CNAME .
 trackerstats.davidthe.dev CNAME .
 vault-stats.sladewatkins.net CNAME .
+visit.argfuscator.net CNAME .
 visit.hijacklibs.net CNAME .
 webstats.maik.dev CNAME .

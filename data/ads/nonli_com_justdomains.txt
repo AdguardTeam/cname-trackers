@@ -1,5 +1,6 @@
 #
 # Company name: nonli.com
+at.h24.news
 c.leparisien.fr
 flow-prod.h24.news
 go.3ds.com
@@ -44,6 +45,7 @@ l.cnetfrance.fr
 l.courrier-picard.fr
 l.cuisineactuelle.fr
 l.diapasonmag.fr
+l.diverto.tv
 l.dna.fr
 l.doctissimo.fr
 l.dzfoot.com

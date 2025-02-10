@@ -39,7 +39,6 @@
 | a.playa.to | 1208818836.rsc.cdn77.org |
 | a.q88z1s3.com | 1208818836.rsc.cdn77.org |
 | a.r8lnet.com | 1208818836.rsc.cdn77.org |
-| a.redpathmedia.com | 1208818836.rsc.cdn77.org |
 | a.rocoads.net | 1208818836.rsc.cdn77.org |
 | a.santabrowser.com | 1208818836.rsc.cdn77.org |
 | a.tf4srv.com | 1208818836.rsc.cdn77.org |
@@ -361,6 +360,7 @@
 | 3338444.notify6.com | tk6if76q.ab1n.net |
 | 3338444.notifysrv.com | tk6if76q.ab1n.net |
 | 3339654.notifysrv.com | tk6if76q.ab1n.net |
+| 3340606.notify6.com | tk6if76q.ab1n.net |
 | 3340606.notifysrv.com | tk6if76q.ab1n.net |
 | 3343302.notifysrv.com | tk6if76q.ab1n.net |
 | 3343512.notifysrv.com | tk6if76q.ab1n.net |
@@ -1213,6 +1213,7 @@
 | 5296856.notify6.com | tk6if76q.ab1n.net |
 | 535.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 5350536.notify6.com | tk6if76q.ab1n.net |
+| 5535014.notify6.com | tk6if76q.ab1n.net |
 | 5602.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 577.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 583.notify.optimizesrv.com | tk6if76q.ab1n.net |
@@ -1389,7 +1390,6 @@
 | s.pemsrv.com | tk6if76q.ab1n.net |
 | s.playa.to | tk6if76q.ab1n.net |
 | s.q88z1s3.com | tk6if76q.ab1n.net |
-| s.redpathmedia.com | tk6if76q.ab1n.net |
 | s.rocoads.net | tk6if76q.ab1n.net |
 | s.st1net.com | tk6if76q.ab1n.net |
 | s.tf4srv.com | tk6if76q.ab1n.net |
@@ -1565,13 +1565,10 @@
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
 | a.18ramp.com | w2u4v9e1.ab1n.net |
-| a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advantageclicks.net | w2u4v9e1.ab1n.net |
-| a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.b7q9v8z.com | w2u4v9e1.ab1n.net |
 | a.cant3am.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
-| a.huklop.com | w2u4v9e1.ab1n.net |
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.n4m5x60.com | w2u4v9e1.ab1n.net |
 | a.optimizesrv.com | w2u4v9e1.ab1n.net |
@@ -1588,7 +1585,6 @@
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.landingtrk.com | x0xmrxm4.ab1n.net |
-| admin.redpathmedia.com | x0xmrxm4.ab1n.net |
 | admin.rocoads.net | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |

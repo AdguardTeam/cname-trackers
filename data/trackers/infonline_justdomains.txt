@@ -296,6 +296,7 @@ data-1fbcf6d7f5.franken-gedenkt.de
 data-1fbcf6d7f5.frankenpost.de
 data-1fbcf6d7f5.inoberfranken.de
 data-1fbcf6d7f5.insuedthueringen.de
+data-1fbcf6d7f5.kornwestheimer-zeitung.de
 data-1fbcf6d7f5.krzbb.de
 data-1fbcf6d7f5.kurier.de
 data-1fbcf6d7f5.leonberger-kreiszeitung.de
@@ -778,6 +779,7 @@ data-58c1deb8c2.apps.iocnt.de
 data-595db38f76.woman.at
 data-597aebc8e1.spox.com
 data-59a3f7fb00.ksta.de
+data-59d0914c04.wetter.com
 data-5a078ffbef.owl-am-sonntag.de
 data-5a078ffbef.wb-azubi.de
 data-5a078ffbef.wb-immo.de
@@ -1112,6 +1114,7 @@ data-7de4e2b45e.zfk.de
 data-7e2df9796b.marktundmittelstand.de
 data-7e3ab64dc5.brandeins.de
 data-7e48679b06.fleischerei.de
+data-7e634b10b2.prosieben.de
 data-7e70b89caf.geb-info.de
 data-7f59e1721b.bergsteiger.de
 data-7f59e1721b.bergwetter.de
@@ -1973,6 +1976,7 @@ data-de0603c645.apps.iocnt.de
 data-de5824e84b.lichtnet.de
 data-de83895c33.apps.iocnt.de
 data-dea12ffb25.prisma.de
+data-deb04a4388.ezeitung.info
 data-deb04a4388.ezeitung2.info
 data-deb04a4388.ezeitung3.info
 data-deb04a4388.owl-am-sonntag.de
@@ -2086,6 +2090,7 @@ data-ed1ee98a6c.portal-der-orthopaedie.de
 data-ed1ee98a6c.portal-der-psyche.de
 data-ed1ee98a6c.portal-der-schoenheit.de
 data-ed1ee98a6c.portal-der-zahnmedizin.de
+data-ed1ee98a6c.schoenheit-und-medizin.de
 data-ed27128fae.apps.iocnt.de
 data-ed3fe893ba.springermedizin.at
 data-ed724555e5.apps.iocnt.de

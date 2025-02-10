@@ -14,10 +14,12 @@
 ||ct.krauss.app^
 ||ctrl.guenther.de^
 ||data.drhauschka.de^
+||data.juhu.auto^
 ||data.moebel-style.de^
 ||e.mediherz-shop.de^
 ||e.medikamente-per-klick.de^
 ||e.preisapo.de^
+||eck.brettspieleck.de^
 ||estats.globus.de^
 ||et.akademie-handel.de^
 ||et.electronic4you.at^
@@ -107,7 +109,9 @@
 ||webcontr.reisprinzen.de^
 ||webcontr.rollytoys.de^
 ||webcontr.ryzon.net^
+||webcontr.scandtrack.com^
 ||webcontr.sienagarden.de^
+||webcontr.splendid-internet.de^
 ||webcontr.synvia.de^
 ||webcontr.verpoorten-mall.de^
 ||webcontr.verpoorten.de^

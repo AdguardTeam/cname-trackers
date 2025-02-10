@@ -205,6 +205,7 @@
 ||t.charlotte49ers.com^
 ||t.chartwayarena.com^
 ||t.cincinnatiarts.org^
+||t.cityspringstheatre.com^
 ||t.classiccenter.com^
 ||t.climateroadtrip.duke.edu^
 ||t.cmuchippewas.com^
@@ -716,6 +717,7 @@
 ||trk.compair.com.cn^
 ||trk.contact.alphabet.com^
 ||trk.contact.umpquabank.com^
+||trk.cosmoprofnorthamerica.com^
 ||trk.countrycrock.com^
 ||trk.cremebonjour.fi^
 ||trk.cremebonjour.se^
@@ -758,6 +760,7 @@
 ||trk.floraplant.at^
 ||trk.floraprofessional.com^
 ||trk.floraspread.com.au^
+||trk.fpc.laerdal.com^
 ||trk.fraserwoods.ca^
 ||trk.fruitdor.fr^
 ||trk.futureelectronics.cn^
@@ -864,7 +867,6 @@
 ||trk.smworld.com^
 ||trk.solo.be^
 ||trk.solution.desjardins.com^
-||trk.solutions.catalent.com^
 ||trk.speedbumpsandhumps.com^
 ||trk.tbivision.com^
 ||trk.telecoms.com^
@@ -912,6 +914,7 @@
 ||trkcmb.business.hsbc.bm^
 ||trkcmb.business.hsbc.ch^
 ||trkcmb.business.hsbc.co.id^
+||trkcmb.business.hsbc.co.il^
 ||trkcmb.business.hsbc.co.in^
 ||trkcmb.business.hsbc.co.mu^
 ||trkcmb.business.hsbc.co.nz^
@@ -920,6 +923,7 @@
 ||trkcmb.business.hsbc.com.au^
 ||trkcmb.business.hsbc.com.bd^
 ||trkcmb.business.hsbc.com.bh^
+||trkcmb.business.hsbc.com.br^
 ||trkcmb.business.hsbc.com.hk^
 ||trkcmb.business.hsbc.com.kw^
 ||trkcmb.business.hsbc.com.mo^
@@ -949,6 +953,7 @@
 ||trkgbm.business.hsbc.bm^
 ||trkgbm.business.hsbc.ch^
 ||trkgbm.business.hsbc.co.id^
+||trkgbm.business.hsbc.co.il^
 ||trkgbm.business.hsbc.co.in^
 ||trkgbm.business.hsbc.co.mu^
 ||trkgbm.business.hsbc.co.nz^
@@ -988,6 +993,7 @@
 ||trkhinv.business.hsbc.bm^
 ||trkhinv.business.hsbc.ch^
 ||trkhinv.business.hsbc.co.id^
+||trkhinv.business.hsbc.co.il^
 ||trkhinv.business.hsbc.co.in^
 ||trkhinv.business.hsbc.co.mu^
 ||trkhinv.business.hsbc.co.nz^
@@ -1000,7 +1006,6 @@
 ||trkhinv.business.hsbc.com.kw^
 ||trkhinv.business.hsbc.com.mo^
 ||trkhinv.business.hsbc.com.mt^
-||trkhinv.business.hsbc.com.my^
 ||trkhinv.business.hsbc.com.ph^
 ||trkhinv.business.hsbc.com.qa^
 ||trkhinv.business.hsbc.com.sg^
@@ -1027,6 +1032,7 @@
 ||trksvg.business.hsbc.bm^
 ||trksvg.business.hsbc.ch^
 ||trksvg.business.hsbc.co.id^
+||trksvg.business.hsbc.co.il^
 ||trksvg.business.hsbc.co.in^
 ||trksvg.business.hsbc.co.mu^
 ||trksvg.business.hsbc.co.nz^
@@ -1287,6 +1293,7 @@
 ||app.post.vertafore.com^
 ||app.profile.purina.com^
 ||app.pultegroup.com^
+||app.qesmarketing.qualcomm.com^
 ||app.qnasdaqomx.com^
 ||app.ratingsinfo.standardandpoors.com^
 ||app.recruit.caterermail.com^
@@ -1445,6 +1452,7 @@
 ||eatonaero.advancedtech.com^
 ||ec.mywd.com^
 ||ed1.comcastbiz.com^
+||edge.sybase.com^
 ||education.leads360.com^
 ||education.velocify.com^
 ||ee.mywd.com^
@@ -2638,6 +2646,7 @@
 ||images.a.flukebiomedical.com^
 ||images.access.imaginelearning.com^
 ||images.aepinfo.com^
+||images.airports.magairports.net^
 ||images.alliances.infor.com^
 ||images.annuities.sfgmembers.com^
 ||images.app.imaginecommunications.com^
@@ -3193,7 +3202,7 @@
 ||obrazy.dlabiznesu.pracuj.pl^
 ||response.quest.com^
 ||yourporscheimg.nabooda-auto.com^
-||images.airports.magairports.net^
+||img.3rdplatform.me^
 ||admin.smartgroup.com.au^
 ||cars.autopia.com.au^
 ||cars.smartfleetaustralia.com.au^
@@ -3251,7 +3260,6 @@
 ||lp.sophos.com^
 ||lp.totalpolitics.com^
 ||mail.rethinkretirementincome.co.uk^
-||marketing.qido.com.pe^
 ||newsletter.euromaster-neumaticos.es^
 ||notify.eset.com^
 ||promociones.euromaster-neumaticos.es^
@@ -3395,6 +3403,7 @@
 ||www.infos-experts.adp.com^
 ||www.tracking.adp.ch^
 ||www.tracking.adp.co.uk^
+||www.tracking.fr.adp.com^
 ||advancing.acams.org^
 ||bigdata.clarin.com^
 ||ca.connect.finning.com^
@@ -3859,7 +3868,6 @@
 ||eloqua.upstreamintel.com^
 ||events.pella.com^
 ||forms.pella.com^
-||go.air-electra.co.il^
 ||go.carrefourclub.co.il^
 ||go.electra-consumer.co.il^
 ||go.gfanzero.com^
@@ -3968,6 +3976,7 @@
 ||go.kurumsal.vodafone.com.tr^
 ||go.primeone.cloud^
 ||hospitality.redbull.racing^
+||hostmaster.undiaenlausj.com^
 ||info.bbvaautorenting.es^
 ||info.hila-leumit.co.il^
 ||info.shavve.co.il^
@@ -4571,6 +4580,7 @@
 ||elq.mouser.de^
 ||elq.mouser.dk^
 ||elq.mouser.es^
+||elq.mouser.fi^
 ||elq.mouser.fr^
 ||elq.mouser.hk^
 ||elq.mouser.ie^
@@ -4773,8 +4783,6 @@
 ||s.info.cemexgo.com^
 ||secure.medtronicinteract.com^
 ||solutions.peco-energy.com^
-||solve.cranepi.com^
-||tracking.cranepi.com^
 ||tracking.eyefinity.com^
 ||tracking.motorolasolutions.com^
 ||tracking.mwe.com^
@@ -4950,6 +4958,7 @@
 ||info.northwestms.edu^
 ||info.thecustomerlink.be^
 ||info.uconnhuskies.com^
+||inform.cigna.com^
 ||innovations.luxaflex.com.au^
 ||knowledge.fdbhealth.com^
 ||lp.edpcomunicacao.com.br^
@@ -5128,7 +5137,6 @@
 ||track.info.thecardiologyadvisor.com^
 ||tracking.go.beacontrust.com^
 ||tracking.go.provident.bank^
-||tracking.stericycle.com^
 ||tracking.test.insead.edu^
 ||trk.icmi.com^
 ||trk.secure.icmi.com^
@@ -5246,7 +5254,6 @@
 ||backoffice.verintsystemsinc.com^
 ||branch.verintsystemsinc.com^
 ||businessmaking.progress.com^
-||client-testing.pl8ypus.com^
 ||connected.verical.com^
 ||connection.arrow.com^
 ||connection.verical.com^
@@ -5338,6 +5345,7 @@
 ||www.muni360.com^
 ||www.newyorklifeinvestments.jp^
 ||app.response.siemens-info.com^
+||be.contact.alphabet.com^
 ||campaign.amadeus.com^
 ||campaign.outpayce.com^
 ||communication.futuresummits.com^
@@ -5354,6 +5362,7 @@
 ||eloqua-trackings.unity3d.com^
 ||eloquatracking.internationalsos.com^
 ||enterprises.proximus.be^
+||es.contact.alphabet.com^
 ||es.marketing.contenur.com^
 ||events.axa-im.com^
 ||forms.axa-im.com^
@@ -5383,6 +5392,7 @@
 ||pages.news.realestate.bnpparibas^
 ||pages.siemens-info.com^
 ||pages.siemens.com^
+||pl.contact.alphabet.com^
 ||preferencecentre.yell.com^
 ||programmes-skema.skema-bs.fr^
 ||programmes-skema.skema.edu^
@@ -5431,6 +5441,7 @@
 ||go.emersonautomation.com^
 ||go.frontpoint.com^
 ||go.lasvegasaces.com^
+||go.seadogs.com^
 ||go.ukg.com^
 ||go.ultimatesoftware.com^
 ||gr-business.vodafone.com^
@@ -5657,8 +5668,6 @@
 ||choose.adelaide.edu.au^
 ||comms.me.coact.org.au^
 ||des.me.coact.org.au^
-||digital-global.furniture-china.cn^
-||digital-global.jjgle.com^
 ||elq.utas.edu.au^
 ||events.tafensw.edu.au^
 ||industry.tafensw.edu.au^
@@ -5801,6 +5810,7 @@
 ||tracking.visma.no^
 ||tracking.visma.ro^
 ||tracking.visma.se^
+||tracking.vismaenterprise.dk^
 ||tracking.vismaraet.nl^
 ||tracks1.ferrari.com^
 ||trk.cf.labanquepostale.fr^
@@ -5817,6 +5827,7 @@
 ||content.brightmine.com^
 ||cookie.solutions.desertfinancial.com^
 ||discover.aptly.de^
+||elq.securimed.fr^
 ||elq.seton.com^
 ||elq.signals.fr^
 ||engage.broadcom.com^
@@ -5974,6 +5985,7 @@
 ||info.revvity.cn^
 ||info.revvity.com^
 ||inspire.changehealthcare.com^
+||mktg.gisec.ae^
 ||pages.e.seahawksemail.com^
 ||secure.medtroniclearn.com^
 ||securetracking.golfpride.com^
@@ -6018,8 +6030,6 @@
 ||events.bendigotafe.edu.au^
 ||events.kangan.edu.au^
 ||form.ict-toshiba.jp^
-||global.cisie.cn^
-||global.fia-china.com^
 ||go5.global.toshiba^
 ||info.bendigokangan.edu.au^
 ||info.bendigotafe.edu.au^
@@ -6035,8 +6045,6 @@
 ||www.nepinplainsight.com^
 ||www.whennotsharingiscaring.com^
 ||eloqua.psl.com.au^
-||global.hdeexpo.com^
-||global.shopplusevent.com^
 ||register.harley-davidson.com^
 ||response.informamarketsasia.com^
 ||site.tdk.com^
@@ -6064,10 +6072,6 @@
 ||france.alphabet.com^
 ||future.uwindsor.ca^
 ||learn.uwindsor.ca^
-||global.cphi-china.cn^
-||learn.aiu.edu.au^
-||learn.aiu.sg^
-||lp.tfd-corp.co.jp^
 ||go-stage.oracle.com^
 ||go.canadalifecentre.ca^
 ||go.moosehockey.com^
@@ -6085,6 +6089,9 @@
 ||s2013560044.sc.origins.en25.com^
 ||info.pbs.org^
 ||information.cma-cgm.com^
+||learn.aiu.edu.au^
+||learn.aiu.sg^
+||lp.tfd-corp.co.jp^
 ||learn.mvpindex.com^
 ||lp.dynabook.com^
 ||our.sunshinecoast.qld.gov.au^

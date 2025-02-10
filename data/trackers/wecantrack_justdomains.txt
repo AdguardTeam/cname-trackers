@@ -5,6 +5,7 @@ api.datinghelp.dk
 api.datingxperten.de
 api.eltjek24.dk
 api.findenkaereste.dk
+api.nettjek24.dk
 w.revenuegeeks.com
 w.vpnalert.com
 wct.compari.se

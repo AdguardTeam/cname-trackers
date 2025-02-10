@@ -12,10 +12,10 @@ sales.disneylandparis.com
 tag.boulanger.fr
 tagcommander.laredoute.be
 tagcommander.laredoute.ch
-tc.europcar.com.au
 configure.adlermode.com
 data.auchandirect.fr
 data.ricaud.com
 tc.europcar.com
+tc.europcar.com.au
 tc.europcar.de
 tcdata.fnac.com

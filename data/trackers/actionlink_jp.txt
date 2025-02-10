@@ -27,6 +27,7 @@
 ||al.epoi-jp.com^
 ||al.fafa-shop.com^
 ||al.fakui.jp^
+||al.ffs-online.shop^
 ||al.fundokin.co.jp^
 ||al.ganzo.ne.jp^
 ||al.germanpet.com^
@@ -65,7 +66,6 @@
 ||al.selif.jp^
 ||al.shiffon-online.jp^
 ||al.shinfulife.com^
-||al.shopyamatoya-jp.com^
 ||al.sotouba.net^
 ||al.store.kyokotsu.jp^
 ||al.talex.co.jp^

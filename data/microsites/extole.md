@@ -224,7 +224,6 @@
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
-    * comfortzoneskin.extole.io
     * competitivecyclist.extole.io
     * conceiveabilities.extole.io
     * contiki.extole.io
@@ -238,6 +237,7 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -286,6 +286,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * forgetrust.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
@@ -307,7 +308,6 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -433,7 +433,6 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
-    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -498,7 +497,6 @@
     * simon-and-schuster.extole.io
     * simplepractice.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -540,6 +538,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -580,7 +579,6 @@
     * vonagebusiness.extole.io
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
-    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
@@ -761,7 +759,6 @@
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
 | share.columbiacu.org | columbiacu.extole.io |
-| refer.comfortzoneskin.com | comfortzoneskin.extole.io |
 | refer.competitivecyclist.com | competitivecyclist.extole.io |
 | refer.compexusa.com | compexusa.extole.com |
 | share.conceiveabilities.com | conceiveabilities.extole.io |
@@ -786,6 +783,7 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -852,6 +850,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.forgetrust.com | forgetrust.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
@@ -935,7 +934,6 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1123,7 +1121,6 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
-| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1217,7 +1214,6 @@
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | share.simplepractice.com | simplepractice.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1271,6 +1267,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1343,7 +1340,6 @@
 | share.vonage.com | vonagebusiness.extole.io |
 | share.vonage.co.uk | vonagebusinessuk.extole.io |
 | share.wagwalking.com | wagwalking.extole.io |
-| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |

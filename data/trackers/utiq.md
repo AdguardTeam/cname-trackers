@@ -188,6 +188,7 @@
 | utiq.leonoticias.com | frontend.prod.utiq-aws.net |
 | utiq.lesnumeriques.com | frontend.prod.utiq-aws.net |
 | utiq.lest-eclair.fr | frontend.prod.utiq-aws.net |
+| utiq.letelegramme.fr | frontend.prod.utiq-aws.net |
 | utiq.levante-emv.com | frontend.prod.utiq-aws.net |
 | utiq.lexpress.fr | frontend.prod.utiq-aws.net |
 | utiq.liberation-champagne.fr | frontend.prod.utiq-aws.net |
@@ -316,6 +317,7 @@
 | utiq.zdnet.fr | frontend.prod.utiq-aws.net |
 | utiq.zeit.de | frontend.prod.utiq-aws.net |
 | vfes.mno.link | frontend.prod.utiq-aws.net |
+| yesss-a1at.mno.link | frontend.prod.utiq-aws.net |
 | orangefr-test.mno.link | frontend.test.utiq-aws.net |
 | utiq-test.utest1.work | frontend.test.utiq-aws.net |
 | utiq-test.utest3.work | frontend.test.utiq-aws.net |

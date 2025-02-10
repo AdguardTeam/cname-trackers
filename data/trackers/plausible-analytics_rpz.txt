@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -392,7 +392,6 @@ stats.bostonedtech.org CNAME .
 stats.breathly.app CNAME .
 stats.brennholzauktion.com CNAME .
 stats.briskoda.net CNAME .
-stats.brumtechtapas.co.uk CNAME .
 stats.bruskowski.design CNAME .
 stats.buddiy.net CNAME .
 stats.bungeefit.co.uk CNAME .

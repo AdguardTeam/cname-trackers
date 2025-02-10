@@ -51,6 +51,7 @@
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
+| at.h24.news | tls.non.li |
 | flow-prod.h24.news | tls.non.li |
 | go.3ds.com | tls.non.li |
 | go.france24.com | tls.non.li |
@@ -89,6 +90,7 @@
 | l.courrier-picard.fr | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
 | l.diapasonmag.fr | tls.non.li |
+| l.diverto.tv | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
 | l.dzfoot.com | tls.non.li |
 | l.easyvoyage.com | tls.non.li |

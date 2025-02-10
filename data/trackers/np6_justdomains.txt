@@ -343,7 +343,6 @@ tr.email.archiexpo.com
 tr.email.contact-jaguar.fr
 tr.email.contact-landrover.fr
 tr.email.custom-campaign.com
-tr.email.d17.tv
 tr.email.d8.tv
 tr.email.defiscaliser.com
 tr.email.directindustry.com
@@ -684,6 +683,7 @@ tr.mondevis-b2b.com
 tr.mondevis-pro.com
 tr.moving.espmp-agfr.net
 tr.moving.fr
+tr.mp.aconclue-business.com
 tr.mp.aconclue-business.fr
 tr.mp.aconclue-entreprise.fr
 tr.mp.aconclue-pro.com
@@ -798,7 +798,6 @@ tr.news.heredis.com
 tr.news.hrdradio.tv
 tr.news.i24news.tv
 tr.news.ics.fr
-tr.news.ifh.fr
 tr.news.infopro-digital.com
 tr.news.interforum.fr
 tr.news.invinoradio.tv
@@ -1071,7 +1070,6 @@ tr.solendi.com
 tr.solocal.espmp-aufr.net
 tr.solution.uneo.fr
 tr.sopr.espmp-agfr.net
-tr.sorecson.fr
 tr.sort.espmp-nifr.net
 tr.souscription.floa.fr
 tr.spain.plimsoll.es

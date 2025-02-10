@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -192,6 +192,7 @@ utiq.lemessager.fr CNAME .
 utiq.leonoticias.com CNAME .
 utiq.lesnumeriques.com CNAME .
 utiq.lest-eclair.fr CNAME .
+utiq.letelegramme.fr CNAME .
 utiq.levante-emv.com CNAME .
 utiq.lexpress.fr CNAME .
 utiq.liberation-champagne.fr CNAME .
@@ -324,3 +325,4 @@ utiq.zeit.de CNAME .
 vfdemsp.mno.link CNAME .
 vfes.mno.link CNAME .
 vfesmsp.mno.link CNAME .
+yesss-a1at.mno.link CNAME .

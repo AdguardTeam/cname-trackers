@@ -21,6 +21,7 @@
 ||collect.calvinklein.ch^
 ||collect.calvinklein.co.uk^
 ||collect.calvinklein.com^
+||collect.calvinklein.cz^
 ||collect.calvinklein.de^
 ||collect.calvinklein.dk^
 ||collect.calvinklein.ee^
@@ -32,13 +33,14 @@
 ||collect.calvinklein.ie^
 ||collect.calvinklein.it^
 ||collect.calvinklein.lt^
+||collect.calvinklein.lu^
 ||collect.calvinklein.lv^
 ||collect.calvinklein.nl^
 ||collect.calvinklein.pl^
 ||collect.calvinklein.pt^
 ||collect.calvinklein.se^
 ||collect.calvinklein.si^
-||collect.fancl.co.jp^
+||collect.calvinklein.sk^
 ||collect.kinto-jp.com^
 ||collect.mtgec.jp^
 ||collect.oportun.com^
@@ -79,7 +81,9 @@
 ||omt.dm.rs^
 ||omt.dm.si^
 ||omt.mojadm.sk^
+||pixel.bi.serviceplan.com^
 ||ssttags.argenta.be^
+||supply.bi.serviceplan.com^
 ||t.acwholesalers.com^
 ||t.aircompressorsdirect.com^
 ||t.ecomfort.com^
@@ -88,6 +92,7 @@
 ||t.pressurewashersdirect.com^
 ||t.sumppumpsdirect.com^
 ||t.waterpumpsdirect.com^
+||tag.bi.serviceplan.com^
 ||tagdelivery.mayoclinic.org^
 ||tags.3m.com.om^
 ||tags.abercrombie.com^
@@ -114,7 +119,6 @@
 ||tags.benarnews.org^
 ||tags.bestcheck.de^
 ||tags.bestow.com^
-||tags.bills.com^
 ||tags.bk.mufg.jp^
 ||tags.bunte.de^
 ||tags.caixabank.es^
@@ -138,6 +142,7 @@
 ||tags.calvinklein.ie^
 ||tags.calvinklein.it^
 ||tags.calvinklein.lt^
+||tags.calvinklein.lu^
 ||tags.calvinklein.lv^
 ||tags.calvinklein.nl^
 ||tags.calvinklein.pl^
@@ -395,9 +400,8 @@
 ||tttd.parfumdreams.pl^
 ||tttd.parfumdreams.pt^
 ||tttd.parfumdreams.se^
-||view.ansons.de^
 ||view.oportun.com^
-||view.stylebob.com^
+||view.peek-cloppenburg.de^
 ||visitor-service.aeonbank.co.jp^
 ||visitor-service.kinto-jp.com^
 ||visitor-service.mtgec.jp^
@@ -409,9 +413,7 @@
 ||webtags.logitech.com^
 ||webtags.logitechg.com^
 ||www.tags.kmart.com.au^
-||collect.calvinklein.cz^
-||collect.calvinklein.lu^
-||collect.calvinklein.sk^
-||tag.bi.serviceplan.com^
-||tags.calvinklein.lu^
+||collect.fancl.co.jp^
 ||tags.sixpad.jp^
+||view.ansons.de^
+||view.stylebob.com^

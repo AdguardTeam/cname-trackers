@@ -275,6 +275,7 @@
 ||web.e.professionalbuildingsupplies.co.uk^
 ||web.e.pvccladding.com^
 ||web.e.soakaways.com^
+||web.email.amplifiedclothing.com^
 ||web.email.farrow-ball.com^
 ||web.email.mishimoto.co.uk^
 ||web.email.mishimoto.com^
@@ -378,6 +379,7 @@
 ||web.web.tomasiauto.com^
 ||web.x.ilpost.it^
 ||webanalytics.also.com^
+||webanalytics.also.pt^
 ||webmet.creditreform-mahnwesen.de^
 ||webmet.creditreform.de^
 ||webmet.crefotrust.de^

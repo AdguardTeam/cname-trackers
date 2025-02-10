@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -401,7 +401,6 @@ a8click.young-mobile.net CNAME .
 a8clk.011330.jp CNAME .
 a8clk.1osechi.com CNAME .
 a8clk.292957.jp CNAME .
-a8clk.9factor.com CNAME .
 a8clk.account.matsui.co.jp CNAME .
 a8clk.adeliv.treasure-f.com CNAME .
 a8clk.adventkk.co.jp CNAME .
@@ -755,7 +754,6 @@ a8clk.xserver.ne.jp CNAME .
 a8clk.y-station.net CNAME .
 a8clk.ykd.co.jp CNAME .
 a8clk.yourmystar.jp CNAME .
-a8clk.yu-en.com CNAME .
 a8clk.yubisashi.com CNAME .
 a8clk.yumeyakata.com CNAME .
 a8clk.ziaco.eco-life.tokyo CNAME .
@@ -1302,6 +1300,7 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
+a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .

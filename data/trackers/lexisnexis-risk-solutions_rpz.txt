@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1738569609752        ; Serial
+           1739174409510        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -212,6 +212,7 @@ cfaxq1.fidelity.com CNAME .
 cfaxq2.fidelity.com CNAME .
 channel.rakbankonline.ae CNAME .
 check.fashionid.de CNAME .
+check.jaja.finance CNAME .
 check2.bankofscotland.co.uk CNAME .
 check2.halifax-online.co.uk CNAME .
 check2.halifax.co.uk CNAME .
@@ -334,6 +335,7 @@ content.name.com CNAME .
 content.nebraska.gov CNAME .
 content.netcredit.pl CNAME .
 content.nhrs.org CNAME .
+content.norwegianlab.com CNAME .
 content.novunaconsumerfinance.co.uk CNAME .
 content.nu.com.co CNAME .
 content.nu.com.mx CNAME .
@@ -523,6 +525,7 @@ elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
 ep-content.patento.pl CNAME .
 ep-content.vivigo.pl CNAME .
+ep-content.viviraty.pl CNAME .
 ep-content.vivus.pl CNAME .
 ep-content.zaplo.pl CNAME .
 ep.vystarcu.org CNAME .
@@ -560,8 +563,8 @@ fp.ups.com CNAME .
 fpcn.bpsgameserver.com CNAME .
 fpmobile.uplift-platform.com CNAME .
 fps.lascana.nl CNAME .
+fps.otto.nl CNAME .
 fpt.norton.com CNAME .
-fraudcheck.walmart.ca CNAME .
 fss.glbank.com CNAME .
 fsta.leboncoin.info CNAME .
 ftd.quodxx.com.br CNAME .
@@ -653,6 +656,7 @@ kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
 ln.acornfun.com CNAME .
 ln.cash.app CNAME .
+ln.coolspinslot.com CNAME .
 ln.jackpotgo.club CNAME .
 ln.lavishluck.net CNAME .
 ln.meudigio.com.br CNAME .
@@ -848,6 +852,7 @@ rba.optumid.com CNAME .
 rba.phub-im.uhg.com CNAME .
 rbawis.pocketcard.co.jp CNAME .
 rebatecontent.finance.delaware.gov CNAME .
+regstat.betfair.bet.br CNAME .
 regstat.betfair.com CNAME .
 regstat.betfair.es CNAME .
 regstat.betfair.it CNAME .

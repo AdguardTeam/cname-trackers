@@ -181,6 +181,7 @@
 ||utiq.leonoticias.com^
 ||utiq.lesnumeriques.com^
 ||utiq.lest-eclair.fr^
+||utiq.letelegramme.fr^
 ||utiq.levante-emv.com^
 ||utiq.lexpress.fr^
 ||utiq.liberation-champagne.fr^
@@ -313,3 +314,4 @@
 ||vfdemsp.mno.link^
 ||vfes.mno.link^
 ||vfesmsp.mno.link^
+||yesss-a1at.mno.link^

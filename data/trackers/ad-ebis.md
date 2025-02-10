@@ -59,7 +59,9 @@
     * 267222ab-t3ucd5yy.cname.ebis.ne.jp
     * 26ee0459-cb9pban5.cname.ebis.ne.jp
     * 272dd850-1tkscuog.cname.ebis.ne.jp
+    * 273363c7-yg5rfhhx.cname.ebis.ne.jp
     * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
+    * 27dd2efc-9ztgpdfy.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
     * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
     * 2cc59598-glhirlqn.cname.ebis.ne.jp
@@ -394,7 +396,9 @@
 | ebiscname.english-native.net | 267222ab-t3ucd5yy.cname.ebis.ne.jp |
 | ccc.aqualink.tokyo | 26ee0459-cb9pban5.cname.ebis.ne.jp |
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |
+| ebis.sekokan-next.worldcorp-jp.com | 273363c7-yg5rfhhx.cname.ebis.ne.jp |
 | corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
+| adebis.lypo-c.jp | 27dd2efc-9ztgpdfy.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
 | ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
 | ebis.lululun.com | 2cc59598-glhirlqn.cname.ebis.ne.jp |

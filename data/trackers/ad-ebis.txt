@@ -80,6 +80,7 @@
 ||adebis.lifestylemag.jp^
 ||adebis.livable.co.jp^
 ||adebis.logoshome.jp^
+||adebis.lypo-c.jp^
 ||adebis.lypo-c.shop^
 ||adebis.mizunomori.com^
 ||adebis.muscledeli.jp^
@@ -252,6 +253,7 @@
 ||ebis.seibu-k.co.jp^
 ||ebis.sekisuihouse.co.jp^
 ||ebis.sekisuihouse.com^
+||ebis.sekokan-next.worldcorp-jp.com^
 ||ebis.shabon.com^
 ||ebis.smakon.jp^
 ||ebis.studio-alice.co.jp^

@@ -201,6 +201,7 @@
 ||cfaxq2.fidelity.com^
 ||channel.rakbankonline.ae^
 ||check.fashionid.de^
+||check.jaja.finance^
 ||check2.bankofscotland.co.uk^
 ||check2.halifax-online.co.uk^
 ||check2.halifax.co.uk^
@@ -323,6 +324,7 @@
 ||content.nebraska.gov^
 ||content.netcredit.pl^
 ||content.nhrs.org^
+||content.norwegianlab.com^
 ||content.novunaconsumerfinance.co.uk^
 ||content.nu.com.co^
 ||content.nu.com.mx^
@@ -512,6 +514,7 @@
 ||enligne.bnc.ca^
 ||ep-content.patento.pl^
 ||ep-content.vivigo.pl^
+||ep-content.viviraty.pl^
 ||ep-content.vivus.pl^
 ||ep-content.zaplo.pl^
 ||ep.vystarcu.org^
@@ -549,8 +552,8 @@
 ||fpcn.bpsgameserver.com^
 ||fpmobile.uplift-platform.com^
 ||fps.lascana.nl^
+||fps.otto.nl^
 ||fpt.norton.com^
-||fraudcheck.walmart.ca^
 ||fss.glbank.com^
 ||fsta.leboncoin.info^
 ||ftd.quodxx.com.br^
@@ -642,6 +645,7 @@
 ||lab4.lloydsbank.com^
 ||ln.acornfun.com^
 ||ln.cash.app^
+||ln.coolspinslot.com^
 ||ln.jackpotgo.club^
 ||ln.lavishluck.net^
 ||ln.meudigio.com.br^
@@ -837,6 +841,7 @@
 ||rba.phub-im.uhg.com^
 ||rbawis.pocketcard.co.jp^
 ||rebatecontent.finance.delaware.gov^
+||regstat.betfair.bet.br^
 ||regstat.betfair.com^
 ||regstat.betfair.es^
 ||regstat.betfair.it^
