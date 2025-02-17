@@ -109,6 +109,7 @@
     * 487143832382979.wt-eu02.net
     * 489164258023327.wt-eu02.net
     * 495967780350059.wt-eu02.net
+    * 516595732855224.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
@@ -309,6 +310,7 @@
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | startrekk.flaconi.be | 329744135290071.wt-eu02.net |
 | web.email.amplifiedclothing.com | 339874301969258.wt-eu02.net |
+| web.email.sebago.co.uk | 339874301969258.wt-eu02.net |
 | web.email.superga.co.uk | 339874301969258.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
@@ -352,6 +354,7 @@
 | web.news.coccinelle.com | 487143832382979.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
 | web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
+| web2.updates.ditano.com | 516595732855224.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |

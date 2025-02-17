@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,12 +20,12 @@ analytics.ewpratten.com CNAME .
 analytics.ferrybig.me CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.law.mohican.com CNAME .
+analytics.law.tmchippewa.com CNAME .
 analytics.leespace.co CNAME .
 analytics.popov.link CNAME .
 analytics.riggraz.dev CNAME .
 analytics.yofbrc.com CNAME .
 argus.umarbutler.com CNAME .
-c.paddyk45.de CNAME .
 c.qrdate.org CNAME .
 contacapre.bortox.it CNAME .
 count.andreabrandi.com CNAME .
@@ -70,6 +70,7 @@ stats.afirmacijas.lv CNAME .
 stats.apitman.com CNAME .
 stats.artur-rodrigues.com CNAME .
 stats.benjaminmorris.com CNAME .
+stats.beyondthesprawl.com CNAME .
 stats.bilderbrief.de CNAME .
 stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
@@ -99,10 +100,12 @@ stats.jessesquires.com CNAME .
 stats.jmmr.dev CNAME .
 stats.johanneswienke.de CNAME .
 stats.jonaslieb.de CNAME .
+stats.k94.ch CNAME .
 stats.kc.ie CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
 stats.lspeed.org CNAME .
+stats.matteocroce.it CNAME .
 stats.mausoleum.me CNAME .
 stats.mele.dev CNAME .
 stats.merrell.dev CNAME .

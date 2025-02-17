@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ ctrl.guenther.de CNAME .
 data.drhauschka.de CNAME .
 data.juhu.auto CNAME .
 data.moebel-style.de CNAME .
+data.uk.kutchenhaus.com CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
@@ -48,6 +49,7 @@ etd.weidemann.com CNAME .
 etrac.lodenwalker.com CNAME .
 etracker.alex-gross.com CNAME .
 etracker.cjd.de CNAME .
+etracker.louis.de CNAME .
 ets.verivox.com CNAME .
 ettcc.steute-controltec.com CNAME .
 ettcc.steute-leantec.com CNAME .
@@ -104,6 +106,7 @@ wctr.vitanova-kliniken.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcon.se-legal.de CNAME .
+webcontr.aquarius-prolife.com CNAME .
 webcontr.baulogistik-online.de CNAME .
 webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .
@@ -128,6 +131,7 @@ webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .
 webcontrol.brenners-altholz.at CNAME .
+webctrl.dalimed.de CNAME .
 webtr.dachser.com CNAME .
 weco.gasteo.de CNAME .
 weco.ilon.de CNAME .

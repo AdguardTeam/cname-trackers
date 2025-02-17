@@ -10,6 +10,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| a1at.mno.link | frontend.prod.utiq-aws.net |
 | bob-a1at.mno.link | frontend.prod.utiq-aws.net |
 | esca.mno.link | frontend.prod.utiq-aws.net |
 | o2de.mno.link | frontend.prod.utiq-aws.net |

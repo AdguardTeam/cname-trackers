@@ -9,12 +9,12 @@ data.ubi.com
 data.wptag.net
 logger.yp.ca
 sales.disneylandparis.com
-tag.boulanger.fr
 tagcommander.laredoute.be
 tagcommander.laredoute.ch
 configure.adlermode.com
 data.auchandirect.fr
 data.ricaud.com
+tag.boulanger.fr
 tc.europcar.com
 tc.europcar.com.au
 tc.europcar.de

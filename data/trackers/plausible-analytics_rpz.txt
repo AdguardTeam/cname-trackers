@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -168,11 +168,7 @@ plas.imfeld.dev CNAME .
 plau.artemsyzonenko.com CNAME .
 plau.caisy.io CNAME .
 plau.devitjobs.nl CNAME .
-plau.devitjobs.uk CNAME .
 plau.devitjobs.us CNAME .
-plau.devjob.ro CNAME .
-plau.germantechjobs.de CNAME .
-plau.swissdevjobs.ch CNAME .
 plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
 plaus.outpost.pub CNAME .
@@ -196,7 +192,6 @@ plausible.buildfirst.tech CNAME .
 plausible.campwire.com CNAME .
 plausible.canpoi.com CNAME .
 plausible.conveyal.com CNAME .
-plausible.corbettbarr.com CNAME .
 plausible.countingindia.com CNAME .
 plausible.dailytics.com CNAME .
 plausible.dev.logicboard.com CNAME .
@@ -676,7 +671,6 @@ stats.nytecomics.com CNAME .
 stats.obiit.co CNAME .
 stats.obokat.se CNAME .
 stats.odysseeseine.org CNAME .
-stats.officefoosball.com CNAME .
 stats.ohmysmtp.com CNAME .
 stats.oldtinroof.com CNAME .
 stats.oliveoil.pro CNAME .
@@ -695,7 +689,6 @@ stats.parrot.dev CNAME .
 stats.passwordyeti.com CNAME .
 stats.pasteapp.io CNAME .
 stats.pastorwagner.com CNAME .
-stats.patout.dev CNAME .
 stats.patrickl.am CNAME .
 stats.patriot.win CNAME .
 stats.paulronge.se CNAME .
@@ -732,6 +725,7 @@ stats.profitablesignpricing.com CNAME .
 stats.projectcongress.com CNAME .
 stats.psychotherapieravensburg.de CNAME .
 stats.pubfind.io CNAME .
+stats.qbitstore.nl CNAME .
 stats.qovery.com CNAME .
 stats.quicksilvercre.com CNAME .
 stats.radicaldata.org CNAME .

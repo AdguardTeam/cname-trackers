@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -293,6 +293,7 @@ web.email.mishimoto.com CNAME .
 web.email.mishimoto.eu CNAME .
 web.email.parkcameras.com CNAME .
 web.email.pizzaexpress.com CNAME .
+web.email.sebago.co.uk CNAME .
 web.email.superga.co.uk CNAME .
 web.email.topfarmacia.it CNAME .
 web.email.turtlebay.co.uk CNAME .
@@ -389,6 +390,7 @@ web.update.sandiego.org CNAME .
 web.updates.ditano.com CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
+web2.updates.ditano.com CNAME .
 webanalytics.also.com CNAME .
 webanalytics.also.pt CNAME .
 webmet.creditreform-mahnwesen.de CNAME .

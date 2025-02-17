@@ -107,6 +107,7 @@
 ||l.lest-eclair.fr^
 ||l.letemps.ch^
 ||l.lexpress.fr^
+||l.liberation-champagne.fr^
 ||l.lindependant.fr^
 ||l.lunion.fr^
 ||l.madmoizelle.com^

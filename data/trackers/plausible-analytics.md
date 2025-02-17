@@ -170,11 +170,7 @@
 | plau.artemsyzonenko.com | custom.plausible.io |
 | plau.caisy.io | custom.plausible.io |
 | plau.devitjobs.nl | custom.plausible.io |
-| plau.devitjobs.uk | custom.plausible.io |
 | plau.devitjobs.us | custom.plausible.io |
-| plau.devjob.ro | custom.plausible.io |
-| plau.germantechjobs.de | custom.plausible.io |
-| plau.swissdevjobs.ch | custom.plausible.io |
 | plauplauplau.app.budg.co | custom.plausible.io |
 | plauplauplau.budg.co | custom.plausible.io |
 | plaus.outpost.pub | custom.plausible.io |
@@ -198,7 +194,6 @@
 | plausible.campwire.com | custom.plausible.io |
 | plausible.canpoi.com | custom.plausible.io |
 | plausible.conveyal.com | custom.plausible.io |
-| plausible.corbettbarr.com | custom.plausible.io |
 | plausible.countingindia.com | custom.plausible.io |
 | plausible.dailytics.com | custom.plausible.io |
 | plausible.dev.logicboard.com | custom.plausible.io |
@@ -678,7 +673,6 @@
 | stats.obiit.co | custom.plausible.io |
 | stats.obokat.se | custom.plausible.io |
 | stats.odysseeseine.org | custom.plausible.io |
-| stats.officefoosball.com | custom.plausible.io |
 | stats.ohmysmtp.com | custom.plausible.io |
 | stats.oldtinroof.com | custom.plausible.io |
 | stats.oliveoil.pro | custom.plausible.io |
@@ -697,7 +691,6 @@
 | stats.passwordyeti.com | custom.plausible.io |
 | stats.pasteapp.io | custom.plausible.io |
 | stats.pastorwagner.com | custom.plausible.io |
-| stats.patout.dev | custom.plausible.io |
 | stats.patrickl.am | custom.plausible.io |
 | stats.patriot.win | custom.plausible.io |
 | stats.paulronge.se | custom.plausible.io |
@@ -734,6 +727,7 @@
 | stats.projectcongress.com | custom.plausible.io |
 | stats.psychotherapieravensburg.de | custom.plausible.io |
 | stats.pubfind.io | custom.plausible.io |
+| stats.qbitstore.nl | custom.plausible.io |
 | stats.qovery.com | custom.plausible.io |
 | stats.quicksilvercre.com | custom.plausible.io |
 | stats.radicaldata.org | custom.plausible.io |

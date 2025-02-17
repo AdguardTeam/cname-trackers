@@ -74,6 +74,7 @@
 ||data-06d9d19ba0.filmdienst.de^
 ||data-06e3bb70c5.th-ab.de^
 ||data-073db1ac20.rationell-reinigen.de^
+||data-07728e2d08.lokaldirekt.de^
 ||data-0797a61d67.starfm.de^
 ||data-07bc6012a0.apps.iocnt.de^
 ||data-07ca87a981.logistikmasters.de^
@@ -349,7 +350,6 @@
 ||data-27f08504c8.capital.de^
 ||data-27f08504c8.immobilien-kompass.de^
 ||data-281bdc39ec.bsbrandschutz.de^
-||data-285d0c5451.spektrum.de^
 ||data-28d1f65bc5.bnn.de^
 ||data-28e246ff03.esquire.de^
 ||data-28f3f6582c.maedchen.de^
@@ -395,7 +395,6 @@
 ||data-2f9a02e6cd.tga-fachplaner.de^
 ||data-30826b1c29.agrarheute.com^
 ||data-30866d53e2.eatbetter.de^
-||data-30bae1cc41.futurezone.de^
 ||data-30e91950da.joyn.at^
 ||data-3102d425a1.apps.iocnt.de^
 ||data-311d8c614b.natursteinonline.de^
@@ -697,7 +696,6 @@
 ||data-4d32f71c16.stadtbuecherei-nuertingen.de^
 ||data-4d33656d8f.watson.de^
 ||data-4d5c7c2be6.boden-wand-decke.de^
-||data-4e46e5dc90.spektrum.de^
 ||data-4e9ff460f2.autobild.de^
 ||data-4e9ff460f2.bike-bild.de^
 ||data-4e9ff460f2.clever-tanken.de^
@@ -838,6 +836,7 @@
 ||data-6078195ae2.apps.iocnt.de^
 ||data-60ca748eaf.apps.iocnt.de^
 ||data-60d896f23d.aller-zeitung.de^
+||data-60d896f23d.augusto-sachsen.de^
 ||data-60d896f23d.cz.de^
 ||data-60d896f23d.dewezet.de^
 ||data-60d896f23d.dieharke.de^
@@ -948,6 +947,7 @@
 ||data-67f17c94f0.haemorriden.net^
 ||data-67f17c94f0.herzberatung.de^
 ||data-67f17c94f0.hoerzu.de^
+||data-67f17c94f0.hormontherapie-wechseljahre.de^
 ||data-67f17c94f0.lifeline.de^
 ||data-67f17c94f0.onmeda.de^
 ||data-67f17c94f0.scheidenpilz.com^
@@ -1136,7 +1136,6 @@
 ||data-81547504c8.fupa.net^
 ||data-81547504c8.nw.de^
 ||data-8173e3f7ee.vodafone.de^
-||data-81d20bd810.futurezone.de^
 ||data-8251905874.handwerk-magazin.de^
 ||data-82ef4b598c.haustierratgeber.de^
 ||data-83380557db.erwin-event.de^
@@ -1608,6 +1607,7 @@
 ||data-b204b9f978.4players.de^
 ||data-b21e1c06f5.apps.iocnt.de^
 ||data-b2246b112c.apps.iocnt.de^
+||data-b23bcc2b84.radioaustria.at^
 ||data-b261ece11d.wochenblatt.de^
 ||data-b2b485d60a.werkstatt-betrieb.de^
 ||data-b2b62acd29.bigfm.de^
@@ -2102,7 +2102,6 @@
 ||data-ede3421766.promobil.de^
 ||data-ee28b6fae3.industrial-production.de^
 ||data-ee73ed6bf2.gera.de^
-||data-ee807be806.derwesten.de^
 ||data-ef2b66d556.miss.at^
 ||data-ef2df4302f.baumagazin-online.de^
 ||data-ef3fcaa7e9.0rtl.de^
@@ -2410,7 +2409,6 @@
 ||data-fdbbf15b66.finanzen.ch^
 ||data-fdbbf15b66.finanzen.net^
 ||data-fdc5118d41.at-minerals.com^
-||data-fdf4690b14.derwesten.de^
 ||data-fdf4690b14.jobmarkt-nrw.de^
 ||data-fdf4690b14.radioduisburg.de^
 ||data-fdf4690b14.radiohagen.de^

@@ -293,7 +293,6 @@
 | affiliate.vasecocky.cz | cz.affilbox.cz |
 | affiliate.vasesosovky.sk | cz.affilbox.cz |
 | affiliate.velebny.cz | cz.affilbox.cz |
-| affiliate.vianio.com | cz.affilbox.cz |
 | affiliate.vox.cz | cz.affilbox.cz |
 | affiliate.warriorfactory.cz | cz.affilbox.cz |
 | affiliate.wugi.cz | cz.affilbox.cz |
@@ -581,6 +580,7 @@
 | partner.fitnessrevolucia.sk | cz.affilbox.cz |
 | partner.forcell.cz | cz.affilbox.cz |
 | partner.forexrebel.net | cz.affilbox.cz |
+| partner.forkys.store | cz.affilbox.cz |
 | partner.fotoposta.sk | cz.affilbox.cz |
 | partner.freshlabels.cz | cz.affilbox.cz |
 | partner.gel-gun.cz | cz.affilbox.cz |
@@ -589,6 +589,7 @@
 | partner.giulieta.shop | cz.affilbox.cz |
 | partner.goelite.club | cz.affilbox.cz |
 | partner.gokids.cz | cz.affilbox.cz |
+| partner.gr7.cz | cz.affilbox.cz |
 | partner.greenbeast.vip | cz.affilbox.cz |
 | partner.gurufinance.cz | cz.affilbox.cz |
 | partner.hanamoneam.com | cz.affilbox.cz |
@@ -639,7 +640,6 @@
 | partner.levanduloveudolie.sk | cz.affilbox.cz |
 | partner.liberec-ubytovani.cz | cz.affilbox.cz |
 | partner.lidajirickova.cz | cz.affilbox.cz |
-| partner.lightportal.cz | cz.affilbox.cz |
 | partner.ligsuniversity.cz | cz.affilbox.cz |
 | partner.lorooro.com | cz.affilbox.cz |
 | partner.ltx.cz | cz.affilbox.cz |
@@ -774,6 +774,7 @@
 | partner.vivabeauty.cz | cz.affilbox.cz |
 | partner.vladimirekart.cz | cz.affilbox.cz |
 | partner.volne-reality.cz | cz.affilbox.cz |
+| partner.waldos.eu | cz.affilbox.cz |
 | partner.webareal.cz | cz.affilbox.cz |
 | partner.webareal.sk | cz.affilbox.cz |
 | partner.webovkysusmevem.cz | cz.affilbox.cz |
@@ -909,6 +910,7 @@
 | partneri.somsamasebou.sk | cz.affilbox.cz |
 | partneri.sportfotbal.cz | cz.affilbox.cz |
 | partneri.sportmentor.cz | cz.affilbox.cz |
+| partneri.stastnamysl.cz | cz.affilbox.cz |
 | partneri.sterixretro.cz | cz.affilbox.cz |
 | partneri.supportbox.cz | cz.affilbox.cz |
 | partneri.svetfitness.cz | cz.affilbox.cz |

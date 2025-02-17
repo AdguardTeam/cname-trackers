@@ -157,11 +157,7 @@
 ||plau.artemsyzonenko.com^
 ||plau.caisy.io^
 ||plau.devitjobs.nl^
-||plau.devitjobs.uk^
 ||plau.devitjobs.us^
-||plau.devjob.ro^
-||plau.germantechjobs.de^
-||plau.swissdevjobs.ch^
 ||plauplauplau.app.budg.co^
 ||plauplauplau.budg.co^
 ||plaus.outpost.pub^
@@ -185,7 +181,6 @@
 ||plausible.campwire.com^
 ||plausible.canpoi.com^
 ||plausible.conveyal.com^
-||plausible.corbettbarr.com^
 ||plausible.countingindia.com^
 ||plausible.dailytics.com^
 ||plausible.dev.logicboard.com^
@@ -665,7 +660,6 @@
 ||stats.obiit.co^
 ||stats.obokat.se^
 ||stats.odysseeseine.org^
-||stats.officefoosball.com^
 ||stats.ohmysmtp.com^
 ||stats.oldtinroof.com^
 ||stats.oliveoil.pro^
@@ -684,7 +678,6 @@
 ||stats.passwordyeti.com^
 ||stats.pasteapp.io^
 ||stats.pastorwagner.com^
-||stats.patout.dev^
 ||stats.patrickl.am^
 ||stats.patriot.win^
 ||stats.paulronge.se^
@@ -721,6 +714,7 @@
 ||stats.projectcongress.com^
 ||stats.psychotherapieravensburg.de^
 ||stats.pubfind.io^
+||stats.qbitstore.nl^
 ||stats.qovery.com^
 ||stats.quicksilvercre.com^
 ||stats.radicaldata.org^

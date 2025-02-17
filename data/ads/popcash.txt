@@ -404,7 +404,6 @@
 ||damselfly.vegenook.com^
 ||deer.m1x.co^
 ||deer.ray.io^
-||dingo.moehring.dev^
 ||dog.christinamoore.us^
 ||dog.franchisesocial.co.uk^
 ||dog.justsketch.me^
@@ -510,7 +509,6 @@
 ||gerbil.meenit.com^
 ||gerbil.recipe-ipsum.com^
 ||gibbon.711.st^
-||giraffe.talktalent.com^
 ||giraffe.viatorci.com^
 ||goat.aicontentdojo.com^
 ||goat.kunalslab.com^
@@ -998,7 +996,6 @@
 ||tahr.rasen.dev^
 ||takin.bottlebeagle.com^
 ||takin.cors.digital^
-||takin.dripmacetas.com^
 ||takin.revolana.fr^
 ||tapir.albertaguardtraining.ca^
 ||tapir.lindahlstudios.com^

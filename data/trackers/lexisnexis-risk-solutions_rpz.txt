@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -583,6 +583,7 @@ id.charge-auth.com CNAME .
 id.latitudefinancial.com CNAME .
 id.solidgate.com CNAME .
 identidaddigital.credicomer.com.sv CNAME .
+identity.blueprintportal.com CNAME .
 identity.myblueprint.arkansasbluecross.com CNAME .
 identity4.citidirect.com CNAME .
 idhtm.bb.com.br CNAME .
@@ -612,6 +613,7 @@ img.tmxcyber.com CNAME .
 img.zootweb.com CNAME .
 img02.pensionfund.org CNAME .
 img1.bog.ge CNAME .
+img2.adelantos.com.ar CNAME .
 img2.avant.com CNAME .
 img2.bbva.com.ar CNAME .
 img2.bog.ge CNAME .
@@ -647,7 +649,6 @@ intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
 invalid-qa2.threatmetrix.com CNAME .
 irmp.caa.com CNAME .
-ivaacontent.ers.ga.gov CNAME .
 jj203.equitablebank.ca CNAME .
 jplspr.jackpot.com CNAME .
 jpubs.zodia.io CNAME .
@@ -1138,6 +1139,7 @@ tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .
 tmx.carhistory.com.au CNAME .
 tmx.efsllc.com CNAME .
+tmx.esfp.c1.vanguard.com CNAME .
 tmx.gotobilling.com CNAME .
 tmx.idp.eu.safenetid.com CNAME .
 tmx.idp.safenetid-staging.safenetid.com CNAME .

@@ -16,6 +16,7 @@
 ||data.drhauschka.de^
 ||data.juhu.auto^
 ||data.moebel-style.de^
+||data.uk.kutchenhaus.com^
 ||e.mediherz-shop.de^
 ||e.medikamente-per-klick.de^
 ||e.preisapo.de^
@@ -37,6 +38,7 @@
 ||etrac.lodenwalker.com^
 ||etracker.alex-gross.com^
 ||etracker.cjd.de^
+||etracker.louis.de^
 ||ets.verivox.com^
 ||ettcc.steute-controltec.com^
 ||ettcc.steute-leantec.com^
@@ -93,6 +95,7 @@
 ||webanalytics.pwc.fr^
 ||webaus.dw-shop.de^
 ||webcon.se-legal.de^
+||webcontr.aquarius-prolife.com^
 ||webcontr.baulogistik-online.de^
 ||webcontr.bet-at-home.com^
 ||webcontr.bet-at-home.de^
@@ -117,6 +120,7 @@
 ||webcontr.verpoorten.de^
 ||webcontr.vetter-pharma.com^
 ||webcontrol.brenners-altholz.at^
+||webctrl.dalimed.de^
 ||webtr.dachser.com^
 ||weco.gasteo.de^
 ||weco.ilon.de^

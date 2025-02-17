@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -415,7 +415,6 @@ cuckoo.peoplefirstjobs.com CNAME .
 damselfly.vegenook.com CNAME .
 deer.m1x.co CNAME .
 deer.ray.io CNAME .
-dingo.moehring.dev CNAME .
 dog.christinamoore.us CNAME .
 dog.franchisesocial.co.uk CNAME .
 dog.justsketch.me CNAME .
@@ -521,7 +520,6 @@ gerbil.lespetitsbots.com CNAME .
 gerbil.meenit.com CNAME .
 gerbil.recipe-ipsum.com CNAME .
 gibbon.711.st CNAME .
-giraffe.talktalent.com CNAME .
 giraffe.viatorci.com CNAME .
 goat.aicontentdojo.com CNAME .
 goat.kunalslab.com CNAME .
@@ -1009,7 +1007,6 @@ tahr.happydev.fm CNAME .
 tahr.rasen.dev CNAME .
 takin.bottlebeagle.com CNAME .
 takin.cors.digital CNAME .
-takin.dripmacetas.com CNAME .
 takin.revolana.fr CNAME .
 tapir.albertaguardtraining.ca CNAME .
 tapir.lindahlstudios.com CNAME .

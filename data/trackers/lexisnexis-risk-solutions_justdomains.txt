@@ -572,6 +572,7 @@ id.charge-auth.com
 id.latitudefinancial.com
 id.solidgate.com
 identidaddigital.credicomer.com.sv
+identity.blueprintportal.com
 identity.myblueprint.arkansasbluecross.com
 identity4.citidirect.com
 idhtm.bb.com.br
@@ -601,6 +602,7 @@ img.tmxcyber.com
 img.zootweb.com
 img02.pensionfund.org
 img1.bog.ge
+img2.adelantos.com.ar
 img2.avant.com
 img2.bbva.com.ar
 img2.bog.ge
@@ -636,7 +638,6 @@ intlsdpntrca.nitrocasino.ca
 intm.amwager.com
 invalid-qa2.threatmetrix.com
 irmp.caa.com
-ivaacontent.ers.ga.gov
 jj203.equitablebank.ca
 jplspr.jackpot.com
 jpubs.zodia.io
@@ -1127,6 +1128,7 @@ tmx.bestbuy.com
 tmx.beyondbank.com.au
 tmx.carhistory.com.au
 tmx.efsllc.com
+tmx.esfp.c1.vanguard.com
 tmx.gotobilling.com
 tmx.idp.eu.safenetid.com
 tmx.idp.safenetid-staging.safenetid.com

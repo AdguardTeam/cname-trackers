@@ -1302,7 +1302,6 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
-| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.willfu.jp | trck.a8.net |
@@ -1546,7 +1545,6 @@
 | cv.ticketpay.jp | trck.a8.net |
 | cv.top-management.co.jp | trck.a8.net |
 | cv.ui-chiho.clinic | trck.a8.net |
-| cv.viday.jp | trck.a8.net |
 | cv.virtualoffice-resonance.jp | trck.a8.net |
 | cv.web-sana.com | trck.a8.net |
 | cv.willbefit.jp | trck.a8.net |

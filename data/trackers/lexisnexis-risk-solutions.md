@@ -71,7 +71,6 @@
     * h-3zlt5rop.online-metrix.net
     * h-40347ghm.online-metrix.net
     * h-40347ghm2.online-metrix.net
-    * h-42guvm37.online-metrix.net
     * h-47blm1l4.online-metrix.net
     * h-47z24dz9.online-metrix.net
     * h-4a04ohow.online-metrix.net
@@ -134,6 +133,7 @@
     * h-7ih7ebik.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
+    * h-7iw7j7aw.online-metrix.net
     * h-7lw52x9e.online-metrix.net
     * h-7npzzdc5.online-metrix.net
     * h-7nwhwds3.online-metrix.net
@@ -255,6 +255,7 @@
     * h-banquecasino-cb4x.online-metrix.net
     * h-banquecasino.online-metrix.net
     * h-barstoolsportsbook.online-metrix.net
+    * h-bcbsak.online-metrix.net
     * h-beachbody.online-metrix.net
     * h-benevity.online-metrix.net
     * h-berluti.online-metrix.net
@@ -759,6 +760,7 @@
     * h-v60nf4oj-xfp.online-metrix.net
     * h-v60nf4oj-zfp.online-metrix.net
     * h-vacations.united.online-metrix.net
+    * h-vanguard.online-metrix.net
     * h-vedacheck.online-metrix.net
     * h-verizon.online-metrix.net
     * h-vinci-autoroutes.online-metrix.net
@@ -937,7 +939,6 @@
 | shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
 | diff3.orange.es | h-40347ghm.online-metrix.net |
 | diff3.jazztel.com | h-40347ghm2.online-metrix.net |
-| ivaacontent.ers.ga.gov | h-42guvm37.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
 | content002.bet365.bet.br | h-47z24dz9.online-metrix.net |
 | content002.bet365.ca | h-47z24dz9.online-metrix.net |
@@ -1042,6 +1043,7 @@
 | content.rubyfortunecasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.spincasino.ca | h-7ij9mii1-a.online-metrix.net |
 | de9c635aa0404558bd527220ef4e6b4b.betway.ca | h-7ij9mii1.online-metrix.net |
+| img2.adelantos.com.ar | h-7iw7j7aw.online-metrix.net |
 | af.mobile.free.fr | h-7lw52x9e.online-metrix.net |
 | dol-reemployme-js01.maine.gov | h-7npzzdc5.online-metrix.net |
 | telem.highlow.com | h-7nwhwds3.online-metrix.net |
@@ -1281,6 +1283,7 @@
 | paiement.cb4x.fr | h-banquecasino-cb4x.online-metrix.net |
 | banque.banque-casino.fr | h-banquecasino.online-metrix.net |
 | tm.barstoolsportsbook.com | h-barstoolsportsbook.online-metrix.net |
+| identity.blueprintportal.com | h-bcbsak.online-metrix.net |
 | tm.beachbody.com | h-beachbody.online-metrix.net |
 | tm.benevity.org | h-benevity.online-metrix.net |
 | content.berluti.com | h-berluti.online-metrix.net |
@@ -1955,6 +1958,7 @@
 | zfp.intuit.com | h-v60nf4oj-zfp.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | ualaki-analytics.vacations.united.com | h-vacations.united.online-metrix.net |
+| tmx.esfp.c1.vanguard.com | h-vanguard.online-metrix.net |
 | auth.vedacheck.com.au | h-vedacheck.online-metrix.net |
 | tsaian.verizonwireless.com | h-verizon.online-metrix.net |
 | tmx.vinci-autoroutes.com | h-vinci-autoroutes.online-metrix.net |

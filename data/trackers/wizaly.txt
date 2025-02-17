@@ -141,7 +141,6 @@
 ||tk.petit-bateau.es^
 ||tk.petit-bateau.fr^
 ||tk.petit-bateau.it^
-||tk.planete-oui.fr^
 ||tk.prismashop.fr^
 ||tk.qare.fr^
 ||tk.qobuz.com^

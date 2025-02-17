@@ -14,6 +14,7 @@
     * artur.goatcounter.com
     * belak.goatcounter.com
     * benjaminmorris.goatcounter.com
+    * beyondthesprawl.goatcounter.com
     * bilderbrief.goatcounter.com
     * bkvn.goatcounter.com
     * blu3id-uk.goatcounter.com
@@ -65,11 +66,13 @@
     * johanneswienke.goatcounter.com
     * jojonas.goatcounter.com
     * jsq.goatcounter.com
+    * k94.goatcounter.com
     * kc-ie.goatcounter.com
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
+    * law-tmchippewa-com.goatcounter.com
     * localhosed.goatcounter.com
     * lspeed.goatcounter.com
     * maik-dev.goatcounter.com
@@ -87,7 +90,6 @@
     * noscirep.goatcounter.com
     * novi.goatcounter.com
     * ooo.goatcounter.com
-    * paddy-site.goatcounter.com
     * palaisdesfetes.goatcounter.com
     * polluxcodes.goatcounter.com
     * psiyum.goatcounter.com
@@ -108,6 +110,7 @@
     * tailspace.goatcounter.com
     * tbx.goatcounter.com
     * tdurand.goatcounter.com
+    * teknoraver.goatcounter.com
     * thecrafters001.goatcounter.com
     * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
@@ -141,6 +144,7 @@
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | goat.belak.io | belak.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
+| stats.beyondthesprawl.com | beyondthesprawl.goatcounter.com |
 | stats.bilderbrief.de | bilderbrief.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
@@ -192,11 +196,13 @@
 | stats.johanneswienke.de | johanneswienke.goatcounter.com |
 | stats.jonaslieb.de | jojonas.goatcounter.com |
 | stats.jessesquires.com | jsq.goatcounter.com |
+| stats.k94.ch | k94.goatcounter.com |
 | stats.kc.ie | kc-ie.goatcounter.com |
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
+| analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
 | stats.svc.lol | localhosed.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |
@@ -215,7 +221,6 @@
 | gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |
-| c.paddyk45.de | paddy-site.goatcounter.com |
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
 | stats.pollux.codes | polluxcodes.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
@@ -236,6 +241,7 @@
 | goat.tailspace.net | tailspace.goatcounter.com |
 | gc.tbx.at | tbx.goatcounter.com |
 | stats.tdurand.com | tdurand.goatcounter.com |
+| stats.matteocroce.it | teknoraver.goatcounter.com |
 | stats.thecrafters001.com | thecrafters001.goatcounter.com |
 | goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |

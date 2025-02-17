@@ -210,6 +210,7 @@
 ||tr.cnaf.espmp-nifr.net^
 ||tr.cobranca.younited-credit.com^
 ||tr.cogedim.espmp-agfr.net^
+||tr.collectif.groupe-vyv.fr^
 ||tr.com-clients.sfr.fr^
 ||tr.com-parc.sfr.fr^
 ||tr.com-red.sfr.fr^
@@ -738,6 +739,7 @@
 ||tr.news.c-media.fr^
 ||tr.news.cad-magazine.com^
 ||tr.news.capfun.com^
+||tr.news.carrefourspectacles.fr^
 ||tr.news.casino.fr^
 ||tr.news.casinodrive.fr^
 ||tr.news.casinomax.fr^

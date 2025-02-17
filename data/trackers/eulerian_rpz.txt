@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ $TTL 300
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
 3esm.consubebe.es CNAME .
+5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -195,6 +196,7 @@ eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 ela.futuroscope.com CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 eule1.pmu.fr CNAME .
@@ -256,7 +258,6 @@ gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 gli9.inseec-bs.com CNAME .
 gnh2.destinia.lv CNAME .
 gsg9.carrefour-banque.fr CNAME .
@@ -328,7 +329,6 @@ nlf6.vente-unique.pl CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
@@ -464,6 +464,7 @@ why3.inseec.education CNAME .
 wlp3.aegon.es CNAME .
 wnd2.destinia.cat CNAME .
 wph2.destinia.us CNAME .
+wqs4.destinia.pt CNAME .
 www.admanager.fr CNAME .
 www.attribution-school.com CNAME .
 www.attributionday.com CNAME .
@@ -493,17 +494,17 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
-5fm.985fm.ca CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
 d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
-erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
 su1.les-suites.ca CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
+gi7a.structube.com CNAME .
+nym5c.laura.ca CNAME .
 pk1u.melanielyne.com CNAME .

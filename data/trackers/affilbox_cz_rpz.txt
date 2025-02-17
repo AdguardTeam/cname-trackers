@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -285,7 +285,6 @@ affiliate.urbanstore.sk CNAME .
 affiliate.vasecocky.cz CNAME .
 affiliate.vasesosovky.sk CNAME .
 affiliate.velebny.cz CNAME .
-affiliate.vianio.com CNAME .
 affiliate.vox.cz CNAME .
 affiliate.warriorfactory.cz CNAME .
 affiliate.wugi.cz CNAME .
@@ -573,6 +572,7 @@ partner.firmin.cz CNAME .
 partner.fitnessrevolucia.sk CNAME .
 partner.forcell.cz CNAME .
 partner.forexrebel.net CNAME .
+partner.forkys.store CNAME .
 partner.fotoposta.sk CNAME .
 partner.freshlabels.cz CNAME .
 partner.gel-gun.cz CNAME .
@@ -581,6 +581,7 @@ partner.gingershot.cz CNAME .
 partner.giulieta.shop CNAME .
 partner.goelite.club CNAME .
 partner.gokids.cz CNAME .
+partner.gr7.cz CNAME .
 partner.greenbeast.vip CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
@@ -631,7 +632,6 @@ partner.levanduloveudoli.cz CNAME .
 partner.levanduloveudolie.sk CNAME .
 partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
-partner.lightportal.cz CNAME .
 partner.ligsuniversity.cz CNAME .
 partner.lorooro.com CNAME .
 partner.ltx.cz CNAME .
@@ -766,6 +766,7 @@ partner.virulent.cz CNAME .
 partner.vivabeauty.cz CNAME .
 partner.vladimirekart.cz CNAME .
 partner.volne-reality.cz CNAME .
+partner.waldos.eu CNAME .
 partner.webareal.cz CNAME .
 partner.webareal.sk CNAME .
 partner.webovkysusmevem.cz CNAME .
@@ -901,6 +902,7 @@ partneri.smyslovy-pruzkumnik.cz CNAME .
 partneri.somsamasebou.sk CNAME .
 partneri.sportfotbal.cz CNAME .
 partneri.sportmentor.cz CNAME .
+partneri.stastnamysl.cz CNAME .
 partneri.sterixretro.cz CNAME .
 partneri.supportbox.cz CNAME .
 partneri.svetfitness.cz CNAME .

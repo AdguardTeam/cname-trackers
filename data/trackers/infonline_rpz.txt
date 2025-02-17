@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -85,6 +85,7 @@ data-06d20d5dfa.radiobielefeld.de CNAME .
 data-06d9d19ba0.filmdienst.de CNAME .
 data-06e3bb70c5.th-ab.de CNAME .
 data-073db1ac20.rationell-reinigen.de CNAME .
+data-07728e2d08.lokaldirekt.de CNAME .
 data-0797a61d67.starfm.de CNAME .
 data-07bc6012a0.apps.iocnt.de CNAME .
 data-07ca87a981.logistikmasters.de CNAME .
@@ -360,7 +361,6 @@ data-27d15a0c8b.apps.iocnt.de CNAME .
 data-27f08504c8.capital.de CNAME .
 data-27f08504c8.immobilien-kompass.de CNAME .
 data-281bdc39ec.bsbrandschutz.de CNAME .
-data-285d0c5451.spektrum.de CNAME .
 data-28d1f65bc5.bnn.de CNAME .
 data-28e246ff03.esquire.de CNAME .
 data-28f3f6582c.maedchen.de CNAME .
@@ -406,7 +406,6 @@ data-2f8cd23f8f.apps.iocnt.de CNAME .
 data-2f9a02e6cd.tga-fachplaner.de CNAME .
 data-30826b1c29.agrarheute.com CNAME .
 data-30866d53e2.eatbetter.de CNAME .
-data-30bae1cc41.futurezone.de CNAME .
 data-30e91950da.joyn.at CNAME .
 data-3102d425a1.apps.iocnt.de CNAME .
 data-311d8c614b.natursteinonline.de CNAME .
@@ -708,7 +707,6 @@ data-4cf73e282f.fleischwirtschaft.de CNAME .
 data-4d32f71c16.stadtbuecherei-nuertingen.de CNAME .
 data-4d33656d8f.watson.de CNAME .
 data-4d5c7c2be6.boden-wand-decke.de CNAME .
-data-4e46e5dc90.spektrum.de CNAME .
 data-4e9ff460f2.autobild.de CNAME .
 data-4e9ff460f2.bike-bild.de CNAME .
 data-4e9ff460f2.clever-tanken.de CNAME .
@@ -849,6 +847,7 @@ data-605b7fe247.babyclub.de CNAME .
 data-6078195ae2.apps.iocnt.de CNAME .
 data-60ca748eaf.apps.iocnt.de CNAME .
 data-60d896f23d.aller-zeitung.de CNAME .
+data-60d896f23d.augusto-sachsen.de CNAME .
 data-60d896f23d.cz.de CNAME .
 data-60d896f23d.dewezet.de CNAME .
 data-60d896f23d.dieharke.de CNAME .
@@ -959,6 +958,7 @@ data-67f17c94f0.gofeminin.de CNAME .
 data-67f17c94f0.haemorriden.net CNAME .
 data-67f17c94f0.herzberatung.de CNAME .
 data-67f17c94f0.hoerzu.de CNAME .
+data-67f17c94f0.hormontherapie-wechseljahre.de CNAME .
 data-67f17c94f0.lifeline.de CNAME .
 data-67f17c94f0.onmeda.de CNAME .
 data-67f17c94f0.scheidenpilz.com CNAME .
@@ -1147,7 +1147,6 @@ data-81547504c8.erwin-event.de CNAME .
 data-81547504c8.fupa.net CNAME .
 data-81547504c8.nw.de CNAME .
 data-8173e3f7ee.vodafone.de CNAME .
-data-81d20bd810.futurezone.de CNAME .
 data-8251905874.handwerk-magazin.de CNAME .
 data-82ef4b598c.haustierratgeber.de CNAME .
 data-83380557db.erwin-event.de CNAME .
@@ -1619,6 +1618,7 @@ data-b1ae357847.apps.iocnt.de CNAME .
 data-b204b9f978.4players.de CNAME .
 data-b21e1c06f5.apps.iocnt.de CNAME .
 data-b2246b112c.apps.iocnt.de CNAME .
+data-b23bcc2b84.radioaustria.at CNAME .
 data-b261ece11d.wochenblatt.de CNAME .
 data-b2b485d60a.werkstatt-betrieb.de CNAME .
 data-b2b62acd29.bigfm.de CNAME .
@@ -2113,7 +2113,6 @@ data-ede3421766.caraworld.de CNAME .
 data-ede3421766.promobil.de CNAME .
 data-ee28b6fae3.industrial-production.de CNAME .
 data-ee73ed6bf2.gera.de CNAME .
-data-ee807be806.derwesten.de CNAME .
 data-ef2b66d556.miss.at CNAME .
 data-ef2df4302f.baumagazin-online.de CNAME .
 data-ef3fcaa7e9.0rtl.de CNAME .
@@ -2421,7 +2420,6 @@ data-fdbbf15b66.finanzen.at CNAME .
 data-fdbbf15b66.finanzen.ch CNAME .
 data-fdbbf15b66.finanzen.net CNAME .
 data-fdc5118d41.at-minerals.com CNAME .
-data-fdf4690b14.derwesten.de CNAME .
 data-fdf4690b14.jobmarkt-nrw.de CNAME .
 data-fdf4690b14.radioduisburg.de CNAME .
 data-fdf4690b14.radiohagen.de CNAME .

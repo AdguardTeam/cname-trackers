@@ -282,6 +282,7 @@
 ||web.email.mishimoto.eu^
 ||web.email.parkcameras.com^
 ||web.email.pizzaexpress.com^
+||web.email.sebago.co.uk^
 ||web.email.superga.co.uk^
 ||web.email.topfarmacia.it^
 ||web.email.turtlebay.co.uk^
@@ -378,6 +379,7 @@
 ||web.updates.ditano.com^
 ||web.web.tomasiauto.com^
 ||web.x.ilpost.it^
+||web2.updates.ditano.com^
 ||webanalytics.also.com^
 ||webanalytics.also.pt^
 ||webmet.creditreform-mahnwesen.de^

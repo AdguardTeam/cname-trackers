@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -221,6 +221,7 @@ tr.clients.idaia.group CNAME .
 tr.cnaf.espmp-nifr.net CNAME .
 tr.cobranca.younited-credit.com CNAME .
 tr.cogedim.espmp-agfr.net CNAME .
+tr.collectif.groupe-vyv.fr CNAME .
 tr.com-clients.sfr.fr CNAME .
 tr.com-parc.sfr.fr CNAME .
 tr.com-red.sfr.fr CNAME .
@@ -749,6 +750,7 @@ tr.news.business-deal.co.uk CNAME .
 tr.news.c-media.fr CNAME .
 tr.news.cad-magazine.com CNAME .
 tr.news.capfun.com CNAME .
+tr.news.carrefourspectacles.fr CNAME .
 tr.news.casino.fr CNAME .
 tr.news.casinodrive.fr CNAME .
 tr.news.casinomax.fr CNAME .

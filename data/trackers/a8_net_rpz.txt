@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1300,7 +1300,6 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
-a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .
@@ -1544,7 +1543,6 @@ cv.theatreacademy.info CNAME .
 cv.ticketpay.jp CNAME .
 cv.top-management.co.jp CNAME .
 cv.ui-chiho.clinic CNAME .
-cv.viday.jp CNAME .
 cv.virtualoffice-resonance.jp CNAME .
 cv.web-sana.com CNAME .
 cv.willbefit.jp CNAME .

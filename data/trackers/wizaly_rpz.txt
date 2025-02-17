@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739174409510        ; Serial
+           1739779208878        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -152,7 +152,6 @@ tk.petit-bateau.de CNAME .
 tk.petit-bateau.es CNAME .
 tk.petit-bateau.fr CNAME .
 tk.petit-bateau.it CNAME .
-tk.planete-oui.fr CNAME .
 tk.prismashop.fr CNAME .
 tk.qare.fr CNAME .
 tk.qobuz.com CNAME .

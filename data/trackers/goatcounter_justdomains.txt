@@ -9,12 +9,12 @@ analytics.ewpratten.com
 analytics.ferrybig.me
 analytics.law.cityofsanmateo.org
 analytics.law.mohican.com
+analytics.law.tmchippewa.com
 analytics.leespace.co
 analytics.popov.link
 analytics.riggraz.dev
 analytics.yofbrc.com
 argus.umarbutler.com
-c.paddyk45.de
 c.qrdate.org
 contacapre.bortox.it
 count.andreabrandi.com
@@ -59,6 +59,7 @@ stats.afirmacijas.lv
 stats.apitman.com
 stats.artur-rodrigues.com
 stats.benjaminmorris.com
+stats.beyondthesprawl.com
 stats.bilderbrief.de
 stats.boredkevin.com
 stats.boringproxy.io
@@ -88,10 +89,12 @@ stats.jessesquires.com
 stats.jmmr.dev
 stats.johanneswienke.de
 stats.jonaslieb.de
+stats.k94.ch
 stats.kc.ie
 stats.ksmets.be
 stats.ksr.onl
 stats.lspeed.org
+stats.matteocroce.it
 stats.mausoleum.me
 stats.mele.dev
 stats.merrell.dev

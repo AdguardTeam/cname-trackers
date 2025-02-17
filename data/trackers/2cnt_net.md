@@ -18,17 +18,18 @@
 * burda-forward.vgwort-de.2cnt.net
 * chip.vgwort-de.2cnt.net
 * degruyter.vgwort-de.2cnt.net
+* econa.vgwort-de.2cnt.net
 * eltern.vgwort-de.2cnt.net
 * express.vgwort-de.2cnt.net
 * faz.vgwort-de.2cnt.net
 * fr-online.vgwort-de.2cnt.net
 * gala.vgwort-de.2cnt.net
 * geo.vgwort-de.2cnt.net
-* golem.vgwort-de.2cnt.net
-* hanser.vgwort-de.2cnt.net
+* handelsblatt.vgwort-de.2cnt.net
 * helpster.vgwort-de.2cnt.net
 * hogrefe.vgwort-de.2cnt.net
 * juris.vgwort-de.2cnt.net
+* kohlhammer.vgwort-de.2cnt.net
 * kr.vgwort-de.2cnt.net
 * ksta.vgwort-de.2cnt.net
 * manager.vgwort-de.2cnt.net
@@ -74,7 +75,6 @@
 * vg09.vgwort-de.2cnt.net
 * vogel.vgwort-de.2cnt.net
 * waz.vgwort-de.2cnt.net
-* welt.vgwort-de.2cnt.net
 * wiley.vgwort-de.2cnt.net
 * wolterskluwer.vgwort-de.2cnt.net
 * zeit.vgwort-de.2cnt.net
@@ -92,17 +92,18 @@
 | burda-forward.met.vgwort.de | burda-forward.vgwort-de.2cnt.net |
 | chip.met.vgwort.de | chip.vgwort-de.2cnt.net |
 | degruyter.met.vgwort.de | degruyter.vgwort-de.2cnt.net |
+| econa.met.vgwort.de | econa.vgwort-de.2cnt.net |
 | eltern.met.vgwort.de | eltern.vgwort-de.2cnt.net |
 | express.met.vgwort.de | express.vgwort-de.2cnt.net |
 | faz.met.vgwort.de | faz.vgwort-de.2cnt.net |
 | fr-online.met.vgwort.de | fr-online.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | gala.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | geo.vgwort-de.2cnt.net |
-| golem.met.vgwort.de | golem.vgwort-de.2cnt.net |
-| hanser.met.vgwort.de | hanser.vgwort-de.2cnt.net |
+| handelsblatt.met.vgwort.de | handelsblatt.vgwort-de.2cnt.net |
 | helpster.met.vgwort.de | helpster.vgwort-de.2cnt.net |
 | hogrefe.met.vgwort.de | hogrefe.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | juris.vgwort-de.2cnt.net |
+| kohlhammer.met.vgwort.de | kohlhammer.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | kr.vgwort-de.2cnt.net |
 | ksta.met.vgwort.de | ksta.vgwort-de.2cnt.net |
 | manager.met.vgwort.de | manager.vgwort-de.2cnt.net |
@@ -122,6 +123,7 @@
 | degruyter.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | degruyter.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | econa.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| econa.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | eltern.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | faz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | faz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -134,6 +136,7 @@
 | idgmagazine.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| kohlhammer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | kohlhammer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | mopo.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | n-tv.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -176,7 +179,6 @@
 | brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
-| hanser.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | hanser.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | heise.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | helpster.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -224,7 +226,7 @@
 | express.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | focus.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | golem.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
-| golem.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
+| handelsblatt.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | handelsblatt.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
@@ -289,7 +291,6 @@
 | vg09.met.vgwort.de | vg09.vgwort-de.2cnt.net |
 | vogel.met.vgwort.de | vogel.vgwort-de.2cnt.net |
 | waz.met.vgwort.de | waz.vgwort-de.2cnt.net |
-| welt.met.vgwort.de | welt.vgwort-de.2cnt.net |
 | wiley.met.vgwort.de | wiley.vgwort-de.2cnt.net |
 | wolterskluwer.met.vgwort.de | wolterskluwer.vgwort-de.2cnt.net |
 | zeit.met.vgwort.de | zeit.vgwort-de.2cnt.net |

@@ -1289,7 +1289,6 @@
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.wellcrew.net^
-||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.willfu.jp^
@@ -1533,7 +1532,6 @@
 ||cv.ticketpay.jp^
 ||cv.top-management.co.jp^
 ||cv.ui-chiho.clinic^
-||cv.viday.jp^
 ||cv.virtualoffice-resonance.jp^
 ||cv.web-sana.com^
 ||cv.willbefit.jp^

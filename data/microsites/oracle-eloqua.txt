@@ -462,6 +462,7 @@
 ||tracking.brady.es^
 ||tracking.brady.eu^
 ||tracking.brady.fr^
+||tracking.brady.hu^
 ||tracking.brady.nl^
 ||tracking.brady.pl^
 ||tracking.brady.sk^
@@ -843,7 +844,9 @@
 ||trk.plantafin.fr^
 ||trk.pneumaticproducts.com^
 ||trk.premiereanaheimshow.com^
+||trk.premierecolumbusshow.biz^
 ||trk.premiereorlandoshow.biz^
+||trk.premieresanantonioshow.com^
 ||trk.pro-activ.com^
 ||trk.ptl.irco.com^
 ||trk.quantumbusinessnews.com^
@@ -1006,6 +1009,7 @@
 ||trkhinv.business.hsbc.com.kw^
 ||trkhinv.business.hsbc.com.mo^
 ||trkhinv.business.hsbc.com.mt^
+||trkhinv.business.hsbc.com.my^
 ||trkhinv.business.hsbc.com.ph^
 ||trkhinv.business.hsbc.com.qa^
 ||trkhinv.business.hsbc.com.sg^
@@ -1673,6 +1677,7 @@
 ||now.m5net.com^
 ||now.ventyx.com^
 ||ocpi.americanexpress.ca^
+||offer.sj1.omniture.com^
 ||offer.sjo.omniture.com^
 ||oilandgas.opentext.com^
 ||optimize.mcafee.com^
@@ -1709,6 +1714,7 @@
 ||promotions.eq.delwebb.com^
 ||property.aon.com^
 ||pt.balluff.com^
+||qa.engage.redhat.com^
 ||railway.sybase.com^
 ||ratings-events.standardandpoors.com^
 ||ratings-newsletters.standardandpoors.com^
@@ -2197,6 +2203,7 @@
 ||footwear.ubmfashion.com^
 ||go.healthgrades.com^
 ||go.inst.rjinvestmentmanagement.com^
+||gwm.admc-me.com^
 ||haval.admc-me.com^
 ||health.care.mclaren.org^
 ||hydsecure.eaton.com^
@@ -2383,6 +2390,7 @@
 ||autovista-fr.autovistagroup.com^
 ||autovista-se.autovistagroup.com^
 ||autovistaintelligence.autovistagroup.com^
+||campaign.unia.ch^
 ||confirm.ptvlogistics.com^
 ||corporatepages.proximus.com^
 ||eurotax-at.autovistagroup.com^
@@ -2430,11 +2438,11 @@
 ||sinulle.azets.fi^
 ||stat.lamyetudiant.fr^
 ||stat.lamyline.fr^
-||stat.solveo-notaire.fr^
 ||stat.wk-formation.fr^
 ||stat.wkf.fr^
 ||subscription.mail.henkesasswolf.com^
 ||t.azets.com^
+||t.azets.dk^
 ||t.azets.fi^
 ||t.azets.no^
 ||t.azets.se^
@@ -2610,6 +2618,7 @@
 ||infobio.ozyme.fr^
 ||lineside.networkrail.co.uk^
 ||live.alljobs.co.il^
+||online.eaglepi.com^
 ||pages.ledger.com^
 ||solicitud.pacifico.com.pe^
 ||stat.starterre-campingcar.fr^
@@ -3184,6 +3193,7 @@
 ||images.workforce.equifax.com^
 ||images2.verizonconnect.com^
 ||images3.verizonconnect.com^
+||img.3rdplatform.me^
 ||img.aonunited.com^
 ||img.e.sigsauer.com^
 ||img.elq.item24.com^
@@ -3202,7 +3212,11 @@
 ||obrazy.dlabiznesu.pracuj.pl^
 ||response.quest.com^
 ||yourporscheimg.nabooda-auto.com^
-||img.3rdplatform.me^
+||images.about.cainc.com^
+||images.cmbinsight.hsbc.com^
+||images.e.act.com^
+||images.e1.sunamerica.com^
+||images.mailaway.homeaway.it^
 ||admin.smartgroup.com.au^
 ||cars.autopia.com.au^
 ||cars.smartfleetaustralia.com.au^
@@ -3332,6 +3346,7 @@
 ||fun.relationshipone.com^
 ||ghp.adp.ca^
 ||go.imaginecommunications.com^
+||go.iowacubs.com^
 ||hr.adp.ca^
 ||images.refinitiv.com^
 ||in.secure.sonosite.com^
@@ -3644,6 +3659,7 @@
 ||tracking.ssab.in^
 ||tracking.ssab.it^
 ||tracking.ssab.jp^
+||tracking.ssab.nl^
 ||tracking.ssab.pe^
 ||tracking.ssab.se^
 ||tracking.steelprize.com^
@@ -3868,8 +3884,6 @@
 ||eloqua.upstreamintel.com^
 ||events.pella.com^
 ||forms.pella.com^
-||go.carrefourclub.co.il^
-||go.electra-consumer.co.il^
 ||go.gfanzero.com^
 ||gsasolutionssecure.gsa.gov^
 ||hello.glofiber.com^
@@ -4185,6 +4199,7 @@
 ||web.info.aspirus.org^
 ||web.novogene.com^
 ||women.care.uhssa.com^
+||women.universityhealth.com^
 ||www2.info.renesas.cn^
 ||angebote.plex.com^
 ||angebote.plexonline.de^
@@ -4360,6 +4375,7 @@
 ||registration.promatis.com^
 ||resources.licenseglobal.com^
 ||securedigital.wealth.mandg.com^
+||sites.fiducial-office-solutions.fr^
 ||stat.tuv.com^
 ||tracking.capitalbank.jo^
 ||tracking.info.oegig.at^
@@ -4919,7 +4935,6 @@
 ||ticketoffice.liberty.edu^
 ||track.info.mmm-online.com^
 ||track.info.thepmd.com^
-||track.inspirage.com^
 ||tracking.matsinc.com^
 ||tracking.mattersurfaces.com^
 ||tracking.response.terex.com^
@@ -5183,6 +5198,7 @@
 ||info.cws.cc^
 ||inform.janssenpro.eu^
 ||learn.amplypower.com^
+||learn.aqmd.gov^
 ||learn.oviahealth.com^
 ||learn.trapac.com^
 ||lp-implants.dentsplysirona.com^
@@ -5283,6 +5299,8 @@
 ||info.authorize.net^
 ||info.clarivate.com^
 ||info.clarivate.jp^
+||info.gamedeveloper.com^
+||info.tbivision.com^
 ||info.verint.com^
 ||lp.befly.com.br^
 ||lp.flytour.com.br^
@@ -5741,6 +5759,7 @@
 ||go.send.fibia.dk^
 ||info.aldcarmarket.com^
 ||info.carmarket.ayvens.com^
+||info.sproom.net^
 ||insight.gbm.hsbc.com^
 ||join.informa-events.com^
 ||join02.informamarkets.com^
@@ -5853,6 +5872,7 @@
 ||tr.informabi.com^
 ||tracking.air-worldwide.com^
 ||tracking.flukecal.com^
+||tracking.info.rcgt.com^
 ||tracking.kubota.ca^
 ||tracking.solartrade-us.baywa-re.com^
 ||tracking.verisk.com^
