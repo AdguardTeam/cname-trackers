@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -97,7 +97,6 @@ refer.seniorhelpers.com CNAME .
 refer.shoesforcrews.com CNAME .
 refer.silvercar.com CNAME .
 refer.solarwinds.com CNAME .
-refer.sperry.com CNAME .
 refer.staples.com CNAME .
 refer.talbots.com CNAME .
 refer.tassimodirect.com CNAME .
@@ -137,12 +136,10 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
-em5231.mail.propertyperks.xfinity.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
-em8561.go2bank.com CNAME .
-em8928.em.petco.com CNAME .
+em767.forgetrust.com CNAME .
+em7952.dailypay.com CNAME .
 em924.refer.starbucks.com CNAME .
+emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -451,6 +448,7 @@ referral.shiseido.com CNAME .
 referralrewards.brightspeed.com CNAME .
 referrals.lumen.com CNAME .
 referrals.visionsfcu.org CNAME .
+reward.first-online.bank CNAME .
 rob.extoleu.com CNAME .
 score.lumen.com CNAME .
 share-fiber.t-mobile.com CNAME .
@@ -576,6 +574,7 @@ share.hicapitalize.com CNAME .
 share.hotwire.com CNAME .
 share.htrnews.com CNAME .
 share.hydropeptide.com CNAME .
+share.iflyworld.com CNAME .
 share.imagemarket.com CNAME .
 share.incrediblebank.com CNAME .
 share.independentmail.com CNAME .
@@ -742,6 +741,7 @@ share.us.boden.com CNAME .
 share.usatoday.com CNAME .
 share.useagle.org CNAME .
 share.vcstar.com CNAME .
+share.vcu.com CNAME .
 share.veritycu.com CNAME .
 share.virginvoyages.com CNAME .
 share.vonage.co.uk CNAME .
@@ -762,11 +762,13 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em767.forgetrust.com CNAME .
-em7952.dailypay.com CNAME .
+em5231.mail.propertyperks.xfinity.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
+em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 em9523.walmartmoneycard.com CNAME .
-emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 sftp.extole.com CNAME .

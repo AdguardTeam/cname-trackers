@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -79,7 +79,6 @@ affil.supervykon.cz CNAME .
 affil.svepomoci.cz CNAME .
 affil.svj-info.cz CNAME .
 affil.tadytuto.cz CNAME .
-affil.trikator.cz CNAME .
 affil.triko4u.cz CNAME .
 affil.unuo.cz CNAME .
 affil.unuo.sk CNAME .
@@ -302,6 +301,7 @@ affilo.lingerio.cz CNAME .
 affilo.vivaboty.cz CNAME .
 affilpartner.descanti.com CNAME .
 afill.e-potisk.cz CNAME .
+ambasador.montessorikurz.cz CNAME .
 ambasador.rustspolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
@@ -501,7 +501,6 @@ partner.cbdstar.cz CNAME .
 partner.cbdsuperhero.cz CNAME .
 partner.cebia.com CNAME .
 partner.cebia.cz CNAME .
-partner.ceskeghicko.cz CNAME .
 partner.cestakesnu.cz CNAME .
 partner.chcivedet.com CNAME .
 partner.chevronnutrition.cz CNAME .
@@ -607,6 +606,7 @@ partner.jakserychlenaucit.cz CNAME .
 partner.jbimbishop.cz CNAME .
 partner.jedlenadobi.cz CNAME .
 partner.jillylenau.cz CNAME .
+partner.jipos.sk CNAME .
 partner.kafista.cz CNAME .
 partner.kalhotkomat.cz CNAME .
 partner.ketomix.cz CNAME .
@@ -934,6 +934,7 @@ partneri.zaprovizi.cz CNAME .
 partneri.zburnik.cz CNAME .
 partneri.zdravy-zivotny-styl.sk CNAME .
 partneri.zdravykram.cz CNAME .
+partneri.zhubnichytre.cz CNAME .
 partneri.zijchytre.cz CNAME .
 partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .

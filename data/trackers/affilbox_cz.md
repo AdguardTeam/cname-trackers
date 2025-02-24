@@ -87,7 +87,6 @@
 | affil.svepomoci.cz | cz.affilbox.cz |
 | affil.svj-info.cz | cz.affilbox.cz |
 | affil.tadytuto.cz | cz.affilbox.cz |
-| affil.trikator.cz | cz.affilbox.cz |
 | affil.triko4u.cz | cz.affilbox.cz |
 | affil.unuo.cz | cz.affilbox.cz |
 | affil.unuo.sk | cz.affilbox.cz |
@@ -310,6 +309,7 @@
 | affilo.vivaboty.cz | cz.affilbox.cz |
 | affilpartner.descanti.com | cz.affilbox.cz |
 | afill.e-potisk.cz | cz.affilbox.cz |
+| ambasador.montessorikurz.cz | cz.affilbox.cz |
 | ambasador.rustspolecne.cz | cz.affilbox.cz |
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
 | ambassador.notsofunnyany.com | cz.affilbox.cz |
@@ -509,7 +509,6 @@
 | partner.cbdsuperhero.cz | cz.affilbox.cz |
 | partner.cebia.com | cz.affilbox.cz |
 | partner.cebia.cz | cz.affilbox.cz |
-| partner.ceskeghicko.cz | cz.affilbox.cz |
 | partner.cestakesnu.cz | cz.affilbox.cz |
 | partner.chcivedet.com | cz.affilbox.cz |
 | partner.chevronnutrition.cz | cz.affilbox.cz |
@@ -615,6 +614,7 @@
 | partner.jbimbishop.cz | cz.affilbox.cz |
 | partner.jedlenadobi.cz | cz.affilbox.cz |
 | partner.jillylenau.cz | cz.affilbox.cz |
+| partner.jipos.sk | cz.affilbox.cz |
 | partner.kafista.cz | cz.affilbox.cz |
 | partner.kalhotkomat.cz | cz.affilbox.cz |
 | partner.ketomix.cz | cz.affilbox.cz |
@@ -942,6 +942,7 @@
 | partneri.zburnik.cz | cz.affilbox.cz |
 | partneri.zdravy-zivotny-styl.sk | cz.affilbox.cz |
 | partneri.zdravykram.cz | cz.affilbox.cz |
+| partneri.zhubnichytre.cz | cz.affilbox.cz |
 | partneri.zijchytre.cz | cz.affilbox.cz |
 | partners.almaf.cz | cz.affilbox.cz |
 | partners.bonyacademy.com | cz.affilbox.cz |

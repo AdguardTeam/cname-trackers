@@ -68,7 +68,6 @@
 ||affil.svepomoci.cz^
 ||affil.svj-info.cz^
 ||affil.tadytuto.cz^
-||affil.trikator.cz^
 ||affil.triko4u.cz^
 ||affil.unuo.cz^
 ||affil.unuo.sk^
@@ -291,6 +290,7 @@
 ||affilo.vivaboty.cz^
 ||affilpartner.descanti.com^
 ||afill.e-potisk.cz^
+||ambasador.montessorikurz.cz^
 ||ambasador.rustspolecne.cz^
 ||ambasadorky.zenyzenam.cz^
 ||ambassador.notsofunnyany.com^
@@ -490,7 +490,6 @@
 ||partner.cbdsuperhero.cz^
 ||partner.cebia.com^
 ||partner.cebia.cz^
-||partner.ceskeghicko.cz^
 ||partner.cestakesnu.cz^
 ||partner.chcivedet.com^
 ||partner.chevronnutrition.cz^
@@ -596,6 +595,7 @@
 ||partner.jbimbishop.cz^
 ||partner.jedlenadobi.cz^
 ||partner.jillylenau.cz^
+||partner.jipos.sk^
 ||partner.kafista.cz^
 ||partner.kalhotkomat.cz^
 ||partner.ketomix.cz^
@@ -923,6 +923,7 @@
 ||partneri.zburnik.cz^
 ||partneri.zdravy-zivotny-styl.sk^
 ||partneri.zdravykram.cz^
+||partneri.zhubnichytre.cz^
 ||partneri.zijchytre.cz^
 ||partners.almaf.cz^
 ||partners.bonyacademy.com^

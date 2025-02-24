@@ -2,6 +2,7 @@
 ! Company name: GoatCounter
 ||a.50-nuances-octets.fr^
 ||anal.sataniskwijt.be^
+||analytics.astuto.io^
 ||analytics.code.dccouncil.gov^
 ||analytics.code.dccouncil.us^
 ||analytics.demo.plateau.ng.open.law^
@@ -64,6 +65,7 @@
 ||stats.boredkevin.com^
 ||stats.boringproxy.io^
 ||stats.brandontoner.ca^
+||stats.brendanhanke.com^
 ||stats.cassie.omg.lol^
 ||stats.celerry.com^
 ||stats.cgcristi.xyz^
@@ -122,6 +124,7 @@
 ||stats.wswg.xyz^
 ||stats.ybbond.id^
 ||trackerstats.davidthe.dev^
+||varz.mcyoung.xyz^
 ||vault-stats.sladewatkins.net^
 ||visit.argfuscator.net^
 ||visit.hijacklibs.net^

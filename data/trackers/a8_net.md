@@ -167,6 +167,7 @@
 | a8.iisakafuji.online | trck.a8.net |
 | a8.ijinet.com | trck.a8.net |
 | a8.ikkatsu.jp | trck.a8.net |
+| a8.imagi-nation.jp | trck.a8.net |
 | a8.industrial-branch.com | trck.a8.net |
 | a8.infinitussub.com | trck.a8.net |
 | a8.ippin-do.com | trck.a8.net |
@@ -371,7 +372,6 @@
 | a8.www.nicosuma.com | trck.a8.net |
 | a8.www.retrospect.co.jp | trck.a8.net |
 | a8.www.seesaa.co.jp | trck.a8.net |
-| a8.www.smart-factor.co.jp | trck.a8.net |
 | a8.www.suaoki.jp | trck.a8.net |
 | a8.xn--google-873exa8m6161dbbyb.net | trck.a8.net |
 | a8.xn--y8jd4aybzqd.jp | trck.a8.net |
@@ -402,6 +402,7 @@
 | a8click.you-up.com | trck.a8.net |
 | a8click.young-mobile.net | trck.a8.net |
 | a8clk.011330.jp | trck.a8.net |
+| a8clk.17skin.jp | trck.a8.net |
 | a8clk.1osechi.com | trck.a8.net |
 | a8clk.292957.jp | trck.a8.net |
 | a8clk.account.matsui.co.jp | trck.a8.net |
@@ -606,6 +607,7 @@
 | a8clk.nikkoudou-kottou.com | trck.a8.net |
 | a8clk.nissen.co.jp | trck.a8.net |
 | a8clk.nobirun.jp | trck.a8.net |
+| a8clk.nozomi-wifi.g-sb.net | trck.a8.net |
 | a8clk.nta.co.jp | trck.a8.net |
 | a8clk.nyandaful.jp | trck.a8.net |
 | a8clk.okamoto-homelife.com | trck.a8.net |
@@ -1191,6 +1193,7 @@
 | a8cv.runteq.jp | trck.a8.net |
 | a8cv.ryomon.jp | trck.a8.net |
 | a8cv.s-darts.com | trck.a8.net |
+| a8cv.sabuma.jp | trck.a8.net |
 | a8cv.sabusuta.jp | trck.a8.net |
 | a8cv.safetycart.jp | trck.a8.net |
 | a8cv.safie.jp | trck.a8.net |
@@ -1502,8 +1505,8 @@
 | cv.classmall.jp | trck.a8.net |
 | cv.colleize.com | trck.a8.net |
 | cv.cp-c21.com | trck.a8.net |
+| cv.crosset.onward.co.jp | trck.a8.net |
 | cv.denkichoice.jp | trck.a8.net |
-| cv.e-tukline.jp | trck.a8.net |
 | cv.fire-bird.jp | trck.a8.net |
 | cv.gas-choice.net | trck.a8.net |
 | cv.h-docomo.com | trck.a8.net |
@@ -1561,6 +1564,7 @@
 | investment.lianest.co.jp | trck.a8.net |
 | itp.yaku-job.com | trck.a8.net |
 | ja-jp-a8.etudehouse.com | trck.a8.net |
+| junior-a8cv.techacademy.jp | trck.a8.net |
 | kaden.netoff.co.jp | trck.a8.net |
 | kcecv.doctork.jp | trck.a8.net |
 | kikoe.aisei.co.jp | trck.a8.net |

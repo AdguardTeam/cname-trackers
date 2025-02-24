@@ -158,6 +158,7 @@
     * 778835614863159.wt-eu02.net
     * 790635424156780.wt-eu02.net
     * 792100555808051.wt-eu02.net
+    * 792207084509163.wt-eu02.net
     * 795078683620107.wt-eu02.net
     * 811475980920799.wt-eu02.net
     * 818150559802317.wt-eu02.net
@@ -424,6 +425,7 @@
 | ctd.edidomus.it | 778835614863159.wt-eu02.net |
 | web.communications.amouage.com | 790635424156780.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
+| web.post.toa.st | 792207084509163.wt-eu02.net |
 | web.powgen.it | 795078683620107.wt-eu02.net |
 | data.babista.de | 811475980920799.wt-eu02.net |
 | web.mapp.naturzeit.com | 818150559802317.wt-eu02.net |

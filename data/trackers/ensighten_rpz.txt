@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -81,6 +81,7 @@ agility.tbs.com CNAME .
 agility.tcm.com CNAME .
 agility.tntdrama.com CNAME .
 agility.trutv.com CNAME .
+agility.veryfunnyspots.com CNAME .
 amex.activate.ensighten.com CNAME .
 analytics.amica.com CNAME .
 analytics.athome.com CNAME .

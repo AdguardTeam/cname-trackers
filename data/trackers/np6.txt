@@ -3,6 +3,7 @@
 ||emailing.casden.banquepopulaire.fr^
 ||epm.mailperformance.com^
 ||mailtracking.tf1.com^
+||mailtracking.tfou.com^
 ||mp.pitchero.com^
 ||news.mailperformance.com^
 ||newsletter.ticketac.com^
@@ -67,6 +68,7 @@
 ||tr.asp1098.espmp-cufr.net^
 ||tr.asp109c.espmp-aufr.net^
 ||tr.asp109e.espmp-cufr.net^
+||tr.asp109w.espmp-agfr.net^
 ||tr.asp109y.espmp-agfr.net^
 ||tr.asp10a7.espmp-aufr.net^
 ||tr.asp10ai.espmp-nifr.net^
@@ -98,6 +100,7 @@
 ||tr.asp10fo.espmp-nifr.net^
 ||tr.asp10fp.espmp-nifr.net^
 ||tr.asp10fx.espmp-cufr.net^
+||tr.asp10fy.espmp-agfr.net^
 ||tr.asp10ga.espmp-nifr.net^
 ||tr.asp10ge.espmp-nifr.net^
 ||tr.asp10h2.espmp-nifr.net^
@@ -389,6 +392,7 @@
 ||tr.emailing.grassavoye.com^
 ||tr.emailing.studiocanal.com^
 ||tr.emailing.tvcaraibes.tv^
+||tr.emailing.uda.fr^
 ||tr.emailium.fr^
 ||tr.emc.moethennessy.com^
 ||tr.enedis-infos.fr^
@@ -404,6 +408,7 @@
 ||tr.etravauxpro.fr^
 ||tr.etude.sncd.org^
 ||tr.eulerhermes.com^
+||tr.europe.moethennessy.com^
 ||tr.ev001.net^
 ||tr.evenements.inpi.fr^
 ||tr.events-europa-organisation.com^
@@ -567,6 +572,7 @@
 ||tr.jend.espmp-pofr.net^
 ||tr.jesuis.enformedelotus.com^
 ||tr.jevote.macif.fr^
+||tr.jevote.simplivote.fr^
 ||tr.jevoteenligne.fr^
 ||tr.jimb.espmp-cufr.net^
 ||tr.jkcd.espmp-cufr.net^
@@ -655,6 +661,7 @@
 ||tr.mcom04p.espmp-aufr.net^
 ||tr.media.harmonie-sante.fr^
 ||tr.melhores-propostas.pt^
+||tr.membres.boursobank.info^
 ||tr.membres.boursorama.info^
 ||tr.mep.enkiapp.io^
 ||tr.mes-bonsplans.be^
@@ -733,6 +740,7 @@
 ||tr.news.apotamox.com^
 ||tr.news.aramisauto.com^
 ||tr.news.assuragency.net^
+||tr.news.beaugrenelle-paris.com^
 ||tr.news.bruneau.fr^
 ||tr.news.btob-pro.nl^
 ||tr.news.business-deal.co.uk^
@@ -1128,6 +1136,7 @@
 ||tr.urfk06v.espmp-aufr.net^
 ||tr.urfk06x.espmp-cufr.net^
 ||tr.urfk06y.espmp-nifr.net^
+||tr.urfk07c.espmp-aufr.net^
 ||tr.urfk07h.espmp-agfr.net^
 ||tr.urfk07j.espmp-nifr.net^
 ||tr.urfk07r.espmp-agfr.net^

@@ -11,11 +11,11 @@ logger.yp.ca
 sales.disneylandparis.com
 tagcommander.laredoute.be
 tagcommander.laredoute.ch
+tc.europcar.com.au
 configure.adlermode.com
 data.auchandirect.fr
 data.ricaud.com
 tag.boulanger.fr
 tc.europcar.com
-tc.europcar.com.au
 tc.europcar.de
 tcdata.fnac.com

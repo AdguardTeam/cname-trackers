@@ -2,6 +2,7 @@
 # Company name: nonli.com
 at.h24.news
 c.leparisien.fr
+de.h24.news
 flow-prod.h24.news
 go.3ds.com
 go.france24.com
@@ -15,6 +16,7 @@ ie.h24.news
 in.h24.news
 it.h24.news
 l.20minutes.fr
+l.3djuegos.com
 l.750g.com
 l.actu.fr
 l.africabusinessplus.com
@@ -40,6 +42,7 @@ l.centre-presse.fr
 l.centrepresseaveyron.fr
 l.challenges.fr
 l.charentelibre.fr
+l.chartsinfrance.net
 l.closermag.fr
 l.cnetfrance.fr
 l.courrier-picard.fr
@@ -173,6 +176,7 @@ l.zdnet.fr
 nr.lanouvellerepublique.fr
 on.qobuz.com
 prod-3.moarty.com
+social.eleveur-laitier.fr
 social.lafranceagricole.fr
 sur.corsematin.com
 sur.laprovence.com

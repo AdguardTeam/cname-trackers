@@ -20,6 +20,7 @@
     * atg-static.aquaplatform.com
     * bioverlag-delivery.aquaplatform.com
     * bioverlag-static.aquaplatform.com
+    * blulab-console.aquaplatform.com
     * blulab-delivery.aquaplatform.com
     * blulab-static.aquaplatform.com
     * cambridge-console.aquaplatform.com
@@ -78,6 +79,7 @@
     * milenar-delivery.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
     * mondiale-static.aquaplatform.com
+    * myadsmyanmar-console.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
     * myadsmyanmar-static.aquaplatform.com
     * oneboat-console.aquaplatform.com
@@ -153,6 +155,7 @@
 | static.biohandel.de | bioverlag-static.aquaplatform.com |
 | static.schrotundkorn.de | bioverlag-static.aquaplatform.com |
 | www.static.schrotundkorn.de | bioverlag-static.aquaplatform.com |
+| console.blulab.net | blulab-console.aquaplatform.com |
 | adv.blulab.net | blulab-delivery.aquaplatform.com |
 | static.blulab.net | blulab-static.aquaplatform.com |
 | coreads-console.cambridge.org | cambridge-console.aquaplatform.com |
@@ -162,6 +165,7 @@
 | coreads-static.cambridge.org | cambridge-static.aquaplatform.com |
 | www.coreads-static.cambridge.org | cambridge-static.aquaplatform.com |
 | console.ceramicartsnetwork.org | ceramics-console.aquaplatform.com |
+| www.console.ceramicartsnetwork.org | ceramics-console.aquaplatform.com |
 | servedby.ceramicartsnetwork.org | ceramics-delivery.aquaplatform.com |
 | static.ceramicartsnetwork.org | ceramics-static.aquaplatform.com |
 | console.channelvas.com | channelvas-console.aquaplatform.com |
@@ -247,6 +251,7 @@
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | static.mondiale.co.uk | mondiale-static.aquaplatform.com |
+| console.myadsmyanmar.com | myadsmyanmar-console.aquaplatform.com |
 | servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
 | cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
 | console.everythingcolorado.com | oneboat-console.aquaplatform.com |
@@ -286,6 +291,7 @@
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
 | servedby.reviveservers.com | platformiq-del.aquaplatform.com |
 | www.proforums.com | platformiq-del.aquaplatform.com |
+| www.servedby.jacilla.no | platformiq-del.aquaplatform.com |
 | www.servedby.lintigroup.se | platformiq-del.aquaplatform.com |
 | xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.portwest.com | portwest-delivery.aquaplatform.com |

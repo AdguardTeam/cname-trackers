@@ -336,7 +336,6 @@
     * h-citadele.online-metrix.net
     * h-citbank.online-metrix.net
     * h-citcommercial.online-metrix.net
-    * h-citi.vanity.online-metrix.net
     * h-citibank-ae.online-metrix.net
     * h-citibank-au.online-metrix.net
     * h-citibank-cn.online-metrix.net
@@ -660,7 +659,6 @@
     * h-provantage.online-metrix.net
     * h-psecu.online-metrix.net
     * h-qasantanderbank.online-metrix.net
-    * h-qlinkwireless.online-metrix.net
     * h-qn4omaj3.online-metrix.net
     * h-qudosbank.online-metrix.net
     * h-quicken.online-metrix.net
@@ -999,6 +997,7 @@
 | netinf.curemd.com | h-5sc89hft.online-metrix.net |
 | content.nu.com.mx | h-5tjn91kn.online-metrix.net |
 | content.rytbank.my | h-5uqko7px2.online-metrix.net |
+| rttm.uniondigitalbank.co | h-5uvvlv7u.online-metrix.net |
 | rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | dp.mynylottery.org | h-5wvo3z5x.online-metrix.net |
@@ -1405,7 +1404,6 @@
 | content.bankoncit.com | h-citbank.online-metrix.net |
 | content.citbankapp.cit.com | h-citbank.online-metrix.net |
 | contentfd.directcapital.com | h-citcommercial.online-metrix.net |
-| uatidentity4.citidirect.com | h-citi.vanity.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
 | content22.citibank.com.cn | h-citibank-cn.online-metrix.net |
@@ -1825,8 +1823,6 @@
 | dept.provantage.com | h-provantage.online-metrix.net |
 | tracking.psecu.com | h-psecu.online-metrix.net |
 | digitalid-qa.santanderbank.com | h-qasantanderbank.online-metrix.net |
-| content.hellomobile.com | h-qlinkwireless.online-metrix.net |
-| content.qlinkwireless.com | h-qlinkwireless.online-metrix.net |
 | content.digital.citbank.com | h-qn4omaj3.online-metrix.net |
 | content.qudosbank.com.au | h-qudosbank.online-metrix.net |
 | content.quicken.com | h-quicken.online-metrix.net |

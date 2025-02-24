@@ -6,7 +6,6 @@
 
 ### Rarely active trackers
 
-* ianmjones.com
 * plausible.io
 
 ## Cloaking domains
@@ -14,6 +13,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | a-api.skz.dev | custom.plausible.io |
+| a.conhecercuritiba.com | custom.plausible.io |
 | a.linkz.ai | custom.plausible.io |
 | a.visitelitoral.com | custom.plausible.io |
 | aloha.getoperand.com | custom.plausible.io |
@@ -59,7 +59,6 @@
 | analytics.whotargets.me | custom.plausible.io |
 | analytics.winter.ink | custom.plausible.io |
 | analytics.xiloc.net | custom.plausible.io |
-| analytics.zevvle.com | custom.plausible.io |
 | antitracking.owncast.online | custom.plausible.io |
 | api.digitalpiloten.org | custom.plausible.io |
 | api.elliehuxtable.com | custom.plausible.io |
@@ -123,7 +122,6 @@
 | momotaro.craigmod.com | custom.plausible.io |
 | momotaro.walkkumano.com | custom.plausible.io |
 | munnin.hicsuntdra.co | custom.plausible.io |
-| noushe.zevvle.com | custom.plausible.io |
 | numbers.monthlyphotos.com | custom.plausible.io |
 | nums.upscale.app | custom.plausible.io |
 | p.classroombookings.com | custom.plausible.io |
@@ -141,8 +139,6 @@
 | p.www.viertaxa.com | custom.plausible.io |
 | pa-stats.encore.dev | custom.plausible.io |
 | pa.opqr.co | custom.plausible.io |
-| pa.travelwhiz.app | custom.plausible.io |
-| peards.zevvle.com | custom.plausible.io |
 | pine.nervecentral.com | custom.plausible.io |
 | ping.naturadapt.com | custom.plausible.io |
 | ping.resoluteoil.com | custom.plausible.io |
@@ -169,7 +165,6 @@
 | plas.imfeld.dev | custom.plausible.io |
 | plau.artemsyzonenko.com | custom.plausible.io |
 | plau.caisy.io | custom.plausible.io |
-| plau.devitjobs.nl | custom.plausible.io |
 | plau.devitjobs.us | custom.plausible.io |
 | plauplauplau.app.budg.co | custom.plausible.io |
 | plauplauplau.budg.co | custom.plausible.io |
@@ -213,7 +208,6 @@
 | plausible.golfbreaks.com | custom.plausible.io |
 | plausible.gryka.net | custom.plausible.io |
 | plausible.gymglish.com | custom.plausible.io |
-| plausible.haltakov.net | custom.plausible.io |
 | plausible.help.exploreandcreate.com | custom.plausible.io |
 | plausible.holderbaum-academy.de | custom.plausible.io |
 | plausible.hopecanebay.com | custom.plausible.io |
@@ -326,7 +320,6 @@
 | st.turnou.com | custom.plausible.io |
 | stat.bill.harding.blog | custom.plausible.io |
 | stat.landingpro.pl | custom.plausible.io |
-| stat.recklesslove.co.za | custom.plausible.io |
 | stat.umsu.de | custom.plausible.io |
 | static.osalta.eu | custom.plausible.io |
 | statistic.jac-systeme.de | custom.plausible.io |
@@ -397,7 +390,6 @@
 | stats.callum.fyi | custom.plausible.io |
 | stats.carrot2.org | custom.plausible.io |
 | stats.carrotsearch.com | custom.plausible.io |
-| stats.caseydunham.com | custom.plausible.io |
 | stats.cassidyjames.com | custom.plausible.io |
 | stats.castingdepot.com | custom.plausible.io |
 | stats.catholicluv.com | custom.plausible.io |
@@ -514,12 +506,12 @@
 | stats.gesund-vital-lebensfreude.com | custom.plausible.io |
 | stats.getdoks.org | custom.plausible.io |
 | stats.getpickaxe.com | custom.plausible.io |
+| stats.getsponsy.com | custom.plausible.io |
 | stats.ghinda.com | custom.plausible.io |
 | stats.glassmountains.co.uk | custom.plausible.io |
 | stats.glyphs.fyi | custom.plausible.io |
 | stats.goldsguide.com | custom.plausible.io |
 | stats.gounified.com | custom.plausible.io |
-| stats.graphql-api.com | custom.plausible.io |
 | stats.gras-system.org | custom.plausible.io |
 | stats.gravitaswins.com | custom.plausible.io |
 | stats.greatlakesdesign.co | custom.plausible.io |
@@ -664,6 +656,7 @@
 | stats.nexagon.dk | custom.plausible.io |
 | stats.nice.kiwi | custom.plausible.io |
 | stats.niceshitforbitcoiners.com | custom.plausible.io |
+| stats.nicklafferty.com | custom.plausible.io |
 | stats.nodewood.com | custom.plausible.io |
 | stats.noeticflow.com | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
@@ -757,7 +750,6 @@
 | stats.sapnininkas.com | custom.plausible.io |
 | stats.sascha-theobald.de | custom.plausible.io |
 | stats.savoirplus-risquermoins.net | custom.plausible.io |
-| stats.sax.net | custom.plausible.io |
 | stats.scalesql.com | custom.plausible.io |
 | stats.scottbartell.com | custom.plausible.io |
 | stats.screenagers.com | custom.plausible.io |
@@ -853,7 +845,6 @@
 | stats.walkiees.co.uk | custom.plausible.io |
 | stats.websnap.app | custom.plausible.io |
 | stats.wecodeni.com | custom.plausible.io |
-| stats.wellbeyond.com | custom.plausible.io |
 | stats.westswindon-pc.gov.uk | custom.plausible.io |
 | stats.whenpigsflybbq.com | custom.plausible.io |
 | stats.whereisit5pmrightnow.com | custom.plausible.io |
@@ -901,5 +892,4 @@
 | webstats.bijenpatel.com | custom.plausible.io |
 | yolo.philipbjorge.com | custom.plausible.io |
 | zahlen.olereissmann.de | custom.plausible.io |
-| p.ianmjones.com | ianmjones.com |
 | stats.citizenos.com | plausible.io |

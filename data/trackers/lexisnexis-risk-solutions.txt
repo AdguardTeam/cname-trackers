@@ -289,7 +289,6 @@
 ||content.happybank.com^
 ||content.hellobank.fr^
 ||content.hellobank.it^
-||content.hellomobile.com^
 ||content.ibanking-services.com^
 ||content.id.elsevier.com^
 ||content.iddataweb.com^
@@ -344,7 +343,6 @@
 ||content.presentment.com^
 ||content.prev-espace-client.hellobank.fr^
 ||content.prev.connexion-mabanque.bnpparibas^
-||content.qlinkwireless.com^
 ||content.qudosbank.com.au^
 ||content.quicken.com^
 ||content.readiness.consumercardaccess.com^
@@ -866,6 +864,7 @@
 ||rqt-cdna.paymentncb.cofidis.fr^
 ||rsx.afterpay.com^
 ||rt.wisecartapp.com^
+||rttm.uniondigitalbank.co^
 ||rttm.uniondigitalbank.io^
 ||rvw.connection.com^
 ||rvw.govconnection.com^
@@ -1166,7 +1165,6 @@
 ||uafms.ocbc.com^
 ||ualaki-analytics.vacations.united.com^
 ||uat.cmprofile.cards.citidirect.com^
-||uatidentity4.citidirect.com^
 ||ucfs.sendpro360.pitneybowes.com^
 ||ufp.intuit.com^
 ||uldfp.srilankan.com^

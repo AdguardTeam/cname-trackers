@@ -240,6 +240,7 @@ data-19e0ce8844.computerbild.de
 data-19e0ce8844.wieistmeineip.de
 data-19f62f6612.druckerchannel.de
 data-19f62f6612.druckkosten.de
+data-1a0802654a.umkirch.de
 data-1a5bbc417e.tele5.de
 data-1a8175bc05.presseportal.ch
 data-1a8175bc05.presseportal.de
@@ -487,6 +488,7 @@ data-3d30b366ad.elektrobike-online.com
 data-3d30b366ad.karl.jetzt
 data-3d30b366ad.mountainbike-magazin.de
 data-3d30b366ad.outdoorchannel.de
+data-3d30b366ad.roadbike.de
 data-3d5b38580a.apps.iocnt.de
 data-3d5dda1509.apps.iocnt.de
 data-3d61e29638.bz-berlin.de
@@ -510,6 +512,7 @@ data-40370dcf13.verlag-altmeppen.de
 data-4071aa1e21.staz.de
 data-407c1ec0f8.apotheken-umschau.de
 data-407c1ec0f8.diabetes-ratgeber.net
+data-407c1ec0f8.digital-ratgeber.de
 data-407c1ec0f8.senioren-ratgeber.de
 data-407c1ec0f8.skystream.tv
 data-407c1ec0f8.wubv.de
@@ -1286,6 +1289,7 @@ data-908fd409d9.scheidenpilz.com
 data-908fd409d9.special-harninkontinenz.de
 data-908fd409d9.special-rueckenschmerz.de
 data-9090cf2efa.impulse.de
+data-90b8b64b92.bustv.de
 data-90b8b64b92.omnibusrevue.de
 data-90cb6242e4.das-onlinespiel.de
 data-90cb6242e4.fuer-sie.at
@@ -1533,6 +1537,7 @@ data-aa4a1f6eab.apps.iocnt.de
 data-aa5df368fb.landundforst.de
 data-aa67ab16ab.form-werkzeug.de
 data-aa70fe4f08.jam.fm
+data-aa77362b45.autoflotte-online.de
 data-aa77362b45.autoflotte.de
 data-aac883f83b.offiziellecharts.de
 data-aacb93c032.atv.at
@@ -1672,6 +1677,7 @@ data-b8625c5378.lz-trauer.de
 data-b8625c5378.lz.de
 data-b8cbca7d61.finanzen.ch
 data-b8f9ef66dc.hogapage.at
+data-b8f9ef66dc.hogapage.ch
 data-b8f9ef66dc.hogapage.de
 data-b944c1dba9.horizont.net
 data-b9680e0592.deutschesapothekenportal.de
@@ -1844,6 +1850,7 @@ data-cc21ca250f.apps.iocnt.de
 data-ccadb8b6f3.apps.iocnt.de
 data-ccea961373.dach-holzbau.de
 data-cd0b4bd19f.auto-motor-und-sport.de
+data-cd0b4bd19f.automotorundsport.de
 data-cd0b4bd19f.mehr-tanken.de
 data-cd0b4bd19f.webauto.de
 data-cd3f2f9c0c.radiobielefeld.de
@@ -1951,6 +1958,7 @@ data-d9c82db6b2.motor.at
 data-da1d9cc48a.osthessen-news.de
 data-da8b646558.dieniederoesterreicherin.at
 data-daaad80bda.babelli.de
+data-daab9294a5.eatclub.de
 data-dae559c4b7.ejz.de
 data-db0ecef264.trafikantenzeitung.at
 data-db3e9abc5d.muensterschezeitung.de
@@ -1989,6 +1997,7 @@ data-deb04a4388.westfalen-blatt2.de
 data-deb04a4388.westfalenblatt.de
 data-ded8e2c5ce.tga-fachplaner.de
 data-df5a2bcc30.aerzteblatt.de
+data-df5a2bcc30.schaffrath-digital.de
 data-e0448d0e4a.herz-fuer-tiere.de
 data-e095ec3c5c.apps.iocnt.de
 data-e09a956c79.du-bist-der-teamchef.at
@@ -2068,6 +2077,7 @@ data-ea7d084cda.wz.de
 data-ea81aa1271.derstandard.de
 data-ea9686d3c9.guter-rat.de
 data-eb375c9b89.apps.iocnt.de
+data-eb6d621864.apps.iocnt.de
 data-ebf4df4b00.antenne-thueringen.de
 data-ebf4df4b00.antennethueringen.de
 data-ec98eddf4a.fussballfieber.de
@@ -2102,6 +2112,8 @@ data-ede3421766.caraworld.de
 data-ede3421766.promobil.de
 data-ee28b6fae3.industrial-production.de
 data-ee73ed6bf2.gera.de
+data-ee807be806.radiohagen.de
+data-ee807be806.radiokw.de
 data-ef2b66d556.miss.at
 data-ef2df4302f.baumagazin-online.de
 data-ef3fcaa7e9.0rtl.de
@@ -2330,6 +2342,7 @@ data-fa2c5597f6.cavallo.de
 data-fa2c5597f6.elektrobike-online.com
 data-fa2d848059.aachen-gedenkt.de
 data-fa2d848059.aachener-zeitung.de
+data-fa2d848059.fupa.net
 data-fa3432c50a.donaukurier.de
 data-fa3432c50a.ingolstadt-today.de
 data-fa59f9f6b5.capitol-kornwestheim.de
@@ -2411,6 +2424,7 @@ data-fdbbf15b66.finanzen.net
 data-fdc5118d41.at-minerals.com
 data-fdf4690b14.jobmarkt-nrw.de
 data-fdf4690b14.radioduisburg.de
+data-fdf4690b14.radioenneperuhr.de
 data-fdf4690b14.radiohagen.de
 data-fdf4690b14.radioherne.de
 data-fdf4690b14.radiomuelheim.de

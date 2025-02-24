@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -65,6 +65,7 @@ tp.heine-shop.nl CNAME .
 tp.heine.at CNAME .
 tp.heine.ch CNAME .
 tp.heine.de CNAME .
+tp.helline.fr CNAME .
 tp.imwalking.de CNAME .
 tp.jelmoli-shop.ch CNAME .
 tp.lascana.ch CNAME .

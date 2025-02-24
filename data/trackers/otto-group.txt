@@ -54,6 +54,7 @@
 ||tp.heine.at^
 ||tp.heine.ch^
 ||tp.heine.de^
+||tp.helline.fr^
 ||tp.imwalking.de^
 ||tp.jelmoli-shop.ch^
 ||tp.lascana.ch^

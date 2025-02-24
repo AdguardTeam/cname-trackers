@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * adocean.pl
+    * blitzbg.adocean.pl
     * city24lv.adocean.pl
     * edipresse.adocean.pl
     * ee.adocean.pl
@@ -21,6 +22,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| e.blitz.bg | blitzbg.adocean.pl |
 | ao.city24.lv | city24lv.adocean.pl |
 | tools.elle.pl | edipresse.adocean.pl |
 | tools.glamour.pl | edipresse.adocean.pl |

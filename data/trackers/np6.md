@@ -26,6 +26,7 @@
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
+| mailtracking.tfou.com | tracking.bp01.net |
 | mp.pitchero.com | tracking.bp01.net |
 | news.mailperformance.com | tracking.bp01.net |
 | newsletter.ticketac.com | tracking.bp01.net |
@@ -90,6 +91,7 @@
 | tr.asp1098.espmp-cufr.net | tracking.bp01.net |
 | tr.asp109c.espmp-aufr.net | tracking.bp01.net |
 | tr.asp109e.espmp-cufr.net | tracking.bp01.net |
+| tr.asp109w.espmp-agfr.net | tracking.bp01.net |
 | tr.asp109y.espmp-agfr.net | tracking.bp01.net |
 | tr.asp10a7.espmp-aufr.net | tracking.bp01.net |
 | tr.asp10ai.espmp-nifr.net | tracking.bp01.net |
@@ -121,6 +123,7 @@
 | tr.asp10fo.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fp.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fx.espmp-cufr.net | tracking.bp01.net |
+| tr.asp10fy.espmp-agfr.net | tracking.bp01.net |
 | tr.asp10ga.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ge.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10h2.espmp-nifr.net | tracking.bp01.net |
@@ -412,6 +415,7 @@
 | tr.emailing.grassavoye.com | tracking.bp01.net |
 | tr.emailing.studiocanal.com | tracking.bp01.net |
 | tr.emailing.tvcaraibes.tv | tracking.bp01.net |
+| tr.emailing.uda.fr | tracking.bp01.net |
 | tr.emailium.fr | tracking.bp01.net |
 | tr.emc.moethennessy.com | tracking.bp01.net |
 | tr.enedis-infos.fr | tracking.bp01.net |
@@ -427,6 +431,7 @@
 | tr.etravauxpro.fr | tracking.bp01.net |
 | tr.etude.sncd.org | tracking.bp01.net |
 | tr.eulerhermes.com | tracking.bp01.net |
+| tr.europe.moethennessy.com | tracking.bp01.net |
 | tr.ev001.net | tracking.bp01.net |
 | tr.evenements.inpi.fr | tracking.bp01.net |
 | tr.events-europa-organisation.com | tracking.bp01.net |
@@ -590,6 +595,7 @@
 | tr.jend.espmp-pofr.net | tracking.bp01.net |
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
 | tr.jevote.macif.fr | tracking.bp01.net |
+| tr.jevote.simplivote.fr | tracking.bp01.net |
 | tr.jevoteenligne.fr | tracking.bp01.net |
 | tr.jimb.espmp-cufr.net | tracking.bp01.net |
 | tr.jkcd.espmp-cufr.net | tracking.bp01.net |
@@ -678,6 +684,7 @@
 | tr.mcom04p.espmp-aufr.net | tracking.bp01.net |
 | tr.media.harmonie-sante.fr | tracking.bp01.net |
 | tr.melhores-propostas.pt | tracking.bp01.net |
+| tr.membres.boursobank.info | tracking.bp01.net |
 | tr.membres.boursorama.info | tracking.bp01.net |
 | tr.mep.enkiapp.io | tracking.bp01.net |
 | tr.mes-bonsplans.be | tracking.bp01.net |
@@ -756,6 +763,7 @@
 | tr.news.apotamox.com | tracking.bp01.net |
 | tr.news.aramisauto.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
+| tr.news.beaugrenelle-paris.com | tracking.bp01.net |
 | tr.news.bruneau.fr | tracking.bp01.net |
 | tr.news.btob-pro.nl | tracking.bp01.net |
 | tr.news.business-deal.co.uk | tracking.bp01.net |
@@ -1151,6 +1159,7 @@
 | tr.urfk06v.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk06x.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk07c.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk07h.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk07j.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07r.espmp-agfr.net | tracking.bp01.net |

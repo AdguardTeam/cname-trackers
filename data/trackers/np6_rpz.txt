@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 emailing.casden.banquepopulaire.fr CNAME .
 epm.mailperformance.com CNAME .
 mailtracking.tf1.com CNAME .
+mailtracking.tfou.com CNAME .
 mp.pitchero.com CNAME .
 news.mailperformance.com CNAME .
 newsletter.ticketac.com CNAME .
@@ -78,6 +79,7 @@ tr.asp108a.espmp-cufr.net CNAME .
 tr.asp1098.espmp-cufr.net CNAME .
 tr.asp109c.espmp-aufr.net CNAME .
 tr.asp109e.espmp-cufr.net CNAME .
+tr.asp109w.espmp-agfr.net CNAME .
 tr.asp109y.espmp-agfr.net CNAME .
 tr.asp10a7.espmp-aufr.net CNAME .
 tr.asp10ai.espmp-nifr.net CNAME .
@@ -109,6 +111,7 @@ tr.asp10fl.espmp-nifr.net CNAME .
 tr.asp10fo.espmp-nifr.net CNAME .
 tr.asp10fp.espmp-nifr.net CNAME .
 tr.asp10fx.espmp-cufr.net CNAME .
+tr.asp10fy.espmp-agfr.net CNAME .
 tr.asp10ga.espmp-nifr.net CNAME .
 tr.asp10ge.espmp-nifr.net CNAME .
 tr.asp10h2.espmp-nifr.net CNAME .
@@ -400,6 +403,7 @@ tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
 tr.emailing.studiocanal.com CNAME .
 tr.emailing.tvcaraibes.tv CNAME .
+tr.emailing.uda.fr CNAME .
 tr.emailium.fr CNAME .
 tr.emc.moethennessy.com CNAME .
 tr.enedis-infos.fr CNAME .
@@ -415,6 +419,7 @@ tr.estatesandwines.moethennessy.com CNAME .
 tr.etravauxpro.fr CNAME .
 tr.etude.sncd.org CNAME .
 tr.eulerhermes.com CNAME .
+tr.europe.moethennessy.com CNAME .
 tr.ev001.net CNAME .
 tr.evenements.inpi.fr CNAME .
 tr.events-europa-organisation.com CNAME .
@@ -578,6 +583,7 @@ tr.italia.plimsoll.it CNAME .
 tr.jend.espmp-pofr.net CNAME .
 tr.jesuis.enformedelotus.com CNAME .
 tr.jevote.macif.fr CNAME .
+tr.jevote.simplivote.fr CNAME .
 tr.jevoteenligne.fr CNAME .
 tr.jimb.espmp-cufr.net CNAME .
 tr.jkcd.espmp-cufr.net CNAME .
@@ -666,6 +672,7 @@ tr.mcom03x.espmp-aufr.net CNAME .
 tr.mcom04p.espmp-aufr.net CNAME .
 tr.media.harmonie-sante.fr CNAME .
 tr.melhores-propostas.pt CNAME .
+tr.membres.boursobank.info CNAME .
 tr.membres.boursorama.info CNAME .
 tr.mep.enkiapp.io CNAME .
 tr.mes-bonsplans.be CNAME .
@@ -744,6 +751,7 @@ tr.news.allopneus.com CNAME .
 tr.news.apotamox.com CNAME .
 tr.news.aramisauto.com CNAME .
 tr.news.assuragency.net CNAME .
+tr.news.beaugrenelle-paris.com CNAME .
 tr.news.bruneau.fr CNAME .
 tr.news.btob-pro.nl CNAME .
 tr.news.business-deal.co.uk CNAME .
@@ -1139,6 +1147,7 @@ tr.urfk06o.espmp-agfr.net CNAME .
 tr.urfk06v.espmp-aufr.net CNAME .
 tr.urfk06x.espmp-cufr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
+tr.urfk07c.espmp-aufr.net CNAME .
 tr.urfk07h.espmp-agfr.net CNAME .
 tr.urfk07j.espmp-nifr.net CNAME .
 tr.urfk07r.espmp-agfr.net CNAME .

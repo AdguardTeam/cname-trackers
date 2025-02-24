@@ -64,6 +64,7 @@ console.ad.logic.viasat.io
 console.adbility-media.com
 console.adspmg.com
 console.aqua-adserver.com
+console.blulab.net
 console.ceramicartsnetwork.org
 console.channelvas.com
 console.datateam.co.uk
@@ -78,6 +79,7 @@ console.insideradverts.com
 console.isn.nl
 console.livingmagonline.com
 console.mannixmarketing.com
+console.myadsmyanmar.com
 console.revive-adserver.net
 console.sacommunications.com
 console.trackandfieldnews.com
@@ -199,6 +201,7 @@ www.cdn-adv.unionesarda.it
 www.cdn.adspmg.com
 www.cdn.datateam.co.uk
 www.cdn.metrike.com
+www.console.ceramicartsnetwork.org
 www.console.healthcarescene.com
 www.coreads-console.cambridge.org
 www.coreads-static.cambridge.org
@@ -212,6 +215,7 @@ www.revive.ahk.de
 www.servedby.cincinnatimagazine.com
 www.servedby.geminipub.com
 www.servedby.greenspring.com
+www.servedby.jacilla.no
 www.servedby.lintigroup.se
 www.servedby.quirks.com
 www.servedby.sacommunications.com

@@ -303,7 +303,6 @@ cardinal.newman.is
 cardinal.zenting.app
 caribou.color.io
 caribou.mcgregorpublishing.com
-caribou.reiterstolz.com
 carp.acda.app
 carp.amespacios.com
 carp.pbncontent.com
@@ -315,7 +314,6 @@ cat.mattr.global
 cat.sprucely.net
 cat.thisminute.app
 caterpilla.ibon.live
-catfish.lucalabs.com
 catfish.phuclh.com
 catfish.pressure.cooking
 catfish.sofatido.ch
@@ -545,7 +543,6 @@ guppy.omana.me
 haddock.affilimate.com
 haddock.jeffreyknox.dev
 haddock.simgenie.app
-haddock.slack.rocks
 halibut.codehooks.io
 halibut.jimruegolfinstruction.com
 halibut.phytype.com
@@ -1059,7 +1056,6 @@ vulture.bettershore.com
 vulture.lagosdesaliencia.com
 wallaby.cron.help
 wallaby.legendkeeper.com
-wallaby.short1.link
 walrus.fetzcolor.at
 walrus.oscaroarevalo.com
 walrus.scalue.com
@@ -1156,6 +1152,7 @@ sponsors.vvng.com
 sponsors.weedweek.com
 support-v2.sweetwaternow.com
 supporters.redbankgreen.com
+yourarlington.streetinteractive.com
 adserve.bongocdn.com
 assets.diagomics.com
 bcdn.cpmstar.com
@@ -1175,6 +1172,7 @@ dntcl.qualaroo.com
 live-tag.creatopy.net
 log.ads-m.net
 matomo-cdn-bunny.ramsalt.com
+msrvt.net
 sp.freshlooklens.pk
 sp.lenspk.com
 sp.theladyshop.pk
@@ -1182,6 +1180,5 @@ ss.mndsrv.com
 ss.mrmnd.com
 ss.nwemnd.com
 ss.nwmnd.com
-static.netfly.fun
 thirty-good.lugg.com
 video.adsninja.ca

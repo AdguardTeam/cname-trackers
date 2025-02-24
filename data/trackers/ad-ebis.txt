@@ -33,6 +33,7 @@
 ||adbq.bk.mufg.jp^
 ||ade.deskstyle.info^
 ||ade.hirose-fx.co.jp^
+||ade.hirose-fx.jp^
 ||ade.jfx.co.jp^
 ||adebis-52667624.wowma.jp^
 ||adebis-bkan.vbest.jp^
@@ -132,6 +133,7 @@
 ||adnl.bk.mufg.jp^
 ||adpromo.peppynet.com^
 ||adtrack.alchemy-web.jp^
+||adtrack.kireibiz.jp^
 ||adtrack.loracle.jp^
 ||adtrack.maisonlexia.com^
 ||aesus.so-net.ne.jp^
@@ -176,6 +178,8 @@
 ||cs0010sbeda.theory-diet.com^
 ||cs1470sbeda.schoolasp.com^
 ||cs1863sbeda.glaucoma-arrest.net^
+||cs1979sbeda.customguide-build.net^
+||cs1979sbeda.residence-customize.com^
 ||cs2087sbeda.aspex.co.jp^
 ||cs2087sbeda.manage-tempstaffing.net^
 ||cs2113sbeda.hokto-onlineshop.jp^
@@ -284,6 +288,8 @@
 ||ebistoppan1.kyowahakko-bio-campaign-1.com^
 ||ebistoppan2.10nengenki.com^
 ||ebistoppan3.ornithine.jp^
+||ebistoppan5.kyowahakko-bio-healthcare.jp^
+||ebistoppan6.kyowahakko-bio-campaign3.com^
 ||emc.dr-stick.shop^
 ||euglism.euglenaone.jp^
 ||frontierconsul02.tsunagaru-office.com^

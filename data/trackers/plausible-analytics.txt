@@ -1,6 +1,7 @@
 !
 ! Company name: Plausible Analytics
 ||a-api.skz.dev^
+||a.conhecercuritiba.com^
 ||a.linkz.ai^
 ||a.visitelitoral.com^
 ||aloha.getoperand.com^
@@ -46,7 +47,6 @@
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
 ||analytics.xiloc.net^
-||analytics.zevvle.com^
 ||antitracking.owncast.online^
 ||api.digitalpiloten.org^
 ||api.elliehuxtable.com^
@@ -110,7 +110,6 @@
 ||momotaro.craigmod.com^
 ||momotaro.walkkumano.com^
 ||munnin.hicsuntdra.co^
-||noushe.zevvle.com^
 ||numbers.monthlyphotos.com^
 ||nums.upscale.app^
 ||p.classroombookings.com^
@@ -128,8 +127,6 @@
 ||p.www.viertaxa.com^
 ||pa-stats.encore.dev^
 ||pa.opqr.co^
-||pa.travelwhiz.app^
-||peards.zevvle.com^
 ||pine.nervecentral.com^
 ||ping.naturadapt.com^
 ||ping.resoluteoil.com^
@@ -156,7 +153,6 @@
 ||plas.imfeld.dev^
 ||plau.artemsyzonenko.com^
 ||plau.caisy.io^
-||plau.devitjobs.nl^
 ||plau.devitjobs.us^
 ||plauplauplau.app.budg.co^
 ||plauplauplau.budg.co^
@@ -200,7 +196,6 @@
 ||plausible.golfbreaks.com^
 ||plausible.gryka.net^
 ||plausible.gymglish.com^
-||plausible.haltakov.net^
 ||plausible.help.exploreandcreate.com^
 ||plausible.holderbaum-academy.de^
 ||plausible.hopecanebay.com^
@@ -313,7 +308,6 @@
 ||st.turnou.com^
 ||stat.bill.harding.blog^
 ||stat.landingpro.pl^
-||stat.recklesslove.co.za^
 ||stat.umsu.de^
 ||static.osalta.eu^
 ||statistic.jac-systeme.de^
@@ -384,7 +378,6 @@
 ||stats.callum.fyi^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
-||stats.caseydunham.com^
 ||stats.cassidyjames.com^
 ||stats.castingdepot.com^
 ||stats.catholicluv.com^
@@ -501,12 +494,12 @@
 ||stats.gesund-vital-lebensfreude.com^
 ||stats.getdoks.org^
 ||stats.getpickaxe.com^
+||stats.getsponsy.com^
 ||stats.ghinda.com^
 ||stats.glassmountains.co.uk^
 ||stats.glyphs.fyi^
 ||stats.goldsguide.com^
 ||stats.gounified.com^
-||stats.graphql-api.com^
 ||stats.gras-system.org^
 ||stats.gravitaswins.com^
 ||stats.greatlakesdesign.co^
@@ -651,6 +644,7 @@
 ||stats.nexagon.dk^
 ||stats.nice.kiwi^
 ||stats.niceshitforbitcoiners.com^
+||stats.nicklafferty.com^
 ||stats.nodewood.com^
 ||stats.noeticflow.com^
 ||stats.nonprofit.foundation^
@@ -744,7 +738,6 @@
 ||stats.sapnininkas.com^
 ||stats.sascha-theobald.de^
 ||stats.savoirplus-risquermoins.net^
-||stats.sax.net^
 ||stats.scalesql.com^
 ||stats.scottbartell.com^
 ||stats.screenagers.com^
@@ -840,7 +833,6 @@
 ||stats.walkiees.co.uk^
 ||stats.websnap.app^
 ||stats.wecodeni.com^
-||stats.wellbeyond.com^
 ||stats.westswindon-pc.gov.uk^
 ||stats.whenpigsflybbq.com^
 ||stats.whereisit5pmrightnow.com^
@@ -888,5 +880,4 @@
 ||webstats.bijenpatel.com^
 ||yolo.philipbjorge.com^
 ||zahlen.olereissmann.de^
-||p.ianmjones.com^
 ||stats.citizenos.com^

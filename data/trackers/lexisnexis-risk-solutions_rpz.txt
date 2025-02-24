@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -300,7 +300,6 @@ content.gaptechol.com CNAME .
 content.happybank.com CNAME .
 content.hellobank.fr CNAME .
 content.hellobank.it CNAME .
-content.hellomobile.com CNAME .
 content.ibanking-services.com CNAME .
 content.id.elsevier.com CNAME .
 content.iddataweb.com CNAME .
@@ -355,7 +354,6 @@ content.pnbank.com.au CNAME .
 content.presentment.com CNAME .
 content.prev-espace-client.hellobank.fr CNAME .
 content.prev.connexion-mabanque.bnpparibas CNAME .
-content.qlinkwireless.com CNAME .
 content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
 content.readiness.consumercardaccess.com CNAME .
@@ -877,6 +875,7 @@ rmscheck.sbifxt.co.jp CNAME .
 rqt-cdna.paymentncb.cofidis.fr CNAME .
 rsx.afterpay.com CNAME .
 rt.wisecartapp.com CNAME .
+rttm.uniondigitalbank.co CNAME .
 rttm.uniondigitalbank.io CNAME .
 rvw.connection.com CNAME .
 rvw.govconnection.com CNAME .
@@ -1177,7 +1176,6 @@ txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
-uatidentity4.citidirect.com CNAME .
 ucfs.sendpro360.pitneybowes.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .

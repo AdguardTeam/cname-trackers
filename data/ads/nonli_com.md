@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * non.li
+    * l.non.li
     * origin.non.li
     * tls-ebra.non.li
     * tls-lp-cm.non.li
@@ -13,6 +14,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| c.leparisien.fr | l.non.li |
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |
@@ -25,6 +27,7 @@
 | l.varmatin.com | non.li |
 | nr.lanouvellerepublique.fr | non.li |
 | on.qobuz.com | non.li |
+| social.eleveur-laitier.fr | non.li |
 | social.lafranceagricole.fr | non.li |
 | sur.laprovence.com | non.li |
 | l.bienpublic.com | origin.non.li |
@@ -52,6 +55,7 @@
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
 | at.h24.news | tls.non.li |
+| de.h24.news | tls.non.li |
 | flow-prod.h24.news | tls.non.li |
 | go.3ds.com | tls.non.li |
 | go.france24.com | tls.non.li |
@@ -64,6 +68,7 @@
 | in.h24.news | tls.non.li |
 | it.h24.news | tls.non.li |
 | l.20minutes.fr | tls.non.li |
+| l.3djuegos.com | tls.non.li |
 | l.750g.com | tls.non.li |
 | l.actu.fr | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |
@@ -85,6 +90,7 @@
 | l.centrepresseaveyron.fr | tls.non.li |
 | l.challenges.fr | tls.non.li |
 | l.charentelibre.fr | tls.non.li |
+| l.chartsinfrance.net | tls.non.li |
 | l.closermag.fr | tls.non.li |
 | l.cnetfrance.fr | tls.non.li |
 | l.courrier-picard.fr | tls.non.li |

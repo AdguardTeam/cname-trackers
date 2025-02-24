@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,7 +63,6 @@ b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
-bvajo3mxq.kvest.ee CNAME .
 c319tpiw462o.segops.madisonspecs.com CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
@@ -121,9 +120,11 @@ tutbc1.www.tapmyback.com CNAME .
 twn36gx4109r.loveisblank.com CNAME .
 tzgurwizule3.app.cardahealth.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
+ughs3zr2ofw1.scholarship.tanuki.id CNAME .
 uhd5nn09mgml.fort-shop.kiev.ua CNAME .
 umylynsr9b.quira.sh CNAME .
 ut19suycy9vt.nowyformat.nofluffjobs.com CNAME .
+vy6a10k7qj2p.beta.app.hub.la CNAME .
 vyz3nn85ed0e.controlconceptsusa.com CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .

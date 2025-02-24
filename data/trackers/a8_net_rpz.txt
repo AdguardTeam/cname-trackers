@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -164,6 +164,7 @@ a8.ihinnoseiriyasan.com CNAME .
 a8.iisakafuji.online CNAME .
 a8.ijinet.com CNAME .
 a8.ikkatsu.jp CNAME .
+a8.imagi-nation.jp CNAME .
 a8.industrial-branch.com CNAME .
 a8.infinitussub.com CNAME .
 a8.ippin-do.com CNAME .
@@ -368,7 +369,6 @@ a8.www.melonbooks.co.jp CNAME .
 a8.www.nicosuma.com CNAME .
 a8.www.retrospect.co.jp CNAME .
 a8.www.seesaa.co.jp CNAME .
-a8.www.smart-factor.co.jp CNAME .
 a8.www.suaoki.jp CNAME .
 a8.xn--google-873exa8m6161dbbyb.net CNAME .
 a8.xn--y8jd4aybzqd.jp CNAME .
@@ -399,6 +399,7 @@ a8click.daini2.co.jp CNAME .
 a8click.you-up.com CNAME .
 a8click.young-mobile.net CNAME .
 a8clk.011330.jp CNAME .
+a8clk.17skin.jp CNAME .
 a8clk.1osechi.com CNAME .
 a8clk.292957.jp CNAME .
 a8clk.account.matsui.co.jp CNAME .
@@ -603,6 +604,7 @@ a8clk.netowl.jp CNAME .
 a8clk.nikkoudou-kottou.com CNAME .
 a8clk.nissen.co.jp CNAME .
 a8clk.nobirun.jp CNAME .
+a8clk.nozomi-wifi.g-sb.net CNAME .
 a8clk.nta.co.jp CNAME .
 a8clk.nyandaful.jp CNAME .
 a8clk.okamoto-homelife.com CNAME .
@@ -1189,6 +1191,7 @@ a8cv.rohto.co.jp CNAME .
 a8cv.runteq.jp CNAME .
 a8cv.ryomon.jp CNAME .
 a8cv.s-darts.com CNAME .
+a8cv.sabuma.jp CNAME .
 a8cv.sabusuta.jp CNAME .
 a8cv.safetycart.jp CNAME .
 a8cv.safie.jp CNAME .
@@ -1500,8 +1503,8 @@ cv.cart.naturath.jp CNAME .
 cv.classmall.jp CNAME .
 cv.colleize.com CNAME .
 cv.cp-c21.com CNAME .
+cv.crosset.onward.co.jp CNAME .
 cv.denkichoice.jp CNAME .
-cv.e-tukline.jp CNAME .
 cv.fire-bird.jp CNAME .
 cv.gas-choice.net CNAME .
 cv.h-docomo.com CNAME .
@@ -1559,6 +1562,7 @@ herpes2.pa-ruit.jp CNAME .
 investment.lianest.co.jp CNAME .
 itp.yaku-job.com CNAME .
 ja-jp-a8.etudehouse.com CNAME .
+junior-a8cv.techacademy.jp CNAME .
 kaden.netoff.co.jp CNAME .
 kcecv.doctork.jp CNAME .
 kikoe.aisei.co.jp CNAME .

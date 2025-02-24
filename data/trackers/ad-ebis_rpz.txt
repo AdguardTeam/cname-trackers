@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,6 +44,7 @@ ad1.tone.ne.jp CNAME .
 adbq.bk.mufg.jp CNAME .
 ade.deskstyle.info CNAME .
 ade.hirose-fx.co.jp CNAME .
+ade.hirose-fx.jp CNAME .
 ade.jfx.co.jp CNAME .
 adebis-52667624.wowma.jp CNAME .
 adebis-bkan.vbest.jp CNAME .
@@ -143,6 +144,7 @@ admeasure.hh-online.jp CNAME .
 adnl.bk.mufg.jp CNAME .
 adpromo.peppynet.com CNAME .
 adtrack.alchemy-web.jp CNAME .
+adtrack.kireibiz.jp CNAME .
 adtrack.loracle.jp CNAME .
 adtrack.maisonlexia.com CNAME .
 aesus.so-net.ne.jp CNAME .
@@ -187,6 +189,8 @@ cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .
 cs1470sbeda.schoolasp.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
+cs1979sbeda.customguide-build.net CNAME .
+cs1979sbeda.residence-customize.com CNAME .
 cs2087sbeda.aspex.co.jp CNAME .
 cs2087sbeda.manage-tempstaffing.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
@@ -295,6 +299,8 @@ ebisstore.tamagokichi.com CNAME .
 ebistoppan1.kyowahakko-bio-campaign-1.com CNAME .
 ebistoppan2.10nengenki.com CNAME .
 ebistoppan3.ornithine.jp CNAME .
+ebistoppan5.kyowahakko-bio-healthcare.jp CNAME .
+ebistoppan6.kyowahakko-bio-campaign3.com CNAME .
 emc.dr-stick.shop CNAME .
 euglism.euglenaone.jp CNAME .
 frontierconsul02.tsunagaru-office.com CNAME .

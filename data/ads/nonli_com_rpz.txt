@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 at.h24.news CNAME .
 c.leparisien.fr CNAME .
+de.h24.news CNAME .
 flow-prod.h24.news CNAME .
 go.3ds.com CNAME .
 go.france24.com CNAME .
@@ -26,6 +27,7 @@ ie.h24.news CNAME .
 in.h24.news CNAME .
 it.h24.news CNAME .
 l.20minutes.fr CNAME .
+l.3djuegos.com CNAME .
 l.750g.com CNAME .
 l.actu.fr CNAME .
 l.africabusinessplus.com CNAME .
@@ -51,6 +53,7 @@ l.centre-presse.fr CNAME .
 l.centrepresseaveyron.fr CNAME .
 l.challenges.fr CNAME .
 l.charentelibre.fr CNAME .
+l.chartsinfrance.net CNAME .
 l.closermag.fr CNAME .
 l.cnetfrance.fr CNAME .
 l.courrier-picard.fr CNAME .
@@ -184,6 +187,7 @@ l.zdnet.fr CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
 prod-3.moarty.com CNAME .
+social.eleveur-laitier.fr CNAME .
 social.lafranceagricole.fr CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .

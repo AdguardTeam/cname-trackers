@@ -153,6 +153,7 @@
 ||a8.iisakafuji.online^
 ||a8.ijinet.com^
 ||a8.ikkatsu.jp^
+||a8.imagi-nation.jp^
 ||a8.industrial-branch.com^
 ||a8.infinitussub.com^
 ||a8.ippin-do.com^
@@ -357,7 +358,6 @@
 ||a8.www.nicosuma.com^
 ||a8.www.retrospect.co.jp^
 ||a8.www.seesaa.co.jp^
-||a8.www.smart-factor.co.jp^
 ||a8.www.suaoki.jp^
 ||a8.xn--google-873exa8m6161dbbyb.net^
 ||a8.xn--y8jd4aybzqd.jp^
@@ -388,6 +388,7 @@
 ||a8click.you-up.com^
 ||a8click.young-mobile.net^
 ||a8clk.011330.jp^
+||a8clk.17skin.jp^
 ||a8clk.1osechi.com^
 ||a8clk.292957.jp^
 ||a8clk.account.matsui.co.jp^
@@ -592,6 +593,7 @@
 ||a8clk.nikkoudou-kottou.com^
 ||a8clk.nissen.co.jp^
 ||a8clk.nobirun.jp^
+||a8clk.nozomi-wifi.g-sb.net^
 ||a8clk.nta.co.jp^
 ||a8clk.nyandaful.jp^
 ||a8clk.okamoto-homelife.com^
@@ -1178,6 +1180,7 @@
 ||a8cv.runteq.jp^
 ||a8cv.ryomon.jp^
 ||a8cv.s-darts.com^
+||a8cv.sabuma.jp^
 ||a8cv.sabusuta.jp^
 ||a8cv.safetycart.jp^
 ||a8cv.safie.jp^
@@ -1489,8 +1492,8 @@
 ||cv.classmall.jp^
 ||cv.colleize.com^
 ||cv.cp-c21.com^
+||cv.crosset.onward.co.jp^
 ||cv.denkichoice.jp^
-||cv.e-tukline.jp^
 ||cv.fire-bird.jp^
 ||cv.gas-choice.net^
 ||cv.h-docomo.com^
@@ -1548,6 +1551,7 @@
 ||investment.lianest.co.jp^
 ||itp.yaku-job.com^
 ||ja-jp-a8.etudehouse.com^
+||junior-a8cv.techacademy.jp^
 ||kaden.netoff.co.jp^
 ||kcecv.doctork.jp^
 ||kikoe.aisei.co.jp^

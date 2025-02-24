@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -75,6 +75,7 @@ console.ad.logic.viasat.io CNAME .
 console.adbility-media.com CNAME .
 console.adspmg.com CNAME .
 console.aqua-adserver.com CNAME .
+console.blulab.net CNAME .
 console.ceramicartsnetwork.org CNAME .
 console.channelvas.com CNAME .
 console.datateam.co.uk CNAME .
@@ -89,6 +90,7 @@ console.insideradverts.com CNAME .
 console.isn.nl CNAME .
 console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
+console.myadsmyanmar.com CNAME .
 console.revive-adserver.net CNAME .
 console.sacommunications.com CNAME .
 console.trackandfieldnews.com CNAME .
@@ -210,6 +212,7 @@ www.cdn-adv.unionesarda.it CNAME .
 www.cdn.adspmg.com CNAME .
 www.cdn.datateam.co.uk CNAME .
 www.cdn.metrike.com CNAME .
+www.console.ceramicartsnetwork.org CNAME .
 www.console.healthcarescene.com CNAME .
 www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .
@@ -223,6 +226,7 @@ www.revive.ahk.de CNAME .
 www.servedby.cincinnatimagazine.com CNAME .
 www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
+www.servedby.jacilla.no CNAME .
 www.servedby.lintigroup.se CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.sacommunications.com CNAME .

@@ -12,6 +12,7 @@
     * apitman_com.goatcounter.com
     * argfuscator.goatcounter.com
     * artur.goatcounter.com
+    * astuto.goatcounter.com
     * belak.goatcounter.com
     * benjaminmorris.goatcounter.com
     * beyondthesprawl.goatcounter.com
@@ -53,6 +54,7 @@
     * gcyofbrc2390489439.goatcounter.com
     * gopikrishna.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
+    * gradient.goatcounter.com
     * h2l.goatcounter.com
     * haseebmajid.goatcounter.com
     * hijacklibs.goatcounter.com
@@ -78,6 +80,7 @@
     * maik-dev.goatcounter.com
     * maple.goatcounter.com
     * mausoleum.goatcounter.com
+    * mcy.goatcounter.com
     * mele.goatcounter.com
     * merrelldev.goatcounter.com
     * mindenugyved.goatcounter.com
@@ -142,6 +145,7 @@
 | stats.apitman.com | apitman_com.goatcounter.com |
 | visit.argfuscator.net | argfuscator.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
+| analytics.astuto.io | astuto.goatcounter.com |
 | goat.belak.io | belak.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
 | stats.beyondthesprawl.com | beyondthesprawl.goatcounter.com |
@@ -183,6 +187,7 @@
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
+| stats.brendanhanke.com | gradient.goatcounter.com |
 | gc.his2nd.life | h2l.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
@@ -208,6 +213,7 @@
 | webstats.maik.dev | maik-dev.goatcounter.com |
 | st.mapleranks.com | maple.goatcounter.com |
 | stats.mausoleum.me | mausoleum.goatcounter.com |
+| varz.mcyoung.xyz | mcy.goatcounter.com |
 | stats.mele.dev | mele.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |

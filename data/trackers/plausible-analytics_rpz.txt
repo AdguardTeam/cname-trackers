@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 a-api.skz.dev CNAME .
+a.conhecercuritiba.com CNAME .
 a.linkz.ai CNAME .
 a.visitelitoral.com CNAME .
 aloha.getoperand.com CNAME .
@@ -57,7 +58,6 @@ analytics.whostheboss.co.uk CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
 analytics.xiloc.net CNAME .
-analytics.zevvle.com CNAME .
 antitracking.owncast.online CNAME .
 api.digitalpiloten.org CNAME .
 api.elliehuxtable.com CNAME .
@@ -121,7 +121,6 @@ metrics.recunia.de CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
 munnin.hicsuntdra.co CNAME .
-noushe.zevvle.com CNAME .
 numbers.monthlyphotos.com CNAME .
 nums.upscale.app CNAME .
 p.classroombookings.com CNAME .
@@ -139,8 +138,6 @@ p.wren.co CNAME .
 p.www.viertaxa.com CNAME .
 pa-stats.encore.dev CNAME .
 pa.opqr.co CNAME .
-pa.travelwhiz.app CNAME .
-peards.zevvle.com CNAME .
 pine.nervecentral.com CNAME .
 ping.naturadapt.com CNAME .
 ping.resoluteoil.com CNAME .
@@ -167,7 +164,6 @@ plans.fundtherebuild.com CNAME .
 plas.imfeld.dev CNAME .
 plau.artemsyzonenko.com CNAME .
 plau.caisy.io CNAME .
-plau.devitjobs.nl CNAME .
 plau.devitjobs.us CNAME .
 plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
@@ -211,7 +207,6 @@ plausible.goldanger.de CNAME .
 plausible.golfbreaks.com CNAME .
 plausible.gryka.net CNAME .
 plausible.gymglish.com CNAME .
-plausible.haltakov.net CNAME .
 plausible.help.exploreandcreate.com CNAME .
 plausible.holderbaum-academy.de CNAME .
 plausible.hopecanebay.com CNAME .
@@ -324,7 +319,6 @@ st.tulastudio.se CNAME .
 st.turnou.com CNAME .
 stat.bill.harding.blog CNAME .
 stat.landingpro.pl CNAME .
-stat.recklesslove.co.za CNAME .
 stat.umsu.de CNAME .
 static.osalta.eu CNAME .
 statistic.jac-systeme.de CNAME .
@@ -395,7 +389,6 @@ stats.byterocket.dev CNAME .
 stats.callum.fyi CNAME .
 stats.carrot2.org CNAME .
 stats.carrotsearch.com CNAME .
-stats.caseydunham.com CNAME .
 stats.cassidyjames.com CNAME .
 stats.castingdepot.com CNAME .
 stats.catholicluv.com CNAME .
@@ -512,12 +505,12 @@ stats.geobox.app CNAME .
 stats.gesund-vital-lebensfreude.com CNAME .
 stats.getdoks.org CNAME .
 stats.getpickaxe.com CNAME .
+stats.getsponsy.com CNAME .
 stats.ghinda.com CNAME .
 stats.glassmountains.co.uk CNAME .
 stats.glyphs.fyi CNAME .
 stats.goldsguide.com CNAME .
 stats.gounified.com CNAME .
-stats.graphql-api.com CNAME .
 stats.gras-system.org CNAME .
 stats.gravitaswins.com CNAME .
 stats.greatlakesdesign.co CNAME .
@@ -662,6 +655,7 @@ stats.newslit.co CNAME .
 stats.nexagon.dk CNAME .
 stats.nice.kiwi CNAME .
 stats.niceshitforbitcoiners.com CNAME .
+stats.nicklafferty.com CNAME .
 stats.nodewood.com CNAME .
 stats.noeticflow.com CNAME .
 stats.nonprofit.foundation CNAME .
@@ -755,7 +749,6 @@ stats.sakurasky.com CNAME .
 stats.sapnininkas.com CNAME .
 stats.sascha-theobald.de CNAME .
 stats.savoirplus-risquermoins.net CNAME .
-stats.sax.net CNAME .
 stats.scalesql.com CNAME .
 stats.scottbartell.com CNAME .
 stats.screenagers.com CNAME .
@@ -851,7 +844,6 @@ stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
 stats.websnap.app CNAME .
 stats.wecodeni.com CNAME .
-stats.wellbeyond.com CNAME .
 stats.westswindon-pc.gov.uk CNAME .
 stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
@@ -899,5 +891,4 @@ we-love-privacy.humane.club CNAME .
 webstats.bijenpatel.com CNAME .
 yolo.philipbjorge.com CNAME .
 zahlen.olereissmann.de CNAME .
-p.ianmjones.com CNAME .
 stats.citizenos.com CNAME .

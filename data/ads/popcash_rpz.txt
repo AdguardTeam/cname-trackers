@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1739779208878        ; Serial
+           1740384008581        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -314,7 +314,6 @@ cardinal.newman.is CNAME .
 cardinal.zenting.app CNAME .
 caribou.color.io CNAME .
 caribou.mcgregorpublishing.com CNAME .
-caribou.reiterstolz.com CNAME .
 carp.acda.app CNAME .
 carp.amespacios.com CNAME .
 carp.pbncontent.com CNAME .
@@ -326,7 +325,6 @@ cat.mattr.global CNAME .
 cat.sprucely.net CNAME .
 cat.thisminute.app CNAME .
 caterpilla.ibon.live CNAME .
-catfish.lucalabs.com CNAME .
 catfish.phuclh.com CNAME .
 catfish.pressure.cooking CNAME .
 catfish.sofatido.ch CNAME .
@@ -556,7 +554,6 @@ guppy.omana.me CNAME .
 haddock.affilimate.com CNAME .
 haddock.jeffreyknox.dev CNAME .
 haddock.simgenie.app CNAME .
-haddock.slack.rocks CNAME .
 halibut.codehooks.io CNAME .
 halibut.jimruegolfinstruction.com CNAME .
 halibut.phytype.com CNAME .
@@ -1070,7 +1067,6 @@ vulture.bettershore.com CNAME .
 vulture.lagosdesaliencia.com CNAME .
 wallaby.cron.help CNAME .
 wallaby.legendkeeper.com CNAME .
-wallaby.short1.link CNAME .
 walrus.fetzcolor.at CNAME .
 walrus.oscaroarevalo.com CNAME .
 walrus.scalue.com CNAME .
@@ -1167,6 +1163,7 @@ sponsors.vvng.com CNAME .
 sponsors.weedweek.com CNAME .
 support-v2.sweetwaternow.com CNAME .
 supporters.redbankgreen.com CNAME .
+yourarlington.streetinteractive.com CNAME .
 adserve.bongocdn.com CNAME .
 assets.diagomics.com CNAME .
 bcdn.cpmstar.com CNAME .
@@ -1186,6 +1183,7 @@ dntcl.qualaroo.com CNAME .
 live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
 matomo-cdn-bunny.ramsalt.com CNAME .
+msrvt.net CNAME .
 sp.freshlooklens.pk CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .
@@ -1193,6 +1191,5 @@ ss.mndsrv.com CNAME .
 ss.mrmnd.com CNAME .
 ss.nwemnd.com CNAME .
 ss.nwmnd.com CNAME .
-static.netfly.fun CNAME .
 thirty-good.lugg.com CNAME .
 video.adsninja.ca CNAME .
