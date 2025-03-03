@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 a-api.skz.dev CNAME .
 a.conhecercuritiba.com CNAME .
 a.linkz.ai CNAME .
-a.visitelitoral.com CNAME .
 aloha.getoperand.com CNAME .
 also.greatsecuritydebate.net CNAME .
 an.xavierrosee.com CNAME .
@@ -116,7 +115,6 @@ marsupial.roleup.com CNAME .
 meter.bref.sh CNAME .
 metric.methoddev.com CNAME .
 metrics.creit.tech CNAME .
-metrics.earrieta.dev CNAME .
 metrics.recunia.de CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
@@ -207,6 +205,7 @@ plausible.goldanger.de CNAME .
 plausible.golfbreaks.com CNAME .
 plausible.gryka.net CNAME .
 plausible.gymglish.com CNAME .
+plausible.heartanddata.com CNAME .
 plausible.help.exploreandcreate.com CNAME .
 plausible.holderbaum-academy.de CNAME .
 plausible.hopecanebay.com CNAME .
@@ -219,6 +218,7 @@ plausible.kdojang.com CNAME .
 plausible.kundenportal.io CNAME .
 plausible.lesbianromantic.com CNAME .
 plausible.logicboard.com CNAME .
+plausible.marker12.org CNAME .
 plausible.mattpruitt.com CNAME .
 plausible.mcj.co CNAME .
 plausible.myvirtualsuper.com CNAME .
@@ -319,6 +319,7 @@ st.tulastudio.se CNAME .
 st.turnou.com CNAME .
 stat.bill.harding.blog CNAME .
 stat.landingpro.pl CNAME .
+stat.recklesslove.co.za CNAME .
 stat.umsu.de CNAME .
 static.osalta.eu CNAME .
 statistic.jac-systeme.de CNAME .
@@ -376,7 +377,6 @@ stats.bloke.blog CNAME .
 stats.bmxdevils.be CNAME .
 stats.book-rec.com CNAME .
 stats.booncon.com CNAME .
-stats.boscabeatha.ie CNAME .
 stats.bostonedtech.org CNAME .
 stats.breathly.app CNAME .
 stats.brennholzauktion.com CNAME .
@@ -428,6 +428,7 @@ stats.dashbit.co CNAME .
 stats.davidlms.com CNAME .
 stats.davydepauw.be CNAME .
 stats.dawn.md CNAME .
+stats.dbx.ai CNAME .
 stats.declanbyrd.co.uk CNAME .
 stats.deerpark.app CNAME .
 stats.deja-lu.de CNAME .
@@ -516,7 +517,6 @@ stats.gravitaswins.com CNAME .
 stats.greatlakesdesign.co CNAME .
 stats.groupconsent.eu CNAME .
 stats.gslc.utah.edu CNAME .
-stats.gtnetworks.com CNAME .
 stats.guersanguillaume.com CNAME .
 stats.guidingwallet.app CNAME .
 stats.gusmanson.nl CNAME .
@@ -596,7 +596,6 @@ stats.learnlinux.tv CNAME .
 stats.leavetrackapp.com CNAME .
 stats.lefthoek.com CNAME .
 stats.legendofnom.com CNAME .
-stats.leiamarjaana.com CNAME .
 stats.leoloso.com CNAME .
 stats.levinowska.com CNAME .
 stats.lica.at CNAME .
@@ -665,6 +664,7 @@ stats.nytecomics.com CNAME .
 stats.obiit.co CNAME .
 stats.obokat.se CNAME .
 stats.odysseeseine.org CNAME .
+stats.officefoosball.com CNAME .
 stats.ohmysmtp.com CNAME .
 stats.oldtinroof.com CNAME .
 stats.oliveoil.pro CNAME .
@@ -673,6 +673,7 @@ stats.orbitalhealth.co CNAME .
 stats.ordinarypuzzles.com CNAME .
 stats.ortussolutions.com CNAME .
 stats.osiemsiedem.com CNAME .
+stats.osteo-kessler.de CNAME .
 stats.otsohavanto.net CNAME .
 stats.ownpath.xyz CNAME .
 stats.owre.se CNAME .
@@ -683,6 +684,7 @@ stats.parrot.dev CNAME .
 stats.passwordyeti.com CNAME .
 stats.pasteapp.io CNAME .
 stats.pastorwagner.com CNAME .
+stats.patrick.wtf CNAME .
 stats.patrickl.am CNAME .
 stats.patriot.win CNAME .
 stats.paulronge.se CNAME .
@@ -813,9 +815,9 @@ stats.tms-development.de CNAME .
 stats.tms-institut.de CNAME .
 stats.tnc.sc CNAME .
 stats.toiletmap.org.uk CNAME .
+stats.tomorrowacademy.org CNAME .
 stats.topstudyworld.com CNAME .
 stats.training.fit CNAME .
-stats.travelfodder.com CNAME .
 stats.trenntoi.de CNAME .
 stats.tresor.one CNAME .
 stats.trigo.at CNAME .

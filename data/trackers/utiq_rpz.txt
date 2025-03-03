@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -67,12 +67,14 @@ utiq.bz-berlin.de CNAME .
 utiq.caminteresse.fr CNAME .
 utiq.canarias7.es CNAME .
 utiq.capital.fr CNAME .
+utiq.caradisiac.com CNAME .
 utiq.centrepresseaveyron.fr CNAME .
 utiq.cesoirtv.com CNAME .
 utiq.chartsinfrance.net CNAME .
 utiq.cheriefm.fr CNAME .
 utiq.chip.de CNAME .
 utiq.clara.es CNAME .
+utiq.closermag.fr CNAME .
 utiq.cnetfrance.fr CNAME .
 utiq.come-on.de CNAME .
 utiq.compradiccion.com CNAME .
@@ -176,6 +178,7 @@ utiq.laopinioncoruna.es CNAME .
 utiq.laopiniondemalaga.es CNAME .
 utiq.laopiniondemurcia.es CNAME .
 utiq.laopiniondezamora.es CNAME .
+utiq.laprovence.com CNAME .
 utiq.laprovincia.es CNAME .
 utiq.lardennais.fr CNAME .
 utiq.larepubliquedespyrenees.fr CNAME .

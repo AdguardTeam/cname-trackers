@@ -56,12 +56,14 @@ utiq.bz-berlin.de
 utiq.caminteresse.fr
 utiq.canarias7.es
 utiq.capital.fr
+utiq.caradisiac.com
 utiq.centrepresseaveyron.fr
 utiq.cesoirtv.com
 utiq.chartsinfrance.net
 utiq.cheriefm.fr
 utiq.chip.de
 utiq.clara.es
+utiq.closermag.fr
 utiq.cnetfrance.fr
 utiq.come-on.de
 utiq.compradiccion.com
@@ -165,6 +167,7 @@ utiq.laopinioncoruna.es
 utiq.laopiniondemalaga.es
 utiq.laopiniondemurcia.es
 utiq.laopiniondezamora.es
+utiq.laprovence.com
 utiq.laprovincia.es
 utiq.lardennais.fr
 utiq.larepubliquedespyrenees.fr

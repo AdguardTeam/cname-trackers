@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ afm.puprime.online CNAME .
 afm.startrader.asia CNAME .
 afm.startrader.com CNAME .
 afm.startrader.live CNAME .
+afm.startraderasia.com CNAME .
 afm.startraderfr.com CNAME .
 afm.startraderjp.com CNAME .
 afm.startradermy.com CNAME .
@@ -163,6 +164,7 @@ cdna.moncofidispro.fr CNAME .
 cdna.paiement.cofidis.fr CNAME .
 cdna.paymentncb.cofidis.es CNAME .
 cdna.paymentncb.cofidis.fr CNAME .
+cdna.rqt-cl-paiement.cofidis.fr CNAME .
 cdna.rqt-paiement.cofidis.fr CNAME .
 cdna.tiranabank.al CNAME .
 cdna.tst-paiement.cofidis.fr CNAME .
@@ -765,6 +767,7 @@ prod-aocumi.chaperone.lumindigitalhosting.com CNAME .
 prod-apcifcu.chaperone.lumindigitalhosting.com CNAME .
 prod-ascuaz.chaperone.lumindigitalhosting.com CNAME .
 prod-baxter.chaperone.lumindigitalhosting.com CNAME .
+prod-berne.chaperone.lumindigitalhosting.com CNAME .
 prod-blucurrent.chaperone.lumindigitalhosting.com CNAME .
 prod-cardinal.chaperone.lumindigitalhosting.com CNAME .
 prod-cfcuwi.chaperone.lumindigitalhosting.com CNAME .
@@ -1176,6 +1179,7 @@ txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
+uatidentity4.citidirect.com CNAME .
 ucfs.sendpro360.pitneybowes.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
@@ -1229,8 +1233,10 @@ ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www.content.bnl.it CNAME .
 www.content.espace-client.hellobank.fr CNAME .
+www.content.mabanque.bnpparibas CNAME .
 www.content.mabanqueprivee.bnpparibas CNAME .
 www.content.mabanquepro.bnpparibas CNAME .
+www.content.prev.connexion-mabanque.bnpparibas CNAME .
 xfp.intuit.com CNAME .
 xmt.paze.com CNAME .
 xmt.wallet.cat.earlywarning.io CNAME .

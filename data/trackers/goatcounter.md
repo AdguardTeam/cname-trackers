@@ -40,11 +40,11 @@
     * dheinemann.goatcounter.com
     * doarpstsjerke.goatcounter.com
     * dungeon.goatcounter.com
-    * ebdruplab.goatcounter.com
     * eithel.goatcounter.com
     * elkobraas.goatcounter.com
     * embedx.goatcounter.com
     * enamya.goatcounter.com
+    * eventgeek.goatcounter.com
     * ewpratten.goatcounter.com
     * ferrybig.goatcounter.com
     * fieald.goatcounter.com
@@ -70,6 +70,7 @@
     * jsq.goatcounter.com
     * k94.goatcounter.com
     * kc-ie.goatcounter.com
+    * kealper.goatcounter.com
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
@@ -87,12 +88,13 @@
     * mine.goatcounter.com
     * mlcet.goatcounter.com
     * msol.goatcounter.com
-    * neiku.goatcounter.com
+    * ngdangtu.goatcounter.com
     * nhimmeo.goatcounter.com
     * niravraval.goatcounter.com
     * noscirep.goatcounter.com
     * novi.goatcounter.com
     * ooo.goatcounter.com
+    * opensurge.goatcounter.com
     * palaisdesfetes.goatcounter.com
     * polluxcodes.goatcounter.com
     * psiyum.goatcounter.com
@@ -173,11 +175,11 @@
 | goat.dheinemann.com | dheinemann.goatcounter.com |
 | stats.doarpstsjerke.nl | doarpstsjerke.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
-| stats.ebdruplab.dk | ebdruplab.goatcounter.com |
 | stats.eithel.org | eithel.goatcounter.com |
 | statistic.elkobraas.com | elkobraas.goatcounter.com |
 | pixel.embed.su | embedx.goatcounter.com |
 | gtcntr.enamya.me | enamya.goatcounter.com |
+| goatcounter.eventgeek.ie | eventgeek.goatcounter.com |
 | analytics.ewpratten.com | ewpratten.goatcounter.com |
 | analytics.ferrybig.me | ferrybig.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
@@ -203,6 +205,7 @@
 | stats.jessesquires.com | jsq.goatcounter.com |
 | stats.k94.ch | k94.goatcounter.com |
 | stats.kc.ie | kc-ie.goatcounter.com |
+| count.kealper.com | kealper.goatcounter.com |
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
@@ -221,12 +224,13 @@
 | stats.raycordlegends.com | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
-| gc.neiku.org | neiku.goatcounter.com |
+| stats.ngdangtu.com | ngdangtu.goatcounter.com |
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
 | stats.niravraval.com | niravraval.goatcounter.com |
 | gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |
+| stats.opensurge2d.org | opensurge.goatcounter.com |
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
 | stats.pollux.codes | polluxcodes.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |

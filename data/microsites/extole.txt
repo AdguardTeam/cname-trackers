@@ -62,7 +62,6 @@
 ||refer.leadmd.com^
 ||refer.luckyvitamin.com^
 ||refer.lymphedemaproducts.com^
-||refer.midatlantic.aaa.com^
 ||refer.montgomeryadvertiser.com^
 ||refer.moo.com^
 ||refer.myplant.com^
@@ -125,10 +124,10 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em767.forgetrust.com^
+||em225.codecademy.com^
+||em7147.love.suncoastcreditunion.com^
 ||em7952.dailypay.com^
 ||em924.refer.starbucks.com^
-||emxxxx.rent.app^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -214,6 +213,7 @@
 ||refer.clarksusa.com^
 ||refer.codecademy.com^
 ||refer.colemancanada.ca^
+||refer.comfortzoneskin.com^
 ||refer.communityfirstfl.org^
 ||refer.competitivecyclist.com^
 ||refer.contiki.com^
@@ -241,7 +241,6 @@
 ||refer.firstaidbeauty.com^
 ||refer.firsttechfed.com^
 ||refer.forddrive.com^
-||refer.forgetrust.com^
 ||refer.frontgate.com^
 ||refer.g2.com^
 ||refer.gapcanada.ca^
@@ -322,6 +321,7 @@
 ||refer.ninjakitchen.com^
 ||refer.nso.com^
 ||refer.olehenriksen.com^
+||refer.onxmaps.com^
 ||refer.orbitz.com^
 ||refer.pacificservice.org^
 ||refer.pacsafe.com^
@@ -600,6 +600,7 @@
 ||share.motivefinancial.com^
 ||share.mtntough.com^
 ||share.mycarpe.com^
+||share.myinvestable.com^
 ||share.myollie.com^
 ||share.myq.com^
 ||share.naplesnews.com^
@@ -731,7 +732,6 @@
 ||share.useagle.org^
 ||share.vcstar.com^
 ||share.vcu.com^
-||share.veritycu.com^
 ||share.virginvoyages.com^
 ||share.vonage.co.uk^
 ||share.vonage.com^
@@ -751,13 +751,13 @@
 ||www.rob.extoleu.com^
 ||www.styleitforwardreward.com^
 ||em1476.princesscruises.com^
-||em225.codecademy.com^
 ||em2287.theory.com^
 ||em4367.raf-studentloans.discover.com^
 ||em5231.mail.propertyperks.xfinity.com^
-||em7147.love.suncoastcreditunion.com^
+||em767.forgetrust.com^
 ||em8561.go2bank.com^
 ||em8928.em.petco.com^
 ||em9523.walmartmoneycard.com^
+||emxxxx.rent.app^
 ||xtl._domainkey.forgetrust.com^
 ||sftp.extole.com^

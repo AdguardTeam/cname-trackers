@@ -823,6 +823,7 @@
 | a8cv.bellevie-inc.co.jp | trck.a8.net |
 | a8cv.bettysbeauty.jp | trck.a8.net |
 | a8cv.beyondvape.jp | trck.a8.net |
+| a8cv.bfg.benesse.ne.jp | trck.a8.net |
 | a8cv.biken-mall.jp | trck.a8.net |
 | a8cv.biz-maps.com | trck.a8.net |
 | a8cv.bizcircle.jp | trck.a8.net |
@@ -872,6 +873,7 @@
 | a8cv.cozuchi.com | trck.a8.net |
 | a8cv.cpi.ad.jp | trck.a8.net |
 | a8cv.cprime-japan.com | trck.a8.net |
+| a8cv.crear-ac.co.jp | trck.a8.net |
 | a8cv.crecari.com | trck.a8.net |
 | a8cv.crefus.jp | trck.a8.net |
 | a8cv.crowdcredit.jp | trck.a8.net |
@@ -939,7 +941,6 @@
 | a8cv.fc-osoujikakumei.jp | trck.a8.net |
 | a8cv.first-spoon.com | trck.a8.net |
 | a8cv.fitness-terrace.com | trck.a8.net |
-| a8cv.focusneo.net | trck.a8.net |
 | a8cv.folio-sec.com | trck.a8.net |
 | a8cv.folli.jp | trck.a8.net |
 | a8cv.follome.motaras.co.jp | trck.a8.net |
@@ -1019,7 +1020,6 @@
 | a8cv.isuzu-rinji.com | trck.a8.net |
 | a8cv.itscoco.shop | trck.a8.net |
 | a8cv.iwamizu.com | trck.a8.net |
-| a8cv.iy-net.jp | trck.a8.net |
 | a8cv.japaden.jp | trck.a8.net |
 | a8cv.jbl-link.com | trck.a8.net |
 | a8cv.jcom.co.jp | trck.a8.net |
@@ -1628,8 +1628,6 @@
 | trcka8net.qieto.net | trck.a8.net |
 | trialapp.live-english.co.jp | trck.a8.net |
 | web.collaboration-access.com | trck.a8.net |
-| web.hikari-ocn.com | trck.a8.net |
-| web.hikari-softbank.com | trck.a8.net |
 | webcv.advan-corp.co.jp | trck.a8.net |
 | webtest.lpio.jp | trck.a8.net |
 | www.a8clk.amelia.ne.jp | trck.a8.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,23 +33,22 @@ collect.calvinklein.co.uk CNAME .
 collect.calvinklein.com CNAME .
 collect.calvinklein.cz CNAME .
 collect.calvinklein.de CNAME .
-collect.calvinklein.dk CNAME .
 collect.calvinklein.ee CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
-collect.calvinklein.hr CNAME .
 collect.calvinklein.hu CNAME .
 collect.calvinklein.ie CNAME .
 collect.calvinklein.it CNAME .
 collect.calvinklein.lt CNAME .
+collect.calvinklein.lu CNAME .
 collect.calvinklein.lv CNAME .
 collect.calvinklein.nl CNAME .
 collect.calvinklein.pl CNAME .
 collect.calvinklein.pt CNAME .
 collect.calvinklein.se CNAME .
 collect.calvinklein.si CNAME .
-collect.calvinklein.sk CNAME .
+collect.fancl.co.jp CNAME .
 collect.kinto-jp.com CNAME .
 collect.mtgec.jp CNAME .
 collect.oportun.com CNAME .
@@ -131,9 +130,12 @@ tags.bestow.com CNAME .
 tags.bills.com CNAME .
 tags.bk.mufg.jp CNAME .
 tags.bunte.de CNAME .
+tags.bupa.co.nz CNAME .
 tags.caixabank.es CNAME .
+tags.caixabankamlux.com CNAME .
 tags.caixabankassetmanagement.com CNAME .
 tags.caixabankpc.com CNAME .
+tags.caixabankresearch.com CNAME .
 tags.calvinklein.at CNAME .
 tags.calvinklein.be CNAME .
 tags.calvinklein.bg CNAME .
@@ -142,16 +144,15 @@ tags.calvinklein.co.uk CNAME .
 tags.calvinklein.com CNAME .
 tags.calvinklein.cz CNAME .
 tags.calvinklein.de CNAME .
-tags.calvinklein.dk CNAME .
 tags.calvinklein.ee CNAME .
 tags.calvinklein.es CNAME .
 tags.calvinklein.fi CNAME .
 tags.calvinklein.fr CNAME .
-tags.calvinklein.hr CNAME .
 tags.calvinklein.hu CNAME .
 tags.calvinklein.ie CNAME .
 tags.calvinklein.it CNAME .
 tags.calvinklein.lt CNAME .
+tags.calvinklein.lu CNAME .
 tags.calvinklein.lv CNAME .
 tags.calvinklein.nl CNAME .
 tags.calvinklein.pl CNAME .
@@ -272,6 +273,8 @@ tags.synchronycredit.com CNAME .
 tags.szabadeuropa.hu CNAME .
 tags.tekna.no CNAME .
 tags.telenor.dk CNAME .
+tags.tiq.rbcinsurance.com CNAME .
+tags.tiq.rbcprivateinsurance.com CNAME .
 tags.tommy.com CNAME .
 tags.tryg.dk CNAME .
 tags.tvspielfilm.de CNAME .
@@ -421,10 +424,12 @@ webtags.logitech.com CNAME .
 webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
 collect.ansons.de CNAME .
-collect.calvinklein.lu CNAME .
-collect.fancl.co.jp CNAME .
+collect.calvinklein.dk CNAME .
+collect.calvinklein.hr CNAME .
+collect.calvinklein.sk CNAME .
 tag.bi.serviceplan.com CNAME .
-tags.calvinklein.lu CNAME .
+tags.calvinklein.dk CNAME .
+tags.calvinklein.hr CNAME .
 tags.peek-cloppenburg.nl CNAME .
 tags.sixpad.jp CNAME .
 view.ansons.de CNAME .

@@ -123,6 +123,7 @@
     * 520a8d3c-sxwkkncm.cname.ebis.ne.jp
     * 52e84b1b-f9cqqk3h.cname.ebis.ne.jp
     * 531ea578-esqb2ypb.cname.ebis.ne.jp
+    * 538e5738-scxitlgt.cname.ebis.ne.jp
     * 54defe46-yfrcguru.cname.ebis.ne.jp
     * 55ce18c7-ppn7hhsn.cname.ebis.ne.jp
     * 55f9731d-yghwwxr9.cname.ebis.ne.jp
@@ -303,7 +304,6 @@
     * d5c4f5e5-6hhs63nr.cname.ebis.ne.jp
     * d64474bb-20mouroy.cname.ebis.ne.jp
     * d8891d4f-5qfabvkt.cname.ebis.ne.jp
-    * d9a8eccf-fgsftzrs.cname.ebis.ne.jp
     * d9d442a8-bxd3nsfc.cname.ebis.ne.jp
     * dae17865-vqh9uah6.cname.ebis.ne.jp
     * daf42dbf-vhmygeqr.cname.ebis.ne.jp
@@ -466,6 +466,7 @@
 | adebis.chojyu.com | 520a8d3c-sxwkkncm.cname.ebis.ne.jp |
 | adebis-52667624.wowma.jp | 52e84b1b-f9cqqk3h.cname.ebis.ne.jp |
 | ebis.2jikaikun.com | 531ea578-esqb2ypb.cname.ebis.ne.jp |
+| cs0010sbeda.theory-kumatarumi.com | 538e5738-scxitlgt.cname.ebis.ne.jp |
 | ebis.samurai271.com | 54defe46-yfrcguru.cname.ebis.ne.jp |
 | cname.polestar-m.jp | 55ce18c7-ppn7hhsn.cname.ebis.ne.jp |
 | ad.320320.net | 55f9731d-yghwwxr9.cname.ebis.ne.jp |
@@ -646,7 +647,6 @@
 | p5mcwdbu.ginzo-buy.jp | d5c4f5e5-6hhs63nr.cname.ebis.ne.jp |
 | ebis.okasan-online.co.jp | d64474bb-20mouroy.cname.ebis.ne.jp |
 | ebis.n-pri.jp | d8891d4f-5qfabvkt.cname.ebis.ne.jp |
-| ebiscname.clark.ed.jp | d9a8eccf-fgsftzrs.cname.ebis.ne.jp |
 | cv-adebis.my-studies.net | d9d442a8-bxd3nsfc.cname.ebis.ne.jp |
 | ebis.biyo-job.com | dae17865-vqh9uah6.cname.ebis.ne.jp |
 | adebis.gogin.co.jp | daf42dbf-vhmygeqr.cname.ebis.ne.jp |

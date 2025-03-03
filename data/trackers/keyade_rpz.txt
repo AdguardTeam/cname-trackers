@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 click-ext.anxa.com CNAME .
 clk.ubi.com CNAME .
 k.brandalley.be CNAME .
-k.brandalley.co.nl CNAME .
 k.brandalley.es CNAME .
 k.brandalley.fr CNAME .
 k.flynas.com CNAME .

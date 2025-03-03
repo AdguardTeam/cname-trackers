@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1201,23 +1201,20 @@ _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
 a.344eva.com CNAME .
-a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
-a.asvsm.com CNAME .
+a.advertrek.com CNAME .
 a.b7q9v8z.com CNAME .
 a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
-a.etology.com CNAME .
 a.eunow4u.com CNAME .
-a.huklop.com CNAME .
 a.ma3ion.com CNAME .
 a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
+a.ouzads.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
-a.santabrowser.com CNAME .
 a.tf4srv.com CNAME .
 a.traffic-gold.com CNAME .
 a.vws4brkfst.com CNAME .
@@ -1292,6 +1289,7 @@ jzduxkeumwnrfp6x.exasrv.com CNAME .
 kiev.notifysrv.com CNAME .
 kwi18ah9r60yjb70.notify6.com CNAME .
 law.notifysrv.com CNAME .
+m.hue2n.com CNAME .
 m.hue4c.com CNAME .
 m.optidigital.com CNAME .
 mail17.notifysrv.com CNAME .
@@ -1341,6 +1339,8 @@ s.dsa9k5.com CNAME .
 s.dsau5u.com CNAME .
 s.dsb68d.com CNAME .
 s.dsceay.com CNAME .
+s.dsd8vc.com CNAME .
+s.dseb0x.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
@@ -1421,6 +1421,7 @@ s.vlink6.com CNAME .
 s.vws4brkfst.com CNAME .
 s.wlink1.com CNAME .
 s.wlink2.com CNAME .
+s.x47b2v9.com CNAME .
 s.zlink0.com CNAME .
 s.zlink1.com CNAME .
 s.zlink2.com CNAME .
@@ -1482,6 +1483,7 @@ syndication.link2az.com CNAME .
 syndication.link2nx.com CNAME .
 syndication.link2zz.com CNAME .
 syndication.link3dx.com CNAME .
+syndication.link4az.com CNAME .
 syndication.link5a.com CNAME .
 syndication.link5c.com CNAME .
 syndication.linkfryn.com CNAME .
@@ -1588,7 +1590,10 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
-a.advertrek.com CNAME .
-a.ouzads.com CNAME .
+a.adsession.com CNAME .
+a.asvsm.com CNAME .
+a.etology.com CNAME .
+a.huklop.com CNAME .
 a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
+a.santabrowser.com CNAME .

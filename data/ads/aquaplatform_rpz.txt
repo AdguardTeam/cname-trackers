@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -112,6 +112,8 @@ images.worldofshowjumping.com CNAME .
 informatm-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
 media360ads.midtc.com CNAME .
+omroepflevoland-static.reviveservers.com CNAME .
+omropfryslan-delivery.reviveservers.com CNAME .
 openx.mondiale.co.uk CNAME .
 opx.webtool.net CNAME .
 opximages.webtool.net CNAME .
@@ -235,6 +237,7 @@ www.static.ad.logic-test.viasat.io CNAME .
 www.static.healthcarescene.com CNAME .
 www.static.imagineobx.com CNAME .
 www.static.livingmagonline.com CNAME .
+www.static.proxibid.com CNAME .
 www.static.schrotundkorn.de CNAME .
 www.static.the-saleroom.com CNAME .
 www.stommeplaatjes.geenstijl.nl CNAME .

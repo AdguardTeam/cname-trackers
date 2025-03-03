@@ -336,6 +336,7 @@
     * h-citadele.online-metrix.net
     * h-citbank.online-metrix.net
     * h-citcommercial.online-metrix.net
+    * h-citi.vanity.online-metrix.net
     * h-citibank-ae.online-metrix.net
     * h-citibank-au.online-metrix.net
     * h-citibank-cn.online-metrix.net
@@ -831,6 +832,7 @@
 | prod-apcifcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-ascuaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-baxter.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-berne.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-blucurrent.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cardinal.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cfcuwi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1109,6 +1111,7 @@
 | afm.startrader.asia | h-96eziru5.online-metrix.net |
 | afm.startrader.com | h-96eziru5.online-metrix.net |
 | afm.startrader.live | h-96eziru5.online-metrix.net |
+| afm.startraderasia.com | h-96eziru5.online-metrix.net |
 | afm.startraderfr.com | h-96eziru5.online-metrix.net |
 | afm.startraderjp.com | h-96eziru5.online-metrix.net |
 | afm.startradermy.com | h-96eziru5.online-metrix.net |
@@ -1370,8 +1373,10 @@
 | content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
+| www.content.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.mabanqueprivee.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
+| www.content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | tcontent.cdiscountmobile.cdiscount.com | h-cdcmobile.online-metrix.net |
 | imagesmx.cdscdn.com | h-cdiscount.online-metrix.net |
 | fp.cdn-scripts.com | h-cdn-scripts.online-metrix.net |
@@ -1404,6 +1409,7 @@
 | content.bankoncit.com | h-citbank.online-metrix.net |
 | content.citbankapp.cit.com | h-citbank.online-metrix.net |
 | contentfd.directcapital.com | h-citcommercial.online-metrix.net |
+| uatidentity4.citidirect.com | h-citi.vanity.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
 | content22.citibank.com.cn | h-citibank-cn.online-metrix.net |
@@ -1445,6 +1451,7 @@
 | cdna.moncofidispro.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
+| cdna.rqt-cl-paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.rqt-paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.tst-paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | rqt-cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -821,6 +821,7 @@ a8cv.bellcosme.com CNAME .
 a8cv.bellevie-inc.co.jp CNAME .
 a8cv.bettysbeauty.jp CNAME .
 a8cv.beyondvape.jp CNAME .
+a8cv.bfg.benesse.ne.jp CNAME .
 a8cv.biken-mall.jp CNAME .
 a8cv.biz-maps.com CNAME .
 a8cv.bizcircle.jp CNAME .
@@ -870,6 +871,7 @@ a8cv.covermark.co.jp CNAME .
 a8cv.cozuchi.com CNAME .
 a8cv.cpi.ad.jp CNAME .
 a8cv.cprime-japan.com CNAME .
+a8cv.crear-ac.co.jp CNAME .
 a8cv.crecari.com CNAME .
 a8cv.crefus.jp CNAME .
 a8cv.crowdcredit.jp CNAME .
@@ -937,7 +939,6 @@ a8cv.fc-japan.biz CNAME .
 a8cv.fc-osoujikakumei.jp CNAME .
 a8cv.first-spoon.com CNAME .
 a8cv.fitness-terrace.com CNAME .
-a8cv.focusneo.net CNAME .
 a8cv.folio-sec.com CNAME .
 a8cv.folli.jp CNAME .
 a8cv.follome.motaras.co.jp CNAME .
@@ -1017,7 +1018,6 @@ a8cv.isslim.jp CNAME .
 a8cv.isuzu-rinji.com CNAME .
 a8cv.itscoco.shop CNAME .
 a8cv.iwamizu.com CNAME .
-a8cv.iy-net.jp CNAME .
 a8cv.japaden.jp CNAME .
 a8cv.jbl-link.com CNAME .
 a8cv.jcom.co.jp CNAME .
@@ -1628,8 +1628,6 @@ trcka8net.lenszero.com CNAME .
 trcka8net.qieto.net CNAME .
 trialapp.live-english.co.jp CNAME .
 web.collaboration-access.com CNAME .
-web.hikari-ocn.com CNAME .
-web.hikari-softbank.com CNAME .
 webcv.advan-corp.co.jp CNAME .
 webtest.lpio.jp CNAME .
 www.a8clk.amelia.ne.jp CNAME .

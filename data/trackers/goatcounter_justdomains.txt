@@ -19,12 +19,12 @@ argus.umarbutler.com
 c.qrdate.org
 contacapre.bortox.it
 count.andreabrandi.com
+count.kealper.com
 count.vidsrc.pro
 counter.storydragon.nl
 gc.his2nd.life
 gc.miluchacontraeltabaco.com
 gc.mindenugyved.hu
-gc.neiku.org
 gc.noscirep.com
 gc.sanyamkapoor.com
 gc.securitydungeon.sk
@@ -41,6 +41,7 @@ goat.twoistoomany.com
 goat1.nhimmeo.cf
 goatcounter.blu3id.uk
 goatcounter.codinggrace.com
+goatcounter.eventgeek.ie
 goatcounter.gamecraft.it
 goatcounter.thedave.dev
 goatcounter.thedave.me
@@ -76,7 +77,6 @@ stats.crosshair.dev
 stats.dalinwilliams.com
 stats.dandelion.computer
 stats.doarpstsjerke.nl
-stats.ebdruplab.dk
 stats.eithel.org
 stats.fieald.com
 stats.gopikrishna.dev
@@ -101,8 +101,10 @@ stats.mausoleum.me
 stats.mele.dev
 stats.merrell.dev
 stats.msol.io
+stats.ngdangtu.com
 stats.niravraval.com
 stats.nullzwo.dev
+stats.opensurge2d.org
 stats.palaisdesfetes.eu
 stats.pollux.codes
 stats.raycordlegends.com

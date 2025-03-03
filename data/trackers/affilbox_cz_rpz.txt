@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,6 +58,7 @@ affil.moringamix.cz CNAME .
 affil.mydrinks.cz CNAME .
 affil.nanoshop.cz CNAME .
 affil.nanospace.cz CNAME .
+affil.netbiznis.sk CNAME .
 affil.nutriadapt.cz CNAME .
 affil.peliskydog.cz CNAME .
 affil.pgs.sk CNAME .
@@ -431,7 +432,6 @@ my.weplayhandball.bg CNAME .
 my.weplayhandball.ch CNAME .
 my.weplayhandball.cz CNAME .
 my.weplayhandball.de CNAME .
-my.weplayhandball.es CNAME .
 my.weplayhandball.eu CNAME .
 my.weplayhandball.fr CNAME .
 my.weplayhandball.gr CNAME .
@@ -501,6 +501,7 @@ partner.cbdstar.cz CNAME .
 partner.cbdsuperhero.cz CNAME .
 partner.cebia.com CNAME .
 partner.cebia.cz CNAME .
+partner.ceskeghicko.cz CNAME .
 partner.cestakesnu.cz CNAME .
 partner.chcivedet.com CNAME .
 partner.chevronnutrition.cz CNAME .
@@ -537,6 +538,7 @@ partner.doleo.cz CNAME .
 partner.dolorescannon.cz CNAME .
 partner.dolorescannon.sk CNAME .
 partner.domaca-pivoteka.sk CNAME .
+partner.domaci-mazlicci.cz CNAME .
 partner.domaci-pivoteka.cz CNAME .
 partner.domalep.cz CNAME .
 partner.dometa.cz CNAME .
@@ -594,6 +596,7 @@ partner.hubnutimarija.cz CNAME .
 partner.hunter.games CNAME .
 partner.hurom.cz CNAME .
 partner.idoklad.cz CNAME .
+partner.ilprimo.sk CNAME .
 partner.intelligentfood.cz CNAME .
 partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
@@ -609,6 +612,7 @@ partner.jillylenau.cz CNAME .
 partner.jipos.sk CNAME .
 partner.kafista.cz CNAME .
 partner.kalhotkomat.cz CNAME .
+partner.kasparci.eu CNAME .
 partner.ketomix.cz CNAME .
 partner.ketomix.sk CNAME .
 partner.kidtown.cz CNAME .
@@ -940,7 +944,6 @@ partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
 partners.duckferries.com CNAME .
 partners.elitecoaching.cz CNAME .
-partners.oktagon.tv CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
 partners.spiritradar.com CNAME .
@@ -980,6 +983,7 @@ spoluprace.galaxy.cz CNAME .
 spoluprace.gprooms.eu CNAME .
 spoluprace.h2world.store CNAME .
 spoluprace.hyla.cz CNAME .
+spoluprace.imagemakersforyou.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .
 spoluprace.luxusnipradlo.cz CNAME .
 spoluprace.m-soft.cz CNAME .

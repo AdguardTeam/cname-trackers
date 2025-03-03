@@ -101,6 +101,8 @@ images.worldofshowjumping.com
 informatm-static.reviveservers.com
 lalala.geenstijl.nl
 media360ads.midtc.com
+omroepflevoland-static.reviveservers.com
+omropfryslan-delivery.reviveservers.com
 openx.mondiale.co.uk
 opx.webtool.net
 opximages.webtool.net
@@ -224,6 +226,7 @@ www.static.ad.logic-test.viasat.io
 www.static.healthcarescene.com
 www.static.imagineobx.com
 www.static.livingmagonline.com
+www.static.proxibid.com
 www.static.schrotundkorn.de
 www.static.the-saleroom.com
 www.stommeplaatjes.geenstijl.nl

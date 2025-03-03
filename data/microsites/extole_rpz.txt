@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,7 +73,6 @@ refer.kipling-usa.com CNAME .
 refer.leadmd.com CNAME .
 refer.luckyvitamin.com CNAME .
 refer.lymphedemaproducts.com CNAME .
-refer.midatlantic.aaa.com CNAME .
 refer.montgomeryadvertiser.com CNAME .
 refer.moo.com CNAME .
 refer.myplant.com CNAME .
@@ -136,10 +135,10 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em767.forgetrust.com CNAME .
+em225.codecademy.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em7952.dailypay.com CNAME .
 em924.refer.starbucks.com CNAME .
-emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -225,6 +224,7 @@ refer.citizenwatch.com CNAME .
 refer.clarksusa.com CNAME .
 refer.codecademy.com CNAME .
 refer.colemancanada.ca CNAME .
+refer.comfortzoneskin.com CNAME .
 refer.communityfirstfl.org CNAME .
 refer.competitivecyclist.com CNAME .
 refer.contiki.com CNAME .
@@ -252,7 +252,6 @@ refer.fahw.com CNAME .
 refer.firstaidbeauty.com CNAME .
 refer.firsttechfed.com CNAME .
 refer.forddrive.com CNAME .
-refer.forgetrust.com CNAME .
 refer.frontgate.com CNAME .
 refer.g2.com CNAME .
 refer.gapcanada.ca CNAME .
@@ -333,6 +332,7 @@ refer.nfhsnetwork.com CNAME .
 refer.ninjakitchen.com CNAME .
 refer.nso.com CNAME .
 refer.olehenriksen.com CNAME .
+refer.onxmaps.com CNAME .
 refer.orbitz.com CNAME .
 refer.pacificservice.org CNAME .
 refer.pacsafe.com CNAME .
@@ -611,6 +611,7 @@ share.montgomeryadvertiser.com CNAME .
 share.motivefinancial.com CNAME .
 share.mtntough.com CNAME .
 share.mycarpe.com CNAME .
+share.myinvestable.com CNAME .
 share.myollie.com CNAME .
 share.myq.com CNAME .
 share.naplesnews.com CNAME .
@@ -742,7 +743,6 @@ share.usatoday.com CNAME .
 share.useagle.org CNAME .
 share.vcstar.com CNAME .
 share.vcu.com CNAME .
-share.veritycu.com CNAME .
 share.virginvoyages.com CNAME .
 share.vonage.co.uk CNAME .
 share.vonage.com CNAME .
@@ -762,13 +762,13 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
-em225.codecademy.com CNAME .
 em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
 em9523.walmartmoneycard.com CNAME .
+emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 sftp.extole.com CNAME .

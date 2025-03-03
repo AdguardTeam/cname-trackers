@@ -63,12 +63,14 @@
 | utiq.caminteresse.fr | frontend.prod.utiq-aws.net |
 | utiq.canarias7.es | frontend.prod.utiq-aws.net |
 | utiq.capital.fr | frontend.prod.utiq-aws.net |
+| utiq.caradisiac.com | frontend.prod.utiq-aws.net |
 | utiq.centrepresseaveyron.fr | frontend.prod.utiq-aws.net |
 | utiq.cesoirtv.com | frontend.prod.utiq-aws.net |
 | utiq.chartsinfrance.net | frontend.prod.utiq-aws.net |
 | utiq.cheriefm.fr | frontend.prod.utiq-aws.net |
 | utiq.chip.de | frontend.prod.utiq-aws.net |
 | utiq.clara.es | frontend.prod.utiq-aws.net |
+| utiq.closermag.fr | frontend.prod.utiq-aws.net |
 | utiq.cnetfrance.fr | frontend.prod.utiq-aws.net |
 | utiq.come-on.de | frontend.prod.utiq-aws.net |
 | utiq.compradiccion.com | frontend.prod.utiq-aws.net |
@@ -172,6 +174,7 @@
 | utiq.laopiniondemalaga.es | frontend.prod.utiq-aws.net |
 | utiq.laopiniondemurcia.es | frontend.prod.utiq-aws.net |
 | utiq.laopiniondezamora.es | frontend.prod.utiq-aws.net |
+| utiq.laprovence.com | frontend.prod.utiq-aws.net |
 | utiq.laprovincia.es | frontend.prod.utiq-aws.net |
 | utiq.lardennais.fr | frontend.prod.utiq-aws.net |
 | utiq.larepubliquedespyrenees.fr | frontend.prod.utiq-aws.net |

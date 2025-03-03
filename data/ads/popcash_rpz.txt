@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -175,12 +175,12 @@ albatross.creacoon.com CNAME .
 albatross.mypromo.co CNAME .
 albatross.ohseesoftware.com CNAME .
 alligator.bluehorn.digital CNAME .
+alligator.crousille.ch CNAME .
 alligator.remotecyberwork.com CNAME .
 alpaca.hans-hornberger.com CNAME .
 alpaca.miidbaby.com CNAME .
 alpaca.thesocialmedwork.com CNAME .
 alpaca.wingmantracker.com CNAME .
-amphibian.foodfamily.app CNAME .
 amphibian.juergenhaller.at CNAME .
 amphibian.pinestc.com CNAME .
 amphibian.studionimbus.nl CNAME .
@@ -236,7 +236,6 @@ baboon.naxon.dev CNAME .
 baboon.vacanti.com CNAME .
 badger.pager.app CNAME .
 baldeagle.e-ma.re CNAME .
-bandicoot.mohit.dev CNAME .
 bandicoot.p0.design CNAME .
 bandicoot.sigerr.org CNAME .
 barnacle.big-in-japan.com CNAME .
@@ -360,7 +359,6 @@ chicken.clerklabs.com CNAME .
 chicken.couleur.io CNAME .
 chicken.p2pmarketdata.com CNAME .
 chicken.redbrushart.com CNAME .
-chicken.tjsoler.dev CNAME .
 chicken.zwei.haus CNAME .
 chimpanzee.designerdailyreport.com CNAME .
 chimpanzee.ines-papert.com CNAME .
@@ -413,8 +411,8 @@ cuckoo.peoplefirstjobs.com CNAME .
 damselfly.vegenook.com CNAME .
 deer.m1x.co CNAME .
 deer.ray.io CNAME .
+dingo.hexocene.com CNAME .
 dog.christinamoore.us CNAME .
-dog.franchisesocial.co.uk CNAME .
 dog.justsketch.me CNAME .
 dog.orbit.love CNAME .
 dog.rejuvenateyouohio.com CNAME .
@@ -812,6 +810,7 @@ parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
 peafowl.projectstrackt.dev CNAME .
+pelican.jatikhwan.com CNAME .
 penguin.craftpeak.io CNAME .
 penguin.mobiadroit.com CNAME .
 penguin.revolana.com CNAME .
@@ -873,6 +872,7 @@ quokka.curbnumberpro.com CNAME .
 quokka.howrightnow.org CNAME .
 quokka.joshuawood.net CNAME .
 quokka.oeshome.org CNAME .
+rabbit.kilowatt.media CNAME .
 rabbit.radicalxchange.org CNAME .
 rabbit.upwardhomes.net CNAME .
 raccoon.jaronheard.com CNAME .
@@ -901,6 +901,7 @@ rook.grithix.com CNAME .
 rooster.cashforcolumbushouses.com CNAME .
 rooster.ohqcloud.com CNAME .
 sailfish.deck9.co CNAME .
+sailfish.historyoflegends.no CNAME .
 sailfish.hoap.com CNAME .
 sailfish.kentcdodds.com CNAME .
 sailfish.lifelines-film.com CNAME .
@@ -918,6 +919,7 @@ scallop.esolia.pro CNAME .
 scallop.productionrails.com CNAME .
 scallop.vav.link CNAME .
 scorpion.clare.ink CNAME .
+scorpion.gamedao.co CNAME .
 sdegwynml.bmaci.me CNAME .
 seahorse.brightwayhealth.org CNAME .
 seahorse.dexterityvisuals.com CNAME .
@@ -958,12 +960,12 @@ spider.kearneyjaycees.com CNAME .
 spider.scottw.com CNAME .
 spider.storiesofchang.com CNAME .
 spoonbill.mumblebox.com CNAME .
-spoonbill.shawnprice.com CNAME .
 squid.adart.cc CNAME .
 squid.antevo.com.au CNAME .
 squirrel.cobaltconnect.com CNAME .
 squirrel.laravel-mix.com CNAME .
 starfish.taskflow.io CNAME .
+starman-jack.fathomdns.com CNAME .
 starman-new.fathomdns.com CNAME .
 starman.fathomdns.com CNAME .
 starman.usefathom.com CNAME .
@@ -1071,6 +1073,7 @@ walrus.fetzcolor.at CNAME .
 walrus.oscaroarevalo.com CNAME .
 walrus.scalue.com CNAME .
 warbler.resumebuilder.dev CNAME .
+warbler.todoscout.com CNAME .
 wasp.dyrynda.dev CNAME .
 wasp.mattjennings.io CNAME .
 waterboa.midu.dev CNAME .
@@ -1094,14 +1097,18 @@ wildebeest.trigo.dev CNAME .
 wildfowl.getmoneyoff.com CNAME .
 wolf.samarasousa.com CNAME .
 wolverine.barac.at CNAME .
+wolverine.prsaccreditation.com CNAME .
 wombat.buildrtech.com CNAME .
+wombat.modinfinity.com CNAME .
 woodpecker.binario11.de CNAME .
 woodpecker.ember.ly CNAME .
 woodpecker.mikehalliday.com CNAME .
 woodpecker.seabits.com CNAME .
 worm.communitytrustproject.org CNAME .
 wren.camdenmecc.org.uk CNAME .
+wren.femi.io CNAME .
 www.stork.notlessbutbetter.com CNAME .
+y5qhzz3q.designdetails.fm CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
 yak.gregsullivan.com CNAME .

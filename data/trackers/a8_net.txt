@@ -810,6 +810,7 @@
 ||a8cv.bellevie-inc.co.jp^
 ||a8cv.bettysbeauty.jp^
 ||a8cv.beyondvape.jp^
+||a8cv.bfg.benesse.ne.jp^
 ||a8cv.biken-mall.jp^
 ||a8cv.biz-maps.com^
 ||a8cv.bizcircle.jp^
@@ -859,6 +860,7 @@
 ||a8cv.cozuchi.com^
 ||a8cv.cpi.ad.jp^
 ||a8cv.cprime-japan.com^
+||a8cv.crear-ac.co.jp^
 ||a8cv.crecari.com^
 ||a8cv.crefus.jp^
 ||a8cv.crowdcredit.jp^
@@ -926,7 +928,6 @@
 ||a8cv.fc-osoujikakumei.jp^
 ||a8cv.first-spoon.com^
 ||a8cv.fitness-terrace.com^
-||a8cv.focusneo.net^
 ||a8cv.folio-sec.com^
 ||a8cv.folli.jp^
 ||a8cv.follome.motaras.co.jp^
@@ -1006,7 +1007,6 @@
 ||a8cv.isuzu-rinji.com^
 ||a8cv.itscoco.shop^
 ||a8cv.iwamizu.com^
-||a8cv.iy-net.jp^
 ||a8cv.japaden.jp^
 ||a8cv.jbl-link.com^
 ||a8cv.jcom.co.jp^
@@ -1617,8 +1617,6 @@
 ||trcka8net.qieto.net^
 ||trialapp.live-english.co.jp^
 ||web.collaboration-access.com^
-||web.hikari-ocn.com^
-||web.hikari-softbank.com^
 ||webcv.advan-corp.co.jp^
 ||webtest.lpio.jp^
 ||www.a8clk.amelia.ne.jp^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,19 +48,20 @@ a.alony.site CNAME .
 a.amylo.site CNAME .
 a.antiadxxxspy.com CNAME .
 a.asgtrk.click CNAME .
-a.atris.xyz CNAME .
 a.avrom.xyz CNAME .
 a.aylix.xyz CNAME .
 a.babezunknown.com CNAME .
 a.bdsmz.tube CNAME .
 a.belom.site CNAME .
 a.benue.site CNAME .
+a.blati.site CNAME .
 a.bloblohub.com CNAME .
 a.boyjackpot.com CNAME .
 a.broim.xyz CNAME .
 a.bronca.site CNAME .
 a.bumog.xyz CNAME .
 a.bynix.xyz CNAME .
+a.celai.site CNAME .
 a.celod.site CNAME .
 a.cemir.site CNAME .
 a.cloba.xyz CNAME .
@@ -79,10 +80,10 @@ a.dripe.site CNAME .
 a.dumay.site CNAME .
 a.duria.site CNAME .
 a.dylop.xyz CNAME .
-a.ebolat.xyz CNAME .
 a.ekont.site CNAME .
 a.emban.site CNAME .
 a.endod.site CNAME .
+a.entia.site CNAME .
 a.evrae.xyz CNAME .
 a.eynol.xyz CNAME .
 a.famestporn.com CNAME .
@@ -92,6 +93,7 @@ a.fapster.xxx CNAME .
 a.fedot.site CNAME .
 a.fidar.site CNAME .
 a.fimoa.xyz CNAME .
+a.freid.site CNAME .
 a.frezeporn.site CNAME .
 a.friy.site CNAME .
 a.fuckamouth.com CNAME .
@@ -104,6 +106,7 @@ a.groox.xyz CNAME .
 a.gumon.site CNAME .
 a.gupload.xyz CNAME .
 a.gylor.xyz CNAME .
+a.gymea.site CNAME .
 a.hefim.site CNAME .
 a.hemyn.site CNAME .
 a.herto.xyz CNAME .
@@ -126,7 +129,6 @@ a.jivem.site CNAME .
 a.kainpopoy.com CNAME .
 a.kambistory.ml CNAME .
 a.kantotin.net CNAME .
-a.lakmus.xyz CNAME .
 a.letsjerk.tv CNAME .
 a.lewxi.online CNAME .
 a.lifsi.pro CNAME .
@@ -135,14 +137,12 @@ a.marksmatures.com CNAME .
 a.markstube.com CNAME .
 a.maturepussyporn.net CNAME .
 a.memia.xyz CNAME .
-a.memosaqee.com CNAME .
 a.merig.xyz CNAME .
 a.mikop.xyz CNAME .
 a.moera.xyz CNAME .
 a.myprettyads.one CNAME .
 a.mysalo.store CNAME .
 a.naliw.xyz CNAME .
-a.obrom.xyz CNAME .
 a.paulsmatures.com CNAME .
 a.paulsmilfs.com CNAME .
 a.paulswomen.com CNAME .
@@ -242,6 +242,7 @@ app2up.info CNAME .
 apple.analnoe24.com CNAME .
 apple.arabtoons.net CNAME .
 apps.dfgtfv.com CNAME .
+apu.hentaibox.xyz CNAME .
 aqhz.xyz CNAME .
 arabs.alarabsex.com CNAME .
 arabs.alarbda.com CNAME .
@@ -346,6 +347,8 @@ blow.week1time.com CNAME .
 blum.stellaplus.xyz CNAME .
 bn.adasgmp.cc CNAME .
 bn.adasgsts.cc CNAME .
+bn.asgadmp.cc CNAME .
+bn.asgadsts.cc CNAME .
 bnrs.esexa.online CNAME .
 bnrs.manrec.cc CNAME .
 bnrs.shemrec.cc CNAME .
@@ -425,6 +428,7 @@ creatives.x2lt.com CNAME .
 creta.hubhubhub.name CNAME .
 crumpet.xxxpornhd.pro CNAME .
 cx6.lastxxxmovies.com CNAME .
+cxuapz.xyz CNAME .
 d.3dfetishgirls.com CNAME .
 d.adultporn.tv CNAME .
 d.bloblohub.com CNAME .
@@ -709,7 +713,6 @@ mangoa.xyz CNAME .
 mangtaoxa.xyz CNAME .
 marginjavgg124.fun CNAME .
 marketjavgg124.fun CNAME .
-masdak.epsilonsoft.to CNAME .
 mauzna.xyz CNAME .
 maxcdn.dmm-video.online CNAME .
 maxx1.a.pleasedonotblockme.com CNAME .
@@ -742,17 +745,7 @@ mrpazk.xyz CNAME .
 mvmzlg.xyz CNAME .
 mx6.3pornhere.com CNAME .
 my.007moms.com CNAME .
-my.blissgallery.xyz CNAME .
-my.dawncreations.art CNAME .
-my.etherart.online CNAME .
-my.infinitypixel.online CNAME .
-my.neogallery.xyz CNAME .
-my.pixelmuse.store CNAME .
-my.quantumcanvas.store CNAME .
 my.shymilftube.com CNAME .
-my.virtualbrush.site CNAME .
-my.vistaarts.site CNAME .
-my.vistaarts.xyz CNAME .
 mydomainbest.com CNAME .
 n.bloblohub.com CNAME .
 n.hubhubhub.name CNAME .
@@ -762,6 +755,7 @@ namjzoa.xyz CNAME .
 nav.srcdn.xyz CNAME .
 nbnrsa.manrec.cc CNAME .
 neighborhood268.fun CNAME .
+net.contoscn.com CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
 new.plus-eromanga.com CNAME .
@@ -812,7 +806,6 @@ onacao.com CNAME .
 opus.sexyxxx.biz CNAME .
 organize3452.fun CNAME .
 origin1266.fun CNAME .
-osef.epsilonscan.to CNAME .
 ox8.topsexhdvideos.com CNAME .
 ozoj.com CNAME .
 p.asgex.click CNAME .
@@ -834,11 +827,13 @@ parkurl.com CNAME .
 pasteljav128.fun CNAME .
 patentjav128.fun CNAME .
 pazials.xyz CNAME .
+pempia.sbs CNAME .
 pianwela.xyz CNAME .
 pickard.hubhubhub.name CNAME .
 pihu.xxxpornhd.pro CNAME .
 piotyo.xyz CNAME .
 pjsos.xyz CNAME .
+pl1.animes-stream24.net CNAME .
 play.rooski.net CNAME .
 pleasejav182.fun CNAME .
 pnpjceawvmeu.cdnvideo3.com CNAME .
@@ -853,6 +848,8 @@ pouam.xyz CNAME .
 powe.asian-xxx-videos.com CNAME .
 power1.bloblohub.com CNAME .
 ppu.adasgmp.cc CNAME .
+ppu.asgadmp.cc CNAME .
+ppu.asgadsts.cc CNAME .
 practice3452.fun CNAME .
 pre.03porno.com CNAME .
 pre.102porno.club CNAME .
@@ -868,6 +865,8 @@ prescription423.fun CNAME .
 preview.bloblohub.com CNAME .
 prl.adasgmp.cc CNAME .
 prl.adasgsts.cc CNAME .
+prl.asgadmp.cc CNAME .
+prl.asgadsts.cc CNAME .
 prod.bloblohub.com CNAME .
 production-.bloblohub.com CNAME .
 proll.esexa.online CNAME .
@@ -933,6 +932,7 @@ rs.picmega.com CNAME .
 rst.pornyhd.com CNAME .
 run4app.com CNAME .
 ryauzo.xyz CNAME .
+s.axioporn.online CNAME .
 s.bussyhunter.com CNAME .
 s.commissie.online CNAME .
 s.everydayporn.co CNAME .
@@ -942,12 +942,15 @@ s.hdpornblue.lol CNAME .
 s.hhyggy.com CNAME .
 s.isoporno.com CNAME .
 s.krotoporn.online CNAME .
+s.nakedwoman.online CNAME .
 s.oralblow.com CNAME .
+s.pornhammer.co CNAME .
 s.pornoshub.site CNAME .
 s.pornworld.pro CNAME .
 s.remonti.org CNAME .
 s.sistube.site CNAME .
 s.thepornbin.us CNAME .
+s.thepornfree.me CNAME .
 s.throatlust.top CNAME .
 s.xintube.us CNAME .
 s1.streaminporn.com CNAME .
@@ -973,6 +976,7 @@ secondjav128.fun CNAME .
 ser.everydayporn.co CNAME .
 serve.bdsmstreak.com CNAME .
 serve.freeonlinegayporn.com CNAME .
+setimodia.hubhubhub.name CNAME .
 settle1266.fun CNAME .
 sg.xclick24.com CNAME .
 shadowjav182.fun CNAME .
@@ -992,7 +996,6 @@ spa.arabtoons.net CNAME .
 spokesperson254.fun CNAME .
 spyglass.reklamko.pro CNAME .
 spyglass.reklon.net CNAME .
-ssltest.soundrussian.com CNAME .
 stacy.hubhubhub.name CNAME .
 starjav11.fun CNAME .
 staticz.hotpornfile.org CNAME .
@@ -1038,6 +1041,7 @@ true.aahen.site CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 ttquix.xyz CNAME .
+tuaos.xyz CNAME .
 tuaoza.xyz CNAME .
 turkey1266.fun CNAME .
 u.lucy-anne.com CNAME .

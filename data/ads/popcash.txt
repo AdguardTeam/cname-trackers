@@ -164,12 +164,12 @@
 ||albatross.mypromo.co^
 ||albatross.ohseesoftware.com^
 ||alligator.bluehorn.digital^
+||alligator.crousille.ch^
 ||alligator.remotecyberwork.com^
 ||alpaca.hans-hornberger.com^
 ||alpaca.miidbaby.com^
 ||alpaca.thesocialmedwork.com^
 ||alpaca.wingmantracker.com^
-||amphibian.foodfamily.app^
 ||amphibian.juergenhaller.at^
 ||amphibian.pinestc.com^
 ||amphibian.studionimbus.nl^
@@ -225,7 +225,6 @@
 ||baboon.vacanti.com^
 ||badger.pager.app^
 ||baldeagle.e-ma.re^
-||bandicoot.mohit.dev^
 ||bandicoot.p0.design^
 ||bandicoot.sigerr.org^
 ||barnacle.big-in-japan.com^
@@ -349,7 +348,6 @@
 ||chicken.couleur.io^
 ||chicken.p2pmarketdata.com^
 ||chicken.redbrushart.com^
-||chicken.tjsoler.dev^
 ||chicken.zwei.haus^
 ||chimpanzee.designerdailyreport.com^
 ||chimpanzee.ines-papert.com^
@@ -402,8 +400,8 @@
 ||damselfly.vegenook.com^
 ||deer.m1x.co^
 ||deer.ray.io^
+||dingo.hexocene.com^
 ||dog.christinamoore.us^
-||dog.franchisesocial.co.uk^
 ||dog.justsketch.me^
 ||dog.orbit.love^
 ||dog.rejuvenateyouohio.com^
@@ -801,6 +799,7 @@
 ||parrotfish.thenping.me^
 ||parrotfish.wilderworld.com^
 ||peafowl.projectstrackt.dev^
+||pelican.jatikhwan.com^
 ||penguin.craftpeak.io^
 ||penguin.mobiadroit.com^
 ||penguin.revolana.com^
@@ -862,6 +861,7 @@
 ||quokka.howrightnow.org^
 ||quokka.joshuawood.net^
 ||quokka.oeshome.org^
+||rabbit.kilowatt.media^
 ||rabbit.radicalxchange.org^
 ||rabbit.upwardhomes.net^
 ||raccoon.jaronheard.com^
@@ -890,6 +890,7 @@
 ||rooster.cashforcolumbushouses.com^
 ||rooster.ohqcloud.com^
 ||sailfish.deck9.co^
+||sailfish.historyoflegends.no^
 ||sailfish.hoap.com^
 ||sailfish.kentcdodds.com^
 ||sailfish.lifelines-film.com^
@@ -907,6 +908,7 @@
 ||scallop.productionrails.com^
 ||scallop.vav.link^
 ||scorpion.clare.ink^
+||scorpion.gamedao.co^
 ||sdegwynml.bmaci.me^
 ||seahorse.brightwayhealth.org^
 ||seahorse.dexterityvisuals.com^
@@ -947,12 +949,12 @@
 ||spider.scottw.com^
 ||spider.storiesofchang.com^
 ||spoonbill.mumblebox.com^
-||spoonbill.shawnprice.com^
 ||squid.adart.cc^
 ||squid.antevo.com.au^
 ||squirrel.cobaltconnect.com^
 ||squirrel.laravel-mix.com^
 ||starfish.taskflow.io^
+||starman-jack.fathomdns.com^
 ||starman-new.fathomdns.com^
 ||starman.fathomdns.com^
 ||starman.usefathom.com^
@@ -1060,6 +1062,7 @@
 ||walrus.oscaroarevalo.com^
 ||walrus.scalue.com^
 ||warbler.resumebuilder.dev^
+||warbler.todoscout.com^
 ||wasp.dyrynda.dev^
 ||wasp.mattjennings.io^
 ||waterboa.midu.dev^
@@ -1083,14 +1086,18 @@
 ||wildfowl.getmoneyoff.com^
 ||wolf.samarasousa.com^
 ||wolverine.barac.at^
+||wolverine.prsaccreditation.com^
 ||wombat.buildrtech.com^
+||wombat.modinfinity.com^
 ||woodpecker.binario11.de^
 ||woodpecker.ember.ly^
 ||woodpecker.mikehalliday.com^
 ||woodpecker.seabits.com^
 ||worm.communitytrustproject.org^
 ||wren.camdenmecc.org.uk^
+||wren.femi.io^
 ||www.stork.notlessbutbetter.com^
+||y5qhzz3q.designdetails.fm^
 ||yak.auclantis.com^
 ||yak.flutterblog.net^
 ||yak.gregsullivan.com^

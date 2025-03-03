@@ -277,12 +277,14 @@
 | images.mannenmedia.nl | platformiq-cdn.aquaplatform.com |
 | images.proxena-adserver.com | platformiq-cdn.aquaplatform.com |
 | informatm-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
+| omroepflevoland-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | static.hollandhortimedia.nl | platformiq-cdn.aquaplatform.com |
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
+| omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.hlipublishing.com | platformiq-del.aquaplatform.com |
@@ -308,6 +310,7 @@
 | static.i-bidder.com | proxibid-static.aquaplatform.com |
 | static.proxibid.com | proxibid-static.aquaplatform.com |
 | static.the-saleroom.com | proxibid-static.aquaplatform.com |
+| www.static.proxibid.com | proxibid-static.aquaplatform.com |
 | www.static.the-saleroom.com | proxibid-static.aquaplatform.com |
 | ads.xtra.ca | ptp-delivery.aquaplatform.com |
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |

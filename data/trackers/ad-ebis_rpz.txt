@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -187,6 +187,7 @@ corporate.frontierconsul.net CNAME .
 cs0008sbeda.moromi-koso-c.com CNAME .
 cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .
+cs0010sbeda.theory-kumatarumi.com CNAME .
 cs1470sbeda.schoolasp.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
 cs1979sbeda.customguide-build.net CNAME .
@@ -285,7 +286,6 @@ ebis01.zkai.co.jp CNAME .
 ebis2020.hoiku-job.net CNAME .
 ebis202001.joyfit.jp CNAME .
 ebisanalysis.mouse-jp.co.jp CNAME .
-ebiscname.clark.ed.jp CNAME .
 ebiscname.english-native.net CNAME .
 ebiscname.infofactory.jp CNAME .
 ebiscname.j-esthe-yoyaku.com CNAME .

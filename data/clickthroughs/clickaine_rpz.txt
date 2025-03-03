@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 1qrsumhcuudhkt4c.brandnewapp.pro CNAME .
 39236100.lotre.io CNAME .
+a1.arabsex1.com CNAME .
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 a4.hotpornfile.org CNAME .
@@ -31,7 +32,7 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
-bat14.gimmeporn.xyz CNAME .
+bat15.gimmeporn.xyz CNAME .
 blabla.leakgallery.com CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
@@ -45,7 +46,6 @@ c4n.surfotresors.com CNAME .
 c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.xxx8.me CNAME .
-c4n.xxxbold.com CNAME .
 c4s.bionestraff.pro CNAME .
 c8d.upde.cc CNAME .
 ca.findyourpussy.net CNAME .
@@ -62,7 +62,6 @@ cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
 cdn1.xvideohub.top CNAME .
 cdn2.picyield.com CNAME .
-cent.up-click.xyz CNAME .
 ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
 click.freepopnews.skin CNAME .
@@ -107,6 +106,7 @@ jpnj.hotpornfile.org CNAME .
 k10.usefto.com CNAME .
 k8.usefto.com CNAME .
 lunie24.gimmeporn.xyz CNAME .
+lunie25.gimmeporn.xyz CNAME .
 mail.7porn.ru CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .

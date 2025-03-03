@@ -18,6 +18,7 @@ afm.puprime.online
 afm.startrader.asia
 afm.startrader.com
 afm.startrader.live
+afm.startraderasia.com
 afm.startraderfr.com
 afm.startraderjp.com
 afm.startradermy.com
@@ -152,6 +153,7 @@ cdna.moncofidispro.fr
 cdna.paiement.cofidis.fr
 cdna.paymentncb.cofidis.es
 cdna.paymentncb.cofidis.fr
+cdna.rqt-cl-paiement.cofidis.fr
 cdna.rqt-paiement.cofidis.fr
 cdna.tiranabank.al
 cdna.tst-paiement.cofidis.fr
@@ -754,6 +756,7 @@ prod-aocumi.chaperone.lumindigitalhosting.com
 prod-apcifcu.chaperone.lumindigitalhosting.com
 prod-ascuaz.chaperone.lumindigitalhosting.com
 prod-baxter.chaperone.lumindigitalhosting.com
+prod-berne.chaperone.lumindigitalhosting.com
 prod-blucurrent.chaperone.lumindigitalhosting.com
 prod-cardinal.chaperone.lumindigitalhosting.com
 prod-cfcuwi.chaperone.lumindigitalhosting.com
@@ -1165,6 +1168,7 @@ txn.allianzlife.com
 uafms.ocbc.com
 ualaki-analytics.vacations.united.com
 uat.cmprofile.cards.citidirect.com
+uatidentity4.citidirect.com
 ucfs.sendpro360.pitneybowes.com
 ufp.intuit.com
 uldfp.srilankan.com
@@ -1218,8 +1222,10 @@ ww9.lloydsbank.com
 www.cdna.cofidis.be
 www.content.bnl.it
 www.content.espace-client.hellobank.fr
+www.content.mabanque.bnpparibas
 www.content.mabanqueprivee.bnpparibas
 www.content.mabanquepro.bnpparibas
+www.content.prev.connexion-mabanque.bnpparibas
 xfp.intuit.com
 xmt.paze.com
 xmt.wallet.cat.earlywarning.io

@@ -51,7 +51,6 @@
 | tr.actualites.reseau-lcd.org | tracking.bp01.net |
 | tr.actuentreprises.elior.fr | tracking.bp01.net |
 | tr.actupremium.com | tracking.bp01.net |
-| tr.actus-fdj.fr | tracking.bp01.net |
 | tr.adhesion.ircom-laverriere.com | tracking.bp01.net |
 | tr.afpa.espmp-cufr.net | tracking.bp01.net |
 | tr.ag2rlamondiale.fr | tracking.bp01.net |
@@ -128,6 +127,7 @@
 | tr.asp10ge.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10h2.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10hc.espmp-aufr.net | tracking.bp01.net |
+| tr.asp10hf.espmp-pofr.net | tracking.bp01.net |
 | tr.asp10hg.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10hi.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10hj.espmp-pofr.net | tracking.bp01.net |
@@ -172,6 +172,7 @@
 | tr.bodet.devisdirect.com | tracking.bp01.net |
 | tr.boletim.companeo.pt | tracking.bp01.net |
 | tr.boletim.meu-orcamento.pt | tracking.bp01.net |
+| tr.bourse-expert.secure.lcl.fr | tracking.bp01.net |
 | tr.bouyguestelecom.espmp-aufr.net | tracking.bp01.net |
 | tr.brand.labelleadresse.com | tracking.bp01.net |
 | tr.btob-afaceri.ro | tracking.bp01.net |
@@ -449,6 +450,7 @@
 | tr.future-commerce.mhdfrance.fr | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
 | tr.gen.espmp-agfr.net | tracking.bp01.net |
+| tr.gestion.bnpparibas-pf.fr | tracking.bp01.net |
 | tr.gestion.cafineo.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
 | tr.gestion.coficabail.fr | tracking.bp01.net |
@@ -1159,6 +1161,7 @@
 | tr.urfk06v.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk06x.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk076.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07c.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk07h.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk07j.espmp-nifr.net | tracking.bp01.net |

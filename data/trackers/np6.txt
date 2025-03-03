@@ -28,7 +28,6 @@
 ||tr.actualites.reseau-lcd.org^
 ||tr.actuentreprises.elior.fr^
 ||tr.actupremium.com^
-||tr.actus-fdj.fr^
 ||tr.adhesion.ircom-laverriere.com^
 ||tr.afpa.espmp-cufr.net^
 ||tr.ag2rlamondiale.fr^
@@ -105,6 +104,7 @@
 ||tr.asp10ge.espmp-nifr.net^
 ||tr.asp10h2.espmp-nifr.net^
 ||tr.asp10hc.espmp-aufr.net^
+||tr.asp10hf.espmp-pofr.net^
 ||tr.asp10hg.espmp-cufr.net^
 ||tr.asp10hi.espmp-cufr.net^
 ||tr.asp10hj.espmp-pofr.net^
@@ -149,6 +149,7 @@
 ||tr.bodet.devisdirect.com^
 ||tr.boletim.companeo.pt^
 ||tr.boletim.meu-orcamento.pt^
+||tr.bourse-expert.secure.lcl.fr^
 ||tr.bouyguestelecom.espmp-aufr.net^
 ||tr.brand.labelleadresse.com^
 ||tr.btob-afaceri.ro^
@@ -426,6 +427,7 @@
 ||tr.future-commerce.mhdfrance.fr^
 ||tr.futurecommerce.moethennessy.com^
 ||tr.gen.espmp-agfr.net^
+||tr.gestion.bnpparibas-pf.fr^
 ||tr.gestion.cafineo.fr^
 ||tr.gestion.cetelem.fr^
 ||tr.gestion.coficabail.fr^
@@ -1136,6 +1138,7 @@
 ||tr.urfk06v.espmp-aufr.net^
 ||tr.urfk06x.espmp-cufr.net^
 ||tr.urfk06y.espmp-nifr.net^
+||tr.urfk076.espmp-nifr.net^
 ||tr.urfk07c.espmp-aufr.net^
 ||tr.urfk07h.espmp-agfr.net^
 ||tr.urfk07j.espmp-nifr.net^

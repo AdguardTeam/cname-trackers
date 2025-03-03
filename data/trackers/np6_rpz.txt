@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -39,7 +39,6 @@ tr.actualites.bfmtv.com CNAME .
 tr.actualites.reseau-lcd.org CNAME .
 tr.actuentreprises.elior.fr CNAME .
 tr.actupremium.com CNAME .
-tr.actus-fdj.fr CNAME .
 tr.adhesion.ircom-laverriere.com CNAME .
 tr.afpa.espmp-cufr.net CNAME .
 tr.ag2rlamondiale.fr CNAME .
@@ -116,6 +115,7 @@ tr.asp10ga.espmp-nifr.net CNAME .
 tr.asp10ge.espmp-nifr.net CNAME .
 tr.asp10h2.espmp-nifr.net CNAME .
 tr.asp10hc.espmp-aufr.net CNAME .
+tr.asp10hf.espmp-pofr.net CNAME .
 tr.asp10hg.espmp-cufr.net CNAME .
 tr.asp10hi.espmp-cufr.net CNAME .
 tr.asp10hj.espmp-pofr.net CNAME .
@@ -160,6 +160,7 @@ tr.bobo.espmp-cufr.net CNAME .
 tr.bodet.devisdirect.com CNAME .
 tr.boletim.companeo.pt CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
+tr.bourse-expert.secure.lcl.fr CNAME .
 tr.bouyguestelecom.espmp-aufr.net CNAME .
 tr.brand.labelleadresse.com CNAME .
 tr.btob-afaceri.ro CNAME .
@@ -437,6 +438,7 @@ tr.fts.francetravail.fr CNAME .
 tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
 tr.gen.espmp-agfr.net CNAME .
+tr.gestion.bnpparibas-pf.fr CNAME .
 tr.gestion.cafineo.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
 tr.gestion.coficabail.fr CNAME .
@@ -1147,6 +1149,7 @@ tr.urfk06o.espmp-agfr.net CNAME .
 tr.urfk06v.espmp-aufr.net CNAME .
 tr.urfk06x.espmp-cufr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
+tr.urfk076.espmp-nifr.net CNAME .
 tr.urfk07c.espmp-aufr.net CNAME .
 tr.urfk07h.espmp-agfr.net CNAME .
 tr.urfk07j.espmp-nifr.net CNAME .

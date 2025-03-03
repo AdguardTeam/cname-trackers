@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740384008581        ; Serial
+           1740988808445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ te.heine.de CNAME .
 te.helline.fr CNAME .
 te.imwalking.de CNAME .
 te.jelmoli-shop.ch CNAME .
+te.lascana.at CNAME .
 te.limango.de CNAME .
 te.mirapodo.de CNAME .
 te.mytoys.de CNAME .

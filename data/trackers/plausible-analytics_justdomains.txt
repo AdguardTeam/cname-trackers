@@ -3,7 +3,6 @@
 a-api.skz.dev
 a.conhecercuritiba.com
 a.linkz.ai
-a.visitelitoral.com
 aloha.getoperand.com
 also.greatsecuritydebate.net
 an.xavierrosee.com
@@ -105,7 +104,6 @@ marsupial.roleup.com
 meter.bref.sh
 metric.methoddev.com
 metrics.creit.tech
-metrics.earrieta.dev
 metrics.recunia.de
 momotaro.craigmod.com
 momotaro.walkkumano.com
@@ -196,6 +194,7 @@ plausible.goldanger.de
 plausible.golfbreaks.com
 plausible.gryka.net
 plausible.gymglish.com
+plausible.heartanddata.com
 plausible.help.exploreandcreate.com
 plausible.holderbaum-academy.de
 plausible.hopecanebay.com
@@ -208,6 +207,7 @@ plausible.kdojang.com
 plausible.kundenportal.io
 plausible.lesbianromantic.com
 plausible.logicboard.com
+plausible.marker12.org
 plausible.mattpruitt.com
 plausible.mcj.co
 plausible.myvirtualsuper.com
@@ -308,6 +308,7 @@ st.tulastudio.se
 st.turnou.com
 stat.bill.harding.blog
 stat.landingpro.pl
+stat.recklesslove.co.za
 stat.umsu.de
 static.osalta.eu
 statistic.jac-systeme.de
@@ -365,7 +366,6 @@ stats.bloke.blog
 stats.bmxdevils.be
 stats.book-rec.com
 stats.booncon.com
-stats.boscabeatha.ie
 stats.bostonedtech.org
 stats.breathly.app
 stats.brennholzauktion.com
@@ -417,6 +417,7 @@ stats.dashbit.co
 stats.davidlms.com
 stats.davydepauw.be
 stats.dawn.md
+stats.dbx.ai
 stats.declanbyrd.co.uk
 stats.deerpark.app
 stats.deja-lu.de
@@ -505,7 +506,6 @@ stats.gravitaswins.com
 stats.greatlakesdesign.co
 stats.groupconsent.eu
 stats.gslc.utah.edu
-stats.gtnetworks.com
 stats.guersanguillaume.com
 stats.guidingwallet.app
 stats.gusmanson.nl
@@ -585,7 +585,6 @@ stats.learnlinux.tv
 stats.leavetrackapp.com
 stats.lefthoek.com
 stats.legendofnom.com
-stats.leiamarjaana.com
 stats.leoloso.com
 stats.levinowska.com
 stats.lica.at
@@ -654,6 +653,7 @@ stats.nytecomics.com
 stats.obiit.co
 stats.obokat.se
 stats.odysseeseine.org
+stats.officefoosball.com
 stats.ohmysmtp.com
 stats.oldtinroof.com
 stats.oliveoil.pro
@@ -662,6 +662,7 @@ stats.orbitalhealth.co
 stats.ordinarypuzzles.com
 stats.ortussolutions.com
 stats.osiemsiedem.com
+stats.osteo-kessler.de
 stats.otsohavanto.net
 stats.ownpath.xyz
 stats.owre.se
@@ -672,6 +673,7 @@ stats.parrot.dev
 stats.passwordyeti.com
 stats.pasteapp.io
 stats.pastorwagner.com
+stats.patrick.wtf
 stats.patrickl.am
 stats.patriot.win
 stats.paulronge.se
@@ -802,9 +804,9 @@ stats.tms-development.de
 stats.tms-institut.de
 stats.tnc.sc
 stats.toiletmap.org.uk
+stats.tomorrowacademy.org
 stats.topstudyworld.com
 stats.training.fit
-stats.travelfodder.com
 stats.trenntoi.de
 stats.tresor.one
 stats.trigo.at
