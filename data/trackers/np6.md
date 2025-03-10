@@ -72,6 +72,7 @@
 | tr.asp008y.espmp-nifr.net | tracking.bp01.net |
 | tr.asp009j.espmp-aufr.net | tracking.bp01.net |
 | tr.asp009k.espmp-cufr.net | tracking.bp01.net |
+| tr.asp009m.espmp-agfr.net | tracking.bp01.net |
 | tr.asp00a0.espmp-cufr.net | tracking.bp01.net |
 | tr.asp00a1.espmp-agfr.net | tracking.bp01.net |
 | tr.asp00a3.espmp-agfr.net | tracking.bp01.net |
@@ -162,7 +163,6 @@
 | tr.bati-partners.be | tracking.bp01.net |
 | tr.batirenover.info | tracking.bp01.net |
 | tr.batiweb.co | tracking.bp01.net |
-| tr.batiwebmedia.com | tracking.bp01.net |
 | tr.bees.espmp-aufr.net | tracking.bp01.net |
 | tr.bel-pros.be | tracking.bp01.net |
 | tr.bern.espmp-nifr.net | tracking.bp01.net |
@@ -1047,6 +1047,7 @@
 | tr.quotes4business.info | tracking.bp01.net |
 | tr.quotesforbusiness.cl | tracking.bp01.net |
 | tr.quotesforbusiness.co.uk | tracking.bp01.net |
+| tr.quotesforbusiness.mx | tracking.bp01.net |
 | tr.ratm.espmp-agfr.net | tracking.bp01.net |
 | tr.raym.espmp-agfr.net | tracking.bp01.net |
 | tr.reactivation.vertbaudet.fr | tracking.bp01.net |

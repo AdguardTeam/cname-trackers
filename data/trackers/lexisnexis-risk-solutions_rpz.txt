@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -77,7 +77,6 @@ analytics.nowresorts.com CNAME .
 analytics.southwestvacations.com CNAME .
 analytics.sunscaperesorts.com CNAME .
 analytics.triseptsolutions.com CNAME .
-analytics.vacations.united.com CNAME .
 analytics.vaxvacationaccess.com CNAME .
 analytics.vodafone.com.au CNAME .
 analyze.central1.cc CNAME .
@@ -405,6 +404,7 @@ content002.bet365.it CNAME .
 content002.bet365.mx CNAME .
 content002.bet365.nl CNAME .
 content002.bet365.pe CNAME .
+content002.bet365.rs CNAME .
 content1.esdiacapi.com CNAME .
 content1.reprisefinancial.com CNAME .
 content2.instacart.com CNAME .
@@ -902,6 +902,7 @@ sec.mypage.ntt.com CNAME .
 sec.mypage.ocn.ne.jp CNAME .
 sec.plala.or.jp CNAME .
 secure-collector.zen.com CNAME .
+secure-hub.procreditbank.md CNAME .
 secure-service.id.dbsdigibank.com CNAME .
 secure.freshbooks.com CNAME .
 secure.idbank.it CNAME .
@@ -1177,9 +1178,7 @@ tx.suncoastcreditunion.com CNAME .
 txcontent.iherb.cn CNAME .
 txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
-ualaki-analytics.vacations.united.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
-uatidentity4.citidirect.com CNAME .
 ucfs.sendpro360.pitneybowes.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .

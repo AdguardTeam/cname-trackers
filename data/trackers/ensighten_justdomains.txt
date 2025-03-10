@@ -209,6 +209,7 @@ dc.zales.com
 dc.zalesoutlet.com
 dcf.espn.com
 dcf.espn.com.pe
+dcf.espnqa.com
 dcfdata.espn.com
 ddc.statefarm.com
 eb.trbas.com

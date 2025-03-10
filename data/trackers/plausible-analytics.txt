@@ -38,7 +38,6 @@
 ||analytics.teamcovenant.com^
 ||analytics.thegroupbuyexperiment.com^
 ||analytics.top10-charts.com^
-||analytics.trust.page^
 ||analytics.uxmetrics.com^
 ||analytics.valheimgamer.com^
 ||analytics.wayland.app^
@@ -55,7 +54,6 @@
 ||app-stats.supernotes.app^
 ||artistchristinacarmel.ericksonbuilt.com^
 ||assets.garron.blog^
-||assets.garron.me^
 ||assets.mikeroulston.com^
 ||assets.modeathletics.com^
 ||assets.modehypertext.com^
@@ -92,7 +90,6 @@
 ||insights.affilimate.com^
 ||jinx.skullctf.com^
 ||kaladyaudiology.ericksonbuilt.com^
-||kingsandqueens.splowser.com^
 ||l.lilyzhou.com^
 ||l2k30jsa.theochu.com^
 ||lkj23jlkajsa.realestate.help^
@@ -238,7 +235,6 @@
 ||plausible.treelightsoftware.com^
 ||plausible.urbanekuensteruhr.de^
 ||plausible.veszelovszki.com^
-||plausible.west.io^
 ||plausible.x.baychi.org^
 ||plausible.yalepaprika.com^
 ||plausible.zest.dev^
@@ -435,6 +431,7 @@
 ||stats.divyanshu013.dev^
 ||stats.dmail.co.nz^
 ||stats.dmarcdigests.com^
+||stats.donal.us^
 ||stats.doors.live^
 ||stats.dotnetos.org^
 ||stats.dotplan.io^
@@ -483,6 +480,7 @@
 ||stats.flightsphere.com^
 ||stats.flowphantom.com^
 ||stats.footwork.co^
+||stats.foxyapps.co^
 ||stats.frantic.im^
 ||stats.frenlo.com^
 ||stats.fs4c.org^

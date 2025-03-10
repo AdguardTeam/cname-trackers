@@ -30,6 +30,7 @@
 | asg.pienude.com | api.clickaine.com |
 | asg.redfans.org | api.clickaine.com |
 | bat15.gimmeporn.xyz | api.clickaine.com |
+| bat16.gimmeporn.xyz | api.clickaine.com |
 | blabla.leakgallery.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
@@ -54,7 +55,6 @@
 | cc.sexgeschichten-kostenlos.com | api.clickaine.com |
 | cc.sexgeschichten-xxx.com | api.clickaine.com |
 | cc.sexstories-xxx.com | api.clickaine.com |
-| cc.sexverhalen-gratis.com | api.clickaine.com |
 | cc2.camcaps.io | api.clickaine.com |
 | cdn1.memojav.com | api.clickaine.com |
 | cdn1.xvideohub.top | api.clickaine.com |
@@ -102,7 +102,6 @@
 | jpnj.hotpornfile.org | api.clickaine.com |
 | k10.usefto.com | api.clickaine.com |
 | k8.usefto.com | api.clickaine.com |
-| lunie24.gimmeporn.xyz | api.clickaine.com |
 | lunie25.gimmeporn.xyz | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
 | net.fuckxstream.com | api.clickaine.com |
@@ -115,6 +114,7 @@
 | ps2.camcaps.to | api.clickaine.com |
 | reg.ancensored.com | api.clickaine.com |
 | s1.rtnews.pro | api.clickaine.com |
+| s2.rtnews.pro | api.clickaine.com |
 | s3.rtnews.pro | api.clickaine.com |
 | s4.rtnews.pro | api.clickaine.com |
 | s5.rtnews.pro | api.clickaine.com |

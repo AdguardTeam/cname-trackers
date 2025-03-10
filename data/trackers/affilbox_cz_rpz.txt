@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -198,6 +198,7 @@ affiliate.ladylab.sk CNAME .
 affiliate.lasamba.cz CNAME .
 affiliate.lasun.cz CNAME .
 affiliate.lavycosmetics.com CNAME .
+affiliate.lechocolat.cz CNAME .
 affiliate.lentiamo.be CNAME .
 affiliate.lentiamo.bg CNAME .
 affiliate.lentiamo.ch CNAME .
@@ -312,6 +313,7 @@ box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
 collab.zdravetricko.cz CNAME .
+cryptonow.algomoneo.com CNAME .
 dbsaysnba4ygmwav.algomoneo.com CNAME .
 dekovacka.stickersmakers.cz CNAME .
 devaff.bitcoinzmenaren.sk CNAME .
@@ -630,6 +632,7 @@ partner.lascivni.cz CNAME .
 partner.leadingtechnologies.cz CNAME .
 partner.legalni-konopi.cz CNAME .
 partner.lehatkapropsy.cz CNAME .
+partner.lekarna.cz CNAME .
 partner.lemurak.cz CNAME .
 partner.lenkahomeopatie.cz CNAME .
 partner.levanduloveudoli.cz CNAME .
@@ -882,6 +885,7 @@ partneri.onlinelearning.cz CNAME .
 partneri.onlinestar.cz CNAME .
 partneri.oportskem.cz CNAME .
 partneri.palmknihy.cz CNAME .
+partneri.piercing.cz CNAME .
 partneri.piratecbd.cz CNAME .
 partneri.plantobesto.com CNAME .
 partneri.portske.cz CNAME .
@@ -1007,6 +1011,7 @@ www.affilbox.mironet.cz CNAME .
 www.affilo.cz CNAME .
 www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
+affil.myface.cz CNAME .
 affiliate.kulturistika.com CNAME .
 login.affiliatesit.cz CNAME .
 partner.janapekna.cz CNAME .

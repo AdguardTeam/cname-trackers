@@ -29,6 +29,8 @@
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
 | video.adsninja.ca | adsninja.b-cdn.net |
 | cdn.adsninja.ca | adsninjacdn.b-cdn.net |
+| cdn.sentinelbi.com | adsninjacdn.b-cdn.net |
+| cdn.sentinelp.com | adsninjacdn.b-cdn.net |
 | cdn.affiliatable.io | affiliatable1.b-cdn.net |
 | contact-gloss-production.accelerator.net | b-cdn.net |
 | assets.diagomics.com | bannieres.b-cdn.net |
@@ -281,8 +283,8 @@
 | cattle.weiss-bregenz.at | deprecated-custom-domains.b-cdn.net |
 | centipede.davimug.com | deprecated-custom-domains.b-cdn.net |
 | centipede.roasted.dev | deprecated-custom-domains.b-cdn.net |
-| centipede.wildbit.com | deprecated-custom-domains.b-cdn.net |
 | cephalopod.nucleus.us | deprecated-custom-domains.b-cdn.net |
+| cephalopod.ospreys.net | deprecated-custom-domains.b-cdn.net |
 | cephalopod.revelio.io | deprecated-custom-domains.b-cdn.net |
 | cephalopod.staff.design | deprecated-custom-domains.b-cdn.net |
 | cheetah.gaptry.com | deprecated-custom-domains.b-cdn.net |
@@ -502,6 +504,7 @@
 | harrier.scdamerica.com.au | deprecated-custom-domains.b-cdn.net |
 | hawk.makroskop.eu | deprecated-custom-domains.b-cdn.net |
 | hawk.mjsarfatti.com | deprecated-custom-domains.b-cdn.net |
+| hawk.tenpipsclub.com | deprecated-custom-domains.b-cdn.net |
 | hedgehog.fightforthefuture.org | deprecated-custom-domains.b-cdn.net |
 | heron.joel.is | deprecated-custom-domains.b-cdn.net |
 | heron.notability.com | deprecated-custom-domains.b-cdn.net |
@@ -585,6 +588,7 @@
 | ladybug.paulstovell.com | deprecated-custom-domains.b-cdn.net |
 | lamprey.carolcassar.com | deprecated-custom-domains.b-cdn.net |
 | lamprey.seagyndavis.com | deprecated-custom-domains.b-cdn.net |
+| landfowl.agoredbuild.com | deprecated-custom-domains.b-cdn.net |
 | landfowl.typegang.com | deprecated-custom-domains.b-cdn.net |
 | landsnail.bindle.io | deprecated-custom-domains.b-cdn.net |
 | landsnail.brownfield.dev | deprecated-custom-domains.b-cdn.net |
@@ -598,6 +602,7 @@
 | lemming.vivian.do | deprecated-custom-domains.b-cdn.net |
 | lemur.a-and-a-trucking.com | deprecated-custom-domains.b-cdn.net |
 | leopard.davidlindahlphoto.com | deprecated-custom-domains.b-cdn.net |
+| leopard.joytotheworld.info | deprecated-custom-domains.b-cdn.net |
 | leopard.laszlo.cloud | deprecated-custom-domains.b-cdn.net |
 | leopard.ui-snippets.dev | deprecated-custom-domains.b-cdn.net |
 | leopard.understandit.se | deprecated-custom-domains.b-cdn.net |
@@ -780,6 +785,7 @@
 | platypus.tompec.com | deprecated-custom-domains.b-cdn.net |
 | platypus.zwei-bags.ch | deprecated-custom-domains.b-cdn.net |
 | polarbear.codeday.org | deprecated-custom-domains.b-cdn.net |
+| polarbear.conermurphy.com | deprecated-custom-domains.b-cdn.net |
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.azettl.net | deprecated-custom-domains.b-cdn.net |
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
@@ -792,6 +798,7 @@
 | prawn.lionsmouth.digital | deprecated-custom-domains.b-cdn.net |
 | primate.logology.co | deprecated-custom-domains.b-cdn.net |
 | primate.oleggera.com | deprecated-custom-domains.b-cdn.net |
+| primate.philipithomas.com | deprecated-custom-domains.b-cdn.net |
 | primate.productcolors.com | deprecated-custom-domains.b-cdn.net |
 | ptarmigan.bridal-hair-and-accessories-now.com | deprecated-custom-domains.b-cdn.net |
 | ptarmigan.codebycorey.com | deprecated-custom-domains.b-cdn.net |
@@ -805,6 +812,7 @@
 | python.casuallyprivate.com | deprecated-custom-domains.b-cdn.net |
 | python.jukejuke.app | deprecated-custom-domains.b-cdn.net |
 | quail.trueglowbylaura.com | deprecated-custom-domains.b-cdn.net |
+| quelea.llresearch.dev | deprecated-custom-domains.b-cdn.net |
 | quokka.bulkbuyhosting.com | deprecated-custom-domains.b-cdn.net |
 | quokka.curbnumberpro.com | deprecated-custom-domains.b-cdn.net |
 | quokka.howrightnow.org | deprecated-custom-domains.b-cdn.net |
@@ -977,7 +985,6 @@
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
 | treefrog.mii-chi.app | deprecated-custom-domains.b-cdn.net |
 | treefrog.walkingwithdaddy.com | deprecated-custom-domains.b-cdn.net |
-| trout.batzo.net | deprecated-custom-domains.b-cdn.net |
 | trout.openfpl.com | deprecated-custom-domains.b-cdn.net |
 | trout.travelmassive.com | deprecated-custom-domains.b-cdn.net |
 | tuna.ajaymantri.com | deprecated-custom-domains.b-cdn.net |

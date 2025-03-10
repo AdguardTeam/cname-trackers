@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ utiq.cuisineactuelle.fr CNAME .
 utiq.dacia.fr CNAME .
 utiq.dasgelbeblatt.de CNAME .
 utiq.desired.de CNAME .
+utiq.diaridegirona.cat CNAME .
 utiq.diariocordoba.com CNAME .
 utiq.diariodeibiza.es CNAME .
 utiq.diariodelaltoaragon.es CNAME .
@@ -200,6 +201,7 @@ utiq.letelegramme.fr CNAME .
 utiq.levante-emv.com CNAME .
 utiq.lexpress.fr CNAME .
 utiq.liberation-champagne.fr CNAME .
+utiq.lidl.de CNAME .
 utiq.lindependant.fr CNAME .
 utiq.lne.es CNAME .
 utiq.lunion.fr CNAME .

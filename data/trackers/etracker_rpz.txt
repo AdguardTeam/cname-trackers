@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ click.easycosmetic.be CNAME .
 click.easycosmetic.ch CNAME .
 click.easycosmetic.de CNAME .
 click.easycosmetic.nl CNAME .
+controlling.bartenbach.de CNAME .
 ct.krauss.app CNAME .
 ctrl.guenther.de CNAME .
 data.drhauschka.de CNAME .

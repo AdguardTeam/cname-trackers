@@ -49,6 +49,7 @@ tr.asp0085.espmp-nifr.net
 tr.asp008y.espmp-nifr.net
 tr.asp009j.espmp-aufr.net
 tr.asp009k.espmp-cufr.net
+tr.asp009m.espmp-agfr.net
 tr.asp00a0.espmp-cufr.net
 tr.asp00a1.espmp-agfr.net
 tr.asp00a3.espmp-agfr.net
@@ -139,7 +140,6 @@ tr.bati-partner.be
 tr.bati-partners.be
 tr.batirenover.info
 tr.batiweb.co
-tr.batiwebmedia.com
 tr.bees.espmp-aufr.net
 tr.bel-pros.be
 tr.bern.espmp-nifr.net
@@ -1024,6 +1024,7 @@ tr.quotes4business.com
 tr.quotes4business.info
 tr.quotesforbusiness.cl
 tr.quotesforbusiness.co.uk
+tr.quotesforbusiness.mx
 tr.ratm.espmp-agfr.net
 tr.raym.espmp-agfr.net
 tr.reactivation.vertbaudet.fr

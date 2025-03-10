@@ -19,6 +19,7 @@
     * bostonglobe-ssl.extole.com
     * calstate-aaa.extole.com
     * carbonite-ssl.extole.com
+    * centier.extole.com
     * checkngo.extole.com
     * chubbies.extole.com
     * citizen-times.extole.com
@@ -286,6 +287,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
@@ -306,6 +308,7 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -466,6 +469,7 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
+    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -520,7 +524,6 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
-    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -572,6 +575,7 @@
     * uvacreditunion.extole.io
     * vayasleep.extole.io
     * vcu.extole.io
+    * verizon.extole.io
     * viktor-rolf.extole.io
     * virginvoyages.extole.io
     * visions.extole.io
@@ -592,7 +596,6 @@
     * wombat.extole.io
     * wrangler.extole.io
     * xfinity.extole.io
-    * yogaworks.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
     * zenwork.extole.io
@@ -729,6 +732,7 @@
 | refer.catfootwear.com | catfootwear.extole.io |
 | share.cefaly.com | cefaly.extole.io |
 | share.cellcom.ca | cellcom.extole.io |
+| www.refercentier.com | centier.extole.com |
 | refer.centier.com | centier.extole.io |
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
@@ -851,6 +855,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
@@ -933,6 +938,7 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1170,6 +1176,7 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
+| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1240,7 +1247,6 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
-| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1329,6 +1335,7 @@
 | refer.vayasleep.com | vayasleep.extole.io |
 | share.vcu.com | vcu.extole.io |
 | refer.verabradley.com | verabradley.extole.com |
+| referabusiness.verizon.com | verizon.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |
 | share.vimeo.com | vimeo.extole.com |
 | share.virginvoyages.com | virginvoyages.extole.io |
@@ -1365,7 +1372,6 @@
 | www.refer.xfinity.com | xfinity.extole.io |
 | xtl._domainkey.forgetrust.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
-| share.yogaworks.com | yogaworks.extole.io |
 | share.zenbusiness.com | zenbusiness.extole.io |
 | refer.zentrointernet.com | zentrointernet.extole.io |
 | refer.1099online.com | zenwork.extole.io |

@@ -187,6 +187,7 @@ affiliate.ladylab.sk
 affiliate.lasamba.cz
 affiliate.lasun.cz
 affiliate.lavycosmetics.com
+affiliate.lechocolat.cz
 affiliate.lentiamo.be
 affiliate.lentiamo.bg
 affiliate.lentiamo.ch
@@ -301,6 +302,7 @@ box.cryptokingdom.tech
 box.kryptotrejder.sk
 brana.ritualyomlazeni.cz
 collab.zdravetricko.cz
+cryptonow.algomoneo.com
 dbsaysnba4ygmwav.algomoneo.com
 dekovacka.stickersmakers.cz
 devaff.bitcoinzmenaren.sk
@@ -619,6 +621,7 @@ partner.lascivni.cz
 partner.leadingtechnologies.cz
 partner.legalni-konopi.cz
 partner.lehatkapropsy.cz
+partner.lekarna.cz
 partner.lemurak.cz
 partner.lenkahomeopatie.cz
 partner.levanduloveudoli.cz
@@ -871,6 +874,7 @@ partneri.onlinelearning.cz
 partneri.onlinestar.cz
 partneri.oportskem.cz
 partneri.palmknihy.cz
+partneri.piercing.cz
 partneri.piratecbd.cz
 partneri.plantobesto.com
 partneri.portske.cz
@@ -996,6 +1000,7 @@ www.affilbox.mironet.cz
 www.affilo.cz
 www.partner.hubatacernoska.cz
 www.partneri.zuzanaondrisova.sk
+affil.myface.cz
 affiliate.kulturistika.com
 login.affiliatesit.cz
 partner.janapekna.cz

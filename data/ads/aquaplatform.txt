@@ -38,6 +38,9 @@
 ||advertising.goldseek.com^
 ||adwin.geenstijl.nl^
 ||adztech-images.reviveservers.com^
+||api.ad.logic-prod.viasat.io^
+||api.ad.logic-test.viasat.io^
+||api.ad.logic.viasat.io^
 ||api.adbility-media.com^
 ||api.metrike.com^
 ||assets.lintigroup.se^
@@ -79,6 +82,7 @@
 ||console.isn.nl^
 ||console.livingmagonline.com^
 ||console.mannixmarketing.com^
+||console.miningweekly.com^
 ||console.myadsmyanmar.com^
 ||console.revive-adserver.net^
 ||console.sacommunications.com^
@@ -100,6 +104,7 @@
 ||images.worldofshowjumping.com^
 ||informatm-static.reviveservers.com^
 ||lalala.geenstijl.nl^
+||marriagetrac-delivery.reviveservers.com^
 ||media360ads.midtc.com^
 ||omroepflevoland-static.reviveservers.com^
 ||omropfryslan-delivery.reviveservers.com^
@@ -155,6 +160,7 @@
 ||servedby.schrotundkorn.de^
 ||servedby.tahoe.com^
 ||servedby.trackandfieldnews.com^
+||servedby.walaplusadserver.com^
 ||server.ad.logic-prod.viasat.io^
 ||server.ad.logic.viasat.io^
 ||static.ad.logic-prod.viasat.io^
@@ -214,6 +220,7 @@
 ||www.proforums.com^
 ||www.revive-static.worldscreen.com^
 ||www.revive.ahk.de^
+||www.revive.worldscreen.com^
 ||www.servedby.cincinnatimagazine.com^
 ||www.servedby.geminipub.com^
 ||www.servedby.greenspring.com^
@@ -223,6 +230,7 @@
 ||www.servedby.sacommunications.com^
 ||www.servedby.schrotundkorn.de^
 ||www.static.ad.logic-test.viasat.io^
+||www.static.everythingnevada.com^
 ||www.static.healthcarescene.com^
 ||www.static.imagineobx.com^
 ||www.static.livingmagonline.com^

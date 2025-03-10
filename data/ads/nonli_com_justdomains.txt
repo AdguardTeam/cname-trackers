@@ -164,6 +164,7 @@ l.terrafemina.com
 l.tf1.fr
 l.tf1info.fr
 l.theafricareport.com
+l.thegoodlife.fr
 l.topmusic.fr
 l.topsante.com
 l.touteleurope.eu

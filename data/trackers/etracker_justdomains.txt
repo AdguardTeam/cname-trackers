@@ -12,6 +12,7 @@ click.easycosmetic.be
 click.easycosmetic.ch
 click.easycosmetic.de
 click.easycosmetic.nl
+controlling.bartenbach.de
 ct.krauss.app
 ctrl.guenther.de
 data.drhauschka.de

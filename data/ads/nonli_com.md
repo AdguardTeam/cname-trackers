@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * non.li
+    * l.non.li
     * origin.non.li
     * tls-ebra.non.li
     * tls-lp-cm.non.li
@@ -13,6 +14,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| c.leparisien.fr | l.non.li |
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |
@@ -198,6 +200,7 @@
 | l.tf1.fr | tls.non.li |
 | l.tf1info.fr | tls.non.li |
 | l.theafricareport.com | tls.non.li |
+| l.thegoodlife.fr | tls.non.li |
 | l.topmusic.fr | tls.non.li |
 | l.topsante.com | tls.non.li |
 | l.touteleurope.eu | tls.non.li |

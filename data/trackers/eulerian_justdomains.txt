@@ -75,6 +75,7 @@ csv4.ebs-paris.fr
 ct5m.citadium.com
 cvi6.destinia.qa
 cyf9.destinia.cl
+d2u.dauphinquebec.com
 dbj.quebecregion.com
 deut1.fdj.fr
 deut2.fdj.fr
@@ -139,7 +140,6 @@ ea.millet-mountain.com
 ea.millet-mountain.de
 ea.millet.fr
 ea.mistergatesdirect.com
-ea.mnt.fr
 ea.mondial-assistance.fr
 ea.mydailyhotel.com
 ea.mywarner.warnerbros.fr
@@ -255,6 +255,7 @@ h00c.sfr.fr
 hbo5.concours-pass.com
 hby7.destinia.it
 hde1.repentignychevrolet.com
+hk2d.tourismemauricie.com
 hkj8.evobanco.com
 idg1.idgarages.com
 igc0.destinia.at
@@ -315,7 +316,6 @@ nlf6.vente-unique.pl
 nmu3.destinia.be
 noa0.compteczam.fr
 nrg.red-by-sfr.fr
-nym5c.bonlook.com
 nym5c.laura.ca
 nyt1.biosens-leanature.fr
 o68c.sfr.fr
@@ -487,10 +487,10 @@ zyq2.destinia.sk
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
 d0f.le-dauphin.com
-d2u.dauphinquebec.com
 eat9.thebeat925.ca
-hk2d.tourismemauricie.com
+nym5c.bonlook.com
 su1.les-suites.ca
 yio.tremblant.ca
+ea.mnt.fr
 gi7a.structube.com
 pk1u.melanielyne.com

@@ -58,6 +58,7 @@
 ||tp.helline.fr^
 ||tp.imwalking.de^
 ||tp.jelmoli-shop.ch^
+||tp.lascana.at^
 ||tp.lascana.ch^
 ||tp.limango.de^
 ||tp.mirapodo.de^

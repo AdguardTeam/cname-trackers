@@ -3,6 +3,7 @@
 ||a.50-nuances-octets.fr^
 ||anal.sataniskwijt.be^
 ||analytics.astuto.io^
+||analytics.bytewave.net^
 ||analytics.code.dccouncil.gov^
 ||analytics.code.dccouncil.us^
 ||analytics.demo.plateau.ng.open.law^

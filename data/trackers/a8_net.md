@@ -70,6 +70,7 @@
 | a8.casie.jp | trck.a8.net |
 | a8.cbd-cosme.jp | trck.a8.net |
 | a8.cbd-oil.jp | trck.a8.net |
+| a8.cbdfx.jp | trck.a8.net |
 | a8.cbiz.io | trck.a8.net |
 | a8.centarc.com | trck.a8.net |
 | a8.chat-lady.jp | trck.a8.net |
@@ -237,6 +238,7 @@
 | a8.nengajyo.co.jp | trck.a8.net |
 | a8.neur.jp | trck.a8.net |
 | a8.next-hikari.jp | trck.a8.net |
+| a8.next-mobile.jp | trck.a8.net |
 | a8.nezumi-kanzentaiji.com | trck.a8.net |
 | a8.nosh.jp | trck.a8.net |
 | a8.novicetokyo.com | trck.a8.net |
@@ -649,19 +651,20 @@
 | a8clk.resortbaito-dive.com | trck.a8.net |
 | a8clk.rf28.com | trck.a8.net |
 | a8clk.risou.com | trck.a8.net |
+| a8clk.rose-cleaning.net | trck.a8.net |
 | a8clk.satei-meijin.com | trck.a8.net |
 | a8clk.secure.freee.co.jp | trck.a8.net |
 | a8clk.secure.jetboy.jp | trck.a8.net |
 | a8clk.segatoys.com | trck.a8.net |
 | a8clk.service.ridera-inc.com | trck.a8.net |
 | a8clk.shadoten.com | trck.a8.net |
-| a8clk.shareboss.net | trck.a8.net |
 | a8clk.shikaku-square.com | trck.a8.net |
 | a8clk.shinnihon-seminar.com | trck.a8.net |
 | a8clk.shoes.regal.co.jp | trck.a8.net |
 | a8clk.shokutakubin.com | trck.a8.net |
 | a8clk.shop.echigofuton.jp | trck.a8.net |
 | a8clk.shop.kitamura.jp | trck.a8.net |
+| a8clk.shop.oishiiplus.com | trck.a8.net |
 | a8clk.shop.saraya.com | trck.a8.net |
 | a8clk.shop.sunsorit.co.jp | trck.a8.net |
 | a8clk.shop.tanita.co.jp | trck.a8.net |
@@ -753,6 +756,7 @@
 | a8clk.www.workport.co.jp | trck.a8.net |
 | a8clk.www.xebiocard.co.jp | trck.a8.net |
 | a8clk.www.zwei.com | trck.a8.net |
+| a8clk.xbit.jp | trck.a8.net |
 | a8clk.xn--t8jx01hmvbgye566gd1f.com | trck.a8.net |
 | a8clk.xserver.ne.jp | trck.a8.net |
 | a8clk.y-station.net | trck.a8.net |
@@ -824,6 +828,7 @@
 | a8cv.bettysbeauty.jp | trck.a8.net |
 | a8cv.beyondvape.jp | trck.a8.net |
 | a8cv.bfg.benesse.ne.jp | trck.a8.net |
+| a8cv.bh-collect.jp | trck.a8.net |
 | a8cv.biken-mall.jp | trck.a8.net |
 | a8cv.biz-maps.com | trck.a8.net |
 | a8cv.bizcircle.jp | trck.a8.net |
@@ -1073,6 +1078,7 @@
 | a8cv.leverage-learning.com | trck.a8.net |
 | a8cv.lianest.co.jp | trck.a8.net |
 | a8cv.lifenrich.co.jp | trck.a8.net |
+| a8cv.livechat-berry.com | trck.a8.net |
 | a8cv.lp.nalevi.mynavi.jp | trck.a8.net |
 | a8cv.lp.x-house.co.jp | trck.a8.net |
 | a8cv.lvs.jp | trck.a8.net |
@@ -1411,6 +1417,7 @@
 | acv.auhikari-norikae.com | trck.a8.net |
 | acv.aun-air-wifi.com | trck.a8.net |
 | acv.aun-company.com | trck.a8.net |
+| acv.aun-n-hikari.com | trck.a8.net |
 | acv.aun-softbank-hikari.com | trck.a8.net |
 | acv.auncompany.co.jp | trck.a8.net |
 | acv.biglobe-hikari.net | trck.a8.net |
@@ -1420,6 +1427,7 @@
 | acv.internet-moushikomi.net | trck.a8.net |
 | acv.kyushu-internet.com | trck.a8.net |
 | acv.mc-doctor.net | trck.a8.net |
+| acv.mc-kaigo.net | trck.a8.net |
 | acv.mc-nurse.net | trck.a8.net |
 | acv.mc-pharma.net | trck.a8.net |
 | acv.me-hikari.net | trck.a8.net |
@@ -1448,7 +1456,6 @@
 | af.gmobile.biz | trck.a8.net |
 | af.shozankan-shop.com | trck.a8.net |
 | afcv.champ-shop.com | trck.a8.net |
-| afep.pivn.shop | trck.a8.net |
 | affa8.hikkoshi-master.com | trck.a8.net |
 | afficv.lettuce.co.jp | trck.a8.net |
 | affiliate.couleur-labo.com | trck.a8.net |
@@ -1627,7 +1634,6 @@
 | trcka8net.lenszero.com | trck.a8.net |
 | trcka8net.qieto.net | trck.a8.net |
 | trialapp.live-english.co.jp | trck.a8.net |
-| web.collaboration-access.com | trck.a8.net |
 | webcv.advan-corp.co.jp | trck.a8.net |
 | webtest.lpio.jp | trck.a8.net |
 | www.a8clk.amelia.ne.jp | trck.a8.net |

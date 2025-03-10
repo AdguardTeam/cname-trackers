@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -299,11 +299,13 @@ web.email.superga.co.uk CNAME .
 web.email.topfarmacia.it CNAME .
 web.email.turtlebay.co.uk CNAME .
 web.email.umbro.co.uk CNAME .
+web.enews.lenotre.fr CNAME .
 web.ideaautorepair.com CNAME .
 web.info.aiteca.it CNAME .
 web.info.bodybuildingwarehouse.co.uk CNAME .
 web.info.bodybuildingwarehouse.com CNAME .
 web.info.bonprix.es CNAME .
+web.info.bonprix.fi CNAME .
 web.info.teamwarrior.com CNAME .
 web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
@@ -348,6 +350,7 @@ web.newsletter.koffer-to-go.de CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.newsletterit.esprinet.com CNAME .
 web.online.monnalisa.com CNAME .
+web.pondenhome-mail.com CNAME .
 web.post.toa.st CNAME .
 web.powgen.it CNAME .
 web.redazione.italiaoggi.it CNAME .
@@ -393,6 +396,7 @@ web.updates.ditano.com CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 web2.updates.ditano.com CNAME .
+webanalytics.also.ch CNAME .
 webanalytics.also.com CNAME .
 webanalytics.also.pt CNAME .
 webmet.creditreform-mahnwesen.de CNAME .

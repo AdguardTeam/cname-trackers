@@ -22,6 +22,7 @@
     * boringproxy-io.goatcounter.com
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
+    * bwc.goatcounter.com
     * cassie.goatcounter.com
     * celerry.goatcounter.com
     * cgcristi.goatcounter.com
@@ -157,6 +158,7 @@
 | stats.boringproxy.io | boringproxy-io.goatcounter.com |
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
+| analytics.bytewave.net | bwc.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
 | stats.cgcristi.xyz | cgcristi.goatcounter.com |

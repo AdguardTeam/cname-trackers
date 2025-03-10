@@ -82,6 +82,7 @@
 | utiq.dacia.fr | frontend.prod.utiq-aws.net |
 | utiq.dasgelbeblatt.de | frontend.prod.utiq-aws.net |
 | utiq.desired.de | frontend.prod.utiq-aws.net |
+| utiq.diaridegirona.cat | frontend.prod.utiq-aws.net |
 | utiq.diariocordoba.com | frontend.prod.utiq-aws.net |
 | utiq.diariodeibiza.es | frontend.prod.utiq-aws.net |
 | utiq.diariodelaltoaragon.es | frontend.prod.utiq-aws.net |
@@ -196,6 +197,7 @@
 | utiq.levante-emv.com | frontend.prod.utiq-aws.net |
 | utiq.lexpress.fr | frontend.prod.utiq-aws.net |
 | utiq.liberation-champagne.fr | frontend.prod.utiq-aws.net |
+| utiq.lidl.de | frontend.prod.utiq-aws.net |
 | utiq.lindependant.fr | frontend.prod.utiq-aws.net |
 | utiq.lne.es | frontend.prod.utiq-aws.net |
 | utiq.lunion.fr | frontend.prod.utiq-aws.net |

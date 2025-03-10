@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,6 +49,9 @@ adv.unionesarda.it CNAME .
 advertising.goldseek.com CNAME .
 adwin.geenstijl.nl CNAME .
 adztech-images.reviveservers.com CNAME .
+api.ad.logic-prod.viasat.io CNAME .
+api.ad.logic-test.viasat.io CNAME .
+api.ad.logic.viasat.io CNAME .
 api.adbility-media.com CNAME .
 api.metrike.com CNAME .
 assets.lintigroup.se CNAME .
@@ -90,6 +93,7 @@ console.insideradverts.com CNAME .
 console.isn.nl CNAME .
 console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
+console.miningweekly.com CNAME .
 console.myadsmyanmar.com CNAME .
 console.revive-adserver.net CNAME .
 console.sacommunications.com CNAME .
@@ -111,6 +115,7 @@ images.swiss-equestrian.ch CNAME .
 images.worldofshowjumping.com CNAME .
 informatm-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
+marriagetrac-delivery.reviveservers.com CNAME .
 media360ads.midtc.com CNAME .
 omroepflevoland-static.reviveservers.com CNAME .
 omropfryslan-delivery.reviveservers.com CNAME .
@@ -166,6 +171,7 @@ servedby.sacommunications.com CNAME .
 servedby.schrotundkorn.de CNAME .
 servedby.tahoe.com CNAME .
 servedby.trackandfieldnews.com CNAME .
+servedby.walaplusadserver.com CNAME .
 server.ad.logic-prod.viasat.io CNAME .
 server.ad.logic.viasat.io CNAME .
 static.ad.logic-prod.viasat.io CNAME .
@@ -225,6 +231,7 @@ www.lalala.geenstijl.nl CNAME .
 www.proforums.com CNAME .
 www.revive-static.worldscreen.com CNAME .
 www.revive.ahk.de CNAME .
+www.revive.worldscreen.com CNAME .
 www.servedby.cincinnatimagazine.com CNAME .
 www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
@@ -234,6 +241,7 @@ www.servedby.quirks.com CNAME .
 www.servedby.sacommunications.com CNAME .
 www.servedby.schrotundkorn.de CNAME .
 www.static.ad.logic-test.viasat.io CNAME .
+www.static.everythingnevada.com CNAME .
 www.static.healthcarescene.com CNAME .
 www.static.imagineobx.com CNAME .
 www.static.livingmagonline.com CNAME .

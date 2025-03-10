@@ -25,6 +25,7 @@
 | click.easycosmetic.ch | customer.etracker.com |
 | click.easycosmetic.de | customer.etracker.com |
 | click.easycosmetic.nl | customer.etracker.com |
+| controlling.bartenbach.de | customer.etracker.com |
 | ct.krauss.app | customer.etracker.com |
 | ctrl.guenther.de | customer.etracker.com |
 | data.drhauschka.de | customer.etracker.com |

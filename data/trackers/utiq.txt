@@ -75,6 +75,7 @@
 ||utiq.dacia.fr^
 ||utiq.dasgelbeblatt.de^
 ||utiq.desired.de^
+||utiq.diaridegirona.cat^
 ||utiq.diariocordoba.com^
 ||utiq.diariodeibiza.es^
 ||utiq.diariodelaltoaragon.es^
@@ -189,6 +190,7 @@
 ||utiq.levante-emv.com^
 ||utiq.lexpress.fr^
 ||utiq.liberation-champagne.fr^
+||utiq.lidl.de^
 ||utiq.lindependant.fr^
 ||utiq.lne.es^
 ||utiq.lunion.fr^

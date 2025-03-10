@@ -56,6 +56,7 @@
 ||a8.casie.jp^
 ||a8.cbd-cosme.jp^
 ||a8.cbd-oil.jp^
+||a8.cbdfx.jp^
 ||a8.cbiz.io^
 ||a8.centarc.com^
 ||a8.chat-lady.jp^
@@ -223,6 +224,7 @@
 ||a8.nengajyo.co.jp^
 ||a8.neur.jp^
 ||a8.next-hikari.jp^
+||a8.next-mobile.jp^
 ||a8.nezumi-kanzentaiji.com^
 ||a8.nosh.jp^
 ||a8.novicetokyo.com^
@@ -635,19 +637,20 @@
 ||a8clk.resortbaito-dive.com^
 ||a8clk.rf28.com^
 ||a8clk.risou.com^
+||a8clk.rose-cleaning.net^
 ||a8clk.satei-meijin.com^
 ||a8clk.secure.freee.co.jp^
 ||a8clk.secure.jetboy.jp^
 ||a8clk.segatoys.com^
 ||a8clk.service.ridera-inc.com^
 ||a8clk.shadoten.com^
-||a8clk.shareboss.net^
 ||a8clk.shikaku-square.com^
 ||a8clk.shinnihon-seminar.com^
 ||a8clk.shoes.regal.co.jp^
 ||a8clk.shokutakubin.com^
 ||a8clk.shop.echigofuton.jp^
 ||a8clk.shop.kitamura.jp^
+||a8clk.shop.oishiiplus.com^
 ||a8clk.shop.saraya.com^
 ||a8clk.shop.sunsorit.co.jp^
 ||a8clk.shop.tanita.co.jp^
@@ -740,6 +743,7 @@
 ||a8clk.www.workport.co.jp^
 ||a8clk.www.xebiocard.co.jp^
 ||a8clk.www.zwei.com^
+||a8clk.xbit.jp^
 ||a8clk.xn--t8jx01hmvbgye566gd1f.com^
 ||a8clk.xserver.ne.jp^
 ||a8clk.y-station.net^
@@ -811,6 +815,7 @@
 ||a8cv.bettysbeauty.jp^
 ||a8cv.beyondvape.jp^
 ||a8cv.bfg.benesse.ne.jp^
+||a8cv.bh-collect.jp^
 ||a8cv.biken-mall.jp^
 ||a8cv.biz-maps.com^
 ||a8cv.bizcircle.jp^
@@ -1060,6 +1065,7 @@
 ||a8cv.leverage-learning.com^
 ||a8cv.lianest.co.jp^
 ||a8cv.lifenrich.co.jp^
+||a8cv.livechat-berry.com^
 ||a8cv.lp.nalevi.mynavi.jp^
 ||a8cv.lp.x-house.co.jp^
 ||a8cv.lvs.jp^
@@ -1398,6 +1404,7 @@
 ||acv.auhikari-norikae.com^
 ||acv.aun-air-wifi.com^
 ||acv.aun-company.com^
+||acv.aun-n-hikari.com^
 ||acv.aun-softbank-hikari.com^
 ||acv.auncompany.co.jp^
 ||acv.biglobe-hikari.net^
@@ -1407,6 +1414,7 @@
 ||acv.internet-moushikomi.net^
 ||acv.kyushu-internet.com^
 ||acv.mc-doctor.net^
+||acv.mc-kaigo.net^
 ||acv.mc-nurse.net^
 ||acv.mc-pharma.net^
 ||acv.me-hikari.net^
@@ -1435,7 +1443,6 @@
 ||af.gmobile.biz^
 ||af.shozankan-shop.com^
 ||afcv.champ-shop.com^
-||afep.pivn.shop^
 ||affa8.hikkoshi-master.com^
 ||afficv.lettuce.co.jp^
 ||affiliate.couleur-labo.com^
@@ -1616,7 +1623,6 @@
 ||trcka8net.lenszero.com^
 ||trcka8net.qieto.net^
 ||trialapp.live-english.co.jp^
-||web.collaboration-access.com^
 ||webcv.advan-corp.co.jp^
 ||webtest.lpio.jp^
 ||www.a8clk.amelia.ne.jp^

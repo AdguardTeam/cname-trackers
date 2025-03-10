@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -130,15 +130,18 @@ share.worldmarket.com CNAME .
 social.fabkids.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
+www.refercentier.com CNAME .
 www.trevoce.com CNAME .
 acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em225.codecademy.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
 em924.refer.starbucks.com CNAME .
+emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -433,6 +436,7 @@ refer.zipcar.com CNAME .
 refer.zomasleep.com CNAME .
 refer1.dollskill.com CNAME .
 refer1.experian.com CNAME .
+referabusiness.verizon.com CNAME .
 referacct.quickbooks.intuit.co.uk CNAME .
 referafriend.comcast.com CNAME .
 referafriend.discover.com CNAME .
@@ -752,7 +756,6 @@ share.whiparound.com CNAME .
 share.whistle.com CNAME .
 share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
-share.yogaworks.com CNAME .
 share.zenbusiness.com CNAME .
 ufsmdjkg1zhzcx9i.extoleu.com CNAME .
 www.parrainage-quickbooks.fr CNAME .
@@ -765,10 +768,8 @@ em1476.princesscruises.com CNAME .
 em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em767.forgetrust.com CNAME .
-em8561.go2bank.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em8928.em.petco.com CNAME .
 em9523.walmartmoneycard.com CNAME .
-emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 sftp.extole.com CNAME .

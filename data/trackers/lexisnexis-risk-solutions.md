@@ -266,6 +266,7 @@
     * h-bewnb8q4.online-metrix.net
     * h-beyondbank.online-metrix.net
     * h-bfiiada3-a.online-metrix.net
+    * h-bh34215h.online-metrix.net
     * h-bhs5fatf-2.online-metrix.net
     * h-biggerbooks.online-metrix.net
     * h-bjrekxkm.online-metrix.net
@@ -336,7 +337,6 @@
     * h-citadele.online-metrix.net
     * h-citbank.online-metrix.net
     * h-citcommercial.online-metrix.net
-    * h-citi.vanity.online-metrix.net
     * h-citibank-ae.online-metrix.net
     * h-citibank-au.online-metrix.net
     * h-citibank-cn.online-metrix.net
@@ -758,7 +758,6 @@
     * h-v60nf4oj-wfp.online-metrix.net
     * h-v60nf4oj-xfp.online-metrix.net
     * h-v60nf4oj-zfp.online-metrix.net
-    * h-vacations.united.online-metrix.net
     * h-vanguard.online-metrix.net
     * h-vedacheck.online-metrix.net
     * h-verizon.online-metrix.net
@@ -954,6 +953,7 @@
 | content002.bet365.mx | h-47z24dz9.online-metrix.net |
 | content002.bet365.nl | h-47z24dz9.online-metrix.net |
 | content002.bet365.pe | h-47z24dz9.online-metrix.net |
+| content002.bet365.rs | h-47z24dz9.online-metrix.net |
 | content.ofx.com | h-4a04ohow.online-metrix.net |
 | content.midi.io | h-4f0drex6.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
@@ -1302,6 +1302,7 @@
 | secure.idbank.it | h-bewnb8q4.online-metrix.net |
 | tmx.beyondbank.com.au | h-beyondbank.online-metrix.net |
 | jplspr.jackpot.com | h-bfiiada3-a.online-metrix.net |
+| secure-hub.procreditbank.md | h-bh34215h.online-metrix.net |
 | content.byabcd.com | h-bhs5fatf-2.online-metrix.net |
 | content.biggerbooks.com | h-biggerbooks.online-metrix.net |
 | custprof.t-mobile.com | h-bjrekxkm.online-metrix.net |
@@ -1409,7 +1410,6 @@
 | content.bankoncit.com | h-citbank.online-metrix.net |
 | content.citbankapp.cit.com | h-citbank.online-metrix.net |
 | contentfd.directcapital.com | h-citcommercial.online-metrix.net |
-| uatidentity4.citidirect.com | h-citi.vanity.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
 | content22.citibank.com.cn | h-citibank-cn.online-metrix.net |
@@ -1959,8 +1959,6 @@
 | wfp.intuit.com | h-v60nf4oj-wfp.online-metrix.net |
 | xfp.intuit.com | h-v60nf4oj-xfp.online-metrix.net |
 | zfp.intuit.com | h-v60nf4oj-zfp.online-metrix.net |
-| analytics.vacations.united.com | h-vacations.united.online-metrix.net |
-| ualaki-analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | tmx.esfp.c1.vanguard.com | h-vanguard.online-metrix.net |
 | auth.vedacheck.com.au | h-vedacheck.online-metrix.net |
 | tsaian.verizonwireless.com | h-verizon.online-metrix.net |

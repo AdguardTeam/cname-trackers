@@ -430,6 +430,7 @@
 3428069.notifysrv.com
 3429075.notify6.com
 3432573.notify6.com
+3433739.notify6.com
 3434551.notify6.com
 3436909.notify6.com
 3437433.notifysrv.com
@@ -523,6 +524,7 @@
 3498081.notifysrv.com
 3498171.notify6.com
 3501655.notify6.com
+3501655.notifysrv.com
 3501923.notify6.com
 3505119.notify6.com
 3505123.notify6.com
@@ -784,6 +786,7 @@
 3745191.notifysrv.com
 3745197.notify6.com
 3749331.notify6.com
+3752387.notifysrv.com
 3752469.notifysrv.com
 3756889.notifysrv.com
 3762001.notifysrv.com
@@ -1041,6 +1044,7 @@
 4292982.notify6.com
 4298194.notify6.com
 4300970.notify6.com
+4303788.notify6.com
 4305016.notify6.com
 4305094.notify6.com
 4306130.notify6.com
@@ -1189,19 +1193,17 @@
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
 a.18ramp.com
-a.344eva.com
 a.advantageclicks.net
-a.advertrek.com
 a.b7q9v8z.com
-a.bizonads-ssp.com
 a.cant3am.com
+a.etology.com
 a.eunow4u.com
+a.huklop.com
 a.ma3ion.com
 a.mx.notifysrv.com
 a.n4m5x60.com
 a.ns.notifysrv.com
 a.optimizesrv.com
-a.ouzads.com
 a.playa.to
 a.q88z1s3.com
 a.tf4srv.com
@@ -1226,7 +1228,6 @@ admin1.notifysrv.com
 administration.notifysrv.com
 admissions.notifysrv.com
 adrepository.opoxv.com
-ads.optimizesrv.com
 ads.toroadvertising.com
 adult.notifysrv.com
 android.notifysrv.com
@@ -1330,6 +1331,8 @@ s.dsb68d.com
 s.dsceay.com
 s.dsd8vc.com
 s.dseb0x.com
+s.dsebx6.com
+s.dsejln.com
 s.eaalink.com
 s.elink2b.com
 s.elink2c.com
@@ -1366,6 +1369,7 @@ s.elnn22.com
 s.elnn26.com
 s.elnp11.com
 s.elnp12.com
+s.elnp13.com
 s.elnr14.com
 s.elnr15.com
 s.elnr16.com
@@ -1579,10 +1583,13 @@ www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
+a.344eva.com
 a.adsession.com
+a.advertrek.com
 a.asvsm.com
-a.etology.com
-a.huklop.com
+a.bizonads-ssp.com
+a.ouzads.com
 a.r8lnet.com
 a.rocoads.net
 a.santabrowser.com
+ads.optimizesrv.com

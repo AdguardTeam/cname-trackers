@@ -295,6 +295,7 @@ euglism.euglenaone.jp
 frontierconsul02.tsunagaru-office.com
 greenjapan-cname.green-japan.com
 hokkaidobank.rapi.jp
+hoxsin-ad.hoxsin.co.jp
 isebis.takamiclinic.or.jp
 isebis.yutoriform.com
 itp.phoebebeautyup.com

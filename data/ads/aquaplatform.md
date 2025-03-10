@@ -34,6 +34,7 @@
     * console.aquaplatform.com
     * consulcesi-delivery.aquaplatform.com
     * consulcesi-static.aquaplatform.com
+    * creamer-console.aquaplatform.com
     * creamer-delivery.aquaplatform.com
     * creamer-static.aquaplatform.com
     * datateam-console.aquaplatform.com
@@ -175,6 +176,7 @@
 | console.aqua-adserver.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
+| console.miningweekly.com | creamer-console.aquaplatform.com |
 | servedby.engineeringnews.co.za | creamer-delivery.aquaplatform.com |
 | servedby.miningweekly.com | creamer-delivery.aquaplatform.com |
 | servedby.polity.org.za | creamer-delivery.aquaplatform.com |
@@ -199,6 +201,7 @@
 | adserver.kozoom.com | geodelivery.aquaplatform.com |
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
 | servedby.quirks.com | geodelivery.aquaplatform.com |
+| servedby.walaplusadserver.com | geodelivery.aquaplatform.com |
 | www.servedby.quirks.com | geodelivery.aquaplatform.com |
 | advertising.goldseek.com | goldseek-delivery.aquaplatform.com |
 | creatives.goldseek.com | goldseek-static.aquaplatform.com |
@@ -262,6 +265,7 @@
 | static.everythingcolorado.com | oneboat-static.aquaplatform.com |
 | static.everythingnevada.com | oneboat-static.aquaplatform.com |
 | static.imagineobx.com | oneboat-static.aquaplatform.com |
+| www.static.everythingnevada.com | oneboat-static.aquaplatform.com |
 | www.static.imagineobx.com | oneboat-static.aquaplatform.com |
 | console.adspmg.com | pamplin-console.aquaplatform.com |
 | cdn.adspmg.com | pamplin-static.aquaplatform.com |
@@ -284,6 +288,7 @@
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
+| marriagetrac-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
@@ -349,6 +354,9 @@
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
 | cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
 | www.cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
+| api.ad.logic-prod.viasat.io | viasat-console.aquaplatform.com |
+| api.ad.logic-test.viasat.io | viasat-console.aquaplatform.com |
+| api.ad.logic.viasat.io | viasat-console.aquaplatform.com |
 | console.ad.logic.viasat.io | viasat-console.aquaplatform.com |
 | server.ad.logic-prod.viasat.io | viasat-delivery.aquaplatform.com |
 | server.ad.logic.viasat.io | viasat-delivery.aquaplatform.com |
@@ -356,6 +364,7 @@
 | static.ad.logic-test.viasat.io | viasat-static.aquaplatform.com |
 | www.static.ad.logic-test.viasat.io | viasat-static.aquaplatform.com |
 | revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
+| www.revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
 | revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
 | www.revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
 | treehouse.wwoz.org | wwoz-delivery.aquaplatform.com |

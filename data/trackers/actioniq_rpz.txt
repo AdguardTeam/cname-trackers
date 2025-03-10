@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -62,6 +62,7 @@ aiqx.www.ghostbusters.com CNAME .
 anx-new.learnwithhomer.com CNAME .
 anx.learnwithhomer.com CNAME .
 meta-events.backpacker.com CNAME .
+meta-events.betamtb.com CNAME .
 meta-events.betternutrition.com CNAME .
 meta-events.bikereg.com CNAME .
 meta-events.cleaneatingmag.com CNAME .
@@ -94,9 +95,9 @@ meta-events.vegetariantimes.com CNAME .
 meta-events.velonews.com CNAME .
 meta-events.womensrunning.com CNAME .
 meta-events.yellowstonepark.com CNAME .
+mr-in-staging.beginlearning.com CNAME .
 mr-in.beginlearning.com CNAME .
-mr-in.littlepassports.com CNAME .
 mr.pinkbike.com CNAME .
 anx-new.littlepassports.com CNAME .
+mr-in.littlepassports.com CNAME .
 anx-staging.learnwithhomer.com CNAME .
-mr-in-staging.beginlearning.com CNAME .

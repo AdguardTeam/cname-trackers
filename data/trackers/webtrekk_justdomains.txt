@@ -288,11 +288,13 @@ web.email.superga.co.uk
 web.email.topfarmacia.it
 web.email.turtlebay.co.uk
 web.email.umbro.co.uk
+web.enews.lenotre.fr
 web.ideaautorepair.com
 web.info.aiteca.it
 web.info.bodybuildingwarehouse.co.uk
 web.info.bodybuildingwarehouse.com
 web.info.bonprix.es
+web.info.bonprix.fi
 web.info.teamwarrior.com
 web.info.vantastic-foods.com
 web.info.varelotteriet.dk
@@ -337,6 +339,7 @@ web.newsletter.koffer-to-go.de
 web.newsletter.viviennewestwood.com
 web.newsletterit.esprinet.com
 web.online.monnalisa.com
+web.pondenhome-mail.com
 web.post.toa.st
 web.powgen.it
 web.redazione.italiaoggi.it
@@ -382,6 +385,7 @@ web.updates.ditano.com
 web.web.tomasiauto.com
 web.x.ilpost.it
 web2.updates.ditano.com
+webanalytics.also.ch
 webanalytics.also.com
 webanalytics.also.pt
 webmet.creditreform-mahnwesen.de

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ csv4.ebs-paris.fr CNAME .
 ct5m.citadium.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
+d2u.dauphinquebec.com CNAME .
 dbj.quebecregion.com CNAME .
 deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
@@ -150,7 +151,6 @@ ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
-ea.mnt.fr CNAME .
 ea.mondial-assistance.fr CNAME .
 ea.mydailyhotel.com CNAME .
 ea.mywarner.warnerbros.fr CNAME .
@@ -266,6 +266,7 @@ h00c.sfr.fr CNAME .
 hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 hde1.repentignychevrolet.com CNAME .
+hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 igc0.destinia.at CNAME .
@@ -326,7 +327,6 @@ nlf6.vente-unique.pl CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.bonlook.com CNAME .
 nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
@@ -498,10 +498,10 @@ zyq2.destinia.sk CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
-d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
-hk2d.tourismemauricie.com CNAME .
+nym5c.bonlook.com CNAME .
 su1.les-suites.ca CNAME .
 yio.tremblant.ca CNAME .
+ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
 pk1u.melanielyne.com CNAME .

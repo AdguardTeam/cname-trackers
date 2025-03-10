@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,6 +60,7 @@ tr.asp0085.espmp-nifr.net CNAME .
 tr.asp008y.espmp-nifr.net CNAME .
 tr.asp009j.espmp-aufr.net CNAME .
 tr.asp009k.espmp-cufr.net CNAME .
+tr.asp009m.espmp-agfr.net CNAME .
 tr.asp00a0.espmp-cufr.net CNAME .
 tr.asp00a1.espmp-agfr.net CNAME .
 tr.asp00a3.espmp-agfr.net CNAME .
@@ -150,7 +151,6 @@ tr.bati-partner.be CNAME .
 tr.bati-partners.be CNAME .
 tr.batirenover.info CNAME .
 tr.batiweb.co CNAME .
-tr.batiwebmedia.com CNAME .
 tr.bees.espmp-aufr.net CNAME .
 tr.bel-pros.be CNAME .
 tr.bern.espmp-nifr.net CNAME .
@@ -1035,6 +1035,7 @@ tr.quotes4business.com CNAME .
 tr.quotes4business.info CNAME .
 tr.quotesforbusiness.cl CNAME .
 tr.quotesforbusiness.co.uk CNAME .
+tr.quotesforbusiness.mx CNAME .
 tr.ratm.espmp-agfr.net CNAME .
 tr.raym.espmp-agfr.net CNAME .
 tr.reactivation.vertbaudet.fr CNAME .

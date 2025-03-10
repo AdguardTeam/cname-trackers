@@ -332,8 +332,8 @@
 ||cattle.weiss-bregenz.at^
 ||centipede.davimug.com^
 ||centipede.roasted.dev^
-||centipede.wildbit.com^
 ||cephalopod.nucleus.us^
+||cephalopod.ospreys.net^
 ||cephalopod.revelio.io^
 ||cephalopod.staff.design^
 ||cheetah.gaptry.com^
@@ -553,6 +553,7 @@
 ||harrier.scdamerica.com.au^
 ||hawk.makroskop.eu^
 ||hawk.mjsarfatti.com^
+||hawk.tenpipsclub.com^
 ||hedgehog.fightforthefuture.org^
 ||heron.joel.is^
 ||heron.notability.com^
@@ -636,6 +637,7 @@
 ||ladybug.paulstovell.com^
 ||lamprey.carolcassar.com^
 ||lamprey.seagyndavis.com^
+||landfowl.agoredbuild.com^
 ||landfowl.typegang.com^
 ||landsnail.bindle.io^
 ||landsnail.brownfield.dev^
@@ -649,6 +651,7 @@
 ||lemming.vivian.do^
 ||lemur.a-and-a-trucking.com^
 ||leopard.davidlindahlphoto.com^
+||leopard.joytotheworld.info^
 ||leopard.laszlo.cloud^
 ||leopard.ui-snippets.dev^
 ||leopard.understandit.se^
@@ -831,6 +834,7 @@
 ||platypus.tompec.com^
 ||platypus.zwei-bags.ch^
 ||polarbear.codeday.org^
+||polarbear.conermurphy.com^
 ||porcupine.dvresolve.com^
 ||porpoise.azettl.net^
 ||porpoise.fruittreecottage.com.au^
@@ -843,6 +847,7 @@
 ||prawn.lionsmouth.digital^
 ||primate.logology.co^
 ||primate.oleggera.com^
+||primate.philipithomas.com^
 ||primate.productcolors.com^
 ||ptarmigan.bridal-hair-and-accessories-now.com^
 ||ptarmigan.codebycorey.com^
@@ -856,6 +861,7 @@
 ||python.casuallyprivate.com^
 ||python.jukejuke.app^
 ||quail.trueglowbylaura.com^
+||quelea.llresearch.dev^
 ||quokka.bulkbuyhosting.com^
 ||quokka.curbnumberpro.com^
 ||quokka.howrightnow.org^
@@ -1028,7 +1034,6 @@
 ||treefrog.kaffeknappen.no^
 ||treefrog.mii-chi.app^
 ||treefrog.walkingwithdaddy.com^
-||trout.batzo.net^
 ||trout.openfpl.com^
 ||trout.travelmassive.com^
 ||tuna.ajaymantri.com^
@@ -1166,6 +1171,8 @@
 ||cdn-b.notsy.io^
 ||cdn.admatic.com.tr^
 ||cdn.adsninja.ca^
+||cdn.sentinelbi.com^
+||cdn.sentinelp.com^
 ||cdn.affiliatable.io^
 ||cdn.responsiq.com^
 ||cdn.stoic-media.com^

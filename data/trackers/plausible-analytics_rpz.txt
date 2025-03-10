@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1740988808445        ; Serial
+           1741593609059        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,7 +49,6 @@ analytics.sixfigureswine.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.thegroupbuyexperiment.com CNAME .
 analytics.top10-charts.com CNAME .
-analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
 analytics.wayland.app CNAME .
@@ -66,7 +65,6 @@ apis.4bn.xyz CNAME .
 app-stats.supernotes.app CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
 assets.garron.blog CNAME .
-assets.garron.me CNAME .
 assets.mikeroulston.com CNAME .
 assets.modeathletics.com CNAME .
 assets.modehypertext.com CNAME .
@@ -103,7 +101,6 @@ informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
 jinx.skullctf.com CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
-kingsandqueens.splowser.com CNAME .
 l.lilyzhou.com CNAME .
 l2k30jsa.theochu.com CNAME .
 lkj23jlkajsa.realestate.help CNAME .
@@ -249,7 +246,6 @@ plausible.tlschedule.com CNAME .
 plausible.treelightsoftware.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.veszelovszki.com CNAME .
-plausible.west.io CNAME .
 plausible.x.baychi.org CNAME .
 plausible.yalepaprika.com CNAME .
 plausible.zest.dev CNAME .
@@ -446,6 +442,7 @@ stats.dillen.dev CNAME .
 stats.divyanshu013.dev CNAME .
 stats.dmail.co.nz CNAME .
 stats.dmarcdigests.com CNAME .
+stats.donal.us CNAME .
 stats.doors.live CNAME .
 stats.dotnetos.org CNAME .
 stats.dotplan.io CNAME .
@@ -494,6 +491,7 @@ stats.findvax.us CNAME .
 stats.flightsphere.com CNAME .
 stats.flowphantom.com CNAME .
 stats.footwork.co CNAME .
+stats.foxyapps.co CNAME .
 stats.frantic.im CNAME .
 stats.frenlo.com CNAME .
 stats.fs4c.org CNAME .
