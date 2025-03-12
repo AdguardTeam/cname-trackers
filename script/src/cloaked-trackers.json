@@ -35,6 +35,13 @@
         ]
     },
     {
+        "company_name": "ACWEB Inc.",
+        "type": "tracker",
+        "domains": [
+            "acweb.clog.jp"
+        ]
+    },
+    {
         "company_name": "AD EBiS",
         "type": "tracker",
         "domains": [
