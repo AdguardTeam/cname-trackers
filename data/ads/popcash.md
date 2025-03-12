@@ -176,7 +176,6 @@
 | baboon.vacanti.com | deprecated-custom-domains.b-cdn.net |
 | badger.pager.app | deprecated-custom-domains.b-cdn.net |
 | baldeagle.e-ma.re | deprecated-custom-domains.b-cdn.net |
-| bandicoot.p0.design | deprecated-custom-domains.b-cdn.net |
 | bandicoot.sigerr.org | deprecated-custom-domains.b-cdn.net |
 | barnacle.big-in-japan.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.natalieandmikeyb.com | deprecated-custom-domains.b-cdn.net |

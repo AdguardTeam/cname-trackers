@@ -8,6 +8,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| 0.clicks4me.fwh.is | api.clickaine.com |
 | 1qrsumhcuudhkt4c.brandnewapp.pro | api.clickaine.com |
 | 39236100.lotre.io | api.clickaine.com |
 | a1.arabsex1.com | api.clickaine.com |
@@ -29,7 +30,6 @@
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
 | asg.redfans.org | api.clickaine.com |
-| bat15.gimmeporn.xyz | api.clickaine.com |
 | bat16.gimmeporn.xyz | api.clickaine.com |
 | blabla.leakgallery.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
@@ -102,7 +102,6 @@
 | jpnj.hotpornfile.org | api.clickaine.com |
 | k10.usefto.com | api.clickaine.com |
 | k8.usefto.com | api.clickaine.com |
-| lunie25.gimmeporn.xyz | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
 | net.fuckxstream.com | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |

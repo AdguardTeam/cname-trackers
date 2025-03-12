@@ -75,6 +75,7 @@ l.gala.fr
 l.gamekult.com
 l.gamepro.de
 l.gamesider.com
+l.gamestar.de
 l.gentside.com
 l.gentside.de
 l.geo.fr
@@ -135,6 +136,7 @@ l.ohmymag.co.uk
 l.ohmymag.com
 l.ohmymag.de
 l.ouest-france.fr
+l.ouifm.fr
 l.ozap.com
 l.paris-normandie.fr
 l.paroledemamans.com
@@ -176,6 +178,7 @@ l.vosgesmatin.fr
 l.zdnet.fr
 nr.lanouvellerepublique.fr
 on.qobuz.com
+prod-1.moarty.com
 prod-3.moarty.com
 social.eleveur-laitier.fr
 social.lafranceagricole.fr

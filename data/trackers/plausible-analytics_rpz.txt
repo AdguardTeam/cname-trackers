@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,11 +44,13 @@ analytics.qualityquestions.co CNAME .
 analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
 analytics.recamov.com CNAME .
+analytics.redistributemag.com CNAME .
 analytics.sideprojectsoftware.com CNAME .
 analytics.sixfigureswine.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.thegroupbuyexperiment.com CNAME .
 analytics.top10-charts.com CNAME .
+analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
 analytics.wayland.app CNAME .
@@ -136,6 +138,7 @@ pa.opqr.co CNAME .
 pine.nervecentral.com CNAME .
 ping.naturadapt.com CNAME .
 ping.resoluteoil.com CNAME .
+pl-web-stats-icy7xvjbpxsxf8gwwz5c.theochu.com CNAME .
 pl.1feed.app CNAME .
 pl.astro-akatemia.fi CNAME .
 pl.astro.fi CNAME .
@@ -246,6 +249,7 @@ plausible.tlschedule.com CNAME .
 plausible.treelightsoftware.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.veszelovszki.com CNAME .
+plausible.wordstamped.com CNAME .
 plausible.x.baychi.org CNAME .
 plausible.yalepaprika.com CNAME .
 plausible.zest.dev CNAME .
@@ -352,6 +356,7 @@ stats.bcdtravel.com CNAME .
 stats.beanr.coffee CNAME .
 stats.beatricew.com CNAME .
 stats.beausimensen.com CNAME .
+stats.bedler.dk CNAME .
 stats.belic.si CNAME .
 stats.benui.ca CNAME .
 stats.bernardobordadagua.com CNAME .
@@ -540,6 +545,7 @@ stats.incoming.co CNAME .
 stats.increasinglyfunctional.com CNAME .
 stats.indyhall.org CNAME .
 stats.infoboard.de CNAME .
+stats.ingenerator.com CNAME .
 stats.innoq.com CNAME .
 stats.instabudget.app CNAME .
 stats.interactjs.io CNAME .
@@ -551,6 +557,7 @@ stats.isabelsommerfeld.com CNAME .
 stats.iscc-system.org CNAME .
 stats.isthispoisonivy.website CNAME .
 stats.ivs.rocks CNAME .
+stats.jacksonwel.sh CNAME .
 stats.jamesevers.co.uk CNAME .
 stats.jamesilesantiques.com CNAME .
 stats.jamhouse.app CNAME .
@@ -604,7 +611,6 @@ stats.literacysomerset.org CNAME .
 stats.literaturkreis.online CNAME .
 stats.lmdsp.com CNAME .
 stats.localmetravel.com CNAME .
-stats.lstfnd.de CNAME .
 stats.ltdhunt.com CNAME .
 stats.luieremmer.net CNAME .
 stats.lussoveloce.com CNAME .
@@ -627,7 +633,6 @@ stats.mazlandscaping.com CNAME .
 stats.meetnfly.com CNAME .
 stats.mein-futterlexikon.org CNAME .
 stats.memberdrive.org CNAME .
-stats.meno.science CNAME .
 stats.mesenvies.fr CNAME .
 stats.metamorphium.com CNAME .
 stats.michaeloliver.dev CNAME .
@@ -721,6 +726,7 @@ stats.psychotherapieravensburg.de CNAME .
 stats.pubfind.io CNAME .
 stats.qbitstore.nl CNAME .
 stats.qovery.com CNAME .
+stats.quantumly.dev CNAME .
 stats.quicksilvercre.com CNAME .
 stats.radicaldata.org CNAME .
 stats.radicitoscane.it CNAME .
@@ -732,6 +738,7 @@ stats.referralhero.com CNAME .
 stats.rehaag-immobilien.de CNAME .
 stats.reisemobil.pro CNAME .
 stats.remotebear.io CNAME .
+stats.repacheco.com CNAME .
 stats.reprage.com CNAME .
 stats.respkt.de CNAME .
 stats.reto.tv CNAME .
@@ -757,8 +764,10 @@ stats.seanbailey.dev CNAME .
 stats.sebastiandombrowski.de CNAME .
 stats.selectam.io CNAME .
 stats.sendngnt.com CNAME .
+stats.seriouscircus.com CNAME .
 stats.servicedesignjobs.com CNAME .
 stats.seva.rocks CNAME .
+stats.shapeless.dev CNAME .
 stats.shareup.app CNAME .
 stats.shawnyeager.com CNAME .
 stats.shepherd.com CNAME .
@@ -793,7 +802,6 @@ stats.symbiofest.cz CNAME .
 stats.tarasyarema.com CNAME .
 stats.tax-venture.de CNAME .
 stats.teamdetails.com CNAME .
-stats.tedserbinski.com CNAME .
 stats.teenranch.com CNAME .
 stats.tekin.co.uk CNAME .
 stats.textprotocol.org CNAME .
@@ -832,7 +840,6 @@ stats.urlaubsverwaltung.cloud CNAME .
 stats.useeffect.dev CNAME .
 stats.uxtools.co CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
-stats.vallery.store CNAME .
 stats.vanityprojects.com CNAME .
 stats.vdsnow.ru CNAME .
 stats.vican.me CNAME .

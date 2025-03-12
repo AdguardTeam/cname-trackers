@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,6 +41,7 @@ $TTL 300
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
 4jaehnfqizyx.controlconceptsusa.com CNAME .
 5mc92su06suu.www.abhijith.page CNAME .
+5oovx2t8rl04.thebarrecollective.co CNAME .
 5zb0xuoeglfx.cit-dev.stylumia.com CNAME .
 6nwp0r33a71m.app.dev.cardahealth.com CNAME .
 6ynyejkv0j1s.app.tapmyback.com CNAME .
@@ -69,6 +70,7 @@ cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
 dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
+duncoyib1v98s1k7h.artistl.ink CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 fkupm8697t19.eyevolution.de CNAME .

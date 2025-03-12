@@ -15,6 +15,7 @@
 ||analytics.leespace.co^
 ||analytics.popov.link^
 ||analytics.riggraz.dev^
+||analytics.sanmateo.ca.us.open.law^
 ||analytics.yofbrc.com^
 ||argus.umarbutler.com^
 ||c.qrdate.org^
@@ -23,6 +24,7 @@
 ||count.kealper.com^
 ||count.vidsrc.pro^
 ||counter.storydragon.nl^
+||gc.gayqing.com^
 ||gc.his2nd.life^
 ||gc.miluchacontraeltabaco.com^
 ||gc.mindenugyved.hu^
@@ -82,6 +84,7 @@
 ||stats.fieald.com^
 ||stats.gopikrishna.dev^
 ||stats.haseebmajid.dev^
+||stats.hdyar.com^
 ||stats.hedy.dev^
 ||stats.how.wtf^
 ||stats.ignatuque.xyz^

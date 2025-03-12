@@ -82,6 +82,7 @@
     * 329744135290071.wt-eu02.net
     * 339874301969258.wt-eu02.net
     * 350258498646185.wt-eu02.net
+    * 350452854671016.wt-eu02.net
     * 366003812072969.wt-eu02.net
     * 367128732629814.wt-eu02.net
     * 367171131378433.wt-eu02.net
@@ -187,6 +188,7 @@
     * 927615140575951.wt-eu02.net
     * 929152463666423.wt-eu02.net
     * 946182832515050.wt-eu02.net
+    * 948385406878459.wt-eu02.net
     * 949365393396887.wt-eu02.net
     * 950197453774939.wt-eu02.net
     * 958731023298385.wt-eu02.net
@@ -319,6 +321,7 @@
 | web.email.sebago.co.uk | 339874301969258.wt-eu02.net |
 | web.email.superga.co.uk | 339874301969258.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
+| data.velivery.com | 350452854671016.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
 | web.tummytox.at | 366003812072969.wt-eu02.net |
 | web.tummytox.cz | 366003812072969.wt-eu02.net |
@@ -400,6 +403,7 @@
 | web.slimjoy.dk | 657801072187647.wt-eu02.net |
 | web.slimjoy.es | 657801072187647.wt-eu02.net |
 | web.slimjoy.it | 657801072187647.wt-eu02.net |
+| web.slimjoy.org | 657801072187647.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
@@ -471,6 +475,7 @@
 | joda.quotidianodipuglia.it | 927615140575951.wt-eu02.net |
 | web.email.turtlebay.co.uk | 929152463666423.wt-eu02.net |
 | web.newsletter.bennet.com | 946182832515050.wt-eu02.net |
+| web.e.rapidonline.com | 948385406878459.wt-eu02.net |
 | web.autobodytoolmart.com | 949365393396887.wt-eu02.net |
 | ctdfm.ilgiornale.it | 950197453774939.wt-eu02.net |
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |

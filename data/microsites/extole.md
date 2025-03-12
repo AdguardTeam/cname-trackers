@@ -48,7 +48,6 @@
     * hannaandersson.extole.com
     * harimari.extole.com
     * hattiesburgamerican.extole.com
-    * healthypaws.extole.com
     * hostgator.extole.com
     * indochino.extole.com
     * integrativenutrition-ssl.extole.com
@@ -237,7 +236,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -276,6 +274,7 @@
     * evite.extole.io
     * experian.extole.io
     * extoleu.extole.io
+    * familysavingscu.extole.io
     * fastbridgefiber.extole.io
     * fetchpet.extole.io
     * figo-pet-insurance.extole.io
@@ -437,6 +436,7 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -469,7 +469,6 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -787,7 +786,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -842,6 +840,7 @@
 | ufsmdjkg1zhzcx9i.extoleu.com | extoleu.extole.io |
 | www.rob.extoleu.com | extoleu.extole.io |
 | social.fabkids.com | fabkids-ssl.extole.com |
+| refer.familysavingscu.com | familysavingscu.extole.io |
 | share.fastbridgefiber.com | fastbridgefiber.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
@@ -890,6 +889,7 @@
 | share.independentmail.com | gannett.extole.io |
 | share.indystar.com | gannett.extole.io |
 | share.jacksonsun.com | gannett.extole.io |
+| share.jsonline.com | gannett.extole.io |
 | share.kitsapsun.com | gannett.extole.io |
 | share.knoxnews.com | gannett.extole.io |
 | share.lansingstatejournal.com | gannett.extole.io |
@@ -957,7 +957,6 @@
 | refer.hattiesburgamerican.com | hattiesburgamerican.extole.com |
 | share.havenwellwithin.com | havenwellwithin.extole.io |
 | share.findheadway.com | headway.extole.io |
-| refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | refer.henribendel.com | henri-bendel.extole.io |
 | share.heydayskincare.com | heydayskincare.extole.io |
 | share.heydude.com | heydude.extole.io |
@@ -1129,6 +1128,7 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1176,7 +1176,6 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |

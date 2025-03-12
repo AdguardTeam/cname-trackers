@@ -23,6 +23,7 @@ afm.startraderfr.com
 afm.startraderjp.com
 afm.startradermy.com
 afm.sthub.cc
+afm.ultima-markets.com
 afm.ultimamarkets.asia
 afm.ultimamarkets.com
 afm.ultimamarketsglobal.com

@@ -225,7 +225,6 @@ baboon.naxon.dev
 baboon.vacanti.com
 badger.pager.app
 baldeagle.e-ma.re
-bandicoot.p0.design
 bandicoot.sigerr.org
 barnacle.big-in-japan.com
 barnacle.natalieandmikeyb.com

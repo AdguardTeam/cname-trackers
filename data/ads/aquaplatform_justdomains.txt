@@ -2,6 +2,7 @@
 # Company name: Aquaplatform
 adamsads.midtc.com
 adconsole.bidspotter.co.uk
+adconsole.eva.live
 adconsole.kozoom.com
 adconsole.lot-tissimo.com
 adconsole.proxibid.com
@@ -68,10 +69,13 @@ console.adbility-media.com
 console.adspmg.com
 console.aqua-adserver.com
 console.blulab.net
+console.cavalier-romand.ch
 console.ceramicartsnetwork.org
 console.channelvas.com
+console.cricketworld.com
 console.datateam.co.uk
 console.everythingcolorado.com
+console.faithlifeads.com
 console.falconstudios.com
 console.greenspring.com
 console.healthcarescene.com
@@ -94,6 +98,7 @@ creatives.goldseek.com
 display.lawbulletin.com
 images.addurance.com
 images.cricketworld.com
+images.falconstudios.com
 images.goldseek.com
 images.hour-media.com
 images.informatm.com
@@ -187,6 +192,7 @@ static.lot-tissimo.com
 static.mannixmarketing.com
 static.miningweekly.com
 static.mondiale.co.uk
+static.notgoingtouni.co.uk
 static.polity.org.za
 static.postandparcel.info
 static.proxibid.com

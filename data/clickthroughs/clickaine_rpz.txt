@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+0.clicks4me.fwh.is CNAME .
 1qrsumhcuudhkt4c.brandnewapp.pro CNAME .
 39236100.lotre.io CNAME .
 a1.arabsex1.com CNAME .
@@ -32,7 +33,6 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
-bat15.gimmeporn.xyz CNAME .
 bat16.gimmeporn.xyz CNAME .
 blabla.leakgallery.com CNAME .
 c0n.tubestash.com CNAME .
@@ -105,7 +105,6 @@ jg3.trypicz.com CNAME .
 jpnj.hotpornfile.org CNAME .
 k10.usefto.com CNAME .
 k8.usefto.com CNAME .
-lunie25.gimmeporn.xyz CNAME .
 mail.7porn.ru CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .

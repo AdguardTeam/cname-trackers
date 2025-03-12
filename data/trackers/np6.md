@@ -22,6 +22,7 @@
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
+| s.gemy.fr | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
@@ -449,6 +450,7 @@
 | tr.fts.francetravail.fr | tracking.bp01.net |
 | tr.future-commerce.mhdfrance.fr | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
+| tr.g.moethennessy.com | tracking.bp01.net |
 | tr.gen.espmp-agfr.net | tracking.bp01.net |
 | tr.gestion.bnpparibas-pf.fr | tracking.bp01.net |
 | tr.gestion.cafineo.fr | tracking.bp01.net |
@@ -692,6 +694,7 @@
 | tr.mes-bonsplans.be | tracking.bp01.net |
 | tr.mes-prestataires.fr | tracking.bp01.net |
 | tr.message.maaf.fr | tracking.bp01.net |
+| tr.metiersdexcellence.lvmh.com | tracking.bp01.net |
 | tr.mh-connect.moethennessy.com | tracking.bp01.net |
 | tr.mhanz.moethennessy.com | tracking.bp01.net |
 | tr.mhch.moet.hennessy.com | tracking.bp01.net |

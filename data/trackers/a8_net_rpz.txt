@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -108,6 +108,7 @@ a8.efax.co.jp CNAME .
 a8.elife.clinic CNAME .
 a8.emeao.jp CNAME .
 a8.emestore.me CNAME .
+a8.en-courage.com CNAME .
 a8.engineer-shukatu.jp CNAME .
 a8.eonet.jp CNAME .
 a8.eonet.ne.jp CNAME .
@@ -307,7 +308,9 @@ a8.sommelier.gift CNAME .
 a8.speever.jp CNAME .
 a8.ssl.aispr.jp CNAME .
 a8.st.oddspark.com CNAME .
+a8.stealth.jp CNAME .
 a8.store.aceservice.jp CNAME .
+a8.store.brooklynoutdoorcompany.jp CNAME .
 a8.store.goo.ne.jp CNAME .
 a8.strapya.com CNAME .
 a8.suma-sapo.net CNAME .
@@ -396,7 +399,6 @@ a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
 a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com CNAME .
 a8atcomsme.mellife.jp CNAME .
-a8clic.alcosystem.co.jp CNAME .
 a8click.daini2.co.jp CNAME .
 a8click.you-up.com CNAME .
 a8click.young-mobile.net CNAME .
@@ -453,6 +455,7 @@ a8clk.cart.co-heart.com CNAME .
 a8clk.cart.dr-vegefru.com CNAME .
 a8clk.cart.ordersupli.com CNAME .
 a8clk.cart.raku-uru.jp CNAME .
+a8clk.cart.yuyu-kenko.co.jp CNAME .
 a8clk.cd.ecostorecom.jp CNAME .
 a8clk.cev.macchialabel.com CNAME .
 a8clk.chance.com CNAME .
@@ -751,7 +754,6 @@ a8clk.www.rebo-success.co.jp CNAME .
 a8clk.www.solar-partners.jp CNAME .
 a8clk.www.solarmonitorlp.energy-itsol.com CNAME .
 a8clk.www.uz.team CNAME .
-a8clk.www.workport.co.jp CNAME .
 a8clk.www.xebiocard.co.jp CNAME .
 a8clk.www.zwei.com CNAME .
 a8clk.xbit.jp CNAME .
@@ -792,6 +794,7 @@ a8cv.adv.gr.jp CNAME .
 a8cv.aff.life-110.com CNAME .
 a8cv.ageru-career.com CNAME .
 a8cv.aiambeauty.jp CNAME .
+a8cv.air-mobareco-asp.jp CNAME .
 a8cv.air-mobileset.jp CNAME .
 a8cv.akapon.kanritools.com CNAME .
 a8cv.akihabara-x.jp CNAME .
@@ -805,6 +808,7 @@ a8cv.amiami.jp CNAME .
 a8cv.anapnet.com CNAME .
 a8cv.androsophybaby.com CNAME .
 a8cv.ans-ec.shop CNAME .
+a8cv.antiaging-eshop.com CNAME .
 a8cv.aplod.jp CNAME .
 a8cv.aquasilver.co.jp CNAME .
 a8cv.araiba.net CNAME .
@@ -839,6 +843,7 @@ a8cv.brandnet.info CNAME .
 a8cv.bresmile.jp CNAME .
 a8cv.bright-app.com CNAME .
 a8cv.broadbandservice.jp CNAME .
+a8cv.brush-up.jp CNAME .
 a8cv.bugsfarm.jp CNAME .
 a8cv.bulk.co.jp CNAME .
 a8cv.busbookmark.jp CNAME .
@@ -1008,6 +1013,7 @@ a8cv.ias.il24.net CNAME .
 a8cv.icoi.style CNAME .
 a8cv.ieagent.jp CNAME .
 a8cv.iekoma.com CNAME .
+a8cv.ieyasu.est.group CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.ikapula.com CNAME .
 a8cv.info.atgp.jp CNAME .
@@ -1205,6 +1211,7 @@ a8cv.saitoma.com CNAME .
 a8cv.sakura-forest.com CNAME .
 a8cv.sanix.jp CNAME .
 a8cv.sankyo-fs.jp CNAME .
+a8cv.santasan.net CNAME .
 a8cv.saraschool.net CNAME .
 a8cv.scheeme.com CNAME .
 a8cv.scom-f.jp CNAME .
@@ -1528,6 +1535,7 @@ cv.joggo.jp CNAME .
 cv.just-size.net CNAME .
 cv.kuvings.jp CNAME .
 cv.liability.jp CNAME .
+cv.loca-site.com CNAME .
 cv.mamaikuko.jp CNAME .
 cv.masteraxis.com CNAME .
 cv.meo.tryhatch.co.jp CNAME .

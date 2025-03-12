@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ ac-ebis.usen-ad.com CNAME .
 ac-ebis.usen-insurance.com CNAME .
 ac-ebis.usen-pos.com CNAME .
 ac-ebis.usen-service.com CNAME .
+ac-ebis.usen-ssi.jp CNAME .
 ac-ebis.usen-store.com CNAME .
 ac-ebis.usen.biz CNAME .
 ac.geechs-job.com CNAME .
@@ -192,7 +193,6 @@ cs1470sbeda.schoolasp.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
 cs1979sbeda.customguide-build.net CNAME .
 cs1979sbeda.residence-customize.com CNAME .
-cs2087sbeda.aspex.co.jp CNAME .
 cs2087sbeda.manage-tempstaffing.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
 cv-adebis.my-studies.net CNAME .

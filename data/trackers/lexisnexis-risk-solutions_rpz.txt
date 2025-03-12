@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,6 +34,7 @@ afm.startraderfr.com CNAME .
 afm.startraderjp.com CNAME .
 afm.startradermy.com CNAME .
 afm.sthub.cc CNAME .
+afm.ultima-markets.com CNAME .
 afm.ultimamarkets.asia CNAME .
 afm.ultimamarkets.com CNAME .
 afm.ultimamarketsglobal.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,6 +30,7 @@ data.drhauschka.de CNAME .
 data.juhu.auto CNAME .
 data.moebel-style.de CNAME .
 data.uk.kutchenhaus.com CNAME .
+defabc.black-label-coffee.de CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
@@ -45,11 +46,13 @@ et.goal-based.investments CNAME .
 et.lavita.com CNAME .
 et.majdic.at CNAME .
 et.pns24.de CNAME .
+et.schindlerparent.de CNAME .
 et.sectornord.de CNAME .
 et.university-of-labour.de CNAME .
 etd.kramer-online.com CNAME .
 etd.wackerneusongroup.com CNAME .
 etd.weidemann.com CNAME .
+etr.cosee.biz CNAME .
 etrac.lodenwalker.com CNAME .
 etrac.tita.at CNAME .
 etracker.alex-gross.com CNAME .
@@ -141,6 +144,7 @@ webcontr.ib-kc.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.l.de CNAME .
 webcontr.lmz-bw.de CNAME .
+webcontr.lotto-hh.de CNAME .
 webcontr.mea-living.de CNAME .
 webcontr.patrick-wentzel.de CNAME .
 webcontr.pedalbox.com CNAME .
@@ -151,6 +155,7 @@ webcontr.scandtrack.com CNAME .
 webcontr.shirtlabor.de CNAME .
 webcontr.sienagarden.de CNAME .
 webcontr.splendid-internet.de CNAME .
+webcontr.stadtwerke-ahrensburg.de CNAME .
 webcontr.synvia.de CNAME .
 webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten.de CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,7 +61,6 @@ affil.nanospace.cz CNAME .
 affil.netbiznis.sk CNAME .
 affil.nutriadapt.cz CNAME .
 affil.peliskydog.cz CNAME .
-affil.pgs.sk CNAME .
 affil.plkshop.cz CNAME .
 affil.progamingshop.sk CNAME .
 affil.reedog.cz CNAME .
@@ -275,6 +274,7 @@ affiliate.studio51.team CNAME .
 affiliate.svarecky-obchod.cz CNAME .
 affiliate.svetbot.cz CNAME .
 affiliate.t6power.cz CNAME .
+affiliate.tajomstvozenskejprosperity.sk CNAME .
 affiliate.terarijni-potreby.cz CNAME .
 affiliate.topol.io CNAME .
 affiliate.trikator.cz CNAME .
@@ -309,7 +309,6 @@ ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
 ambassadors.childhoodpotential.com CNAME .
 ambassadors.guideandgrow.com CNAME .
-box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
 collab.zdravetricko.cz CNAME .
@@ -943,7 +942,6 @@ partneri.zburnik.cz CNAME .
 partneri.zdravy-zivotny-styl.sk CNAME .
 partneri.zdravykram.cz CNAME .
 partneri.zhubnichytre.cz CNAME .
-partneri.zijchytre.cz CNAME .
 partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
 partners.duckferries.com CNAME .

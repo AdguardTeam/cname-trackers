@@ -81,6 +81,7 @@ data.mainpost.de
 data.mapp.com
 data.mediaworld.it
 data.vdi-wissensforum.de
+data.velivery.com
 data.volksfreund.de
 data.westlotto.de
 daten.union-investment.de
@@ -275,6 +276,7 @@ web.e.panmacmillan.com
 web.e.pbslgroup.co.uk
 web.e.professionalbuildingsupplies.co.uk
 web.e.pvccladding.com
+web.e.rapidonline.com
 web.e.soakaways.com
 web.email.amplifiedclothing.com
 web.email.farrow-ball.com
@@ -368,6 +370,7 @@ web.slimjoy.cz
 web.slimjoy.dk
 web.slimjoy.es
 web.slimjoy.it
+web.slimjoy.org
 web.slimjoy.se
 web.slimjoy.sk
 web.tamaris.com

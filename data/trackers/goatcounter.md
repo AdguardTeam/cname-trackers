@@ -18,6 +18,7 @@
     * beyondthesprawl.goatcounter.com
     * bilderbrief.goatcounter.com
     * bkvn.goatcounter.com
+    * blooper.goatcounter.com
     * blu3id-uk.goatcounter.com
     * boringproxy-io.goatcounter.com
     * bortox.goatcounter.com
@@ -51,6 +52,7 @@
     * fieald.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
+    * gayqing.goatcounter.com
     * gcls001239028.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
     * gopikrishna.goatcounter.com
@@ -106,6 +108,7 @@
     * rocketgoboom.goatcounter.com
     * ruzickap-github-io.goatcounter.com
     * ryanch.goatcounter.com
+    * sanmateo-ca-us-open-law.goatcounter.com
     * satanisk.goatcounter.com
     * sebastianzehner.goatcounter.com
     * semipol.goatcounter.com
@@ -154,6 +157,7 @@
 | stats.beyondthesprawl.com | beyondthesprawl.goatcounter.com |
 | stats.bilderbrief.de | bilderbrief.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
+| stats.hdyar.com | blooper.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
 | stats.boringproxy.io | boringproxy-io.goatcounter.com |
 | contacapre.bortox.it | bortox.goatcounter.com |
@@ -187,6 +191,7 @@
 | stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
+| gc.gayqing.com | gayqing.goatcounter.com |
 | analytics.leespace.co | gcls001239028.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
@@ -243,6 +248,7 @@
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
 | stats-ruzickap-github-io.ruzicka.dev | ruzickap-github-io.goatcounter.com |
 | stats.ryanchmelir.com | ryanch.goatcounter.com |
+| analytics.sanmateo.ca.us.open.law | sanmateo-ca-us-open-law.goatcounter.com |
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.sebastianzehner.com | sebastianzehner.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |

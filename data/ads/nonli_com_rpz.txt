@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ l.gala.fr CNAME .
 l.gamekult.com CNAME .
 l.gamepro.de CNAME .
 l.gamesider.com CNAME .
+l.gamestar.de CNAME .
 l.gentside.com CNAME .
 l.gentside.de CNAME .
 l.geo.fr CNAME .
@@ -146,6 +147,7 @@ l.ohmymag.co.uk CNAME .
 l.ohmymag.com CNAME .
 l.ohmymag.de CNAME .
 l.ouest-france.fr CNAME .
+l.ouifm.fr CNAME .
 l.ozap.com CNAME .
 l.paris-normandie.fr CNAME .
 l.paroledemamans.com CNAME .
@@ -187,6 +189,7 @@ l.vosgesmatin.fr CNAME .
 l.zdnet.fr CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
+prod-1.moarty.com CNAME .
 prod-3.moarty.com CNAME .
 social.eleveur-laitier.fr CNAME .
 social.lafranceagricole.fr CNAME .

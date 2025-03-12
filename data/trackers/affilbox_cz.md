@@ -71,7 +71,6 @@
 | affil.netbiznis.sk | cz.affilbox.cz |
 | affil.nutriadapt.cz | cz.affilbox.cz |
 | affil.peliskydog.cz | cz.affilbox.cz |
-| affil.pgs.sk | cz.affilbox.cz |
 | affil.plkshop.cz | cz.affilbox.cz |
 | affil.progamingshop.sk | cz.affilbox.cz |
 | affil.reedog.cz | cz.affilbox.cz |
@@ -285,6 +284,7 @@
 | affiliate.svarecky-obchod.cz | cz.affilbox.cz |
 | affiliate.svetbot.cz | cz.affilbox.cz |
 | affiliate.t6power.cz | cz.affilbox.cz |
+| affiliate.tajomstvozenskejprosperity.sk | cz.affilbox.cz |
 | affiliate.terarijni-potreby.cz | cz.affilbox.cz |
 | affiliate.topol.io | cz.affilbox.cz |
 | affiliate.trikator.cz | cz.affilbox.cz |
@@ -319,7 +319,6 @@
 | ambassador.notsofunnyany.com | cz.affilbox.cz |
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
 | ambassadors.guideandgrow.com | cz.affilbox.cz |
-| box.cryptokingdom.tech | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | brana.ritualyomlazeni.cz | cz.affilbox.cz |
 | collab.zdravetricko.cz | cz.affilbox.cz |
@@ -953,7 +952,6 @@
 | partneri.zdravy-zivotny-styl.sk | cz.affilbox.cz |
 | partneri.zdravykram.cz | cz.affilbox.cz |
 | partneri.zhubnichytre.cz | cz.affilbox.cz |
-| partneri.zijchytre.cz | cz.affilbox.cz |
 | partners.almaf.cz | cz.affilbox.cz |
 | partners.bonyacademy.com | cz.affilbox.cz |
 | partners.duckferries.com | cz.affilbox.cz |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 adamsads.midtc.com CNAME .
 adconsole.bidspotter.co.uk CNAME .
+adconsole.eva.live CNAME .
 adconsole.kozoom.com CNAME .
 adconsole.lot-tissimo.com CNAME .
 adconsole.proxibid.com CNAME .
@@ -79,10 +80,13 @@ console.adbility-media.com CNAME .
 console.adspmg.com CNAME .
 console.aqua-adserver.com CNAME .
 console.blulab.net CNAME .
+console.cavalier-romand.ch CNAME .
 console.ceramicartsnetwork.org CNAME .
 console.channelvas.com CNAME .
+console.cricketworld.com CNAME .
 console.datateam.co.uk CNAME .
 console.everythingcolorado.com CNAME .
+console.faithlifeads.com CNAME .
 console.falconstudios.com CNAME .
 console.greenspring.com CNAME .
 console.healthcarescene.com CNAME .
@@ -105,6 +109,7 @@ creatives.goldseek.com CNAME .
 display.lawbulletin.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
+images.falconstudios.com CNAME .
 images.goldseek.com CNAME .
 images.hour-media.com CNAME .
 images.informatm.com CNAME .
@@ -198,6 +203,7 @@ static.lot-tissimo.com CNAME .
 static.mannixmarketing.com CNAME .
 static.miningweekly.com CNAME .
 static.mondiale.co.uk CNAME .
+static.notgoingtouni.co.uk CNAME .
 static.polity.org.za CNAME .
 static.postandparcel.info CNAME .
 static.proxibid.com CNAME .

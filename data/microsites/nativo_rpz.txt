@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ sponsor.syracuse.com CNAME .
 393058c53b.97b8c93c9d.com CNAME .
 3b71ae07b7.5bb3e0be1a.com CNAME .
 3c12cce224.c4db8f5827.com CNAME .
+3d940b49cb.84969d4e51.com CNAME .
 3dc85f8202.efe12e61db.com CNAME .
 3f7ccc19aa.cae9894963.com CNAME .
 3f8165d49d.5536ddf6c1.com CNAME .
@@ -138,7 +139,6 @@ sponsor.syracuse.com CNAME .
 63cc093d48.f336d0935e.com CNAME .
 63d8c6c172.c7b4215ccd.com CNAME .
 63e798263b.fef0033e72.com CNAME .
-6424f99911.28b26b4604.com CNAME .
 642e2d83a3.6a2ba2a948.com CNAME .
 6456462b8a.d5fb45ce94.com CNAME .
 64641981de.a1bc23fa98.com CNAME .
@@ -168,6 +168,7 @@ sponsor.syracuse.com CNAME .
 75bd6b312d.e1d0499b8e.com CNAME .
 7633474a73.4754bbb117.com CNAME .
 7655556e32.1366aab60d.com CNAME .
+765c47b815.4578e6ede4.com CNAME .
 7699b759b2.a0282a24f6.com CNAME .
 77ee916993.e83b329884.com CNAME .
 785dbf66d8.813256c799.com CNAME .
@@ -187,6 +188,7 @@ sponsor.syracuse.com CNAME .
 822c03d021.309ec9abca.com CNAME .
 823141f652.d0436eb7ca.com CNAME .
 85fc51cc57.b077fc96e0.com CNAME .
+8655437872.1f1d9a652e.com CNAME .
 882e281cd8.44d100644b.com CNAME .
 8a0f91aaeb.995a3c624c.com CNAME .
 8b006d4434.1752d81188.com CNAME .
@@ -257,7 +259,6 @@ ba3849f40f.b161680016.com CNAME .
 bb1573a84f.984b3c5501.com CNAME .
 bc17f0a6b0.491ad1417d.com CNAME .
 bd4afc201d.a9a878a4a2.com CNAME .
-be69a981ad.a5bc535601.com CNAME .
 be8d232c28.7a37d4e31f.com CNAME .
 bed6c3dbc7.c7b6f80a62.com CNAME .
 bf69292cc9.71f3eb2dc9.com CNAME .
@@ -344,8 +345,8 @@ fa949fbb94.2daa3302bc.com CNAME .
 fba5d54634.d9303988cb.com CNAME .
 fdd5c91116.606b85787b.com CNAME .
 i.selecttopoff.com CNAME .
-dallasnews.share.ntv.io CNAME .
 mlive.share.ntv.io CNAME .
+nj.finegardening.com CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 0378acbc90.52e531519f.com CNAME .
@@ -374,6 +375,7 @@ cnn.share.ntv.io CNAME .
 computerworld.share.ntv.io CNAME .
 cooktopcove.share.ntv.io CNAME .
 csoonline.share.ntv.io CNAME .
+dallasnews.share.ntv.io CNAME .
 entrepreneur.share.ntv.io CNAME .
 faithinthenews.share.ntv.io CNAME .
 fortune.share.ntv.io CNAME .
@@ -390,7 +392,6 @@ miamiherald.share.ntv.io CNAME .
 mundohispanico.share.ntv.io CNAME .
 nativomobileapps.share.ntv.io CNAME .
 newsweek.share.ntv.io CNAME .
-nj.finegardening.com CNAME .
 nj.share.ntv.io CNAME .
 nydailynews.share.ntv.io CNAME .
 pcworld.share.ntv.io CNAME .

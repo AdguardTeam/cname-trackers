@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -440,6 +440,7 @@ $TTL 300
 3427951.notifysrv.com CNAME .
 3428069.notifysrv.com CNAME .
 3429075.notify6.com CNAME .
+3432281.notifysrv.com CNAME .
 3432573.notify6.com CNAME .
 3433739.notify6.com CNAME .
 3434551.notify6.com CNAME .
@@ -1204,19 +1205,22 @@ $TTL 300
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
+a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
 a.b7q9v8z.com CNAME .
+a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
 a.etology.com CNAME .
 a.eunow4u.com CNAME .
-a.huklop.com CNAME .
 a.ma3ion.com CNAME .
 a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
+a.ouzads.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
+a.r8lnet.com CNAME .
 a.tf4srv.com CNAME .
 a.traffic-gold.com CNAME .
 a.vws4brkfst.com CNAME .
@@ -1344,6 +1348,7 @@ s.dsd8vc.com CNAME .
 s.dseb0x.com CNAME .
 s.dsebx6.com CNAME .
 s.dsejln.com CNAME .
+s.dseoeg.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
@@ -1543,6 +1548,7 @@ www.3351072.notifysrv.com CNAME .
 www.3352256.notify6.com CNAME .
 www.3389741.notify6.com CNAME .
 www.3398315.notify6.com CNAME .
+www.3404165.notify6.com CNAME .
 www.3410343.notify6.com CNAME .
 www.3440153.notify6.com CNAME .
 www.3440411.notify6.com CNAME .
@@ -1569,6 +1575,7 @@ www.3881818.notify6.com CNAME .
 www.3959278.notify6.com CNAME .
 www.3959292.notify6.com CNAME .
 www.3972246.notify6.com CNAME .
+www.3982708.notify6.com CNAME .
 www.4.notify.bizonads-ssp.com CNAME .
 www.4065194.notify6.com CNAME .
 www.4065944.notify6.com CNAME .
@@ -1595,12 +1602,9 @@ www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 a.344eva.com CNAME .
-a.adsession.com CNAME .
 a.advertrek.com CNAME .
 a.asvsm.com CNAME .
-a.bizonads-ssp.com CNAME .
-a.ouzads.com CNAME .
-a.r8lnet.com CNAME .
+a.huklop.com CNAME .
 a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
 ads.optimizesrv.com CNAME .

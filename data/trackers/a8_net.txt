@@ -97,6 +97,7 @@
 ||a8.elife.clinic^
 ||a8.emeao.jp^
 ||a8.emestore.me^
+||a8.en-courage.com^
 ||a8.engineer-shukatu.jp^
 ||a8.eonet.jp^
 ||a8.eonet.ne.jp^
@@ -296,7 +297,9 @@
 ||a8.speever.jp^
 ||a8.ssl.aispr.jp^
 ||a8.st.oddspark.com^
+||a8.stealth.jp^
 ||a8.store.aceservice.jp^
+||a8.store.brooklynoutdoorcompany.jp^
 ||a8.store.goo.ne.jp^
 ||a8.strapya.com^
 ||a8.suma-sapo.net^
@@ -385,7 +388,6 @@
 ||a8aspconv.xn--biglobe-kc9k.com^
 ||a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com^
 ||a8atcomsme.mellife.jp^
-||a8clic.alcosystem.co.jp^
 ||a8click.daini2.co.jp^
 ||a8click.you-up.com^
 ||a8click.young-mobile.net^
@@ -442,6 +444,7 @@
 ||a8clk.cart.dr-vegefru.com^
 ||a8clk.cart.ordersupli.com^
 ||a8clk.cart.raku-uru.jp^
+||a8clk.cart.yuyu-kenko.co.jp^
 ||a8clk.cd.ecostorecom.jp^
 ||a8clk.cev.macchialabel.com^
 ||a8clk.chance.com^
@@ -740,7 +743,6 @@
 ||a8clk.www.solar-partners.jp^
 ||a8clk.www.solarmonitorlp.energy-itsol.com^
 ||a8clk.www.uz.team^
-||a8clk.www.workport.co.jp^
 ||a8clk.www.xebiocard.co.jp^
 ||a8clk.www.zwei.com^
 ||a8clk.xbit.jp^
@@ -781,6 +783,7 @@
 ||a8cv.aff.life-110.com^
 ||a8cv.ageru-career.com^
 ||a8cv.aiambeauty.jp^
+||a8cv.air-mobareco-asp.jp^
 ||a8cv.air-mobileset.jp^
 ||a8cv.akapon.kanritools.com^
 ||a8cv.akihabara-x.jp^
@@ -794,6 +797,7 @@
 ||a8cv.anapnet.com^
 ||a8cv.androsophybaby.com^
 ||a8cv.ans-ec.shop^
+||a8cv.antiaging-eshop.com^
 ||a8cv.aplod.jp^
 ||a8cv.aquasilver.co.jp^
 ||a8cv.araiba.net^
@@ -828,6 +832,7 @@
 ||a8cv.bresmile.jp^
 ||a8cv.bright-app.com^
 ||a8cv.broadbandservice.jp^
+||a8cv.brush-up.jp^
 ||a8cv.bugsfarm.jp^
 ||a8cv.bulk.co.jp^
 ||a8cv.busbookmark.jp^
@@ -997,6 +1002,7 @@
 ||a8cv.icoi.style^
 ||a8cv.ieagent.jp^
 ||a8cv.iekoma.com^
+||a8cv.ieyasu.est.group^
 ||a8cv.iikyujin.net^
 ||a8cv.ikapula.com^
 ||a8cv.info.atgp.jp^
@@ -1194,6 +1200,7 @@
 ||a8cv.sakura-forest.com^
 ||a8cv.sanix.jp^
 ||a8cv.sankyo-fs.jp^
+||a8cv.santasan.net^
 ||a8cv.saraschool.net^
 ||a8cv.scheeme.com^
 ||a8cv.scom-f.jp^
@@ -1517,6 +1524,7 @@
 ||cv.just-size.net^
 ||cv.kuvings.jp^
 ||cv.liability.jp^
+||cv.loca-site.com^
 ||cv.mamaikuko.jp^
 ||cv.masteraxis.com^
 ||cv.meo.tryhatch.co.jp^

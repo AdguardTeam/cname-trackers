@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ analytics.law.tmchippewa.com CNAME .
 analytics.leespace.co CNAME .
 analytics.popov.link CNAME .
 analytics.riggraz.dev CNAME .
+analytics.sanmateo.ca.us.open.law CNAME .
 analytics.yofbrc.com CNAME .
 argus.umarbutler.com CNAME .
 c.qrdate.org CNAME .
@@ -34,6 +35,7 @@ count.andreabrandi.com CNAME .
 count.kealper.com CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
+gc.gayqing.com CNAME .
 gc.his2nd.life CNAME .
 gc.miluchacontraeltabaco.com CNAME .
 gc.mindenugyved.hu CNAME .
@@ -93,6 +95,7 @@ stats.eithel.org CNAME .
 stats.fieald.com CNAME .
 stats.gopikrishna.dev CNAME .
 stats.haseebmajid.dev CNAME .
+stats.hdyar.com CNAME .
 stats.hedy.dev CNAME .
 stats.how.wtf CNAME .
 stats.ignatuque.xyz CNAME .

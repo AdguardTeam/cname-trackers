@@ -3,7 +3,6 @@
 ## Disguised trackers list
 
 * non.li
-    * l.non.li
     * origin.non.li
     * tls-ebra.non.li
     * tls-lp-cm.non.li
@@ -14,7 +13,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| c.leparisien.fr | l.non.li |
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |
@@ -23,6 +21,7 @@
 | l.monacomatin.mc | non.li |
 | l.mprovence.com | non.li |
 | l.nicematin.com | non.li |
+| l.ouifm.fr | non.li |
 | l.traxmag.com | non.li |
 | l.varmatin.com | non.li |
 | nr.lanouvellerepublique.fr | non.li |
@@ -121,6 +120,7 @@
 | l.gamekult.com | tls.non.li |
 | l.gamepro.de | tls.non.li |
 | l.gamesider.com | tls.non.li |
+| l.gamestar.de | tls.non.li |
 | l.gentside.com | tls.non.li |
 | l.gentside.de | tls.non.li |
 | l.geo.fr | tls.non.li |
@@ -207,6 +207,7 @@
 | l.uppercutmma.com | tls.non.li |
 | l.voici.fr | tls.non.li |
 | l.zdnet.fr | tls.non.li |
+| prod-1.moarty.com | tls.non.li |
 | prod-3.moarty.com | tls.non.li |
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |

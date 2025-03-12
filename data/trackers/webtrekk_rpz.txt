@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -92,6 +92,7 @@ data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
 data.vdi-wissensforum.de CNAME .
+data.velivery.com CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
@@ -286,6 +287,7 @@ web.e.panmacmillan.com CNAME .
 web.e.pbslgroup.co.uk CNAME .
 web.e.professionalbuildingsupplies.co.uk CNAME .
 web.e.pvccladding.com CNAME .
+web.e.rapidonline.com CNAME .
 web.e.soakaways.com CNAME .
 web.email.amplifiedclothing.com CNAME .
 web.email.farrow-ball.com CNAME .
@@ -379,6 +381,7 @@ web.slimjoy.cz CNAME .
 web.slimjoy.dk CNAME .
 web.slimjoy.es CNAME .
 web.slimjoy.it CNAME .
+web.slimjoy.org CNAME .
 web.slimjoy.se CNAME .
 web.slimjoy.sk CNAME .
 web.tamaris.com CNAME .

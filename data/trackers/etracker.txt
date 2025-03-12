@@ -19,6 +19,7 @@
 ||data.juhu.auto^
 ||data.moebel-style.de^
 ||data.uk.kutchenhaus.com^
+||defabc.black-label-coffee.de^
 ||e.mediherz-shop.de^
 ||e.medikamente-per-klick.de^
 ||e.preisapo.de^
@@ -34,11 +35,13 @@
 ||et.lavita.com^
 ||et.majdic.at^
 ||et.pns24.de^
+||et.schindlerparent.de^
 ||et.sectornord.de^
 ||et.university-of-labour.de^
 ||etd.kramer-online.com^
 ||etd.wackerneusongroup.com^
 ||etd.weidemann.com^
+||etr.cosee.biz^
 ||etrac.lodenwalker.com^
 ||etrac.tita.at^
 ||etracker.alex-gross.com^
@@ -130,6 +133,7 @@
 ||webcontr.jalousiescout.at^
 ||webcontr.l.de^
 ||webcontr.lmz-bw.de^
+||webcontr.lotto-hh.de^
 ||webcontr.mea-living.de^
 ||webcontr.patrick-wentzel.de^
 ||webcontr.pedalbox.com^
@@ -140,6 +144,7 @@
 ||webcontr.shirtlabor.de^
 ||webcontr.sienagarden.de^
 ||webcontr.splendid-internet.de^
+||webcontr.stadtwerke-ahrensburg.de^
 ||webcontr.synvia.de^
 ||webcontr.verpoorten-mall.de^
 ||webcontr.verpoorten.de^

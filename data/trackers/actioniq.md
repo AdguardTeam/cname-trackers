@@ -5,6 +5,7 @@
 * mr-in.com
     * alg-prod.actioniq.mr-in.com
     * hearst-prod.actioniq.mr-in.com
+    * hft-prod.actioniq.mr-in.com
     * homer-prod1.aws-ap-south-1.mr-in.com
     * homer-prod1.aws-us-east-1.mr-in.com
     * homer-staging1.aws-us-east-1.mr-in.com
@@ -51,6 +52,7 @@
 | aiq-in.veranda.com | hearst-prod.actioniq.mr-in.com |
 | aiq-in.womansday.com | hearst-prod.actioniq.mr-in.com |
 | aiq-in.womenshealthmag.com | hearst-prod.actioniq.mr-in.com |
+| aiq-in.harborfreight.com | hft-prod.actioniq.mr-in.com |
 | anx-new.learnwithhomer.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
 | anx-new.littlepassports.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
 | anx.learnwithhomer.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
@@ -61,8 +63,10 @@
 | anx-new.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | mr-in.beginlearning.com | homer-prod1.aws-us-east-1.mr-in.com |
+| mr-in.littlepassports.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx-staging.learnwithhomer.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
 | mr-in-staging.beginlearning.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
+| anx-staging.learnwithhomer.com | homer-staging1.aws-us-east-1.mr-in.com |
 | mr-in-staging.beginlearning.com | homer-staging1.aws-us-east-1.mr-in.com |
 | aiq-in.ext.hp.com | hp-prod.actioniq.mr-in.com |
 | a.mystery.software | mr-platform-staging1.mr-in.com |
@@ -89,7 +93,9 @@
 | meta-events.pelotonmagazine.com | outside.mr-in.com |
 | meta-events.pledgereg.com | outside.mr-in.com |
 | meta-events.podiumrunner.com | outside.mr-in.com |
+| meta-events.results.bikereg.com | outside.mr-in.com |
 | meta-events.road-results.com | outside.mr-in.com |
+| meta-events.run.outsideonline.com | outside.mr-in.com |
 | meta-events.runreg.com | outside.mr-in.com |
 | meta-events.skimag.com | outside.mr-in.com |
 | meta-events.skireg.com | outside.mr-in.com |

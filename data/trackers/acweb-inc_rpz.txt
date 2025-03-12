@@ -1,0 +1,51 @@
+;
+; Company name: ACWEB Inc.
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1741768608045        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+l.amamin.jp CNAME .
+l.ashita-sanuki.jp CNAME .
+l.boo-log.com CNAME .
+l.chesuto.jp CNAME .
+l.da-te.jp CNAME .
+l.dosugoi.net CNAME .
+l.eshizuoka.jp CNAME .
+l.ffsagami.com CNAME .
+l.gunmablog.net CNAME .
+l.hama1.jp CNAME .
+l.hamazo.tv CNAME .
+l.hida-ch.com CNAME .
+l.i-ra.jp CNAME .
+l.ikora.tv CNAME .
+l.junglekouen.com CNAME .
+l.kataranna.com CNAME .
+l.kitemi.net CNAME .
+l.ko-co.jp CNAME .
+l.kyo2.jp CNAME .
+l.militaryblog.jp CNAME .
+l.miyachan.cc CNAME .
+l.n-da.jp CNAME .
+l.naganoblog.jp CNAME .
+l.namjai.cc CNAME .
+l.naturum.ne.jp CNAME .
+l.niiblo.jp CNAME .
+l.osakazine.net CNAME .
+l.otemo-yan.net CNAME .
+l.sagafan.jp CNAME .
+l.sapolog.com CNAME .
+l.shiga-saku.net CNAME .
+l.tamaliver.jp CNAME .
+l.tec29.com CNAME .
+l.tenkomori.tv CNAME .
+l.thd-web.jp CNAME .
+l.ti-da.net CNAME .
+l.tsukuba.ch CNAME .
+l.yoka-yoka.jp CNAME .

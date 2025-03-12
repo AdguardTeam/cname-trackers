@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -236,7 +236,6 @@ baboon.naxon.dev CNAME .
 baboon.vacanti.com CNAME .
 badger.pager.app CNAME .
 baldeagle.e-ma.re CNAME .
-bandicoot.p0.design CNAME .
 bandicoot.sigerr.org CNAME .
 barnacle.big-in-japan.com CNAME .
 barnacle.natalieandmikeyb.com CNAME .

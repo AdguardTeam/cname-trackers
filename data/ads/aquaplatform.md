@@ -42,6 +42,7 @@
     * datateam-static.aquaplatform.com
     * el-delivery.aquaplatform.com
     * el-static.aquaplatform.com
+    * faithlife-console.aquaplatform.com
     * faithlife-delivery.aquaplatform.com
     * famag-delivery.aquaplatform.com
     * famag-static.aquaplatform.com
@@ -83,6 +84,7 @@
     * myadsmyanmar-console.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
     * myadsmyanmar-static.aquaplatform.com
+    * ngtu-static.aquaplatform.com
     * oneboat-console.aquaplatform.com
     * oneboat-delivery.aquaplatform.com
     * oneboat-static.aquaplatform.com
@@ -105,6 +107,7 @@
     * revivehosted-delivery.aquaplatform.com
     * revivehosted-static.aquaplatform.com
     * ridgewood-delivery.aquaplatform.com
+    * romand-console.aquaplatform.com
     * romand-delivery.aquaplatform.com
     * sacomm-console.aquaplatform.com
     * sacomm-delivery.aquaplatform.com
@@ -190,6 +193,7 @@
 | ads.environmentalleader.com | el-delivery.aquaplatform.com |
 | www.ads.environmentalleader.com | el-delivery.aquaplatform.com |
 | static.environmentalleader.com | el-static.aquaplatform.com |
+| console.faithlifeads.com | faithlife-console.aquaplatform.com |
 | serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
 | adserver.fa-mag.com | famag-delivery.aquaplatform.com |
 | static.fa-mag.com | famag-static.aquaplatform.com |
@@ -257,6 +261,7 @@
 | console.myadsmyanmar.com | myadsmyanmar-console.aquaplatform.com |
 | servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
 | cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
+| static.notgoingtouni.co.uk | ngtu-static.aquaplatform.com |
 | console.everythingcolorado.com | oneboat-console.aquaplatform.com |
 | console.imagineobx.com | oneboat-console.aquaplatform.com |
 | servedby.everythingnevada.com | oneboat-delivery.aquaplatform.com |
@@ -324,7 +329,9 @@
 | static.aqua-adserver.com | reservoir.aquaplatform.com |
 | static.walaplusadserver.com | reservoir.aquaplatform.com |
 | www.cdn.metrike.com | reservoir.aquaplatform.com |
+| adconsole.eva.live | revivehosted-console.aquaplatform.com |
 | adconsole.sniffies.com | revivehosted-console.aquaplatform.com |
+| console.cricketworld.com | revivehosted-console.aquaplatform.com |
 | console.falconstudios.com | revivehosted-console.aquaplatform.com |
 | console.isn.nl | revivehosted-console.aquaplatform.com |
 | console.revive-adserver.net | revivehosted-console.aquaplatform.com |
@@ -336,8 +343,10 @@
 | adimages.sniffies.com | revivehosted-static.aquaplatform.com |
 | cdn.revive-adserver.net | revivehosted-static.aquaplatform.com |
 | images.cricketworld.com | revivehosted-static.aquaplatform.com |
+| images.falconstudios.com | revivehosted-static.aquaplatform.com |
 | servedby.medlabmag.com | ridgewood-delivery.aquaplatform.com |
 | servedby.pppmag.com | ridgewood-delivery.aquaplatform.com |
+| console.cavalier-romand.ch | romand-console.aquaplatform.com |
 | ads.cavalier-romand.ch | romand-delivery.aquaplatform.com |
 | console.sacommunications.com | sacomm-console.aquaplatform.com |
 | servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |

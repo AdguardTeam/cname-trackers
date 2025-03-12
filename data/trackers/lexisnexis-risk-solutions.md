@@ -1116,6 +1116,7 @@
 | afm.startraderjp.com | h-96eziru5.online-metrix.net |
 | afm.startradermy.com | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
+| afm.ultima-markets.com | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.asia | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.com | h-96eziru5.online-metrix.net |
 | afm.ultimamarketsglobal.com | h-96eziru5.online-metrix.net |

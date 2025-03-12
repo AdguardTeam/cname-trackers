@@ -12,6 +12,7 @@
 ||ac-ebis.usen-insurance.com^
 ||ac-ebis.usen-pos.com^
 ||ac-ebis.usen-service.com^
+||ac-ebis.usen-ssi.jp^
 ||ac-ebis.usen-store.com^
 ||ac-ebis.usen.biz^
 ||ac.geechs-job.com^
@@ -181,7 +182,6 @@
 ||cs1863sbeda.glaucoma-arrest.net^
 ||cs1979sbeda.customguide-build.net^
 ||cs1979sbeda.residence-customize.com^
-||cs2087sbeda.aspex.co.jp^
 ||cs2087sbeda.manage-tempstaffing.net^
 ||cs2113sbeda.hokto-onlineshop.jp^
 ||cv-adebis.my-studies.net^

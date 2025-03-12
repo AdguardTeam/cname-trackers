@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ aiq-in.elledecor.com CNAME .
 aiq-in.esquire.com CNAME .
 aiq-in.ext.hp.com CNAME .
 aiq-in.goodhousekeeping.com CNAME .
+aiq-in.harborfreight.com CNAME .
 aiq-in.harpersbazaar.com CNAME .
 aiq-in.housebeautiful.com CNAME .
 aiq-in.menshealth.com CNAME .
@@ -60,6 +61,7 @@ aiqx.travismathew.com CNAME .
 aiqx.wheeloffortune.com CNAME .
 aiqx.www.ghostbusters.com CNAME .
 anx-new.learnwithhomer.com CNAME .
+anx-staging.learnwithhomer.com CNAME .
 anx.learnwithhomer.com CNAME .
 meta-events.backpacker.com CNAME .
 meta-events.betamtb.com CNAME .
@@ -83,7 +85,9 @@ meta-events.oxygenmag.com CNAME .
 meta-events.pelotonmagazine.com CNAME .
 meta-events.pledgereg.com CNAME .
 meta-events.podiumrunner.com CNAME .
+meta-events.results.bikereg.com CNAME .
 meta-events.road-results.com CNAME .
+meta-events.run.outsideonline.com CNAME .
 meta-events.runreg.com CNAME .
 meta-events.skimag.com CNAME .
 meta-events.skireg.com CNAME .
@@ -97,7 +101,6 @@ meta-events.womensrunning.com CNAME .
 meta-events.yellowstonepark.com CNAME .
 mr-in-staging.beginlearning.com CNAME .
 mr-in.beginlearning.com CNAME .
+mr-in.littlepassports.com CNAME .
 mr.pinkbike.com CNAME .
 anx-new.littlepassports.com CNAME .
-mr-in.littlepassports.com CNAME .
-anx-staging.learnwithhomer.com CNAME .

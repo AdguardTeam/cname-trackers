@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -64,7 +64,6 @@ refer.greenvilleonline.com CNAME .
 refer.hannaandersson.com CNAME .
 refer.harimari.com CNAME .
 refer.hattiesburgamerican.com CNAME .
-refer.healthypawspetinsurance.com CNAME .
 refer.integrativenutrition.com CNAME .
 refer.jacksonsun.com CNAME .
 refer.johnson.ca CNAME .
@@ -138,10 +137,9 @@ demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em225.codecademy.com CNAME .
 em767.forgetrust.com CNAME .
-em7952.dailypay.com CNAME .
 em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
-emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -252,6 +250,7 @@ refer.everlywell.com CNAME .
 refer.evite.com CNAME .
 refer.ez2290.com CNAME .
 refer.fahw.com CNAME .
+refer.familysavingscu.com CNAME .
 refer.firstaidbeauty.com CNAME .
 refer.firsttechfed.com CNAME .
 refer.forddrive.com CNAME .
@@ -590,6 +589,7 @@ share.iqfiber.com CNAME .
 share.iteach.net CNAME .
 share.jacksonsun.com CNAME .
 share.jellybelly.com CNAME .
+share.jsonline.com CNAME .
 share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
 share.key.com CNAME .
@@ -769,7 +769,8 @@ em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
-em8928.em.petco.com CNAME .
+em7952.dailypay.com CNAME .
 em9523.walmartmoneycard.com CNAME .
+emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 sftp.extole.com CNAME .

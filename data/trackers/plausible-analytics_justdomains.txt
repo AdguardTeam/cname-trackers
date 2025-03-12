@@ -33,11 +33,13 @@ analytics.qualityquestions.co
 analytics.ramiyer.io
 analytics.ramiyer.me
 analytics.recamov.com
+analytics.redistributemag.com
 analytics.sideprojectsoftware.com
 analytics.sixfigureswine.com
 analytics.teamcovenant.com
 analytics.thegroupbuyexperiment.com
 analytics.top10-charts.com
+analytics.trust.page
 analytics.uxmetrics.com
 analytics.valheimgamer.com
 analytics.wayland.app
@@ -125,6 +127,7 @@ pa.opqr.co
 pine.nervecentral.com
 ping.naturadapt.com
 ping.resoluteoil.com
+pl-web-stats-icy7xvjbpxsxf8gwwz5c.theochu.com
 pl.1feed.app
 pl.astro-akatemia.fi
 pl.astro.fi
@@ -235,6 +238,7 @@ plausible.tlschedule.com
 plausible.treelightsoftware.com
 plausible.urbanekuensteruhr.de
 plausible.veszelovszki.com
+plausible.wordstamped.com
 plausible.x.baychi.org
 plausible.yalepaprika.com
 plausible.zest.dev
@@ -341,6 +345,7 @@ stats.bcdtravel.com
 stats.beanr.coffee
 stats.beatricew.com
 stats.beausimensen.com
+stats.bedler.dk
 stats.belic.si
 stats.benui.ca
 stats.bernardobordadagua.com
@@ -529,6 +534,7 @@ stats.incoming.co
 stats.increasinglyfunctional.com
 stats.indyhall.org
 stats.infoboard.de
+stats.ingenerator.com
 stats.innoq.com
 stats.instabudget.app
 stats.interactjs.io
@@ -540,6 +546,7 @@ stats.isabelsommerfeld.com
 stats.iscc-system.org
 stats.isthispoisonivy.website
 stats.ivs.rocks
+stats.jacksonwel.sh
 stats.jamesevers.co.uk
 stats.jamesilesantiques.com
 stats.jamhouse.app
@@ -593,7 +600,6 @@ stats.literacysomerset.org
 stats.literaturkreis.online
 stats.lmdsp.com
 stats.localmetravel.com
-stats.lstfnd.de
 stats.ltdhunt.com
 stats.luieremmer.net
 stats.lussoveloce.com
@@ -616,7 +622,6 @@ stats.mazlandscaping.com
 stats.meetnfly.com
 stats.mein-futterlexikon.org
 stats.memberdrive.org
-stats.meno.science
 stats.mesenvies.fr
 stats.metamorphium.com
 stats.michaeloliver.dev
@@ -710,6 +715,7 @@ stats.psychotherapieravensburg.de
 stats.pubfind.io
 stats.qbitstore.nl
 stats.qovery.com
+stats.quantumly.dev
 stats.quicksilvercre.com
 stats.radicaldata.org
 stats.radicitoscane.it
@@ -721,6 +727,7 @@ stats.referralhero.com
 stats.rehaag-immobilien.de
 stats.reisemobil.pro
 stats.remotebear.io
+stats.repacheco.com
 stats.reprage.com
 stats.respkt.de
 stats.reto.tv
@@ -746,8 +753,10 @@ stats.seanbailey.dev
 stats.sebastiandombrowski.de
 stats.selectam.io
 stats.sendngnt.com
+stats.seriouscircus.com
 stats.servicedesignjobs.com
 stats.seva.rocks
+stats.shapeless.dev
 stats.shareup.app
 stats.shawnyeager.com
 stats.shepherd.com
@@ -782,7 +791,6 @@ stats.symbiofest.cz
 stats.tarasyarema.com
 stats.tax-venture.de
 stats.teamdetails.com
-stats.tedserbinski.com
 stats.teenranch.com
 stats.tekin.co.uk
 stats.textprotocol.org
@@ -821,7 +829,6 @@ stats.urlaubsverwaltung.cloud
 stats.useeffect.dev
 stats.uxtools.co
 stats.v4.agirpourlenvironnement.org
-stats.vallery.store
 stats.vanityprojects.com
 stats.vdsnow.ru
 stats.vican.me

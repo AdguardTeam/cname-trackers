@@ -50,7 +50,6 @@ affil.nanospace.cz
 affil.netbiznis.sk
 affil.nutriadapt.cz
 affil.peliskydog.cz
-affil.pgs.sk
 affil.plkshop.cz
 affil.progamingshop.sk
 affil.reedog.cz
@@ -264,6 +263,7 @@ affiliate.studio51.team
 affiliate.svarecky-obchod.cz
 affiliate.svetbot.cz
 affiliate.t6power.cz
+affiliate.tajomstvozenskejprosperity.sk
 affiliate.terarijni-potreby.cz
 affiliate.topol.io
 affiliate.trikator.cz
@@ -298,7 +298,6 @@ ambasadorky.zenyzenam.cz
 ambassador.notsofunnyany.com
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
-box.cryptokingdom.tech
 box.kryptotrejder.sk
 brana.ritualyomlazeni.cz
 collab.zdravetricko.cz
@@ -932,7 +931,6 @@ partneri.zburnik.cz
 partneri.zdravy-zivotny-styl.sk
 partneri.zdravykram.cz
 partneri.zhubnichytre.cz
-partneri.zijchytre.cz
 partners.almaf.cz
 partners.bonyacademy.com
 partners.duckferries.com

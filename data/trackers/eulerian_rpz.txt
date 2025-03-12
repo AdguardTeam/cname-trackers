@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ $TTL 300
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
 3esm.consubebe.es CNAME .
+5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -71,6 +72,7 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -86,7 +88,7 @@ csv4.ebs-paris.fr CNAME .
 ct5m.citadium.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d2u.dauphinquebec.com CNAME .
+d0f.le-dauphin.com CNAME .
 dbj.quebecregion.com CNAME .
 deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
@@ -188,6 +190,7 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
+eat9.thebeat925.ca CNAME .
 eb.mistermenuiserie.com CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -196,6 +199,7 @@ ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
 erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
+et.futuroscope.com CNAME .
 et.sncf.com CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
@@ -257,6 +261,7 @@ gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
+gi7a.structube.com CNAME .
 gli9.inseec-bs.com CNAME .
 gnh2.destinia.lv CNAME .
 gsg9.carrefour-banque.fr CNAME .
@@ -327,6 +332,7 @@ nlf6.vente-unique.pl CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
+nym5c.bonlook.com CNAME .
 nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
@@ -356,6 +362,7 @@ pcnphysio-com.ca-eulerian.net CNAME .
 pgt1.voyage-prive.es CNAME .
 piq4.inseec.education CNAME .
 pjh7.us.chantelle.com CNAME .
+pk1u.melanielyne.com CNAME .
 pkc5.hardrockhoteltenerife.com CNAME .
 pm.pmu.fr CNAME .
 po.ponant.com CNAME .
@@ -383,6 +390,7 @@ r4nds.absorba.com CNAME .
 rce.iperceptions.com CNAME .
 rdc.rachatdecredit.net CNAME .
 rh1a.granions.fr CNAME .
+ri.mistermenuiserie.com CNAME .
 rjg2.destinia.ly CNAME .
 rmp4.destinia.uy CNAME .
 rqz4.supdigital.fr CNAME .
@@ -396,6 +404,7 @@ sa.skodafabia.fr CNAME .
 sa.skodasuperb.fr CNAME .
 sby1.madeindesign.de CNAME .
 sd.securitasdirect.fr CNAME .
+se.mistermenuiserie.com CNAME .
 sfp7.eco-conscient.com CNAME .
 sis8.premieremoisson.com CNAME .
 six9e.canal.fr CNAME .
@@ -426,6 +435,7 @@ tdf1.easyvoyage.co.uk CNAME .
 tdf1.easyvoyage.com CNAME .
 tdf1.easyvoyage.de CNAME .
 tdf1.vente-unique.pt CNAME .
+tdf1.vivabox.fr CNAME .
 tdp1.vivabox.es CNAME .
 tds1.vivabox.be CNAME .
 tmy8.madeindesign.ch CNAME .
@@ -494,14 +504,8 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
-5fm.985fm.ca CNAME .
 c0i.ckoi.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
-d0f.le-dauphin.com CNAME .
-eat9.thebeat925.ca CNAME .
-nym5c.bonlook.com CNAME .
+d2u.dauphinquebec.com CNAME .
 su1.les-suites.ca CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
-gi7a.structube.com CNAME .
-pk1u.melanielyne.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741593609059        ; Serial
+           1741768608045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -437,6 +437,7 @@ tr.france.plimsoll.fr CNAME .
 tr.fts.francetravail.fr CNAME .
 tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
+tr.g.moethennessy.com CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.bnpparibas-pf.fr CNAME .
 tr.gestion.cafineo.fr CNAME .
@@ -680,6 +681,7 @@ tr.mep.enkiapp.io CNAME .
 tr.mes-bonsplans.be CNAME .
 tr.mes-prestataires.fr CNAME .
 tr.message.maaf.fr CNAME .
+tr.metiersdexcellence.lvmh.com CNAME .
 tr.mh-connect.moethennessy.com CNAME .
 tr.mhanz.moethennessy.com CNAME .
 tr.mhch.moet.hennessy.com CNAME .
@@ -1224,4 +1226,5 @@ f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
 www.bfc-mp.caisse-epargne.fr CNAME .
+s.gemy.fr CNAME .
 www.lgch.mp CNAME .

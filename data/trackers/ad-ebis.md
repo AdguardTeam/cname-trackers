@@ -194,7 +194,6 @@
     * 93269da3-jabnwha0.cname.ebis.ne.jp
     * 93c1009e-6pusefyf.cname.ebis.ne.jp
     * 9473cf8f-y4rfthkp.cname.ebis.ne.jp
-    * 94d31599-scxitlgt.cname.ebis.ne.jp
     * 9545ff72-f16cbhzj.cname.ebis.ne.jp
     * 95e65062-vpau4sdp.cname.ebis.ne.jp
     * 95e65062-y5awr3vc.cname.ebis.ne.jp
@@ -246,6 +245,7 @@
     * b356e282-rlvgog2a.cname.ebis.ne.jp
     * b3dfd045-acrymmnj.cname.ebis.ne.jp
     * b54f584c-hd5f4dhg.cname.ebis.ne.jp
+    * b5b7acdf-yphasapa.cname.ebis.ne.jp
     * b5e8d6c4-bzcut99h.cname.ebis.ne.jp
     * b654b31b-gbehg577.cname.ebis.ne.jp
     * b69bfde6-esqb2ypb.cname.ebis.ne.jp
@@ -538,7 +538,6 @@
 | adebis.kamada.co.jp | 93269da3-jabnwha0.cname.ebis.ne.jp |
 | ebis-tracking.hirakata-skin-clinic.com | 93c1009e-6pusefyf.cname.ebis.ne.jp |
 | campaign-direct.eisai.jp | 9473cf8f-y4rfthkp.cname.ebis.ne.jp |
-| cs2087sbeda.aspex.co.jp | 94d31599-scxitlgt.cname.ebis.ne.jp |
 | ebis.j-l-m.co.jp | 9545ff72-f16cbhzj.cname.ebis.ne.jp |
 | adebis.juku.st | 95e65062-vpau4sdp.cname.ebis.ne.jp |
 | adebis02.juku.st | 95e65062-y5awr3vc.cname.ebis.ne.jp |
@@ -590,6 +589,7 @@
 | ureruebis.nintama.co.jp | b356e282-rlvgog2a.cname.ebis.ne.jp |
 | cname.jf-d.jp | b3dfd045-acrymmnj.cname.ebis.ne.jp |
 | tracking.stad-gakusyu.jp | b54f584c-hd5f4dhg.cname.ebis.ne.jp |
+| ac-ebis.usen-ssi.jp | b5b7acdf-yphasapa.cname.ebis.ne.jp |
 | www2.hnavi.co.jp | b5e8d6c4-bzcut99h.cname.ebis.ne.jp |
 | www-ebis.384.co.jp | b654b31b-gbehg577.cname.ebis.ne.jp |
 | ebis.15jikai.com | b69bfde6-esqb2ypb.cname.ebis.ne.jp |

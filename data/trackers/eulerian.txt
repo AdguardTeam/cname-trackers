@@ -7,6 +7,7 @@
 ||2efj.economies.cheque-dejeuner.com^
 ||2efj.up.coop^
 ||3esm.consubebe.es^
+||5fm.985fm.ca^
 ||66jo.societegenerale.fr^
 ||6pal.consobaby.com^
 ||6swu.cpa-france.org^
@@ -60,6 +61,7 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
+||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
 ||cbl6.destinia.gt^
@@ -75,7 +77,7 @@
 ||ct5m.citadium.com^
 ||cvi6.destinia.qa^
 ||cyf9.destinia.cl^
-||d2u.dauphinquebec.com^
+||d0f.le-dauphin.com^
 ||dbj.quebecregion.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
@@ -177,6 +179,7 @@
 ||ea.voyage-prive.es^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
+||eat9.thebeat925.ca^
 ||eb.mistermenuiserie.com^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -185,6 +188,7 @@
 ||elr.sfr.fr^
 ||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
+||et.futuroscope.com^
 ||et.sncf.com^
 ||eule1.pmu.fr^
 ||eule3.pmu.fr^
@@ -246,6 +250,7 @@
 ||gf7t.cheques-cadeaux-culturels.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
+||gi7a.structube.com^
 ||gli9.inseec-bs.com^
 ||gnh2.destinia.lv^
 ||gsg9.carrefour-banque.fr^
@@ -316,6 +321,7 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
+||nym5c.bonlook.com^
 ||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
@@ -345,6 +351,7 @@
 ||pgt1.voyage-prive.es^
 ||piq4.inseec.education^
 ||pjh7.us.chantelle.com^
+||pk1u.melanielyne.com^
 ||pkc5.hardrockhoteltenerife.com^
 ||pm.pmu.fr^
 ||po.ponant.com^
@@ -372,6 +379,7 @@
 ||rce.iperceptions.com^
 ||rdc.rachatdecredit.net^
 ||rh1a.granions.fr^
+||ri.mistermenuiserie.com^
 ||rjg2.destinia.ly^
 ||rmp4.destinia.uy^
 ||rqz4.supdigital.fr^
@@ -385,6 +393,7 @@
 ||sa.skodasuperb.fr^
 ||sby1.madeindesign.de^
 ||sd.securitasdirect.fr^
+||se.mistermenuiserie.com^
 ||sfp7.eco-conscient.com^
 ||sis8.premieremoisson.com^
 ||six9e.canal.fr^
@@ -415,6 +424,7 @@
 ||tdf1.easyvoyage.com^
 ||tdf1.easyvoyage.de^
 ||tdf1.vente-unique.pt^
+||tdf1.vivabox.fr^
 ||tdp1.vivabox.es^
 ||tds1.vivabox.be^
 ||tmy8.madeindesign.ch^
@@ -483,14 +493,8 @@
 ||zsi7.destinia.do^
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
-||5fm.985fm.ca^
 ||c0i.ckoi.com^
-||c0p.cepsum.umontreal.ca^
-||d0f.le-dauphin.com^
-||eat9.thebeat925.ca^
-||nym5c.bonlook.com^
+||d2u.dauphinquebec.com^
 ||su1.les-suites.ca^
 ||yio.tremblant.ca^
 ||ea.mnt.fr^
-||gi7a.structube.com^
-||pk1u.melanielyne.com^
