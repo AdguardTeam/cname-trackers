@@ -49,6 +49,13 @@
         ]
     },
     {
+        "company_name": "Ad Plus",
+        "type": "ad",
+        "domains": [
+            "stat-rock.com"
+        ]
+    },
+    {
         "company_name": "Ad-Shield",
         "type": "ad",
         "domains": [
