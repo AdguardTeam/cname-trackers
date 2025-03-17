@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME original trackers list
 # Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-# TimeUpdated: 2025-03-12T08:36:48+00:00
+# TimeUpdated: 2025-03-17T08:00:09+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 #
@@ -24,6 +24,9 @@ acweb.clog.jp
 #
 # Company: AD EBiS
 ebis.ne.jp
+#
+# Company: Ad Plus
+stat-rock.com
 #
 # Company: Ad-Shield
 ad-shield.cc
@@ -176,6 +179,9 @@ exacttarget.com
 #
 # Company: Stape
 stape.net
+#
+# Company: Stripchat
+white-label.stripchat.com
 #
 # Company: TraceDock
 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com

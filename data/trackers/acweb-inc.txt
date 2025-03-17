@@ -1,5 +1,6 @@
 !
 ! Company name: ACWEB Inc.
+||l.365blog.jp^
 ||l.amamin.jp^
 ||l.ashita-sanuki.jp^
 ||l.boo-log.com^
@@ -37,4 +38,5 @@
 ||l.thd-web.jp^
 ||l.ti-da.net^
 ||l.tsukuba.ch^
+||l.vietnhat.tv^
 ||l.yoka-yoka.jp^

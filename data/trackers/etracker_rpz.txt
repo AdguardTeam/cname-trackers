@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,6 +49,7 @@ et.pns24.de CNAME .
 et.schindlerparent.de CNAME .
 et.sectornord.de CNAME .
 et.university-of-labour.de CNAME .
+et.xenbyte.com CNAME .
 etd.kramer-online.com CNAME .
 etd.wackerneusongroup.com CNAME .
 etd.weidemann.com CNAME .
@@ -90,6 +91,7 @@ pse.gabor.com CNAME .
 ric.arrive-im-herzogpark.de CNAME .
 ric.contur-muenchen.de CNAME .
 ric.riedel-immobilien.de CNAME .
+show.gruppedrei.com CNAME .
 src.vector.com CNAME .
 sst.cannapoli.de CNAME .
 sst.grasrezept-vergleich.de CNAME .
@@ -123,6 +125,7 @@ tracking.terrassenhof.de CNAME .
 trkkr.bugatti-media.com CNAME .
 trkkr.bugatti-newsroom.com CNAME .
 wa.ostermann.eu CNAME .
+waet.datalogue.de CNAME .
 wctr.hh-klebetechnologie.de CNAME .
 wctr.khk-karlsruhe.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
@@ -140,6 +143,7 @@ webcontr.bet-at-home.de CNAME .
 webcontr.caso-design.de CNAME .
 webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
+webcontr.fsj-digital-bw.de CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.l.de CNAME .
@@ -162,6 +166,7 @@ webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
+webstats.kawentsmann.de CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
 weco.gasteo.de CNAME .

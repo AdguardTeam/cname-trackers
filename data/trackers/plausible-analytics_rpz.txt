@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,6 +63,7 @@ api.digitalpiloten.org CNAME .
 api.elliehuxtable.com CNAME .
 api.fuck.education CNAME .
 api.ryanyao.design CNAME .
+api0.schule.wtf CNAME .
 apis.4bn.xyz CNAME .
 app-stats.supernotes.app CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
@@ -114,6 +115,7 @@ marsupial.roleup.com CNAME .
 meter.bref.sh CNAME .
 metric.methoddev.com CNAME .
 metrics.creit.tech CNAME .
+metrics.earrieta.dev CNAME .
 metrics.recunia.de CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
@@ -279,7 +281,6 @@ s.crackedthecode.co CNAME .
 s.cuoresportivo.no CNAME .
 s.cybercompass.io CNAME .
 s.ergotherapieblog.de CNAME .
-s.fission.codes CNAME .
 s.fraservotes.com CNAME .
 s.freelanceratecalculator.com CNAME .
 s.glimesh.tv CNAME .
@@ -505,6 +506,7 @@ stats.fundimmo.com CNAME .
 stats.fungus.computer CNAME .
 stats.galeb.org CNAME .
 stats.galleriacortona.com CNAME .
+stats.geekish.dev CNAME .
 stats.geobox.app CNAME .
 stats.gesund-vital-lebensfreude.com CNAME .
 stats.getdoks.org CNAME .

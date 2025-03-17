@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,3 +33,4 @@ wct.softonic.kr CNAME .
 wct.softonic.nl CNAME .
 wct.softonic.pl CNAME .
 wct.softonic.ru CNAME .
+wctsub.start24.nl CNAME .

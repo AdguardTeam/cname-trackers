@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,23 +24,22 @@ ast.welt.de CNAME .
 blackberry.basf.com CNAME .
 blackberry.suvinil.com.br CNAME .
 collect.aeonbank.co.jp CNAME .
+collect.ansons.de CNAME .
 collect.asics.com CNAME .
 collect.calvinklein.at CNAME .
-collect.calvinklein.be CNAME .
 collect.calvinklein.co.uk CNAME .
 collect.calvinklein.com CNAME .
 collect.calvinklein.de CNAME .
 collect.calvinklein.dk CNAME .
-collect.calvinklein.ee CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
+collect.calvinklein.ie CNAME .
 collect.calvinklein.it CNAME .
-collect.calvinklein.lv CNAME .
 collect.calvinklein.nl CNAME .
+collect.calvinklein.pl CNAME .
 collect.calvinklein.pt CNAME .
-collect.calvinklein.si CNAME .
-collect.calvinklein.sk CNAME .
+collect.calvinklein.se CNAME .
 collect.kinto-jp.com CNAME .
 collect.mtgec.jp CNAME .
 collect.oportun.com CNAME .
@@ -48,6 +47,8 @@ collect.tommy.com CNAME .
 connect.afterpay.com CNAME .
 dcjm-tms.gestalterbank.de CNAME .
 dcjm-tms.hannoversche-volksbank.de CNAME .
+dcjm-tms.vb-mittelhessen.de CNAME .
+dcjm-tms.volksbank-stuttgart.de CNAME .
 dp.casa.it CNAME .
 dp.idealista.com CNAME .
 dp.idealista.it CNAME .
@@ -145,6 +146,7 @@ tags.calvinklein.hu CNAME .
 tags.calvinklein.ie CNAME .
 tags.calvinklein.it CNAME .
 tags.calvinklein.lt CNAME .
+tags.calvinklein.lu CNAME .
 tags.calvinklein.lv CNAME .
 tags.calvinklein.nl CNAME .
 tags.calvinklein.pl CNAME .
@@ -312,7 +314,6 @@ tccd.douglas.bg CNAME .
 tccd.douglas.ch CNAME .
 tccd.douglas.cz CNAME .
 tccd.douglas.de CNAME .
-tccd.douglas.ee CNAME .
 tccd.douglas.es CNAME .
 tccd.douglas.hr CNAME .
 tccd.douglas.hu CNAME .
@@ -323,7 +324,6 @@ tccd.douglas.nl CNAME .
 tccd.douglas.pl CNAME .
 tccd.douglas.pt CNAME .
 tccd.douglas.ro CNAME .
-tccd.douglas.si CNAME .
 tccd.douglas.sk CNAME .
 tccd.niche-beauty.com CNAME .
 tccd.nocibe.fr CNAME .
@@ -352,8 +352,7 @@ tealm-c.heydude.de CNAME .
 tealm-c.heydude.eu CNAME .
 tealm-c.heydude.uk CNAME .
 tetd.douglas.ee CNAME .
-tiq.esprit.at CNAME .
-tiq.esprit.de CNAME .
+tetd.douglas.lv CNAME .
 tiq.esprit.fr CNAME .
 tiq.esprit.hk CNAME .
 tiq.esprit.us CNAME .
@@ -410,6 +409,7 @@ visitor-service.aeonbank.co.jp CNAME .
 visitor-service.fancl.co.jp CNAME .
 visitor-service.kinto-jp.com CNAME .
 visitor-service.mtgec.jp CNAME .
+visitor-service.sixpad.jp CNAME .
 visitor.collect.oportun.com CNAME .
 visitor.oportun.com CNAME .
 vtd.twentyfouram.com CNAME .
@@ -418,21 +418,23 @@ vtd.vontobelsfa.com CNAME .
 webtags.logitech.com CNAME .
 webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
-collect.ansons.de CNAME .
+collect.calvinklein.be CNAME .
 collect.calvinklein.bg CNAME .
 collect.calvinklein.ch CNAME .
 collect.calvinklein.cz CNAME .
+collect.calvinklein.ee CNAME .
 collect.calvinklein.hr CNAME .
 collect.calvinklein.hu CNAME .
-collect.calvinklein.ie CNAME .
 collect.calvinklein.lt CNAME .
 collect.calvinklein.lu CNAME .
-collect.calvinklein.pl CNAME .
-collect.calvinklein.se CNAME .
+collect.calvinklein.lv CNAME .
+collect.calvinklein.si CNAME .
+collect.calvinklein.sk CNAME .
+tccd.douglas.ee CNAME .
+tccd.douglas.si CNAME .
 collect.fancl.co.jp CNAME .
 tag.bi.serviceplan.com CNAME .
 tags.calvinklein.bg CNAME .
-tags.calvinklein.lu CNAME .
 tags.peek-cloppenburg.nl CNAME .
 tags.sixpad.jp CNAME .
 view.ansons.de CNAME .

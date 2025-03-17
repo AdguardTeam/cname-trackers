@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,6 +54,7 @@ tr.apac.coms.moethennessy.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
 tr.asp0010.espmp-nifr.net CNAME .
 tr.asp0018.espmp-aufr.net CNAME .
+tr.asp002p.espmp-cufr.net CNAME .
 tr.asp002q.espmp-aufr.net CNAME .
 tr.asp002x.espmp-cufr.net CNAME .
 tr.asp0085.espmp-nifr.net CNAME .
@@ -69,6 +70,7 @@ tr.asp00ab.espmp-cufr.net CNAME .
 tr.asp00ah.espmp-nifr.net CNAME .
 tr.asp00am.espmp-cufr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
+tr.asp102c.espmp-aufr.net CNAME .
 tr.asp102n.espmp-cufr.net CNAME .
 tr.asp103z.espmp-nifr.net CNAME .
 tr.asp104p.espmp-aufr.net CNAME .
@@ -107,9 +109,11 @@ tr.asp10f5.espmp-agfr.net CNAME .
 tr.asp10f6.espmp-agfr.net CNAME .
 tr.asp10fa.espmp-cufr.net CNAME .
 tr.asp10fg.espmp-aufr.net CNAME .
+tr.asp10fi.espmp-nifr.net CNAME .
 tr.asp10fl.espmp-nifr.net CNAME .
 tr.asp10fo.espmp-nifr.net CNAME .
 tr.asp10fp.espmp-nifr.net CNAME .
+tr.asp10fq.espmp-aufr.net CNAME .
 tr.asp10fx.espmp-cufr.net CNAME .
 tr.asp10fy.espmp-agfr.net CNAME .
 tr.asp10ga.espmp-nifr.net CNAME .
@@ -226,6 +230,7 @@ tr.cnaf.espmp-nifr.net CNAME .
 tr.cobranca.younited-credit.com CNAME .
 tr.cogedim.espmp-agfr.net CNAME .
 tr.collectif.groupe-vyv.fr CNAME .
+tr.colossusbetsmail.com CNAME .
 tr.com-clients.sfr.fr CNAME .
 tr.com-parc.sfr.fr CNAME .
 tr.com-red.sfr.fr CNAME .
@@ -249,7 +254,6 @@ tr.communication.enkiapp.io CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
 tr.communication.hennessy.com CNAME .
 tr.communication.hybrigenics.com CNAME .
-tr.communication.jardindacclimatation.fr CNAME .
 tr.communication.lamaisondesstartups.com CNAME .
 tr.communication.lvmh.fr CNAME .
 tr.communication.lvmhdare.com CNAME .
@@ -282,6 +286,7 @@ tr.contrats.cetelem.fr CNAME .
 tr.contrats.cofinoga.fr CNAME .
 tr.contrats.domofinance.fr CNAME .
 tr.corporate.moethennessy.com CNAME .
+tr.courriel.conexvous.com CNAME .
 tr.courriel.ganassurances.fr CNAME .
 tr.courriel.mae.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
@@ -512,6 +517,7 @@ tr.info.la-norma.fr CNAME .
 tr.info.lacentrale.fr CNAME .
 tr.info.linnc.com CNAME .
 tr.info.linxea.com CNAME .
+tr.info.magora.fr CNAME .
 tr.info.mango-mobilites.fr CNAME .
 tr.info.mango-mobilitesbyaprr.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
@@ -748,7 +754,6 @@ tr.news.accessmbatour.com CNAME .
 tr.news.actu-man.com CNAME .
 tr.news.ailleurs.com CNAME .
 tr.news.alcyon.com CNAME .
-tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
 tr.news.alinea.fr CNAME .
 tr.news.allopneus.com CNAME .
@@ -911,6 +916,7 @@ tr.newsletter.1664france.fr CNAME .
 tr.newsletter.1oag.com CNAME .
 tr.newsletter.actalians.fr CNAME .
 tr.newsletter.afpa.fr CNAME .
+tr.newsletter.alimgouv.fr CNAME .
 tr.newsletter.assuragency.net CNAME .
 tr.newsletter.astro-mail.com CNAME .
 tr.newsletter.bauermedia.fr CNAME .
@@ -1131,6 +1137,7 @@ tr.urfk03h.espmp-nifr.net CNAME .
 tr.urfk03i.espmp-nifr.net CNAME .
 tr.urfk03k.espmp-agfr.net CNAME .
 tr.urfk03q.espmp-nifr.net CNAME .
+tr.urfk03r.espmp-nifr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
 tr.urfk03x.espmp-agfr.net CNAME .
 tr.urfk041.espmp-cufr.net CNAME .
@@ -1228,3 +1235,4 @@ lbv5.mperf.com CNAME .
 www.bfc-mp.caisse-epargne.fr CNAME .
 s.gemy.fr CNAME .
 www.lgch.mp CNAME .
+tr.communication.jardindacclimatation.fr CNAME .

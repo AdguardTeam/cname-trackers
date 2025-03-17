@@ -8,6 +8,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| l.365blog.jp | acweb.clog.jp |
 | l.amamin.jp | acweb.clog.jp |
 | l.ashita-sanuki.jp | acweb.clog.jp |
 | l.boo-log.com | acweb.clog.jp |
@@ -45,4 +46,5 @@
 | l.thd-web.jp | acweb.clog.jp |
 | l.ti-da.net | acweb.clog.jp |
 | l.tsukuba.ch | acweb.clog.jp |
+| l.vietnhat.tv | acweb.clog.jp |
 | l.yoka-yoka.jp | acweb.clog.jp |

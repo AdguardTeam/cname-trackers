@@ -15,8 +15,11 @@
 ||analytics.leespace.co^
 ||analytics.popov.link^
 ||analytics.riggraz.dev^
+||analytics.sanmateo.ca.us.dev.openlawlibrary.us^
 ||analytics.sanmateo.ca.us.open.law^
+||analytics.tomatomtl.com^
 ||analytics.yofbrc.com^
+||api.meestermac.nl^
 ||argus.umarbutler.com^
 ||c.qrdate.org^
 ||contacapre.bortox.it^
@@ -129,6 +132,7 @@
 ||stats.whatacools.com^
 ||stats.wswg.xyz^
 ||stats.ybbond.id^
+||stats.zgo.at^
 ||trackerstats.davidthe.dev^
 ||varz.mcyoung.xyz^
 ||vault-stats.sladewatkins.net^

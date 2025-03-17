@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -513,6 +513,7 @@ dp.barclaycardus.com CNAME .
 dp.barclaysus.com CNAME .
 dp.lottogo.com CNAME .
 dp.mynylottery.org CNAME .
+dpcontent.locationsmart.net CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dt.extrakarte.com CNAME .
@@ -743,6 +744,7 @@ payment.rewards.sony.com CNAME .
 payments-de.lidlplus.com CNAME .
 payments.direct.playstation.com CNAME .
 payments.hd-plus.de CNAME .
+payments.helzberg.com CNAME .
 payrisk-tmx.didiglobal.com CNAME .
 pdr.eve.sonyentertainmentnetwork.com CNAME .
 pf.intuit.com CNAME .
@@ -939,6 +941,7 @@ sptbb.pilates.com CNAME .
 src.ebay-us.com CNAME .
 src0.myvoffice.com CNAME .
 srv.squaretrade.at CNAME .
+srv.squaretrade.be CNAME .
 srv.squaretrade.co.jp CNAME .
 srv.squaretrade.co.uk CNAME .
 srv.squaretrade.com CNAME .
@@ -1062,6 +1065,7 @@ tm.clearcover.com CNAME .
 tm.cox.com CNAME .
 tm.creditcheck.illion.co.nz CNAME .
 tm.creditcheck.illion.com.au CNAME .
+tm.creditprotect.illion.co.nz CNAME .
 tm.creditprotect.illion.com.au CNAME .
 tm.cybersource.com CNAME .
 tm.directly.com CNAME .

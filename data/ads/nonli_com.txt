@@ -26,8 +26,10 @@
 ||l.alternatives-economiques.fr^
 ||l.aufeminin.com^
 ||l.aujourdhui.fr^
+||l.auto-moto.com^
 ||l.autojournal.fr^
 ||l.automobile-magazine.fr^
+||l.autonews.fr^
 ||l.autoplus.fr^
 ||l.beaute-test.com^
 ||l.beauxarts.com^
@@ -47,6 +49,7 @@
 ||l.cnetfrance.fr^
 ||l.courrier-picard.fr^
 ||l.cuisineactuelle.fr^
+||l.dailysports.fr^
 ||l.diapasonmag.fr^
 ||l.diverto.tv^
 ||l.dna.fr^
@@ -62,6 +65,7 @@
 ||l.familiscope.fr^
 ||l.femmeactuelle.fr^
 ||l.fip.fr^
+||l.foot-national.com^
 ||l.football.fr^
 ||l.football365.fr^
 ||l.franceantilles.fr^
@@ -88,6 +92,7 @@
 ||l.jeuneafrique.com^
 ||l.jeuxvideo.com^
 ||l.journaldemillau.fr^
+||l.koolmag.fr^
 ||l.lacremedugaming.fr^
 ||l.ladepeche.fr^
 ||l.lalsace.fr^
@@ -135,6 +140,7 @@
 ||l.ohmymag.co.uk^
 ||l.ohmymag.com^
 ||l.ohmymag.de^
+||l.onzemondial.com^
 ||l.ouest-france.fr^
 ||l.ouifm.fr^
 ||l.ozap.com^
@@ -142,12 +148,14 @@
 ||l.paroledemamans.com^
 ||l.planet.fr^
 ||l.pleinevie.fr^
+||l.positivr.fr^
 ||l.programme-tv.net^
 ||l.programme.tv^
 ||l.psychologies.com^
 ||l.purebreak.com^
 ||l.purepeople.com^
 ||l.purepeople.com.br^
+||l.quinzemondial.com^
 ||l.radiofrance.fr^
 ||l.reporterre.net^
 ||l.republicain-lorrain.fr^
@@ -178,6 +186,7 @@
 ||l.zdnet.fr^
 ||nr.lanouvellerepublique.fr^
 ||on.qobuz.com^
+||poc.warnerbros.fr^
 ||prod-1.moarty.com^
 ||prod-3.moarty.com^
 ||social.eleveur-laitier.fr^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -107,6 +107,7 @@ coreads-static.cambridge.org CNAME .
 coreads.cambridge.org CNAME .
 creatives.goldseek.com CNAME .
 display.lawbulletin.com CNAME .
+etnomedia-static.reviveservers.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
 images.falconstudios.com CNAME .
@@ -149,6 +150,7 @@ servedby.geminipub.com CNAME .
 servedby.greenspring.com CNAME .
 servedby.healthcarescene.com CNAME .
 servedby.hlipublishing.com CNAME .
+servedby.hollandhortimedia.nl CNAME .
 servedby.hour-media.com CNAME .
 servedby.imagineobx.com CNAME .
 servedby.insideradverts.com CNAME .
@@ -216,18 +218,21 @@ static.wwoz.org CNAME .
 stommeplaatjes.geenstijl.nl CNAME .
 tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
+webtool-delivery.reviveservers.com CNAME .
 www.adconsole.proxibid.com CNAME .
 www.ads.environmentalleader.com CNAME .
 www.ads.proxibid.com CNAME .
 www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.api.adbility-media.com CNAME .
+www.api.metrike.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
 www.cdn.adspmg.com CNAME .
 www.cdn.datateam.co.uk CNAME .
 www.cdn.metrike.com CNAME .
 www.console.ceramicartsnetwork.org CNAME .
 www.console.healthcarescene.com CNAME .
+www.console.pinktriangle.ca CNAME .
 www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .
 www.coreads.cambridge.org CNAME .
@@ -247,6 +252,7 @@ www.servedby.quirks.com CNAME .
 www.servedby.sacommunications.com CNAME .
 www.servedby.schrotundkorn.de CNAME .
 www.static.ad.logic-test.viasat.io CNAME .
+www.static.engineeringnews.co.za CNAME .
 www.static.everythingnevada.com CNAME .
 www.static.healthcarescene.com CNAME .
 www.static.imagineobx.com CNAME .

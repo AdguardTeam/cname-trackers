@@ -502,6 +502,7 @@
 ||dp.barclaysus.com^
 ||dp.lottogo.com^
 ||dp.mynylottery.org^
+||dpcontent.locationsmart.net^
 ||dpf.authorize.net^
 ||drfdisvc.walmart.com^
 ||dt.extrakarte.com^
@@ -732,6 +733,7 @@
 ||payments-de.lidlplus.com^
 ||payments.direct.playstation.com^
 ||payments.hd-plus.de^
+||payments.helzberg.com^
 ||payrisk-tmx.didiglobal.com^
 ||pdr.eve.sonyentertainmentnetwork.com^
 ||pf.intuit.com^
@@ -928,6 +930,7 @@
 ||src.ebay-us.com^
 ||src0.myvoffice.com^
 ||srv.squaretrade.at^
+||srv.squaretrade.be^
 ||srv.squaretrade.co.jp^
 ||srv.squaretrade.co.uk^
 ||srv.squaretrade.com^
@@ -1051,6 +1054,7 @@
 ||tm.cox.com^
 ||tm.creditcheck.illion.co.nz^
 ||tm.creditcheck.illion.com.au^
+||tm.creditprotect.illion.co.nz^
 ||tm.creditprotect.illion.com.au^
 ||tm.cybersource.com^
 ||tm.directly.com^

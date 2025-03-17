@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -151,7 +151,6 @@ cmp.volkswagen.be CNAME .
 co-operative.activate.ensighten.com CNAME .
 consent.irvinecompany.com CNAME .
 consent.irvinecompany.com.cdn.cloudflare.net CNAME .
-cookiebanner.heineken.com CNAME .
 cookieconsent.kornferry.com CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
@@ -295,13 +294,10 @@ privacy.28degreescard.com.au CNAME .
 privacy.acaseforwomen.com CNAME .
 privacy.acc2-online.heineken.co.za CNAME .
 privacy.acc2.heishop.com.br CNAME .
-privacy.affligembeer.com CNAME .
 privacy.amadrinks.be CNAME .
 privacy.amstel.nl CNAME .
-privacy.birramoretti.com CNAME .
 privacy.blade.app CNAME .
 privacy.buyersedge.com.au CNAME .
-privacy.desperados.com CNAME .
 privacy.easyjet.com CNAME .
 privacy.gemfinance.co.nz CNAME .
 privacy.gemvisa.co.nz CNAME .
@@ -319,7 +315,6 @@ privacy.learcapital.com CNAME .
 privacy.online.heineken.co.za CNAME .
 privacy.owllabs.com CNAME .
 privacy.sekuremerchants.com CNAME .
-privacy.tigerbeer.com CNAME .
 privacy.umiloans.com.au CNAME .
 privacy.uwm.com CNAME .
 privacy.zoll.com CNAME .

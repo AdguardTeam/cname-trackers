@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -80,6 +80,7 @@ a8.classicalelf.shop CNAME .
 a8.clubgets.com CNAME .
 a8.cocomeister.jp CNAME .
 a8.coloria.jp CNAME .
+a8.cookbiz.jp CNAME .
 a8.copyki-pr.com CNAME .
 a8.cotta.jp CNAME .
 a8.creativevillage.ne.jp CNAME .
@@ -104,6 +105,7 @@ a8.dstation.jp CNAME .
 a8.dymtech.jp CNAME .
 a8.earth-shiho.com CNAME .
 a8.earthwater-cayenne.com CNAME .
+a8.ecwa.jp CNAME .
 a8.efax.co.jp CNAME .
 a8.elife.clinic CNAME .
 a8.emeao.jp CNAME .
@@ -295,6 +297,7 @@ a8.shop.basefood.co.jp CNAME .
 a8.shop.dreammug.co.jp CNAME .
 a8.shop.km-link.jp CNAME .
 a8.shop.nicosuma.com CNAME .
+a8.shop.scrop-coffee-roasters.com CNAME .
 a8.shop.tsukijiwadatsumi.com CNAME .
 a8.shopserve.jp CNAME .
 a8.shukatsu-note.com CNAME .
@@ -331,6 +334,7 @@ a8.the-session.jp CNAME .
 a8.themoonmilk.jp CNAME .
 a8.thermostand.jp CNAME .
 a8.thg.co.jp CNAME .
+a8.thidastone.com CNAME .
 a8.tideisturning.com CNAME .
 a8.tokihana.net CNAME .
 a8.tokyo-hills-clinic.com CNAME .
@@ -813,6 +817,7 @@ a8cv.aplod.jp CNAME .
 a8cv.aquasilver.co.jp CNAME .
 a8cv.araiba.net CNAME .
 a8cv.aruci.jp CNAME .
+a8cv.assign-inc.com CNAME .
 a8cv.atami-box.com CNAME .
 a8cv.atgp.jp CNAME .
 a8cv.auhikari-bykddi.com CNAME .
@@ -835,6 +840,7 @@ a8cv.biken-mall.jp CNAME .
 a8cv.biz-maps.com CNAME .
 a8cv.bizcircle.jp CNAME .
 a8cv.bizcomfort.jp CNAME .
+a8cv.bizlink.io CNAME .
 a8cv.bloomonline.jp CNAME .
 a8cv.bonaventura.shop CNAME .
 a8cv.borderfree-official.com CNAME .
@@ -1082,6 +1088,7 @@ a8cv.lesson-note.com CNAME .
 a8cv.leverage-learning.com CNAME .
 a8cv.lianest.co.jp CNAME .
 a8cv.lifenrich.co.jp CNAME .
+a8cv.lifull.jp CNAME .
 a8cv.livechat-berry.com CNAME .
 a8cv.lp.nalevi.mynavi.jp CNAME .
 a8cv.lp.x-house.co.jp CNAME .
@@ -1252,6 +1259,7 @@ a8cv.soyafarm.com CNAME .
 a8cv.spacioshop.com CNAME .
 a8cv.spalab-chintai.uk-corp.co.jp CNAME .
 a8cv.spot-pj.com CNAME .
+a8cv.ssl24.net CNAME .
 a8cv.staff-manzoku.co.jp CNAME .
 a8cv.staffagent.co.jp CNAME .
 a8cv.star-color.jp CNAME .
@@ -1403,6 +1411,7 @@ a8tra.altana-design.com CNAME .
 a8track.aidmybank.com CNAME .
 a8track.bizdigi.jp CNAME .
 a8track.boost-station.jp CNAME .
+a8track.spartabuddy.jp CNAME .
 a8track.speakbuddy-personalcoaching.com CNAME .
 a8track.www.pontely.com CNAME .
 a8trck.aisatsujo.com CNAME .
@@ -1470,6 +1479,7 @@ affiliate.k-uno.co.jp CNAME .
 affiliate.kgcshop.jp CNAME .
 affiliate.ouchi.coop CNAME .
 affiliate.petitwedding.com CNAME .
+affiliate.rise-jms.jp CNAME .
 affiliate.taihoshop.jp CNAME .
 affiliate.tripact.jp CNAME .
 afi.biyou.web-marketing.ai CNAME .
@@ -1515,6 +1525,7 @@ cv.bloomeelife.com CNAME .
 cv.cante-gym.com CNAME .
 cv.cart.naturath.jp CNAME .
 cv.classmall.jp CNAME .
+cv.codecamp.jp CNAME .
 cv.colleize.com CNAME .
 cv.cp-c21.com CNAME .
 cv.crosset.onward.co.jp CNAME .
@@ -1564,6 +1575,7 @@ cv.ui-chiho.clinic CNAME .
 cv.virtualoffice-resonance.jp CNAME .
 cv.web-sana.com CNAME .
 cv.willbefit.jp CNAME .
+cv.www.jobcareer.jp CNAME .
 cv.www.risetokyo.jp CNAME .
 cv.www.rokuzan.net CNAME .
 cv.xn--bcktcvdzde3c.biz CNAME .

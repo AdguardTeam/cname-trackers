@@ -74,6 +74,7 @@
 ||al.tanabesports.com^
 ||al.tokimeku-otoriyose.jp^
 ||al.tsukurupajama.jp^
+||al.urban-square.jp^
 ||al.urbancosme.co.jp^
 ||al.uruoin.com^
 ||al.uzu-japan.com^

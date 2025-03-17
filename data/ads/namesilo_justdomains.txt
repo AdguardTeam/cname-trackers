@@ -276,6 +276,7 @@
 3317892.notifysrv.com
 3319502.notify6.com
 3319502.notifysrv.com
+3319548.notify6.com
 3319834.notifysrv.com
 3321270.notifysrv.com
 3321284.notifysrv.com
@@ -429,6 +430,7 @@
 3427951.notifysrv.com
 3428069.notifysrv.com
 3429075.notify6.com
+3429095.notifysrv.com
 3432281.notifysrv.com
 3432573.notify6.com
 3433739.notify6.com
@@ -669,6 +671,7 @@
 3588591.notify6.com
 3588591.notifysrv.com
 3588593.notifysrv.com
+3588597.notify6.com
 3588597.notifysrv.com
 3588599.notifysrv.com
 3588603.notifysrv.com
@@ -829,6 +832,7 @@
 3856281.notify6.com
 3856373.notify6.com
 3858841.notify6.com
+3863014.notify6.com
 3869256.notifysrv.com
 3869270.notifysrv.com
 3869316.notify6.com
@@ -1001,6 +1005,7 @@
 4162264.notify6.com
 4165670.notify6.com
 4166040.notify6.com
+4169920.notify6.com
 4170408.notify6.com
 4172026.notify6.com
 4173044.notify6.com
@@ -1196,20 +1201,18 @@ _sips._tcp.3323174.notifysrv.com
 a.18ramp.com
 a.adsession.com
 a.advantageclicks.net
+a.advertrek.com
 a.b7q9v8z.com
-a.bizonads-ssp.com
 a.cant3am.com
-a.etology.com
 a.eunow4u.com
+a.huklop.com
 a.ma3ion.com
 a.mx.notifysrv.com
 a.n4m5x60.com
 a.ns.notifysrv.com
 a.optimizesrv.com
-a.ouzads.com
 a.playa.to
 a.q88z1s3.com
-a.r8lnet.com
 a.tf4srv.com
 a.traffic-gold.com
 a.vws4brkfst.com
@@ -1239,6 +1242,7 @@ andy.notifysrv.com
 answers.notifysrv.com
 aphrodite.notifysrv.com
 api.adnation.com
+api.adxnow.com
 api.datingclix.com
 api.getblaze.app
 api.shafttraffic.com
@@ -1338,6 +1342,8 @@ s.dseb0x.com
 s.dsebx6.com
 s.dsejln.com
 s.dseoeg.com
+s.dservq.com
+s.dsfglq.com
 s.eaalink.com
 s.elink2b.com
 s.elink2c.com
@@ -1524,6 +1530,7 @@ www.3207695.notify6.com
 www.3210363.notifysrv.com
 www.3227697.notify6.com
 www.3231172.notify6.com
+www.3234742.notifysrv.com
 www.3243082.notifysrv.com
 www.3250420.notify6.com
 www.3254306.notifysrv.com
@@ -1550,8 +1557,10 @@ www.3501655.notify6.com
 www.3505119.notify6.com
 www.3512165.notifysrv.com
 www.3572295.notify6.com
+www.3587729.notify6.com
 www.3593835.notify6.com
 www.3598461.notify6.com
+www.3617551.notify6.com
 www.3618947.notify6.com
 www.3662839.notify6.com
 www.3662845.notifysrv.com
@@ -1572,6 +1581,8 @@ www.4069896.notify6.com
 www.4080560.notify6.com
 www.4086498.notify6.com
 www.4130286.notify6.com
+www.4131834.notify6.com
+www.4143324.notify6.com
 www.4146994.notify6.com
 www.4152316.notify6.com
 www.4160048.notify6.com
@@ -1591,9 +1602,11 @@ www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
 a.344eva.com
-a.advertrek.com
 a.asvsm.com
-a.huklop.com
+a.bizonads-ssp.com
+a.etology.com
+a.ouzads.com
+a.r8lnet.com
 a.rocoads.net
 a.santabrowser.com
 ads.optimizesrv.com

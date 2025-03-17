@@ -291,6 +291,7 @@
 ||web.email.turtlebay.co.uk^
 ||web.email.umbro.co.uk^
 ||web.enews.lenotre.fr^
+||web.engagetest.swaindestinations.com^
 ||web.ideaautorepair.com^
 ||web.info.aiteca.it^
 ||web.info.bodybuildingwarehouse.co.uk^
@@ -364,7 +365,6 @@
 ||web.sensilab.si^
 ||web.sensilab.sk^
 ||web.sidsavage.com^
-||web.slim-joy.de^
 ||web.slimjoy.com^
 ||web.slimjoy.cz^
 ||web.slimjoy.dk^

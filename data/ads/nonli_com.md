@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * non.li
+    * l.non.li
     * origin.non.li
     * tls-ebra.non.li
     * tls-lp-cm.non.li
@@ -13,6 +14,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| poc.warnerbros.fr | l.non.li |
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |
@@ -76,8 +78,10 @@
 | l.allocine.fr | tls.non.li |
 | l.alternatives-economiques.fr | tls.non.li |
 | l.aujourdhui.fr | tls.non.li |
+| l.auto-moto.com | tls.non.li |
 | l.autojournal.fr | tls.non.li |
 | l.automobile-magazine.fr | tls.non.li |
+| l.autonews.fr | tls.non.li |
 | l.autoplus.fr | tls.non.li |
 | l.beaute-test.com | tls.non.li |
 | l.beauxarts.com | tls.non.li |
@@ -94,6 +98,7 @@
 | l.cnetfrance.fr | tls.non.li |
 | l.courrier-picard.fr | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
+| l.dailysports.fr | tls.non.li |
 | l.diapasonmag.fr | tls.non.li |
 | l.diverto.tv | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
@@ -107,6 +112,7 @@
 | l.familiscope.fr | tls.non.li |
 | l.femmeactuelle.fr | tls.non.li |
 | l.fip.fr | tls.non.li |
+| l.foot-national.com | tls.non.li |
 | l.football.fr | tls.non.li |
 | l.football365.fr | tls.non.li |
 | l.franceantilles.fr | tls.non.li |
@@ -132,6 +138,7 @@
 | l.jeuneafrique.com | tls.non.li |
 | l.jeuxvideo.com | tls.non.li |
 | l.journaldemillau.fr | tls.non.li |
+| l.koolmag.fr | tls.non.li |
 | l.lacremedugaming.fr | tls.non.li |
 | l.ladepeche.fr | tls.non.li |
 | l.lanouvellerepublique.fr | tls.non.li |
@@ -171,18 +178,21 @@
 | l.ohmymag.co.uk | tls.non.li |
 | l.ohmymag.com | tls.non.li |
 | l.ohmymag.de | tls.non.li |
+| l.onzemondial.com | tls.non.li |
 | l.ouest-france.fr | tls.non.li |
 | l.ozap.com | tls.non.li |
 | l.paris-normandie.fr | tls.non.li |
 | l.paroledemamans.com | tls.non.li |
 | l.planet.fr | tls.non.li |
 | l.pleinevie.fr | tls.non.li |
+| l.positivr.fr | tls.non.li |
 | l.programme-tv.net | tls.non.li |
 | l.programme.tv | tls.non.li |
 | l.psychologies.com | tls.non.li |
 | l.purebreak.com | tls.non.li |
 | l.purepeople.com | tls.non.li |
 | l.purepeople.com.br | tls.non.li |
+| l.quinzemondial.com | tls.non.li |
 | l.radiofrance.fr | tls.non.li |
 | l.reporterre.net | tls.non.li |
 | l.rmc.fr | tls.non.li |

@@ -64,6 +64,7 @@
 | api.elliehuxtable.com | custom.plausible.io |
 | api.fuck.education | custom.plausible.io |
 | api.ryanyao.design | custom.plausible.io |
+| api0.schule.wtf | custom.plausible.io |
 | apis.4bn.xyz | custom.plausible.io |
 | app-stats.supernotes.app | custom.plausible.io |
 | artistchristinacarmel.ericksonbuilt.com | custom.plausible.io |
@@ -115,6 +116,7 @@
 | meter.bref.sh | custom.plausible.io |
 | metric.methoddev.com | custom.plausible.io |
 | metrics.creit.tech | custom.plausible.io |
+| metrics.earrieta.dev | custom.plausible.io |
 | metrics.recunia.de | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
 | momotaro.walkkumano.com | custom.plausible.io |
@@ -280,7 +282,6 @@
 | s.cuoresportivo.no | custom.plausible.io |
 | s.cybercompass.io | custom.plausible.io |
 | s.ergotherapieblog.de | custom.plausible.io |
-| s.fission.codes | custom.plausible.io |
 | s.fraservotes.com | custom.plausible.io |
 | s.freelanceratecalculator.com | custom.plausible.io |
 | s.glimesh.tv | custom.plausible.io |
@@ -506,6 +507,7 @@
 | stats.fungus.computer | custom.plausible.io |
 | stats.galeb.org | custom.plausible.io |
 | stats.galleriacortona.com | custom.plausible.io |
+| stats.geekish.dev | custom.plausible.io |
 | stats.geobox.app | custom.plausible.io |
 | stats.gesund-vital-lebensfreude.com | custom.plausible.io |
 | stats.getdoks.org | custom.plausible.io |

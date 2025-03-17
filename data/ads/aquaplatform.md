@@ -100,6 +100,7 @@
     * proxibid-console.aquaplatform.com
     * proxibid-delivery.aquaplatform.com
     * proxibid-static.aquaplatform.com
+    * ptp-console.aquaplatform.com
     * ptp-delivery.aquaplatform.com
     * ptp-static.aquaplatform.com
     * reservoir.aquaplatform.com
@@ -177,6 +178,7 @@
 | adconsole.kozoom.com | console.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
+| www.api.metrike.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
 | console.miningweekly.com | creamer-console.aquaplatform.com |
@@ -186,6 +188,7 @@
 | static.engineeringnews.co.za | creamer-static.aquaplatform.com |
 | static.miningweekly.com | creamer-static.aquaplatform.com |
 | static.polity.org.za | creamer-static.aquaplatform.com |
+| www.static.engineeringnews.co.za | creamer-static.aquaplatform.com |
 | console.datateam.co.uk | datateam-console.aquaplatform.com |
 | ads.datateam.co.uk | datateam-delivery.aquaplatform.com |
 | cdn.datateam.co.uk | datateam-static.aquaplatform.com |
@@ -280,6 +283,7 @@
 | adztech-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | assets.lintigroup.se | platformiq-cdn.aquaplatform.com |
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
+| etnomedia-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | images.addurance.com | platformiq-cdn.aquaplatform.com |
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
 | images.jacilla.no | platformiq-cdn.aquaplatform.com |
@@ -298,10 +302,12 @@
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.hlipublishing.com | platformiq-del.aquaplatform.com |
+| servedby.hollandhortimedia.nl | platformiq-del.aquaplatform.com |
 | servedby.jacilla.no | platformiq-del.aquaplatform.com |
 | servedby.lintigroup.se | platformiq-del.aquaplatform.com |
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
 | servedby.reviveservers.com | platformiq-del.aquaplatform.com |
+| webtool-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | www.proforums.com | platformiq-del.aquaplatform.com |
 | www.servedby.jacilla.no | platformiq-del.aquaplatform.com |
 | www.servedby.lintigroup.se | platformiq-del.aquaplatform.com |
@@ -322,6 +328,7 @@
 | static.the-saleroom.com | proxibid-static.aquaplatform.com |
 | www.static.proxibid.com | proxibid-static.aquaplatform.com |
 | www.static.the-saleroom.com | proxibid-static.aquaplatform.com |
+| www.console.pinktriangle.ca | ptp-console.aquaplatform.com |
 | ads.xtra.ca | ptp-delivery.aquaplatform.com |
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
 | cdn.pinktriangle.ca | ptp-static.aquaplatform.com |

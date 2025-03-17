@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -193,6 +193,7 @@ affiliate.ketofit.cz CNAME .
 affiliate.ketofit.sk CNAME .
 affiliate.krmivopropsy.cz CNAME .
 affiliate.kurzy-liecenia.sk CNAME .
+affiliate.ladylab.cz CNAME .
 affiliate.ladylab.sk CNAME .
 affiliate.lasamba.cz CNAME .
 affiliate.lasun.cz CNAME .
@@ -459,6 +460,7 @@ partner.aerium.sk CNAME .
 partner.aeriumshop.nl CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
+partner.airbobags.com CNAME .
 partner.alesio.cz CNAME .
 partner.amonit.sk CNAME .
 partner.amonitsro.sk CNAME .
@@ -577,6 +579,7 @@ partner.forexrebel.net CNAME .
 partner.forkys.store CNAME .
 partner.fotoposta.sk CNAME .
 partner.freshlabels.cz CNAME .
+partner.gdcbd.cz CNAME .
 partner.gel-gun.cz CNAME .
 partner.generatorvodiku.cz CNAME .
 partner.gingershot.cz CNAME .
@@ -819,7 +822,6 @@ partneri.chytrykvetinac.cz CNAME .
 partneri.cvicenie-strava.sk CNAME .
 partneri.dietavkrabicce.cz CNAME .
 partneri.dluhopisomat.cz CNAME .
-partneri.domaci-outlet.cz CNAME .
 partneri.dusansoucek.cz CNAME .
 partneri.easylingo.cz CNAME .
 partneri.ecstatic.cz CNAME .
@@ -930,7 +932,6 @@ partneri.viadelicia.cz CNAME .
 partneri.vitaon.cz CNAME .
 partneri.volejbal.sk CNAME .
 partneri.volny-termin.cz CNAME .
-partneri.vrkuuu.cz CNAME .
 partneri.vseprobeh.cz CNAME .
 partneri.vyzvaproimunitu.cz CNAME .
 partneri.way4life.cz CNAME .
@@ -987,6 +988,7 @@ spoluprace.h2world.store CNAME .
 spoluprace.hyla.cz CNAME .
 spoluprace.imagemakersforyou.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .
+spoluprace.kabefarben.cz CNAME .
 spoluprace.luxusnipradlo.cz CNAME .
 spoluprace.m-soft.cz CNAME .
 spoluprace.majka-shop.cz CNAME .

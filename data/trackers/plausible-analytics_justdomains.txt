@@ -52,6 +52,7 @@ api.digitalpiloten.org
 api.elliehuxtable.com
 api.fuck.education
 api.ryanyao.design
+api0.schule.wtf
 apis.4bn.xyz
 app-stats.supernotes.app
 artistchristinacarmel.ericksonbuilt.com
@@ -103,6 +104,7 @@ marsupial.roleup.com
 meter.bref.sh
 metric.methoddev.com
 metrics.creit.tech
+metrics.earrieta.dev
 metrics.recunia.de
 momotaro.craigmod.com
 momotaro.walkkumano.com
@@ -268,7 +270,6 @@ s.crackedthecode.co
 s.cuoresportivo.no
 s.cybercompass.io
 s.ergotherapieblog.de
-s.fission.codes
 s.fraservotes.com
 s.freelanceratecalculator.com
 s.glimesh.tv
@@ -494,6 +495,7 @@ stats.fundimmo.com
 stats.fungus.computer
 stats.galeb.org
 stats.galleriacortona.com
+stats.geekish.dev
 stats.geobox.app
 stats.gesund-vital-lebensfreude.com
 stats.getdoks.org

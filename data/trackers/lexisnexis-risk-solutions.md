@@ -521,6 +521,7 @@
     * h-k8vif92e-cogno.online-metrix.net
     * h-k8vif92e-egy.online-metrix.net
     * h-k8vif92e-gr4vy.online-metrix.net
+    * h-k8vif92e-helz.online-metrix.net
     * h-k8vif92e-jm.online-metrix.net
     * h-k8vif92e-lulu.online-metrix.net
     * h-k8vif92e-mo.online-metrix.net
@@ -777,6 +778,7 @@
     * h-werally.online-metrix.net
     * h-westcreek.online-metrix.net
     * h-westpac.online-metrix.net
+    * h-wh2hgf17.online-metrix.net
     * h-williamhill.online-metrix.net
     * h-wisconsindwd.online-metrix.net
     * h-woodmen.online-metrix.net
@@ -1264,6 +1266,7 @@
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
 | content.vi.gov | h-b4bq7y80.online-metrix.net |
 | srv.squaretrade.at | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.be | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.co.jp | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.co.uk | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.com | h-b6te0xmf.online-metrix.net |
@@ -1659,6 +1662,7 @@
 | txcontent.iherb.cn | h-iherb.online-metrix.net |
 | tm.creditcheck.illion.co.nz | h-illion.online-metrix.net |
 | tm.creditcheck.illion.com.au | h-illion.online-metrix.net |
+| tm.creditprotect.illion.co.nz | h-illion.online-metrix.net |
 | tm.creditprotect.illion.com.au | h-illion.online-metrix.net |
 | tm.verify.illion.com.au | h-illion.online-metrix.net |
 | tmcontent.imvu.com | h-imvucontent.online-metrix.net |
@@ -1685,6 +1689,7 @@
 | sg-payment.cydf.hoyoverse.com | h-k8vif92e-cogno.online-metrix.net |
 | content.egyptair.com | h-k8vif92e-egy.online-metrix.net |
 | cdn-f.gr4vy.com | h-k8vif92e-gr4vy.online-metrix.net |
+| payments.helzberg.com | h-k8vif92e-helz.online-metrix.net |
 | cdncy.jmbullion.com | h-k8vif92e-jm.online-metrix.net |
 | checkout-df.lululemon.com | h-k8vif92e-lulu.online-metrix.net |
 | mobile.du.ae | h-k8vif92e-mo.online-metrix.net |
@@ -1986,6 +1991,7 @@
 | cdn1.thm.banksa.com.au | h-westpac.online-metrix.net |
 | cdn1.thm.stgeorge.com.au | h-westpac.online-metrix.net |
 | cdn1.thm.westpac.com.au | h-westpac.online-metrix.net |
+| dpcontent.locationsmart.net | h-wh2hgf17.online-metrix.net |
 | t.us.williamhill.com | h-williamhill.online-metrix.net |
 | content.dwd.wisconsin.gov | h-wisconsindwd.online-metrix.net |
 | mbrstat.mywoodmen.org | h-woodmen.online-metrix.net |

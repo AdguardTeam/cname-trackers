@@ -85,6 +85,7 @@
     * maple.goatcounter.com
     * mausoleum.goatcounter.com
     * mcy.goatcounter.com
+    * meestermac.goatcounter.com
     * mele.goatcounter.com
     * merrelldev.goatcounter.com
     * mindenugyved.goatcounter.com
@@ -108,6 +109,7 @@
     * rocketgoboom.goatcounter.com
     * ruzickap-github-io.goatcounter.com
     * ryanch.goatcounter.com
+    * sanmateo-ca-us-dev-openlawlibrary-us.goatcounter.com
     * sanmateo-ca-us-open-law.goatcounter.com
     * satanisk.goatcounter.com
     * sebastianzehner.goatcounter.com
@@ -123,6 +125,7 @@
     * thecrafters001.goatcounter.com
     * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
+    * tomatomtl.goatcounter.com
     * trainsley69.goatcounter.com
     * trool.goatcounter.com
     * twoistoomany.goatcounter.com
@@ -137,6 +140,7 @@
     * whatacools.goatcounter.com
     * wswg.goatcounter.com
     * ybbond.goatcounter.com
+    * zgoat.goatcounter.com
 
 ## Cloaking domains
 
@@ -224,6 +228,7 @@
 | st.mapleranks.com | maple.goatcounter.com |
 | stats.mausoleum.me | mausoleum.goatcounter.com |
 | varz.mcyoung.xyz | mcy.goatcounter.com |
+| api.meestermac.nl | meestermac.goatcounter.com |
 | stats.mele.dev | mele.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
@@ -248,6 +253,7 @@
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
 | stats-ruzickap-github-io.ruzicka.dev | ruzickap-github-io.goatcounter.com |
 | stats.ryanchmelir.com | ryanch.goatcounter.com |
+| analytics.sanmateo.ca.us.dev.openlawlibrary.us | sanmateo-ca-us-dev-openlawlibrary-us.goatcounter.com |
 | analytics.sanmateo.ca.us.open.law | sanmateo-ca-us-open-law.goatcounter.com |
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.sebastianzehner.com | sebastianzehner.goatcounter.com |
@@ -263,6 +269,7 @@
 | stats.thecrafters001.com | thecrafters001.goatcounter.com |
 | goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
+| analytics.tomatomtl.com | tomatomtl.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
 | moo.geopogs.party | trool.goatcounter.com |
 | goat.twoistoomany.com | twoistoomany.goatcounter.com |
@@ -277,3 +284,4 @@
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.wswg.xyz | wswg.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
+| stats.zgo.at | zgoat.goatcounter.com |

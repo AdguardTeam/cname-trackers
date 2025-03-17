@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -398,6 +398,7 @@ crayfish.portbanecottagelochtay.co.uk CNAME .
 crayfish.spotlessconcepts.com CNAME .
 crayfish.thecatherinewheel.co CNAME .
 crocodile.rapid-sale.co.uk CNAME .
+crow.centresustains.com CNAME .
 crow.claudiakeil.de CNAME .
 crow.gim.technology CNAME .
 crow.themarbleking.com CNAME .
@@ -405,7 +406,6 @@ crow.voracious.dev CNAME .
 cuckoo.clientrock.app CNAME .
 cuckoo.cult.supply CNAME .
 cuckoo.jerandky.com CNAME .
-cuckoo.minaexplorer.com CNAME .
 cuckoo.peoplefirstjobs.com CNAME .
 damselfly.vegenook.com CNAME .
 deer.m1x.co CNAME .
@@ -488,6 +488,7 @@ fish.whitney.org CNAME .
 fjikgr.dennmart.com CNAME .
 flamingo.abihome.de CNAME .
 flamingo.apatonsrompus.com CNAME .
+flamingo.podcast.taxi CNAME .
 flamingo.stacking-club.com CNAME .
 flea.elbertsnaturalfoods.com CNAME .
 flea.welikeoliver.com CNAME .
@@ -629,6 +630,7 @@ kiwi.emilkowal.ski CNAME .
 kiwi.halostats.app CNAME .
 kiwi.railway.app CNAME .
 koala.getslopes.com CNAME .
+koala.hicks.house CNAME .
 koala.moontells.com CNAME .
 koala.mynestbox.co.uk CNAME .
 koala.readyfive.io CNAME .
@@ -769,6 +771,7 @@ ocelot.anthroquiches.fr CNAME .
 ocelot.goinpaces.com CNAME .
 ocelot.pixlwebs.nl CNAME .
 ocelot.sonicumonitoring.com CNAME .
+octopus.clarify.us CNAME .
 octopus.evobend.com CNAME .
 octopus.hans-hornberger.de CNAME .
 octopus.janandsusan.io CNAME .
@@ -850,6 +853,7 @@ porpoise.azettl.net CNAME .
 porpoise.fruittreecottage.com.au CNAME .
 porpoise.kristinholl.com CNAME .
 porpoise.numberzs.com CNAME .
+prairiedog.freemusic.com.au CNAME .
 prairiedog.hashnode.com CNAME .
 prairiedog.thisismattsmith.com CNAME .
 prairiedog.xview.us CNAME .
@@ -961,7 +965,6 @@ spermwhale.rowansimpson.com CNAME .
 spermwhale.thankbox.co CNAME .
 spider.capricciocolumbus.org CNAME .
 spider.hoomie.online CNAME .
-spider.kearneyjaycees.com CNAME .
 spider.scottw.com CNAME .
 spider.storiesofchang.com CNAME .
 spoonbill.mumblebox.com CNAME .
@@ -1026,6 +1029,7 @@ tern.xebel.co CNAME .
 tick.pcrpriser.se CNAME .
 tick.sculch.app CNAME .
 tick.weg.plus CNAME .
+tiger.melissajclark.ca CNAME .
 tigershark.garethtdavies.com CNAME .
 tigershark.hasanahmad.ca CNAME .
 tigershark.integratecolumbus.org CNAME .

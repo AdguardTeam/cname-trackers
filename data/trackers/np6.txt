@@ -43,6 +43,7 @@
 ||tr.apou032.espmp-agfr.net^
 ||tr.asp0010.espmp-nifr.net^
 ||tr.asp0018.espmp-aufr.net^
+||tr.asp002p.espmp-cufr.net^
 ||tr.asp002q.espmp-aufr.net^
 ||tr.asp002x.espmp-cufr.net^
 ||tr.asp0085.espmp-nifr.net^
@@ -58,6 +59,7 @@
 ||tr.asp00ah.espmp-nifr.net^
 ||tr.asp00am.espmp-cufr.net^
 ||tr.asp1.espmp-agfr.net^
+||tr.asp102c.espmp-aufr.net^
 ||tr.asp102n.espmp-cufr.net^
 ||tr.asp103z.espmp-nifr.net^
 ||tr.asp104p.espmp-aufr.net^
@@ -96,9 +98,11 @@
 ||tr.asp10f6.espmp-agfr.net^
 ||tr.asp10fa.espmp-cufr.net^
 ||tr.asp10fg.espmp-aufr.net^
+||tr.asp10fi.espmp-nifr.net^
 ||tr.asp10fl.espmp-nifr.net^
 ||tr.asp10fo.espmp-nifr.net^
 ||tr.asp10fp.espmp-nifr.net^
+||tr.asp10fq.espmp-aufr.net^
 ||tr.asp10fx.espmp-cufr.net^
 ||tr.asp10fy.espmp-agfr.net^
 ||tr.asp10ga.espmp-nifr.net^
@@ -215,6 +219,7 @@
 ||tr.cobranca.younited-credit.com^
 ||tr.cogedim.espmp-agfr.net^
 ||tr.collectif.groupe-vyv.fr^
+||tr.colossusbetsmail.com^
 ||tr.com-clients.sfr.fr^
 ||tr.com-parc.sfr.fr^
 ||tr.com-red.sfr.fr^
@@ -238,7 +243,6 @@
 ||tr.communication.harmonie-mutuelle.fr^
 ||tr.communication.hennessy.com^
 ||tr.communication.hybrigenics.com^
-||tr.communication.jardindacclimatation.fr^
 ||tr.communication.lamaisondesstartups.com^
 ||tr.communication.lvmh.fr^
 ||tr.communication.lvmhdare.com^
@@ -271,6 +275,7 @@
 ||tr.contrats.cofinoga.fr^
 ||tr.contrats.domofinance.fr^
 ||tr.corporate.moethennessy.com^
+||tr.courriel.conexvous.com^
 ||tr.courriel.ganassurances.fr^
 ||tr.courriel.mae.fr^
 ||tr.courriel.ouestnormandie.cci.fr^
@@ -501,6 +506,7 @@
 ||tr.info.lacentrale.fr^
 ||tr.info.linnc.com^
 ||tr.info.linxea.com^
+||tr.info.magora.fr^
 ||tr.info.mango-mobilites.fr^
 ||tr.info.mango-mobilitesbyaprr.fr^
 ||tr.info.mavoiturecash.fr^
@@ -737,7 +743,6 @@
 ||tr.news.actu-man.com^
 ||tr.news.ailleurs.com^
 ||tr.news.alcyon.com^
-||tr.news.alibabuy.com^
 ||tr.news.alinea.com^
 ||tr.news.alinea.fr^
 ||tr.news.allopneus.com^
@@ -900,6 +905,7 @@
 ||tr.newsletter.1oag.com^
 ||tr.newsletter.actalians.fr^
 ||tr.newsletter.afpa.fr^
+||tr.newsletter.alimgouv.fr^
 ||tr.newsletter.assuragency.net^
 ||tr.newsletter.astro-mail.com^
 ||tr.newsletter.bauermedia.fr^
@@ -1120,6 +1126,7 @@
 ||tr.urfk03i.espmp-nifr.net^
 ||tr.urfk03k.espmp-agfr.net^
 ||tr.urfk03q.espmp-nifr.net^
+||tr.urfk03r.espmp-nifr.net^
 ||tr.urfk03u.espmp-nifr.net^
 ||tr.urfk03x.espmp-agfr.net^
 ||tr.urfk041.espmp-cufr.net^
@@ -1217,3 +1224,4 @@
 ||www.bfc-mp.caisse-epargne.fr^
 ||s.gemy.fr^
 ||www.lgch.mp^
+||tr.communication.jardindacclimatation.fr^

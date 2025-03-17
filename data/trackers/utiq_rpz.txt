@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -76,6 +76,7 @@ utiq.chip.de CNAME .
 utiq.clara.es CNAME .
 utiq.closermag.fr CNAME .
 utiq.cnetfrance.fr CNAME .
+utiq.cocinatis.com CNAME .
 utiq.come-on.de CNAME .
 utiq.compradiccion.com CNAME .
 utiq.computerbild.de CNAME .
@@ -255,6 +256,7 @@ utiq.poprosa.com CNAME .
 utiq.programme-tv.net CNAME .
 utiq.programme.tv CNAME .
 utiq.psychologies.com CNAME .
+utiq.ptitchef.com CNAME .
 utiq.purebreak.com CNAME .
 utiq.purepeople.com CNAME .
 utiq.regio7.cat CNAME .

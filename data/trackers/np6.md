@@ -8,11 +8,13 @@
 
 * form.bp01.net
 * shortener.bp01.net
+* 145656177.group0.sites.hscoscdn-eu1.net
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
@@ -67,6 +69,7 @@
 | tr.apou032.espmp-agfr.net | tracking.bp01.net |
 | tr.asp0010.espmp-nifr.net | tracking.bp01.net |
 | tr.asp0018.espmp-aufr.net | tracking.bp01.net |
+| tr.asp002p.espmp-cufr.net | tracking.bp01.net |
 | tr.asp002q.espmp-aufr.net | tracking.bp01.net |
 | tr.asp002x.espmp-cufr.net | tracking.bp01.net |
 | tr.asp0085.espmp-nifr.net | tracking.bp01.net |
@@ -82,6 +85,7 @@
 | tr.asp00ah.espmp-nifr.net | tracking.bp01.net |
 | tr.asp00am.espmp-cufr.net | tracking.bp01.net |
 | tr.asp1.espmp-agfr.net | tracking.bp01.net |
+| tr.asp102c.espmp-aufr.net | tracking.bp01.net |
 | tr.asp102n.espmp-cufr.net | tracking.bp01.net |
 | tr.asp103z.espmp-nifr.net | tracking.bp01.net |
 | tr.asp104p.espmp-aufr.net | tracking.bp01.net |
@@ -120,9 +124,11 @@
 | tr.asp10f6.espmp-agfr.net | tracking.bp01.net |
 | tr.asp10fa.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10fg.espmp-aufr.net | tracking.bp01.net |
+| tr.asp10fi.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fl.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fo.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fp.espmp-nifr.net | tracking.bp01.net |
+| tr.asp10fq.espmp-aufr.net | tracking.bp01.net |
 | tr.asp10fx.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10fy.espmp-agfr.net | tracking.bp01.net |
 | tr.asp10ga.espmp-nifr.net | tracking.bp01.net |
@@ -239,6 +245,7 @@
 | tr.cobranca.younited-credit.com | tracking.bp01.net |
 | tr.cogedim.espmp-agfr.net | tracking.bp01.net |
 | tr.collectif.groupe-vyv.fr | tracking.bp01.net |
+| tr.colossusbetsmail.com | tracking.bp01.net |
 | tr.com-clients.sfr.fr | tracking.bp01.net |
 | tr.com-parc.sfr.fr | tracking.bp01.net |
 | tr.com-red.sfr.fr | tracking.bp01.net |
@@ -262,7 +269,6 @@
 | tr.communication.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.communication.hennessy.com | tracking.bp01.net |
 | tr.communication.hybrigenics.com | tracking.bp01.net |
-| tr.communication.jardindacclimatation.fr | tracking.bp01.net |
 | tr.communication.lamaisondesstartups.com | tracking.bp01.net |
 | tr.communication.lvmh.fr | tracking.bp01.net |
 | tr.communication.lvmhdare.com | tracking.bp01.net |
@@ -295,6 +301,7 @@
 | tr.contrats.cofinoga.fr | tracking.bp01.net |
 | tr.contrats.domofinance.fr | tracking.bp01.net |
 | tr.corporate.moethennessy.com | tracking.bp01.net |
+| tr.courriel.conexvous.com | tracking.bp01.net |
 | tr.courriel.ganassurances.fr | tracking.bp01.net |
 | tr.courriel.mae.fr | tracking.bp01.net |
 | tr.courriel.ouestnormandie.cci.fr | tracking.bp01.net |
@@ -525,6 +532,7 @@
 | tr.info.lacentrale.fr | tracking.bp01.net |
 | tr.info.linnc.com | tracking.bp01.net |
 | tr.info.linxea.com | tracking.bp01.net |
+| tr.info.magora.fr | tracking.bp01.net |
 | tr.info.mango-mobilites.fr | tracking.bp01.net |
 | tr.info.mango-mobilitesbyaprr.fr | tracking.bp01.net |
 | tr.info.mavoiturecash.fr | tracking.bp01.net |
@@ -761,7 +769,6 @@
 | tr.news.actu-man.com | tracking.bp01.net |
 | tr.news.ailleurs.com | tracking.bp01.net |
 | tr.news.alcyon.com | tracking.bp01.net |
-| tr.news.alibabuy.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
 | tr.news.alinea.fr | tracking.bp01.net |
 | tr.news.allopneus.com | tracking.bp01.net |
@@ -924,6 +931,7 @@
 | tr.newsletter.1oag.com | tracking.bp01.net |
 | tr.newsletter.actalians.fr | tracking.bp01.net |
 | tr.newsletter.afpa.fr | tracking.bp01.net |
+| tr.newsletter.alimgouv.fr | tracking.bp01.net |
 | tr.newsletter.assuragency.net | tracking.bp01.net |
 | tr.newsletter.astro-mail.com | tracking.bp01.net |
 | tr.newsletter.bauermedia.fr | tracking.bp01.net |
@@ -1144,6 +1152,7 @@
 | tr.urfk03i.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03k.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk03q.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk03r.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03x.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk041.espmp-cufr.net | tracking.bp01.net |

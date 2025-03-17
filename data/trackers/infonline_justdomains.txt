@@ -95,6 +95,7 @@ data-0d5230f0d5.tvmovie.de
 data-0d9eff53aa.kuhn-fachmedien.de
 data-0dc128409f.watchtime.net
 data-0e160b5dfc.apps.iocnt.de
+data-0e1ca78ad4.rw-textilservice.de
 data-0e6bbb5192.lmscloud.net
 data-0e974e9c43.mt.de
 data-0ecbed3a92.lebexund.jetzt
@@ -117,6 +118,7 @@ data-11c63b1cbc.rblive.de
 data-11c63b1cbc.sao.de
 data-11c63b1cbc.volksstimme.de
 data-11eb4b2a24.deutsche-startups.de
+data-12025f91cc.uibk.ac.at
 data-1203b7acd3.mopo.de
 data-125f69cccb.eppelheim.de
 data-1261bd4848.logistik-heute.de
@@ -150,6 +152,7 @@ data-15fb556696.laendlejob.at
 data-162d89b6ce.haufe.de
 data-165185f38f.elektro.at
 data-1684d88e45.motorsport.com
+data-16adacd8a9.idcdn.de
 data-16adacd8a9.solinger-tageblatt.de
 data-16ca023d5b.apps.iocnt.de
 data-16d7ec9a30.aschendorff-medien.de
@@ -287,6 +290,7 @@ data-1fbcf6d7f5.stuttgarter-zeitung.de
 data-1fbcf6d7f5.thueringen-gedenkt.de
 data-1fbcf6d7f5.trauerforum-altkreis.de
 data-1fbcf6d7f5.verlagshaus-jaumann.de
+data-1fbcf6d7f5.vrgugga.de
 data-1fbcf6d7f5.zeit-des-gedenkens.de
 data-1fef8558fa.netdoktor.at
 data-204adaac21.ariva.de
@@ -509,6 +513,7 @@ data-45ccb8748c.chip.de
 data-45ccb8748c.focus.de
 data-45d218b384.wochenblatt.de
 data-460b866870.schoener-wohnen.de
+data-46257b066b.apps.iocnt.de
 data-462f6badb7.lesering.de
 data-463860f007.radiowestfalica.de
 data-463860f007.radiowestfalicahilft.de
@@ -659,6 +664,7 @@ data-4d5c7c2be6.boden-wand-decke.de
 data-4e9ff460f2.autobild.de
 data-4e9ff460f2.bike-bild.de
 data-4e9ff460f2.clever-tanken.de
+data-4eb828715f.apps.iocnt.de
 data-4ede7e9c86.faz.com
 data-4ede7e9c86.faz.de
 data-4ede7e9c86.testfaz.net
@@ -700,6 +706,7 @@ data-5492b7d422.magdeburg-fussball.de
 data-5492b7d422.mz-jobs.de
 data-5492b7d422.mz.de
 data-5492b7d422.rblive.de
+data-5492b7d422.sao.de
 data-5492b7d422.volksstimme.de
 data-54f7652a27.manager-magazin.de
 data-552667226c.apps.iocnt.de
@@ -994,6 +1001,7 @@ data-707aff899d.donna-magazin.de
 data-707aff899d.funke.fun
 data-707aff899d.myself.de
 data-70f37c510a.jobs-im-suedwesten.de
+data-70f37c510a.suedkurier-medienhaus.de
 data-70f37c510a.suedkurier.de
 data-70f3958feb.bauwelt.de
 data-710a86ea68.apps.iocnt.de
@@ -1262,6 +1270,7 @@ data-93d70fad98.apps.iocnt.de
 data-9439f4400c.apps.iocnt.de
 data-9453f66230.bergischgladbach.de
 data-9453f66230.stadtbuecherei-gl.de
+data-946ccd9713.apps.iocnt.de
 data-948e8266cd.zuhausewohnen.de
 data-94a50e073d.leistungslust.de
 data-94d154970c.boersenblatt.net
@@ -1296,6 +1305,7 @@ data-97d159685e.bbheute.de
 data-97d159685e.gemeinsam-gedenken.de
 data-97d159685e.jobsbb.de
 data-97d159685e.szbz.de
+data-98b5a11c9b.addradio.de
 data-98b5a11c9b.radiolippe.de
 data-98fb153d3d.ksta.de
 data-992b9a20ea.competitionline.com
@@ -1353,6 +1363,7 @@ data-9df22f196a.motor1.com
 data-9e1c1a7a5e.kurier.de
 data-9e29b39c0b.apps.iocnt.de
 data-9e4f40dc7c.travelbook.de
+data-9e4ff1c91f.wz-plus.de
 data-9e4ff1c91f.wz.de
 data-9e925e9341.this-magazin.de
 data-9ea3ac5fe9.food-service.de
@@ -1447,6 +1458,7 @@ data-a7deba18e8.trauervers.de
 data-a7deba18e8.trauspruch.de
 data-a7deba18e8.yeet.de
 data-a8074561d8.apps.iocnt.de
+data-a85b10211f.rhein-neckar-zeitung.de
 data-a85b10211f.rnz.de
 data-a90e364910.rga.de
 data-a91b4f801d.rhoenundsaalepost.de
@@ -1689,6 +1701,7 @@ data-c53e1346fa.ninotaku.de
 data-c53e1346fa.nintendo-online.de
 data-c53e1346fa.pietsmiet.de
 data-c53e1346fa.xboxdynasty.de
+data-c5740f79ff.bbv-net.de
 data-c5740f79ff.dattelner-morgenpost.de
 data-c5740f79ff.dorstenerzeitung.de
 data-c5740f79ff.halternerzeitung.de
@@ -1760,6 +1773,7 @@ data-cb6448e7d7.apps.iocnt.de
 data-cb9194abee.bundeslaenderinnen.at
 data-cb9b83f47f.t3n.de
 data-cba0c1fee3.ad-magazin.de
+data-cbafce2f20.apps.iocnt.de
 data-cc10b861be.winbiap.de
 data-cc21ca250f.apps.iocnt.de
 data-ccadb8b6f3.apps.iocnt.de
@@ -1769,6 +1783,7 @@ data-cd0b4bd19f.automotorundsport.de
 data-cd0b4bd19f.webauto.de
 data-cd3f2f9c0c.radiobielefeld.de
 data-cd7f697c08.apps.iocnt.de
+data-cd9a346bd6.vox.de
 data-cdc8773b0f.hcm-magazin.de
 data-cdc9d8aabf.dbz.de
 data-cdd14ee8a7.servustv.com
@@ -1955,6 +1970,7 @@ data-e89b4fd803.apps.iocnt.de
 data-e89c765eef.main-echo.de
 data-e906bea99c.apps.iocnt.de
 data-e91e634815.security-insider.de
+data-e9439b5f81.bbv-net.de
 data-e9439b5f81.dattelner-morgenpost.de
 data-e9439b5f81.dorstenerzeitung.de
 data-e9439b5f81.halternerzeitung.de
@@ -2297,6 +2313,7 @@ data-fb6bd6ba7f.agrarzeitung.de
 data-fb6bd6ba7f.ernaehrungsdienst.de
 data-fb6dfd42e8.rationell-reinigen.de
 data-fb79e7455c.meerbusch.de
+data-fbb8842b89.bunte.de
 data-fbb8842b89.chip.de
 data-fbb8842b89.fitforfun.de
 data-fbb8842b89.focus.de
@@ -2341,6 +2358,7 @@ data-fe34715c33.zi-online.info
 data-fe87994a5d.freenet-group.de
 data-fe87994a5d.freenet.de
 data-febb5dffb0.bigfm.de
+data-febb5dffb0.bigkarriere.de
 data-febb5dffb0.fashionzone.de
 data-fee2664334.petbook.de
 data-ff3e44cd2a.apps.iocnt.de

@@ -65,6 +65,7 @@
 ||utiq.clara.es^
 ||utiq.closermag.fr^
 ||utiq.cnetfrance.fr^
+||utiq.cocinatis.com^
 ||utiq.come-on.de^
 ||utiq.compradiccion.com^
 ||utiq.computerbild.de^
@@ -244,6 +245,7 @@
 ||utiq.programme-tv.net^
 ||utiq.programme.tv^
 ||utiq.psychologies.com^
+||utiq.ptitchef.com^
 ||utiq.purebreak.com^
 ||utiq.purepeople.com^
 ||utiq.regio7.cat^

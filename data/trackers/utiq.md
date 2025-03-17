@@ -72,6 +72,7 @@
 | utiq.clara.es | frontend.prod.utiq-aws.net |
 | utiq.closermag.fr | frontend.prod.utiq-aws.net |
 | utiq.cnetfrance.fr | frontend.prod.utiq-aws.net |
+| utiq.cocinatis.com | frontend.prod.utiq-aws.net |
 | utiq.come-on.de | frontend.prod.utiq-aws.net |
 | utiq.compradiccion.com | frontend.prod.utiq-aws.net |
 | utiq.computerbild.de | frontend.prod.utiq-aws.net |
@@ -251,6 +252,7 @@
 | utiq.programme-tv.net | frontend.prod.utiq-aws.net |
 | utiq.programme.tv | frontend.prod.utiq-aws.net |
 | utiq.psychologies.com | frontend.prod.utiq-aws.net |
+| utiq.ptitchef.com | frontend.prod.utiq-aws.net |
 | utiq.purebreak.com | frontend.prod.utiq-aws.net |
 | utiq.purepeople.com | frontend.prod.utiq-aws.net |
 | utiq.regio7.cat | frontend.prod.utiq-aws.net |

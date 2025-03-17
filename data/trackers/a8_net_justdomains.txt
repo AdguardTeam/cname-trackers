@@ -69,6 +69,7 @@ a8.classicalelf.shop
 a8.clubgets.com
 a8.cocomeister.jp
 a8.coloria.jp
+a8.cookbiz.jp
 a8.copyki-pr.com
 a8.cotta.jp
 a8.creativevillage.ne.jp
@@ -93,6 +94,7 @@ a8.dstation.jp
 a8.dymtech.jp
 a8.earth-shiho.com
 a8.earthwater-cayenne.com
+a8.ecwa.jp
 a8.efax.co.jp
 a8.elife.clinic
 a8.emeao.jp
@@ -284,6 +286,7 @@ a8.shop.basefood.co.jp
 a8.shop.dreammug.co.jp
 a8.shop.km-link.jp
 a8.shop.nicosuma.com
+a8.shop.scrop-coffee-roasters.com
 a8.shop.tsukijiwadatsumi.com
 a8.shopserve.jp
 a8.shukatsu-note.com
@@ -320,6 +323,7 @@ a8.the-session.jp
 a8.themoonmilk.jp
 a8.thermostand.jp
 a8.thg.co.jp
+a8.thidastone.com
 a8.tideisturning.com
 a8.tokihana.net
 a8.tokyo-hills-clinic.com
@@ -802,6 +806,7 @@ a8cv.aplod.jp
 a8cv.aquasilver.co.jp
 a8cv.araiba.net
 a8cv.aruci.jp
+a8cv.assign-inc.com
 a8cv.atami-box.com
 a8cv.atgp.jp
 a8cv.auhikari-bykddi.com
@@ -824,6 +829,7 @@ a8cv.biken-mall.jp
 a8cv.biz-maps.com
 a8cv.bizcircle.jp
 a8cv.bizcomfort.jp
+a8cv.bizlink.io
 a8cv.bloomonline.jp
 a8cv.bonaventura.shop
 a8cv.borderfree-official.com
@@ -1071,6 +1077,7 @@ a8cv.lesson-note.com
 a8cv.leverage-learning.com
 a8cv.lianest.co.jp
 a8cv.lifenrich.co.jp
+a8cv.lifull.jp
 a8cv.livechat-berry.com
 a8cv.lp.nalevi.mynavi.jp
 a8cv.lp.x-house.co.jp
@@ -1241,6 +1248,7 @@ a8cv.soyafarm.com
 a8cv.spacioshop.com
 a8cv.spalab-chintai.uk-corp.co.jp
 a8cv.spot-pj.com
+a8cv.ssl24.net
 a8cv.staff-manzoku.co.jp
 a8cv.staffagent.co.jp
 a8cv.star-color.jp
@@ -1392,6 +1400,7 @@ a8tra.altana-design.com
 a8track.aidmybank.com
 a8track.bizdigi.jp
 a8track.boost-station.jp
+a8track.spartabuddy.jp
 a8track.speakbuddy-personalcoaching.com
 a8track.www.pontely.com
 a8trck.aisatsujo.com
@@ -1459,6 +1468,7 @@ affiliate.k-uno.co.jp
 affiliate.kgcshop.jp
 affiliate.ouchi.coop
 affiliate.petitwedding.com
+affiliate.rise-jms.jp
 affiliate.taihoshop.jp
 affiliate.tripact.jp
 afi.biyou.web-marketing.ai
@@ -1504,6 +1514,7 @@ cv.bloomeelife.com
 cv.cante-gym.com
 cv.cart.naturath.jp
 cv.classmall.jp
+cv.codecamp.jp
 cv.colleize.com
 cv.cp-c21.com
 cv.crosset.onward.co.jp
@@ -1553,6 +1564,7 @@ cv.ui-chiho.clinic
 cv.virtualoffice-resonance.jp
 cv.web-sana.com
 cv.willbefit.jp
+cv.www.jobcareer.jp
 cv.www.risetokyo.jp
 cv.www.rokuzan.net
 cv.xn--bcktcvdzde3c.biz

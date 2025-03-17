@@ -99,6 +99,7 @@
     * tennessean.extole.com
     * theleafchronicle.extole.com
     * timberland.extole.com
+    * tommiecopper.extole.com
     * toughmudder.extole.com
     * turbotax-ssl.extole.com
     * ulta.extole.com
@@ -125,6 +126,7 @@
     * abacusnext.extole.io
     * acornonline.extole.io
     * advanceamerica.extole.io
+    * adventurecu.extole.io
     * affinityfcu.extole.io
     * ahs-proconnect.extole.io
     * algaecal.extole.io
@@ -236,6 +238,7 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -307,7 +310,6 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -436,7 +438,6 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
-    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -512,7 +513,6 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
@@ -523,6 +523,7 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -594,6 +595,7 @@
     * wolverine.extole.io
     * wombat.extole.io
     * wrangler.extole.io
+    * xfinity.em.extole.io
     * xfinity.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
@@ -621,6 +623,7 @@
 | refer.abacusnext.com | abacusnext.extole.io |
 | refer.acornonline.com | acornonline.extole.io |
 | share.advanceamerica.net | advanceamerica.extole.io |
+| share.adventurecu.org | adventurecu.extole.io |
 | share.aeropostale.com | aeropostale.extole.com |
 | share.affinityfcu.org | affinityfcu.extole.io |
 | share.ahs.com | ahs-proconnect.extole.io |
@@ -786,6 +789,7 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -880,6 +884,7 @@
 | share.detroitnews.com | gannett.extole.io |
 | share.elpasotimes.com | gannett.extole.io |
 | share.enterprisenews.com | gannett.extole.io |
+| share.fdlreporter.com | gannett.extole.io |
 | share.floridatoday.com | gannett.extole.io |
 | share.freep.com | gannett.extole.io |
 | share.greatfallstribune.com | gannett.extole.io |
@@ -898,6 +903,7 @@
 | share.naplesnews.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
 | share.news-press.com | gannett.extole.io |
+| share.newsleader.com | gannett.extole.io |
 | share.northjersey.com | gannett.extole.io |
 | share.patriotledger.com | gannett.extole.io |
 | share.pnj.com | gannett.extole.io |
@@ -918,6 +924,7 @@
 | share.thedailyjournal.com | gannett.extole.io |
 | share.theledger.com | gannett.extole.io |
 | share.thenorthwestern.com | gannett.extole.io |
+| share.thestarpress.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
 | share.vcstar.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
@@ -938,7 +945,6 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1128,7 +1134,6 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
-| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1235,7 +1240,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
@@ -1246,6 +1250,7 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1284,6 +1289,7 @@
 | refer.timberland.com | timberland.extole.com |
 | share.tireagent.com | tireagent.extole.io |
 | refer.sharetodoist.com | todoist.extole.io |
+| refer.tommiecopper.com | tommiecopper.extole.com |
 | share.tommy.com | tommy.extole.io |
 | refer.tomorrowsleep.com | tomorrowsleep.extole.io |
 | share.tonies.com | tonies.extole.io |
@@ -1364,6 +1370,7 @@
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
+| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |

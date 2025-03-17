@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,8 +26,11 @@ analytics.law.tmchippewa.com CNAME .
 analytics.leespace.co CNAME .
 analytics.popov.link CNAME .
 analytics.riggraz.dev CNAME .
+analytics.sanmateo.ca.us.dev.openlawlibrary.us CNAME .
 analytics.sanmateo.ca.us.open.law CNAME .
+analytics.tomatomtl.com CNAME .
 analytics.yofbrc.com CNAME .
+api.meestermac.nl CNAME .
 argus.umarbutler.com CNAME .
 c.qrdate.org CNAME .
 contacapre.bortox.it CNAME .
@@ -140,6 +143,7 @@ stats.w0chp.radio CNAME .
 stats.whatacools.com CNAME .
 stats.wswg.xyz CNAME .
 stats.ybbond.id CNAME .
+stats.zgo.at CNAME .
 trackerstats.davidthe.dev CNAME .
 varz.mcyoung.xyz CNAME .
 vault-stats.sladewatkins.net CNAME .

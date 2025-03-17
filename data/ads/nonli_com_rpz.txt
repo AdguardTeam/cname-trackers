@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,8 +37,10 @@ l.allocine.fr CNAME .
 l.alternatives-economiques.fr CNAME .
 l.aufeminin.com CNAME .
 l.aujourdhui.fr CNAME .
+l.auto-moto.com CNAME .
 l.autojournal.fr CNAME .
 l.automobile-magazine.fr CNAME .
+l.autonews.fr CNAME .
 l.autoplus.fr CNAME .
 l.beaute-test.com CNAME .
 l.beauxarts.com CNAME .
@@ -58,6 +60,7 @@ l.closermag.fr CNAME .
 l.cnetfrance.fr CNAME .
 l.courrier-picard.fr CNAME .
 l.cuisineactuelle.fr CNAME .
+l.dailysports.fr CNAME .
 l.diapasonmag.fr CNAME .
 l.diverto.tv CNAME .
 l.dna.fr CNAME .
@@ -73,6 +76,7 @@ l.euronews.com CNAME .
 l.familiscope.fr CNAME .
 l.femmeactuelle.fr CNAME .
 l.fip.fr CNAME .
+l.foot-national.com CNAME .
 l.football.fr CNAME .
 l.football365.fr CNAME .
 l.franceantilles.fr CNAME .
@@ -99,6 +103,7 @@ l.ideat.fr CNAME .
 l.jeuneafrique.com CNAME .
 l.jeuxvideo.com CNAME .
 l.journaldemillau.fr CNAME .
+l.koolmag.fr CNAME .
 l.lacremedugaming.fr CNAME .
 l.ladepeche.fr CNAME .
 l.lalsace.fr CNAME .
@@ -146,6 +151,7 @@ l.numerama.com CNAME .
 l.ohmymag.co.uk CNAME .
 l.ohmymag.com CNAME .
 l.ohmymag.de CNAME .
+l.onzemondial.com CNAME .
 l.ouest-france.fr CNAME .
 l.ouifm.fr CNAME .
 l.ozap.com CNAME .
@@ -153,12 +159,14 @@ l.paris-normandie.fr CNAME .
 l.paroledemamans.com CNAME .
 l.planet.fr CNAME .
 l.pleinevie.fr CNAME .
+l.positivr.fr CNAME .
 l.programme-tv.net CNAME .
 l.programme.tv CNAME .
 l.psychologies.com CNAME .
 l.purebreak.com CNAME .
 l.purepeople.com CNAME .
 l.purepeople.com.br CNAME .
+l.quinzemondial.com CNAME .
 l.radiofrance.fr CNAME .
 l.reporterre.net CNAME .
 l.republicain-lorrain.fr CNAME .
@@ -189,6 +197,7 @@ l.vosgesmatin.fr CNAME .
 l.zdnet.fr CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
+poc.warnerbros.fr CNAME .
 prod-1.moarty.com CNAME .
 prod-3.moarty.com CNAME .
 social.eleveur-laitier.fr CNAME .

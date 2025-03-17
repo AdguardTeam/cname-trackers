@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -101,6 +101,7 @@ refer.tassimodirect.com CNAME .
 refer.tennessean.com CNAME .
 refer.theleafchronicle.com CNAME .
 refer.timberland.com CNAME .
+refer.tommiecopper.com CNAME .
 refer.turbotax.intuit.com CNAME .
 refer.ukforex.co.uk CNAME .
 refer.ulta.com CNAME .
@@ -136,10 +137,10 @@ businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em225.codecademy.com CNAME .
+em5231.mail.propertyperks.xfinity.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
-em8561.go2bank.com CNAME .
-em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
+em7952.dailypay.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -460,6 +461,7 @@ share-us.viktor-rolf.com CNAME .
 share.3riversfcu.org CNAME .
 share.4wheelparts.com CNAME .
 share.advanceamerica.net CNAME .
+share.adventurecu.org CNAME .
 share.affinityfcu.org CNAME .
 share.ahs.com CNAME .
 share.algaecal.com CNAME .
@@ -544,6 +546,7 @@ share.esteelauder.com.tw CNAME .
 share.ets.org CNAME .
 share.evine.com CNAME .
 share.fastbridgefiber.com CNAME .
+share.fdlreporter.com CNAME .
 share.fetchpet.com CNAME .
 share.figopetinsurance.com CNAME .
 share.findheadway.com CNAME .
@@ -621,6 +624,7 @@ share.myq.com CNAME .
 share.naplesnews.com CNAME .
 share.newarkadvocate.com CNAME .
 share.news-press.com CNAME .
+share.newsleader.com CNAME .
 share.newtonbaby.com CNAME .
 share.ngfcu.us CNAME .
 share.northjersey.com CNAME .
@@ -730,6 +734,7 @@ share.thenorthwestern.com CNAME .
 share.theory.com CNAME .
 share.theoryoutlet.com CNAME .
 share.theprisonerwinecompany.com CNAME .
+share.thestarpress.com CNAME .
 share.thewineshop.com CNAME .
 share.tireagent.com CNAME .
 share.tommy.com CNAME .
@@ -767,9 +772,9 @@ www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
 em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em5231.mail.propertyperks.xfinity.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
-em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .

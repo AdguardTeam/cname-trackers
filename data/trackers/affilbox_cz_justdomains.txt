@@ -182,6 +182,7 @@ affiliate.ketofit.cz
 affiliate.ketofit.sk
 affiliate.krmivopropsy.cz
 affiliate.kurzy-liecenia.sk
+affiliate.ladylab.cz
 affiliate.ladylab.sk
 affiliate.lasamba.cz
 affiliate.lasun.cz
@@ -448,6 +449,7 @@ partner.aerium.sk
 partner.aeriumshop.nl
 partner.affilbox.com
 partner.affiliateark.com
+partner.airbobags.com
 partner.alesio.cz
 partner.amonit.sk
 partner.amonitsro.sk
@@ -566,6 +568,7 @@ partner.forexrebel.net
 partner.forkys.store
 partner.fotoposta.sk
 partner.freshlabels.cz
+partner.gdcbd.cz
 partner.gel-gun.cz
 partner.generatorvodiku.cz
 partner.gingershot.cz
@@ -808,7 +811,6 @@ partneri.chytrykvetinac.cz
 partneri.cvicenie-strava.sk
 partneri.dietavkrabicce.cz
 partneri.dluhopisomat.cz
-partneri.domaci-outlet.cz
 partneri.dusansoucek.cz
 partneri.easylingo.cz
 partneri.ecstatic.cz
@@ -919,7 +921,6 @@ partneri.viadelicia.cz
 partneri.vitaon.cz
 partneri.volejbal.sk
 partneri.volny-termin.cz
-partneri.vrkuuu.cz
 partneri.vseprobeh.cz
 partneri.vyzvaproimunitu.cz
 partneri.way4life.cz
@@ -976,6 +977,7 @@ spoluprace.h2world.store
 spoluprace.hyla.cz
 spoluprace.imagemakersforyou.cz
 spoluprace.janitaurbanova.cz
+spoluprace.kabefarben.cz
 spoluprace.luxusnipradlo.cz
 spoluprace.m-soft.cz
 spoluprace.majka-shop.cz

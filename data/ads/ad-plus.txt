@@ -1,0 +1,18 @@
+!
+! Company name: Ad Plus
+||adserving.menatech.net^
+||cdn.laim.tv^
+||cdn33.protagcdn.com^
+||dashboard.andbeyond.media^
+||dashboard.grapemedia.cz^
+||dashboard.xqubemedia.com^
+||player.resonance.pk^
+||player.urdupoint.com^
+||serving.grapemedia.cz^
+||serving.idolmedia360.com^
+||serving.laimroll.ru^
+||serving.lookverin.com^
+||serving.platformance.io^
+||serving.profitsence.com^
+||serving.srmg.com^
+||serving.viewtraff.com^

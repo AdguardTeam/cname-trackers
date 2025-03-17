@@ -252,6 +252,7 @@
     * b773e430-snfbdnnq.cname.ebis.ne.jp
     * b8c55ecd-zx8ipvjj.cname.ebis.ne.jp
     * b91cdac9-llbfadyx.cname.ebis.ne.jp
+    * b9919944-fbw7r35c.cname.ebis.ne.jp
     * b9f16cb4-srrg93nh.cname.ebis.ne.jp
     * ba862930-6pusefyf.cname.ebis.ne.jp
     * bae37929-ehtgvvgm.cname.ebis.ne.jp
@@ -596,6 +597,7 @@
 | adebis.toitoitoi.clinic | b773e430-snfbdnnq.cname.ebis.ne.jp |
 | adebis.entetsu.co.jp | b8c55ecd-zx8ipvjj.cname.ebis.ne.jp |
 | ebiscname.j-esthe-yoyaku.com | b91cdac9-llbfadyx.cname.ebis.ne.jp |
+| adebis.yourmeal.jp | b9919944-fbw7r35c.cname.ebis.ne.jp |
 | greenjapan-cname.green-japan.com | b9f16cb4-srrg93nh.cname.ebis.ne.jp |
 | ebis-tracking.tcb-setagaya.com | ba862930-6pusefyf.cname.ebis.ne.jp |
 | ad.theatreacademy.jp | bae37929-ehtgvvgm.cname.ebis.ne.jp |

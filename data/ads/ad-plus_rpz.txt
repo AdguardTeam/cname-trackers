@@ -1,0 +1,29 @@
+;
+; Company name: Ad Plus
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1742198409243        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+adserving.menatech.net CNAME .
+cdn.laim.tv CNAME .
+cdn33.protagcdn.com CNAME .
+dashboard.andbeyond.media CNAME .
+dashboard.grapemedia.cz CNAME .
+dashboard.xqubemedia.com CNAME .
+player.resonance.pk CNAME .
+player.urdupoint.com CNAME .
+serving.grapemedia.cz CNAME .
+serving.idolmedia360.com CNAME .
+serving.laimroll.ru CNAME .
+serving.lookverin.com CNAME .
+serving.platformance.io CNAME .
+serving.profitsence.com CNAME .
+serving.srmg.com CNAME .
+serving.viewtraff.com CNAME .

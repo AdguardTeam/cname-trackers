@@ -387,6 +387,7 @@
 ||crayfish.spotlessconcepts.com^
 ||crayfish.thecatherinewheel.co^
 ||crocodile.rapid-sale.co.uk^
+||crow.centresustains.com^
 ||crow.claudiakeil.de^
 ||crow.gim.technology^
 ||crow.themarbleking.com^
@@ -394,7 +395,6 @@
 ||cuckoo.clientrock.app^
 ||cuckoo.cult.supply^
 ||cuckoo.jerandky.com^
-||cuckoo.minaexplorer.com^
 ||cuckoo.peoplefirstjobs.com^
 ||damselfly.vegenook.com^
 ||deer.m1x.co^
@@ -477,6 +477,7 @@
 ||fjikgr.dennmart.com^
 ||flamingo.abihome.de^
 ||flamingo.apatonsrompus.com^
+||flamingo.podcast.taxi^
 ||flamingo.stacking-club.com^
 ||flea.elbertsnaturalfoods.com^
 ||flea.welikeoliver.com^
@@ -618,6 +619,7 @@
 ||kiwi.halostats.app^
 ||kiwi.railway.app^
 ||koala.getslopes.com^
+||koala.hicks.house^
 ||koala.moontells.com^
 ||koala.mynestbox.co.uk^
 ||koala.readyfive.io^
@@ -758,6 +760,7 @@
 ||ocelot.goinpaces.com^
 ||ocelot.pixlwebs.nl^
 ||ocelot.sonicumonitoring.com^
+||octopus.clarify.us^
 ||octopus.evobend.com^
 ||octopus.hans-hornberger.de^
 ||octopus.janandsusan.io^
@@ -839,6 +842,7 @@
 ||porpoise.fruittreecottage.com.au^
 ||porpoise.kristinholl.com^
 ||porpoise.numberzs.com^
+||prairiedog.freemusic.com.au^
 ||prairiedog.hashnode.com^
 ||prairiedog.thisismattsmith.com^
 ||prairiedog.xview.us^
@@ -950,7 +954,6 @@
 ||spermwhale.thankbox.co^
 ||spider.capricciocolumbus.org^
 ||spider.hoomie.online^
-||spider.kearneyjaycees.com^
 ||spider.scottw.com^
 ||spider.storiesofchang.com^
 ||spoonbill.mumblebox.com^
@@ -1015,6 +1018,7 @@
 ||tick.pcrpriser.se^
 ||tick.sculch.app^
 ||tick.weg.plus^
+||tiger.melissajclark.ca^
 ||tigershark.garethtdavies.com^
 ||tigershark.hasanahmad.ca^
 ||tigershark.integratecolumbus.org^

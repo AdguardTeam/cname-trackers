@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1741768608045        ; Serial
+           1742198409243        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -127,6 +127,7 @@ adebis.toushi-up.com CNAME .
 adebis.toushiman.com CNAME .
 adebis.tspot.co.jp CNAME .
 adebis.urban-research.jp CNAME .
+adebis.yourmeal.jp CNAME .
 adebis.zenyaku-hbshop.com CNAME .
 adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .
