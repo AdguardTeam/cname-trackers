@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -65,6 +65,7 @@ afm.vtmarketsjp.com CNAME .
 afm.vtmarketsnet.com CNAME .
 afm.vtmarketsuk.com CNAME .
 afm.vtmarketsweb.com CNAME .
+afm.vtmgcn.com CNAME .
 afm.vtmindo.com CNAME .
 afs.wearemp.com CNAME .
 analytics.amrcollection.com CNAME .
@@ -182,6 +183,7 @@ cdnm.sts.pl CNAME .
 cdns.moneyplace.com.au CNAME .
 cdnt.duobank.com CNAME .
 cdnt.walmartrewards.ca CNAME .
+cdntm.ciiom.hsbc.com CNAME .
 cdntm.expat.hsbc.com CNAME .
 cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
@@ -464,6 +466,7 @@ cstm.gumtree.com CNAME .
 customer.homedepot.com CNAME .
 customercenter-img04.auto-owners.com CNAME .
 custprof.t-mobile.com CNAME .
+cyber.samys.com CNAME .
 cybersource.shoplineapp.com CNAME .
 cybs.dhgate.com CNAME .
 cybs.dhpay.com CNAME .
@@ -929,6 +932,7 @@ secured.netflix.com CNAME .
 service.riverscontent.com CNAME .
 servicesdp.luckydays.ca CNAME .
 servicesdp.spinaway.ca CNAME .
+sess.vippreferred.com CNAME .
 sfp.intuit.com CNAME .
 sg-payment.cydf.hoyoverse.com CNAME .
 shield.boostbusiness.my CNAME .
@@ -955,6 +959,7 @@ srv.squaretrade.no CNAME .
 srv.squaretrade.pt CNAME .
 srv.squaretrade.se CNAME .
 ssafp.samsclub.com CNAME .
+ssl.payjustnow.com CNAME .
 st10.sofi.com CNAME .
 stat.bluorbank.lv CNAME .
 static.bc-cdn.io CNAME .
@@ -1146,6 +1151,7 @@ tmx.banquemanuvie.com CNAME .
 tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .
 tmx.carhistory.com.au CNAME .
+tmx.cdn-btsg.com CNAME .
 tmx.efsllc.com CNAME .
 tmx.esfp.c1.vanguard.com CNAME .
 tmx.gotobilling.com CNAME .
@@ -1184,6 +1190,7 @@ txcontent.iherb.cn CNAME .
 txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
+uatidentity4.citidirect.com CNAME .
 ucfs.sendpro360.pitneybowes.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .

@@ -621,7 +621,6 @@
 ||stats.matthiasloibl.com^
 ||stats.maximaconsulting.xyz^
 ||stats.mazlandscaping.com^
-||stats.meetnfly.com^
 ||stats.mein-futterlexikon.org^
 ||stats.memberdrive.org^
 ||stats.mesenvies.fr^
@@ -701,6 +700,7 @@
 ||stats.portalmonitor.io^
 ||stats.postcollectors.com^
 ||stats.poweringpastcoal.org^
+||stats.practicepl.us^
 ||stats.preeventualist.org^
 ||stats.pri.org^
 ||stats.pricewell.io^
@@ -833,6 +833,7 @@
 ||stats.v4.agirpourlenvironnement.org^
 ||stats.vanityprojects.com^
 ||stats.vdsnow.ru^
+||stats.vegamuze.be^
 ||stats.vican.me^
 ||stats.vinkkaa.fi^
 ||stats.visions.ch^
@@ -840,11 +841,13 @@
 ||stats.wachstum.at^
 ||stats.wafflemeido.art^
 ||stats.walkiees.co.uk^
+||stats.warrantynowvoid.com^
 ||stats.websnap.app^
 ||stats.wecodeni.com^
 ||stats.westswindon-pc.gov.uk^
 ||stats.whenpigsflybbq.com^
 ||stats.whereisit5pmrightnow.com^
+||stats.wiwi.digital^
 ||stats.wordvested.org^
 ||stats.world.hey.com^
 ||stats.wvs.org.uk^

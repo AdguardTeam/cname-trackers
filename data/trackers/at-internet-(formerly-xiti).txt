@@ -69,6 +69,7 @@
 ||mkt.usz.ch^
 ||montpalatin.handicap.fr^
 ||pear.ca-eko-globetrotter.fr^
+||pear.youzful-by-ca.fr^
 ||pilau.oddo-bhf.com^
 ||ponyo.cheriefm.fr^
 ||protys.protys.fr^

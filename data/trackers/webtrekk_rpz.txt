@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -335,6 +335,7 @@ web.marcotozzi.com CNAME .
 web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.bottegaverde.com CNAME .
+web.news.boxeurdesrues.com CNAME .
 web.news.coccinelle.com CNAME .
 web.news.creedfragrances.co.uk CNAME .
 web.news.dixiefashion.com CNAME .
@@ -358,7 +359,6 @@ web.post.toa.st CNAME .
 web.powgen.it CNAME .
 web.redazione.italiaoggi.it CNAME .
 web.redazione.milanofinanza.it CNAME .
-web.s.sasrx.com CNAME .
 web.sensilab.com CNAME .
 web.sensilab.cz CNAME .
 web.sensilab.de CNAME .

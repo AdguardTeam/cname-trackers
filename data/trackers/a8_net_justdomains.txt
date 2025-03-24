@@ -219,7 +219,6 @@ a8.mosh.jp
 a8.musbell.co.jp
 a8.n-pri.jp
 a8.nachurabo.com
-a8.nanafu.tokyo
 a8.narikiri.me
 a8.natural-elements.jp
 a8.nc-moncouture.com
@@ -424,6 +423,7 @@ a8clk.autoc-one.jp
 a8clk.bang.co.jp
 a8clk.beauteq.jp
 a8clk.belle-co.jp
+a8clk.beyondborders.jp
 a8clk.bikeman.jp
 a8clk.biken-mall.com
 a8clk.biomarche.jp
@@ -1067,6 +1067,7 @@ a8cv.kyotokimono-rental.com
 a8cv.l-meal.com
 a8cv.laclulu.com
 a8cv.lalavie.jp
+a8cv.lamellia-japan.co.jp
 a8cv.lancers.jp
 a8cv.laviepre.co.jp
 a8cv.lc-jewel.jp
@@ -1089,6 +1090,7 @@ a8cv.machicon.jp
 a8cv.macloud.jp
 a8cv.maenomery.jp
 a8cv.magniflexk.com
+a8cv.mai.dk-lab.jp
 a8cv.mamarket.co.jp
 a8cv.mansiontech.com
 a8cv.marumochiya.net
@@ -1313,6 +1315,7 @@ a8cv.waterserver.co.jp
 a8cv.web-planners.net
 a8cv.wedding.mynavi.jp
 a8cv.wellcrew.net
+a8cv.whynot.jp
 a8cv.will-agaclinic.com
 a8cv.will-gocon.net
 a8cv.willfu.jp
@@ -1546,6 +1549,7 @@ cv.nell.life
 cv.oiz-care.jp
 cv.online.ysroad.co.jp
 cv.optimo-slb.com
+cv.qracian.com
 cv.quocard.jp
 cv.re-shop.jp
 cv.ryoutuki-kyujin.com

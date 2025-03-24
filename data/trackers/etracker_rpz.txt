@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ click.easycosmetic.be CNAME .
 click.easycosmetic.ch CNAME .
 click.easycosmetic.de CNAME .
 click.easycosmetic.nl CNAME .
+connect.peter-bringts.de CNAME .
 controlling.bartenbach.de CNAME .
 ct.krauss.app CNAME .
 ctrl.guenther.de CNAME .
@@ -31,6 +32,7 @@ data.juhu.auto CNAME .
 data.moebel-style.de CNAME .
 data.uk.kutchenhaus.com CNAME .
 defabc.black-label-coffee.de CNAME .
+dts.suchmeisterei.de CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
@@ -145,6 +147,7 @@ webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.ib-kc.de CNAME .
+webcontr.in-akustik.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.l.de CNAME .
 webcontr.lmz-bw.de CNAME .
@@ -164,6 +167,7 @@ webcontr.synvia.de CNAME .
 webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .
+webcontr.wolkenlosundheiter.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
 webstats.kawentsmann.de CNAME .

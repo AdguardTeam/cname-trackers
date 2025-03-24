@@ -12,6 +12,7 @@ click.easycosmetic.be
 click.easycosmetic.ch
 click.easycosmetic.de
 click.easycosmetic.nl
+connect.peter-bringts.de
 controlling.bartenbach.de
 ct.krauss.app
 ctrl.guenther.de
@@ -20,6 +21,7 @@ data.juhu.auto
 data.moebel-style.de
 data.uk.kutchenhaus.com
 defabc.black-label-coffee.de
+dts.suchmeisterei.de
 e.mediherz-shop.de
 e.medikamente-per-klick.de
 e.preisapo.de
@@ -134,6 +136,7 @@ webcontr.chairgo.de
 webcontr.chiptuning.com
 webcontr.fsj-digital-bw.de
 webcontr.ib-kc.de
+webcontr.in-akustik.de
 webcontr.jalousiescout.at
 webcontr.l.de
 webcontr.lmz-bw.de
@@ -153,6 +156,7 @@ webcontr.synvia.de
 webcontr.verpoorten-mall.de
 webcontr.verpoorten.de
 webcontr.vetter-pharma.com
+webcontr.wolkenlosundheiter.de
 webcontrol.brenners-altholz.at
 webctrl.dalimed.de
 webstats.kawentsmann.de

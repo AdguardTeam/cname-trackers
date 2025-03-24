@@ -102,6 +102,7 @@
 | utiq.elcomercio.es | frontend.prod.utiq-aws.net |
 | utiq.elcorreo.com | frontend.prod.utiq-aws.net |
 | utiq.elcorreogallego.es | frontend.prod.utiq-aws.net |
+| utiq.elcorreoweb.es | frontend.prod.utiq-aws.net |
 | utiq.eldia.es | frontend.prod.utiq-aws.net |
 | utiq.eldiario.es | frontend.prod.utiq-aws.net |
 | utiq.eldiariomontanes.es | frontend.prod.utiq-aws.net |
@@ -290,6 +291,7 @@
 | utiq.telefonica.com | frontend.prod.utiq-aws.net |
 | utiq.telekom.de | frontend.prod.utiq-aws.net |
 | utiq.terrafemina.com | frontend.prod.utiq-aws.net |
+| utiq.testfaz.net | frontend.prod.utiq-aws.net |
 | utiq.thueringen24.de | frontend.prod.utiq-aws.net |
 | utiq.tierfans.net | frontend.prod.utiq-aws.net |
 | utiq.todoalicante.es | frontend.prod.utiq-aws.net |
@@ -309,6 +311,7 @@
 | utiq.vitonica.com | frontend.prod.utiq-aws.net |
 | utiq.voici.fr | frontend.prod.utiq-aws.net |
 | utiq.wa.de | frontend.prod.utiq-aws.net |
+| utiq.welt-ctv.com | frontend.prod.utiq-aws.net |
 | utiq.welt.de | frontend.prod.utiq-aws.net |
 | utiq.werra-rundschau.de | frontend.prod.utiq-aws.net |
 | utiq.wetterauer-zeitung.de | frontend.prod.utiq-aws.net |
@@ -326,6 +329,7 @@
 | utiq.zeit.de | frontend.prod.utiq-aws.net |
 | vfes.mno.link | frontend.prod.utiq-aws.net |
 | yesss-a1at.mno.link | frontend.prod.utiq-aws.net |
+| esca-test.mno.link | frontend.test.utiq-aws.net |
 | orangefr-test.mno.link | frontend.test.utiq-aws.net |
 | utiq-test.utest1.work | frontend.test.utiq-aws.net |
 | utiq-test.utest3.work | frontend.test.utiq-aws.net |

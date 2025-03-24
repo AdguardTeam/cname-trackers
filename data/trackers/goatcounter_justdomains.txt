@@ -10,6 +10,7 @@ analytics.demo.plateau.ng.open.law
 analytics.ewpratten.com
 analytics.ferrybig.me
 analytics.law.cityofsanmateo.org
+analytics.law.lco-nsn.gov
 analytics.law.mohican.com
 analytics.law.tmchippewa.com
 analytics.leespace.co
@@ -125,7 +126,6 @@ stats.sharukhi.xyz
 stats.sofianlak.fr
 stats.svc.lol
 stats.tdurand.com
-stats.thecrafters001.com
 stats.trainsley69.me
 stats.umcconnell.net
 stats.w0chp.radio
@@ -133,6 +133,7 @@ stats.whatacools.com
 stats.wswg.xyz
 stats.ybbond.id
 stats.zgo.at
+stats.zlinux.ru
 trackerstats.davidthe.dev
 varz.mcyoung.xyz
 vault-stats.sladewatkins.net

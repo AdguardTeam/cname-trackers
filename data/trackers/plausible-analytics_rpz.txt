@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -632,7 +632,6 @@ stats.masterybits.com CNAME .
 stats.matthiasloibl.com CNAME .
 stats.maximaconsulting.xyz CNAME .
 stats.mazlandscaping.com CNAME .
-stats.meetnfly.com CNAME .
 stats.mein-futterlexikon.org CNAME .
 stats.memberdrive.org CNAME .
 stats.mesenvies.fr CNAME .
@@ -712,6 +711,7 @@ stats.poochplaces.dog CNAME .
 stats.portalmonitor.io CNAME .
 stats.postcollectors.com CNAME .
 stats.poweringpastcoal.org CNAME .
+stats.practicepl.us CNAME .
 stats.preeventualist.org CNAME .
 stats.pri.org CNAME .
 stats.pricewell.io CNAME .
@@ -844,6 +844,7 @@ stats.uxtools.co CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
 stats.vanityprojects.com CNAME .
 stats.vdsnow.ru CNAME .
+stats.vegamuze.be CNAME .
 stats.vican.me CNAME .
 stats.vinkkaa.fi CNAME .
 stats.visions.ch CNAME .
@@ -851,11 +852,13 @@ stats.voltimum.com CNAME .
 stats.wachstum.at CNAME .
 stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
+stats.warrantynowvoid.com CNAME .
 stats.websnap.app CNAME .
 stats.wecodeni.com CNAME .
 stats.westswindon-pc.gov.uk CNAME .
 stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
+stats.wiwi.digital CNAME .
 stats.wordvested.org CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .

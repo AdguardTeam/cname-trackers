@@ -471,6 +471,7 @@ partner.bilynabytek.cz
 partner.bio-nechty.sk
 partner.bio-nehty.cz
 partner.biomag.cz
+partner.birne.com
 partner.bitcoinzmenaren.sk
 partner.bohemiaclean.eu
 partner.bohempia.com
@@ -868,7 +869,6 @@ partneri.mydlatamara.sk
 partneri.nabytek-natali.cz
 partneri.naenergie.cz
 partneri.natu.cz
-partneri.netfotbal.cz
 partneri.nutricbistro.cz
 partneri.onlinejazyky.cz
 partneri.onlinelearning.cz

@@ -47,6 +47,7 @@ l.charentelibre.fr
 l.chartsinfrance.net
 l.closermag.fr
 l.cnetfrance.fr
+l.contexte.com
 l.courrier-picard.fr
 l.cuisineactuelle.fr
 l.dailysports.fr
@@ -100,6 +101,7 @@ l.lanouvellerepublique.fr
 l.laprovence.com
 l.lardennais.fr
 l.larepubliquedespyrenees.fr
+l.latribune.fr
 l.lavoixdunord.fr
 l.le10sport.com
 l.lechasseurfrancais.com

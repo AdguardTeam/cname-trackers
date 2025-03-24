@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,6 +58,7 @@ l.charentelibre.fr CNAME .
 l.chartsinfrance.net CNAME .
 l.closermag.fr CNAME .
 l.cnetfrance.fr CNAME .
+l.contexte.com CNAME .
 l.courrier-picard.fr CNAME .
 l.cuisineactuelle.fr CNAME .
 l.dailysports.fr CNAME .
@@ -111,6 +112,7 @@ l.lanouvellerepublique.fr CNAME .
 l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
 l.larepubliquedespyrenees.fr CNAME .
+l.latribune.fr CNAME .
 l.lavoixdunord.fr CNAME .
 l.le10sport.com CNAME .
 l.lechasseurfrancais.com CNAME .

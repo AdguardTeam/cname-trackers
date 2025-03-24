@@ -549,7 +549,6 @@
 | jackal.thetie.io | deprecated-custom-domains.b-cdn.net |
 | jay.brauerei-egg.at | deprecated-custom-domains.b-cdn.net |
 | jay.howivscode.com | deprecated-custom-domains.b-cdn.net |
-| jay.plantainguy.com | deprecated-custom-domains.b-cdn.net |
 | jcpjfyikk.dogbonemarket.com | deprecated-custom-domains.b-cdn.net |
 | jellyfish.teresaharlow.com | deprecated-custom-domains.b-cdn.net |
 | jellyfish.therapieplatz-finden.de | deprecated-custom-domains.b-cdn.net |

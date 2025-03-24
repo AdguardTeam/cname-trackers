@@ -79,6 +79,7 @@
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
     * law-tmchippewa-com.goatcounter.com
+    * lco-nsn-us-open-law.goatcounter.com
     * localhosed.goatcounter.com
     * lspeed.goatcounter.com
     * maik-dev.goatcounter.com
@@ -122,7 +123,6 @@
     * tbx.goatcounter.com
     * tdurand.goatcounter.com
     * teknoraver.goatcounter.com
-    * thecrafters001.goatcounter.com
     * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
     * tomatomtl.goatcounter.com
@@ -222,6 +222,7 @@
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
+| analytics.law.lco-nsn.gov | lco-nsn-us-open-law.goatcounter.com |
 | stats.svc.lol | localhosed.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |
@@ -234,6 +235,7 @@
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
 | stats.raycordlegends.com | mine.goatcounter.com |
+| stats.zlinux.ru | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
@@ -266,7 +268,6 @@
 | gc.tbx.at | tbx.goatcounter.com |
 | stats.tdurand.com | tdurand.goatcounter.com |
 | stats.matteocroce.it | teknoraver.goatcounter.com |
-| stats.thecrafters001.com | thecrafters001.goatcounter.com |
 | goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
 | analytics.tomatomtl.com | tomatomtl.goatcounter.com |

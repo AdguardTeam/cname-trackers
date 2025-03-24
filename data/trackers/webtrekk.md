@@ -59,6 +59,7 @@
     * 215973748390194.wt-eu02.net
     * 219987111224544.wt-eu02.net
     * 227633596530844.wt-eu02.net
+    * 228171111835997.wt-eu02.net
     * 229792913412288.wt-eu02.net
     * 243341177383246.wt-eu02.net
     * 261826549347986.wt-eu02.net
@@ -115,7 +116,6 @@
     * 517717528680725.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
-    * 554833903189763.wt-eu02.net
     * 572457300660290.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
@@ -290,6 +290,7 @@
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | webanalytics.also.pt | 219987111224544.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
+| web.news.boxeurdesrues.com | 228171111835997.wt-eu02.net |
 | web.web.tomasiauto.com | 229792913412288.wt-eu02.net |
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | mit.postbank.de | 261826549347986.wt-eu02.net |
@@ -370,7 +371,6 @@
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
-| web.s.sasrx.com | 554833903189763.wt-eu02.net |
 | web.info.xerjoff.com | 572457300660290.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |

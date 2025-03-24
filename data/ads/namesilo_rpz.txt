@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -467,6 +467,7 @@ $TTL 300
 3442145.notifysrv.com CNAME .
 3442291.notify6.com CNAME .
 3444967.notify6.com CNAME .
+3446417.notify6.com CNAME .
 3447913.notifysrv.com CNAME .
 3451465.notifysrv.com CNAME .
 3453873.notifysrv.com CNAME .
@@ -652,6 +653,7 @@ $TTL 300
 3576907.notifysrv.com CNAME .
 3578231.notify6.com CNAME .
 3578231.notifysrv.com CNAME .
+3578233.notify6.com CNAME .
 3578235.notify6.com CNAME .
 3578239.notify6.com CNAME .
 3578241.notify6.com CNAME .
@@ -805,6 +807,7 @@ $TTL 300
 3752469.notifysrv.com CNAME .
 3756889.notifysrv.com CNAME .
 3762001.notifysrv.com CNAME .
+3765051.notify6.com CNAME .
 3767411.notify6.com CNAME .
 3768747.notify6.com CNAME .
 3768747.notifysrv.com CNAME .
@@ -1185,6 +1188,7 @@ $TTL 300
 5350536.notify6.com CNAME .
 5535014.notify6.com CNAME .
 5542538.notify6.com CNAME .
+5567292.notify6.com CNAME .
 5602.notify.optimizesrv.com CNAME .
 577.notify.optimizesrv.com CNAME .
 583.notify.optimizesrv.com CNAME .
@@ -1212,9 +1216,10 @@ _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
-a.advertrek.com CNAME .
+a.asvsm.com CNAME .
 a.b7q9v8z.com CNAME .
 a.cant3am.com CNAME .
+a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.huklop.com CNAME .
 a.ma3ion.com CNAME .
@@ -1355,6 +1360,8 @@ s.dsejln.com CNAME .
 s.dseoeg.com CNAME .
 s.dservq.com CNAME .
 s.dsfglq.com CNAME .
+s.dsfvuh.com CNAME .
+s.dsgsyp.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
@@ -1362,6 +1369,7 @@ s.elink3w.com CNAME .
 s.elink3x.com CNAME .
 s.eln14e.com CNAME .
 s.eln16e.com CNAME .
+s.eln3ax.com CNAME .
 s.elna1v.com CNAME .
 s.elna1w.com CNAME .
 s.elna1x.com CNAME .
@@ -1613,9 +1621,8 @@ www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 a.344eva.com CNAME .
-a.asvsm.com CNAME .
+a.advertrek.com CNAME .
 a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
 a.ouzads.com CNAME .
 a.r8lnet.com CNAME .
 a.rocoads.net CNAME .

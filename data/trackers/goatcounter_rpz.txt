@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ analytics.demo.plateau.ng.open.law CNAME .
 analytics.ewpratten.com CNAME .
 analytics.ferrybig.me CNAME .
 analytics.law.cityofsanmateo.org CNAME .
+analytics.law.lco-nsn.gov CNAME .
 analytics.law.mohican.com CNAME .
 analytics.law.tmchippewa.com CNAME .
 analytics.leespace.co CNAME .
@@ -136,7 +137,6 @@ stats.sharukhi.xyz CNAME .
 stats.sofianlak.fr CNAME .
 stats.svc.lol CNAME .
 stats.tdurand.com CNAME .
-stats.thecrafters001.com CNAME .
 stats.trainsley69.me CNAME .
 stats.umcconnell.net CNAME .
 stats.w0chp.radio CNAME .
@@ -144,6 +144,7 @@ stats.whatacools.com CNAME .
 stats.wswg.xyz CNAME .
 stats.ybbond.id CNAME .
 stats.zgo.at CNAME .
+stats.zlinux.ru CNAME .
 trackerstats.davidthe.dev CNAME .
 varz.mcyoung.xyz CNAME .
 vault-stats.sladewatkins.net CNAME .

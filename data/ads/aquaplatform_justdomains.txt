@@ -25,6 +25,7 @@ ads.swiss-equestrian.ch
 ads.the-saleroom.com
 ads.worldofshowjumping.com
 ads.xtra.ca
+adserver.associationheadquarters.com
 adserver.fa-mag.com
 adserver.infotorg.se
 adserver.kozoom.com
@@ -88,6 +89,7 @@ console.livingmagonline.com
 console.mannixmarketing.com
 console.miningweekly.com
 console.myadsmyanmar.com
+console.pinktriangle.ca
 console.revive-adserver.net
 console.sacommunications.com
 console.trackandfieldnews.com

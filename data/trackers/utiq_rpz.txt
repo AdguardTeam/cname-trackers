@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 a1at.mno.link CNAME .
 bob-a1at.mno.link CNAME .
+esca-test.mno.link CNAME .
 esca.mno.link CNAME .
 o2de.mno.link CNAME .
 orangefr-test.mno.link CNAME .
@@ -106,6 +107,7 @@ utiq.einfachkochen.de CNAME .
 utiq.elcomercio.es CNAME .
 utiq.elcorreo.com CNAME .
 utiq.elcorreogallego.es CNAME .
+utiq.elcorreoweb.es CNAME .
 utiq.eldia.es CNAME .
 utiq.eldiario.es CNAME .
 utiq.eldiariomontanes.es CNAME .
@@ -294,6 +296,7 @@ utiq.techbook.de CNAME .
 utiq.telefonica.com CNAME .
 utiq.telekom.de CNAME .
 utiq.terrafemina.com CNAME .
+utiq.testfaz.net CNAME .
 utiq.thueringen24.de CNAME .
 utiq.tierfans.net CNAME .
 utiq.todoalicante.es CNAME .
@@ -315,6 +318,7 @@ utiq.vidaextra.com CNAME .
 utiq.vitonica.com CNAME .
 utiq.voici.fr CNAME .
 utiq.wa.de CNAME .
+utiq.welt-ctv.com CNAME .
 utiq.welt.de CNAME .
 utiq.werra-rundschau.de CNAME .
 utiq.wetterauer-zeitung.de CNAME .

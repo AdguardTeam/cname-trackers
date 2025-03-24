@@ -633,7 +633,6 @@
 | stats.matthiasloibl.com | custom.plausible.io |
 | stats.maximaconsulting.xyz | custom.plausible.io |
 | stats.mazlandscaping.com | custom.plausible.io |
-| stats.meetnfly.com | custom.plausible.io |
 | stats.mein-futterlexikon.org | custom.plausible.io |
 | stats.memberdrive.org | custom.plausible.io |
 | stats.mesenvies.fr | custom.plausible.io |
@@ -713,6 +712,7 @@
 | stats.portalmonitor.io | custom.plausible.io |
 | stats.postcollectors.com | custom.plausible.io |
 | stats.poweringpastcoal.org | custom.plausible.io |
+| stats.practicepl.us | custom.plausible.io |
 | stats.preeventualist.org | custom.plausible.io |
 | stats.pri.org | custom.plausible.io |
 | stats.pricewell.io | custom.plausible.io |
@@ -845,6 +845,7 @@
 | stats.v4.agirpourlenvironnement.org | custom.plausible.io |
 | stats.vanityprojects.com | custom.plausible.io |
 | stats.vdsnow.ru | custom.plausible.io |
+| stats.vegamuze.be | custom.plausible.io |
 | stats.vican.me | custom.plausible.io |
 | stats.vinkkaa.fi | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |
@@ -852,11 +853,13 @@
 | stats.wachstum.at | custom.plausible.io |
 | stats.wafflemeido.art | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
+| stats.warrantynowvoid.com | custom.plausible.io |
 | stats.websnap.app | custom.plausible.io |
 | stats.wecodeni.com | custom.plausible.io |
 | stats.westswindon-pc.gov.uk | custom.plausible.io |
 | stats.whenpigsflybbq.com | custom.plausible.io |
 | stats.whereisit5pmrightnow.com | custom.plausible.io |
+| stats.wiwi.digital | custom.plausible.io |
 | stats.wordvested.org | custom.plausible.io |
 | stats.world.hey.com | custom.plausible.io |
 | stats.wvs.org.uk | custom.plausible.io |

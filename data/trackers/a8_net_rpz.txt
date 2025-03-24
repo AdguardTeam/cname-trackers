@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -230,7 +230,6 @@ a8.mosh.jp CNAME .
 a8.musbell.co.jp CNAME .
 a8.n-pri.jp CNAME .
 a8.nachurabo.com CNAME .
-a8.nanafu.tokyo CNAME .
 a8.narikiri.me CNAME .
 a8.natural-elements.jp CNAME .
 a8.nc-moncouture.com CNAME .
@@ -435,6 +434,7 @@ a8clk.autoc-one.jp CNAME .
 a8clk.bang.co.jp CNAME .
 a8clk.beauteq.jp CNAME .
 a8clk.belle-co.jp CNAME .
+a8clk.beyondborders.jp CNAME .
 a8clk.bikeman.jp CNAME .
 a8clk.biken-mall.com CNAME .
 a8clk.biomarche.jp CNAME .
@@ -1078,6 +1078,7 @@ a8cv.kyotokimono-rental.com CNAME .
 a8cv.l-meal.com CNAME .
 a8cv.laclulu.com CNAME .
 a8cv.lalavie.jp CNAME .
+a8cv.lamellia-japan.co.jp CNAME .
 a8cv.lancers.jp CNAME .
 a8cv.laviepre.co.jp CNAME .
 a8cv.lc-jewel.jp CNAME .
@@ -1100,6 +1101,7 @@ a8cv.machicon.jp CNAME .
 a8cv.macloud.jp CNAME .
 a8cv.maenomery.jp CNAME .
 a8cv.magniflexk.com CNAME .
+a8cv.mai.dk-lab.jp CNAME .
 a8cv.mamarket.co.jp CNAME .
 a8cv.mansiontech.com CNAME .
 a8cv.marumochiya.net CNAME .
@@ -1324,6 +1326,7 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
+a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .
@@ -1557,6 +1560,7 @@ cv.nell.life CNAME .
 cv.oiz-care.jp CNAME .
 cv.online.ysroad.co.jp CNAME .
 cv.optimo-slb.com CNAME .
+cv.qracian.com CNAME .
 cv.quocard.jp CNAME .
 cv.re-shop.jp CNAME .
 cv.ryoutuki-kyujin.com CNAME .

@@ -152,6 +152,7 @@
 | tr.asp2063.espmp-nifr.net | tracking.bp01.net |
 | tr.asp206k.espmp-agfr.net | tracking.bp01.net |
 | tr.asp2070.espmp-aufr.net | tracking.bp01.net |
+| tr.asp2072.espmp-aufr.net | tracking.bp01.net |
 | tr.asp2075.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2076.espmp-pofr.net | tracking.bp01.net |
 | tr.asp2077.espmp-nifr.net | tracking.bp01.net |
@@ -367,6 +368,7 @@
 | tr.e.m-entreprise.fr | tracking.bp01.net |
 | tr.e.trouver-un-logement-neuf.com | tracking.bp01.net |
 | tr.easy-offertes.be | tracking.bp01.net |
+| tr.eazybuy-communication.moethennessy.com | tracking.bp01.net |
 | tr.ecolab-france.fr | tracking.bp01.net |
 | tr.ecologie-shop.espmp-agfr.net | tracking.bp01.net |
 | tr.elections.simplivote.fr | tracking.bp01.net |
@@ -943,6 +945,7 @@
 | tr.newsletter.cuisine-plus.tv | tracking.bp01.net |
 | tr.newsletter.ecig-privee.fr | tracking.bp01.net |
 | tr.newsletter.erenumerique.fr | tracking.bp01.net |
+| tr.newsletter.glenmorangie.co.uk | tracking.bp01.net |
 | tr.newsletter.huilesdolive.fr | tracking.bp01.net |
 | tr.newsletter.leocare.eu | tracking.bp01.net |
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |

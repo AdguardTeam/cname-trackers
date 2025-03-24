@@ -11,6 +11,7 @@
     * adbility-delivery.aquaplatform.com
     * ahk-delivery.aquaplatform.com
     * ahk-static.aquaplatform.com
+    * ahq-delivery.aquaplatform.com
     * ammoland-delivery.aquaplatform.com
     * ammoland-static.aquaplatform.com
     * artionet-delivery.aquaplatform.com
@@ -145,6 +146,7 @@
 | revive.ahk.de | ahk-delivery.aquaplatform.com |
 | www.revive.ahk.de | ahk-delivery.aquaplatform.com |
 | static.ahk.de | ahk-static.aquaplatform.com |
+| adserver.associationheadquarters.com | ahq-delivery.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
 | static.ammoland.com | ammoland-static.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
@@ -328,6 +330,7 @@
 | static.the-saleroom.com | proxibid-static.aquaplatform.com |
 | www.static.proxibid.com | proxibid-static.aquaplatform.com |
 | www.static.the-saleroom.com | proxibid-static.aquaplatform.com |
+| console.pinktriangle.ca | ptp-console.aquaplatform.com |
 | www.console.pinktriangle.ca | ptp-console.aquaplatform.com |
 | ads.xtra.ca | ptp-delivery.aquaplatform.com |
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |

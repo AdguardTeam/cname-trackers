@@ -54,6 +54,7 @@
 ||afm.vtmarketsnet.com^
 ||afm.vtmarketsuk.com^
 ||afm.vtmarketsweb.com^
+||afm.vtmgcn.com^
 ||afm.vtmindo.com^
 ||afs.wearemp.com^
 ||analytics.amrcollection.com^
@@ -171,6 +172,7 @@
 ||cdns.moneyplace.com.au^
 ||cdnt.duobank.com^
 ||cdnt.walmartrewards.ca^
+||cdntm.ciiom.hsbc.com^
 ||cdntm.expat.hsbc.com^
 ||cdntm.firstdirect.com^
 ||cdntm.hangseng.com^
@@ -453,6 +455,7 @@
 ||customer.homedepot.com^
 ||customercenter-img04.auto-owners.com^
 ||custprof.t-mobile.com^
+||cyber.samys.com^
 ||cybersource.shoplineapp.com^
 ||cybs.dhgate.com^
 ||cybs.dhpay.com^
@@ -918,6 +921,7 @@
 ||service.riverscontent.com^
 ||servicesdp.luckydays.ca^
 ||servicesdp.spinaway.ca^
+||sess.vippreferred.com^
 ||sfp.intuit.com^
 ||sg-payment.cydf.hoyoverse.com^
 ||shield.boostbusiness.my^
@@ -944,6 +948,7 @@
 ||srv.squaretrade.pt^
 ||srv.squaretrade.se^
 ||ssafp.samsclub.com^
+||ssl.payjustnow.com^
 ||st10.sofi.com^
 ||stat.bluorbank.lv^
 ||static.bc-cdn.io^
@@ -1135,6 +1140,7 @@
 ||tmx.bestbuy.com^
 ||tmx.beyondbank.com.au^
 ||tmx.carhistory.com.au^
+||tmx.cdn-btsg.com^
 ||tmx.efsllc.com^
 ||tmx.esfp.c1.vanguard.com^
 ||tmx.gotobilling.com^
@@ -1173,6 +1179,7 @@
 ||txn.allianzlife.com^
 ||uafms.ocbc.com^
 ||uat.cmprofile.cards.citidirect.com^
+||uatidentity4.citidirect.com^
 ||ucfs.sendpro360.pitneybowes.com^
 ||ufp.intuit.com^
 ||uldfp.srilankan.com^

@@ -42,6 +42,7 @@
 | l.shiga-saku.net | acweb.clog.jp |
 | l.tamaliver.jp | acweb.clog.jp |
 | l.tec29.com | acweb.clog.jp |
+| l.tencho.cc | acweb.clog.jp |
 | l.tenkomori.tv | acweb.clog.jp |
 | l.thd-web.jp | acweb.clog.jp |
 | l.ti-da.net | acweb.clog.jp |

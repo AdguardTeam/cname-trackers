@@ -492,6 +492,7 @@
 | partner.bio-nechty.sk | cz.affilbox.cz |
 | partner.bio-nehty.cz | cz.affilbox.cz |
 | partner.biomag.cz | cz.affilbox.cz |
+| partner.birne.com | cz.affilbox.cz |
 | partner.bitcoinzmenaren.sk | cz.affilbox.cz |
 | partner.bohemiaclean.eu | cz.affilbox.cz |
 | partner.bohempia.com | cz.affilbox.cz |
@@ -889,7 +890,6 @@
 | partneri.nabytek-natali.cz | cz.affilbox.cz |
 | partneri.naenergie.cz | cz.affilbox.cz |
 | partneri.natu.cz | cz.affilbox.cz |
-| partneri.netfotbal.cz | cz.affilbox.cz |
 | partneri.nutricbistro.cz | cz.affilbox.cz |
 | partneri.onlinejazyky.cz | cz.affilbox.cz |
 | partneri.onlinelearning.cz | cz.affilbox.cz |

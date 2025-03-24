@@ -3,7 +3,6 @@
 ## Disguised trackers list
 
 * non.li
-    * l.non.li
     * origin.non.li
     * tls-ebra.non.li
     * tls-lp-cm.non.li
@@ -14,7 +13,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| poc.warnerbros.fr | l.non.li |
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |
@@ -28,6 +26,7 @@
 | l.varmatin.com | non.li |
 | nr.lanouvellerepublique.fr | non.li |
 | on.qobuz.com | non.li |
+| poc.warnerbros.fr | non.li |
 | social.eleveur-laitier.fr | non.li |
 | social.lafranceagricole.fr | non.li |
 | sur.laprovence.com | non.li |
@@ -96,6 +95,7 @@
 | l.chartsinfrance.net | tls.non.li |
 | l.closermag.fr | tls.non.li |
 | l.cnetfrance.fr | tls.non.li |
+| l.contexte.com | tls.non.li |
 | l.courrier-picard.fr | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
 | l.dailysports.fr | tls.non.li |
@@ -144,6 +144,7 @@
 | l.lanouvellerepublique.fr | tls.non.li |
 | l.lardennais.fr | tls.non.li |
 | l.larepubliquedespyrenees.fr | tls.non.li |
+| l.latribune.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |
 | l.le10sport.com | tls.non.li |
 | l.lechasseurfrancais.com | tls.non.li |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -609,7 +609,6 @@ jackal.jakerunzer.com CNAME .
 jackal.thetie.io CNAME .
 jay.brauerei-egg.at CNAME .
 jay.howivscode.com CNAME .
-jay.plantainguy.com CNAME .
 jcpjfyikk.dogbonemarket.com CNAME .
 jellyfish.teresaharlow.com CNAME .
 jellyfish.therapieplatz-finden.de CNAME .

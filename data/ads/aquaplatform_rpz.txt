@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ ads.swiss-equestrian.ch CNAME .
 ads.the-saleroom.com CNAME .
 ads.worldofshowjumping.com CNAME .
 ads.xtra.ca CNAME .
+adserver.associationheadquarters.com CNAME .
 adserver.fa-mag.com CNAME .
 adserver.infotorg.se CNAME .
 adserver.kozoom.com CNAME .
@@ -99,6 +100,7 @@ console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
 console.miningweekly.com CNAME .
 console.myadsmyanmar.com CNAME .
+console.pinktriangle.ca CNAME .
 console.revive-adserver.net CNAME .
 console.sacommunications.com CNAME .
 console.trackandfieldnews.com CNAME .

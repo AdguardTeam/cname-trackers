@@ -456,6 +456,7 @@
 3442145.notifysrv.com
 3442291.notify6.com
 3444967.notify6.com
+3446417.notify6.com
 3447913.notifysrv.com
 3451465.notifysrv.com
 3453873.notifysrv.com
@@ -641,6 +642,7 @@
 3576907.notifysrv.com
 3578231.notify6.com
 3578231.notifysrv.com
+3578233.notify6.com
 3578235.notify6.com
 3578239.notify6.com
 3578241.notify6.com
@@ -794,6 +796,7 @@
 3752469.notifysrv.com
 3756889.notifysrv.com
 3762001.notifysrv.com
+3765051.notify6.com
 3767411.notify6.com
 3768747.notify6.com
 3768747.notifysrv.com
@@ -1174,6 +1177,7 @@
 5350536.notify6.com
 5535014.notify6.com
 5542538.notify6.com
+5567292.notify6.com
 5602.notify.optimizesrv.com
 577.notify.optimizesrv.com
 583.notify.optimizesrv.com
@@ -1201,9 +1205,10 @@ _sips._tcp.3323174.notifysrv.com
 a.18ramp.com
 a.adsession.com
 a.advantageclicks.net
-a.advertrek.com
+a.asvsm.com
 a.b7q9v8z.com
 a.cant3am.com
+a.etology.com
 a.eunow4u.com
 a.huklop.com
 a.ma3ion.com
@@ -1344,6 +1349,8 @@ s.dsejln.com
 s.dseoeg.com
 s.dservq.com
 s.dsfglq.com
+s.dsfvuh.com
+s.dsgsyp.com
 s.eaalink.com
 s.elink2b.com
 s.elink2c.com
@@ -1351,6 +1358,7 @@ s.elink3w.com
 s.elink3x.com
 s.eln14e.com
 s.eln16e.com
+s.eln3ax.com
 s.elna1v.com
 s.elna1w.com
 s.elna1x.com
@@ -1602,9 +1610,8 @@ www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
 a.344eva.com
-a.asvsm.com
+a.advertrek.com
 a.bizonads-ssp.com
-a.etology.com
 a.ouzads.com
 a.r8lnet.com
 a.rocoads.net

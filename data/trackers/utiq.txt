@@ -2,6 +2,7 @@
 ! Company name: Utiq
 ||a1at.mno.link^
 ||bob-a1at.mno.link^
+||esca-test.mno.link^
 ||esca.mno.link^
 ||o2de.mno.link^
 ||orangefr-test.mno.link^
@@ -95,6 +96,7 @@
 ||utiq.elcomercio.es^
 ||utiq.elcorreo.com^
 ||utiq.elcorreogallego.es^
+||utiq.elcorreoweb.es^
 ||utiq.eldia.es^
 ||utiq.eldiario.es^
 ||utiq.eldiariomontanes.es^
@@ -283,6 +285,7 @@
 ||utiq.telefonica.com^
 ||utiq.telekom.de^
 ||utiq.terrafemina.com^
+||utiq.testfaz.net^
 ||utiq.thueringen24.de^
 ||utiq.tierfans.net^
 ||utiq.todoalicante.es^
@@ -304,6 +307,7 @@
 ||utiq.vitonica.com^
 ||utiq.voici.fr^
 ||utiq.wa.de^
+||utiq.welt-ctv.com^
 ||utiq.welt.de^
 ||utiq.werra-rundschau.de^
 ||utiq.wetterauer-zeitung.de^

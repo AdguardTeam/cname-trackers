@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,6 +45,7 @@ l.sapolog.com CNAME .
 l.shiga-saku.net CNAME .
 l.tamaliver.jp CNAME .
 l.tec29.com CNAME .
+l.tencho.cc CNAME .
 l.tenkomori.tv CNAME .
 l.thd-web.jp CNAME .
 l.ti-da.net CNAME .

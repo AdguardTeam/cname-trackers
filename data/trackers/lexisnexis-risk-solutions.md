@@ -188,6 +188,7 @@
     * h-a4nx1etl.online-metrix.net
     * h-a4s32zk0.online-metrix.net
     * h-a5j4qgb0.online-metrix.net
+    * h-a5yvxncp.online-metrix.net
     * h-a9ndqgz3.online-metrix.net
     * h-a9vkgbg7-2.online-metrix.net
     * h-a9vkgbg7.online-metrix.net
@@ -337,6 +338,7 @@
     * h-citadele.online-metrix.net
     * h-citbank.online-metrix.net
     * h-citcommercial.online-metrix.net
+    * h-citi.vanity.online-metrix.net
     * h-citibank-ae.online-metrix.net
     * h-citibank-au.online-metrix.net
     * h-citibank-cn.online-metrix.net
@@ -1149,6 +1151,7 @@
 | afm.vtmarketsnet.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsuk.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsweb.com | h-96eziru5.online-metrix.net |
+| afm.vtmgcn.com | h-96eziru5.online-metrix.net |
 | afm.vtmindo.com | h-96eziru5.online-metrix.net |
 | check.jaja.finance | h-97sdcyug.online-metrix.net |
 | tmcdn.7sultanscasino.com | h-98oju8tz.online-metrix.net |
@@ -1176,6 +1179,7 @@
 | tmcdn.vegaspalmscasino.com | h-98oju8tz.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | wkvjee5b.paviliononline.io | h-9f85se8g-pav.online-metrix.net |
+| sess.vippreferred.com | h-9f85se8g.online-metrix.net |
 | wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
 | img2.bbva.com.ar | h-9i4fauog.online-metrix.net |
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
@@ -1188,6 +1192,7 @@
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
 | content.rias.co.uk | h-a4s32zk0.online-metrix.net |
 | ebcontent.mcbankny.com | h-a5j4qgb0.online-metrix.net |
+| ssl.payjustnow.com | h-a5yvxncp.online-metrix.net |
 | fms.perahub.com.ph | h-a9ndqgz3.online-metrix.net |
 | tcontent.auchantelecom.fr | h-a9vkgbg7-2.online-metrix.net |
 | tcontent.nrjmobile.fr | h-a9vkgbg7.online-metrix.net |
@@ -1414,6 +1419,7 @@
 | content.bankoncit.com | h-citbank.online-metrix.net |
 | content.citbankapp.cit.com | h-citbank.online-metrix.net |
 | contentfd.directcapital.com | h-citcommercial.online-metrix.net |
+| uatidentity4.citidirect.com | h-citi.vanity.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
 | content22.citibank.com.cn | h-citibank-cn.online-metrix.net |
@@ -1631,6 +1637,7 @@
 | tmcdn.homeaway.com | h-homeaway2.online-metrix.net |
 | customer.homedepot.com | h-homedepot.online-metrix.net |
 | tmt.houzz.com | h-houzz.online-metrix.net |
+| cdntm.ciiom.hsbc.com | h-hsbcmx.online-metrix.net |
 | cdntm.expat.hsbc.com | h-hsbcmx.online-metrix.net |
 | cdntm.firstdirect.com | h-hsbcmx.online-metrix.net |
 | cdntm.hangseng.com | h-hsbcmx.online-metrix.net |
@@ -1891,6 +1898,7 @@
 | content.sheerid.com | h-sheerid.online-metrix.net |
 | imgs.cdn-btsg.com | h-signifyd.online-metrix.net |
 | imgs.signifyd.com | h-signifyd.online-metrix.net |
+| tmx.cdn-btsg.com | h-signifyd.online-metrix.net |
 | 1of1.skipcash.app | h-skipcash.online-metrix.net |
 | cdn1.skrill.com | h-skrill.online-metrix.net |
 | idstatus.sky.com | h-skyuk.online-metrix.net |
@@ -2027,6 +2035,7 @@
 | content.readiness.consumercardaccess.com | h.online-metrix.net |
 | content.readiness.familyprepaiddebit.com | h.online-metrix.net |
 | content.readiness.paycardsolutions.com | h.online-metrix.net |
+| cyber.samys.com | h.online-metrix.net |
 | df.fragrancex.com | h.online-metrix.net |
 | fp.avatrade.com | h.online-metrix.net |
 | fp.gucci.com | h.online-metrix.net |

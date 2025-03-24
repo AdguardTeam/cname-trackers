@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,6 +137,7 @@ tr.asp205a.espmp-cufr.net CNAME .
 tr.asp2063.espmp-nifr.net CNAME .
 tr.asp206k.espmp-agfr.net CNAME .
 tr.asp2070.espmp-aufr.net CNAME .
+tr.asp2072.espmp-aufr.net CNAME .
 tr.asp2075.espmp-nifr.net CNAME .
 tr.asp2076.espmp-pofr.net CNAME .
 tr.asp2077.espmp-nifr.net CNAME .
@@ -352,6 +353,7 @@ tr.e.entreprise-pm.net CNAME .
 tr.e.m-entreprise.fr CNAME .
 tr.e.trouver-un-logement-neuf.com CNAME .
 tr.easy-offertes.be CNAME .
+tr.eazybuy-communication.moethennessy.com CNAME .
 tr.ecolab-france.fr CNAME .
 tr.ecologie-shop.espmp-agfr.net CNAME .
 tr.elections.simplivote.fr CNAME .
@@ -928,6 +930,7 @@ tr.newsletter.chandon.com CNAME .
 tr.newsletter.cuisine-plus.tv CNAME .
 tr.newsletter.ecig-privee.fr CNAME .
 tr.newsletter.erenumerique.fr CNAME .
+tr.newsletter.glenmorangie.co.uk CNAME .
 tr.newsletter.huilesdolive.fr CNAME .
 tr.newsletter.leocare.eu CNAME .
 tr.newsletter.location.boulanger.com CNAME .

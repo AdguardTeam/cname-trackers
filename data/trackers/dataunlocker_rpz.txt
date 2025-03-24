@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742198409243        ; Serial
+           1742803208380        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ $TTL 300
 1kpv4njzilv.community.intersystems.com CNAME .
 1phrzgfqiym8.marketingtornado.ca CNAME .
 1vyt1eguj27.ommasign.com CNAME .
+1xwkhcsp3s5.vqsave.ommasign.com CNAME .
 21fhq0t574p.talentkit.io CNAME .
 21udflra4wd.app-dev.cainthus.com CNAME .
 23t63tvyxz.marketingtornado.ca CNAME .
@@ -43,6 +44,7 @@ $TTL 300
 5mc92su06suu.www.abhijith.page CNAME .
 5oovx2t8rl04.thebarrecollective.co CNAME .
 5zb0xuoeglfx.cit-dev.stylumia.com CNAME .
+6fzt17pkr6a1de5.kvest.ee CNAME .
 6nwp0r33a71m.app.dev.cardahealth.com CNAME .
 6ynyejkv0j1s.app.tapmyback.com CNAME .
 704g8xh7qfzx.www.intercity.technology CNAME .
@@ -52,6 +54,7 @@ $TTL 300
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8ue4rp6yxyis.www.tapmyback.com CNAME .
 8vwxqg.tapin.gg CNAME .
+8wozkl2r32jb.mitarbeiter-schmiede.de CNAME .
 9b5gjkrnw71r.it.themoneytizer.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9l3cr6dvk2kb.adaptive.marketing CNAME .
@@ -70,7 +73,6 @@ cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
 dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
-duncoyib1v98s1k7h.artistl.ink CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 fkupm8697t19.eyevolution.de CNAME .
@@ -110,7 +112,6 @@ qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qri2r94eeajr.innovationcast.com CNAME .
 rgb9uinh2dej9ri.jacobzhang.de CNAME .
-ro21phme5z18gkzp.kvest.ee CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 soahu1wnmt6l.www.replai.io CNAME .
@@ -127,7 +128,6 @@ ughs3zr2ofw1.scholarship.tanuki.id CNAME .
 uhd5nn09mgml.fort-shop.kiev.ua CNAME .
 umylynsr9b.quira.sh CNAME .
 ut19suycy9vt.nowyformat.nofluffjobs.com CNAME .
-vy6a10k7qj2p.beta.app.hub.la CNAME .
 vyz3nn85ed0e.controlconceptsusa.com CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .
