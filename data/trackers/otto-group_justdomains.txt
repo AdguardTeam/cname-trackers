@@ -19,6 +19,7 @@ te.helline.fr
 te.imwalking.de
 te.jelmoli-shop.ch
 te.lascana.at
+te.lascana.ch
 te.limango.de
 te.mirapodo.de
 te.mytoys.de

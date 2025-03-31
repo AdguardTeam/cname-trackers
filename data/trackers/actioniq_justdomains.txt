@@ -2,7 +2,6 @@
 # Company name: ActionIQ
 a.callawaygolf.com
 a.callawaygolfpreowned.com
-a.mystery.software
 a.ogio.com
 a.topgolf.com
 accounts-meta-events.outsideonline.com

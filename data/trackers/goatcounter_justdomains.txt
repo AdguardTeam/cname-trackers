@@ -6,6 +6,7 @@ analytics.astuto.io
 analytics.bytewave.net
 analytics.code.dccouncil.gov
 analytics.code.dccouncil.us
+analytics.codes.baltimorecity.gov
 analytics.demo.plateau.ng.open.law
 analytics.ewpratten.com
 analytics.ferrybig.me
@@ -38,7 +39,6 @@ gc.securitydungeon.sk
 gc.tbx.at
 github.gpuzelenograd.cloudns.be
 go.d8a.org
-goat.belak.io
 goat.dabric.xyz
 goat.dheinemann.com
 goat.gavv.in
@@ -126,6 +126,7 @@ stats.sharukhi.xyz
 stats.sofianlak.fr
 stats.svc.lol
 stats.tdurand.com
+stats.timothechau.vet
 stats.trainsley69.me
 stats.umcconnell.net
 stats.w0chp.radio
@@ -133,10 +134,10 @@ stats.whatacools.com
 stats.wswg.xyz
 stats.ybbond.id
 stats.zgo.at
-stats.zlinux.ru
 trackerstats.davidthe.dev
 varz.mcyoung.xyz
 vault-stats.sladewatkins.net
 visit.argfuscator.net
 visit.hijacklibs.net
 webstats.maik.dev
+www.stats.spflow.com

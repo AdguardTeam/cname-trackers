@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -87,6 +87,7 @@ l.franceguyane.fr CNAME .
 l.franceinter.fr CNAME .
 l.francemusique.fr CNAME .
 l.frandroid.com CNAME .
+l.futura-sciences.com CNAME .
 l.gala.fr CNAME .
 l.gamekult.com CNAME .
 l.gamepro.de CNAME .
@@ -158,6 +159,7 @@ l.ouest-france.fr CNAME .
 l.ouifm.fr CNAME .
 l.ozap.com CNAME .
 l.paris-normandie.fr CNAME .
+l.paris-turf.com CNAME .
 l.paroledemamans.com CNAME .
 l.planet.fr CNAME .
 l.pleinevie.fr CNAME .

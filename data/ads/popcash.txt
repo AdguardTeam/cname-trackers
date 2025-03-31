@@ -146,6 +146,7 @@
 ||cdn.zkcvb.com^
 ||cdn.zxclan.com^
 ||1.bunkr-cache.se^
+||39grbc.jackbarber.co.uk^
 ||4ke5b4ila.codedge.de^
 ||7wrxo2xh.iriscreative.co^
 ||8inhjmd.usefathom.com^
@@ -311,7 +312,6 @@
 ||cat.mattr.global^
 ||cat.sprucely.net^
 ||cat.thisminute.app^
-||caterpilla.ibon.live^
 ||catfish.phuclh.com^
 ||catfish.pressure.cooking^
 ||catfish.sofatido.ch^
@@ -325,6 +325,7 @@
 ||cattle.herojob.de^
 ||cattle.kirkebaekke.dk^
 ||cattle.kumo.at^
+||cattle.marius.money^
 ||cattle.mes-renovateurs.com^
 ||cattle.musikschule-bregenzerwald.at^
 ||cattle.spiral11.com^
@@ -476,7 +477,6 @@
 ||fish.whitney.org^
 ||fjikgr.dennmart.com^
 ||flamingo.abihome.de^
-||flamingo.apatonsrompus.com^
 ||flamingo.podcast.taxi^
 ||flamingo.stacking-club.com^
 ||flea.elbertsnaturalfoods.com^
@@ -548,7 +548,6 @@
 ||hamster.darstellendekuenste.de^
 ||hare.felix-schmid.de^
 ||hare.startupbootcamp.com.au^
-||harrier.jasonsantamaria.com^
 ||harrier.progress.fyi^
 ||harrier.scdamerica.com.au^
 ||hawk.makroskop.eu^
@@ -645,7 +644,6 @@
 ||landsnail.motin.eu^
 ||lark.pollie.dev^
 ||leech.fuchsegg.at^
-||leech.privacycloud.com^
 ||leech.stargate-project.de^
 ||lemming.nicolasmenard.com^
 ||lemming.vivian.do^
@@ -843,6 +841,7 @@
 ||porpoise.numberzs.com^
 ||prairiedog.freemusic.com.au^
 ||prairiedog.hashnode.com^
+||prairiedog.health-improvement.uk^
 ||prairiedog.thisismattsmith.com^
 ||prairiedog.xview.us^
 ||prawn.inchperfect.com^
@@ -941,6 +940,7 @@
 ||skunk.gameworkersolidarity.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
+||snake.cybmed.com^
 ||snipe.mfaber.at^
 ||snipe.mizzuu.co^
 ||sole.bkosmetik.com^
@@ -1086,7 +1086,6 @@
 ||wildcat.longviewforecasting.com^
 ||wildcat.restq.co^
 ||wildcat.vivritiamc.com^
-||wildebeest.gmk.today^
 ||wildebeest.quarva.dev^
 ||wildebeest.soft-spoken.dev^
 ||wildebeest.trigo.dev^
@@ -1189,6 +1188,7 @@
 ||log.ads-m.net^
 ||matomo-cdn-bunny.ramsalt.com^
 ||msrvt.net^
+||snowplow-collector.xstaging.tv^
 ||sp.freshlooklens.pk^
 ||sp.lenspk.com^
 ||sp.theladyshop.pk^

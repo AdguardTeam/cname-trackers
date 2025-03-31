@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,8 +25,12 @@ blackberry.basf.com CNAME .
 blackberry.suvinil.com.br CNAME .
 collect.aeonbank.co.jp CNAME .
 collect.asics.com CNAME .
+collect.calvinklein.be CNAME .
+collect.calvinklein.bg CNAME .
 collect.calvinklein.co.uk CNAME .
+collect.calvinklein.com CNAME .
 collect.calvinklein.de CNAME .
+collect.calvinklein.dk CNAME .
 collect.calvinklein.ee CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
@@ -34,9 +38,12 @@ collect.calvinklein.fr CNAME .
 collect.calvinklein.hu CNAME .
 collect.calvinklein.ie CNAME .
 collect.calvinklein.it CNAME .
-collect.calvinklein.lt CNAME .
+collect.calvinklein.lu CNAME .
+collect.calvinklein.lv CNAME .
 collect.calvinklein.nl CNAME .
 collect.calvinklein.pl CNAME .
+collect.calvinklein.pt CNAME .
+collect.calvinklein.se CNAME .
 collect.kinto-jp.com CNAME .
 collect.mtgec.jp CNAME .
 collect.oportun.com CNAME .
@@ -101,8 +108,6 @@ tags.3mireland.ie CNAME .
 tags.3mschweiz.ch CNAME .
 tags.abercrombie.com CNAME .
 tags.accessmore.com CNAME .
-tags.achieve.com CNAME .
-tags.achieveloans.com CNAME .
 tags.air1.com CNAME .
 tags.alhurra.com CNAME .
 tags.amerikaninsesi.org CNAME .
@@ -123,7 +128,6 @@ tags.babybunting.com.au CNAME .
 tags.benarnews.org CNAME .
 tags.bestcheck.de CNAME .
 tags.bestow.com CNAME .
-tags.bills.com CNAME .
 tags.bk.mufg.jp CNAME .
 tags.bunte.de CNAME .
 tags.bupa.co.nz CNAME .
@@ -150,7 +154,6 @@ tags.calvinklein.hu CNAME .
 tags.calvinklein.ie CNAME .
 tags.calvinklein.it CNAME .
 tags.calvinklein.lt CNAME .
-tags.calvinklein.lu CNAME .
 tags.calvinklein.lv CNAME .
 tags.calvinklein.nl CNAME .
 tags.calvinklein.pl CNAME .
@@ -184,8 +187,6 @@ tags.finanzen100.de CNAME .
 tags.fitforfun.de CNAME .
 tags.focus.de CNAME .
 tags.foundcollective.com CNAME .
-tags.freedomdebtrelief.com CNAME .
-tags.freedomfinancialnetwork.com CNAME .
 tags.glasamerike.net CNAME .
 tags.gnhearing.com CNAME .
 tags.golosameriki.com CNAME .
@@ -228,7 +229,6 @@ tags.partenamut.be CNAME .
 tags.pashtovoa.com CNAME .
 tags.pepperl-fuchs.com CNAME .
 tags.pocruises.com.au CNAME .
-tags.programdashboard.com CNAME .
 tags.propertyfinder.ae CNAME .
 tags.propertyfinder.bh CNAME .
 tags.propertyfinder.eg CNAME .
@@ -277,6 +277,7 @@ tags.tiq.rbcinsurance.com CNAME .
 tags.tiq.rbcprivateinsurance.com CNAME .
 tags.tommy.com CNAME .
 tags.tryg.dk CNAME .
+tags.tryg.no CNAME .
 tags.tvspielfilm.de CNAME .
 tags.tvtoday.de CNAME .
 tags.urduvoa.com CNAME .
@@ -320,6 +321,7 @@ tccd.douglas.bg CNAME .
 tccd.douglas.ch CNAME .
 tccd.douglas.cz CNAME .
 tccd.douglas.de CNAME .
+tccd.douglas.ee CNAME .
 tccd.douglas.es CNAME .
 tccd.douglas.hr CNAME .
 tccd.douglas.hu CNAME .
@@ -411,8 +413,8 @@ tttd.parfumdreams.nl CNAME .
 tttd.parfumdreams.pl CNAME .
 tttd.parfumdreams.pt CNAME .
 tttd.parfumdreams.se CNAME .
-view.ansons.de CNAME .
 view.oportun.com CNAME .
+view.stylebob.com CNAME .
 visitor-service.aeonbank.co.jp CNAME .
 visitor-service.fancl.co.jp CNAME .
 visitor-service.kinto-jp.com CNAME .
@@ -428,23 +430,16 @@ webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
 collect.ansons.de CNAME .
 collect.calvinklein.at CNAME .
-collect.calvinklein.be CNAME .
-collect.calvinklein.bg CNAME .
 collect.calvinklein.ch CNAME .
-collect.calvinklein.com CNAME .
 collect.calvinklein.cz CNAME .
-collect.calvinklein.dk CNAME .
 collect.calvinklein.hr CNAME .
-collect.calvinklein.lu CNAME .
-collect.calvinklein.lv CNAME .
-collect.calvinklein.pt CNAME .
-collect.calvinklein.se CNAME .
+collect.calvinklein.lt CNAME .
 collect.calvinklein.si CNAME .
 collect.calvinklein.sk CNAME .
-tccd.douglas.ee CNAME .
 collect.fancl.co.jp CNAME .
 tag.bi.serviceplan.com CNAME .
+tags.calvinklein.lu CNAME .
 tags.peek-cloppenburg.nl CNAME .
 tags.sixpad.jp CNAME .
+view.ansons.de CNAME .
 view.peek-cloppenburg.de CNAME .
-view.stylebob.com CNAME .

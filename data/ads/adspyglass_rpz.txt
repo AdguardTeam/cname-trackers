@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,7 +12,6 @@ $TTL 300
 @    IN   NS    localhost.
 
 0.101tubeporn.com CNAME .
-0.oldgyhogola.com CNAME .
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
 100kia.xyz CNAME .
@@ -79,12 +78,14 @@ a.dboobs.tv CNAME .
 a.debub.site CNAME .
 a.demba.xyz CNAME .
 a.digitalgiftshopping.com CNAME .
+a.dimao.site CNAME .
 a.dporntube.site CNAME .
 a.dripe.site CNAME .
 a.dumae.site CNAME .
 a.dumay.site CNAME .
 a.duria.site CNAME .
 a.dylop.xyz CNAME .
+a.edbl.space CNAME .
 a.ekont.site CNAME .
 a.emban.site CNAME .
 a.endod.site CNAME .
@@ -523,6 +524,7 @@ exemptjav128.fun CNAME .
 f-g-l-j.22yy6.com CNAME .
 f.bfvideo1.com CNAME .
 f.bloblohub.com CNAME .
+f.hoffers.store CNAME .
 f5w.prettytube.net CNAME .
 failjav11.fun CNAME .
 familiar3452.fun CNAME .
@@ -609,6 +611,7 @@ helmpa.xyz CNAME .
 help.fanza.cc CNAME .
 highway.18manwa.com CNAME .
 hookjav12.fun CNAME .
+hot.justpornflix.com CNAME .
 hskujw2.com CNAME .
 hx1.tubepornbase.com CNAME .
 i.bloblohub.com CNAME .
@@ -618,6 +621,7 @@ i.wideblacks.com CNAME .
 i1i.heyaiii111iidsfsdbfjb132222ffco.xyz CNAME .
 i2.mayoblast.com CNAME .
 i3.mayoblast.com CNAME .
+i4.mayoblast.com CNAME .
 ignore.hot-bbw-tube.com CNAME .
 ilviaggionellatesta.hubhubhub.name CNAME .
 imail.bloblohub.com CNAME .
@@ -712,6 +716,7 @@ lewd.ws CNAME .
 lianzl.xyz CNAME .
 linakso.xyz CNAME .
 liracdn.com CNAME .
+live.xcamshd.live CNAME .
 lixir.wargers.org CNAME .
 load.lolsauce.net CNAME .
 loaiza.xyz CNAME .
@@ -1118,7 +1123,6 @@ wecvhi.ekftei2weudt.info CNAME .
 wingjav11.fun CNAME .
 withdraw3452.fun CNAME .
 workable1x.xyz CNAME .
-ww.oldgyhogola.com CNAME .
 ww.sphinxtube.com CNAME .
 www.antiadblock.info CNAME .
 www.apgate.hubhubhub.name CNAME .
@@ -1187,7 +1191,6 @@ y.sphinxtube.com CNAME .
 y6zqw.boyspornpics.com CNAME .
 yapzoa.xyz CNAME .
 you4cdn.com CNAME .
-you75.youpornsexvideos.com CNAME .
 youaixx.xyz CNAME .
 yummycdn.com CNAME .
 z0000g.yorkvillemarketing.net CNAME .
@@ -1214,3 +1217,4 @@ a.moera.xyz CNAME .
 a.refia.xyz CNAME .
 a.vieva.xyz CNAME .
 ontj.com CNAME .
+you75.youpornsexvideos.com CNAME .

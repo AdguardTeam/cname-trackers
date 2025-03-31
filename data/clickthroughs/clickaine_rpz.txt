@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ c4n.asianpinay.com CNAME .
 c4n.hotjavmovies.com CNAME .
 c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
+c4n.natali9.online CNAME .
 c4n.shudhdesiporn.com CNAME .
 c4n.surfotresors.com CNAME .
 c4n.swift4claim.com CNAME .
@@ -103,6 +104,7 @@ jg3.trypicz.com CNAME .
 jpnj.hotpornfile.org CNAME .
 k10.usefto.com CNAME .
 k8.usefto.com CNAME .
+m.brandnewapp.pro CNAME .
 mail.7porn.ru CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .
@@ -121,7 +123,6 @@ s5.rtnews.pro CNAME .
 snow.snowdayonline.xyz CNAME .
 station54k.brandnewapp.pro CNAME .
 taco.sexreels.net CNAME .
-tcp.topcomicporno.net CNAME .
 v040419.badjojo.com CNAME .
 wafe.camcaps.sx CNAME .
 wp.brandnewapp.pro CNAME .
@@ -130,7 +131,6 @@ www.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
-www.xn--www-hn0a.rtnews.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

@@ -67,6 +67,7 @@
 ||agility.ncaa.com^
 ||agility.staples-solutions.com^
 ||agility.tbs.com^
+||agility.tbs.tv^
 ||agility.tcm.com^
 ||agility.tntdrama.com^
 ||agility.trutv.com^
@@ -207,6 +208,7 @@
 ||dc.zales.com^
 ||dc.zalesoutlet.com^
 ||dcf.espn.com^
+||dcf.espn.com.do^
 ||dcf.espn.com.pe^
 ||dcf.espnqa.com^
 ||dcfdata.espn.com^
@@ -223,6 +225,7 @@
 ||ens.tagblatt.ch^
 ||ens.themarket.ch^
 ||ens.thurgauerzeitung.ch^
+||ens.toggenburgertagblatt.ch^
 ||ens.trauerportal-ostschweiz.ch^
 ||ens.urnerzeitung.ch^
 ||ens.wilerzeitung.ch^
@@ -333,6 +336,7 @@
 ||sst.johnlewis.com^
 ||sst.marshalls.com^
 ||sst.nab.com.au^
+||sst.one.audi^
 ||sst.subzero-wolf.com^
 ||sst.tjmaxx.tjx.com^
 ||suncorp.activate.ensighten.com^

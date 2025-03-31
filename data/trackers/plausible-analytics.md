@@ -13,7 +13,6 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | a-api.skz.dev | custom.plausible.io |
-| a.conhecercuritiba.com | custom.plausible.io |
 | a.linkz.ai | custom.plausible.io |
 | aloha.getoperand.com | custom.plausible.io |
 | also.greatsecuritydebate.net | custom.plausible.io |
@@ -138,7 +137,6 @@
 | p.www.viertaxa.com | custom.plausible.io |
 | pa-stats.encore.dev | custom.plausible.io |
 | pa.opqr.co | custom.plausible.io |
-| pine.nervecentral.com | custom.plausible.io |
 | ping.naturadapt.com | custom.plausible.io |
 | ping.resoluteoil.com | custom.plausible.io |
 | pl-web-stats-icy7xvjbpxsxf8gwwz5c.theochu.com | custom.plausible.io |
@@ -229,7 +227,6 @@
 | plausible.nmyvsn.net | custom.plausible.io |
 | plausible.nuqu.org | custom.plausible.io |
 | plausible.plausible.tangodelta.media | custom.plausible.io |
-| plausible.prufit.co | custom.plausible.io |
 | plausible.pumpkint.com | custom.plausible.io |
 | plausible.quantumcomputingexplained.com | custom.plausible.io |
 | plausible.quo.wtf | custom.plausible.io |
@@ -307,6 +304,7 @@
 | server.japanbyrivercruise.com | custom.plausible.io |
 | server.officeclowns.live | custom.plausible.io |
 | server.olliehorn.com | custom.plausible.io |
+| server.olliehorncooks.com | custom.plausible.io |
 | site-stats.supernotes.app | custom.plausible.io |
 | sp.ballsdigroup.com | custom.plausible.io |
 | sp.gameomatic.fr | custom.plausible.io |
@@ -776,6 +774,7 @@
 | stats.shepherd.com | custom.plausible.io |
 | stats.shh.io | custom.plausible.io |
 | stats.shiftx.com | custom.plausible.io |
+| stats.shobokshy.com | custom.plausible.io |
 | stats.simplinetworks.com | custom.plausible.io |
 | stats.sirdata.com | custom.plausible.io |
 | stats.sixseven.at | custom.plausible.io |

@@ -1,9 +1,11 @@
 #
 # Company name: Ad Plus
+ad-serving.iocreate.cloud
 adserving.menatech.net
 cdn.laim.tv
 cdn33.protagcdn.com
 dashboard.andbeyond.media
+dashboard.digita.media
 dashboard.grapemedia.cz
 dashboard.xqubemedia.com
 player.resonance.pk
@@ -12,7 +14,9 @@ serving.grapemedia.cz
 serving.idolmedia360.com
 serving.laimroll.ru
 serving.lookverin.com
+serving.mmmedia-group.com
 serving.platformance.io
 serving.profitsence.com
 serving.srmg.com
+serving.thebeglobal.com
 serving.viewtraff.com

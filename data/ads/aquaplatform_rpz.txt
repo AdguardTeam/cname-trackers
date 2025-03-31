@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -55,6 +55,7 @@ api.ad.logic-prod.viasat.io CNAME .
 api.ad.logic-test.viasat.io CNAME .
 api.ad.logic.viasat.io CNAME .
 api.adbility-media.com CNAME .
+api.aqua-adserver.com CNAME .
 api.metrike.com CNAME .
 assets.lintigroup.se CNAME .
 banners.cincinnatimagazine.com CNAME .
@@ -89,6 +90,7 @@ console.datateam.co.uk CNAME .
 console.everythingcolorado.com CNAME .
 console.faithlifeads.com CNAME .
 console.falconstudios.com CNAME .
+console.goldseek.com CNAME .
 console.greenspring.com CNAME .
 console.healthcarescene.com CNAME .
 console.hour-media.com CNAME .
@@ -232,8 +234,10 @@ www.cdn-adv.unionesarda.it CNAME .
 www.cdn.adspmg.com CNAME .
 www.cdn.datateam.co.uk CNAME .
 www.cdn.metrike.com CNAME .
+www.console.adspmg.com CNAME .
 www.console.ceramicartsnetwork.org CNAME .
 www.console.healthcarescene.com CNAME .
+www.console.livingmagonline.com CNAME .
 www.console.pinktriangle.ca CNAME .
 www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .

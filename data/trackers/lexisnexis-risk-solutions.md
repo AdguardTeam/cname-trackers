@@ -71,6 +71,7 @@
     * h-3zlt5rop.online-metrix.net
     * h-40347ghm.online-metrix.net
     * h-40347ghm2.online-metrix.net
+    * h-460nu0c9.online-metrix.net
     * h-47blm1l4.online-metrix.net
     * h-47z24dz9.online-metrix.net
     * h-4a04ohow.online-metrix.net
@@ -295,6 +296,7 @@
     * h-buyfun.online-metrix.net
     * h-bw1fkozp.online-metrix.net
     * h-bw1uup65.online-metrix.net
+    * h-c3ar8i1r.online-metrix.net
     * h-c3xmpcvr.online-metrix.net
     * h-c70ghtsb.online-metrix.net
     * h-c7f45hl1-ao.online-metrix.net
@@ -853,6 +855,7 @@
 | prod-interracu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-jaxfcufl.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-jfcudc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-keypoint.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lafcuca.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-latino.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lfcuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -942,6 +945,7 @@
 | shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
 | diff3.orange.es | h-40347ghm.online-metrix.net |
 | diff3.jazztel.com | h-40347ghm2.online-metrix.net |
+| services-tmx.cofidis.cz | h-460nu0c9.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
 | content002.bet365.bet.br | h-47z24dz9.online-metrix.net |
 | content002.bet365.ca | h-47z24dz9.online-metrix.net |
@@ -1344,6 +1348,7 @@
 | securecheckout.halloweencostumes.com | h-buyfun.online-metrix.net |
 | tmxjs.tokyodisneyresort.jp | h-bw1fkozp.online-metrix.net |
 | content-48.cnb.com | h-bw1uup65.online-metrix.net |
+| consortium.adib.ae | h-c3ar8i1r.online-metrix.net |
 | content.koalafi.com | h-c3xmpcvr.online-metrix.net |
 | lndata.labor.maryland.gov | h-c70ghtsb.online-metrix.net |
 | lndata.labor.md.gov | h-c70ghtsb.online-metrix.net |
@@ -1836,6 +1841,7 @@
 | ts04358.picpay.com | h-picpay.online-metrix.net |
 | backend.pin-up.dev | h-pinup.online-metrix.net |
 | ucfs.sendpro360.pitneybowes.com | h-pitneybowes.online-metrix.net |
+| ucfs.sendpro360.pitneycloud.com | h-pitneybowes.online-metrix.net |
 | content.pnbank.com.au | h-pnbank.online-metrix.net |
 | rbawis.pocketcard.co.jp | h-pocketcard.online-metrix.net |
 | meiodepagamento.campanhaporto.com.br | h-portoseguro.online-metrix.net |

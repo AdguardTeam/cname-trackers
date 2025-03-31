@@ -292,6 +292,7 @@
 ||web.email.umbro.co.uk^
 ||web.enews.lenotre.fr^
 ||web.engagetest.swaindestinations.com^
+||web.hello.petspyjamas.com^
 ||web.ideaautorepair.com^
 ||web.info.aiteca.it^
 ||web.info.bodybuildingwarehouse.co.uk^
@@ -371,7 +372,6 @@
 ||web.slimjoy.es^
 ||web.slimjoy.it^
 ||web.slimjoy.org^
-||web.slimjoy.se^
 ||web.slimjoy.sk^
 ||web.tamaris.com^
 ||web.tummy-tox.com^

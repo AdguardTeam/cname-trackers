@@ -86,6 +86,7 @@
 ||utiq.diariosur.es^
 ||utiq.diariovasco.com^
 ||utiq.directoalpaladar.com^
+||utiq.diverto.tv^
 ||utiq.donaukurier.de^
 ||utiq.duden.de^
 ||utiq.easyvoyage.com^
@@ -199,6 +200,7 @@
 ||utiq.lunion.fr^
 ||utiq.madmoizelle.com^
 ||utiq.maennerseite.net^
+||utiq.mahou.es^
 ||utiq.maison-travaux.fr^
 ||utiq.mallorcazeitung.es^
 ||utiq.mappy.com^
@@ -241,6 +243,7 @@
 ||utiq.petbook-magazine.com^
 ||utiq.petbook.de^
 ||utiq.petitbleu.fr^
+||utiq.petitfute.com^
 ||utiq.pleinevie.fr^
 ||utiq.pnp.de^
 ||utiq.poprosa.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -157,6 +157,7 @@ cdn.zivtux.com CNAME .
 cdn.zkcvb.com CNAME .
 cdn.zxclan.com CNAME .
 1.bunkr-cache.se CNAME .
+39grbc.jackbarber.co.uk CNAME .
 4ke5b4ila.codedge.de CNAME .
 7wrxo2xh.iriscreative.co CNAME .
 8inhjmd.usefathom.com CNAME .
@@ -322,7 +323,6 @@ cat.laravel-news.com CNAME .
 cat.mattr.global CNAME .
 cat.sprucely.net CNAME .
 cat.thisminute.app CNAME .
-caterpilla.ibon.live CNAME .
 catfish.phuclh.com CNAME .
 catfish.pressure.cooking CNAME .
 catfish.sofatido.ch CNAME .
@@ -336,6 +336,7 @@ cattle.eprc.tools CNAME .
 cattle.herojob.de CNAME .
 cattle.kirkebaekke.dk CNAME .
 cattle.kumo.at CNAME .
+cattle.marius.money CNAME .
 cattle.mes-renovateurs.com CNAME .
 cattle.musikschule-bregenzerwald.at CNAME .
 cattle.spiral11.com CNAME .
@@ -487,7 +488,6 @@ fish.trampoline.cx CNAME .
 fish.whitney.org CNAME .
 fjikgr.dennmart.com CNAME .
 flamingo.abihome.de CNAME .
-flamingo.apatonsrompus.com CNAME .
 flamingo.podcast.taxi CNAME .
 flamingo.stacking-club.com CNAME .
 flea.elbertsnaturalfoods.com CNAME .
@@ -559,7 +559,6 @@ hamster.consentkit.io CNAME .
 hamster.darstellendekuenste.de CNAME .
 hare.felix-schmid.de CNAME .
 hare.startupbootcamp.com.au CNAME .
-harrier.jasonsantamaria.com CNAME .
 harrier.progress.fyi CNAME .
 harrier.scdamerica.com.au CNAME .
 hawk.makroskop.eu CNAME .
@@ -656,7 +655,6 @@ landsnail.garasjeport1.no CNAME .
 landsnail.motin.eu CNAME .
 lark.pollie.dev CNAME .
 leech.fuchsegg.at CNAME .
-leech.privacycloud.com CNAME .
 leech.stargate-project.de CNAME .
 lemming.nicolasmenard.com CNAME .
 lemming.vivian.do CNAME .
@@ -854,6 +852,7 @@ porpoise.kristinholl.com CNAME .
 porpoise.numberzs.com CNAME .
 prairiedog.freemusic.com.au CNAME .
 prairiedog.hashnode.com CNAME .
+prairiedog.health-improvement.uk CNAME .
 prairiedog.thisismattsmith.com CNAME .
 prairiedog.xview.us CNAME .
 prawn.inchperfect.com CNAME .
@@ -952,6 +951,7 @@ skunk.dwa.li CNAME .
 skunk.gameworkersolidarity.com CNAME .
 smelt.allenpike.com CNAME .
 smelt.gautrowski.com CNAME .
+snake.cybmed.com CNAME .
 snipe.mfaber.at CNAME .
 snipe.mizzuu.co CNAME .
 sole.bkosmetik.com CNAME .
@@ -1097,7 +1097,6 @@ wildcat.fspy.io CNAME .
 wildcat.longviewforecasting.com CNAME .
 wildcat.restq.co CNAME .
 wildcat.vivritiamc.com CNAME .
-wildebeest.gmk.today CNAME .
 wildebeest.quarva.dev CNAME .
 wildebeest.soft-spoken.dev CNAME .
 wildebeest.trigo.dev CNAME .
@@ -1200,6 +1199,7 @@ live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
 matomo-cdn-bunny.ramsalt.com CNAME .
 msrvt.net CNAME .
+snowplow-collector.xstaging.tv CNAME .
 sp.freshlooklens.pk CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .

@@ -97,6 +97,7 @@
 | 1.bunkr-cache.se | core-apps.b-cdn.net |
 | bcdn.cpmstar.com | cpmstar.b-cdn.net |
 | live-tag.creatopy.net | creatopy-adtag-production.b-cdn.net |
+| 39grbc.jackbarber.co.uk | deprecated-custom-domains.b-cdn.net |
 | 4ke5b4ila.codedge.de | deprecated-custom-domains.b-cdn.net |
 | 7wrxo2xh.iriscreative.co | deprecated-custom-domains.b-cdn.net |
 | 8inhjmd.usefathom.com | deprecated-custom-domains.b-cdn.net |
@@ -262,7 +263,6 @@
 | cat.mattr.global | deprecated-custom-domains.b-cdn.net |
 | cat.sprucely.net | deprecated-custom-domains.b-cdn.net |
 | cat.thisminute.app | deprecated-custom-domains.b-cdn.net |
-| caterpilla.ibon.live | deprecated-custom-domains.b-cdn.net |
 | catfish.phuclh.com | deprecated-custom-domains.b-cdn.net |
 | catfish.pressure.cooking | deprecated-custom-domains.b-cdn.net |
 | catfish.sofatido.ch | deprecated-custom-domains.b-cdn.net |
@@ -276,6 +276,7 @@
 | cattle.herojob.de | deprecated-custom-domains.b-cdn.net |
 | cattle.kirkebaekke.dk | deprecated-custom-domains.b-cdn.net |
 | cattle.kumo.at | deprecated-custom-domains.b-cdn.net |
+| cattle.marius.money | deprecated-custom-domains.b-cdn.net |
 | cattle.mes-renovateurs.com | deprecated-custom-domains.b-cdn.net |
 | cattle.musikschule-bregenzerwald.at | deprecated-custom-domains.b-cdn.net |
 | cattle.spiral11.com | deprecated-custom-domains.b-cdn.net |
@@ -427,7 +428,6 @@
 | fish.whitney.org | deprecated-custom-domains.b-cdn.net |
 | fjikgr.dennmart.com | deprecated-custom-domains.b-cdn.net |
 | flamingo.abihome.de | deprecated-custom-domains.b-cdn.net |
-| flamingo.apatonsrompus.com | deprecated-custom-domains.b-cdn.net |
 | flamingo.podcast.taxi | deprecated-custom-domains.b-cdn.net |
 | flamingo.stacking-club.com | deprecated-custom-domains.b-cdn.net |
 | flea.elbertsnaturalfoods.com | deprecated-custom-domains.b-cdn.net |
@@ -499,7 +499,6 @@
 | hamster.darstellendekuenste.de | deprecated-custom-domains.b-cdn.net |
 | hare.felix-schmid.de | deprecated-custom-domains.b-cdn.net |
 | hare.startupbootcamp.com.au | deprecated-custom-domains.b-cdn.net |
-| harrier.jasonsantamaria.com | deprecated-custom-domains.b-cdn.net |
 | harrier.progress.fyi | deprecated-custom-domains.b-cdn.net |
 | harrier.scdamerica.com.au | deprecated-custom-domains.b-cdn.net |
 | hawk.makroskop.eu | deprecated-custom-domains.b-cdn.net |
@@ -596,7 +595,6 @@
 | landsnail.motin.eu | deprecated-custom-domains.b-cdn.net |
 | lark.pollie.dev | deprecated-custom-domains.b-cdn.net |
 | leech.fuchsegg.at | deprecated-custom-domains.b-cdn.net |
-| leech.privacycloud.com | deprecated-custom-domains.b-cdn.net |
 | leech.stargate-project.de | deprecated-custom-domains.b-cdn.net |
 | lemming.nicolasmenard.com | deprecated-custom-domains.b-cdn.net |
 | lemming.vivian.do | deprecated-custom-domains.b-cdn.net |
@@ -794,6 +792,7 @@
 | porpoise.numberzs.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.freemusic.com.au | deprecated-custom-domains.b-cdn.net |
 | prairiedog.hashnode.com | deprecated-custom-domains.b-cdn.net |
+| prairiedog.health-improvement.uk | deprecated-custom-domains.b-cdn.net |
 | prairiedog.thisismattsmith.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.xview.us | deprecated-custom-domains.b-cdn.net |
 | prawn.inchperfect.com | deprecated-custom-domains.b-cdn.net |
@@ -892,6 +891,7 @@
 | skunk.gameworkersolidarity.com | deprecated-custom-domains.b-cdn.net |
 | smelt.allenpike.com | deprecated-custom-domains.b-cdn.net |
 | smelt.gautrowski.com | deprecated-custom-domains.b-cdn.net |
+| snake.cybmed.com | deprecated-custom-domains.b-cdn.net |
 | snipe.mfaber.at | deprecated-custom-domains.b-cdn.net |
 | snipe.mizzuu.co | deprecated-custom-domains.b-cdn.net |
 | sole.bkosmetik.com | deprecated-custom-domains.b-cdn.net |
@@ -1037,7 +1037,6 @@
 | wildcat.longviewforecasting.com | deprecated-custom-domains.b-cdn.net |
 | wildcat.restq.co | deprecated-custom-domains.b-cdn.net |
 | wildcat.vivritiamc.com | deprecated-custom-domains.b-cdn.net |
-| wildebeest.gmk.today | deprecated-custom-domains.b-cdn.net |
 | wildebeest.quarva.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.soft-spoken.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
@@ -1209,6 +1208,7 @@
 | cdn.shrtfly.vip | popupads.b-cdn.net |
 | cdn-b.notsy.io | prebid.b-cdn.net |
 | dntcl.qualaroo.com | qualdnt.b-cdn.net |
+| snowplow-collector.xstaging.tv | snowplow-collector.b-cdn.net |
 | sp.freshlooklens.pk | spixel.b-cdn.net |
 | sp.lenspk.com | spixel.b-cdn.net |
 | sp.theladyshop.pk | spixel.b-cdn.net |

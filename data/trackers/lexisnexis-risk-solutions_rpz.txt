@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -239,6 +239,7 @@ cnt.patpat.com CNAME .
 compliance.mohegansuncasino.com CNAME .
 compliance.resortscasino.com CNAME .
 condition.applause.com CNAME .
+consortium.adib.ae CNAME .
 contendvc.cnouyi.pizza CNAME .
 content-48.cnb.com CNAME .
 content-static.emiratesnbd.com CNAME .
@@ -791,6 +792,7 @@ prod-humantx.chaperone.lumindigitalhosting.com CNAME .
 prod-interracu.chaperone.lumindigitalhosting.com CNAME .
 prod-jaxfcufl.chaperone.lumindigitalhosting.com CNAME .
 prod-jfcudc.chaperone.lumindigitalhosting.com CNAME .
+prod-keypoint.chaperone.lumindigitalhosting.com CNAME .
 prod-lafcuca.chaperone.lumindigitalhosting.com CNAME .
 prod-latino.chaperone.lumindigitalhosting.com CNAME .
 prod-lfcuva.chaperone.lumindigitalhosting.com CNAME .
@@ -930,6 +932,7 @@ secure3.segpay.com CNAME .
 securecheckout.halloweencostumes.com CNAME .
 secured.netflix.com CNAME .
 service.riverscontent.com CNAME .
+services-tmx.cofidis.cz CNAME .
 servicesdp.luckydays.ca CNAME .
 servicesdp.spinaway.ca CNAME .
 sess.vippreferred.com CNAME .
@@ -1192,6 +1195,7 @@ uafms.ocbc.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
 uatidentity4.citidirect.com CNAME .
 ucfs.sendpro360.pitneybowes.com CNAME .
+ucfs.sendpro360.pitneycloud.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .

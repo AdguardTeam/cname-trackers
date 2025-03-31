@@ -156,6 +156,7 @@
     * 752542050590835.wt-eu02.net
     * 752828619977374.wt-eu02.net
     * 757421535252818.wt-eu02.net
+    * 759654606550505.wt-eu02.net
     * 761489887718050.wt-eu02.net
     * 769396664005295.wt-eu02.net
     * 770833460572104.wt-eu02.net
@@ -404,7 +405,6 @@
 | web.slimjoy.es | 657801072187647.wt-eu02.net |
 | web.slimjoy.it | 657801072187647.wt-eu02.net |
 | web.slimjoy.org | 657801072187647.wt-eu02.net |
-| web.slimjoy.se | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | web.mapp.edenred.it | 667035493029158.wt-eu02.net |
@@ -429,6 +429,7 @@
 | wt.generalihealthsolutions.de | 752542050590835.wt-eu02.net |
 | wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
 | web.sidsavage.com | 757421535252818.wt-eu02.net |
+| web.hello.petspyjamas.com | 759654606550505.wt-eu02.net |
 | web.update.sandiego.org | 761489887718050.wt-eu02.net |
 | t.mediaset.it | 769396664005295.wt-eu02.net |
 | w.m.nkl-peters.de | 770833460572104.wt-eu02.net |

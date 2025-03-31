@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -303,6 +303,7 @@ web.email.turtlebay.co.uk CNAME .
 web.email.umbro.co.uk CNAME .
 web.enews.lenotre.fr CNAME .
 web.engagetest.swaindestinations.com CNAME .
+web.hello.petspyjamas.com CNAME .
 web.ideaautorepair.com CNAME .
 web.info.aiteca.it CNAME .
 web.info.bodybuildingwarehouse.co.uk CNAME .
@@ -382,7 +383,6 @@ web.slimjoy.dk CNAME .
 web.slimjoy.es CNAME .
 web.slimjoy.it CNAME .
 web.slimjoy.org CNAME .
-web.slimjoy.se CNAME .
 web.slimjoy.sk CNAME .
 web.tamaris.com CNAME .
 web.tummy-tox.com CNAME .

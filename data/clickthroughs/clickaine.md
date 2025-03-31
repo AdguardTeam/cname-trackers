@@ -37,6 +37,7 @@
 | c4n.hotjavmovies.com | api.clickaine.com |
 | c4n.mypornovideos.com | api.clickaine.com |
 | c4n.myteentgp.com | api.clickaine.com |
+| c4n.natali9.online | api.clickaine.com |
 | c4n.shudhdesiporn.com | api.clickaine.com |
 | c4n.surfotresors.com | api.clickaine.com |
 | c4n.swift4claim.com | api.clickaine.com |
@@ -100,6 +101,7 @@
 | jpnj.hotpornfile.org | api.clickaine.com |
 | k10.usefto.com | api.clickaine.com |
 | k8.usefto.com | api.clickaine.com |
+| m.brandnewapp.pro | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
 | net.fuckxstream.com | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
@@ -118,7 +120,6 @@
 | snow.snowdayonline.xyz | api.clickaine.com |
 | station54k.brandnewapp.pro | api.clickaine.com |
 | taco.sexreels.net | api.clickaine.com |
-| tcp.topcomicporno.net | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
 | wafe.camcaps.sx | api.clickaine.com |
 | wp.brandnewapp.pro | api.clickaine.com |
@@ -127,7 +128,6 @@
 | www.faq.brandnewapp.pro | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
 | www.station54k.brandnewapp.pro | api.clickaine.com |
-| www.xn--www-hn0a.rtnews.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

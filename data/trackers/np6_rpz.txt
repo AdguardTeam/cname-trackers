@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ tr.actiflip.devisdirect.com CNAME .
 tr.activeprospects.info CNAME .
 tr.actu-companeo.com CNAME .
 tr.actu.bricodepot.com CNAME .
+tr.actu.imaprotect.eu CNAME .
 tr.actu.infopro-digital-media.fr CNAME .
 tr.actu.reunica.com CNAME .
 tr.actu.rmcbfmplay.com CNAME .
@@ -52,6 +53,7 @@ tr.animations.bfmtv.com CNAME .
 tr.animations.rmcbfm.com CNAME .
 tr.apac.coms.moethennessy.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
+tr.asp0.espmp-agfr.net CNAME .
 tr.asp0010.espmp-nifr.net CNAME .
 tr.asp0018.espmp-aufr.net CNAME .
 tr.asp002p.espmp-cufr.net CNAME .
@@ -413,6 +415,7 @@ tr.emailing.studiocanal.com CNAME .
 tr.emailing.tvcaraibes.tv CNAME .
 tr.emailing.uda.fr CNAME .
 tr.emailium.fr CNAME .
+tr.emails-fdj.fr CNAME .
 tr.emc.moethennessy.com CNAME .
 tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -100,6 +100,7 @@ adebis.muscledeli.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
 adebis.o-baby.net CNAME .
+adebis.perfect-space.jp CNAME .
 adebis.pikaichi.co.jp CNAME .
 adebis.qeee.jp CNAME .
 adebis.real-style.co.jp CNAME .
@@ -186,6 +187,7 @@ cnameebis.eizoshigoto.com CNAME .
 cnameebis.usagi-online.com CNAME .
 cnameforitp.dermed.jp CNAME .
 corporate.frontierconsul.net CNAME .
+cs0008sbeda.enzyme-supply.com CNAME .
 cs0008sbeda.moromi-koso-c.com CNAME .
 cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .

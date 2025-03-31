@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -938,7 +938,6 @@ a8cv.ekamo.com CNAME .
 a8cv.emma-sleep-japan.com CNAME .
 a8cv.encounter2017.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
-a8cv.english-cc.com CNAME .
 a8cv.english-village.net CNAME .
 a8cv.entre-salon.com CNAME .
 a8cv.entry.renet.jp CNAME .
@@ -1116,6 +1115,7 @@ a8cv.mentors-lwc.com CNAME .
 a8cv.mhg-webstore.com CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.mitaina.tokyo CNAME .
+a8cv.moana.clinic CNAME .
 a8cv.mobabiji.jp CNAME .
 a8cv.modern-deco.jp CNAME .
 a8cv.modescape.com CNAME .
@@ -1326,7 +1326,6 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
-a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .

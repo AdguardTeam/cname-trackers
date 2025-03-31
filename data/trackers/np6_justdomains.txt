@@ -21,6 +21,7 @@ tr.actiflip.devisdirect.com
 tr.activeprospects.info
 tr.actu-companeo.com
 tr.actu.bricodepot.com
+tr.actu.imaprotect.eu
 tr.actu.infopro-digital-media.fr
 tr.actu.reunica.com
 tr.actu.rmcbfmplay.com
@@ -41,6 +42,7 @@ tr.animations.bfmtv.com
 tr.animations.rmcbfm.com
 tr.apac.coms.moethennessy.com
 tr.apou032.espmp-agfr.net
+tr.asp0.espmp-agfr.net
 tr.asp0010.espmp-nifr.net
 tr.asp0018.espmp-aufr.net
 tr.asp002p.espmp-cufr.net
@@ -402,6 +404,7 @@ tr.emailing.studiocanal.com
 tr.emailing.tvcaraibes.tv
 tr.emailing.uda.fr
 tr.emailium.fr
+tr.emails-fdj.fr
 tr.emc.moethennessy.com
 tr.enedis-infos.fr
 tr.enews.customsolutions.fr

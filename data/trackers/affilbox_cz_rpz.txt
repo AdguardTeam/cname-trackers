@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -318,6 +318,7 @@ dbsaysnba4ygmwav.algomoneo.com CNAME .
 dekovacka.stickersmakers.cz CNAME .
 devaff.bitcoinzmenaren.sk CNAME .
 doporuc.hopsej.cz CNAME .
+doporuc.kingray.sk CNAME .
 doporuc.konferenceryba.cz CNAME .
 doporuc.mechaneo.cz CNAME .
 doporuc.necojakocola.cz CNAME .
@@ -666,6 +667,7 @@ partner.misinacokolada.cz CNAME .
 partner.mojeluha.cz CNAME .
 partner.momcare.cz CNAME .
 partner.momcare.sk CNAME .
+partner.momenti.cz CNAME .
 partner.montessorihracky.cz CNAME .
 partner.mooda.cz CNAME .
 partner.mooselife.cz CNAME .
@@ -761,12 +763,14 @@ partner.svetcukraru.cz CNAME .
 partner.svetruzi.cz CNAME .
 partner.swaglift.com CNAME .
 partner.sypanycaj.eu CNAME .
+partner.t-shock.eu CNAME .
 partner.tahnabranu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.thelisteningworld.com CNAME .
 partner.top-obaly.cz CNAME .
 partner.tozax.cz CNAME .
 partner.tozax.sk CNAME .
+partner.tradewyx.com CNAME .
 partner.tyano.cz CNAME .
 partner.umio.eu CNAME .
 partner.unuo.de CNAME .
@@ -829,7 +833,6 @@ partneri.ecstatic.cz CNAME .
 partneri.edibles.eu CNAME .
 partneri.eduway.cz CNAME .
 partneri.epiderma.cz CNAME .
-partneri.eshop.hankamokra.cz CNAME .
 partneri.eshop.jarkamatuskova.cz CNAME .
 partneri.espressoenglish.cz CNAME .
 partneri.evolveo.com CNAME .
@@ -945,7 +948,6 @@ partneri.zdravykram.cz CNAME .
 partneri.zhubnichytre.cz CNAME .
 partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
-partners.duckferries.com CNAME .
 partners.elitecoaching.cz CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .

@@ -5,6 +5,7 @@
   "analytics.bytewave.net": "bwc.goatcounter.com",
   "analytics.code.dccouncil.gov": "code_dccouncil_gov.goatcounter.com",
   "analytics.code.dccouncil.us": "code_dccouncil_us.goatcounter.com",
+  "analytics.codes.baltimorecity.gov": "codes-baltimorecity-gov.goatcounter.com",
   "analytics.demo.plateau.ng.open.law": "demo-plateau-ng-open-law.goatcounter.com",
   "analytics.ewpratten.com": "ewpratten.goatcounter.com",
   "analytics.ferrybig.me": "ferrybig.goatcounter.com",
@@ -37,7 +38,6 @@
   "gc.tbx.at": "tbx.goatcounter.com",
   "github.gpuzelenograd.cloudns.be": "gpuzelenograd-github.goatcounter.com",
   "go.d8a.org": "d8a.goatcounter.com",
-  "goat.belak.io": "belak.goatcounter.com",
   "goat.dabric.xyz": "ooo.goatcounter.com",
   "goat.dheinemann.com": "dheinemann.goatcounter.com",
   "goat.gavv.in": "gavin.goatcounter.com",
@@ -125,6 +125,7 @@
   "stats.sofianlak.fr": "sofianlak.goatcounter.com",
   "stats.svc.lol": "localhosed.goatcounter.com",
   "stats.tdurand.com": "tdurand.goatcounter.com",
+  "stats.timothechau.vet": "timothechauvet.goatcounter.com",
   "stats.trainsley69.me": "trainsley69.goatcounter.com",
   "stats.umcconnell.net": "umcconnell.goatcounter.com",
   "stats.w0chp.radio": "w0chp.goatcounter.com",
@@ -132,11 +133,11 @@
   "stats.wswg.xyz": "wswg.goatcounter.com",
   "stats.ybbond.id": "ybbond.goatcounter.com",
   "stats.zgo.at": "zgoat.goatcounter.com",
-  "stats.zlinux.ru": "mine.goatcounter.com",
   "trackerstats.davidthe.dev": "dailies.goatcounter.com",
   "varz.mcyoung.xyz": "mcy.goatcounter.com",
   "vault-stats.sladewatkins.net": "vault.goatcounter.com",
   "visit.argfuscator.net": "argfuscator.goatcounter.com",
   "visit.hijacklibs.net": "hijacklibs.goatcounter.com",
-  "webstats.maik.dev": "maik-dev.goatcounter.com"
+  "webstats.maik.dev": "maik-dev.goatcounter.com",
+  "www.stats.spflow.com": "koltyakov.goatcounter.com"
 }

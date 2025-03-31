@@ -77,6 +77,8 @@ data-080d03ce0d.technikundeinkauf.de
 data-080db1a14d.stadtbibliothek-jena.de
 data-0827b0d9ef.dailydose.de
 data-0827b0d9ef.windsurfen-lernen.de
+data-0898a580fd.immo-schaumburg.de
+data-08ab9d2892.fupa.net
 data-08d52e2a42.handelsblatt.com
 data-08ef81a003.sbz-online.de
 data-0931aaf80f.apps.iocnt.de
@@ -101,6 +103,7 @@ data-0d202e2d69.tirolerin.at
 data-0d5230f0d5.tvmovie.de
 data-0d9eff53aa.kuhn-fachmedien.de
 data-0dc128409f.watchtime.net
+data-0de2e36f03.nitro-tv.de
 data-0e160b5dfc.apps.iocnt.de
 data-0e1ca78ad4.rw-textilservice.de
 data-0e6bbb5192.lmscloud.net
@@ -453,6 +456,7 @@ data-3bf5bac5c5.addradio.de
 data-3bf5bac5c5.radiohochstift.de
 data-3c53a472e7.dieoberoesterreicherin.at
 data-3c5dd2a388.zuhausewohnen.de
+data-3c672b4f0d.rtlplus.de
 data-3c91d46d9d.smarterworld.de
 data-3c91d46d9d.weka-fachmedien.de
 data-3ca7289259.rtlradio.de
@@ -523,6 +527,7 @@ data-45b14edd52.boote-magazin.de
 data-45ccb8748c.bestcheck.de
 data-45ccb8748c.chip.de
 data-45ccb8748c.focus.de
+data-45d218b384.wochenblatt-verlagsgruppe.de
 data-45d218b384.wochenblatt.de
 data-460b866870.schoener-wohnen.de
 data-46257b066b.apps.iocnt.de
@@ -635,6 +640,7 @@ data-493270df85.laendle24.de
 data-494b3b236f.goslarsche.de
 data-497ecca600.erft-kurier.de
 data-497ecca600.fupa.net
+data-497ecca600.ga-story.de
 data-497ecca600.ga.de
 data-497ecca600.moneyspecial.de
 data-497ecca600.rp-online.de
@@ -1035,6 +1041,7 @@ data-7393daff1b.focus-mobility.de
 data-73b18cc776.radioherford.de
 data-73b18cc776.radioherfordhilft.de
 data-73e5a82398.plasticker.de
+data-73e5a82398.recybase.de
 data-73e5a82398.requipment.de
 data-74131617db.achgut.com
 data-7462ea72ec.augsburger-allgemeine.de
@@ -1088,6 +1095,7 @@ data-7e2df9796b.marktundmittelstand.de
 data-7e3ab64dc5.brandeins.de
 data-7e48679b06.fleischerei.de
 data-7e634b10b2.prosieben.de
+data-7e634b10b2.the-voice-of-germany.de
 data-7e70b89caf.geb-info.de
 data-7f59e1721b.bergsteiger.de
 data-7f59e1721b.bergwetter.de
@@ -1189,6 +1197,7 @@ data-8862d19d68.vorsprung-online.de
 data-88ba07a559.motor1.com
 data-89254d05a3.alpin.de
 data-8a0e70a411.car4you.at
+data-8a13e13409.werkstatt-betrieb.de
 data-8a2b04c9fa.naturheilpraxis.de
 data-8a4d99ad09.sat1.at
 data-8a60c76189.myhomebook.de
@@ -1428,9 +1437,11 @@ data-a0f0ae1310.gelbeseiten.de
 data-a0f0ae1310.goyellow.de
 data-a113f4b41d.trucker.de
 data-a114e51991.ikz.de
+data-a119898f35.kaufda.de
 data-a1937ab7ea.materialfluss.de
 data-a195367ecc.apps.iocnt.de
 data-a1aa7525b0.rw-textilservice.de
+data-a1ce08382f.sat1gold.de
 data-a1d02ca68b.diekaelte.de
 data-a21143b1fe.apps.iocnt.de
 data-a2557095eb.wilhelmshaven.de
@@ -1521,6 +1532,7 @@ data-ac3d45df06.jetzt.de
 data-ac3d45df06.sueddeutsche.de
 data-ac53158cce.apps.iocnt.de
 data-ac54d3e2fa.boersenblatt.net
+data-ace3993871.gambelino.de
 data-ace571875f.das-onlinespiel.de
 data-ace571875f.petra.de
 data-ad103030ce.apps.iocnt.de
@@ -1655,6 +1667,7 @@ data-bb21a2f11b.travelbook-magazine.com
 data-bb21a2f11b.travelbook.de
 data-bb4ada6163.travelbook.de
 data-bc153aec3e.radioguetersloh.de
+data-bc153aec3e.radiogueterslohhilft.de
 data-bc16fafbba.stadtbibliothek-reutlingen.de
 data-bc52ee58ca.meinprospekt.de
 data-bc58d40c93.nwzonline.de
@@ -1765,6 +1778,7 @@ data-c63b992bb9.pc-magazin.de
 data-c642a98bf9.presseportal.ch
 data-c642a98bf9.presseportal.de
 data-c652705c3e.apps.iocnt.de
+data-c662a60daa.kabeleinsdoku.de
 data-c66a1ae096.chip.de
 data-c66a1ae096.efahrer.com
 data-c66a1ae096.focus.de
@@ -1831,6 +1845,7 @@ data-cf8fd9b799.shk-at-work.de
 data-cf8fd9b799.tga-contentbase.de
 data-cfdfd62451.apps.iocnt.de
 data-cfe819bed5.playboy.de
+data-d01d310c7a.apps.iocnt.de
 data-d03ddf25a3.wissenschaft.de
 data-d0a45359d6.apps.iocnt.de
 data-d0d624845f.hcm-magazin.de
@@ -1918,6 +1933,7 @@ data-db9f015784.pc-magazin.de
 data-dbeb5d461a.fnweb.de
 data-dc11b32774.apps.iocnt.de
 data-dc874fa9ed.koeln.de
+data-dd2f77abdf.apps.iocnt.de
 data-dd659348c3.bgl-anzeigenpost.de
 data-dd659348c3.heimatsport.de
 data-dd659348c3.heimatzeitung.de
@@ -1993,6 +2009,7 @@ data-e807969afb.scinexx.de
 data-e81f9554e5.willhaben.at
 data-e89b4fd803.apps.iocnt.de
 data-e89c765eef.main-echo.de
+data-e8be051976.apps.iocnt.de
 data-e906bea99c.apps.iocnt.de
 data-e91e634815.security-insider.de
 data-e9439b5f81.bbv-net.de

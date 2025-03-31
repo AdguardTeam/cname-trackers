@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,7 +12,6 @@ $TTL 300
 @    IN   NS    localhost.
 
 a-api.skz.dev CNAME .
-a.conhecercuritiba.com CNAME .
 a.linkz.ai CNAME .
 aloha.getoperand.com CNAME .
 also.greatsecuritydebate.net CNAME .
@@ -137,7 +136,6 @@ p.wren.co CNAME .
 p.www.viertaxa.com CNAME .
 pa-stats.encore.dev CNAME .
 pa.opqr.co CNAME .
-pine.nervecentral.com CNAME .
 ping.naturadapt.com CNAME .
 ping.resoluteoil.com CNAME .
 pl-web-stats-icy7xvjbpxsxf8gwwz5c.theochu.com CNAME .
@@ -228,7 +226,6 @@ plausible.nickmazuk.com CNAME .
 plausible.nmyvsn.net CNAME .
 plausible.nuqu.org CNAME .
 plausible.plausible.tangodelta.media CNAME .
-plausible.prufit.co CNAME .
 plausible.pumpkint.com CNAME .
 plausible.quantumcomputingexplained.com CNAME .
 plausible.quo.wtf CNAME .
@@ -306,6 +303,7 @@ see.wasteorshare.com CNAME .
 server.japanbyrivercruise.com CNAME .
 server.officeclowns.live CNAME .
 server.olliehorn.com CNAME .
+server.olliehorncooks.com CNAME .
 site-stats.supernotes.app CNAME .
 sp.ballsdigroup.com CNAME .
 sp.gameomatic.fr CNAME .
@@ -775,6 +773,7 @@ stats.shawnyeager.com CNAME .
 stats.shepherd.com CNAME .
 stats.shh.io CNAME .
 stats.shiftx.com CNAME .
+stats.shobokshy.com CNAME .
 stats.simplinetworks.com CNAME .
 stats.sirdata.com CNAME .
 stats.sixseven.at CNAME .

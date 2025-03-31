@@ -1,7 +1,6 @@
 !
 ! Company name: Plausible Analytics
 ||a-api.skz.dev^
-||a.conhecercuritiba.com^
 ||a.linkz.ai^
 ||aloha.getoperand.com^
 ||also.greatsecuritydebate.net^
@@ -126,7 +125,6 @@
 ||p.www.viertaxa.com^
 ||pa-stats.encore.dev^
 ||pa.opqr.co^
-||pine.nervecentral.com^
 ||ping.naturadapt.com^
 ||ping.resoluteoil.com^
 ||pl-web-stats-icy7xvjbpxsxf8gwwz5c.theochu.com^
@@ -217,7 +215,6 @@
 ||plausible.nmyvsn.net^
 ||plausible.nuqu.org^
 ||plausible.plausible.tangodelta.media^
-||plausible.prufit.co^
 ||plausible.pumpkint.com^
 ||plausible.quantumcomputingexplained.com^
 ||plausible.quo.wtf^
@@ -295,6 +292,7 @@
 ||server.japanbyrivercruise.com^
 ||server.officeclowns.live^
 ||server.olliehorn.com^
+||server.olliehorncooks.com^
 ||site-stats.supernotes.app^
 ||sp.ballsdigroup.com^
 ||sp.gameomatic.fr^
@@ -764,6 +762,7 @@
 ||stats.shepherd.com^
 ||stats.shh.io^
 ||stats.shiftx.com^
+||stats.shobokshy.com^
 ||stats.simplinetworks.com^
 ||stats.sirdata.com^
 ||stats.sixseven.at^

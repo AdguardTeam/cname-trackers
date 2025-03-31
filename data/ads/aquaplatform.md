@@ -51,6 +51,7 @@
     * geenstijl-delivery.aquaplatform.com
     * geenstijl-static.aquaplatform.com
     * geodelivery.aquaplatform.com
+    * goldseek-console.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
     * goldseek-static.aquaplatform.com
     * hcs-console.aquaplatform.com
@@ -178,6 +179,7 @@
 | console.channelvas.com | channelvas-console.aquaplatform.com |
 | servedby.channelvas.com | channelvas-delivery.aquaplatform.com |
 | adconsole.kozoom.com | console.aquaplatform.com |
+| api.aqua-adserver.com | console.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
@@ -212,6 +214,7 @@
 | servedby.quirks.com | geodelivery.aquaplatform.com |
 | servedby.walaplusadserver.com | geodelivery.aquaplatform.com |
 | www.servedby.quirks.com | geodelivery.aquaplatform.com |
+| console.goldseek.com | goldseek-console.aquaplatform.com |
 | advertising.goldseek.com | goldseek-delivery.aquaplatform.com |
 | creatives.goldseek.com | goldseek-static.aquaplatform.com |
 | images.goldseek.com | goldseek-static.aquaplatform.com |
@@ -245,6 +248,7 @@
 | banners.leightonbroadcasting.com | lb-delivery.aquaplatform.com |
 | cdn.leightonbroadcasting.com | lb-static.aquaplatform.com |
 | console.livingmagonline.com | livingmag-console.aquaplatform.com |
+| www.console.livingmagonline.com | livingmag-console.aquaplatform.com |
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | www.static.livingmagonline.com | livingmag-static.aquaplatform.com |
@@ -278,6 +282,7 @@
 | www.static.everythingnevada.com | oneboat-static.aquaplatform.com |
 | www.static.imagineobx.com | oneboat-static.aquaplatform.com |
 | console.adspmg.com | pamplin-console.aquaplatform.com |
+| www.console.adspmg.com | pamplin-console.aquaplatform.com |
 | cdn.adspmg.com | pamplin-static.aquaplatform.com |
 | www.cdn.adspmg.com | pamplin-static.aquaplatform.com |
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |

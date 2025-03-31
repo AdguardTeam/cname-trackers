@@ -328,6 +328,7 @@
 | dekovacka.stickersmakers.cz | cz.affilbox.cz |
 | devaff.bitcoinzmenaren.sk | cz.affilbox.cz |
 | doporuc.hopsej.cz | cz.affilbox.cz |
+| doporuc.kingray.sk | cz.affilbox.cz |
 | doporuc.konferenceryba.cz | cz.affilbox.cz |
 | doporuc.mechaneo.cz | cz.affilbox.cz |
 | doporuc.necojakocola.cz | cz.affilbox.cz |
@@ -676,6 +677,7 @@
 | partner.mojeluha.cz | cz.affilbox.cz |
 | partner.momcare.cz | cz.affilbox.cz |
 | partner.momcare.sk | cz.affilbox.cz |
+| partner.momenti.cz | cz.affilbox.cz |
 | partner.montessorihracky.cz | cz.affilbox.cz |
 | partner.mooda.cz | cz.affilbox.cz |
 | partner.mooselife.cz | cz.affilbox.cz |
@@ -771,12 +773,14 @@
 | partner.svetruzi.cz | cz.affilbox.cz |
 | partner.swaglift.com | cz.affilbox.cz |
 | partner.sypanycaj.eu | cz.affilbox.cz |
+| partner.t-shock.eu | cz.affilbox.cz |
 | partner.tahnabranu.cz | cz.affilbox.cz |
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.thelisteningworld.com | cz.affilbox.cz |
 | partner.top-obaly.cz | cz.affilbox.cz |
 | partner.tozax.cz | cz.affilbox.cz |
 | partner.tozax.sk | cz.affilbox.cz |
+| partner.tradewyx.com | cz.affilbox.cz |
 | partner.tyano.cz | cz.affilbox.cz |
 | partner.umio.eu | cz.affilbox.cz |
 | partner.unuo.de | cz.affilbox.cz |
@@ -839,7 +843,6 @@
 | partneri.edibles.eu | cz.affilbox.cz |
 | partneri.eduway.cz | cz.affilbox.cz |
 | partneri.epiderma.cz | cz.affilbox.cz |
-| partneri.eshop.hankamokra.cz | cz.affilbox.cz |
 | partneri.eshop.jarkamatuskova.cz | cz.affilbox.cz |
 | partneri.espressoenglish.cz | cz.affilbox.cz |
 | partneri.evolveo.com | cz.affilbox.cz |
@@ -955,7 +958,6 @@
 | partneri.zhubnichytre.cz | cz.affilbox.cz |
 | partners.almaf.cz | cz.affilbox.cz |
 | partners.bonyacademy.com | cz.affilbox.cz |
-| partners.duckferries.com | cz.affilbox.cz |
 | partners.elitecoaching.cz | cz.affilbox.cz |
 | partners.pocitarna.cz | cz.affilbox.cz |
 | partners.puravidashop.cz | cz.affilbox.cz |

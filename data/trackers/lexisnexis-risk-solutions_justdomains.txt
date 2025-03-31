@@ -228,6 +228,7 @@ cnt.patpat.com
 compliance.mohegansuncasino.com
 compliance.resortscasino.com
 condition.applause.com
+consortium.adib.ae
 contendvc.cnouyi.pizza
 content-48.cnb.com
 content-static.emiratesnbd.com
@@ -780,6 +781,7 @@ prod-humantx.chaperone.lumindigitalhosting.com
 prod-interracu.chaperone.lumindigitalhosting.com
 prod-jaxfcufl.chaperone.lumindigitalhosting.com
 prod-jfcudc.chaperone.lumindigitalhosting.com
+prod-keypoint.chaperone.lumindigitalhosting.com
 prod-lafcuca.chaperone.lumindigitalhosting.com
 prod-latino.chaperone.lumindigitalhosting.com
 prod-lfcuva.chaperone.lumindigitalhosting.com
@@ -919,6 +921,7 @@ secure3.segpay.com
 securecheckout.halloweencostumes.com
 secured.netflix.com
 service.riverscontent.com
+services-tmx.cofidis.cz
 servicesdp.luckydays.ca
 servicesdp.spinaway.ca
 sess.vippreferred.com
@@ -1181,6 +1184,7 @@ uafms.ocbc.com
 uat.cmprofile.cards.citidirect.com
 uatidentity4.citidirect.com
 ucfs.sendpro360.pitneybowes.com
+ucfs.sendpro360.pitneycloud.com
 ufp.intuit.com
 uldfp.srilankan.com
 umst.mobile.de

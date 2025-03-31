@@ -927,7 +927,6 @@
 ||a8cv.emma-sleep-japan.com^
 ||a8cv.encounter2017.jp^
 ||a8cv.english-bootcamp.com^
-||a8cv.english-cc.com^
 ||a8cv.english-village.net^
 ||a8cv.entre-salon.com^
 ||a8cv.entry.renet.jp^
@@ -1105,6 +1104,7 @@
 ||a8cv.mhg-webstore.com^
 ||a8cv.minana-jp.com^
 ||a8cv.mitaina.tokyo^
+||a8cv.moana.clinic^
 ||a8cv.mobabiji.jp^
 ||a8cv.modern-deco.jp^
 ||a8cv.modescape.com^
@@ -1315,7 +1315,6 @@
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.wellcrew.net^
-||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.willfu.jp^

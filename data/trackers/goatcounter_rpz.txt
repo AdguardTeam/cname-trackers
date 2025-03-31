@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ analytics.astuto.io CNAME .
 analytics.bytewave.net CNAME .
 analytics.code.dccouncil.gov CNAME .
 analytics.code.dccouncil.us CNAME .
+analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
 analytics.ewpratten.com CNAME .
 analytics.ferrybig.me CNAME .
@@ -49,7 +50,6 @@ gc.securitydungeon.sk CNAME .
 gc.tbx.at CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
 go.d8a.org CNAME .
-goat.belak.io CNAME .
 goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
 goat.gavv.in CNAME .
@@ -137,6 +137,7 @@ stats.sharukhi.xyz CNAME .
 stats.sofianlak.fr CNAME .
 stats.svc.lol CNAME .
 stats.tdurand.com CNAME .
+stats.timothechau.vet CNAME .
 stats.trainsley69.me CNAME .
 stats.umcconnell.net CNAME .
 stats.w0chp.radio CNAME .
@@ -144,10 +145,10 @@ stats.whatacools.com CNAME .
 stats.wswg.xyz CNAME .
 stats.ybbond.id CNAME .
 stats.zgo.at CNAME .
-stats.zlinux.ru CNAME .
 trackerstats.davidthe.dev CNAME .
 varz.mcyoung.xyz CNAME .
 vault-stats.sladewatkins.net CNAME .
 visit.argfuscator.net CNAME .
 visit.hijacklibs.net CNAME .
 webstats.maik.dev CNAME .
+www.stats.spflow.com CNAME .

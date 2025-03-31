@@ -44,6 +44,7 @@
 ||api.ad.logic-test.viasat.io^
 ||api.ad.logic.viasat.io^
 ||api.adbility-media.com^
+||api.aqua-adserver.com^
 ||api.metrike.com^
 ||assets.lintigroup.se^
 ||banners.cincinnatimagazine.com^
@@ -78,6 +79,7 @@
 ||console.everythingcolorado.com^
 ||console.faithlifeads.com^
 ||console.falconstudios.com^
+||console.goldseek.com^
 ||console.greenspring.com^
 ||console.healthcarescene.com^
 ||console.hour-media.com^
@@ -221,8 +223,10 @@
 ||www.cdn.adspmg.com^
 ||www.cdn.datateam.co.uk^
 ||www.cdn.metrike.com^
+||www.console.adspmg.com^
 ||www.console.ceramicartsnetwork.org^
 ||www.console.healthcarescene.com^
+||www.console.livingmagonline.com^
 ||www.console.pinktriangle.ca^
 ||www.coreads-console.cambridge.org^
 ||www.coreads-static.cambridge.org^

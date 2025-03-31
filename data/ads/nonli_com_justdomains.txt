@@ -76,6 +76,7 @@ l.franceguyane.fr
 l.franceinter.fr
 l.francemusique.fr
 l.frandroid.com
+l.futura-sciences.com
 l.gala.fr
 l.gamekult.com
 l.gamepro.de
@@ -147,6 +148,7 @@ l.ouest-france.fr
 l.ouifm.fr
 l.ozap.com
 l.paris-normandie.fr
+l.paris-turf.com
 l.paroledemamans.com
 l.planet.fr
 l.pleinevie.fr

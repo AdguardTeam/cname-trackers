@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -97,6 +97,7 @@ utiq.diariogol.com CNAME .
 utiq.diariosur.es CNAME .
 utiq.diariovasco.com CNAME .
 utiq.directoalpaladar.com CNAME .
+utiq.diverto.tv CNAME .
 utiq.donaukurier.de CNAME .
 utiq.duden.de CNAME .
 utiq.easyvoyage.com CNAME .
@@ -210,6 +211,7 @@ utiq.lne.es CNAME .
 utiq.lunion.fr CNAME .
 utiq.madmoizelle.com CNAME .
 utiq.maennerseite.net CNAME .
+utiq.mahou.es CNAME .
 utiq.maison-travaux.fr CNAME .
 utiq.mallorcazeitung.es CNAME .
 utiq.mappy.com CNAME .
@@ -252,6 +254,7 @@ utiq.pcgames.de CNAME .
 utiq.petbook-magazine.com CNAME .
 utiq.petbook.de CNAME .
 utiq.petitbleu.fr CNAME .
+utiq.petitfute.com CNAME .
 utiq.pleinevie.fr CNAME .
 utiq.pnp.de CNAME .
 utiq.poprosa.com CNAME .

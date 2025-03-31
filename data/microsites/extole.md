@@ -177,6 +177,7 @@
     * biblejourney.extole.io
     * bjs.extole.io
     * bluehost.extole.io
+    * bluelightcard.extole.io
     * boden-au.extole.io
     * boden-de.extole.io
     * boden-fr.extole.io
@@ -307,7 +308,6 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -436,6 +436,7 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -468,7 +469,6 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -522,6 +522,7 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -594,7 +595,6 @@
     * wombat.extole.io
     * wrangler.extole.io
     * xfinity.extole.io
-    * xfinity.xtl.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
     * zenwork.extole.io
@@ -691,6 +691,7 @@
 | share.biblejourney.com | biblejourney.extole.io |
 | share.bjs.com | bjs.extole.io |
 | referral.bluehost.com | bluehost.extole.io |
+| share.bluelightcard.co.uk | bluelightcard.extole.io |
 | indique.bemmaisseguro.com | bms-br.extole.com |
 | share.au.boden.com | boden-au.extole.io |
 | share.bodenclothing.com.au | boden-au.extole.io |
@@ -939,7 +940,6 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1130,6 +1130,7 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1177,7 +1178,6 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1247,6 +1247,7 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1371,8 +1372,8 @@
 | referafriend.comcast.com | xfinity.extole.io |
 | referafriend.xfinity.com | xfinity.extole.io |
 | www.refer.xfinity.com | xfinity.extole.io |
-| xtl._domainkey.mail.propertyperks.xfinity.com | xfinity.xtl.extole.io |
 | xtl._domainkey.forgetrust.com | xtl.domainkey.u82658.wl159.sendgrid.net |
+| xtl._domainkey.mail.propertyperks.xfinity.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
 | share.zenbusiness.com | zenbusiness.extole.io |
 | refer.zentrointernet.com | zentrointernet.extole.io |

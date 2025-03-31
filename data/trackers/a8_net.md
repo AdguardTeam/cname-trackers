@@ -940,7 +940,6 @@
 | a8cv.emma-sleep-japan.com | trck.a8.net |
 | a8cv.encounter2017.jp | trck.a8.net |
 | a8cv.english-bootcamp.com | trck.a8.net |
-| a8cv.english-cc.com | trck.a8.net |
 | a8cv.english-village.net | trck.a8.net |
 | a8cv.entre-salon.com | trck.a8.net |
 | a8cv.entry.renet.jp | trck.a8.net |
@@ -1118,6 +1117,7 @@
 | a8cv.mhg-webstore.com | trck.a8.net |
 | a8cv.minana-jp.com | trck.a8.net |
 | a8cv.mitaina.tokyo | trck.a8.net |
+| a8cv.moana.clinic | trck.a8.net |
 | a8cv.mobabiji.jp | trck.a8.net |
 | a8cv.modern-deco.jp | trck.a8.net |
 | a8cv.modescape.com | trck.a8.net |
@@ -1328,7 +1328,6 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
-| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.willfu.jp | trck.a8.net |

@@ -13,7 +13,6 @@
     * argfuscator.goatcounter.com
     * artur.goatcounter.com
     * astuto.goatcounter.com
-    * belak.goatcounter.com
     * benjaminmorris.goatcounter.com
     * beyondthesprawl.goatcounter.com
     * bilderbrief.goatcounter.com
@@ -31,6 +30,7 @@
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
     * coderscompass.goatcounter.com
+    * codes-baltimorecity-gov.goatcounter.com
     * codinggrace.goatcounter.com
     * crosshair.goatcounter.com
     * d8a.goatcounter.com
@@ -74,6 +74,7 @@
     * k94.goatcounter.com
     * kc-ie.goatcounter.com
     * kealper.goatcounter.com
+    * koltyakov.goatcounter.com
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
@@ -125,6 +126,7 @@
     * teknoraver.goatcounter.com
     * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
+    * timothechauvet.goatcounter.com
     * tomatomtl.goatcounter.com
     * trainsley69.goatcounter.com
     * trool.goatcounter.com
@@ -156,7 +158,6 @@
 | visit.argfuscator.net | argfuscator.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | analytics.astuto.io | astuto.goatcounter.com |
-| goat.belak.io | belak.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
 | stats.beyondthesprawl.com | beyondthesprawl.goatcounter.com |
 | stats.bilderbrief.de | bilderbrief.goatcounter.com |
@@ -174,6 +175,7 @@
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | stats.coderscompass.org | coderscompass.goatcounter.com |
+| analytics.codes.baltimorecity.gov | codes-baltimorecity-gov.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
 | stats.crosshair.dev | crosshair.goatcounter.com |
 | go.d8a.org | d8a.goatcounter.com |
@@ -217,6 +219,7 @@
 | stats.k94.ch | k94.goatcounter.com |
 | stats.kc.ie | kc-ie.goatcounter.com |
 | count.kealper.com | kealper.goatcounter.com |
+| www.stats.spflow.com | koltyakov.goatcounter.com |
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
@@ -235,7 +238,6 @@
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
 | stats.raycordlegends.com | mine.goatcounter.com |
-| stats.zlinux.ru | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
@@ -270,6 +272,7 @@
 | stats.matteocroce.it | teknoraver.goatcounter.com |
 | goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
+| stats.timothechau.vet | timothechauvet.goatcounter.com |
 | analytics.tomatomtl.com | tomatomtl.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
 | moo.geopogs.party | trool.goatcounter.com |

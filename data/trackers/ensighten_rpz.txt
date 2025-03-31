@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -78,6 +78,7 @@ agility.nba.com CNAME .
 agility.ncaa.com CNAME .
 agility.staples-solutions.com CNAME .
 agility.tbs.com CNAME .
+agility.tbs.tv CNAME .
 agility.tcm.com CNAME .
 agility.tntdrama.com CNAME .
 agility.trutv.com CNAME .
@@ -218,6 +219,7 @@ dc.vw.com.mx CNAME .
 dc.zales.com CNAME .
 dc.zalesoutlet.com CNAME .
 dcf.espn.com CNAME .
+dcf.espn.com.do CNAME .
 dcf.espn.com.pe CNAME .
 dcf.espnqa.com CNAME .
 dcfdata.espn.com CNAME .
@@ -234,6 +236,7 @@ ens.obwaldnerzeitung.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
 ens.thurgauerzeitung.ch CNAME .
+ens.toggenburgertagblatt.ch CNAME .
 ens.trauerportal-ostschweiz.ch CNAME .
 ens.urnerzeitung.ch CNAME .
 ens.wilerzeitung.ch CNAME .
@@ -344,6 +347,7 @@ sst.homegoods.com CNAME .
 sst.johnlewis.com CNAME .
 sst.marshalls.com CNAME .
 sst.nab.com.au CNAME .
+sst.one.audi CNAME .
 sst.subzero-wolf.com CNAME .
 sst.tjmaxx.tjx.com CNAME .
 suncorp.activate.ensighten.com CNAME .

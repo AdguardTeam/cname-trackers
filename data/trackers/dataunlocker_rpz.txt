@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -107,6 +107,7 @@ o3gxzoewxl1x.cp.zomro.com CNAME .
 omyvimmw9wsk.t.mahapowerex.eu CNAME .
 otx23nu6rzon.prep.toppers.com CNAME .
 p7h1silo3f.app.cainthus.com CNAME .
+pgc5000di6pg.www.brizy.io CNAME .
 q4l5gz6lqog6.www.eventus.io CNAME .
 qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .

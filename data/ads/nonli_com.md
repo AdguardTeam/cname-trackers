@@ -22,6 +22,7 @@
 | l.mprovence.com | non.li |
 | l.nicematin.com | non.li |
 | l.ouifm.fr | non.li |
+| l.paris-turf.com | non.li |
 | l.traxmag.com | non.li |
 | l.varmatin.com | non.li |
 | nr.lanouvellerepublique.fr | non.li |
@@ -122,6 +123,7 @@
 | l.franceinter.fr | tls.non.li |
 | l.francemusique.fr | tls.non.li |
 | l.frandroid.com | tls.non.li |
+| l.futura-sciences.com | tls.non.li |
 | l.gala.fr | tls.non.li |
 | l.gamekult.com | tls.non.li |
 | l.gamepro.de | tls.non.li |

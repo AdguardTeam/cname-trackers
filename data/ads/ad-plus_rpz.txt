@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1742803208380        ; Serial
+           1743408008924        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,10 +11,12 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+ad-serving.iocreate.cloud CNAME .
 adserving.menatech.net CNAME .
 cdn.laim.tv CNAME .
 cdn33.protagcdn.com CNAME .
 dashboard.andbeyond.media CNAME .
+dashboard.digita.media CNAME .
 dashboard.grapemedia.cz CNAME .
 dashboard.xqubemedia.com CNAME .
 player.resonance.pk CNAME .
@@ -23,7 +25,9 @@ serving.grapemedia.cz CNAME .
 serving.idolmedia360.com CNAME .
 serving.laimroll.ru CNAME .
 serving.lookverin.com CNAME .
+serving.mmmedia-group.com CNAME .
 serving.platformance.io CNAME .
 serving.profitsence.com CNAME .
 serving.srmg.com CNAME .
+serving.thebeglobal.com CNAME .
 serving.viewtraff.com CNAME .
