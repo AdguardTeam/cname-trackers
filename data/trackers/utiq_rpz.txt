@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,8 @@ a1at.mno.link CNAME .
 bob-a1at.mno.link CNAME .
 esca-test.mno.link CNAME .
 esca.mno.link CNAME .
+fakexa-post.mno.link CNAME .
+logger-test.mno.link CNAME .
 o2de.mno.link CNAME .
 orangefr-test.mno.link CNAME .
 orangefr.mno.link CNAME .
@@ -103,6 +105,7 @@ utiq.duden.de CNAME .
 utiq.easyvoyage.com CNAME .
 utiq.eatbetter.de CNAME .
 utiq.einbuergerungstest-online.de CNAME .
+utiq.einbuergerungstest-online.eu CNAME .
 utiq.einfach-tasty.de CNAME .
 utiq.einfachkochen.de CNAME .
 utiq.elcomercio.es CNAME .
@@ -207,6 +210,7 @@ utiq.lexpress.fr CNAME .
 utiq.liberation-champagne.fr CNAME .
 utiq.lidl.de CNAME .
 utiq.lindependant.fr CNAME .
+utiq.listisima.com CNAME .
 utiq.lne.es CNAME .
 utiq.lunion.fr CNAME .
 utiq.madmoizelle.com CNAME .
@@ -214,19 +218,25 @@ utiq.maennerseite.net CNAME .
 utiq.mahou.es CNAME .
 utiq.maison-travaux.fr CNAME .
 utiq.mallorcazeitung.es CNAME .
+utiq.manga-viewer.com CNAME .
 utiq.mappy.com CNAME .
+utiq.mappyrecette.com CNAME .
 utiq.marca.com CNAME .
 utiq.mariefrance.fr CNAME .
 utiq.marmiton.org CNAME .
 utiq.meine-anzeigenzeitung.de CNAME .
 utiq.mejorconectados.com CNAME .
 utiq.merkur.de CNAME .
+utiq.meteoconsult.es CNAME .
 utiq.metodomontessori.com CNAME .
 utiq.midilibre.fr CNAME .
 utiq.millenium.gg CNAME .
 utiq.millenium.org CNAME .
 utiq.mittelbayerische.de CNAME .
+utiq.mno.link CNAME .
+utiq.mobilite-verte.com CNAME .
 utiq.modesettravaux.fr CNAME .
+utiq.moin.de CNAME .
 utiq.monacomatin.mc CNAME .
 utiq.mopo.de CNAME .
 utiq.motor-talk.de CNAME .
@@ -275,6 +285,7 @@ utiq.salamancahoy.es CNAME .
 utiq.sauerlandkurier.de CNAME .
 utiq.schlager.de CNAME .
 utiq.science-et-vie.com CNAME .
+utiq.semana.es CNAME .
 utiq.sensacine.com CNAME .
 utiq.serienjunkies.de CNAME .
 utiq.sevilla.abc.es CNAME .
@@ -286,7 +297,9 @@ utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
 utiq.sportlerfrage.net CNAME .
 utiq.sports.fr CNAME .
+utiq.staging--hb.hmg.systems CNAME .
 utiq.staging--wiwo.hmg.systems CNAME .
+utiq.stilo.es CNAME .
 utiq.stimme.de CNAME .
 utiq.stylebook.de CNAME .
 utiq.sudouest.fr CNAME .
@@ -311,6 +324,7 @@ utiq.tvspielfilm.de CNAME .
 utiq.tz.de CNAME .
 utiq.usinger-anzeiger.de CNAME .
 utiq.utest1-prod.work CNAME .
+utiq.utest2-prod.work CNAME .
 utiq.utest2.work CNAME .
 utiq.utest3-prod.work CNAME .
 utiq.utest3.work CNAME .

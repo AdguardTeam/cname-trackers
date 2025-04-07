@@ -23,6 +23,7 @@ a8.air-snet.com
 a8.aliceandolivia.jp
 a8.amairo-sky.com
 a8.andethic.com
+a8.aniera.jp
 a8.anipos.com
 a8.aphex-group.com
 a8.arrrt-shop.com
@@ -96,6 +97,7 @@ a8.earth-shiho.com
 a8.earthwater-cayenne.com
 a8.ecwa.jp
 a8.efax.co.jp
+a8.eigox.jp
 a8.elife.clinic
 a8.emeao.jp
 a8.emestore.me
@@ -392,6 +394,7 @@ a8aspconv.xn--biglobe-kc9k.com
 a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com
 a8atcomsme.mellife.jp
 a8click.daini2.co.jp
+a8click.uzuz.jp
 a8click.you-up.com
 a8click.young-mobile.net
 a8clk.011330.jp
@@ -561,6 +564,7 @@ a8clk.lasana.co.jp
 a8clk.laundry-out.jp
 a8clk.lecinq.medicalnote.jp
 a8clk.lens-1.jp
+a8clk.liberta1.jp
 a8clk.libinc.jp
 a8clk.life.bang.co.jp
 a8clk.livr.jp
@@ -645,12 +649,14 @@ a8clk.resortbaito-dive.com
 a8clk.rf28.com
 a8clk.risou.com
 a8clk.rose-cleaning.net
+a8clk.sakuya-life.jp
 a8clk.satei-meijin.com
 a8clk.secure.freee.co.jp
 a8clk.secure.jetboy.jp
 a8clk.segatoys.com
 a8clk.service.ridera-inc.com
 a8clk.shadoten.com
+a8clk.shareboss.net
 a8clk.shikaku-square.com
 a8clk.shinnihon-seminar.com
 a8clk.shoes.regal.co.jp
@@ -673,7 +679,6 @@ a8clk.smart-keiri.com
 a8clk.smartmethod.rarejob.com
 a8clk.smile-zemi.jp
 a8clk.sohbi-company.com
-a8clk.solideajapan.com
 a8clk.sp.move-ebike.co.jp
 a8clk.staff.mynavi.jp
 a8clk.star-mall.net
@@ -689,6 +694,7 @@ a8clk.supreme-noi.jp
 a8clk.sure-i.co.jp
 a8clk.sweethomefloripa.com
 a8clk.t-fic.co.jp
+a8clk.t-tree.net
 a8clk.taisho-beauty.jp
 a8clk.takken-job.com
 a8clk.takuhai.daichi-m.co.jp
@@ -747,6 +753,7 @@ a8clk.www.rebo-success.co.jp
 a8clk.www.solar-partners.jp
 a8clk.www.solarmonitorlp.energy-itsol.com
 a8clk.www.uz.team
+a8clk.www.workport.co.jp
 a8clk.www.xebiocard.co.jp
 a8clk.www.zwei.com
 a8clk.xbit.jp
@@ -879,7 +886,6 @@ a8cv.cprime-japan.com
 a8cv.crear-ac.co.jp
 a8cv.crecari.com
 a8cv.crefus.jp
-a8cv.crowdcredit.jp
 a8cv.crowdlinks.jp
 a8cv.cv2308001.tanomelu.com
 a8cv.cx-cloud.jp
@@ -1109,7 +1115,6 @@ a8cv.mobabiji.jp
 a8cv.modern-deco.jp
 a8cv.modescape.com
 a8cv.mogecheck.jp
-a8cv.mokumokumarket.com
 a8cv.momiji-tantei.com
 a8cv.mova-creator-school.com
 a8cv.ms-toushiguide.jp
@@ -1134,6 +1139,7 @@ a8cv.nikugatodoke.com
 a8cv.nippon-olive.co.jp
 a8cv.nipt-clinic.jp
 a8cv.nittei-group-alliance.com
+a8cv.norikae-cashback.com
 a8cv.o-juku.com
 a8cv.o-ken.com
 a8cv.oceanprincess.jp
@@ -1188,6 +1194,7 @@ a8cv.rakumizu.jp
 a8cv.rank-checker.com
 a8cv.rawfood-lohas.com
 a8cv.raycop.co.jp
+a8cv.rayel.co.jp
 a8cv.rehome-navi.com
 a8cv.renoveru.jp
 a8cv.repairman.jp
@@ -1289,7 +1296,6 @@ a8cv.tokei-syuri.jp
 a8cv.toko-navi.com
 a8cv.tokutoku-battery.com
 a8cv.tokyo-dive.com
-a8cv.tokyo-indoorgolf.com
 a8cv.tokyogas.bocco.me
 a8cv.tomodachi-my.com
 a8cv.tomorrow-bright.jp

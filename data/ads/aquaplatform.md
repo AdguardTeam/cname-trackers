@@ -301,9 +301,12 @@
 | opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | static.hollandhortimedia.nl | platformiq-cdn.aquaplatform.com |
+| www.adimages.infotorg.se | platformiq-cdn.aquaplatform.com |
+| addurance-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
+| brandmovers-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | marriagetrac-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |

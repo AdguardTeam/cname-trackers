@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ l.750g.com CNAME .
 l.actu.fr CNAME .
 l.africabusinessplus.com CNAME .
 l.africanews.com CNAME .
+l.africaradio.com CNAME .
 l.aisnenouvelle.fr CNAME .
 l.allocine.fr CNAME .
 l.alternatives-economiques.fr CNAME .
@@ -68,6 +69,8 @@ l.dna.fr CNAME .
 l.doctissimo.fr CNAME .
 l.dzfoot.com CNAME .
 l.easyvoyage.com CNAME .
+l.echoancenis.fr CNAME .
+l.echoduberry.fr CNAME .
 l.enfant.com CNAME .
 l.enfemenino.com CNAME .
 l.entrenous.fr CNAME .
@@ -98,6 +101,7 @@ l.gentside.de CNAME .
 l.geo.fr CNAME .
 l.grazia.fr CNAME .
 l.harpersbazaar.fr CNAME .
+l.hautanjou.fr CNAME .
 l.heidi.news CNAME .
 l.humanite.fr CNAME .
 l.ici.fr CNAME .
@@ -109,14 +113,18 @@ l.koolmag.fr CNAME .
 l.lacremedugaming.fr CNAME .
 l.ladepeche.fr CNAME .
 l.lalsace.fr CNAME .
+l.lamanchelibre.fr CNAME .
 l.lanouvellerepublique.fr CNAME .
 l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
+l.larenaissancehebdo.fr CNAME .
 l.larepubliquedespyrenees.fr CNAME .
 l.latribune.fr CNAME .
 l.lavoixdunord.fr CNAME .
 l.le10sport.com CNAME .
 l.lechasseurfrancais.com CNAME .
+l.lecourriercauchois.fr CNAME .
+l.lecourrierdelamayenne.fr CNAME .
 l.ledauphine.com CNAME .
 l.lefigaro.fr CNAME .
 l.lejournaldelamaison.fr CNAME .
@@ -136,6 +144,7 @@ l.lunion.fr CNAME .
 l.madmoizelle.com CNAME .
 l.maison-travaux.fr CNAME .
 l.mariefrance.fr CNAME .
+l.marmiton.org CNAME .
 l.marsactu.fr CNAME .
 l.maxisciences.com CNAME .
 l.mediapart.fr CNAME .
@@ -185,6 +194,7 @@ l.sports.fr CNAME .
 l.sudinfo.be CNAME .
 l.sudouest.fr CNAME .
 l.telestar.fr CNAME .
+l.tendanceouest.com CNAME .
 l.terrafemina.com CNAME .
 l.tf1.fr CNAME .
 l.tf1info.fr CNAME .
@@ -204,6 +214,7 @@ on.qobuz.com CNAME .
 poc.warnerbros.fr CNAME .
 prod-1.moarty.com CNAME .
 prod-3.moarty.com CNAME .
+social.agrodistribution.fr CNAME .
 social.eleveur-laitier.fr CNAME .
 social.lafranceagricole.fr CNAME .
 sur.corsematin.com CNAME .

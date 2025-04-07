@@ -159,7 +159,6 @@
 | aphid.nihilnegativum.com | deprecated-custom-domains.b-cdn.net |
 | aphid.polarcop.com | deprecated-custom-domains.b-cdn.net |
 | aphid.smartjournal.no | deprecated-custom-domains.b-cdn.net |
-| aphid.thyself.me | deprecated-custom-domains.b-cdn.net |
 | armadillo.axeneo7.qc.ca | deprecated-custom-domains.b-cdn.net |
 | armadillo.oceandecadenortheastpacific.org | deprecated-custom-domains.b-cdn.net |
 | armadillo.superpeak.dk | deprecated-custom-domains.b-cdn.net |
@@ -266,7 +265,6 @@
 | catfish.phuclh.com | deprecated-custom-domains.b-cdn.net |
 | catfish.pressure.cooking | deprecated-custom-domains.b-cdn.net |
 | catfish.sofatido.ch | deprecated-custom-domains.b-cdn.net |
-| catshark.janetalexandersson.com | deprecated-custom-domains.b-cdn.net |
 | catshark.jimmyaldape.dev | deprecated-custom-domains.b-cdn.net |
 | catshark.spur.design | deprecated-custom-domains.b-cdn.net |
 | cattle.apisyouwonthate.com | deprecated-custom-domains.b-cdn.net |
@@ -432,7 +430,6 @@
 | flamingo.stacking-club.com | deprecated-custom-domains.b-cdn.net |
 | flea.elbertsnaturalfoods.com | deprecated-custom-domains.b-cdn.net |
 | flea.welikeoliver.com | deprecated-custom-domains.b-cdn.net |
-| fly.foggybottomfarm.org | deprecated-custom-domains.b-cdn.net |
 | flyingfish.editorslab.de | deprecated-custom-domains.b-cdn.net |
 | flyingfish.whoisrepresented.org | deprecated-custom-domains.b-cdn.net |
 | fowl.saulhardman.com | deprecated-custom-domains.b-cdn.net |
@@ -579,6 +576,7 @@
 | koi.henrydennis.dev | deprecated-custom-domains.b-cdn.net |
 | koi.lkae.dev | deprecated-custom-domains.b-cdn.net |
 | koi.vyer.com | deprecated-custom-domains.b-cdn.net |
+| krill.far.dev | deprecated-custom-domains.b-cdn.net |
 | krill.far.site | deprecated-custom-domains.b-cdn.net |
 | krill.spoonrage.com | deprecated-custom-domains.b-cdn.net |
 | krill.swiss-uke.ch | deprecated-custom-domains.b-cdn.net |
@@ -996,6 +994,7 @@
 | turtle.mushtache.com | deprecated-custom-domains.b-cdn.net |
 | turtle.mydataroom.io | deprecated-custom-domains.b-cdn.net |
 | turtle.olivier.cx | deprecated-custom-domains.b-cdn.net |
+| turtle.sid.scot | deprecated-custom-domains.b-cdn.net |
 | uktgg.dev-tester.com | deprecated-custom-domains.b-cdn.net |
 | vampirebat.datingmedellin.com | deprecated-custom-domains.b-cdn.net |
 | vampirebat.febolos.es | deprecated-custom-domains.b-cdn.net |

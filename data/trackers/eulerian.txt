@@ -49,6 +49,7 @@
 ||ar.i-run.fr^
 ||axb4.vivabox.it^
 ||azg1.emalu-store.com^
+||b1n.carabins.umontreal.ca^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -77,7 +78,6 @@
 ||ct5m.citadium.com^
 ||cvi6.destinia.qa^
 ||cyf9.destinia.cl^
-||d0f.le-dauphin.com^
 ||dbj.quebecregion.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
@@ -179,6 +179,7 @@
 ||ea.voyage-prive.es^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
+||eat9.thebeat925.ca^
 ||eb.mistermenuiserie.com^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -260,6 +261,7 @@
 ||hby7.destinia.it^
 ||hde1.repentignychevrolet.com^
 ||hgf4.zanzicar.fr^
+||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||igc0.destinia.at^
@@ -348,6 +350,7 @@
 ||pgt1.voyage-prive.es^
 ||piq4.inseec.education^
 ||pjh7.us.chantelle.com^
+||pk1u.melanielyne.com^
 ||pkc5.hardrockhoteltenerife.com^
 ||pm.pmu.fr^
 ||po.ponant.com^
@@ -381,7 +384,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
-||rwl.tremblant.ca^
+||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sa.lesselectionsskoda.fr^
 ||sa.skoda.fr^
@@ -476,7 +479,6 @@
 ||yoc.younited-credit.com^
 ||ysl3.destinia.ec^
 ||yst4.muchoviaje.com^
-||yst4.torviajes.com^
 ||yyi7.consobaby.de^
 ||zdi0.destinia.cr^
 ||zdx5.destinia.pe^
@@ -488,15 +490,12 @@
 ||zsi7.destinia.do^
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
-||b1n.carabins.umontreal.ca^
 ||c0p.cepsum.umontreal.ca^
+||d0f.le-dauphin.com^
 ||d2u.dauphinquebec.com^
-||eat9.thebeat925.ca^
-||hk2d.tourismemauricie.com^
 ||nym5c.bonlook.com^
-||ry0.rythmefm.com^
+||rwl.tremblant.ca^
 ||su1.les-suites.ca^
 ||t0y.toyota.ca^
 ||yio.tremblant.ca^
 ||ea.mnt.fr^
-||pk1u.melanielyne.com^

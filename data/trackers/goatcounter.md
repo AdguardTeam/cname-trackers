@@ -10,6 +10,7 @@
     * afirmation.goatcounter.com
     * andreabrandi.goatcounter.com
     * apitman_com.goatcounter.com
+    * applycreatures.goatcounter.com
     * argfuscator.goatcounter.com
     * artur.goatcounter.com
     * astuto.goatcounter.com
@@ -40,7 +41,6 @@
     * dannynullzwo.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
-    * doarpstsjerke.goatcounter.com
     * dungeon.goatcounter.com
     * eithel.goatcounter.com
     * elkobraas.goatcounter.com
@@ -77,6 +77,7 @@
     * koltyakov.goatcounter.com
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
+    * landing-forest-school.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
     * law-tmchippewa-com.goatcounter.com
@@ -118,6 +119,7 @@
     * semipol.goatcounter.com
     * sharukhi.goatcounter.com
     * skeetstats.goatcounter.com
+    * slade.goatcounter.com
     * sofianlak.goatcounter.com
     * storydragon.goatcounter.com
     * tailspace.goatcounter.com
@@ -127,6 +129,7 @@
     * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
     * timothechauvet.goatcounter.com
+    * tinkerertools.goatcounter.com
     * tomatomtl.goatcounter.com
     * trainsley69.goatcounter.com
     * trool.goatcounter.com
@@ -155,6 +158,7 @@
 | stats.afirmacijas.lv | afirmation.goatcounter.com |
 | count.andreabrandi.com | andreabrandi.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
+| analytics.applycreatures.com | applycreatures.goatcounter.com |
 | visit.argfuscator.net | argfuscator.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | analytics.astuto.io | astuto.goatcounter.com |
@@ -185,7 +189,6 @@
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
-| stats.doarpstsjerke.nl | doarpstsjerke.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
 | stats.eithel.org | eithel.goatcounter.com |
 | statistic.elkobraas.com | elkobraas.goatcounter.com |
@@ -222,6 +225,7 @@
 | www.stats.spflow.com | koltyakov.goatcounter.com |
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
+| stats.forest-school.am | landing-forest-school.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
@@ -264,6 +268,7 @@
 | stats.semipol.de | semipol.goatcounter.com |
 | stats.sharukhi.xyz | sharukhi.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
+| dot-com-stats.sladewatkins.net | slade.goatcounter.com |
 | stats.sofianlak.fr | sofianlak.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
@@ -273,6 +278,7 @@
 | goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
 | stats.timothechau.vet | timothechauvet.goatcounter.com |
+| stats.tinkerer.tools | tinkerertools.goatcounter.com |
 | analytics.tomatomtl.com | tomatomtl.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
 | moo.geopogs.party | trool.goatcounter.com |

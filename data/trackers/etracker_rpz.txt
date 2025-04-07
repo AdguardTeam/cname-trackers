@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,12 +27,14 @@ connect.peter-bringts.de CNAME .
 controlling.bartenbach.de CNAME .
 ct.krauss.app CNAME .
 ctrl.guenther.de CNAME .
+data.diekuechedirekt.de CNAME .
 data.drhauschka.de CNAME .
 data.juhu.auto CNAME .
 data.moebel-style.de CNAME .
 data.uk.kutchenhaus.com CNAME .
 defabc.black-label-coffee.de CNAME .
 dts.suchmeisterei.de CNAME .
+e.heimat.style CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
@@ -47,6 +49,7 @@ et.electronic4you.hr CNAME .
 et.electronic4you.si CNAME .
 et.goal-based.investments CNAME .
 et.lavita.com CNAME .
+et.lioran.de CNAME .
 et.majdic.at CNAME .
 et.pns24.de CNAME .
 et.schindlerparent.de CNAME .
@@ -116,6 +119,8 @@ stats.united-domains.de CNAME .
 stats.wasserfilteroase.de CNAME .
 stats.wienerjobs.at CNAME .
 sun.solar-haus.de CNAME .
+t.canngo.express CNAME .
+track.bauwirtschaft-bw.de CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
 track.dictum-handwerksgalerie.de CNAME .
 track.dictum-shop.de CNAME .
@@ -127,6 +132,7 @@ tracking.ostsee-resort-dampland.de CNAME .
 tracking.terrassenhof.de CNAME .
 trkkr.bugatti-media.com CNAME .
 trkkr.bugatti-newsroom.com CNAME .
+uezeus.ueberbit.de CNAME .
 wa.ostermann.eu CNAME .
 waet.datalogue.de CNAME .
 wctr.hh-klebetechnologie.de CNAME .

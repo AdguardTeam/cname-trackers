@@ -2,6 +2,7 @@
 # Company name: GoatCounter
 a.50-nuances-octets.fr
 anal.sataniskwijt.be
+analytics.applycreatures.com
 analytics.astuto.io
 analytics.bytewave.net
 analytics.code.dccouncil.gov
@@ -29,6 +30,7 @@ count.andreabrandi.com
 count.kealper.com
 count.vidsrc.pro
 counter.storydragon.nl
+dot-com-stats.sladewatkins.net
 gc.gayqing.com
 gc.his2nd.life
 gc.miluchacontraeltabaco.com
@@ -83,9 +85,9 @@ stats.coderscompass.org
 stats.crosshair.dev
 stats.dalinwilliams.com
 stats.dandelion.computer
-stats.doarpstsjerke.nl
 stats.eithel.org
 stats.fieald.com
+stats.forest-school.am
 stats.gopikrishna.dev
 stats.haseebmajid.dev
 stats.hdyar.com
@@ -127,6 +129,7 @@ stats.sofianlak.fr
 stats.svc.lol
 stats.tdurand.com
 stats.timothechau.vet
+stats.tinkerer.tools
 stats.trainsley69.me
 stats.umcconnell.net
 stats.w0chp.radio

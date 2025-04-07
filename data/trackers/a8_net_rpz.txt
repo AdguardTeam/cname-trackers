@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,6 +34,7 @@ a8.air-snet.com CNAME .
 a8.aliceandolivia.jp CNAME .
 a8.amairo-sky.com CNAME .
 a8.andethic.com CNAME .
+a8.aniera.jp CNAME .
 a8.anipos.com CNAME .
 a8.aphex-group.com CNAME .
 a8.arrrt-shop.com CNAME .
@@ -107,6 +108,7 @@ a8.earth-shiho.com CNAME .
 a8.earthwater-cayenne.com CNAME .
 a8.ecwa.jp CNAME .
 a8.efax.co.jp CNAME .
+a8.eigox.jp CNAME .
 a8.elife.clinic CNAME .
 a8.emeao.jp CNAME .
 a8.emestore.me CNAME .
@@ -403,6 +405,7 @@ a8aspconv.xn--biglobe-kc9k.com CNAME .
 a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com CNAME .
 a8atcomsme.mellife.jp CNAME .
 a8click.daini2.co.jp CNAME .
+a8click.uzuz.jp CNAME .
 a8click.you-up.com CNAME .
 a8click.young-mobile.net CNAME .
 a8clk.011330.jp CNAME .
@@ -572,6 +575,7 @@ a8clk.lasana.co.jp CNAME .
 a8clk.laundry-out.jp CNAME .
 a8clk.lecinq.medicalnote.jp CNAME .
 a8clk.lens-1.jp CNAME .
+a8clk.liberta1.jp CNAME .
 a8clk.libinc.jp CNAME .
 a8clk.life.bang.co.jp CNAME .
 a8clk.livr.jp CNAME .
@@ -656,12 +660,14 @@ a8clk.resortbaito-dive.com CNAME .
 a8clk.rf28.com CNAME .
 a8clk.risou.com CNAME .
 a8clk.rose-cleaning.net CNAME .
+a8clk.sakuya-life.jp CNAME .
 a8clk.satei-meijin.com CNAME .
 a8clk.secure.freee.co.jp CNAME .
 a8clk.secure.jetboy.jp CNAME .
 a8clk.segatoys.com CNAME .
 a8clk.service.ridera-inc.com CNAME .
 a8clk.shadoten.com CNAME .
+a8clk.shareboss.net CNAME .
 a8clk.shikaku-square.com CNAME .
 a8clk.shinnihon-seminar.com CNAME .
 a8clk.shoes.regal.co.jp CNAME .
@@ -684,7 +690,6 @@ a8clk.smart-keiri.com CNAME .
 a8clk.smartmethod.rarejob.com CNAME .
 a8clk.smile-zemi.jp CNAME .
 a8clk.sohbi-company.com CNAME .
-a8clk.solideajapan.com CNAME .
 a8clk.sp.move-ebike.co.jp CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .
@@ -700,6 +705,7 @@ a8clk.supreme-noi.jp CNAME .
 a8clk.sure-i.co.jp CNAME .
 a8clk.sweethomefloripa.com CNAME .
 a8clk.t-fic.co.jp CNAME .
+a8clk.t-tree.net CNAME .
 a8clk.taisho-beauty.jp CNAME .
 a8clk.takken-job.com CNAME .
 a8clk.takuhai.daichi-m.co.jp CNAME .
@@ -758,6 +764,7 @@ a8clk.www.rebo-success.co.jp CNAME .
 a8clk.www.solar-partners.jp CNAME .
 a8clk.www.solarmonitorlp.energy-itsol.com CNAME .
 a8clk.www.uz.team CNAME .
+a8clk.www.workport.co.jp CNAME .
 a8clk.www.xebiocard.co.jp CNAME .
 a8clk.www.zwei.com CNAME .
 a8clk.xbit.jp CNAME .
@@ -890,7 +897,6 @@ a8cv.cprime-japan.com CNAME .
 a8cv.crear-ac.co.jp CNAME .
 a8cv.crecari.com CNAME .
 a8cv.crefus.jp CNAME .
-a8cv.crowdcredit.jp CNAME .
 a8cv.crowdlinks.jp CNAME .
 a8cv.cv2308001.tanomelu.com CNAME .
 a8cv.cx-cloud.jp CNAME .
@@ -1120,7 +1126,6 @@ a8cv.mobabiji.jp CNAME .
 a8cv.modern-deco.jp CNAME .
 a8cv.modescape.com CNAME .
 a8cv.mogecheck.jp CNAME .
-a8cv.mokumokumarket.com CNAME .
 a8cv.momiji-tantei.com CNAME .
 a8cv.mova-creator-school.com CNAME .
 a8cv.ms-toushiguide.jp CNAME .
@@ -1145,6 +1150,7 @@ a8cv.nikugatodoke.com CNAME .
 a8cv.nippon-olive.co.jp CNAME .
 a8cv.nipt-clinic.jp CNAME .
 a8cv.nittei-group-alliance.com CNAME .
+a8cv.norikae-cashback.com CNAME .
 a8cv.o-juku.com CNAME .
 a8cv.o-ken.com CNAME .
 a8cv.oceanprincess.jp CNAME .
@@ -1199,6 +1205,7 @@ a8cv.rakumizu.jp CNAME .
 a8cv.rank-checker.com CNAME .
 a8cv.rawfood-lohas.com CNAME .
 a8cv.raycop.co.jp CNAME .
+a8cv.rayel.co.jp CNAME .
 a8cv.rehome-navi.com CNAME .
 a8cv.renoveru.jp CNAME .
 a8cv.repairman.jp CNAME .
@@ -1300,7 +1307,6 @@ a8cv.tokei-syuri.jp CNAME .
 a8cv.toko-navi.com CNAME .
 a8cv.tokutoku-battery.com CNAME .
 a8cv.tokyo-dive.com CNAME .
-a8cv.tokyo-indoorgolf.com CNAME .
 a8cv.tokyogas.bocco.me CNAME .
 a8cv.tomodachi-my.com CNAME .
 a8cv.tomorrow-bright.jp CNAME .

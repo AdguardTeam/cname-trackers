@@ -28,6 +28,7 @@
 | nr.lanouvellerepublique.fr | non.li |
 | on.qobuz.com | non.li |
 | poc.warnerbros.fr | non.li |
+| social.agrodistribution.fr | non.li |
 | social.eleveur-laitier.fr | non.li |
 | social.lafranceagricole.fr | non.li |
 | sur.laprovence.com | non.li |
@@ -74,6 +75,7 @@
 | l.actu.fr | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |
 | l.africanews.com | tls.non.li |
+| l.africaradio.com | tls.non.li |
 | l.aisnenouvelle.fr | tls.non.li |
 | l.allocine.fr | tls.non.li |
 | l.alternatives-economiques.fr | tls.non.li |
@@ -105,6 +107,8 @@
 | l.doctissimo.fr | tls.non.li |
 | l.dzfoot.com | tls.non.li |
 | l.easyvoyage.com | tls.non.li |
+| l.echoancenis.fr | tls.non.li |
+| l.echoduberry.fr | tls.non.li |
 | l.enfant.com | tls.non.li |
 | l.enfemenino.com | tls.non.li |
 | l.entrenous.fr | tls.non.li |
@@ -134,6 +138,7 @@
 | l.geo.fr | tls.non.li |
 | l.grazia.fr | tls.non.li |
 | l.harpersbazaar.fr | tls.non.li |
+| l.hautanjou.fr | tls.non.li |
 | l.humanite.fr | tls.non.li |
 | l.ici.fr | tls.non.li |
 | l.ideat.fr | tls.non.li |
@@ -143,13 +148,17 @@
 | l.koolmag.fr | tls.non.li |
 | l.lacremedugaming.fr | tls.non.li |
 | l.ladepeche.fr | tls.non.li |
+| l.lamanchelibre.fr | tls.non.li |
 | l.lanouvellerepublique.fr | tls.non.li |
 | l.lardennais.fr | tls.non.li |
+| l.larenaissancehebdo.fr | tls.non.li |
 | l.larepubliquedespyrenees.fr | tls.non.li |
 | l.latribune.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |
 | l.le10sport.com | tls.non.li |
 | l.lechasseurfrancais.com | tls.non.li |
+| l.lecourriercauchois.fr | tls.non.li |
+| l.lecourrierdelamayenne.fr | tls.non.li |
 | l.lefigaro.fr | tls.non.li |
 | l.lejournaldelamaison.fr | tls.non.li |
 | l.leparisien.fr | tls.non.li |
@@ -166,6 +175,7 @@
 | l.madmoizelle.com | tls.non.li |
 | l.maison-travaux.fr | tls.non.li |
 | l.mariefrance.fr | tls.non.li |
+| l.marmiton.org | tls.non.li |
 | l.marsactu.fr | tls.non.li |
 | l.maxisciences.com | tls.non.li |
 | l.mediapart.fr | tls.non.li |
@@ -209,6 +219,7 @@
 | l.sudinfo.be | tls.non.li |
 | l.sudouest.fr | tls.non.li |
 | l.telestar.fr | tls.non.li |
+| l.tendanceouest.com | tls.non.li |
 | l.terrafemina.com | tls.non.li |
 | l.tf1.fr | tls.non.li |
 | l.tf1info.fr | tls.non.li |

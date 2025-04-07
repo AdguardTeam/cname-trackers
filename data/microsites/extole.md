@@ -166,7 +166,6 @@
     * barharbor.extole.io
     * barnandwillow.extole.io
     * barnes-and-noble-college.extole.io
-    * basbleu.extole.io
     * basepaws.extole.io
     * bates.extole.io
     * baxterofcalifornia.extole.io
@@ -222,6 +221,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -239,6 +239,7 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -346,6 +347,7 @@
     * iteach.extole.io
     * jellybelly.extole.io
     * jewelersmutual.extole.io
+    * jhfcu.extole.io
     * joann.extole.io
     * join1440.extole.io
     * jonesservices.extole.io
@@ -502,7 +504,6 @@
     * sizigi.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
-    * skyone-federal-credit-union.extole.io
     * sleepnumber.extole.io
     * smartcu.extole.io
     * smashbox.extole.io
@@ -541,6 +542,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -595,6 +597,7 @@
     * wombat.extole.io
     * wrangler.extole.io
     * xfinity.extole.io
+    * xfinity.xtl.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
     * zenwork.extole.io
@@ -678,7 +681,6 @@
 | refer.barharbor.bank | barharbor.extole.io |
 | refer.barnandwillow.com | barnandwillow.extole.io |
 | share.shoptruespirit.com | barnes-and-noble-college.extole.io |
-| refer.basbleu.com | basbleu.extole.io |
 | share.basepaws.com | basepaws.extole.io |
 | refer.basictalk.com | basictalk-ssl.extole.com |
 | refer.batesfootwear.com | bates.extole.io |
@@ -758,6 +760,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -787,6 +790,7 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -957,6 +961,7 @@
 | refer.harryrosen.com | harryrosen.extole.io |
 | refer.hattiesburgamerican.com | hattiesburgamerican.extole.com |
 | share.havenwellwithin.com | havenwellwithin.extole.io |
+| referaprovider.headway.co | headway.extole.io |
 | share.findheadway.com | headway.extole.io |
 | refer.henribendel.com | henri-bendel.extole.io |
 | share.heydayskincare.com | heydayskincare.extole.io |
@@ -992,6 +997,7 @@
 | refer.jacksonsun.com | jacksonsun.extole.com |
 | share.jellybelly.com | jellybelly.extole.io |
 | refer.jewelersmutual.com | jewelersmutual.extole.io |
+| share.jhfcu.org | jhfcu.extole.io |
 | refer.joann.com | joann.extole.io |
 | refer.johnson.ca | johnson.extole.com |
 | refer.join1440.com | join1440.extole.io |
@@ -1225,7 +1231,6 @@
 | go.joinsizigi.com | sizigi.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
-| refer.skyone.org | skyone-federal-credit-union.extole.io |
 | refer.sleepnumber.com | sleepnumber.extole.io |
 | share.smartcu.org | smartcu.extole.io |
 | refer.smashbox.com | smashbox.extole.io |
@@ -1275,6 +1280,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1372,6 +1378,7 @@
 | referafriend.comcast.com | xfinity.extole.io |
 | referafriend.xfinity.com | xfinity.extole.io |
 | www.refer.xfinity.com | xfinity.extole.io |
+| xtl._domainkey.mail.propertyperks.xfinity.com | xfinity.xtl.extole.io |
 | xtl._domainkey.forgetrust.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.mail.propertyperks.xfinity.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |

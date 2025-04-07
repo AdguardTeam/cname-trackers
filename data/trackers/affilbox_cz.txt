@@ -178,7 +178,6 @@
 ||affiliate.jewstone.cz^
 ||affiliate.jidlojevasen.cz^
 ||affiliate.jiristibor.cz^
-||affiliate.ketofit.cz^
 ||affiliate.ketofit.sk^
 ||affiliate.krmivopropsy.cz^
 ||affiliate.kurzy-liecenia.sk^
@@ -278,6 +277,7 @@
 ||affiliate.velebny.cz^
 ||affiliate.vox.cz^
 ||affiliate.warriorfactory.cz^
+||affiliate.webium.cz^
 ||affiliate.wugi.cz^
 ||affiliate.xbx.cz^
 ||affiliate.zdraviafitness.cz^
@@ -380,7 +380,6 @@
 ||my.top4football.dk^
 ||my.top4football.es^
 ||my.top4football.fi^
-||my.top4football.fr^
 ||my.top4football.ie^
 ||my.top4football.nl^
 ||my.top4football.se^
@@ -578,6 +577,7 @@
 ||partner.goelite.club^
 ||partner.gokids.cz^
 ||partner.gr7.cz^
+||partner.grandstyl.cz^
 ||partner.greenbeast.vip^
 ||partner.gurufinance.cz^
 ||partner.hanamoneam.com^
@@ -726,6 +726,7 @@
 ||partner.santao.cz^
 ||partner.scilearn.cz^
 ||partner.scootshop.cz^
+||partner.semor.cz^
 ||partner.sielbeauty.cz^
 ||partner.simplymix.com^
 ||partner.skinnygirls.cz^

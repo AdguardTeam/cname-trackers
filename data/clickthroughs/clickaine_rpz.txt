@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,6 +33,7 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
+bat17.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.arcjav.com CNAME .
@@ -51,12 +52,9 @@ c8d.upde.cc CNAME .
 ca.findyourpussy.net CNAME .
 ca.infomix.best CNAME .
 cc.histoires-de-sexe-gratuites.com CNAME .
-cc.opowiadaniaerotyczne-darmowo.pl CNAME .
-cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
 cc.sexgeschichten-kostenlos.com CNAME .
 cc.sexgeschichten-xxx.com CNAME .
-cc.sexstories-xxx.com CNAME .
 cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
 cdn1.xvideohub.top CNAME .
@@ -76,14 +74,12 @@ clkn3.apostle.onl CNAME .
 clknrtrg.pro CNAME .
 cn4.animehdl.net CNAME .
 cn4.cheemsporn.com CNAME .
-cvk.supklik.com CNAME .
 cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dr1.piczlabs.com CNAME .
 dr3.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
-excavajo1.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 ge6.getfto.com CNAME .
@@ -121,6 +117,7 @@ s3.rtnews.pro CNAME .
 s4.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
 snow.snowdayonline.xyz CNAME .
+ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
 taco.sexreels.net CNAME .
 v040419.badjojo.com CNAME .

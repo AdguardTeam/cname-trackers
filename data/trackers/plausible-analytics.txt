@@ -190,7 +190,6 @@
 ||plausible.flowcv.io^
 ||plausible.getlean.digital^
 ||plausible.giveatip.io^
-||plausible.goldanger.de^
 ||plausible.golfbreaks.com^
 ||plausible.gryka.net^
 ||plausible.gymglish.com^
@@ -400,14 +399,12 @@
 ||stats.convaise.com^
 ||stats.corona-navi.de^
 ||stats.covid.vitordino.com^
-||stats.creativinn.com^
 ||stats.crema.fi^
 ||stats.cremashop.eu^
 ||stats.cremashop.se^
 ||stats.crewebo.de^
 ||stats.crypdit.com^
 ||stats.curbnumberpro.com^
-||stats.curtiscummings.me^
 ||stats.cymbiant.co.uk^
 ||stats.dailyposter.com^
 ||stats.danestevens.dev^
@@ -618,7 +615,6 @@
 ||stats.masterybits.com^
 ||stats.matthiasloibl.com^
 ||stats.maximaconsulting.xyz^
-||stats.mazlandscaping.com^
 ||stats.mein-futterlexikon.org^
 ||stats.memberdrive.org^
 ||stats.mesenvies.fr^
@@ -703,7 +699,6 @@
 ||stats.pri.org^
 ||stats.pricewell.io^
 ||stats.principedepaz.gt^
-||stats.print-io.de^
 ||stats.print.work^
 ||stats.processserver101.com^
 ||stats.procumeni.cz^
@@ -778,6 +773,7 @@
 ||stats.stacks.org^
 ||stats.staging.hex.pm^
 ||stats.staging.hexdocs.pm^
+||stats.starfish.team^
 ||stats.stephlow.audio^
 ||stats.steuer-soldaten.de^
 ||stats.strawberry.rocks^
@@ -830,6 +826,7 @@
 ||stats.useeffect.dev^
 ||stats.uxtools.co^
 ||stats.v4.agirpourlenvironnement.org^
+||stats.vali-pod.io^
 ||stats.vanityprojects.com^
 ||stats.vdsnow.ru^
 ||stats.vegamuze.be^
@@ -838,7 +835,6 @@
 ||stats.visions.ch^
 ||stats.voltimum.com^
 ||stats.wachstum.at^
-||stats.wafflemeido.art^
 ||stats.walkiees.co.uk^
 ||stats.warrantynowvoid.com^
 ||stats.websnap.app^

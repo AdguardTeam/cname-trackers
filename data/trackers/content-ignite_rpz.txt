@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,25 +25,19 @@ blackberry.basf.com CNAME .
 blackberry.suvinil.com.br CNAME .
 collect.aeonbank.co.jp CNAME .
 collect.asics.com CNAME .
-collect.calvinklein.be CNAME .
-collect.calvinklein.bg CNAME .
+collect.calvinklein.at CNAME .
+collect.calvinklein.ch CNAME .
 collect.calvinklein.co.uk CNAME .
-collect.calvinklein.com CNAME .
+collect.calvinklein.cz CNAME .
 collect.calvinklein.de CNAME .
-collect.calvinklein.dk CNAME .
-collect.calvinklein.ee CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
-collect.calvinklein.hu CNAME .
-collect.calvinklein.ie CNAME .
+collect.calvinklein.hr CNAME .
 collect.calvinklein.it CNAME .
-collect.calvinklein.lu CNAME .
 collect.calvinklein.lv CNAME .
-collect.calvinklein.nl CNAME .
 collect.calvinklein.pl CNAME .
 collect.calvinklein.pt CNAME .
-collect.calvinklein.se CNAME .
 collect.kinto-jp.com CNAME .
 collect.mtgec.jp CNAME .
 collect.oportun.com CNAME .
@@ -98,6 +92,7 @@ t.powerequipmentdirect.com CNAME .
 t.pressurewashersdirect.com CNAME .
 t.sumppumpsdirect.com CNAME .
 t.waterpumpsdirect.com CNAME .
+tag.bi.serviceplan.com CNAME .
 tagdelivery.mayoclinic.org CNAME .
 tags.3m.co.cr CNAME .
 tags.3m.com.hk CNAME .
@@ -154,6 +149,7 @@ tags.calvinklein.hu CNAME .
 tags.calvinklein.ie CNAME .
 tags.calvinklein.it CNAME .
 tags.calvinklein.lt CNAME .
+tags.calvinklein.lu CNAME .
 tags.calvinklein.lv CNAME .
 tags.calvinklein.nl CNAME .
 tags.calvinklein.pl CNAME .
@@ -227,6 +223,7 @@ tags.ozodi.org CNAME .
 tags.ozodlik.org CNAME .
 tags.partenamut.be CNAME .
 tags.pashtovoa.com CNAME .
+tags.peek-cloppenburg.nl CNAME .
 tags.pepperl-fuchs.com CNAME .
 tags.pocruises.com.au CNAME .
 tags.propertyfinder.ae CNAME .
@@ -338,6 +335,7 @@ tccd.niche-beauty.com CNAME .
 tccd.nocibe.fr CNAME .
 tccd.parfumdreams.de CNAME .
 teal.cdt.santander.com.co CNAME .
+teal.openbank.com.ar CNAME .
 teal.openbank.de CNAME .
 teal.openbank.es CNAME .
 teal.openbank.mx CNAME .
@@ -429,17 +427,20 @@ webtags.logitech.com CNAME .
 webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
 collect.ansons.de CNAME .
-collect.calvinklein.at CNAME .
-collect.calvinklein.ch CNAME .
-collect.calvinklein.cz CNAME .
-collect.calvinklein.hr CNAME .
+collect.calvinklein.be CNAME .
+collect.calvinklein.bg CNAME .
+collect.calvinklein.com CNAME .
+collect.calvinklein.dk CNAME .
+collect.calvinklein.ee CNAME .
+collect.calvinklein.hu CNAME .
+collect.calvinklein.ie CNAME .
 collect.calvinklein.lt CNAME .
+collect.calvinklein.lu CNAME .
+collect.calvinklein.nl CNAME .
+collect.calvinklein.se CNAME .
 collect.calvinklein.si CNAME .
 collect.calvinklein.sk CNAME .
 collect.fancl.co.jp CNAME .
-tag.bi.serviceplan.com CNAME .
-tags.calvinklein.lu CNAME .
-tags.peek-cloppenburg.nl CNAME .
 tags.sixpad.jp CNAME .
 view.ansons.de CNAME .
 view.peek-cloppenburg.de CNAME .

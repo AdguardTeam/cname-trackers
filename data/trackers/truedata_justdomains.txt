@@ -5,6 +5,7 @@ td.bicycling.com
 td.caranddriver.com
 td.cosmopolitan.com
 td.countryliving.com
+td.deepsync.com
 td.delish.com
 td.elle.com
 td.elledecor.com

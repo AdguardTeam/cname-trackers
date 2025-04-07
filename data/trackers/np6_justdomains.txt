@@ -265,6 +265,7 @@ tr.contact.canalplus.fr
 tr.contact.canalsat.fr
 tr.contact.cerel.net
 tr.contact.cereps.fr
+tr.contact.companeo.com
 tr.contact.e-turf.fr
 tr.contact.henner.com
 tr.contact.lvmh.fr
@@ -547,6 +548,7 @@ tr.info.webikeo.fr
 tr.infolettre.securite-routiere.gouv.fr
 tr.infolettres.groupama.com
 tr.infomarche.hennessy.fr
+tr.information-clients.intersport.fr
 tr.information.cchezvous.fr
 tr.information.fidalformations.fr
 tr.information.labelleadresse.com
@@ -883,6 +885,7 @@ tr.news.smartdealstransavia-fr.com
 tr.news.sport2000.fr
 tr.news.supercasino.fr
 tr.news.teklifim.pro
+tr.news.tf1licences.com
 tr.news.thelist-emirates.fr
 tr.news.themedtechforum.eu
 tr.news.toocampmail.com

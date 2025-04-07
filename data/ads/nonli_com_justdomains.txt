@@ -21,6 +21,7 @@ l.750g.com
 l.actu.fr
 l.africabusinessplus.com
 l.africanews.com
+l.africaradio.com
 l.aisnenouvelle.fr
 l.allocine.fr
 l.alternatives-economiques.fr
@@ -57,6 +58,8 @@ l.dna.fr
 l.doctissimo.fr
 l.dzfoot.com
 l.easyvoyage.com
+l.echoancenis.fr
+l.echoduberry.fr
 l.enfant.com
 l.enfemenino.com
 l.entrenous.fr
@@ -87,6 +90,7 @@ l.gentside.de
 l.geo.fr
 l.grazia.fr
 l.harpersbazaar.fr
+l.hautanjou.fr
 l.heidi.news
 l.humanite.fr
 l.ici.fr
@@ -98,14 +102,18 @@ l.koolmag.fr
 l.lacremedugaming.fr
 l.ladepeche.fr
 l.lalsace.fr
+l.lamanchelibre.fr
 l.lanouvellerepublique.fr
 l.laprovence.com
 l.lardennais.fr
+l.larenaissancehebdo.fr
 l.larepubliquedespyrenees.fr
 l.latribune.fr
 l.lavoixdunord.fr
 l.le10sport.com
 l.lechasseurfrancais.com
+l.lecourriercauchois.fr
+l.lecourrierdelamayenne.fr
 l.ledauphine.com
 l.lefigaro.fr
 l.lejournaldelamaison.fr
@@ -125,6 +133,7 @@ l.lunion.fr
 l.madmoizelle.com
 l.maison-travaux.fr
 l.mariefrance.fr
+l.marmiton.org
 l.marsactu.fr
 l.maxisciences.com
 l.mediapart.fr
@@ -174,6 +183,7 @@ l.sports.fr
 l.sudinfo.be
 l.sudouest.fr
 l.telestar.fr
+l.tendanceouest.com
 l.terrafemina.com
 l.tf1.fr
 l.tf1info.fr
@@ -193,6 +203,7 @@ on.qobuz.com
 poc.warnerbros.fr
 prod-1.moarty.com
 prod-3.moarty.com
+social.agrodistribution.fr
 social.eleveur-laitier.fr
 social.lafranceagricole.fr
 sur.corsematin.com

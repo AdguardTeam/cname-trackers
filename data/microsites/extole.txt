@@ -126,7 +126,10 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
+||em225.codecademy.com^
+||em2287.theory.com^
 ||em7147.love.suncoastcreditunion.com^
+||em7952.dailypay.com^
 ||em8928.em.petco.com^
 ||em924.refer.starbucks.com^
 ||externalreferral.freshworks.com^
@@ -183,7 +186,6 @@
 ||refer.bareminerals.uk^
 ||refer.barharbor.bank^
 ||refer.barnandwillow.com^
-||refer.basbleu.com^
 ||refer.batesfootwear.com^
 ||refer.bathandbodyworks.com^
 ||refer.baxterofcalifornia.com^
@@ -365,7 +367,6 @@
 ||refer.sharkclean.com^
 ||refer.shuuemuraartofhair-usa.com^
 ||refer.skinceuticals.com^
-||refer.skyone.org^
 ||refer.sleepnumber.com^
 ||refer.smashbox.com^
 ||refer.snapfinance.com^
@@ -428,6 +429,7 @@
 ||referafriend.comcast.com^
 ||referafriend.discover.com^
 ||referafriend.xfinity.com^
+||referaprovider.headway.co^
 ||referavet.petco.com^
 ||referral.ammunitiondepot.com^
 ||referral.bluehost.com^
@@ -579,6 +581,7 @@
 ||share.iteach.net^
 ||share.jacksonsun.com^
 ||share.jellybelly.com^
+||share.jhfcu.org^
 ||share.jsonline.com^
 ||share.juicepress.com^
 ||share.juvlabs.com^
@@ -756,16 +759,13 @@
 ||www.referquickbooks.com^
 ||www.rob.extoleu.com^
 ||www.styleitforwardreward.com^
+||xtl._domainkey.mail.propertyperks.xfinity.com^
 ||em1476.princesscruises.com^
-||em225.codecademy.com^
-||em2287.theory.com^
 ||em4367.raf-studentloans.discover.com^
 ||em5231.mail.propertyperks.xfinity.com^
 ||em767.forgetrust.com^
-||em7952.dailypay.com^
 ||em8561.go2bank.com^
 ||em9523.walmartmoneycard.com^
 ||emxxxx.rent.app^
 ||xtl._domainkey.forgetrust.com^
-||xtl._domainkey.mail.propertyperks.xfinity.com^
 ||sftp.extole.com^

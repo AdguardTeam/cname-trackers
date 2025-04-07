@@ -20,11 +20,8 @@
     * aud-banque-france-fr-cddc.at-o.net
     * avocado-laprovence-com-cddc.at-o.net
     * avp-labanquepostale-fr-cddc.at-o.net
-    * blava-viessmann-sk-cddc.at-o.net
-    * brickworks-viessmann-sg-cddc.at-o.net
     * buf-lemonde-fr-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
-    * checkpointcharlie-heizung-de-cddc.at-o.net
     * chihiro-nostalgie-fr-cddc.at-o.net
     * col-casa-it-cddc.at-o.net
     * col-idealista-com-cddc.at-o.net
@@ -32,9 +29,7 @@
     * col-idealista-pt-cddc.at-o.net
     * col-rentalia-com-cddc.at-o.net
     * collect-meilleurtaux-com-cddc.at-o.net
-    * conimicutlighthouse-viessmann-us-com-cddc.at-o.net
     * content-kleinezeitung-at-cddc.at-o.net
-    * crocetta-viessmann-it-cddc.at-o.net
     * culture-intermedes-com-cddc.at-o.net
     * d-deloitte-fr-cddc.at-o.net
     * d-m-net-de-cddc.at-o.net
@@ -45,28 +40,21 @@
     * dfr-deloitte-com-cddc.at-o.net
     * digitalninjas-vattenfall-nl-cddc.at-o.net
     * dimensions-mappy-com-cddc.at-o.net
-    * donjigrad-viessmann-rs-cddc.at-o.net
-    * drau-viessmann-si-cddc.at-o.net
     * epwa-europarl-europa-eu-cddc.at-o.net
     * fabryczna-viessmann-pl-cddc.at-o.net
-    * faucons-viessmann-fr-cddc.at-o.net
     * hal-courrierinternational-com-cddc.at-o.net
     * hd-pe-fr-cddc.at-o.net
     * hmg-handelsblatt-com-cddc.at-o.net
     * hmg-wiwo-de-cddc.at-o.net
-    * hrbitov-viessmann-cz-cddc.at-o.net
     * image-ard-de-cddc.at-o.net
     * image-mdr-de-cddc.at-o.net
     * images-kika-de-cddc.at-o.net
     * insights-biallo-de-cddc.at-o.net
     * insights-sport1-de-cddc.at-o.net
     * johannes-voith-com-cddc.at-o.net
-    * kallerupstone-viessmann-dk-cddc.at-o.net
     * kiki-rireetchansons-fr-cddc.at-o.net
-    * kistacity-viessmann-se-cddc.at-o.net
     * lem-nouvelobs-com-cddc.at-o.net
     * leo-goplay-be-cddc.at-o.net
-    * mediniku-viessmann-lt-cddc.at-o.net
     * mefo1-zdf-de-cddc.at-o.net
     * mkt-usz-ch-cddc.at-o.net
     * montpalatin-handicap-fr-cddc.at-o.net
@@ -93,30 +81,16 @@
     * ressources-usine-digitale-com-cddc.at-o.net
     * ressources-usine-nouvelle-com-cddc.at-o.net
     * rsc-lepoint-fr-cddc.at-o.net
-    * salzwerk-viessmann-de-cddc.at-o.net
-    * selvi-viessmann-com-tr-cddc.at-o.net
-    * severn-viessmann-co-uk-cddc.at-o.net
     * sheeta-nrj-play-fr-cddc.at-o.net
-    * slotcapelle-viessmann-nl-cddc.at-o.net
     * st1-lg-avendrealouer-fr-cddc.at-o.net
-    * steinbackhaus-viessmann-com-cddc.at-o.net
-    * steinernehaus-viessmann-at-cddc.at-o.net
-    * steinsala-viessmann-lu-cddc.at-o.net
     * stiwa-test-de-cddc.at-o.net
     * strawberry-basf-com-cddc.at-o.net
     * tm-urssaf-fr-cddc.at-o.net
     * tm-urssaf-org-cddc.at-o.net
-    * torropinto-viessmann-es-cddc.at-o.net
     * tse-telerama-fr-cddc.at-o.net
-    * uusimaa-viessmann-fi-cddc.at-o.net
     * waati-quechoisir-org-cddc.at-o.net
     * wareneingang-edeka-de-cddc.at-o.net
-    * wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net
-    * waterlooberlin-viessmann-ca-cddc.at-o.net
-    * woodstock-viessmann-com-au-cddc.at-o.net
     * y1-arte-tv-cddc.at-o.net
-    * zagrabiti-viessmann-hr-cddc.at-o.net
-    * zaventemdijleland-viessmann-be-cddc.at-o.net
     * zelten-fritz-berger-de-cddc.at-o.net
     * zug-sbb-ch-cddc.at-o.net
 
@@ -142,11 +116,8 @@
 | aud.banque-france.fr | aud-banque-france-fr-cddc.at-o.net |
 | avocado.laprovence.com | avocado-laprovence-com-cddc.at-o.net |
 | avp.labanquepostale.fr | avp-labanquepostale-fr-cddc.at-o.net |
-| blava.viessmann.sk | blava-viessmann-sk-cddc.at-o.net |
-| brickworks.viessmann.sg | brickworks-viessmann-sg-cddc.at-o.net |
 | buf.lemonde.fr | buf-lemonde-fr-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
-| checkpointcharlie.heizung.de | checkpointcharlie-heizung-de-cddc.at-o.net |
 | chihiro.nostalgie.fr | chihiro-nostalgie-fr-cddc.at-o.net |
 | col.casa.it | col-casa-it-cddc.at-o.net |
 | col.idealista.com | col-idealista-com-cddc.at-o.net |
@@ -154,9 +125,7 @@
 | col.idealista.pt | col-idealista-pt-cddc.at-o.net |
 | col.rentalia.com | col-rentalia-com-cddc.at-o.net |
 | collect.meilleurtaux.com | collect-meilleurtaux-com-cddc.at-o.net |
-| conimicutlighthouse.viessmann-us.com | conimicutlighthouse-viessmann-us-com-cddc.at-o.net |
 | content.kleinezeitung.at | content-kleinezeitung-at-cddc.at-o.net |
-| crocetta.viessmann.it | crocetta-viessmann-it-cddc.at-o.net |
 | culture.intermedes.com | culture-intermedes-com-cddc.at-o.net |
 | d.deloitte.fr | d-deloitte-fr-cddc.at-o.net |
 | d.m-net.de | d-m-net-de-cddc.at-o.net |
@@ -167,28 +136,21 @@
 | dfr.deloitte.com | dfr-deloitte-com-cddc.at-o.net |
 | digitalninjas.vattenfall.nl | digitalninjas-vattenfall-nl-cddc.at-o.net |
 | dimensions.mappy.com | dimensions-mappy-com-cddc.at-o.net |
-| donjigrad.viessmann.rs | donjigrad-viessmann-rs-cddc.at-o.net |
-| drau.viessmann.si | drau-viessmann-si-cddc.at-o.net |
 | epwa.europarl.europa.eu | epwa-europarl-europa-eu-cddc.at-o.net |
 | fabryczna.viessmann.pl | fabryczna-viessmann-pl-cddc.at-o.net |
-| faucons.viessmann.fr | faucons-viessmann-fr-cddc.at-o.net |
 | hal.courrierinternational.com | hal-courrierinternational-com-cddc.at-o.net |
 | hd.pe.fr | hd-pe-fr-cddc.at-o.net |
 | hmg.handelsblatt.com | hmg-handelsblatt-com-cddc.at-o.net |
 | hmg.wiwo.de | hmg-wiwo-de-cddc.at-o.net |
-| hrbitov.viessmann.cz | hrbitov-viessmann-cz-cddc.at-o.net |
 | image.ard.de | image-ard-de-cddc.at-o.net |
 | image.mdr.de | image-mdr-de-cddc.at-o.net |
 | images.kika.de | images-kika-de-cddc.at-o.net |
 | insights.biallo.de | insights-biallo-de-cddc.at-o.net |
 | insights.sport1.de | insights-sport1-de-cddc.at-o.net |
 | johannes.voith.com | johannes-voith-com-cddc.at-o.net |
-| kallerupstone.viessmann.dk | kallerupstone-viessmann-dk-cddc.at-o.net |
 | kiki.rireetchansons.fr | kiki-rireetchansons-fr-cddc.at-o.net |
-| kistacity.viessmann.se | kistacity-viessmann-se-cddc.at-o.net |
 | lem.nouvelobs.com | lem-nouvelobs-com-cddc.at-o.net |
 | leo.goplay.be | leo-goplay-be-cddc.at-o.net |
-| mediniku.viessmann.lt | mediniku-viessmann-lt-cddc.at-o.net |
 | mefo1.zdf.de | mefo1-zdf-de-cddc.at-o.net |
 | mkt.usz.ch | mkt-usz-ch-cddc.at-o.net |
 | montpalatin.handicap.fr | montpalatin-handicap-fr-cddc.at-o.net |
@@ -215,30 +177,16 @@
 | ressources.usine-digitale.com | ressources-usine-digitale-com-cddc.at-o.net |
 | ressources.usine-nouvelle.com | ressources-usine-nouvelle-com-cddc.at-o.net |
 | rsc.lepoint.fr | rsc-lepoint-fr-cddc.at-o.net |
-| salzwerk.viessmann.de | salzwerk-viessmann-de-cddc.at-o.net |
-| selvi.viessmann.com.tr | selvi-viessmann-com-tr-cddc.at-o.net |
-| severn.viessmann.co.uk | severn-viessmann-co-uk-cddc.at-o.net |
 | sheeta.nrj-play.fr | sheeta-nrj-play-fr-cddc.at-o.net |
-| slotcapelle.viessmann.nl | slotcapelle-viessmann-nl-cddc.at-o.net |
 | st1.lg.avendrealouer.fr | st1-lg-avendrealouer-fr-cddc.at-o.net |
-| steinbackhaus.viessmann.com | steinbackhaus-viessmann-com-cddc.at-o.net |
-| steinernehaus.viessmann.at | steinernehaus-viessmann-at-cddc.at-o.net |
-| steinsala.viessmann.lu | steinsala-viessmann-lu-cddc.at-o.net |
 | stiwa.test.de | stiwa-test-de-cddc.at-o.net |
 | strawberry.basf.com | strawberry-basf-com-cddc.at-o.net |
 | www.strawberry.basf.com | strawberry-basf-com-cddc.at-o.net |
 | tm.urssaf.fr | tm-urssaf-fr-cddc.at-o.net |
 | tm.urssaf.org | tm-urssaf-org-cddc.at-o.net |
-| torropinto.viessmann.es | torropinto-viessmann-es-cddc.at-o.net |
 | tse.telerama.fr | tse-telerama-fr-cddc.at-o.net |
-| uusimaa.viessmann.fi | uusimaa-viessmann-fi-cddc.at-o.net |
 | waati.quechoisir.org | waati-quechoisir-org-cddc.at-o.net |
 | wareneingang.edeka.de | wareneingang-edeka-de-cddc.at-o.net |
-| wasserkraftwerkkessel.viessmann.ch | wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net |
-| waterlooberlin.viessmann.ca | waterlooberlin-viessmann-ca-cddc.at-o.net |
-| woodstock.viessmann.com.au | woodstock-viessmann-com-au-cddc.at-o.net |
 | y1.arte.tv | y1-arte-tv-cddc.at-o.net |
-| zagrabiti.viessmann.hr | zagrabiti-viessmann-hr-cddc.at-o.net |
-| zaventemdijleland.viessmann.be | zaventemdijleland-viessmann-be-cddc.at-o.net |
 | zelten.fritz-berger.de | zelten-fritz-berger-de-cddc.at-o.net |
 | zug.sbb.ch | zug-sbb-ch-cddc.at-o.net |

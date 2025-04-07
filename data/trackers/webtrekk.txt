@@ -346,6 +346,9 @@
 ||web.online.monnalisa.com^
 ||web.pondenhome-mail.com^
 ||web.post.toa.st^
+||web.powgen.at^
+||web.powgen.cz^
+||web.powgen.es^
 ||web.powgen.it^
 ||web.redazione.italiaoggi.it^
 ||web.redazione.milanofinanza.it^
@@ -368,7 +371,6 @@
 ||web.sidsavage.com^
 ||web.slimjoy.com^
 ||web.slimjoy.cz^
-||web.slimjoy.dk^
 ||web.slimjoy.es^
 ||web.slimjoy.it^
 ||web.slimjoy.org^

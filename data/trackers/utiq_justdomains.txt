@@ -4,6 +4,8 @@ a1at.mno.link
 bob-a1at.mno.link
 esca-test.mno.link
 esca.mno.link
+fakexa-post.mno.link
+logger-test.mno.link
 o2de.mno.link
 orangefr-test.mno.link
 orangefr.mno.link
@@ -92,6 +94,7 @@ utiq.duden.de
 utiq.easyvoyage.com
 utiq.eatbetter.de
 utiq.einbuergerungstest-online.de
+utiq.einbuergerungstest-online.eu
 utiq.einfach-tasty.de
 utiq.einfachkochen.de
 utiq.elcomercio.es
@@ -196,6 +199,7 @@ utiq.lexpress.fr
 utiq.liberation-champagne.fr
 utiq.lidl.de
 utiq.lindependant.fr
+utiq.listisima.com
 utiq.lne.es
 utiq.lunion.fr
 utiq.madmoizelle.com
@@ -203,19 +207,25 @@ utiq.maennerseite.net
 utiq.mahou.es
 utiq.maison-travaux.fr
 utiq.mallorcazeitung.es
+utiq.manga-viewer.com
 utiq.mappy.com
+utiq.mappyrecette.com
 utiq.marca.com
 utiq.mariefrance.fr
 utiq.marmiton.org
 utiq.meine-anzeigenzeitung.de
 utiq.mejorconectados.com
 utiq.merkur.de
+utiq.meteoconsult.es
 utiq.metodomontessori.com
 utiq.midilibre.fr
 utiq.millenium.gg
 utiq.millenium.org
 utiq.mittelbayerische.de
+utiq.mno.link
+utiq.mobilite-verte.com
 utiq.modesettravaux.fr
+utiq.moin.de
 utiq.monacomatin.mc
 utiq.mopo.de
 utiq.motor-talk.de
@@ -264,6 +274,7 @@ utiq.salamancahoy.es
 utiq.sauerlandkurier.de
 utiq.schlager.de
 utiq.science-et-vie.com
+utiq.semana.es
 utiq.sensacine.com
 utiq.serienjunkies.de
 utiq.sevilla.abc.es
@@ -275,7 +286,9 @@ utiq.spielaffe.de
 utiq.sport.es
 utiq.sportlerfrage.net
 utiq.sports.fr
+utiq.staging--hb.hmg.systems
 utiq.staging--wiwo.hmg.systems
+utiq.stilo.es
 utiq.stimme.de
 utiq.stylebook.de
 utiq.sudouest.fr
@@ -300,6 +313,7 @@ utiq.tvspielfilm.de
 utiq.tz.de
 utiq.usinger-anzeiger.de
 utiq.utest1-prod.work
+utiq.utest2-prod.work
 utiq.utest2.work
 utiq.utest3-prod.work
 utiq.utest3.work

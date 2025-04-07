@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 a.50-nuances-octets.fr CNAME .
 anal.sataniskwijt.be CNAME .
+analytics.applycreatures.com CNAME .
 analytics.astuto.io CNAME .
 analytics.bytewave.net CNAME .
 analytics.code.dccouncil.gov CNAME .
@@ -40,6 +41,7 @@ count.andreabrandi.com CNAME .
 count.kealper.com CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
+dot-com-stats.sladewatkins.net CNAME .
 gc.gayqing.com CNAME .
 gc.his2nd.life CNAME .
 gc.miluchacontraeltabaco.com CNAME .
@@ -94,9 +96,9 @@ stats.coderscompass.org CNAME .
 stats.crosshair.dev CNAME .
 stats.dalinwilliams.com CNAME .
 stats.dandelion.computer CNAME .
-stats.doarpstsjerke.nl CNAME .
 stats.eithel.org CNAME .
 stats.fieald.com CNAME .
+stats.forest-school.am CNAME .
 stats.gopikrishna.dev CNAME .
 stats.haseebmajid.dev CNAME .
 stats.hdyar.com CNAME .
@@ -138,6 +140,7 @@ stats.sofianlak.fr CNAME .
 stats.svc.lol CNAME .
 stats.tdurand.com CNAME .
 stats.timothechau.vet CNAME .
+stats.tinkerer.tools CNAME .
 stats.trainsley69.me CNAME .
 stats.umcconnell.net CNAME .
 stats.w0chp.radio CNAME .

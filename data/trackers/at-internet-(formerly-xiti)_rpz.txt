@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,11 +29,8 @@ ati.sazka.cz CNAME .
 aud.banque-france.fr CNAME .
 avocado.laprovence.com CNAME .
 avp.labanquepostale.fr CNAME .
-blava.viessmann.sk CNAME .
-brickworks.viessmann.sg CNAME .
 buf.lemonde.fr CNAME .
 c0012.brsimg.com CNAME .
-checkpointcharlie.heizung.de CNAME .
 chihiro.nostalgie.fr CNAME .
 col.casa.it CNAME .
 col.idealista.com CNAME .
@@ -41,9 +38,7 @@ col.idealista.it CNAME .
 col.idealista.pt CNAME .
 col.rentalia.com CNAME .
 collect.meilleurtaux.com CNAME .
-conimicutlighthouse.viessmann-us.com CNAME .
 content.kleinezeitung.at CNAME .
-crocetta.viessmann.it CNAME .
 culture.intermedes.com CNAME .
 d.deloitte.fr CNAME .
 d.m-net.de CNAME .
@@ -54,28 +49,21 @@ da.rabobank.nl CNAME .
 dfr.deloitte.com CNAME .
 digitalninjas.vattenfall.nl CNAME .
 dimensions.mappy.com CNAME .
-donjigrad.viessmann.rs CNAME .
-drau.viessmann.si CNAME .
 epwa.europarl.europa.eu CNAME .
 fabryczna.viessmann.pl CNAME .
-faucons.viessmann.fr CNAME .
 hal.courrierinternational.com CNAME .
 hd.pe.fr CNAME .
 hmg.handelsblatt.com CNAME .
 hmg.wiwo.de CNAME .
-hrbitov.viessmann.cz CNAME .
 image.ard.de CNAME .
 image.mdr.de CNAME .
 images.kika.de CNAME .
 insights.biallo.de CNAME .
 insights.sport1.de CNAME .
 johannes.voith.com CNAME .
-kallerupstone.viessmann.dk CNAME .
 kiki.rireetchansons.fr CNAME .
-kistacity.viessmann.se CNAME .
 lem.nouvelobs.com CNAME .
 leo.goplay.be CNAME .
-mediniku.viessmann.lt CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 montpalatin.handicap.fr CNAME .
@@ -102,30 +90,16 @@ ressources.promoneuve.fr CNAME .
 ressources.usine-digitale.com CNAME .
 ressources.usine-nouvelle.com CNAME .
 rsc.lepoint.fr CNAME .
-salzwerk.viessmann.de CNAME .
-selvi.viessmann.com.tr CNAME .
-severn.viessmann.co.uk CNAME .
 sheeta.nrj-play.fr CNAME .
-slotcapelle.viessmann.nl CNAME .
 st1.lg.avendrealouer.fr CNAME .
-steinbackhaus.viessmann.com CNAME .
-steinernehaus.viessmann.at CNAME .
-steinsala.viessmann.lu CNAME .
 stiwa.test.de CNAME .
 strawberry.basf.com CNAME .
 tm.urssaf.fr CNAME .
 tm.urssaf.org CNAME .
-torropinto.viessmann.es CNAME .
 tse.telerama.fr CNAME .
-uusimaa.viessmann.fi CNAME .
 waati.quechoisir.org CNAME .
 wareneingang.edeka.de CNAME .
-wasserkraftwerkkessel.viessmann.ch CNAME .
-waterlooberlin.viessmann.ca CNAME .
-woodstock.viessmann.com.au CNAME .
 www.strawberry.basf.com CNAME .
 y1.arte.tv CNAME .
-zagrabiti.viessmann.hr CNAME .
-zaventemdijleland.viessmann.be CNAME .
 zelten.fritz-berger.de CNAME .
 zug.sbb.ch CNAME .

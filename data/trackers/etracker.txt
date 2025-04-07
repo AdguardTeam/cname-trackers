@@ -16,12 +16,14 @@
 ||controlling.bartenbach.de^
 ||ct.krauss.app^
 ||ctrl.guenther.de^
+||data.diekuechedirekt.de^
 ||data.drhauschka.de^
 ||data.juhu.auto^
 ||data.moebel-style.de^
 ||data.uk.kutchenhaus.com^
 ||defabc.black-label-coffee.de^
 ||dts.suchmeisterei.de^
+||e.heimat.style^
 ||e.mediherz-shop.de^
 ||e.medikamente-per-klick.de^
 ||e.preisapo.de^
@@ -36,6 +38,7 @@
 ||et.electronic4you.si^
 ||et.goal-based.investments^
 ||et.lavita.com^
+||et.lioran.de^
 ||et.majdic.at^
 ||et.pns24.de^
 ||et.schindlerparent.de^
@@ -105,6 +108,8 @@
 ||stats.wasserfilteroase.de^
 ||stats.wienerjobs.at^
 ||sun.solar-haus.de^
+||t.canngo.express^
+||track.bauwirtschaft-bw.de^
 ||track.dictum-gartenwerkzeug.de^
 ||track.dictum-handwerksgalerie.de^
 ||track.dictum-shop.de^
@@ -116,6 +121,7 @@
 ||tracking.terrassenhof.de^
 ||trkkr.bugatti-media.com^
 ||trkkr.bugatti-newsroom.com^
+||uezeus.ueberbit.de^
 ||wa.ostermann.eu^
 ||waet.datalogue.de^
 ||wctr.hh-klebetechnologie.de^

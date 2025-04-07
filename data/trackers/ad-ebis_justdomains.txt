@@ -53,7 +53,6 @@ adebis.bbb-life.jp
 adebis.beautiful-voyager.com
 adebis.blackboard60s.com
 adebis.chojyu.com
-adebis.crowdcredit.jp
 adebis.curilla.jp
 adebis.daiwahouse.co.jp
 adebis.demae-can.com
@@ -178,6 +177,7 @@ cnameforitp.dermed.jp
 corporate.frontierconsul.net
 cs0008sbeda.enzyme-supply.com
 cs0008sbeda.moromi-koso-c.com
+cs0008sbeda.moromi-koso.com
 cs0010sbeda.theory-clinic.com
 cs0010sbeda.theory-diet.com
 cs0010sbeda.theory-kumatarumi.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -297,6 +297,7 @@ content.familyprepaiddebit.com CNAME .
 content.fig.ca CNAME .
 content.firstinterstatebank.com CNAME .
 content.fisglobal.com CNAME .
+content.floa.com CNAME .
 content.floridarentals.com CNAME .
 content.frs.fl.gov CNAME .
 content.gap.com CNAME .
@@ -420,19 +421,16 @@ content22.bancanetempresarial.banamex.com.mx CNAME .
 content22.bmo.com CNAME .
 content22.bmoharris.com CNAME .
 content22.citi.com CNAME .
-content22.citi.eu CNAME .
 content22.citibank.ae CNAME .
 content22.citibank.co.id CNAME .
 content22.citibank.co.in CNAME .
 content22.citibank.com CNAME .
 content22.citibank.com.au CNAME .
-content22.citibank.com.cn CNAME .
 content22.citibank.com.hk CNAME .
 content22.citibank.com.sg CNAME .
 content22.citibank.com.tw CNAME .
 content22.citibank.com.vn CNAME .
 content22.citibank.pl CNAME .
-content22.citibank.ru CNAME .
 content22.citibankonline.com CNAME .
 content22.citicards.com CNAME .
 content22.citiretailservices.com CNAME .

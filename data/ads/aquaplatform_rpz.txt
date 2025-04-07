@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ adconsole.kozoom.com CNAME .
 adconsole.lot-tissimo.com CNAME .
 adconsole.proxibid.com CNAME .
 adconsole.sniffies.com CNAME .
+addurance-delivery.reviveservers.com CNAME .
 adimages.eva.live CNAME .
 adimages.sniffies.com CNAME .
 ads-console.recon.com CNAME .
@@ -62,6 +63,7 @@ banners.cincinnatimagazine.com CNAME .
 banners.geminipub.com CNAME .
 banners.leightonbroadcasting.com CNAME .
 banners.orangecoast.com CNAME .
+brandmovers-delivery.reviveservers.com CNAME .
 by.addrecipes.com CNAME .
 cdn-adv.unionesarda.it CNAME .
 cdn.adspmg.com CNAME .
@@ -224,6 +226,7 @@ tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
 webtool-delivery.reviveservers.com CNAME .
 www.adconsole.proxibid.com CNAME .
+www.adimages.infotorg.se CNAME .
 www.ads.environmentalleader.com CNAME .
 www.ads.proxibid.com CNAME .
 www.adserver.sniffies.com CNAME .

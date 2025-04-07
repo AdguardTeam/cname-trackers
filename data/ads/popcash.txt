@@ -208,7 +208,6 @@
 ||aphid.nihilnegativum.com^
 ||aphid.polarcop.com^
 ||aphid.smartjournal.no^
-||aphid.thyself.me^
 ||armadillo.axeneo7.qc.ca^
 ||armadillo.oceandecadenortheastpacific.org^
 ||armadillo.superpeak.dk^
@@ -315,7 +314,6 @@
 ||catfish.phuclh.com^
 ||catfish.pressure.cooking^
 ||catfish.sofatido.ch^
-||catshark.janetalexandersson.com^
 ||catshark.jimmyaldape.dev^
 ||catshark.spur.design^
 ||cattle.apisyouwonthate.com^
@@ -481,7 +479,6 @@
 ||flamingo.stacking-club.com^
 ||flea.elbertsnaturalfoods.com^
 ||flea.welikeoliver.com^
-||fly.foggybottomfarm.org^
 ||flyingfish.editorslab.de^
 ||flyingfish.whoisrepresented.org^
 ||fowl.saulhardman.com^
@@ -628,6 +625,7 @@
 ||koi.henrydennis.dev^
 ||koi.lkae.dev^
 ||koi.vyer.com^
+||krill.far.dev^
 ||krill.far.site^
 ||krill.spoonrage.com^
 ||krill.swiss-uke.ch^
@@ -1045,6 +1043,7 @@
 ||turtle.mushtache.com^
 ||turtle.mydataroom.io^
 ||turtle.olivier.cx^
+||turtle.sid.scot^
 ||uktgg.dev-tester.com^
 ||vampirebat.datingmedellin.com^
 ||vampirebat.febolos.es^

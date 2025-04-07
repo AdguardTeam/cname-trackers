@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,7 @@ td.bicycling.com CNAME .
 td.caranddriver.com CNAME .
 td.cosmopolitan.com CNAME .
 td.countryliving.com CNAME .
+td.deepsync.com CNAME .
 td.delish.com CNAME .
 td.elle.com CNAME .
 td.elledecor.com CNAME .

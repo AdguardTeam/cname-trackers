@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1220,9 +1220,8 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
-a.18ramp.com CNAME .
+a.344eva.com CNAME .
 a.advantageclicks.net CNAME .
-a.asvsm.com CNAME .
 a.b7q9v8z.com CNAME .
 a.cant3am.com CNAME .
 a.eunow4u.com CNAME .
@@ -1234,6 +1233,7 @@ a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
+a.r8lnet.com CNAME .
 a.santabrowser.com CNAME .
 a.tf4srv.com CNAME .
 a.traffic-gold.com CNAME .
@@ -1257,6 +1257,7 @@ admin1.notifysrv.com CNAME .
 administration.notifysrv.com CNAME .
 admissions.notifysrv.com CNAME .
 adrepository.opoxv.com CNAME .
+ads.optimizesrv.com CNAME .
 ads.toroadvertising.com CNAME .
 adult.notifysrv.com CNAME .
 android.notifysrv.com CNAME .
@@ -1370,6 +1371,9 @@ s.dsfvuh.com CNAME .
 s.dsgsyp.com CNAME .
 s.dsonb4.com CNAME .
 s.dsqcjk.com CNAME .
+s.dss1bi.com CNAME .
+s.dsskyw.com CNAME .
+s.dsssnr.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
@@ -1631,12 +1635,11 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
-a.344eva.com CNAME .
+a.18ramp.com CNAME .
 a.adsession.com CNAME .
 a.advertrek.com CNAME .
+a.asvsm.com CNAME .
 a.bizonads-ssp.com CNAME .
 a.etology.com CNAME .
 a.ouzads.com CNAME .
-a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
-ads.optimizesrv.com CNAME .

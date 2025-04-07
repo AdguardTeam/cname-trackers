@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,7 +24,6 @@ $TTL 300
 1hb4jkt1u2d.probemas.com CNAME .
 1j2n061x3td.www.digi.no CNAME .
 1k5vz1ejbcx.staging.probemas.com CNAME .
-1kpv4njzilv.community.intersystems.com CNAME .
 1phrzgfqiym8.marketingtornado.ca CNAME .
 1vyt1eguj27.ommasign.com CNAME .
 1xwkhcsp3s5.vqsave.ommasign.com CNAME .

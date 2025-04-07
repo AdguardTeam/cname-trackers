@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -276,6 +276,7 @@ tr.contact.canalplus.fr CNAME .
 tr.contact.canalsat.fr CNAME .
 tr.contact.cerel.net CNAME .
 tr.contact.cereps.fr CNAME .
+tr.contact.companeo.com CNAME .
 tr.contact.e-turf.fr CNAME .
 tr.contact.henner.com CNAME .
 tr.contact.lvmh.fr CNAME .
@@ -558,6 +559,7 @@ tr.info.webikeo.fr CNAME .
 tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.infolettres.groupama.com CNAME .
 tr.infomarche.hennessy.fr CNAME .
+tr.information-clients.intersport.fr CNAME .
 tr.information.cchezvous.fr CNAME .
 tr.information.fidalformations.fr CNAME .
 tr.information.labelleadresse.com CNAME .
@@ -894,6 +896,7 @@ tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.supercasino.fr CNAME .
 tr.news.teklifim.pro CNAME .
+tr.news.tf1licences.com CNAME .
 tr.news.thelist-emirates.fr CNAME .
 tr.news.themedtechforum.eu CNAME .
 tr.news.toocampmail.com CNAME .

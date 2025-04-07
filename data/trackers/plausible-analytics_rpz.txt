@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -201,7 +201,6 @@ plausible.factly.in CNAME .
 plausible.flowcv.io CNAME .
 plausible.getlean.digital CNAME .
 plausible.giveatip.io CNAME .
-plausible.goldanger.de CNAME .
 plausible.golfbreaks.com CNAME .
 plausible.gryka.net CNAME .
 plausible.gymglish.com CNAME .
@@ -411,14 +410,12 @@ stats.constructdps.co.uk CNAME .
 stats.convaise.com CNAME .
 stats.corona-navi.de CNAME .
 stats.covid.vitordino.com CNAME .
-stats.creativinn.com CNAME .
 stats.crema.fi CNAME .
 stats.cremashop.eu CNAME .
 stats.cremashop.se CNAME .
 stats.crewebo.de CNAME .
 stats.crypdit.com CNAME .
 stats.curbnumberpro.com CNAME .
-stats.curtiscummings.me CNAME .
 stats.cymbiant.co.uk CNAME .
 stats.dailyposter.com CNAME .
 stats.danestevens.dev CNAME .
@@ -629,7 +626,6 @@ stats.mastermeup.com CNAME .
 stats.masterybits.com CNAME .
 stats.matthiasloibl.com CNAME .
 stats.maximaconsulting.xyz CNAME .
-stats.mazlandscaping.com CNAME .
 stats.mein-futterlexikon.org CNAME .
 stats.memberdrive.org CNAME .
 stats.mesenvies.fr CNAME .
@@ -714,7 +710,6 @@ stats.preeventualist.org CNAME .
 stats.pri.org CNAME .
 stats.pricewell.io CNAME .
 stats.principedepaz.gt CNAME .
-stats.print-io.de CNAME .
 stats.print.work CNAME .
 stats.processserver101.com CNAME .
 stats.procumeni.cz CNAME .
@@ -789,6 +784,7 @@ stats.stackingthebricks.com CNAME .
 stats.stacks.org CNAME .
 stats.staging.hex.pm CNAME .
 stats.staging.hexdocs.pm CNAME .
+stats.starfish.team CNAME .
 stats.stephlow.audio CNAME .
 stats.steuer-soldaten.de CNAME .
 stats.strawberry.rocks CNAME .
@@ -841,6 +837,7 @@ stats.urlaubsverwaltung.cloud CNAME .
 stats.useeffect.dev CNAME .
 stats.uxtools.co CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
+stats.vali-pod.io CNAME .
 stats.vanityprojects.com CNAME .
 stats.vdsnow.ru CNAME .
 stats.vegamuze.be CNAME .
@@ -849,7 +846,6 @@ stats.vinkkaa.fi CNAME .
 stats.visions.ch CNAME .
 stats.voltimum.com CNAME .
 stats.wachstum.at CNAME .
-stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
 stats.warrantynowvoid.com CNAME .
 stats.websnap.app CNAME .

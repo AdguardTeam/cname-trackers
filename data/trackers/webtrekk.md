@@ -401,7 +401,6 @@
 | info.deltapublishing.co.uk | 654069251471705.wt-eu02.net |
 | web.slimjoy.com | 657801072187647.wt-eu02.net |
 | web.slimjoy.cz | 657801072187647.wt-eu02.net |
-| web.slimjoy.dk | 657801072187647.wt-eu02.net |
 | web.slimjoy.es | 657801072187647.wt-eu02.net |
 | web.slimjoy.it | 657801072187647.wt-eu02.net |
 | web.slimjoy.org | 657801072187647.wt-eu02.net |
@@ -439,6 +438,9 @@
 | web.communications.amouage.com | 790635424156780.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.post.toa.st | 792207084509163.wt-eu02.net |
+| web.powgen.at | 795078683620107.wt-eu02.net |
+| web.powgen.cz | 795078683620107.wt-eu02.net |
+| web.powgen.es | 795078683620107.wt-eu02.net |
 | web.powgen.it | 795078683620107.wt-eu02.net |
 | data.babista.de | 811475980920799.wt-eu02.net |
 | web.mapp.naturzeit.com | 818150559802317.wt-eu02.net |

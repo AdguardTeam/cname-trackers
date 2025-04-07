@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -189,7 +189,6 @@ affiliate.jasnaznacka.cz CNAME .
 affiliate.jewstone.cz CNAME .
 affiliate.jidlojevasen.cz CNAME .
 affiliate.jiristibor.cz CNAME .
-affiliate.ketofit.cz CNAME .
 affiliate.ketofit.sk CNAME .
 affiliate.krmivopropsy.cz CNAME .
 affiliate.kurzy-liecenia.sk CNAME .
@@ -289,6 +288,7 @@ affiliate.vasesosovky.sk CNAME .
 affiliate.velebny.cz CNAME .
 affiliate.vox.cz CNAME .
 affiliate.warriorfactory.cz CNAME .
+affiliate.webium.cz CNAME .
 affiliate.wugi.cz CNAME .
 affiliate.xbx.cz CNAME .
 affiliate.zdraviafitness.cz CNAME .
@@ -391,7 +391,6 @@ my.top4football.de CNAME .
 my.top4football.dk CNAME .
 my.top4football.es CNAME .
 my.top4football.fi CNAME .
-my.top4football.fr CNAME .
 my.top4football.ie CNAME .
 my.top4football.nl CNAME .
 my.top4football.se CNAME .
@@ -589,6 +588,7 @@ partner.giulieta.shop CNAME .
 partner.goelite.club CNAME .
 partner.gokids.cz CNAME .
 partner.gr7.cz CNAME .
+partner.grandstyl.cz CNAME .
 partner.greenbeast.vip CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
@@ -737,6 +737,7 @@ partner.salibandy.shop CNAME .
 partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
+partner.semor.cz CNAME .
 partner.sielbeauty.cz CNAME .
 partner.simplymix.com CNAME .
 partner.skinnygirls.cz CNAME .

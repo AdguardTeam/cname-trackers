@@ -50,12 +50,10 @@
 ||a.brani.site^
 ||a.broim.xyz^
 ||a.bronca.site^
-||a.bumog.xyz^
 ||a.bynix.xyz^
 ||a.celai.site^
 ||a.celod.site^
 ||a.cemir.site^
-||a.cloba.xyz^
 ||a.coinhub.wiki^
 ||a.craftbeerclub.com.ua^
 ||a.creis.site^
@@ -76,6 +74,7 @@
 ||a.dylop.xyz^
 ||a.edbl.space^
 ||a.ekont.site^
+||a.elpex.site^
 ||a.emban.site^
 ||a.endod.site^
 ||a.entia.site^
@@ -85,6 +84,7 @@
 ||a.familylust.net^
 ||a.fapcat.com^
 ||a.fapster.xxx^
+||a.fedim.site^
 ||a.fedot.site^
 ||a.fidar.site^
 ||a.fimoa.xyz^
@@ -96,6 +96,7 @@
 ||a.fullpornoflix.net^
 ||a.fynox.xyz^
 ||a.gemen.site^
+||a.gimes.site^
 ||a.grene.site^
 ||a.groox.xyz^
 ||a.gumon.site^
@@ -106,6 +107,7 @@
 ||a.hemyn.site^
 ||a.herto.xyz^
 ||a.holimsishoe.click^
+||a.hruch.site^
 ||a.hubhubhub.name^
 ||a.humro.site^
 ||a.hvert.site^
@@ -130,7 +132,6 @@
 ||a.kantotin.net^
 ||a.letsjerk.tv^
 ||a.lewxi.online^
-||a.lifsi.pro^
 ||a.markporn.com^
 ||a.marksmatures.com^
 ||a.markstube.com^
@@ -150,7 +151,6 @@
 ||a.redd.porn^
 ||a.reissue2871.xyz^
 ||a.rule34.porn^
-||a.seksohub.com^
 ||a.sharki.online^
 ||a.shemale99.com^
 ||a.smut.cc^
@@ -162,9 +162,7 @@
 ||a.viralnewsbd.xyz^
 ||a.vrime.xyz^
 ||a.warddogs.com^
-||a.xolen.xyz^
 ||a.yamcha.xyz^
-||a.zenam.xyz^
 ||a.ztulcrynw.online^
 ||a5g.oves.biz^
 ||a9o.youlikeboys.com^
@@ -236,9 +234,13 @@
 ||apgate.hubhubhub.name^
 ||api.adultsclips.com^
 ||api.bluerunningshadow.com^
+||api.brokenchairlaugh.com^
+||api.fastmoonclimbed.com^
 ||api.jumpingapplecloud.com^
+||api.shinybirdwhispered.com^
 ||api.sleepingrockhappy.com^
 ||app.gayapp.one^
+||app.iugbhsu.com^
 ||app.phimvu.app^
 ||app.zrotary.com^
 ||app2up.info^
@@ -339,6 +341,7 @@
 ||b.getoutfrom.com^
 ||b.harehop.com^
 ||b.hubhubhub.name^
+||b.paletta.cc^
 ||b.reissue2871.xyz^
 ||b.seksohub.com^
 ||b.sonorousporn.com^
@@ -348,7 +351,6 @@
 ||b1.hentaibaka.one^
 ||b1.maturesexvideos.pro^
 ||b8ms7gkwq7g.crocotube.com^
-||bakld.com^
 ||ballotjavgg124.fun^
 ||banana.arabtoons.net^
 ||battle1266.fun^
@@ -378,19 +380,22 @@
 ||bssaly.com^
 ||budlite.hubhubhub.name^
 ||bulkd.co^
-||bup.seksohub.com^
 ||bursa.conxxx.pro^
 ||buzvl.com^
 ||bx5.tubemaximum.com^
 ||bz-24.fin.ovh^
 ||bzcdn.fin.ovh^
 ||c.bloblohub.com^
+||c.seksohub.com^
 ||c021b14e0782ad7ef6d74.clicknplay.to^
 ||c22x1.xcdn.ovh^
 ||c3s.bionestraff.pro^
 ||c6s.bionestraff.pro^
 ||ca.fapnow.xxx^
 ||ca.lesbianbliss.com^
+||ca.rainblow.xxx^
+||ca.starwank.com^
+||ca.transhero.com^
 ||cache.picxxxhub.com^
 ||careerjavgg124.fun^
 ||casejav11.fun^
@@ -457,6 +462,7 @@
 ||data.bangtubevideos.com^
 ||data.streamtape.com^
 ||dd.topdisplay.xyz^
+||dd.unifieddataconnect.click^
 ||ddijapp.com^
 ||deckjav11.fun^
 ||deliver.vkcdnservice.com^
@@ -603,6 +609,7 @@
 ||hot.justpornflix.com^
 ||hskujw2.com^
 ||hx1.tubepornbase.com^
+||i-0c8d1bb4c1a648ae1.hubhubhub.name^
 ||i.bloblohub.com^
 ||i.mayoblast.com^
 ||i.mikesmatures.com^
@@ -611,6 +618,7 @@
 ||i2.mayoblast.com^
 ||i3.mayoblast.com^
 ||i4.mayoblast.com^
+||i5.mayoblast.com^
 ||ignore.hot-bbw-tube.com^
 ||ilviaggionellatesta.hubhubhub.name^
 ||imail.bloblohub.com^
@@ -696,6 +704,7 @@
 ||l9zkm.pleasedonotblockme.com^
 ||labourjavgg124.fun^
 ||languroa.xyz^
+||laq.hazuro.online^
 ||larasub.conxxx.pro^
 ||launch1266.fun^
 ||lengthjavgg124.fun^
@@ -726,12 +735,15 @@
 ||makejav11.fun^
 ||makumva.all-usanomination.com^
 ||mamamia.vintageporno.stream^
+||mamruoa.club^
 ||mangbaiz.xyz^
 ||mangoa.xyz^
+||mangrao.club^
 ||mangtaoxa.xyz^
 ||maoeoa.xyz^
 ||marginjavgg124.fun^
 ||marketjavgg124.fun^
+||materiaali.stailaus.fi^
 ||mauzna.xyz^
 ||maxcdn.dmm-video.online^
 ||maxx1.a.pleasedonotblockme.com^
@@ -783,6 +795,7 @@
 ||nice.tryboobs.com^
 ||nl.faptor.com^
 ||nl.ifuckedyourgf.com^
+||nl.thepornstar.com^
 ||nl.zatube.com^
 ||nolojo.com^
 ||non.arabshentai.com^
@@ -833,11 +846,11 @@
 ||ox8.topsexhdvideos.com^
 ||ozoj.com^
 ||p.adsmarch.online^
+||p.aprilads.space^
 ||p.asgex.click^
 ||p.avgads.space^
 ||p.febads.shop^
 ||p.gerdasetmay.site^
-||p.htdjylhttfm0424.space^
 ||p.janads.shop^
 ||p.octoads.shop^
 ||p.septads.store^
@@ -845,6 +858,7 @@
 ||pacaka.conxxx.pro^
 ||paiena.xyz^
 ||paiwena.xyz^
+||pangake.club^
 ||pangzz.xyz^
 ||pantuz.xyz^
 ||parkurl.com^
@@ -890,6 +904,7 @@
 ||prl.adasgsts.cc^
 ||prl.asgadmp.cc^
 ||prl.asgadsts.cc^
+||prn.gaysme.com^
 ||prod.bloblohub.com^
 ||production-.bloblohub.com^
 ||proll.esexa.online^
@@ -906,8 +921,8 @@
 ||pziaix.xyz^
 ||q.tubetruck.com^
 ||qiaoxz.xyz^
-||qoqv.com^
 ||qovua60gue.tubewolf.com^
+||qq2025.monthfour0225.xyz^
 ||qsdr.mysunnylawn.com^
 ||quaizoa.xyz^
 ||qualification2.fun^
@@ -992,7 +1007,6 @@
 ||satmon.neekstore.com^
 ||scottk.hubhubhub.name^
 ||scrapejav128.fun^
-||sda.seksohub.com^
 ||sdg.desihamster.pro^
 ||sdg.fwtrck.com^
 ||secondjav128.fun^
@@ -1008,6 +1022,8 @@
 ||sis.facesittingbbw.com^
 ||sk.fapnow.xxx^
 ||sk.faptor.com^
+||sk.transhero.com^
+||sk.trashreality.com^
 ||ska.dezna.online^
 ||sketchjav182.fun^
 ||sky.ijhyugb.com^
@@ -1027,6 +1043,7 @@
 ||stacy.hubhubhub.name^
 ||starjav11.fun^
 ||staticz.hotpornfile.org^
+||storage.lulu-row1.com^
 ||strikebreaker3x.fun^
 ||stuff.wikiporno.org^
 ||subcom.uiiumovie.com^
@@ -1046,6 +1063,7 @@
 ||teiaoz.xyz^
 ||ten.ijhyugb.com^
 ||tenderjav128.fun^
+||tensuao.club^
 ||test-insight.bloblohub.com^
 ||test2.maxx.ddac.ru^
 ||testcommon.soundrussian.com^
@@ -1081,11 +1099,13 @@
 ||understanding3x.fun^
 ||unicorn.bloblohub.com^
 ||unpin.hothomefuck.com^
+||unpydqpidsfb.cdnvideo3.com^
 ||up1app.com^
 ||up2cdn.com^
 ||upperoh.hubhubhub.name^
 ||usdtaz.xyz^
 ||uvac.devcre.site^
+||v.septads.store^
 ||v1.sellbuy.click^
 ||vainjav11.fun^
 ||vboiutv.xyz^
@@ -1181,7 +1201,9 @@
 ||yapzoa.xyz^
 ||you4cdn.com^
 ||youaixx.xyz^
+||yudvl.org^
 ||yummycdn.com^
+||z.zedtrekh.online^
 ||z0000g.yorkvillemarketing.net^
 ||z0000g.yvmads.com^
 ||z54a.xyz^
@@ -1205,5 +1227,4 @@
 ||a.moera.xyz^
 ||a.refia.xyz^
 ||a.vieva.xyz^
-||ontj.com^
 ||you75.youpornsexvideos.com^

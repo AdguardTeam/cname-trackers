@@ -65,6 +65,7 @@
 ||agility.cnvrm.com^
 ||agility.nba.com^
 ||agility.ncaa.com^
+||agility.scoobylive.com^
 ||agility.staples-solutions.com^
 ||agility.tbs.com^
 ||agility.tbs.tv^
@@ -139,8 +140,6 @@
 ||cmp.vdfin.be^
 ||cmp.volkswagen.be^
 ||co-operative.activate.ensighten.com^
-||consent.irvinecompany.com^
-||consent.irvinecompany.com.cdn.cloudflare.net^
 ||cookieconsent.kornferry.com^
 ||cookies.jll-mena.com^
 ||cookies.jll.ca^

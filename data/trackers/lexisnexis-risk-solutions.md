@@ -343,16 +343,13 @@
     * h-citi.vanity.online-metrix.net
     * h-citibank-ae.online-metrix.net
     * h-citibank-au.online-metrix.net
-    * h-citibank-cn.online-metrix.net
     * h-citibank-hk.online-metrix.net
     * h-citibank-id.online-metrix.net
     * h-citibank-in.online-metrix.net
     * h-citibank-mx.online-metrix.net
     * h-citibank-pl.online-metrix.net
-    * h-citibank-ru.online-metrix.net
     * h-citibank-sg.online-metrix.net
     * h-citibank-tw.online-metrix.net
-    * h-citibank-uk.online-metrix.net
     * h-citibank-vn.online-metrix.net
     * h-citibank.online-metrix.net
     * h-citibankonline.online-metrix.net
@@ -1297,6 +1294,7 @@
 | cdn-ln.ozk.com | h-bankofozk.online-metrix.net |
 | paiement.cb4x.fr | h-banquecasino-cb4x.online-metrix.net |
 | banque.banque-casino.fr | h-banquecasino.online-metrix.net |
+| content.floa.com | h-banquecasino.online-metrix.net |
 | tm.barstoolsportsbook.com | h-barstoolsportsbook.online-metrix.net |
 | identity.blueprintportal.com | h-bcbsak.online-metrix.net |
 | tm.beachbody.com | h-beachbody.online-metrix.net |
@@ -1427,16 +1425,13 @@
 | uatidentity4.citidirect.com | h-citi.vanity.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
-| content22.citibank.com.cn | h-citibank-cn.online-metrix.net |
 | content22.citibank.com.hk | h-citibank-hk.online-metrix.net |
 | content22.citibank.co.id | h-citibank-id.online-metrix.net |
 | content22.citibank.co.in | h-citibank-in.online-metrix.net |
 | content22.bancanet.banamex.com | h-citibank-mx.online-metrix.net |
 | content22.citibank.pl | h-citibank-pl.online-metrix.net |
-| content22.citibank.ru | h-citibank-ru.online-metrix.net |
 | content22.citibank.com.sg | h-citibank-sg.online-metrix.net |
 | content22.citibank.com.tw | h-citibank-tw.online-metrix.net |
-| content22.citi.eu | h-citibank-uk.online-metrix.net |
 | content22.citibank.com.vn | h-citibank-vn.online-metrix.net |
 | content22.citibank.com | h-citibank.online-metrix.net |
 | content22.olb-usmtu2web1.citi.com | h-citibank.online-metrix.net |

@@ -30,6 +30,7 @@
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
 | asg.redfans.org | api.clickaine.com |
+| bat17.gimmeporn.xyz | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
 | c4n.arcjav.com | api.clickaine.com |
@@ -48,12 +49,9 @@
 | ca.findyourpussy.net | api.clickaine.com |
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
-| cc.opowiadaniaerotyczne-darmowo.pl | api.clickaine.com |
-| cc.relatoseroticos-gratis.com | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
 | cc.sexgeschichten-kostenlos.com | api.clickaine.com |
 | cc.sexgeschichten-xxx.com | api.clickaine.com |
-| cc.sexstories-xxx.com | api.clickaine.com |
 | cc2.camcaps.io | api.clickaine.com |
 | cdn1.memojav.com | api.clickaine.com |
 | cdn1.xvideohub.top | api.clickaine.com |
@@ -73,14 +71,12 @@
 | clknrtrg.pro | api.clickaine.com |
 | cn4.animehdl.net | api.clickaine.com |
 | cn4.cheemsporn.com | api.clickaine.com |
-| cvk.supklik.com | api.clickaine.com |
 | cza4wopwcvdiq6sg.brandnewapp.pro | api.clickaine.com |
 | ddd.contoseroticoscnn.com | api.clickaine.com |
 | ddd.sexstories69.com | api.clickaine.com |
 | dr1.piczlabs.com | api.clickaine.com |
 | dr3.piczlabs.com | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
-| excavajo1.gimmeporn.xyz | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
 | ge6.getfto.com | api.clickaine.com |
@@ -118,6 +114,7 @@
 | s4.rtnews.pro | api.clickaine.com |
 | s5.rtnews.pro | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
+| ssp.lbanez.net | api.clickaine.com |
 | station54k.brandnewapp.pro | api.clickaine.com |
 | taco.sexreels.net | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |

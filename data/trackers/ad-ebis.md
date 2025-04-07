@@ -23,7 +23,6 @@
     * 0c693a00-fbzwhcnp.cname.ebis.ne.jp
     * 0cd5dd46-3fyehbqu.cname.ebis.ne.jp
     * 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp
-    * 0ce99b97-bpctqdpn.cname.ebis.ne.jp
     * 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp
     * 0e0f7a7b-skczc9vy.cname.ebis.ne.jp
     * 0ecb3018-xpsz9xxb.cname.ebis.ne.jp
@@ -325,6 +324,7 @@
     * e6ffde45-yp7fpvcr.cname.ebis.ne.jp
     * e889caf6-3qe9sa9a.cname.ebis.ne.jp
     * e8efa80d-fbzwhcnp.cname.ebis.ne.jp
+    * eb9dc0ac-scxitlgt.cname.ebis.ne.jp
     * eceb7b9f-6a92yces.cname.ebis.ne.jp
     * ee0f8438-thlsfh6z.cname.ebis.ne.jp
     * f050c5b4-cnza2mjg.cname.ebis.ne.jp
@@ -370,7 +370,6 @@
 | cname-ade.original-calendar.com | 0c693a00-fbzwhcnp.cname.ebis.ne.jp |
 | adebiscname.auone.jp | 0cd5dd46-3fyehbqu.cname.ebis.ne.jp |
 | ad-ebis.bookpass.auone.jp | 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp |
-| adebis.crowdcredit.jp | 0ce99b97-bpctqdpn.cname.ebis.ne.jp |
 | ebis-cname.mirai-japan.co.jp | 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp |
 | ac-ebis.usen-store.com | 0e0f7a7b-skczc9vy.cname.ebis.ne.jp |
 | adebis.satori.marketing | 0ecb3018-xpsz9xxb.cname.ebis.ne.jp |
@@ -672,6 +671,7 @@
 | cname.lions-mansion.jp | e6ffde45-yp7fpvcr.cname.ebis.ne.jp |
 | adebis.sbpayment.jp | e889caf6-3qe9sa9a.cname.ebis.ne.jp |
 | cname-ade.gom-in.com | e8efa80d-fbzwhcnp.cname.ebis.ne.jp |
+| cs0008sbeda.moromi-koso.com | eb9dc0ac-scxitlgt.cname.ebis.ne.jp |
 | adebisu.wowow.co.jp | eceb7b9f-6a92yces.cname.ebis.ne.jp |
 | itpebis03.recella3d.com | ee0f8438-thlsfh6z.cname.ebis.ne.jp |
 | ad.ordersuit.info | f050c5b4-cnza2mjg.cname.ebis.ne.jp |

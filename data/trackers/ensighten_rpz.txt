@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1743408008924        ; Serial
+           1744012808720        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -76,6 +76,7 @@ agility.cnn.com CNAME .
 agility.cnvrm.com CNAME .
 agility.nba.com CNAME .
 agility.ncaa.com CNAME .
+agility.scoobylive.com CNAME .
 agility.staples-solutions.com CNAME .
 agility.tbs.com CNAME .
 agility.tbs.tv CNAME .
@@ -150,8 +151,6 @@ cmp.skoda.be CNAME .
 cmp.vdfin.be CNAME .
 cmp.volkswagen.be CNAME .
 co-operative.activate.ensighten.com CNAME .
-consent.irvinecompany.com CNAME .
-consent.irvinecompany.com.cdn.cloudflare.net CNAME .
 cookieconsent.kornferry.com CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .

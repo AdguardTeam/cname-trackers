@@ -286,6 +286,7 @@
 ||content.fig.ca^
 ||content.firstinterstatebank.com^
 ||content.fisglobal.com^
+||content.floa.com^
 ||content.floridarentals.com^
 ||content.frs.fl.gov^
 ||content.gap.com^
@@ -409,19 +410,16 @@
 ||content22.bmo.com^
 ||content22.bmoharris.com^
 ||content22.citi.com^
-||content22.citi.eu^
 ||content22.citibank.ae^
 ||content22.citibank.co.id^
 ||content22.citibank.co.in^
 ||content22.citibank.com^
 ||content22.citibank.com.au^
-||content22.citibank.com.cn^
 ||content22.citibank.com.hk^
 ||content22.citibank.com.sg^
 ||content22.citibank.com.tw^
 ||content22.citibank.com.vn^
 ||content22.citibank.pl^
-||content22.citibank.ru^
 ||content22.citibankonline.com^
 ||content22.citicards.com^
 ||content22.citiretailservices.com^

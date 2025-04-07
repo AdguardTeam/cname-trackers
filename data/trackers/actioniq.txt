@@ -48,7 +48,7 @@
 ||aiqx.travismathew.com^
 ||aiqx.wheeloffortune.com^
 ||aiqx.www.ghostbusters.com^
-||anx-new.learnwithhomer.com^
+||anx-staging.learnwithhomer.com^
 ||anx.learnwithhomer.com^
 ||events-meta-events.outsideonline.com^
 ||meta-events.backpacker.com^
@@ -79,6 +79,7 @@
 ||meta-events.runreg.com^
 ||meta-events.skimag.com^
 ||meta-events.skireg.com^
+||meta-events.thenaturx.com^
 ||meta-events.trailforks.com^
 ||meta-events.trailrunnermag.com^
 ||meta-events.triathlete.com^
@@ -92,5 +93,5 @@
 ||mr-in.littlepassports.com^
 ||mr.pinkbike.com^
 ||anx-new.beginlearning.com^
+||anx-new.learnwithhomer.com^
 ||anx-new.littlepassports.com^
-||anx-staging.learnwithhomer.com^
