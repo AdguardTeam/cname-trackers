@@ -1,0 +1,40 @@
+name: Auto Assign Issues
+
+# Trigger the workflow whenever an issue is opened
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  add-assignee:
+    # Run this job on the latest available GitHub-hosted runner
+    runs-on: ubuntu-latest
+
+    # Set permissions for the job to allow writing to issues
+    permissions:
+      issues: write
+
+    steps:
+      - name: Assign new issue to specified user
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // Get the context from the event payload
+            const repoOwner = context.repo.owner;
+            const repoName = context.repo.repo;
+            const issueNumber = context.issue.number;
+
+            // Specify the GitHub usernames to assign the issue to
+            const assignees = [
+                'jellizaveta',
+            ];
+
+            // Use the GitHub REST API client provided by github-script
+            await github.rest.issues.addAssignees({
+                owner: repoOwner,
+                repo: repoName,
+                issue_number: issueNumber,
+                assignees,
+            });
+
+            console.log(`Assigned issue #${issueNumber} to ${assignees.join(', ')}`);
