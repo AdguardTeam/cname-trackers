@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,6 +52,7 @@ www7.springer.com CNAME .
 a.hrewards.com CNAME .
 a.jaz-hotel.com CNAME .
 a.maxxhotel.com CNAME .
+a.zleep.com CNAME .
 abc.bayer04.de CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .

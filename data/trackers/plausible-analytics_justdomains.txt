@@ -93,7 +93,6 @@ insights.affilimate.com
 jinx.skullctf.com
 kaladyaudiology.ericksonbuilt.com
 l.lilyzhou.com
-l2k30jsa.theochu.com
 lkj23jlkajsa.realestate.help
 log.rhythmtowers.com
 loggychops.paulsmith.site
@@ -127,7 +126,6 @@ pa-stats.encore.dev
 pa.opqr.co
 ping.naturadapt.com
 ping.resoluteoil.com
-pl-web-stats-icy7xvjbpxsxf8gwwz5c.theochu.com
 pl.1feed.app
 pl.astro-akatemia.fi
 pl.astro.fi
@@ -188,7 +186,6 @@ plausible.external.sine.foundation
 plausible.f1laps.com
 plausible.factly.in
 plausible.flowcv.io
-plausible.getlean.digital
 plausible.giveatip.io
 plausible.golfbreaks.com
 plausible.gryka.net
@@ -230,7 +227,6 @@ plausible.starlegacyfoundation.org
 plausible.strzibny.name
 plausible.sysloun.cz
 plausible.tac.dappstar.io
-plausible.tasteslikeme.ca
 plausible.thefutureoftheworkplacebook.com
 plausible.tlschedule.com
 plausible.treelightsoftware.com
@@ -296,6 +292,7 @@ site-stats.supernotes.app
 sp.ballsdigroup.com
 sp.gameomatic.fr
 sp.jrklein.com
+sp.notifysonic.com
 sp.soniccares.com
 sp.spaceomatic.fr
 sp.wvoil.com
@@ -322,7 +319,6 @@ stats.adlperformance.es
 stats.aikidowaza.com
 stats.aixbrain.de
 stats.albert-kropp-gmbh.de
-stats.alibhai.co
 stats.alleaktien.de
 stats.alocreativa.com
 stats.am.ai
@@ -433,7 +429,6 @@ stats.divyanshu013.dev
 stats.dmail.co.nz
 stats.dmarcdigests.com
 stats.donal.us
-stats.doors.live
 stats.dotnetos.org
 stats.dotplan.io
 stats.doublejones.com
@@ -521,8 +516,8 @@ stats.homestow.com
 stats.hpz-scharnhausen.de
 stats.htmlcsstoimage.com
 stats.htp.org
+stats.huysman.be
 stats.huysmanbouw.be
-stats.iamzero.dev
 stats.ibuildings.net
 stats.igassmann.me
 stats.igor4stir.com
@@ -710,7 +705,6 @@ stats.psychotherapieravensburg.de
 stats.pubfind.io
 stats.qbitstore.nl
 stats.qovery.com
-stats.quantumly.dev
 stats.quicksilvercre.com
 stats.radicaldata.org
 stats.radicitoscane.it
@@ -727,7 +721,6 @@ stats.reprage.com
 stats.respkt.de
 stats.reto.tv
 stats.retroware.com
-stats.revitfamily.app
 stats.rideinpeace.ie
 stats.rightourhistoryhawaii.com
 stats.robotika.ax
@@ -852,6 +845,7 @@ stats.www.agirpourlenvironnement.org
 stats.wymanmobilenotary.com
 stats.xactcode.com
 stats.xn--antnio-dxa.pt
+stats.xrechnung.app
 stats.zimri.net
 statystyki.ekspertyzy-szkolenia.pl
 sts.authramp.com

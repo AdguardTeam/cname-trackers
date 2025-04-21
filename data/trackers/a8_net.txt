@@ -185,7 +185,6 @@
 ||a8.kojyo-worker.com^
 ||a8.kotei-denwa.com^
 ||a8.kougu-kaitoriyasan.com^
-||a8.kujo-service.com^
 ||a8.l-co-shop.jp^
 ||a8.lacitashop.com^
 ||a8.lantelno.jp^
@@ -772,7 +771,6 @@
 ||a8clkcv.lognavi.com^
 ||a8clkcv.pcr.tokyo-brain.clinic^
 ||a8clkcv.tcb-beauty.net^
-||a8cllk.arahataen.com^
 ||a8cname.cloudwifi-nc.com^
 ||a8cname.nj-e.jp^
 ||a8cnv.rmsbeauty.jp^
@@ -1205,11 +1203,11 @@
 ||a8cv.rita-style.co.jp^
 ||a8cv.rmkrmk.com^
 ||a8cv.rohto.co.jp^
+||a8cv.ruksk.com^
 ||a8cv.runteq.jp^
 ||a8cv.ryomon.jp^
 ||a8cv.s-darts.com^
 ||a8cv.sabuma.jp^
-||a8cv.sabusuta.jp^
 ||a8cv.safetycart.jp^
 ||a8cv.safie.jp^
 ||a8cv.saitoma.com^
@@ -1321,6 +1319,7 @@
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.wellcrew.net^
+||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.willfu.jp^

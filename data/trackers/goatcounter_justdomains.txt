@@ -31,7 +31,6 @@ count.kealper.com
 count.vidsrc.pro
 counter.storydragon.nl
 dot-com-stats.sladewatkins.net
-gc.gayqing.com
 gc.his2nd.life
 gc.miluchacontraeltabaco.com
 gc.mindenugyved.hu
@@ -84,7 +83,6 @@ stats.cloudnativebitcoin.org
 stats.coderscompass.org
 stats.crosshair.dev
 stats.dalinwilliams.com
-stats.dandelion.computer
 stats.eithel.org
 stats.fieald.com
 stats.forest-school.am
@@ -131,12 +129,13 @@ stats.tdurand.com
 stats.timothechau.vet
 stats.tinkerer.tools
 stats.trainsley69.me
+stats.transactional.blog
 stats.umcconnell.net
 stats.w0chp.radio
 stats.whatacools.com
-stats.wswg.xyz
 stats.ybbond.id
 stats.zgo.at
+stats.zl2edh.com
 trackerstats.davidthe.dev
 varz.mcyoung.xyz
 vault-stats.sladewatkins.net

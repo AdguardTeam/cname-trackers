@@ -89,6 +89,7 @@
 ||console.informingnews.com^
 ||console.insideradverts.com^
 ||console.isn.nl^
+||console.leightonbroadcasting.com^
 ||console.livingmagonline.com^
 ||console.mannixmarketing.com^
 ||console.miningweekly.com^
@@ -229,7 +230,9 @@
 ||www.console.adspmg.com^
 ||www.console.ceramicartsnetwork.org^
 ||www.console.healthcarescene.com^
+||www.console.leightonbroadcasting.com^
 ||www.console.livingmagonline.com^
+||www.console.myadsmyanmar.com^
 ||www.console.pinktriangle.ca^
 ||www.coreads-console.cambridge.org^
 ||www.coreads-static.cambridge.org^

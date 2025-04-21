@@ -64,6 +64,7 @@
     * im-delivery.aquaplatform.com
     * im-static.aquaplatform.com
     * lawbulletin-delivery.aquaplatform.com
+    * lb-console.aquaplatform.com
     * lb-delivery.aquaplatform.com
     * lb-static.aquaplatform.com
     * livingmag-console.aquaplatform.com
@@ -245,6 +246,8 @@
 | static.insideradverts.com | im-static.aquaplatform.com |
 | display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
 | www.display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
+| console.leightonbroadcasting.com | lb-console.aquaplatform.com |
+| www.console.leightonbroadcasting.com | lb-console.aquaplatform.com |
 | banners.leightonbroadcasting.com | lb-delivery.aquaplatform.com |
 | cdn.leightonbroadcasting.com | lb-static.aquaplatform.com |
 | console.livingmagonline.com | livingmag-console.aquaplatform.com |
@@ -268,6 +271,7 @@
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | static.mondiale.co.uk | mondiale-static.aquaplatform.com |
 | console.myadsmyanmar.com | myadsmyanmar-console.aquaplatform.com |
+| www.console.myadsmyanmar.com | myadsmyanmar-console.aquaplatform.com |
 | servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
 | cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
 | static.notgoingtouni.co.uk | ngtu-static.aquaplatform.com |

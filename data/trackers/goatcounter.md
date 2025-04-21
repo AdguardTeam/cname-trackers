@@ -37,7 +37,6 @@
     * d8a.goatcounter.com
     * dailies.goatcounter.com
     * dalinwilliams.goatcounter.com
-    * dandelion-computer.goatcounter.com
     * dannynullzwo.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
@@ -52,7 +51,6 @@
     * fieald.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
-    * gayqing.goatcounter.com
     * gcls001239028.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
     * gopikrishna.goatcounter.com
@@ -132,6 +130,7 @@
     * tinkerertools.goatcounter.com
     * tomatomtl.goatcounter.com
     * trainsley69.goatcounter.com
+    * transactionalblog.goatcounter.com
     * trool.goatcounter.com
     * twoistoomany.goatcounter.com
     * ubr.goatcounter.com
@@ -143,9 +142,9 @@
     * vpro.goatcounter.com
     * w0chp.goatcounter.com
     * whatacools.goatcounter.com
-    * wswg.goatcounter.com
     * ybbond.goatcounter.com
     * zgoat.goatcounter.com
+    * zl2edh.goatcounter.com
 
 ## Cloaking domains
 
@@ -185,7 +184,6 @@
 | go.d8a.org | d8a.goatcounter.com |
 | trackerstats.davidthe.dev | dailies.goatcounter.com |
 | stats.dalinwilliams.com | dalinwilliams.goatcounter.com |
-| stats.dandelion.computer | dandelion-computer.goatcounter.com |
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
@@ -200,7 +198,6 @@
 | stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
-| gc.gayqing.com | gayqing.goatcounter.com |
 | analytics.leespace.co | gcls001239028.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
@@ -281,6 +278,7 @@
 | stats.tinkerer.tools | tinkerertools.goatcounter.com |
 | analytics.tomatomtl.com | tomatomtl.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
+| stats.transactional.blog | transactionalblog.goatcounter.com |
 | moo.geopogs.party | trool.goatcounter.com |
 | goat.twoistoomany.com | twoistoomany.goatcounter.com |
 | argus.umarbutler.com | ubr.goatcounter.com |
@@ -292,6 +290,6 @@
 | count.vidsrc.pro | vpro.goatcounter.com |
 | stats.w0chp.radio | w0chp.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
-| stats.wswg.xyz | wswg.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
 | stats.zgo.at | zgoat.goatcounter.com |
+| stats.zl2edh.com | zl2edh.goatcounter.com |

@@ -2,6 +2,7 @@
 ! Company name: Utiq
 ||a1at.mno.link^
 ||bob-a1at.mno.link^
+||dtpen.mno.link^
 ||esca-test.mno.link^
 ||esca.mno.link^
 ||fakexa-post.mno.link^
@@ -32,6 +33,7 @@
 ||utiq.actu.fr^
 ||utiq.aisnenouvelle.fr^
 ||utiq.allocine.fr^
+||utiq.annalect.es^
 ||utiq.applesfera.com^
 ||utiq.ariva.de^
 ||utiq.arquitecturaydiseno.es^
@@ -56,6 +58,7 @@
 ||utiq.buzzfeed.de^
 ||utiq.bw24.de^
 ||utiq.bz-berlin.de^
+||utiq.c7c12669-b77b-4cff-8b74-0aceec09c0c7.com^
 ||utiq.caminteresse.fr^
 ||utiq.canarias7.es^
 ||utiq.capital.fr^
@@ -73,6 +76,7 @@
 ||utiq.compradiccion.com^
 ||utiq.computerbild.de^
 ||utiq.computerfrage.net^
+||utiq.comunidadmsm.es^
 ||utiq.courrier-picard.fr^
 ||utiq.cuerpomente.com^
 ||utiq.cuisineactuelle.fr^
@@ -207,6 +211,7 @@
 ||utiq.mahou.es^
 ||utiq.maison-travaux.fr^
 ||utiq.mallorcazeitung.es^
+||utiq.manager-magazin.de^
 ||utiq.manga-viewer.com^
 ||utiq.mappy.com^
 ||utiq.mappyrecette.com^
@@ -328,6 +333,7 @@
 ||utiq.welt.de^
 ||utiq.werra-rundschau.de^
 ||utiq.wetterauer-zeitung.de^
+||utiq.wieistmeineip.de^
 ||utiq.wiwo.de^
 ||utiq.wlz-online.de^
 ||utiq.wmn.de^

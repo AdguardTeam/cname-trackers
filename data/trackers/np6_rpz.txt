@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -228,7 +228,6 @@ tr.clients.boursorama.info CNAME .
 tr.clients.compagnie-hyperactive.com CNAME .
 tr.clients.europrogres.fr CNAME .
 tr.clients.gemy.fr CNAME .
-tr.clients.idaia.group CNAME .
 tr.cnaf.espmp-nifr.net CNAME .
 tr.cobranca.younited-credit.com CNAME .
 tr.cogedim.espmp-agfr.net CNAME .
@@ -482,6 +481,7 @@ tr.info-btob-leaders.com CNAME .
 tr.info-companeo.be CNAME .
 tr.info-fr.assurant.com CNAME .
 tr.info-jeux.paris.fr CNAME .
+tr.info-mairie8.paris.fr CNAME .
 tr.info-pro.promoneuve.fr CNAME .
 tr.info-strategie.fr CNAME .
 tr.info.actionlogement.fr CNAME .
@@ -652,7 +652,6 @@ tr.mail.mdbp.fr CNAME .
 tr.mail.moncoupdepouce.com CNAME .
 tr.mail.perial.info CNAME .
 tr.mail.primevere.com CNAME .
-tr.mail.satisfactory.fr CNAME .
 tr.mail.solocal.com CNAME .
 tr.mail.vip-mag.co.uk CNAME .
 tr.mail.vipmag.fr CNAME .
@@ -661,7 +660,6 @@ tr.mail1.macif.fr CNAME .
 tr.mail306.com CNAME .
 tr.mailatia.com CNAME .
 tr.mailing.achatpublic.com CNAME .
-tr.mailing.associationici.fr CNAME .
 tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .

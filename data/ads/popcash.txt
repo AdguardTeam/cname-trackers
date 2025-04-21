@@ -225,6 +225,7 @@
 ||baboon.vacanti.com^
 ||badger.pager.app^
 ||baldeagle.e-ma.re^
+||bandicoot.mohit.dev^
 ||bandicoot.sigerr.org^
 ||barnacle.big-in-japan.com^
 ||barnacle.natalieandmikeyb.com^
@@ -426,7 +427,6 @@
 ||earthworm.lidi.today^
 ||earthworm.makethemdebate.com^
 ||earthworm.mxdvl.com^
-||earthworm.robbevanpetegem.be^
 ||earwig.architecturesofhiding.com^
 ||earwig.oofi.es^
 ||echidna.hellotomorrow.agency^
@@ -472,14 +472,12 @@
 ||firefly.jamesbrowne.me^
 ||fish.muted.io^
 ||fish.trampoline.cx^
-||fish.whitney.org^
 ||fjikgr.dennmart.com^
 ||flamingo.abihome.de^
 ||flamingo.podcast.taxi^
 ||flamingo.stacking-club.com^
 ||flea.elbertsnaturalfoods.com^
 ||flea.welikeoliver.com^
-||flyingfish.editorslab.de^
 ||flyingfish.whoisrepresented.org^
 ||fowl.saulhardman.com^
 ||fowl.teamyap.app^
@@ -500,7 +498,6 @@
 ||gerbil.downtown-mafia.com^
 ||gerbil.lespetitsbots.com^
 ||gerbil.meenit.com^
-||gerbil.recipe-ipsum.com^
 ||gibbon.711.st^
 ||giraffe.viatorci.com^
 ||goat.aicontentdojo.com^
@@ -549,7 +546,6 @@
 ||harrier.scdamerica.com.au^
 ||hawk.makroskop.eu^
 ||hawk.mjsarfatti.com^
-||hawk.tenpipsclub.com^
 ||hedgehog.fightforthefuture.org^
 ||heron.joel.is^
 ||heron.notability.com^
@@ -833,6 +829,7 @@
 ||polarbear.codeday.org^
 ||polarbear.conermurphy.com^
 ||porcupine.dvresolve.com^
+||porcupine.reminyborg.com^
 ||porpoise.azettl.net^
 ||porpoise.fruittreecottage.com.au^
 ||porpoise.kristinholl.com^
@@ -1084,11 +1081,11 @@
 ||wildcat.fspy.io^
 ||wildcat.longviewforecasting.com^
 ||wildcat.restq.co^
-||wildcat.vivritiamc.com^
 ||wildebeest.quarva.dev^
 ||wildebeest.soft-spoken.dev^
 ||wildebeest.trigo.dev^
 ||wildfowl.getmoneyoff.com^
+||wolf.novel.io^
 ||wolf.samarasousa.com^
 ||wolverine.barac.at^
 ||wolverine.prsaccreditation.com^
@@ -1118,8 +1115,10 @@
 ||carlsonmedia.streetinteractive.com^
 ||community.jerseyshoreonline.com^
 ||community.noozhawk.com^
+||community.richlandsource.com^
 ||connected.ashrae.org^
 ||connected.county10.com^
+||daily.thezebra.org^
 ||daily.yubanet.com^
 ||doppler.streetinteractive.com^
 ||featured.premiermedia.net^
@@ -1197,3 +1196,4 @@
 ||ss.nwmnd.com^
 ||thirty-good.lugg.com^
 ||video.adsninja.ca^
+||gerbil.recipe-ipsum.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 a1at.mno.link CNAME .
 bob-a1at.mno.link CNAME .
+dtpen.mno.link CNAME .
 esca-test.mno.link CNAME .
 esca.mno.link CNAME .
 fakexa-post.mno.link CNAME .
@@ -43,6 +44,7 @@ utiq.abc.es CNAME .
 utiq.actu.fr CNAME .
 utiq.aisnenouvelle.fr CNAME .
 utiq.allocine.fr CNAME .
+utiq.annalect.es CNAME .
 utiq.applesfera.com CNAME .
 utiq.ariva.de CNAME .
 utiq.arquitecturaydiseno.es CNAME .
@@ -67,6 +69,7 @@ utiq.buzzfeed.at CNAME .
 utiq.buzzfeed.de CNAME .
 utiq.bw24.de CNAME .
 utiq.bz-berlin.de CNAME .
+utiq.c7c12669-b77b-4cff-8b74-0aceec09c0c7.com CNAME .
 utiq.caminteresse.fr CNAME .
 utiq.canarias7.es CNAME .
 utiq.capital.fr CNAME .
@@ -84,6 +87,7 @@ utiq.come-on.de CNAME .
 utiq.compradiccion.com CNAME .
 utiq.computerbild.de CNAME .
 utiq.computerfrage.net CNAME .
+utiq.comunidadmsm.es CNAME .
 utiq.courrier-picard.fr CNAME .
 utiq.cuerpomente.com CNAME .
 utiq.cuisineactuelle.fr CNAME .
@@ -218,6 +222,7 @@ utiq.maennerseite.net CNAME .
 utiq.mahou.es CNAME .
 utiq.maison-travaux.fr CNAME .
 utiq.mallorcazeitung.es CNAME .
+utiq.manager-magazin.de CNAME .
 utiq.manga-viewer.com CNAME .
 utiq.mappy.com CNAME .
 utiq.mappyrecette.com CNAME .
@@ -339,6 +344,7 @@ utiq.welt-ctv.com CNAME .
 utiq.welt.de CNAME .
 utiq.werra-rundschau.de CNAME .
 utiq.wetterauer-zeitung.de CNAME .
+utiq.wieistmeineip.de CNAME .
 utiq.wiwo.de CNAME .
 utiq.wlz-online.de CNAME .
 utiq.wmn.de CNAME .

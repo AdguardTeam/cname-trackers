@@ -11,9 +11,11 @@
     * h-11b6fun8cno.online-metrix.net
     * h-12jodw87.online-metrix.net
     * h-14iyhddh.online-metrix.net
+    * h-15dxj0k6.online-metrix.net
     * h-15wc9fpp.online-metrix.net
     * h-16vzjy52.online-metrix.net
     * h-1d2p5fdt.online-metrix.net
+    * h-1dham01c.online-metrix.net
     * h-1dwgke3d.online-metrix.net
     * h-1fezyu0r.online-metrix.net
     * h-1hr2syw3-2.online-metrix.net
@@ -277,7 +279,6 @@
     * h-bluevine.online-metrix.net
     * h-bmfe8lje.online-metrix.net
     * h-bmo.online-metrix.net
-    * h-bmoharris2.online-metrix.net
     * h-bnc.online-metrix.net
     * h-bnl.online-metrix.net
     * h-bo72h7g2-1.online-metrix.net
@@ -340,7 +341,6 @@
     * h-citadele.online-metrix.net
     * h-citbank.online-metrix.net
     * h-citcommercial.online-metrix.net
-    * h-citi.vanity.online-metrix.net
     * h-citibank-ae.online-metrix.net
     * h-citibank-au.online-metrix.net
     * h-citibank-hk.online-metrix.net
@@ -434,6 +434,7 @@
     * h-dy06hdpq.online-metrix.net
     * h-dyj6k3h5.online-metrix.net
     * h-e04kqxof.online-metrix.net
+    * h-e0j3u9ji-2.online-metrix.net
     * h-e0j3u9ji-fool.online-metrix.net
     * h-e0j3u9ji-legalzoom.online-metrix.net
     * h-e0j3u9ji-wptm.online-metrix.net
@@ -529,7 +530,6 @@
     * h-k8vif92e-pa.online-metrix.net
     * h-k8vif92e-pr.online-metrix.net
     * h-k8vif92e-si.online-metrix.net
-    * h-k8vif92e-sony2.online-metrix.net
     * h-k8vif92e.goto.online-metrix.net
     * h-k8vif92e.online-metrix.net
     * h-k8vif92e.qat.online-metrix.net
@@ -638,7 +638,6 @@
     * h-optus.online-metrix.net
     * h-ottobv.online-metrix.net
     * h-paddypower.online-metrix.net
-    * h-pampers.online-metrix.net
     * h-parcelmonkey.online-metrix.net
     * h-pat-td.online-metrix.net
     * h-payby.online-metrix.net
@@ -813,9 +812,11 @@
 | content.mycno.com | h-11b6fun8cno.online-metrix.net |
 | cdna.tiranabank.al | h-12jodw87.online-metrix.net |
 | tmx.monzo.co.uk | h-14iyhddh.online-metrix.net |
+| lnday.sinclair.edu | h-15dxj0k6.online-metrix.net |
 | tmln.caesarscasino.com | h-15wc9fpp.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | content.sb.lt | h-1d2p5fdt.online-metrix.net |
+| transactionrisk.cashfree.com | h-1dham01c.online-metrix.net |
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
 | elevate.stg.na02.aws.ballys.tech | h-1fezyu0r.online-metrix.net |
 | ls-dp.ny.thelotter.us | h-1hr2syw3-2.online-metrix.net |
@@ -1324,7 +1325,6 @@
 | tmx.idp.safenetid.com | h-bmfe8lje.online-metrix.net |
 | tmx.idp.us.safenetid.com | h-bmfe8lje.online-metrix.net |
 | content22.bmo.com | h-bmo.online-metrix.net |
-| content22.bmoharris.com | h-bmoharris2.online-metrix.net |
 | enligne.bnc.ca | h-bnc.online-metrix.net |
 | online.nbc.ca | h-bnc.online-metrix.net |
 | content.bnl.it | h-bnl.online-metrix.net |
@@ -1422,7 +1422,6 @@
 | content.bankoncit.com | h-citbank.online-metrix.net |
 | content.citbankapp.cit.com | h-citbank.online-metrix.net |
 | contentfd.directcapital.com | h-citcommercial.online-metrix.net |
-| uatidentity4.citidirect.com | h-citi.vanity.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
 | content22.citibank.com.hk | h-citibank-hk.online-metrix.net |
@@ -1538,6 +1537,7 @@
 | content.gap.com | h-e04kqxof.online-metrix.net |
 | content.gapfactory.com | h-e04kqxof.online-metrix.net |
 | content.gaptechol.com | h-e04kqxof.online-metrix.net |
+| tm.humanesociety.org | h-e0j3u9ji-2.online-metrix.net |
 | fingerprint.fool.com | h-e0j3u9ji-fool.online-metrix.net |
 | shield.legalzoom.com | h-e0j3u9ji-legalzoom.online-metrix.net |
 | wptm.worldvision.org | h-e0j3u9ji-wptm.online-metrix.net |
@@ -1595,6 +1595,7 @@
 | tm.betano.de | h-gambling-malta.online-metrix.net |
 | tm.betano.dk | h-gambling-malta.online-metrix.net |
 | tm.betano.mx | h-gambling-malta.online-metrix.net |
+| tm.betano.ng | h-gambling-malta.online-metrix.net |
 | tm.stoiximan.com.cy | h-gambling-malta.online-metrix.net |
 | tm.stoiximan.gr | h-gambling-malta.online-metrix.net |
 | dfp.garmin.com | h-garmin.online-metrix.net |
@@ -1703,7 +1704,6 @@
 | verify.philippineairlines.com | h-k8vif92e-pa.online-metrix.net |
 | cdncy.providentmetals.com | h-k8vif92e-pr.online-metrix.net |
 | cdncy.silver.com | h-k8vif92e-si.online-metrix.net |
-| payment.rewards.sony.com | h-k8vif92e-sony2.online-metrix.net |
 | cdn-east.purchase.goto.com | h-k8vif92e.goto.online-metrix.net |
 | cybersource.shoplineapp.com | h-k8vif92e.online-metrix.net |
 | qrimages.qatarairways.com | h-k8vif92e.qat.online-metrix.net |
@@ -1819,7 +1819,6 @@
 | optm.optus.com.au | h-optus.online-metrix.net |
 | img2.otto.nl | h-ottobv.online-metrix.net |
 | regstat.paddypower.com | h-paddypower.online-metrix.net |
-| tmx.pampersrewards.com | h-pampers.online-metrix.net |
 | page1.parcelmonkey.com | h-parcelmonkey.online-metrix.net |
 | tmx.pat.td.com | h-pat-td.online-metrix.net |
 | rm-3d84e791.payby.com | h-payby.online-metrix.net |

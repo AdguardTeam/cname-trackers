@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,6 +54,7 @@ affil.kralovstvi-tiande.cz CNAME .
 affil.lesgoodies.com CNAME .
 affil.litinove-nadobi.cz CNAME .
 affil.lojdovale.cz CNAME .
+affil.mirakubat.cz CNAME .
 affil.moringamix.cz CNAME .
 affil.mydrinks.cz CNAME .
 affil.nanoshop.cz CNAME .
@@ -247,7 +248,6 @@ affiliate.postel.cz CNAME .
 affiliate.pravopropodnikatele.cz CNAME .
 affiliate.prikryvky-obchod.cz CNAME .
 affiliate.prodietix.cz CNAME .
-affiliate.progresguru.cz CNAME .
 affiliate.pt-shop.cz CNAME .
 affiliate.rajkratomu.cz CNAME .
 affiliate.reduccia.cz CNAME .
@@ -315,7 +315,6 @@ brana.ritualyomlazeni.cz CNAME .
 collab.zdravetricko.cz CNAME .
 cryptonow.algomoneo.com CNAME .
 dbsaysnba4ygmwav.algomoneo.com CNAME .
-dekovacka.stickersmakers.cz CNAME .
 devaff.bitcoinzmenaren.sk CNAME .
 doporuc.hopsej.cz CNAME .
 doporuc.kingray.sk CNAME .
@@ -484,7 +483,6 @@ partner.bio-nehty.cz CNAME .
 partner.biomag.cz CNAME .
 partner.birne.com CNAME .
 partner.bitcoinzmenaren.sk CNAME .
-partner.bohemiaclean.eu CNAME .
 partner.bohempia.com CNAME .
 partner.bomtonbeauty.cz CNAME .
 partner.bontonck.cz CNAME .
@@ -511,7 +509,6 @@ partner.chcivedet.com CNAME .
 partner.chevronnutrition.cz CNAME .
 partner.chiashake.cz CNAME .
 partner.chilimarket.cz CNAME .
-partner.chococo.cz CNAME .
 partner.chocolatehill.cz CNAME .
 partner.chytranemovitost.cz CNAME .
 partner.chytrydopravce.cz CNAME .
@@ -645,6 +642,7 @@ partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
 partner.ligsuniversity.cz CNAME .
 partner.lorooro.com CNAME .
+partner.lovella.cz CNAME .
 partner.ltx.cz CNAME .
 partner.luckyalvin.cz CNAME .
 partner.lyzelyze.cz CNAME .
@@ -734,6 +732,7 @@ partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
 partner.ruzovyslon.cz CNAME .
 partner.salibandy.shop CNAME .
+partner.sambalshop.cz CNAME .
 partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
@@ -839,6 +838,7 @@ partneri.espressoenglish.cz CNAME .
 partneri.evolveo.com CNAME .
 partneri.evolveo.cz CNAME .
 partneri.fengshuiacademy.cz CNAME .
+partneri.fistar.cz CNAME .
 partneri.fitstore.cz CNAME .
 partneri.frcime.cz CNAME .
 partneri.freli.cz CNAME .
@@ -897,7 +897,6 @@ partneri.portske.cz CNAME .
 partneri.prectime.cz CNAME .
 partneri.professionail.sk CNAME .
 partneri.proficredit.cz CNAME .
-partneri.progresguru.cz CNAME .
 partneri.pulzsro.cz CNAME .
 partneri.puravia.cz CNAME .
 partneri.radostkazdyden.cz CNAME .
@@ -968,7 +967,6 @@ provize.vybavenifitness.cz CNAME .
 provize.wugi.cz CNAME .
 provize.zazitkovelety.cz CNAME .
 provizia.mimulo.sk CNAME .
-provizia.vitalitypradlo.sk CNAME .
 proviznisystem.kanclir.cz CNAME .
 rek.rybizak.cz CNAME .
 royalfamily.royalchaga.sk CNAME .
@@ -997,6 +995,7 @@ spoluprace.m-soft.cz CNAME .
 spoluprace.majka-shop.cz CNAME .
 spoluprace.megalu.cz CNAME .
 spoluprace.mentorkalucie.cz CNAME .
+spoluprace.narozlucku.cz CNAME .
 spoluprace.nordictelecom.cz CNAME .
 spoluprace.obchod-kufry.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .

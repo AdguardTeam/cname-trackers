@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -236,6 +236,7 @@ baboon.naxon.dev CNAME .
 baboon.vacanti.com CNAME .
 badger.pager.app CNAME .
 baldeagle.e-ma.re CNAME .
+bandicoot.mohit.dev CNAME .
 bandicoot.sigerr.org CNAME .
 barnacle.big-in-japan.com CNAME .
 barnacle.natalieandmikeyb.com CNAME .
@@ -437,7 +438,6 @@ earthworm.elenabirkenwald.com CNAME .
 earthworm.lidi.today CNAME .
 earthworm.makethemdebate.com CNAME .
 earthworm.mxdvl.com CNAME .
-earthworm.robbevanpetegem.be CNAME .
 earwig.architecturesofhiding.com CNAME .
 earwig.oofi.es CNAME .
 echidna.hellotomorrow.agency CNAME .
@@ -483,14 +483,12 @@ finch.market.xyz CNAME .
 firefly.jamesbrowne.me CNAME .
 fish.muted.io CNAME .
 fish.trampoline.cx CNAME .
-fish.whitney.org CNAME .
 fjikgr.dennmart.com CNAME .
 flamingo.abihome.de CNAME .
 flamingo.podcast.taxi CNAME .
 flamingo.stacking-club.com CNAME .
 flea.elbertsnaturalfoods.com CNAME .
 flea.welikeoliver.com CNAME .
-flyingfish.editorslab.de CNAME .
 flyingfish.whoisrepresented.org CNAME .
 fowl.saulhardman.com CNAME .
 fowl.teamyap.app CNAME .
@@ -511,7 +509,6 @@ gerbil.clapsaddleart.com CNAME .
 gerbil.downtown-mafia.com CNAME .
 gerbil.lespetitsbots.com CNAME .
 gerbil.meenit.com CNAME .
-gerbil.recipe-ipsum.com CNAME .
 gibbon.711.st CNAME .
 giraffe.viatorci.com CNAME .
 goat.aicontentdojo.com CNAME .
@@ -560,7 +557,6 @@ harrier.progress.fyi CNAME .
 harrier.scdamerica.com.au CNAME .
 hawk.makroskop.eu CNAME .
 hawk.mjsarfatti.com CNAME .
-hawk.tenpipsclub.com CNAME .
 hedgehog.fightforthefuture.org CNAME .
 heron.joel.is CNAME .
 heron.notability.com CNAME .
@@ -844,6 +840,7 @@ platypus.zwei-bags.ch CNAME .
 polarbear.codeday.org CNAME .
 polarbear.conermurphy.com CNAME .
 porcupine.dvresolve.com CNAME .
+porcupine.reminyborg.com CNAME .
 porpoise.azettl.net CNAME .
 porpoise.fruittreecottage.com.au CNAME .
 porpoise.kristinholl.com CNAME .
@@ -1095,11 +1092,11 @@ whitefish.kenku.fm CNAME .
 wildcat.fspy.io CNAME .
 wildcat.longviewforecasting.com CNAME .
 wildcat.restq.co CNAME .
-wildcat.vivritiamc.com CNAME .
 wildebeest.quarva.dev CNAME .
 wildebeest.soft-spoken.dev CNAME .
 wildebeest.trigo.dev CNAME .
 wildfowl.getmoneyoff.com CNAME .
+wolf.novel.io CNAME .
 wolf.samarasousa.com CNAME .
 wolverine.barac.at CNAME .
 wolverine.prsaccreditation.com CNAME .
@@ -1129,8 +1126,10 @@ avemariaas.vmrcommunications.com CNAME .
 carlsonmedia.streetinteractive.com CNAME .
 community.jerseyshoreonline.com CNAME .
 community.noozhawk.com CNAME .
+community.richlandsource.com CNAME .
 connected.ashrae.org CNAME .
 connected.county10.com CNAME .
+daily.thezebra.org CNAME .
 daily.yubanet.com CNAME .
 doppler.streetinteractive.com CNAME .
 featured.premiermedia.net CNAME .
@@ -1208,3 +1207,4 @@ ss.nwemnd.com CNAME .
 ss.nwmnd.com CNAME .
 thirty-good.lugg.com CNAME .
 video.adsninja.ca CNAME .
+gerbil.recipe-ipsum.com CNAME .

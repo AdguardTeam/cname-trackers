@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -127,7 +127,6 @@ share.tenmarks.com CNAME .
 share.vimeo.com CNAME .
 share.wimp.no CNAME .
 share.worldmarket.com CNAME .
-sharethelove.modcloth.com CNAME .
 social.fabkids.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
@@ -140,9 +139,9 @@ earn-and-refer.extoleu.com CNAME .
 em225.codecademy.com CNAME .
 em2287.theory.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
-em7952.dailypay.com CNAME .
+em767.forgetrust.com CNAME .
+em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -258,6 +257,7 @@ refer.firsttechfed.com CNAME .
 refer.forddrive.com CNAME .
 refer.frontgate.com CNAME .
 refer.g2.com CNAME .
+refer.gainbridge.io CNAME .
 refer.gapcanada.ca CNAME .
 refer.gardenoflife.com CNAME .
 refer.garnethill.com CNAME .
@@ -287,6 +287,7 @@ refer.indeed.com CNAME .
 refer.intuit.com CNAME .
 refer.issaonline.com CNAME .
 refer.itbed.com CNAME .
+refer.itcu.org CNAME .
 refer.jewelersmutual.com CNAME .
 refer.joann.com CNAME .
 refer.join1440.com CNAME .
@@ -298,6 +299,7 @@ refer.kerastase-usa.com CNAME .
 refer.knixteen.ca CNAME .
 refer.knixteen.com CNAME .
 refer.labseries.com CNAME .
+refer.lanebryant.com CNAME .
 refer.laroche-posay.us CNAME .
 refer.lasenza.ca CNAME .
 refer.lasenza.com CNAME .
@@ -446,6 +448,7 @@ referral.ammunitiondepot.com CNAME .
 referral.bluehost.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.drunkelephant.com CNAME .
+referral.lgeccu.org CNAME .
 referral.pellaofdfw.com CNAME .
 referral.servicechannel.com CNAME .
 referral.shiseido.com CNAME .
@@ -770,13 +773,14 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
+xtl._domainkey.zoom.us CNAME .
 em1476.princesscruises.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em767.forgetrust.com CNAME .
-em8561.go2bank.com CNAME .
+em7952.dailypay.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
+xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 sftp.extole.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -104,7 +104,6 @@ insights.affilimate.com CNAME .
 jinx.skullctf.com CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
 l.lilyzhou.com CNAME .
-l2k30jsa.theochu.com CNAME .
 lkj23jlkajsa.realestate.help CNAME .
 log.rhythmtowers.com CNAME .
 loggychops.paulsmith.site CNAME .
@@ -138,7 +137,6 @@ pa-stats.encore.dev CNAME .
 pa.opqr.co CNAME .
 ping.naturadapt.com CNAME .
 ping.resoluteoil.com CNAME .
-pl-web-stats-icy7xvjbpxsxf8gwwz5c.theochu.com CNAME .
 pl.1feed.app CNAME .
 pl.astro-akatemia.fi CNAME .
 pl.astro.fi CNAME .
@@ -199,7 +197,6 @@ plausible.external.sine.foundation CNAME .
 plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
 plausible.flowcv.io CNAME .
-plausible.getlean.digital CNAME .
 plausible.giveatip.io CNAME .
 plausible.golfbreaks.com CNAME .
 plausible.gryka.net CNAME .
@@ -241,7 +238,6 @@ plausible.starlegacyfoundation.org CNAME .
 plausible.strzibny.name CNAME .
 plausible.sysloun.cz CNAME .
 plausible.tac.dappstar.io CNAME .
-plausible.tasteslikeme.ca CNAME .
 plausible.thefutureoftheworkplacebook.com CNAME .
 plausible.tlschedule.com CNAME .
 plausible.treelightsoftware.com CNAME .
@@ -307,6 +303,7 @@ site-stats.supernotes.app CNAME .
 sp.ballsdigroup.com CNAME .
 sp.gameomatic.fr CNAME .
 sp.jrklein.com CNAME .
+sp.notifysonic.com CNAME .
 sp.soniccares.com CNAME .
 sp.spaceomatic.fr CNAME .
 sp.wvoil.com CNAME .
@@ -333,7 +330,6 @@ stats.adlperformance.es CNAME .
 stats.aikidowaza.com CNAME .
 stats.aixbrain.de CNAME .
 stats.albert-kropp-gmbh.de CNAME .
-stats.alibhai.co CNAME .
 stats.alleaktien.de CNAME .
 stats.alocreativa.com CNAME .
 stats.am.ai CNAME .
@@ -444,7 +440,6 @@ stats.divyanshu013.dev CNAME .
 stats.dmail.co.nz CNAME .
 stats.dmarcdigests.com CNAME .
 stats.donal.us CNAME .
-stats.doors.live CNAME .
 stats.dotnetos.org CNAME .
 stats.dotplan.io CNAME .
 stats.doublejones.com CNAME .
@@ -532,8 +527,8 @@ stats.homestow.com CNAME .
 stats.hpz-scharnhausen.de CNAME .
 stats.htmlcsstoimage.com CNAME .
 stats.htp.org CNAME .
+stats.huysman.be CNAME .
 stats.huysmanbouw.be CNAME .
-stats.iamzero.dev CNAME .
 stats.ibuildings.net CNAME .
 stats.igassmann.me CNAME .
 stats.igor4stir.com CNAME .
@@ -721,7 +716,6 @@ stats.psychotherapieravensburg.de CNAME .
 stats.pubfind.io CNAME .
 stats.qbitstore.nl CNAME .
 stats.qovery.com CNAME .
-stats.quantumly.dev CNAME .
 stats.quicksilvercre.com CNAME .
 stats.radicaldata.org CNAME .
 stats.radicitoscane.it CNAME .
@@ -738,7 +732,6 @@ stats.reprage.com CNAME .
 stats.respkt.de CNAME .
 stats.reto.tv CNAME .
 stats.retroware.com CNAME .
-stats.revitfamily.app CNAME .
 stats.rideinpeace.ie CNAME .
 stats.rightourhistoryhawaii.com CNAME .
 stats.robotika.ax CNAME .
@@ -863,6 +856,7 @@ stats.www.agirpourlenvironnement.org CNAME .
 stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
 stats.xn--antnio-dxa.pt CNAME .
+stats.xrechnung.app CNAME .
 stats.zimri.net CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.authramp.com CNAME .

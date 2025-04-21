@@ -31,5 +31,6 @@
 | wct.softonic.nl | api.wecantrack.com |
 | wct.softonic.pl | api.wecantrack.com |
 | wct.softonic.ru | api.wecantrack.com |
+| wctsub.hostingcheck24.de | api.wecantrack.com |
 | wctsub.start24.nl | api.wecantrack.com |
 | w.vpnalert.com | fallback.wecantrack.com |

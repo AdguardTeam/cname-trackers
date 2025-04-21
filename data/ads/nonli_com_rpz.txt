@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,6 +59,7 @@ l.charentelibre.fr CNAME .
 l.chartsinfrance.net CNAME .
 l.closermag.fr CNAME .
 l.cnetfrance.fr CNAME .
+l.compradiccion.com CNAME .
 l.contexte.com CNAME .
 l.courrier-picard.fr CNAME .
 l.cuisineactuelle.fr CNAME .
@@ -204,6 +205,7 @@ l.topmusic.fr CNAME .
 l.topsante.com CNAME .
 l.touteleurope.eu CNAME .
 l.traxmag.com CNAME .
+l.trendencias.com CNAME .
 l.uppercutmma.com CNAME .
 l.varmatin.com CNAME .
 l.voici.fr CNAME .

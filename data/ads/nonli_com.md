@@ -98,6 +98,7 @@
 | l.chartsinfrance.net | tls.non.li |
 | l.closermag.fr | tls.non.li |
 | l.cnetfrance.fr | tls.non.li |
+| l.compradiccion.com | tls.non.li |
 | l.contexte.com | tls.non.li |
 | l.courrier-picard.fr | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
@@ -228,6 +229,7 @@
 | l.topmusic.fr | tls.non.li |
 | l.topsante.com | tls.non.li |
 | l.touteleurope.eu | tls.non.li |
+| l.trendencias.com | tls.non.li |
 | l.uppercutmma.com | tls.non.li |
 | l.voici.fr | tls.non.li |
 | l.zdnet.fr | tls.non.li |

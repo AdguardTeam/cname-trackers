@@ -43,6 +43,7 @@ affil.kralovstvi-tiande.cz
 affil.lesgoodies.com
 affil.litinove-nadobi.cz
 affil.lojdovale.cz
+affil.mirakubat.cz
 affil.moringamix.cz
 affil.mydrinks.cz
 affil.nanoshop.cz
@@ -236,7 +237,6 @@ affiliate.postel.cz
 affiliate.pravopropodnikatele.cz
 affiliate.prikryvky-obchod.cz
 affiliate.prodietix.cz
-affiliate.progresguru.cz
 affiliate.pt-shop.cz
 affiliate.rajkratomu.cz
 affiliate.reduccia.cz
@@ -304,7 +304,6 @@ brana.ritualyomlazeni.cz
 collab.zdravetricko.cz
 cryptonow.algomoneo.com
 dbsaysnba4ygmwav.algomoneo.com
-dekovacka.stickersmakers.cz
 devaff.bitcoinzmenaren.sk
 doporuc.hopsej.cz
 doporuc.kingray.sk
@@ -473,7 +472,6 @@ partner.bio-nehty.cz
 partner.biomag.cz
 partner.birne.com
 partner.bitcoinzmenaren.sk
-partner.bohemiaclean.eu
 partner.bohempia.com
 partner.bomtonbeauty.cz
 partner.bontonck.cz
@@ -500,7 +498,6 @@ partner.chcivedet.com
 partner.chevronnutrition.cz
 partner.chiashake.cz
 partner.chilimarket.cz
-partner.chococo.cz
 partner.chocolatehill.cz
 partner.chytranemovitost.cz
 partner.chytrydopravce.cz
@@ -634,6 +631,7 @@ partner.liberec-ubytovani.cz
 partner.lidajirickova.cz
 partner.ligsuniversity.cz
 partner.lorooro.com
+partner.lovella.cz
 partner.ltx.cz
 partner.luckyalvin.cz
 partner.lyzelyze.cz
@@ -723,6 +721,7 @@ partner.rozhladna.sk
 partner.roztouzeny.cz
 partner.ruzovyslon.cz
 partner.salibandy.shop
+partner.sambalshop.cz
 partner.santao.cz
 partner.scilearn.cz
 partner.scootshop.cz
@@ -828,6 +827,7 @@ partneri.espressoenglish.cz
 partneri.evolveo.com
 partneri.evolveo.cz
 partneri.fengshuiacademy.cz
+partneri.fistar.cz
 partneri.fitstore.cz
 partneri.frcime.cz
 partneri.freli.cz
@@ -886,7 +886,6 @@ partneri.portske.cz
 partneri.prectime.cz
 partneri.professionail.sk
 partneri.proficredit.cz
-partneri.progresguru.cz
 partneri.pulzsro.cz
 partneri.puravia.cz
 partneri.radostkazdyden.cz
@@ -957,7 +956,6 @@ provize.vybavenifitness.cz
 provize.wugi.cz
 provize.zazitkovelety.cz
 provizia.mimulo.sk
-provizia.vitalitypradlo.sk
 proviznisystem.kanclir.cz
 rek.rybizak.cz
 royalfamily.royalchaga.sk
@@ -986,6 +984,7 @@ spoluprace.m-soft.cz
 spoluprace.majka-shop.cz
 spoluprace.megalu.cz
 spoluprace.mentorkalucie.cz
+spoluprace.narozlucku.cz
 spoluprace.nordictelecom.cz
 spoluprace.obchod-kufry.cz
 spoluprace.obchod-setrilek.cz

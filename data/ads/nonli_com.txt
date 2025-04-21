@@ -48,6 +48,7 @@
 ||l.chartsinfrance.net^
 ||l.closermag.fr^
 ||l.cnetfrance.fr^
+||l.compradiccion.com^
 ||l.contexte.com^
 ||l.courrier-picard.fr^
 ||l.cuisineactuelle.fr^
@@ -193,6 +194,7 @@
 ||l.topsante.com^
 ||l.touteleurope.eu^
 ||l.traxmag.com^
+||l.trendencias.com^
 ||l.uppercutmma.com^
 ||l.varmatin.com^
 ||l.voici.fr^

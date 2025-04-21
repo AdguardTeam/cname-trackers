@@ -664,6 +664,7 @@
 3587723.notifysrv.com
 3587729.notifysrv.com
 3587731.notify6.com
+3587731.notifysrv.com
 3587733.notify6.com
 3587733.notifysrv.com
 3587739.notifysrv.com
@@ -1023,6 +1024,7 @@
 4179930.notify6.com
 4182036.notify6.com
 4188246.notify6.com
+4189270.notify6.com
 4189280.notify6.com
 4189332.notify6.com
 4189336.notify6.com
@@ -1184,7 +1186,9 @@
 5350536.notify6.com
 5535014.notify6.com
 5542538.notify6.com
+5551114.notify6.com
 5567292.notify6.com
+5571074.notify6.com
 5602.notify.optimizesrv.com
 577.notify.optimizesrv.com
 583.notify.optimizesrv.com
@@ -1209,11 +1213,13 @@
 993.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
-a.344eva.com
+a.18ramp.com
+a.adsession.com
 a.advantageclicks.net
 a.b7q9v8z.com
 a.cant3am.com
 a.eunow4u.com
+a.golhofer.com
 a.huklop.com
 a.ma3ion.com
 a.mx.notifysrv.com
@@ -1222,10 +1228,7 @@ a.ns.notifysrv.com
 a.optimizesrv.com
 a.playa.to
 a.q88z1s3.com
-a.r8lnet.com
-a.santabrowser.com
 a.tf4srv.com
-a.traffic-gold.com
 a.vws4brkfst.com
 abc.notifysrv.com
 accept.notifysrv.com
@@ -1246,7 +1249,6 @@ admin1.notifysrv.com
 administration.notifysrv.com
 admissions.notifysrv.com
 adrepository.opoxv.com
-ads.optimizesrv.com
 ads.toroadvertising.com
 adult.notifysrv.com
 android.notifysrv.com
@@ -1327,7 +1329,6 @@ rtb.nowsrv.com
 rtb.optidigital.com
 rtb.trafficfactory.com
 s.18ramp.com
-s.344eva.com
 s.adnflow.com
 s.adsession.com
 s.advantageclicks.net
@@ -1363,6 +1364,10 @@ s.dsqcjk.com
 s.dss1bi.com
 s.dsskyw.com
 s.dsssnr.com
+s.dst8vn.com
+s.dstfgh.com
+s.dsvrqo.com
+s.dsx827.com
 s.eaalink.com
 s.elink2b.com
 s.elink2c.com
@@ -1416,7 +1421,9 @@ s.elnz21.com
 s.elnz23.com
 s.etology.com
 s.eunow4u.com
+s.exoqarys.com
 s.exv6.com
+s.golhofer.com
 s.huklop.com
 s.linkv3c.com
 s.linkw2c.com
@@ -1439,7 +1446,6 @@ s.pemsrv.com
 s.playa.to
 s.q88z1s3.com
 s.rocoads.net
-s.st1net.com
 s.tf4srv.com
 s.traffic-gold.com
 s.vlink6.com
@@ -1453,6 +1459,7 @@ s.zlink2.com
 s.zlink3.com
 s.zlink4.com
 s.zlink6.com
+s.zlink7.com
 s.zlink8.com
 s.zlink9.com
 s.zlinkb.com
@@ -1624,11 +1631,13 @@ www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
-a.18ramp.com
-a.adsession.com
 a.advertrek.com
 a.asvsm.com
 a.bizonads-ssp.com
 a.etology.com
 a.ouzads.com
+a.r8lnet.com
 a.rocoads.net
+a.santabrowser.com
+a.traffic-gold.com
+ads.optimizesrv.com

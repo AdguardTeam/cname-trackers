@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,14 +28,16 @@ collect.asics.com CNAME .
 collect.calvinklein.at CNAME .
 collect.calvinklein.ch CNAME .
 collect.calvinklein.co.uk CNAME .
+collect.calvinklein.com CNAME .
 collect.calvinklein.cz CNAME .
 collect.calvinklein.de CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
-collect.calvinklein.hr CNAME .
 collect.calvinklein.it CNAME .
-collect.calvinklein.lv CNAME .
+collect.calvinklein.lt CNAME .
+collect.calvinklein.lu CNAME .
+collect.calvinklein.nl CNAME .
 collect.calvinklein.pl CNAME .
 collect.calvinklein.pt CNAME .
 collect.kinto-jp.com CNAME .
@@ -92,7 +94,6 @@ t.powerequipmentdirect.com CNAME .
 t.pressurewashersdirect.com CNAME .
 t.sumppumpsdirect.com CNAME .
 t.waterpumpsdirect.com CNAME .
-tag.bi.serviceplan.com CNAME .
 tagdelivery.mayoclinic.org CNAME .
 tags.3m.co.cr CNAME .
 tags.3m.com.hk CNAME .
@@ -217,6 +218,7 @@ tags.mysynchrony.com CNAME .
 tags.nab.com.au CNAME .
 tags.nba.com CNAME .
 tags.netmoms.de CNAME .
+tags.nutrametrix.com CNAME .
 tags.openbank.us CNAME .
 tags.oportun.com CNAME .
 tags.ozodi.org CNAME .
@@ -310,6 +312,7 @@ tags.voluntariadocaixabank.org CNAME .
 tags.votvot.tv CNAME .
 tags.vozdeamerica.com CNAME .
 tags.wainao.me CNAME .
+tags.wivai.com CNAME .
 tags.wnba.com CNAME .
 tags.zeriamerikes.com CNAME .
 tccd.douglas.at CNAME .
@@ -327,9 +330,7 @@ tccd.douglas.lt CNAME .
 tccd.douglas.lv CNAME .
 tccd.douglas.nl CNAME .
 tccd.douglas.pl CNAME .
-tccd.douglas.pt CNAME .
 tccd.douglas.ro CNAME .
-tccd.douglas.si CNAME .
 tccd.douglas.sk CNAME .
 tccd.niche-beauty.com CNAME .
 tccd.nocibe.fr CNAME .
@@ -411,8 +412,9 @@ tttd.parfumdreams.nl CNAME .
 tttd.parfumdreams.pl CNAME .
 tttd.parfumdreams.pt CNAME .
 tttd.parfumdreams.se CNAME .
+view.ansons.de CNAME .
 view.oportun.com CNAME .
-view.stylebob.com CNAME .
+view.peek-cloppenburg.de CNAME .
 visitor-service.aeonbank.co.jp CNAME .
 visitor-service.fancl.co.jp CNAME .
 visitor-service.kinto-jp.com CNAME .
@@ -421,6 +423,7 @@ visitor-service.sixpad.jp CNAME .
 visitor.collect.oportun.com CNAME .
 visitor.oportun.com CNAME .
 vtd.twentyfouram.com CNAME .
+vtd.vonsec.com CNAME .
 vtd.vontobel.com CNAME .
 vtd.vontobelsfa.com CNAME .
 webtags.logitech.com CNAME .
@@ -429,18 +432,18 @@ www.tags.kmart.com.au CNAME .
 collect.ansons.de CNAME .
 collect.calvinklein.be CNAME .
 collect.calvinklein.bg CNAME .
-collect.calvinklein.com CNAME .
 collect.calvinklein.dk CNAME .
 collect.calvinklein.ee CNAME .
+collect.calvinklein.hr CNAME .
 collect.calvinklein.hu CNAME .
 collect.calvinklein.ie CNAME .
-collect.calvinklein.lt CNAME .
-collect.calvinklein.lu CNAME .
-collect.calvinklein.nl CNAME .
+collect.calvinklein.lv CNAME .
 collect.calvinklein.se CNAME .
 collect.calvinklein.si CNAME .
 collect.calvinklein.sk CNAME .
+tccd.douglas.pt CNAME .
+tccd.douglas.si CNAME .
 collect.fancl.co.jp CNAME .
+tag.bi.serviceplan.com CNAME .
 tags.sixpad.jp CNAME .
-view.ansons.de CNAME .
-view.peek-cloppenburg.de CNAME .
+view.stylebob.com CNAME .

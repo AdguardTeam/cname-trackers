@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -419,7 +419,6 @@ content22.accountonline.com CNAME .
 content22.bancanet.banamex.com CNAME .
 content22.bancanetempresarial.banamex.com.mx CNAME .
 content22.bmo.com CNAME .
-content22.bmoharris.com CNAME .
 content22.citi.com CNAME .
 content22.citibank.ae CNAME .
 content22.citibank.co.id CNAME .
@@ -674,6 +673,7 @@ lncdn.imaginecredit.com CNAME .
 lncdn.myfortiva.com CNAME .
 lndata.labor.maryland.gov CNAME .
 lndata.labor.md.gov CNAME .
+lnday.sinclair.edu CNAME .
 lnths.twc.texas.gov CNAME .
 lnthxsvc.tsp.gov CNAME .
 log.betdaq.com CNAME .
@@ -742,7 +742,6 @@ pages.fiduciarytrust.com CNAME .
 pages.franklintempleton.com CNAME .
 paiement.cb4x.fr CNAME .
 partition.enterprise.com CNAME .
-payment.rewards.sony.com CNAME .
 payments-de.lidlplus.com CNAME .
 payments.direct.playstation.com CNAME .
 payments.hd-plus.de CNAME .
@@ -1066,6 +1065,7 @@ tm.betano.cz CNAME .
 tm.betano.de CNAME .
 tm.betano.dk CNAME .
 tm.betano.mx CNAME .
+tm.betano.ng CNAME .
 tm.cbd.ae CNAME .
 tm.clearcover.com CNAME .
 tm.cox.com CNAME .
@@ -1082,6 +1082,7 @@ tm.flowbirdapp.com CNAME .
 tm.goldennuggetcasino.com CNAME .
 tm.gumtree.co.za CNAME .
 tm.gumtree.com.au CNAME .
+tm.humanesociety.org CNAME .
 tm.kotak.com CNAME .
 tm.okinushub.com CNAME .
 tm.paysafecard.com CNAME .
@@ -1165,7 +1166,6 @@ tmx.katapult.com CNAME .
 tmx.kijiji.ca CNAME .
 tmx.manulifebank.com CNAME .
 tmx.monzo.co.uk CNAME .
-tmx.pampersrewards.com CNAME .
 tmx.pat.td.com CNAME .
 tmx.prod.efsllc.com CNAME .
 tmx.rnd.gemaltodigitalbankingidcloud.com CNAME .
@@ -1180,6 +1180,7 @@ tmxjs.tokyodisneyresort.jp CNAME .
 tooling.ynap.biz CNAME .
 tprofile.goldmansachs.tech CNAME .
 tracking.psecu.com CNAME .
+transactionrisk.cashfree.com CNAME .
 trust.gyft.com CNAME .
 ts04358.picpay.com CNAME .
 tsaian.verizonwireless.com CNAME .
@@ -1191,7 +1192,6 @@ txcontent.iherb.cn CNAME .
 txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
-uatidentity4.citidirect.com CNAME .
 ucfs.sendpro360.pitneybowes.com CNAME .
 ucfs.sendpro360.pitneycloud.com CNAME .
 ufp.intuit.com CNAME .

@@ -60,6 +60,7 @@ elq.efront.com
 elq.egi.co.uk
 elq.icis.com
 elq.ishares.com
+elq.macu.com
 elq.marketingdecisions.com.au
 elq.northwestms.edu
 elq.proconnect.intuit.com
@@ -80,6 +81,7 @@ elqtracking.bonniernewsevents.se
 elqtracking.dagensmedia.se
 elqtracking.dagenssamhalle.se
 elqtracking.dagligvarunytt.se
+elqtracking.di.se
 elqtracking.medidata.com
 elqtracking.mercer-retirement.co.uk
 elqtracking.resume.se
@@ -225,6 +227,7 @@ t.calbears.com
 t.cbulancers.com
 t.centreinthesquare.com
 t.cerfrance-broceliande.fr
+t.cerfrance22.fr
 t.charlotte49ers.com
 t.chartwayarena.com
 t.cincinnatiarts.org
@@ -254,6 +257,7 @@ t.fairparkdallas.com
 t.fgcuathletics.com
 t.fightingillini.com
 t.fightingirish.com
+t.foapom.com
 t.fordidahocenter.com
 t.foundationrelations.duke.edu
 t.foxtheatre.org
@@ -462,6 +466,7 @@ track.biz.lguplus.com
 track.dunedinincomegrowth.co.uk
 track.e.batesville.com
 track.education.kenschool.jp
+track.exeterisc.com
 track.financialfairness.org.uk
 track.go.qiagen.com
 track.hofstrainternationalprograms.com
@@ -490,6 +495,7 @@ tracking.amadeus.com
 tracking.americas.tradeid.com
 tracking.arbor.edu
 tracking.arcadis.com
+tracking.arctera.io
 tracking.biz.alabamapower.com
 tracking.biz.georgiapower.com
 tracking.brady.be
@@ -634,6 +640,7 @@ tracking.syncsketch.com
 tracking.tdk.cn
 tracking.thermoinfo.com
 tracking.thomsonreuters.com
+tracking.tink.com
 tracking.tuftsmedicine.org
 tracking.tulsadrillers.com
 tracking.umms.org
@@ -691,6 +698,7 @@ trck.auscomms.empoweringtech.com
 trck.benefits.alliant.com
 trck.by.cevalogistics.com
 trck.comms.watlow.com
+trck.communications.fredhutch.org
 trck.csnotification.veritas.com
 trck.discover.evaluate.com
 trck.e.atradius.com
@@ -745,6 +753,7 @@ trck.newsletter.uolparamarcas.uol.com.br
 trck.outreach.vitalant.org
 trck.ptvlogistics.com
 trck.relacionamento.uol.com.br
+trck.renew.orhp.com
 trck.resources.blueprintgenetics.com
 trck.www4.earlywarning.com
 trck.www4.paze.com
@@ -957,6 +966,7 @@ trk.the5gexchange.com
 trk.thea.at
 trk.theaisummit.com
 trk.thebenchfactory.com
+trk.thomas-pump.cn
 trk.thomaspumps.com
 trk.todocouplings.com
 trk.totalpolitics.com
@@ -986,6 +996,7 @@ trk.xzamlabs.com
 trk.yzsystems.com
 trk.zeks.com
 trk.zinsser-analytic.com
+trk01.iotworldtoday.com
 trk02.knect365.com
 trk03.knect365.com
 trk04.informatech.com
@@ -1071,7 +1082,6 @@ trkgbm.business.hsbc.pl
 trkgbm.business.hsbc.se
 trkgbm.business.hsbc.uk
 trkgbm.business.hsbcamanah.com.my
-trkgbm.business.maldives.hsbc.com
 trkgbm.business.us.hsbc.com
 trkgbm.empresas.hsbc.com.mx
 trkgbm.firmenkunden.hsbc.de
@@ -1241,7 +1251,6 @@ accelerate.nuance.com
 acceptcards.americanexpress.co.uk
 accounting.frbservices.org
 act.firstdata.com
-adi.ni.com
 advisor.americanexpress.ca
 ahima.coniferhealth.com
 albanychicago.advancedtech.com
@@ -1250,7 +1259,6 @@ alerts.wolterskluwerfs.com
 alternativetechnology.arrow.com
 am.siemensplmevents.com
 aosmith.advancedtech.com
-api-websystems.landing.ni.com
 apm.relationshipone.com
 app.53seconds.53.com
 app.aaas-science.org
@@ -1284,7 +1292,6 @@ app.customer.adaptiveplanning.com
 app.customerservice.royalmail.com
 app.deliver.trendmicro.co.jp
 app.demand.nexsan.com
-app.demand.ni.com
 app.dtlphx.net
 app.e.dowjones.com
 app.e.flukecal.com
@@ -1519,7 +1526,6 @@ corporatemrguide.americanexpress.de
 cortellisconnections.thomsonreuters.com
 costefficiencies.ironmountain.com
 crm.ironmountain.com
-crm.landing.ni.com
 crm.leads360.com
 crm.velocify.com
 custom.dowjones.com
@@ -1534,7 +1540,6 @@ de-de.siemensplmevents.com
 de.mywd.com
 defygravity.convio.com
 dell.compellent.com
-delphi.ni.com
 dialer.leads360.com
 dialer.velocify.com
 digital.aptaracorp.com
@@ -1547,7 +1552,6 @@ docimaging.nuance.com
 downeconomywp.advancedtech.com
 downloads.advancedtech.com
 downloads.mcgladrey.com
-dozententag.ni.com
 drive.seagate.com
 e-learning.brainshark.com
 e.gettyimages.ae
@@ -1580,7 +1584,6 @@ es-es.siemensplmevents.com
 es-sa.siemensplmevents.com
 etscampaign.motorola.com
 eu.ironmountain.com
-evelynn.landing.ni.com
 event.ortec.com
 events.centex.com
 events.compellent.com
@@ -1650,13 +1653,13 @@ goto.heartlandpaymentsystems.com
 groups.heatexperience.com
 h30574.www3.hp.com
 happyholidays.coniferhealth.com
-harris.ni.com
 healthcare.mcgladrey.com
 hello.trailblazers.com
 hptechnology.arrow.com
 i-ready.curriculumassociates.com
 ibmtechnology.arrow.com
 id.mywd.com
+iforms.iso.com
 images.connect.mandiant.com
 images.na.sage.com
 images.qumu.com
@@ -1710,7 +1713,6 @@ insurance.velocify.com
 insure.amsservices.com
 insure.vertafore.com
 interest.truvenhealth.com
-ipv3.landing.ni.com
 iready.curriculumassociates.com
 irmsolutions.choicepoint.com
 isbworld.aon.com
@@ -1724,7 +1726,6 @@ kunde.danskespil.dk
 kz.mywd.com
 la.idgenterprise.com
 labs.verticurl.com
-lan.landing.ni.com
 leadmanagement.leads360.com
 leadmanagement.velocify.com
 learn.huthwaite.com
@@ -1737,7 +1738,6 @@ links.global.protiviti.com
 links.go.shoretel.com
 links.qumu.com
 m.mywd.com
-march.landing.ni.com
 marketing.adaptiveplanning.com
 marketing.aviationweek.com
 marketing.enterprisedb.com
@@ -1767,7 +1767,6 @@ my.totaljobs.com
 myinfo.borland.com
 mysite.webroot.com
 mystery.vfmleonardo.com
-mywebpage.ni.com
 nbia.aon.com
 ndi.nuance.com
 networkingexchange.att.com
@@ -1779,7 +1778,6 @@ newsflash.elliemae.com
 newsletter.standardandpoors.com
 newsletter.teletech.com
 nidays.austria.ni.com
-nidays.suisse.ni.com
 nidays.switzerland.ni.com
 nonprofit.aon.com
 now.m5net.com
@@ -1867,7 +1865,6 @@ rh.adp.ca
 rims.aig.com
 rsvp.heatexperience.com
 ru-ru.siemensplmevents.com
-s3.landing.ni.com
 saleslists.inform.equifax.com
 savings.adp.ca
 se-se.siemensplmevents.com
@@ -1906,7 +1903,6 @@ teammate.arclogics.com
 technologyservices.equifax.com
 technologyservices.inform.equifax.com
 techsupport.balluff.com
-tesla-fortytwo.landing.ni.com
 test.gogoinflight.com
 testforms.fidelity.ca
 thrive.metagenics.com
@@ -1916,12 +1912,10 @@ training.thunderhead.com
 try.tableau.com
 try.tableausoftware.com
 tv.totaljobs.com
-u.landing.ni.com
 update.purina.com
 videos.adp.ca
 videos.personneltoday.com
 view.aon.com
-vip.german.ni.com
 vip.granicus.com
 vip.maxtor.com
 web.morganfranklin.com
@@ -1970,6 +1964,7 @@ www.rh.adp.ca
 www.rims.aig.com
 www.save.adp.ca
 www.savings.adp.ca
+www.smart46.lplnow.com
 www.sp-newfunds.com
 www.subscriptions.nokiasiemensnetworks.com
 www.us.roche-applied-science.com
@@ -2114,6 +2109,7 @@ trackingalumni.accenturealumni.com
 trck.copeland.com
 u.audi-pureprotection.com
 we.care.oswegohealth.org
+www.futureofcoffee.com
 www.medsupmadesimple.com
 www.medsupsimple.com
 www.safecoprograms.com
@@ -2720,6 +2716,7 @@ trk.informaengage.com
 www.secure.rc-club.ricoh.co.jp
 active.sangfor.com
 bestill.help.no
+confirmationngbs.reedexpo.co.uk
 email.mymandg.co.uk
 forms.mymandg.co.uk
 go.cerfrance-broceliande.fr
@@ -2831,7 +2828,6 @@ images.connect2.bt.com
 images.connect2.cebglobal.com
 images.connect2.globalservices.bt.com
 images.constellation.quintiles.com
-images.contact.cigna.com
 images.contact.princess.com
 images.contact.regus.com
 images.contact.staubli.com
@@ -2884,7 +2880,6 @@ images.e.mylanlabs.com
 images.e.pcm.com
 images.e.realtor.com
 images.e.seagate.com
-images.e.tcichemicals.com
 images.e.transunion.co.uk
 images.e.transunion.com
 images.e.tycois.com
@@ -2953,7 +2948,6 @@ images.globalempcomm.visa.com
 images.go.aifs.com
 images.go.alightsolutions.com
 images.go.anixter.com
-images.go.bge.com
 images.go.bluejacketslink.com
 images.go.bouyguestelecom.fr
 images.go.braintreepayments.com
@@ -2987,7 +2981,6 @@ images.go.pelican.com
 images.go.pioneer.com
 images.go.provider.vsp.com
 images.go.siriusdecisions.com
-images.go.spurs.com
 images.go.staubli.com
 images.go.tennisfame.com
 images.go.themarketingscience.com
@@ -3002,6 +2995,7 @@ images.grootzakelijk.kpn.com
 images.groupcommunications.royalmail.com
 images.h.analog.com
 images.hcp.dfamessaging.com
+images.health.ghvhs.org
 images.health.hendricks.org
 images.health.stlukes-stl.com
 images.healthlink.rsfh.com
@@ -3069,7 +3063,6 @@ images.info.youbet.dk
 images.info.yourmobilitypartner.com
 images.info.yoursolutionspartner.com
 images.info.yousee.dk
-images.infofreddiemac.com
 images.informador.davivienda.com
 images.information.thmarch.co.uk
 images.inport.princess.com
@@ -3183,7 +3176,6 @@ images.news.auchan.lu
 images.news.extrahop.com
 images.news.lavoro.gov.it
 images.news.meraas.com
-images.news.panasonic.asia
 images.news.psjhealth.org
 images.news.thunderinsider.com
 images.newsletter.hach.com.cn
@@ -3226,7 +3218,6 @@ images.query.adelaide.edu.au
 images.reach.tmf-group.com
 images.register.deloittece.com
 images.register.lighthouse-media.com
-images.reldirect.lenovo.com
 images.respond.macktrucks.com
 images.respond.overheaddoor.com
 images.respons.aftenposten.no
@@ -3325,8 +3316,8 @@ imginfo.insource.co.jp
 obrazy.dlabiznesu.pracuj.pl
 response.quest.com
 yourporscheimg.nabooda-auto.com
-images.health.ghvhs.org
-images.response.vodafone.co.nz
+images.info.universalfurniture.com
+images.info.walibi.nl
 admin.smartgroup.com.au
 cars.autopia.com.au
 cars.smartfleetaustralia.com.au
@@ -3385,6 +3376,7 @@ lp.solutions.cegos.it
 lp.sophos.com
 lp.totalpolitics.com
 mail.rethinkretirementincome.co.uk
+marketing.enigen.co.uk
 newsletter.euromaster-neumaticos.es
 notify.eset.com
 promociones.euromaster-neumaticos.es
@@ -3447,7 +3439,6 @@ elq.ansible.com
 elq.enterprisersproject.com
 elq.feedbacknow.com
 elq.forrester.com
-elq.macu.com
 elq.openshift.com
 elq.opensource.com
 elq.redhat.com
@@ -3460,10 +3451,12 @@ finance.siemens-info.com
 fr.adpinfo.com
 fr.secure.sonosite.com
 fun.relationshipone.com
+fund.eloqua.org
 fusion.relationshipone.com
 ghp.adp.ca
 go.imaginecommunications.com
 go.iowacubs.com
+go.saintsbaseball.com
 go.tulsadrillers.com
 hr.adp.ca
 images.refinitiv.com
@@ -3539,7 +3532,6 @@ www.adpinfo.com
 www.hr.adp.ca
 www.info.avalara.com
 www.infos-experts.adp.com
-www.r1lca.com
 www.tracking.adp.ch
 www.tracking.adp.co.uk
 www.tracking.fr.adp.com
@@ -3747,6 +3739,7 @@ go.hager.se
 imhx.logistics-channel.com
 info.atosmedical.com
 info.digitalondemand.pwc.com
+intel-trk.i-law.com
 intel-trk.lloydslistintelligence.com
 kampanjer.yxvisa.no
 news.logistics-channel.com
@@ -4065,6 +4058,7 @@ tracking.barcodegiant.com
 tracking.barcodesinc.com
 tracking.digitalid.co.uk
 tracking.idcardgroup.com
+tracking.idsuperstore.com
 tracking.idwholesaler.com
 tracking.idzone.com
 tracking.marketing.protective.com
@@ -4297,6 +4291,7 @@ communications.adpinfo.com
 connect.build.com
 connect.compactappliance.com
 connect.faucet.com
+connect.faucetdirect.com
 connect.handlesets.com
 connect.the-stockmarket.com
 connect.ventingdirect.com
@@ -4309,6 +4304,7 @@ elqtrk.hp.com
 email-cm.stage-jp.jll.com
 email-cm.stage-uk.jll.com
 email-cm.stage-us.jll.com
+email-cm.stage.us.jll.com
 engage.build.com
 engage.ferguson.com
 events.golubcapital.com
@@ -4577,6 +4573,7 @@ answers.teradata.hu
 answers.teradata.in
 answers.teradata.jp
 answers.teradata.mx
+answers.teradata.nl
 answers.teradata.pk
 answers.teradata.pl
 answers.teradata.ru
@@ -4698,6 +4695,7 @@ digital-engineering.de
 elq.mcphersonoil.com
 emailhoteldevelopment.ihg.com
 globalsolutions.risk.lexisnexis.com
+go.eml.l-com.cn
 go.memphisredbirds.com
 go.omnissa.com
 go.reach.utep.edu
@@ -4840,6 +4838,7 @@ track.quad.com
 tracking.global-demand02.nec.com
 tracking.granular.ag
 tracking.hcltech.com
+tracking.insead.edu
 tracking.pioneer.com
 trk.protiviti.com
 web.novunapersonalfinance.co.uk
@@ -4971,6 +4970,7 @@ engage.3msverige.se
 eumeainfo.motorolasolutions.com
 experiencia.coopecaja.fi.cr
 fpc.arborcrowd.com
+fpc.sigsaueracademy.com
 go-communications.comed.com
 go-learn.comed.com
 go-marketing.comed.com
@@ -4979,7 +4979,6 @@ go.mwe.com
 guidance.choosemylo.com
 info.aacargo.com
 info.avtecinc.com
-info.banpronicaragua.com.ni
 info.christus.mx
 info.engage.3m.com
 info.mackayshields.com
@@ -5140,6 +5139,7 @@ strikenurse.usnursing.com
 ticketoffice.liberty.edu
 track.info.mmm-online.com
 track.info.thepmd.com
+tracking.info.terex.com
 tracking.matsinc.com
 tracking.mattersurfaces.com
 trk.novelis.com
@@ -5225,6 +5225,7 @@ application.ricoh.co.uk
 application.ricoh.co.za
 application.ricoh.de
 application.ricoh.ie
+asset-app.discover.jll.com
 bps.ricoh.co.uk
 bps.ricoh.ie
 builders.dahlsens.com.au
@@ -5310,6 +5311,7 @@ itservices.ricoh.co.za
 itservices.ricoh.de
 itservices.ricoh.ie
 learn.certiport.com
+legacy.www.discover.jll.com
 lets.go.haymarketmedicalnetwork.com
 lieudetravail.ricoh.fr
 lp.tix.lehigh.edu
@@ -5366,6 +5368,7 @@ track.info.thecardiologyadvisor.com
 tracking.go.beacontrust.com
 tracking.go.provident.bank
 tracking.test.insead.edu
+tracking.uberflip.com
 trk.icmi.com
 trk.secure.icmi.com
 vertical.ricoh.fr
@@ -5647,6 +5650,7 @@ t.fermion.fi
 t.itsehoitoapteekki.fi
 t.orion.fi
 t.orionkeraily.fi
+t.orionrespiratory.com
 t.orionvet.no
 t.toxbuddy.com
 tracking-capitalbank-jo-877029.p06.elqsandbox.com
@@ -5705,6 +5709,7 @@ it-mktg.vodafone.com
 learn.amllp.com
 learn.armanino.com
 lp.supremapoker.com.br
+map.sprecherschuh.com
 marketing.business.vodafone.co.uk
 mt-business.vodafone.com
 oiat.dow.com
@@ -5751,6 +5756,7 @@ exhibit.shponline.co.uk
 exhibit.ubm-events.com
 fromhttptohttps.atea.fi
 go.century21.fr
+go.e.mhcmobility.nl
 histoire.global.communications.bnpparibas
 impact.carmeuse.com
 invest.global.communications.bnpparibas
@@ -6087,6 +6093,7 @@ info.rcgt.com
 mon.xactware.com
 my.verisk.com
 my.xactware.co.uk
+now.informamail10.com
 nyhed.danskespil.dk
 offers.desertschools.org
 reach.ironmountain.com
@@ -6332,6 +6339,7 @@ go.exactonline.fr
 go.exactonline.nl
 p06.sc.origins.en25.com
 s1325061471.sc.origins.en25.com
+s1782711468.sc.origins.en25.com
 s1885709864.sc.origins.en25.com
 s2013560044.sc.origins.en25.com
 s861531437.sc.origins.en25.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,6 +43,7 @@ estat.edel-kraut.de CNAME .
 estats.globus.de CNAME .
 et.akademie-handel.de CNAME .
 et.corpuls.world CNAME .
+et.dremo.com CNAME .
 et.electronic4you.at CNAME .
 et.electronic4you.de CNAME .
 et.electronic4you.hr CNAME .
@@ -60,6 +61,7 @@ etd.kramer-online.com CNAME .
 etd.wackerneusongroup.com CNAME .
 etd.weidemann.com CNAME .
 etr.cosee.biz CNAME .
+etr.green-planet-energy.de CNAME .
 etrac.lodenwalker.com CNAME .
 etrac.tita.at CNAME .
 etracker.alex-gross.com CNAME .
@@ -72,6 +74,7 @@ etracker.louis-moto.fr CNAME .
 etracker.louis-moto.it CNAME .
 etracker.louis.at CNAME .
 etracker.louis.be CNAME .
+etracker.louis.biz CNAME .
 etracker.louis.cz CNAME .
 etracker.louis.de CNAME .
 etracker.louis.es CNAME .
@@ -87,6 +90,7 @@ ettcc.steute-meditec.com CNAME .
 ettcc.steute.com CNAME .
 ferthu.seyffer.shop CNAME .
 go.eitrmsummit.com CNAME .
+gus.corinnavondermuehlen.de CNAME .
 insides.honic.eu CNAME .
 js.edingershops.de CNAME .
 maschine.bengs-modellbau.de CNAME .
@@ -135,9 +139,11 @@ trkkr.bugatti-newsroom.com CNAME .
 uezeus.ueberbit.de CNAME .
 wa.ostermann.eu CNAME .
 waet.datalogue.de CNAME .
+wctr.bodenverkauf.de CNAME .
 wctr.hh-klebetechnologie.de CNAME .
 wctr.khk-karlsruhe.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
+wctr.maschinenprofi.de CNAME .
 wctr.menkenunddrees.de CNAME .
 wctr.moenninghoff.net CNAME .
 wctr.scaleup-fulfillment.de CNAME .
@@ -160,6 +166,8 @@ webcontr.l.de CNAME .
 webcontr.lmz-bw.de CNAME .
 webcontr.lotto-hh.de CNAME .
 webcontr.mea-living.de CNAME .
+webcontr.naturschutzcenter.de CNAME .
+webcontr.parax.de CNAME .
 webcontr.patrick-wentzel.de CNAME .
 webcontr.pedalbox.com CNAME .
 webcontr.reisprinzen.de CNAME .
@@ -188,9 +196,6 @@ wurst.leffis.de CNAME .
 yogi.snuffland.de CNAME .
 esub.akkusys.de CNAME .
 et.juskys.de CNAME .
-stats.bodenverkauf.de CNAME .
 stats.ekd.de CNAME .
-stats.hoeping.de CNAME .
-stats.maschinenprofi.de CNAME .
 stats.mm-germany.com CNAME .
 www.visitormotion.com CNAME .

@@ -176,6 +176,7 @@
   "refer.frontgate.com": "frontgate.extole.io",
   "refer.fuzebox.com": "fuzebox-ssl.extole.com",
   "refer.g2.com": "g2.extole.io",
+  "refer.gainbridge.io": "gainbridge.extole.io",
   "refer.gapcanada.ca": "gap-canada.extole.io",
   "refer.gardenoflife.com": "gardenoflife.extole.io",
   "refer.garnethill.com": "garnethill.extole.io",
@@ -214,6 +215,7 @@
   "refer.intuit.com": "turbotax.extole.io",
   "refer.issaonline.com": "issaonline.extole.io",
   "refer.itbed.com": "itbed.extole.io",
+  "refer.itcu.org": "itcu.extole.io",
   "refer.jacksonsun.com": "jacksonsun.extole.com",
   "refer.jewelersmutual.com": "jewelersmutual.extole.io",
   "refer.joann.com": "joann.extole.io",
@@ -229,6 +231,7 @@
   "refer.knixteen.ca": "knixteen.extole.io",
   "refer.knixteen.com": "knixteen.extole.io",
   "refer.labseries.com": "lab-series.extole.io",
+  "refer.lanebryant.com": "lane-bryant.extole.io",
   "refer.laroche-posay.us": "la-roche-posay.extole.io",
   "refer.lasenza.ca": "lasenza.extole.io",
   "refer.lasenza.com": "lasenza.extole.io",
@@ -424,6 +427,7 @@
   "referral.cledepeaubeaute.com": "cle-de-peau.extole.io",
   "referral.drunkelephant.com": "drunkelephant.extole.io",
   "referral.hostgator.com": "hostgator.extole.com",
+  "referral.lgeccu.org": "lgeccu.extole.io",
   "referral.pellaofdfw.com": "pellaofdfw.extole.io",
   "referral.servicechannel.com": "servicechannel.extole.io",
   "referral.shiseido.com": "shiseido.extole.io",
@@ -753,7 +757,6 @@
   "share.wombatinvest.com": "wombat.extole.io",
   "share.worldmarket.com": "worldmarket.extole.com",
   "share.zenbusiness.com": "zenbusiness.extole.io",
-  "sharethelove.modcloth.com": "modcloth.extole.com",
   "social.fabkids.com": "fabkids-ssl.extole.com",
   "tellapal.register.com": "d.extole.com",
   "tellapal.web.com": "d.extole.com",
@@ -767,5 +770,6 @@
   "www.styleitforwardreward.com": "mondetta.extole.io",
   "www.trevoce.com": "web-tool-qa.lb.extole.com",
   "xtl._domainkey.forgetrust.com": "xtl.domainkey.u82658.wl159.sendgrid.net",
-  "xtl._domainkey.mail.propertyperks.xfinity.com": "xtl.domainkey.u82658.wl159.sendgrid.net"
+  "xtl._domainkey.mail.propertyperks.xfinity.com": "xtl.domainkey.u82658.wl159.sendgrid.net",
+  "xtl._domainkey.zoom.us": "xtl.domainkey.u82658.wl159.sendgrid.net"
 }

@@ -30,7 +30,6 @@
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
 | asg.redfans.org | api.clickaine.com |
-| bat17.gimmeporn.xyz | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
 | c4n.arcjav.com | api.clickaine.com |
@@ -77,6 +76,7 @@
 | dr1.piczlabs.com | api.clickaine.com |
 | dr3.piczlabs.com | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
+| excavajo2.gimmeporn.xyz | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
 | ge6.getfto.com | api.clickaine.com |

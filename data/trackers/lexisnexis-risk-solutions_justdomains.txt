@@ -408,7 +408,6 @@ content22.accountonline.com
 content22.bancanet.banamex.com
 content22.bancanetempresarial.banamex.com.mx
 content22.bmo.com
-content22.bmoharris.com
 content22.citi.com
 content22.citibank.ae
 content22.citibank.co.id
@@ -663,6 +662,7 @@ lncdn.imaginecredit.com
 lncdn.myfortiva.com
 lndata.labor.maryland.gov
 lndata.labor.md.gov
+lnday.sinclair.edu
 lnths.twc.texas.gov
 lnthxsvc.tsp.gov
 log.betdaq.com
@@ -731,7 +731,6 @@ pages.fiduciarytrust.com
 pages.franklintempleton.com
 paiement.cb4x.fr
 partition.enterprise.com
-payment.rewards.sony.com
 payments-de.lidlplus.com
 payments.direct.playstation.com
 payments.hd-plus.de
@@ -1055,6 +1054,7 @@ tm.betano.cz
 tm.betano.de
 tm.betano.dk
 tm.betano.mx
+tm.betano.ng
 tm.cbd.ae
 tm.clearcover.com
 tm.cox.com
@@ -1071,6 +1071,7 @@ tm.flowbirdapp.com
 tm.goldennuggetcasino.com
 tm.gumtree.co.za
 tm.gumtree.com.au
+tm.humanesociety.org
 tm.kotak.com
 tm.okinushub.com
 tm.paysafecard.com
@@ -1154,7 +1155,6 @@ tmx.katapult.com
 tmx.kijiji.ca
 tmx.manulifebank.com
 tmx.monzo.co.uk
-tmx.pampersrewards.com
 tmx.pat.td.com
 tmx.prod.efsllc.com
 tmx.rnd.gemaltodigitalbankingidcloud.com
@@ -1169,6 +1169,7 @@ tmxjs.tokyodisneyresort.jp
 tooling.ynap.biz
 tprofile.goldmansachs.tech
 tracking.psecu.com
+transactionrisk.cashfree.com
 trust.gyft.com
 ts04358.picpay.com
 tsaian.verizonwireless.com
@@ -1180,7 +1181,6 @@ txcontent.iherb.cn
 txn.allianzlife.com
 uafms.ocbc.com
 uat.cmprofile.cards.citidirect.com
-uatidentity4.citidirect.com
 ucfs.sendpro360.pitneybowes.com
 ucfs.sendpro360.pitneycloud.com
 ufp.intuit.com

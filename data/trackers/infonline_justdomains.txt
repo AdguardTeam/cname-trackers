@@ -74,6 +74,7 @@ data-0797a61d67.starfm.de
 data-07bc6012a0.apps.iocnt.de
 data-07ca87a981.logistikmasters.de
 data-07ca87a981.verkehrsrundschau.de
+data-07e0108925.apps.iocnt.de
 data-080d03ce0d.technikundeinkauf.de
 data-080db1a14d.stadtbibliothek-jena.de
 data-0827b0d9ef.dailydose.de
@@ -217,7 +218,6 @@ data-189b3ff7e9.apps.iocnt.de
 data-190087bcf9.augsburger-allgemeine.de
 data-190087bcf9.fupa.net
 data-190087bcf9.intersana.de
-data-191b2429e8.gzsz.de
 data-191b2429e8.quiz.de
 data-191b2429e8.rtl-hd.de
 data-191b2429e8.rtl.at
@@ -235,6 +235,7 @@ data-1a8175bc05.presseportal.ch
 data-1a8175bc05.presseportal.de
 data-1a89577861.btc-echo.de
 data-1aec34a522.elle.de
+data-1b20e9021b.buildingnet.de
 data-1b32532ce1.blick.de
 data-1b32532ce1.erzgebirge.de
 data-1b32532ce1.freiepresse.de
@@ -263,7 +264,9 @@ data-1c0a3d83e3.transfermarkt.it
 data-1c0a3d83e3.transfermarkt.jp
 data-1c0a3d83e3.transfermarkt.mx
 data-1c0a3d83e3.transfermarkt.my
+data-1c0a3d83e3.transfermarkt.nl
 data-1c0a3d83e3.transfermarkt.pe
+data-1c0a3d83e3.transfermarkt.pl
 data-1c0a3d83e3.transfermarkt.ru
 data-1c0a3d83e3.transfermarkt.us
 data-1c0a3d83e3.transfermarkt.world
@@ -395,7 +398,6 @@ data-337242f510.itk-rheinland.de
 data-339e8471f1.bau-welt.de
 data-341c3a0fe0.apps.iocnt.de
 data-34484cd75e.apps.iocnt.de
-data-3452ec2236.caravaning.de
 data-34565915dd.firmenwissen.com
 data-34565915dd.firmenwissen.de
 data-34c9d32b77.apps.iocnt.de
@@ -724,6 +726,7 @@ data-5206391739.shz.de
 data-524af4397a.weltfussball.de
 data-524af4397a.worldfootball.net
 data-525bd81403.a1.net
+data-53398d506e.apps.iocnt.de
 data-53808e266e.nn.de
 data-53ba3c279a.apps.iocnt.de
 data-53ce61d695.bike-x.de
@@ -797,6 +800,7 @@ data-5c8ddfc1d2.selbst.de
 data-5ca562c702.tt.com
 data-5cc6bee9f2.tu-dortmund.de
 data-5ce6ecf8d0.christkindlesmarkt.de
+data-5ce6ecf8d0.nanu.news
 data-5ce6ecf8d0.nbi.de
 data-5ce6ecf8d0.nn.de
 data-5ce6ecf8d0.nordbayern.de
@@ -918,7 +922,9 @@ data-663387616d.idcdn.de
 data-664e19af6d.11freunde.de
 data-66584305d5.mainpost.de
 data-668d7dd5c1.healthcare-digital.de
+data-66b7771b69.motorsport.com
 data-66d1660bfe.etailment.de
+data-678018adf2.apps.iocnt.de
 data-67e5b22ff5.apps.iocnt.de
 data-67f17c94f0.9monate.de
 data-67f17c94f0.bildderfrau.de
@@ -1197,6 +1203,7 @@ data-8629f7a423.4players.de
 data-86943486de.laendleauto.at
 data-86d2aee9fa.jetzt.de
 data-86d2aee9fa.sueddeutsche.de
+data-87563bd275.apps.iocnt.de
 data-8793ca6c7d.rpr1.de
 data-8793ca6c7d.vereinsleben.de
 data-87c1de682f.ingolstadt.de
@@ -1208,6 +1215,7 @@ data-8a0e70a411.car4you.at
 data-8a13e13409.werkstatt-betrieb.de
 data-8a2b04c9fa.naturheilpraxis.de
 data-8a4d99ad09.sat1.at
+data-8a572b5a0a.apps.iocnt.de
 data-8a60c76189.myhomebook.de
 data-8abe5cc617.badische-zeitung.de
 data-8abe5cc617.bz-ticket.de
@@ -1220,6 +1228,7 @@ data-8abe5cc617.wohnverdient.de
 data-8ad4a97c5f.apps.iocnt.de
 data-8b242b85ce.textilwirtschaft.de
 data-8b242b85ce.twjobs.de
+data-8b25c4d80f.apps.iocnt.de
 data-8b77a703e0.dasoertliche.de
 data-8b77a703e0.golocal.de
 data-8ba5310956.spielaffe.de
@@ -1611,6 +1620,7 @@ data-b389eff81a.business-punk.com
 data-b38a38e422.apps.iocnt.de
 data-b43a87d00c.businessinsider.de
 data-b4d5de22d2.auto-motor-und-sport.de
+data-b4d5de22d2.mehr-tanken.de
 data-b4df3518e0.haustec.de
 data-b50e0279d5.meinbezirk.at
 data-b55c944924.brandeins.de
@@ -1746,6 +1756,7 @@ data-c4b720ded1.apps.iocnt.de
 data-c4e76de117.kurier.de
 data-c4edf5f62e.apps.iocnt.de
 data-c51112143c.apps.iocnt.de
+data-c51a0f0522.apps.iocnt.de
 data-c53e1346fa.gamepro.de
 data-c53e1346fa.gamestar-premium.de
 data-c53e1346fa.gamestar.de
@@ -1927,6 +1938,7 @@ data-d88ef4a44c.hk-mobil.de
 data-d8a16b307b.eishockeynews.de
 data-d8a16b307b.idowa.de
 data-d9000a5626.apps.iocnt.de
+data-d9be8dacc3.alpin.de
 data-d9c82db6b2.motor.at
 data-da1d9cc48a.osthessen-news.de
 data-da8b646558.dieniederoesterreicherin.at
@@ -1986,6 +1998,7 @@ data-e208ca4264.uci-kinowelt.de
 data-e28d5b2f77.wetter.live
 data-e2b70f0c07.lb-oldenburg.de
 data-e337e2a6a8.kuechenplaner-magazin.de
+data-e337e2a6a8.xn--kchenplaner-magazin-59b.de
 data-e34440d805.das-onlinespiel.de
 data-e34440d805.jolie.de
 data-e363eeae09.apps.iocnt.de
@@ -2290,6 +2303,7 @@ data-f59db3288b.webnachrichten.de
 data-f59db3288b.werra-rundschau.de
 data-f59db3288b.wetterauer-zeitung.de
 data-f59db3288b.wlz-online.de
+data-f5a3ba920c.pta-forum.de
 data-f5c51bd5b5.apps.iocnt.de
 data-f5d00c1ea1.tageskarte.io
 data-f5fd977e9d.getraenke-news.de
@@ -2417,6 +2431,7 @@ data-fdf649e16e.liga3-online.de
 data-fdf649e16e.rb-fans.de
 data-fe32da0431.news.at
 data-fe34715c33.zi-online.info
+data-fe452b2ed9.okmag.de
 data-fe87994a5d.freenet-group.de
 data-fe87994a5d.freenet.de
 data-febb5dffb0.bigfm.de

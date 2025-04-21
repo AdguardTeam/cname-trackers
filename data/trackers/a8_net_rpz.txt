@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -196,7 +196,6 @@ a8.kland.shop CNAME .
 a8.kojyo-worker.com CNAME .
 a8.kotei-denwa.com CNAME .
 a8.kougu-kaitoriyasan.com CNAME .
-a8.kujo-service.com CNAME .
 a8.l-co-shop.jp CNAME .
 a8.lacitashop.com CNAME .
 a8.lantelno.jp CNAME .
@@ -783,7 +782,6 @@ a8clkcd.ecostorecom.jp CNAME .
 a8clkcv.lognavi.com CNAME .
 a8clkcv.pcr.tokyo-brain.clinic CNAME .
 a8clkcv.tcb-beauty.net CNAME .
-a8cllk.arahataen.com CNAME .
 a8cname.cloudwifi-nc.com CNAME .
 a8cname.nj-e.jp CNAME .
 a8cnv.rmsbeauty.jp CNAME .
@@ -1216,11 +1214,11 @@ a8cv.risu-japan.com CNAME .
 a8cv.rita-style.co.jp CNAME .
 a8cv.rmkrmk.com CNAME .
 a8cv.rohto.co.jp CNAME .
+a8cv.ruksk.com CNAME .
 a8cv.runteq.jp CNAME .
 a8cv.ryomon.jp CNAME .
 a8cv.s-darts.com CNAME .
 a8cv.sabuma.jp CNAME .
-a8cv.sabusuta.jp CNAME .
 a8cv.safetycart.jp CNAME .
 a8cv.safie.jp CNAME .
 a8cv.saitoma.com CNAME .
@@ -1332,6 +1330,7 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
+a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -100,6 +100,7 @@ console.imagineobx.com CNAME .
 console.informingnews.com CNAME .
 console.insideradverts.com CNAME .
 console.isn.nl CNAME .
+console.leightonbroadcasting.com CNAME .
 console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
 console.miningweekly.com CNAME .
@@ -240,7 +241,9 @@ www.cdn.metrike.com CNAME .
 www.console.adspmg.com CNAME .
 www.console.ceramicartsnetwork.org CNAME .
 www.console.healthcarescene.com CNAME .
+www.console.leightonbroadcasting.com CNAME .
 www.console.livingmagonline.com CNAME .
+www.console.myadsmyanmar.com CNAME .
 www.console.pinktriangle.ca CNAME .
 www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .

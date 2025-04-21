@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1744012808720        ; Serial
+           1745222408527        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,7 +42,6 @@ count.kealper.com CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
 dot-com-stats.sladewatkins.net CNAME .
-gc.gayqing.com CNAME .
 gc.his2nd.life CNAME .
 gc.miluchacontraeltabaco.com CNAME .
 gc.mindenugyved.hu CNAME .
@@ -95,7 +94,6 @@ stats.cloudnativebitcoin.org CNAME .
 stats.coderscompass.org CNAME .
 stats.crosshair.dev CNAME .
 stats.dalinwilliams.com CNAME .
-stats.dandelion.computer CNAME .
 stats.eithel.org CNAME .
 stats.fieald.com CNAME .
 stats.forest-school.am CNAME .
@@ -142,12 +140,13 @@ stats.tdurand.com CNAME .
 stats.timothechau.vet CNAME .
 stats.tinkerer.tools CNAME .
 stats.trainsley69.me CNAME .
+stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
 stats.w0chp.radio CNAME .
 stats.whatacools.com CNAME .
-stats.wswg.xyz CNAME .
 stats.ybbond.id CNAME .
 stats.zgo.at CNAME .
+stats.zl2edh.com CNAME .
 trackerstats.davidthe.dev CNAME .
 varz.mcyoung.xyz CNAME .
 vault-stats.sladewatkins.net CNAME .

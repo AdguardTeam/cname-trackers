@@ -105,7 +105,6 @@
 | jinx.skullctf.com | custom.plausible.io |
 | kaladyaudiology.ericksonbuilt.com | custom.plausible.io |
 | l.lilyzhou.com | custom.plausible.io |
-| l2k30jsa.theochu.com | custom.plausible.io |
 | lkj23jlkajsa.realestate.help | custom.plausible.io |
 | log.rhythmtowers.com | custom.plausible.io |
 | loggychops.paulsmith.site | custom.plausible.io |
@@ -139,7 +138,6 @@
 | pa.opqr.co | custom.plausible.io |
 | ping.naturadapt.com | custom.plausible.io |
 | ping.resoluteoil.com | custom.plausible.io |
-| pl-web-stats-icy7xvjbpxsxf8gwwz5c.theochu.com | custom.plausible.io |
 | pl.1feed.app | custom.plausible.io |
 | pl.astro-akatemia.fi | custom.plausible.io |
 | pl.astro.fi | custom.plausible.io |
@@ -200,7 +198,6 @@
 | plausible.f1laps.com | custom.plausible.io |
 | plausible.factly.in | custom.plausible.io |
 | plausible.flowcv.io | custom.plausible.io |
-| plausible.getlean.digital | custom.plausible.io |
 | plausible.giveatip.io | custom.plausible.io |
 | plausible.golfbreaks.com | custom.plausible.io |
 | plausible.gryka.net | custom.plausible.io |
@@ -242,7 +239,6 @@
 | plausible.strzibny.name | custom.plausible.io |
 | plausible.sysloun.cz | custom.plausible.io |
 | plausible.tac.dappstar.io | custom.plausible.io |
-| plausible.tasteslikeme.ca | custom.plausible.io |
 | plausible.thefutureoftheworkplacebook.com | custom.plausible.io |
 | plausible.tlschedule.com | custom.plausible.io |
 | plausible.treelightsoftware.com | custom.plausible.io |
@@ -308,6 +304,7 @@
 | sp.ballsdigroup.com | custom.plausible.io |
 | sp.gameomatic.fr | custom.plausible.io |
 | sp.jrklein.com | custom.plausible.io |
+| sp.notifysonic.com | custom.plausible.io |
 | sp.soniccares.com | custom.plausible.io |
 | sp.spaceomatic.fr | custom.plausible.io |
 | sp.wvoil.com | custom.plausible.io |
@@ -334,7 +331,6 @@
 | stats.aikidowaza.com | custom.plausible.io |
 | stats.aixbrain.de | custom.plausible.io |
 | stats.albert-kropp-gmbh.de | custom.plausible.io |
-| stats.alibhai.co | custom.plausible.io |
 | stats.alleaktien.de | custom.plausible.io |
 | stats.alocreativa.com | custom.plausible.io |
 | stats.am.ai | custom.plausible.io |
@@ -445,7 +441,6 @@
 | stats.dmail.co.nz | custom.plausible.io |
 | stats.dmarcdigests.com | custom.plausible.io |
 | stats.donal.us | custom.plausible.io |
-| stats.doors.live | custom.plausible.io |
 | stats.dotnetos.org | custom.plausible.io |
 | stats.dotplan.io | custom.plausible.io |
 | stats.doublejones.com | custom.plausible.io |
@@ -533,8 +528,8 @@
 | stats.hpz-scharnhausen.de | custom.plausible.io |
 | stats.htmlcsstoimage.com | custom.plausible.io |
 | stats.htp.org | custom.plausible.io |
+| stats.huysman.be | custom.plausible.io |
 | stats.huysmanbouw.be | custom.plausible.io |
-| stats.iamzero.dev | custom.plausible.io |
 | stats.ibuildings.net | custom.plausible.io |
 | stats.igassmann.me | custom.plausible.io |
 | stats.igor4stir.com | custom.plausible.io |
@@ -722,7 +717,6 @@
 | stats.pubfind.io | custom.plausible.io |
 | stats.qbitstore.nl | custom.plausible.io |
 | stats.qovery.com | custom.plausible.io |
-| stats.quantumly.dev | custom.plausible.io |
 | stats.quicksilvercre.com | custom.plausible.io |
 | stats.radicaldata.org | custom.plausible.io |
 | stats.radicitoscane.it | custom.plausible.io |
@@ -739,7 +733,6 @@
 | stats.respkt.de | custom.plausible.io |
 | stats.reto.tv | custom.plausible.io |
 | stats.retroware.com | custom.plausible.io |
-| stats.revitfamily.app | custom.plausible.io |
 | stats.rideinpeace.ie | custom.plausible.io |
 | stats.rightourhistoryhawaii.com | custom.plausible.io |
 | stats.robotika.ax | custom.plausible.io |
@@ -864,6 +857,7 @@
 | stats.wymanmobilenotary.com | custom.plausible.io |
 | stats.xactcode.com | custom.plausible.io |
 | stats.xn--antnio-dxa.pt | custom.plausible.io |
+| stats.xrechnung.app | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |
 | sts.authramp.com | custom.plausible.io |

@@ -64,7 +64,6 @@
     * luckyvitamin.extole.com
     * lymphedemaproducts.extole.com
     * mlbtv.extole.com
-    * modcloth.extole.com
     * montgomeryadvertiser.extole.com
     * moo.extole.com
     * myplant.extole.com
@@ -239,7 +238,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -289,10 +287,12 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * g2.extole.io
+    * gainbridge.extole.io
     * gannett.extole.io
     * gap-canada.extole.io
     * gardenoflife.extole.io
@@ -309,6 +309,7 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -344,6 +345,7 @@
     * ird.extole.io
     * issaonline.extole.io
     * itbed.extole.io
+    * itcu.extole.io
     * iteach.extole.io
     * jellybelly.extole.io
     * jewelersmutual.extole.io
@@ -374,6 +376,7 @@
     * lending-club.extole.io
     * lenscrafters.extole.io
     * levi.extole.io
+    * lgeccu.extole.io
     * lifedna.extole.io
     * lightstream.extole.io
     * little-passports.extole.io
@@ -512,7 +515,6 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
@@ -597,7 +599,6 @@
     * wombat.extole.io
     * wrangler.extole.io
     * xfinity.extole.io
-    * xfinity.xtl.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
     * zenwork.extole.io
@@ -605,6 +606,7 @@
     * zipcar-ca.extole.io
     * zipcar.extole.io
     * zomasleep.extole.io
+    * zoom.xtl.extole.io
 
 ### Rarely active trackers
 
@@ -790,7 +792,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -858,6 +859,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
@@ -866,6 +868,7 @@
 | refer.frontgate.com | frontgate.extole.io |
 | refer.fuzebox.com | fuzebox-ssl.extole.com |
 | refer.g2.com | g2.extole.io |
+| refer.gainbridge.io | gainbridge.extole.io |
 | share.app.com | gannett.extole.io |
 | share.azcentral.com | gannett.extole.io |
 | share.battlecreekenquirer.com | gannett.extole.io |
@@ -944,6 +947,7 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -993,6 +997,7 @@
 | share.reading-programs.org | ird.extole.io |
 | refer.issaonline.com | issaonline.extole.io |
 | refer.itbed.com | itbed.extole.io |
+| refer.itcu.org | itcu.extole.io |
 | share.iteach.net | iteach.extole.io |
 | refer.jacksonsun.com | jacksonsun.extole.com |
 | share.jellybelly.com | jellybelly.extole.io |
@@ -1023,6 +1028,7 @@
 | refer.laroche-posay.us | la-roche-posay.extole.io |
 | refer.labseries.com | lab-series.extole.io |
 | refer.cacique.com | lane-bryant.extole.io |
+| refer.lanebryant.com | lane-bryant.extole.io |
 | refer.lasenza.ca | lasenza.extole.io |
 | refer.lasenza.com | lasenza.extole.io |
 | refer.last-stitch.com | last-stitch.extole.io |
@@ -1038,6 +1044,7 @@
 | share.levi.com | levi.extole.io |
 | share.s1.levi-site.com | levi.extole.io |
 | share.s4.levi-site.com | levi.extole.io |
+| referral.lgeccu.org | lgeccu.extole.io |
 | share.lifedna.com | lifedna.extole.io |
 | refer.lightstream.com | lightstream.extole.io |
 | refer.littlepassports.com | little-passports.extole.io |
@@ -1072,7 +1079,6 @@
 | refer.minted.com | minted.extole.io |
 | refer.mission.com | mission.extole.io |
 | share.mlb.tv | mlbtv.extole.com |
-| sharethelove.modcloth.com | modcloth.extole.com |
 | refer.mpgsport.ca | mondetta.extole.io |
 | refer.mpgsport.com | mondetta.extole.io |
 | refer.styleitforwardreward.com | mondetta.extole.io |
@@ -1241,7 +1247,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
@@ -1378,7 +1383,6 @@
 | referafriend.comcast.com | xfinity.extole.io |
 | referafriend.xfinity.com | xfinity.extole.io |
 | www.refer.xfinity.com | xfinity.extole.io |
-| xtl._domainkey.mail.propertyperks.xfinity.com | xfinity.xtl.extole.io |
 | xtl._domainkey.forgetrust.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.mail.propertyperks.xfinity.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
@@ -1391,3 +1395,4 @@
 | refer.zipcar.ca | zipcar-ca.extole.io |
 | refer.zipcar.com | zipcar.extole.io |
 | refer.zomasleep.com | zomasleep.extole.io |
+| xtl._domainkey.zoom.us | zoom.xtl.extole.io |

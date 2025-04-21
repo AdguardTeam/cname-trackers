@@ -64,6 +64,7 @@
 | affil.lesgoodies.com | cz.affilbox.cz |
 | affil.litinove-nadobi.cz | cz.affilbox.cz |
 | affil.lojdovale.cz | cz.affilbox.cz |
+| affil.mirakubat.cz | cz.affilbox.cz |
 | affil.moringamix.cz | cz.affilbox.cz |
 | affil.mydrinks.cz | cz.affilbox.cz |
 | affil.nanoshop.cz | cz.affilbox.cz |
@@ -257,7 +258,6 @@
 | affiliate.pravopropodnikatele.cz | cz.affilbox.cz |
 | affiliate.prikryvky-obchod.cz | cz.affilbox.cz |
 | affiliate.prodietix.cz | cz.affilbox.cz |
-| affiliate.progresguru.cz | cz.affilbox.cz |
 | affiliate.pt-shop.cz | cz.affilbox.cz |
 | affiliate.rajkratomu.cz | cz.affilbox.cz |
 | affiliate.reduccia.cz | cz.affilbox.cz |
@@ -325,7 +325,6 @@
 | collab.zdravetricko.cz | cz.affilbox.cz |
 | cryptonow.algomoneo.com | cz.affilbox.cz |
 | dbsaysnba4ygmwav.algomoneo.com | cz.affilbox.cz |
-| dekovacka.stickersmakers.cz | cz.affilbox.cz |
 | devaff.bitcoinzmenaren.sk | cz.affilbox.cz |
 | doporuc.hopsej.cz | cz.affilbox.cz |
 | doporuc.kingray.sk | cz.affilbox.cz |
@@ -494,7 +493,6 @@
 | partner.biomag.cz | cz.affilbox.cz |
 | partner.birne.com | cz.affilbox.cz |
 | partner.bitcoinzmenaren.sk | cz.affilbox.cz |
-| partner.bohemiaclean.eu | cz.affilbox.cz |
 | partner.bohempia.com | cz.affilbox.cz |
 | partner.bomtonbeauty.cz | cz.affilbox.cz |
 | partner.bontonck.cz | cz.affilbox.cz |
@@ -521,7 +519,6 @@
 | partner.chevronnutrition.cz | cz.affilbox.cz |
 | partner.chiashake.cz | cz.affilbox.cz |
 | partner.chilimarket.cz | cz.affilbox.cz |
-| partner.chococo.cz | cz.affilbox.cz |
 | partner.chocolatehill.cz | cz.affilbox.cz |
 | partner.chytranemovitost.cz | cz.affilbox.cz |
 | partner.chytrydopravce.cz | cz.affilbox.cz |
@@ -655,6 +652,7 @@
 | partner.lidajirickova.cz | cz.affilbox.cz |
 | partner.ligsuniversity.cz | cz.affilbox.cz |
 | partner.lorooro.com | cz.affilbox.cz |
+| partner.lovella.cz | cz.affilbox.cz |
 | partner.ltx.cz | cz.affilbox.cz |
 | partner.luckyalvin.cz | cz.affilbox.cz |
 | partner.lyzelyze.cz | cz.affilbox.cz |
@@ -744,6 +742,7 @@
 | partner.roztouzeny.cz | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
 | partner.salibandy.shop | cz.affilbox.cz |
+| partner.sambalshop.cz | cz.affilbox.cz |
 | partner.santao.cz | cz.affilbox.cz |
 | partner.scilearn.cz | cz.affilbox.cz |
 | partner.scootshop.cz | cz.affilbox.cz |
@@ -849,6 +848,7 @@
 | partneri.evolveo.com | cz.affilbox.cz |
 | partneri.evolveo.cz | cz.affilbox.cz |
 | partneri.fengshuiacademy.cz | cz.affilbox.cz |
+| partneri.fistar.cz | cz.affilbox.cz |
 | partneri.fitstore.cz | cz.affilbox.cz |
 | partneri.frcime.cz | cz.affilbox.cz |
 | partneri.freli.cz | cz.affilbox.cz |
@@ -907,7 +907,6 @@
 | partneri.prectime.cz | cz.affilbox.cz |
 | partneri.professionail.sk | cz.affilbox.cz |
 | partneri.proficredit.cz | cz.affilbox.cz |
-| partneri.progresguru.cz | cz.affilbox.cz |
 | partneri.pulzsro.cz | cz.affilbox.cz |
 | partneri.puravia.cz | cz.affilbox.cz |
 | partneri.radostkazdyden.cz | cz.affilbox.cz |
@@ -978,7 +977,6 @@
 | provize.wugi.cz | cz.affilbox.cz |
 | provize.zazitkovelety.cz | cz.affilbox.cz |
 | provizia.mimulo.sk | cz.affilbox.cz |
-| provizia.vitalitypradlo.sk | cz.affilbox.cz |
 | proviznisystem.kanclir.cz | cz.affilbox.cz |
 | rek.rybizak.cz | cz.affilbox.cz |
 | royalfamily.royalchaga.sk | cz.affilbox.cz |
@@ -1007,6 +1005,7 @@
 | spoluprace.majka-shop.cz | cz.affilbox.cz |
 | spoluprace.megalu.cz | cz.affilbox.cz |
 | spoluprace.mentorkalucie.cz | cz.affilbox.cz |
+| spoluprace.narozlucku.cz | cz.affilbox.cz |
 | spoluprace.nordictelecom.cz | cz.affilbox.cz |
 | spoluprace.obchod-kufry.cz | cz.affilbox.cz |
 | spoluprace.obchod-setrilek.cz | cz.affilbox.cz |
