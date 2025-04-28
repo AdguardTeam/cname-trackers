@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -214,6 +214,7 @@ cfaxq.mystreetscape.com CNAME .
 cfaxq.streetscape.com CNAME .
 cfaxq1.fidelity.com CNAME .
 cfaxq2.fidelity.com CNAME .
+ch.drs.wa.gov CNAME .
 channel.rakbankonline.ae CNAME .
 check.fashionid.de CNAME .
 check.jaja.finance CNAME .
@@ -640,10 +641,14 @@ imgl2.hardrockcasino.com CNAME .
 imgs.cdn-btsg.com CNAME .
 imgs.signifyd.com CNAME .
 info.betway.bg CNAME .
+info.betway.co.mz CNAME .
+info.betway.co.tz CNAME .
 info.betway.co.za CNAME .
 info.betway.co.zm CNAME .
+info.betway.com.gh CNAME .
 info.betway.fr CNAME .
 info.betway.lat CNAME .
+info.betway.mw CNAME .
 info.betway.ng CNAME .
 info.betwaypartnersafrica.com CNAME .
 info.jackpotcity.co.za CNAME .
@@ -809,6 +814,7 @@ prod-sfcupa.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcutx.chaperone.lumindigitalhosting.com CNAME .
 prod-sperofin.chaperone.lumindigitalhosting.com CNAME .
 prod-statedept.chaperone.lumindigitalhosting.com CNAME .
+prod-summit.chaperone.lumindigitalhosting.com CNAME .
 prod-tapco.chaperone.lumindigitalhosting.com CNAME .
 prod-tmx.cofidis.hu CNAME .
 prod-travis.chaperone.lumindigitalhosting.com CNAME .
@@ -858,6 +864,7 @@ rba.optumgovid.com CNAME .
 rba.optumid.com CNAME .
 rba.phub-im.uhg.com CNAME .
 rbawis.pocketcard.co.jp CNAME .
+rct.ext.sofinco.fr CNAME .
 rebatecontent.finance.delaware.gov CNAME .
 regstat.betfair.bet.br CNAME .
 regstat.betfair.com CNAME .
@@ -1074,9 +1081,11 @@ tm.creditcheck.illion.com.au CNAME .
 tm.creditprotect.illion.co.nz CNAME .
 tm.creditprotect.illion.com.au CNAME .
 tm.cybersource.com CNAME .
+tm.defense.dbp.fiservapps.com CNAME .
 tm.directly.com CNAME .
 tm.espnbet.com CNAME .
 tm.fanduel.com CNAME .
+tm.fidelity.ca CNAME .
 tm.fidelity.co.uk CNAME .
 tm.flowbirdapp.com CNAME .
 tm.goldennuggetcasino.com CNAME .
@@ -1149,6 +1158,7 @@ tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .
 tmx-fpt.credit-agricole.pl CNAME .
 tmx.additionfi.com CNAME .
+tmx.americafirst.com CNAME .
 tmx.banquemanuvie.com CNAME .
 tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .

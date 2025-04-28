@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -267,7 +267,6 @@ beetle.enlacepermanente.es CNAME .
 bird.brondby.com CNAME .
 bird.recruitkit.com.au CNAME .
 bird.webitizevoice.com CNAME .
-bison.equals.community CNAME .
 bison.joshhanley.com.au CNAME .
 bison.streamclocks.com CNAME .
 bison.stuffmatic.com CNAME .
@@ -382,7 +381,6 @@ coral.bladestudy.net CNAME .
 coral.defygravity.co CNAME .
 cougar.augmentedmindapp.com CNAME .
 cougar.wzulfikar.com CNAME .
-coyote.12gem.me CNAME .
 coyote.gnx.cloud CNAME .
 coyote.nickgurney.com CNAME .
 coyote.pbnbuilds.com CNAME .
@@ -582,7 +580,6 @@ horse.vesuvius-publishing.com CNAME .
 horse.zwei-bags.com CNAME .
 hoverfly.cdengine.co.uk CNAME .
 hoverfly.cyberbytesinc.com CNAME .
-hoverfly.dailyblocks.tv CNAME .
 hoverfly.papercrowns.com CNAME .
 hoverfly.wholeheartedceremonies.com.au CNAME .
 hoverfly.winchdesign.cn CNAME .
@@ -648,11 +645,11 @@ landsnail.brownfield.dev CNAME .
 landsnail.garasjeport1.no CNAME .
 landsnail.motin.eu CNAME .
 lark.pollie.dev CNAME .
+leech.carolgilabert.me CNAME .
 leech.fuchsegg.at CNAME .
 leech.stargate-project.de CNAME .
 lemming.nicolasmenard.com CNAME .
 lemming.vivian.do CNAME .
-lemur.a-and-a-trucking.com CNAME .
 leopard.davidlindahlphoto.com CNAME .
 leopard.joytotheworld.info CNAME .
 leopard.laszlo.cloud CNAME .
@@ -786,6 +783,7 @@ owl.indigenoushiphopawards.com CNAME .
 owl.sentrydiscord.dev CNAME .
 ox.first-law.com CNAME .
 ox.ines-papert.de CNAME .
+p016eshru.kaybe.co.uk CNAME .
 pa5xjc.m1guelpf.me CNAME .
 panda.moritz-petersen.de CNAME .
 panda.mvhphotoproject.org CNAME .
@@ -956,7 +954,6 @@ sparrow.carol.gg CNAME .
 sparrow.uitvaartzorg-vanraemdonck.be CNAME .
 sparrow.workingincontent.com CNAME .
 spermwhale.rowansimpson.com CNAME .
-spermwhale.thankbox.co CNAME .
 spider.capricciocolumbus.org CNAME .
 spider.hoomie.online CNAME .
 spider.scottw.com CNAME .
@@ -1051,7 +1048,6 @@ turtle.geshem.space CNAME .
 turtle.mushtache.com CNAME .
 turtle.mydataroom.io CNAME .
 turtle.olivier.cx CNAME .
-turtle.sid.scot CNAME .
 uktgg.dev-tester.com CNAME .
 vampirebat.datingmedellin.com CNAME .
 vampirebat.febolos.es CNAME .
@@ -1178,6 +1174,7 @@ yourarlington.streetinteractive.com CNAME .
 adserve.bongocdn.com CNAME .
 assets.diagomics.com CNAME .
 bcdn.cpmstar.com CNAME .
+cache.myth.dev CNAME .
 cdn-b.notsy.io CNAME .
 cdn.admatic.com.tr CNAME .
 cdn.adsninja.ca CNAME .

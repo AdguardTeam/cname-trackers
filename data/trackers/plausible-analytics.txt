@@ -21,7 +21,6 @@
 ||analytics.geekyminds.net^
 ||analytics.hambleden-capital.com^
 ||analytics.hiome.com^
-||analytics.kerns.co^
 ||analytics.lifestyledemocracy.com^
 ||analytics.lunge.de^
 ||analytics.mambaui.com^
@@ -211,7 +210,6 @@
 ||plausible.nmyvsn.net^
 ||plausible.nuqu.org^
 ||plausible.plausible.tangodelta.media^
-||plausible.pumpkint.com^
 ||plausible.quantumcomputingexplained.com^
 ||plausible.quo.wtf^
 ||plausible.rachel.systems^
@@ -827,7 +825,6 @@
 ||stats.vinkkaa.fi^
 ||stats.visions.ch^
 ||stats.voltimum.com^
-||stats.wachstum.at^
 ||stats.walkiees.co.uk^
 ||stats.warrantynowvoid.com^
 ||stats.websnap.app^

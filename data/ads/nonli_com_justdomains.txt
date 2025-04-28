@@ -149,6 +149,7 @@ l.netmums.com
 l.nextplz.fr
 l.nicematin.com
 l.notretemps.com
+l.nrpyrenees.fr
 l.numerama.com
 l.ohmymag.co.uk
 l.ohmymag.com
@@ -160,6 +161,7 @@ l.ozap.com
 l.paris-normandie.fr
 l.paris-turf.com
 l.paroledemamans.com
+l.petitbleu.fr
 l.planet.fr
 l.pleinevie.fr
 l.positivr.fr
@@ -199,6 +201,7 @@ l.uppercutmma.com
 l.varmatin.com
 l.voici.fr
 l.vosgesmatin.fr
+l.whatsupdoc-lemag.fr
 l.zdnet.fr
 nr.lanouvellerepublique.fr
 on.qobuz.com

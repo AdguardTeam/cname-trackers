@@ -12,6 +12,7 @@
     * ahk-delivery.aquaplatform.com
     * ahk-static.aquaplatform.com
     * ahq-delivery.aquaplatform.com
+    * ahq-static.aquaplatform.com
     * ammoland-delivery.aquaplatform.com
     * ammoland-static.aquaplatform.com
     * artionet-delivery.aquaplatform.com
@@ -149,6 +150,7 @@
 | www.revive.ahk.de | ahk-delivery.aquaplatform.com |
 | static.ahk.de | ahk-static.aquaplatform.com |
 | adserver.associationheadquarters.com | ahq-delivery.aquaplatform.com |
+| adimages.associationheadquarters.com | ahq-static.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
 | static.ammoland.com | ammoland-static.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
@@ -291,6 +293,7 @@
 | www.cdn.adspmg.com | pamplin-static.aquaplatform.com |
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
+| adimages.infotorg.se | platformiq-cdn.aquaplatform.com |
 | adztech-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | assets.lintigroup.se | platformiq-cdn.aquaplatform.com |
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
@@ -311,6 +314,7 @@
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
 | brandmovers-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
+| hrnorth-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | marriagetrac-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -214,6 +214,7 @@ dc.volkswagen.com.au CNAME .
 dc.volkswagen.de CNAME .
 dc.volkswagen.pl CNAME .
 dc.vw.co.za CNAME .
+dc.vw.com CNAME .
 dc.vw.com.mx CNAME .
 dc.zales.com CNAME .
 dc.zalesoutlet.com CNAME .
@@ -360,6 +361,7 @@ tagman.surfstitch.com CNAME .
 tagman.thebodyshop-usa.com CNAME .
 tagman.thistle.com CNAME .
 tagman.thomsonlakes.co.uk CNAME .
+tagman.thomsonski.co.uk CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .
 tagman.waitrose.com CNAME .

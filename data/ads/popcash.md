@@ -12,6 +12,7 @@
 * video-ad.b-cdn.net
 * bannieres.b-cdn.net
 * cpmstar.b-cdn.net
+* mythdev.b-cdn.net
 * prebid.b-cdn.net
 * admaticcdn.b-cdn.net
 * adsninjacdn.b-cdn.net
@@ -211,7 +212,6 @@
 | bird.brondby.com | deprecated-custom-domains.b-cdn.net |
 | bird.recruitkit.com.au | deprecated-custom-domains.b-cdn.net |
 | bird.webitizevoice.com | deprecated-custom-domains.b-cdn.net |
-| bison.equals.community | deprecated-custom-domains.b-cdn.net |
 | bison.joshhanley.com.au | deprecated-custom-domains.b-cdn.net |
 | bison.streamclocks.com | deprecated-custom-domains.b-cdn.net |
 | bison.stuffmatic.com | deprecated-custom-domains.b-cdn.net |
@@ -326,7 +326,6 @@
 | coral.defygravity.co | deprecated-custom-domains.b-cdn.net |
 | cougar.augmentedmindapp.com | deprecated-custom-domains.b-cdn.net |
 | cougar.wzulfikar.com | deprecated-custom-domains.b-cdn.net |
-| coyote.12gem.me | deprecated-custom-domains.b-cdn.net |
 | coyote.gnx.cloud | deprecated-custom-domains.b-cdn.net |
 | coyote.nickgurney.com | deprecated-custom-domains.b-cdn.net |
 | coyote.pbnbuilds.com | deprecated-custom-domains.b-cdn.net |
@@ -526,7 +525,6 @@
 | horse.zwei-bags.com | deprecated-custom-domains.b-cdn.net |
 | hoverfly.cdengine.co.uk | deprecated-custom-domains.b-cdn.net |
 | hoverfly.cyberbytesinc.com | deprecated-custom-domains.b-cdn.net |
-| hoverfly.dailyblocks.tv | deprecated-custom-domains.b-cdn.net |
 | hoverfly.papercrowns.com | deprecated-custom-domains.b-cdn.net |
 | hoverfly.wholeheartedceremonies.com.au | deprecated-custom-domains.b-cdn.net |
 | hoverfly.winchdesign.cn | deprecated-custom-domains.b-cdn.net |
@@ -592,11 +590,11 @@
 | landsnail.garasjeport1.no | deprecated-custom-domains.b-cdn.net |
 | landsnail.motin.eu | deprecated-custom-domains.b-cdn.net |
 | lark.pollie.dev | deprecated-custom-domains.b-cdn.net |
+| leech.carolgilabert.me | deprecated-custom-domains.b-cdn.net |
 | leech.fuchsegg.at | deprecated-custom-domains.b-cdn.net |
 | leech.stargate-project.de | deprecated-custom-domains.b-cdn.net |
 | lemming.nicolasmenard.com | deprecated-custom-domains.b-cdn.net |
 | lemming.vivian.do | deprecated-custom-domains.b-cdn.net |
-| lemur.a-and-a-trucking.com | deprecated-custom-domains.b-cdn.net |
 | leopard.davidlindahlphoto.com | deprecated-custom-domains.b-cdn.net |
 | leopard.joytotheworld.info | deprecated-custom-domains.b-cdn.net |
 | leopard.laszlo.cloud | deprecated-custom-domains.b-cdn.net |
@@ -730,6 +728,7 @@
 | owl.sentrydiscord.dev | deprecated-custom-domains.b-cdn.net |
 | ox.first-law.com | deprecated-custom-domains.b-cdn.net |
 | ox.ines-papert.de | deprecated-custom-domains.b-cdn.net |
+| p016eshru.kaybe.co.uk | deprecated-custom-domains.b-cdn.net |
 | pa5xjc.m1guelpf.me | deprecated-custom-domains.b-cdn.net |
 | panda.moritz-petersen.de | deprecated-custom-domains.b-cdn.net |
 | panda.mvhphotoproject.org | deprecated-custom-domains.b-cdn.net |
@@ -900,7 +899,6 @@
 | sparrow.uitvaartzorg-vanraemdonck.be | deprecated-custom-domains.b-cdn.net |
 | sparrow.workingincontent.com | deprecated-custom-domains.b-cdn.net |
 | spermwhale.rowansimpson.com | deprecated-custom-domains.b-cdn.net |
-| spermwhale.thankbox.co | deprecated-custom-domains.b-cdn.net |
 | spider.capricciocolumbus.org | deprecated-custom-domains.b-cdn.net |
 | spider.hoomie.online | deprecated-custom-domains.b-cdn.net |
 | spider.scottw.com | deprecated-custom-domains.b-cdn.net |
@@ -995,7 +993,6 @@
 | turtle.mushtache.com | deprecated-custom-domains.b-cdn.net |
 | turtle.mydataroom.io | deprecated-custom-domains.b-cdn.net |
 | turtle.olivier.cx | deprecated-custom-domains.b-cdn.net |
-| turtle.sid.scot | deprecated-custom-domains.b-cdn.net |
 | uktgg.dev-tester.com | deprecated-custom-domains.b-cdn.net |
 | vampirebat.datingmedellin.com | deprecated-custom-domains.b-cdn.net |
 | vampirebat.febolos.es | deprecated-custom-domains.b-cdn.net |
@@ -1059,6 +1056,7 @@
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
 | matomo-cdn-bunny.ramsalt.com | matomo.b-cdn.net |
+| cache.myth.dev | mythdev.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |

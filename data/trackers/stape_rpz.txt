@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ abc.mr-deko.com CNAME .
 abc.strandkorb.co CNAME .
 abc.teppich.de CNAME .
 ac.ptagroup.sk CNAME .
+activitypost.seriousreaders.com CNAME .
 adconvert.freilich-bayern.de CNAME .
 adconvert.norddeutsche-solar.de CNAME .
 affiliate.campus-vegan-masterclass.de CNAME .
@@ -143,6 +144,7 @@ analytics.utensileriaonline.it CNAME .
 analytics.utopianhours.it CNAME .
 analytics.vandenbrug.nl CNAME .
 analytics.viisviis.fi CNAME .
+analytics.wedoframes.shop CNAME .
 analytics.winetip.com CNAME .
 analytics.wolvesofanalytics.com CNAME .
 analytics.wonderstudio.pt CNAME .
@@ -170,6 +172,7 @@ app.pez-candy.com CNAME .
 arcane.maison-etanche.com CNAME .
 arena.thyngster.com CNAME .
 arthurbrent.kindencoludens.nl CNAME .
+arthurbrent.vandervelden.com CNAME .
 assets.emcur.de CNAME .
 assets.emser.at CNAME .
 assets.emser.ch CNAME .
@@ -249,10 +252,12 @@ cdnx.villaggioalbaazzurra.it CNAME .
 cdnx.villaggiolabarca.it CNAME .
 cdnx.villaggiorelaislemagnolie.it CNAME .
 check.jettrade.dk CNAME .
+cj2015.drywear.dk CNAME .
 cjexjcdw.amunordjylland.dk CNAME .
 ck.am-qualitaetsmatratzen.de CNAME .
 ck.deine-massanfertigung.de CNAME .
 cl.cabaulifestyle.com CNAME .
+cl.malier.pl CNAME .
 clarity.fonio.ai CNAME .
 clothing.blue-industry.com CNAME .
 cloud.bistrobox.pl CNAME .
@@ -291,6 +296,8 @@ custom.adamell.pl CNAME .
 custom.hypnovent.de CNAME .
 custom.odeeh.com CNAME .
 custom.sunmotors.co.uk CNAME .
+custom.weba-sonnenschirme.de CNAME .
+d.1stformations.co.uk CNAME .
 d.61minuten.de CNAME .
 d.agazatmasr.com CNAME .
 d.airtattoo.com CNAME .
@@ -299,6 +306,7 @@ d.athletic-aesthetics.de CNAME .
 d.augment-it.com CNAME .
 d.ayrshiretradeframes.co.uk CNAME .
 d.bakjegeluk.nl CNAME .
+d.beechwood.agency CNAME .
 d.bifrost-studio.com CNAME .
 d.bokenaset.com CNAME .
 d.bora-products.de CNAME .
@@ -307,13 +315,13 @@ d.bruseco.com CNAME .
 d.business-kickstart.de CNAME .
 d.businessarchitekten.com CNAME .
 d.bwt-industries.com CNAME .
+d.catchyourwatch.co.uk CNAME .
 d.compleetgroen.nl CNAME .
 d.crealy.co.uk CNAME .
 d.cybersteps.de CNAME .
 d.docleads.de CNAME .
 d.doctorflix.de CNAME .
 d.doctorskin.ro CNAME .
-d.essentialworkwear.com CNAME .
 d.fine-tuner.ai CNAME .
 d.fixnuisible.be CNAME .
 d.forwardmarketing.nl CNAME .
@@ -332,6 +340,7 @@ d.mirrorsled.lv CNAME .
 d.mobikom.tv CNAME .
 d.nordicbasketball.dk CNAME .
 d.nordicbasketball.no CNAME .
+d.nordwest-factoring.de CNAME .
 d.obsessive.fr CNAME .
 d.ombriere.com CNAME .
 d.onlineaitraining.nl CNAME .
@@ -339,6 +348,7 @@ d.pacmanlive.co.uk CNAME .
 d.platoconcept.fr CNAME .
 d.qualitycompanyformations.co.uk CNAME .
 d.sandra-staub.de CNAME .
+d.sevillaspecialist.com CNAME .
 d.soforclean.sk CNAME .
 d.succesvolsetten.nl CNAME .
 d.support4dogs.nl CNAME .
@@ -351,6 +361,7 @@ d.vehgroshop.nl CNAME .
 d.viborghavemaskiner.dk CNAME .
 d.werkenbijkraamzus.nl CNAME .
 d.yorkshirewildlifepark.com CNAME .
+da.ganzinweiss.eu CNAME .
 da.hoerner-gmbh.com CNAME .
 da.juno-brautmoden.de CNAME .
 dads.maiscasa.pt CNAME .
@@ -363,6 +374,7 @@ data.alleys.dk CNAME .
 data.amarant.nl CNAME .
 data.amper24.pl CNAME .
 data.artnekretnine.com CNAME .
+data.atp-autoteile.at CNAME .
 data.autokilta.fi CNAME .
 data.babyitem.nl CNAME .
 data.barfers-wellfood.de CNAME .
@@ -373,6 +385,7 @@ data.biggastro.com CNAME .
 data.bluetweak.com CNAME .
 data.blush-jewels.com CNAME .
 data.brand-university.de CNAME .
+data.butler-loftet.no CNAME .
 data.carpigianibenelux.com CNAME .
 data.cheribundi.eu CNAME .
 data.coco-cici.com CNAME .
@@ -396,19 +409,23 @@ data.erkado.pl CNAME .
 data.eurex.fr CNAME .
 data.fashionmusthaves.de CNAME .
 data.fernstudium.study CNAME .
+data.filterfabriek.nl CNAME .
 data.flexxinvestments.nl CNAME .
 data.fuchsgruppe.shop CNAME .
 data.gesundheitskurs.de CNAME .
 data.gitp.nl CNAME .
+data.go4jobs.be CNAME .
 data.gordexolaclassic.com CNAME .
 data.growcave.de CNAME .
 data.hello-owen.de CNAME .
 data.helloarchie.com CNAME .
 data.imatrankylpyla.fi CNAME .
 data.insinooritoimisto2k.fi CNAME .
+data.instagrume.com CNAME .
 data.iverpan.hr CNAME .
 data.iviskin.de CNAME .
 data.iviskin.dk CNAME .
+data.iviskin.fi CNAME .
 data.iviskin.no CNAME .
 data.iviskin.pl CNAME .
 data.iviskin.se CNAME .
@@ -467,13 +484,13 @@ data.top-immomakler.de CNAME .
 data.tradeka.fi CNAME .
 data.ucpa.se CNAME .
 data.unitechnik.com CNAME .
-data.utranuittotupa.fi CNAME .
 data.vastgoedbs.nl CNAME .
 data.vetain.de CNAME .
 data.vetsend.co.uk CNAME .
 data.vianode.com CNAME .
 data.voorkappers.be CNAME .
 data.wecareplus.de CNAME .
+data.welever.fr CNAME .
 data.wellensmen.be CNAME .
 data.windooro.de CNAME .
 data.zwaluwcomfortsanitair.nl CNAME .
@@ -520,8 +537,10 @@ etr.mcstaging-uk.elemis.com CNAME .
 etr.mcstaging2-eu.elemis.com CNAME .
 etr.mcstaging2-uk.elemis.com CNAME .
 etr.uk.elemis.com CNAME .
+eu-cdn.kgm-motors.co.uk CNAME .
 eua.trailerplus.at CNAME .
 eua.trailerplus.de CNAME .
+eua.trailerplus.dk CNAME .
 eua.trailerplus.eu CNAME .
 eua.trailerplus.fr CNAME .
 eua.trailerplus.pt CNAME .
@@ -547,6 +566,7 @@ fb.energie.guide-infos.fr CNAME .
 fb.ite.dispositif.info CNAME .
 fb.panneauxsolaires.dispositif.info CNAME .
 fb.serupractice.com CNAME .
+fewptsgg.argonaudio.com CNAME .
 fewptsgg.radiantacoustics.com CNAME .
 fewptsgg.vestlyd.com CNAME .
 fg.candino.com CNAME .
@@ -560,6 +580,7 @@ first.raftmetal.ro CNAME .
 first.yeti-heat.com CNAME .
 fit.bedrijfsfitnessnederland.nl CNAME .
 flow.laminaatenparket.nl CNAME .
+fp.hillbury.de CNAME .
 fruity.redpitaya.com CNAME .
 fully.bregje.nl CNAME .
 fun.datads.io CNAME .
@@ -667,6 +688,7 @@ gtm.annette.care CNAME .
 gtm.appiotti.com CNAME .
 gtm.apportsystems.com CNAME .
 gtm.aptum.no CNAME .
+gtm.aquariusdirect.com CNAME .
 gtm.arhivatorul.ro CNAME .
 gtm.arqplace.com.br CNAME .
 gtm.artecreare.it CNAME .
@@ -719,6 +741,8 @@ gtm.bricoflor.it CNAME .
 gtm.bricoflor.nl CNAME .
 gtm.bricoflor.se CNAME .
 gtm.briconeo.es CNAME .
+gtm.brightmill.de CNAME .
+gtm.brightmill.se CNAME .
 gtm.bruunsbazaar.dk CNAME .
 gtm.budaro.pl CNAME .
 gtm.bullens.com CNAME .
@@ -737,6 +761,7 @@ gtm.catcare24.de CNAME .
 gtm.cb-group.info CNAME .
 gtm.centre-bodysano.fr CNAME .
 gtm.certyfikaty-energetyczne.pl CNAME .
+gtm.chefsaporta.com CNAME .
 gtm.chelseasupplies.com CNAME .
 gtm.chocante.pl CNAME .
 gtm.chriskyriacou.uk CNAME .
@@ -745,6 +770,7 @@ gtm.cocon-flottaison.com CNAME .
 gtm.coffeefresh.nl CNAME .
 gtm.cookingfun.com CNAME .
 gtm.corseteriasinguerlin.com CNAME .
+gtm.cozyhomestore.nl CNAME .
 gtm.cpsconsulting.it CNAME .
 gtm.crisafigioielli.it CNAME .
 gtm.ctbconsulting.ch CNAME .
@@ -787,6 +813,7 @@ gtm.dstchemicals.com CNAME .
 gtm.duriieditorial.com CNAME .
 gtm.eaanalytics.co.uk CNAME .
 gtm.eclat-emporium.com CNAME .
+gtm.ecolealjabr.com CNAME .
 gtm.edisonnext.it CNAME .
 gtm.edulciuri.ro CNAME .
 gtm.eforma.it CNAME .
@@ -855,6 +882,7 @@ gtm.gimborn.eu CNAME .
 gtm.ginbutikken.dk CNAME .
 gtm.gioielleriacasella.com CNAME .
 gtm.giovanesenzabisturi.com CNAME .
+gtm.gmsantaclara.com CNAME .
 gtm.golfamore.com CNAME .
 gtm.gooresultados.com.br CNAME .
 gtm.graztourismus.at CNAME .
@@ -891,6 +919,7 @@ gtm.infinity.overline.it CNAME .
 gtm.informattiva.com CNAME .
 gtm.inioficial.com CNAME .
 gtm.iniziativalegno.it CNAME .
+gtm.interpom.be CNAME .
 gtm.iris.cc CNAME .
 gtm.irsap.com CNAME .
 gtm.isolkappa.it CNAME .
@@ -923,6 +952,7 @@ gtm.leonie-items.de CNAME .
 gtm.les-destinations.nl CNAME .
 gtm.les-jeux-montessori.fr CNAME .
 gtm.lgrworld.com CNAME .
+gtm.liberatigioielli.com CNAME .
 gtm.ligamentor.dk CNAME .
 gtm.lily.mt CNAME .
 gtm.limesurvey.org CNAME .
@@ -934,6 +964,8 @@ gtm.locationmatrimoniocaserta.com CNAME .
 gtm.loewebaer.com CNAME .
 gtm.longy.it CNAME .
 gtm.loraboutiquedental.com CNAME .
+gtm.lorpenpecas.com.br CNAME .
+gtm.ltingenjorsbyra.se CNAME .
 gtm.lucasborgesarquitetura.arq.br CNAME .
 gtm.lucasdivestore.com CNAME .
 gtm.luminadeco.pl CNAME .
@@ -1011,6 +1043,7 @@ gtm.nordic-tea.dk CNAME .
 gtm.nostalgiasdelights.com CNAME .
 gtm.novadigy.com CNAME .
 gtm.nowy-etap.pl CNAME .
+gtm.nuovatopolin.it CNAME .
 gtm.nutri.nl CNAME .
 gtm.nyoa.art CNAME .
 gtm.obrafacil.pt CNAME .
@@ -1087,6 +1120,7 @@ gtm.rudapatrice.com CNAME .
 gtm.ruku1952.es CNAME .
 gtm.safinae.fr CNAME .
 gtm.sahkoliitto.fi CNAME .
+gtm.sahkovalinta.fi CNAME .
 gtm.sanaor.com CNAME .
 gtm.scooter.co.uk CNAME .
 gtm.sdrepair.nl CNAME .
@@ -1122,7 +1156,9 @@ gtm.survivalrace.pl CNAME .
 gtm.susanabarros.com CNAME .
 gtm.svenskapoolfabriken.se CNAME .
 gtm.swederm.com CNAME .
+gtm.swederm.de CNAME .
 gtm.sweet-animal.com CNAME .
+gtm.syncspider.com CNAME .
 gtm.tabac-fragrances.nl CNAME .
 gtm.tabac.de CNAME .
 gtm.tap-light.de CNAME .
@@ -1138,6 +1174,7 @@ gtm.thepack.cc CNAME .
 gtm.theresonanceco.com CNAME .
 gtm.theshashkasyndicate.com CNAME .
 gtm.tigo.pt CNAME .
+gtm.tomtasty.ch CNAME .
 gtm.topassureur.fr CNAME .
 gtm.trasferirsiinsvizzera.com CNAME .
 gtm.travel-akademie.cz CNAME .
@@ -1150,6 +1187,7 @@ gtm.tsheart.pt CNAME .
 gtm.ultragomme.com CNAME .
 gtm.unicef.dk CNAME .
 gtm.unioneprofessionisti.com CNAME .
+gtm.vaatemyynti.fi CNAME .
 gtm.valcele.eu CNAME .
 gtm.vidaplayer.com CNAME .
 gtm.villapaolatropea.it CNAME .
@@ -1197,6 +1235,7 @@ gtms.endscuoio.com CNAME .
 gtmsc.bkv.jobs CNAME .
 gtmsc.calco.nl CNAME .
 gtmserver.deinetraumfigur-sg.ch CNAME .
+gtmserver.seasonbookings.com.br CNAME .
 gtmserver.veradias.coach CNAME .
 gtmserver.xrent4u.com CNAME .
 gtmsrv.caseih.com CNAME .
@@ -1269,6 +1308,7 @@ innovation.nefkens.nl CNAME .
 innovation.nijha.nl CNAME .
 innovation.oostlandbmw.nl CNAME .
 innovation.palagroup.nl CNAME .
+innovation.storymini.nl CNAME .
 innovation.terwolde.nl CNAME .
 innovation.xpeng-center.nl CNAME .
 insights.hotelsktannae.dk CNAME .
@@ -1302,6 +1342,7 @@ kikufnhx.wergon.se CNAME .
 kitxllaf.mecindo.dk CNAME .
 kitxllaf.mecindo.no CNAME .
 kitxllaf.mecindo.se CNAME .
+kljk.krankenkasseninfo.de CNAME .
 koekje.rapidprototyping.nl CNAME .
 koekje.smaakverkenners.nl CNAME .
 konv.tasz.hu CNAME .
@@ -1320,6 +1361,7 @@ link.bloetz.net CNAME .
 link.pod-display.com CNAME .
 livlnpnd.goteam.dk CNAME .
 load.3tand.werkenbijneptunus.eu CNAME .
+load.781.spielzwerg.com CNAME .
 load.9e00521370f53fe0ec.littlerainbowbakehouse.co.uk CNAME .
 load.a.activepet.dk CNAME .
 load.a.alpina-marineudstyr.dk CNAME .
@@ -1344,6 +1386,7 @@ load.a.hafiska.dk CNAME .
 load.a.hobbygarn.dk CNAME .
 load.a.intensse.ro CNAME .
 load.a.jbs.dk CNAME .
+load.a.jbsofdenmark.de CNAME .
 load.a.jbsofdenmark.dk CNAME .
 load.a.jeva.com CNAME .
 load.a.jeva.dk CNAME .
@@ -1387,6 +1430,7 @@ load.abc.procilon.de CNAME .
 load.abc.strandkorb.co CNAME .
 load.abc.teppich.de CNAME .
 load.abc.yourbeef.de CNAME .
+load.abrmcbgt.traffictoday.nl CNAME .
 load.advice.businesshelpline.uk CNAME .
 load.aha.aalborg-hotel-apartments.dk CNAME .
 load.ahjcxebm.nortlander.dk CNAME .
@@ -1460,6 +1504,7 @@ load.bct1.wissenmachtumsatz.de CNAME .
 load.best.designmycase.co.uk CNAME .
 load.better.bettersteps.pl CNAME .
 load.bmck.bulkmockup.com CNAME .
+load.bs.tktxoriginal.pl CNAME .
 load.butterfly.clinicadentalcarinena.com CNAME .
 load.c.erth.se CNAME .
 load.c.erthkottbutik.se CNAME .
@@ -1472,6 +1517,7 @@ load.capi.thecravery.co.uk CNAME .
 load.capi.xivada.nl CNAME .
 load.capi.xn--hrgerteabo-u5a5s.ch CNAME .
 load.cas.greenguardia.de CNAME .
+load.cas.huck-gmbh.de CNAME .
 load.cas.onlinebaufuchs.de CNAME .
 load.cas.wundambulanz.at CNAME .
 load.cdnx.hotelsolpalace.com CNAME .
@@ -1484,8 +1530,10 @@ load.collect.babysam.dk CNAME .
 load.collect.bobutespaskola.lt CNAME .
 load.collect.dancovershop.com CNAME .
 load.collect.elberegner.dk CNAME .
+load.collect.feriepartner.com CNAME .
 load.collect.feriepartner.de CNAME .
 load.collect.feriepartner.dk CNAME .
+load.collect.feriepartner.nl CNAME .
 load.collect.feriepartner.se CNAME .
 load.collect.ilva.dk CNAME .
 load.collect.q10-koenzym.no CNAME .
@@ -1495,6 +1543,7 @@ load.collect2.performance.one CNAME .
 load.conversion.lecollectionist.com CNAME .
 load.csitulo.g-heat.eu CNAME .
 load.ct.sydneyfrances.com CNAME .
+load.custom.weba-sonnenschirme.de CNAME .
 load.d.airtattoo.com CNAME .
 load.d.alu-profile-zuschnitt.de CNAME .
 load.d.blaser.de CNAME .
@@ -1509,12 +1558,14 @@ load.d.iflyworld.co.uk CNAME .
 load.d.iflyworld.com.au CNAME .
 load.d.j-p-sauersohn.de CNAME .
 load.d.mauser.com CNAME .
+load.d.minox-optics.com CNAME .
 load.d.minox.com CNAME .
 load.d.miro-kredit.ch CNAME .
 load.d.mobikom.ch CNAME .
 load.d.mobikom.tv CNAME .
 load.d.nordicbasketball.de CNAME .
 load.d.nordicbasketball.dk CNAME .
+load.d.nordicbasketball.fi CNAME .
 load.d.nordicbasketball.no CNAME .
 load.d.pacmanlive.co.uk CNAME .
 load.d.praktischarzt.at CNAME .
@@ -1562,6 +1613,7 @@ load.data.filterfabriek.nl CNAME .
 load.data.flexxinvestments.nl CNAME .
 load.data.fortune.nl CNAME .
 load.data.fuxtec.fr CNAME .
+load.data.geldsicherheitstage.com CNAME .
 load.data.gitp.nl CNAME .
 load.data.godmatlyst.no CNAME .
 load.data.heilys.de CNAME .
@@ -1579,6 +1631,7 @@ load.data.kryptopowerhouse.com CNAME .
 load.data.lafermeauxcrocodiles.com CNAME .
 load.data.ledchampion.de CNAME .
 load.data.ledkoning.nl CNAME .
+load.data.ledprofielkoning.be CNAME .
 load.data.ledprofielkoning.nl CNAME .
 load.data.ledstripkoning.be CNAME .
 load.data.ledstripkoning.nl CNAME .
@@ -1586,6 +1639,7 @@ load.data.leksaker.se CNAME .
 load.data.lightforme.de CNAME .
 load.data.luna-park.de CNAME .
 load.data.mannaz.com CNAME .
+load.data.marketingkarwei.nl CNAME .
 load.data.maximilian-wolf.com CNAME .
 load.data.medeocare.pl CNAME .
 load.data.medpets.at CNAME .
@@ -1669,6 +1723,7 @@ load.dt.tazne-rameder.cz CNAME .
 load.dt.waterdrop.de CNAME .
 load.duper.superfoodstore.nl CNAME .
 load.dwga.kockensredskap.se CNAME .
+load.e.thefabers.de CNAME .
 load.ejizlcat.sleeknote.com CNAME .
 load.etr.eu.elemis.com CNAME .
 load.etr.mcstaging-eu.elemis.com CNAME .
@@ -1677,6 +1732,7 @@ load.etr.mcstaging2-eu.elemis.com CNAME .
 load.etr.mcstaging2-uk.elemis.com CNAME .
 load.etr.uk.elemis.com CNAME .
 load.eua.trailerplus.at CNAME .
+load.eua.trailerplus.be CNAME .
 load.eua.trailerplus.cz CNAME .
 load.eua.trailerplus.de CNAME .
 load.eua.trailerplus.dk CNAME .
@@ -1728,6 +1784,7 @@ load.futureproof.themembercompany.com CNAME .
 load.futureproof.werkenbijforesco.eu CNAME .
 load.fvilezyti.g-heat.co.uk CNAME .
 load.fwd-mtg.jobrad-loop.com CNAME .
+load.fwd-mtg.revelo.de CNAME .
 load.fyzlfpjn.cclonline.com CNAME .
 load.fyzlfpjn.chillblast.com CNAME .
 load.g.asumma.com CNAME .
@@ -1798,6 +1855,7 @@ load.gtm.atmospherefashion.ro CNAME .
 load.gtm.audittoolbar.com CNAME .
 load.gtm.automatikshop.de CNAME .
 load.gtm.axl-formazione.it CNAME .
+load.gtm.b-nu.de CNAME .
 load.gtm.babylodge.it CNAME .
 load.gtm.bagsandmore.lt CNAME .
 load.gtm.bandholmbadehotel.dk CNAME .
@@ -1821,6 +1879,7 @@ load.gtm.braviodellebotti.com CNAME .
 load.gtm.brinqer.nl CNAME .
 load.gtm.brume.ai CNAME .
 load.gtm.burnout.kitchen CNAME .
+load.gtm.byggresan.se CNAME .
 load.gtm.camedia.de CNAME .
 load.gtm.camp4.de CNAME .
 load.gtm.cantina-hicetnunc.it CNAME .
@@ -1859,6 +1918,7 @@ load.gtm.durasun.beltrona.de CNAME .
 load.gtm.eaanalytics.co.uk CNAME .
 load.gtm.edu-consulting-szkolenia.pl CNAME .
 load.gtm.edulciuri.ro CNAME .
+load.gtm.elektrisitetspriser.no CNAME .
 load.gtm.elephant-digital.de CNAME .
 load.gtm.elfinder.dk CNAME .
 load.gtm.eltenerfahrradprofi.de CNAME .
@@ -1903,11 +1963,13 @@ load.gtm.greenup.lt CNAME .
 load.gtm.greyhound-guide.com CNAME .
 load.gtm.gtfdigital.com CNAME .
 load.gtm.gyogyseged.hu CNAME .
+load.gtm.gyvunumaistas.lt CNAME .
 load.gtm.hairboost.dk CNAME .
 load.gtm.hans-natur.de CNAME .
 load.gtm.horrentotaal.nl CNAME .
 load.gtm.hotelpartner.com CNAME .
 load.gtm.houseland.cz CNAME .
+load.gtm.houseofher.com CNAME .
 load.gtm.hrnest.pl CNAME .
 load.gtm.ilprofchecipiace.com CNAME .
 load.gtm.implant-centre-martinko.eu CNAME .
@@ -1916,6 +1978,7 @@ load.gtm.iniziativalegno.it CNAME .
 load.gtm.integratorecolesterolo.com CNAME .
 load.gtm.internettilbud.dk CNAME .
 load.gtm.internettjek.dk CNAME .
+load.gtm.internettpriser.no CNAME .
 load.gtm.ioutletstore.pt CNAME .
 load.gtm.itipicidivaltellina.it CNAME .
 load.gtm.itoptimiser.com CNAME .
@@ -1968,6 +2031,7 @@ load.gtm.medi-karriere.at CNAME .
 load.gtm.medi-karriere.ch CNAME .
 load.gtm.medi-karriere.de CNAME .
 load.gtm.mediaus.it CNAME .
+load.gtm.meeko.mobi CNAME .
 load.gtm.meeting-hub.net CNAME .
 load.gtm.meine-verdauungsreise.de CNAME .
 load.gtm.merkurnord.dk CNAME .
@@ -1977,6 +2041,7 @@ load.gtm.midika.eu CNAME .
 load.gtm.mitboliglaan.dk CNAME .
 load.gtm.mobilabonnementpriser.dk CNAME .
 load.gtm.moovo.it CNAME .
+load.gtm.moto-lita.co.uk CNAME .
 load.gtm.mp.dk CNAME .
 load.gtm.mr-adam.nl CNAME .
 load.gtm.msf.ch CNAME .
@@ -2076,12 +2141,14 @@ load.gtm.trfxofficial.com CNAME .
 load.gtm.trfxoficial.com CNAME .
 load.gtm.trhive.com CNAME .
 load.gtm.tuk.dk CNAME .
+load.gtm.ubauma.de CNAME .
 load.gtm.uhl.de CNAME .
 load.gtm.unfold-outdoor.de CNAME .
 load.gtm.unique.salon CNAME .
 load.gtm.useeum.com CNAME .
 load.gtm.vaatemyynti.fi CNAME .
 load.gtm.vacuplanet.it CNAME .
+load.gtm.valcele.eu CNAME .
 load.gtm.valeriocelletti.com CNAME .
 load.gtm.vanegmond.nl CNAME .
 load.gtm.vazine.org CNAME .
@@ -2149,6 +2216,8 @@ load.home.ballonking.ch CNAME .
 load.home.farfalla.ch CNAME .
 load.home2.elxis.com CNAME .
 load.hub.jobsinslovenia.eu CNAME .
+load.hub.viberate.com CNAME .
+load.hupicaxup.gbt-shop.se CNAME .
 load.hxvksgwv.luggagehero.com CNAME .
 load.iceglamk.billig-arbejdstoj.dk CNAME .
 load.iceglamk.billiga-arbetsklader.se CNAME .
@@ -2196,6 +2265,7 @@ load.jugrebfi.g-heat.de CNAME .
 load.kbx.euphoriaboutique.uk CNAME .
 load.kbx.foreverparty.co.uk CNAME .
 load.kbx.furnicomp.co.uk CNAME .
+load.kbx.indianajones.store CNAME .
 load.kbx.spinadiscmetaldetectors.com CNAME .
 load.kbx.toffeln.com CNAME .
 load.kbx.weardala.com CNAME .
@@ -2223,7 +2293,10 @@ load.logs.officedepot.fr CNAME .
 load.loqtwoho.cozaherbata.pl CNAME .
 load.loqtwoho.kawaherbatasklep.pl CNAME .
 load.measure.adem.london CNAME .
+load.measure.constructionbriefing.com CNAME .
 load.measure.cranebriefing.com CNAME .
+load.measure.internationalrentalnews.com CNAME .
+load.measure.khl.com CNAME .
 load.measure.powerprogress.com CNAME .
 load.measure.recombee.com CNAME .
 load.measure.scaffoldmag.com CNAME .
@@ -2252,6 +2325,7 @@ load.metrics.memodo.cz CNAME .
 load.metrics.memodo.de CNAME .
 load.metrics.memodo.it CNAME .
 load.metrics.memodo.nl CNAME .
+load.metrics.memodo.pl CNAME .
 load.metrics.mindly.dk CNAME .
 load.metrics.offsoo.net CNAME .
 load.metrics.regnodellegno.com CNAME .
@@ -2280,11 +2354,13 @@ load.mtgs.zdravysvet.sk CNAME .
 load.mtr.disolvium.com CNAME .
 load.mtrcs.moyneroberts.com CNAME .
 load.mtrcs.werkenbijzmw.nl CNAME .
+load.nebula.roole.fr CNAME .
 load.net4ever.orientacionempleo.com CNAME .
 load.new.dionecouture.com CNAME .
 load.nn.nejbalonky.cz CNAME .
 load.parrot.kijimea.es CNAME .
 load.parrot.kijimea.fr CNAME .
+load.pcv.pariscityvision.com CNAME .
 load.perfectmeten.doublelucky7game.nl CNAME .
 load.pickle.qinshealth.com CNAME .
 load.pig.andorragestion.com CNAME .
@@ -2354,6 +2430,7 @@ load.server.casapedrini.com.br CNAME .
 load.server.city-shapes.com CNAME .
 load.server.creationfurniture.co.uk CNAME .
 load.server.dailywatch.co CNAME .
+load.server.danelec.com CNAME .
 load.server.fabrique-a-filets.com CNAME .
 load.server.formation-excel.be CNAME .
 load.server.fusionarena.ch CNAME .
@@ -2405,6 +2482,7 @@ load.sgtm.analizeonline.ro CNAME .
 load.sgtm.atlas-der-gesundheit.com CNAME .
 load.sgtm.awakenings.com CNAME .
 load.sgtm.bahezbarbershop.dk CNAME .
+load.sgtm.baristaboom.es CNAME .
 load.sgtm.bedst-billigst.dk CNAME .
 load.sgtm.bellevetratescorrevoli.it CNAME .
 load.sgtm.best-billigst.no CNAME .
@@ -2563,6 +2641,7 @@ load.sgtm.sparwindows.co.uk CNAME .
 load.sgtm.stantonchase.com CNAME .
 load.sgtm.strikkia.no CNAME .
 load.sgtm.supermachine.be CNAME .
+load.sgtm.teamdigitaal.nl CNAME .
 load.sgtm.tennis-point.at CNAME .
 load.sgtm.tennis-point.be CNAME .
 load.sgtm.tennis-point.ch CNAME .
@@ -2586,6 +2665,7 @@ load.sgtm.titancontainers.com.au CNAME .
 load.sgtm.titancontainers.de CNAME .
 load.sgtm.titancontainers.dk CNAME .
 load.sgtm.titancontainers.es CNAME .
+load.sgtm.titancontainers.fr CNAME .
 load.sgtm.titancontainers.hu CNAME .
 load.sgtm.titancontainers.ie CNAME .
 load.sgtm.titancontainers.pl CNAME .
@@ -2598,6 +2678,7 @@ load.sgtm.trymoin.de CNAME .
 load.sgtm.tuningkauppa.com CNAME .
 load.sgtm.tvelina.com.ua CNAME .
 load.sgtm.twinings.co.uk CNAME .
+load.sgtm.uniqperler.com CNAME .
 load.sgtm.urjalanmakeistukku.fi CNAME .
 load.sgtm.videnskab.dk CNAME .
 load.sgtm.vitacreme.dk CNAME .
@@ -2627,6 +2708,7 @@ load.side.pizzeriadaneocesena.it CNAME .
 load.side.spinaci.marketing CNAME .
 load.side.testadimonaconaturalbeach.it CNAME .
 load.skbx.golfstardirect.co.uk CNAME .
+load.skbx.phenomboxing.com CNAME .
 load.so.bartenderly.com CNAME .
 load.somos.alquilerplus.es CNAME .
 load.somos.bebee.com CNAME .
@@ -2668,6 +2750,7 @@ load.ss.binne.se CNAME .
 load.ss.bitcoinsteakhouse.nyc CNAME .
 load.ss.blinkdrive.ch CNAME .
 load.ss.boxit.dk CNAME .
+load.ss.broedersgezondheidswinkel.be CNAME .
 load.ss.broedersgezondheidswinkel.nl CNAME .
 load.ss.brunata.com CNAME .
 load.ss.brunata.dk CNAME .
@@ -2731,6 +2814,7 @@ load.ss.fontana.se CNAME .
 load.ss.formtrappan.se CNAME .
 load.ss.foteniesvadieb.com CNAME .
 load.ss.fritswolf.nl CNAME .
+load.ss.gammelhavn.nu CNAME .
 load.ss.gerovesklinika.lt CNAME .
 load.ss.gigantiumkvarteret.com CNAME .
 load.ss.greenique.ro CNAME .
@@ -2763,6 +2847,7 @@ load.ss.joma-tech.de CNAME .
 load.ss.jumpyard.es CNAME .
 load.ss.kamaltec.shop CNAME .
 load.ss.keniaessentials.com CNAME .
+load.ss.kfz-flow.de CNAME .
 load.ss.kitex.tech CNAME .
 load.ss.kukuk.dk CNAME .
 load.ss.kursmodfremtiden.dk CNAME .
@@ -2773,6 +2858,7 @@ load.ss.lemarpol.com.pl CNAME .
 load.ss.lemarpol.eu CNAME .
 load.ss.lescosmetiquesfrais.fr CNAME .
 load.ss.letslevitate.com CNAME .
+load.ss.lifehaveliv.dk CNAME .
 load.ss.luxvuf.dk CNAME .
 load.ss.madpack.works CNAME .
 load.ss.malerishop.no CNAME .
@@ -2925,6 +3011,7 @@ load.sst.belvedere.at CNAME .
 load.sst.benimkredim24.de CNAME .
 load.sst.benu.ch CNAME .
 load.sst.besteltaart.nl CNAME .
+load.sst.beukenhorst.nl CNAME .
 load.sst.bierkanjer.nl CNAME .
 load.sst.bikesattel.at CNAME .
 load.sst.bila.dk CNAME .
@@ -2942,6 +3029,7 @@ load.sst.btc-city.com CNAME .
 load.sst.buddshirts.co.uk CNAME .
 load.sst.burrowsandhare.co.uk CNAME .
 load.sst.bwt.com CNAME .
+load.sst.calstop.no CNAME .
 load.sst.clementcombes.com CNAME .
 load.sst.clementi-vuurovens.nl CNAME .
 load.sst.cocoletti.com CNAME .
@@ -3007,6 +3095,7 @@ load.sst.juliliving.dk CNAME .
 load.sst.juliliving.se CNAME .
 load.sst.kaffelars.dk CNAME .
 load.sst.kefl.co.uk CNAME .
+load.sst.koberce.sk CNAME .
 load.sst.kofferworld.de CNAME .
 load.sst.kubixmedia.co.uk CNAME .
 load.sst.kunskapsgruppen.se CNAME .
@@ -3096,6 +3185,7 @@ load.sst.shoplondon.dk CNAME .
 load.sst.skilink.se CNAME .
 load.sst.sproutworld.com CNAME .
 load.sst.star.de CNAME .
+load.sst.stoffrestposten.ch CNAME .
 load.sst.store.exaktus.pt CNAME .
 load.sst.studenten-kunstmarkt.de CNAME .
 load.sst.stuntenmetplinten.nl CNAME .
@@ -3110,6 +3200,7 @@ load.sst.triumph-adler.de CNAME .
 load.sst.tschoolhuys.be CNAME .
 load.sst.umbraco.com CNAME .
 load.sst.valbytand.dk CNAME .
+load.sst.valitysvertailu.fi CNAME .
 load.sst.vanbuuren.nl CNAME .
 load.sst.vansprang.nl CNAME .
 load.sst.veolin.com CNAME .
@@ -3149,14 +3240,25 @@ load.sstm.arenaswim.com CNAME .
 load.sstm.chgroup.eu CNAME .
 load.sstm.longines.com CNAME .
 load.sstm.sergiorossi.com CNAME .
+load.sstrk.green-acres.ae CNAME .
+load.sstrk.green-acres.at CNAME .
+load.sstrk.green-acres.co.il CNAME .
+load.sstrk.green-acres.com CNAME .
+load.sstrk.green-acres.es CNAME .
+load.sstrk.green-acres.fr CNAME .
+load.sstrk.green-acres.gr CNAME .
+load.sstrk.green-acres.it CNAME .
+load.sstrk.green-acres.pt CNAME .
 load.sstrk.labrigadedevero.com CNAME .
 load.st.bzenbikes-outlet.com CNAME .
 load.st.bzenbikes.com CNAME .
+load.st.casewise.pl CNAME .
 load.st.dgtl.nl CNAME .
 load.st.feestfabriek.nl CNAME .
 load.st.fussballreisen.com CNAME .
 load.st.hdm.at CNAME .
 load.st.malier.pl CNAME .
+load.st.petermax.at CNAME .
 load.st.q-dance.com CNAME .
 load.st.sourceful.nl CNAME .
 load.st.strafwerk.org CNAME .
@@ -3181,7 +3283,6 @@ load.stape.fortunex.no CNAME .
 load.stape.frattinauto.it CNAME .
 load.stape.frsc.pl CNAME .
 load.stape.haslehus.dk CNAME .
-load.stape.hertughansskole.dk CNAME .
 load.stape.hplhusene.dk CNAME .
 load.stape.klavierstunde-muenchen.de CNAME .
 load.stape.kvaegtorvet-slagelse.dk CNAME .
@@ -3305,6 +3406,7 @@ load.track.gilpa.dk CNAME .
 load.track.horsepartner.dk CNAME .
 load.track.legitimate-tracking.com CNAME .
 load.track.meiko.ch CNAME .
+load.track.olisan.dk CNAME .
 load.track.philipplang-business.com CNAME .
 load.track.philipplang-consulting.com CNAME .
 load.track.philippnvlang.com CNAME .
@@ -3364,6 +3466,7 @@ load.wolfss.ocambridge.de CNAME .
 load.work.rubberco.co.uk CNAME .
 load.www.ss.sterneadvo.de CNAME .
 load.www.t.iot-fabrikken.com CNAME .
+load.www.tag.giusylamattina.com CNAME .
 load.wxpdlopz.livetsomsenior.dk CNAME .
 load.wxpdlopz.shoppo.se CNAME .
 load.xprt.afzuigkapfilterexpert.be CNAME .
@@ -3380,6 +3483,7 @@ load.yugxerli.ems-dental.com CNAME .
 load.ywt.beachclubbait.nl CNAME .
 load.ywt.feriendorfholland.de CNAME .
 load.ywt.glutespop.com CNAME .
+load.ywt.huisvergroenen.nl CNAME .
 load.ywt.informer.eu CNAME .
 load.ywt.informer.nl CNAME .
 load.ywt.jouwgezondheidstest.nl CNAME .
@@ -3429,6 +3533,7 @@ measure.logistiekonline.nl CNAME .
 measure.loyalinterim.nl CNAME .
 measure.rotomshop.at CNAME .
 measure.rotomshop.co.uk CNAME .
+measure.rotomshop.de CNAME .
 measure.rotomshop.es CNAME .
 measure.rotomshop.fr CNAME .
 measure.rotomshop.pl CNAME .
@@ -3451,6 +3556,7 @@ mereni.rankacy.com CNAME .
 mereni.webfusion.cz CNAME .
 metrics.actionmoto.it CNAME .
 metrics.agardina.hu CNAME .
+metrics.agardina.lv CNAME .
 metrics.controlloindiretta.com CNAME .
 metrics.fitnessguru.com CNAME .
 metrics.fufu.ee CNAME .
@@ -3474,6 +3580,7 @@ mmpstape.tenpin.co.uk CNAME .
 mn.homecoming.be CNAME .
 mo.spiegelshop.nl CNAME .
 monirt.taposheebd.com CNAME .
+mptag.qura.nu CNAME .
 mrevolss.yopagomenos.co CNAME .
 msalbasss.yopagomenos.co CNAME .
 msalpress.yopagomenos.co CNAME .
@@ -3497,9 +3604,18 @@ mtgs.terno.sk CNAME .
 mtgs.tlacoznamka.sk CNAME .
 mtgs.velosvet.sk CNAME .
 mtgs.zdravysvet.sk CNAME .
+mtp.albatrosfinance.pl CNAME .
 mtp.kredytnachwilowki.pl CNAME .
 mtp.loanhub.pl CNAME .
+mtr.disolvium.com CNAME .
+mtrcs.onlinepenshop.es CNAME .
+mtrcs.onlinepenshop.fr CNAME .
+mtrcs.penshop.nl CNAME .
+mtrcs.penshop.pt CNAME .
+mtrcs.penshopbelgie.be CNAME .
+mtrcs.unitedpenshop.co.uk CNAME .
 mts.tktxoriginal.es CNAME .
+muppie.lens-expert.nl CNAME .
 mvidass.yopagomenos.co CNAME .
 mvt.ma-voiture-telecommande.fr CNAME .
 mwss.maxworx.com CNAME .
@@ -3535,6 +3651,7 @@ oracle.allbirds.nl CNAME .
 orange.agencijaspark.si CNAME .
 order.outdoortid.dk CNAME .
 ovpwvioj.fdbmobler.dk CNAME .
+p.megzeit.de CNAME .
 path.repareo.de CNAME .
 pflanze.baumschule-horstmann.de CNAME .
 pieejami.tilde.ai CNAME .
@@ -3542,7 +3659,9 @@ pizza.als-pizza.de CNAME .
 pl.antilliaansefeesten.be CNAME .
 pl.francofolies.be CNAME .
 pl.paradiesgartenfestival.at CNAME .
+pl.paradisecity.be CNAME .
 plus.tovari.fi CNAME .
+prev.focus-bikes.com CNAME .
 priv.feine-farben.de CNAME .
 priv.jsh.marketing CNAME .
 priv.skinflow.de CNAME .
@@ -3575,6 +3694,7 @@ s.fcmshop.dk CNAME .
 s.feestenmetcarrefour.be CNAME .
 s.fesztivalkatlan.hu CNAME .
 s.fidlock.com CNAME .
+s.framtiden.com CNAME .
 s.grillo.de CNAME .
 s.gyorgyteabolt.hu CNAME .
 s.habarri.pl CNAME .
@@ -3605,11 +3725,14 @@ s.transporo.de CNAME .
 s.varify.io CNAME .
 s.vostools.be CNAME .
 s1.ecofino.nl CNAME .
+s2.anivetdirect.hu CNAME .
 s2.grandopet.hu CNAME .
 s2.netamin.hu CNAME .
 s2.pemdelian.com CNAME .
 s2.pom-pom.hu CNAME .
 s2s.compramostucamion.es CNAME .
+s2s.maxisport.com CNAME .
+s2s.weclean4u.com.cy CNAME .
 sa.dutchsuitcase.com CNAME .
 sagor.aloha-jewelry.co CNAME .
 sagor.ovation-designs.com CNAME .
@@ -3625,10 +3748,12 @@ sd.financo.co.il CNAME .
 sd.fit4life.co.il CNAME .
 sd.resmile.co.il CNAME .
 seguimiento.tramideudas.es CNAME .
+ser.craftwithmetoday.com CNAME .
 sersi.einfachiso.de CNAME .
 server-side.o2o.be CNAME .
 server.adwort.de CNAME .
 server.agata-privathospital.dk CNAME .
+server.aifunnelabs.es CNAME .
 server.alessaclothing.com CNAME .
 server.ami-renault.be CNAME .
 server.andreas-baeuerlein.de CNAME .
@@ -3646,6 +3771,7 @@ server.boxeuniverse.com CNAME .
 server.bybest.shop CNAME .
 server.capolavoro.com.br CNAME .
 server.carlumina.de CNAME .
+server.catchsushibar.dk CNAME .
 server.claquetteandco.fr CNAME .
 server.clarojewels.com CNAME .
 server.classiccarhouse.dk CNAME .
@@ -3665,11 +3791,13 @@ server.electrotodo.fr CNAME .
 server.electrotodo.pt CNAME .
 server.eleostagma.gr CNAME .
 server.espacecoussin.fr CNAME .
+server.excellentmoving.se CNAME .
 server.fabrique-a-filets.com CNAME .
 server.fence-line.dk CNAME .
 server.filipepremiacoes.com.br CNAME .
 server.franveiculosbb.com.br CNAME .
 server.get-licensed.co.uk CNAME .
+server.glor-design.com CNAME .
 server.go.her-closing-academy.de CNAME .
 server.gourdestore.com CNAME .
 server.grow100.de CNAME .
@@ -3707,10 +3835,12 @@ server.sandaugroup.com CNAME .
 server.simplelighting.co.uk CNAME .
 server.soitinlaine.fi CNAME .
 server.sovenir.pl CNAME .
+server.steamgreen.dk CNAME .
 server.super-seat.com CNAME .
 server.supremaposta.com CNAME .
 server.sups.care CNAME .
 server.teloptstudio.com CNAME .
+server.thefoundersummit.de CNAME .
 server.toca.site CNAME .
 server.trailerhuset.se CNAME .
 server.trailerpro.no CNAME .
@@ -3735,13 +3865,14 @@ serverside.pepejeans.com CNAME .
 serverside.refina.co.uk CNAME .
 serverside.sagaris.ro CNAME .
 serverside.silberthal.de CNAME .
+serverside.stape.happyogco.dk CNAME .
 serverside.svilapp.it CNAME .
 serverside.topboden.at CNAME .
 serverside.try-b.de CNAME .
 serverside.unishoreworkwear.com CNAME .
 serversidetracking.adforce.ch CNAME .
-serversidetracking.hosttech.ch CNAME .
 serversidetracking.peti-sko.dk CNAME .
+serversporing.vestjyskbank.dk CNAME .
 serverstape.labivancavalcanti.com CNAME .
 servertracking.yopagomenos.co CNAME .
 service.arredamentopari.com CNAME .
@@ -3761,6 +3892,7 @@ sgtm.8ttomarket.com CNAME .
 sgtm.abnehmen-im-liegen.club CNAME .
 sgtm.abnehmenimliegen.info CNAME .
 sgtm.accura.dk CNAME .
+sgtm.ace.de CNAME .
 sgtm.acquaclick.com CNAME .
 sgtm.adamantiakotsampasi.gr CNAME .
 sgtm.agencyfondocasa.it CNAME .
@@ -3861,8 +3993,10 @@ sgtm.endogenesi.com CNAME .
 sgtm.energiecomparateur.com CNAME .
 sgtm.engrossonline.ro CNAME .
 sgtm.enkrisbeachwear.it CNAME .
+sgtm.entdecke-utrecht.de CNAME .
 sgtm.erbemedicali.it CNAME .
 sgtm.euromilano.net CNAME .
+sgtm.euronics.it CNAME .
 sgtm.evengreener.com CNAME .
 sgtm.evolution-international.com CNAME .
 sgtm.exclusivedriver.gr CNAME .
@@ -3979,6 +4113,8 @@ sgtm.mcnallystore.fr CNAME .
 sgtm.mct-usa.com CNAME .
 sgtm.medicalia.ro CNAME .
 sgtm.medicovi.ie CNAME .
+sgtm.medische-afvalcoaching.nl CNAME .
+sgtm.medphoton.at CNAME .
 sgtm.megazone.no CNAME .
 sgtm.mes-aides-energie.fr CNAME .
 sgtm.metafibro.be CNAME .
@@ -4047,6 +4183,7 @@ sgtm.proterrasancta.org CNAME .
 sgtm.prtvisual.it CNAME .
 sgtm.qualityassurance.it CNAME .
 sgtm.recruitflow.it CNAME .
+sgtm.reduceretop.ro CNAME .
 sgtm.reineoele.de CNAME .
 sgtm.rent4you.it CNAME .
 sgtm.renuethelabel.com CNAME .
@@ -4097,9 +4234,12 @@ sgtm.stadtgespraech.de CNAME .
 sgtm.stageit.lt CNAME .
 sgtm.stape.video CNAME .
 sgtm.startsro.sk CNAME .
+sgtm.stationdeus.com CNAME .
 sgtm.sterne-advo.de CNAME .
+sgtm.stgis.at CNAME .
 sgtm.stoffkontor.eu CNAME .
 sgtm.strapforwatch.nl CNAME .
+sgtm.strasniclothing.it CNAME .
 sgtm.stroempekompagniet.dk CNAME .
 sgtm.studiolnrd.nl CNAME .
 sgtm.sund-ryg.dk CNAME .
@@ -4112,9 +4252,11 @@ sgtm.tankterminals.com CNAME .
 sgtm.teamecommerce.com CNAME .
 sgtm.telsy.com CNAME .
 sgtm.tenhaag.com CNAME .
+sgtm.textilepioneers.com CNAME .
 sgtm.thats-mine.de CNAME .
 sgtm.thatsmine.com CNAME .
 sgtm.thatsmine.dk CNAME .
+sgtm.thatsmine.se CNAME .
 sgtm.thecube.no CNAME .
 sgtm.themossway.co.uk CNAME .
 sgtm.thevictorianemporium.com CNAME .
@@ -4145,9 +4287,11 @@ sgtm.uniiq.no CNAME .
 sgtm.uniqperler.com CNAME .
 sgtm.urbandeal.it CNAME .
 sgtm.urjalanmakeistukku.fi CNAME .
+sgtm.vanessarificitattoo.com CNAME .
 sgtm.vdnkitchen.nl CNAME .
 sgtm.veabagno.it CNAME .
 sgtm.vendo.at CNAME .
+sgtm.verdo.com CNAME .
 sgtm.vetroelite.com CNAME .
 sgtm.vgbolig.dk CNAME .
 sgtm.videnskab.dk CNAME .
@@ -4160,6 +4304,7 @@ sgtm.werkenbijtopaz.nl CNAME .
 sgtm.withnellsensors.co.uk CNAME .
 sgtm.xn--msterkket-v2a7r.se CNAME .
 sgtm.yamamay.com CNAME .
+sgtm.yeahimpresasociale.it CNAME .
 sgtm.yesinglese.com CNAME .
 sgtm.yogobe.com CNAME .
 sgtm.zavodou.cz CNAME .
@@ -4178,8 +4323,10 @@ side.spinaci.marketing CNAME .
 side.webdivino.it CNAME .
 sitti.gamesitti.com CNAME .
 sk.skinnify.co CNAME .
+skbx.phenomboxing.com CNAME .
 ski.kesch.com CNAME .
 sle.life-evolution.com CNAME .
+slea.life-evolution-academy.com CNAME .
 sm.legendyuvas.cz CNAME .
 smm.kilimche.bg CNAME .
 sn.ihraam.nl CNAME .
@@ -4264,6 +4411,7 @@ ss.bramidan.fr CNAME .
 ss.bramidan.nl CNAME .
 ss.brandsupplies.store CNAME .
 ss.brandup.lt CNAME .
+ss.broedersgezondheidswinkel.nl CNAME .
 ss.brugskunst.dk CNAME .
 ss.brynje.dk CNAME .
 ss.buitenplaatslandlust.nl CNAME .
@@ -4353,6 +4501,7 @@ ss.franzspitzer.de CNAME .
 ss.fred-frost.com CNAME .
 ss.frozenpanda.com CNAME .
 ss.frunzademaslin.ro CNAME .
+ss.funneladviseur.nl CNAME .
 ss.futurepacemedia.de CNAME .
 ss.gardinbussen.dk CNAME .
 ss.geaplan-dachbahn.de CNAME .
@@ -4397,8 +4546,10 @@ ss.japebo.com CNAME .
 ss.japebo.de CNAME .
 ss.japebo.dk CNAME .
 ss.japebo.eu CNAME .
+ss.japebo.fi CNAME .
 ss.japebo.ie CNAME .
 ss.japebo.no CNAME .
+ss.japebo.nz CNAME .
 ss.jilskapalacehall.com CNAME .
 ss.johnbeerens.com CNAME .
 ss.joma-tech.de CNAME .
@@ -4420,6 +4571,7 @@ ss.lacajacompany-dos.com CNAME .
 ss.lagersalg.com CNAME .
 ss.lcemballage.dk CNAME .
 ss.le-metre-carre.fr CNAME .
+ss.lejetelt.dk CNAME .
 ss.lentillasbaratas.es CNAME .
 ss.lentillesmoinscheres.com CNAME .
 ss.leoprinting.nl CNAME .
@@ -4486,6 +4638,7 @@ ss.nutrientify.shop CNAME .
 ss.octavio.fr CNAME .
 ss.odla.nu CNAME .
 ss.offi.dk CNAME .
+ss.ohgefuehle.de CNAME .
 ss.oilily.com CNAME .
 ss.one2track.nl CNAME .
 ss.onlinetours.es CNAME .
@@ -4531,6 +4684,7 @@ ss.revert95.com CNAME .
 ss.riksskydd.se CNAME .
 ss.rockandroses.life CNAME .
 ss.rockingsheep.com CNAME .
+ss.rosieantwerp.com CNAME .
 ss.saelgbil.dk CNAME .
 ss.salon.fi CNAME .
 ss.samson-pumps.com CNAME .
@@ -4554,9 +4708,11 @@ ss.sika-design.dk CNAME .
 ss.simplychocolate.dk CNAME .
 ss.simplychocolatecph.de CNAME .
 ss.sininenharka.fi CNAME .
+ss.siscon.dk CNAME .
 ss.sisterspoint.com CNAME .
 ss.skapadinverkstad.se CNAME .
 ss.skinn.gr CNAME .
+ss.skinnify.de CNAME .
 ss.slangetaemmer.dk CNAME .
 ss.smageriet.dk CNAME .
 ss.smartplanapp.com CNAME .
@@ -4573,6 +4729,7 @@ ss.stemcellsbank.ro CNAME .
 ss.suomenluonnonmaalit.fi CNAME .
 ss.svibs.com CNAME .
 ss.swedishninja.com CNAME .
+ss.tandlaegegentofte.dk CNAME .
 ss.tandlakarforbundet.se CNAME .
 ss.tapetenagentur.de CNAME .
 ss.tedbaker.com CNAME .
@@ -4611,6 +4768,7 @@ ss.vintagesphere.se CNAME .
 ss.visitdalarna.se CNAME .
 ss.visittaipalsaari.fi CNAME .
 ss.vonalkewitz.de CNAME .
+ss.walensky-shop.fr CNAME .
 ss.wavesonline.com CNAME .
 ss.weedshop.de CNAME .
 ss.weedshop.dk CNAME .
@@ -4634,8 +4792,10 @@ ss.woodupp.ae CNAME .
 ss.woodupp.it CNAME .
 ss.wunderbrow.de CNAME .
 ss.www.vymilano.com CNAME .
+ss.wychowaninatrojce.pl CNAME .
 ss.wychowaninawinylach.pl CNAME .
 ss.xn--flytttilseral-wfb.no CNAME .
+ss.xtragrej.dk CNAME .
 ss.yougenskincare.com CNAME .
 ss.yuaiahaircare.com CNAME .
 ss.yuaiahaircare.se CNAME .
@@ -4645,6 +4805,7 @@ ss.zavattishop.com CNAME .
 ss.zlatystrom.com CNAME .
 ss.zoneterapeutskolen-kolding.dk CNAME .
 ss.ztove.com CNAME .
+ssa.drperon.com CNAME .
 ssa.legge3.it CNAME .
 ssa.sherpa-online.com CNAME .
 ssa.tameson.co.uk CNAME .
@@ -4654,6 +4815,7 @@ ssa.tameson.es CNAME .
 ssa.tameson.fr CNAME .
 ssa.tameson.nl CNAME .
 sscapi.carnivoro.eu CNAME .
+sscdn.redis.ro CNAME .
 ssd.clover-shop.at CNAME .
 ssd.kursusfabrikken.dk CNAME .
 ssd.t-i-m.cz CNAME .
@@ -4667,6 +4829,7 @@ ssgt.personalcheck.co.uk CNAME .
 ssgtm.1rebel.com CNAME .
 ssgtm.cariuma.fr CNAME .
 ssgtm.enmedify.ch CNAME .
+ssgtm.evinjeta24.si CNAME .
 ssgtm.eznamka24.sk CNAME .
 ssgtm.lebarashop.nl CNAME .
 ssgtm.maut24.at CNAME .
@@ -4691,14 +4854,17 @@ sss.oderland.com CNAME .
 sss.oderland.dk CNAME .
 sss.oderland.no CNAME .
 sss.oderland.se CNAME .
+ssstape.parolemigranti.it CNAME .
 sst-dev.north-47.com CNAME .
 sst-nordic.greenpeace.org CNAME .
 sst-shop.wenko.de CNAME .
 sst.013.nl CNAME .
 sst.a1.si CNAME .
+sst.aalborgzoo.dk CNAME .
 sst.aanbouw-gigant.nl CNAME .
 sst.aapasonline.com CNAME .
 sst.addiko.si CNAME .
+sst.adorelle.ch CNAME .
 sst.agoratopia.com CNAME .
 sst.agoratopia.gr CNAME .
 sst.agoratopia.pl CNAME .
@@ -4707,6 +4873,7 @@ sst.alchemist-fashion.com CNAME .
 sst.alexander-veyron.de CNAME .
 sst.andbam.care CNAME .
 sst.antonioli.eu CNAME .
+sst.app.bo-oks.com CNAME .
 sst.argent-asher.com CNAME .
 sst.arkwildlife.co.uk CNAME .
 sst.art-hub.hu CNAME .
@@ -4754,9 +4921,11 @@ sst.boulebar.dk CNAME .
 sst.boulebar.se CNAME .
 sst.brdr-price.dk CNAME .
 sst.bredalive.nl CNAME .
+sst.btc-city.com CNAME .
 sst.buddshirts.co.uk CNAME .
 sst.businessheroes.io CNAME .
 sst.buyhansa.com CNAME .
+sst.buywiseappliances.co.uk CNAME .
 sst.bylum.nl CNAME .
 sst.can-doc.de CNAME .
 sst.carlislesolicitors.ie CNAME .
@@ -4777,6 +4946,7 @@ sst.csabagyongye.com CNAME .
 sst.curel.sk CNAME .
 sst.daily-you.de CNAME .
 sst.dakbeheervdlbv.nl CNAME .
+sst.dakservice-veldsink.nl CNAME .
 sst.dance4liberation.nl CNAME .
 sst.danskrestlager.dk CNAME .
 sst.datalab.hr CNAME .
@@ -4826,6 +4996,7 @@ sst.exagonshop.it CNAME .
 sst.execute.ltd CNAME .
 sst.facts.be CNAME .
 sst.farbenwaldfestival.de CNAME .
+sst.festiloco.be CNAME .
 sst.fidocommercialista.it CNAME .
 sst.fihproleague.nl CNAME .
 sst.fimus.dk CNAME .
@@ -4847,6 +5018,7 @@ sst.fxify.com CNAME .
 sst.fxifyfutures.com CNAME .
 sst.fxtradingvision.com CNAME .
 sst.geekboards.de CNAME .
+sst.gelexobel.de CNAME .
 sst.genoline.de CNAME .
 sst.getaccept.com CNAME .
 sst.geurwolkje.nl CNAME .
@@ -4857,7 +5029,6 @@ sst.goedkopedisposable.be CNAME .
 sst.goedkopedisposable.de CNAME .
 sst.golfroom.eu CNAME .
 sst.goodvibe.ch CNAME .
-sst.gotec-shop.de CNAME .
 sst.grile-admitere.ro CNAME .
 sst.grile-rezidentiat.ro CNAME .
 sst.growganic.de CNAME .
@@ -4895,6 +5066,7 @@ sst.insygma.com CNAME .
 sst.intatches.com CNAME .
 sst.intothewoods.nl CNAME .
 sst.isero.nl CNAME .
+sst.ispo.com CNAME .
 sst.janssen-cosmetics.com CNAME .
 sst.javarepublic.com CNAME .
 sst.jeckendecity.de CNAME .
@@ -4921,6 +5093,7 @@ sst.lahnkanu.com CNAME .
 sst.lakritsroten.se CNAME .
 sst.lampadashop.it CNAME .
 sst.lamptwist.com CNAME .
+sst.landaumedia.de CNAME .
 sst.lauraromagnoliatelier.it CNAME .
 sst.le-melo.com CNAME .
 sst.lecot.be CNAME .
@@ -4934,6 +5107,7 @@ sst.light11.eu CNAME .
 sst.light11.fr CNAME .
 sst.light11.it CNAME .
 sst.light11.nl CNAME .
+sst.limpark.de CNAME .
 sst.lisaconcept.it CNAME .
 sst.lisaconcept.ro CNAME .
 sst.livianaconti.com CNAME .
@@ -4951,6 +5125,7 @@ sst.markenbaumarkt24.de CNAME .
 sst.maxiscoot.com CNAME .
 sst.maydaydist.com CNAME .
 sst.mcdrogerie.ch CNAME .
+sst.mea-group.com CNAME .
 sst.medisave.eu CNAME .
 sst.medtree.co.uk CNAME .
 sst.meermetziggo.nl CNAME .
@@ -4966,9 +5141,11 @@ sst.mielemariman.be CNAME .
 sst.mintmag.de CNAME .
 sst.modsera.com CNAME .
 sst.moka-gsm.ro CNAME .
+sst.mokapo.ro CNAME .
 sst.morenutrition.de CNAME .
 sst.mpopartners.com CNAME .
 sst.mrsnomad.nl CNAME .
+sst.msj.dk CNAME .
 sst.murgiadei.it CNAME .
 sst.mybeachyside.com CNAME .
 sst.myclarella.com CNAME .
@@ -5001,6 +5178,7 @@ sst.oetinger.de CNAME .
 sst.ofertazilnica.com CNAME .
 sst.offenga.nl CNAME .
 sst.offerraadgivning.dk CNAME .
+sst.officepaket.se CNAME .
 sst.ogkicks.uk CNAME .
 sst.onderderadarfestival.nl CNAME .
 sst.onedirect.be CNAME .
@@ -5018,12 +5196,14 @@ sst.oosterpoort.nl CNAME .
 sst.oranjebitter-rotterdam.nl CNAME .
 sst.oscar-aeroe.com CNAME .
 sst.ossosteigers.nl CNAME .
+sst.outletlamper.dk CNAME .
 sst.owa.de CNAME .
 sst.owletbaby.es CNAME .
 sst.owletcare.fr CNAME .
 sst.paradiso.nl CNAME .
 sst.parallel.am CNAME .
 sst.parelsvandestad.nl CNAME .
+sst.paryskie.pl CNAME .
 sst.pem-haly.sk CNAME .
 sst.petermark.ie CNAME .
 sst.philippinen-tours.de CNAME .
@@ -5042,6 +5222,7 @@ sst.prosafecon.de CNAME .
 sst.prosperous.ie CNAME .
 sst.purastone.de CNAME .
 sst.pureclinics.nl CNAME .
+sst.rebellionoutdoor.nl CNAME .
 sst.rebirth-events.nl CNAME .
 sst.rebirth-festival.nl CNAME .
 sst.reisknaller.nl CNAME .
@@ -5066,6 +5247,7 @@ sst.shopstory.ai CNAME .
 sst.shutdownfestival.at CNAME .
 sst.shutterkoning.nl CNAME .
 sst.skagenstrand.dk CNAME .
+sst.smellacloud.de CNAME .
 sst.smilemanchester.co.uk CNAME .
 sst.smoothly.com CNAME .
 sst.sofaclub.co.uk CNAME .
@@ -5078,6 +5260,7 @@ sst.sonus-festival.com CNAME .
 sst.spoiltsociety.com CNAME .
 sst.sport-active.com.pl CNAME .
 sst.sprintray.com CNAME .
+sst.stahovanie.sk CNAME .
 sst.star.de CNAME .
 sst.stocktonstudents.co.uk CNAME .
 sst.storageworld.ie CNAME .
@@ -5140,6 +5323,7 @@ sst.visittrentino.info CNAME .
 sst.vitadote.com CNAME .
 sst.vrijenschede.nl CNAME .
 sst.vrijopnaam.nl CNAME .
+sst.wachstumspartner.io CNAME .
 sst.waddengenot.nl CNAME .
 sst.waddengenotaanzee.nl CNAME .
 sst.wadlopen-pieterburen.nl CNAME .
@@ -5179,6 +5363,11 @@ sstm.lungarnocollection.com CNAME .
 sstr.tapir-store.de CNAME .
 sstracking.notch.so CNAME .
 sstracking.restaurant-flammen.dk CNAME .
+sstrk.green-acres.es CNAME .
+sstrk.green-acres.fr CNAME .
+sstrk.green-acres.gr CNAME .
+sstrk.green-acres.pt CNAME .
+sstrk.hortense.green CNAME .
 sstrk.labrigadedevero.com CNAME .
 ssts.pigandolive.co.uk CNAME .
 sstspwm.spoorwegmuseum.nl CNAME .
@@ -5205,6 +5394,7 @@ stape.amodamaa.com CNAME .
 stape.anasantarelli.pt CNAME .
 stape.anmeldung.andorftechnologyschool.at CNAME .
 stape.antilop.org CNAME .
+stape.aparatusluchowepolska.pl CNAME .
 stape.appareilsauditifssuisse.com CNAME .
 stape.appointment-setting-masterclas.com CNAME .
 stape.artdentalstudio.ro CNAME .
@@ -5216,7 +5406,6 @@ stape.beniwoodbr.site CNAME .
 stape.bennybaby.pt CNAME .
 stape.bohnenkamp.uz CNAME .
 stape.budgetenergi.dk CNAME .
-stape.caoalma.pt CNAME .
 stape.carpediemteams.com CNAME .
 stape.cartrend.hu CNAME .
 stape.cjunod.com CNAME .
@@ -5284,6 +5473,7 @@ stape.mrexcel.co.za CNAME .
 stape.mrxcursos.imb.br CNAME .
 stape.natyshop.com CNAME .
 stape.nl.euroelectronics.eu CNAME .
+stape.obebesabe.com CNAME .
 stape.ohbear.gr CNAME .
 stape.onyxacademy.it CNAME .
 stape.optimalpoland.pl CNAME .
@@ -5304,6 +5494,7 @@ stape.resortbakov.cz CNAME .
 stape.rgmark.com.br CNAME .
 stape.rollingcocktails.at CNAME .
 stape.sbtmedia.agency CNAME .
+stape.sergiojrtransportes.com.br CNAME .
 stape.slidor.fr CNAME .
 stape.spessarttraum.de CNAME .
 stape.spobis-conference.com CNAME .
@@ -5381,6 +5572,7 @@ t.biospect.net CNAME .
 t.bootcamp-boerse.de CNAME .
 t.coffeecircle.com CNAME .
 t.colonia.tech CNAME .
+t.cubiculum-shop.de CNAME .
 t.cubiculum.de CNAME .
 t.dfrnt.coffee CNAME .
 t.dilling.ch CNAME .
@@ -5393,20 +5585,25 @@ t.dilling.se CNAME .
 t.distart.de CNAME .
 t.doorsonlineuk.co.uk CNAME .
 t.dreizinnen.com CNAME .
+t.echtemamas.de CNAME .
 t.elite.se CNAME .
 t.evocsports.ch CNAME .
 t.falk.com CNAME .
 t.foxracing.ch CNAME .
 t.giro.ch CNAME .
 t.hantha.net CNAME .
+t.homeinvest.pl CNAME .
 t.inklabs.de CNAME .
+t.ischgl.com CNAME .
 t.johannus.com CNAME .
 t.juskys.de CNAME .
+t.kappl.com CNAME .
 t.karitraa.ch CNAME .
 t.keenfootwear.ch CNAME .
 t.lelafine.dk CNAME .
 t.marathonsport.dk CNAME .
 t.marmeladeco.dk CNAME .
+t.meama.at CNAME .
 t.meama.de CNAME .
 t.meama.ge CNAME .
 t.meinspiel.de CNAME .
@@ -5419,6 +5616,7 @@ t.pimcore.com CNAME .
 t.plasma-odevie.com CNAME .
 t.santevie.ch CNAME .
 t.schmitten.at CNAME .
+t.see.at CNAME .
 t.smartsleep.com CNAME .
 t.usm.com CNAME .
 t.valleiautogroep.nl CNAME .
@@ -5447,6 +5645,7 @@ tagging.gevelaar.nl CNAME .
 tagging.handylight.nl CNAME .
 tagging.inittogetherfestival.com CNAME .
 tagging.knipex.com CNAME .
+tagging.leaders-academy.com CNAME .
 tagging.martinlammer.de CNAME .
 tagging.meyou.dk CNAME .
 tagging.mykaracare.com CNAME .
@@ -5460,6 +5659,7 @@ tagging.togetheragainfestival.co.uk CNAME .
 tagging.vios.dk CNAME .
 tagging.weightloss.goodbodyclinic.com CNAME .
 tagging.wellen-trading.de CNAME .
+tags.schwanger.li CNAME .
 tangerine.optika-oftalmos.si CNAME .
 tgsub.lichtnelke.de CNAME .
 thegreatesthits.amazona.de CNAME .
@@ -5550,12 +5750,14 @@ tracking.hellodesign.de CNAME .
 tracking.investeeramerika.com CNAME .
 tracking.lucky.nl CNAME .
 tracking.mala-markets.com CNAME .
+tracking.martin-pruem.de CNAME .
 tracking.meinstift.ch CNAME .
 tracking.moonstarmusicfestival.nl CNAME .
 tracking.mr-marinegroup.com CNAME .
 tracking.musicatoxford.com CNAME .
 tracking.najkrediti.rs CNAME .
 tracking.nimani.com CNAME .
+tracking.oranjezoet.nl CNAME .
 tracking.physioknee.de CNAME .
 tracking.pressalit.com CNAME .
 tracking.produse-moldovenesti.ro CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -697,6 +697,8 @@ $TTL 300
 www.00404850.xyz CNAME .
 www.00857731.xyz CNAME .
 www.01045395.xyz CNAME .
+www.010a700f.live CNAME .
+www.01591851.xyz CNAME .
 www.02085170.xyz CNAME .
 www.02952346.xyz CNAME .
 www.04424170.xyz CNAME .
@@ -707,9 +709,13 @@ www.07327127.xyz CNAME .
 www.07421283.xyz CNAME .
 www.07443488.xyz CNAME .
 www.08256602.xyz CNAME .
+www.08585359.xyz CNAME .
+www.08f57464.live CNAME .
 www.08f8f073.xyz CNAME .
+www.09064654.xyz CNAME .
 www.09284291.xyz CNAME .
 www.09745951.xyz CNAME .
+www.0b43a878.xyz CNAME .
 www.0ul1wlo58s-vu69us-r1u.xyz CNAME .
 www.10288299.xyz CNAME .
 www.10523745.xyz CNAME .
@@ -731,27 +737,40 @@ www.19199675.xyz CNAME .
 www.19700902.xyz CNAME .
 www.19706903.xyz CNAME .
 www.20382207.xyz CNAME .
+www.205aff45.live CNAME .
 www.20690754.xyz CNAME .
+www.21148843.xyz CNAME .
 www.22117898.xyz CNAME .
+www.22157064.xyz CNAME .
 www.224cc86d.xyz CNAME .
 www.23cf9466.xyz CNAME .
 www.24052107.live CNAME .
 www.24837724.xyz CNAME .
+www.24c4e333.xyz CNAME .
+www.25381553.xyz CNAME .
 www.27714296.xyz CNAME .
 www.28860928.xyz CNAME .
 www.28d287b9.xyz CNAME .
 www.29662166.xyz CNAME .
+www.29694851.xyz CNAME .
 www.2d979880.xyz CNAME .
+www.2ee1b1da.live CNAME .
 www.2wu0m0ms098w7148.xyz CNAME .
+www.30212692.xyz CNAME .
 www.30937261.xyz CNAME .
+www.30981155.xyz CNAME .
 www.31945016.xyz CNAME .
+www.32343379.xyz CNAME .
 www.32472254.xyz CNAME .
+www.32e53b2b.live CNAME .
 www.33109166.xyz CNAME .
 www.33848102.xyz CNAME .
 www.33862684.xyz CNAME .
 www.35452888.xyz CNAME .
 www.37066957.xyz CNAME .
 www.37243211.xyz CNAME .
+www.37267612.xyz CNAME .
+www.38100003.xyz CNAME .
 www.38167473.xyz CNAME .
 www.38941752.xyz CNAME .
 www.40451343.xyz CNAME .
@@ -772,6 +791,7 @@ www.47206262.xyz CNAME .
 www.47235645.xyz CNAME .
 www.47296536.xyz CNAME .
 www.48304789.xyz CNAME .
+www.4863232c.xyz CNAME .
 www.48654012.xyz CNAME .
 www.49333767.xyz CNAME .
 www.49706204.xyz CNAME .
@@ -869,7 +889,6 @@ www.a5d2d040.xyz CNAME .
 www.a67d12.xyz CNAME .
 www.a908a849.xyz CNAME .
 www.b0f2f18e.xyz CNAME .
-www.b1181fb1.site CNAME .
 www.b395bfcd.xyz CNAME .
 www.b70456bf.xyz CNAME .
 www.ba0bf98c.xyz CNAME .
@@ -878,8 +897,8 @@ www.bdec1f37.xyz CNAME .
 www.c2a0076d.xyz CNAME .
 www.ca9246.xyz CNAME .
 www.ce56df44.xyz CNAME .
+www.d19a122b.xyz CNAME .
 www.dcad1d97.xyz CNAME .
-www.e076.xyz CNAME .
 www.e652a487.xyz CNAME .
 www.e8e2063b.xyz CNAME .
 www.ea6c0ac4.xyz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -92,8 +92,6 @@ adebis.leben-style.jp CNAME .
 adebis.lifestylemag.jp CNAME .
 adebis.livable.co.jp CNAME .
 adebis.logoshome.jp CNAME .
-adebis.lypo-c.jp CNAME .
-adebis.lypo-c.shop CNAME .
 adebis.mizunomori.com CNAME .
 adebis.muscledeli.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
@@ -154,6 +152,7 @@ analyse.hinemos.info CNAME .
 axjfkc.kobayashi.co.jp CNAME .
 bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
+c.lypo-c.shop CNAME .
 campaign-direct.eisai.jp CNAME .
 campaign-direct.ketsuatsu-taisaku.xyz CNAME .
 campaign-direct.kouketsuatsu-health.xyz CNAME .

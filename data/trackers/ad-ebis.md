@@ -60,7 +60,6 @@
     * 272dd850-1tkscuog.cname.ebis.ne.jp
     * 273363c7-yg5rfhhx.cname.ebis.ne.jp
     * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
-    * 27dd2efc-9ztgpdfy.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
     * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
     * 2cc59598-glhirlqn.cname.ebis.ne.jp
@@ -407,7 +406,6 @@
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |
 | ebis.sekokan-next.worldcorp-jp.com | 273363c7-yg5rfhhx.cname.ebis.ne.jp |
 | corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
-| adebis.lypo-c.jp | 27dd2efc-9ztgpdfy.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
 | ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
 | ebis.lululun.com | 2cc59598-glhirlqn.cname.ebis.ne.jp |
@@ -576,7 +574,7 @@
 | adebis.thd-web.jp | a6a5d774-vsrgbn9q.cname.ebis.ne.jp |
 | cs0008sbeda.moromi-koso-c.com | a6cbc246-scxitlgt.cname.ebis.ne.jp |
 | www-ebis.surpasslog.com | a80bb321-gbehg577.cname.ebis.ne.jp |
-| adebis.lypo-c.shop | a8427ad5-9ztgpdfy.cname.ebis.ne.jp |
+| c.lypo-c.shop | a8427ad5-9ztgpdfy.cname.ebis.ne.jp |
 | nlp-japan.life-and-mind.com | aa9c1a10-bxd3nsfc.cname.ebis.ne.jp |
 | ade.jfx.co.jp | aba2bacf-gbnru9wt.cname.ebis.ne.jp |
 | tracking.axis-kobetsu.jp | ac07a441-hd5f4dhg.cname.ebis.ne.jp |

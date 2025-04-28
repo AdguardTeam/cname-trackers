@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,11 +137,8 @@ businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em225.codecademy.com CNAME .
-em2287.theory.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
-em767.forgetrust.com CNAME .
-em8561.go2bank.com CNAME .
-em8928.em.petco.com CNAME .
+em7952.dailypay.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -284,6 +281,7 @@ refer.hsn.com CNAME .
 refer.hushpuppies.com CNAME .
 refer.incommonbeauty.com CNAME .
 refer.indeed.com CNAME .
+refer.inmotionhosting.com CNAME .
 refer.intuit.com CNAME .
 refer.issaonline.com CNAME .
 refer.itbed.com CNAME .
@@ -503,7 +501,6 @@ share.burlingtonfreepress.com CNAME .
 share.buttahskin.com CNAME .
 share.bvwines.com CNAME .
 share.caller.com CNAME .
-share.calvinklein.us CNAME .
 share.carparts.com CNAME .
 share.cefaly.com CNAME .
 share.cellcom.ca CNAME .
@@ -659,6 +656,8 @@ share.postcrescent.com CNAME .
 share.poughkeepsiejournal.com CNAME .
 share.pressconnects.com CNAME .
 share.princess.com CNAME .
+share.psychobunny.ca CNAME .
+share.psychobunny.com CNAME .
 share.reading-programs.org CNAME .
 share.redding.com CNAME .
 share.refer-aveda.ca CNAME .
@@ -730,6 +729,7 @@ share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
 share.teachingchannel.com CNAME .
 share.telegram.com CNAME .
+share.texastrustcu.org CNAME .
 share.theadvertiser.com CNAME .
 share.thedailyjournal.com CNAME .
 share.thegeneral.com CNAME .
@@ -741,7 +741,6 @@ share.theprisonerwinecompany.com CNAME .
 share.thestarpress.com CNAME .
 share.thewineshop.com CNAME .
 share.tireagent.com CNAME .
-share.tommy.com CNAME .
 share.tonies.com CNAME .
 share.trafalgar.com CNAME .
 share.travelzoo.com CNAME .
@@ -773,14 +772,18 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl._domainkey.zoom.us CNAME .
+xtl._domainkey.walmartmoneycard.com CNAME .
 em1476.princesscruises.com CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em7952.dailypay.com CNAME .
+em767.forgetrust.com CNAME .
+em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
+xtl._domainkey.zoom.us CNAME .
 sftp.extole.com CNAME .

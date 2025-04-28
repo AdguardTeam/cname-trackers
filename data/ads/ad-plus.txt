@@ -20,3 +20,4 @@
 ||serving.srmg.com^
 ||serving.thebeglobal.com^
 ||serving.viewtraff.com^
+||vidops.zeeker.com^

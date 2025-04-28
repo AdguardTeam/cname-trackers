@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -303,6 +303,7 @@ affilo.janie.cz CNAME .
 affilo.lingerio.cz CNAME .
 affilo.vivaboty.cz CNAME .
 affilpartner.descanti.com CNAME .
+affilpartneri.affilbusiness.cz CNAME .
 afill.e-potisk.cz CNAME .
 ambasador.montessorikurz.cz CNAME .
 ambasador.rustspolecne.cz CNAME .
@@ -362,6 +363,7 @@ my.11teamsports.si CNAME .
 my.11teamsports.sk CNAME .
 my.fr.top4fitness.be CNAME .
 my.fr.top4running.be CNAME .
+my.kickz.com CNAME .
 my.tint-store.ro CNAME .
 my.top4fitness.at CNAME .
 my.top4fitness.be CNAME .
@@ -470,6 +472,7 @@ partner.artmaster.com CNAME .
 partner.artmasteracademy.cz CNAME .
 partner.astaxanthincz.cz CNAME .
 partner.austriaapotheke.sk CNAME .
+partner.autosarm.cz CNAME .
 partner.avetour.cz CNAME .
 partner.babypatent.sk CNAME .
 partner.babysigns.cz CNAME .
@@ -623,6 +626,7 @@ partner.kokiskashop.cz CNAME .
 partner.kokiskashop.sk CNAME .
 partner.kominy-bokra.cz CNAME .
 partner.korff.sk CNAME .
+partner.krmivo-platinum.cz CNAME .
 partner.kupcomp.sk CNAME .
 partner.kurzysusmevem.cz CNAME .
 partner.kutnohorskytolar.cz CNAME .

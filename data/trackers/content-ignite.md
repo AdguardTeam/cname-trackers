@@ -14,21 +14,21 @@
     * ast.travelbook.de.greylabeldelivery.com
     * ast.welt.de.greylabeldelivery.com
     * blackberry.basf.com.greylabeldelivery.com
+    * blackberry.btc-europe.com.greylabeldelivery.com
     * blackberry.suvinil.com.br.greylabeldelivery.com
     * collect.aeonbank.co.jp.greylabeldelivery.com
     * collect.asics.com.greylabeldelivery.com
-    * collect.calvinklein.at.greylabeldelivery.com
     * collect.calvinklein.ch.greylabeldelivery.com
     * collect.calvinklein.co.uk.greylabeldelivery.com
     * collect.calvinklein.com.greylabeldelivery.com
-    * collect.calvinklein.cz.greylabeldelivery.com
     * collect.calvinklein.de.greylabeldelivery.com
+    * collect.calvinklein.dk.greylabeldelivery.com
     * collect.calvinklein.es.greylabeldelivery.com
     * collect.calvinklein.fi.greylabeldelivery.com
     * collect.calvinklein.fr.greylabeldelivery.com
+    * collect.calvinklein.hu.greylabeldelivery.com
     * collect.calvinklein.it.greylabeldelivery.com
-    * collect.calvinklein.lt.greylabeldelivery.com
-    * collect.calvinklein.lu.greylabeldelivery.com
+    * collect.calvinklein.lv.greylabeldelivery.com
     * collect.calvinklein.nl.greylabeldelivery.com
     * collect.calvinklein.pl.greylabeldelivery.com
     * collect.calvinklein.pt.greylabeldelivery.com
@@ -313,7 +313,6 @@
     * tccd.douglas.ch.greylabeldelivery.com
     * tccd.douglas.cz.greylabeldelivery.com
     * tccd.douglas.de.greylabeldelivery.com
-    * tccd.douglas.ee.greylabeldelivery.com
     * tccd.douglas.es.greylabeldelivery.com
     * tccd.douglas.hr.greylabeldelivery.com
     * tccd.douglas.hu.greylabeldelivery.com
@@ -322,7 +321,9 @@
     * tccd.douglas.lv.greylabeldelivery.com
     * tccd.douglas.nl.greylabeldelivery.com
     * tccd.douglas.pl.greylabeldelivery.com
+    * tccd.douglas.pt.greylabeldelivery.com
     * tccd.douglas.ro.greylabeldelivery.com
+    * tccd.douglas.si.greylabeldelivery.com
     * tccd.douglas.sk.greylabeldelivery.com
     * tccd.niche-beauty.com.greylabeldelivery.com
     * tccd.nocibe.fr.greylabeldelivery.com
@@ -404,13 +405,12 @@
     * tttd.parfumdreams.pl.greylabeldelivery.com
     * tttd.parfumdreams.pt.greylabeldelivery.com
     * tttd.parfumdreams.se.greylabeldelivery.com
-    * view.ansons.de.greylabeldelivery.com
     * view.oportun.com.greylabeldelivery.com
-    * view.peek-cloppenburg.de.greylabeldelivery.com
     * visitor-service.aeonbank.co.jp.greylabeldelivery.com
     * visitor-service.fancl.co.jp.greylabeldelivery.com
     * visitor-service.kinto-jp.com.greylabeldelivery.com
     * visitor-service.mtgec.jp.greylabeldelivery.com
+    * visitor-service.peek-cloppenburg.pl.greylabeldelivery.com
     * visitor-service.sixpad.jp.greylabeldelivery.com
     * visitor.collect.oportun.com.greylabeldelivery.com
     * visitor.oportun.com.greylabeldelivery.com
@@ -454,21 +454,21 @@
 | ast.travelbook.de | ast.travelbook.de.greylabeldelivery.com |
 | ast.welt.de | ast.welt.de.greylabeldelivery.com |
 | blackberry.basf.com | blackberry.basf.com.greylabeldelivery.com |
+| blackberry.btc-europe.com | blackberry.btc-europe.com.greylabeldelivery.com |
 | blackberry.suvinil.com.br | blackberry.suvinil.com.br.greylabeldelivery.com |
 | collect.aeonbank.co.jp | collect.aeonbank.co.jp.greylabeldelivery.com |
 | collect.asics.com | collect.asics.com.greylabeldelivery.com |
-| collect.calvinklein.at | collect.calvinklein.at.greylabeldelivery.com |
 | collect.calvinklein.ch | collect.calvinklein.ch.greylabeldelivery.com |
 | collect.calvinklein.co.uk | collect.calvinklein.co.uk.greylabeldelivery.com |
 | collect.calvinklein.com | collect.calvinklein.com.greylabeldelivery.com |
-| collect.calvinklein.cz | collect.calvinklein.cz.greylabeldelivery.com |
 | collect.calvinklein.de | collect.calvinklein.de.greylabeldelivery.com |
+| collect.calvinklein.dk | collect.calvinklein.dk.greylabeldelivery.com |
 | collect.calvinklein.es | collect.calvinklein.es.greylabeldelivery.com |
 | collect.calvinklein.fi | collect.calvinklein.fi.greylabeldelivery.com |
 | collect.calvinklein.fr | collect.calvinklein.fr.greylabeldelivery.com |
+| collect.calvinklein.hu | collect.calvinklein.hu.greylabeldelivery.com |
 | collect.calvinklein.it | collect.calvinklein.it.greylabeldelivery.com |
-| collect.calvinklein.lt | collect.calvinklein.lt.greylabeldelivery.com |
-| collect.calvinklein.lu | collect.calvinklein.lu.greylabeldelivery.com |
+| collect.calvinklein.lv | collect.calvinklein.lv.greylabeldelivery.com |
 | collect.calvinklein.nl | collect.calvinklein.nl.greylabeldelivery.com |
 | collect.calvinklein.pl | collect.calvinklein.pl.greylabeldelivery.com |
 | collect.calvinklein.pt | collect.calvinklein.pt.greylabeldelivery.com |
@@ -827,7 +827,6 @@
 | tccd.douglas.ch | tccd.douglas.ch.greylabeldelivery.com |
 | tccd.douglas.cz | tccd.douglas.cz.greylabeldelivery.com |
 | tccd.douglas.de | tccd.douglas.de.greylabeldelivery.com |
-| tccd.douglas.ee | tccd.douglas.ee.greylabeldelivery.com |
 | tccd.douglas.es | tccd.douglas.es.greylabeldelivery.com |
 | tccd.douglas.hr | tccd.douglas.hr.greylabeldelivery.com |
 | tccd.douglas.hu | tccd.douglas.hu.greylabeldelivery.com |
@@ -836,7 +835,9 @@
 | tccd.douglas.lv | tccd.douglas.lv.greylabeldelivery.com |
 | tccd.douglas.nl | tccd.douglas.nl.greylabeldelivery.com |
 | tccd.douglas.pl | tccd.douglas.pl.greylabeldelivery.com |
+| tccd.douglas.pt | tccd.douglas.pt.greylabeldelivery.com |
 | tccd.douglas.ro | tccd.douglas.ro.greylabeldelivery.com |
+| tccd.douglas.si | tccd.douglas.si.greylabeldelivery.com |
 | tccd.douglas.sk | tccd.douglas.sk.greylabeldelivery.com |
 | tccd.niche-beauty.com | tccd.niche-beauty.com.greylabeldelivery.com |
 | tccd.nocibe.fr | tccd.nocibe.fr.greylabeldelivery.com |
@@ -976,13 +977,12 @@
 | collect.kinto-jp.com | uconnect-alb-greylabel-712393914.ap-northeast-1.elb.amazonaws.com |
 | collect.mtgec.jp | uconnect-alb-greylabel-712393914.ap-northeast-1.elb.amazonaws.com |
 | tms-collect.sony.jp | uconnect-alb-greylabel-712393914.ap-northeast-1.elb.amazonaws.com |
-| view.ansons.de | view.ansons.de.greylabeldelivery.com |
 | view.oportun.com | view.oportun.com.greylabeldelivery.com |
-| view.peek-cloppenburg.de | view.peek-cloppenburg.de.greylabeldelivery.com |
 | visitor-service.aeonbank.co.jp | visitor-service.aeonbank.co.jp.greylabeldelivery.com |
 | visitor-service.fancl.co.jp | visitor-service.fancl.co.jp.greylabeldelivery.com |
 | visitor-service.kinto-jp.com | visitor-service.kinto-jp.com.greylabeldelivery.com |
 | visitor-service.mtgec.jp | visitor-service.mtgec.jp.greylabeldelivery.com |
+| visitor-service.peek-cloppenburg.pl | visitor-service.peek-cloppenburg.pl.greylabeldelivery.com |
 | visitor-service.sixpad.jp | visitor-service.sixpad.jp.greylabeldelivery.com |
 | visitor.collect.oportun.com | visitor.collect.oportun.com.greylabeldelivery.com |
 | visitor.oportun.com | visitor.oportun.com.greylabeldelivery.com |

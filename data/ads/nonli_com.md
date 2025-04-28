@@ -188,6 +188,7 @@
 | l.netmums.com | tls.non.li |
 | l.nextplz.fr | tls.non.li |
 | l.notretemps.com | tls.non.li |
+| l.nrpyrenees.fr | tls.non.li |
 | l.numerama.com | tls.non.li |
 | l.ohmymag.co.uk | tls.non.li |
 | l.ohmymag.com | tls.non.li |
@@ -197,6 +198,7 @@
 | l.ozap.com | tls.non.li |
 | l.paris-normandie.fr | tls.non.li |
 | l.paroledemamans.com | tls.non.li |
+| l.petitbleu.fr | tls.non.li |
 | l.planet.fr | tls.non.li |
 | l.pleinevie.fr | tls.non.li |
 | l.positivr.fr | tls.non.li |
@@ -232,6 +234,7 @@
 | l.trendencias.com | tls.non.li |
 | l.uppercutmma.com | tls.non.li |
 | l.voici.fr | tls.non.li |
+| l.whatsupdoc-lemag.fr | tls.non.li |
 | l.zdnet.fr | tls.non.li |
 | prod-1.moarty.com | tls.non.li |
 | prod-3.moarty.com | tls.non.li |

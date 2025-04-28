@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -618,7 +618,6 @@ tr.kpyn03r.espmp-nifr.net CNAME .
 tr.kpyn059.espmp-pofr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
 tr.lachaiselongue.fr CNAME .
-tr.laprairie.ifop.com CNAME .
 tr.lbar.espmp-agfr.net CNAME .
 tr.leads.direct CNAME .
 tr.legrandjeu.boulanger.com CNAME .
@@ -631,7 +630,6 @@ tr.lettre.lecho-circulaire.com CNAME .
 tr.leyravaud.devisdirect.com CNAME .
 tr.liberation.espmp-aufr.net CNAME .
 tr.livrephoto.espmp-aufr.net CNAME .
-tr.loreal.ifop.com CNAME .
 tr.louisvuittonmalletier.com CNAME .
 tr.ltbu.espmp-nifr.net CNAME .
 tr.ltbu02o.espmp-agfr.net CNAME .
@@ -801,6 +799,7 @@ tr.news.devisdirect.com CNAME .
 tr.news.digitpjms.fr CNAME .
 tr.news.directeo.fr CNAME .
 tr.news.drveto.com CNAME .
+tr.news.easybook.fr CNAME .
 tr.news.easyviaggio.com CNAME .
 tr.news.easyviajar.com CNAME .
 tr.news.easyvoyage.co.uk CNAME .
@@ -859,6 +858,7 @@ tr.news.lacollectionairfrance.fr CNAME .
 tr.news.lalettredelexpansion.com CNAME .
 tr.news.latribunebordeaux.fr CNAME .
 tr.news.leclubtravel.fr CNAME .
+tr.news.lemans.org CNAME .
 tr.news.lentillesmoinscheres.com CNAME .
 tr.news.libranoo.com CNAME .
 tr.news.linxea.com CNAME .
@@ -913,6 +913,7 @@ tr.news.vraaguwofferte.be CNAME .
 tr.news.vraaguwofferte.com CNAME .
 tr.news.younited-coach.com CNAME .
 tr.news.younited-credit.com CNAME .
+tr.news.zebaz.fr CNAME .
 tr.news2pjms.fr CNAME .
 tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
@@ -1024,6 +1025,7 @@ tr.politicoevents.eu CNAME .
 tr.politicolive.eu CNAME .
 tr.politicomarketing.eu CNAME .
 tr.portail.afpa.fr CNAME .
+tr.pourvous.paris.fr CNAME .
 tr.preferenza.unaoffertaalgiorno.com CNAME .
 tr.presupuesto-b2b.es CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
@@ -1182,6 +1184,7 @@ tr.ville.bordeaux.fr CNAME .
 tr.voeux-wishes.ipsilon-ip.com CNAME .
 tr.voixduclient.harmonie-mutuelle.fr CNAME .
 tr.volkswagen-fs-mail.fr CNAME .
+tr.vosavantages.mnt.fr CNAME .
 tr.votrealarme.securitasdirect.fr CNAME .
 tr.vous.hellobank.fr CNAME .
 tr.wa.wordappeal.com CNAME .

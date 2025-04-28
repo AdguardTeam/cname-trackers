@@ -633,7 +633,6 @@
 | tr.kpyn059.espmp-pofr.net | tracking.bp01.net |
 | tr.krus.espmp-agfr.net | tracking.bp01.net |
 | tr.lachaiselongue.fr | tracking.bp01.net |
-| tr.laprairie.ifop.com | tracking.bp01.net |
 | tr.lbar.espmp-agfr.net | tracking.bp01.net |
 | tr.leads.direct | tracking.bp01.net |
 | tr.legrandjeu.boulanger.com | tracking.bp01.net |
@@ -646,7 +645,6 @@
 | tr.leyravaud.devisdirect.com | tracking.bp01.net |
 | tr.liberation.espmp-aufr.net | tracking.bp01.net |
 | tr.livrephoto.espmp-aufr.net | tracking.bp01.net |
-| tr.loreal.ifop.com | tracking.bp01.net |
 | tr.louisvuittonmalletier.com | tracking.bp01.net |
 | tr.ltbu.espmp-nifr.net | tracking.bp01.net |
 | tr.ltbu02o.espmp-agfr.net | tracking.bp01.net |
@@ -816,6 +814,7 @@
 | tr.news.digitpjms.fr | tracking.bp01.net |
 | tr.news.directeo.fr | tracking.bp01.net |
 | tr.news.drveto.com | tracking.bp01.net |
+| tr.news.easybook.fr | tracking.bp01.net |
 | tr.news.easyviaggio.com | tracking.bp01.net |
 | tr.news.easyviajar.com | tracking.bp01.net |
 | tr.news.easyvoyage.co.uk | tracking.bp01.net |
@@ -874,6 +873,7 @@
 | tr.news.lalettredelexpansion.com | tracking.bp01.net |
 | tr.news.latribunebordeaux.fr | tracking.bp01.net |
 | tr.news.leclubtravel.fr | tracking.bp01.net |
+| tr.news.lemans.org | tracking.bp01.net |
 | tr.news.lentillesmoinscheres.com | tracking.bp01.net |
 | tr.news.libranoo.com | tracking.bp01.net |
 | tr.news.linxea.com | tracking.bp01.net |
@@ -928,6 +928,7 @@
 | tr.news.vraaguwofferte.com | tracking.bp01.net |
 | tr.news.younited-coach.com | tracking.bp01.net |
 | tr.news.younited-credit.com | tracking.bp01.net |
+| tr.news.zebaz.fr | tracking.bp01.net |
 | tr.news2pjms.fr | tracking.bp01.net |
 | tr.news5.cdiscount.com | tracking.bp01.net |
 | tr.news6.cdiscount.com | tracking.bp01.net |
@@ -1039,6 +1040,7 @@
 | tr.politicolive.eu | tracking.bp01.net |
 | tr.politicomarketing.eu | tracking.bp01.net |
 | tr.portail.afpa.fr | tracking.bp01.net |
+| tr.pourvous.paris.fr | tracking.bp01.net |
 | tr.preferenza.unaoffertaalgiorno.com | tracking.bp01.net |
 | tr.presupuesto-b2b.es | tracking.bp01.net |
 | tr.prevention.harmonie-mutuelle.fr | tracking.bp01.net |
@@ -1197,6 +1199,7 @@
 | tr.voeux-wishes.ipsilon-ip.com | tracking.bp01.net |
 | tr.voixduclient.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.volkswagen-fs-mail.fr | tracking.bp01.net |
+| tr.vosavantages.mnt.fr | tracking.bp01.net |
 | tr.votrealarme.securitasdirect.fr | tracking.bp01.net |
 | tr.vous.hellobank.fr | tracking.bp01.net |
 | tr.wa.wordappeal.com | tracking.bp01.net |

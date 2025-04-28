@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -403,6 +403,7 @@ a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
 a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com CNAME .
 a8atcomsme.mellife.jp CNAME .
+a8clic.alcosystem.co.jp CNAME .
 a8click.daini2.co.jp CNAME .
 a8click.uzuz.jp CNAME .
 a8click.you-up.com CNAME .
@@ -1129,6 +1130,7 @@ a8cv.mova-creator-school.com CNAME .
 a8cv.ms-toushiguide.jp CNAME .
 a8cv.mura.ne.jp CNAME .
 a8cv.my-arrow.co.jp CNAME .
+a8cv.mygol.jp CNAME .
 a8cv.nagatani-shop.com CNAME .
 a8cv.naire-seisakusho.jp CNAME .
 a8cv.naradenryoku.co.jp CNAME .
@@ -1305,6 +1307,7 @@ a8cv.tokei-syuri.jp CNAME .
 a8cv.toko-navi.com CNAME .
 a8cv.tokutoku-battery.com CNAME .
 a8cv.tokyo-dive.com CNAME .
+a8cv.tokyo-indoorgolf.com CNAME .
 a8cv.tokyogas.bocco.me CNAME .
 a8cv.tomodachi-my.com CNAME .
 a8cv.tomorrow-bright.jp CNAME .
@@ -1330,7 +1333,6 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
-a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .
@@ -1436,7 +1438,6 @@ a8x.piece-kaitori.jp CNAME .
 ac.livelty.com CNAME .
 acv.au-hikari-kddi.com CNAME .
 acv.auhikari-norikae.com CNAME .
-acv.aun-air-wifi.com CNAME .
 acv.aun-company.com CNAME .
 acv.aun-n-hikari.com CNAME .
 acv.aun-softbank-hikari.com CNAME .
@@ -1444,7 +1445,6 @@ acv.auncompany.co.jp CNAME .
 acv.biglobe-hikari.net CNAME .
 acv.cmf-hikari.net CNAME .
 acv.crea-lp.com CNAME .
-acv.fletsntt.com CNAME .
 acv.internet-moushikomi.net CNAME .
 acv.kyushu-internet.com CNAME .
 acv.mc-doctor.net CNAME .
@@ -1500,7 +1500,6 @@ ai.kaishabaikyaku.com CNAME .
 analytics.villagehouse.jp CNAME .
 approach.wise1-golf.com CNAME .
 asp.glasspp119.jp CNAME .
-asp.hachipp119.com CNAME .
 asp.taishokunext.com CNAME .
 aspa8.ozmall.co.jp CNAME .
 car-a8.tabirai.net CNAME .

@@ -203,6 +203,7 @@
 ||cfaxq.streetscape.com^
 ||cfaxq1.fidelity.com^
 ||cfaxq2.fidelity.com^
+||ch.drs.wa.gov^
 ||channel.rakbankonline.ae^
 ||check.fashionid.de^
 ||check.jaja.finance^
@@ -629,10 +630,14 @@
 ||imgs.cdn-btsg.com^
 ||imgs.signifyd.com^
 ||info.betway.bg^
+||info.betway.co.mz^
+||info.betway.co.tz^
 ||info.betway.co.za^
 ||info.betway.co.zm^
+||info.betway.com.gh^
 ||info.betway.fr^
 ||info.betway.lat^
+||info.betway.mw^
 ||info.betway.ng^
 ||info.betwaypartnersafrica.com^
 ||info.jackpotcity.co.za^
@@ -798,6 +803,7 @@
 ||prod-sfcutx.chaperone.lumindigitalhosting.com^
 ||prod-sperofin.chaperone.lumindigitalhosting.com^
 ||prod-statedept.chaperone.lumindigitalhosting.com^
+||prod-summit.chaperone.lumindigitalhosting.com^
 ||prod-tapco.chaperone.lumindigitalhosting.com^
 ||prod-tmx.cofidis.hu^
 ||prod-travis.chaperone.lumindigitalhosting.com^
@@ -847,6 +853,7 @@
 ||rba.optumid.com^
 ||rba.phub-im.uhg.com^
 ||rbawis.pocketcard.co.jp^
+||rct.ext.sofinco.fr^
 ||rebatecontent.finance.delaware.gov^
 ||regstat.betfair.bet.br^
 ||regstat.betfair.com^
@@ -1063,9 +1070,11 @@
 ||tm.creditprotect.illion.co.nz^
 ||tm.creditprotect.illion.com.au^
 ||tm.cybersource.com^
+||tm.defense.dbp.fiservapps.com^
 ||tm.directly.com^
 ||tm.espnbet.com^
 ||tm.fanduel.com^
+||tm.fidelity.ca^
 ||tm.fidelity.co.uk^
 ||tm.flowbirdapp.com^
 ||tm.goldennuggetcasino.com^
@@ -1138,6 +1147,7 @@
 ||tmuat.kotak.com^
 ||tmx-fpt.credit-agricole.pl^
 ||tmx.additionfi.com^
+||tmx.americafirst.com^
 ||tmx.banquemanuvie.com^
 ||tmx.bestbuy.com^
 ||tmx.beyondbank.com.au^

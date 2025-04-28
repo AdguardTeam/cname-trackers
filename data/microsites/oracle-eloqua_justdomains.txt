@@ -84,6 +84,7 @@ elqtracking.dagligvarunytt.se
 elqtracking.di.se
 elqtracking.medidata.com
 elqtracking.mercer-retirement.co.uk
+elqtracking.privataaffarer.se
 elqtracking.resume.se
 elqtracking.strayer.edu
 elqtrck.nanawall.com
@@ -111,6 +112,7 @@ fpc.acponline.org
 fpc.ciel.com
 fpc.golubcapital.com
 fpc.golubgrowth.com
+fpc.goproposal.com
 fpc.immattersacp.org
 fpc.questoraclecommunity.org
 fpc.sage.com
@@ -393,6 +395,7 @@ t.smumustangs.com
 t.soec.ca
 t.soonersports.com
 t.southernmiss.com
+t.supportthecats.com
 t.tarletonsports.com
 t.tarletonstatetickets.com
 t.texaslonghorns.com
@@ -442,6 +445,7 @@ t.wsucougars.com
 t.wvusports.com
 t.xtreamarena.com
 tm-marketing.wolterskluwer.com
+tr.buccaneers.com
 tr.clevelandbrowns.com
 tr.oralia.fr
 tr.primeone.at
@@ -521,6 +525,7 @@ tracking.cello-square.com
 tracking.changehealthcare.com
 tracking.choosemylo.com
 tracking.civica.co.uk
+tracking.clearfieldcanola.ca
 tracking.clement.com
 tracking.coact.org.au
 tracking.corporate.flightcentre.com
@@ -709,6 +714,7 @@ trck.e.tkd-kabel.de
 trck.el.supremapoker.com.br
 trck.employerservices.experian.com
 trck.engage.fishbowlsolutions.com
+trck.evaluate.com
 trck.explore.wsp.com
 trck.feedback.americafirstcenter.com
 trck.feedback.ignite.gleague.nba.com
@@ -751,6 +757,7 @@ trck.newporthealthcare.com
 trck.newsletter.uol.com.br
 trck.newsletter.uolparamarcas.uol.com.br
 trck.outreach.vitalant.org
+trck.ps.experian.com
 trck.ptvlogistics.com
 trck.relacionamento.uol.com.br
 trck.renew.orhp.com
@@ -845,6 +852,7 @@ trk.florastranky.sk
 trk.fpc.laerdal.com
 trk.fraserwoods.ca
 trk.fruitdor.fr
+trk.fusedequipment.com
 trk.futureelectronics.cn
 trk.futureelectronics.com
 trk.galencollege.edu
@@ -1030,6 +1038,7 @@ trkcmb.business.hsbc.com.ph
 trkcmb.business.hsbc.com.qa
 trkcmb.business.hsbc.com.sg
 trkcmb.business.hsbc.com.tw
+trkcmb.business.hsbc.com.vn
 trkcmb.business.hsbc.es
 trkcmb.business.hsbc.fr
 trkcmb.business.hsbc.it
@@ -1114,6 +1123,7 @@ trkhinv.business.hsbc.com.ph
 trkhinv.business.hsbc.com.qa
 trkhinv.business.hsbc.com.sg
 trkhinv.business.hsbc.com.tw
+trkhinv.business.hsbc.com.vn
 trkhinv.business.hsbc.es
 trkhinv.business.hsbc.fr
 trkhinv.business.hsbc.it
@@ -1219,6 +1229,7 @@ meetings.gaylordhotels.com
 nb.neubergerberman.com
 oracle.marketingcube.com.au
 origin.tst.healthtechproducts.philips.com
+preferences.wolterskluwerlr.com
 products.marketingcube.com.au
 promos.thermoscientific.com
 promotions.thermofisher.com
@@ -2056,6 +2067,7 @@ email-cm.jll.ie
 email-cm.jll.nz
 email-cm.jll.pe
 email-cm.jll.pt
+email-cm.jll.ru
 email-cm.jllsweden.se
 email-cm.joneslanglasalle.co.jp
 email-cm.joneslanglasalle.com.cn
@@ -3055,9 +3067,11 @@ images.info.tupperware.be
 images.info.tupperware.de
 images.info.tupperware.pt
 images.info.tycosimplexgrinnell.com
+images.info.universalfurniture.com
 images.info.us.kpmg.com
 images.info.veritas.com
 images.info.visma.com
+images.info.walibi.nl
 images.info.wearejust.co.uk
 images.info.youbet.dk
 images.info.yourmobilitypartner.com
@@ -3316,8 +3330,7 @@ imginfo.insource.co.jp
 obrazy.dlabiznesu.pracuj.pl
 response.quest.com
 yourporscheimg.nabooda-auto.com
-images.info.universalfurniture.com
-images.info.walibi.nl
+images.infofreddiemac.com
 admin.smartgroup.com.au
 cars.autopia.com.au
 cars.smartfleetaustralia.com.au
@@ -3332,6 +3345,7 @@ forms.telstraglobal.com
 gc.titans.com.au
 lp.apac.business.samsung.com
 payroll.smartsalary.com.au
+save.accesspay.com.au
 save.salary.com.au
 save.smartsalary.com.au
 seao.business.samsung.com
@@ -3484,6 +3498,7 @@ origin.www.personalhealth.philips.com
 plusavecmoins.adp.ca
 pre-employmentservices.adp.com
 response.abrdn.com
+response.germany.sonosite.com
 response.sonosite.co.uk
 response.sonosite.com
 response.sonosite.es
@@ -3625,7 +3640,6 @@ forms.fircosoft.com
 forms.xperthr.co.uk
 fr-go.experian.com
 global-go.experian.com
-go.deltek.com
 go.earlywarning.com
 go.paze.com
 go.www4.earlywarning.com
@@ -3780,6 +3794,7 @@ tracking.ssab.de
 tracking.ssab.dk
 tracking.ssab.es
 tracking.ssab.fi
+tracking.ssab.fr
 tracking.ssab.in
 tracking.ssab.it
 tracking.ssab.jp
@@ -4072,6 +4087,7 @@ tracking.smartcardstore.co.uk
 tracking.southeastid.com
 tracking.trade-id.co.uk
 tracking.venture-net.co.jp
+tracking.warehouseautomation.com
 www.revolutionaryreveos.com
 ald.aldautomotive.be
 alquiler.carflex.es
@@ -4160,7 +4176,6 @@ track-e.infineoncommunity.com
 tracking.service.just.nl
 tracking.usj.es
 trackside.redbull.racing
-trk.bellissandmorcom.com
 trk.makocompressors.com
 trk.reavell.com
 www.infineon-community.com
@@ -4399,8 +4414,11 @@ events.engage.cebglobal.com
 food.informaengage.com
 forms.sonicwall.com
 get.docusign.com
+go.goemperors.com
+go.gostripers.com
 go.greenjacketsbaseball.com
 go.greenlee.emerson.com
+go.hubcityspartanburgers.com
 go.klauke.emerson.com
 go.morningstar.com
 go.morningstar.com.au
@@ -4553,6 +4571,7 @@ web.internal.communications.bnpparibas
 www.armolipid.com.ru
 www.chronischepancreatitis.nl
 www.epipenexpiryservice.com
+www.eu.my1961.com
 www.eu.viatrisconnect.com
 www.isgemylanwebinars.com
 www.mediwebinars.com
@@ -4668,7 +4687,6 @@ tkelq.genesys.com
 tracking.accent-technologies.com
 tracking.go.lorainccc.edu
 tracking.go.onshape.com
-tracking.hot.net.il
 tracking.lorainccc.edu
 tracking.mail.ti.com
 tracking.mail.ti.com.cn
@@ -4683,6 +4701,7 @@ www.afternoonmeeting.com
 www.mkt.uvg.edu.gt
 www.yourplanprovisions.com
 aonemeaclientcouncil.aon.com
+app.info.fticonsulting.com
 campaign-fbsg.fujifilm.com
 campaigns.panasonic.eu
 campaigns.technics.eu
@@ -4783,6 +4802,7 @@ degree.insead.edu
 deleteme.intuit.com
 downpayment.fernsby.com
 elq.fisherinvestments.com
+elq.mouser.at
 elq.mouser.be
 elq.mouser.ca
 elq.mouser.ch
@@ -4799,6 +4819,7 @@ elq.mouser.fi
 elq.mouser.fr
 elq.mouser.hk
 elq.mouser.ie
+elq.mouser.in
 elq.mouser.it
 elq.mouser.jp
 elq.mouser.pe
@@ -4829,6 +4850,7 @@ preview.fi-institutional.com.au
 promo.batesville.com
 promotions.batesville.com
 response.hcltech.com
+response.soundincomegroup.com
 sub.info.mouser.com
 test.customize.titanfactorydirect.com
 test.marketing.championhomes.com
@@ -4871,6 +4893,7 @@ ask.antalis.pt
 ask.antalis.ro
 ask.antalis.se
 ask.antalis.sk
+ask.antalisabitek.com
 ask.antalisbolivia.com
 ask.antalispackaging.it
 assets.eafit.edu.co
@@ -5094,7 +5117,6 @@ app.nuhuskies.com
 app.selectyourtickets.com
 app.unlvrebels.com
 asset-protection-pages.protective.com
-avaya-engage.avaya.com
 axp.avaya.com
 campaign.phinmaproperties.com
 candidate.response.ingenovishealth.com
@@ -6369,6 +6391,7 @@ marketing-form.fiat.com
 marketing.promotiv.se
 memberships.clubcorp.com
 microsite2.dylansnoddon.com
+news.career.oracle.com
 mini-site.larksuite-marketing.com
 mlc.martela.se
 podbooth.martela.no

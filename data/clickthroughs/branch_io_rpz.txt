@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -93,7 +93,6 @@ ablink.email.pressreader.com CNAME .
 ablink.emails.spothero.com CNAME .
 ablink.emails.vida.com CNAME .
 ablink.engage.hipages.com.au CNAME .
-ablink.engage.insighttimer.com CNAME .
 ablink.enjoy.wonder.com CNAME .
 ablink.feed.liven.com.au CNAME .
 ablink.fun.joyrun.com CNAME .
@@ -156,7 +155,6 @@ ablink.news.theiconic.com.au CNAME .
 ablink.nightly.pray.com CNAME .
 ablink.notice.hoopladigital.com CNAME .
 ablink.notice.spriggy.com.au CNAME .
-ablink.notification.insighttimer.com CNAME .
 ablink.notify.homecourt.ai CNAME .
 ablink.notify.pray.com CNAME .
 ablink.nz-edm.zip.co CNAME .
@@ -795,7 +793,6 @@ links.keno.ae CNAME .
 links.m.blueapron.com CNAME .
 links.mail.stubhub.com CNAME .
 links.marketing.getprizepool.com CNAME .
-links.melodymusicapp.com CNAME .
 links.muzz.com CNAME .
 links.nbc.com CNAME .
 links.nbcnews.com CNAME .
@@ -1591,7 +1588,6 @@ app.tadatada.com CNAME .
 app.tagachi.io CNAME .
 app.tajawal.com CNAME .
 app.talksport.com CNAME .
-app.task.io CNAME .
 app.test.elly.com CNAME .
 app.test.gobuncha.com CNAME .
 app.th3rdwave.coffee CNAME .
@@ -2835,7 +2831,6 @@ go.citizen.com CNAME .
 go.clickipo.com CNAME .
 go.collabs.shop CNAME .
 go.colombia.innovatedating.com CNAME .
-go.costpal.app CNAME .
 go.covoitici.fr CNAME .
 go.cwtv.com CNAME .
 go.dateinasia.innovatedating.com CNAME .
@@ -2909,7 +2904,6 @@ go.hongkong.innovatedating.com CNAME .
 go.hongkongcupid.date CNAME .
 go.hoopz.app CNAME .
 go.hotz.ignite.technology CNAME .
-go.huterra.com CNAME .
 go.india.innovatedating.com CNAME .
 go.indo.innovatedating.com CNAME .
 go.indonesiacupid.co CNAME .
@@ -3649,7 +3643,6 @@ link.doopage.com CNAME .
 link.doppels.com CNAME .
 link.dosh.cash CNAME .
 link.dralilabolsanelo.com CNAME .
-link.drum.io CNAME .
 link.duprcoach.com CNAME .
 link.dvendor.com CNAME .
 link.ealiox.com CNAME .
@@ -3730,7 +3723,6 @@ link.goconfirm-dev.com CNAME .
 link.goconfirm.com CNAME .
 link.gokimboo.com CNAME .
 link.goldies.com.br CNAME .
-link.goscout.it CNAME .
 link.gotmy.com CNAME .
 link.gradeproof.com CNAME .
 link.gradeviewapp.com CNAME .
@@ -3756,7 +3748,6 @@ link.healthybenefitsplus.com CNAME .
 link.hebbes.app CNAME .
 link.hermanpro.com CNAME .
 link.hiccup.dev CNAME .
-link.hivexchange.com.au CNAME .
 link.hobbinity.com CNAME .
 link.hola.health CNAME .
 link.home.id CNAME .
@@ -4110,7 +4101,6 @@ link.togaapp.com CNAME .
 link.tomoloyalty.com CNAME .
 link.tomoloyaltysg.com CNAME .
 link.toolbelt.work CNAME .
-link.topio.me CNAME .
 link.touchsurgery.com CNAME .
 link.tradee.com CNAME .
 link.tradhart.com CNAME .
@@ -4746,7 +4736,6 @@ play.fanslide.com CNAME .
 play.getpeel.app CNAME .
 play.jdb888.club CNAME .
 play.journey8.com CNAME .
-play.jt-market02.site CNAME .
 play.locphat88.vip CNAME .
 play.maxgame.win CNAME .
 play.oncasino-707.com CNAME .
@@ -4818,7 +4807,6 @@ qr.spirii.com CNAME .
 qualitas-app.hotdoc.com.au CNAME .
 quantum5-invite-test.ander.ai CNAME .
 quest.epoise.com CNAME .
-question.snapiio.com CNAME .
 questtest.epoise.com CNAME .
 quick.openapp.link CNAME .
 r-beta.y.info CNAME .
@@ -5301,7 +5289,6 @@ testapp.puneeatouts.in CNAME .
 testapplink.flightbridge.com CNAME .
 testbnc.mksp.io CNAME .
 testbranch.onsequel.com CNAME .
-testgo.huterra.com CNAME .
 testlink.bambinoapp.com CNAME .
 testlink.blueheart.io CNAME .
 testlink.covve.com CNAME .

@@ -292,6 +292,7 @@
 ||affilo.lingerio.cz^
 ||affilo.vivaboty.cz^
 ||affilpartner.descanti.com^
+||affilpartneri.affilbusiness.cz^
 ||afill.e-potisk.cz^
 ||ambasador.montessorikurz.cz^
 ||ambasador.rustspolecne.cz^
@@ -351,6 +352,7 @@
 ||my.11teamsports.sk^
 ||my.fr.top4fitness.be^
 ||my.fr.top4running.be^
+||my.kickz.com^
 ||my.tint-store.ro^
 ||my.top4fitness.at^
 ||my.top4fitness.be^
@@ -459,6 +461,7 @@
 ||partner.artmasteracademy.cz^
 ||partner.astaxanthincz.cz^
 ||partner.austriaapotheke.sk^
+||partner.autosarm.cz^
 ||partner.avetour.cz^
 ||partner.babypatent.sk^
 ||partner.babysigns.cz^
@@ -612,6 +615,7 @@
 ||partner.kokiskashop.sk^
 ||partner.kominy-bokra.cz^
 ||partner.korff.sk^
+||partner.krmivo-platinum.cz^
 ||partner.kupcomp.sk^
 ||partner.kurzysusmevem.cz^
 ||partner.kutnohorskytolar.cz^

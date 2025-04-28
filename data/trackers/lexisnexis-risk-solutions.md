@@ -67,6 +67,7 @@
     * h-3gk2er3j.online-metrix.net
     * h-3pg2vcxz.online-metrix.net
     * h-3pucwmhv.online-metrix.net
+    * h-3q9wkazf.online-metrix.net
     * h-3r1xqsku.online-metrix.net
     * h-3u2bmrkg.online-metrix.net
     * h-3z5dc3wi.online-metrix.net
@@ -157,6 +158,7 @@
     * h-8e0pj0s9.online-metrix.net
     * h-8em5ysu2.online-metrix.net
     * h-8hqbv9ql.online-metrix.net
+    * h-8j0oqkrb-1.online-metrix.net
     * h-8la63gsu.online-metrix.net
     * h-8m7u92ti.online-metrix.net
     * h-8ms1wsqq.online-metrix.net
@@ -238,6 +240,7 @@
     * h-avant.online-metrix.net
     * h-awaqftdj.online-metrix.net
     * h-axiata.online-metrix.net
+    * h-azqxxc45.online-metrix.net
     * h-b124ow4n.online-metrix.net
     * h-b2u9vacd.online-metrix.net
     * h-b2u9vacd1.online-metrix.net
@@ -416,6 +419,7 @@
     * h-discover.online-metrix.net
     * h-disney.online-metrix.net
     * h-dnp-cdms.online-metrix.net
+    * h-do3zrwjp.online-metrix.net
     * h-doregtzf.online-metrix.net
     * h-dpugokq9.online-metrix.net
     * h-draftkings.online-metrix.net
@@ -873,6 +877,7 @@
 | prod-sfcutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sperofin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-statedept.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-summit.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-tapco.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-travis.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-tvfcuwy.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -937,6 +942,7 @@
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
 | intl.payu.in | h-3pg2vcxz.online-metrix.net |
 | validafp.grupocasasbahia.com.br | h-3pucwmhv.online-metrix.net |
+| tmx.americafirst.com | h-3q9wkazf.online-metrix.net |
 | tmcontent.sixt.com | h-3r1xqsku.online-metrix.net |
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
 | event.evtm.53.com | h-3z5dc3wi.online-metrix.net |
@@ -1059,10 +1065,14 @@
 | tmx.katapult.com | h-7prn07hc.online-metrix.net |
 | contentimage.fretebras.com.br | h-7ubbkvkt.online-metrix.net |
 | info.betway.bg | h-7v30y901.online-metrix.net |
+| info.betway.co.mz | h-7v30y901.online-metrix.net |
+| info.betway.co.tz | h-7v30y901.online-metrix.net |
 | info.betway.co.za | h-7v30y901.online-metrix.net |
 | info.betway.co.zm | h-7v30y901.online-metrix.net |
+| info.betway.com.gh | h-7v30y901.online-metrix.net |
 | info.betway.fr | h-7v30y901.online-metrix.net |
 | info.betway.lat | h-7v30y901.online-metrix.net |
+| info.betway.mw | h-7v30y901.online-metrix.net |
 | info.betway.ng | h-7v30y901.online-metrix.net |
 | info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
 | info.jackpotcity.co.za | h-7v30y901.online-metrix.net |
@@ -1081,6 +1091,7 @@
 | 1bf86f4b.tictoc.ai | h-8e0pj0s9.online-metrix.net |
 | dtrust.atratopago.com | h-8em5ysu2.online-metrix.net |
 | online-security.unionbankph.com | h-8hqbv9ql.online-metrix.net |
+| rct.ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
 | afs.wearemp.com | h-8la63gsu.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
 | tmuat.kotak.com | h-8ms1wsqq.online-metrix.net |
@@ -1262,6 +1273,7 @@
 | tmx.idp.safenetid-staging.safenetid.com | h-awaqftdj.online-metrix.net |
 | tmx.idp.us-staging.safenetid.com | h-awaqftdj.online-metrix.net |
 | caveo.boost-my.com | h-axiata.online-metrix.net |
+| tm.fidelity.ca | h-azqxxc45.online-metrix.net |
 | bland.starone.org | h-b124ow4n.online-metrix.net |
 | ln.acornfun.com | h-b2u9vacd.online-metrix.net |
 | ln.zenmerge.club | h-b2u9vacd1.online-metrix.net |
@@ -1286,6 +1298,7 @@
 | srv.squaretrade.no | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.pt | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.se | h-b6te0xmf.online-metrix.net |
+| tm.defense.dbp.fiservapps.com | h-b6te0xmf.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | content.bank-abc.com | h-ban3nmwg.online-metrix.net |
@@ -1515,6 +1528,7 @@
 | content.discovercard.com | h-discover.online-metrix.net |
 | fp.disney.go.com | h-disney.online-metrix.net |
 | acsweb-3dr1.dnp-cdms.jp | h-dnp-cdms.online-metrix.net |
+| ch.drs.wa.gov | h-do3zrwjp.online-metrix.net |
 | asanalytics.booking.com | h-doregtzf.online-metrix.net |
 | content.novunaconsumerfinance.co.uk | h-dpugokq9.online-metrix.net |
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |

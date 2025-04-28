@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,7 +19,9 @@ adconsole.lot-tissimo.com CNAME .
 adconsole.proxibid.com CNAME .
 adconsole.sniffies.com CNAME .
 addurance-delivery.reviveservers.com CNAME .
+adimages.associationheadquarters.com CNAME .
 adimages.eva.live CNAME .
+adimages.infotorg.se CNAME .
 adimages.sniffies.com CNAME .
 ads-console.recon.com CNAME .
 ads-delivery.milenarmedia.pt CNAME .
@@ -115,6 +117,7 @@ coreads.cambridge.org CNAME .
 creatives.goldseek.com CNAME .
 display.lawbulletin.com CNAME .
 etnomedia-static.reviveservers.com CNAME .
+hrnorth-delivery.reviveservers.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
 images.falconstudios.com CNAME .

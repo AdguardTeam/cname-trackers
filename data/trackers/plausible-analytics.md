@@ -33,7 +33,6 @@
 | analytics.geekyminds.net | custom.plausible.io |
 | analytics.hambleden-capital.com | custom.plausible.io |
 | analytics.hiome.com | custom.plausible.io |
-| analytics.kerns.co | custom.plausible.io |
 | analytics.lifestyledemocracy.com | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
@@ -223,7 +222,6 @@
 | plausible.nmyvsn.net | custom.plausible.io |
 | plausible.nuqu.org | custom.plausible.io |
 | plausible.plausible.tangodelta.media | custom.plausible.io |
-| plausible.pumpkint.com | custom.plausible.io |
 | plausible.quantumcomputingexplained.com | custom.plausible.io |
 | plausible.quo.wtf | custom.plausible.io |
 | plausible.rachel.systems | custom.plausible.io |
@@ -839,7 +837,6 @@
 | stats.vinkkaa.fi | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |
 | stats.voltimum.com | custom.plausible.io |
-| stats.wachstum.at | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
 | stats.warrantynowvoid.com | custom.plausible.io |
 | stats.websnap.app | custom.plausible.io |

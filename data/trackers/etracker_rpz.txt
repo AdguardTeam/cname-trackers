@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -124,6 +124,7 @@ stats.wasserfilteroase.de CNAME .
 stats.wienerjobs.at CNAME .
 sun.solar-haus.de CNAME .
 t.canngo.express CNAME .
+tr.zuhause-finder.com CNAME .
 track.bauwirtschaft-bw.de CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
 track.dictum-handwerksgalerie.de CNAME .
@@ -145,13 +146,16 @@ wctr.khk-karlsruhe.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
 wctr.maschinenprofi.de CNAME .
 wctr.menkenunddrees.de CNAME .
+wctr.mm-germany.com CNAME .
 wctr.moenninghoff.net CNAME .
 wctr.scaleup-fulfillment.de CNAME .
+wctr.sus-architekten-muenster.de CNAME .
 wctr.vitanova-kliniken.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcon.se-legal.de CNAME .
 webcontr.aquarius-prolife.com CNAME .
+webcontr.barcodescanner.de CNAME .
 webcontr.baulogistik-online.de CNAME .
 webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .

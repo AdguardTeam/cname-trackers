@@ -81,8 +81,6 @@ adebis.leben-style.jp
 adebis.lifestylemag.jp
 adebis.livable.co.jp
 adebis.logoshome.jp
-adebis.lypo-c.jp
-adebis.lypo-c.shop
 adebis.mizunomori.com
 adebis.muscledeli.jp
 adebis.no.01.alo-organic.com
@@ -143,6 +141,7 @@ analyse.hinemos.info
 axjfkc.kobayashi.co.jp
 bbbb.goace.jp
 beeline.beeline-tire.co.jp
+c.lypo-c.shop
 campaign-direct.eisai.jp
 campaign-direct.ketsuatsu-taisaku.xyz
 campaign-direct.kouketsuatsu-health.xyz

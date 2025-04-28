@@ -392,6 +392,7 @@
 ||a8aspconv.xn--biglobe-kc9k.com^
 ||a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com^
 ||a8atcomsme.mellife.jp^
+||a8clic.alcosystem.co.jp^
 ||a8click.daini2.co.jp^
 ||a8click.uzuz.jp^
 ||a8click.you-up.com^
@@ -1118,6 +1119,7 @@
 ||a8cv.ms-toushiguide.jp^
 ||a8cv.mura.ne.jp^
 ||a8cv.my-arrow.co.jp^
+||a8cv.mygol.jp^
 ||a8cv.nagatani-shop.com^
 ||a8cv.naire-seisakusho.jp^
 ||a8cv.naradenryoku.co.jp^
@@ -1294,6 +1296,7 @@
 ||a8cv.toko-navi.com^
 ||a8cv.tokutoku-battery.com^
 ||a8cv.tokyo-dive.com^
+||a8cv.tokyo-indoorgolf.com^
 ||a8cv.tokyogas.bocco.me^
 ||a8cv.tomodachi-my.com^
 ||a8cv.tomorrow-bright.jp^
@@ -1319,7 +1322,6 @@
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.wellcrew.net^
-||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.willfu.jp^
@@ -1425,7 +1427,6 @@
 ||ac.livelty.com^
 ||acv.au-hikari-kddi.com^
 ||acv.auhikari-norikae.com^
-||acv.aun-air-wifi.com^
 ||acv.aun-company.com^
 ||acv.aun-n-hikari.com^
 ||acv.aun-softbank-hikari.com^
@@ -1433,7 +1434,6 @@
 ||acv.biglobe-hikari.net^
 ||acv.cmf-hikari.net^
 ||acv.crea-lp.com^
-||acv.fletsntt.com^
 ||acv.internet-moushikomi.net^
 ||acv.kyushu-internet.com^
 ||acv.mc-doctor.net^
@@ -1489,7 +1489,6 @@
 ||analytics.villagehouse.jp^
 ||approach.wise1-golf.com^
 ||asp.glasspp119.jp^
-||asp.hachipp119.com^
 ||asp.taishokunext.com^
 ||aspa8.ozmall.co.jp^
 ||car-a8.tabirai.net^

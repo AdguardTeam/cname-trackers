@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,7 +32,6 @@ analytics.gamedatacrunch.com CNAME .
 analytics.geekyminds.net CNAME .
 analytics.hambleden-capital.com CNAME .
 analytics.hiome.com CNAME .
-analytics.kerns.co CNAME .
 analytics.lifestyledemocracy.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
@@ -222,7 +221,6 @@ plausible.nickmazuk.com CNAME .
 plausible.nmyvsn.net CNAME .
 plausible.nuqu.org CNAME .
 plausible.plausible.tangodelta.media CNAME .
-plausible.pumpkint.com CNAME .
 plausible.quantumcomputingexplained.com CNAME .
 plausible.quo.wtf CNAME .
 plausible.rachel.systems CNAME .
@@ -838,7 +836,6 @@ stats.vican.me CNAME .
 stats.vinkkaa.fi CNAME .
 stats.visions.ch CNAME .
 stats.voltimum.com CNAME .
-stats.wachstum.at CNAME .
 stats.walkiees.co.uk CNAME .
 stats.warrantynowvoid.com CNAME .
 stats.websnap.app CNAME .

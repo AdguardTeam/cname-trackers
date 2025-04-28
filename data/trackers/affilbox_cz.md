@@ -313,6 +313,7 @@
 | affilo.lingerio.cz | cz.affilbox.cz |
 | affilo.vivaboty.cz | cz.affilbox.cz |
 | affilpartner.descanti.com | cz.affilbox.cz |
+| affilpartneri.affilbusiness.cz | cz.affilbox.cz |
 | afill.e-potisk.cz | cz.affilbox.cz |
 | ambasador.montessorikurz.cz | cz.affilbox.cz |
 | ambasador.rustspolecne.cz | cz.affilbox.cz |
@@ -372,6 +373,7 @@
 | my.11teamsports.sk | cz.affilbox.cz |
 | my.fr.top4fitness.be | cz.affilbox.cz |
 | my.fr.top4running.be | cz.affilbox.cz |
+| my.kickz.com | cz.affilbox.cz |
 | my.tint-store.ro | cz.affilbox.cz |
 | my.top4fitness.at | cz.affilbox.cz |
 | my.top4fitness.be | cz.affilbox.cz |
@@ -480,6 +482,7 @@
 | partner.artmasteracademy.cz | cz.affilbox.cz |
 | partner.astaxanthincz.cz | cz.affilbox.cz |
 | partner.austriaapotheke.sk | cz.affilbox.cz |
+| partner.autosarm.cz | cz.affilbox.cz |
 | partner.avetour.cz | cz.affilbox.cz |
 | partner.babypatent.sk | cz.affilbox.cz |
 | partner.babysigns.cz | cz.affilbox.cz |
@@ -633,6 +636,7 @@
 | partner.kokiskashop.sk | cz.affilbox.cz |
 | partner.kominy-bokra.cz | cz.affilbox.cz |
 | partner.korff.sk | cz.affilbox.cz |
+| partner.krmivo-platinum.cz | cz.affilbox.cz |
 | partner.kupcomp.sk | cz.affilbox.cz |
 | partner.kurzysusmevem.cz | cz.affilbox.cz |
 | partner.kutnohorskytolar.cz | cz.affilbox.cz |

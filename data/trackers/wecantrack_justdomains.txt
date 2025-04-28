@@ -22,5 +22,6 @@ wct.softonic.kr
 wct.softonic.nl
 wct.softonic.pl
 wct.softonic.ru
+wct.softonic.se
 wctsub.hostingcheck24.de
 wctsub.start24.nl

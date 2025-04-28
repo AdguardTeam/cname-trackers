@@ -607,7 +607,6 @@
 ||tr.kpyn059.espmp-pofr.net^
 ||tr.krus.espmp-agfr.net^
 ||tr.lachaiselongue.fr^
-||tr.laprairie.ifop.com^
 ||tr.lbar.espmp-agfr.net^
 ||tr.leads.direct^
 ||tr.legrandjeu.boulanger.com^
@@ -620,7 +619,6 @@
 ||tr.leyravaud.devisdirect.com^
 ||tr.liberation.espmp-aufr.net^
 ||tr.livrephoto.espmp-aufr.net^
-||tr.loreal.ifop.com^
 ||tr.louisvuittonmalletier.com^
 ||tr.ltbu.espmp-nifr.net^
 ||tr.ltbu02o.espmp-agfr.net^
@@ -790,6 +788,7 @@
 ||tr.news.digitpjms.fr^
 ||tr.news.directeo.fr^
 ||tr.news.drveto.com^
+||tr.news.easybook.fr^
 ||tr.news.easyviaggio.com^
 ||tr.news.easyviajar.com^
 ||tr.news.easyvoyage.co.uk^
@@ -848,6 +847,7 @@
 ||tr.news.lalettredelexpansion.com^
 ||tr.news.latribunebordeaux.fr^
 ||tr.news.leclubtravel.fr^
+||tr.news.lemans.org^
 ||tr.news.lentillesmoinscheres.com^
 ||tr.news.libranoo.com^
 ||tr.news.linxea.com^
@@ -902,6 +902,7 @@
 ||tr.news.vraaguwofferte.com^
 ||tr.news.younited-coach.com^
 ||tr.news.younited-credit.com^
+||tr.news.zebaz.fr^
 ||tr.news2pjms.fr^
 ||tr.news5.cdiscount.com^
 ||tr.news6.cdiscount.com^
@@ -1013,6 +1014,7 @@
 ||tr.politicolive.eu^
 ||tr.politicomarketing.eu^
 ||tr.portail.afpa.fr^
+||tr.pourvous.paris.fr^
 ||tr.preferenza.unaoffertaalgiorno.com^
 ||tr.presupuesto-b2b.es^
 ||tr.prevention.harmonie-mutuelle.fr^
@@ -1171,6 +1173,7 @@
 ||tr.voeux-wishes.ipsilon-ip.com^
 ||tr.voixduclient.harmonie-mutuelle.fr^
 ||tr.volkswagen-fs-mail.fr^
+||tr.vosavantages.mnt.fr^
 ||tr.votrealarme.securitasdirect.fr^
 ||tr.vous.hellobank.fr^
 ||tr.wa.wordappeal.com^

@@ -256,7 +256,6 @@ beetle.enlacepermanente.es
 bird.brondby.com
 bird.recruitkit.com.au
 bird.webitizevoice.com
-bison.equals.community
 bison.joshhanley.com.au
 bison.streamclocks.com
 bison.stuffmatic.com
@@ -371,7 +370,6 @@ coral.bladestudy.net
 coral.defygravity.co
 cougar.augmentedmindapp.com
 cougar.wzulfikar.com
-coyote.12gem.me
 coyote.gnx.cloud
 coyote.nickgurney.com
 coyote.pbnbuilds.com
@@ -571,7 +569,6 @@ horse.vesuvius-publishing.com
 horse.zwei-bags.com
 hoverfly.cdengine.co.uk
 hoverfly.cyberbytesinc.com
-hoverfly.dailyblocks.tv
 hoverfly.papercrowns.com
 hoverfly.wholeheartedceremonies.com.au
 hoverfly.winchdesign.cn
@@ -637,11 +634,11 @@ landsnail.brownfield.dev
 landsnail.garasjeport1.no
 landsnail.motin.eu
 lark.pollie.dev
+leech.carolgilabert.me
 leech.fuchsegg.at
 leech.stargate-project.de
 lemming.nicolasmenard.com
 lemming.vivian.do
-lemur.a-and-a-trucking.com
 leopard.davidlindahlphoto.com
 leopard.joytotheworld.info
 leopard.laszlo.cloud
@@ -775,6 +772,7 @@ owl.indigenoushiphopawards.com
 owl.sentrydiscord.dev
 ox.first-law.com
 ox.ines-papert.de
+p016eshru.kaybe.co.uk
 pa5xjc.m1guelpf.me
 panda.moritz-petersen.de
 panda.mvhphotoproject.org
@@ -945,7 +943,6 @@ sparrow.carol.gg
 sparrow.uitvaartzorg-vanraemdonck.be
 sparrow.workingincontent.com
 spermwhale.rowansimpson.com
-spermwhale.thankbox.co
 spider.capricciocolumbus.org
 spider.hoomie.online
 spider.scottw.com
@@ -1040,7 +1037,6 @@ turtle.geshem.space
 turtle.mushtache.com
 turtle.mydataroom.io
 turtle.olivier.cx
-turtle.sid.scot
 uktgg.dev-tester.com
 vampirebat.datingmedellin.com
 vampirebat.febolos.es
@@ -1167,6 +1163,7 @@ yourarlington.streetinteractive.com
 adserve.bongocdn.com
 assets.diagomics.com
 bcdn.cpmstar.com
+cache.myth.dev
 cdn-b.notsy.io
 cdn.admatic.com.tr
 cdn.adsninja.ca

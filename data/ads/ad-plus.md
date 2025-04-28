@@ -31,3 +31,4 @@
 | serving.srmg.com | serving.stat-rock.com |
 | serving.thebeglobal.com | serving.stat-rock.com |
 | serving.viewtraff.com | serving.stat-rock.com |
+| vidops.zeeker.com | serving.stat-rock.com |

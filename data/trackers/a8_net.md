@@ -406,6 +406,7 @@
 | a8aspconv.xn--biglobe-kc9k.com | trck.a8.net |
 | a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com | trck.a8.net |
 | a8atcomsme.mellife.jp | trck.a8.net |
+| a8clic.alcosystem.co.jp | trck.a8.net |
 | a8click.daini2.co.jp | trck.a8.net |
 | a8click.uzuz.jp | trck.a8.net |
 | a8click.you-up.com | trck.a8.net |
@@ -1131,6 +1132,7 @@
 | a8cv.ms-toushiguide.jp | trck.a8.net |
 | a8cv.mura.ne.jp | trck.a8.net |
 | a8cv.my-arrow.co.jp | trck.a8.net |
+| a8cv.mygol.jp | trck.a8.net |
 | a8cv.nagatani-shop.com | trck.a8.net |
 | a8cv.naire-seisakusho.jp | trck.a8.net |
 | a8cv.naradenryoku.co.jp | trck.a8.net |
@@ -1307,6 +1309,7 @@
 | a8cv.toko-navi.com | trck.a8.net |
 | a8cv.tokutoku-battery.com | trck.a8.net |
 | a8cv.tokyo-dive.com | trck.a8.net |
+| a8cv.tokyo-indoorgolf.com | trck.a8.net |
 | a8cv.tokyogas.bocco.me | trck.a8.net |
 | a8cv.tomodachi-my.com | trck.a8.net |
 | a8cv.tomorrow-bright.jp | trck.a8.net |
@@ -1332,7 +1335,6 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
-| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.willfu.jp | trck.a8.net |
@@ -1438,7 +1440,6 @@
 | ac.livelty.com | trck.a8.net |
 | acv.au-hikari-kddi.com | trck.a8.net |
 | acv.auhikari-norikae.com | trck.a8.net |
-| acv.aun-air-wifi.com | trck.a8.net |
 | acv.aun-company.com | trck.a8.net |
 | acv.aun-n-hikari.com | trck.a8.net |
 | acv.aun-softbank-hikari.com | trck.a8.net |
@@ -1446,7 +1447,6 @@
 | acv.biglobe-hikari.net | trck.a8.net |
 | acv.cmf-hikari.net | trck.a8.net |
 | acv.crea-lp.com | trck.a8.net |
-| acv.fletsntt.com | trck.a8.net |
 | acv.internet-moushikomi.net | trck.a8.net |
 | acv.kyushu-internet.com | trck.a8.net |
 | acv.mc-doctor.net | trck.a8.net |
@@ -1502,7 +1502,6 @@
 | analytics.villagehouse.jp | trck.a8.net |
 | approach.wise1-golf.com | trck.a8.net |
 | asp.glasspp119.jp | trck.a8.net |
-| asp.hachipp119.com | trck.a8.net |
 | asp.taishokunext.com | trck.a8.net |
 | aspa8.ozmall.co.jp | trck.a8.net |
 | car-a8.tabirai.net | trck.a8.net |

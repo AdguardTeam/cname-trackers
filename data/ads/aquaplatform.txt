@@ -8,7 +8,9 @@
 ||adconsole.proxibid.com^
 ||adconsole.sniffies.com^
 ||addurance-delivery.reviveservers.com^
+||adimages.associationheadquarters.com^
 ||adimages.eva.live^
+||adimages.infotorg.se^
 ||adimages.sniffies.com^
 ||ads-console.recon.com^
 ||ads-delivery.milenarmedia.pt^
@@ -104,6 +106,7 @@
 ||creatives.goldseek.com^
 ||display.lawbulletin.com^
 ||etnomedia-static.reviveservers.com^
+||hrnorth-delivery.reviveservers.com^
 ||images.addurance.com^
 ||images.cricketworld.com^
 ||images.falconstudios.com^

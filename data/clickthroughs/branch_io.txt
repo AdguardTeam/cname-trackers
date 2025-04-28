@@ -82,7 +82,6 @@
 ||ablink.emails.spothero.com^
 ||ablink.emails.vida.com^
 ||ablink.engage.hipages.com.au^
-||ablink.engage.insighttimer.com^
 ||ablink.enjoy.wonder.com^
 ||ablink.feed.liven.com.au^
 ||ablink.fun.joyrun.com^
@@ -145,7 +144,6 @@
 ||ablink.nightly.pray.com^
 ||ablink.notice.hoopladigital.com^
 ||ablink.notice.spriggy.com.au^
-||ablink.notification.insighttimer.com^
 ||ablink.notify.homecourt.ai^
 ||ablink.notify.pray.com^
 ||ablink.nz-edm.zip.co^
@@ -784,7 +782,6 @@
 ||links.m.blueapron.com^
 ||links.mail.stubhub.com^
 ||links.marketing.getprizepool.com^
-||links.melodymusicapp.com^
 ||links.muzz.com^
 ||links.nbc.com^
 ||links.nbcnews.com^
@@ -1580,7 +1577,6 @@
 ||app.tagachi.io^
 ||app.tajawal.com^
 ||app.talksport.com^
-||app.task.io^
 ||app.test.elly.com^
 ||app.test.gobuncha.com^
 ||app.th3rdwave.coffee^
@@ -2824,7 +2820,6 @@
 ||go.clickipo.com^
 ||go.collabs.shop^
 ||go.colombia.innovatedating.com^
-||go.costpal.app^
 ||go.covoitici.fr^
 ||go.cwtv.com^
 ||go.dateinasia.innovatedating.com^
@@ -2898,7 +2893,6 @@
 ||go.hongkongcupid.date^
 ||go.hoopz.app^
 ||go.hotz.ignite.technology^
-||go.huterra.com^
 ||go.india.innovatedating.com^
 ||go.indo.innovatedating.com^
 ||go.indonesiacupid.co^
@@ -3638,7 +3632,6 @@
 ||link.doppels.com^
 ||link.dosh.cash^
 ||link.dralilabolsanelo.com^
-||link.drum.io^
 ||link.duprcoach.com^
 ||link.dvendor.com^
 ||link.ealiox.com^
@@ -3719,7 +3712,6 @@
 ||link.goconfirm.com^
 ||link.gokimboo.com^
 ||link.goldies.com.br^
-||link.goscout.it^
 ||link.gotmy.com^
 ||link.gradeproof.com^
 ||link.gradeviewapp.com^
@@ -3745,7 +3737,6 @@
 ||link.hebbes.app^
 ||link.hermanpro.com^
 ||link.hiccup.dev^
-||link.hivexchange.com.au^
 ||link.hobbinity.com^
 ||link.hola.health^
 ||link.home.id^
@@ -4099,7 +4090,6 @@
 ||link.tomoloyalty.com^
 ||link.tomoloyaltysg.com^
 ||link.toolbelt.work^
-||link.topio.me^
 ||link.touchsurgery.com^
 ||link.tradee.com^
 ||link.tradhart.com^
@@ -4735,7 +4725,6 @@
 ||play.getpeel.app^
 ||play.jdb888.club^
 ||play.journey8.com^
-||play.jt-market02.site^
 ||play.locphat88.vip^
 ||play.maxgame.win^
 ||play.oncasino-707.com^
@@ -4807,7 +4796,6 @@
 ||qualitas-app.hotdoc.com.au^
 ||quantum5-invite-test.ander.ai^
 ||quest.epoise.com^
-||question.snapiio.com^
 ||questtest.epoise.com^
 ||quick.openapp.link^
 ||r-beta.y.info^
@@ -5290,7 +5278,6 @@
 ||testapplink.flightbridge.com^
 ||testbnc.mksp.io^
 ||testbranch.onsequel.com^
-||testgo.huterra.com^
 ||testlink.bambinoapp.com^
 ||testlink.blueheart.io^
 ||testlink.covve.com^

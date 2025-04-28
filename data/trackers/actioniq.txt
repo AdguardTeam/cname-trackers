@@ -88,10 +88,10 @@
 ||meta-events.velonews.com^
 ||meta-events.womensrunning.com^
 ||meta-events.yellowstonepark.com^
+||mr-in-staging.beginlearning.com^
 ||mr-in.beginlearning.com^
-||mr-in.littlepassports.com^
 ||mr.pinkbike.com^
 ||anx-new.beginlearning.com^
 ||anx-new.littlepassports.com^
+||mr-in.littlepassports.com^
 ||anx-staging.learnwithhomer.com^
-||mr-in-staging.beginlearning.com^

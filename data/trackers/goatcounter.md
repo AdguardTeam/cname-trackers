@@ -57,6 +57,7 @@
     * gpuzelenograd-github.goatcounter.com
     * gradient.goatcounter.com
     * h2l.goatcounter.com
+    * hadejkde.goatcounter.com
     * haseebmajid.goatcounter.com
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
@@ -79,6 +80,7 @@
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
     * law-tmchippewa-com.goatcounter.com
+    * law-umitribe-org.goatcounter.com
     * lco-nsn-us-open-law.goatcounter.com
     * localhosed.goatcounter.com
     * lspeed.goatcounter.com
@@ -204,6 +206,7 @@
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | stats.brendanhanke.com | gradient.goatcounter.com |
 | gc.his2nd.life | h2l.goatcounter.com |
+| stats.hadejkde.cz | hadejkde.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
@@ -226,6 +229,7 @@
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
+| analytics.law.umitribe.org | law-umitribe-org.goatcounter.com |
 | analytics.law.lco-nsn.gov | lco-nsn-us-open-law.goatcounter.com |
 | stats.svc.lol | localhosed.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |

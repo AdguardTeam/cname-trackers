@@ -623,7 +623,6 @@
 | app.tagachi.io | custom.bnc.lt |
 | app.tajawal.com | custom.bnc.lt |
 | app.talksport.com | custom.bnc.lt |
-| app.task.io | custom.bnc.lt |
 | app.test.elly.com | custom.bnc.lt |
 | app.test.gobuncha.com | custom.bnc.lt |
 | app.th3rdwave.coffee | custom.bnc.lt |
@@ -1867,7 +1866,6 @@
 | go.clickipo.com | custom.bnc.lt |
 | go.collabs.shop | custom.bnc.lt |
 | go.colombia.innovatedating.com | custom.bnc.lt |
-| go.costpal.app | custom.bnc.lt |
 | go.covoitici.fr | custom.bnc.lt |
 | go.cwtv.com | custom.bnc.lt |
 | go.dateinasia.innovatedating.com | custom.bnc.lt |
@@ -1941,7 +1939,6 @@
 | go.hongkongcupid.date | custom.bnc.lt |
 | go.hoopz.app | custom.bnc.lt |
 | go.hotz.ignite.technology | custom.bnc.lt |
-| go.huterra.com | custom.bnc.lt |
 | go.india.innovatedating.com | custom.bnc.lt |
 | go.indo.innovatedating.com | custom.bnc.lt |
 | go.indonesiacupid.co | custom.bnc.lt |
@@ -2681,7 +2678,6 @@
 | link.doppels.com | custom.bnc.lt |
 | link.dosh.cash | custom.bnc.lt |
 | link.dralilabolsanelo.com | custom.bnc.lt |
-| link.drum.io | custom.bnc.lt |
 | link.duprcoach.com | custom.bnc.lt |
 | link.dvendor.com | custom.bnc.lt |
 | link.ealiox.com | custom.bnc.lt |
@@ -2762,7 +2758,6 @@
 | link.goconfirm.com | custom.bnc.lt |
 | link.gokimboo.com | custom.bnc.lt |
 | link.goldies.com.br | custom.bnc.lt |
-| link.goscout.it | custom.bnc.lt |
 | link.gotmy.com | custom.bnc.lt |
 | link.gradeproof.com | custom.bnc.lt |
 | link.gradeviewapp.com | custom.bnc.lt |
@@ -2788,7 +2783,6 @@
 | link.hebbes.app | custom.bnc.lt |
 | link.hermanpro.com | custom.bnc.lt |
 | link.hiccup.dev | custom.bnc.lt |
-| link.hivexchange.com.au | custom.bnc.lt |
 | link.hobbinity.com | custom.bnc.lt |
 | link.hola.health | custom.bnc.lt |
 | link.home.id | custom.bnc.lt |
@@ -3142,7 +3136,6 @@
 | link.tomoloyalty.com | custom.bnc.lt |
 | link.tomoloyaltysg.com | custom.bnc.lt |
 | link.toolbelt.work | custom.bnc.lt |
-| link.topio.me | custom.bnc.lt |
 | link.touchsurgery.com | custom.bnc.lt |
 | link.tradee.com | custom.bnc.lt |
 | link.tradhart.com | custom.bnc.lt |
@@ -3778,7 +3771,6 @@
 | play.getpeel.app | custom.bnc.lt |
 | play.jdb888.club | custom.bnc.lt |
 | play.journey8.com | custom.bnc.lt |
-| play.jt-market02.site | custom.bnc.lt |
 | play.locphat88.vip | custom.bnc.lt |
 | play.maxgame.win | custom.bnc.lt |
 | play.oncasino-707.com | custom.bnc.lt |
@@ -3850,7 +3842,6 @@
 | qualitas-app.hotdoc.com.au | custom.bnc.lt |
 | quantum5-invite-test.ander.ai | custom.bnc.lt |
 | quest.epoise.com | custom.bnc.lt |
-| question.snapiio.com | custom.bnc.lt |
 | questtest.epoise.com | custom.bnc.lt |
 | quick.openapp.link | custom.bnc.lt |
 | r-beta.y.info | custom.bnc.lt |
@@ -4333,7 +4324,6 @@
 | testapplink.flightbridge.com | custom.bnc.lt |
 | testbnc.mksp.io | custom.bnc.lt |
 | testbranch.onsequel.com | custom.bnc.lt |
-| testgo.huterra.com | custom.bnc.lt |
 | testlink.bambinoapp.com | custom.bnc.lt |
 | testlink.blueheart.io | custom.bnc.lt |
 | testlink.covve.com | custom.bnc.lt |
@@ -4624,7 +4614,6 @@
 | ablink.emails.spothero.com | thirdparty.bnc.lt |
 | ablink.emails.vida.com | thirdparty.bnc.lt |
 | ablink.engage.hipages.com.au | thirdparty.bnc.lt |
-| ablink.engage.insighttimer.com | thirdparty.bnc.lt |
 | ablink.enjoy.wonder.com | thirdparty.bnc.lt |
 | ablink.feed.liven.com.au | thirdparty.bnc.lt |
 | ablink.fun.joyrun.com | thirdparty.bnc.lt |
@@ -4687,7 +4676,6 @@
 | ablink.nightly.pray.com | thirdparty.bnc.lt |
 | ablink.notice.hoopladigital.com | thirdparty.bnc.lt |
 | ablink.notice.spriggy.com.au | thirdparty.bnc.lt |
-| ablink.notification.insighttimer.com | thirdparty.bnc.lt |
 | ablink.notify.homecourt.ai | thirdparty.bnc.lt |
 | ablink.notify.pray.com | thirdparty.bnc.lt |
 | ablink.nz-edm.zip.co | thirdparty.bnc.lt |
@@ -5320,7 +5308,6 @@
 | links.m.blueapron.com | thirdparty.bnc.lt |
 | links.mail.stubhub.com | thirdparty.bnc.lt |
 | links.marketing.getprizepool.com | thirdparty.bnc.lt |
-| links.melodymusicapp.com | thirdparty.bnc.lt |
 | links.muzz.com | thirdparty.bnc.lt |
 | links.nbc.com | thirdparty.bnc.lt |
 | links.nbcnews.com | thirdparty.bnc.lt |

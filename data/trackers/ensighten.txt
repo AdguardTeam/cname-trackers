@@ -203,6 +203,7 @@
 ||dc.volkswagen.de^
 ||dc.volkswagen.pl^
 ||dc.vw.co.za^
+||dc.vw.com^
 ||dc.vw.com.mx^
 ||dc.zales.com^
 ||dc.zalesoutlet.com^
@@ -349,6 +350,7 @@
 ||tagman.thebodyshop-usa.com^
 ||tagman.thistle.com^
 ||tagman.thomsonlakes.co.uk^
+||tagman.thomsonski.co.uk^
 ||tagman.virgin-atlantic.com^
 ||tagman.virginatlantic.com^
 ||tagman.waitrose.com^

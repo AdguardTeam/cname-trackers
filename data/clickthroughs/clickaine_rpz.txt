@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745222408527        ; Serial
+           1745827208705        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,8 @@ c4n.anonimayzer.site CNAME .
 c4n.arcjav.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.hotjavmovies.com CNAME .
+c4n.marinka13.space CNAME .
+c4n.misslara12.store CNAME .
 c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
 c4n.natali9.online CNAME .
