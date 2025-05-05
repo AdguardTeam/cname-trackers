@@ -12,6 +12,7 @@
 ||orangefr.mno.link^
 ||service.utiq.com^
 ||sfr.mno.link^
+||timit.mno.link^
 ||tmi.jv-telcoid.es^
 ||tmi.vodafone.de^
 ||u.20mn.it^
@@ -117,6 +118,7 @@
 ||utiq.elperiodicoextremadura.com^
 ||utiq.elperiodicomediterraneo.com^
 ||utiq.emporda.info^
+||utiq.entrenous.fr^
 ||utiq.epe.es^
 ||utiq.espinof.com^
 ||utiq.eventfinder.de^
@@ -131,6 +133,7 @@
 ||utiq.fitbook.de^
 ||utiq.fnp.de^
 ||utiq.focus.de^
+||utiq.football.fr^
 ||utiq.fr.de^
 ||utiq.frandroid.com^
 ||utiq.fuehrerscheintest-online.de^
@@ -139,6 +142,7 @@
 ||utiq.gala.fr^
 ||utiq.gamekult.com^
 ||utiq.genbeta.com^
+||utiq.genialetricks.de^
 ||utiq.geo.fr^
 ||utiq.gesundheitsfrage.net^
 ||utiq.giessener-allgemeine.de^
@@ -159,9 +163,12 @@
 ||utiq.huelva24.com^
 ||utiq.ideal.es^
 ||utiq.informacion.es^
+||utiq.infosalus.com^
 ||utiq.ingame.de^
 ||utiq.ingolstadt-today.de^
 ||utiq.inspirational.es^
+||utiq.instyle.es^
+||utiq.ippen.media^
 ||utiq.jamesonwhiskey.com^
 ||utiq.jeuxvideo.com^
 ||utiq.jux.news^
@@ -175,6 +182,7 @@
 ||utiq.ladepeche.fr^
 ||utiq.lagacetadesalamanca.es^
 ||utiq.landtiere.de^
+||utiq.lanouvellerepublique.fr^
 ||utiq.laopinioncoruna.es^
 ||utiq.laopiniondemalaga.es^
 ||utiq.laopiniondemurcia.es^
@@ -202,6 +210,7 @@
 ||utiq.lexpress.fr^
 ||utiq.liberation-champagne.fr^
 ||utiq.lidl.de^
+||utiq.lidl.pl^
 ||utiq.lindependant.fr^
 ||utiq.listisima.com^
 ||utiq.lne.es^
@@ -220,12 +229,15 @@
 ||utiq.marmiton.org^
 ||utiq.meine-anzeigenzeitung.de^
 ||utiq.mejorconectados.com^
+||utiq.melty.fr^
+||utiq.merklespaintech.es^
 ||utiq.merkur.de^
 ||utiq.meteoconsult.es^
 ||utiq.metodomontessori.com^
 ||utiq.midilibre.fr^
 ||utiq.millenium.gg^
 ||utiq.millenium.org^
+||utiq.mittelbayerische-stellen.de^
 ||utiq.mittelbayerische.de^
 ||utiq.mno.link^
 ||utiq.mobilite-verte.com^
@@ -239,8 +251,10 @@
 ||utiq.mundoxiaomi.com^
 ||utiq.myhomebook.de^
 ||utiq.neonmag.fr^
+||utiq.news.bayern^
 ||utiq.news38.de^
 ||utiq.nicematin.com^
+||utiq.nicematin.net^
 ||utiq.nordlittoral.fr^
 ||utiq.nostalgie.fr^
 ||utiq.nrj-play.fr^
@@ -248,6 +262,7 @@
 ||utiq.nrpyrenees.fr^
 ||utiq.numerama.com^
 ||utiq.oberhessische-zeitung.de^
+||utiq.oktoberfest.bayern^
 ||utiq.op-online.de^
 ||utiq.ouest-france.fr^
 ||utiq.ozap.com^
@@ -264,6 +279,7 @@
 ||utiq.poprosa.com^
 ||utiq.programme-tv.net^
 ||utiq.programme.tv^
+||utiq.promiflash.de^
 ||utiq.psychologies.com^
 ||utiq.ptitchef.com^
 ||utiq.purebreak.com^
@@ -349,4 +365,5 @@
 ||vfdemsp.mno.link^
 ||vfes.mno.link^
 ||vfesmsp.mno.link^
+||vfuk.mno.link^
 ||yesss-a1at.mno.link^

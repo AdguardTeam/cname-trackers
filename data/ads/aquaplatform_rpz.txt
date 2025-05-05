@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -218,6 +218,7 @@ static.mondiale.co.uk CNAME .
 static.notgoingtouni.co.uk CNAME .
 static.polity.org.za CNAME .
 static.postandparcel.info CNAME .
+static.pppmag.com CNAME .
 static.proxibid.com CNAME .
 static.schrotundkorn.de CNAME .
 static.sonicplug.com CNAME .
@@ -263,6 +264,7 @@ www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
 www.servedby.jacilla.no CNAME .
 www.servedby.lintigroup.se CNAME .
+www.servedby.miningweekly.com CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.sacommunications.com CNAME .
 www.servedby.schrotundkorn.de CNAME .

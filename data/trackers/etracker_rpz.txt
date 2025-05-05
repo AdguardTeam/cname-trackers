@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -101,6 +101,7 @@ pse.gabor.com CNAME .
 ric.arrive-im-herzogpark.de CNAME .
 ric.contur-muenchen.de CNAME .
 ric.riedel-immobilien.de CNAME .
+ric.seeleben-starnbergersee.de CNAME .
 show.gruppedrei.com CNAME .
 src.vector.com CNAME .
 sst.cannapoli.de CNAME .
@@ -110,6 +111,7 @@ statistics.fruchtbarewelt.de CNAME .
 stats.die-bibel.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.kaerntnerjobs.at CNAME .
+stats.krauss-gmbh.com CNAME .
 stats.mopo.de CNAME .
 stats.oberoejobs.at CNAME .
 stats.pilz.com CNAME .
@@ -123,6 +125,7 @@ stats.united-domains.de CNAME .
 stats.wasserfilteroase.de CNAME .
 stats.wienerjobs.at CNAME .
 sun.solar-haus.de CNAME .
+system.j5media.de CNAME .
 t.canngo.express CNAME .
 tr.zuhause-finder.com CNAME .
 track.bauwirtschaft-bw.de CNAME .
@@ -142,6 +145,7 @@ wa.ostermann.eu CNAME .
 waet.datalogue.de CNAME .
 wctr.bodenverkauf.de CNAME .
 wctr.hh-klebetechnologie.de CNAME .
+wctr.hoeping.de CNAME .
 wctr.khk-karlsruhe.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
 wctr.maschinenprofi.de CNAME .
@@ -183,6 +187,7 @@ webcontr.sienagarden.de CNAME .
 webcontr.splendid-internet.de CNAME .
 webcontr.stadtwerke-ahrensburg.de CNAME .
 webcontr.synvia.de CNAME .
+webcontr.taxando.de CNAME .
 webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .

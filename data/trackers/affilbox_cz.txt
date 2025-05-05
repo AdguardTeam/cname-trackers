@@ -301,7 +301,6 @@
 ||ambassadors.childhoodpotential.com^
 ||ambassadors.guideandgrow.com^
 ||box.kryptotrejder.sk^
-||brana.ritualyomlazeni.cz^
 ||collab.zdravetricko.cz^
 ||cryptonow.algomoneo.com^
 ||dbsaysnba4ygmwav.algomoneo.com^
@@ -465,7 +464,6 @@
 ||partner.avetour.cz^
 ||partner.babypatent.sk^
 ||partner.babysigns.cz^
-||partner.bandana.cz^
 ||partner.barnaby.cz^
 ||partner.bazaroveregaly.cz^
 ||partner.bed4dogs.com^
@@ -554,12 +552,14 @@
 ||partner.eshop-rodas.cz^
 ||partner.evolutionhub.cz^
 ||partner.excaliburshop.com^
+||partner.exitshop.cz^
 ||partner.expertnavlasy.sk^
 ||partner.expresmenu.com^
 ||partner.expresmenu.cz^
 ||partner.expresmenu.pl^
 ||partner.expresmenu.sk^
 ||partner.fabulo.sk^
+||partner.farbe.cz^
 ||partner.ferratum.cz^
 ||partner.finstyle.cz^
 ||partner.firmin.cz^

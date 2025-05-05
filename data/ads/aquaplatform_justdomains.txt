@@ -207,6 +207,7 @@ static.mondiale.co.uk
 static.notgoingtouni.co.uk
 static.polity.org.za
 static.postandparcel.info
+static.pppmag.com
 static.proxibid.com
 static.schrotundkorn.de
 static.sonicplug.com
@@ -252,6 +253,7 @@ www.servedby.geminipub.com
 www.servedby.greenspring.com
 www.servedby.jacilla.no
 www.servedby.lintigroup.se
+www.servedby.miningweekly.com
 www.servedby.quirks.com
 www.servedby.sacommunications.com
 www.servedby.schrotundkorn.de

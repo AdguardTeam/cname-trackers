@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -219,6 +219,7 @@ on.qobuz.com CNAME .
 poc.warnerbros.fr CNAME .
 prod-1.moarty.com CNAME .
 prod-3.moarty.com CNAME .
+prod-4.moarty.com CNAME .
 social.agrodistribution.fr CNAME .
 social.eleveur-laitier.fr CNAME .
 social.lafranceagricole.fr CNAME .

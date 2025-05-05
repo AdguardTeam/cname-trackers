@@ -171,7 +171,6 @@
 ||alpaca.miidbaby.com^
 ||alpaca.thesocialmedwork.com^
 ||alpaca.wingmantracker.com^
-||amphibian.juergenhaller.at^
 ||amphibian.pinestc.com^
 ||amphibian.studionimbus.nl^
 ||amphibian.tboa.club^
@@ -299,7 +298,6 @@
 ||cardinal.krisenchat.de^
 ||cardinal.newman.is^
 ||cardinal.zenting.app^
-||caribou.color.io^
 ||caribou.mcgregorpublishing.com^
 ||carp.acda.app^
 ||carp.amespacios.com^
@@ -573,6 +571,7 @@
 ||hoverfly.wholeheartedceremonies.com.au^
 ||hoverfly.winchdesign.cn^
 ||hyena.baseline.is^
+||hyena.fershad.com^
 ||hyena.kitafund.com^
 ||hyena.m1guelpf.blog^
 ||hyena.wearegray.co^
@@ -680,7 +679,6 @@
 ||mackerel.passiveincome.io^
 ||magpie.onething.org^
 ||magpie.phil.dev^
-||mammal.autoidle.com^
 ||manatee.biodom.bio^
 ||mandrill.castingcollective.net^
 ||mandrill.yellowfruit.co^
@@ -831,7 +829,6 @@
 ||porpoise.azettl.net^
 ||porpoise.fruittreecottage.com.au^
 ||porpoise.kristinholl.com^
-||porpoise.numberzs.com^
 ||prairiedog.freemusic.com.au^
 ||prairiedog.hashnode.com^
 ||prairiedog.health-improvement.uk^
@@ -1002,7 +999,6 @@
 ||tarantula.tuxedo.media^
 ||tarsier.emitremmus.com^
 ||tarsier.kriterie.se^
-||tarsier.webcrafters.co^
 ||termite.queerburners.org^
 ||tern.daffy.org^
 ||tern.xebel.co^
@@ -1037,6 +1033,7 @@
 ||turtle.mushtache.com^
 ||turtle.mydataroom.io^
 ||turtle.olivier.cx^
+||turtle.sid.scot^
 ||uktgg.dev-tester.com^
 ||vampirebat.datingmedellin.com^
 ||vampirebat.febolos.es^

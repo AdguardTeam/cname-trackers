@@ -37,6 +37,7 @@ dibtk.medtronic.com
 digital.adt-worldwide.com
 digital.adt.com.uy
 dmkt.solutions.cas.org
+e.nanawall.com
 ehtel.endress.com
 eloqua-tracking.unity.com
 eloqua-tracking.unity3d.com
@@ -79,9 +80,11 @@ elqtracking.aktuellhallbarhet.se
 elqtracking.bonnierakademi.se
 elqtracking.bonniernewsevents.se
 elqtracking.dagensmedia.se
+elqtracking.dagensmedicin.se
 elqtracking.dagenssamhalle.se
 elqtracking.dagligvarunytt.se
 elqtracking.di.se
+elqtracking.fastighetsnytt.se
 elqtracking.medidata.com
 elqtracking.mercer-retirement.co.uk
 elqtracking.privataaffarer.se
@@ -582,6 +585,7 @@ tracking.okcbaseball.com
 tracking.omron.at
 tracking.omron.co.uk
 tracking.omron.co.za
+tracking.omron.cz
 tracking.omron.eu
 tracking.omron.fi
 tracking.omron.fr
@@ -607,14 +611,22 @@ tracking.regus.com
 tracking.response.terex.com
 tracking.sciex.com
 tracking.seadogs.com
+tracking.securimed.fr
 tracking.securitymsp.cisco.com
 tracking.selective.com
+tracking.seton-signalering.nl
+tracking.seton.at
+tracking.seton.be
 tracking.seton.ca
+tracking.seton.co.uk
 tracking.seton.com
 tracking.seton.de
+tracking.seton.es
 tracking.seton.fr
+tracking.seton.it
 tracking.seton.net.au
 tracking.shl.com
+tracking.signals.fr
 tracking.singlestore.com
 tracking.softwareadvice.com
 tracking.solutions.parker.com
@@ -703,6 +715,7 @@ trck.auscomms.empoweringtech.com
 trck.benefits.alliant.com
 trck.by.cevalogistics.com
 trck.comms.watlow.com
+trck.communications.fluke.com
 trck.communications.fredhutch.org
 trck.csnotification.veritas.com
 trck.discover.evaluate.com
@@ -762,6 +775,7 @@ trck.ptvlogistics.com
 trck.relacionamento.uol.com.br
 trck.renew.orhp.com
 trck.resources.blueprintgenetics.com
+trck.servicecomms.virginmediao2business.co.uk
 trck.www4.earlywarning.com
 trck.www4.paze.com
 trck.www4.zellepay.com
@@ -785,6 +799,7 @@ trk.becel.ca
 trk.becel.com
 trk.becel.com.br
 trk.becel.si
+trk.bellissandmorcom.com
 trk.berger-levrault.com
 trk.bertolli.co.uk
 trk.bertolli.com.au
@@ -1388,7 +1403,6 @@ app.knowhow.ceridian.com
 app.lacr.motorolasolutions.com
 app.leadership.kenblanchard.com
 app.learn.datafoundry.com
-app.learn.mindjet.com
 app.learn.rasmussen.edu
 app.m1.adsolutions.yp.com
 app.machspeed.bluecoat.com
@@ -2015,6 +2029,8 @@ tracking.fullsail.edu
 trk.contentmarketingawards.com
 trk.contentmarketinginstitute.com
 trk.contentmarketingworld.com
+trk.contenttechsummit.com
+trk2.informatech.com
 trkcmi.informaconnect.com
 uxplora.davivienda.com
 website-security.geotrust.com
@@ -2241,6 +2257,7 @@ events.blackboard.com
 forms.anthology.com
 forms.blackboard.com
 globalbanking.wolterskluwer.com
+go.abqisotopes.com
 go.benefits.alliant.com
 go.blackboard.com
 go.comms.watlow.com
@@ -2528,6 +2545,7 @@ automationhipaapod06-app-hs.eloquademos.com
 campaign.unia.ch
 confirm.ptvlogistics.com
 corporatepages.proximus.com
+discover.certinal.com
 discover.zycus.com
 event.unia.ch
 flythecrane.ur.ugandairlines.com
@@ -2554,6 +2572,7 @@ porsche.nabooda-auto.com
 service.athlon.com
 services.princes-trust.org.uk
 sinulle.azets.fi
+stat.lamyconcurrence.fr
 stat.lamyetudiant.fr
 stat.lamyline.fr
 stat.liaisons-sociales.fr
@@ -3330,7 +3349,7 @@ imginfo.insource.co.jp
 obrazy.dlabiznesu.pracuj.pl
 response.quest.com
 yourporscheimg.nabooda-auto.com
-images.infofreddiemac.com
+images.media-comms.realestate.com.au
 admin.smartgroup.com.au
 cars.autopia.com.au
 cars.smartfleetaustralia.com.au
@@ -3416,6 +3435,8 @@ trk.daimlertruck.com
 web.destinationretirement.co.uk
 web.hubfinancialsolutions.co.uk
 web.justadviser.com
+web.pensionbuddy.co.uk
+web.rethinkretirementincome.co.uk
 web.wearejust.co.uk
 adpia.client.adpinfo.com
 adpia130611.adpinfo.com
@@ -3538,6 +3559,7 @@ trk.encore-mx.com
 trk.encoreglobal.com
 trk.fieldandmain.com
 trk.fieldandmaininsurance.com
+trk.hargroveinc.com
 trk.powerdms.com
 trk2.avalara.com
 uk.adpinfo.com
@@ -4233,6 +4255,7 @@ lrnetherlands.wolterskluwer.com
 lrpoland.wolterskluwer.com
 lrportugal.wolterskluwer.com
 lrslovakia.wolterskluwer.com
+lrspain.wolterskluwer.com
 promotion.sedo.com
 stat.ado.hu
 stat.akkrt.hu
@@ -4579,14 +4602,17 @@ www.on24-webinars.co.uk
 www.saugellaviso.it
 www.viatrisneuropathicpain.co.uk
 www.web.internal.communications.bnpparibas
+answers.teradata.at
 answers.teradata.ch
 answers.teradata.cn
 answers.teradata.co.uk
+answers.teradata.com.au
 answers.teradata.com.cn
 answers.teradata.com.es
 answers.teradata.com.sa
 answers.teradata.com.tr
 answers.teradata.de
+answers.teradata.dk
 answers.teradata.fr
 answers.teradata.hu
 answers.teradata.in
@@ -4596,6 +4622,7 @@ answers.teradata.nl
 answers.teradata.pk
 answers.teradata.pl
 answers.teradata.ru
+answers.teradata.sa
 answers.teradata.se
 app.mktg.genesys.com
 au-partners.ingrammicro.com
@@ -4655,6 +4682,7 @@ news.mipim.com
 news.mipmarkets.com
 news.miptv.com
 news.parisphoto.com
+news.pollutec.com
 news.reedexpo.fr
 news.renodays.com
 news.salon-aps.com
@@ -4885,6 +4913,7 @@ ask.antalis.es
 ask.antalis.fi
 ask.antalis.fr
 ask.antalis.hu
+ask.antalis.ie
 ask.antalis.lv
 ask.antalis.nl
 ask.antalis.no
@@ -5002,6 +5031,7 @@ go.mwe.com
 guidance.choosemylo.com
 info.aacargo.com
 info.avtecinc.com
+info.banpronicaragua.com.ni
 info.christus.mx
 info.engage.3m.com
 info.mackayshields.com
@@ -5673,8 +5703,10 @@ t.itsehoitoapteekki.fi
 t.orion.fi
 t.orionkeraily.fi
 t.orionrespiratory.com
+t.orionvet.fi
 t.orionvet.no
 t.toxbuddy.com
+t.vetnet.fi
 tracking-capitalbank-jo-877029.p06.elqsandbox.com
 tracking.bnpparibas.fr
 tracking.bnppre.fr
@@ -5806,6 +5838,7 @@ news.dbschenker.com
 private.internal.amadeus.com
 site.comunicaciones.iesa.es
 solutions.dbschenker.com
+test.sseairtricity.com
 track.postkodlotteriet.se
 tracking.alexanderstreet.com
 tracking.almax.com
@@ -6061,7 +6094,6 @@ info.neg.co.jp
 marketing.imperialhealer.com
 marketing.teachateau.com
 marketing.vitagreen.com
-secure-anzgo.arrow.com
 study.vu.edu.au
 benelux2.secureforms.mcafee.com
 ltam2.secureforms.mcafee.com
@@ -6077,6 +6109,7 @@ eventos.cihac.com
 eventos.expomed.com.mx
 forms.sharjahart.org
 go.voiscentre.com
+i.startupsmagazine.co.uk
 info.entega.de
 info.hmisrael.co.il
 inqueritos-qa.cp.pt
@@ -6302,6 +6335,7 @@ webtracking.becker.com
 welcome.e.chiefs.com
 conference.all-energy.com.au
 gba.kwm.com
+invest.myproptech.com
 landing.kwm.com
 pages.kwm.com
 track.auckland.ac.nz
@@ -6365,6 +6399,7 @@ s1782711468.sc.origins.en25.com
 s1885709864.sc.origins.en25.com
 s2013560044.sc.origins.en25.com
 s861531437.sc.origins.en25.com
+images.infofreddiemac.com
 info.pbs.org
 information.cma-cgm.com
 knowledge.verdantis.com

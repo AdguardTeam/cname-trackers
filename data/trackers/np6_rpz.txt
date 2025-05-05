@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -297,6 +297,7 @@ tr.courrier.charentelibre.fr CNAME .
 tr.courrier.larepubliquedespyrenees.fr CNAME .
 tr.courrier.sudouest.fr CNAME .
 tr.crc.henner.com CNAME .
+tr.creative.hennessy.com CNAME .
 tr.credito.universo.pt CNAME .
 tr.crm.intersportbypitte.com CNAME .
 tr.crtl.espmp-aufr.net CNAME .
@@ -1093,6 +1094,7 @@ tr.serviceclient.effica-service.fr CNAME .
 tr.serviceclient.explore.fr CNAME .
 tr.serviceclient.gazservicerapide.fr CNAME .
 tr.serviceclient.ochauffage.fr CNAME .
+tr.serviceclient.smecso.fr CNAME .
 tr.serviceclient.somgaz.fr CNAME .
 tr.serviceclient.thermogaz.fr CNAME .
 tr.serviceclient.younited-coach.com CNAME .

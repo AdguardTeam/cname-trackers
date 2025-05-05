@@ -87,7 +87,6 @@
     * 366003812072969.wt-eu02.net
     * 367128732629814.wt-eu02.net
     * 367171131378433.wt-eu02.net
-    * 368068733707725.wt-eu02.net
     * 368352020330673.wt-eu02.net
     * 375567775761012.wt-eu02.net
     * 378118469332445.wt-eu02.net
@@ -337,7 +336,6 @@
 | web.tummytox.sk | 366003812072969.wt-eu02.net |
 | data.mediaworld.it | 367128732629814.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
-| da.bodenhaus.de | 368068733707725.wt-eu02.net |
 | web.ideaautorepair.com | 368352020330673.wt-eu02.net |
 | web.info.aiteca.it | 375567775761012.wt-eu02.net |
 | web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
@@ -566,10 +564,8 @@
 | prophet.heise.de | heise02.webtrekk.net |
 | da.hornbach.at | hornbach-02.wt-eu02.net |
 | da.hornbach.be | hornbach-02.wt-eu02.net |
-| da.hornbach.ch | hornbach-02.wt-eu02.net |
 | da.hornbach.cz | hornbach-02.wt-eu02.net |
 | da.hornbach.de | hornbach-02.wt-eu02.net |
-| da.hornbach.lu | hornbach-02.wt-eu02.net |
 | da.hornbach.nl | hornbach-02.wt-eu02.net |
 | da.hornbach.ro | hornbach-02.wt-eu02.net |
 | da.hornbach.se | hornbach-02.wt-eu02.net |

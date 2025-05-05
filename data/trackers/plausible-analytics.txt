@@ -67,6 +67,7 @@
 ||channelwatcher.panda.tech^
 ||cheese.guac.live^
 ||churro.noteapps.info^
+||collect.realignedtechnologies.com^
 ||count.gothaer-digital.de^
 ||counter.cropvid.com^
 ||counter.proxycrawl.com^
@@ -95,7 +96,6 @@
 ||lkj23jlkajsa.realestate.help^
 ||log.rhythmtowers.com^
 ||loggychops.paulsmith.site^
-||logs.theccaa.com^
 ||lytics.findairpods.com^
 ||marsupial.roleup.com^
 ||meter.bref.sh^
@@ -291,6 +291,7 @@
 ||sp.gameomatic.fr^
 ||sp.jrklein.com^
 ||sp.notifysonic.com^
+||sp.pamklein.com^
 ||sp.soniccares.com^
 ||sp.spaceomatic.fr^
 ||sp.wvoil.com^
@@ -368,7 +369,6 @@
 ||stats.bungeefit.co.uk^
 ||stats.byma.com.br^
 ||stats.byterocket.dev^
-||stats.callum.fyi^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
 ||stats.cassidyjames.com^
@@ -399,6 +399,7 @@
 ||stats.crewebo.de^
 ||stats.crypdit.com^
 ||stats.curbnumberpro.com^
+||stats.curtiscummings.me^
 ||stats.cymbiant.co.uk^
 ||stats.dailyposter.com^
 ||stats.danestevens.dev^
@@ -414,7 +415,6 @@
 ||stats.deja-lu.de^
 ||stats.depends-on-the-definition.com^
 ||stats.develop.wwdcscholars.com^
-||stats.devenet.eu^
 ||stats.devenet.info^
 ||stats.devetkomentara.net^
 ||stats.devrain.io^
@@ -639,6 +639,7 @@
 ||stats.noeticflow.com^
 ||stats.nonprofit.foundation^
 ||stats.nothingbutnylon.com^
+||stats.ntietz.com^
 ||stats.nullsecure.com^
 ||stats.nytecomics.com^
 ||stats.obiit.co^

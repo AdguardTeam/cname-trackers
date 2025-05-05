@@ -12,7 +12,9 @@
 | 1qrsumhcuudhkt4c.brandnewapp.pro | api.clickaine.com |
 | 39236100.lotre.io | api.clickaine.com |
 | a1.arabsex1.com | api.clickaine.com |
+| a2.arabsex1.com | api.clickaine.com |
 | a2.hotpornfile.org | api.clickaine.com |
+| a3.arabsex1.com | api.clickaine.com |
 | a3.hotpornfile.org | api.clickaine.com |
 | a4.hotpornfile.org | api.clickaine.com |
 | aabclkane.bachelorarchive.com | api.clickaine.com |
@@ -30,6 +32,7 @@
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
 | asg.redfans.org | api.clickaine.com |
+| bat18.gimmeporn.xyz | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
 | c4n.arcjav.com | api.clickaine.com |

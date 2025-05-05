@@ -238,7 +238,6 @@
 | a8.natural-elements.jp | trck.a8.net |
 | a8.nc-moncouture.com | trck.a8.net |
 | a8.nengahonpo.com | trck.a8.net |
-| a8.nengajyo.co.jp | trck.a8.net |
 | a8.neur.jp | trck.a8.net |
 | a8.next-hikari.jp | trck.a8.net |
 | a8.next-mobile.jp | trck.a8.net |
@@ -1054,7 +1053,6 @@
 | a8cv.jp.metrocityworld.com | trck.a8.net |
 | a8cv.jp.redodopower.com | trck.a8.net |
 | a8cv.k-ikiiki.jp | trck.a8.net |
-| a8cv.kabu-online.jp | trck.a8.net |
 | a8cv.kagoya.jp | trck.a8.net |
 | a8cv.kaimonocart.com | trck.a8.net |
 | a8cv.kaimonoform.com | trck.a8.net |
@@ -1079,7 +1077,6 @@
 | a8cv.kurashi-bears.com | trck.a8.net |
 | a8cv.kusmitea.jp | trck.a8.net |
 | a8cv.kuzefuku-arcade.jp | trck.a8.net |
-| a8cv.kxn.co.jp | trck.a8.net |
 | a8cv.kyotokimono-rental.com | trck.a8.net |
 | a8cv.l-meal.com | trck.a8.net |
 | a8cv.laclulu.com | trck.a8.net |
@@ -1264,6 +1261,7 @@
 | a8cv.smoola.jp | trck.a8.net |
 | a8cv.snkrdunk.com | trck.a8.net |
 | a8cv.softbankhikari-collabo.net | trck.a8.net |
+| a8cv.somenoya.com | trck.a8.net |
 | a8cv.somresta.jp | trck.a8.net |
 | a8cv.soundfun.co.jp | trck.a8.net |
 | a8cv.soyafarm.com | trck.a8.net |
@@ -1335,6 +1333,7 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
+| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.willfu.jp | trck.a8.net |
@@ -1489,7 +1488,6 @@
 | affiliate.ouchi.coop | trck.a8.net |
 | affiliate.petitwedding.com | trck.a8.net |
 | affiliate.rise-jms.jp | trck.a8.net |
-| affiliate.taihoshop.jp | trck.a8.net |
 | affiliate.tripact.jp | trck.a8.net |
 | afi.biyou.web-marketing.ai | trck.a8.net |
 | afi.iino.life | trck.a8.net |
@@ -1515,7 +1513,6 @@
 | clkcv.livede55.com | trck.a8.net |
 | complete.smilecbd.jp | trck.a8.net |
 | contact.kdg-yobi.com | trck.a8.net |
-| cosme.caseepo.jp | trck.a8.net |
 | cp.cp.twendee.jp | trck.a8.net |
 | cv-match.sharebase.jp | trck.a8.net |
 | cv.2jikaikun.com | trck.a8.net |
@@ -1536,7 +1533,6 @@
 | cv.codecamp.jp | trck.a8.net |
 | cv.colleize.com | trck.a8.net |
 | cv.cp-c21.com | trck.a8.net |
-| cv.crosset.onward.co.jp | trck.a8.net |
 | cv.denkichoice.jp | trck.a8.net |
 | cv.fire-bird.jp | trck.a8.net |
 | cv.gas-choice.net | trck.a8.net |

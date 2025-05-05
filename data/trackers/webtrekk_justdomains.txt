@@ -52,13 +52,10 @@ ctd.dueruote.it
 ctd.edidomus.it
 ctdfm.ilgiornale.it
 ctrkd.ilsole24ore.com
-da.bodenhaus.de
 da.hornbach.at
 da.hornbach.be
-da.hornbach.ch
 da.hornbach.cz
 da.hornbach.de
-da.hornbach.lu
 da.hornbach.nl
 da.hornbach.ro
 da.hornbach.se

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -136,9 +136,10 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
+emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -333,7 +334,6 @@ refer.naturalizer.com CNAME .
 refer.netrinc.com CNAME .
 refer.newbalance.ca CNAME .
 refer.nfhsnetwork.com CNAME .
-refer.ninjakitchen.com CNAME .
 refer.nso.com CNAME .
 refer.olehenriksen.com CNAME .
 refer.onxmaps.com CNAME .
@@ -345,6 +345,7 @@ refer.panerabread.com CNAME .
 refer.paylocity.com CNAME .
 refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
+refer.pjfitz.com CNAME .
 refer.plushbeds.com CNAME .
 refer.potterybarn.com CNAME .
 refer.potterybarnkids.com CNAME .
@@ -437,6 +438,7 @@ refer1.dollskill.com CNAME .
 refer1.experian.com CNAME .
 referabusiness.verizon.com CNAME .
 referacct.quickbooks.intuit.co.uk CNAME .
+referafriend.bose.com CNAME .
 referafriend.comcast.com CNAME .
 referafriend.discover.com CNAME .
 referafriend.xfinity.com CNAME .
@@ -709,6 +711,7 @@ share.simonandschuster.com CNAME .
 share.simplepractice.com CNAME .
 share.skycop.com CNAME .
 share.smartcu.org CNAME .
+share.smartpakequine.com CNAME .
 share.sstack.com CNAME .
 share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
@@ -772,18 +775,17 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl._domainkey.walmartmoneycard.com CNAME .
+xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em767.forgetrust.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
-emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
-xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
+xtl._domainkey.walmartmoneycard.com CNAME .
 xtl._domainkey.zoom.us CNAME .
 sftp.extole.com CNAME .

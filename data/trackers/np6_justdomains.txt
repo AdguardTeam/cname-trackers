@@ -286,6 +286,7 @@ tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr
 tr.courrier.sudouest.fr
 tr.crc.henner.com
+tr.creative.hennessy.com
 tr.credito.universo.pt
 tr.crm.intersportbypitte.com
 tr.crtl.espmp-aufr.net
@@ -1082,6 +1083,7 @@ tr.serviceclient.effica-service.fr
 tr.serviceclient.explore.fr
 tr.serviceclient.gazservicerapide.fr
 tr.serviceclient.ochauffage.fr
+tr.serviceclient.smecso.fr
 tr.serviceclient.somgaz.fr
 tr.serviceclient.thermogaz.fr
 tr.serviceclient.younited-coach.com

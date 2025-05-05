@@ -224,7 +224,6 @@ a8.narikiri.me
 a8.natural-elements.jp
 a8.nc-moncouture.com
 a8.nengahonpo.com
-a8.nengajyo.co.jp
 a8.neur.jp
 a8.next-hikari.jp
 a8.next-mobile.jp
@@ -1041,7 +1040,6 @@ a8cv.jp-shop.kiwabi.com
 a8cv.jp.metrocityworld.com
 a8cv.jp.redodopower.com
 a8cv.k-ikiiki.jp
-a8cv.kabu-online.jp
 a8cv.kagoya.jp
 a8cv.kaimonocart.com
 a8cv.kaimonoform.com
@@ -1066,7 +1064,6 @@ a8cv.kuradashi.jp
 a8cv.kurashi-bears.com
 a8cv.kusmitea.jp
 a8cv.kuzefuku-arcade.jp
-a8cv.kxn.co.jp
 a8cv.kyotokimono-rental.com
 a8cv.l-meal.com
 a8cv.laclulu.com
@@ -1251,6 +1248,7 @@ a8cv.smart-shikaku.com
 a8cv.smoola.jp
 a8cv.snkrdunk.com
 a8cv.softbankhikari-collabo.net
+a8cv.somenoya.com
 a8cv.somresta.jp
 a8cv.soundfun.co.jp
 a8cv.soyafarm.com
@@ -1322,6 +1320,7 @@ a8cv.waterserver.co.jp
 a8cv.web-planners.net
 a8cv.wedding.mynavi.jp
 a8cv.wellcrew.net
+a8cv.whynot.jp
 a8cv.will-agaclinic.com
 a8cv.will-gocon.net
 a8cv.willfu.jp
@@ -1476,7 +1475,6 @@ affiliate.kgcshop.jp
 affiliate.ouchi.coop
 affiliate.petitwedding.com
 affiliate.rise-jms.jp
-affiliate.taihoshop.jp
 affiliate.tripact.jp
 afi.biyou.web-marketing.ai
 afi.iino.life
@@ -1502,7 +1500,6 @@ clk.wagon-hire.com
 clkcv.livede55.com
 complete.smilecbd.jp
 contact.kdg-yobi.com
-cosme.caseepo.jp
 cp.cp.twendee.jp
 cv-match.sharebase.jp
 cv.2jikaikun.com
@@ -1523,7 +1520,6 @@ cv.classmall.jp
 cv.codecamp.jp
 cv.colleize.com
 cv.cp-c21.com
-cv.crosset.onward.co.jp
 cv.denkichoice.jp
 cv.fire-bird.jp
 cv.gas-choice.net

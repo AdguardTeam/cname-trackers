@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -69,7 +69,6 @@ activate.tronc.com CNAME .
 activate.troncads.com CNAME .
 activate.vagazette.com CNAME .
 activate.vivelohoy.com CNAME .
-activate1.fidelity.com CNAME .
 agility.cartoonnetwork.com CNAME .
 agility.citizensbank.com CNAME .
 agility.cnn.com CNAME .

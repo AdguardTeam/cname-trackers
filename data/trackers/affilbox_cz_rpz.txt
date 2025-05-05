@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -312,7 +312,6 @@ ambassador.notsofunnyany.com CNAME .
 ambassadors.childhoodpotential.com CNAME .
 ambassadors.guideandgrow.com CNAME .
 box.kryptotrejder.sk CNAME .
-brana.ritualyomlazeni.cz CNAME .
 collab.zdravetricko.cz CNAME .
 cryptonow.algomoneo.com CNAME .
 dbsaysnba4ygmwav.algomoneo.com CNAME .
@@ -476,7 +475,6 @@ partner.autosarm.cz CNAME .
 partner.avetour.cz CNAME .
 partner.babypatent.sk CNAME .
 partner.babysigns.cz CNAME .
-partner.bandana.cz CNAME .
 partner.barnaby.cz CNAME .
 partner.bazaroveregaly.cz CNAME .
 partner.bed4dogs.com CNAME .
@@ -565,12 +563,14 @@ partner.eshop-gyorsan.hu CNAME .
 partner.eshop-rodas.cz CNAME .
 partner.evolutionhub.cz CNAME .
 partner.excaliburshop.com CNAME .
+partner.exitshop.cz CNAME .
 partner.expertnavlasy.sk CNAME .
 partner.expresmenu.com CNAME .
 partner.expresmenu.cz CNAME .
 partner.expresmenu.pl CNAME .
 partner.expresmenu.sk CNAME .
 partner.fabulo.sk CNAME .
+partner.farbe.cz CNAME .
 partner.ferratum.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .

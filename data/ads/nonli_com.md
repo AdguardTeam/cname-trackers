@@ -238,6 +238,7 @@
 | l.zdnet.fr | tls.non.li |
 | prod-1.moarty.com | tls.non.li |
 | prod-3.moarty.com | tls.non.li |
+| prod-4.moarty.com | tls.non.li |
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |
 | www.h24.news | tls.non.li |

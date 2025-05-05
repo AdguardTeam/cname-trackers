@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -78,6 +78,7 @@ cdn.arcstudiopro.com CNAME .
 channelwatcher.panda.tech CNAME .
 cheese.guac.live CNAME .
 churro.noteapps.info CNAME .
+collect.realignedtechnologies.com CNAME .
 count.gothaer-digital.de CNAME .
 counter.cropvid.com CNAME .
 counter.proxycrawl.com CNAME .
@@ -106,7 +107,6 @@ l.lilyzhou.com CNAME .
 lkj23jlkajsa.realestate.help CNAME .
 log.rhythmtowers.com CNAME .
 loggychops.paulsmith.site CNAME .
-logs.theccaa.com CNAME .
 lytics.findairpods.com CNAME .
 marsupial.roleup.com CNAME .
 meter.bref.sh CNAME .
@@ -302,6 +302,7 @@ sp.ballsdigroup.com CNAME .
 sp.gameomatic.fr CNAME .
 sp.jrklein.com CNAME .
 sp.notifysonic.com CNAME .
+sp.pamklein.com CNAME .
 sp.soniccares.com CNAME .
 sp.spaceomatic.fr CNAME .
 sp.wvoil.com CNAME .
@@ -379,7 +380,6 @@ stats.buddiy.net CNAME .
 stats.bungeefit.co.uk CNAME .
 stats.byma.com.br CNAME .
 stats.byterocket.dev CNAME .
-stats.callum.fyi CNAME .
 stats.carrot2.org CNAME .
 stats.carrotsearch.com CNAME .
 stats.cassidyjames.com CNAME .
@@ -410,6 +410,7 @@ stats.cremashop.se CNAME .
 stats.crewebo.de CNAME .
 stats.crypdit.com CNAME .
 stats.curbnumberpro.com CNAME .
+stats.curtiscummings.me CNAME .
 stats.cymbiant.co.uk CNAME .
 stats.dailyposter.com CNAME .
 stats.danestevens.dev CNAME .
@@ -425,7 +426,6 @@ stats.deerpark.app CNAME .
 stats.deja-lu.de CNAME .
 stats.depends-on-the-definition.com CNAME .
 stats.develop.wwdcscholars.com CNAME .
-stats.devenet.eu CNAME .
 stats.devenet.info CNAME .
 stats.devetkomentara.net CNAME .
 stats.devrain.io CNAME .
@@ -650,6 +650,7 @@ stats.nodewood.com CNAME .
 stats.noeticflow.com CNAME .
 stats.nonprofit.foundation CNAME .
 stats.nothingbutnylon.com CNAME .
+stats.ntietz.com CNAME .
 stats.nullsecure.com CNAME .
 stats.nytecomics.com CNAME .
 stats.obiit.co CNAME .

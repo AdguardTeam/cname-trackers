@@ -663,6 +663,7 @@
 ||3585013.notifysrv.com^
 ||3585435.notify6.com^
 ||3587723.notifysrv.com^
+||3587729.notify6.com^
 ||3587729.notifysrv.com^
 ||3587731.notify6.com^
 ||3587731.notifysrv.com^
@@ -1034,6 +1035,7 @@
 ||4189910.notify6.com^
 ||4189916.notify6.com^
 ||4191292.notify6.com^
+||4194382.notify6.com^
 ||4195388.notify6.com^
 ||4195738.notify6.com^
 ||4196012.notify6.com^
@@ -1216,10 +1218,9 @@
 ||993.notify.optimizesrv.com^
 ||_sip._tcp.meet.3393147.notifysrv.com^
 ||_sips._tcp.3323174.notifysrv.com^
-||a.18ramp.com^
+||a.adsession.com^
 ||a.advantageclicks.net^
-||a.advertrek.com^
-||a.b2bstars.com^
+||a.asvsm.com^
 ||a.b7q9v8z.com^
 ||a.cant3am.com^
 ||a.etology.com^
@@ -1232,8 +1233,6 @@
 ||a.optimizesrv.com^
 ||a.playa.to^
 ||a.q88z1s3.com^
-||a.rocoads.net^
-||a.santabrowser.com^
 ||a.tf4srv.com^
 ||a.traffic-gold.com^
 ||a.vws4brkfst.com^
@@ -1256,7 +1255,6 @@
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
 ||adrepository.opoxv.com^
-||ads.optimizesrv.com^
 ||ads.toroadvertising.com^
 ||adult.notifysrv.com^
 ||android.notifysrv.com^
@@ -1640,9 +1638,13 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
-||a.adsession.com^
-||a.asvsm.com^
+||a.18ramp.com^
+||a.advertrek.com^
+||a.b2bstars.com^
 ||a.bizonads-ssp.com^
 ||a.n4m5x60.com^
 ||a.ouzads.com^
 ||a.r8lnet.com^
+||a.rocoads.net^
+||a.santabrowser.com^
+||ads.optimizesrv.com^

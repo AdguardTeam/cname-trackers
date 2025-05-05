@@ -112,6 +112,7 @@
     * revivehosted-delivery.aquaplatform.com
     * revivehosted-static.aquaplatform.com
     * ridgewood-delivery.aquaplatform.com
+    * ridgewood-static.aquaplatform.com
     * romand-console.aquaplatform.com
     * romand-delivery.aquaplatform.com
     * sacomm-console.aquaplatform.com
@@ -192,6 +193,7 @@
 | servedby.engineeringnews.co.za | creamer-delivery.aquaplatform.com |
 | servedby.miningweekly.com | creamer-delivery.aquaplatform.com |
 | servedby.polity.org.za | creamer-delivery.aquaplatform.com |
+| www.servedby.miningweekly.com | creamer-delivery.aquaplatform.com |
 | static.engineeringnews.co.za | creamer-static.aquaplatform.com |
 | static.miningweekly.com | creamer-static.aquaplatform.com |
 | static.polity.org.za | creamer-static.aquaplatform.com |
@@ -372,6 +374,7 @@
 | images.falconstudios.com | revivehosted-static.aquaplatform.com |
 | servedby.medlabmag.com | ridgewood-delivery.aquaplatform.com |
 | servedby.pppmag.com | ridgewood-delivery.aquaplatform.com |
+| static.pppmag.com | ridgewood-static.aquaplatform.com |
 | console.cavalier-romand.ch | romand-console.aquaplatform.com |
 | ads.cavalier-romand.ch | romand-delivery.aquaplatform.com |
 | console.sacommunications.com | sacomm-console.aquaplatform.com |

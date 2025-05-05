@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,6 +142,7 @@ $TTL 300
 1.www.ns2l8nn10rns-6rlr38mp.xyz CNAME .
 1.www.o-3vq0t1kqukk9pns.xyz CNAME .
 1.www.omomku7r4n3vo55rp5k.xyz CNAME .
+1.www.putridgadzooks.com CNAME .
 1.www.r033o0p37qr4v914m06om.xyz CNAME .
 1.www.rl1u0wknm1onstp8395too.xyz CNAME .
 1.www.sn2rrlv57qpss5w-qk8llu.xyz CNAME .
@@ -879,7 +880,6 @@ www.96679950.xyz CNAME .
 www.97496b9d.xyz CNAME .
 www.98140548.xyz CNAME .
 www.98383163.xyz CNAME .
-www.98643801.xyz CNAME .
 www.98738797.xyz CNAME .
 www.98853171.xyz CNAME .
 www.9m-mlvrsosov-qmrl4.xyz CNAME .
@@ -902,7 +902,9 @@ www.dcad1d97.xyz CNAME .
 www.e652a487.xyz CNAME .
 www.e8e2063b.xyz CNAME .
 www.ea6c0ac4.xyz CNAME .
+www.f33d11b5.xyz CNAME .
 www.f54cd504.xyz CNAME .
+www.fe9dc503.xyz CNAME .
 www.ko9t6qv2kt8psullo7pputs.xyz CNAME .
 www.kq6mv8mpvs4m10r449nms6.xyz CNAME .
 www.ns2l8nn10rns-6rlr38mp.xyz CNAME .

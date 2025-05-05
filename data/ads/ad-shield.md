@@ -139,6 +139,7 @@
 | 1.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
 | 1.www.o-3vq0t1kqukk9pns.xyz | ad-shield.cc |
 | 1.www.omomku7r4n3vo55rp5k.xyz | ad-shield.cc |
+| 1.www.putridgadzooks.com | ad-shield.cc |
 | 1.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 1.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 1.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -876,7 +877,6 @@
 | www.97496b9d.xyz | ad-shield.cc |
 | www.98140548.xyz | ad-shield.cc |
 | www.98383163.xyz | ad-shield.cc |
-| www.98643801.xyz | ad-shield.cc |
 | www.98738797.xyz | ad-shield.cc |
 | www.98853171.xyz | ad-shield.cc |
 | www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
@@ -899,7 +899,9 @@
 | www.e652a487.xyz | ad-shield.cc |
 | www.e8e2063b.xyz | ad-shield.cc |
 | www.ea6c0ac4.xyz | ad-shield.cc |
+| www.f33d11b5.xyz | ad-shield.cc |
 | www.f54cd504.xyz | ad-shield.cc |
+| www.fe9dc503.xyz | ad-shield.cc |
 | www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |

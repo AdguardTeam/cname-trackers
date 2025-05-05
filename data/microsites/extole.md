@@ -219,7 +219,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -287,6 +286,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
@@ -412,7 +412,6 @@
     * newtonbaby.extole.io
     * nfhs-network.extole.io
     * ngfcu.extole.io
-    * ninja-kitchen.extole.io
     * novig.extole.io
     * nutribullet.extole.io
     * nuts.extole.io
@@ -446,6 +445,7 @@
     * petplan.extole.io
     * petsbest.extole.io
     * pimsleur.extole.io
+    * pjfitz.extole.io
     * plush-beds.extole.io
     * policygenius.extole.io
     * popcorn-factory.extole.io
@@ -473,6 +473,7 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
+    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -508,6 +509,7 @@
     * skycop.extole.io
     * sleepnumber.extole.io
     * smartcu.extole.io
+    * smartpakequine.extole.io
     * smashbox.extole.io
     * snap-finance.extole.io
     * soma.extole.io
@@ -585,7 +587,6 @@
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
     * walmartmoneycard.extole.io
-    * walmartmoneycard.xtl.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
     * westerracu.extole.io
@@ -598,6 +599,7 @@
     * wombat.extole.io
     * wrangler.extole.io
     * xfinity.extole.io
+    * xfinity.xtl.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
     * zenwork.extole.io
@@ -709,6 +711,7 @@
 | refer.bose.com | bose.extole.io |
 | refer.bose.de | bose.extole.io |
 | refer.bose.fr | bose.extole.io |
+| referafriend.bose.com | bose.extole.io |
 | share.bose.ca | bose.extole.io |
 | share.bose.co.nz | bose.extole.io |
 | share.bose.com.au | bose.extole.io |
@@ -759,7 +762,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -857,6 +859,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
@@ -1096,7 +1099,6 @@
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | share.ngfcu.us | ngfcu.extole.io |
-| refer.ninjakitchen.com | ninja-kitchen.extole.io |
 | share.novig.us | novig.extole.io |
 | share.nutribullet.com | nutribullet.extole.io |
 | share.nuts.com | nuts.extole.io |
@@ -1149,6 +1151,7 @@
 | share.petsbest.com | petsbest.extole.io |
 | indique.phooto.com.br | phooto.extole.com |
 | refer.pimsleur.com | pimsleur.extole.io |
+| refer.pjfitz.com | pjfitz.extole.io |
 | refer.cbdpillow.com | plush-beds.extole.io |
 | refer.ecoterrabeds.com | plush-beds.extole.io |
 | refer.latexforless.com | plush-beds.extole.io |
@@ -1188,6 +1191,7 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
+| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1237,6 +1241,7 @@
 | share.skycop.com | skycop.extole.io |
 | refer.sleepnumber.com | sleepnumber.extole.io |
 | share.smartcu.org | smartcu.extole.io |
+| share.smartpakequine.com | smartpakequine.extole.io |
 | refer.smashbox.com | smashbox.extole.io |
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
@@ -1358,7 +1363,6 @@
 | share.vonage.co.uk | vonagebusinessuk.extole.io |
 | share.wagwalking.com | wagwalking.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
-| xtl._domainkey.walmartmoneycard.com | walmartmoneycard.xtl.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
 | refer.themvpkc.com | wearesouthwind.extole.io |
@@ -1381,8 +1385,10 @@
 | referafriend.comcast.com | xfinity.extole.io |
 | referafriend.xfinity.com | xfinity.extole.io |
 | www.refer.xfinity.com | xfinity.extole.io |
+| xtl._domainkey.mail.propertyperks.xfinity.com | xfinity.xtl.extole.io |
 | xtl._domainkey.forgetrust.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.mail.propertyperks.xfinity.com | xtl.domainkey.u82658.wl159.sendgrid.net |
+| xtl._domainkey.walmartmoneycard.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.zoom.us | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
 | share.zenbusiness.com | zenbusiness.extole.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,13 +63,10 @@ ctd.dueruote.it CNAME .
 ctd.edidomus.it CNAME .
 ctdfm.ilgiornale.it CNAME .
 ctrkd.ilsole24ore.com CNAME .
-da.bodenhaus.de CNAME .
 da.hornbach.at CNAME .
 da.hornbach.be CNAME .
-da.hornbach.ch CNAME .
 da.hornbach.cz CNAME .
 da.hornbach.de CNAME .
-da.hornbach.lu CNAME .
 da.hornbach.nl CNAME .
 da.hornbach.ro CNAME .
 da.hornbach.se CNAME .

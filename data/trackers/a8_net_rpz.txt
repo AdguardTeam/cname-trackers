@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -235,7 +235,6 @@ a8.narikiri.me CNAME .
 a8.natural-elements.jp CNAME .
 a8.nc-moncouture.com CNAME .
 a8.nengahonpo.com CNAME .
-a8.nengajyo.co.jp CNAME .
 a8.neur.jp CNAME .
 a8.next-hikari.jp CNAME .
 a8.next-mobile.jp CNAME .
@@ -1052,7 +1051,6 @@ a8cv.jp-shop.kiwabi.com CNAME .
 a8cv.jp.metrocityworld.com CNAME .
 a8cv.jp.redodopower.com CNAME .
 a8cv.k-ikiiki.jp CNAME .
-a8cv.kabu-online.jp CNAME .
 a8cv.kagoya.jp CNAME .
 a8cv.kaimonocart.com CNAME .
 a8cv.kaimonoform.com CNAME .
@@ -1077,7 +1075,6 @@ a8cv.kuradashi.jp CNAME .
 a8cv.kurashi-bears.com CNAME .
 a8cv.kusmitea.jp CNAME .
 a8cv.kuzefuku-arcade.jp CNAME .
-a8cv.kxn.co.jp CNAME .
 a8cv.kyotokimono-rental.com CNAME .
 a8cv.l-meal.com CNAME .
 a8cv.laclulu.com CNAME .
@@ -1262,6 +1259,7 @@ a8cv.smart-shikaku.com CNAME .
 a8cv.smoola.jp CNAME .
 a8cv.snkrdunk.com CNAME .
 a8cv.softbankhikari-collabo.net CNAME .
+a8cv.somenoya.com CNAME .
 a8cv.somresta.jp CNAME .
 a8cv.soundfun.co.jp CNAME .
 a8cv.soyafarm.com CNAME .
@@ -1333,6 +1331,7 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
+a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .
@@ -1487,7 +1486,6 @@ affiliate.kgcshop.jp CNAME .
 affiliate.ouchi.coop CNAME .
 affiliate.petitwedding.com CNAME .
 affiliate.rise-jms.jp CNAME .
-affiliate.taihoshop.jp CNAME .
 affiliate.tripact.jp CNAME .
 afi.biyou.web-marketing.ai CNAME .
 afi.iino.life CNAME .
@@ -1513,7 +1511,6 @@ clk.wagon-hire.com CNAME .
 clkcv.livede55.com CNAME .
 complete.smilecbd.jp CNAME .
 contact.kdg-yobi.com CNAME .
-cosme.caseepo.jp CNAME .
 cp.cp.twendee.jp CNAME .
 cv-match.sharebase.jp CNAME .
 cv.2jikaikun.com CNAME .
@@ -1534,7 +1531,6 @@ cv.classmall.jp CNAME .
 cv.codecamp.jp CNAME .
 cv.colleize.com CNAME .
 cv.cp-c21.com CNAME .
-cv.crosset.onward.co.jp CNAME .
 cv.denkichoice.jp CNAME .
 cv.fire-bird.jp CNAME .
 cv.gas-choice.net CNAME .

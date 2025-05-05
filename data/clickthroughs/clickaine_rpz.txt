@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1745827208705        ; Serial
+           1746432009076        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,7 +15,9 @@ $TTL 300
 1qrsumhcuudhkt4c.brandnewapp.pro CNAME .
 39236100.lotre.io CNAME .
 a1.arabsex1.com CNAME .
+a2.arabsex1.com CNAME .
 a2.hotpornfile.org CNAME .
+a3.arabsex1.com CNAME .
 a3.hotpornfile.org CNAME .
 a4.hotpornfile.org CNAME .
 aabclkane.bachelorarchive.com CNAME .
@@ -33,6 +35,7 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
+bat18.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.arcjav.com CNAME .

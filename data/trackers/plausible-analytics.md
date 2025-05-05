@@ -79,6 +79,7 @@
 | channelwatcher.panda.tech | custom.plausible.io |
 | cheese.guac.live | custom.plausible.io |
 | churro.noteapps.info | custom.plausible.io |
+| collect.realignedtechnologies.com | custom.plausible.io |
 | count.gothaer-digital.de | custom.plausible.io |
 | counter.cropvid.com | custom.plausible.io |
 | counter.proxycrawl.com | custom.plausible.io |
@@ -107,7 +108,6 @@
 | lkj23jlkajsa.realestate.help | custom.plausible.io |
 | log.rhythmtowers.com | custom.plausible.io |
 | loggychops.paulsmith.site | custom.plausible.io |
-| logs.theccaa.com | custom.plausible.io |
 | lytics.findairpods.com | custom.plausible.io |
 | marsupial.roleup.com | custom.plausible.io |
 | meter.bref.sh | custom.plausible.io |
@@ -303,6 +303,7 @@
 | sp.gameomatic.fr | custom.plausible.io |
 | sp.jrklein.com | custom.plausible.io |
 | sp.notifysonic.com | custom.plausible.io |
+| sp.pamklein.com | custom.plausible.io |
 | sp.soniccares.com | custom.plausible.io |
 | sp.spaceomatic.fr | custom.plausible.io |
 | sp.wvoil.com | custom.plausible.io |
@@ -380,7 +381,6 @@
 | stats.bungeefit.co.uk | custom.plausible.io |
 | stats.byma.com.br | custom.plausible.io |
 | stats.byterocket.dev | custom.plausible.io |
-| stats.callum.fyi | custom.plausible.io |
 | stats.carrot2.org | custom.plausible.io |
 | stats.carrotsearch.com | custom.plausible.io |
 | stats.cassidyjames.com | custom.plausible.io |
@@ -411,6 +411,7 @@
 | stats.crewebo.de | custom.plausible.io |
 | stats.crypdit.com | custom.plausible.io |
 | stats.curbnumberpro.com | custom.plausible.io |
+| stats.curtiscummings.me | custom.plausible.io |
 | stats.cymbiant.co.uk | custom.plausible.io |
 | stats.dailyposter.com | custom.plausible.io |
 | stats.danestevens.dev | custom.plausible.io |
@@ -426,7 +427,6 @@
 | stats.deja-lu.de | custom.plausible.io |
 | stats.depends-on-the-definition.com | custom.plausible.io |
 | stats.develop.wwdcscholars.com | custom.plausible.io |
-| stats.devenet.eu | custom.plausible.io |
 | stats.devenet.info | custom.plausible.io |
 | stats.devetkomentara.net | custom.plausible.io |
 | stats.devrain.io | custom.plausible.io |
@@ -651,6 +651,7 @@
 | stats.noeticflow.com | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
 | stats.nothingbutnylon.com | custom.plausible.io |
+| stats.ntietz.com | custom.plausible.io |
 | stats.nullsecure.com | custom.plausible.io |
 | stats.nytecomics.com | custom.plausible.io |
 | stats.obiit.co | custom.plausible.io |
