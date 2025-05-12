@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,7 +44,6 @@ analytics.ramiyer.me CNAME .
 analytics.recamov.com CNAME .
 analytics.redistributemag.com CNAME .
 analytics.sideprojectsoftware.com CNAME .
-analytics.sixfigureswine.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.thegroupbuyexperiment.com CNAME .
 analytics.top10-charts.com CNAME .
@@ -89,7 +88,6 @@ ds.webprojectslab.com CNAME .
 eliteclng.ericksonbuilt.com CNAME .
 events.mikescerealshack.co CNAME .
 explore.bytelab.uk CNAME .
-external.techopian.com CNAME .
 extramilefloorcare.ericksonbuilt.com CNAME .
 galop.leferacheval-saintcloud.com CNAME .
 hej.henriksommerfeld.se CNAME .
@@ -186,7 +184,6 @@ plausible.conveyal.com CNAME .
 plausible.countingindia.com CNAME .
 plausible.dailytics.com CNAME .
 plausible.dev.logicboard.com CNAME .
-plausible.dingran.me CNAME .
 plausible.doctave.com CNAME .
 plausible.easytrak.io CNAME .
 plausible.ejs.dev CNAME .
@@ -818,6 +815,7 @@ stats.tresor.one CNAME .
 stats.trigo.at CNAME .
 stats.trimbles.ie CNAME .
 stats.trussed.dev CNAME .
+stats.trypricelist.com CNAME .
 stats.tubecalculator.co.uk CNAME .
 stats.turisme.nu CNAME .
 stats.twhl.xyz CNAME .
@@ -837,6 +835,7 @@ stats.vican.me CNAME .
 stats.vinkkaa.fi CNAME .
 stats.visions.ch CNAME .
 stats.voltimum.com CNAME .
+stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
 stats.warrantynowvoid.com CNAME .
 stats.websnap.app CNAME .

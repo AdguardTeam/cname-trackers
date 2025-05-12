@@ -443,6 +443,7 @@
 ||contentservices.brightlending.com^
 ||contentservices.clearairlending.com^
 ||contentservices.zurvita.com^
+||cookiemonster.calcas.com^
 ||creditapp.rogersbank.com^
 ||creditcheck.digitecgalaxus.ch^
 ||csource.rentals.com^
@@ -695,7 +696,6 @@
 ||mbrstat.mywoodmen.org^
 ||meiodepagamento.campanhaporto.com.br^
 ||membership-device.secured-igaming-services.com^
-||metrics.myfrs.com^
 ||metrix.motosport.com^
 ||metrix.us.ovhcloud.com^
 ||mnt.sbisec.co.jp^
@@ -774,6 +774,7 @@
 ||prod-consumers.chaperone.lumindigitalhosting.com^
 ||prod-cstonefcu.chaperone.lumindigitalhosting.com^
 ||prod-dccuva.chaperone.lumindigitalhosting.com^
+||prod-dexsta.chaperone.lumindigitalhosting.com^
 ||prod-ffcuin.chaperone.lumindigitalhosting.com^
 ||prod-firstmark.chaperone.lumindigitalhosting.com^
 ||prod-fsfcutn.chaperone.lumindigitalhosting.com^

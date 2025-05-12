@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,6 +142,7 @@ cmp.dieterengroup.com CNAME .
 cmp.dieterenmobilitycompany.be CNAME .
 cmp.microlino.be CNAME .
 cmp.microlino.fr CNAME .
+cmp.mijnwinterbanden.be CNAME .
 cmp.myaudi.be CNAME .
 cmp.myway.be CNAME .
 cmp.porsche.be CNAME .
@@ -268,6 +269,7 @@ gst.pulse.buyatoyota.com CNAME .
 gst.pulse.toyota.com CNAME .
 ims.tescoinsurance.com CNAME .
 ims2.tescotravelmoney.com CNAME .
+ims3.tescogiftcards.com CNAME .
 latimes.activate.ensighten.com CNAME .
 letsencrypt.data.ensighten.com CNAME .
 measure.ensighten.com CNAME .

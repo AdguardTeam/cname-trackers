@@ -223,7 +223,6 @@
 ||affiliate.novakabelka.cz^
 ||affiliate.nutricnitycinky.cz^
 ||affiliate.offroadsafari.cz^
-||affiliate.okamih.cz^
 ||affiliate.onlinepsiskola.cz^
 ||affiliate.organikk.cz^
 ||affiliate.pasti.cz^
@@ -744,7 +743,6 @@
 ||partner.spokojenypes.cz^
 ||partner.spopo.cz^
 ||partner.sporthangar.cz^
-||partner.starnails.cz^
 ||partner.stavario.com^
 ||partner.strendem.cz^
 ||partner.stromkyonline.cz^
@@ -761,7 +759,6 @@
 ||partner.thechillidoctor.cz^
 ||partner.thelisteningworld.com^
 ||partner.top-obaly.cz^
-||partner.tozax.cz^
 ||partner.tozax.sk^
 ||partner.tradewyx.com^
 ||partner.tyano.cz^
@@ -918,7 +915,6 @@
 ||partneri.toothy.cz^
 ||partneri.tradicne-feng-shui.sk^
 ||partneri.trenink-vyjednavani.cz^
-||partneri.trollbeads.cz^
 ||partneri.trollbeadscz.com^
 ||partneri.tvorboshop.cz^
 ||partneri.umenibytzdrav.cz^
@@ -942,6 +938,7 @@
 ||partners.almaf.cz^
 ||partners.bonyacademy.com^
 ||partners.elitecoaching.cz^
+||partners.henrysmusic.com^
 ||partners.pocitarna.cz^
 ||partners.puravidashop.cz^
 ||partners.spiritradar.com^

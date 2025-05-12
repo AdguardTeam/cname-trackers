@@ -81,6 +81,7 @@ data-0827b0d9ef.windsurfen-lernen.de
 data-0898a580fd.immo-schaumburg.de
 data-0898a580fd.szlz.de
 data-08ab9d2892.fupa.net
+data-08ab9d2892.volksstimme.de
 data-08d52e2a42.handelsblatt.com
 data-08ef81a003.sbz-online.de
 data-0931aaf80f.apps.iocnt.de
@@ -461,7 +462,6 @@ data-3c5dd2a388.zuhausewohnen.de
 data-3c672b4f0d.rtl-up.de
 data-3c672b4f0d.rtlplus.de
 data-3c91d46d9d.smarterworld.de
-data-3c91d46d9d.weka-fachmedien.de
 data-3ca7289259.rtlradio.de
 data-3cb5515026.harpersbazaar.de
 data-3cce760e0e.gq-magazin.de
@@ -1004,6 +1004,8 @@ data-707aff899d.donna-magazin.de
 data-707aff899d.funke.fun
 data-707aff899d.myself.de
 data-70f37c510a.jobs-im-suedwesten.de
+data-70f37c510a.skol.de
+data-70f37c510a.stellenanzeigen.de
 data-70f37c510a.suedkurier-medienhaus.de
 data-70f37c510a.suedkurier.de
 data-70f3958feb.bauwelt.de
@@ -1112,6 +1114,7 @@ data-8449537926.cellesche-zeitung.de
 data-8449537926.cz.de
 data-8459ce106e.bike-x.de
 data-8468e8ebc5.laola1.at
+data-849004cc69.radio-regenbogen.de
 data-849004cc69.regenbogen.de
 data-84926a5f67.energie-und-management.de
 data-84a0f3455d.transfermarkt.at
@@ -1317,6 +1320,7 @@ data-9ab8a13cda.it-business.de
 data-9abcf11034.einfachkochen.de
 data-9ac0797a75.4gamechangers.io
 data-9b2f644d2c.einfachbacken.de
+data-9b57e703d3.zm-online.de
 data-9b6c55490e.afz.de
 data-9b6c55490e.fleischwirtschaft.de
 data-9b6d0bb310.print.de
@@ -1388,6 +1392,7 @@ data-a0e53f0266.westjob.at
 data-a0f0ae1310.gelbeseiten-schluesseldienst.de
 data-a0f0ae1310.gelbeseiten.de
 data-a0f0ae1310.goyellow.de
+data-a0f0ae1310.t-online.de
 data-a113f4b41d.trucker.de
 data-a114e51991.ikz.de
 data-a119898f35.kaufda.de
@@ -1405,7 +1410,9 @@ data-a2a13b1828.all-in.de
 data-a2c8256a75.jobhamster.de
 data-a2c8256a75.radio-saw.de
 data-a2c8256a75.radiosaw.eu
+data-a2c8256a75.sawmusikwelt.de
 data-a379a2e240.petbook.de
+data-a38e203a07.radio38.de
 data-a406cb7ed1.onpulson.de
 data-a47d9423c7.esslingen.de
 data-a486ca6d85.hamburg-magazin.de
@@ -1632,6 +1639,7 @@ data-be032ee936.christkindlesmarkt.de
 data-be032ee936.nanu.news
 data-be032ee936.nn.de
 data-be032ee936.nordbayern.de
+data-be23d0c7b8.apps.iocnt.de
 data-be4fd7bada.vn.at
 data-be6a291101.com-magazin.de
 data-be7aa39ed4.apps.iocnt.de
@@ -1976,6 +1984,7 @@ data-ee807be806.radioduisburg.de
 data-ee807be806.radioemscherlippe.de
 data-ee807be806.radioessen.de
 data-ee807be806.radiohagen.de
+data-ee807be806.radioherne.de
 data-ee807be806.radiokw.de
 data-eea6572f1f.apps.iocnt.de
 data-ef2b66d556.miss.at
@@ -2001,6 +2010,7 @@ data-f1c47705fc.profi.de
 data-f1c47705fc.rimondo.com
 data-f1c47705fc.susonline.de
 data-f1c47705fc.topagrar.com
+data-f1c47705fc.topagrar.pl
 data-f1c47705fc.wochenblatt.com
 data-f1e447fbcf.24auto.de
 data-f1e447fbcf.24books.de
@@ -2324,7 +2334,6 @@ data-nl.connect-professional.de
 data-nl.deutsche-apotheker-zeitung.de
 data-nl.elektroniknet.de
 data-nl.medical-design.news
-data-nl.smarterworld.de
 data-nl.tageskarte.io
 member.oewa.at
 pool1.i-am.io

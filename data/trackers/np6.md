@@ -293,6 +293,7 @@
 | tr.contact.companeo.com | tracking.bp01.net |
 | tr.contact.e-turf.fr | tracking.bp01.net |
 | tr.contact.henner.com | tracking.bp01.net |
+| tr.contact.krug.fr | tracking.bp01.net |
 | tr.contact.lvmh.fr | tracking.bp01.net |
 | tr.contact.mhl-publishing.fr | tracking.bp01.net |
 | tr.contact.ruinart.com | tracking.bp01.net |

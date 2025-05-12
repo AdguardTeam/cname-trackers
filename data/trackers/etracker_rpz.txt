@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+a.trowow.de CNAME .
 analytics.freiraumakustik.de CNAME .
 analytics.gerstacker-weinkellerei.de CNAME .
 analytics.monobloc.de CNAME .
@@ -83,6 +84,7 @@ etracker.louis.ie CNAME .
 etracker.louis.nl CNAME .
 etracker.louis.pl CNAME .
 etracker.louis.se CNAME .
+etracker.riess-gruppe.de CNAME .
 ets.verivox.com CNAME .
 ettcc.steute-controltec.com CNAME .
 ettcc.steute-leantec.com CNAME .
@@ -113,6 +115,7 @@ stats.folienmarkt.de CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.krauss-gmbh.com CNAME .
 stats.mopo.de CNAME .
+stats.no-cosmetics.de CNAME .
 stats.oberoejobs.at CNAME .
 stats.pilz.com CNAME .
 stats.rumundco.de CNAME .
@@ -167,10 +170,12 @@ webcontr.caso-design.de CNAME .
 webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
 webcontr.fsj-digital-bw.de CNAME .
+webcontr.genius.tv CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.in-akustik.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.l.de CNAME .
+webcontr.leisure.one CNAME .
 webcontr.lmz-bw.de CNAME .
 webcontr.lotto-hh.de CNAME .
 webcontr.mea-living.de CNAME .

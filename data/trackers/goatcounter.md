@@ -7,6 +7,7 @@
     * 50no.goatcounter.com
     * abdodaoud.goatcounter.com
     * abdoughnut.goatcounter.com
+    * acut3.goatcounter.com
     * afirmation.goatcounter.com
     * andreabrandi.goatcounter.com
     * apitman_com.goatcounter.com
@@ -52,7 +53,6 @@
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
     * gaywu.goatcounter.com
-    * gayying.goatcounter.com
     * gcls001239028.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
     * gopikrishna.goatcounter.com
@@ -61,6 +61,7 @@
     * h2l.goatcounter.com
     * hadejkde.goatcounter.com
     * haseebmajid.goatcounter.com
+    * hausarzt-zentrum-herne.goatcounter.com
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
     * ignatuque.goatcounter.com
@@ -78,6 +79,7 @@
     * koltyakov.goatcounter.com
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
+    * kwanok.goatcounter.com
     * landing-forest-school.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
@@ -141,6 +143,7 @@
     * ultimategopher.goatcounter.com
     * umcconnell.goatcounter.com
     * unbegames.goatcounter.com
+    * uygar-dot-sh.goatcounter.com
     * valentineus.goatcounter.com
     * vault.goatcounter.com
     * vpro.goatcounter.com
@@ -158,6 +161,7 @@
 | a.50-nuances-octets.fr | 50no.goatcounter.com |
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.abdo.wtf | abdoughnut.goatcounter.com |
+| gc.acut3.net | acut3.goatcounter.com |
 | stats.afirmacijas.lv | afirmation.goatcounter.com |
 | count.andreabrandi.com | andreabrandi.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
@@ -203,7 +207,6 @@
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
 | gc.gaywu.com | gaywu.goatcounter.com |
-| gc.gayying.com | gayying.goatcounter.com |
 | analytics.leespace.co | gcls001239028.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
@@ -212,6 +215,7 @@
 | gc.his2nd.life | h2l.goatcounter.com |
 | stats.hadejkde.cz | hadejkde.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
+| gc.hausarzt-zentrum-herne.de | hausarzt-zentrum-herne.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
@@ -229,6 +233,7 @@
 | www.stats.spflow.com | koltyakov.goatcounter.com |
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
+| stats.kwanok.me | kwanok.goatcounter.com |
 | stats.forest-school.am | landing-forest-school.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
@@ -293,6 +298,7 @@
 | stats.hedy.dev | ultimategopher.goatcounter.com |
 | stats.umcconnell.net | umcconnell.goatcounter.com |
 | pageviews.unbegames.com | unbegames.goatcounter.com |
+| stats.uygar.sh | uygar-dot-sh.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |

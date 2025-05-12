@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,8 +43,9 @@ count.kealper.com CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
 dot-com-stats.sladewatkins.net CNAME .
+gc.acut3.net CNAME .
 gc.gaywu.com CNAME .
-gc.gayying.com CNAME .
+gc.hausarzt-zentrum-herne.de CNAME .
 gc.his2nd.life CNAME .
 gc.miluchacontraeltabaco.com CNAME .
 gc.mindenugyved.hu CNAME .
@@ -118,6 +119,7 @@ stats.k94.ch CNAME .
 stats.kc.ie CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
+stats.kwanok.me CNAME .
 stats.lspeed.org CNAME .
 stats.matteocroce.it CNAME .
 stats.mausoleum.me CNAME .
@@ -146,6 +148,7 @@ stats.tinkerer.tools CNAME .
 stats.trainsley69.me CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
+stats.uygar.sh CNAME .
 stats.w0chp.radio CNAME .
 stats.whatacools.com CNAME .
 stats.ybbond.id CNAME .

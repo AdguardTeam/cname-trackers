@@ -85,6 +85,7 @@
 ||elqtracking.dagligvarunytt.se^
 ||elqtracking.di.se^
 ||elqtracking.fastighetsnytt.se^
+||elqtracking.market.se^
 ||elqtracking.medidata.com^
 ||elqtracking.mercer-retirement.co.uk^
 ||elqtracking.privataaffarer.se^
@@ -157,6 +158,7 @@
 ||profiling.plannja.com^
 ||profiling.plannja.no^
 ||profiling.ruukki.com^
+||pubstr.acs.org^
 ||purple.mongodb.com^
 ||rtgtk.medtronic.com^
 ||sec.vmware.com^
@@ -596,9 +598,11 @@
 ||tracking.omron.pt^
 ||tracking.omron.ro^
 ||tracking.omron.se^
+||tracking.optimumgly.ca^
 ||tracking.oswegohealth.org^
 ||tracking.parcelpending.com^
 ||tracking.particuliers.engie.fr^
+||tracking.phytogen.com^
 ||tracking.plex.com^
 ||tracking.portofrotterdam.com^
 ||tracking.precisely.com^
@@ -655,7 +659,6 @@
 ||tracking.swbrailriders.com^
 ||tracking.syncsketch.com^
 ||tracking.tdk.cn^
-||tracking.thermoinfo.com^
 ||tracking.thomsonreuters.com^
 ||tracking.tink.com^
 ||tracking.tuftsmedicine.org^
@@ -671,7 +674,6 @@
 ||tracking1.cigna.co.uk^
 ||tracking1.cigna.com^
 ||tracking1.cigna.com.hk^
-||tracking1.cigna.com.tw^
 ||tracking1.cignaglobal.com^
 ||tracking1.cignaglobalhealth.com^
 ||tracking2.bankofalbuquerque.com^
@@ -928,6 +930,7 @@
 ||trk.milda.se^
 ||trk.miltonroy.com^
 ||trk.miltonroy.com.cn^
+||trk.mirasol.lat^
 ||trk.mktg.nec.com^
 ||trk.mppumps.com^
 ||trk.mycare.maimo.org^
@@ -1054,6 +1057,7 @@
 ||trkcmb.business.hsbc.com.sg^
 ||trkcmb.business.hsbc.com.tw^
 ||trkcmb.business.hsbc.com.vn^
+||trkcmb.business.hsbc.cz^
 ||trkcmb.business.hsbc.es^
 ||trkcmb.business.hsbc.fr^
 ||trkcmb.business.hsbc.it^
@@ -1096,6 +1100,7 @@
 ||trkgbm.business.hsbc.com.sg^
 ||trkgbm.business.hsbc.com.tw^
 ||trkgbm.business.hsbc.com.vn^
+||trkgbm.business.hsbc.cz^
 ||trkgbm.business.hsbc.es^
 ||trkgbm.business.hsbc.fr^
 ||trkgbm.business.hsbc.ie^
@@ -1139,6 +1144,7 @@
 ||trkhinv.business.hsbc.com.sg^
 ||trkhinv.business.hsbc.com.tw^
 ||trkhinv.business.hsbc.com.vn^
+||trkhinv.business.hsbc.cz^
 ||trkhinv.business.hsbc.es^
 ||trkhinv.business.hsbc.fr^
 ||trkhinv.business.hsbc.it^
@@ -1418,7 +1424,6 @@
 ||app.mk.westernunion.com^
 ||app.mktg.novell.com^
 ||app.network.ecitele.com^
-||app.newsletter.bisnow.com^
 ||app.nissan.my-nissan-usa.com^
 ||app.now.bomgar.com^
 ||app.now.nowtv.com^
@@ -1801,7 +1806,6 @@
 ||news.mywd.com^
 ||newsflash.elliemae.com^
 ||newsletter.standardandpoors.com^
-||newsletter.teletech.com^
 ||nidays.austria.ni.com^
 ||nidays.switzerland.ni.com^
 ||nonprofit.aon.com^
@@ -2133,8 +2137,8 @@
 ||tracking.dentsplysirona.com^
 ||tracking.go.atcc.org^
 ||tracking.healthcare.hancockregionalhospital.org^
-||trackingalumni.accenturealumni.com^
 ||trck.copeland.com^
+||trk.rush.edu^
 ||u.audi-pureprotection.com^
 ||we.care.oswegohealth.org^
 ||www.futureofcoffee.com^
@@ -2165,6 +2169,7 @@
 ||business.samsungusa.com^
 ||care.oakstreethealth.com^
 ||comms.dfsco.com^
+||da-dk.coloplastcare.com^
 ||email-em.jll-mena.com^
 ||email-em.jll.be^
 ||email-em.jll.ca^
@@ -2235,6 +2240,7 @@
 ||trk.metronet.com^
 ||trk.metronetbusiness.com^
 ||visit.oakstreethealth.com^
+||www.business.samsungusa.com^
 ||www.training.graduateschool.edu^
 ||access.acspubs.org^
 ||analytics.blackboard.com^
@@ -2278,11 +2284,8 @@
 ||now.informamail01.com^
 ||now.wealthmanagement.com^
 ||preferences.acspubs.org^
-||pubstr.acs.org^
-||pubstr.acspubs.org^
 ||pubstr.acsreviewerlab.org^
 ||pubstr.cenbrandlab.org^
-||pubstr.chemistryjobs.acs.org^
 ||pubstr.chemrxiv.org^
 ||reagents.acspubs.org^
 ||securecookies.dustin.dk^
@@ -3185,6 +3188,7 @@
 ||images.max.max-finance.co.il^
 ||images.mdtinternal.com^
 ||images.mdtpatient.com^
+||images.media-comms.realestate.com.au^
 ||images.medtronicdiabetes.com^
 ||images.medtroniclearn.com^
 ||images.messages.seagate.com^
@@ -3349,7 +3353,9 @@
 ||obrazy.dlabiznesu.pracuj.pl^
 ||response.quest.com^
 ||yourporscheimg.nabooda-auto.com^
-||images.media-comms.realestate.com.au^
+||images.e.congressionalfcu.org^
+||images.mailaway.homeaway.com.au^
+||images.marketing.amadeus.com^
 ||admin.smartgroup.com.au^
 ||cars.autopia.com.au^
 ||cars.smartfleetaustralia.com.au^
@@ -3503,6 +3509,7 @@
 ||info.fieldandmain.com^
 ||info.reutersagency.com^
 ||insights.nexansdatacenter.com^
+||kr.secure.sonosite.com^
 ||ksflo8eq4svk3eaf.secure.sonosite.com^
 ||labs.relationshipone.com^
 ||landing.newyorkjets.com^
@@ -3620,7 +3627,6 @@
 ||tracking.info.jeffersonhealth.org^
 ||tracking.lincolnfinancialgroup.lfg.com^
 ||tracking.link.boone.health^
-||trackingcareers.accenture.com^
 ||trk.jeffersonhealth.org^
 ||trk.xvantage.ingrammicro.com^
 ||web.care.sheppardpratt.org^
@@ -3986,6 +3992,7 @@
 ||trk.atxwest.com^
 ||trk.batterytechonline.com^
 ||trk.biomedboston.com^
+||trk.biomedevicesanjose.com^
 ||trk.designcon.com^
 ||trk.designnews.com^
 ||trk.dmwest.com^
@@ -4399,6 +4406,7 @@
 ||www2.info.renesas.cn^
 ||angebote.plex.com^
 ||angebote.plexonline.de^
+||automationhipaapod01-app-hs.eloquademos.com^
 ||campaign.shl.com^
 ||campaigns.engage.cebglobal.com^
 ||comm.toro.com^
@@ -4588,6 +4596,7 @@
 ||tracking1.tena.com^
 ||trk.informaconstructionmarkets.com^
 ||trk.lkr.reply.eu^
+||up.urbanpadel.fr^
 ||visit.go.tuev.cn^
 ||visit.go.tuv.com^
 ||web.internal.communications.bnpparibas^
@@ -4715,6 +4724,7 @@
 ||tracking.accent-technologies.com^
 ||tracking.go.lorainccc.edu^
 ||tracking.go.onshape.com^
+||tracking.hot.net.il^
 ||tracking.lorainccc.edu^
 ||tracking.mail.ti.com^
 ||tracking.mail.ti.com.cn^
@@ -4855,10 +4865,14 @@
 ||elq.mouser.sg^
 ||elq.mouser.sk^
 ||elq.mouser.tw^
+||elq.mouser.vn^
 ||emea.info.mouser.com^
 ||eng.info.mouser.com^
+||engage.agventure.com^
 ||engage.granular.ag^
 ||engage.hamiltoncaptel.com^
+||engage.seedconsultants.com^
+||engage.therightseed.com^
 ||eqs.accountants.intuit.com^
 ||eqs.intuit.com^
 ||forms.web.roberthalf.com^
@@ -5582,6 +5596,7 @@
 ||lp.queensberry.com.br^
 ||lp.response.deloitte.com^
 ||lp.vaivoando.com.br^
+||ma.toyobo.co.jp^
 ||marketing2.direxionshares.com^
 ||pages.feedback.hofvillage.com^
 ||pages.info.anaheimducks.com^
@@ -5724,6 +5739,7 @@
 ||www2.daikinchemicals.com^
 ||app.tuckerciviccenter.com^
 ||appcloud.appyreward.com^
+||info.putitforward.com^
 ||response.desjardins.com^
 ||archived.first.eloqua.extrahop.com^
 ||archived.learn.eloqua.extrahop.com^
@@ -6010,6 +6026,7 @@
 ||insight.gbm.hsbc.com^
 ||join.informa-events.com^
 ||join02.informamarkets.com^
+||kampanj.spiris.se^
 ||kampanj.vismaspcs.se^
 ||kampanja.bhtelecom.ba^
 ||lantern.connect.o2.co.uk^

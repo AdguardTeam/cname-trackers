@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -158,7 +158,6 @@ cdn.zkcvb.com CNAME .
 cdn.zxclan.com CNAME .
 1.bunkr-cache.se CNAME .
 39grbc.jackbarber.co.uk CNAME .
-4ke5b4ila.codedge.de CNAME .
 7wrxo2xh.iriscreative.co CNAME .
 8inhjmd.usefathom.com CNAME .
 9kz9cttz76.antonsten.com CNAME .
@@ -598,7 +597,6 @@ jackal.thetie.io CNAME .
 jay.brauerei-egg.at CNAME .
 jay.howivscode.com CNAME .
 jcpjfyikk.dogbonemarket.com CNAME .
-jellyfish.teresaharlow.com CNAME .
 jellyfish.therapieplatz-finden.de CNAME .
 jncx1s.michaellindahl.com CNAME .
 kangaroo.kraenk.de CNAME .
@@ -689,7 +687,6 @@ macaw.ianmitchell.dev CNAME .
 macaw.lab75.jp CNAME .
 mackerel.passiveincome.io CNAME .
 magpie.onething.org CNAME .
-magpie.phil.dev CNAME .
 manatee.biodom.bio CNAME .
 mandrill.castingcollective.net CNAME .
 mandrill.yellowfruit.co CNAME .
@@ -913,7 +910,6 @@ sawfish.black-forest-digital.de CNAME .
 sawfish.hxd-lab.de CNAME .
 sawfish.loqbooq.app CNAME .
 scallop.esolia.pro CNAME .
-scallop.productionrails.com CNAME .
 scallop.vav.link CNAME .
 scorpion.clare.ink CNAME .
 scorpion.gamedao.co CNAME .

@@ -60,7 +60,6 @@ bpe2.destinia.co.il
 bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
-c0i.ckoi.com
 c4dv.copinesdevoyage.com
 ca.clubavantages.net
 cbl6.destinia.gt
@@ -136,7 +135,6 @@ ea.laredoute.pt
 ea.leskidunordausud.fr
 ea.lespagnedunordausud.fr
 ea.megustaescribir.com
-ea.megustaleer.com.pe
 ea.millet-mountain.ch
 ea.millet-mountain.com
 ea.millet-mountain.de
@@ -179,6 +177,7 @@ ea.voyage-prive.co.uk
 ea.voyage-prive.es
 ea.voyage-prive.it
 ea.warnerbros.fr
+eat9.thebeat925.ca
 eb.mistermenuiserie.com
 ef.futuroscope.com
 ef.futuroscope.mobi
@@ -249,7 +248,6 @@ gdm1.toner.fr
 gf7t.cheques-cadeaux-culturels.fr
 gfn1.ugap.fr
 gfv4.destinia.co.za
-gi7a.structube.com
 gli9.inseec-bs.com
 gnh2.destinia.lv
 gsg9.carrefour-banque.fr
@@ -281,7 +279,6 @@ jun23.madeindesign.de
 jxy6.evobanco.es
 kep6.destinia.ie
 kwsjy9.oui.sncf
-l2i.qualityinnlevis.com
 lbc.lesbonscommerces.fr
 leo1.leon-de-bruxelles.fr
 let1.devialet.com
@@ -292,6 +289,7 @@ lrp7.carrefour-banque.fr
 lsv5.belambra.fr
 ltm6.destinia.se
 lwh1.carrefour-banque.fr
+ly8c.caci-online.fr
 lzuc.sfr.fr
 m3ds.subarumetropolitain.com
 mgt7.madeindesign.it
@@ -412,7 +410,6 @@ t.locasun.it
 t.locasun.nl
 t.pmu.fr
 t.voyages-sncf.com
-t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tdf1.easyviaggio.com
@@ -467,6 +464,7 @@ www.attributionday.com
 www.dataholics.tech
 www.fasttrack.fr
 www.fasttracker.fr
+www.mis.tourisme-montreal.org
 xay5o.toscane-boutique.fr
 xjq5.belambra.be
 xoq.pmubrasil.com.br
@@ -490,12 +488,15 @@ zsi7.destinia.do
 zum7cc.oui.sncf
 zyq2.destinia.sk
 5fm.985fm.ca
+c0i.ckoi.com
 c0p.cepsum.umontreal.ca
 d2u.dauphinquebec.com
-eat9.thebeat925.ca
+l2i.qualityinnlevis.com
 nym5c.bonlook.com
 rwl.tremblant.ca
 su1.les-suites.ca
+t0y.toyota.ca
 yio.tremblant.ca
 ea.mnt.fr
+gi7a.structube.com
 pk1u.melanielyne.com

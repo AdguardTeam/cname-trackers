@@ -9,5 +9,4 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | ge.chassnincom.com | heleric.com |
-| sl.elinvarpayola.com | heleric.com |
 | ui.marchesbragged.com | heleric.com |

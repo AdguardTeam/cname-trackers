@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -454,6 +454,7 @@ contentservices.ascendloans.com CNAME .
 contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
 contentservices.zurvita.com CNAME .
+cookiemonster.calcas.com CNAME .
 creditapp.rogersbank.com CNAME .
 creditcheck.digitecgalaxus.ch CNAME .
 csource.rentals.com CNAME .
@@ -706,7 +707,6 @@ matrix.cpg.org CNAME .
 mbrstat.mywoodmen.org CNAME .
 meiodepagamento.campanhaporto.com.br CNAME .
 membership-device.secured-igaming-services.com CNAME .
-metrics.myfrs.com CNAME .
 metrix.motosport.com CNAME .
 metrix.us.ovhcloud.com CNAME .
 mnt.sbisec.co.jp CNAME .
@@ -785,6 +785,7 @@ prod-comfin.chaperone.lumindigitalhosting.com CNAME .
 prod-consumers.chaperone.lumindigitalhosting.com CNAME .
 prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-dccuva.chaperone.lumindigitalhosting.com CNAME .
+prod-dexsta.chaperone.lumindigitalhosting.com CNAME .
 prod-ffcuin.chaperone.lumindigitalhosting.com CNAME .
 prod-firstmark.chaperone.lumindigitalhosting.com CNAME .
 prod-fsfcutn.chaperone.lumindigitalhosting.com CNAME .

@@ -32,8 +32,9 @@
 ||count.vidsrc.pro^
 ||counter.storydragon.nl^
 ||dot-com-stats.sladewatkins.net^
+||gc.acut3.net^
 ||gc.gaywu.com^
-||gc.gayying.com^
+||gc.hausarzt-zentrum-herne.de^
 ||gc.his2nd.life^
 ||gc.miluchacontraeltabaco.com^
 ||gc.mindenugyved.hu^
@@ -107,6 +108,7 @@
 ||stats.kc.ie^
 ||stats.ksmets.be^
 ||stats.ksr.onl^
+||stats.kwanok.me^
 ||stats.lspeed.org^
 ||stats.matteocroce.it^
 ||stats.mausoleum.me^
@@ -135,6 +137,7 @@
 ||stats.trainsley69.me^
 ||stats.transactional.blog^
 ||stats.umcconnell.net^
+||stats.uygar.sh^
 ||stats.w0chp.radio^
 ||stats.whatacools.com^
 ||stats.ybbond.id^

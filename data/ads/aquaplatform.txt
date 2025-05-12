@@ -7,6 +7,7 @@
 ||adconsole.lot-tissimo.com^
 ||adconsole.proxibid.com^
 ||adconsole.sniffies.com^
+||adconsole.the-saleroom.com^
 ||addurance-delivery.reviveservers.com^
 ||adimages.associationheadquarters.com^
 ||adimages.eva.live^
@@ -49,7 +50,6 @@
 ||api.adbility-media.com^
 ||api.aqua-adserver.com^
 ||api.metrike.com^
-||assets.lintigroup.se^
 ||banners.cincinnatimagazine.com^
 ||banners.geminipub.com^
 ||banners.leightonbroadcasting.com^
@@ -106,7 +106,6 @@
 ||creatives.goldseek.com^
 ||display.lawbulletin.com^
 ||etnomedia-static.reviveservers.com^
-||hrnorth-delivery.reviveservers.com^
 ||images.addurance.com^
 ||images.cricketworld.com^
 ||images.falconstudios.com^
@@ -118,6 +117,7 @@
 ||images.proxena-adserver.com^
 ||images.swiss-equestrian.ch^
 ||images.worldofshowjumping.com^
+||images.xtraa.org^
 ||informatm-static.reviveservers.com^
 ||lalala.geenstijl.nl^
 ||marriagetrac-delivery.reviveservers.com^
@@ -155,7 +155,6 @@
 ||servedby.insideradverts.com^
 ||servedby.jacilla.no^
 ||servedby.lamag.com^
-||servedby.lintigroup.se^
 ||servedby.livingmagonline.com^
 ||servedby.mannixmarketing.com^
 ||servedby.medlabmag.com^
@@ -178,6 +177,7 @@
 ||servedby.tahoe.com^
 ||servedby.trackandfieldnews.com^
 ||servedby.walaplusadserver.com^
+||servedby.xtraa.org^
 ||server.ad.logic-prod.viasat.io^
 ||server.ad.logic.viasat.io^
 ||static.ad.logic-prod.viasat.io^
@@ -225,6 +225,7 @@
 ||www.ads.proxibid.com^
 ||www.adserver.sniffies.com^
 ||www.adserver.sonicplug.com^
+||www.adwin.geenstijl.nl^
 ||www.api.adbility-media.com^
 ||www.api.metrike.com^
 ||www.cdn-adv.unionesarda.it^
@@ -252,7 +253,6 @@
 ||www.servedby.geminipub.com^
 ||www.servedby.greenspring.com^
 ||www.servedby.jacilla.no^
-||www.servedby.lintigroup.se^
 ||www.servedby.miningweekly.com^
 ||www.servedby.quirks.com^
 ||www.servedby.sacommunications.com^

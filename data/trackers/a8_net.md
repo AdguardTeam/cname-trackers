@@ -1090,7 +1090,6 @@
 | a8cv.leoandlea.com | trck.a8.net |
 | a8cv.lesson-note.com | trck.a8.net |
 | a8cv.leverage-learning.com | trck.a8.net |
-| a8cv.lianest.co.jp | trck.a8.net |
 | a8cv.lifenrich.co.jp | trck.a8.net |
 | a8cv.lifull.jp | trck.a8.net |
 | a8cv.livechat-berry.com | trck.a8.net |
@@ -1137,7 +1136,6 @@
 | a8cv.natulahonpo.com | trck.a8.net |
 | a8cv.naturaltech.jp | trck.a8.net |
 | a8cv.naturebreath-store.com | trck.a8.net |
-| a8cv.naturecan-fitness.jp | trck.a8.net |
 | a8cv.nd-clinic.net | trck.a8.net |
 | a8cv.netvisionacademy.com | trck.a8.net |
 | a8cv.next1-one.jp | trck.a8.net |
@@ -1333,7 +1331,6 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
-| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.willfu.jp | trck.a8.net |
@@ -1507,7 +1504,6 @@
 | click.techtree.jp | trck.a8.net |
 | clk.entry.surala.jp | trck.a8.net |
 | clk.glam-print.com | trck.a8.net |
-| clk.ingage.jp | trck.a8.net |
 | clk.liberty-e.com | trck.a8.net |
 | clk.wagon-hire.com | trck.a8.net |
 | clkcv.livede55.com | trck.a8.net |

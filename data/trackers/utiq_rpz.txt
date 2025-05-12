@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -314,6 +314,7 @@ utiq.soester-anzeiger.de CNAME .
 utiq.speakup.es CNAME .
 utiq.speisekarte.de CNAME .
 utiq.spektrum.de CNAME .
+utiq.spiegel.de CNAME .
 utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
 utiq.sportlerfrage.net CNAME .
@@ -332,8 +333,10 @@ utiq.tatort-fans.de CNAME .
 utiq.techbook.de CNAME .
 utiq.telefonica.com CNAME .
 utiq.telekom.de CNAME .
+utiq.telestar.fr CNAME .
 utiq.terrafemina.com CNAME .
 utiq.testfaz.net CNAME .
+utiq.thewatmag.com CNAME .
 utiq.thueringen24.de CNAME .
 utiq.tierfans.net CNAME .
 utiq.todoalicante.es CNAME .
@@ -355,7 +358,9 @@ utiq.verisure.fr CNAME .
 utiq.vidaextra.com CNAME .
 utiq.vitonica.com CNAME .
 utiq.voici.fr CNAME .
+utiq.volksfest-freising.de CNAME .
 utiq.wa.de CNAME .
+utiq.webnachrichten.de CNAME .
 utiq.welt-ctv.com CNAME .
 utiq.welt.de CNAME .
 utiq.werra-rundschau.de CNAME .
@@ -366,6 +371,7 @@ utiq.wlz-online.de CNAME .
 utiq.wmn.de CNAME .
 utiq.wochenblatt.de CNAME .
 utiq.xataka.com CNAME .
+utiq.xatakaciencia.com CNAME .
 utiq.xatakafoto.com CNAME .
 utiq.xatakahome.com CNAME .
 utiq.xatakamovil.com CNAME .

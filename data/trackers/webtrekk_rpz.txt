@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -384,6 +384,7 @@ web.slimjoy.es CNAME .
 web.slimjoy.it CNAME .
 web.slimjoy.org CNAME .
 web.slimjoy.sk CNAME .
+web.solesource.com CNAME .
 web.tamaris.com CNAME .
 web.tummy-tox.com CNAME .
 web.tummytox.at CNAME .
@@ -396,6 +397,7 @@ web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .
 web.update.sandiego.org CNAME .
 web.updates.ditano.com CNAME .
+web.usautosupply.com CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 web2.updates.ditano.com CNAME .

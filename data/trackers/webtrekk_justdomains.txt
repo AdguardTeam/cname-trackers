@@ -373,6 +373,7 @@ web.slimjoy.es
 web.slimjoy.it
 web.slimjoy.org
 web.slimjoy.sk
+web.solesource.com
 web.tamaris.com
 web.tummy-tox.com
 web.tummytox.at
@@ -385,6 +386,7 @@ web.tummytox.pt
 web.tummytox.sk
 web.update.sandiego.org
 web.updates.ditano.com
+web.usautosupply.com
 web.web.tomasiauto.com
 web.x.ilpost.it
 web2.updates.ditano.com

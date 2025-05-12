@@ -15,6 +15,7 @@
 | l.chesuto.jp | acweb.clog.jp |
 | l.da-te.jp | acweb.clog.jp |
 | l.dosugoi.net | acweb.clog.jp |
+| l.e-iwate.com | acweb.clog.jp |
 | l.eshizuoka.jp | acweb.clog.jp |
 | l.ffsagami.com | acweb.clog.jp |
 | l.gunmablog.net | acweb.clog.jp |

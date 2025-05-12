@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -278,6 +278,7 @@ tr.contact.cereps.fr CNAME .
 tr.contact.companeo.com CNAME .
 tr.contact.e-turf.fr CNAME .
 tr.contact.henner.com CNAME .
+tr.contact.krug.fr CNAME .
 tr.contact.lvmh.fr CNAME .
 tr.contact.mhl-publishing.fr CNAME .
 tr.contact.ruinart.com CNAME .

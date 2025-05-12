@@ -1077,7 +1077,6 @@
 ||a8cv.leoandlea.com^
 ||a8cv.lesson-note.com^
 ||a8cv.leverage-learning.com^
-||a8cv.lianest.co.jp^
 ||a8cv.lifenrich.co.jp^
 ||a8cv.lifull.jp^
 ||a8cv.livechat-berry.com^
@@ -1124,7 +1123,6 @@
 ||a8cv.natulahonpo.com^
 ||a8cv.naturaltech.jp^
 ||a8cv.naturebreath-store.com^
-||a8cv.naturecan-fitness.jp^
 ||a8cv.nd-clinic.net^
 ||a8cv.netvisionacademy.com^
 ||a8cv.next1-one.jp^
@@ -1320,7 +1318,6 @@
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.wellcrew.net^
-||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.willfu.jp^
@@ -1494,7 +1491,6 @@
 ||click.techtree.jp^
 ||clk.entry.surala.jp^
 ||clk.glam-print.com^
-||clk.ingage.jp^
 ||clk.liberty-e.com^
 ||clk.wagon-hire.com^
 ||clkcv.livede55.com^

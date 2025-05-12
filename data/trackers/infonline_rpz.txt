@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -92,6 +92,7 @@ data-0827b0d9ef.windsurfen-lernen.de CNAME .
 data-0898a580fd.immo-schaumburg.de CNAME .
 data-0898a580fd.szlz.de CNAME .
 data-08ab9d2892.fupa.net CNAME .
+data-08ab9d2892.volksstimme.de CNAME .
 data-08d52e2a42.handelsblatt.com CNAME .
 data-08ef81a003.sbz-online.de CNAME .
 data-0931aaf80f.apps.iocnt.de CNAME .
@@ -472,7 +473,6 @@ data-3c5dd2a388.zuhausewohnen.de CNAME .
 data-3c672b4f0d.rtl-up.de CNAME .
 data-3c672b4f0d.rtlplus.de CNAME .
 data-3c91d46d9d.smarterworld.de CNAME .
-data-3c91d46d9d.weka-fachmedien.de CNAME .
 data-3ca7289259.rtlradio.de CNAME .
 data-3cb5515026.harpersbazaar.de CNAME .
 data-3cce760e0e.gq-magazin.de CNAME .
@@ -1015,6 +1015,8 @@ data-707aff899d.donna-magazin.de CNAME .
 data-707aff899d.funke.fun CNAME .
 data-707aff899d.myself.de CNAME .
 data-70f37c510a.jobs-im-suedwesten.de CNAME .
+data-70f37c510a.skol.de CNAME .
+data-70f37c510a.stellenanzeigen.de CNAME .
 data-70f37c510a.suedkurier-medienhaus.de CNAME .
 data-70f37c510a.suedkurier.de CNAME .
 data-70f3958feb.bauwelt.de CNAME .
@@ -1123,6 +1125,7 @@ data-8449537926.cellesche-zeitung.de CNAME .
 data-8449537926.cz.de CNAME .
 data-8459ce106e.bike-x.de CNAME .
 data-8468e8ebc5.laola1.at CNAME .
+data-849004cc69.radio-regenbogen.de CNAME .
 data-849004cc69.regenbogen.de CNAME .
 data-84926a5f67.energie-und-management.de CNAME .
 data-84a0f3455d.transfermarkt.at CNAME .
@@ -1328,6 +1331,7 @@ data-9ab8a13cda.it-business.de CNAME .
 data-9abcf11034.einfachkochen.de CNAME .
 data-9ac0797a75.4gamechangers.io CNAME .
 data-9b2f644d2c.einfachbacken.de CNAME .
+data-9b57e703d3.zm-online.de CNAME .
 data-9b6c55490e.afz.de CNAME .
 data-9b6c55490e.fleischwirtschaft.de CNAME .
 data-9b6d0bb310.print.de CNAME .
@@ -1399,6 +1403,7 @@ data-a0e53f0266.westjob.at CNAME .
 data-a0f0ae1310.gelbeseiten-schluesseldienst.de CNAME .
 data-a0f0ae1310.gelbeseiten.de CNAME .
 data-a0f0ae1310.goyellow.de CNAME .
+data-a0f0ae1310.t-online.de CNAME .
 data-a113f4b41d.trucker.de CNAME .
 data-a114e51991.ikz.de CNAME .
 data-a119898f35.kaufda.de CNAME .
@@ -1416,7 +1421,9 @@ data-a2a13b1828.all-in.de CNAME .
 data-a2c8256a75.jobhamster.de CNAME .
 data-a2c8256a75.radio-saw.de CNAME .
 data-a2c8256a75.radiosaw.eu CNAME .
+data-a2c8256a75.sawmusikwelt.de CNAME .
 data-a379a2e240.petbook.de CNAME .
+data-a38e203a07.radio38.de CNAME .
 data-a406cb7ed1.onpulson.de CNAME .
 data-a47d9423c7.esslingen.de CNAME .
 data-a486ca6d85.hamburg-magazin.de CNAME .
@@ -1643,6 +1650,7 @@ data-be032ee936.christkindlesmarkt.de CNAME .
 data-be032ee936.nanu.news CNAME .
 data-be032ee936.nn.de CNAME .
 data-be032ee936.nordbayern.de CNAME .
+data-be23d0c7b8.apps.iocnt.de CNAME .
 data-be4fd7bada.vn.at CNAME .
 data-be6a291101.com-magazin.de CNAME .
 data-be7aa39ed4.apps.iocnt.de CNAME .
@@ -1987,6 +1995,7 @@ data-ee807be806.radioduisburg.de CNAME .
 data-ee807be806.radioemscherlippe.de CNAME .
 data-ee807be806.radioessen.de CNAME .
 data-ee807be806.radiohagen.de CNAME .
+data-ee807be806.radioherne.de CNAME .
 data-ee807be806.radiokw.de CNAME .
 data-eea6572f1f.apps.iocnt.de CNAME .
 data-ef2b66d556.miss.at CNAME .
@@ -2012,6 +2021,7 @@ data-f1c47705fc.profi.de CNAME .
 data-f1c47705fc.rimondo.com CNAME .
 data-f1c47705fc.susonline.de CNAME .
 data-f1c47705fc.topagrar.com CNAME .
+data-f1c47705fc.topagrar.pl CNAME .
 data-f1c47705fc.wochenblatt.com CNAME .
 data-f1e447fbcf.24auto.de CNAME .
 data-f1e447fbcf.24books.de CNAME .
@@ -2335,7 +2345,6 @@ data-nl.connect-professional.de CNAME .
 data-nl.deutsche-apotheker-zeitung.de CNAME .
 data-nl.elektroniknet.de CNAME .
 data-nl.medical-design.news CNAME .
-data-nl.smarterworld.de CNAME .
 data-nl.tageskarte.io CNAME .
 member.oewa.at CNAME .
 pool1.i-am.io CNAME .

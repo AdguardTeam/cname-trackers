@@ -308,6 +308,7 @@
 | utiq.speakup.es | frontend.prod.utiq-aws.net |
 | utiq.speisekarte.de | frontend.prod.utiq-aws.net |
 | utiq.spektrum.de | frontend.prod.utiq-aws.net |
+| utiq.spiegel.de | frontend.prod.utiq-aws.net |
 | utiq.spielaffe.de | frontend.prod.utiq-aws.net |
 | utiq.sport.es | frontend.prod.utiq-aws.net |
 | utiq.sportlerfrage.net | frontend.prod.utiq-aws.net |
@@ -326,8 +327,10 @@
 | utiq.techbook.de | frontend.prod.utiq-aws.net |
 | utiq.telefonica.com | frontend.prod.utiq-aws.net |
 | utiq.telekom.de | frontend.prod.utiq-aws.net |
+| utiq.telestar.fr | frontend.prod.utiq-aws.net |
 | utiq.terrafemina.com | frontend.prod.utiq-aws.net |
 | utiq.testfaz.net | frontend.prod.utiq-aws.net |
+| utiq.thewatmag.com | frontend.prod.utiq-aws.net |
 | utiq.thueringen24.de | frontend.prod.utiq-aws.net |
 | utiq.tierfans.net | frontend.prod.utiq-aws.net |
 | utiq.todoalicante.es | frontend.prod.utiq-aws.net |
@@ -347,7 +350,9 @@
 | utiq.vidaextra.com | frontend.prod.utiq-aws.net |
 | utiq.vitonica.com | frontend.prod.utiq-aws.net |
 | utiq.voici.fr | frontend.prod.utiq-aws.net |
+| utiq.volksfest-freising.de | frontend.prod.utiq-aws.net |
 | utiq.wa.de | frontend.prod.utiq-aws.net |
+| utiq.webnachrichten.de | frontend.prod.utiq-aws.net |
 | utiq.welt-ctv.com | frontend.prod.utiq-aws.net |
 | utiq.welt.de | frontend.prod.utiq-aws.net |
 | utiq.werra-rundschau.de | frontend.prod.utiq-aws.net |
@@ -358,6 +363,7 @@
 | utiq.wmn.de | frontend.prod.utiq-aws.net |
 | utiq.wochenblatt.de | frontend.prod.utiq-aws.net |
 | utiq.xataka.com | frontend.prod.utiq-aws.net |
+| utiq.xatakaciencia.com | frontend.prod.utiq-aws.net |
 | utiq.xatakafoto.com | frontend.prod.utiq-aws.net |
 | utiq.xatakahome.com | frontend.prod.utiq-aws.net |
 | utiq.xatakamovil.com | frontend.prod.utiq-aws.net |

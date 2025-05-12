@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ adconsole.kozoom.com CNAME .
 adconsole.lot-tissimo.com CNAME .
 adconsole.proxibid.com CNAME .
 adconsole.sniffies.com CNAME .
+adconsole.the-saleroom.com CNAME .
 addurance-delivery.reviveservers.com CNAME .
 adimages.associationheadquarters.com CNAME .
 adimages.eva.live CNAME .
@@ -60,7 +61,6 @@ api.ad.logic.viasat.io CNAME .
 api.adbility-media.com CNAME .
 api.aqua-adserver.com CNAME .
 api.metrike.com CNAME .
-assets.lintigroup.se CNAME .
 banners.cincinnatimagazine.com CNAME .
 banners.geminipub.com CNAME .
 banners.leightonbroadcasting.com CNAME .
@@ -117,7 +117,6 @@ coreads.cambridge.org CNAME .
 creatives.goldseek.com CNAME .
 display.lawbulletin.com CNAME .
 etnomedia-static.reviveservers.com CNAME .
-hrnorth-delivery.reviveservers.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
 images.falconstudios.com CNAME .
@@ -129,6 +128,7 @@ images.mannenmedia.nl CNAME .
 images.proxena-adserver.com CNAME .
 images.swiss-equestrian.ch CNAME .
 images.worldofshowjumping.com CNAME .
+images.xtraa.org CNAME .
 informatm-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
 marriagetrac-delivery.reviveservers.com CNAME .
@@ -166,7 +166,6 @@ servedby.imagineobx.com CNAME .
 servedby.insideradverts.com CNAME .
 servedby.jacilla.no CNAME .
 servedby.lamag.com CNAME .
-servedby.lintigroup.se CNAME .
 servedby.livingmagonline.com CNAME .
 servedby.mannixmarketing.com CNAME .
 servedby.medlabmag.com CNAME .
@@ -189,6 +188,7 @@ servedby.schrotundkorn.de CNAME .
 servedby.tahoe.com CNAME .
 servedby.trackandfieldnews.com CNAME .
 servedby.walaplusadserver.com CNAME .
+servedby.xtraa.org CNAME .
 server.ad.logic-prod.viasat.io CNAME .
 server.ad.logic.viasat.io CNAME .
 static.ad.logic-prod.viasat.io CNAME .
@@ -236,6 +236,7 @@ www.ads.environmentalleader.com CNAME .
 www.ads.proxibid.com CNAME .
 www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
+www.adwin.geenstijl.nl CNAME .
 www.api.adbility-media.com CNAME .
 www.api.metrike.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
@@ -263,7 +264,6 @@ www.servedby.cincinnatimagazine.com CNAME .
 www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
 www.servedby.jacilla.no CNAME .
-www.servedby.lintigroup.se CNAME .
 www.servedby.miningweekly.com CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.sacommunications.com CNAME .

@@ -38,7 +38,6 @@
     * h-27l2wggf.online-metrix.net
     * h-2dehands.online-metrix.net
     * h-2ememain.online-metrix.net
-    * h-2fiylyk1.online-metrix.net
     * h-2g7dk5bn.online-metrix.net
     * h-2gkqfg5y.online-metrix.net
     * h-2gssvh01.online-metrix.net
@@ -187,6 +186,7 @@
     * h-9ivuwf8u.online-metrix.net
     * h-9kqz9786.online-metrix.net
     * h-9t5j16he.online-metrix.net
+    * h-9tnufjvn.online-metrix.net
     * h-9wtp561i.online-metrix.net
     * h-9yw99lm5.online-metrix.net
     * h-9zzsit89.online-metrix.net
@@ -848,6 +848,7 @@
 | prod-consumers.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cstonefcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-dccuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-dexsta.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-ffcuin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-firstmark.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-fsfcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -902,7 +903,6 @@
 | rmscheck.sbifxt.co.jp | h-27l2wggf.online-metrix.net |
 | faas.2dehands.be | h-2dehands.online-metrix.net |
 | faas.2ememain.be | h-2ememain.online-metrix.net |
-| metrics.myfrs.com | h-2fiylyk1.online-metrix.net |
 | bkt-prod.sbishinseibank.co.jp | h-2g7dk5bn.online-metrix.net |
 | eve.playstation.com | h-2gkqfg5y.online-metrix.net |
 | pdr.eve.sonyentertainmentnetwork.com | h-2gkqfg5y.online-metrix.net |
@@ -1198,6 +1198,7 @@
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
 | tm.flowbirdapp.com | h-9t5j16he.online-metrix.net |
+| cookiemonster.calcas.com | h-9tnufjvn.online-metrix.net |
 | devices.yondercard.com | h-9wtp561i.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |

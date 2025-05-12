@@ -8,7 +8,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| 0.clicks4me.fwh.is | api.clickaine.com |
 | 1qrsumhcuudhkt4c.brandnewapp.pro | api.clickaine.com |
 | 39236100.lotre.io | api.clickaine.com |
 | a1.arabsex1.com | api.clickaine.com |
@@ -81,7 +80,6 @@
 | dr1.piczlabs.com | api.clickaine.com |
 | dr3.piczlabs.com | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
-| excavajo2.gimmeporn.xyz | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
 | ge6.getfto.com | api.clickaine.com |

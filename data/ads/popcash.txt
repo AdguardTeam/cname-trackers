@@ -147,7 +147,6 @@
 ||cdn.zxclan.com^
 ||1.bunkr-cache.se^
 ||39grbc.jackbarber.co.uk^
-||4ke5b4ila.codedge.de^
 ||7wrxo2xh.iriscreative.co^
 ||8inhjmd.usefathom.com^
 ||9kz9cttz76.antonsten.com^
@@ -587,7 +586,6 @@
 ||jay.brauerei-egg.at^
 ||jay.howivscode.com^
 ||jcpjfyikk.dogbonemarket.com^
-||jellyfish.teresaharlow.com^
 ||jellyfish.therapieplatz-finden.de^
 ||jncx1s.michaellindahl.com^
 ||kangaroo.kraenk.de^
@@ -678,7 +676,6 @@
 ||macaw.lab75.jp^
 ||mackerel.passiveincome.io^
 ||magpie.onething.org^
-||magpie.phil.dev^
 ||manatee.biodom.bio^
 ||mandrill.castingcollective.net^
 ||mandrill.yellowfruit.co^
@@ -902,7 +899,6 @@
 ||sawfish.hxd-lab.de^
 ||sawfish.loqbooq.app^
 ||scallop.esolia.pro^
-||scallop.productionrails.com^
 ||scallop.vav.link^
 ||scorpion.clare.ink^
 ||scorpion.gamedao.co^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ l.boo-log.com CNAME .
 l.chesuto.jp CNAME .
 l.da-te.jp CNAME .
 l.dosugoi.net CNAME .
+l.e-iwate.com CNAME .
 l.eshizuoka.jp CNAME .
 l.ffsagami.com CNAME .
 l.gunmablog.net CNAME .

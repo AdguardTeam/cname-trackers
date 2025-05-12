@@ -303,6 +303,7 @@
 ||utiq.speakup.es^
 ||utiq.speisekarte.de^
 ||utiq.spektrum.de^
+||utiq.spiegel.de^
 ||utiq.spielaffe.de^
 ||utiq.sport.es^
 ||utiq.sportlerfrage.net^
@@ -321,8 +322,10 @@
 ||utiq.techbook.de^
 ||utiq.telefonica.com^
 ||utiq.telekom.de^
+||utiq.telestar.fr^
 ||utiq.terrafemina.com^
 ||utiq.testfaz.net^
+||utiq.thewatmag.com^
 ||utiq.thueringen24.de^
 ||utiq.tierfans.net^
 ||utiq.todoalicante.es^
@@ -344,7 +347,9 @@
 ||utiq.vidaextra.com^
 ||utiq.vitonica.com^
 ||utiq.voici.fr^
+||utiq.volksfest-freising.de^
 ||utiq.wa.de^
+||utiq.webnachrichten.de^
 ||utiq.welt-ctv.com^
 ||utiq.welt.de^
 ||utiq.werra-rundschau.de^
@@ -355,6 +360,7 @@
 ||utiq.wmn.de^
 ||utiq.wochenblatt.de^
 ||utiq.xataka.com^
+||utiq.xatakaciencia.com^
 ||utiq.xatakafoto.com^
 ||utiq.xatakahome.com^
 ||utiq.xatakamovil.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1088,7 +1088,6 @@ a8cv.lens-1.jp CNAME .
 a8cv.leoandlea.com CNAME .
 a8cv.lesson-note.com CNAME .
 a8cv.leverage-learning.com CNAME .
-a8cv.lianest.co.jp CNAME .
 a8cv.lifenrich.co.jp CNAME .
 a8cv.lifull.jp CNAME .
 a8cv.livechat-berry.com CNAME .
@@ -1135,7 +1134,6 @@ a8cv.naris-online.jp CNAME .
 a8cv.natulahonpo.com CNAME .
 a8cv.naturaltech.jp CNAME .
 a8cv.naturebreath-store.com CNAME .
-a8cv.naturecan-fitness.jp CNAME .
 a8cv.nd-clinic.net CNAME .
 a8cv.netvisionacademy.com CNAME .
 a8cv.next1-one.jp CNAME .
@@ -1331,7 +1329,6 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
-a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .
@@ -1505,7 +1502,6 @@ check.looser.jp CNAME .
 click.techtree.jp CNAME .
 clk.entry.surala.jp CNAME .
 clk.glam-print.com CNAME .
-clk.ingage.jp CNAME .
 clk.liberty-e.com CNAME .
 clk.wagon-hire.com CNAME .
 clkcv.livede55.com CNAME .

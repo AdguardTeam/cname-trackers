@@ -244,7 +244,6 @@
 | affiliate.novakabelka.cz | cz.affilbox.cz |
 | affiliate.nutricnitycinky.cz | cz.affilbox.cz |
 | affiliate.offroadsafari.cz | cz.affilbox.cz |
-| affiliate.okamih.cz | cz.affilbox.cz |
 | affiliate.onlinepsiskola.cz | cz.affilbox.cz |
 | affiliate.organikk.cz | cz.affilbox.cz |
 | affiliate.pasti.cz | cz.affilbox.cz |
@@ -765,7 +764,6 @@
 | partner.spokojenypes.cz | cz.affilbox.cz |
 | partner.spopo.cz | cz.affilbox.cz |
 | partner.sporthangar.cz | cz.affilbox.cz |
-| partner.starnails.cz | cz.affilbox.cz |
 | partner.stavario.com | cz.affilbox.cz |
 | partner.strendem.cz | cz.affilbox.cz |
 | partner.stromkyonline.cz | cz.affilbox.cz |
@@ -782,7 +780,6 @@
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.thelisteningworld.com | cz.affilbox.cz |
 | partner.top-obaly.cz | cz.affilbox.cz |
-| partner.tozax.cz | cz.affilbox.cz |
 | partner.tozax.sk | cz.affilbox.cz |
 | partner.tradewyx.com | cz.affilbox.cz |
 | partner.tyano.cz | cz.affilbox.cz |
@@ -939,7 +936,6 @@
 | partneri.toothy.cz | cz.affilbox.cz |
 | partneri.tradicne-feng-shui.sk | cz.affilbox.cz |
 | partneri.trenink-vyjednavani.cz | cz.affilbox.cz |
-| partneri.trollbeads.cz | cz.affilbox.cz |
 | partneri.trollbeadscz.com | cz.affilbox.cz |
 | partneri.tvorboshop.cz | cz.affilbox.cz |
 | partneri.umenibytzdrav.cz | cz.affilbox.cz |
@@ -963,6 +959,7 @@
 | partners.almaf.cz | cz.affilbox.cz |
 | partners.bonyacademy.com | cz.affilbox.cz |
 | partners.elitecoaching.cz | cz.affilbox.cz |
+| partners.henrysmusic.com | cz.affilbox.cz |
 | partners.pocitarna.cz | cz.affilbox.cz |
 | partners.puravidashop.cz | cz.affilbox.cz |
 | partners.spiritradar.com | cz.affilbox.cz |

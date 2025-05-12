@@ -267,6 +267,7 @@ tr.contact.cereps.fr
 tr.contact.companeo.com
 tr.contact.e-turf.fr
 tr.contact.henner.com
+tr.contact.krug.fr
 tr.contact.lvmh.fr
 tr.contact.mhl-publishing.fr
 tr.contact.ruinart.com

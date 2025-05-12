@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1746432009076        ; Serial
+           1747036809541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -234,7 +234,6 @@ affiliate.nomind.cz CNAME .
 affiliate.novakabelka.cz CNAME .
 affiliate.nutricnitycinky.cz CNAME .
 affiliate.offroadsafari.cz CNAME .
-affiliate.okamih.cz CNAME .
 affiliate.onlinepsiskola.cz CNAME .
 affiliate.organikk.cz CNAME .
 affiliate.pasti.cz CNAME .
@@ -755,7 +754,6 @@ partner.spodni-pradlo-rekova.cz CNAME .
 partner.spokojenypes.cz CNAME .
 partner.spopo.cz CNAME .
 partner.sporthangar.cz CNAME .
-partner.starnails.cz CNAME .
 partner.stavario.com CNAME .
 partner.strendem.cz CNAME .
 partner.stromkyonline.cz CNAME .
@@ -772,7 +770,6 @@ partner.tahnabranu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.thelisteningworld.com CNAME .
 partner.top-obaly.cz CNAME .
-partner.tozax.cz CNAME .
 partner.tozax.sk CNAME .
 partner.tradewyx.com CNAME .
 partner.tyano.cz CNAME .
@@ -929,7 +926,6 @@ partneri.tentino.cz CNAME .
 partneri.toothy.cz CNAME .
 partneri.tradicne-feng-shui.sk CNAME .
 partneri.trenink-vyjednavani.cz CNAME .
-partneri.trollbeads.cz CNAME .
 partneri.trollbeadscz.com CNAME .
 partneri.tvorboshop.cz CNAME .
 partneri.umenibytzdrav.cz CNAME .
@@ -953,6 +949,7 @@ partneri.zhubnichytre.cz CNAME .
 partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
 partners.elitecoaching.cz CNAME .
+partners.henrysmusic.com CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
 partners.spiritradar.com CNAME .

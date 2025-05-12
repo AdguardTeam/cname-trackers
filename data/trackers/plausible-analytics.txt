@@ -33,7 +33,6 @@
 ||analytics.recamov.com^
 ||analytics.redistributemag.com^
 ||analytics.sideprojectsoftware.com^
-||analytics.sixfigureswine.com^
 ||analytics.teamcovenant.com^
 ||analytics.thegroupbuyexperiment.com^
 ||analytics.top10-charts.com^
@@ -78,7 +77,6 @@
 ||eliteclng.ericksonbuilt.com^
 ||events.mikescerealshack.co^
 ||explore.bytelab.uk^
-||external.techopian.com^
 ||extramilefloorcare.ericksonbuilt.com^
 ||galop.leferacheval-saintcloud.com^
 ||hej.henriksommerfeld.se^
@@ -175,7 +173,6 @@
 ||plausible.countingindia.com^
 ||plausible.dailytics.com^
 ||plausible.dev.logicboard.com^
-||plausible.dingran.me^
 ||plausible.doctave.com^
 ||plausible.easytrak.io^
 ||plausible.ejs.dev^
@@ -807,6 +804,7 @@
 ||stats.trigo.at^
 ||stats.trimbles.ie^
 ||stats.trussed.dev^
+||stats.trypricelist.com^
 ||stats.tubecalculator.co.uk^
 ||stats.turisme.nu^
 ||stats.twhl.xyz^
@@ -826,6 +824,7 @@
 ||stats.vinkkaa.fi^
 ||stats.visions.ch^
 ||stats.voltimum.com^
+||stats.wafflemeido.art^
 ||stats.walkiees.co.uk^
 ||stats.warrantynowvoid.com^
 ||stats.websnap.app^
