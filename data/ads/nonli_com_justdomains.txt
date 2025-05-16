@@ -1,11 +1,13 @@
 #
 # Company name: nonli.com
 at.h24.news
+barracuda.h24.news
 c.leparisien.fr
 de.h24.news
 flow-prod.h24.news
 go.3ds.com
 go.france24.com
+go.lenouveaudetective.com
 go.letelegramme.fr
 go.mc-doualiya.com
 go.meretmarine.com
@@ -119,6 +121,7 @@ l.ledauphine.com
 l.lefigaro.fr
 l.lejournaldelamaison.fr
 l.lejsl.com
+l.lemoniteurdespharmacies.fr
 l.leparisien.fr
 l.lepoint.fr
 l.leprogres.fr
@@ -203,12 +206,21 @@ l.voici.fr
 l.vosgesmatin.fr
 l.whatsupdoc-lemag.fr
 l.zdnet.fr
+mail10.h24.news
+mail11.h24.news
+mx3.h24.news
 nr.lanouvellerepublique.fr
 on.qobuz.com
 poc.warnerbros.fr
+pop.h24.news
 prod-1.moarty.com
 prod-3.moarty.com
 prod-4.moarty.com
+relay.h24.news
+remote.h24.news
+server1.h24.news
+smtp.mail.h24.news
+smtp2.h24.news
 social.agrodistribution.fr
 social.eleveur-laitier.fr
 social.lafranceagricole.fr
@@ -217,3 +229,4 @@ sur.laprovence.com
 www.20min.fr
 www.altereco.media
 www.h24.news
+zmail.h24.news

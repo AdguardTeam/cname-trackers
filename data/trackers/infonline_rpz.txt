@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -262,6 +262,7 @@ data-1c0a3d83e3.transfermarkt.be CNAME .
 data-1c0a3d83e3.transfermarkt.ch CNAME .
 data-1c0a3d83e3.transfermarkt.co.id CNAME .
 data-1c0a3d83e3.transfermarkt.co.in CNAME .
+data-1c0a3d83e3.transfermarkt.co.kr CNAME .
 data-1c0a3d83e3.transfermarkt.co.uk CNAME .
 data-1c0a3d83e3.transfermarkt.co.za CNAME .
 data-1c0a3d83e3.transfermarkt.com.br CNAME .
@@ -493,7 +494,6 @@ data-3e7222ce74.arzt-wirtschaft.de CNAME .
 data-3e886ae3e6.zaubertopf.de CNAME .
 data-3eff3aac07.kino-zeit.de CNAME .
 data-3f0062caa0.elektro.net CNAME .
-data-3f37694eeb.esports.com CNAME .
 data-3f8b797e45.stadtbuecherei-km.de CNAME .
 data-3f9c4f5eb9.automotive.at CNAME .
 data-3fb5262fad.unsersalzburg.at CNAME .
@@ -1772,6 +1772,7 @@ data-ce964ae059.guterrat.de CNAME .
 data-ceb2600919.apps.iocnt.de CNAME .
 data-cedbf1e823.apps.iocnt.de CNAME .
 data-cf521b4223.op-marburg.de CNAME .
+data-cf56e4da9b.1000ps.de CNAME .
 data-cf56e4da9b.motorradonline.de CNAME .
 data-cf8fd9b799.heizungsjournal.de CNAME .
 data-cf8fd9b799.integrale-planung.net CNAME .
@@ -1832,7 +1833,6 @@ data-d815104c6c.dastelefonbuch.de CNAME .
 data-d815104c6c.it2media.de CNAME .
 data-d815104c6c.telefonbuch.de CNAME .
 data-d81f60d480.frankenpost.de CNAME .
-data-d858e7585b.immobilien26.de CNAME .
 data-d858e7585b.jobs26.de CNAME .
 data-d858e7585b.lokal26.de CNAME .
 data-d85ba30209.solidbau.at CNAME .
@@ -1906,7 +1906,6 @@ data-e3af19e759.apps.iocnt.de CNAME .
 data-e3d4300b49.sport.de CNAME .
 data-e3d4300b49.teleboerse.de CNAME .
 data-e44d38afc3.apps.iocnt.de CNAME .
-data-e47ac57521.immobilien26.de CNAME .
 data-e47ac57521.jobs26.de CNAME .
 data-e47ac57521.lokal26.de CNAME .
 data-e4997adf31.bilanz.de CNAME .

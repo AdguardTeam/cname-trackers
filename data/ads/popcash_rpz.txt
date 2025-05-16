@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -715,7 +715,6 @@ minnow.tapas-software.net CNAME .
 mite.cotinga.io CNAME .
 mite.tetrameros.com CNAME .
 mole.bteam.co CNAME .
-mole.bubblefoundation.org.uk CNAME .
 mole.dansksejlunion.dk CNAME .
 mole.energizer.eu CNAME .
 mole.getfamealy.com CNAME .
@@ -927,7 +926,6 @@ sheep.vaxstandby.com CNAME .
 shrew.ryangjchandler.co.uk CNAME .
 silkworm.bobsmechanicalrepairs.co.uk CNAME .
 silkworm.boxmood.be CNAME .
-silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.waspexpert.com CNAME .
 silkworm.westwoodmbc.org CNAME .
 silverfish.djordjevanjek.com CNAME .
@@ -1197,4 +1195,5 @@ ss.nwemnd.com CNAME .
 ss.nwmnd.com CNAME .
 thirty-good.lugg.com CNAME .
 video.adsninja.ca CNAME .
+www.cdnaccelerationcache.com CNAME .
 gerbil.recipe-ipsum.com CNAME .

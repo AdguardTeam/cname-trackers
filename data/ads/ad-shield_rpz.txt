@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -884,9 +884,7 @@ www.98738797.xyz CNAME .
 www.98853171.xyz CNAME .
 www.9m-mlvrsosov-qmrl4.xyz CNAME .
 www.a2da0f64.xyz CNAME .
-www.a49ebd.xyz CNAME .
 www.a5d2d040.xyz CNAME .
-www.a67d12.xyz CNAME .
 www.a908a849.xyz CNAME .
 www.b0f2f18e.xyz CNAME .
 www.b395bfcd.xyz CNAME .
@@ -895,7 +893,6 @@ www.ba0bf98c.xyz CNAME .
 www.bc0ca74b.live CNAME .
 www.bdec1f37.xyz CNAME .
 www.c2a0076d.xyz CNAME .
-www.ca9246.xyz CNAME .
 www.ce56df44.xyz CNAME .
 www.d19a122b.xyz CNAME .
 www.dcad1d97.xyz CNAME .

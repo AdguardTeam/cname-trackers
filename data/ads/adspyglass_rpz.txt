@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -84,6 +84,7 @@ a.demba.xyz CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dimao.site CNAME .
 a.dporntube.site CNAME .
+a.dramb.site CNAME .
 a.drem.site CNAME .
 a.dripe.site CNAME .
 a.dumae.site CNAME .
@@ -97,6 +98,7 @@ a.emban.site CNAME .
 a.endod.site CNAME .
 a.eniza.site CNAME .
 a.entia.site CNAME .
+a.eramb.site CNAME .
 a.evrae.xyz CNAME .
 a.eynol.xyz CNAME .
 a.famestporn.com CNAME .
@@ -209,8 +211,10 @@ ab.fapnado.xxx CNAME .
 ab.forwank.com CNAME .
 ab.lesbianbliss.com CNAME .
 ab.pchat.com CNAME .
+ab.rule34.porn CNAME .
 ab.thepornstar.com CNAME .
 abc.cda-hd.co CNAME .
+ac.4wank.com CNAME .
 ac.fapnado.xxx CNAME .
 ac.forwank.com CNAME .
 acquaintance213.fun CNAME .
@@ -479,6 +483,7 @@ d.3dfetishgirls.com CNAME .
 d.bloblohub.com CNAME .
 d.cinvetica.com CNAME .
 d.love4porn.com CNAME .
+d.seksohub.com CNAME .
 daldk.com CNAME .
 dash.bloblohub.com CNAME .
 daswercd.filasofighit.com CNAME .
@@ -499,7 +504,6 @@ dev.ravizo.online CNAME .
 development-.bloblohub.com CNAME .
 development-viz.bloblohub.com CNAME .
 dieadi.com CNAME .
-digiadzone.com CNAME .
 dinejav11.fun CNAME .
 display.cdnbucket.com CNAME .
 dl.love4porn.com CNAME .
@@ -673,6 +677,7 @@ islandjav182.fun CNAME .
 ithaca.hubhubhub.name CNAME .
 ivzplytl9nqc6ex2.a.asg.maxx.ddac.ru CNAME .
 ix2.deepsexvids.com CNAME .
+izjzyykiyn.club CNAME .
 j.bloblohub.com CNAME .
 javabsence11.fun CNAME .
 javacid.fun CNAME .
@@ -734,6 +739,7 @@ languroa.xyz CNAME .
 laq.hazuro.online CNAME .
 larasub.conxxx.pro CNAME .
 launch1266.fun CNAME .
+ldvuz.org CNAME .
 lengthjavgg124.fun CNAME .
 lentaopz.xyz CNAME .
 level.18huhu.com CNAME .
@@ -810,6 +816,7 @@ n.hubhubhub.name CNAME .
 n20dj6rv6ru1qewt.analytics.bloblohub.com CNAME .
 nameoaj.xyz CNAME .
 namjzoa.xyz CNAME .
+nat.kadime.cc CNAME .
 nav.srcdn.xyz CNAME .
 nbnrsa.manrec.cc CNAME .
 neighborhood268.fun CNAME .
@@ -1092,6 +1099,7 @@ switch1266.fun CNAME .
 switchjavgg124.fun CNAME .
 sy.tubeprnlist.online CNAME .
 synz.liveonce.online CNAME .
+tab.kadime.cc CNAME .
 talented3452.fun CNAME .
 tangtuiazx.club CNAME .
 taosiz.xyz CNAME .
@@ -1247,6 +1255,7 @@ yapzoa.xyz CNAME .
 you4cdn.com CNAME .
 youaixx.xyz CNAME .
 yqohoxwuyu.club CNAME .
+ytlsppuzpf.club CNAME .
 yudvl.org CNAME .
 yummycdn.com CNAME .
 z.zedtrekh.online CNAME .
@@ -1272,3 +1281,4 @@ video.cdnako.com CNAME .
 a.mikop.xyz CNAME .
 a.naliw.xyz CNAME .
 a.vrime.xyz CNAME .
+digiadzone.com CNAME .

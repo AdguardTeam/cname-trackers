@@ -14,6 +14,7 @@
 ||analytics.law.cityofsanmateo.org^
 ||analytics.law.lco-nsn.gov^
 ||analytics.law.mohican.com^
+||analytics.law.sanipueblo.org^
 ||analytics.law.tmchippewa.com^
 ||analytics.law.umitribe.org^
 ||analytics.leespace.co^
@@ -87,6 +88,7 @@
 ||stats.coderscompass.org^
 ||stats.crosshair.dev^
 ||stats.dalinwilliams.com^
+||stats.davidjuhasz.dev^
 ||stats.eithel.org^
 ||stats.fieald.com^
 ||stats.forest-school.am^
@@ -100,6 +102,7 @@
 ||stats.isaacfreund.com^
 ||stats.jakebailey.dev^
 ||stats.jamesgwyer.com^
+||stats.jasm1nii.xyz^
 ||stats.jessesquires.com^
 ||stats.jmmr.dev^
 ||stats.johanneswienke.de^
@@ -109,6 +112,7 @@
 ||stats.ksmets.be^
 ||stats.ksr.onl^
 ||stats.kwanok.me^
+||stats.linerly.xyz^
 ||stats.lspeed.org^
 ||stats.matteocroce.it^
 ||stats.mausoleum.me^

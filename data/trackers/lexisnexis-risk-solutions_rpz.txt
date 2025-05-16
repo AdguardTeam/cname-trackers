@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,6 +41,7 @@ afm.ultimamarketsglobal.com CNAME .
 afm.ultimamkts.com CNAME .
 afm.umtradings.com CNAME .
 afm.umultima.hk CNAME .
+afm.vantage-markets-apac.com CNAME .
 afm.vantage-markets.com CNAME .
 afm.vantagemarkets.co CNAME .
 afm.vantagemarkets.co.uk CNAME .
@@ -147,7 +148,6 @@ cdn1.thm.stgeorge.com.au CNAME .
 cdn1.thm.westpac.com.au CNAME .
 cdn17.citizensbank.com CNAME .
 cdn2.intercambioexpress.com CNAME .
-cdn2.lfg.com CNAME .
 cdn2.moneycorp.com CNAME .
 cdn3.littlecaesars.com CNAME .
 cdn3.moneycorp.com CNAME .
@@ -481,6 +481,7 @@ debs.my100bank.com CNAME .
 dep.gambit29.gameassists.co.uk CNAME .
 dep.gambit3.gameassists.co.uk CNAME .
 dept.provantage.com CNAME .
+detect.clearme.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
 device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
@@ -590,7 +591,6 @@ id.solidgate.com CNAME .
 identidaddigital.credicomer.com.sv CNAME .
 identity.blueprintportal.com CNAME .
 identity.myblueprint.arkansasbluecross.com CNAME .
-identity4.citidirect.com CNAME .
 idhtm.bb.com.br CNAME .
 idstatus.sky.com CNAME .
 idstatus.sky.it CNAME .
@@ -683,6 +683,7 @@ lnday.sinclair.edu CNAME .
 lnths.twc.texas.gov CNAME .
 lnthxsvc.tsp.gov CNAME .
 log.betdaq.com CNAME .
+log.checkmyfile.co.uk CNAME .
 log.checkmyfile.com CNAME .
 log.creditreport.co.uk CNAME .
 log.open.investorsbank.com CNAME .
@@ -809,6 +810,7 @@ prod-pacservice.chaperone.lumindigitalhosting.com CNAME .
 prod-pathways.chaperone.lumindigitalhosting.com CNAME .
 prod-prospera.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
+prod-riverfront.chaperone.lumindigitalhosting.com CNAME .
 prod-selco.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcupa.chaperone.lumindigitalhosting.com CNAME .
@@ -833,6 +835,7 @@ prod-westccu.chaperone.lumindigitalhosting.com CNAME .
 profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
+provider-services.openbank.mx CNAME .
 ptm.creditas.com CNAME .
 public-check3-at.test.tiaa-cref.org CNAME .
 public-check3-at.test.tiaa.org CNAME .
@@ -936,6 +939,7 @@ secure.zando.co.za CNAME .
 secure3.segpay.com CNAME .
 securecheckout.halloweencostumes.com CNAME .
 secured.netflix.com CNAME .
+security.vanquis.com CNAME .
 service.riverscontent.com CNAME .
 services-tmx.cofidis.cz CNAME .
 servicesdp.luckydays.ca CNAME .
@@ -1083,7 +1087,6 @@ tm.creditprotect.illion.co.nz CNAME .
 tm.creditprotect.illion.com.au CNAME .
 tm.cybersource.com CNAME .
 tm.defense.dbp.fiservapps.com CNAME .
-tm.directly.com CNAME .
 tm.espnbet.com CNAME .
 tm.fanduel.com CNAME .
 tm.fidelity.ca CNAME .
@@ -1093,6 +1096,7 @@ tm.goldennuggetcasino.com CNAME .
 tm.gumtree.co.za CNAME .
 tm.gumtree.com.au CNAME .
 tm.humanesociety.org CNAME .
+tm.humaneworld.org CNAME .
 tm.kotak.com CNAME .
 tm.okinushub.com CNAME .
 tm.paysafecard.com CNAME .
@@ -1125,6 +1129,7 @@ tmcdn.alljackpotscasino.com CNAME .
 tmcdn.allslotscasino.com CNAME .
 tmcdn.europalace.com CNAME .
 tmcdn.gamingclub.com CNAME .
+tmcdn.grizzlysquest.com CNAME .
 tmcdn.homeaway.com CNAME .
 tmcdn.jackpotcity.ca CNAME .
 tmcdn.jackpotcity.mx CNAME .
@@ -1167,6 +1172,7 @@ tmx.carhistory.com.au CNAME .
 tmx.cdn-btsg.com CNAME .
 tmx.efsllc.com CNAME .
 tmx.esfp.c1.vanguard.com CNAME .
+tmx.fincombank.com CNAME .
 tmx.gotobilling.com CNAME .
 tmx.idp.eu.safenetid.com CNAME .
 tmx.idp.safenetid-staging.safenetid.com CNAME .
@@ -1268,3 +1274,4 @@ ydkwim.targobank.de CNAME .
 yr3ioxw.hoaresbank.co.uk CNAME .
 zfp.intuit.com CNAME .
 zrn.payglocal.com CNAME .
+identity4.citidirect.com CNAME .

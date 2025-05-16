@@ -85,6 +85,7 @@
     * h-4ruz3ugq.online-metrix.net
     * h-4ruz3ugq2.online-metrix.net
     * h-4saxfla9.online-metrix.net
+    * h-4tsqmrdx.online-metrix.net
     * h-4ulk5mz4.online-metrix.net
     * h-4vocbmhq.online-metrix.net
     * h-516jl8bt.online-metrix.net
@@ -111,6 +112,7 @@
     * h-6do2934n.online-metrix.net
     * h-6e1hqgi3.online-metrix.net
     * h-6ej4o5iw.online-metrix.net
+    * h-6fg6rcgd.online-metrix.net
     * h-6i24djkv.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
     * h-6mlhprq2-a.online-metrix.net
@@ -358,7 +360,6 @@
     * h-citibankonline.online-metrix.net
     * h-citicards.online-metrix.net
     * h-citidirect.online-metrix.net
-    * h-citidirect2.online-metrix.net
     * h-citiretailservices.online-metrix.net
     * h-citizensbank.online-metrix.net
     * h-citizensbankaccess.online-metrix.net
@@ -402,6 +403,7 @@
     * h-czmm8tx9.online-metrix.net
     * h-d1kh7jfh.online-metrix.net
     * h-d3tracking.rbc.online-metrix.net
+    * h-d43ho3ge.online-metrix.net
     * h-d5k4yw92.online-metrix.net
     * h-d5xcbob5.online-metrix.net
     * h-dailylook.online-metrix.net
@@ -415,7 +417,6 @@
     * h-dhpay.online-metrix.net
     * h-digitalcredit.online-metrix.net
     * h-digitecgalaxusag.online-metrix.net
-    * h-directly.online-metrix.net
     * h-discover.online-metrix.net
     * h-disney.online-metrix.net
     * h-dnp-cdms.online-metrix.net
@@ -437,8 +438,10 @@
     * h-dxmw0w7i.online-metrix.net
     * h-dy06hdpq.online-metrix.net
     * h-dyj6k3h5.online-metrix.net
+    * h-dzb1xpdc.online-metrix.net
     * h-e04kqxof.online-metrix.net
     * h-e0j3u9ji-2.online-metrix.net
+    * h-e0j3u9ji-3.online-metrix.net
     * h-e0j3u9ji-fool.online-metrix.net
     * h-e0j3u9ji-legalzoom.online-metrix.net
     * h-e0j3u9ji-wptm.online-metrix.net
@@ -565,7 +568,6 @@
     * h-latamairlines.online-metrix.net
     * h-latitudefinancial.online-metrix.net
     * h-lendingtree.online-metrix.net
-    * h-lfg.online-metrix.net
     * h-liberty.online-metrix.net
     * h-lillypulitzer.online-metrix.net
     * h-liveme.online-metrix.net
@@ -803,11 +805,16 @@
     * qa2-h.online-metrix.net
     * qaperf2-h.online-metrix.net
 
+### Rarely active trackers
+
+* e4010.dsca.akamaiedge.net
+
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | content22.citi.com | citi.online-metrix.net |
+| identity4.citidirect.com | e4010.dsca.akamaiedge.net |
 | content-tix.topi.eu | h-1020poof.online-metrix.net |
 | aucrdtfrd.revolut.codes | h-107yrgnw.online-metrix.net |
 | aucrdtfrd.revolut.com | h-107yrgnw.online-metrix.net |
@@ -872,6 +879,7 @@
 | prod-pathways.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-prospera.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-riverfront.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-selco.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sfcupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -979,6 +987,7 @@
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | dep.gambit29.gameassists.co.uk | h-4ruz3ugq2.online-metrix.net |
 | cnt.faktoria.pl | h-4saxfla9.online-metrix.net |
+| tmx.fincombank.com | h-4tsqmrdx.online-metrix.net |
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
 | svc.ondeck.com.au | h-4vocbmhq.online-metrix.net |
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
@@ -1026,6 +1035,7 @@
 | secure-collector.zen.com | h-6do2934n.online-metrix.net |
 | tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
 | content.affinityfcu.com | h-6ej4o5iw.online-metrix.net |
+| provider-services.openbank.mx | h-6fg6rcgd.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
 | tblsdp.staging.tonybet.ca | h-6mlhprq2-a.online-metrix.net |
@@ -1140,6 +1150,7 @@
 | afm.ultimamkts.com | h-96eziru5.online-metrix.net |
 | afm.umtradings.com | h-96eziru5.online-metrix.net |
 | afm.umultima.hk | h-96eziru5.online-metrix.net |
+| afm.vantage-markets-apac.com | h-96eziru5.online-metrix.net |
 | afm.vantage-markets.com | h-96eziru5.online-metrix.net |
 | afm.vantagemarkets.co | h-96eziru5.online-metrix.net |
 | afm.vantagemarkets.co.uk | h-96eziru5.online-metrix.net |
@@ -1172,6 +1183,7 @@
 | tmcdn.allslotscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.europalace.com | h-98oju8tz.online-metrix.net |
 | tmcdn.gamingclub.com | h-98oju8tz.online-metrix.net |
+| tmcdn.grizzlysquest.com | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcity.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcity.mx | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcitycasino.com | h-98oju8tz.online-metrix.net |
@@ -1452,7 +1464,6 @@
 | content22.citibankonline.com | h-citibankonline.online-metrix.net |
 | content22.citicards.com | h-citicards.online-metrix.net |
 | img4.portal.citidirect.com | h-citidirect.online-metrix.net |
-| identity4.citidirect.com | h-citidirect2.online-metrix.net |
 | content22.citiretailservices.com | h-citiretailservices.online-metrix.net |
 | profiling.qacitizensbankonline.com | h-citizensbank.online-metrix.net |
 | go.citizensaccess.com | h-citizensbankaccess.online-metrix.net |
@@ -1493,6 +1504,7 @@
 | rhino.gocardless.com | h-cpuoahbo.online-metrix.net |
 | dfp.mcdonalds.fr | h-cqjaju73.online-metrix.net |
 | appscore.credilike.me | h-credilikeme.online-metrix.net |
+| log.checkmyfile.co.uk | h-credit-reporting-agency.online-metrix.net |
 | log.checkmyfile.com | h-credit-reporting-agency.online-metrix.net |
 | log.creditreport.co.uk | h-credit-reporting-agency.online-metrix.net |
 | log.scanmypost.co.uk | h-credit-reporting-agency.online-metrix.net |
@@ -1510,6 +1522,7 @@
 | content.nu.com.co | h-czmm8tx9.online-metrix.net |
 | content.sportscheck.ch | h-d1kh7jfh.online-metrix.net |
 | d3tracking.rbc.com | h-d3tracking.rbc.online-metrix.net |
+| detect.clearme.com | h-d43ho3ge.online-metrix.net |
 | qtbm.fundourselves.com | h-d5k4yw92.online-metrix.net |
 | qtbm.welendus.com | h-d5k4yw92.online-metrix.net |
 | apicorporativops.portoseguro.com.br | h-d5xcbob5.online-metrix.net |
@@ -1524,7 +1537,6 @@
 | cybs.dhpay.com | h-dhpay.online-metrix.net |
 | content.digital-credit.app | h-digitalcredit.online-metrix.net |
 | creditcheck.digitecgalaxus.ch | h-digitecgalaxusag.online-metrix.net |
-| tm.directly.com | h-directly.online-metrix.net |
 | content.discover.com | h-discover.online-metrix.net |
 | content.discovercard.com | h-discover.online-metrix.net |
 | fp.disney.go.com | h-disney.online-metrix.net |
@@ -1549,10 +1561,12 @@
 | content.orixbank.co.jp | h-dy06hdpq.online-metrix.net |
 | query.capitalontap.com | h-dyj6k3h5.online-metrix.net |
 | query.capitalontap.es | h-dyj6k3h5.online-metrix.net |
+| security.vanquis.com | h-dzb1xpdc.online-metrix.net |
 | content.gap.com | h-e04kqxof.online-metrix.net |
 | content.gapfactory.com | h-e04kqxof.online-metrix.net |
 | content.gaptechol.com | h-e04kqxof.online-metrix.net |
 | tm.humanesociety.org | h-e0j3u9ji-2.online-metrix.net |
+| tm.humaneworld.org | h-e0j3u9ji-3.online-metrix.net |
 | fingerprint.fool.com | h-e0j3u9ji-fool.online-metrix.net |
 | shield.legalzoom.com | h-e0j3u9ji-legalzoom.online-metrix.net |
 | wptm.worldvision.org | h-e0j3u9ji-wptm.online-metrix.net |
@@ -1750,7 +1764,6 @@
 | loyaltyprogram.latamairlines.com | h-latamairlines.online-metrix.net |
 | id.latitudefinancial.com | h-latitudefinancial.online-metrix.net |
 | content9.lendingtree.com | h-lendingtree.online-metrix.net |
-| cdn2.lfg.com | h-lfg.online-metrix.net |
 | t.liberty.com.au | h-liberty.online-metrix.net |
 | sunshine.lillypulitzer.com | h-lillypulitzer.online-metrix.net |
 | online-metrix.imars.cloud | h-liveme.online-metrix.net |

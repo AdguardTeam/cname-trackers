@@ -12,6 +12,8 @@ addurance-delivery.reviveservers.com
 adimages.associationheadquarters.com
 adimages.eva.live
 adimages.infotorg.se
+adimages.marriagetrac.com
+adimages.proforums.com
 adimages.sniffies.com
 ads-console.recon.com
 ads-delivery.milenarmedia.pt
@@ -29,6 +31,7 @@ ads.swiss-equestrian.ch
 ads.the-saleroom.com
 ads.worldofshowjumping.com
 ads.xtra.ca
+adserv1.mannixmarketing.com
 adserver.associationheadquarters.com
 adserver.fa-mag.com
 adserver.infotorg.se
@@ -121,6 +124,7 @@ images.xtraa.org
 informatm-static.reviveservers.com
 lalala.geenstijl.nl
 marriagetrac-delivery.reviveservers.com
+media.revive-adserver.com
 media360ads.midtc.com
 omroepflevoland-static.reviveservers.com
 omropfryslan-delivery.reviveservers.com
@@ -209,6 +213,7 @@ static.polity.org.za
 static.postandparcel.info
 static.pppmag.com
 static.proxibid.com
+static.quirks.com
 static.schrotundkorn.de
 static.sonicplug.com
 static.the-saleroom.com
@@ -216,6 +221,7 @@ static.trackandfieldnews.com
 static.walaplusadserver.com
 static.wwoz.org
 stommeplaatjes.geenstijl.nl
+streaming.leightonbroadcasting.com
 tlads.midtc.com
 treehouse.wwoz.org
 webtool-delivery.reviveservers.com

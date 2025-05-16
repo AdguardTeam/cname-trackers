@@ -881,9 +881,7 @@
 | www.98853171.xyz | ad-shield.cc |
 | www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
 | www.a2da0f64.xyz | ad-shield.cc |
-| www.a49ebd.xyz | ad-shield.cc |
 | www.a5d2d040.xyz | ad-shield.cc |
-| www.a67d12.xyz | ad-shield.cc |
 | www.a908a849.xyz | ad-shield.cc |
 | www.b0f2f18e.xyz | ad-shield.cc |
 | www.b395bfcd.xyz | ad-shield.cc |
@@ -892,7 +890,6 @@
 | www.bc0ca74b.live | ad-shield.cc |
 | www.bdec1f37.xyz | ad-shield.cc |
 | www.c2a0076d.xyz | ad-shield.cc |
-| www.ca9246.xyz | ad-shield.cc |
 | www.ce56df44.xyz | ad-shield.cc |
 | www.d19a122b.xyz | ad-shield.cc |
 | www.dcad1d97.xyz | ad-shield.cc |

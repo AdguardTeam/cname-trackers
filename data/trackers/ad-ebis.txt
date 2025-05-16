@@ -200,6 +200,7 @@
 ||ebis-tracking.tcb-fukuoka.com^
 ||ebis-tracking.tcb-fukushima.com^
 ||ebis-tracking.tcb-ginza.com^
+||ebis-tracking.tcb-koriyama.com^
 ||ebis-tracking.tcb-mito.com^
 ||ebis-tracking.tcb-recruit.com^
 ||ebis-tracking.tcb-setagaya.com^

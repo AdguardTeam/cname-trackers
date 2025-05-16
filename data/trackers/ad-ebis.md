@@ -34,6 +34,7 @@
     * 1241cdd8-znrwzwlu.cname.ebis.ne.jp
     * 12e8d4f5-xjhet6w1.cname.ebis.ne.jp
     * 13ecbca0-p25fcvzq.cname.ebis.ne.jp
+    * 158d5b7d-6pusefyf.cname.ebis.ne.jp
     * 1590f1a6-xjhet6w1.cname.ebis.ne.jp
     * 15a8dc8b-fbw7r35c.cname.ebis.ne.jp
     * 16df7011-m9x5lvqe.cname.ebis.ne.jp
@@ -380,6 +381,7 @@
 | seo.tkc110.jp | 1241cdd8-znrwzwlu.cname.ebis.ne.jp |
 | adebis.toushi-up.com | 12e8d4f5-xjhet6w1.cname.ebis.ne.jp |
 | lmpadebis.gala-series.com | 13ecbca0-p25fcvzq.cname.ebis.ne.jp |
+| ebis-tracking.tcb-koriyama.com | 158d5b7d-6pusefyf.cname.ebis.ne.jp |
 | adebis.gfs-official.com | 1590f1a6-xjhet6w1.cname.ebis.ne.jp |
 | adebis.muscledeli.jp | 15a8dc8b-fbw7r35c.cname.ebis.ne.jp |
 | adebis.kodomohamigaki.com | 16df7011-m9x5lvqe.cname.ebis.ne.jp |

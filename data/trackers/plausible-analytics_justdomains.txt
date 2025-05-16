@@ -13,7 +13,6 @@ analytics.basistheory.com
 analytics.betterplaces.nl
 analytics.certifriedit.com
 analytics.churchthemes.com
-analytics.codeforscience.org
 analytics.codeskulptor.org
 analytics.eikko.ai
 analytics.ericafischerphotography.com
@@ -315,6 +314,7 @@ stats.adlperformance.es
 stats.aikidowaza.com
 stats.aixbrain.de
 stats.albert-kropp-gmbh.de
+stats.alibhai.co
 stats.alleaktien.de
 stats.alocreativa.com
 stats.am.ai
@@ -844,6 +844,7 @@ stats.xactcode.com
 stats.xn--antnio-dxa.pt
 stats.xrechnung.app
 stats.zimri.net
+statstest.upti.pro
 statystyki.ekspertyzy-szkolenia.pl
 sts.authramp.com
 sts.eliasjarzombek.com

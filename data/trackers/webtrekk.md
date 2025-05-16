@@ -57,9 +57,7 @@
     * 195357560818821.wt-eu02.net
     * 198101699966051.wt-eu02.net
     * 209191871910909.wt-eu02.net
-    * 215718253266138.wt-eu02.net
     * 215973748390194.wt-eu02.net
-    * 219987111224544.wt-eu02.net
     * 227633596530844.wt-eu02.net
     * 228171111835997.wt-eu02.net
     * 229792913412288.wt-eu02.net
@@ -84,6 +82,7 @@
     * 329712103760415.wt-eu02.net
     * 329744135290071.wt-eu02.net
     * 339874301969258.wt-eu02.net
+    * 344809598492039.wt-eu02.net
     * 350258498646185.wt-eu02.net
     * 350452854671016.wt-eu02.net
     * 366003812072969.wt-eu02.net
@@ -133,6 +132,7 @@
     * 639871942536313.wt-eu02.net
     * 641523609775483.wt-eu02.net
     * 642216731269756.wt-eu02.net
+    * 645617463084043.wt-eu02.net
     * 654069251471705.wt-eu02.net
     * 657801072187647.wt-eu02.net
     * 666882163750646.wt-eu02.net
@@ -162,6 +162,7 @@
     * 769396664005295.wt-eu02.net
     * 770833460572104.wt-eu02.net
     * 778835614863159.wt-eu02.net
+    * 786480128044234.wt-eu02.net
     * 790635424156780.wt-eu02.net
     * 792100555808051.wt-eu02.net
     * 792207084509163.wt-eu02.net
@@ -290,9 +291,7 @@
 | webmet.crefotrust.de | 195357560818821.wt-eu02.net |
 | web.campaign.jaked.com | 198101699966051.wt-eu02.net |
 | web.usautosupply.com | 209191871910909.wt-eu02.net |
-| webanalytics.also.ch | 215718253266138.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
-| webanalytics.also.pt | 219987111224544.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
 | web.news.boxeurdesrues.com | 228171111835997.wt-eu02.net |
 | web.web.tomasiauto.com | 229792913412288.wt-eu02.net |
@@ -327,6 +326,7 @@
 | web.email.amplifiedclothing.com | 339874301969258.wt-eu02.net |
 | web.email.sebago.co.uk | 339874301969258.wt-eu02.net |
 | web.email.superga.co.uk | 339874301969258.wt-eu02.net |
+| info.junior-deutsch.ch | 344809598492039.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
 | data.velivery.com | 350452854671016.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
@@ -401,11 +401,11 @@
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
 | mapp.peacocks.co.uk | 642216731269756.wt-eu02.net |
+| data.news.juventus.com | 645617463084043.wt-eu02.net |
 | info.deltapublishing.co.uk | 654069251471705.wt-eu02.net |
 | web.slimjoy.com | 657801072187647.wt-eu02.net |
 | web.slimjoy.cz | 657801072187647.wt-eu02.net |
 | web.slimjoy.es | 657801072187647.wt-eu02.net |
-| web.slimjoy.it | 657801072187647.wt-eu02.net |
 | web.slimjoy.org | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
@@ -427,6 +427,7 @@
 | web.mail.proximaati.com | 741723125859679.wt-eu02.net |
 | info.klett-sprachen.es | 743184791610379.wt-eu02.net |
 | web.enews.lenotre.fr | 745236865646164.wt-eu02.net |
+| wt.dialog-leben.at | 752542050590835.wt-eu02.net |
 | wt.dialog-versicherung.de | 752542050590835.wt-eu02.net |
 | wt.generalihealthsolutions.de | 752542050590835.wt-eu02.net |
 | wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
@@ -438,6 +439,8 @@
 | ctd.domusweb.it | 778835614863159.wt-eu02.net |
 | ctd.dueruote.it | 778835614863159.wt-eu02.net |
 | ctd.edidomus.it | 778835614863159.wt-eu02.net |
+| ctd.montagna.tv | 778835614863159.wt-eu02.net |
+| web.mail.koganpage.com | 786480128044234.wt-eu02.net |
 | web.communications.amouage.com | 790635424156780.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.post.toa.st | 792207084509163.wt-eu02.net |
@@ -489,7 +492,6 @@
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |
 | mit.researchlog.db.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
-| mit.researchlog.dbresearch.de | 965607891904117.wt-eu02.net |
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
 | def.bayer04.de | 969665527401678.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |

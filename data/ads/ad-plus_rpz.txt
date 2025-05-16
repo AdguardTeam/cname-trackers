@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,4 +31,5 @@ serving.profitsence.com CNAME .
 serving.srmg.com CNAME .
 serving.thebeglobal.com CNAME .
 serving.viewtraff.com CNAME .
+stream.kolorowey.com CNAME .
 vidops.zeeker.com CNAME .

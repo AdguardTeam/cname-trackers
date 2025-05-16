@@ -383,6 +383,7 @@
 ||tms.betwaysatta.com^
 ||tms.betwaysatta1.com^
 ||tms.capitalone.com^
+||tms.cheq.ai^
 ||tms.delta.com^
 ||tms.experian.com^
 ||tms.jbwere.com.au^

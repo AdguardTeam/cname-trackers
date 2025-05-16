@@ -237,7 +237,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -358,7 +357,6 @@
     * juvlabs.extole.io
     * keds.extole.io
     * kerastase-usa.extole.io
-    * key.extole.io
     * knixteen.extole.io
     * kotn.extole.io
     * kumon.extole.io
@@ -474,6 +472,7 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
+    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -527,6 +526,7 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -791,7 +791,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -899,6 +898,7 @@
 | share.kitsapsun.com | gannett.extole.io |
 | share.knoxnews.com | gannett.extole.io |
 | share.lansingstatejournal.com | gannett.extole.io |
+| share.lohud.com | gannett.extole.io |
 | share.mansfieldnewsjournal.com | gannett.extole.io |
 | share.montgomeryadvertiser.com | gannett.extole.io |
 | share.naplesnews.com | gannett.extole.io |
@@ -1018,7 +1018,6 @@
 | friends.keurig.com | keurig-ssl.extole.com |
 | friends.keurig.ca | keurigca.extole.com |
 | amis.keurig.ca | keurigfr.extole.com |
-| share.key.com | key.extole.io |
 | refer.kipling-usa.com | kipling-usa.extole.com |
 | refer.knixteen.ca | knixteen.extole.io |
 | refer.knixteen.com | knixteen.extole.io |
@@ -1191,6 +1190,7 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
+| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1260,6 +1260,7 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |

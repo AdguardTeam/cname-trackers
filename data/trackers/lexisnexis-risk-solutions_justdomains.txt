@@ -30,6 +30,7 @@ afm.ultimamarketsglobal.com
 afm.ultimamkts.com
 afm.umtradings.com
 afm.umultima.hk
+afm.vantage-markets-apac.com
 afm.vantage-markets.com
 afm.vantagemarkets.co
 afm.vantagemarkets.co.uk
@@ -136,7 +137,6 @@ cdn1.thm.stgeorge.com.au
 cdn1.thm.westpac.com.au
 cdn17.citizensbank.com
 cdn2.intercambioexpress.com
-cdn2.lfg.com
 cdn2.moneycorp.com
 cdn3.littlecaesars.com
 cdn3.moneycorp.com
@@ -470,6 +470,7 @@ debs.my100bank.com
 dep.gambit29.gameassists.co.uk
 dep.gambit3.gameassists.co.uk
 dept.provantage.com
+detect.clearme.com
 dev-rmscheck.sbifxt.co.jp
 device-profile.jeniusbank.com
 device.invoice2go.com
@@ -579,7 +580,6 @@ id.solidgate.com
 identidaddigital.credicomer.com.sv
 identity.blueprintportal.com
 identity.myblueprint.arkansasbluecross.com
-identity4.citidirect.com
 idhtm.bb.com.br
 idstatus.sky.com
 idstatus.sky.it
@@ -672,6 +672,7 @@ lnday.sinclair.edu
 lnths.twc.texas.gov
 lnthxsvc.tsp.gov
 log.betdaq.com
+log.checkmyfile.co.uk
 log.checkmyfile.com
 log.creditreport.co.uk
 log.open.investorsbank.com
@@ -798,6 +799,7 @@ prod-pacservice.chaperone.lumindigitalhosting.com
 prod-pathways.chaperone.lumindigitalhosting.com
 prod-prospera.chaperone.lumindigitalhosting.com
 prod-redwood.chaperone.lumindigitalhosting.com
+prod-riverfront.chaperone.lumindigitalhosting.com
 prod-selco.chaperone.lumindigitalhosting.com
 prod-sesloc.chaperone.lumindigitalhosting.com
 prod-sfcupa.chaperone.lumindigitalhosting.com
@@ -822,6 +824,7 @@ prod-westccu.chaperone.lumindigitalhosting.com
 profiling.cmo.cibc.com
 profiling.digitalbusiness.cibc.com
 profiling.qacitizensbankonline.com
+provider-services.openbank.mx
 ptm.creditas.com
 public-check3-at.test.tiaa-cref.org
 public-check3-at.test.tiaa.org
@@ -925,6 +928,7 @@ secure.zando.co.za
 secure3.segpay.com
 securecheckout.halloweencostumes.com
 secured.netflix.com
+security.vanquis.com
 service.riverscontent.com
 services-tmx.cofidis.cz
 servicesdp.luckydays.ca
@@ -1072,7 +1076,6 @@ tm.creditprotect.illion.co.nz
 tm.creditprotect.illion.com.au
 tm.cybersource.com
 tm.defense.dbp.fiservapps.com
-tm.directly.com
 tm.espnbet.com
 tm.fanduel.com
 tm.fidelity.ca
@@ -1082,6 +1085,7 @@ tm.goldennuggetcasino.com
 tm.gumtree.co.za
 tm.gumtree.com.au
 tm.humanesociety.org
+tm.humaneworld.org
 tm.kotak.com
 tm.okinushub.com
 tm.paysafecard.com
@@ -1114,6 +1118,7 @@ tmcdn.alljackpotscasino.com
 tmcdn.allslotscasino.com
 tmcdn.europalace.com
 tmcdn.gamingclub.com
+tmcdn.grizzlysquest.com
 tmcdn.homeaway.com
 tmcdn.jackpotcity.ca
 tmcdn.jackpotcity.mx
@@ -1156,6 +1161,7 @@ tmx.carhistory.com.au
 tmx.cdn-btsg.com
 tmx.efsllc.com
 tmx.esfp.c1.vanguard.com
+tmx.fincombank.com
 tmx.gotobilling.com
 tmx.idp.eu.safenetid.com
 tmx.idp.safenetid-staging.safenetid.com
@@ -1257,3 +1263,4 @@ ydkwim.targobank.de
 yr3ioxw.hoaresbank.co.uk
 zfp.intuit.com
 zrn.payglocal.com
+identity4.citidirect.com

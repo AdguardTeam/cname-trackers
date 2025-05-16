@@ -25,7 +25,6 @@
 | analytics.betterplaces.nl | custom.plausible.io |
 | analytics.certifriedit.com | custom.plausible.io |
 | analytics.churchthemes.com | custom.plausible.io |
-| analytics.codeforscience.org | custom.plausible.io |
 | analytics.codeskulptor.org | custom.plausible.io |
 | analytics.eikko.ai | custom.plausible.io |
 | analytics.ericafischerphotography.com | custom.plausible.io |
@@ -327,6 +326,7 @@
 | stats.aikidowaza.com | custom.plausible.io |
 | stats.aixbrain.de | custom.plausible.io |
 | stats.albert-kropp-gmbh.de | custom.plausible.io |
+| stats.alibhai.co | custom.plausible.io |
 | stats.alleaktien.de | custom.plausible.io |
 | stats.alocreativa.com | custom.plausible.io |
 | stats.am.ai | custom.plausible.io |
@@ -856,6 +856,7 @@
 | stats.xn--antnio-dxa.pt | custom.plausible.io |
 | stats.xrechnung.app | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
+| statstest.upti.pro | custom.plausible.io |
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |
 | sts.authramp.com | custom.plausible.io |
 | sts.eliasjarzombek.com | custom.plausible.io |

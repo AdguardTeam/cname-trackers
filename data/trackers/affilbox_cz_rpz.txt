@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -616,7 +616,6 @@ partner.jedlenadobi.cz CNAME .
 partner.jillylenau.cz CNAME .
 partner.jipos.sk CNAME .
 partner.kafista.cz CNAME .
-partner.kalhotkomat.cz CNAME .
 partner.kasparci.eu CNAME .
 partner.ketomix.cz CNAME .
 partner.ketomix.sk CNAME .
@@ -740,6 +739,7 @@ partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
 partner.semor.cz CNAME .
+partner.sevio.cz CNAME .
 partner.sielbeauty.cz CNAME .
 partner.simplymix.com CNAME .
 partner.skinnygirls.cz CNAME .
@@ -900,7 +900,6 @@ partneri.professionail.sk CNAME .
 partneri.proficredit.cz CNAME .
 partneri.pulzsro.cz CNAME .
 partneri.puravia.cz CNAME .
-partneri.radostkazdyden.cz CNAME .
 partneri.razdvapujcka.cz CNAME .
 partneri.realitnishaker.cz CNAME .
 partneri.richardstepan.cz CNAME .
@@ -932,7 +931,6 @@ partneri.umenibytzdrav.cz CNAME .
 partneri.umenijazyku.cz CNAME .
 partneri.vashop.cz CNAME .
 partneri.viadelicia.cz CNAME .
-partneri.vitaon.cz CNAME .
 partneri.volejbal.sk CNAME .
 partneri.volny-termin.cz CNAME .
 partneri.vseprobeh.cz CNAME .

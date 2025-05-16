@@ -53,6 +53,7 @@ sponsor.syracuse.com
 26d8d63e24.1b00a325c4.com
 26e2a92a02.a19f79e94d.com
 26e5cdfa54.ebfe416c5c.com
+27064b2d7e.fb8fb174cf.com
 272dc9d5cf.c79e84f98a.com
 2784de9292.9359ca9921.com
 28f382a788.999181dbee.com
@@ -61,7 +62,6 @@ sponsor.syracuse.com
 2b52362557.22670c0b39.com
 2b72ab91a5.03bcce4872.com
 2bdfa5663a.14cf88c422.com
-2cd3a118f8.d6344ef0f4.com
 2e1aaa5ac9.3e1b245c19.com
 2f0d2783a4.03cc900069.com
 2f20db3e20.3b38bb1916.com
@@ -121,7 +121,6 @@ sponsor.syracuse.com
 5d0405d69d.7677b41a02.com
 5da683ff01.dccf2d24c6.com
 5dc70c6440.4b6555c25a.com
-5f69343b4b.cb8ef6fb70.com
 60a0d15c08.fd543926b7.com
 60d27b4251.8ce997f25e.com
 60e6e601fe.b97cb0a16c.com
@@ -203,10 +202,8 @@ sponsor.syracuse.com
 9ad4aa9b37.8c450453b2.com
 9b27c61c1e.a07154cac7.com
 9bb5444a65.d1d114356e.com
-9c5a4e173e.0069672d29.com
 9cb99d5798.a7c023663a.com
 9da3c90943.19e1d1f849.com
-9dc66b2911.b74ceb1c82.com
 9e74beea59.5f5517c662.com
 a0282a73c1.af46d70a67.com
 a0ebca87d0.0c39e4a106.com
@@ -215,7 +212,9 @@ a2cad384fc.1332bfac2b.com
 a2cc7ca664.3491a7e985.com
 a49db45a80.cd8f50cc9d.com
 a536a1e335.52154cdd64.com
+a6a595afa0.d20591a5fd.com
 a6ef6929e5.6cc5f97c91.com
+a80f715848.b9103544dc.com
 a91a3eb601.68d4d1e771.com
 ab68f17c55.ac94c2b385.com
 ad6dc9f2a9.fa729bc841.com
@@ -272,6 +271,7 @@ d011b1c7bf.09222d3e04.com
 d263c5431c.1e3afdea62.com
 d3f013ea52.895c67da73.com
 d3f06f58e4.7751c829ca.com
+d47b55828a.de3887b464.com
 d4bdc31b7e.99d1f1d37e.com
 d4d1547cd0.80896e4695.com
 d56a549e9a.4b516fd6c9.com
@@ -310,7 +310,6 @@ ef16276d05.22a008da69.com
 ef506fa44f.580fbe2c4e.com
 eff5b71559.71cc83c768.com
 f03917a204.d66eacfd84.com
-f0522448da.f6196520b9.com
 f154d0ea0e.ae01326ea0.com
 f1923e23bf.aef7fa2241.com
 f1ac7cb1ae.744908dbf5.com
@@ -337,6 +336,7 @@ mlive.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
 17641c9b6d.fbebe71ece.com
+9c5a4e173e.0069672d29.com
 b3d55d5eec.ea09e63fed.com
 a135.fox23.com
 a135.wpxi.com

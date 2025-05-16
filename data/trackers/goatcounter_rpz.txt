@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ analytics.ferrybig.me CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.law.lco-nsn.gov CNAME .
 analytics.law.mohican.com CNAME .
+analytics.law.sanipueblo.org CNAME .
 analytics.law.tmchippewa.com CNAME .
 analytics.law.umitribe.org CNAME .
 analytics.leespace.co CNAME .
@@ -98,6 +99,7 @@ stats.cloudnativebitcoin.org CNAME .
 stats.coderscompass.org CNAME .
 stats.crosshair.dev CNAME .
 stats.dalinwilliams.com CNAME .
+stats.davidjuhasz.dev CNAME .
 stats.eithel.org CNAME .
 stats.fieald.com CNAME .
 stats.forest-school.am CNAME .
@@ -111,6 +113,7 @@ stats.ignatuque.xyz CNAME .
 stats.isaacfreund.com CNAME .
 stats.jakebailey.dev CNAME .
 stats.jamesgwyer.com CNAME .
+stats.jasm1nii.xyz CNAME .
 stats.jessesquires.com CNAME .
 stats.jmmr.dev CNAME .
 stats.johanneswienke.de CNAME .
@@ -120,6 +123,7 @@ stats.kc.ie CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
 stats.kwanok.me CNAME .
+stats.linerly.xyz CNAME .
 stats.lspeed.org CNAME .
 stats.matteocroce.it CNAME .
 stats.mausoleum.me CNAME .

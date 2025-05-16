@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -196,6 +196,7 @@ a8.kland.shop CNAME .
 a8.kojyo-worker.com CNAME .
 a8.kotei-denwa.com CNAME .
 a8.kougu-kaitoriyasan.com CNAME .
+a8.kujo-service.com CNAME .
 a8.l-co-shop.jp CNAME .
 a8.lacitashop.com CNAME .
 a8.lantelno.jp CNAME .
@@ -342,6 +343,7 @@ a8.tone.ne.jp CNAME .
 a8.toraiz.jp CNAME .
 a8.tour-sys.com CNAME .
 a8.tour.jtrip.co.jp CNAME .
+a8.toyoumo.jp CNAME .
 a8.track.entry.dokoyorimo.com CNAME .
 a8.triple-m.jp CNAME .
 a8.tscubic.com CNAME .
@@ -693,6 +695,7 @@ a8clk.sp.move-ebike.co.jp CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .
 a8clk.starwifi.jp CNAME .
+a8clk.stken.owners-age.com CNAME .
 a8clk.store.kadokawa.co.jp CNAME .
 a8clk.store.mago-ch.com CNAME .
 a8clk.stst-used.com CNAME .
@@ -1088,6 +1091,7 @@ a8cv.lens-1.jp CNAME .
 a8cv.leoandlea.com CNAME .
 a8cv.lesson-note.com CNAME .
 a8cv.leverage-learning.com CNAME .
+a8cv.lianest.co.jp CNAME .
 a8cv.lifenrich.co.jp CNAME .
 a8cv.lifull.jp CNAME .
 a8cv.livechat-berry.com CNAME .

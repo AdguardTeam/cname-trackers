@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,11 +12,13 @@ $TTL 300
 @    IN   NS    localhost.
 
 at.h24.news CNAME .
+barracuda.h24.news CNAME .
 c.leparisien.fr CNAME .
 de.h24.news CNAME .
 flow-prod.h24.news CNAME .
 go.3ds.com CNAME .
 go.france24.com CNAME .
+go.lenouveaudetective.com CNAME .
 go.letelegramme.fr CNAME .
 go.mc-doualiya.com CNAME .
 go.meretmarine.com CNAME .
@@ -130,6 +132,7 @@ l.ledauphine.com CNAME .
 l.lefigaro.fr CNAME .
 l.lejournaldelamaison.fr CNAME .
 l.lejsl.com CNAME .
+l.lemoniteurdespharmacies.fr CNAME .
 l.leparisien.fr CNAME .
 l.lepoint.fr CNAME .
 l.leprogres.fr CNAME .
@@ -214,12 +217,21 @@ l.voici.fr CNAME .
 l.vosgesmatin.fr CNAME .
 l.whatsupdoc-lemag.fr CNAME .
 l.zdnet.fr CNAME .
+mail10.h24.news CNAME .
+mail11.h24.news CNAME .
+mx3.h24.news CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
 poc.warnerbros.fr CNAME .
+pop.h24.news CNAME .
 prod-1.moarty.com CNAME .
 prod-3.moarty.com CNAME .
 prod-4.moarty.com CNAME .
+relay.h24.news CNAME .
+remote.h24.news CNAME .
+server1.h24.news CNAME .
+smtp.mail.h24.news CNAME .
+smtp2.h24.news CNAME .
 social.agrodistribution.fr CNAME .
 social.eleveur-laitier.fr CNAME .
 social.lafranceagricole.fr CNAME .
@@ -228,3 +240,4 @@ sur.laprovence.com CNAME .
 www.20min.fr CNAME .
 www.altereco.media CNAME .
 www.h24.news CNAME .
+zmail.h24.news CNAME .

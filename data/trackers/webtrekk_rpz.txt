@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,6 +61,7 @@ cdn7.baunetz.de CNAME .
 ctd.domusweb.it CNAME .
 ctd.dueruote.it CNAME .
 ctd.edidomus.it CNAME .
+ctd.montagna.tv CNAME .
 ctdfm.ilgiornale.it CNAME .
 ctrkd.ilsole24ore.com CNAME .
 da.hornbach.at CNAME .
@@ -89,6 +90,7 @@ data.main-ding.de CNAME .
 data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
+data.news.juventus.com CNAME .
 data.vdi-wissensforum.de CNAME .
 data.velivery.com CNAME .
 data.volksfreund.de CNAME .
@@ -147,6 +149,7 @@ info.deltapublishing.co.uk CNAME .
 info.der-gruene-max.ch CNAME .
 info.derdiedaf.com CNAME .
 info.genialklick.ch CNAME .
+info.junior-deutsch.ch CNAME .
 info.klett-international.com CNAME .
 info.klett-sprachen.de CNAME .
 info.klett-sprachen.es CNAME .
@@ -176,7 +179,6 @@ mit.dws.de CNAME .
 mit.postbank.de CNAME .
 mit.researchlog.db.com CNAME .
 mit.researchlog.dbresearch.com CNAME .
-mit.researchlog.dbresearch.de CNAME .
 on.dextra.ch CNAME .
 ot.obi-baumarkt.ch CNAME .
 ot.obi-brico.ch CNAME .
@@ -314,6 +316,7 @@ web.info.varelotteriet.dk CNAME .
 web.info.xerjoff.com CNAME .
 web.info.yeppon.it CNAME .
 web.jana-shoes.com CNAME .
+web.mail.koganpage.com CNAME .
 web.mail.parmalat.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mailing.morawa.at CNAME .
@@ -381,7 +384,6 @@ web.sidsavage.com CNAME .
 web.slimjoy.com CNAME .
 web.slimjoy.cz CNAME .
 web.slimjoy.es CNAME .
-web.slimjoy.it CNAME .
 web.slimjoy.org CNAME .
 web.slimjoy.sk CNAME .
 web.solesource.com CNAME .
@@ -401,9 +403,7 @@ web.usautosupply.com CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 web2.updates.ditano.com CNAME .
-webanalytics.also.ch CNAME .
 webanalytics.also.com CNAME .
-webanalytics.also.pt CNAME .
 webmet.creditreform-mahnwesen.de CNAME .
 webmet.creditreform.de CNAME .
 webmet.crefotrust.de CNAME .
@@ -417,6 +417,7 @@ webt.store.okmilo.com CNAME .
 wt.ara.ad CNAME .
 wt.ara.cat CNAME .
 wt.arabalears.cat CNAME .
+wt.dialog-leben.at CNAME .
 wt.dialog-versicherung.de CNAME .
 wt.envivas.de CNAME .
 wt.generali.de CNAME .

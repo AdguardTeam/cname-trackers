@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -131,6 +131,7 @@ www.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
+www.xn--icn-hn0a.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

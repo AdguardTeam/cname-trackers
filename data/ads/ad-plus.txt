@@ -20,4 +20,5 @@
 ||serving.srmg.com^
 ||serving.thebeglobal.com^
 ||serving.viewtraff.com^
+||stream.kolorowey.com^
 ||vidops.zeeker.com^

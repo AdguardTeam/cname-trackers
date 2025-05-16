@@ -605,7 +605,6 @@ partner.jedlenadobi.cz
 partner.jillylenau.cz
 partner.jipos.sk
 partner.kafista.cz
-partner.kalhotkomat.cz
 partner.kasparci.eu
 partner.ketomix.cz
 partner.ketomix.sk
@@ -729,6 +728,7 @@ partner.santao.cz
 partner.scilearn.cz
 partner.scootshop.cz
 partner.semor.cz
+partner.sevio.cz
 partner.sielbeauty.cz
 partner.simplymix.com
 partner.skinnygirls.cz
@@ -889,7 +889,6 @@ partneri.professionail.sk
 partneri.proficredit.cz
 partneri.pulzsro.cz
 partneri.puravia.cz
-partneri.radostkazdyden.cz
 partneri.razdvapujcka.cz
 partneri.realitnishaker.cz
 partneri.richardstepan.cz
@@ -921,7 +920,6 @@ partneri.umenibytzdrav.cz
 partneri.umenijazyku.cz
 partneri.vashop.cz
 partneri.viadelicia.cz
-partneri.vitaon.cz
 partneri.volejbal.sk
 partneri.volny-termin.cz
 partneri.vseprobeh.cz

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -394,6 +394,7 @@ tms.betwayarabia.com CNAME .
 tms.betwaysatta.com CNAME .
 tms.betwaysatta1.com CNAME .
 tms.capitalone.com CNAME .
+tms.cheq.ai CNAME .
 tms.delta.com CNAME .
 tms.experian.com CNAME .
 tms.jbwere.com.au CNAME .

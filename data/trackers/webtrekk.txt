@@ -50,6 +50,7 @@
 ||ctd.domusweb.it^
 ||ctd.dueruote.it^
 ||ctd.edidomus.it^
+||ctd.montagna.tv^
 ||ctdfm.ilgiornale.it^
 ||ctrkd.ilsole24ore.com^
 ||da.hornbach.at^
@@ -78,6 +79,7 @@
 ||data.mainpost.de^
 ||data.mapp.com^
 ||data.mediaworld.it^
+||data.news.juventus.com^
 ||data.vdi-wissensforum.de^
 ||data.velivery.com^
 ||data.volksfreund.de^
@@ -136,6 +138,7 @@
 ||info.der-gruene-max.ch^
 ||info.derdiedaf.com^
 ||info.genialklick.ch^
+||info.junior-deutsch.ch^
 ||info.klett-international.com^
 ||info.klett-sprachen.de^
 ||info.klett-sprachen.es^
@@ -165,7 +168,6 @@
 ||mit.postbank.de^
 ||mit.researchlog.db.com^
 ||mit.researchlog.dbresearch.com^
-||mit.researchlog.dbresearch.de^
 ||on.dextra.ch^
 ||ot.obi-baumarkt.ch^
 ||ot.obi-brico.ch^
@@ -303,6 +305,7 @@
 ||web.info.xerjoff.com^
 ||web.info.yeppon.it^
 ||web.jana-shoes.com^
+||web.mail.koganpage.com^
 ||web.mail.parmalat.it^
 ||web.mail.proximaati.com^
 ||web.mailing.morawa.at^
@@ -370,7 +373,6 @@
 ||web.slimjoy.com^
 ||web.slimjoy.cz^
 ||web.slimjoy.es^
-||web.slimjoy.it^
 ||web.slimjoy.org^
 ||web.slimjoy.sk^
 ||web.solesource.com^
@@ -390,9 +392,7 @@
 ||web.web.tomasiauto.com^
 ||web.x.ilpost.it^
 ||web2.updates.ditano.com^
-||webanalytics.also.ch^
 ||webanalytics.also.com^
-||webanalytics.also.pt^
 ||webmet.creditreform-mahnwesen.de^
 ||webmet.creditreform.de^
 ||webmet.crefotrust.de^
@@ -406,6 +406,7 @@
 ||wt.ara.ad^
 ||wt.ara.cat^
 ||wt.arabalears.cat^
+||wt.dialog-leben.at^
 ||wt.dialog-versicherung.de^
 ||wt.envivas.de^
 ||wt.generali.de^

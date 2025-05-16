@@ -67,6 +67,7 @@
     * lawbulletin-delivery.aquaplatform.com
     * lb-console.aquaplatform.com
     * lb-delivery.aquaplatform.com
+    * lb-media.aquaplatform.com
     * lb-static.aquaplatform.com
     * livingmag-console.aquaplatform.com
     * livingmag-delivery.aquaplatform.com
@@ -254,6 +255,7 @@
 | console.leightonbroadcasting.com | lb-console.aquaplatform.com |
 | www.console.leightonbroadcasting.com | lb-console.aquaplatform.com |
 | banners.leightonbroadcasting.com | lb-delivery.aquaplatform.com |
+| streaming.leightonbroadcasting.com | lb-media.aquaplatform.com |
 | cdn.leightonbroadcasting.com | lb-static.aquaplatform.com |
 | console.livingmagonline.com | livingmag-console.aquaplatform.com |
 | www.console.livingmagonline.com | livingmag-console.aquaplatform.com |
@@ -263,6 +265,7 @@
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
 | console.mannixmarketing.com | mannix-console.aquaplatform.com |
+| adserv1.mannixmarketing.com | mannix-delivery.aquaplatform.com |
 | servedby.mannixmarketing.com | mannix-delivery.aquaplatform.com |
 | static.mannixmarketing.com | mannix-static.aquaplatform.com |
 | ox.mequoda.com | mequoda-delivery.aquaplatform.com |
@@ -297,6 +300,8 @@
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
 | adimages.infotorg.se | platformiq-cdn.aquaplatform.com |
+| adimages.marriagetrac.com | platformiq-cdn.aquaplatform.com |
+| adimages.proforums.com | platformiq-cdn.aquaplatform.com |
 | adztech-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | etnomedia-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
@@ -354,7 +359,9 @@
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
 | cdn.pinktriangle.ca | ptp-static.aquaplatform.com |
 | adstatic.kozoom.com | reservoir.aquaplatform.com |
+| media.revive-adserver.com | reservoir.aquaplatform.com |
 | static.aqua-adserver.com | reservoir.aquaplatform.com |
+| static.quirks.com | reservoir.aquaplatform.com |
 | static.walaplusadserver.com | reservoir.aquaplatform.com |
 | www.cdn.metrike.com | reservoir.aquaplatform.com |
 | adconsole.eva.live | revivehosted-console.aquaplatform.com |

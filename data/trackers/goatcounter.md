@@ -39,6 +39,7 @@
     * dailies.goatcounter.com
     * dalinwilliams.goatcounter.com
     * dannynullzwo.goatcounter.com
+    * davidjuhasz.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
     * dungeon.goatcounter.com
@@ -69,6 +70,7 @@
     * isaacfreund.goatcounter.com
     * jakebailey.goatcounter.com
     * jam.goatcounter.com
+    * jasmineamalia.goatcounter.com
     * jmmr-dev.goatcounter.com
     * johanneswienke.goatcounter.com
     * jojonas.goatcounter.com
@@ -83,9 +85,11 @@
     * landing-forest-school.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
+    * law-sanipueblo-org.goatcounter.com
     * law-tmchippewa-com.goatcounter.com
     * law-umitribe-org.goatcounter.com
     * lco-nsn-us-open-law.goatcounter.com
+    * linerly.goatcounter.com
     * localhosed.goatcounter.com
     * lspeed.goatcounter.com
     * maik-dev.goatcounter.com
@@ -193,6 +197,7 @@
 | trackerstats.davidthe.dev | dailies.goatcounter.com |
 | stats.dalinwilliams.com | dalinwilliams.goatcounter.com |
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
+| stats.davidjuhasz.dev | davidjuhasz.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
@@ -223,6 +228,7 @@
 | stats.isaacfreund.com | isaacfreund.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
 | stats.jamesgwyer.com | jam.goatcounter.com |
+| stats.jasm1nii.xyz | jasmineamalia.goatcounter.com |
 | stats.jmmr.dev | jmmr-dev.goatcounter.com |
 | stats.johanneswienke.de | johanneswienke.goatcounter.com |
 | stats.jonaslieb.de | jojonas.goatcounter.com |
@@ -237,9 +243,11 @@
 | stats.forest-school.am | landing-forest-school.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
+| analytics.law.sanipueblo.org | law-sanipueblo-org.goatcounter.com |
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
 | analytics.law.umitribe.org | law-umitribe-org.goatcounter.com |
 | analytics.law.lco-nsn.gov | lco-nsn-us-open-law.goatcounter.com |
+| stats.linerly.xyz | linerly.goatcounter.com |
 | stats.svc.lol | localhosed.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |

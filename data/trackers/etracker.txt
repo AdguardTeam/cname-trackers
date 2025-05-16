@@ -3,6 +3,7 @@
 ||a.trowow.de^
 ||analytics.freiraumakustik.de^
 ||analytics.gerstacker-weinkellerei.de^
+||analytics.kist-escherich.com^
 ||analytics.monobloc.de^
 ||assets.telefonanlage-shop.de^
 ||atrdb.laeckerli-huus.ch^
@@ -13,6 +14,7 @@
 ||click.easycosmetic.ch^
 ||click.easycosmetic.de^
 ||click.easycosmetic.nl^
+||connect.glowtox.de^
 ||connect.peter-bringts.de^
 ||controlling.bartenbach.de^
 ||ct.krauss.app^
@@ -42,6 +44,7 @@
 ||et.lavita.com^
 ||et.lioran.de^
 ||et.majdic.at^
+||et.ocean-pharma.de^
 ||et.pns24.de^
 ||et.schindlerparent.de^
 ||et.sectornord.de^
@@ -98,6 +101,7 @@
 ||sst.cannapoli.de^
 ||sst.grasrezept-vergleich.de^
 ||stat.beetfreunde.de^
+||statistics.finkhof.de^
 ||statistics.fruchtbarewelt.de^
 ||stats.die-bibel.de^
 ||stats.folienmarkt.de^
@@ -185,6 +189,7 @@
 ||webcontr.verpoorten-mall.de^
 ||webcontr.verpoorten.de^
 ||webcontr.vetter-pharma.com^
+||webcontr.wgv.de^
 ||webcontr.wolkenlosundheiter.de^
 ||webcontrol.brenners-altholz.at^
 ||webctrl.dalimed.de^
@@ -196,6 +201,7 @@
 ||wt.leitz.org^
 ||wurst.hausschlachtebedarf.de^
 ||wurst.leffis.de^
+||www2.faxverteiler.com^
 ||yogi.snuffland.de^
 ||esub.akkusys.de^
 ||et.juskys.de^

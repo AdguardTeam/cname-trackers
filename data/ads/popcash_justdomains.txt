@@ -704,7 +704,6 @@ minnow.tapas-software.net
 mite.cotinga.io
 mite.tetrameros.com
 mole.bteam.co
-mole.bubblefoundation.org.uk
 mole.dansksejlunion.dk
 mole.energizer.eu
 mole.getfamealy.com
@@ -916,7 +915,6 @@ sheep.vaxstandby.com
 shrew.ryangjchandler.co.uk
 silkworm.bobsmechanicalrepairs.co.uk
 silkworm.boxmood.be
-silkworm.preventingsuicideinsussex.org
 silkworm.waspexpert.com
 silkworm.westwoodmbc.org
 silverfish.djordjevanjek.com
@@ -1186,4 +1184,5 @@ ss.nwemnd.com
 ss.nwmnd.com
 thirty-good.lugg.com
 video.adsninja.ca
+www.cdnaccelerationcache.com
 gerbil.recipe-ipsum.com

@@ -98,6 +98,7 @@
 | support-v2.sweetwaternow.com | bs-adserver.b-cdn.net |
 | supporters.redbankgreen.com | bs-adserver.b-cdn.net |
 | yourarlington.streetinteractive.com | bs-adserver.b-cdn.net |
+| www.cdnaccelerationcache.com | cdnaccelerationcache.b-cdn.net |
 | consent.cookiefirst.com | consent.b-cdn.net |
 | 1.bunkr-cache.se | core-apps.b-cdn.net |
 | bcdn.cpmstar.com | cpmstar.b-cdn.net |
@@ -660,7 +661,6 @@
 | mite.cotinga.io | deprecated-custom-domains.b-cdn.net |
 | mite.tetrameros.com | deprecated-custom-domains.b-cdn.net |
 | mole.bteam.co | deprecated-custom-domains.b-cdn.net |
-| mole.bubblefoundation.org.uk | deprecated-custom-domains.b-cdn.net |
 | mole.dansksejlunion.dk | deprecated-custom-domains.b-cdn.net |
 | mole.energizer.eu | deprecated-custom-domains.b-cdn.net |
 | mole.getfamealy.com | deprecated-custom-domains.b-cdn.net |
@@ -872,7 +872,6 @@
 | shrew.ryangjchandler.co.uk | deprecated-custom-domains.b-cdn.net |
 | silkworm.bobsmechanicalrepairs.co.uk | deprecated-custom-domains.b-cdn.net |
 | silkworm.boxmood.be | deprecated-custom-domains.b-cdn.net |
-| silkworm.preventingsuicideinsussex.org | deprecated-custom-domains.b-cdn.net |
 | silkworm.waspexpert.com | deprecated-custom-domains.b-cdn.net |
 | silkworm.westwoodmbc.org | deprecated-custom-domains.b-cdn.net |
 | silverfish.djordjevanjek.com | deprecated-custom-domains.b-cdn.net |

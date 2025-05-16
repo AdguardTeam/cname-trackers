@@ -626,7 +626,6 @@
 | partner.jillylenau.cz | cz.affilbox.cz |
 | partner.jipos.sk | cz.affilbox.cz |
 | partner.kafista.cz | cz.affilbox.cz |
-| partner.kalhotkomat.cz | cz.affilbox.cz |
 | partner.kasparci.eu | cz.affilbox.cz |
 | partner.ketomix.cz | cz.affilbox.cz |
 | partner.ketomix.sk | cz.affilbox.cz |
@@ -750,6 +749,7 @@
 | partner.scilearn.cz | cz.affilbox.cz |
 | partner.scootshop.cz | cz.affilbox.cz |
 | partner.semor.cz | cz.affilbox.cz |
+| partner.sevio.cz | cz.affilbox.cz |
 | partner.sielbeauty.cz | cz.affilbox.cz |
 | partner.simplymix.com | cz.affilbox.cz |
 | partner.skinnygirls.cz | cz.affilbox.cz |
@@ -910,7 +910,6 @@
 | partneri.proficredit.cz | cz.affilbox.cz |
 | partneri.pulzsro.cz | cz.affilbox.cz |
 | partneri.puravia.cz | cz.affilbox.cz |
-| partneri.radostkazdyden.cz | cz.affilbox.cz |
 | partneri.razdvapujcka.cz | cz.affilbox.cz |
 | partneri.realitnishaker.cz | cz.affilbox.cz |
 | partneri.richardstepan.cz | cz.affilbox.cz |
@@ -942,7 +941,6 @@
 | partneri.umenijazyku.cz | cz.affilbox.cz |
 | partneri.vashop.cz | cz.affilbox.cz |
 | partneri.viadelicia.cz | cz.affilbox.cz |
-| partneri.vitaon.cz | cz.affilbox.cz |
 | partneri.volejbal.sk | cz.affilbox.cz |
 | partneri.volny-termin.cz | cz.affilbox.cz |
 | partneri.vseprobeh.cz | cz.affilbox.cz |

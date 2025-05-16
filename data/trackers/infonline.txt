@@ -251,6 +251,7 @@
 ||data-1c0a3d83e3.transfermarkt.ch^
 ||data-1c0a3d83e3.transfermarkt.co.id^
 ||data-1c0a3d83e3.transfermarkt.co.in^
+||data-1c0a3d83e3.transfermarkt.co.kr^
 ||data-1c0a3d83e3.transfermarkt.co.uk^
 ||data-1c0a3d83e3.transfermarkt.co.za^
 ||data-1c0a3d83e3.transfermarkt.com.br^
@@ -482,7 +483,6 @@
 ||data-3e886ae3e6.zaubertopf.de^
 ||data-3eff3aac07.kino-zeit.de^
 ||data-3f0062caa0.elektro.net^
-||data-3f37694eeb.esports.com^
 ||data-3f8b797e45.stadtbuecherei-km.de^
 ||data-3f9c4f5eb9.automotive.at^
 ||data-3fb5262fad.unsersalzburg.at^
@@ -1761,6 +1761,7 @@
 ||data-ceb2600919.apps.iocnt.de^
 ||data-cedbf1e823.apps.iocnt.de^
 ||data-cf521b4223.op-marburg.de^
+||data-cf56e4da9b.1000ps.de^
 ||data-cf56e4da9b.motorradonline.de^
 ||data-cf8fd9b799.heizungsjournal.de^
 ||data-cf8fd9b799.integrale-planung.net^
@@ -1821,7 +1822,6 @@
 ||data-d815104c6c.it2media.de^
 ||data-d815104c6c.telefonbuch.de^
 ||data-d81f60d480.frankenpost.de^
-||data-d858e7585b.immobilien26.de^
 ||data-d858e7585b.jobs26.de^
 ||data-d858e7585b.lokal26.de^
 ||data-d85ba30209.solidbau.at^
@@ -1895,7 +1895,6 @@
 ||data-e3d4300b49.sport.de^
 ||data-e3d4300b49.teleboerse.de^
 ||data-e44d38afc3.apps.iocnt.de^
-||data-e47ac57521.immobilien26.de^
 ||data-e47ac57521.jobs26.de^
 ||data-e47ac57521.lokal26.de^
 ||data-e4997adf31.bilanz.de^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747036809541        ; Serial
+           1747411824045        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,8 @@ addurance-delivery.reviveservers.com CNAME .
 adimages.associationheadquarters.com CNAME .
 adimages.eva.live CNAME .
 adimages.infotorg.se CNAME .
+adimages.marriagetrac.com CNAME .
+adimages.proforums.com CNAME .
 adimages.sniffies.com CNAME .
 ads-console.recon.com CNAME .
 ads-delivery.milenarmedia.pt CNAME .
@@ -40,6 +42,7 @@ ads.swiss-equestrian.ch CNAME .
 ads.the-saleroom.com CNAME .
 ads.worldofshowjumping.com CNAME .
 ads.xtra.ca CNAME .
+adserv1.mannixmarketing.com CNAME .
 adserver.associationheadquarters.com CNAME .
 adserver.fa-mag.com CNAME .
 adserver.infotorg.se CNAME .
@@ -132,6 +135,7 @@ images.xtraa.org CNAME .
 informatm-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
 marriagetrac-delivery.reviveservers.com CNAME .
+media.revive-adserver.com CNAME .
 media360ads.midtc.com CNAME .
 omroepflevoland-static.reviveservers.com CNAME .
 omropfryslan-delivery.reviveservers.com CNAME .
@@ -220,6 +224,7 @@ static.polity.org.za CNAME .
 static.postandparcel.info CNAME .
 static.pppmag.com CNAME .
 static.proxibid.com CNAME .
+static.quirks.com CNAME .
 static.schrotundkorn.de CNAME .
 static.sonicplug.com CNAME .
 static.the-saleroom.com CNAME .
@@ -227,6 +232,7 @@ static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
 static.wwoz.org CNAME .
 stommeplaatjes.geenstijl.nl CNAME .
+streaming.leightonbroadcasting.com CNAME .
 tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
 webtool-delivery.reviveservers.com CNAME .
