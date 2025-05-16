@@ -239,6 +239,13 @@
             "goatcounter.com"
         ]
     },
+        {
+        "company_name": "GoAdserver",
+        "type": "ad",
+        "domains": [
+            "go.goadserver.com"
+        ]
+    },
     {
         "company_name": "heleric.com",
         "type": "ad",
