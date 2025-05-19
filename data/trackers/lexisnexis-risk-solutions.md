@@ -59,6 +59,7 @@
     * h-3375wwy7.online-metrix.net
     * h-35y9sib5-2.online-metrix.net
     * h-35y9sib5.online-metrix.net
+    * h-38g4gg8e.online-metrix.net
     * h-39zuido3.online-metrix.net
     * h-3ch524y7.online-metrix.net
     * h-3egydtt8.online-metrix.net
@@ -159,7 +160,6 @@
     * h-8e0pj0s9.online-metrix.net
     * h-8em5ysu2.online-metrix.net
     * h-8hqbv9ql.online-metrix.net
-    * h-8j0oqkrb-1.online-metrix.net
     * h-8la63gsu.online-metrix.net
     * h-8m7u92ti.online-metrix.net
     * h-8ms1wsqq.online-metrix.net
@@ -173,6 +173,7 @@
     * h-8ydtcbsf.online-metrix.net
     * h-8z6ccesi.online-metrix.net
     * h-91hkii01.online-metrix.net
+    * h-921kr3qj.online-metrix.net
     * h-92cpkbn2.online-metrix.net
     * h-92z7am36.online-metrix.net
     * h-94b5bk32.online-metrix.net
@@ -943,6 +944,7 @@
 | login-verification.dol.ct.gov | h-3375wwy7.online-metrix.net |
 | id.charge-auth.com | h-35y9sib5-2.online-metrix.net |
 | id.solidgate.com | h-35y9sib5.online-metrix.net |
+| lni.finom.co | h-38g4gg8e.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | fss.glbank.com | h-3ch524y7.online-metrix.net |
 | xmt.wallet.cat.earlywarning.io | h-3egydtt8.online-metrix.net |
@@ -1101,7 +1103,6 @@
 | 1bf86f4b.tictoc.ai | h-8e0pj0s9.online-metrix.net |
 | dtrust.atratopago.com | h-8em5ysu2.online-metrix.net |
 | online-security.unionbankph.com | h-8hqbv9ql.online-metrix.net |
-| rct.ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
 | afs.wearemp.com | h-8la63gsu.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
 | tmuat.kotak.com | h-8ms1wsqq.online-metrix.net |
@@ -1115,6 +1116,7 @@
 | content.myfamliplus.state.co.us | h-8ydtcbsf.online-metrix.net |
 | content.paysend.com | h-8z6ccesi.online-metrix.net |
 | app.uob.co.th | h-91hkii01.online-metrix.net |
+| prof4rs.cembrapay.ch | h-921kr3qj.online-metrix.net |
 | catalyst.mashreq.com | h-92cpkbn2.online-metrix.net |
 | ln.cash.app | h-92z7am36.online-metrix.net |
 | regstat.skybet.com | h-94b5bk32.online-metrix.net |

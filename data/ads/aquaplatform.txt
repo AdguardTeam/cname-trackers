@@ -103,6 +103,7 @@
 ||console.revive-adserver.net^
 ||console.sacommunications.com^
 ||console.trackandfieldnews.com^
+||console.walaplusadserver.com^
 ||coreads-console.cambridge.org^
 ||coreads-static.cambridge.org^
 ||coreads.cambridge.org^
@@ -240,6 +241,7 @@
 ||www.cdn.metrike.com^
 ||www.console.adspmg.com^
 ||www.console.ceramicartsnetwork.org^
+||www.console.falconstudios.com^
 ||www.console.healthcarescene.com^
 ||www.console.leightonbroadcasting.com^
 ||www.console.livingmagonline.com^
@@ -250,6 +252,7 @@
 ||www.coreads.cambridge.org^
 ||www.display.lawbulletin.com^
 ||www.images.hour-media.com^
+||www.images.informatm.com^
 ||www.lalala.geenstijl.nl^
 ||www.proforums.com^
 ||www.revive-static.worldscreen.com^

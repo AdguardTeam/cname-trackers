@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -177,8 +177,6 @@ mit.dslbank.de CNAME .
 mit.dws.com CNAME .
 mit.dws.de CNAME .
 mit.postbank.de CNAME .
-mit.researchlog.db.com CNAME .
-mit.researchlog.dbresearch.com CNAME .
 on.dextra.ch CNAME .
 ot.obi-baumarkt.ch CNAME .
 ot.obi-brico.ch CNAME .
@@ -403,7 +401,6 @@ web.usautosupply.com CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 web2.updates.ditano.com CNAME .
-webanalytics.also.com CNAME .
 webmet.creditreform-mahnwesen.de CNAME .
 webmet.creditreform.de CNAME .
 webmet.crefotrust.de CNAME .

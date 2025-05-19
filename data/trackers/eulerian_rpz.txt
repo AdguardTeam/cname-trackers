@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ $TTL 300
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
 3esm.consubebe.es CNAME .
+5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -72,7 +73,7 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -153,7 +154,6 @@ ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
-ea.mnt.fr CNAME .
 ea.mondial-assistance.fr CNAME .
 ea.mydailyhotel.com CNAME .
 ea.mywarner.warnerbros.fr CNAME .
@@ -191,7 +191,6 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
 eb.mistermenuiserie.com CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -294,7 +293,6 @@ jun23.madeindesign.de CNAME .
 jxy6.evobanco.es CNAME .
 kep6.destinia.ie CNAME .
 kwsjy9.oui.sncf CNAME .
-l2i.qualityinnlevis.com CNAME .
 lbc.lesbonscommerces.fr CNAME .
 leo1.leon-de-bruxelles.fr CNAME .
 let1.devialet.com CNAME .
@@ -398,8 +396,6 @@ rmp4.destinia.uy CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
-rwl.tremblant.ca CNAME .
-ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
 sa.skoda.fr CNAME .
@@ -485,7 +481,6 @@ www.attributionday.com CNAME .
 www.dataholics.tech CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
-www.mis.tourisme-montreal.org CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
 xoq.pmubrasil.com.br CNAME .
@@ -509,5 +504,10 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
-5fm.985fm.ca CNAME .
-c0p.cepsum.umontreal.ca CNAME .
+c0i.ckoi.com CNAME .
+eat9.thebeat925.ca CNAME .
+l2i.qualityinnlevis.com CNAME .
+rwl.tremblant.ca CNAME .
+ry0.rythmefm.com CNAME .
+www.mis.tourisme-montreal.org CNAME .
+ea.mnt.fr CNAME .

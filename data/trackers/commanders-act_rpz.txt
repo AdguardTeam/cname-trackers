@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,8 +11,6 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-configure.adlermode.com CNAME .
-data.auchandirect.fr CNAME .
 data.decathlon.co.uk CNAME .
 data.decathlon.es CNAME .
 data.decathlon.fr CNAME .
@@ -28,5 +26,7 @@ tagcommander.laredoute.ch CNAME .
 tagcommander.laredoute.de CNAME .
 tc.europcar.com CNAME .
 tc.europcar.com.au CNAME .
-tc.europcar.de CNAME .
 tcdata.fnac.com CNAME .
+configure.adlermode.com CNAME .
+data.auchandirect.fr CNAME .
+tc.europcar.de CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -193,7 +193,6 @@ cookies.joneslanglasalle.com.cn CNAME .
 cookies.joneslanglasalle.com.vn CNAME .
 cookies.us.jll.com CNAME .
 csp.prod.saga.co.uk CNAME .
-ctp.moneymetals.com CNAME .
 data.ensightendemo.com CNAME .
 data.experian.co.uk CNAME .
 data.experianidentityservice.co.uk CNAME .

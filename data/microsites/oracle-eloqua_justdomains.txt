@@ -108,6 +108,7 @@ eviewonline.certinal.com
 firstpartycookie.gettyimages.com
 firstpartycookie.istockphoto.com
 form.newscatalanaoccidente.com
+forms.arabhealthonline.com
 forms.faceconference.com
 forms.im-aesthetics.com
 forms.nrs-inc.com
@@ -477,6 +478,7 @@ track.asia-focus.co.uk
 track.asiadragontrust.co.uk
 track.asian-income.co.uk
 track.biz.lguplus.com
+track.citystgeorgesisc.com
 track.dunedinincomegrowth.co.uk
 track.e.batesville.com
 track.education.kenschool.jp
@@ -1320,7 +1322,6 @@ app.campaign.trendmicro.com
 app.campaigns.fidelity.com
 app.capitalmarkets.53.com
 app.ceb.executiveboard.com
-app.cimarketing.aig.com
 app.clientservices.avalara.com
 app.commercialbank.53.com
 app.comms.aon.com
@@ -1499,7 +1500,6 @@ app.treasurymanagement.53.com
 app.update.lenovo.com
 app.update.vodafone.co.uk
 app.wine.tweglobal.com
-app.www-102.aig.com
 app.your.csc.com
 app.your.level3.com
 app.zmail.zionsbank.com
@@ -1543,7 +1543,6 @@ cdrive.compellent.com
 channeltalk.avid.com
 chat.forddirectdealers.com
 check.frbservices.org
-cimarketingforms.aig.com
 cimarketingforms.cimarketing.aig.com
 clients.rainkingonline.com
 cloverleaf.infor.com
@@ -1984,12 +1983,8 @@ whatif.uk.adobe.com
 whitepapers.rockwellautomation.com
 workforcetrends.advancedtech.com
 workplacesolutions.inform.equifax.com
-www-103.aig.com
-www-103.chartisinsurance.com
 www-104.aig.com
 www-106.aig.com
-www-109.aig.com
-www-110.aig.com
 www.activisionnews.com
 www.comcastbiz.com
 www.epargnez.adp.ca
@@ -2130,7 +2125,6 @@ insights.mma-adl.com
 insights.mmaeast.com
 insights.prophet.com
 leads.commercial.keurig.com
-lp.copeland.com
 lp.services.tuftsmedicine.org
 microsite.pbs.org
 pages.contact.umpquabank.com
@@ -2143,6 +2137,7 @@ pr.cision.de
 pr.cision.fi
 pr.prnewswire.co.uk
 pr.prnewswire.com
+response.alphaevents.com
 response.fintechconnect.com
 response.iqpc.com
 response.wbresearch.com
@@ -2903,6 +2898,7 @@ images.demand.brainshark.com
 images.demand.mcafee.com
 images.demand.naseba.com
 images.demand.nec.com
+images.destinations.cda-loisirspro.com
 images.digital-markets.gartner.com
 images.directvbiz.att-mail.com
 images.discover.changehealthcare.com
@@ -2990,6 +2986,7 @@ images.explore.behr.com
 images.explore.editionhotels.com
 images.fans.mlse.com
 images.fanservices.jaguars.com
+images.fleet.total.fr
 images.flippengroup.com
 images.fmpracticemanagement.lexisnexis.com
 images.frbusiness.samsung.com
@@ -3088,6 +3085,7 @@ images.info.macktrucks.com
 images.info.mercuryinsurance.com
 images.info.mercycare.org
 images.info.microstrategy.com
+images.info.mobility.totalenergies.fr
 images.info.newhope.com
 images.info.patheon.com
 images.info.pentontech.com
@@ -3211,6 +3209,7 @@ images.max.max-finance.co.il
 images.mdtinternal.com
 images.mdtpatient.com
 images.media-comms.realestate.com.au
+images.mediateam.realestate.com.au
 images.medtronicdiabetes.com
 images.medtroniclearn.com
 images.messages.seagate.com
@@ -3374,11 +3373,7 @@ imginfo.insource.co.jp
 obrazy.dlabiznesu.pracuj.pl
 response.quest.com
 yourporscheimg.nabooda-auto.com
-images.destinations.cda-loisirspro.com
-images.fleet.total.fr
-images.info.mobility.totalenergies.fr
-images.mediateam.realestate.com.au
-images.online.chancellors.co.uk
+images.edm.hollandamericaline.com.au
 admin.smartgroup.com.au
 cars.autopia.com.au
 cars.smartfleetaustralia.com.au
@@ -3630,7 +3625,6 @@ experience.stamfordhealth.org
 explore-ft.agilent.com
 go.int.vsp.com
 health.atlanticgeneral.org
-lincolnfinancialgroup.lfg.com
 lp.care.eisenhowerhealthcares.org
 lp.info.jeffersonhealth.org
 marketing.omeir.com
@@ -3877,7 +3871,6 @@ go.ali-cle.org
 go.billsmafia.com
 go.firstderivatives.com
 go.join.himssconference.com
-go.kx.com
 go.psentertainment.com
 healthier.aahs.org
 healthier.luminishealth.org
@@ -4093,7 +4086,6 @@ gsasolutionssecure.gsa.gov
 hello.glofiber.com
 iduk.barcodesgroup.com
 info.pella.com
-information.lgcns.com
 insights.labcorp.com
 landing.clubcar.com
 lgcns.goldenplanet.co.kr
@@ -4433,6 +4425,7 @@ www2.info.renesas.cn
 angebote.plex.com
 angebote.plexonline.de
 automationhipaapod01-app-hs.eloquademos.com
+bienvivre.chartwell.com
 campaign.shl.com
 campaigns.engage.cebglobal.com
 comm.toro.com
@@ -4875,6 +4868,7 @@ elq.mouser.ca
 elq.mouser.ch
 elq.mouser.cn
 elq.mouser.co.cr
+elq.mouser.co.id
 elq.mouser.co.il
 elq.mouser.co.uk
 elq.mouser.com
@@ -5064,7 +5058,6 @@ engage.3msuisse.ch
 engage.3msuomi.fi
 engage.3msverige.se
 eumeainfo.motorolasolutions.com
-experiencia.coopecaja.fi.cr
 fpc.arborcrowd.com
 fpc.sigsaueracademy.com
 go-communications.comed.com
@@ -5981,6 +5974,7 @@ secure.medtronichealth.medtronic.com
 secureforms.nextens.nl
 sinfo.awrostamani.com
 site.firstnet.com
+solutions.diperk.co.uk
 target.connect.nicklauschildrens.org
 target.connect.nicklaushealth.org
 tracker.dubai.renault.ae
@@ -6452,6 +6446,7 @@ s1782711468.sc.origins.en25.com
 s1885709864.sc.origins.en25.com
 s2013560044.sc.origins.en25.com
 s861531437.sc.origins.en25.com
+go.kx.com
 images.infofreddiemac.com
 info.pbs.org
 information.cma-cgm.com
@@ -6466,6 +6461,7 @@ learn.aiu.sg
 lp.tfd-corp.co.jp
 www.janz.viatrisconnect.com
 learn.mvpindex.com
+lp.copeland.com
 lp.dynabook.com
 our.sunshinecoast.qld.gov.au
 solution.agc-chemicals.com

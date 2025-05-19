@@ -3,7 +3,6 @@
 abox.simpleshop.cz
 aff.faircredit.cz
 aff.pujckajonatan.cz
-aff.realwoman.sk
 aff.teshop.cz
 aff.teticka.cz
 aff.winkey.cz
@@ -436,10 +435,10 @@ my.weplayvolleyball.cz
 my.weplayvolleyball.de
 my.weplayvolleyball.fr
 my.weplayvolleyball.gr
+my.weplayvolleyball.lt
 my.weplayvolleyball.ro
 my.weplayvolleyball.si
 my.weplayvolleyball.sk
-obluk.equilist.cz
 online.pdfknihovna.cz
 partener.aeriumshop.ro
 partner-affilbox.telly.cz
@@ -546,7 +545,6 @@ partner.edutu.cz
 partner.elektrostech.cz
 partner.energiezivota.com
 partner.epravo.cz
-partner.equilist.cz
 partner.eshop-gyorsan.hu
 partner.eshop-rodas.cz
 partner.evolutionhub.cz
@@ -759,6 +757,7 @@ partner.tahnabranu.cz
 partner.thechillidoctor.cz
 partner.thelisteningworld.com
 partner.top-obaly.cz
+partner.tozax.cz
 partner.tozax.sk
 partner.tradewyx.com
 partner.tyano.cz
@@ -923,7 +922,6 @@ partneri.viadelicia.cz
 partneri.volejbal.sk
 partneri.volny-termin.cz
 partneri.vseprobeh.cz
-partneri.vyzvaproimunitu.cz
 partneri.way4life.cz
 partneri.webmeeting.cz
 partneri.worldee.com

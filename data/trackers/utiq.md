@@ -84,7 +84,6 @@
 | utiq.clara.es | frontend.prod.utiq-aws.net |
 | utiq.closermag.fr | frontend.prod.utiq-aws.net |
 | utiq.cnetfrance.fr | frontend.prod.utiq-aws.net |
-| utiq.cocinatis.com | frontend.prod.utiq-aws.net |
 | utiq.codebuild.ovh | frontend.prod.utiq-aws.net |
 | utiq.come-on.de | frontend.prod.utiq-aws.net |
 | utiq.compradiccion.com | frontend.prod.utiq-aws.net |
@@ -200,7 +199,6 @@
 | utiq.jux.news | frontend.prod.utiq-aws.net |
 | utiq.kino.de | frontend.prod.utiq-aws.net |
 | utiq.kreis-anzeiger.de | frontend.prod.utiq-aws.net |
-| utiq.kreisbote.de | frontend.prod.utiq-aws.net |
 | utiq.kreiszeitung.de | frontend.prod.utiq-aws.net |
 | utiq.kundendienst-info.de | frontend.prod.utiq-aws.net |
 | utiq.kurierverlag.de | frontend.prod.utiq-aws.net |
@@ -412,6 +410,7 @@
 | vfit.mno.link | frontend.prod.utiq-aws.net |
 | vfuk.mno.link | frontend.prod.utiq-aws.net |
 | yesss-a1at.mno.link | frontend.prod.utiq-aws.net |
+| bgtfr-test.mno.link | frontend.test.utiq-aws.net |
 | esca-test.mno.link | frontend.test.utiq-aws.net |
 | logger-test.mno.link | frontend.test.utiq-aws.net |
 | orangefr-test.mno.link | frontend.test.utiq-aws.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,6 +137,7 @@ a8.fujiorganics.com CNAME .
 a8.funtre.co.jp CNAME .
 a8.fxism.jp CNAME .
 a8.gaizyu-taiji.com CNAME .
+a8.gensenwedding.jp CNAME .
 a8.geo-online.co.jp CNAME .
 a8.global-mobility-service.com CNAME .
 a8.gme.co.jp CNAME .
@@ -1299,7 +1300,6 @@ a8cv.tamago-repeat.com CNAME .
 a8cv.taxi-qjin.com CNAME .
 a8cv.techkidsschool.jp CNAME .
 a8cv.tenishokunext.jp CNAME .
-a8cv.tenkuryo.jp CNAME .
 a8cv.tenshinocart.com CNAME .
 a8cv.tintle.net CNAME .
 a8cv.tmix.jp CNAME .
@@ -1622,6 +1622,7 @@ sub.ecd.bookoffonline.co.jp CNAME .
 sub.turningpoint.work CNAME .
 summary.bookoffonline.co.jp CNAME .
 sync-a8.cocolocala.jp CNAME .
+t6g.futurizm.jp CNAME .
 tag.minimaid.co.jp CNAME .
 test.shigoto-web.com CNAME .
 test.zeus-wifi.jp CNAME .

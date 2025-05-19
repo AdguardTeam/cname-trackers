@@ -187,6 +187,7 @@
 | api.aqua-adserver.com | console.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
+| console.walaplusadserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
@@ -317,6 +318,7 @@
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | static.hollandhortimedia.nl | platformiq-cdn.aquaplatform.com |
 | www.adimages.infotorg.se | platformiq-cdn.aquaplatform.com |
+| www.images.informatm.com | platformiq-cdn.aquaplatform.com |
 | addurance-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
@@ -370,6 +372,7 @@
 | console.falconstudios.com | revivehosted-console.aquaplatform.com |
 | console.isn.nl | revivehosted-console.aquaplatform.com |
 | console.revive-adserver.net | revivehosted-console.aquaplatform.com |
+| www.console.falconstudios.com | revivehosted-console.aquaplatform.com |
 | adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | servedby.cricketworld.com | revivehosted-delivery.aquaplatform.com |
 | servedby.revive-adserver.net | revivehosted-delivery.aquaplatform.com |

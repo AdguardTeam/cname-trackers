@@ -110,7 +110,6 @@ waz.met.vgwort.de
 welt.met.vgwort.de
 wolterskluwer.met.vgwort.de
 pl01.owen.prolitteris.ch
-ssl-test-tns-no.tns-cs.net
 ssl-test.spring-tns.net
 test-tns-no.tns-cs.net
 test.spring-tns.net

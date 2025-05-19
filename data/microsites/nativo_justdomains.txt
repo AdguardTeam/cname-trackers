@@ -108,6 +108,7 @@ sponsor.syracuse.com
 4eea23ee25.cff913e5b4.com
 4f1a213614.0f0eeca702.com
 4f1c8cf090.138b1541c6.com
+51a66f8059.ce0a43500c.com
 52fd9f7fa7.e65303ab96.com
 5393e2d07f.a196f8c478.com
 542130b763.144e93f0b6.com
@@ -201,6 +202,7 @@ sponsor.syracuse.com
 9994e49efe.14f5718df1.com
 9ad4aa9b37.8c450453b2.com
 9b27c61c1e.a07154cac7.com
+9b81706c09.c161949ece.com
 9bb5444a65.d1d114356e.com
 9cb99d5798.a7c023663a.com
 9da3c90943.19e1d1f849.com
@@ -286,6 +288,7 @@ da72088eb8.e424766a73.com
 dc594f6d5d.f28f8ccf8b.com
 dc7b8b23dd.bf1685177f.com
 dc8b1985cd.a336b509d9.com
+dd80d3eba7.22b8bd2b91.com
 dde341a1e9.d0428f37ca.com
 deb8cb5eff.a4a8fa91e2.com
 df5760f05b.236dd57cef.com
@@ -313,7 +316,6 @@ f03917a204.d66eacfd84.com
 f154d0ea0e.ae01326ea0.com
 f1923e23bf.aef7fa2241.com
 f1ac7cb1ae.744908dbf5.com
-f3d1a8ee12.c37b652f3a.com
 f3ecbf9a98.95dc89f000.com
 f4573d395e.9acf69ca5f.com
 f476f3ffa9.eb1536c76c.com
@@ -331,7 +333,6 @@ ff161ce5ce.c17778a8e1.com
 i.laketrend.com
 i.selecttopoff.com
 i.statelinear.com
-a135.wftv.com
 mlive.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
@@ -339,6 +340,7 @@ shared.sponsoredcontent.com
 9c5a4e173e.0069672d29.com
 b3d55d5eec.ea09e63fed.com
 a135.fox23.com
+a135.wftv.com
 a135.wpxi.com
 a135.wsoctv.com
 a614.mlive.com

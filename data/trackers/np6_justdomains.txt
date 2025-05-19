@@ -187,7 +187,6 @@ tr.candidats-dispos-fed.fr
 tr.capu.espmp-agfr.net
 tr.carl.espmp-cufr.net
 tr.cart02d.espmp-agfr.net
-tr.carte.lcl.fr
 tr.cartegie.fr
 tr.cashback.floa.fr
 tr.cb4x.banque-casino.fr

@@ -669,6 +669,7 @@
 ||lndata.labor.maryland.gov^
 ||lndata.labor.md.gov^
 ||lnday.sinclair.edu^
+||lni.finom.co^
 ||lnths.twc.texas.gov^
 ||lnthxsvc.tsp.gov^
 ||log.betdaq.com^
@@ -821,6 +822,7 @@
 ||prod-vsecuvt.chaperone.lumindigitalhosting.com^
 ||prod-wccuri.chaperone.lumindigitalhosting.com^
 ||prod-westccu.chaperone.lumindigitalhosting.com^
+||prof4rs.cembrapay.ch^
 ||profiling.cmo.cibc.com^
 ||profiling.digitalbusiness.cibc.com^
 ||profiling.qacitizensbankonline.com^
@@ -857,7 +859,6 @@
 ||rba.optumid.com^
 ||rba.phub-im.uhg.com^
 ||rbawis.pocketcard.co.jp^
-||rct.ext.sofinco.fr^
 ||rebatecontent.finance.delaware.gov^
 ||regstat.betfair.bet.br^
 ||regstat.betfair.com^

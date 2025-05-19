@@ -104,6 +104,7 @@
 ||data-0d202e2d69.tirolerin.at^
 ||data-0d5230f0d5.tvmovie.de^
 ||data-0d9eff53aa.kuhn-fachmedien.de^
+||data-0dc128409f.watchtime.de^
 ||data-0dc128409f.watchtime.net^
 ||data-0de2e36f03.nitro-tv.de^
 ||data-0e160b5dfc.apps.iocnt.de^
@@ -137,8 +138,6 @@
 ||data-1261bd4848.logistik-heute.de^
 ||data-12b92dc35b.wetter.de^
 ||data-12c31c7daf.das-onlinespiel.de^
-||data-12c31c7daf.fuersie.de^
-||data-12c31c7daf.idee-fuer-mich.de^
 ||data-12cf56a65f.apps.iocnt.de^
 ||data-130016e017.apps.iocnt.de^
 ||data-1361b87d71.apps.iocnt.de^
@@ -223,6 +222,7 @@
 ||data-191b2429e8.rtlspiele.de^
 ||data-195efe600e.haus.de^
 ||data-196c083e38.heute.at^
+||data-1986a4caa3.apps.iocnt.de^
 ||data-19e0ce8844.computerbild.de^
 ||data-19e0ce8844.wieistmeineip.de^
 ||data-19f62f6612.druckerchannel.de^
@@ -336,6 +336,7 @@
 ||data-26d7316678.gewinn.com^
 ||data-26e104754d.hgtv.com^
 ||data-27118360b0.shk-profi.de^
+||data-27183e6c59.apps.iocnt.de^
 ||data-272bec114c.kaufda.de^
 ||data-2732fcab6f.aero.de^
 ||data-2732fcab6f.aerokurier.de^
@@ -346,7 +347,6 @@
 ||data-281bdc39ec.bsbrandschutz.de^
 ||data-28d1f65bc5.bnn.de^
 ||data-28e246ff03.esquire.de^
-||data-28f3f6582c.maedchen.de^
 ||data-29b3ebc284.gutekueche.de^
 ||data-29fb12b42c.prosiebensat1puls4.com^
 ||data-2a012df8d7.alpenverein.de^
@@ -364,7 +364,6 @@
 ||data-2cee0cb9fa.apps.iocnt.de^
 ||data-2cfc77297e.tagesspiegel.de^
 ||data-2d5e2d4006.apps.iocnt.de^
-||data-2d805a2d6c.leben-und-erziehen.de^
 ||data-2d86fd41e0.business-punk.com^
 ||data-2d86fd41e0.homeday.de^
 ||data-2d8c7b4f16.apps.iocnt.de^
@@ -415,13 +414,11 @@
 ||data-3706a2ecb0.bauletter.de^
 ||data-3706a2ecb0.baulinks.de^
 ||data-379665bfa7.apps.iocnt.de^
-||data-37acaca926.maedchen.de^
 ||data-37bb36fb44.apps.iocnt.de^
 ||data-3823552b7a.sport.de^
 ||data-382f03151d.harpersbazaar.de^
 ||data-3839bfef3b.diesteirerin.at^
 ||data-389b910202.moenchengladbach.de^
-||data-38a153cf0d.vital.de^
 ||data-38a6e3d7f2.domradio.de^
 ||data-38f98ee2dd.apps.iocnt.de^
 ||data-397bf6a16b.stadtbibliothek-bielefeld.de^
@@ -793,6 +790,7 @@
 ||data-5ce6ecf8d0.nbi.de^
 ||data-5ce6ecf8d0.nn.de^
 ||data-5ce6ecf8d0.nordbayern.de^
+||data-5d1c5fc40e.apps.iocnt.de^
 ||data-5d2679d281.skysportaustria.at^
 ||data-5d4a957104.focus-arztsuche.de^
 ||data-5d848783f7.spiegel.de^
@@ -912,8 +910,6 @@
 ||data-66d1660bfe.etailment.de^
 ||data-678018adf2.apps.iocnt.de^
 ||data-67e5b22ff5.apps.iocnt.de^
-||data-684c5faba8.ok-magazin.de^
-||data-684c5faba8.okmag.de^
 ||data-686f12c8aa.regionaljobs.at^
 ||data-68c78f1ad6.stadtbuechereiploen.de^
 ||data-69f8b27f58.deutsche-handwerks-zeitung.de^
@@ -1254,7 +1250,6 @@
 ||data-93346271bf.holidaycheck.ch^
 ||data-93346271bf.holidaycheck.de^
 ||data-9336f0fb1d.news.de^
-||data-934c7cc307.leben-und-erziehen.de^
 ||data-9358579756.cash-online.de^
 ||data-93b38cb75f.gff-magazin.de^
 ||data-93d70fad98.apps.iocnt.de^
@@ -1410,6 +1405,7 @@
 ||data-a2c8256a75.jobhamster.de^
 ||data-a2c8256a75.radio-saw.de^
 ||data-a2c8256a75.radiosaw.eu^
+||data-a2c8256a75.saw-musikwelt.de^
 ||data-a2c8256a75.sawmusikwelt.de^
 ||data-a379a2e240.petbook.de^
 ||data-a38e203a07.radio38.de^
@@ -1442,6 +1438,7 @@
 ||data-a7deba18e8.trauspruch.de^
 ||data-a7deba18e8.yeet.de^
 ||data-a8074561d8.apps.iocnt.de^
+||data-a842dac709.apps.iocnt.de^
 ||data-a85b10211f.rhein-neckar-zeitung.com^
 ||data-a85b10211f.rhein-neckar-zeitung.de^
 ||data-a85b10211f.rhein-neckar-zeitung.net^
@@ -2319,7 +2316,6 @@
 ||data-fdf649e16e.rb-fans.de^
 ||data-fe32da0431.news.at^
 ||data-fe34715c33.zi-online.info^
-||data-fe452b2ed9.okmag.de^
 ||data-febb5dffb0.bigfm.de^
 ||data-febb5dffb0.bigkarriere.de^
 ||data-febb5dffb0.fashionzone.de^

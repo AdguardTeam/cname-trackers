@@ -182,7 +182,6 @@ cookies.joneslanglasalle.com.cn
 cookies.joneslanglasalle.com.vn
 cookies.us.jll.com
 csp.prod.saga.co.uk
-ctp.moneymetals.com
 data.ensightendemo.com
 data.experian.co.uk
 data.experianidentityservice.co.uk

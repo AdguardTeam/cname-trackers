@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -489,6 +489,7 @@ dash.bloblohub.com CNAME .
 daswercd.filasofighit.com CNAME .
 data.bangtubevideos.com CNAME .
 data.streamtape.com CNAME .
+dca-ems.hubhubhub.name CNAME .
 dd.topdisplay.xyz CNAME .
 dd.unifieddataconnect.click CNAME .
 ddijapp.com CNAME .
@@ -513,7 +514,6 @@ doonedo.com CNAME .
 dore.new-indian-porn.com CNAME .
 doyoudi.com CNAME .
 drleez.xyz CNAME .
-dsg.reifporn.de CNAME .
 dude.pleasedonotblockme.com CNAME .
 dulkd.org CNAME .
 dust.xxx-video-indian.com CNAME .
@@ -636,6 +636,7 @@ highway.18manwa.com CNAME .
 honest05032026.shop CNAME .
 hookjav12.fun CNAME .
 hot.justpornflix.com CNAME .
+hqqvjdttre.club CNAME .
 hskujw2.com CNAME .
 hx1.tubepornbase.com CNAME .
 i-0c8d1bb4c1a648ae1.hubhubhub.name CNAME .
@@ -888,6 +889,7 @@ p.adsmarch.online CNAME .
 p.aprilads.space CNAME .
 p.asgex.click CNAME .
 p.avgads.space CNAME .
+p.bloblohub.com CNAME .
 p.febads.shop CNAME .
 p.janads.shop CNAME .
 p.octoads.shop CNAME .
@@ -1150,6 +1152,7 @@ unpydqpidsfb.cdnvideo3.com CNAME .
 up1app.com CNAME .
 up2cdn.com CNAME .
 upperoh.hubhubhub.name CNAME .
+us-west-1.cdn1cloudflare.xyz CNAME .
 uvac.devcre.site CNAME .
 v.septads.store CNAME .
 v1.sellbuy.click CNAME .
@@ -1207,6 +1210,7 @@ www.invast.site CNAME .
 www.ithaca.hubhubhub.name CNAME .
 www.javtvnow.xyz CNAME .
 www.letstry69.xyz CNAME .
+www.mestierediscrivere.hubhubhub.name CNAME .
 www.mysalo.store CNAME .
 www.n.bloblohub.com CNAME .
 www.pickard.hubhubhub.name CNAME .
@@ -1278,7 +1282,4 @@ perfectvids.com CNAME .
 store4porn.com CNAME .
 topsexmovs.com CNAME .
 video.cdnako.com CNAME .
-a.mikop.xyz CNAME .
-a.naliw.xyz CNAME .
-a.vrime.xyz CNAME .
 digiadzone.com CNAME .

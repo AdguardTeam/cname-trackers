@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -175,6 +175,7 @@ webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.genius.tv CNAME .
+webcontr.holzgestein.com CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.in-akustik.de CNAME .
 webcontr.jalousiescout.at CNAME .
@@ -187,6 +188,7 @@ webcontr.naturschutzcenter.de CNAME .
 webcontr.parax.de CNAME .
 webcontr.patrick-wentzel.de CNAME .
 webcontr.pedalbox.com CNAME .
+webcontr.raumharmonisierung.de CNAME .
 webcontr.reisprinzen.de CNAME .
 webcontr.rollytoys.de CNAME .
 webcontr.ryzon.net CNAME .
@@ -205,6 +207,7 @@ webcontr.wolkenlosundheiter.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
 webstats.kawentsmann.de CNAME .
+websy.skillyofficial.com CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
 weco.gasteo.de CNAME .

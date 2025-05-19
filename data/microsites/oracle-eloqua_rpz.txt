@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -119,6 +119,7 @@ eviewonline.certinal.com CNAME .
 firstpartycookie.gettyimages.com CNAME .
 firstpartycookie.istockphoto.com CNAME .
 form.newscatalanaoccidente.com CNAME .
+forms.arabhealthonline.com CNAME .
 forms.faceconference.com CNAME .
 forms.im-aesthetics.com CNAME .
 forms.nrs-inc.com CNAME .
@@ -488,6 +489,7 @@ track.asia-focus.co.uk CNAME .
 track.asiadragontrust.co.uk CNAME .
 track.asian-income.co.uk CNAME .
 track.biz.lguplus.com CNAME .
+track.citystgeorgesisc.com CNAME .
 track.dunedinincomegrowth.co.uk CNAME .
 track.e.batesville.com CNAME .
 track.education.kenschool.jp CNAME .
@@ -1331,7 +1333,6 @@ app.campaign.trendmicro.com CNAME .
 app.campaigns.fidelity.com CNAME .
 app.capitalmarkets.53.com CNAME .
 app.ceb.executiveboard.com CNAME .
-app.cimarketing.aig.com CNAME .
 app.clientservices.avalara.com CNAME .
 app.commercialbank.53.com CNAME .
 app.comms.aon.com CNAME .
@@ -1510,7 +1511,6 @@ app.treasurymanagement.53.com CNAME .
 app.update.lenovo.com CNAME .
 app.update.vodafone.co.uk CNAME .
 app.wine.tweglobal.com CNAME .
-app.www-102.aig.com CNAME .
 app.your.csc.com CNAME .
 app.your.level3.com CNAME .
 app.zmail.zionsbank.com CNAME .
@@ -1554,7 +1554,6 @@ cdrive.compellent.com CNAME .
 channeltalk.avid.com CNAME .
 chat.forddirectdealers.com CNAME .
 check.frbservices.org CNAME .
-cimarketingforms.aig.com CNAME .
 cimarketingforms.cimarketing.aig.com CNAME .
 clients.rainkingonline.com CNAME .
 cloverleaf.infor.com CNAME .
@@ -1995,12 +1994,8 @@ whatif.uk.adobe.com CNAME .
 whitepapers.rockwellautomation.com CNAME .
 workforcetrends.advancedtech.com CNAME .
 workplacesolutions.inform.equifax.com CNAME .
-www-103.aig.com CNAME .
-www-103.chartisinsurance.com CNAME .
 www-104.aig.com CNAME .
 www-106.aig.com CNAME .
-www-109.aig.com CNAME .
-www-110.aig.com CNAME .
 www.activisionnews.com CNAME .
 www.comcastbiz.com CNAME .
 www.epargnez.adp.ca CNAME .
@@ -2141,7 +2136,6 @@ insights.mma-adl.com CNAME .
 insights.mmaeast.com CNAME .
 insights.prophet.com CNAME .
 leads.commercial.keurig.com CNAME .
-lp.copeland.com CNAME .
 lp.services.tuftsmedicine.org CNAME .
 microsite.pbs.org CNAME .
 pages.contact.umpquabank.com CNAME .
@@ -2154,6 +2148,7 @@ pr.cision.de CNAME .
 pr.cision.fi CNAME .
 pr.prnewswire.co.uk CNAME .
 pr.prnewswire.com CNAME .
+response.alphaevents.com CNAME .
 response.fintechconnect.com CNAME .
 response.iqpc.com CNAME .
 response.wbresearch.com CNAME .
@@ -2914,6 +2909,7 @@ images.demand.brainshark.com CNAME .
 images.demand.mcafee.com CNAME .
 images.demand.naseba.com CNAME .
 images.demand.nec.com CNAME .
+images.destinations.cda-loisirspro.com CNAME .
 images.digital-markets.gartner.com CNAME .
 images.directvbiz.att-mail.com CNAME .
 images.discover.changehealthcare.com CNAME .
@@ -3001,6 +2997,7 @@ images.explore.behr.com CNAME .
 images.explore.editionhotels.com CNAME .
 images.fans.mlse.com CNAME .
 images.fanservices.jaguars.com CNAME .
+images.fleet.total.fr CNAME .
 images.flippengroup.com CNAME .
 images.fmpracticemanagement.lexisnexis.com CNAME .
 images.frbusiness.samsung.com CNAME .
@@ -3099,6 +3096,7 @@ images.info.macktrucks.com CNAME .
 images.info.mercuryinsurance.com CNAME .
 images.info.mercycare.org CNAME .
 images.info.microstrategy.com CNAME .
+images.info.mobility.totalenergies.fr CNAME .
 images.info.newhope.com CNAME .
 images.info.patheon.com CNAME .
 images.info.pentontech.com CNAME .
@@ -3222,6 +3220,7 @@ images.max.max-finance.co.il CNAME .
 images.mdtinternal.com CNAME .
 images.mdtpatient.com CNAME .
 images.media-comms.realestate.com.au CNAME .
+images.mediateam.realestate.com.au CNAME .
 images.medtronicdiabetes.com CNAME .
 images.medtroniclearn.com CNAME .
 images.messages.seagate.com CNAME .
@@ -3385,11 +3384,7 @@ imginfo.insource.co.jp CNAME .
 obrazy.dlabiznesu.pracuj.pl CNAME .
 response.quest.com CNAME .
 yourporscheimg.nabooda-auto.com CNAME .
-images.destinations.cda-loisirspro.com CNAME .
-images.fleet.total.fr CNAME .
-images.info.mobility.totalenergies.fr CNAME .
-images.mediateam.realestate.com.au CNAME .
-images.online.chancellors.co.uk CNAME .
+images.edm.hollandamericaline.com.au CNAME .
 admin.smartgroup.com.au CNAME .
 cars.autopia.com.au CNAME .
 cars.smartfleetaustralia.com.au CNAME .
@@ -3641,7 +3636,6 @@ experience.stamfordhealth.org CNAME .
 explore-ft.agilent.com CNAME .
 go.int.vsp.com CNAME .
 health.atlanticgeneral.org CNAME .
-lincolnfinancialgroup.lfg.com CNAME .
 lp.care.eisenhowerhealthcares.org CNAME .
 lp.info.jeffersonhealth.org CNAME .
 marketing.omeir.com CNAME .
@@ -3888,7 +3882,6 @@ go.ali-cle.org CNAME .
 go.billsmafia.com CNAME .
 go.firstderivatives.com CNAME .
 go.join.himssconference.com CNAME .
-go.kx.com CNAME .
 go.psentertainment.com CNAME .
 healthier.aahs.org CNAME .
 healthier.luminishealth.org CNAME .
@@ -4104,7 +4097,6 @@ gsasolutionssecure.gsa.gov CNAME .
 hello.glofiber.com CNAME .
 iduk.barcodesgroup.com CNAME .
 info.pella.com CNAME .
-information.lgcns.com CNAME .
 insights.labcorp.com CNAME .
 landing.clubcar.com CNAME .
 lgcns.goldenplanet.co.kr CNAME .
@@ -4444,6 +4436,7 @@ www2.info.renesas.cn CNAME .
 angebote.plex.com CNAME .
 angebote.plexonline.de CNAME .
 automationhipaapod01-app-hs.eloquademos.com CNAME .
+bienvivre.chartwell.com CNAME .
 campaign.shl.com CNAME .
 campaigns.engage.cebglobal.com CNAME .
 comm.toro.com CNAME .
@@ -4886,6 +4879,7 @@ elq.mouser.ca CNAME .
 elq.mouser.ch CNAME .
 elq.mouser.cn CNAME .
 elq.mouser.co.cr CNAME .
+elq.mouser.co.id CNAME .
 elq.mouser.co.il CNAME .
 elq.mouser.co.uk CNAME .
 elq.mouser.com CNAME .
@@ -5075,7 +5069,6 @@ engage.3msuisse.ch CNAME .
 engage.3msuomi.fi CNAME .
 engage.3msverige.se CNAME .
 eumeainfo.motorolasolutions.com CNAME .
-experiencia.coopecaja.fi.cr CNAME .
 fpc.arborcrowd.com CNAME .
 fpc.sigsaueracademy.com CNAME .
 go-communications.comed.com CNAME .
@@ -5992,6 +5985,7 @@ secure.medtronichealth.medtronic.com CNAME .
 secureforms.nextens.nl CNAME .
 sinfo.awrostamani.com CNAME .
 site.firstnet.com CNAME .
+solutions.diperk.co.uk CNAME .
 target.connect.nicklauschildrens.org CNAME .
 target.connect.nicklaushealth.org CNAME .
 tracker.dubai.renault.ae CNAME .
@@ -6463,6 +6457,7 @@ s1782711468.sc.origins.en25.com CNAME .
 s1885709864.sc.origins.en25.com CNAME .
 s2013560044.sc.origins.en25.com CNAME .
 s861531437.sc.origins.en25.com CNAME .
+go.kx.com CNAME .
 images.infofreddiemac.com CNAME .
 info.pbs.org CNAME .
 information.cma-cgm.com CNAME .
@@ -6477,6 +6472,7 @@ learn.aiu.sg CNAME .
 lp.tfd-corp.co.jp CNAME .
 www.janz.viatrisconnect.com CNAME .
 learn.mvpindex.com CNAME .
+lp.copeland.com CNAME .
 lp.dynabook.com CNAME .
 our.sunshinecoast.qld.gov.au CNAME .
 solution.agc-chemicals.com CNAME .

@@ -213,7 +213,6 @@
 | tr.capu.espmp-agfr.net | tracking.bp01.net |
 | tr.carl.espmp-cufr.net | tracking.bp01.net |
 | tr.cart02d.espmp-agfr.net | tracking.bp01.net |
-| tr.carte.lcl.fr | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
 | tr.cb4x.banque-casino.fr | tracking.bp01.net |

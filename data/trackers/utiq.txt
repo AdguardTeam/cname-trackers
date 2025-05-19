@@ -1,6 +1,7 @@
 !
 ! Company name: Utiq
 ||a1at.mno.link^
+||bgtfr-test.mno.link^
 ||bob-a1at.mno.link^
 ||dtpen.mno.link^
 ||esca-test.mno.link^
@@ -79,7 +80,6 @@
 ||utiq.clara.es^
 ||utiq.closermag.fr^
 ||utiq.cnetfrance.fr^
-||utiq.cocinatis.com^
 ||utiq.codebuild.ovh^
 ||utiq.come-on.de^
 ||utiq.compradiccion.com^
@@ -195,7 +195,6 @@
 ||utiq.jux.news^
 ||utiq.kino.de^
 ||utiq.kreis-anzeiger.de^
-||utiq.kreisbote.de^
 ||utiq.kreiszeitung.de^
 ||utiq.kundendienst-info.de^
 ||utiq.kurierverlag.de^

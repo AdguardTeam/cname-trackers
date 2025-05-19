@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -421,6 +421,7 @@ donkey.guggenbichler.co.at CNAME .
 donkey.hackoregon.org CNAME .
 donkey.jackellis.me CNAME .
 donkey.mrfrisby.com CNAME .
+donkey.rentingtoriches.com CNAME .
 dormouse.consentkit.com CNAME .
 dove.hoku.nz CNAME .
 dragon.codemakes.art CNAME .
@@ -798,7 +799,6 @@ parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
 peafowl.projectstrackt.dev CNAME .
-pelican.jatikhwan.com CNAME .
 penguin.craftpeak.io CNAME .
 penguin.mobiadroit.com CNAME .
 penguin.revolana.com CNAME .
@@ -1196,4 +1196,3 @@ ss.nwmnd.com CNAME .
 thirty-good.lugg.com CNAME .
 video.adsninja.ca CNAME .
 www.cdnaccelerationcache.com CNAME .
-gerbil.recipe-ipsum.com CNAME .

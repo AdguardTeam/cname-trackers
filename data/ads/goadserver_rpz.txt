@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ go.static-srv.com CNAME .
 go.tbllem.com CNAME .
 go.tbllprem.com CNAME .
 go.tbllzon.com CNAME .
+go.trafficbull.com CNAME .
 go.xyouxxx.com CNAME .
 go1.a2ure.work CNAME .
 go1.atre.work CNAME .
@@ -49,6 +50,7 @@ go1.spre.work CNAME .
 go1.tjre.work CNAME .
 go1.trakit12.com CNAME .
 go1.trakit13.com CNAME .
+go1.trakit15.com CNAME .
 go1.trakit16.com CNAME .
 go1.trakit17.com CNAME .
 go1.trakit18.com CNAME .
@@ -77,11 +79,13 @@ live.trmzum.com CNAME .
 live.zrmtrm.com CNAME .
 mail3.go-srv.com CNAME .
 mx3.go-srv.com CNAME .
+rtb.prnteen.com CNAME .
 service.goadnow.com CNAME .
 service.zingtraffic.com CNAME .
 smtp3.go-srv.com CNAME .
 supply.hornylust.com CNAME .
 vps.go-srv.com CNAME .
+data.goasrv.com CNAME .
 st.go-static.info CNAME .
 static.delmovip.com CNAME .
 static.goasrv.com CNAME .
@@ -90,4 +94,5 @@ static.reacheffecti.work CNAME .
 static.trafficbull.com CNAME .
 st.static-srv.com CNAME .
 up.reacheffect.com CNAME .
+userpanel.ero-advertising.com CNAME .
 userpanel.eroadvertising.com CNAME .

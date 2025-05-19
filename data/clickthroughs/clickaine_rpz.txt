@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -106,6 +106,7 @@ k8.usefto.com CNAME .
 m.brandnewapp.pro CNAME .
 mail.7porn.ru CNAME .
 net.fuckxstream.com CNAME .
+now.nextvideo.info CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
 p.porn0hd.online CNAME .
@@ -131,7 +132,6 @@ www.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
-www.xn--icn-hn0a.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

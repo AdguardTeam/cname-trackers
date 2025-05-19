@@ -126,6 +126,7 @@
 ||a8.funtre.co.jp^
 ||a8.fxism.jp^
 ||a8.gaizyu-taiji.com^
+||a8.gensenwedding.jp^
 ||a8.geo-online.co.jp^
 ||a8.global-mobility-service.com^
 ||a8.gme.co.jp^
@@ -1288,7 +1289,6 @@
 ||a8cv.taxi-qjin.com^
 ||a8cv.techkidsschool.jp^
 ||a8cv.tenishokunext.jp^
-||a8cv.tenkuryo.jp^
 ||a8cv.tenshinocart.com^
 ||a8cv.tintle.net^
 ||a8cv.tmix.jp^
@@ -1611,6 +1611,7 @@
 ||sub.turningpoint.work^
 ||summary.bookoffonline.co.jp^
 ||sync-a8.cocolocala.jp^
+||t6g.futurizm.jp^
 ||tag.minimaid.co.jp^
 ||test.shigoto-web.com^
 ||test.zeus-wifi.jp^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -680,6 +680,7 @@ lncdn.myfortiva.com CNAME .
 lndata.labor.maryland.gov CNAME .
 lndata.labor.md.gov CNAME .
 lnday.sinclair.edu CNAME .
+lni.finom.co CNAME .
 lnths.twc.texas.gov CNAME .
 lnthxsvc.tsp.gov CNAME .
 log.betdaq.com CNAME .
@@ -832,6 +833,7 @@ prod-vantage.chaperone.lumindigitalhosting.com CNAME .
 prod-vsecuvt.chaperone.lumindigitalhosting.com CNAME .
 prod-wccuri.chaperone.lumindigitalhosting.com CNAME .
 prod-westccu.chaperone.lumindigitalhosting.com CNAME .
+prof4rs.cembrapay.ch CNAME .
 profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
@@ -868,7 +870,6 @@ rba.optumgovid.com CNAME .
 rba.optumid.com CNAME .
 rba.phub-im.uhg.com CNAME .
 rbawis.pocketcard.co.jp CNAME .
-rct.ext.sofinco.fr CNAME .
 rebatecontent.finance.delaware.gov CNAME .
 regstat.betfair.bet.br CNAME .
 regstat.betfair.com CNAME .

@@ -24,7 +24,6 @@
 | abox.simpleshop.cz | cz.affilbox.cz |
 | aff.faircredit.cz | cz.affilbox.cz |
 | aff.pujckajonatan.cz | cz.affilbox.cz |
-| aff.realwoman.sk | cz.affilbox.cz |
 | aff.teshop.cz | cz.affilbox.cz |
 | aff.teticka.cz | cz.affilbox.cz |
 | aff.winkey.cz | cz.affilbox.cz |
@@ -457,10 +456,10 @@
 | my.weplayvolleyball.de | cz.affilbox.cz |
 | my.weplayvolleyball.fr | cz.affilbox.cz |
 | my.weplayvolleyball.gr | cz.affilbox.cz |
+| my.weplayvolleyball.lt | cz.affilbox.cz |
 | my.weplayvolleyball.ro | cz.affilbox.cz |
 | my.weplayvolleyball.si | cz.affilbox.cz |
 | my.weplayvolleyball.sk | cz.affilbox.cz |
-| obluk.equilist.cz | cz.affilbox.cz |
 | online.pdfknihovna.cz | cz.affilbox.cz |
 | partener.aeriumshop.ro | cz.affilbox.cz |
 | partner-affilbox.telly.cz | cz.affilbox.cz |
@@ -567,7 +566,6 @@
 | partner.elektrostech.cz | cz.affilbox.cz |
 | partner.energiezivota.com | cz.affilbox.cz |
 | partner.epravo.cz | cz.affilbox.cz |
-| partner.equilist.cz | cz.affilbox.cz |
 | partner.eshop-gyorsan.hu | cz.affilbox.cz |
 | partner.eshop-rodas.cz | cz.affilbox.cz |
 | partner.evolutionhub.cz | cz.affilbox.cz |
@@ -780,6 +778,7 @@
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.thelisteningworld.com | cz.affilbox.cz |
 | partner.top-obaly.cz | cz.affilbox.cz |
+| partner.tozax.cz | cz.affilbox.cz |
 | partner.tozax.sk | cz.affilbox.cz |
 | partner.tradewyx.com | cz.affilbox.cz |
 | partner.tyano.cz | cz.affilbox.cz |
@@ -944,7 +943,6 @@
 | partneri.volejbal.sk | cz.affilbox.cz |
 | partneri.volny-termin.cz | cz.affilbox.cz |
 | partneri.vseprobeh.cz | cz.affilbox.cz |
-| partneri.vyzvaproimunitu.cz | cz.affilbox.cz |
 | partneri.way4life.cz | cz.affilbox.cz |
 | partneri.webmeeting.cz | cz.affilbox.cz |
 | partneri.worldee.com | cz.affilbox.cz |

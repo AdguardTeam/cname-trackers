@@ -410,6 +410,7 @@ donkey.guggenbichler.co.at
 donkey.hackoregon.org
 donkey.jackellis.me
 donkey.mrfrisby.com
+donkey.rentingtoriches.com
 dormouse.consentkit.com
 dove.hoku.nz
 dragon.codemakes.art
@@ -787,7 +788,6 @@ parrot.lovably.com
 parrotfish.thenping.me
 parrotfish.wilderworld.com
 peafowl.projectstrackt.dev
-pelican.jatikhwan.com
 penguin.craftpeak.io
 penguin.mobiadroit.com
 penguin.revolana.com
@@ -1185,4 +1185,3 @@ ss.nwmnd.com
 thirty-good.lugg.com
 video.adsninja.ca
 www.cdnaccelerationcache.com
-gerbil.recipe-ipsum.com

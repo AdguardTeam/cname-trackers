@@ -21,13 +21,11 @@
 * popupads.b-cdn.net
 * consent.b-cdn.net
 * b-cdn.net
-* 77980.bodis.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| gerbil.recipe-ipsum.com | 77980.bodis.com |
 | thirty-good.lugg.com | absolutely-novel.b-cdn.net |
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
 | video.adsninja.ca | adsninja.b-cdn.net |
@@ -367,6 +365,7 @@
 | donkey.hackoregon.org | deprecated-custom-domains.b-cdn.net |
 | donkey.jackellis.me | deprecated-custom-domains.b-cdn.net |
 | donkey.mrfrisby.com | deprecated-custom-domains.b-cdn.net |
+| donkey.rentingtoriches.com | deprecated-custom-domains.b-cdn.net |
 | dormouse.consentkit.com | deprecated-custom-domains.b-cdn.net |
 | dove.hoku.nz | deprecated-custom-domains.b-cdn.net |
 | dragon.codemakes.art | deprecated-custom-domains.b-cdn.net |
@@ -744,7 +743,6 @@
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
 | peafowl.projectstrackt.dev | deprecated-custom-domains.b-cdn.net |
-| pelican.jatikhwan.com | deprecated-custom-domains.b-cdn.net |
 | penguin.craftpeak.io | deprecated-custom-domains.b-cdn.net |
 | penguin.mobiadroit.com | deprecated-custom-domains.b-cdn.net |
 | penguin.revolana.com | deprecated-custom-domains.b-cdn.net |

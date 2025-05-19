@@ -140,6 +140,7 @@
 | a8.funtre.co.jp | trck.a8.net |
 | a8.fxism.jp | trck.a8.net |
 | a8.gaizyu-taiji.com | trck.a8.net |
+| a8.gensenwedding.jp | trck.a8.net |
 | a8.geo-online.co.jp | trck.a8.net |
 | a8.global-mobility-service.com | trck.a8.net |
 | a8.gme.co.jp | trck.a8.net |
@@ -1301,7 +1302,6 @@
 | a8cv.taxi-qjin.com | trck.a8.net |
 | a8cv.techkidsschool.jp | trck.a8.net |
 | a8cv.tenishokunext.jp | trck.a8.net |
-| a8cv.tenkuryo.jp | trck.a8.net |
 | a8cv.tenshinocart.com | trck.a8.net |
 | a8cv.tintle.net | trck.a8.net |
 | a8cv.tmix.jp | trck.a8.net |
@@ -1624,6 +1624,7 @@
 | sub.turningpoint.work | trck.a8.net |
 | summary.bookoffonline.co.jp | trck.a8.net |
 | sync-a8.cocolocala.jp | trck.a8.net |
+| t6g.futurizm.jp | trck.a8.net |
 | tag.minimaid.co.jp | trck.a8.net |
 | test.shigoto-web.com | trck.a8.net |
 | test.zeus-wifi.jp | trck.a8.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 abox.simpleshop.cz CNAME .
 aff.faircredit.cz CNAME .
 aff.pujckajonatan.cz CNAME .
-aff.realwoman.sk CNAME .
 aff.teshop.cz CNAME .
 aff.teticka.cz CNAME .
 aff.winkey.cz CNAME .
@@ -447,10 +446,10 @@ my.weplayvolleyball.cz CNAME .
 my.weplayvolleyball.de CNAME .
 my.weplayvolleyball.fr CNAME .
 my.weplayvolleyball.gr CNAME .
+my.weplayvolleyball.lt CNAME .
 my.weplayvolleyball.ro CNAME .
 my.weplayvolleyball.si CNAME .
 my.weplayvolleyball.sk CNAME .
-obluk.equilist.cz CNAME .
 online.pdfknihovna.cz CNAME .
 partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
@@ -557,7 +556,6 @@ partner.edutu.cz CNAME .
 partner.elektrostech.cz CNAME .
 partner.energiezivota.com CNAME .
 partner.epravo.cz CNAME .
-partner.equilist.cz CNAME .
 partner.eshop-gyorsan.hu CNAME .
 partner.eshop-rodas.cz CNAME .
 partner.evolutionhub.cz CNAME .
@@ -770,6 +768,7 @@ partner.tahnabranu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.thelisteningworld.com CNAME .
 partner.top-obaly.cz CNAME .
+partner.tozax.cz CNAME .
 partner.tozax.sk CNAME .
 partner.tradewyx.com CNAME .
 partner.tyano.cz CNAME .
@@ -934,7 +933,6 @@ partneri.viadelicia.cz CNAME .
 partneri.volejbal.sk CNAME .
 partneri.volny-termin.cz CNAME .
 partneri.vseprobeh.cz CNAME .
-partneri.vyzvaproimunitu.cz CNAME .
 partneri.way4life.cz CNAME .
 partneri.webmeeting.cz CNAME .
 partneri.worldee.com CNAME .

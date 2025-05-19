@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -119,6 +119,7 @@ sponsor.syracuse.com CNAME .
 4eea23ee25.cff913e5b4.com CNAME .
 4f1a213614.0f0eeca702.com CNAME .
 4f1c8cf090.138b1541c6.com CNAME .
+51a66f8059.ce0a43500c.com CNAME .
 52fd9f7fa7.e65303ab96.com CNAME .
 5393e2d07f.a196f8c478.com CNAME .
 542130b763.144e93f0b6.com CNAME .
@@ -212,6 +213,7 @@ sponsor.syracuse.com CNAME .
 9994e49efe.14f5718df1.com CNAME .
 9ad4aa9b37.8c450453b2.com CNAME .
 9b27c61c1e.a07154cac7.com CNAME .
+9b81706c09.c161949ece.com CNAME .
 9bb5444a65.d1d114356e.com CNAME .
 9cb99d5798.a7c023663a.com CNAME .
 9da3c90943.19e1d1f849.com CNAME .
@@ -297,6 +299,7 @@ da72088eb8.e424766a73.com CNAME .
 dc594f6d5d.f28f8ccf8b.com CNAME .
 dc7b8b23dd.bf1685177f.com CNAME .
 dc8b1985cd.a336b509d9.com CNAME .
+dd80d3eba7.22b8bd2b91.com CNAME .
 dde341a1e9.d0428f37ca.com CNAME .
 deb8cb5eff.a4a8fa91e2.com CNAME .
 df5760f05b.236dd57cef.com CNAME .
@@ -324,7 +327,6 @@ f03917a204.d66eacfd84.com CNAME .
 f154d0ea0e.ae01326ea0.com CNAME .
 f1923e23bf.aef7fa2241.com CNAME .
 f1ac7cb1ae.744908dbf5.com CNAME .
-f3d1a8ee12.c37b652f3a.com CNAME .
 f3ecbf9a98.95dc89f000.com CNAME .
 f4573d395e.9acf69ca5f.com CNAME .
 f476f3ffa9.eb1536c76c.com CNAME .
@@ -342,7 +344,6 @@ ff161ce5ce.c17778a8e1.com CNAME .
 i.laketrend.com CNAME .
 i.selecttopoff.com CNAME .
 i.statelinear.com CNAME .
-a135.wftv.com CNAME .
 mlive.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
@@ -350,6 +351,7 @@ shared.sponsoredcontent.com CNAME .
 9c5a4e173e.0069672d29.com CNAME .
 b3d55d5eec.ea09e63fed.com CNAME .
 a135.fox23.com CNAME .
+a135.wftv.com CNAME .
 a135.wpxi.com CNAME .
 a135.wsoctv.com CNAME .
 a614.mlive.com CNAME .

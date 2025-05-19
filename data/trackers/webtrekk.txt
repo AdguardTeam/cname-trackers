@@ -166,8 +166,6 @@
 ||mit.dws.com^
 ||mit.dws.de^
 ||mit.postbank.de^
-||mit.researchlog.db.com^
-||mit.researchlog.dbresearch.com^
 ||on.dextra.ch^
 ||ot.obi-baumarkt.ch^
 ||ot.obi-brico.ch^
@@ -392,7 +390,6 @@
 ||web.web.tomasiauto.com^
 ||web.x.ilpost.it^
 ||web2.updates.ditano.com^
-||webanalytics.also.com^
 ||webmet.creditreform-mahnwesen.de^
 ||webmet.creditreform.de^
 ||webmet.crefotrust.de^

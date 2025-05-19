@@ -120,7 +120,6 @@
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 587628343151442.wt-eu02.net
-    * 590341552297239.wt-eu02.net
     * 590838755166551.wt-eu02.net
     * 598189357306993.wt-eu02.net
     * 599048080139251.wt-eu02.net
@@ -197,7 +196,6 @@
     * 958731023298385.wt-eu02.net
     * 961613221867173.wt-eu02.net
     * 964869656656022.wt-eu02.net
-    * 965607891904117.wt-eu02.net
     * 969665527401678.wt-eu02.net
     * 982429105360946.wt-eu02.net
     * 987593120374077.wt-eu02.net
@@ -388,7 +386,6 @@
 | web.e.professionalbuildingsupplies.co.uk | 587628343151442.wt-eu02.net |
 | web.e.pvccladding.com | 587628343151442.wt-eu02.net |
 | web.e.soakaways.com | 587628343151442.wt-eu02.net |
-| webanalytics.also.com | 590341552297239.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
 | info.allango.net | 599048080139251.wt-eu02.net |
@@ -490,8 +487,6 @@
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |
 | web.engagetest.swaindestinations.com | 961613221867173.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |
-| mit.researchlog.db.com | 965607891904117.wt-eu02.net |
-| mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
 | def.bayer04.de | 969665527401678.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |

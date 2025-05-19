@@ -25,11 +25,11 @@
 * fr-online.vgwort-de.2cnt.net
 * gala.vgwort-de.2cnt.net
 * geo.vgwort-de.2cnt.net
+* golem.vgwort-de.2cnt.net
+* handelsblatt.vgwort-de.2cnt.net
 * helpster.vgwort-de.2cnt.net
 * hogrefe.vgwort-de.2cnt.net
-* idgmagazine.vgwort-de.2cnt.net
 * juris.vgwort-de.2cnt.net
-* kohlhammer.vgwort-de.2cnt.net
 * kr.vgwort-de.2cnt.net
 * ksta.vgwort-de.2cnt.net
 * manager.vgwort-de.2cnt.net
@@ -99,11 +99,11 @@
 | fr-online.met.vgwort.de | fr-online.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | gala.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | geo.vgwort-de.2cnt.net |
+| golem.met.vgwort.de | golem.vgwort-de.2cnt.net |
+| handelsblatt.met.vgwort.de | handelsblatt.vgwort-de.2cnt.net |
 | helpster.met.vgwort.de | helpster.vgwort-de.2cnt.net |
 | hogrefe.met.vgwort.de | hogrefe.vgwort-de.2cnt.net |
-| idgmagazine.met.vgwort.de | idgmagazine.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | juris.vgwort-de.2cnt.net |
-| kohlhammer.met.vgwort.de | kohlhammer.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | kr.vgwort-de.2cnt.net |
 | ksta.met.vgwort.de | ksta.vgwort-de.2cnt.net |
 | manager.met.vgwort.de | manager.vgwort-de.2cnt.net |
@@ -114,7 +114,6 @@
 | pl01.owen.prolitteris.ch | pl01.prolitteris.2cnt.net |
 | pl02.owen.prolitteris.ch | pl02.prolitteris.2cnt.net |
 | rtl.met.vgwort.de | rtl.vgwort-de.2cnt.net |
-| ssl-test-tns-no.tns-cs.net | sl-demo-de-pool01.2cnt.net |
 | ssl-test.spring-tns.net | sl-demo-de-pool01.2cnt.net |
 | test-tns-no.tns-cs.net | sl-demo-de-pool01.2cnt.net |
 | test.spring-tns.net | sl-demo-de-pool01.2cnt.net |
@@ -137,7 +136,6 @@
 | idgmagazine.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
-| kohlhammer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | kohlhammer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | mopo.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | n-tv.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -228,6 +226,8 @@
 | focus.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | focus.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | golem.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
+| golem.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
+| handelsblatt.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | handelsblatt.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |

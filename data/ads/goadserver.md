@@ -42,6 +42,7 @@
 | go.tbllem.com | go.goadserver.com |
 | go.tbllprem.com | go.goadserver.com |
 | go.tbllzon.com | go.goadserver.com |
+| go.trafficbull.com | go.goadserver.com |
 | go.xyouxxx.com | go.goadserver.com |
 | go1.a2ure.work | go.goadserver.com |
 | go1.atre.work | go.goadserver.com |
@@ -54,6 +55,7 @@
 | go1.tjre.work | go.goadserver.com |
 | go1.trakit12.com | go.goadserver.com |
 | go1.trakit13.com | go.goadserver.com |
+| go1.trakit15.com | go.goadserver.com |
 | go1.trakit16.com | go.goadserver.com |
 | go1.trakit17.com | go.goadserver.com |
 | go1.trakit18.com | go.goadserver.com |
@@ -82,12 +84,14 @@
 | live.zrmtrm.com | go.goadserver.com |
 | mail3.go-srv.com | go.goadserver.com |
 | mx3.go-srv.com | go.goadserver.com |
+| rtb.prnteen.com | go.goadserver.com |
 | service.goadnow.com | go.goadserver.com |
 | service.zingtraffic.com | go.goadserver.com |
 | smtp3.go-srv.com | go.goadserver.com |
 | supply.hornylust.com | go.goadserver.com |
 | vps.go-srv.com | go.goadserver.com |
 | up.reacheffect.com | reacheffect.goadserver.com |
+| data.goasrv.com | static.goadserver.com |
 | st.go-static.info | static.goadserver.com |
 | static.delmovip.com | static.goadserver.com |
 | static.goasrv.com | static.goadserver.com |
@@ -95,4 +99,5 @@
 | static.reacheffecti.work | static.goadserver.com |
 | static.trafficbull.com | static.goadserver.com |
 | up.reacheffect.com | up.goadserver.com |
+| userpanel.ero-advertising.com | up.goadserver.com |
 | userpanel.eroadvertising.com | up.goadserver.com |

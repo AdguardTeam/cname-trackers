@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -198,7 +198,6 @@ tr.candidats-dispos-fed.fr CNAME .
 tr.capu.espmp-agfr.net CNAME .
 tr.carl.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
-tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .

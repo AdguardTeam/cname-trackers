@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747411824045        ; Serial
+           1747641609081        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -150,6 +150,7 @@ $TTL 300
 1.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
 1.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 2.www.02952346.xyz CNAME .
+2.www.07443488.xyz CNAME .
 2.www.08256602.xyz CNAME .
 2.www.09284291.xyz CNAME .
 2.www.0ul1wlo58s-vu69us-r1u.xyz CNAME .
@@ -250,6 +251,7 @@ $TTL 300
 3.www.63715207.xyz CNAME .
 3.www.64786087.xyz CNAME .
 3.www.72123581.xyz CNAME .
+3.www.72891504.xyz CNAME .
 3.www.74099753.xyz CNAME .
 3.www.74759411.xyz CNAME .
 3.www.75114620.xyz CNAME .
@@ -387,6 +389,7 @@ $TTL 300
 5.www.63715207.xyz CNAME .
 5.www.64786087.xyz CNAME .
 5.www.72123581.xyz CNAME .
+5.www.72891504.xyz CNAME .
 5.www.74099753.xyz CNAME .
 5.www.74759411.xyz CNAME .
 5.www.75114620.xyz CNAME .
@@ -802,6 +805,7 @@ www.4afa45f1.xyz CNAME .
 www.4fdd7f4b.xyz CNAME .
 www.4tr3sopq592o7svp1q6mn3.xyz CNAME .
 www.50873vmk3263-7sk.xyz CNAME .
+www.526bfd3e.xyz CNAME .
 www.53469662.xyz CNAME .
 www.54019033.xyz CNAME .
 www.55766925.xyz CNAME .
@@ -879,6 +883,7 @@ www.95597529.xyz CNAME .
 www.96679950.xyz CNAME .
 www.97496b9d.xyz CNAME .
 www.98140548.xyz CNAME .
+www.98355134.xyz CNAME .
 www.98383163.xyz CNAME .
 www.98738797.xyz CNAME .
 www.98853171.xyz CNAME .

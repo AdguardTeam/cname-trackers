@@ -74,7 +74,6 @@
   "ssl-t-online.met.vgwort.de": "slb-vgwort-de-pool02.vgwort-de.2cnt.net",
   "ssl-tagesspiegel.met.vgwort.de": "slb-vgwort-de-pool02.vgwort-de.2cnt.net",
   "ssl-teltarif.met.vgwort.de": "slb-vgwort-de-pool01.vgwort-de.2cnt.net",
-  "ssl-test-tns-no.tns-cs.net": "sl-demo-de-pool01.2cnt.net",
   "ssl-test.spring-tns.net": "sl-demo-de-pool01.2cnt.net",
   "ssl-thieme.met.vgwort.de": "slb-vgwort-de-pool03.vgwort-de.2cnt.net",
   "ssl-tz.met.vgwort.de": "slb-vgwort-de-pool02.vgwort-de.2cnt.net",

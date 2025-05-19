@@ -8,7 +8,6 @@
 
 ### Rarely active trackers
 
-* 77980.bodis.com
 * 548260.parkingcrew.net
 
 ## Cloaking domains
@@ -491,6 +490,7 @@
 | daswercd.filasofighit.com | 0i0i0i0.com |
 | data.bangtubevideos.com | 0i0i0i0.com |
 | data.streamtape.com | 0i0i0i0.com |
+| dca-ems.hubhubhub.name | 0i0i0i0.com |
 | dd.topdisplay.xyz | 0i0i0i0.com |
 | dd.unifieddataconnect.click | 0i0i0i0.com |
 | ddijapp.com | 0i0i0i0.com |
@@ -515,7 +515,6 @@
 | dore.new-indian-porn.com | 0i0i0i0.com |
 | doyoudi.com | 0i0i0i0.com |
 | drleez.xyz | 0i0i0i0.com |
-| dsg.reifporn.de | 0i0i0i0.com |
 | dude.pleasedonotblockme.com | 0i0i0i0.com |
 | dulkd.org | 0i0i0i0.com |
 | dust.xxx-video-indian.com | 0i0i0i0.com |
@@ -637,6 +636,7 @@
 | honest05032026.shop | 0i0i0i0.com |
 | hookjav12.fun | 0i0i0i0.com |
 | hot.justpornflix.com | 0i0i0i0.com |
+| hqqvjdttre.club | 0i0i0i0.com |
 | hskujw2.com | 0i0i0i0.com |
 | hx1.tubepornbase.com | 0i0i0i0.com |
 | i-0c8d1bb4c1a648ae1.hubhubhub.name | 0i0i0i0.com |
@@ -887,6 +887,7 @@
 | p.aprilads.space | 0i0i0i0.com |
 | p.asgex.click | 0i0i0i0.com |
 | p.avgads.space | 0i0i0i0.com |
+| p.bloblohub.com | 0i0i0i0.com |
 | p.febads.shop | 0i0i0i0.com |
 | p.janads.shop | 0i0i0i0.com |
 | p.octoads.shop | 0i0i0i0.com |
@@ -1149,6 +1150,7 @@
 | up1app.com | 0i0i0i0.com |
 | up2cdn.com | 0i0i0i0.com |
 | upperoh.hubhubhub.name | 0i0i0i0.com |
+| us-west-1.cdn1cloudflare.xyz | 0i0i0i0.com |
 | uvac.devcre.site | 0i0i0i0.com |
 | v.septads.store | 0i0i0i0.com |
 | v1.sellbuy.click | 0i0i0i0.com |
@@ -1205,6 +1207,7 @@
 | www.ithaca.hubhubhub.name | 0i0i0i0.com |
 | www.javtvnow.xyz | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
+| www.mestierediscrivere.hubhubhub.name | 0i0i0i0.com |
 | www.mysalo.store | 0i0i0i0.com |
 | www.n.bloblohub.com | 0i0i0i0.com |
 | www.pickard.hubhubhub.name | 0i0i0i0.com |
@@ -1268,9 +1271,6 @@
 | zudvl.com | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | digiadzone.com | 548260.parkingcrew.net |
-| a.mikop.xyz | 77980.bodis.com |
-| a.naliw.xyz | 77980.bodis.com |
-| a.vrime.xyz | 77980.bodis.com |
 | adsxtits.com | u50.0i0i0i0.com |
 | adsxtits.pro | u50.0i0i0i0.com |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
