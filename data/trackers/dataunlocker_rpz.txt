@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,6 +45,7 @@ $TTL 300
 5oovx2t8rl04.thebarrecollective.co CNAME .
 5zb0xuoeglfx.cit-dev.stylumia.com CNAME .
 6fzt17pkr6a1de5.kvest.ee CNAME .
+6kflczrtc901.app.wefar.dev CNAME .
 6nwp0r33a71m.app.dev.cardahealth.com CNAME .
 6ynyejkv0j1s.app.tapmyback.com CNAME .
 704g8xh7qfzx.www.intercity.technology CNAME .
@@ -109,6 +110,7 @@ otx23nu6rzon.prep.toppers.com CNAME .
 p7h1silo3f.app.cainthus.com CNAME .
 pgc5000di6pg.www.brizy.io CNAME .
 q4l5gz6lqog6.www.eventus.io CNAME .
+qh3ws6xr53zy.integ.partsavatar.ca CNAME .
 qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qri2r94eeajr.innovationcast.com CNAME .

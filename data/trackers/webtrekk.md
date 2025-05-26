@@ -8,7 +8,6 @@
     * buchch02.webtrekk.net
     * cbm02.webtrekk.net
     * cosmos01ssl.webtrekk.net
-    * distrelec-02.webtrekk.net
     * eads-com01.webtrekk.net
     * emeza-ch01.webtrekk.net
     * emeza-com01.webtrekk.net
@@ -531,7 +530,6 @@
 | di.ifolor.net | di.ifolor.wt-eu02.net |
 | di.ifolor.se | di.ifolor.wt-eu02.net |
 | di.spreadmorelove.ch | di.ifolor.wt-eu02.net |
-| wt.distrelec.com | distrelec-02.webtrekk.net |
 | pix.eads.com | eads-com01.webtrekk.net |
 | track.emeza.ch | emeza-ch01.webtrekk.net |
 | track.emeza.com | emeza-com01.webtrekk.net |

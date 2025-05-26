@@ -195,6 +195,7 @@
 ||utiq.jux.news^
 ||utiq.kino.de^
 ||utiq.kreis-anzeiger.de^
+||utiq.kreisbote.de^
 ||utiq.kreiszeitung.de^
 ||utiq.kundendienst-info.de^
 ||utiq.kurierverlag.de^

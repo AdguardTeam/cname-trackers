@@ -13,6 +13,7 @@
 ||go.meretmarine.com^
 ||go.publicsenat.fr^
 ||go.rfi.fr^
+||go.saveurs-magazine.fr^
 ||go.solidworks.com^
 ||ie.h24.news^
 ||in.h24.news^
@@ -21,6 +22,7 @@
 ||l.3djuegos.com^
 ||l.750g.com^
 ||l.actu.fr^
+||l.adorocinema.com^
 ||l.africabusinessplus.com^
 ||l.africanews.com^
 ||l.africaradio.com^
@@ -71,6 +73,7 @@
 ||l.euronews.com^
 ||l.familiscope.fr^
 ||l.femmeactuelle.fr^
+||l.filmstarts.de^
 ||l.fip.fr^
 ||l.foot-national.com^
 ||l.football.fr^
@@ -147,6 +150,7 @@
 ||l.modesettravaux.fr^
 ||l.monacomatin.mc^
 ||l.mouv.fr^
+||l.moviepilot.de^
 ||l.mprovence.com^
 ||l.netmums.com^
 ||l.nextplz.fr^

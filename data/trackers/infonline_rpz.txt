@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -82,6 +82,7 @@ data-0740a1e851.stadtbibliothek-rostock.de CNAME .
 data-07728e2d08.lokaldirekt.de CNAME .
 data-0797a61d67.starfm.de CNAME .
 data-07bc6012a0.apps.iocnt.de CNAME .
+data-07ca87a981.bestazubi.de CNAME .
 data-07ca87a981.logistikmasters.de CNAME .
 data-07ca87a981.verkehrsrundschau.de CNAME .
 data-07e0108925.apps.iocnt.de CNAME .
@@ -375,6 +376,7 @@ data-2ccf0ea3cc.esquire.de CNAME .
 data-2cee0cb9fa.apps.iocnt.de CNAME .
 data-2cfc77297e.tagesspiegel.de CNAME .
 data-2d5e2d4006.apps.iocnt.de CNAME .
+data-2d805a2d6c.mama-reporter.de CNAME .
 data-2d86fd41e0.business-punk.com CNAME .
 data-2d86fd41e0.homeday.de CNAME .
 data-2d8c7b4f16.apps.iocnt.de CNAME .
@@ -709,6 +711,7 @@ data-4f77096dc0.radio-brocken.de CNAME .
 data-4f77096dc0.radiobrocken.com CNAME .
 data-4f99163f5e.bludenz.com CNAME .
 data-4fa18eb5e3.zvw.de CNAME .
+data-4fec147c37.agrarheute.com CNAME .
 data-501446ac98.einfachtierisch.de CNAME .
 data-501446ac98.stayfriends.de CNAME .
 data-501446ac98.t-online.de CNAME .
@@ -1039,6 +1042,7 @@ data-75037dd3ff.praxis-depesche.de CNAME .
 data-75526e35eb.etailment.de CNAME .
 data-7555680eb3.ikz.de CNAME .
 data-75671117cf.radiowaf.de CNAME .
+data-75671117cf.radiowafhilft.de CNAME .
 data-75adc1b92b.fleischerei.de CNAME .
 data-7613d707d4.enbausa.de CNAME .
 data-767a8be759.berliner-kurier.de CNAME .
@@ -1473,6 +1477,8 @@ data-a9dcbfdd12.noz.de CNAME .
 data-aa4a1f6eab.apps.iocnt.de CNAME .
 data-aa5df368fb.landundforst.de CNAME .
 data-aa70fe4f08.jam.fm CNAME .
+data-aa77362b45.alternativantriebe.de CNAME .
+data-aa77362b45.alternative-antriebe.com CNAME .
 data-aa77362b45.autoflotte-online.de CNAME .
 data-aa77362b45.autoflotte.de CNAME .
 data-aac883f83b.offiziellecharts.de CNAME .
@@ -1568,6 +1574,7 @@ data-b640a0ce46.connect.de CNAME .
 data-b640a0ce46.wmp-dev.de CNAME .
 data-b71e59c9ac.servus.com CNAME .
 data-b7311f797c.fnweb.de CNAME .
+data-b7489be2ae.radiotop40.de CNAME .
 data-b784e2dbb0.echo24.de CNAME .
 data-b7d0b4217b.autoscout24.bg CNAME .
 data-b7d0b4217b.autoscout24.com CNAME .
@@ -1671,6 +1678,7 @@ data-c2d348ce9c.cellesche-zeitung.de CNAME .
 data-c2d348ce9c.cz.de CNAME .
 data-c308939a15.cafe-future.net CNAME .
 data-c308939a15.food-service.de CNAME .
+data-c3391a3eb3.job38.de CNAME .
 data-c3391a3eb3.radio38.de CNAME .
 data-c33ac4a00e.rtlplus.de CNAME .
 data-c33ac4a00e.tvnow.de CNAME .
@@ -1894,6 +1902,7 @@ data-e16817998e.apps.iocnt.de CNAME .
 data-e16c65ad3c.antennevorarlberg.at CNAME .
 data-e18f7c3e0e.bib.dormagen.de CNAME .
 data-e208ca4264.uci-kinowelt.de CNAME .
+data-e25e89b95d.it-daily.net CNAME .
 data-e28d5b2f77.wetter.live CNAME .
 data-e2b70f0c07.lb-oldenburg.de CNAME .
 data-e337e2a6a8.kuechenplaner-magazin.de CNAME .
@@ -1987,6 +1996,7 @@ data-ede3421766.caraworld.de CNAME .
 data-ede3421766.promobil.de CNAME .
 data-ee28b6fae3.industrial-production.de CNAME .
 data-ee807be806.jobmarkt-nrw.de CNAME .
+data-ee807be806.radiobochum.de CNAME .
 data-ee807be806.radioduisburg.de CNAME .
 data-ee807be806.radioemscherlippe.de CNAME .
 data-ee807be806.radioessen.de CNAME .
@@ -2107,6 +2117,7 @@ data-f35c83b71a.ots.at CNAME .
 data-f3bb5f7732.infranken.de CNAME .
 data-f3e9921e92.speedparty.at CNAME .
 data-f3e9f6e256.computer-spezial.de CNAME .
+data-f3ec5391f5.tv14.de CNAME .
 data-f3f7a2af0e.spox.com CNAME .
 data-f3fe376ba8.allgaeuer-zeitung.de CNAME .
 data-f41b8197e7.obermain.de CNAME .
@@ -2123,6 +2134,7 @@ data-f59db3288b.24rhein.de CNAME .
 data-f59db3288b.24royal.de CNAME .
 data-f59db3288b.24sport.de CNAME .
 data-f59db3288b.24vita.de CNAME .
+data-f59db3288b.absolutfussball.com CNAME .
 data-f59db3288b.az-online.de CNAME .
 data-f59db3288b.baden24.de CNAME .
 data-f59db3288b.bgland24.de CNAME .
@@ -2271,6 +2283,7 @@ data-fb37a1e7c3.frankenpost.de CNAME .
 data-fb37a1e7c3.insuedthueringen.de CNAME .
 data-fb37a1e7c3.kornwestheimer-zeitung.de CNAME .
 data-fb37a1e7c3.kurier.de CNAME .
+data-fb37a1e7c3.lahrer-zeitung.de CNAME .
 data-fb37a1e7c3.leonberger-kreiszeitung.de CNAME .
 data-fb37a1e7c3.mhsdigital.de CNAME .
 data-fb37a1e7c3.np-coburg.de CNAME .
@@ -2312,6 +2325,7 @@ data-fdc5118d41.at-minerals.com CNAME .
 data-fdf4690b14.jobmarkt-nrw.de CNAME .
 data-fdf4690b14.radiobochum.de CNAME .
 data-fdf4690b14.radioduisburg.de CNAME .
+data-fdf4690b14.radioemscherlippe.de CNAME .
 data-fdf4690b14.radioenneperuhr.de CNAME .
 data-fdf4690b14.radioessen.de CNAME .
 data-fdf4690b14.radiohagen.de CNAME .

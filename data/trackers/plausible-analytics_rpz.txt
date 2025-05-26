@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,7 +59,6 @@ api.digitalpiloten.org CNAME .
 api.elliehuxtable.com CNAME .
 api.fuck.education CNAME .
 api.ryanyao.design CNAME .
-api0.schule.wtf CNAME .
 apis.4bn.xyz CNAME .
 app-stats.supernotes.app CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
@@ -389,7 +388,6 @@ stats.chomp.haus CNAME .
 stats.chronoslabs.net CNAME .
 stats.clavisaurea.xyz CNAME .
 stats.cleverdiabetic.com CNAME .
-stats.cloud-backup-for-podio.com CNAME .
 stats.coachinghive.com CNAME .
 stats.code-it-studio.de CNAME .
 stats.codinginfinity.me CNAME .
@@ -692,7 +690,6 @@ stats.playoutgame.app CNAME .
 stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
-stats.poochplaces.dog CNAME .
 stats.portalmonitor.io CNAME .
 stats.postcollectors.com CNAME .
 stats.poweringpastcoal.org CNAME .
@@ -825,7 +822,6 @@ stats.unusualtourist.com CNAME .
 stats.urbanfinn.com CNAME .
 stats.urlaubsverwaltung.cloud CNAME .
 stats.useeffect.dev CNAME .
-stats.uxtools.co CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
 stats.vali-pod.io CNAME .
 stats.vanityprojects.com CNAME .

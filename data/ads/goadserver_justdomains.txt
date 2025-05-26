@@ -23,10 +23,12 @@ go.gosrv.cl
 go.novirtb.com
 go.redgifs.com
 go.static-srv.com
+go.tbllad.com
 go.tbllem.com
 go.tbllprem.com
 go.tbllzon.com
 go.trafficbull.com
+go.vidspass.com
 go.xyouxxx.com
 go1.a2ure.work
 go1.atre.work
@@ -45,6 +47,7 @@ go1.trakit17.com
 go1.trakit18.com
 go1.trakit20.com
 go1.trakit5.com
+go1.were.work
 go1.yare.work
 go2.toplineads.com
 go2.trafficbull.com

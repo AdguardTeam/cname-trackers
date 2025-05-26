@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -136,17 +136,18 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em2287.theory.com CNAME .
+em225.codecademy.com CNAME .
+em5231.mail.propertyperks.xfinity.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
-em7952.dailypay.com CNAME .
-em8561.go2bank.com CNAME .
-em924.refer.starbucks.com CNAME .
+em767.forgetrust.com CNAME .
+em8928.em.petco.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
 friends.uvacreditunion.org CNAME .
 gabbie.extoleu.com CNAME .
 get.lull.com CNAME .
+gift.getfreed.ai CNAME .
 go.joinsizigi.com CNAME .
 groomrefer.petco.com CNAME .
 internalreferral.freshworks.com CNAME .
@@ -482,6 +483,7 @@ share.au.boden.com CNAME .
 share.aveda.com.au CNAME .
 share.azcentral.com CNAME .
 share.baiconnect.com CNAME .
+share.barrys.com CNAME .
 share.basepaws.com CNAME .
 share.battlecreekenquirer.com CNAME .
 share.beaspermdonor.com CNAME .
@@ -777,11 +779,11 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
-em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em5231.mail.propertyperks.xfinity.com CNAME .
-em767.forgetrust.com CNAME .
-em8928.em.petco.com CNAME .
+em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .

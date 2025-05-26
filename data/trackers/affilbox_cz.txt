@@ -174,7 +174,6 @@
 ||affiliate.innone.cz^
 ||affiliate.isetos.cz^
 ||affiliate.ispace.cz^
-||affiliate.jasnaznacka.cz^
 ||affiliate.jewstone.cz^
 ||affiliate.jidlojevasen.cz^
 ||affiliate.jiristibor.cz^
@@ -184,7 +183,6 @@
 ||affiliate.ladylab.cz^
 ||affiliate.ladylab.sk^
 ||affiliate.lasamba.cz^
-||affiliate.lasun.cz^
 ||affiliate.lavycosmetics.com^
 ||affiliate.lechocolat.cz^
 ||affiliate.lentiamo.be^
@@ -537,6 +535,7 @@
 ||partner.dressibly.cz^
 ||partner.drfit.cz^
 ||partner.dripit.cz^
+||partner.dvereskladom.sk^
 ||partner.dynamikabohatstvi.cz^
 ||partner.eandilek.cz^
 ||partner.ecomail.cz^
@@ -642,7 +641,6 @@
 ||partner.martinafallerova.cz^
 ||partner.martinreznicek.cz^
 ||partner.massivo.cz^
-||partner.maxori.cz^
 ||partner.mbytshop.cz^
 ||partner.medela.cz^
 ||partner.memolingo.cz^
@@ -746,7 +744,6 @@
 ||partner.stromkyonline.cz^
 ||partner.summermyles.cz^
 ||partner.susmevem.com^
-||partner.svatebni-diar.cz^
 ||partner.svetcukrarov.sk^
 ||partner.svetcukraru.cz^
 ||partner.svetruzi.cz^
@@ -796,7 +793,6 @@
 ||partneri.alchemistr.cz^
 ||partneri.alepiacz.cz^
 ||partneri.anglictinarychlo.sk^
-||partneri.apimedika.sk^
 ||partneri.appkee.cz^
 ||partneri.arouska.cz^
 ||partneri.artisan.cz^

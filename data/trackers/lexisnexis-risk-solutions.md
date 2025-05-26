@@ -25,6 +25,7 @@
     * h-1k066192.online-metrix.net
     * h-1kcyydia.online-metrix.net
     * h-1lc506lh.online-metrix.net
+    * h-1lsdhefu.online-metrix.net
     * h-1ngztxrl.online-metrix.net
     * h-1qbwo7fx.online-metrix.net
     * h-1qeo60mk.online-metrix.net
@@ -236,7 +237,6 @@
     * h-asjl0mko-3.online-metrix.net
     * h-asjl0mko.online-metrix.net
     * h-asurion.online-metrix.net
-    * h-atahq1yn-2.online-metrix.net
     * h-atlanticus.online-metrix.net
     * h-autoowners.online-metrix.net
     * h-autozone.online-metrix.net
@@ -343,7 +343,6 @@
     * h-cibc.online-metrix.net
     * h-cibcom.online-metrix.net
     * h-cigsl5rh-2.online-metrix.net
-    * h-cigsl5rh.online-metrix.net
     * h-citadele.online-metrix.net
     * h-citbank.online-metrix.net
     * h-citcommercial.online-metrix.net
@@ -395,6 +394,7 @@
     * h-crif.online-metrix.net
     * h-crssf8gn-m.online-metrix.net
     * h-crssf8gn.online-metrix.net
+    * h-csaq721w.online-metrix.net
     * h-cu2jhowq.online-metrix.net
     * h-cvps2xwa.online-metrix.net
     * h-cw88rpnh.online-metrix.net
@@ -838,6 +838,7 @@
 | posture.mtoken.zand.ae | h-1k066192.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
+| fulfillment-ups.squareup.com | h-1lsdhefu.online-metrix.net |
 | t.zinia.com | h-1ngztxrl.online-metrix.net |
 | content.nycers.org | h-1qbwo7fx.online-metrix.net |
 | prod-acutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -867,6 +868,7 @@
 | prod-jaxfcufl.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-jfcudc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-keypoint.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-kirtland.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lafcuca.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-latino.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lfcuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1278,7 +1280,6 @@
 | content.reisource.com | h-asjl0mko-3.online-metrix.net |
 | content.listsource.com | h-asjl0mko.online-metrix.net |
 | content.asurion53.com | h-asurion.online-metrix.net |
-| dtpm.kuady.com | h-atahq1yn-2.online-metrix.net |
 | lncdn.aspire.com | h-atlanticus.online-metrix.net |
 | lncdn.imaginecredit.com | h-atlanticus.online-metrix.net |
 | lncdn.myfortiva.com | h-atlanticus.online-metrix.net |
@@ -1445,7 +1446,6 @@
 | profiling.cmo.cibc.com | h-cibcom.online-metrix.net |
 | profiling.digitalbusiness.cibc.com | h-cibcom.online-metrix.net |
 | compliance.mohegansuncasino.com | h-cigsl5rh-2.online-metrix.net |
-| compliance.resortscasino.com | h-cigsl5rh.online-metrix.net |
 | content.citadele.lv | h-citadele.online-metrix.net |
 | content.bankoncit.com | h-citbank.online-metrix.net |
 | content.citbankapp.cit.com | h-citbank.online-metrix.net |
@@ -1515,6 +1515,7 @@
 | phyon.communipay.net | h-crif.online-metrix.net |
 | img2.bog.ge | h-crssf8gn-m.online-metrix.net |
 | img1.bog.ge | h-crssf8gn.online-metrix.net |
+| content.backend-capital.com | h-csaq721w.online-metrix.net |
 | scuicss.dew.sc.gov | h-cu2jhowq.online-metrix.net |
 | thrm-scrq-0001.crypterium.com | h-cvps2xwa.online-metrix.net |
 | lsprof.comeon.com | h-cw88rpnh.online-metrix.net |

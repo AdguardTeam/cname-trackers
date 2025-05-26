@@ -130,6 +130,7 @@
     * slade.goatcounter.com
     * sofianlak.goatcounter.com
     * storydragon.goatcounter.com
+    * szorty.goatcounter.com
     * tailspace.goatcounter.com
     * tbx.goatcounter.com
     * tdurand.goatcounter.com
@@ -289,6 +290,7 @@
 | dot-com-stats.sladewatkins.net | slade.goatcounter.com |
 | stats.sofianlak.fr | sofianlak.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
+| stats.szorty.space | szorty.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
 | gc.tbx.at | tbx.goatcounter.com |
 | stats.tdurand.com | tdurand.goatcounter.com |

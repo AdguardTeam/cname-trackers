@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -46,7 +46,6 @@ w3.flatex.es CNAME .
 w3.flatex.nl CNAME .
 wbtrkk.teufelaudio.co.uk CNAME .
 webts.adac.de CNAME .
-wt.distrelec.com CNAME .
 wtm.interhyp.de CNAME .
 www7.springer.com CNAME .
 a.hrewards.com CNAME .

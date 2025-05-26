@@ -433,7 +433,6 @@
 | a8clk.app.offerbox.jp | trck.a8.net |
 | a8clk.apply-shop.menu.inc | trck.a8.net |
 | a8clk.asahi-net.or.jp | trck.a8.net |
-| a8clk.ashitarunrun.com | trck.a8.net |
 | a8clk.asp.jcity.co.jp | trck.a8.net |
 | a8clk.assecli.com | trck.a8.net |
 | a8clk.ato-barai.com | trck.a8.net |
@@ -1266,6 +1265,7 @@
 | a8cv.softbankhikari-collabo.net | trck.a8.net |
 | a8cv.somenoya.com | trck.a8.net |
 | a8cv.somresta.jp | trck.a8.net |
+| a8cv.sotsuenalbum.com | trck.a8.net |
 | a8cv.soundfun.co.jp | trck.a8.net |
 | a8cv.soyafarm.com | trck.a8.net |
 | a8cv.spacioshop.com | trck.a8.net |
@@ -1335,6 +1335,7 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
+| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.willfu.jp | trck.a8.net |

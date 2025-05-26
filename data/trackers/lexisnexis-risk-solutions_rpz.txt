@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -238,7 +238,6 @@ cnt.faktoria.pl CNAME .
 cnt.goboo.com CNAME .
 cnt.patpat.com CNAME .
 compliance.mohegansuncasino.com CNAME .
-compliance.resortscasino.com CNAME .
 condition.applause.com CNAME .
 consortium.adib.ae CNAME .
 contendvc.cnouyi.pizza CNAME .
@@ -257,6 +256,7 @@ content.apruvd.com CNAME .
 content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
 content.b-social.io CNAME .
+content.backend-capital.com CNAME .
 content.bank-abc.com CNAME .
 content.bankoncit.com CNAME .
 content.benefitsaccess.org CNAME .
@@ -522,7 +522,6 @@ dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dt.extrakarte.com CNAME .
 dt.payla.io CNAME .
-dtpm.kuady.com CNAME .
 dtrust.atratopago.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
 ebcontent.mcbankny.com CNAME .
@@ -574,6 +573,7 @@ fpt.norton.com CNAME .
 fss.glbank.com CNAME .
 fsta.leboncoin.info CNAME .
 ftd.quodxx.com.br CNAME .
+fulfillment-ups.squareup.com CNAME .
 gateway.jmbullion.com CNAME .
 ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
@@ -798,6 +798,7 @@ prod-interracu.chaperone.lumindigitalhosting.com CNAME .
 prod-jaxfcufl.chaperone.lumindigitalhosting.com CNAME .
 prod-jfcudc.chaperone.lumindigitalhosting.com CNAME .
 prod-keypoint.chaperone.lumindigitalhosting.com CNAME .
+prod-kirtland.chaperone.lumindigitalhosting.com CNAME .
 prod-lafcuca.chaperone.lumindigitalhosting.com CNAME .
 prod-latino.chaperone.lumindigitalhosting.com CNAME .
 prod-lfcuva.chaperone.lumindigitalhosting.com CNAME .

@@ -227,7 +227,6 @@ cnt.faktoria.pl
 cnt.goboo.com
 cnt.patpat.com
 compliance.mohegansuncasino.com
-compliance.resortscasino.com
 condition.applause.com
 consortium.adib.ae
 contendvc.cnouyi.pizza
@@ -246,6 +245,7 @@ content.apruvd.com
 content.asurion53.com
 content.atmosphere.ca
 content.b-social.io
+content.backend-capital.com
 content.bank-abc.com
 content.bankoncit.com
 content.benefitsaccess.org
@@ -511,7 +511,6 @@ dpf.authorize.net
 drfdisvc.walmart.com
 dt.extrakarte.com
 dt.payla.io
-dtpm.kuady.com
 dtrust.atratopago.com
 dvc0271.play.jackpocket.com
 ebcontent.mcbankny.com
@@ -563,6 +562,7 @@ fpt.norton.com
 fss.glbank.com
 fsta.leboncoin.info
 ftd.quodxx.com.br
+fulfillment-ups.squareup.com
 gateway.jmbullion.com
 ghisa.subito.it
 go.citizensaccess.com
@@ -787,6 +787,7 @@ prod-interracu.chaperone.lumindigitalhosting.com
 prod-jaxfcufl.chaperone.lumindigitalhosting.com
 prod-jfcudc.chaperone.lumindigitalhosting.com
 prod-keypoint.chaperone.lumindigitalhosting.com
+prod-kirtland.chaperone.lumindigitalhosting.com
 prod-lafcuca.chaperone.lumindigitalhosting.com
 prod-latino.chaperone.lumindigitalhosting.com
 prod-lfcuva.chaperone.lumindigitalhosting.com

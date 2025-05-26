@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -430,7 +430,6 @@ a8clk.ap.livede55.com CNAME .
 a8clk.app.offerbox.jp CNAME .
 a8clk.apply-shop.menu.inc CNAME .
 a8clk.asahi-net.or.jp CNAME .
-a8clk.ashitarunrun.com CNAME .
 a8clk.asp.jcity.co.jp CNAME .
 a8clk.assecli.com CNAME .
 a8clk.ato-barai.com CNAME .
@@ -1264,6 +1263,7 @@ a8cv.snkrdunk.com CNAME .
 a8cv.softbankhikari-collabo.net CNAME .
 a8cv.somenoya.com CNAME .
 a8cv.somresta.jp CNAME .
+a8cv.sotsuenalbum.com CNAME .
 a8cv.soundfun.co.jp CNAME .
 a8cv.soyafarm.com CNAME .
 a8cv.spacioshop.com CNAME .
@@ -1333,6 +1333,7 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
+a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ assets.telefonanlage-shop.de CNAME .
 atrdb.laeckerli-huus.ch CNAME .
 auszeichnungen.pokale-nrw.de CNAME .
 bmkt.bernhardtmoden.de CNAME .
+cet.ximpl.digital CNAME .
 click.easycosmetic.at CNAME .
 click.easycosmetic.be CNAME .
 click.easycosmetic.ch CNAME .
@@ -101,6 +102,7 @@ js.edingershops.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
 mktg.activemind.legal CNAME .
+monitoring.medizinbedarf.eu CNAME .
 mytrd.orion.at CNAME .
 pse.gabor.com CNAME .
 ric.arrive-im-herzogpark.de CNAME .
@@ -141,6 +143,7 @@ track.dictum-handwerksgalerie.de CNAME .
 track.dictum-shop.de CNAME .
 track.karlstorz.com CNAME .
 track.richtig-schaerfen.de CNAME .
+track.schlaffabrik.com CNAME .
 track.thegundogaffair.com CNAME .
 tracker.bkk24.de CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
@@ -148,6 +151,7 @@ tracking.terrassenhof.de CNAME .
 trkkr.bugatti-media.com CNAME .
 trkkr.bugatti-newsroom.com CNAME .
 uezeus.ueberbit.de CNAME .
+umerf.reisprinzen.de CNAME .
 wa.ostermann.eu CNAME .
 waet.datalogue.de CNAME .
 wctr.bodenverkauf.de CNAME .
@@ -162,17 +166,20 @@ wctr.moenninghoff.net CNAME .
 wctr.scaleup-fulfillment.de CNAME .
 wctr.sus-architekten-muenster.de CNAME .
 wctr.vitanova-kliniken.de CNAME .
+web.satiata-med.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcon.se-legal.de CNAME .
 webcontr.aquarius-prolife.com CNAME .
 webcontr.barcodescanner.de CNAME .
 webcontr.baulogistik-online.de CNAME .
+webcontr.bertibuch.de CNAME .
 webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .
 webcontr.caso-design.de CNAME .
 webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
+webcontr.distrebution.com CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.genius.tv CNAME .
 webcontr.holzgestein.com CNAME .
@@ -206,6 +213,7 @@ webcontr.wgv.de CNAME .
 webcontr.wolkenlosundheiter.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
+webstats.arbeitskleidung-expert.de CNAME .
 webstats.kawentsmann.de CNAME .
 websy.skillyofficial.com CNAME .
 webtr.codearchitekten.de CNAME .

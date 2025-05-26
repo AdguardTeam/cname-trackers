@@ -9,6 +9,7 @@
 ||atrdb.laeckerli-huus.ch^
 ||auszeichnungen.pokale-nrw.de^
 ||bmkt.bernhardtmoden.de^
+||cet.ximpl.digital^
 ||click.easycosmetic.at^
 ||click.easycosmetic.be^
 ||click.easycosmetic.ch^
@@ -90,6 +91,7 @@
 ||maschine.bengs-modellbau.de^
 ||mensch.ekd.de^
 ||mktg.activemind.legal^
+||monitoring.medizinbedarf.eu^
 ||mytrd.orion.at^
 ||pse.gabor.com^
 ||ric.arrive-im-herzogpark.de^
@@ -130,6 +132,7 @@
 ||track.dictum-shop.de^
 ||track.karlstorz.com^
 ||track.richtig-schaerfen.de^
+||track.schlaffabrik.com^
 ||track.thegundogaffair.com^
 ||tracker.bkk24.de^
 ||tracking.ostsee-resort-dampland.de^
@@ -137,6 +140,7 @@
 ||trkkr.bugatti-media.com^
 ||trkkr.bugatti-newsroom.com^
 ||uezeus.ueberbit.de^
+||umerf.reisprinzen.de^
 ||wa.ostermann.eu^
 ||waet.datalogue.de^
 ||wctr.bodenverkauf.de^
@@ -151,17 +155,20 @@
 ||wctr.scaleup-fulfillment.de^
 ||wctr.sus-architekten-muenster.de^
 ||wctr.vitanova-kliniken.de^
+||web.satiata-med.de^
 ||webanalytics.pwc.fr^
 ||webaus.dw-shop.de^
 ||webcon.se-legal.de^
 ||webcontr.aquarius-prolife.com^
 ||webcontr.barcodescanner.de^
 ||webcontr.baulogistik-online.de^
+||webcontr.bertibuch.de^
 ||webcontr.bet-at-home.com^
 ||webcontr.bet-at-home.de^
 ||webcontr.caso-design.de^
 ||webcontr.chairgo.de^
 ||webcontr.chiptuning.com^
+||webcontr.distrebution.com^
 ||webcontr.fsj-digital-bw.de^
 ||webcontr.genius.tv^
 ||webcontr.holzgestein.com^
@@ -195,6 +202,7 @@
 ||webcontr.wolkenlosundheiter.de^
 ||webcontrol.brenners-altholz.at^
 ||webctrl.dalimed.de^
+||webstats.arbeitskleidung-expert.de^
 ||webstats.kawentsmann.de^
 ||websy.skillyofficial.com^
 ||webtr.codearchitekten.de^

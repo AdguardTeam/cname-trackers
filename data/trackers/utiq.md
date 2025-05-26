@@ -199,6 +199,7 @@
 | utiq.jux.news | frontend.prod.utiq-aws.net |
 | utiq.kino.de | frontend.prod.utiq-aws.net |
 | utiq.kreis-anzeiger.de | frontend.prod.utiq-aws.net |
+| utiq.kreisbote.de | frontend.prod.utiq-aws.net |
 | utiq.kreiszeitung.de | frontend.prod.utiq-aws.net |
 | utiq.kundendienst-info.de | frontend.prod.utiq-aws.net |
 | utiq.kurierverlag.de | frontend.prod.utiq-aws.net |

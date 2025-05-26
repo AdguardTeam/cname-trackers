@@ -60,7 +60,6 @@
 | api.elliehuxtable.com | custom.plausible.io |
 | api.fuck.education | custom.plausible.io |
 | api.ryanyao.design | custom.plausible.io |
-| api0.schule.wtf | custom.plausible.io |
 | apis.4bn.xyz | custom.plausible.io |
 | app-stats.supernotes.app | custom.plausible.io |
 | artistchristinacarmel.ericksonbuilt.com | custom.plausible.io |
@@ -390,7 +389,6 @@
 | stats.chronoslabs.net | custom.plausible.io |
 | stats.clavisaurea.xyz | custom.plausible.io |
 | stats.cleverdiabetic.com | custom.plausible.io |
-| stats.cloud-backup-for-podio.com | custom.plausible.io |
 | stats.coachinghive.com | custom.plausible.io |
 | stats.code-it-studio.de | custom.plausible.io |
 | stats.codinginfinity.me | custom.plausible.io |
@@ -693,7 +691,6 @@
 | stats.poesieundgenuss.com | custom.plausible.io |
 | stats.pointflottant.com | custom.plausible.io |
 | stats.polekatfitness.com | custom.plausible.io |
-| stats.poochplaces.dog | custom.plausible.io |
 | stats.portalmonitor.io | custom.plausible.io |
 | stats.postcollectors.com | custom.plausible.io |
 | stats.poweringpastcoal.org | custom.plausible.io |
@@ -826,7 +823,6 @@
 | stats.urbanfinn.com | custom.plausible.io |
 | stats.urlaubsverwaltung.cloud | custom.plausible.io |
 | stats.useeffect.dev | custom.plausible.io |
-| stats.uxtools.co | custom.plausible.io |
 | stats.v4.agirpourlenvironnement.org | custom.plausible.io |
 | stats.vali-pod.io | custom.plausible.io |
 | stats.vanityprojects.com | custom.plausible.io |

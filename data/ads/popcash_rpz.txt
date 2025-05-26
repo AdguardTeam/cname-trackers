@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -728,7 +728,6 @@ mongoose.scrumgenius.com CNAME .
 mongoose.thechocolatelife.com CNAME .
 monkey.colinjohnston.com CNAME .
 monkey.compulsivo.co CNAME .
-moose.cloverlearning.com CNAME .
 moose.octo.app CNAME .
 mosquito.birbs.art CNAME .
 mosquito.iamamandaperez.com CNAME .
@@ -1185,7 +1184,6 @@ live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
 matomo-cdn-bunny.ramsalt.com CNAME .
 msrvt.net CNAME .
-snowplow-collector.xstaging.tv CNAME .
 sp.freshlooklens.pk CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .

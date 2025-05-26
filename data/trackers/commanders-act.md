@@ -10,6 +10,8 @@
     * redirect342.tagcommander.com
     * redirect343.tagcommander.com
     * redirect357.tagcommander.com
+    * redirect360.tagcommander.com
+    * redirect378.tagcommander.com
     * redirect384.tagcommander.com
     * redirect398.tagcommander.com
     * redirect476.tagcommander.com
@@ -17,6 +19,7 @@
     * redirect496.tagcommander.com
     * redirect521.tagcommander.com
     * redirect622.tagcommander.com
+    * redirect837.tagcommander.com
     * redirect891.tagcommander.com
     * ypg.tagcommander.com
 
@@ -46,6 +49,8 @@
 | data.decathlon.co.uk | redirect342.tagcommander.com |
 | data.decathlon.it | redirect343.tagcommander.com |
 | tc.europcar.com | redirect357.tagcommander.com |
+| data.auchandirect.fr | redirect360.tagcommander.com |
+| tc.europcar.de | redirect378.tagcommander.com |
 | tc.europcar.com.au | redirect384.tagcommander.com |
 | data.decathlon.pl | redirect398.tagcommander.com |
 | sales.disneylandparis.com | redirect476.tagcommander.com |
@@ -53,5 +58,6 @@
 | tagcommander.laredoute.de | redirect496.tagcommander.com |
 | tagcommander.laredoute.be | redirect521.tagcommander.com |
 | data.ubi.com | redirect622.tagcommander.com |
+| configure.adlermode.com | redirect837.tagcommander.com |
 | data.wptag.net | redirect891.tagcommander.com |
 | logger.yp.ca | ypg.tagcommander.com |

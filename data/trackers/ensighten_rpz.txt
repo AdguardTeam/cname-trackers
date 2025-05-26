@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -69,6 +69,7 @@ activate.tronc.com CNAME .
 activate.troncads.com CNAME .
 activate.vagazette.com CNAME .
 activate.vivelohoy.com CNAME .
+activate1.fmr.com CNAME .
 agility.cartoonnetwork.com CNAME .
 agility.citizensbank.com CNAME .
 agility.cnn.com CNAME .
@@ -399,6 +400,7 @@ tms.experian.com CNAME .
 tms.jbwere.com.au CNAME .
 tms.kone.com CNAME .
 tms.marriott.com CNAME .
+tms.mycard.com.au CNAME .
 tms.nab.com.au CNAME .
 tms.nabmarginlending.com.au CNAME .
 tms.nabtrade.com.au CNAME .

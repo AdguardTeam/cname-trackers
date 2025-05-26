@@ -48,7 +48,6 @@ api.digitalpiloten.org
 api.elliehuxtable.com
 api.fuck.education
 api.ryanyao.design
-api0.schule.wtf
 apis.4bn.xyz
 app-stats.supernotes.app
 artistchristinacarmel.ericksonbuilt.com
@@ -378,7 +377,6 @@ stats.chomp.haus
 stats.chronoslabs.net
 stats.clavisaurea.xyz
 stats.cleverdiabetic.com
-stats.cloud-backup-for-podio.com
 stats.coachinghive.com
 stats.code-it-studio.de
 stats.codinginfinity.me
@@ -681,7 +679,6 @@ stats.playoutgame.app
 stats.poesieundgenuss.com
 stats.pointflottant.com
 stats.polekatfitness.com
-stats.poochplaces.dog
 stats.portalmonitor.io
 stats.postcollectors.com
 stats.poweringpastcoal.org
@@ -814,7 +811,6 @@ stats.unusualtourist.com
 stats.urbanfinn.com
 stats.urlaubsverwaltung.cloud
 stats.useeffect.dev
-stats.uxtools.co
 stats.v4.agirpourlenvironnement.org
 stats.vali-pod.io
 stats.vanityprojects.com

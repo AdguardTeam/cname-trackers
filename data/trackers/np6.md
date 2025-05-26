@@ -89,6 +89,7 @@
 | tr.asp1.espmp-agfr.net | tracking.bp01.net |
 | tr.asp102c.espmp-aufr.net | tracking.bp01.net |
 | tr.asp102n.espmp-cufr.net | tracking.bp01.net |
+| tr.asp103y.espmp-nifr.net | tracking.bp01.net |
 | tr.asp103z.espmp-nifr.net | tracking.bp01.net |
 | tr.asp104p.espmp-aufr.net | tracking.bp01.net |
 | tr.asp106d.espmp-cufr.net | tracking.bp01.net |
@@ -212,6 +213,7 @@
 | tr.candidats-dispos-fed.fr | tracking.bp01.net |
 | tr.capu.espmp-agfr.net | tracking.bp01.net |
 | tr.carl.espmp-cufr.net | tracking.bp01.net |
+| tr.cart.espmp-cufr.net | tracking.bp01.net |
 | tr.cart02d.espmp-agfr.net | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
@@ -609,7 +611,6 @@
 | tr.invest.younited-credit.com | tracking.bp01.net |
 | tr.invitation.perfectstay.com | tracking.bp01.net |
 | tr.ipsos-surveys.com | tracking.bp01.net |
-| tr.ispaconsulting.com | tracking.bp01.net |
 | tr.it4brands-com.moethennessy.com | tracking.bp01.net |
 | tr.italia.plimsoll.it | tracking.bp01.net |
 | tr.jend.espmp-pofr.net | tracking.bp01.net |
@@ -770,7 +771,6 @@
 | tr.news.a2micile.com | tracking.bp01.net |
 | tr.news.accessmastertour.com | tracking.bp01.net |
 | tr.news.accessmbatour.com | tracking.bp01.net |
-| tr.news.actu-man.com | tracking.bp01.net |
 | tr.news.ailleurs.com | tracking.bp01.net |
 | tr.news.alcyon.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
@@ -908,6 +908,7 @@
 | tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
 | tr.news.sport2000.fr | tracking.bp01.net |
+| tr.news.sunelia.com | tracking.bp01.net |
 | tr.news.supercasino.fr | tracking.bp01.net |
 | tr.news.teklifim.pro | tracking.bp01.net |
 | tr.news.tf1licences.com | tracking.bp01.net |
@@ -1187,6 +1188,7 @@
 | tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk076.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07c.espmp-aufr.net | tracking.bp01.net |
+| tr.urfk07e.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk07h.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk07j.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07r.espmp-agfr.net | tracking.bp01.net |

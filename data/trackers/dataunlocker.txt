@@ -34,6 +34,7 @@
 ||5oovx2t8rl04.thebarrecollective.co^
 ||5zb0xuoeglfx.cit-dev.stylumia.com^
 ||6fzt17pkr6a1de5.kvest.ee^
+||6kflczrtc901.app.wefar.dev^
 ||6nwp0r33a71m.app.dev.cardahealth.com^
 ||6ynyejkv0j1s.app.tapmyback.com^
 ||704g8xh7qfzx.www.intercity.technology^
@@ -98,6 +99,7 @@
 ||p7h1silo3f.app.cainthus.com^
 ||pgc5000di6pg.www.brizy.io^
 ||q4l5gz6lqog6.www.eventus.io^
+||qh3ws6xr53zy.integ.partsavatar.ca^
 ||qnlbs2m0uoto.www.videoath.com^
 ||qqeuq1cmoooq.accuretawealth.com^
 ||qri2r94eeajr.innovationcast.com^

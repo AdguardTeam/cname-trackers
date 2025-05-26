@@ -20,6 +20,7 @@ al.blvck.jp
 al.bulk.co.jp
 al.caetus.jp
 al.californiastreet.net
+al.clear-store.com
 al.combinationmeal.com
 al.directishii.net
 al.dmjegao.com
@@ -77,6 +78,7 @@ al.sourcenext.com
 al.store.kyokotsu.jp
 al.talex.co.jp
 al.tanabesports.com
+al.tenhoru.jp
 al.tokimeku-otoriyose.jp
 al.tsukurupajama.jp
 al.ttandco.com

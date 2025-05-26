@@ -207,6 +207,7 @@
 ||ebis-tracking.tcb-shibuya.com^
 ||ebis.15jikai.com^
 ||ebis.2jikaikun.com^
+||ebis.3838.com^
 ||ebis.aibashiro.jp^
 ||ebis.apo-mjob.com^
 ||ebis.as-1.co.jp^

@@ -58,6 +58,7 @@ activate.tronc.com
 activate.troncads.com
 activate.vagazette.com
 activate.vivelohoy.com
+activate1.fmr.com
 agility.cartoonnetwork.com
 agility.citizensbank.com
 agility.cnn.com
@@ -388,6 +389,7 @@ tms.experian.com
 tms.jbwere.com.au
 tms.kone.com
 tms.marriott.com
+tms.mycard.com.au
 tms.nab.com.au
 tms.nabmarginlending.com.au
 tms.nabtrade.com.au

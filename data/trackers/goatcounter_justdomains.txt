@@ -135,6 +135,7 @@ stats.semipol.de
 stats.sharukhi.xyz
 stats.sofianlak.fr
 stats.svc.lol
+stats.szorty.space
 stats.tdurand.com
 stats.timothechau.vet
 stats.tinkerer.tools

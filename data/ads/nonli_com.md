@@ -67,6 +67,7 @@
 | go.mc-doualiya.com | tls.non.li |
 | go.meretmarine.com | tls.non.li |
 | go.publicsenat.fr | tls.non.li |
+| go.saveurs-magazine.fr | tls.non.li |
 | go.solidworks.com | tls.non.li |
 | ie.h24.news | tls.non.li |
 | in.h24.news | tls.non.li |
@@ -75,6 +76,7 @@
 | l.3djuegos.com | tls.non.li |
 | l.750g.com | tls.non.li |
 | l.actu.fr | tls.non.li |
+| l.adorocinema.com | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |
 | l.africanews.com | tls.non.li |
 | l.africaradio.com | tls.non.li |
@@ -119,6 +121,7 @@
 | l.euronews.com | tls.non.li |
 | l.familiscope.fr | tls.non.li |
 | l.femmeactuelle.fr | tls.non.li |
+| l.filmstarts.de | tls.non.li |
 | l.fip.fr | tls.non.li |
 | l.foot-national.com | tls.non.li |
 | l.football.fr | tls.non.li |
@@ -188,6 +191,7 @@
 | l.midilibre.fr | tls.non.li |
 | l.modesettravaux.fr | tls.non.li |
 | l.mouv.fr | tls.non.li |
+| l.moviepilot.de | tls.non.li |
 | l.netmums.com | tls.non.li |
 | l.nextplz.fr | tls.non.li |
 | l.notretemps.com | tls.non.li |

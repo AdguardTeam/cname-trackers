@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ go.mc-doualiya.com CNAME .
 go.meretmarine.com CNAME .
 go.publicsenat.fr CNAME .
 go.rfi.fr CNAME .
+go.saveurs-magazine.fr CNAME .
 go.solidworks.com CNAME .
 ie.h24.news CNAME .
 in.h24.news CNAME .
@@ -32,6 +33,7 @@ l.20minutes.fr CNAME .
 l.3djuegos.com CNAME .
 l.750g.com CNAME .
 l.actu.fr CNAME .
+l.adorocinema.com CNAME .
 l.africabusinessplus.com CNAME .
 l.africanews.com CNAME .
 l.africaradio.com CNAME .
@@ -82,6 +84,7 @@ l.estrepublicain.fr CNAME .
 l.euronews.com CNAME .
 l.familiscope.fr CNAME .
 l.femmeactuelle.fr CNAME .
+l.filmstarts.de CNAME .
 l.fip.fr CNAME .
 l.foot-national.com CNAME .
 l.football.fr CNAME .
@@ -158,6 +161,7 @@ l.midilibre.fr CNAME .
 l.modesettravaux.fr CNAME .
 l.monacomatin.mc CNAME .
 l.mouv.fr CNAME .
+l.moviepilot.de CNAME .
 l.mprovence.com CNAME .
 l.netmums.com CNAME .
 l.nextplz.fr CNAME .

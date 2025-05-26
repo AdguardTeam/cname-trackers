@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,10 +34,12 @@ go.gosrv.cl CNAME .
 go.novirtb.com CNAME .
 go.redgifs.com CNAME .
 go.static-srv.com CNAME .
+go.tbllad.com CNAME .
 go.tbllem.com CNAME .
 go.tbllprem.com CNAME .
 go.tbllzon.com CNAME .
 go.trafficbull.com CNAME .
+go.vidspass.com CNAME .
 go.xyouxxx.com CNAME .
 go1.a2ure.work CNAME .
 go1.atre.work CNAME .
@@ -56,6 +58,7 @@ go1.trakit17.com CNAME .
 go1.trakit18.com CNAME .
 go1.trakit20.com CNAME .
 go1.trakit5.com CNAME .
+go1.were.work CNAME .
 go1.yare.work CNAME .
 go2.toplineads.com CNAME .
 go2.trafficbull.com CNAME .

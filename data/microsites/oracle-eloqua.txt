@@ -20,6 +20,7 @@
 ||automationhipaapod03-app-trk.eloquademos.com^
 ||automationhipaapod04-app-trk.eloquademos.com^
 ||automationhipaapod07-mic-trk.eloquademos.com^
+||cko.gisec.ae^
 ||cko.globaldevslam.com^
 ||co.go.century21.fr^
 ||cookies-sfs.siemens.com^
@@ -115,6 +116,8 @@
 ||fp.mandatum.fi^
 ||fpc.acpjournals.org^
 ||fpc.acponline.org^
+||fpc.autoentry.com^
+||fpc.brightpearl.com^
 ||fpc.ciel.com^
 ||fpc.golubcapital.com^
 ||fpc.golubgrowth.com^
@@ -434,6 +437,7 @@
 ||t.uconnhuskies.com^
 ||t.ucsdtritons.com^
 ||t.uhcougars.com^
+||t.ukg.fr^
 ||t.umassathletics.com^
 ||t.umterps.com^
 ||t.uncwsports.com^
@@ -464,6 +468,7 @@
 ||track.abrdn.com^
 ||track.abrdnacp.com^
 ||track.abrdnaef.com^
+||track.abrdnagd.com^
 ||track.abrdnaod.com^
 ||track.abrdnasgi.com^
 ||track.abrdnawp.com^
@@ -472,13 +477,15 @@
 ||track.abrdnfco.com^
 ||track.abrdnifn.com^
 ||track.abrdnjapan.co.uk^
+||track.abrdnjeq.com^
 ||track.abrdnnewindia.co.uk^
 ||track.abrdnpit.co.uk^
+||track.abrdnuksmallercompaniesgrowthtrust.co.uk^
 ||track.asia-focus.co.uk^
-||track.asiadragontrust.co.uk^
 ||track.asian-income.co.uk^
 ||track.biz.lguplus.com^
 ||track.citystgeorgesisc.com^
+||track.drewintl.com^
 ||track.dunedinincomegrowth.co.uk^
 ||track.e.batesville.com^
 ||track.education.kenschool.jp^
@@ -615,6 +622,7 @@
 ||tracking.parcelpending.com^
 ||tracking.particuliers.engie.fr^
 ||tracking.phytogen.com^
+||tracking.pismo.io^
 ||tracking.plex.com^
 ||tracking.portofrotterdam.com^
 ||tracking.precisely.com^
@@ -648,6 +656,7 @@
 ||tracking.singlestore.com^
 ||tracking.softwareadvice.com^
 ||tracking.solutions.parker.com^
+||tracking.spiris.se^
 ||tracking.stageandscreen.travel^
 ||tracking.stihl-timbersports.com^
 ||tracking.stihl.at^
@@ -794,6 +803,8 @@
 ||trck.relacionamento.uol.com.br^
 ||trck.renew.orhp.com^
 ||trck.resources.blueprintgenetics.com^
+||trck.revvity.com^
+||trck.ricoh.it^
 ||trck.servicecomms.virginmediao2business.co.uk^
 ||trck.www4.earlywarning.com^
 ||trck.www4.paze.com^
@@ -847,6 +858,7 @@
 ||trk.cremefine.dk^
 ||trk.croma.nl^
 ||trk.ctsportal.ingersollrand.com^
+||trk.cx.motivcx.com^
 ||trk.delairproducts.com^
 ||trk.delma.hu^
 ||trk.delma.ro^
@@ -925,6 +937,7 @@
 ||trk.jensenprecast.com^
 ||trk.jorc.com^
 ||trk.jorc.eu^
+||trk.kaliakra.bg^
 ||trk.kansashealthsystem.com^
 ||trk.kirbybuilt.com^
 ||trk.laetta.com^
@@ -1207,6 +1220,7 @@
 ||trksvg.business.hsbc.com.tw^
 ||trksvg.business.hsbc.com.vn^
 ||trksvg.business.hsbc.cz^
+||trksvg.business.hsbc.es^
 ||trksvg.business.hsbc.fr^
 ||trksvg.business.hsbc.ie^
 ||trksvg.business.hsbc.it^
@@ -1345,7 +1359,6 @@
 ||app.demand.nexsan.com^
 ||app.dtlphx.net^
 ||app.e.dowjones.com^
-||app.e.flukecal.com^
 ||app.e.gettyimages.com^
 ||app.e.kqed.org^
 ||app.email.fitchratings.com^
@@ -2094,6 +2107,7 @@
 ||email-cm.jll.com.my^
 ||email-cm.jll.com.sg^
 ||email-cm.jll.de^
+||email-cm.jll.es^
 ||email-cm.jll.fi^
 ||email-cm.jll.hu^
 ||email-cm.jll.ie^
@@ -2484,6 +2498,7 @@
 ||app.bbmannpah.com^
 ||app.bluehens.com^
 ||app.emueagles.com^
+||app.foapom.com^
 ||app.goairforcefalcons.com^
 ||app.gobulldogs.com^
 ||app.goheels.com^
@@ -2602,6 +2617,7 @@
 ||t.azets.no^
 ||t.azets.se^
 ||t.cozone.com^
+||test.test.unia.ch^
 ||track.education.intostudy.com^
 ||tracking.athlon.com^
 ||tracking.europe.business.samsung.com^
@@ -2740,6 +2756,7 @@
 ||digital.adt.com.br^
 ||digital.adt.com.es^
 ||digital.adt.com.mx^
+||digital.adt.ie^
 ||email-em.stage-in.jll.com^
 ||email-em.stage-jp.jll.com^
 ||info.doorservicescorporation.com^
@@ -2917,7 +2934,6 @@
 ||images.e.bulls.com^
 ||images.e.chiefs.com^
 ||images.e.compactaprint.com.br^
-||images.e.congressionalfcu.org^
 ||images.e.denverbroncos.com^
 ||images.e.environicsanalytics.com^
 ||images.e.good2gotravelinsurance.com.au^
@@ -2941,6 +2957,7 @@
 ||images.edgenuity.com^
 ||images.edm.carnivalaustralia.com^
 ||images.edm.cunardinoz.com.au^
+||images.edm.hollandamericaline.com.au^
 ||images.edm.princesscruises.com.au^
 ||images.edm.propertyguru.com^
 ||images.education.ifebp.org^
@@ -3373,7 +3390,7 @@
 ||obrazy.dlabiznesu.pracuj.pl^
 ||response.quest.com^
 ||yourporscheimg.nabooda-auto.com^
-||images.edm.hollandamericaline.com.au^
+||img.omcprimary.outsourcing.co.jp^
 ||admin.smartgroup.com.au^
 ||cars.autopia.com.au^
 ||cars.smartfleetaustralia.com.au^
@@ -3416,6 +3433,7 @@
 ||go.computacenter.com^
 ||go.sseairtricity.com^
 ||go.teknos.com^
+||holyrood.totalpolitics.com^
 ||info.aranzadilaley.es^
 ||info.arp.com^
 ||info.bookkeepingconnect.pwc.com^
@@ -3539,6 +3557,7 @@
 ||my.macu.com^
 ||nas.adpinfo.com^
 ||nationalaccounts.adp.com^
+||nz.secure.sonosite.com^
 ||origin.www.2.events.healthcare.philips.com^
 ||origin.www.healthsystems.philips.com^
 ||origin.www.personalhealth.philips.com^
@@ -3672,6 +3691,7 @@
 ||devhipaa.duke.edu^
 ||dhdaa.duke.edu^
 ||dk-go.experian.com^
+||ducati.euroshop.com.pe^
 ||elq.cirium.com^
 ||elqtrk.cummins.com^
 ||emea-go.experian.com^
@@ -3816,6 +3836,7 @@
 ||pages.primalpictures.com^
 ||pages.wardsintelligence.informa.com^
 ||secure-eugo.arrow.com^
+||solutions.prevost.eu^
 ||solutions.staubli.com^
 ||subscription.coface.com^
 ||success.coface.com^
@@ -3871,6 +3892,7 @@
 ||go.billsmafia.com^
 ||go.firstderivatives.com^
 ||go.join.himssconference.com^
+||go.kx.com^
 ||go.psentertainment.com^
 ||healthier.aahs.org^
 ||healthier.luminishealth.org^
@@ -4133,7 +4155,6 @@
 ||tracking.southeastid.com^
 ||tracking.trade-id.co.uk^
 ||tracking.venture-net.co.jp^
-||tracking.warehouseautomation.com^
 ||www.revolutionaryreveos.com^
 ||ald.aldautomotive.be^
 ||alquiler.carflex.es^
@@ -4360,6 +4381,7 @@
 ||connect.winecoolerdirect.com^
 ||content.ferguson.com^
 ||content.pollardwater.com^
+||direct.colfondos.co^
 ||eloqua.renesas.com^
 ||elqtrk.ext.hp.com^
 ||elqtrk.hp.com^
@@ -4967,6 +4989,7 @@
 ||campaign.motorolasolutions.com^
 ||campaigninfo.motorolasolutions.com^
 ||campaignresources.motorolasolutions.com^
+||campaigns.kenschool.jp^
 ||comunicaciones.davivienda.com.pa^
 ||connect.care.baptist-health.org^
 ||connect.care.brgeneral.org^
@@ -5092,6 +5115,7 @@
 ||s.infomx.cemexgo.com^
 ||secure.medtronicinteract.com^
 ||solutions.peco-energy.com^
+||support.fredhutch.org^
 ||test.eafit.edu.co^
 ||tracking.eyefinity.com^
 ||tracking.motorolasolutions.com^
@@ -5280,6 +5304,7 @@
 ||relacionamento.edpcomunicacao.com.br^
 ||response.jeevessivarajah.com^
 ||society.discoverylandco.com^
+||tracking.bonelli.com^
 ||tracking.durathermwindow.com^
 ||tracking.epsilon.com^
 ||tracking.epsilon.postclickmarketing.com^
@@ -5394,6 +5419,7 @@
 ||go.vue.com^
 ||gocertiport.pearsonvue.com^
 ||imagine.ricoh.nl^
+||impressionproduction.ricoh.fr^
 ||info.barcoproducts.ca^
 ||info.kirbybuilt.com^
 ||info.treetopproducts.com^
@@ -6045,15 +6071,16 @@
 ||efficiency.vismaspcs.se^
 ||energy.eneco.be^
 ||engage.ricoh-europe.com^
+||engage.ricoh.at^
 ||eu.cignaglobalhealth.com^
 ||facilities.ubm-events.com^
 ||go.cf.labanquepostale.fr^
 ||go.send.fibia.dk^
 ||go.send.waoo.dk^
-||info.aldcarmarket.com^
 ||info.carmarket.ayvens.com^
 ||info.sproom.net^
 ||insight.gbm.hsbc.com^
+||insight.hsbcinnovationbanking.com^
 ||join.informa-events.com^
 ||join02.informamarkets.com^
 ||kampanj.spiris.se^
@@ -6081,6 +6108,7 @@
 ||lp3.dentsplysirona.com^
 ||lps-info.arval.com^
 ||mail.coloplastprofessional.com^
+||marketing-automation.amadeus.com^
 ||marketing.amadeus.com^
 ||marketing.atseuromaster.co.uk^
 ||marketing.euromaster.ch^
@@ -6446,7 +6474,6 @@
 ||s1885709864.sc.origins.en25.com^
 ||s2013560044.sc.origins.en25.com^
 ||s861531437.sc.origins.en25.com^
-||go.kx.com^
 ||images.infofreddiemac.com^
 ||info.pbs.org^
 ||information.cma-cgm.com^

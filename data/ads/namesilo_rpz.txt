@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -792,6 +792,7 @@ $TTL 300
 3710069.notifysrv.com CNAME .
 3710071.notify6.com CNAME .
 3710075.notify6.com CNAME .
+3710077.notify6.com CNAME .
 3714181.notify6.com CNAME .
 3714181.notifysrv.com CNAME .
 3715633.notifysrv.com CNAME .
@@ -1222,6 +1223,7 @@ $TTL 300
 649.notify.optimizesrv.com CNAME .
 663.notify.optimizesrv.com CNAME .
 665.notify.optimizesrv.com CNAME .
+6806.notify.optimizesrv.com CNAME .
 7678.notify.optimizesrv.com CNAME .
 769.notify.optimizesrv.com CNAME .
 8.notify.bizonads-ssp.com CNAME .
@@ -1234,20 +1236,24 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
+a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
 a.asvsm.com CNAME .
 a.b7q9v8z.com CNAME .
 a.cant3am.com CNAME .
+a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.golhofer.com CNAME .
-a.huklop.com CNAME .
 a.ma3ion.com CNAME .
 a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
+a.ouzads.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
+a.r8lnet.com CNAME .
+a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
 a.tf4srv.com CNAME .
 a.traffic-gold.com CNAME .
@@ -1450,6 +1456,7 @@ s.exoqarys.com CNAME .
 s.exv6.com CNAME .
 s.golhofer.com CNAME .
 s.huklop.com CNAME .
+s.kafaseju.com CNAME .
 s.linkv3c.com CNAME .
 s.linkw2c.com CNAME .
 s.linkw2e.com CNAME .
@@ -1658,12 +1665,8 @@ www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 a.18ramp.com CNAME .
-a.adsession.com CNAME .
 a.advertrek.com CNAME .
 a.b2bstars.com CNAME .
 a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
-a.ouzads.com CNAME .
-a.r8lnet.com CNAME .
-a.rocoads.net CNAME .
+a.huklop.com CNAME .
 ads.optimizesrv.com CNAME .

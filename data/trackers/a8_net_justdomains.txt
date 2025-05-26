@@ -419,7 +419,6 @@ a8clk.ap.livede55.com
 a8clk.app.offerbox.jp
 a8clk.apply-shop.menu.inc
 a8clk.asahi-net.or.jp
-a8clk.ashitarunrun.com
 a8clk.asp.jcity.co.jp
 a8clk.assecli.com
 a8clk.ato-barai.com
@@ -1253,6 +1252,7 @@ a8cv.snkrdunk.com
 a8cv.softbankhikari-collabo.net
 a8cv.somenoya.com
 a8cv.somresta.jp
+a8cv.sotsuenalbum.com
 a8cv.soundfun.co.jp
 a8cv.soyafarm.com
 a8cv.spacioshop.com
@@ -1322,6 +1322,7 @@ a8cv.waterserver.co.jp
 a8cv.web-planners.net
 a8cv.wedding.mynavi.jp
 a8cv.wellcrew.net
+a8cv.whynot.jp
 a8cv.will-agaclinic.com
 a8cv.will-gocon.net
 a8cv.willfu.jp

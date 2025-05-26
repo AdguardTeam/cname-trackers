@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -185,7 +185,6 @@ affiliate.inkytattoo.cz CNAME .
 affiliate.innone.cz CNAME .
 affiliate.isetos.cz CNAME .
 affiliate.ispace.cz CNAME .
-affiliate.jasnaznacka.cz CNAME .
 affiliate.jewstone.cz CNAME .
 affiliate.jidlojevasen.cz CNAME .
 affiliate.jiristibor.cz CNAME .
@@ -195,7 +194,6 @@ affiliate.kurzy-liecenia.sk CNAME .
 affiliate.ladylab.cz CNAME .
 affiliate.ladylab.sk CNAME .
 affiliate.lasamba.cz CNAME .
-affiliate.lasun.cz CNAME .
 affiliate.lavycosmetics.com CNAME .
 affiliate.lechocolat.cz CNAME .
 affiliate.lentiamo.be CNAME .
@@ -548,6 +546,7 @@ partner.dr-nek.cz CNAME .
 partner.dressibly.cz CNAME .
 partner.drfit.cz CNAME .
 partner.dripit.cz CNAME .
+partner.dvereskladom.sk CNAME .
 partner.dynamikabohatstvi.cz CNAME .
 partner.eandilek.cz CNAME .
 partner.ecomail.cz CNAME .
@@ -653,7 +652,6 @@ partner.marspom.cz CNAME .
 partner.martinafallerova.cz CNAME .
 partner.martinreznicek.cz CNAME .
 partner.massivo.cz CNAME .
-partner.maxori.cz CNAME .
 partner.mbytshop.cz CNAME .
 partner.medela.cz CNAME .
 partner.memolingo.cz CNAME .
@@ -757,7 +755,6 @@ partner.strendem.cz CNAME .
 partner.stromkyonline.cz CNAME .
 partner.summermyles.cz CNAME .
 partner.susmevem.com CNAME .
-partner.svatebni-diar.cz CNAME .
 partner.svetcukrarov.sk CNAME .
 partner.svetcukraru.cz CNAME .
 partner.svetruzi.cz CNAME .
@@ -807,7 +804,6 @@ partneri.akodlhsiezit.sk CNAME .
 partneri.alchemistr.cz CNAME .
 partneri.alepiacz.cz CNAME .
 partneri.anglictinarychlo.sk CNAME .
-partneri.apimedika.sk CNAME .
 partneri.appkee.cz CNAME .
 partneri.arouska.cz CNAME .
 partneri.artisan.cz CNAME .

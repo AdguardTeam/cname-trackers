@@ -672,7 +672,6 @@
 | mongoose.thechocolatelife.com | deprecated-custom-domains.b-cdn.net |
 | monkey.colinjohnston.com | deprecated-custom-domains.b-cdn.net |
 | monkey.compulsivo.co | deprecated-custom-domains.b-cdn.net |
-| moose.cloverlearning.com | deprecated-custom-domains.b-cdn.net |
 | moose.octo.app | deprecated-custom-domains.b-cdn.net |
 | mosquito.birbs.art | deprecated-custom-domains.b-cdn.net |
 | mosquito.iamamandaperez.com | deprecated-custom-domains.b-cdn.net |
@@ -1196,7 +1195,6 @@
 | cdn.shrtfly.vip | popupads.b-cdn.net |
 | cdn-b.notsy.io | prebid.b-cdn.net |
 | dntcl.qualaroo.com | qualdnt.b-cdn.net |
-| snowplow-collector.xstaging.tv | snowplow-collector.b-cdn.net |
 | sp.freshlooklens.pk | spixel.b-cdn.net |
 | sp.lenspk.com | spixel.b-cdn.net |
 | sp.theladyshop.pk | spixel.b-cdn.net |

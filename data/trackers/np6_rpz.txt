@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -74,6 +74,7 @@ tr.asp00am.espmp-cufr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
 tr.asp102c.espmp-aufr.net CNAME .
 tr.asp102n.espmp-cufr.net CNAME .
+tr.asp103y.espmp-nifr.net CNAME .
 tr.asp103z.espmp-nifr.net CNAME .
 tr.asp104p.espmp-aufr.net CNAME .
 tr.asp106d.espmp-cufr.net CNAME .
@@ -197,6 +198,7 @@ tr.campaign.colossusbets.com CNAME .
 tr.candidats-dispos-fed.fr CNAME .
 tr.capu.espmp-agfr.net CNAME .
 tr.carl.espmp-cufr.net CNAME .
+tr.cart.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
@@ -594,7 +596,6 @@ tr.interviews-mediametrie.fr CNAME .
 tr.invest.younited-credit.com CNAME .
 tr.invitation.perfectstay.com CNAME .
 tr.ipsos-surveys.com CNAME .
-tr.ispaconsulting.com CNAME .
 tr.it4brands-com.moethennessy.com CNAME .
 tr.italia.plimsoll.it CNAME .
 tr.jend.espmp-pofr.net CNAME .
@@ -755,7 +756,6 @@ tr.news.a-t.fr CNAME .
 tr.news.a2micile.com CNAME .
 tr.news.accessmastertour.com CNAME .
 tr.news.accessmbatour.com CNAME .
-tr.news.actu-man.com CNAME .
 tr.news.ailleurs.com CNAME .
 tr.news.alcyon.com CNAME .
 tr.news.alinea.com CNAME .
@@ -893,6 +893,7 @@ tr.news.seine-estuaire.cci.fr CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
+tr.news.sunelia.com CNAME .
 tr.news.supercasino.fr CNAME .
 tr.news.teklifim.pro CNAME .
 tr.news.tf1licences.com CNAME .
@@ -1172,6 +1173,7 @@ tr.urfk06x.espmp-cufr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
 tr.urfk076.espmp-nifr.net CNAME .
 tr.urfk07c.espmp-aufr.net CNAME .
+tr.urfk07e.espmp-aufr.net CNAME .
 tr.urfk07h.espmp-agfr.net CNAME .
 tr.urfk07j.espmp-nifr.net CNAME .
 tr.urfk07r.espmp-agfr.net CNAME .

@@ -63,6 +63,7 @@ tr.asp00am.espmp-cufr.net
 tr.asp1.espmp-agfr.net
 tr.asp102c.espmp-aufr.net
 tr.asp102n.espmp-cufr.net
+tr.asp103y.espmp-nifr.net
 tr.asp103z.espmp-nifr.net
 tr.asp104p.espmp-aufr.net
 tr.asp106d.espmp-cufr.net
@@ -186,6 +187,7 @@ tr.campaign.colossusbets.com
 tr.candidats-dispos-fed.fr
 tr.capu.espmp-agfr.net
 tr.carl.espmp-cufr.net
+tr.cart.espmp-cufr.net
 tr.cart02d.espmp-agfr.net
 tr.cartegie.fr
 tr.cashback.floa.fr
@@ -583,7 +585,6 @@ tr.interviews-mediametrie.fr
 tr.invest.younited-credit.com
 tr.invitation.perfectstay.com
 tr.ipsos-surveys.com
-tr.ispaconsulting.com
 tr.it4brands-com.moethennessy.com
 tr.italia.plimsoll.it
 tr.jend.espmp-pofr.net
@@ -744,7 +745,6 @@ tr.news.a-t.fr
 tr.news.a2micile.com
 tr.news.accessmastertour.com
 tr.news.accessmbatour.com
-tr.news.actu-man.com
 tr.news.ailleurs.com
 tr.news.alcyon.com
 tr.news.alinea.com
@@ -882,6 +882,7 @@ tr.news.seine-estuaire.cci.fr
 tr.news.smartdeals-transavia-fr.com
 tr.news.smartdealstransavia-fr.com
 tr.news.sport2000.fr
+tr.news.sunelia.com
 tr.news.supercasino.fr
 tr.news.teklifim.pro
 tr.news.tf1licences.com
@@ -1161,6 +1162,7 @@ tr.urfk06x.espmp-cufr.net
 tr.urfk06y.espmp-nifr.net
 tr.urfk076.espmp-nifr.net
 tr.urfk07c.espmp-aufr.net
+tr.urfk07e.espmp-aufr.net
 tr.urfk07h.espmp-agfr.net
 tr.urfk07j.espmp-nifr.net
 tr.urfk07r.espmp-agfr.net

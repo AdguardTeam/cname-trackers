@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1747641609081        ; Serial
+           1748246409349        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -146,6 +146,7 @@ stats.semipol.de CNAME .
 stats.sharukhi.xyz CNAME .
 stats.sofianlak.fr CNAME .
 stats.svc.lol CNAME .
+stats.szorty.space CNAME .
 stats.tdurand.com CNAME .
 stats.timothechau.vet CNAME .
 stats.tinkerer.tools CNAME .

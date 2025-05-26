@@ -717,7 +717,6 @@ mongoose.scrumgenius.com
 mongoose.thechocolatelife.com
 monkey.colinjohnston.com
 monkey.compulsivo.co
-moose.cloverlearning.com
 moose.octo.app
 mosquito.birbs.art
 mosquito.iamamandaperez.com
@@ -1174,7 +1173,6 @@ live-tag.creatopy.net
 log.ads-m.net
 matomo-cdn-bunny.ramsalt.com
 msrvt.net
-snowplow-collector.xstaging.tv
 sp.freshlooklens.pk
 sp.lenspk.com
 sp.theladyshop.pk
