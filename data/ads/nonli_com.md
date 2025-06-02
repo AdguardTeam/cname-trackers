@@ -19,7 +19,6 @@
 | l.bon-esprit.fr | non.li |
 | l.heidi.news | non.li |
 | l.monacomatin.mc | non.li |
-| l.mprovence.com | non.li |
 | l.nicematin.com | non.li |
 | l.ouifm.fr | non.li |
 | l.paris-turf.com | non.li |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -162,7 +162,6 @@ l.modesettravaux.fr CNAME .
 l.monacomatin.mc CNAME .
 l.mouv.fr CNAME .
 l.moviepilot.de CNAME .
-l.mprovence.com CNAME .
 l.netmums.com CNAME .
 l.nextplz.fr CNAME .
 l.nicematin.com CNAME .

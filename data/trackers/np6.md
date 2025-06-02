@@ -843,7 +843,6 @@
 | tr.news.happycap-foundation.fr | tracking.bp01.net |
 | tr.news.happycap.org | tracking.bp01.net |
 | tr.news.havasvoyages-groupes.fr | tracking.bp01.net |
-| tr.news.helvyre.fr | tracking.bp01.net |
 | tr.news.heredis.com | tracking.bp01.net |
 | tr.news.hrdradio.tv | tracking.bp01.net |
 | tr.news.i24news.tv | tracking.bp01.net |

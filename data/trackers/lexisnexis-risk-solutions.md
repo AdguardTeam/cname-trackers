@@ -154,6 +154,7 @@
     * h-84sv8qof.online-metrix.net
     * h-87rxrdob.online-metrix.net
     * h-884tnrtj.online-metrix.net
+    * h-88r8fbe3.online-metrix.net
     * h-88zeyq1n.online-metrix.net
     * h-8b6zz5ug.online-metrix.net
     * h-8dq3dkfj.online-metrix.net
@@ -553,7 +554,6 @@
     * h-kelmar-nd.online-metrix.net
     * h-kelmar-nj.online-metrix.net
     * h-kelmar-or.online-metrix.net
-    * h-kelmar-ut.online-metrix.net
     * h-kelmar-wa.online-metrix.net
     * h-kelmar.online-metrix.net
     * h-kijiji.online-metrix.net
@@ -657,7 +657,6 @@
     * h-pefcu.online-metrix.net
     * h-pensionfund.online-metrix.net
     * h-personifyfinancial.online-metrix.net
-    * h-phub.com.online-metrix.net
     * h-picpay.online-metrix.net
     * h-pinup.online-metrix.net
     * h-pitneybowes.online-metrix.net
@@ -1098,6 +1097,7 @@
 | tm.production.eu1.tmfp.klarna.net | h-87rxrdob.online-metrix.net |
 | tmfp.klarna.com | h-87rxrdob.online-metrix.net |
 | phyon.visit-x.net | h-884tnrtj.online-metrix.net |
+| identity.hcu.coop | h-88r8fbe3.online-metrix.net |
 | zrn.payglocal.com | h-88zeyq1n.online-metrix.net |
 | subcontent.galeria.de | h-8b6zz5ug.online-metrix.net |
 | content-static.emiratesnbd.com | h-8dq3dkfj.online-metrix.net |
@@ -1751,7 +1751,6 @@
 | tag.unclaimedproperty.nd.gov | h-kelmar-nd.online-metrix.net |
 | tag.unclaimedfunds.nj.gov | h-kelmar-nj.online-metrix.net |
 | tag-unclaimed.oregon.gov | h-kelmar-or.online-metrix.net |
-| tag.mycash.utah.gov | h-kelmar-ut.online-metrix.net |
 | tag.ucp.dor.wa.gov | h-kelmar-wa.online-metrix.net |
 | tag.findyourunclaimedproperty.com | h-kelmar.online-metrix.net |
 | tmx.kijiji.ca | h-kijiji.online-metrix.net |
@@ -1862,7 +1861,6 @@
 | content.pefcu.com | h-pefcu.online-metrix.net |
 | img02.pensionfund.org | h-pensionfund.online-metrix.net |
 | content.personifyfinancial.com | h-personifyfinancial.online-metrix.net |
-| rba.phub-im.uhg.com | h-phub.com.online-metrix.net |
 | ts04358.picpay.com | h-picpay.online-metrix.net |
 | backend.pin-up.dev | h-pinup.online-metrix.net |
 | ucfs.sendpro360.pitneybowes.com | h-pitneybowes.online-metrix.net |

@@ -151,7 +151,6 @@
 ||l.monacomatin.mc^
 ||l.mouv.fr^
 ||l.moviepilot.de^
-||l.mprovence.com^
 ||l.netmums.com^
 ||l.nextplz.fr^
 ||l.nicematin.com^

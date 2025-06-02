@@ -81,6 +81,7 @@
 | sponsors.benjaminmedia.com | bs-adserver.b-cdn.net |
 | sponsors.bicmagazine.com | bs-adserver.b-cdn.net |
 | sponsors.compactequip.com | bs-adserver.b-cdn.net |
+| sponsors.ctnewsjunkie.com | bs-adserver.b-cdn.net |
 | sponsors.floorforce.com | bs-adserver.b-cdn.net |
 | sponsors.inklink.news | bs-adserver.b-cdn.net |
 | sponsors.localcityplaces.com | bs-adserver.b-cdn.net |
@@ -191,7 +192,6 @@
 | basilisk.laosima.com | deprecated-custom-domains.b-cdn.net |
 | bass.alfrednerstu.com | deprecated-custom-domains.b-cdn.net |
 | bass.goulet.dev | deprecated-custom-domains.b-cdn.net |
-| bass.siterig.io | deprecated-custom-domains.b-cdn.net |
 | bass.taivo.ai | deprecated-custom-domains.b-cdn.net |
 | bat.heelix.be | deprecated-custom-domains.b-cdn.net |
 | bear.builtbyborda.com | deprecated-custom-domains.b-cdn.net |
@@ -231,7 +231,6 @@
 | boom.laravel.io | deprecated-custom-domains.b-cdn.net |
 | bovid.neural.love | deprecated-custom-domains.b-cdn.net |
 | bowie-cdn.fathomdns.com | deprecated-custom-domains.b-cdn.net |
-| bug.aestheticpixels.io | deprecated-custom-domains.b-cdn.net |
 | bug.onlinedating.de | deprecated-custom-domains.b-cdn.net |
 | butterfly.coverworld.com.au | deprecated-custom-domains.b-cdn.net |
 | butterfly.dharsh.dev | deprecated-custom-domains.b-cdn.net |
@@ -382,7 +381,6 @@
 | earwig.oofi.es | deprecated-custom-domains.b-cdn.net |
 | echidna.hellotomorrow.agency | deprecated-custom-domains.b-cdn.net |
 | echidna.honeybadger.io | deprecated-custom-domains.b-cdn.net |
-| echidna.scandinaviantaste.no | deprecated-custom-domains.b-cdn.net |
 | eel.aware7.de | deprecated-custom-domains.b-cdn.net |
 | eel.ieo.do | deprecated-custom-domains.b-cdn.net |
 | egret.brothers.studio | deprecated-custom-domains.b-cdn.net |
@@ -477,7 +475,6 @@
 | guanaco.redpixelthemes.com | deprecated-custom-domains.b-cdn.net |
 | guanaco.shelter.stream | deprecated-custom-domains.b-cdn.net |
 | guineapig.espressive.com | deprecated-custom-domains.b-cdn.net |
-| guineapig.magnatkaffehus.no | deprecated-custom-domains.b-cdn.net |
 | guineapig.themenaffin.de | deprecated-custom-domains.b-cdn.net |
 | gull.mayansmithgobat.com | deprecated-custom-domains.b-cdn.net |
 | guppy.ausowned.com.au | deprecated-custom-domains.b-cdn.net |
@@ -564,7 +561,6 @@
 | koala.moontells.com | deprecated-custom-domains.b-cdn.net |
 | koala.mynestbox.co.uk | deprecated-custom-domains.b-cdn.net |
 | koala.readyfive.io | deprecated-custom-domains.b-cdn.net |
-| koi.artsvp.co | deprecated-custom-domains.b-cdn.net |
 | koi.fftf.cat | deprecated-custom-domains.b-cdn.net |
 | koi.filtersource.com | deprecated-custom-domains.b-cdn.net |
 | koi.fullyexplained.co.uk | deprecated-custom-domains.b-cdn.net |
@@ -654,7 +650,6 @@
 | meerkat.inprivy.io | deprecated-custom-domains.b-cdn.net |
 | mink.faq-bregenzerwald.com | deprecated-custom-domains.b-cdn.net |
 | minnow.clintwinter.me | deprecated-custom-domains.b-cdn.net |
-| minnow.mimosaagency.com | deprecated-custom-domains.b-cdn.net |
 | minnow.phasemedical.com | deprecated-custom-domains.b-cdn.net |
 | minnow.tapas-software.net | deprecated-custom-domains.b-cdn.net |
 | mite.cotinga.io | deprecated-custom-domains.b-cdn.net |
@@ -877,7 +872,6 @@
 | skunk.dwa.li | deprecated-custom-domains.b-cdn.net |
 | skunk.gameworkersolidarity.com | deprecated-custom-domains.b-cdn.net |
 | smelt.allenpike.com | deprecated-custom-domains.b-cdn.net |
-| smelt.gautrowski.com | deprecated-custom-domains.b-cdn.net |
 | snake.cybmed.com | deprecated-custom-domains.b-cdn.net |
 | snipe.mfaber.at | deprecated-custom-domains.b-cdn.net |
 | snipe.mizzuu.co | deprecated-custom-domains.b-cdn.net |
@@ -895,7 +889,6 @@
 | spoonbill.mumblebox.com | deprecated-custom-domains.b-cdn.net |
 | squid.adart.cc | deprecated-custom-domains.b-cdn.net |
 | squid.antevo.com.au | deprecated-custom-domains.b-cdn.net |
-| squirrel.cobaltconnect.com | deprecated-custom-domains.b-cdn.net |
 | squirrel.laravel-mix.com | deprecated-custom-domains.b-cdn.net |
 | starfish.taskflow.io | deprecated-custom-domains.b-cdn.net |
 | starman-jack.fathomdns.com | deprecated-custom-domains.b-cdn.net |
@@ -921,7 +914,6 @@
 | swift.jos.ht | deprecated-custom-domains.b-cdn.net |
 | swift.mi-boda.com | deprecated-custom-domains.b-cdn.net |
 | swift.radio12.org | deprecated-custom-domains.b-cdn.net |
-| swift.unovy.net | deprecated-custom-domains.b-cdn.net |
 | swift.vanuitjehuis.nl | deprecated-custom-domains.b-cdn.net |
 | swordfish.elvietanny.com | deprecated-custom-domains.b-cdn.net |
 | swordfish.floofs.com | deprecated-custom-domains.b-cdn.net |

@@ -8,6 +8,7 @@
 
 * static.goadserver.com
 * data.goadserver.com
+* reacheffect.goadserver.com
 * up.goadserver.com
 
 ## Cloaking domains
@@ -35,6 +36,7 @@
 | go.goaserv.com | go.goadserver.com |
 | go.goasrv.com | go.goadserver.com |
 | go.gosrv.cl | go.goadserver.com |
+| go.gsrv.dev | go.goadserver.com |
 | go.novirtb.com | go.goadserver.com |
 | go.redgifs.com | go.goadserver.com |
 | go.static-srv.com | go.goadserver.com |
@@ -60,6 +62,7 @@
 | go1.trakit16.com | go.goadserver.com |
 | go1.trakit17.com | go.goadserver.com |
 | go1.trakit18.com | go.goadserver.com |
+| go1.trakit19.com | go.goadserver.com |
 | go1.trakit20.com | go.goadserver.com |
 | go1.trakit5.com | go.goadserver.com |
 | go1.were.work | go.goadserver.com |
@@ -91,11 +94,16 @@
 | service.zingtraffic.com | go.goadserver.com |
 | smtp3.go-srv.com | go.goadserver.com |
 | supply.hornylust.com | go.goadserver.com |
+| track.trafficput.com | go.goadserver.com |
 | vps.go-srv.com | go.goadserver.com |
+| www.tbllad.com | go.goadserver.com |
+| www.tbllem.com | go.goadserver.com |
+| up.reacheffect.com | reacheffect.goadserver.com |
 | data.goasrv.com | static.goadserver.com |
 | st.go-static.info | static.goadserver.com |
 | static.delmovip.com | static.goadserver.com |
 | static.goasrv.com | static.goadserver.com |
+| static.gsrv.dev | static.goadserver.com |
 | static.n0v2cdn.com | static.goadserver.com |
 | static.reacheffecti.work | static.goadserver.com |
 | static.trafficbull.com | static.goadserver.com |

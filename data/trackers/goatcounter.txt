@@ -5,12 +5,12 @@
 ||analytics.applycreatures.com^
 ||analytics.astuto.io^
 ||analytics.bytewave.net^
-||analytics.code.dccouncil.gov^
 ||analytics.code.dccouncil.us^
 ||analytics.codes.baltimorecity.gov^
 ||analytics.demo.plateau.ng.open.law^
 ||analytics.ewpratten.com^
 ||analytics.ferrybig.me^
+||analytics.kubasta.net^
 ||analytics.law.cityofsanmateo.org^
 ||analytics.law.lco-nsn.gov^
 ||analytics.law.mohican.com^
@@ -80,9 +80,9 @@
 ||stats.boringproxy.io^
 ||stats.brandontoner.ca^
 ||stats.brendanhanke.com^
+||stats.cafenoirka.de^
 ||stats.cassie.omg.lol^
 ||stats.celerry.com^
-||stats.cgcristi.xyz^
 ||stats.cloudflex.team^
 ||stats.cloudnativebitcoin.org^
 ||stats.coderscompass.org^
@@ -146,6 +146,7 @@
 ||stats.w0chp.radio^
 ||stats.whatacools.com^
 ||stats.ybbond.id^
+||stats.zbahn.de^
 ||stats.zgo.at^
 ||stats.zl2edh.com^
 ||trackerstats.davidthe.dev^

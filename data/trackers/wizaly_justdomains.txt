@@ -173,7 +173,6 @@ tk.zenpark.com
 tracking-test.esearchvision.com
 trackv-test.esearchvision.com
 tv-test.esvdigital.com
-twiz.wizaly.co.uk
 twiz.wizaly.fr
 wiz.sncf-connect.com
 wz.allianz.fr

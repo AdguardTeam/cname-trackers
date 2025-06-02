@@ -61,6 +61,7 @@
     * 272dd850-1tkscuog.cname.ebis.ne.jp
     * 273363c7-yg5rfhhx.cname.ebis.ne.jp
     * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
+    * 27dd2efc-9ztgpdfy.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
     * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
     * 2cc59598-glhirlqn.cname.ebis.ne.jp
@@ -164,7 +165,6 @@
     * 7700f733-gwbfzy7a.cname.ebis.ne.jp
     * 77898d5b-lkppvk2g.cname.ebis.ne.jp
     * 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp
-    * 7af5d4ff-q4vseaye.cname.ebis.ne.jp
     * 7d014781-4z4kfqrd.cname.ebis.ne.jp
     * 7db5d7fa-6pusefyf.cname.ebis.ne.jp
     * 7f2d566c-fwvdyp7a.cname.ebis.ne.jp
@@ -249,7 +249,6 @@
     * b5e8d6c4-bzcut99h.cname.ebis.ne.jp
     * b654b31b-gbehg577.cname.ebis.ne.jp
     * b69bfde6-esqb2ypb.cname.ebis.ne.jp
-    * b773e430-snfbdnnq.cname.ebis.ne.jp
     * b8c55ecd-zx8ipvjj.cname.ebis.ne.jp
     * b91cdac9-llbfadyx.cname.ebis.ne.jp
     * b9919944-fbw7r35c.cname.ebis.ne.jp
@@ -409,6 +408,7 @@
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |
 | ebis.sekokan-next.worldcorp-jp.com | 273363c7-yg5rfhhx.cname.ebis.ne.jp |
 | corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
+| c.lypo-c.jp | 27dd2efc-9ztgpdfy.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
 | ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
 | ebis.lululun.com | 2cc59598-glhirlqn.cname.ebis.ne.jp |
@@ -512,7 +512,6 @@
 | ebistoppan2.10nengenki.com | 7700f733-gwbfzy7a.cname.ebis.ne.jp |
 | adebis.harutaka.jp | 77898d5b-lkppvk2g.cname.ebis.ne.jp |
 | cname-adebis.vcube.com | 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp |
-| ebis.radish-pocket.com | 7af5d4ff-q4vseaye.cname.ebis.ne.jp |
 | mcad.mods-clinic.com | 7d014781-4z4kfqrd.cname.ebis.ne.jp |
 | ebis-tracking.tcb-mito.com | 7db5d7fa-6pusefyf.cname.ebis.ne.jp |
 | matsubun.matsubun.com | 7f2d566c-fwvdyp7a.cname.ebis.ne.jp |
@@ -597,7 +596,6 @@
 | www2.hnavi.co.jp | b5e8d6c4-bzcut99h.cname.ebis.ne.jp |
 | www-ebis.384.co.jp | b654b31b-gbehg577.cname.ebis.ne.jp |
 | ebis.15jikai.com | b69bfde6-esqb2ypb.cname.ebis.ne.jp |
-| adebis.toitoitoi.clinic | b773e430-snfbdnnq.cname.ebis.ne.jp |
 | adebis.entetsu.co.jp | b8c55ecd-zx8ipvjj.cname.ebis.ne.jp |
 | ebiscname.j-esthe-yoyaku.com | b91cdac9-llbfadyx.cname.ebis.ne.jp |
 | adebis.yourmeal.jp | b9919944-fbw7r35c.cname.ebis.ne.jp |

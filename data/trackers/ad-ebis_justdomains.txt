@@ -108,7 +108,6 @@ adebis.thd-web.jp
 adebis.theclinic.jp
 adebis.tipness.co.jp
 adebis.tohshin.co.jp
-adebis.toitoitoi.clinic
 adebis.tokyuhotels.co.jp
 adebis.toushi-up.com
 adebis.toushiman.com
@@ -141,6 +140,7 @@ analyse.hinemos.info
 axjfkc.kobayashi.co.jp
 bbbb.goace.jp
 beeline.beeline-tire.co.jp
+c.lypo-c.jp
 c.lypo-c.shop
 campaign-direct.eisai.jp
 campaign-direct.ketsuatsu-taisaku.xyz
@@ -251,7 +251,6 @@ ebis.okasan-online.co.jp
 ebis.onamae.com
 ebis.palclair.jp
 ebis.rabo.cat
-ebis.radish-pocket.com
 ebis.radishbo-ya.co.jp
 ebis.randstad.co.jp
 ebis.re-shop.jp

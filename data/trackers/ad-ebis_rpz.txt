@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -119,7 +119,6 @@ adebis.thd-web.jp CNAME .
 adebis.theclinic.jp CNAME .
 adebis.tipness.co.jp CNAME .
 adebis.tohshin.co.jp CNAME .
-adebis.toitoitoi.clinic CNAME .
 adebis.tokyuhotels.co.jp CNAME .
 adebis.toushi-up.com CNAME .
 adebis.toushiman.com CNAME .
@@ -152,6 +151,7 @@ analyse.hinemos.info CNAME .
 axjfkc.kobayashi.co.jp CNAME .
 bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
+c.lypo-c.jp CNAME .
 c.lypo-c.shop CNAME .
 campaign-direct.eisai.jp CNAME .
 campaign-direct.ketsuatsu-taisaku.xyz CNAME .
@@ -262,7 +262,6 @@ ebis.okasan-online.co.jp CNAME .
 ebis.onamae.com CNAME .
 ebis.palclair.jp CNAME .
 ebis.rabo.cat CNAME .
-ebis.radish-pocket.com CNAME .
 ebis.radishbo-ya.co.jp CNAME .
 ebis.randstad.co.jp CNAME .
 ebis.re-shop.jp CNAME .

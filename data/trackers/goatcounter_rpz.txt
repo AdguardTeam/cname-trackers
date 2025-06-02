@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,12 +16,12 @@ anal.sataniskwijt.be CNAME .
 analytics.applycreatures.com CNAME .
 analytics.astuto.io CNAME .
 analytics.bytewave.net CNAME .
-analytics.code.dccouncil.gov CNAME .
 analytics.code.dccouncil.us CNAME .
 analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
 analytics.ewpratten.com CNAME .
 analytics.ferrybig.me CNAME .
+analytics.kubasta.net CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.law.lco-nsn.gov CNAME .
 analytics.law.mohican.com CNAME .
@@ -91,9 +91,9 @@ stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .
 stats.brendanhanke.com CNAME .
+stats.cafenoirka.de CNAME .
 stats.cassie.omg.lol CNAME .
 stats.celerry.com CNAME .
-stats.cgcristi.xyz CNAME .
 stats.cloudflex.team CNAME .
 stats.cloudnativebitcoin.org CNAME .
 stats.coderscompass.org CNAME .
@@ -157,6 +157,7 @@ stats.uygar.sh CNAME .
 stats.w0chp.radio CNAME .
 stats.whatacools.com CNAME .
 stats.ybbond.id CNAME .
+stats.zbahn.de CNAME .
 stats.zgo.at CNAME .
 stats.zl2edh.com CNAME .
 trackerstats.davidthe.dev CNAME .

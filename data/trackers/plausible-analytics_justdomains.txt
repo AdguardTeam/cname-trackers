@@ -32,6 +32,7 @@ analytics.ramiyer.me
 analytics.recamov.com
 analytics.redistributemag.com
 analytics.sideprojectsoftware.com
+analytics.sixfigureswine.com
 analytics.teamcovenant.com
 analytics.thegroupbuyexperiment.com
 analytics.top10-charts.com
@@ -683,7 +684,6 @@ stats.portalmonitor.io
 stats.postcollectors.com
 stats.poweringpastcoal.org
 stats.practicepl.us
-stats.preeventualist.org
 stats.pri.org
 stats.pricewell.io
 stats.principedepaz.gt
@@ -828,7 +828,6 @@ stats.wecodeni.com
 stats.westswindon-pc.gov.uk
 stats.whenpigsflybbq.com
 stats.whereisit5pmrightnow.com
-stats.wiwi.digital
 stats.wordvested.org
 stats.world.hey.com
 stats.wvs.org.uk

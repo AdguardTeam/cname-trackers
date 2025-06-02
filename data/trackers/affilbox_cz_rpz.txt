@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -474,6 +474,7 @@ partner.babysigns.cz CNAME .
 partner.barnaby.cz CNAME .
 partner.bazaroveregaly.cz CNAME .
 partner.bed4dogs.com CNAME .
+partner.bepor.eu CNAME .
 partner.bilynabytek.cz CNAME .
 partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
@@ -737,6 +738,7 @@ partner.scootshop.cz CNAME .
 partner.semor.cz CNAME .
 partner.sevio.cz CNAME .
 partner.sielbeauty.cz CNAME .
+partner.simdatamax.com CNAME .
 partner.simplymix.com CNAME .
 partner.skinnygirls.cz CNAME .
 partner.skiresort.cz CNAME .
@@ -920,7 +922,6 @@ partneri.tentino.cz CNAME .
 partneri.toothy.cz CNAME .
 partneri.tradicne-feng-shui.sk CNAME .
 partneri.trenink-vyjednavani.cz CNAME .
-partneri.trollbeadscz.com CNAME .
 partneri.tvorboshop.cz CNAME .
 partneri.umenibytzdrav.cz CNAME .
 partneri.umenijazyku.cz CNAME .
@@ -996,6 +997,7 @@ spoluprace.potravinyarax.cz CNAME .
 spoluprace.prostor8.cz CNAME .
 spoluprace.sexito.cz CNAME .
 spoluprace.sikland.cz CNAME .
+spoluprace.skolnitriko.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
 spoluprace.vivobarefoot.cz CNAME .

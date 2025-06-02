@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -155,7 +155,6 @@ umerf.reisprinzen.de CNAME .
 wa.ostermann.eu CNAME .
 waet.datalogue.de CNAME .
 wctr.bodenverkauf.de CNAME .
-wctr.hh-klebetechnologie.de CNAME .
 wctr.hoeping.de CNAME .
 wctr.khk-karlsruhe.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
@@ -188,6 +187,7 @@ webcontr.in-akustik.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.l.de CNAME .
 webcontr.leisure.one CNAME .
+webcontr.lindy.de CNAME .
 webcontr.lmz-bw.de CNAME .
 webcontr.lotto-hh.de CNAME .
 webcontr.mea-living.de CNAME .
@@ -206,6 +206,7 @@ webcontr.splendid-internet.de CNAME .
 webcontr.stadtwerke-ahrensburg.de CNAME .
 webcontr.synvia.de CNAME .
 webcontr.taxando.de CNAME .
+webcontr.thechefsstories.de CNAME .
 webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .

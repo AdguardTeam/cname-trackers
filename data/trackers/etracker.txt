@@ -144,7 +144,6 @@
 ||wa.ostermann.eu^
 ||waet.datalogue.de^
 ||wctr.bodenverkauf.de^
-||wctr.hh-klebetechnologie.de^
 ||wctr.hoeping.de^
 ||wctr.khk-karlsruhe.de^
 ||wctr.kunststoff-schachtabdeckungen.com^
@@ -177,6 +176,7 @@
 ||webcontr.jalousiescout.at^
 ||webcontr.l.de^
 ||webcontr.leisure.one^
+||webcontr.lindy.de^
 ||webcontr.lmz-bw.de^
 ||webcontr.lotto-hh.de^
 ||webcontr.mea-living.de^
@@ -195,6 +195,7 @@
 ||webcontr.stadtwerke-ahrensburg.de^
 ||webcontr.synvia.de^
 ||webcontr.taxando.de^
+||webcontr.thechefsstories.de^
 ||webcontr.verpoorten-mall.de^
 ||webcontr.verpoorten.de^
 ||webcontr.vetter-pharma.com^

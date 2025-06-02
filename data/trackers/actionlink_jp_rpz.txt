@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -103,5 +103,6 @@ al.whipbunny.jp CNAME .
 al.www.kijoan.com CNAME .
 al.yamachu.net CNAME .
 al.yobomedical.clinic CNAME .
+al.yokumoku.jp CNAME .
 al.zenjirou.jp CNAME .
 m.aclk.jp CNAME .

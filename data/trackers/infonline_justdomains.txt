@@ -92,6 +92,7 @@ data-09d76f48f8.ivz-aktuell.de
 data-09d76f48f8.ivz-epaper.de
 data-09d76f48f8.newssquare.de
 data-09ff4b0f07.express.de
+data-0a356d685b.addradio.de
 data-0a356d685b.radioherford.de
 data-0aad875990.apps.iocnt.de
 data-0af01e596d.tips.at
@@ -239,6 +240,7 @@ data-1b32532ce1.blick.de
 data-1b32532ce1.erzgebirge.de
 data-1b32532ce1.freiepresse.de
 data-1b32532ce1.vogtland.de
+data-1b488c21c4.apps.iocnt.de
 data-1b8b21e54b.speedweek.com
 data-1b8b21e54b.speedweek.eu
 data-1b9c592a39.einfachkochen.de
@@ -783,6 +785,7 @@ data-5ad053d069.kempten.de
 data-5b771a2641.berliner-zeitung.de
 data-5c0bd13fee.apps.iocnt.de
 data-5c172edac2.prosieben.at
+data-5c499c299f.apps.iocnt.de
 data-5c543e37c1.wochenblatt-dlv.de
 data-5c62bbdb1e.maclife.de
 data-5c8ddfc1d2.selbst.de
@@ -806,6 +809,7 @@ data-5e8d192b40.fussballn.de
 data-5e8d192b40.liga3-online.de
 data-5ec2d41a8f.radiowestfalica.de
 data-5f31cc5b45.apps.iocnt.de
+data-5f4e914553.apps.iocnt.de
 data-5f67d653dd.si-shk.de
 data-5f7ebd9560.apps.iocnt.de
 data-5fdd0f6a02.salzburg24.at
@@ -912,6 +916,7 @@ data-66584305d5.mainpost.de
 data-66b7771b69.motorsport.com
 data-66d1660bfe.etailment.de
 data-678018adf2.apps.iocnt.de
+data-678db07fc3.apps.iocnt.de
 data-67e5b22ff5.apps.iocnt.de
 data-686f12c8aa.regionaljobs.at
 data-68c78f1ad6.stadtbuechereiploen.de
@@ -1199,6 +1204,7 @@ data-8ad4a97c5f.apps.iocnt.de
 data-8b242b85ce.textilwirtschaft.de
 data-8b242b85ce.twjobs.de
 data-8b25c4d80f.apps.iocnt.de
+data-8b46aa892b.apps.iocnt.de
 data-8b77a703e0.dasoertliche.de
 data-8b77a703e0.golocal.de
 data-8ba5310956.spielaffe.de
@@ -1715,6 +1721,7 @@ data-c652705c3e.apps.iocnt.de
 data-c662a60daa.kabeleinsdoku.de
 data-c6b1789ee3.upday.com
 data-c6cb92ccdb.zkg.de
+data-c6fc998b9c.rtlradio.de
 data-c71f1467d4.speedweek.com
 data-c76cebcfed.kino.de
 data-c7a4161550.apps.iocnt.de
@@ -2025,6 +2032,7 @@ data-f1e447fbcf.24hamburg.de
 data-f1e447fbcf.24rhein.de
 data-f1e447fbcf.24royal.de
 data-f1e447fbcf.24vita.de
+data-f1e447fbcf.absolutfussball.com
 data-f1e447fbcf.az-online.de
 data-f1e447fbcf.baden24.de
 data-f1e447fbcf.bgland24.de

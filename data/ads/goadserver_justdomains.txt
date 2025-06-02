@@ -20,6 +20,7 @@ go.go-srv.com
 go.goaserv.com
 go.goasrv.com
 go.gosrv.cl
+go.gsrv.dev
 go.novirtb.com
 go.redgifs.com
 go.static-srv.com
@@ -45,6 +46,7 @@ go1.trakit15.com
 go1.trakit16.com
 go1.trakit17.com
 go1.trakit18.com
+go1.trakit19.com
 go1.trakit20.com
 go1.trakit5.com
 go1.were.work
@@ -76,11 +78,15 @@ service.goadnow.com
 service.zingtraffic.com
 smtp3.go-srv.com
 supply.hornylust.com
+track.trafficput.com
 vps.go-srv.com
+www.tbllad.com
+www.tbllem.com
 data.goasrv.com
 st.go-static.info
 static.delmovip.com
 static.goasrv.com
+static.gsrv.dev
 static.n0v2cdn.com
 static.reacheffecti.work
 static.trafficbull.com

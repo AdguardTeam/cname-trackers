@@ -79,6 +79,7 @@
 | utiq.cesoirtv.com | frontend.prod.utiq-aws.net |
 | utiq.charentelibre.fr | frontend.prod.utiq-aws.net |
 | utiq.chartsinfrance.net | frontend.prod.utiq-aws.net |
+| utiq.chefkoch.de | frontend.prod.utiq-aws.net |
 | utiq.cheriefm.fr | frontend.prod.utiq-aws.net |
 | utiq.chip.de | frontend.prod.utiq-aws.net |
 | utiq.clara.es | frontend.prod.utiq-aws.net |
@@ -166,6 +167,7 @@
 | utiq.genialetricks.de | frontend.prod.utiq-aws.net |
 | utiq.geo.fr | frontend.prod.utiq-aws.net |
 | utiq.gesundheitsfrage.net | frontend.prod.utiq-aws.net |
+| utiq.gfk.com | frontend.prod.utiq-aws.net |
 | utiq.giessener-allgemeine.de | frontend.prod.utiq-aws.net |
 | utiq.giga.de | frontend.prod.utiq-aws.net |
 | utiq.grazia.fr | frontend.prod.utiq-aws.net |
@@ -208,6 +210,8 @@
 | utiq.lacronicabadajoz.com | frontend.prod.utiq-aws.net |
 | utiq.ladepeche.fr | frontend.prod.utiq-aws.net |
 | utiq.lagacetadesalamanca.es | frontend.prod.utiq-aws.net |
+| utiq.lamontagne.fr | frontend.prod.utiq-aws.net |
+| utiq.lamontagne.fr.cdn.cloudflare.net | frontend.prod.utiq-aws.net |
 | utiq.landtiere.de | frontend.prod.utiq-aws.net |
 | utiq.lanouvellerepublique.fr | frontend.prod.utiq-aws.net |
 | utiq.laopinioncoruna.es | frontend.prod.utiq-aws.net |
@@ -217,6 +221,7 @@
 | utiq.laprovence.com | frontend.prod.utiq-aws.net |
 | utiq.laprovincia.es | frontend.prod.utiq-aws.net |
 | utiq.lardennais.fr | frontend.prod.utiq-aws.net |
+| utiq.larep.fr | frontend.prod.utiq-aws.net |
 | utiq.larepubliquedespyrenees.fr | frontend.prod.utiq-aws.net |
 | utiq.larioja.com | frontend.prod.utiq-aws.net |
 | utiq.lasprovincias.es | frontend.prod.utiq-aws.net |
@@ -224,18 +229,25 @@
 | utiq.laverdad.es | frontend.prod.utiq-aws.net |
 | utiq.lavoixdunord.fr | frontend.prod.utiq-aws.net |
 | utiq.lavozdigital.es | frontend.prod.utiq-aws.net |
+| utiq.le-pays.fr | frontend.prod.utiq-aws.net |
+| utiq.le-pays.fr.cdn.cloudflare.net | frontend.prod.utiq-aws.net |
 | utiq.le10sport.com | frontend.prod.utiq-aws.net |
 | utiq.lebenindeutschland.eu | frontend.prod.utiq-aws.net |
+| utiq.leberry.fr | frontend.prod.utiq-aws.net |
+| utiq.lechorepublicain.fr | frontend.prod.utiq-aws.net |
 | utiq.leckerschmecker.me | frontend.prod.utiq-aws.net |
 | utiq.lecturas.com | frontend.prod.utiq-aws.net |
 | utiq.lefigaro.fr | frontend.prod.utiq-aws.net |
+| utiq.lejdc.fr | frontend.prod.utiq-aws.net |
 | utiq.lejournaldelamaison.fr | frontend.prod.utiq-aws.net |
 | utiq.lemessager.fr | frontend.prod.utiq-aws.net |
 | utiq.leonoticias.com | frontend.prod.utiq-aws.net |
+| utiq.lepopulaire.fr | frontend.prod.utiq-aws.net |
 | utiq.lesnumeriques.com | frontend.prod.utiq-aws.net |
 | utiq.lest-eclair.fr | frontend.prod.utiq-aws.net |
 | utiq.letelegramme.fr | frontend.prod.utiq-aws.net |
 | utiq.levante-emv.com | frontend.prod.utiq-aws.net |
+| utiq.leveil.fr | frontend.prod.utiq-aws.net |
 | utiq.lexpress.fr | frontend.prod.utiq-aws.net |
 | utiq.liberation-champagne.fr | frontend.prod.utiq-aws.net |
 | utiq.lidl.de | frontend.prod.utiq-aws.net |
@@ -281,6 +293,7 @@
 | utiq.myhomebook.de | frontend.prod.utiq-aws.net |
 | utiq.nationalgeographic.com.es | frontend.prod.utiq-aws.net |
 | utiq.neonmag.fr | frontend.prod.utiq-aws.net |
+| utiq.netmums.com | frontend.prod.utiq-aws.net |
 | utiq.news.bayern | frontend.prod.utiq-aws.net |
 | utiq.news38.de | frontend.prod.utiq-aws.net |
 | utiq.nextplz.fr | frontend.prod.utiq-aws.net |
@@ -324,6 +337,7 @@
 | utiq.renew.auto | frontend.prod.utiq-aws.net |
 | utiq.rireetchansons.fr | frontend.prod.utiq-aws.net |
 | utiq.rmcbfmplay.com | frontend.prod.utiq-aws.net |
+| utiq.rtl.de | frontend.prod.utiq-aws.net |
 | utiq.rugbyrama.fr | frontend.prod.utiq-aws.net |
 | utiq.sabervivirtv.com | frontend.prod.utiq-aws.net |
 | utiq.salamancahoy.es | frontend.prod.utiq-aws.net |

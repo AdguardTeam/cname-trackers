@@ -455,6 +455,7 @@
 | a8clk.buy-master.com | trck.a8.net |
 | a8clk.buyking.club | trck.a8.net |
 | a8clk.camerakaitori.jp | trck.a8.net |
+| a8clk.campaigns.kaitori-premium.jp | trck.a8.net |
 | a8clk.campaigns.speed-kaitori.jp | trck.a8.net |
 | a8clk.car-auc.jp | trck.a8.net |
 | a8clk.car-mo.jp | trck.a8.net |
@@ -573,7 +574,6 @@
 | a8clk.kenkoukazoku.co.jp | trck.a8.net |
 | a8clk.kihada.jp | trck.a8.net |
 | a8clk.komochikon.jp | trck.a8.net |
-| a8clk.kyoto-health.co.jp | trck.a8.net |
 | a8clk.label-seal-print.com | trck.a8.net |
 | a8clk.lasana.co.jp | trck.a8.net |
 | a8clk.laundry-out.jp | trck.a8.net |
@@ -793,7 +793,6 @@
 | a8cv.012grp.co.jp | trck.a8.net |
 | a8cv.03plus.net | trck.a8.net |
 | a8cv.04510.jp | trck.a8.net |
-| a8cv.1-class.jp | trck.a8.net |
 | a8cv.17kg.shop | trck.a8.net |
 | a8cv.1sbc.com | trck.a8.net |
 | a8cv.464981.com | trck.a8.net |
@@ -968,6 +967,7 @@
 | a8cv.follome.motaras.co.jp | trck.a8.net |
 | a8cv.foods-labo.com | trck.a8.net |
 | a8cv.foresight.jp | trck.a8.net |
+| a8cv.fortunes-lab.com | trck.a8.net |
 | a8cv.forza-gran.com | trck.a8.net |
 | a8cv.fots.jp | trck.a8.net |
 | a8cv.fp-life.design | trck.a8.net |
@@ -1035,7 +1035,6 @@
 | a8cv.interlink.or.jp | trck.a8.net |
 | a8cv.investment.mogecheck.jp | trck.a8.net |
 | a8cv.ioo-sofa.net | trck.a8.net |
-| a8cv.irodas.com | trck.a8.net |
 | a8cv.ishibashi.co.jp | trck.a8.net |
 | a8cv.ishibestcareer.com | trck.a8.net |
 | a8cv.ishizawa-lab.co.jp | trck.a8.net |
@@ -1335,10 +1334,8 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
-| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
-| a8cv.willfu.jp | trck.a8.net |
 | a8cv.withcode.tech | trck.a8.net |
 | a8cv.womanmoney.net | trck.a8.net |
 | a8cv.wordman.jp | trck.a8.net |
@@ -1380,6 +1377,7 @@
 | a8cv.yuyu-tei.jp | trck.a8.net |
 | a8cv.zacc.jp | trck.a8.net |
 | a8cv.zeal-agent.com | trck.a8.net |
+| a8cv.zeal-shushoku-agent.com | trck.a8.net |
 | a8cv.zeroen-denki.com | trck.a8.net |
 | a8cv.zerorenovation.com | trck.a8.net |
 | a8cv.zita.life | trck.a8.net |
@@ -1498,7 +1496,6 @@
 | afi.ssl.gmobb.jp | trck.a8.net |
 | ahachi.dietnavi.com | trck.a8.net |
 | ahachi.dreamdenki.jp | trck.a8.net |
-| ai.kaishabaikyaku.com | trck.a8.net |
 | analytics.villagehouse.jp | trck.a8.net |
 | approach.wise1-golf.com | trck.a8.net |
 | asp.glasspp119.jp | trck.a8.net |

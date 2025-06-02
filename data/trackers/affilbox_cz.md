@@ -484,6 +484,7 @@
 | partner.barnaby.cz | cz.affilbox.cz |
 | partner.bazaroveregaly.cz | cz.affilbox.cz |
 | partner.bed4dogs.com | cz.affilbox.cz |
+| partner.bepor.eu | cz.affilbox.cz |
 | partner.bilynabytek.cz | cz.affilbox.cz |
 | partner.bio-nechty.sk | cz.affilbox.cz |
 | partner.bio-nehty.cz | cz.affilbox.cz |
@@ -747,6 +748,7 @@
 | partner.semor.cz | cz.affilbox.cz |
 | partner.sevio.cz | cz.affilbox.cz |
 | partner.sielbeauty.cz | cz.affilbox.cz |
+| partner.simdatamax.com | cz.affilbox.cz |
 | partner.simplymix.com | cz.affilbox.cz |
 | partner.skinnygirls.cz | cz.affilbox.cz |
 | partner.skiresort.cz | cz.affilbox.cz |
@@ -930,7 +932,6 @@
 | partneri.toothy.cz | cz.affilbox.cz |
 | partneri.tradicne-feng-shui.sk | cz.affilbox.cz |
 | partneri.trenink-vyjednavani.cz | cz.affilbox.cz |
-| partneri.trollbeadscz.com | cz.affilbox.cz |
 | partneri.tvorboshop.cz | cz.affilbox.cz |
 | partneri.umenibytzdrav.cz | cz.affilbox.cz |
 | partneri.umenijazyku.cz | cz.affilbox.cz |
@@ -1006,6 +1007,7 @@
 | spoluprace.prostor8.cz | cz.affilbox.cz |
 | spoluprace.sexito.cz | cz.affilbox.cz |
 | spoluprace.sikland.cz | cz.affilbox.cz |
+| spoluprace.skolnitriko.cz | cz.affilbox.cz |
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |
 | spoluprace.vcelarstvi-domovina.cz | cz.affilbox.cz |
 | spoluprace.vivobarefoot.cz | cz.affilbox.cz |

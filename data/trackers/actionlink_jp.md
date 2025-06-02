@@ -100,5 +100,6 @@
 | al.www.kijoan.com | mm.actionlink.jp |
 | al.yamachu.net | mm.actionlink.jp |
 | al.yobomedical.clinic | mm.actionlink.jp |
+| al.yokumoku.jp | mm.actionlink.jp |
 | al.zenjirou.jp | mm.actionlink.jp |
 | m.aclk.jp | mm.actionlink.jp |

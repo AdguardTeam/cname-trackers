@@ -88,7 +88,6 @@
     * 367128732629814.wt-eu02.net
     * 367171131378433.wt-eu02.net
     * 368352020330673.wt-eu02.net
-    * 375567775761012.wt-eu02.net
     * 378118469332445.wt-eu02.net
     * 390993738581837.wt-eu02.net
     * 412666916963576.wt-eu02.net
@@ -206,7 +205,6 @@
     * airbusgroup-de01.wt-eu02.net
     * aktionrsbank01.wt-eu02.net
     * analytics-myhermes.wt-eu02.net
-    * baunetzprod01.wt-eu02.net
     * berlinonline-02.wt-eu02.net
     * blume2000.wt-eu02.net
     * corporate-benefits.wt-eu02.net
@@ -338,7 +336,6 @@
 | data.mediaworld.it | 367128732629814.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | web.ideaautorepair.com | 368352020330673.wt-eu02.net |
-| web.info.aiteca.it | 375567775761012.wt-eu02.net |
 | web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
 | website-usage.b2bendix.com | 390993738581837.wt-eu02.net |
 | mff.fairconstruction.com | 412666916963576.wt-eu02.net |
@@ -501,7 +498,6 @@
 | analytics.hermesworld.com | analytics-myhermes.wt-eu02.net |
 | analytics.myhermes.de | analytics-myhermes.wt-eu02.net |
 | pixel.augsburger-allgemeine.de | augsburgerallgemeine01.webtrekk.net |
-| cdn7.baunetz.de | baunetzprod01.wt-eu02.net |
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
 | trk.blume2000.de | blume2000.wt-eu02.net |
 | img.buch.ch | buchch02.webtrekk.net |

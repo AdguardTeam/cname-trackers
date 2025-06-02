@@ -817,7 +817,6 @@
 ||tr.news.happycap-foundation.fr^
 ||tr.news.happycap.org^
 ||tr.news.havasvoyages-groupes.fr^
-||tr.news.helvyre.fr^
 ||tr.news.heredis.com^
 ||tr.news.hrdradio.tv^
 ||tr.news.i24news.tv^

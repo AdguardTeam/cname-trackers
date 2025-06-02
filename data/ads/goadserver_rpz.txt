@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ go.go-srv.com CNAME .
 go.goaserv.com CNAME .
 go.goasrv.com CNAME .
 go.gosrv.cl CNAME .
+go.gsrv.dev CNAME .
 go.novirtb.com CNAME .
 go.redgifs.com CNAME .
 go.static-srv.com CNAME .
@@ -56,6 +57,7 @@ go1.trakit15.com CNAME .
 go1.trakit16.com CNAME .
 go1.trakit17.com CNAME .
 go1.trakit18.com CNAME .
+go1.trakit19.com CNAME .
 go1.trakit20.com CNAME .
 go1.trakit5.com CNAME .
 go1.were.work CNAME .
@@ -87,11 +89,15 @@ service.goadnow.com CNAME .
 service.zingtraffic.com CNAME .
 smtp3.go-srv.com CNAME .
 supply.hornylust.com CNAME .
+track.trafficput.com CNAME .
 vps.go-srv.com CNAME .
+www.tbllad.com CNAME .
+www.tbllem.com CNAME .
 data.goasrv.com CNAME .
 st.go-static.info CNAME .
 static.delmovip.com CNAME .
 static.goasrv.com CNAME .
+static.gsrv.dev CNAME .
 static.n0v2cdn.com CNAME .
 static.reacheffecti.work CNAME .
 static.trafficbull.com CNAME .

@@ -92,5 +92,6 @@
 ||al.www.kijoan.com^
 ||al.yamachu.net^
 ||al.yobomedical.clinic^
+||al.yokumoku.jp^
 ||al.zenjirou.jp^
 ||m.aclk.jp^

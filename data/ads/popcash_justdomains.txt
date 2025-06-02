@@ -236,7 +236,6 @@ basilisk.community-arts.net
 basilisk.laosima.com
 bass.alfrednerstu.com
 bass.goulet.dev
-bass.siterig.io
 bass.taivo.ai
 bat.heelix.be
 bear.builtbyborda.com
@@ -276,7 +275,6 @@ bonobo.nola.today
 boom.laravel.io
 bovid.neural.love
 bowie-cdn.fathomdns.com
-bug.aestheticpixels.io
 bug.onlinedating.de
 butterfly.coverworld.com.au
 butterfly.dharsh.dev
@@ -427,7 +425,6 @@ earwig.architecturesofhiding.com
 earwig.oofi.es
 echidna.hellotomorrow.agency
 echidna.honeybadger.io
-echidna.scandinaviantaste.no
 eel.aware7.de
 eel.ieo.do
 egret.brothers.studio
@@ -522,7 +519,6 @@ guan.lathamcommunications.com
 guanaco.redpixelthemes.com
 guanaco.shelter.stream
 guineapig.espressive.com
-guineapig.magnatkaffehus.no
 guineapig.themenaffin.de
 gull.mayansmithgobat.com
 guppy.ausowned.com.au
@@ -609,7 +605,6 @@ koala.hicks.house
 koala.moontells.com
 koala.mynestbox.co.uk
 koala.readyfive.io
-koi.artsvp.co
 koi.fftf.cat
 koi.filtersource.com
 koi.fullyexplained.co.uk
@@ -699,7 +694,6 @@ meerkat.bigcrazylife.com
 meerkat.inprivy.io
 mink.faq-bregenzerwald.com
 minnow.clintwinter.me
-minnow.mimosaagency.com
 minnow.phasemedical.com
 minnow.tapas-software.net
 mite.cotinga.io
@@ -922,7 +916,6 @@ skink.thoumi.ch
 skunk.dwa.li
 skunk.gameworkersolidarity.com
 smelt.allenpike.com
-smelt.gautrowski.com
 snake.cybmed.com
 snipe.mfaber.at
 snipe.mizzuu.co
@@ -940,7 +933,6 @@ spider.storiesofchang.com
 spoonbill.mumblebox.com
 squid.adart.cc
 squid.antevo.com.au
-squirrel.cobaltconnect.com
 squirrel.laravel-mix.com
 starfish.taskflow.io
 starman-jack.fathomdns.com
@@ -966,7 +958,6 @@ swift.ciudadanob.com
 swift.jos.ht
 swift.mi-boda.com
 swift.radio12.org
-swift.unovy.net
 swift.vanuitjehuis.nl
 swordfish.elvietanny.com
 swordfish.floofs.com
@@ -1135,6 +1126,7 @@ sponsors.asisonline.org
 sponsors.benjaminmedia.com
 sponsors.bicmagazine.com
 sponsors.compactequip.com
+sponsors.ctnewsjunkie.com
 sponsors.floorforce.com
 sponsors.inklink.news
 sponsors.localcityplaces.com

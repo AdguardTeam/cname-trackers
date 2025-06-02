@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,7 +25,6 @@ ads.luffy.my.id CNAME .
 adsv.cki.name CNAME .
 api.animeshqip.icu CNAME .
 api.hugemedia.cz CNAME .
-api.kekw.world CNAME .
 api.ngamgaixinh.art CNAME .
 api.rtnews.pro CNAME .
 api.xxxbanjo.com CNAME .
@@ -106,7 +105,6 @@ k8.usefto.com CNAME .
 m.brandnewapp.pro CNAME .
 mail.7porn.ru CNAME .
 net.fuckxstream.com CNAME .
-now.nextvideo.info CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
 p.porn0hd.online CNAME .

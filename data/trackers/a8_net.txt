@@ -441,6 +441,7 @@
 ||a8clk.buy-master.com^
 ||a8clk.buyking.club^
 ||a8clk.camerakaitori.jp^
+||a8clk.campaigns.kaitori-premium.jp^
 ||a8clk.campaigns.speed-kaitori.jp^
 ||a8clk.car-auc.jp^
 ||a8clk.car-mo.jp^
@@ -559,7 +560,6 @@
 ||a8clk.kenkoukazoku.co.jp^
 ||a8clk.kihada.jp^
 ||a8clk.komochikon.jp^
-||a8clk.kyoto-health.co.jp^
 ||a8clk.label-seal-print.com^
 ||a8clk.lasana.co.jp^
 ||a8clk.laundry-out.jp^
@@ -780,7 +780,6 @@
 ||a8cv.012grp.co.jp^
 ||a8cv.03plus.net^
 ||a8cv.04510.jp^
-||a8cv.1-class.jp^
 ||a8cv.17kg.shop^
 ||a8cv.1sbc.com^
 ||a8cv.464981.com^
@@ -955,6 +954,7 @@
 ||a8cv.follome.motaras.co.jp^
 ||a8cv.foods-labo.com^
 ||a8cv.foresight.jp^
+||a8cv.fortunes-lab.com^
 ||a8cv.forza-gran.com^
 ||a8cv.fots.jp^
 ||a8cv.fp-life.design^
@@ -1022,7 +1022,6 @@
 ||a8cv.interlink.or.jp^
 ||a8cv.investment.mogecheck.jp^
 ||a8cv.ioo-sofa.net^
-||a8cv.irodas.com^
 ||a8cv.ishibashi.co.jp^
 ||a8cv.ishibestcareer.com^
 ||a8cv.ishizawa-lab.co.jp^
@@ -1322,10 +1321,8 @@
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.wellcrew.net^
-||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
-||a8cv.willfu.jp^
 ||a8cv.withcode.tech^
 ||a8cv.womanmoney.net^
 ||a8cv.wordman.jp^
@@ -1367,6 +1364,7 @@
 ||a8cv.yuyu-tei.jp^
 ||a8cv.zacc.jp^
 ||a8cv.zeal-agent.com^
+||a8cv.zeal-shushoku-agent.com^
 ||a8cv.zeroen-denki.com^
 ||a8cv.zerorenovation.com^
 ||a8cv.zita.life^
@@ -1485,7 +1483,6 @@
 ||afi.ssl.gmobb.jp^
 ||ahachi.dietnavi.com^
 ||ahachi.dreamdenki.jp^
-||ai.kaishabaikyaku.com^
 ||analytics.villagehouse.jp^
 ||approach.wise1-golf.com^
 ||asp.glasspp119.jp^

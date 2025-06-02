@@ -125,11 +125,11 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em225.codecademy.com^
-||em5231.mail.propertyperks.xfinity.com^
-||em7147.love.suncoastcreditunion.com^
+||em2287.theory.com^
 ||em767.forgetrust.com^
-||em8928.em.petco.com^
+||em7952.dailypay.com^
+||em8561.go2bank.com^
+||em924.refer.starbucks.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -267,6 +267,7 @@
 ||refer.hollandamerica.com^
 ||refer.homedepot.com^
 ||refer.honcker.com^
+||refer.honorcu.com^
 ||refer.horizonfitness.marketing^
 ||refer.hpso.com^
 ||refer.hsn.com^
@@ -369,6 +370,7 @@
 ||refer.sharetodoist.com^
 ||refer.sharkclean.com^
 ||refer.shuuemuraartofhair-usa.com^
+||refer.sikorskycu.org^
 ||refer.skinceuticals.com^
 ||refer.sleepnumber.com^
 ||refer.smashbox.com^
@@ -448,6 +450,7 @@
 ||referrals.visionsfcu.org^
 ||reward.first-online.bank^
 ||rob.extoleu.com^
+||rob2.extoleu.com^
 ||score.lumen.com^
 ||share-fiber.t-mobile.com^
 ||share-uk.princess.com^
@@ -768,11 +771,11 @@
 ||www.rob.extoleu.com^
 ||www.styleitforwardreward.com^
 ||em1476.princesscruises.com^
-||em2287.theory.com^
+||em225.codecademy.com^
 ||em4367.raf-studentloans.discover.com^
-||em7952.dailypay.com^
-||em8561.go2bank.com^
-||em924.refer.starbucks.com^
+||em5231.mail.propertyperks.xfinity.com^
+||em7147.love.suncoastcreditunion.com^
+||em8928.em.petco.com^
 ||em9523.walmartmoneycard.com^
 ||emxxxx.rent.app^
 ||xtl._domainkey.forgetrust.com^

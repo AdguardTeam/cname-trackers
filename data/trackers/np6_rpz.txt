@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -828,7 +828,6 @@ tr.news.groupe-armonia.com CNAME .
 tr.news.happycap-foundation.fr CNAME .
 tr.news.happycap.org CNAME .
 tr.news.havasvoyages-groupes.fr CNAME .
-tr.news.helvyre.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.hrdradio.tv CNAME .
 tr.news.i24news.tv CNAME .

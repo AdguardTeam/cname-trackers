@@ -66,6 +66,7 @@
 ||agility.nba.com^
 ||agility.ncaa.com^
 ||agility.scoobylive.com^
+||agility.spaceghost.com^
 ||agility.staples-solutions.com^
 ||agility.tbs.com^
 ||agility.tbs.tv^
@@ -312,6 +313,7 @@
 ||privacy.uwm.com^
 ||privacy.zoll.com^
 ||privacyconsentmgmt.storable.com^
+||privacymps.merchantprocessorsolutions.com^
 ||pulse.delta.com^
 ||pulse.quaero.com^
 ||pulse.rac.co.uk^

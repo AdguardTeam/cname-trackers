@@ -44,6 +44,7 @@
 | analytics.recamov.com | custom.plausible.io |
 | analytics.redistributemag.com | custom.plausible.io |
 | analytics.sideprojectsoftware.com | custom.plausible.io |
+| analytics.sixfigureswine.com | custom.plausible.io |
 | analytics.teamcovenant.com | custom.plausible.io |
 | analytics.thegroupbuyexperiment.com | custom.plausible.io |
 | analytics.top10-charts.com | custom.plausible.io |
@@ -695,7 +696,6 @@
 | stats.postcollectors.com | custom.plausible.io |
 | stats.poweringpastcoal.org | custom.plausible.io |
 | stats.practicepl.us | custom.plausible.io |
-| stats.preeventualist.org | custom.plausible.io |
 | stats.pri.org | custom.plausible.io |
 | stats.pricewell.io | custom.plausible.io |
 | stats.principedepaz.gt | custom.plausible.io |
@@ -840,7 +840,6 @@
 | stats.westswindon-pc.gov.uk | custom.plausible.io |
 | stats.whenpigsflybbq.com | custom.plausible.io |
 | stats.whereisit5pmrightnow.com | custom.plausible.io |
-| stats.wiwi.digital | custom.plausible.io |
 | stats.wordvested.org | custom.plausible.io |
 | stats.world.hey.com | custom.plausible.io |
 | stats.wvs.org.uk | custom.plausible.io |

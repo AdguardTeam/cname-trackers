@@ -16,6 +16,7 @@
 | dashboard.andbeyond.media | dashboard.stat-rock.com |
 | dashboard.digita.media | dashboard.stat-rock.com |
 | dashboard.grapemedia.cz | dashboard.stat-rock.com |
+| dashboard.viewtraff.com | dashboard.stat-rock.com |
 | dashboard.xqubemedia.com | dashboard.stat-rock.com |
 | ad-serving.iocreate.cloud | serving.stat-rock.com |
 | adserving.menatech.net | serving.stat-rock.com |

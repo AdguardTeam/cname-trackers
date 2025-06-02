@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -57,6 +57,7 @@ $TTL 300
 8vwxqg.tapin.gg CNAME .
 8wozkl2r32jb.mitarbeiter-schmiede.de CNAME .
 9b5gjkrnw71r.it.themoneytizer.com CNAME .
+9endbwsya7vw.app.polymerdev.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9l3cr6dvk2kb.adaptive.marketing CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
@@ -81,6 +82,7 @@ fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 fyznhp8inq9x.jaywilsonwebsolutions.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 hht8m6w8mnug.quine.sh CNAME .
+htahii1lpt4u.boxoffice.adventuretix.com CNAME .
 ia84berzxy7v.de.themoneytizer.com CNAME .
 ilkk97e98lvg.www.sidsplumbing.ie CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .

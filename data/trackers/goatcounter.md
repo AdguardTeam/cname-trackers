@@ -25,11 +25,10 @@
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
     * bwc.goatcounter.com
+    * cafenoirka.goatcounter.com
     * cassie.goatcounter.com
     * celerry.goatcounter.com
-    * cgcristi.goatcounter.com
     * cloudnativebitcoin.goatcounter.com
-    * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
     * coderscompass.goatcounter.com
     * codes-baltimorecity-gov.goatcounter.com
@@ -76,6 +75,7 @@
     * jojonas.goatcounter.com
     * jsq.goatcounter.com
     * k94.goatcounter.com
+    * kai.goatcounter.com
     * kc-ie.goatcounter.com
     * kealper.goatcounter.com
     * koltyakov.goatcounter.com
@@ -155,6 +155,7 @@
     * w0chp.goatcounter.com
     * whatacools.goatcounter.com
     * ybbond.goatcounter.com
+    * zbahn.goatcounter.com
     * zgoat.goatcounter.com
     * zl2edh.goatcounter.com
 
@@ -184,11 +185,10 @@
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
 | analytics.bytewave.net | bwc.goatcounter.com |
+| stats.cafenoirka.de | cafenoirka.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
-| stats.cgcristi.xyz | cgcristi.goatcounter.com |
 | stats.cloudnativebitcoin.org | cloudnativebitcoin.goatcounter.com |
-| analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | stats.coderscompass.org | coderscompass.goatcounter.com |
 | analytics.codes.baltimorecity.gov | codes-baltimorecity-gov.goatcounter.com |
@@ -235,6 +235,7 @@
 | stats.jonaslieb.de | jojonas.goatcounter.com |
 | stats.jessesquires.com | jsq.goatcounter.com |
 | stats.k94.ch | k94.goatcounter.com |
+| analytics.kubasta.net | kai.goatcounter.com |
 | stats.kc.ie | kc-ie.goatcounter.com |
 | count.kealper.com | kealper.goatcounter.com |
 | www.stats.spflow.com | koltyakov.goatcounter.com |
@@ -315,5 +316,6 @@
 | stats.w0chp.radio | w0chp.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
+| stats.zbahn.de | zbahn.goatcounter.com |
 | stats.zgo.at | zgoat.goatcounter.com |
 | stats.zl2edh.com | zl2edh.goatcounter.com |

@@ -463,6 +463,7 @@ partner.babysigns.cz
 partner.barnaby.cz
 partner.bazaroveregaly.cz
 partner.bed4dogs.com
+partner.bepor.eu
 partner.bilynabytek.cz
 partner.bio-nechty.sk
 partner.bio-nehty.cz
@@ -726,6 +727,7 @@ partner.scootshop.cz
 partner.semor.cz
 partner.sevio.cz
 partner.sielbeauty.cz
+partner.simdatamax.com
 partner.simplymix.com
 partner.skinnygirls.cz
 partner.skiresort.cz
@@ -909,7 +911,6 @@ partneri.tentino.cz
 partneri.toothy.cz
 partneri.tradicne-feng-shui.sk
 partneri.trenink-vyjednavani.cz
-partneri.trollbeadscz.com
 partneri.tvorboshop.cz
 partneri.umenibytzdrav.cz
 partneri.umenijazyku.cz
@@ -985,6 +986,7 @@ spoluprace.potravinyarax.cz
 spoluprace.prostor8.cz
 spoluprace.sexito.cz
 spoluprace.sikland.cz
+spoluprace.skolnitriko.cz
 spoluprace.terrapotheka.cz
 spoluprace.vcelarstvi-domovina.cz
 spoluprace.vivobarefoot.cz

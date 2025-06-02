@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -56,7 +56,6 @@ abc.bayer04.de CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .
 app03.ikk-classic.de CNAME .
-cdn7.baunetz.de CNAME .
 ctd.domusweb.it CNAME .
 ctd.dueruote.it CNAME .
 ctd.edidomus.it CNAME .
@@ -302,7 +301,6 @@ web.enews.lenotre.fr CNAME .
 web.engagetest.swaindestinations.com CNAME .
 web.hello.petspyjamas.com CNAME .
 web.ideaautorepair.com CNAME .
-web.info.aiteca.it CNAME .
 web.info.bodybuildingwarehouse.co.uk CNAME .
 web.info.bodybuildingwarehouse.com CNAME .
 web.info.bonprix.es CNAME .

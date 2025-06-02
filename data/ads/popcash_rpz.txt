@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -247,7 +247,6 @@ basilisk.community-arts.net CNAME .
 basilisk.laosima.com CNAME .
 bass.alfrednerstu.com CNAME .
 bass.goulet.dev CNAME .
-bass.siterig.io CNAME .
 bass.taivo.ai CNAME .
 bat.heelix.be CNAME .
 bear.builtbyborda.com CNAME .
@@ -287,7 +286,6 @@ bonobo.nola.today CNAME .
 boom.laravel.io CNAME .
 bovid.neural.love CNAME .
 bowie-cdn.fathomdns.com CNAME .
-bug.aestheticpixels.io CNAME .
 bug.onlinedating.de CNAME .
 butterfly.coverworld.com.au CNAME .
 butterfly.dharsh.dev CNAME .
@@ -438,7 +436,6 @@ earwig.architecturesofhiding.com CNAME .
 earwig.oofi.es CNAME .
 echidna.hellotomorrow.agency CNAME .
 echidna.honeybadger.io CNAME .
-echidna.scandinaviantaste.no CNAME .
 eel.aware7.de CNAME .
 eel.ieo.do CNAME .
 egret.brothers.studio CNAME .
@@ -533,7 +530,6 @@ guan.lathamcommunications.com CNAME .
 guanaco.redpixelthemes.com CNAME .
 guanaco.shelter.stream CNAME .
 guineapig.espressive.com CNAME .
-guineapig.magnatkaffehus.no CNAME .
 guineapig.themenaffin.de CNAME .
 gull.mayansmithgobat.com CNAME .
 guppy.ausowned.com.au CNAME .
@@ -620,7 +616,6 @@ koala.hicks.house CNAME .
 koala.moontells.com CNAME .
 koala.mynestbox.co.uk CNAME .
 koala.readyfive.io CNAME .
-koi.artsvp.co CNAME .
 koi.fftf.cat CNAME .
 koi.filtersource.com CNAME .
 koi.fullyexplained.co.uk CNAME .
@@ -710,7 +705,6 @@ meerkat.bigcrazylife.com CNAME .
 meerkat.inprivy.io CNAME .
 mink.faq-bregenzerwald.com CNAME .
 minnow.clintwinter.me CNAME .
-minnow.mimosaagency.com CNAME .
 minnow.phasemedical.com CNAME .
 minnow.tapas-software.net CNAME .
 mite.cotinga.io CNAME .
@@ -933,7 +927,6 @@ skink.thoumi.ch CNAME .
 skunk.dwa.li CNAME .
 skunk.gameworkersolidarity.com CNAME .
 smelt.allenpike.com CNAME .
-smelt.gautrowski.com CNAME .
 snake.cybmed.com CNAME .
 snipe.mfaber.at CNAME .
 snipe.mizzuu.co CNAME .
@@ -951,7 +944,6 @@ spider.storiesofchang.com CNAME .
 spoonbill.mumblebox.com CNAME .
 squid.adart.cc CNAME .
 squid.antevo.com.au CNAME .
-squirrel.cobaltconnect.com CNAME .
 squirrel.laravel-mix.com CNAME .
 starfish.taskflow.io CNAME .
 starman-jack.fathomdns.com CNAME .
@@ -977,7 +969,6 @@ swift.ciudadanob.com CNAME .
 swift.jos.ht CNAME .
 swift.mi-boda.com CNAME .
 swift.radio12.org CNAME .
-swift.unovy.net CNAME .
 swift.vanuitjehuis.nl CNAME .
 swordfish.elvietanny.com CNAME .
 swordfish.floofs.com CNAME .
@@ -1146,6 +1137,7 @@ sponsors.asisonline.org CNAME .
 sponsors.benjaminmedia.com CNAME .
 sponsors.bicmagazine.com CNAME .
 sponsors.compactequip.com CNAME .
+sponsors.ctnewsjunkie.com CNAME .
 sponsors.floorforce.com CNAME .
 sponsors.inklink.news CNAME .
 sponsors.localcityplaces.com CNAME .

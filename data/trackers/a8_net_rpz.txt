@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -452,6 +452,7 @@ a8clk.bungeisha.co.jp CNAME .
 a8clk.buy-master.com CNAME .
 a8clk.buyking.club CNAME .
 a8clk.camerakaitori.jp CNAME .
+a8clk.campaigns.kaitori-premium.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
 a8clk.car-auc.jp CNAME .
 a8clk.car-mo.jp CNAME .
@@ -570,7 +571,6 @@ a8clk.kanagawa-zero.com CNAME .
 a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.kihada.jp CNAME .
 a8clk.komochikon.jp CNAME .
-a8clk.kyoto-health.co.jp CNAME .
 a8clk.label-seal-print.com CNAME .
 a8clk.lasana.co.jp CNAME .
 a8clk.laundry-out.jp CNAME .
@@ -791,7 +791,6 @@ a8cnv.rmsbeauty.jp CNAME .
 a8cv.012grp.co.jp CNAME .
 a8cv.03plus.net CNAME .
 a8cv.04510.jp CNAME .
-a8cv.1-class.jp CNAME .
 a8cv.17kg.shop CNAME .
 a8cv.1sbc.com CNAME .
 a8cv.464981.com CNAME .
@@ -966,6 +965,7 @@ a8cv.folli.jp CNAME .
 a8cv.follome.motaras.co.jp CNAME .
 a8cv.foods-labo.com CNAME .
 a8cv.foresight.jp CNAME .
+a8cv.fortunes-lab.com CNAME .
 a8cv.forza-gran.com CNAME .
 a8cv.fots.jp CNAME .
 a8cv.fp-life.design CNAME .
@@ -1033,7 +1033,6 @@ a8cv.inkan-takumi.com CNAME .
 a8cv.interlink.or.jp CNAME .
 a8cv.investment.mogecheck.jp CNAME .
 a8cv.ioo-sofa.net CNAME .
-a8cv.irodas.com CNAME .
 a8cv.ishibashi.co.jp CNAME .
 a8cv.ishibestcareer.com CNAME .
 a8cv.ishizawa-lab.co.jp CNAME .
@@ -1333,10 +1332,8 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
-a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
-a8cv.willfu.jp CNAME .
 a8cv.withcode.tech CNAME .
 a8cv.womanmoney.net CNAME .
 a8cv.wordman.jp CNAME .
@@ -1378,6 +1375,7 @@ a8cv.yui.gift CNAME .
 a8cv.yuyu-tei.jp CNAME .
 a8cv.zacc.jp CNAME .
 a8cv.zeal-agent.com CNAME .
+a8cv.zeal-shushoku-agent.com CNAME .
 a8cv.zeroen-denki.com CNAME .
 a8cv.zerorenovation.com CNAME .
 a8cv.zita.life CNAME .
@@ -1496,7 +1494,6 @@ afi.sougou.web-marketing.ai CNAME .
 afi.ssl.gmobb.jp CNAME .
 ahachi.dietnavi.com CNAME .
 ahachi.dreamdenki.jp CNAME .
-ai.kaishabaikyaku.com CNAME .
 analytics.villagehouse.jp CNAME .
 approach.wise1-golf.com CNAME .
 asp.glasspp119.jp CNAME .

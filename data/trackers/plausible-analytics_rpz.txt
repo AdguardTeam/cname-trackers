@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,6 +43,7 @@ analytics.ramiyer.me CNAME .
 analytics.recamov.com CNAME .
 analytics.redistributemag.com CNAME .
 analytics.sideprojectsoftware.com CNAME .
+analytics.sixfigureswine.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.thegroupbuyexperiment.com CNAME .
 analytics.top10-charts.com CNAME .
@@ -694,7 +695,6 @@ stats.portalmonitor.io CNAME .
 stats.postcollectors.com CNAME .
 stats.poweringpastcoal.org CNAME .
 stats.practicepl.us CNAME .
-stats.preeventualist.org CNAME .
 stats.pri.org CNAME .
 stats.pricewell.io CNAME .
 stats.principedepaz.gt CNAME .
@@ -839,7 +839,6 @@ stats.wecodeni.com CNAME .
 stats.westswindon-pc.gov.uk CNAME .
 stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
-stats.wiwi.digital CNAME .
 stats.wordvested.org CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .

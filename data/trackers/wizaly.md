@@ -82,7 +82,6 @@
 | tracking-test.esearchvision.com | t-test.wizaly.com |
 | trackv-test.esearchvision.com | t-test.wizaly.com |
 | tv-test.esvdigital.com | t-test.wizaly.com |
-| twiz.wizaly.co.uk | t.wizaly.com |
 | twiz.wizaly.fr | t.wizaly.com |
 | tk.abt.com | tk-abt-com.wizaly.com |
 | tk.agrizone.net | tk-agrizone-net.wizaly.com |

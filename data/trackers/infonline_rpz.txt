@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748246409349        ; Serial
+           1748851209679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -103,6 +103,7 @@ data-09d76f48f8.ivz-aktuell.de CNAME .
 data-09d76f48f8.ivz-epaper.de CNAME .
 data-09d76f48f8.newssquare.de CNAME .
 data-09ff4b0f07.express.de CNAME .
+data-0a356d685b.addradio.de CNAME .
 data-0a356d685b.radioherford.de CNAME .
 data-0aad875990.apps.iocnt.de CNAME .
 data-0af01e596d.tips.at CNAME .
@@ -250,6 +251,7 @@ data-1b32532ce1.blick.de CNAME .
 data-1b32532ce1.erzgebirge.de CNAME .
 data-1b32532ce1.freiepresse.de CNAME .
 data-1b32532ce1.vogtland.de CNAME .
+data-1b488c21c4.apps.iocnt.de CNAME .
 data-1b8b21e54b.speedweek.com CNAME .
 data-1b8b21e54b.speedweek.eu CNAME .
 data-1b9c592a39.einfachkochen.de CNAME .
@@ -794,6 +796,7 @@ data-5ad053d069.kempten.de CNAME .
 data-5b771a2641.berliner-zeitung.de CNAME .
 data-5c0bd13fee.apps.iocnt.de CNAME .
 data-5c172edac2.prosieben.at CNAME .
+data-5c499c299f.apps.iocnt.de CNAME .
 data-5c543e37c1.wochenblatt-dlv.de CNAME .
 data-5c62bbdb1e.maclife.de CNAME .
 data-5c8ddfc1d2.selbst.de CNAME .
@@ -817,6 +820,7 @@ data-5e8d192b40.fussballn.de CNAME .
 data-5e8d192b40.liga3-online.de CNAME .
 data-5ec2d41a8f.radiowestfalica.de CNAME .
 data-5f31cc5b45.apps.iocnt.de CNAME .
+data-5f4e914553.apps.iocnt.de CNAME .
 data-5f67d653dd.si-shk.de CNAME .
 data-5f7ebd9560.apps.iocnt.de CNAME .
 data-5fdd0f6a02.salzburg24.at CNAME .
@@ -923,6 +927,7 @@ data-66584305d5.mainpost.de CNAME .
 data-66b7771b69.motorsport.com CNAME .
 data-66d1660bfe.etailment.de CNAME .
 data-678018adf2.apps.iocnt.de CNAME .
+data-678db07fc3.apps.iocnt.de CNAME .
 data-67e5b22ff5.apps.iocnt.de CNAME .
 data-686f12c8aa.regionaljobs.at CNAME .
 data-68c78f1ad6.stadtbuechereiploen.de CNAME .
@@ -1210,6 +1215,7 @@ data-8ad4a97c5f.apps.iocnt.de CNAME .
 data-8b242b85ce.textilwirtschaft.de CNAME .
 data-8b242b85ce.twjobs.de CNAME .
 data-8b25c4d80f.apps.iocnt.de CNAME .
+data-8b46aa892b.apps.iocnt.de CNAME .
 data-8b77a703e0.dasoertliche.de CNAME .
 data-8b77a703e0.golocal.de CNAME .
 data-8ba5310956.spielaffe.de CNAME .
@@ -1726,6 +1732,7 @@ data-c652705c3e.apps.iocnt.de CNAME .
 data-c662a60daa.kabeleinsdoku.de CNAME .
 data-c6b1789ee3.upday.com CNAME .
 data-c6cb92ccdb.zkg.de CNAME .
+data-c6fc998b9c.rtlradio.de CNAME .
 data-c71f1467d4.speedweek.com CNAME .
 data-c76cebcfed.kino.de CNAME .
 data-c7a4161550.apps.iocnt.de CNAME .
@@ -2036,6 +2043,7 @@ data-f1e447fbcf.24hamburg.de CNAME .
 data-f1e447fbcf.24rhein.de CNAME .
 data-f1e447fbcf.24royal.de CNAME .
 data-f1e447fbcf.24vita.de CNAME .
+data-f1e447fbcf.absolutfussball.com CNAME .
 data-f1e447fbcf.az-online.de CNAME .
 data-f1e447fbcf.baden24.de CNAME .
 data-f1e447fbcf.bgland24.de CNAME .

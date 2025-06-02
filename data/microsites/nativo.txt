@@ -76,13 +76,11 @@
 ||34141a11eb.59fb4bffe0.com^
 ||357ceb3cef.289537e8c0.com^
 ||35f1f7129e.279a342278.com^
-||38f4121674.4f03644ab8.com^
 ||393058c53b.97b8c93c9d.com^
 ||3b1d253452.8ea1272194.com^
 ||3b71ae07b7.5bb3e0be1a.com^
 ||3c12cce224.c4db8f5827.com^
 ||3d940b49cb.84969d4e51.com^
-||3dc85f8202.efe12e61db.com^
 ||3f3f873995.428a4db078.com^
 ||3f7ccc19aa.cae9894963.com^
 ||3f8165d49d.5536ddf6c1.com^
@@ -95,7 +93,6 @@
 ||430e6749c9.4a93064ed9.com^
 ||43b71a0471.b18244c6c3.com^
 ||45524b3eed.7460d80586.com^
-||4559db2d8b.82703c65bb.com^
 ||456bd8f84a.2950f32c2b.com^
 ||45c8960dbf.0c6be7f968.com^
 ||4a2aac440d.7e4c883e71.com^
@@ -105,12 +102,12 @@
 ||4d93255c75.70cf68d2ed.com^
 ||4de392ba1b.172c47da4d.com^
 ||4e58ef526f.aa7a70aa38.com^
-||4eea23ee25.cff913e5b4.com^
 ||4f1a213614.0f0eeca702.com^
 ||4f1c8cf090.138b1541c6.com^
 ||51a66f8059.ce0a43500c.com^
 ||52fd9f7fa7.e65303ab96.com^
 ||5393e2d07f.a196f8c478.com^
+||53d89e43fe.6ab90bcccc.com^
 ||542130b763.144e93f0b6.com^
 ||5438d55745.8fbff00648.com^
 ||54dfda1b04.1110024a7a.com^
@@ -131,7 +128,6 @@
 ||6382dc675e.41230094f2.com^
 ||63a98fb9e9.aba8bc155e.com^
 ||63d8c6c172.c7b4215ccd.com^
-||63e798263b.fef0033e72.com^
 ||642e2d83a3.6a2ba2a948.com^
 ||6456462b8a.d5fb45ce94.com^
 ||64641981de.a1bc23fa98.com^
@@ -179,6 +175,7 @@
 ||8144314d93.7adec6d74e.com^
 ||822c03d021.309ec9abca.com^
 ||823141f652.d0436eb7ca.com^
+||8309b4c5f6.602e6a55fb.com^
 ||85fc51cc57.b077fc96e0.com^
 ||8655437872.1f1d9a652e.com^
 ||882e281cd8.44d100644b.com^
@@ -187,6 +184,7 @@
 ||8b77d90e45.1b60887cd1.com^
 ||8b9cf751fc.e00623c9a6.com^
 ||8c3ebbe6d3.0c9747d501.com^
+||8c40fb9c8e.e61f59ebf7.com^
 ||8ced4d3c11.dc5cede8fb.com^
 ||8d4bbdfb6f.461a49d04c.com^
 ||8daf90335f.6f825cf9f5.com^
@@ -218,6 +216,7 @@
 ||a6ef6929e5.6cc5f97c91.com^
 ||a80f715848.b9103544dc.com^
 ||a91a3eb601.68d4d1e771.com^
+||aa884225ad.84747737e0.com^
 ||ab68f17c55.ac94c2b385.com^
 ||ad6dc9f2a9.fa729bc841.com^
 ||ae33023cac.61b94acea9.com^
@@ -227,7 +226,6 @@
 ||afd2557582.e2957dfa03.com^
 ||afe125baef.7762dc22a5.com^
 ||b0834b036a.d5193824f5.com^
-||b1bfa431a6.11b5e241a7.com^
 ||b23097a9a2.c4691f6b54.com^
 ||b255043e2e.3b15e41dab.com^
 ||b4260c4455.2c9a6b1211.com^
@@ -236,6 +234,7 @@
 ||b71260c6e8.b6fbaf103c.com^
 ||b731055a61.20f70ba20b.com^
 ||b7bff12888.bbbe6e2472.com^
+||b7d69916a8.425410f96b.com^
 ||b841298463.cf7f9a4788.com^
 ||b8f7473cd2.91548aee74.com^
 ||b9d9e136c0.0c45fdeae9.com^
@@ -263,11 +262,11 @@
 ||c8868a3bde.afd6babf28.com^
 ||c8fbd6515f.9fe0bb9836.com^
 ||c98c4ff7d9.cf625c6093.com^
-||c9b2eedd25.4501e62000.com^
 ||c9f0ab8d4d.87b88bfdf2.com^
 ||cb6529a1bb.397ad904d0.com^
 ||cb7244fcc0.a03bf8d8ce.com^
 ||cbb1eca967.65ad8b598b.com^
+||ce89898fc3.3d12441eb9.com^
 ||cf9f10e1a8.5966843ee8.com^
 ||cf9fba9e00.d3089f6c34.com^
 ||d011b1c7bf.09222d3e04.com^
@@ -292,7 +291,6 @@
 ||dde341a1e9.d0428f37ca.com^
 ||deb8cb5eff.a4a8fa91e2.com^
 ||df5760f05b.236dd57cef.com^
-||df79826fce.38a5945374.com^
 ||dfcb02b251.43c346b6c6.com^
 ||e0103f2406.3c86b1a832.com^
 ||e0647f5ed3.4c7ce5d4e5.com^
@@ -304,6 +302,7 @@
 ||e50dc6ad27.ca7d0bd322.com^
 ||e512fc8a4c.1534aec4d7.com^
 ||e5f4a975e1.379b3d01c3.com^
+||e7b8fa45d6.c510a0b19c.com^
 ||e7bed470e8.394cf0bf1c.com^
 ||e7d7103a48.dca35279ca.com^
 ||eb3b8e52b4.cfbfc6fdd4.com^
@@ -340,6 +339,7 @@
 ||shared.sponsoredcontent.com^
 ||17641c9b6d.fbebe71ece.com^
 ||4a691a4461.9274aeeb33.com^
+||63e798263b.fef0033e72.com^
 ||9c5a4e173e.0069672d29.com^
 ||b3d55d5eec.ea09e63fed.com^
 ||dc8b1985cd.a336b509d9.com^
