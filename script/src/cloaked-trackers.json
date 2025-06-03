@@ -239,7 +239,7 @@
             "goatcounter.com"
         ]
     },
-        {
+    {
         "company_name": "GoAdserver",
         "type": "ad",
         "domains": [
@@ -375,6 +375,13 @@
         ]
     },
     {
+        "company_name": "RealBig",
+        "type": "ad",
+        "domains": [
+            "park.realbig.online"
+        ]
+    },
+    {
         "company_name": "RedTrack",
         "type": "tracker",
         "domains": [
@@ -462,4 +469,5 @@
             "wizaly.com"
         ]
     }
+
 ]
