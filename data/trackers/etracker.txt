@@ -98,6 +98,7 @@
 ||ric.contur-muenchen.de^
 ||ric.riedel-immobilien.de^
 ||ric.seeleben-starnbergersee.de^
+||salzburg.semsea.at^
 ||show.gruppedrei.com^
 ||src.vector.com^
 ||sst.cannapoli.de^
@@ -120,6 +121,7 @@
 ||stats.tirolerjobs.at^
 ||stats.umziehen.de^
 ||stats.united-domains.de^
+||stats.vorarlbergerjobs.at^
 ||stats.wasserfilteroase.de^
 ||stats.wienerjobs.at^
 ||sun.solar-haus.de^
@@ -144,6 +146,7 @@
 ||wa.ostermann.eu^
 ||waet.datalogue.de^
 ||wctr.bodenverkauf.de^
+||wctr.hh-klebetechnologie.de^
 ||wctr.hoeping.de^
 ||wctr.khk-karlsruhe.de^
 ||wctr.kunststoff-schachtabdeckungen.com^
@@ -161,6 +164,7 @@
 ||webcontr.aquarius-prolife.com^
 ||webcontr.barcodescanner.de^
 ||webcontr.baulogistik-online.de^
+||webcontr.bb-verpackungsshop.de^
 ||webcontr.bertibuch.de^
 ||webcontr.bet-at-home.com^
 ||webcontr.bet-at-home.de^
@@ -168,6 +172,7 @@
 ||webcontr.chairgo.de^
 ||webcontr.chiptuning.com^
 ||webcontr.distrebution.com^
+||webcontr.ecoon.de^
 ||webcontr.fsj-digital-bw.de^
 ||webcontr.genius.tv^
 ||webcontr.holzgestein.com^

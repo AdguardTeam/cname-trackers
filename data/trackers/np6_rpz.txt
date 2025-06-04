@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -266,6 +266,7 @@ tr.communication.moethennessydiageoconnect.com CNAME .
 tr.communication.np6.com CNAME .
 tr.communication.numericable.fr CNAME .
 tr.communication.offresb2b.fr CNAME .
+tr.communication.rmcbfm.com CNAME .
 tr.communication.top-office.com CNAME .
 tr.companeo-news.co.uk CNAME .
 tr.comunicacao.younited-credit.com CNAME .
@@ -368,6 +369,7 @@ tr.email.aeroexpo.online CNAME .
 tr.email.agriexpo.online CNAME .
 tr.email.aktuariat.fr CNAME .
 tr.email.archiexpo.com CNAME .
+tr.email.chapsvisioncloud.com CNAME .
 tr.email.contact-jaguar.fr CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
@@ -448,6 +450,7 @@ tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
 tr.fts.francetravail.fr CNAME .
+tr.futuramedia.fr CNAME .
 tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
 tr.g.moethennessy.com CNAME .
@@ -706,6 +709,7 @@ tr.mijn-superaanbieding.be CNAME .
 tr.mijnaanbieding.renowizz.be CNAME .
 tr.mika.espmp-nifr.net CNAME .
 tr.mktg.np6.com CNAME .
+tr.ml-expo.usinenouvelle.com CNAME .
 tr.ml.batiproduits.com CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .

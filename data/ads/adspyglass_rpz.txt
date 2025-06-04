@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -420,6 +420,7 @@ c021b14e0782ad7ef6d74.clicknplay.to CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
 c6s.bionestraff.pro CNAME .
+c8y.crazyporn.xxx CNAME .
 ca.fapnado.xxx CNAME .
 ca.fapnow.xxx CNAME .
 ca.ifuckedyourgf.com CNAME .
@@ -727,6 +728,7 @@ lentaopz.xyz CNAME .
 level.18huhu.com CNAME .
 lewd.ws CNAME .
 lianzl.xyz CNAME .
+linakso.xyz CNAME .
 liracdn.com CNAME .
 live.xcamshd.live CNAME .
 lixir.wargers.org CNAME .
@@ -768,6 +770,7 @@ maxx2.a.pleasedonotblockme.com CNAME .
 meatjav11.fun CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
+mengaoz.xyz CNAME .
 mengozia.xyz CNAME .
 menkaox.xyz CNAME .
 meorzoi.xyz CNAME .
@@ -943,9 +946,11 @@ pundr.shemrec.cc CNAME .
 purp.sukaporn.com CNAME .
 push.mayads.store CNAME .
 px9.nuderedtube.com CNAME .
+pziaix.xyz CNAME .
 q.tubetruck.com CNAME .
 qiaoxz.xyz CNAME .
 qmogjaezcv.club CNAME .
+qoqv.com CNAME .
 qovua60gue.tubewolf.com CNAME .
 qpwvok0l.xyz CNAME .
 qq2025.monthfour0225.xyz CNAME .
@@ -1189,6 +1194,7 @@ www.enjoymediafile.hubhubhub.name CNAME .
 www.f.bloblohub.com CNAME .
 www.forwank.com CNAME .
 www.go.showmeyouradsnow.com CNAME .
+www.hazaarulo.com CNAME .
 www.hubhubhub.name CNAME .
 www.i-0c8d1bb4c1a648ae1.hubhubhub.name CNAME .
 www.ilviaggionellatesta.hubhubhub.name CNAME .

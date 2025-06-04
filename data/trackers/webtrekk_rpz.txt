@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -399,6 +399,7 @@ web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 web2.updates.ditano.com CNAME .
 webmet.creditreform-mahnwesen.de CNAME .
+webmet.creditreform.at CNAME .
 webmet.creditreform.de CNAME .
 webmet.crefotrust.de CNAME .
 website-usage.b2bendix.com CNAME .

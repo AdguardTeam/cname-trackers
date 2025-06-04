@@ -95,6 +95,7 @@
 ||45524b3eed.7460d80586.com^
 ||456bd8f84a.2950f32c2b.com^
 ||45c8960dbf.0c6be7f968.com^
+||462c268c7c.4cd79ce97b.com^
 ||4a2aac440d.7e4c883e71.com^
 ||4ada3756e4.390c1c46b8.com^
 ||4bb6cef88c.4917493a9d.com^
@@ -228,7 +229,6 @@
 ||b0834b036a.d5193824f5.com^
 ||b23097a9a2.c4691f6b54.com^
 ||b255043e2e.3b15e41dab.com^
-||b4260c4455.2c9a6b1211.com^
 ||b444707fdc.4ae2e793d9.com^
 ||b53accf7d8.8f59bb0891.com^
 ||b71260c6e8.b6fbaf103c.com^
@@ -330,11 +330,12 @@
 ||fdd5c91116.606b85787b.com^
 ||fe5071dde0.7c5734761f.com^
 ||ff161ce5ce.c17778a8e1.com^
+||i.allnestinfinite.com^
 ||i.laketrend.com^
 ||i.selecttopoff.com^
 ||i.statelinear.com^
-||a135.wftv.com^
 ||mlive.share.ntv.io^
+||nativomobileapps.share.ntv.io^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 ||17641c9b6d.fbebe71ece.com^
@@ -344,6 +345,7 @@
 ||b3d55d5eec.ea09e63fed.com^
 ||dc8b1985cd.a336b509d9.com^
 ||a135.fox23.com^
+||a135.wftv.com^
 ||a135.wpxi.com^
 ||a135.wsoctv.com^
 ||a614.mlive.com^
@@ -377,7 +379,6 @@
 ||mercurynews.share.ntv.io^
 ||miamiherald.share.ntv.io^
 ||mundohispanico.share.ntv.io^
-||nativomobileapps.share.ntv.io^
 ||newsweek.share.ntv.io^
 ||nj.finegardening.com^
 ||nj.share.ntv.io^

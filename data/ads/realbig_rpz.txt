@@ -1,0 +1,106 @@
+;
+; Company name: RealBig
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1748981604671        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+1.vakuumnyy-stimulyator.ru CNAME .
+a.rb-ya.ru CNAME .
+a.resr.ru CNAME .
+a.ridd.ru CNAME .
+a.vanvok.ru CNAME .
+ads.wattpadru.ru CNAME .
+adsrealpublic.ru CNAME .
+any.realbig.media CNAME .
+autorekrb.bid CNAME .
+b1.rbighouse.ru CNAME .
+b10.rbighouse.ru CNAME .
+b3.rbighouse.ru CNAME .
+b5.rbighouse.ru CNAME .
+bo.zymorico.store CNAME .
+cdn.zamunda.ru CNAME .
+da.zilovaro.ru CNAME .
+dlyarecnew.me CNAME .
+downnora.me CNAME .
+ecomedtorg.ru CNAME .
+elpushnot.com CNAME .
+fft.delovoemesto.ru CNAME .
+gaz-help.ru CNAME .
+he.zymorico.ru CNAME .
+lend-rb.bid CNAME .
+liveislive.bid CNAME .
+media.olmiweb.com CNAME .
+media.rabbit.click CNAME .
+mu.zilovaro.store CNAME .
+my.rbpsh.ru CNAME .
+newrotatormarch23.bid CNAME .
+news.unsere-news.ru CNAME .
+newup.bid CNAME .
+noradown.bid CNAME .
+nservw.net CNAME .
+onemontay.ru CNAME .
+owmedia.rabbit.click CNAME .
+owpush.rabbit.click CNAME .
+p.netork.ru CNAME .
+par.moyslovar.ru CNAME .
+po.zolivexo.ru CNAME .
+push.rabbit.click CNAME .
+pushche.rabbit.click CNAME .
+r.hjj.pw CNAME .
+rb.crimeagc.com CNAME .
+rb.mnogodiva.ru CNAME .
+rb.slova-accordy.ru CNAME .
+rb.sveto-sharik.ru CNAME .
+rb.umspecrek.ru CNAME .
+rbbutton.bid CNAME .
+rbfive.bid CNAME .
+rbfour.bid CNAME .
+rbone.link CNAME .
+rbrotator.ru CNAME .
+rbthre.work CNAME .
+rdv.naruto-base.tv CNAME .
+realrb.bid CNAME .
+rott.mazlspqnn.ru CNAME .
+servw.bid CNAME .
+sub.fastgnmx.com CNAME .
+truenat.bid CNAME .
+tryonline.bid CNAME .
+tuesdaysale.bid CNAME .
+vi.zolivexo.store CNAME .
+workerhome.click CNAME .
+www.1astrjasr.ru CNAME .
+www.5738.ru CNAME .
+www.allworldinfo4.store CNAME .
+www.aviator-game.info CNAME .
+www.eshii.ru CNAME .
+www.fasder12.ru CNAME .
+www.fasder12.store CNAME .
+www.gorrio.ru CNAME .
+www.horpush.ru CNAME .
+www.infocentro.ru CNAME .
+www.pc-download.ru CNAME .
+www.pushrb.pro CNAME .
+www.raelb2.ru CNAME .
+www.rbdomain.ru CNAME .
+www.rbmcnf.pro CNAME .
+www.rbp-gen1.site CNAME .
+www.rbp1.ru CNAME .
+www.rbp2.ru CNAME .
+www.rbp2.site CNAME .
+www.rbp3.ru CNAME .
+www.rbp63841.ru CNAME .
+www.rbpark1.site CNAME .
+www.rbpark1.website CNAME .
+www.rbpark2.ru CNAME .
+www.rbpark3.ru CNAME .
+www.rbprk91645.ru CNAME .
+www.rlrt.ru CNAME .
+www.siterec.site CNAME .
+xxx.extrablocks.ru CNAME .

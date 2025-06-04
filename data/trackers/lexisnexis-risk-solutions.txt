@@ -564,6 +564,7 @@
 ||ftd.quodxx.com.br^
 ||fulfillment-ups.squareup.com^
 ||gateway.jmbullion.com^
+||geo.linq.gg^
 ||ghisa.subito.it^
 ||go.citizensaccess.com^
 ||h.chase.co.uk^
@@ -692,6 +693,7 @@
 ||lsr22.dzing.finance^
 ||ltxup.sumup.com^
 ||ltxup.sumup.io^
+||ltxup.sumupstore.com^
 ||m-profiling.cibc.com^
 ||m-profiling.simplii.com^
 ||m.vnforapps.com^
@@ -997,6 +999,7 @@
 ||tag.findyourunclaimedproperty.com^
 ||tag.icash.illinoistreasurer.gov^
 ||tag.maineunclaimedproperty.gov^
+||tag.mycash.utah.gov^
 ||tag.ucp.dor.wa.gov^
 ||tag.unclaimedfunds.nj.gov^
 ||tag.unclaimedproperty.alaska.gov^
@@ -1233,6 +1236,7 @@
 ||w3.nsbank.com^
 ||w3.providerpay.com^
 ||w3.tcboregon.com^
+||w3.tcbwa.com^
 ||w3.vectrabank.com^
 ||w3.zionsbank.com^
 ||webftm.rbc.com^

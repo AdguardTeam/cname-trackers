@@ -533,6 +533,7 @@
 | stats.indyhall.org | custom.plausible.io |
 | stats.infoboard.de | custom.plausible.io |
 | stats.ingenerator.com | custom.plausible.io |
+| stats.innoforge.com.au | custom.plausible.io |
 | stats.innoq.com | custom.plausible.io |
 | stats.instabudget.app | custom.plausible.io |
 | stats.interactjs.io | custom.plausible.io |

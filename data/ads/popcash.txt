@@ -226,6 +226,7 @@
 ||bandicoot.mohit.dev^
 ||bandicoot.sigerr.org^
 ||barnacle.big-in-japan.com^
+||barnacle.hearmeout.work^
 ||barnacle.natalieandmikeyb.com^
 ||barnacle.viewsource.io^
 ||barracuda.civicdatalibrary.org^
@@ -908,6 +909,7 @@
 ||shrew.ryangjchandler.co.uk^
 ||silkworm.bobsmechanicalrepairs.co.uk^
 ||silkworm.boxmood.be^
+||silkworm.preventingsuicideinsussex.org^
 ||silkworm.waspexpert.com^
 ||silkworm.westwoodmbc.org^
 ||silverfish.djordjevanjek.com^

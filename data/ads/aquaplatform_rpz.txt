@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -261,6 +261,7 @@ www.console.pinktriangle.ca CNAME .
 www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .
 www.coreads.cambridge.org CNAME .
+www.creatives.goldseek.com CNAME .
 www.display.lawbulletin.com CNAME .
 www.images.hour-media.com CNAME .
 www.images.informatm.com CNAME .

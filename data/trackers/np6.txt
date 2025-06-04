@@ -255,6 +255,7 @@
 ||tr.communication.np6.com^
 ||tr.communication.numericable.fr^
 ||tr.communication.offresb2b.fr^
+||tr.communication.rmcbfm.com^
 ||tr.communication.top-office.com^
 ||tr.companeo-news.co.uk^
 ||tr.comunicacao.younited-credit.com^
@@ -357,6 +358,7 @@
 ||tr.email.agriexpo.online^
 ||tr.email.aktuariat.fr^
 ||tr.email.archiexpo.com^
+||tr.email.chapsvisioncloud.com^
 ||tr.email.contact-jaguar.fr^
 ||tr.email.contact-landrover.fr^
 ||tr.email.custom-campaign.com^
@@ -437,6 +439,7 @@
 ||tr.fr.pro.accor.com^
 ||tr.france.plimsoll.fr^
 ||tr.fts.francetravail.fr^
+||tr.futuramedia.fr^
 ||tr.future-commerce.mhdfrance.fr^
 ||tr.futurecommerce.moethennessy.com^
 ||tr.g.moethennessy.com^
@@ -695,6 +698,7 @@
 ||tr.mijnaanbieding.renowizz.be^
 ||tr.mika.espmp-nifr.net^
 ||tr.mktg.np6.com^
+||tr.ml-expo.usinenouvelle.com^
 ||tr.ml.batiproduits.com^
 ||tr.mm.infopro-digital.com^
 ||tr.mnoc.espmp-nifr.net^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -575,6 +575,7 @@ fsta.leboncoin.info CNAME .
 ftd.quodxx.com.br CNAME .
 fulfillment-ups.squareup.com CNAME .
 gateway.jmbullion.com CNAME .
+geo.linq.gg CNAME .
 ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
 h.chase.co.uk CNAME .
@@ -703,6 +704,7 @@ lsprof.comeon.com CNAME .
 lsr22.dzing.finance CNAME .
 ltxup.sumup.com CNAME .
 ltxup.sumup.io CNAME .
+ltxup.sumupstore.com CNAME .
 m-profiling.cibc.com CNAME .
 m-profiling.simplii.com CNAME .
 m.vnforapps.com CNAME .
@@ -1008,6 +1010,7 @@ tag.findmassmoney.gov CNAME .
 tag.findyourunclaimedproperty.com CNAME .
 tag.icash.illinoistreasurer.gov CNAME .
 tag.maineunclaimedproperty.gov CNAME .
+tag.mycash.utah.gov CNAME .
 tag.ucp.dor.wa.gov CNAME .
 tag.unclaimedfunds.nj.gov CNAME .
 tag.unclaimedproperty.alaska.gov CNAME .
@@ -1244,6 +1247,7 @@ w3.nbarizona.com CNAME .
 w3.nsbank.com CNAME .
 w3.providerpay.com CNAME .
 w3.tcboregon.com CNAME .
+w3.tcbwa.com CNAME .
 w3.vectrabank.com CNAME .
 w3.zionsbank.com CNAME .
 webftm.rbc.com CNAME .

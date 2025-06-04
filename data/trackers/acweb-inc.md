@@ -47,7 +47,6 @@
 | l.tec29.com | acweb.clog.jp |
 | l.tencho.cc | acweb.clog.jp |
 | l.tenkomori.tv | acweb.clog.jp |
-| l.thd-web.jp | acweb.clog.jp |
 | l.ti-da.net | acweb.clog.jp |
 | l.toushiikusei.net | acweb.clog.jp |
 | l.tsukuba.ch | acweb.clog.jp |

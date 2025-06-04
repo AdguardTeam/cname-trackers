@@ -388,6 +388,7 @@
 ||web.x.ilpost.it^
 ||web2.updates.ditano.com^
 ||webmet.creditreform-mahnwesen.de^
+||webmet.creditreform.at^
 ||webmet.creditreform.de^
 ||webmet.crefotrust.de^
 ||website-usage.b2bendix.com^

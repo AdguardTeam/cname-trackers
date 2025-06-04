@@ -235,6 +235,7 @@
 ||utiq.lecturas.com^
 ||utiq.lefigaro.fr^
 ||utiq.lejdc.fr^
+||utiq.lejdc.fr.cdn.cloudflare.net^
 ||utiq.lejournaldelamaison.fr^
 ||utiq.lemessager.fr^
 ||utiq.leonoticias.com^
@@ -252,6 +253,7 @@
 ||utiq.listisima.com^
 ||utiq.lne.es^
 ||utiq.lunion.fr^
+||utiq.lyonne.fr^
 ||utiq.madmoizelle.com^
 ||utiq.maennerseite.net^
 ||utiq.mahou.es^

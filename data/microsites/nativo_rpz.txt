@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -106,6 +106,7 @@ sponsor.syracuse.com CNAME .
 45524b3eed.7460d80586.com CNAME .
 456bd8f84a.2950f32c2b.com CNAME .
 45c8960dbf.0c6be7f968.com CNAME .
+462c268c7c.4cd79ce97b.com CNAME .
 4a2aac440d.7e4c883e71.com CNAME .
 4ada3756e4.390c1c46b8.com CNAME .
 4bb6cef88c.4917493a9d.com CNAME .
@@ -239,7 +240,6 @@ afe125baef.7762dc22a5.com CNAME .
 b0834b036a.d5193824f5.com CNAME .
 b23097a9a2.c4691f6b54.com CNAME .
 b255043e2e.3b15e41dab.com CNAME .
-b4260c4455.2c9a6b1211.com CNAME .
 b444707fdc.4ae2e793d9.com CNAME .
 b53accf7d8.8f59bb0891.com CNAME .
 b71260c6e8.b6fbaf103c.com CNAME .
@@ -341,11 +341,12 @@ fba5d54634.d9303988cb.com CNAME .
 fdd5c91116.606b85787b.com CNAME .
 fe5071dde0.7c5734761f.com CNAME .
 ff161ce5ce.c17778a8e1.com CNAME .
+i.allnestinfinite.com CNAME .
 i.laketrend.com CNAME .
 i.selecttopoff.com CNAME .
 i.statelinear.com CNAME .
-a135.wftv.com CNAME .
 mlive.share.ntv.io CNAME .
+nativomobileapps.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 17641c9b6d.fbebe71ece.com CNAME .
@@ -355,6 +356,7 @@ shared.sponsoredcontent.com CNAME .
 b3d55d5eec.ea09e63fed.com CNAME .
 dc8b1985cd.a336b509d9.com CNAME .
 a135.fox23.com CNAME .
+a135.wftv.com CNAME .
 a135.wpxi.com CNAME .
 a135.wsoctv.com CNAME .
 a614.mlive.com CNAME .
@@ -388,7 +390,6 @@ littlethings.share.ntv.io CNAME .
 mercurynews.share.ntv.io CNAME .
 miamiherald.share.ntv.io CNAME .
 mundohispanico.share.ntv.io CNAME .
-nativomobileapps.share.ntv.io CNAME .
 newsweek.share.ntv.io CNAME .
 nj.finegardening.com CNAME .
 nj.share.ntv.io CNAME .

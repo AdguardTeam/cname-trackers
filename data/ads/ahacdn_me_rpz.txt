@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,6 +50,7 @@ $TTL 300
 0003.reminews.com CNAME .
 0003.shockynews.com CNAME .
 0003.sifenews.com CNAME .
+0004.bealanews.com CNAME .
 0004.gofenews.com CNAME .
 0004.j74y03g8u.com CNAME .
 0004.jemonews.com CNAME .
@@ -662,6 +663,8 @@ $TTL 300
 0070.luronews.com CNAME .
 0070.reminews.com CNAME .
 0070.shockynews.com CNAME .
+0071.deeginews.com CNAME .
+0071.gofenews.com CNAME .
 0071.groovinews.com CNAME .
 0071.jemonews.com CNAME .
 0071.reminews.com CNAME .
@@ -697,6 +700,7 @@ $TTL 300
 0075.groovinews.com CNAME .
 0075.km14hkusz.com CNAME .
 0075.lookinews.com CNAME .
+0075.loopanews.com CNAME .
 0075.reminews.com CNAME .
 0075.shockynews.com CNAME .
 0076.freshalldaynews.com CNAME .
@@ -1216,6 +1220,7 @@ $TTL 300
 0180.bealanews.com CNAME .
 0180.bestoffers-fe.com CNAME .
 0180.gofenews.com CNAME .
+0180.lookinews.com CNAME .
 0180.reminews.com CNAME .
 0181.deeginews.com CNAME .
 0181.gofenews.com CNAME .
@@ -1387,6 +1392,7 @@ $TTL 300
 0225.bestandgreatests.com CNAME .
 0225.gofenews.com CNAME .
 0225.lookinews.com CNAME .
+0225.luronews.com CNAME .
 0225.reminews.com CNAME .
 0226.gofenews.com CNAME .
 0226.jemonews.com CNAME .
@@ -1519,6 +1525,7 @@ $TTL 300
 0264.gofenews.com CNAME .
 0264.reminews.com CNAME .
 0265.gofenews.com CNAME .
+0265.lycheenews.com CNAME .
 0265.reminews.com CNAME .
 0266.gofenews.com CNAME .
 0266.jemonews.com CNAME .
@@ -1526,6 +1533,7 @@ $TTL 300
 0266.reminews.com CNAME .
 0267.bestandgreatests.com CNAME .
 0267.gofenews.com CNAME .
+0267.jemonews.com CNAME .
 0267.lookinews.com CNAME .
 0267.reminews.com CNAME .
 0268.gofenews.com CNAME .
@@ -1545,6 +1553,7 @@ $TTL 300
 0271.gofenews.com CNAME .
 0272.bealanews.com CNAME .
 0272.reminews.com CNAME .
+0273.groovinews.com CNAME .
 0273.jemonews.com CNAME .
 0273.reminews.com CNAME .
 0274.gofenews.com CNAME .
@@ -1559,6 +1568,7 @@ $TTL 300
 0277.gofenews.com CNAME .
 0277.jemonews.com CNAME .
 0278.gofenews.com CNAME .
+0278.groovinews.com CNAME .
 0279.bestandgreatests.com CNAME .
 0279.deeginews.com CNAME .
 0279.gofenews.com CNAME .
@@ -1690,6 +1700,7 @@ $TTL 300
 0319.loopanews.com CNAME .
 032.jemonews.com CNAME .
 0320.freshalldaynews.com CNAME .
+0320.gofenews.com CNAME .
 0320.reminews.com CNAME .
 0321.gofenews.com CNAME .
 0322.gofenews.com CNAME .
@@ -1821,6 +1832,7 @@ $TTL 300
 0371.gofenews.com CNAME .
 0372.reminews.com CNAME .
 0373.gofenews.com CNAME .
+0373.lookinews.com CNAME .
 0373.reminews.com CNAME .
 0374.4puuqeh41.com CNAME .
 0374.gofenews.com CNAME .
@@ -1997,6 +2009,7 @@ $TTL 300
 0442.gofenews.com CNAME .
 0442.groovinews.com CNAME .
 0442.reminews.com CNAME .
+0443.bestinterestings.com CNAME .
 0444.4puuqeh41.com CNAME .
 0444.gofenews.com CNAME .
 0444.reminews.com CNAME .
@@ -2057,6 +2070,7 @@ $TTL 300
 0467.reminews.com CNAME .
 0468.gofenews.com CNAME .
 0468.reminews.com CNAME .
+0468.sifenews.com CNAME .
 0469.gofenews.com CNAME .
 0470.gofenews.com CNAME .
 0471.gofenews.com CNAME .
@@ -2105,6 +2119,7 @@ $TTL 300
 0488.gofenews.com CNAME .
 0488.reminews.com CNAME .
 0489.gofenews.com CNAME .
+0489.huronews.com CNAME .
 0489.jemonews.com CNAME .
 0489.lookinews.com CNAME .
 0489.reminews.com CNAME .
@@ -2287,6 +2302,7 @@ $TTL 300
 0563.gofenews.com CNAME .
 0563.luronews.com CNAME .
 0563.reminews.com CNAME .
+0564.gofenews.com CNAME .
 0565.reminews.com CNAME .
 0566.gofenews.com CNAME .
 0566.reminews.com CNAME .
@@ -2387,6 +2403,7 @@ $TTL 300
 0610.km14hkusz.com CNAME .
 0610.reminews.com CNAME .
 0611.lookinews.com CNAME .
+0611.luronews.com CNAME .
 0612.ksrtmgoym.com CNAME .
 0612.reminews.com CNAME .
 0613.reminews.com CNAME .
@@ -2418,6 +2435,7 @@ $TTL 300
 0628.gofenews.com CNAME .
 0628.reminews.com CNAME .
 0629.gofenews.com CNAME .
+0629.loopanews.com CNAME .
 0629.reminews.com CNAME .
 0630.gofenews.com CNAME .
 0630.reminews.com CNAME .
@@ -2491,6 +2509,7 @@ $TTL 300
 0663.lookinews.com CNAME .
 0663.reminews.com CNAME .
 0664.reminews.com CNAME .
+0665.reminews.com CNAME .
 0666.gofenews.com CNAME .
 0667.gofenews.com CNAME .
 0668.gofenews.com CNAME .
@@ -2525,6 +2544,7 @@ $TTL 300
 0680.reminews.com CNAME .
 0681.gofenews.com CNAME .
 0681.reminews.com CNAME .
+0681.shockynews.com CNAME .
 0682.gofenews.com CNAME .
 0682.reminews.com CNAME .
 0683.5clo0xmbf.com CNAME .
@@ -2958,6 +2978,7 @@ $TTL 300
 0885.jemonews.com CNAME .
 0885.reminews.com CNAME .
 0886.jemonews.com CNAME .
+0887.gofenews.com CNAME .
 0887.reminews.com CNAME .
 0888.gofenews.com CNAME .
 0888.reminews.com CNAME .
@@ -3006,6 +3027,7 @@ $TTL 300
 0907.groovinews.com CNAME .
 0908.gofenews.com CNAME .
 0908.reminews.com CNAME .
+0909.bealanews.com CNAME .
 0909.reminews.com CNAME .
 0910.gofenews.com CNAME .
 0910.luronews.com CNAME .
@@ -3015,8 +3037,10 @@ $TTL 300
 0912.gofenews.com CNAME .
 0913.gofenews.com CNAME .
 0914.gofenews.com CNAME .
+0914.reminews.com CNAME .
 0915.gofenews.com CNAME .
 0915.reminews.com CNAME .
+0915.rookinews.com CNAME .
 0916.gofenews.com CNAME .
 0916.jemonews.com CNAME .
 0916.reminews.com CNAME .
@@ -3085,6 +3109,7 @@ $TTL 300
 0946.reminews.com CNAME .
 0947.gofenews.com CNAME .
 0947.reminews.com CNAME .
+0948.jemonews.com CNAME .
 0948.reminews.com CNAME .
 0949.bealanews.com CNAME .
 0949.gofenews.com CNAME .
@@ -3233,6 +3258,7 @@ $TTL 300
 1004.seponews.com CNAME .
 1005.reminews.com CNAME .
 1006.gofenews.com CNAME .
+1007.huronews.com CNAME .
 1008.jemonews.com CNAME .
 1008.reminews.com CNAME .
 1009.gofenews.com CNAME .
@@ -3264,6 +3290,7 @@ $TTL 300
 102.tegronews.com CNAME .
 1020.gofenews.com CNAME .
 1020.jemonews.com CNAME .
+1020.jumronews.com CNAME .
 1020.reminews.com CNAME .
 1021.reminews.com CNAME .
 1022.gofenews.com CNAME .
@@ -3286,6 +3313,8 @@ $TTL 300
 1029.reminews.com CNAME .
 103.lookinews.com CNAME .
 103.shockynews.com CNAME .
+1030.gofenews.com CNAME .
+1030.lootynews.com CNAME .
 1030.reminews.com CNAME .
 1031.reminews.com CNAME .
 1031.shockynews.com CNAME .
@@ -3301,8 +3330,11 @@ $TTL 300
 1035.jemonews.com CNAME .
 1035.ksrtmgoym.com CNAME .
 1035.lilonews.com CNAME .
+1035.reminews.com CNAME .
 1036.gofenews.com CNAME .
 1036.lookinews.com CNAME .
+1036.reminews.com CNAME .
+1037.jemonews.com CNAME .
 1037.lilonews.com CNAME .
 1037.reminews.com CNAME .
 1038.gofenews.com CNAME .
@@ -3311,6 +3343,7 @@ $TTL 300
 1039.reminews.com CNAME .
 104.lycheenews.com CNAME .
 1040.gofenews.com CNAME .
+1040.reminews.com CNAME .
 1042.reminews.com CNAME .
 1043.gofenews.com CNAME .
 1043.reminews.com CNAME .
@@ -3349,6 +3382,7 @@ $TTL 300
 1057.reminews.com CNAME .
 1059.gofenews.com CNAME .
 1059.reminews.com CNAME .
+1060.gofenews.com CNAME .
 1061.gofenews.com CNAME .
 1061.reminews.com CNAME .
 1062.jumronews.com CNAME .
@@ -3534,6 +3568,7 @@ $TTL 300
 1145.reminews.com CNAME .
 1146.gofenews.com CNAME .
 1146.lookinews.com CNAME .
+1146.reminews.com CNAME .
 1147.gofenews.com CNAME .
 1147.jemonews.com CNAME .
 1147.reminews.com CNAME .
@@ -3546,6 +3581,7 @@ $TTL 300
 1151.reminews.com CNAME .
 1152.gofenews.com CNAME .
 1152.reminews.com CNAME .
+1153.gofenews.com CNAME .
 1154.seponews.com CNAME .
 1155.gofenews.com CNAME .
 1155.lookinews.com CNAME .
@@ -3553,6 +3589,7 @@ $TTL 300
 1156.5clo0xmbf.com CNAME .
 1157.gofenews.com CNAME .
 1157.reminews.com CNAME .
+1158.gofenews.com CNAME .
 1159.gofenews.com CNAME .
 115mis.ruranews.com CNAME .
 116.jumronews.com CNAME .
@@ -3568,6 +3605,7 @@ $TTL 300
 1164.reminews.com CNAME .
 1165.reminews.com CNAME .
 1166.gofenews.com CNAME .
+1166.reminews.com CNAME .
 1167.reminews.com CNAME .
 1168.jemonews.com CNAME .
 1168.reminews.com CNAME .
@@ -3640,6 +3678,7 @@ $TTL 300
 1203.gofenews.com CNAME .
 1203.lookinews.com CNAME .
 1203.reminews.com CNAME .
+1204.groovinews.com CNAME .
 1205.gofenews.com CNAME .
 1205.reminews.com CNAME .
 1206.reminews.com CNAME .
@@ -3679,6 +3718,7 @@ $TTL 300
 1224.reminews.com CNAME .
 1226.gofenews.com CNAME .
 1226.luronews.com CNAME .
+1226.reminews.com CNAME .
 1227.reminews.com CNAME .
 1228.gofenews.com CNAME .
 1229.reminews.com CNAME .
@@ -3708,6 +3748,7 @@ $TTL 300
 123w.gofenews.com CNAME .
 123w.reminews.com CNAME .
 124.lycheenews.com CNAME .
+1242.gofenews.com CNAME .
 1242.reminews.com CNAME .
 1244.gofenews.com CNAME .
 1245.gofenews.com CNAME .
@@ -3731,6 +3772,7 @@ $TTL 300
 1253.gofenews.com CNAME .
 1253.reminews.com CNAME .
 1254.gofenews.com CNAME .
+1254.jemonews.com CNAME .
 1254.reminews.com CNAME .
 1255.gofenews.com CNAME .
 1256.gofenews.com CNAME .
@@ -3749,6 +3791,7 @@ $TTL 300
 1262.lookinews.com CNAME .
 1262.reminews.com CNAME .
 1262.tegronews.com CNAME .
+1263.lookinews.com CNAME .
 1263.luronews.com CNAME .
 1264.gofenews.com CNAME .
 1264.reminews.com CNAME .
@@ -3794,8 +3837,10 @@ $TTL 300
 1285.lootynews.com CNAME .
 1285.luronews.com CNAME .
 1285.reminews.com CNAME .
+1285.tegronews.com CNAME .
 1287.gofenews.com CNAME .
 1288.gofenews.com CNAME .
+1288.jemonews.com CNAME .
 1289.luronews.com CNAME .
 1290.gofenews.com CNAME .
 1290.km14hkusz.com CNAME .
@@ -3830,6 +3875,7 @@ $TTL 300
 130.tegronews.com CNAME .
 1300.5clo0xmbf.com CNAME .
 1300.jemonews.com CNAME .
+1300.lookinews.com CNAME .
 1300.reminews.com CNAME .
 1301.gofenews.com CNAME .
 1301.reminews.com CNAME .
@@ -3889,6 +3935,7 @@ $TTL 300
 1325.reminews.com CNAME .
 1326.gofenews.com CNAME .
 1326.lookinews.com CNAME .
+1327.bealanews.com CNAME .
 1327.gofenews.com CNAME .
 1327.reminews.com CNAME .
 1328.gofenews.com CNAME .
@@ -3979,6 +4026,7 @@ $TTL 300
 1376.gofenews.com CNAME .
 1377.gofenews.com CNAME .
 1377.reminews.com CNAME .
+1378.gofenews.com CNAME .
 1378.reminews.com CNAME .
 1379.bealanews.com CNAME .
 1379.gofenews.com CNAME .
@@ -4001,6 +4049,7 @@ $TTL 300
 1386.gofenews.com CNAME .
 1386.reminews.com CNAME .
 1387.gofenews.com CNAME .
+1387.reminews.com CNAME .
 1388.gofenews.com CNAME .
 1388.reminews.com CNAME .
 1389.gofenews.com CNAME .
@@ -4017,6 +4066,7 @@ $TTL 300
 1395.reminews.com CNAME .
 1396.gofenews.com CNAME .
 1396.groovinews.com CNAME .
+1396.reminews.com CNAME .
 1397.reminews.com CNAME .
 1398.gofenews.com CNAME .
 1398.jemonews.com CNAME .
@@ -4045,6 +4095,7 @@ $TTL 300
 1406.gofenews.com CNAME .
 1407.deeginews.com CNAME .
 1407.gofenews.com CNAME .
+1407.reminews.com CNAME .
 1408.reminews.com CNAME .
 1409.bealanews.com CNAME .
 1409.reminews.com CNAME .
@@ -4111,6 +4162,7 @@ $TTL 300
 1455.gofenews.com CNAME .
 1455.seponews.com CNAME .
 1456.gofenews.com CNAME .
+1456.jemonews.com CNAME .
 1456.reminews.com CNAME .
 1457.lootynews.com CNAME .
 1457.reminews.com CNAME .
@@ -4149,6 +4201,7 @@ $TTL 300
 1476.lookinews.com CNAME .
 1476.reminews.com CNAME .
 1477.huronews.com CNAME .
+1477.lookinews.com CNAME .
 1477.reminews.com CNAME .
 1478.lookinews.com CNAME .
 1479.gofenews.com CNAME .
@@ -4202,6 +4255,7 @@ $TTL 300
 15.y2sysv81v.com CNAME .
 150.bestandgreatests.com CNAME .
 150.deeginews.com CNAME .
+150.sifenews.com CNAME .
 1501.gofenews.com CNAME .
 1501.reminews.com CNAME .
 1502.reminews.com CNAME .
@@ -4265,6 +4319,7 @@ $TTL 300
 1532.reminews.com CNAME .
 1533.gofenews.com CNAME .
 1533.reminews.com CNAME .
+1535.gofenews.com CNAME .
 1536.gofenews.com CNAME .
 1537.gofenews.com CNAME .
 1537.reminews.com CNAME .
@@ -4387,6 +4442,7 @@ $TTL 300
 16.jessunews.com CNAME .
 16.wemakebestnews.com CNAME .
 1600.gofenews.com CNAME .
+1600.reminews.com CNAME .
 1601.gofenews.com CNAME .
 1601.lookinews.com CNAME .
 1601.reminews.com CNAME .
@@ -4396,6 +4452,7 @@ $TTL 300
 1604.reminews.com CNAME .
 1606.gofenews.com CNAME .
 1607.gofenews.com CNAME .
+1607.lookinews.com CNAME .
 1608.gofenews.com CNAME .
 1608.lookinews.com CNAME .
 1608.reminews.com CNAME .
@@ -4490,6 +4547,8 @@ $TTL 300
 1665.reminews.com CNAME .
 1666.gofenews.com CNAME .
 1666.ksrtmgoym.com CNAME .
+1667.lookinews.com CNAME .
+1668.reminews.com CNAME .
 1669.gofenews.com CNAME .
 1670.gofenews.com CNAME .
 1670.reminews.com CNAME .
@@ -4533,6 +4592,7 @@ $TTL 300
 17.deeginews.com CNAME .
 17.guesswhatnews.com CNAME .
 17.jessunews.com CNAME .
+17.lookinews.com CNAME .
 17.lycheenews.com CNAME .
 17.tegronews.com CNAME .
 17.wemakebestnews.com CNAME .
@@ -4540,16 +4600,19 @@ $TTL 300
 1700.reminews.com CNAME .
 1701.reminews.com CNAME .
 1702.gofenews.com CNAME .
+1702.lookinews.com CNAME .
 1702.reminews.com CNAME .
 1703.reminews.com CNAME .
 1704.reminews.com CNAME .
 1705.gofenews.com CNAME .
+1705.groovinews.com CNAME .
 1705.reminews.com CNAME .
 1706.freshalldaynews.com CNAME .
 1706.reminews.com CNAME .
 1707.gofenews.com CNAME .
 1707.lookinews.com CNAME .
 1707.reminews.com CNAME .
+1709.rookinews.com CNAME .
 1710.reminews.com CNAME .
 1712.gofenews.com CNAME .
 1712.reminews.com CNAME .
@@ -4614,6 +4677,7 @@ $TTL 300
 1760.gofenews.com CNAME .
 1761.gofenews.com CNAME .
 1761.reminews.com CNAME .
+1762.deeginews.com CNAME .
 1762.gofenews.com CNAME .
 1763.gofenews.com CNAME .
 1764.gofenews.com CNAME .
@@ -4647,7 +4711,9 @@ $TTL 300
 1782.gofenews.com CNAME .
 1783.gofenews.com CNAME .
 1784.reminews.com CNAME .
+1785.gofenews.com CNAME .
 1786.deeginews.com CNAME .
+1786.reminews.com CNAME .
 1787.4puuqeh41.com CNAME .
 1787.gofenews.com CNAME .
 1787.reminews.com CNAME .
@@ -4659,6 +4725,7 @@ $TTL 300
 1792.reminews.com CNAME .
 1793.gofenews.com CNAME .
 1793.jumronews.com CNAME .
+1793.reminews.com CNAME .
 1795.reminews.com CNAME .
 1796.gofenews.com CNAME .
 1797.reminews.com CNAME .
@@ -4678,6 +4745,7 @@ $TTL 300
 1808.gofenews.com CNAME .
 1809.lookinews.com CNAME .
 1812.gofenews.com CNAME .
+1812.huronews.com CNAME .
 1813.gofenews.com CNAME .
 1813.reminews.com CNAME .
 1815.reminews.com CNAME .
@@ -4688,6 +4756,7 @@ $TTL 300
 1820.reminews.com CNAME .
 1821.reminews.com CNAME .
 1822.reminews.com CNAME .
+1823.gofenews.com CNAME .
 1824.gofenews.com CNAME .
 1824.groovinews.com CNAME .
 1825.lookinews.com CNAME .
@@ -4706,6 +4775,7 @@ $TTL 300
 1833.gofenews.com CNAME .
 1834.lookinews.com CNAME .
 1835.url25fatm.com CNAME .
+1836.reminews.com CNAME .
 1837.deeginews.com CNAME .
 1837.reminews.com CNAME .
 1839.gofenews.com CNAME .
@@ -4763,9 +4833,11 @@ $TTL 300
 1886.reminews.com CNAME .
 1888.reminews.com CNAME .
 1889.tegronews.com CNAME .
+189.bestinterestings.com CNAME .
 1891.gofenews.com CNAME .
 1892.gofenews.com CNAME .
 1892.reminews.com CNAME .
+1893.gofenews.com CNAME .
 1894.gofenews.com CNAME .
 1894.reminews.com CNAME .
 1895.reminews.com CNAME .
@@ -4779,6 +4851,7 @@ $TTL 300
 1901.loopanews.com CNAME .
 1901.reminews.com CNAME .
 1904.deeginews.com CNAME .
+1905.bealanews.com CNAME .
 1905.gofenews.com CNAME .
 1905.reminews.com CNAME .
 1906.lookinews.com CNAME .
@@ -4800,11 +4873,13 @@ $TTL 300
 1924.reminews.com CNAME .
 1925.reminews.com CNAME .
 1926.gofenews.com CNAME .
+1926.jemonews.com CNAME .
 1927.luronews.com CNAME .
 1928.huronews.com CNAME .
 1928.lookinews.com CNAME .
 1928.reminews.com CNAME .
 1929.gofenews.com CNAME .
+1929.reminews.com CNAME .
 1929.shockynews.com CNAME .
 1930.gofenews.com CNAME .
 1930.reminews.com CNAME .
@@ -4846,6 +4921,7 @@ $TTL 300
 1963.gofenews.com CNAME .
 1964.reminews.com CNAME .
 1965.gofenews.com CNAME .
+1966.gofenews.com CNAME .
 1967.reminews.com CNAME .
 1969.gofenews.com CNAME .
 1971.gofenews.com CNAME .
@@ -4857,6 +4933,7 @@ $TTL 300
 1973.gofenews.com CNAME .
 1973.reminews.com CNAME .
 1975.gofenews.com CNAME .
+1977.gofenews.com CNAME .
 1977.lookinews.com CNAME .
 1978.gofenews.com CNAME .
 1978.groovinews.com CNAME .
@@ -4867,6 +4944,7 @@ $TTL 300
 1980.lookinews.com CNAME .
 1980.reminews.com CNAME .
 1980.tegronews.com CNAME .
+1982.deeginews.com CNAME .
 1982.gofenews.com CNAME .
 1982.reminews.com CNAME .
 1983.reminews.com CNAME .
@@ -4875,6 +4953,7 @@ $TTL 300
 1986.groovinews.com CNAME .
 1986.reminews.com CNAME .
 1987.jemonews.com CNAME .
+1987.reminews.com CNAME .
 1988.reminews.com CNAME .
 1989.gofenews.com CNAME .
 199.j6t91e89q.com CNAME .
@@ -4882,6 +4961,7 @@ $TTL 300
 1990.reminews.com CNAME .
 1991.gofenews.com CNAME .
 1991.luronews.com CNAME .
+1991.reminews.com CNAME .
 1993.gofenews.com CNAME .
 1993.lookinews.com CNAME .
 1994.reminews.com CNAME .
@@ -4903,6 +4983,7 @@ $TTL 300
 1fgdav.4puuqeh41.com CNAME .
 1fhdgjdghy.lookinews.com CNAME .
 1fyjn6yjn.lookinews.com CNAME .
+1ghp.4puuqeh41.com CNAME .
 1gkmd.4puuqeh41.com CNAME .
 1gndv.4puuqeh41.com CNAME .
 1gyffhuikddif.lycheenews.com CNAME .
@@ -4928,6 +5009,7 @@ $TTL 300
 2005.reminews.com CNAME .
 2006.5clo0xmbf.com CNAME .
 2007.gofenews.com CNAME .
+2007.lootynews.com CNAME .
 2010.gofenews.com CNAME .
 2010.reminews.com CNAME .
 2011.gofenews.com CNAME .
@@ -4952,11 +5034,13 @@ $TTL 300
 2024.jemonews.com CNAME .
 2025.gofenews.com CNAME .
 2025.reminews.com CNAME .
+2027.gofenews.com CNAME .
 2027.groovinews.com CNAME .
 2027.reminews.com CNAME .
 2028.gofenews.com CNAME .
 2028.reminews.com CNAME .
 2029.gofenews.com CNAME .
+2029.huronews.com CNAME .
 2029.lootynews.com CNAME .
 2029.reminews.com CNAME .
 2029.rookinews.com CNAME .
@@ -5061,6 +5145,7 @@ $TTL 300
 2103.gofenews.com CNAME .
 2104.gofenews.com CNAME .
 2104.reminews.com CNAME .
+2105.gofenews.com CNAME .
 2105.lookinews.com CNAME .
 2105.reminews.com CNAME .
 2106.gofenews.com CNAME .
@@ -5103,6 +5188,7 @@ $TTL 300
 2138.79j68qav2.com CNAME .
 2138.gofenews.com CNAME .
 2139.reminews.com CNAME .
+213freg2341.j74y03g8u.com CNAME .
 2140.5clo0xmbf.com CNAME .
 2140.jemonews.com CNAME .
 2142.gofenews.com CNAME .
@@ -5255,14 +5341,18 @@ $TTL 300
 2250.gofenews.com CNAME .
 2250.reminews.com CNAME .
 2252.lootynews.com CNAME .
+2253.gofenews.com CNAME .
+2254.gofenews.com CNAME .
 2254.reminews.com CNAME .
 2255.gofenews.com CNAME .
 2256.lookinews.com CNAME .
 2256.reminews.com CNAME .
 2257.gofenews.com CNAME .
+2258.luronews.com CNAME .
 2260.reminews.com CNAME .
 2262.gofenews.com CNAME .
 2263.gofenews.com CNAME .
+2263.groovinews.com CNAME .
 2263.reminews.com CNAME .
 2264.jemonews.com CNAME .
 2264.reminews.com CNAME .
@@ -5300,8 +5390,11 @@ $TTL 300
 2292.jemonews.com CNAME .
 2293.gofenews.com CNAME .
 2294.reminews.com CNAME .
+2295.reminews.com CNAME .
+2296.bealanews.com CNAME .
 2296.gofenews.com CNAME .
 2296.jumronews.com CNAME .
+2296.lookinews.com CNAME .
 2298.gofenews.com CNAME .
 2298.jemonews.com CNAME .
 2299.bealanews.com CNAME .
@@ -5309,6 +5402,7 @@ $TTL 300
 2299.reminews.com CNAME .
 23.bealanews.com CNAME .
 23.jessunews.com CNAME .
+2301.bealanews.com CNAME .
 2301.reminews.com CNAME .
 2302.gofenews.com CNAME .
 2307.lookinews.com CNAME .
@@ -5318,6 +5412,7 @@ $TTL 300
 2309.reminews.com CNAME .
 231.guesswhatnews.com CNAME .
 2310.4puuqeh41.com CNAME .
+2310.lookinews.com CNAME .
 23109.lycheenews.com CNAME .
 2313.reminews.com CNAME .
 2314.gofenews.com CNAME .
@@ -5334,9 +5429,11 @@ $TTL 300
 2323.jemonews.com CNAME .
 2323.lookinews.com CNAME .
 2323.reminews.com CNAME .
+2324.gofenews.com CNAME .
 2326.groovinews.com CNAME .
 2326.reminews.com CNAME .
 2327.gofenews.com CNAME .
+2328.gofenews.com CNAME .
 2328.reminews.com CNAME .
 2329.bealanews.com CNAME .
 2329.gofenews.com CNAME .
@@ -5376,6 +5473,7 @@ $TTL 300
 2350.reminews.com CNAME .
 2351.luronews.com CNAME .
 2352.gofenews.com CNAME .
+2353.lookinews.com CNAME .
 2354.gofenews.com CNAME .
 2354.reminews.com CNAME .
 2355.gofenews.com CNAME .
@@ -5399,6 +5497,7 @@ $TTL 300
 2372.reminews.com CNAME .
 2373.34gwl8v1a.com CNAME .
 2376.gofenews.com CNAME .
+2377.gofenews.com CNAME .
 2377.reminews.com CNAME .
 2378.5clo0xmbf.com CNAME .
 2378.gofenews.com CNAME .
@@ -5439,6 +5538,7 @@ $TTL 300
 2412.reminews.com CNAME .
 2413.bealanews.com CNAME .
 2413.lookinews.com CNAME .
+2413.reminews.com CNAME .
 2416.gofenews.com CNAME .
 2420.gofenews.com CNAME .
 2421.gofenews.com CNAME .
@@ -5456,6 +5556,7 @@ $TTL 300
 2436.reminews.com CNAME .
 2437.luronews.com CNAME .
 2437.reminews.com CNAME .
+2437.selornews.com CNAME .
 2438.gofenews.com CNAME .
 2438.reminews.com CNAME .
 2439.gofenews.com CNAME .
@@ -5488,6 +5589,7 @@ $TTL 300
 2458.reminews.com CNAME .
 2460.reminews.com CNAME .
 2461.gofenews.com CNAME .
+2461.jemonews.com CNAME .
 2462.luronews.com CNAME .
 2462.reminews.com CNAME .
 2462.shockynews.com CNAME .
@@ -5517,6 +5619,7 @@ $TTL 300
 2484.gofenews.com CNAME .
 2485.gofenews.com CNAME .
 2487.gofenews.com CNAME .
+2487.reminews.com CNAME .
 2490.gofenews.com CNAME .
 2491.reminews.com CNAME .
 2492.gofenews.com CNAME .
@@ -5574,6 +5677,7 @@ $TTL 300
 2529.luronews.com CNAME .
 2530.gofenews.com CNAME .
 2531.reminews.com CNAME .
+2532.gofenews.com CNAME .
 2532.reminews.com CNAME .
 2533.gofenews.com CNAME .
 2534.gofenews.com CNAME .
@@ -5581,6 +5685,7 @@ $TTL 300
 2538.reminews.com CNAME .
 2539.gofenews.com CNAME .
 2539.reminews.com CNAME .
+2541.lilonews.com CNAME .
 2541.loopanews.com CNAME .
 2541.reminews.com CNAME .
 2542.reminews.com CNAME .
@@ -5609,6 +5714,7 @@ $TTL 300
 2561.selornews.com CNAME .
 2561.tegronews.com CNAME .
 2562.gofenews.com CNAME .
+2563.jemonews.com CNAME .
 2564.lookinews.com CNAME .
 2564.reminews.com CNAME .
 2565.reminews.com CNAME .
@@ -5639,6 +5745,7 @@ $TTL 300
 2578.reminews.com CNAME .
 2579.reminews.com CNAME .
 2580.reminews.com CNAME .
+2581.gofenews.com CNAME .
 2582.reminews.com CNAME .
 2583.reminews.com CNAME .
 2584.gofenews.com CNAME .
@@ -5688,6 +5795,7 @@ $TTL 300
 2621.gofenews.com CNAME .
 2622.jemonews.com CNAME .
 2622.reminews.com CNAME .
+2622.shockynews.com CNAME .
 2623.gofenews.com CNAME .
 2624.gofenews.com CNAME .
 2625.jemonews.com CNAME .
@@ -5695,6 +5803,7 @@ $TTL 300
 2628.reminews.com CNAME .
 2631.gofenews.com CNAME .
 2632.reminews.com CNAME .
+2632.rookinews.com CNAME .
 2633.reminews.com CNAME .
 2634.gofenews.com CNAME .
 2634.reminews.com CNAME .
@@ -5720,11 +5829,13 @@ $TTL 300
 2649.reminews.com CNAME .
 2651.gofenews.com CNAME .
 2651.shockynews.com CNAME .
+2652.gofenews.com CNAME .
 2652.reminews.com CNAME .
 2655.gofenews.com CNAME .
 2655.shockynews.com CNAME .
 2656.gofenews.com CNAME .
 2656.reminews.com CNAME .
+2657.luronews.com CNAME .
 2657.reminews.com CNAME .
 2658.gofenews.com CNAME .
 266.lycheenews.com CNAME .
@@ -5746,6 +5857,7 @@ $TTL 300
 2671.reminews.com CNAME .
 2672.reminews.com CNAME .
 2673.gofenews.com CNAME .
+2673.groovinews.com CNAME .
 2673.reminews.com CNAME .
 2674.gofenews.com CNAME .
 2675.reminews.com CNAME .
@@ -5767,9 +5879,11 @@ $TTL 300
 2686.gofenews.com CNAME .
 2687.79j68qav2.com CNAME .
 2688.gofenews.com CNAME .
+2688.jemonews.com CNAME .
 2688.lookinews.com CNAME .
 2688.luronews.com CNAME .
 2689.gofenews.com CNAME .
+2689.huronews.com CNAME .
 2689.reminews.com CNAME .
 2690.groovinews.com CNAME .
 2690.reminews.com CNAME .
@@ -5827,6 +5941,7 @@ $TTL 300
 2735.reminews.com CNAME .
 2736.reminews.com CNAME .
 2737.gofenews.com CNAME .
+2737.reminews.com CNAME .
 2738.reminews.com CNAME .
 2739.reminews.com CNAME .
 2740.gofenews.com CNAME .
@@ -5836,6 +5951,7 @@ $TTL 300
 2743.reminews.com CNAME .
 2744.gofenews.com CNAME .
 2745.reminews.com CNAME .
+2749.gofenews.com CNAME .
 2749.ksrtmgoym.com CNAME .
 2751.reminews.com CNAME .
 2752.gofenews.com CNAME .
@@ -5859,6 +5975,7 @@ $TTL 300
 2765.reminews.com CNAME .
 2766.gofenews.com CNAME .
 2766.reminews.com CNAME .
+2769.gofenews.com CNAME .
 2771.gofenews.com CNAME .
 2773.gofenews.com CNAME .
 2776.lootynews.com CNAME .
@@ -5911,6 +6028,7 @@ $TTL 300
 2818.lootynews.com CNAME .
 2818.reminews.com CNAME .
 2818.selornews.com CNAME .
+2818a.gofenews.com CNAME .
 2818a.reminews.com CNAME .
 2818w.huronews.com CNAME .
 2818w.lootynews.com CNAME .
@@ -5942,10 +6060,12 @@ $TTL 300
 2838.reminews.com CNAME .
 2839.reminews.com CNAME .
 2840.gofenews.com CNAME .
+2840.reminews.com CNAME .
 2844.gofenews.com CNAME .
 2845.reminews.com CNAME .
 2846.gofenews.com CNAME .
 2846.reminews.com CNAME .
+2849.reminews.com CNAME .
 2851.reminews.com CNAME .
 2852.reminews.com CNAME .
 2853.gofenews.com CNAME .
@@ -5990,6 +6110,7 @@ $TTL 300
 2886.reminews.com CNAME .
 2887.jemonews.com CNAME .
 2888.gofenews.com CNAME .
+2888.lookinews.com CNAME .
 2889.reminews.com CNAME .
 289.bestandgreatests.com CNAME .
 289.freshalldaynews.com CNAME .
@@ -6001,7 +6122,9 @@ $TTL 300
 2892.gofenews.com CNAME .
 2893.34gwl8v1a.com CNAME .
 2893.5clo0xmbf.com CNAME .
+2894.gofenews.com CNAME .
 2897.gofenews.com CNAME .
+2898.gofenews.com CNAME .
 29.groovinews.com CNAME .
 2900.reminews.com CNAME .
 2901.gofenews.com CNAME .
@@ -6021,6 +6144,7 @@ $TTL 300
 2915.gofenews.com CNAME .
 2916.79j68qav2.com CNAME .
 2917.gofenews.com CNAME .
+2918.reminews.com CNAME .
 2919.reminews.com CNAME .
 2920.gofenews.com CNAME .
 2921.gofenews.com CNAME .
@@ -6035,6 +6159,7 @@ $TTL 300
 2932.reminews.com CNAME .
 2934.gofenews.com CNAME .
 2935.jemonews.com CNAME .
+2935.reminews.com CNAME .
 2936.gofenews.com CNAME .
 2937.reminews.com CNAME .
 2940.reminews.com CNAME .
@@ -6055,8 +6180,11 @@ $TTL 300
 2955.reminews.com CNAME .
 2958.groovinews.com CNAME .
 2961.gofenews.com CNAME .
+2962.gofenews.com CNAME .
 2962.huronews.com CNAME .
+2962.jemonews.com CNAME .
 2962.reminews.com CNAME .
+2963.selornews.com CNAME .
 2964.gofenews.com CNAME .
 2964.reminews.com CNAME .
 2965.gofenews.com CNAME .
@@ -6077,6 +6205,7 @@ $TTL 300
 2975.sifenews.com CNAME .
 2977.gofenews.com CNAME .
 2979.gofenews.com CNAME .
+2979.loopanews.com CNAME .
 2984.gofenews.com CNAME .
 2989.jemonews.com CNAME .
 2990.reminews.com CNAME .
@@ -6093,6 +6222,7 @@ $TTL 300
 2vik.lycheenews.com CNAME .
 3.deeginews.com CNAME .
 3.findgreatnews.com CNAME .
+3.jessunews.com CNAME .
 3.lookinews.com CNAME .
 3.sifenews.com CNAME .
 3.uyybde07w.com CNAME .
@@ -6103,6 +6233,7 @@ $TTL 300
 3002.reminews.com CNAME .
 3003.gofenews.com CNAME .
 3003.reminews.com CNAME .
+3004.sifenews.com CNAME .
 3006.luronews.com CNAME .
 3007.gofenews.com CNAME .
 3007.sosqboh85.com CNAME .
@@ -6120,12 +6251,14 @@ $TTL 300
 3022.reminews.com CNAME .
 3023.gofenews.com CNAME .
 3025.gofenews.com CNAME .
+3025.jemonews.com CNAME .
 3026.gofenews.com CNAME .
 3027.gofenews.com CNAME .
 3027.reminews.com CNAME .
 3028.gofenews.com CNAME .
 3028.reminews.com CNAME .
 3029.gofenews.com CNAME .
+3029.shockynews.com CNAME .
 3035.reminews.com CNAME .
 3037.gofenews.com CNAME .
 3037.reminews.com CNAME .
@@ -6139,9 +6272,11 @@ $TTL 300
 3047.lootynews.com CNAME .
 3048.reminews.com CNAME .
 3049.gofenews.com CNAME .
+3050.gofenews.com CNAME .
 3050.lookinews.com CNAME .
 3051.reminews.com CNAME .
 3053.loopanews.com CNAME .
+3056.gofenews.com CNAME .
 3057.gofenews.com CNAME .
 3058.gofenews.com CNAME .
 3059.gofenews.com CNAME .
@@ -6154,6 +6289,7 @@ $TTL 300
 3063.lookinews.com CNAME .
 3066.reminews.com CNAME .
 3067.4puuqeh41.com CNAME .
+3067.reminews.com CNAME .
 3068.reminews.com CNAME .
 3070.gofenews.com CNAME .
 3072.bealanews.com CNAME .
@@ -6167,8 +6303,10 @@ $TTL 300
 3086.selornews.com CNAME .
 3088.gofenews.com CNAME .
 3088.luronews.com CNAME .
+3089.reminews.com CNAME .
 3090.gofenews.com CNAME .
 3091.gofenews.com CNAME .
+3092.gofenews.com CNAME .
 3092.reminews.com CNAME .
 3093.gofenews.com CNAME .
 3093.luronews.com CNAME .
@@ -6187,6 +6325,7 @@ $TTL 300
 3118.gofenews.com CNAME .
 3119.gofenews.com CNAME .
 3123.gofenews.com CNAME .
+3124.jemonews.com CNAME .
 3124.reminews.com CNAME .
 3125.deeginews.com CNAME .
 3125.gofenews.com CNAME .
@@ -6200,6 +6339,7 @@ $TTL 300
 3135.gofenews.com CNAME .
 3135.reminews.com CNAME .
 3136.gofenews.com CNAME .
+3137.gofenews.com CNAME .
 3137.lookinews.com CNAME .
 3138.gofenews.com CNAME .
 3138.reminews.com CNAME .
@@ -6212,8 +6352,10 @@ $TTL 300
 3148.gofenews.com CNAME .
 3150.gofenews.com CNAME .
 3151.reminews.com CNAME .
+3155.gofenews.com CNAME .
 3157.jemonews.com CNAME .
 3159.deeginews.com CNAME .
+3159.gofenews.com CNAME .
 3160.reminews.com CNAME .
 3163.gofenews.com CNAME .
 3163.reminews.com CNAME .
@@ -6245,9 +6387,11 @@ $TTL 300
 3187.bealanews.com CNAME .
 3193.gofenews.com CNAME .
 3193.jemonews.com CNAME .
+3195.gofenews.com CNAME .
 3196.reminews.com CNAME .
 3199.gofenews.com CNAME .
 32.findgreatnews.com CNAME .
+32.jumronews.com CNAME .
 32.reminews.com CNAME .
 3200.gofenews.com CNAME .
 3202.gofenews.com CNAME .
@@ -6264,6 +6408,7 @@ $TTL 300
 3212.reminews.com CNAME .
 3213.gofenews.com CNAME .
 3216.reminews.com CNAME .
+3217.gofenews.com CNAME .
 3218.gofenews.com CNAME .
 3220.gofenews.com CNAME .
 3221.deeginews.com CNAME .
@@ -6278,6 +6423,7 @@ $TTL 300
 3233.gofenews.com CNAME .
 3233.reminews.com CNAME .
 3234.bealanews.com CNAME .
+3234.lookinews.com CNAME .
 3238.reminews.com CNAME .
 3239.gofenews.com CNAME .
 3242.reminews.com CNAME .
@@ -6292,6 +6438,7 @@ $TTL 300
 3251.5clo0xmbf.com CNAME .
 3251.groovinews.com CNAME .
 3252.reminews.com CNAME .
+3256.gofenews.com CNAME .
 3258.gofenews.com CNAME .
 3258.seponews.com CNAME .
 3259.gofenews.com CNAME .
@@ -6308,13 +6455,16 @@ $TTL 300
 3273.reminews.com CNAME .
 3274.gofenews.com CNAME .
 3274.reminews.com CNAME .
+3275.gofenews.com CNAME .
 3276.lookinews.com CNAME .
 3277.lookinews.com CNAME .
 3278.gofenews.com CNAME .
 3279.reminews.com CNAME .
 3282.reminews.com CNAME .
+3283.reminews.com CNAME .
 3284.reminews.com CNAME .
 3285.reminews.com CNAME .
+3286.jemonews.com CNAME .
 3286.reminews.com CNAME .
 3287.reminews.com CNAME .
 3288.gofenews.com CNAME .
@@ -6336,9 +6486,11 @@ $TTL 300
 3303.gofenews.com CNAME .
 3304.reminews.com CNAME .
 3305.reminews.com CNAME .
+3306.reminews.com CNAME .
 3308.reminews.com CNAME .
 3310.reminews.com CNAME .
 3311.reminews.com CNAME .
+3312.gofenews.com CNAME .
 3315.luronews.com CNAME .
 3316.reminews.com CNAME .
 3317.bealanews.com CNAME .
@@ -6347,6 +6499,8 @@ $TTL 300
 3322.reminews.com CNAME .
 3323.reminews.com CNAME .
 3325.reminews.com CNAME .
+3326.reminews.com CNAME .
+3327.gofenews.com CNAME .
 3327.reminews.com CNAME .
 3329.gofenews.com CNAME .
 3330.gofenews.com CNAME .
@@ -6359,6 +6513,7 @@ $TTL 300
 3336.gofenews.com CNAME .
 3337.reminews.com CNAME .
 3339.lookinews.com CNAME .
+3342.gofenews.com CNAME .
 3342.reminews.com CNAME .
 3345.luronews.com CNAME .
 3346.reminews.com CNAME .
@@ -6372,7 +6527,9 @@ $TTL 300
 3354.gofenews.com CNAME .
 3355.reminews.com CNAME .
 3356.gofenews.com CNAME .
+3357.gofenews.com CNAME .
 3358.gofenews.com CNAME .
+3359.jemonews.com CNAME .
 3360.reminews.com CNAME .
 3361.gofenews.com CNAME .
 3361.jemonews.com CNAME .
@@ -6416,6 +6573,7 @@ $TTL 300
 3396.gofenews.com CNAME .
 3396.jumronews.com CNAME .
 3396.lookinews.com CNAME .
+3400.loopanews.com CNAME .
 3400.luronews.com CNAME .
 3400.reminews.com CNAME .
 3402.gofenews.com CNAME .
@@ -6423,6 +6581,7 @@ $TTL 300
 3403.gofenews.com CNAME .
 3404.gofenews.com CNAME .
 3404.reminews.com CNAME .
+3407.gofenews.com CNAME .
 3408.gofenews.com CNAME .
 3408.reminews.com CNAME .
 3410.gofenews.com CNAME .
@@ -6486,6 +6645,7 @@ $TTL 300
 346w.gofenews.com CNAME .
 3471.bealanews.com CNAME .
 3473.gofenews.com CNAME .
+3473.lookinews.com CNAME .
 3474.gofenews.com CNAME .
 3476.rookinews.com CNAME .
 3477.reminews.com CNAME .
@@ -6499,6 +6659,7 @@ $TTL 300
 3490.gofenews.com CNAME .
 3490.reminews.com CNAME .
 3491.gofenews.com CNAME .
+3494.lookinews.com CNAME .
 3495.gofenews.com CNAME .
 3495.lookinews.com CNAME .
 3495.rookinews.com CNAME .
@@ -6507,7 +6668,9 @@ $TTL 300
 3497.reminews.com CNAME .
 3499.gofenews.com CNAME .
 35.reminews.com CNAME .
+3500.gofenews.com CNAME .
 3500.reminews.com CNAME .
+3501.gofenews.com CNAME .
 3501.jumronews.com CNAME .
 3502.gofenews.com CNAME .
 3503.gofenews.com CNAME .
@@ -6530,6 +6693,7 @@ $TTL 300
 3527.reminews.com CNAME .
 3528.lookinews.com CNAME .
 3531.gofenews.com CNAME .
+3531.loopanews.com CNAME .
 3531.reminews.com CNAME .
 3532.reminews.com CNAME .
 3533.shockynews.com CNAME .
@@ -6540,6 +6704,7 @@ $TTL 300
 3540.reminews.com CNAME .
 3542.reminews.com CNAME .
 3543.gofenews.com CNAME .
+3543.lootynews.com CNAME .
 3544.gofenews.com CNAME .
 3545.lootynews.com CNAME .
 3547.reminews.com CNAME .
@@ -6557,7 +6722,9 @@ $TTL 300
 3561.reminews.com CNAME .
 3562.gofenews.com CNAME .
 3562.reminews.com CNAME .
+3563.freshalldaynews.com CNAME .
 3563.gofenews.com CNAME .
+3565.gofenews.com CNAME .
 3565.reminews.com CNAME .
 3566.gofenews.com CNAME .
 3567.bealanews.com CNAME .
@@ -6565,6 +6732,7 @@ $TTL 300
 3568.reminews.com CNAME .
 3569.gofenews.com CNAME .
 3569.jemonews.com CNAME .
+3570.lookinews.com CNAME .
 3573.lookinews.com CNAME .
 3574.lookinews.com CNAME .
 3574.luronews.com CNAME .
@@ -6600,6 +6768,7 @@ $TTL 300
 3602.reminews.com CNAME .
 3603.gofenews.com CNAME .
 3604.gofenews.com CNAME .
+3604.rookinews.com CNAME .
 3605.gofenews.com CNAME .
 3605.reminews.com CNAME .
 3606.lookinews.com CNAME .
@@ -6674,6 +6843,7 @@ $TTL 300
 3668.reminews.com CNAME .
 3669.reminews.com CNAME .
 3670.gofenews.com CNAME .
+3670.reminews.com CNAME .
 3671.luronews.com CNAME .
 3671.selornews.com CNAME .
 3672.gofenews.com CNAME .
@@ -6707,6 +6877,7 @@ $TTL 300
 3703.reminews.com CNAME .
 3705.gofenews.com CNAME .
 3705.huronews.com CNAME .
+3706.bealanews.com CNAME .
 3706.reminews.com CNAME .
 3707.reminews.com CNAME .
 3708.reminews.com CNAME .
@@ -6716,6 +6887,7 @@ $TTL 300
 3713.jemonews.com CNAME .
 3713.reminews.com CNAME .
 3714.gofenews.com CNAME .
+3714.luronews.com CNAME .
 3714.reminews.com CNAME .
 3715.gofenews.com CNAME .
 3715.reminews.com CNAME .
@@ -6749,6 +6921,7 @@ $TTL 300
 3744.lookinews.com CNAME .
 3746.gofenews.com CNAME .
 3748.reminews.com CNAME .
+3751.huronews.com CNAME .
 3752.gofenews.com CNAME .
 3752.jemonews.com CNAME .
 3753.gofenews.com CNAME .
@@ -6789,6 +6962,7 @@ $TTL 300
 3817.gofenews.com CNAME .
 3821.gofenews.com CNAME .
 3821.reminews.com CNAME .
+3823.gofenews.com CNAME .
 3824.gofenews.com CNAME .
 3825.reminews.com CNAME .
 3826.gofenews.com CNAME .
@@ -6811,6 +6985,7 @@ $TTL 300
 3843.bealanews.com CNAME .
 3843.gofenews.com CNAME .
 3845.gofenews.com CNAME .
+3847.gofenews.com CNAME .
 3847.reminews.com CNAME .
 3848.gofenews.com CNAME .
 3850.deeginews.com CNAME .
@@ -6820,6 +6995,7 @@ $TTL 300
 3852.reminews.com CNAME .
 3853.bealanews.com CNAME .
 3853.gofenews.com CNAME .
+3853.jemonews.com CNAME .
 3853.reminews.com CNAME .
 3854.gofenews.com CNAME .
 3855.gofenews.com CNAME .
@@ -6844,11 +7020,14 @@ $TTL 300
 3879.reminews.com CNAME .
 3880.5clo0xmbf.com CNAME .
 3881.lookinews.com CNAME .
+3883.reminews.com CNAME .
 3884.gofenews.com CNAME .
+3884.reminews.com CNAME .
 3886.79j68qav2.com CNAME .
 3888.gofenews.com CNAME .
 3890.reminews.com CNAME .
 3891.gofenews.com CNAME .
+3891.jemonews.com CNAME .
 3892.gofenews.com CNAME .
 3892.reminews.com CNAME .
 3893.gofenews.com CNAME .
@@ -6887,6 +7066,7 @@ $TTL 300
 3924.luronews.com CNAME .
 3926.lookinews.com CNAME .
 3927.gofenews.com CNAME .
+3927.luronews.com CNAME .
 3929.gofenews.com CNAME .
 3931.gofenews.com CNAME .
 3932.gofenews.com CNAME .
@@ -6928,6 +7108,7 @@ $TTL 300
 3968.gofenews.com CNAME .
 3968.selornews.com CNAME .
 3969.gofenews.com CNAME .
+3969.lookinews.com CNAME .
 3970.reminews.com CNAME .
 3972.gofenews.com CNAME .
 3972.reminews.com CNAME .
@@ -6939,6 +7120,7 @@ $TTL 300
 3987.gofenews.com CNAME .
 3987.luronews.com CNAME .
 3990.loopanews.com CNAME .
+3990.reminews.com CNAME .
 3992.cosmicnewspulse.com CNAME .
 3992.gofenews.com CNAME .
 3993.gofenews.com CNAME .
@@ -6951,6 +7133,7 @@ $TTL 300
 3br.lycheenews.com CNAME .
 4.findgreatnews.com CNAME .
 4.groovinews.com CNAME .
+4.uyybde07w.com CNAME .
 4.wemakebestnews.com CNAME .
 4.y2sysv81v.com CNAME .
 4000.lookinews.com CNAME .
@@ -6994,6 +7177,7 @@ $TTL 300
 4048.reminews.com CNAME .
 4049.reminews.com CNAME .
 4050.gofenews.com CNAME .
+4050.reminews.com CNAME .
 4051.gofenews.com CNAME .
 4052.seponews.com CNAME .
 4053.gofenews.com CNAME .
@@ -7018,17 +7202,20 @@ $TTL 300
 4066.lycheenews.com CNAME .
 4067.reminews.com CNAME .
 4068.gofenews.com CNAME .
+4068.reminews.com CNAME .
 4069.gofenews.com CNAME .
 4069.reminews.com CNAME .
 4071.reminews.com CNAME .
 4075.gofenews.com CNAME .
 4075.reminews.com CNAME .
+4076.gofenews.com CNAME .
 4077.gofenews.com CNAME .
 4077.reminews.com CNAME .
 4081.gofenews.com CNAME .
 4082.lookinews.com CNAME .
 4085.reminews.com CNAME .
 4087.gofenews.com CNAME .
+4088.jemonews.com CNAME .
 4089.jemonews.com CNAME .
 4089.reminews.com CNAME .
 4091.reminews.com CNAME .
@@ -7078,11 +7265,14 @@ $TTL 300
 4135.gofenews.com CNAME .
 4135.reminews.com CNAME .
 4136.gofenews.com CNAME .
+4136.luronews.com CNAME .
 4136.reminews.com CNAME .
 4137.lookinews.com CNAME .
+4137.selornews.com CNAME .
 4138.reminews.com CNAME .
 4139.gofenews.com CNAME .
 4140.reminews.com CNAME .
+4142.jemonews.com CNAME .
 4143.gofenews.com CNAME .
 4143.reminews.com CNAME .
 4144.luronews.com CNAME .
@@ -7163,6 +7353,7 @@ $TTL 300
 4207.reminews.com CNAME .
 4208.gofenews.com CNAME .
 4208.reminews.com CNAME .
+4209.gofenews.com CNAME .
 4209.reminews.com CNAME .
 4210.reminews.com CNAME .
 4212.reminews.com CNAME .
@@ -7191,7 +7382,9 @@ $TTL 300
 4240.reminews.com CNAME .
 4241.reminews.com CNAME .
 4242.gofenews.com CNAME .
+4242.lootynews.com CNAME .
 4243.gofenews.com CNAME .
+4243.reminews.com CNAME .
 4247.gofenews.com CNAME .
 4248.gofenews.com CNAME .
 4252.jemonews.com CNAME .
@@ -7202,6 +7395,7 @@ $TTL 300
 4262.reminews.com CNAME .
 4263.reminews.com CNAME .
 4264.deeginews.com CNAME .
+4264.luronews.com CNAME .
 4265.reminews.com CNAME .
 4268.gofenews.com CNAME .
 4269.reminews.com CNAME .
@@ -7211,6 +7405,7 @@ $TTL 300
 4275.reminews.com CNAME .
 4277.gofenews.com CNAME .
 4278.bealanews.com CNAME .
+4278.groovinews.com CNAME .
 4281.reminews.com CNAME .
 4282.gofenews.com CNAME .
 4283.reminews.com CNAME .
@@ -7260,6 +7455,7 @@ $TTL 300
 4322.reminews.com CNAME .
 4323.reminews.com CNAME .
 4325.reminews.com CNAME .
+4326.bealanews.com CNAME .
 4326.gofenews.com CNAME .
 4327.luronews.com CNAME .
 4327.reminews.com CNAME .
@@ -7309,6 +7505,7 @@ $TTL 300
 4375.luronews.com CNAME .
 4375.reminews.com CNAME .
 4376.gofenews.com CNAME .
+4376.jemonews.com CNAME .
 4377.lycheenews.com CNAME .
 4377.reminews.com CNAME .
 4378.reminews.com CNAME .
@@ -7333,6 +7530,7 @@ $TTL 300
 4411.reminews.com CNAME .
 4412.reminews.com CNAME .
 4413.reminews.com CNAME .
+4414.reminews.com CNAME .
 4415.reminews.com CNAME .
 4416.gofenews.com CNAME .
 4417.reminews.com CNAME .
@@ -7366,6 +7564,7 @@ $TTL 300
 4441.reminews.com CNAME .
 4443.gofenews.com CNAME .
 4443.reminews.com CNAME .
+4444.jemonews.com CNAME .
 4444.lookinews.com CNAME .
 4444.reminews.com CNAME .
 4446.gofenews.com CNAME .
@@ -7391,6 +7590,7 @@ $TTL 300
 4468.reminews.com CNAME .
 4470.gofenews.com CNAME .
 4470.reminews.com CNAME .
+4472.gofenews.com CNAME .
 4472.jemonews.com CNAME .
 4472.reminews.com CNAME .
 4473.gofenews.com CNAME .
@@ -7414,8 +7614,11 @@ $TTL 300
 4495.gofenews.com CNAME .
 4495.reminews.com CNAME .
 4497.lookinews.com CNAME .
+4499.lookinews.com CNAME .
+4500.jemonews.com CNAME .
 4501.reminews.com CNAME .
 4502.gofenews.com CNAME .
+4502.luronews.com CNAME .
 4503.gofenews.com CNAME .
 4503.reminews.com CNAME .
 4504.gofenews.com CNAME .
@@ -7476,8 +7679,10 @@ $TTL 300
 4550.reminews.com CNAME .
 4551.reminews.com CNAME .
 4553.gofenews.com CNAME .
+4554.reminews.com CNAME .
 4555.gofenews.com CNAME .
 4557.reminews.com CNAME .
+4559.bealanews.com CNAME .
 4559.gofenews.com CNAME .
 4561.gofenews.com CNAME .
 4562.gofenews.com CNAME .
@@ -7531,16 +7736,19 @@ $TTL 300
 4601.gofenews.com CNAME .
 4601.reminews.com CNAME .
 4602.bealanews.com CNAME .
+4602.gofenews.com CNAME .
 4603.gofenews.com CNAME .
 4603.reminews.com CNAME .
 4605.gofenews.com CNAME .
 4606.groovinews.com CNAME .
+4606.lookinews.com CNAME .
 4607.reminews.com CNAME .
 4609.gofenews.com CNAME .
 4609.reminews.com CNAME .
 461.lookinews.com CNAME .
 4610.jemonews.com CNAME .
 4611.gofenews.com CNAME .
+4611.rookinews.com CNAME .
 4612.gofenews.com CNAME .
 4612.lookinews.com CNAME .
 4612.reminews.com CNAME .
@@ -7647,11 +7855,13 @@ $TTL 300
 4693.reminews.com CNAME .
 4694.gofenews.com CNAME .
 4694.lookinews.com CNAME .
+4696.lootynews.com CNAME .
 4696.reminews.com CNAME .
 4698.reminews.com CNAME .
 4699.huronews.com CNAME .
 47.tegronews.com CNAME .
 4700.gofenews.com CNAME .
+4701.lookinews.com CNAME .
 4701.reminews.com CNAME .
 4702.79j68qav2.com CNAME .
 4702.gofenews.com CNAME .
@@ -7674,6 +7884,8 @@ $TTL 300
 4725.gofenews.com CNAME .
 4725.reminews.com CNAME .
 4726.reminews.com CNAME .
+4730.reminews.com CNAME .
+4732.reminews.com CNAME .
 4734.gofenews.com CNAME .
 4735.gofenews.com CNAME .
 4737.reminews.com CNAME .
@@ -7683,6 +7895,7 @@ $TTL 300
 4740.reminews.com CNAME .
 4741.gofenews.com CNAME .
 4741.reminews.com CNAME .
+4742.rookinews.com CNAME .
 4743.gofenews.com CNAME .
 4743.groovinews.com CNAME .
 4743.reminews.com CNAME .
@@ -7713,9 +7926,11 @@ $TTL 300
 4766.lookinews.com CNAME .
 4769.deeginews.com CNAME .
 4771.reminews.com CNAME .
+4772.reminews.com CNAME .
 4773.gofenews.com CNAME .
 4774.bealanews.com CNAME .
 4774.gofenews.com CNAME .
+4774.reminews.com CNAME .
 4775.5clo0xmbf.com CNAME .
 4775.gofenews.com CNAME .
 4775.reminews.com CNAME .
@@ -7732,6 +7947,7 @@ $TTL 300
 4786.reminews.com CNAME .
 4787.reminews.com CNAME .
 4788.reminews.com CNAME .
+4788.selornews.com CNAME .
 4790.reminews.com CNAME .
 4793.reminews.com CNAME .
 4794.reminews.com CNAME .
@@ -7775,6 +7991,7 @@ $TTL 300
 4835.reminews.com CNAME .
 4839.reminews.com CNAME .
 4840.reminews.com CNAME .
+4841.cosmicnewspulse.com CNAME .
 4841.k3718qw08.com CNAME .
 4841.reminews.com CNAME .
 4843.gofenews.com CNAME .
@@ -7832,6 +8049,7 @@ $TTL 300
 4886.gofenews.com CNAME .
 4886.reminews.com CNAME .
 4887.reminews.com CNAME .
+4888.luronews.com CNAME .
 4891.reminews.com CNAME .
 4892.reminews.com CNAME .
 4893.gofenews.com CNAME .
@@ -7842,6 +8060,7 @@ $TTL 300
 4895.reminews.com CNAME .
 4897.gofenews.com CNAME .
 4899.reminews.com CNAME .
+49.bestinterestings.com CNAME .
 4900.lookinews.com CNAME .
 4901.reminews.com CNAME .
 4902.gofenews.com CNAME .
@@ -7860,6 +8079,7 @@ $TTL 300
 4916.gofenews.com CNAME .
 4919.gofenews.com CNAME .
 4923.jumronews.com CNAME .
+4924.lookinews.com CNAME .
 4925.gofenews.com CNAME .
 4926.reminews.com CNAME .
 4929.7bkzlyfvl.com CNAME .
@@ -7873,15 +8093,18 @@ $TTL 300
 4936.reminews.com CNAME .
 4939.gofenews.com CNAME .
 4940.gofenews.com CNAME .
+4942.luronews.com CNAME .
 4944.gofenews.com CNAME .
 4947.gofenews.com CNAME .
 4948.gofenews.com CNAME .
 4949.gofenews.com CNAME .
 4949.jemonews.com CNAME .
+4949.lookinews.com CNAME .
 4950.gofenews.com CNAME .
 4951.7bkzlyfvl.com CNAME .
 4953.gofenews.com CNAME .
 4953.reminews.com CNAME .
+4954.reminews.com CNAME .
 4957.gofenews.com CNAME .
 4961.reminews.com CNAME .
 4964.lookinews.com CNAME .
@@ -7931,7 +8154,9 @@ $TTL 300
 5036.5clo0xmbf.com CNAME .
 5036.reminews.com CNAME .
 5045.lookinews.com CNAME .
+5045.luronews.com CNAME .
 5052.gofenews.com CNAME .
+5053.jemonews.com CNAME .
 5055.lookinews.com CNAME .
 5058.reminews.com CNAME .
 5060.reminews.com CNAME .
@@ -7948,6 +8173,7 @@ $TTL 300
 5094.lookinews.com CNAME .
 5095.lookinews.com CNAME .
 5105.reminews.com CNAME .
+5109.ruranews.com CNAME .
 5114.reminews.com CNAME .
 5117.reminews.com CNAME .
 5118.jemonews.com CNAME .
@@ -7956,6 +8182,7 @@ $TTL 300
 5122.reminews.com CNAME .
 5126.groovinews.com CNAME .
 5126.reminews.com CNAME .
+5128.gofenews.com CNAME .
 5129.gofenews.com CNAME .
 5129.reminews.com CNAME .
 512w.gofenews.com CNAME .
@@ -7967,6 +8194,7 @@ $TTL 300
 51367porh7.lookinews.com CNAME .
 5137.gofenews.com CNAME .
 5139.reminews.com CNAME .
+5139.tegronews.com CNAME .
 5142.bealanews.com CNAME .
 5142.reminews.com CNAME .
 5143.jemonews.com CNAME .
@@ -7986,6 +8214,7 @@ $TTL 300
 517s61.luronews.com CNAME .
 517s61.reminews.com CNAME .
 5180.reminews.com CNAME .
+5183.gofenews.com CNAME .
 5186.reminews.com CNAME .
 5203.lookinews.com CNAME .
 5205.shockynews.com CNAME .
@@ -8002,6 +8231,7 @@ $TTL 300
 5247.reminews.com CNAME .
 5248.jemonews.com CNAME .
 5255.lookinews.com CNAME .
+5260.jumronews.com CNAME .
 5263.4puuqeh41.com CNAME .
 5266.lookinews.com CNAME .
 5271.reminews.com CNAME .
@@ -8039,6 +8269,8 @@ $TTL 300
 5348.5clo0xmbf.com CNAME .
 5352.luronews.com CNAME .
 5353.lookinews.com CNAME .
+5356.reminews.com CNAME .
+5357.gofenews.com CNAME .
 5360.loopanews.com CNAME .
 5365.reminews.com CNAME .
 5374.reminews.com CNAME .
@@ -8050,14 +8282,19 @@ $TTL 300
 5387.gofenews.com CNAME .
 5393.reminews.com CNAME .
 5394.reminews.com CNAME .
+5395.luronews.com CNAME .
+5397.lookinews.com CNAME .
 5404.79j68qav2.com CNAME .
 5404.jumronews.com CNAME .
 5404.lookinews.com CNAME .
 5412.bealanews.com CNAME .
+5412.reminews.com CNAME .
 5416.gofenews.com CNAME .
 5416541.bealanews.com CNAME .
+5424.reminews.com CNAME .
 5426.gofenews.com CNAME .
 5427.jemonews.com CNAME .
+5427.luronews.com CNAME .
 5430.bealanews.com CNAME .
 5434.deeginews.com CNAME .
 5437.luronews.com CNAME .
@@ -8071,21 +8308,25 @@ $TTL 300
 5450.luronews.com CNAME .
 5451.luronews.com CNAME .
 5451.ogrt80r65.com CNAME .
+5453.selornews.com CNAME .
 5454.gofenews.com CNAME .
 5457.lookinews.com CNAME .
 545t470.lookinews.com CNAME .
 5462.reminews.com CNAME .
 5463.lookinews.com CNAME .
+5464.jemonews.com CNAME .
 5466.gofenews.com CNAME .
 5467.gofenews.com CNAME .
 5471.loopanews.com CNAME .
 5475.jemonews.com CNAME .
+5475.shockynews.com CNAME .
 5479.gofenews.com CNAME .
 5481.luronews.com CNAME .
 5482.reminews.com CNAME .
 5484.bealanews.com CNAME .
 5487.reminews.com CNAME .
 5488.lootynews.com CNAME .
+5488.reminews.com CNAME .
 5489.jemonews.com CNAME .
 5493.bealanews.com CNAME .
 5493.jemonews.com CNAME .
@@ -8106,6 +8347,7 @@ $TTL 300
 5513.shockynews.com CNAME .
 5516.gofenews.com CNAME .
 5518.jemonews.com CNAME .
+5527.reminews.com CNAME .
 5531.reminews.com CNAME .
 5533.rookinews.com CNAME .
 5534.reminews.com CNAME .
@@ -8128,6 +8370,7 @@ $TTL 300
 5578.bealanews.com CNAME .
 5578.reminews.com CNAME .
 5579.bealanews.com CNAME .
+5581.reminews.com CNAME .
 5582.lootynews.com CNAME .
 5585.sifenews.com CNAME .
 5586.jemonews.com CNAME .
@@ -8137,6 +8380,7 @@ $TTL 300
 5595.luronews.com CNAME .
 5596.gofenews.com CNAME .
 5597.jessunews.com CNAME .
+5598.gofenews.com CNAME .
 5598.reminews.com CNAME .
 55rtjikredf65.lookinews.com CNAME .
 55rtjikredf65.lycheenews.com CNAME .
@@ -8154,12 +8398,16 @@ $TTL 300
 5631.gofenews.com CNAME .
 5639.lookinews.com CNAME .
 5644.groovinews.com CNAME .
+5645.lookinews.com CNAME .
 5645.luronews.com CNAME .
 5647.reminews.com CNAME .
 5648.reminews.com CNAME .
 564ee1.reminews.com CNAME .
 5652.lookinews.com CNAME .
 5657.gofenews.com CNAME .
+5658.bealanews.com CNAME .
+5662.gofenews.com CNAME .
+5663.jemonews.com CNAME .
 5666.luronews.com CNAME .
 5668.reminews.com CNAME .
 5671.reminews.com CNAME .
@@ -8176,8 +8424,10 @@ $TTL 300
 5691.lookinews.com CNAME .
 5691.rookinews.com CNAME .
 5693.lookinews.com CNAME .
+5694.deeginews.com CNAME .
 5698.bealanews.com CNAME .
 5703.reminews.com CNAME .
+5705.luronews.com CNAME .
 5709.reminews.com CNAME .
 5713.lookinews.com CNAME .
 5715.groovinews.com CNAME .
@@ -8221,6 +8471,7 @@ $TTL 300
 5815.gofenews.com CNAME .
 5819.gofenews.com CNAME .
 5822.loopanews.com CNAME .
+5823.jemonews.com CNAME .
 5830.reminews.com CNAME .
 5832.reminews.com CNAME .
 5833.jemonews.com CNAME .
@@ -8232,6 +8483,7 @@ $TTL 300
 5837.gofenews.com CNAME .
 5838.reminews.com CNAME .
 5843.reminews.com CNAME .
+5847.huronews.com CNAME .
 5849.5clo0xmbf.com CNAME .
 5851.reminews.com CNAME .
 5854.deeginews.com CNAME .
@@ -8241,26 +8493,33 @@ $TTL 300
 5861.gofenews.com CNAME .
 5864.reminews.com CNAME .
 5865.groovinews.com CNAME .
+5867.jumronews.com CNAME .
 5867.reminews.com CNAME .
 5871.gofenews.com CNAME .
 5872.reminews.com CNAME .
 5874.luronews.com CNAME .
 5874.reminews.com CNAME .
 5877.lookinews.com CNAME .
+5879.gofenews.com CNAME .
 5879.tegronews.com CNAME .
 5885.lookinews.com CNAME .
 5887.freshalldaynews.com CNAME .
+5888.luronews.com CNAME .
 5893.lootynews.com CNAME .
 5895.jemonews.com CNAME .
 5896.lookinews.com CNAME .
+5897.deeginews.com CNAME .
 5898.reminews.com CNAME .
 5901.sifenews.com CNAME .
+5903.gofenews.com CNAME .
 5903.groovinews.com CNAME .
 5903.reminews.com CNAME .
 5905.groovinews.com CNAME .
+5909.reminews.com CNAME .
 5910.gofenews.com CNAME .
 5910.reminews.com CNAME .
 5921.deeginews.com CNAME .
+5921.reminews.com CNAME .
 5924.jemonews.com CNAME .
 5924.lycheenews.com CNAME .
 5926.lookinews.com CNAME .
@@ -8291,6 +8550,7 @@ $TTL 300
 5995.gofenews.com CNAME .
 5996.jemonews.com CNAME .
 5997.reminews.com CNAME .
+5br.lycheenews.com CNAME .
 5f467fd8-776a-11eb-a41c-00c0b7e001b8.1422.reminews.com CNAME .
 5f467fd8-776a-11eb-a41c-00c0b7e001b8.4291.reminews.com CNAME .
 5f467fd8-776a-11eb-a41c-00c0b7e001b8.4690.reminews.com CNAME .
@@ -8311,6 +8571,7 @@ $TTL 300
 6016.reminews.com CNAME .
 602.km14hkusz.com CNAME .
 6020.lootynews.com CNAME .
+6021.lookinews.com CNAME .
 6021.luronews.com CNAME .
 6022.deeginews.com CNAME .
 6022.tegronews.com CNAME .
@@ -8326,10 +8587,12 @@ $TTL 300
 6049.gofenews.com CNAME .
 6053.bealanews.com CNAME .
 6053.lookinews.com CNAME .
+6056.gofenews.com CNAME .
 6057.luronews.com CNAME .
 6058.reminews.com CNAME .
 6060.shockynews.com CNAME .
 6062.rookinews.com CNAME .
+6064.shockynews.com CNAME .
 6068.reminews.com CNAME .
 6070.reminews.com CNAME .
 6071.reminews.com CNAME .
@@ -8349,6 +8612,7 @@ $TTL 300
 6096.selornews.com CNAME .
 6102.lookinews.com CNAME .
 6113.gofenews.com CNAME .
+6114.gofenews.com CNAME .
 6117.gofenews.com CNAME .
 6118.reminews.com CNAME .
 6122.reminews.com CNAME .
@@ -8373,11 +8637,13 @@ $TTL 300
 6170.reminews.com CNAME .
 6173.reminews.com CNAME .
 6176.5clo0xmbf.com CNAME .
+6177.lookinews.com CNAME .
 6180.lookinews.com CNAME .
 6184.reminews.com CNAME .
 6189.bealanews.com CNAME .
 6189.reminews.com CNAME .
 6191.lookinews.com CNAME .
+6192.reminews.com CNAME .
 6205.5clo0xmbf.com CNAME .
 6206.lycheenews.com CNAME .
 6208.reminews.com CNAME .
@@ -8400,7 +8666,9 @@ $TTL 300
 6244.jemonews.com CNAME .
 6244.reminews.com CNAME .
 6248.groovinews.com CNAME .
+6250.lookinews.com CNAME .
 6252.lookinews.com CNAME .
+6253.reminews.com CNAME .
 6254.reminews.com CNAME .
 6255.lookinews.com CNAME .
 6256.gofenews.com CNAME .
@@ -8427,15 +8695,18 @@ $TTL 300
 6288.jemonews.com CNAME .
 6288.reminews.com CNAME .
 6290.lookinews.com CNAME .
+6290.reminews.com CNAME .
 6291.reminews.com CNAME .
 6293.shockynews.com CNAME .
 6294.gofenews.com CNAME .
 6296.luronews.com CNAME .
 6297.lookinews.com CNAME .
+6297.shockynews.com CNAME .
 6299.bealanews.com CNAME .
 6300.lookinews.com CNAME .
 6301.reminews.com CNAME .
 6302.jemonews.com CNAME .
+6302.shockynews.com CNAME .
 6304.reminews.com CNAME .
 6310.jemonews.com CNAME .
 6312.reminews.com CNAME .
@@ -8461,6 +8732,7 @@ $TTL 300
 6371.79j68qav2.com CNAME .
 6372.shockynews.com CNAME .
 6373.reminews.com CNAME .
+6375.lootynews.com CNAME .
 6375.reminews.com CNAME .
 6376.reminews.com CNAME .
 6378.groovinews.com CNAME .
@@ -8469,7 +8741,9 @@ $TTL 300
 6381.5clo0xmbf.com CNAME .
 6382.luronews.com CNAME .
 6391.bealanews.com CNAME .
+6392.groovinews.com CNAME .
 6397.lycheenews.com CNAME .
+6400.lookinews.com CNAME .
 6403.lookinews.com CNAME .
 6404.jemonews.com CNAME .
 6404.reminews.com CNAME .
@@ -8482,6 +8756,7 @@ $TTL 300
 6417.reminews.com CNAME .
 6419.jemonews.com CNAME .
 6421.gofenews.com CNAME .
+6423.jemonews.com CNAME .
 6426.gofenews.com CNAME .
 6426.reminews.com CNAME .
 6432.gofenews.com CNAME .
@@ -8489,6 +8764,8 @@ $TTL 300
 6432.luronews.com CNAME .
 6437.4puuqeh41.com CNAME .
 6439.jemonews.com CNAME .
+6445.jemonews.com CNAME .
+6446.jemonews.com CNAME .
 6447.luronews.com CNAME .
 6449.5clo0xmbf.com CNAME .
 6455.reminews.com CNAME .
@@ -8555,6 +8832,8 @@ $TTL 300
 6553.lookinews.com CNAME .
 6554.jemonews.com CNAME .
 6554.reminews.com CNAME .
+6555.luronews.com CNAME .
+6558.groovinews.com CNAME .
 655929.bealanews.com CNAME .
 6561.karponews.com CNAME .
 6562.lootynews.com CNAME .
@@ -8565,6 +8844,7 @@ $TTL 300
 6579.gofenews.com CNAME .
 6582.j6t91e89q.com CNAME .
 6582.lookinews.com CNAME .
+6584.reminews.com CNAME .
 6585.luronews.com CNAME .
 6585.url25fatm.com CNAME .
 6586.shockynews.com CNAME .
@@ -8583,9 +8863,11 @@ $TTL 300
 6618.reminews.com CNAME .
 6620.jemonews.com CNAME .
 6621.reminews.com CNAME .
+6622.bealanews.com CNAME .
 6626.jemonews.com CNAME .
 6632.lookinews.com CNAME .
 6634.reminews.com CNAME .
+6635.jemonews.com CNAME .
 6636.lookinews.com CNAME .
 6637.groovinews.com CNAME .
 6637.jemonews.com CNAME .
@@ -8594,9 +8876,11 @@ $TTL 300
 6641.reminews.com CNAME .
 6642.groovinews.com CNAME .
 6643.79j68qav2.com CNAME .
+6643.jemonews.com CNAME .
 6643.reminews.com CNAME .
 6647.selornews.com CNAME .
 6648.gofenews.com CNAME .
+6648.jumronews.com CNAME .
 6649.reminews.com CNAME .
 6650.gofenews.com CNAME .
 6650.luronews.com CNAME .
@@ -8609,6 +8893,7 @@ $TTL 300
 6659.reminews.com CNAME .
 6659.sifenews.com CNAME .
 666.lycheenews.com CNAME .
+6660.gofenews.com CNAME .
 6661.gofenews.com CNAME .
 6662.gofenews.com CNAME .
 6663.gofenews.com CNAME .
@@ -8620,9 +8905,11 @@ $TTL 300
 6678.bealanews.com CNAME .
 6680.selornews.com CNAME .
 6681.luronews.com CNAME .
+6681.shockynews.com CNAME .
 6685.reminews.com CNAME .
 6687.luronews.com CNAME .
 6688.groovinews.com CNAME .
+6691.lookinews.com CNAME .
 6692.gofenews.com CNAME .
 6692.reminews.com CNAME .
 6695.reminews.com CNAME .
@@ -8665,6 +8952,7 @@ $TTL 300
 6768.l5eamr17d.com CNAME .
 6770.gofenews.com CNAME .
 6774.reminews.com CNAME .
+6774.shockynews.com CNAME .
 6776.reminews.com CNAME .
 6783.gofenews.com CNAME .
 6791.reminews.com CNAME .
@@ -8680,6 +8968,7 @@ $TTL 300
 6820.gofenews.com CNAME .
 6820.reminews.com CNAME .
 6821.gofenews.com CNAME .
+6822.jemonews.com CNAME .
 6822.reminews.com CNAME .
 6830.bealanews.com CNAME .
 6831.gofenews.com CNAME .
@@ -8708,6 +8997,7 @@ $TTL 300
 6874.jumronews.com CNAME .
 6876.jumronews.com CNAME .
 6877.jemonews.com CNAME .
+6880.reminews.com CNAME .
 6882.5clo0xmbf.com CNAME .
 6884.lookinews.com CNAME .
 6891.groovinews.com CNAME .
@@ -8756,6 +9046,7 @@ $TTL 300
 6983.reminews.com CNAME .
 6987.l5eamr17d.com CNAME .
 699.bestinterestings.com CNAME .
+6990.reminews.com CNAME .
 6991.groovinews.com CNAME .
 6992.luronews.com CNAME .
 6995.ksrtmgoym.com CNAME .
@@ -8768,6 +9059,7 @@ $TTL 300
 7.uyybde07w.com CNAME .
 7.y2sysv81v.com CNAME .
 7000.jemonews.com CNAME .
+7003.gofenews.com CNAME .
 7005.luronews.com CNAME .
 7009.reminews.com CNAME .
 7011.jemonews.com CNAME .
@@ -8780,6 +9072,7 @@ $TTL 300
 7020.gofenews.com CNAME .
 7021.gofenews.com CNAME .
 7021.reminews.com CNAME .
+7025.jemonews.com CNAME .
 7026.jemonews.com CNAME .
 7027.deeginews.com CNAME .
 7031.gofenews.com CNAME .
@@ -8828,6 +9121,7 @@ $TTL 300
 7115.jemonews.com CNAME .
 7118.gofenews.com CNAME .
 7122.jemonews.com CNAME .
+7123.jemonews.com CNAME .
 7129.reminews.com CNAME .
 713.lycheenews.com CNAME .
 7134.jemonews.com CNAME .
@@ -8871,6 +9165,7 @@ $TTL 300
 7199.shockynews.com CNAME .
 7202.selornews.com CNAME .
 7204.freshalldaynews.com CNAME .
+7204.lookinews.com CNAME .
 7204.shockynews.com CNAME .
 7208.5clo0xmbf.com CNAME .
 7209.reminews.com CNAME .
@@ -8878,6 +9173,7 @@ $TTL 300
 7210.shockynews.com CNAME .
 7212.jemonews.com CNAME .
 7212.reminews.com CNAME .
+7219.lookinews.com CNAME .
 7219.selornews.com CNAME .
 7220.lookinews.com CNAME .
 7221.bealanews.com CNAME .
@@ -8899,14 +9195,17 @@ $TTL 300
 7242.reminews.com CNAME .
 7243.gofenews.com CNAME .
 7244.reminews.com CNAME .
+7247.jemonews.com CNAME .
 7248.reminews.com CNAME .
 7249.lootynews.com CNAME .
+7249.shockynews.com CNAME .
 7250.reminews.com CNAME .
 7251.reminews.com CNAME .
 7252.jemonews.com CNAME .
 7254.reminews.com CNAME .
 7254.tegronews.com CNAME .
 7256.reminews.com CNAME .
+7257.reminews.com CNAME .
 7261.gofenews.com CNAME .
 7267.jemonews.com CNAME .
 7267.luronews.com CNAME .
@@ -8917,6 +9216,7 @@ $TTL 300
 7276.reminews.com CNAME .
 7277.luronews.com CNAME .
 7279.5clo0xmbf.com CNAME .
+7280.reminews.com CNAME .
 7281.bestinterestings.com CNAME .
 7282.shockynews.com CNAME .
 7290.luronews.com CNAME .
@@ -8941,8 +9241,11 @@ $TTL 300
 7354.rookinews.com CNAME .
 7355.gofenews.com CNAME .
 7359.reminews.com CNAME .
+736.jemonews.com CNAME .
 7361.jemonews.com CNAME .
 7363.groovinews.com CNAME .
+7363.lookinews.com CNAME .
+7365.lookinews.com CNAME .
 7371.gofenews.com CNAME .
 7374.reminews.com CNAME .
 7386.jemonews.com CNAME .
@@ -8952,11 +9255,13 @@ $TTL 300
 7398.deeginews.com CNAME .
 7398.lookinews.com CNAME .
 7402.lootynews.com CNAME .
+7408.huronews.com CNAME .
 7412.reminews.com CNAME .
 7418.jemonews.com CNAME .
 7423.gofenews.com CNAME .
 7425.jemonews.com CNAME .
 7428.sosqboh85.com CNAME .
+7430.jumronews.com CNAME .
 7431.reminews.com CNAME .
 7433.5clo0xmbf.com CNAME .
 7437.gofenews.com CNAME .
@@ -8996,6 +9301,7 @@ $TTL 300
 7497.gofenews.com CNAME .
 7498.groovinews.com CNAME .
 7500.gofenews.com CNAME .
+7501.reminews.com CNAME .
 7503.reminews.com CNAME .
 7507.gofenews.com CNAME .
 7511.bealanews.com CNAME .
@@ -9018,6 +9324,7 @@ $TTL 300
 7561.gofenews.com CNAME .
 7568.gofenews.com CNAME .
 7573.sifenews.com CNAME .
+7576.gofenews.com CNAME .
 7576.reminews.com CNAME .
 7584.luronews.com CNAME .
 7588.shockynews.com CNAME .
@@ -9029,6 +9336,7 @@ $TTL 300
 7599.groovinews.com CNAME .
 7601.833enmhob.com CNAME .
 7601.gofenews.com CNAME .
+7601.jumronews.com CNAME .
 7604.5clo0xmbf.com CNAME .
 7606.bealanews.com CNAME .
 7610.luronews.com CNAME .
@@ -9039,6 +9347,7 @@ $TTL 300
 7619.reminews.com CNAME .
 7622.reminews.com CNAME .
 7624.reminews.com CNAME .
+7629.jemonews.com CNAME .
 7629.reminews.com CNAME .
 7629.selornews.com CNAME .
 7630.jemonews.com CNAME .
@@ -9067,6 +9376,7 @@ $TTL 300
 7674.gofenews.com CNAME .
 7676.lookinews.com CNAME .
 7679.gofenews.com CNAME .
+7680.luronews.com CNAME .
 7681.jemonews.com CNAME .
 7684.shockynews.com CNAME .
 7687.groovinews.com CNAME .
@@ -9080,6 +9390,7 @@ $TTL 300
 770.th2mbxzqe.com CNAME .
 7706.4e8bjpldk.com CNAME .
 771.lycheenews.com CNAME .
+7713.jumronews.com CNAME .
 7716.5clo0xmbf.com CNAME .
 7717.gofenews.com CNAME .
 7723.reminews.com CNAME .
@@ -9091,6 +9402,7 @@ $TTL 300
 7737.lookinews.com CNAME .
 7742.gofenews.com CNAME .
 7745.reminews.com CNAME .
+7747.reminews.com CNAME .
 7764.selornews.com CNAME .
 7767.gofenews.com CNAME .
 7768.lookinews.com CNAME .
@@ -9121,10 +9433,12 @@ $TTL 300
 7818.gofenews.com CNAME .
 7818.reminews.com CNAME .
 7822.jemonews.com CNAME .
+7822.rookinews.com CNAME .
 7829.gofenews.com CNAME .
 7831.reminews.com CNAME .
 7832.reminews.com CNAME .
 7834.jemonews.com CNAME .
+7839.reminews.com CNAME .
 7844.guesswhatnews.com CNAME .
 7849.reminews.com CNAME .
 7858.reminews.com CNAME .
@@ -9140,6 +9454,7 @@ $TTL 300
 7875.lookinews.com CNAME .
 7875.reminews.com CNAME .
 7875.tegronews.com CNAME .
+7881.lookinews.com CNAME .
 7884.reminews.com CNAME .
 7885.reminews.com CNAME .
 7889.jumronews.com CNAME .
@@ -9147,11 +9462,13 @@ $TTL 300
 7890.lookinews.com CNAME .
 7892.5clo0xmbf.com CNAME .
 7892.lookinews.com CNAME .
+7893.bealanews.com CNAME .
 7893.gofenews.com CNAME .
 7894.79j68qav2.com CNAME .
 7894.reminews.com CNAME .
 7897.gofenews.com CNAME .
 7898.jemonews.com CNAME .
+7908.deeginews.com CNAME .
 7908.gofenews.com CNAME .
 7908.jemonews.com CNAME .
 7914.jumronews.com CNAME .
@@ -9208,6 +9525,7 @@ $TTL 300
 8029.loopanews.com CNAME .
 8030.bealanews.com CNAME .
 8034.gofenews.com CNAME .
+8036.reminews.com CNAME .
 8041.lookinews.com CNAME .
 8044.reminews.com CNAME .
 8048.lootynews.com CNAME .
@@ -9246,6 +9564,7 @@ $TTL 300
 8110.lookinews.com CNAME .
 8116.reminews.com CNAME .
 8120.guesswhatnews.com CNAME .
+8121.reminews.com CNAME .
 8126.l5eamr17d.com CNAME .
 8127.reminews.com CNAME .
 8128.lookinews.com CNAME .
@@ -9296,9 +9615,11 @@ $TTL 300
 8238.jemonews.com CNAME .
 8243.reminews.com CNAME .
 8245.gofenews.com CNAME .
+8245.luronews.com CNAME .
 8246.deeginews.com CNAME .
 8248.zgoa097eh.com CNAME .
 8250.rookinews.com CNAME .
+8252.jemonews.com CNAME .
 8255.gofenews.com CNAME .
 8255.lookinews.com CNAME .
 8255.reminews.com CNAME .
@@ -9308,6 +9629,7 @@ $TTL 300
 8268.gofenews.com CNAME .
 8270.groovinews.com CNAME .
 8274.jemonews.com CNAME .
+8275.bealanews.com CNAME .
 8275.lootynews.com CNAME .
 8281.reminews.com CNAME .
 8282.lookinews.com CNAME .
@@ -9323,11 +9645,13 @@ $TTL 300
 8309.luronews.com CNAME .
 8314.luronews.com CNAME .
 8314.lycheenews.com CNAME .
+8315.sifenews.com CNAME .
 8324.reminews.com CNAME .
 8325.reminews.com CNAME .
 8326.deeginews.com CNAME .
 8328.groovinews.com CNAME .
 8330.reminews.com CNAME .
+8330.shockynews.com CNAME .
 8333.jemonews.com CNAME .
 8334.luronews.com CNAME .
 8336.reminews.com CNAME .
@@ -9349,9 +9673,11 @@ $TTL 300
 8358.lookinews.com CNAME .
 8362.jemonews.com CNAME .
 8365.groovinews.com CNAME .
+8366.jumronews.com CNAME .
 8367.jemonews.com CNAME .
 8368.jemonews.com CNAME .
 8371.gofenews.com CNAME .
+8372.bealanews.com CNAME .
 8374.lookinews.com CNAME .
 8377.deeginews.com CNAME .
 8378.gofenews.com CNAME .
@@ -9361,6 +9687,7 @@ $TTL 300
 8384.reminews.com CNAME .
 8386.reminews.com CNAME .
 8387.gofenews.com CNAME .
+8387.reminews.com CNAME .
 8389.gofenews.com CNAME .
 839.jemonews.com CNAME .
 8390.jemonews.com CNAME .
@@ -9376,13 +9703,19 @@ $TTL 300
 8409.gofenews.com CNAME .
 8409.lookinews.com CNAME .
 8412.reminews.com CNAME .
+8416.deeginews.com CNAME .
 8419.loopanews.com CNAME .
+8420.gofenews.com CNAME .
 8422.gofenews.com CNAME .
 8429.gofenews.com CNAME .
+8429.reminews.com CNAME .
 8430.jemonews.com CNAME .
+8430.reminews.com CNAME .
 8432.5clo0xmbf.com CNAME .
 8433.gofenews.com CNAME .
 8433.reminews.com CNAME .
+8437.gofenews.com CNAME .
+8437.loopanews.com CNAME .
 8439.gofenews.com CNAME .
 8441.reminews.com CNAME .
 8445.jemonews.com CNAME .
@@ -9397,6 +9730,7 @@ $TTL 300
 8461.groovinews.com CNAME .
 8462.reminews.com CNAME .
 8463.lookinews.com CNAME .
+8463.reminews.com CNAME .
 8466.gofenews.com CNAME .
 8467.jemonews.com CNAME .
 8467.selornews.com CNAME .
@@ -9424,18 +9758,21 @@ $TTL 300
 85037.groovinews.com CNAME .
 8504.deeginews.com CNAME .
 8504.reminews.com CNAME .
+8507.bealanews.com CNAME .
 8508.jumronews.com CNAME .
 8508.reminews.com CNAME .
 8510.groovinews.com CNAME .
 8511.lycheenews.com CNAME .
 8514.gofenews.com CNAME .
 8514.reminews.com CNAME .
+8517.reminews.com CNAME .
 8520.lootynews.com CNAME .
 8521.lookinews.com CNAME .
 8523.gofenews.com CNAME .
 8523.jemonews.com CNAME .
 8529.lookinews.com CNAME .
 8532.sifenews.com CNAME .
+8536.jemonews.com CNAME .
 8540.groovinews.com CNAME .
 8542.rookinews.com CNAME .
 8546.gofenews.com CNAME .
@@ -9449,6 +9786,7 @@ $TTL 300
 8564.selornews.com CNAME .
 8565.groovinews.com CNAME .
 8568392.79j68qav2.com CNAME .
+8569.groovinews.com CNAME .
 8571.gofenews.com CNAME .
 8580.luronews.com CNAME .
 8582.reminews.com CNAME .
@@ -9468,9 +9806,12 @@ $TTL 300
 8603.reminews.com CNAME .
 8604.jemonews.com CNAME .
 8606.lootynews.com CNAME .
+8610.groovinews.com CNAME .
 8612.lookinews.com CNAME .
 8613.gofenews.com CNAME .
+8613.luronews.com CNAME .
 8616.gofenews.com CNAME .
+8616.jemonews.com CNAME .
 8617.deeginews.com CNAME .
 8622.gofenews.com CNAME .
 8623.reminews.com CNAME .
@@ -9505,7 +9846,9 @@ $TTL 300
 8691.tegronews.com CNAME .
 8692.jemonews.com CNAME .
 8701.reminews.com CNAME .
+8702.reminews.com CNAME .
 8705.reminews.com CNAME .
+8705.rookinews.com CNAME .
 8709.luronews.com CNAME .
 8712.reminews.com CNAME .
 8715.bestinterestings.com CNAME .
@@ -9518,10 +9861,12 @@ $TTL 300
 8743.luronews.com CNAME .
 8744.gofenews.com CNAME .
 8756.luronews.com CNAME .
+8759.bestinterestings.com CNAME .
 8761.reminews.com CNAME .
 8762.ksrtmgoym.com CNAME .
 8763.reminews.com CNAME .
 8766.reminews.com CNAME .
+8769.jemonews.com CNAME .
 8773.lookinews.com CNAME .
 8774.jemonews.com CNAME .
 8775.reminews.com CNAME .
@@ -9534,6 +9879,7 @@ $TTL 300
 8794.reminews.com CNAME .
 8795.sifenews.com CNAME .
 8796.jemonews.com CNAME .
+8799.lookinews.com CNAME .
 8806.groovinews.com CNAME .
 8807.lookinews.com CNAME .
 8808.gofenews.com CNAME .
@@ -9543,6 +9889,7 @@ $TTL 300
 8827.gofenews.com CNAME .
 8827.jemonews.com CNAME .
 8831.bealanews.com CNAME .
+8833.gofenews.com CNAME .
 8835.gofenews.com CNAME .
 8835.groovinews.com CNAME .
 8839.reminews.com CNAME .
@@ -9565,6 +9912,7 @@ $TTL 300
 8875.reminews.com CNAME .
 8877.lootynews.com CNAME .
 8881.reminews.com CNAME .
+8883.reminews.com CNAME .
 8884.lookinews.com CNAME .
 8886.jemonews.com CNAME .
 8887.lookinews.com CNAME .
@@ -9580,6 +9928,7 @@ $TTL 300
 8905.gofenews.com CNAME .
 8907.lookinews.com CNAME .
 8909.gofenews.com CNAME .
+8910.lookinews.com CNAME .
 8913.jemonews.com CNAME .
 8914.reminews.com CNAME .
 8919.reminews.com CNAME .
@@ -9587,6 +9936,7 @@ $TTL 300
 8920.reminews.com CNAME .
 8922.luronews.com CNAME .
 8924.lootynews.com CNAME .
+8925.reminews.com CNAME .
 8927.jemonews.com CNAME .
 8929.jumronews.com CNAME .
 8931.lookinews.com CNAME .
@@ -9601,6 +9951,7 @@ $TTL 300
 8947.gofenews.com CNAME .
 8949.bealanews.com CNAME .
 8951.bealanews.com CNAME .
+8952.lookinews.com CNAME .
 8954.reminews.com CNAME .
 8958.deeginews.com CNAME .
 8961.jemonews.com CNAME .
@@ -9638,6 +9989,7 @@ $TTL 300
 9013.deeginews.com CNAME .
 9019.reminews.com CNAME .
 9023.jemonews.com CNAME .
+9026.lookinews.com CNAME .
 9029.jemonews.com CNAME .
 9031.lookinews.com CNAME .
 9034.loopanews.com CNAME .
@@ -9676,12 +10028,14 @@ $TTL 300
 9102.deeginews.com CNAME .
 9102.lookinews.com CNAME .
 9103.gofenews.com CNAME .
+9103.reminews.com CNAME .
 9104.5clo0xmbf.com CNAME .
 9104.selornews.com CNAME .
 9106.gofenews.com CNAME .
 9110.luronews.com CNAME .
 9113.5clo0xmbf.com CNAME .
 9116.lookinews.com CNAME .
+9119.bealanews.com CNAME .
 9125.gofenews.com CNAME .
 9127.jemonews.com CNAME .
 9129.reminews.com CNAME .
@@ -9740,12 +10094,15 @@ $TTL 300
 9263.jumronews.com CNAME .
 9267.gofenews.com CNAME .
 9269.jemonews.com CNAME .
+9274.huronews.com CNAME .
 9275.lycheenews.com CNAME .
 9276.shockynews.com CNAME .
 9277.gofenews.com CNAME .
 9280.833enmhob.com CNAME .
+9280.bestinterestings.com CNAME .
 9280.reminews.com CNAME .
 9281.rookinews.com CNAME .
+9283.reminews.com CNAME .
 9284.gofenews.com CNAME .
 9284.reminews.com CNAME .
 9286.lookinews.com CNAME .
@@ -9759,6 +10116,7 @@ $TTL 300
 9303.gofenews.com CNAME .
 9305.lycheenews.com CNAME .
 9305.reminews.com CNAME .
+9307.l5eamr17d.com CNAME .
 9308.gofenews.com CNAME .
 9310.lookinews.com CNAME .
 9312.gofenews.com CNAME .
@@ -9808,6 +10166,7 @@ $TTL 300
 9414.jemonews.com CNAME .
 9416.reminews.com CNAME .
 9420.lookinews.com CNAME .
+9421.deeginews.com CNAME .
 9421.luronews.com CNAME .
 9425.gofenews.com CNAME .
 9428.groovinews.com CNAME .
@@ -9855,6 +10214,7 @@ $TTL 300
 9546.reminews.com CNAME .
 9547.jemonews.com CNAME .
 9547.reminews.com CNAME .
+9550.shockynews.com CNAME .
 9551.luronews.com CNAME .
 9552.reminews.com CNAME .
 9554.reminews.com CNAME .
@@ -9873,7 +10233,9 @@ $TTL 300
 9568.jemonews.com CNAME .
 9574.reminews.com CNAME .
 9578.jumronews.com CNAME .
+9581.reminews.com CNAME .
 9582.gofenews.com CNAME .
+9582.sifenews.com CNAME .
 9584.5clo0xmbf.com CNAME .
 9584.reminews.com CNAME .
 9591.5clo0xmbf.com CNAME .
@@ -9912,6 +10274,7 @@ $TTL 300
 9655.lootynews.com CNAME .
 9656.luronews.com CNAME .
 9661.jemonews.com CNAME .
+9662.gofenews.com CNAME .
 9662.groovinews.com CNAME .
 9662.jemonews.com CNAME .
 9662.selornews.com CNAME .
@@ -9927,6 +10290,7 @@ $TTL 300
 9672.shockynews.com CNAME .
 9673.gofenews.com CNAME .
 9681.jemonews.com CNAME .
+9682.reminews.com CNAME .
 9684.gofenews.com CNAME .
 9686.lookinews.com CNAME .
 9686.reminews.com CNAME .
@@ -9957,6 +10321,7 @@ $TTL 300
 9744.lookinews.com CNAME .
 9745.lookinews.com CNAME .
 9746.34gwl8v1a.com CNAME .
+9748.lookinews.com CNAME .
 9749.lookinews.com CNAME .
 9749.reminews.com CNAME .
 9751.jemonews.com CNAME .
@@ -9968,11 +10333,13 @@ $TTL 300
 9762.groovinews.com CNAME .
 9768.reminews.com CNAME .
 9768.sifenews.com CNAME .
+9772.gofenews.com CNAME .
 9772.tsmt5revp.com CNAME .
 9778.gofenews.com CNAME .
 9779.lookinews.com CNAME .
 9779.reminews.com CNAME .
 9782.reminews.com CNAME .
+9783.lootynews.com CNAME .
 9788.jemonews.com CNAME .
 9788.lookinews.com CNAME .
 9790.jemonews.com CNAME .
@@ -10045,6 +10412,7 @@ $TTL 300
 9940.reminews.com CNAME .
 9940.w23eidn9j.com CNAME .
 9941.bealanews.com CNAME .
+9945.jemonews.com CNAME .
 9946.lootynews.com CNAME .
 9948.bealanews.com CNAME .
 9952.lookinews.com CNAME .
@@ -10056,6 +10424,7 @@ $TTL 300
 9965.gofenews.com CNAME .
 9967.34gwl8v1a.com CNAME .
 9967.reminews.com CNAME .
+9974.reminews.com CNAME .
 9975.jemonews.com CNAME .
 9982.gofenews.com CNAME .
 999.bealanews.com CNAME .
@@ -10064,6 +10433,7 @@ $TTL 300
 9999.loopanews.com CNAME .
 999xxxdtn555111.j74y03g8u.com CNAME .
 9br.lycheenews.com CNAME .
+9u12sw4aa591h3hg.berunews.com CNAME .
 a.berunews.com CNAME .
 a.gumanews.com CNAME .
 a.sorinews.com CNAME .
@@ -10105,10 +10475,14 @@ bb3.newsbeala.com CNAME .
 bb3.tegronews.com CNAME .
 bi.sifenews.com CNAME .
 bi.terranewsblast.com CNAME .
+bingo.aomg5bzv7.com CNAME .
+bonus.groovinews.com CNAME .
 bonus.jumronews.com CNAME .
 bonus.lookinews.com CNAME .
+book.aomg5bzv7.com CNAME .
 bor2004.lookinews.com CNAME .
 bor555.guesswhatnews.com CNAME .
+box1.aomg5bzv7.com CNAME .
 br11.groovinews.com CNAME .
 br13.groovinews.com CNAME .
 br14.groovinews.com CNAME .
@@ -10128,8 +10502,10 @@ chem.aomg5bzv7.com CNAME .
 chi.aomg5bzv7.com CNAME .
 click.uho5m96ej.com CNAME .
 clickdila.uho5m96ej.com CNAME .
+clip.aomg5bzv7.com CNAME .
 cloudflare-resolve-to.aomg5bzv7.com CNAME .
 compras.aomg5bzv7.com CNAME .
+cultura.aomg5bzv7.com CNAME .
 dan100.lookinews.com CNAME .
 dao.uho5m96ej.com CNAME .
 db.aomg5bzv7.com CNAME .
@@ -10137,6 +10513,7 @@ dbc0b6e0-bb82-4576-919a-d1e0f92f3940.2818.reminews.com CNAME .
 dd1.bealanews.com CNAME .
 dd3.bealanews.com CNAME .
 dd5.lookinews.com CNAME .
+demos.aomg5bzv7.com CNAME .
 dir.aomg5bzv7.com CNAME .
 dkfnv.lycheenews.com CNAME .
 doik.lycheenews.com CNAME .
@@ -10144,9 +10521,11 @@ doikimy.lycheenews.com CNAME .
 dz100.cosmicnewspulse.com CNAME .
 election.aomg5bzv7.com CNAME .
 engine.aomg5bzv7.com CNAME .
+enquete.aomg5bzv7.com CNAME .
 europa.aomg5bzv7.com CNAME .
 f1.jumronews.com CNAME .
 f3.bealanews.com CNAME .
+f4.groovinews.com CNAME .
 f4.karponews.com CNAME .
 f425512.bealanews.com CNAME .
 f7.shockynews.com CNAME .
@@ -10170,8 +10549,10 @@ fifofi3o32o21.x4q4g2zy7.com CNAME .
 fifofi3o32o21.zgoa097eh.com CNAME .
 files.aomg5bzv7.com CNAME .
 filme.aomg5bzv7.com CNAME .
+finance.aomg5bzv7.com CNAME .
 fjfiu432ii2uj.jumronews.com CNAME .
 fjfu46xx.jumronews.com CNAME .
+fre34f42q141.pr0xqyrgl.com CNAME .
 freemoney.jumronews.com CNAME .
 freemoney.lookinews.com CNAME .
 freepresent.groovinews.com CNAME .
@@ -10179,17 +10560,21 @@ freepresent.reminews.com CNAME .
 freepresent.tegronews.com CNAME .
 freepresentforyou.groovinews.com CNAME .
 freepresentforyou.sifenews.com CNAME .
+ftp.forum.aomg5bzv7.com CNAME .
 fuji.aomg5bzv7.com CNAME .
 g6m2moam0pfb1kh2.quicknewssurge.com CNAME .
+gamers.aomg5bzv7.com CNAME .
 ge2rg4112.z00yy6tg2.com CNAME .
 ge2rg49112.w23eidn9j.com CNAME .
 genius.aomg5bzv7.com CNAME .
 gerg422.bealanews.com CNAME .
+germany.aomg5bzv7.com CNAME .
 get.aomg5bzv7.com CNAME .
 gg33r3fvg.jumronews.com CNAME .
 gg35r4fvg.jumronews.com CNAME .
 ggetr43fvg.shockynews.com CNAME .
 gosorte4321.tsmt5revp.com CNAME .
+green.aomg5bzv7.com CNAME .
 grirkd215r4d22.7k11547nc.com CNAME .
 gyujr367t4g.zgoa097eh.com CNAME .
 h3.groovinews.com CNAME .
@@ -10204,15 +10589,18 @@ h4.lookinews.com CNAME .
 h5.groovinews.com CNAME .
 h5.jumronews.com CNAME .
 h7.bealanews.com CNAME .
+h7.jumronews.com CNAME .
 h8.bealanews.com CNAME .
 h8.shockynews.com CNAME .
 h8.tegronews.com CNAME .
 h9.guesswhatnews.com CNAME .
 h9.tegronews.com CNAME .
+helm.aomg5bzv7.com CNAME .
 hkuy78i99i9.lookinews.com CNAME .
 hostmaster.gofenews.com CNAME .
 hostmaster.selornews.com CNAME .
 hotcontent.tsmt5revp.com CNAME .
+hotspot.aomg5bzv7.com CNAME .
 hotsvideo374216x.4e8bjpldk.com CNAME .
 hotvideoaugust.shockynews.com CNAME .
 hotvideos18plus.loopanews.com CNAME .
@@ -10221,6 +10609,7 @@ hotvideos4726.34gwl8v1a.com CNAME .
 htrtb24532gfdger24gs.jumronews.com CNAME .
 htyj4hye4t3yhs34.j74y03g8u.com CNAME .
 htyj4hyet3yhs43.jumronews.com CNAME .
+hw70f395eb456e.aomg5bzv7.com CNAME .
 i0.bealanews.com CNAME .
 i0.jumronews.com CNAME .
 i0.lookinews.com CNAME .
@@ -10233,6 +10622,7 @@ id4.tegronews.com CNAME .
 imap1.aomg5bzv7.com CNAME .
 india2023.groovinews.com CNAME .
 indianewss.bestoffers-fe.com CNAME .
+inndianew.cosmicnewspulse.com CNAME .
 inndianews.cosmicnewspulse.com CNAME .
 iolk90oki8.zgoa097eh.com CNAME .
 ir8.karponews.com CNAME .
@@ -10251,8 +10641,10 @@ j7.lookinews.com CNAME .
 j8.bealanews.com CNAME .
 j8.lookinews.com CNAME .
 j9.tegronews.com CNAME .
+jg.aomg5bzv7.com CNAME .
 jj1.bealanews.com CNAME .
 jj1.jumronews.com CNAME .
+jj1.lookinews.com CNAME .
 jj1.tegronews.com CNAME .
 jj2.bealanews.com CNAME .
 jj2.guesswhatnews.com CNAME .
@@ -10264,6 +10656,7 @@ jj6.newsbeala.com CNAME .
 jj7.km14hkusz.com CNAME .
 jj7.newsbeala.com CNAME .
 k2.karponews.com CNAME .
+k2.lookinews.com CNAME .
 k2d.km14hkusz.com CNAME .
 k3.lookinews.com CNAME .
 k5.groovinews.com CNAME .
@@ -10273,6 +10666,7 @@ k7.bealanews.com CNAME .
 kafka.aomg5bzv7.com CNAME .
 kd4.groovinews.com CNAME .
 kd4.newsbeala.com CNAME .
+kent.aomg5bzv7.com CNAME .
 kf41.gofenews.com CNAME .
 kf41.reminews.com CNAME .
 kf9m.zgoa097eh.com CNAME .
@@ -10280,6 +10674,7 @@ klso.freshalldaynews.com CNAME .
 kong.aomg5bzv7.com CNAME .
 ksi84.bealanews.com CNAME .
 kvm4.aomg5bzv7.com CNAME .
+l2s.groovinews.com CNAME .
 lions.aomg5bzv7.com CNAME .
 lo9.jumronews.com CNAME .
 lo9.lookinews.com CNAME .
@@ -10292,6 +10687,7 @@ mail13.aomg5bzv7.com CNAME .
 mail5.aomg5bzv7.com CNAME .
 mailing.aomg5bzv7.com CNAME .
 marathon.aomg5bzv7.com CNAME .
+maria.aomg5bzv7.com CNAME .
 maven.aomg5bzv7.com CNAME .
 mirror.aomg5bzv7.com CNAME .
 mm0.guesswhatnews.com CNAME .
@@ -10312,6 +10708,7 @@ mm4.bealanews.com CNAME .
 mm4.freshalldaynews.com CNAME .
 mm4.newsbeala.com CNAME .
 mm6.lookinews.com CNAME .
+mm6.tegronews.com CNAME .
 mm7.bealanews.com CNAME .
 mm7.freshalldaynews.com CNAME .
 mm7.groovinews.com CNAME .
@@ -10338,13 +10735,18 @@ nov.aomg5bzv7.com CNAME .
 ns33.aomg5bzv7.com CNAME .
 ntynu6ym.lookinews.com CNAME .
 old.j74y03g8u.com CNAME .
+op.aomg5bzv7.com CNAME .
 owa.aomg5bzv7.com CNAME .
+pages.aomg5bzv7.com CNAME .
+partner.aomg5bzv7.com CNAME .
 pascal.aomg5bzv7.com CNAME .
+pcgk.aomg5bzv7.com CNAME .
 perkirp213.sosqboh85.com CNAME .
 picard.aomg5bzv7.com CNAME .
 plhldr.newsbeala.com CNAME .
 police.aomg5bzv7.com CNAME .
 porno18.lookinews.com CNAME .
+postfix.aomg5bzv7.com CNAME .
 promotion.aomg5bzv7.com CNAME .
 puzzle.aomg5bzv7.com CNAME .
 pwqmc2kj113bka3.pr0xqyrgl.com CNAME .
@@ -10353,13 +10755,17 @@ qxx21xl771.lycheenews.com CNAME .
 r1.newsbeala.com CNAME .
 re.aomg5bzv7.com CNAME .
 realestate.aomg5bzv7.com CNAME .
+rebecca.users.aomg5bzv7.com CNAME .
 reptor341.uho5m96ej.com CNAME .
 roger.aomg5bzv7.com CNAME .
 rzin90j1pcgi268t.bortanews.com CNAME .
+s11.aomg5bzv7.com CNAME .
 s1tv2yrirdmk6ejb.3nrbkpvra.com CNAME .
 s27.aomg5bzv7.com CNAME .
+salt.aomg5bzv7.com CNAME .
 se.aomg5bzv7.com CNAME .
 seedi471d.j6t91e89q.com CNAME .
+serv2.aomg5bzv7.com CNAME .
 server18.aomg5bzv7.com CNAME .
 sex.5clo0xmbf.com CNAME .
 sex.seponews.com CNAME .
@@ -10372,18 +10778,25 @@ shark.aomg5bzv7.com CNAME .
 sia.aomg5bzv7.com CNAME .
 sk3.7bkzlyfvl.com CNAME .
 sk3.bealanews.com CNAME .
+smc.aomg5bzv7.com CNAME .
 sndqk4.j6t91e89q.com CNAME .
 sndqk51.j6t91e89q.com CNAME .
 sndqk61.cosmicnewspulse.com CNAME .
 sndqk71.jf11oowny.com CNAME .
+sos.aomg5bzv7.com CNAME .
+spectre.aomg5bzv7.com CNAME .
 speedtest.aomg5bzv7.com CNAME .
 sphinx.aomg5bzv7.com CNAME .
+sq.aomg5bzv7.com CNAME .
 stage.aomg5bzv7.com CNAME .
+start.aomg5bzv7.com CNAME .
 stuff.aomg5bzv7.com CNAME .
+su.aomg5bzv7.com CNAME .
 su4.groovinews.com CNAME .
 su4.guesswhatnews.com CNAME .
 su4.jumronews.com CNAME .
 superset.rookinews.com CNAME .
+sv6.aomg5bzv7.com CNAME .
 sxvideohs48241.34gwl8v1a.com CNAME .
 sxvideohsa48244.34gwl8v1a.com CNAME .
 t1.bealanews.com CNAME .
@@ -10392,17 +10805,22 @@ t1.lookinews.com CNAME .
 t1.tegronews.com CNAME .
 t4.lookinews.com CNAME .
 taurus.aomg5bzv7.com CNAME .
+team.aomg5bzv7.com CNAME .
+testmail.aomg5bzv7.com CNAME .
 tito0rw321.x4q4g2zy7.com CNAME .
 today.lookinews.com CNAME .
 tom.aomg5bzv7.com CNAME .
 toolbox.aomg5bzv7.com CNAME .
 tor.aomg5bzv7.com CNAME .
 tours.aomg5bzv7.com CNAME .
+traxx34234234.j74y03g8u.com CNAME .
 traxxx9997.jessunews.com CNAME .
 traxxx9997.lycheenews.com CNAME .
 traxxxxxxas443459.lookinews.com CNAME .
 tt0bdexy5youwpn5.5clo0xmbf.com CNAME .
+twr1.aomg5bzv7.com CNAME .
 ubuntu.aomg5bzv7.com CNAME .
+unicorn.aomg5bzv7.com CNAME .
 ural.aomg5bzv7.com CNAME .
 v1.freshalldaynews.com CNAME .
 v1.guesswhatnews.com CNAME .
@@ -10482,6 +10900,7 @@ www.0208.gofenews.com CNAME .
 www.0209.gofenews.com CNAME .
 www.0218.gofenews.com CNAME .
 www.0222.gofenews.com CNAME .
+www.0225.luronews.com CNAME .
 www.0238.gofenews.com CNAME .
 www.0245.gofenews.com CNAME .
 www.0247.gofenews.com CNAME .
@@ -10502,6 +10921,7 @@ www.0340.gofenews.com CNAME .
 www.0342.gofenews.com CNAME .
 www.0353.gofenews.com CNAME .
 www.0366.gofenews.com CNAME .
+www.0373.lookinews.com CNAME .
 www.0375.groovinews.com CNAME .
 www.0380.gofenews.com CNAME .
 www.0390.gofenews.com CNAME .
@@ -10591,8 +11011,10 @@ www.0986.gofenews.com CNAME .
 www.1.reminews.com CNAME .
 www.1001.groovinews.com CNAME .
 www.1006.gofenews.com CNAME .
+www.1020.jumronews.com CNAME .
 www.1030.gofenews.com CNAME .
 www.1031.gofenews.com CNAME .
+www.1037.jemonews.com CNAME .
 www.1038.gofenews.com CNAME .
 www.1045.gofenews.com CNAME .
 www.1047.gofenews.com CNAME .
@@ -10677,6 +11099,7 @@ www.1484.gofenews.com CNAME .
 www.1487.gofenews.com CNAME .
 www.1498.gofenews.com CNAME .
 www.15.bealanews.com CNAME .
+www.150.sifenews.com CNAME .
 www.1501.gofenews.com CNAME .
 www.1506.gofenews.com CNAME .
 www.1509.gofenews.com CNAME .
@@ -10746,6 +11169,7 @@ www.1771.gofenews.com CNAME .
 www.1775.gofenews.com CNAME .
 www.1775.reminews.com CNAME .
 www.1777.gofenews.com CNAME .
+www.1785.gofenews.com CNAME .
 www.1796.gofenews.com CNAME .
 www.1800.gofenews.com CNAME .
 www.1802.gofenews.com CNAME .
@@ -10760,6 +11184,7 @@ www.1851.gofenews.com CNAME .
 www.1853.gofenews.com CNAME .
 www.1861.rookinews.com CNAME .
 www.1863.gofenews.com CNAME .
+www.1866.jemonews.com CNAME .
 www.1868.gofenews.com CNAME .
 www.1888.gofenews.com CNAME .
 www.1893.gofenews.com CNAME .
@@ -10843,6 +11268,7 @@ www.2296.jumronews.com CNAME .
 www.2305.gofenews.com CNAME .
 www.2313.gofenews.com CNAME .
 www.2319.gofenews.com CNAME .
+www.2324.gofenews.com CNAME .
 www.2344.gofenews.com CNAME .
 www.2347.jemonews.com CNAME .
 www.2349.gofenews.com CNAME .
@@ -10945,6 +11371,7 @@ www.2771.gofenews.com CNAME .
 www.2772.gofenews.com CNAME .
 www.2778.gofenews.com CNAME .
 www.2782.gofenews.com CNAME .
+www.2784.rookinews.com CNAME .
 www.2786.gofenews.com CNAME .
 www.2790.gofenews.com CNAME .
 www.2798.gofenews.com CNAME .
@@ -11010,6 +11437,7 @@ www.3056.gofenews.com CNAME .
 www.3059.gofenews.com CNAME .
 www.3065.gofenews.com CNAME .
 www.3067.gofenews.com CNAME .
+www.3074.lookinews.com CNAME .
 www.3083.gofenews.com CNAME .
 www.3097.gofenews.com CNAME .
 www.3101.gofenews.com CNAME .
@@ -11178,6 +11606,7 @@ www.3841.gofenews.com CNAME .
 www.3842.gofenews.com CNAME .
 www.3845.gofenews.com CNAME .
 www.3852.lookinews.com CNAME .
+www.3853.jemonews.com CNAME .
 www.3860.gofenews.com CNAME .
 www.3861.gofenews.com CNAME .
 www.3867.reminews.com CNAME .
@@ -11264,6 +11693,7 @@ www.4863.groovinews.com CNAME .
 www.4869.lootynews.com CNAME .
 www.4871.lookinews.com CNAME .
 www.4876.luronews.com CNAME .
+www.4954.reminews.com CNAME .
 www.4968.sosqboh85.com CNAME .
 www.4974.gofenews.com CNAME .
 www.4e8bjpldk.com CNAME .
@@ -11291,6 +11721,7 @@ www.5556.reminews.com CNAME .
 www.5570.lookinews.com CNAME .
 www.5586.jemonews.com CNAME .
 www.5698.bealanews.com CNAME .
+www.5705.luronews.com CNAME .
 www.5757.gofenews.com CNAME .
 www.5759.jumronews.com CNAME .
 www.5863.reminews.com CNAME .
@@ -11305,6 +11736,7 @@ www.6083.lookinews.com CNAME .
 www.6090.luronews.com CNAME .
 www.6096.loopanews.com CNAME .
 www.6114.gofenews.com CNAME .
+www.6122.gofenews.com CNAME .
 www.6150.lookinews.com CNAME .
 www.6151.reminews.com CNAME .
 www.6157.shockynews.com CNAME .
@@ -11312,7 +11744,9 @@ www.6167.deeginews.com CNAME .
 www.6189.bealanews.com CNAME .
 www.6212.luronews.com CNAME .
 www.6288.jemonews.com CNAME .
+www.6392.groovinews.com CNAME .
 www.6419.jemonews.com CNAME .
+www.6423.jemonews.com CNAME .
 www.6476.jemonews.com CNAME .
 www.6517.jemonews.com CNAME .
 www.6523.jumronews.com CNAME .
@@ -11339,12 +11773,14 @@ www.7090.gofenews.com CNAME .
 www.7092.lookinews.com CNAME .
 www.7199.gofenews.com CNAME .
 www.7199.lookinews.com CNAME .
+www.7219.lookinews.com CNAME .
 www.7227.4e8bjpldk.com CNAME .
 www.7274.luronews.com CNAME .
 www.7289.shockynews.com CNAME .
 www.7336.luronews.com CNAME .
 www.7339.luronews.com CNAME .
 www.7354.rookinews.com CNAME .
+www.7378.jemonews.com CNAME .
 www.7395.reminews.com CNAME .
 www.7490.jemonews.com CNAME .
 www.7496.gofenews.com CNAME .
@@ -11356,6 +11792,7 @@ www.7612.luronews.com CNAME .
 www.7633.groovinews.com CNAME .
 www.7681.jemonews.com CNAME .
 www.7691.bealanews.com CNAME .
+www.7839.reminews.com CNAME .
 www.7884.reminews.com CNAME .
 www.7943.lookinews.com CNAME .
 www.7944.gofenews.com CNAME .
@@ -11373,10 +11810,12 @@ www.8230.gofenews.com CNAME .
 www.8236.jemonews.com CNAME .
 www.8286.reminews.com CNAME .
 www.8298.shockynews.com CNAME .
+www.8315.sifenews.com CNAME .
 www.8326.deeginews.com CNAME .
 www.8338.reminews.com CNAME .
 www.833enmhob.com CNAME .
 www.8366.jumronews.com CNAME .
+www.8420.gofenews.com CNAME .
 www.8445.jemonews.com CNAME .
 www.8467.jemonews.com CNAME .
 www.8478.shockynews.com CNAME .
@@ -11410,11 +11849,13 @@ www.9391.gofenews.com CNAME .
 www.9420.lookinews.com CNAME .
 www.9429.reminews.com CNAME .
 www.9557.reminews.com CNAME .
+www.9582.sifenews.com CNAME .
 www.9599.lookinews.com CNAME .
 www.9623.deeginews.com CNAME .
 www.9643.jemonews.com CNAME .
 www.9715.bealanews.com CNAME .
 www.9782.reminews.com CNAME .
+www.9783.lootynews.com CNAME .
 www.9802.deeginews.com CNAME .
 www.9857.gofenews.com CNAME .
 www.9884.jemonews.com CNAME .
@@ -11423,8 +11864,11 @@ www.9946.lootynews.com CNAME .
 www.9992.gofenews.com CNAME .
 www.9xvqogvtf.com CNAME .
 www.aomg5bzv7.com CNAME .
+www.bestandgreatests.com CNAME .
+www.bestinterestings.com CNAME .
 www.bortanews.com CNAME .
 www.chem.aomg5bzv7.com CNAME .
+www.cms.aomg5bzv7.com CNAME .
 www.cosmicnewspulse.com CNAME .
 www.cqyj3ii7r.com CNAME .
 www.dorimnews.com CNAME .
@@ -11445,6 +11889,9 @@ www.k45ki53dq.com CNAME .
 www.k45z7tagm.com CNAME .
 www.leranews.com CNAME .
 www.logunews.com CNAME .
+www.lookinews.com CNAME .
+www.luronews.com CNAME .
+www.lycheenews.com CNAME .
 www.n3kijf75r.com CNAME .
 www.ogrt80r65.com CNAME .
 www.p6qf8cqa0.com CNAME .
@@ -11477,6 +11924,7 @@ xll12e1.bealanews.com CNAME .
 xlwxrvkell8kh9sa.leranews.com CNAME .
 xsvideohs48241.34gwl8v1a.com CNAME .
 xsvideohs48244.34gwl8v1a.com CNAME .
+xtreme.aomg5bzv7.com CNAME .
 xx21xl71.lycheenews.com CNAME .
 xx21xl771.lycheenews.com CNAME .
 xxx21xl771.lycheenews.com CNAME .
@@ -11488,6 +11936,7 @@ y3g5yj13g92i.lycheenews.com CNAME .
 yb543.zgoa097eh.com CNAME .
 yeni.aomg5bzv7.com CNAME .
 ykq3pfmcxw9lqmn2.quicknewssurge.com CNAME .
+yoda.aomg5bzv7.com CNAME .
 yuj556889ruj.groovinews.com CNAME .
 zoo.aomg5bzv7.com CNAME .
 0025704ca1.5ea36e0eb5.com CNAME .
@@ -11519,6 +11968,7 @@ zoo.aomg5bzv7.com CNAME .
 14b184caf9.459b6951ca.com CNAME .
 15fa3bc177.bd33500074.com CNAME .
 19e408304d.9c867e2056.com CNAME .
+1a244d46ed.611b2ec55c.com CNAME .
 1ab9f4d295.e7e34b16ed.com CNAME .
 1b2d763c44.45f2a90583.com CNAME .
 1b88cc6bce.7898a9d175.com CNAME .
@@ -11559,7 +12009,6 @@ zoo.aomg5bzv7.com CNAME .
 378ff3112a.613f15a070.com CNAME .
 38236a5b03.e770af238b.com CNAME .
 3927797c1f.94789b3f8f.com CNAME .
-3b5bbe729f.5f93004b68.com CNAME .
 3bfb3c04e6.6991eeac66.com CNAME .
 3c436c9739.be33c66794.com CNAME .
 3c7ffefcb5.77b0d74a17.com CNAME .
@@ -11712,6 +12161,7 @@ ae277b422a.45cb7b8453.com CNAME .
 ae33d7ee85.029519cbdc.com CNAME .
 af6149c8d9.9d2cca15e4.com CNAME .
 afae561ed5.3165de3ff8.com CNAME .
+ajs.allnestinfinite.com CNAME .
 ajs.bowintelligence.com CNAME .
 ajs.laketrend.com CNAME .
 ajs.selecttopoff.com CNAME .
@@ -11791,6 +12241,7 @@ e3837dc23d.3b374de2ee.com CNAME .
 e410f82db5.52588314e4.com CNAME .
 e5133945c8.60739ebc42.com CNAME .
 e8a209dc96.ab0a4bc0ae.com CNAME .
+e95da74cd9.a2b219c0ce.com CNAME .
 e9b38e2e5a.bbad91e014.com CNAME .
 eca1311030.3163ba76f7.com CNAME .
 ecd2f27cc8.d0056a5b0b.com CNAME .
@@ -11827,6 +12278,7 @@ ijs.statelinear.com CNAME .
 js.cabnnr.com CNAME .
 js.canstrm.com CNAME .
 js.capndr.com CNAME .
+js.dshaf.com CNAME .
 js.mbidadm.com CNAME .
 js.mbidinp.com CNAME .
 js.mbidpp.com CNAME .
@@ -11946,6 +12398,7 @@ vjs.selecttopoff.com CNAME .
 51e76d00e1.7c9649b3ff.com CNAME .
 53694acd56.3ac04b70da.com CNAME .
 54c1aae895.f4cd8a8bf0.com CNAME .
+5502fb67e7.e395ce5e52.com CNAME .
 5556bbc201.190cddbd0f.com CNAME .
 592fd0d4b9.70be76b98c.com CNAME .
 5930107e7f.e890f5e345.com CNAME .
@@ -12032,6 +12485,7 @@ ad81b5514f.91b20f7c8f.com CNAME .
 af043ebde4.10a03eb82c.com CNAME .
 af5b2ff170.e3aa58c849.com CNAME .
 b004dc0e97.043213c072.com CNAME .
+b0104c96dd.cf5153f67e.com CNAME .
 b0bee72a02.13e153630d.com CNAME .
 b0f150be47.96e7bee058.com CNAME .
 b1d5da4114.d22d0c8699.com CNAME .
@@ -12077,11 +12531,14 @@ d3e192e8ea.85a90880b9.com CNAME .
 d457c69ef7.0e07fa9a08.com CNAME .
 d4a998a9aa.e6c1ff5d1e.com CNAME .
 d4ba3f883d.9e3810a418.com CNAME .
+d4e78103e1.74d0adc87e.com CNAME .
 d514187948.fde8de16e0.com CNAME .
 d61dd0cad8.edeaa80ace.com CNAME .
 d7d5184132.dacb7ae0f7.com CNAME .
 d80cb0f7b2.f404af467e.com CNAME .
 d92eb9bd49.f815e7113a.com CNAME .
+d93c7fe890.7449c83326.com CNAME .
+d9b270b258.bf7472b795.com CNAME .
 da298fba8a.50368ce0a6.com CNAME .
 da64a767a2.9862271b2d.com CNAME .
 daae071ddb.08f12bcc45.com CNAME .
@@ -12181,6 +12638,7 @@ fd01ce9a02.0012e30263.com CNAME .
 32d3db0610.db35b0c4c1.com CNAME .
 33e575cb57.a02e31b105.com CNAME .
 357fbe0abe.71d287479d.com CNAME .
+3773c12737.b395af8742.com CNAME .
 3861759da2.4191f1f197.com CNAME .
 3b41bd214e.89f56beb55.com CNAME .
 3c18019e0f.e462bd5280.com CNAME .
@@ -12220,6 +12678,7 @@ fd01ce9a02.0012e30263.com CNAME .
 65a0b115b1.84a53a18ac.com CNAME .
 6c68a5f122.c8e7b8a04b.com CNAME .
 6ea5cb0615.b12c99852d.com CNAME .
+6eec76752e.adfaae31e2.com CNAME .
 6f472074c3.6a0d38e347.com CNAME .
 6fb77be0c7.c0636e54f1.com CNAME .
 708ec1c33c.b4a03471a7.com CNAME .
@@ -12251,6 +12710,7 @@ fd01ce9a02.0012e30263.com CNAME .
 8a9d20ab14.0b9b5eada8.com CNAME .
 8b2f59b83b.55ef6cccfc.com CNAME .
 8b7ab78d6c.721474ff09.com CNAME .
+8e85eb0e5d.c6bbab50a3.com CNAME .
 8f2db82a4b.e8b7e4bfbc.com CNAME .
 90f6059129.8c0afb75cd.com CNAME .
 9135fec6cb.f026a8e109.com CNAME .
@@ -12285,6 +12745,7 @@ ad3634a6aa.d5062842da.com CNAME .
 ae56c07a5d.7fc6aff494.com CNAME .
 b01c512075.7ea4360b7c.com CNAME .
 b43bc6681c.4bad5cdf48.com CNAME .
+b4efed32d2.4bd92c373a.com CNAME .
 b5f9253029.fbc6272bce.com CNAME .
 b7ab7d0f42.30d52e951d.com CNAME .
 ba31f372b1.6d0ce9a973.com CNAME .
@@ -12323,6 +12784,7 @@ d6957f181a.95580fd13d.com CNAME .
 d70cb4a85b.c4fb8f2af8.com CNAME .
 d7a13b77bf.11f65cf2f1.com CNAME .
 d7c0fb1c13.8681b3fc64.com CNAME .
+d7c5f8b101.ae44c86ad5.com CNAME .
 d84e37ab9e.e55971de17.com CNAME .
 d8916a94d2.d890c8e4d8.com CNAME .
 d8d0bc1aa3.fec98ad2c4.com CNAME .
@@ -12336,6 +12798,7 @@ de1d3c902b.3e4d96411b.com CNAME .
 df85f70078.ad4905c1db.com CNAME .
 df90ddc549.118bf804e5.com CNAME .
 dfb523f308.25e664eaff.com CNAME .
+e00d374dae.3c70e282de.com CNAME .
 e02f936aee.8f1de9240f.com CNAME .
 e0848bb11f.999aae0fa7.com CNAME .
 e1e7608274.00f8c4bb25.com CNAME .
@@ -12350,6 +12813,7 @@ ee17c6b8f1.9b8619b026.com CNAME .
 ee694ce73a.c11e6856d0.com CNAME .
 f0e0350829.891a559827.com CNAME .
 f17815a794.cd39d85c08.com CNAME .
+f1e17919db.15b4a9d5e8.com CNAME .
 f1e4fcff2b.27640ea29d.com CNAME .
 f21138d9b5.63ea41d85b.com CNAME .
 f237274791.0886c43482.com CNAME .
@@ -12399,7 +12863,6 @@ cdn.hip-97166b.com CNAME .
 cdn.stray228.com CNAME .
 cdn.wasp-182b.com CNAME .
 cdn.wolf-327b.com CNAME .
-lab.blackpics.net CNAME .
 log.bigroundass.net CNAME .
 stats.hprofits.com CNAME .
 cdn.clivetadds.com CNAME .
@@ -12424,6 +12887,8 @@ js.jnkstff.com CNAME .
 na.wpush.net CNAME .
 jcdn.soonpubplatform.online CNAME .
 jcdn.tsyndicate.com CNAME .
+lab.blackpics.net CNAME .
+www.blue-daughter.pro CNAME .
 www.elated-professional.pro CNAME .
 www.melodicinterview.pro CNAME .
 www.moxothove.pro CNAME .

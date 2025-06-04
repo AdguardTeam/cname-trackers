@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -246,6 +246,7 @@ utiq.leckerschmecker.me CNAME .
 utiq.lecturas.com CNAME .
 utiq.lefigaro.fr CNAME .
 utiq.lejdc.fr CNAME .
+utiq.lejdc.fr.cdn.cloudflare.net CNAME .
 utiq.lejournaldelamaison.fr CNAME .
 utiq.lemessager.fr CNAME .
 utiq.leonoticias.com CNAME .
@@ -263,6 +264,7 @@ utiq.lindependant.fr CNAME .
 utiq.listisima.com CNAME .
 utiq.lne.es CNAME .
 utiq.lunion.fr CNAME .
+utiq.lyonne.fr CNAME .
 utiq.madmoizelle.com CNAME .
 utiq.maennerseite.net CNAME .
 utiq.mahou.es CNAME .

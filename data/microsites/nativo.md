@@ -28,8 +28,8 @@
 | img.nativo.net | a1082.g.akamai.net |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
-| a135.wftv.com | jadserve.postrelease.com |
 | mlive.share.ntv.io | jadserve.postrelease.com |
+| nativomobileapps.share.ntv.io | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.fox23.com | jadserve.postrelease.com.akadns.net |
@@ -187,6 +187,7 @@
 | 45524b3eed.7460d80586.com | ntvpforever.com |
 | 456bd8f84a.2950f32c2b.com | ntvpforever.com |
 | 45c8960dbf.0c6be7f968.com | ntvpforever.com |
+| 462c268c7c.4cd79ce97b.com | ntvpforever.com |
 | 4a2aac440d.7e4c883e71.com | ntvpforever.com |
 | 4ada3756e4.390c1c46b8.com | ntvpforever.com |
 | 4bb6cef88c.4917493a9d.com | ntvpforever.com |
@@ -320,7 +321,6 @@
 | b0834b036a.d5193824f5.com | ntvpforever.com |
 | b23097a9a2.c4691f6b54.com | ntvpforever.com |
 | b255043e2e.3b15e41dab.com | ntvpforever.com |
-| b4260c4455.2c9a6b1211.com | ntvpforever.com |
 | b444707fdc.4ae2e793d9.com | ntvpforever.com |
 | b53accf7d8.8f59bb0891.com | ntvpforever.com |
 | b71260c6e8.b6fbaf103c.com | ntvpforever.com |
@@ -422,6 +422,7 @@
 | fdd5c91116.606b85787b.com | ntvpforever.com |
 | fe5071dde0.7c5734761f.com | ntvpforever.com |
 | ff161ce5ce.c17778a8e1.com | ntvpforever.com |
+| i.allnestinfinite.com | ntvpforever.com |
 | i.laketrend.com | ntvpforever.com |
 | i.selecttopoff.com | ntvpforever.com |
 | i.statelinear.com | ntvpforever.com |

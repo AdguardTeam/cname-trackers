@@ -56,6 +56,7 @@
 ||goatcounter.codinggrace.com^
 ||goatcounter.eventgeek.ie^
 ||goatcounter.gamecraft.it^
+||goatcounter.irishbornchinese.com^
 ||goatcounter.thedave.dev^
 ||goatcounter.thedave.me^
 ||gtcntr.enamya.me^
@@ -71,6 +72,7 @@
 ||stats.abdo.wtf^
 ||stats.abdodaoud.com^
 ||stats.afirmacijas.lv^
+||stats.akashi.systems^
 ||stats.apitman.com^
 ||stats.artur-rodrigues.com^
 ||stats.benjaminmorris.com^
@@ -125,6 +127,7 @@
 ||stats.opensurge2d.org^
 ||stats.palaisdesfetes.eu^
 ||stats.pollux.codes^
+||stats.r18.dev^
 ||stats.raycordlegends.com^
 ||stats.riccardomurachelli.it^
 ||stats.roalgo.ro^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -117,10 +117,12 @@ qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qri2r94eeajr.innovationcast.com CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
+rwk2s6ypyqu5h81.kvest.ee CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .
 swaljol72dgv.controlconceptsusa.com CNAME .
+sxwxswg8z1xe.www.arnowebtv.com CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 ti3av8k3ikwm.resume.gerardbosch.xyz CNAME .
 tnincvf1d1jl.de.themoneytizer.com CNAME .

@@ -226,6 +226,7 @@
 | advertising.goldseek.com | goldseek-delivery.aquaplatform.com |
 | creatives.goldseek.com | goldseek-static.aquaplatform.com |
 | images.goldseek.com | goldseek-static.aquaplatform.com |
+| www.creatives.goldseek.com | goldseek-static.aquaplatform.com |
 | console.healthcarescene.com | hcs-console.aquaplatform.com |
 | www.console.healthcarescene.com | hcs-console.aquaplatform.com |
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ data-020f60e247.apps.iocnt.de CNAME .
 data-0282cb9d1f.apps.iocnt.de CNAME .
 data-029be27def.apps.iocnt.de CNAME .
 data-02d6c01d72.rga.de CNAME .
+data-02f97b9d87.apps.iocnt.de CNAME .
 data-0331877d53.radsport-news.com CNAME .
 data-03ad2660a6.solinger-tageblatt.de CNAME .
 data-03dc2421cd.sup-mag.de CNAME .
@@ -108,6 +109,7 @@ data-0a356d685b.radioherford.de CNAME .
 data-0aad875990.apps.iocnt.de CNAME .
 data-0af01e596d.tips.at CNAME .
 data-0b2c5acddd.echtemamas.de CNAME .
+data-0be38fdd72.eatsmarter.de CNAME .
 data-0c2107a914.profil.at CNAME .
 data-0cc10e3905.werbenundverkaufen.de CNAME .
 data-0cc10e3905.wuv.de CNAME .
@@ -409,6 +411,7 @@ data-337242f510.itk-rheinland.de CNAME .
 data-339e8471f1.bau-welt.de CNAME .
 data-341c3a0fe0.apps.iocnt.de CNAME .
 data-34484cd75e.apps.iocnt.de CNAME .
+data-3452ec2236.caravaning.de CNAME .
 data-34565915dd.firmenwissen.com CNAME .
 data-34565915dd.firmenwissen.de CNAME .
 data-34c9d32b77.apps.iocnt.de CNAME .
@@ -2034,6 +2037,7 @@ data-f1c47705fc.profi.de CNAME .
 data-f1c47705fc.rimondo.com CNAME .
 data-f1c47705fc.susonline.de CNAME .
 data-f1c47705fc.topagrar.com CNAME .
+data-f1c47705fc.topagrar.de CNAME .
 data-f1c47705fc.topagrar.pl CNAME .
 data-f1c47705fc.wochenblatt.com CNAME .
 data-f1e447fbcf.24auto.de CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -237,6 +237,7 @@ baldeagle.e-ma.re CNAME .
 bandicoot.mohit.dev CNAME .
 bandicoot.sigerr.org CNAME .
 barnacle.big-in-japan.com CNAME .
+barnacle.hearmeout.work CNAME .
 barnacle.natalieandmikeyb.com CNAME .
 barnacle.viewsource.io CNAME .
 barracuda.civicdatalibrary.org CNAME .
@@ -919,6 +920,7 @@ sheep.vaxstandby.com CNAME .
 shrew.ryangjchandler.co.uk CNAME .
 silkworm.bobsmechanicalrepairs.co.uk CNAME .
 silkworm.boxmood.be CNAME .
+silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.waspexpert.com CNAME .
 silkworm.westwoodmbc.org CNAME .
 silverfish.djordjevanjek.com CNAME .

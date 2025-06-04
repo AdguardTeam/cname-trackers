@@ -341,6 +341,7 @@
     * h-charter.online-metrix.net
     * h-chase.online-metrix.net
     * h-chubb.online-metrix.net
+    * h-chw8hpko.online-metrix.net
     * h-cibc.online-metrix.net
     * h-cibcom.online-metrix.net
     * h-cigsl5rh-2.online-metrix.net
@@ -554,6 +555,7 @@
     * h-kelmar-nd.online-metrix.net
     * h-kelmar-nj.online-metrix.net
     * h-kelmar-or.online-metrix.net
+    * h-kelmar-ut.online-metrix.net
     * h-kelmar-wa.online-metrix.net
     * h-kelmar.online-metrix.net
     * h-kijiji.online-metrix.net
@@ -1094,6 +1096,7 @@
 | sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
 | ltxup.sumup.com | h-84sv8qof.online-metrix.net |
 | ltxup.sumup.io | h-84sv8qof.online-metrix.net |
+| ltxup.sumupstore.com | h-84sv8qof.online-metrix.net |
 | tm.production.eu1.tmfp.klarna.net | h-87rxrdob.online-metrix.net |
 | tmfp.klarna.com | h-87rxrdob.online-metrix.net |
 | phyon.visit-x.net | h-884tnrtj.online-metrix.net |
@@ -1439,6 +1442,7 @@
 | pov.spectrum.net | h-charter.online-metrix.net |
 | h.chase.co.uk | h-chase.online-metrix.net |
 | rauth.chubb.com | h-chubb.online-metrix.net |
+| geo.linq.gg | h-chw8hpko.online-metrix.net |
 | m-profiling.cibc.com | h-cibc.online-metrix.net |
 | m-profiling.simplii.com | h-cibc.online-metrix.net |
 | w-profiling.cibc.com | h-cibc.online-metrix.net |
@@ -1751,6 +1755,7 @@
 | tag.unclaimedproperty.nd.gov | h-kelmar-nd.online-metrix.net |
 | tag.unclaimedfunds.nj.gov | h-kelmar-nj.online-metrix.net |
 | tag-unclaimed.oregon.gov | h-kelmar-or.online-metrix.net |
+| tag.mycash.utah.gov | h-kelmar-ut.online-metrix.net |
 | tag.ucp.dor.wa.gov | h-kelmar-wa.online-metrix.net |
 | tag.findyourunclaimedproperty.com | h-kelmar.online-metrix.net |
 | tmx.kijiji.ca | h-kijiji.online-metrix.net |
@@ -2054,6 +2059,7 @@
 | w3.nsbank.com | h-zions.online-metrix.net |
 | w3.providerpay.com | h-zions.online-metrix.net |
 | w3.tcboregon.com | h-zions.online-metrix.net |
+| w3.tcbwa.com | h-zions.online-metrix.net |
 | w3.vectrabank.com | h-zions.online-metrix.net |
 | w3.zionsbank.com | h-zions.online-metrix.net |
 | jpubs.zodia.io | h-zodiacustody.online-metrix.net |

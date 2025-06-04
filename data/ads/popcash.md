@@ -182,6 +182,7 @@
 | bandicoot.mohit.dev | deprecated-custom-domains.b-cdn.net |
 | bandicoot.sigerr.org | deprecated-custom-domains.b-cdn.net |
 | barnacle.big-in-japan.com | deprecated-custom-domains.b-cdn.net |
+| barnacle.hearmeout.work | deprecated-custom-domains.b-cdn.net |
 | barnacle.natalieandmikeyb.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.viewsource.io | deprecated-custom-domains.b-cdn.net |
 | barracuda.civicdatalibrary.org | deprecated-custom-domains.b-cdn.net |
@@ -864,6 +865,7 @@
 | shrew.ryangjchandler.co.uk | deprecated-custom-domains.b-cdn.net |
 | silkworm.bobsmechanicalrepairs.co.uk | deprecated-custom-domains.b-cdn.net |
 | silkworm.boxmood.be | deprecated-custom-domains.b-cdn.net |
+| silkworm.preventingsuicideinsussex.org | deprecated-custom-domains.b-cdn.net |
 | silkworm.waspexpert.com | deprecated-custom-domains.b-cdn.net |
 | silkworm.westwoodmbc.org | deprecated-custom-domains.b-cdn.net |
 | silverfish.djordjevanjek.com | deprecated-custom-domains.b-cdn.net |

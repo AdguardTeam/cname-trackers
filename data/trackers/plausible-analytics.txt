@@ -521,6 +521,7 @@
 ||stats.indyhall.org^
 ||stats.infoboard.de^
 ||stats.ingenerator.com^
+||stats.innoforge.com.au^
 ||stats.innoq.com^
 ||stats.instabudget.app^
 ||stats.interactjs.io^

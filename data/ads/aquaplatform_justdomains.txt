@@ -250,6 +250,7 @@ www.console.pinktriangle.ca
 www.coreads-console.cambridge.org
 www.coreads-static.cambridge.org
 www.coreads.cambridge.org
+www.creatives.goldseek.com
 www.display.lawbulletin.com
 www.images.hour-media.com
 www.images.informatm.com

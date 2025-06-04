@@ -9,6 +9,7 @@
     * abdoughnut.goatcounter.com
     * acut3.goatcounter.com
     * afirmation.goatcounter.com
+    * akashi.goatcounter.com
     * andreabrandi.goatcounter.com
     * apitman_com.goatcounter.com
     * applycreatures.goatcounter.com
@@ -65,6 +66,7 @@
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
     * ignatuque.goatcounter.com
+    * irishbornchinese.goatcounter.com
     * irisphotos.goatcounter.com
     * isaacfreund.goatcounter.com
     * jakebailey.goatcounter.com
@@ -114,6 +116,7 @@
     * polluxcodes.goatcounter.com
     * psiyum.goatcounter.com
     * qrdate.goatcounter.com
+    * r18.goatcounter.com
     * riccardomurachelli.goatcounter.com
     * riggraz.goatcounter.com
     * roalgo-arhiva-edu.goatcounter.com
@@ -169,6 +172,7 @@
 | stats.abdo.wtf | abdoughnut.goatcounter.com |
 | gc.acut3.net | acut3.goatcounter.com |
 | stats.afirmacijas.lv | afirmation.goatcounter.com |
+| stats.akashi.systems | akashi.goatcounter.com |
 | count.andreabrandi.com | andreabrandi.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
 | analytics.applycreatures.com | applycreatures.goatcounter.com |
@@ -225,6 +229,7 @@
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
+| goatcounter.irishbornchinese.com | irishbornchinese.goatcounter.com |
 | ping.irisphotos.app | irisphotos.goatcounter.com |
 | stats.isaacfreund.com | isaacfreund.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
@@ -275,6 +280,7 @@
 | stats.pollux.codes | polluxcodes.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
+| stats.r18.dev | r18.goatcounter.com |
 | stats.riccardomurachelli.it | riccardomurachelli.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.roalgo.ro | roalgo-arhiva-edu.goatcounter.com |

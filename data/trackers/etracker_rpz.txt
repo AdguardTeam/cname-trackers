@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748851209679        ; Serial
+           1748981604671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -109,6 +109,7 @@ ric.arrive-im-herzogpark.de CNAME .
 ric.contur-muenchen.de CNAME .
 ric.riedel-immobilien.de CNAME .
 ric.seeleben-starnbergersee.de CNAME .
+salzburg.semsea.at CNAME .
 show.gruppedrei.com CNAME .
 src.vector.com CNAME .
 sst.cannapoli.de CNAME .
@@ -131,6 +132,7 @@ stats.suedtirolerjobs.it CNAME .
 stats.tirolerjobs.at CNAME .
 stats.umziehen.de CNAME .
 stats.united-domains.de CNAME .
+stats.vorarlbergerjobs.at CNAME .
 stats.wasserfilteroase.de CNAME .
 stats.wienerjobs.at CNAME .
 sun.solar-haus.de CNAME .
@@ -155,6 +157,7 @@ umerf.reisprinzen.de CNAME .
 wa.ostermann.eu CNAME .
 waet.datalogue.de CNAME .
 wctr.bodenverkauf.de CNAME .
+wctr.hh-klebetechnologie.de CNAME .
 wctr.hoeping.de CNAME .
 wctr.khk-karlsruhe.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
@@ -172,6 +175,7 @@ webcon.se-legal.de CNAME .
 webcontr.aquarius-prolife.com CNAME .
 webcontr.barcodescanner.de CNAME .
 webcontr.baulogistik-online.de CNAME .
+webcontr.bb-verpackungsshop.de CNAME .
 webcontr.bertibuch.de CNAME .
 webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .
@@ -179,6 +183,7 @@ webcontr.caso-design.de CNAME .
 webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
 webcontr.distrebution.com CNAME .
+webcontr.ecoon.de CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.genius.tv CNAME .
 webcontr.holzgestein.com CNAME .
