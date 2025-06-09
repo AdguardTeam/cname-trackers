@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -67,7 +67,6 @@ leo.goplay.be CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 montpalatin.handicap.fr CNAME .
-pear.youzful-by-ca.fr CNAME .
 pilau.oddo-bhf.com CNAME .
 ponyo.cheriefm.fr CNAME .
 protys.protys.fr CNAME .
@@ -77,6 +76,7 @@ res.franc-tireur.fr CNAME .
 res.marianne.net CNAME .
 res.programme-television.org CNAME .
 res.public.fr CNAME .
+res.t18.fr CNAME .
 ressources.argusassurance.com CNAME .
 ressources.caradisiac.com CNAME .
 ressources.centraleauto.com CNAME .

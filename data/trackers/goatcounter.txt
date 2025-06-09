@@ -126,7 +126,6 @@
 ||stats.nullzwo.dev^
 ||stats.opensurge2d.org^
 ||stats.palaisdesfetes.eu^
-||stats.pollux.codes^
 ||stats.r18.dev^
 ||stats.raycordlegends.com^
 ||stats.riccardomurachelli.it^

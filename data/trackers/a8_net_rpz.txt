@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -336,7 +336,6 @@ a8.themoonmilk.jp CNAME .
 a8.thermostand.jp CNAME .
 a8.thg.co.jp CNAME .
 a8.thidastone.com CNAME .
-a8.tideisturning.com CNAME .
 a8.tokihana.net CNAME .
 a8.tokyo-hills-clinic.com CNAME .
 a8.tomo.life CNAME .

@@ -113,7 +113,6 @@
     * ooo.goatcounter.com
     * opensurge.goatcounter.com
     * palaisdesfetes.goatcounter.com
-    * polluxcodes.goatcounter.com
     * psiyum.goatcounter.com
     * qrdate.goatcounter.com
     * r18.goatcounter.com
@@ -277,7 +276,6 @@
 | goat.dabric.xyz | ooo.goatcounter.com |
 | stats.opensurge2d.org | opensurge.goatcounter.com |
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
-| stats.pollux.codes | polluxcodes.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
 | stats.r18.dev | r18.goatcounter.com |

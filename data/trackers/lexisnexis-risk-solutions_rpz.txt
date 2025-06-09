@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ afm.startrader.live CNAME .
 afm.startraderasia.com CNAME .
 afm.startraderfr.com CNAME .
 afm.startraderjp.com CNAME .
+afm.startradermarkets.com CNAME .
 afm.startradermy.com CNAME .
 afm.sthub.cc CNAME .
 afm.ultima-markets.com CNAME .
@@ -54,6 +55,7 @@ afm.vnvtglobal.com CNAME .
 afm.vtg-mkt-apac.com CNAME .
 afm.vtg-mkt.com CNAME .
 afm.vtg-mkts.com CNAME .
+afm.vtglobalchn.com CNAME .
 afm.vtmarkets.co CNAME .
 afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
@@ -264,7 +266,6 @@ content.berluti.com CNAME .
 content.biggerbooks.com CNAME .
 content.billdomain.com CNAME .
 content.billsupport.com CNAME .
-content.bnl.it CNAME .
 content.bnpparibas.net CNAME .
 content.byabcd.com CNAME .
 content.canadiantire.ca CNAME .
@@ -386,7 +387,6 @@ content.sportsexperts.ca CNAME .
 content.ssctech.com CNAME .
 content.sso.tracesmart.co.uk CNAME .
 content.tab.com.au CNAME .
-content.telusinternational.ai CNAME .
 content.tfbank.at CNAME .
 content.tfbank.de CNAME .
 content.tfbank.es CNAME .
@@ -1266,7 +1266,6 @@ ww3.marlincapitalsolutions.com CNAME .
 ww3.peacsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
-www.content.bnl.it CNAME .
 www.content.espace-client.hellobank.fr CNAME .
 www.content.mabanque.bnpparibas CNAME .
 www.content.mabanqueprivee.bnpparibas CNAME .

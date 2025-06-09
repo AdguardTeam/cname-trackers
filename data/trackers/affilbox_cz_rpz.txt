@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -234,7 +234,6 @@ affiliate.offroadsafari.cz CNAME .
 affiliate.onlinepsiskola.cz CNAME .
 affiliate.organikk.cz CNAME .
 affiliate.pasti.cz CNAME .
-affiliate.pesvbyte.cz CNAME .
 affiliate.petr-zeman.cz CNAME .
 affiliate.ph7.cz CNAME .
 affiliate.plutoscompany.sk CNAME .
@@ -258,7 +257,6 @@ affiliate.sexshop51.sk CNAME .
 affiliate.siko.cz CNAME .
 affiliate.smarty.cz CNAME .
 affiliate.smsticket.cz CNAME .
-affiliate.snowbitch.cz CNAME .
 affiliate.socialsprinters.cz CNAME .
 affiliate.soscredit.cz CNAME .
 affiliate.sperkin.cz CNAME .
@@ -547,7 +545,6 @@ partner.dr-nek.cz CNAME .
 partner.dressibly.cz CNAME .
 partner.drfit.cz CNAME .
 partner.dripit.cz CNAME .
-partner.dvereskladom.sk CNAME .
 partner.dynamikabohatstvi.cz CNAME .
 partner.eandilek.cz CNAME .
 partner.ecomail.cz CNAME .
@@ -561,7 +558,6 @@ partner.eshop-rodas.cz CNAME .
 partner.evolutionhub.cz CNAME .
 partner.excaliburshop.com CNAME .
 partner.exitshop.cz CNAME .
-partner.expertnavlasy.sk CNAME .
 partner.expresmenu.com CNAME .
 partner.expresmenu.cz CNAME .
 partner.expresmenu.pl CNAME .
@@ -588,14 +584,13 @@ partner.gr7.cz CNAME .
 partner.grandstyl.cz CNAME .
 partner.greenbeast.vip CNAME .
 partner.gurufinance.cz CNAME .
-partner.hanamoneam.com CNAME .
 partner.happy-power.cz CNAME .
 partner.hegesztok-bolt.hu CNAME .
 partner.hizeromop.com CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
+partner.hrax.cz CNAME .
 partner.hubnu.online CNAME .
-partner.hubnutimarija.cz CNAME .
 partner.hunter.games CNAME .
 partner.hurom.cz CNAME .
 partner.idoklad.cz CNAME .

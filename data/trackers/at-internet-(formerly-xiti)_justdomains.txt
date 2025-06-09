@@ -56,7 +56,6 @@ leo.goplay.be
 mefo1.zdf.de
 mkt.usz.ch
 montpalatin.handicap.fr
-pear.youzful-by-ca.fr
 pilau.oddo-bhf.com
 ponyo.cheriefm.fr
 protys.protys.fr
@@ -66,6 +65,7 @@ res.franc-tireur.fr
 res.marianne.net
 res.programme-television.org
 res.public.fr
+res.t18.fr
 ressources.argusassurance.com
 ressources.caradisiac.com
 ressources.centraleauto.com

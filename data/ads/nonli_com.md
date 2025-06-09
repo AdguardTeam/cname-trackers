@@ -74,6 +74,7 @@
 | l.20minutes.fr | tls.non.li |
 | l.3djuegos.com | tls.non.li |
 | l.750g.com | tls.non.li |
+| l.academiedugout.fr | tls.non.li |
 | l.actu.fr | tls.non.li |
 | l.adorocinema.com | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |
@@ -151,6 +152,7 @@
 | l.jeuxvideo.com | tls.non.li |
 | l.journaldemillau.fr | tls.non.li |
 | l.koolmag.fr | tls.non.li |
+| l.la-croix.com | tls.non.li |
 | l.lacremedugaming.fr | tls.non.li |
 | l.ladepeche.fr | tls.non.li |
 | l.lamanchelibre.fr | tls.non.li |

@@ -4,6 +4,10 @@
 
 * acweb.clog.jp
 
+### Rarely active trackers
+
+* ms-acweb.clog3.net
+
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -25,7 +29,6 @@
 | l.i-ra.jp | acweb.clog.jp |
 | l.ikora.tv | acweb.clog.jp |
 | l.junglekouen.com | acweb.clog.jp |
-| l.kataranna.com | acweb.clog.jp |
 | l.kitemi.net | acweb.clog.jp |
 | l.ko-co.jp | acweb.clog.jp |
 | l.kyo2.jp | acweb.clog.jp |
@@ -47,8 +50,13 @@
 | l.tec29.com | acweb.clog.jp |
 | l.tencho.cc | acweb.clog.jp |
 | l.tenkomori.tv | acweb.clog.jp |
+| l.thd-web.jp | acweb.clog.jp |
 | l.ti-da.net | acweb.clog.jp |
 | l.toushiikusei.net | acweb.clog.jp |
 | l.tsukuba.ch | acweb.clog.jp |
 | l.vietnhat.tv | acweb.clog.jp |
 | l.yoka-yoka.jp | acweb.clog.jp |
+| l.boo-log.com | ms-acweb.clog3.net |
+| l.kataranna.com | ms-acweb.clog3.net |
+| l.sagafan.jp | ms-acweb.clog3.net |
+| l.tsukuba.ch | ms-acweb.clog3.net |

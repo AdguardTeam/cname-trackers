@@ -223,7 +223,6 @@
 ||affiliate.onlinepsiskola.cz^
 ||affiliate.organikk.cz^
 ||affiliate.pasti.cz^
-||affiliate.pesvbyte.cz^
 ||affiliate.petr-zeman.cz^
 ||affiliate.ph7.cz^
 ||affiliate.plutoscompany.sk^
@@ -247,7 +246,6 @@
 ||affiliate.siko.cz^
 ||affiliate.smarty.cz^
 ||affiliate.smsticket.cz^
-||affiliate.snowbitch.cz^
 ||affiliate.socialsprinters.cz^
 ||affiliate.soscredit.cz^
 ||affiliate.sperkin.cz^
@@ -536,7 +534,6 @@
 ||partner.dressibly.cz^
 ||partner.drfit.cz^
 ||partner.dripit.cz^
-||partner.dvereskladom.sk^
 ||partner.dynamikabohatstvi.cz^
 ||partner.eandilek.cz^
 ||partner.ecomail.cz^
@@ -550,7 +547,6 @@
 ||partner.evolutionhub.cz^
 ||partner.excaliburshop.com^
 ||partner.exitshop.cz^
-||partner.expertnavlasy.sk^
 ||partner.expresmenu.com^
 ||partner.expresmenu.cz^
 ||partner.expresmenu.pl^
@@ -577,14 +573,13 @@
 ||partner.grandstyl.cz^
 ||partner.greenbeast.vip^
 ||partner.gurufinance.cz^
-||partner.hanamoneam.com^
 ||partner.happy-power.cz^
 ||partner.hegesztok-bolt.hu^
 ||partner.hizeromop.com^
 ||partner.hodinarstvi.cz^
 ||partner.hoska-tour.cz^
+||partner.hrax.cz^
 ||partner.hubnu.online^
-||partner.hubnutimarija.cz^
 ||partner.hunter.games^
 ||partner.hurom.cz^
 ||partner.idoklad.cz^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 adamsads.midtc.com CNAME .
 adconsole.bidspotter.co.uk CNAME .
 adconsole.eva.live CNAME .
+adconsole.i-bidder.com CNAME .
 adconsole.kozoom.com CNAME .
 adconsole.lot-tissimo.com CNAME .
 adconsole.proxibid.com CNAME .
@@ -123,6 +124,7 @@ display.lawbulletin.com CNAME .
 etnomedia-static.reviveservers.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
+images.etnomedia.nl CNAME .
 images.falconstudios.com CNAME .
 images.goldseek.com CNAME .
 images.hour-media.com CNAME .

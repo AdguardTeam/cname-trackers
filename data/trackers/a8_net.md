@@ -339,7 +339,6 @@
 | a8.thermostand.jp | trck.a8.net |
 | a8.thg.co.jp | trck.a8.net |
 | a8.thidastone.com | trck.a8.net |
-| a8.tideisturning.com | trck.a8.net |
 | a8.tokihana.net | trck.a8.net |
 | a8.tokyo-hills-clinic.com | trck.a8.net |
 | a8.tomo.life | trck.a8.net |

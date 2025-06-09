@@ -5,6 +5,7 @@
 ||cdn.laim.tv^
 ||cdn33.protagcdn.com^
 ||dashboard.andbeyond.media^
+||dashboard.boostads.ru^
 ||dashboard.digita.media^
 ||dashboard.grapemedia.cz^
 ||dashboard.viewtraff.com^

@@ -306,6 +306,7 @@
 ||data-1fbcf6d7f5.kurier.de^
 ||data-1fbcf6d7f5.leonberger-kreiszeitung.de^
 ||data-1fbcf6d7f5.marbacher-zeitung.de^
+||data-1fbcf6d7f5.mhsdigital.de^
 ||data-1fbcf6d7f5.np-coburg.de^
 ||data-1fbcf6d7f5.schwarzwaelder-bote.de^
 ||data-1fbcf6d7f5.stuttgart-gedenkt.de^
@@ -1422,6 +1423,7 @@
 ||data-a2c8256a75.sawmusikwelt.de^
 ||data-a379a2e240.petbook.de^
 ||data-a38e203a07.radio38.de^
+||data-a3a5ca8056.apps.iocnt.de^
 ||data-a406cb7ed1.onpulson.de^
 ||data-a47d9423c7.esslingen.de^
 ||data-a486ca6d85.hamburg-magazin.de^
@@ -1548,7 +1550,6 @@
 ||data-b1ae357847.apps.iocnt.de^
 ||data-b204b9f978.4players.de^
 ||data-b21e1c06f5.apps.iocnt.de^
-||data-b23bcc2b84.radioaustria.at^
 ||data-b261ece11d.wochenblatt.de^
 ||data-b2b62acd29.big-fm.de^
 ||data-b2b62acd29.bigfm.de^
@@ -1659,6 +1660,7 @@
 ||data-be8e6a7af1.bvz.at^
 ||data-be9b6161bf.aponet.de^
 ||data-bf49d28783.apps.iocnt.de^
+||data-bff71da19f.apps.iocnt.de^
 ||data-c05bf504b4.gesund24.at^
 ||data-c061012ba4.bisafans.de^
 ||data-c062efa4b8.arboe.at^

@@ -449,6 +449,7 @@ t.und.com
 t.unlvrebels.com
 t.usajaguars.com
 t.usctrojans.com
+t.usdtoreros.com
 t.utahstateaggies.com
 t.utahutes.com
 t.uticacomets.com
@@ -780,6 +781,7 @@ trck.info.harpumbrella.com
 trck.info.hondacenter.com
 trck.info.improsafondos.com
 trck.info.njf.no
+trck.info.ocvibe.com
 trck.info.orhp.com
 trck.info.petrosure.com
 trck.info.pittsburghpenguins.com
@@ -823,6 +825,7 @@ trck.relacionamento.uol.com.br
 trck.renew.orhp.com
 trck.resources.blueprintgenetics.com
 trck.revvity.com
+trck.ricoh.fr
 trck.ricoh.it
 trck.servicecomms.virginmediao2business.co.uk
 trck.www4.earlywarning.com
@@ -960,6 +963,7 @@ trk.jorc.eu
 trk.kaliakra.bg
 trk.kansashealthsystem.com
 trk.kirbybuilt.com
+trk.l-com.cn
 trk.laetta.com
 trk.laperfecta.com.pa
 trk.laperfecta.pa
@@ -1266,6 +1270,7 @@ view.nucorbuildingsystems.com
 webtracking.chamberlain.edu
 webtracking.moneylaundering.com
 www.tracking.dunnhumby.com
+www.trk.web-cast.ro
 07.go.thermofisher.com
 1stparty.equifax.co.uk
 cd.chemistanddruggist.co.uk
@@ -1786,6 +1791,7 @@ info.transcontinental-printing.com
 info.venyu.com
 info.viant.com
 innovation.m5.net
+innovation.m5net.com
 ins.wolterskluwerfs.com
 insight.aon.com
 insight.leads360.com
@@ -2025,6 +2031,7 @@ www-104.aig.com
 www-106.aig.com
 www.activisionnews.com
 www.comcastbiz.com
+www.datacenterxpert.net
 www.epargnez.adp.ca
 www.forms.infor.com
 www.glf.mt.com
@@ -2064,6 +2071,7 @@ dseloqua.danskespil.dk
 elq-trk.fullsail.edu
 engage.jacksonhewitt.com
 explore-dev.agilent.com
+framework.gettyimages.com
 gdmelqact.gartner.com
 getinfo.fullsail.edu
 getinfo.fullsaildc3.com
@@ -2160,6 +2168,7 @@ go.blackrock.com
 go.climate.emerson.com
 go.comres.emerson.com
 go.insinkerator.emerson.com
+info.burriswindows.com
 info.commercial.keurig.com
 insights.mma-adl.com
 insights.mmaeast.com
@@ -2902,6 +2911,7 @@ images.comm.pwc.com.br
 images.commercecloudevents.salesforce.com
 images.comms.australian.physio
 images.comms.cirium.com
+images.communicatie.xperthr.nl
 images.communication.carsales.com.au
 images.communication.maerskline.com
 images.communications.aldar.com
@@ -3279,6 +3289,7 @@ images.ncigroup.com
 images.news.auchan.lu
 images.news.extrahop.com
 images.news.lavoro.gov.it
+images.news.mclaren.com
 images.news.meraas.com
 images.news.panasonic.asia
 images.news.psjhealth.org
@@ -3421,8 +3432,7 @@ imginfo.insource.co.jp
 obrazy.dlabiznesu.pracuj.pl
 response.quest.com
 yourporscheimg.nabooda-auto.com
-images.communicatie.xperthr.nl
-images.news.mclaren.com
+images.go.dunnhumby.com
 admin.smartgroup.com.au
 cars.autopia.com.au
 cars.smartfleetaustralia.com.au
@@ -3569,6 +3579,7 @@ go.imaginecommunications.com
 go.iowacubs.com
 go.saintsbaseball.com
 go.tulsadrillers.com
+go.windsurge.com
 hr.adp.ca
 images.refinitiv.com
 in.secure.sonosite.com
@@ -3941,6 +3952,7 @@ medtronicdiabetes.medtronic.com
 mercadeo.promerica.fi.cr
 messages.blackhat.com
 mktg.northstardubai.com
+na.demo.eloquademos.com
 page.email.trinity-health.org
 reply.osv.com
 s.latam.cemex.com
@@ -4039,6 +4051,7 @@ info.ubmamg-media.com
 isac.thermo.com
 isac.thermofisher.com
 learn.natera.com
+learn.oncourselearning.com
 links.e.response.mayoclinic.org
 novedades.telecomfibercorp.com.ar
 oracle-netsuite-com-796203850.p04.elqsandbox.com
@@ -4081,6 +4094,7 @@ trk.plastecminn.com
 trk.plasticstoday.com
 trk.powderandbulkshow.com
 trk.powderandbulksolids.com
+trk.powderbulksolids.com
 trk.processtechexpo.com
 trk.qmed.com
 trk.thebatteryshow.com
@@ -4636,6 +4650,7 @@ discover.rewe-group.at
 eloq.fiducial.fr
 engage.constructionext.com
 engage.informaconstructionmarkets.com
+engage.issashow.com
 engage.issworldexpo.com
 engage.jlclive.com
 engage.poolspapatio.com
@@ -4662,6 +4677,7 @@ lkr-trk.reply.com
 lkr.reply.eu
 lp.cevalogistics.com
 news.seatrade-maritime.com
+pages06.informamarkets.com
 pm.eu.viatrisconnect.co.uk
 pm.eu.viatrisconnect.com
 pm.eu.viatrisconnect.de
@@ -4815,6 +4831,7 @@ tracking.trinet.com
 tracking2.questdiagnostics.com
 trackinginternal.ti.com
 trackinginternal.ti.com.cn
+trackinginternal.tij.co.jp
 web.healthcare.northbay.org
 www.afternoonmeeting.com
 www.mkt.uvg.edu.gt
@@ -5499,6 +5516,7 @@ support.ricoh.de
 support.ricoh.fr
 sustainability.ricoh.co.za
 test.go.provident.bank
+tools.ricoh.co.uk
 tools.ricoh.de
 track.info.cancertherapyadvisor.com
 track.info.clinicaladvisor.com
@@ -5840,7 +5858,6 @@ app.tuckerciviccenter.com
 appcloud.appyreward.com
 info.putitforward.com
 response.desjardins.com
-tools.ricoh.co.uk
 archived.first.eloqua.extrahop.com
 archived.learn.eloqua.extrahop.com
 automotive-business.vodafone.com
@@ -5925,6 +5942,7 @@ exhibit.firex.co.uk
 exhibit.kbb.co.uk
 exhibit.safety-health-expo.co.uk
 exhibit.shponline.co.uk
+exhibit.sleepandeatevent.com
 exhibit.ubm-events.com
 fromhttptohttps.atea.fi
 go.century21.fr
@@ -6490,7 +6508,6 @@ response.informamarketsasia.com
 site.tdk.cn
 site.tdk.com
 solution.resonac.com
-survey.mazda.com.au
 tracking.tdk.com
 elq.axeslive.com
 engage.unisa.edu.au

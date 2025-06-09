@@ -46,7 +46,6 @@
 ||activate.ramonasentinel.com^
 ||activate.ranchosantafereview.com^
 ||activate.redeyechicago.com^
-||activate.shopjustice.com^
 ||activate.solanabeachsun.com^
 ||activate.southflorida.com^
 ||activate.sun-sentinel.com^
@@ -275,6 +274,7 @@
 ||nexus.tdinsurance.com^
 ||nexus.toyota.com^
 ||nexus.virginholidays.co.uk^
+||ntms-test.koganmoney.com.au^
 ||p.pulse.buyatoyota.com^
 ||p.pulse.lexus.com^
 ||p.pulse.toyota.com^

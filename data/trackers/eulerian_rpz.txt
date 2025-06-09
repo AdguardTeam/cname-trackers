@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,7 +18,6 @@ $TTL 300
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
 3esm.consubebe.es CNAME .
-5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -73,7 +72,7 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -91,7 +90,6 @@ ct5m.citadium.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
 d0f.le-dauphin.com CNAME .
-d2u.dauphinquebec.com CNAME .
 deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
 deut3.fdj.fr CNAME .
@@ -154,6 +152,7 @@ ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
+ea.mnt.fr CNAME .
 ea.mondial-assistance.fr CNAME .
 ea.mydailyhotel.com CNAME .
 ea.mywarner.warnerbros.fr CNAME .
@@ -191,7 +190,6 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
 eb.mistermenuiserie.com CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -261,7 +259,6 @@ gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 gli9.inseec-bs.com CNAME .
 gnh2.destinia.lv CNAME .
 gsg9.carrefour-banque.fr CNAME .
@@ -292,7 +289,6 @@ jun23.madeindesign.de CNAME .
 jxy6.evobanco.es CNAME .
 kep6.destinia.ie CNAME .
 kwsjy9.oui.sncf CNAME .
-l2i.qualityinnlevis.com CNAME .
 lbc.lesbonscommerces.fr CNAME .
 leo1.leon-de-bruxelles.fr CNAME .
 let1.devialet.com CNAME .
@@ -360,6 +356,7 @@ pcnphysio-com.ca-eulerian.net CNAME .
 pgt1.voyage-prive.es CNAME .
 piq4.inseec.education CNAME .
 pjh7.us.chantelle.com CNAME .
+pk1u.melanielyne.com CNAME .
 pkc5.hardrockhoteltenerife.com CNAME .
 pm.pmu.fr CNAME .
 po.ponant.com CNAME .
@@ -394,6 +391,7 @@ rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
 rwl.tremblant.ca CNAME .
+ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
 sa.skoda.fr CNAME .
@@ -413,7 +411,6 @@ sr.mistermenuiserie.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
-su1.les-suites.ca CNAME .
 sykc.madeindesign.ch CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
@@ -424,7 +421,6 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -479,7 +475,6 @@ www.attributionday.com CNAME .
 www.dataholics.tech CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
-www.mis.tourisme-montreal.org CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
 xoq.pmubrasil.com.br CNAME .
@@ -502,10 +497,15 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
-c0p.cepsum.umontreal.ca CNAME .
+5fm.985fm.ca CNAME .
+c0i.ckoi.com CNAME .
+d2u.dauphinquebec.com CNAME .
+eat9.thebeat925.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
-ry0.rythmefm.com CNAME .
+l2i.qualityinnlevis.com CNAME .
+su1.les-suites.ca CNAME .
+t0y.toyota.ca CNAME .
+www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .
-ea.mnt.fr CNAME .
+gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .
-pk1u.melanielyne.com CNAME .

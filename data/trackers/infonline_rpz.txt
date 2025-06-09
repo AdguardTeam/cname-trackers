@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -317,6 +317,7 @@ data-1fbcf6d7f5.krzbb.de CNAME .
 data-1fbcf6d7f5.kurier.de CNAME .
 data-1fbcf6d7f5.leonberger-kreiszeitung.de CNAME .
 data-1fbcf6d7f5.marbacher-zeitung.de CNAME .
+data-1fbcf6d7f5.mhsdigital.de CNAME .
 data-1fbcf6d7f5.np-coburg.de CNAME .
 data-1fbcf6d7f5.schwarzwaelder-bote.de CNAME .
 data-1fbcf6d7f5.stuttgart-gedenkt.de CNAME .
@@ -1433,6 +1434,7 @@ data-a2c8256a75.saw-musikwelt.de CNAME .
 data-a2c8256a75.sawmusikwelt.de CNAME .
 data-a379a2e240.petbook.de CNAME .
 data-a38e203a07.radio38.de CNAME .
+data-a3a5ca8056.apps.iocnt.de CNAME .
 data-a406cb7ed1.onpulson.de CNAME .
 data-a47d9423c7.esslingen.de CNAME .
 data-a486ca6d85.hamburg-magazin.de CNAME .
@@ -1559,7 +1561,6 @@ data-b19f3371de.songtexte.com CNAME .
 data-b1ae357847.apps.iocnt.de CNAME .
 data-b204b9f978.4players.de CNAME .
 data-b21e1c06f5.apps.iocnt.de CNAME .
-data-b23bcc2b84.radioaustria.at CNAME .
 data-b261ece11d.wochenblatt.de CNAME .
 data-b2b62acd29.big-fm.de CNAME .
 data-b2b62acd29.bigfm.de CNAME .
@@ -1670,6 +1671,7 @@ data-be7aa39ed4.apps.iocnt.de CNAME .
 data-be8e6a7af1.bvz.at CNAME .
 data-be9b6161bf.aponet.de CNAME .
 data-bf49d28783.apps.iocnt.de CNAME .
+data-bff71da19f.apps.iocnt.de CNAME .
 data-c05bf504b4.gesund24.at CNAME .
 data-c061012ba4.bisafans.de CNAME .
 data-c062efa4b8.arboe.at CNAME .

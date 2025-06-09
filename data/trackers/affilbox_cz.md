@@ -244,7 +244,6 @@
 | affiliate.onlinepsiskola.cz | cz.affilbox.cz |
 | affiliate.organikk.cz | cz.affilbox.cz |
 | affiliate.pasti.cz | cz.affilbox.cz |
-| affiliate.pesvbyte.cz | cz.affilbox.cz |
 | affiliate.petr-zeman.cz | cz.affilbox.cz |
 | affiliate.ph7.cz | cz.affilbox.cz |
 | affiliate.plutoscompany.sk | cz.affilbox.cz |
@@ -268,7 +267,6 @@
 | affiliate.siko.cz | cz.affilbox.cz |
 | affiliate.smarty.cz | cz.affilbox.cz |
 | affiliate.smsticket.cz | cz.affilbox.cz |
-| affiliate.snowbitch.cz | cz.affilbox.cz |
 | affiliate.socialsprinters.cz | cz.affilbox.cz |
 | affiliate.soscredit.cz | cz.affilbox.cz |
 | affiliate.sperkin.cz | cz.affilbox.cz |
@@ -557,7 +555,6 @@
 | partner.dressibly.cz | cz.affilbox.cz |
 | partner.drfit.cz | cz.affilbox.cz |
 | partner.dripit.cz | cz.affilbox.cz |
-| partner.dvereskladom.sk | cz.affilbox.cz |
 | partner.dynamikabohatstvi.cz | cz.affilbox.cz |
 | partner.eandilek.cz | cz.affilbox.cz |
 | partner.ecomail.cz | cz.affilbox.cz |
@@ -571,7 +568,6 @@
 | partner.evolutionhub.cz | cz.affilbox.cz |
 | partner.excaliburshop.com | cz.affilbox.cz |
 | partner.exitshop.cz | cz.affilbox.cz |
-| partner.expertnavlasy.sk | cz.affilbox.cz |
 | partner.expresmenu.com | cz.affilbox.cz |
 | partner.expresmenu.cz | cz.affilbox.cz |
 | partner.expresmenu.pl | cz.affilbox.cz |
@@ -598,14 +594,13 @@
 | partner.grandstyl.cz | cz.affilbox.cz |
 | partner.greenbeast.vip | cz.affilbox.cz |
 | partner.gurufinance.cz | cz.affilbox.cz |
-| partner.hanamoneam.com | cz.affilbox.cz |
 | partner.happy-power.cz | cz.affilbox.cz |
 | partner.hegesztok-bolt.hu | cz.affilbox.cz |
 | partner.hizeromop.com | cz.affilbox.cz |
 | partner.hodinarstvi.cz | cz.affilbox.cz |
 | partner.hoska-tour.cz | cz.affilbox.cz |
+| partner.hrax.cz | cz.affilbox.cz |
 | partner.hubnu.online | cz.affilbox.cz |
-| partner.hubnutimarija.cz | cz.affilbox.cz |
 | partner.hunter.games | cz.affilbox.cz |
 | partner.hurom.cz | cz.affilbox.cz |
 | partner.idoklad.cz | cz.affilbox.cz |

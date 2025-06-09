@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,11 +137,11 @@ businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em225.codecademy.com CNAME .
-em2287.theory.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
-em7952.dailypay.com CNAME .
 em8928.em.petco.com CNAME .
-em9523.walmartmoneycard.com CNAME .
+em924.refer.starbucks.com CNAME .
+emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -783,12 +783,12 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
+em7952.dailypay.com CNAME .
 em8561.go2bank.com CNAME .
-em924.refer.starbucks.com CNAME .
-emxxxx.rent.app CNAME .
+em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl._domainkey.walmartmoneycard.com CNAME .

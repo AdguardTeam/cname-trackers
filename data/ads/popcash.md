@@ -97,7 +97,7 @@
 | support-v2.sweetwaternow.com | bs-adserver.b-cdn.net |
 | supporters.redbankgreen.com | bs-adserver.b-cdn.net |
 | yourarlington.streetinteractive.com | bs-adserver.b-cdn.net |
-| www.cdnaccelerationcache.com | cdnaccelerationcache.b-cdn.net |
+| www.cdnboostcache.com | cdnaccelerationcache.b-cdn.net |
 | consent.cookiefirst.com | consent.b-cdn.net |
 | 1.bunkr-cache.se | core-apps.b-cdn.net |
 | bcdn.cpmstar.com | cpmstar.b-cdn.net |
@@ -767,7 +767,6 @@
 | platypus.cmp.is | deprecated-custom-domains.b-cdn.net |
 | platypus.colly.com | deprecated-custom-domains.b-cdn.net |
 | platypus.tompec.com | deprecated-custom-domains.b-cdn.net |
-| platypus.zwei-bags.ch | deprecated-custom-domains.b-cdn.net |
 | polarbear.codeday.org | deprecated-custom-domains.b-cdn.net |
 | polarbear.conermurphy.com | deprecated-custom-domains.b-cdn.net |
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |

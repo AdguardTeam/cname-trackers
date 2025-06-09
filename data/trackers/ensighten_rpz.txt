@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -57,7 +57,6 @@ activate.prosoccerusa.com CNAME .
 activate.ramonasentinel.com CNAME .
 activate.ranchosantafereview.com CNAME .
 activate.redeyechicago.com CNAME .
-activate.shopjustice.com CNAME .
 activate.solanabeachsun.com CNAME .
 activate.southflorida.com CNAME .
 activate.sun-sentinel.com CNAME .
@@ -286,6 +285,7 @@ nexus.tdbank.com CNAME .
 nexus.tdinsurance.com CNAME .
 nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .
+ntms-test.koganmoney.com.au CNAME .
 p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .

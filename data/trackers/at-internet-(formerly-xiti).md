@@ -58,7 +58,6 @@
     * mefo1-zdf-de-cddc.at-o.net
     * mkt-usz-ch-cddc.at-o.net
     * montpalatin-handicap-fr-cddc.at-o.net
-    * pear-youzful-by-ca-fr-cddc.at-o.net
     * pilau-oddo-bhf-com-cddc.at-o.net
     * ponyo-cheriefm-fr-cddc.at-o.net
     * protys-protys-fr-cddc.at-o.net
@@ -68,6 +67,7 @@
     * res-marianne-net-cddc.at-o.net
     * res-programme-television-org-cddc.at-o.net
     * res-public-fr-cddc.at-o.net
+    * res-t18-fr-cddc.at-o.net
     * ressources-argusassurance-com-cddc.at-o.net
     * ressources-caradisiac-com-cddc.at-o.net
     * ressources-centraleauto-com-cddc.at-o.net
@@ -153,7 +153,6 @@
 | mefo1.zdf.de | mefo1-zdf-de-cddc.at-o.net |
 | mkt.usz.ch | mkt-usz-ch-cddc.at-o.net |
 | montpalatin.handicap.fr | montpalatin-handicap-fr-cddc.at-o.net |
-| pear.youzful-by-ca.fr | pear-youzful-by-ca-fr-cddc.at-o.net |
 | pilau.oddo-bhf.com | pilau-oddo-bhf-com-cddc.at-o.net |
 | ponyo.cheriefm.fr | ponyo-cheriefm-fr-cddc.at-o.net |
 | protys.protys.fr | protys-protys-fr-cddc.at-o.net |
@@ -163,6 +162,7 @@
 | res.marianne.net | res-marianne-net-cddc.at-o.net |
 | res.programme-television.org | res-programme-television-org-cddc.at-o.net |
 | res.public.fr | res-public-fr-cddc.at-o.net |
+| res.t18.fr | res-t18-fr-cddc.at-o.net |
 | ressources.argusassurance.com | ressources-argusassurance-com-cddc.at-o.net |
 | ressources.caradisiac.com | ressources-caradisiac-com-cddc.at-o.net |
 | ressources.centraleauto.com | ressources-centraleauto-com-cddc.at-o.net |

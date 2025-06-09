@@ -21,6 +21,7 @@ afm.startrader.live
 afm.startraderasia.com
 afm.startraderfr.com
 afm.startraderjp.com
+afm.startradermarkets.com
 afm.startradermy.com
 afm.sthub.cc
 afm.ultima-markets.com
@@ -43,6 +44,7 @@ afm.vnvtglobal.com
 afm.vtg-mkt-apac.com
 afm.vtg-mkt.com
 afm.vtg-mkts.com
+afm.vtglobalchn.com
 afm.vtmarkets.co
 afm.vtmarkets.com
 afm.vtmarkets.net
@@ -253,7 +255,6 @@ content.berluti.com
 content.biggerbooks.com
 content.billdomain.com
 content.billsupport.com
-content.bnl.it
 content.bnpparibas.net
 content.byabcd.com
 content.canadiantire.ca
@@ -375,7 +376,6 @@ content.sportsexperts.ca
 content.ssctech.com
 content.sso.tracesmart.co.uk
 content.tab.com.au
-content.telusinternational.ai
 content.tfbank.at
 content.tfbank.de
 content.tfbank.es
@@ -1255,7 +1255,6 @@ ww3.marlincapitalsolutions.com
 ww3.peacsolutions.com
 ww9.lloydsbank.com
 www.cdna.cofidis.be
-www.content.bnl.it
 www.content.espace-client.hellobank.fr
 www.content.mabanque.bnpparibas
 www.content.mabanqueprivee.bnpparibas

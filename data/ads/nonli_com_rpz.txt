@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ it.h24.news CNAME .
 l.20minutes.fr CNAME .
 l.3djuegos.com CNAME .
 l.750g.com CNAME .
+l.academiedugout.fr CNAME .
 l.actu.fr CNAME .
 l.adorocinema.com CNAME .
 l.africabusinessplus.com CNAME .
@@ -116,6 +117,7 @@ l.jeuneafrique.com CNAME .
 l.jeuxvideo.com CNAME .
 l.journaldemillau.fr CNAME .
 l.koolmag.fr CNAME .
+l.la-croix.com CNAME .
 l.lacremedugaming.fr CNAME .
 l.ladepeche.fr CNAME .
 l.lalsace.fr CNAME .

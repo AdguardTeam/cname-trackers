@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1748981604671        ; Serial
+           1749456009150        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -200,6 +200,7 @@ tr.capu.espmp-agfr.net CNAME .
 tr.carl.espmp-cufr.net CNAME .
 tr.cart.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
+tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .
@@ -1084,8 +1085,6 @@ tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.satisfaction.villagesnature.com CNAME .
 tr.schj.espmp-aufr.net CNAME .
-tr.scienceshumaines.info CNAME .
-tr.scienceshumaines.pro CNAME .
 tr.seat-fs-email.fr CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.service-client.mhdfrance.fr CNAME .

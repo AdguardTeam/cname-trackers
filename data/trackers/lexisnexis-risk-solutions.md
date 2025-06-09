@@ -123,7 +123,6 @@
     * h-6rj18la4.online-metrix.net
     * h-6t5eekm8.online-metrix.net
     * h-6v2be3y0.online-metrix.net
-    * h-6voqock8.online-metrix.net
     * h-6wp7e261.online-metrix.net
     * h-6wvzx05q.online-metrix.net
     * h-6xl38gst.online-metrix.net
@@ -1049,7 +1048,6 @@
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | content.norwegianlab.com | h-6t5eekm8.online-metrix.net |
 | content.ip4y.com.br | h-6v2be3y0.online-metrix.net |
-| content.telusinternational.ai | h-6voqock8.online-metrix.net |
 | contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
 | pic.bankonline.ge | h-6wvzx05q.online-metrix.net |
 | content.cofidis.pt | h-6xl38gst.online-metrix.net |
@@ -1148,6 +1146,7 @@
 | afm.startraderasia.com | h-96eziru5.online-metrix.net |
 | afm.startraderfr.com | h-96eziru5.online-metrix.net |
 | afm.startraderjp.com | h-96eziru5.online-metrix.net |
+| afm.startradermarkets.com | h-96eziru5.online-metrix.net |
 | afm.startradermy.com | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
 | afm.ultima-markets.com | h-96eziru5.online-metrix.net |
@@ -1170,6 +1169,7 @@
 | afm.vtg-mkt-apac.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkts.com | h-96eziru5.online-metrix.net |
+| afm.vtglobalchn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.co | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
@@ -1359,9 +1359,7 @@
 | content22.bmo.com | h-bmo.online-metrix.net |
 | enligne.bnc.ca | h-bnc.online-metrix.net |
 | online.nbc.ca | h-bnc.online-metrix.net |
-| content.bnl.it | h-bnl.online-metrix.net |
 | content.hellobank.it | h-bnl.online-metrix.net |
-| www.content.bnl.it | h-bnl.online-metrix.net |
 | css.bitcasino.io | h-bo72h7g2-1.online-metrix.net |
 | css.slots.io | h-bo72h7g2-4.online-metrix.net |
 | css.sportsbet.io | h-bo72h7g2-5.online-metrix.net |

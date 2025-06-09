@@ -245,6 +245,7 @@
 ||b.your-account.t-mobile.com^
 ||b.your.rewardsemail.dominos.ca^
 ||b21.ifly.southwest.com^
+||b30.stagert.southwest.com^
 ||bdtestsendpulse.branch.rocks^
 ||bemail.mail.mojo.sport^
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
@@ -523,6 +524,7 @@
 ||email.link.flipgive.com^
 ||email.luminpdf.com^
 ||email.mail.floatme.io^
+||email.marcon.au^
 ||email.member.theknot.com^
 ||email.mg.basirly.com^
 ||email.mg.everyonesocial.com^
@@ -1295,6 +1297,7 @@
 ||app.forever21.com^
 ||app.fount.bio^
 ||app.frieze.com^
+||app.fsecret.com.br^
 ||app.fundify.com^
 ||app.fuse.cash^
 ||app.gangelapp.com^
@@ -1673,6 +1676,7 @@
 ||app2.220cordncode.com^
 ||appbgv.abphotos.link^
 ||appdev.extasy.com^
+||appdownload.hellosugar.salon^
 ||application.influur.com^
 ||application.mindshine.app^
 ||application.mybiglove.ru^
@@ -2105,6 +2109,7 @@
 ||c4c9.pandasuite.io^
 ||c6lc.pandasuite.io^
 ||c917.pandasuite.io^
+||ca.techieustad.com^
 ||caapp.levi.com^
 ||calligo-deeplink.calligo.app^
 ||calligo.app^
@@ -2496,6 +2501,7 @@
 ||dp.tuex.ca^
 ||drive.carpoollogistics.com^
 ||driver.jugnoo.in^
+||driverportal-na-2-links.evconnect.com^
 ||drngoc.abphotos.link^
 ||dropcoffee.openapp.link^
 ||dsmexam.quantresear.ch^
@@ -2559,6 +2565,7 @@
 ||familydoctor-app.hotdoc.com.au^
 ||familypractice-app.hotdoc.com.au^
 ||fast.icars.cc^
+||faston.tupimob.com^
 ||faykerealestate6816-test.myre.io^
 ||fb.echovisuals.com^
 ||feedback.campbellmetal.com^
@@ -2925,6 +2932,7 @@
 ||go.ginmon.de^
 ||go.goflux.de^
 ||go.gridwise.io^
+||go.gymsplat.com^
 ||go.hanawallet.io^
 ||go.hbnb.io^
 ||go.hcmuaf.edu.vn^
@@ -3090,6 +3098,7 @@
 ||go.tab.com.au^
 ||go.taillight.com^
 ||go.tamed.fdm.dk^
+||go.techieustad.com^
 ||go.teepic.com^
 ||go.teepik.com^
 ||go.test.mindfi.co^
@@ -3360,6 +3369,7 @@
 ||join.motion-app.com^
 ||join.our-story.co^
 ||join.parentlove.me^
+||join.plaiir.com^
 ||join.planetapp.rocks^
 ||join.plative.ro^
 ||join.pop.in^
@@ -3618,7 +3628,6 @@
 ||link.booknet.com^
 ||link.booknet.ua^
 ||link.booksy.com^
-||link.boost.fit^
 ||link.bounce.cx^
 ||link.bounty.com^
 ||link.brickapp.se^
@@ -3645,7 +3654,9 @@
 ||link.cariber.co^
 ||link.cashi.in^
 ||link.cerego.com^
+||link.chalknation.com^
 ||link.chamchi.kr^
+||link.checkatrade.com^
 ||link.classicalradio.com^
 ||link.cleaninglab.co.kr^
 ||link.clearsky.jlg.com^
@@ -3913,6 +3924,7 @@
 ||link.mentia.me^
 ||link.meseljnekem.hu^
 ||link.metronaut.app^
+||link.meupet.io^
 ||link.midnite.com^
 ||link.million.one^
 ||link.mindsetapp.com^
@@ -3993,7 +4005,6 @@
 ||link.pinpoint.golf^
 ||link.pirulakalauz.hu^
 ||link.place2biz.fr^
-||link.placebo.life^
 ||link.plantis.app^
 ||link.playbackhealth.com^
 ||link.plaympe.com^
@@ -4074,6 +4085,7 @@
 ||link.sidechat.lol^
 ||link.siftfoodlabels.com^
 ||link.sixcycle.com^
+||link.sleephappy.com^
 ||link.sluv.org^
 ||link.smartrbuyer.com^
 ||link.smile.com.au^
@@ -4567,6 +4579,7 @@
 ||maths.positure.com.au^
 ||matrix.elecle.bike^
 ||maui.shakaguide.com^
+||mblinks.vpc.ca^
 ||mcatexam.quantresear.ch^
 ||mcgrawrealtors12103.myre.io^
 ||mcr-link.shares.social^
@@ -4582,6 +4595,7 @@
 ||member-app-pre-production.rightwayhealthcare.com^
 ||member-app-staging.rightwayhealthcare.com^
 ||member-app.rightwayhealthcare.com^
+||member-links.tecqplatform.net^
 ||merchant-app.th3rdwave.coffee^
 ||merchant.libertycarz.com^
 ||merchants.food.li^
@@ -4616,6 +4630,7 @@
 ||mobile-sign-dev.luminpdf.com^
 ||mobile-sign.luminpdf.com^
 ||mobile.321zips.com^
+||mobile.99esim.com^
 ||mobile.aspensnowmass.com^
 ||mobile.bespontix.com^
 ||mobile.bswift.com^
@@ -4655,7 +4670,9 @@
 ||mt.plateiq.com^
 ||mtcha.peblla.app^
 ||mtest.fontself.com^
+||muahang247.abphotos.link^
 ||music.tuneconnectapp.com^
+||must.openapp.link^
 ||mx.happ.social^
 ||mx2.happ.social^
 ||my-staging.villa.ge^
@@ -4802,6 +4819,7 @@
 ||pezogyros.openapp.link^
 ||pf.a23.in^
 ||ph-scphotographer.m-shop.me^
+||phantomre.myre.io^
 ||pharmacyexam.quantresear.ch^
 ||phlair.morlantech.com^
 ||phlebotomyexam.quantresear.ch^
@@ -5193,6 +5211,7 @@
 ||share.scoreholio.com^
 ||share.sharafdg.com^
 ||share.simplifi.it^
+||share.solance.app^
 ||share.soundit.com^
 ||share.sparemin.com^
 ||share.spoter.photo^
@@ -5556,6 +5575,7 @@
 ||vrcamdl.istaging.com^
 ||vrcamdltest.istaging.com^
 ||vtneexam.quantresear.ch^
+||watch.almamlakatv.com^
 ||watch.jawwy.tv^
 ||watch.stctv.com^
 ||watch.vipa.me^

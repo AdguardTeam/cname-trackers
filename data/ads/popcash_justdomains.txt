@@ -811,7 +811,6 @@ planarian.reverberate.org
 platypus.cmp.is
 platypus.colly.com
 platypus.tompec.com
-platypus.zwei-bags.ch
 polarbear.codeday.org
 polarbear.conermurphy.com
 porcupine.dvresolve.com
@@ -1176,4 +1175,4 @@ ss.nwemnd.com
 ss.nwmnd.com
 thirty-good.lugg.com
 video.adsninja.ca
-www.cdnaccelerationcache.com
+www.cdnboostcache.com

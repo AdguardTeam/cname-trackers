@@ -215,6 +215,7 @@
 | tr.carl.espmp-cufr.net | tracking.bp01.net |
 | tr.cart.espmp-cufr.net | tracking.bp01.net |
 | tr.cart02d.espmp-agfr.net | tracking.bp01.net |
+| tr.carte.lcl.fr | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
 | tr.cb4x.banque-casino.fr | tracking.bp01.net |
@@ -1099,8 +1100,6 @@
 | tr.satisfaction.groupe-pv-cp.com | tracking.bp01.net |
 | tr.satisfaction.villagesnature.com | tracking.bp01.net |
 | tr.schj.espmp-aufr.net | tracking.bp01.net |
-| tr.scienceshumaines.info | tracking.bp01.net |
-| tr.scienceshumaines.pro | tracking.bp01.net |
 | tr.seat-fs-email.fr | tracking.bp01.net |
 | tr.secteurentreprises.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.service-client.mhdfrance.fr | tracking.bp01.net |

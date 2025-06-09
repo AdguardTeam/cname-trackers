@@ -17,7 +17,6 @@
 ||l.i-ra.jp^
 ||l.ikora.tv^
 ||l.junglekouen.com^
-||l.kataranna.com^
 ||l.kitemi.net^
 ||l.ko-co.jp^
 ||l.kyo2.jp^
@@ -39,8 +38,10 @@
 ||l.tec29.com^
 ||l.tencho.cc^
 ||l.tenkomori.tv^
+||l.thd-web.jp^
 ||l.ti-da.net^
 ||l.toushiikusei.net^
 ||l.tsukuba.ch^
 ||l.vietnhat.tv^
 ||l.yoka-yoka.jp^
+||l.kataranna.com^

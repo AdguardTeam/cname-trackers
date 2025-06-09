@@ -3,6 +3,7 @@
 adamsads.midtc.com
 adconsole.bidspotter.co.uk
 adconsole.eva.live
+adconsole.i-bidder.com
 adconsole.kozoom.com
 adconsole.lot-tissimo.com
 adconsole.proxibid.com
@@ -112,6 +113,7 @@ display.lawbulletin.com
 etnomedia-static.reviveservers.com
 images.addurance.com
 images.cricketworld.com
+images.etnomedia.nl
 images.falconstudios.com
 images.goldseek.com
 images.hour-media.com

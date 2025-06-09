@@ -189,6 +189,7 @@ tr.capu.espmp-agfr.net
 tr.carl.espmp-cufr.net
 tr.cart.espmp-cufr.net
 tr.cart02d.espmp-agfr.net
+tr.carte.lcl.fr
 tr.cartegie.fr
 tr.cashback.floa.fr
 tr.cb4x.banque-casino.fr
@@ -1073,8 +1074,6 @@ tr.satisfaction.alinea.com
 tr.satisfaction.groupe-pv-cp.com
 tr.satisfaction.villagesnature.com
 tr.schj.espmp-aufr.net
-tr.scienceshumaines.info
-tr.scienceshumaines.pro
 tr.seat-fs-email.fr
 tr.secteurentreprises.harmonie-mutuelle.fr
 tr.service-client.mhdfrance.fr

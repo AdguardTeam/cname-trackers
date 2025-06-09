@@ -21,6 +21,7 @@ it.h24.news
 l.20minutes.fr
 l.3djuegos.com
 l.750g.com
+l.academiedugout.fr
 l.actu.fr
 l.adorocinema.com
 l.africabusinessplus.com
@@ -105,6 +106,7 @@ l.jeuneafrique.com
 l.jeuxvideo.com
 l.journaldemillau.fr
 l.koolmag.fr
+l.la-croix.com
 l.lacremedugaming.fr
 l.ladepeche.fr
 l.lalsace.fr

@@ -308,6 +308,7 @@
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | etnomedia-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | images.addurance.com | platformiq-cdn.aquaplatform.com |
+| images.etnomedia.nl | platformiq-cdn.aquaplatform.com |
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
 | images.jacilla.no | platformiq-cdn.aquaplatform.com |
 | images.mannenmedia.nl | platformiq-cdn.aquaplatform.com |
@@ -343,6 +344,7 @@
 | ads.postandparcel.info | postandparcel-delivery.aquaplatform.com |
 | static.postandparcel.info | postandparcel-static.aquaplatform.com |
 | adconsole.bidspotter.co.uk | proxibid-console.aquaplatform.com |
+| adconsole.i-bidder.com | proxibid-console.aquaplatform.com |
 | adconsole.proxibid.com | proxibid-console.aquaplatform.com |
 | adconsole.the-saleroom.com | proxibid-console.aquaplatform.com |
 | www.adconsole.proxibid.com | proxibid-console.aquaplatform.com |
