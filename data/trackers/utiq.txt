@@ -218,6 +218,7 @@
 ||utiq.laprovincia.es^
 ||utiq.lardennais.fr^
 ||utiq.larep.fr^
+||utiq.larep.fr.cdn.cloudflare.net^
 ||utiq.larepubliquedespyrenees.fr^
 ||utiq.larioja.com^
 ||utiq.lasprovincias.es^
@@ -240,6 +241,7 @@
 ||utiq.lemessager.fr^
 ||utiq.leonoticias.com^
 ||utiq.lepopulaire.fr^
+||utiq.lepopulaire.fr.cdn.cloudflare.net^
 ||utiq.lesnumeriques.com^
 ||utiq.lest-eclair.fr^
 ||utiq.letelegramme.fr^
@@ -289,6 +291,7 @@
 ||utiq.movistar.es^
 ||utiq.mundoxiaomi.com^
 ||utiq.myhomebook.de^
+||utiq.n-tv.de^
 ||utiq.nationalgeographic.com.es^
 ||utiq.neonmag.fr^
 ||utiq.netmums.com^

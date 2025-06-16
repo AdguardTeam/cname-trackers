@@ -134,8 +134,10 @@
 ||static.reacheffecti.work^
 ||static.trafficbull.com^
 ||www.go-static.info^
-||st.static-srv.com^
+||dsp.reacheffect.com^
 ||up.reacheffect.com^
 ||userpanel.ero-advertising.com^
 ||userpanel.eroadvertising.com^
+||www.bidvance.com^
+||st.static-srv.com^
 ||www.go-srv.com^

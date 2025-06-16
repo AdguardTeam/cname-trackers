@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -88,6 +88,7 @@ etracker.louis.ie CNAME .
 etracker.louis.nl CNAME .
 etracker.louis.pl CNAME .
 etracker.louis.se CNAME .
+etracker.lukas-becker.eu CNAME .
 etracker.riess-gruppe.de CNAME .
 ets.verivox.com CNAME .
 ettcc.steute-controltec.com CNAME .
@@ -101,6 +102,7 @@ insides.honic.eu CNAME .
 js.edingershops.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
+metrics.treudelberg-resort.com CNAME .
 mktg.activemind.legal CNAME .
 monitoring.medizinbedarf.eu CNAME .
 mytrd.orion.at CNAME .
@@ -139,6 +141,7 @@ sun.solar-haus.de CNAME .
 system.j5media.de CNAME .
 t.canngo.express CNAME .
 tr.zuhause-finder.com CNAME .
+tr7593.pollin.de CNAME .
 track.bauwirtschaft-bw.de CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
 track.dictum-handwerksgalerie.de CNAME .
@@ -172,6 +175,7 @@ web.satiata-med.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcon.se-legal.de CNAME .
+webcontr.4pace.com CNAME .
 webcontr.aquarius-prolife.com CNAME .
 webcontr.barcodescanner.de CNAME .
 webcontr.baulogistik-online.de CNAME .
@@ -213,6 +217,7 @@ webcontr.synvia.de CNAME .
 webcontr.taxando.de CNAME .
 webcontr.thechefsstories.de CNAME .
 webcontr.verpoorten-mall.de CNAME .
+webcontr.verpoorten-shop.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .
 webcontr.wgv.de CNAME .
@@ -220,6 +225,7 @@ webcontr.wolkenlosundheiter.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
 webstats.arbeitskleidung-expert.de CNAME .
+webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
 websy.skillyofficial.com CNAME .
 webtr.codearchitekten.de CNAME .

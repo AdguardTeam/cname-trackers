@@ -59,6 +59,7 @@ adebis.demae-can.com
 adebis.e-ohaka.com
 adebis.entetsu.co.jp
 adebis.ferret-one.com
+adebis.funds.jp
 adebis.furisode-ichikura.jp
 adebis.gfs-official.com
 adebis.gfs.tokyo
@@ -86,6 +87,7 @@ adebis.muscledeli.jp
 adebis.no.01.alo-organic.com
 adebis.nursery.co.jp
 adebis.o-baby.net
+adebis.palatinose.jp
 adebis.perfect-space.jp
 adebis.pikaichi.co.jp
 adebis.qeee.jp

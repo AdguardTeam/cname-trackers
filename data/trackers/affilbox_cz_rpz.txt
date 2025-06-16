@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -173,7 +173,6 @@ affiliate.fotopasti-bunaty.cz CNAME .
 affiliate.gaymegastore.cz CNAME .
 affiliate.gaymegastore.eu CNAME .
 affiliate.geoweb.easy.cz CNAME .
-affiliate.gilitickets.online CNAME .
 affiliate.golfplan.org CNAME .
 affiliate.growmarket.cz CNAME .
 affiliate.hamham.cz CNAME .
@@ -302,7 +301,6 @@ afill.e-potisk.cz CNAME .
 ambasador.montessorikurz.cz CNAME .
 ambasador.rustspolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
-ambassador.notsofunnyany.com CNAME .
 ambassadors.childhoodpotential.com CNAME .
 ambassadors.guideandgrow.com CNAME .
 box.kryptotrejder.sk CNAME .
@@ -316,11 +314,11 @@ doporuc.konferenceryba.cz CNAME .
 doporuc.mechaneo.cz CNAME .
 doporuc.necojakocola.cz CNAME .
 doporuc.promujdomov.cz CNAME .
-doporuc.skolaslava.cz CNAME .
 doporuc.slevomat.cz CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
 hcaffil.mironet.cz CNAME .
+hcbox.antiradary.net CNAME .
 hcbox.bikemax.cz CNAME .
 hcbox.fitness-zone.cz CNAME .
 hcbox.itcomplet.sk CNAME .
@@ -764,7 +762,6 @@ partner.thelisteningworld.com CNAME .
 partner.top-obaly.cz CNAME .
 partner.tozax.cz CNAME .
 partner.tozax.sk CNAME .
-partner.tradewyx.com CNAME .
 partner.tyano.cz CNAME .
 partner.umio.eu CNAME .
 partner.unuo.de CNAME .

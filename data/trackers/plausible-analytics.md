@@ -25,6 +25,7 @@
 | analytics.betterplaces.nl | custom.plausible.io |
 | analytics.certifriedit.com | custom.plausible.io |
 | analytics.churchthemes.com | custom.plausible.io |
+| analytics.codeforscience.org | custom.plausible.io |
 | analytics.codeskulptor.org | custom.plausible.io |
 | analytics.eikko.ai | custom.plausible.io |
 | analytics.ericafischerphotography.com | custom.plausible.io |

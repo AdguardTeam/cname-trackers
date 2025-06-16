@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1240,13 +1240,15 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
-a.adsession.com CNAME .
+a.18ramp.com CNAME .
 a.advantageclicks.net CNAME .
-a.advertrek.com CNAME .
 a.allureanews.com CNAME .
+a.asvsm.com CNAME .
 a.b2bstars.com CNAME .
 a.b7q9v8z.com CNAME .
+a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
+a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.golhofer.com CNAME .
 a.huklop.com CNAME .
@@ -1257,10 +1259,9 @@ a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
-a.r8lnet.com CNAME .
+a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
 a.tf4srv.com CNAME .
-a.traffic-gold.com CNAME .
 a.vws4brkfst.com CNAME .
 abc.notifysrv.com CNAME .
 accept.notifysrv.com CNAME .
@@ -1274,7 +1275,6 @@ admin.gettopple.com CNAME .
 admin.landingtrk.com CNAME .
 admin.rocoads.net CNAME .
 admin.shafttraffic.com CNAME .
-admin.trafficbaron.com CNAME .
 admin.trafficfactory.com CNAME .
 admin.valuemedia-ltd.com CNAME .
 admin.vrumeads.com CNAME .
@@ -1282,7 +1282,6 @@ admin1.notifysrv.com CNAME .
 administration.notifysrv.com CNAME .
 admissions.notifysrv.com CNAME .
 adrepository.opoxv.com CNAME .
-ads.optimizesrv.com CNAME .
 ads.toroadvertising.com CNAME .
 adult.notifysrv.com CNAME .
 android.notifysrv.com CNAME .
@@ -1380,6 +1379,8 @@ s.ds0yue.com CNAME .
 s.ds239w.com CNAME .
 s.ds2gs4.com CNAME .
 s.ds3jbr.com CNAME .
+s.ds3u8n.com CNAME .
+s.ds3zoh.com CNAME .
 s.ds6ulg.com CNAME .
 s.ds7eji.com CNAME .
 s.ds8wql.com CNAME .
@@ -1508,6 +1509,7 @@ s.zlinkl.com CNAME .
 s.zlinkm.com CNAME .
 s.zlinkn.com CNAME .
 s.zlinkp.com CNAME .
+s.zlinkr.com CNAME .
 s25.notifysrv.com CNAME .
 s30.notifysrv.com CNAME .
 samba.notifysrv.com CNAME .
@@ -1673,9 +1675,9 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
-a.18ramp.com CNAME .
-a.asvsm.com CNAME .
-a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
+a.adsession.com CNAME .
+a.advertrek.com CNAME .
 a.ouzads.com CNAME .
-a.rocoads.net CNAME .
+a.r8lnet.com CNAME .
+a.traffic-gold.com CNAME .
+ads.optimizesrv.com CNAME .

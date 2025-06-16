@@ -37,11 +37,12 @@
 | l.dna.fr | origin.non.li |
 | l.estrepublicain.fr | origin.non.li |
 | l.lalsace.fr | origin.non.li |
+| l.lalsace.fr | origin.non.li |
 | l.ledauphine.com | origin.non.li |
 | l.lejsl.com | origin.non.li |
 | l.leprogres.fr | origin.non.li |
-| l.leprogres.fr | origin.non.li |
 | l.republicain-lorrain.fr | origin.non.li |
+| l.vosgesmatin.fr | origin.non.li |
 | l.vosgesmatin.fr | origin.non.li |
 | l.bienpublic.com | tls-ebra.non.li |
 | l.dna.fr | tls-ebra.non.li |
@@ -143,6 +144,7 @@
 | l.gentside.de | tls.non.li |
 | l.geo.fr | tls.non.li |
 | l.grazia.fr | tls.non.li |
+| l.grazia.it | tls.non.li |
 | l.harpersbazaar.fr | tls.non.li |
 | l.hautanjou.fr | tls.non.li |
 | l.humanite.fr | tls.non.li |

@@ -428,7 +428,6 @@ echidna.hellotomorrow.agency
 echidna.honeybadger.io
 eel.aware7.de
 eel.ieo.do
-egret.brothers.studio
 egret.chankaryik.com
 egret.hairproject.ch
 egret.legislative.tech
@@ -510,7 +509,6 @@ gopher.mina.ca
 gorilla.celcyon.com
 gorilla.hakai.org
 gorilla.physio-soft.com
-grouse.devopsnewsletters.com
 grouse.i21.co
 grouse.textile.io
 grouse.ultimateballistics.com
@@ -564,6 +562,7 @@ horse.vesuvius-publishing.com
 horse.zwei-bags.com
 hoverfly.cdengine.co.uk
 hoverfly.cyberbytesinc.com
+hoverfly.dailyblocks.tv
 hoverfly.papercrowns.com
 hoverfly.wholeheartedceremonies.com.au
 hoverfly.winchdesign.cn
@@ -1150,7 +1149,6 @@ cache.myth.dev
 cdn-b.notsy.io
 cdn.admatic.com.tr
 cdn.adsninja.ca
-cdn.sentinelbi.com
 cdn.sentinelp.com
 cdn.affiliatable.io
 cdn.responsiq.com

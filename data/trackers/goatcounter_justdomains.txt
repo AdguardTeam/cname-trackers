@@ -36,7 +36,6 @@ dot-com-stats.sladewatkins.net
 gc.acut3.net
 gc.gaywu.com
 gc.hausarzt-zentrum-herne.de
-gc.his2nd.life
 gc.miluchacontraeltabaco.com
 gc.mindenugyved.hu
 gc.noscirep.com
@@ -74,6 +73,7 @@ stats.abdodaoud.com
 stats.afirmacijas.lv
 stats.akashi.systems
 stats.apitman.com
+stats.artero.dev
 stats.artur-rodrigues.com
 stats.benjaminmorris.com
 stats.beyondthesprawl.com
@@ -85,6 +85,7 @@ stats.brendanhanke.com
 stats.cafenoirka.de
 stats.cassie.omg.lol
 stats.celerry.com
+stats.certidiritti.org
 stats.cloudflex.team
 stats.cloudnativebitcoin.org
 stats.coderscompass.org

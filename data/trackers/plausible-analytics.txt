@@ -13,6 +13,7 @@
 ||analytics.betterplaces.nl^
 ||analytics.certifriedit.com^
 ||analytics.churchthemes.com^
+||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
 ||analytics.eikko.ai^
 ||analytics.ericafischerphotography.com^

@@ -210,6 +210,7 @@
     * chicos.extole.io
     * chicosofftherack.extole.io
     * cinemark.extole.io
+    * circlesurrogacy.extole.io
     * citizen.extole.io
     * cityfurniture.extole.io
     * clarksusa.extole.io
@@ -220,7 +221,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -238,6 +238,7 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -310,6 +311,7 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -441,7 +443,6 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
-    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -520,7 +521,6 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
@@ -551,6 +551,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -569,6 +570,7 @@
     * turbotaxdemo.extole.io
     * tweglobal.extole.io
     * twisthair.extole.io
+    * udemy.extole.io
     * unchartedsociety.extole.io
     * under-armour-1.extole.io
     * under-armour-2.extole.io
@@ -595,13 +597,13 @@
     * wearesouthwind.extole.io
     * westerracu.extole.io
     * whiparound.extole.io
-    * whistle.extole.io
     * whitehouseblackmarket.extole.io
     * wine.extole.io
     * wisdompanel.extole.io
     * wolverine.extole.io
     * wombat.extole.io
     * wrangler.extole.io
+    * xfinity.em.extole.io
     * xfinity.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
@@ -753,6 +755,7 @@
 | refer.chicosofftherack.com | chicosofftherack.extole.io |
 | chubclub.chubbiesshorts.com | chubbies.extole.com |
 | refer.cinemark.com | cinemark.extole.io |
+| circleofjoy.circlesurrogacy.com | circlesurrogacy.extole.io |
 | refer.citizen-times.com | citizen-times.extole.com |
 | refer.citizenwatch.com | citizen.extole.io |
 | share.cityfurniture.com | cityfurniture.extole.io |
@@ -766,7 +769,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -796,6 +798,7 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -928,6 +931,7 @@
 | share.tauntongazette.com | gannett.extole.io |
 | share.tcpalm.com | gannett.extole.io |
 | share.telegram.com | gannett.extole.io |
+| share.tennessean.com | gannett.extole.io |
 | share.theadvertiser.com | gannett.extole.io |
 | share.thedailyjournal.com | gannett.extole.io |
 | share.theledger.com | gannett.extole.io |
@@ -954,6 +958,7 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1042,7 +1047,6 @@
 | refer.lastcall.com | lastcall.extole.io |
 | refer.lauramercier.com | laura-mercier.extole.io |
 | refer.laylasleep.com | layla-sleep.extole.io |
-| refer.quickfix21.com | layla-sleep.extole.io |
 | refer.quickfixtest5.com | layla-sleep.extole.io |
 | refer.leadmd.com | leadmd.extole.com |
 | share.learnersedge.com | learnersedge.extole.io |
@@ -1149,7 +1153,6 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
-| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1260,7 +1263,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
@@ -1300,6 +1302,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1342,6 +1345,7 @@
 | em924.refer.starbucks.com | u82658.wl159.sendgrid.net |
 | em9523.walmartmoneycard.com | u82658.wl159.sendgrid.net |
 | emxxxx.rent.app | u82658.wl159.sendgrid.net |
+| refer.udemy.com | udemy.extole.io |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
 | refer.underarmour.co.uk | under-armour-1.extole.io |
@@ -1381,7 +1385,6 @@
 | refer.westerracu.com | westerracu.extole.io |
 | refer.wgu.edu | wgu.extole.com |
 | share.whiparound.com | whiparound.extole.io |
-| share.whistle.com | whistle.extole.io |
 | refer.whitehouseblackmarket.com | whitehouseblackmarket.extole.io |
 | share.wimp.no | wimp.extole.com |
 | refer.wine.com | wine.extole.io |
@@ -1390,6 +1393,7 @@
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
+| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -47,7 +47,6 @@ dot-com-stats.sladewatkins.net CNAME .
 gc.acut3.net CNAME .
 gc.gaywu.com CNAME .
 gc.hausarzt-zentrum-herne.de CNAME .
-gc.his2nd.life CNAME .
 gc.miluchacontraeltabaco.com CNAME .
 gc.mindenugyved.hu CNAME .
 gc.noscirep.com CNAME .
@@ -85,6 +84,7 @@ stats.abdodaoud.com CNAME .
 stats.afirmacijas.lv CNAME .
 stats.akashi.systems CNAME .
 stats.apitman.com CNAME .
+stats.artero.dev CNAME .
 stats.artur-rodrigues.com CNAME .
 stats.benjaminmorris.com CNAME .
 stats.beyondthesprawl.com CNAME .
@@ -96,6 +96,7 @@ stats.brendanhanke.com CNAME .
 stats.cafenoirka.de CNAME .
 stats.cassie.omg.lol CNAME .
 stats.celerry.com CNAME .
+stats.certidiritti.org CNAME .
 stats.cloudflex.team CNAME .
 stats.cloudnativebitcoin.org CNAME .
 stats.coderscompass.org CNAME .

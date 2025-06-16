@@ -14,6 +14,7 @@
     * apitman_com.goatcounter.com
     * applycreatures.goatcounter.com
     * argfuscator.goatcounter.com
+    * artero.goatcounter.com
     * artur.goatcounter.com
     * astuto.goatcounter.com
     * benjaminmorris.goatcounter.com
@@ -29,6 +30,7 @@
     * cafenoirka.goatcounter.com
     * cassie.goatcounter.com
     * celerry.goatcounter.com
+    * certidiritti.goatcounter.com
     * cloudnativebitcoin.goatcounter.com
     * code_dccouncil_us.goatcounter.com
     * coderscompass.goatcounter.com
@@ -59,7 +61,6 @@
     * gopikrishna.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
     * gradient.goatcounter.com
-    * h2l.goatcounter.com
     * hadejkde.goatcounter.com
     * haseebmajid.goatcounter.com
     * hausarzt-zentrum-herne.goatcounter.com
@@ -176,6 +177,7 @@
 | stats.apitman.com | apitman_com.goatcounter.com |
 | analytics.applycreatures.com | applycreatures.goatcounter.com |
 | visit.argfuscator.net | argfuscator.goatcounter.com |
+| stats.artero.dev | artero.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | analytics.astuto.io | astuto.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
@@ -191,6 +193,7 @@
 | stats.cafenoirka.de | cafenoirka.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
+| stats.certidiritti.org | certidiritti.goatcounter.com |
 | stats.cloudnativebitcoin.org | cloudnativebitcoin.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | stats.coderscompass.org | coderscompass.goatcounter.com |
@@ -221,7 +224,6 @@
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | stats.brendanhanke.com | gradient.goatcounter.com |
-| gc.his2nd.life | h2l.goatcounter.com |
 | stats.hadejkde.cz | hadejkde.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | gc.hausarzt-zentrum-herne.de | hausarzt-zentrum-herne.goatcounter.com |

@@ -45,10 +45,12 @@ abc.bayer04.de
 analytics.hermesworld.com
 analytics.myhermes.de
 app03.ikk-classic.de
+ctd.cucchiaio.it
 ctd.domusweb.it
 ctd.dueruote.it
 ctd.edidomus.it
 ctd.montagna.tv
+ctd.quattroruote.it
 ctdfm.ilgiornale.it
 ctrkd.ilsole24ore.com
 da.hornbach.at
@@ -422,3 +424,4 @@ wttd.madeleine.co.uk
 wttd.madeleine.de
 wttd.madeleine.fr
 wttd.madeleine.gr
+www.a.jaz-hotel.com

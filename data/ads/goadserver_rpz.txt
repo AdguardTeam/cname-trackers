@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -145,8 +145,10 @@ static.n0v2cdn.com CNAME .
 static.reacheffecti.work CNAME .
 static.trafficbull.com CNAME .
 www.go-static.info CNAME .
-st.static-srv.com CNAME .
+dsp.reacheffect.com CNAME .
 up.reacheffect.com CNAME .
 userpanel.ero-advertising.com CNAME .
 userpanel.eroadvertising.com CNAME .
+www.bidvance.com CNAME .
+st.static-srv.com CNAME .
 www.go-srv.com CNAME .

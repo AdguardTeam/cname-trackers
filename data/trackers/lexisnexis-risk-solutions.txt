@@ -90,6 +90,7 @@
 ||asanalytics.booking.com^
 ||assessment.nj.betmgm.com^
 ||assets.harlandclarke.com^
+||assets.signup.ifxpayments.com^
 ||assets.werally.co^
 ||assets2.ihg.com^
 ||assets2.thefirstclub.com^
@@ -150,6 +151,7 @@
 ||cdna.ecommerce.cofidis.it^
 ||cdna.jpay.com^
 ||cdna.kpers.org^
+||cdna.kspers.gov^
 ||cdna.lottohelden.de^
 ||cdna.monabanq.com^
 ||cdna.moncofidispro.fr^
@@ -189,6 +191,7 @@
 ||cdntm.hsbc.com.my^
 ||cdntm.hsbc.com.ph^
 ||cdntm.hsbc.com.sg^
+||cdntm.hsbc.com.vn^
 ||cdntm.hsbc.fr^
 ||cdntm.johnlewisfinance.com^
 ||cdntm.mandsbank.com^
@@ -490,7 +493,6 @@
 ||dfp.t-mobile.at^
 ||dfp.telering.at^
 ||dicontent.ckapis.com^
-||dicontent.creditkarma.com^
 ||did.fashionworld.co.uk^
 ||did.koempf24.de^
 ||diff3.jazztel.com^
@@ -526,6 +528,8 @@
 ||eps.uprova.com^
 ||eve.playstation.com^
 ||event.evtm.53.com^
+||ext.creditpartner.fr^
+||ext.sofinco.fr^
 ||faas.2dehands.be^
 ||faas.2ememain.be^
 ||faas.marktplaats.nl^
@@ -848,6 +852,7 @@
 ||ranzg.rabobank.com.au^
 ||rauth.chubb.com^
 ||rba-screen.healthsafe-id.com^
+||rba-screen.liveandworkwell.com^
 ||rba-screen.myhealthcareview.com^
 ||rba-screen.optum.com^
 ||rba-screen.optumbank.com^
@@ -1079,9 +1084,9 @@
 ||tm.creditprotect.illion.co.nz^
 ||tm.creditprotect.illion.com.au^
 ||tm.cybersource.com^
-||tm.defense.dbp.fiservapps.com^
 ||tm.espnbet.com^
 ||tm.fanduel.com^
+||tm.fidelity.asia^
 ||tm.fidelity.ca^
 ||tm.fidelity.co.uk^
 ||tm.flowbirdapp.com^

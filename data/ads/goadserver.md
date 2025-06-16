@@ -8,9 +8,9 @@
 
 * noviclick.goadserver.com
 * static.goadserver.com
-* data.goadserver.com
 * reacheffect.goadserver.com
 * up.goadserver.com
+* data.goadserver.com
 * www.goadserver.com
 
 ## Cloaking domains
@@ -143,6 +143,7 @@
 | www.tbllem.com | go.goadserver.com |
 | zz.shat1.com | go.goadserver.com |
 | app.noviclick.com | noviclick.goadserver.com |
+| dsp.reacheffect.com | reacheffect.goadserver.com |
 | up.reacheffect.com | reacheffect.goadserver.com |
 | data.goasrv.com | static.goadserver.com |
 | st.go-static.info | static.goadserver.com |
@@ -153,7 +154,9 @@
 | static.reacheffecti.work | static.goadserver.com |
 | static.trafficbull.com | static.goadserver.com |
 | www.go-static.info | static.goadserver.com |
+| dsp.reacheffect.com | up.goadserver.com |
 | up.reacheffect.com | up.goadserver.com |
 | userpanel.ero-advertising.com | up.goadserver.com |
 | userpanel.eroadvertising.com | up.goadserver.com |
+| www.bidvance.com | up.goadserver.com |
 | www.go-srv.com | www.goadserver.com |

@@ -65,7 +65,9 @@
 | 0.www.96679950.xyz | ad-shield.cc |
 | 0.www.98643801.xyz | ad-shield.cc |
 | 0.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 0.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 0.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 0.www.hairyalligatorviolently.com | ad-shield.cc |
 | 0.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 0.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 0.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -140,7 +142,9 @@
 | 1.www.96679950.xyz | ad-shield.cc |
 | 1.www.98643801.xyz | ad-shield.cc |
 | 1.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 1.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 1.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 1.www.hairyalligatorviolently.com | ad-shield.cc |
 | 1.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 1.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 1.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -216,7 +220,9 @@
 | 2.www.96679950.xyz | ad-shield.cc |
 | 2.www.98643801.xyz | ad-shield.cc |
 | 2.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 2.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 2.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 2.www.hairyalligatorviolently.com | ad-shield.cc |
 | 2.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 2.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 2.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -291,7 +297,9 @@
 | 3.www.96679950.xyz | ad-shield.cc |
 | 3.www.98643801.xyz | ad-shield.cc |
 | 3.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 3.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 3.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 3.www.hairyalligatorviolently.com | ad-shield.cc |
 | 3.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 3.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 3.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -367,7 +375,9 @@
 | 4.www.96679950.xyz | ad-shield.cc |
 | 4.www.98643801.xyz | ad-shield.cc |
 | 4.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 4.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 4.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 4.www.hairyalligatorviolently.com | ad-shield.cc |
 | 4.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 4.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 4.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -443,7 +453,9 @@
 | 5.www.96679950.xyz | ad-shield.cc |
 | 5.www.98643801.xyz | ad-shield.cc |
 | 5.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 5.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 5.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 5.www.hairyalligatorviolently.com | ad-shield.cc |
 | 5.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 5.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 5.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -517,7 +529,9 @@
 | 6.www.96679950.xyz | ad-shield.cc |
 | 6.www.98643801.xyz | ad-shield.cc |
 | 6.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 6.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 6.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 6.www.hairyalligatorviolently.com | ad-shield.cc |
 | 6.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 6.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 6.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -591,7 +605,9 @@
 | 7.www.96679950.xyz | ad-shield.cc |
 | 7.www.98643801.xyz | ad-shield.cc |
 | 7.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 7.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 7.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 7.www.hairyalligatorviolently.com | ad-shield.cc |
 | 7.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 7.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 7.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -666,7 +682,9 @@
 | 8.www.96679950.xyz | ad-shield.cc |
 | 8.www.98643801.xyz | ad-shield.cc |
 | 8.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 8.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 8.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 8.www.hairyalligatorviolently.com | ad-shield.cc |
 | 8.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 8.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 8.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -740,7 +758,9 @@
 | 9.www.96679950.xyz | ad-shield.cc |
 | 9.www.98643801.xyz | ad-shield.cc |
 | 9.www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
+| 9.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 9.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 9.www.hairyalligatorviolently.com | ad-shield.cc |
 | 9.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 9.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 9.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -832,7 +852,6 @@
 | www.32e53b2b.live | ad-shield.cc |
 | www.33109166.xyz | ad-shield.cc |
 | www.33848102.xyz | ad-shield.cc |
-| www.33862684.xyz | ad-shield.cc |
 | www.34475780.xyz | ad-shield.cc |
 | www.35452888.xyz | ad-shield.cc |
 | www.36833185.xyz | ad-shield.cc |
@@ -898,7 +917,6 @@
 | www.69799884.xyz | ad-shield.cc |
 | www.70b927c8.live | ad-shield.cc |
 | www.72075223.xyz | ad-shield.cc |
-| www.72123581.xyz | ad-shield.cc |
 | www.72356275.xyz | ad-shield.cc |
 | www.72560514.xyz | ad-shield.cc |
 | www.72888710.xyz | ad-shield.cc |
@@ -916,7 +934,6 @@
 | www.7841ffda.xyz | ad-shield.cc |
 | www.78554661.xyz | ad-shield.cc |
 | www.78587924.xyz | ad-shield.cc |
-| www.78847798.xyz | ad-shield.cc |
 | www.79391192.xyz | ad-shield.cc |
 | www.79582961.xyz | ad-shield.cc |
 | www.79870085.xyz | ad-shield.cc |
@@ -939,7 +956,9 @@
 | www.89407765.xyz | ad-shield.cc |
 | www.89598890.xyz | ad-shield.cc |
 | www.89871256.xyz | ad-shield.cc |
+| www.8a461fdb.xyz | ad-shield.cc |
 | www.8eef59a5.live | ad-shield.cc |
+| www.8u6r7tu85pqu-8pq9pt9q.xyz | ad-shield.cc |
 | www.8vtqw0551lo45wwtro.xyz | ad-shield.cc |
 | www.91301246.xyz | ad-shield.cc |
 | www.92790388.xyz | ad-shield.cc |
@@ -954,7 +973,6 @@
 | www.98140548.xyz | ad-shield.cc |
 | www.98355134.xyz | ad-shield.cc |
 | www.98383163.xyz | ad-shield.cc |
-| www.98738797.xyz | ad-shield.cc |
 | www.98853171.xyz | ad-shield.cc |
 | www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
 | www.a2da0f64.xyz | ad-shield.cc |
@@ -968,6 +986,7 @@
 | www.bdec1f37.xyz | ad-shield.cc |
 | www.c2a0076d.xyz | ad-shield.cc |
 | www.ce56df44.xyz | ad-shield.cc |
+| www.chainstayornerypsstgeez.com | ad-shield.cc |
 | www.cheetahhowevertowardsfrom.com | ad-shield.cc |
 | www.d19a122b.xyz | ad-shield.cc |
 | www.dcad1d97.xyz | ad-shield.cc |
@@ -992,6 +1011,8 @@
 | www.rundowndeep.com | ad-shield.cc |
 | www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
+| www.u46r7owvv48861t67m0q388.xyz | ad-shield.cc |
+| www.us7-snkvsrwk1k1p2.xyz | ad-shield.cc |
 | www.uselesslyswiftprovided.com | ad-shield.cc |
 | www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
 | www.weightabsenteekmonthly.com | ad-shield.cc |

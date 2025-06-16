@@ -96,6 +96,7 @@
 ||l.gentside.de^
 ||l.geo.fr^
 ||l.grazia.fr^
+||l.grazia.it^
 ||l.harpersbazaar.fr^
 ||l.hautanjou.fr^
 ||l.heidi.news^

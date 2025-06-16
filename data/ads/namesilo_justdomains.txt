@@ -1229,13 +1229,15 @@
 993.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
-a.adsession.com
+a.18ramp.com
 a.advantageclicks.net
-a.advertrek.com
 a.allureanews.com
+a.asvsm.com
 a.b2bstars.com
 a.b7q9v8z.com
+a.bizonads-ssp.com
 a.cant3am.com
+a.etology.com
 a.eunow4u.com
 a.golhofer.com
 a.huklop.com
@@ -1246,10 +1248,9 @@ a.ns.notifysrv.com
 a.optimizesrv.com
 a.playa.to
 a.q88z1s3.com
-a.r8lnet.com
+a.rocoads.net
 a.santabrowser.com
 a.tf4srv.com
-a.traffic-gold.com
 a.vws4brkfst.com
 abc.notifysrv.com
 accept.notifysrv.com
@@ -1263,7 +1264,6 @@ admin.gettopple.com
 admin.landingtrk.com
 admin.rocoads.net
 admin.shafttraffic.com
-admin.trafficbaron.com
 admin.trafficfactory.com
 admin.valuemedia-ltd.com
 admin.vrumeads.com
@@ -1271,7 +1271,6 @@ admin1.notifysrv.com
 administration.notifysrv.com
 admissions.notifysrv.com
 adrepository.opoxv.com
-ads.optimizesrv.com
 ads.toroadvertising.com
 adult.notifysrv.com
 android.notifysrv.com
@@ -1369,6 +1368,8 @@ s.ds0yue.com
 s.ds239w.com
 s.ds2gs4.com
 s.ds3jbr.com
+s.ds3u8n.com
+s.ds3zoh.com
 s.ds6ulg.com
 s.ds7eji.com
 s.ds8wql.com
@@ -1497,6 +1498,7 @@ s.zlinkl.com
 s.zlinkm.com
 s.zlinkn.com
 s.zlinkp.com
+s.zlinkr.com
 s25.notifysrv.com
 s30.notifysrv.com
 samba.notifysrv.com
@@ -1662,9 +1664,9 @@ www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
-a.18ramp.com
-a.asvsm.com
-a.bizonads-ssp.com
-a.etology.com
+a.adsession.com
+a.advertrek.com
 a.ouzads.com
-a.rocoads.net
+a.r8lnet.com
+a.traffic-gold.com
+ads.optimizesrv.com

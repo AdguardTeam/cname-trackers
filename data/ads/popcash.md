@@ -30,7 +30,6 @@
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
 | video.adsninja.ca | adsninja.b-cdn.net |
 | cdn.adsninja.ca | adsninjacdn.b-cdn.net |
-| cdn.sentinelbi.com | adsninjacdn.b-cdn.net |
 | cdn.sentinelp.com | adsninjacdn.b-cdn.net |
 | cdn.affiliatable.io | affiliatable1.b-cdn.net |
 | contact-gloss-production.accelerator.net | b-cdn.net |
@@ -384,7 +383,6 @@
 | echidna.honeybadger.io | deprecated-custom-domains.b-cdn.net |
 | eel.aware7.de | deprecated-custom-domains.b-cdn.net |
 | eel.ieo.do | deprecated-custom-domains.b-cdn.net |
-| egret.brothers.studio | deprecated-custom-domains.b-cdn.net |
 | egret.chankaryik.com | deprecated-custom-domains.b-cdn.net |
 | egret.hairproject.ch | deprecated-custom-domains.b-cdn.net |
 | egret.legislative.tech | deprecated-custom-domains.b-cdn.net |
@@ -466,7 +464,6 @@
 | gorilla.celcyon.com | deprecated-custom-domains.b-cdn.net |
 | gorilla.hakai.org | deprecated-custom-domains.b-cdn.net |
 | gorilla.physio-soft.com | deprecated-custom-domains.b-cdn.net |
-| grouse.devopsnewsletters.com | deprecated-custom-domains.b-cdn.net |
 | grouse.i21.co | deprecated-custom-domains.b-cdn.net |
 | grouse.textile.io | deprecated-custom-domains.b-cdn.net |
 | grouse.ultimateballistics.com | deprecated-custom-domains.b-cdn.net |
@@ -520,6 +517,7 @@
 | horse.zwei-bags.com | deprecated-custom-domains.b-cdn.net |
 | hoverfly.cdengine.co.uk | deprecated-custom-domains.b-cdn.net |
 | hoverfly.cyberbytesinc.com | deprecated-custom-domains.b-cdn.net |
+| hoverfly.dailyblocks.tv | deprecated-custom-domains.b-cdn.net |
 | hoverfly.papercrowns.com | deprecated-custom-domains.b-cdn.net |
 | hoverfly.wholeheartedceremonies.com.au | deprecated-custom-domains.b-cdn.net |
 | hoverfly.winchdesign.cn | deprecated-custom-domains.b-cdn.net |

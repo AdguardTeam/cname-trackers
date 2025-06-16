@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -379,6 +379,7 @@ data-2bfd5a7f39.senioren-ratgeber.de CNAME .
 data-2bfd5a7f39.skystream.tv CNAME .
 data-2ccf0ea3cc.esquire.de CNAME .
 data-2cee0cb9fa.apps.iocnt.de CNAME .
+data-2cfc77297e.pnn.de CNAME .
 data-2cfc77297e.tagesspiegel.de CNAME .
 data-2d5e2d4006.apps.iocnt.de CNAME .
 data-2d805a2d6c.mama-reporter.de CNAME .
@@ -509,6 +510,7 @@ data-40370dcf13.newssquare.de CNAME .
 data-40370dcf13.verlag-altmeppen.de CNAME .
 data-4071aa1e21.staz.de CNAME .
 data-407c1ec0f8.apotheken-umschau.de CNAME .
+data-407c1ec0f8.baby-und-familie.de CNAME .
 data-407c1ec0f8.diabetes-ratgeber.net CNAME .
 data-407c1ec0f8.digital-ratgeber.de CNAME .
 data-407c1ec0f8.senioren-ratgeber.de CNAME .

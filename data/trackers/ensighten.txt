@@ -275,6 +275,7 @@
 ||nexus.toyota.com^
 ||nexus.virginholidays.co.uk^
 ||ntms-test.koganmoney.com.au^
+||ntms.koganmoney.com.au^
 ||p.pulse.buyatoyota.com^
 ||p.pulse.lexus.com^
 ||p.pulse.toyota.com^

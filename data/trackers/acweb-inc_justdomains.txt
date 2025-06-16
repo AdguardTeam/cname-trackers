@@ -17,6 +17,7 @@ l.hida-ch.com
 l.i-ra.jp
 l.ikora.tv
 l.junglekouen.com
+l.kataranna.com
 l.kitemi.net
 l.ko-co.jp
 l.kyo2.jp
@@ -44,4 +45,3 @@ l.toushiikusei.net
 l.tsukuba.ch
 l.vietnhat.tv
 l.yoka-yoka.jp
-l.kataranna.com

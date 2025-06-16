@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ l.hida-ch.com CNAME .
 l.i-ra.jp CNAME .
 l.ikora.tv CNAME .
 l.junglekouen.com CNAME .
+l.kataranna.com CNAME .
 l.kitemi.net CNAME .
 l.ko-co.jp CNAME .
 l.kyo2.jp CNAME .
@@ -55,4 +56,3 @@ l.toushiikusei.net CNAME .
 l.tsukuba.ch CNAME .
 l.vietnhat.tv CNAME .
 l.yoka-yoka.jp CNAME .
-l.kataranna.com CNAME .

@@ -368,6 +368,7 @@ data-2bfd5a7f39.senioren-ratgeber.de
 data-2bfd5a7f39.skystream.tv
 data-2ccf0ea3cc.esquire.de
 data-2cee0cb9fa.apps.iocnt.de
+data-2cfc77297e.pnn.de
 data-2cfc77297e.tagesspiegel.de
 data-2d5e2d4006.apps.iocnt.de
 data-2d805a2d6c.mama-reporter.de
@@ -498,6 +499,7 @@ data-40370dcf13.newssquare.de
 data-40370dcf13.verlag-altmeppen.de
 data-4071aa1e21.staz.de
 data-407c1ec0f8.apotheken-umschau.de
+data-407c1ec0f8.baby-und-familie.de
 data-407c1ec0f8.diabetes-ratgeber.net
 data-407c1ec0f8.digital-ratgeber.de
 data-407c1ec0f8.senioren-ratgeber.de

@@ -313,6 +313,7 @@
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | a.maxxhotel.com | 307902509027183.wt-eu02.net |
 | a.zleep.com | 307902509027183.wt-eu02.net |
+| www.a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
 | web.mail.parmalat.it | 312310057961150.wt-eu02.net |
 | web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
@@ -430,10 +431,12 @@
 | web.update.sandiego.org | 761489887718050.wt-eu02.net |
 | t.mediaset.it | 769396664005295.wt-eu02.net |
 | w.m.nkl-peters.de | 770833460572104.wt-eu02.net |
+| ctd.cucchiaio.it | 778835614863159.wt-eu02.net |
 | ctd.domusweb.it | 778835614863159.wt-eu02.net |
 | ctd.dueruote.it | 778835614863159.wt-eu02.net |
 | ctd.edidomus.it | 778835614863159.wt-eu02.net |
 | ctd.montagna.tv | 778835614863159.wt-eu02.net |
+| ctd.quattroruote.it | 778835614863159.wt-eu02.net |
 | web.mail.koganpage.com | 786480128044234.wt-eu02.net |
 | web.communications.amouage.com | 790635424156780.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |

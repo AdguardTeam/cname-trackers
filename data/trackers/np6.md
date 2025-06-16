@@ -215,7 +215,6 @@
 | tr.carl.espmp-cufr.net | tracking.bp01.net |
 | tr.cart.espmp-cufr.net | tracking.bp01.net |
 | tr.cart02d.espmp-agfr.net | tracking.bp01.net |
-| tr.carte.lcl.fr | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
 | tr.cb4x.banque-casino.fr | tracking.bp01.net |
@@ -659,8 +658,6 @@
 | tr.macarte.truffaut.com | tracking.bp01.net |
 | tr.made.faure-u.com | tracking.bp01.net |
 | tr.mail-companeo.fr | tracking.bp01.net |
-| tr.mail.cdiscount.com.ec | tracking.bp01.net |
-| tr.mail.cdiscount.com.pa | tracking.bp01.net |
 | tr.mail.digitalpjms.fr | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
 | tr.mail.floa.fr | tracking.bp01.net |
@@ -682,7 +679,6 @@
 | tr.mailing.heliades.fr | tracking.bp01.net |
 | tr.mailing.laredoute.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
-| tr.mailing.opinionrelate.com | tracking.bp01.net |
 | tr.mailing.promodeclic.fr | tracking.bp01.net |
 | tr.mailmp.macif.net | tracking.bp01.net |
 | tr.mailperf.institut-de-la-protection-sociale.fr | tracking.bp01.net |
@@ -1178,6 +1174,7 @@
 | tr.urfk053.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk056.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk057.espmp-aufr.net | tracking.bp01.net |
+| tr.urfk05e.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk05g.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk05l.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk05o.espmp-pofr.net | tracking.bp01.net |

@@ -20,6 +20,7 @@
     * atg-console.aquaplatform.com
     * atg-delivery.aquaplatform.com
     * atg-static.aquaplatform.com
+    * bioverlag-console.aquaplatform.com
     * bioverlag-delivery.aquaplatform.com
     * bioverlag-static.aquaplatform.com
     * blulab-console.aquaplatform.com
@@ -162,6 +163,7 @@
 | adconsole.lot-tissimo.com | atg-console.aquaplatform.com |
 | ads.lot-tissimo.com | atg-delivery.aquaplatform.com |
 | static.lot-tissimo.com | atg-static.aquaplatform.com |
+| www.console.biohandel.de | bioverlag-console.aquaplatform.com |
 | servedby.biohandel.de | bioverlag-delivery.aquaplatform.com |
 | servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
 | www.servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,7 +33,6 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
-bat18.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.arcjav.com CNAME .
@@ -55,6 +54,7 @@ cc.histoires-de-sexe-gratuites.com CNAME .
 cc.sersh.com CNAME .
 cc.sexgeschichten-kostenlos.com CNAME .
 cc.sexgeschichten-xxx.com CNAME .
+cc.sexstories-xxx.com CNAME .
 cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
 cdn1.xvideohub.top CNAME .
@@ -80,6 +80,7 @@ ddd.sexstories69.com CNAME .
 dr1.piczlabs.com CNAME .
 dr3.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
+excavajo3.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 ge6.getfto.com CNAME .

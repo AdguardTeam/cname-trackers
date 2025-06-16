@@ -183,7 +183,6 @@
 | affiliate.gaymegastore.cz | cz.affilbox.cz |
 | affiliate.gaymegastore.eu | cz.affilbox.cz |
 | affiliate.geoweb.easy.cz | cz.affilbox.cz |
-| affiliate.gilitickets.online | cz.affilbox.cz |
 | affiliate.golfplan.org | cz.affilbox.cz |
 | affiliate.growmarket.cz | cz.affilbox.cz |
 | affiliate.hamham.cz | cz.affilbox.cz |
@@ -312,7 +311,6 @@
 | ambasador.montessorikurz.cz | cz.affilbox.cz |
 | ambasador.rustspolecne.cz | cz.affilbox.cz |
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
-| ambassador.notsofunnyany.com | cz.affilbox.cz |
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
 | ambassadors.guideandgrow.com | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
@@ -326,11 +324,11 @@
 | doporuc.mechaneo.cz | cz.affilbox.cz |
 | doporuc.necojakocola.cz | cz.affilbox.cz |
 | doporuc.promujdomov.cz | cz.affilbox.cz |
-| doporuc.skolaslava.cz | cz.affilbox.cz |
 | doporuc.slevomat.cz | cz.affilbox.cz |
 | doporucim.zjistitcenu.cz | cz.affilbox.cz |
 | equilist.raj-ohlavek.cz | cz.affilbox.cz |
 | hcaffil.mironet.cz | cz.affilbox.cz |
+| hcbox.antiradary.net | cz.affilbox.cz |
 | hcbox.bikemax.cz | cz.affilbox.cz |
 | hcbox.fitness-zone.cz | cz.affilbox.cz |
 | hcbox.itcomplet.sk | cz.affilbox.cz |
@@ -774,7 +772,6 @@
 | partner.top-obaly.cz | cz.affilbox.cz |
 | partner.tozax.cz | cz.affilbox.cz |
 | partner.tozax.sk | cz.affilbox.cz |
-| partner.tradewyx.com | cz.affilbox.cz |
 | partner.tyano.cz | cz.affilbox.cz |
 | partner.umio.eu | cz.affilbox.cz |
 | partner.unuo.de | cz.affilbox.cz |

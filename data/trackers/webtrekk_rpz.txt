@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -56,10 +56,12 @@ abc.bayer04.de CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .
 app03.ikk-classic.de CNAME .
+ctd.cucchiaio.it CNAME .
 ctd.domusweb.it CNAME .
 ctd.dueruote.it CNAME .
 ctd.edidomus.it CNAME .
 ctd.montagna.tv CNAME .
+ctd.quattroruote.it CNAME .
 ctdfm.ilgiornale.it CNAME .
 ctrkd.ilsole24ore.com CNAME .
 da.hornbach.at CNAME .
@@ -433,3 +435,4 @@ wttd.madeleine.co.uk CNAME .
 wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
+www.a.jaz-hotel.com CNAME .

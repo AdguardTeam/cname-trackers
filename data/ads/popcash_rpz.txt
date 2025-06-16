@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -439,7 +439,6 @@ echidna.hellotomorrow.agency CNAME .
 echidna.honeybadger.io CNAME .
 eel.aware7.de CNAME .
 eel.ieo.do CNAME .
-egret.brothers.studio CNAME .
 egret.chankaryik.com CNAME .
 egret.hairproject.ch CNAME .
 egret.legislative.tech CNAME .
@@ -521,7 +520,6 @@ gopher.mina.ca CNAME .
 gorilla.celcyon.com CNAME .
 gorilla.hakai.org CNAME .
 gorilla.physio-soft.com CNAME .
-grouse.devopsnewsletters.com CNAME .
 grouse.i21.co CNAME .
 grouse.textile.io CNAME .
 grouse.ultimateballistics.com CNAME .
@@ -575,6 +573,7 @@ horse.vesuvius-publishing.com CNAME .
 horse.zwei-bags.com CNAME .
 hoverfly.cdengine.co.uk CNAME .
 hoverfly.cyberbytesinc.com CNAME .
+hoverfly.dailyblocks.tv CNAME .
 hoverfly.papercrowns.com CNAME .
 hoverfly.wholeheartedceremonies.com.au CNAME .
 hoverfly.winchdesign.cn CNAME .
@@ -1161,7 +1160,6 @@ cache.myth.dev CNAME .
 cdn-b.notsy.io CNAME .
 cdn.admatic.com.tr CNAME .
 cdn.adsninja.ca CNAME .
-cdn.sentinelbi.com CNAME .
 cdn.sentinelp.com CNAME .
 cdn.affiliatable.io CNAME .
 cdn.responsiq.com CNAME .

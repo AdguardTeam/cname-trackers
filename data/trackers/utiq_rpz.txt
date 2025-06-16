@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -229,6 +229,7 @@ utiq.laprovence.com CNAME .
 utiq.laprovincia.es CNAME .
 utiq.lardennais.fr CNAME .
 utiq.larep.fr CNAME .
+utiq.larep.fr.cdn.cloudflare.net CNAME .
 utiq.larepubliquedespyrenees.fr CNAME .
 utiq.larioja.com CNAME .
 utiq.lasprovincias.es CNAME .
@@ -251,6 +252,7 @@ utiq.lejournaldelamaison.fr CNAME .
 utiq.lemessager.fr CNAME .
 utiq.leonoticias.com CNAME .
 utiq.lepopulaire.fr CNAME .
+utiq.lepopulaire.fr.cdn.cloudflare.net CNAME .
 utiq.lesnumeriques.com CNAME .
 utiq.lest-eclair.fr CNAME .
 utiq.letelegramme.fr CNAME .
@@ -300,6 +302,7 @@ utiq.motorradfrage.net CNAME .
 utiq.movistar.es CNAME .
 utiq.mundoxiaomi.com CNAME .
 utiq.myhomebook.de CNAME .
+utiq.n-tv.de CNAME .
 utiq.nationalgeographic.com.es CNAME .
 utiq.neonmag.fr CNAME .
 utiq.netmums.com CNAME .

@@ -189,7 +189,6 @@ tr.capu.espmp-agfr.net
 tr.carl.espmp-cufr.net
 tr.cart.espmp-cufr.net
 tr.cart02d.espmp-agfr.net
-tr.carte.lcl.fr
 tr.cartegie.fr
 tr.cashback.floa.fr
 tr.cb4x.banque-casino.fr
@@ -633,8 +632,6 @@ tr.m.cwisas.com
 tr.macarte.truffaut.com
 tr.made.faure-u.com
 tr.mail-companeo.fr
-tr.mail.cdiscount.com.ec
-tr.mail.cdiscount.com.pa
 tr.mail.digitalpjms.fr
 tr.mail.enviedebienmanger.fr
 tr.mail.floa.fr
@@ -656,7 +653,6 @@ tr.mailing.achatpublic.com
 tr.mailing.heliades.fr
 tr.mailing.laredoute.fr
 tr.mailing.lvmhappening.com
-tr.mailing.opinionrelate.com
 tr.mailing.promodeclic.fr
 tr.mailmp.macif.net
 tr.mailperf.institut-de-la-protection-sociale.fr
@@ -1152,6 +1148,7 @@ tr.urfk052.espmp-cufr.net
 tr.urfk053.espmp-aufr.net
 tr.urfk056.espmp-nifr.net
 tr.urfk057.espmp-aufr.net
+tr.urfk05e.espmp-aufr.net
 tr.urfk05g.espmp-agfr.net
 tr.urfk05l.espmp-nifr.net
 tr.urfk05o.espmp-pofr.net

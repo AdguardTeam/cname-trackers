@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -66,6 +66,8 @@ rbfour.bid CNAME .
 rbig.pcyk.ru CNAME .
 rbone.link CNAME .
 rbthre.work CNAME .
+rdv.naruto-base.tv CNAME .
+real.dvanadva.ru CNAME .
 realrb.bid CNAME .
 rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .

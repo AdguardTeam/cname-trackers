@@ -88,6 +88,7 @@
     * 3ba7c801-gwbfzy7a.cname.ebis.ne.jp
     * 3c39ea6e-px3cltrd.cname.ebis.ne.jp
     * 3c40b540-dfevquvl.cname.ebis.ne.jp
+    * 3d5c1a79-fbw7r35c.cname.ebis.ne.jp
     * 3dbeaa41-scxitlgt.cname.ebis.ne.jp
     * 3dc67a07-t3v80e0l.cname.ebis.ne.jp
     * 3e0f3f5e-at57g9zb.cname.ebis.ne.jp
@@ -333,6 +334,7 @@
     * f0b96c30-lpqdmczj.cname.ebis.ne.jp
     * f199b50c-gy66xg6s.cname.ebis.ne.jp
     * f1e54e38-wlvncyr6.cname.ebis.ne.jp
+    * f28e1718-qsgxw9am.cname.ebis.ne.jp
     * f3054804-quxzshgd.cname.ebis.ne.jp
     * f38ea353-ehtgvvgm.cname.ebis.ne.jp
     * f6eeaef4-ehtgvvgm.cname.ebis.ne.jp
@@ -435,6 +437,7 @@
 | adebis.kirin.co.jp | 3ba7c801-gwbfzy7a.cname.ebis.ne.jp |
 | ebis202001.joyfit.jp | 3c39ea6e-px3cltrd.cname.ebis.ne.jp |
 | ebis.rabo.cat | 3c40b540-dfevquvl.cname.ebis.ne.jp |
+| adebis.palatinose.jp | 3d5c1a79-fbw7r35c.cname.ebis.ne.jp |
 | cs1979sbeda.customguide-build.net | 3dbeaa41-scxitlgt.cname.ebis.ne.jp |
 | adebis.bathclin.jp | 3dc67a07-t3v80e0l.cname.ebis.ne.jp |
 | d-kint.d-kintetsu.co.jp | 3e0f3f5e-at57g9zb.cname.ebis.ne.jp |
@@ -680,6 +683,7 @@
 | ebis.eiyoushi-tensyoku.com | f0b96c30-lpqdmczj.cname.ebis.ne.jp |
 | sep02.hinagiku-life.jp | f199b50c-gy66xg6s.cname.ebis.ne.jp |
 | ebis.housekeeping.or.jp | f1e54e38-wlvncyr6.cname.ebis.ne.jp |
+| adebis.funds.jp | f28e1718-qsgxw9am.cname.ebis.ne.jp |
 | ebis2020.hoiku-job.net | f3054804-quxzshgd.cname.ebis.ne.jp |
 | ad.theatre.co.jp | f38ea353-ehtgvvgm.cname.ebis.ne.jp |
 | media.geinoschool-hikaku.net | f6eeaef4-ehtgvvgm.cname.ebis.ne.jp |

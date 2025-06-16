@@ -77,6 +77,7 @@
 ||etracker.louis.nl^
 ||etracker.louis.pl^
 ||etracker.louis.se^
+||etracker.lukas-becker.eu^
 ||etracker.riess-gruppe.de^
 ||ets.verivox.com^
 ||ettcc.steute-controltec.com^
@@ -90,6 +91,7 @@
 ||js.edingershops.de^
 ||maschine.bengs-modellbau.de^
 ||mensch.ekd.de^
+||metrics.treudelberg-resort.com^
 ||mktg.activemind.legal^
 ||monitoring.medizinbedarf.eu^
 ||mytrd.orion.at^
@@ -128,6 +130,7 @@
 ||system.j5media.de^
 ||t.canngo.express^
 ||tr.zuhause-finder.com^
+||tr7593.pollin.de^
 ||track.bauwirtschaft-bw.de^
 ||track.dictum-gartenwerkzeug.de^
 ||track.dictum-handwerksgalerie.de^
@@ -161,6 +164,7 @@
 ||webanalytics.pwc.fr^
 ||webaus.dw-shop.de^
 ||webcon.se-legal.de^
+||webcontr.4pace.com^
 ||webcontr.aquarius-prolife.com^
 ||webcontr.barcodescanner.de^
 ||webcontr.baulogistik-online.de^
@@ -202,6 +206,7 @@
 ||webcontr.taxando.de^
 ||webcontr.thechefsstories.de^
 ||webcontr.verpoorten-mall.de^
+||webcontr.verpoorten-shop.de^
 ||webcontr.verpoorten.de^
 ||webcontr.vetter-pharma.com^
 ||webcontr.wgv.de^
@@ -209,6 +214,7 @@
 ||webcontrol.brenners-altholz.at^
 ||webctrl.dalimed.de^
 ||webstats.arbeitskleidung-expert.de^
+||webstats.hutdirekt.de^
 ||webstats.kawentsmann.de^
 ||websy.skillyofficial.com^
 ||webtr.codearchitekten.de^

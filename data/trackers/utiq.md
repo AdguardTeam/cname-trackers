@@ -222,6 +222,7 @@
 | utiq.laprovincia.es | frontend.prod.utiq-aws.net |
 | utiq.lardennais.fr | frontend.prod.utiq-aws.net |
 | utiq.larep.fr | frontend.prod.utiq-aws.net |
+| utiq.larep.fr.cdn.cloudflare.net | frontend.prod.utiq-aws.net |
 | utiq.larepubliquedespyrenees.fr | frontend.prod.utiq-aws.net |
 | utiq.larioja.com | frontend.prod.utiq-aws.net |
 | utiq.lasprovincias.es | frontend.prod.utiq-aws.net |
@@ -244,6 +245,7 @@
 | utiq.lemessager.fr | frontend.prod.utiq-aws.net |
 | utiq.leonoticias.com | frontend.prod.utiq-aws.net |
 | utiq.lepopulaire.fr | frontend.prod.utiq-aws.net |
+| utiq.lepopulaire.fr.cdn.cloudflare.net | frontend.prod.utiq-aws.net |
 | utiq.lesnumeriques.com | frontend.prod.utiq-aws.net |
 | utiq.lest-eclair.fr | frontend.prod.utiq-aws.net |
 | utiq.letelegramme.fr | frontend.prod.utiq-aws.net |
@@ -293,6 +295,7 @@
 | utiq.movistar.es | frontend.prod.utiq-aws.net |
 | utiq.mundoxiaomi.com | frontend.prod.utiq-aws.net |
 | utiq.myhomebook.de | frontend.prod.utiq-aws.net |
+| utiq.n-tv.de | frontend.prod.utiq-aws.net |
 | utiq.nationalgeographic.com.es | frontend.prod.utiq-aws.net |
 | utiq.neonmag.fr | frontend.prod.utiq-aws.net |
 | utiq.netmums.com | frontend.prod.utiq-aws.net |

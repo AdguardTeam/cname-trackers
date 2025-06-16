@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -200,7 +200,6 @@ tr.capu.espmp-agfr.net CNAME .
 tr.carl.espmp-cufr.net CNAME .
 tr.cart.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
-tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .
@@ -644,8 +643,6 @@ tr.m.cwisas.com CNAME .
 tr.macarte.truffaut.com CNAME .
 tr.made.faure-u.com CNAME .
 tr.mail-companeo.fr CNAME .
-tr.mail.cdiscount.com.ec CNAME .
-tr.mail.cdiscount.com.pa CNAME .
 tr.mail.digitalpjms.fr CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
@@ -667,7 +664,6 @@ tr.mailing.achatpublic.com CNAME .
 tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
-tr.mailing.opinionrelate.com CNAME .
 tr.mailing.promodeclic.fr CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
@@ -1163,6 +1159,7 @@ tr.urfk052.espmp-cufr.net CNAME .
 tr.urfk053.espmp-aufr.net CNAME .
 tr.urfk056.espmp-nifr.net CNAME .
 tr.urfk057.espmp-aufr.net CNAME .
+tr.urfk05e.espmp-aufr.net CNAME .
 tr.urfk05g.espmp-agfr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .
 tr.urfk05o.espmp-pofr.net CNAME .

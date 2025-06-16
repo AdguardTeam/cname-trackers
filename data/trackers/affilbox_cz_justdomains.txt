@@ -162,7 +162,6 @@ affiliate.fotopasti-bunaty.cz
 affiliate.gaymegastore.cz
 affiliate.gaymegastore.eu
 affiliate.geoweb.easy.cz
-affiliate.gilitickets.online
 affiliate.golfplan.org
 affiliate.growmarket.cz
 affiliate.hamham.cz
@@ -291,7 +290,6 @@ afill.e-potisk.cz
 ambasador.montessorikurz.cz
 ambasador.rustspolecne.cz
 ambasadorky.zenyzenam.cz
-ambassador.notsofunnyany.com
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 box.kryptotrejder.sk
@@ -305,11 +303,11 @@ doporuc.konferenceryba.cz
 doporuc.mechaneo.cz
 doporuc.necojakocola.cz
 doporuc.promujdomov.cz
-doporuc.skolaslava.cz
 doporuc.slevomat.cz
 doporucim.zjistitcenu.cz
 equilist.raj-ohlavek.cz
 hcaffil.mironet.cz
+hcbox.antiradary.net
 hcbox.bikemax.cz
 hcbox.fitness-zone.cz
 hcbox.itcomplet.sk
@@ -753,7 +751,6 @@ partner.thelisteningworld.com
 partner.top-obaly.cz
 partner.tozax.cz
 partner.tozax.sk
-partner.tradewyx.com
 partner.tyano.cz
 partner.umio.eu
 partner.unuo.de

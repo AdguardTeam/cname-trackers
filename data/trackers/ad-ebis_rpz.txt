@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -70,6 +70,7 @@ adebis.demae-can.com CNAME .
 adebis.e-ohaka.com CNAME .
 adebis.entetsu.co.jp CNAME .
 adebis.ferret-one.com CNAME .
+adebis.funds.jp CNAME .
 adebis.furisode-ichikura.jp CNAME .
 adebis.gfs-official.com CNAME .
 adebis.gfs.tokyo CNAME .
@@ -97,6 +98,7 @@ adebis.muscledeli.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
 adebis.o-baby.net CNAME .
+adebis.palatinose.jp CNAME .
 adebis.perfect-space.jp CNAME .
 adebis.pikaichi.co.jp CNAME .
 adebis.qeee.jp CNAME .

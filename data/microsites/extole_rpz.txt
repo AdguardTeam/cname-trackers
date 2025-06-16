@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1749456009150        ; Serial
+           1750060809718        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -134,13 +134,15 @@ www.refercentier.com CNAME .
 www.trevoce.com CNAME .
 acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
+circleofjoy.circlesurrogacy.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
+em5231.mail.propertyperks.xfinity.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
-em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
+em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
 emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -364,7 +366,6 @@ refer.pvdparking.com CNAME .
 refer.quantumfiber.com CNAME .
 refer.quickbooks.ca CNAME .
 refer.quickbooks.co.uk CNAME .
-refer.quickfix21.com CNAME .
 refer.quickfixtest5.com CNAME .
 refer.quickstart.com CNAME .
 refer.reebok.com CNAME .
@@ -417,6 +418,7 @@ refer.tomorrowsleep.com CNAME .
 refer.tous.com CNAME .
 refer.truwest.org CNAME .
 refer.twisthair.com CNAME .
+refer.udemy.com CNAME .
 refer.underarmour.co.uk CNAME .
 refer.underarmour.de CNAME .
 refer.underarmour.es CNAME .
@@ -739,6 +741,7 @@ share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
 share.teachingchannel.com CNAME .
 share.telegram.com CNAME .
+share.tennessean.com CNAME .
 share.texastrustcu.org CNAME .
 share.theadvertiser.com CNAME .
 share.thedailyjournal.com CNAME .
@@ -771,7 +774,6 @@ share.vonage.com CNAME .
 share.wagwalking.com CNAME .
 share.walmartmoneycard.com CNAME .
 share.whiparound.com CNAME .
-share.whistle.com CNAME .
 share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
 share.zenbusiness.com CNAME .
@@ -783,11 +785,10 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
-em2287.theory.com CNAME .
+em225.codecademy.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em5231.mail.propertyperks.xfinity.com CNAME .
-em7952.dailypay.com CNAME .
-em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
