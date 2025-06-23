@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -616,6 +616,7 @@ koala.hicks.house CNAME .
 koala.moontells.com CNAME .
 koala.mynestbox.co.uk CNAME .
 koala.readyfive.io CNAME .
+koi.artsvp.co CNAME .
 koi.fftf.cat CNAME .
 koi.filtersource.com CNAME .
 koi.fullyexplained.co.uk CNAME .
@@ -821,6 +822,7 @@ planarian.reverberate.org CNAME .
 platypus.cmp.is CNAME .
 platypus.colly.com CNAME .
 platypus.tompec.com CNAME .
+platypus.zwei-bags.ch CNAME .
 polarbear.codeday.org CNAME .
 polarbear.conermurphy.com CNAME .
 porcupine.dvresolve.com CNAME .
@@ -1081,7 +1083,6 @@ wombat.buildrtech.com CNAME .
 wombat.modinfinity.com CNAME .
 woodpecker.binario11.de CNAME .
 woodpecker.ember.ly CNAME .
-woodpecker.mikehalliday.com CNAME .
 woodpecker.seabits.com CNAME .
 worm.communitytrustproject.org CNAME .
 wren.camdenmecc.org.uk CNAME .
@@ -1091,6 +1092,7 @@ y5qhzz3q.designdetails.fm CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
 yak.gregsullivan.com CNAME .
+ads.cdn.bndlapi.com CNAME .
 ads.djc.com CNAME .
 allnews.chestertelegraph.org CNAME .
 amaze.hamptonroads.myactivechild.com CNAME .

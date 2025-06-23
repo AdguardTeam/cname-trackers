@@ -328,7 +328,6 @@ utiq.programme-tv.net
 utiq.programme.tv
 utiq.promiflash.de
 utiq.psychologies.com
-utiq.ptitchef.com
 utiq.publisher-demo.media
 utiq.purebreak.com
 utiq.purepeople.com
@@ -360,6 +359,7 @@ utiq.sportlerfrage.net
 utiq.sports.fr
 utiq.staging--hb.hmg.systems
 utiq.staging--wiwo.hmg.systems
+utiq.stern.de
 utiq.stg.noovomoi.bellmedia.ca
 utiq.stilo.es
 utiq.stimme.de

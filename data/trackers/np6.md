@@ -394,7 +394,6 @@
 | tr.email.distributor-expo.com | tracking.bp01.net |
 | tr.email.gap-france.fr | tracking.bp01.net |
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
-| tr.email.infocredit.orangebank.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
 | tr.email.medicalexpo.com | tracking.bp01.net |
 | tr.email.mnpaf.fr | tracking.bp01.net |
@@ -506,7 +505,6 @@
 | tr.info-pro.promoneuve.fr | tracking.bp01.net |
 | tr.info-strategie.fr | tracking.bp01.net |
 | tr.info.actionlogement.fr | tracking.bp01.net |
-| tr.info.aeroportdeauville.com | tracking.bp01.net |
 | tr.info.ag2rlamondiale.fr | tracking.bp01.net |
 | tr.info.aliae.com | tracking.bp01.net |
 | tr.info.aprr.fr | tracking.bp01.net |
@@ -837,7 +835,6 @@
 | tr.news.franceloc.fr | tracking.bp01.net |
 | tr.news.futuramedia.fr | tracking.bp01.net |
 | tr.news.geantcasino.fr | tracking.bp01.net |
-| tr.news.geomag.fr | tracking.bp01.net |
 | tr.news.glance-mediametrie.com | tracking.bp01.net |
 | tr.news.grandsmoulinsdeparis.com | tracking.bp01.net |
 | tr.news.groupe-armonia.com | tracking.bp01.net |
@@ -1098,6 +1095,7 @@
 | tr.schj.espmp-aufr.net | tracking.bp01.net |
 | tr.seat-fs-email.fr | tracking.bp01.net |
 | tr.secteurentreprises.harmonie-mutuelle.fr | tracking.bp01.net |
+| tr.send.kinvent.com | tracking.bp01.net |
 | tr.service-client.mhdfrance.fr | tracking.bp01.net |
 | tr.service.linxea.com | tracking.bp01.net |
 | tr.serviceclient.adagcaladoise.fr | tracking.bp01.net |

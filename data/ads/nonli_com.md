@@ -79,6 +79,8 @@
 | l.actu.fr | tls.non.li |
 | l.adorocinema.com | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |
+| l.africaintelligence.com | tls.non.li |
+| l.africaintelligence.fr | tls.non.li |
 | l.africanews.com | tls.non.li |
 | l.africaradio.com | tls.non.li |
 | l.aisnenouvelle.fr | tls.non.li |
@@ -115,6 +117,7 @@
 | l.easyvoyage.com | tls.non.li |
 | l.echoancenis.fr | tls.non.li |
 | l.echoduberry.fr | tls.non.li |
+| l.en-vols.com | tls.non.li |
 | l.enfant.com | tls.non.li |
 | l.enfemenino.com | tls.non.li |
 | l.entrenous.fr | tls.non.li |
@@ -140,9 +143,11 @@
 | l.gamepro.de | tls.non.li |
 | l.gamesider.com | tls.non.li |
 | l.gamestar.de | tls.non.li |
+| l.genevasolutions.news | tls.non.li |
 | l.gentside.com | tls.non.li |
 | l.gentside.de | tls.non.li |
 | l.geo.fr | tls.non.li |
+| l.glitz.paris | tls.non.li |
 | l.grazia.fr | tls.non.li |
 | l.grazia.it | tls.non.li |
 | l.harpersbazaar.fr | tls.non.li |
@@ -150,6 +155,8 @@
 | l.humanite.fr | tls.non.li |
 | l.ici.fr | tls.non.li |
 | l.ideat.fr | tls.non.li |
+| l.intelligenceonline.com | tls.non.li |
+| l.intelligenceonline.fr | tls.non.li |
 | l.jeuneafrique.com | tls.non.li |
 | l.jeuxvideo.com | tls.non.li |
 | l.journaldemillau.fr | tls.non.li |
@@ -157,6 +164,7 @@
 | l.la-croix.com | tls.non.li |
 | l.lacremedugaming.fr | tls.non.li |
 | l.ladepeche.fr | tls.non.li |
+| l.lalettre.fr | tls.non.li |
 | l.lamanchelibre.fr | tls.non.li |
 | l.lanouvellerepublique.fr | tls.non.li |
 | l.lardennais.fr | tls.non.li |

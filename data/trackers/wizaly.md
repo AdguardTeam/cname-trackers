@@ -40,7 +40,6 @@
     * tk-kusmitea-com.wizaly.com
     * tk-lacoste-com.wizaly.com
     * tk-lamaisonduchocolat-com.wizaly.com
-    * tk-lcl-fr.wizaly.com
     * tk-little-big-change-com.wizaly.com
     * tk-lulli-sur-la-toile-com.wizaly.com
     * tk-m6boutique-com.wizaly.com
@@ -129,7 +128,6 @@
 | tk.kusmitea.com | tk-kusmitea-com.wizaly.com |
 | tk.lacoste.com | tk-lacoste-com.wizaly.com |
 | tk.lamaisonduchocolat.com | tk-lamaisonduchocolat-com.wizaly.com |
-| tk.lcl.fr | tk-lcl-fr.wizaly.com |
 | tk.little-big-change.com | tk-little-big-change-com.wizaly.com |
 | tk.lulli-sur-la-toile.com | tk-lulli-sur-la-toile-com.wizaly.com |
 | tk.m6boutique.com | tk-m6boutique-com.wizaly.com |

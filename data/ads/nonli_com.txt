@@ -25,6 +25,8 @@
 ||l.actu.fr^
 ||l.adorocinema.com^
 ||l.africabusinessplus.com^
+||l.africaintelligence.com^
+||l.africaintelligence.fr^
 ||l.africanews.com^
 ||l.africaradio.com^
 ||l.aisnenouvelle.fr^
@@ -66,6 +68,7 @@
 ||l.easyvoyage.com^
 ||l.echoancenis.fr^
 ||l.echoduberry.fr^
+||l.en-vols.com^
 ||l.enfant.com^
 ||l.enfemenino.com^
 ||l.entrenous.fr^
@@ -92,9 +95,11 @@
 ||l.gamepro.de^
 ||l.gamesider.com^
 ||l.gamestar.de^
+||l.genevasolutions.news^
 ||l.gentside.com^
 ||l.gentside.de^
 ||l.geo.fr^
+||l.glitz.paris^
 ||l.grazia.fr^
 ||l.grazia.it^
 ||l.harpersbazaar.fr^
@@ -103,6 +108,8 @@
 ||l.humanite.fr^
 ||l.ici.fr^
 ||l.ideat.fr^
+||l.intelligenceonline.com^
+||l.intelligenceonline.fr^
 ||l.jeuneafrique.com^
 ||l.jeuxvideo.com^
 ||l.journaldemillau.fr^
@@ -110,6 +117,7 @@
 ||l.la-croix.com^
 ||l.lacremedugaming.fr^
 ||l.ladepeche.fr^
+||l.lalettre.fr^
 ||l.lalsace.fr^
 ||l.lamanchelibre.fr^
 ||l.lanouvellerepublique.fr^

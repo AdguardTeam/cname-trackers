@@ -210,7 +210,6 @@
     * chicos.extole.io
     * chicosofftherack.extole.io
     * cinemark.extole.io
-    * circlesurrogacy.extole.io
     * citizen.extole.io
     * cityfurniture.extole.io
     * clarksusa.extole.io
@@ -221,6 +220,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -298,7 +298,6 @@
     * gap-canada.extole.io
     * gardenoflife.extole.io
     * garnethill.extole.io
-    * gcefcu.extole.io
     * getfreed.extole.io
     * getlendly.extole.io
     * getsetup.extole.io
@@ -477,7 +476,6 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -497,7 +495,6 @@
     * saucony.extole.io
     * savers.extole.io
     * seabourn.extole.io
-    * securityplus.extole.io
     * servicechannel.extole.io
     * sesamecare.extole.io
     * shark-clean.extole.io
@@ -531,7 +528,6 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
-    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -595,6 +591,7 @@
     * walmartmoneycard.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
+    * wecu.extole.io
     * westerracu.extole.io
     * whiparound.extole.io
     * whitehouseblackmarket.extole.io
@@ -755,7 +752,6 @@
 | refer.chicosofftherack.com | chicosofftherack.extole.io |
 | chubclub.chubbiesshorts.com | chubbies.extole.com |
 | refer.cinemark.com | cinemark.extole.io |
-| circleofjoy.circlesurrogacy.com | circlesurrogacy.extole.io |
 | refer.citizen-times.com | citizen-times.extole.com |
 | refer.citizenwatch.com | citizen.extole.io |
 | share.cityfurniture.com | cityfurniture.extole.io |
@@ -769,6 +765,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -852,6 +849,7 @@
 | rob.extoleu.com | extoleu.extole.io |
 | rob2.extoleu.com | extoleu.extole.io |
 | ufsmdjkg1zhzcx9i.extoleu.com | extoleu.extole.io |
+| www.extoleu.com | extoleu.extole.io |
 | www.rob.extoleu.com | extoleu.extole.io |
 | social.fabkids.com | fabkids-ssl.extole.com |
 | refer.familysavingscu.com | familysavingscu.extole.io |
@@ -942,7 +940,6 @@
 | refer.gapcanada.ca | gap-canada.extole.io |
 | refer.gardenoflife.com | gardenoflife.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
-| refer.gcefcu.org | gcefcu.extole.io |
 | gift.getfreed.ai | getfreed.extole.io |
 | refer.lendly.com | getlendly.extole.io |
 | share.getsetup.io | getsetup.extole.io |
@@ -1203,7 +1200,6 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1232,7 +1228,6 @@
 | refer.saucony.com | saucony.extole.io |
 | share.fundrive.savers.com | savers.extole.io |
 | refer.seabourn.com | seabourn.extole.io |
-| share.securityplusfcu.org | securityplus.extole.io |
 | refer.seniorhelpers.com | seniorhelpers.extole.com |
 | referral.servicechannel.com | servicechannel.extole.io |
 | share.sesamecare.com | sesamecare.extole.io |
@@ -1273,7 +1268,6 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
-| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1382,6 +1376,7 @@
 | refer.themvpkc.com | wearesouthwind.extole.io |
 | www.trevoce.com | web-tool-qa.lb.extole.com |
 | refer.webs.com | webs.extole.com |
+| offers.wecu.com | wecu.extole.io |
 | refer.westerracu.com | westerracu.extole.io |
 | refer.wgu.edu | wgu.extole.com |
 | share.whiparound.com | whiparound.extole.io |

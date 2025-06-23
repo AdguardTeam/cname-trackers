@@ -8,7 +8,6 @@
 
 * noviclick.goadserver.com
 * static.goadserver.com
-* reacheffect.goadserver.com
 * up.goadserver.com
 * data.goadserver.com
 * www.goadserver.com
@@ -143,8 +142,6 @@
 | www.tbllem.com | go.goadserver.com |
 | zz.shat1.com | go.goadserver.com |
 | app.noviclick.com | noviclick.goadserver.com |
-| dsp.reacheffect.com | reacheffect.goadserver.com |
-| up.reacheffect.com | reacheffect.goadserver.com |
 | data.goasrv.com | static.goadserver.com |
 | st.go-static.info | static.goadserver.com |
 | static.delmovip.com | static.goadserver.com |

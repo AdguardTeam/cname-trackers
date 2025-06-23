@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,6 +61,7 @@ activate.solanabeachsun.com CNAME .
 activate.southflorida.com CNAME .
 activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
+activate.theaegis.com CNAME .
 activate.tidewaterreview.com CNAME .
 activate.tribpubads.com CNAME .
 activate.tribunecontentagency.com CNAME .
@@ -320,6 +321,7 @@ privacy.latitudepay.com CNAME .
 privacy.learcapital.com CNAME .
 privacy.online.heineken.co.za CNAME .
 privacy.owllabs.com CNAME .
+privacy.pruadviser.co.uk CNAME .
 privacy.sekuremerchants.com CNAME .
 privacy.umiloans.com.au CNAME .
 privacy.uwm.com CNAME .

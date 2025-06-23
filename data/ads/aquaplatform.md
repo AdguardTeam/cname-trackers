@@ -43,6 +43,7 @@
     * datateam-console.aquaplatform.com
     * datateam-delivery.aquaplatform.com
     * datateam-static.aquaplatform.com
+    * drm-delivery.aquaplatform.com
     * el-delivery.aquaplatform.com
     * el-static.aquaplatform.com
     * faithlife-console.aquaplatform.com
@@ -101,6 +102,7 @@
     * platformiq-cdn.aquaplatform.com
     * platformiq-del.aquaplatform.com
     * portwest-delivery.aquaplatform.com
+    * postandparcel-console.aquaplatform.com
     * postandparcel-delivery.aquaplatform.com
     * postandparcel-static.aquaplatform.com
     * proxibid-console.aquaplatform.com
@@ -206,6 +208,7 @@
 | ads.datateam.co.uk | datateam-delivery.aquaplatform.com |
 | cdn.datateam.co.uk | datateam-static.aquaplatform.com |
 | www.cdn.datateam.co.uk | datateam-static.aquaplatform.com |
+| www.directdisplaymarketing.com | drm-delivery.aquaplatform.com |
 | ads.environmentalleader.com | el-delivery.aquaplatform.com |
 | www.ads.environmentalleader.com | el-delivery.aquaplatform.com |
 | static.environmentalleader.com | el-static.aquaplatform.com |
@@ -297,6 +300,7 @@
 | static.imagineobx.com | oneboat-static.aquaplatform.com |
 | www.static.everythingnevada.com | oneboat-static.aquaplatform.com |
 | www.static.imagineobx.com | oneboat-static.aquaplatform.com |
+| www.static.tahoe.com | oneboat-static.aquaplatform.com |
 | console.adspmg.com | pamplin-console.aquaplatform.com |
 | www.console.adspmg.com | pamplin-console.aquaplatform.com |
 | cdn.adspmg.com | pamplin-static.aquaplatform.com |
@@ -317,6 +321,7 @@
 | images.proxena-adserver.com | platformiq-cdn.aquaplatform.com |
 | images.xtraa.org | platformiq-cdn.aquaplatform.com |
 | informatm-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
+| jacilla-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | omroepflevoland-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
@@ -327,6 +332,7 @@
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
+| adztech-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | brandmovers-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | marriagetrac-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
@@ -343,6 +349,7 @@
 | www.servedby.jacilla.no | platformiq-del.aquaplatform.com |
 | xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.portwest.com | portwest-delivery.aquaplatform.com |
+| console.postandparcel.info | postandparcel-console.aquaplatform.com |
 | ads.postandparcel.info | postandparcel-delivery.aquaplatform.com |
 | static.postandparcel.info | postandparcel-static.aquaplatform.com |
 | adconsole.bidspotter.co.uk | proxibid-console.aquaplatform.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,6 +58,7 @@ adv.consulcesi.it CNAME .
 adv.unionesarda.it CNAME .
 advertising.goldseek.com CNAME .
 adwin.geenstijl.nl CNAME .
+adztech-delivery.reviveservers.com CNAME .
 adztech-images.reviveservers.com CNAME .
 api.ad.logic-prod.viasat.io CNAME .
 api.ad.logic-test.viasat.io CNAME .
@@ -112,6 +113,7 @@ console.mannixmarketing.com CNAME .
 console.miningweekly.com CNAME .
 console.myadsmyanmar.com CNAME .
 console.pinktriangle.ca CNAME .
+console.postandparcel.info CNAME .
 console.revive-adserver.net CNAME .
 console.sacommunications.com CNAME .
 console.trackandfieldnews.com CNAME .
@@ -136,6 +138,7 @@ images.swiss-equestrian.ch CNAME .
 images.worldofshowjumping.com CNAME .
 images.xtraa.org CNAME .
 informatm-static.reviveservers.com CNAME .
+jacilla-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
 marriagetrac-delivery.reviveservers.com CNAME .
 media.revive-adserver.com CNAME .
@@ -265,6 +268,7 @@ www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .
 www.coreads.cambridge.org CNAME .
 www.creatives.goldseek.com CNAME .
+www.directdisplaymarketing.com CNAME .
 www.display.lawbulletin.com CNAME .
 www.images.hour-media.com CNAME .
 www.images.informatm.com CNAME .
@@ -289,6 +293,7 @@ www.static.imagineobx.com CNAME .
 www.static.livingmagonline.com CNAME .
 www.static.proxibid.com CNAME .
 www.static.schrotundkorn.de CNAME .
+www.static.tahoe.com CNAME .
 www.static.the-saleroom.com CNAME .
 www.stommeplaatjes.geenstijl.nl CNAME .
 xtraa-secure.reviveservers.com CNAME .

@@ -8,6 +8,7 @@
 
 * core-apps.b-cdn.net
 * deprecated-custom-domains.b-cdn.net
+* ads-bndlapi.b-cdn.net
 * bs-adserver.b-cdn.net
 * video-ad.b-cdn.net
 * bannieres.b-cdn.net
@@ -28,6 +29,7 @@
 | ---- | ---- |
 | thirty-good.lugg.com | absolutely-novel.b-cdn.net |
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
+| ads.cdn.bndlapi.com | ads-bndlapi.b-cdn.net |
 | video.adsninja.ca | adsninja.b-cdn.net |
 | cdn.adsninja.ca | adsninjacdn.b-cdn.net |
 | cdn.sentinelp.com | adsninjacdn.b-cdn.net |
@@ -560,6 +562,7 @@
 | koala.moontells.com | deprecated-custom-domains.b-cdn.net |
 | koala.mynestbox.co.uk | deprecated-custom-domains.b-cdn.net |
 | koala.readyfive.io | deprecated-custom-domains.b-cdn.net |
+| koi.artsvp.co | deprecated-custom-domains.b-cdn.net |
 | koi.fftf.cat | deprecated-custom-domains.b-cdn.net |
 | koi.filtersource.com | deprecated-custom-domains.b-cdn.net |
 | koi.fullyexplained.co.uk | deprecated-custom-domains.b-cdn.net |
@@ -765,6 +768,7 @@
 | platypus.cmp.is | deprecated-custom-domains.b-cdn.net |
 | platypus.colly.com | deprecated-custom-domains.b-cdn.net |
 | platypus.tompec.com | deprecated-custom-domains.b-cdn.net |
+| platypus.zwei-bags.ch | deprecated-custom-domains.b-cdn.net |
 | polarbear.codeday.org | deprecated-custom-domains.b-cdn.net |
 | polarbear.conermurphy.com | deprecated-custom-domains.b-cdn.net |
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
@@ -1025,7 +1029,6 @@
 | wombat.modinfinity.com | deprecated-custom-domains.b-cdn.net |
 | woodpecker.binario11.de | deprecated-custom-domains.b-cdn.net |
 | woodpecker.ember.ly | deprecated-custom-domains.b-cdn.net |
-| woodpecker.mikehalliday.com | deprecated-custom-domains.b-cdn.net |
 | woodpecker.seabits.com | deprecated-custom-domains.b-cdn.net |
 | worm.communitytrustproject.org | deprecated-custom-domains.b-cdn.net |
 | wren.camdenmecc.org.uk | deprecated-custom-domains.b-cdn.net |

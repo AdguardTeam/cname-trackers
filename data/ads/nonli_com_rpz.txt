@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,8 @@ l.academiedugout.fr CNAME .
 l.actu.fr CNAME .
 l.adorocinema.com CNAME .
 l.africabusinessplus.com CNAME .
+l.africaintelligence.com CNAME .
+l.africaintelligence.fr CNAME .
 l.africanews.com CNAME .
 l.africaradio.com CNAME .
 l.aisnenouvelle.fr CNAME .
@@ -77,6 +79,7 @@ l.dzfoot.com CNAME .
 l.easyvoyage.com CNAME .
 l.echoancenis.fr CNAME .
 l.echoduberry.fr CNAME .
+l.en-vols.com CNAME .
 l.enfant.com CNAME .
 l.enfemenino.com CNAME .
 l.entrenous.fr CNAME .
@@ -103,9 +106,11 @@ l.gamekult.com CNAME .
 l.gamepro.de CNAME .
 l.gamesider.com CNAME .
 l.gamestar.de CNAME .
+l.genevasolutions.news CNAME .
 l.gentside.com CNAME .
 l.gentside.de CNAME .
 l.geo.fr CNAME .
+l.glitz.paris CNAME .
 l.grazia.fr CNAME .
 l.grazia.it CNAME .
 l.harpersbazaar.fr CNAME .
@@ -114,6 +119,8 @@ l.heidi.news CNAME .
 l.humanite.fr CNAME .
 l.ici.fr CNAME .
 l.ideat.fr CNAME .
+l.intelligenceonline.com CNAME .
+l.intelligenceonline.fr CNAME .
 l.jeuneafrique.com CNAME .
 l.jeuxvideo.com CNAME .
 l.journaldemillau.fr CNAME .
@@ -121,6 +128,7 @@ l.koolmag.fr CNAME .
 l.la-croix.com CNAME .
 l.lacremedugaming.fr CNAME .
 l.ladepeche.fr CNAME .
+l.lalettre.fr CNAME .
 l.lalsace.fr CNAME .
 l.lamanchelibre.fr CNAME .
 l.lanouvellerepublique.fr CNAME .

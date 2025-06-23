@@ -47,6 +47,7 @@
 ||adv.unionesarda.it^
 ||advertising.goldseek.com^
 ||adwin.geenstijl.nl^
+||adztech-delivery.reviveservers.com^
 ||adztech-images.reviveservers.com^
 ||api.ad.logic-prod.viasat.io^
 ||api.ad.logic-test.viasat.io^
@@ -101,6 +102,7 @@
 ||console.miningweekly.com^
 ||console.myadsmyanmar.com^
 ||console.pinktriangle.ca^
+||console.postandparcel.info^
 ||console.revive-adserver.net^
 ||console.sacommunications.com^
 ||console.trackandfieldnews.com^
@@ -125,6 +127,7 @@
 ||images.worldofshowjumping.com^
 ||images.xtraa.org^
 ||informatm-static.reviveservers.com^
+||jacilla-static.reviveservers.com^
 ||lalala.geenstijl.nl^
 ||marriagetrac-delivery.reviveservers.com^
 ||media.revive-adserver.com^
@@ -254,6 +257,7 @@
 ||www.coreads-static.cambridge.org^
 ||www.coreads.cambridge.org^
 ||www.creatives.goldseek.com^
+||www.directdisplaymarketing.com^
 ||www.display.lawbulletin.com^
 ||www.images.hour-media.com^
 ||www.images.informatm.com^
@@ -278,6 +282,7 @@
 ||www.static.livingmagonline.com^
 ||www.static.proxibid.com^
 ||www.static.schrotundkorn.de^
+||www.static.tahoe.com^
 ||www.static.the-saleroom.com^
 ||www.stommeplaatjes.geenstijl.nl^
 ||xtraa-secure.reviveservers.com^

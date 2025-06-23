@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -338,7 +338,6 @@ a8.thg.co.jp CNAME .
 a8.thidastone.com CNAME .
 a8.tokihana.net CNAME .
 a8.tokyo-hills-clinic.com CNAME .
-a8.tomo.life CNAME .
 a8.tone.ne.jp CNAME .
 a8.toraiz.jp CNAME .
 a8.tour-sys.com CNAME .
@@ -380,6 +379,7 @@ a8.www.nicosuma.com CNAME .
 a8.www.retrospect.co.jp CNAME .
 a8.www.seesaa.co.jp CNAME .
 a8.www.suaoki.jp CNAME .
+a8.xn--38jf6c4pa86a1dv833cexrb.com CNAME .
 a8.xn--google-873exa8m6161dbbyb.net CNAME .
 a8.xn--y8jd4aybzqd.jp CNAME .
 a8.yakumatch.com CNAME .
@@ -413,6 +413,7 @@ a8clk.011330.jp CNAME .
 a8clk.17skin.jp CNAME .
 a8clk.1osechi.com CNAME .
 a8clk.292957.jp CNAME .
+a8clk.9factor.com CNAME .
 a8clk.account.matsui.co.jp CNAME .
 a8clk.adeliv.treasure-f.com CNAME .
 a8clk.adventkk.co.jp CNAME .
@@ -543,7 +544,6 @@ a8clk.hokennews.jp CNAME .
 a8clk.hom.adebtt.info CNAME .
 a8clk.home.me.tech-clips.com CNAME .
 a8clk.hotman-onlineshop.com CNAME .
-a8clk.hozon.sp-site.jp CNAME .
 a8clk.hurugicom.jp CNAME .
 a8clk.ias.il24.net CNAME .
 a8clk.inakakon.jp CNAME .
@@ -650,6 +650,7 @@ a8clk.psd.jp CNAME .
 a8clk.purekon.jp CNAME .
 a8clk.qracian365.com CNAME .
 a8clk.radianne.jp CNAME .
+a8clk.rakurakuseisan.jp CNAME .
 a8clk.rarejob.com CNAME .
 a8clk.rdlp.jp CNAME .
 a8clk.recycle-net.jp CNAME .
@@ -795,6 +796,7 @@ a8cv.1sbc.com CNAME .
 a8cv.464981.com CNAME .
 a8cv.489pro.com CNAME .
 a8cv.550909.com CNAME .
+a8cv.a-bisu.jp CNAME .
 a8cv.a-resort.jp CNAME .
 a8cv.a-ru-ku.co.jp CNAME .
 a8cv.a-satei.com CNAME .
@@ -871,7 +873,6 @@ a8cv.cart.minorie-shop.com CNAME .
 a8cv.cart3.toku-talk.com CNAME .
 a8cv.cast-er.com CNAME .
 a8cv.celav.net CNAME .
-a8cv.celbest.urr.jp CNAME .
 a8cv.cellbic.net CNAME .
 a8cv.chefbox.jp CNAME .
 a8cv.chillaxy.jp CNAME .
@@ -984,7 +985,6 @@ a8cv.gakuen.omobic.com CNAME .
 a8cv.gb-chat.com CNAME .
 a8cv.gbset.jp CNAME .
 a8cv.gigabaito.com CNAME .
-a8cv.gimuiko.com CNAME .
 a8cv.global-dive.jp CNAME .
 a8cv.global-link-seminar.com CNAME .
 a8cv.glocalnet.jp CNAME .

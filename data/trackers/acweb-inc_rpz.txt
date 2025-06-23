@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ l.motocoto.jp CNAME .
 l.n-da.jp CNAME .
 l.naganoblog.jp CNAME .
 l.namjai.cc CNAME .
+l.nassy.jp CNAME .
 l.naturum.ne.jp CNAME .
 l.niiblo.jp CNAME .
 l.noramba.net CNAME .

@@ -20,6 +20,7 @@ al.blvck.jp
 al.bulk.co.jp
 al.caetus.jp
 al.californiastreet.net
+al.chocolatesunday.jp
 al.clear-store.com
 al.combinationmeal.com
 al.directishii.net
@@ -65,6 +66,7 @@ al.peak-blue.com
 al.pierrotshop.jp
 al.rayell.jp
 al.route-2.net
+al.ruban-de-chouchou.jp
 al.saifuku-knit.jp
 al.santelabo.jp
 al.sanwaweb.com
@@ -74,6 +76,7 @@ al.shiffon-online.jp
 al.shinfulife.com
 al.sotouba.net
 al.sourcenext.com
+al.stamps-co.com
 al.store.kyokotsu.jp
 al.talex.co.jp
 al.tanabesports.com

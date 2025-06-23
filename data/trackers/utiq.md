@@ -332,7 +332,6 @@
 | utiq.programme.tv | frontend.prod.utiq-aws.net |
 | utiq.promiflash.de | frontend.prod.utiq-aws.net |
 | utiq.psychologies.com | frontend.prod.utiq-aws.net |
-| utiq.ptitchef.com | frontend.prod.utiq-aws.net |
 | utiq.publisher-demo.media | frontend.prod.utiq-aws.net |
 | utiq.purebreak.com | frontend.prod.utiq-aws.net |
 | utiq.purepeople.com | frontend.prod.utiq-aws.net |
@@ -364,6 +363,7 @@
 | utiq.sports.fr | frontend.prod.utiq-aws.net |
 | utiq.staging--hb.hmg.systems | frontend.prod.utiq-aws.net |
 | utiq.staging--wiwo.hmg.systems | frontend.prod.utiq-aws.net |
+| utiq.stern.de | frontend.prod.utiq-aws.net |
 | utiq.stg.noovomoi.bellmedia.ca | frontend.prod.utiq-aws.net |
 | utiq.stilo.es | frontend.prod.utiq-aws.net |
 | utiq.stimme.de | frontend.prod.utiq-aws.net |

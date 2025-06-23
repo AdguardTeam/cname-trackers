@@ -4,6 +4,7 @@
 ||analytics.freiraumakustik.de^
 ||analytics.gerstacker-weinkellerei.de^
 ||analytics.kist-escherich.com^
+||analytics.meygeneralbau.de^
 ||analytics.monobloc.de^
 ||assets.telefonanlage-shop.de^
 ||atrdb.laeckerli-huus.ch^
@@ -17,9 +18,12 @@
 ||click.easycosmetic.nl^
 ||connect.glowtox.de^
 ||connect.peter-bringts.de^
+||content02.genius.tv^
+||content03.genius.tv^
 ||controlling.bartenbach.de^
 ||ct.krauss.app^
 ||ctrl.guenther.de^
+||customer.growmart.de^
 ||data.diekuechedirekt.de^
 ||data.drhauschka.de^
 ||data.juhu.auto^
@@ -89,6 +93,7 @@
 ||gus.corinnavondermuehlen.de^
 ||insides.honic.eu^
 ||js.edingershops.de^
+||lolly.needforsweet.de^
 ||maschine.bengs-modellbau.de^
 ||mensch.ekd.de^
 ||metrics.treudelberg-resort.com^
@@ -219,6 +224,7 @@
 ||websy.skillyofficial.com^
 ||webtr.codearchitekten.de^
 ||webtr.dachser.com^
+||webtrack.lotto-thueringen.de^
 ||weco.gasteo.de^
 ||weco.ilon.de^
 ||wt.leitz.org^

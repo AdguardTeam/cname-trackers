@@ -155,7 +155,6 @@
 ||plausible-stats.tangodelta.media^
 ||plausible.adreform.com^
 ||plausible.alexandar.me^
-||plausible.alpaga.io^
 ||plausible.altkey.club^
 ||plausible.app.kdojang.com^
 ||plausible.app.tlschedule.com^
@@ -186,7 +185,6 @@
 ||plausible.golfbreaks.com^
 ||plausible.gryka.net^
 ||plausible.gymglish.com^
-||plausible.heartanddata.com^
 ||plausible.help.exploreandcreate.com^
 ||plausible.holderbaum-academy.de^
 ||plausible.hopecanebay.com^

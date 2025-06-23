@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,7 @@ a.trowow.de CNAME .
 analytics.freiraumakustik.de CNAME .
 analytics.gerstacker-weinkellerei.de CNAME .
 analytics.kist-escherich.com CNAME .
+analytics.meygeneralbau.de CNAME .
 analytics.monobloc.de CNAME .
 assets.telefonanlage-shop.de CNAME .
 atrdb.laeckerli-huus.ch CNAME .
@@ -28,9 +29,12 @@ click.easycosmetic.de CNAME .
 click.easycosmetic.nl CNAME .
 connect.glowtox.de CNAME .
 connect.peter-bringts.de CNAME .
+content02.genius.tv CNAME .
+content03.genius.tv CNAME .
 controlling.bartenbach.de CNAME .
 ct.krauss.app CNAME .
 ctrl.guenther.de CNAME .
+customer.growmart.de CNAME .
 data.diekuechedirekt.de CNAME .
 data.drhauschka.de CNAME .
 data.juhu.auto CNAME .
@@ -100,6 +104,7 @@ go.eitrmsummit.com CNAME .
 gus.corinnavondermuehlen.de CNAME .
 insides.honic.eu CNAME .
 js.edingershops.de CNAME .
+lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
 metrics.treudelberg-resort.com CNAME .
@@ -230,6 +235,7 @@ webstats.kawentsmann.de CNAME .
 websy.skillyofficial.com CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
+webtrack.lotto-thueringen.de CNAME .
 weco.gasteo.de CNAME .
 weco.ilon.de CNAME .
 wt.leitz.org CNAME .

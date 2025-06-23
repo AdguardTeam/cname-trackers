@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ al.blvck.jp CNAME .
 al.bulk.co.jp CNAME .
 al.caetus.jp CNAME .
 al.californiastreet.net CNAME .
+al.chocolatesunday.jp CNAME .
 al.clear-store.com CNAME .
 al.combinationmeal.com CNAME .
 al.directishii.net CNAME .
@@ -76,6 +77,7 @@ al.peak-blue.com CNAME .
 al.pierrotshop.jp CNAME .
 al.rayell.jp CNAME .
 al.route-2.net CNAME .
+al.ruban-de-chouchou.jp CNAME .
 al.saifuku-knit.jp CNAME .
 al.santelabo.jp CNAME .
 al.sanwaweb.com CNAME .
@@ -85,6 +87,7 @@ al.shiffon-online.jp CNAME .
 al.shinfulife.com CNAME .
 al.sotouba.net CNAME .
 al.sourcenext.com CNAME .
+al.stamps-co.com CNAME .
 al.store.kyokotsu.jp CNAME .
 al.talex.co.jp CNAME .
 al.tanabesports.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -339,7 +339,6 @@ utiq.programme-tv.net CNAME .
 utiq.programme.tv CNAME .
 utiq.promiflash.de CNAME .
 utiq.psychologies.com CNAME .
-utiq.ptitchef.com CNAME .
 utiq.publisher-demo.media CNAME .
 utiq.purebreak.com CNAME .
 utiq.purepeople.com CNAME .
@@ -371,6 +370,7 @@ utiq.sportlerfrage.net CNAME .
 utiq.sports.fr CNAME .
 utiq.staging--hb.hmg.systems CNAME .
 utiq.staging--wiwo.hmg.systems CNAME .
+utiq.stern.de CNAME .
 utiq.stg.noovomoi.bellmedia.ca CNAME .
 utiq.stilo.es CNAME .
 utiq.stimme.de CNAME .

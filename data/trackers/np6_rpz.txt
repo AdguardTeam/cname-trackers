@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -379,7 +379,6 @@ tr.email.directindustry.com CNAME .
 tr.email.distributor-expo.com CNAME .
 tr.email.gap-france.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
-tr.email.infocredit.orangebank.fr CNAME .
 tr.email.janedeboy.com CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.mnpaf.fr CNAME .
@@ -491,7 +490,6 @@ tr.info-mairie8.paris.fr CNAME .
 tr.info-pro.promoneuve.fr CNAME .
 tr.info-strategie.fr CNAME .
 tr.info.actionlogement.fr CNAME .
-tr.info.aeroportdeauville.com CNAME .
 tr.info.ag2rlamondiale.fr CNAME .
 tr.info.aliae.com CNAME .
 tr.info.aprr.fr CNAME .
@@ -822,7 +820,6 @@ tr.news.frame.fr CNAME .
 tr.news.franceloc.fr CNAME .
 tr.news.futuramedia.fr CNAME .
 tr.news.geantcasino.fr CNAME .
-tr.news.geomag.fr CNAME .
 tr.news.glance-mediametrie.com CNAME .
 tr.news.grandsmoulinsdeparis.com CNAME .
 tr.news.groupe-armonia.com CNAME .
@@ -1083,6 +1080,7 @@ tr.satisfaction.villagesnature.com CNAME .
 tr.schj.espmp-aufr.net CNAME .
 tr.seat-fs-email.fr CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
+tr.send.kinvent.com CNAME .
 tr.service-client.mhdfrance.fr CNAME .
 tr.service.linxea.com CNAME .
 tr.serviceclient.adagcaladoise.fr CNAME .

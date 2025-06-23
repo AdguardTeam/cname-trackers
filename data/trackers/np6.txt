@@ -368,7 +368,6 @@
 ||tr.email.distributor-expo.com^
 ||tr.email.gap-france.fr^
 ||tr.email.harmonie-mutuelle.fr^
-||tr.email.infocredit.orangebank.fr^
 ||tr.email.janedeboy.com^
 ||tr.email.medicalexpo.com^
 ||tr.email.mnpaf.fr^
@@ -480,7 +479,6 @@
 ||tr.info-pro.promoneuve.fr^
 ||tr.info-strategie.fr^
 ||tr.info.actionlogement.fr^
-||tr.info.aeroportdeauville.com^
 ||tr.info.ag2rlamondiale.fr^
 ||tr.info.aliae.com^
 ||tr.info.aprr.fr^
@@ -811,7 +809,6 @@
 ||tr.news.franceloc.fr^
 ||tr.news.futuramedia.fr^
 ||tr.news.geantcasino.fr^
-||tr.news.geomag.fr^
 ||tr.news.glance-mediametrie.com^
 ||tr.news.grandsmoulinsdeparis.com^
 ||tr.news.groupe-armonia.com^
@@ -1072,6 +1069,7 @@
 ||tr.schj.espmp-aufr.net^
 ||tr.seat-fs-email.fr^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
+||tr.send.kinvent.com^
 ||tr.service-client.mhdfrance.fr^
 ||tr.service.linxea.com^
 ||tr.serviceclient.adagcaladoise.fr^

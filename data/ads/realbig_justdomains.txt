@@ -1,6 +1,7 @@
 #
 # Company name: RealBig
 1.vakuumnyy-stimulyator.ru
+1.xcfaprb0325.ru
 a.rb-ya.ru
 a.resr.ru
 a.ridd.ru
@@ -57,10 +58,10 @@ rbone.link
 rbthre.work
 rdv.naruto-base.tv
 real.dvanadva.ru
-realrb.bid
 rott.mazlspqnn.ru
 servw.bid
 sub.fastgnmx.com
+test.truenat.bid
 truenat.bid
 tryonline.bid
 tuesdaysale.bid
@@ -95,4 +96,5 @@ www.rbprk91645.ru
 www.rekl1.com
 www.rlrt.ru
 www.siterec.site
+www.truenat.bid
 xxx.extrablocks.ru

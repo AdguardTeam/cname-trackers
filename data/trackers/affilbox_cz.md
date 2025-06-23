@@ -314,6 +314,7 @@
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
 | ambassadors.guideandgrow.com | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
+| champions.betubetu.com | cz.affilbox.cz |
 | collab.zdravetricko.cz | cz.affilbox.cz |
 | cryptonow.algomoneo.com | cz.affilbox.cz |
 | dbsaysnba4ygmwav.algomoneo.com | cz.affilbox.cz |
@@ -644,6 +645,7 @@
 | partner.liberec-ubytovani.cz | cz.affilbox.cz |
 | partner.lidajirickova.cz | cz.affilbox.cz |
 | partner.ligsuniversity.cz | cz.affilbox.cz |
+| partner.listy-profily.sk | cz.affilbox.cz |
 | partner.lorooro.com | cz.affilbox.cz |
 | partner.lovella.cz | cz.affilbox.cz |
 | partner.ltx.cz | cz.affilbox.cz |

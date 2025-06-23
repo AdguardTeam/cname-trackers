@@ -7,6 +7,8 @@
 ||af.mobile.free.fr^
 ||afm.alphatick.com^
 ||afm.cnthevtmarkets.com^
+||afm.crointech.io^
+||afm.hoiltech.info^
 ||afm.infinox.com^
 ||afm.monetaindonesia.com^
 ||afm.monetamarkets.com^
@@ -18,11 +20,14 @@
 ||afm.startrader.asia^
 ||afm.startrader.com^
 ||afm.startrader.live^
+||afm.startrader.plus^
 ||afm.startraderasia.com^
 ||afm.startraderfr.com^
 ||afm.startraderjp.com^
 ||afm.startradermarkets.com^
 ||afm.startradermy.com^
+||afm.startraders55.com^
+||afm.startradervn.net^
 ||afm.sthub.cc^
 ||afm.ultima-markets.com^
 ||afm.ultimamarkets.asia^
@@ -45,6 +50,7 @@
 ||afm.vtg-mkt.com^
 ||afm.vtg-mkts.com^
 ||afm.vtglobalchn.com^
+||afm.vtglobalcn.com^
 ||afm.vtmarkets.co^
 ||afm.vtmarkets.com^
 ||afm.vtmarkets.net^
@@ -75,7 +81,6 @@
 ||analytics.vodafone.com.au^
 ||analyze.central1.cc^
 ||api.v1.threatmetrix.space.ge^
-||api1.sfcu.org^
 ||apicorporativops.portoseguro.com.br^
 ||app.saldodipje.nl^
 ||app.uob.co.th^
@@ -294,6 +299,7 @@
 ||content.floa.com^
 ||content.floridarentals.com^
 ||content.frs.fl.gov^
+||content.gap.co.jp^
 ||content.gap.com^
 ||content.gapfactory.com^
 ||content.gaptechol.com^
@@ -385,7 +391,6 @@
 ||content.tfbank.it^
 ||content.usps.com^
 ||content.varetire.org^
-||content.vi.gov^
 ||content.westcreekfin.com^
 ||content.wizink.es^
 ||content002.bet365.bet.br^
@@ -450,9 +455,7 @@
 ||creditapp.rogersbank.com^
 ||creditcheck.digitecgalaxus.ch^
 ||csource.rentals.com^
-||css.bitcasino.io^
 ||css.slots.io^
-||css.sportsbet.io^
 ||csservice.aircanada.com^
 ||cstm.gumtree.com^
 ||customer.homedepot.com^
@@ -506,6 +509,7 @@
 ||donor.cafamerica.org^
 ||dp.barclaycardus.com^
 ||dp.barclaysus.com^
+||dp.lottogo.ca^
 ||dp.lottogo.com^
 ||dp.mynylottery.org^
 ||dpcontent.locationsmart.net^
@@ -524,6 +528,7 @@
 ||ep-content.viviraty.pl^
 ||ep-content.vivus.pl^
 ||ep-content.zaplo.pl^
+||ep.heartland.co.nz^
 ||ep.vystarcu.org^
 ||eps.uprova.com^
 ||eve.playstation.com^
@@ -1047,6 +1052,7 @@
 ||tcontent.cdiscountmobile.cdiscount.com^
 ||tcontent.nrjmobile.fr^
 ||telem.highlow.com^
+||telempdf.vepormas.com^
 ||tfp.intuit.com^
 ||th.barclays.co.uk^
 ||thm.v.me^
@@ -1180,7 +1186,6 @@
 ||tmx.katapult.com^
 ||tmx.kijiji.ca^
 ||tmx.manulifebank.com^
-||tmx.monzo.co.uk^
 ||tmx.pat.td.com^
 ||tmx.prod.efsllc.com^
 ||tmx.rnd.gemaltodigitalbankingidcloud.com^

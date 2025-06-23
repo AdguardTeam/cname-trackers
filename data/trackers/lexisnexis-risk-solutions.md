@@ -10,7 +10,6 @@
     * h-10mkgm4b.online-metrix.net
     * h-11b6fun8cno.online-metrix.net
     * h-12jodw87.online-metrix.net
-    * h-14iyhddh.online-metrix.net
     * h-15dxj0k6.online-metrix.net
     * h-15wc9fpp.online-metrix.net
     * h-16vzjy52.online-metrix.net
@@ -83,6 +82,7 @@
     * h-4hq91r5k.online-metrix.net
     * h-4iibpm7t.online-metrix.net
     * h-4izfn6dr.online-metrix.net
+    * h-4kblllmz.online-metrix.net
     * h-4nyhdbu2.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ruz3ugq2.online-metrix.net
@@ -176,6 +176,7 @@
     * h-8vxymlqf.online-metrix.net
     * h-8wmmckk2.online-metrix.net
     * h-8ydtcbsf.online-metrix.net
+    * h-8yt1muyv.online-metrix.net
     * h-8z6ccesi.online-metrix.net
     * h-91hkii01.online-metrix.net
     * h-921kr3qj.online-metrix.net
@@ -256,7 +257,6 @@
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
     * h-b3zpl92l.online-metrix.net
-    * h-b4bq7y80.online-metrix.net
     * h-b6te0xmf.online-metrix.net
     * h-badoo.online-metrix.net
     * h-bambu.online-metrix.net
@@ -290,9 +290,7 @@
     * h-bmo.online-metrix.net
     * h-bnc.online-metrix.net
     * h-bnl.online-metrix.net
-    * h-bo72h7g2-1.online-metrix.net
     * h-bo72h7g2-4.online-metrix.net
-    * h-bo72h7g2-5.online-metrix.net
     * h-bos-soc.online-metrix.net
     * h-bos.online-metrix.net
     * h-bossrevolution.online-metrix.net
@@ -714,7 +712,6 @@
     * h-sptbbpilates.online-metrix.net
     * h-src0.mydoterra.online-metrix.net
     * h-standardcharteredbank.online-metrix.net
-    * h-stanfordfcu.online-metrix.net
     * h-suncoast.online-metrix.net
     * h-surveysampling.online-metrix.net
     * h-svbconnect.online-metrix.net
@@ -827,7 +824,6 @@
 | partition.enterprise.com | h-10mkgm4b.online-metrix.net |
 | content.mycno.com | h-11b6fun8cno.online-metrix.net |
 | cdna.tiranabank.al | h-12jodw87.online-metrix.net |
-| tmx.monzo.co.uk | h-14iyhddh.online-metrix.net |
 | lnday.sinclair.edu | h-15dxj0k6.online-metrix.net |
 | tmln.caesarscasino.com | h-15wc9fpp.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
@@ -991,6 +987,7 @@
 | ep-content.vivus.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.zaplo.pl | h-4iibpm7t.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
+| ep.heartland.co.nz | h-4kblllmz.online-metrix.net |
 | onoutput.com | h-4nyhdbu2.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | dep.gambit29.gameassists.co.uk | h-4ruz3ugq2.online-metrix.net |
@@ -1125,6 +1122,7 @@
 | tm.espnbet.com | h-8vxymlqf.online-metrix.net |
 | thmep.zondacrypto.com | h-8wmmckk2.online-metrix.net |
 | content.myfamliplus.state.co.us | h-8ydtcbsf.online-metrix.net |
+| telempdf.vepormas.com | h-8yt1muyv.online-metrix.net |
 | content.paysend.com | h-8z6ccesi.online-metrix.net |
 | app.uob.co.th | h-91hkii01.online-metrix.net |
 | prof4rs.cembrapay.ch | h-921kr3qj.online-metrix.net |
@@ -1140,6 +1138,8 @@
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | afm.alphatick.com | h-96eziru5.online-metrix.net |
 | afm.cnthevtmarkets.com | h-96eziru5.online-metrix.net |
+| afm.crointech.io | h-96eziru5.online-metrix.net |
+| afm.hoiltech.info | h-96eziru5.online-metrix.net |
 | afm.infinox.com | h-96eziru5.online-metrix.net |
 | afm.monetaindonesia.com | h-96eziru5.online-metrix.net |
 | afm.monetamarkets.com | h-96eziru5.online-metrix.net |
@@ -1151,11 +1151,14 @@
 | afm.startrader.asia | h-96eziru5.online-metrix.net |
 | afm.startrader.com | h-96eziru5.online-metrix.net |
 | afm.startrader.live | h-96eziru5.online-metrix.net |
+| afm.startrader.plus | h-96eziru5.online-metrix.net |
 | afm.startraderasia.com | h-96eziru5.online-metrix.net |
 | afm.startraderfr.com | h-96eziru5.online-metrix.net |
 | afm.startraderjp.com | h-96eziru5.online-metrix.net |
 | afm.startradermarkets.com | h-96eziru5.online-metrix.net |
 | afm.startradermy.com | h-96eziru5.online-metrix.net |
+| afm.startraders55.com | h-96eziru5.online-metrix.net |
+| afm.startradervn.net | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
 | afm.ultima-markets.com | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.asia | h-96eziru5.online-metrix.net |
@@ -1178,6 +1181,7 @@
 | afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkts.com | h-96eziru5.online-metrix.net |
 | afm.vtglobalchn.com | h-96eziru5.online-metrix.net |
+| afm.vtglobalcn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.co | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
@@ -1309,7 +1313,6 @@
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
-| content.vi.gov | h-b4bq7y80.online-metrix.net |
 | srv.squaretrade.at | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.be | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.co.jp | h-b6te0xmf.online-metrix.net |
@@ -1366,9 +1369,7 @@
 | enligne.bnc.ca | h-bnc.online-metrix.net |
 | online.nbc.ca | h-bnc.online-metrix.net |
 | content.hellobank.it | h-bnl.online-metrix.net |
-| css.bitcasino.io | h-bo72h7g2-1.online-metrix.net |
 | css.slots.io | h-bo72h7g2-4.online-metrix.net |
-| css.sportsbet.io | h-bo72h7g2-5.online-metrix.net |
 | cbcdn.bankofscotland.co.uk | h-bos-soc.online-metrix.net |
 | check2.bankofscotland.co.uk | h-bos.online-metrix.net |
 | imagestm.bossrevolution.com | h-bossrevolution.online-metrix.net |
@@ -1562,6 +1563,7 @@
 | payments.hd-plus.de | h-drbo60la.online-metrix.net |
 | mobile-content.pumb.ua | h-drnycoos.online-metrix.net |
 | content22.gss.citi.com | h-dsa7i4o8.online-metrix.net |
+| dp.lottogo.ca | h-dst402ij.online-metrix.net |
 | dp.lottogo.com | h-dst402ij.online-metrix.net |
 | lspr.luckycasino.ca | h-dst402ij.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
@@ -1575,6 +1577,7 @@
 | query.capitalontap.com | h-dyj6k3h5.online-metrix.net |
 | query.capitalontap.es | h-dyj6k3h5.online-metrix.net |
 | security.vanquis.com | h-dzb1xpdc.online-metrix.net |
+| content.gap.co.jp | h-e04kqxof.online-metrix.net |
 | content.gap.com | h-e04kqxof.online-metrix.net |
 | content.gapfactory.com | h-e04kqxof.online-metrix.net |
 | content.gaptechol.com | h-e04kqxof.online-metrix.net |
@@ -1951,7 +1954,6 @@
 | sptbb.pilates.com | h-sptbbpilates.online-metrix.net |
 | src0.myvoffice.com | h-src0.mydoterra.online-metrix.net |
 | svc1.sc.com | h-standardcharteredbank.online-metrix.net |
-| api1.sfcu.org | h-stanfordfcu.online-metrix.net |
 | tx.suncoastcreditunion.com | h-suncoast.online-metrix.net |
 | mobile-tmx.ssisurveys.com | h-surveysampling.online-metrix.net |
 | cdn1.svbconnect.com | h-svbconnect.online-metrix.net |

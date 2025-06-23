@@ -1,5 +1,7 @@
 #
 # Company name: INFOnline
+0186141170.apps.iocnt.de
+39db8b138f.apps.iocnt.de
 5bf0fdacd2.apps.iocnt.de
 acksrc.chip.de
 acsam-relay.ivwonline.org
@@ -139,7 +141,6 @@ data-11eb4b2a24.deutsche-startups.de
 data-12025f91cc.uibk.ac.at
 data-1203b7acd3.mopo.de
 data-125f69cccb.eppelheim.de
-data-1261bd4848.logistik-heute.de
 data-12b92dc35b.wetter.de
 data-12c31c7daf.das-onlinespiel.de
 data-12cf56a65f.apps.iocnt.de
@@ -903,7 +904,6 @@ data-6357c1903a.plasteurope.com
 data-63659a24a7.apps.iocnt.de
 data-63798c78f2.apps.iocnt.de
 data-638190bf02.galileo.tv
-data-639ebd97e3.transport-online.de
 data-63bbe3ec45.wuv.de
 data-63ef19fa52.apps.iocnt.de
 data-6416365902.sbz-online.de
@@ -1697,7 +1697,6 @@ data-c53e1346fa.gamepro.de
 data-c53e1346fa.gamestar-premium.de
 data-c53e1346fa.gamestar.de
 data-c53e1346fa.ninotaku.de
-data-c53e1346fa.nintendo-online.de
 data-c53e1346fa.pietsmiet.de
 data-c53e1346fa.xboxdynasty.de
 data-c5740f79ff.bbv-net.de
@@ -2119,6 +2118,7 @@ data-f27acaf339.haustechnikdialog.de
 data-f2fef0ab45.rhoenundsaalepost.de
 data-f2fef0ab45.rhoenundstreubote.de
 data-f35c83b71a.ots.at
+data-f3bb5f7732.fraenkische-rezepte.de
 data-f3bb5f7732.infranken.de
 data-f3e9921e92.speedparty.at
 data-f3e9f6e256.computer-spezial.de
@@ -2277,6 +2277,8 @@ data-fa59f9f6b5.liliservicekino.de
 data-fa59f9f6b5.lindenkino-wusterhausen.de
 data-fa59f9f6b5.movieplexx.de
 data-fa59f9f6b5.neue-filmbuehne.de
+data-fa59f9f6b5.neuesregina.de
+data-fa59f9f6b5.ostseekino-kuehlungsborn.de
 data-fa59f9f6b5.saarfilm.net
 data-fa59f9f6b5.uc-kino-ruegen.de
 data-fa59f9f6b5.wied-scala.de

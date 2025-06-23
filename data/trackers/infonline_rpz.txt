@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,8 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+0186141170.apps.iocnt.de CNAME .
+39db8b138f.apps.iocnt.de CNAME .
 5bf0fdacd2.apps.iocnt.de CNAME .
 acksrc.chip.de CNAME .
 acsam-relay.ivwonline.org CNAME .
@@ -150,7 +152,6 @@ data-11eb4b2a24.deutsche-startups.de CNAME .
 data-12025f91cc.uibk.ac.at CNAME .
 data-1203b7acd3.mopo.de CNAME .
 data-125f69cccb.eppelheim.de CNAME .
-data-1261bd4848.logistik-heute.de CNAME .
 data-12b92dc35b.wetter.de CNAME .
 data-12c31c7daf.das-onlinespiel.de CNAME .
 data-12cf56a65f.apps.iocnt.de CNAME .
@@ -914,7 +915,6 @@ data-6357c1903a.plasteurope.com CNAME .
 data-63659a24a7.apps.iocnt.de CNAME .
 data-63798c78f2.apps.iocnt.de CNAME .
 data-638190bf02.galileo.tv CNAME .
-data-639ebd97e3.transport-online.de CNAME .
 data-63bbe3ec45.wuv.de CNAME .
 data-63ef19fa52.apps.iocnt.de CNAME .
 data-6416365902.sbz-online.de CNAME .
@@ -1708,7 +1708,6 @@ data-c53e1346fa.gamepro.de CNAME .
 data-c53e1346fa.gamestar-premium.de CNAME .
 data-c53e1346fa.gamestar.de CNAME .
 data-c53e1346fa.ninotaku.de CNAME .
-data-c53e1346fa.nintendo-online.de CNAME .
 data-c53e1346fa.pietsmiet.de CNAME .
 data-c53e1346fa.xboxdynasty.de CNAME .
 data-c5740f79ff.bbv-net.de CNAME .
@@ -2130,6 +2129,7 @@ data-f27acaf339.haustechnikdialog.de CNAME .
 data-f2fef0ab45.rhoenundsaalepost.de CNAME .
 data-f2fef0ab45.rhoenundstreubote.de CNAME .
 data-f35c83b71a.ots.at CNAME .
+data-f3bb5f7732.fraenkische-rezepte.de CNAME .
 data-f3bb5f7732.infranken.de CNAME .
 data-f3e9921e92.speedparty.at CNAME .
 data-f3e9f6e256.computer-spezial.de CNAME .
@@ -2288,6 +2288,8 @@ data-fa59f9f6b5.liliservicekino.de CNAME .
 data-fa59f9f6b5.lindenkino-wusterhausen.de CNAME .
 data-fa59f9f6b5.movieplexx.de CNAME .
 data-fa59f9f6b5.neue-filmbuehne.de CNAME .
+data-fa59f9f6b5.neuesregina.de CNAME .
+data-fa59f9f6b5.ostseekino-kuehlungsborn.de CNAME .
 data-fa59f9f6b5.saarfilm.net CNAME .
 data-fa59f9f6b5.uc-kino-ruegen.de CNAME .
 data-fa59f9f6b5.wied-scala.de CNAME .

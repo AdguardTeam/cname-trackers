@@ -123,7 +123,6 @@
 ||tk.kusmitea.com^
 ||tk.lacoste.com^
 ||tk.lamaisonduchocolat.com^
-||tk.lcl.fr^
 ||tk.little-big-change.com^
 ||tk.lolivier.fr^
 ||tk.lulli-sur-la-toile.com^

@@ -605,6 +605,7 @@
 ||koala.moontells.com^
 ||koala.mynestbox.co.uk^
 ||koala.readyfive.io^
+||koi.artsvp.co^
 ||koi.fftf.cat^
 ||koi.filtersource.com^
 ||koi.fullyexplained.co.uk^
@@ -810,6 +811,7 @@
 ||platypus.cmp.is^
 ||platypus.colly.com^
 ||platypus.tompec.com^
+||platypus.zwei-bags.ch^
 ||polarbear.codeday.org^
 ||polarbear.conermurphy.com^
 ||porcupine.dvresolve.com^
@@ -1070,7 +1072,6 @@
 ||wombat.modinfinity.com^
 ||woodpecker.binario11.de^
 ||woodpecker.ember.ly^
-||woodpecker.mikehalliday.com^
 ||woodpecker.seabits.com^
 ||worm.communitytrustproject.org^
 ||wren.camdenmecc.org.uk^
@@ -1080,6 +1081,7 @@
 ||yak.auclantis.com^
 ||yak.flutterblog.net^
 ||yak.gregsullivan.com^
+||ads.cdn.bndlapi.com^
 ||ads.djc.com^
 ||allnews.chestertelegraph.org^
 ||amaze.hamptonroads.myactivechild.com^

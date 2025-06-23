@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,8 @@ acsweb-3dr1.dnp-cdms.jp CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
 afm.cnthevtmarkets.com CNAME .
+afm.crointech.io CNAME .
+afm.hoiltech.info CNAME .
 afm.infinox.com CNAME .
 afm.monetaindonesia.com CNAME .
 afm.monetamarkets.com CNAME .
@@ -29,11 +31,14 @@ afm.puprime.online CNAME .
 afm.startrader.asia CNAME .
 afm.startrader.com CNAME .
 afm.startrader.live CNAME .
+afm.startrader.plus CNAME .
 afm.startraderasia.com CNAME .
 afm.startraderfr.com CNAME .
 afm.startraderjp.com CNAME .
 afm.startradermarkets.com CNAME .
 afm.startradermy.com CNAME .
+afm.startraders55.com CNAME .
+afm.startradervn.net CNAME .
 afm.sthub.cc CNAME .
 afm.ultima-markets.com CNAME .
 afm.ultimamarkets.asia CNAME .
@@ -56,6 +61,7 @@ afm.vtg-mkt-apac.com CNAME .
 afm.vtg-mkt.com CNAME .
 afm.vtg-mkts.com CNAME .
 afm.vtglobalchn.com CNAME .
+afm.vtglobalcn.com CNAME .
 afm.vtmarkets.co CNAME .
 afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
@@ -86,7 +92,6 @@ analytics.vaxvacationaccess.com CNAME .
 analytics.vodafone.com.au CNAME .
 analyze.central1.cc CNAME .
 api.v1.threatmetrix.space.ge CNAME .
-api1.sfcu.org CNAME .
 apicorporativops.portoseguro.com.br CNAME .
 app.saldodipje.nl CNAME .
 app.uob.co.th CNAME .
@@ -305,6 +310,7 @@ content.fisglobal.com CNAME .
 content.floa.com CNAME .
 content.floridarentals.com CNAME .
 content.frs.fl.gov CNAME .
+content.gap.co.jp CNAME .
 content.gap.com CNAME .
 content.gapfactory.com CNAME .
 content.gaptechol.com CNAME .
@@ -396,7 +402,6 @@ content.tfbank.es CNAME .
 content.tfbank.it CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
-content.vi.gov CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
 content002.bet365.bet.br CNAME .
@@ -461,9 +466,7 @@ cookiemonster.calcas.com CNAME .
 creditapp.rogersbank.com CNAME .
 creditcheck.digitecgalaxus.ch CNAME .
 csource.rentals.com CNAME .
-css.bitcasino.io CNAME .
 css.slots.io CNAME .
-css.sportsbet.io CNAME .
 csservice.aircanada.com CNAME .
 cstm.gumtree.com CNAME .
 customer.homedepot.com CNAME .
@@ -517,6 +520,7 @@ dol-reemployme-js01.maine.gov CNAME .
 donor.cafamerica.org CNAME .
 dp.barclaycardus.com CNAME .
 dp.barclaysus.com CNAME .
+dp.lottogo.ca CNAME .
 dp.lottogo.com CNAME .
 dp.mynylottery.org CNAME .
 dpcontent.locationsmart.net CNAME .
@@ -535,6 +539,7 @@ ep-content.vivigo.pl CNAME .
 ep-content.viviraty.pl CNAME .
 ep-content.vivus.pl CNAME .
 ep-content.zaplo.pl CNAME .
+ep.heartland.co.nz CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
 eve.playstation.com CNAME .
@@ -1058,6 +1063,7 @@ tcontent.auchantelecom.fr CNAME .
 tcontent.cdiscountmobile.cdiscount.com CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.highlow.com CNAME .
+telempdf.vepormas.com CNAME .
 tfp.intuit.com CNAME .
 th.barclays.co.uk CNAME .
 thm.v.me CNAME .
@@ -1191,7 +1197,6 @@ tmx.idp.us.safenetid.com CNAME .
 tmx.katapult.com CNAME .
 tmx.kijiji.ca CNAME .
 tmx.manulifebank.com CNAME .
-tmx.monzo.co.uk CNAME .
 tmx.pat.td.com CNAME .
 tmx.prod.efsllc.com CNAME .
 tmx.rnd.gemaltodigitalbankingidcloud.com CNAME .

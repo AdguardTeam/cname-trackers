@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 1.vakuumnyy-stimulyator.ru CNAME .
+1.xcfaprb0325.ru CNAME .
 a.rb-ya.ru CNAME .
 a.resr.ru CNAME .
 a.ridd.ru CNAME .
@@ -68,10 +69,10 @@ rbone.link CNAME .
 rbthre.work CNAME .
 rdv.naruto-base.tv CNAME .
 real.dvanadva.ru CNAME .
-realrb.bid CNAME .
 rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .
 sub.fastgnmx.com CNAME .
+test.truenat.bid CNAME .
 truenat.bid CNAME .
 tryonline.bid CNAME .
 tuesdaysale.bid CNAME .
@@ -106,4 +107,5 @@ www.rbprk91645.ru CNAME .
 www.rekl1.com CNAME .
 www.rlrt.ru CNAME .
 www.siterec.site CNAME .
+www.truenat.bid CNAME .
 xxx.extrablocks.ru CNAME .

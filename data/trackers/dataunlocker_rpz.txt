@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ $TTL 300
 1hb4jkt1u2d.probemas.com CNAME .
 1j2n061x3td.www.digi.no CNAME .
 1k5vz1ejbcx.staging.probemas.com CNAME .
+1p3293dngsv.dodofacile.fr CNAME .
 1phrzgfqiym8.marketingtornado.ca CNAME .
 1vyt1eguj27.ommasign.com CNAME .
 1xwkhcsp3s5.vqsave.ommasign.com CNAME .
@@ -79,7 +80,6 @@ e5obq1v261.www.lurkit.com CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 fkupm8697t19.eyevolution.de CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
-fyznhp8inq9x.jaywilsonwebsolutions.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 hht8m6w8mnug.quine.sh CNAME .
 htahii1lpt4u.boxoffice.adventuretix.com CNAME .

@@ -293,6 +293,7 @@
 ||ambassadors.childhoodpotential.com^
 ||ambassadors.guideandgrow.com^
 ||box.kryptotrejder.sk^
+||champions.betubetu.com^
 ||collab.zdravetricko.cz^
 ||cryptonow.algomoneo.com^
 ||dbsaysnba4ygmwav.algomoneo.com^
@@ -623,6 +624,7 @@
 ||partner.liberec-ubytovani.cz^
 ||partner.lidajirickova.cz^
 ||partner.ligsuniversity.cz^
+||partner.listy-profily.sk^
 ||partner.lorooro.com^
 ||partner.lovella.cz^
 ||partner.ltx.cz^

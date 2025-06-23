@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -166,7 +166,6 @@ plausdj2ajskljzx0ikwkiasible.ethics.info CNAME .
 plausible-stats.tangodelta.media CNAME .
 plausible.adreform.com CNAME .
 plausible.alexandar.me CNAME .
-plausible.alpaga.io CNAME .
 plausible.altkey.club CNAME .
 plausible.app.kdojang.com CNAME .
 plausible.app.tlschedule.com CNAME .
@@ -197,7 +196,6 @@ plausible.giveatip.io CNAME .
 plausible.golfbreaks.com CNAME .
 plausible.gryka.net CNAME .
 plausible.gymglish.com CNAME .
-plausible.heartanddata.com CNAME .
 plausible.help.exploreandcreate.com CNAME .
 plausible.holderbaum-academy.de CNAME .
 plausible.hopecanebay.com CNAME .

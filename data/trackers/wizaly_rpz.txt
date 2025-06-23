@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750060809718        ; Serial
+           1750665609635        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -134,7 +134,6 @@ tk.kitchendiet.fr CNAME .
 tk.kusmitea.com CNAME .
 tk.lacoste.com CNAME .
 tk.lamaisonduchocolat.com CNAME .
-tk.lcl.fr CNAME .
 tk.little-big-change.com CNAME .
 tk.lolivier.fr CNAME .
 tk.lulli-sur-la-toile.com CNAME .

@@ -50,6 +50,7 @@
 ||activate.southflorida.com^
 ||activate.sun-sentinel.com^
 ||activate.suncorp.com.au^
+||activate.theaegis.com^
 ||activate.tidewaterreview.com^
 ||activate.tribpubads.com^
 ||activate.tribunecontentagency.com^
@@ -309,6 +310,7 @@
 ||privacy.learcapital.com^
 ||privacy.online.heineken.co.za^
 ||privacy.owllabs.com^
+||privacy.pruadviser.co.uk^
 ||privacy.sekuremerchants.com^
 ||privacy.umiloans.com.au^
 ||privacy.uwm.com^

@@ -327,7 +327,6 @@
 ||a8.thidastone.com^
 ||a8.tokihana.net^
 ||a8.tokyo-hills-clinic.com^
-||a8.tomo.life^
 ||a8.tone.ne.jp^
 ||a8.toraiz.jp^
 ||a8.tour-sys.com^
@@ -369,6 +368,7 @@
 ||a8.www.retrospect.co.jp^
 ||a8.www.seesaa.co.jp^
 ||a8.www.suaoki.jp^
+||a8.xn--38jf6c4pa86a1dv833cexrb.com^
 ||a8.xn--google-873exa8m6161dbbyb.net^
 ||a8.xn--y8jd4aybzqd.jp^
 ||a8.yakumatch.com^
@@ -402,6 +402,7 @@
 ||a8clk.17skin.jp^
 ||a8clk.1osechi.com^
 ||a8clk.292957.jp^
+||a8clk.9factor.com^
 ||a8clk.account.matsui.co.jp^
 ||a8clk.adeliv.treasure-f.com^
 ||a8clk.adventkk.co.jp^
@@ -532,7 +533,6 @@
 ||a8clk.hom.adebtt.info^
 ||a8clk.home.me.tech-clips.com^
 ||a8clk.hotman-onlineshop.com^
-||a8clk.hozon.sp-site.jp^
 ||a8clk.hurugicom.jp^
 ||a8clk.ias.il24.net^
 ||a8clk.inakakon.jp^
@@ -639,6 +639,7 @@
 ||a8clk.purekon.jp^
 ||a8clk.qracian365.com^
 ||a8clk.radianne.jp^
+||a8clk.rakurakuseisan.jp^
 ||a8clk.rarejob.com^
 ||a8clk.rdlp.jp^
 ||a8clk.recycle-net.jp^
@@ -784,6 +785,7 @@
 ||a8cv.464981.com^
 ||a8cv.489pro.com^
 ||a8cv.550909.com^
+||a8cv.a-bisu.jp^
 ||a8cv.a-resort.jp^
 ||a8cv.a-ru-ku.co.jp^
 ||a8cv.a-satei.com^
@@ -860,7 +862,6 @@
 ||a8cv.cart3.toku-talk.com^
 ||a8cv.cast-er.com^
 ||a8cv.celav.net^
-||a8cv.celbest.urr.jp^
 ||a8cv.cellbic.net^
 ||a8cv.chefbox.jp^
 ||a8cv.chillaxy.jp^
@@ -973,7 +974,6 @@
 ||a8cv.gb-chat.com^
 ||a8cv.gbset.jp^
 ||a8cv.gigabaito.com^
-||a8cv.gimuiko.com^
 ||a8cv.global-dive.jp^
 ||a8cv.global-link-seminar.com^
 ||a8cv.glocalnet.jp^
