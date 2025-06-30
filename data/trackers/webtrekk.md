@@ -78,6 +78,7 @@
     * 312310057961150.wt-eu02.net
     * 318590743478915.wt-eu02.net
     * 324225834397336.wt-eu02.net
+    * 326021631118392.wt-eu02.net
     * 329712103760415.wt-eu02.net
     * 329744135290071.wt-eu02.net
     * 339874301969258.wt-eu02.net
@@ -157,7 +158,6 @@
     * 759654606550505.wt-eu02.net
     * 761489887718050.wt-eu02.net
     * 769396664005295.wt-eu02.net
-    * 770833460572104.wt-eu02.net
     * 778835614863159.wt-eu02.net
     * 786480128044234.wt-eu02.net
     * 790635424156780.wt-eu02.net
@@ -178,6 +178,7 @@
     * 855939625646783.wt-eu02.net
     * 865411762489824.wt-eu02.net
     * 876354769224974.wt-eu02.net
+    * 876856926295447.wt-eu02.net
     * 877361186099223.wt-eu02.net
     * 877979016491790.wt-eu02.net
     * 887450638197118.wt-eu02.net
@@ -318,6 +319,7 @@
 | web.mail.parmalat.it | 312310057961150.wt-eu02.net |
 | web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
 | info.genialklick.ch | 324225834397336.wt-eu02.net |
+| web.info.paginegialle.it | 326021631118392.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | startrekk.flaconi.be | 329744135290071.wt-eu02.net |
 | web.email.amplifiedclothing.com | 339874301969258.wt-eu02.net |
@@ -430,7 +432,6 @@
 | web.hello.petspyjamas.com | 759654606550505.wt-eu02.net |
 | web.update.sandiego.org | 761489887718050.wt-eu02.net |
 | t.mediaset.it | 769396664005295.wt-eu02.net |
-| w.m.nkl-peters.de | 770833460572104.wt-eu02.net |
 | ctd.cucchiaio.it | 778835614863159.wt-eu02.net |
 | ctd.domusweb.it | 778835614863159.wt-eu02.net |
 | ctd.dueruote.it | 778835614863159.wt-eu02.net |
@@ -463,6 +464,7 @@
 | wt.envivas.de | 865411762489824.wt-eu02.net |
 | wt.generalibewegtdeutschland.de | 865411762489824.wt-eu02.net |
 | info.der-gruene-max.ch | 876354769224974.wt-eu02.net |
+| web.enews.greatlittlebreaks.com | 876856926295447.wt-eu02.net |
 | web.news.turnbullandasser.co.uk | 877361186099223.wt-eu02.net |
 | mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | trk.nuernberger.com | 887450638197118.wt-eu02.net |

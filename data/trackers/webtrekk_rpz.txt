@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -234,7 +234,6 @@ trk.nuernberger.com CNAME .
 trk.nuernberger.de CNAME .
 trk.nuernberger.digital CNAME .
 w.ilfattoquotidiano.it CNAME .
-w.m.nkl-peters.de CNAME .
 w3.aktionaersbank.de CNAME .
 w7.berlin.de CNAME .
 wa.planet-wissen.de CNAME .
@@ -299,6 +298,7 @@ web.email.superga.co.uk CNAME .
 web.email.topfarmacia.it CNAME .
 web.email.turtlebay.co.uk CNAME .
 web.email.umbro.co.uk CNAME .
+web.enews.greatlittlebreaks.com CNAME .
 web.enews.lenotre.fr CNAME .
 web.engagetest.swaindestinations.com CNAME .
 web.hello.petspyjamas.com CNAME .
@@ -307,6 +307,7 @@ web.info.bodybuildingwarehouse.co.uk CNAME .
 web.info.bodybuildingwarehouse.com CNAME .
 web.info.bonprix.es CNAME .
 web.info.bonprix.fi CNAME .
+web.info.paginegialle.it CNAME .
 web.info.teamwarrior.com CNAME .
 web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .

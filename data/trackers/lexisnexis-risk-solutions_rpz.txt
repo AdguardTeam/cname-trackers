@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -97,6 +97,7 @@ app.saldodipje.nl CNAME .
 app.uob.co.th CNAME .
 app.uob.com.my CNAME .
 app.uob.com.sg CNAME .
+app01.cnt.uat.bdo.com.ph CNAME .
 app392.gerberlife.com CNAME .
 applibs.fglife.com CNAME .
 applicant.rbfcu.org CNAME .
@@ -489,6 +490,7 @@ dep.gambit3.gameassists.co.uk CNAME .
 dept.provantage.com CNAME .
 detect.clearme.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
+device-fingerprint.pay1.checkout.worldline-solutions.com CNAME .
 device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
 device.messa.org CNAME .
@@ -579,6 +581,7 @@ fpmobile.uplift-platform.com CNAME .
 fps.lascana.nl CNAME .
 fps.otto.nl CNAME .
 fpt.norton.com CNAME .
+fr.shopdisney.disney.co.jp CNAME .
 fss.glbank.com CNAME .
 fsta.leboncoin.info CNAME .
 ftd.quodxx.com.br CNAME .
@@ -588,6 +591,7 @@ geo.linq.gg CNAME .
 ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
 h.chase.co.uk CNAME .
+h.costco.com CNAME .
 h.greenmangaming.com CNAME .
 h.santanderconsumer.pl CNAME .
 h.threatmetrix.com CNAME .
@@ -721,6 +725,7 @@ matrix.cpg.org CNAME .
 mbrstat.mywoodmen.org CNAME .
 meiodepagamento.campanhaporto.com.br CNAME .
 membership-device.secured-igaming-services.com CNAME .
+meox.allianceonline.com.my CNAME .
 metrix.motosport.com CNAME .
 metrix.us.ovhcloud.com CNAME .
 mnt.sbisec.co.jp CNAME .

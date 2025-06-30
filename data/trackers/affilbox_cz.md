@@ -96,7 +96,6 @@
 | affil.vzdusin.cz | cz.affilbox.cz |
 | affil.webareal.cz | cz.affilbox.cz |
 | affil.webzisk.cz | cz.affilbox.cz |
-| affil.wellspace.cz | cz.affilbox.cz |
 | affil.xgdpr.cz | cz.affilbox.cz |
 | affil.zaslat.cz | cz.affilbox.cz |
 | affil.zdravetricko.cz | cz.affilbox.cz |
@@ -510,6 +509,7 @@
 | partner.cebia.cz | cz.affilbox.cz |
 | partner.ceskeghicko.cz | cz.affilbox.cz |
 | partner.cestakesnu.cz | cz.affilbox.cz |
+| partner.cestoma.cz | cz.affilbox.cz |
 | partner.chcivedet.com | cz.affilbox.cz |
 | partner.chevronnutrition.cz | cz.affilbox.cz |
 | partner.chiashake.cz | cz.affilbox.cz |
@@ -536,7 +536,6 @@
 | partner.denato.fr | cz.affilbox.cz |
 | partner.denato.it | cz.affilbox.cz |
 | partner.denishenry.cz | cz.affilbox.cz |
-| partner.designturnaj.cz | cz.affilbox.cz |
 | partner.detskyeshop.cz | cz.affilbox.cz |
 | partner.dfprsteny.cz | cz.affilbox.cz |
 | partner.directalpine.cz | cz.affilbox.cz |

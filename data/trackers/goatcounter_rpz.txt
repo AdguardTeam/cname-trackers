@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -69,6 +69,7 @@ goatcounter.gamecraft.it CNAME .
 goatcounter.irishbornchinese.com CNAME .
 goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
+goatcounter.thedave.photos CNAME .
 gtcntr.enamya.me CNAME .
 moo.geopogs.party CNAME .
 novi.webnovi.eu CNAME .

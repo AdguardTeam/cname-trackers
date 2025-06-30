@@ -235,6 +235,7 @@
 ||utiq.leckerschmecker.me^
 ||utiq.lecturas.com^
 ||utiq.lefigaro.fr^
+||utiq.leganerd.com^
 ||utiq.lejdc.fr^
 ||utiq.lejdc.fr.cdn.cloudflare.net^
 ||utiq.lejournaldelamaison.fr^
@@ -297,12 +298,14 @@
 ||utiq.netmums.com^
 ||utiq.news.bayern^
 ||utiq.news38.de^
+||utiq.newshub.co.uk^
 ||utiq.nextplz.fr^
 ||utiq.nicematin.com^
 ||utiq.nicematin.net^
 ||utiq.noovomoi.ca^
 ||utiq.nordlittoral.fr^
 ||utiq.nostalgie.fr^
+||utiq.notizie.it^
 ||utiq.nrj-play.fr^
 ||utiq.nrj.fr^
 ||utiq.nrpyrenees.fr^

@@ -140,6 +140,7 @@
     * teknoraver.goatcounter.com
     * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
+    * thedave-photos.goatcounter.com
     * timothechauvet.goatcounter.com
     * tinkerertools.goatcounter.com
     * tomatomtl.goatcounter.com
@@ -304,6 +305,7 @@
 | stats.matteocroce.it | teknoraver.goatcounter.com |
 | goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
+| goatcounter.thedave.photos | thedave-photos.goatcounter.com |
 | stats.timothechau.vet | timothechauvet.goatcounter.com |
 | stats.tinkerer.tools | tinkerertools.goatcounter.com |
 | analytics.tomatomtl.com | tomatomtl.goatcounter.com |

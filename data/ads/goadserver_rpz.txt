@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -127,6 +127,7 @@ service.goadnow.com CNAME .
 service.zingtraffic.com CNAME .
 smtp3.go-srv.com CNAME .
 ssp.adstors.com CNAME .
+ssp.nontonfilm.xyz CNAME .
 supply.hornylust.com CNAME .
 syndicate.adstors.com CNAME .
 track.trafficput.com CNAME .
@@ -152,3 +153,4 @@ userpanel.eroadvertising.com CNAME .
 www.bidvance.com CNAME .
 st.static-srv.com CNAME .
 www.go-srv.com CNAME .
+www.static-srv.com CNAME .

@@ -81,7 +81,9 @@
 ||sheeta.nrj-play.fr^
 ||st1.lg.avendrealouer.fr^
 ||stiwa.test.de^
+||strawberry.basf.ca^
 ||strawberry.basf.com^
+||strawberry.basf.us^
 ||tm.urssaf.fr^
 ||tm.urssaf.org^
 ||tse.telerama.fr^

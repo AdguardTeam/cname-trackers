@@ -118,6 +118,7 @@
   "service.zingtraffic.com": "go.goadserver.com",
   "smtp3.go-srv.com": "go.goadserver.com",
   "ssp.adstors.com": "go.goadserver.com",
+  "ssp.nontonfilm.xyz": "go.goadserver.com",
   "st.go-static.info": "static.goadserver.com",
   "st.static-srv.com": "data.goadserver.com",
   "static.delmovip.com": "static.goadserver.com",
@@ -137,6 +138,7 @@
   "www.bidvance.com": "up.goadserver.com",
   "www.go-srv.com": "www.goadserver.com",
   "www.go-static.info": "static.goadserver.com",
+  "www.static-srv.com": "www.goadserver.com",
   "www.tbllad.com": "go.goadserver.com",
   "www.tbllem.com": "go.goadserver.com",
   "zz.shat1.com": "go.goadserver.com"

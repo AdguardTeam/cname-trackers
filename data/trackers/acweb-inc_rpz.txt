@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 l.365blog.jp CNAME .
+l.5502710.com CNAME .
 l.amamin.jp CNAME .
 l.ashita-sanuki.jp CNAME .
 l.boo-log.com CNAME .

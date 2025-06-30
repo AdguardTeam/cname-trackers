@@ -42,6 +42,7 @@
     * h-2gkqfg5y.online-metrix.net
     * h-2gssvh01.online-metrix.net
     * h-2hr2ixbz.online-metrix.net
+    * h-2i27mb7r.online-metrix.net
     * h-2ic7z584.online-metrix.net
     * h-2lg00mry.online-metrix.net
     * h-2lrwrk15.online-metrix.net
@@ -140,6 +141,7 @@
     * h-7ih7ebik.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
+    * h-7ioidzao.online-metrix.net
     * h-7iw7j7aw.online-metrix.net
     * h-7lw52x9e.online-metrix.net
     * h-7npzzdc5.online-metrix.net
@@ -301,6 +303,7 @@
     * h-bt.online-metrix.net
     * h-btcmgcxc.online-metrix.net
     * h-budget-mobile.online-metrix.net
+    * h-bur3hlrb1.online-metrix.net
     * h-buyfun.online-metrix.net
     * h-bw1fkozp.online-metrix.net
     * h-bw1uup65.online-metrix.net
@@ -474,6 +477,7 @@
     * h-fortunejack.online-metrix.net
     * h-franklintempleton.online-metrix.net
     * h-freelancer1.online-metrix.net
+    * h-frshopdisney.online-metrix.net
     * h-fundingcircle-uk.online-metrix.net
     * h-fundingstream.online-metrix.net
     * h-gambling-malta.online-metrix.net
@@ -542,6 +546,7 @@
     * h-k8vif92e-pa.online-metrix.net
     * h-k8vif92e-pr.online-metrix.net
     * h-k8vif92e-si.online-metrix.net
+    * h-k8vif92e-worldline.online-metrix.net
     * h-k8vif92e.goto.online-metrix.net
     * h-k8vif92e.online-metrix.net
     * h-k8vif92e.qat.online-metrix.net
@@ -920,6 +925,7 @@
 | skw.eve.account.sony.com | h-2gkqfg5y.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | img4.cargurus.com | h-2hr2ixbz.online-metrix.net |
+| meox.allianceonline.com.my | h-2i27mb7r.online-metrix.net |
 | tm.sunbit.com | h-2ic7z584.online-metrix.net |
 | ln.jackpotgo.club | h-2lg00mry.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
@@ -1071,6 +1077,7 @@
 | content.rubyfortunecasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.spincasino.ca | h-7ij9mii1-a.online-metrix.net |
 | de9c635aa0404558bd527220ef4e6b4b.betway.ca | h-7ij9mii1.online-metrix.net |
+| h.costco.com | h-7ioidzao.online-metrix.net |
 | img2.adelantos.com.ar | h-7iw7j7aw.online-metrix.net |
 | af.mobile.free.fr | h-7lw52x9e.online-metrix.net |
 | dol-reemployme-js01.maine.gov | h-7npzzdc5.online-metrix.net |
@@ -1380,6 +1387,7 @@
 | cdn1.thm.panoramainvestor.com.au | h-bt.online-metrix.net |
 | tags.s-dati.com | h-btcmgcxc.online-metrix.net |
 | dfp.s-budget-mobile.at | h-budget-mobile.online-metrix.net |
+| app01.cnt.uat.bdo.com.ph | h-bur3hlrb1.online-metrix.net |
 | securecheckout.halloweencostumes.com | h-buyfun.online-metrix.net |
 | tmxjs.tokyodisneyresort.jp | h-bw1fkozp.online-metrix.net |
 | content-48.cnb.com | h-bw1uup65.online-metrix.net |
@@ -1626,6 +1634,7 @@
 | pages.fiduciarytrust.com | h-franklintempleton.online-metrix.net |
 | pages.franklintempleton.com | h-franklintempleton.online-metrix.net |
 | cdn1.f-cdn.com | h-freelancer1.online-metrix.net |
+| fr.shopdisney.disney.co.jp | h-frshopdisney.online-metrix.net |
 | content-uk.fundingcircle.com | h-fundingcircle-uk.online-metrix.net |
 | ww3.fundingstream.com | h-fundingstream.online-metrix.net |
 | ww3.marlincapitalsolutions.com | h-fundingstream.online-metrix.net |
@@ -1751,6 +1760,7 @@
 | verify.philippineairlines.com | h-k8vif92e-pa.online-metrix.net |
 | cdncy.providentmetals.com | h-k8vif92e-pr.online-metrix.net |
 | cdncy.silver.com | h-k8vif92e-si.online-metrix.net |
+| device-fingerprint.pay1.checkout.worldline-solutions.com | h-k8vif92e-worldline.online-metrix.net |
 | cdn-east.purchase.goto.com | h-k8vif92e.goto.online-metrix.net |
 | cybersource.shoplineapp.com | h-k8vif92e.online-metrix.net |
 | qrimages.qatarairways.com | h-k8vif92e.qat.online-metrix.net |

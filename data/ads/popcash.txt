@@ -150,6 +150,7 @@
 ||7wrxo2xh.iriscreative.co^
 ||8inhjmd.usefathom.com^
 ||9kz9cttz76.antonsten.com^
+||aardvark.considerable.cx^
 ||aardvark.mission-austria.at^
 ||aardvark.revolana.rs^
 ||aardvark.steadybit.com^
@@ -349,7 +350,6 @@
 ||chinchilla.68keys.io^
 ||chipmunk.sqltoapi.com^
 ||cicada.wordvested.org^
-||clam.figmachina.com^
 ||clam.mglaman.dev^
 ||clownfish.onvard.de^
 ||clownfish.philipkiely.com^
@@ -523,7 +523,6 @@
 ||guppy.ausowned.com.au^
 ||guppy.ironmic.fm^
 ||guppy.omana.me^
-||haddock.affilimate.com^
 ||haddock.jeffreyknox.dev^
 ||haddock.simgenie.app^
 ||halibut.codehooks.io^
@@ -704,7 +703,6 @@
 ||mole.energizer.eu^
 ||mole.getfamealy.com^
 ||mole.gostartupco.com^
-||mole.vcntlee.com^
 ||mollusk.forwardmx.io^
 ||mollusk.working.actor^
 ||mongoose.cse-algolia.fr^
@@ -781,6 +779,7 @@
 ||parrot.lovably.com^
 ||parrotfish.thenping.me^
 ||parrotfish.wilderworld.com^
+||peafowl.prod.fyi^
 ||peafowl.projectstrackt.dev^
 ||penguin.craftpeak.io^
 ||penguin.mobiadroit.com^
@@ -975,7 +974,6 @@
 ||tahr.componentsui.com^
 ||tahr.happydev.fm^
 ||tahr.rasen.dev^
-||takin.bottlebeagle.com^
 ||takin.cors.digital^
 ||takin.revolana.fr^
 ||tapir.albertaguardtraining.ca^
@@ -1162,10 +1160,13 @@
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^
+||kivr8.wd6vy.com^
 ||live-tag.creatopy.net^
 ||log.ads-m.net^
 ||matomo-cdn-bunny.ramsalt.com^
+||mp2y3.sm20j.xyz^
 ||msrvt.net^
+||ompe2.7u6h8.xyz^
 ||sp.freshlooklens.pk^
 ||sp.lenspk.com^
 ||sp.theladyshop.pk^
@@ -1174,5 +1175,6 @@
 ||ss.nwemnd.com^
 ||ss.nwmnd.com^
 ||thirty-good.lugg.com^
+||tltcxs.awohkn.com^
 ||video.adsninja.ca^
 ||www.cdnboostcache.com^

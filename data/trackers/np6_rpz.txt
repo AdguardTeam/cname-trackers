@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -768,7 +768,6 @@ tr.news.bruneau.fr CNAME .
 tr.news.btob-pro.nl CNAME .
 tr.news.business-deal.co.uk CNAME .
 tr.news.c-media.fr CNAME .
-tr.news.cad-magazine.com CNAME .
 tr.news.capfun.com CNAME .
 tr.news.carrefourspectacles.fr CNAME .
 tr.news.casino.fr CNAME .
@@ -863,7 +862,6 @@ tr.news.linxea.com CNAME .
 tr.news.lisez.com CNAME .
 tr.news.lokapimail.com CNAME .
 tr.news.maisons-du-monde.com CNAME .
-tr.news.manufacturing.fr CNAME .
 tr.news.manutan-collectivites.fr CNAME .
 tr.news.mdbp.fr CNAME .
 tr.news.mediametrie.fr CNAME .

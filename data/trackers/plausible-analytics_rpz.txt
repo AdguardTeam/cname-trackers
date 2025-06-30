@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -65,9 +65,6 @@ apis.4bn.xyz CNAME .
 app-stats.supernotes.app CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
 assets.garron.blog CNAME .
-assets.mikeroulston.com CNAME .
-assets.modeathletics.com CNAME .
-assets.modehypertext.com CNAME .
 aux.lansator.ro CNAME .
 badwolf.open-election-compass.com CNAME .
 besucher.nona.de CNAME .
@@ -78,7 +75,6 @@ channelwatcher.panda.tech CNAME .
 cheese.guac.live CNAME .
 churro.noteapps.info CNAME .
 collect.realignedtechnologies.com CNAME .
-count.gothaer-digital.de CNAME .
 counter.cropvid.com CNAME .
 counter.proxycrawl.com CNAME .
 counter.subtitlebee.com CNAME .

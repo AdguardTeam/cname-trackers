@@ -41,7 +41,6 @@ a8.big-hikari.com
 a8.biglobe.openplat.jp
 a8.biz.ne.jp
 a8.biziphone.com
-a8.bobby-jp.com
 a8.boco.co.jp
 a8.bon-quish.jp
 a8.bousui-pro.com
@@ -61,7 +60,6 @@ a8.cbdfx.jp
 a8.cbiz.io
 a8.centarc.com
 a8.chat-lady.jp
-a8.chiyo-moni.com
 a8.choole.jp
 a8.choomia.com
 a8.chuo-estate.net
@@ -240,6 +238,7 @@ a8.olightstore.jp
 a8.onamae.com
 a8.onecoinenglish.com
 a8.ones-ones.jp
+a8.online-yomikakisoroban.com
 a8.otoku-line.jp
 a8.otonayaki.com
 a8.outline-gym.com
@@ -691,7 +690,6 @@ a8clk.stst-used.com
 a8clk.stylestore.jp
 a8clk.suguchoku.jp
 a8clk.sumafuri.jp
-a8clk.support-hoiku.com
 a8clk.supreme-noi.jp
 a8clk.sure-i.co.jp
 a8clk.sweethomefloripa.com
@@ -1110,6 +1108,7 @@ a8cv.mitaina.tokyo
 a8cv.moana.clinic
 a8cv.mobabiji.jp
 a8cv.modern-deco.jp
+a8cv.moderno-zing.com
 a8cv.modescape.com
 a8cv.mogecheck.jp
 a8cv.momiji-tantei.com
@@ -1485,7 +1484,6 @@ ahachi.dreamdenki.jp
 analytics.villagehouse.jp
 approach.wise1-golf.com
 asp.glasspp119.jp
-asp.taishokunext.com
 aspa8.ozmall.co.jp
 car-a8.tabirai.net
 check.looser.jp

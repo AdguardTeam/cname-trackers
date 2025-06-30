@@ -86,6 +86,7 @@ app.saldodipje.nl
 app.uob.co.th
 app.uob.com.my
 app.uob.com.sg
+app01.cnt.uat.bdo.com.ph
 app392.gerberlife.com
 applibs.fglife.com
 applicant.rbfcu.org
@@ -478,6 +479,7 @@ dep.gambit3.gameassists.co.uk
 dept.provantage.com
 detect.clearme.com
 dev-rmscheck.sbifxt.co.jp
+device-fingerprint.pay1.checkout.worldline-solutions.com
 device-profile.jeniusbank.com
 device.invoice2go.com
 device.messa.org
@@ -568,6 +570,7 @@ fpmobile.uplift-platform.com
 fps.lascana.nl
 fps.otto.nl
 fpt.norton.com
+fr.shopdisney.disney.co.jp
 fss.glbank.com
 fsta.leboncoin.info
 ftd.quodxx.com.br
@@ -577,6 +580,7 @@ geo.linq.gg
 ghisa.subito.it
 go.citizensaccess.com
 h.chase.co.uk
+h.costco.com
 h.greenmangaming.com
 h.santanderconsumer.pl
 h.threatmetrix.com
@@ -710,6 +714,7 @@ matrix.cpg.org
 mbrstat.mywoodmen.org
 meiodepagamento.campanhaporto.com.br
 membership-device.secured-igaming-services.com
+meox.allianceonline.com.my
 metrix.motosport.com
 metrix.us.ovhcloud.com
 mnt.sbisec.co.jp

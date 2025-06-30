@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -161,6 +161,7 @@ cdn.zxclan.com CNAME .
 7wrxo2xh.iriscreative.co CNAME .
 8inhjmd.usefathom.com CNAME .
 9kz9cttz76.antonsten.com CNAME .
+aardvark.considerable.cx CNAME .
 aardvark.mission-austria.at CNAME .
 aardvark.revolana.rs CNAME .
 aardvark.steadybit.com CNAME .
@@ -360,7 +361,6 @@ chimpanzee.thestoryengine.co.uk CNAME .
 chinchilla.68keys.io CNAME .
 chipmunk.sqltoapi.com CNAME .
 cicada.wordvested.org CNAME .
-clam.figmachina.com CNAME .
 clam.mglaman.dev CNAME .
 clownfish.onvard.de CNAME .
 clownfish.philipkiely.com CNAME .
@@ -534,7 +534,6 @@ gull.mayansmithgobat.com CNAME .
 guppy.ausowned.com.au CNAME .
 guppy.ironmic.fm CNAME .
 guppy.omana.me CNAME .
-haddock.affilimate.com CNAME .
 haddock.jeffreyknox.dev CNAME .
 haddock.simgenie.app CNAME .
 halibut.codehooks.io CNAME .
@@ -715,7 +714,6 @@ mole.dansksejlunion.dk CNAME .
 mole.energizer.eu CNAME .
 mole.getfamealy.com CNAME .
 mole.gostartupco.com CNAME .
-mole.vcntlee.com CNAME .
 mollusk.forwardmx.io CNAME .
 mollusk.working.actor CNAME .
 mongoose.cse-algolia.fr CNAME .
@@ -792,6 +790,7 @@ parrot.alookwithin.ca CNAME .
 parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
+peafowl.prod.fyi CNAME .
 peafowl.projectstrackt.dev CNAME .
 penguin.craftpeak.io CNAME .
 penguin.mobiadroit.com CNAME .
@@ -986,7 +985,6 @@ t0ikowg7jg.serverlesslaravelcourse.com CNAME .
 tahr.componentsui.com CNAME .
 tahr.happydev.fm CNAME .
 tahr.rasen.dev CNAME .
-takin.bottlebeagle.com CNAME .
 takin.cors.digital CNAME .
 takin.revolana.fr CNAME .
 tapir.albertaguardtraining.ca CNAME .
@@ -1173,10 +1171,13 @@ cdn.shrtfly.vip CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .
+kivr8.wd6vy.com CNAME .
 live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
 matomo-cdn-bunny.ramsalt.com CNAME .
+mp2y3.sm20j.xyz CNAME .
 msrvt.net CNAME .
+ompe2.7u6h8.xyz CNAME .
 sp.freshlooklens.pk CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .
@@ -1185,5 +1186,6 @@ ss.mrmnd.com CNAME .
 ss.nwemnd.com CNAME .
 ss.nwmnd.com CNAME .
 thirty-good.lugg.com CNAME .
+tltcxs.awohkn.com CNAME .
 video.adsninja.ca CNAME .
 www.cdnboostcache.com CNAME .

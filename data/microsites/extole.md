@@ -220,7 +220,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -288,7 +287,6 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
-    * forgetrust.em.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
@@ -476,6 +474,7 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
+    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -528,6 +527,7 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -547,7 +547,6 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
-    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -765,7 +764,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -865,7 +863,6 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
-| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
@@ -1052,6 +1049,7 @@
 | refer.lenscrafters.com | lenscrafters.extole.io |
 | share.levi.com | levi.extole.io |
 | share.s1.levi-site.com | levi.extole.io |
+| share.s3.levi-site.com | levi.extole.io |
 | share.s4.levi-site.com | levi.extole.io |
 | referral.lgeccu.org | lgeccu.extole.io |
 | share.lifedna.com | lifedna.extole.io |
@@ -1200,6 +1198,7 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
+| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1268,6 +1267,7 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1296,7 +1296,6 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
-| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |

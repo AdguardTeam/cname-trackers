@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -92,7 +92,9 @@ rsc.lepoint.fr CNAME .
 sheeta.nrj-play.fr CNAME .
 st1.lg.avendrealouer.fr CNAME .
 stiwa.test.de CNAME .
+strawberry.basf.ca CNAME .
 strawberry.basf.com CNAME .
+strawberry.basf.us CNAME .
 tm.urssaf.fr CNAME .
 tm.urssaf.org CNAME .
 tse.telerama.fr CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,7 +52,6 @@ a8.big-hikari.com CNAME .
 a8.biglobe.openplat.jp CNAME .
 a8.biz.ne.jp CNAME .
 a8.biziphone.com CNAME .
-a8.bobby-jp.com CNAME .
 a8.boco.co.jp CNAME .
 a8.bon-quish.jp CNAME .
 a8.bousui-pro.com CNAME .
@@ -72,7 +71,6 @@ a8.cbdfx.jp CNAME .
 a8.cbiz.io CNAME .
 a8.centarc.com CNAME .
 a8.chat-lady.jp CNAME .
-a8.chiyo-moni.com CNAME .
 a8.choole.jp CNAME .
 a8.choomia.com CNAME .
 a8.chuo-estate.net CNAME .
@@ -251,6 +249,7 @@ a8.olightstore.jp CNAME .
 a8.onamae.com CNAME .
 a8.onecoinenglish.com CNAME .
 a8.ones-ones.jp CNAME .
+a8.online-yomikakisoroban.com CNAME .
 a8.otoku-line.jp CNAME .
 a8.otonayaki.com CNAME .
 a8.outline-gym.com CNAME .
@@ -702,7 +701,6 @@ a8clk.stst-used.com CNAME .
 a8clk.stylestore.jp CNAME .
 a8clk.suguchoku.jp CNAME .
 a8clk.sumafuri.jp CNAME .
-a8clk.support-hoiku.com CNAME .
 a8clk.supreme-noi.jp CNAME .
 a8clk.sure-i.co.jp CNAME .
 a8clk.sweethomefloripa.com CNAME .
@@ -1121,6 +1119,7 @@ a8cv.mitaina.tokyo CNAME .
 a8cv.moana.clinic CNAME .
 a8cv.mobabiji.jp CNAME .
 a8cv.modern-deco.jp CNAME .
+a8cv.moderno-zing.com CNAME .
 a8cv.modescape.com CNAME .
 a8cv.mogecheck.jp CNAME .
 a8cv.momiji-tantei.com CNAME .
@@ -1496,7 +1495,6 @@ ahachi.dreamdenki.jp CNAME .
 analytics.villagehouse.jp CNAME .
 approach.wise1-golf.com CNAME .
 asp.glasspp119.jp CNAME .
-asp.taishokunext.com CNAME .
 aspa8.ozmall.co.jp CNAME .
 car-a8.tabirai.net CNAME .
 check.looser.jp CNAME .

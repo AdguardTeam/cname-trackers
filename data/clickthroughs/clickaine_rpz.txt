@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,7 +41,6 @@ c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
 c4n.natali9.online CNAME .
 c4n.shudhdesiporn.com CNAME .
-c4n.surfotresors.com CNAME .
 c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.xxx8.me CNAME .

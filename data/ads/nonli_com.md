@@ -155,6 +155,7 @@
 | l.humanite.fr | tls.non.li |
 | l.ici.fr | tls.non.li |
 | l.ideat.fr | tls.non.li |
+| l.intelekto.fr | tls.non.li |
 | l.intelligenceonline.com | tls.non.li |
 | l.intelligenceonline.fr | tls.non.li |
 | l.jeuneafrique.com | tls.non.li |
@@ -187,6 +188,7 @@
 | l.lest-eclair.fr | tls.non.li |
 | l.letemps.ch | tls.non.li |
 | l.lexpress.fr | tls.non.li |
+| l.lhebdoduvendredi.com | tls.non.li |
 | l.liberation-champagne.fr | tls.non.li |
 | l.lindependant.fr | tls.non.li |
 | l.lunion.fr | tls.non.li |
@@ -269,4 +271,5 @@
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |
 | www.h24.news | tls.non.li |
+| www.moarty.com | tls.non.li |
 | zmail.h24.news | tls.non.li |

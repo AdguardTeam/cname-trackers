@@ -38,7 +38,6 @@
 | c4n.myteentgp.com | api.clickaine.com |
 | c4n.natali9.online | api.clickaine.com |
 | c4n.shudhdesiporn.com | api.clickaine.com |
-| c4n.surfotresors.com | api.clickaine.com |
 | c4n.swift4claim.com | api.clickaine.com |
 | c4n.thefreejapaneseporn.com | api.clickaine.com |
 | c4n.xxx8.me | api.clickaine.com |

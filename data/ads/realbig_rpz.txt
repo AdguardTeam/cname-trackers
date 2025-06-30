@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ a.ridd.ru CNAME .
 a.vanvok.ru CNAME .
 ads.wattpadru.ru CNAME .
 adsrealpublic.ru CNAME .
+adsrealpublicpush.ru CNAME .
 any.realbig.media CNAME .
 autorekrb.bid CNAME .
 b1.rbighouse.ru CNAME .
@@ -26,6 +27,7 @@ b10.rbighouse.ru CNAME .
 b11.rbighouse.ru CNAME .
 b3.rbighouse.ru CNAME .
 b5.rbighouse.ru CNAME .
+b6.rbighouse.ru CNAME .
 bo.zymorico.store CNAME .
 cdn.zamunda.ru CNAME .
 da.zilovaro.ru CNAME .
@@ -39,6 +41,7 @@ he.zymorico.ru CNAME .
 liveislive.bid CNAME .
 media.olmiweb.com CNAME .
 media.rabbit.click CNAME .
+mondaysale.bid CNAME .
 mu.zilovaro.store CNAME .
 my.rbpsh.ru CNAME .
 newrotatormarch23.bid CNAME .
@@ -90,6 +93,7 @@ www.horpush.ru CNAME .
 www.infocentro.ru CNAME .
 www.pc-download.ru CNAME .
 www.pushrb.pro CNAME .
+www.qatro.ru CNAME .
 www.raelb2.ru CNAME .
 www.rbdomain.ru CNAME .
 www.rbmcnf.pro CNAME .

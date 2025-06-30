@@ -66,9 +66,6 @@
 | app-stats.supernotes.app | custom.plausible.io |
 | artistchristinacarmel.ericksonbuilt.com | custom.plausible.io |
 | assets.garron.blog | custom.plausible.io |
-| assets.mikeroulston.com | custom.plausible.io |
-| assets.modeathletics.com | custom.plausible.io |
-| assets.modehypertext.com | custom.plausible.io |
 | aux.lansator.ro | custom.plausible.io |
 | badwolf.open-election-compass.com | custom.plausible.io |
 | besucher.nona.de | custom.plausible.io |
@@ -79,7 +76,6 @@
 | cheese.guac.live | custom.plausible.io |
 | churro.noteapps.info | custom.plausible.io |
 | collect.realignedtechnologies.com | custom.plausible.io |
-| count.gothaer-digital.de | custom.plausible.io |
 | counter.cropvid.com | custom.plausible.io |
 | counter.proxycrawl.com | custom.plausible.io |
 | counter.subtitlebee.com | custom.plausible.io |

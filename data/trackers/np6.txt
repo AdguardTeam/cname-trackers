@@ -757,7 +757,6 @@
 ||tr.news.btob-pro.nl^
 ||tr.news.business-deal.co.uk^
 ||tr.news.c-media.fr^
-||tr.news.cad-magazine.com^
 ||tr.news.capfun.com^
 ||tr.news.carrefourspectacles.fr^
 ||tr.news.casino.fr^
@@ -852,7 +851,6 @@
 ||tr.news.lisez.com^
 ||tr.news.lokapimail.com^
 ||tr.news.maisons-du-monde.com^
-||tr.news.manufacturing.fr^
 ||tr.news.manutan-collectivites.fr^
 ||tr.news.mdbp.fr^
 ||tr.news.mediametrie.fr^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -126,6 +126,7 @@ adebis.toushi-up.com CNAME .
 adebis.toushiman.com CNAME .
 adebis.tspot.co.jp CNAME .
 adebis.urban-research.jp CNAME .
+adebis.yourbread.jp CNAME .
 adebis.yourmeal.jp CNAME .
 adebis.zenyaku-hbshop.com CNAME .
 adebis01.job-con.jp CNAME .
@@ -354,4 +355,3 @@ www-ebis.384.co.jp CNAME .
 www-ebis.surpasslog.com CNAME .
 www2.hnavi.co.jp CNAME .
 y8hxgv9m.kobetsu.co.jp CNAME .
-z89yxner8h.datsumou-beauty-times.com CNAME .

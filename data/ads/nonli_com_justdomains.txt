@@ -108,6 +108,7 @@ l.heidi.news
 l.humanite.fr
 l.ici.fr
 l.ideat.fr
+l.intelekto.fr
 l.intelligenceonline.com
 l.intelligenceonline.fr
 l.jeuneafrique.com
@@ -145,6 +146,7 @@ l.lesnumeriques.com
 l.lest-eclair.fr
 l.letemps.ch
 l.lexpress.fr
+l.lhebdoduvendredi.com
 l.liberation-champagne.fr
 l.lindependant.fr
 l.lunion.fr
@@ -243,4 +245,5 @@ sur.laprovence.com
 www.20min.fr
 www.altereco.media
 www.h24.news
+www.moarty.com
 zmail.h24.news

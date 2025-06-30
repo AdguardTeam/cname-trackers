@@ -116,6 +116,7 @@
 ||service.zingtraffic.com^
 ||smtp3.go-srv.com^
 ||ssp.adstors.com^
+||ssp.nontonfilm.xyz^
 ||supply.hornylust.com^
 ||syndicate.adstors.com^
 ||track.trafficput.com^
@@ -141,3 +142,4 @@
 ||www.bidvance.com^
 ||st.static-srv.com^
 ||www.go-srv.com^
+||www.static-srv.com^

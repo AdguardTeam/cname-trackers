@@ -8,6 +8,7 @@
 ||a.vanvok.ru^
 ||ads.wattpadru.ru^
 ||adsrealpublic.ru^
+||adsrealpublicpush.ru^
 ||any.realbig.media^
 ||autorekrb.bid^
 ||b1.rbighouse.ru^
@@ -15,6 +16,7 @@
 ||b11.rbighouse.ru^
 ||b3.rbighouse.ru^
 ||b5.rbighouse.ru^
+||b6.rbighouse.ru^
 ||bo.zymorico.store^
 ||cdn.zamunda.ru^
 ||da.zilovaro.ru^
@@ -28,6 +30,7 @@
 ||liveislive.bid^
 ||media.olmiweb.com^
 ||media.rabbit.click^
+||mondaysale.bid^
 ||mu.zilovaro.store^
 ||my.rbpsh.ru^
 ||newrotatormarch23.bid^
@@ -79,6 +82,7 @@
 ||www.infocentro.ru^
 ||www.pc-download.ru^
 ||www.pushrb.pro^
+||www.qatro.ru^
 ||www.raelb2.ru^
 ||www.rbdomain.ru^
 ||www.rbmcnf.pro^

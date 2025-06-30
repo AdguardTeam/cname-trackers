@@ -58,6 +58,7 @@
 ||goatcounter.irishbornchinese.com^
 ||goatcounter.thedave.dev^
 ||goatcounter.thedave.me^
+||goatcounter.thedave.photos^
 ||gtcntr.enamya.me^
 ||moo.geopogs.party^
 ||novi.webnovi.eu^

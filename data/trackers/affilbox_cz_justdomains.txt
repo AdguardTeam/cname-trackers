@@ -75,7 +75,6 @@ affil.upcr.cz
 affil.vzdusin.cz
 affil.webareal.cz
 affil.webzisk.cz
-affil.wellspace.cz
 affil.xgdpr.cz
 affil.zaslat.cz
 affil.zdravetricko.cz
@@ -489,6 +488,7 @@ partner.cebia.com
 partner.cebia.cz
 partner.ceskeghicko.cz
 partner.cestakesnu.cz
+partner.cestoma.cz
 partner.chcivedet.com
 partner.chevronnutrition.cz
 partner.chiashake.cz
@@ -515,7 +515,6 @@ partner.denato.cz
 partner.denato.fr
 partner.denato.it
 partner.denishenry.cz
-partner.designturnaj.cz
 partner.detskyeshop.cz
 partner.dfprsteny.cz
 partner.directalpine.cz

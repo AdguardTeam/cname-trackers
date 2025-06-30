@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -119,6 +119,7 @@ l.heidi.news CNAME .
 l.humanite.fr CNAME .
 l.ici.fr CNAME .
 l.ideat.fr CNAME .
+l.intelekto.fr CNAME .
 l.intelligenceonline.com CNAME .
 l.intelligenceonline.fr CNAME .
 l.jeuneafrique.com CNAME .
@@ -156,6 +157,7 @@ l.lesnumeriques.com CNAME .
 l.lest-eclair.fr CNAME .
 l.letemps.ch CNAME .
 l.lexpress.fr CNAME .
+l.lhebdoduvendredi.com CNAME .
 l.liberation-champagne.fr CNAME .
 l.lindependant.fr CNAME .
 l.lunion.fr CNAME .
@@ -254,4 +256,5 @@ sur.laprovence.com CNAME .
 www.20min.fr CNAME .
 www.altereco.media CNAME .
 www.h24.news CNAME .
+www.moarty.com CNAME .
 zmail.h24.news CNAME .

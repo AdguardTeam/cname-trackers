@@ -55,7 +55,6 @@
 | a8.biglobe.openplat.jp | trck.a8.net |
 | a8.biz.ne.jp | trck.a8.net |
 | a8.biziphone.com | trck.a8.net |
-| a8.bobby-jp.com | trck.a8.net |
 | a8.boco.co.jp | trck.a8.net |
 | a8.bon-quish.jp | trck.a8.net |
 | a8.bousui-pro.com | trck.a8.net |
@@ -75,7 +74,6 @@
 | a8.cbiz.io | trck.a8.net |
 | a8.centarc.com | trck.a8.net |
 | a8.chat-lady.jp | trck.a8.net |
-| a8.chiyo-moni.com | trck.a8.net |
 | a8.choole.jp | trck.a8.net |
 | a8.choomia.com | trck.a8.net |
 | a8.chuo-estate.net | trck.a8.net |
@@ -254,6 +252,7 @@
 | a8.onamae.com | trck.a8.net |
 | a8.onecoinenglish.com | trck.a8.net |
 | a8.ones-ones.jp | trck.a8.net |
+| a8.online-yomikakisoroban.com | trck.a8.net |
 | a8.otoku-line.jp | trck.a8.net |
 | a8.otonayaki.com | trck.a8.net |
 | a8.outline-gym.com | trck.a8.net |
@@ -705,7 +704,6 @@
 | a8clk.stylestore.jp | trck.a8.net |
 | a8clk.suguchoku.jp | trck.a8.net |
 | a8clk.sumafuri.jp | trck.a8.net |
-| a8clk.support-hoiku.com | trck.a8.net |
 | a8clk.supreme-noi.jp | trck.a8.net |
 | a8clk.sure-i.co.jp | trck.a8.net |
 | a8clk.sweethomefloripa.com | trck.a8.net |
@@ -1123,6 +1121,7 @@
 | a8cv.moana.clinic | trck.a8.net |
 | a8cv.mobabiji.jp | trck.a8.net |
 | a8cv.modern-deco.jp | trck.a8.net |
+| a8cv.moderno-zing.com | trck.a8.net |
 | a8cv.modescape.com | trck.a8.net |
 | a8cv.mogecheck.jp | trck.a8.net |
 | a8cv.momiji-tantei.com | trck.a8.net |
@@ -1498,7 +1497,6 @@
 | analytics.villagehouse.jp | trck.a8.net |
 | approach.wise1-golf.com | trck.a8.net |
 | asp.glasspp119.jp | trck.a8.net |
-| asp.taishokunext.com | trck.a8.net |
 | aspa8.ozmall.co.jp | trck.a8.net |
 | car-a8.tabirai.net | trck.a8.net |
 | check.looser.jp | trck.a8.net |

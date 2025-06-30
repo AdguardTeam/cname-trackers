@@ -223,7 +223,6 @@ trk.nuernberger.com
 trk.nuernberger.de
 trk.nuernberger.digital
 w.ilfattoquotidiano.it
-w.m.nkl-peters.de
 w3.aktionaersbank.de
 w7.berlin.de
 wa.planet-wissen.de
@@ -288,6 +287,7 @@ web.email.superga.co.uk
 web.email.topfarmacia.it
 web.email.turtlebay.co.uk
 web.email.umbro.co.uk
+web.enews.greatlittlebreaks.com
 web.enews.lenotre.fr
 web.engagetest.swaindestinations.com
 web.hello.petspyjamas.com
@@ -296,6 +296,7 @@ web.info.bodybuildingwarehouse.co.uk
 web.info.bodybuildingwarehouse.com
 web.info.bonprix.es
 web.info.bonprix.fi
+web.info.paginegialle.it
 web.info.teamwarrior.com
 web.info.vantastic-foods.com
 web.info.varelotteriet.dk

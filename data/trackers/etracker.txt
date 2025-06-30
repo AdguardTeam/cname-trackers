@@ -231,6 +231,7 @@
 ||wurst.hausschlachtebedarf.de^
 ||wurst.leffis.de^
 ||www2.faxverteiler.com^
+||www3.faxsuite.de^
 ||yogi.snuffland.de^
 ||esub.akkusys.de^
 ||et.juskys.de^

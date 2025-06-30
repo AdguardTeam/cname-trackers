@@ -54,9 +54,6 @@
 ||app-stats.supernotes.app^
 ||artistchristinacarmel.ericksonbuilt.com^
 ||assets.garron.blog^
-||assets.mikeroulston.com^
-||assets.modeathletics.com^
-||assets.modehypertext.com^
 ||aux.lansator.ro^
 ||badwolf.open-election-compass.com^
 ||besucher.nona.de^
@@ -67,7 +64,6 @@
 ||cheese.guac.live^
 ||churro.noteapps.info^
 ||collect.realignedtechnologies.com^
-||count.gothaer-digital.de^
 ||counter.cropvid.com^
 ||counter.proxycrawl.com^
 ||counter.subtitlebee.com^

@@ -22,5 +22,6 @@ serving.profitsence.com
 serving.srmg.com
 serving.thebeglobal.com
 serving.viewtraff.com
+serving.webtradingspot.com
 stream.kolorowey.com
 vidops.zeeker.com

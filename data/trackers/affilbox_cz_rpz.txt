@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1750665609635        ; Serial
+           1751270412702        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,7 +86,6 @@ affil.upcr.cz CNAME .
 affil.vzdusin.cz CNAME .
 affil.webareal.cz CNAME .
 affil.webzisk.cz CNAME .
-affil.wellspace.cz CNAME .
 affil.xgdpr.cz CNAME .
 affil.zaslat.cz CNAME .
 affil.zdravetricko.cz CNAME .
@@ -500,6 +499,7 @@ partner.cebia.com CNAME .
 partner.cebia.cz CNAME .
 partner.ceskeghicko.cz CNAME .
 partner.cestakesnu.cz CNAME .
+partner.cestoma.cz CNAME .
 partner.chcivedet.com CNAME .
 partner.chevronnutrition.cz CNAME .
 partner.chiashake.cz CNAME .
@@ -526,7 +526,6 @@ partner.denato.cz CNAME .
 partner.denato.fr CNAME .
 partner.denato.it CNAME .
 partner.denishenry.cz CNAME .
-partner.designturnaj.cz CNAME .
 partner.detskyeshop.cz CNAME .
 partner.dfprsteny.cz CNAME .
 partner.directalpine.cz CNAME .

@@ -331,6 +331,7 @@
 | addurance-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
+| adserver.rtvdrenthe.nl | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
 | adztech-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | brandmovers-delivery.reviveservers.com | platformiq-del.aquaplatform.com |

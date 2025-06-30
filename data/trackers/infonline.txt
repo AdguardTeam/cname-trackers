@@ -310,6 +310,7 @@
 ||data-1fbcf6d7f5.mhsdigital.de^
 ||data-1fbcf6d7f5.np-coburg.de^
 ||data-1fbcf6d7f5.schwarzwaelder-bote.de^
+||data-1fbcf6d7f5.schwarzwald-flirt.de^
 ||data-1fbcf6d7f5.stuttgart-gedenkt.de^
 ||data-1fbcf6d7f5.stuttgarter-nachrichten.de^
 ||data-1fbcf6d7f5.stuttgarter-zeitung.de^
@@ -366,7 +367,6 @@
 ||data-2bfd5a7f39.baby-und-familie.de^
 ||data-2bfd5a7f39.digital-ratgeber.de^
 ||data-2bfd5a7f39.senioren-ratgeber.de^
-||data-2bfd5a7f39.skystream.tv^
 ||data-2ccf0ea3cc.esquire.de^
 ||data-2cee0cb9fa.apps.iocnt.de^
 ||data-2cfc77297e.pnn.de^
@@ -504,7 +504,6 @@
 ||data-407c1ec0f8.diabetes-ratgeber.net^
 ||data-407c1ec0f8.digital-ratgeber.de^
 ||data-407c1ec0f8.senioren-ratgeber.de^
-||data-407c1ec0f8.skystream.tv^
 ||data-407c1ec0f8.wubv.de^
 ||data-40a1d254c9.familie.de^
 ||data-40a4482297.bundesbaublatt.de^
@@ -598,6 +597,7 @@
 ||data-47ee1b0882.kino-oelde.de^
 ||data-47ee1b0882.kino-offingen.de^
 ||data-47ee1b0882.kino-ottobrunn.de^
+||data-47ee1b0882.kino-treuchtlingen.de^
 ||data-47ee1b0882.kino-ueberlingen.de^
 ||data-47ee1b0882.kino-wemding.de^
 ||data-47ee1b0882.kino-wolfhagen.de^
@@ -651,6 +651,7 @@
 ||data-497ecca600.fupa.net^
 ||data-497ecca600.ga-story.de^
 ||data-497ecca600.ga.de^
+||data-497ecca600.kamelle.de^
 ||data-497ecca600.moneyspecial.de^
 ||data-497ecca600.news-trier.de^
 ||data-497ecca600.rp-online-dating.de^
@@ -899,6 +900,7 @@
 ||data-63224ea7ba.apps.iocnt.de^
 ||data-6345746ba5.nwz-glueckwunsch.de^
 ||data-6345746ba5.nwzonline.de^
+||data-6357c1903a.k-aktuell.de^
 ||data-6357c1903a.kunststoffweb.de^
 ||data-6357c1903a.plasteurope.com^
 ||data-63659a24a7.apps.iocnt.de^
@@ -1373,6 +1375,7 @@
 ||data-9fc27eb430.cineplex.de^
 ||data-9fc27eb430.slmedien.de^
 ||data-9fcd0b641d.falstaff.com^
+||data-9fcd0b641d.falstaff.de^
 ||data-a01a8a1ba4.allgemeine-zeitung.de^
 ||data-a01a8a1ba4.buerstaedter-zeitung.de^
 ||data-a01a8a1ba4.echo-online.de^
@@ -1825,6 +1828,7 @@
 ||data-d5efd1b9c0.dzonline.de^
 ||data-d611a11039.apps.iocnt.de^
 ||data-d61ee02db0.pirsch.de^
+||data-d6484416fd.maclife.de^
 ||data-d6485d3579.playboy.de^
 ||data-d67a03d16c.meintophotel.de^
 ||data-d687fc47c0.11freunde.de^
@@ -1896,6 +1900,7 @@
 ||data-e0448d0e4a.herz-fuer-tiere.de^
 ||data-e095ec3c5c.apps.iocnt.de^
 ||data-e09a956c79.du-bist-der-teamchef.at^
+||data-e0c8f57796.selbst.de^
 ||data-e0cdc680c2.kurier.at^
 ||data-e0e7873b34.stadtbibliothek-schwerin.de^
 ||data-e124ae3cf1.apps.iocnt.de^
@@ -2373,4 +2378,5 @@
 ||source-ed91a21bf0.dastelefonbuch.de^
 ||vorausweisung.report.oewa.at^
 ||wp-test.infonline.de^
+||www.apps.iocnt.de^
 ||www2.dk-online.de^

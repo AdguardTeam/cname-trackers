@@ -307,6 +307,7 @@
     * d5c4f5e5-6hhs63nr.cname.ebis.ne.jp
     * d64474bb-20mouroy.cname.ebis.ne.jp
     * d8339690-vcthc6ig.cname.ebis.ne.jp
+    * d840db74-fbw7r35c.cname.ebis.ne.jp
     * d8891d4f-5qfabvkt.cname.ebis.ne.jp
     * d9d442a8-bxd3nsfc.cname.ebis.ne.jp
     * dae17865-vqh9uah6.cname.ebis.ne.jp
@@ -329,7 +330,6 @@
     * eceb7b9f-6a92yces.cname.ebis.ne.jp
     * ee0f8438-thlsfh6z.cname.ebis.ne.jp
     * f050c5b4-cnza2mjg.cname.ebis.ne.jp
-    * f085cad9-pw7x2bh6.cname.ebis.ne.jp
     * f09f9ad9-gwbfzy7a.cname.ebis.ne.jp
     * f0b96c30-lpqdmczj.cname.ebis.ne.jp
     * f199b50c-gy66xg6s.cname.ebis.ne.jp
@@ -656,6 +656,7 @@
 | p5mcwdbu.ginzo-buy.jp | d5c4f5e5-6hhs63nr.cname.ebis.ne.jp |
 | ebis.okasan-online.co.jp | d64474bb-20mouroy.cname.ebis.ne.jp |
 | ebis.3838.com | d8339690-vcthc6ig.cname.ebis.ne.jp |
+| adebis.yourbread.jp | d840db74-fbw7r35c.cname.ebis.ne.jp |
 | ebis.n-pri.jp | d8891d4f-5qfabvkt.cname.ebis.ne.jp |
 | cv-adebis.my-studies.net | d9d442a8-bxd3nsfc.cname.ebis.ne.jp |
 | ebis.biyo-job.com | dae17865-vqh9uah6.cname.ebis.ne.jp |
@@ -678,7 +679,6 @@
 | adebisu.wowow.co.jp | eceb7b9f-6a92yces.cname.ebis.ne.jp |
 | itpebis03.recella3d.com | ee0f8438-thlsfh6z.cname.ebis.ne.jp |
 | ad.ordersuit.info | f050c5b4-cnza2mjg.cname.ebis.ne.jp |
-| z89yxner8h.datsumou-beauty-times.com | f085cad9-pw7x2bh6.cname.ebis.ne.jp |
 | ebistoppan1.kyowahakko-bio-campaign-1.com | f09f9ad9-gwbfzy7a.cname.ebis.ne.jp |
 | ebis.eiyoushi-tensyoku.com | f0b96c30-lpqdmczj.cname.ebis.ne.jp |
 | sep02.hinagiku-life.jp | f199b50c-gy66xg6s.cname.ebis.ne.jp |
