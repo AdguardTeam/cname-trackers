@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ afm.startraderjp.com CNAME .
 afm.startradermarkets.com CNAME .
 afm.startradermy.com CNAME .
 afm.startraders55.com CNAME .
+afm.startraders56.com CNAME .
 afm.startradervn.net CNAME .
 afm.sthub.cc CNAME .
 afm.ultima-markets.com CNAME .
@@ -57,11 +58,13 @@ afm.vantagemarketsea.com CNAME .
 afm.vantagemarketssea.com CNAME .
 afm.vantagetradings.com CNAME .
 afm.vnvtglobal.com CNAME .
+afm.vnvtmarkets.com CNAME .
 afm.vtg-mkt-apac.com CNAME .
 afm.vtg-mkt.com CNAME .
 afm.vtg-mkts.com CNAME .
 afm.vtglobalchn.com CNAME .
 afm.vtglobalcn.com CNAME .
+afm.vtglobalgroup.com CNAME .
 afm.vtmarkets.co CNAME .
 afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
@@ -69,6 +72,7 @@ afm.vtmarketsfr.com CNAME .
 afm.vtmarketsfx-cn.com CNAME .
 afm.vtmarketsglobal.com CNAME .
 afm.vtmarketsid.com CNAME .
+afm.vtmarketsindo.com CNAME .
 afm.vtmarketsintlcn.com CNAME .
 afm.vtmarketsjp.com CNAME .
 afm.vtmarketsnet.com CNAME .
@@ -462,7 +466,6 @@ contents.healthfirst.org CNAME .
 contentservices.ascendloans.com CNAME .
 contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
-contentservices.zurvita.com CNAME .
 cookiemonster.calcas.com CNAME .
 creditapp.rogersbank.com CNAME .
 creditcheck.digitecgalaxus.ch CNAME .
@@ -781,6 +784,7 @@ plr.scb-payments.net CNAME .
 pn1927.coutts.com CNAME .
 pn1927.couttscrowndependencies.com CNAME .
 pn1927.natwestplus.com CNAME .
+pngtm.paragonbank.co.uk CNAME .
 portal-fp-idev.qa.threatmetrix.com CNAME .
 portal-fp-qa1.qa.threatmetrix.com CNAME .
 portal-fp-qa2.qa.threatmetrix.com CNAME .
@@ -968,8 +972,6 @@ sfp.intuit.com CNAME .
 sg-payment.cydf.hoyoverse.com CNAME .
 shield.boostbusiness.my CNAME .
 shield.legalzoom.com CNAME .
-sitehelper.myengageft.com CNAME .
-sitehelper.optimizemoney.com CNAME .
 skw.eve.account.sony.com CNAME .
 solstice.ibotta.com CNAME .
 sptbb.pilates.com CNAME .
@@ -1178,7 +1180,6 @@ tmcontent.zoom.com CNAME .
 tmcontent.zoom.us CNAME .
 tmfp.klarna.com CNAME .
 tmi.my529.org CNAME .
-tmln.caesarscasino.com CNAME .
 tms.paysafe.com CNAME .
 tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .
@@ -1281,7 +1282,9 @@ ww3.marlincapitalsolutions.com CNAME .
 ww3.peacsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
+www.content.bnpparibas.net CNAME .
 www.content.espace-client.hellobank.fr CNAME .
+www.content.hellobank.it CNAME .
 www.content.mabanque.bnpparibas CNAME .
 www.content.mabanqueprivee.bnpparibas CNAME .
 www.content.mabanquepro.bnpparibas CNAME .

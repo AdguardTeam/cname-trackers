@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME disguised microsites list
 # Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-# TimeUpdated: 2025-06-30T08:00:12+00:00
+# TimeUpdated: 2025-07-07T08:00:10+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 0-13-9-crs.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediadrsprofildr.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediadrsprofildr.datadoghq.oohmediaomprooohmediadrspage.agent.ap1.datadoghq.com
@@ -15,6 +15,7 @@
 03ca5e6daa.f9fefdd6b1.com
 03rproxjqg5imz2-c.adkclicker.fr
 0436e447eb.bf4a39dfe0.com
+0446b5647b.61847b1398.com
 0460629af6.d17438cacf.com
 048ifc-88ww1n-5munyx9r-l9yy0yu.xhamsterlive.info
 056.omg.adult
@@ -210,7 +211,6 @@
 100003435.collect.igodigital.com
 100003461.collect.igodigital.com
 100003465.collect.igodigital.com
-100003477.collect.igodigital.com
 100003500.collect.igodigital.com
 100003502.collect.igodigital.com
 100003504.collect.igodigital.com
@@ -222,7 +222,6 @@
 100003721.collect.igodigital.com
 100003732.collect.igodigital.com
 100003733.collect.igodigital.com
-100003749.collect.igodigital.com
 100003790.collect.igodigital.com
 100003807.collect.igodigital.com
 100003816.collect.igodigital.com
@@ -311,7 +310,6 @@
 100006472.collect.igodigital.com
 100006476.collect.igodigital.com
 100006539.collect.igodigital.com
-100006684.collect.igodigital.com
 100006686.collect.igodigital.com
 100006722.collect.igodigital.com
 100006727.collect.igodigital.com
@@ -961,7 +959,6 @@
 100023006.collect.igodigital.com
 100023212.collect.igodigital.com
 100023230.collect.igodigital.com
-100023304.collect.igodigital.com
 100023342.collect.igodigital.com
 100023394.collect.igodigital.com
 100023396.collect.igodigital.com
@@ -978,13 +975,11 @@
 100023657.collect.igodigital.com
 100023677.collect.igodigital.com
 100023761.collect.igodigital.com
-100023869.collect.igodigital.com
 100023893.collect.igodigital.com
 100023982.collect.igodigital.com
 100024063.collect.igodigital.com
 100024083.collect.igodigital.com
 100024143.collect.igodigital.com
-100024229.collect.igodigital.com
 100024350.collect.igodigital.com
 100024352.collect.igodigital.com
 100024392.collect.igodigital.com
@@ -992,7 +987,6 @@
 100024503.collect.igodigital.com
 100024523.collect.igodigital.com
 100024529.collect.igodigital.com
-100024597.collect.igodigital.com
 100024644.collect.igodigital.com
 100024742.collect.igodigital.com
 100024762.collect.igodigital.com
@@ -1272,7 +1266,6 @@
 1065768.collect.igodigital.com
 1065837.collect.igodigital.com
 1066741.collect.igodigital.com
-1067314.collect.igodigital.com
 1067315.collect.igodigital.com
 1067319.collect.igodigital.com
 1067334.collect.igodigital.com
@@ -1450,7 +1443,6 @@
 10958493.collect.igodigital.com
 10958512.collect.igodigital.com
 10958513.collect.igodigital.com
-10958518.collect.igodigital.com
 10958609.collect.igodigital.com
 10959613.collect.igodigital.com
 10959616.collect.igodigital.com
@@ -1790,7 +1782,6 @@
 11274.global.siteimproveanalytics.io
 11277.global.siteimproveanalytics.io
 1129200.global.siteimproveanalytics.io
-113109.collect.igodigital.com
 11378.global.siteimproveanalytics.io
 11383.global.siteimproveanalytics.io
 114774.collect.igodigital.com
@@ -1875,7 +1866,6 @@
 133894.global.siteimproveanalytics.io
 133898.global.siteimproveanalytics.io
 1339402.collect.igodigital.com
-1340.global.siteimproveanalytics.io
 1341604.collect.igodigital.com
 1341607.collect.igodigital.com
 1343627.collect.igodigital.com
@@ -2175,6 +2165,7 @@
 2b52362557.22670c0b39.com
 2b72ab91a5.03bcce4872.com
 2bmvvx5wsy7iqo3-p.adktrack30.xyz
+2ce242283a.3aa2de320e.com
 2cg8ce5x09jpkdr-c.adktrack40.xyz
 2ciy2-9kbup.ads.tremorhub.com
 2coordgame1000.spankbanglive.com
@@ -2219,7 +2210,6 @@
 2wcdipvng4ueisy-p.adktrack37.xyz
 2wik6cxt8nugpaj-p.bonnelectureatous.fr
 2yrdfyaqqjlb3hw-p.adktrack53.xyz
-3-9-0-app.agent.datadoghq.com
 30750.global.siteimproveanalytics.io
 30967.global.siteimproveanalytics.io
 30cirt2vjxlboqm-p.adktrack53.xyz
@@ -2237,7 +2227,6 @@
 3392.global.siteimproveanalytics.io
 3403.global.siteimproveanalytics.io
 3406.global.siteimproveanalytics.io
-34141a11eb.59fb4bffe0.com
 34520.global.siteimproveanalytics.io
 35468.global.siteimproveanalytics.io
 3553.global.siteimproveanalytics.io
@@ -2273,11 +2262,13 @@
 3a6359571b.470e0f40ac.com
 3aa5342c9f.8b2b018606.com
 3b1d253452.8ea1272194.com
+3b694d57dc.ff1232f5f3.com
 3b71ae07b7.5bb3e0be1a.com
 3c12cce224.c4db8f5827.com
 3d940b49cb.84969d4e51.com
 3dbn89v7npzefqt-p.adktrack53.xyz
 3ds.tklivechat.com
+3f0a8d866d.788eaddaac.com
 3f3f873995.428a4db078.com
 3f7ccc19aa.cae9894963.com
 3f8165d49d.5536ddf6c1.com
@@ -2334,7 +2325,6 @@
 499073.global.siteimproveanalytics.io
 49rqiyckzllyvpq-p.bonnelectureatous.fr
 4a2aac440d.7e4c883e71.com
-4a691a4461.9274aeeb33.com
 4ada3756e4.390c1c46b8.com
 4bb6cef88c.4917493a9d.com
 4bfa8970e7.8aee7f6429.com
@@ -2356,15 +2346,12 @@
 4uqgdju7g68otbn-p.adkclicker.fr
 4yayornaciwlvtk-c.adkoffer.fr
 5-11-8-app.agent.datadoghq.com
-5-8-1-app2.agent.datadoghq.com
-5-app.agent.datadoghq.com
 500007427.collect.igodigital.com
 500007710.collect.igodigital.com
 500007787.collect.igodigital.com
 500007837.collect.igodigital.com
 500007871.collect.igodigital.com
 500007913.collect.igodigital.com
-500007953.collect.igodigital.com
 500008016.collect.igodigital.com
 500008040.collect.igodigital.com
 500008042.collect.igodigital.com
@@ -2541,7 +2528,6 @@
 510001794.collect.igodigital.com
 510001829.collect.igodigital.com
 510001927.collect.igodigital.com
-510001939.collect.igodigital.com
 510001947.collect.igodigital.com
 510002005.collect.igodigital.com
 510002052.collect.igodigital.com
@@ -2735,7 +2721,6 @@
 514000840.collect.igodigital.com
 514000853.collect.igodigital.com
 514000909.collect.igodigital.com
-514000954.collect.igodigital.com
 514001057.collect.igodigital.com
 514001078.collect.igodigital.com
 514001225.collect.igodigital.com
@@ -2801,7 +2786,6 @@
 514005192.collect.igodigital.com
 514005242.collect.igodigital.com
 514005244.collect.igodigital.com
-514005250.collect.igodigital.com
 514005331.collect.igodigital.com
 514005399.collect.igodigital.com
 514005403.collect.igodigital.com
@@ -2825,7 +2809,6 @@
 514006906.collect.igodigital.com
 514006908.collect.igodigital.com
 514006909.collect.igodigital.com
-514006918.collect.igodigital.com
 514006924.collect.igodigital.com
 514006926.collect.igodigital.com
 514006927.collect.igodigital.com
@@ -3064,7 +3047,6 @@
 515014033.collect.igodigital.com
 515014072.collect.igodigital.com
 515014423.collect.igodigital.com
-515015059.collect.igodigital.com
 515015124.collect.igodigital.com
 515015409.collect.igodigital.com
 515015416.collect.igodigital.com
@@ -3158,7 +3140,6 @@
 524001567.collect.igodigital.com
 524001720.collect.igodigital.com
 524002032.collect.igodigital.com
-524002336.collect.igodigital.com
 524002573.collect.igodigital.com
 524002580.collect.igodigital.com
 524002657.collect.igodigital.com
@@ -3173,7 +3154,6 @@
 524003212.collect.igodigital.com
 524003370.collect.igodigital.com
 524003436.collect.igodigital.com
-524005844.collect.igodigital.com
 524005984.collect.igodigital.com
 524005999.collect.igodigital.com
 524006077.collect.igodigital.com
@@ -3269,7 +3249,6 @@
 534002180.collect.igodigital.com
 534002277.collect.igodigital.com
 534002416.collect.igodigital.com
-534002549.collect.igodigital.com
 534002585.collect.igodigital.com
 534002712.collect.igodigital.com
 534002733.collect.igodigital.com
@@ -3306,7 +3285,6 @@
 534005288.collect.igodigital.com
 534005307.collect.igodigital.com
 534005811.collect.igodigital.com
-534006164.collect.igodigital.com
 534006214.collect.igodigital.com
 534006469.collect.igodigital.com
 534006487.collect.igodigital.com
@@ -3334,7 +3312,6 @@
 534008454.collect.igodigital.com
 534008629.collect.igodigital.com
 534009499.collect.igodigital.com
-534009546.collect.igodigital.com
 534014613.collect.igodigital.com
 534014733.collect.igodigital.com
 534014766.collect.igodigital.com
@@ -3342,7 +3319,6 @@
 534014771.collect.igodigital.com
 534014870.collect.igodigital.com
 534014871.collect.igodigital.com
-534015512.collect.igodigital.com
 534016218.collect.igodigital.com
 536000441.collect.igodigital.com
 536000656.collect.igodigital.com
@@ -3480,7 +3456,6 @@
 546004728.collect.igodigital.com
 546004754.collect.igodigital.com
 546004875.collect.igodigital.com
-546005093.collect.igodigital.com
 546005224.collect.igodigital.com
 546005870.collect.igodigital.com
 546005947.collect.igodigital.com
@@ -3524,7 +3499,6 @@
 563113.global.siteimproveanalytics.io
 563317.global.siteimproveanalytics.io
 56333.global.siteimproveanalytics.io
-56345.global.siteimproveanalytics.io
 56625.global.siteimproveanalytics.io
 57004.global.siteimproveanalytics.io
 57624.collect.igodigital.com
@@ -3542,16 +3516,12 @@
 5b9bc72dc8.53ebf10be3.com
 5d0405d69d.7677b41a02.com
 5da683ff01.dccf2d24c6.com
-5dc70c6440.4b6555c25a.com
 5ew8d-asjg3.ads.tremorhub.com
 5ew8d-b3mmu.ads.tremorhub.com
 5fgsg68eqo79rdj-c.adktrack11.xyz
 5gloqxhfpp239mc-p.unenoteunjour.fr
 5nbh3-uouba.ads.tremorhub.com
 5pplv7duslymhvk-p.adktrack30.xyz
-6-13-4-app.agent.datadoghq.com
-6-5-0-app.agent.datadoghq.com
-6-6--app.agent.datadoghq.com
 6000012.global.siteimproveanalytics.io
 6000017.global.siteimproveanalytics.io
 6000024.global.siteimproveanalytics.io
@@ -3654,7 +3624,6 @@
 6014746.global.siteimproveanalytics.io
 6014988.global.siteimproveanalytics.io
 6015191.global.siteimproveanalytics.io
-6015663.global.siteimproveanalytics.io
 6015708.global.siteimproveanalytics.io
 6016311.global.siteimproveanalytics.io
 6016554.global.siteimproveanalytics.io
@@ -3840,7 +3809,6 @@
 614cb31132.0a82cdf4d4.com
 6151033.collect.igodigital.com
 6151854.global.siteimproveanalytics.io
-6155128.collect.igodigital.com
 6157310.global.siteimproveanalytics.io
 6165092.collect.igodigital.com
 6166983.global.siteimproveanalytics.io
@@ -3879,7 +3847,6 @@
 6232657.collect.igodigital.com
 6234414.collect.igodigital.com
 6235051.collect.igodigital.com
-6235576.collect.igodigital.com
 6236764.collect.igodigital.com
 6236766.collect.igodigital.com
 6236768.collect.igodigital.com
@@ -3923,7 +3890,6 @@
 6282359.global.siteimproveanalytics.io
 6282880.global.siteimproveanalytics.io
 6282966.global.siteimproveanalytics.io
-6283119.collect.igodigital.com
 6283192.global.siteimproveanalytics.io
 6283531.global.r2.siteimproveanalytics.io
 6284073.global.r2.siteimproveanalytics.io
@@ -4003,13 +3969,11 @@
 6382dc675e.41230094f2.com
 6387581.collect.igodigital.com
 6389533.collect.igodigital.com
-63904.global.siteimproveanalytics.io
 6390760.collect.igodigital.com
 6397618.collect.igodigital.com
 6399530.collect.igodigital.com
 63a98fb9e9.aba8bc155e.com
 63d8c6c172.c7b4215ccd.com
-63e798263b.fef0033e72.com
 6402.global.siteimproveanalytics.io
 6402411.collect.igodigital.com
 6403988.collect.igodigital.com
@@ -4024,7 +3988,6 @@
 6413849.collect.igodigital.com
 6413851.collect.igodigital.com
 6413852.collect.igodigital.com
-6413853.collect.igodigital.com
 6413855.collect.igodigital.com
 6413856.collect.igodigital.com
 6413857.collect.igodigital.com
@@ -4208,7 +4171,6 @@
 67412.global.siteimproveanalytics.io
 6753.global.siteimproveanalytics.io
 67564.global.siteimproveanalytics.io
-6769.global.siteimproveanalytics.io
 676c90ebc6.6b6c1b838a.com
 6771.global.siteimproveanalytics.io
 67741177.global.siteimproveanalytics.io
@@ -4266,11 +4228,9 @@
 6lioc-ftrbi.ads.tremorhub.com
 6m3xgsoiwvajrnl-p.clickomo.fr
 6psex-fm1gy.ads.tremorhub.com
-6uolf-fjigx.ads.tremorhub.com
 6uolf-mpgye.ads.tremorhub.com
 6uolf-q3jv3.ads.tremorhub.com
 6zw8pecp4ycirvq-c.linkadk.fr
-7-49-1-app.agent.datadoghq.com
 7000413.collect.igodigital.com
 7000666.collect.igodigital.com
 7000714.collect.igodigital.com
@@ -4645,7 +4605,6 @@
 7301788.collect.igodigital.com
 7301916.collect.igodigital.com
 7302029.collect.igodigital.com
-7302067.collect.igodigital.com
 7302410.collect.igodigital.com
 7302467.collect.igodigital.com
 7304442.collect.igodigital.com
@@ -4680,7 +4639,6 @@
 7317994.collect.igodigital.com
 7318739.collect.igodigital.com
 7318813.collect.igodigital.com
-7319630.collect.igodigital.com
 7319632.collect.igodigital.com
 7321647.collect.igodigital.com
 7322398.collect.igodigital.com
@@ -4818,7 +4776,6 @@
 79167.global.siteimproveanalytics.io
 79224.global.siteimproveanalytics.io
 79249.global.siteimproveanalytics.io
-79316.global.siteimproveanalytics.io
 79348.global.siteimproveanalytics.io
 79442.global.siteimproveanalytics.io
 795490.global.siteimproveanalytics.io
@@ -4849,7 +4806,6 @@
 7veerrc2ubwimhl-c.adktrack34.xyz
 8-18-3-app.agent.datadoghq.com
 8-6-8-app.agent.datadoghq.com
-8-8-1-app.agent.datadoghq.com
 8.net-31.172.stripchats.io
 80196.global.siteimproveanalytics.io
 80352.global.siteimproveanalytics.io
@@ -4862,6 +4818,7 @@
 8088bb513e.04ad088ca1.com
 81230.global.siteimproveanalytics.io
 81385.collect.igodigital.com
+8139917f5a.342ef7c20e.com
 81770.global.siteimproveanalytics.io
 81792.global.siteimproveanalytics.io
 81930.global.siteimproveanalytics.io
@@ -4939,7 +4896,6 @@
 87572.global.siteimproveanalytics.io
 87586.global.siteimproveanalytics.io
 87717.global.siteimproveanalytics.io
-88063.global.siteimproveanalytics.io
 88208.global.siteimproveanalytics.io
 88249.global.siteimproveanalytics.io
 88280.global.siteimproveanalytics.io
@@ -4971,7 +4927,6 @@
 8b006d4434.1752d81188.com
 8b77d90e45.1b60887cd1.com
 8b9cf751fc.e00623c9a6.com
-8c3ebbe6d3.0c9747d501.com
 8c40fb9c8e.e61f59ebf7.com
 8ced4d3c11.dc5cede8fb.com
 8cf31407cf.9c7a355783.com
@@ -4985,15 +4940,6 @@
 8keiurs2fbphe60-c.adktrack82.xyz
 8ql60l2kzjanitvc.internal.pov.acceldatasolutions.net
 8u94z-fahb7.ads.tremorhub.com
-9-13-9-app.agent.datadoghq.com
-9-17-7-app.agent.datadoghq.com
-9-19-2-app.agent.datadoghq.com
-9-19-3-app.agent.datadoghq.com
-9-21-0-app.agent.datadoghq.com
-9-21-8-app.agent.datadoghq.com
-9-3-8-app.agent.datadoghq.com
-9-4-1-app.agent.datadoghq.com
-9-4-4-app.agent.datadoghq.com
 9006.global.siteimproveanalytics.io
 90769267.global.siteimproveanalytics.io
 90772975.global.siteimproveanalytics.io
@@ -5013,11 +4959,11 @@
 92764a4dd9.a3f602992f.com
 92d088622c.dc4ea4b8c7.com
 9352c090d1.11a0ba1170.com
-9471.global.siteimproveanalytics.io
 9474c237fd.4ae6b21135.com
 950cjmyvgerwpbv-c.unenoteunjour.fr
 9566.global.siteimproveanalytics.io
 9572f39990.c90dc23040.com
+95cb7382fe.e6c5f295b4.com
 96.net-31.172.stripchats.io
 9642.global.siteimproveanalytics.io
 96767.collect.igodigital.com
@@ -5050,7 +4996,6 @@
 9n5psituewtmgr0-c.clickomo.fr
 9nybynuljfod0kt-p.adkclicker.fr
 9rmjh-d45gc.ads.tremorhub.com
-9rmjh-r3qfu.ads.tremorhub.com
 9zqr5iwshzp1blm-p.recettedubonheur.fr
 a.a47b.com
 a.aer.com
@@ -5095,9 +5040,7 @@ a235.thehour.com
 a235.theintelligencer.com
 a235.thetelegraph.com
 a235.timesunion.com
-a2cad384fc.1332bfac2b.com
 a2rhoet1piz5nd9-p.adktrack44.xyz
-a3934-th74y.ads.tremorhub.com
 a3dyrqfccnzsjyt-c.adkoffre.fr
 a536a1e335.52154cdd64.com
 a614.al.com
@@ -5229,6 +5172,7 @@ ai.thermo.com
 ai.thermofisher.com
 aidc.barcodesgroup.com
 aiet6ned2lxp48b-p.adktrack34.xyz
+airs.adpinfo.com
 ajc.share.ntv.io
 akn.analytics.autodesk.com
 al.share.ntv.io
@@ -5433,7 +5377,6 @@ apac.zendesk.com
 apcinfo.motorolasolutions.com
 apcinfo.vertexstandard.com
 api-dev.boyfriend.show
-api-mediation.gamekivvi.com
 api-stage.facturacionmcdonalds.com.mx
 api.ariadirect.com
 api.huqindustries.co.uk
@@ -5487,7 +5430,6 @@ app.cmuchippewas.com
 app.cofcsports.com
 app.collinscenterforthearts.com
 app.commercialbank.53.com
-app.comms.aon.com
 app.communications.americanexpress.ca
 app.communications.citimortgage.com
 app.communications.jdsu.com
@@ -5760,7 +5702,6 @@ app.ratingsinfo.standardandpoors.com
 app.recruit.caterermail.com
 app.reply.perkinelmer.com
 app.resources.netiq.com
-app.respond.aonhewitt.com
 app.response.adobesystemsinc.com
 app.response.aiu.edu.au
 app.response.americancentury.com
@@ -5869,11 +5810,9 @@ app.your.level3.com
 app.zmail.zionsbank.com
 app1.horizondiscovery.com
 app2-ownercenter-pp.spankbanglive.com
-app7.agent.datadoghq.com
 appcloud.appyreward.com
 appdownload.superchat.live
 applicatifs.ricoh.fr
-application.7-23-1-app-2-8-6-app.stg-logs.agent.datadoghq.com
 application.rasmussen.edu
 application.ricoh.co.uk
 application.ricoh.co.za
@@ -6050,7 +5989,6 @@ avserver.superchatlive.com
 avz1rq4cvjhgetz-c.recettedubonheur.fr
 awake.superchat.live
 aweb.boyfriend.show
-aws7-2-0-app.agent.datadoghq.com
 awseioeukk8xfxh-p.linkomo.fr
 awst.aviationweek.com
 axentis.arclogics.com
@@ -6071,7 +6009,6 @@ b2bmarketingsb.swisscom.com
 b2bmkt.lge.co.kr
 b3b281b815.5acba06d35.com
 b444707fdc.4ae2e793d9.com
-b53accf7d8.8f59bb0891.com
 b5ukp3l8fbzrein-p.bonnelectureatous.fr
 b64.shemale.show
 b71260c6e8.b6fbaf103c.com
@@ -6079,7 +6016,6 @@ b731055a61.20f70ba20b.com
 b7bff12888.bbbe6e2472.com
 b7d69916a8.425410f96b.com
 b7ooagmievxajkf-p.akming.xyz
-b841298463.cf7f9a4788.com
 b8f7473cd2.91548aee74.com
 b9d9e136c0.0c45fdeae9.com
 ba3849f40f.b161680016.com
@@ -6096,7 +6032,6 @@ banners.designashirt.com
 banners.royalpixel.com.br
 banyan.boyfriend.show
 barracuda.rarecams.com
-bastion.agent.datadoghq.com
 basvuru.superchat.live
 bb43ce031a.ef42245b5e.com
 bbbb.blackboard.com
@@ -6223,6 +6158,7 @@ br.superchatlive.com
 br.tklivechat.com
 br.tranny.show
 br.webcam.ac
+br.ww16.spankbanglive.com
 br.xham.live
 br.xhlive.cam
 br.xhlive.net
@@ -6260,7 +6196,6 @@ c089e9d9e7.01b491026c.com
 c0zof9ohq4rmayu-p.clead.xyz
 c123.xhlive.org
 c141.spankbanglive.com
-c250af3066.c731649c79.com
 c2a0609d8f.92d31be64a.com
 c333.macworld.co.uk
 c3b2cda611.b8be15ca44.com
@@ -6418,6 +6353,7 @@ ci3exe69qjsxt2d-c.monmessage.fr
 cic23rqzpwj1r9b-p.unenoteunjour.fr
 cimarketingforms.cimarketing.aig.com
 cio.share.ntv.io
+cko.fintechsurge.com
 cko.gisec.ae
 cko.globaldevslam.com
 cko.wamsaudi.com
@@ -6777,6 +6713,7 @@ cs.superchatlive.com
 cs.tklivechat.com
 cs.xham.live
 cs.xhlive.cam
+cs.xhlive.net
 cscampbell.eloquademos.net
 csoonline.share.ntv.io
 ctc.wolterskluwer.com
@@ -6794,8 +6731,6 @@ customerevents.dradis.netflix.com
 customerevents.eu-west-1.internal.dradis.netflix.com
 customerevents.netflix.com
 customerevents.us-east-1.internal.dradis.netflix.com
-customerevents.us-east-2.internal.dradis.netflix.com
-customerevents.us-west-2.internal.dradis.netflix.com
 customerexperience.verintsystemsinc.com
 customerjourney.mba.org
 customers-capitalbank-jo-877029.p06.elqsandbox.com
@@ -6843,6 +6778,7 @@ da.celebjihad.live
 da.myavlive.com
 da.nsfwlivechat.com
 da.omg.adult
+da.shemale.show
 da.spankbanglive.com
 da.stripchat.global
 da.xham.live
@@ -6861,7 +6797,6 @@ dap.hindustantimes.com
 dap.livehindustan.com
 dap.livemint.com
 dap.ottplay.com
-dap.shine.com
 dap.slurrp.com
 dap.vccircle.com
 data.aonunited.com
@@ -7106,12 +7041,11 @@ downloads.advancedtech.com
 downloads.coface.com
 downloads.mcgladrey.com
 downpayment.fernsby.com
+dpc.onemedical.com
 dpcivmogzkbpwu9-p.adkclicker.fr
 dpqatrzfoub708k-p.linkomo.fr
 dqr6te8qno4xyhm-p.adktrack30.xyz
 dr-remote.spankbanglive.com
-dr-test-failover-liveus3.agent.datadoghq.com
-dr-test-failover-tracetest-dr-tcp-intake.agent.datadoghq.com
 dr.omg.adult
 drive-agent.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediaessprofiles.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediaessprofiles.datadoghq.2-imgs.agent.ap1.datadoghq.com
 drive-agent.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediaessprofiles.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediaessprofiles.datadoghq.comproduction.agent.ap1.datadoghq.com
@@ -7201,7 +7135,6 @@ ed3fb005dc.546a5a69a9.com
 edge.ricoh-europe.com
 education.bendigotafe.edu.au
 education.leads360.com
-education.seek.intel.com
 education.velocify.com
 educontinua.unisabana.edu.co
 ee.mywd.com
@@ -7209,7 +7142,6 @@ ees.employerservices.experian.com
 ef16276d05.22a008da69.com
 ef506fa44f.580fbe2c4e.com
 ef5222325b.8d0ec41186.com
-eff-agent.agent.datadoghq.com
 efficiency.nl.visma.com
 efficiency.visma.com
 efficiency.visma.dk
@@ -7258,13 +7190,6 @@ el.xham.live
 el.xhlive.cam
 el.xhlive.net
 el.xhlive.org
-elb-agent0.agent.datadoghq.com
-elb-agent1.agent.datadoghq.com
-elb-agent4.agent.datadoghq.com
-elb-agent9.agent.datadoghq.com
-elbagent-7.agent.datadoghq.com
-elbagent-9.agent.datadoghq.com
-elbagent6.agent.datadoghq.com
 electronics.edm.globalsources.com
 electronics.tradeshow.globalsources.com
 elev.xham.live
@@ -7272,7 +7197,6 @@ elia.thermofisher.com
 elink.serasaexperian.com.br
 elitesolutions.adp401k.com
 eloq.fiducial.fr
-eloqua-tracking.kaiserpermanente.org
 eloqua-tracking.unity.com
 eloqua-tracking.unity3d.com
 eloqua-trackings.unity.com
@@ -7323,7 +7247,6 @@ eloqua.saiganeshk.com
 eloqua.soprasteria.co.uk
 eloqua.star-semicon.com
 eloqua.syslog-ng.com
-eloqua.talktalkbusiness.co.uk
 eloqua.teknos.com
 eloqua.testo.com
 eloqua.undergraduateexam.in
@@ -7461,7 +7384,6 @@ elqtrk.ext.hp.com
 elqtrk.hk.morningstar.com
 elqtrk.hp.com
 elqtrk.ibbotson.co.jp
-elqtrk.intel.sg
 elqtrk.morningstar.be
 elqtrk.morningstar.ca
 elqtrk.morningstar.ch
@@ -7485,7 +7407,6 @@ elqtrk.my.morningstar.com
 elqtrk.sg.morningstar.com
 elqtrk.stamford-avk.com
 elqtrk.tw.morningstar.com
-elqtrkstg.intel.com
 elqview.kofax.com
 elqview.kofax.jp
 elqview.kofaxfrance.fr
@@ -7672,6 +7593,7 @@ en-us.coloplastcare.com
 en.live.javmix.tv
 en.myavlive.com
 en.stripchat.global
+en.stripchatgirls.com
 en.superchat.live
 en.superchatlive.com
 encompassreport.elliemae.com
@@ -7877,7 +7799,6 @@ es.xhlive.org
 escritorio.stripchatgirls.com
 esmecunj20ovjqw-p.adktrack44.xyz
 esp.xham.live
-espace-diderot.requea.com5-19-0-app.agent.datadoghq.com
 esrnpzgbcb0tlvk-p.adkplan.fr
 esrrkqouhf4dftn-c.clickomo.fr
 esrrkqouhf4dftn-p.clickomo.fr
@@ -8045,6 +7966,7 @@ f97obe6pjhyt5ne-c.linkomo.fr
 f9c456929e.23f9e517a6.com
 fa32763d62.90757c7d6c.com
 fa949fbb94.2daa3302bc.com
+fa9dc0e7bb.f587cad87f.com
 facilities.ubm-events.com
 factory.redbull.racing
 fade.freestrip.chat
@@ -8057,7 +7979,6 @@ fashion.mmgnetgroup.com
 fashion.tradeshow.globalsources.com
 fba5d54634.d9303988cb.com
 fbaqnxczpjin82k-p.adkoffer.fr
-fc.agent.datadoghq.com
 fcln7axyymt0blq-c.adkclicker.fr
 fdd5c91116.606b85787b.com
 fds7ftzt3a69jwe-c.clead.xyz
@@ -8066,7 +7987,6 @@ fe5071dde0.7c5734761f.com
 featured.bradyid.com
 federated.stripchat.webcam
 fedexfield.redskins.com
-feedback.aon.com
 feedback.lifeguardarena.com
 feedback.nslsc-csnpe.ca
 feniks.xhlive.org
@@ -8078,20 +7998,23 @@ fg2.chiccams.com
 fgdcoqilvkmb9e2-p.adkclicker.fr
 fhoch46f1vjnyti-c.clickomo.fr
 fhrhmop6bvqsn42-p.adkclicker.fr
+fi.aznudelive.com
 fi.boyfriend.show
 fi.celebjihad.live
 fi.hot-india.com
+fi.myavlive.com
 fi.nsfwlivechat.com
 fi.omg.adult
 fi.sexygirlspics.live
 fi.shemale.show
+fi.spankbanglive.com
 fi.stripchat.global
 fi.stripchatgirls.com
+fi.superchatlive.com
 fi.tklivechat.com
 fi.xham.live
 fi.xhlive.net
 fi4axblqrneobvy-p.clickomo.fr
-fibertel.agent.datadoghq.com
 files.info.posteitaliane.it
 finance.siemens-info.com
 findthetruth.allergyai.com
@@ -8195,6 +8118,7 @@ fpc.autoentry.com
 fpc.brightpearl.com
 fpc.ciel.com
 fpc.frontpoint.com
+fpc.futrli.com
 fpc.gartner.com
 fpc.golubcapital.com
 fpc.golubgrowth.com
@@ -8202,6 +8126,7 @@ fpc.goproposal.com
 fpc.immattersacp.org
 fpc.inxinternational.com
 fpc.laerdal.com
+fpc.oversuite.com
 fpc.questoraclecommunity.org
 fpc.sage.com
 fpc.sg2.com
@@ -8230,6 +8155,7 @@ fr.instantfapcams.com
 fr.live.javmix.tv
 fr.liveandsexy.cam
 fr.livecamlovetr.com
+fr.motherlesslive.com
 fr.myavlive.com
 fr.mycamtv.com
 fr.nsfwlivechat.com
@@ -8276,7 +8202,6 @@ friend.ebags.com
 friend.sharefile.com
 friendly.superchat.live
 friendly.xhlive.org
-friends.agent.datadoghq.com
 friends.keurig.ca
 friends.keurig.com
 friends.uvacreditunion.org
@@ -8284,7 +8209,6 @@ fromhttptohttps.atea.fi
 frostnsullivan.advancedtech.com
 fs0.sexfortokens.com
 fscookie.penetrator.jp
-fsi.seek.intel.com
 ftbvvnnrktrfcwq-c.ktrack.xyz
 ftp.hot-india.com
 ftp.superchatlive.com
@@ -8417,7 +8341,6 @@ go.billsmafia.com
 go.biz.alabamapower.com
 go.blackboard.com
 go.blackrock.com
-go.bluecrossarena.com
 go.boyfriend.show
 go.brightspace.com
 go.by.aglgroup.com
@@ -8481,6 +8404,7 @@ go.exactonline.nl
 go.eyefinity.com
 go.fairviewmicrowave.com
 go.fhlbny.com
+go.fi.stripchats.io
 go.firstderivatives.com
 go.fishbowlsolutions.com
 go.flukebiomedical.com
@@ -8519,8 +8443,10 @@ go.id.porndudecams.com
 go.id.sexfortokens.com
 go.id.shemale.show
 go.id.spankbanglive.com
+go.id.stripchat.global
 go.id.stripchatgirls.com
 go.id.stripchatlive.com
+go.id.tklivechat.com
 go.id.tranny.show
 go.id.xham.live
 go.id.xhlive.cam
@@ -8644,6 +8570,7 @@ go.transtector.com
 go.tuev.cn
 go.tulsadrillers.com
 go.tuv.com
+go.ua.nsfwlivechat.com
 go.ua.omg.adult
 go.ua.stripchat.webcam
 go.ua.stripchatgirls.com
@@ -8652,6 +8579,7 @@ go.ubmamg-media.com
 go.ukg.com
 go.ultimatesoftware.com
 go.us.vacasa.com
+go.vi.hotzcam.com
 go.vi.myavlive.com
 go.vi.spankbanglive.com
 go.vi.stripchat.global
@@ -8667,6 +8595,7 @@ go.web-cast.ro
 go.webcam.ac
 go.wehale.life
 go.windsurge.com
+go.winnipegjets.com
 go.www4.earlywarning.com
 go.xham.live
 go.xhamsterlive.info
@@ -8678,6 +8607,7 @@ go.yourplanprovisions.com
 go.zellepay.com
 go.zendesk.com
 go.zt.colsex.com
+go.zt.hot-india.com
 go.zt.hotzcam.com
 go.zt.myavlive.com
 go.zt.omg.adult
@@ -8741,6 +8671,7 @@ h229.freestrip.chat
 h30574.www3.hp.com
 h3vde-rzvfg.ads.tremorhub.com
 h5crunfegvhzgmo-p.adktrack30.xyz
+h7chz1x-xeb.stripchats.io
 h7ds25zlnbebjue-p.adktrack30.xyz
 h9wefuyvmryn1fq-p.adkoffer.fr
 hansel.freestrip.chat
@@ -8761,7 +8692,6 @@ health.info.slhs.org
 healthcare.fishersci.com
 healthcare.mcgladrey.com
 healthcare.oakstreethealth.com
-healthcare.seek.intel.com
 healthcare.thermofisher.com
 healthier.aahs.org
 healthier.luminishealth.org
@@ -8823,9 +8753,12 @@ hr.nsfwlivechat.com
 hr.omg.adult
 hr.shemale.show
 hr.spankbanglive.com
+hr.stripchat.direct
 hr.stripchat.global
 hr.stripchatgirls.com
+hr.stripchats.global
 hr.superchatlive.com
+hr.tklivechat.com
 hr.xham.live
 hs14.strp.chat
 hsad.goldenplanet.co.kr
@@ -8947,16 +8880,19 @@ id.sexygirlspics.live
 id.shemale.show
 id.spankbanglive.com
 id.strip-chat.club
+id.stripchat.direct
 id.stripchat.global
 id.stripchat.webcam
 id.stripchatgirls.com
 id.stripchatlive.com
 id.stripchats.global
+id.stripchats.io
 id.superchat.live
 id.superchatlive.com
 id.tklivechat.com
 id.tranny.show
 id.xham.live
+id.xhamsterlive.info
 id.xhlive.cam
 id.xhlive.net
 id4a9cowwempsiu-p.adktrack30.xyz
@@ -9409,7 +9345,6 @@ images.messages.seagate.com
 images.mkt.acindar.com.ar
 images.mkt.movida.com.br
 images.mkt.zoominfo.com
-images.mkt.zte.com.cn
 images.mktg.dynabook.com
 images.mktgassets.symantec.com
 images.mm.eulerhermes.com
@@ -9436,7 +9371,6 @@ images.newsletter.hach.com.cn
 images.newsletter.larksuite.com
 images.newsletter.rewe-group.at
 images.noticias.clarin.com
-images.notifications.aigdirect.com
 images.novedades.fibercorp.com.ar
 images.nwinsurance.pemco.com
 images.offers.princesscruises.co.uk
@@ -9644,6 +9578,7 @@ info.cws.cc
 info.cybersource.com
 info.dailyfx.com
 info.darnelgroup.com
+info.datacenterworld.com
 info.deutscher-ausbildungsleiterkongress.de
 info.deutscher-kitaleitungskongress.de
 info.dfinsolutions.com
@@ -9831,7 +9766,6 @@ insure.vertafore.com
 intel-trk.i-law.com
 intel-trk.informa.com
 intel-trk.lloydslistintelligence.com
-intelpartneralliance.intel.com
 intercom.freestrip.chat
 interest.truvenhealth.com
 internal.3m.com
@@ -10055,7 +9989,6 @@ jzkc57lym3n9gqe-p.adkplan.fr
 k0bar4h3vwyx1en-p.linkomo.fr
 k2ckndz4r8bq6to-p.adkclicker.fr
 k40.strp.chat
-k8s.agent.datadoghq.com
 kaka.xhlive.cam
 kalliope.boyfriend.show
 kampanj.spiris.se
@@ -10121,6 +10054,7 @@ ko.tklivechat.com
 ko.webcam.ac
 ko.xham.live
 ko.xhlive.cam
+ko.xhlive.net
 ko.xhlive.org
 ko3zhql2esybkas-p.clickomo.fr
 korolev.strp.chat
@@ -10205,7 +10139,6 @@ laundry.shemale.show
 law.bppeloqua.com
 lazlcqnrpivd2gw-c.adktrack11.xyz
 lchqnqdsfpobzpz-c.adkoffer.fr
-ldap.corp.deliveroo.com
 lead.blackrock.com
 leadmanagement.leads360.com
 leadmanagement.velocify.com
@@ -10460,6 +10393,7 @@ mail.dolce-gusto.co.cr
 mail.dolce-gusto.co.il
 mail.dolce-gusto.co.kr
 mail.dolce-gusto.co.nz
+mail.dolce-gusto.co.uk
 mail.dolce-gusto.co.za
 mail.dolce-gusto.com.ar
 mail.dolce-gusto.com.au
@@ -10629,7 +10563,6 @@ medlemskap.fagforbundet.no
 medlemskap.nof.no
 medtronicdiabetes.medtronic.com
 meerkat.stripchatgirls.com
-meerkat03.agent.datadoghq.com
 meeting.nuance.com
 meetings.gaylordhotels.com
 mega.superchatlive.com
@@ -10667,7 +10600,6 @@ mister.xhlive.cam
 mitre10.dahlsens.com.au
 mjoqcdsvptsulwr-c.adktrack34.xyz
 mkg.colfondos.co
-mkq84i4qguh3nk67.internal.pov.acceldatasolutions.net
 mkt.consultdss.com
 mkt.grupoocq.com.br
 mkt.ocq.com.br
@@ -10832,6 +10764,7 @@ ncb.strp.chat
 nd.nasdaqtech.nasdaq.com
 ndi.nuance.com
 ndt.boyfriend.show
+ne9-75stu-bj8zz81-jam.chiccams.com
 nebo.strp.chat
 ned.themarketingscience.com
 negocio.banrural.com.gt
@@ -10871,6 +10804,7 @@ news.mipcom.com
 news.mipcom.rxdev.net
 news.mipim-asia.com
 news.mipim.com
+news.mipjunior.rxdev.net
 news.mipmarkets.com
 news.miptv.com
 news.mywd.com
@@ -10890,7 +10824,9 @@ news9.myavlive.com
 newsan-ads.vidaahub.com
 newsflash.elliemae.com
 newsgroupdialog.spankbanglive.com
+newsletter.dolce-gusto.ch
 newsletter.euromaster-neumaticos.es
+newsletter.kpmg.co.il
 newsletter.standardandpoors.com
 newsletters.bancsabadell.com
 newsweek.share.ntv.io
@@ -10979,6 +10915,7 @@ now.catersource.com
 now.cummins.com
 now.fintechfutures.com
 now.greenbuildexpo.com
+now.informaconnect01.com
 now.informamail01.com
 now.informamail03.com
 now.informamail04.com
@@ -11040,13 +10977,13 @@ oip.xhlive.cam
 oj2dzpoptmhlq3s-p.adkoffer.fr
 okaqjlxrq0xnwpn-c.adkclicker.fr
 okaqjlxrq0xnwpn-p.adkclicker.fr
+okcblue.thunderinsider.com
 okifstpenuyakzb-c.adkoffer.fr
 oktatas.stripchat.global
 okto1.spsglobal.com
 old2.chiccams.com
 oljr5uawdfifsjc-p.unenoteunjour.fr
 olohg9e3agmambs-p.adktrack30.xyz
-olympusca.collect.igodigital.com
 olympusimagingamericainc.collect.igodigital.com
 omega2.xhlive.org
 oncall.camsplanetlive.com
@@ -11275,7 +11212,6 @@ parsons.sexfortokens.com
 partenaireslld.temsys.fr
 partner.versemedia.net
 partners.redbull.racing
-partners.seek.intel.com
 partnersuccess.cisco.com
 partnersuccessmetrics.cisco.com
 partnerwith.us.streetbond.com
@@ -11289,9 +11225,7 @@ pc-216.stripchatgirls.com
 pc-3.shemale.show
 pc-32.stripchats.io
 pc-53.stripchat.webcam
-pc011-8abqa.ads.tremorhub.com
 pc031-edgup.ads.tremorhub.com
-pc051-k4snh.ads.tremorhub.com
 pc063.stripchat.webcam
 pc083-aipdx.ads.tremorhub.com
 pc113.tklivechat.com
@@ -11307,7 +11241,6 @@ pd2.superchatlive.com
 pd8xafexjhuwzy4-p.adkoffer.fr
 pec8invbfzzrucp-p.unenoteunjour.fr
 perryellis.collect.igodigital.com
-pesfidl36j4ftpx-p.adktrack34.xyz
 pesquisas.lp.deloittecomunicacao.com.br
 petcha.share.ntv.io
 pezoh8d4xr3vlkw-p.adktrack44.xyz
@@ -11361,7 +11294,6 @@ pl.xham.live
 pl.xhlive.cam
 pl.xhlive.net
 pl.xhlive.org
-plan.seek.intel.com
 planer.shemale.show
 planete.chiccams.com
 plausibleanalytics.eurofins.com
@@ -11445,7 +11377,6 @@ pressdemocrat.share.ntv.io
 preunis.usj.es
 preview.fi-institutional.co.uk
 preview.fi-institutional.com.au
-prhnd1gb4kgtsqx-c.adkoffer.fr
 principal.strp.chat
 private.internal.amadeus.com
 probity.stripchats.io
@@ -11528,6 +11459,7 @@ pt.tklivechat.com
 pt.xham.live
 pt.xhamsterlive.info
 pt.xhlive.cam
+pt.xhlive.net
 pt.xhlive.org
 pt8.superchatlive.com
 pt9.freestrip.chat
@@ -11625,6 +11557,7 @@ read.telecoms.com
 ready.curriculumassociates.com
 reagents.acspubs.org
 realeducation.kangan.edu.au
+realtors.eq.delwebb.com
 recife.stripchat.webcam
 recommander.quickbooks.ca
 recruit.go.apprenticeshipcommunity.com.au
@@ -11827,6 +11760,7 @@ refer.lemonaidhealth.com
 refer.lendingclub.com
 refer.lendly.com
 refer.lenscrafters.com
+refer.lighthousecu.org
 refer.lightstream.com
 refer.littlepassports.com
 refer.lmcu.org
@@ -12038,6 +11972,7 @@ register.compellent.com
 register.dnv.com
 register.harley-davidson.com
 register.markit.com
+register.purina.com
 register.redhat.com
 registration.promatis.com
 registro.omegacrmconsulting.com
@@ -12091,19 +12026,22 @@ response.desjardins.com
 response.emirateswoman.com
 response.emoneyadvisor.com
 response.ez-dock.com
+response.fastaff.com
 response.fintechconnect.com
 response.germany.sonosite.com
-response.hcltech.com
 response.idt.com
 response.informamarketsasia.com
+response.ingrammicrocloud.com
 response.iqpc.com
 response.jeevessivarajah.com
 response.kadient.com
 response.leadingauthorities.com
 response.littletikescommercial.com
 response.miracle-recreation.com
+response.nofault.com
 response.operative.com
 response.playpower.com
+response.playworld.com
 response.polycom.com
 response.quest.com
 response.retailchoice.com
@@ -12185,7 +12123,6 @@ roller.strp.chat
 ronny.camsplanetlive.com
 router-30.superchatlive.com
 router-onramp.strp.chat
-rpafudcksewcbbpr.agent.datadoghq.com
 rpfmo5wu2asulxz-p.adkplan.fr
 rpt-ads.vidaahub.com
 rqggqazvemc93sd-c.adktrack34.xyz
@@ -12275,6 +12212,7 @@ s1782711468.sc.origins.en25.com
 s1885709864.sc.origins.en25.com
 s18yxnmr6tlz0kw-p.adktrack30.xyz
 s2013560044.sc.origins.en25.com
+s205119.aon.com
 s208.xhlive.cam
 s2448.sc.origins.en25.com
 s2564.sc.origins.en25.com
@@ -12309,6 +12247,7 @@ save.accesspay.com.au
 save.smartsalary.com.au
 saveur.share.ntv.io
 sbc1.stripchat.global
+sbx.daimlertruck.com
 sby.xham.live
 scan-potenciales.beedigital.es
 scgi.superchatlive.com
@@ -12366,6 +12305,7 @@ securecookies.dustinhome.fi
 securecookies.dustinhome.nl
 securecookies.dustinhome.no
 securecookies.dustinhome.se
+securecookiesdustininfo.dustin.com
 securecookiesdustininfo.dustin.dk
 securecookiesdustininfo.dustin.fi
 securecookiesdustininfo.dustin.nl
@@ -12392,7 +12332,9 @@ secureforms.sortingcodes.co.uk
 secureforms.xperthr.co.uk
 secureforms.xperthr.com
 secureforms.xperthr.nl
+secureimap.omg.adult
 secureinfo.edc.ca
+securepop.omg.adult
 securetracking.eaton.com
 securetracking.golfpride.com
 securityintelligence.verint.com
@@ -12438,6 +12380,7 @@ share.alltrucu.org
 share.anatomie.com
 share.aplaceformom.com
 share.app.com
+share.area15.com
 share.ashleyhomestore.ca
 share.asics.com
 share.asurion.com
@@ -12767,6 +12710,7 @@ sip.vc.xhlive.cam
 site.att.com
 site.comunicaciones.iesa.es
 site.connect.mydrreddys.com
+site.cx.anb.com.sa
 site.firstnet.com
 site.infosysbpm.com
 site.tdk.cn
@@ -12787,7 +12731,9 @@ sk.mycamtv.com
 sk.nsfwlivechat.com
 sk.omg.adult
 sk.shemale.show
+sk.stripchat.global
 sk.xham.live
+sk.xhlive.net
 sk30dhjuqrsime2-p.recettedubonheur.fr
 skc.omg.adult
 slacker.omg.adult
@@ -12843,7 +12789,6 @@ snowplowcollector.kry.pet
 social.fabkids.com
 social.forddirectdealers.com
 sociology.stripchat.webcam
-software.seek.intel.com
 solicitud.pacifico.com.pe
 solution.agc-chemicals.com
 solution.resonac.com
@@ -12855,6 +12800,7 @@ solutions.diperk.co.uk
 solutions.equifax.co.uk
 solutions.fusedequipment.com
 solutions.lseg.com
+solutions.nuance.com
 solutions.oppd.com
 solutions.peco-energy.com
 solutions.prevost.eu
@@ -12933,6 +12879,7 @@ srv988.chiccams.com
 srvh1.xhlive.org
 ssdc.stripchat.webcam
 ssl.strip-chat.club
+ssmile.dentsplysirona.com
 st.azcardinals.com
 staff1.chiccams.com
 stage2.stripchat.global
@@ -13083,6 +13030,7 @@ sv.sexfortokens.com
 sv.sexygirlspics.live
 sv.shemale.show
 sv.spankbanglive.com
+sv.strip-chat.club
 sv.stripchat.beeg.com
 sv.stripchat.global
 sv.stripchatgirls.com
@@ -13402,6 +13350,7 @@ t.utahstateaggies.com
 t.utahutes.com
 t.uticacomets.com
 t.utrockets.com
+t.uvmathletics.com
 t.vcuathletics.com
 t.vetnet.fi
 t.villanova.com
@@ -13415,6 +13364,7 @@ t.xtreamarena.com
 t3fuzhl7q0ehc9f-p.linkomo.fr
 ta7frlibmj5v8mx-c.adkoffre.fr
 tacacs2.stripchat.webcam
+takecontrol.allergyinsider.com
 talent-stage.intuit.com
 talent.aonunited.com
 talenteq.intuit.com
@@ -13444,7 +13394,6 @@ techgifts.tradeshow.globalsources.com
 technology.informaengage.com
 technologyservices.equifax.com
 technologyservices.inform.equifax.com
-techprovider.intel.com
 techsupport.balluff.com
 teefiksummin.visma.fi
 teho.visma.fi
@@ -13646,6 +13595,7 @@ track.info.mmm-online.com
 track.info.neurologyadvisor.com
 track.info.oncologynurseadvisor.com
 track.info.ophthalmologyadvisor.com
+track.info.optometryadvisor.com
 track.info.prweekus.com
 track.info.psychiatryadvisor.com
 track.info.pulmonologyadvisor.com
@@ -13656,6 +13606,7 @@ track.info.thecardiologyadvisor.com
 track.info.thepmd.com
 track.internationalopenweek.ac.nz
 track.into-giving.com
+track.intoglobal.com
 track.intostudy.com
 track.invtrusts.co.uk
 track.lancaster-isc.com
@@ -13796,7 +13747,6 @@ tracking.campaigns.drax.com
 tracking.campaigns.opusenergy.com
 tracking.capitalbank.jo
 tracking.capterra.com
-tracking.carbonatixaudio.com
 tracking.care.essentiahealth.org
 tracking.care.muschealth.org
 tracking.care.salinasvalleyhealth.com
@@ -13846,6 +13796,7 @@ tracking.dr-8.com
 tracking.drreddys.com
 tracking.dunnhumby.com
 tracking.durathermwindow.com
+tracking.dz.janssenmedicalcloud.me
 tracking.e.pepsicopartners.com
 tracking.eaglestrategies.com
 tracking.edb.gov.sg
@@ -13907,7 +13858,6 @@ tracking.groupamana.com
 tracking.guidehouse.com
 tracking.handlesets.com
 tracking.hardoxwearparts.com
-tracking.hcltech.com
 tracking.health.bilh.org
 tracking.health.bjc.org
 tracking.health.lexmed.com
@@ -14186,6 +14136,7 @@ tracking.thiomucase.es
 tracking.thomsonreuters.com
 tracking.ti.com
 tracking.ti.com.cn
+tracking.tibnor.com
 tracking.tibnor.fi
 tracking.tibnor.se
 tracking.tij.co.jp
@@ -14209,6 +14160,7 @@ tracking.veritas.com
 tracking.vertiv.com
 tracking.vertivco.com
 tracking.virginmediao2business.co.uk
+tracking.virtus.com
 tracking.visma.co.uk
 tracking.visma.com
 tracking.visma.dk
@@ -14253,6 +14205,7 @@ tracking2.cigna.com
 tracking2.cigna.com.hk
 tracking2.cigna.com.tw
 tracking2.cignaglobal.com
+tracking2.cignaglobalhealth.com
 tracking2.labcorp.com
 tracking2.questdiagnostics.com
 tracking3.labcorp.com
@@ -14297,6 +14250,7 @@ travelandleisure.share.ntv.io
 traveler01.spankbanglive.com
 trc.audiencemanager.de
 trc.solution.resonac.com
+trck-connect.ais.arrow.com
 trck.accredible.com
 trck.adamembersinsuranceplans.protective.com
 trck.aktuelt.lofavor.no
@@ -14408,6 +14362,7 @@ trk.advisory.com
 trk.aeroengineconference.com
 trk.aeroenginesusa.com
 trk.afcom.com
+trk.agceuonline.com
 trk.aibusiness.com
 trk.airborn.com
 trk.aircharterguide.com
@@ -14418,6 +14373,7 @@ trk.airportdata.com
 trk.al-enterprise.com
 trk.albinpump.com
 trk.ali-cle.org
+trk.alphabet.es
 trk.altis.com.gr
 trk.americancityandcounty.com
 trk.amperecomputing.com
@@ -14486,6 +14442,7 @@ trk.cremebonjour.fi
 trk.cremebonjour.se
 trk.cremefine.dk
 trk.croma.nl
+trk.cspdailynews.com
 trk.ctsportal.ingersollrand.com
 trk.cx.motivcx.com
 trk.daimlertruck.com
@@ -14532,6 +14489,7 @@ trk.emcowheaton.com
 trk.emeadatacenter.services.global.ntt
 trk.encore-can.com
 trk.encore-mx.com
+trk.encoreglobal.com
 trk.engie-homeservices.fr
 trk.engineeringwk.com
 trk.engineleasingandfinance-europe.com
@@ -14599,6 +14557,7 @@ trk.haskel.com
 trk.hibon.com
 trk.himssconference.com
 trk.hingerose.co.uk
+trk.hoffmanandlamson.com
 trk.hppumps.com
 trk.huskerharvestdays.com
 trk.hydrovaneproducts.com
@@ -14686,6 +14645,7 @@ trk.networkcomputing.com
 trk.networkxevent.com
 trk.news.loyaltycompany.com
 trk.nojitter.com
+trk.nononutnovember.com
 trk.notify.xhamsterlive.com
 trk.notify.xlivesex.com
 trk.nrn.com
@@ -14756,6 +14716,7 @@ trk.seepex.com
 trk.send.waoo.dk
 trk.sender.cammodeling.org
 trk.sender.stripchat.global
+trk.sender.supportlivecam.com
 trk.sender.xhamsterlive.com
 trk.sender.xlivesex.com
 trk.share.healthc2u.com
@@ -15016,7 +14977,6 @@ tsserver.tklivechat.com
 tuba.strp.chat
 tutiraqaox0bhe9-p.adktrack30.xyz
 tv.totaljobs.com
-tv8k8-50x1y.ads.tremorhub.com
 tw-go.experian.com
 twxhni7sspi86jk-p.adktrack35.xyz
 txkyoj3zat1qu0i-p.adktrack37.xyz
@@ -15155,6 +15115,7 @@ vge-mktg.vodafone.com
 vi.aznudelive.com
 vi.boyfriend.show
 vi.celebjihad.live
+vi.hot-india.com
 vi.hotzcam.com
 vi.liveandsexy.cam
 vi.myavlive.com
@@ -15168,11 +15129,14 @@ vi.shemale.show
 vi.spankbanglive.com
 vi.stripchat.global
 vi.stripchatgirls.com
+vi.stripchats.global
 vi.stripchats.io
 vi.strp.chat
+vi.superchat.live
 vi.tklivechat.com
 vi.xham.live
 vi.xhlive.cam
+vi.xhlive.net
 vice.spankbanglive.com
 video.drtuberlive.com
 video.live.javmix.tv
@@ -15231,6 +15195,7 @@ vr.campirates.com
 vr.celebjihad.live
 vr.colsex.com
 vr.hot-india.com
+vr.hotzcam.com
 vr.live.javmix.tv
 vr.myavlive.com
 vr.mycamtv.com
@@ -15330,7 +15295,6 @@ webcheckout.xham.live
 webcom.chiccams.com
 webcrd.camsplanetlive.com
 webdev01.superchatlive.com
-webinar.intel.com
 webinar.ndtco.com
 webinars.att.com
 webinars.blackboard.com
@@ -15452,6 +15416,7 @@ ww.stripchatgirls.com
 ww1.celebjihad.live
 ww1.superchat.live
 ww1.superchatlive.com
+ww16.spankbanglive.com
 ww16.superchatlive.com
 ww25.superchatlive.com
 www-104.aig.com
@@ -15608,6 +15573,7 @@ www.izpyu6rgkn7fg54-p.clead.xyz
 www.ja.myavlive.com
 www.ja.shemale.show
 www.ja.stripchats.global
+www.janssenadhdmeetings.co.uk
 www.janz.viatrisconnect.com
 www.kings-email.com
 www.kmotrack.xyz
@@ -15738,7 +15704,6 @@ www.share.ntv.io
 www.shareholder-feedback.com
 www.shemale.show
 www.showtime-cams.live
-www.slckg-nugvu.ads.tremorhub.com
 www.slckg-qrmhc.ads.tremorhub.com
 www.smart46.lplnow.com
 www.smtp01.omg.adult
@@ -15773,6 +15738,7 @@ www.tr.sctestwl.com
 www.tr.xhlive.cam
 www.tracking.adp.ch
 www.tracking.adp.co.uk
+www.tracking.bnppre.fr
 www.tracking.dunnhumby.com
 www.tracking.fr.adp.com
 www.training.graduateschool.edu
@@ -15861,18 +15827,19 @@ xtl._domainkey.forgetrust.com
 xtl._domainkey.mail.propertyperks.xfinity.com
 xtl._domainkey.walmartmoneycard.com
 xtl._domainkey.zoom.us
+xtl2._domainkey.shareus.viktor-rolf.com
 xvantage.ingrammicro.com
 y0gkbv5vnciqktt-c.adkoffer.fr
 y3gptzqjos5jzw0-c.adkclicker.fr
 y3va7bytesowdkg-p.adkoffer.fr
 y60d41hfzxmkxr2-p.adkoffer.fr
+y822o.t8axah.ak2ucmc.5tt.ntc1q.boyfriend.show
 y9ifmjtnecfvckg-c.adkclicker.fr
 yarjmyulpnwzcls-p.adkoffer.fr
 yas.boyfriend.show
 yd.camsplanetlive.com
 yiwxxnqomx.boyfriend.show
 yj.xham.live
-ylfbuexykswugat-p.adkoffer.fr
 ylwj7dckaqngc3h-p.adkoffer.fr
 ymir.stripchats.io
 ymrcfe0qzank254-c.adkoffre.fr
@@ -15980,5 +15947,6 @@ zt.stripchats.io
 zt.tklivechat.com
 zt.xham.live
 zt.xhlive.cam
+zt.xhlive.net
 ztioduyhocesv0t-c.tck020.xyz
 zuq4ewnr6dvlghn-c.adktrack34.xyz

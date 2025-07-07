@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,6 +58,7 @@ go.tbllzon.com CNAME .
 go.trafficbull.com CNAME .
 go.vidspass.com CNAME .
 go.xyouxxx.com CNAME .
+go1.3mre.work CNAME .
 go1.a2ure.work CNAME .
 go1.atre.work CNAME .
 go1.bgunit.com CNAME .

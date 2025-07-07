@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -132,7 +132,6 @@ hbbtv-track.prosiebensat1puls4.com CNAME .
 img.foodspring.at CNAME .
 img.foodspring.be CNAME .
 img.foodspring.ch CNAME .
-img.foodspring.co.uk CNAME .
 img.foodspring.cz CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
@@ -211,11 +210,16 @@ scout.bergfreunde.se CNAME .
 startrekk.flaconi.at CNAME .
 startrekk.flaconi.be CNAME .
 startrekk.flaconi.ch CNAME .
+startrekk.flaconi.cz CNAME .
+startrekk.flaconi.dk CNAME .
+startrekk.flaconi.fi CNAME .
 startrekk.flaconi.fr CNAME .
 startrekk.flaconi.nl CNAME .
 startrekk.flaconi.pl CNAME .
+startrekk.flaconi.se CNAME .
 statistics.tuv.com CNAME .
 t.mediaset.it CNAME .
+t.radiomediaset.it CNAME .
 text.benefitsatwork.be CNAME .
 text.benefitsatwork.ch CNAME .
 text.benefitsatwork.com.tr CNAME .
@@ -227,6 +231,7 @@ text.rahmenvereinbarungen.de CNAME .
 tippcom01.tipp24.com CNAME .
 tr.computeruniverse.net CNAME .
 tr.suedkurier.de CNAME .
+tracking.tchibo.dk CNAME .
 trail-001.schleich-s.com CNAME .
 trk.blume2000.de CNAME .
 trk.krebsversicherung.de CNAME .

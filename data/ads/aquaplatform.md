@@ -162,6 +162,7 @@
 | ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
 | images.swiss-equestrian.ch | artionet-static.aquaplatform.com |
 | images.worldofshowjumping.com | artionet-static.aquaplatform.com |
+| www.images.fnch.ch | artionet-static.aquaplatform.com |
 | adconsole.lot-tissimo.com | atg-console.aquaplatform.com |
 | ads.lot-tissimo.com | atg-delivery.aquaplatform.com |
 | static.lot-tissimo.com | atg-static.aquaplatform.com |
@@ -298,6 +299,7 @@
 | static.everythingcolorado.com | oneboat-static.aquaplatform.com |
 | static.everythingnevada.com | oneboat-static.aquaplatform.com |
 | static.imagineobx.com | oneboat-static.aquaplatform.com |
+| static.tahoe.com | oneboat-static.aquaplatform.com |
 | www.static.everythingnevada.com | oneboat-static.aquaplatform.com |
 | www.static.imagineobx.com | oneboat-static.aquaplatform.com |
 | www.static.tahoe.com | oneboat-static.aquaplatform.com |
@@ -411,6 +413,7 @@
 | ads-static.recon.com | t101-static.aquaplatform.com |
 | console.trackandfieldnews.com | tfn-console.aquaplatform.com |
 | servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
+| www.servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | static.trackandfieldnews.com | tfn-static.aquaplatform.com |
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
 | cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |

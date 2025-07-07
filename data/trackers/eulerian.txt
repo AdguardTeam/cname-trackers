@@ -7,6 +7,7 @@
 ||2efj.economies.cheque-dejeuner.com^
 ||2efj.up.coop^
 ||3esm.consubebe.es^
+||5fm.985fm.ca^
 ||66jo.societegenerale.fr^
 ||6pal.consobaby.com^
 ||6swu.cpa-france.org^
@@ -49,6 +50,7 @@
 ||ar.i-run.fr^
 ||axb4.vivabox.it^
 ||azg1.emalu-store.com^
+||b1n.carabins.umontreal.ca^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -60,7 +62,6 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
-||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
 ||cbl6.destinia.gt^
@@ -178,6 +179,7 @@
 ||ea.voyage-prive.es^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
+||eat9.thebeat925.ca^
 ||eb.mistermenuiserie.com^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -273,7 +275,6 @@
 ||jo2f.cheque-cadhoc.fr^
 ||kep6.destinia.ie^
 ||kwsjy9.oui.sncf^
-||l2i.qualityinnlevis.com^
 ||lbc.lesbonscommerces.fr^
 ||leo1.leon-de-bruxelles.fr^
 ||let1.devialet.com^
@@ -312,8 +313,6 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
-||nym5c.bonlook.com^
-||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
 ||oae6.carrefour-banque.fr^
@@ -375,7 +374,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
-||rwl.tremblant.ca^
+||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sa.lesselectionsskoda.fr^
 ||sa.skoda.fr^
@@ -404,7 +403,6 @@
 ||t.locasun.nl^
 ||t.pmu.fr^
 ||t.voyages-sncf.com^
-||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tdf1.easyviaggio.com^
@@ -455,6 +453,7 @@
 ||www.dataholics.tech^
 ||www.fasttrack.fr^
 ||www.fasttracker.fr^
+||www.mis.tourisme-montreal.org^
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
 ||xoq.pmubrasil.com.br^
@@ -463,6 +462,7 @@
 ||xya4.groupefsc.com^
 ||xze5.femilet.dk^
 ||yf5.voyage-prive.at^
+||yio.tremblant.ca^
 ||yoc.younited-credit.com^
 ||ysl3.destinia.ec^
 ||yst4.muchoviaje.com^
@@ -477,11 +477,11 @@
 ||zsi7.destinia.do^
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
-||5fm.985fm.ca^
-||b1n.carabins.umontreal.ca^
 ||c0i.ckoi.com^
-||eat9.thebeat925.ca^
-||ry0.rythmefm.com^
-||www.mis.tourisme-montreal.org^
-||yio.tremblant.ca^
+||c0p.cepsum.umontreal.ca^
+||l2i.qualityinnlevis.com^
+||nym5c.bonlook.com^
+||rwl.tremblant.ca^
+||t0y.toyota.ca^
+||nym5c.laura.ca^
 ||pk1u.melanielyne.com^

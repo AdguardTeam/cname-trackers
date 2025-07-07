@@ -143,6 +143,7 @@
     * andie-swim.extole.io
     * aon.extole.io
     * aplaceformom.extole.io
+    * area15.extole.io
     * artcom.extole.io
     * ashleyfurniturehomestore.extole.io
     * ashleyhomestore.extole.io
@@ -237,7 +238,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -378,6 +378,7 @@
     * levi.extole.io
     * lgeccu.extole.io
     * lifedna.extole.io
+    * lighthousecu.extole.io
     * lightstream.extole.io
     * little-passports.extole.io
     * livongo.extole.io
@@ -474,7 +475,6 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -547,6 +547,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -582,6 +583,7 @@
     * vcu.extole.io
     * verizon.extole.io
     * viktor-rolf.extole.io
+    * viktor-rolf.xtl2.extole.io
     * virginvoyages.extole.io
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
@@ -599,7 +601,6 @@
     * wolverine.extole.io
     * wombat.extole.io
     * wrangler.extole.io
-    * xfinity.em.extole.io
     * xfinity.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
@@ -655,6 +656,7 @@
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
 | refer.app.com | app.extole.com |
+| share.area15.com | area15.extole.io |
 | refer.art.com | artcom.extole.io |
 | refer.ashleyfurniture.com | ashleyfurniturehomestore.extole.io |
 | refer.ashleyfurniturehomestore.com | ashleyfurniturehomestore.extole.io |
@@ -793,7 +795,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -1053,6 +1054,7 @@
 | share.s4.levi-site.com | levi.extole.io |
 | referral.lgeccu.org | lgeccu.extole.io |
 | share.lifedna.com | lifedna.extole.io |
+| refer.lighthousecu.org | lighthousecu.extole.io |
 | refer.lightstream.com | lightstream.extole.io |
 | refer.littlepassports.com | little-passports.extole.io |
 | share.livongo.com | livongo.extole.io |
@@ -1198,7 +1200,6 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1296,6 +1297,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1360,6 +1362,7 @@
 | refer.verabradley.com | verabradley.extole.com |
 | referabusiness.verizon.com | verizon.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |
+| xtl2._domainkey.shareus.viktor-rolf.com | viktor-rolf.xtl2.extole.io |
 | share.vimeo.com | vimeo.extole.com |
 | share.virginvoyages.com | virginvoyages.extole.io |
 | referral.vistaprint.com | vistaprint-ssl.extole.com |
@@ -1387,7 +1390,6 @@
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
-| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |

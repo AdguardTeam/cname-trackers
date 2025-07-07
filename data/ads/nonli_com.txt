@@ -61,6 +61,8 @@
 ||l.cuisineactuelle.fr^
 ||l.dailysports.fr^
 ||l.diapasonmag.fr^
+||l.directoalpaladar.com^
+||l.directoalpaladar.com.mx^
 ||l.diverto.tv^
 ||l.dna.fr^
 ||l.doctissimo.fr^
@@ -114,6 +116,7 @@
 ||l.jeuneafrique.com^
 ||l.jeuxvideo.com^
 ||l.journaldemillau.fr^
+||l.journaldesfemmes.fr^
 ||l.koolmag.fr^
 ||l.la-croix.com^
 ||l.lacremedugaming.fr^
@@ -194,12 +197,14 @@
 ||l.radiofrance.fr^
 ||l.reporterre.net^
 ||l.republicain-lorrain.fr^
+||l.revue21.fr^
 ||l.rmc.fr^
 ||l.rmcsport.fr^
 ||l.roole.fr^
 ||l.rtl.fr^
 ||l.science-et-vie.com^
 ||l.sciencesetavenir.fr^
+||l.sensacine.com.mx^
 ||l.sportauto.fr^
 ||l.sports.fr^
 ||l.sudinfo.be^
@@ -221,6 +226,8 @@
 ||l.voici.fr^
 ||l.vosgesmatin.fr^
 ||l.whatsupdoc-lemag.fr^
+||l.xataka.com^
+||l.xataka.com.mx^
 ||l.zdnet.fr^
 ||mail10.h24.news^
 ||mail11.h24.news^

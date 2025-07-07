@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -234,6 +234,7 @@ static.proxibid.com CNAME .
 static.quirks.com CNAME .
 static.schrotundkorn.de CNAME .
 static.sonicplug.com CNAME .
+static.tahoe.com CNAME .
 static.the-saleroom.com CNAME .
 static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
@@ -271,6 +272,7 @@ www.coreads.cambridge.org CNAME .
 www.creatives.goldseek.com CNAME .
 www.directdisplaymarketing.com CNAME .
 www.display.lawbulletin.com CNAME .
+www.images.fnch.ch CNAME .
 www.images.hour-media.com CNAME .
 www.images.informatm.com CNAME .
 www.lalala.geenstijl.nl CNAME .
@@ -286,6 +288,7 @@ www.servedby.miningweekly.com CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.sacommunications.com CNAME .
 www.servedby.schrotundkorn.de CNAME .
+www.servedby.trackandfieldnews.com CNAME .
 www.static.ad.logic-test.viasat.io CNAME .
 www.static.engineeringnews.co.za CNAME .
 www.static.everythingnevada.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -76,6 +76,7 @@ novi.webnovi.eu CNAME .
 pageviews.unbegames.com CNAME .
 ping.irisphotos.app CNAME .
 pixel.embed.su CNAME .
+science.ygoprint.org CNAME .
 st.mapleranks.com CNAME .
 statistic.elkobraas.com CNAME .
 stats-ruzickap-github-io.ruzicka.dev CNAME .
@@ -94,7 +95,6 @@ stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .
 stats.brendanhanke.com CNAME .
-stats.cafenoirka.de CNAME .
 stats.cassie.omg.lol CNAME .
 stats.celerry.com CNAME .
 stats.certidiritti.org CNAME .
@@ -147,7 +147,6 @@ stats.rocketgoboom.lol CNAME .
 stats.ryanchmelir.com CNAME .
 stats.sebastianzehner.com CNAME .
 stats.semipol.de CNAME .
-stats.sharukhi.xyz CNAME .
 stats.sofianlak.fr CNAME .
 stats.svc.lol CNAME .
 stats.szorty.space CNAME .

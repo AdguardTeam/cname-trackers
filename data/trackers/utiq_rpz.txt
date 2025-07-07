@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -167,6 +167,7 @@ utiq.fr.de CNAME .
 utiq.frandroid.com CNAME .
 utiq.fuehrerscheintest-online.de CNAME .
 utiq.funandnews.de CNAME .
+utiq.funradio.fr CNAME .
 utiq.futurezone.de CNAME .
 utiq.gala.fr CNAME .
 utiq.gamekult.com CNAME .
@@ -352,6 +353,8 @@ utiq.renew.auto CNAME .
 utiq.rireetchansons.fr CNAME .
 utiq.rmcbfmplay.com CNAME .
 utiq.rtl.de CNAME .
+utiq.rtl.fr CNAME .
+utiq.rtl2.fr CNAME .
 utiq.rugbyrama.fr CNAME .
 utiq.sabervivirtv.com CNAME .
 utiq.salamancahoy.es CNAME .
@@ -369,7 +372,6 @@ utiq.spektrum.de CNAME .
 utiq.spiegel.de CNAME .
 utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
-utiq.sportlerfrage.net CNAME .
 utiq.sports.fr CNAME .
 utiq.staging--hb.hmg.systems CNAME .
 utiq.staging--wiwo.hmg.systems CNAME .
@@ -412,6 +414,7 @@ utiq.utest3.work CNAME .
 utiq.utopia.de CNAME .
 utiq.varmatin.com CNAME .
 utiq.verisure.fr CNAME .
+utiq.viaggiamo.it CNAME .
 utiq.vidaextra.com CNAME .
 utiq.vitonica.com CNAME .
 utiq.voici.fr CNAME .

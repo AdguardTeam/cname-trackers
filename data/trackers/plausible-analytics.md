@@ -112,6 +112,7 @@
 | momotaro.craigmod.com | custom.plausible.io |
 | momotaro.walkkumano.com | custom.plausible.io |
 | munnin.hicsuntdra.co | custom.plausible.io |
+| numbers.coolconfetti.com | custom.plausible.io |
 | numbers.monthlyphotos.com | custom.plausible.io |
 | nums.upscale.app | custom.plausible.io |
 | p.classroombookings.com | custom.plausible.io |
@@ -341,7 +342,6 @@
 | stats.bcdtravel.com | custom.plausible.io |
 | stats.beanr.coffee | custom.plausible.io |
 | stats.beatricew.com | custom.plausible.io |
-| stats.beausimensen.com | custom.plausible.io |
 | stats.bedler.dk | custom.plausible.io |
 | stats.belic.si | custom.plausible.io |
 | stats.benui.ca | custom.plausible.io |
@@ -469,7 +469,6 @@
 | stats.faluninfo.si | custom.plausible.io |
 | stats.fastbackward.app | custom.plausible.io |
 | stats.felipesere.com | custom.plausible.io |
-| stats.femtobill.com | custom.plausible.io |
 | stats.ferienwohnung-dombrowski.com | custom.plausible.io |
 | stats.filejuggler.com | custom.plausible.io |
 | stats.finalrabiesgeneration.org | custom.plausible.io |
@@ -577,7 +576,6 @@
 | stats.lastfm.matthiasloibl.com | custom.plausible.io |
 | stats.latehours.net | custom.plausible.io |
 | stats.lauracpa.ca | custom.plausible.io |
-| stats.laxallstars.com | custom.plausible.io |
 | stats.leaguestats.gg | custom.plausible.io |
 | stats.leahcollection.com | custom.plausible.io |
 | stats.learnlinux.tv | custom.plausible.io |
@@ -642,7 +640,6 @@
 | stats.nodewood.com | custom.plausible.io |
 | stats.noeticflow.com | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
-| stats.nothingbutnylon.com | custom.plausible.io |
 | stats.ntietz.com | custom.plausible.io |
 | stats.nullsecure.com | custom.plausible.io |
 | stats.nytecomics.com | custom.plausible.io |
@@ -712,7 +709,6 @@
 | stats.rasulkireev.com | custom.plausible.io |
 | stats.reactician.com | custom.plausible.io |
 | stats.readng.co | custom.plausible.io |
-| stats.redlabelsports.com | custom.plausible.io |
 | stats.referralhero.com | custom.plausible.io |
 | stats.rehaag-immobilien.de | custom.plausible.io |
 | stats.reisemobil.pro | custom.plausible.io |

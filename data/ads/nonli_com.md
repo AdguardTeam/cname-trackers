@@ -111,6 +111,8 @@
 | l.cuisineactuelle.fr | tls.non.li |
 | l.dailysports.fr | tls.non.li |
 | l.diapasonmag.fr | tls.non.li |
+| l.directoalpaladar.com | tls.non.li |
+| l.directoalpaladar.com.mx | tls.non.li |
 | l.diverto.tv | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
 | l.dzfoot.com | tls.non.li |
@@ -161,6 +163,7 @@
 | l.jeuneafrique.com | tls.non.li |
 | l.jeuxvideo.com | tls.non.li |
 | l.journaldemillau.fr | tls.non.li |
+| l.journaldesfemmes.fr | tls.non.li |
 | l.koolmag.fr | tls.non.li |
 | l.la-croix.com | tls.non.li |
 | l.lacremedugaming.fr | tls.non.li |
@@ -231,12 +234,14 @@
 | l.quinzemondial.com | tls.non.li |
 | l.radiofrance.fr | tls.non.li |
 | l.reporterre.net | tls.non.li |
+| l.revue21.fr | tls.non.li |
 | l.rmc.fr | tls.non.li |
 | l.rmcsport.fr | tls.non.li |
 | l.roole.fr | tls.non.li |
 | l.rtl.fr | tls.non.li |
 | l.science-et-vie.com | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
+| l.sensacine.com.mx | tls.non.li |
 | l.sportauto.fr | tls.non.li |
 | l.sports.fr | tls.non.li |
 | l.sudinfo.be | tls.non.li |
@@ -255,6 +260,8 @@
 | l.uppercutmma.com | tls.non.li |
 | l.voici.fr | tls.non.li |
 | l.whatsupdoc-lemag.fr | tls.non.li |
+| l.xataka.com | tls.non.li |
+| l.xataka.com.mx | tls.non.li |
 | l.zdnet.fr | tls.non.li |
 | mail10.h24.news | tls.non.li |
 | mail11.h24.news | tls.non.li |

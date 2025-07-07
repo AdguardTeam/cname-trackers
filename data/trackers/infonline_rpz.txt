@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,6 +49,7 @@ data-03dc2421cd.sup-mag.de CNAME .
 data-03dc2421cd.surf-magazin.de CNAME .
 data-0420d605d9.90min.de CNAME .
 data-0420d605d9.ligainsider.de CNAME .
+data-0420d605d9.p7s1.io CNAME .
 data-0420d605d9.ran.de CNAME .
 data-043610b415.erft-kurier.de CNAME .
 data-043610b415.fupa.net CNAME .
@@ -152,6 +153,7 @@ data-11eb4b2a24.deutsche-startups.de CNAME .
 data-12025f91cc.uibk.ac.at CNAME .
 data-1203b7acd3.mopo.de CNAME .
 data-125f69cccb.eppelheim.de CNAME .
+data-1261bd4848.logistik-heute.de CNAME .
 data-12b92dc35b.wetter.de CNAME .
 data-12c31c7daf.das-onlinespiel.de CNAME .
 data-12cf56a65f.apps.iocnt.de CNAME .
@@ -1108,6 +1110,7 @@ data-7fa3547eed.atv2.at CNAME .
 data-7fb07b8d65.tab.de CNAME .
 data-7fbde6a274.ticket24.at CNAME .
 data-804560170e.leichtathletik.de CNAME .
+data-8059fc7d1b.apps.iocnt.de CNAME .
 data-8062208042.apps.iocnt.de CNAME .
 data-80b614ee0f.apps.iocnt.de CNAME .
 data-80d2d17df3.berchtesgadener-anzeiger.de CNAME .
@@ -1196,6 +1199,7 @@ data-8629f7a423.4players.de CNAME .
 data-86943486de.laendleauto.at CNAME .
 data-86d2aee9fa.jetzt.de CNAME .
 data-86d2aee9fa.sueddeutsche.de CNAME .
+data-874bc83598.apps.iocnt.de CNAME .
 data-87563bd275.apps.iocnt.de CNAME .
 data-8793ca6c7d.rpr1.de CNAME .
 data-8793ca6c7d.vereinsleben.de CNAME .
@@ -2308,6 +2312,7 @@ data-fb37a1e7c3.kornwestheimer-zeitung.de CNAME .
 data-fb37a1e7c3.kurier.de CNAME .
 data-fb37a1e7c3.lahrer-zeitung.de CNAME .
 data-fb37a1e7c3.leonberger-kreiszeitung.de CNAME .
+data-fb37a1e7c3.marbacher-zeitung.de CNAME .
 data-fb37a1e7c3.mhsdigital.de CNAME .
 data-fb37a1e7c3.np-coburg.de CNAME .
 data-fb37a1e7c3.schwarzwaelder-bote.de CNAME .

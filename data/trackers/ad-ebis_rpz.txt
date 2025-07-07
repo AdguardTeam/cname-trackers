@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -261,7 +261,6 @@ ebis.microdiet.promo CNAME .
 ebis.mucuna.co.jp CNAME .
 ebis.n-pri.jp CNAME .
 ebis.nomu-silica.jp CNAME .
-ebis.okasan-online.co.jp CNAME .
 ebis.onamae.com CNAME .
 ebis.palclair.jp CNAME .
 ebis.rabo.cat CNAME .

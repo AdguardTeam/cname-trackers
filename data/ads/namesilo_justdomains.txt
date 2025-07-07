@@ -711,6 +711,7 @@
 3607715.notify6.com
 3607715.notifysrv.com
 3608083.notifysrv.com
+3608091.notifysrv.com
 3608417.notifysrv.com
 3613079.notify6.com
 3613299.notifysrv.com
@@ -990,6 +991,7 @@
 4080560.notify6.com
 4080606.notify6.com
 4080872.notify6.com
+4083174.notify6.com
 4086498.notify6.com
 4093684.notify6.com
 4093690.notify6.com
@@ -1234,17 +1236,15 @@
 993.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
+a.18ramp.com
 a.adsession.com
 a.advantageclicks.net
-a.allureanews.com
-a.asvsm.com
+a.advertrek.com
 a.b2bstars.com
 a.b7q9v8z.com
-a.bizonads-ssp.com
 a.cant3am.com
 a.eunow4u.com
 a.golhofer.com
-a.huklop.com
 a.ma3ion.com
 a.mx.notifysrv.com
 a.n4m5x60.com
@@ -1252,7 +1252,6 @@ a.ns.notifysrv.com
 a.optimizesrv.com
 a.playa.to
 a.q88z1s3.com
-a.r8lnet.com
 a.rocoads.net
 a.tf4srv.com
 a.traffic-gold.com
@@ -1276,6 +1275,7 @@ admin1.notifysrv.com
 administration.notifysrv.com
 admissions.notifysrv.com
 adrepository.opoxv.com
+ads.optimizesrv.com
 ads.toroadvertising.com
 adult.notifysrv.com
 android.notifysrv.com
@@ -1330,8 +1330,6 @@ kiev.notifysrv.com
 kwi18ah9r60yjb70.notify6.com
 law.notifysrv.com
 m.hue2b.com
-m.hue2n.com
-m.hue4c.com
 m.optidigital.com
 mail17.notifysrv.com
 main.exdynsrv.com
@@ -1381,6 +1379,8 @@ s.ds6n6c.com
 s.ds6ulg.com
 s.ds7eji.com
 s.ds7khy.com
+s.ds7o2i.com
+s.ds8ect.com
 s.ds8wql.com
 s.dsa9k5.com
 s.dsau5u.com
@@ -1674,9 +1674,11 @@ www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
-a.18ramp.com
-a.advertrek.com
+a.allureanews.com
+a.asvsm.com
+a.bizonads-ssp.com
 a.etology.com
+a.huklop.com
 a.ouzads.com
+a.r8lnet.com
 a.santabrowser.com
-ads.optimizesrv.com

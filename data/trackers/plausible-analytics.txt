@@ -100,6 +100,7 @@
 ||momotaro.craigmod.com^
 ||momotaro.walkkumano.com^
 ||munnin.hicsuntdra.co^
+||numbers.coolconfetti.com^
 ||numbers.monthlyphotos.com^
 ||nums.upscale.app^
 ||p.classroombookings.com^
@@ -329,7 +330,6 @@
 ||stats.bcdtravel.com^
 ||stats.beanr.coffee^
 ||stats.beatricew.com^
-||stats.beausimensen.com^
 ||stats.bedler.dk^
 ||stats.belic.si^
 ||stats.benui.ca^
@@ -457,7 +457,6 @@
 ||stats.faluninfo.si^
 ||stats.fastbackward.app^
 ||stats.felipesere.com^
-||stats.femtobill.com^
 ||stats.ferienwohnung-dombrowski.com^
 ||stats.filejuggler.com^
 ||stats.finalrabiesgeneration.org^
@@ -565,7 +564,6 @@
 ||stats.lastfm.matthiasloibl.com^
 ||stats.latehours.net^
 ||stats.lauracpa.ca^
-||stats.laxallstars.com^
 ||stats.leaguestats.gg^
 ||stats.leahcollection.com^
 ||stats.learnlinux.tv^
@@ -630,7 +628,6 @@
 ||stats.nodewood.com^
 ||stats.noeticflow.com^
 ||stats.nonprofit.foundation^
-||stats.nothingbutnylon.com^
 ||stats.ntietz.com^
 ||stats.nullsecure.com^
 ||stats.nytecomics.com^
@@ -700,7 +697,6 @@
 ||stats.rasulkireev.com^
 ||stats.reactician.com^
 ||stats.readng.co^
-||stats.redlabelsports.com^
 ||stats.referralhero.com^
 ||stats.rehaag-immobilien.de^
 ||stats.reisemobil.pro^

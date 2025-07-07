@@ -65,6 +65,7 @@ novi.webnovi.eu
 pageviews.unbegames.com
 ping.irisphotos.app
 pixel.embed.su
+science.ygoprint.org
 st.mapleranks.com
 statistic.elkobraas.com
 stats-ruzickap-github-io.ruzicka.dev
@@ -83,7 +84,6 @@ stats.boredkevin.com
 stats.boringproxy.io
 stats.brandontoner.ca
 stats.brendanhanke.com
-stats.cafenoirka.de
 stats.cassie.omg.lol
 stats.celerry.com
 stats.certidiritti.org
@@ -136,7 +136,6 @@ stats.rocketgoboom.lol
 stats.ryanchmelir.com
 stats.sebastianzehner.com
 stats.semipol.de
-stats.sharukhi.xyz
 stats.sofianlak.fr
 stats.svc.lol
 stats.szorty.space

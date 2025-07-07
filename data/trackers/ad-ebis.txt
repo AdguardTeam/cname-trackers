@@ -250,7 +250,6 @@
 ||ebis.mucuna.co.jp^
 ||ebis.n-pri.jp^
 ||ebis.nomu-silica.jp^
-||ebis.okasan-online.co.jp^
 ||ebis.onamae.com^
 ||ebis.palclair.jp^
 ||ebis.rabo.cat^

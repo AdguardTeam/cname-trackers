@@ -305,7 +305,6 @@
     * d473741d-bagmsfc6.cname.ebis.ne.jp
     * d4aca7c0-gwd6au9d.cname.ebis.ne.jp
     * d5c4f5e5-6hhs63nr.cname.ebis.ne.jp
-    * d64474bb-20mouroy.cname.ebis.ne.jp
     * d8339690-vcthc6ig.cname.ebis.ne.jp
     * d840db74-fbw7r35c.cname.ebis.ne.jp
     * d8891d4f-5qfabvkt.cname.ebis.ne.jp
@@ -654,7 +653,6 @@
 | adebis.real-style.co.jp | d473741d-bagmsfc6.cname.ebis.ne.jp |
 | adpromo.peppynet.com | d4aca7c0-gwd6au9d.cname.ebis.ne.jp |
 | p5mcwdbu.ginzo-buy.jp | d5c4f5e5-6hhs63nr.cname.ebis.ne.jp |
-| ebis.okasan-online.co.jp | d64474bb-20mouroy.cname.ebis.ne.jp |
 | ebis.3838.com | d8339690-vcthc6ig.cname.ebis.ne.jp |
 | adebis.yourbread.jp | d840db74-fbw7r35c.cname.ebis.ne.jp |
 | ebis.n-pri.jp | d8891d4f-5qfabvkt.cname.ebis.ne.jp |

@@ -320,6 +320,7 @@
 | tr.crm.intersportbypitte.com | tracking.bp01.net |
 | tr.crtl.espmp-aufr.net | tracking.bp01.net |
 | tr.customer-solutions.np6.com | tracking.bp01.net |
+| tr.customersurvey.geodis.com | tracking.bp01.net |
 | tr.cyberarchi.info | tracking.bp01.net |
 | tr.cyprusparadiseestates.com | tracking.bp01.net |
 | tr.cypruspremiervacations.com | tracking.bp01.net |
@@ -447,7 +448,6 @@
 | tr.espmp-agfr.net | tracking.bp01.net |
 | tr.estatesandwines.moethennessy.com | tracking.bp01.net |
 | tr.etravauxpro.fr | tracking.bp01.net |
-| tr.etude.sncd.org | tracking.bp01.net |
 | tr.eulerhermes.com | tracking.bp01.net |
 | tr.europe.moethennessy.com | tracking.bp01.net |
 | tr.ev001.net | tracking.bp01.net |
@@ -480,9 +480,11 @@
 | tr.gestion.hondafinancialservices.fr | tracking.bp01.net |
 | tr.gestion.lexpress.fr | tracking.bp01.net |
 | tr.gestion.liberation.fr | tracking.bp01.net |
+| tr.gestion.loisirs-finance.fr | tracking.bp01.net |
 | tr.gestion.norrsken.fr | tracking.bp01.net |
 | tr.gestion.sygmabnpparibas-pf.com | tracking.bp01.net |
 | tr.global-insights.moethennessy.com | tracking.bp01.net |
+| tr.globalmedia.moethennessy.com | tracking.bp01.net |
 | tr.gplus.espmp-nifr.net | tracking.bp01.net |
 | tr.grez.espmp-nifr.net | tracking.bp01.net |
 | tr.group-appointments.lvmh.fr | tracking.bp01.net |
@@ -578,6 +580,7 @@
 | tr.infolettre.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.infolettres.groupama.com | tracking.bp01.net |
 | tr.infomarche.hennessy.fr | tracking.bp01.net |
+| tr.information-clients.blackstore.fr | tracking.bp01.net |
 | tr.information-clients.intersport.fr | tracking.bp01.net |
 | tr.information.cchezvous.fr | tracking.bp01.net |
 | tr.information.fidalformations.fr | tracking.bp01.net |
@@ -709,6 +712,7 @@
 | tr.mh-connect.moethennessy.com | tracking.bp01.net |
 | tr.mhanz.moethennessy.com | tracking.bp01.net |
 | tr.mhch.moet.hennessy.com | tracking.bp01.net |
+| tr.mhchinainsights.moethennessy.com | tracking.bp01.net |
 | tr.mhdconnect.mhdfrance.fr | tracking.bp01.net |
 | tr.mhic.moethennessy.com | tracking.bp01.net |
 | tr.mhist.moethennessy.com | tracking.bp01.net |
@@ -848,7 +852,6 @@
 | tr.news.interforum.fr | tracking.bp01.net |
 | tr.news.invinoradio.tv | tracking.bp01.net |
 | tr.news.itancia.com | tracking.bp01.net |
-| tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kaptainmusic.fr | tracking.bp01.net |
 | tr.news.kpmg-avocats.fr | tracking.bp01.net |
 | tr.news.kpmg.fr | tracking.bp01.net |
@@ -1042,6 +1045,7 @@
 | tr.presupuesto-b2b.es | tracking.bp01.net |
 | tr.prevention.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
+| tr.princess.np6.com | tracking.bp01.net |
 | tr.pro-renov.be | tracking.bp01.net |
 | tr.pro.odalys-campus.com | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |

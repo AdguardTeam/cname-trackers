@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,6 +43,7 @@ media.olmiweb.com CNAME .
 media.rabbit.click CNAME .
 mondaysale.bid CNAME .
 mu.zilovaro.store CNAME .
+my.rb2psh.ru CNAME .
 my.rbpsh.ru CNAME .
 newrotatormarch23.bid CNAME .
 news.unsere-news.ru CNAME .
@@ -69,6 +70,7 @@ rbfive.bid CNAME .
 rbfour.bid CNAME .
 rbig.pcyk.ru CNAME .
 rbone.link CNAME .
+rbrotator.ru CNAME .
 rbthre.work CNAME .
 rdv.naruto-base.tv CNAME .
 real.dvanadva.ru CNAME .

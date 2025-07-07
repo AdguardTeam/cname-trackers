@@ -132,7 +132,6 @@ cmp.dieteren.be
 cmp.dieterengroup.com
 cmp.dieterenmobilitycompany.be
 cmp.microlino.be
-cmp.microlino.fr
 cmp.mijnwinterbanden.be
 cmp.myaudi.be
 cmp.myway.be
@@ -220,11 +219,9 @@ ens.bote.ch
 ens.luzernerzeitung.ch
 ens.moneyhouse.ch
 ens.nidwaldnerzeitung.ch
-ens.nzz.ch
 ens.nzzmediasolutions.ch
 ens.obwaldnerzeitung.ch
 ens.tagblatt.ch
-ens.themarket.ch
 ens.thurgauerzeitung.ch
 ens.toggenburgertagblatt.ch
 ens.trauerportal-ostschweiz.ch

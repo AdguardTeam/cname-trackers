@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -136,11 +136,9 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em5231.mail.propertyperks.xfinity.com CNAME .
+em2287.theory.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
-em7952.dailypay.com CNAME .
 em8561.go2bank.com CNAME .
-emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -314,6 +312,7 @@ refer.lemonaidhealth.com CNAME .
 refer.lendingclub.com CNAME .
 refer.lendly.com CNAME .
 refer.lenscrafters.com CNAME .
+refer.lighthousecu.org CNAME .
 refer.lightstream.com CNAME .
 refer.littlepassports.com CNAME .
 refer.lmcu.org CNAME .
@@ -478,6 +477,7 @@ share.alltrucu.org CNAME .
 share.anatomie.com CNAME .
 share.aplaceformom.com CNAME .
 share.app.com CNAME .
+share.area15.com CNAME .
 share.ashleyhomestore.ca CNAME .
 share.asics.com CNAME .
 share.asurion.com CNAME .
@@ -782,14 +782,17 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
+xtl2._domainkey.shareus.viktor-rolf.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
-em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em5231.mail.propertyperks.xfinity.com CNAME .
 em767.forgetrust.com CNAME .
+em7952.dailypay.com CNAME .
 em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
+emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl._domainkey.walmartmoneycard.com CNAME .

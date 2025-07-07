@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -855,7 +855,6 @@ quail.trueglowbylaura.com CNAME .
 quelea.llresearch.dev CNAME .
 quokka.bulkbuyhosting.com CNAME .
 quokka.curbnumberpro.com CNAME .
-quokka.howrightnow.org CNAME .
 quokka.joshuawood.net CNAME .
 quokka.oeshome.org CNAME .
 rabbit.kilowatt.media CNAME .

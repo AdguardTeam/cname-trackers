@@ -238,7 +238,6 @@
 | affiliate.nomind.cz | cz.affilbox.cz |
 | affiliate.novakabelka.cz | cz.affilbox.cz |
 | affiliate.nutricnitycinky.cz | cz.affilbox.cz |
-| affiliate.offroadsafari.cz | cz.affilbox.cz |
 | affiliate.onlinepsiskola.cz | cz.affilbox.cz |
 | affiliate.organikk.cz | cz.affilbox.cz |
 | affiliate.pasti.cz | cz.affilbox.cz |
@@ -289,7 +288,6 @@
 | affiliate.vasesosovky.sk | cz.affilbox.cz |
 | affiliate.velebny.cz | cz.affilbox.cz |
 | affiliate.vox.cz | cz.affilbox.cz |
-| affiliate.warriorfactory.cz | cz.affilbox.cz |
 | affiliate.webium.cz | cz.affilbox.cz |
 | affiliate.wugi.cz | cz.affilbox.cz |
 | affiliate.xbx.cz | cz.affilbox.cz |
@@ -581,6 +579,7 @@
 | partner.forkys.store | cz.affilbox.cz |
 | partner.fotoposta.sk | cz.affilbox.cz |
 | partner.freshlabels.cz | cz.affilbox.cz |
+| partner.gaymegastore.cz | cz.affilbox.cz |
 | partner.gdcbd.cz | cz.affilbox.cz |
 | partner.gel-gun.cz | cz.affilbox.cz |
 | partner.generatorvodiku.cz | cz.affilbox.cz |
@@ -731,7 +730,6 @@
 | partner.respelen.cz | cz.affilbox.cz |
 | partner.root.cz | cz.affilbox.cz |
 | partner.royalfashion.cz | cz.affilbox.cz |
-| partner.rozhladna.sk | cz.affilbox.cz |
 | partner.roztouzeny.cz | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
 | partner.salibandy.shop | cz.affilbox.cz |
@@ -741,6 +739,7 @@
 | partner.scootshop.cz | cz.affilbox.cz |
 | partner.semor.cz | cz.affilbox.cz |
 | partner.sevio.cz | cz.affilbox.cz |
+| partner.sexshop51.cz | cz.affilbox.cz |
 | partner.sielbeauty.cz | cz.affilbox.cz |
 | partner.simdatamax.com | cz.affilbox.cz |
 | partner.simplymix.com | cz.affilbox.cz |

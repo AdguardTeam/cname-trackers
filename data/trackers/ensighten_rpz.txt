@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -143,7 +143,6 @@ cmp.dieteren.be CNAME .
 cmp.dieterengroup.com CNAME .
 cmp.dieterenmobilitycompany.be CNAME .
 cmp.microlino.be CNAME .
-cmp.microlino.fr CNAME .
 cmp.mijnwinterbanden.be CNAME .
 cmp.myaudi.be CNAME .
 cmp.myway.be CNAME .
@@ -231,11 +230,9 @@ ens.bote.ch CNAME .
 ens.luzernerzeitung.ch CNAME .
 ens.moneyhouse.ch CNAME .
 ens.nidwaldnerzeitung.ch CNAME .
-ens.nzz.ch CNAME .
 ens.nzzmediasolutions.ch CNAME .
 ens.obwaldnerzeitung.ch CNAME .
 ens.tagblatt.ch CNAME .
-ens.themarket.ch CNAME .
 ens.thurgauerzeitung.ch CNAME .
 ens.toggenburgertagblatt.ch CNAME .
 ens.trauerportal-ostschweiz.ch CNAME .

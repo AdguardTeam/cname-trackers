@@ -844,7 +844,6 @@ quail.trueglowbylaura.com
 quelea.llresearch.dev
 quokka.bulkbuyhosting.com
 quokka.curbnumberpro.com
-quokka.howrightnow.org
 quokka.joshuawood.net
 quokka.oeshome.org
 rabbit.kilowatt.media

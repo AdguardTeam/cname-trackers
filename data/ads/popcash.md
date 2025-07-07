@@ -805,7 +805,6 @@
 | quelea.llresearch.dev | deprecated-custom-domains.b-cdn.net |
 | quokka.bulkbuyhosting.com | deprecated-custom-domains.b-cdn.net |
 | quokka.curbnumberpro.com | deprecated-custom-domains.b-cdn.net |
-| quokka.howrightnow.org | deprecated-custom-domains.b-cdn.net |
 | quokka.joshuawood.net | deprecated-custom-domains.b-cdn.net |
 | quokka.oeshome.org | deprecated-custom-domains.b-cdn.net |
 | rabbit.kilowatt.media | deprecated-custom-domains.b-cdn.net |

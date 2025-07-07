@@ -11,7 +11,6 @@
     * h-11b6fun8cno.online-metrix.net
     * h-12jodw87.online-metrix.net
     * h-15dxj0k6.online-metrix.net
-    * h-15wc9fpp.online-metrix.net
     * h-16vzjy52.online-metrix.net
     * h-1d2p5fdt.online-metrix.net
     * h-1dham01c.online-metrix.net
@@ -193,6 +192,7 @@
     * h-9bkavv7r.online-metrix.net
     * h-9f85se8g-pav.online-metrix.net
     * h-9f85se8g.online-metrix.net
+    * h-9fvs1mdg.online-metrix.net
     * h-9i4fauog.online-metrix.net
     * h-9ivuwf8u.online-metrix.net
     * h-9kqz9786.online-metrix.net
@@ -643,7 +643,6 @@
     * h-ocnid.online-metrix.net
     * h-okcoin.online-metrix.net
     * h-okinushub.online-metrix.net
-    * h-onbudget.online-metrix.net
     * h-onecall.online-metrix.net
     * h-oney.online-metrix.net
     * h-online.citi.online-metrix.net
@@ -805,7 +804,6 @@
     * h-zodiacustody.online-metrix.net
     * h-zootweb.online-metrix.net
     * h-zopa.online-metrix.net
-    * h-zurvita.online-metrix.net
     * h.idev.online-metrix.net
     * h.online-metrix.net
     * qa1-h.online-metrix.net
@@ -830,7 +828,6 @@
 | content.mycno.com | h-11b6fun8cno.online-metrix.net |
 | cdna.tiranabank.al | h-12jodw87.online-metrix.net |
 | lnday.sinclair.edu | h-15dxj0k6.online-metrix.net |
-| tmln.caesarscasino.com | h-15wc9fpp.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | content.sb.lt | h-1d2p5fdt.online-metrix.net |
 | transactionrisk.cashfree.com | h-1dham01c.online-metrix.net |
@@ -1165,6 +1162,7 @@
 | afm.startradermarkets.com | h-96eziru5.online-metrix.net |
 | afm.startradermy.com | h-96eziru5.online-metrix.net |
 | afm.startraders55.com | h-96eziru5.online-metrix.net |
+| afm.startraders56.com | h-96eziru5.online-metrix.net |
 | afm.startradervn.net | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
 | afm.ultima-markets.com | h-96eziru5.online-metrix.net |
@@ -1184,11 +1182,13 @@
 | afm.vantagemarketssea.com | h-96eziru5.online-metrix.net |
 | afm.vantagetradings.com | h-96eziru5.online-metrix.net |
 | afm.vnvtglobal.com | h-96eziru5.online-metrix.net |
+| afm.vnvtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt-apac.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkts.com | h-96eziru5.online-metrix.net |
 | afm.vtglobalchn.com | h-96eziru5.online-metrix.net |
 | afm.vtglobalcn.com | h-96eziru5.online-metrix.net |
+| afm.vtglobalgroup.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.co | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
@@ -1196,6 +1196,7 @@
 | afm.vtmarketsfx-cn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsglobal.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsid.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsindo.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsintlcn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsjp.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsnet.com | h-96eziru5.online-metrix.net |
@@ -1232,6 +1233,7 @@
 | wkvjee5b.paviliononline.io | h-9f85se8g-pav.online-metrix.net |
 | sess.vippreferred.com | h-9f85se8g.online-metrix.net |
 | wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
+| pngtm.paragonbank.co.uk | h-9fvs1mdg.online-metrix.net |
 | img2.bbva.com.ar | h-9i4fauog.online-metrix.net |
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
@@ -1376,6 +1378,7 @@
 | enligne.bnc.ca | h-bnc.online-metrix.net |
 | online.nbc.ca | h-bnc.online-metrix.net |
 | content.hellobank.it | h-bnl.online-metrix.net |
+| www.content.hellobank.it | h-bnl.online-metrix.net |
 | css.slots.io | h-bo72h7g2-4.online-metrix.net |
 | cbcdn.bankofscotland.co.uk | h-bos-soc.online-metrix.net |
 | check2.bankofscotland.co.uk | h-bos.online-metrix.net |
@@ -1430,6 +1433,7 @@
 | content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| www.content.bnpparibas.net | h-cco37scf.online-metrix.net |
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.mabanqueprivee.bnpparibas | h-cco37scf.online-metrix.net |
@@ -1860,8 +1864,6 @@
 | sec.login.ocn.ne.jp | h-ocnid.online-metrix.net |
 | contentmx.okcoin.com | h-okcoin.online-metrix.net |
 | tm.okinushub.com | h-okinushub.online-metrix.net |
-| sitehelper.myengageft.com | h-onbudget.online-metrix.net |
-| sitehelper.optimizemoney.com | h-onbudget.online-metrix.net |
 | cdn1.onecalldirect.co.uk | h-onecall.online-metrix.net |
 | img.oney.fr | h-oney.online-metrix.net |
 | content22.online.citi.com | h-online.citi.online-metrix.net |
@@ -2084,7 +2086,6 @@
 | jpubs.zodia.io | h-zodiacustody.online-metrix.net |
 | img.zootweb.com | h-zootweb.online-metrix.net |
 | cdna.zopa.com | h-zopa.online-metrix.net |
-| contentservices.zurvita.com | h-zurvita.online-metrix.net |
 | portal-fp-idev.qa.threatmetrix.com | h.idev.online-metrix.net |
 | content.readiness.consumercardaccess.com | h.online-metrix.net |
 | content.readiness.familyprepaiddebit.com | h.online-metrix.net |

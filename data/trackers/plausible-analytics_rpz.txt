@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -111,6 +111,7 @@ metrics.recunia.de CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
 munnin.hicsuntdra.co CNAME .
+numbers.coolconfetti.com CNAME .
 numbers.monthlyphotos.com CNAME .
 nums.upscale.app CNAME .
 p.classroombookings.com CNAME .
@@ -340,7 +341,6 @@ stats.bananatimer.com CNAME .
 stats.bcdtravel.com CNAME .
 stats.beanr.coffee CNAME .
 stats.beatricew.com CNAME .
-stats.beausimensen.com CNAME .
 stats.bedler.dk CNAME .
 stats.belic.si CNAME .
 stats.benui.ca CNAME .
@@ -468,7 +468,6 @@ stats.faluninfo.rs CNAME .
 stats.faluninfo.si CNAME .
 stats.fastbackward.app CNAME .
 stats.felipesere.com CNAME .
-stats.femtobill.com CNAME .
 stats.ferienwohnung-dombrowski.com CNAME .
 stats.filejuggler.com CNAME .
 stats.finalrabiesgeneration.org CNAME .
@@ -576,7 +575,6 @@ stats.laptopsin.space CNAME .
 stats.lastfm.matthiasloibl.com CNAME .
 stats.latehours.net CNAME .
 stats.lauracpa.ca CNAME .
-stats.laxallstars.com CNAME .
 stats.leaguestats.gg CNAME .
 stats.leahcollection.com CNAME .
 stats.learnlinux.tv CNAME .
@@ -641,7 +639,6 @@ stats.nicklafferty.com CNAME .
 stats.nodewood.com CNAME .
 stats.noeticflow.com CNAME .
 stats.nonprofit.foundation CNAME .
-stats.nothingbutnylon.com CNAME .
 stats.ntietz.com CNAME .
 stats.nullsecure.com CNAME .
 stats.nytecomics.com CNAME .
@@ -711,7 +708,6 @@ stats.radicitoscane.it CNAME .
 stats.rasulkireev.com CNAME .
 stats.reactician.com CNAME .
 stats.readng.co CNAME .
-stats.redlabelsports.com CNAME .
 stats.referralhero.com CNAME .
 stats.rehaag-immobilien.de CNAME .
 stats.reisemobil.pro CNAME .

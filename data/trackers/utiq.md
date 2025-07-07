@@ -160,6 +160,7 @@
 | utiq.frandroid.com | frontend.prod.utiq-aws.net |
 | utiq.fuehrerscheintest-online.de | frontend.prod.utiq-aws.net |
 | utiq.funandnews.de | frontend.prod.utiq-aws.net |
+| utiq.funradio.fr | frontend.prod.utiq-aws.net |
 | utiq.futurezone.de | frontend.prod.utiq-aws.net |
 | utiq.gala.fr | frontend.prod.utiq-aws.net |
 | utiq.gamekult.com | frontend.prod.utiq-aws.net |
@@ -345,6 +346,8 @@
 | utiq.rireetchansons.fr | frontend.prod.utiq-aws.net |
 | utiq.rmcbfmplay.com | frontend.prod.utiq-aws.net |
 | utiq.rtl.de | frontend.prod.utiq-aws.net |
+| utiq.rtl.fr | frontend.prod.utiq-aws.net |
+| utiq.rtl2.fr | frontend.prod.utiq-aws.net |
 | utiq.rugbyrama.fr | frontend.prod.utiq-aws.net |
 | utiq.sabervivirtv.com | frontend.prod.utiq-aws.net |
 | utiq.salamancahoy.es | frontend.prod.utiq-aws.net |
@@ -362,7 +365,6 @@
 | utiq.spiegel.de | frontend.prod.utiq-aws.net |
 | utiq.spielaffe.de | frontend.prod.utiq-aws.net |
 | utiq.sport.es | frontend.prod.utiq-aws.net |
-| utiq.sportlerfrage.net | frontend.prod.utiq-aws.net |
 | utiq.sports.fr | frontend.prod.utiq-aws.net |
 | utiq.staging--hb.hmg.systems | frontend.prod.utiq-aws.net |
 | utiq.staging--wiwo.hmg.systems | frontend.prod.utiq-aws.net |
@@ -403,6 +405,7 @@
 | utiq.utopia.de | frontend.prod.utiq-aws.net |
 | utiq.varmatin.com | frontend.prod.utiq-aws.net |
 | utiq.verisure.fr | frontend.prod.utiq-aws.net |
+| utiq.viaggiamo.it | frontend.prod.utiq-aws.net |
 | utiq.vidaextra.com | frontend.prod.utiq-aws.net |
 | utiq.vitonica.com | frontend.prod.utiq-aws.net |
 | utiq.voici.fr | frontend.prod.utiq-aws.net |

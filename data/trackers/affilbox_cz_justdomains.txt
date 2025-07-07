@@ -217,7 +217,6 @@ affiliate.nethost.cz
 affiliate.nomind.cz
 affiliate.novakabelka.cz
 affiliate.nutricnitycinky.cz
-affiliate.offroadsafari.cz
 affiliate.onlinepsiskola.cz
 affiliate.organikk.cz
 affiliate.pasti.cz
@@ -268,7 +267,6 @@ affiliate.vasecocky.cz
 affiliate.vasesosovky.sk
 affiliate.velebny.cz
 affiliate.vox.cz
-affiliate.warriorfactory.cz
 affiliate.webium.cz
 affiliate.wugi.cz
 affiliate.xbx.cz
@@ -560,6 +558,7 @@ partner.forexrebel.net
 partner.forkys.store
 partner.fotoposta.sk
 partner.freshlabels.cz
+partner.gaymegastore.cz
 partner.gdcbd.cz
 partner.gel-gun.cz
 partner.generatorvodiku.cz
@@ -710,7 +709,6 @@ partner.pureharmony.cz
 partner.respelen.cz
 partner.root.cz
 partner.royalfashion.cz
-partner.rozhladna.sk
 partner.roztouzeny.cz
 partner.ruzovyslon.cz
 partner.salibandy.shop
@@ -720,6 +718,7 @@ partner.scilearn.cz
 partner.scootshop.cz
 partner.semor.cz
 partner.sevio.cz
+partner.sexshop51.cz
 partner.sielbeauty.cz
 partner.simdatamax.com
 partner.simplymix.com

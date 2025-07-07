@@ -8,6 +8,7 @@
 ||a8-itp.qoo10.jp^
 ||a8-kouten.kouten.work^
 ||a8-mamacareer.mama-9jin.com^
+||a8-per-sonal.per-sonal.co.jp^
 ||a8-printing.ink-revolution.com^
 ||a8-wpxblog.secure.wpx.ne.jp^
 ||a8-wpxshin.secure.wpx.ne.jp^
@@ -49,7 +50,6 @@
 ||a8.bridal-hills.com^
 ||a8.buddyup.shop^
 ||a8.buvlabo.com^
-||a8.calmia-clinic.com^
 ||a8.campaign.musclesuit.co.jp^
 ||a8.careecen-shukatsu-agent.com^
 ||a8.careerpark.jp^
@@ -93,7 +93,6 @@
 ||a8.dymtech.jp^
 ||a8.earth-shiho.com^
 ||a8.earthwater-cayenne.com^
-||a8.ecwa.jp^
 ||a8.efax.co.jp^
 ||a8.eigox.jp^
 ||a8.elife.clinic^
@@ -205,7 +204,6 @@
 ||a8.mamaworks.jp^
 ||a8.manara.jp^
 ||a8.mar-cari.jp^
-||a8.medireanetshopoi.com^
 ||a8.migi-agari.co.jp^
 ||a8.migxl.com^
 ||a8.minion-wifi.com^
@@ -300,7 +298,6 @@
 ||a8.speever.jp^
 ||a8.ssl.aispr.jp^
 ||a8.st.oddspark.com^
-||a8.stealth.jp^
 ||a8.store.aceservice.jp^
 ||a8.store.brooklynoutdoorcompany.jp^
 ||a8.store.goo.ne.jp^
@@ -678,7 +675,6 @@
 ||a8clk.smart-keiri.com^
 ||a8clk.smartmethod.rarejob.com^
 ||a8clk.smile-zemi.jp^
-||a8clk.sohbi-company.com^
 ||a8clk.sp.move-ebike.co.jp^
 ||a8clk.staff.mynavi.jp^
 ||a8clk.star-mall.net^
@@ -830,7 +826,6 @@
 ||a8cv.bettysbeauty.jp^
 ||a8cv.beyondvape.jp^
 ||a8cv.bfg.benesse.ne.jp^
-||a8cv.bh-collect.jp^
 ||a8cv.biken-mall.jp^
 ||a8cv.biz-maps.com^
 ||a8cv.bizcircle.jp^
@@ -840,7 +835,6 @@
 ||a8cv.bonaventura.shop^
 ||a8cv.borderfree-official.com^
 ||a8cv.brandeuse.jp^
-||a8cv.brandnet.info^
 ||a8cv.bresmile.jp^
 ||a8cv.bright-app.com^
 ||a8cv.broadbandservice.jp^
@@ -1169,7 +1163,6 @@
 ||a8cv.photo.concorde-corp.jp^
 ||a8cv.photojoy.jp^
 ||a8cv.physiqueframe.com^
-||a8cv.picksitter.com^
 ||a8cv.pigeon-fw.com^
 ||a8cv.pilates-k.jp^
 ||a8cv.pocket-sommelier.com^
@@ -1430,7 +1423,6 @@
 ||acv.auncompany.co.jp^
 ||acv.biglobe-hikari.net^
 ||acv.cmf-hikari.net^
-||acv.crea-lp.com^
 ||acv.internet-moushikomi.net^
 ||acv.kyushu-internet.com^
 ||acv.mc-doctor.net^
@@ -1462,6 +1454,7 @@
 ||ads.dandelionchocolate.jp^
 ||af.gmobile.biz^
 ||af.shozankan-shop.com^
+||af.total-marriage.com^
 ||afcv.champ-shop.com^
 ||affa8.hikkoshi-master.com^
 ||afficv.lettuce.co.jp^
@@ -1483,7 +1476,6 @@
 ||ahachi.dreamdenki.jp^
 ||analytics.villagehouse.jp^
 ||approach.wise1-golf.com^
-||asp.glasspp119.jp^
 ||aspa8.ozmall.co.jp^
 ||car-a8.tabirai.net^
 ||check.looser.jp^

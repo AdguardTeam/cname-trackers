@@ -47,6 +47,7 @@
 ||go.trafficbull.com^
 ||go.vidspass.com^
 ||go.xyouxxx.com^
+||go1.3mre.work^
 ||go1.a2ure.work^
 ||go1.atre.work^
 ||go1.bgunit.com^

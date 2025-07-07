@@ -121,7 +121,6 @@
 ||img.foodspring.at^
 ||img.foodspring.be^
 ||img.foodspring.ch^
-||img.foodspring.co.uk^
 ||img.foodspring.cz^
 ||img.foodspring.de^
 ||img.foodspring.dk^
@@ -200,11 +199,16 @@
 ||startrekk.flaconi.at^
 ||startrekk.flaconi.be^
 ||startrekk.flaconi.ch^
+||startrekk.flaconi.cz^
+||startrekk.flaconi.dk^
+||startrekk.flaconi.fi^
 ||startrekk.flaconi.fr^
 ||startrekk.flaconi.nl^
 ||startrekk.flaconi.pl^
+||startrekk.flaconi.se^
 ||statistics.tuv.com^
 ||t.mediaset.it^
+||t.radiomediaset.it^
 ||text.benefitsatwork.be^
 ||text.benefitsatwork.ch^
 ||text.benefitsatwork.com.tr^
@@ -216,6 +220,7 @@
 ||tippcom01.tipp24.com^
 ||tr.computeruniverse.net^
 ||tr.suedkurier.de^
+||tracking.tchibo.dk^
 ||trail-001.schleich-s.com^
 ||trk.blume2000.de^
 ||trk.krebsversicherung.de^

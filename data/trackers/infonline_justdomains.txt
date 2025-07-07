@@ -38,6 +38,7 @@ data-03dc2421cd.sup-mag.de
 data-03dc2421cd.surf-magazin.de
 data-0420d605d9.90min.de
 data-0420d605d9.ligainsider.de
+data-0420d605d9.p7s1.io
 data-0420d605d9.ran.de
 data-043610b415.erft-kurier.de
 data-043610b415.fupa.net
@@ -141,6 +142,7 @@ data-11eb4b2a24.deutsche-startups.de
 data-12025f91cc.uibk.ac.at
 data-1203b7acd3.mopo.de
 data-125f69cccb.eppelheim.de
+data-1261bd4848.logistik-heute.de
 data-12b92dc35b.wetter.de
 data-12c31c7daf.das-onlinespiel.de
 data-12cf56a65f.apps.iocnt.de
@@ -1097,6 +1099,7 @@ data-7fa3547eed.atv2.at
 data-7fb07b8d65.tab.de
 data-7fbde6a274.ticket24.at
 data-804560170e.leichtathletik.de
+data-8059fc7d1b.apps.iocnt.de
 data-8062208042.apps.iocnt.de
 data-80b614ee0f.apps.iocnt.de
 data-80d2d17df3.berchtesgadener-anzeiger.de
@@ -1185,6 +1188,7 @@ data-8629f7a423.4players.de
 data-86943486de.laendleauto.at
 data-86d2aee9fa.jetzt.de
 data-86d2aee9fa.sueddeutsche.de
+data-874bc83598.apps.iocnt.de
 data-87563bd275.apps.iocnt.de
 data-8793ca6c7d.rpr1.de
 data-8793ca6c7d.vereinsleben.de
@@ -2297,6 +2301,7 @@ data-fb37a1e7c3.kornwestheimer-zeitung.de
 data-fb37a1e7c3.kurier.de
 data-fb37a1e7c3.lahrer-zeitung.de
 data-fb37a1e7c3.leonberger-kreiszeitung.de
+data-fb37a1e7c3.marbacher-zeitung.de
 data-fb37a1e7c3.mhsdigital.de
 data-fb37a1e7c3.np-coburg.de
 data-fb37a1e7c3.schwarzwaelder-bote.de

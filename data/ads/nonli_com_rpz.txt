@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -72,6 +72,8 @@ l.courrier-picard.fr CNAME .
 l.cuisineactuelle.fr CNAME .
 l.dailysports.fr CNAME .
 l.diapasonmag.fr CNAME .
+l.directoalpaladar.com CNAME .
+l.directoalpaladar.com.mx CNAME .
 l.diverto.tv CNAME .
 l.dna.fr CNAME .
 l.doctissimo.fr CNAME .
@@ -125,6 +127,7 @@ l.intelligenceonline.fr CNAME .
 l.jeuneafrique.com CNAME .
 l.jeuxvideo.com CNAME .
 l.journaldemillau.fr CNAME .
+l.journaldesfemmes.fr CNAME .
 l.koolmag.fr CNAME .
 l.la-croix.com CNAME .
 l.lacremedugaming.fr CNAME .
@@ -205,12 +208,14 @@ l.quinzemondial.com CNAME .
 l.radiofrance.fr CNAME .
 l.reporterre.net CNAME .
 l.republicain-lorrain.fr CNAME .
+l.revue21.fr CNAME .
 l.rmc.fr CNAME .
 l.rmcsport.fr CNAME .
 l.roole.fr CNAME .
 l.rtl.fr CNAME .
 l.science-et-vie.com CNAME .
 l.sciencesetavenir.fr CNAME .
+l.sensacine.com.mx CNAME .
 l.sportauto.fr CNAME .
 l.sports.fr CNAME .
 l.sudinfo.be CNAME .
@@ -232,6 +237,8 @@ l.varmatin.com CNAME .
 l.voici.fr CNAME .
 l.vosgesmatin.fr CNAME .
 l.whatsupdoc-lemag.fr CNAME .
+l.xataka.com CNAME .
+l.xataka.com.mx CNAME .
 l.zdnet.fr CNAME .
 mail10.h24.news CNAME .
 mail11.h24.news CNAME .

@@ -248,6 +248,7 @@
   "refer.lendingclub.com": "lending-club.extole.io",
   "refer.lendly.com": "getlendly.extole.io",
   "refer.lenscrafters.com": "lenscrafters.extole.io",
+  "refer.lighthousecu.org": "lighthousecu.extole.io",
   "refer.lightstream.com": "lightstream.extole.io",
   "refer.littlepassports.com": "little-passports.extole.io",
   "refer.lmcu.org": "lmcu.extole.io",
@@ -461,6 +462,7 @@
   "share.anatomie.com": "anatomie.extole.io",
   "share.aplaceformom.com": "aplaceformom.extole.io",
   "share.app.com": "gannett.extole.io",
+  "share.area15.com": "area15.extole.io",
   "share.ashleyhomestore.ca": "ashleyhomestore.extole.io",
   "share.asics.com": "asics.extole.io",
   "share.asurion.com": "asurion.extole.io",
@@ -782,5 +784,6 @@
   "xtl._domainkey.forgetrust.com": "xtl.domainkey.u82658.wl159.sendgrid.net",
   "xtl._domainkey.mail.propertyperks.xfinity.com": "xtl.domainkey.u82658.wl159.sendgrid.net",
   "xtl._domainkey.walmartmoneycard.com": "xtl.domainkey.u82658.wl159.sendgrid.net",
-  "xtl._domainkey.zoom.us": "xtl.domainkey.u82658.wl159.sendgrid.net"
+  "xtl._domainkey.zoom.us": "xtl.domainkey.u82658.wl159.sendgrid.net",
+  "xtl2._domainkey.shareus.viktor-rolf.com": "xtl2.domainkey.u82658.wl159.sendgrid.net"
 }

@@ -223,6 +223,7 @@
 ||static.quirks.com^
 ||static.schrotundkorn.de^
 ||static.sonicplug.com^
+||static.tahoe.com^
 ||static.the-saleroom.com^
 ||static.trackandfieldnews.com^
 ||static.walaplusadserver.com^
@@ -260,6 +261,7 @@
 ||www.creatives.goldseek.com^
 ||www.directdisplaymarketing.com^
 ||www.display.lawbulletin.com^
+||www.images.fnch.ch^
 ||www.images.hour-media.com^
 ||www.images.informatm.com^
 ||www.lalala.geenstijl.nl^
@@ -275,6 +277,7 @@
 ||www.servedby.quirks.com^
 ||www.servedby.sacommunications.com^
 ||www.servedby.schrotundkorn.de^
+||www.servedby.trackandfieldnews.com^
 ||www.static.ad.logic-test.viasat.io^
 ||www.static.engineeringnews.co.za^
 ||www.static.everythingnevada.com^

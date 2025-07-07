@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -228,7 +228,6 @@ affiliate.nethost.cz CNAME .
 affiliate.nomind.cz CNAME .
 affiliate.novakabelka.cz CNAME .
 affiliate.nutricnitycinky.cz CNAME .
-affiliate.offroadsafari.cz CNAME .
 affiliate.onlinepsiskola.cz CNAME .
 affiliate.organikk.cz CNAME .
 affiliate.pasti.cz CNAME .
@@ -279,7 +278,6 @@ affiliate.vasecocky.cz CNAME .
 affiliate.vasesosovky.sk CNAME .
 affiliate.velebny.cz CNAME .
 affiliate.vox.cz CNAME .
-affiliate.warriorfactory.cz CNAME .
 affiliate.webium.cz CNAME .
 affiliate.wugi.cz CNAME .
 affiliate.xbx.cz CNAME .
@@ -571,6 +569,7 @@ partner.forexrebel.net CNAME .
 partner.forkys.store CNAME .
 partner.fotoposta.sk CNAME .
 partner.freshlabels.cz CNAME .
+partner.gaymegastore.cz CNAME .
 partner.gdcbd.cz CNAME .
 partner.gel-gun.cz CNAME .
 partner.generatorvodiku.cz CNAME .
@@ -721,7 +720,6 @@ partner.pureharmony.cz CNAME .
 partner.respelen.cz CNAME .
 partner.root.cz CNAME .
 partner.royalfashion.cz CNAME .
-partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
 partner.ruzovyslon.cz CNAME .
 partner.salibandy.shop CNAME .
@@ -731,6 +729,7 @@ partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
 partner.semor.cz CNAME .
 partner.sevio.cz CNAME .
+partner.sexshop51.cz CNAME .
 partner.sielbeauty.cz CNAME .
 partner.simdatamax.com CNAME .
 partner.simplymix.com CNAME .

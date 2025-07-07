@@ -156,6 +156,7 @@
 ||utiq.frandroid.com^
 ||utiq.fuehrerscheintest-online.de^
 ||utiq.funandnews.de^
+||utiq.funradio.fr^
 ||utiq.futurezone.de^
 ||utiq.gala.fr^
 ||utiq.gamekult.com^
@@ -341,6 +342,8 @@
 ||utiq.rireetchansons.fr^
 ||utiq.rmcbfmplay.com^
 ||utiq.rtl.de^
+||utiq.rtl.fr^
+||utiq.rtl2.fr^
 ||utiq.rugbyrama.fr^
 ||utiq.sabervivirtv.com^
 ||utiq.salamancahoy.es^
@@ -358,7 +361,6 @@
 ||utiq.spiegel.de^
 ||utiq.spielaffe.de^
 ||utiq.sport.es^
-||utiq.sportlerfrage.net^
 ||utiq.sports.fr^
 ||utiq.staging--hb.hmg.systems^
 ||utiq.staging--wiwo.hmg.systems^
@@ -401,6 +403,7 @@
 ||utiq.utopia.de^
 ||utiq.varmatin.com^
 ||utiq.verisure.fr^
+||utiq.viaggiamo.it^
 ||utiq.vidaextra.com^
 ||utiq.vitonica.com^
 ||utiq.voici.fr^

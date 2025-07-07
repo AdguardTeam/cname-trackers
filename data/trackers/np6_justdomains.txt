@@ -294,6 +294,7 @@ tr.credito.universo.pt
 tr.crm.intersportbypitte.com
 tr.crtl.espmp-aufr.net
 tr.customer-solutions.np6.com
+tr.customersurvey.geodis.com
 tr.cyberarchi.info
 tr.cyprusparadiseestates.com
 tr.cypruspremiervacations.com
@@ -421,7 +422,6 @@ tr.ere.emailing.bnpparibas
 tr.espmp-agfr.net
 tr.estatesandwines.moethennessy.com
 tr.etravauxpro.fr
-tr.etude.sncd.org
 tr.eulerhermes.com
 tr.europe.moethennessy.com
 tr.ev001.net
@@ -454,9 +454,11 @@ tr.gestion.floa.fr
 tr.gestion.hondafinancialservices.fr
 tr.gestion.lexpress.fr
 tr.gestion.liberation.fr
+tr.gestion.loisirs-finance.fr
 tr.gestion.norrsken.fr
 tr.gestion.sygmabnpparibas-pf.com
 tr.global-insights.moethennessy.com
+tr.globalmedia.moethennessy.com
 tr.gplus.espmp-nifr.net
 tr.grez.espmp-nifr.net
 tr.group-appointments.lvmh.fr
@@ -552,6 +554,7 @@ tr.info.webikeo.fr
 tr.infolettre.securite-routiere.gouv.fr
 tr.infolettres.groupama.com
 tr.infomarche.hennessy.fr
+tr.information-clients.blackstore.fr
 tr.information-clients.intersport.fr
 tr.information.cchezvous.fr
 tr.information.fidalformations.fr
@@ -683,6 +686,7 @@ tr.metiersdexcellence.lvmh.com
 tr.mh-connect.moethennessy.com
 tr.mhanz.moethennessy.com
 tr.mhch.moet.hennessy.com
+tr.mhchinainsights.moethennessy.com
 tr.mhdconnect.mhdfrance.fr
 tr.mhic.moethennessy.com
 tr.mhist.moethennessy.com
@@ -822,7 +826,6 @@ tr.news.infopro-digital.com
 tr.news.interforum.fr
 tr.news.invinoradio.tv
 tr.news.itancia.com
-tr.news.jautomatise.com
 tr.news.kaptainmusic.fr
 tr.news.kpmg-avocats.fr
 tr.news.kpmg.fr
@@ -1016,6 +1019,7 @@ tr.preferenza.unaoffertaalgiorno.com
 tr.presupuesto-b2b.es
 tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
+tr.princess.np6.com
 tr.pro-renov.be
 tr.pro.odalys-campus.com
 tr.pro.odalys-vacances.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ a8-hoiku.mama-9jin.com CNAME .
 a8-itp.qoo10.jp CNAME .
 a8-kouten.kouten.work CNAME .
 a8-mamacareer.mama-9jin.com CNAME .
+a8-per-sonal.per-sonal.co.jp CNAME .
 a8-printing.ink-revolution.com CNAME .
 a8-wpxblog.secure.wpx.ne.jp CNAME .
 a8-wpxshin.secure.wpx.ne.jp CNAME .
@@ -60,7 +61,6 @@ a8.brandkaimasu.com CNAME .
 a8.bridal-hills.com CNAME .
 a8.buddyup.shop CNAME .
 a8.buvlabo.com CNAME .
-a8.calmia-clinic.com CNAME .
 a8.campaign.musclesuit.co.jp CNAME .
 a8.careecen-shukatsu-agent.com CNAME .
 a8.careerpark.jp CNAME .
@@ -104,7 +104,6 @@ a8.dstation.jp CNAME .
 a8.dymtech.jp CNAME .
 a8.earth-shiho.com CNAME .
 a8.earthwater-cayenne.com CNAME .
-a8.ecwa.jp CNAME .
 a8.efax.co.jp CNAME .
 a8.eigox.jp CNAME .
 a8.elife.clinic CNAME .
@@ -216,7 +215,6 @@ a8.mamacosme.co.jp CNAME .
 a8.mamaworks.jp CNAME .
 a8.manara.jp CNAME .
 a8.mar-cari.jp CNAME .
-a8.medireanetshopoi.com CNAME .
 a8.migi-agari.co.jp CNAME .
 a8.migxl.com CNAME .
 a8.minion-wifi.com CNAME .
@@ -311,7 +309,6 @@ a8.sommelier.gift CNAME .
 a8.speever.jp CNAME .
 a8.ssl.aispr.jp CNAME .
 a8.st.oddspark.com CNAME .
-a8.stealth.jp CNAME .
 a8.store.aceservice.jp CNAME .
 a8.store.brooklynoutdoorcompany.jp CNAME .
 a8.store.goo.ne.jp CNAME .
@@ -689,7 +686,6 @@ a8clk.sma-ene.jp CNAME .
 a8clk.smart-keiri.com CNAME .
 a8clk.smartmethod.rarejob.com CNAME .
 a8clk.smile-zemi.jp CNAME .
-a8clk.sohbi-company.com CNAME .
 a8clk.sp.move-ebike.co.jp CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .
@@ -841,7 +837,6 @@ a8cv.bellevie-inc.co.jp CNAME .
 a8cv.bettysbeauty.jp CNAME .
 a8cv.beyondvape.jp CNAME .
 a8cv.bfg.benesse.ne.jp CNAME .
-a8cv.bh-collect.jp CNAME .
 a8cv.biken-mall.jp CNAME .
 a8cv.biz-maps.com CNAME .
 a8cv.bizcircle.jp CNAME .
@@ -851,7 +846,6 @@ a8cv.bloomonline.jp CNAME .
 a8cv.bonaventura.shop CNAME .
 a8cv.borderfree-official.com CNAME .
 a8cv.brandeuse.jp CNAME .
-a8cv.brandnet.info CNAME .
 a8cv.bresmile.jp CNAME .
 a8cv.bright-app.com CNAME .
 a8cv.broadbandservice.jp CNAME .
@@ -1180,7 +1174,6 @@ a8cv.phonim.com CNAME .
 a8cv.photo.concorde-corp.jp CNAME .
 a8cv.photojoy.jp CNAME .
 a8cv.physiqueframe.com CNAME .
-a8cv.picksitter.com CNAME .
 a8cv.pigeon-fw.com CNAME .
 a8cv.pilates-k.jp CNAME .
 a8cv.pocket-sommelier.com CNAME .
@@ -1441,7 +1434,6 @@ acv.aun-softbank-hikari.com CNAME .
 acv.auncompany.co.jp CNAME .
 acv.biglobe-hikari.net CNAME .
 acv.cmf-hikari.net CNAME .
-acv.crea-lp.com CNAME .
 acv.internet-moushikomi.net CNAME .
 acv.kyushu-internet.com CNAME .
 acv.mc-doctor.net CNAME .
@@ -1473,6 +1465,7 @@ ada8.ampleur.jp CNAME .
 ads.dandelionchocolate.jp CNAME .
 af.gmobile.biz CNAME .
 af.shozankan-shop.com CNAME .
+af.total-marriage.com CNAME .
 afcv.champ-shop.com CNAME .
 affa8.hikkoshi-master.com CNAME .
 afficv.lettuce.co.jp CNAME .
@@ -1494,7 +1487,6 @@ ahachi.dietnavi.com CNAME .
 ahachi.dreamdenki.jp CNAME .
 analytics.villagehouse.jp CNAME .
 approach.wise1-golf.com CNAME .
-asp.glasspp119.jp CNAME .
 aspa8.ozmall.co.jp CNAME .
 car-a8.tabirai.net CNAME .
 check.looser.jp CNAME .

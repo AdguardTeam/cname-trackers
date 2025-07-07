@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751270412702        ; Serial
+           1751875210153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ data.moebel-style.de CNAME .
 data.uk.kutchenhaus.com CNAME .
 defabc.black-label-coffee.de CNAME .
 dts.suchmeisterei.de CNAME .
+e.grow-express.de CNAME .
 e.heimat.style CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
@@ -107,6 +108,8 @@ js.edingershops.de CNAME .
 lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
+metrics.go-jugendreisen.de CNAME .
+metrics.ostseeresort-damp.de CNAME .
 metrics.treudelberg-resort.com CNAME .
 mktg.activemind.legal CNAME .
 monitoring.medizinbedarf.eu CNAME .
@@ -164,6 +167,7 @@ uezeus.ueberbit.de CNAME .
 umerf.reisprinzen.de CNAME .
 wa.ostermann.eu CNAME .
 waet.datalogue.de CNAME .
+wctr.aures.ag CNAME .
 wctr.bodenverkauf.de CNAME .
 wctr.hh-klebetechnologie.de CNAME .
 wctr.hoeping.de CNAME .
@@ -199,11 +203,14 @@ webcontr.holzgestein.com CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.in-akustik.de CNAME .
 webcontr.jalousiescout.at CNAME .
+webcontr.kabelschuhe-shop.de CNAME .
+webcontr.kitchen-concept.de CNAME .
 webcontr.l.de CNAME .
 webcontr.leisure.one CNAME .
 webcontr.lindy.de CNAME .
 webcontr.lmz-bw.de CNAME .
 webcontr.lotto-hh.de CNAME .
+webcontr.luxentu.de CNAME .
 webcontr.mea-living.de CNAME .
 webcontr.naturschutzcenter.de CNAME .
 webcontr.parax.de CNAME .
@@ -220,6 +227,7 @@ webcontr.splendid-internet.de CNAME .
 webcontr.stadtwerke-ahrensburg.de CNAME .
 webcontr.synvia.de CNAME .
 webcontr.taxando.de CNAME .
+webcontr.terraguide.de CNAME .
 webcontr.thechefsstories.de CNAME .
 webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten-shop.de CNAME .
@@ -227,6 +235,7 @@ webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .
 webcontr.wgv.de CNAME .
 webcontr.wolkenlosundheiter.de CNAME .
+webcontr.yourfashionplace.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
 webstats.arbeitskleidung-expert.de CNAME .

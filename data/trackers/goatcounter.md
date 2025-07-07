@@ -27,7 +27,6 @@
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
     * bwc.goatcounter.com
-    * cafenoirka.goatcounter.com
     * cassie.goatcounter.com
     * celerry.goatcounter.com
     * certidiritti.goatcounter.com
@@ -128,7 +127,6 @@
     * satanisk.goatcounter.com
     * sebastianzehner.goatcounter.com
     * semipol.goatcounter.com
-    * sharukhi.goatcounter.com
     * skeetstats.goatcounter.com
     * slade.goatcounter.com
     * sofianlak.goatcounter.com
@@ -159,6 +157,7 @@
     * w0chp.goatcounter.com
     * whatacools.goatcounter.com
     * ybbond.goatcounter.com
+    * ygoprint.goatcounter.com
     * zbahn.goatcounter.com
     * zgoat.goatcounter.com
     * zl2edh.goatcounter.com
@@ -191,7 +190,6 @@
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
 | analytics.bytewave.net | bwc.goatcounter.com |
-| stats.cafenoirka.de | cafenoirka.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
 | stats.certidiritti.org | certidiritti.goatcounter.com |
@@ -293,7 +291,6 @@
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.sebastianzehner.com | sebastianzehner.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
-| stats.sharukhi.xyz | sharukhi.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
 | dot-com-stats.sladewatkins.net | slade.goatcounter.com |
 | stats.sofianlak.fr | sofianlak.goatcounter.com |
@@ -324,6 +321,7 @@
 | stats.w0chp.radio | w0chp.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
+| science.ygoprint.org | ygoprint.goatcounter.com |
 | stats.zbahn.de | zbahn.goatcounter.com |
 | stats.zgo.at | zgoat.goatcounter.com |
 | stats.zl2edh.com | zl2edh.goatcounter.com |

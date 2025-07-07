@@ -6,6 +6,7 @@
 
 ### Rarely active trackers
 
+* livesextape.com
 * emt.stripchat.com
 * stripchat.com
 
@@ -23,12 +24,15 @@
 | trk.notify.xlivesex.com | emt.stripchat.com |
 | trk.sender.xhamsterlive.com | emt.stripchat.com |
 | trk.sender.xlivesex.com | emt.stripchat.com |
+| tr.livesextape.com | livesextape.com |
 | www.fapsite.live | stripchat.com |
 | trk.e.stripcash.com | trk.emt.stripchat.com |
 | trk.e.supportlivecam.com | trk.emt.stripchat.com |
 | trk.email.stripcash.com | trk.emt.stripchat.com |
 | trk.email.supportlivecam.com | trk.emt.stripchat.com |
+| trk.nononutnovember.com | trk.emt.stripchat.com |
 | trk.sender.cammodeling.org | trk.emt.stripchat.com |
+| trk.sender.supportlivecam.com | trk.emt.stripchat.com |
 | trk.stripchat.email | trk.emt.stripchat.com |
 | 048ifc-88ww1n-5munyx9r-l9yy0yu.xhamsterlive.info | white-label.stripchat.com |
 | 056.omg.adult | white-label.stripchat.com |
@@ -223,6 +227,7 @@
 | br.tklivechat.com | white-label.stripchat.com |
 | br.tranny.show | white-label.stripchat.com |
 | br.webcam.ac | white-label.stripchat.com |
+| br.ww16.spankbanglive.com | white-label.stripchat.com |
 | br.xham.live | white-label.stripchat.com |
 | br.xhlive.cam | white-label.stripchat.com |
 | br.xhlive.net | white-label.stripchat.com |
@@ -343,6 +348,7 @@
 | cs.tklivechat.com | white-label.stripchat.com |
 | cs.xham.live | white-label.stripchat.com |
 | cs.xhlive.cam | white-label.stripchat.com |
+| cs.xhlive.net | white-label.stripchat.com |
 | cucm1.chiccams.com | white-label.stripchat.com |
 | cust1.spankbanglive.com | white-label.stripchat.com |
 | cww.stripchatgirls.com | white-label.stripchat.com |
@@ -357,6 +363,7 @@
 | da.myavlive.com | white-label.stripchat.com |
 | da.nsfwlivechat.com | white-label.stripchat.com |
 | da.omg.adult | white-label.stripchat.com |
+| da.shemale.show | white-label.stripchat.com |
 | da.spankbanglive.com | white-label.stripchat.com |
 | da.stripchat.global | white-label.stripchat.com |
 | da.xham.live | white-label.stripchat.com |
@@ -508,6 +515,7 @@
 | en.live.javmix.tv | white-label.stripchat.com |
 | en.myavlive.com | white-label.stripchat.com |
 | en.stripchat.global | white-label.stripchat.com |
+| en.stripchatgirls.com | white-label.stripchat.com |
 | en.superchat.live | white-label.stripchat.com |
 | en.superchatlive.com | white-label.stripchat.com |
 | env.superchatlive.com | white-label.stripchat.com |
@@ -584,15 +592,19 @@
 | feniks.xhlive.org | white-label.stripchat.com |
 | fepool.chiccams.com | white-label.stripchat.com |
 | fg2.chiccams.com | white-label.stripchat.com |
+| fi.aznudelive.com | white-label.stripchat.com |
 | fi.boyfriend.show | white-label.stripchat.com |
 | fi.celebjihad.live | white-label.stripchat.com |
 | fi.hot-india.com | white-label.stripchat.com |
+| fi.myavlive.com | white-label.stripchat.com |
 | fi.nsfwlivechat.com | white-label.stripchat.com |
 | fi.omg.adult | white-label.stripchat.com |
 | fi.sexygirlspics.live | white-label.stripchat.com |
 | fi.shemale.show | white-label.stripchat.com |
+| fi.spankbanglive.com | white-label.stripchat.com |
 | fi.stripchat.global | white-label.stripchat.com |
 | fi.stripchatgirls.com | white-label.stripchat.com |
+| fi.superchatlive.com | white-label.stripchat.com |
 | fi.tklivechat.com | white-label.stripchat.com |
 | fi.xham.live | white-label.stripchat.com |
 | fi.xhlive.net | white-label.stripchat.com |
@@ -612,6 +624,7 @@
 | fr.live.javmix.tv | white-label.stripchat.com |
 | fr.liveandsexy.cam | white-label.stripchat.com |
 | fr.livecamlovetr.com | white-label.stripchat.com |
+| fr.motherlesslive.com | white-label.stripchat.com |
 | fr.myavlive.com | white-label.stripchat.com |
 | fr.mycamtv.com | white-label.stripchat.com |
 | fr.nsfwlivechat.com | white-label.stripchat.com |
@@ -700,6 +713,7 @@
 | go.da.xham.live | white-label.stripchat.com |
 | go.darmowesexkamerki.com | white-label.stripchat.com |
 | go.drtuberlive.com | white-label.stripchat.com |
+| go.fi.stripchats.io | white-label.stripchat.com |
 | go.freestrip.chat | white-label.stripchat.com |
 | go.hot-india.com | white-label.stripchat.com |
 | go.hotzcam.com | white-label.stripchat.com |
@@ -716,8 +730,10 @@
 | go.id.sexfortokens.com | white-label.stripchat.com |
 | go.id.shemale.show | white-label.stripchat.com |
 | go.id.spankbanglive.com | white-label.stripchat.com |
+| go.id.stripchat.global | white-label.stripchat.com |
 | go.id.stripchatgirls.com | white-label.stripchat.com |
 | go.id.stripchatlive.com | white-label.stripchat.com |
+| go.id.tklivechat.com | white-label.stripchat.com |
 | go.id.tranny.show | white-label.stripchat.com |
 | go.id.xham.live | white-label.stripchat.com |
 | go.id.xhlive.cam | white-label.stripchat.com |
@@ -756,10 +772,12 @@
 | go.superchatlive.com | white-label.stripchat.com |
 | go.tklivechat.com | white-label.stripchat.com |
 | go.tranny.show | white-label.stripchat.com |
+| go.ua.nsfwlivechat.com | white-label.stripchat.com |
 | go.ua.omg.adult | white-label.stripchat.com |
 | go.ua.stripchat.webcam | white-label.stripchat.com |
 | go.ua.stripchatgirls.com | white-label.stripchat.com |
 | go.ua.superchat.live | white-label.stripchat.com |
+| go.vi.hotzcam.com | white-label.stripchat.com |
 | go.vi.myavlive.com | white-label.stripchat.com |
 | go.vi.spankbanglive.com | white-label.stripchat.com |
 | go.vi.stripchat.global | white-label.stripchat.com |
@@ -774,6 +792,7 @@
 | go.xhlive.net | white-label.stripchat.com |
 | go.xhlive.org | white-label.stripchat.com |
 | go.zt.colsex.com | white-label.stripchat.com |
+| go.zt.hot-india.com | white-label.stripchat.com |
 | go.zt.hotzcam.com | white-label.stripchat.com |
 | go.zt.myavlive.com | white-label.stripchat.com |
 | go.zt.omg.adult | white-label.stripchat.com |
@@ -798,6 +817,7 @@
 | gw72.camsplanetlive.com | white-label.stripchat.com |
 | h21.chiccams.com | white-label.stripchat.com |
 | h229.freestrip.chat | white-label.stripchat.com |
+| h7chz1x-xeb.stripchats.io | white-label.stripchat.com |
 | hansel.freestrip.chat | white-label.stripchat.com |
 | hc01.strp.chat | white-label.stripchat.com |
 | heimdal.sexfortokens.com | white-label.stripchat.com |
@@ -832,9 +852,12 @@
 | hr.omg.adult | white-label.stripchat.com |
 | hr.shemale.show | white-label.stripchat.com |
 | hr.spankbanglive.com | white-label.stripchat.com |
+| hr.stripchat.direct | white-label.stripchat.com |
 | hr.stripchat.global | white-label.stripchat.com |
 | hr.stripchatgirls.com | white-label.stripchat.com |
+| hr.stripchats.global | white-label.stripchat.com |
 | hr.superchatlive.com | white-label.stripchat.com |
+| hr.tklivechat.com | white-label.stripchat.com |
 | hr.xham.live | white-label.stripchat.com |
 | hs14.strp.chat | white-label.stripchat.com |
 | hst124.superchatlive.com | white-label.stripchat.com |
@@ -913,16 +936,19 @@
 | id.shemale.show | white-label.stripchat.com |
 | id.spankbanglive.com | white-label.stripchat.com |
 | id.strip-chat.club | white-label.stripchat.com |
+| id.stripchat.direct | white-label.stripchat.com |
 | id.stripchat.global | white-label.stripchat.com |
 | id.stripchat.webcam | white-label.stripchat.com |
 | id.stripchatgirls.com | white-label.stripchat.com |
 | id.stripchatlive.com | white-label.stripchat.com |
 | id.stripchats.global | white-label.stripchat.com |
+| id.stripchats.io | white-label.stripchat.com |
 | id.superchat.live | white-label.stripchat.com |
 | id.superchatlive.com | white-label.stripchat.com |
 | id.tklivechat.com | white-label.stripchat.com |
 | id.tranny.show | white-label.stripchat.com |
 | id.xham.live | white-label.stripchat.com |
+| id.xhamsterlive.info | white-label.stripchat.com |
 | id.xhlive.cam | white-label.stripchat.com |
 | id.xhlive.net | white-label.stripchat.com |
 | idem.superchat.live | white-label.stripchat.com |
@@ -1088,6 +1114,7 @@
 | ko.webcam.ac | white-label.stripchat.com |
 | ko.xham.live | white-label.stripchat.com |
 | ko.xhlive.cam | white-label.stripchat.com |
+| ko.xhlive.net | white-label.stripchat.com |
 | ko.xhlive.org | white-label.stripchat.com |
 | korolev.strp.chat | white-label.stripchat.com |
 | kp.spankbanglive.com | white-label.stripchat.com |
@@ -1269,6 +1296,7 @@
 | nb.stripchat.global | white-label.stripchat.com |
 | ncb.strp.chat | white-label.stripchat.com |
 | ndt.boyfriend.show | white-label.stripchat.com |
+| ne9-75stu-bj8zz81-jam.chiccams.com | white-label.stripchat.com |
 | nebo.strp.chat | white-label.stripchat.com |
 | nel.spankbanglive.com | white-label.stripchat.com |
 | net168.stripchat.webcam | white-label.stripchat.com |
@@ -1494,6 +1522,7 @@
 | pt.xham.live | white-label.stripchat.com |
 | pt.xhamsterlive.info | white-label.stripchat.com |
 | pt.xhlive.cam | white-label.stripchat.com |
+| pt.xhlive.net | white-label.stripchat.com |
 | pt.xhlive.org | white-label.stripchat.com |
 | pt8.superchatlive.com | white-label.stripchat.com |
 | pt9.freestrip.chat | white-label.stripchat.com |
@@ -1641,6 +1670,8 @@
 | scgi.superchatlive.com | white-label.stripchat.com |
 | secure06.stripchat.global | white-label.stripchat.com |
 | securebox.superchat.live | white-label.stripchat.com |
+| secureimap.omg.adult | white-label.stripchat.com |
+| securepop.omg.adult | white-label.stripchat.com |
 | send7.spankbanglive.com | white-label.stripchat.com |
 | serv124.strp.chat | white-label.stripchat.com |
 | serv50.chiccams.com | white-label.stripchat.com |
@@ -1671,7 +1702,9 @@
 | sk.nsfwlivechat.com | white-label.stripchat.com |
 | sk.omg.adult | white-label.stripchat.com |
 | sk.shemale.show | white-label.stripchat.com |
+| sk.stripchat.global | white-label.stripchat.com |
 | sk.xham.live | white-label.stripchat.com |
+| sk.xhlive.net | white-label.stripchat.com |
 | skc.omg.adult | white-label.stripchat.com |
 | slacker.omg.adult | white-label.stripchat.com |
 | slump.myavlive.com | white-label.stripchat.com |
@@ -1776,6 +1809,7 @@
 | sv.sexygirlspics.live | white-label.stripchat.com |
 | sv.shemale.show | white-label.stripchat.com |
 | sv.spankbanglive.com | white-label.stripchat.com |
+| sv.strip-chat.club | white-label.stripchat.com |
 | sv.stripchat.beeg.com | white-label.stripchat.com |
 | sv.stripchat.global | white-label.stripchat.com |
 | sv.stripchatgirls.com | white-label.stripchat.com |
@@ -1837,7 +1871,6 @@
 | tr.live.javmix.tv | white-label.stripchat.com |
 | tr.live7mm.tv | white-label.stripchat.com |
 | tr.livecamlovetr.com | white-label.stripchat.com |
-| tr.livesextape.com | white-label.stripchat.com |
 | tr.myavlive.com | white-label.stripchat.com |
 | tr.mycamtv.com | white-label.stripchat.com |
 | tr.nsfwlivechat.com | white-label.stripchat.com |
@@ -1949,6 +1982,7 @@
 | vi.aznudelive.com | white-label.stripchat.com |
 | vi.boyfriend.show | white-label.stripchat.com |
 | vi.celebjihad.live | white-label.stripchat.com |
+| vi.hot-india.com | white-label.stripchat.com |
 | vi.hotzcam.com | white-label.stripchat.com |
 | vi.liveandsexy.cam | white-label.stripchat.com |
 | vi.myavlive.com | white-label.stripchat.com |
@@ -1962,11 +1996,14 @@
 | vi.spankbanglive.com | white-label.stripchat.com |
 | vi.stripchat.global | white-label.stripchat.com |
 | vi.stripchatgirls.com | white-label.stripchat.com |
+| vi.stripchats.global | white-label.stripchat.com |
 | vi.stripchats.io | white-label.stripchat.com |
 | vi.strp.chat | white-label.stripchat.com |
+| vi.superchat.live | white-label.stripchat.com |
 | vi.tklivechat.com | white-label.stripchat.com |
 | vi.xham.live | white-label.stripchat.com |
 | vi.xhlive.cam | white-label.stripchat.com |
+| vi.xhlive.net | white-label.stripchat.com |
 | vice.spankbanglive.com | white-label.stripchat.com |
 | video.drtuberlive.com | white-label.stripchat.com |
 | video.live.javmix.tv | white-label.stripchat.com |
@@ -1995,6 +2032,7 @@
 | vr.celebjihad.live | white-label.stripchat.com |
 | vr.colsex.com | white-label.stripchat.com |
 | vr.hot-india.com | white-label.stripchat.com |
+| vr.hotzcam.com | white-label.stripchat.com |
 | vr.live.javmix.tv | white-label.stripchat.com |
 | vr.myavlive.com | white-label.stripchat.com |
 | vr.mycamtv.com | white-label.stripchat.com |
@@ -2076,6 +2114,7 @@
 | ww1.celebjihad.live | white-label.stripchat.com |
 | ww1.superchat.live | white-label.stripchat.com |
 | ww1.superchatlive.com | white-label.stripchat.com |
+| ww16.spankbanglive.com | white-label.stripchat.com |
 | ww16.superchatlive.com | white-label.stripchat.com |
 | ww25.superchatlive.com | white-label.stripchat.com |
 | www-q.superchatlive.com | white-label.stripchat.com |
@@ -2281,6 +2320,7 @@
 | xn--trk-hoa.boyfriend.show | white-label.stripchat.com |
 | xor.tklivechat.com | white-label.stripchat.com |
 | xrp7704.stripchatgirls.com | white-label.stripchat.com |
+| y822o.t8axah.ak2ucmc.5tt.ntc1q.boyfriend.show | white-label.stripchat.com |
 | yas.boyfriend.show | white-label.stripchat.com |
 | yd.camsplanetlive.com | white-label.stripchat.com |
 | yiwxxnqomx.boyfriend.show | white-label.stripchat.com |
@@ -2350,3 +2390,4 @@
 | zt.tklivechat.com | white-label.stripchat.com |
 | zt.xham.live | white-label.stripchat.com |
 | zt.xhlive.cam | white-label.stripchat.com |
+| zt.xhlive.net | white-label.stripchat.com |
