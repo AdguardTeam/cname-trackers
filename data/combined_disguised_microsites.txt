@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME disguised microsites list
 ! Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-! TimeUpdated: 2025-07-07T08:00:10+00:00
+! TimeUpdated: 2025-07-08T15:35:59+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 ||0-13-9-crs.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediadrsprofildr.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediadrsprofildr.datadoghq.oohmediaomprooohmediadrspage.agent.ap1.datadoghq.com^
@@ -747,7 +747,6 @@
 ||100016075.collect.igodigital.com^
 ||100016108.collect.igodigital.com^
 ||100016143.collect.igodigital.com^
-||100016150.collect.igodigital.com^
 ||100016157.collect.igodigital.com^
 ||100016163.collect.igodigital.com^
 ||100016187.collect.igodigital.com^
@@ -868,7 +867,6 @@
 ||100019053.collect.igodigital.com^
 ||100019104.collect.igodigital.com^
 ||100019105.collect.igodigital.com^
-||100019114.collect.igodigital.com^
 ||100019180.collect.igodigital.com^
 ||100019216.collect.igodigital.com^
 ||100019283.collect.igodigital.com^
@@ -903,7 +901,6 @@
 ||100020456.collect.igodigital.com^
 ||100020509.collect.igodigital.com^
 ||100020515.collect.igodigital.com^
-||100020516.collect.igodigital.com^
 ||100020527.collect.igodigital.com^
 ||100020553.collect.igodigital.com^
 ||100020555.collect.igodigital.com^
@@ -1080,7 +1077,6 @@
 ||100029463.collect.igodigital.com^
 ||100029472.collect.igodigital.com^
 ||100029502.collect.igodigital.com^
-||100029714.collect.igodigital.com^
 ||100029974.collect.igodigital.com^
 ||100029976.collect.igodigital.com^
 ||100029986.collect.igodigital.com^
@@ -1237,7 +1233,6 @@
 ||1057925.collect.igodigital.com^
 ||1058715.collect.igodigital.com^
 ||1058730.collect.igodigital.com^
-||1058863.collect.igodigital.com^
 ||1058873.collect.igodigital.com^
 ||1058874.collect.igodigital.com^
 ||1058877.collect.igodigital.com^
@@ -1350,7 +1345,6 @@
 ||10766254.collect.igodigital.com^
 ||10766255.collect.igodigital.com^
 ||10766256.collect.igodigital.com^
-||1076826.global.siteimproveanalytics.io^
 ||1076830.collect.igodigital.com^
 ||10770731.collect.igodigital.com^
 ||1077654.collect.igodigital.com^
@@ -1418,7 +1412,6 @@
 ||10940241.collect.igodigital.com^
 ||10940248.collect.igodigital.com^
 ||10941956.collect.igodigital.com^
-||10941969.collect.igodigital.com^
 ||10942011.collect.igodigital.com^
 ||10942086.collect.igodigital.com^
 ||10942095.collect.igodigital.com^
@@ -1516,12 +1509,10 @@
 ||10966375.collect.igodigital.com^
 ||10966419.collect.igodigital.com^
 ||10966452.collect.igodigital.com^
-||10966870.collect.igodigital.com^
 ||10966871.collect.igodigital.com^
 ||10966891.collect.igodigital.com^
 ||10968458.collect.igodigital.com^
 ||10970005.collect.igodigital.com^
-||10971319.collect.igodigital.com^
 ||10971852.collect.igodigital.com^
 ||10972.global.siteimproveanalytics.io^
 ||10972460.collect.igodigital.com^
@@ -1536,7 +1527,6 @@
 ||10974566.collect.igodigital.com^
 ||10974610.collect.igodigital.com^
 ||10975018.collect.igodigital.com^
-||10975077.collect.igodigital.com^
 ||10975610.collect.igodigital.com^
 ||10975613.collect.igodigital.com^
 ||10976489.collect.igodigital.com^
@@ -1559,7 +1549,6 @@
 ||10979192.collect.igodigital.com^
 ||10979392.collect.igodigital.com^
 ||10979442.collect.igodigital.com^
-||10979470.collect.igodigital.com^
 ||10979662.collect.igodigital.com^
 ||10979697.collect.igodigital.com^
 ||10980052.collect.igodigital.com^
@@ -1583,7 +1572,6 @@
 ||10983557.collect.igodigital.com^
 ||10983629.collect.igodigital.com^
 ||10983657.collect.igodigital.com^
-||10983659.collect.igodigital.com^
 ||10984.global.siteimproveanalytics.io^
 ||10984221.collect.igodigital.com^
 ||10984507.collect.igodigital.com^
@@ -1695,11 +1683,9 @@
 ||110006144.collect.igodigital.com^
 ||110006164.collect.igodigital.com^
 ||110006185.collect.igodigital.com^
-||110006207.collect.igodigital.com^
 ||110006286.collect.igodigital.com^
 ||110006298.collect.igodigital.com^
 ||110006329.collect.igodigital.com^
-||110006345.collect.igodigital.com^
 ||110006361.collect.igodigital.com^
 ||110006378.collect.igodigital.com^
 ||110006443.collect.igodigital.com^
@@ -1809,6 +1795,7 @@
 ||12733.global.siteimproveanalytics.io^
 ||12749.global.siteimproveanalytics.io^
 ||12952.global.siteimproveanalytics.io^
+||12pzh49-pno3.superchatlive.com^
 ||12zu6wphd5lbhrv-p.clead.xyz^
 ||1302357.global.siteimproveanalytics.io^
 ||1302416.global.siteimproveanalytics.io^
@@ -1835,15 +1822,12 @@
 ||1306761.global.siteimproveanalytics.io^
 ||1306788.global.siteimproveanalytics.io^
 ||1306789.global.siteimproveanalytics.io^
-||1306845.global.siteimproveanalytics.io^
 ||1306861.global.siteimproveanalytics.io^
 ||1307621.global.siteimproveanalytics.io^
-||1307816.global.siteimproveanalytics.io^
 ||1307da803f.88d3a9a9a1.com^
 ||130884.collect.igodigital.com^
 ||13092.global.siteimproveanalytics.io^
 ||1310387.global.siteimproveanalytics.io^
-||1310391.global.siteimproveanalytics.io^
 ||1310399.global.siteimproveanalytics.io^
 ||1310736.global.siteimproveanalytics.io^
 ||1310954.global.siteimproveanalytics.io^
@@ -1851,7 +1835,6 @@
 ||1311286.global.siteimproveanalytics.io^
 ||1311885.global.siteimproveanalytics.io^
 ||13119.global.siteimproveanalytics.io^
-||1315417.collect.igodigital.com^
 ||1316.global.siteimproveanalytics.io^
 ||1317076.collect.igodigital.com^
 ||1319826.collect.igodigital.com^
@@ -1860,7 +1843,6 @@
 ||133168.global.siteimproveanalytics.io^
 ||1332585.collect.igodigital.com^
 ||1336710.collect.igodigital.com^
-||133855.global.siteimproveanalytics.io^
 ||133865.global.siteimproveanalytics.io^
 ||1338814.collect.igodigital.com^
 ||133894.global.siteimproveanalytics.io^
@@ -1868,13 +1850,10 @@
 ||1339402.collect.igodigital.com^
 ||1341604.collect.igodigital.com^
 ||1341607.collect.igodigital.com^
-||1343627.collect.igodigital.com^
 ||1345236.collect.igodigital.com^
 ||1345616.collect.igodigital.com^
-||13471.global.siteimproveanalytics.io^
 ||1347335.collect.igodigital.com^
 ||1347764.collect.igodigital.com^
-||1347780.collect.igodigital.com^
 ||1347888.collect.igodigital.com^
 ||1347974.collect.igodigital.com^
 ||1352441.collect.igodigital.com^
@@ -1886,7 +1865,6 @@
 ||1360697.collect.igodigital.com^
 ||1361992.collect.igodigital.com^
 ||1362441.collect.igodigital.com^
-||1362649.collect.igodigital.com^
 ||1363516.collect.igodigital.com^
 ||1365841.collect.igodigital.com^
 ||1369801.collect.igodigital.com^
@@ -1896,7 +1874,6 @@
 ||13727.global.siteimproveanalytics.io^
 ||1377430.collect.igodigital.com^
 ||1378406.collect.igodigital.com^
-||13793.global.siteimproveanalytics.io^
 ||1379390.collect.igodigital.com^
 ||1380239.collect.igodigital.com^
 ||13866.global.siteimproveanalytics.io^
@@ -1923,8 +1900,6 @@
 ||1430083.collect.igodigital.com^
 ||1432524.collect.igodigital.com^
 ||1433114dbc.ff862f99b4.com^
-||1434458.collect.igodigital.com^
-||1434459.collect.igodigital.com^
 ||1434460.collect.igodigital.com^
 ||1434462.collect.igodigital.com^
 ||1435039.collect.igodigital.com^
@@ -1933,11 +1908,9 @@
 ||1442043.collect.igodigital.com^
 ||1442147.collect.igodigital.com^
 ||145.net-31.172.chiccams.com^
-||1450995.collect.igodigital.com^
 ||1451036.collect.igodigital.com^
 ||1451385.collect.igodigital.com^
 ||1453436.collect.igodigital.com^
-||1453600.collect.igodigital.com^
 ||1455280.collect.igodigital.com^
 ||1456665.collect.igodigital.com^
 ||1457710.collect.igodigital.com^
@@ -1945,7 +1918,6 @@
 ||14599.global.siteimproveanalytics.io^
 ||1461416.collect.igodigital.com^
 ||1461663.collect.igodigital.com^
-||1463681.collect.igodigital.com^
 ||1465327.collect.igodigital.com^
 ||1465414.collect.igodigital.com^
 ||1466763.collect.igodigital.com^
@@ -1958,7 +1930,6 @@
 ||1476456.collect.igodigital.com^
 ||1479366.collect.igodigital.com^
 ||1479637.collect.igodigital.com^
-||1479652.collect.igodigital.com^
 ||1479662.collect.igodigital.com^
 ||1479674.collect.igodigital.com^
 ||1479684.collect.igodigital.com^
@@ -2022,12 +1993,10 @@
 ||170.net-31.172.myavlive.com^
 ||170.static.stripchatgirls.com^
 ||1705.global.siteimproveanalytics.io^
-||17097.global.siteimproveanalytics.io^
 ||171.static.freestrip.chat^
 ||171a426230.585ca31d10.com^
 ||17809.global.siteimproveanalytics.io^
 ||179d1eff2c.f1cf6f66fe.com^
-||18186.global.siteimproveanalytics.io^
 ||1826.global.siteimproveanalytics.io^
 ||18499.global.siteimproveanalytics.io^
 ||18596.global.siteimproveanalytics.io^
@@ -2036,7 +2005,6 @@
 ||188239.collect.igodigital.com^
 ||18892.global.siteimproveanalytics.io^
 ||1900196654.p04.elqsandbox.com^
-||1908605.global.siteimproveanalytics.io^
 ||1908684.global.siteimproveanalytics.io^
 ||1908767.global.siteimproveanalytics.io^
 ||19100.global.siteimproveanalytics.io^
@@ -2046,7 +2014,6 @@
 ||19247.global.siteimproveanalytics.io^
 ||192579.collect.igodigital.com^
 ||19298.global.siteimproveanalytics.io^
-||193067.collect.igodigital.com^
 ||193237.collect.igodigital.com^
 ||19411.global.siteimproveanalytics.io^
 ||19457.global.siteimproveanalytics.io^
@@ -2122,7 +2089,6 @@
 ||2644.global.siteimproveanalytics.io^
 ||26724.global.siteimproveanalytics.io^
 ||267308.global.siteimproveanalytics.io^
-||267311.global.siteimproveanalytics.io^
 ||26901.global.siteimproveanalytics.io^
 ||26972.global.siteimproveanalytics.io^
 ||26d8d63e24.1b00a325c4.com^
@@ -2151,7 +2117,6 @@
 ||27lg6-cq6n3.ads.tremorhub.com^
 ||28.static.shemale.show^
 ||28055.global.siteimproveanalytics.io^
-||28357.global.siteimproveanalytics.io^
 ||28641.global.siteimproveanalytics.io^
 ||287560.global.siteimproveanalytics.io^
 ||28987.collect.igodigital.com^
@@ -2236,13 +2201,10 @@
 ||3588.global.siteimproveanalytics.io^
 ||35881.global.siteimproveanalytics.io^
 ||35f1f7129e.279a342278.com^
-||36089.global.siteimproveanalytics.io^
 ||360895.global.siteimproveanalytics.io^
-||360direct.qualfon.com^
 ||36213.global.siteimproveanalytics.io^
 ||363510.global.siteimproveanalytics.io^
 ||363588.global.siteimproveanalytics.io^
-||3636.global.siteimproveanalytics.io^
 ||365229.global.siteimproveanalytics.io^
 ||3658.global.siteimproveanalytics.io^
 ||368692.global.siteimproveanalytics.io^
@@ -2290,7 +2252,6 @@
 ||42747.global.siteimproveanalytics.io^
 ||42be5b600b.fcac6f9c91.com^
 ||430e6749c9.4a93064ed9.com^
-||4317.global.siteimproveanalytics.io^
 ||432813.global.siteimproveanalytics.io^
 ||43b71a0471.b18244c6c3.com^
 ||44630.global.siteimproveanalytics.io^
@@ -2305,7 +2266,6 @@
 ||465752.global.siteimproveanalytics.io^
 ||465807.global.siteimproveanalytics.io^
 ||466928.global.siteimproveanalytics.io^
-||46778.global.siteimproveanalytics.io^
 ||469695.global.siteimproveanalytics.io^
 ||469933.global.siteimproveanalytics.io^
 ||470583.global.siteimproveanalytics.io^
@@ -2322,7 +2282,6 @@
 ||49281.global.siteimproveanalytics.io^
 ||49454.global.siteimproveanalytics.io^
 ||495.global.siteimproveanalytics.io^
-||499073.global.siteimproveanalytics.io^
 ||49rqiyckzllyvpq-p.bonnelectureatous.fr^
 ||4a2aac440d.7e4c883e71.com^
 ||4ada3756e4.390c1c46b8.com^
@@ -2346,7 +2305,6 @@
 ||4uqgdju7g68otbn-p.adkclicker.fr^
 ||4yayornaciwlvtk-c.adkoffer.fr^
 ||5-11-8-app.agent.datadoghq.com^
-||500007427.collect.igodigital.com^
 ||500007710.collect.igodigital.com^
 ||500007787.collect.igodigital.com^
 ||500007837.collect.igodigital.com^
@@ -2359,10 +2317,7 @@
 ||500008068.collect.igodigital.com^
 ||500008073.collect.igodigital.com^
 ||500008074.collect.igodigital.com^
-||500008115.collect.igodigital.com^
-||500008153.collect.igodigital.com^
 ||500008170.collect.igodigital.com^
-||500008246.collect.igodigital.com^
 ||500008294.collect.igodigital.com^
 ||500008396.collect.igodigital.com^
 ||500008415.collect.igodigital.com^
@@ -2373,7 +2328,6 @@
 ||500008520.collect.igodigital.com^
 ||500008576.collect.igodigital.com^
 ||500008578.collect.igodigital.com^
-||500008599.collect.igodigital.com^
 ||500008614.collect.igodigital.com^
 ||500008615.collect.igodigital.com^
 ||500008618.collect.igodigital.com^
@@ -2381,7 +2335,6 @@
 ||500008653.collect.igodigital.com^
 ||500008661.collect.igodigital.com^
 ||500008700.collect.igodigital.com^
-||500008712.collect.igodigital.com^
 ||500008738.collect.igodigital.com^
 ||500008769.collect.igodigital.com^
 ||500008823.collect.igodigital.com^
@@ -2464,7 +2417,6 @@
 ||510000745.collect.igodigital.com^
 ||510000762.collect.igodigital.com^
 ||510000764.collect.igodigital.com^
-||510000784.collect.igodigital.com^
 ||510000802.collect.igodigital.com^
 ||510000806.collect.igodigital.com^
 ||510000808.collect.igodigital.com^
@@ -2495,7 +2447,6 @@
 ||510001238.collect.igodigital.com^
 ||510001266.collect.igodigital.com^
 ||510001276.collect.igodigital.com^
-||510001278.collect.igodigital.com^
 ||510001279.collect.igodigital.com^
 ||510001284.collect.igodigital.com^
 ||510001293.collect.igodigital.com^
@@ -2573,7 +2524,6 @@
 ||510003014.collect.igodigital.com^
 ||510003015.collect.igodigital.com^
 ||510003051.collect.igodigital.com^
-||510003055.collect.igodigital.com^
 ||510003081.collect.igodigital.com^
 ||510003104.collect.igodigital.com^
 ||510003159.collect.igodigital.com^
@@ -2581,7 +2531,6 @@
 ||510003181.collect.igodigital.com^
 ||510003294.collect.igodigital.com^
 ||510003350.collect.igodigital.com^
-||510003359.collect.igodigital.com^
 ||510003380.collect.igodigital.com^
 ||510003434.collect.igodigital.com^
 ||510003454.collect.igodigital.com^
@@ -2613,7 +2562,6 @@
 ||510004425.collect.igodigital.com^
 ||510004453.collect.igodigital.com^
 ||510004466.collect.igodigital.com^
-||510004498.collect.igodigital.com^
 ||510004503.collect.igodigital.com^
 ||510004515.collect.igodigital.com^
 ||510004517.collect.igodigital.com^
@@ -2627,7 +2575,6 @@
 ||510004623.collect.igodigital.com^
 ||510004630.collect.igodigital.com^
 ||510004631.collect.igodigital.com^
-||510004671.collect.igodigital.com^
 ||510004679.collect.igodigital.com^
 ||510004703.collect.igodigital.com^
 ||510004706.collect.igodigital.com^
@@ -2647,7 +2594,6 @@
 ||510005334.collect.igodigital.com^
 ||510005337.collect.igodigital.com^
 ||510005391.collect.igodigital.com^
-||510005392.collect.igodigital.com^
 ||510005393.collect.igodigital.com^
 ||510005395.collect.igodigital.com^
 ||510005411.collect.igodigital.com^
@@ -2704,7 +2650,6 @@
 ||510009712.collect.igodigital.com^
 ||510009713.collect.igodigital.com^
 ||510009714.collect.igodigital.com^
-||510009921.collect.igodigital.com^
 ||510009936.collect.igodigital.com^
 ||510009943.collect.igodigital.com^
 ||510010361.collect.igodigital.com^
@@ -2723,7 +2668,6 @@
 ||514000909.collect.igodigital.com^
 ||514001057.collect.igodigital.com^
 ||514001078.collect.igodigital.com^
-||514001225.collect.igodigital.com^
 ||514001280.collect.igodigital.com^
 ||514001333.collect.igodigital.com^
 ||514001435.collect.igodigital.com^
@@ -2731,7 +2675,6 @@
 ||514001447.collect.igodigital.com^
 ||514001490.collect.igodigital.com^
 ||514001506.collect.igodigital.com^
-||514001543.collect.igodigital.com^
 ||514001545.collect.igodigital.com^
 ||514001547.collect.igodigital.com^
 ||514001548.collect.igodigital.com^
@@ -2762,12 +2705,10 @@
 ||514003226.collect.igodigital.com^
 ||514003532.collect.igodigital.com^
 ||514003584.collect.igodigital.com^
-||514003610.collect.igodigital.com^
 ||514003616.collect.igodigital.com^
 ||514003637.collect.igodigital.com^
 ||514003692.collect.igodigital.com^
 ||514003846.collect.igodigital.com^
-||514003896.collect.igodigital.com^
 ||514004004.collect.igodigital.com^
 ||514004201.collect.igodigital.com^
 ||514004344.collect.igodigital.com^
@@ -2809,7 +2750,6 @@
 ||514006906.collect.igodigital.com^
 ||514006908.collect.igodigital.com^
 ||514006909.collect.igodigital.com^
-||514006924.collect.igodigital.com^
 ||514006926.collect.igodigital.com^
 ||514006927.collect.igodigital.com^
 ||514006956.collect.igodigital.com^
@@ -2898,7 +2838,6 @@
 ||514021128.collect.igodigital.com^
 ||514021787.collect.igodigital.com^
 ||514021876.collect.igodigital.com^
-||514021909.collect.igodigital.com^
 ||514022158.collect.igodigital.com^
 ||514022160.collect.igodigital.com^
 ||514022358.collect.igodigital.com^
@@ -3007,7 +2946,6 @@
 ||515008369.collect.igodigital.com^
 ||515008437.collect.igodigital.com^
 ||515008558.collect.igodigital.com^
-||515008574.collect.igodigital.com^
 ||515008911.collect.igodigital.com^
 ||515009049.collect.igodigital.com^
 ||515009269.collect.igodigital.com^
@@ -3037,12 +2975,10 @@
 ||515011944.collect.igodigital.com^
 ||515012183.collect.igodigital.com^
 ||515012199.collect.igodigital.com^
-||515012494.collect.igodigital.com^
 ||515012503.collect.igodigital.com^
 ||515012504.collect.igodigital.com^
 ||515012778.collect.igodigital.com^
 ||515012961.collect.igodigital.com^
-||515013205.collect.igodigital.com^
 ||515013314.collect.igodigital.com^
 ||515014033.collect.igodigital.com^
 ||515014072.collect.igodigital.com^
@@ -3060,7 +2996,6 @@
 ||51624.global.siteimproveanalytics.io^
 ||5162599.global.siteimproveanalytics.io^
 ||517003301.collect.igodigital.com^
-||51731.global.siteimproveanalytics.io^
 ||518000303.collect.igodigital.com^
 ||518000367.collect.igodigital.com^
 ||518000528.collect.igodigital.com^
@@ -3070,7 +3005,6 @@
 ||518000969.collect.igodigital.com^
 ||518001267.collect.igodigital.com^
 ||518001494.collect.igodigital.com^
-||518001505.collect.igodigital.com^
 ||518001534.collect.igodigital.com^
 ||518001556.collect.igodigital.com^
 ||518001743.collect.igodigital.com^
@@ -3079,7 +3013,6 @@
 ||518002090.collect.igodigital.com^
 ||518002092.collect.igodigital.com^
 ||518002452.collect.igodigital.com^
-||518002846.collect.igodigital.com^
 ||518002874.collect.igodigital.com^
 ||518002946.collect.igodigital.com^
 ||518003013.collect.igodigital.com^
@@ -3111,11 +3044,9 @@
 ||51i9l-yz4gl.ads.tremorhub.com^
 ||520000019.collect.igodigital.com^
 ||520000418.collect.igodigital.com^
-||520000421.collect.igodigital.com^
 ||520000604.collect.igodigital.com^
 ||520000880.collect.igodigital.com^
 ||520000924.collect.igodigital.com^
-||520000945.collect.igodigital.com^
 ||520001492.collect.igodigital.com^
 ||520001618.collect.igodigital.com^
 ||520001889.collect.igodigital.com^
@@ -3133,24 +3064,19 @@
 ||523014609.collect.igodigital.com^
 ||52346.global.siteimproveanalytics.io^
 ||524000271.collect.igodigital.com^
-||524000275.collect.igodigital.com^
 ||524000691.collect.igodigital.com^
 ||524001000.collect.igodigital.com^
 ||524001566.collect.igodigital.com^
 ||524001567.collect.igodigital.com^
 ||524001720.collect.igodigital.com^
-||524002032.collect.igodigital.com^
-||524002573.collect.igodigital.com^
 ||524002580.collect.igodigital.com^
 ||524002657.collect.igodigital.com^
 ||524002726.collect.igodigital.com^
 ||524002760.collect.igodigital.com^
 ||524002769.collect.igodigital.com^
-||524002779.collect.igodigital.com^
 ||524002780.collect.igodigital.com^
 ||524002782.collect.igodigital.com^
 ||524002791.collect.igodigital.com^
-||524003085.collect.igodigital.com^
 ||524003212.collect.igodigital.com^
 ||524003370.collect.igodigital.com^
 ||524003436.collect.igodigital.com^
@@ -3165,7 +3091,6 @@
 ||524006085.collect.igodigital.com^
 ||524006086.collect.igodigital.com^
 ||524006087.collect.igodigital.com^
-||524006091.collect.igodigital.com^
 ||524007504.collect.igodigital.com^
 ||52471.global.siteimproveanalytics.io^
 ||526000532.collect.igodigital.com^
@@ -3214,7 +3139,6 @@
 ||526003490.collect.igodigital.com^
 ||526003642.collect.igodigital.com^
 ||52665.global.siteimproveanalytics.io^
-||52845.global.siteimproveanalytics.io^
 ||52fd9f7fa7.e65303ab96.com^
 ||53067.collect.igodigital.com^
 ||53152.global.siteimproveanalytics.io^
@@ -3321,14 +3245,12 @@
 ||534014871.collect.igodigital.com^
 ||534016218.collect.igodigital.com^
 ||536000441.collect.igodigital.com^
-||536000656.collect.igodigital.com^
 ||536000833.collect.igodigital.com^
 ||536000855.collect.igodigital.com^
 ||536000936.collect.igodigital.com^
 ||536000948.collect.igodigital.com^
 ||536000964.collect.igodigital.com^
 ||536000966.collect.igodigital.com^
-||536001179.collect.igodigital.com^
 ||536001240.collect.igodigital.com^
 ||536001252.collect.igodigital.com^
 ||536001259.collect.igodigital.com^
@@ -3354,7 +3276,6 @@
 ||536002289.collect.igodigital.com^
 ||536002447.collect.igodigital.com^
 ||536002545.collect.igodigital.com^
-||536002659.collect.igodigital.com^
 ||536002789.collect.igodigital.com^
 ||536002792.collect.igodigital.com^
 ||536003050.collect.igodigital.com^
@@ -3424,7 +3345,6 @@
 ||546000989.collect.igodigital.com^
 ||546001125.collect.igodigital.com^
 ||546001173.collect.igodigital.com^
-||546001199.collect.igodigital.com^
 ||546001331.collect.igodigital.com^
 ||546001335.collect.igodigital.com^
 ||546001425.collect.igodigital.com^
@@ -3463,7 +3383,6 @@
 ||546006443.collect.igodigital.com^
 ||546006445.collect.igodigital.com^
 ||546007595.collect.igodigital.com^
-||546007681.collect.igodigital.com^
 ||546007823.collect.igodigital.com^
 ||546008135.collect.igodigital.com^
 ||546008178.collect.igodigital.com^
@@ -3621,7 +3540,6 @@
 ||6014518.global.siteimproveanalytics.io^
 ||6014604.global.siteimproveanalytics.io^
 ||6014700.global.siteimproveanalytics.io^
-||6014746.global.siteimproveanalytics.io^
 ||6014988.global.siteimproveanalytics.io^
 ||6015191.global.siteimproveanalytics.io^
 ||6015708.global.siteimproveanalytics.io^
@@ -3650,12 +3568,10 @@
 ||6026208.global.siteimproveanalytics.io^
 ||6026264.global.siteimproveanalytics.io^
 ||6026771.global.siteimproveanalytics.io^
-||6027201.global.siteimproveanalytics.io^
 ||6028018.global.siteimproveanalytics.io^
 ||6028340.global.siteimproveanalytics.io^
 ||6029428.global.siteimproveanalytics.io^
 ||6031030.global.siteimproveanalytics.io^
-||6032661.global.siteimproveanalytics.io^
 ||6032860.global.siteimproveanalytics.io^
 ||6032997.global.siteimproveanalytics.io^
 ||6033027.global.siteimproveanalytics.io^
@@ -3666,7 +3582,6 @@
 ||6034304.global.siteimproveanalytics.io^
 ||6034319.global.siteimproveanalytics.io^
 ||6035281.global.siteimproveanalytics.io^
-||6035397.global.siteimproveanalytics.io^
 ||6035398.global.siteimproveanalytics.io^
 ||6035417.global.siteimproveanalytics.io^
 ||6035548.global.siteimproveanalytics.io^
@@ -3707,7 +3622,6 @@
 ||6050140.global.siteimproveanalytics.io^
 ||6050166.global.siteimproveanalytics.io^
 ||6051445.global.siteimproveanalytics.io^
-||6051981.global.siteimproveanalytics.io^
 ||6052271.global.siteimproveanalytics.io^
 ||6052693.global.siteimproveanalytics.io^
 ||6052778.global.siteimproveanalytics.io^
@@ -3718,7 +3632,6 @@
 ||6054389.global.siteimproveanalytics.io^
 ||6054592.global.siteimproveanalytics.io^
 ||6054618.global.siteimproveanalytics.io^
-||6057207.global.siteimproveanalytics.io^
 ||6057450.global.siteimproveanalytics.io^
 ||6059666.global.siteimproveanalytics.io^
 ||6059671.global.siteimproveanalytics.io^
@@ -3729,7 +3642,6 @@
 ||6065861.global.siteimproveanalytics.io^
 ||6067402.global.siteimproveanalytics.io^
 ||6067900.global.siteimproveanalytics.io^
-||6068249.global.siteimproveanalytics.io^
 ||6068438.global.siteimproveanalytics.io^
 ||6068669.global.siteimproveanalytics.io^
 ||606943.global.siteimproveanalytics.io^
@@ -3749,14 +3661,12 @@
 ||6087198.global.siteimproveanalytics.io^
 ||6089320.global.siteimproveanalytics.io^
 ||6089862.global.siteimproveanalytics.io^
-||6095493.global.siteimproveanalytics.io^
 ||6096939.global.siteimproveanalytics.io^
 ||6097008.global.siteimproveanalytics.io^
 ||6097251.global.siteimproveanalytics.io^
 ||6097280.global.siteimproveanalytics.io^
 ||6097327.global.siteimproveanalytics.io^
 ||6097616.global.siteimproveanalytics.io^
-||6098022.global.siteimproveanalytics.io^
 ||60a0d15c08.fd543926b7.com^
 ||60cedb9d45.c959924432.com^
 ||60d27b4251.8ce997f25e.com^
@@ -3764,7 +3674,6 @@
 ||6101843.global.siteimproveanalytics.io^
 ||61027.global.siteimproveanalytics.io^
 ||6104874.global.siteimproveanalytics.io^
-||6104923.global.siteimproveanalytics.io^
 ||6108104.global.siteimproveanalytics.io^
 ||6109829.global.siteimproveanalytics.io^
 ||6111663.global.siteimproveanalytics.io^
@@ -3773,10 +3682,8 @@
 ||6113782.global.siteimproveanalytics.io^
 ||6114620.global.siteimproveanalytics.io^
 ||6115071.global.siteimproveanalytics.io^
-||6116098.global.siteimproveanalytics.io^
 ||6116803.global.siteimproveanalytics.io^
 ||6117921.global.siteimproveanalytics.io^
-||6119418.global.siteimproveanalytics.io^
 ||6121624.global.siteimproveanalytics.io^
 ||6122045.global.siteimproveanalytics.io^
 ||6122517.global.siteimproveanalytics.io^
@@ -3801,7 +3708,6 @@
 ||6136576.global.siteimproveanalytics.io^
 ||61392.global.siteimproveanalytics.io^
 ||6141142.global.siteimproveanalytics.io^
-||6141367.global.siteimproveanalytics.io^
 ||6145413.global.siteimproveanalytics.io^
 ||6145465.global.siteimproveanalytics.io^
 ||6147797.global.siteimproveanalytics.io^
@@ -3818,7 +3724,6 @@
 ||6171615.global.siteimproveanalytics.io^
 ||6172243.global.siteimproveanalytics.io^
 ||6173014.global.siteimproveanalytics.io^
-||6176374.global.siteimproveanalytics.io^
 ||6182251.collect.igodigital.com^
 ||6184.global.siteimproveanalytics.io^
 ||6184299.collect.igodigital.com^
@@ -3924,14 +3829,12 @@
 ||6294358.global.r2.siteimproveanalytics.io^
 ||6294748.global.r2.siteimproveanalytics.io^
 ||6294877.global.r2.siteimproveanalytics.io^
-||6297592.global.r2.siteimproveanalytics.io^
 ||6301357.collect.igodigital.com^
 ||6301360.collect.igodigital.com^
 ||6311223.collect.igodigital.com^
 ||6313252.collect.igodigital.com^
 ||6313253.collect.igodigital.com^
 ||6313256.collect.igodigital.com^
-||6313257.collect.igodigital.com^
 ||6315119.global.r2.siteimproveanalytics.io^
 ||6319400.global.siteimproveanalytics.io^
 ||6320729.collect.igodigital.com^
@@ -3951,7 +3854,6 @@
 ||6340061.global.r2.siteimproveanalytics.io^
 ||6340230.global.r2.siteimproveanalytics.io^
 ||6341330.global.r2.siteimproveanalytics.io^
-||63427.global.siteimproveanalytics.io^
 ||6342734.global.r2.siteimproveanalytics.io^
 ||63430.global.siteimproveanalytics.io^
 ||63446.global.siteimproveanalytics.io^
@@ -3994,22 +3896,17 @@
 ||6413861.collect.igodigital.com^
 ||6414992.collect.igodigital.com^
 ||6416284.collect.igodigital.com^
-||6416357.collect.igodigital.com^
 ||6416421.collect.igodigital.com^
 ||6416596.collect.igodigital.com^
 ||6417126.collect.igodigital.com^
 ||6417402.collect.igodigital.com^
-||6417587.collect.igodigital.com^
 ||6417589.collect.igodigital.com^
-||6418186.collect.igodigital.com^
 ||6418226.collect.igodigital.com^
 ||6418247.collect.igodigital.com^
-||6418281.collect.igodigital.com^
 ||6418436.collect.igodigital.com^
 ||6418990.collect.igodigital.com^
 ||6419171.collect.igodigital.com^
 ||6419187.collect.igodigital.com^
-||6419188.collect.igodigital.com^
 ||6419189.collect.igodigital.com^
 ||6419468.collect.igodigital.com^
 ||6419479.collect.igodigital.com^
@@ -4029,12 +3926,10 @@
 ||6423138.collect.igodigital.com^
 ||6424405.collect.igodigital.com^
 ||6424457.collect.igodigital.com^
-||6424502.collect.igodigital.com^
 ||6424595.collect.igodigital.com^
 ||6424995.collect.igodigital.com^
 ||6425093.collect.igodigital.com^
 ||6425582.collect.igodigital.com^
-||6425638.collect.igodigital.com^
 ||6426127.collect.igodigital.com^
 ||6426136.collect.igodigital.com^
 ||6426511.collect.igodigital.com^
@@ -4042,11 +3937,9 @@
 ||64370.global.siteimproveanalytics.io^
 ||6451.global.siteimproveanalytics.io^
 ||6456462b8a.d5fb45ce94.com^
-||64854.global.siteimproveanalytics.io^
 ||6518.global.siteimproveanalytics.io^
 ||65218.global.siteimproveanalytics.io^
 ||6537.global.siteimproveanalytics.io^
-||65391.global.siteimproveanalytics.io^
 ||65413.global.siteimproveanalytics.io^
 ||65595.global.siteimproveanalytics.io^
 ||65a1f4997b.9fe538916e.com^
@@ -4060,15 +3953,9 @@
 ||66356331.global.siteimproveanalytics.io^
 ||66356337.global.siteimproveanalytics.io^
 ||66356363.global.siteimproveanalytics.io^
-||66356383.global.siteimproveanalytics.io^
 ||66356387.global.siteimproveanalytics.io^
-||66356389.global.siteimproveanalytics.io^
 ||66356409.global.siteimproveanalytics.io^
-||66356411.global.siteimproveanalytics.io^
 ||66356413.global.siteimproveanalytics.io^
-||66356453.global.siteimproveanalytics.io^
-||66356469.global.siteimproveanalytics.io^
-||66356475.global.siteimproveanalytics.io^
 ||66356481.global.siteimproveanalytics.io^
 ||66356487.global.siteimproveanalytics.io^
 ||66356501.global.siteimproveanalytics.io^
@@ -4098,10 +3985,7 @@
 ||66356929.global.siteimproveanalytics.io^
 ||66356957.global.siteimproveanalytics.io^
 ||66357005.global.siteimproveanalytics.io^
-||66357007.global.siteimproveanalytics.io^
 ||66357009.global.siteimproveanalytics.io^
-||66357031.global.siteimproveanalytics.io^
-||66357053.global.siteimproveanalytics.io^
 ||66357057.global.siteimproveanalytics.io^
 ||66357067.global.siteimproveanalytics.io^
 ||66357117.global.siteimproveanalytics.io^
@@ -4112,14 +3996,10 @@
 ||66357190.global.siteimproveanalytics.io^
 ||66357216.global.siteimproveanalytics.io^
 ||66357252.global.siteimproveanalytics.io^
-||66357254.global.siteimproveanalytics.io^
 ||66357262.global.siteimproveanalytics.io^
 ||66357272.global.siteimproveanalytics.io^
-||66357274.global.siteimproveanalytics.io^
 ||66357310.global.siteimproveanalytics.io^
 ||66357330.global.siteimproveanalytics.io^
-||66357346.global.siteimproveanalytics.io^
-||66357352.global.siteimproveanalytics.io^
 ||66357358.global.siteimproveanalytics.io^
 ||66357364.global.siteimproveanalytics.io^
 ||66357390.global.siteimproveanalytics.io^
@@ -4128,35 +4008,28 @@
 ||66357426.global.siteimproveanalytics.io^
 ||66357436.global.siteimproveanalytics.io^
 ||66357450.global.siteimproveanalytics.io^
-||66357472.global.siteimproveanalytics.io^
 ||66357498.global.siteimproveanalytics.io^
 ||66357527.global.siteimproveanalytics.io^
 ||66357567.global.siteimproveanalytics.io^
-||66357595.global.siteimproveanalytics.io^
 ||66357599.global.siteimproveanalytics.io^
 ||66357653.global.siteimproveanalytics.io^
 ||66357711.global.siteimproveanalytics.io^
 ||66357721.global.siteimproveanalytics.io^
 ||66357811.global.siteimproveanalytics.io^
 ||66358162.global.siteimproveanalytics.io^
-||66358180.global.siteimproveanalytics.io^
 ||66358242.global.siteimproveanalytics.io^
-||66358258.global.siteimproveanalytics.io^
 ||66358270.global.siteimproveanalytics.io^
 ||66358326.global.siteimproveanalytics.io^
 ||66358400.global.siteimproveanalytics.io^
 ||66358424.global.siteimproveanalytics.io^
 ||66358546.global.siteimproveanalytics.io^
-||66358600.global.siteimproveanalytics.io^
 ||66358627.global.siteimproveanalytics.io^
 ||66358741.global.siteimproveanalytics.io^
 ||66358897.global.siteimproveanalytics.io^
 ||66358903.global.siteimproveanalytics.io^
 ||66359000.global.siteimproveanalytics.io^
 ||66359020.global.siteimproveanalytics.io^
-||6639.global.siteimproveanalytics.io^
 ||66750.global.siteimproveanalytics.io^
-||6678.global.siteimproveanalytics.io^
 ||66a2d4c1ad.193ab8f364.com^
 ||66b978fced.59767b8571.com^
 ||66e0734c97.744a1d2fd3.com^
@@ -4222,6 +4095,7 @@
 ||6e7966fcaf.db8a63af00.com^
 ||6e8afjd5cwd9prp-p.adkoffer.fr^
 ||6ef8637b9b.d473cd71cf.com^
+||6f6934efb4.481516ca1d.com^
 ||6fe031ebf3.ec2f57e8c7.com^
 ||6jqsb3hwm4blce8-p.adktrack34.xyz^
 ||6lioc-40gtx.ads.tremorhub.com^
@@ -4299,7 +4173,6 @@
 ||7209580.collect.igodigital.com^
 ||7209827.collect.igodigital.com^
 ||7209949.collect.igodigital.com^
-||7210016.collect.igodigital.com^
 ||7210119.collect.igodigital.com^
 ||7210264.collect.igodigital.com^
 ||7210363.collect.igodigital.com^
@@ -4311,7 +4184,6 @@
 ||7213500.collect.igodigital.com^
 ||7214828.collect.igodigital.com^
 ||7215540.collect.igodigital.com^
-||7217050.collect.igodigital.com^
 ||7217158.collect.igodigital.com^
 ||7217216.collect.igodigital.com^
 ||7217331.collect.igodigital.com^
@@ -4321,9 +4193,7 @@
 ||7220851.collect.igodigital.com^
 ||7220853.collect.igodigital.com^
 ||7220880.collect.igodigital.com^
-||7221006.collect.igodigital.com^
 ||7222216.collect.igodigital.com^
-||7222883.collect.igodigital.com^
 ||7222885.collect.igodigital.com^
 ||7222888.collect.igodigital.com^
 ||7222925.collect.igodigital.com^
@@ -4340,18 +4210,15 @@
 ||7225292.collect.igodigital.com^
 ||7225833.collect.igodigital.com^
 ||7225847.collect.igodigital.com^
-||7225851.collect.igodigital.com^
 ||7225989.collect.igodigital.com^
 ||7226580.collect.igodigital.com^
 ||7226605.collect.igodigital.com^
 ||7226655.collect.igodigital.com^
-||7226694.collect.igodigital.com^
 ||7226713.collect.igodigital.com^
 ||7226714.collect.igodigital.com^
 ||7226716.collect.igodigital.com^
 ||7226981.collect.igodigital.com^
 ||7227074.collect.igodigital.com^
-||7227159.collect.igodigital.com^
 ||7227272.collect.igodigital.com^
 ||7227528.collect.igodigital.com^
 ||7227558.collect.igodigital.com^
@@ -4376,7 +4243,6 @@
 ||7231764.collect.igodigital.com^
 ||7231872.collect.igodigital.com^
 ||7232451.collect.igodigital.com^
-||7232476.collect.igodigital.com^
 ||7232524.collect.igodigital.com^
 ||7232620.collect.igodigital.com^
 ||7232863.collect.igodigital.com^
@@ -4388,7 +4254,6 @@
 ||7234067.collect.igodigital.com^
 ||7234083.collect.igodigital.com^
 ||7234148.collect.igodigital.com^
-||7234365.collect.igodigital.com^
 ||7234382.collect.igodigital.com^
 ||7234394.collect.igodigital.com^
 ||7234592.collect.igodigital.com^
@@ -4410,25 +4275,19 @@
 ||7237405.collect.igodigital.com^
 ||7237566.collect.igodigital.com^
 ||7237686.collect.igodigital.com^
-||7237720.collect.igodigital.com^
 ||7238213.collect.igodigital.com^
 ||7238654.collect.igodigital.com^
 ||7238777.collect.igodigital.com^
 ||7238897.collect.igodigital.com^
-||7238971.collect.igodigital.com^
 ||7239632.collect.igodigital.com^
 ||7241496.collect.igodigital.com^
-||7241711.collect.igodigital.com^
 ||7241771.collect.igodigital.com^
 ||7242019.collect.igodigital.com^
 ||7242163.collect.igodigital.com^
 ||7242164.collect.igodigital.com^
-||7242984.collect.igodigital.com^
 ||7243017.collect.igodigital.com^
 ||7247942.collect.igodigital.com^
-||7257663.collect.igodigital.com^
 ||7257667.collect.igodigital.com^
-||7258531.collect.igodigital.com^
 ||7259428.collect.igodigital.com^
 ||7263731.collect.igodigital.com^
 ||7269151.collect.igodigital.com^
@@ -4438,13 +4297,11 @@
 ||7270039.collect.igodigital.com^
 ||7270937.collect.igodigital.com^
 ||7270938.collect.igodigital.com^
-||7273820.collect.igodigital.com^
 ||7273988.collect.igodigital.com^
 ||7275254.collect.igodigital.com^
 ||7275325.collect.igodigital.com^
 ||7275506.collect.igodigital.com^
 ||7275512.collect.igodigital.com^
-||7275895.collect.igodigital.com^
 ||7275979.collect.igodigital.com^
 ||72764.global.siteimproveanalytics.io^
 ||7276578.collect.igodigital.com^
@@ -4459,7 +4316,6 @@
 ||7279221.collect.igodigital.com^
 ||7279222.collect.igodigital.com^
 ||7279336.collect.igodigital.com^
-||7279337.collect.igodigital.com^
 ||7279399.collect.igodigital.com^
 ||7279534.collect.igodigital.com^
 ||7279574.collect.igodigital.com^
@@ -4468,7 +4324,6 @@
 ||7279984.collect.igodigital.com^
 ||7280296.collect.igodigital.com^
 ||7280299.collect.igodigital.com^
-||7280424.collect.igodigital.com^
 ||7281071.collect.igodigital.com^
 ||7281313.collect.igodigital.com^
 ||7282909.collect.igodigital.com^
@@ -4480,8 +4335,6 @@
 ||7283845.collect.igodigital.com^
 ||7283942.collect.igodigital.com^
 ||7284095.collect.igodigital.com^
-||7284699.collect.igodigital.com^
-||7285.global.siteimproveanalytics.io^
 ||7285283.collect.igodigital.com^
 ||7285614.collect.igodigital.com^
 ||7286219.collect.igodigital.com^
@@ -4605,7 +4458,6 @@
 ||7301788.collect.igodigital.com^
 ||7301916.collect.igodigital.com^
 ||7302029.collect.igodigital.com^
-||7302410.collect.igodigital.com^
 ||7302467.collect.igodigital.com^
 ||7304442.collect.igodigital.com^
 ||7304473.collect.igodigital.com^
@@ -4661,11 +4513,7 @@
 ||7326847.collect.igodigital.com^
 ||7326848.collect.igodigital.com^
 ||7326930.collect.igodigital.com^
-||7326993.collect.igodigital.com^
-||7327124.collect.igodigital.com^
 ||7327131.collect.igodigital.com^
-||7327864.collect.igodigital.com^
-||7327887.collect.igodigital.com^
 ||7327888.collect.igodigital.com^
 ||7327889.collect.igodigital.com^
 ||7328014.collect.igodigital.com^
@@ -4673,7 +4521,6 @@
 ||7328429.collect.igodigital.com^
 ||7328467.collect.igodigital.com^
 ||7328745.collect.igodigital.com^
-||7328780.collect.igodigital.com^
 ||7328781.collect.igodigital.com^
 ||7328782.collect.igodigital.com^
 ||7328786.collect.igodigital.com^
@@ -4681,8 +4528,6 @@
 ||7328872.collect.igodigital.com^
 ||7328958.collect.igodigital.com^
 ||7329004.collect.igodigital.com^
-||7329113.collect.igodigital.com^
-||7329334.collect.igodigital.com^
 ||7329343.collect.igodigital.com^
 ||7329367.collect.igodigital.com^
 ||7329368.collect.igodigital.com^
@@ -4753,13 +4598,10 @@
 ||78139.global.siteimproveanalytics.io^
 ||78154.global.siteimproveanalytics.io^
 ||78172.global.siteimproveanalytics.io^
-||78259.global.siteimproveanalytics.io^
 ||78546.global.siteimproveanalytics.io^
 ||78613.global.siteimproveanalytics.io^
-||7866.global.siteimproveanalytics.io^
 ||78828.global.siteimproveanalytics.io^
 ||78830.global.siteimproveanalytics.io^
-||78831.global.siteimproveanalytics.io^
 ||78834.global.siteimproveanalytics.io^
 ||78835.global.siteimproveanalytics.io^
 ||78836.global.siteimproveanalytics.io^
@@ -4776,13 +4618,11 @@
 ||79167.global.siteimproveanalytics.io^
 ||79224.global.siteimproveanalytics.io^
 ||79249.global.siteimproveanalytics.io^
-||79348.global.siteimproveanalytics.io^
 ||79442.global.siteimproveanalytics.io^
 ||795490.global.siteimproveanalytics.io^
 ||795497.global.siteimproveanalytics.io^
 ||795853.global.siteimproveanalytics.io^
 ||796539.global.siteimproveanalytics.io^
-||79671.global.siteimproveanalytics.io^
 ||79672.global.siteimproveanalytics.io^
 ||79848.global.siteimproveanalytics.io^
 ||79917.global.siteimproveanalytics.io^
@@ -4798,16 +4638,12 @@
 ||7f19c29d9b.1be20c8171.com^
 ||7fbe7b63e4.abfd9d8ecc.com^
 ||7fe9w8rzsxp621j-c.clead.xyz^
-||7klg6-1mfap.ads.tremorhub.com^
 ||7oqlsi4ilyhr6fj-p.adktrack34.xyz^
 ||7ote5e3kinl8hr6-p.adkclicker.fr^
 ||7sfjo.ads.tremorhub.com^
 ||7tgcxgok8nf4nqa-c.unenoteunjour.fr^
 ||7veerrc2ubwimhl-c.adktrack34.xyz^
-||8-18-3-app.agent.datadoghq.com^
-||8-6-8-app.agent.datadoghq.com^
 ||8.net-31.172.stripchats.io^
-||80196.global.siteimproveanalytics.io^
 ||80352.global.siteimproveanalytics.io^
 ||80407.global.siteimproveanalytics.io^
 ||8042.global.siteimproveanalytics.io^
@@ -4839,13 +4675,11 @@
 ||82278.global.siteimproveanalytics.io^
 ||82285.global.siteimproveanalytics.io^
 ||822c03d021.309ec9abca.com^
-||823141f652.d0436eb7ca.com^
 ||82364.global.siteimproveanalytics.io^
 ||82452.global.siteimproveanalytics.io^
 ||82458.global.siteimproveanalytics.io^
 ||82531.global.siteimproveanalytics.io^
 ||82554.global.siteimproveanalytics.io^
-||82601.global.siteimproveanalytics.io^
 ||82728.global.siteimproveanalytics.io^
 ||82729.global.siteimproveanalytics.io^
 ||82796.collect.igodigital.com^
@@ -4863,7 +4697,6 @@
 ||84126.global.siteimproveanalytics.io^
 ||84133.global.siteimproveanalytics.io^
 ||84173.global.siteimproveanalytics.io^
-||84218.global.siteimproveanalytics.io^
 ||84385.global.siteimproveanalytics.io^
 ||8445.global.siteimproveanalytics.io^
 ||84751.global.siteimproveanalytics.io^
@@ -4874,11 +4707,9 @@
 ||8543.global.siteimproveanalytics.io^
 ||85557.global.siteimproveanalytics.io^
 ||85598.global.siteimproveanalytics.io^
-||85680.global.siteimproveanalytics.io^
 ||85699.global.siteimproveanalytics.io^
 ||8575.global.siteimproveanalytics.io^
 ||85766.global.siteimproveanalytics.io^
-||85963.global.siteimproveanalytics.io^
 ||85970.global.siteimproveanalytics.io^
 ||85fc51cc57.b077fc96e0.com^
 ||86027.global.siteimproveanalytics.io^
@@ -4890,22 +4721,16 @@
 ||86911.global.siteimproveanalytics.io^
 ||87094.global.siteimproveanalytics.io^
 ||87185.global.siteimproveanalytics.io^
-||87273.global.siteimproveanalytics.io^
 ||87557.global.siteimproveanalytics.io^
 ||87564.global.siteimproveanalytics.io^
 ||87572.global.siteimproveanalytics.io^
 ||87586.global.siteimproveanalytics.io^
-||87717.global.siteimproveanalytics.io^
-||88208.global.siteimproveanalytics.io^
 ||88249.global.siteimproveanalytics.io^
-||88280.global.siteimproveanalytics.io^
 ||88281.global.siteimproveanalytics.io^
 ||88289.global.siteimproveanalytics.io^
 ||88298.global.siteimproveanalytics.io^
 ||882e281cd8.44d100644b.com^
-||88309.global.siteimproveanalytics.io^
 ||88340.global.siteimproveanalytics.io^
-||88382.global.siteimproveanalytics.io^
 ||8855.global.siteimproveanalytics.io^
 ||88615.global.siteimproveanalytics.io^
 ||88636.global.siteimproveanalytics.io^
@@ -4914,7 +4739,6 @@
 ||88835.global.siteimproveanalytics.io^
 ||88853.global.siteimproveanalytics.io^
 ||88866.global.siteimproveanalytics.io^
-||8906.global.siteimproveanalytics.io^
 ||89098.global.siteimproveanalytics.io^
 ||89178.global.siteimproveanalytics.io^
 ||89264.global.siteimproveanalytics.io^
@@ -4944,12 +4768,10 @@
 ||90769267.global.siteimproveanalytics.io^
 ||90772975.global.siteimproveanalytics.io^
 ||90777989.global.siteimproveanalytics.io^
-||90778606.global.siteimproveanalytics.io^
 ||90778967.global.siteimproveanalytics.io^
 ||90778982.global.siteimproveanalytics.io^
 ||90779140.global.siteimproveanalytics.io^
 ||90780318.global.siteimproveanalytics.io^
-||90781986.global.siteimproveanalytics.io^
 ||90782204.global.siteimproveanalytics.io^
 ||90782375.global.siteimproveanalytics.io^
 ||90782852.global.siteimproveanalytics.io^
@@ -4975,7 +4797,6 @@
 ||9937.global.siteimproveanalytics.io^
 ||9952.global.siteimproveanalytics.io^
 ||9956.global.siteimproveanalytics.io^
-||9962.global.siteimproveanalytics.io^
 ||9981.global.siteimproveanalytics.io^
 ||9988.global.siteimproveanalytics.io^
 ||9992.global.siteimproveanalytics.io^
@@ -4992,7 +4813,6 @@
 ||9l6ha-939hh.ads.tremorhub.com^
 ||9l6ha-9ha0l.ads.tremorhub.com^
 ||9l6ha-e14kk.ads.tremorhub.com^
-||9l6ha.ads.tremorhub.com^
 ||9n5psituewtmgr0-c.clickomo.fr^
 ||9nybynuljfod0kt-p.adkclicker.fr^
 ||9rmjh-d45gc.ads.tremorhub.com^
@@ -5097,17 +4917,13 @@
 ||ad-events-ash11.g.flashtalking.com^
 ||ad-events-bom11.g.flashtalking.com^
 ||ad-events-dub11.g.flashtalking.com^
-||ad-events-frk11.g.flashtalking.com^
 ||ad-events-lhr11.g.flashtalking.com^
-||ad-events-ore11.g.flashtalking.com^
-||ad-events-sjc11.g.flashtalking.com^
 ||ad-events-syd11.g.flashtalking.com^
 ||ad-events-tky11.g.flashtalking.com^
 ||ad-heros.com^
 ||ad-imp.jtbc.co.kr^
 ||ad-imp.netinsight.co.kr^
 ||ad-integration-dev.fastview.co.kr^
-||ad-pki.corp.afterpay.com^
 ||ad-stats-reader.prd.01.eu-west-1.eu.olx.org^
 ||ad-stats-reader.stg.01.eu-west-1.eu.olx.org^
 ||ad-stats-writer.prd.01.eu-west-1.eu.olx.org^
@@ -5118,7 +4934,6 @@
 ||ad.particlenews.com^
 ||ad.ws.pho.to^
 ||ad.xc.netinsight.co.kr^
-||ad.xc.nis.nitmus.com^
 ||ad6dc9f2a9.fa729bc841.com^
 ||address.xham.live^
 ||adktrack.adkomo.com^
@@ -5158,7 +4973,6 @@
 ||af26280486.a1057123f0.com^
 ||afd2557582.e2957dfa03.com^
 ||afe125baef.7762dc22a5.com^
-||affiliates.sellmymobile.com^
 ||afhleads.keurig.ca^
 ||africa.edm.globalsources.com^
 ||agatha.omg.adult^
@@ -5202,14 +5016,12 @@
 ||amsi.boyfriend.show^
 ||anafi.bonnelectureatous.fr^
 ||analytics-aac-venues.yinzcam.com^
-||analytics-ap-venues.yinzcam.com^
 ||analytics-ari-nfl.yinzcam.com^
 ||analytics-atx-mls.yinzcam.com^
 ||analytics-bal-nfl.yinzcam.com^
 ||analytics-bay-nwsl.yinzcam.com^
 ||analytics-bb-ru.yinzcam.com^
 ||analytics-bha-fa.yinzcam.com^
-||analytics-bir-fa.yinzcam.com^
 ||analytics-bkn-nba.yinzcam.com^
 ||analytics-bre-fa.yinzcam.com^
 ||analytics-buf-nhl.yinzcam.com^
@@ -5275,7 +5087,6 @@
 ||analytics-njd-nhl.yinzcam.com^
 ||analytics-nop-nba.yinzcam.com^
 ||analytics-nsh-mls.yinzcam.com^
-||analytics-nsh-nhl.yinzcam.com^
 ||analytics-nycfc-mls.yinzcam.com^
 ||analytics-nyg-nfl.yinzcam.com^
 ||analytics-nyi-nhl.yinzcam.com^
@@ -5291,7 +5102,6 @@
 ||analytics-pit-nfl.yinzcam.com^
 ||analytics-pit-nhl.yinzcam.com^
 ||analytics-por-nba.yinzcam.com^
-||analytics-rbny-mls.yinzcam.com^
 ||analytics-rgp-venues.yinzcam.com^
 ||analytics-rsl-mls.yinzcam.com^
 ||analytics-sbl-nbad.yinzcam.com^
@@ -5314,7 +5124,6 @@
 ||analytics-uta-nba.yinzcam.com^
 ||analytics-uta-nhl.yinzcam.com^
 ||analytics-v2.gotolstoy.com^
-||analytics-verizoncenter-venues.yinzcam.com^
 ||analytics-was-nba.yinzcam.com^
 ||analytics-was-wnba.yinzcam.com^
 ||analytics-wol-fa.yinzcam.com^
@@ -5881,12 +5690,10 @@
 ||archive.promatis.com^
 ||archived.first.eloqua.extrahop.com^
 ||archived.learn.eloqua.extrahop.com^
-||ardvymjgkhj4zme-p.adkoffer.fr^
 ||argyle.spankbanglive.com^
 ||arincol.arin-innovation.com^
 ||arzgsxljtnderog-p.adkoffer.fr^
 ||as.balluff.com^
-||as.cluep.com^
 ||as12.boyfriend.show^
 ||asaservicedg.csc.com^
 ||asec.motorsgate.sa^
@@ -5920,7 +5727,6 @@
 ||ask.antalisabitek.com^
 ||ask.antalisbolivia.com^
 ||ask.antalispackaging.it^
-||asp.api.relive.cc^
 ||asset-app.discover.jll.com^
 ||asset-protection-pages.protective.com^
 ||asset.americanexpress.ca^
@@ -5983,7 +5789,6 @@
 ||automotive-business.vodafone.com^
 ||automotive.balluff.com^
 ||autoupdate.stripchats.io^
-||avmdekm0yl9pezf-p.adkoffer.fr^
 ||avs.adpinfo.com^
 ||avserver.superchatlive.com^
 ||avz1rq4cvjhgetz-c.recettedubonheur.fr^
@@ -6027,7 +5832,6 @@
 ||baltar.superchatlive.com^
 ||banks.adpinfo.com^
 ||banner.cedubook.com^
-||banner2.cookappsgames.com^
 ||banners.designashirt.com^
 ||banners.royalpixel.com.br^
 ||banyan.boyfriend.show^
@@ -6035,6 +5839,7 @@
 ||basvuru.superchat.live^
 ||bb43ce031a.ef42245b5e.com^
 ||bbbb.blackboard.com^
+||bbbb.celebjihad.live^
 ||bbbb.hot-india.com^
 ||bbbb.live.javmix.tv^
 ||bbbb.spankbanglive.com^
@@ -6092,7 +5897,6 @@
 ||biz.coface.com^
 ||bizanalytics.verizonwireless.com^
 ||bizmkt.lguplus.com^
-||bk7pziddxgxzels-p.adkoffer.fr^
 ||blackbook.coniferhealth.com^
 ||blade10.xhlive.org^
 ||bldr.mkt.samsung.com^
@@ -6400,7 +6204,6 @@
 ||collector-internal-us-east-2.cdp-dev.cnn.com^
 ||collector-internal-us-west-2.cdp-dev.cnn.com^
 ||collector-ref-us-east-1.cdp-dev.cnn.com^
-||collector-stage-us-east-1.cdp-dev.cnn.com^
 ||collector-us-east-1.cdp.cnn.com^
 ||collector-us-east-2.cdp.cnn.com^
 ||collector-us-west-2.cdp.cnn.com^
@@ -6412,6 +6215,8 @@
 ||colo1.chiccams.com^
 ||comm.toro.com^
 ||commercial.equifax.com^
+||comms.aberdeenadviser.com^
+||comms.aberdeenpersonal.com^
 ||comms.cigna.co.uk^
 ||comms.cigna.es^
 ||comms.cignaglobalhealth.com^
@@ -6641,11 +6446,9 @@
 ||cpu32-o1v6c.ads.tremorhub.com^
 ||cpu32-pac6o.ads.tremorhub.com^
 ||cpu32-u68p7.ads.tremorhub.com^
-||cpu32-uqn30.ads.tremorhub.com^
 ||cpu32-vvlc7.ads.tremorhub.com^
 ||cpu32-wtkcx.ads.tremorhub.com^
 ||cpu32-yraax.ads.tremorhub.com^
-||cpu32-zs9v8.ads.tremorhub.com^
 ||cqvgdo5azfz92o6-p.unenoteunjour.fr^
 ||cr0nhvuufpsze1d-p.linkomo.fr^
 ||crateandbarrel.collect.igodigital.com^
@@ -6676,6 +6479,7 @@
 ||creative.superchatlive.com^
 ||creative.tklivechat.com^
 ||creative.tranny.show^
+||creative.wonderboobs.live^
 ||crichton.xham.live^
 ||crm.dev.chiccams.com^
 ||crm.ironmountain.com^
@@ -6718,7 +6522,6 @@
 ||csoonline.share.ntv.io^
 ||ctc.wolterskluwer.com^
 ||ctelqtracking.wolterskluwer.com^
-||ctmc5-h7hea.ads.tremorhub.com^
 ||cts.trccompanies.com^
 ||cu01dvqlnkzbpfn-p.adktrack37.xyz^
 ||cucm1.chiccams.com^
@@ -6782,6 +6585,7 @@
 ||da.spankbanglive.com^
 ||da.stripchat.global^
 ||da.xham.live^
+||da.xhlive.cam^
 ||da.xhlive.net^
 ||da4.shemale.show^
 ||da72088eb8.e424766a73.com^
@@ -6793,8 +6597,6 @@
 ||dalc.valuecommerce.com^
 ||dallasnews.share.ntv.io^
 ||dap.healthshots.com^
-||dap.hindustantimes.com^
-||dap.livehindustan.com^
 ||dap.livemint.com^
 ||dap.ottplay.com^
 ||dap.slurrp.com^
@@ -7211,7 +7013,6 @@
 ||eloqua.eafit.edu.co^
 ||eloqua.eft.com^
 ||eloqua.erwin.com^
-||eloqua.ethicalcorp.com^
 ||eloqua.eyeforpharma.com^
 ||eloqua.eyefortravel.com^
 ||eloqua.gdlcouncil.org^
@@ -7731,7 +7532,6 @@
 ||eq-tracking.d-marketing.ricoh.co.jp^
 ||eq-tracking.myricoh.jp^
 ||eq97f-1j0az.ads.tremorhub.com^
-||eq97f-3ak3i.ads.tremorhub.com^
 ||eqs.accountants.intuit.com^
 ||eqs.intuit.com^
 ||eqtrack.americashomeplace.com^
@@ -8148,6 +7948,7 @@
 ||fr.dr.omg.adult^
 ||fr.drtuberlive.com^
 ||fr.fe.omg.adult^
+||fr.freestrip.chat^
 ||fr.hot-india.com^
 ||fr.hotzcam.com^
 ||fr.inform.janssenpro.eu^
@@ -8446,6 +8247,8 @@
 ||go.id.stripchat.global^
 ||go.id.stripchatgirls.com^
 ||go.id.stripchatlive.com^
+||go.id.stripchats.io^
+||go.id.superchat.live^
 ||go.id.tklivechat.com^
 ||go.id.tranny.show^
 ||go.id.xham.live^
@@ -8745,6 +8548,7 @@
 ||hq3.tklivechat.com^
 ||hqdvfgokmbwryt4-p.adktrack30.xyz^
 ||hr.adp.ca^
+||hr.aznudelive.com^
 ||hr.boyfriend.show^
 ||hr.celebjihad.live^
 ||hr.cigna.com^
@@ -8760,6 +8564,7 @@
 ||hr.superchatlive.com^
 ||hr.tklivechat.com^
 ||hr.xham.live^
+||hr.xhlive.cam^
 ||hs14.strp.chat^
 ||hsad.goldenplanet.co.kr^
 ||hskfxl7ijano8nl-p.adkclicker.fr^
@@ -8798,6 +8603,7 @@
 ||hu.superchatlive.com^
 ||hu.tklivechat.com^
 ||hu.xham.live^
+||hu.xhlive.cam^
 ||hu.xhlive.org^
 ||hv4.tklivechat.com^
 ||hvac.solutions.jci.com^
@@ -8895,6 +8701,7 @@
 ||id.xhamsterlive.info^
 ||id.xhlive.cam^
 ||id.xhlive.net^
+||id.xhlive.org^
 ||id4a9cowwempsiu-p.adktrack30.xyz^
 ||ideas.nanawall.com^
 ||idem.superchat.live^
@@ -9522,7 +9329,6 @@
 ||in.brilliant.org^
 ||in.secure.sonosite.com^
 ||income.lplnow.com^
-||incoming-telemetry.thunderbird.net^
 ||incubus.boyfriend.show^
 ||independence.strp.chat^
 ||indique.bemmaisseguro.com^
@@ -9820,6 +9626,7 @@
 ||it.nsfwlivechat.com^
 ||it.nudescam18.com^
 ||it.omg.adult^
+||it.porndudecams.com^
 ||it.sexfortokens.com^
 ||it.sexygirlspics.live^
 ||it.shemale.show^
@@ -9865,7 +9672,6 @@
 ||j3xp7mdzcucxwab-c.adktrack32.xyz^
 ||j4oiaszqrdsmzwl-c.adkclicker.fr^
 ||j5en0-0yusz.ads.tremorhub.com^
-||j5en0-246iv.ads.tremorhub.com^
 ||j5en0-2ybeb.ads.tremorhub.com^
 ||j5en0-8usje.ads.tremorhub.com^
 ||j5en0-ah7td.ads.tremorhub.com^
@@ -10532,7 +10338,6 @@
 ||masterswitch.tklivechat.com^
 ||matco.collect.igodigital.com^
 ||mate.superchatlive.com^
-||matomo-test-ecs.libretexts.org^
 ||matomo.nrwlokalradios.de^
 ||matrk.pacificpower.net^
 ||matrk.rockymountainpower.net^
@@ -10713,6 +10518,7 @@
 ||my.navigator.ptvlogistics.com^
 ||my.pannar.com^
 ||my.totaljobs.com^
+||my.verisk.com^
 ||my.xactware.co.uk^
 ||my01.stripchat.global^
 ||mycpf1yd9pqu8gs-p.adkoffer.fr^
@@ -10735,6 +10541,7 @@
 ||n3uwevlnxj1qhrm-c.unenoteunjour.fr^
 ||n3uwevlnxj1qhrm-p.unenoteunjour.fr^
 ||n8sqapzpg7ef3jt-p.adktrack34.xyz^
+||n8ta-hpjvq-7b9-ssx0npv-6jzb.chiccams.com^
 ||n92cp-35vir.ads.tremorhub.com^
 ||n9djwcw4kilupqi-c.ktrack.xyz^
 ||n9iu2etp6sgqduk-p.adkoffer.fr^
@@ -10769,7 +10576,6 @@
 ||ned.themarketingscience.com^
 ||negocio.banrural.com.gt^
 ||nel.spankbanglive.com^
-||neon.netinsight.co.kr^
 ||net168.stripchat.webcam^
 ||net254.freestrip.chat^
 ||networkingexchange.att.com^
@@ -10845,6 +10651,8 @@
 ||nl.aznudelive.com^
 ||nl.boyfriend.show^
 ||nl.celebjihad.live^
+||nl.colsex.com^
+||nl.contact.alphabet.com^
 ||nl.hot-india.com^
 ||nl.live.javmix.tv^
 ||nl.livecamlovetr.com^
@@ -10903,6 +10711,7 @@
 ||no.superchatlive.com^
 ||no.tklivechat.com^
 ||no.xham.live^
+||no.xhlive.cam^
 ||no3qvsbzkfwrop6-p.recettedubonheur.fr^
 ||node241.stripchat.webcam^
 ||noticias.grandt.com.ar^
@@ -10981,6 +10790,7 @@
 ||okifstpenuyakzb-c.adkoffer.fr^
 ||oktatas.stripchat.global^
 ||okto1.spsglobal.com^
+||old.globalservices.arrow.com^
 ||old2.chiccams.com^
 ||oljr5uawdfifsjc-p.unenoteunjour.fr^
 ||olohg9e3agmambs-p.adktrack30.xyz^
@@ -11371,7 +11181,6 @@
 ||presentationtracking.eu-west-1.internal.dradis.netflix.com^
 ||presentationtracking.netflix.com^
 ||presentationtracking.us-east-1.internal.dradis.netflix.com^
-||presentationtracking.us-east-2.internal.dradis.netflix.com^
 ||presentationtracking.us-west-2.internal.dradis.netflix.com^
 ||pressdemocrat.share.ntv.io^
 ||preunis.usj.es^
@@ -11393,6 +11202,7 @@
 ||products.forddirectdealers.com^
 ||products.marketingcube.com.au^
 ||products.ricoh-europe.com^
+||products.ricoh.co.uk^
 ||products.ricoh.ie^
 ||produkte.ricoh.at^
 ||produkte.ricoh.de^
@@ -11424,7 +11234,6 @@
 ||pruebascol.arin-innovation.com^
 ||prv.boyfriend.show^
 ||prxmuvykpmt57ic-c.adktrack11.xyz^
-||ps.popcash.net^
 ||psa1.xham.live^
 ||psn.stripchat.webcam^
 ||pt.aznudelive.com^
@@ -11439,6 +11248,7 @@
 ||pt.mycamtv.com^
 ||pt.nsfwlivechat.com^
 ||pt.omg.adult^
+||pt.porndudecams.com^
 ||pt.rarecams.com^
 ||pt.sexfortokens.com^
 ||pt.sexygirlspics.live^
@@ -11484,7 +11294,6 @@
 ||pydio.sexfortokens.com^
 ||q.nasdaq.com^
 ||q.share.qvcemail.com^
-||q017o-1v60m.ads.tremorhub.com^
 ||q017o-d42by.ads.tremorhub.com^
 ||q017o-hws3h.ads.tremorhub.com^
 ||q017o-jh7o1.ads.tremorhub.com^
@@ -12060,6 +11869,7 @@
 ||response.wbresearch.com^
 ||response.wild.com^
 ||response.xactware.com^
+||responsed.abrdn.com^
 ||responsemp.civica.com^
 ||responses.aberdeeninvestments.com^
 ||responses.wild.com^
@@ -12222,6 +12032,7 @@
 ||s566810826.sc.origins.en25.com^
 ||s615419487.sc.origins.en25.com^
 ||s861531437.sc.origins.en25.com^
+||sa.stripchats.io^
 ||sabnyheyiv62mkl-c.adkoffre.fr^
 ||safety.teagtl.com^
 ||saigon.chiccams.com^
@@ -13140,7 +12951,6 @@
 ||t.cmuchippewas.com^
 ||t.cofcsports.com^
 ||t.collinscenterforthearts.com^
-||t.cometlytrack.com^
 ||t.cozone.com^
 ||t.csurams.com^
 ||t.csuvikings.com^
@@ -13525,12 +13335,14 @@
 ||track-e.infineoncommunity.com^
 ||track.abcmetalroofing.com^
 ||track.aberdeeninvestments.com^
+||track.aberdeenplc.com^
 ||track.abrdn.com^
 ||track.abrdnacp.com^
 ||track.abrdnaef.com^
 ||track.abrdnaod.com^
 ||track.abrdnasgi.com^
 ||track.abrdnawp.com^
+||track.abrdnchina.co.uk^
 ||track.abrdnfax.com^
 ||track.abrdnfco.com^
 ||track.abrdnifn.com^
@@ -13545,6 +13357,7 @@
 ||track.auckland.ac.nz^
 ||track.biz.lguplus.com^
 ||track.cecobuildings.com^
+||track.citystgeorgesisc.com^
 ||track.clubcar.com^
 ||track.cornerstonebuildingbrands.com^
 ||track.deloitte.com^
@@ -13647,7 +13460,6 @@
 ||tracker.decomworld.com^
 ||tracker.dubai.renault.ae^
 ||tracker.eft.com^
-||tracker.ethicalcorp.com^
 ||tracker.eyeforpharma.com^
 ||tracker.eyefortravel.com^
 ||tracker.impactconf.com^
@@ -13668,6 +13480,7 @@
 ||tracking-sandbox.vodafone.com^
 ||tracking-uat.veritas.com^
 ||tracking.aapa.org^
+||tracking.aberdeenadviser.com^
 ||tracking.aberdeenpersonal.com^
 ||tracking.aberdeenplc.com^
 ||tracking.abraservice.com^
@@ -13676,6 +13489,7 @@
 ||tracking.acceptance.industrial.omron.eu^
 ||tracking.aconex.com^
 ||tracking.adkomo.com^
+||tracking.adp-iat.adp.ca^
 ||tracking.adp-iat.adp.com^
 ||tracking.adp.ca^
 ||tracking.adp.com^
@@ -13712,13 +13526,6 @@
 ||tracking.bluegarden.dk^
 ||tracking.bnpparibas.fr^
 ||tracking.bnppre.fr^
-||tracking.bonava.de^
-||tracking.bonava.ee^
-||tracking.bonava.fi^
-||tracking.bonava.lt^
-||tracking.bonava.lv^
-||tracking.bonava.no^
-||tracking.bonava.ru^
 ||tracking.bonelli.com^
 ||tracking.brady.be^
 ||tracking.brady.co.uk^
@@ -14997,6 +14804,7 @@
 ||ua.nsfwlivechat.com^
 ||ua.omg.adult^
 ||ua.sexfortokens.com^
+||ua.sexygirlspics.live^
 ||ua.shemale.show^
 ||ua.spankbanglive.com^
 ||ua.stripchat.global^
@@ -15192,11 +15000,13 @@
 ||vr.aznudelive.com^
 ||vr.boyfriend.show^
 ||vr.campirates.com^
+||vr.camsplanetlive.com^
 ||vr.celebjihad.live^
 ||vr.colsex.com^
 ||vr.hot-india.com^
 ||vr.hotzcam.com^
 ||vr.live.javmix.tv^
+||vr.livecamlovetr.com^
 ||vr.myavlive.com^
 ||vr.mycamtv.com^
 ||vr.nsfwlivechat.com^
@@ -15242,6 +15052,7 @@
 ||wdtbkc9hjk5nf14-p.adktrack34.xyz^
 ||we.care.oswegohealth.org^
 ||wealth.informabi.com^
+||wearetennis.global.communications.bnpparibas^
 ||web.akademiai.hu^
 ||web.care.baptist-health.org^
 ||web.care.eehealth.org^
@@ -15379,6 +15190,7 @@
 ||wiuyjxbqhsxwpus-c.adktrack39.xyz^
 ||wj2v7vubd0hlieb-p.adkoffer.fr^
 ||wjtic4uzwfndta6-c.adktrack68.xyz^
+||wkpcmw8-8ami8r-rkanud.boyfriend.show^
 ||wldx4gam0nbow1d-p.adkclicker.fr^
 ||women.care.uhssa.com^
 ||women.universityhealth.com^
@@ -15460,6 +15272,7 @@
 ||www.ame.stripchat.webcam^
 ||www.aonunited.com^
 ||www.ar.rarecams.com^
+||www.ar.stripchat.global^
 ||www.archiver.tklivechat.com^
 ||www.armolipid.com.ru^
 ||www.artwork.xhlive.org^
@@ -15715,6 +15528,7 @@
 ||www.sr1.boyfriend.show^
 ||www.stages.sexfortokens.com^
 ||www.steam.stripchat.global^
+||www.strip-chat.club^
 ||www.stripchat.global^
 ||www.stripchatgirls.com^
 ||www.stripchatlive.com^
@@ -15944,6 +15758,7 @@
 ||zt.stripchat.global^
 ||zt.stripchatgirls.com^
 ||zt.stripchats.io^
+||zt.superchatlive.com^
 ||zt.tklivechat.com^
 ||zt.xham.live^
 ||zt.xhlive.cam^

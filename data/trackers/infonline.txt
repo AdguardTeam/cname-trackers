@@ -908,6 +908,7 @@
 ||data-63659a24a7.apps.iocnt.de^
 ||data-63798c78f2.apps.iocnt.de^
 ||data-638190bf02.galileo.tv^
+||data-639ebd97e3.transport-online.de^
 ||data-63bbe3ec45.wuv.de^
 ||data-63ef19fa52.apps.iocnt.de^
 ||data-6416365902.sbz-online.de^
@@ -1063,6 +1064,7 @@
 ||data-7896616c61.abzonline.de^
 ||data-7899267776.daskochrezept.de^
 ||data-78c646b50a.apps.iocnt.de^
+||data-79505c2b06.borkenerzeitung.de^
 ||data-79a0e4d6a6.apps.iocnt.de^
 ||data-79b463af18.detmold.de^
 ||data-79b61f918a.autoanzeigen.de^

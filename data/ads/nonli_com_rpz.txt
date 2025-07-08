@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751875210153        ; Serial
+           1751988959764        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -215,6 +215,7 @@ l.roole.fr CNAME .
 l.rtl.fr CNAME .
 l.science-et-vie.com CNAME .
 l.sciencesetavenir.fr CNAME .
+l.sensacine.com CNAME .
 l.sensacine.com.mx CNAME .
 l.sportauto.fr CNAME .
 l.sports.fr CNAME .

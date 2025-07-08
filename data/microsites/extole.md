@@ -527,7 +527,6 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
-    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -1268,7 +1267,6 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
-| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1399,6 +1397,7 @@
 | xtl._domainkey.mail.propertyperks.xfinity.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.walmartmoneycard.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.zoom.us | xtl.domainkey.u82658.wl159.sendgrid.net |
+| xtl2._domainkey.shareus.viktor-rolf.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
 | share.zenbusiness.com | zenbusiness.extole.io |
 | refer.zentrointernet.com | zentrointernet.extole.io |

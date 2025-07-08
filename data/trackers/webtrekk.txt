@@ -328,10 +328,10 @@
 ||web.marcotozzi.com^
 ||web.marketing.jellybelly.com^
 ||web.mytoys.de^
+||web.news.absurdbeauty.com^
 ||web.news.bottegaverde.com^
 ||web.news.boxeurdesrues.com^
 ||web.news.coccinelle.com^
-||web.news.creedfragrances.co.uk^
 ||web.news.dixiefashion.com^
 ||web.news.eprice.it^
 ||web.news.gnv.it^

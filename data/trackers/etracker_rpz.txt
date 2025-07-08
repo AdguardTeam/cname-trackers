@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751875210153        ; Serial
+           1751988959764        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,7 +42,6 @@ data.moebel-style.de CNAME .
 data.uk.kutchenhaus.com CNAME .
 defabc.black-label-coffee.de CNAME .
 dts.suchmeisterei.de CNAME .
-e.grow-express.de CNAME .
 e.heimat.style CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
@@ -177,6 +176,7 @@ wctr.maschinenprofi.de CNAME .
 wctr.menkenunddrees.de CNAME .
 wctr.mm-germany.com CNAME .
 wctr.moenninghoff.net CNAME .
+wctr.satzdruck.com CNAME .
 wctr.scaleup-fulfillment.de CNAME .
 wctr.sus-architekten-muenster.de CNAME .
 wctr.vitanova-kliniken.de CNAME .
@@ -223,6 +223,7 @@ webcontr.ryzon.net CNAME .
 webcontr.scandtrack.com CNAME .
 webcontr.shirtlabor.de CNAME .
 webcontr.sienagarden.de CNAME .
+webcontr.solipac.de CNAME .
 webcontr.splendid-internet.de CNAME .
 webcontr.stadtwerke-ahrensburg.de CNAME .
 webcontr.synvia.de CNAME .

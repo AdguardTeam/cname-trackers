@@ -1,0 +1,29 @@
+;
+; Company name: trackwilltrk.com
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1751988959764        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+r.biotrck.com CNAME .
+r.flatlong.shop CNAME .
+r.scraperib.com CNAME .
+r.silvertrck.com CNAME .
+r.smttrck.com CNAME .
+r.spininitial.tech CNAME .
+t.clearmaptrck.store CNAME .
+t.dynatrck.site CNAME .
+t.instrck.com CNAME .
+t.loantrck.com CNAME .
+t.quicktrck.space CNAME .
+t.securetrck.uno CNAME .
+t.sptrck.com CNAME .
+t.trcktr.com CNAME .
+t.trecktr.com CNAME .
+t.wintrck.com CNAME .

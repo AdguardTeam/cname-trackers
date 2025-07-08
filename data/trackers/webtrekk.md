@@ -40,7 +40,6 @@
     * teufel-de01.webtrekk.net
     * yello-de01.webtrekk.net
 * wt-eu02.net
-    * 101230059950694.wt-eu02.net
     * 112686412066259.wt-eu02.net
     * 117490221505998.wt-eu02.net
     * 125611812418194.wt-eu02.net
@@ -112,6 +111,7 @@
     * 484879729086450.wt-eu02.net
     * 487143832382979.wt-eu02.net
     * 489164258023327.wt-eu02.net
+    * 492778793747615.wt-eu02.net
     * 495967780350059.wt-eu02.net
     * 516595732855224.wt-eu02.net
     * 517717528680725.wt-eu02.net
@@ -260,7 +260,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| web.news.creedfragrances.co.uk | 101230059950694.wt-eu02.net |
 | t.radiomediaset.it | 112686412066259.wt-eu02.net |
 | mit.deutschewealth.com | 117490221505998.wt-eu02.net |
 | intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
@@ -375,6 +374,7 @@
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.news.coccinelle.com | 487143832382979.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
+| web.news.absurdbeauty.com | 492778793747615.wt-eu02.net |
 | web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | web2.updates.ditano.com | 516595732855224.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |

@@ -1,0 +1,63 @@
+;
+; Company name: kib.hu
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1751988959764        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+adat.888.hu CNAME .
+adat.aradon.ro CNAME .
+adat.astronet.hu CNAME .
+adat.automotor.hu CNAME .
+adat.bama.hu CNAME .
+adat.baon.hu CNAME .
+adat.beol.hu CNAME .
+adat.bihon.ro CNAME .
+adat.boon.hu CNAME .
+adat.borsonline.hu CNAME .
+adat.csupasport.hu CNAME .
+adat.delmagyar.hu CNAME .
+adat.dietaesfitnesz.hu CNAME .
+adat.duol.hu CNAME .
+adat.feol.hu CNAME .
+adat.freemail.hu CNAME .
+adat.haon.hu CNAME .
+adat.heol.hu CNAME .
+adat.hirtv.hu CNAME .
+adat.ingatlanbazar.hu CNAME .
+adat.kemma.hu CNAME .
+adat.kisalfold.hu CNAME .
+adat.koponyeg.hu CNAME .
+adat.lakaskultura.hu CNAME .
+adat.life.hu CNAME .
+adat.likebalaton.hu CNAME .
+adat.magyarnemzet.hu CNAME .
+adat.mainap.hu CNAME .
+adat.mandiner.hu CNAME .
+adat.mediaworks.hu CNAME .
+adat.metropol.hu CNAME .
+adat.mindmegette.hu CNAME .
+adat.nemzetisport.hu CNAME .
+adat.nool.hu CNAME .
+adat.origo.hu CNAME .
+adat.retroradio.hu CNAME .
+adat.ripost.hu CNAME .
+adat.sonline.hu CNAME .
+adat.szabadfold.hu CNAME .
+adat.szoljon.hu CNAME .
+adat.szon.hu CNAME .
+adat.teol.hu CNAME .
+adat.tion.ro CNAME .
+adat.travelo.hu CNAME .
+adat.vaol.hu CNAME .
+adat.veol.hu CNAME .
+adat.vg.hu CNAME .
+adat.videa.hu CNAME .
+adat.videkize.hu CNAME .
+adat.zaol.hu CNAME .

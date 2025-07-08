@@ -27,6 +27,7 @@
 ||a.leonkorteweg.nl^
 ||a.magnetz.dk^
 ||a.oxfordonlinepharmacy.co.uk^
+||a.panaceo.com^
 ||a.ricevosrl.com^
 ||a.scalingspaces.com^
 ||a.sublimatienederland.nl^
@@ -202,7 +203,6 @@
 ||api.jhonnyromerocursos.com^
 ||api.leandrotilvikas.com.br^
 ||api.lojacasadacera.pt^
-||api.lucasdomith.com^
 ||api.maisvendas.app^
 ||api.manuarango.com^
 ||api.matheusdomenech.com.br^
@@ -298,7 +298,9 @@
 ||capi.www.rigotex.swiss^
 ||capi.zdrowapostura.pl^
 ||capig.mltix.com^
+||capig.rat-fute.com^
 ||capiss.novabe.nl^
+||careers-production.gtm.inscale.net^
 ||cas.greenguardia.de^
 ||cas.huck-gmbh.de^
 ||cas.onlinebaufuchs.de^
@@ -459,6 +461,7 @@
 ||d.ombriere.com^
 ||d.onlineaitraining.nl^
 ||d.pacmanlive.co.uk^
+||d.palplast.de^
 ||d.parkett-schliff.de^
 ||d.patogupirkti.lt^
 ||d.platoconcept.fr^
@@ -489,6 +492,7 @@
 ||d.viborghavemaskiner.dk^
 ||d.vool.com^
 ||d.werkenbijkraamzus.nl^
+||d.ydol.de^
 ||d.yogakompasset.no^
 ||d.yorkshirewildlifepark.com^
 ||da.ganzinweiss.eu^
@@ -598,6 +602,7 @@
 ||data.iviskin.se^
 ||data.kaffee24.de^
 ||data.kaufplanet.com^
+||data.kijzer.be^
 ||data.klartext-tacheles.de^
 ||data.ledchampion.de^
 ||data.ledkoning.nl^
@@ -686,6 +691,7 @@
 ||daten.tv-turm.de^
 ||de.deurbeslag-expert.nl^
 ||delivery.boraso.com^
+||dev.onepiecemerchandise.com^
 ||dev.pancernik.eu^
 ||dev.superbutelki.pl^
 ||dfehddia.moller-mammen.dk^
@@ -703,6 +709,7 @@
 ||dhpjhrud.skiferietips.dk^
 ||dhpjhrud.skisport.dk^
 ||dhpjhrud.skisport.fr^
+||dhpjhrud.skisport.ie^
 ||dhpjhrud.skisport.pl^
 ||dhpjhrud.skiwear4u.com^
 ||digital.alberoshop.it^
@@ -826,6 +833,7 @@
 ||g.klier.de^
 ||g.maprimerenovlogement.fr^
 ||g.maprimerenovsolaire.fr^
+||g.matrabike.be^
 ||g.matrabike.nl^
 ||g.merkur.de^
 ||g.mikrobiomberater.de^
@@ -854,6 +862,7 @@
 ||gfdlnadm.georgjensen-damask.no^
 ||gfdlnadm.georgjensen-damask.se^
 ||ggsst.gravity-global.com^
+||gj5dfr56.dinfagpartner.dk^
 ||gkji9guh3g324ds.nahrung-vital.de^
 ||gmt-stape.powermatch.dk^
 ||go.digi-tal.dk^
@@ -1537,6 +1546,7 @@
 ||gtm.unioneprofessionisti.com^
 ||gtm.vaatemyynti.fi^
 ||gtm.valcele.eu^
+||gtm.vdberg-autoimport.nl^
 ||gtm.velofollies.be^
 ||gtm.verbum.se^
 ||gtm.verdensskove.org^
@@ -1711,6 +1721,7 @@
 ||journey.partout.nl^
 ||journey.vandentop.nl^
 ||jugrebfi.g-heat.de^
+||jxpjsamd.mobilis-vaud.ch^
 ||k.knuffelwuff.de^
 ||kbx.euphoriaboutique.uk^
 ||kbx.everestbeds.co.uk^
@@ -1820,6 +1831,7 @@
 ||load.a.playshop.dk^
 ||load.a.plusluotto.fi^
 ||load.a.podconsultsbutik.dk^
+||load.a.radimet.dk^
 ||load.a.receptskatt.se^
 ||load.a.resterods.com^
 ||load.a.saltlampen.dk^
@@ -1848,6 +1860,7 @@
 ||load.abrmcbgt.traffictoday.nl^
 ||load.advice.businesshelpline.uk^
 ||load.aha.aalborg-hotel-apartments.dk^
+||load.ahjcxebm.aarhuscharter.dk^
 ||load.ahjcxebm.danski.dk^
 ||load.ahjcxebm.nortlander.dk^
 ||load.ahjcxebm.nortlander.se^
@@ -2270,6 +2283,7 @@
 ||load.eua.trailerplus.se^
 ||load.eua.trailerplus.si^
 ||load.eua.trailerplus.sk^
+||load.eugtm.casio.com^
 ||load.eux-stape.weclapp.com^
 ||load.event.trichoinsights.com^
 ||load.events.palmes.co^
@@ -2279,7 +2293,7 @@
 ||load.events.scandinavianbiolabs.de^
 ||load.events.scandinavianbiolabs.dk^
 ||load.events.scandinavianbiolabs.us^
-||load.events.wonderstory.es^
+||load.ewoirpdb.helsam.dk^
 ||load.ewoirpdb.mecindo.se^
 ||load.eye.mrcook.pl^
 ||load.eye.staffly.pl^
@@ -2308,6 +2322,7 @@
 ||load.fruity.redpitaya.com^
 ||load.fully.bregje.nl^
 ||load.future.curlysecret.com^
+||load.futureproof.cassonade.nl^
 ||load.futureproof.foresco.eu^
 ||load.futureproof.jmpartners.nl^
 ||load.futureproof.prosolic.nl^
@@ -2363,6 +2378,7 @@
 ||load.gegevens.werkenbij.pp-group.eu^
 ||load.gegevens.woodpaneel.nl^
 ||load.genova.smporte.it^
+||load.gj5dfr56.dinfagpartner.dk^
 ||load.gl.jimahegn.dk^
 ||load.gl.surfogski-horsens.dk^
 ||load.gogtm.ghizbi.ro^
@@ -2548,6 +2564,7 @@
 ||load.gtm.hrnest.pl^
 ||load.gtm.ilmiointernet.it^
 ||load.gtm.ilprofchecipiace.com^
+||load.gtm.imetec.com^
 ||load.gtm.implant-centre-martinko.eu^
 ||load.gtm.implantologiafacile.com^
 ||load.gtm.iniziativalegno.it^
@@ -2878,6 +2895,7 @@
 ||load.innovation.jb-hinchables.es^
 ||load.innovation.jb-inflatables.be^
 ||load.innovation.jb-inflatables.co.uk^
+||load.innovation.jb-inflatables.com^
 ||load.innovation.jb-inflatables.eu^
 ||load.innovation.jb-inflatables.nl^
 ||load.innovation.jb-insuflaveis.pt^
@@ -2980,6 +2998,7 @@
 ||load.meeer.christiaens-projects.be^
 ||load.meer.indur.be^
 ||load.meer.libecohomestores.eu^
+||load.meer.ruysschaert.be^
 ||load.meerdata.simplyused.com^
 ||load.mega.megatrade.dk^
 ||load.mer.babaagynemubolt.hu^
@@ -3074,7 +3093,6 @@
 ||load.pig.andorragestion.com^
 ||load.pig.dubaigestion.com^
 ||load.pizubetam.gbt-shop.it^
-||load.pizza.als-pizza.de^
 ||load.potixulert.c-stickers.fr^
 ||load.prime.snow-time.at^
 ||load.prime.zellamsee-kaprun.com^
@@ -3121,6 +3139,7 @@
 ||load.s.neubach-container.de^
 ||load.s.osann.de^
 ||load.s.paco-metallbau.de^
+||load.s.parkingowo.pl^
 ||load.s.petchef.hu^
 ||load.s.petchef.sk^
 ||load.s.pmt.eu^
@@ -3164,6 +3183,7 @@
 ||load.server.aldorr.fr^
 ||load.server.aldorr.nl^
 ||load.server.aldorr.se^
+||load.server.ampliodata.io^
 ||load.server.bosbedden.nl^
 ||load.server.businessarts.it^
 ||load.server.casapedrini.com.br^
@@ -3254,7 +3274,6 @@
 ||load.sgtm.bedst-billigst.dk^
 ||load.sgtm.bellepergole.it^
 ||load.sgtm.bellevetratescorrevoli.it^
-||load.sgtm.berboneelsprova.store^
 ||load.sgtm.best-billigst.no^
 ||load.sgtm.bidibadu.com^
 ||load.sgtm.bikeunion.cz^
@@ -3276,6 +3295,7 @@
 ||load.sgtm.cercapasseggini.it^
 ||load.sgtm.cercaseggiolini.it^
 ||load.sgtm.chatterboxwalls.co.uk^
+||load.sgtm.click2pharmacy.co.uk^
 ||load.sgtm.clogau.co.uk^
 ||load.sgtm.comptoir-utilitaire.com^
 ||load.sgtm.condoms.uk^
@@ -3587,6 +3607,7 @@
 ||load.ss.artofdance.nl^
 ||load.ss.ascot-hotel.com^
 ||load.ss.atmintiesakademija.lt^
+||load.ss.baglio.fr^
 ||load.ss.barderi.it^
 ||load.ss.bil360.dk^
 ||load.ss.bimago.com^
@@ -3606,6 +3627,7 @@
 ||load.ss.brunata.com^
 ||load.ss.brunata.dk^
 ||load.ss.buitenplaatslandlust.nl^
+||load.ss.bundgaard.dk^
 ||load.ss.businessdanmark.dk^
 ||load.ss.byeblues.fr^
 ||load.ss.calzaheymo.es^
@@ -3686,6 +3708,7 @@
 ||load.ss.handyhand.dk^
 ||load.ss.happyhelper.dk^
 ||load.ss.hasserisflyt.dk^
+||load.ss.heli24.eu^
 ||load.ss.hoersholmmidtpunkt.dk^
 ||load.ss.hortensiahaven.dk^
 ||load.ss.hotel-felsenland.de^
@@ -3733,6 +3756,7 @@
 ||load.ss.madpack.works^
 ||load.ss.malerishop.no^
 ||load.ss.marketero.es^
+||load.ss.massivesale.dk^
 ||load.ss.match2one.com^
 ||load.ss.matchpadel.dk^
 ||load.ss.mes-boucles.com^
@@ -3882,6 +3906,7 @@
 ||load.ssa.tameson.fr^
 ||load.ssapi.discount-plomberie.com^
 ||load.ssayied.digi360hub.com^
+||load.ssc.fermliving.com^
 ||load.ssc.fermliving.de^
 ||load.ssc.formatbio.dk^
 ||load.ssd.aerochartersolutions.com^
@@ -3914,6 +3939,7 @@
 ||load.sst-nordic.greenpeace.fi^
 ||load.sst-nordic.greenpeace.org^
 ||load.sst.123kast.nl^
+||load.sst.9realms.de^
 ||load.sst.a-huset.com^
 ||load.sst.a1.si^
 ||load.sst.activo.nl^
@@ -3951,6 +3977,7 @@
 ||load.sst.beukenhorst.nl^
 ||load.sst.bierkanjer.nl^
 ||load.sst.bikesattel.at^
+||load.sst.bila-as.com^
 ||load.sst.bila.dk^
 ||load.sst.binky.nl^
 ||load.sst.boulebar.co.uk^
@@ -4122,6 +4149,7 @@
 ||load.sst.max.nl^
 ||load.sst.maxinutrition.at^
 ||load.sst.mcdrogerie.ch^
+||load.sst.mcdrogheria.ch^
 ||load.sst.mcdroguerie.ch^
 ||load.sst.mea-group.com^
 ||load.sst.medisave.eu^
@@ -4277,6 +4305,7 @@
 ||load.sstm.arenaswim.com^
 ||load.sstm.chgroup.eu^
 ||load.sstm.longines.com^
+||load.sstm.roldeco.nl^
 ||load.sstm.sergiorossi.com^
 ||load.sstms.medi-call.be^
 ||load.sstrk.green-acres.ae^
@@ -4296,11 +4325,11 @@
 ||load.sstrk.nemes-paris.com^
 ||load.sstsrv.macromedia-ausbildung.de^
 ||load.st.artofdance.nl^
-||load.st.b2s.nl^
+||load.st.boardcompany.de^
+||load.st.boardcompany.nl^
 ||load.st.bzenbikes-outlet.com^
 ||load.st.bzenbikes.com^
 ||load.st.casewise.pl^
-||load.st.dgtl.nl^
 ||load.st.feestfabriek.nl^
 ||load.st.fussballreisen.com^
 ||load.st.growking24.com^
@@ -4311,7 +4340,6 @@
 ||load.st.petermax.at^
 ||load.st.q-dance.com^
 ||load.st.sourceful.nl^
-||load.st.strafwerk.org^
 ||load.st.sunpoint.de^
 ||load.st.wellmaxx-bodyforming.com^
 ||load.st.zwartecross.nl^
@@ -4562,6 +4590,7 @@
 ||load.tss.vivatechnology.com^
 ||load.ujftlsnz.jurio.com^
 ||load.ujftlsnz.legaldesk.dk^
+||load.unif.hedgy-haagplanten.nl^
 ||load.usmiling.com.br^
 ||load.uytrlzaui.bonendroi.com^
 ||load.vegan.vefa-fernschule.de^
@@ -4876,7 +4905,6 @@
 ||pickle.qinshealth.com^
 ||pieejami.tilde.ai^
 ||pig.andorragestion.com^
-||pizza.als-pizza.de^
 ||pl.antilliaansefeesten.be^
 ||pl.beegeesziggodome.nl^
 ||pl.daszimmer.com^
@@ -5116,6 +5144,7 @@
 ||server.nutrify-nutrition.com^
 ||server.panthos.it^
 ||server.parnasse-stores.com^
+||server.pitactief.nl^
 ||server.plaid-douceur.com^
 ||server.practik.ua^
 ||server.projekte.franziska-zepf.de^
@@ -5187,7 +5216,6 @@
 ||servertrack.fluco-online.de^
 ||servertracking.yopagomenos.co^
 ||service.arredamentopari.com^
-||service.pickuptravelguide.com^
 ||servidor.carlaloureiro.com.br^
 ||seshat.speenwinkel.nl^
 ||sets.mein-malennachzahlen.com^
@@ -5367,6 +5395,7 @@
 ||sgtm.federicodegan.com^
 ||sgtm.feinewerkzeuge.de^
 ||sgtm.feltest.com^
+||sgtm.fewo-harriersand.de^
 ||sgtm.fexmath.com^
 ||sgtm.fiajewels.it^
 ||sgtm.filibabba.com^
@@ -5904,6 +5933,7 @@
 ||ss.brynje.dk^
 ||ss.buitenleven247.nl^
 ||ss.buitenplaatslandlust.nl^
+||ss.bundgaardshoes.de^
 ||ss.byeblues.fr^
 ||ss.calzaheymo.es^
 ||ss.camping-lasirena.com^
@@ -5977,6 +6007,7 @@
 ||ss.duurzaamxl.nl^
 ||ss.e-home.dk^
 ||ss.easis.dk^
+||ss.easyredmine.com^
 ||ss.ebeltoftstrandcamping.dk^
 ||ss.ebrand.hu^
 ||ss.ecobac.be^
@@ -6138,6 +6169,7 @@
 ||ss.manoscritti-gruppoalbatros.com^
 ||ss.marykwong.de^
 ||ss.masqdieta.com^
+||ss.massivesale.dk^
 ||ss.match2one.com^
 ||ss.mauroromanella.com^
 ||ss.maxis.dk^
@@ -6429,7 +6461,6 @@
 ||ssgri.grupporefrattivoitaliano.it^
 ||ssgt.mychildbenefit.co.uk^
 ||ssgt.personalcheck.co.uk^
-||ssgt.vehicleregister.co.uk^
 ||ssgtm.1rebel.com^
 ||ssgtm.annettenails.ro^
 ||ssgtm.cariuma.fr^
@@ -6453,6 +6484,7 @@
 ||ssgtm.torokbalazs.com^
 ||ssgtm.tudomanyosstandup.hu^
 ||ssgtm.veveritaverde.ro^
+||ssgtm.znamka24.cz^
 ||ssgtm.znamka24.sk^
 ||ssgtm41516.fliesenprofi.de^
 ||ssgtmramify.ramify.fr^
@@ -6550,7 +6582,6 @@
 ||sst.benu.ch^
 ||sst.bermarservizi.it^
 ||sst.bestag.ch^
-||sst.besteltaart.nl^
 ||sst.bestpc.bg^
 ||sst.betnation.nl^
 ||sst.bevrijdingsdagenschede.nl^
@@ -6613,6 +6644,7 @@
 ||sst.ceramitec.com^
 ||sst.charismadesign.ie^
 ||sst.chartingsociety.com^
+||sst.chary.nl^
 ||sst.cherry.com^
 ||sst.circushotel.it^
 ||sst.clarive.de^
@@ -6653,6 +6685,7 @@
 ||sst.dewoehlk.dk^
 ||sst.diamond-wallet.de^
 ||sst.didsomeoneclone.me^
+||sst.digital-bau.com^
 ||sst.digital-masters.de^
 ||sst.digura.dk^
 ||sst.dinkalkulator.no^
@@ -6820,6 +6853,7 @@
 ||sst.isotunes.eu^
 ||sst.ispo.com^
 ||sst.ivvi.pet^
+||sst.jacobariismuseum.dk^
 ||sst.jagalajuga.com^
 ||sst.janosh.com^
 ||sst.janssen-cosmetics.com^
@@ -6854,6 +6888,7 @@
 ||sst.kula-tactical.com^
 ||sst.kultsnack.com^
 ||sst.kunskapsgruppen.se^
+||sst.kunstkartel.nl^
 ||sst.la-mia.nl^
 ||sst.lackstore.de^
 ||sst.lahnkanu.com^
@@ -6889,6 +6924,7 @@
 ||sst.lisaconcept.ro^
 ||sst.livianaconti.com^
 ||sst.liviza-projectinrichting.nl^
+||sst.liviza.nl^
 ||sst.locsmandisz.hu^
 ||sst.logix-software.it^
 ||sst.lokalepolitiekepartijen.nl^
@@ -6897,6 +6933,7 @@
 ||sst.lulab.com^
 ||sst.lunarmothjewellery.com^
 ||sst.luxfurniture.com.cy^
+||sst.lysmesteren.dk^
 ||sst.mababu.com^
 ||sst.madeinasia.be^
 ||sst.magicisland.be^
@@ -6913,6 +6950,7 @@
 ||sst.maydaydist.com^
 ||sst.mayko.pl^
 ||sst.mcdrogerie.ch^
+||sst.mcdrogheria.ch^
 ||sst.mea-group.com^
 ||sst.medisave.eu^
 ||sst.medtree.co.uk^
@@ -7036,6 +7074,7 @@
 ||sst.powerequityrelease.com^
 ||sst.premierpadelrotterdam.com^
 ||sst.preska.pl^
+||sst.primeshop.li^
 ||sst.problemistradasterrata.it^
 ||sst.productionmusiclive.com^
 ||sst.productronica-india.com^
@@ -7079,6 +7118,7 @@
 ||sst.satilabs.pl^
 ||sst.schefferkeukens.nl^
 ||sst.scholl-shoes.com^
+||sst.schur.com^
 ||sst.schwabengase-onlineshop.de^
 ||sst.scooter-attack.com^
 ||sst.sector-event.de^
@@ -7215,6 +7255,7 @@
 ||sst.wolle-roedel.com^
 ||sst.wombats-hostels.com^
 ||sst.women.pes.eu^
+||sst.world-of-photonics-india.com^
 ||sst.world-of-photonics.com^
 ||sst.world-of-quantum.com^
 ||sst.woskowyswiat.pl^
@@ -7239,6 +7280,7 @@
 ||sstag1.rani.com.tr^
 ||sstc.shopx.nl^
 ||sstdata.datenpioniere.de^
+||ssteu.unitedrentals.com^
 ||sstfs.dbu.dk^
 ||sstg.husse.pl^
 ||ssticket.berlin-dance-music-event.com^
@@ -7347,7 +7389,6 @@
 ||stape.euroelectronics.eu^
 ||stape.euroelectronics.fr^
 ||stape.euroelectronics.pl^
-||stape.euroelectronics.ro^
 ||stape.euroelectronics.se^
 ||stape.euroelectronics.sk^
 ||stape.evagoodlife.com^
@@ -7647,6 +7688,7 @@
 ||tagging.weightloss.goodbodyclinic.com^
 ||tagging.wellen-trading.de^
 ||tags.schwanger.li^
+||tags.statik.be^
 ||tangerine.optika-oftalmos.si^
 ||teigwaren.silikonbackform.com^
 ||tgsub.lichtnelke.de^
@@ -7741,6 +7783,7 @@
 ||track.yamamotonutrition.de^
 ||track.yamamotonutrition.es^
 ||track.yamamotonutrition.fr^
+||track.zooluwear.com^
 ||tracker.vitasure.nl^
 ||tracking.amerschlaeger.de^
 ||tracking.an-di.dk^
@@ -7880,6 +7923,7 @@
 ||wpzffweq.remorqueshop.fr^
 ||wwc8h2sv.demiselbijoux.com^
 ||wwi.gosafari.de^
+||www.artheist-tattoo.com^
 ||www.gtm.locon.dk^
 ||www.phantomwear.pl^
 ||www.ss.amdsolutions.dk^

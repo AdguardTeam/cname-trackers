@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751875210153        ; Serial
+           1751988959764        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -919,6 +919,7 @@ data-6357c1903a.plasteurope.com CNAME .
 data-63659a24a7.apps.iocnt.de CNAME .
 data-63798c78f2.apps.iocnt.de CNAME .
 data-638190bf02.galileo.tv CNAME .
+data-639ebd97e3.transport-online.de CNAME .
 data-63bbe3ec45.wuv.de CNAME .
 data-63ef19fa52.apps.iocnt.de CNAME .
 data-6416365902.sbz-online.de CNAME .
@@ -1074,6 +1075,7 @@ data-78961379fe.ingolstadt-today.de CNAME .
 data-7896616c61.abzonline.de CNAME .
 data-7899267776.daskochrezept.de CNAME .
 data-78c646b50a.apps.iocnt.de CNAME .
+data-79505c2b06.borkenerzeitung.de CNAME .
 data-79a0e4d6a6.apps.iocnt.de CNAME .
 data-79b463af18.detmold.de CNAME .
 data-79b61f918a.autoanzeigen.de CNAME .

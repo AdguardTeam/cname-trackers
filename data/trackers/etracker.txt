@@ -31,7 +31,6 @@
 ||data.uk.kutchenhaus.com^
 ||defabc.black-label-coffee.de^
 ||dts.suchmeisterei.de^
-||e.grow-express.de^
 ||e.heimat.style^
 ||e.mediherz-shop.de^
 ||e.medikamente-per-klick.de^
@@ -166,6 +165,7 @@
 ||wctr.menkenunddrees.de^
 ||wctr.mm-germany.com^
 ||wctr.moenninghoff.net^
+||wctr.satzdruck.com^
 ||wctr.scaleup-fulfillment.de^
 ||wctr.sus-architekten-muenster.de^
 ||wctr.vitanova-kliniken.de^
@@ -212,6 +212,7 @@
 ||webcontr.scandtrack.com^
 ||webcontr.shirtlabor.de^
 ||webcontr.sienagarden.de^
+||webcontr.solipac.de^
 ||webcontr.splendid-internet.de^
 ||webcontr.stadtwerke-ahrensburg.de^
 ||webcontr.synvia.de^

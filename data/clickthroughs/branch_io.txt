@@ -245,6 +245,7 @@
 ||b.prod1.youroffers.dominos.ca^
 ||b.prospect.t-mobile.com^
 ||b.research.t-mobile.com^
+||b.tmobile-mid-stage2-all-t.adobe-campaign.com^
 ||b.your-account.t-mobile.com^
 ||b.your.rewardsemail.dominos.ca^
 ||b21.ifly.southwest.com^
@@ -1207,6 +1208,7 @@
 ||app.bergenkino.no^
 ||app.berrydates.com^
 ||app.bhhsmichiganrealestate.com^
+||app.bhhsnv.com^
 ||app.bible.com^
 ||app.biblelens.com^
 ||app.bikeep.com^
@@ -1690,6 +1692,8 @@
 ||application.influur.com^
 ||application.mindshine.app^
 ||application.mybiglove.ru^
+||applink-qa.timespro.com^
+||applink-uat.timespro.com^
 ||applink.a1pdf.co^
 ||applink.aspiration.com^
 ||applink.batterii.com^
@@ -2376,6 +2380,7 @@
 ||dl.jae.com.br^
 ||dl.klinq.com^
 ||dl.livelongg.com^
+||dl.luzsaude.net^
 ||dl.manscore.com^
 ||dl.myathath.com^
 ||dl.oneworldonesai.com^
@@ -2386,6 +2391,7 @@
 ||dl.rivafashion.com^
 ||dl.shopwell.com^
 ||dl.spotangels.com^
+||dl.staging.buenro.com^
 ||dl.tablelist.com^
 ||dl.test.fluent.care^
 ||dl.thebeat.co^
@@ -3268,6 +3274,7 @@
 ||invite.hudd.no^
 ||invite.icars.cc^
 ||invite.imfineapp.com^
+||invite.karmaspades.com^
 ||invite.mintkarma.io^
 ||invite.openhouse.study^
 ||invite.paltalk.net^
@@ -3571,6 +3578,7 @@
 ||link.autoura.com^
 ||link.avenue.us^
 ||link.axshealthapp.com^
+||link.babylonai.app^
 ||link.baliapp.com^
 ||link.bambu.dev^
 ||link.basecamped.com^
@@ -3620,6 +3628,7 @@
 ||link.cerego.com^
 ||link.chalknation.com^
 ||link.chamchi.kr^
+||link.charitableimpact.com^
 ||link.checkatrade.com^
 ||link.classicalradio.com^
 ||link.cleaninglab.co.kr^
@@ -3655,6 +3664,7 @@
 ||link.dev.nowjobs.dev^
 ||link.dev.quicktakes.io^
 ||link.develapme.com^
+||link.deversmarket.com^
 ||link.didyoucatchit.com^
 ||link.dietfriends.kr^
 ||link.dinifi.com^
@@ -3769,6 +3779,7 @@
 ||link.halal-navi.com^
 ||link.hanpath.com^
 ||link.happycar.info^
+||link.happysleep.com^
 ||link.harveyssupermarkets.com^
 ||link.hayhayapp.se^
 ||link.hbb.oliv.org^
@@ -3803,7 +3814,6 @@
 ||link.imprint.co^
 ||link.industrii.co^
 ||link.infinitcare.co^
-||link.inklusiv.io^
 ||link.innerplay.io^
 ||link.inoxmovies.com^
 ||link.insense.pro^
@@ -3898,6 +3908,7 @@
 ||link.mindsetapp.com^
 ||link.mindteamgame.com^
 ||link.minfo.com^
+||link.minorchores.com^
 ||link.mix.com^
 ||link.mixbit.com^
 ||link.mixnpik.com^
@@ -4090,6 +4101,7 @@
 ||link.spoter.photo^
 ||link.sprive.com^
 ||link.srvme.com^
+||link.sstdy.in^
 ||link.stabilitas.io^
 ||link.staff.notab.com^
 ||link.staffme.fr^
@@ -4479,7 +4491,6 @@
 ||m.bell.ca^
 ||m.bigroad.com^
 ||m.bitmo.com^
-||m.bookis.com^
 ||m.brandbassador.com^
 ||m.circlesquare.app^
 ||m.d11.io^
@@ -4834,6 +4845,7 @@
 ||play.underdogsports.com^
 ||play.wavelength.zone^
 ||playtz.bgg4.me^
+||plugbra.tupimob.com^
 ||plv.geocomply.com^
 ||pmpexam.quantresear.ch^
 ||poc.citibox.tech^
@@ -5241,6 +5253,7 @@
 ||skincheckwa-app.hotdoc.com.au^
 ||skosgrill.openapp.link^
 ||sl.trycircle.com^
+||slotabrosdev.zharev.com^
 ||slotabrosuat.slotxbros.com^
 ||slotabrosuat.zharev.com^
 ||sm.sylectus.com^
@@ -5323,6 +5336,7 @@
 ||talent.roxiapp.com^
 ||talentsprint.epoise.com^
 ||talentsprinttest.epoise.com^
+||tally.bizanalyst.in^
 ||tamedbc.roska.fr^
 ||tap.carling.com^
 ||tasteeat.openapp.link^

@@ -204,6 +204,7 @@
 ||l.rtl.fr^
 ||l.science-et-vie.com^
 ||l.sciencesetavenir.fr^
+||l.sensacine.com^
 ||l.sensacine.com.mx^
 ||l.sportauto.fr^
 ||l.sports.fr^

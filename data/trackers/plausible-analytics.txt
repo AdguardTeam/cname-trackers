@@ -866,4 +866,5 @@
 ||webstats.bijenpatel.com^
 ||yolo.philipbjorge.com^
 ||zahlen.olereissmann.de^
+||analytics.pix.fr^
 ||stats.citizenos.com^

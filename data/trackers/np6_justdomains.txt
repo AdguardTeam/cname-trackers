@@ -1019,7 +1019,6 @@ tr.preferenza.unaoffertaalgiorno.com
 tr.presupuesto-b2b.es
 tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
-tr.princess.np6.com
 tr.pro-renov.be
 tr.pro.odalys-campus.com
 tr.pro.odalys-vacances.com
@@ -1152,6 +1151,7 @@ tr.urfk05e.espmp-aufr.net
 tr.urfk05g.espmp-agfr.net
 tr.urfk05l.espmp-nifr.net
 tr.urfk05o.espmp-pofr.net
+tr.urfk06b.espmp-cufr.net
 tr.urfk06h.espmp-nifr.net
 tr.urfk06l.espmp-aufr.net
 tr.urfk06n.espmp-nifr.net
@@ -1217,6 +1217,7 @@ tr1.mailperf.com
 tr1.mailperformance.com
 tr1.mperf.com
 tr1.peugeot-ipsos.com
+tr2.mperf.com
 tr4.mailperf.com
 tr5.mailperf.com
 tr5.mperf.com

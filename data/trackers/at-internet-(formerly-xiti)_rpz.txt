@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751875210153        ; Serial
+           1751988959764        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -67,6 +67,7 @@ leo.goplay.be CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 montpalatin.handicap.fr CNAME .
+pear.youzful-by-ca.fr CNAME .
 pilau.oddo-bhf.com CNAME .
 ponyo.cheriefm.fr CNAME .
 protys.protys.fr CNAME .

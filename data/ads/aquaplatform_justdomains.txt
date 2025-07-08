@@ -118,6 +118,7 @@ images.addurance.com
 images.cricketworld.com
 images.etnomedia.nl
 images.falconstudios.com
+images.fnch.ch
 images.goldseek.com
 images.hour-media.com
 images.informatm.com
@@ -164,7 +165,6 @@ servedby.hollandhortimedia.nl
 servedby.hour-media.com
 servedby.imagineobx.com
 servedby.insideradverts.com
-servedby.jacilla.no
 servedby.lamag.com
 servedby.livingmagonline.com
 servedby.mannixmarketing.com
@@ -225,7 +225,6 @@ static.schrotundkorn.de
 static.sonicplug.com
 static.tahoe.com
 static.the-saleroom.com
-static.trackandfieldnews.com
 static.walaplusadserver.com
 static.wwoz.org
 stommeplaatjes.geenstijl.nl
@@ -272,7 +271,6 @@ www.revive.worldscreen.com
 www.servedby.cincinnatimagazine.com
 www.servedby.geminipub.com
 www.servedby.greenspring.com
-www.servedby.jacilla.no
 www.servedby.miningweekly.com
 www.servedby.quirks.com
 www.servedby.sacommunications.com

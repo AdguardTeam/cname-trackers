@@ -128,7 +128,6 @@
     * t101-static.aquaplatform.com
     * tfn-console.aquaplatform.com
     * tfn-delivery.aquaplatform.com
-    * tfn-static.aquaplatform.com
     * unionesarda-delivery.aquaplatform.com
     * unionesarda-static.aquaplatform.com
     * viasat-console.aquaplatform.com
@@ -160,6 +159,7 @@
 | static.ammoland.com | ammoland-static.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
 | ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
+| images.fnch.ch | artionet-static.aquaplatform.com |
 | images.swiss-equestrian.ch | artionet-static.aquaplatform.com |
 | images.worldofshowjumping.com | artionet-static.aquaplatform.com |
 | www.images.fnch.ch | artionet-static.aquaplatform.com |
@@ -343,13 +343,11 @@
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.hlipublishing.com | platformiq-del.aquaplatform.com |
 | servedby.hollandhortimedia.nl | platformiq-del.aquaplatform.com |
-| servedby.jacilla.no | platformiq-del.aquaplatform.com |
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
 | servedby.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.xtraa.org | platformiq-del.aquaplatform.com |
 | webtool-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | www.proforums.com | platformiq-del.aquaplatform.com |
-| www.servedby.jacilla.no | platformiq-del.aquaplatform.com |
 | xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.portwest.com | portwest-delivery.aquaplatform.com |
 | console.postandparcel.info | postandparcel-console.aquaplatform.com |
@@ -414,7 +412,6 @@
 | console.trackandfieldnews.com | tfn-console.aquaplatform.com |
 | servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | www.servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
-| static.trackandfieldnews.com | tfn-static.aquaplatform.com |
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
 | cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
 | www.cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |

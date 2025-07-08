@@ -1,0 +1,61 @@
+# Tracker: kib.hu
+
+## Disguised trackers list
+
+* kib.hu
+    * adat.kib.hu
+
+## Cloaking domains
+
+| Disguise | Tracker |
+| ---- | ---- |
+| adat.baon.hu | adat.kib.hu |
+| adat.888.hu | kib.hu |
+| adat.aradon.ro | kib.hu |
+| adat.astronet.hu | kib.hu |
+| adat.automotor.hu | kib.hu |
+| adat.bama.hu | kib.hu |
+| adat.beol.hu | kib.hu |
+| adat.bihon.ro | kib.hu |
+| adat.boon.hu | kib.hu |
+| adat.borsonline.hu | kib.hu |
+| adat.csupasport.hu | kib.hu |
+| adat.delmagyar.hu | kib.hu |
+| adat.dietaesfitnesz.hu | kib.hu |
+| adat.duol.hu | kib.hu |
+| adat.feol.hu | kib.hu |
+| adat.freemail.hu | kib.hu |
+| adat.haon.hu | kib.hu |
+| adat.heol.hu | kib.hu |
+| adat.hirtv.hu | kib.hu |
+| adat.ingatlanbazar.hu | kib.hu |
+| adat.kemma.hu | kib.hu |
+| adat.kisalfold.hu | kib.hu |
+| adat.koponyeg.hu | kib.hu |
+| adat.lakaskultura.hu | kib.hu |
+| adat.life.hu | kib.hu |
+| adat.likebalaton.hu | kib.hu |
+| adat.magyarnemzet.hu | kib.hu |
+| adat.mainap.hu | kib.hu |
+| adat.mandiner.hu | kib.hu |
+| adat.mediaworks.hu | kib.hu |
+| adat.metropol.hu | kib.hu |
+| adat.mindmegette.hu | kib.hu |
+| adat.nemzetisport.hu | kib.hu |
+| adat.nool.hu | kib.hu |
+| adat.origo.hu | kib.hu |
+| adat.retroradio.hu | kib.hu |
+| adat.ripost.hu | kib.hu |
+| adat.sonline.hu | kib.hu |
+| adat.szabadfold.hu | kib.hu |
+| adat.szoljon.hu | kib.hu |
+| adat.szon.hu | kib.hu |
+| adat.teol.hu | kib.hu |
+| adat.tion.ro | kib.hu |
+| adat.travelo.hu | kib.hu |
+| adat.vaol.hu | kib.hu |
+| adat.veol.hu | kib.hu |
+| adat.vg.hu | kib.hu |
+| adat.videa.hu | kib.hu |
+| adat.videkize.hu | kib.hu |
+| adat.zaol.hu | kib.hu |

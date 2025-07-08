@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751875210153        ; Serial
+           1751988959764        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -198,6 +198,7 @@ cs1470sbeda.schoolasp.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
 cs1979sbeda.customguide-build.net CNAME .
 cs1979sbeda.residence-customize.com CNAME .
+cs2087sbeda.haken-kanri.net CNAME .
 cs2087sbeda.manage-tempstaffing.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
 cv-adebis.my-studies.net CNAME .
@@ -306,6 +307,7 @@ ebistoppan2.10nengenki.com CNAME .
 ebistoppan3.ornithine.jp CNAME .
 ebistoppan5.kyowahakko-bio-healthcare.jp CNAME .
 ebistoppan6.kyowahakko-bio-campaign3.com CNAME .
+ebisu.saison-am.co.jp CNAME .
 emc.dr-stick.shop CNAME .
 euglism.euglenaone.jp CNAME .
 frontierconsul02.tsunagaru-office.com CNAME .

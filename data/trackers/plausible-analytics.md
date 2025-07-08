@@ -878,4 +878,5 @@
 | webstats.bijenpatel.com | custom.plausible.io |
 | yolo.philipbjorge.com | custom.plausible.io |
 | zahlen.olereissmann.de | custom.plausible.io |
+| analytics.pix.fr | plausible.io |
 | stats.citizenos.com | plausible.io |

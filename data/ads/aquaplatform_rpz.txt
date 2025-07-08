@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751875210153        ; Serial
+           1751988959764        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -129,6 +129,7 @@ images.addurance.com CNAME .
 images.cricketworld.com CNAME .
 images.etnomedia.nl CNAME .
 images.falconstudios.com CNAME .
+images.fnch.ch CNAME .
 images.goldseek.com CNAME .
 images.hour-media.com CNAME .
 images.informatm.com CNAME .
@@ -175,7 +176,6 @@ servedby.hollandhortimedia.nl CNAME .
 servedby.hour-media.com CNAME .
 servedby.imagineobx.com CNAME .
 servedby.insideradverts.com CNAME .
-servedby.jacilla.no CNAME .
 servedby.lamag.com CNAME .
 servedby.livingmagonline.com CNAME .
 servedby.mannixmarketing.com CNAME .
@@ -236,7 +236,6 @@ static.schrotundkorn.de CNAME .
 static.sonicplug.com CNAME .
 static.tahoe.com CNAME .
 static.the-saleroom.com CNAME .
-static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
 static.wwoz.org CNAME .
 stommeplaatjes.geenstijl.nl CNAME .
@@ -283,7 +282,6 @@ www.revive.worldscreen.com CNAME .
 www.servedby.cincinnatimagazine.com CNAME .
 www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
-www.servedby.jacilla.no CNAME .
 www.servedby.miningweekly.com CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.sacommunications.com CNAME .

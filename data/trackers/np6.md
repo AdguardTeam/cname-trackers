@@ -1045,7 +1045,6 @@
 | tr.presupuesto-b2b.es | tracking.bp01.net |
 | tr.prevention.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
-| tr.princess.np6.com | tracking.bp01.net |
 | tr.pro-renov.be | tracking.bp01.net |
 | tr.pro.odalys-campus.com | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
@@ -1178,6 +1177,7 @@
 | tr.urfk05g.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk05l.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk05o.espmp-pofr.net | tracking.bp01.net |
+| tr.urfk06b.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk06h.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk06l.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk06n.espmp-nifr.net | tracking.bp01.net |
@@ -1243,6 +1243,7 @@
 | tr1.mailperformance.com | tracking.bp01.net |
 | tr1.mperf.com | tracking.bp01.net |
 | tr1.peugeot-ipsos.com | tracking.bp01.net |
+| tr2.mperf.com | tracking.bp01.net |
 | tr4.mailperf.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
 | tr5.mperf.com | tracking.bp01.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751875210153        ; Serial
+           1751988959764        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -715,6 +715,7 @@ jo.lesbianbliss.com CNAME .
 jo.transhero.com CNAME .
 jordan.qunis.ru CNAME .
 js.allporncomic.com CNAME .
+js.allporncomix.com CNAME .
 js.cmoa.pro CNAME .
 js.eroticmv.com CNAME .
 js.manga1000.top CNAME .
@@ -1165,6 +1166,7 @@ ttquix.xyz CNAME .
 tuaos.xyz CNAME .
 tuaoza.xyz CNAME .
 turkey1266.fun CNAME .
+two.iugbhsu.com CNAME .
 u1zga.letsporn.com CNAME .
 u3o1uncq.xyz CNAME .
 uacabilqlgpw.cdnvideo3.com CNAME .
@@ -1269,6 +1271,7 @@ www8.upload-pics.com CNAME .
 wz.xyxz.site CNAME .
 x.adactioner.com CNAME .
 x.crazyporn.xxx CNAME .
+x.latelust.site CNAME .
 x.xxxbf.tv CNAME .
 x.xxxbule.com CNAME .
 x.xxxbule.tv CNAME .

@@ -136,6 +136,7 @@
     * 5d577e49-9tqftzkm.cname.ebis.ne.jp
     * 5dec3cb3-day5axk4.cname.ebis.ne.jp
     * 5e958d74-ugbtnbbz.cname.ebis.ne.jp
+    * 5f5f4b34-67ua4xre.cname.ebis.ne.jp
     * 60222f89-dui9p9au.cname.ebis.ne.jp
     * 608975dd-6hbgpszs.cname.ebis.ne.jp
     * 60975a62-6pusefyf.cname.ebis.ne.jp
@@ -183,6 +184,7 @@
     * 8a79c862-uynsk4n4.cname.ebis.ne.jp
     * 8ac48788-f3n6dqvs.cname.ebis.ne.jp
     * 8b8d4818-24xatymd.cname.ebis.ne.jp
+    * 8ce836c2-scxitlgt.cname.ebis.ne.jp
     * 8debf8e3-jtmaxrx7.cname.ebis.ne.jp
     * 8f087789-nkcrsmeh.cname.ebis.ne.jp
     * 8f5032fb-baawdyfz.cname.ebis.ne.jp
@@ -484,6 +486,7 @@
 | ebis.care-tensyoku.com | 5d577e49-9tqftzkm.cname.ebis.ne.jp |
 | ebis.re-shop.jp | 5dec3cb3-day5axk4.cname.ebis.ne.jp |
 | ac-3.mix.tokyo | 5e958d74-ugbtnbbz.cname.ebis.ne.jp |
+| ebisu.saison-am.co.jp | 5f5f4b34-67ua4xre.cname.ebis.ne.jp |
 | ad.autorace.jp | 60222f89-dui9p9au.cname.ebis.ne.jp |
 | ebis.sekisuihouse.co.jp | 608975dd-6hbgpszs.cname.ebis.ne.jp |
 | ebis-tracking.shinyokohama-beauty.com | 60975a62-6pusefyf.cname.ebis.ne.jp |
@@ -531,6 +534,7 @@
 | ad.aucview.com | 8a79c862-uynsk4n4.cname.ebis.ne.jp |
 | adebis.s-toushi.jp | 8ac48788-f3n6dqvs.cname.ebis.ne.jp |
 | ebis.apo-mjob.com | 8b8d4818-24xatymd.cname.ebis.ne.jp |
+| cs2087sbeda.haken-kanri.net | 8ce836c2-scxitlgt.cname.ebis.ne.jp |
 | ebis.glico-direct.jp | 8debf8e3-jtmaxrx7.cname.ebis.ne.jp |
 | cname.finess.jp | 8f087789-nkcrsmeh.cname.ebis.ne.jp |
 | adebis.shinseibank.com | 8f5032fb-baawdyfz.cname.ebis.ne.jp |

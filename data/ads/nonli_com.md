@@ -241,6 +241,7 @@
 | l.rtl.fr | tls.non.li |
 | l.science-et-vie.com | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
+| l.sensacine.com | tls.non.li |
 | l.sensacine.com.mx | tls.non.li |
 | l.sportauto.fr | tls.non.li |
 | l.sports.fr | tls.non.li |

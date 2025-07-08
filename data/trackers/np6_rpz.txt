@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751875210153        ; Serial
+           1751988959764        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1030,7 +1030,6 @@ tr.preferenza.unaoffertaalgiorno.com CNAME .
 tr.presupuesto-b2b.es CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
-tr.princess.np6.com CNAME .
 tr.pro-renov.be CNAME .
 tr.pro.odalys-campus.com CNAME .
 tr.pro.odalys-vacances.com CNAME .
@@ -1163,6 +1162,7 @@ tr.urfk05e.espmp-aufr.net CNAME .
 tr.urfk05g.espmp-agfr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .
 tr.urfk05o.espmp-pofr.net CNAME .
+tr.urfk06b.espmp-cufr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .
 tr.urfk06l.espmp-aufr.net CNAME .
 tr.urfk06n.espmp-nifr.net CNAME .
@@ -1228,6 +1228,7 @@ tr1.mailperf.com CNAME .
 tr1.mailperformance.com CNAME .
 tr1.mperf.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
+tr2.mperf.com CNAME .
 tr4.mailperf.com CNAME .
 tr5.mailperf.com CNAME .
 tr5.mperf.com CNAME .

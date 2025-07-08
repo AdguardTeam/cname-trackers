@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751875210153        ; Serial
+           1751988959764        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -339,10 +339,10 @@ web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
 web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
+web.news.absurdbeauty.com CNAME .
 web.news.bottegaverde.com CNAME .
 web.news.boxeurdesrues.com CNAME .
 web.news.coccinelle.com CNAME .
-web.news.creedfragrances.co.uk CNAME .
 web.news.dixiefashion.com CNAME .
 web.news.eprice.it CNAME .
 web.news.gnv.it CNAME .
