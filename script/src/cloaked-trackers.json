@@ -187,7 +187,9 @@
         "type": "tracker",
         "domains": [
             "edgetag.io",
-            "attntags.com"
+            "attntags.com",
+            "emtag.net",
+            "xray-superpixel.com"
         ]
     },
     {
