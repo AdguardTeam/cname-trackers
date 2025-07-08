@@ -245,13 +245,6 @@
         "domains": [
             "go.goadserver.com"
         ]
-    },    
-    {
-        "company_name": "rttrk.com",
-        "type": "tracker",
-        "domains": [
-            "rttrk.com"
-        ]
     },
     {
         "company_name": "heleric.com",
@@ -392,7 +385,8 @@
         "company_name": "RedTrack",
         "type": "tracker",
         "domains": [
-            "rdtk.io"
+            "rdtk.io",
+            "rttrk.com"
         ]
     },
     {
