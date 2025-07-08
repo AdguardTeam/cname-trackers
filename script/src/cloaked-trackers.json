@@ -183,6 +183,14 @@
         ]
     },
     {
+        "company_name": "EdgeTag",
+        "type": "tracker",
+        "domains": [
+            "edgetag.io",
+            "attntags.com"
+        ]
+    },
+    {
         "company_name": "Ensighten",
         "type": "tracker",
         "domains": [
