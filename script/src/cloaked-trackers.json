@@ -278,6 +278,13 @@
         ]
     },
     {
+        "company_name": "kib.hu",
+        "type": "tracker",
+        "domains": [
+            "kib.hu"
+        ]
+    },
+    {
         "company_name": "Keyade",
         "type": "tracker",
         "domains": [
