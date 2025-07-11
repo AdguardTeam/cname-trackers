@@ -424,7 +424,8 @@
         "company_name": "Stape",
         "type": "tracker",
         "domains": [
-            "stape.net"
+            "stape.net",
+            "stape.io"
         ]
     },
     {
