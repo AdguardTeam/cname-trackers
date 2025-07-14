@@ -49,7 +49,6 @@
 | cc.histoires-de-sexe.club | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
 | cc.sexgeschichten-kostenlos.com | api.clickaine.com |
-| cc.sexgeschichten-xxx.com | api.clickaine.com |
 | cc2.camcaps.io | api.clickaine.com |
 | cdn1.memojav.com | api.clickaine.com |
 | cdn1.xvideohub.top | api.clickaine.com |
@@ -123,6 +122,7 @@
 | www.faq.brandnewapp.pro | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
 | www.station54k.brandnewapp.pro | api.clickaine.com |
+| www.xn--www-hn0a.rtnews.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

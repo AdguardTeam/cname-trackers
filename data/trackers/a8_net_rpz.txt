@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -563,7 +563,6 @@ a8clk.kaitori.kind.co.jp CNAME .
 a8clk.kaitoriyasan.group CNAME .
 a8clk.kake-barai.com CNAME .
 a8clk.kanagawa-zero.com CNAME .
-a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.kihada.jp CNAME .
 a8clk.komochikon.jp CNAME .
 a8clk.label-seal-print.com CNAME .

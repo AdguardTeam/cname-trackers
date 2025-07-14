@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 a.trowow.de CNAME .
+analyse.hs-furtwangen.de CNAME .
 analytics.freiraumakustik.de CNAME .
 analytics.gerstacker-weinkellerei.de CNAME .
 analytics.kist-escherich.com CNAME .
@@ -47,6 +48,7 @@ e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
 eck.brettspieleck.de CNAME .
+em.mittwald.de CNAME .
 estat.edel-kraut.de CNAME .
 estats.globus.de CNAME .
 et.akademie-handel.de CNAME .
@@ -110,6 +112,7 @@ mensch.ekd.de CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.treudelberg-resort.com CNAME .
+metrics.zaun-star.com CNAME .
 mktg.activemind.legal CNAME .
 monitoring.medizinbedarf.eu CNAME .
 mytrd.orion.at CNAME .
@@ -150,6 +153,7 @@ t.canngo.express CNAME .
 tr.zuhause-finder.com CNAME .
 tr7593.pollin.de CNAME .
 track.bauwirtschaft-bw.de CNAME .
+track.brot-fuer-die-welt.de CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
 track.dictum-handwerksgalerie.de CNAME .
 track.dictum-shop.de CNAME .
@@ -195,6 +199,7 @@ webcontr.bet-at-home.de CNAME .
 webcontr.caso-design.de CNAME .
 webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
+webcontr.crazy-heels.com CNAME .
 webcontr.distrebution.com CNAME .
 webcontr.ecoon.de CNAME .
 webcontr.fsj-digital-bw.de CNAME .
@@ -205,6 +210,7 @@ webcontr.in-akustik.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.kabelschuhe-shop.de CNAME .
 webcontr.kitchen-concept.de CNAME .
+webcontr.kontor4.de CNAME .
 webcontr.l.de CNAME .
 webcontr.leisure.one CNAME .
 webcontr.lindy.de CNAME .

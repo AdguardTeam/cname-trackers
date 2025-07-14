@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ r.scraperib.com CNAME .
 r.silvertrck.com CNAME .
 r.smttrck.com CNAME .
 r.spininitial.tech CNAME .
+r.wholehall.com CNAME .
 t.clearmaptrck.store CNAME .
 t.dynatrck.site CNAME .
 t.instrck.com CNAME .

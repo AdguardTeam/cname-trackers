@@ -35,6 +35,7 @@
 ||dot-com-stats.sladewatkins.net^
 ||gc.acut3.net^
 ||gc.gaywu.com^
+||gc.grokhard.com^
 ||gc.hausarzt-zentrum-herne.de^
 ||gc.miluchacontraeltabaco.com^
 ||gc.mindenugyved.hu^
@@ -56,6 +57,7 @@
 ||goatcounter.eventgeek.ie^
 ||goatcounter.gamecraft.it^
 ||goatcounter.irishbornchinese.com^
+||goatcounter.repozitor.com^
 ||goatcounter.thedave.dev^
 ||goatcounter.thedave.me^
 ||goatcounter.thedave.photos^
@@ -67,6 +69,7 @@
 ||pixel.embed.su^
 ||science.ygoprint.org^
 ||st.mapleranks.com^
+||statgarden.florinesueur.fr^
 ||statistic.elkobraas.com^
 ||stats-ruzickap-github-io.ruzicka.dev^
 ||stats.45rpm.ch^
@@ -93,6 +96,7 @@
 ||stats.crosshair.dev^
 ||stats.dalinwilliams.com^
 ||stats.davidjuhasz.dev^
+||stats.defiscitoyens.org^
 ||stats.eithel.org^
 ||stats.fieald.com^
 ||stats.forest-school.am^

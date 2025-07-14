@@ -201,6 +201,7 @@
     * carpartscom.extole.io
     * catfootwear.extole.io
     * cefaly.extole.io
+    * ceifx.extole.io
     * cellcom.extole.io
     * centier.extole.io
     * chacos.extole.io
@@ -238,6 +239,7 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -308,7 +310,6 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -517,7 +518,9 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
+    * starbucks.xtl2.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
     * stockpile.extole.io
@@ -582,7 +585,6 @@
     * vcu.extole.io
     * verizon.extole.io
     * viktor-rolf.extole.io
-    * viktor-rolf.xtl2.extole.io
     * virginvoyages.extole.io
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
@@ -600,6 +602,7 @@
     * wolverine.extole.io
     * wombat.extole.io
     * wrangler.extole.io
+    * xfinity.em.extole.io
     * xfinity.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
@@ -739,6 +742,7 @@
 | share.carparts.com | carpartscom.extole.io |
 | refer.catfootwear.com | catfootwear.extole.io |
 | share.cefaly.com | cefaly.extole.io |
+| share.ceifx.com | ceifx.extole.io |
 | share.cellcom.ca | cellcom.extole.io |
 | www.refercentier.com | centier.extole.com |
 | refer.centier.com | centier.extole.io |
@@ -794,6 +798,7 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -952,7 +957,6 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1257,7 +1261,9 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
+| xtl2._domainkey.refer.starbucks.com | starbucks.xtl2.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
 | share.stockpile.com | stockpile.extole.io |
@@ -1360,7 +1366,6 @@
 | refer.verabradley.com | verabradley.extole.com |
 | referabusiness.verizon.com | verizon.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |
-| xtl2._domainkey.shareus.viktor-rolf.com | viktor-rolf.xtl2.extole.io |
 | share.vimeo.com | vimeo.extole.com |
 | share.virginvoyages.com | virginvoyages.extole.io |
 | referral.vistaprint.com | vistaprint-ssl.extole.com |
@@ -1388,6 +1393,7 @@
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
+| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |

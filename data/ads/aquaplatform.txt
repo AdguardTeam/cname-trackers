@@ -15,6 +15,7 @@
 ||adimages.infotorg.se^
 ||adimages.marriagetrac.com^
 ||adimages.proforums.com^
+||adimages.rtvdrenthe.nl^
 ||adimages.sniffies.com^
 ||ads-console.recon.com^
 ||ads-delivery.milenarmedia.pt^
@@ -80,6 +81,7 @@
 ||console.adbility-media.com^
 ||console.adspmg.com^
 ||console.aqua-adserver.com^
+||console.biohandel.de^
 ||console.blulab.net^
 ||console.cavalier-romand.ch^
 ||console.ceramicartsnetwork.org^
@@ -134,6 +136,7 @@
 ||marriagetrac-delivery.reviveservers.com^
 ||media.revive-adserver.com^
 ||media360ads.midtc.com^
+||nyfa-images.reviveservers.com^
 ||omroepflevoland-static.reviveservers.com^
 ||omropfryslan-delivery.reviveservers.com^
 ||openx.mondiale.co.uk^
@@ -142,6 +145,7 @@
 ||ox.mequoda.com^
 ||proxena-images.reviveservers.com^
 ||proxena-secure.reviveservers.com^
+||revive-console.worldscreen.com^
 ||revive-static.worldscreen.com^
 ||revive.ahk.de^
 ||revive.worldscreen.com^
@@ -225,6 +229,7 @@
 ||static.sonicplug.com^
 ||static.tahoe.com^
 ||static.the-saleroom.com^
+||static.trackandfieldnews.com^
 ||static.walaplusadserver.com^
 ||static.wwoz.org^
 ||stommeplaatjes.geenstijl.nl^

@@ -566,7 +566,6 @@
 | a8clk.kaitoriyasan.group | trck.a8.net |
 | a8clk.kake-barai.com | trck.a8.net |
 | a8clk.kanagawa-zero.com | trck.a8.net |
-| a8clk.kenkoukazoku.co.jp | trck.a8.net |
 | a8clk.kihada.jp | trck.a8.net |
 | a8clk.komochikon.jp | trck.a8.net |
 | a8clk.label-seal-print.com | trck.a8.net |

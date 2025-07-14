@@ -206,6 +206,7 @@
 ||ebis-tracking.tcb-ginza.com^
 ||ebis-tracking.tcb-koriyama.com^
 ||ebis-tracking.tcb-mito.com^
+||ebis-tracking.tcb-nakano.com^
 ||ebis-tracking.tcb-recruit.com^
 ||ebis-tracking.tcb-setagaya.com^
 ||ebis-tracking.tcb-shibuya.com^

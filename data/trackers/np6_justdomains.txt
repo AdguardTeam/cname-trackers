@@ -189,6 +189,7 @@ tr.capu.espmp-agfr.net
 tr.carl.espmp-cufr.net
 tr.cart.espmp-cufr.net
 tr.cart02d.espmp-agfr.net
+tr.carte.lcl.fr
 tr.cartegie.fr
 tr.cashback.floa.fr
 tr.cb4x.banque-casino.fr
@@ -350,6 +351,7 @@ tr.e.m-entreprise.fr
 tr.e.trouver-un-logement-neuf.com
 tr.easy-offertes.be
 tr.eazybuy-communication.moethennessy.com
+tr.ebusiness.moethennessy.com
 tr.ecolab-france.fr
 tr.ecologie-shop.espmp-agfr.net
 tr.elections.simplivote.fr
@@ -516,6 +518,7 @@ tr.info.galian.fr
 tr.info.harmonie-mutuelle.fr
 tr.info.la-norma.fr
 tr.info.lacentrale.fr
+tr.info.libranoo.com
 tr.info.linnc.com
 tr.info.linxea.com
 tr.info.magora.fr
@@ -545,7 +548,6 @@ tr.info.reunica.com
 tr.info.rouen.aeroport.fr
 tr.info.rouen.cci.fr
 tr.info.snpden.net
-tr.info.solidarm.fr
 tr.info.svp.com
 tr.info.valcenis.com
 tr.info.valfrejus.com
@@ -654,6 +656,7 @@ tr.mailing.achatpublic.com
 tr.mailing.heliades.fr
 tr.mailing.laredoute.fr
 tr.mailing.lvmhappening.com
+tr.mailing.opinionrelate.com
 tr.mailing.promodeclic.fr
 tr.mailmp.macif.net
 tr.mailperf.institut-de-la-protection-sociale.fr

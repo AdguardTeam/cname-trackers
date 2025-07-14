@@ -106,6 +106,7 @@ utiq.directoalpaladar.com
 utiq.diverto.tv
 utiq.doctissimo.fr
 utiq.donaukurier.de
+utiq.donnemagazine.it
 utiq.duden.de
 utiq.dzfoot.com
 utiq.easyvoyage.com
@@ -361,6 +362,7 @@ utiq.spektrum.de
 utiq.spiegel.de
 utiq.spielaffe.de
 utiq.sport.es
+utiq.sportlerfrage.net
 utiq.sports.fr
 utiq.staging--hb.hmg.systems
 utiq.staging--wiwo.hmg.systems
@@ -382,6 +384,7 @@ utiq.telestar.fr
 utiq.telva.com
 utiq.terrafemina.com
 utiq.testfaz.net
+utiq.thenewretail.es
 utiq.thestar.com
 utiq.thewatmag.com
 utiq.thueringen24.de

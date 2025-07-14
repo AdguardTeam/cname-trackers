@@ -374,7 +374,6 @@
 ||data-2cfc77297e.pnn.de^
 ||data-2cfc77297e.tagesspiegel.de^
 ||data-2d5e2d4006.apps.iocnt.de^
-||data-2d805a2d6c.mama-reporter.de^
 ||data-2d86fd41e0.business-punk.com^
 ||data-2d86fd41e0.homeday.de^
 ||data-2d8c7b4f16.apps.iocnt.de^
@@ -469,6 +468,7 @@
 ||data-3bf5bac5c5.radiohochstift.de^
 ||data-3c53a472e7.dieoberoesterreicherin.at^
 ||data-3c5dd2a388.zuhausewohnen.de^
+||data-3c606bc05f.baumetall.de^
 ||data-3c672b4f0d.rtl-up.de^
 ||data-3c672b4f0d.rtlplus.de^
 ||data-3c91d46d9d.smarterworld.de^
@@ -535,6 +535,7 @@
 ||data-44a005f23c.bergfex.it^
 ||data-44a005f23c.bergfex.pl^
 ||data-44a005f23c.bergfex.si^
+||data-45798f2697.nils-nager.de^
 ||data-45798f2697.rheinpfalz.de^
 ||data-4591916fcd.hanser-fachverlag.de^
 ||data-45b14edd52.boote-magazin.de^
@@ -670,6 +671,7 @@
 ||data-49877903fc.apps.iocnt.de^
 ||data-49a8877855.apps.iocnt.de^
 ||data-49aef6b58e.shapeup-business.de^
+||data-49bb023f99.finanznachrichten.de^
 ||data-49dc40e643.onvista.de^
 ||data-4a575dad18.hamburgerjobs.de^
 ||data-4a5f71b500.highlight-web.de^
@@ -716,6 +718,7 @@
 ||data-501446ac98.einfachtierisch.de^
 ||data-501446ac98.stayfriends.de^
 ||data-501446ac98.t-online.de^
+||data-504bba0c00.tlc.de^
 ||data-50b219a31f.btc-echo.de^
 ||data-50c00d5d12.techbook.de^
 ||data-50d39a5d3f.diepresse.com^
@@ -937,6 +940,7 @@
 ||data-6add5bd962.bergwelten.com^
 ||data-6b50f0ba60.apps.iocnt.de^
 ||data-6b5868992a.apps.iocnt.de^
+||data-6bc4e31d56.apps.iocnt.de^
 ||data-6c57a6137f.imsueden.de^
 ||data-6ccf929934.recovery-worldwide.com^
 ||data-6cfdf9f979.lebensmittelzeitung.net^
@@ -1370,6 +1374,7 @@
 ||data-9e4ff1c91f.wz.de^
 ||data-9e925e9341.this-magazin.de^
 ||data-9ea3ac5fe9.food-service.de^
+||data-9eaf030dd4.apps.iocnt.de^
 ||data-9f311cce4c.nofi-lauf.de^
 ||data-9f311cce4c.onetz.de^
 ||data-9f426096e1.wz-net.de^
@@ -2033,6 +2038,7 @@
 ||data-f10a591664.promobil.de^
 ||data-f13c34cd1a.scienceblogs.de^
 ||data-f13c34cd1a.wissen.de^
+||data-f15e5b2d9d.apps.iocnt.de^
 ||data-f16abe2047.daskochrezept.de^
 ||data-f19e72ba06.dmax.de^
 ||data-f1c47705fc.elite-magazin.de^

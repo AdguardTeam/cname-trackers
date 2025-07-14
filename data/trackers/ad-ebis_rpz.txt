@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -217,6 +217,7 @@ ebis-tracking.tcb-fukushima.com CNAME .
 ebis-tracking.tcb-ginza.com CNAME .
 ebis-tracking.tcb-koriyama.com CNAME .
 ebis-tracking.tcb-mito.com CNAME .
+ebis-tracking.tcb-nakano.com CNAME .
 ebis-tracking.tcb-recruit.com CNAME .
 ebis-tracking.tcb-setagaya.com CNAME .
 ebis-tracking.tcb-shibuya.com CNAME .

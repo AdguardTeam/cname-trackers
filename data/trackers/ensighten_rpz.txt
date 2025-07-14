@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,6 +140,7 @@ cm.quest.com CNAME .
 cmp.audi.be CNAME .
 cmp.cupra.be CNAME .
 cmp.dieteren.be CNAME .
+cmp.dieterencenters.be CNAME .
 cmp.dieterengroup.com CNAME .
 cmp.dieterenmobilitycompany.be CNAME .
 cmp.microlino.be CNAME .
@@ -374,7 +375,6 @@ tagmanager1.citibank.com CNAME .
 tagmanager1.citibankonline.com CNAME .
 tagmanager1.citicards.com CNAME .
 tagmanager1.citiretailservices.com CNAME .
-tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .
 tags.aumago.com CNAME .
 tags.experian.co.uk CNAME .

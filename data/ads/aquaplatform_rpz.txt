@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ adimages.eva.live CNAME .
 adimages.infotorg.se CNAME .
 adimages.marriagetrac.com CNAME .
 adimages.proforums.com CNAME .
+adimages.rtvdrenthe.nl CNAME .
 adimages.sniffies.com CNAME .
 ads-console.recon.com CNAME .
 ads-delivery.milenarmedia.pt CNAME .
@@ -91,6 +92,7 @@ console.ad.logic.viasat.io CNAME .
 console.adbility-media.com CNAME .
 console.adspmg.com CNAME .
 console.aqua-adserver.com CNAME .
+console.biohandel.de CNAME .
 console.blulab.net CNAME .
 console.cavalier-romand.ch CNAME .
 console.ceramicartsnetwork.org CNAME .
@@ -145,6 +147,7 @@ lalala.geenstijl.nl CNAME .
 marriagetrac-delivery.reviveservers.com CNAME .
 media.revive-adserver.com CNAME .
 media360ads.midtc.com CNAME .
+nyfa-images.reviveservers.com CNAME .
 omroepflevoland-static.reviveservers.com CNAME .
 omropfryslan-delivery.reviveservers.com CNAME .
 openx.mondiale.co.uk CNAME .
@@ -153,6 +156,7 @@ opximages.webtool.net CNAME .
 ox.mequoda.com CNAME .
 proxena-images.reviveservers.com CNAME .
 proxena-secure.reviveservers.com CNAME .
+revive-console.worldscreen.com CNAME .
 revive-static.worldscreen.com CNAME .
 revive.ahk.de CNAME .
 revive.worldscreen.com CNAME .
@@ -236,6 +240,7 @@ static.schrotundkorn.de CNAME .
 static.sonicplug.com CNAME .
 static.tahoe.com CNAME .
 static.the-saleroom.com CNAME .
+static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
 static.wwoz.org CNAME .
 stommeplaatjes.geenstijl.nl CNAME .

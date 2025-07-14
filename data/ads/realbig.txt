@@ -6,6 +6,7 @@
 ||a.resr.ru^
 ||a.ridd.ru^
 ||a.vanvok.ru^
+||ad.choicy.org^
 ||ads.wattpadru.ru^
 ||adsrealpublic.ru^
 ||adsrealpublicpush.ru^
@@ -17,6 +18,7 @@
 ||b3.rbighouse.ru^
 ||b5.rbighouse.ru^
 ||b6.rbighouse.ru^
+||b8.rbighouse.ru^
 ||bo.zymorico.store^
 ||cdn.zamunda.ru^
 ||da.zilovaro.ru^
@@ -33,7 +35,6 @@
 ||mondaysale.bid^
 ||mu.zilovaro.store^
 ||my.rb2psh.ru^
-||my.rbpsh.ru^
 ||newrotatormarch23.bid^
 ||news.unsere-news.ru^
 ||newup.bid^
@@ -74,6 +75,7 @@
 ||workerhome.click^
 ||www.1astrjasr.ru^
 ||www.5738.ru^
+||www.allworldinfo4.ru^
 ||www.allworldinfo4.store^
 ||www.aviator-game.info^
 ||www.eshii.ru^
@@ -102,5 +104,6 @@
 ||www.rekl1.com^
 ||www.rlrt.ru^
 ||www.siterec.site^
+||www.step555.ru^
 ||www.truenat.bid^
 ||xxx.extrablocks.ru^

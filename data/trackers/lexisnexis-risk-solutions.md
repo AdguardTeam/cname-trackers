@@ -57,6 +57,7 @@
     * h-324klu1j.online-metrix.net
     * h-32rts1pk.online-metrix.net
     * h-3375wwy7.online-metrix.net
+    * h-34mvnza6-2.online-metrix.net
     * h-35y9sib5-2.online-metrix.net
     * h-35y9sib5.online-metrix.net
     * h-38g4gg8e.online-metrix.net
@@ -84,6 +85,7 @@
     * h-4izfn6dr.online-metrix.net
     * h-4kblllmz.online-metrix.net
     * h-4nyhdbu2.online-metrix.net
+    * h-4qqysdfz.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ruz3ugq2.online-metrix.net
     * h-4saxfla9.online-metrix.net
@@ -140,7 +142,6 @@
     * h-7ih7ebik.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
-    * h-7ioidzao.online-metrix.net
     * h-7iw7j7aw.online-metrix.net
     * h-7lw52x9e.online-metrix.net
     * h-7npzzdc5.online-metrix.net
@@ -266,6 +267,7 @@
     * h-banco.digio.online-metrix.net
     * h-bangkokbank.online-metrix.net
     * h-bankaustralia.online-metrix.net
+    * h-bankofhope.online-metrix.net
     * h-bankofozk.online-metrix.net
     * h-banquecasino-cb4x.online-metrix.net
     * h-banquecasino.online-metrix.net
@@ -416,6 +418,7 @@
     * h-d6v9b0b9.online-metrix.net
     * h-dailylook.online-metrix.net
     * h-dazn.online-metrix.net
+    * h-ddqvf3r9.online-metrix.net
     * h-dell.online-metrix.net
     * h-delrebate.online-metrix.net
     * h-dghzbk34.online-metrix.net
@@ -947,6 +950,7 @@
 | applicant.rbfcu.org | h-324klu1j.online-metrix.net |
 | secure.freshbooks.com | h-32rts1pk.online-metrix.net |
 | login-verification.dol.ct.gov | h-3375wwy7.online-metrix.net |
+| d0796fef.monkeyspins.com | h-34mvnza6-2.online-metrix.net |
 | id.charge-auth.com | h-35y9sib5-2.online-metrix.net |
 | id.solidgate.com | h-35y9sib5.online-metrix.net |
 | lni.finom.co | h-38g4gg8e.online-metrix.net |
@@ -992,6 +996,7 @@
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | ep.heartland.co.nz | h-4kblllmz.online-metrix.net |
 | onoutput.com | h-4nyhdbu2.online-metrix.net |
+| content.heidipay.com | h-4qqysdfz.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | dep.gambit29.gameassists.co.uk | h-4ruz3ugq2.online-metrix.net |
 | cnt.faktoria.pl | h-4saxfla9.online-metrix.net |
@@ -1074,7 +1079,6 @@
 | content.rubyfortunecasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.spincasino.ca | h-7ij9mii1-a.online-metrix.net |
 | de9c635aa0404558bd527220ef4e6b4b.betway.ca | h-7ij9mii1.online-metrix.net |
-| h.costco.com | h-7ioidzao.online-metrix.net |
 | img2.adelantos.com.ar | h-7iw7j7aw.online-metrix.net |
 | af.mobile.free.fr | h-7lw52x9e.online-metrix.net |
 | dol-reemployme-js01.maine.gov | h-7npzzdc5.online-metrix.net |
@@ -1342,6 +1346,7 @@
 | ln.meudigio.com.br | h-banco.digio.online-metrix.net |
 | svc.bangkokbank.com | h-bangkokbank.online-metrix.net |
 | dii.bankaust.com.au | h-bankaustralia.online-metrix.net |
+| vradao.bankofhope.com | h-bankofhope.online-metrix.net |
 | cdn-ln.ozk.com | h-bankofozk.online-metrix.net |
 | paiement.cb4x.fr | h-banquecasino-cb4x.online-metrix.net |
 | banque.banque-casino.fr | h-banquecasino.online-metrix.net |
@@ -1554,6 +1559,13 @@
 | validacionlx.agaval.com | h-d6v9b0b9.online-metrix.net |
 | img.dailylook.com | h-dailylook.online-metrix.net |
 | tags.dazn.com | h-dazn.online-metrix.net |
+| connect-cert-card.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
+| connect-cert-prepaid.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
+| connect-cert.account.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
+| connect.briopay.com | h-ddqvf3r9.online-metrix.net |
+| connect.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
+| connect.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
+| connect.premieraccesscard.com | h-ddqvf3r9.online-metrix.net |
 | stats.dell.com | h-dell.online-metrix.net |
 | rebatecontent.finance.delaware.gov | h-delrebate.online-metrix.net |
 | mobilecontent.networks.prod.p0.phx-infra.com | h-dghzbk34.online-metrix.net |
@@ -1644,6 +1656,7 @@
 | ww3.marlincapitalsolutions.com | h-fundingstream.online-metrix.net |
 | ww3.peacsolutions.com | h-fundingstream.online-metrix.net |
 | tm.betano.ar | h-gambling-malta.online-metrix.net |
+| tm.betano.be | h-gambling-malta.online-metrix.net |
 | tm.betano.bet.br | h-gambling-malta.online-metrix.net |
 | tm.betano.bg | h-gambling-malta.online-metrix.net |
 | tm.betano.ca | h-gambling-malta.online-metrix.net |

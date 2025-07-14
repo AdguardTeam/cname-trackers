@@ -834,7 +834,6 @@
 ||ptarmigan.goudieworks.co^
 ||ptarmigan.natalieba.net^
 ||ptarmigan.q-free.com^
-||puffin.geocode.earth^
 ||puffin.leemoody.co.uk^
 ||puffin.nex4.net^
 ||puma.islingtonmecc.org.uk^
@@ -1069,6 +1068,7 @@
 ||wombat.modinfinity.com^
 ||woodpecker.binario11.de^
 ||woodpecker.ember.ly^
+||woodpecker.mikehalliday.com^
 ||woodpecker.seabits.com^
 ||worm.communitytrustproject.org^
 ||wren.camdenmecc.org.uk^

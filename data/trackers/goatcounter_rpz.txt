@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -46,6 +46,7 @@ counter.storydragon.nl CNAME .
 dot-com-stats.sladewatkins.net CNAME .
 gc.acut3.net CNAME .
 gc.gaywu.com CNAME .
+gc.grokhard.com CNAME .
 gc.hausarzt-zentrum-herne.de CNAME .
 gc.miluchacontraeltabaco.com CNAME .
 gc.mindenugyved.hu CNAME .
@@ -67,6 +68,7 @@ goatcounter.codinggrace.com CNAME .
 goatcounter.eventgeek.ie CNAME .
 goatcounter.gamecraft.it CNAME .
 goatcounter.irishbornchinese.com CNAME .
+goatcounter.repozitor.com CNAME .
 goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
 goatcounter.thedave.photos CNAME .
@@ -78,6 +80,7 @@ ping.irisphotos.app CNAME .
 pixel.embed.su CNAME .
 science.ygoprint.org CNAME .
 st.mapleranks.com CNAME .
+statgarden.florinesueur.fr CNAME .
 statistic.elkobraas.com CNAME .
 stats-ruzickap-github-io.ruzicka.dev CNAME .
 stats.45rpm.ch CNAME .
@@ -104,6 +107,7 @@ stats.coderscompass.org CNAME .
 stats.crosshair.dev CNAME .
 stats.dalinwilliams.com CNAME .
 stats.davidjuhasz.dev CNAME .
+stats.defiscitoyens.org CNAME .
 stats.eithel.org CNAME .
 stats.fieald.com CNAME .
 stats.forest-school.am CNAME .

@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * goatcounter.com
+    * 0687.goatcounter.com
     * 45rpm-ch.goatcounter.com
     * 50no.goatcounter.com
     * abdodaoud.goatcounter.com
@@ -41,6 +42,7 @@
     * dalinwilliams.goatcounter.com
     * dannynullzwo.goatcounter.com
     * davidjuhasz.goatcounter.com
+    * defi.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
     * dungeon.goatcounter.com
@@ -60,6 +62,7 @@
     * gopikrishna.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
     * gradient.goatcounter.com
+    * grokhard.goatcounter.com
     * hadejkde.goatcounter.com
     * haseebmajid.goatcounter.com
     * hausarzt-zentrum-herne.goatcounter.com
@@ -166,6 +169,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| statgarden.florinesueur.fr | 0687.goatcounter.com |
 | stats.45rpm.ch | 45rpm-ch.goatcounter.com |
 | a.50-nuances-octets.fr | 50no.goatcounter.com |
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
@@ -204,6 +208,7 @@
 | stats.dalinwilliams.com | dalinwilliams.goatcounter.com |
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
 | stats.davidjuhasz.dev | davidjuhasz.goatcounter.com |
+| stats.defiscitoyens.org | defi.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
@@ -223,6 +228,7 @@
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | stats.brendanhanke.com | gradient.goatcounter.com |
+| gc.grokhard.com | grokhard.goatcounter.com |
 | stats.hadejkde.cz | hadejkde.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | gc.hausarzt-zentrum-herne.de | hausarzt-zentrum-herne.goatcounter.com |
@@ -265,6 +271,7 @@
 | stats.mele.dev | mele.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
+| goatcounter.repozitor.com | mine.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
 | stats.raycordlegends.com | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |

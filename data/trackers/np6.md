@@ -215,6 +215,7 @@
 | tr.carl.espmp-cufr.net | tracking.bp01.net |
 | tr.cart.espmp-cufr.net | tracking.bp01.net |
 | tr.cart02d.espmp-agfr.net | tracking.bp01.net |
+| tr.carte.lcl.fr | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
 | tr.cb4x.banque-casino.fr | tracking.bp01.net |
@@ -376,6 +377,7 @@
 | tr.e.trouver-un-logement-neuf.com | tracking.bp01.net |
 | tr.easy-offertes.be | tracking.bp01.net |
 | tr.eazybuy-communication.moethennessy.com | tracking.bp01.net |
+| tr.ebusiness.moethennessy.com | tracking.bp01.net |
 | tr.ecolab-france.fr | tracking.bp01.net |
 | tr.ecologie-shop.espmp-agfr.net | tracking.bp01.net |
 | tr.elections.simplivote.fr | tracking.bp01.net |
@@ -542,6 +544,7 @@
 | tr.info.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.info.la-norma.fr | tracking.bp01.net |
 | tr.info.lacentrale.fr | tracking.bp01.net |
+| tr.info.libranoo.com | tracking.bp01.net |
 | tr.info.linnc.com | tracking.bp01.net |
 | tr.info.linxea.com | tracking.bp01.net |
 | tr.info.magora.fr | tracking.bp01.net |
@@ -571,7 +574,6 @@
 | tr.info.rouen.aeroport.fr | tracking.bp01.net |
 | tr.info.rouen.cci.fr | tracking.bp01.net |
 | tr.info.snpden.net | tracking.bp01.net |
-| tr.info.solidarm.fr | tracking.bp01.net |
 | tr.info.svp.com | tracking.bp01.net |
 | tr.info.valcenis.com | tracking.bp01.net |
 | tr.info.valfrejus.com | tracking.bp01.net |
@@ -680,6 +682,7 @@
 | tr.mailing.heliades.fr | tracking.bp01.net |
 | tr.mailing.laredoute.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
+| tr.mailing.opinionrelate.com | tracking.bp01.net |
 | tr.mailing.promodeclic.fr | tracking.bp01.net |
 | tr.mailmp.macif.net | tracking.bp01.net |
 | tr.mailperf.institut-de-la-protection-sociale.fr | tracking.bp01.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -845,7 +845,6 @@ ptarmigan.codebycorey.com CNAME .
 ptarmigan.goudieworks.co CNAME .
 ptarmigan.natalieba.net CNAME .
 ptarmigan.q-free.com CNAME .
-puffin.geocode.earth CNAME .
 puffin.leemoody.co.uk CNAME .
 puffin.nex4.net CNAME .
 puma.islingtonmecc.org.uk CNAME .
@@ -1080,6 +1079,7 @@ wombat.buildrtech.com CNAME .
 wombat.modinfinity.com CNAME .
 woodpecker.binario11.de CNAME .
 woodpecker.ember.ly CNAME .
+woodpecker.mikehalliday.com CNAME .
 woodpecker.seabits.com CNAME .
 worm.communitytrustproject.org CNAME .
 wren.camdenmecc.org.uk CNAME .

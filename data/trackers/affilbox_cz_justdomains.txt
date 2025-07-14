@@ -339,12 +339,10 @@ my.11teamsports.ro
 my.11teamsports.se
 my.11teamsports.si
 my.11teamsports.sk
-my.fr.top4fitness.be
 my.fr.top4running.be
 my.kickz.com
 my.tint-store.ro
 my.top4fitness.at
-my.top4fitness.be
 my.top4fitness.bg
 my.top4fitness.com
 my.top4fitness.cz
@@ -358,11 +356,9 @@ my.top4fitness.hr
 my.top4fitness.hu
 my.top4fitness.ie
 my.top4fitness.it
-my.top4fitness.nl
 my.top4fitness.pl
 my.top4fitness.pt
 my.top4fitness.ro
-my.top4fitness.se
 my.top4fitness.si
 my.top4fitness.sk
 my.top4football.cz
@@ -371,7 +367,6 @@ my.top4football.dk
 my.top4football.es
 my.top4football.fi
 my.top4football.ie
-my.top4football.nl
 my.top4football.se
 my.top4run.cz
 my.top4running.at
@@ -559,6 +554,7 @@ partner.forkys.store
 partner.fotoposta.sk
 partner.freshlabels.cz
 partner.gaymegastore.cz
+partner.gaymegastore.eu
 partner.gdcbd.cz
 partner.gel-gun.cz
 partner.generatorvodiku.cz
@@ -604,7 +600,6 @@ partner.kokiskashop.sk
 partner.kominy-bokra.cz
 partner.korff.sk
 partner.krmivo-platinum.cz
-partner.kupcomp.sk
 partner.kurzysusmevem.cz
 partner.kutnohorskytolar.cz
 partner.kvcar.cz
@@ -703,12 +698,12 @@ partner.premiove-matrace.cz
 partner.prodejniakademie.cz
 partner.prosperity-vision.com
 partner.prosperk.cz
-partner.proviznasiet.sk
 partner.psidetektiv.cz
 partner.pureharmony.cz
 partner.respelen.cz
 partner.root.cz
 partner.royalfashion.cz
+partner.rozhladna.sk
 partner.roztouzeny.cz
 partner.ruzovyslon.cz
 partner.salibandy.shop
@@ -760,6 +755,7 @@ partner.virulent.cz
 partner.vivabeauty.cz
 partner.vladimirekart.cz
 partner.volne-reality.cz
+partner.vunnie.cz
 partner.waldos.eu
 partner.webareal.cz
 partner.webareal.sk

@@ -75,7 +75,6 @@ events.mikescerealshack.co
 explore.bytelab.uk
 extramilefloorcare.ericksonbuilt.com
 galop.leferacheval-saintcloud.com
-hej.henriksommerfeld.se
 hi.baudot.io
 hi.koalendar.com
 hi.streetworkoutlist.com
@@ -560,7 +559,6 @@ stats.kryptoslogic.com
 stats.ks-labs.de
 stats.kyushoku2050.org
 stats.labibli.com
-stats.laptopsin.space
 stats.lastfm.matthiasloibl.com
 stats.latehours.net
 stats.lauracpa.ca
@@ -866,5 +864,4 @@ we-love-privacy.humane.club
 webstats.bijenpatel.com
 yolo.philipbjorge.com
 zahlen.olereissmann.de
-analytics.pix.fr
 stats.citizenos.com

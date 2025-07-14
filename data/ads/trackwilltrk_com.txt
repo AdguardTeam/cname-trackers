@@ -6,6 +6,7 @@
 ||r.silvertrck.com^
 ||r.smttrck.com^
 ||r.spininitial.tech^
+||r.wholehall.com^
 ||t.clearmaptrck.store^
 ||t.dynatrck.site^
 ||t.instrck.com^

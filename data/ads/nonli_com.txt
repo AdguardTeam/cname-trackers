@@ -138,6 +138,7 @@
 ||l.ledauphine.com^
 ||l.lefigaro.fr^
 ||l.lejournaldelamaison.fr^
+||l.lejournaldici.com^
 ||l.lejsl.com^
 ||l.lemoniteurdespharmacies.fr^
 ||l.leparisien.fr^

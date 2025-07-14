@@ -360,12 +360,10 @@
 | my.11teamsports.se | cz.affilbox.cz |
 | my.11teamsports.si | cz.affilbox.cz |
 | my.11teamsports.sk | cz.affilbox.cz |
-| my.fr.top4fitness.be | cz.affilbox.cz |
 | my.fr.top4running.be | cz.affilbox.cz |
 | my.kickz.com | cz.affilbox.cz |
 | my.tint-store.ro | cz.affilbox.cz |
 | my.top4fitness.at | cz.affilbox.cz |
-| my.top4fitness.be | cz.affilbox.cz |
 | my.top4fitness.bg | cz.affilbox.cz |
 | my.top4fitness.com | cz.affilbox.cz |
 | my.top4fitness.cz | cz.affilbox.cz |
@@ -379,11 +377,9 @@
 | my.top4fitness.hu | cz.affilbox.cz |
 | my.top4fitness.ie | cz.affilbox.cz |
 | my.top4fitness.it | cz.affilbox.cz |
-| my.top4fitness.nl | cz.affilbox.cz |
 | my.top4fitness.pl | cz.affilbox.cz |
 | my.top4fitness.pt | cz.affilbox.cz |
 | my.top4fitness.ro | cz.affilbox.cz |
-| my.top4fitness.se | cz.affilbox.cz |
 | my.top4fitness.si | cz.affilbox.cz |
 | my.top4fitness.sk | cz.affilbox.cz |
 | my.top4football.cz | cz.affilbox.cz |
@@ -392,7 +388,6 @@
 | my.top4football.es | cz.affilbox.cz |
 | my.top4football.fi | cz.affilbox.cz |
 | my.top4football.ie | cz.affilbox.cz |
-| my.top4football.nl | cz.affilbox.cz |
 | my.top4football.se | cz.affilbox.cz |
 | my.top4run.cz | cz.affilbox.cz |
 | my.top4running.at | cz.affilbox.cz |
@@ -580,6 +575,7 @@
 | partner.fotoposta.sk | cz.affilbox.cz |
 | partner.freshlabels.cz | cz.affilbox.cz |
 | partner.gaymegastore.cz | cz.affilbox.cz |
+| partner.gaymegastore.eu | cz.affilbox.cz |
 | partner.gdcbd.cz | cz.affilbox.cz |
 | partner.gel-gun.cz | cz.affilbox.cz |
 | partner.generatorvodiku.cz | cz.affilbox.cz |
@@ -625,7 +621,6 @@
 | partner.kominy-bokra.cz | cz.affilbox.cz |
 | partner.korff.sk | cz.affilbox.cz |
 | partner.krmivo-platinum.cz | cz.affilbox.cz |
-| partner.kupcomp.sk | cz.affilbox.cz |
 | partner.kurzysusmevem.cz | cz.affilbox.cz |
 | partner.kutnohorskytolar.cz | cz.affilbox.cz |
 | partner.kvcar.cz | cz.affilbox.cz |
@@ -724,12 +719,12 @@
 | partner.prodejniakademie.cz | cz.affilbox.cz |
 | partner.prosperity-vision.com | cz.affilbox.cz |
 | partner.prosperk.cz | cz.affilbox.cz |
-| partner.proviznasiet.sk | cz.affilbox.cz |
 | partner.psidetektiv.cz | cz.affilbox.cz |
 | partner.pureharmony.cz | cz.affilbox.cz |
 | partner.respelen.cz | cz.affilbox.cz |
 | partner.root.cz | cz.affilbox.cz |
 | partner.royalfashion.cz | cz.affilbox.cz |
+| partner.rozhladna.sk | cz.affilbox.cz |
 | partner.roztouzeny.cz | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
 | partner.salibandy.shop | cz.affilbox.cz |
@@ -781,6 +776,7 @@
 | partner.vivabeauty.cz | cz.affilbox.cz |
 | partner.vladimirekart.cz | cz.affilbox.cz |
 | partner.volne-reality.cz | cz.affilbox.cz |
+| partner.vunnie.cz | cz.affilbox.cz |
 | partner.waldos.eu | cz.affilbox.cz |
 | partner.webareal.cz | cz.affilbox.cz |
 | partner.webareal.sk | cz.affilbox.cz |

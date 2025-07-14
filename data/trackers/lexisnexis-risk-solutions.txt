@@ -243,6 +243,13 @@
 ||cnt.patpat.com^
 ||compliance.mohegansuncasino.com^
 ||condition.applause.com^
+||connect-cert-card.moneynetwork.com^
+||connect-cert-prepaid.everywherepaycard.com^
+||connect-cert.account.moneynetwork.com^
+||connect.briopay.com^
+||connect.everywherepaycard.com^
+||connect.moneynetwork.com^
+||connect.premieraccesscard.com^
 ||consortium.adib.ae^
 ||contendvc.cnouyi.pizza^
 ||content-48.cnb.com^
@@ -309,6 +316,7 @@
 ||content.gapfactory.com^
 ||content.gaptechol.com^
 ||content.happybank.com^
+||content.heidipay.com^
 ||content.hellobank.fr^
 ||content.hellobank.it^
 ||content.ibanking-services.com^
@@ -470,6 +478,7 @@
 ||cybs.dhgate.com^
 ||cybs.dhpay.com^
 ||d.mlcdn.com.br^
+||d0796fef.monkeyspins.com^
 ||d3tracking.rbc.com^
 ||daotm.firstcitizens.com^
 ||ddata.huntingtonbank.com^
@@ -583,7 +592,6 @@
 ||ghisa.subito.it^
 ||go.citizensaccess.com^
 ||h.chase.co.uk^
-||h.costco.com^
 ||h.greenmangaming.com^
 ||h.santanderconsumer.pl^
 ||h.threatmetrix.com^
@@ -1079,6 +1087,7 @@
 ||tm.beachbody.com^
 ||tm.benevity.org^
 ||tm.betano.ar^
+||tm.betano.be^
 ||tm.betano.bet.br^
 ||tm.betano.bg^
 ||tm.betano.ca^
@@ -1244,6 +1253,7 @@
 ||voto.credit24.com^
 ||voto.creditea.com^
 ||voto.provident.pl^
+||vradao.bankofhope.com^
 ||w-profiling.cibc.com^
 ||w-profiling.simplii.com^
 ||w3.amegybank.com^

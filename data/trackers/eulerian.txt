@@ -61,7 +61,7 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
-||c0p.cepsum.umontreal.ca^
+||c0i.ckoi.com^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
 ||cbl6.destinia.gt^
@@ -78,6 +78,7 @@
 ||ct5m.citadium.com^
 ||cvi6.destinia.qa^
 ||cyf9.destinia.cl^
+||d0f.le-dauphin.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
 ||deut3.fdj.fr^
@@ -111,6 +112,7 @@
 ||ea.evaway.com^
 ||ea.fleurancenature.com^
 ||ea.fleurancenature.fr^
+||ea.francoisesaget.be^
 ||ea.francoisesaget.com^
 ||ea.greenweez.co.uk^
 ||ea.greenweez.com^
@@ -139,6 +141,7 @@
 ||ea.millet-mountain.de^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
+||ea.mnt.fr^
 ||ea.mondial-assistance.fr^
 ||ea.mydailyhotel.com^
 ||ea.mywarner.warnerbros.fr^
@@ -183,7 +186,6 @@
 ||eit3.destinia.nl^
 ||ek8.voyage-prive.com^
 ||elr.sfr.fr^
-||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.futuroscope.com^
 ||et.sncf.com^
@@ -308,6 +310,8 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
+||nym5c.bonlook.com^
+||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
 ||oae6.carrefour-banque.fr^
@@ -387,7 +391,6 @@
 ||srm4.destinia.co.no^
 ||ssrlot.lotoquebec.com^
 ||ssy7.destinia.com.ua^
-||su1.les-suites.ca^
 ||t.locasun-vp.fr^
 ||t.locasun.co.uk^
 ||t.locasun.de^
@@ -471,18 +474,16 @@
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
 ||b1n.carabins.umontreal.ca^
-||c0i.ckoi.com^
-||d0f.le-dauphin.com^
+||c0p.cepsum.umontreal.ca^
 ||d2u.dauphinquebec.com^
+||erb.tremblant.ca^
 ||hk2d.tourismemauricie.com^
 ||l2i.qualityinnlevis.com^
-||nym5c.bonlook.com^
 ||rwl.tremblant.ca^
 ||ry0.rythmefm.com^
+||su1.les-suites.ca^
 ||t0y.toyota.ca^
 ||www.mis.tourisme-montreal.org^
 ||yio.tremblant.ca^
-||ea.mnt.fr^
 ||gi7a.structube.com^
-||nym5c.laura.ca^
 ||pk1u.melanielyne.com^

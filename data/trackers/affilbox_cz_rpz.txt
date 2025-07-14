@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -350,12 +350,10 @@ my.11teamsports.ro CNAME .
 my.11teamsports.se CNAME .
 my.11teamsports.si CNAME .
 my.11teamsports.sk CNAME .
-my.fr.top4fitness.be CNAME .
 my.fr.top4running.be CNAME .
 my.kickz.com CNAME .
 my.tint-store.ro CNAME .
 my.top4fitness.at CNAME .
-my.top4fitness.be CNAME .
 my.top4fitness.bg CNAME .
 my.top4fitness.com CNAME .
 my.top4fitness.cz CNAME .
@@ -369,11 +367,9 @@ my.top4fitness.hr CNAME .
 my.top4fitness.hu CNAME .
 my.top4fitness.ie CNAME .
 my.top4fitness.it CNAME .
-my.top4fitness.nl CNAME .
 my.top4fitness.pl CNAME .
 my.top4fitness.pt CNAME .
 my.top4fitness.ro CNAME .
-my.top4fitness.se CNAME .
 my.top4fitness.si CNAME .
 my.top4fitness.sk CNAME .
 my.top4football.cz CNAME .
@@ -382,7 +378,6 @@ my.top4football.dk CNAME .
 my.top4football.es CNAME .
 my.top4football.fi CNAME .
 my.top4football.ie CNAME .
-my.top4football.nl CNAME .
 my.top4football.se CNAME .
 my.top4run.cz CNAME .
 my.top4running.at CNAME .
@@ -570,6 +565,7 @@ partner.forkys.store CNAME .
 partner.fotoposta.sk CNAME .
 partner.freshlabels.cz CNAME .
 partner.gaymegastore.cz CNAME .
+partner.gaymegastore.eu CNAME .
 partner.gdcbd.cz CNAME .
 partner.gel-gun.cz CNAME .
 partner.generatorvodiku.cz CNAME .
@@ -615,7 +611,6 @@ partner.kokiskashop.sk CNAME .
 partner.kominy-bokra.cz CNAME .
 partner.korff.sk CNAME .
 partner.krmivo-platinum.cz CNAME .
-partner.kupcomp.sk CNAME .
 partner.kurzysusmevem.cz CNAME .
 partner.kutnohorskytolar.cz CNAME .
 partner.kvcar.cz CNAME .
@@ -714,12 +709,12 @@ partner.premiove-matrace.cz CNAME .
 partner.prodejniakademie.cz CNAME .
 partner.prosperity-vision.com CNAME .
 partner.prosperk.cz CNAME .
-partner.proviznasiet.sk CNAME .
 partner.psidetektiv.cz CNAME .
 partner.pureharmony.cz CNAME .
 partner.respelen.cz CNAME .
 partner.root.cz CNAME .
 partner.royalfashion.cz CNAME .
+partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
 partner.ruzovyslon.cz CNAME .
 partner.salibandy.shop CNAME .
@@ -771,6 +766,7 @@ partner.virulent.cz CNAME .
 partner.vivabeauty.cz CNAME .
 partner.vladimirekart.cz CNAME .
 partner.volne-reality.cz CNAME .
+partner.vunnie.cz CNAME .
 partner.waldos.eu CNAME .
 partner.webareal.cz CNAME .
 partner.webareal.sk CNAME .

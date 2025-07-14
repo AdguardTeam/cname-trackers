@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,7 +137,9 @@ businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em2287.theory.com CNAME .
-em8561.go2bank.com CNAME .
+em5231.mail.propertyperks.xfinity.com CNAME .
+em7952.dailypay.com CNAME .
+em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -510,6 +512,7 @@ share.bvwines.com CNAME .
 share.caller.com CNAME .
 share.carparts.com CNAME .
 share.cefaly.com CNAME .
+share.ceifx.com CNAME .
 share.cellcom.ca CNAME .
 share.cheaperthandirt.net CNAME .
 share.chewsidental.com CNAME .
@@ -781,20 +784,19 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl2._domainkey.shareus.viktor-rolf.com CNAME .
+xtl2._domainkey.refer.starbucks.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em5231.mail.propertyperks.xfinity.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
-em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl._domainkey.walmartmoneycard.com CNAME .
 xtl._domainkey.zoom.us CNAME .
+xtl2._domainkey.shareus.viktor-rolf.com CNAME .
 sftp.extole.com CNAME .

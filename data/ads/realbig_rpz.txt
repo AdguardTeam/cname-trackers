@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ a.rb-ya.ru CNAME .
 a.resr.ru CNAME .
 a.ridd.ru CNAME .
 a.vanvok.ru CNAME .
+ad.choicy.org CNAME .
 ads.wattpadru.ru CNAME .
 adsrealpublic.ru CNAME .
 adsrealpublicpush.ru CNAME .
@@ -28,6 +29,7 @@ b11.rbighouse.ru CNAME .
 b3.rbighouse.ru CNAME .
 b5.rbighouse.ru CNAME .
 b6.rbighouse.ru CNAME .
+b8.rbighouse.ru CNAME .
 bo.zymorico.store CNAME .
 cdn.zamunda.ru CNAME .
 da.zilovaro.ru CNAME .
@@ -44,7 +46,6 @@ media.rabbit.click CNAME .
 mondaysale.bid CNAME .
 mu.zilovaro.store CNAME .
 my.rb2psh.ru CNAME .
-my.rbpsh.ru CNAME .
 newrotatormarch23.bid CNAME .
 news.unsere-news.ru CNAME .
 newup.bid CNAME .
@@ -85,6 +86,7 @@ vi.zolivexo.store CNAME .
 workerhome.click CNAME .
 www.1astrjasr.ru CNAME .
 www.5738.ru CNAME .
+www.allworldinfo4.ru CNAME .
 www.allworldinfo4.store CNAME .
 www.aviator-game.info CNAME .
 www.eshii.ru CNAME .
@@ -113,5 +115,6 @@ www.rbprk91645.ru CNAME .
 www.rekl1.com CNAME .
 www.rlrt.ru CNAME .
 www.siterec.site CNAME .
+www.step555.ru CNAME .
 www.truenat.bid CNAME .
 xxx.extrablocks.ru CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -254,6 +254,13 @@ cnt.goboo.com CNAME .
 cnt.patpat.com CNAME .
 compliance.mohegansuncasino.com CNAME .
 condition.applause.com CNAME .
+connect-cert-card.moneynetwork.com CNAME .
+connect-cert-prepaid.everywherepaycard.com CNAME .
+connect-cert.account.moneynetwork.com CNAME .
+connect.briopay.com CNAME .
+connect.everywherepaycard.com CNAME .
+connect.moneynetwork.com CNAME .
+connect.premieraccesscard.com CNAME .
 consortium.adib.ae CNAME .
 contendvc.cnouyi.pizza CNAME .
 content-48.cnb.com CNAME .
@@ -320,6 +327,7 @@ content.gap.com CNAME .
 content.gapfactory.com CNAME .
 content.gaptechol.com CNAME .
 content.happybank.com CNAME .
+content.heidipay.com CNAME .
 content.hellobank.fr CNAME .
 content.hellobank.it CNAME .
 content.ibanking-services.com CNAME .
@@ -481,6 +489,7 @@ cybersource.shoplineapp.com CNAME .
 cybs.dhgate.com CNAME .
 cybs.dhpay.com CNAME .
 d.mlcdn.com.br CNAME .
+d0796fef.monkeyspins.com CNAME .
 d3tracking.rbc.com CNAME .
 daotm.firstcitizens.com CNAME .
 ddata.huntingtonbank.com CNAME .
@@ -594,7 +603,6 @@ geo.linq.gg CNAME .
 ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
 h.chase.co.uk CNAME .
-h.costco.com CNAME .
 h.greenmangaming.com CNAME .
 h.santanderconsumer.pl CNAME .
 h.threatmetrix.com CNAME .
@@ -1090,6 +1098,7 @@ tm.bdc-cdn.com CNAME .
 tm.beachbody.com CNAME .
 tm.benevity.org CNAME .
 tm.betano.ar CNAME .
+tm.betano.be CNAME .
 tm.betano.bet.br CNAME .
 tm.betano.bg CNAME .
 tm.betano.ca CNAME .
@@ -1255,6 +1264,7 @@ vlscppe.microsoft.com CNAME .
 voto.credit24.com CNAME .
 voto.creditea.com CNAME .
 voto.provident.pl CNAME .
+vradao.bankofhope.com CNAME .
 w-profiling.cibc.com CNAME .
 w-profiling.simplii.com CNAME .
 w3.amegybank.com CNAME .

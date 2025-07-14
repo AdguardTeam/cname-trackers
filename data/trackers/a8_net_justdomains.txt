@@ -552,7 +552,6 @@ a8clk.kaitori.kind.co.jp
 a8clk.kaitoriyasan.group
 a8clk.kake-barai.com
 a8clk.kanagawa-zero.com
-a8clk.kenkoukazoku.co.jp
 a8clk.kihada.jp
 a8clk.komochikon.jp
 a8clk.label-seal-print.com

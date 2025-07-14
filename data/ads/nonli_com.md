@@ -182,6 +182,7 @@
 | l.lecourrierdelamayenne.fr | tls.non.li |
 | l.lefigaro.fr | tls.non.li |
 | l.lejournaldelamaison.fr | tls.non.li |
+| l.lejournaldici.com | tls.non.li |
 | l.lemoniteurdespharmacies.fr | tls.non.li |
 | l.leparisien.fr | tls.non.li |
 | l.lepoint.fr | tls.non.li |

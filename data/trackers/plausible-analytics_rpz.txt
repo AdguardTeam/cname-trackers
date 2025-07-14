@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,7 +86,6 @@ events.mikescerealshack.co CNAME .
 explore.bytelab.uk CNAME .
 extramilefloorcare.ericksonbuilt.com CNAME .
 galop.leferacheval-saintcloud.com CNAME .
-hej.henriksommerfeld.se CNAME .
 hi.baudot.io CNAME .
 hi.koalendar.com CNAME .
 hi.streetworkoutlist.com CNAME .
@@ -571,7 +570,6 @@ stats.kryptoslogic.com CNAME .
 stats.ks-labs.de CNAME .
 stats.kyushoku2050.org CNAME .
 stats.labibli.com CNAME .
-stats.laptopsin.space CNAME .
 stats.lastfm.matthiasloibl.com CNAME .
 stats.latehours.net CNAME .
 stats.lauracpa.ca CNAME .
@@ -877,5 +875,4 @@ we-love-privacy.humane.club CNAME .
 webstats.bijenpatel.com CNAME .
 yolo.philipbjorge.com CNAME .
 zahlen.olereissmann.de CNAME .
-analytics.pix.fr CNAME .
 stats.citizenos.com CNAME .

@@ -87,7 +87,6 @@
 | explore.bytelab.uk | custom.plausible.io |
 | extramilefloorcare.ericksonbuilt.com | custom.plausible.io |
 | galop.leferacheval-saintcloud.com | custom.plausible.io |
-| hej.henriksommerfeld.se | custom.plausible.io |
 | hi.baudot.io | custom.plausible.io |
 | hi.koalendar.com | custom.plausible.io |
 | hi.streetworkoutlist.com | custom.plausible.io |
@@ -572,7 +571,6 @@
 | stats.ks-labs.de | custom.plausible.io |
 | stats.kyushoku2050.org | custom.plausible.io |
 | stats.labibli.com | custom.plausible.io |
-| stats.laptopsin.space | custom.plausible.io |
 | stats.lastfm.matthiasloibl.com | custom.plausible.io |
 | stats.latehours.net | custom.plausible.io |
 | stats.lauracpa.ca | custom.plausible.io |
@@ -878,5 +876,4 @@
 | webstats.bijenpatel.com | custom.plausible.io |
 | yolo.philipbjorge.com | custom.plausible.io |
 | zahlen.olereissmann.de | custom.plausible.io |
-| analytics.pix.fr | plausible.io |
 | stats.citizenos.com | plausible.io |

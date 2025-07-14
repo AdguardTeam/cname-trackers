@@ -496,6 +496,7 @@
   "share.caller.com": "gannett.extole.io",
   "share.carparts.com": "carpartscom.extole.io",
   "share.cefaly.com": "cefaly.extole.io",
+  "share.ceifx.com": "ceifx.extole.io",
   "share.cellcom.ca": "cellcom.extole.io",
   "share.cheaperthandirt.net": "cheaper-than-dirt.extole.io",
   "share.chewsidental.com": "chewsidental.extole.io",
@@ -785,5 +786,6 @@
   "xtl._domainkey.mail.propertyperks.xfinity.com": "xtl.domainkey.u82658.wl159.sendgrid.net",
   "xtl._domainkey.walmartmoneycard.com": "xtl.domainkey.u82658.wl159.sendgrid.net",
   "xtl._domainkey.zoom.us": "xtl.domainkey.u82658.wl159.sendgrid.net",
+  "xtl2._domainkey.refer.starbucks.com": "xtl2.domainkey.u82658.wl159.sendgrid.net",
   "xtl2._domainkey.shareus.viktor-rolf.com": "xtl2.domainkey.u82658.wl159.sendgrid.net"
 }

@@ -129,6 +129,7 @@
 ||cmp.audi.be^
 ||cmp.cupra.be^
 ||cmp.dieteren.be^
+||cmp.dieterencenters.be^
 ||cmp.dieterengroup.com^
 ||cmp.dieterenmobilitycompany.be^
 ||cmp.microlino.be^
@@ -363,7 +364,6 @@
 ||tagmanager1.citibankonline.com^
 ||tagmanager1.citicards.com^
 ||tagmanager1.citiretailservices.com^
-||tags.aljazeera.com^
 ||tags.aljazeera.net^
 ||tags.aumago.com^
 ||tags.experian.co.uk^

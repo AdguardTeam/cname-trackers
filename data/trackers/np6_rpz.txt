@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1751988959764        ; Serial
+           1752480009501        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -200,6 +200,7 @@ tr.capu.espmp-agfr.net CNAME .
 tr.carl.espmp-cufr.net CNAME .
 tr.cart.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
+tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .
@@ -361,6 +362,7 @@ tr.e.m-entreprise.fr CNAME .
 tr.e.trouver-un-logement-neuf.com CNAME .
 tr.easy-offertes.be CNAME .
 tr.eazybuy-communication.moethennessy.com CNAME .
+tr.ebusiness.moethennessy.com CNAME .
 tr.ecolab-france.fr CNAME .
 tr.ecologie-shop.espmp-agfr.net CNAME .
 tr.elections.simplivote.fr CNAME .
@@ -527,6 +529,7 @@ tr.info.galian.fr CNAME .
 tr.info.harmonie-mutuelle.fr CNAME .
 tr.info.la-norma.fr CNAME .
 tr.info.lacentrale.fr CNAME .
+tr.info.libranoo.com CNAME .
 tr.info.linnc.com CNAME .
 tr.info.linxea.com CNAME .
 tr.info.magora.fr CNAME .
@@ -556,7 +559,6 @@ tr.info.reunica.com CNAME .
 tr.info.rouen.aeroport.fr CNAME .
 tr.info.rouen.cci.fr CNAME .
 tr.info.snpden.net CNAME .
-tr.info.solidarm.fr CNAME .
 tr.info.svp.com CNAME .
 tr.info.valcenis.com CNAME .
 tr.info.valfrejus.com CNAME .
@@ -665,6 +667,7 @@ tr.mailing.achatpublic.com CNAME .
 tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
+tr.mailing.opinionrelate.com CNAME .
 tr.mailing.promodeclic.fr CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .

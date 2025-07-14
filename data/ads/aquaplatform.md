@@ -128,11 +128,13 @@
     * t101-static.aquaplatform.com
     * tfn-console.aquaplatform.com
     * tfn-delivery.aquaplatform.com
+    * tfn-static.aquaplatform.com
     * unionesarda-delivery.aquaplatform.com
     * unionesarda-static.aquaplatform.com
     * viasat-console.aquaplatform.com
     * viasat-delivery.aquaplatform.com
     * viasat-static.aquaplatform.com
+    * worldscreen-console.aquaplatform.com
     * worldscreen-delivery.aquaplatform.com
     * worldscreen-static.aquaplatform.com
     * wwoz-delivery.aquaplatform.com
@@ -166,6 +168,7 @@
 | adconsole.lot-tissimo.com | atg-console.aquaplatform.com |
 | ads.lot-tissimo.com | atg-delivery.aquaplatform.com |
 | static.lot-tissimo.com | atg-static.aquaplatform.com |
+| console.biohandel.de | bioverlag-console.aquaplatform.com |
 | www.console.biohandel.de | bioverlag-console.aquaplatform.com |
 | servedby.biohandel.de | bioverlag-delivery.aquaplatform.com |
 | servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
@@ -312,6 +315,7 @@
 | adimages.infotorg.se | platformiq-cdn.aquaplatform.com |
 | adimages.marriagetrac.com | platformiq-cdn.aquaplatform.com |
 | adimages.proforums.com | platformiq-cdn.aquaplatform.com |
+| adimages.rtvdrenthe.nl | platformiq-cdn.aquaplatform.com |
 | adztech-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | etnomedia-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
@@ -324,6 +328,7 @@
 | images.xtraa.org | platformiq-cdn.aquaplatform.com |
 | informatm-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | jacilla-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
+| nyfa-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | omroepflevoland-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
@@ -412,6 +417,7 @@
 | console.trackandfieldnews.com | tfn-console.aquaplatform.com |
 | servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | www.servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
+| static.trackandfieldnews.com | tfn-static.aquaplatform.com |
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
 | cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
 | www.cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
@@ -424,6 +430,7 @@
 | static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |
 | static.ad.logic-test.viasat.io | viasat-static.aquaplatform.com |
 | www.static.ad.logic-test.viasat.io | viasat-static.aquaplatform.com |
+| revive-console.worldscreen.com | worldscreen-console.aquaplatform.com |
 | revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
 | www.revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
 | revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |

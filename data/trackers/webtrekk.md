@@ -242,7 +242,6 @@
     * schleich-trail001.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
     * sparda01.wt-eu02.net
-    * tchibo10.wt-eu02.net
     * tipp24-de01.wt-eu02.net
     * tr.computeruniverse.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
@@ -522,6 +521,7 @@
 | text.benefitsatwork.be | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.ch | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.com.tr | corporate-benefits.wt-eu02.net |
+| text.benefitsatwork.es | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.pl | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.pt | corporate-benefits.wt-eu02.net |
 | text.convenzioniaziendali.it | corporate-benefits.wt-eu02.net |
@@ -668,7 +668,6 @@
 | tracking.tchibo.sk | tchibo07.webtrekk.net |
 | tracking.tchibo.hu | tchibo08.webtrekk.net |
 | tracking.tchibo.com.tr | tchibo09.webtrekk.net |
-| tracking.tchibo.dk | tchibo10.wt-eu02.net |
 | pix.telekom.de | telekom01.webtrekk.net |
 | pix.telekom-dienste.de | telekom02.webtrekk.net |
 | wbtrkk.teufelaudio.co.uk | teufel-de01.webtrekk.net |
