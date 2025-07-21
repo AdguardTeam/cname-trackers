@@ -4,6 +4,7 @@ cdn.adevbom.com
 cdn.adevppl.com
 cdn.afwpc.com
 cdn.agajx.com
+cdn.ahnjop.com
 cdn.alcatza.com
 cdn.aliwjo.com
 cdn.almacz.com
@@ -17,6 +18,7 @@ cdn.asrop.xyz
 cdn.bahswl.com
 cdn.barlo.xyz
 cdn.bhlph.com
+cdn.bhnnop.com
 cdn.bnmkl.com
 cdn.borhaj.com
 cdn.buram.xyz
@@ -607,7 +609,6 @@ koala.readyfive.io
 koi.artsvp.co
 koi.fftf.cat
 koi.filtersource.com
-koi.fullyexplained.co.uk
 koi.henrydennis.dev
 koi.lkae.dev
 koi.vyer.com
@@ -703,7 +704,6 @@ mole.dansksejlunion.dk
 mole.energizer.eu
 mole.getfamealy.com
 mole.gostartupco.com
-mollusk.forwardmx.io
 mollusk.working.actor
 mongoose.cse-algolia.fr
 mongoose.scrumgenius.com
@@ -785,7 +785,6 @@ penguin.craftpeak.io
 penguin.mobiadroit.com
 penguin.revolana.com
 perch.luckydiff.com
-perch.matiasvad.com
 perch.searchwp.com
 perch.stefangasser.com
 pheasant.ampapageorgiou.gr
@@ -1058,7 +1057,6 @@ wildcat.longviewforecasting.com
 wildcat.restq.co
 wildebeest.quarva.dev
 wildebeest.soft-spoken.dev
-wildebeest.trigo.dev
 wildfowl.getmoneyoff.com
 wolf.novel.io
 wolf.samarasousa.com
@@ -1158,6 +1156,7 @@ ucdn.adgebra.co
 cdn.shrtfly.vip
 consent.cookiefirst.com
 contact-gloss-production.accelerator.net
+creative-bunny.bidease.com
 dntcl.qualaroo.com
 kivr8.wd6vy.com
 live-tag.creatopy.net

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -558,7 +558,6 @@ stats.kendix.org CNAME .
 stats.kensho.com CNAME .
 stats.kettlebellbundle.com CNAME .
 stats.kevlatus.de CNAME .
-stats.kfcsint-lenaartsjeugd.be CNAME .
 stats.klaussteinke.com CNAME .
 stats.klj-consult.com CNAME .
 stats.kod.ru CNAME .
@@ -772,7 +771,6 @@ stats.suominaikidoacademy.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svemir.co CNAME .
 stats.symbiofest.cz CNAME .
-stats.tarasyarema.com CNAME .
 stats.tax-venture.de CNAME .
 stats.teamdetails.com CNAME .
 stats.teenranch.com CNAME .
@@ -799,7 +797,6 @@ stats.topstudyworld.com CNAME .
 stats.training.fit CNAME .
 stats.trenntoi.de CNAME .
 stats.tresor.one CNAME .
-stats.trigo.at CNAME .
 stats.trimbles.ie CNAME .
 stats.trussed.dev CNAME .
 stats.trypricelist.com CNAME .

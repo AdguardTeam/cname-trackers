@@ -262,6 +262,7 @@
     * embrace-pet-insurance.extole.io
     * empathywines.extole.io
     * empire-today.extole.io
+    * endy.extole.io
     * ent.extole.io
     * enzocustom.extole.io
     * eset.extole.io
@@ -289,6 +290,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
@@ -310,6 +312,7 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -375,7 +378,6 @@
     * learnersedge.extole.io
     * lemonaidhealth.extole.io
     * lending-club.extole.io
-    * lenscrafters.extole.io
     * levi.extole.io
     * lgeccu.extole.io
     * lifedna.extole.io
@@ -406,6 +408,7 @@
     * msgcu.extole.io
     * mtntough.extole.io
     * mycarpe.extole.io
+    * mycomputercareer.extole.io
     * myheritage.extole.io
     * myinvestable.extole.io
     * myollie.extole.io
@@ -512,15 +515,14 @@
     * sleepnumber.extole.io
     * smartcu.extole.io
     * smartpakequine.extole.io
+    * smartsign.extole.io
     * smashbox.extole.io
     * snap-finance.extole.io
     * soma.extole.io
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
-    * starbucks.xtl2.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
     * stockpile.extole.io
@@ -549,11 +551,9 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
-    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
-    * thewalkingcompany.extole.io
     * thewildest.extole.io
     * thirdlove.extole.io
     * tireagent.extole.io
@@ -829,6 +829,7 @@
 | refer.embracepetinsurance.com | embrace-pet-insurance.extole.io |
 | share.empathywines.com | empathywines.extole.io |
 | refer.empiretoday.com | empire-today.extole.io |
+| refer.endy.com | endy.extole.io |
 | share.ent.com | ent.extole.io |
 | share.enzocustom.com | enzocustom.extole.io |
 | refer.eset.com | eset.extole.io |
@@ -868,6 +869,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
@@ -957,6 +959,7 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1050,7 +1053,6 @@
 | share.learnersedge.com | learnersedge.extole.io |
 | refer.lemonaidhealth.com | lemonaidhealth.extole.io |
 | refer.lendingclub.com | lending-club.extole.io |
-| refer.lenscrafters.com | lenscrafters.extole.io |
 | share.levi.com | levi.extole.io |
 | share.s1.levi-site.com | levi.extole.io |
 | share.s3.levi-site.com | levi.extole.io |
@@ -1100,6 +1102,7 @@
 | refer.msgcu.org | msgcu.extole.io |
 | share.mtntough.com | mtntough.extole.io |
 | share.mycarpe.com | mycarpe.extole.io |
+| share.mycomputercareer.edu | mycomputercareer.extole.io |
 | refer.myheritagedna.com | myheritage.extole.io |
 | share.myinvestable.com | myinvestable.extole.io |
 | share.myollie.com | myollie.extole.io |
@@ -1253,6 +1256,9 @@
 | refer.sleepnumber.com | sleepnumber.extole.io |
 | share.smartcu.org | smartcu.extole.io |
 | share.smartpakequine.com | smartpakequine.extole.io |
+| refer.myassettag.com | smartsign.extole.io |
+| refer.myparkingsign.com | smartsign.extole.io |
+| refer.smartsign.com | smartsign.extole.io |
 | refer.smashbox.com | smashbox.extole.io |
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
@@ -1261,9 +1267,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
-| xtl2._domainkey.refer.starbucks.com | starbucks.xtl2.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
 | share.stockpile.com | stockpile.extole.io |
@@ -1301,13 +1305,11 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
-| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
 | share.theprisonerwinecompany.com | theprisonerwinecompany.extole.io |
 | refer.thesculptsociety.com | thesculptsociety.extole.io |
-| refer.thewalkingcompany.com | thewalkingcompany.extole.io |
 | refer.thewildest.com | thewildest.extole.io |
 | refer.thirdlove.com | thirdlove.extole.io |
 | refer.timberland.com | timberland.extole.com |
@@ -1403,6 +1405,7 @@
 | xtl._domainkey.mail.propertyperks.xfinity.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.walmartmoneycard.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.zoom.us | xtl.domainkey.u82658.wl159.sendgrid.net |
+| xtl2._domainkey.refer.starbucks.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | xtl2._domainkey.shareus.viktor-rolf.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
 | share.zenbusiness.com | zenbusiness.extole.io |

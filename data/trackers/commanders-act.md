@@ -4,8 +4,10 @@
 
 * tagcommander.com
     * redirect271.tagcommander.com
+    * redirect28.tagcommander.com
     * redirect341.tagcommander.com
     * redirect342.tagcommander.com
+    * redirect378.tagcommander.com
     * redirect384.tagcommander.com
     * redirect398.tagcommander.com
     * redirect476.tagcommander.com
@@ -36,8 +38,10 @@
 | tc.europcar.de | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | tcdata.fnac.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.decathlon.fr | redirect271.tagcommander.com |
+| tcdata.fnac.com | redirect28.tagcommander.com |
 | data.decathlon.es | redirect341.tagcommander.com |
 | data.decathlon.co.uk | redirect342.tagcommander.com |
+| tc.europcar.de | redirect378.tagcommander.com |
 | tc.europcar.com.au | redirect384.tagcommander.com |
 | data.decathlon.pl | redirect398.tagcommander.com |
 | sales.disneylandparis.com | redirect476.tagcommander.com |

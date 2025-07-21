@@ -275,6 +275,7 @@ data-1c0a3d83e3.transfermarkt.my
 data-1c0a3d83e3.transfermarkt.nl
 data-1c0a3d83e3.transfermarkt.pe
 data-1c0a3d83e3.transfermarkt.pl
+data-1c0a3d83e3.transfermarkt.pt
 data-1c0a3d83e3.transfermarkt.ru
 data-1c0a3d83e3.transfermarkt.us
 data-1c0a3d83e3.transfermarkt.world
@@ -422,6 +423,7 @@ data-3698886e7b.manager-magazin.de
 data-3698886e7b.spiegel.de
 data-36caf1229e.wirtschaftsverlag.at
 data-36eb08aa0f.autozeitung.de
+data-36fd9d40cb.apps.iocnt.de
 data-3706a2ecb0.bauletter.de
 data-3706a2ecb0.baulinks.de
 data-379665bfa7.apps.iocnt.de
@@ -1123,6 +1125,7 @@ data-83380557db.fupa.net
 data-83380557db.nw.de
 data-833e9f9a71.dzonline.de
 data-83d91ea519.bergstraesser-anzeiger.de
+data-83d91ea519.deike-online.de
 data-83d91ea519.fnweb.de
 data-83d91ea519.haas-mediengruppe.de
 data-83d91ea519.immomorgen.de
@@ -1434,6 +1437,7 @@ data-a29bc6fa2d.noen.at
 data-a2a13b1828.all-in.de
 data-a2c8256a75.jobhamster.de
 data-a2c8256a75.radio-saw.de
+data-a2c8256a75.radiosaw.de
 data-a2c8256a75.radiosaw.eu
 data-a2c8256a75.saw-musikwelt.de
 data-a2c8256a75.sawmusikwelt.de

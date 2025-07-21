@@ -214,6 +214,7 @@
 ||static.i-bidder.com^
 ||static.imagineobx.com^
 ||static.insideradverts.com^
+||static.isn.nl^
 ||static.livingmagonline.com^
 ||static.lot-tissimo.com^
 ||static.mannixmarketing.com^

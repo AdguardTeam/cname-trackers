@@ -20,6 +20,7 @@
 | w.revenuegeeks.com | api.wecantrack.com |
 | wct.compari.se | api.wecantrack.com |
 | wct.coolgadgetsinsider.com | api.wecantrack.com |
+| wct.filehippo.com | api.wecantrack.com |
 | wct.softonic-ar.com | api.wecantrack.com |
 | wct.softonic-id.com | api.wecantrack.com |
 | wct.softonic-th.com | api.wecantrack.com |

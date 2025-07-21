@@ -474,6 +474,7 @@
 | app.luve.tv | custom.bnc.lt |
 | app.luwak.be | custom.bnc.lt |
 | app.maccaron.in | custom.bnc.lt |
+| app.mafia.ua | custom.bnc.lt |
 | app.manager.privateaser.com | custom.bnc.lt |
 | app.manufacturedhomeloans.com | custom.bnc.lt |
 | app.marriott.com | custom.bnc.lt |
@@ -517,6 +518,7 @@
 | app.nala.money | custom.bnc.lt |
 | app.nautilus.io | custom.bnc.lt |
 | app.navyhealth.com.au | custom.bnc.lt |
+| app.nextory.com | custom.bnc.lt |
 | app.nhrmcmychart.com | custom.bnc.lt |
 | app.nofomo.com | custom.bnc.lt |
 | app.nootric.com | custom.bnc.lt |
@@ -545,6 +547,7 @@
 | app.payomatic.com | custom.bnc.lt |
 | app.pdf.ac | custom.bnc.lt |
 | app.peachfarmer.com | custom.bnc.lt |
+| app.peoplecare.com.au | custom.bnc.lt |
 | app.perish.co | custom.bnc.lt |
 | app.phia.com | custom.bnc.lt |
 | app.phinests.com | custom.bnc.lt |
@@ -579,7 +582,6 @@
 | app.qa.unpressnews.com | custom.bnc.lt |
 | app.qooxydz.net | custom.bnc.lt |
 | app.quotesalarm.com | custom.bnc.lt |
-| app.radio.com | custom.bnc.lt |
 | app.radixdlt.com | custom.bnc.lt |
 | app.raneen.com | custom.bnc.lt |
 | app.rasloans.com | custom.bnc.lt |
@@ -625,6 +627,7 @@
 | app.smartcredit.com | custom.bnc.lt |
 | app.smartmoneymortgage.com | custom.bnc.lt |
 | app.snbla.com | custom.bnc.lt |
+| app.social.tripi.vn | custom.bnc.lt |
 | app.sortedai.com | custom.bnc.lt |
 | app.sosocial.com | custom.bnc.lt |
 | app.soultime.com | custom.bnc.lt |
@@ -920,7 +923,6 @@
 | bint.openapp.link | custom.bnc.lt |
 | bio.chups.co | custom.bnc.lt |
 | biz.fluteconnect.com | custom.bnc.lt |
-| bizlink.dinifi.com | custom.bnc.lt |
 | bka-link.shares.social | custom.bnc.lt |
 | bkstg.flyx.me | custom.bnc.lt |
 | bl-test.curatedplanet.com | custom.bnc.lt |
@@ -944,6 +946,7 @@
 | bnc.squaretrade.com | custom.bnc.lt |
 | bnc.thewaya.com | custom.bnc.lt |
 | boba.peblla.app | custom.bnc.lt |
+| bondstreet.loanzify.app | custom.bnc.lt |
 | book.londonsoundacademy.com | custom.bnc.lt |
 | booking.getwaitnot.com | custom.bnc.lt |
 | boss.openapp.link | custom.bnc.lt |
@@ -1019,6 +1022,7 @@
 | branch.myoyster.mx | custom.bnc.lt |
 | branch.olamoney.com | custom.bnc.lt |
 | branch.oneroof.co.nz | custom.bnc.lt |
+| branch.oudermatch.nl | custom.bnc.lt |
 | branch.parkingpanda.com | custom.bnc.lt |
 | branch.primelister.com | custom.bnc.lt |
 | branch.quantic.edu | custom.bnc.lt |
@@ -1175,10 +1179,6 @@
 | connectrelease.goziohealth.com | custom.bnc.lt |
 | consultnow.askpinkypromise.com | custom.bnc.lt |
 | content.booksplusapp.com | custom.bnc.lt |
-| content.mini.pix.style | custom.bnc.lt |
-| content.pix.style | custom.bnc.lt |
-| content.stage.mini.pix.style | custom.bnc.lt |
-| content.stage.pix.style | custom.bnc.lt |
 | content.youmiam.com | custom.bnc.lt |
 | contractor-app.buildforce.com | custom.bnc.lt |
 | converge.headuplabs.com | custom.bnc.lt |
@@ -1472,7 +1472,6 @@
 | download.frolit.io | custom.bnc.lt |
 | download.getneema.com | custom.bnc.lt |
 | download.gleo.club | custom.bnc.lt |
-| download.helponymous.com | custom.bnc.lt |
 | download.ibuzza.net | custom.bnc.lt |
 | download.idfier.com | custom.bnc.lt |
 | download.innit.com | custom.bnc.lt |
@@ -1596,8 +1595,6 @@
 | friends-app.ashjar.sa | custom.bnc.lt |
 | friends.hyll.com | custom.bnc.lt |
 | friends.test.hyll.com | custom.bnc.lt |
-| fscareers.epoise.com | custom.bnc.lt |
-| fscareerstest.epoise.com | custom.bnc.lt |
 | ftm.bl.frequentvalues.com.au | custom.bnc.lt |
 | ftp.happ.social | custom.bnc.lt |
 | fubar.kano.link | custom.bnc.lt |
@@ -1870,6 +1867,7 @@
 | go.christsingles.mingle.com | custom.bnc.lt |
 | go.citizen.com | custom.bnc.lt |
 | go.clickipo.com | custom.bnc.lt |
+| go.clipboardworks.com | custom.bnc.lt |
 | go.collabs.shop | custom.bnc.lt |
 | go.colombia.innovatedating.com | custom.bnc.lt |
 | go.couplific.com | custom.bnc.lt |
@@ -2111,7 +2109,6 @@
 | go.teepic.com | custom.bnc.lt |
 | go.teepik.com | custom.bnc.lt |
 | go.test.mindfi.co | custom.bnc.lt |
-| go.test.shop.app | custom.bnc.lt |
 | go.thai.innovatedating.com | custom.bnc.lt |
 | go.thaicupid.me | custom.bnc.lt |
 | go.timee.com | custom.bnc.lt |
@@ -2167,6 +2164,7 @@
 | gotest.real.co | custom.bnc.lt |
 | gotest.taillight.com | custom.bnc.lt |
 | goto-test.aroundu.app | custom.bnc.lt |
+| goto.aroundu.app | custom.bnc.lt |
 | goto.mycouturier.app | custom.bnc.lt |
 | goto.nearlist.com | custom.bnc.lt |
 | gpplus-app.hotdoc.com.au | custom.bnc.lt |
@@ -2227,6 +2225,7 @@
 | i-test.streakmatch.com | custom.bnc.lt |
 | i.academeet.io | custom.bnc.lt |
 | i.airtel.in | custom.bnc.lt |
+| i.baristi.com | custom.bnc.lt |
 | i.carry.bible | custom.bnc.lt |
 | i.degoo.com | custom.bnc.lt |
 | i.honk.me | custom.bnc.lt |
@@ -2376,7 +2375,6 @@
 | join.hypercare.com | custom.bnc.lt |
 | join.klade.app | custom.bnc.lt |
 | join.klinkfinance.com | custom.bnc.lt |
-| join.lalalove.app | custom.bnc.lt |
 | join.lapse.app | custom.bnc.lt |
 | join.listmakerapp.com | custom.bnc.lt |
 | join.meetingpotes.com | custom.bnc.lt |
@@ -2506,6 +2504,7 @@
 | lets.playzingus.com | custom.bnc.lt |
 | lets.useflash.app | custom.bnc.lt |
 | lets.watcho.com | custom.bnc.lt |
+| lexri.applywise.com | custom.bnc.lt |
 | lhp-mortgage.loanzify.com | custom.bnc.lt |
 | li.icredit.works | custom.bnc.lt |
 | li.rtl2.de | custom.bnc.lt |
@@ -2578,7 +2577,6 @@
 | link.24go.co | custom.bnc.lt |
 | link.360vuz.com | custom.bnc.lt |
 | link.5mins.ai | custom.bnc.lt |
-| link.abandonedmonkey.codes | custom.bnc.lt |
 | link.access.medstarhealth.org | custom.bnc.lt |
 | link.activy.app | custom.bnc.lt |
 | link.adhdinsight.com | custom.bnc.lt |
@@ -2711,7 +2709,6 @@
 | link.deversmarket.com | custom.bnc.lt |
 | link.didyoucatchit.com | custom.bnc.lt |
 | link.dietfriends.kr | custom.bnc.lt |
-| link.dinifi.com | custom.bnc.lt |
 | link.dior.com | custom.bnc.lt |
 | link.discotech.me | custom.bnc.lt |
 | link.discoverasr.com | custom.bnc.lt |
@@ -2796,8 +2793,6 @@
 | link.getjarvis.dev | custom.bnc.lt |
 | link.getmoova.app | custom.bnc.lt |
 | link.getoutpatient.com | custom.bnc.lt |
-| link.getpi.in | custom.bnc.lt |
-| link.getremix.ai | custom.bnc.lt |
 | link.getsaturday.com | custom.bnc.lt |
 | link.getshorts.app | custom.bnc.lt |
 | link.getsigneasy.com | custom.bnc.lt |
@@ -2904,7 +2899,6 @@
 | link.kontist.com | custom.bnc.lt |
 | link.kulina.id | custom.bnc.lt |
 | link.kuno.live | custom.bnc.lt |
-| link.kwickie.io | custom.bnc.lt |
 | link.lawnlo.com | custom.bnc.lt |
 | link.lazarillo.app | custom.bnc.lt |
 | link.lcdg.io | custom.bnc.lt |
@@ -2919,6 +2913,7 @@
 | link.litnet.com | custom.bnc.lt |
 | link.litte.ru | custom.bnc.lt |
 | link.locaholic.io | custom.bnc.lt |
+| link.localapp.app | custom.bnc.lt |
 | link.localmasters.com | custom.bnc.lt |
 | link.lola.com | custom.bnc.lt |
 | link.lomolist.com | custom.bnc.lt |
@@ -3138,6 +3133,7 @@
 | link.sooooon.com | custom.bnc.lt |
 | link.sosok.so | custom.bnc.lt |
 | link.soultime.com | custom.bnc.lt |
+| link.soutag.com.br | custom.bnc.lt |
 | link.space.ge | custom.bnc.lt |
 | link.spacetalk.co | custom.bnc.lt |
 | link.sparklist.io | custom.bnc.lt |
@@ -3157,7 +3153,6 @@
 | link.staff.notab.com | custom.bnc.lt |
 | link.staffme.fr | custom.bnc.lt |
 | link.stage.easy.me | custom.bnc.lt |
-| link.stage.getremix.ai | custom.bnc.lt |
 | link.stage.global.id | custom.bnc.lt |
 | link.staging.augmentedreality.jlg.com | custom.bnc.lt |
 | link.staging.blacktulip.life | custom.bnc.lt |
@@ -3245,6 +3240,7 @@
 | link.uat.nowjobs.dev | custom.bnc.lt |
 | link.ujama.co | custom.bnc.lt |
 | link.ulive.chat | custom.bnc.lt |
+| link.unrot.com.br | custom.bnc.lt |
 | link.up.com.au | custom.bnc.lt |
 | link.upperinc.com | custom.bnc.lt |
 | link.uproad.com | custom.bnc.lt |
@@ -3494,12 +3490,14 @@
 | linkspinedev.insights.md | custom.bnc.lt |
 | linkstaging3.divyamarathi.com | custom.bnc.lt |
 | linkto.driver.codes | custom.bnc.lt |
+| linkuat.doctime.com.bd | custom.bnc.lt |
 | linkuat.sprive.com | custom.bnc.lt |
 | linkus.buddybet.com | custom.bnc.lt |
 | linkvet.insights.md | custom.bnc.lt |
 | linkvetdev.insights.md | custom.bnc.lt |
 | listen.trakks.com | custom.bnc.lt |
 | listen.tunein.com | custom.bnc.lt |
+| live.hod.ink | custom.bnc.lt |
 | live.spree.shop | custom.bnc.lt |
 | lk.bnsworldwide.com | custom.bnc.lt |
 | lk.parisfoodies.fr | custom.bnc.lt |
@@ -3708,7 +3706,6 @@
 | mt.plateiq.com | custom.bnc.lt |
 | mtest.fontself.com | custom.bnc.lt |
 | muahang247.abphotos.link | custom.bnc.lt |
-| music.tuneconnectapp.com | custom.bnc.lt |
 | must.openapp.link | custom.bnc.lt |
 | mx.happ.social | custom.bnc.lt |
 | mx2.happ.social | custom.bnc.lt |
@@ -3883,7 +3880,6 @@
 | play.getpeel.app | custom.bnc.lt |
 | play.jdb888.club | custom.bnc.lt |
 | play.journey8.com | custom.bnc.lt |
-| play.jt-market01.site | custom.bnc.lt |
 | play.maxgame.win | custom.bnc.lt |
 | play.oncasino-707.com | custom.bnc.lt |
 | play.pingoplus.club | custom.bnc.lt |
@@ -3959,10 +3955,10 @@
 | qr.spirii.com | custom.bnc.lt |
 | qualitas-app.hotdoc.com.au | custom.bnc.lt |
 | quantum5-invite-test.ander.ai | custom.bnc.lt |
-| quest.epoise.com | custom.bnc.lt |
 | questtest.epoise.com | custom.bnc.lt |
 | quick.openapp.link | custom.bnc.lt |
 | r-beta.y.info | custom.bnc.lt |
+| r-dev.urbansitter.net | custom.bnc.lt |
 | r-qa.urbansitter.net | custom.bnc.lt |
 | r.atlasearth.com | custom.bnc.lt |
 | r.cvglobal.co | custom.bnc.lt |
@@ -3990,6 +3986,7 @@
 | redirect.cuballama.com | custom.bnc.lt |
 | redirect.hamrobloodbank.com | custom.bnc.lt |
 | redirect.indacar.io | custom.bnc.lt |
+| redirect.kataklop.com | custom.bnc.lt |
 | redirect.onjuno.com | custom.bnc.lt |
 | redirect.voltex.co | custom.bnc.lt |
 | redirectdemoqpay.2c2p.com | custom.bnc.lt |
@@ -4064,7 +4061,6 @@
 | s-test.utop.vn | custom.bnc.lt |
 | s.brin.io | custom.bnc.lt |
 | s.chatie.ai | custom.bnc.lt |
-| s.grigora.com | custom.bnc.lt |
 | s.imagica.ai | custom.bnc.lt |
 | s.jugnoo.in | custom.bnc.lt |
 | s.mygl.in | custom.bnc.lt |
@@ -4229,7 +4225,6 @@
 | share.pbrry.com | custom.bnc.lt |
 | share.perchwell.com | custom.bnc.lt |
 | share.platoonline.com | custom.bnc.lt |
-| share.pocketfilms.in | custom.bnc.lt |
 | share.pridemobility.com | custom.bnc.lt |
 | share.qualifi.hr | custom.bnc.lt |
 | share.quin.cl | custom.bnc.lt |
@@ -4348,6 +4343,7 @@
 | stages.app.goodwith.co | custom.bnc.lt |
 | staging-app-deeplink.nupharma24.com | custom.bnc.lt |
 | staging-go.getsquire.com | custom.bnc.lt |
+| staging-link-ccontact.focuscura.com | custom.bnc.lt |
 | staging-link.appbonus.ru | custom.bnc.lt |
 | staging-link.docyt.com | custom.bnc.lt |
 | staging-link.kol.store | custom.bnc.lt |
@@ -4388,7 +4384,6 @@
 | surpreendaapp.hanzo.com.br | custom.bnc.lt |
 | sv6cc96xky59kohz.loanzify.app | custom.bnc.lt |
 | swa.anydma.com | custom.bnc.lt |
-| swimaustralia.spyn.co | custom.bnc.lt |
 | sxarakia.openapp.link | custom.bnc.lt |
 | t.hmwy.io | custom.bnc.lt |
 | t.myvoleo.com | custom.bnc.lt |
@@ -4478,7 +4473,6 @@
 | testlink.blueheart.io | custom.bnc.lt |
 | testlink.covve.com | custom.bnc.lt |
 | testlink.kidzapp.com | custom.bnc.lt |
-| testlink.kwickie.io | custom.bnc.lt |
 | testlink.saganworks.com | custom.bnc.lt |
 | testlink.victoriatheapp.com | custom.bnc.lt |
 | testlinks.ottplay.com | custom.bnc.lt |
@@ -4560,6 +4554,7 @@
 | uat-links.devtest.vegas | custom.bnc.lt |
 | uat-scanner-link.covve.com | custom.bnc.lt |
 | uat.bcfi.us | custom.bnc.lt |
+| uat.slotxbros.com | custom.bnc.lt |
 | uatrewards-my.greateasternlife.com | custom.bnc.lt |
 | uatrewards-sg.greateasternlife.com | custom.bnc.lt |
 | ujvh.pandasuite.io | custom.bnc.lt |
@@ -4571,6 +4566,7 @@
 | unsubscribe.openapp.link | custom.bnc.lt |
 | uptvmovies.uptv.com | custom.bnc.lt |
 | ur.b.inhaabit.com | custom.bnc.lt |
+| url.doctime.com.bd | custom.bnc.lt |
 | url.wind.app | custom.bnc.lt |
 | us.app.puma.com | custom.bnc.lt |
 | use.fvr.to | custom.bnc.lt |
@@ -5003,6 +4999,7 @@
 | click.email.chope.co | thirdparty.bnc.lt |
 | click.email.houndapp.com | thirdparty.bnc.lt |
 | click.email.soundhound.com | thirdparty.bnc.lt |
+| click.emails.alomoves.com | thirdparty.bnc.lt |
 | click.emails.aloyoga.com | thirdparty.bnc.lt |
 | click.emails.creditonebank.com | thirdparty.bnc.lt |
 | click.eml.nordstrom.com | thirdparty.bnc.lt |
@@ -5551,6 +5548,7 @@
 | shoppers-test.instacartemail.com | thirdparty.bnc.lt |
 | shoppers.instacartemail.com | thirdparty.bnc.lt |
 | smbranch.nc.mails.sssports.com | thirdparty.bnc.lt |
+| socialflow.branch.rocks | thirdparty.bnc.lt |
 | t.ac.pandora.com | thirdparty.bnc.lt |
 | t.bztest.origin.com.au | thirdparty.bnc.lt |
 | t.comms.thetimes.co.uk | thirdparty.bnc.lt |

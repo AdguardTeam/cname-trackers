@@ -339,7 +339,6 @@
 | isic.kopirkaostrava.cz | cz.affilbox.cz |
 | isicpartner.mamechut.cz | cz.affilbox.cz |
 | kaocko.swaglift.com | cz.affilbox.cz |
-| lhota.stanicezoo.cz | cz.affilbox.cz |
 | money.mioweb.cz | cz.affilbox.cz |
 | my.11team-sports.hu | cz.affilbox.cz |
 | my.11teamsports.bg | cz.affilbox.cz |
@@ -363,7 +362,6 @@
 | my.fr.top4running.be | cz.affilbox.cz |
 | my.kickz.com | cz.affilbox.cz |
 | my.tint-store.ro | cz.affilbox.cz |
-| my.top4fitness.at | cz.affilbox.cz |
 | my.top4fitness.bg | cz.affilbox.cz |
 | my.top4fitness.com | cz.affilbox.cz |
 | my.top4fitness.cz | cz.affilbox.cz |
@@ -388,7 +386,6 @@
 | my.top4football.es | cz.affilbox.cz |
 | my.top4football.fi | cz.affilbox.cz |
 | my.top4football.ie | cz.affilbox.cz |
-| my.top4football.se | cz.affilbox.cz |
 | my.top4run.cz | cz.affilbox.cz |
 | my.top4running.at | cz.affilbox.cz |
 | my.top4running.be | cz.affilbox.cz |
@@ -470,6 +467,7 @@
 | partner.avetour.cz | cz.affilbox.cz |
 | partner.babypatent.sk | cz.affilbox.cz |
 | partner.babysigns.cz | cz.affilbox.cz |
+| partner.barefootsaltic.cz | cz.affilbox.cz |
 | partner.barnaby.cz | cz.affilbox.cz |
 | partner.bazaroveregaly.cz | cz.affilbox.cz |
 | partner.bed4dogs.com | cz.affilbox.cz |
@@ -745,6 +743,7 @@
 | partner.sladkyklub.cz | cz.affilbox.cz |
 | partner.slimpasta.cz | cz.affilbox.cz |
 | partner.slimpasta.sk | cz.affilbox.cz |
+| partner.smiling-baby.cz | cz.affilbox.cz |
 | partner.smoothiekniha.sk | cz.affilbox.cz |
 | partner.spodni-pradlo-rekova.cz | cz.affilbox.cz |
 | partner.spokojenypes.cz | cz.affilbox.cz |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -255,8 +255,12 @@ cnt.patpat.com CNAME .
 compliance.mohegansuncasino.com CNAME .
 condition.applause.com CNAME .
 connect-cert-card.moneynetwork.com CNAME .
+connect-cert-myfunds.moneynetwork.com CNAME .
 connect-cert-prepaid.everywherepaycard.com CNAME .
 connect-cert.account.moneynetwork.com CNAME .
+connect-cert.everywherepaycard.com CNAME .
+connect-cert.premieraccesscard.com CNAME .
+connect-cert.walmart.everywherepaycard.com CNAME .
 connect.briopay.com CNAME .
 connect.everywherepaycard.com CNAME .
 connect.moneynetwork.com CNAME .
@@ -603,6 +607,7 @@ geo.linq.gg CNAME .
 ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
 h.chase.co.uk CNAME .
+h.costco.com CNAME .
 h.greenmangaming.com CNAME .
 h.santanderconsumer.pl CNAME .
 h.threatmetrix.com CNAME .
@@ -1023,6 +1028,7 @@ t.sunrise.ch CNAME .
 t.us.williamhill.com CNAME .
 t.wepay.com CNAME .
 t.yallo.ch CNAME .
+t.yt-guard.com CNAME .
 t.zinia.com CNAME .
 t1.tacdn.com CNAME .
 t1.welab.bank CNAME .
@@ -1257,6 +1263,7 @@ validacionlx.agaval.com CNAME .
 validafp.grupocasasbahia.com.br CNAME .
 validators.ifpsoyyo.co CNAME .
 verification.ndtco.com CNAME .
+verify.ib.ge CNAME .
 verify.metlife.com CNAME .
 verify.philippineairlines.com CNAME .
 vfp.intuit.com CNAME .

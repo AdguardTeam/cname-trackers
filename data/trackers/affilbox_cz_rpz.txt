@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -329,7 +329,6 @@ isic.dentalweb.cz CNAME .
 isic.kopirkaostrava.cz CNAME .
 isicpartner.mamechut.cz CNAME .
 kaocko.swaglift.com CNAME .
-lhota.stanicezoo.cz CNAME .
 money.mioweb.cz CNAME .
 my.11team-sports.hu CNAME .
 my.11teamsports.bg CNAME .
@@ -353,7 +352,6 @@ my.11teamsports.sk CNAME .
 my.fr.top4running.be CNAME .
 my.kickz.com CNAME .
 my.tint-store.ro CNAME .
-my.top4fitness.at CNAME .
 my.top4fitness.bg CNAME .
 my.top4fitness.com CNAME .
 my.top4fitness.cz CNAME .
@@ -378,7 +376,6 @@ my.top4football.dk CNAME .
 my.top4football.es CNAME .
 my.top4football.fi CNAME .
 my.top4football.ie CNAME .
-my.top4football.se CNAME .
 my.top4run.cz CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
@@ -460,6 +457,7 @@ partner.autosarm.cz CNAME .
 partner.avetour.cz CNAME .
 partner.babypatent.sk CNAME .
 partner.babysigns.cz CNAME .
+partner.barefootsaltic.cz CNAME .
 partner.barnaby.cz CNAME .
 partner.bazaroveregaly.cz CNAME .
 partner.bed4dogs.com CNAME .
@@ -735,6 +733,7 @@ partner.sladkemameni.com CNAME .
 partner.sladkyklub.cz CNAME .
 partner.slimpasta.cz CNAME .
 partner.slimpasta.sk CNAME .
+partner.smiling-baby.cz CNAME .
 partner.smoothiekniha.sk CNAME .
 partner.spodni-pradlo-rekova.cz CNAME .
 partner.spokojenypes.cz CNAME .

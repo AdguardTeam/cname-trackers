@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -100,7 +100,6 @@ al.tsukurupajama.jp CNAME .
 al.ttandco.com CNAME .
 al.urban-square.jp CNAME .
 al.urbancosme.co.jp CNAME .
-al.uruoin.com CNAME .
 al.uzu-japan.com CNAME .
 al.vintorte.com CNAME .
 al.webike.net CNAME .

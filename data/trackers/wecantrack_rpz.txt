@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,6 +22,7 @@ w.revenuegeeks.com CNAME .
 w.vpnalert.com CNAME .
 wct.compari.se CNAME .
 wct.coolgadgetsinsider.com CNAME .
+wct.filehippo.com CNAME .
 wct.softonic-ar.com CNAME .
 wct.softonic-id.com CNAME .
 wct.softonic-th.com CNAME .

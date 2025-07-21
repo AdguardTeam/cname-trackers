@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -522,6 +522,7 @@ $TTL 300
 3475341.notify6.com CNAME .
 3475349.notify6.com CNAME .
 3476453.notifysrv.com CNAME .
+3477231.notify6.com CNAME .
 3477325.notify6.com CNAME .
 3478737.notifysrv.com CNAME .
 3479835.notifysrv.com CNAME .
@@ -1250,25 +1251,25 @@ $TTL 300
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
+a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
-a.allureanews.com CNAME .
 a.b2bstars.com CNAME .
 a.b7q9v8z.com CNAME .
+a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
 a.eunow4u.com CNAME .
 a.golhofer.com CNAME .
-a.huklop.com CNAME .
 a.ma3ion.com CNAME .
 a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
-a.ouzads.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
+a.rocoads.net CNAME .
+a.santabrowser.com CNAME .
 a.tf4srv.com CNAME .
-a.traffic-gold.com CNAME .
 a.vws4brkfst.com CNAME .
 abc.notifysrv.com CNAME .
 accept.notifysrv.com CNAME .
@@ -1289,6 +1290,7 @@ admin1.notifysrv.com CNAME .
 administration.notifysrv.com CNAME .
 admissions.notifysrv.com CNAME .
 adrepository.opoxv.com CNAME .
+ads.optimizesrv.com CNAME .
 ads.toroadvertising.com CNAME .
 adult.notifysrv.com CNAME .
 android.notifysrv.com CNAME .
@@ -1379,6 +1381,7 @@ s.b2bstars.com CNAME .
 s.b7q9v8z.com CNAME .
 s.bizonads-ssp.com CNAME .
 s.cant3am.com CNAME .
+s.chnsrv.com CNAME .
 s.datingclix.com CNAME .
 s.ds0yue.com CNAME .
 s.ds239w.com CNAME .
@@ -1397,7 +1400,9 @@ s.ds8ect.com CNAME .
 s.ds8fc0.com CNAME .
 s.ds8wql.com CNAME .
 s.ds96gk.com CNAME .
+s.dsa8h7.com CNAME .
 s.dsa9k5.com CNAME .
+s.dsajir.com CNAME .
 s.dsau5u.com CNAME .
 s.dsb68d.com CNAME .
 s.dsceay.com CNAME .
@@ -1690,11 +1695,10 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
-a.adsession.com CNAME .
+a.allureanews.com CNAME .
 a.asvsm.com CNAME .
-a.bizonads-ssp.com CNAME .
 a.etology.com CNAME .
+a.huklop.com CNAME .
+a.ouzads.com CNAME .
 a.r8lnet.com CNAME .
-a.rocoads.net CNAME .
-a.santabrowser.com CNAME .
-ads.optimizesrv.com CNAME .
+a.traffic-gold.com CNAME .

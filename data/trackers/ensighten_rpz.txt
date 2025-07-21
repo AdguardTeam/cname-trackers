@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -285,6 +285,7 @@ nexus.tdinsurance.com CNAME .
 nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .
 ntms-test.koganmoney.com.au CNAME .
+ntms.coles.com.au CNAME .
 ntms.koganmoney.com.au CNAME .
 p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .

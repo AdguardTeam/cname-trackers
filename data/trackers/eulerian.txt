@@ -25,6 +25,7 @@
 ||a.perfumesclub.nl^
 ||a.perfumesclub.pl^
 ||a.perfumesclub.pt^
+||a.weareknitters.ch^
 ||a.weareknitters.co.uk^
 ||a.weareknitters.com^
 ||a.weareknitters.de^
@@ -61,7 +62,7 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
-||c0i.ckoi.com^
+||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
 ||cbl6.destinia.gt^
@@ -141,7 +142,6 @@
 ||ea.millet-mountain.de^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
-||ea.mnt.fr^
 ||ea.mondial-assistance.fr^
 ||ea.mydailyhotel.com^
 ||ea.mywarner.warnerbros.fr^
@@ -239,6 +239,7 @@
 ||fl5dpe.oui.sncf^
 ||fma7.aegon.es^
 ||fpb8.esce.fr^
+||fsz1.francoisesaget.be^
 ||fsz1.francoisesaget.com^
 ||fzb5.laboratoire-giphar.fr^
 ||fze8.carrefour-banque.fr^
@@ -258,6 +259,7 @@
 ||hby7.destinia.it^
 ||hde1.repentignychevrolet.com^
 ||hgf4.zanzicar.fr^
+||hk2d.tourismemauricie.com^
 ||idg1.idgarages.com^
 ||igc0.destinia.at^
 ||inv3te.oui.sncf^
@@ -340,6 +342,7 @@
 ||pgt1.voyage-prive.es^
 ||piq4.inseec.education^
 ||pjh7.us.chantelle.com^
+||pk1u.melanielyne.com^
 ||pkc5.hardrockhoteltenerife.com^
 ||pm.pmu.fr^
 ||po.ponant.com^
@@ -373,6 +376,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
+||rwl.tremblant.ca^
 ||s4e8.cascades.com^
 ||sa.lesselectionsskoda.fr^
 ||sa.skoda.fr^
@@ -391,6 +395,7 @@
 ||srm4.destinia.co.no^
 ||ssrlot.lotoquebec.com^
 ||ssy7.destinia.com.ua^
+||su1.les-suites.ca^
 ||t.locasun-vp.fr^
 ||t.locasun.co.uk^
 ||t.locasun.de^
@@ -400,6 +405,7 @@
 ||t.locasun.nl^
 ||t.pmu.fr^
 ||t.voyages-sncf.com^
+||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tdf1.easyviaggio.com^
@@ -445,10 +451,11 @@
 ||wqs4.destinia.pt^
 ||www.admanager.fr^
 ||www.attribution-day.com^
-||www.attribution-school.com^
 ||www.attributionday.com^
 ||www.dataholics.tech^
+||www.erdev1.eulerian.io^
 ||www.eulerian.ch^
+||www.eulerian.cloud^
 ||www.fasttrack.fr^
 ||www.fasttracker.fr^
 ||xay5o.toscane-boutique.fr^
@@ -474,16 +481,12 @@
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
 ||b1n.carabins.umontreal.ca^
-||c0p.cepsum.umontreal.ca^
+||c0i.ckoi.com^
 ||d2u.dauphinquebec.com^
 ||erb.tremblant.ca^
-||hk2d.tourismemauricie.com^
 ||l2i.qualityinnlevis.com^
-||rwl.tremblant.ca^
 ||ry0.rythmefm.com^
-||su1.les-suites.ca^
-||t0y.toyota.ca^
 ||www.mis.tourisme-montreal.org^
 ||yio.tremblant.ca^
+||ea.mnt.fr^
 ||gi7a.structube.com^
-||pk1u.melanielyne.com^

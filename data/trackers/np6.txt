@@ -868,7 +868,6 @@
 ||tr.news.mperformance.fr^
 ||tr.news.normandie.cci.fr^
 ||tr.news.np6.com^
-||tr.news.ocs.fr^
 ||tr.news.onetoonemba.com^
 ||tr.news.ouestnormandie.cci.fr^
 ||tr.news.parisinfo.com^

@@ -89,7 +89,6 @@
 ||al.ttandco.com^
 ||al.urban-square.jp^
 ||al.urbancosme.co.jp^
-||al.uruoin.com^
 ||al.uzu-japan.com^
 ||al.vintorte.com^
 ||al.webike.net^

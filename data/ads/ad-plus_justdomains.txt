@@ -4,6 +4,7 @@ ad-serving.iocreate.cloud
 adserving.menatech.net
 cdn.laim.tv
 cdn33.protagcdn.com
+dashboard.alcancemg.com
 dashboard.andbeyond.media
 dashboard.boostads.ru
 dashboard.digita.media

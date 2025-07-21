@@ -336,6 +336,7 @@ web.news.dixiefashion.com
 web.news.eprice.it
 web.news.gnv.it
 web.news.imperialfashion.com
+web.news.kasanova.com
 web.news.lancel.com
 web.news.paganistore.com
 web.news.piquadro.com

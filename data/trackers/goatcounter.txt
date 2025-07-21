@@ -100,6 +100,7 @@
 ||stats.eithel.org^
 ||stats.fieald.com^
 ||stats.forest-school.am^
+||stats.ghostiam.dev^
 ||stats.gopikrishna.dev^
 ||stats.hadejkde.cz^
 ||stats.haseebmajid.dev^
@@ -145,7 +146,6 @@
 ||stats.szorty.space^
 ||stats.tdurand.com^
 ||stats.timothechau.vet^
-||stats.tinkerer.tools^
 ||stats.trainsley69.me^
 ||stats.transactional.blog^
 ||stats.umcconnell.net^

@@ -40,6 +40,7 @@
 | tltcxs.awohkn.com | app-file.b-cdn.net |
 | contact-gloss-production.accelerator.net | b-cdn.net |
 | assets.diagomics.com | bannieres.b-cdn.net |
+| creative-bunny.bidease.com | bidease.b-cdn.net |
 | ads.djc.com | bs-adserver.b-cdn.net |
 | allnews.chestertelegraph.org | bs-adserver.b-cdn.net |
 | amaze.hamptonroads.myactivechild.com | bs-adserver.b-cdn.net |
@@ -568,7 +569,6 @@
 | koi.artsvp.co | deprecated-custom-domains.b-cdn.net |
 | koi.fftf.cat | deprecated-custom-domains.b-cdn.net |
 | koi.filtersource.com | deprecated-custom-domains.b-cdn.net |
-| koi.fullyexplained.co.uk | deprecated-custom-domains.b-cdn.net |
 | koi.henrydennis.dev | deprecated-custom-domains.b-cdn.net |
 | koi.lkae.dev | deprecated-custom-domains.b-cdn.net |
 | koi.vyer.com | deprecated-custom-domains.b-cdn.net |
@@ -664,7 +664,6 @@
 | mole.energizer.eu | deprecated-custom-domains.b-cdn.net |
 | mole.getfamealy.com | deprecated-custom-domains.b-cdn.net |
 | mole.gostartupco.com | deprecated-custom-domains.b-cdn.net |
-| mollusk.forwardmx.io | deprecated-custom-domains.b-cdn.net |
 | mollusk.working.actor | deprecated-custom-domains.b-cdn.net |
 | mongoose.cse-algolia.fr | deprecated-custom-domains.b-cdn.net |
 | mongoose.scrumgenius.com | deprecated-custom-domains.b-cdn.net |
@@ -746,7 +745,6 @@
 | penguin.mobiadroit.com | deprecated-custom-domains.b-cdn.net |
 | penguin.revolana.com | deprecated-custom-domains.b-cdn.net |
 | perch.luckydiff.com | deprecated-custom-domains.b-cdn.net |
-| perch.matiasvad.com | deprecated-custom-domains.b-cdn.net |
 | perch.searchwp.com | deprecated-custom-domains.b-cdn.net |
 | perch.stefangasser.com | deprecated-custom-domains.b-cdn.net |
 | pheasant.ampapageorgiou.gr | deprecated-custom-domains.b-cdn.net |
@@ -1019,7 +1017,6 @@
 | wildcat.restq.co | deprecated-custom-domains.b-cdn.net |
 | wildebeest.quarva.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.soft-spoken.dev | deprecated-custom-domains.b-cdn.net |
-| wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
 | wildfowl.getmoneyoff.com | deprecated-custom-domains.b-cdn.net |
 | wolf.novel.io | deprecated-custom-domains.b-cdn.net |
 | wolf.samarasousa.com | deprecated-custom-domains.b-cdn.net |
@@ -1046,6 +1043,7 @@
 | cdn.adevppl.com | popcashjs.b-cdn.net |
 | cdn.afwpc.com | popcashjs.b-cdn.net |
 | cdn.agajx.com | popcashjs.b-cdn.net |
+| cdn.ahnjop.com | popcashjs.b-cdn.net |
 | cdn.alcatza.com | popcashjs.b-cdn.net |
 | cdn.aliwjo.com | popcashjs.b-cdn.net |
 | cdn.almacz.com | popcashjs.b-cdn.net |
@@ -1059,6 +1057,7 @@
 | cdn.bahswl.com | popcashjs.b-cdn.net |
 | cdn.barlo.xyz | popcashjs.b-cdn.net |
 | cdn.bhlph.com | popcashjs.b-cdn.net |
+| cdn.bhnnop.com | popcashjs.b-cdn.net |
 | cdn.bnmkl.com | popcashjs.b-cdn.net |
 | cdn.borhaj.com | popcashjs.b-cdn.net |
 | cdn.buram.xyz | popcashjs.b-cdn.net |

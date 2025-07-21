@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,7 @@ cdn.adevbom.com CNAME .
 cdn.adevppl.com CNAME .
 cdn.afwpc.com CNAME .
 cdn.agajx.com CNAME .
+cdn.ahnjop.com CNAME .
 cdn.alcatza.com CNAME .
 cdn.aliwjo.com CNAME .
 cdn.almacz.com CNAME .
@@ -28,6 +29,7 @@ cdn.asrop.xyz CNAME .
 cdn.bahswl.com CNAME .
 cdn.barlo.xyz CNAME .
 cdn.bhlph.com CNAME .
+cdn.bhnnop.com CNAME .
 cdn.bnmkl.com CNAME .
 cdn.borhaj.com CNAME .
 cdn.buram.xyz CNAME .
@@ -618,7 +620,6 @@ koala.readyfive.io CNAME .
 koi.artsvp.co CNAME .
 koi.fftf.cat CNAME .
 koi.filtersource.com CNAME .
-koi.fullyexplained.co.uk CNAME .
 koi.henrydennis.dev CNAME .
 koi.lkae.dev CNAME .
 koi.vyer.com CNAME .
@@ -714,7 +715,6 @@ mole.dansksejlunion.dk CNAME .
 mole.energizer.eu CNAME .
 mole.getfamealy.com CNAME .
 mole.gostartupco.com CNAME .
-mollusk.forwardmx.io CNAME .
 mollusk.working.actor CNAME .
 mongoose.cse-algolia.fr CNAME .
 mongoose.scrumgenius.com CNAME .
@@ -796,7 +796,6 @@ penguin.craftpeak.io CNAME .
 penguin.mobiadroit.com CNAME .
 penguin.revolana.com CNAME .
 perch.luckydiff.com CNAME .
-perch.matiasvad.com CNAME .
 perch.searchwp.com CNAME .
 perch.stefangasser.com CNAME .
 pheasant.ampapageorgiou.gr CNAME .
@@ -1069,7 +1068,6 @@ wildcat.longviewforecasting.com CNAME .
 wildcat.restq.co CNAME .
 wildebeest.quarva.dev CNAME .
 wildebeest.soft-spoken.dev CNAME .
-wildebeest.trigo.dev CNAME .
 wildfowl.getmoneyoff.com CNAME .
 wolf.novel.io CNAME .
 wolf.samarasousa.com CNAME .
@@ -1169,6 +1167,7 @@ ucdn.adgebra.co CNAME .
 cdn.shrtfly.vip CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
+creative-bunny.bidease.com CNAME .
 dntcl.qualaroo.com CNAME .
 kivr8.wd6vy.com CNAME .
 live-tag.creatopy.net CNAME .

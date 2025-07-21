@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,7 +32,6 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
-bat19.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.arcjav.com CNAME .
@@ -77,6 +76,7 @@ ddd.sexstories69.com CNAME .
 dr1.piczlabs.com CNAME .
 dr3.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
+excavajo5.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 ge6.getfto.com CNAME .
@@ -125,7 +125,6 @@ www.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
-www.xn--www-hn0a.rtnews.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

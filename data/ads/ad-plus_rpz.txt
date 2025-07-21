@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,7 @@ ad-serving.iocreate.cloud CNAME .
 adserving.menatech.net CNAME .
 cdn.laim.tv CNAME .
 cdn33.protagcdn.com CNAME .
+dashboard.alcancemg.com CNAME .
 dashboard.andbeyond.media CNAME .
 dashboard.boostads.ru CNAME .
 dashboard.digita.media CNAME .

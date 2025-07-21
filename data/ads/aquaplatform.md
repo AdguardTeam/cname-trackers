@@ -400,6 +400,7 @@
 | cdn.revive-adserver.net | revivehosted-static.aquaplatform.com |
 | images.cricketworld.com | revivehosted-static.aquaplatform.com |
 | images.falconstudios.com | revivehosted-static.aquaplatform.com |
+| static.isn.nl | revivehosted-static.aquaplatform.com |
 | servedby.medlabmag.com | ridgewood-delivery.aquaplatform.com |
 | servedby.pppmag.com | ridgewood-delivery.aquaplatform.com |
 | static.pppmag.com | ridgewood-static.aquaplatform.com |

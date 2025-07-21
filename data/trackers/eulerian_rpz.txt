@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ a.perfumesclub.it CNAME .
 a.perfumesclub.nl CNAME .
 a.perfumesclub.pl CNAME .
 a.perfumesclub.pt CNAME .
+a.weareknitters.ch CNAME .
 a.weareknitters.co.uk CNAME .
 a.weareknitters.com CNAME .
 a.weareknitters.de CNAME .
@@ -72,7 +73,7 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -152,7 +153,6 @@ ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
-ea.mnt.fr CNAME .
 ea.mondial-assistance.fr CNAME .
 ea.mydailyhotel.com CNAME .
 ea.mywarner.warnerbros.fr CNAME .
@@ -250,6 +250,7 @@ fkwc.sfr.fr CNAME .
 fl5dpe.oui.sncf CNAME .
 fma7.aegon.es CNAME .
 fpb8.esce.fr CNAME .
+fsz1.francoisesaget.be CNAME .
 fsz1.francoisesaget.com CNAME .
 fzb5.laboratoire-giphar.fr CNAME .
 fze8.carrefour-banque.fr CNAME .
@@ -269,6 +270,7 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 hde1.repentignychevrolet.com CNAME .
 hgf4.zanzicar.fr CNAME .
+hk2d.tourismemauricie.com CNAME .
 idg1.idgarages.com CNAME .
 igc0.destinia.at CNAME .
 inv3te.oui.sncf CNAME .
@@ -351,6 +353,7 @@ pcnphysio-com.ca-eulerian.net CNAME .
 pgt1.voyage-prive.es CNAME .
 piq4.inseec.education CNAME .
 pjh7.us.chantelle.com CNAME .
+pk1u.melanielyne.com CNAME .
 pkc5.hardrockhoteltenerife.com CNAME .
 pm.pmu.fr CNAME .
 po.ponant.com CNAME .
@@ -384,6 +387,7 @@ rmp4.destinia.uy CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
+rwl.tremblant.ca CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
 sa.skoda.fr CNAME .
@@ -402,6 +406,7 @@ sr.mistermenuiserie.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
+su1.les-suites.ca CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
 t.locasun.de CNAME .
@@ -411,6 +416,7 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
+t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -456,10 +462,11 @@ wph2.destinia.us CNAME .
 wqs4.destinia.pt CNAME .
 www.admanager.fr CNAME .
 www.attribution-day.com CNAME .
-www.attribution-school.com CNAME .
 www.attributionday.com CNAME .
 www.dataholics.tech CNAME .
+www.erdev1.eulerian.io CNAME .
 www.eulerian.ch CNAME .
+www.eulerian.cloud CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
 xay5o.toscane-boutique.fr CNAME .
@@ -485,16 +492,12 @@ zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 b1n.carabins.umontreal.ca CNAME .
-c0p.cepsum.umontreal.ca CNAME .
+c0i.ckoi.com CNAME .
 d2u.dauphinquebec.com CNAME .
 erb.tremblant.ca CNAME .
-hk2d.tourismemauricie.com CNAME .
 l2i.qualityinnlevis.com CNAME .
-rwl.tremblant.ca CNAME .
 ry0.rythmefm.com CNAME .
-su1.les-suites.ca CNAME .
-t0y.toyota.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .
+ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
-pk1u.melanielyne.com CNAME .

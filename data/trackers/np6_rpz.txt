@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -879,7 +879,6 @@ tr.news.monvoyant.fr CNAME .
 tr.news.mperformance.fr CNAME .
 tr.news.normandie.cci.fr CNAME .
 tr.news.np6.com CNAME .
-tr.news.ocs.fr CNAME .
 tr.news.onetoonemba.com CNAME .
 tr.news.ouestnormandie.cci.fr CNAME .
 tr.news.parisinfo.com CNAME .

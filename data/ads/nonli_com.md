@@ -260,6 +260,7 @@
 | l.touteleurope.eu | tls.non.li |
 | l.trendencias.com | tls.non.li |
 | l.uppercutmma.com | tls.non.li |
+| l.viepratique.fr | tls.non.li |
 | l.voici.fr | tls.non.li |
 | l.whatsupdoc-lemag.fr | tls.non.li |
 | l.xataka.com | tls.non.li |

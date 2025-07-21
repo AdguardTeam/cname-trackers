@@ -59,6 +59,7 @@
     * gaywu.goatcounter.com
     * gcls001239028.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
+    * ghostiam.goatcounter.com
     * gopikrishna.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
     * gradient.goatcounter.com
@@ -143,7 +144,6 @@
     * thedave-me.goatcounter.com
     * thedave-photos.goatcounter.com
     * timothechauvet.goatcounter.com
-    * tinkerertools.goatcounter.com
     * tomatomtl.goatcounter.com
     * trainsley69.goatcounter.com
     * transactionalblog.goatcounter.com
@@ -225,6 +225,7 @@
 | gc.gaywu.com | gaywu.goatcounter.com |
 | analytics.leespace.co | gcls001239028.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
+| stats.ghostiam.dev | ghostiam.goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | stats.brendanhanke.com | gradient.goatcounter.com |
@@ -311,7 +312,6 @@
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
 | goatcounter.thedave.photos | thedave-photos.goatcounter.com |
 | stats.timothechau.vet | timothechauvet.goatcounter.com |
-| stats.tinkerer.tools | tinkerertools.goatcounter.com |
 | analytics.tomatomtl.com | tomatomtl.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
 | stats.transactional.blog | transactionalblog.goatcounter.com |

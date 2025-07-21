@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -286,6 +286,7 @@ data-1c0a3d83e3.transfermarkt.my CNAME .
 data-1c0a3d83e3.transfermarkt.nl CNAME .
 data-1c0a3d83e3.transfermarkt.pe CNAME .
 data-1c0a3d83e3.transfermarkt.pl CNAME .
+data-1c0a3d83e3.transfermarkt.pt CNAME .
 data-1c0a3d83e3.transfermarkt.ru CNAME .
 data-1c0a3d83e3.transfermarkt.us CNAME .
 data-1c0a3d83e3.transfermarkt.world CNAME .
@@ -433,6 +434,7 @@ data-3698886e7b.manager-magazin.de CNAME .
 data-3698886e7b.spiegel.de CNAME .
 data-36caf1229e.wirtschaftsverlag.at CNAME .
 data-36eb08aa0f.autozeitung.de CNAME .
+data-36fd9d40cb.apps.iocnt.de CNAME .
 data-3706a2ecb0.bauletter.de CNAME .
 data-3706a2ecb0.baulinks.de CNAME .
 data-379665bfa7.apps.iocnt.de CNAME .
@@ -1134,6 +1136,7 @@ data-83380557db.fupa.net CNAME .
 data-83380557db.nw.de CNAME .
 data-833e9f9a71.dzonline.de CNAME .
 data-83d91ea519.bergstraesser-anzeiger.de CNAME .
+data-83d91ea519.deike-online.de CNAME .
 data-83d91ea519.fnweb.de CNAME .
 data-83d91ea519.haas-mediengruppe.de CNAME .
 data-83d91ea519.immomorgen.de CNAME .
@@ -1445,6 +1448,7 @@ data-a29bc6fa2d.noen.at CNAME .
 data-a2a13b1828.all-in.de CNAME .
 data-a2c8256a75.jobhamster.de CNAME .
 data-a2c8256a75.radio-saw.de CNAME .
+data-a2c8256a75.radiosaw.de CNAME .
 data-a2c8256a75.radiosaw.eu CNAME .
 data-a2c8256a75.saw-musikwelt.de CNAME .
 data-a2c8256a75.sawmusikwelt.de CNAME .

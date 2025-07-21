@@ -559,7 +559,6 @@
 | stats.kensho.com | custom.plausible.io |
 | stats.kettlebellbundle.com | custom.plausible.io |
 | stats.kevlatus.de | custom.plausible.io |
-| stats.kfcsint-lenaartsjeugd.be | custom.plausible.io |
 | stats.klaussteinke.com | custom.plausible.io |
 | stats.klj-consult.com | custom.plausible.io |
 | stats.kod.ru | custom.plausible.io |
@@ -773,7 +772,6 @@
 | stats.sushibyte.io | custom.plausible.io |
 | stats.svemir.co | custom.plausible.io |
 | stats.symbiofest.cz | custom.plausible.io |
-| stats.tarasyarema.com | custom.plausible.io |
 | stats.tax-venture.de | custom.plausible.io |
 | stats.teamdetails.com | custom.plausible.io |
 | stats.teenranch.com | custom.plausible.io |
@@ -800,7 +798,6 @@
 | stats.training.fit | custom.plausible.io |
 | stats.trenntoi.de | custom.plausible.io |
 | stats.tresor.one | custom.plausible.io |
-| stats.trigo.at | custom.plausible.io |
 | stats.trimbles.ie | custom.plausible.io |
 | stats.trussed.dev | custom.plausible.io |
 | stats.trypricelist.com | custom.plausible.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -336,6 +336,7 @@ ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .
 p5mcwdbu.ginzo-buy.jp CNAME .
 partner.haru-shop.jp CNAME .
+rank.xn--q9js3lht3ch8cv8a227v79jxl6ewya3lo91swn7c.com CNAME .
 sem.tkc-biyou.jp CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .

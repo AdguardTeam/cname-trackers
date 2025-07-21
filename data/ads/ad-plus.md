@@ -13,6 +13,7 @@
 | ---- | ---- |
 | cdn.laim.tv | cdn.stat-rock.com |
 | player.resonance.pk | cdn.stat-rock.com |
+| dashboard.alcancemg.com | dashboard.stat-rock.com |
 | dashboard.andbeyond.media | dashboard.stat-rock.com |
 | dashboard.boostads.ru | dashboard.stat-rock.com |
 | dashboard.digita.media | dashboard.stat-rock.com |

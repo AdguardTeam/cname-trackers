@@ -125,10 +125,10 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em2287.theory.com^
 ||em5231.mail.propertyperks.xfinity.com^
+||em767.forgetrust.com^
 ||em7952.dailypay.com^
-||em924.refer.starbucks.com^
+||em8561.go2bank.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -234,6 +234,7 @@
 ||refer.edelmanfinancial.com^
 ||refer.embracepetinsurance.com^
 ||refer.empiretoday.com^
+||refer.endy.com^
 ||refer.eset.com^
 ||refer.etrade.net^
 ||refer.everlywell.com^
@@ -301,7 +302,6 @@
 ||refer.lemonaidhealth.com^
 ||refer.lendingclub.com^
 ||refer.lendly.com^
-||refer.lenscrafters.com^
 ||refer.lighthousecu.org^
 ||refer.lightstream.com^
 ||refer.littlepassports.com^
@@ -320,7 +320,9 @@
 ||refer.mpgsport.ca^
 ||refer.mpgsport.com^
 ||refer.msgcu.org^
+||refer.myassettag.com^
 ||refer.myheritagedna.com^
+||refer.myparkingsign.com^
 ||refer.narscosmetics.com^
 ||refer.naturalizer.com^
 ||refer.netrinc.com^
@@ -373,6 +375,7 @@
 ||refer.sikorskycu.org^
 ||refer.skinceuticals.com^
 ||refer.sleepnumber.com^
+||refer.smartsign.com^
 ||refer.smashbox.com^
 ||refer.snapfinance.com^
 ||refer.soma.com^
@@ -397,7 +400,6 @@
 ||refer.themvpkc.com^
 ||refer.thepopcornfactory.com^
 ||refer.thesculptsociety.com^
-||refer.thewalkingcompany.com^
 ||refer.thewildest.com^
 ||refer.thirdlove.com^
 ||refer.tomorrowsleep.com^
@@ -618,6 +620,7 @@
 ||share.motivefinancial.com^
 ||share.mtntough.com^
 ||share.mycarpe.com^
+||share.mycomputercareer.edu^
 ||share.myinvestable.com^
 ||share.myollie.com^
 ||share.myq.com^
@@ -773,19 +776,19 @@
 ||www.referquickbooks.com^
 ||www.rob.extoleu.com^
 ||www.styleitforwardreward.com^
-||xtl2._domainkey.refer.starbucks.com^
 ||em1476.princesscruises.com^
 ||em225.codecademy.com^
+||em2287.theory.com^
 ||em4367.raf-studentloans.discover.com^
 ||em7147.love.suncoastcreditunion.com^
-||em767.forgetrust.com^
-||em8561.go2bank.com^
 ||em8928.em.petco.com^
+||em924.refer.starbucks.com^
 ||em9523.walmartmoneycard.com^
 ||emxxxx.rent.app^
 ||xtl._domainkey.forgetrust.com^
 ||xtl._domainkey.mail.propertyperks.xfinity.com^
 ||xtl._domainkey.walmartmoneycard.com^
 ||xtl._domainkey.zoom.us^
+||xtl2._domainkey.refer.starbucks.com^
 ||xtl2._domainkey.shareus.viktor-rolf.com^
 ||sftp.extole.com^

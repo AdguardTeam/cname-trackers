@@ -247,6 +247,7 @@
     * b13df9b0-f6f73qbn.cname.ebis.ne.jp
     * b1716022-scxitlgt.cname.ebis.ne.jp
     * b356e282-rlvgog2a.cname.ebis.ne.jp
+    * b38f03cf-gy66xg6s.cname.ebis.ne.jp
     * b3dfd045-acrymmnj.cname.ebis.ne.jp
     * b54f584c-hd5f4dhg.cname.ebis.ne.jp
     * b5b7acdf-yphasapa.cname.ebis.ne.jp
@@ -598,6 +599,7 @@
 | aaaa.jawfp2.org | b13df9b0-f6f73qbn.cname.ebis.ne.jp |
 | cs2087sbeda.manage-tempstaffing.net | b1716022-scxitlgt.cname.ebis.ne.jp |
 | ureruebis.nintama.co.jp | b356e282-rlvgog2a.cname.ebis.ne.jp |
+| rank.xn--q9js3lht3ch8cv8a227v79jxl6ewya3lo91swn7c.com | b38f03cf-gy66xg6s.cname.ebis.ne.jp |
 | cname.jf-d.jp | b3dfd045-acrymmnj.cname.ebis.ne.jp |
 | tracking.stad-gakusyu.jp | b54f584c-hd5f4dhg.cname.ebis.ne.jp |
 | ac-ebis.usen-ssi.jp | b5b7acdf-yphasapa.cname.ebis.ne.jp |

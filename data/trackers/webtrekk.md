@@ -140,6 +140,7 @@
     * 669154114435717.wt-eu02.net
     * 669798445377675.wt-eu02.net
     * 671130969507772.wt-eu02.net
+    * 693153204099063.wt-eu02.net
     * 693380235006292.wt-eu02.net
     * 697968943875320.wt-eu02.net
     * 709031981525642.wt-eu02.net
@@ -417,6 +418,7 @@
 | data.adlermode.com | 669154114435717.wt-eu02.net |
 | web.news.thebridge.it | 669798445377675.wt-eu02.net |
 | mapp.jysk.nl | 671130969507772.wt-eu02.net |
+| web.news.kasanova.com | 693153204099063.wt-eu02.net |
 | web.news.dixiefashion.com | 693380235006292.wt-eu02.net |
 | mit.dslbank.de | 697968943875320.wt-eu02.net |
 | info.klett-sprachen.de | 709031981525642.wt-eu02.net |

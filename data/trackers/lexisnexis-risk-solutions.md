@@ -142,6 +142,7 @@
     * h-7ih7ebik.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
+    * h-7ioidzao.online-metrix.net
     * h-7iw7j7aw.online-metrix.net
     * h-7lw52x9e.online-metrix.net
     * h-7npzzdc5.online-metrix.net
@@ -197,6 +198,7 @@
     * h-9i4fauog.online-metrix.net
     * h-9ivuwf8u.online-metrix.net
     * h-9kqz9786.online-metrix.net
+    * h-9mjqz0ev.online-metrix.net
     * h-9t5j16he.online-metrix.net
     * h-9tnufjvn.online-metrix.net
     * h-9wtp561i.online-metrix.net
@@ -554,6 +556,7 @@
     * h-k8vif92e.online-metrix.net
     * h-k8vif92e.qat.online-metrix.net
     * h-k8vif92e.sri3.online-metrix.net
+    * h-k8vif92e.ytgate.online-metrix.net
     * h-kelmar-ak.online-metrix.net
     * h-kelmar-argov.online-metrix.net
     * h-kelmar-de.online-metrix.net
@@ -1079,6 +1082,7 @@
 | content.rubyfortunecasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.spincasino.ca | h-7ij9mii1-a.online-metrix.net |
 | de9c635aa0404558bd527220ef4e6b4b.betway.ca | h-7ij9mii1.online-metrix.net |
+| h.costco.com | h-7ioidzao.online-metrix.net |
 | img2.adelantos.com.ar | h-7iw7j7aw.online-metrix.net |
 | af.mobile.free.fr | h-7lw52x9e.online-metrix.net |
 | dol-reemployme-js01.maine.gov | h-7npzzdc5.online-metrix.net |
@@ -1241,6 +1245,7 @@
 | img2.bbva.com.ar | h-9i4fauog.online-metrix.net |
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
+| verify.ib.ge | h-9mjqz0ev.online-metrix.net |
 | tm.flowbirdapp.com | h-9t5j16he.online-metrix.net |
 | cookiemonster.calcas.com | h-9tnufjvn.online-metrix.net |
 | devices.yondercard.com | h-9wtp561i.online-metrix.net |
@@ -1560,8 +1565,12 @@
 | img.dailylook.com | h-dailylook.online-metrix.net |
 | tags.dazn.com | h-dazn.online-metrix.net |
 | connect-cert-card.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
+| connect-cert-myfunds.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert-prepaid.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert.account.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
+| connect-cert.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
+| connect-cert.premieraccesscard.com | h-ddqvf3r9.online-metrix.net |
+| connect-cert.walmart.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
 | connect.briopay.com | h-ddqvf3r9.online-metrix.net |
 | connect.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
 | connect.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
@@ -1782,6 +1791,7 @@
 | cybersource.shoplineapp.com | h-k8vif92e.online-metrix.net |
 | qrimages.qatarairways.com | h-k8vif92e.qat.online-metrix.net |
 | uldfp.srilankan.com | h-k8vif92e.sri3.online-metrix.net |
+| t.yt-guard.com | h-k8vif92e.ytgate.online-metrix.net |
 | tag.unclaimedproperty.alaska.gov | h-kelmar-ak.online-metrix.net |
 | tag.claimitar.gov | h-kelmar-argov.online-metrix.net |
 | tag.unclaimedproperty.delaware.gov | h-kelmar-de.online-metrix.net |

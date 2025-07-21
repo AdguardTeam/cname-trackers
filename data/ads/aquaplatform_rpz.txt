@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -225,6 +225,7 @@ static.hollandhortimedia.nl CNAME .
 static.i-bidder.com CNAME .
 static.imagineobx.com CNAME .
 static.insideradverts.com CNAME .
+static.isn.nl CNAME .
 static.livingmagonline.com CNAME .
 static.lot-tissimo.com CNAME .
 static.mannixmarketing.com CNAME .

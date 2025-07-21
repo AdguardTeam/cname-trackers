@@ -318,7 +318,6 @@
 ||isic.kopirkaostrava.cz^
 ||isicpartner.mamechut.cz^
 ||kaocko.swaglift.com^
-||lhota.stanicezoo.cz^
 ||money.mioweb.cz^
 ||my.11team-sports.hu^
 ||my.11teamsports.bg^
@@ -342,7 +341,6 @@
 ||my.fr.top4running.be^
 ||my.kickz.com^
 ||my.tint-store.ro^
-||my.top4fitness.at^
 ||my.top4fitness.bg^
 ||my.top4fitness.com^
 ||my.top4fitness.cz^
@@ -367,7 +365,6 @@
 ||my.top4football.es^
 ||my.top4football.fi^
 ||my.top4football.ie^
-||my.top4football.se^
 ||my.top4run.cz^
 ||my.top4running.at^
 ||my.top4running.be^
@@ -449,6 +446,7 @@
 ||partner.avetour.cz^
 ||partner.babypatent.sk^
 ||partner.babysigns.cz^
+||partner.barefootsaltic.cz^
 ||partner.barnaby.cz^
 ||partner.bazaroveregaly.cz^
 ||partner.bed4dogs.com^
@@ -724,6 +722,7 @@
 ||partner.sladkyklub.cz^
 ||partner.slimpasta.cz^
 ||partner.slimpasta.sk^
+||partner.smiling-baby.cz^
 ||partner.smoothiekniha.sk^
 ||partner.spodni-pradlo-rekova.cz^
 ||partner.spokojenypes.cz^

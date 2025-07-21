@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,16 +21,19 @@ adat.beol.hu CNAME .
 adat.bihon.ro CNAME .
 adat.boon.hu CNAME .
 adat.borsonline.hu CNAME .
+adat.bravo.hu CNAME .
 adat.csupasport.hu CNAME .
 adat.delmagyar.hu CNAME .
 adat.dietaesfitnesz.hu CNAME .
 adat.duol.hu CNAME .
 adat.feol.hu CNAME .
+adat.figyelo.hu CNAME .
 adat.freemail.hu CNAME .
 adat.haon.hu CNAME .
 adat.heol.hu CNAME .
 adat.hirtv.hu CNAME .
 adat.ingatlanbazar.hu CNAME .
+adat.jurnalbihorean.ro CNAME .
 adat.kemma.hu CNAME .
 adat.kisalfold.hu CNAME .
 adat.koponyeg.hu CNAME .
@@ -49,6 +52,8 @@ adat.origo.hu CNAME .
 adat.radio1gong.hu CNAME .
 adat.retroradio.hu CNAME .
 adat.ripost.hu CNAME .
+adat.she.life.hu CNAME .
+adat.somogyihirlap.hu CNAME .
 adat.sonline.hu CNAME .
 adat.szabadfold.hu CNAME .
 adat.szoljon.hu CNAME .

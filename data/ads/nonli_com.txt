@@ -225,6 +225,7 @@
 ||l.trendencias.com^
 ||l.uppercutmma.com^
 ||l.varmatin.com^
+||l.viepratique.fr^
 ||l.voici.fr^
 ||l.vosgesmatin.fr^
 ||l.whatsupdoc-lemag.fr^

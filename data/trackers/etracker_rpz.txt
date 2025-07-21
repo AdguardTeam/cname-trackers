@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,6 +58,7 @@ et.electronic4you.at CNAME .
 et.electronic4you.de CNAME .
 et.electronic4you.hr CNAME .
 et.electronic4you.si CNAME .
+et.go-kmu.de CNAME .
 et.goal-based.investments CNAME .
 et.lavita.com CNAME .
 et.lioran.de CNAME .
@@ -101,6 +102,7 @@ ettcc.steute-controltec.com CNAME .
 ettcc.steute-leantec.com CNAME .
 ettcc.steute-meditec.com CNAME .
 ettcc.steute.com CNAME .
+eva.institut-sitya.at CNAME .
 ferthu.seyffer.shop CNAME .
 go.eitrmsummit.com CNAME .
 gus.corinnavondermuehlen.de CNAME .
@@ -109,12 +111,14 @@ js.edingershops.de CNAME .
 lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
+meter.rhinobag.de CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.treudelberg-resort.com CNAME .
 metrics.zaun-star.com CNAME .
 mktg.activemind.legal CNAME .
 monitoring.medizinbedarf.eu CNAME .
+monitoring.paw-wow.de CNAME .
 mytrd.orion.at CNAME .
 pse.gabor.com CNAME .
 ric.arrive-im-herzogpark.de CNAME .
@@ -150,6 +154,7 @@ stats.wienerjobs.at CNAME .
 sun.solar-haus.de CNAME .
 system.j5media.de CNAME .
 t.canngo.express CNAME .
+tr.mey-wasserschaden.de CNAME .
 tr.zuhause-finder.com CNAME .
 tr7593.pollin.de CNAME .
 track.bauwirtschaft-bw.de CNAME .
@@ -162,6 +167,7 @@ track.richtig-schaerfen.de CNAME .
 track.schlaffabrik.com CNAME .
 track.thegundogaffair.com CNAME .
 tracker.bkk24.de CNAME .
+tracking.chio.hu CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
 tracking.terrassenhof.de CNAME .
 trkkr.bugatti-media.com CNAME .

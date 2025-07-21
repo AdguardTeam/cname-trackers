@@ -952,7 +952,6 @@
 ||a8cv.fr-shinjuku.com^
 ||a8cv.frecious.jp^
 ||a8cv.free-max.com^
-||a8cv.freeks-japan.com^
 ||a8cv.freelance-start.com^
 ||a8cv.fujiplus.jp^
 ||a8cv.fukuoka-factoring.net^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -111,6 +111,7 @@ stats.defiscitoyens.org CNAME .
 stats.eithel.org CNAME .
 stats.fieald.com CNAME .
 stats.forest-school.am CNAME .
+stats.ghostiam.dev CNAME .
 stats.gopikrishna.dev CNAME .
 stats.hadejkde.cz CNAME .
 stats.haseebmajid.dev CNAME .
@@ -156,7 +157,6 @@ stats.svc.lol CNAME .
 stats.szorty.space CNAME .
 stats.tdurand.com CNAME .
 stats.timothechau.vet CNAME .
-stats.tinkerer.tools CNAME .
 stats.trainsley69.me CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .

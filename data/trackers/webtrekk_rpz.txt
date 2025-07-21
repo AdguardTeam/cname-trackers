@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -347,6 +347,7 @@ web.news.dixiefashion.com CNAME .
 web.news.eprice.it CNAME .
 web.news.gnv.it CNAME .
 web.news.imperialfashion.com CNAME .
+web.news.kasanova.com CNAME .
 web.news.lancel.com CNAME .
 web.news.paganistore.com CNAME .
 web.news.piquadro.com CNAME .

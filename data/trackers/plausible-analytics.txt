@@ -547,7 +547,6 @@
 ||stats.kensho.com^
 ||stats.kettlebellbundle.com^
 ||stats.kevlatus.de^
-||stats.kfcsint-lenaartsjeugd.be^
 ||stats.klaussteinke.com^
 ||stats.klj-consult.com^
 ||stats.kod.ru^
@@ -761,7 +760,6 @@
 ||stats.sushibyte.io^
 ||stats.svemir.co^
 ||stats.symbiofest.cz^
-||stats.tarasyarema.com^
 ||stats.tax-venture.de^
 ||stats.teamdetails.com^
 ||stats.teenranch.com^
@@ -788,7 +786,6 @@
 ||stats.training.fit^
 ||stats.trenntoi.de^
 ||stats.tresor.one^
-||stats.trigo.at^
 ||stats.trimbles.ie^
 ||stats.trussed.dev^
 ||stats.trypricelist.com^

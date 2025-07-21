@@ -244,8 +244,12 @@
 ||compliance.mohegansuncasino.com^
 ||condition.applause.com^
 ||connect-cert-card.moneynetwork.com^
+||connect-cert-myfunds.moneynetwork.com^
 ||connect-cert-prepaid.everywherepaycard.com^
 ||connect-cert.account.moneynetwork.com^
+||connect-cert.everywherepaycard.com^
+||connect-cert.premieraccesscard.com^
+||connect-cert.walmart.everywherepaycard.com^
 ||connect.briopay.com^
 ||connect.everywherepaycard.com^
 ||connect.moneynetwork.com^
@@ -592,6 +596,7 @@
 ||ghisa.subito.it^
 ||go.citizensaccess.com^
 ||h.chase.co.uk^
+||h.costco.com^
 ||h.greenmangaming.com^
 ||h.santanderconsumer.pl^
 ||h.threatmetrix.com^
@@ -1012,6 +1017,7 @@
 ||t.us.williamhill.com^
 ||t.wepay.com^
 ||t.yallo.ch^
+||t.yt-guard.com^
 ||t.zinia.com^
 ||t1.tacdn.com^
 ||t1.welab.bank^
@@ -1246,6 +1252,7 @@
 ||validafp.grupocasasbahia.com.br^
 ||validators.ifpsoyyo.co^
 ||verification.ndtco.com^
+||verify.ib.ge^
 ||verify.metlife.com^
 ||verify.philippineairlines.com^
 ||vfp.intuit.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -236,6 +236,7 @@ l.traxmag.com CNAME .
 l.trendencias.com CNAME .
 l.uppercutmma.com CNAME .
 l.varmatin.com CNAME .
+l.viepratique.fr CNAME .
 l.voici.fr CNAME .
 l.vosgesmatin.fr CNAME .
 l.whatsupdoc-lemag.fr CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -963,7 +963,6 @@ a8cv.fp-life.design CNAME .
 a8cv.fr-shinjuku.com CNAME .
 a8cv.frecious.jp CNAME .
 a8cv.free-max.com CNAME .
-a8cv.freeks-japan.com CNAME .
 a8cv.freelance-start.com CNAME .
 a8cv.fujiplus.jp CNAME .
 a8cv.fukuoka-factoring.net CNAME .

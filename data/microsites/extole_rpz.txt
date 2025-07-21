@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1752480009501        ; Serial
+           1753084809184        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -136,10 +136,10 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em2287.theory.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
+em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
-em924.refer.starbucks.com CNAME .
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -245,6 +245,7 @@ refer.ecoterrabeds.com CNAME .
 refer.edelmanfinancial.com CNAME .
 refer.embracepetinsurance.com CNAME .
 refer.empiretoday.com CNAME .
+refer.endy.com CNAME .
 refer.eset.com CNAME .
 refer.etrade.net CNAME .
 refer.everlywell.com CNAME .
@@ -312,7 +313,6 @@ refer.laylasleep.com CNAME .
 refer.lemonaidhealth.com CNAME .
 refer.lendingclub.com CNAME .
 refer.lendly.com CNAME .
-refer.lenscrafters.com CNAME .
 refer.lighthousecu.org CNAME .
 refer.lightstream.com CNAME .
 refer.littlepassports.com CNAME .
@@ -331,7 +331,9 @@ refer.mission.com CNAME .
 refer.mpgsport.ca CNAME .
 refer.mpgsport.com CNAME .
 refer.msgcu.org CNAME .
+refer.myassettag.com CNAME .
 refer.myheritagedna.com CNAME .
+refer.myparkingsign.com CNAME .
 refer.narscosmetics.com CNAME .
 refer.naturalizer.com CNAME .
 refer.netrinc.com CNAME .
@@ -384,6 +386,7 @@ refer.shuuemuraartofhair-usa.com CNAME .
 refer.sikorskycu.org CNAME .
 refer.skinceuticals.com CNAME .
 refer.sleepnumber.com CNAME .
+refer.smartsign.com CNAME .
 refer.smashbox.com CNAME .
 refer.snapfinance.com CNAME .
 refer.soma.com CNAME .
@@ -408,7 +411,6 @@ refer.theinside.com CNAME .
 refer.themvpkc.com CNAME .
 refer.thepopcornfactory.com CNAME .
 refer.thesculptsociety.com CNAME .
-refer.thewalkingcompany.com CNAME .
 refer.thewildest.com CNAME .
 refer.thirdlove.com CNAME .
 refer.tomorrowsleep.com CNAME .
@@ -629,6 +631,7 @@ share.montgomeryadvertiser.com CNAME .
 share.motivefinancial.com CNAME .
 share.mtntough.com CNAME .
 share.mycarpe.com CNAME .
+share.mycomputercareer.edu CNAME .
 share.myinvestable.com CNAME .
 share.myollie.com CNAME .
 share.myq.com CNAME .
@@ -784,19 +787,19 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl2._domainkey.refer.starbucks.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
-em767.forgetrust.com CNAME .
-em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl._domainkey.walmartmoneycard.com CNAME .
 xtl._domainkey.zoom.us CNAME .
+xtl2._domainkey.refer.starbucks.com CNAME .
 xtl2._domainkey.shareus.viktor-rolf.com CNAME .
 sftp.extole.com CNAME .
