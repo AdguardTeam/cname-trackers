@@ -243,6 +243,7 @@
 | www.static.healthcarescene.com | hcs-static.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
 | console.hour-media.com | hourmedia-console.aquaplatform.com |
+| www.console.cincinnatimagazine.com | hourmedia-console.aquaplatform.com |
 | servedby.atlantamagazine.com | hourmedia-delivery.aquaplatform.com |
 | servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |

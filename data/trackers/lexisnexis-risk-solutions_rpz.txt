@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,11 @@ $TTL 300
 1of1.skipcash.app CNAME .
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
+adprtm53.cartayou.it CNAME .
+adprtm53.free.at CNAME .
+adprtm53.gebuhrenfrei.com CNAME .
+adprtm53.kartegold.de CNAME .
+adprtm53.xn--gebhrenfrei-vhb.de CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
 afm.cnthevtmarkets.com CNAME .
@@ -258,6 +263,7 @@ connect-cert-card.moneynetwork.com CNAME .
 connect-cert-myfunds.moneynetwork.com CNAME .
 connect-cert-prepaid.everywherepaycard.com CNAME .
 connect-cert.account.moneynetwork.com CNAME .
+connect-cert.briopay.com CNAME .
 connect-cert.everywherepaycard.com CNAME .
 connect-cert.premieraccesscard.com CNAME .
 connect-cert.walmart.everywherepaycard.com CNAME .
@@ -380,6 +386,7 @@ content.olympus.ao.com CNAME .
 content.orixbank.co.jp CNAME .
 content.partycity.ca CNAME .
 content.paycardsolutions.com CNAME .
+content.paydala.com CNAME .
 content.paysend.com CNAME .
 content.pefcu.com CNAME .
 content.personifyfinancial.com CNAME .
@@ -818,6 +825,7 @@ prod-cardinal.chaperone.lumindigitalhosting.com CNAME .
 prod-cfcuwi.chaperone.lumindigitalhosting.com CNAME .
 prod-citadel.chaperone.lumindigitalhosting.com CNAME .
 prod-comfin.chaperone.lumindigitalhosting.com CNAME .
+prod-commonwealth.chaperone.lumindigitalhosting.com CNAME .
 prod-consumers.chaperone.lumindigitalhosting.com CNAME .
 prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-dccuva.chaperone.lumindigitalhosting.com CNAME .
@@ -878,8 +886,6 @@ public-check3-at.test.tiaa-cref.org CNAME .
 public-check3-at.test.tiaa.org CNAME .
 qfp.intuit.com CNAME .
 qrimages.qatarairways.com CNAME .
-qtbm.fundourselves.com CNAME .
-qtbm.welendus.com CNAME .
 query.capitalontap.com CNAME .
 query.capitalontap.es CNAME .
 r.hokodo.co CNAME .

@@ -87,7 +87,6 @@ jinx.skullctf.com
 kaladyaudiology.ericksonbuilt.com
 l.lilyzhou.com
 lkj23jlkajsa.realestate.help
-log.rhythmtowers.com
 loggychops.paulsmith.site
 lytics.findairpods.com
 marsupial.roleup.com
@@ -823,7 +822,6 @@ stats.wwdcscholars.com
 stats.www.agirpourlenvironnement.org
 stats.wymanmobilenotary.com
 stats.xactcode.com
-stats.xn--antnio-dxa.pt
 stats.xrechnung.app
 stats.zimri.net
 statstest.upti.pro

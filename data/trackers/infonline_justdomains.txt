@@ -8,7 +8,6 @@ acsam-relay.ivwonline.org
 data-0034231193.apps.iocnt.de
 data-00460c60fa.eurotransport.de
 data-004e4e6793.wetter.at
-data-007f9d19c8.sbz-monteur.de
 data-009c74b736.yesss.at
 data-00c4a5bd11.rockland.fm
 data-00db6fbb05.yachtrevue.at
@@ -385,7 +384,6 @@ data-2ee2564ecd.ariva.de
 data-2ef5a47289.6rtl.com
 data-2f17ef0d9f.radiovest.de
 data-2f559bb09f.apps.iocnt.de
-data-2f8cd23f8f.apps.iocnt.de
 data-2f9a02e6cd.tga-fachplaner.de
 data-30826b1c29.agrarheute.com
 data-30866d53e2.eatbetter.de
@@ -399,7 +397,6 @@ data-31fbb916a1.erneuerbareenergien.de
 data-3212b1cf73.apps.iocnt.de
 data-3277c56f96.ingenieur.de
 data-3277c56f96.ingenieurstage.de
-data-32d8a1e8f7.kl-magazin.de
 data-331311c70c.suedkurier.de
 data-337242f510.itk-rheinland.de
 data-339e8471f1.bau-welt.de
@@ -550,8 +547,6 @@ data-463860f007.radiowestfalica.de
 data-463860f007.radiowestfalicahilft.de
 data-46b11f8fc4.apps.iocnt.de
 data-4754325bf6.scinexx.de
-data-47bb0d34fe.pharmastellen.jobs
-data-47bb0d34fe.pharmazeutische-zeitung.de
 data-47e5acc9b9.tophotel.de
 data-47ee1b0882.amperlichtspiele.de
 data-47ee1b0882.apollo-kino.de
@@ -923,7 +918,6 @@ data-650d8068ef.ka-news.de
 data-658024863f.industriemagazin.at
 data-6590696975.liebenswert-magazin.de
 data-6590696975.wunderweib.de
-data-65a220e458.diekaelte.de
 data-661a70098f.muehlacker-tagblatt.de
 data-663387616d.echo24.de
 data-663387616d.idcdn.de
@@ -1218,6 +1212,7 @@ data-8abe5cc617.bz-ticket.de
 data-8abe5cc617.bzflirt.de
 data-8abe5cc617.bztrauer.de
 data-8abe5cc617.fupa.net
+data-8abe5cc617.handwerkjobs-bw.de
 data-8abe5cc617.regiojob.de
 data-8abe5cc617.schnapp.de
 data-8abe5cc617.wohnverdient.de
@@ -1327,6 +1322,7 @@ data-98b5a11c9b.radiolippe.de
 data-98fb153d3d.ksta.de
 data-992b9a20ea.competitionline.com
 data-992bb00b0c.messen.de
+data-99329e3cb2.bilanz.de
 data-99329e3cb2.metal-hammer.de
 data-99329e3cb2.musikexpress.de
 data-99329e3cb2.rollingstone.de
@@ -1460,7 +1456,6 @@ data-a6c3c2bffa.mamiweb.de
 data-a6faa6efe2.insuedthueringen.de
 data-a6faa6efe2.thueringen-gedenkt.de
 data-a7300e909e.apps.iocnt.de
-data-a76072cba2.sbz-monteur.de
 data-a764ba99aa.das-pta-magazin.de
 data-a77fb9b63f.osthessen-news.de
 data-a7a8261f38.apps.iocnt.de
@@ -1593,7 +1588,6 @@ data-b640a0ce46.connect.de
 data-b640a0ce46.wmp-dev.de
 data-b71e59c9ac.servus.com
 data-b7311f797c.fnweb.de
-data-b7489be2ae.radiotop40.de
 data-b784e2dbb0.echo24.de
 data-b7d0b4217b.autoscout24.bg
 data-b7d0b4217b.autoscout24.com
@@ -1848,7 +1842,6 @@ data-d6485d3579.playboy.de
 data-d67a03d16c.meintophotel.de
 data-d687fc47c0.11freunde.de
 data-d69d9a5415.aachen.de
-data-d6a989bf01.kl-magazin.de
 data-d6b0abd16f.apps.iocnt.de
 data-d6e13c60e8.orf.at
 data-d708c3c3bc.freizeit.at
@@ -1920,7 +1913,6 @@ data-e0cdc680c2.kurier.at
 data-e0e7873b34.stadtbibliothek-schwerin.de
 data-e124ae3cf1.apps.iocnt.de
 data-e159daf928.obermain.de
-data-e16817998e.apps.iocnt.de
 data-e16c65ad3c.antennevorarlberg.at
 data-e18f7c3e0e.bib.dormagen.de
 data-e208ca4264.uci-kinowelt.de
@@ -2047,7 +2039,6 @@ data-f16abe2047.daskochrezept.de
 data-f19e72ba06.dmax.de
 data-f1c47705fc.elite-magazin.de
 data-f1c47705fc.profi.de
-data-f1c47705fc.rimondo.com
 data-f1c47705fc.susonline.de
 data-f1c47705fc.topagrar.com
 data-f1c47705fc.topagrar.de
@@ -2135,6 +2126,7 @@ data-f1e447fbcf.wetterauer-zeitung.de
 data-f1e447fbcf.wiesn.bayern
 data-f1e447fbcf.wlz-online.de
 data-f23d588bea.hamburg.de
+data-f25fa5345b.xn--sterreich-z7a.at
 data-f27acaf339.haustechnikdialog.de
 data-f2fef0ab45.rhoenundsaalepost.de
 data-f2fef0ab45.rhoenundstreubote.de
@@ -2234,6 +2226,7 @@ data-f59db3288b.wasserburg24.de
 data-f59db3288b.webnachrichten.de
 data-f59db3288b.werra-rundschau.de
 data-f59db3288b.wetterauer-zeitung.de
+data-f59db3288b.wiesn.bayern
 data-f59db3288b.wlz-online.de
 data-f5a3ba920c.pta-forum.de
 data-f5c51bd5b5.apps.iocnt.de

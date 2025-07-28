@@ -773,7 +773,6 @@
 | polarbear.codeday.org | deprecated-custom-domains.b-cdn.net |
 | polarbear.conermurphy.com | deprecated-custom-domains.b-cdn.net |
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
-| porcupine.reminyborg.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.azettl.net | deprecated-custom-domains.b-cdn.net |
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
 | porpoise.kristinholl.com | deprecated-custom-domains.b-cdn.net |

@@ -87,6 +87,7 @@
 ||utiq.computerbild.de^
 ||utiq.computerfrage.net^
 ||utiq.comunidadmsm.es^
+||utiq.corsematin.com^
 ||utiq.courrier-picard.fr^
 ||utiq.cuerpomente.com^
 ||utiq.cuisineactuelle.fr^
@@ -151,6 +152,7 @@
 ||utiq.fitbook.de^
 ||utiq.fnp.de^
 ||utiq.focus.de^
+||utiq.foodblog.it^
 ||utiq.football.fr^
 ||utiq.football365.fr^
 ||utiq.fr.de^
@@ -322,6 +324,7 @@
 ||utiq.paris-normandie.fr^
 ||utiq.paroledemamans.com^
 ||utiq.pcgames.de^
+||utiq.pcgameshardware.de^
 ||utiq.petbook-magazine.com^
 ||utiq.petbook.de^
 ||utiq.petitbleu.fr^

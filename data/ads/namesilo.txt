@@ -355,6 +355,7 @@
 ||3362426.notify6.com^
 ||3362426.notifysrv.com^
 ||3363688.notify6.com^
+||3364178.notify6.com^
 ||3364366.notify6.com^
 ||3364638.notify6.com^
 ||3365442.notifysrv.com^
@@ -1215,6 +1216,7 @@
 ||5571074.notify6.com^
 ||5602.notify.optimizesrv.com^
 ||5606578.notify6.com^
+||5617898.notify6.com^
 ||577.notify.optimizesrv.com^
 ||583.notify.optimizesrv.com^
 ||589.notify.optimizesrv.com^
@@ -1239,13 +1241,11 @@
 ||993.notify.optimizesrv.com^
 ||_sip._tcp.meet.3393147.notifysrv.com^
 ||_sips._tcp.3323174.notifysrv.com^
-||a.18ramp.com^
 ||a.adsession.com^
 ||a.advantageclicks.net^
 ||a.advertrek.com^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
-||a.bizonads-ssp.com^
 ||a.cant3am.com^
 ||a.eunow4u.com^
 ||a.golhofer.com^
@@ -1256,8 +1256,6 @@
 ||a.optimizesrv.com^
 ||a.playa.to^
 ||a.q88z1s3.com^
-||a.rocoads.net^
-||a.santabrowser.com^
 ||a.tf4srv.com^
 ||a.vws4brkfst.com^
 ||abc.notifysrv.com^
@@ -1279,7 +1277,6 @@
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
 ||adrepository.opoxv.com^
-||ads.optimizesrv.com^
 ||ads.toroadvertising.com^
 ||adult.notifysrv.com^
 ||android.notifysrv.com^
@@ -1358,6 +1355,7 @@
 ||rtb.exoclick.com^
 ||rtb.nowsrv.com^
 ||rtb.optidigital.com^
+||rtb.traffic-gold.com^
 ||rtb.trafficfactory.com^
 ||s.18ramp.com^
 ||s.adnflow.com^
@@ -1392,9 +1390,12 @@
 ||s.dsa8h7.com^
 ||s.dsa9k5.com^
 ||s.dsajir.com^
+||s.dsal8i.com^
 ||s.dsau5u.com^
 ||s.dsb68d.com^
+||s.dsbtnw.com^
 ||s.dsceay.com^
+||s.dsckgc.com^
 ||s.dsd8vc.com^
 ||s.dseb0x.com^
 ||s.dsebx6.com^
@@ -1478,6 +1479,7 @@
 ||s.linkw2g.com^
 ||s.ma3ion.com^
 ||s.magsrv.com^
+||s.makolper.com^
 ||s.n4m5x60.com^
 ||s.naffertop.com^
 ||s.native7.com^
@@ -1684,10 +1686,15 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
+||a.18ramp.com^
 ||a.allureanews.com^
 ||a.asvsm.com^
+||a.bizonads-ssp.com^
 ||a.etology.com^
 ||a.huklop.com^
 ||a.ouzads.com^
 ||a.r8lnet.com^
+||a.rocoads.net^
+||a.santabrowser.com^
 ||a.traffic-gold.com^
+||ads.optimizesrv.com^

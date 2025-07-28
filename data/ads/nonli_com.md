@@ -30,6 +30,7 @@
 | social.agrodistribution.fr | non.li |
 | social.eleveur-laitier.fr | non.li |
 | social.lafranceagricole.fr | non.li |
+| social.terre-net-occasions.fr | non.li |
 | sur.laprovence.com | non.li |
 | l.bienpublic.com | origin.non.li |
 | l.bienpublic.com | origin.non.li |
@@ -92,6 +93,7 @@
 | l.automobile-magazine.fr | tls.non.li |
 | l.autonews.fr | tls.non.li |
 | l.autoplus.fr | tls.non.li |
+| l.be.com | tls.non.li |
 | l.beaute-test.com | tls.non.li |
 | l.beauxarts.com | tls.non.li |
 | l.bfmtv.com | tls.non.li |
@@ -116,6 +118,7 @@
 | l.diverto.tv | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
 | l.dzfoot.com | tls.non.li |
+| l.e-sante.fr | tls.non.li |
 | l.easyvoyage.com | tls.non.li |
 | l.echoancenis.fr | tls.non.li |
 | l.echoduberry.fr | tls.non.li |
@@ -270,6 +273,7 @@
 | mail11.h24.news | tls.non.li |
 | mx3.h24.news | tls.non.li |
 | pop.h24.news | tls.non.li |
+| prod-0.moarty.com | tls.non.li |
 | prod-1.moarty.com | tls.non.li |
 | prod-3.moarty.com | tls.non.li |
 | prod-4.moarty.com | tls.non.li |

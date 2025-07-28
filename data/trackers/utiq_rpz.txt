@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -98,6 +98,7 @@ utiq.compradiccion.com CNAME .
 utiq.computerbild.de CNAME .
 utiq.computerfrage.net CNAME .
 utiq.comunidadmsm.es CNAME .
+utiq.corsematin.com CNAME .
 utiq.courrier-picard.fr CNAME .
 utiq.cuerpomente.com CNAME .
 utiq.cuisineactuelle.fr CNAME .
@@ -162,6 +163,7 @@ utiq.finanzfrage.net CNAME .
 utiq.fitbook.de CNAME .
 utiq.fnp.de CNAME .
 utiq.focus.de CNAME .
+utiq.foodblog.it CNAME .
 utiq.football.fr CNAME .
 utiq.football365.fr CNAME .
 utiq.fr.de CNAME .
@@ -333,6 +335,7 @@ utiq.palladiumhotelgroup.com CNAME .
 utiq.paris-normandie.fr CNAME .
 utiq.paroledemamans.com CNAME .
 utiq.pcgames.de CNAME .
+utiq.pcgameshardware.de CNAME .
 utiq.petbook-magazine.com CNAME .
 utiq.petbook.de CNAME .
 utiq.petitbleu.fr CNAME .

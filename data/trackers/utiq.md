@@ -91,6 +91,7 @@
 | utiq.computerbild.de | frontend.prod.utiq-aws.net |
 | utiq.computerfrage.net | frontend.prod.utiq-aws.net |
 | utiq.comunidadmsm.es | frontend.prod.utiq-aws.net |
+| utiq.corsematin.com | frontend.prod.utiq-aws.net |
 | utiq.courrier-picard.fr | frontend.prod.utiq-aws.net |
 | utiq.cuerpomente.com | frontend.prod.utiq-aws.net |
 | utiq.cuisineactuelle.fr | frontend.prod.utiq-aws.net |
@@ -155,6 +156,7 @@
 | utiq.fitbook.de | frontend.prod.utiq-aws.net |
 | utiq.fnp.de | frontend.prod.utiq-aws.net |
 | utiq.focus.de | frontend.prod.utiq-aws.net |
+| utiq.foodblog.it | frontend.prod.utiq-aws.net |
 | utiq.football.fr | frontend.prod.utiq-aws.net |
 | utiq.football365.fr | frontend.prod.utiq-aws.net |
 | utiq.fr.de | frontend.prod.utiq-aws.net |
@@ -326,6 +328,7 @@
 | utiq.paris-normandie.fr | frontend.prod.utiq-aws.net |
 | utiq.paroledemamans.com | frontend.prod.utiq-aws.net |
 | utiq.pcgames.de | frontend.prod.utiq-aws.net |
+| utiq.pcgameshardware.de | frontend.prod.utiq-aws.net |
 | utiq.petbook-magazine.com | frontend.prod.utiq-aws.net |
 | utiq.petbook.de | frontend.prod.utiq-aws.net |
 | utiq.petitbleu.fr | frontend.prod.utiq-aws.net |

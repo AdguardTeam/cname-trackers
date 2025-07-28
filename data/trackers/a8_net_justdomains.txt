@@ -276,7 +276,6 @@ a8.sharefull.com
 a8.shikaketegami.com
 a8.shikigaku.jp
 a8.shinnihonjisyo.co.jp
-a8.shitsukekun.com
 a8.shizq.store
 a8.shokubun.net
 a8.shop-jp.technogelworld.com
@@ -1451,7 +1450,6 @@ ada8-2.ampleur.jp
 ada8.ampleur.jp
 ads.dandelionchocolate.jp
 af.gmobile.biz
-af.shozankan-shop.com
 af.total-marriage.com
 afcv.champ-shop.com
 affa8.hikkoshi-master.com

@@ -94,6 +94,7 @@
     * h-4vocbmhq.online-metrix.net
     * h-516jl8bt.online-metrix.net
     * h-5176c3mo.online-metrix.net
+    * h-52whdrrv.online-metrix.net
     * h-5g3kt0kj.online-metrix.net
     * h-5h8i3ud8.online-metrix.net
     * h-5nex4pgp.online-metrix.net
@@ -306,6 +307,7 @@
     * h-bscelhtc.online-metrix.net
     * h-bt.online-metrix.net
     * h-btcmgcxc.online-metrix.net
+    * h-btw63imp.online-metrix.net
     * h-budget-mobile.online-metrix.net
     * h-bur3hlrb1.online-metrix.net
     * h-buyfun.online-metrix.net
@@ -415,7 +417,6 @@
     * h-d1kh7jfh.online-metrix.net
     * h-d3tracking.rbc.online-metrix.net
     * h-d43ho3ge.online-metrix.net
-    * h-d5k4yw92.online-metrix.net
     * h-d5xcbob5.online-metrix.net
     * h-d6v9b0b9.online-metrix.net
     * h-dailylook.online-metrix.net
@@ -862,6 +863,7 @@
 | prod-cfcuwi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-citadel.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-comfin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-commonwealth.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-consumers.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cstonefcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-dccuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1008,6 +1010,7 @@
 | svc.ondeck.com.au | h-4vocbmhq.online-metrix.net |
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
 | tm.play.pl | h-5176c3mo.online-metrix.net |
+| content.paydala.com | h-52whdrrv.online-metrix.net |
 | page-format.chase.com | h-5g3kt0kj.online-metrix.net |
 | cfa.advisorchannel.com | h-5h8i3ud8.online-metrix.net |
 | cfa.fidelity.com | h-5h8i3ud8.online-metrix.net |
@@ -1399,6 +1402,11 @@
 | verification.ndtco.com | h-bscelhtc.online-metrix.net |
 | cdn1.thm.panoramainvestor.com.au | h-bt.online-metrix.net |
 | tags.s-dati.com | h-btcmgcxc.online-metrix.net |
+| adprtm53.cartayou.it | h-btw63imp.online-metrix.net |
+| adprtm53.free.at | h-btw63imp.online-metrix.net |
+| adprtm53.gebuhrenfrei.com | h-btw63imp.online-metrix.net |
+| adprtm53.kartegold.de | h-btw63imp.online-metrix.net |
+| adprtm53.xn--gebhrenfrei-vhb.de | h-btw63imp.online-metrix.net |
 | dfp.s-budget-mobile.at | h-budget-mobile.online-metrix.net |
 | app01.cnt.uat.bdo.com.ph | h-bur3hlrb1.online-metrix.net |
 | securecheckout.halloweencostumes.com | h-buyfun.online-metrix.net |
@@ -1558,8 +1566,6 @@
 | content.sportscheck.ch | h-d1kh7jfh.online-metrix.net |
 | d3tracking.rbc.com | h-d3tracking.rbc.online-metrix.net |
 | detect.clearme.com | h-d43ho3ge.online-metrix.net |
-| qtbm.fundourselves.com | h-d5k4yw92.online-metrix.net |
-| qtbm.welendus.com | h-d5k4yw92.online-metrix.net |
 | apicorporativops.portoseguro.com.br | h-d5xcbob5.online-metrix.net |
 | validacionlx.agaval.com | h-d6v9b0b9.online-metrix.net |
 | img.dailylook.com | h-dailylook.online-metrix.net |
@@ -1568,6 +1574,7 @@
 | connect-cert-myfunds.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert-prepaid.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert.account.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
+| connect-cert.briopay.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert.premieraccesscard.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert.walmart.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |

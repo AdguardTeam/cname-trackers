@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,6 +50,7 @@ l.autojournal.fr CNAME .
 l.automobile-magazine.fr CNAME .
 l.autonews.fr CNAME .
 l.autoplus.fr CNAME .
+l.be.com CNAME .
 l.beaute-test.com CNAME .
 l.beauxarts.com CNAME .
 l.bfmtv.com CNAME .
@@ -78,6 +79,7 @@ l.diverto.tv CNAME .
 l.dna.fr CNAME .
 l.doctissimo.fr CNAME .
 l.dzfoot.com CNAME .
+l.e-sante.fr CNAME .
 l.easyvoyage.com CNAME .
 l.echoancenis.fr CNAME .
 l.echoduberry.fr CNAME .
@@ -250,6 +252,7 @@ nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
 poc.warnerbros.fr CNAME .
 pop.h24.news CNAME .
+prod-0.moarty.com CNAME .
 prod-1.moarty.com CNAME .
 prod-3.moarty.com CNAME .
 prod-4.moarty.com CNAME .
@@ -261,6 +264,7 @@ smtp2.h24.news CNAME .
 social.agrodistribution.fr CNAME .
 social.eleveur-laitier.fr CNAME .
 social.lafranceagricole.fr CNAME .
+social.terre-net-occasions.fr CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .
 www.20min.fr CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,8 @@ adat.figyelo.hu CNAME .
 adat.freemail.hu CNAME .
 adat.haon.hu CNAME .
 adat.heol.hu CNAME .
+adat.hevesmegyeihirlap.hu CNAME .
+adat.hirdessemeg.hu CNAME .
 adat.hirtv.hu CNAME .
 adat.ingatlanbazar.hu CNAME .
 adat.jurnalbihorean.ro CNAME .

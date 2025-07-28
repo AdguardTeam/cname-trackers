@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,7 +19,6 @@ acsam-relay.ivwonline.org CNAME .
 data-0034231193.apps.iocnt.de CNAME .
 data-00460c60fa.eurotransport.de CNAME .
 data-004e4e6793.wetter.at CNAME .
-data-007f9d19c8.sbz-monteur.de CNAME .
 data-009c74b736.yesss.at CNAME .
 data-00c4a5bd11.rockland.fm CNAME .
 data-00db6fbb05.yachtrevue.at CNAME .
@@ -396,7 +395,6 @@ data-2ee2564ecd.ariva.de CNAME .
 data-2ef5a47289.6rtl.com CNAME .
 data-2f17ef0d9f.radiovest.de CNAME .
 data-2f559bb09f.apps.iocnt.de CNAME .
-data-2f8cd23f8f.apps.iocnt.de CNAME .
 data-2f9a02e6cd.tga-fachplaner.de CNAME .
 data-30826b1c29.agrarheute.com CNAME .
 data-30866d53e2.eatbetter.de CNAME .
@@ -410,7 +408,6 @@ data-31fbb916a1.erneuerbareenergien.de CNAME .
 data-3212b1cf73.apps.iocnt.de CNAME .
 data-3277c56f96.ingenieur.de CNAME .
 data-3277c56f96.ingenieurstage.de CNAME .
-data-32d8a1e8f7.kl-magazin.de CNAME .
 data-331311c70c.suedkurier.de CNAME .
 data-337242f510.itk-rheinland.de CNAME .
 data-339e8471f1.bau-welt.de CNAME .
@@ -561,8 +558,6 @@ data-463860f007.radiowestfalica.de CNAME .
 data-463860f007.radiowestfalicahilft.de CNAME .
 data-46b11f8fc4.apps.iocnt.de CNAME .
 data-4754325bf6.scinexx.de CNAME .
-data-47bb0d34fe.pharmastellen.jobs CNAME .
-data-47bb0d34fe.pharmazeutische-zeitung.de CNAME .
 data-47e5acc9b9.tophotel.de CNAME .
 data-47ee1b0882.amperlichtspiele.de CNAME .
 data-47ee1b0882.apollo-kino.de CNAME .
@@ -934,7 +929,6 @@ data-650d8068ef.ka-news.de CNAME .
 data-658024863f.industriemagazin.at CNAME .
 data-6590696975.liebenswert-magazin.de CNAME .
 data-6590696975.wunderweib.de CNAME .
-data-65a220e458.diekaelte.de CNAME .
 data-661a70098f.muehlacker-tagblatt.de CNAME .
 data-663387616d.echo24.de CNAME .
 data-663387616d.idcdn.de CNAME .
@@ -1229,6 +1223,7 @@ data-8abe5cc617.bz-ticket.de CNAME .
 data-8abe5cc617.bzflirt.de CNAME .
 data-8abe5cc617.bztrauer.de CNAME .
 data-8abe5cc617.fupa.net CNAME .
+data-8abe5cc617.handwerkjobs-bw.de CNAME .
 data-8abe5cc617.regiojob.de CNAME .
 data-8abe5cc617.schnapp.de CNAME .
 data-8abe5cc617.wohnverdient.de CNAME .
@@ -1338,6 +1333,7 @@ data-98b5a11c9b.radiolippe.de CNAME .
 data-98fb153d3d.ksta.de CNAME .
 data-992b9a20ea.competitionline.com CNAME .
 data-992bb00b0c.messen.de CNAME .
+data-99329e3cb2.bilanz.de CNAME .
 data-99329e3cb2.metal-hammer.de CNAME .
 data-99329e3cb2.musikexpress.de CNAME .
 data-99329e3cb2.rollingstone.de CNAME .
@@ -1471,7 +1467,6 @@ data-a6c3c2bffa.mamiweb.de CNAME .
 data-a6faa6efe2.insuedthueringen.de CNAME .
 data-a6faa6efe2.thueringen-gedenkt.de CNAME .
 data-a7300e909e.apps.iocnt.de CNAME .
-data-a76072cba2.sbz-monteur.de CNAME .
 data-a764ba99aa.das-pta-magazin.de CNAME .
 data-a77fb9b63f.osthessen-news.de CNAME .
 data-a7a8261f38.apps.iocnt.de CNAME .
@@ -1604,7 +1599,6 @@ data-b640a0ce46.connect.de CNAME .
 data-b640a0ce46.wmp-dev.de CNAME .
 data-b71e59c9ac.servus.com CNAME .
 data-b7311f797c.fnweb.de CNAME .
-data-b7489be2ae.radiotop40.de CNAME .
 data-b784e2dbb0.echo24.de CNAME .
 data-b7d0b4217b.autoscout24.bg CNAME .
 data-b7d0b4217b.autoscout24.com CNAME .
@@ -1859,7 +1853,6 @@ data-d6485d3579.playboy.de CNAME .
 data-d67a03d16c.meintophotel.de CNAME .
 data-d687fc47c0.11freunde.de CNAME .
 data-d69d9a5415.aachen.de CNAME .
-data-d6a989bf01.kl-magazin.de CNAME .
 data-d6b0abd16f.apps.iocnt.de CNAME .
 data-d6e13c60e8.orf.at CNAME .
 data-d708c3c3bc.freizeit.at CNAME .
@@ -1931,7 +1924,6 @@ data-e0cdc680c2.kurier.at CNAME .
 data-e0e7873b34.stadtbibliothek-schwerin.de CNAME .
 data-e124ae3cf1.apps.iocnt.de CNAME .
 data-e159daf928.obermain.de CNAME .
-data-e16817998e.apps.iocnt.de CNAME .
 data-e16c65ad3c.antennevorarlberg.at CNAME .
 data-e18f7c3e0e.bib.dormagen.de CNAME .
 data-e208ca4264.uci-kinowelt.de CNAME .
@@ -2058,7 +2050,6 @@ data-f16abe2047.daskochrezept.de CNAME .
 data-f19e72ba06.dmax.de CNAME .
 data-f1c47705fc.elite-magazin.de CNAME .
 data-f1c47705fc.profi.de CNAME .
-data-f1c47705fc.rimondo.com CNAME .
 data-f1c47705fc.susonline.de CNAME .
 data-f1c47705fc.topagrar.com CNAME .
 data-f1c47705fc.topagrar.de CNAME .
@@ -2146,6 +2137,7 @@ data-f1e447fbcf.wetterauer-zeitung.de CNAME .
 data-f1e447fbcf.wiesn.bayern CNAME .
 data-f1e447fbcf.wlz-online.de CNAME .
 data-f23d588bea.hamburg.de CNAME .
+data-f25fa5345b.xn--sterreich-z7a.at CNAME .
 data-f27acaf339.haustechnikdialog.de CNAME .
 data-f2fef0ab45.rhoenundsaalepost.de CNAME .
 data-f2fef0ab45.rhoenundstreubote.de CNAME .
@@ -2245,6 +2237,7 @@ data-f59db3288b.wasserburg24.de CNAME .
 data-f59db3288b.webnachrichten.de CNAME .
 data-f59db3288b.werra-rundschau.de CNAME .
 data-f59db3288b.wetterauer-zeitung.de CNAME .
+data-f59db3288b.wiesn.bayern CNAME .
 data-f59db3288b.wlz-online.de CNAME .
 data-f5a3ba920c.pta-forum.de CNAME .
 data-f5c51bd5b5.apps.iocnt.de CNAME .

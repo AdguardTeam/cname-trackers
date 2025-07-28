@@ -17,6 +17,7 @@
     * at-cddc-actu-juridique-fr-cddc.at-o.net
     * atconnect-npo-nl-cddc.at-o.net
     * ati-sazka-cz-cddc.at-o.net
+    * ati-sazkahry-sk-cddc.at-o.net
     * aud-banque-france-fr-cddc.at-o.net
     * avocado-laprovence-com-cddc.at-o.net
     * avp-labanquepostale-fr-cddc.at-o.net
@@ -115,6 +116,7 @@
 | at-cddc.actu-juridique.fr | at-cddc-actu-juridique-fr-cddc.at-o.net |
 | atconnect.npo.nl | atconnect-npo-nl-cddc.at-o.net |
 | ati.sazka.cz | ati-sazka-cz-cddc.at-o.net |
+| ati.sazkahry.sk | ati-sazkahry-sk-cddc.at-o.net |
 | aud.banque-france.fr | aud-banque-france-fr-cddc.at-o.net |
 | avocado.laprovence.com | avocado-laprovence-com-cddc.at-o.net |
 | avp.labanquepostale.fr | avp-labanquepostale-fr-cddc.at-o.net |

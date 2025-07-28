@@ -158,8 +158,6 @@ affiliate.fapi.cz
 affiliate.fightstuff.cz
 affiliate.fotbalpartner.cz
 affiliate.fotopasti-bunaty.cz
-affiliate.gaymegastore.cz
-affiliate.gaymegastore.eu
 affiliate.geoweb.easy.cz
 affiliate.golfplan.org
 affiliate.growmarket.cz
@@ -237,9 +235,6 @@ affiliate.richardstepan.cz
 affiliate.rixo.cz
 affiliate.rustspolecne.cz
 affiliate.sexshop.cz
-affiliate.sexshop51.cz
-affiliate.sexshop51.eu
-affiliate.sexshop51.sk
 affiliate.siko.cz
 affiliate.smarty.cz
 affiliate.smsticket.cz
@@ -364,6 +359,7 @@ my.top4football.de
 my.top4football.dk
 my.top4football.es
 my.top4football.fi
+my.top4football.hu
 my.top4football.ie
 my.top4run.cz
 my.top4running.at
@@ -429,6 +425,7 @@ partner-affilbox.telly.cz
 partner.2din.cz
 partner.aerium.sk
 partner.aeriumshop.nl
+partner.aeriumshop.pl
 partner.affilbox.com
 partner.affiliateark.com
 partner.airbobags.com
@@ -807,6 +804,7 @@ partneri.ecstatic.cz
 partneri.edibles.eu
 partneri.eduway.cz
 partneri.epiderma.cz
+partneri.eshop.freli.cz
 partneri.eshop.jarkamatuskova.cz
 partneri.espressoenglish.cz
 partneri.evolveo.com

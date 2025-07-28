@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -80,7 +80,6 @@ refer.nzforex.co.nz CNAME .
 refer.offset.com CNAME .
 refer.ofx.com CNAME .
 refer.ooma.com CNAME .
-refer.orientaltrading.com CNAME .
 refer.ozforex.com.au CNAME .
 refer.pageonce.com CNAME .
 refer.paramountsolar.com CNAME .
@@ -136,10 +135,12 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
 em767.forgetrust.com CNAME .
-em7952.dailypay.com CNAME .
 em8561.go2bank.com CNAME .
+em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -631,6 +632,7 @@ share.montgomeryadvertiser.com CNAME .
 share.motivefinancial.com CNAME .
 share.mtntough.com CNAME .
 share.mycarpe.com CNAME .
+share.mycccu.com CNAME .
 share.mycomputercareer.edu CNAME .
 share.myinvestable.com CNAME .
 share.myollie.com CNAME .
@@ -727,7 +729,6 @@ share.sstack.com CNAME .
 share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
 share.stargazette.com CNAME .
-share.statesman.com CNAME .
 share.statesmanjournal.com CNAME .
 share.stockpile.com CNAME .
 share.stopagingnow.com CNAME .
@@ -788,12 +789,10 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
-em225.codecademy.com CNAME .
-em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
+em7952.dailypay.com CNAME .
 em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .

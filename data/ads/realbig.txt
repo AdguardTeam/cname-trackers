@@ -21,6 +21,7 @@
 ||b5.rbighouse.ru^
 ||b6.rbighouse.ru^
 ||b8.rbighouse.ru^
+||b9.rbighouse.ru^
 ||bo.zymorico.store^
 ||cdn.zamunda.ru^
 ||da.zilovaro.ru^
@@ -49,6 +50,7 @@
 ||p.netork.ru^
 ||par.moyslovar.ru^
 ||park.realbig.media^
+||park.wpcodes.org^
 ||po.zolivexo.ru^
 ||push.rabbit.click^
 ||pushche.rabbit.click^

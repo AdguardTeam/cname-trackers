@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -91,6 +91,7 @@ data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
 data.news.juventus.com CNAME .
+data.obermain.de CNAME .
 data.vdi-wissensforum.de CNAME .
 data.velivery.com CNAME .
 data.volksfreund.de CNAME .
@@ -214,6 +215,7 @@ startrekk.flaconi.cz CNAME .
 startrekk.flaconi.dk CNAME .
 startrekk.flaconi.fi CNAME .
 startrekk.flaconi.fr CNAME .
+startrekk.flaconi.it CNAME .
 startrekk.flaconi.nl CNAME .
 startrekk.flaconi.pl CNAME .
 startrekk.flaconi.se CNAME .

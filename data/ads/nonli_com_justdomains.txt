@@ -39,6 +39,7 @@ l.autojournal.fr
 l.automobile-magazine.fr
 l.autonews.fr
 l.autoplus.fr
+l.be.com
 l.beaute-test.com
 l.beauxarts.com
 l.bfmtv.com
@@ -67,6 +68,7 @@ l.diverto.tv
 l.dna.fr
 l.doctissimo.fr
 l.dzfoot.com
+l.e-sante.fr
 l.easyvoyage.com
 l.echoancenis.fr
 l.echoduberry.fr
@@ -239,6 +241,7 @@ nr.lanouvellerepublique.fr
 on.qobuz.com
 poc.warnerbros.fr
 pop.h24.news
+prod-0.moarty.com
 prod-1.moarty.com
 prod-3.moarty.com
 prod-4.moarty.com
@@ -250,6 +253,7 @@ smtp2.h24.news
 social.agrodistribution.fr
 social.eleveur-laitier.fr
 social.lafranceagricole.fr
+social.terre-net-occasions.fr
 sur.corsematin.com
 sur.laprovence.com
 www.20min.fr

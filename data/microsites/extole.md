@@ -71,7 +71,6 @@
     * nvidia-ssl.extole.com
     * offset.extole.com
     * ooma-ssl.extole.com
-    * oriental-trading.extole.com
     * ozforex-au.extole.com
     * ozforex-nz.extole.com
     * ozforex-uk.extole.com
@@ -222,6 +221,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -239,7 +239,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -408,6 +407,7 @@
     * msgcu.extole.io
     * mtntough.extole.io
     * mycarpe.extole.io
+    * mycccu.extole.io
     * mycomputercareer.extole.io
     * myheritage.extole.io
     * myinvestable.extole.io
@@ -522,6 +522,7 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
@@ -551,6 +552,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -769,6 +771,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -798,7 +801,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -927,7 +929,6 @@
 | share.reporternews.com | gannett.extole.io |
 | share.rgj.com | gannett.extole.io |
 | share.stargazette.com | gannett.extole.io |
-| share.statesman.com | gannett.extole.io |
 | share.statesmanjournal.com | gannett.extole.io |
 | share.tallahassee.com | gannett.extole.io |
 | share.tauntongazette.com | gannett.extole.io |
@@ -1102,6 +1103,7 @@
 | refer.msgcu.org | msgcu.extole.io |
 | share.mtntough.com | mtntough.extole.io |
 | share.mycarpe.com | mycarpe.extole.io |
+| share.mycccu.com | mycccu.extole.io |
 | share.mycomputercareer.edu | mycomputercareer.extole.io |
 | refer.myheritagedna.com | myheritage.extole.io |
 | share.myinvestable.com | myinvestable.extole.io |
@@ -1134,7 +1136,6 @@
 | share.openenglish.es | openenglish.extole.io |
 | share.opploans.com | opploans.extole.io |
 | refer.orbitz.com | orbitz.extole.io |
-| refer.orientaltrading.com | oriental-trading.extole.com |
 | share.origins.com | origins.extole.io |
 | share.macsales.com | owc.extole.io |
 | refer.ofx.com | ozforex-au.extole.com |
@@ -1267,6 +1268,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
@@ -1305,6 +1307,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |

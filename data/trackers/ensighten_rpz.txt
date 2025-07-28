@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -122,19 +122,15 @@ assets1.vanz.vero.co.nz CNAME .
 assets1.vero.co.nz CNAME .
 assets1.vero.com.au CNAME .
 attribution.batesfootwear.com CNAME .
-attribution.catfootwear.com CNAME .
 attribution.grasshoppers.com CNAME .
 attribution.hushpuppies.com CNAME .
 attribution.keds.com CNAME .
 attribution.lebara.com CNAME .
 attribution.lendopolis.com CNAME .
-attribution.merrell.com CNAME .
-attribution.saucony.com CNAME .
 attribution.sperry.com CNAME .
 attribution.tescomobile.com CNAME .
 attribution.theworks.co.uk CNAME .
 attribution.tmlewinshirts.eu CNAME .
-attribution.wolverine.com CNAME .
 businessmetrics.syf.com CNAME .
 cm.quest.com CNAME .
 cmp.audi.be CNAME .
@@ -322,12 +318,14 @@ privacy.online.heineken.co.za CNAME .
 privacy.owllabs.com CNAME .
 privacy.pruadviser.co.uk CNAME .
 privacy.sekuremerchants.com CNAME .
+privacy.travelodge.co.uk CNAME .
 privacy.umiloans.com.au CNAME .
 privacy.uwm.com CNAME .
 privacy.zoll.com CNAME .
 privacyconsentmgmt.storable.com CNAME .
 privacymps.merchantprocessorsolutions.com CNAME .
 pulse.delta.com CNAME .
+pulse.funeralaccount.com CNAME .
 pulse.quaero.com CNAME .
 pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .

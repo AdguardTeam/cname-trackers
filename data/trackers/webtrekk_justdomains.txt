@@ -80,6 +80,7 @@ data.mainpost.de
 data.mapp.com
 data.mediaworld.it
 data.news.juventus.com
+data.obermain.de
 data.vdi-wissensforum.de
 data.velivery.com
 data.volksfreund.de
@@ -203,6 +204,7 @@ startrekk.flaconi.cz
 startrekk.flaconi.dk
 startrekk.flaconi.fi
 startrekk.flaconi.fr
+startrekk.flaconi.it
 startrekk.flaconi.nl
 startrekk.flaconi.pl
 startrekk.flaconi.se

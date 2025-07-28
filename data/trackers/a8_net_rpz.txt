@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -287,7 +287,6 @@ a8.sharefull.com CNAME .
 a8.shikaketegami.com CNAME .
 a8.shikigaku.jp CNAME .
 a8.shinnihonjisyo.co.jp CNAME .
-a8.shitsukekun.com CNAME .
 a8.shizq.store CNAME .
 a8.shokubun.net CNAME .
 a8.shop-jp.technogelworld.com CNAME .
@@ -1462,7 +1461,6 @@ ada8-2.ampleur.jp CNAME .
 ada8.ampleur.jp CNAME .
 ads.dandelionchocolate.jp CNAME .
 af.gmobile.biz CNAME .
-af.shozankan-shop.com CNAME .
 af.total-marriage.com CNAME .
 afcv.champ-shop.com CNAME .
 affa8.hikkoshi-master.com CNAME .

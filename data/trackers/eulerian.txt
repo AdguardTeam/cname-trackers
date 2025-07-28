@@ -7,7 +7,6 @@
 ||2efj.economies.cheque-dejeuner.com^
 ||2efj.up.coop^
 ||3esm.consubebe.es^
-||5fm.985fm.ca^
 ||66jo.societegenerale.fr^
 ||6pal.consobaby.com^
 ||6swu.cpa-france.org^
@@ -51,6 +50,7 @@
 ||ar.i-run.fr^
 ||axb4.vivabox.it^
 ||azg1.emalu-store.com^
+||b1n.carabins.umontreal.ca^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -62,7 +62,7 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
-||c0p.cepsum.umontreal.ca^
+||c0i.ckoi.com^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
 ||cbl6.destinia.gt^
@@ -80,6 +80,7 @@
 ||cvi6.destinia.qa^
 ||cyf9.destinia.cl^
 ||d0f.le-dauphin.com^
+||d2u.dauphinquebec.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
 ||deut3.fdj.fr^
@@ -179,13 +180,13 @@
 ||ea.voyage-prive.es^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
-||eat9.thebeat925.ca^
 ||eb.mistermenuiserie.com^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
 ||eit3.destinia.nl^
 ||ek8.voyage-prive.com^
 ||elr.sfr.fr^
+||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.futuroscope.com^
 ||et.sncf.com^
@@ -312,8 +313,6 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
-||nym5c.bonlook.com^
-||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
 ||oae6.carrefour-banque.fr^
@@ -342,7 +341,6 @@
 ||pgt1.voyage-prive.es^
 ||piq4.inseec.education^
 ||pjh7.us.chantelle.com^
-||pk1u.melanielyne.com^
 ||pkc5.hardrockhoteltenerife.com^
 ||pm.pmu.fr^
 ||po.ponant.com^
@@ -376,7 +374,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
-||rwl.tremblant.ca^
+||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sa.lesselectionsskoda.fr^
 ||sa.skoda.fr^
@@ -395,7 +393,6 @@
 ||srm4.destinia.co.no^
 ||ssrlot.lotoquebec.com^
 ||ssy7.destinia.com.ua^
-||su1.les-suites.ca^
 ||t.locasun-vp.fr^
 ||t.locasun.co.uk^
 ||t.locasun.de^
@@ -405,7 +402,6 @@
 ||t.locasun.nl^
 ||t.pmu.fr^
 ||t.voyages-sncf.com^
-||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tdf1.easyviaggio.com^
@@ -480,13 +476,17 @@
 ||zsi7.destinia.do^
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
-||b1n.carabins.umontreal.ca^
-||c0i.ckoi.com^
-||d2u.dauphinquebec.com^
-||erb.tremblant.ca^
+||5fm.985fm.ca^
+||c0p.cepsum.umontreal.ca^
+||eat9.thebeat925.ca^
 ||l2i.qualityinnlevis.com^
-||ry0.rythmefm.com^
+||nym5c.bonlook.com^
+||rwl.tremblant.ca^
+||su1.les-suites.ca^
+||t0y.toyota.ca^
 ||www.mis.tourisme-montreal.org^
 ||yio.tremblant.ca^
 ||ea.mnt.fr^
 ||gi7a.structube.com^
+||nym5c.laura.ca^
+||pk1u.melanielyne.com^

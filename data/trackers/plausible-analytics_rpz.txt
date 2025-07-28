@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -98,7 +98,6 @@ jinx.skullctf.com CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
 l.lilyzhou.com CNAME .
 lkj23jlkajsa.realestate.help CNAME .
-log.rhythmtowers.com CNAME .
 loggychops.paulsmith.site CNAME .
 lytics.findairpods.com CNAME .
 marsupial.roleup.com CNAME .
@@ -834,7 +833,6 @@ stats.wwdcscholars.com CNAME .
 stats.www.agirpourlenvironnement.org CNAME .
 stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
-stats.xn--antnio-dxa.pt CNAME .
 stats.xrechnung.app CNAME .
 stats.zimri.net CNAME .
 statstest.upti.pro CNAME .

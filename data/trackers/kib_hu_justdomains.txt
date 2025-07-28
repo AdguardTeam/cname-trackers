@@ -20,6 +20,8 @@ adat.figyelo.hu
 adat.freemail.hu
 adat.haon.hu
 adat.heol.hu
+adat.hevesmegyeihirlap.hu
+adat.hirdessemeg.hu
 adat.hirtv.hu
 adat.ingatlanbazar.hu
 adat.jurnalbihorean.ro

@@ -27,7 +27,6 @@
     * boringproxy-io.goatcounter.com
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
-    * bwc.goatcounter.com
     * cassie.goatcounter.com
     * celerry.goatcounter.com
     * certidiritti.goatcounter.com
@@ -124,6 +123,7 @@
     * riggraz.goatcounter.com
     * roalgo-arhiva-edu.goatcounter.com
     * rocketgoboom.goatcounter.com
+    * rusz.goatcounter.com
     * ruzickap-github-io.goatcounter.com
     * ryanch.goatcounter.com
     * sanmateo-ca-us-dev-openlawlibrary-us.goatcounter.com
@@ -193,7 +193,6 @@
 | stats.boringproxy.io | boringproxy-io.goatcounter.com |
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
-| analytics.bytewave.net | bwc.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
 | stats.certidiritti.org | certidiritti.goatcounter.com |
@@ -292,6 +291,7 @@
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.roalgo.ro | roalgo-arhiva-edu.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
+| analy.rusz.space | rusz.goatcounter.com |
 | stats-ruzickap-github-io.ruzicka.dev | ruzickap-github-io.goatcounter.com |
 | stats.ryanchmelir.com | ryanch.goatcounter.com |
 | analytics.sanmateo.ca.us.dev.openlawlibrary.us | sanmateo-ca-us-dev-openlawlibrary-us.goatcounter.com |

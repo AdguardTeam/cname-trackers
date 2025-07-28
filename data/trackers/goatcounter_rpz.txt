@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,9 +13,9 @@ $TTL 300
 
 a.50-nuances-octets.fr CNAME .
 anal.sataniskwijt.be CNAME .
+analy.rusz.space CNAME .
 analytics.applycreatures.com CNAME .
 analytics.astuto.io CNAME .
-analytics.bytewave.net CNAME .
 analytics.code.dccouncil.us CNAME .
 analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .

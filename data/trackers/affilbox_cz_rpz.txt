@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -169,8 +169,6 @@ affiliate.fapi.cz CNAME .
 affiliate.fightstuff.cz CNAME .
 affiliate.fotbalpartner.cz CNAME .
 affiliate.fotopasti-bunaty.cz CNAME .
-affiliate.gaymegastore.cz CNAME .
-affiliate.gaymegastore.eu CNAME .
 affiliate.geoweb.easy.cz CNAME .
 affiliate.golfplan.org CNAME .
 affiliate.growmarket.cz CNAME .
@@ -248,9 +246,6 @@ affiliate.richardstepan.cz CNAME .
 affiliate.rixo.cz CNAME .
 affiliate.rustspolecne.cz CNAME .
 affiliate.sexshop.cz CNAME .
-affiliate.sexshop51.cz CNAME .
-affiliate.sexshop51.eu CNAME .
-affiliate.sexshop51.sk CNAME .
 affiliate.siko.cz CNAME .
 affiliate.smarty.cz CNAME .
 affiliate.smsticket.cz CNAME .
@@ -375,6 +370,7 @@ my.top4football.de CNAME .
 my.top4football.dk CNAME .
 my.top4football.es CNAME .
 my.top4football.fi CNAME .
+my.top4football.hu CNAME .
 my.top4football.ie CNAME .
 my.top4run.cz CNAME .
 my.top4running.at CNAME .
@@ -440,6 +436,7 @@ partner-affilbox.telly.cz CNAME .
 partner.2din.cz CNAME .
 partner.aerium.sk CNAME .
 partner.aeriumshop.nl CNAME .
+partner.aeriumshop.pl CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
 partner.airbobags.com CNAME .
@@ -818,6 +815,7 @@ partneri.ecstatic.cz CNAME .
 partneri.edibles.eu CNAME .
 partneri.eduway.cz CNAME .
 partneri.epiderma.cz CNAME .
+partneri.eshop.freli.cz CNAME .
 partneri.eshop.jarkamatuskova.cz CNAME .
 partneri.espressoenglish.cz CNAME .
 partneri.evolveo.com CNAME .

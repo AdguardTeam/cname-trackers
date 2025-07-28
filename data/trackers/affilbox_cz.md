@@ -179,8 +179,6 @@
 | affiliate.fightstuff.cz | cz.affilbox.cz |
 | affiliate.fotbalpartner.cz | cz.affilbox.cz |
 | affiliate.fotopasti-bunaty.cz | cz.affilbox.cz |
-| affiliate.gaymegastore.cz | cz.affilbox.cz |
-| affiliate.gaymegastore.eu | cz.affilbox.cz |
 | affiliate.geoweb.easy.cz | cz.affilbox.cz |
 | affiliate.golfplan.org | cz.affilbox.cz |
 | affiliate.growmarket.cz | cz.affilbox.cz |
@@ -258,9 +256,6 @@
 | affiliate.rixo.cz | cz.affilbox.cz |
 | affiliate.rustspolecne.cz | cz.affilbox.cz |
 | affiliate.sexshop.cz | cz.affilbox.cz |
-| affiliate.sexshop51.cz | cz.affilbox.cz |
-| affiliate.sexshop51.eu | cz.affilbox.cz |
-| affiliate.sexshop51.sk | cz.affilbox.cz |
 | affiliate.siko.cz | cz.affilbox.cz |
 | affiliate.smarty.cz | cz.affilbox.cz |
 | affiliate.smsticket.cz | cz.affilbox.cz |
@@ -385,6 +380,7 @@
 | my.top4football.dk | cz.affilbox.cz |
 | my.top4football.es | cz.affilbox.cz |
 | my.top4football.fi | cz.affilbox.cz |
+| my.top4football.hu | cz.affilbox.cz |
 | my.top4football.ie | cz.affilbox.cz |
 | my.top4run.cz | cz.affilbox.cz |
 | my.top4running.at | cz.affilbox.cz |
@@ -450,6 +446,7 @@
 | partner.2din.cz | cz.affilbox.cz |
 | partner.aerium.sk | cz.affilbox.cz |
 | partner.aeriumshop.nl | cz.affilbox.cz |
+| partner.aeriumshop.pl | cz.affilbox.cz |
 | partner.affilbox.com | cz.affilbox.cz |
 | partner.affiliateark.com | cz.affilbox.cz |
 | partner.airbobags.com | cz.affilbox.cz |
@@ -828,6 +825,7 @@
 | partneri.edibles.eu | cz.affilbox.cz |
 | partneri.eduway.cz | cz.affilbox.cz |
 | partneri.epiderma.cz | cz.affilbox.cz |
+| partneri.eshop.freli.cz | cz.affilbox.cz |
 | partneri.eshop.jarkamatuskova.cz | cz.affilbox.cz |
 | partneri.espressoenglish.cz | cz.affilbox.cz |
 | partneri.evolveo.com | cz.affilbox.cz |

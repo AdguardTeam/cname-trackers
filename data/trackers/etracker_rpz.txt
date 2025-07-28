@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,6 +52,7 @@ em.mittwald.de CNAME .
 estat.edel-kraut.de CNAME .
 estats.globus.de CNAME .
 et.akademie-handel.de CNAME .
+et.alphalas.com CNAME .
 et.corpuls.world CNAME .
 et.dremo.com CNAME .
 et.electronic4you.at CNAME .
@@ -115,6 +116,7 @@ meter.rhinobag.de CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.treudelberg-resort.com CNAME .
+metrics.ultra-med.de CNAME .
 metrics.zaun-star.com CNAME .
 mktg.activemind.legal CNAME .
 monitoring.medizinbedarf.eu CNAME .
@@ -131,6 +133,7 @@ src.vector.com CNAME .
 sst.cannapoli.de CNAME .
 sst.grasrezept-vergleich.de CNAME .
 stat.beetfreunde.de CNAME .
+statistics.bergland.de CNAME .
 statistics.finkhof.de CNAME .
 statistics.fruchtbarewelt.de CNAME .
 stats.die-bibel.de CNAME .
@@ -198,7 +201,6 @@ webcontr.4pace.com CNAME .
 webcontr.aquarius-prolife.com CNAME .
 webcontr.barcodescanner.de CNAME .
 webcontr.baulogistik-online.de CNAME .
-webcontr.bb-verpackungsshop.de CNAME .
 webcontr.bertibuch.de CNAME .
 webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .
@@ -228,7 +230,6 @@ webcontr.naturschutzcenter.de CNAME .
 webcontr.parax.de CNAME .
 webcontr.patrick-wentzel.de CNAME .
 webcontr.pedalbox.com CNAME .
-webcontr.raumharmonisierung.de CNAME .
 webcontr.reisprinzen.de CNAME .
 webcontr.rollytoys.de CNAME .
 webcontr.ryzon.net CNAME .

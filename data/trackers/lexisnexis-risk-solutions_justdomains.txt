@@ -4,6 +4,11 @@
 1of1.skipcash.app
 acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
+adprtm53.cartayou.it
+adprtm53.free.at
+adprtm53.gebuhrenfrei.com
+adprtm53.kartegold.de
+adprtm53.xn--gebhrenfrei-vhb.de
 af.mobile.free.fr
 afm.alphatick.com
 afm.cnthevtmarkets.com
@@ -247,6 +252,7 @@ connect-cert-card.moneynetwork.com
 connect-cert-myfunds.moneynetwork.com
 connect-cert-prepaid.everywherepaycard.com
 connect-cert.account.moneynetwork.com
+connect-cert.briopay.com
 connect-cert.everywherepaycard.com
 connect-cert.premieraccesscard.com
 connect-cert.walmart.everywherepaycard.com
@@ -369,6 +375,7 @@ content.olympus.ao.com
 content.orixbank.co.jp
 content.partycity.ca
 content.paycardsolutions.com
+content.paydala.com
 content.paysend.com
 content.pefcu.com
 content.personifyfinancial.com
@@ -807,6 +814,7 @@ prod-cardinal.chaperone.lumindigitalhosting.com
 prod-cfcuwi.chaperone.lumindigitalhosting.com
 prod-citadel.chaperone.lumindigitalhosting.com
 prod-comfin.chaperone.lumindigitalhosting.com
+prod-commonwealth.chaperone.lumindigitalhosting.com
 prod-consumers.chaperone.lumindigitalhosting.com
 prod-cstonefcu.chaperone.lumindigitalhosting.com
 prod-dccuva.chaperone.lumindigitalhosting.com
@@ -867,8 +875,6 @@ public-check3-at.test.tiaa-cref.org
 public-check3-at.test.tiaa.org
 qfp.intuit.com
 qrimages.qatarairways.com
-qtbm.fundourselves.com
-qtbm.welendus.com
 query.capitalontap.com
 query.capitalontap.es
 r.hokodo.co

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753084809184        ; Serial
+           1753689640229        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -68,9 +68,11 @@ $TTL 300
 0.www.96679950.xyz CNAME .
 0.www.98643801.xyz CNAME .
 0.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+0.www.aroundveinfixed.com CNAME .
 0.www.chainstayornerypsstgeez.com CNAME .
 0.www.cheetahhowevertowardsfrom.com CNAME .
 0.www.dwelllestcatch.com CNAME .
+0.www.foldyahoolestorderly.com CNAME .
 0.www.forrepresentzen.com CNAME .
 0.www.garroteoutlying.com CNAME .
 0.www.gutphewlittleoddly.com CNAME .
@@ -158,9 +160,11 @@ $TTL 300
 1.www.96679950.xyz CNAME .
 1.www.98643801.xyz CNAME .
 1.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+1.www.aroundveinfixed.com CNAME .
 1.www.chainstayornerypsstgeez.com CNAME .
 1.www.cheetahhowevertowardsfrom.com CNAME .
 1.www.dwelllestcatch.com CNAME .
+1.www.foldyahoolestorderly.com CNAME .
 1.www.forrepresentzen.com CNAME .
 1.www.garroteoutlying.com CNAME .
 1.www.gutphewlittleoddly.com CNAME .
@@ -249,9 +253,11 @@ $TTL 300
 2.www.96679950.xyz CNAME .
 2.www.98643801.xyz CNAME .
 2.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+2.www.aroundveinfixed.com CNAME .
 2.www.chainstayornerypsstgeez.com CNAME .
 2.www.cheetahhowevertowardsfrom.com CNAME .
 2.www.dwelllestcatch.com CNAME .
+2.www.foldyahoolestorderly.com CNAME .
 2.www.forrepresentzen.com CNAME .
 2.www.garroteoutlying.com CNAME .
 2.www.gutphewlittleoddly.com CNAME .
@@ -338,9 +344,11 @@ $TTL 300
 3.www.96679950.xyz CNAME .
 3.www.98643801.xyz CNAME .
 3.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+3.www.aroundveinfixed.com CNAME .
 3.www.chainstayornerypsstgeez.com CNAME .
 3.www.cheetahhowevertowardsfrom.com CNAME .
 3.www.dwelllestcatch.com CNAME .
+3.www.foldyahoolestorderly.com CNAME .
 3.www.forrepresentzen.com CNAME .
 3.www.garroteoutlying.com CNAME .
 3.www.gutphewlittleoddly.com CNAME .
@@ -428,9 +436,11 @@ $TTL 300
 4.www.96679950.xyz CNAME .
 4.www.98643801.xyz CNAME .
 4.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+4.www.aroundveinfixed.com CNAME .
 4.www.chainstayornerypsstgeez.com CNAME .
 4.www.cheetahhowevertowardsfrom.com CNAME .
 4.www.dwelllestcatch.com CNAME .
+4.www.foldyahoolestorderly.com CNAME .
 4.www.forrepresentzen.com CNAME .
 4.www.garroteoutlying.com CNAME .
 4.www.gutphewlittleoddly.com CNAME .
@@ -518,9 +528,11 @@ $TTL 300
 5.www.96679950.xyz CNAME .
 5.www.98643801.xyz CNAME .
 5.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+5.www.aroundveinfixed.com CNAME .
 5.www.chainstayornerypsstgeez.com CNAME .
 5.www.cheetahhowevertowardsfrom.com CNAME .
 5.www.dwelllestcatch.com CNAME .
+5.www.foldyahoolestorderly.com CNAME .
 5.www.forrepresentzen.com CNAME .
 5.www.garroteoutlying.com CNAME .
 5.www.gutphewlittleoddly.com CNAME .
@@ -607,9 +619,11 @@ $TTL 300
 6.www.96679950.xyz CNAME .
 6.www.98643801.xyz CNAME .
 6.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+6.www.aroundveinfixed.com CNAME .
 6.www.chainstayornerypsstgeez.com CNAME .
 6.www.cheetahhowevertowardsfrom.com CNAME .
 6.www.dwelllestcatch.com CNAME .
+6.www.foldyahoolestorderly.com CNAME .
 6.www.forrepresentzen.com CNAME .
 6.www.garroteoutlying.com CNAME .
 6.www.gutphewlittleoddly.com CNAME .
@@ -695,9 +709,11 @@ $TTL 300
 7.www.96679950.xyz CNAME .
 7.www.98643801.xyz CNAME .
 7.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+7.www.aroundveinfixed.com CNAME .
 7.www.chainstayornerypsstgeez.com CNAME .
 7.www.cheetahhowevertowardsfrom.com CNAME .
 7.www.dwelllestcatch.com CNAME .
+7.www.foldyahoolestorderly.com CNAME .
 7.www.forrepresentzen.com CNAME .
 7.www.garroteoutlying.com CNAME .
 7.www.gutphewlittleoddly.com CNAME .
@@ -784,9 +800,11 @@ $TTL 300
 8.www.96679950.xyz CNAME .
 8.www.98643801.xyz CNAME .
 8.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+8.www.aroundveinfixed.com CNAME .
 8.www.chainstayornerypsstgeez.com CNAME .
 8.www.cheetahhowevertowardsfrom.com CNAME .
 8.www.dwelllestcatch.com CNAME .
+8.www.foldyahoolestorderly.com CNAME .
 8.www.forrepresentzen.com CNAME .
 8.www.garroteoutlying.com CNAME .
 8.www.gutphewlittleoddly.com CNAME .
@@ -873,9 +891,11 @@ $TTL 300
 9.www.96679950.xyz CNAME .
 9.www.98643801.xyz CNAME .
 9.www.9m-mlvrsosov-qmrl4.xyz CNAME .
+9.www.aroundveinfixed.com CNAME .
 9.www.chainstayornerypsstgeez.com CNAME .
 9.www.cheetahhowevertowardsfrom.com CNAME .
 9.www.dwelllestcatch.com CNAME .
+9.www.foldyahoolestorderly.com CNAME .
 9.www.forrepresentzen.com CNAME .
 9.www.garroteoutlying.com CNAME .
 9.www.gutphewlittleoddly.com CNAME .
@@ -919,14 +939,13 @@ www.07421283.xyz CNAME .
 www.07443488.xyz CNAME .
 www.08256602.xyz CNAME .
 www.08585359.xyz CNAME .
-www.08f8f073.xyz CNAME .
 www.09064654.xyz CNAME .
 www.09284291.xyz CNAME .
 www.09745951.xyz CNAME .
-www.0b43a878.xyz CNAME .
 www.0ul1wlo58s-vu69us-r1u.xyz CNAME .
 www.10288299.xyz CNAME .
 www.10523745.xyz CNAME .
+www.10614305.xyz CNAME .
 www.10753990.xyz CNAME .
 www.11006451.xyz CNAME .
 www.11152646.xyz CNAME .
@@ -961,7 +980,6 @@ www.24c4e333.xyz CNAME .
 www.25381553.xyz CNAME .
 www.27714296.xyz CNAME .
 www.28860928.xyz CNAME .
-www.28d287b9.xyz CNAME .
 www.29662166.xyz CNAME .
 www.29694851.xyz CNAME .
 www.2d979880.xyz CNAME .
@@ -992,7 +1010,6 @@ www.42862874.xyz CNAME .
 www.43113977.xyz CNAME .
 www.44592411.xyz CNAME .
 www.4547u5qms0m2um3rrum2wuo.xyz CNAME .
-www.45496fee.xyz CNAME .
 www.45564736.xyz CNAME .
 www.4602306b.xyz CNAME .
 www.46222568.xyz CNAME .
@@ -1002,7 +1019,6 @@ www.47235645.xyz CNAME .
 www.47296536.xyz CNAME .
 www.47415889.xyz CNAME .
 www.48304789.xyz CNAME .
-www.4863232c.xyz CNAME .
 www.48654012.xyz CNAME .
 www.49333767.xyz CNAME .
 www.49706204.xyz CNAME .
@@ -1014,7 +1030,6 @@ www.4tr3sopq592o7svp1q6mn3.xyz CNAME .
 www.4tuswl47353p4wl8lsk.xyz CNAME .
 www.50873vmk3263-7sk.xyz CNAME .
 www.52517086.xyz CNAME .
-www.526bfd3e.xyz CNAME .
 www.53469662.xyz CNAME .
 www.54019033.xyz CNAME .
 www.54199287.xyz CNAME .
@@ -1025,7 +1040,6 @@ www.57473094.xyz CNAME .
 www.58686728.xyz CNAME .
 www.59202140.xyz CNAME .
 www.59644010.xyz CNAME .
-www.5cc3ac02.xyz CNAME .
 www.5k71-k-t51u8q91otp3.xyz CNAME .
 www.60576949.xyz CNAME .
 www.62241240.xyz CNAME .
@@ -1033,7 +1047,6 @@ www.62842068.xyz CNAME .
 www.64786087.xyz CNAME .
 www.65035033.xyz CNAME .
 www.65122038.xyz CNAME .
-www.656f1ba3.xyz CNAME .
 www.65894140.xyz CNAME .
 www.661kkm40uu6srww1mvso.xyz CNAME .
 www.68261736.xyz CNAME .
@@ -1053,7 +1066,6 @@ www.75485667.xyz CNAME .
 www.75690049.xyz CNAME .
 www.77886044.xyz CNAME .
 www.78161013.xyz CNAME .
-www.7841ffda.xyz CNAME .
 www.78554661.xyz CNAME .
 www.78587924.xyz CNAME .
 www.79391192.xyz CNAME .
@@ -1090,33 +1102,27 @@ www.94782806.xyz CNAME .
 www.95534134.xyz CNAME .
 www.95597529.xyz CNAME .
 www.96679950.xyz CNAME .
-www.97496b9d.xyz CNAME .
 www.98140548.xyz CNAME .
 www.98355134.xyz CNAME .
 www.98383163.xyz CNAME .
 www.98853171.xyz CNAME .
 www.9m-mlvrsosov-qmrl4.xyz CNAME .
-www.a2da0f64.xyz CNAME .
-www.a5d2d040.xyz CNAME .
 www.a908a849.xyz CNAME .
 www.aroundveinfixed.com CNAME .
-www.b0f2f18e.xyz CNAME .
 www.b395bfcd.xyz CNAME .
-www.b70456bf.xyz CNAME .
 www.ba0bf98c.xyz CNAME .
 www.bdec1f37.xyz CNAME .
 www.c2a0076d.xyz CNAME .
-www.ce56df44.xyz CNAME .
 www.chainstayornerypsstgeez.com CNAME .
 www.cheetahhowevertowardsfrom.com CNAME .
 www.d19a122b.xyz CNAME .
-www.dcad1d97.xyz CNAME .
 www.dwelllestcatch.com CNAME .
 www.e652a487.xyz CNAME .
 www.e8e2063b.xyz CNAME .
 www.ea6c0ac4.xyz CNAME .
 www.f54cd504.xyz CNAME .
 www.fe9dc503.xyz CNAME .
+www.foldyahoolestorderly.com CNAME .
 www.forrepresentzen.com CNAME .
 www.garroteoutlying.com CNAME .
 www.gutphewlittleoddly.com CNAME .
