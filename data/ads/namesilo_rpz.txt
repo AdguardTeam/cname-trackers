@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -836,6 +836,7 @@ $TTL 300
 3783123.notifysrv.com CNAME .
 3783125.notifysrv.com CNAME .
 3789593.notify6.com CNAME .
+3789669.notify6.com CNAME .
 3789703.notifysrv.com CNAME .
 3789861.notifysrv.com CNAME .
 3791967.notify6.com CNAME .
@@ -1254,10 +1255,11 @@ _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
-a.advertrek.com CNAME .
 a.b2bstars.com CNAME .
 a.b7q9v8z.com CNAME .
+a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
+a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.golhofer.com CNAME .
 a.ma3ion.com CNAME .
@@ -1267,7 +1269,11 @@ a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
+a.r8lnet.com CNAME .
+a.rocoads.net CNAME .
+a.santabrowser.com CNAME .
 a.tf4srv.com CNAME .
+a.traffic-gold.com CNAME .
 a.vws4brkfst.com CNAME .
 abc.notifysrv.com CNAME .
 accept.notifysrv.com CNAME .
@@ -1369,6 +1375,7 @@ rtb.optidigital.com CNAME .
 rtb.traffic-gold.com CNAME .
 rtb.trafficfactory.com CNAME .
 s.18ramp.com CNAME .
+s.8jfbt5va3r.com CNAME .
 s.adnflow.com CNAME .
 s.adsession.com CNAME .
 s.advantageclicks.net CNAME .
@@ -1407,6 +1414,8 @@ s.dsb68d.com CNAME .
 s.dsbtnw.com CNAME .
 s.dsceay.com CNAME .
 s.dsckgc.com CNAME .
+s.dsczci.com CNAME .
+s.dsd1gy.com CNAME .
 s.dsd8vc.com CNAME .
 s.dseb0x.com CNAME .
 s.dsebx6.com CNAME .
@@ -1482,6 +1491,7 @@ s.eunow4u.com CNAME .
 s.exoqarys.com CNAME .
 s.exv6.com CNAME .
 s.golhofer.com CNAME .
+s.huispol.com CNAME .
 s.huklop.com CNAME .
 s.kafaseju.com CNAME .
 s.linkv3c.com CNAME .
@@ -1698,14 +1708,9 @@ www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 a.18ramp.com CNAME .
+a.advertrek.com CNAME .
 a.allureanews.com CNAME .
 a.asvsm.com CNAME .
-a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
 a.huklop.com CNAME .
 a.ouzads.com CNAME .
-a.r8lnet.com CNAME .
-a.rocoads.net CNAME .
-a.santabrowser.com CNAME .
-a.traffic-gold.com CNAME .
 ads.optimizesrv.com CNAME .

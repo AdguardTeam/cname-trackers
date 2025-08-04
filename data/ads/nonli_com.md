@@ -209,6 +209,7 @@
 | l.medisite.fr | tls.non.li |
 | l.melty.fr | tls.non.li |
 | l.midilibre.fr | tls.non.li |
+| l.minhavida.com.br | tls.non.li |
 | l.modesettravaux.fr | tls.non.li |
 | l.mouv.fr | tls.non.li |
 | l.moviepilot.de | tls.non.li |
@@ -267,6 +268,7 @@
 | l.voici.fr | tls.non.li |
 | l.whatsupdoc-lemag.fr | tls.non.li |
 | l.xataka.com | tls.non.li |
+| l.xataka.com.br | tls.non.li |
 | l.xataka.com.mx | tls.non.li |
 | l.zdnet.fr | tls.non.li |
 | mail10.h24.news | tls.non.li |

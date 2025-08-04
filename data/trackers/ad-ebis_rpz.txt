@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+a.mizkan.co.jp CNAME .
 a9d8e7b6i5s.andgino.jp CNAME .
 aaa.aqualink.tv CNAME .
 aaaa.jawfp2.org CNAME .
@@ -209,6 +210,7 @@ eb.bewithyou.jp CNAME .
 eb.o-b-labo.com CNAME .
 ebis-cname.mirai-japan.co.jp CNAME .
 ebis-tracking.hirakata-skin-clinic.com CNAME .
+ebis-tracking.kawaguchi-keisei.com CNAME .
 ebis-tracking.okinawa-keisei.com CNAME .
 ebis-tracking.shinyokohama-beauty.com CNAME .
 ebis-tracking.tcb-beauty.net CNAME .

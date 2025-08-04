@@ -62,6 +62,7 @@
 ||etd.kramer-online.com^
 ||etd.wackerneusongroup.com^
 ||etd.weidemann.com^
+||etdomain.dorothee-schumacher.com^
 ||etr.cosee.biz^
 ||etr.green-planet-energy.de^
 ||etrac.lodenwalker.com^
@@ -148,7 +149,6 @@
 ||t.canngo.express^
 ||tr.mey-wasserschaden.de^
 ||tr.zuhause-finder.com^
-||tr7593.pollin.de^
 ||track.bauwirtschaft-bw.de^
 ||track.brot-fuer-die-welt.de^
 ||track.dictum-gartenwerkzeug.de^
@@ -226,6 +226,7 @@
 ||webcontr.shirtlabor.de^
 ||webcontr.sienagarden.de^
 ||webcontr.solipac.de^
+||webcontr.sovd-hh.de^
 ||webcontr.splendid-internet.de^
 ||webcontr.stadtwerke-ahrensburg.de^
 ||webcontr.synvia.de^

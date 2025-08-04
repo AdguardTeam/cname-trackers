@@ -169,6 +169,7 @@
 | aphid.nihilnegativum.com | deprecated-custom-domains.b-cdn.net |
 | aphid.polarcop.com | deprecated-custom-domains.b-cdn.net |
 | aphid.smartjournal.no | deprecated-custom-domains.b-cdn.net |
+| aphid.thyself.me | deprecated-custom-domains.b-cdn.net |
 | armadillo.axeneo7.qc.ca | deprecated-custom-domains.b-cdn.net |
 | armadillo.oceandecadenortheastpacific.org | deprecated-custom-domains.b-cdn.net |
 | armadillo.superpeak.dk | deprecated-custom-domains.b-cdn.net |
@@ -317,7 +318,6 @@
 | clownfish.philipkiely.com | deprecated-custom-domains.b-cdn.net |
 | clownfish.wrestlingiq.com | deprecated-custom-domains.b-cdn.net |
 | cockroach.head4work.com.au | deprecated-custom-domains.b-cdn.net |
-| cockroach.no.mortgage | deprecated-custom-domains.b-cdn.net |
 | cod.governmentaladvisory.com | deprecated-custom-domains.b-cdn.net |
 | cod.onemanandhisblog.com | deprecated-custom-domains.b-cdn.net |
 | cod.serverlesslaravelcourse.com | deprecated-custom-domains.b-cdn.net |
@@ -563,7 +563,6 @@
 | kiwi.railway.app | deprecated-custom-domains.b-cdn.net |
 | koala.getslopes.com | deprecated-custom-domains.b-cdn.net |
 | koala.hicks.house | deprecated-custom-domains.b-cdn.net |
-| koala.moontells.com | deprecated-custom-domains.b-cdn.net |
 | koala.mynestbox.co.uk | deprecated-custom-domains.b-cdn.net |
 | koala.readyfive.io | deprecated-custom-domains.b-cdn.net |
 | koi.artsvp.co | deprecated-custom-domains.b-cdn.net |
@@ -683,7 +682,6 @@
 | mouse.seekingtv.com | deprecated-custom-domains.b-cdn.net |
 | mule.caddyserver.com | deprecated-custom-domains.b-cdn.net |
 | mule.pricelessai.com | deprecated-custom-domains.b-cdn.net |
-| muskox.appital.io | deprecated-custom-domains.b-cdn.net |
 | narwhal.bounty.studio | deprecated-custom-domains.b-cdn.net |
 | narwhal.quickbudget.xyz | deprecated-custom-domains.b-cdn.net |
 | newt.javier.dev | deprecated-custom-domains.b-cdn.net |
@@ -1068,6 +1066,7 @@
 | cdn.crsope.com | popcashjs.b-cdn.net |
 | cdn.cryjun.com | popcashjs.b-cdn.net |
 | cdn.dajkq.com | popcashjs.b-cdn.net |
+| cdn.danwosd.cloud | popcashjs.b-cdn.net |
 | cdn.dawplm.com | popcashjs.b-cdn.net |
 | cdn.decpo.xyz | popcashjs.b-cdn.net |
 | cdn.delutza.com | popcashjs.b-cdn.net |

@@ -166,6 +166,7 @@ l.mediapart.fr
 l.medisite.fr
 l.melty.fr
 l.midilibre.fr
+l.minhavida.com.br
 l.modesettravaux.fr
 l.monacomatin.mc
 l.mouv.fr
@@ -232,6 +233,7 @@ l.voici.fr
 l.vosgesmatin.fr
 l.whatsupdoc-lemag.fr
 l.xataka.com
+l.xataka.com.br
 l.xataka.com.mx
 l.zdnet.fr
 mail10.h24.news

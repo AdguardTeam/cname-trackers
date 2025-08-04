@@ -193,7 +193,6 @@
 ||data-16d7ec9a30.zeitungsgruppe-muenster.de^
 ||data-16d7ec9a30.zeitungsgruppe.ms^
 ||data-16d7ec9a30.zgm-auto.de^
-||data-1774ab3b64.connected-events.de^
 ||data-1774ab3b64.fvw.de^
 ||data-1774ab3b64.fvwjobs.de^
 ||data-179369af40.connect-professional.de^
@@ -390,6 +389,7 @@
 ||data-30e91950da.joyn.at^
 ||data-3102d425a1.apps.iocnt.de^
 ||data-311d8c614b.natursteinonline.de^
+||data-31ba81426f.apps.iocnt.de^
 ||data-31c137b707.behindertengerechte-dusche.de^
 ||data-31c137b707.sanitaerjournal.de^
 ||data-31c137b707.wasserenthaertungsanlage-trinkwasser.de^
@@ -1119,7 +1119,6 @@
 ||data-83380557db.nw.de^
 ||data-833e9f9a71.dzonline.de^
 ||data-83d91ea519.bergstraesser-anzeiger.de^
-||data-83d91ea519.deike-online.de^
 ||data-83d91ea519.fnweb.de^
 ||data-83d91ea519.haas-mediengruppe.de^
 ||data-83d91ea519.immomorgen.de^
@@ -1268,6 +1267,7 @@
 ||data-9265b7c6dd.computer-automation.de^
 ||data-927768f668.pharmastellen.jobs^
 ||data-927768f668.pharmazeutische-zeitung.de^
+||data-927768f668.pz-markt.de^
 ||data-927768f668.schaffrath-neuemedien.de^
 ||data-92cc871c16.glaswelt.de^
 ||data-92cf33b2ed.testfaz.net^
@@ -1393,6 +1393,7 @@
 ||data-a01a8a1ba4.giessener-anzeiger.de^
 ||data-a01a8a1ba4.hessen-liebe.de^
 ||data-a01a8a1ba4.hessentoday.de^
+||data-a01a8a1ba4.kreis-anzeiger.de^
 ||data-a01a8a1ba4.lampertheimer-zeitung.de^
 ||data-a01a8a1ba4.lauterbacher-anzeiger.de^
 ||data-a01a8a1ba4.main-spitze.de^
@@ -1521,6 +1522,7 @@
 ||data-ac54d3e2fa.boersenblatt.net^
 ||data-ac6a73462f.apps.iocnt.de^
 ||data-ace3993871.gambelino.de^
+||data-ace3993871.winario.de^
 ||data-ad103030ce.apps.iocnt.de^
 ||data-ad2a62779c.prosiebenmaxx.at^
 ||data-ad8351f80c.outdoor-magazin.com^
@@ -1861,6 +1863,7 @@
 ||data-d8a16b307b.eishockeynews.de^
 ||data-d8a16b307b.idowa.de^
 ||data-d9000a5626.apps.iocnt.de^
+||data-d98f082afe.dmax.de^
 ||data-d9be8dacc3.alpin.de^
 ||data-d9c82db6b2.motor.at^
 ||data-da1d9cc48a.osthessen-news.de^
@@ -2017,6 +2020,7 @@
 ||data-ee807be806.radiohagen.de^
 ||data-ee807be806.radioherne.de^
 ||data-ee807be806.radiokw.de^
+||data-ee807be806.radiooberhausen.de^
 ||data-eea6572f1f.apps.iocnt.de^
 ||data-ef2b66d556.miss.at^
 ||data-ef2df4302f.baumagazin-online.de^

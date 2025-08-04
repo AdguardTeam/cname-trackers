@@ -63,6 +63,7 @@
     * 273363c7-yg5rfhhx.cname.ebis.ne.jp
     * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
     * 27dd2efc-9ztgpdfy.cname.ebis.ne.jp
+    * 282cb784-xxb1vhfo.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
     * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
     * 2cc59598-glhirlqn.cname.ebis.ne.jp
@@ -83,6 +84,7 @@
     * 369ca7dc-xjhet6w1.cname.ebis.ne.jp
     * 3735525f-znrwzwlu.cname.ebis.ne.jp
     * 37fe71c4-kfga9uze.cname.ebis.ne.jp
+    * 38b9eeba-6pusefyf.cname.ebis.ne.jp
     * 3a3d0355-kkto8pe9.cname.ebis.ne.jp
     * 3aa5341b-y4rfthkp.cname.ebis.ne.jp
     * 3b0f7041-5crkmmew.cname.ebis.ne.jp
@@ -414,6 +416,7 @@
 | ebis.sekokan-next.worldcorp-jp.com | 273363c7-yg5rfhhx.cname.ebis.ne.jp |
 | corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
 | c.lypo-c.jp | 27dd2efc-9ztgpdfy.cname.ebis.ne.jp |
+| a.mizkan.co.jp | 282cb784-xxb1vhfo.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
 | ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
 | ebis.lululun.com | 2cc59598-glhirlqn.cname.ebis.ne.jp |
@@ -434,6 +437,7 @@
 | adebis.gfschool.jp | 369ca7dc-xjhet6w1.cname.ebis.ne.jp |
 | sem.tkc-biyou.jp | 3735525f-znrwzwlu.cname.ebis.ne.jp |
 | eb.bewithyou.jp | 37fe71c4-kfga9uze.cname.ebis.ne.jp |
+| ebis-tracking.kawaguchi-keisei.com | 38b9eeba-6pusefyf.cname.ebis.ne.jp |
 | ebis.seibu-k.co.jp | 3a3d0355-kkto8pe9.cname.ebis.ne.jp |
 | campaign-direct.ketsuatsu-taisaku.xyz | 3aa5341b-y4rfthkp.cname.ebis.ne.jp |
 | ac.geechs-job.com | 3b0f7041-5crkmmew.cname.ebis.ne.jp |

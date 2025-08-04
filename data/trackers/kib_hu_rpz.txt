@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -68,4 +68,6 @@ adat.veol.hu CNAME .
 adat.vg.hu CNAME .
 adat.videa.hu CNAME .
 adat.videkize.hu CNAME .
+adat.vitorlazasmagazin.hu CNAME .
+adat.vp7nap.hu CNAME .
 adat.zaol.hu CNAME .

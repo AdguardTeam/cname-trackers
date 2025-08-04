@@ -75,6 +75,7 @@
 | etd.kramer-online.com | customer.etracker.com |
 | etd.wackerneusongroup.com | customer.etracker.com |
 | etd.weidemann.com | customer.etracker.com |
+| etdomain.dorothee-schumacher.com | customer.etracker.com |
 | etr.cosee.biz | customer.etracker.com |
 | etr.green-planet-energy.de | customer.etracker.com |
 | etrac.lodenwalker.com | customer.etracker.com |
@@ -161,7 +162,6 @@
 | t.canngo.express | customer.etracker.com |
 | tr.mey-wasserschaden.de | customer.etracker.com |
 | tr.zuhause-finder.com | customer.etracker.com |
-| tr7593.pollin.de | customer.etracker.com |
 | track.bauwirtschaft-bw.de | customer.etracker.com |
 | track.brot-fuer-die-welt.de | customer.etracker.com |
 | track.dictum-gartenwerkzeug.de | customer.etracker.com |
@@ -239,6 +239,7 @@
 | webcontr.shirtlabor.de | customer.etracker.com |
 | webcontr.sienagarden.de | customer.etracker.com |
 | webcontr.solipac.de | customer.etracker.com |
+| webcontr.sovd-hh.de | customer.etracker.com |
 | webcontr.splendid-internet.de | customer.etracker.com |
 | webcontr.stadtwerke-ahrensburg.de | customer.etracker.com |
 | webcontr.synvia.de | customer.etracker.com |

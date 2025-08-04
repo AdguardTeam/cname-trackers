@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,7 +71,6 @@ api.metrike.com CNAME .
 banners.cincinnatimagazine.com CNAME .
 banners.geminipub.com CNAME .
 banners.leightonbroadcasting.com CNAME .
-banners.orangecoast.com CNAME .
 brandmovers-delivery.reviveservers.com CNAME .
 by.addrecipes.com CNAME .
 cdn-adv.unionesarda.it CNAME .

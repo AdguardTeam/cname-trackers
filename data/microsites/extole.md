@@ -221,7 +221,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -431,6 +430,7 @@
     * onxmaps.extole.io
     * openenglish.extole.io
     * opploans.extole.io
+    * optimum.extole.io
     * orbitz.extole.io
     * origins.extole.io
     * owc.extole.io
@@ -479,6 +479,7 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
+    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -498,7 +499,6 @@
     * saucony.extole.io
     * savers.extole.io
     * seabourn.extole.io
-    * servicechannel.extole.io
     * sesamecare.extole.io
     * shark-clean.extole.io
     * shibumishade.extole.io
@@ -522,7 +522,6 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
@@ -552,7 +551,6 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
-    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -634,6 +632,7 @@
 | share.advanceamerica.net | advanceamerica.extole.io |
 | share.adventurecu.org | adventurecu.extole.io |
 | share.aeropostale.com | aeropostale.extole.com |
+| share.affinityfcu.com | affinityfcu.extole.io |
 | share.affinityfcu.org | affinityfcu.extole.io |
 | share.ahs.com | ahs-proconnect.extole.io |
 | refer.ahsfriends.com | ahs.extole.com |
@@ -771,7 +770,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -1135,6 +1133,7 @@
 | share.openenglish.com.tr | openenglish.extole.io |
 | share.openenglish.es | openenglish.extole.io |
 | share.opploans.com | opploans.extole.io |
+| refer.optimum.com | optimum.extole.io |
 | refer.orbitz.com | orbitz.extole.io |
 | share.origins.com | origins.extole.io |
 | share.macsales.com | owc.extole.io |
@@ -1207,6 +1206,7 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
+| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1236,7 +1236,6 @@
 | share.fundrive.savers.com | savers.extole.io |
 | refer.seabourn.com | seabourn.extole.io |
 | refer.seniorhelpers.com | seniorhelpers.extole.com |
-| referral.servicechannel.com | servicechannel.extole.io |
 | share.sesamecare.com | sesamecare.extole.io |
 | friend.sharefile.com | sharefile-ssl.extole.com |
 | refer.sharkclean.com | shark-clean.extole.io |
@@ -1268,7 +1267,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
@@ -1307,7 +1305,6 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
-| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |

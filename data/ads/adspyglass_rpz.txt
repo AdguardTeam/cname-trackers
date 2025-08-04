@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+091kdjn7.xyz CNAME .
 09qin0pc.xyz CNAME .
 0i.sh-cdn.com CNAME .
 0zj2a0bg.xyz CNAME .
@@ -176,6 +177,7 @@ a.kreps.xyz CNAME .
 a.letsjerk.tv CNAME .
 a.lewxi.online CNAME .
 a.maturepussyporn.net CNAME .
+a.moninas.store CNAME .
 a.mysalo.store CNAME .
 a.mystr1.xyz CNAME .
 a.ninase.sbs CNAME .
@@ -241,7 +243,6 @@ ads.pornharlot.net CNAME .
 ads.sexvideos.rodeo CNAME .
 ads.tabuflix.com CNAME .
 ads.wetpussy.sexy CNAME .
-adservb.com CNAME .
 adservc.com CNAME .
 adservg.com CNAME .
 adservh.com CNAME .
@@ -258,9 +259,9 @@ akm3w.pleasedonotblockme.com CNAME .
 alalos.com CNAME .
 alaoena.xyz CNAME .
 alextheafrican.hubhubhub.name CNAME .
-alkosalvb.filasofighit.com CNAME .
 am.justtube.net CNAME .
 analytics-uat.bloblohub.com CNAME .
+analytics.bloblohub.com CNAME .
 anmq6by5.xyz CNAME .
 antiadblock.info CNAME .
 anun.comicsarmy.com CNAME .
@@ -453,7 +454,6 @@ cdn3.hentaihand.com CNAME .
 cdn3.hentok.com CNAME .
 cdn3.r34comix.com CNAME .
 cdn5.cartoonporn.to CNAME .
-cdrrvlkew.filasofighit.com CNAME .
 changeable1x.xyz CNAME .
 changejav128.fun CNAME .
 chlziaue.xyz CNAME .
@@ -468,6 +468,7 @@ colonyjav182.fun CNAME .
 comedyjav128.fun CNAME .
 compensation423.fun CNAME .
 complication423.fun CNAME .
+concession072925.shop CNAME .
 continuation423.fun CNAME .
 conuber.getyoursafelink.com CNAME .
 cool.gaygo.tv CNAME .
@@ -488,7 +489,6 @@ d.seksohub.com CNAME .
 d1mahjlm.xyz CNAME .
 daldk.com CNAME .
 dash.bloblohub.com CNAME .
-daswercd.filasofighit.com CNAME .
 data.bangtubevideos.com CNAME .
 data.streamtape.com CNAME .
 dca-ems.hubhubhub.name CNAME .
@@ -499,6 +499,7 @@ deckjav11.fun CNAME .
 defeat05032026.shop CNAME .
 delete05032026.shop CNAME .
 deliver.vkcdnservice.com CNAME .
+democratic072925.shop CNAME .
 denialjav128.fun CNAME .
 departjavgg124.fun CNAME .
 dev-reporting.bloblohub.com CNAME .
@@ -508,6 +509,7 @@ development-.bloblohub.com CNAME .
 development-viz.bloblohub.com CNAME .
 dieadi.com CNAME .
 dinejav11.fun CNAME .
+discourage072925.shop CNAME .
 dl.love4porn.com CNAME .
 domineering1x.xyz CNAME .
 dore.new-indian-porn.com CNAME .
@@ -584,7 +586,6 @@ gay.trkpop.click CNAME .
 gff660fg.xyz CNAME .
 ghtry.amateurswild.com CNAME .
 go.ero-vtuber.com CNAME .
-go.paynk.me CNAME .
 go.showmeyouradsnow.com CNAME .
 goallbest.com CNAME .
 goofy1x.xyz CNAME .
@@ -601,6 +602,7 @@ gui789.xyz CNAME .
 guitarjavgg124.fun CNAME .
 gutterjavgg124.fun CNAME .
 gx0.funfuckmovies.com CNAME .
+gyimie.womaametoto.xyz CNAME .
 h.bloblohub.com CNAME .
 h037n.letsporn.com CNAME .
 h4o565egjgi0v4bz.hubhubhub.name CNAME .
@@ -682,6 +684,7 @@ jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
 jo.lesbianbliss.com CNAME .
 jo.transhero.com CNAME .
+jordan.qunis.ru CNAME .
 js.allporncomic.com CNAME .
 js.allporncomix.com CNAME .
 js.cmoa.pro CNAME .
@@ -705,6 +708,7 @@ ki.solujav.my CNAME .
 kimmy.faduz.xyz CNAME .
 kinktsy.com CNAME .
 kliqz.com CNAME .
+kr.sampleperson.site CNAME .
 kra.timbuk.online CNAME .
 ktktkt.ktlasik.space CNAME .
 kuti8iar.xyz CNAME .
@@ -799,6 +803,7 @@ n20dj6rv6ru1qewt.analytics.bloblohub.com CNAME .
 nameoaj.xyz CNAME .
 nbjiwgsm.xyz CNAME .
 nbnrsa.manrec.cc CNAME .
+negligence072925.shop CNAME .
 net.contoscn.com CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
@@ -836,7 +841,6 @@ o313o.com CNAME .
 o911o.com CNAME .
 oeu3it2m.xyz CNAME .
 office1266.fun CNAME .
-ogee.gyimieblockers.biz CNAME .
 ogz4n3ke.xyz CNAME .
 oi.429men.com CNAME .
 oi.fapnado.xxx CNAME .
@@ -852,9 +856,9 @@ oj.transhero.com CNAME .
 ok.fapnow.xxx CNAME .
 ok.forwank.com CNAME .
 ok.transhero.com CNAME .
-okkodoo.com CNAME .
 okoloss.com CNAME .
 one.iugbhsu.com CNAME .
+ontj.com CNAME .
 ooawsxkdrm.club CNAME .
 opus.sexyxxx.biz CNAME .
 oquaysx.club CNAME .
@@ -871,6 +875,8 @@ p.octoads.shop CNAME .
 p.septads.store CNAME .
 p.upskirt.tv CNAME .
 p15-tiktok-ads-us.tiktokcdn1.xyz CNAME .
+p16-tiktok-ads-sg.tiktokcdn1.xyz CNAME .
+p17-tiktok-ads-us.tiktokcdn1.xyz CNAME .
 pacaka.conxxx.pro CNAME .
 pangake.club CNAME .
 pangzz.xyz CNAME .
@@ -939,8 +945,11 @@ px9.nuderedtube.com CNAME .
 pziaix.xyz CNAME .
 q.pairies.site CNAME .
 q.tubetruck.com CNAME .
+qa.hdclips.fun CNAME .
+qa.pleasedonotblockme.com CNAME .
 qiaoxz.xyz CNAME .
 qmogjaezcv.club CNAME .
+qoqv.com CNAME .
 qovua60gue.tubewolf.com CNAME .
 qpwvok0l.xyz CNAME .
 qsdr.mysunnylawn.com CNAME .
@@ -999,7 +1008,6 @@ s.nakedwoman.online CNAME .
 s.neporn.vip CNAME .
 s.oralblow.com CNAME .
 s.playvids.site CNAME .
-s.pornhammer.co CNAME .
 s.remonti.org CNAME .
 s.septed.site CNAME .
 s.thepornfree.me CNAME .
@@ -1051,7 +1059,6 @@ ska.dezna.online CNAME .
 sketchjav182.fun CNAME .
 sky.ijhyugb.com CNAME .
 slabjav12.fun CNAME .
-slacdn.com CNAME .
 slit.lewd.rip CNAME .
 smart.xxxadmin.xyz CNAME .
 snubjav12.fun CNAME .
@@ -1062,6 +1069,7 @@ spy.epornleak.com CNAME .
 spy.sli.ce.it CNAME .
 spyglass.reklamko.pro CNAME .
 spyglass.reklon.net CNAME .
+ssp.asiaflix.net CNAME .
 stacy.hubhubhub.name CNAME .
 starjav11.fun CNAME .
 staticz.hotpornfile.org CNAME .
@@ -1094,6 +1102,7 @@ teza.igraard.xyz CNAME .
 th.milftube.mobi CNAME .
 th.tubetruck.com CNAME .
 thassos.clicknplay.to CNAME .
+thoughtful072925.shop CNAME .
 timberjavgg124.fun CNAME .
 tirejav12.fun CNAME .
 tlv.ui02.com CNAME .
@@ -1135,9 +1144,9 @@ v.septads.store CNAME .
 v1.sellbuy.click CNAME .
 vainjav11.fun CNAME .
 vboiutv.xyz CNAME .
-vd.7vid.net CNAME .
 vergo.ehrydnmdoe.com CNAME .
 versus.filegram.to CNAME .
+vgcustom-ad.xyz CNAME .
 vi1.prettytube.net CNAME .
 vid.prettytube.net CNAME .
 video.streamtape.com CNAME .
@@ -1272,6 +1281,7 @@ store4porn.com CNAME .
 topsexmovs.com CNAME .
 video.cdnako.com CNAME .
 acquaintance213.fun CNAME .
+adservb.com CNAME .
 announcement317.fun CNAME .
 b.getoutfrom.com CNAME .
 civilization474.fun CNAME .

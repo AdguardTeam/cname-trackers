@@ -355,6 +355,7 @@
 ||tr.ebusiness.moethennessy.com^
 ||tr.ecolab-france.fr^
 ||tr.ecologie-shop.espmp-agfr.net^
+||tr.elections.mnt.fr^
 ||tr.elections.simplivote.fr^
 ||tr.em.cdiscount-pro.com^
 ||tr.em.cdiscountpro.com^
@@ -377,6 +378,7 @@
 ||tr.email.mnpaf.fr^
 ||tr.email.nauticexpo.com^
 ||tr.email.pointfranchise.co.uk^
+||tr.email.renaultbank.fr^
 ||tr.email.rs-fr.com^
 ||tr.email.securite-routiere.gouv.fr^
 ||tr.email.solocal.com^
@@ -427,7 +429,6 @@
 ||tr.etravauxpro.fr^
 ||tr.eulerhermes.com^
 ||tr.europe.moethennessy.com^
-||tr.ev001.net^
 ||tr.evenements.inpi.fr^
 ||tr.events-europa-organisation.com^
 ||tr.expresofferte.be^
@@ -765,6 +766,7 @@
 ||tr.news.btob-pro.nl^
 ||tr.news.business-deal.co.uk^
 ||tr.news.c-media.fr^
+||tr.news.camping-vagues-oceanes.com^
 ||tr.news.capfun.com^
 ||tr.news.carrefourspectacles.fr^
 ||tr.news.casino.fr^

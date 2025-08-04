@@ -30,6 +30,7 @@ cdn.clbaf.com
 cdn.crsope.com
 cdn.cryjun.com
 cdn.dajkq.com
+cdn.danwosd.cloud
 cdn.dawplm.com
 cdn.decpo.xyz
 cdn.delutza.com
@@ -209,6 +210,7 @@ ape.smartplanschema.se
 aphid.nihilnegativum.com
 aphid.polarcop.com
 aphid.smartjournal.no
+aphid.thyself.me
 armadillo.axeneo7.qc.ca
 armadillo.oceandecadenortheastpacific.org
 armadillo.superpeak.dk
@@ -357,7 +359,6 @@ clownfish.onvard.de
 clownfish.philipkiely.com
 clownfish.wrestlingiq.com
 cockroach.head4work.com.au
-cockroach.no.mortgage
 cod.governmentaladvisory.com
 cod.onemanandhisblog.com
 cod.serverlesslaravelcourse.com
@@ -603,7 +604,6 @@ kiwi.halostats.app
 kiwi.railway.app
 koala.getslopes.com
 koala.hicks.house
-koala.moontells.com
 koala.mynestbox.co.uk
 koala.readyfive.io
 koi.artsvp.co
@@ -723,7 +723,6 @@ mouse.botreach.co
 mouse.seekingtv.com
 mule.caddyserver.com
 mule.pricelessai.com
-muskox.appital.io
 narwhal.bounty.studio
 narwhal.quickbudget.xyz
 newt.javier.dev

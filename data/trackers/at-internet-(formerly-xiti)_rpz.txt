@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ col.idealista.com CNAME .
 col.idealista.it CNAME .
 col.idealista.pt CNAME .
 col.rentalia.com CNAME .
+col.yaencontre.com CNAME .
 collect.meilleurtaux.com CNAME .
 content.kleinezeitung.at CNAME .
 culture.intermedes.com CNAME .

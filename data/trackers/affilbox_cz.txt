@@ -3,6 +3,7 @@
 ||abox.simpleshop.cz^
 ||aff.faircredit.cz^
 ||aff.pujckajonatan.cz^
+||aff.realwoman.sk^
 ||aff.teshop.cz^
 ||aff.teticka.cz^
 ||aff.winkey.cz^
@@ -67,7 +68,9 @@
 ||affil.supervykon.cz^
 ||affil.svepomoci.cz^
 ||affil.svj-info.cz^
+||affil.swisstoner.cz^
 ||affil.tadytuto.cz^
+||affil.trikator.cz^
 ||affil.triko4u.cz^
 ||affil.unuo.cz^
 ||affil.unuo.sk^
@@ -85,6 +88,7 @@
 ||affilbox.25hodin.cz^
 ||affilbox.andreashop.sk^
 ||affilbox.delibarry.com^
+||affilbox.doglog.cz^
 ||affilbox.gurufinance.cz^
 ||affilbox.imediafile.com^
 ||affilbox.kronikazivota.cz^
@@ -340,7 +344,6 @@
 ||my.top4fitness.com^
 ||my.top4fitness.cz^
 ||my.top4fitness.de^
-||my.top4fitness.dk^
 ||my.top4fitness.es^
 ||my.top4fitness.fi^
 ||my.top4fitness.fr^
@@ -559,7 +562,6 @@
 ||partner.gokids.cz^
 ||partner.gr7.cz^
 ||partner.grandstyl.cz^
-||partner.greenbeast.vip^
 ||partner.gurufinance.cz^
 ||partner.happy-power.cz^
 ||partner.hegesztok-bolt.hu^
@@ -575,7 +577,6 @@
 ||partner.intelligentfood.cz^
 ||partner.investinslovakia.eu^
 ||partner.iodesign.cz^
-||partner.ioznameni.cz^
 ||partner.italier.cz^
 ||partner.izlato24.cz^
 ||partner.jak-na-bolava-zada.cz^

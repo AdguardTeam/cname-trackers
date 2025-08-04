@@ -15,6 +15,7 @@
 ### Rarely active trackers
 
 * 1208818836.rsc.cdn77.org
+* syndication.exdynsrv.com
 
 ## Cloaking domains
 
@@ -35,7 +36,6 @@
 | a.golhofer.com | 1208818836.rsc.cdn77.org |
 | a.huklop.com | 1208818836.rsc.cdn77.org |
 | a.ma3ion.com | 1208818836.rsc.cdn77.org |
-| a.n4m5x60.com | 1208818836.rsc.cdn77.org |
 | a.optimizesrv.com | 1208818836.rsc.cdn77.org |
 | a.ouzads.com | 1208818836.rsc.cdn77.org |
 | a.playa.to | 1208818836.rsc.cdn77.org |
@@ -43,7 +43,6 @@
 | a.r8lnet.com | 1208818836.rsc.cdn77.org |
 | a.rocoads.net | 1208818836.rsc.cdn77.org |
 | a.santabrowser.com | 1208818836.rsc.cdn77.org |
-| a.tf4srv.com | 1208818836.rsc.cdn77.org |
 | a.traffic-gold.com | 1208818836.rsc.cdn77.org |
 | a.vws4brkfst.com | 1208818836.rsc.cdn77.org |
 | ads.optimizesrv.com | 1208818836.rsc.cdn77.org |
@@ -57,6 +56,7 @@
 | rtb.optidigital.com | ka8ing2z.ab1n.net |
 | rtb.traffic-gold.com | ka8ing2z.ab1n.net |
 | rtb.trafficfactory.com | ka8ing2z.ab1n.net |
+| main.exdynsrv.com | syndication.exdynsrv.com |
 | 0gjk78xazs6np76r.notifysrv.com | tk6if76q.ab1n.net |
 | 10.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | 10.notifysrv.com | tk6if76q.ab1n.net |
@@ -881,6 +881,7 @@
 | 3783123.notifysrv.com | tk6if76q.ab1n.net |
 | 3783125.notifysrv.com | tk6if76q.ab1n.net |
 | 3789593.notify6.com | tk6if76q.ab1n.net |
+| 3789669.notify6.com | tk6if76q.ab1n.net |
 | 3789703.notifysrv.com | tk6if76q.ab1n.net |
 | 3789861.notifysrv.com | tk6if76q.ab1n.net |
 | 3791967.notify6.com | tk6if76q.ab1n.net |
@@ -1360,6 +1361,7 @@
 | ricky.notifysrv.com | tk6if76q.ab1n.net |
 | rsc.notifysrv.com | tk6if76q.ab1n.net |
 | s.18ramp.com | tk6if76q.ab1n.net |
+| s.8jfbt5va3r.com | tk6if76q.ab1n.net |
 | s.adnflow.com | tk6if76q.ab1n.net |
 | s.adsession.com | tk6if76q.ab1n.net |
 | s.advantageclicks.net | tk6if76q.ab1n.net |
@@ -1397,6 +1399,8 @@
 | s.dsbtnw.com | tk6if76q.ab1n.net |
 | s.dsceay.com | tk6if76q.ab1n.net |
 | s.dsckgc.com | tk6if76q.ab1n.net |
+| s.dsczci.com | tk6if76q.ab1n.net |
+| s.dsd1gy.com | tk6if76q.ab1n.net |
 | s.dsd8vc.com | tk6if76q.ab1n.net |
 | s.dseb0x.com | tk6if76q.ab1n.net |
 | s.dsebx6.com | tk6if76q.ab1n.net |
@@ -1471,6 +1475,7 @@
 | s.eunow4u.com | tk6if76q.ab1n.net |
 | s.exoqarys.com | tk6if76q.ab1n.net |
 | s.golhofer.com | tk6if76q.ab1n.net |
+| s.huispol.com | tk6if76q.ab1n.net |
 | s.huklop.com | tk6if76q.ab1n.net |
 | s.kafaseju.com | tk6if76q.ab1n.net |
 | s.linkv3c.com | tk6if76q.ab1n.net |
@@ -1686,14 +1691,18 @@
 | www.survey.notifysrv.com | tk6if76q.ab1n.net |
 | s.allureanews.com | tk6if76r.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
+| admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
+| admin.valuemedia-ltd.com | v3j9t5q9.ab1n.net |
+| admin.vrumeads.com | v3j9t5q9.ab1n.net |
 | a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advantageclicks.net | w2u4v9e1.ab1n.net |
-| a.advertrek.com | w2u4v9e1.ab1n.net |
 | a.b2bstars.com | w2u4v9e1.ab1n.net |
 | a.b7q9v8z.com | w2u4v9e1.ab1n.net |
+| a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.cant3am.com | w2u4v9e1.ab1n.net |
+| a.etology.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
 | a.golhofer.com | w2u4v9e1.ab1n.net |
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
@@ -1701,7 +1710,11 @@
 | a.optimizesrv.com | w2u4v9e1.ab1n.net |
 | a.playa.to | w2u4v9e1.ab1n.net |
 | a.q88z1s3.com | w2u4v9e1.ab1n.net |
+| a.r8lnet.com | w2u4v9e1.ab1n.net |
+| a.rocoads.net | w2u4v9e1.ab1n.net |
+| a.santabrowser.com | w2u4v9e1.ab1n.net |
 | a.tf4srv.com | w2u4v9e1.ab1n.net |
+| a.traffic-gold.com | w2u4v9e1.ab1n.net |
 | a.vws4brkfst.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
@@ -1716,6 +1729,8 @@
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.valuemedia-ltd.com | x0xmrxm4.ab1n.net |
+| admin.valuemedia-ltd.com | x0xmrxm4.ab1n.net |
+| admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | adrepository.opoxv.com | x0xmrxm4.ab1n.net |
 | ads.toroadvertising.com | x0xmrxm4.ab1n.net |

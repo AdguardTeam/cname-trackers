@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ gc.acut3.net CNAME .
 gc.gaywu.com CNAME .
 gc.grokhard.com CNAME .
 gc.hausarzt-zentrum-herne.de CNAME .
+gc.leadership.garden CNAME .
 gc.miluchacontraeltabaco.com CNAME .
 gc.mindenugyved.hu CNAME .
 gc.noscirep.com CNAME .
@@ -68,6 +69,7 @@ goatcounter.codinggrace.com CNAME .
 goatcounter.eventgeek.ie CNAME .
 goatcounter.gamecraft.it CNAME .
 goatcounter.irishbornchinese.com CNAME .
+goatcounter.nosae.top CNAME .
 goatcounter.repozitor.com CNAME .
 goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
@@ -129,6 +131,7 @@ stats.johanneswienke.de CNAME .
 stats.jonaslieb.de CNAME .
 stats.k94.ch CNAME .
 stats.kc.ie CNAME .
+stats.konfou.xyz CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
 stats.kwanok.me CNAME .

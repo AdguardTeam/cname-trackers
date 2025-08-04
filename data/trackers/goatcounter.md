@@ -84,6 +84,7 @@
     * kc-ie.goatcounter.com
     * kealper.goatcounter.com
     * koltyakov.goatcounter.com
+    * konfou.goatcounter.com
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
     * kwanok.goatcounter.com
@@ -94,6 +95,7 @@
     * law-tmchippewa-com.goatcounter.com
     * law-umitribe-org.goatcounter.com
     * lco-nsn-us-open-law.goatcounter.com
+    * leadershipgarden.goatcounter.com
     * linerly.goatcounter.com
     * localhosed.goatcounter.com
     * lspeed.goatcounter.com
@@ -111,6 +113,7 @@
     * ngdangtu.goatcounter.com
     * nhimmeo.goatcounter.com
     * niravraval.goatcounter.com
+    * nosae.goatcounter.com
     * noscirep.goatcounter.com
     * novi.goatcounter.com
     * ooo.goatcounter.com
@@ -250,6 +253,7 @@
 | stats.kc.ie | kc-ie.goatcounter.com |
 | count.kealper.com | kealper.goatcounter.com |
 | www.stats.spflow.com | koltyakov.goatcounter.com |
+| stats.konfou.xyz | konfou.goatcounter.com |
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
 | stats.kwanok.me | kwanok.goatcounter.com |
@@ -260,6 +264,7 @@
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
 | analytics.law.umitribe.org | law-umitribe-org.goatcounter.com |
 | analytics.law.lco-nsn.gov | lco-nsn-us-open-law.goatcounter.com |
+| gc.leadership.garden | leadershipgarden.goatcounter.com |
 | stats.linerly.xyz | linerly.goatcounter.com |
 | stats.svc.lol | localhosed.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
@@ -279,6 +284,7 @@
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
 | stats.niravraval.com | niravraval.goatcounter.com |
+| goatcounter.nosae.top | nosae.goatcounter.com |
 | gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |

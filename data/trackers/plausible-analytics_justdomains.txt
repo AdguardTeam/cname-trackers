@@ -45,6 +45,7 @@ analytics.whostheboss.co.uk
 analytics.whotargets.me
 analytics.winter.ink
 analytics.xiloc.net
+analytics.zenleven.nl
 antitracking.owncast.online
 api.digitalpiloten.org
 api.elliehuxtable.com

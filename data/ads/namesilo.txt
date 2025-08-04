@@ -825,6 +825,7 @@
 ||3783123.notifysrv.com^
 ||3783125.notifysrv.com^
 ||3789593.notify6.com^
+||3789669.notify6.com^
 ||3789703.notifysrv.com^
 ||3789861.notifysrv.com^
 ||3791967.notify6.com^
@@ -1243,10 +1244,11 @@
 ||_sips._tcp.3323174.notifysrv.com^
 ||a.adsession.com^
 ||a.advantageclicks.net^
-||a.advertrek.com^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
+||a.bizonads-ssp.com^
 ||a.cant3am.com^
+||a.etology.com^
 ||a.eunow4u.com^
 ||a.golhofer.com^
 ||a.ma3ion.com^
@@ -1256,7 +1258,11 @@
 ||a.optimizesrv.com^
 ||a.playa.to^
 ||a.q88z1s3.com^
+||a.r8lnet.com^
+||a.rocoads.net^
+||a.santabrowser.com^
 ||a.tf4srv.com^
+||a.traffic-gold.com^
 ||a.vws4brkfst.com^
 ||abc.notifysrv.com^
 ||accept.notifysrv.com^
@@ -1358,6 +1364,7 @@
 ||rtb.traffic-gold.com^
 ||rtb.trafficfactory.com^
 ||s.18ramp.com^
+||s.8jfbt5va3r.com^
 ||s.adnflow.com^
 ||s.adsession.com^
 ||s.advantageclicks.net^
@@ -1396,6 +1403,8 @@
 ||s.dsbtnw.com^
 ||s.dsceay.com^
 ||s.dsckgc.com^
+||s.dsczci.com^
+||s.dsd1gy.com^
 ||s.dsd8vc.com^
 ||s.dseb0x.com^
 ||s.dsebx6.com^
@@ -1471,6 +1480,7 @@
 ||s.exoqarys.com^
 ||s.exv6.com^
 ||s.golhofer.com^
+||s.huispol.com^
 ||s.huklop.com^
 ||s.kafaseju.com^
 ||s.linkv3c.com^
@@ -1687,14 +1697,9 @@
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
 ||a.18ramp.com^
+||a.advertrek.com^
 ||a.allureanews.com^
 ||a.asvsm.com^
-||a.bizonads-ssp.com^
-||a.etology.com^
 ||a.huklop.com^
 ||a.ouzads.com^
-||a.r8lnet.com^
-||a.rocoads.net^
-||a.santabrowser.com^
-||a.traffic-gold.com^
 ||ads.optimizesrv.com^

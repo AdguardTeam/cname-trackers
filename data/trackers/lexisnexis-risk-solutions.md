@@ -113,9 +113,7 @@
     * h-69glwtrs.online-metrix.net
     * h-6a6y6kka.online-metrix.net
     * h-6bp8wff7.online-metrix.net
-    * h-6cre91n7.online-metrix.net
     * h-6do2934n.online-metrix.net
-    * h-6e1hqgi3.online-metrix.net
     * h-6ej4o5iw.online-metrix.net
     * h-6fg6rcgd.online-metrix.net
     * h-6i24djkv.online-metrix.net
@@ -140,6 +138,7 @@
     * h-7aid6tml.online-metrix.net
     * h-7bugohi5.online-metrix.net
     * h-7g11ytc6.online-metrix.net
+    * h-7gmzrj2o.online-metrix.net
     * h-7ih7ebik.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
@@ -309,6 +308,7 @@
     * h-btcmgcxc.online-metrix.net
     * h-btw63imp.online-metrix.net
     * h-budget-mobile.online-metrix.net
+    * h-bur3hlrb.online-metrix.net
     * h-bur3hlrb1.online-metrix.net
     * h-buyfun.online-metrix.net
     * h-bw1fkozp.online-metrix.net
@@ -710,6 +710,7 @@
     * h-scb-payments.online-metrix.net
     * h-scdigitalsolutions.online-metrix.net
     * h-scotia.online-metrix.net
+    * h-sdi5m6gi.online-metrix.net
     * h-segpay.online-metrix.net
     * h-sfbli.online-metrix.net
     * h-sheerid.online-metrix.net
@@ -1050,9 +1051,7 @@
 | contents.healthfirst.org | h-69glwtrs.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | device.register.greenlight.com | h-6bp8wff7.online-metrix.net |
-| logln.bancoprimus.pt | h-6cre91n7.online-metrix.net |
 | secure-collector.zen.com | h-6do2934n.online-metrix.net |
-| tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
 | content.affinityfcu.com | h-6ej4o5iw.online-metrix.net |
 | provider-services.openbank.mx | h-6fg6rcgd.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
@@ -1078,6 +1077,7 @@
 | apps.shift.com.au | h-7aid6tml.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
 | business.streetshares.com | h-7g11ytc6.online-metrix.net |
+| content.thebankoflondon.com | h-7gmzrj2o.online-metrix.net |
 | analytics.m10payments.com | h-7ih7ebik.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.royalvegascasino.ca | h-7ij9mii1-a.online-metrix.net |
@@ -1096,6 +1096,7 @@
 | tm.fidelity.asia | h-7t0ghxml.online-metrix.net |
 | contentimage.fretebras.com.br | h-7ubbkvkt.online-metrix.net |
 | info.betway.bg | h-7v30y901.online-metrix.net |
+| info.betway.co.ke | h-7v30y901.online-metrix.net |
 | info.betway.co.mz | h-7v30y901.online-metrix.net |
 | info.betway.co.tz | h-7v30y901.online-metrix.net |
 | info.betway.co.za | h-7v30y901.online-metrix.net |
@@ -1371,7 +1372,6 @@
 | regstat.betfair.es | h-betfair.online-metrix.net |
 | regstat.betfair.it | h-betfair.online-metrix.net |
 | regstat.betfair.ro | h-betfair.online-metrix.net |
-| regstat.betfair.se | h-betfair.online-metrix.net |
 | regstat.dibz.co.uk | h-betfair.online-metrix.net |
 | assessment.nj.betmgm.com | h-betmgm.online-metrix.net |
 | secure.idbank.it | h-bewnb8q4.online-metrix.net |
@@ -1408,6 +1408,7 @@
 | adprtm53.kartegold.de | h-btw63imp.online-metrix.net |
 | adprtm53.xn--gebhrenfrei-vhb.de | h-btw63imp.online-metrix.net |
 | dfp.s-budget-mobile.at | h-budget-mobile.online-metrix.net |
+| app01.cnt.bdo.com.ph | h-bur3hlrb.online-metrix.net |
 | app01.cnt.uat.bdo.com.ph | h-bur3hlrb1.online-metrix.net |
 | securecheckout.halloweencostumes.com | h-buyfun.online-metrix.net |
 | tmxjs.tokyodisneyresort.jp | h-bw1fkozp.online-metrix.net |
@@ -1980,6 +1981,7 @@
 | plr.scb-payments.net | h-scb-payments.online-metrix.net |
 | mobilecontent.projectdrgn.com | h-scdigitalsolutions.online-metrix.net |
 | appschk.scotiabank.com | h-scotia.online-metrix.net |
+| trust.wgiftcard.com | h-sdi5m6gi.online-metrix.net |
 | secure3.segpay.com | h-segpay.online-metrix.net |
 | content.sfbli.com | h-sfbli.online-metrix.net |
 | content.sheerid.com | h-sheerid.online-metrix.net |

@@ -95,6 +95,7 @@ app.saldodipje.nl
 app.uob.co.th
 app.uob.com.my
 app.uob.com.sg
+app01.cnt.bdo.com.ph
 app01.cnt.uat.bdo.com.ph
 app392.gerberlife.com
 applibs.fglife.com
@@ -413,6 +414,7 @@ content.tfbank.at
 content.tfbank.de
 content.tfbank.es
 content.tfbank.it
+content.thebankoflondon.com
 content.usps.com
 content.varetire.org
 content.westcreekfin.com
@@ -669,6 +671,7 @@ imgl2.hardrockcasino.com
 imgs.cdn-btsg.com
 imgs.signifyd.com
 info.betway.bg
+info.betway.co.ke
 info.betway.co.mz
 info.betway.co.tz
 info.betway.co.za
@@ -718,7 +721,6 @@ log.open.investorsbank.com
 log.scanmypost.co.uk
 login-verification.dol.ct.gov
 login.eki-net.com
-logln.bancoprimus.pt
 loyaltyprogram.latam.com
 loyaltyprogram.latamairlines.com
 ls-dp.nj.thelotter.us
@@ -906,7 +908,6 @@ regstat.betfair.com
 regstat.betfair.es
 regstat.betfair.it
 regstat.betfair.ro
-regstat.betfair.se
 regstat.dibz.co.uk
 regstat.paddypower.com
 regstat.skybet.com
@@ -1043,7 +1044,6 @@ tag.unclaimedproperty.alaska.gov
 tag.unclaimedproperty.delaware.gov
 tag.unclaimedproperty.ks.gov
 tag.unclaimedproperty.nd.gov
-tags.3ds.denizbank.at
 tags.api.openaccount.natwest.com
 tags.api.openaccount.rbs.co.uk
 tags.bankline.natwest.com
@@ -1229,6 +1229,7 @@ tprofile.goldmansachs.tech
 tracking.psecu.com
 transactionrisk.cashfree.com
 trust.gyft.com
+trust.wgiftcard.com
 ts04358.picpay.com
 tsaian.verizonwireless.com
 tst-cdna.paymentncb.cofidis.fr

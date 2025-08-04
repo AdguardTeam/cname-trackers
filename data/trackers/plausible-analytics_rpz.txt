@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -56,6 +56,7 @@ analytics.whostheboss.co.uk CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
 analytics.xiloc.net CNAME .
+analytics.zenleven.nl CNAME .
 antitracking.owncast.online CNAME .
 api.digitalpiloten.org CNAME .
 api.elliehuxtable.com CNAME .

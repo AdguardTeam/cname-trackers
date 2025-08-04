@@ -12,6 +12,7 @@
 ||t.clearmaptrck.store^
 ||t.dynatrck.site^
 ||t.instrck.com^
+||t.jetrck.com^
 ||t.loantrck.com^
 ||t.nextrck.website^
 ||t.quicktrck.space^

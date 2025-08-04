@@ -143,7 +143,6 @@
 | a8.gme.co.jp | trck.a8.net |
 | a8.gofood.jp | trck.a8.net |
 | a8.golfland.co.jp | trck.a8.net |
-| a8.goodappeal.site | trck.a8.net |
 | a8.gtm.co.jp | trck.a8.net |
 | a8.guardian-mp.aerial-p.com | trck.a8.net |
 | a8.h-daiya.co.jp | trck.a8.net |
@@ -1317,7 +1316,6 @@
 | a8cv.w2solution.co.jp | trck.a8.net |
 | a8cv.wakan.shop | trck.a8.net |
 | a8cv.wake.fun | trck.a8.net |
-| a8cv.waterenergy.co.jp | trck.a8.net |
 | a8cv.waterserver.co.jp | trck.a8.net |
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |

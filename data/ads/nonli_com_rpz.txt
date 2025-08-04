@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -177,6 +177,7 @@ l.mediapart.fr CNAME .
 l.medisite.fr CNAME .
 l.melty.fr CNAME .
 l.midilibre.fr CNAME .
+l.minhavida.com.br CNAME .
 l.modesettravaux.fr CNAME .
 l.monacomatin.mc CNAME .
 l.mouv.fr CNAME .
@@ -243,6 +244,7 @@ l.voici.fr CNAME .
 l.vosgesmatin.fr CNAME .
 l.whatsupdoc-lemag.fr CNAME .
 l.xataka.com CNAME .
+l.xataka.com.br CNAME .
 l.xataka.com.mx CNAME .
 l.zdnet.fr CNAME .
 mail10.h24.news CNAME .

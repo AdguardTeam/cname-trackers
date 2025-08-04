@@ -381,6 +381,7 @@
 | tr.ebusiness.moethennessy.com | tracking.bp01.net |
 | tr.ecolab-france.fr | tracking.bp01.net |
 | tr.ecologie-shop.espmp-agfr.net | tracking.bp01.net |
+| tr.elections.mnt.fr | tracking.bp01.net |
 | tr.elections.simplivote.fr | tracking.bp01.net |
 | tr.em.cdiscount-pro.com | tracking.bp01.net |
 | tr.em.cdiscountpro.com | tracking.bp01.net |
@@ -403,6 +404,7 @@
 | tr.email.mnpaf.fr | tracking.bp01.net |
 | tr.email.nauticexpo.com | tracking.bp01.net |
 | tr.email.pointfranchise.co.uk | tracking.bp01.net |
+| tr.email.renaultbank.fr | tracking.bp01.net |
 | tr.email.rs-fr.com | tracking.bp01.net |
 | tr.email.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.email.solocal.com | tracking.bp01.net |
@@ -453,7 +455,6 @@
 | tr.etravauxpro.fr | tracking.bp01.net |
 | tr.eulerhermes.com | tracking.bp01.net |
 | tr.europe.moethennessy.com | tracking.bp01.net |
-| tr.ev001.net | tracking.bp01.net |
 | tr.evenements.inpi.fr | tracking.bp01.net |
 | tr.events-europa-organisation.com | tracking.bp01.net |
 | tr.expresofferte.be | tracking.bp01.net |
@@ -791,6 +792,7 @@
 | tr.news.btob-pro.nl | tracking.bp01.net |
 | tr.news.business-deal.co.uk | tracking.bp01.net |
 | tr.news.c-media.fr | tracking.bp01.net |
+| tr.news.camping-vagues-oceanes.com | tracking.bp01.net |
 | tr.news.capfun.com | tracking.bp01.net |
 | tr.news.carrefourspectacles.fr | tracking.bp01.net |
 | tr.news.casino.fr | tracking.bp01.net |

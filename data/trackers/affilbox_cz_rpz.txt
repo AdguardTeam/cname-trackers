@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 abox.simpleshop.cz CNAME .
 aff.faircredit.cz CNAME .
 aff.pujckajonatan.cz CNAME .
+aff.realwoman.sk CNAME .
 aff.teshop.cz CNAME .
 aff.teticka.cz CNAME .
 aff.winkey.cz CNAME .
@@ -78,7 +79,9 @@ affil.stastnavovztahu.sk CNAME .
 affil.supervykon.cz CNAME .
 affil.svepomoci.cz CNAME .
 affil.svj-info.cz CNAME .
+affil.swisstoner.cz CNAME .
 affil.tadytuto.cz CNAME .
+affil.trikator.cz CNAME .
 affil.triko4u.cz CNAME .
 affil.unuo.cz CNAME .
 affil.unuo.sk CNAME .
@@ -96,6 +99,7 @@ affilate.sklep38.cz CNAME .
 affilbox.25hodin.cz CNAME .
 affilbox.andreashop.sk CNAME .
 affilbox.delibarry.com CNAME .
+affilbox.doglog.cz CNAME .
 affilbox.gurufinance.cz CNAME .
 affilbox.imediafile.com CNAME .
 affilbox.kronikazivota.cz CNAME .
@@ -351,7 +355,6 @@ my.top4fitness.bg CNAME .
 my.top4fitness.com CNAME .
 my.top4fitness.cz CNAME .
 my.top4fitness.de CNAME .
-my.top4fitness.dk CNAME .
 my.top4fitness.es CNAME .
 my.top4fitness.fi CNAME .
 my.top4fitness.fr CNAME .
@@ -570,7 +573,6 @@ partner.goelite.club CNAME .
 partner.gokids.cz CNAME .
 partner.gr7.cz CNAME .
 partner.grandstyl.cz CNAME .
-partner.greenbeast.vip CNAME .
 partner.gurufinance.cz CNAME .
 partner.happy-power.cz CNAME .
 partner.hegesztok-bolt.hu CNAME .
@@ -586,7 +588,6 @@ partner.ilprimo.sk CNAME .
 partner.intelligentfood.cz CNAME .
 partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
-partner.ioznameni.cz CNAME .
 partner.italier.cz CNAME .
 partner.izlato24.cz CNAME .
 partner.jak-na-bolava-zada.cz CNAME .

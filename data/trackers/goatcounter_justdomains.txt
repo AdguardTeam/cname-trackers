@@ -37,6 +37,7 @@ gc.acut3.net
 gc.gaywu.com
 gc.grokhard.com
 gc.hausarzt-zentrum-herne.de
+gc.leadership.garden
 gc.miluchacontraeltabaco.com
 gc.mindenugyved.hu
 gc.noscirep.com
@@ -57,6 +58,7 @@ goatcounter.codinggrace.com
 goatcounter.eventgeek.ie
 goatcounter.gamecraft.it
 goatcounter.irishbornchinese.com
+goatcounter.nosae.top
 goatcounter.repozitor.com
 goatcounter.thedave.dev
 goatcounter.thedave.me
@@ -118,6 +120,7 @@ stats.johanneswienke.de
 stats.jonaslieb.de
 stats.k94.ch
 stats.kc.ie
+stats.konfou.xyz
 stats.ksmets.be
 stats.ksr.onl
 stats.kwanok.me

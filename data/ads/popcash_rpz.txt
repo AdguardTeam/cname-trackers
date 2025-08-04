@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,6 +41,7 @@ cdn.clbaf.com CNAME .
 cdn.crsope.com CNAME .
 cdn.cryjun.com CNAME .
 cdn.dajkq.com CNAME .
+cdn.danwosd.cloud CNAME .
 cdn.dawplm.com CNAME .
 cdn.decpo.xyz CNAME .
 cdn.delutza.com CNAME .
@@ -220,6 +221,7 @@ ape.smartplanschema.se CNAME .
 aphid.nihilnegativum.com CNAME .
 aphid.polarcop.com CNAME .
 aphid.smartjournal.no CNAME .
+aphid.thyself.me CNAME .
 armadillo.axeneo7.qc.ca CNAME .
 armadillo.oceandecadenortheastpacific.org CNAME .
 armadillo.superpeak.dk CNAME .
@@ -368,7 +370,6 @@ clownfish.onvard.de CNAME .
 clownfish.philipkiely.com CNAME .
 clownfish.wrestlingiq.com CNAME .
 cockroach.head4work.com.au CNAME .
-cockroach.no.mortgage CNAME .
 cod.governmentaladvisory.com CNAME .
 cod.onemanandhisblog.com CNAME .
 cod.serverlesslaravelcourse.com CNAME .
@@ -614,7 +615,6 @@ kiwi.halostats.app CNAME .
 kiwi.railway.app CNAME .
 koala.getslopes.com CNAME .
 koala.hicks.house CNAME .
-koala.moontells.com CNAME .
 koala.mynestbox.co.uk CNAME .
 koala.readyfive.io CNAME .
 koi.artsvp.co CNAME .
@@ -734,7 +734,6 @@ mouse.botreach.co CNAME .
 mouse.seekingtv.com CNAME .
 mule.caddyserver.com CNAME .
 mule.pricelessai.com CNAME .
-muskox.appital.io CNAME .
 narwhal.bounty.studio CNAME .
 narwhal.quickbudget.xyz CNAME .
 newt.javier.dev CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,7 +140,6 @@ a8.global-mobility-service.com CNAME .
 a8.gme.co.jp CNAME .
 a8.gofood.jp CNAME .
 a8.golfland.co.jp CNAME .
-a8.goodappeal.site CNAME .
 a8.gtm.co.jp CNAME .
 a8.guardian-mp.aerial-p.com CNAME .
 a8.h-daiya.co.jp CNAME .
@@ -1315,7 +1314,6 @@ a8cv.vieon.co.jp CNAME .
 a8cv.w2solution.co.jp CNAME .
 a8cv.wakan.shop CNAME .
 a8cv.wake.fun CNAME .
-a8cv.waterenergy.co.jp CNAME .
 a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .

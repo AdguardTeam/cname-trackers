@@ -72,7 +72,9 @@
 | 0.www.aroundveinfixed.com | ad-shield.cc |
 | 0.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 0.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 0.www.deeplypishtennisscale.com | ad-shield.cc |
 | 0.www.dwelllestcatch.com | ad-shield.cc |
+| 0.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 0.www.foldyahoolestorderly.com | ad-shield.cc |
 | 0.www.forrepresentzen.com | ad-shield.cc |
 | 0.www.garroteoutlying.com | ad-shield.cc |
@@ -92,6 +94,7 @@
 | 0.www.pileevery.com | ad-shield.cc |
 | 0.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 0.www.referenceirresponsible.com | ad-shield.cc |
+| 0.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 0.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 0.www.rundowndeep.com | ad-shield.cc |
 | 0.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -164,7 +167,9 @@
 | 1.www.aroundveinfixed.com | ad-shield.cc |
 | 1.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 1.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 1.www.deeplypishtennisscale.com | ad-shield.cc |
 | 1.www.dwelllestcatch.com | ad-shield.cc |
+| 1.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 1.www.foldyahoolestorderly.com | ad-shield.cc |
 | 1.www.forrepresentzen.com | ad-shield.cc |
 | 1.www.garroteoutlying.com | ad-shield.cc |
@@ -185,6 +190,7 @@
 | 1.www.putridgadzooks.com | ad-shield.cc |
 | 1.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 1.www.referenceirresponsible.com | ad-shield.cc |
+| 1.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 1.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 1.www.rundowndeep.com | ad-shield.cc |
 | 1.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -257,7 +263,9 @@
 | 2.www.aroundveinfixed.com | ad-shield.cc |
 | 2.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 2.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 2.www.deeplypishtennisscale.com | ad-shield.cc |
 | 2.www.dwelllestcatch.com | ad-shield.cc |
+| 2.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 2.www.foldyahoolestorderly.com | ad-shield.cc |
 | 2.www.forrepresentzen.com | ad-shield.cc |
 | 2.www.garroteoutlying.com | ad-shield.cc |
@@ -277,6 +285,7 @@
 | 2.www.pileevery.com | ad-shield.cc |
 | 2.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 2.www.referenceirresponsible.com | ad-shield.cc |
+| 2.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 2.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 2.www.rundowndeep.com | ad-shield.cc |
 | 2.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -348,7 +357,9 @@
 | 3.www.aroundveinfixed.com | ad-shield.cc |
 | 3.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 3.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 3.www.deeplypishtennisscale.com | ad-shield.cc |
 | 3.www.dwelllestcatch.com | ad-shield.cc |
+| 3.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 3.www.foldyahoolestorderly.com | ad-shield.cc |
 | 3.www.forrepresentzen.com | ad-shield.cc |
 | 3.www.garroteoutlying.com | ad-shield.cc |
@@ -368,6 +379,7 @@
 | 3.www.pileevery.com | ad-shield.cc |
 | 3.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 3.www.referenceirresponsible.com | ad-shield.cc |
+| 3.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 3.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 3.www.rundowndeep.com | ad-shield.cc |
 | 3.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -440,7 +452,9 @@
 | 4.www.aroundveinfixed.com | ad-shield.cc |
 | 4.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 4.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 4.www.deeplypishtennisscale.com | ad-shield.cc |
 | 4.www.dwelllestcatch.com | ad-shield.cc |
+| 4.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 4.www.foldyahoolestorderly.com | ad-shield.cc |
 | 4.www.forrepresentzen.com | ad-shield.cc |
 | 4.www.garroteoutlying.com | ad-shield.cc |
@@ -460,6 +474,7 @@
 | 4.www.pileevery.com | ad-shield.cc |
 | 4.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 4.www.referenceirresponsible.com | ad-shield.cc |
+| 4.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 4.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 4.www.rundowndeep.com | ad-shield.cc |
 | 4.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -532,7 +547,9 @@
 | 5.www.aroundveinfixed.com | ad-shield.cc |
 | 5.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 5.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 5.www.deeplypishtennisscale.com | ad-shield.cc |
 | 5.www.dwelllestcatch.com | ad-shield.cc |
+| 5.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 5.www.foldyahoolestorderly.com | ad-shield.cc |
 | 5.www.forrepresentzen.com | ad-shield.cc |
 | 5.www.garroteoutlying.com | ad-shield.cc |
@@ -552,6 +569,7 @@
 | 5.www.pileevery.com | ad-shield.cc |
 | 5.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 5.www.referenceirresponsible.com | ad-shield.cc |
+| 5.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 5.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 5.www.rundowndeep.com | ad-shield.cc |
 | 5.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -623,7 +641,9 @@
 | 6.www.aroundveinfixed.com | ad-shield.cc |
 | 6.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 6.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 6.www.deeplypishtennisscale.com | ad-shield.cc |
 | 6.www.dwelllestcatch.com | ad-shield.cc |
+| 6.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 6.www.foldyahoolestorderly.com | ad-shield.cc |
 | 6.www.forrepresentzen.com | ad-shield.cc |
 | 6.www.garroteoutlying.com | ad-shield.cc |
@@ -643,6 +663,7 @@
 | 6.www.pileevery.com | ad-shield.cc |
 | 6.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 6.www.referenceirresponsible.com | ad-shield.cc |
+| 6.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 6.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 6.www.rundowndeep.com | ad-shield.cc |
 | 6.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -713,7 +734,9 @@
 | 7.www.aroundveinfixed.com | ad-shield.cc |
 | 7.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 7.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 7.www.deeplypishtennisscale.com | ad-shield.cc |
 | 7.www.dwelllestcatch.com | ad-shield.cc |
+| 7.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 7.www.foldyahoolestorderly.com | ad-shield.cc |
 | 7.www.forrepresentzen.com | ad-shield.cc |
 | 7.www.garroteoutlying.com | ad-shield.cc |
@@ -733,6 +756,7 @@
 | 7.www.pileevery.com | ad-shield.cc |
 | 7.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 7.www.referenceirresponsible.com | ad-shield.cc |
+| 7.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 7.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 7.www.rundowndeep.com | ad-shield.cc |
 | 7.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -804,7 +828,9 @@
 | 8.www.aroundveinfixed.com | ad-shield.cc |
 | 8.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 8.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 8.www.deeplypishtennisscale.com | ad-shield.cc |
 | 8.www.dwelllestcatch.com | ad-shield.cc |
+| 8.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 8.www.foldyahoolestorderly.com | ad-shield.cc |
 | 8.www.forrepresentzen.com | ad-shield.cc |
 | 8.www.garroteoutlying.com | ad-shield.cc |
@@ -825,6 +851,7 @@
 | 8.www.pileevery.com | ad-shield.cc |
 | 8.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 8.www.referenceirresponsible.com | ad-shield.cc |
+| 8.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 8.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 8.www.rundowndeep.com | ad-shield.cc |
 | 8.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -895,7 +922,9 @@
 | 9.www.aroundveinfixed.com | ad-shield.cc |
 | 9.www.chainstayornerypsstgeez.com | ad-shield.cc |
 | 9.www.cheetahhowevertowardsfrom.com | ad-shield.cc |
+| 9.www.deeplypishtennisscale.com | ad-shield.cc |
 | 9.www.dwelllestcatch.com | ad-shield.cc |
+| 9.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 9.www.foldyahoolestorderly.com | ad-shield.cc |
 | 9.www.forrepresentzen.com | ad-shield.cc |
 | 9.www.garroteoutlying.com | ad-shield.cc |
@@ -915,6 +944,7 @@
 | 9.www.pileevery.com | ad-shield.cc |
 | 9.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 9.www.referenceirresponsible.com | ad-shield.cc |
+| 9.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 9.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 9.www.rundowndeep.com | ad-shield.cc |
 | 9.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
@@ -960,6 +990,7 @@
 | www.15752525.xyz | ad-shield.cc |
 | www.16211973.xyz | ad-shield.cc |
 | www.16239749.xyz | ad-shield.cc |
+| www.16327739.xyz | ad-shield.cc |
 | www.16972675.xyz | ad-shield.cc |
 | www.17022993.xyz | ad-shield.cc |
 | www.17199874.xyz | ad-shield.cc |
@@ -1115,12 +1146,13 @@
 | www.bdec1f37.xyz | ad-shield.cc |
 | www.c2a0076d.xyz | ad-shield.cc |
 | www.chainstayornerypsstgeez.com | ad-shield.cc |
-| www.cheetahhowevertowardsfrom.com | ad-shield.cc |
 | www.d19a122b.xyz | ad-shield.cc |
+| www.deeplypishtennisscale.com | ad-shield.cc |
 | www.dwelllestcatch.com | ad-shield.cc |
 | www.e652a487.xyz | ad-shield.cc |
 | www.e8e2063b.xyz | ad-shield.cc |
 | www.ea6c0ac4.xyz | ad-shield.cc |
+| www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | www.f54cd504.xyz | ad-shield.cc |
 | www.fe9dc503.xyz | ad-shield.cc |
 | www.foldyahoolestorderly.com | ad-shield.cc |
@@ -1144,6 +1176,7 @@
 | www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | www.referenceirresponsible.com | ad-shield.cc |
 | www.remorsefuldecentmarried.com | ad-shield.cc |
+| www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | www.rundowndeep.com | ad-shield.cc |
 | www.skylinepasttomorrow.com | ad-shield.cc |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -135,12 +135,10 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
-em2287.theory.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
 em767.forgetrust.com CNAME .
 em8561.go2bank.com CNAME .
-em924.refer.starbucks.com CNAME .
+emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -343,6 +341,7 @@ refer.nfhsnetwork.com CNAME .
 refer.nso.com CNAME .
 refer.olehenriksen.com CNAME .
 refer.onxmaps.com CNAME .
+refer.optimum.com CNAME .
 refer.orbitz.com CNAME .
 refer.pacificservice.org CNAME .
 refer.pacsafe.com CNAME .
@@ -458,7 +457,6 @@ referral.cledepeaubeaute.com CNAME .
 referral.drunkelephant.com CNAME .
 referral.lgeccu.org CNAME .
 referral.pellaofdfw.com CNAME .
-referral.servicechannel.com CNAME .
 referral.shiseido.com CNAME .
 referralrewards.brightspeed.com CNAME .
 referrals.lumen.com CNAME .
@@ -473,6 +471,7 @@ share.3riversfcu.org CNAME .
 share.4wheelparts.com CNAME .
 share.advanceamerica.net CNAME .
 share.adventurecu.org CNAME .
+share.affinityfcu.com CNAME .
 share.affinityfcu.org CNAME .
 share.ahs.com CNAME .
 share.algaecal.com CNAME .
@@ -789,12 +788,14 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
 em7952.dailypay.com CNAME .
 em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
-emxxxx.rent.app CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl._domainkey.walmartmoneycard.com CNAME .

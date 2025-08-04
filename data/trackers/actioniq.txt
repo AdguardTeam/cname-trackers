@@ -15,7 +15,6 @@
 ||aiq-in.elle.com^
 ||aiq-in.elledecor.com^
 ||aiq-in.esquire.com^
-||aiq-in.ext.hp.com^
 ||aiq-in.goodhousekeeping.com^
 ||aiq-in.harborfreight.com^
 ||aiq-in.harpersbazaar.com^
@@ -48,6 +47,7 @@
 ||aiqx.travismathew.com^
 ||aiqx.wheeloffortune.com^
 ||aiqx.www.ghostbusters.com^
+||anx-new.beginlearning.com^
 ||anx-new.learnwithhomer.com^
 ||anx-new.littlepassports.com^
 ||anx-staging.learnwithhomer.com^
@@ -92,7 +92,6 @@
 ||meta-events.womensrunning.com^
 ||meta-events.yellowstonepark.com^
 ||mr-in.beginlearning.com^
-||mr-in.littlepassports.com^
 ||mr.pinkbike.com^
-||anx-new.beginlearning.com^
+||mr-in.littlepassports.com^
 ||mr-in-staging.beginlearning.com^

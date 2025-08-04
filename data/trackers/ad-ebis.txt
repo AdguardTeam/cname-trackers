@@ -1,5 +1,6 @@
 !
 ! Company name: AD EBiS
+||a.mizkan.co.jp^
 ||a9d8e7b6i5s.andgino.jp^
 ||aaa.aqualink.tv^
 ||aaaa.jawfp2.org^
@@ -198,6 +199,7 @@
 ||eb.o-b-labo.com^
 ||ebis-cname.mirai-japan.co.jp^
 ||ebis-tracking.hirakata-skin-clinic.com^
+||ebis-tracking.kawaguchi-keisei.com^
 ||ebis-tracking.okinawa-keisei.com^
 ||ebis-tracking.shinyokohama-beauty.com^
 ||ebis-tracking.tcb-beauty.net^

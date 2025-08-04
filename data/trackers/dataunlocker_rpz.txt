@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -131,7 +131,6 @@ tnincvf1d1jl.de.themoneytizer.com CNAME .
 tutbc1.www.tapmyback.com CNAME .
 tzgurwizule3.app.cardahealth.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
-ughs3zr2ofw1.scholarship.tanuki.id CNAME .
 uhd5nn09mgml.fort-shop.kiev.ua CNAME .
 umylynsr9b.quira.sh CNAME .
 ut19suycy9vt.nowyformat.nofluffjobs.com CNAME .

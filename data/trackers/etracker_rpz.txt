@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1753689640229        ; Serial
+           1754294408687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,6 +73,7 @@ et.xenbyte.com CNAME .
 etd.kramer-online.com CNAME .
 etd.wackerneusongroup.com CNAME .
 etd.weidemann.com CNAME .
+etdomain.dorothee-schumacher.com CNAME .
 etr.cosee.biz CNAME .
 etr.green-planet-energy.de CNAME .
 etrac.lodenwalker.com CNAME .
@@ -159,7 +160,6 @@ system.j5media.de CNAME .
 t.canngo.express CNAME .
 tr.mey-wasserschaden.de CNAME .
 tr.zuhause-finder.com CNAME .
-tr7593.pollin.de CNAME .
 track.bauwirtschaft-bw.de CNAME .
 track.brot-fuer-die-welt.de CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
@@ -237,6 +237,7 @@ webcontr.scandtrack.com CNAME .
 webcontr.shirtlabor.de CNAME .
 webcontr.sienagarden.de CNAME .
 webcontr.solipac.de CNAME .
+webcontr.sovd-hh.de CNAME .
 webcontr.splendid-internet.de CNAME .
 webcontr.stadtwerke-ahrensburg.de CNAME .
 webcontr.synvia.de CNAME .

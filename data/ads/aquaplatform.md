@@ -256,7 +256,6 @@
 | www.servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
 | banners.cincinnatimagazine.com | hourmedia-static.aquaplatform.com |
 | banners.geminipub.com | hourmedia-static.aquaplatform.com |
-| banners.orangecoast.com | hourmedia-static.aquaplatform.com |
 | images.hour-media.com | hourmedia-static.aquaplatform.com |
 | www.images.hour-media.com | hourmedia-static.aquaplatform.com |
 | console.insideradverts.com | im-console.aquaplatform.com |

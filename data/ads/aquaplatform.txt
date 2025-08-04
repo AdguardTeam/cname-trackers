@@ -60,7 +60,6 @@
 ||banners.cincinnatimagazine.com^
 ||banners.geminipub.com^
 ||banners.leightonbroadcasting.com^
-||banners.orangecoast.com^
 ||brandmovers-delivery.reviveservers.com^
 ||by.addrecipes.com^
 ||cdn-adv.unionesarda.it^

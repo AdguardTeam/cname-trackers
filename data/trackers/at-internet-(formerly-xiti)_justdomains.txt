@@ -27,6 +27,7 @@ col.idealista.com
 col.idealista.it
 col.idealista.pt
 col.rentalia.com
+col.yaencontre.com
 collect.meilleurtaux.com
 content.kleinezeitung.at
 culture.intermedes.com

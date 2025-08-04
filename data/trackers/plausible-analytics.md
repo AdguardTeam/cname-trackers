@@ -57,6 +57,7 @@
 | analytics.whotargets.me | custom.plausible.io |
 | analytics.winter.ink | custom.plausible.io |
 | analytics.xiloc.net | custom.plausible.io |
+| analytics.zenleven.nl | custom.plausible.io |
 | antitracking.owncast.online | custom.plausible.io |
 | api.digitalpiloten.org | custom.plausible.io |
 | api.elliehuxtable.com | custom.plausible.io |

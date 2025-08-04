@@ -180,7 +180,6 @@
 ||utiq.hbrfrance.fr^
 ||utiq.heftig.de^
 ||utiq.heimatsport.de^
-||utiq.helpster.de^
 ||utiq.hersfelder-zeitung.de^
 ||utiq.hna.de^
 ||utiq.hola.com^

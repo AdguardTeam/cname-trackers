@@ -124,12 +124,10 @@ acq.discover.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em225.codecademy.com
-em2287.theory.com
 em5231.mail.propertyperks.xfinity.com
 em767.forgetrust.com
 em8561.go2bank.com
-em924.refer.starbucks.com
+emxxxx.rent.app
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -332,6 +330,7 @@ refer.nfhsnetwork.com
 refer.nso.com
 refer.olehenriksen.com
 refer.onxmaps.com
+refer.optimum.com
 refer.orbitz.com
 refer.pacificservice.org
 refer.pacsafe.com
@@ -447,7 +446,6 @@ referral.cledepeaubeaute.com
 referral.drunkelephant.com
 referral.lgeccu.org
 referral.pellaofdfw.com
-referral.servicechannel.com
 referral.shiseido.com
 referralrewards.brightspeed.com
 referrals.lumen.com
@@ -462,6 +460,7 @@ share.3riversfcu.org
 share.4wheelparts.com
 share.advanceamerica.net
 share.adventurecu.org
+share.affinityfcu.com
 share.affinityfcu.org
 share.ahs.com
 share.algaecal.com
@@ -778,12 +777,14 @@ www.referquickbooks.com
 www.rob.extoleu.com
 www.styleitforwardreward.com
 em1476.princesscruises.com
+em225.codecademy.com
+em2287.theory.com
 em4367.raf-studentloans.discover.com
 em7147.love.suncoastcreditunion.com
 em7952.dailypay.com
 em8928.em.petco.com
+em924.refer.starbucks.com
 em9523.walmartmoneycard.com
-emxxxx.rent.app
 xtl._domainkey.forgetrust.com
 xtl._domainkey.mail.propertyperks.xfinity.com
 xtl._domainkey.walmartmoneycard.com

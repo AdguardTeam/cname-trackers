@@ -129,7 +129,6 @@
 ||a8.gme.co.jp^
 ||a8.gofood.jp^
 ||a8.golfland.co.jp^
-||a8.goodappeal.site^
 ||a8.gtm.co.jp^
 ||a8.guardian-mp.aerial-p.com^
 ||a8.h-daiya.co.jp^
@@ -1304,7 +1303,6 @@
 ||a8cv.w2solution.co.jp^
 ||a8cv.wakan.shop^
 ||a8cv.wake.fun^
-||a8cv.waterenergy.co.jp^
 ||a8cv.waterserver.co.jp^
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
