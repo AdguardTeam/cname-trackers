@@ -1218,6 +1218,7 @@
 ||5602.notify.optimizesrv.com^
 ||5606578.notify6.com^
 ||5617898.notify6.com^
+||5680316.notify6.com^
 ||577.notify.optimizesrv.com^
 ||583.notify.optimizesrv.com^
 ||589.notify.optimizesrv.com^
@@ -1242,11 +1243,11 @@
 ||993.notify.optimizesrv.com^
 ||_sip._tcp.meet.3393147.notifysrv.com^
 ||_sips._tcp.3323174.notifysrv.com^
+||a.8jfbt5va3r.com^
 ||a.adsession.com^
 ||a.advantageclicks.net^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
-||a.bizonads-ssp.com^
 ||a.cant3am.com^
 ||a.etology.com^
 ||a.eunow4u.com^
@@ -1258,7 +1259,6 @@
 ||a.optimizesrv.com^
 ||a.playa.to^
 ||a.q88z1s3.com^
-||a.r8lnet.com^
 ||a.rocoads.net^
 ||a.santabrowser.com^
 ||a.tf4srv.com^
@@ -1283,6 +1283,7 @@
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
 ||adrepository.opoxv.com^
+||ads.optimizesrv.com^
 ||ads.toroadvertising.com^
 ||adult.notifysrv.com^
 ||android.notifysrv.com^
@@ -1337,7 +1338,6 @@
 ||kwi18ah9r60yjb70.notify6.com^
 ||law.notifysrv.com^
 ||m.hue2b.com^
-||m.optidigital.com^
 ||mail17.notifysrv.com^
 ||main.exdynsrv.com^
 ||main.exoclick.com^
@@ -1406,8 +1406,10 @@
 ||s.dsczci.com^
 ||s.dsd1gy.com^
 ||s.dsd8vc.com^
+||s.dse589.com^
 ||s.dseb0x.com^
 ||s.dsebx6.com^
+||s.dsedgu.com^
 ||s.dsejln.com^
 ||s.dseoeg.com^
 ||s.dservq.com^
@@ -1531,6 +1533,7 @@
 ||s.zlinkn.com^
 ||s.zlinkp.com^
 ||s.zlinkr.com^
+||s.zlinkt.com^
 ||s25.notifysrv.com^
 ||s30.notifysrv.com^
 ||samba.notifysrv.com^
@@ -1700,6 +1703,8 @@
 ||a.advertrek.com^
 ||a.allureanews.com^
 ||a.asvsm.com^
+||a.bizonads-ssp.com^
 ||a.huklop.com^
 ||a.ouzads.com^
-||ads.optimizesrv.com^
+||a.r8lnet.com^
+||m.optidigital.com^

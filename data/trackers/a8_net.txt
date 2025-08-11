@@ -731,7 +731,6 @@
 ||a8clk.www.fitnessshop.jp^
 ||a8clk.www.flierinc.com^
 ||a8clk.www.gaihekitosou-partners.jp^
-||a8clk.www.golf-station.net^
 ||a8clk.www.green-dog.com^
 ||a8clk.www.italki.com^
 ||a8clk.www.jaf.or.jp^
@@ -1248,7 +1247,6 @@
 ||a8cv.staff-manzoku.co.jp^
 ||a8cv.staffagent.co.jp^
 ||a8cv.star-color.jp^
-||a8cv.starpeg-music.com^
 ||a8cv.store.alpen-group.jp^
 ||a8cv.store.saneibd.com^
 ||a8cv.store.tavenal.com^
@@ -1342,7 +1340,6 @@
 ||a8cv.yamatokouso.com^
 ||a8cv.ygm-clinic.or.jp^
 ||a8cv.yobybo-japan.com^
-||a8cv.yohodo.net^
 ||a8cv.yokoyamakaban.com^
 ||a8cv.yoriso.com^
 ||a8cv.you-shoku.net^

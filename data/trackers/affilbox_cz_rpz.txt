@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -379,6 +379,7 @@ my.top4run.cz CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
+my.top4running.ch CNAME .
 my.top4running.com CNAME .
 my.top4running.cz CNAME .
 my.top4running.de CNAME .

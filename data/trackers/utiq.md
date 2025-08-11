@@ -295,6 +295,7 @@
 | utiq.monacomatin.mc | frontend.prod.utiq-aws.net |
 | utiq.mopo.de | frontend.prod.utiq-aws.net |
 | utiq.motor-talk.de | frontend.prod.utiq-aws.net |
+| utiq.motorimagazine.it | frontend.prod.utiq-aws.net |
 | utiq.motorradfrage.net | frontend.prod.utiq-aws.net |
 | utiq.movistar.es | frontend.prod.utiq-aws.net |
 | utiq.mundoxiaomi.com | frontend.prod.utiq-aws.net |
@@ -370,6 +371,7 @@
 | utiq.sport.es | frontend.prod.utiq-aws.net |
 | utiq.sportlerfrage.net | frontend.prod.utiq-aws.net |
 | utiq.sports.fr | frontend.prod.utiq-aws.net |
+| utiq.stage.stern.de | frontend.prod.utiq-aws.net |
 | utiq.staging--hb.hmg.systems | frontend.prod.utiq-aws.net |
 | utiq.staging--wiwo.hmg.systems | frontend.prod.utiq-aws.net |
 | utiq.stern.de | frontend.prod.utiq-aws.net |
@@ -411,6 +413,7 @@
 | utiq.varmatin.com | frontend.prod.utiq-aws.net |
 | utiq.verisure.fr | frontend.prod.utiq-aws.net |
 | utiq.viaggiamo.it | frontend.prod.utiq-aws.net |
+| utiq.viaoccitanie.tv | frontend.prod.utiq-aws.net |
 | utiq.vidaextra.com | frontend.prod.utiq-aws.net |
 | utiq.vitonica.com | frontend.prod.utiq-aws.net |
 | utiq.voici.fr | frontend.prod.utiq-aws.net |

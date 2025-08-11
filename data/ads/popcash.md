@@ -626,6 +626,7 @@
 | lynx.inovo.io | deprecated-custom-domains.b-cdn.net |
 | lynx.lumy.network | deprecated-custom-domains.b-cdn.net |
 | lynx.microl.ink | deprecated-custom-domains.b-cdn.net |
+| lynx.pascivite.com | deprecated-custom-domains.b-cdn.net |
 | lynx.sbstjn.com | deprecated-custom-domains.b-cdn.net |
 | lynx.simpleparish.com | deprecated-custom-domains.b-cdn.net |
 | macaw.ianmitchell.dev | deprecated-custom-domains.b-cdn.net |
@@ -682,6 +683,7 @@
 | mouse.seekingtv.com | deprecated-custom-domains.b-cdn.net |
 | mule.caddyserver.com | deprecated-custom-domains.b-cdn.net |
 | mule.pricelessai.com | deprecated-custom-domains.b-cdn.net |
+| mule.reel.so | deprecated-custom-domains.b-cdn.net |
 | narwhal.bounty.studio | deprecated-custom-domains.b-cdn.net |
 | narwhal.quickbudget.xyz | deprecated-custom-domains.b-cdn.net |
 | newt.javier.dev | deprecated-custom-domains.b-cdn.net |
@@ -809,7 +811,6 @@
 | rat.gimlet.io | deprecated-custom-domains.b-cdn.net |
 | raven.konquadrat.de | deprecated-custom-domains.b-cdn.net |
 | raven.omamao.ch | deprecated-custom-domains.b-cdn.net |
-| raven.vethelpdirect.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.cablemod.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.iainbroome.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.pablomaceda.com | deprecated-custom-domains.b-cdn.net |
@@ -882,7 +883,6 @@
 | sparrow.workingincontent.com | deprecated-custom-domains.b-cdn.net |
 | spermwhale.rowansimpson.com | deprecated-custom-domains.b-cdn.net |
 | spider.capricciocolumbus.org | deprecated-custom-domains.b-cdn.net |
-| spider.hoomie.online | deprecated-custom-domains.b-cdn.net |
 | spider.scottw.com | deprecated-custom-domains.b-cdn.net |
 | spider.storiesofchang.com | deprecated-custom-domains.b-cdn.net |
 | spoonbill.mumblebox.com | deprecated-custom-domains.b-cdn.net |
@@ -1014,7 +1014,6 @@
 | wildcat.restq.co | deprecated-custom-domains.b-cdn.net |
 | wildebeest.quarva.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.soft-spoken.dev | deprecated-custom-domains.b-cdn.net |
-| wildfowl.getmoneyoff.com | deprecated-custom-domains.b-cdn.net |
 | wolf.novel.io | deprecated-custom-domains.b-cdn.net |
 | wolf.samarasousa.com | deprecated-custom-domains.b-cdn.net |
 | wolverine.barac.at | deprecated-custom-domains.b-cdn.net |

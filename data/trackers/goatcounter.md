@@ -11,6 +11,7 @@
     * acut3.goatcounter.com
     * afirmation.goatcounter.com
     * akashi.goatcounter.com
+    * alextecplayz.goatcounter.com
     * andreabrandi.goatcounter.com
     * apitman_com.goatcounter.com
     * applycreatures.goatcounter.com
@@ -51,11 +52,9 @@
     * enamya.goatcounter.com
     * eventgeek.goatcounter.com
     * ewpratten.goatcounter.com
-    * ferrybig.goatcounter.com
     * fieald.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
-    * gaywu.goatcounter.com
     * gcls001239028.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
     * ghostiam.goatcounter.com
@@ -91,7 +90,6 @@
     * landing-forest-school.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
-    * law-sanipueblo-org.goatcounter.com
     * law-tmchippewa-com.goatcounter.com
     * law-umitribe-org.goatcounter.com
     * lco-nsn-us-open-law.goatcounter.com
@@ -180,6 +178,7 @@
 | gc.acut3.net | acut3.goatcounter.com |
 | stats.afirmacijas.lv | afirmation.goatcounter.com |
 | stats.akashi.systems | akashi.goatcounter.com |
+| stats.alextecplayz.com | alextecplayz.goatcounter.com |
 | count.andreabrandi.com | andreabrandi.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
 | analytics.applycreatures.com | applycreatures.goatcounter.com |
@@ -220,11 +219,9 @@
 | gtcntr.enamya.me | enamya.goatcounter.com |
 | goatcounter.eventgeek.ie | eventgeek.goatcounter.com |
 | analytics.ewpratten.com | ewpratten.goatcounter.com |
-| analytics.ferrybig.me | ferrybig.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
-| gc.gaywu.com | gaywu.goatcounter.com |
 | analytics.leespace.co | gcls001239028.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | stats.ghostiam.dev | ghostiam.goatcounter.com |
@@ -260,7 +257,6 @@
 | stats.forest-school.am | landing-forest-school.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
-| analytics.law.sanipueblo.org | law-sanipueblo-org.goatcounter.com |
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
 | analytics.law.umitribe.org | law-umitribe-org.goatcounter.com |
 | analytics.law.lco-nsn.gov | lco-nsn-us-open-law.goatcounter.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -742,7 +742,6 @@ a8clk.www.eco-life.tokyo CNAME .
 a8clk.www.fitnessshop.jp CNAME .
 a8clk.www.flierinc.com CNAME .
 a8clk.www.gaihekitosou-partners.jp CNAME .
-a8clk.www.golf-station.net CNAME .
 a8clk.www.green-dog.com CNAME .
 a8clk.www.italki.com CNAME .
 a8clk.www.jaf.or.jp CNAME .
@@ -1259,7 +1258,6 @@ a8cv.ssl24.net CNAME .
 a8cv.staff-manzoku.co.jp CNAME .
 a8cv.staffagent.co.jp CNAME .
 a8cv.star-color.jp CNAME .
-a8cv.starpeg-music.com CNAME .
 a8cv.store.alpen-group.jp CNAME .
 a8cv.store.saneibd.com CNAME .
 a8cv.store.tavenal.com CNAME .
@@ -1353,7 +1351,6 @@ a8cv.yamato-gp.net CNAME .
 a8cv.yamatokouso.com CNAME .
 a8cv.ygm-clinic.or.jp CNAME .
 a8cv.yobybo-japan.com CNAME .
-a8cv.yohodo.net CNAME .
 a8cv.yokoyamakaban.com CNAME .
 a8cv.yoriso.com CNAME .
 a8cv.you-shoku.net CNAME .

@@ -65,6 +65,7 @@
 ||data.all-in.de^
 ||data.allgaeuer-zeitung.de^
 ||data.babista.de^
+||data.babista.nl^
 ||data.campaign.prenatal.com^
 ||data.campaign.toyscenter.it^
 ||data.charles-colby.com^
@@ -90,7 +91,6 @@
 ||di.ifolor.at^
 ||di.ifolor.ch^
 ||di.ifolor.com^
-||di.ifolor.de^
 ||di.ifolor.fi^
 ||di.ifolor.fr^
 ||di.ifolor.it^

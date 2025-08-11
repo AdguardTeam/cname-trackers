@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -385,6 +385,7 @@ tr.email.distributor-expo.com CNAME .
 tr.email.gap-france.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.janedeboy.com CNAME .
+tr.email.kinvent.com CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.mnpaf.fr CNAME .
 tr.email.nauticexpo.com CNAME .

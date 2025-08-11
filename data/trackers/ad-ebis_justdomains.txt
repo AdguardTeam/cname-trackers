@@ -25,7 +25,9 @@ ad.aim-universe.co.jp
 ad.aucfan.com
 ad.aucview.com
 ad.autorace.jp
+ad.hoikushibank.com
 ad.kddi-fs.com
+ad.omotenashi.work
 ad.ordersuit.info
 ad.takasu.co.jp
 ad.tempstaff.co.jp

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -98,6 +98,7 @@ etracker.louis.nl CNAME .
 etracker.louis.pl CNAME .
 etracker.louis.se CNAME .
 etracker.lukas-becker.eu CNAME .
+etracker.novicon.net CNAME .
 etracker.riess-gruppe.de CNAME .
 ets.verivox.com CNAME .
 ettcc.steute-controltec.com CNAME .
@@ -209,7 +210,6 @@ webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
 webcontr.crazy-heels.com CNAME .
 webcontr.distrebution.com CNAME .
-webcontr.ecoon.de CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.genius.tv CNAME .
 webcontr.holzgestein.com CNAME .
@@ -221,6 +221,7 @@ webcontr.kitchen-concept.de CNAME .
 webcontr.kontor4.de CNAME .
 webcontr.l.de CNAME .
 webcontr.leisure.one CNAME .
+webcontr.lhbl.de CNAME .
 webcontr.lindy.de CNAME .
 webcontr.lmz-bw.de CNAME .
 webcontr.lotto-hh.de CNAME .
@@ -244,7 +245,6 @@ webcontr.synvia.de CNAME .
 webcontr.taxando.de CNAME .
 webcontr.terraguide.de CNAME .
 webcontr.thechefsstories.de CNAME .
-webcontr.verpoorten-mall.de CNAME .
 webcontr.verpoorten-shop.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .

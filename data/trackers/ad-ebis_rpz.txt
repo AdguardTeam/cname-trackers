@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,7 +36,9 @@ ad.aim-universe.co.jp CNAME .
 ad.aucfan.com CNAME .
 ad.aucview.com CNAME .
 ad.autorace.jp CNAME .
+ad.hoikushibank.com CNAME .
 ad.kddi-fs.com CNAME .
+ad.omotenashi.work CNAME .
 ad.ordersuit.info CNAME .
 ad.takasu.co.jp CNAME .
 ad.tempstaff.co.jp CNAME .

@@ -389,6 +389,7 @@
 | my.top4running.at | cz.affilbox.cz |
 | my.top4running.be | cz.affilbox.cz |
 | my.top4running.bg | cz.affilbox.cz |
+| my.top4running.ch | cz.affilbox.cz |
 | my.top4running.com | cz.affilbox.cz |
 | my.top4running.cz | cz.affilbox.cz |
 | my.top4running.de | cz.affilbox.cz |

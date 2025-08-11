@@ -368,6 +368,7 @@ my.top4run.cz
 my.top4running.at
 my.top4running.be
 my.top4running.bg
+my.top4running.ch
 my.top4running.com
 my.top4running.cz
 my.top4running.de

@@ -8,8 +8,10 @@
 
 ### Rarely active trackers
 
+* registry-web-suspension-1912215664.us-east-1.elb.amazonaws.com
 * 77980.bodis.com
 * u52.aabdmn.com
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -18,6 +20,7 @@
 | 091kdjn7.xyz | 0i0i0i0.com |
 | 09qin0pc.xyz | 0i0i0i0.com |
 | 0i.sh-cdn.com | 0i0i0i0.com |
+| 0vtx1gfc.xyz | 0i0i0i0.com |
 | 0zj2a0bg.xyz | 0i0i0i0.com |
 | 100kia.xyz | 0i0i0i0.com |
 | 12aksss.xyz | 0i0i0i0.com |
@@ -47,6 +50,7 @@
 | 7bd3d001ff6.clicknplay.to | 0i0i0i0.com |
 | 7zvhi46y.xyz | 0i0i0i0.com |
 | 858akaman.xyz | 0i0i0i0.com |
+| 86hi9r4f.xyz | 0i0i0i0.com |
 | 879.thebussybandit.com | 0i0i0i0.com |
 | 892azz.xyz | 0i0i0i0.com |
 | 8dk5q9tp.xyz | 0i0i0i0.com |
@@ -117,7 +121,6 @@
 | a.etrem.site | 0i0i0i0.com |
 | a.eynol.xyz | 0i0i0i0.com |
 | a.famestporn.com | 0i0i0i0.com |
-| a.fantastixxx.co | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fedim.site | 0i0i0i0.com |
@@ -229,7 +232,6 @@
 | ac.4wank.com | 0i0i0i0.com |
 | ac.fapnado.xxx | 0i0i0i0.com |
 | ac.forwank.com | 0i0i0i0.com |
-| acquaintance423.fun | 0i0i0i0.com |
 | activejavgg124.fun | 0i0i0i0.com |
 | ad.animeitaly.tv | 0i0i0i0.com |
 | ad.empressleak.biz | 0i0i0i0.com |
@@ -393,6 +395,7 @@
 | battle1266.fun | 0i0i0i0.com |
 | baukeri.ehrydnmdoe.com | 0i0i0i0.com |
 | bc6dc48b743dc5d01.clicknplay.to | 0i0i0i0.com |
+| beauty1.xyz | 0i0i0i0.com |
 | betray1266.fun | 0i0i0i0.com |
 | bio.booseed.com | 0i0i0i0.com |
 | blow.week1time.com | 0i0i0i0.com |
@@ -458,6 +461,7 @@
 | cdn5.cartoonporn.to | 0i0i0i0.com |
 | changeable1x.xyz | 0i0i0i0.com |
 | changejav128.fun | 0i0i0i0.com |
+| cheese08062025.shop | 0i0i0i0.com |
 | chlziaue.xyz | 0i0i0i0.com |
 | choosejav182.fun | 0i0i0i0.com |
 | cinema1266.fun | 0i0i0i0.com |
@@ -468,10 +472,7 @@
 | coercejavgg124.fun | 0i0i0i0.com |
 | colonyjav182.fun | 0i0i0i0.com |
 | comedyjav128.fun | 0i0i0i0.com |
-| compensation423.fun | 0i0i0i0.com |
-| complication423.fun | 0i0i0i0.com |
 | concession072925.shop | 0i0i0i0.com |
-| continuation423.fun | 0i0i0i0.com |
 | conuber.getyoursafelink.com | 0i0i0i0.com |
 | cool.gaygo.tv | 0i0i0i0.com |
 | copperjav182.fun | 0i0i0i0.com |
@@ -510,6 +511,7 @@
 | development-.bloblohub.com | 0i0i0i0.com |
 | development-viz.bloblohub.com | 0i0i0i0.com |
 | dieadi.com | 0i0i0i0.com |
+| dilute08062025.shop | 0i0i0i0.com |
 | dinejav11.fun | 0i0i0i0.com |
 | discourage072925.shop | 0i0i0i0.com |
 | dl.love4porn.com | 0i0i0i0.com |
@@ -543,6 +545,7 @@
 | enkcyenrat.club | 0i0i0i0.com |
 | enma.livetwo.space | 0i0i0i0.com |
 | enrgy.fwtrck.com | 0i0i0i0.com |
+| ensure08062025.shop | 0i0i0i0.com |
 | eotaioa.xyz | 0i0i0i0.com |
 | equity-dev.hubhubhub.name | 0i0i0i0.com |
 | esondvn.ehrydnmdoe.com | 0i0i0i0.com |
@@ -553,6 +556,7 @@
 | evnhigkzgp.club | 0i0i0i0.com |
 | ewrerwe.s3m4m.lol | 0i0i0i0.com |
 | ex8.lostporntube.com | 0i0i0i0.com |
+| excuse08062025.shop | 0i0i0i0.com |
 | exemptjav128.fun | 0i0i0i0.com |
 | ezycsflow.com | 0i0i0i0.com |
 | f-g-l-j.22yy6.com | 0i0i0i0.com |
@@ -581,6 +585,7 @@
 | gainjav12.fun | 0i0i0i0.com |
 | gallery.stailaus.fi | 0i0i0i0.com |
 | gallonjav128.fun | 0i0i0i0.com |
+| garage08062025.shop | 0i0i0i0.com |
 | gatejav11.fun | 0i0i0i0.com |
 | gatejav12.fun | 0i0i0i0.com |
 | gay.everydayporn.co | 0i0i0i0.com |
@@ -607,9 +612,9 @@
 | h.bloblohub.com | 0i0i0i0.com |
 | h037n.letsporn.com | 0i0i0i0.com |
 | h4o565egjgi0v4bz.hubhubhub.name | 0i0i0i0.com |
-| haixomz.xyz | 0i0i0i0.com |
 | harassjav182.fun | 0i0i0i0.com |
 | haraxong.xyz | 0i0i0i0.com |
+| harbor08062025.shop | 0i0i0i0.com |
 | harborjavgg124.fun | 0i0i0i0.com |
 | havejav11.fun | 0i0i0i0.com |
 | hazicu.hothomefuck.com | 0i0i0i0.com |
@@ -625,6 +630,7 @@
 | hot.justpornflix.com | 0i0i0i0.com |
 | hqqvjdttre.club | 0i0i0i0.com |
 | hrbaal0z.xyz | 0i0i0i0.com |
+| hs.hentaislayer.net | 0i0i0i0.com |
 | hskujw2.com | 0i0i0i0.com |
 | hx1.tubepornbase.com | 0i0i0i0.com |
 | hzgf8j12.xyz | 0i0i0i0.com |
@@ -657,7 +663,6 @@
 | insight.beta.bloblohub.com | 0i0i0i0.com |
 | insure1266.fun | 0i0i0i0.com |
 | integration-insight.bloblohub.com | 0i0i0i0.com |
-| intervention423.fun | 0i0i0i0.com |
 | io.fapnado.xxx | 0i0i0i0.com |
 | io.fapnow.xxx | 0i0i0i0.com |
 | ip176-194.bloblohub.com | 0i0i0i0.com |
@@ -669,15 +674,6 @@
 | ix2.deepsexvids.com | 0i0i0i0.com |
 | izjzyykiyn.club | 0i0i0i0.com |
 | j.bloblohub.com | 0i0i0i0.com |
-| javabsence11.fun | 0i0i0i0.com |
-| javgenetic11.fun | 0i0i0i0.com |
-| javlicense11.fun | 0i0i0i0.com |
-| javmanager11.fun | 0i0i0i0.com |
-| javpercent11.fun | 0i0i0i0.com |
-| javpremium11.fun | 0i0i0i0.com |
-| javtrouble11.fun | 0i0i0i0.com |
-| javtrustee11.fun | 0i0i0i0.com |
-| javunaware11.fun | 0i0i0i0.com |
 | je4y15ji.xyz | 0i0i0i0.com |
 | jo.429men.com | 0i0i0i0.com |
 | jo.fapnado.xxx | 0i0i0i0.com |
@@ -691,17 +687,14 @@
 | js.eroticmv.com | 0i0i0i0.com |
 | js.manga1000.top | 0i0i0i0.com |
 | js.manga1001.win | 0i0i0i0.com |
-| js.mangajp.top | 0i0i0i0.com |
 | js.mangalove.top | 0i0i0i0.com |
 | js.phoenixmanga.com | 0i0i0i0.com |
 | js.redshieldcar.com | 0i0i0i0.com |
 | js.syosetu.top | 0i0i0i0.com |
 | js.xemkqxs.com | 0i0i0i0.com |
-| jurisdiction423.fun | 0i0i0i0.com |
 | justjav11.fun | 0i0i0i0.com |
 | jx3.freepornobook.com | 0i0i0i0.com |
 | k.bloblohub.com | 0i0i0i0.com |
-| kemaz.xyz | 0i0i0i0.com |
 | kentaoz.xyz | 0i0i0i0.com |
 | key.sexymovie.name | 0i0i0i0.com |
 | ki.solujav.my | 0i0i0i0.com |
@@ -724,6 +717,7 @@
 | laq.hazuro.online | 0i0i0i0.com |
 | larasub.conxxx.pro | 0i0i0i0.com |
 | launch1266.fun | 0i0i0i0.com |
+| layout08062025.shop | 0i0i0i0.com |
 | ldvuz.org | 0i0i0i0.com |
 | lengthjavgg124.fun | 0i0i0i0.com |
 | lentaopz.xyz | 0i0i0i0.com |
@@ -736,7 +730,6 @@
 | lixir.wargers.org | 0i0i0i0.com |
 | load.lolsauce.net | 0i0i0i0.com |
 | loaizaza.xyz | 0i0i0i0.com |
-| loanxas.xyz | 0i0i0i0.com |
 | locatejav182.fun | 0i0i0i0.com |
 | lokcdn.com | 0i0i0i0.com |
 | lokimaki.com | 0i0i0i0.com |
@@ -746,7 +739,6 @@
 | long.hentaihy.com | 0i0i0i0.com |
 | loop.bengali-sex-video.com | 0i0i0i0.com |
 | lozna.xyz | 0i0i0i0.com |
-| ltapsxz.xyz | 0i0i0i0.com |
 | lx5.homeporntuber.com | 0i0i0i0.com |
 | m.bloblohub.com | 0i0i0i0.com |
 | m.x-power.info | 0i0i0i0.com |
@@ -790,7 +782,6 @@
 | momentjav182.fun | 0i0i0i0.com |
 | moodjav12.fun | 0i0i0i0.com |
 | moster.granny-xxx-video.com | 0i0i0i0.com |
-| mroax.xyz | 0i0i0i0.com |
 | mrpazk.xyz | 0i0i0i0.com |
 | mx6.3pornhere.com | 0i0i0i0.com |
 | my.007moms.com | 0i0i0i0.com |
@@ -803,6 +794,7 @@
 | nbjiwgsm.xyz | 0i0i0i0.com |
 | nbnrsa.manrec.cc | 0i0i0i0.com |
 | negligence072925.shop | 0i0i0i0.com |
+| nesta.dimawusinners.xyz | 0i0i0i0.com |
 | net.contoscn.com | 0i0i0i0.com |
 | net.contoseroticoscnn.com | 0i0i0i0.com |
 | net.sexstories69.com | 0i0i0i0.com |
@@ -846,7 +838,6 @@
 | oi.fapnow.xxx | 0i0i0i0.com |
 | oi.lesbianbliss.com | 0i0i0i0.com |
 | oi.transhero.com | 0i0i0i0.com |
-| oianz.xyz | 0i0i0i0.com |
 | oj.429men.com | 0i0i0i0.com |
 | oj.fapnado.xxx | 0i0i0i0.com |
 | oj.fapnow.xxx | 0i0i0i0.com |
@@ -857,7 +848,6 @@
 | ok.transhero.com | 0i0i0i0.com |
 | okoloss.com | 0i0i0i0.com |
 | one.iugbhsu.com | 0i0i0i0.com |
-| ontj.com | 0i0i0i0.com |
 | ooawsxkdrm.club | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | oquaysx.club | 0i0i0i0.com |
@@ -866,7 +856,6 @@
 | ozoj.com | 0i0i0i0.com |
 | p.adsmarch.online | 0i0i0i0.com |
 | p.aprilads.space | 0i0i0i0.com |
-| p.avgads.space | 0i0i0i0.com |
 | p.bloblohub.com | 0i0i0i0.com |
 | p.febads.shop | 0i0i0i0.com |
 | p.janads.shop | 0i0i0i0.com |
@@ -884,7 +873,6 @@
 | pasteljav128.fun | 0i0i0i0.com |
 | patcans.club | 0i0i0i0.com |
 | patentjav128.fun | 0i0i0i0.com |
-| pazials.xyz | 0i0i0i0.com |
 | pempia.sbs | 0i0i0i0.com |
 | pianwela.xyz | 0i0i0i0.com |
 | pickard.hubhubhub.name | 0i0i0i0.com |
@@ -919,8 +907,8 @@
 | pre.porno102.com | 0i0i0i0.com |
 | pre.pornobaton.com | 0i0i0i0.com |
 | pre.pornuxaxa.com | 0i0i0i0.com |
-| prescription423.fun | 0i0i0i0.com |
 | preview.bloblohub.com | 0i0i0i0.com |
+| prince08062025.shop | 0i0i0i0.com |
 | prl.adasgmp.cc | 0i0i0i0.com |
 | prl.adasgsts.cc | 0i0i0i0.com |
 | prl.adasgxsp.cc | 0i0i0i0.com |
@@ -946,7 +934,6 @@
 | q.tubetruck.com | 0i0i0i0.com |
 | qa.hdclips.fun | 0i0i0i0.com |
 | qa.pleasedonotblockme.com | 0i0i0i0.com |
-| qiaoxz.xyz | 0i0i0i0.com |
 | qmogjaezcv.club | 0i0i0i0.com |
 | qoqv.com | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
@@ -962,13 +949,11 @@
 | qyusgj.xyz | 0i0i0i0.com |
 | r.archertube.com | 0i0i0i0.com |
 | r.erohabu.com | 0i0i0i0.com |
-| r.eroticos.tv | 0i0i0i0.com |
 | r.tropictube.com | 0i0i0i0.com |
 | r2.cdn1cloudflare.xyz | 0i0i0i0.com |
 | raang.ucavu.live | 0i0i0i0.com |
 | rainbo9.com | 0i0i0i0.com |
 | redshieldcar.com | 0i0i0i0.com |
-| registration423.fun | 0i0i0i0.com |
 | reklama.teenfuckhd.com | 0i0i0i0.com |
 | reload.hotscopes.org | 0i0i0i0.com |
 | report.beta.bloblohub.com | 0i0i0i0.com |
@@ -984,11 +969,13 @@
 | riaoz.xyz | 0i0i0i0.com |
 | rikakza.xyz | 0i0i0i0.com |
 | riotjav11.fun | 0i0i0i0.com |
+| rocket08062025.shop | 0i0i0i0.com |
 | rogligh.ehrydnmdoe.com | 0i0i0i0.com |
 | rotatejavgg124.fun | 0i0i0i0.com |
 | rotten05032026.shop | 0i0i0i0.com |
 | rpazaa.xyz | 0i0i0i0.com |
 | rs.picmega.com | 0i0i0i0.com |
+| rsd.viagrahtabs.shop | 0i0i0i0.com |
 | rst.pornyhd.com | 0i0i0i0.com |
 | s.axioporn.online | 0i0i0i0.com |
 | s.bigpornhd.mom | 0i0i0i0.com |
@@ -1008,6 +995,7 @@
 | s.oralblow.com | 0i0i0i0.com |
 | s.playvids.site | 0i0i0i0.com |
 | s.remonti.org | 0i0i0i0.com |
+| s.searforsear.online | 0i0i0i0.com |
 | s.septed.site | 0i0i0i0.com |
 | s.thepornfree.me | 0i0i0i0.com |
 | s1.streaminporn.com | 0i0i0i0.com |
@@ -1021,8 +1009,6 @@
 | sakcerl.ehrydnmdoe.com | 0i0i0i0.com |
 | sal.easyfreesex.com | 0i0i0i0.com |
 | sandbox-insight.bloblohub.com | 0i0i0i0.com |
-| sanhpaox.xyz | 0i0i0i0.com |
-| satisfaction423.fun | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
 | scottk.hubhubhub.name | 0i0i0i0.com |
 | scrapejav128.fun | 0i0i0i0.com |
@@ -1075,11 +1061,13 @@
 | storage.lulu-row1.com | 0i0i0i0.com |
 | streamhg05032026.shop | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
+| sub1.bestofall.info | 0i0i0i0.com |
 | subcom.uiiumovie.com | 0i0i0i0.com |
 | subfun.uiiumovie.fun | 0i0i0i0.com |
 | sungtoaz.club | 0i0i0i0.com |
 | sup.srvtax.com | 0i0i0i0.com |
 | support.streamjav.top | 0i0i0i0.com |
+| surstrom.com | 0i0i0i0.com |
 | sweet.runsexyad.site | 0i0i0i0.com |
 | switch1266.fun | 0i0i0i0.com |
 | switchjavgg124.fun | 0i0i0i0.com |
@@ -1087,7 +1075,6 @@
 | sybille.hubhubhub.name | 0i0i0i0.com |
 | synz.liveonce.online | 0i0i0i0.com |
 | tangtuiazx.club | 0i0i0i0.com |
-| taosiz.xyz | 0i0i0i0.com |
 | tauzo.xyz | 0i0i0i0.com |
 | tb.turbocap.net | 0i0i0i0.com |
 | teanlaxzia.cyou | 0i0i0i0.com |
@@ -1101,6 +1088,7 @@
 | th.milftube.mobi | 0i0i0i0.com |
 | th.tubetruck.com | 0i0i0i0.com |
 | thassos.clicknplay.to | 0i0i0i0.com |
+| thesis08062025.shop | 0i0i0i0.com |
 | thoughtful072925.shop | 0i0i0i0.com |
 | timberjavgg124.fun | 0i0i0i0.com |
 | tirejav12.fun | 0i0i0i0.com |
@@ -1112,11 +1100,11 @@
 | topdisplay.xyz | 0i0i0i0.com |
 | tqoneyyivw.club | 0i0i0i0.com |
 | tr.7vid.net | 0i0i0i0.com |
-| transmission423.fun | 0i0i0i0.com |
 | tripl3a.com | 0i0i0i0.com |
 | tron.bbw-porn-video.com | 0i0i0i0.com |
 | true.aahen.site | 0i0i0i0.com |
 | ts.globtube.com | 0i0i0i0.com |
+| ts.nakedwoman.online | 0i0i0i0.com |
 | ts.sopornvideos.com | 0i0i0i0.com |
 | tssyakir.xyz | 0i0i0i0.com |
 | tt.wl-cornholio.com | 0i0i0i0.com |
@@ -1143,6 +1131,7 @@
 | v1.sellbuy.click | 0i0i0i0.com |
 | vainjav11.fun | 0i0i0i0.com |
 | vboiutv.xyz | 0i0i0i0.com |
+| vd.7vid.net | 0i0i0i0.com |
 | vergo.ehrydnmdoe.com | 0i0i0i0.com |
 | versus.filegram.to | 0i0i0i0.com |
 | vgcustom-ad.xyz | 0i0i0i0.com |
@@ -1161,6 +1150,7 @@
 | w.detrols.site | 0i0i0i0.com |
 | w.freespeech.tube | 0i0i0i0.com |
 | w.love4porn.com | 0i0i0i0.com |
+| wa.astorix.online | 0i0i0i0.com |
 | weather.bloblohub.com | 0i0i0i0.com |
 | web18781.hubhubhub.name | 0i0i0i0.com |
 | websterro.com | 0i0i0i0.com |
@@ -1263,7 +1253,6 @@
 | z0000g.yvmads.com | 0i0i0i0.com |
 | zakld.com | 0i0i0i0.com |
 | zaokko.com | 0i0i0i0.com |
-| zenal.xyz | 0i0i0i0.com |
 | zmrzlin.amateurswild.com | 0i0i0i0.com |
 | zrakos.com | 0i0i0i0.com |
 | ztg7hqds.xyz | 0i0i0i0.com |
@@ -1272,22 +1261,27 @@
 | acquaintance213.fun | 77980.bodis.com |
 | adservb.com | 77980.bodis.com |
 | announcement317.fun | 77980.bodis.com |
-| b.getoutfrom.com | 77980.bodis.com |
 | civilization474.fun | 77980.bodis.com |
 | conservation277.fun | 77980.bodis.com |
 | consultation233.fun | 77980.bodis.com |
 | epicalyx3452.fun | 77980.bodis.com |
 | familiar3452.fun | 77980.bodis.com |
-| graduate472.fun | 77980.bodis.com |
-| innocent154.fun | 77980.bodis.com |
 | interference350.fun | 77980.bodis.com |
 | intervention304.fun | 77980.bodis.com |
-| minimize363.fun | 77980.bodis.com |
+| javabsence11.fun | 77980.bodis.com |
+| javgenetic11.fun | 77980.bodis.com |
+| javlicense11.fun | 77980.bodis.com |
+| javmanager11.fun | 77980.bodis.com |
+| javpercent11.fun | 77980.bodis.com |
+| javpremium11.fun | 77980.bodis.com |
+| javtrouble11.fun | 77980.bodis.com |
+| javtrustee11.fun | 77980.bodis.com |
+| javunaware11.fun | 77980.bodis.com |
 | neighborhood268.fun | 77980.bodis.com |
-| omission119.fun | 77980.bodis.com |
 | satisfaction399.fun | 77980.bodis.com |
 | spokesperson254.fun | 77980.bodis.com |
 | withdraw3452.fun | 77980.bodis.com |
+| a.fantastixxx.co | registry-web-suspension-1912215664.us-east-1.elb.amazonaws.com |
 | adsxtits.com | u50.0i0i0i0.com |
 | adsxtits.pro | u50.0i0i0i0.com |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
@@ -1295,6 +1289,7 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | now.plsgotoasg.com | u52.aabdmn.com |
+| ontj.com | u53.hypnorat.com |
 | hotadultcontent.com | u57.muzikguide.com |
 | hotadultvids.com | u57.muzikguide.com |
 | hotxxxcontent.com | u57.muzikguide.com |

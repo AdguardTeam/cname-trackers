@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -678,6 +678,7 @@ lungfish.datadividendproject.com CNAME .
 lynx.inovo.io CNAME .
 lynx.lumy.network CNAME .
 lynx.microl.ink CNAME .
+lynx.pascivite.com CNAME .
 lynx.sbstjn.com CNAME .
 lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
@@ -734,6 +735,7 @@ mouse.botreach.co CNAME .
 mouse.seekingtv.com CNAME .
 mule.caddyserver.com CNAME .
 mule.pricelessai.com CNAME .
+mule.reel.so CNAME .
 narwhal.bounty.studio CNAME .
 narwhal.quickbudget.xyz CNAME .
 newt.javier.dev CNAME .
@@ -861,7 +863,6 @@ rat.einfachlebenforum.com CNAME .
 rat.gimlet.io CNAME .
 raven.konquadrat.de CNAME .
 raven.omamao.ch CNAME .
-raven.vethelpdirect.com CNAME .
 reindeer.cablemod.com CNAME .
 reindeer.iainbroome.com CNAME .
 reindeer.pablomaceda.com CNAME .
@@ -934,7 +935,6 @@ sparrow.uitvaartzorg-vanraemdonck.be CNAME .
 sparrow.workingincontent.com CNAME .
 spermwhale.rowansimpson.com CNAME .
 spider.capricciocolumbus.org CNAME .
-spider.hoomie.online CNAME .
 spider.scottw.com CNAME .
 spider.storiesofchang.com CNAME .
 spoonbill.mumblebox.com CNAME .
@@ -1066,7 +1066,6 @@ wildcat.longviewforecasting.com CNAME .
 wildcat.restq.co CNAME .
 wildebeest.quarva.dev CNAME .
 wildebeest.soft-spoken.dev CNAME .
-wildfowl.getmoneyoff.com CNAME .
 wolf.novel.io CNAME .
 wolf.samarasousa.com CNAME .
 wolverine.barac.at CNAME .

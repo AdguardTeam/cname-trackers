@@ -9,12 +9,10 @@
 ||analytics.codes.baltimorecity.gov^
 ||analytics.demo.plateau.ng.open.law^
 ||analytics.ewpratten.com^
-||analytics.ferrybig.me^
 ||analytics.kubasta.net^
 ||analytics.law.cityofsanmateo.org^
 ||analytics.law.lco-nsn.gov^
 ||analytics.law.mohican.com^
-||analytics.law.sanipueblo.org^
 ||analytics.law.tmchippewa.com^
 ||analytics.law.umitribe.org^
 ||analytics.leespace.co^
@@ -34,7 +32,6 @@
 ||counter.storydragon.nl^
 ||dot-com-stats.sladewatkins.net^
 ||gc.acut3.net^
-||gc.gaywu.com^
 ||gc.grokhard.com^
 ||gc.hausarzt-zentrum-herne.de^
 ||gc.leadership.garden^
@@ -79,6 +76,7 @@
 ||stats.abdodaoud.com^
 ||stats.afirmacijas.lv^
 ||stats.akashi.systems^
+||stats.alextecplayz.com^
 ||stats.apitman.com^
 ||stats.artero.dev^
 ||stats.artur-rodrigues.com^

@@ -374,6 +374,7 @@
 ||tr.email.gap-france.fr^
 ||tr.email.harmonie-mutuelle.fr^
 ||tr.email.janedeboy.com^
+||tr.email.kinvent.com^
 ||tr.email.medicalexpo.com^
 ||tr.email.mnpaf.fr^
 ||tr.email.nauticexpo.com^

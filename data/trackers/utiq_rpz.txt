@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -302,6 +302,7 @@ utiq.moin.de CNAME .
 utiq.monacomatin.mc CNAME .
 utiq.mopo.de CNAME .
 utiq.motor-talk.de CNAME .
+utiq.motorimagazine.it CNAME .
 utiq.motorradfrage.net CNAME .
 utiq.movistar.es CNAME .
 utiq.mundoxiaomi.com CNAME .
@@ -377,6 +378,7 @@ utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
 utiq.sportlerfrage.net CNAME .
 utiq.sports.fr CNAME .
+utiq.stage.stern.de CNAME .
 utiq.staging--hb.hmg.systems CNAME .
 utiq.staging--wiwo.hmg.systems CNAME .
 utiq.stern.de CNAME .
@@ -420,6 +422,7 @@ utiq.utopia.de CNAME .
 utiq.varmatin.com CNAME .
 utiq.verisure.fr CNAME .
 utiq.viaggiamo.it CNAME .
+utiq.viaoccitanie.tv CNAME .
 utiq.vidaextra.com CNAME .
 utiq.vitonica.com CNAME .
 utiq.voici.fr CNAME .

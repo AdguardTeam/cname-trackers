@@ -52,6 +52,7 @@
     * h-2uk5c4md.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
     * h-2yf5pvfu.online-metrix.net
+    * h-2zc9zvoy.online-metrix.net
     * h-2zweytuc.online-metrix.net
     * h-30fpzt2y.online-metrix.net
     * h-324klu1j.online-metrix.net
@@ -84,7 +85,6 @@
     * h-4iibpm7t.online-metrix.net
     * h-4izfn6dr.online-metrix.net
     * h-4kblllmz.online-metrix.net
-    * h-4nyhdbu2.online-metrix.net
     * h-4qqysdfz.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ruz3ugq2.online-metrix.net
@@ -130,7 +130,6 @@
     * h-6y7fu8j2.online-metrix.net
     * h-6y7oe1nl.online-metrix.net
     * h-71i2mvka.online-metrix.net
-    * h-72wrr4p1.online-metrix.net
     * h-73e8orvb.online-metrix.net
     * h-748xxcci.online-metrix.net
     * h-76s5kqie.online-metrix.net
@@ -552,6 +551,7 @@
     * h-k8vif92e-pa.online-metrix.net
     * h-k8vif92e-pr.online-metrix.net
     * h-k8vif92e-si.online-metrix.net
+    * h-k8vif92e-stc.online-metrix.net
     * h-k8vif92e-worldline.online-metrix.net
     * h-k8vif92e.goto.online-metrix.net
     * h-k8vif92e.online-metrix.net
@@ -821,11 +821,13 @@
 ### Rarely active trackers
 
 * e4010.dsca.akamaiedge.net
+* 77980.bodis.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| onoutput.com | 77980.bodis.com |
 | content22.citi.com | citi.online-metrix.net |
 | identity4.citidirect.com | e4010.dsca.akamaiedge.net |
 | content-tix.topi.eu | h-1020poof.online-metrix.net |
@@ -871,6 +873,7 @@
 | prod-dexsta.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-ffcuin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-firstmark.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-frontier.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-fsfcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-hfcuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-hsfcuhi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -951,6 +954,7 @@
 | hunt.elcorteingles.es | h-2uk5c4md.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | validacion.rayo.com.co | h-2yf5pvfu.online-metrix.net |
+| regstat.pokerstars.com | h-2zc9zvoy.online-metrix.net |
 | fpmobile.uplift-platform.com | h-2zweytuc.online-metrix.net |
 | app.uob.com.sg | h-30fpzt2y.online-metrix.net |
 | applicant.rbfcu.org | h-324klu1j.online-metrix.net |
@@ -1001,7 +1005,6 @@
 | ep-content.zaplo.pl | h-4iibpm7t.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | ep.heartland.co.nz | h-4kblllmz.online-metrix.net |
-| onoutput.com | h-4nyhdbu2.online-metrix.net |
 | content.heidipay.com | h-4qqysdfz.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | dep.gambit29.gameassists.co.uk | h-4ruz3ugq2.online-metrix.net |
@@ -1068,7 +1071,6 @@
 | wildcard.humm.ie | h-6y7fu8j2.online-metrix.net |
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
 | assets.harlandclarke.com | h-71i2mvka.online-metrix.net |
-| rba.infinitium.com | h-72wrr4p1.online-metrix.net |
 | tmcontent.zoom.com | h-73e8orvb.online-metrix.net |
 | tmcontent.zoom.us | h-73e8orvb.online-metrix.net |
 | analytics.vodafone.com.au | h-748xxcci.online-metrix.net |
@@ -1102,6 +1104,7 @@
 | info.betway.co.za | h-7v30y901.online-metrix.net |
 | info.betway.co.zm | h-7v30y901.online-metrix.net |
 | info.betway.com.gh | h-7v30y901.online-metrix.net |
+| info.betway.com.ng | h-7v30y901.online-metrix.net |
 | info.betway.fr | h-7v30y901.online-metrix.net |
 | info.betway.lat | h-7v30y901.online-metrix.net |
 | info.betway.mw | h-7v30y901.online-metrix.net |
@@ -1453,6 +1456,7 @@
 | content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.bnpparibas.net | h-cco37scf.online-metrix.net |
+| www.content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.mabanqueprivee.bnpparibas | h-cco37scf.online-metrix.net |
@@ -1794,6 +1798,7 @@
 | verify.philippineairlines.com | h-k8vif92e-pa.online-metrix.net |
 | cdncy.providentmetals.com | h-k8vif92e-pr.online-metrix.net |
 | cdncy.silver.com | h-k8vif92e-si.online-metrix.net |
+| advertize.stcbank.com.sa | h-k8vif92e-stc.online-metrix.net |
 | device-fingerprint.pay1.checkout.worldline-solutions.com | h-k8vif92e-worldline.online-metrix.net |
 | cdn-east.purchase.goto.com | h-k8vif92e.goto.online-metrix.net |
 | cybersource.shoplineapp.com | h-k8vif92e.online-metrix.net |

@@ -667,6 +667,7 @@ lungfish.datadividendproject.com
 lynx.inovo.io
 lynx.lumy.network
 lynx.microl.ink
+lynx.pascivite.com
 lynx.sbstjn.com
 lynx.simpleparish.com
 macaw.ianmitchell.dev
@@ -723,6 +724,7 @@ mouse.botreach.co
 mouse.seekingtv.com
 mule.caddyserver.com
 mule.pricelessai.com
+mule.reel.so
 narwhal.bounty.studio
 narwhal.quickbudget.xyz
 newt.javier.dev
@@ -850,7 +852,6 @@ rat.einfachlebenforum.com
 rat.gimlet.io
 raven.konquadrat.de
 raven.omamao.ch
-raven.vethelpdirect.com
 reindeer.cablemod.com
 reindeer.iainbroome.com
 reindeer.pablomaceda.com
@@ -923,7 +924,6 @@ sparrow.uitvaartzorg-vanraemdonck.be
 sparrow.workingincontent.com
 spermwhale.rowansimpson.com
 spider.capricciocolumbus.org
-spider.hoomie.online
 spider.scottw.com
 spider.storiesofchang.com
 spoonbill.mumblebox.com
@@ -1055,7 +1055,6 @@ wildcat.longviewforecasting.com
 wildcat.restq.co
 wildebeest.quarva.dev
 wildebeest.soft-spoken.dev
-wildfowl.getmoneyoff.com
 wolf.novel.io
 wolf.samarasousa.com
 wolverine.barac.at

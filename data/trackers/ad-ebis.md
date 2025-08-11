@@ -108,6 +108,7 @@
     * 4625f83e-ua37naea.cname.ebis.ne.jp
     * 469a5e48-scxitlgt.cname.ebis.ne.jp
     * 48254442-xrsdfw7h.cname.ebis.ne.jp
+    * 485a0498-zrzxbbhd.cname.ebis.ne.jp
     * 4999a256-skczc9vy.cname.ebis.ne.jp
     * 49bd8542-0a5i81lv.cname.ebis.ne.jp
     * 49bd8542-7sbpa3f6.cname.ebis.ne.jp
@@ -320,6 +321,7 @@
     * de3e21a1-ta72utrp.cname.ebis.ne.jp
     * de8331b9-pmffblvq.cname.ebis.ne.jp
     * de8820de-fgpe2gow.cname.ebis.ne.jp
+    * df9154e9-zrzxbbhd.cname.ebis.ne.jp
     * dfd1c48f-kdknv6tt.cname.ebis.ne.jp
     * e050f08a-pc93j6qv.cname.ebis.ne.jp
     * e1e0a549-rq6mpz3n.cname.ebis.ne.jp
@@ -461,6 +463,7 @@
 | cmass.massmedian.co.jp | 4625f83e-ua37naea.cname.ebis.ne.jp |
 | cs0008sbeda.enzyme-supply.com | 469a5e48-scxitlgt.cname.ebis.ne.jp |
 | a9d8e7b6i5s.andgino.jp | 48254442-xrsdfw7h.cname.ebis.ne.jp |
+| ad.omotenashi.work | 485a0498-zrzxbbhd.cname.ebis.ne.jp |
 | ac-ebis.usen-ad.com | 4999a256-skczc9vy.cname.ebis.ne.jp |
 | ebiscosme.tamagokichi.com | 49bd8542-0a5i81lv.cname.ebis.ne.jp |
 | ebisstore.tamagokichi.com | 49bd8542-7sbpa3f6.cname.ebis.ne.jp |
@@ -673,6 +676,7 @@
 | ebis.cp.claudia.co.jp | de3e21a1-ta72utrp.cname.ebis.ne.jp |
 | adebis.hotstaff.co.jp | de8331b9-pmffblvq.cname.ebis.ne.jp |
 | adex.predear.com | de8820de-fgpe2gow.cname.ebis.ne.jp |
+| ad.hoikushibank.com | df9154e9-zrzxbbhd.cname.ebis.ne.jp |
 | cname1.shakenkan.co.jp | dfd1c48f-kdknv6tt.cname.ebis.ne.jp |
 | frontierconsul02.tsunagaru-office.com | e050f08a-pc93j6qv.cname.ebis.ne.jp |
 | adebis.ahjikan-shop.com | e1e0a549-rq6mpz3n.cname.ebis.ne.jp |

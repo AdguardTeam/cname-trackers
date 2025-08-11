@@ -119,6 +119,7 @@
     * ridgewood-static.aquaplatform.com
     * romand-console.aquaplatform.com
     * romand-delivery.aquaplatform.com
+    * romand-static.aquaplatform.com
     * sacomm-console.aquaplatform.com
     * sacomm-delivery.aquaplatform.com
     * sonicplug-delivery.aquaplatform.com
@@ -406,6 +407,7 @@
 | static.pppmag.com | ridgewood-static.aquaplatform.com |
 | console.cavalier-romand.ch | romand-console.aquaplatform.com |
 | ads.cavalier-romand.ch | romand-delivery.aquaplatform.com |
+| images.cavalier-romand.ch | romand-static.aquaplatform.com |
 | console.sacommunications.com | sacomm-console.aquaplatform.com |
 | servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
 | www.servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |

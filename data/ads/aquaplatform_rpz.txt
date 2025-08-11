@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -127,6 +127,7 @@ creatives.goldseek.com CNAME .
 display.lawbulletin.com CNAME .
 etnomedia-static.reviveservers.com CNAME .
 images.addurance.com CNAME .
+images.cavalier-romand.ch CNAME .
 images.cricketworld.com CNAME .
 images.etnomedia.nl CNAME .
 images.falconstudios.com CNAME .

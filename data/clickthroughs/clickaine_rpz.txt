@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -118,6 +118,7 @@ ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
 taco.sexreels.net CNAME .
 v040419.badjojo.com CNAME .
+virallink.fun CNAME .
 wafe.camcaps.sx CNAME .
 wp.brandnewapp.pro CNAME .
 www.bokep.su CNAME .

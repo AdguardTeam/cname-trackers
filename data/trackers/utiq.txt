@@ -291,6 +291,7 @@
 ||utiq.monacomatin.mc^
 ||utiq.mopo.de^
 ||utiq.motor-talk.de^
+||utiq.motorimagazine.it^
 ||utiq.motorradfrage.net^
 ||utiq.movistar.es^
 ||utiq.mundoxiaomi.com^
@@ -366,6 +367,7 @@
 ||utiq.sport.es^
 ||utiq.sportlerfrage.net^
 ||utiq.sports.fr^
+||utiq.stage.stern.de^
 ||utiq.staging--hb.hmg.systems^
 ||utiq.staging--wiwo.hmg.systems^
 ||utiq.stern.de^
@@ -409,6 +411,7 @@
 ||utiq.varmatin.com^
 ||utiq.verisure.fr^
 ||utiq.viaggiamo.it^
+||utiq.viaoccitanie.tv^
 ||utiq.vidaextra.com^
 ||utiq.vitonica.com^
 ||utiq.voici.fr^

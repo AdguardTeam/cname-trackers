@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -76,6 +76,7 @@ data.adlermode.com CNAME .
 data.all-in.de CNAME .
 data.allgaeuer-zeitung.de CNAME .
 data.babista.de CNAME .
+data.babista.nl CNAME .
 data.campaign.prenatal.com CNAME .
 data.campaign.toyscenter.it CNAME .
 data.charles-colby.com CNAME .
@@ -101,7 +102,6 @@ def.bayer04.de CNAME .
 di.ifolor.at CNAME .
 di.ifolor.ch CNAME .
 di.ifolor.com CNAME .
-di.ifolor.de CNAME .
 di.ifolor.fi CNAME .
 di.ifolor.fr CNAME .
 di.ifolor.it CNAME .

@@ -13,7 +13,6 @@
 | a.rb-ya.ru | park.realbig.online |
 | a.resr.ru | park.realbig.online |
 | a.ridd.ru | park.realbig.online |
-| a.vanvok.ru | park.realbig.online |
 | a.yandd.site | park.realbig.online |
 | ad.choicy.org | park.realbig.online |
 | ads.wattpadru.ru | park.realbig.online |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ adprtm53.free.at CNAME .
 adprtm53.gebuhrenfrei.com CNAME .
 adprtm53.kartegold.de CNAME .
 adprtm53.xn--gebhrenfrei-vhb.de CNAME .
+advertize.stcbank.com.sa CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
 afm.cnthevtmarkets.com CNAME .
@@ -688,6 +689,7 @@ info.betway.co.tz CNAME .
 info.betway.co.za CNAME .
 info.betway.co.zm CNAME .
 info.betway.com.gh CNAME .
+info.betway.com.ng CNAME .
 info.betway.fr CNAME .
 info.betway.lat CNAME .
 info.betway.mw CNAME .
@@ -779,7 +781,6 @@ online-security.unionbankph.com CNAME .
 online.nbc.ca CNAME .
 onlineapplications.anz.com CNAME .
 onlinemetrix.liverpool.com.mx CNAME .
-onoutput.com CNAME .
 ons.tickets.com CNAME .
 optm.optus.com.au CNAME .
 osn-cirrus.cas.org CNAME .
@@ -834,6 +835,7 @@ prod-dccuva.chaperone.lumindigitalhosting.com CNAME .
 prod-dexsta.chaperone.lumindigitalhosting.com CNAME .
 prod-ffcuin.chaperone.lumindigitalhosting.com CNAME .
 prod-firstmark.chaperone.lumindigitalhosting.com CNAME .
+prod-frontier.chaperone.lumindigitalhosting.com CNAME .
 prod-fsfcutn.chaperone.lumindigitalhosting.com CNAME .
 prod-hfcuvt.chaperone.lumindigitalhosting.com CNAME .
 prod-hsfcuhi.chaperone.lumindigitalhosting.com CNAME .
@@ -906,7 +908,6 @@ rba-screen.optumfinancial.com CNAME .
 rba-screen.yourdentalplan.com CNAME .
 rba.apata.io CNAME .
 rba.cfg.smt.docomo.ne.jp CNAME .
-rba.infinitium.com CNAME .
 rba.login.agentmessagecenter.optum.com CNAME .
 rba.login.mahix.org CNAME .
 rba.onehealthcareid.com CNAME .
@@ -921,6 +922,7 @@ regstat.betfair.it CNAME .
 regstat.betfair.ro CNAME .
 regstat.dibz.co.uk CNAME .
 regstat.paddypower.com CNAME .
+regstat.pokerstars.com CNAME .
 regstat.skybet.com CNAME .
 regstat.skybetservices.com CNAME .
 regstat.skybingo.com CNAME .
@@ -1307,6 +1309,7 @@ ww3.peacsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www.content.bnpparibas.net CNAME .
+www.content.connexion-mabanque.bnpparibas CNAME .
 www.content.espace-client.hellobank.fr CNAME .
 www.content.hellobank.it CNAME .
 www.content.mabanque.bnpparibas CNAME .
@@ -1321,3 +1324,4 @@ yr3ioxw.hoaresbank.co.uk CNAME .
 zfp.intuit.com CNAME .
 zrn.payglocal.com CNAME .
 identity4.citidirect.com CNAME .
+onoutput.com CNAME .

@@ -5,7 +5,6 @@
 * extole.com
     * aeropostale.extole.com
     * ahs.extole.com
-    * alliedcash.extole.com
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
@@ -20,7 +19,6 @@
     * calstate-aaa.extole.com
     * carbonite-ssl.extole.com
     * centier.extole.com
-    * checkngo.extole.com
     * chubbies.extole.com
     * citizen-times.extole.com
     * clarionledger.extole.com
@@ -288,7 +286,6 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
-    * forgetrust.em.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
@@ -329,6 +326,7 @@
     * hollandamerica.extole.io
     * homedepot.extole.io
     * honcker.extole.io
+    * honeypacks.extole.io
     * honorcu.extole.io
     * horizonfitness.extole.io
     * hotwire.extole.io
@@ -403,6 +401,7 @@
     * minted.extole.io
     * mission.extole.io
     * mondetta.extole.io
+    * moneybase.extole.io
     * msgcu.extole.io
     * mtntough.extole.io
     * mycarpe.extole.io
@@ -522,6 +521,7 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
@@ -638,7 +638,6 @@
 | refer.ahsfriends.com | ahs.extole.com |
 | share.algaecal.com | algaecal.extole.io |
 | refer.allenedmonds.com | allenedmonds.extole.io |
-| refer.alliedcash.com | alliedcash.extole.com |
 | share.allincu.com | allincu.extole.io |
 | share.alltrucu.org | alltrucu.extole.io |
 | refer.awscloud.com | amazon-web-services.extole.io |
@@ -751,7 +750,6 @@
 | share.myq.com | chamberlain.extole.io |
 | share.cheaperthandirt.net | cheaper-than-dirt.extole.io |
 | refer.cheaptickets.com | cheaptickets.extole.io |
-| refer.checkngo.com | checkngo.extole.com |
 | share.chewsidental.com | chewsidental.extole.io |
 | refer.chicos.com | chicos.extole.io |
 | refer.chicosofftherack.com | chicosofftherack.extole.io |
@@ -869,7 +867,6 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
-| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
@@ -986,6 +983,7 @@
 | refer.hollandamerica.com | hollandamerica.extole.io |
 | refer.homedepot.com | homedepot.extole.io |
 | refer.honcker.com | honcker.extole.io |
+| share.honeypacks.com | honeypacks.extole.io |
 | refer.honorcu.com | honorcu.extole.io |
 | refer.horizonfitness.marketing | horizonfitness.extole.io |
 | referral.hostgator.com | hostgator.extole.com |
@@ -1096,6 +1094,7 @@
 | refer.mpgsport.com | mondetta.extole.io |
 | refer.styleitforwardreward.com | mondetta.extole.io |
 | www.styleitforwardreward.com | mondetta.extole.io |
+| referral.moneybase.com | moneybase.extole.io |
 | refer.montgomeryadvertiser.com | montgomeryadvertiser.extole.com |
 | refer.moo.com | moo.extole.com |
 | refer.msgcu.org | msgcu.extole.io |
@@ -1267,6 +1266,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |

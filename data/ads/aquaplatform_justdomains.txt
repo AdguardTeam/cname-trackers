@@ -116,6 +116,7 @@ creatives.goldseek.com
 display.lawbulletin.com
 etnomedia-static.reviveservers.com
 images.addurance.com
+images.cavalier-romand.ch
 images.cricketworld.com
 images.etnomedia.nl
 images.falconstudios.com

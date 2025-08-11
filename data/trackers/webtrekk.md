@@ -55,6 +55,7 @@
     * 186015257614542.wt-eu02.net
     * 195357560818821.wt-eu02.net
     * 198101699966051.wt-eu02.net
+    * 204422683381944.wt-eu02.net
     * 209191871910909.wt-eu02.net
     * 215973748390194.wt-eu02.net
     * 227633596530844.wt-eu02.net
@@ -294,6 +295,7 @@
 | webmet.creditreform.at | 195357560818821.wt-eu02.net |
 | webmet.crefotrust.de | 195357560818821.wt-eu02.net |
 | web.campaign.jaked.com | 198101699966051.wt-eu02.net |
+| data.babista.nl | 204422683381944.wt-eu02.net |
 | web.usautosupply.com | 209191871910909.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
@@ -540,7 +542,6 @@
 | di.ifolor.at | di.ifolor.wt-eu02.net |
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
 | di.ifolor.com | di.ifolor.wt-eu02.net |
-| di.ifolor.de | di.ifolor.wt-eu02.net |
 | di.ifolor.fi | di.ifolor.wt-eu02.net |
 | di.ifolor.fr | di.ifolor.wt-eu02.net |
 | di.ifolor.it | di.ifolor.wt-eu02.net |

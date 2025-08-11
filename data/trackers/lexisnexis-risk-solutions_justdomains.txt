@@ -9,6 +9,7 @@ adprtm53.free.at
 adprtm53.gebuhrenfrei.com
 adprtm53.kartegold.de
 adprtm53.xn--gebhrenfrei-vhb.de
+advertize.stcbank.com.sa
 af.mobile.free.fr
 afm.alphatick.com
 afm.cnthevtmarkets.com
@@ -677,6 +678,7 @@ info.betway.co.tz
 info.betway.co.za
 info.betway.co.zm
 info.betway.com.gh
+info.betway.com.ng
 info.betway.fr
 info.betway.lat
 info.betway.mw
@@ -768,7 +770,6 @@ online-security.unionbankph.com
 online.nbc.ca
 onlineapplications.anz.com
 onlinemetrix.liverpool.com.mx
-onoutput.com
 ons.tickets.com
 optm.optus.com.au
 osn-cirrus.cas.org
@@ -823,6 +824,7 @@ prod-dccuva.chaperone.lumindigitalhosting.com
 prod-dexsta.chaperone.lumindigitalhosting.com
 prod-ffcuin.chaperone.lumindigitalhosting.com
 prod-firstmark.chaperone.lumindigitalhosting.com
+prod-frontier.chaperone.lumindigitalhosting.com
 prod-fsfcutn.chaperone.lumindigitalhosting.com
 prod-hfcuvt.chaperone.lumindigitalhosting.com
 prod-hsfcuhi.chaperone.lumindigitalhosting.com
@@ -895,7 +897,6 @@ rba-screen.optumfinancial.com
 rba-screen.yourdentalplan.com
 rba.apata.io
 rba.cfg.smt.docomo.ne.jp
-rba.infinitium.com
 rba.login.agentmessagecenter.optum.com
 rba.login.mahix.org
 rba.onehealthcareid.com
@@ -910,6 +911,7 @@ regstat.betfair.it
 regstat.betfair.ro
 regstat.dibz.co.uk
 regstat.paddypower.com
+regstat.pokerstars.com
 regstat.skybet.com
 regstat.skybetservices.com
 regstat.skybingo.com
@@ -1296,6 +1298,7 @@ ww3.peacsolutions.com
 ww9.lloydsbank.com
 www.cdna.cofidis.be
 www.content.bnpparibas.net
+www.content.connexion-mabanque.bnpparibas
 www.content.espace-client.hellobank.fr
 www.content.hellobank.it
 www.content.mabanque.bnpparibas
@@ -1310,3 +1313,4 @@ yr3ioxw.hoaresbank.co.uk
 zfp.intuit.com
 zrn.payglocal.com
 identity4.citidirect.com
+onoutput.com

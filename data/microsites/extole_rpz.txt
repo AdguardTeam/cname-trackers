@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,7 +24,6 @@ invite.toughmudder.com CNAME .
 refer-a-friend.trivantis.com CNAME .
 refer.accountants.intuit.com CNAME .
 refer.ahsfriends.com CNAME .
-refer.alliedcash.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
@@ -38,7 +37,6 @@ refer.bostonglobe.com CNAME .
 refer.bowflex.com CNAME .
 refer.calstate.aaa.com CNAME .
 refer.carbonite.com CNAME .
-refer.checkngo.com CNAME .
 refer.citizen-times.com CNAME .
 refer.clarionledger.com CNAME .
 refer.clearme.com CNAME .
@@ -136,8 +134,8 @@ businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em767.forgetrust.com CNAME .
 em8561.go2bank.com CNAME .
+em924.refer.starbucks.com CNAME .
 emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -456,6 +454,7 @@ referral.bluehost.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.drunkelephant.com CNAME .
 referral.lgeccu.org CNAME .
+referral.moneybase.com CNAME .
 referral.pellaofdfw.com CNAME .
 referral.shiseido.com CNAME .
 referralrewards.brightspeed.com CNAME .
@@ -589,6 +588,7 @@ share.havenwellwithin.com CNAME .
 share.heydayskincare.com CNAME .
 share.heydude.com CNAME .
 share.hicapitalize.com CNAME .
+share.honeypacks.com CNAME .
 share.hotwire.com CNAME .
 share.htrnews.com CNAME .
 share.hydropeptide.com CNAME .
@@ -792,9 +792,9 @@ em225.codecademy.com CNAME .
 em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
 em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .

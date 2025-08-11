@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754294408687        ; Serial
+           1754899209264        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1229,6 +1229,7 @@ $TTL 300
 5602.notify.optimizesrv.com CNAME .
 5606578.notify6.com CNAME .
 5617898.notify6.com CNAME .
+5680316.notify6.com CNAME .
 577.notify.optimizesrv.com CNAME .
 583.notify.optimizesrv.com CNAME .
 589.notify.optimizesrv.com CNAME .
@@ -1253,11 +1254,11 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
+a.8jfbt5va3r.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
 a.b2bstars.com CNAME .
 a.b7q9v8z.com CNAME .
-a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
 a.etology.com CNAME .
 a.eunow4u.com CNAME .
@@ -1269,7 +1270,6 @@ a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
-a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
 a.tf4srv.com CNAME .
@@ -1294,6 +1294,7 @@ admin1.notifysrv.com CNAME .
 administration.notifysrv.com CNAME .
 admissions.notifysrv.com CNAME .
 adrepository.opoxv.com CNAME .
+ads.optimizesrv.com CNAME .
 ads.toroadvertising.com CNAME .
 adult.notifysrv.com CNAME .
 android.notifysrv.com CNAME .
@@ -1348,7 +1349,6 @@ kiev.notifysrv.com CNAME .
 kwi18ah9r60yjb70.notify6.com CNAME .
 law.notifysrv.com CNAME .
 m.hue2b.com CNAME .
-m.optidigital.com CNAME .
 mail17.notifysrv.com CNAME .
 main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .
@@ -1417,8 +1417,10 @@ s.dsckgc.com CNAME .
 s.dsczci.com CNAME .
 s.dsd1gy.com CNAME .
 s.dsd8vc.com CNAME .
+s.dse589.com CNAME .
 s.dseb0x.com CNAME .
 s.dsebx6.com CNAME .
+s.dsedgu.com CNAME .
 s.dsejln.com CNAME .
 s.dseoeg.com CNAME .
 s.dservq.com CNAME .
@@ -1542,6 +1544,7 @@ s.zlinkm.com CNAME .
 s.zlinkn.com CNAME .
 s.zlinkp.com CNAME .
 s.zlinkr.com CNAME .
+s.zlinkt.com CNAME .
 s25.notifysrv.com CNAME .
 s30.notifysrv.com CNAME .
 samba.notifysrv.com CNAME .
@@ -1711,6 +1714,8 @@ a.18ramp.com CNAME .
 a.advertrek.com CNAME .
 a.allureanews.com CNAME .
 a.asvsm.com CNAME .
+a.bizonads-ssp.com CNAME .
 a.huklop.com CNAME .
 a.ouzads.com CNAME .
-ads.optimizesrv.com CNAME .
+a.r8lnet.com CNAME .
+m.optidigital.com CNAME .

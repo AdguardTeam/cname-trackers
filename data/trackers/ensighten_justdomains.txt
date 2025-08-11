@@ -269,6 +269,7 @@ nexus.tdbank.com
 nexus.tdinsurance.com
 nexus.toyota.com
 nexus.virginholidays.co.uk
+ntms-test.coles.com.au
 ntms-test.koganmoney.com.au
 ntms.coles.com.au
 ntms.koganmoney.com.au
