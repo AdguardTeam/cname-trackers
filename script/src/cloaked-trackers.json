@@ -378,6 +378,13 @@
         ]
     },
     {
+        "company_name": "Piwik PRO",
+        "type": "tracker",
+        "domains": [
+            "piwik.pro"
+        ]
+    },
+    {
         "company_name": "Plausible Analytics",
         "type": "tracker",
         "domains": [
