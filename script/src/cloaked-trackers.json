@@ -167,6 +167,13 @@
         ]
     },
     {
+        "company_name": "CustomerLabs",
+        "type": "tracker",
+        "domains": [
+            "1p-data.co"
+        ]
+    },
+    {
         "company_name": "customer.io",
         "type": "mail_tracker",
         "domains": [
