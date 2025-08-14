@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2025-08-11T08:00:09+00:00
+! TimeUpdated: 2025-08-14T10:01:49+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -78,6 +78,9 @@
 ! Company: Criteo
 ||dnsdelegation.io^
 ||storetail.io^
+!
+! Company: CustomerLabs
+||1p-data.co^
 !
 ! Company: customer.io
 ||e.customeriomail.com^
@@ -173,6 +176,9 @@
 !
 ! Company: Parse.ly
 ||parsely.com^
+!
+! Company: Piwik PRO
+||piwik.pro^
 !
 ! Company: Plausible Analytics
 ||custom.plausible.io^

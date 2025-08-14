@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -255,6 +255,7 @@ adxhand1.name CNAME .
 adzilla1.name CNAME .
 aeym37jp.xyz CNAME .
 ajjac.club CNAME .
+akarakas.com CNAME .
 akm3w.pleasedonotblockme.com CNAME .
 alalos.com CNAME .
 alaoena.xyz CNAME .
@@ -360,15 +361,6 @@ assets.taghtia.com CNAME .
 astuff.clicknplay.to CNAME .
 av.sharktube.net CNAME .
 ava.lazumi.online CNAME .
-avbang3431.fun CNAME .
-avbulb3431.fun CNAME .
-avdebt3431.fun CNAME .
-avgive3431.fun CNAME .
-avloan3431.fun CNAME .
-avmonk3431.fun CNAME .
-avorgy3431.fun CNAME .
-avroad3431.fun CNAME .
-avsink3431.fun CNAME .
 avview3431.fun CNAME .
 awrfds3.pornpapa.com CNAME .
 ax4.xmoviesland.com CNAME .
@@ -391,7 +383,6 @@ battle05032026.shop CNAME .
 battle1266.fun CNAME .
 baukeri.ehrydnmdoe.com CNAME .
 bc6dc48b743dc5d01.clicknplay.to CNAME .
-beauty1.xyz CNAME .
 betray1266.fun CNAME .
 bio.booseed.com CNAME .
 blow.week1time.com CNAME .
@@ -441,6 +432,7 @@ ca.trashreality.com CNAME .
 ca.zatube.com CNAME .
 cache.picxxxhub.com CNAME .
 careerjavgg124.fun CNAME .
+carpici.clicknplay.to CNAME .
 casejav11.fun CNAME .
 cba.cda-hd.co CNAME .
 cdfr.hot4k.org CNAME .
@@ -547,6 +539,7 @@ equity-dev.hubhubhub.name CNAME .
 esondvn.ehrydnmdoe.com CNAME .
 essential.awmcash.com CNAME .
 estate05032026.shop CNAME .
+ethena.online CNAME .
 ethnic1266.fun CNAME .
 evcustom-ad.xyz CNAME .
 evnhigkzgp.club CNAME .
@@ -847,6 +840,7 @@ ok.forwank.com CNAME .
 ok.transhero.com CNAME .
 okoloss.com CNAME .
 one.iugbhsu.com CNAME .
+ontj.com CNAME .
 ooawsxkdrm.club CNAME .
 opus.sexyxxx.biz CNAME .
 oquaysx.club CNAME .
@@ -1132,7 +1126,6 @@ vainjav11.fun CNAME .
 vboiutv.xyz CNAME .
 vd.7vid.net CNAME .
 vergo.ehrydnmdoe.com CNAME .
-versus.filegram.to CNAME .
 vgcustom-ad.xyz CNAME .
 vi1.prettytube.net CNAME .
 vid.prettytube.net CNAME .
@@ -1189,6 +1182,7 @@ www.letstry69.xyz CNAME .
 www.mestierediscrivere.hubhubhub.name CNAME .
 www.mysalo.store CNAME .
 www.n.bloblohub.com CNAME .
+www.n.hubhubhub.name CNAME .
 www.pickard.hubhubhub.name CNAME .
 www.pleasedonotblockme.com CNAME .
 www.pornvideos.casa CNAME .
@@ -1292,4 +1286,3 @@ satisfaction399.fun CNAME .
 spokesperson254.fun CNAME .
 withdraw3452.fun CNAME .
 now.plsgotoasg.com CNAME .
-ontj.com CNAME .

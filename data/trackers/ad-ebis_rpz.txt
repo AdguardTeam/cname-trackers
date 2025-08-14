@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -97,6 +97,7 @@ adebis.lifestylemag.jp CNAME .
 adebis.livable.co.jp CNAME .
 adebis.logoshome.jp CNAME .
 adebis.mizunomori.com CNAME .
+adebis.muscledeli.co.jp CNAME .
 adebis.muscledeli.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
@@ -186,7 +187,6 @@ cname.sognando.jp CNAME .
 cname.sokuyaku.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
 cname2.shaken-yoyaku.com CNAME .
-cnameadebisu.sincere-vision.com CNAME .
 cnameebis.eizoshigoto.com CNAME .
 cnameebis.usagi-online.com CNAME .
 cnameforitp.dermed.jp CNAME .

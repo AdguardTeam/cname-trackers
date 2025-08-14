@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.arcjav.com CNAME .
 c4n.asianpinay.com CNAME .
+c4n.gupload.xyz CNAME .
 c4n.hotjavmovies.com CNAME .
 c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
@@ -70,13 +71,13 @@ clkn2.apostle.onl CNAME .
 clkn3.apostle.onl CNAME .
 clknrtrg.pro CNAME .
 cn4.animehdl.net CNAME .
-cn4.cheemsporn.com CNAME .
 cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dr1.piczlabs.com CNAME .
 dr3.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
+excavajo6.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 ge6.getfto.com CNAME .
@@ -118,7 +119,6 @@ ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
 taco.sexreels.net CNAME .
 v040419.badjojo.com CNAME .
-virallink.fun CNAME .
 wafe.camcaps.sx CNAME .
 wp.brandnewapp.pro CNAME .
 www.bokep.su CNAME .
@@ -129,4 +129,3 @@ www.station54k.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .
-zvela.filegram.to CNAME .

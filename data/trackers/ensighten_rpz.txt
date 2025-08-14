@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -209,6 +209,7 @@ dc.volkswagen.com CNAME .
 dc.volkswagen.com.ar CNAME .
 dc.volkswagen.com.au CNAME .
 dc.volkswagen.de CNAME .
+dc.volkswagen.ie CNAME .
 dc.volkswagen.pl CNAME .
 dc.vw.co.za CNAME .
 dc.vw.com CNAME .
@@ -283,6 +284,7 @@ nexus.virginholidays.co.uk CNAME .
 ntms-test.coles.com.au CNAME .
 ntms-test.koganmoney.com.au CNAME .
 ntms.coles.com.au CNAME .
+ntms.creditcards.money.qantas.com CNAME .
 ntms.koganmoney.com.au CNAME .
 p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .
@@ -294,7 +296,6 @@ privacy-digital.pru.co.uk CNAME .
 privacy-digital.pruadviser.co.uk CNAME .
 privacy-digital.pruretire.co.uk CNAME .
 privacy.28degreescard.com.au CNAME .
-privacy.acaseforwomen.com CNAME .
 privacy.acc2-online.heineken.co.za CNAME .
 privacy.acc2.heishop.com.br CNAME .
 privacy.amadrinks.be CNAME .
@@ -325,6 +326,7 @@ privacy.uwm.com CNAME .
 privacy.zoll.com CNAME .
 privacyconsentmgmt.storable.com CNAME .
 privacymps.merchantprocessorsolutions.com CNAME .
+prv.heineken.com CNAME .
 pulse.delta.com CNAME .
 pulse.funeralaccount.com CNAME .
 pulse.quaero.com CNAME .
@@ -348,6 +350,7 @@ service-ens.sueddeutsche.de CNAME .
 smt.jcpenney.com CNAME .
 sst.dell.com CNAME .
 sst.homegoods.com CNAME .
+sst.integration.project4.com CNAME .
 sst.johnlewis.com CNAME .
 sst.marshalls.com CNAME .
 sst.nab.com.au CNAME .

@@ -204,6 +204,7 @@ br.vbr.omg.adult
 br.webcam.ac
 br.ww16.spankbanglive.com
 br.xham.live
+br.xhamsterlive.info
 br.xhlive.cam
 br.xhlive.net
 br.xhlive.org
@@ -264,6 +265,7 @@ coffe.stripchat.global
 colegio.stripchat.webcam
 collateral.xham.live
 colo1.chiccams.com
+com.stripchat.vision
 comp12.superchatlive.com
 concorso.xhlive.org
 conference.xmpp.stripchats.io
@@ -271,6 +273,7 @@ connectiongo.xham.live
 content3.myavlive.com
 cook.stripchat.global
 correo.rarecams.com
+correo.stripchat.vision
 creative.aznudelive.com
 creative.boyfriend.show
 creative.cambaddies.com
@@ -486,6 +489,7 @@ el.shemale.show
 el.spankbanglive.com
 el.stripchat.beeg.com
 el.stripchat.global
+el.stripchat.webcam
 el.stripchatgirls.com
 el.stripchats.global
 el.stripchats.io
@@ -503,8 +507,10 @@ elton.myavlive.com
 email.hot-india.com
 emall.stripchats.io
 emanuel.freestrip.chat
+eml.stripchat.vision
 en.live.javmix.tv
 en.myavlive.com
+en.shemale.show
 en.stripchat.global
 en.stripchatgirls.com
 en.stripchats.io
@@ -811,6 +817,7 @@ go.xhcam.live
 go.xhlive.cam
 go.xhlive.net
 go.xhlive.org
+go.zt.boyfriend.show
 go.zt.celebjihad.live
 go.zt.colsex.com
 go.zt.hot-india.com
@@ -847,6 +854,7 @@ hey.chiccams.com
 hj.spankbanglive.com
 hmlupload.sexfortokens.com
 hobby.stripchat.global
+home.stripchat.vision
 honest.superchatlive.com
 horta.stripchat.global
 hospitals.stripchats.io
@@ -969,6 +977,7 @@ id.sexygirlspics.live
 id.shemale.show
 id.spankbanglive.com
 id.strip-chat.club
+id.stripchat.beeg.com
 id.stripchat.direct
 id.stripchat.global
 id.stripchat.vision
@@ -1225,11 +1234,15 @@ mail.hot-india.com
 mail.nsk.chiccams.com
 mail.pa.omg.adult
 mail.pe.superchat.live
+mail.stripchat.vision
+mail01.stripchat.vision
 mail07.tklivechat.com
 mail1.hot-india.com
 mail1.superchatlive.com
 mail10.strip-chat.club
+mail10.stripchat.vision
 mail12.strip-chat.club
+mail12.stripchat.vision
 mail2.e.shemale.show
 mail2.hot-india.com
 mail2.members.omg.adult
@@ -1254,7 +1267,9 @@ mailin.hot-india.com
 mails.rarecams.com
 mailscanner2.strp.chat
 mailserver.hot-india.com
+mailserver.stripchat.vision
 mailserver.superchatlive.com
+mailsrv.stripchat.vision
 mailsystem.superchat.live
 mailsystem10.xhlive.org
 mailx.hot-india.com
@@ -1295,6 +1310,7 @@ mpmail.xhlive.org
 mrs2.chiccams.com
 mta.connect.camsplanetlive.com
 mta.rarecams.com
+mta.stripchat.vision
 mta008.tklivechat.com
 mta09.stripchatgirls.com
 mta103.omg.adult
@@ -1305,8 +1321,10 @@ mutant.freestrip.chat
 mwm.stripchatgirls.com
 mx-27.stripchat.webcam
 mx-s.stripchat.global
+mx.hot-india.com
 mx.superchatlive.com
 mx0.strip-chat.club
+mx0.stripchat.vision
 mx01.rarecams.com
 mx02.strip-chat.club
 mx09.boyfriend.show
@@ -1419,6 +1437,7 @@ novis.stripchatgirls.com
 nr2.stripchat.global
 nrt.tklivechat.com
 ns.hot-india.com
+ns.stripchat.vision
 ns.superchatlive.com
 ns1.hot-india.com
 ns127.chiccams.com
@@ -1456,6 +1475,7 @@ out13.stripchatgirls.com
 outboundmail.newsletter.xham.live
 outboundsmtp.superchat.live
 ovid.xhlive.cam
+owa.stripchat.vision
 ownc.omg.adult
 owncloud01.xhlive.org
 p08.omg.adult
@@ -1526,12 +1546,14 @@ poczta.xham.live
 polly.superchatlive.com
 pop.hot-india.com
 pop.superchatlive.com
+pop3.stripchat.vision
 pop3.superchatlive.com
 portal7.superchatlive.com
 post.hot-india.com
 post.superchatlive.com
 posta.strip-chat.club
 postmaster.hot-india.com
+postmaster.stripchat.vision
 ppp134.xham.live
 ppp243.xham.live
 ppwhs20.camsplanetlive.com
@@ -1612,6 +1634,7 @@ relay.hot-india.com
 relay.superchatlive.com
 relay2.rarecams.com
 relay2.strip-chat.club
+relay2.stripchat.vision
 remedyweb.superchatlive.com
 remote.hot-india.com
 remote.strip-chat.club
@@ -1739,6 +1762,7 @@ secureimap.omg.adult
 securepop.omg.adult
 send7.spankbanglive.com
 serv124.strp.chat
+server1.stripchat.vision
 server2.dev1.dr.superchat.live
 server248.chiccams.com
 server254.strp.chat
@@ -1766,6 +1790,7 @@ sk.nsfwlivechat.com
 sk.omg.adult
 sk.shemale.show
 sk.stripchat.global
+sk.superchat.live
 sk.superchatlive.com
 sk.xham.live
 sk.xhlive.net
@@ -1779,14 +1804,17 @@ smart3.stripchats.io
 smartwatch.shemale.show
 smtp-out-02.boyfriend.show
 smtp-out-02.stripchatgirls.com
+smtp.comune.stripchat.vision
 smtp.superchatlive.com
 smtp1.hot-india.com
 smtp1.rarecams.com
 smtp1.superchatlive.com
 smtpauth.hot-india.com
+smtpauth.stripchat.vision
 smtpauth.superchatlive.com
 smtpauth.tklivechat.com
 smtps.hot-india.com
+smtpseguro.stripchat.vision
 snippet.stripchat.global
 snoopy.strp.chat
 sociology.stripchat.webcam
@@ -1932,6 +1960,7 @@ tr.nsfwlivechat.com
 tr.nudescam18.com
 tr.omg.adult
 tr.porndudecams.com
+tr.primetime-cams.me
 tr.rarecams.com
 tr.sexfortokens.com
 tr.sexygirlspics.live
@@ -2030,6 +2059,7 @@ vi.aznudelive.com
 vi.boyfriend.show
 vi.cambaddies.com
 vi.celebjihad.live
+vi.drtuberlive.com
 vi.hot-india.com
 vi.hotzcam.com
 vi.live.javmix.tv
@@ -2079,6 +2109,7 @@ vr.campirates.com
 vr.camsplanetlive.com
 vr.celebjihad.live
 vr.colsex.com
+vr.drtuberlive.com
 vr.hot-india.com
 vr.hotzcam.com
 vr.live.javmix.tv
@@ -2135,6 +2166,7 @@ webxr.hot-india.com
 webxr.live.javmix.tv
 webxr.live7mm.tv
 webxr.stripchat.global
+weew.superchatlive.com
 westeros.superchatlive.com
 widgets.partners.myavlive.com
 wikipedia.shemale.show
@@ -2164,6 +2196,7 @@ ww1.superchat.live
 ww1.superchatlive.com
 ww16.spankbanglive.com
 ww16.superchatlive.com
+ww25.xham.live
 www-q.superchatlive.com
 www.8.strp.chat
 www.86cams.com
@@ -2290,6 +2323,7 @@ www.ro.colsex.com
 www.ro.rarecams.com
 www.roundcube.stripchatgirls.com
 www.ru.stripchats.global
+www.ru.xhamsterlive.info
 www.sc7.com
 www.scada.stripchatgirls.com
 www.sctestwl.com
@@ -2351,6 +2385,7 @@ www.zh.camsplanetlive.com
 www.zh.chiccams.com
 www.zh.colsex.com
 www.zh.live.herecams.com
+www.zh.rarecams.com
 www.zh.stripchat.direct
 www.zh.stripchat.vision
 www.zh.stripchats.global
@@ -2423,6 +2458,7 @@ zh.xham.live
 zh.xhlive.cam
 zh.xhlive.net
 zh.xhlive.org
+zimbra.stripchat.vision
 zola.spankbanglive.com
 zt.aznudelive.com
 zt.boyfriend.show

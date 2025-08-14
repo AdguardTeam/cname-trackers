@@ -263,6 +263,7 @@
 | l.topsante.com | tls.non.li |
 | l.touteleurope.eu | tls.non.li |
 | l.trendencias.com | tls.non.li |
+| l.tudogostoso.com.br | tls.non.li |
 | l.uppercutmma.com | tls.non.li |
 | l.viepratique.fr | tls.non.li |
 | l.voici.fr | tls.non.li |

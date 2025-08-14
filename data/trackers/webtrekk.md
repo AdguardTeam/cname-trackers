@@ -539,15 +539,7 @@
 | data.leipzig.de | data-leipzig.wt-eu02.net |
 | data.vdi-wissensforum.de | data-vdi-wissen01.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
-| di.ifolor.at | di.ifolor.wt-eu02.net |
-| di.ifolor.ch | di.ifolor.wt-eu02.net |
-| di.ifolor.com | di.ifolor.wt-eu02.net |
-| di.ifolor.fi | di.ifolor.wt-eu02.net |
-| di.ifolor.fr | di.ifolor.wt-eu02.net |
-| di.ifolor.it | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
-| di.ifolor.se | di.ifolor.wt-eu02.net |
-| di.spreadmorelove.ch | di.ifolor.wt-eu02.net |
 | pix.eads.com | eads-com01.webtrekk.net |
 | track.emeza.ch | emeza-ch01.webtrekk.net |
 | track.emeza.com | emeza-com01.webtrekk.net |

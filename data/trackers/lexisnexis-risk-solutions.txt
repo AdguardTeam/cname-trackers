@@ -253,6 +253,7 @@
 ||connect-cert-card.moneynetwork.com^
 ||connect-cert-myfunds.moneynetwork.com^
 ||connect-cert-prepaid.everywherepaycard.com^
+||connect-cert-prepaidcard.moneynetwork.com^
 ||connect-cert.account.moneynetwork.com^
 ||connect-cert.briopay.com^
 ||connect-cert.everywherepaycard.com^
@@ -506,6 +507,7 @@
 ||detect.clearme.com^
 ||dev-rmscheck.sbifxt.co.jp^
 ||device-fingerprint.pay1.checkout.worldline-solutions.com^
+||device-fingerprint.pay2.checkout.worldline-solutions.com^
 ||device-profile.jeniusbank.com^
 ||device.invoice2go.com^
 ||device.messa.org^
@@ -555,7 +557,6 @@
 ||ep-content.vivigo.pl^
 ||ep-content.viviraty.pl^
 ||ep-content.vivus.pl^
-||ep-content.zaplo.pl^
 ||ep.heartland.co.nz^
 ||ep.vystarcu.org^
 ||eps.uprova.com^
@@ -998,6 +999,7 @@
 ||srv.squaretrade.dk^
 ||srv.squaretrade.es^
 ||srv.squaretrade.fi^
+||srv.squaretrade.hu^
 ||srv.squaretrade.nl^
 ||srv.squaretrade.no^
 ||srv.squaretrade.pt^
@@ -1152,7 +1154,6 @@
 ||tm.stoiximan.com.cy^
 ||tm.stoiximan.gr^
 ||tm.summit-services.ca^
-||tm.sunbit.com^
 ||tm.tbcbank.uz^
 ||tm.tbcbusiness.uz^
 ||tm.telecharge.com^

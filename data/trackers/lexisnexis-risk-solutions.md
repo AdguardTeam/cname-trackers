@@ -42,7 +42,6 @@
     * h-2gssvh01.online-metrix.net
     * h-2hr2ixbz.online-metrix.net
     * h-2i27mb7r.online-metrix.net
-    * h-2ic7z584.online-metrix.net
     * h-2lg00mry.online-metrix.net
     * h-2lrwrk15.online-metrix.net
     * h-2n067wr9.online-metrix.net
@@ -935,7 +934,6 @@
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | img4.cargurus.com | h-2hr2ixbz.online-metrix.net |
 | meox.allianceonline.com.my | h-2i27mb7r.online-metrix.net |
-| tm.sunbit.com | h-2ic7z584.online-metrix.net |
 | ln.jackpotgo.club | h-2lg00mry.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
 | fp.ambrosewilson.com | h-2n067wr9.online-metrix.net |
@@ -1002,7 +1000,6 @@
 | ep-content.vivigo.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.viviraty.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.vivus.pl | h-4iibpm7t.online-metrix.net |
-| ep-content.zaplo.pl | h-4iibpm7t.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | ep.heartland.co.nz | h-4kblllmz.online-metrix.net |
 | content.heidipay.com | h-4qqysdfz.online-metrix.net |
@@ -1348,6 +1345,7 @@
 | srv.squaretrade.dk | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.es | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.fi | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.hu | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.nl | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.no | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.pt | h-b6te0xmf.online-metrix.net |
@@ -1578,6 +1576,7 @@
 | connect-cert-card.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert-myfunds.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert-prepaid.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
+| connect-cert-prepaidcard.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert.account.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert.briopay.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
@@ -1800,6 +1799,7 @@
 | cdncy.silver.com | h-k8vif92e-si.online-metrix.net |
 | advertize.stcbank.com.sa | h-k8vif92e-stc.online-metrix.net |
 | device-fingerprint.pay1.checkout.worldline-solutions.com | h-k8vif92e-worldline.online-metrix.net |
+| device-fingerprint.pay2.checkout.worldline-solutions.com | h-k8vif92e-worldline.online-metrix.net |
 | cdn-east.purchase.goto.com | h-k8vif92e.goto.online-metrix.net |
 | cybersource.shoplineapp.com | h-k8vif92e.online-metrix.net |
 | qrimages.qatarairways.com | h-k8vif92e.qat.online-metrix.net |

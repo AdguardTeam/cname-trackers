@@ -81,6 +81,7 @@
 ||35f1f7129e.279a342278.com^
 ||38559e1094.d175757719.com^
 ||393058c53b.97b8c93c9d.com^
+||3a0f411352.3434849c2e.com^
 ||3a6359571b.470e0f40ac.com^
 ||3aa5342c9f.8b2b018606.com^
 ||3b1d253452.8ea1272194.com^
@@ -112,6 +113,7 @@
 ||4f1a213614.0f0eeca702.com^
 ||4f1c8cf090.138b1541c6.com^
 ||51a66f8059.ce0a43500c.com^
+||52f79b55a7.93febf18c6.com^
 ||52fd9f7fa7.e65303ab96.com^
 ||536a1baec3.b594cb3a32.com^
 ||5393e2d07f.a196f8c478.com^
@@ -168,6 +170,7 @@
 ||78f77febd4.b49170aaa3.com^
 ||7a2e6c0335.ced3494312.com^
 ||7b04ae1dbf.bb1b9b8ea2.com^
+||7b26070d7b.68d48e2725.com^
 ||7bdc97a611.469ccf55cc.com^
 ||7c9edd89e2.5fbc7e29cd.com^
 ||7d9abe8eb2.53ad45898e.com^
@@ -334,7 +337,7 @@
 ||i.selecttopoff.com^
 ||i.statelinear.com^
 ||a135.wftv.com^
-||nj.finegardening.com^
+||instyle.share.ntv.io^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 ||a135.fox23.com^
@@ -367,7 +370,6 @@
 ||gayety.share.ntv.io^
 ||grandhaventribune.share.ntv.io^
 ||infoworld.share.ntv.io^
-||instyle.share.ntv.io^
 ||justapinch.share.ntv.io^
 ||kcci.share.ntv.io^
 ||littlethings.share.ntv.io^
@@ -378,6 +380,7 @@
 ||mundohispanico.share.ntv.io^
 ||nativomobileapps.share.ntv.io^
 ||newsweek.share.ntv.io^
+||nj.finegardening.com^
 ||nj.share.ntv.io^
 ||nydailynews.share.ntv.io^
 ||pcworld.share.ntv.io^
@@ -425,5 +428,4 @@
 ||a235.theintelligencer.com^
 ||a235.thetelegraph.com^
 ||a235.timesunion.com^
-||dc7b8b23dd.bf1685177f.com^
 ||img.nativo.net^

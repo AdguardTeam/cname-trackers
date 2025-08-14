@@ -88,15 +88,7 @@
 ||data.westlotto.de^
 ||daten.union-investment.de^
 ||def.bayer04.de^
-||di.ifolor.at^
-||di.ifolor.ch^
-||di.ifolor.com^
-||di.ifolor.fi^
-||di.ifolor.fr^
-||di.ifolor.it^
 ||di.ifolor.net^
-||di.ifolor.se^
-||di.spreadmorelove.ch^
 ||ed.emp-online.ch^
 ||ed.emp-online.com^
 ||ed.emp-online.es^

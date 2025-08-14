@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -264,6 +264,7 @@ condition.applause.com CNAME .
 connect-cert-card.moneynetwork.com CNAME .
 connect-cert-myfunds.moneynetwork.com CNAME .
 connect-cert-prepaid.everywherepaycard.com CNAME .
+connect-cert-prepaidcard.moneynetwork.com CNAME .
 connect-cert.account.moneynetwork.com CNAME .
 connect-cert.briopay.com CNAME .
 connect-cert.everywherepaycard.com CNAME .
@@ -517,6 +518,7 @@ dept.provantage.com CNAME .
 detect.clearme.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
 device-fingerprint.pay1.checkout.worldline-solutions.com CNAME .
+device-fingerprint.pay2.checkout.worldline-solutions.com CNAME .
 device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
 device.messa.org CNAME .
@@ -566,7 +568,6 @@ ep-content.patento.pl CNAME .
 ep-content.vivigo.pl CNAME .
 ep-content.viviraty.pl CNAME .
 ep-content.vivus.pl CNAME .
-ep-content.zaplo.pl CNAME .
 ep.heartland.co.nz CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
@@ -1009,6 +1010,7 @@ srv.squaretrade.de CNAME .
 srv.squaretrade.dk CNAME .
 srv.squaretrade.es CNAME .
 srv.squaretrade.fi CNAME .
+srv.squaretrade.hu CNAME .
 srv.squaretrade.nl CNAME .
 srv.squaretrade.no CNAME .
 srv.squaretrade.pt CNAME .
@@ -1163,7 +1165,6 @@ tm.stats.home24.nl CNAME .
 tm.stoiximan.com.cy CNAME .
 tm.stoiximan.gr CNAME .
 tm.summit-services.ca CNAME .
-tm.sunbit.com CNAME .
 tm.tbcbank.uz CNAME .
 tm.tbcbusiness.uz CNAME .
 tm.telecharge.com CNAME .

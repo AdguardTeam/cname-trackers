@@ -11,7 +11,6 @@
 * registry-web-suspension-1912215664.us-east-1.elb.amazonaws.com
 * 77980.bodis.com
 * u52.aabdmn.com
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -259,6 +258,7 @@
 | adzilla1.name | 0i0i0i0.com |
 | aeym37jp.xyz | 0i0i0i0.com |
 | ajjac.club | 0i0i0i0.com |
+| akarakas.com | 0i0i0i0.com |
 | akm3w.pleasedonotblockme.com | 0i0i0i0.com |
 | alalos.com | 0i0i0i0.com |
 | alaoena.xyz | 0i0i0i0.com |
@@ -364,15 +364,6 @@
 | astuff.clicknplay.to | 0i0i0i0.com |
 | av.sharktube.net | 0i0i0i0.com |
 | ava.lazumi.online | 0i0i0i0.com |
-| avbang3431.fun | 0i0i0i0.com |
-| avbulb3431.fun | 0i0i0i0.com |
-| avdebt3431.fun | 0i0i0i0.com |
-| avgive3431.fun | 0i0i0i0.com |
-| avloan3431.fun | 0i0i0i0.com |
-| avmonk3431.fun | 0i0i0i0.com |
-| avorgy3431.fun | 0i0i0i0.com |
-| avroad3431.fun | 0i0i0i0.com |
-| avsink3431.fun | 0i0i0i0.com |
 | avview3431.fun | 0i0i0i0.com |
 | awrfds3.pornpapa.com | 0i0i0i0.com |
 | ax4.xmoviesland.com | 0i0i0i0.com |
@@ -395,7 +386,6 @@
 | battle1266.fun | 0i0i0i0.com |
 | baukeri.ehrydnmdoe.com | 0i0i0i0.com |
 | bc6dc48b743dc5d01.clicknplay.to | 0i0i0i0.com |
-| beauty1.xyz | 0i0i0i0.com |
 | betray1266.fun | 0i0i0i0.com |
 | bio.booseed.com | 0i0i0i0.com |
 | blow.week1time.com | 0i0i0i0.com |
@@ -445,6 +435,7 @@
 | ca.zatube.com | 0i0i0i0.com |
 | cache.picxxxhub.com | 0i0i0i0.com |
 | careerjavgg124.fun | 0i0i0i0.com |
+| carpici.clicknplay.to | 0i0i0i0.com |
 | casejav11.fun | 0i0i0i0.com |
 | cba.cda-hd.co | 0i0i0i0.com |
 | cdfr.hot4k.org | 0i0i0i0.com |
@@ -551,6 +542,7 @@
 | esondvn.ehrydnmdoe.com | 0i0i0i0.com |
 | essential.awmcash.com | 0i0i0i0.com |
 | estate05032026.shop | 0i0i0i0.com |
+| ethena.online | 0i0i0i0.com |
 | ethnic1266.fun | 0i0i0i0.com |
 | evcustom-ad.xyz | 0i0i0i0.com |
 | evnhigkzgp.club | 0i0i0i0.com |
@@ -848,6 +840,7 @@
 | ok.transhero.com | 0i0i0i0.com |
 | okoloss.com | 0i0i0i0.com |
 | one.iugbhsu.com | 0i0i0i0.com |
+| ontj.com | 0i0i0i0.com |
 | ooawsxkdrm.club | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | oquaysx.club | 0i0i0i0.com |
@@ -1133,7 +1126,6 @@
 | vboiutv.xyz | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
 | vergo.ehrydnmdoe.com | 0i0i0i0.com |
-| versus.filegram.to | 0i0i0i0.com |
 | vgcustom-ad.xyz | 0i0i0i0.com |
 | vi1.prettytube.net | 0i0i0i0.com |
 | vid.prettytube.net | 0i0i0i0.com |
@@ -1189,6 +1181,7 @@
 | www.mestierediscrivere.hubhubhub.name | 0i0i0i0.com |
 | www.mysalo.store | 0i0i0i0.com |
 | www.n.bloblohub.com | 0i0i0i0.com |
+| www.n.hubhubhub.name | 0i0i0i0.com |
 | www.pickard.hubhubhub.name | 0i0i0i0.com |
 | www.pleasedonotblockme.com | 0i0i0i0.com |
 | www.pornvideos.casa | 0i0i0i0.com |
@@ -1289,7 +1282,6 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | now.plsgotoasg.com | u52.aabdmn.com |
-| ontj.com | u53.hypnorat.com |
 | hotadultcontent.com | u57.muzikguide.com |
 | hotadultvids.com | u57.muzikguide.com |
 | hotxxxcontent.com | u57.muzikguide.com |

@@ -1,0 +1,59 @@
+;
+; Company name: Piwik PRO
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1755165709826        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+a.relayto.com CNAME .
+a.uwhealth.org CNAME .
+analysis.sozialversicherung.at CNAME .
+analytics.akvo.org CNAME .
+analytics.arz.at CNAME .
+analytics.dx.ohio.gov CNAME .
+analytics.effectory.com CNAME .
+analytics.ferrero.com CNAME .
+analytics.ravelz.com CNAME .
+analytics.wavelz.com CNAME .
+analytics.webanalytics.op.europa.eu CNAME .
+analytics.witglobal.net CNAME .
+dap.amsterdam.nl CNAME .
+epiphany.masterworks.digital CNAME .
+fpt.fjordtravel.no CNAME .
+gmn.gloo.com CNAME .
+inzicht.cz.nl CNAME .
+logfiles.storck.com CNAME .
+mphdd.multipharma.be CNAME .
+p-pan.triodos.com CNAME .
+p.zwilling.com CNAME .
+piwik.com-online.com CNAME .
+piwik.slotsparadise.com CNAME .
+piwik.twyzle.com CNAME .
+piwik.vegasaces.com CNAME .
+piwikpro.vodafone.com CNAME .
+polpharmaanalytics.pl CNAME .
+ptm.wuerth.de CNAME .
+purple.fitchconnect.com CNAME .
+pwk.tweedekamer.nl CNAME .
+site-analytics.iop.ohio.gov CNAME .
+statistics.ind.nl CNAME .
+statistiek.rechtspraak.nl CNAME .
+statistiek.rijksoverheid.nl CNAME .
+statistiek.rvo.nl CNAME .
+statistieken.ns-epublisher.com CNAME .
+stats.dealerspike.com CNAME .
+stats.manz.at CNAME .
+t-pan.triodos.com CNAME .
+tag.aumago.com CNAME .
+tag2.uwv.nl CNAME .
+tagadmin.aumago.com CNAME .
+wa.mybookie.ag CNAME .
+wa.xbet.ag CNAME .
+webanalytics.helen.fi CNAME .
+www.webanalytics.europa.eu CNAME .

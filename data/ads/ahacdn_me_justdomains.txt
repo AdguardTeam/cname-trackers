@@ -17,6 +17,7 @@
 0fd597b40a.2377192920.com
 100fd4a943.a51f200d7e.com
 109ff0714d.7153823bf9.com
+10f506eaa3.19b7f4f4d8.com
 116240c6f1.2cba2742a4.com
 12159c9c0b.3009e36989.com
 12738dae1c.9cd4abb9e0.com
@@ -81,6 +82,7 @@
 444515f79a.828af6b8ce.com
 456e3abe32.215a043303.com
 4663c4808b.21162611f8.com
+468a72fe3d.5534a1fe5d.com
 472360d6f7.efef322148.com
 4859a6389d.af30ee9e36.com
 4ad8ea329d.f168b7fa34.com
@@ -284,7 +286,6 @@ d976beb9e5.4f9566374d.com
 d98aab83ee.3103cf02ec.com
 da6e6963b8.01955ad1f7.com
 db68da1d1a.2c5d30b6f1.com
-dd18d2814e.26ea4af114.com
 dd275c38d4.4239cc7770.com
 dd47055762.df6733029c.com
 dd99a86663.fcb6adad17.com
@@ -381,6 +382,7 @@ vjs.selecttopoff.com
 0033ee9caa.14474f114f.com
 011d6b4299.9709ad3598.com
 02d4b0f710.a4f074a2f8.com
+03581f5061.52992ea523.com
 03d228d56b.bdbc7dce8e.com
 04259544fc.a9562f872f.com
 0472421a93.8c814e6744.com
@@ -444,6 +446,7 @@ vjs.selecttopoff.com
 30a431b26a.e1bf915283.com
 30eb1eca12.d1a0c6affa.com
 31e9d899ee.41869c9436.com
+332dc981b4.5f242f7db1.com
 33795b3c71.00104186da.com
 33b39a6e93.3638f4360b.com
 35a92e241c.30ea3091fb.com
@@ -479,6 +482,7 @@ vjs.selecttopoff.com
 53694acd56.3ac04b70da.com
 540b7c72dd.5134d63209.com
 54c1aae895.f4cd8a8bf0.com
+54f7293256.abdadde321.com
 5502fb67e7.e395ce5e52.com
 5556bbc201.190cddbd0f.com
 56862eb176.096243309f.com
@@ -567,6 +571,7 @@ a0be2a7d71.b3bdc7e743.com
 a0de95822c.856d79ad49.com
 a25c71de26.62cf6d39c1.com
 a34e127dc8.095f2fc218.com
+a389db0b80.b0f3731d0a.com
 a3b54a4e96.92e6136b5d.com
 a415b0d4b1.8da1db73e4.com
 a4422148cd.0aabc05067.com
@@ -671,7 +676,6 @@ ef65c623b2.1c9ef7b121.com
 ef6c4fca52.3dcca6931d.com
 f021b63d67.2463624e63.com
 f0700b9a77.7a416c3a61.com
-f0a25d6857.99d533282b.com
 f2038c988e.90d92b6a4e.com
 f3b712f1f4.16d9c2d09e.com
 f45c5d6b32.9dcae0f138.com
@@ -795,7 +799,6 @@ fe7f2e3a68.317aba2b18.com
 65a0b115b1.84a53a18ac.com
 6b2f487753.cfca88ad66.com
 6b9a2dfd98.5a1c7720ea.com
-6c68a5f122.c8e7b8a04b.com
 6c800efb18.f8f311a27a.com
 6d90fc608a.f39ff3accb.com
 6fb77be0c7.c0636e54f1.com
@@ -806,14 +809,17 @@ fe7f2e3a68.317aba2b18.com
 737d5238dc.680e6a23f1.com
 73fd98f528.897300f105.com
 75003826de.8619047757.com
+75a42994ae.4ffc468d9b.com
 783c48008d.e7c1562b4f.com
 7896d16982.7cce6c4822.com
 796da77408.1b02555400.com
 79cdc7d40b.ce6b6837ab.com
 7a0dab879b.6d7486ee46.com
+7a7bedd6ea.ef8d86ab11.com
 7ade9ec954.f62b2a8ac6.com
 7be1e7d5ad.9287167913.com
 7c37119d9d.2533555ba6.com
+7e4bb44dd2.b1158965a8.com
 7fc6635248.24ccdb8c44.com
 7ff01aa709.516c0edfbb.com
 80fb1b35c2.47ae11ce2f.com
@@ -851,6 +857,7 @@ fe7f2e3a68.317aba2b18.com
 98fd7b1cb9.37f3bd8a22.com
 9936a91f58.f7658eb65e.com
 99ef5999fe.ff73564366.com
+9ad4b222eb.190b1f9880.com
 9b9812f859.7a9eb57b9d.com
 9c2d7cdbd5.388826bd9d.com
 9d6d1163fa.8c2012e141.com
@@ -896,6 +903,7 @@ bf7a65c961.3632ca5b41.com
 bf7e9baa53.bf002bbbbb.com
 bfa7591905.0cdf9706af.com
 c03ff6b001.78733f9c3c.com
+c058b13b28.deec684fdd.com
 c16fd5228c.73a435bfaf.com
 c2c4aecf0a.0073a85a5d.com
 c41d7608cb.cf1335386a.com
@@ -919,6 +927,7 @@ d10be68687.a6caf2a605.com
 d143db9441.dc188045ef.com
 d1f2095e51.3e0605983a.com
 d2889ff380.12c9049c32.com
+d5099e30ec.708ae8f508.com
 d51846de1e.b7085555f6.com
 d58353af9f.f9a77ca6b8.com
 d70cb4a85b.c4fb8f2af8.com
@@ -966,7 +975,6 @@ fe4b0f5775.0b6f7dc9d8.com
 ff8453ee2f.2d5ac65613.com
 ff97d1d2da.20590def33.com
 018e422111.f1617d6a6a.com
-0c550a5031.d9db994995.com
 264c95d3e9.eaed8c304f.com
 38236a5b03.e770af238b.com
 65a3a55b73.85fef60641.com
@@ -974,11 +982,11 @@ bfac5cb821.19d7fd2ed2.com
 c41eeda6ff.6af61bac7a.com
 d224b5684f.a34aba7b6c.com
 df63c9d77a.2619374464.com
-e6644fec96.7b98c550d1.com
 ee0ca7f291.b41732fb1b.com
 f2fcd50c02.db2a85c464.com
 12114200.pix-cdn.org
 2fwww.concretepublic.pro
+dnsbl.test.www.concretepublic.pro
 www.concretepublic.pro
 assets.ahmybid.net
 bid.mbidtg.com
@@ -991,15 +999,7 @@ v1.selecttopoff.com
 v1.statelinear.com
 cdn.1vag.com
 cdn.tubecorp.com
-cdn.bestadload.com
-cdn.hip-97166b.com
-cdn.stray228.com
-cdn.wasp-182b.com
-cdn.wolf-327b.com
-hpast.pornpics.com
-lab.blackpics.net
-log.bigroundass.net
-stats.hprofits.com
+cdn.addscliv.com
 cdn.clivetadds.com
 cdn.luyten-98c.com
 hpacdn.pornpics.com
@@ -1013,6 +1013,15 @@ loc.sexymilfspics.com
 loc.xtr2020.com
 log.fapder.com
 log.perfecttitspics.com
+cdn.bestadload.com
+cdn.hip-97166b.com
+cdn.stray228.com
+cdn.wasp-182b.com
+cdn.wolf-327b.com
+hpast.pornpics.com
+lab.blackpics.net
+log.bigroundass.net
+stats.hprofits.com
 cdn.cloudvideosa.com
 i.cdnfimgs.com
 i.cdnkimg.com

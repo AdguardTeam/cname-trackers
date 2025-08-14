@@ -7,25 +7,30 @@
 ### Rarely active trackers
 
 * form.bp01.net
+* f1.mailperf.com
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
+* tr1.bp06.net
+* f1.mailperformance.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
+| f1.mperf.com | f1.mailperf.com |
+| www.bfc-mp.caisse-epargne.fr | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
 | f1.mailperformance.com | form.bp01.net |
-| f1.mperf.com | form.bp01.net |
 | f1.np6.com | form.bp01.net |
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
-| www.bfc-mp.caisse-epargne.fr | form.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
+| tr1.bp09.net | tr1.bp06.net |
+| tr4.mailperf.com | tr1.bp06.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
@@ -55,6 +60,7 @@
 | tr.actualites.reseau-lcd.org | tracking.bp01.net |
 | tr.actuentreprises.elior.fr | tracking.bp01.net |
 | tr.actupremium.com | tracking.bp01.net |
+| tr.actus-fdj.fr | tracking.bp01.net |
 | tr.adhesion.ircom-laverriere.com | tracking.bp01.net |
 | tr.afpa.espmp-cufr.net | tracking.bp01.net |
 | tr.ag2rlamondiale.fr | tracking.bp01.net |
@@ -1238,7 +1244,6 @@
 | tr.xleads.digital | tracking.bp01.net |
 | tr.zojh.espmp-aluk.net | tracking.bp01.net |
 | tr1.bp06.net | tracking.bp01.net |
-| tr1.bp09.net | tracking.bp01.net |
 | tr1.bp26.net | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.easy-v01.net | tracking.bp01.net |
@@ -1250,7 +1255,6 @@
 | tr1.mperf.com | tracking.bp01.net |
 | tr1.peugeot-ipsos.com | tracking.bp01.net |
 | tr2.mperf.com | tracking.bp01.net |
-| tr4.mailperf.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
 | tr5.mperf.com | tracking.bp01.net |
 | tr6.mperf.com | tracking.bp01.net |

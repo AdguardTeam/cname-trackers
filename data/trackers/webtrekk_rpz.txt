@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -99,15 +99,7 @@ data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
 def.bayer04.de CNAME .
-di.ifolor.at CNAME .
-di.ifolor.ch CNAME .
-di.ifolor.com CNAME .
-di.ifolor.fi CNAME .
-di.ifolor.fr CNAME .
-di.ifolor.it CNAME .
 di.ifolor.net CNAME .
-di.ifolor.se CNAME .
-di.spreadmorelove.ch CNAME .
 ed.emp-online.ch CNAME .
 ed.emp-online.com CNAME .
 ed.emp-online.es CNAME .

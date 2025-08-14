@@ -214,7 +214,6 @@ affiliate.montessorikurz.cz
 affiliate.nabytek-forliveshop.cz
 affiliate.nakladatelstvi-riva.cz
 affiliate.nalepime.cz
-affiliate.nejfotopasti.cz
 affiliate.nethost.cz
 affiliate.nomind.cz
 affiliate.novakabelka.cz
@@ -297,7 +296,6 @@ devaff.bitcoinzmenaren.sk
 doporuc.hopsej.cz
 doporuc.kingray.sk
 doporuc.konferenceryba.cz
-doporuc.mechaneo.cz
 doporuc.necojakocola.cz
 doporuc.promujdomov.cz
 doporuc.slevomat.cz
@@ -488,6 +486,7 @@ partner.chilimarket.cz
 partner.chocolatehill.cz
 partner.chytranemovitost.cz
 partner.chytrydopravce.cz
+partner.city-game-prague.cz
 partner.cleanee.cz
 partner.cleverfood.eu
 partner.cocochoco-keratin.cz
@@ -509,6 +508,7 @@ partner.denato.it
 partner.denishenry.cz
 partner.detskyeshop.cz
 partner.dfprsteny.cz
+partner.digisign.cz
 partner.directalpine.cz
 partner.doleo.cz
 partner.dolorescannon.cz
@@ -613,6 +613,7 @@ partner.levanduloveudoli.cz
 partner.levanduloveudolie.sk
 partner.liberec-ubytovani.cz
 partner.lidajirickova.cz
+partner.lifelinediag.cz
 partner.ligsuniversity.cz
 partner.listy-profily.sk
 partner.lorooro.com
@@ -711,6 +712,7 @@ partner.scootshop.cz
 partner.semor.cz
 partner.sevio.cz
 partner.sexshop51.cz
+partner.sexshop51.sk
 partner.sielbeauty.cz
 partner.simdatamax.com
 partner.simplymix.com
@@ -977,6 +979,7 @@ spoluprace.skolnitriko.cz
 spoluprace.terrapotheka.cz
 spoluprace.vcelarstvi-domovina.cz
 spoluprace.vivobarefoot.cz
+tracking.pleddu.com
 udrzitelny-nakup.mydlia.cz
 udrzitelny-nakup.tierraverde.cz
 vydelavejtesnami.pg.cz
@@ -986,6 +989,7 @@ www.partner.hubatacernoska.cz
 www.partneri.zuzanaondrisova.sk
 affil.myface.cz
 affiliate.kulturistika.com
+affiliate.nejfotopasti.cz
 login.affiliatesit.cz
 partner.janapekna.cz
 partner.topforteam.cz

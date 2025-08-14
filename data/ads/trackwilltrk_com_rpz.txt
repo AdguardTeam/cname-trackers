@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 r.biotrck.com CNAME .
 r.flatlong.shop CNAME .
 r.maintoast.com CNAME .
+r.maintrck.com CNAME .
 r.scraperib.com CNAME .
 r.silvertrck.com CNAME .
 r.smttrck.com CNAME .

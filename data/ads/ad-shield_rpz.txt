@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -106,6 +106,7 @@ $TTL 300
 0.www.uprightfondly.com CNAME .
 0.www.uselesslyswiftprovided.com CNAME .
 0.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+0.www.worthequally.com CNAME .
 0.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 0.www.yuckbleaklyphooeywhen.com CNAME .
 1.www.02952346.xyz CNAME .
@@ -205,6 +206,8 @@ $TTL 300
 1.www.uprightfondly.com CNAME .
 1.www.uselesslyswiftprovided.com CNAME .
 1.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+1.www.weightabsenteekmonthly.com CNAME .
+1.www.worthequally.com CNAME .
 1.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 2.www.02952346.xyz CNAME .
 2.www.07443488.xyz CNAME .
@@ -303,6 +306,7 @@ $TTL 300
 2.www.uprightfondly.com CNAME .
 2.www.uselesslyswiftprovided.com CNAME .
 2.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+2.www.worthequally.com CNAME .
 2.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 3.www.02952346.xyz CNAME .
 3.www.08256602.xyz CNAME .
@@ -400,6 +404,7 @@ $TTL 300
 3.www.uprightfondly.com CNAME .
 3.www.uselesslyswiftprovided.com CNAME .
 3.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+3.www.worthequally.com CNAME .
 3.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 4.www.02952346.xyz CNAME .
 4.www.07443488.xyz CNAME .
@@ -498,6 +503,7 @@ $TTL 300
 4.www.uprightfondly.com CNAME .
 4.www.uselesslyswiftprovided.com CNAME .
 4.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+4.www.worthequally.com CNAME .
 4.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 5.www.02952346.xyz CNAME .
 5.www.08256602.xyz CNAME .
@@ -596,6 +602,7 @@ $TTL 300
 5.www.uprightfondly.com CNAME .
 5.www.uselesslyswiftprovided.com CNAME .
 5.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+5.www.worthequally.com CNAME .
 5.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 6.www.02952346.xyz CNAME .
 6.www.08256602.xyz CNAME .
@@ -693,6 +700,7 @@ $TTL 300
 6.www.uprightfondly.com CNAME .
 6.www.uselesslyswiftprovided.com CNAME .
 6.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+6.www.worthequally.com CNAME .
 6.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 7.www.02952346.xyz CNAME .
 7.www.08256602.xyz CNAME .
@@ -789,6 +797,7 @@ $TTL 300
 7.www.uprightfondly.com CNAME .
 7.www.uselesslyswiftprovided.com CNAME .
 7.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+7.www.worthequally.com CNAME .
 7.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 8.www.02952346.xyz CNAME .
 8.www.08256602.xyz CNAME .
@@ -887,6 +896,7 @@ $TTL 300
 8.www.uprightfondly.com CNAME .
 8.www.uselesslyswiftprovided.com CNAME .
 8.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+8.www.worthequally.com CNAME .
 8.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 9.www.02952346.xyz CNAME .
 9.www.08256602.xyz CNAME .
@@ -983,6 +993,7 @@ $TTL 300
 9.www.uprightfondly.com CNAME .
 9.www.uselesslyswiftprovided.com CNAME .
 9.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
+9.www.worthequally.com CNAME .
 9.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 www.00404850.xyz CNAME .
 www.00857731.xyz CNAME .
@@ -1001,7 +1012,6 @@ www.08256602.xyz CNAME .
 www.08585359.xyz CNAME .
 www.09064654.xyz CNAME .
 www.09284291.xyz CNAME .
-www.09745951.xyz CNAME .
 www.0ul1wlo58s-vu69us-r1u.xyz CNAME .
 www.10288299.xyz CNAME .
 www.10614305.xyz CNAME .
@@ -1021,6 +1031,7 @@ www.16239749.xyz CNAME .
 www.16327739.xyz CNAME .
 www.16972675.xyz CNAME .
 www.17022993.xyz CNAME .
+www.17088440.xyz CNAME .
 www.17199874.xyz CNAME .
 www.19009143.xyz CNAME .
 www.19199675.xyz CNAME .
@@ -1042,7 +1053,6 @@ www.29694851.xyz CNAME .
 www.2wu0m0ms098w7148.xyz CNAME .
 www.30212692.xyz CNAME .
 www.30937261.xyz CNAME .
-www.30981155.xyz CNAME .
 www.31945016.xyz CNAME .
 www.32343379.xyz CNAME .
 www.32472254.xyz CNAME .
@@ -1057,7 +1067,6 @@ www.37267612.xyz CNAME .
 www.38100003.xyz CNAME .
 www.38167473.xyz CNAME .
 www.38941752.xyz CNAME .
-www.40451343.xyz CNAME .
 www.41206396.xyz CNAME .
 www.41818491.xyz CNAME .
 www.425kmk7n9wn21pwvl18.xyz CNAME .
@@ -1067,7 +1076,7 @@ www.44592411.xyz CNAME .
 www.4547u5qms0m2um3rrum2wuo.xyz CNAME .
 www.45564736.xyz CNAME .
 www.46222568.xyz CNAME .
-www.46276192.xyz CNAME .
+www.46833676.xyz CNAME .
 www.47206262.xyz CNAME .
 www.47235645.xyz CNAME .
 www.47296536.xyz CNAME .
@@ -1081,7 +1090,6 @@ www.49766251.xyz CNAME .
 www.4tr3sopq592o7svp1q6mn3.xyz CNAME .
 www.4tuswl47353p4wl8lsk.xyz CNAME .
 www.50873vmk3263-7sk.xyz CNAME .
-www.52517086.xyz CNAME .
 www.53469662.xyz CNAME .
 www.54019033.xyz CNAME .
 www.54199287.xyz CNAME .
@@ -1100,7 +1108,6 @@ www.65035033.xyz CNAME .
 www.65122038.xyz CNAME .
 www.65894140.xyz CNAME .
 www.661kkm40uu6srww1mvso.xyz CNAME .
-www.68261736.xyz CNAME .
 www.69681858.xyz CNAME .
 www.69799884.xyz CNAME .
 www.72075223.xyz CNAME .
@@ -1197,6 +1204,5 @@ www.uprightfondly.com CNAME .
 www.us7-snkvsrwk1k1p2.xyz CNAME .
 www.uselesslyswiftprovided.com CNAME .
 www.w9l4tr4013tn5mo27t0w.xyz CNAME .
-www.weightabsenteekmonthly.com CNAME .
+www.worthequally.com CNAME .
 www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
-www.f33d11b5.xyz CNAME .

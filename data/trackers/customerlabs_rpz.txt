@@ -1,0 +1,37 @@
+;
+; Company name: CustomerLabs
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1755165709826        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+amtvgfz.veneera.de CNAME .
+bpftoyh.chamelo.com CNAME .
+bzljqlx.elietahari.com CNAME .
+cdskjrg.giliarto.com CNAME .
+cpsmbor.ensorings.com CNAME .
+czirtyk.sugarmesmooth.com CNAME .
+edczrfj.veneera.com CNAME .
+gslclvw.lackorecouture.com CNAME .
+hnvrprl.getmainelobster.com CNAME .
+lumhdco.mykitsch.com CNAME .
+msnpurf.themjewelersny.com CNAME .
+pmpbzjp.everydaydose.com CNAME .
+qqguqdw.veneera.nl CNAME .
+rmxmtsg.wowe.me CNAME .
+rulrdow.solawave.co CNAME .
+rwlywoe.keepnaturewild.com CNAME .
+tzfgzgo.quickservicepanama.com CNAME .
+ucscaik.gardencup.com CNAME .
+ujyloty.kingofchristmas.com CNAME .
+untrhhc.veneera.co.uk CNAME .
+uqnnvhk.ericjavits.com CNAME .
+wioaavu.enkay.com CNAME .
+wpdlphr.khoj.city CNAME .
+xjoipse.vivarawpets.com CNAME .

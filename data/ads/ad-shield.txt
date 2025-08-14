@@ -95,6 +95,7 @@
 ||0.www.uprightfondly.com^
 ||0.www.uselesslyswiftprovided.com^
 ||0.www.w9l4tr4013tn5mo27t0w.xyz^
+||0.www.worthequally.com^
 ||0.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||0.www.yuckbleaklyphooeywhen.com^
 ||1.www.02952346.xyz^
@@ -194,6 +195,8 @@
 ||1.www.uprightfondly.com^
 ||1.www.uselesslyswiftprovided.com^
 ||1.www.w9l4tr4013tn5mo27t0w.xyz^
+||1.www.weightabsenteekmonthly.com^
+||1.www.worthequally.com^
 ||1.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||2.www.02952346.xyz^
 ||2.www.07443488.xyz^
@@ -292,6 +295,7 @@
 ||2.www.uprightfondly.com^
 ||2.www.uselesslyswiftprovided.com^
 ||2.www.w9l4tr4013tn5mo27t0w.xyz^
+||2.www.worthequally.com^
 ||2.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||3.www.02952346.xyz^
 ||3.www.08256602.xyz^
@@ -389,6 +393,7 @@
 ||3.www.uprightfondly.com^
 ||3.www.uselesslyswiftprovided.com^
 ||3.www.w9l4tr4013tn5mo27t0w.xyz^
+||3.www.worthequally.com^
 ||3.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||4.www.02952346.xyz^
 ||4.www.07443488.xyz^
@@ -487,6 +492,7 @@
 ||4.www.uprightfondly.com^
 ||4.www.uselesslyswiftprovided.com^
 ||4.www.w9l4tr4013tn5mo27t0w.xyz^
+||4.www.worthequally.com^
 ||4.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||5.www.02952346.xyz^
 ||5.www.08256602.xyz^
@@ -585,6 +591,7 @@
 ||5.www.uprightfondly.com^
 ||5.www.uselesslyswiftprovided.com^
 ||5.www.w9l4tr4013tn5mo27t0w.xyz^
+||5.www.worthequally.com^
 ||5.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||6.www.02952346.xyz^
 ||6.www.08256602.xyz^
@@ -682,6 +689,7 @@
 ||6.www.uprightfondly.com^
 ||6.www.uselesslyswiftprovided.com^
 ||6.www.w9l4tr4013tn5mo27t0w.xyz^
+||6.www.worthequally.com^
 ||6.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||7.www.02952346.xyz^
 ||7.www.08256602.xyz^
@@ -778,6 +786,7 @@
 ||7.www.uprightfondly.com^
 ||7.www.uselesslyswiftprovided.com^
 ||7.www.w9l4tr4013tn5mo27t0w.xyz^
+||7.www.worthequally.com^
 ||7.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||8.www.02952346.xyz^
 ||8.www.08256602.xyz^
@@ -876,6 +885,7 @@
 ||8.www.uprightfondly.com^
 ||8.www.uselesslyswiftprovided.com^
 ||8.www.w9l4tr4013tn5mo27t0w.xyz^
+||8.www.worthequally.com^
 ||8.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||9.www.02952346.xyz^
 ||9.www.08256602.xyz^
@@ -972,6 +982,7 @@
 ||9.www.uprightfondly.com^
 ||9.www.uselesslyswiftprovided.com^
 ||9.www.w9l4tr4013tn5mo27t0w.xyz^
+||9.www.worthequally.com^
 ||9.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||www.00404850.xyz^
 ||www.00857731.xyz^
@@ -990,7 +1001,6 @@
 ||www.08585359.xyz^
 ||www.09064654.xyz^
 ||www.09284291.xyz^
-||www.09745951.xyz^
 ||www.0ul1wlo58s-vu69us-r1u.xyz^
 ||www.10288299.xyz^
 ||www.10614305.xyz^
@@ -1010,6 +1020,7 @@
 ||www.16327739.xyz^
 ||www.16972675.xyz^
 ||www.17022993.xyz^
+||www.17088440.xyz^
 ||www.17199874.xyz^
 ||www.19009143.xyz^
 ||www.19199675.xyz^
@@ -1031,7 +1042,6 @@
 ||www.2wu0m0ms098w7148.xyz^
 ||www.30212692.xyz^
 ||www.30937261.xyz^
-||www.30981155.xyz^
 ||www.31945016.xyz^
 ||www.32343379.xyz^
 ||www.32472254.xyz^
@@ -1046,7 +1056,6 @@
 ||www.38100003.xyz^
 ||www.38167473.xyz^
 ||www.38941752.xyz^
-||www.40451343.xyz^
 ||www.41206396.xyz^
 ||www.41818491.xyz^
 ||www.425kmk7n9wn21pwvl18.xyz^
@@ -1056,7 +1065,7 @@
 ||www.4547u5qms0m2um3rrum2wuo.xyz^
 ||www.45564736.xyz^
 ||www.46222568.xyz^
-||www.46276192.xyz^
+||www.46833676.xyz^
 ||www.47206262.xyz^
 ||www.47235645.xyz^
 ||www.47296536.xyz^
@@ -1070,7 +1079,6 @@
 ||www.4tr3sopq592o7svp1q6mn3.xyz^
 ||www.4tuswl47353p4wl8lsk.xyz^
 ||www.50873vmk3263-7sk.xyz^
-||www.52517086.xyz^
 ||www.53469662.xyz^
 ||www.54019033.xyz^
 ||www.54199287.xyz^
@@ -1089,7 +1097,6 @@
 ||www.65122038.xyz^
 ||www.65894140.xyz^
 ||www.661kkm40uu6srww1mvso.xyz^
-||www.68261736.xyz^
 ||www.69681858.xyz^
 ||www.69799884.xyz^
 ||www.72075223.xyz^
@@ -1186,6 +1193,5 @@
 ||www.us7-snkvsrwk1k1p2.xyz^
 ||www.uselesslyswiftprovided.com^
 ||www.w9l4tr4013tn5mo27t0w.xyz^
-||www.weightabsenteekmonthly.com^
+||www.worthequally.com^
 ||www.wqq881m8uwq1k5m-4p7lv7.xyz^
-||www.f33d11b5.xyz^

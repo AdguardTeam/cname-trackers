@@ -112,6 +112,7 @@
     * wgu.extole.com
     * wimp.extole.com
     * worldmarket.extole.com
+    * www.healthypawspetinsurance.extole.com
     * yankeecandle-ssl.extole.com
 * extole.io
     * 1800contacts.extole.io
@@ -219,6 +220,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -243,6 +245,7 @@
     * davines.extole.io
     * dell-outlet.extole.io
     * desert-financial.extole.io
+    * directv.extole.io
     * discountschoolsupply.extole.io
     * discover-bank.extole.io
     * discover-digital-servicing.extole.io
@@ -286,6 +289,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
@@ -409,6 +413,7 @@
     * mycomputercareer.extole.io
     * myheritage.extole.io
     * myinvestable.extole.io
+    * myob.extole.io
     * myollie.extole.io
     * nars-cosmetics.extole.io
     * naturalizer.extole.io
@@ -444,6 +449,7 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -478,7 +484,6 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
     * reveneer.extole.io
     * riley-rose.extole.io
@@ -499,6 +504,7 @@
     * savers.extole.io
     * seabourn.extole.io
     * sesamecare.extole.io
+    * sftp.extole.io
     * shark-clean.extole.io
     * shibumishade.extole.io
     * shiseido.extole.io
@@ -521,7 +527,6 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
@@ -551,6 +556,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -768,6 +774,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -806,6 +813,7 @@
 | refer.us.davines.com | davines.extole.io |
 | refer.delloutlet.com | dell-outlet.extole.io |
 | share.desertfinancial.com | desert-financial.extole.io |
+| referafriend.directv.com | directv.extole.io |
 | share.discountschoolsupply.com | discountschoolsupply.extole.io |
 | referafriend.discover.com | discover-bank.extole.io |
 | acq.discover.com | discover-digital-servicing.extole.io |
@@ -867,6 +875,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
@@ -877,6 +886,7 @@
 | refer.g2.com | g2.extole.io |
 | refer.gainbridge.io | gainbridge.extole.io |
 | share.app.com | gannett.extole.io |
+| share.argusleader.com | gannett.extole.io |
 | share.azcentral.com | gannett.extole.io |
 | share.battlecreekenquirer.com | gannett.extole.io |
 | share.burlingtonfreepress.com | gannett.extole.io |
@@ -1104,6 +1114,7 @@
 | share.mycomputercareer.edu | mycomputercareer.extole.io |
 | refer.myheritagedna.com | myheritage.extole.io |
 | share.myinvestable.com | myinvestable.extole.io |
+| refer.myob.com | myob.extole.io |
 | share.myollie.com | myollie.extole.io |
 | refer.myplant.com | myplant.extole.com |
 | refer.narscosmetics.com | nars-cosmetics.extole.io |
@@ -1155,6 +1166,7 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1205,7 +1217,6 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1236,6 +1247,7 @@
 | refer.seabourn.com | seabourn.extole.io |
 | refer.seniorhelpers.com | seniorhelpers.extole.com |
 | share.sesamecare.com | sesamecare.extole.io |
+| sftp.extole.com | sftp.extole.io |
 | friend.sharefile.com | sharefile-ssl.extole.com |
 | refer.sharkclean.com | shark-clean.extole.io |
 | share.shibumishade.com | shibumishade.extole.io |
@@ -1266,7 +1278,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
@@ -1305,6 +1316,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1395,6 +1407,7 @@
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
+| refer.healthypawspetinsurance.com | www.healthypawspetinsurance.extole.com |
 | em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |

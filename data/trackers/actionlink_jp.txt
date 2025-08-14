@@ -16,6 +16,7 @@
 ||al.babyrenta.com^
 ||al.ballon.jp^
 ||al.bath-ec.com^
+||al.beautycelbest.net^
 ||al.blvck.jp^
 ||al.bulk.co.jp^
 ||al.caetus.jp^
@@ -89,6 +90,7 @@
 ||al.tokimeku-otoriyose.jp^
 ||al.tsukurupajama.jp^
 ||al.ttandco.com^
+||al.ur-s.me^
 ||al.urban-square.jp^
 ||al.urbancosme.co.jp^
 ||al.uzu-japan.com^

@@ -198,6 +198,7 @@
 ||dc.volkswagen.com.ar^
 ||dc.volkswagen.com.au^
 ||dc.volkswagen.de^
+||dc.volkswagen.ie^
 ||dc.volkswagen.pl^
 ||dc.vw.co.za^
 ||dc.vw.com^
@@ -272,6 +273,7 @@
 ||ntms-test.coles.com.au^
 ||ntms-test.koganmoney.com.au^
 ||ntms.coles.com.au^
+||ntms.creditcards.money.qantas.com^
 ||ntms.koganmoney.com.au^
 ||p.pulse.buyatoyota.com^
 ||p.pulse.lexus.com^
@@ -283,7 +285,6 @@
 ||privacy-digital.pruadviser.co.uk^
 ||privacy-digital.pruretire.co.uk^
 ||privacy.28degreescard.com.au^
-||privacy.acaseforwomen.com^
 ||privacy.acc2-online.heineken.co.za^
 ||privacy.acc2.heishop.com.br^
 ||privacy.amadrinks.be^
@@ -314,6 +315,7 @@
 ||privacy.zoll.com^
 ||privacyconsentmgmt.storable.com^
 ||privacymps.merchantprocessorsolutions.com^
+||prv.heineken.com^
 ||pulse.delta.com^
 ||pulse.funeralaccount.com^
 ||pulse.quaero.com^
@@ -337,6 +339,7 @@
 ||smt.jcpenney.com^
 ||sst.dell.com^
 ||sst.homegoods.com^
+||sst.integration.project4.com^
 ||sst.johnlewis.com^
 ||sst.marshalls.com^
 ||sst.nab.com.au^

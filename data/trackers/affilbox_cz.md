@@ -8,6 +8,7 @@
 
 * c2309.affilbox.cz
 * c4924.affilbox.cz
+* affiliate.elektronicke-vycvikove-obojky.com
 * affiliatesit.cz
 * c771.affilbox.cz
 * c4670.affilbox.cz
@@ -16,6 +17,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| affiliate.nejfotopasti.cz | affiliate.elektronicke-vycvikove-obojky.com |
 | login.affiliatesit.cz | affiliatesit.cz |
 | affil.myface.cz | c2309.affilbox.cz |
 | partner.topforteam.cz | c4670.affilbox.cz |
@@ -235,7 +237,6 @@
 | affiliate.nabytek-forliveshop.cz | cz.affilbox.cz |
 | affiliate.nakladatelstvi-riva.cz | cz.affilbox.cz |
 | affiliate.nalepime.cz | cz.affilbox.cz |
-| affiliate.nejfotopasti.cz | cz.affilbox.cz |
 | affiliate.nethost.cz | cz.affilbox.cz |
 | affiliate.nomind.cz | cz.affilbox.cz |
 | affiliate.novakabelka.cz | cz.affilbox.cz |
@@ -318,7 +319,6 @@
 | doporuc.hopsej.cz | cz.affilbox.cz |
 | doporuc.kingray.sk | cz.affilbox.cz |
 | doporuc.konferenceryba.cz | cz.affilbox.cz |
-| doporuc.mechaneo.cz | cz.affilbox.cz |
 | doporuc.necojakocola.cz | cz.affilbox.cz |
 | doporuc.promujdomov.cz | cz.affilbox.cz |
 | doporuc.slevomat.cz | cz.affilbox.cz |
@@ -509,6 +509,7 @@
 | partner.chocolatehill.cz | cz.affilbox.cz |
 | partner.chytranemovitost.cz | cz.affilbox.cz |
 | partner.chytrydopravce.cz | cz.affilbox.cz |
+| partner.city-game-prague.cz | cz.affilbox.cz |
 | partner.cleanee.cz | cz.affilbox.cz |
 | partner.cleverfood.eu | cz.affilbox.cz |
 | partner.cocochoco-keratin.cz | cz.affilbox.cz |
@@ -530,6 +531,7 @@
 | partner.denishenry.cz | cz.affilbox.cz |
 | partner.detskyeshop.cz | cz.affilbox.cz |
 | partner.dfprsteny.cz | cz.affilbox.cz |
+| partner.digisign.cz | cz.affilbox.cz |
 | partner.directalpine.cz | cz.affilbox.cz |
 | partner.doleo.cz | cz.affilbox.cz |
 | partner.dolorescannon.cz | cz.affilbox.cz |
@@ -634,6 +636,7 @@
 | partner.levanduloveudolie.sk | cz.affilbox.cz |
 | partner.liberec-ubytovani.cz | cz.affilbox.cz |
 | partner.lidajirickova.cz | cz.affilbox.cz |
+| partner.lifelinediag.cz | cz.affilbox.cz |
 | partner.ligsuniversity.cz | cz.affilbox.cz |
 | partner.listy-profily.sk | cz.affilbox.cz |
 | partner.lorooro.com | cz.affilbox.cz |
@@ -732,6 +735,7 @@
 | partner.semor.cz | cz.affilbox.cz |
 | partner.sevio.cz | cz.affilbox.cz |
 | partner.sexshop51.cz | cz.affilbox.cz |
+| partner.sexshop51.sk | cz.affilbox.cz |
 | partner.sielbeauty.cz | cz.affilbox.cz |
 | partner.simdatamax.com | cz.affilbox.cz |
 | partner.simplymix.com | cz.affilbox.cz |
@@ -998,6 +1002,7 @@
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |
 | spoluprace.vcelarstvi-domovina.cz | cz.affilbox.cz |
 | spoluprace.vivobarefoot.cz | cz.affilbox.cz |
+| tracking.pleddu.com | cz.affilbox.cz |
 | udrzitelny-nakup.mydlia.cz | cz.affilbox.cz |
 | udrzitelny-nakup.tierraverde.cz | cz.affilbox.cz |
 | vydelavejtesnami.pg.cz | cz.affilbox.cz |

@@ -57,7 +57,6 @@
 ||a8.cbd-cosme.jp^
 ||a8.cbd-oil.jp^
 ||a8.cbdfx.jp^
-||a8.cbiz.io^
 ||a8.centarc.com^
 ||a8.chat-lady.jp^
 ||a8.choole.jp^

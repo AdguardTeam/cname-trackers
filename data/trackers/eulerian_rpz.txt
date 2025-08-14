@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,7 +73,6 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -90,7 +89,6 @@ ct.creditec.fr CNAME .
 ct5m.citadium.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d2u.dauphinquebec.com CNAME .
 deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
 deut3.fdj.fr CNAME .
@@ -196,6 +194,7 @@ ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 erdev5.eulerian.io CNAME .
 ert5.rmcsport.tv CNAME .
 et.futuroscope.com CNAME .
@@ -271,6 +270,7 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 hde1.repentignychevrolet.com CNAME .
 hgf4.zanzicar.fr CNAME .
+hk2d.tourismemauricie.com CNAME .
 idg1.idgarages.com CNAME .
 igc0.destinia.at CNAME .
 inv3te.oui.sncf CNAME .
@@ -285,6 +285,7 @@ jhm3.ifgexecutive.com CNAME .
 jo2f.cheque-cadhoc.fr CNAME .
 kep6.destinia.ie CNAME .
 kwsjy9.oui.sncf CNAME .
+l2i.qualityinnlevis.com CNAME .
 lbc.lesbonscommerces.fr CNAME .
 leo1.leon-de-bruxelles.fr CNAME .
 let1.devialet.com CNAME .
@@ -323,8 +324,6 @@ nlf6.vente-unique.pl CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.bonlook.com CNAME .
-nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
@@ -353,7 +352,6 @@ pcnphysio-com.ca-eulerian.net CNAME .
 pgt1.voyage-prive.es CNAME .
 piq4.inseec.education CNAME .
 pjh7.us.chantelle.com CNAME .
-pk1u.melanielyne.com CNAME .
 pkc5.hardrockhoteltenerife.com CNAME .
 pm.pmu.fr CNAME .
 po.ponant.com CNAME .
@@ -387,6 +385,7 @@ rmp4.destinia.uy CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
+ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
 sa.skoda.fr CNAME .
@@ -405,6 +404,7 @@ sr.mistermenuiserie.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
+su1.les-suites.ca CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
 t.locasun.de CNAME .
@@ -414,7 +414,6 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -491,14 +490,15 @@ zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 5fm.985fm.ca CNAME .
 c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
+d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
-erb.tremblant.ca CNAME .
-hk2d.tourismemauricie.com CNAME .
-l2i.qualityinnlevis.com CNAME .
+nym5c.bonlook.com CNAME .
 rwl.tremblant.ca CNAME .
-ry0.rythmefm.com CNAME .
-su1.les-suites.ca CNAME .
+t0y.toyota.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
+nym5c.laura.ca CNAME .
+pk1u.melanielyne.com CNAME .

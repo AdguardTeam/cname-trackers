@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -148,7 +148,6 @@ stats.palaisdesfetes.eu CNAME .
 stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .
 stats.riccardomurachelli.it CNAME .
-stats.roalgo.ro CNAME .
 stats.rocketgoboom.lol CNAME .
 stats.ryanchmelir.com CNAME .
 stats.sebastianzehner.com CNAME .
@@ -158,6 +157,7 @@ stats.svc.lol CNAME .
 stats.szorty.space CNAME .
 stats.tdurand.com CNAME .
 stats.timothechau.vet CNAME .
+stats.tinkerer.tools CNAME .
 stats.trainsley69.me CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .

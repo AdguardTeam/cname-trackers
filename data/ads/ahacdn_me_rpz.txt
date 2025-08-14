@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ $TTL 300
 0fd597b40a.2377192920.com CNAME .
 100fd4a943.a51f200d7e.com CNAME .
 109ff0714d.7153823bf9.com CNAME .
+10f506eaa3.19b7f4f4d8.com CNAME .
 116240c6f1.2cba2742a4.com CNAME .
 12159c9c0b.3009e36989.com CNAME .
 12738dae1c.9cd4abb9e0.com CNAME .
@@ -92,6 +93,7 @@ $TTL 300
 444515f79a.828af6b8ce.com CNAME .
 456e3abe32.215a043303.com CNAME .
 4663c4808b.21162611f8.com CNAME .
+468a72fe3d.5534a1fe5d.com CNAME .
 472360d6f7.efef322148.com CNAME .
 4859a6389d.af30ee9e36.com CNAME .
 4ad8ea329d.f168b7fa34.com CNAME .
@@ -295,7 +297,6 @@ d976beb9e5.4f9566374d.com CNAME .
 d98aab83ee.3103cf02ec.com CNAME .
 da6e6963b8.01955ad1f7.com CNAME .
 db68da1d1a.2c5d30b6f1.com CNAME .
-dd18d2814e.26ea4af114.com CNAME .
 dd275c38d4.4239cc7770.com CNAME .
 dd47055762.df6733029c.com CNAME .
 dd99a86663.fcb6adad17.com CNAME .
@@ -392,6 +393,7 @@ vjs.selecttopoff.com CNAME .
 0033ee9caa.14474f114f.com CNAME .
 011d6b4299.9709ad3598.com CNAME .
 02d4b0f710.a4f074a2f8.com CNAME .
+03581f5061.52992ea523.com CNAME .
 03d228d56b.bdbc7dce8e.com CNAME .
 04259544fc.a9562f872f.com CNAME .
 0472421a93.8c814e6744.com CNAME .
@@ -455,6 +457,7 @@ vjs.selecttopoff.com CNAME .
 30a431b26a.e1bf915283.com CNAME .
 30eb1eca12.d1a0c6affa.com CNAME .
 31e9d899ee.41869c9436.com CNAME .
+332dc981b4.5f242f7db1.com CNAME .
 33795b3c71.00104186da.com CNAME .
 33b39a6e93.3638f4360b.com CNAME .
 35a92e241c.30ea3091fb.com CNAME .
@@ -490,6 +493,7 @@ vjs.selecttopoff.com CNAME .
 53694acd56.3ac04b70da.com CNAME .
 540b7c72dd.5134d63209.com CNAME .
 54c1aae895.f4cd8a8bf0.com CNAME .
+54f7293256.abdadde321.com CNAME .
 5502fb67e7.e395ce5e52.com CNAME .
 5556bbc201.190cddbd0f.com CNAME .
 56862eb176.096243309f.com CNAME .
@@ -578,6 +582,7 @@ a0be2a7d71.b3bdc7e743.com CNAME .
 a0de95822c.856d79ad49.com CNAME .
 a25c71de26.62cf6d39c1.com CNAME .
 a34e127dc8.095f2fc218.com CNAME .
+a389db0b80.b0f3731d0a.com CNAME .
 a3b54a4e96.92e6136b5d.com CNAME .
 a415b0d4b1.8da1db73e4.com CNAME .
 a4422148cd.0aabc05067.com CNAME .
@@ -682,7 +687,6 @@ ef65c623b2.1c9ef7b121.com CNAME .
 ef6c4fca52.3dcca6931d.com CNAME .
 f021b63d67.2463624e63.com CNAME .
 f0700b9a77.7a416c3a61.com CNAME .
-f0a25d6857.99d533282b.com CNAME .
 f2038c988e.90d92b6a4e.com CNAME .
 f3b712f1f4.16d9c2d09e.com CNAME .
 f45c5d6b32.9dcae0f138.com CNAME .
@@ -806,7 +810,6 @@ fe7f2e3a68.317aba2b18.com CNAME .
 65a0b115b1.84a53a18ac.com CNAME .
 6b2f487753.cfca88ad66.com CNAME .
 6b9a2dfd98.5a1c7720ea.com CNAME .
-6c68a5f122.c8e7b8a04b.com CNAME .
 6c800efb18.f8f311a27a.com CNAME .
 6d90fc608a.f39ff3accb.com CNAME .
 6fb77be0c7.c0636e54f1.com CNAME .
@@ -817,14 +820,17 @@ fe7f2e3a68.317aba2b18.com CNAME .
 737d5238dc.680e6a23f1.com CNAME .
 73fd98f528.897300f105.com CNAME .
 75003826de.8619047757.com CNAME .
+75a42994ae.4ffc468d9b.com CNAME .
 783c48008d.e7c1562b4f.com CNAME .
 7896d16982.7cce6c4822.com CNAME .
 796da77408.1b02555400.com CNAME .
 79cdc7d40b.ce6b6837ab.com CNAME .
 7a0dab879b.6d7486ee46.com CNAME .
+7a7bedd6ea.ef8d86ab11.com CNAME .
 7ade9ec954.f62b2a8ac6.com CNAME .
 7be1e7d5ad.9287167913.com CNAME .
 7c37119d9d.2533555ba6.com CNAME .
+7e4bb44dd2.b1158965a8.com CNAME .
 7fc6635248.24ccdb8c44.com CNAME .
 7ff01aa709.516c0edfbb.com CNAME .
 80fb1b35c2.47ae11ce2f.com CNAME .
@@ -862,6 +868,7 @@ fe7f2e3a68.317aba2b18.com CNAME .
 98fd7b1cb9.37f3bd8a22.com CNAME .
 9936a91f58.f7658eb65e.com CNAME .
 99ef5999fe.ff73564366.com CNAME .
+9ad4b222eb.190b1f9880.com CNAME .
 9b9812f859.7a9eb57b9d.com CNAME .
 9c2d7cdbd5.388826bd9d.com CNAME .
 9d6d1163fa.8c2012e141.com CNAME .
@@ -907,6 +914,7 @@ bf7a65c961.3632ca5b41.com CNAME .
 bf7e9baa53.bf002bbbbb.com CNAME .
 bfa7591905.0cdf9706af.com CNAME .
 c03ff6b001.78733f9c3c.com CNAME .
+c058b13b28.deec684fdd.com CNAME .
 c16fd5228c.73a435bfaf.com CNAME .
 c2c4aecf0a.0073a85a5d.com CNAME .
 c41d7608cb.cf1335386a.com CNAME .
@@ -930,6 +938,7 @@ d10be68687.a6caf2a605.com CNAME .
 d143db9441.dc188045ef.com CNAME .
 d1f2095e51.3e0605983a.com CNAME .
 d2889ff380.12c9049c32.com CNAME .
+d5099e30ec.708ae8f508.com CNAME .
 d51846de1e.b7085555f6.com CNAME .
 d58353af9f.f9a77ca6b8.com CNAME .
 d70cb4a85b.c4fb8f2af8.com CNAME .
@@ -977,7 +986,6 @@ fe4b0f5775.0b6f7dc9d8.com CNAME .
 ff8453ee2f.2d5ac65613.com CNAME .
 ff97d1d2da.20590def33.com CNAME .
 018e422111.f1617d6a6a.com CNAME .
-0c550a5031.d9db994995.com CNAME .
 264c95d3e9.eaed8c304f.com CNAME .
 38236a5b03.e770af238b.com CNAME .
 65a3a55b73.85fef60641.com CNAME .
@@ -985,11 +993,11 @@ bfac5cb821.19d7fd2ed2.com CNAME .
 c41eeda6ff.6af61bac7a.com CNAME .
 d224b5684f.a34aba7b6c.com CNAME .
 df63c9d77a.2619374464.com CNAME .
-e6644fec96.7b98c550d1.com CNAME .
 ee0ca7f291.b41732fb1b.com CNAME .
 f2fcd50c02.db2a85c464.com CNAME .
 12114200.pix-cdn.org CNAME .
 2fwww.concretepublic.pro CNAME .
+dnsbl.test.www.concretepublic.pro CNAME .
 www.concretepublic.pro CNAME .
 assets.ahmybid.net CNAME .
 bid.mbidtg.com CNAME .
@@ -1002,15 +1010,7 @@ v1.selecttopoff.com CNAME .
 v1.statelinear.com CNAME .
 cdn.1vag.com CNAME .
 cdn.tubecorp.com CNAME .
-cdn.bestadload.com CNAME .
-cdn.hip-97166b.com CNAME .
-cdn.stray228.com CNAME .
-cdn.wasp-182b.com CNAME .
-cdn.wolf-327b.com CNAME .
-hpast.pornpics.com CNAME .
-lab.blackpics.net CNAME .
-log.bigroundass.net CNAME .
-stats.hprofits.com CNAME .
+cdn.addscliv.com CNAME .
 cdn.clivetadds.com CNAME .
 cdn.luyten-98c.com CNAME .
 hpacdn.pornpics.com CNAME .
@@ -1024,6 +1024,15 @@ loc.sexymilfspics.com CNAME .
 loc.xtr2020.com CNAME .
 log.fapder.com CNAME .
 log.perfecttitspics.com CNAME .
+cdn.bestadload.com CNAME .
+cdn.hip-97166b.com CNAME .
+cdn.stray228.com CNAME .
+cdn.wasp-182b.com CNAME .
+cdn.wolf-327b.com CNAME .
+hpast.pornpics.com CNAME .
+lab.blackpics.net CNAME .
+log.bigroundass.net CNAME .
+stats.hprofits.com CNAME .
 cdn.cloudvideosa.com CNAME .
 i.cdnfimgs.com CNAME .
 i.cdnkimg.com CNAME .

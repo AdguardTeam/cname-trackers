@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -68,7 +68,6 @@ a8.casie.jp CNAME .
 a8.cbd-cosme.jp CNAME .
 a8.cbd-oil.jp CNAME .
 a8.cbdfx.jp CNAME .
-a8.cbiz.io CNAME .
 a8.centarc.com CNAME .
 a8.chat-lady.jp CNAME .
 a8.choole.jp CNAME .

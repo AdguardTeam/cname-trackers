@@ -12,19 +12,17 @@
 
 * jadserve.postrelease.com.akadns.net
 * unavailable.hearstnp.com
-* 548260.parkingcrew.net
 * a1082.g.akamai.net
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| dc7b8b23dd.bf1685177f.com | 548260.parkingcrew.net |
 | img.nativo.net | a1082.g.akamai.net |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
 | a135.wftv.com | jadserve.postrelease.com |
-| nj.finegardening.com | jadserve.postrelease.com |
+| instyle.share.ntv.io | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.fox23.com | jadserve.postrelease.com.akadns.net |
@@ -172,6 +170,7 @@
 | 35f1f7129e.279a342278.com | ntvpforever.com |
 | 38559e1094.d175757719.com | ntvpforever.com |
 | 393058c53b.97b8c93c9d.com | ntvpforever.com |
+| 3a0f411352.3434849c2e.com | ntvpforever.com |
 | 3a6359571b.470e0f40ac.com | ntvpforever.com |
 | 3aa5342c9f.8b2b018606.com | ntvpforever.com |
 | 3b1d253452.8ea1272194.com | ntvpforever.com |
@@ -203,6 +202,7 @@
 | 4f1a213614.0f0eeca702.com | ntvpforever.com |
 | 4f1c8cf090.138b1541c6.com | ntvpforever.com |
 | 51a66f8059.ce0a43500c.com | ntvpforever.com |
+| 52f79b55a7.93febf18c6.com | ntvpforever.com |
 | 52fd9f7fa7.e65303ab96.com | ntvpforever.com |
 | 536a1baec3.b594cb3a32.com | ntvpforever.com |
 | 5393e2d07f.a196f8c478.com | ntvpforever.com |
@@ -259,6 +259,7 @@
 | 78f77febd4.b49170aaa3.com | ntvpforever.com |
 | 7a2e6c0335.ced3494312.com | ntvpforever.com |
 | 7b04ae1dbf.bb1b9b8ea2.com | ntvpforever.com |
+| 7b26070d7b.68d48e2725.com | ntvpforever.com |
 | 7bdc97a611.469ccf55cc.com | ntvpforever.com |
 | 7c9edd89e2.5fbc7e29cd.com | ntvpforever.com |
 | 7d9abe8eb2.53ad45898e.com | ntvpforever.com |

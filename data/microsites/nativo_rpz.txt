@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -92,6 +92,7 @@ sponsor.syracuse.com CNAME .
 35f1f7129e.279a342278.com CNAME .
 38559e1094.d175757719.com CNAME .
 393058c53b.97b8c93c9d.com CNAME .
+3a0f411352.3434849c2e.com CNAME .
 3a6359571b.470e0f40ac.com CNAME .
 3aa5342c9f.8b2b018606.com CNAME .
 3b1d253452.8ea1272194.com CNAME .
@@ -123,6 +124,7 @@ sponsor.syracuse.com CNAME .
 4f1a213614.0f0eeca702.com CNAME .
 4f1c8cf090.138b1541c6.com CNAME .
 51a66f8059.ce0a43500c.com CNAME .
+52f79b55a7.93febf18c6.com CNAME .
 52fd9f7fa7.e65303ab96.com CNAME .
 536a1baec3.b594cb3a32.com CNAME .
 5393e2d07f.a196f8c478.com CNAME .
@@ -179,6 +181,7 @@ sponsor.syracuse.com CNAME .
 78f77febd4.b49170aaa3.com CNAME .
 7a2e6c0335.ced3494312.com CNAME .
 7b04ae1dbf.bb1b9b8ea2.com CNAME .
+7b26070d7b.68d48e2725.com CNAME .
 7bdc97a611.469ccf55cc.com CNAME .
 7c9edd89e2.5fbc7e29cd.com CNAME .
 7d9abe8eb2.53ad45898e.com CNAME .
@@ -345,7 +348,7 @@ i.laketrend.com CNAME .
 i.selecttopoff.com CNAME .
 i.statelinear.com CNAME .
 a135.wftv.com CNAME .
-nj.finegardening.com CNAME .
+instyle.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 a135.fox23.com CNAME .
@@ -378,7 +381,6 @@ fox25boston.share.ntv.io CNAME .
 gayety.share.ntv.io CNAME .
 grandhaventribune.share.ntv.io CNAME .
 infoworld.share.ntv.io CNAME .
-instyle.share.ntv.io CNAME .
 justapinch.share.ntv.io CNAME .
 kcci.share.ntv.io CNAME .
 littlethings.share.ntv.io CNAME .
@@ -389,6 +391,7 @@ mlive.share.ntv.io CNAME .
 mundohispanico.share.ntv.io CNAME .
 nativomobileapps.share.ntv.io CNAME .
 newsweek.share.ntv.io CNAME .
+nj.finegardening.com CNAME .
 nj.share.ntv.io CNAME .
 nydailynews.share.ntv.io CNAME .
 pcworld.share.ntv.io CNAME .
@@ -436,5 +439,4 @@ a235.thehour.com CNAME .
 a235.theintelligencer.com CNAME .
 a235.thetelegraph.com CNAME .
 a235.timesunion.com CNAME .
-dc7b8b23dd.bf1685177f.com CNAME .
 img.nativo.net CNAME .

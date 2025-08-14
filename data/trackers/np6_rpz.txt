@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ tr.actualites.bfmtv.com CNAME .
 tr.actualites.reseau-lcd.org CNAME .
 tr.actuentreprises.elior.fr CNAME .
 tr.actupremium.com CNAME .
+tr.actus-fdj.fr CNAME .
 tr.adhesion.ircom-laverriere.com CNAME .
 tr.afpa.espmp-cufr.net CNAME .
 tr.ag2rlamondiale.fr CNAME .
@@ -1223,7 +1224,6 @@ tr.xlead.digital CNAME .
 tr.xleads.digital CNAME .
 tr.zojh.espmp-aluk.net CNAME .
 tr1.bp06.net CNAME .
-tr1.bp09.net CNAME .
 tr1.bp26.net CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.easy-v01.net CNAME .
@@ -1235,7 +1235,6 @@ tr1.mailperformance.com CNAME .
 tr1.mperf.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
 tr2.mperf.com CNAME .
-tr4.mailperf.com CNAME .
 tr5.mailperf.com CNAME .
 tr5.mperf.com CNAME .
 tr6.mperf.com CNAME .
@@ -1248,11 +1247,13 @@ cotemaison.np6.com CNAME .
 f1.demo.np6.com CNAME .
 f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
-f1.mperf.com CNAME .
 f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
-www.bfc-mp.caisse-epargne.fr CNAME .
+f1.mperf.com CNAME .
 s.gemy.fr CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
+tr1.bp09.net CNAME .
+tr4.mailperf.com CNAME .
+www.bfc-mp.caisse-epargne.fr CNAME .

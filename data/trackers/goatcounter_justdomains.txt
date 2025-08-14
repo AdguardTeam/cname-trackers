@@ -137,7 +137,6 @@ stats.palaisdesfetes.eu
 stats.r18.dev
 stats.raycordlegends.com
 stats.riccardomurachelli.it
-stats.roalgo.ro
 stats.rocketgoboom.lol
 stats.ryanchmelir.com
 stats.sebastianzehner.com
@@ -147,6 +146,7 @@ stats.svc.lol
 stats.szorty.space
 stats.tdurand.com
 stats.timothechau.vet
+stats.tinkerer.tools
 stats.trainsley69.me
 stats.transactional.blog
 stats.umcconnell.net

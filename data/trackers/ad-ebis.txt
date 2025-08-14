@@ -86,6 +86,7 @@
 ||adebis.livable.co.jp^
 ||adebis.logoshome.jp^
 ||adebis.mizunomori.com^
+||adebis.muscledeli.co.jp^
 ||adebis.muscledeli.jp^
 ||adebis.no.01.alo-organic.com^
 ||adebis.nursery.co.jp^
@@ -175,7 +176,6 @@
 ||cname.sokuyaku.jp^
 ||cname1.shakenkan.co.jp^
 ||cname2.shaken-yoyaku.com^
-||cnameadebisu.sincere-vision.com^
 ||cnameebis.eizoshigoto.com^
 ||cnameebis.usagi-online.com^
 ||cnameforitp.dermed.jp^

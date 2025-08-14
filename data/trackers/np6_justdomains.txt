@@ -29,6 +29,7 @@ tr.actualites.bfmtv.com
 tr.actualites.reseau-lcd.org
 tr.actuentreprises.elior.fr
 tr.actupremium.com
+tr.actus-fdj.fr
 tr.adhesion.ircom-laverriere.com
 tr.afpa.espmp-cufr.net
 tr.ag2rlamondiale.fr
@@ -1212,7 +1213,6 @@ tr.xlead.digital
 tr.xleads.digital
 tr.zojh.espmp-aluk.net
 tr1.bp06.net
-tr1.bp09.net
 tr1.bp26.net
 tr1.citroen-ipsos.com
 tr1.easy-v01.net
@@ -1224,7 +1224,6 @@ tr1.mailperformance.com
 tr1.mperf.com
 tr1.peugeot-ipsos.com
 tr2.mperf.com
-tr4.mailperf.com
 tr5.mailperf.com
 tr5.mperf.com
 tr6.mperf.com
@@ -1237,11 +1236,13 @@ cotemaison.np6.com
 f1.demo.np6.com
 f1.mailperf.com
 f1.mailperformance.com
-f1.mperf.com
 f1.np6.com
 infojeux.paris.fr
 lbv5.mperf.com
-www.bfc-mp.caisse-epargne.fr
+f1.mperf.com
 s.gemy.fr
 www.lgch.mp
 tr.communication.jardindacclimatation.fr
+tr1.bp09.net
+tr4.mailperf.com
+www.bfc-mp.caisse-epargne.fr

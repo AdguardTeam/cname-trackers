@@ -4,10 +4,6 @@
 
 * ad-shield.cc
 
-### Rarely active trackers
-
-* f33d11b5.xyz
-
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -107,6 +103,7 @@
 | 0.www.uprightfondly.com | ad-shield.cc |
 | 0.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 0.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 0.www.worthequally.com | ad-shield.cc |
 | 0.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 0.www.yuckbleaklyphooeywhen.com | ad-shield.cc |
 | 1.www.02952346.xyz | ad-shield.cc |
@@ -206,6 +203,8 @@
 | 1.www.uprightfondly.com | ad-shield.cc |
 | 1.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 1.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 1.www.weightabsenteekmonthly.com | ad-shield.cc |
+| 1.www.worthequally.com | ad-shield.cc |
 | 1.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 2.www.02952346.xyz | ad-shield.cc |
 | 2.www.07443488.xyz | ad-shield.cc |
@@ -304,6 +303,7 @@
 | 2.www.uprightfondly.com | ad-shield.cc |
 | 2.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 2.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 2.www.worthequally.com | ad-shield.cc |
 | 2.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 3.www.02952346.xyz | ad-shield.cc |
 | 3.www.08256602.xyz | ad-shield.cc |
@@ -401,6 +401,7 @@
 | 3.www.uprightfondly.com | ad-shield.cc |
 | 3.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 3.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 3.www.worthequally.com | ad-shield.cc |
 | 3.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 4.www.02952346.xyz | ad-shield.cc |
 | 4.www.07443488.xyz | ad-shield.cc |
@@ -499,6 +500,7 @@
 | 4.www.uprightfondly.com | ad-shield.cc |
 | 4.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 4.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 4.www.worthequally.com | ad-shield.cc |
 | 4.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 5.www.02952346.xyz | ad-shield.cc |
 | 5.www.08256602.xyz | ad-shield.cc |
@@ -597,6 +599,7 @@
 | 5.www.uprightfondly.com | ad-shield.cc |
 | 5.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 5.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 5.www.worthequally.com | ad-shield.cc |
 | 5.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 6.www.02952346.xyz | ad-shield.cc |
 | 6.www.08256602.xyz | ad-shield.cc |
@@ -694,6 +697,7 @@
 | 6.www.uprightfondly.com | ad-shield.cc |
 | 6.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 6.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 6.www.worthequally.com | ad-shield.cc |
 | 6.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 7.www.02952346.xyz | ad-shield.cc |
 | 7.www.08256602.xyz | ad-shield.cc |
@@ -790,6 +794,7 @@
 | 7.www.uprightfondly.com | ad-shield.cc |
 | 7.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 7.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 7.www.worthequally.com | ad-shield.cc |
 | 7.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 8.www.02952346.xyz | ad-shield.cc |
 | 8.www.08256602.xyz | ad-shield.cc |
@@ -888,6 +893,7 @@
 | 8.www.uprightfondly.com | ad-shield.cc |
 | 8.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 8.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 8.www.worthequally.com | ad-shield.cc |
 | 8.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 9.www.02952346.xyz | ad-shield.cc |
 | 9.www.08256602.xyz | ad-shield.cc |
@@ -984,6 +990,7 @@
 | 9.www.uprightfondly.com | ad-shield.cc |
 | 9.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 9.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 9.www.worthequally.com | ad-shield.cc |
 | 9.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | www.00404850.xyz | ad-shield.cc |
 | www.00857731.xyz | ad-shield.cc |
@@ -1002,7 +1009,6 @@
 | www.08585359.xyz | ad-shield.cc |
 | www.09064654.xyz | ad-shield.cc |
 | www.09284291.xyz | ad-shield.cc |
-| www.09745951.xyz | ad-shield.cc |
 | www.0ul1wlo58s-vu69us-r1u.xyz | ad-shield.cc |
 | www.10288299.xyz | ad-shield.cc |
 | www.10614305.xyz | ad-shield.cc |
@@ -1022,6 +1028,7 @@
 | www.16327739.xyz | ad-shield.cc |
 | www.16972675.xyz | ad-shield.cc |
 | www.17022993.xyz | ad-shield.cc |
+| www.17088440.xyz | ad-shield.cc |
 | www.17199874.xyz | ad-shield.cc |
 | www.19009143.xyz | ad-shield.cc |
 | www.19199675.xyz | ad-shield.cc |
@@ -1043,7 +1050,6 @@
 | www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | www.30212692.xyz | ad-shield.cc |
 | www.30937261.xyz | ad-shield.cc |
-| www.30981155.xyz | ad-shield.cc |
 | www.31945016.xyz | ad-shield.cc |
 | www.32343379.xyz | ad-shield.cc |
 | www.32472254.xyz | ad-shield.cc |
@@ -1058,7 +1064,6 @@
 | www.38100003.xyz | ad-shield.cc |
 | www.38167473.xyz | ad-shield.cc |
 | www.38941752.xyz | ad-shield.cc |
-| www.40451343.xyz | ad-shield.cc |
 | www.41206396.xyz | ad-shield.cc |
 | www.41818491.xyz | ad-shield.cc |
 | www.425kmk7n9wn21pwvl18.xyz | ad-shield.cc |
@@ -1068,7 +1073,7 @@
 | www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | www.45564736.xyz | ad-shield.cc |
 | www.46222568.xyz | ad-shield.cc |
-| www.46276192.xyz | ad-shield.cc |
+| www.46833676.xyz | ad-shield.cc |
 | www.47206262.xyz | ad-shield.cc |
 | www.47235645.xyz | ad-shield.cc |
 | www.47296536.xyz | ad-shield.cc |
@@ -1082,7 +1087,6 @@
 | www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | www.4tuswl47353p4wl8lsk.xyz | ad-shield.cc |
 | www.50873vmk3263-7sk.xyz | ad-shield.cc |
-| www.52517086.xyz | ad-shield.cc |
 | www.53469662.xyz | ad-shield.cc |
 | www.54019033.xyz | ad-shield.cc |
 | www.54199287.xyz | ad-shield.cc |
@@ -1101,7 +1105,6 @@
 | www.65122038.xyz | ad-shield.cc |
 | www.65894140.xyz | ad-shield.cc |
 | www.661kkm40uu6srww1mvso.xyz | ad-shield.cc |
-| www.68261736.xyz | ad-shield.cc |
 | www.69681858.xyz | ad-shield.cc |
 | www.69799884.xyz | ad-shield.cc |
 | www.72075223.xyz | ad-shield.cc |
@@ -1198,6 +1201,5 @@
 | www.us7-snkvsrwk1k1p2.xyz | ad-shield.cc |
 | www.uselesslyswiftprovided.com | ad-shield.cc |
 | www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
-| www.weightabsenteekmonthly.com | ad-shield.cc |
+| www.worthequally.com | ad-shield.cc |
 | www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
-| www.f33d11b5.xyz | f33d11b5.xyz |

@@ -226,6 +226,7 @@
 ||l.touteleurope.eu^
 ||l.traxmag.com^
 ||l.trendencias.com^
+||l.tudogostoso.com.br^
 ||l.uppercutmma.com^
 ||l.varmatin.com^
 ||l.viepratique.fr^

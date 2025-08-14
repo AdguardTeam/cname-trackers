@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -225,7 +225,6 @@ affiliate.montessorikurz.cz CNAME .
 affiliate.nabytek-forliveshop.cz CNAME .
 affiliate.nakladatelstvi-riva.cz CNAME .
 affiliate.nalepime.cz CNAME .
-affiliate.nejfotopasti.cz CNAME .
 affiliate.nethost.cz CNAME .
 affiliate.nomind.cz CNAME .
 affiliate.novakabelka.cz CNAME .
@@ -308,7 +307,6 @@ devaff.bitcoinzmenaren.sk CNAME .
 doporuc.hopsej.cz CNAME .
 doporuc.kingray.sk CNAME .
 doporuc.konferenceryba.cz CNAME .
-doporuc.mechaneo.cz CNAME .
 doporuc.necojakocola.cz CNAME .
 doporuc.promujdomov.cz CNAME .
 doporuc.slevomat.cz CNAME .
@@ -499,6 +497,7 @@ partner.chilimarket.cz CNAME .
 partner.chocolatehill.cz CNAME .
 partner.chytranemovitost.cz CNAME .
 partner.chytrydopravce.cz CNAME .
+partner.city-game-prague.cz CNAME .
 partner.cleanee.cz CNAME .
 partner.cleverfood.eu CNAME .
 partner.cocochoco-keratin.cz CNAME .
@@ -520,6 +519,7 @@ partner.denato.it CNAME .
 partner.denishenry.cz CNAME .
 partner.detskyeshop.cz CNAME .
 partner.dfprsteny.cz CNAME .
+partner.digisign.cz CNAME .
 partner.directalpine.cz CNAME .
 partner.doleo.cz CNAME .
 partner.dolorescannon.cz CNAME .
@@ -624,6 +624,7 @@ partner.levanduloveudoli.cz CNAME .
 partner.levanduloveudolie.sk CNAME .
 partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
+partner.lifelinediag.cz CNAME .
 partner.ligsuniversity.cz CNAME .
 partner.listy-profily.sk CNAME .
 partner.lorooro.com CNAME .
@@ -722,6 +723,7 @@ partner.scootshop.cz CNAME .
 partner.semor.cz CNAME .
 partner.sevio.cz CNAME .
 partner.sexshop51.cz CNAME .
+partner.sexshop51.sk CNAME .
 partner.sielbeauty.cz CNAME .
 partner.simdatamax.com CNAME .
 partner.simplymix.com CNAME .
@@ -988,6 +990,7 @@ spoluprace.skolnitriko.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
 spoluprace.vivobarefoot.cz CNAME .
+tracking.pleddu.com CNAME .
 udrzitelny-nakup.mydlia.cz CNAME .
 udrzitelny-nakup.tierraverde.cz CNAME .
 vydelavejtesnami.pg.cz CNAME .
@@ -997,6 +1000,7 @@ www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .
 affiliate.kulturistika.com CNAME .
+affiliate.nejfotopasti.cz CNAME .
 login.affiliatesit.cz CNAME .
 partner.janapekna.cz CNAME .
 partner.topforteam.cz CNAME .

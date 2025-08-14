@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1754899209264        ; Serial
+           1755165709826        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -115,6 +115,7 @@ lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
 meter.rhinobag.de CNAME .
+metrics.einfachiso.de CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.treudelberg-resort.com CNAME .
@@ -140,6 +141,7 @@ statistics.finkhof.de CNAME .
 statistics.fruchtbarewelt.de CNAME .
 stats.die-bibel.de CNAME .
 stats.folienmarkt.de CNAME .
+stats.hilscher.com CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.krauss-gmbh.com CNAME .
 stats.mopo.de CNAME .
@@ -177,9 +179,11 @@ tracking.terrassenhof.de CNAME .
 trkkr.bugatti-media.com CNAME .
 trkkr.bugatti-newsroom.com CNAME .
 uezeus.ueberbit.de CNAME .
+umerf.fernerblick.at CNAME .
 umerf.reisprinzen.de CNAME .
 wa.ostermann.eu CNAME .
 waet.datalogue.de CNAME .
+wbtr.chgmeridian.com CNAME .
 wctr.aures.ag CNAME .
 wctr.bodenverkauf.de CNAME .
 wctr.hh-klebetechnologie.de CNAME .
@@ -210,6 +214,7 @@ webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
 webcontr.crazy-heels.com CNAME .
 webcontr.distrebution.com CNAME .
+webcontr.domondo.it CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.genius.tv CNAME .
 webcontr.holzgestein.com CNAME .
