@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -197,6 +197,7 @@ cs0008sbeda.moromi-koso.com CNAME .
 cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .
 cs0010sbeda.theory-kumatarumi.com CNAME .
+cs0113sbeda.scanet.jp CNAME .
 cs1470sbeda.schoolasp.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
 cs1979sbeda.customguide-build.net CNAME .

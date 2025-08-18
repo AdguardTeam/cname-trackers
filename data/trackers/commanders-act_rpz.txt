@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,16 +20,16 @@ data.ubi.com CNAME .
 data.wptag.net CNAME .
 logger.yp.ca CNAME .
 sales.disneylandparis.com CNAME .
+tag.boulanger.fr CNAME .
 tagcommander.laredoute.be CNAME .
 tagcommander.laredoute.ch CNAME .
 tagcommander.laredoute.de CNAME .
 tagcommander.laredoute.pt CNAME .
+tc.europcar.com CNAME .
+tc.europcar.com.au CNAME .
+tcdata.fnac.com CNAME .
 configure.adlermode.com CNAME .
 data.auchandirect.fr CNAME .
 data.e-immobilier.credit-agricole.fr CNAME .
-tag.boulanger.fr CNAME .
-tc.europcar.com CNAME .
-tc.europcar.com.au CNAME .
 tc.europcar.de CNAME .
 tc.europcar.es CNAME .
-tcdata.fnac.com CNAME .

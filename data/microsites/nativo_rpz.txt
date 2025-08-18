@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,7 +26,6 @@ sponsor.syracuse.com CNAME .
 05acb9b113.8767252cb9.com CNAME .
 06662f4bfc.78bc47506f.com CNAME .
 066fb1ba95.66147a7d78.com CNAME .
-06b9d703ee.bd6b488fb5.com CNAME .
 0709793986.849c4089ff.com CNAME .
 071fde42c9.65fcb1b26f.com CNAME .
 07d69990c8.dbb94182a0.com CNAME .
@@ -111,6 +110,7 @@ sponsor.syracuse.com CNAME .
 42be5b600b.fcac6f9c91.com CNAME .
 430e6749c9.4a93064ed9.com CNAME .
 43b71a0471.b18244c6c3.com CNAME .
+447c339ed2.da7a60f765.com CNAME .
 45524b3eed.7460d80586.com CNAME .
 45c8960dbf.0c6be7f968.com CNAME .
 462c268c7c.4cd79ce97b.com CNAME .
@@ -178,6 +178,7 @@ sponsor.syracuse.com CNAME .
 765c47b815.4578e6ede4.com CNAME .
 7699b759b2.a0282a24f6.com CNAME .
 77ee916993.e83b329884.com CNAME .
+7885c8b33a.ac28816960.com CNAME .
 78f77febd4.b49170aaa3.com CNAME .
 7a2e6c0335.ced3494312.com CNAME .
 7b04ae1dbf.bb1b9b8ea2.com CNAME .
@@ -234,6 +235,7 @@ aa884225ad.84747737e0.com CNAME .
 ab68f17c55.ac94c2b385.com CNAME .
 ae70938aca.1837fcaea1.com CNAME .
 af26280486.a1057123f0.com CNAME .
+af62ccc4c8.153c349024.com CNAME .
 afd2557582.e2957dfa03.com CNAME .
 afe125baef.7762dc22a5.com CNAME .
 b0834b036a.d5193824f5.com CNAME .
@@ -274,9 +276,7 @@ c8fbd6515f.9fe0bb9836.com CNAME .
 c98c4ff7d9.cf625c6093.com CNAME .
 cb6529a1bb.397ad904d0.com CNAME .
 cb7244fcc0.a03bf8d8ce.com CNAME .
-cbb1eca967.65ad8b598b.com CNAME .
 ce89898fc3.3d12441eb9.com CNAME .
-cf9f10e1a8.5966843ee8.com CNAME .
 cf9fba9e00.d3089f6c34.com CNAME .
 d011b1c7bf.09222d3e04.com CNAME .
 d263c5431c.1e3afdea62.com CNAME .
@@ -284,6 +284,7 @@ d3ba17ed85.5a8a1b39d4.com CNAME .
 d3f013ea52.895c67da73.com CNAME .
 d3f06f58e4.7751c829ca.com CNAME .
 d47b55828a.de3887b464.com CNAME .
+d4ace898f9.ed24cb4bc7.com CNAME .
 d4bdc31b7e.99d1f1d37e.com CNAME .
 d56a549e9a.4b516fd6c9.com CNAME .
 d603ed603c.dff6af78c7.com CNAME .
@@ -305,7 +306,6 @@ e4319a809e.26bd9f5086.com CNAME .
 e495ca26f4.3322885ad1.com CNAME .
 e4f2928e49.0c289f53bc.com CNAME .
 e50dc6ad27.ca7d0bd322.com CNAME .
-e512fc8a4c.1534aec4d7.com CNAME .
 e5f4a975e1.379b3d01c3.com CNAME .
 e6499697e6.d97d3231b2.com CNAME .
 e791351c80.680642cdf3.com CNAME .
@@ -348,7 +348,6 @@ i.laketrend.com CNAME .
 i.selecttopoff.com CNAME .
 i.statelinear.com CNAME .
 a135.wftv.com CNAME .
-instyle.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 a135.fox23.com CNAME .
@@ -381,6 +380,7 @@ fox25boston.share.ntv.io CNAME .
 gayety.share.ntv.io CNAME .
 grandhaventribune.share.ntv.io CNAME .
 infoworld.share.ntv.io CNAME .
+instyle.share.ntv.io CNAME .
 justapinch.share.ntv.io CNAME .
 kcci.share.ntv.io CNAME .
 littlethings.share.ntv.io CNAME .

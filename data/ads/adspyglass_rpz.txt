@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,6 +50,7 @@ $TTL 300
 8dk5q9tp.xyz CNAME .
 8nximzje.xyz CNAME .
 8tip5whk.xyz CNAME .
+95bfbe548450b30c.clicknplay.to CNAME .
 96ed2s9r.xyz CNAME .
 a.1film.to CNAME .
 a.aahen.site CNAME .
@@ -228,7 +229,6 @@ ac.fapnado.xxx CNAME .
 ac.forwank.com CNAME .
 activejavgg124.fun CNAME .
 ad.animeitaly.tv CNAME .
-ad.empressleak.biz CNAME .
 ad.tubelegion.com CNAME .
 ad.xxam.org CNAME .
 addin1.name CNAME .
@@ -357,11 +357,11 @@ asg.srvtax.com CNAME .
 asg.titdumps.com CNAME .
 asg.zzipps.com CNAME .
 asg1.hostadsmarkets.com CNAME .
+asp.rstrix.com CNAME .
 assets.taghtia.com CNAME .
 astuff.clicknplay.to CNAME .
 av.sharktube.net CNAME .
 ava.lazumi.online CNAME .
-avview3431.fun CNAME .
 awrfds3.pornpapa.com CNAME .
 ax4.xmoviesland.com CNAME .
 b.bloblohub.com CNAME .
@@ -583,7 +583,6 @@ gff660fg.xyz CNAME .
 ghtry.amateurswild.com CNAME .
 go.ero-vtuber.com CNAME .
 go.showmeyouradsnow.com CNAME .
-goallbest.com CNAME .
 goofy1x.xyz CNAME .
 gpt.milftube.mobi CNAME .
 gpt.throatbulge.com CNAME .
@@ -643,7 +642,7 @@ i7.mayoblast.com CNAME .
 i8.mayoblast.com CNAME .
 i9.mayoblast.com CNAME .
 ignore.hot-bbw-tube.com CNAME .
-ili.dtu0itqvnilimdqlq554qf1.online CNAME .
+ili.dtu0itqvnilimaqlq554qf1.xyz CNAME .
 ilpgfdbc.xyz CNAME .
 ilviaggionellatesta.hubhubhub.name CNAME .
 imail.bloblohub.com CNAME .
@@ -842,6 +841,7 @@ okoloss.com CNAME .
 one.iugbhsu.com CNAME .
 ontj.com CNAME .
 ooawsxkdrm.club CNAME .
+opopop.oplaksik.online CNAME .
 opus.sexyxxx.biz CNAME .
 oquaysx.club CNAME .
 origin1266.fun CNAME .
@@ -1262,16 +1262,10 @@ store4porn.com CNAME .
 topsexmovs.com CNAME .
 video.cdnako.com CNAME .
 a.fantastixxx.co CNAME .
-acquaintance213.fun CNAME .
 adservb.com CNAME .
-announcement317.fun CNAME .
-civilization474.fun CNAME .
-conservation277.fun CNAME .
-consultation233.fun CNAME .
+avview3431.fun CNAME .
 epicalyx3452.fun CNAME .
 familiar3452.fun CNAME .
-interference350.fun CNAME .
-intervention304.fun CNAME .
 javabsence11.fun CNAME .
 javgenetic11.fun CNAME .
 javlicense11.fun CNAME .
@@ -1281,8 +1275,6 @@ javpremium11.fun CNAME .
 javtrouble11.fun CNAME .
 javtrustee11.fun CNAME .
 javunaware11.fun CNAME .
-neighborhood268.fun CNAME .
-satisfaction399.fun CNAME .
-spokesperson254.fun CNAME .
 withdraw3452.fun CNAME .
+goallbest.com CNAME .
 now.plsgotoasg.com CNAME .

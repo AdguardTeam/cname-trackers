@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -64,6 +64,7 @@ data-043610b415.trauer.de CNAME .
 data-043610b415.volksfreund.de CNAME .
 data-043610b415.wuppertaler-rundschau.de CNAME .
 data-044c671387.desired.de CNAME .
+data-047bac5814.wissenschaft.de CNAME .
 data-048578045a.formel1.de CNAME .
 data-048d215ebe.haustec.de CNAME .
 data-04c5cc96a0.apps.iocnt.de CNAME .
@@ -248,6 +249,7 @@ data-1b32532ce1.freiepresse.de CNAME .
 data-1b32532ce1.vogtland.de CNAME .
 data-1b488c21c4.apps.iocnt.de CNAME .
 data-1b8b21e54b.speedweek.com CNAME .
+data-1b8b21e54b.speedweek.de CNAME .
 data-1b8b21e54b.speedweek.eu CNAME .
 data-1b9c592a39.einfachkochen.de CNAME .
 data-1ba1afb625.leinfelden-echterdingen.de CNAME .
@@ -328,6 +330,7 @@ data-207a822be2.onlinefootballmanager.com CNAME .
 data-207a822be2.onlinefussballmanager.at CNAME .
 data-207a822be2.onlinefussballmanager.ch CNAME .
 data-207a822be2.onlinefussballmanager.de CNAME .
+data-207ac1e62e.apps.iocnt.de CNAME .
 data-209f9bb45a.mopo.de CNAME .
 data-20ab42efbf.apps.iocnt.de CNAME .
 data-214f5a88c7.apps.iocnt.de CNAME .
@@ -389,6 +392,7 @@ data-311d8c614b.natursteinonline.de CNAME .
 data-31ba81426f.apps.iocnt.de CNAME .
 data-31c137b707.behindertengerechte-dusche.de CNAME .
 data-31c137b707.sanitaerjournal.de CNAME .
+data-31c137b707.wasserenthaertungsanlage-trinkwasser.de CNAME .
 data-31fbb916a1.erneuerbareenergien.de CNAME .
 data-3212b1cf73.apps.iocnt.de CNAME .
 data-3277c56f96.ingenieur.de CNAME .
@@ -413,6 +417,7 @@ data-367bcf5bd6.lz-blog.de CNAME .
 data-367bcf5bd6.lzjobs.de CNAME .
 data-36851a8aa0.apps.iocnt.de CNAME .
 data-3698886e7b.manager-magazin.de CNAME .
+data-3698886e7b.spiegel.de CNAME .
 data-36caf1229e.wirtschaftsverlag.at CNAME .
 data-36eb08aa0f.autozeitung.de CNAME .
 data-36fd9d40cb.apps.iocnt.de CNAME .
@@ -446,12 +451,14 @@ data-39822b659f.vrm-jobs.de CNAME .
 data-39822b659f.vrm-trauer.de CNAME .
 data-39822b659f.wiesbadener-kurier.de CNAME .
 data-39822b659f.wormser-zeitung.de CNAME .
+data-398d88c7b5.promipool.de CNAME .
 data-39db8b138f.apps.iocnt.de CNAME .
 data-39f71aefaf.prisma.de CNAME .
 data-3aa56b5882.die-deutsche-wirtschaft.de CNAME .
 data-3adb48f023.apps.iocnt.de CNAME .
 data-3aee2d871a.hgtv.com CNAME .
 data-3b127a6eb1.mena-watch.com CNAME .
+data-3b1647c072.entdeckertag.de CNAME .
 data-3b1647c072.hannover.de CNAME .
 data-3b1647c072.landheime.de CNAME .
 data-3b1647c072.visit-hannover.com CNAME .
@@ -464,6 +471,7 @@ data-3c5dd2a388.zuhausewohnen.de CNAME .
 data-3c672b4f0d.rtl-up.de CNAME .
 data-3c672b4f0d.rtlplus.de CNAME .
 data-3c91d46d9d.smarterworld.de CNAME .
+data-3c91d46d9d.weka-fachmedien.de CNAME .
 data-3ca7289259.rtlradio.de CNAME .
 data-3cb5515026.harpersbazaar.de CNAME .
 data-3cce760e0e.gq-magazin.de CNAME .
@@ -582,6 +590,7 @@ data-47ee1b0882.kino-oehringen.de CNAME .
 data-47ee1b0882.kino-oelde.de CNAME .
 data-47ee1b0882.kino-offingen.de CNAME .
 data-47ee1b0882.kino-ottobrunn.de CNAME .
+data-47ee1b0882.kino-treuchtlingen.de CNAME .
 data-47ee1b0882.kino-ueberlingen.de CNAME .
 data-47ee1b0882.kino-wemding.de CNAME .
 data-47ee1b0882.kino-wolfhagen.de CNAME .
@@ -596,6 +605,7 @@ data-47ee1b0882.kultiplex.de CNAME .
 data-47ee1b0882.kulturhaus-pritzwalk.de CNAME .
 data-47ee1b0882.lichtburg-langen.de CNAME .
 data-47ee1b0882.lichtspiele-grosshabersdorf.de CNAME .
+data-47ee1b0882.liliservicekino.de CNAME .
 data-47ee1b0882.lindenkino-wusterhausen.de CNAME .
 data-47ee1b0882.luli-kino.de CNAME .
 data-47ee1b0882.movie-kino.de CNAME .
@@ -629,6 +639,7 @@ data-48d3085f82.hildesheimer-allgemeine.de CNAME .
 data-48fd46a412.digitalphoto.de CNAME .
 data-493270df85.laendle24.de CNAME .
 data-494b3b236f.goslarsche.de CNAME .
+data-497ecca600.erft-kurier.de CNAME .
 data-497ecca600.fupa.net CNAME .
 data-497ecca600.ga-story.de CNAME .
 data-497ecca600.ga.de CNAME .
@@ -711,11 +722,14 @@ data-53ce61d695.bike-x.de CNAME .
 data-5400382129.kunststoff-magazin.de CNAME .
 data-545e23e607.kosmo.at CNAME .
 data-5492b7d422.azubis.de CNAME .
+data-5492b7d422.fupa.net CNAME .
 data-5492b7d422.magdeburg-fussball.de CNAME .
 data-5492b7d422.mz-jobs.de CNAME .
 data-5492b7d422.mz.de CNAME .
 data-5492b7d422.rblive.de CNAME .
 data-5492b7d422.sao.de CNAME .
+data-5492b7d422.volksstimme.de CNAME .
+data-54f7652a27.spiegel.de CNAME .
 data-552667226c.apps.iocnt.de CNAME .
 data-557fc65a33.coachingz.one CNAME .
 data-557fc65a33.womenshealth.de CNAME .
@@ -775,6 +789,7 @@ data-5d4a957104.focus-arztsuche.de CNAME .
 data-5d848783f7.spiegel.de CNAME .
 data-5d9e07c784.stadt-und-werk.de CNAME .
 data-5dd8125a5b.gofeminin.de CNAME .
+data-5e25716aa5.apps.iocnt.de CNAME .
 data-5e5ac4ec65.menshealth-personaltrainer.com CNAME .
 data-5e5ac4ec65.menshealth.de CNAME .
 data-5e8d192b40.fussballn.de CNAME .
@@ -818,6 +833,7 @@ data-60d896f23d.radio.es CNAME .
 data-60d896f23d.radio.fr CNAME .
 data-60d896f23d.radio.it CNAME .
 data-60d896f23d.radio.net CNAME .
+data-60d896f23d.radio.pl CNAME .
 data-60d896f23d.radio.pt CNAME .
 data-60d896f23d.radio.se CNAME .
 data-60d896f23d.radiome.at CNAME .
@@ -881,6 +897,7 @@ data-664e19af6d.11freunde.de CNAME .
 data-66584305d5.mainpost.de CNAME .
 data-66b7771b69.motorsport.com CNAME .
 data-66d1660bfe.etailment.de CNAME .
+data-678018adf2.apps.iocnt.de CNAME .
 data-678db07fc3.apps.iocnt.de CNAME .
 data-67e5b22ff5.apps.iocnt.de CNAME .
 data-686f12c8aa.regionaljobs.at CNAME .
@@ -896,6 +913,7 @@ data-6c57a6137f.imsueden.de CNAME .
 data-6ccf929934.recovery-worldwide.com CNAME .
 data-6cfdf9f979.lebensmittelzeitung.net CNAME .
 data-6dafa8d42f.desired.de CNAME .
+data-6dbef37a3c.apps.iocnt.de CNAME .
 data-6dde45f576.augusto-sachsen.de CNAME .
 data-6dde45f576.cz.de CNAME .
 data-6dde45f576.dewezet.de CNAME .
@@ -1040,6 +1058,7 @@ data-7e3ab64dc5.brandeins.de CNAME .
 data-7e48679b06.fleischerei.de CNAME .
 data-7e634b10b2.prosieben.de CNAME .
 data-7e634b10b2.prosiebenmaxx.de CNAME .
+data-7e634b10b2.the-voice-of-germany.de CNAME .
 data-7e70b89caf.geb-info.de CNAME .
 data-7f59e1721b.bergwetter.de CNAME .
 data-7f59e1721b.planetoutdoor.de CNAME .
@@ -1094,8 +1113,10 @@ data-84a0f3455d.transfermarkt.co.za CNAME .
 data-84a0f3455d.transfermarkt.com.ar CNAME .
 data-84a0f3455d.transfermarkt.com.br CNAME .
 data-84a0f3455d.transfermarkt.de CNAME .
+data-84a0f3455d.transfermarkt.es CNAME .
 data-84a0f3455d.transfermarkt.fr CNAME .
 data-84a0f3455d.transfermarkt.it CNAME .
+data-84a0f3455d.transfermarkt.jp CNAME .
 data-84a0f3455d.transfermarkt.my CNAME .
 data-84a0f3455d.transfermarkt.nl CNAME .
 data-84a0f3455d.transfermarkt.pe CNAME .
@@ -1209,6 +1230,7 @@ data-93346271bf.holidaycheck.at CNAME .
 data-93346271bf.holidaycheck.ch CNAME .
 data-93346271bf.holidaycheck.de CNAME .
 data-9336f0fb1d.news.de CNAME .
+data-9358579756.cash-online.de CNAME .
 data-93b38cb75f.gff-magazin.de CNAME .
 data-93d70fad98.apps.iocnt.de CNAME .
 data-9439f4400c.apps.iocnt.de CNAME .
@@ -1262,7 +1284,6 @@ data-997fc825f1.fupa.net CNAME .
 data-997fc825f1.murrhardter-zeitung.de CNAME .
 data-9a1ff0f093.apps.iocnt.de CNAME .
 data-9a326ab638.connect.de CNAME .
-data-9a3ec9cf52.moviepilot.de CNAME .
 data-9a84c04ecb.meintophotel.de CNAME .
 data-9aa5e80b66.super-illu.de CNAME .
 data-9aa5e80b66.superillu.de CNAME .
@@ -1283,6 +1304,7 @@ data-9c7a4ab91a.marktredwitz.de CNAME .
 data-9d5c2cfc8c.baustoff-partner.de CNAME .
 data-9d5ca866eb.baunetz-architekten.de CNAME .
 data-9d5ca866eb.baunetz-campus.de CNAME .
+data-9d5ca866eb.baunetz-id.de CNAME .
 data-9d5ca866eb.baunetz.de CNAME .
 data-9d5ca866eb.baunetzwissen.de CNAME .
 data-9dc3fcd9b4.chip.de CNAME .
@@ -1389,6 +1411,7 @@ data-a7c3ea71dc.ptaheute.de CNAME .
 data-a7d04303de.nn.de CNAME .
 data-a7deba18e8.evangelisch.de CNAME .
 data-a7deba18e8.konfispruch.de CNAME .
+data-a7deba18e8.religionen-entdecken.de CNAME .
 data-a7deba18e8.taufspruch.de CNAME .
 data-a7deba18e8.trauervers.de CNAME .
 data-a7deba18e8.trauspruch.de CNAME .
@@ -1427,6 +1450,7 @@ data-aae7bdcec6.autoscout24.com.ua CNAME .
 data-aae7bdcec6.autoscout24.cz CNAME .
 data-aae7bdcec6.autoscout24.de CNAME .
 data-aae7bdcec6.autoscout24.hr CNAME .
+data-aae7bdcec6.autoscout24.hu CNAME .
 data-aae7bdcec6.autoscout24.pl CNAME .
 data-aae7bdcec6.autoscout24.ro CNAME .
 data-aae7bdcec6.autoscout24.ru CNAME .
@@ -1714,6 +1738,7 @@ data-cf56e4da9b.motorradonline.de CNAME .
 data-cf8fd9b799.heizungsjournal.de CNAME .
 data-cf8fd9b799.integrale-planung.net CNAME .
 data-cf8fd9b799.klimajournal.com CNAME .
+data-cf8fd9b799.sanitaerjournal.de CNAME .
 data-cf8fd9b799.shk-at-work.de CNAME .
 data-cf8fd9b799.tga-contentbase.de CNAME .
 data-cfdfd62451.apps.iocnt.de CNAME .
@@ -1767,6 +1792,7 @@ data-d815104c6c.telefonbuch.de CNAME .
 data-d81f60d480.frankenpost.de CNAME .
 data-d858e7585b.jobs26.de CNAME .
 data-d858e7585b.lokal26.de CNAME .
+data-d85ba30209.solidbau.at CNAME .
 data-d88bd5abf8.die-glocke.de CNAME .
 data-d88ef4a44c.haller-kreisblatt.de CNAME .
 data-d88ef4a44c.hk-mobil.de CNAME .
@@ -1927,6 +1953,7 @@ data-ee807be806.radiohagen.de CNAME .
 data-ee807be806.radioherne.de CNAME .
 data-ee807be806.radiokw.de CNAME .
 data-ee807be806.radiooberhausen.de CNAME .
+data-ee807be806.radiosauerland.de CNAME .
 data-eea6572f1f.apps.iocnt.de CNAME .
 data-ef2b66d556.miss.at CNAME .
 data-ef2df4302f.baumagazin-online.de CNAME .
@@ -1952,6 +1979,7 @@ data-f1c47705fc.susonline.de CNAME .
 data-f1c47705fc.topagrar.com CNAME .
 data-f1c47705fc.topagrar.de CNAME .
 data-f1c47705fc.topagrar.pl CNAME .
+data-f1c47705fc.tygodnik-rolniczy.pl CNAME .
 data-f1c47705fc.wochenblatt.com CNAME .
 data-f1e447fbcf.24auto.de CNAME .
 data-f1e447fbcf.24books.de CNAME .

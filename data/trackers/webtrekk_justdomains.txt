@@ -88,7 +88,6 @@ data.volksfreund.de
 data.westlotto.de
 daten.union-investment.de
 def.bayer04.de
-di.ifolor.net
 ed.emp-online.ch
 ed.emp-online.com
 ed.emp-online.es
@@ -257,6 +256,7 @@ web.campaign.v73.it
 web.capriceshoes.com
 web.collisionservices.com
 web.communications.amouage.com
+web.comunicaciones.toysrus.pt
 web.comunicazioni.iol.it
 web.crm.beps.it
 web.crm.speedup.it

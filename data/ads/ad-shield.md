@@ -94,6 +94,7 @@
 | 0.www.referenceirresponsible.com | ad-shield.cc |
 | 0.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 0.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 0.www.rogerouch.com | ad-shield.cc |
 | 0.www.rundowndeep.com | ad-shield.cc |
 | 0.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 0.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -194,6 +195,7 @@
 | 1.www.referenceirresponsible.com | ad-shield.cc |
 | 1.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 1.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 1.www.rogerouch.com | ad-shield.cc |
 | 1.www.rundowndeep.com | ad-shield.cc |
 | 1.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 1.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -294,6 +296,7 @@
 | 2.www.referenceirresponsible.com | ad-shield.cc |
 | 2.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 2.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 2.www.rogerouch.com | ad-shield.cc |
 | 2.www.rundowndeep.com | ad-shield.cc |
 | 2.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 2.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -392,6 +395,7 @@
 | 3.www.referenceirresponsible.com | ad-shield.cc |
 | 3.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 3.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 3.www.rogerouch.com | ad-shield.cc |
 | 3.www.rundowndeep.com | ad-shield.cc |
 | 3.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 3.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -491,6 +495,7 @@
 | 4.www.referenceirresponsible.com | ad-shield.cc |
 | 4.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 4.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 4.www.rogerouch.com | ad-shield.cc |
 | 4.www.rundowndeep.com | ad-shield.cc |
 | 4.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 4.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -590,6 +595,7 @@
 | 5.www.referenceirresponsible.com | ad-shield.cc |
 | 5.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 5.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 5.www.rogerouch.com | ad-shield.cc |
 | 5.www.rundowndeep.com | ad-shield.cc |
 | 5.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 5.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -688,6 +694,7 @@
 | 6.www.referenceirresponsible.com | ad-shield.cc |
 | 6.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 6.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 6.www.rogerouch.com | ad-shield.cc |
 | 6.www.rundowndeep.com | ad-shield.cc |
 | 6.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 6.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -785,6 +792,7 @@
 | 7.www.referenceirresponsible.com | ad-shield.cc |
 | 7.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 7.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 7.www.rogerouch.com | ad-shield.cc |
 | 7.www.rundowndeep.com | ad-shield.cc |
 | 7.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 7.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -884,6 +892,7 @@
 | 8.www.referenceirresponsible.com | ad-shield.cc |
 | 8.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 8.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 8.www.rogerouch.com | ad-shield.cc |
 | 8.www.rundowndeep.com | ad-shield.cc |
 | 8.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 8.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -981,6 +990,7 @@
 | 9.www.referenceirresponsible.com | ad-shield.cc |
 | 9.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 9.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| 9.www.rogerouch.com | ad-shield.cc |
 | 9.www.rundowndeep.com | ad-shield.cc |
 | 9.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 9.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -994,7 +1004,6 @@
 | 9.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | www.00404850.xyz | ad-shield.cc |
 | www.00857731.xyz | ad-shield.cc |
-| www.01045395.xyz | ad-shield.cc |
 | www.01591851.xyz | ad-shield.cc |
 | www.02085170.xyz | ad-shield.cc |
 | www.02952346.xyz | ad-shield.cc |
@@ -1022,7 +1031,6 @@
 | www.14381834.xyz | ad-shield.cc |
 | www.15223102.xyz | ad-shield.cc |
 | www.15272973.xyz | ad-shield.cc |
-| www.15752525.xyz | ad-shield.cc |
 | www.16211973.xyz | ad-shield.cc |
 | www.16239749.xyz | ad-shield.cc |
 | www.16327739.xyz | ad-shield.cc |
@@ -1033,7 +1041,6 @@
 | www.19009143.xyz | ad-shield.cc |
 | www.19199675.xyz | ad-shield.cc |
 | www.19700902.xyz | ad-shield.cc |
-| www.19706903.xyz | ad-shield.cc |
 | www.20382207.xyz | ad-shield.cc |
 | www.20690754.xyz | ad-shield.cc |
 | www.21148843.xyz | ad-shield.cc |
@@ -1073,14 +1080,12 @@
 | www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | www.45564736.xyz | ad-shield.cc |
 | www.46222568.xyz | ad-shield.cc |
-| www.46833676.xyz | ad-shield.cc |
 | www.47206262.xyz | ad-shield.cc |
 | www.47235645.xyz | ad-shield.cc |
 | www.47296536.xyz | ad-shield.cc |
 | www.47415889.xyz | ad-shield.cc |
 | www.48304789.xyz | ad-shield.cc |
 | www.48654012.xyz | ad-shield.cc |
-| www.49333767.xyz | ad-shield.cc |
 | www.49706204.xyz | ad-shield.cc |
 | www.49709796.xyz | ad-shield.cc |
 | www.49766251.xyz | ad-shield.cc |
@@ -1088,10 +1093,8 @@
 | www.4tuswl47353p4wl8lsk.xyz | ad-shield.cc |
 | www.50873vmk3263-7sk.xyz | ad-shield.cc |
 | www.53469662.xyz | ad-shield.cc |
-| www.54019033.xyz | ad-shield.cc |
 | www.54199287.xyz | ad-shield.cc |
 | www.55766925.xyz | ad-shield.cc |
-| www.56514411.xyz | ad-shield.cc |
 | www.57473094.xyz | ad-shield.cc |
 | www.58686728.xyz | ad-shield.cc |
 | www.59202140.xyz | ad-shield.cc |
@@ -1144,7 +1147,6 @@
 | www.89296649.xyz | ad-shield.cc |
 | www.89407765.xyz | ad-shield.cc |
 | www.89598890.xyz | ad-shield.cc |
-| www.89871256.xyz | ad-shield.cc |
 | www.8u6r7tu85pqu-8pq9pt9q.xyz | ad-shield.cc |
 | www.8vtqw0551lo45wwtro.xyz | ad-shield.cc |
 | www.92790388.xyz | ad-shield.cc |
@@ -1156,8 +1158,6 @@
 | www.95597529.xyz | ad-shield.cc |
 | www.96679950.xyz | ad-shield.cc |
 | www.98140548.xyz | ad-shield.cc |
-| www.98355134.xyz | ad-shield.cc |
-| www.98383163.xyz | ad-shield.cc |
 | www.98853171.xyz | ad-shield.cc |
 | www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
 | www.admonishdecisiveyetnow.com | ad-shield.cc |
@@ -1189,6 +1189,7 @@
 | www.remorsefuldecentmarried.com | ad-shield.cc |
 | www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
+| www.rogerouch.com | ad-shield.cc |
 | www.rundowndeep.com | ad-shield.cc |
 | www.skylinepasttomorrow.com | ad-shield.cc |
 | www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1070,6 +1070,7 @@ a8cv.lamellia-japan.co.jp CNAME .
 a8cv.lancers.jp CNAME .
 a8cv.laviepre.co.jp CNAME .
 a8cv.lc-jewel.jp CNAME .
+a8cv.leango.co.jp CNAME .
 a8cv.leasonable.com CNAME .
 a8cv.lens-1.jp CNAME .
 a8cv.leoandlea.com CNAME .
@@ -1199,7 +1200,6 @@ a8cv.risu-japan.com CNAME .
 a8cv.rita-style.co.jp CNAME .
 a8cv.rmkrmk.com CNAME .
 a8cv.rohto.co.jp CNAME .
-a8cv.ruksk.com CNAME .
 a8cv.runteq.jp CNAME .
 a8cv.ryomon.jp CNAME .
 a8cv.s-darts.com CNAME .

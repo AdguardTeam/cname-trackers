@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,12 +32,10 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
-bat24.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.arcjav.com CNAME .
 c4n.asianpinay.com CNAME .
-c4n.gupload.xyz CNAME .
 c4n.hotjavmovies.com CNAME .
 c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
@@ -74,6 +72,7 @@ cn4.animehdl.net CNAME .
 cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
+dfx.xtapes.porn CNAME .
 dr1.piczlabs.com CNAME .
 dr3.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
@@ -83,7 +82,6 @@ flw.camcaps.ac CNAME .
 ge6.getfto.com CNAME .
 ge8.getfto.com CNAME .
 get.xclick24.com CNAME .
-gg.divj.site CNAME .
 go.lize.bid CNAME .
 hostmaster.brandnewapp.pro CNAME .
 hostmaster.rtnews.pro CNAME .
@@ -126,6 +124,8 @@ www.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
+www.telford.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
+xn--www-hn0a.rtnews.pro CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

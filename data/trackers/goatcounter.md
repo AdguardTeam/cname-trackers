@@ -51,7 +51,6 @@
     * embedx.goatcounter.com
     * enamya.goatcounter.com
     * eventgeek.goatcounter.com
-    * ewpratten.goatcounter.com
     * fieald.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
@@ -218,7 +217,6 @@
 | pixel.embed.su | embedx.goatcounter.com |
 | gtcntr.enamya.me | enamya.goatcounter.com |
 | goatcounter.eventgeek.ie | eventgeek.goatcounter.com |
-| analytics.ewpratten.com | ewpratten.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |

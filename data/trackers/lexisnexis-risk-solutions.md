@@ -142,6 +142,7 @@
     * h-7ij9mii1.online-metrix.net
     * h-7ioidzao.online-metrix.net
     * h-7iw7j7aw.online-metrix.net
+    * h-7kcny31f.online-metrix.net
     * h-7lw52x9e.online-metrix.net
     * h-7npzzdc5.online-metrix.net
     * h-7nwhwds3.online-metrix.net
@@ -395,6 +396,7 @@
     * h-cox.online-metrix.net
     * h-cpsqwxyc.online-metrix.net
     * h-cpuoahbo.online-metrix.net
+    * h-cq1yg9a5.online-metrix.net
     * h-cqjaju73.online-metrix.net
     * h-credilikeme.online-metrix.net
     * h-credit-reporting-agency.online-metrix.net
@@ -469,6 +471,7 @@
     * h-fairstone.online-metrix.net
     * h-fanduel.online-metrix.net
     * h-fashionworld.online-metrix.net
+    * h-fdfs.online-metrix.net
     * h-fedex.online-metrix.net
     * h-fidelity.online-metrix.net
     * h-firstcitizensbank.online-metrix.net
@@ -1086,6 +1089,7 @@
 | de9c635aa0404558bd527220ef4e6b4b.betway.ca | h-7ij9mii1.online-metrix.net |
 | h.costco.com | h-7ioidzao.online-metrix.net |
 | img2.adelantos.com.ar | h-7iw7j7aw.online-metrix.net |
+| tm.republicfinance.com | h-7kcny31f.online-metrix.net |
 | af.mobile.free.fr | h-7lw52x9e.online-metrix.net |
 | dol-reemployme-js01.maine.gov | h-7npzzdc5.online-metrix.net |
 | telem.highlow.com | h-7nwhwds3.online-metrix.net |
@@ -1403,9 +1407,11 @@
 | verification.ndtco.com | h-bscelhtc.online-metrix.net |
 | cdn1.thm.panoramainvestor.com.au | h-bt.online-metrix.net |
 | tags.s-dati.com | h-btcmgcxc.online-metrix.net |
+| adprtm53.cardgold.it | h-btw63imp.online-metrix.net |
 | adprtm53.cartayou.it | h-btw63imp.online-metrix.net |
 | adprtm53.free.at | h-btw63imp.online-metrix.net |
 | adprtm53.gebuhrenfrei.com | h-btw63imp.online-metrix.net |
+| adprtm53.goldkarte.at | h-btw63imp.online-metrix.net |
 | adprtm53.kartegold.de | h-btw63imp.online-metrix.net |
 | adprtm53.xn--gebhrenfrei-vhb.de | h-btw63imp.online-metrix.net |
 | dfp.s-budget-mobile.at | h-budget-mobile.online-metrix.net |
@@ -1546,6 +1552,7 @@
 | tm.cox.com | h-cox.online-metrix.net |
 | threatmetrix.lendingclub.com | h-cpsqwxyc.online-metrix.net |
 | rhino.gocardless.com | h-cpuoahbo.online-metrix.net |
+| crmg-fraudmgmt.bayad.com | h-cq1yg9a5.online-metrix.net |
 | dfp.mcdonalds.fr | h-cqjaju73.online-metrix.net |
 | appscore.credilike.me | h-credilikeme.online-metrix.net |
 | log.checkmyfile.co.uk | h-credit-reporting-agency.online-metrix.net |
@@ -1574,6 +1581,7 @@
 | img.dailylook.com | h-dailylook.online-metrix.net |
 | tags.dazn.com | h-dazn.online-metrix.net |
 | connect-cert-card.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
+| connect-cert-mbd.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert-myfunds.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert-prepaid.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
 | connect-cert-prepaidcard.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
@@ -1642,6 +1650,7 @@
 | static.fairstone.ca | h-fairstone.online-metrix.net |
 | tm.fanduel.com | h-fanduel.online-metrix.net |
 | did.fashionworld.co.uk | h-fashionworld.online-metrix.net |
+| tfet.fltreasurehunt.gov | h-fdfs.online-metrix.net |
 | ccf.prod.fedex.com | h-fedex.online-metrix.net |
 | cfa.febtest.com | h-fidelity.online-metrix.net |
 | daotm.firstcitizens.com | h-firstcitizensbank.online-metrix.net |

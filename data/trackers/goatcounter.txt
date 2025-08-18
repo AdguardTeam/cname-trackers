@@ -8,7 +8,6 @@
 ||analytics.code.dccouncil.us^
 ||analytics.codes.baltimorecity.gov^
 ||analytics.demo.plateau.ng.open.law^
-||analytics.ewpratten.com^
 ||analytics.kubasta.net^
 ||analytics.law.cityofsanmateo.org^
 ||analytics.law.lco-nsn.gov^

@@ -1072,6 +1072,7 @@
 | a8cv.lancers.jp | trck.a8.net |
 | a8cv.laviepre.co.jp | trck.a8.net |
 | a8cv.lc-jewel.jp | trck.a8.net |
+| a8cv.leango.co.jp | trck.a8.net |
 | a8cv.leasonable.com | trck.a8.net |
 | a8cv.lens-1.jp | trck.a8.net |
 | a8cv.leoandlea.com | trck.a8.net |
@@ -1201,7 +1202,6 @@
 | a8cv.rita-style.co.jp | trck.a8.net |
 | a8cv.rmkrmk.com | trck.a8.net |
 | a8cv.rohto.co.jp | trck.a8.net |
-| a8cv.ruksk.com | trck.a8.net |
 | a8cv.runteq.jp | trck.a8.net |
 | a8cv.ryomon.jp | trck.a8.net |
 | a8cv.s-darts.com | trck.a8.net |

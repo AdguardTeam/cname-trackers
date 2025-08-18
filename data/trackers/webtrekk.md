@@ -152,6 +152,7 @@
     * 728252369996325.wt-eu02.net
     * 729347163621496.wt-eu02.net
     * 734297997850272.wt-eu02.net
+    * 736850894446431.wt-eu02.net
     * 737534731277400.wt-eu02.net
     * 737859735586197.wt-eu02.net
     * 741723125859679.wt-eu02.net
@@ -222,7 +223,6 @@
     * data-leipzig.wt-eu02.net
     * data-vdi-wissen01.wt-eu02.net
     * de-card01.wt-eu02.net
-    * di.ifolor.wt-eu02.net
     * emp01.wt-eu02.net
     * endresshauser01.wt-eu02.net
     * flaconi-at.wt-eu02.net
@@ -432,6 +432,7 @@
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
 | web.info.varelotteriet.dk | 734297997850272.wt-eu02.net |
+| web.comunicaciones.toysrus.pt | 736850894446431.wt-eu02.net |
 | web.info.bonprix.fi | 737534731277400.wt-eu02.net |
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |
 | web.mail.proximaati.com | 741723125859679.wt-eu02.net |
@@ -539,7 +540,6 @@
 | data.leipzig.de | data-leipzig.wt-eu02.net |
 | data.vdi-wissensforum.de | data-vdi-wissen01.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
-| di.ifolor.net | di.ifolor.wt-eu02.net |
 | pix.eads.com | eads-com01.webtrekk.net |
 | track.emeza.ch | emeza-ch01.webtrekk.net |
 | track.emeza.com | emeza-com01.webtrekk.net |

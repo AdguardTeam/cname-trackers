@@ -21,6 +21,7 @@
 | r.wholehall.com | r.trackwilltrk.com |
 | t.clearmaptrck.store | r.trackwilltrk.com |
 | t.dynatrck.site | r.trackwilltrk.com |
+| t.fasttrck.tech | r.trackwilltrk.com |
 | t.flashtrck.tech | r.trackwilltrk.com |
 | t.instrck.com | r.trackwilltrk.com |
 | t.javhd-trk.com | r.trackwilltrk.com |

@@ -307,7 +307,6 @@ stats.achtsame-yonimassage.de
 stats.activityvault.io
 stats.adlperformance.es
 stats.aikidowaza.com
-stats.aixbrain.de
 stats.albert-kropp-gmbh.de
 stats.alibhai.co
 stats.alleaktien.de
@@ -505,7 +504,6 @@ stats.htmlcsstoimage.com
 stats.htp.org
 stats.huysman.be
 stats.huysmanbouw.be
-stats.ibuildings.net
 stats.igassmann.me
 stats.igor4stir.com
 stats.in-tuition.net

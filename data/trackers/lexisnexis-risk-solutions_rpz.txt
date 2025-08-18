@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,9 +15,11 @@ $TTL 300
 1of1.skipcash.app CNAME .
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
+adprtm53.cardgold.it CNAME .
 adprtm53.cartayou.it CNAME .
 adprtm53.free.at CNAME .
 adprtm53.gebuhrenfrei.com CNAME .
+adprtm53.goldkarte.at CNAME .
 adprtm53.kartegold.de CNAME .
 adprtm53.xn--gebhrenfrei-vhb.de CNAME .
 advertize.stcbank.com.sa CNAME .
@@ -262,6 +264,7 @@ cnt.patpat.com CNAME .
 compliance.mohegansuncasino.com CNAME .
 condition.applause.com CNAME .
 connect-cert-card.moneynetwork.com CNAME .
+connect-cert-mbd.everywherepaycard.com CNAME .
 connect-cert-myfunds.moneynetwork.com CNAME .
 connect-cert-prepaid.everywherepaycard.com CNAME .
 connect-cert-prepaidcard.moneynetwork.com CNAME .
@@ -492,6 +495,7 @@ contentservices.clearairlending.com CNAME .
 cookiemonster.calcas.com CNAME .
 creditapp.rogersbank.com CNAME .
 creditcheck.digitecgalaxus.ch CNAME .
+crmg-fraudmgmt.bayad.com CNAME .
 csource.rentals.com CNAME .
 css.slots.io CNAME .
 csservice.aircanada.com CNAME .
@@ -1095,6 +1099,7 @@ tcontent.cdiscountmobile.cdiscount.com CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.highlow.com CNAME .
 telempdf.vepormas.com CNAME .
+tfet.fltreasurehunt.gov CNAME .
 tfp.intuit.com CNAME .
 th.barclays.co.uk CNAME .
 thm.v.me CNAME .
@@ -1153,6 +1158,7 @@ tm.promotion-cdn.com CNAME .
 tm.regions.com CNAME .
 tm.regionsqa.com CNAME .
 tm.regionstest.com CNAME .
+tm.republicfinance.com CNAME .
 tm.rsa-claims.co.uk CNAME .
 tm.stats.fashionforhome.de CNAME .
 tm.stats.home24.at CNAME .

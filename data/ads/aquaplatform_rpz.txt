@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -96,6 +96,7 @@ console.blulab.net CNAME .
 console.cavalier-romand.ch CNAME .
 console.ceramicartsnetwork.org CNAME .
 console.channelvas.com CNAME .
+console.cincinnatimagazine.com CNAME .
 console.cricketworld.com CNAME .
 console.datateam.co.uk CNAME .
 console.everythingcolorado.com CNAME .
@@ -272,6 +273,7 @@ www.console.leightonbroadcasting.com CNAME .
 www.console.livingmagonline.com CNAME .
 www.console.myadsmyanmar.com CNAME .
 www.console.pinktriangle.ca CNAME .
+www.console.schrotundkorn.de CNAME .
 www.coreads-console.cambridge.org CNAME .
 www.coreads-static.cambridge.org CNAME .
 www.coreads.cambridge.org CNAME .

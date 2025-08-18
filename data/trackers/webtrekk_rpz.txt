@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -99,7 +99,6 @@ data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
 def.bayer04.de CNAME .
-di.ifolor.net CNAME .
 ed.emp-online.ch CNAME .
 ed.emp-online.com CNAME .
 ed.emp-online.es CNAME .
@@ -268,6 +267,7 @@ web.campaign.v73.it CNAME .
 web.capriceshoes.com CNAME .
 web.collisionservices.com CNAME .
 web.communications.amouage.com CNAME .
+web.comunicaciones.toysrus.pt CNAME .
 web.comunicazioni.iol.it CNAME .
 web.crm.beps.it CNAME .
 web.crm.speedup.it CNAME .

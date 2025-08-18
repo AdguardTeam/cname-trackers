@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -225,6 +225,7 @@ affiliate.montessorikurz.cz CNAME .
 affiliate.nabytek-forliveshop.cz CNAME .
 affiliate.nakladatelstvi-riva.cz CNAME .
 affiliate.nalepime.cz CNAME .
+affiliate.nejfotopasti.cz CNAME .
 affiliate.nethost.cz CNAME .
 affiliate.nomind.cz CNAME .
 affiliate.novakabelka.cz CNAME .
@@ -789,6 +790,7 @@ partner.zonky.cz CNAME .
 partner.zvaracky-obchod.sk CNAME .
 partnerbox.humandesign.cz CNAME .
 partnerek.aerium.hu CNAME .
+partnerhc.itex24.cz CNAME .
 partneri.affiliatevyzva.cz CNAME .
 partneri.akodlhsiezit.sk CNAME .
 partneri.alchemistr.cz CNAME .
@@ -813,6 +815,7 @@ partneri.chytrykvetinac.cz CNAME .
 partneri.cvicenie-strava.sk CNAME .
 partneri.dietavkrabicce.cz CNAME .
 partneri.dluhopisomat.cz CNAME .
+partneri.dobre-knihy.cz CNAME .
 partneri.dusansoucek.cz CNAME .
 partneri.easylingo.cz CNAME .
 partneri.ecstatic.cz CNAME .
@@ -1000,7 +1003,6 @@ www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .
 affiliate.kulturistika.com CNAME .
-affiliate.nejfotopasti.cz CNAME .
 login.affiliatesit.cz CNAME .
 partner.janapekna.cz CNAME .
 partner.topforteam.cz CNAME .

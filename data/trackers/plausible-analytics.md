@@ -319,7 +319,6 @@
 | stats.activityvault.io | custom.plausible.io |
 | stats.adlperformance.es | custom.plausible.io |
 | stats.aikidowaza.com | custom.plausible.io |
-| stats.aixbrain.de | custom.plausible.io |
 | stats.albert-kropp-gmbh.de | custom.plausible.io |
 | stats.alibhai.co | custom.plausible.io |
 | stats.alleaktien.de | custom.plausible.io |
@@ -517,7 +516,6 @@
 | stats.htp.org | custom.plausible.io |
 | stats.huysman.be | custom.plausible.io |
 | stats.huysmanbouw.be | custom.plausible.io |
-| stats.ibuildings.net | custom.plausible.io |
 | stats.igassmann.me | custom.plausible.io |
 | stats.igor4stir.com | custom.plausible.io |
 | stats.in-tuition.net | custom.plausible.io |

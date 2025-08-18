@@ -171,6 +171,7 @@
 | static.lot-tissimo.com | atg-static.aquaplatform.com |
 | console.biohandel.de | bioverlag-console.aquaplatform.com |
 | www.console.biohandel.de | bioverlag-console.aquaplatform.com |
+| www.console.schrotundkorn.de | bioverlag-console.aquaplatform.com |
 | servedby.biohandel.de | bioverlag-delivery.aquaplatform.com |
 | servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
 | www.servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
@@ -242,6 +243,7 @@
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
 | static.healthcarescene.com | hcs-static.aquaplatform.com |
 | www.static.healthcarescene.com | hcs-static.aquaplatform.com |
+| console.cincinnatimagazine.com | hourmedia-console.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
 | console.hour-media.com | hourmedia-console.aquaplatform.com |
 | www.console.cincinnatimagazine.com | hourmedia-console.aquaplatform.com |

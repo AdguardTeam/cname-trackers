@@ -29,6 +29,7 @@ data.diekuechedirekt.de
 data.drhauschka.de
 data.juhu.auto
 data.moebel-style.de
+data.runners-kitchen.com
 data.uk.kutchenhaus.com
 defabc.black-label-coffee.de
 dts.suchmeisterei.de
@@ -150,6 +151,7 @@ stats.wienerjobs.at
 sun.solar-haus.de
 system.j5media.de
 t.canngo.express
+tr.hundesportladen.de
 tr.mey-wasserschaden.de
 tr.zuhause-finder.com
 track.bauwirtschaft-bw.de

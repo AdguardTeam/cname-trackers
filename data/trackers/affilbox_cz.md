@@ -8,7 +8,6 @@
 
 * c2309.affilbox.cz
 * c4924.affilbox.cz
-* affiliate.elektronicke-vycvikove-obojky.com
 * affiliatesit.cz
 * c771.affilbox.cz
 * c4670.affilbox.cz
@@ -17,7 +16,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| affiliate.nejfotopasti.cz | affiliate.elektronicke-vycvikove-obojky.com |
 | login.affiliatesit.cz | affiliatesit.cz |
 | affil.myface.cz | c2309.affilbox.cz |
 | partner.topforteam.cz | c4670.affilbox.cz |
@@ -237,6 +235,7 @@
 | affiliate.nabytek-forliveshop.cz | cz.affilbox.cz |
 | affiliate.nakladatelstvi-riva.cz | cz.affilbox.cz |
 | affiliate.nalepime.cz | cz.affilbox.cz |
+| affiliate.nejfotopasti.cz | cz.affilbox.cz |
 | affiliate.nethost.cz | cz.affilbox.cz |
 | affiliate.nomind.cz | cz.affilbox.cz |
 | affiliate.novakabelka.cz | cz.affilbox.cz |
@@ -801,6 +800,7 @@
 | partner.zvaracky-obchod.sk | cz.affilbox.cz |
 | partnerbox.humandesign.cz | cz.affilbox.cz |
 | partnerek.aerium.hu | cz.affilbox.cz |
+| partnerhc.itex24.cz | cz.affilbox.cz |
 | partneri.affiliatevyzva.cz | cz.affilbox.cz |
 | partneri.akodlhsiezit.sk | cz.affilbox.cz |
 | partneri.alchemistr.cz | cz.affilbox.cz |
@@ -825,6 +825,7 @@
 | partneri.cvicenie-strava.sk | cz.affilbox.cz |
 | partneri.dietavkrabicce.cz | cz.affilbox.cz |
 | partneri.dluhopisomat.cz | cz.affilbox.cz |
+| partneri.dobre-knihy.cz | cz.affilbox.cz |
 | partneri.dusansoucek.cz | cz.affilbox.cz |
 | partneri.easylingo.cz | cz.affilbox.cz |
 | partneri.ecstatic.cz | cz.affilbox.cz |

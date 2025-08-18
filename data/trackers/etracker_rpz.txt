@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ data.diekuechedirekt.de CNAME .
 data.drhauschka.de CNAME .
 data.juhu.auto CNAME .
 data.moebel-style.de CNAME .
+data.runners-kitchen.com CNAME .
 data.uk.kutchenhaus.com CNAME .
 defabc.black-label-coffee.de CNAME .
 dts.suchmeisterei.de CNAME .
@@ -161,6 +162,7 @@ stats.wienerjobs.at CNAME .
 sun.solar-haus.de CNAME .
 system.j5media.de CNAME .
 t.canngo.express CNAME .
+tr.hundesportladen.de CNAME .
 tr.mey-wasserschaden.de CNAME .
 tr.zuhause-finder.com CNAME .
 track.bauwirtschaft-bw.de CNAME .

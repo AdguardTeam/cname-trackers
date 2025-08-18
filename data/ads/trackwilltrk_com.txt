@@ -12,6 +12,7 @@
 ||r.wholehall.com^
 ||t.clearmaptrck.store^
 ||t.dynatrck.site^
+||t.fasttrck.tech^
 ||t.flashtrck.tech^
 ||t.instrck.com^
 ||t.javhd-trk.com^

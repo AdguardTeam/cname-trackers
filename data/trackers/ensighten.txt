@@ -130,6 +130,7 @@
 ||cmp.dieterenmobilitycompany.be^
 ||cmp.microlino.be^
 ||cmp.mijnwinterbanden.be^
+||cmp.mijnzenmobiliteit.be^
 ||cmp.myaudi.be^
 ||cmp.myway.be^
 ||cmp.porsche.be^

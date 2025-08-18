@@ -10,6 +10,7 @@
     * cpsmbor.customers.1p-data.co
     * czirtyk.customers.1p-data.co
     * edczrfj.customers.1p-data.co
+    * gofqpma.customers.1p-data.co
     * gslclvw.customers.1p-data.co
     * hnvrprl.customers.1p-data.co
     * lumhdco.customers.1p-data.co
@@ -27,6 +28,7 @@
     * wioaavu.customers.1p-data.co
     * wpdlphr.customers.1p-data.co
     * xjoipse.customers.1p-data.co
+    * zzmknba.customers.1p-data.co
 
 ## Cloaking domains
 
@@ -39,6 +41,7 @@
 | cpsmbor.ensorings.com | cpsmbor.customers.1p-data.co |
 | czirtyk.sugarmesmooth.com | czirtyk.customers.1p-data.co |
 | edczrfj.veneera.com | edczrfj.customers.1p-data.co |
+| gofqpma.kimkimblehair.com | gofqpma.customers.1p-data.co |
 | gslclvw.lackorecouture.com | gslclvw.customers.1p-data.co |
 | hnvrprl.getmainelobster.com | hnvrprl.customers.1p-data.co |
 | lumhdco.mykitsch.com | lumhdco.customers.1p-data.co |
@@ -56,3 +59,4 @@
 | wioaavu.enkay.com | wioaavu.customers.1p-data.co |
 | wpdlphr.khoj.city | wpdlphr.customers.1p-data.co |
 | xjoipse.vivarawpets.com | xjoipse.customers.1p-data.co |
+| zzmknba.maupets.com | zzmknba.customers.1p-data.co |

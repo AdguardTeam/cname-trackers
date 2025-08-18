@@ -63,6 +63,7 @@
 ||al.neckar.jp^
 ||al.noemie.jp^
 ||al.office-com.jp^
+||al.onedogs.jp^
 ||al.packstyle.jp^
 ||al.papawash.com^
 ||al.paragel-onlineshop.jp^

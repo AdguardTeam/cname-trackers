@@ -10,7 +10,9 @@
 
 * registry-web-suspension-1912215664.us-east-1.elb.amazonaws.com
 * 77980.bodis.com
+* 548260.parkingcrew.net
 * u52.aabdmn.com
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -55,6 +57,7 @@
 | 8dk5q9tp.xyz | 0i0i0i0.com |
 | 8nximzje.xyz | 0i0i0i0.com |
 | 8tip5whk.xyz | 0i0i0i0.com |
+| 95bfbe548450b30c.clicknplay.to | 0i0i0i0.com |
 | 96ed2s9r.xyz | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
 | a.aahen.site | 0i0i0i0.com |
@@ -233,7 +236,6 @@
 | ac.forwank.com | 0i0i0i0.com |
 | activejavgg124.fun | 0i0i0i0.com |
 | ad.animeitaly.tv | 0i0i0i0.com |
-| ad.empressleak.biz | 0i0i0i0.com |
 | ad.tubelegion.com | 0i0i0i0.com |
 | ad.xxam.org | 0i0i0i0.com |
 | addin1.name | 0i0i0i0.com |
@@ -360,11 +362,11 @@
 | asg.titdumps.com | 0i0i0i0.com |
 | asg.zzipps.com | 0i0i0i0.com |
 | asg1.hostadsmarkets.com | 0i0i0i0.com |
+| asp.rstrix.com | 0i0i0i0.com |
 | assets.taghtia.com | 0i0i0i0.com |
 | astuff.clicknplay.to | 0i0i0i0.com |
 | av.sharktube.net | 0i0i0i0.com |
 | ava.lazumi.online | 0i0i0i0.com |
-| avview3431.fun | 0i0i0i0.com |
 | awrfds3.pornpapa.com | 0i0i0i0.com |
 | ax4.xmoviesland.com | 0i0i0i0.com |
 | b.bloblohub.com | 0i0i0i0.com |
@@ -585,7 +587,6 @@
 | gff660fg.xyz | 0i0i0i0.com |
 | ghtry.amateurswild.com | 0i0i0i0.com |
 | go.ero-vtuber.com | 0i0i0i0.com |
-| goallbest.com | 0i0i0i0.com |
 | goofy1x.xyz | 0i0i0i0.com |
 | gpt.milftube.mobi | 0i0i0i0.com |
 | gpt.throatbulge.com | 0i0i0i0.com |
@@ -645,7 +646,7 @@
 | i8.mayoblast.com | 0i0i0i0.com |
 | i9.mayoblast.com | 0i0i0i0.com |
 | ignore.hot-bbw-tube.com | 0i0i0i0.com |
-| ili.dtu0itqvnilimdqlq554qf1.online | 0i0i0i0.com |
+| ili.dtu0itqvnilimaqlq554qf1.xyz | 0i0i0i0.com |
 | ilpgfdbc.xyz | 0i0i0i0.com |
 | ilviaggionellatesta.hubhubhub.name | 0i0i0i0.com |
 | imail.bloblohub.com | 0i0i0i0.com |
@@ -842,6 +843,7 @@
 | one.iugbhsu.com | 0i0i0i0.com |
 | ontj.com | 0i0i0i0.com |
 | ooawsxkdrm.club | 0i0i0i0.com |
+| opopop.oplaksik.online | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | oquaysx.club | 0i0i0i0.com |
 | origin1266.fun | 0i0i0i0.com |
@@ -1251,16 +1253,11 @@
 | ztg7hqds.xyz | 0i0i0i0.com |
 | zudvl.com | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
-| acquaintance213.fun | 77980.bodis.com |
+| goallbest.com | 548260.parkingcrew.net |
 | adservb.com | 77980.bodis.com |
-| announcement317.fun | 77980.bodis.com |
-| civilization474.fun | 77980.bodis.com |
-| conservation277.fun | 77980.bodis.com |
-| consultation233.fun | 77980.bodis.com |
+| avview3431.fun | 77980.bodis.com |
 | epicalyx3452.fun | 77980.bodis.com |
 | familiar3452.fun | 77980.bodis.com |
-| interference350.fun | 77980.bodis.com |
-| intervention304.fun | 77980.bodis.com |
 | javabsence11.fun | 77980.bodis.com |
 | javgenetic11.fun | 77980.bodis.com |
 | javlicense11.fun | 77980.bodis.com |
@@ -1270,9 +1267,6 @@
 | javtrouble11.fun | 77980.bodis.com |
 | javtrustee11.fun | 77980.bodis.com |
 | javunaware11.fun | 77980.bodis.com |
-| neighborhood268.fun | 77980.bodis.com |
-| satisfaction399.fun | 77980.bodis.com |
-| spokesperson254.fun | 77980.bodis.com |
 | withdraw3452.fun | 77980.bodis.com |
 | a.fantastixxx.co | registry-web-suspension-1912215664.us-east-1.elb.amazonaws.com |
 | adsxtits.com | u50.0i0i0i0.com |
@@ -1282,6 +1276,8 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | now.plsgotoasg.com | u52.aabdmn.com |
+| ontj.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |
 | hotadultcontent.com | u57.muzikguide.com |
 | hotadultvids.com | u57.muzikguide.com |
 | hotxxxcontent.com | u57.muzikguide.com |

@@ -15,7 +15,6 @@ sponsor.syracuse.com
 05acb9b113.8767252cb9.com
 06662f4bfc.78bc47506f.com
 066fb1ba95.66147a7d78.com
-06b9d703ee.bd6b488fb5.com
 0709793986.849c4089ff.com
 071fde42c9.65fcb1b26f.com
 07d69990c8.dbb94182a0.com
@@ -100,6 +99,7 @@ sponsor.syracuse.com
 42be5b600b.fcac6f9c91.com
 430e6749c9.4a93064ed9.com
 43b71a0471.b18244c6c3.com
+447c339ed2.da7a60f765.com
 45524b3eed.7460d80586.com
 45c8960dbf.0c6be7f968.com
 462c268c7c.4cd79ce97b.com
@@ -167,6 +167,7 @@ sponsor.syracuse.com
 765c47b815.4578e6ede4.com
 7699b759b2.a0282a24f6.com
 77ee916993.e83b329884.com
+7885c8b33a.ac28816960.com
 78f77febd4.b49170aaa3.com
 7a2e6c0335.ced3494312.com
 7b04ae1dbf.bb1b9b8ea2.com
@@ -223,6 +224,7 @@ aa884225ad.84747737e0.com
 ab68f17c55.ac94c2b385.com
 ae70938aca.1837fcaea1.com
 af26280486.a1057123f0.com
+af62ccc4c8.153c349024.com
 afd2557582.e2957dfa03.com
 afe125baef.7762dc22a5.com
 b0834b036a.d5193824f5.com
@@ -263,9 +265,7 @@ c8fbd6515f.9fe0bb9836.com
 c98c4ff7d9.cf625c6093.com
 cb6529a1bb.397ad904d0.com
 cb7244fcc0.a03bf8d8ce.com
-cbb1eca967.65ad8b598b.com
 ce89898fc3.3d12441eb9.com
-cf9f10e1a8.5966843ee8.com
 cf9fba9e00.d3089f6c34.com
 d011b1c7bf.09222d3e04.com
 d263c5431c.1e3afdea62.com
@@ -273,6 +273,7 @@ d3ba17ed85.5a8a1b39d4.com
 d3f013ea52.895c67da73.com
 d3f06f58e4.7751c829ca.com
 d47b55828a.de3887b464.com
+d4ace898f9.ed24cb4bc7.com
 d4bdc31b7e.99d1f1d37e.com
 d56a549e9a.4b516fd6c9.com
 d603ed603c.dff6af78c7.com
@@ -294,7 +295,6 @@ e4319a809e.26bd9f5086.com
 e495ca26f4.3322885ad1.com
 e4f2928e49.0c289f53bc.com
 e50dc6ad27.ca7d0bd322.com
-e512fc8a4c.1534aec4d7.com
 e5f4a975e1.379b3d01c3.com
 e6499697e6.d97d3231b2.com
 e791351c80.680642cdf3.com
@@ -337,7 +337,6 @@ i.laketrend.com
 i.selecttopoff.com
 i.statelinear.com
 a135.wftv.com
-instyle.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
 a135.fox23.com
@@ -370,6 +369,7 @@ fox25boston.share.ntv.io
 gayety.share.ntv.io
 grandhaventribune.share.ntv.io
 infoworld.share.ntv.io
+instyle.share.ntv.io
 justapinch.share.ntv.io
 kcci.share.ntv.io
 littlethings.share.ntv.io

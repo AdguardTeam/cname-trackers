@@ -4,9 +4,11 @@
 1of1.skipcash.app
 acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
+adprtm53.cardgold.it
 adprtm53.cartayou.it
 adprtm53.free.at
 adprtm53.gebuhrenfrei.com
+adprtm53.goldkarte.at
 adprtm53.kartegold.de
 adprtm53.xn--gebhrenfrei-vhb.de
 advertize.stcbank.com.sa
@@ -251,6 +253,7 @@ cnt.patpat.com
 compliance.mohegansuncasino.com
 condition.applause.com
 connect-cert-card.moneynetwork.com
+connect-cert-mbd.everywherepaycard.com
 connect-cert-myfunds.moneynetwork.com
 connect-cert-prepaid.everywherepaycard.com
 connect-cert-prepaidcard.moneynetwork.com
@@ -481,6 +484,7 @@ contentservices.clearairlending.com
 cookiemonster.calcas.com
 creditapp.rogersbank.com
 creditcheck.digitecgalaxus.ch
+crmg-fraudmgmt.bayad.com
 csource.rentals.com
 css.slots.io
 csservice.aircanada.com
@@ -1084,6 +1088,7 @@ tcontent.cdiscountmobile.cdiscount.com
 tcontent.nrjmobile.fr
 telem.highlow.com
 telempdf.vepormas.com
+tfet.fltreasurehunt.gov
 tfp.intuit.com
 th.barclays.co.uk
 thm.v.me
@@ -1142,6 +1147,7 @@ tm.promotion-cdn.com
 tm.regions.com
 tm.regionsqa.com
 tm.regionstest.com
+tm.republicfinance.com
 tm.rsa-claims.co.uk
 tm.stats.fashionforhome.de
 tm.stats.home24.at

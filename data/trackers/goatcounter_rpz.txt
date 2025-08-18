@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,7 +19,6 @@ analytics.astuto.io CNAME .
 analytics.code.dccouncil.us CNAME .
 analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
-analytics.ewpratten.com CNAME .
 analytics.kubasta.net CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.law.lco-nsn.gov CNAME .

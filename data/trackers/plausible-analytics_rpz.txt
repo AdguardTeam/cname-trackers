@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755165709826        ; Serial
+           1755504012339        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -318,7 +318,6 @@ stats.achtsame-yonimassage.de CNAME .
 stats.activityvault.io CNAME .
 stats.adlperformance.es CNAME .
 stats.aikidowaza.com CNAME .
-stats.aixbrain.de CNAME .
 stats.albert-kropp-gmbh.de CNAME .
 stats.alibhai.co CNAME .
 stats.alleaktien.de CNAME .
@@ -516,7 +515,6 @@ stats.htmlcsstoimage.com CNAME .
 stats.htp.org CNAME .
 stats.huysman.be CNAME .
 stats.huysmanbouw.be CNAME .
-stats.ibuildings.net CNAME .
 stats.igassmann.me CNAME .
 stats.igor4stir.com CNAME .
 stats.in-tuition.net CNAME .

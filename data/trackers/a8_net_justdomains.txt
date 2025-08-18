@@ -1059,6 +1059,7 @@ a8cv.lamellia-japan.co.jp
 a8cv.lancers.jp
 a8cv.laviepre.co.jp
 a8cv.lc-jewel.jp
+a8cv.leango.co.jp
 a8cv.leasonable.com
 a8cv.lens-1.jp
 a8cv.leoandlea.com
@@ -1188,7 +1189,6 @@ a8cv.risu-japan.com
 a8cv.rita-style.co.jp
 a8cv.rmkrmk.com
 a8cv.rohto.co.jp
-a8cv.ruksk.com
 a8cv.runteq.jp
 a8cv.ryomon.jp
 a8cv.s-darts.com

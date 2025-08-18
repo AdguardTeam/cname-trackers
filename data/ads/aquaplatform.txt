@@ -85,6 +85,7 @@
 ||console.cavalier-romand.ch^
 ||console.ceramicartsnetwork.org^
 ||console.channelvas.com^
+||console.cincinnatimagazine.com^
 ||console.cricketworld.com^
 ||console.datateam.co.uk^
 ||console.everythingcolorado.com^
@@ -261,6 +262,7 @@
 ||www.console.livingmagonline.com^
 ||www.console.myadsmyanmar.com^
 ||www.console.pinktriangle.ca^
+||www.console.schrotundkorn.de^
 ||www.coreads-console.cambridge.org^
 ||www.coreads-static.cambridge.org^
 ||www.coreads.cambridge.org^

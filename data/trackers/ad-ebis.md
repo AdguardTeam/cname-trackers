@@ -37,6 +37,7 @@
     * 158d5b7d-6pusefyf.cname.ebis.ne.jp
     * 1590f1a6-xjhet6w1.cname.ebis.ne.jp
     * 15a8dc8b-fbw7r35c.cname.ebis.ne.jp
+    * 1667b6ce-scxitlgt.cname.ebis.ne.jp
     * 16df7011-m9x5lvqe.cname.ebis.ne.jp
     * 174d53fc-qrjtuhuw.cname.ebis.ne.jp
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
@@ -392,6 +393,7 @@
 | ebis-tracking.tcb-koriyama.com | 158d5b7d-6pusefyf.cname.ebis.ne.jp |
 | adebis.gfs-official.com | 1590f1a6-xjhet6w1.cname.ebis.ne.jp |
 | adebis.muscledeli.jp | 15a8dc8b-fbw7r35c.cname.ebis.ne.jp |
+| cs0113sbeda.scanet.jp | 1667b6ce-scxitlgt.cname.ebis.ne.jp |
 | adebis.kodomohamigaki.com | 16df7011-m9x5lvqe.cname.ebis.ne.jp |
 | adebis.furisode-ichikura.jp | 174d53fc-qrjtuhuw.cname.ebis.ne.jp |
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
