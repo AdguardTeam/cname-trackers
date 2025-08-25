@@ -198,7 +198,6 @@
 | affiliate.jewstone.cz | cz.affilbox.cz |
 | affiliate.jidlojevasen.cz | cz.affilbox.cz |
 | affiliate.jiristibor.cz | cz.affilbox.cz |
-| affiliate.ketofit.sk | cz.affilbox.cz |
 | affiliate.krmivopropsy.cz | cz.affilbox.cz |
 | affiliate.kurzy-liecenia.sk | cz.affilbox.cz |
 | affiliate.ladylab.cz | cz.affilbox.cz |
@@ -287,7 +286,6 @@
 | affiliate.vasesosovky.sk | cz.affilbox.cz |
 | affiliate.velebny.cz | cz.affilbox.cz |
 | affiliate.vox.cz | cz.affilbox.cz |
-| affiliate.webium.cz | cz.affilbox.cz |
 | affiliate.wugi.cz | cz.affilbox.cz |
 | affiliate.xbx.cz | cz.affilbox.cz |
 | affiliate.zdraviafitness.cz | cz.affilbox.cz |
@@ -908,7 +906,6 @@
 | partneri.salente.cz | cz.affilbox.cz |
 | partneri.serafinbyliny.cz | cz.affilbox.cz |
 | partneri.silaprozivot.com | cz.affilbox.cz |
-| partneri.smartemailing.cz | cz.affilbox.cz |
 | partneri.smyslovy-pruzkumnik.cz | cz.affilbox.cz |
 | partneri.somsamasebou.sk | cz.affilbox.cz |
 | partneri.sportfotbal.cz | cz.affilbox.cz |

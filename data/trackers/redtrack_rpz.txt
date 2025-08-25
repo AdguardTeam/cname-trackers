@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -133,6 +133,7 @@ $TTL 300
 351townsville.treker.fun CNAME .
 352donostia.treker.fun CNAME .
 352gasteiz.treker.fun CNAME .
+352otsu.treker.fun CNAME .
 352palma.treker.fun CNAME .
 352tineo.treker.fun CNAME .
 352vitoria.treker.fun CNAME .
@@ -279,8 +280,6 @@ asilah.treker.fun CNAME .
 astorga.treker.fun CNAME .
 asturias.treker.fun CNAME .
 at.track.yoursecurtrc.com CNAME .
-atls.exploreguidedaily.com CNAME .
-atls.insightdiscoveryguide.com CNAME .
 atoso.alphatonicoffers.online CNAME .
 atsugi.treker.fun CNAME .
 att.click.herbalsnlife.com CNAME .
@@ -308,6 +307,7 @@ best.flexibilityover40.com CNAME .
 best.forever-wellness.net CNAME .
 bgwncsntrack.trackaffmktg.com CNAME .
 bhopal.treker.fun CNAME .
+bigleapforward.org CNAME .
 blog.blogdavanessa.com.br CNAME .
 blog.blogmodernmuse.com CNAME .
 blog.blogsemprejovem.com CNAME .
@@ -336,7 +336,6 @@ buy.erasilk.com CNAME .
 c.analyzeyourhealth.com CNAME .
 c1.greatamericansociety.com CNAME .
 c1.onegreatamericansolutions.com CNAME .
-c1.realamericancenter.com CNAME .
 c2.greatamericanworld.com CNAME .
 callbrace43.trk.herniareliefcenter.com CNAME .
 camrus.cams4fun.xyz CNAME .
@@ -352,6 +351,7 @@ chirpan.treker.fun CNAME .
 chofu.treker.fun CNAME .
 chr.conservativehealthreport.org CNAME .
 cixi.treker.fun CNAME .
+click.americasaving.com CNAME .
 click.assistanceforamericans.org CNAME .
 click.bigclicktrakk.com CNAME .
 click.caringforourseniors.org CNAME .
@@ -359,7 +359,6 @@ click.check-games.com CNAME .
 click.epcinsights.com CNAME .
 click.financetodaybenefits.org CNAME .
 click.gewinnercasinos.com CNAME .
-click.gizzmo.eu CNAME .
 click.helpforourseniors.org CNAME .
 click.jctrkg.com CNAME .
 click.ketoplan24.com CNAME .
@@ -372,6 +371,7 @@ click.redtrk.hotusnews.com CNAME .
 click.socialsecurityupdate.org CNAME .
 click.static.fyi CNAME .
 click.track.theeconomicrule.com CNAME .
+click.track.thefinancialvisionary.com CNAME .
 click.tracking.essentialtechnews.com CNAME .
 click.tracking.greymountaincapital.com CNAME .
 click.tracking.investingskeeper.com CNAME .
@@ -394,8 +394,8 @@ clk.myamericancare.com CNAME .
 clk.pbsolutions.online CNAME .
 clk.rratrack.com CNAME .
 clk.savingsalertguide.com CNAME .
-clk.savingsalerthotline.com CNAME .
 clk.seniorgolddeals.com CNAME .
+clk.seniorinsurancehelp.net CNAME .
 clk.shinydaay.com CNAME .
 clk.track-ad.com CNAME .
 clk2.allaboutvibe.com CNAME .
@@ -433,7 +433,6 @@ etmeden0.harmoniousblossom.com CNAME .
 fbtrack.mensuas.com CNAME .
 fernando.treker.fun CNAME .
 findyourdailyjoy.com CNAME .
-first.thetrustnest.com CNAME .
 flacaen0.tranquilpinnacle.com CNAME .
 fldebten0.tranquilpinnacle.com CNAME .
 fldebtsp0.tranquilpinnacle.com CNAME .
@@ -451,7 +450,6 @@ funes.treker.fun CNAME .
 fuzhou.treker.fun CNAME .
 g.a.firsthelpsource.com CNAME .
 game.ftuzl.co CNAME .
-game.lwpxa.co CNAME .
 game.ojlic.co CNAME .
 game.tdjhx.co CNAME .
 game.uwyca.co CNAME .
@@ -459,7 +457,6 @@ game.yubqj.co CNAME .
 game.zkroy.co CNAME .
 get-supreme-greens-capsules.vitasupreme.com CNAME .
 get.identityprotectnow.com CNAME .
-get.trackclicker.com CNAME .
 getafe.treker.fun CNAME .
 glxrik.site CNAME .
 glxrina.site CNAME .
@@ -475,14 +472,13 @@ go.americanseniordiscounts.com CNAME .
 go.apartmentgladiator.com CNAME .
 go.apostabrasileira.org CNAME .
 go.apostacerteira.net CNAME .
-go.apostaronline.org CNAME .
 go.apostasbr.net CNAME .
 go.apostasbr.org CNAME .
 go.apostasdobrasil.org CNAME .
 go.asapostasbr.com CNAME .
 go.autodealsnowonline.com CNAME .
 go.autosavings.us CNAME .
-go.benefitinsighthub.com CNAME .
+go.benefitassistancenetwork.com CNAME .
 go.besavvyseniors.com CNAME .
 go.bestdealliving.com CNAME .
 go.besthealthchoices.com CNAME .
@@ -514,13 +510,11 @@ go.foreverhealthyandhappy.com CNAME .
 go.fullcarepayout.com CNAME .
 go.futebolhoje.com.br CNAME .
 go.glukobest.net CNAME .
-go.gopeakbiome.com CNAME .
 go.grip6.com CNAME .
 go.growonhome.com CNAME .
 go.grubbo.no CNAME .
 go.healthfareservices.com CNAME .
 go.healthywellnessfromwithin.com CNAME .
-go.hometica.co CNAME .
 go.hsrtrack.com CNAME .
 go.instant-redirector.com CNAME .
 go.jbihairtrk.com CNAME .
@@ -534,7 +528,6 @@ go.marveltest.com CNAME .
 go.masteryxz.com CNAME .
 go.mediallowance.com CNAME .
 go.melhoresbets.com CNAME .
-go.mivoraix.shop CNAME .
 go.mmodragon.com CNAME .
 go.myhomebetter.com CNAME .
 go.myinnovativefinds.com CNAME .
@@ -551,13 +544,11 @@ go.ralfschmitz.co CNAME .
 go.rapidtrc.com CNAME .
 go.reliefamerica.org CNAME .
 go.saludholistica.site CNAME .
-go.sambafoot.com CNAME .
 go.santabarbaranutrients.com CNAME .
 go.sassysaints.com CNAME .
 go.savingstips.ca CNAME .
 go.savingsus.org CNAME .
 go.savysaving.com CNAME .
-go.secure-xyz.com CNAME .
 go.senior-planete.com CNAME .
 go.seniorcaresmart.com CNAME .
 go.siteapostasbrasil.com CNAME .
@@ -575,6 +566,7 @@ go.thedailyobserveronline.com CNAME .
 go.theeducationinformer.com CNAME .
 go.thehomeprograms.com CNAME .
 go.thenorsegrooming.com CNAME .
+go.thesavingshq.com CNAME .
 go.thespringfieldherald.com CNAME .
 go.thestudentvoiceonline.com CNAME .
 go.thinkdog.it CNAME .
@@ -601,8 +593,9 @@ go.vipcouponsdeals.com CNAME .
 go.viraldispatch.com CNAME .
 go.visitpage.online CNAME .
 go.wealthtonexus.com CNAME .
-go.welltrk.com CNAME .
+go.wintracked.com CNAME .
 go.yourhealthyfitnessjourney.com CNAME .
+google.trk.oeremil.com CNAME .
 gorna.treker.fun CNAME .
 goulmima.treker.fun CNAME .
 grafton.treker.fun CNAME .
@@ -611,7 +604,6 @@ guadaira.treker.fun CNAME .
 guernica.treker.fun CNAME .
 hachioji.treker.fun CNAME .
 harbin.treker.fun CNAME .
-health.yourhealthyremedies.com CNAME .
 hello.istrks.com CNAME .
 help.americancrashclaims.com CNAME .
 hengyang.treker.fun CNAME .
@@ -665,7 +657,6 @@ karnobat.treker.fun CNAME .
 kasugai.treker.fun CNAME .
 kasukabe.treker.fun CNAME .
 katoomba.treker.fun CNAME .
-keskit.site CNAME .
 khenifra.treker.fun CNAME .
 khouribga.treker.fun CNAME .
 kiama.treker.fun CNAME .
@@ -681,7 +672,6 @@ lc.manhealthsolutions.com CNAME .
 lc.romegods.com CNAME .
 lc.taintedlovetoday.com CNAME .
 lc.thebugblues.com CNAME .
-lc.thejacktoday.com CNAME .
 lc.thekingofbongo.com CNAME .
 lcacaen3.verdantpathfinder.com CNAME .
 lcmed0.verdantpathfinder.com CNAME .
@@ -695,7 +685,6 @@ link.bestwinners.xyz CNAME .
 link.epichomesavings.com CNAME .
 link.kimovl.com CNAME .
 link.topdealspost.com CNAME .
-link.undergroundlifehacks.com CNAME .
 link.wealthoftrade.com CNAME .
 lishui.treker.fun CNAME .
 littlelilistore.rdtrke.com CNAME .
@@ -720,7 +709,6 @@ lp.myglowingvibes.club CNAME .
 lp.mygreatvibes.club CNAME .
 lp.myhealthytonic.co CNAME .
 lp.nortuz.com CNAME .
-lp.officialpowerrise.online CNAME .
 lp.onucleo7.com CNAME .
 lp.powerrisecontact.com CNAME .
 lp.premierperformance.site CNAME .
@@ -731,9 +719,9 @@ lp.ritarostirolla.com.br CNAME .
 lp.saudeifoco.com CNAME .
 lp.tudodaterranoticias.com CNAME .
 lp.tudonoticiasdaterra.com CNAME .
-lp.uniqueperformance.site CNAME .
 lp.vidaativanoticias.com CNAME .
 lp.visiluxoficial.com CNAME .
+lp.visipronatural.com CNAME .
 lr.malehealthfocus.com CNAME .
 lr.renewyouvitality.com CNAME .
 lr.sciaticnervehealth.com CNAME .
@@ -770,7 +758,6 @@ mail.rtdyotrck.com CNAME .
 main.adblock-gold.com CNAME .
 main.adblockdiamond.com CNAME .
 main.inclusivepolicy.com CNAME .
-maintenant.votre-succes.online CNAME .
 maldini.trk.agency CNAME .
 malmo.treker.fun CNAME .
 market123.williamsmedia.co CNAME .
@@ -855,13 +842,11 @@ panagyurishte.treker.fun CNAME .
 panihati.treker.fun CNAME .
 parkthis.parkplaceinstallations.com CNAME .
 path.aliviocrediticio.com CNAME .
-path.americansavinghacks.com CNAME .
 path.autoinsurancesavings2024.com CNAME .
 path.autosavingsusa.com CNAME .
 path.bathroomrenopros.com CNAME .
 path.benevolentmarketingco.com CNAME .
 path.bestautodiscounts.com CNAME .
-path.bluecollarhomesavings.com CNAME .
 path.healthenrollmentlifeline.com CNAME .
 path.healthyamericans2024.com CNAME .
 path.herniareliefcenter.com CNAME .
@@ -879,6 +864,7 @@ path.theautosolution.com CNAME .
 path.theautozoom.com CNAME .
 path.thehappyamerican.com CNAME .
 path.thisisnowyourdestiny.com CNAME .
+path.unitedautosavings.com CNAME .
 path.unitedclasses.com CNAME .
 path.unitedhealthalliance2024.com CNAME .
 path.usaeverydaysavings.com CNAME .
@@ -917,13 +903,12 @@ rboss.redboostonlineshop.site CNAME .
 rbptt.com CNAME .
 rd.autoservicesdomain.com CNAME .
 rd.availableusabenefits.com CNAME .
-rd.improvementsinfo.com CNAME .
 rd.modernistlook.com CNAME .
 rd.resourcehubusa.com CNAME .
 rd.savingtoolsonline.com CNAME .
-rd.smartservicestoday.com CNAME .
 rd.t1.americanadvantagezone.com CNAME .
 rd.t1.benefitsnowamerica.com CNAME .
+rd.t1.hacksusatoday.com CNAME .
 rd.t1.smartbenefitshome.com CNAME .
 rd.t1.usbenefitshome.com CNAME .
 rd.uswindowsdeals.com CNAME .
@@ -932,6 +917,7 @@ rd.viriltonic24.com CNAME .
 rdboclk.redboostmegaoffer.online CNAME .
 rdt.whitewall.com CNAME .
 rdtk.camrabbit.com CNAME .
+rdtk.camrabbit.sex CNAME .
 rdtk.carsfast.ca CNAME .
 rdtk.crazylivecams.com CNAME .
 rdtk.maia.insure CNAME .
@@ -940,6 +926,7 @@ rdtk.practs.de CNAME .
 rdtk.primate.diet CNAME .
 rdtk.rabbitscams.sex CNAME .
 rdtk.rabbitsreviews.com CNAME .
+rdtk.scalemyclinic.com.au CNAME .
 rdtk.troma-now.com CNAME .
 rdtrack.src2.net CNAME .
 rdtrk.affiliatebooster.com CNAME .
@@ -1006,7 +993,6 @@ rt.policysidekick.com CNAME .
 rt.portalmedicinabrasil.com CNAME .
 rt.sarahssilks.com CNAME .
 rt.savingprograms.net CNAME .
-rt.start.eternalblackout.com CNAME .
 rt.suterahome.com CNAME .
 rt.suterastone.com CNAME .
 rt.suteratowels.com CNAME .
@@ -1029,10 +1015,10 @@ rtk.palattine.com.br CNAME .
 rtk.san-marco.com CNAME .
 rtk.trk.affordablehealthamerica.com CNAME .
 rtk.trk.affordablehealthblog.com CNAME .
-rtk.trk.allaboutbenefitsusa.com CNAME .
 rtk.trk.autocoverageinsider.com CNAME .
 rtk.trk.benefitsadvisorsline.com CNAME .
 rtk.trk.benefitsassistanceusa.com CNAME .
+rtk.trk.benefitscenteramerica.com CNAME .
 rtk.trk.benefitsguideblog.com CNAME .
 rtk.trk.benefitshubtoday.com CNAME .
 rtk.trk.benefitsmentorusa.com CNAME .
@@ -1077,8 +1063,10 @@ rtk.trk.getvitalexpenses.com CNAME .
 rtk.trk.getyourhealthalways.com CNAME .
 rtk.trk.guardianfinalplan.com CNAME .
 rtk.trk.healthaccessblog.com CNAME .
+rtk.trk.healthcarechoicehub.com CNAME .
 rtk.trk.healthpeaceofmind.com CNAME .
 rtk.trk.healthplanscoverage.com CNAME .
+rtk.trk.healthrebatesdaily.com CNAME .
 rtk.trk.healthsecuritynow.com CNAME .
 rtk.trk.healthvitalityexpenses.com CNAME .
 rtk.trk.healthytrendsbenefits.com CNAME .
@@ -1105,8 +1093,8 @@ rtk.trk.primehealthchoices.com CNAME .
 rtk.trk.protectionplantoday.com CNAME .
 rtk.trk.reliablehealthcaretoday.com CNAME .
 rtk.trk.reliablehealthoptions.com CNAME .
-rtk.trk.savetodayblog.com CNAME .
 rtk.trk.savingscenteramerica.com CNAME .
+rtk.trk.savingsmentor.com CNAME .
 rtk.trk.savingsradarusa.com CNAME .
 rtk.trk.savingssimplifiedtoday.com CNAME .
 rtk.trk.savingstipsdaily.com CNAME .
@@ -1120,6 +1108,7 @@ rtk.trk.seniorbenefitsdaily.com CNAME .
 rtk.trk.seniorbonusbenefits.com CNAME .
 rtk.trk.seniorburialfounds.com CNAME .
 rtk.trk.seniorcoverageusa.com CNAME .
+rtk.trk.seniorextrabenefits.com CNAME .
 rtk.trk.seniorsavingsamerica.com CNAME .
 rtk.trk.seniorscareamerica.com CNAME .
 rtk.trk.simplecoveragetoday.com CNAME .
@@ -1146,16 +1135,16 @@ rtk.trk.totalcoverageplans.com CNAME .
 rtk.trk.trendyburst.com CNAME .
 rtk.trk.truecoverageplan.com CNAME .
 rtk.trk.trustedbenefitstoday.com CNAME .
-rtk.trk.trustedseniorplansusa.com CNAME .
 rtk.trk.ultimatecoverageplans.com CNAME .
 rtk.trk.updatehealthtoday.com CNAME .
 rtk.trk.usadigitalbenefits.com CNAME .
 rtk.trk.usahealthsense.com CNAME .
 rtk.trk.usbenefitboost.com CNAME .
 rtk.trk.usbenefitscoverage.com CNAME .
+rtk.trk.vipsaverusa.com CNAME .
 rtk.trk.wellbeingusahub.com CNAME .
 rtk.trk.wisemoneyguidance.com CNAME .
-rtk.trk.yourtrustedbenefits.com CNAME .
+rtk.trk.yourcoveragechoice.com CNAME .
 rtk.undetectable.ai CNAME .
 rtk.vittaflora-ofc.com CNAME .
 rtl.t.thedigestionboost.com CNAME .
@@ -1165,11 +1154,9 @@ rtrack.dsuppliersamz.com CNAME .
 rtrack.frome.co CNAME .
 rtrack.getboostaro.net CNAME .
 rtrack.myzenoo.com CNAME .
-rtrack.seemysavings.com CNAME .
 rtrck.best5goldira.com CNAME .
 rtrck.elevatione.mx CNAME .
 rtrck.elevationeaesthetic.ph CNAME .
-rtrck.elevationesingapore.com CNAME .
 rtrck.metalassetguard.com CNAME .
 rtrck.top3goldira.com CNAME .
 rtrk.supremoaffiliates.com CNAME .
@@ -1223,7 +1210,6 @@ sichere-verbindung.offizielles-angebot.com CNAME .
 sichuan.treker.fun CNAME .
 skelleftea.treker.fun CNAME .
 slimane.treker.fun CNAME .
-sm.click.wingedtrading.com CNAME .
 so.socialmore.click CNAME .
 solar.greenenergyalliance.net CNAME .
 souq.treker.fun CNAME .
@@ -1237,7 +1223,6 @@ suqian.treker.fun CNAME .
 survey.axsmanager.com CNAME .
 suzhou.treker.fun CNAME .
 sydney.treker.fun CNAME .
-t.achievinghealthyliving.com CNAME .
 t.activeflowprogram.com CNAME .
 t.americanssdbenefit.com CNAME .
 t.centralifehealth.com CNAME .
@@ -1265,13 +1250,11 @@ ter.centrodayuda.com CNAME .
 terik.site CNAME .
 test.clearbalanceguide.com CNAME .
 test.trk.easyautodiscounts.com CNAME .
-testrt.mrperfect.dk CNAME .
 the.checkfox.de CNAME .
 the.usbetterdeals.com CNAME .
 thisdomainisfortracking.org CNAME .
 tips.happinessspectrum.com CNAME .
 tk.acsfinancial.com.au CNAME .
-tk.girotti.com CNAME .
 tk.happysavingsblog.com CNAME .
 tk.heatcommerce.net CNAME .
 tk.rd.caleffionline.it CNAME .
@@ -1290,7 +1273,6 @@ tr.themerrycircle.com CNAME .
 tr.txxx.com CNAME .
 track.1oneinch.com CNAME .
 track.a8trk.com CNAME .
-track.adherellc.com CNAME .
 track.alepel.com CNAME .
 track.alohafromdeer.com CNAME .
 track.americanlifenow.com CNAME .
@@ -1344,14 +1326,12 @@ track.dealextremist.com CNAME .
 track.debbicarberry.com.au CNAME .
 track.dentalnhygene.com CNAME .
 track.deskboardbuddy.com CNAME .
-track.dieselecmexchange.com CNAME .
 track.diethackz.com CNAME .
 track.digiklase.lt CNAME .
 track.digitalina.io CNAME .
 track.digitalscoop.ca CNAME .
 track.diversaoebonus.com CNAME .
 track.docu-bay.com CNAME .
-track.docubay-kw.com CNAME .
 track.drvisionbreakthrough.com CNAME .
 track.duelbits.com CNAME .
 track.dupuytrensco.com CNAME .
@@ -1373,6 +1353,7 @@ track.fastshare.cz CNAME .
 track.fasttv.am CNAME .
 track.feelingbetterlifestyle.com CNAME .
 track.feldluft.de CNAME .
+track.financempire.com CNAME .
 track.fit-bee.fr CNAME .
 track.fit4lifesa.com CNAME .
 track.fitbee-deutschland.com CNAME .
@@ -1388,14 +1369,12 @@ track.funplusjo.com CNAME .
 track.funscapeuae.com CNAME .
 track.gamebarsi.com CNAME .
 track.gamefinitysa.com CNAME .
-track.gamekingdomae.com CNAME .
 track.gamesmasterps.com CNAME .
 track.gamestationqa.com CNAME .
 track.gamesuitekz.com CNAME .
 track.gamesunlimitednz.com CNAME .
 track.get-quoteshealth.com CNAME .
 track.getcompensationforinjuries.com CNAME .
-track.girogratuito.com CNAME .
 track.globkurier.pl CNAME .
 track.glukobestpro.net CNAME .
 track.goforgoods.com CNAME .
@@ -1421,7 +1400,6 @@ track.hukitchen.com CNAME .
 track.hypnovy.com CNAME .
 track.iam.cash CNAME .
 track.ibrighthorizons.com CNAME .
-track.icowhide.com CNAME .
 track.ie-grandslamgaming.com CNAME .
 track.imperiumnetpromo.com CNAME .
 track.injuryjusticealliance.com CNAME .
@@ -1457,7 +1435,6 @@ track.luxarmy.store CNAME .
 track.makeoverdeals.com CNAME .
 track.marketingdirect.it CNAME .
 track.masterindian.com CNAME .
-track.mawahebom.com CNAME .
 track.mediacareplan.today CNAME .
 track.megabotpro.com CNAME .
 track.meirako.com CNAME .
@@ -1520,7 +1497,6 @@ track.p4l.today CNAME .
 track.pandabrands.io CNAME .
 track.parcelabc.com CNAME .
 track.performancegolf.com CNAME .
-track.petheal.com CNAME .
 track.pimpbangkok.com CNAME .
 track.playmixom.com CNAME .
 track.playonouae.com CNAME .
@@ -1638,7 +1614,6 @@ track.yearsassure.org CNAME .
 track.yourbusinessmorning.com CNAME .
 track.yourlifesafeguard.com CNAME .
 track.zenbodyshop.ch CNAME .
-track.zodiacnumerology.com CNAME .
 track1.smartfinancialhelp.com CNAME .
 trackagency.likeableagent.com CNAME .
 trackbuyers.likeableagent.com CNAME .
@@ -1685,18 +1660,15 @@ trk.acaresourcecenter.com CNAME .
 trk.advancedtrkr.com CNAME .
 trk.affordability.io CNAME .
 trk.alexjoyfullife.com CNAME .
-trk.americandailysavingshubs.com CNAME .
 trk.americanhealthfinder.com CNAME .
 trk.americanhealthylivingadvice.com CNAME .
 trk.americanhomeadvice.com CNAME .
-trk.applymyrate.com CNAME .
 trk.axtracking.com CNAME .
 trk.bestopten.com CNAME .
 trk.betboss.ai CNAME .
 trk.betterdecisionspro.com CNAME .
 trk.bettyrider.net CNAME .
 trk.boxcoupon.link CNAME .
-trk.builttoscale.co CNAME .
 trk.buzzlifeinsider.com CNAME .
 trk.carecompasshub.org CNAME .
 trk.chloeparker.org CNAME .
@@ -1719,6 +1691,7 @@ trk.essentialcareadvice.com CNAME .
 trk.esteticaesalute.it CNAME .
 trk.evatac.com.au CNAME .
 trk.exclusivereview.site CNAME .
+trk.finnamega.shop CNAME .
 trk.get.watchfreevideo.vip CNAME .
 trk.getbrightright.com CNAME .
 trk.getvamoose.com CNAME .
@@ -1742,7 +1715,6 @@ trk.musthtrack.ca CNAME .
 trk.mybestdealclub.com CNAME .
 trk.myreliefaid.org CNAME .
 trk.nbeternalmemoryplan.com CNAME .
-trk.nbeternalrestplans.com CNAME .
 trk.newhealthysolution.com CNAME .
 trk.newmdrn.com CNAME .
 trk.newseniorbenefits.com CNAME .
@@ -1752,8 +1724,6 @@ trk.nimasound.com CNAME .
 trk.oklocal.com CNAME .
 trk.ozemgummy.com CNAME .
 trk.ozzihome.co CNAME .
-trk.pndtrack1.com CNAME .
-trk.pvhealth1.com CNAME .
 trk.quicksavingstoday.com CNAME .
 trk.rdrkt.site CNAME .
 trk.reflo.io CNAME .
@@ -1811,7 +1781,6 @@ try.surveydose.com CNAME .
 tt.flowntw.com CNAME .
 ttn.prolong-power.com CNAME .
 turgovishte.treker.fun CNAME .
-two.betterdomino.com CNAME .
 unlock.eleganceclothing.co CNAME .
 unlock.onedreamsports.de CNAME .
 up.aktivliv.com CNAME .
@@ -1826,6 +1795,7 @@ video.kesefinternational.com CNAME .
 vidin.treker.fun CNAME .
 vision.neurobiocomportementalisme.com CNAME .
 vratsa.treker.fun CNAME .
+vsl-track.info CNAME .
 wam.flirttrck.com CNAME .
 watch.brooklynadams.org CNAME .
 watch.hiddensecretsusa.com CNAME .
@@ -1860,7 +1830,6 @@ www.mediacojsh.com CNAME .
 www.moneyclutchtrack.com CNAME .
 www.pornocam.be CNAME .
 www.rbptt.com CNAME .
-www.roundupexposureclaims.com CNAME .
 www.traqhealthyandlean.com CNAME .
 www.trckmyclick.com CNAME .
 www.trglm.com CNAME .
@@ -1888,6 +1857,7 @@ att.track.keunehungary.hu CNAME .
 att.trailwellness.com CNAME .
 att.trk.loveatfirstfight.com CNAME .
 att.trk.mmawarehouse.com CNAME .
+blog.verbraucher-ratgeber.info CNAME .
 bok.sklepmedic.pl CNAME .
 canna.adsdomaintracking.com CNAME .
 cf.wolfclicktrack.com CNAME .
@@ -1895,9 +1865,10 @@ click.track700.com CNAME .
 dashboard.beardcareclub.com CNAME .
 desaguaro.saguaro.com CNAME .
 diy.beviswoodclub.com CNAME .
-ecomtrack.mident.cz CNAME .
+evolu.adsdomaintracking.com CNAME .
 gateway.rennovalife.com CNAME .
 get.bestgreensdeals.com CNAME .
+glassy.glassybot.com CNAME .
 go.actionblack.us CNAME .
 go.alitehub.com CNAME .
 go.boosfrhomme.shop CNAME .
@@ -1916,7 +1887,6 @@ hi.bollsen.fr CNAME .
 hi.bollsen.hu CNAME .
 hi.bollsen.it CNAME .
 hi.bollsen.pl CNAME .
-hi.bollsen.se CNAME .
 hi.comparacion-de-productos.es CNAME .
 hi.europaeische-produkttest-gesellschaft.de CNAME .
 hi.mybollsen.com CNAME .
@@ -1935,7 +1905,6 @@ insight.vinnea.no CNAME .
 insight.vinnea.se CNAME .
 jaytk.ecosproutify.com CNAME .
 learn.relaxalab.com CNAME .
-lp.mounjanews.site CNAME .
 lp.pravimoski.com CNAME .
 lp.realinsiight.site CNAME .
 m.m.oronova.co.uk CNAME .
@@ -1955,6 +1924,7 @@ rdrt.simplebooking.it CNAME .
 rdt.obluemagicdrops.com CNAME .
 record.t.top4smm.com CNAME .
 red.belle-body.de CNAME .
+red.kurk.us CNAME .
 red.marcoshoes.com CNAME .
 red.swissfx.net CNAME .
 red.track.storebkc.com CNAME .
@@ -1962,16 +1932,15 @@ redtk.fitbyyou.com CNAME .
 redtrack-2.revguru.io CNAME .
 redtrack.distacart.com CNAME .
 redtrack.godlike.host CNAME .
+redtrack.klaragroulikova.cz CNAME .
 redtrack.manset.com.ua CNAME .
 redtrack.weeshop.dk CNAME .
 redtrack.zetronix.com CNAME .
-rt.mounjaiword.site CNAME .
-rt.mounlynix.site CNAME .
 rt.posterprintshop.com CNAME .
-rt.quaresmacrista.site CNAME .
 rt.quaresmadopadrepio.com CNAME .
 rt.robemart.com CNAME .
 rt.splitmax-global.shop CNAME .
+rt.velloreshop.com CNAME .
 rt.vidavitalis.com CNAME .
 rt.whitebridge.ai CNAME .
 rt2.afiliadosniper.com CNAME .
@@ -1997,6 +1966,7 @@ rttrk.wyylde.com CNAME .
 s2s.overgear.com CNAME .
 sara.buenospa.com CNAME .
 sb.adsdomaintracking.com CNAME .
+secure.gbb77.com CNAME .
 secure.mheboost.com CNAME .
 secure.scentlab.tech CNAME .
 shop.makasio.de CNAME .
@@ -2030,7 +2000,6 @@ track.catspros.com CNAME .
 track.cbdmuay.com CNAME .
 track.centerforovercoming.com CNAME .
 track.classysculptures.com CNAME .
-track.clubarqexpress.com.br CNAME .
 track.cosplayware.com CNAME .
 track.cufflinkdeals.com CNAME .
 track.drixes-elektricien.nl CNAME .
@@ -2040,8 +2009,8 @@ track.fntrk.org CNAME .
 track.fradall.com CNAME .
 track.generationgenius.com CNAME .
 track.getpartysupply.com CNAME .
+track.goldenweb.net CNAME .
 track.healthroutine.de CNAME .
-track.impt.io CNAME .
 track.imreadyforsummer.com CNAME .
 track.intimate.ai CNAME .
 track.inty.chat CNAME .
@@ -2069,7 +2038,6 @@ track.petsummits.com CNAME .
 track.physiohealth-line.de CNAME .
 track.ploclicktrack.com CNAME .
 track.polpick.app CNAME .
-track.powerwoolinsulation.com CNAME .
 track.prostaflush.org CNAME .
 track.rollingriches.com CNAME .
 track.safeyourlove.co CNAME .
@@ -2082,7 +2050,6 @@ track.t.topwallvpn.com CNAME .
 track.teflfullcircle.com CNAME .
 track.thebirdlovers.com CNAME .
 track.toxicasino.com CNAME .
-track.trackleads.com.au CNAME .
 track.traktor.fleszbielizna.com CNAME .
 track.trendyreptiles.com CNAME .
 track.tusztusz.pl CNAME .
@@ -2102,6 +2069,7 @@ tracking.zip-estimate.com CNAME .
 traktor.lozkoholicy.pl CNAME .
 trck.red.stories-hunter.com CNAME .
 trk.benu.bg CNAME .
+trk.curalise.com CNAME .
 trk.fluxboosters.site CNAME .
 trk.galileofx.com CNAME .
 trk.garageflooringusa.com CNAME .
@@ -2110,7 +2078,6 @@ trk.grayclothing.co.uk CNAME .
 trk.minimalclub.com.br CNAME .
 trk.misnst.xyz CNAME .
 trk.narcistdebaas.nl CNAME .
-trk.serandis.de CNAME .
 trk.solo-ella.com CNAME .
 trk.tr4ck1ng.com CNAME .
 trk.ventedestock.shop CNAME .
@@ -2128,21 +2095,21 @@ www.redtrackfan.club CNAME .
 aleksa.mtxbreak.click CNAME .
 and.roasrocknroll.click CNAME .
 click.track.joyfulretirementsecrets.com CNAME .
-click.track.nearthecashcorner.com CNAME .
 fiko.cpm-toohigh.click CNAME .
 fiko2.skin-squad.click CNAME .
 go.benefitresourceassist.com CNAME .
 go.instantusabenefits.com CNAME .
 go.madeeasypolicies.com CNAME .
 page.clicktrk.online CNAME .
-pavle.exclusive-offers-su.click CNAME .
+pl.trk.quirkalooquotient.com CNAME .
 pl.trk.wackywonderlandweb.com CNAME .
 rt.policyfamilyquote.com CNAME .
 tr.track-myleads.com CNAME .
 track.24monetize.com CNAME .
+track.topsolutions.club CNAME .
+trk.acareliefact.org CNAME .
+trk.saveclever.org CNAME .
+click.track.nearthecashcorner.com CNAME .
+pavle.exclusive-offers-su.click CNAME .
 track.nativead.be CNAME .
 track.trkbtga.com CNAME .
-trk.acareliefact.org CNAME .
-pl.trk.quirkalooquotient.com CNAME .
-track.topsolutions.club CNAME .
-trk.saveclever.org CNAME .

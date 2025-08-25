@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -321,6 +321,7 @@ a8.tea-lab.co.jp CNAME .
 a8.tecgate.jp CNAME .
 a8.tech-base.net CNAME .
 a8.techis.jp CNAME .
+a8.techsales-class.worx.jp CNAME .
 a8.tecpartners.jp CNAME .
 a8.teddyworks.co.jp CNAME .
 a8.tential.jp CNAME .
@@ -586,6 +587,7 @@ a8clk.mat.duskin-hozumi.co.jp CNAME .
 a8clk.meister-coating.com CNAME .
 a8clk.mens-mr.jp CNAME .
 a8clk.mens-rinx.jp CNAME .
+a8clk.menter.jp CNAME .
 a8clk.merry.duskin-hozumi.co.jp CNAME .
 a8clk.miidas.jp CNAME .
 a8clk.minnadeooyasan.com CNAME .
@@ -1093,7 +1095,6 @@ a8cv.magniflexk.com CNAME .
 a8cv.mai.dk-lab.jp CNAME .
 a8cv.mamarket.co.jp CNAME .
 a8cv.mansiontech.com CNAME .
-a8cv.marumochiya.net CNAME .
 a8cv.mashumaro-bra.com CNAME .
 a8cv.mbb-inc.com CNAME .
 a8cv.mcc-lazer-hr.com CNAME .
@@ -1276,7 +1277,6 @@ a8cv.suzaku.or.jp CNAME .
 a8cv.suzette-shop.jp CNAME .
 a8cv.t-bang.jp CNAME .
 a8cv.t-gaia.co.jp CNAME .
-a8cv.taclinic.jp CNAME .
 a8cv.taiko-direct.jp CNAME .
 a8cv.taisyokudaiko.jp CNAME .
 a8cv.tamago-repeat.com CNAME .
@@ -1315,6 +1315,7 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
+a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.withcode.tech CNAME .
@@ -1398,7 +1399,6 @@ a8tag.emprorm.com CNAME .
 a8tag.suplinx.com CNAME .
 a8tatoo.ike-sunshine.co.jp CNAME .
 a8tra.altana-design.com CNAME .
-a8track.aidmybank.com CNAME .
 a8track.bizdigi.jp CNAME .
 a8track.boost-station.jp CNAME .
 a8track.spartabuddy.jp CNAME .
@@ -1457,6 +1457,7 @@ ads.dandelionchocolate.jp CNAME .
 af.gmobile.biz CNAME .
 af.total-marriage.com CNAME .
 afcv.champ-shop.com CNAME .
+aff.carefromtoday.com CNAME .
 affa8.hikkoshi-master.com CNAME .
 afficv.lettuce.co.jp CNAME .
 affiliate.couleur-labo.com CNAME .

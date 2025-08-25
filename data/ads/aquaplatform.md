@@ -380,6 +380,7 @@
 | www.console.pinktriangle.ca | ptp-console.aquaplatform.com |
 | ads.xtra.ca | ptp-delivery.aquaplatform.com |
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
+| www.servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
 | cdn.pinktriangle.ca | ptp-static.aquaplatform.com |
 | adstatic.kozoom.com | reservoir.aquaplatform.com |
 | media.revive-adserver.com | reservoir.aquaplatform.com |
@@ -397,6 +398,7 @@
 | adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | servedby.cricketworld.com | revivehosted-delivery.aquaplatform.com |
 | servedby.revive-adserver.net | revivehosted-delivery.aquaplatform.com |
+| servedby.thinkresult.in | revivehosted-delivery.aquaplatform.com |
 | www.adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | adimages.eva.live | revivehosted-static.aquaplatform.com |
 | adimages.sniffies.com | revivehosted-static.aquaplatform.com |

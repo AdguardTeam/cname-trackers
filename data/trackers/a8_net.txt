@@ -310,6 +310,7 @@
 ||a8.tecgate.jp^
 ||a8.tech-base.net^
 ||a8.techis.jp^
+||a8.techsales-class.worx.jp^
 ||a8.tecpartners.jp^
 ||a8.teddyworks.co.jp^
 ||a8.tential.jp^
@@ -575,6 +576,7 @@
 ||a8clk.meister-coating.com^
 ||a8clk.mens-mr.jp^
 ||a8clk.mens-rinx.jp^
+||a8clk.menter.jp^
 ||a8clk.merry.duskin-hozumi.co.jp^
 ||a8clk.miidas.jp^
 ||a8clk.minnadeooyasan.com^
@@ -1082,7 +1084,6 @@
 ||a8cv.mai.dk-lab.jp^
 ||a8cv.mamarket.co.jp^
 ||a8cv.mansiontech.com^
-||a8cv.marumochiya.net^
 ||a8cv.mashumaro-bra.com^
 ||a8cv.mbb-inc.com^
 ||a8cv.mcc-lazer-hr.com^
@@ -1265,7 +1266,6 @@
 ||a8cv.suzette-shop.jp^
 ||a8cv.t-bang.jp^
 ||a8cv.t-gaia.co.jp^
-||a8cv.taclinic.jp^
 ||a8cv.taiko-direct.jp^
 ||a8cv.taisyokudaiko.jp^
 ||a8cv.tamago-repeat.com^
@@ -1304,6 +1304,7 @@
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.wellcrew.net^
+||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.withcode.tech^
@@ -1387,7 +1388,6 @@
 ||a8tag.suplinx.com^
 ||a8tatoo.ike-sunshine.co.jp^
 ||a8tra.altana-design.com^
-||a8track.aidmybank.com^
 ||a8track.bizdigi.jp^
 ||a8track.boost-station.jp^
 ||a8track.spartabuddy.jp^
@@ -1446,6 +1446,7 @@
 ||af.gmobile.biz^
 ||af.total-marriage.com^
 ||afcv.champ-shop.com^
+||aff.carefromtoday.com^
 ||affa8.hikkoshi-master.com^
 ||afficv.lettuce.co.jp^
 ||affiliate.couleur-labo.com^

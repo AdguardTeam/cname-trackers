@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -151,7 +151,6 @@ pla.wigglepixel.nl CNAME .
 plan.devbyexample.com CNAME .
 plans.fundtherebuild.com CNAME .
 plas.imfeld.dev CNAME .
-plau.artemsyzonenko.com CNAME .
 plau.caisy.io CNAME .
 plau.devitjobs.us CNAME .
 plauplauplau.app.budg.co CNAME .
@@ -373,7 +372,6 @@ stats.byterocket.dev CNAME .
 stats.carrot2.org CNAME .
 stats.carrotsearch.com CNAME .
 stats.cassidyjames.com CNAME .
-stats.castingdepot.com CNAME .
 stats.catholicluv.com CNAME .
 stats.centralswindonnorth-pc.gov.uk CNAME .
 stats.cfcasts.com CNAME .
@@ -653,7 +651,6 @@ stats.osteo-kessler.de CNAME .
 stats.otsohavanto.net CNAME .
 stats.ownpath.xyz CNAME .
 stats.owre.se CNAME .
-stats.p42.ai CNAME .
 stats.paramountperformance.net CNAME .
 stats.parqet.com CNAME .
 stats.parrot.dev CNAME .

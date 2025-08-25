@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
+bat25.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.arcjav.com CNAME .
@@ -98,6 +99,7 @@ k10.usefto.com CNAME .
 k8.usefto.com CNAME .
 m.brandnewapp.pro CNAME .
 mail.7porn.ru CNAME .
+n.porno-all.top CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
@@ -126,6 +128,5 @@ www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
 www.telford.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
-xn--www-hn0a.rtnews.pro CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

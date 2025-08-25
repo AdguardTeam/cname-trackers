@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -132,6 +132,7 @@ data-102d2d1a41.tu-clausthal.de CNAME .
 data-1059b0a270.apps.iocnt.de CNAME .
 data-10ac9f794d.apps.iocnt.de CNAME .
 data-10e222a818.ligaportal.at CNAME .
+data-10e3ac0592.apps.iocnt.de CNAME .
 data-11c63b1cbc.abschied-nehmen.de CNAME .
 data-11c63b1cbc.azubis.de CNAME .
 data-11c63b1cbc.fcmlive.de CNAME .
@@ -513,7 +514,6 @@ data-421b67c653.ka-news.de CNAME .
 data-421b67c653.karriereregion.de CNAME .
 data-4248af8297.futurezone.at CNAME .
 data-433d34b411.babyclub.de CNAME .
-data-434ba718f3.gofeminin.de CNAME .
 data-44384eebca.allgaeuer-zeitung.de CNAME .
 data-443a5e05f5.muehlacker-tagblatt.de CNAME .
 data-4494a61d21.chefkoch.de CNAME .
@@ -524,7 +524,6 @@ data-44a005f23c.bergfex.com CNAME .
 data-44a005f23c.bergfex.cz CNAME .
 data-44a005f23c.bergfex.de CNAME .
 data-44a005f23c.bergfex.es CNAME .
-data-44a005f23c.bergfex.fr CNAME .
 data-44a005f23c.bergfex.it CNAME .
 data-44a005f23c.bergfex.pl CNAME .
 data-44a005f23c.bergfex.si CNAME .
@@ -696,6 +695,7 @@ data-4f77096dc0.radio-brocken.de CNAME .
 data-4f99163f5e.bludenz.com CNAME .
 data-4fa18eb5e3.zvw.de CNAME .
 data-4fec147c37.agrarheute.com CNAME .
+data-501446ac98.einfachtierisch.de CNAME .
 data-501446ac98.stayfriends.de CNAME .
 data-501446ac98.t-online.de CNAME .
 data-504bba0c00.tlc.de CNAME .
@@ -788,7 +788,6 @@ data-5d2679d281.skysportaustria.at CNAME .
 data-5d4a957104.focus-arztsuche.de CNAME .
 data-5d848783f7.spiegel.de CNAME .
 data-5d9e07c784.stadt-und-werk.de CNAME .
-data-5dd8125a5b.gofeminin.de CNAME .
 data-5e25716aa5.apps.iocnt.de CNAME .
 data-5e5ac4ec65.menshealth-personaltrainer.com CNAME .
 data-5e5ac4ec65.menshealth.de CNAME .
@@ -1112,6 +1111,7 @@ data-84a0f3455d.transfermarkt.co.uk CNAME .
 data-84a0f3455d.transfermarkt.co.za CNAME .
 data-84a0f3455d.transfermarkt.com.ar CNAME .
 data-84a0f3455d.transfermarkt.com.br CNAME .
+data-84a0f3455d.transfermarkt.com.tr CNAME .
 data-84a0f3455d.transfermarkt.de CNAME .
 data-84a0f3455d.transfermarkt.es CNAME .
 data-84a0f3455d.transfermarkt.fr CNAME .
@@ -1240,7 +1240,6 @@ data-948e8266cd.zuhausewohnen.de CNAME .
 data-94a50e073d.leistungslust.de CNAME .
 data-94d154970c.boersenblatt.net CNAME .
 data-94db24a6dd.motorrad-magazin.at CNAME .
-data-94ef178492.comunio.de CNAME .
 data-951da6b717.detail.de CNAME .
 data-9599593609.biotech-europe.de CNAME .
 data-9599593609.laborjournal.com CNAME .
@@ -1307,6 +1306,7 @@ data-9d5ca866eb.baunetz-campus.de CNAME .
 data-9d5ca866eb.baunetz-id.de CNAME .
 data-9d5ca866eb.baunetz.de CNAME .
 data-9d5ca866eb.baunetzwissen.de CNAME .
+data-9dc3fcd9b4.bunte.de CNAME .
 data-9dc3fcd9b4.chip.de CNAME .
 data-9dc3fcd9b4.fitforfun.de CNAME .
 data-9dc3fcd9b4.focus-gesundheit.de CNAME .
@@ -1486,6 +1486,7 @@ data-ae81bed93b.zig-stimme.de CNAME .
 data-ae8875c8b8.nordkurier.de CNAME .
 data-ae8b196712.hanser-fachverlag.de CNAME .
 data-ae99031d75.autoanzeigen.de CNAME .
+data-ae99031d75.fupa.net CNAME .
 data-ae99031d75.mittelbayerische-stellen.de CNAME .
 data-ae99031d75.mittelbayerische-trauer.de CNAME .
 data-ae99031d75.mittelbayerische.de CNAME .

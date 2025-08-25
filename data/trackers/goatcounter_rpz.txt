@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,7 @@ anal.sataniskwijt.be CNAME .
 analy.rusz.space CNAME .
 analytics.applycreatures.com CNAME .
 analytics.astuto.io CNAME .
+analytics.code.dccouncil.gov CNAME .
 analytics.code.dccouncil.us CNAME .
 analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
@@ -23,6 +24,7 @@ analytics.kubasta.net CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.law.lco-nsn.gov CNAME .
 analytics.law.mohican.com CNAME .
+analytics.law.sanipueblo.org CNAME .
 analytics.law.tmchippewa.com CNAME .
 analytics.law.umitribe.org CNAME .
 analytics.leespace.co CNAME .
@@ -85,7 +87,6 @@ stats.45rpm.ch CNAME .
 stats.abdo.wtf CNAME .
 stats.abdodaoud.com CNAME .
 stats.afirmacijas.lv CNAME .
-stats.akashi.systems CNAME .
 stats.alextecplayz.com CNAME .
 stats.apitman.com CNAME .
 stats.artero.dev CNAME .

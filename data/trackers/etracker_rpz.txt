@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,9 +41,11 @@ data.drhauschka.de CNAME .
 data.juhu.auto CNAME .
 data.moebel-style.de CNAME .
 data.runners-kitchen.com CNAME .
+data.soristudios.de CNAME .
 data.uk.kutchenhaus.com CNAME .
 defabc.black-label-coffee.de CNAME .
 dts.suchmeisterei.de CNAME .
+dzt.germany.travel CNAME .
 e.heimat.style CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
@@ -64,6 +66,22 @@ et.go-kmu.de CNAME .
 et.goal-based.investments CNAME .
 et.lavita.com CNAME .
 et.lioran.de CNAME .
+et.louis-moto.ch CNAME .
+et.louis-moto.co.uk CNAME .
+et.louis-moto.com CNAME .
+et.louis-moto.dk CNAME .
+et.louis-moto.fr CNAME .
+et.louis-moto.it CNAME .
+et.louis.at CNAME .
+et.louis.be CNAME .
+et.louis.cz CNAME .
+et.louis.de CNAME .
+et.louis.es CNAME .
+et.louis.eu CNAME .
+et.louis.ie CNAME .
+et.louis.nl CNAME .
+et.louis.pl CNAME .
+et.louis.se CNAME .
 et.majdic.at CNAME .
 et.ocean-pharma.de CNAME .
 et.pns24.de CNAME .
@@ -81,23 +99,6 @@ etrac.lodenwalker.com CNAME .
 etrac.tita.at CNAME .
 etracker.alex-gross.com CNAME .
 etracker.cjd.de CNAME .
-etracker.louis-moto.ch CNAME .
-etracker.louis-moto.co.uk CNAME .
-etracker.louis-moto.com CNAME .
-etracker.louis-moto.dk CNAME .
-etracker.louis-moto.fr CNAME .
-etracker.louis-moto.it CNAME .
-etracker.louis.at CNAME .
-etracker.louis.be CNAME .
-etracker.louis.biz CNAME .
-etracker.louis.cz CNAME .
-etracker.louis.de CNAME .
-etracker.louis.es CNAME .
-etracker.louis.eu CNAME .
-etracker.louis.ie CNAME .
-etracker.louis.nl CNAME .
-etracker.louis.pl CNAME .
-etracker.louis.se CNAME .
 etracker.lukas-becker.eu CNAME .
 etracker.novicon.net CNAME .
 etracker.riess-gruppe.de CNAME .
@@ -140,6 +141,7 @@ stat.beetfreunde.de CNAME .
 statistics.bergland.de CNAME .
 statistics.finkhof.de CNAME .
 statistics.fruchtbarewelt.de CNAME .
+statistics.hagnauer.org CNAME .
 stats.die-bibel.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.hilscher.com CNAME .

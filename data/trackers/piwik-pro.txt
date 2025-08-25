@@ -8,6 +8,7 @@
 ||analytics.dx.ohio.gov^
 ||analytics.effectory.com^
 ||analytics.ferrero.com^
+||analytics.hr.nl^
 ||analytics.ravelz.com^
 ||analytics.wavelz.com^
 ||analytics.webanalytics.op.europa.eu^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ t.instrck.com CNAME .
 t.javhd-trk.com CNAME .
 t.jetrck.com CNAME .
 t.loantrck.com CNAME .
+t.maxtrck.shop CNAME .
 t.nextrck.website CNAME .
 t.quicktrck.space CNAME .
 t.securetrck.uno CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -261,6 +261,7 @@ cmprofile.cards.citidirect.com CNAME .
 cnt.faktoria.pl CNAME .
 cnt.goboo.com CNAME .
 cnt.patpat.com CNAME .
+cnt.redotpay.net CNAME .
 compliance.mohegansuncasino.com CNAME .
 condition.applause.com CNAME .
 connect-cert-card.moneynetwork.com CNAME .

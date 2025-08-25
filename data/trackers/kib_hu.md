@@ -61,6 +61,7 @@
 | adat.teol.hu | kib.hu |
 | adat.tion.ro | kib.hu |
 | adat.travelo.hu | kib.hu |
+| adat.ujneplap.hu | kib.hu |
 | adat.vaol.hu | kib.hu |
 | adat.veol.hu | kib.hu |
 | adat.vg.hu | kib.hu |

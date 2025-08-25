@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ analytics.arz.at CNAME .
 analytics.dx.ohio.gov CNAME .
 analytics.effectory.com CNAME .
 analytics.ferrero.com CNAME .
+analytics.hr.nl CNAME .
 analytics.ravelz.com CNAME .
 analytics.wavelz.com CNAME .
 analytics.webanalytics.op.europa.eu CNAME .

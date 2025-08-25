@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -85,7 +85,6 @@ agility.tcm.com CNAME .
 agility.tntdrama.com CNAME .
 agility.trutv.com CNAME .
 agility.veryfunnyspots.com CNAME .
-amex.activate.ensighten.com CNAME .
 analytics.amica.com CNAME .
 analytics.athome.com CNAME .
 analytics.carecredit.com CNAME .
@@ -149,7 +148,6 @@ cmp.seat.be CNAME .
 cmp.skoda.be CNAME .
 cmp.vdfin.be CNAME .
 cmp.volkswagen.be CNAME .
-co-operative.activate.ensighten.com CNAME .
 cookieconsent.kornferry.com CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
@@ -198,13 +196,11 @@ data.experianidentityservice.co.uk CNAME .
 data.lincoln.com CNAME .
 data.privacy.ensighten.com CNAME .
 dc.esterethyl.com CNAME .
-dc.gordonsjewelers.com CNAME .
 dc.jared.com CNAME .
 dc.kay.com CNAME .
 dc.kayoutlet.com CNAME .
 dc.pagoda.com CNAME .
 dc.peoplesjewellers.com CNAME .
-dc.sterlingjewelers.com CNAME .
 dc.stokke.com CNAME .
 dc.volkswagen.com CNAME .
 dc.volkswagen.com.ar CNAME .
@@ -254,7 +250,6 @@ ensighten.postoffice.co.uk CNAME .
 ensighten.safeauto.com CNAME .
 ensighten.staging2.cedar.digital CNAME .
 ensightenone.danskespil.dk CNAME .
-ep.americanexpress.com CNAME .
 fcone.demo-charitablegift.com CNAME .
 fcone.fidelity.com CNAME .
 fcone.fidelitycharitable.org CNAME .
@@ -291,6 +286,7 @@ p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
+privacy-digital.diip.co.uk CNAME .
 privacy-digital.infracapital.co.uk CNAME .
 privacy-digital.mandg.com CNAME .
 privacy-digital.pru.co.uk CNAME .
@@ -329,7 +325,6 @@ privacyconsentmgmt.storable.com CNAME .
 privacymps.merchantprocessorsolutions.com CNAME .
 prv.heineken.com CNAME .
 pulse.delta.com CNAME .
-pulse.funeralaccount.com CNAME .
 pulse.quaero.com CNAME .
 pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .
@@ -392,7 +387,6 @@ tea2.tescobank.com CNAME .
 test3-dc.jared.com CNAME .
 test3-dc.kay.com CNAME .
 test3-dc.kayoutlet.com CNAME .
-test3-dc.sterlingjewelers.com CNAME .
 tm.hdmtools.com CNAME .
 tms-test.nab.com.au CNAME .
 tms.betway.com CNAME .
@@ -416,10 +410,9 @@ tms.suzukibusinesscloud-qa.com CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
 tracking-sst.clicksafety.com CNAME .
-uat1-dc.gordonsjewelers.com CNAME .
 uat1-dc.pagoda.com CNAME .
 uat1-dc.peoplesjewellers.com CNAME .
 uat1-dc.zales.com CNAME .
 uat1-dc.zalesoutlet.com CNAME .
-virginaustralia.activate.ensighten.com CNAME .
+www.privacy.merchantprocessorsolutions.com CNAME .
 www.themorningcallmediagroup.com CNAME .

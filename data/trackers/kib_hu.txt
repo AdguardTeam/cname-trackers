@@ -52,6 +52,7 @@
 ||adat.teol.hu^
 ||adat.tion.ro^
 ||adat.travelo.hu^
+||adat.ujneplap.hu^
 ||adat.vaol.hu^
 ||adat.veol.hu^
 ||adat.vg.hu^

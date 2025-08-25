@@ -121,6 +121,7 @@ data-102d2d1a41.tu-clausthal.de
 data-1059b0a270.apps.iocnt.de
 data-10ac9f794d.apps.iocnt.de
 data-10e222a818.ligaportal.at
+data-10e3ac0592.apps.iocnt.de
 data-11c63b1cbc.abschied-nehmen.de
 data-11c63b1cbc.azubis.de
 data-11c63b1cbc.fcmlive.de
@@ -502,7 +503,6 @@ data-421b67c653.ka-news.de
 data-421b67c653.karriereregion.de
 data-4248af8297.futurezone.at
 data-433d34b411.babyclub.de
-data-434ba718f3.gofeminin.de
 data-44384eebca.allgaeuer-zeitung.de
 data-443a5e05f5.muehlacker-tagblatt.de
 data-4494a61d21.chefkoch.de
@@ -513,7 +513,6 @@ data-44a005f23c.bergfex.com
 data-44a005f23c.bergfex.cz
 data-44a005f23c.bergfex.de
 data-44a005f23c.bergfex.es
-data-44a005f23c.bergfex.fr
 data-44a005f23c.bergfex.it
 data-44a005f23c.bergfex.pl
 data-44a005f23c.bergfex.si
@@ -685,6 +684,7 @@ data-4f77096dc0.radio-brocken.de
 data-4f99163f5e.bludenz.com
 data-4fa18eb5e3.zvw.de
 data-4fec147c37.agrarheute.com
+data-501446ac98.einfachtierisch.de
 data-501446ac98.stayfriends.de
 data-501446ac98.t-online.de
 data-504bba0c00.tlc.de
@@ -777,7 +777,6 @@ data-5d2679d281.skysportaustria.at
 data-5d4a957104.focus-arztsuche.de
 data-5d848783f7.spiegel.de
 data-5d9e07c784.stadt-und-werk.de
-data-5dd8125a5b.gofeminin.de
 data-5e25716aa5.apps.iocnt.de
 data-5e5ac4ec65.menshealth-personaltrainer.com
 data-5e5ac4ec65.menshealth.de
@@ -1101,6 +1100,7 @@ data-84a0f3455d.transfermarkt.co.uk
 data-84a0f3455d.transfermarkt.co.za
 data-84a0f3455d.transfermarkt.com.ar
 data-84a0f3455d.transfermarkt.com.br
+data-84a0f3455d.transfermarkt.com.tr
 data-84a0f3455d.transfermarkt.de
 data-84a0f3455d.transfermarkt.es
 data-84a0f3455d.transfermarkt.fr
@@ -1229,7 +1229,6 @@ data-948e8266cd.zuhausewohnen.de
 data-94a50e073d.leistungslust.de
 data-94d154970c.boersenblatt.net
 data-94db24a6dd.motorrad-magazin.at
-data-94ef178492.comunio.de
 data-951da6b717.detail.de
 data-9599593609.biotech-europe.de
 data-9599593609.laborjournal.com
@@ -1296,6 +1295,7 @@ data-9d5ca866eb.baunetz-campus.de
 data-9d5ca866eb.baunetz-id.de
 data-9d5ca866eb.baunetz.de
 data-9d5ca866eb.baunetzwissen.de
+data-9dc3fcd9b4.bunte.de
 data-9dc3fcd9b4.chip.de
 data-9dc3fcd9b4.fitforfun.de
 data-9dc3fcd9b4.focus-gesundheit.de
@@ -1475,6 +1475,7 @@ data-ae81bed93b.zig-stimme.de
 data-ae8875c8b8.nordkurier.de
 data-ae8b196712.hanser-fachverlag.de
 data-ae99031d75.autoanzeigen.de
+data-ae99031d75.fupa.net
 data-ae99031d75.mittelbayerische-stellen.de
 data-ae99031d75.mittelbayerische-trauer.de
 data-ae99031d75.mittelbayerische.de

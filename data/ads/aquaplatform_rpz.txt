@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -202,6 +202,7 @@ servedby.rlnads.net CNAME .
 servedby.sacommunications.com CNAME .
 servedby.schrotundkorn.de CNAME .
 servedby.tahoe.com CNAME .
+servedby.thinkresult.in CNAME .
 servedby.trackandfieldnews.com CNAME .
 servedby.walaplusadserver.com CNAME .
 servedby.xtraa.org CNAME .
@@ -292,6 +293,7 @@ www.servedby.cincinnatimagazine.com CNAME .
 www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
 www.servedby.miningweekly.com CNAME .
+www.servedby.pinktriangle.ca CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.sacommunications.com CNAME .
 www.servedby.schrotundkorn.de CNAME .

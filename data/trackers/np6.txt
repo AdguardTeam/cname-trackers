@@ -199,6 +199,7 @@
 ||tr.cclx.espmp-agfr.net^
 ||tr.cdiscount.3wregie.com^
 ||tr.ceeregion.moethennessy.com^
+||tr.cgpme.medef-gironde.fr^
 ||tr.christmas.petit-bateau.com^
 ||tr.chronodrive.com^
 ||tr.ciblexo.fr^
@@ -1004,7 +1005,6 @@
 ||tr.part.offres-cartegie.fr^
 ||tr.partenaire.groupe-vyv.fr^
 ||tr.partenaire.manageo.info^
-||tr.particuliers8.engie.com^
 ||tr.partners.younited-credit.it^
 ||tr.payment.lvmh.com^
 ||tr.paysanbreton.com^
@@ -1243,7 +1243,7 @@
 ||f1.np6.com^
 ||infojeux.paris.fr^
 ||lbv5.mperf.com^
+||www.bfc-mp.caisse-epargne.fr^
 ||s.gemy.fr^
 ||www.lgch.mp^
 ||tr.communication.jardindacclimatation.fr^
-||www.bfc-mp.caisse-epargne.fr^

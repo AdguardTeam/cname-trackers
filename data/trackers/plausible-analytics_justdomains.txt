@@ -140,7 +140,6 @@ pla.wigglepixel.nl
 plan.devbyexample.com
 plans.fundtherebuild.com
 plas.imfeld.dev
-plau.artemsyzonenko.com
 plau.caisy.io
 plau.devitjobs.us
 plauplauplau.app.budg.co
@@ -362,7 +361,6 @@ stats.byterocket.dev
 stats.carrot2.org
 stats.carrotsearch.com
 stats.cassidyjames.com
-stats.castingdepot.com
 stats.catholicluv.com
 stats.centralswindonnorth-pc.gov.uk
 stats.cfcasts.com
@@ -642,7 +640,6 @@ stats.osteo-kessler.de
 stats.otsohavanto.net
 stats.ownpath.xyz
 stats.owre.se
-stats.p42.ai
 stats.paramountperformance.net
 stats.parqet.com
 stats.parrot.dev

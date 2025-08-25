@@ -29,6 +29,7 @@
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
 | asg.redfans.org | api.clickaine.com |
+| bat25.gimmeporn.xyz | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
 | c4n.arcjav.com | api.clickaine.com |
@@ -95,6 +96,7 @@
 | k8.usefto.com | api.clickaine.com |
 | m.brandnewapp.pro | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
+| n.porno-all.top | api.clickaine.com |
 | net.fuckxstream.com | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
 | orange.arabtoons.net | api.clickaine.com |
@@ -123,6 +125,5 @@
 | www.station54k.brandnewapp.pro | api.clickaine.com |
 | www.telford.brandnewapp.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
-| xn--www-hn0a.rtnews.pro | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

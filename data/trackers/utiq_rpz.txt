@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ mgntat.mno.link CNAME .
 o2de.mno.link CNAME .
 orangefr-test.mno.link CNAME .
 orangefr.mno.link CNAME .
+ores-fixed.mno.link CNAME .
 service.utiq.com CNAME .
 sfr.mno.link CNAME .
 timit.mno.link CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -210,6 +210,7 @@ tr.cb4x.floa.fr CNAME .
 tr.cclx.espmp-agfr.net CNAME .
 tr.cdiscount.3wregie.com CNAME .
 tr.ceeregion.moethennessy.com CNAME .
+tr.cgpme.medef-gironde.fr CNAME .
 tr.christmas.petit-bateau.com CNAME .
 tr.chronodrive.com CNAME .
 tr.ciblexo.fr CNAME .
@@ -1015,7 +1016,6 @@ tr.panels-mediametrie.fr CNAME .
 tr.part.offres-cartegie.fr CNAME .
 tr.partenaire.groupe-vyv.fr CNAME .
 tr.partenaire.manageo.info CNAME .
-tr.particuliers8.engie.com CNAME .
 tr.partners.younited-credit.it CNAME .
 tr.payment.lvmh.com CNAME .
 tr.paysanbreton.com CNAME .
@@ -1254,7 +1254,7 @@ f1.mperf.com CNAME .
 f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
+www.bfc-mp.caisse-epargne.fr CNAME .
 s.gemy.fr CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
-www.bfc-mp.caisse-epargne.fr CNAME .

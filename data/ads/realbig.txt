@@ -8,8 +8,6 @@
 ||a.yandd.site^
 ||ad.choicy.org^
 ||ads.wattpadru.ru^
-||adsrealpublic.ru^
-||adsrealpublicpush.ru^
 ||any.realbig.media^
 ||autorekrb.bid^
 ||b1.rbighouse.ru^
@@ -64,7 +62,6 @@
 ||rbfour.bid^
 ||rbig.pcyk.ru^
 ||rbone.link^
-||rbrotator.ru^
 ||rbthre.work^
 ||rdv.naruto-base.tv^
 ||real.dvanadva.ru^
@@ -90,7 +87,9 @@
 ||www.infocentro.ru^
 ||www.mojwprb.ru^
 ||www.newrrb.bid^
+||www.orbitnotify.com^
 ||www.pc-download.ru^
+||www.prbcdn.online^
 ||www.pushrb.pro^
 ||www.qatro.ru^
 ||www.raelb2.ru^

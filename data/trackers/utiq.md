@@ -18,6 +18,7 @@
 | mgntat.mno.link | frontend.prod.utiq-aws.net |
 | o2de.mno.link | frontend.prod.utiq-aws.net |
 | orangefr.mno.link | frontend.prod.utiq-aws.net |
+| ores-fixed.mno.link | frontend.prod.utiq-aws.net |
 | service.utiq.com | frontend.prod.utiq-aws.net |
 | sfr.mno.link | frontend.prod.utiq-aws.net |
 | timit.mno.link | frontend.prod.utiq-aws.net |

@@ -177,7 +177,6 @@
 ||affiliate.jewstone.cz^
 ||affiliate.jidlojevasen.cz^
 ||affiliate.jiristibor.cz^
-||affiliate.ketofit.sk^
 ||affiliate.krmivopropsy.cz^
 ||affiliate.kurzy-liecenia.sk^
 ||affiliate.ladylab.cz^
@@ -266,7 +265,6 @@
 ||affiliate.vasesosovky.sk^
 ||affiliate.velebny.cz^
 ||affiliate.vox.cz^
-||affiliate.webium.cz^
 ||affiliate.wugi.cz^
 ||affiliate.xbx.cz^
 ||affiliate.zdraviafitness.cz^
@@ -887,7 +885,6 @@
 ||partneri.salente.cz^
 ||partneri.serafinbyliny.cz^
 ||partneri.silaprozivot.com^
-||partneri.smartemailing.cz^
 ||partneri.smyslovy-pruzkumnik.cz^
 ||partneri.somsamasebou.sk^
 ||partneri.sportfotbal.cz^

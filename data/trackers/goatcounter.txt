@@ -5,6 +5,7 @@
 ||analy.rusz.space^
 ||analytics.applycreatures.com^
 ||analytics.astuto.io^
+||analytics.code.dccouncil.gov^
 ||analytics.code.dccouncil.us^
 ||analytics.codes.baltimorecity.gov^
 ||analytics.demo.plateau.ng.open.law^
@@ -12,6 +13,7 @@
 ||analytics.law.cityofsanmateo.org^
 ||analytics.law.lco-nsn.gov^
 ||analytics.law.mohican.com^
+||analytics.law.sanipueblo.org^
 ||analytics.law.tmchippewa.com^
 ||analytics.law.umitribe.org^
 ||analytics.leespace.co^
@@ -74,7 +76,6 @@
 ||stats.abdo.wtf^
 ||stats.abdodaoud.com^
 ||stats.afirmacijas.lv^
-||stats.akashi.systems^
 ||stats.alextecplayz.com^
 ||stats.apitman.com^
 ||stats.artero.dev^

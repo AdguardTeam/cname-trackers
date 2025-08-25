@@ -324,6 +324,7 @@
 | a8.tecgate.jp | trck.a8.net |
 | a8.tech-base.net | trck.a8.net |
 | a8.techis.jp | trck.a8.net |
+| a8.techsales-class.worx.jp | trck.a8.net |
 | a8.tecpartners.jp | trck.a8.net |
 | a8.teddyworks.co.jp | trck.a8.net |
 | a8.tential.jp | trck.a8.net |
@@ -589,6 +590,7 @@
 | a8clk.meister-coating.com | trck.a8.net |
 | a8clk.mens-mr.jp | trck.a8.net |
 | a8clk.mens-rinx.jp | trck.a8.net |
+| a8clk.menter.jp | trck.a8.net |
 | a8clk.merry.duskin-hozumi.co.jp | trck.a8.net |
 | a8clk.miidas.jp | trck.a8.net |
 | a8clk.minnadeooyasan.com | trck.a8.net |
@@ -1095,7 +1097,6 @@
 | a8cv.mai.dk-lab.jp | trck.a8.net |
 | a8cv.mamarket.co.jp | trck.a8.net |
 | a8cv.mansiontech.com | trck.a8.net |
-| a8cv.marumochiya.net | trck.a8.net |
 | a8cv.mashumaro-bra.com | trck.a8.net |
 | a8cv.mbb-inc.com | trck.a8.net |
 | a8cv.mcc-lazer-hr.com | trck.a8.net |
@@ -1278,7 +1279,6 @@
 | a8cv.suzette-shop.jp | trck.a8.net |
 | a8cv.t-bang.jp | trck.a8.net |
 | a8cv.t-gaia.co.jp | trck.a8.net |
-| a8cv.taclinic.jp | trck.a8.net |
 | a8cv.taiko-direct.jp | trck.a8.net |
 | a8cv.taisyokudaiko.jp | trck.a8.net |
 | a8cv.tamago-repeat.com | trck.a8.net |
@@ -1317,6 +1317,7 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
+| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.withcode.tech | trck.a8.net |
@@ -1400,7 +1401,6 @@
 | a8tag.suplinx.com | trck.a8.net |
 | a8tatoo.ike-sunshine.co.jp | trck.a8.net |
 | a8tra.altana-design.com | trck.a8.net |
-| a8track.aidmybank.com | trck.a8.net |
 | a8track.bizdigi.jp | trck.a8.net |
 | a8track.boost-station.jp | trck.a8.net |
 | a8track.spartabuddy.jp | trck.a8.net |
@@ -1459,6 +1459,7 @@
 | af.gmobile.biz | trck.a8.net |
 | af.total-marriage.com | trck.a8.net |
 | afcv.champ-shop.com | trck.a8.net |
+| aff.carefromtoday.com | trck.a8.net |
 | affa8.hikkoshi-master.com | trck.a8.net |
 | afficv.lettuce.co.jp | trck.a8.net |
 | affiliate.couleur-labo.com | trck.a8.net |

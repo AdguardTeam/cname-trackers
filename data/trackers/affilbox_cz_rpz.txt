@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -188,7 +188,6 @@ affiliate.ispace.cz CNAME .
 affiliate.jewstone.cz CNAME .
 affiliate.jidlojevasen.cz CNAME .
 affiliate.jiristibor.cz CNAME .
-affiliate.ketofit.sk CNAME .
 affiliate.krmivopropsy.cz CNAME .
 affiliate.kurzy-liecenia.sk CNAME .
 affiliate.ladylab.cz CNAME .
@@ -277,7 +276,6 @@ affiliate.vasecocky.cz CNAME .
 affiliate.vasesosovky.sk CNAME .
 affiliate.velebny.cz CNAME .
 affiliate.vox.cz CNAME .
-affiliate.webium.cz CNAME .
 affiliate.wugi.cz CNAME .
 affiliate.xbx.cz CNAME .
 affiliate.zdraviafitness.cz CNAME .
@@ -898,7 +896,6 @@ partneri.rondainvest.cz CNAME .
 partneri.salente.cz CNAME .
 partneri.serafinbyliny.cz CNAME .
 partneri.silaprozivot.com CNAME .
-partneri.smartemailing.cz CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .
 partneri.somsamasebou.sk CNAME .
 partneri.sportfotbal.cz CNAME .

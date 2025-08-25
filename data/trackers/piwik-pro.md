@@ -12,10 +12,10 @@
     * dealerspike-prod.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
-    * effectory.piwik.pro
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
     * helen.piwik.pro
+    * hogeschool.piwik.pro
     * ind.piwik.pro
     * jetu.piwik.pro
     * manz.piwik.pro
@@ -40,6 +40,7 @@
     * tigital.piwik.pro
     * triodos.piwik.pro
     * tweedekamer.piwik.pro
+    * twyzle-prod.piwik.pro
     * uninstalled.piwik.pro
     * uwhealth.piwik.pro
     * uwv.piwik.pro
@@ -63,10 +64,10 @@
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
-| analytics.effectory.com | effectory.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
+| analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
 | wa.mybookie.ag | jetu.piwik.pro |
 | wa.xbet.ag | jetu.piwik.pro |
@@ -85,7 +86,7 @@
 | a.relayto.com | pp-public-p-euw.piwik.pro |
 | analytics.akvo.org | pp-public-p-euw.piwik.pro |
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
-| analytics.effectory.com | pp-public-p-euw.piwik.pro |
+| analytics.hr.nl | pp-public-p-euw.piwik.pro |
 | analytics.webanalytics.op.europa.eu | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
@@ -104,7 +105,6 @@
 | polpharmaanalytics.pl | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
-| pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
 | pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
@@ -129,6 +129,7 @@
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tagadmin.aumago.com | pp-public-p-gwc.piwik.pro |
 | wa.mybookie.ag | pp-public-p-gwc.piwik.pro |
+| wa.mybookie.ag | pp-public-p-gwc.piwik.pro |
 | wa.xbet.ag | pp-public-p-gwc.piwik.pro |
 | a.uwhealth.org | pp-public-p-use.piwik.pro |
 | a.uwhealth.org | pp-public-p-use.piwik.pro |
@@ -152,6 +153,7 @@
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
 | pwk.tweedekamer.nl | tweedekamer.piwik.pro |
+| piwik.twyzle.com | twyzle-prod.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1755504012339        ; Serial
+           1756108809367        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,8 +19,6 @@ a.ridd.ru CNAME .
 a.yandd.site CNAME .
 ad.choicy.org CNAME .
 ads.wattpadru.ru CNAME .
-adsrealpublic.ru CNAME .
-adsrealpublicpush.ru CNAME .
 any.realbig.media CNAME .
 autorekrb.bid CNAME .
 b1.rbighouse.ru CNAME .
@@ -75,7 +73,6 @@ rbfive.bid CNAME .
 rbfour.bid CNAME .
 rbig.pcyk.ru CNAME .
 rbone.link CNAME .
-rbrotator.ru CNAME .
 rbthre.work CNAME .
 rdv.naruto-base.tv CNAME .
 real.dvanadva.ru CNAME .
@@ -101,7 +98,9 @@ www.horpush.ru CNAME .
 www.infocentro.ru CNAME .
 www.mojwprb.ru CNAME .
 www.newrrb.bid CNAME .
+www.orbitnotify.com CNAME .
 www.pc-download.ru CNAME .
+www.prbcdn.online CNAME .
 www.pushrb.pro CNAME .
 www.qatro.ru CNAME .
 www.raelb2.ru CNAME .

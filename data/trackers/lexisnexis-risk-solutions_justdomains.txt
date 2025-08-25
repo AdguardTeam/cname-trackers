@@ -250,6 +250,7 @@ cmprofile.cards.citidirect.com
 cnt.faktoria.pl
 cnt.goboo.com
 cnt.patpat.com
+cnt.redotpay.net
 compliance.mohegansuncasino.com
 condition.applause.com
 connect-cert-card.moneynetwork.com

@@ -12,6 +12,7 @@
 ||o2de.mno.link^
 ||orangefr-test.mno.link^
 ||orangefr.mno.link^
+||ores-fixed.mno.link^
 ||service.utiq.com^
 ||sfr.mno.link^
 ||timit.mno.link^

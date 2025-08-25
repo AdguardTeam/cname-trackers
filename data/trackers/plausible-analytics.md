@@ -152,7 +152,6 @@
 | plan.devbyexample.com | custom.plausible.io |
 | plans.fundtherebuild.com | custom.plausible.io |
 | plas.imfeld.dev | custom.plausible.io |
-| plau.artemsyzonenko.com | custom.plausible.io |
 | plau.caisy.io | custom.plausible.io |
 | plau.devitjobs.us | custom.plausible.io |
 | plauplauplau.app.budg.co | custom.plausible.io |
@@ -374,7 +373,6 @@
 | stats.carrot2.org | custom.plausible.io |
 | stats.carrotsearch.com | custom.plausible.io |
 | stats.cassidyjames.com | custom.plausible.io |
-| stats.castingdepot.com | custom.plausible.io |
 | stats.catholicluv.com | custom.plausible.io |
 | stats.centralswindonnorth-pc.gov.uk | custom.plausible.io |
 | stats.cfcasts.com | custom.plausible.io |
@@ -654,7 +652,6 @@
 | stats.otsohavanto.net | custom.plausible.io |
 | stats.ownpath.xyz | custom.plausible.io |
 | stats.owre.se | custom.plausible.io |
-| stats.p42.ai | custom.plausible.io |
 | stats.paramountperformance.net | custom.plausible.io |
 | stats.parqet.com | custom.plausible.io |
 | stats.parrot.dev | custom.plausible.io |

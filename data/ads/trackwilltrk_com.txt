@@ -18,6 +18,7 @@
 ||t.javhd-trk.com^
 ||t.jetrck.com^
 ||t.loantrck.com^
+||t.maxtrck.shop^
 ||t.nextrck.website^
 ||t.quicktrck.space^
 ||t.securetrck.uno^

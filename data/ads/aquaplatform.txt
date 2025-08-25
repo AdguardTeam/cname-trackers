@@ -191,6 +191,7 @@
 ||servedby.sacommunications.com^
 ||servedby.schrotundkorn.de^
 ||servedby.tahoe.com^
+||servedby.thinkresult.in^
 ||servedby.trackandfieldnews.com^
 ||servedby.walaplusadserver.com^
 ||servedby.xtraa.org^
@@ -281,6 +282,7 @@
 ||www.servedby.geminipub.com^
 ||www.servedby.greenspring.com^
 ||www.servedby.miningweekly.com^
+||www.servedby.pinktriangle.ca^
 ||www.servedby.quirks.com^
 ||www.servedby.sacommunications.com^
 ||www.servedby.schrotundkorn.de^
