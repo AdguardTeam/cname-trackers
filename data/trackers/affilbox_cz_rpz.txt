@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -224,7 +224,6 @@ affiliate.montessorikurz.cz CNAME .
 affiliate.nabytek-forliveshop.cz CNAME .
 affiliate.nakladatelstvi-riva.cz CNAME .
 affiliate.nalepime.cz CNAME .
-affiliate.nejfotopasti.cz CNAME .
 affiliate.nethost.cz CNAME .
 affiliate.nomind.cz CNAME .
 affiliate.novakabelka.cz CNAME .
@@ -510,6 +509,7 @@ partner.cukrarskaskola.cz CNAME .
 partner.cukrarskyklub.cz CNAME .
 partner.cukraszvilag.hu CNAME .
 partner.danfil.cz CNAME .
+partner.darabags.com CNAME .
 partner.darinapetrakova.cz CNAME .
 partner.dellinger.cz CNAME .
 partner.denato.cz CNAME .
@@ -652,7 +652,6 @@ partner.momcare.sk CNAME .
 partner.momenti.cz CNAME .
 partner.montessorihracky.cz CNAME .
 partner.mooda.cz CNAME .
-partner.mooselife.cz CNAME .
 partner.moravite.cz CNAME .
 partner.motoobchod.cz CNAME .
 partner.muffik.cz CNAME .
@@ -865,7 +864,6 @@ partneri.minshop.cz CNAME .
 partneri.minus-age.cz CNAME .
 partneri.mixano.cz CNAME .
 partneri.monikakorinkova.cz CNAME .
-partneri.motmot.cz CNAME .
 partneri.mrblast.eu CNAME .
 partneri.muzeslepe.cz CNAME .
 partneri.mydlatamara.sk CNAME .
@@ -894,6 +892,7 @@ partneri.robstark.cz CNAME .
 partneri.roklen.cz CNAME .
 partneri.rondainvest.cz CNAME .
 partneri.salente.cz CNAME .
+partneri.samudia.cz CNAME .
 partneri.serafinbyliny.cz CNAME .
 partneri.silaprozivot.com CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .
@@ -1000,6 +999,7 @@ www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .
 affiliate.kulturistika.com CNAME .
+affiliate.nejfotopasti.cz CNAME .
 login.affiliatesit.cz CNAME .
 partner.janapekna.cz CNAME .
 partner.topforteam.cz CNAME .

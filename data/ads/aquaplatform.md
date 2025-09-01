@@ -349,6 +349,7 @@
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
+| questico-ads.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.hlipublishing.com | platformiq-del.aquaplatform.com |
 | servedby.hollandhortimedia.nl | platformiq-del.aquaplatform.com |
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
@@ -443,4 +444,5 @@
 | revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
 | www.revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
 | treehouse.wwoz.org | wwoz-delivery.aquaplatform.com |
+| www.treehouse.wwoz.org | wwoz-delivery.aquaplatform.com |
 | static.wwoz.org | wwoz-static.aquaplatform.com |

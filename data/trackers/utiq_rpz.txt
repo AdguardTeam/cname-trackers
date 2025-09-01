@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -192,6 +192,7 @@ utiq.handelsblatt.com CNAME .
 utiq.hbrfrance.fr CNAME .
 utiq.heftig.de CNAME .
 utiq.heimatsport.de CNAME .
+utiq.helpster.de CNAME .
 utiq.hersfelder-zeitung.de CNAME .
 utiq.hna.de CNAME .
 utiq.hola.com CNAME .

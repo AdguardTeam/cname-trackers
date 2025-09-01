@@ -40,6 +40,7 @@
 ||e.medikamente-per-klick.de^
 ||e.preisapo.de^
 ||eck.brettspieleck.de^
+||ecm.agravis.de^
 ||em.mittwald.de^
 ||estat.edel-kraut.de^
 ||estats.globus.de^
@@ -78,8 +79,10 @@
 ||et.sectornord.de^
 ||et.university-of-labour.de^
 ||et.xenbyte.com^
+||etd.hormonspezialisten.de^
 ||etd.kramer-online.com^
 ||etd.wackerneusongroup.com^
+||etd.wechseljahre-verstehen.de^
 ||etd.weidemann.com^
 ||etdomain.dorothee-schumacher.com^
 ||etr.cosee.biz^
@@ -134,6 +137,7 @@
 ||stats.die-bibel.de^
 ||stats.folienmarkt.de^
 ||stats.hilscher.com^
+||stats.inselloft-norderney.de^
 ||stats.kaerntnerjobs.at^
 ||stats.krauss-gmbh.com^
 ||stats.mopo.de^
@@ -156,6 +160,7 @@
 ||tr.hundesportladen.de^
 ||tr.mey-wasserschaden.de^
 ||tr.zuhause-finder.com^
+||tr7593.pollin.de^
 ||track.bauwirtschaft-bw.de^
 ||track.brot-fuer-die-welt.de^
 ||track.dictum-gartenwerkzeug.de^
@@ -220,6 +225,7 @@
 ||webcontr.l.de^
 ||webcontr.leisure.one^
 ||webcontr.lhbl.de^
+||webcontr.lindy.com^
 ||webcontr.lindy.de^
 ||webcontr.lmz-bw.de^
 ||webcontr.lotto-hh.de^

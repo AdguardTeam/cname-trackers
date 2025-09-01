@@ -12,6 +12,7 @@ adprtm53.goldkarte.at
 adprtm53.kartegold.de
 adprtm53.xn--gebhrenfrei-vhb.de
 advertize.stcbank.com.sa
+aegis.miio.mx
 af.mobile.free.fr
 afm.alphatick.com
 afm.cnthevtmarkets.com
@@ -248,9 +249,9 @@ client.online.sandyspringbank.com
 clovergo.june-testing.firstdata.com
 cmprofile.cards.citidirect.com
 cnt.faktoria.pl
-cnt.goboo.com
 cnt.patpat.com
 cnt.redotpay.net
+common.1win.com
 compliance.mohegansuncasino.com
 condition.applause.com
 connect-cert-card.moneynetwork.com
@@ -486,7 +487,6 @@ cookiemonster.calcas.com
 creditapp.rogersbank.com
 creditcheck.digitecgalaxus.ch
 crmg-fraudmgmt.bayad.com
-csource.rentals.com
 css.slots.io
 csservice.aircanada.com
 cstm.gumtree.com
@@ -691,6 +691,7 @@ info.betway.mw
 info.betway.ng
 info.betwaypartnersafrica.com
 info.jackpotcity.co.za
+insights.hastingsdirectloans.com
 intl.payu.in
 intlsdpntrca.nitrocasino.ca
 intm.amwager.com
@@ -1048,6 +1049,7 @@ tag.icash.illinoistreasurer.gov
 tag.maineunclaimedproperty.gov
 tag.mycash.utah.gov
 tag.ucp.dor.wa.gov
+tag.unclaimed.nccash.gov
 tag.unclaimedfunds.nj.gov
 tag.unclaimedproperty.alaska.gov
 tag.unclaimedproperty.delaware.gov
@@ -1128,6 +1130,7 @@ tm.creditcheck.illion.com.au
 tm.creditprotect.illion.co.nz
 tm.creditprotect.illion.com.au
 tm.cybersource.com
+tm.defense.dbp.fiservapps.com
 tm.espnbet.com
 tm.fanduel.com
 tm.fidelity.asia

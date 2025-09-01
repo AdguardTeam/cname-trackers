@@ -16,7 +16,6 @@
 ||cdn.bahswl.com^
 ||cdn.barlo.xyz^
 ||cdn.bhlph.com^
-||cdn.bhnnop.com^
 ||cdn.bnmkl.com^
 ||cdn.borhaj.com^
 ||cdn.buram.xyz^
@@ -50,7 +49,6 @@
 ||cdn.gelhp.com^
 ||cdn.genfpm.com^
 ||cdn.gitajwl.com^
-||cdn.gocolow.com^
 ||cdn.gpcrn.com^
 ||cdn.hhjow.com^
 ||cdn.hhmako.cloud^
@@ -64,7 +62,6 @@
 ||cdn.jandaqwe.com^
 ||cdn.jbtul.com^
 ||cdn.jhkfd.com^
-||cdn.jhoncj.com^
 ||cdn.jitanvlw.com^
 ||cdn.jklpy.com^
 ||cdn.jkpes.com^
@@ -75,7 +72,6 @@
 ||cdn.kizan.cloud^
 ||cdn.mafyak.com^
 ||cdn.masbpi.com^
-||cdn.miluwo.com^
 ||cdn.mnhjk.com^
 ||cdn.mnhjkl.com^
 ||cdn.monhax.com^
@@ -92,7 +88,6 @@
 ||cdn.ovqds.com^
 ||cdn.paluinho.cloud^
 ||cdn.pctv.xyz^
-||cdn.pfiuyt.com^
 ||cdn.piuyt.com^
 ||cdn.pllah.com^
 ||cdn.plmwsl.com^
@@ -105,7 +100,6 @@
 ||cdn.quagfa.com^
 ||cdn.rapolok.com^
 ||cdn.rausfml.com^
-||cdn.rawqel.com^
 ||cdn.rgrd.xyz^
 ||cdn.roemoss.com^
 ||cdn.rofant.com^
@@ -730,7 +724,6 @@
 ||octopus.janandsusan.io^
 ||octopus.katrinebrandborg.dk^
 ||opossum.roleup.com^
-||opossum.stephanieharari.com^
 ||orangutan.equaliteam.com^
 ||orangutan.renovare.org^
 ||orca.overbold.co^
@@ -1080,6 +1073,7 @@
 ||daily.thezebra.org^
 ||daily.yubanet.com^
 ||doppler.streetinteractive.com^
+||experience.theassemblync.com^
 ||featured.premiermedia.net^
 ||floorforce.streetinteractive.com^
 ||gemtun.ctnewsjunkie.com^

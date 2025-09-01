@@ -57,7 +57,6 @@
     * keurig-ssl.extole.com
     * keurigca.extole.com
     * keurigfr.extole.com
-    * kipling-usa.extole.com
     * leadmd.extole.com
     * luckyvitamin.extole.com
     * lymphedemaproducts.extole.com
@@ -216,7 +215,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -236,7 +234,6 @@
     * cwbank.extole.io
     * dailypay.em.extole.io
     * dailypay.extole.io
-    * dailypay.xtl.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
     * darwinspet.extole.io
@@ -523,7 +520,6 @@
     * spothero.extole.io
     * sstack.extole.io
     * starbucks.extole.io
-    * starbucks.xtl2.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
     * stockpile.extole.io
@@ -552,6 +548,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -589,8 +586,8 @@
     * virginvoyages.extole.io
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
-    * vonagebusinessuk.extole.io
     * wagwalking.extole.io
+    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
@@ -767,7 +764,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -799,7 +795,6 @@
 | tellapal.web.com | d.extole.com |
 | em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
-| xtl._domainkey.dailypay.com | dailypay.xtl.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
 | share.refer-darphin.com | darphin.extole.io |
@@ -1035,7 +1030,6 @@
 | friends.keurig.com | keurig-ssl.extole.com |
 | friends.keurig.ca | keurigca.extole.com |
 | amis.keurig.ca | keurigfr.extole.com |
-| refer.kipling-usa.com | kipling-usa.extole.com |
 | refer.knixteen.ca | knixteen.extole.io |
 | refer.knixteen.com | knixteen.extole.io |
 | my.kotn.com | kotn.extole.io |
@@ -1274,7 +1268,6 @@
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
 | share.starbucks.com | starbucks.extole.io |
-| xtl2._domainkey.refer.starbucks.com | starbucks.xtl2.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
 | share.stockpile.com | stockpile.extole.io |
@@ -1312,6 +1305,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1389,8 +1383,8 @@
 | refer.volcom.com | volcom.extole.com |
 | refer.vonage.com | vonage.extole.com |
 | share.vonage.com | vonagebusiness.extole.io |
-| share.vonage.co.uk | vonagebusinessuk.extole.io |
 | share.wagwalking.com | wagwalking.extole.io |
+| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |

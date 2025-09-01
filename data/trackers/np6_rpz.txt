@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -441,6 +441,7 @@ tr.ere.emailing.bnpparibas CNAME .
 tr.espmp-agfr.net CNAME .
 tr.estatesandwines.moethennessy.com CNAME .
 tr.etravauxpro.fr CNAME .
+tr.etude.sncd.org CNAME .
 tr.eulerhermes.com CNAME .
 tr.europe.moethennessy.com CNAME .
 tr.evenements.inpi.fr CNAME .
@@ -524,7 +525,6 @@ tr.info.covid-resistance-bretagne.fr CNAME .
 tr.info.dentexelans.com CNAME .
 tr.info.e-leclerc.com CNAME .
 tr.info.easyviaggio.com CNAME .
-tr.info.easyviajar.com CNAME .
 tr.info.easyvoyage.co.uk CNAME .
 tr.info.easyvoyage.com CNAME .
 tr.info.easyvoyage.de CNAME .
@@ -548,7 +548,6 @@ tr.info.mercialys.com CNAME .
 tr.info.mobibam.com CNAME .
 tr.info.np6.com CNAME .
 tr.info.np6.fr CNAME .
-tr.info.oceane-pme.com CNAME .
 tr.info.offres-cartegie.fr CNAME .
 tr.info.onboarding.corporatecards.bnpparibas CNAME .
 tr.info.parlons-incontinence.fr CNAME .
@@ -668,7 +667,6 @@ tr.mail.vo3000.com CNAME .
 tr.mail1.macif.fr CNAME .
 tr.mail306.com CNAME .
 tr.mailatia.com CNAME .
-tr.mailing.achatpublic.com CNAME .
 tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
@@ -813,7 +811,6 @@ tr.news.directeo.fr CNAME .
 tr.news.drveto.com CNAME .
 tr.news.easybook.fr CNAME .
 tr.news.easyviaggio.com CNAME .
-tr.news.easyviajar.com CNAME .
 tr.news.easyvoyage.co.uk CNAME .
 tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
@@ -1200,7 +1197,6 @@ tr.votrealarme.securitasdirect.fr CNAME .
 tr.vous.hellobank.fr CNAME .
 tr.wa.wordappeal.com CNAME .
 tr.welcome.easyviaggio.com CNAME .
-tr.welcome.easyviajar.com CNAME .
 tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
 tr.welcome.easyvoyage.de CNAME .

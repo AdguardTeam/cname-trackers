@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -259,6 +259,7 @@ data-1bc9d87af9.ahgz.de CNAME .
 data-1bc9d87af9.ahgzimmo.de CNAME .
 data-1be5adcd69.apps.iocnt.de CNAME .
 data-1c0a3d83e3.transfermarkt.ae CNAME .
+data-1c0a3d83e3.transfermarkt.at CNAME .
 data-1c0a3d83e3.transfermarkt.be CNAME .
 data-1c0a3d83e3.transfermarkt.ch CNAME .
 data-1c0a3d83e3.transfermarkt.co.id CNAME .
@@ -426,6 +427,7 @@ data-3706a2ecb0.bauletter.de CNAME .
 data-3706a2ecb0.baulinks.de CNAME .
 data-379665bfa7.apps.iocnt.de CNAME .
 data-37bb36fb44.apps.iocnt.de CNAME .
+data-38132d333d.e-hausaufgaben.de CNAME .
 data-3823552b7a.sport.de CNAME .
 data-382f03151d.harpersbazaar.de CNAME .
 data-3839bfef3b.diesteirerin.at CNAME .
@@ -684,6 +686,7 @@ data-4d5c7c2be6.boden-wand-decke.de CNAME .
 data-4e9ff460f2.autobild.de CNAME .
 data-4e9ff460f2.bike-bild.de CNAME .
 data-4e9ff460f2.clever-tanken.de CNAME .
+data-4eb828715f.apps.iocnt.de CNAME .
 data-4ede7e9c86.faz.com CNAME .
 data-4ede7e9c86.faz.de CNAME .
 data-4ede7e9c86.testfaz.net CNAME .

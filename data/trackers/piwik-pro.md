@@ -12,16 +12,15 @@
     * dealerspike-prod.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
+    * effectory.piwik.pro
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
     * helen.piwik.pro
-    * hogeschool.piwik.pro
     * ind.piwik.pro
     * jetu.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
-    * netdriven.piwik.pro
     * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * polpharma.piwik.pro
@@ -57,17 +56,16 @@
 | dap.amsterdam.nl | amsterdam.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
-| piwik.slotsparadise.com | betus.piwik.pro |
 | piwik.vegasaces.com | betus.piwik.pro |
 | piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
+| analytics.effectory.com | effectory.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
-| analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
 | wa.mybookie.ag | jetu.piwik.pro |
 | wa.xbet.ag | jetu.piwik.pro |
@@ -75,7 +73,6 @@
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
-| stats.netdriven.com | netdriven.piwik.pro |
 | statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | polpharmaanalytics.pl | polpharma.piwik.pro |
@@ -85,6 +82,7 @@
 | analytics.wavelz.com | pp-public-p-aea.piwik.pro |
 | a.relayto.com | pp-public-p-euw.piwik.pro |
 | analytics.akvo.org | pp-public-p-euw.piwik.pro |
+| analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.hr.nl | pp-public-p-euw.piwik.pro |
 | analytics.webanalytics.op.europa.eu | pp-public-p-euw.piwik.pro |
@@ -96,7 +94,6 @@
 | p-pan.triodos.com | pp-public-p-euw.piwik.pro |
 | p-pan.triodos.com | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
-| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
@@ -105,6 +102,7 @@
 | polpharmaanalytics.pl | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
+| pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
 | pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
@@ -128,7 +126,6 @@
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tagadmin.aumago.com | pp-public-p-gwc.piwik.pro |
-| wa.mybookie.ag | pp-public-p-gwc.piwik.pro |
 | wa.mybookie.ag | pp-public-p-gwc.piwik.pro |
 | wa.xbet.ag | pp-public-p-gwc.piwik.pro |
 | a.uwhealth.org | pp-public-p-use.piwik.pro |

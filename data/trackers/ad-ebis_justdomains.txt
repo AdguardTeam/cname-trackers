@@ -195,6 +195,7 @@ cs2087sbeda.haken-kanri.net
 cs2087sbeda.manage-tempstaffing.net
 cs2113sbeda.hokto-onlineshop.jp
 cv-adebis.my-studies.net
+cv-adebis.nlp-coaching.co.jp
 cv-adebis.nlpjapan.co.jp
 d-kint.d-kintetsu.co.jp
 digital.anicom-sompo.co.jp

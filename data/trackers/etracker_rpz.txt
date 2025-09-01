@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -51,6 +51,7 @@ e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
 eck.brettspieleck.de CNAME .
+ecm.agravis.de CNAME .
 em.mittwald.de CNAME .
 estat.edel-kraut.de CNAME .
 estats.globus.de CNAME .
@@ -89,8 +90,10 @@ et.schindlerparent.de CNAME .
 et.sectornord.de CNAME .
 et.university-of-labour.de CNAME .
 et.xenbyte.com CNAME .
+etd.hormonspezialisten.de CNAME .
 etd.kramer-online.com CNAME .
 etd.wackerneusongroup.com CNAME .
+etd.wechseljahre-verstehen.de CNAME .
 etd.weidemann.com CNAME .
 etdomain.dorothee-schumacher.com CNAME .
 etr.cosee.biz CNAME .
@@ -145,6 +148,7 @@ statistics.hagnauer.org CNAME .
 stats.die-bibel.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.hilscher.com CNAME .
+stats.inselloft-norderney.de CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.krauss-gmbh.com CNAME .
 stats.mopo.de CNAME .
@@ -167,6 +171,7 @@ t.canngo.express CNAME .
 tr.hundesportladen.de CNAME .
 tr.mey-wasserschaden.de CNAME .
 tr.zuhause-finder.com CNAME .
+tr7593.pollin.de CNAME .
 track.bauwirtschaft-bw.de CNAME .
 track.brot-fuer-die-welt.de CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
@@ -231,6 +236,7 @@ webcontr.kontor4.de CNAME .
 webcontr.l.de CNAME .
 webcontr.leisure.one CNAME .
 webcontr.lhbl.de CNAME .
+webcontr.lindy.com CNAME .
 webcontr.lindy.de CNAME .
 webcontr.lmz-bw.de CNAME .
 webcontr.lotto-hh.de CNAME .

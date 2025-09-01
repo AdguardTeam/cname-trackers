@@ -59,6 +59,7 @@
 | daily.thezebra.org | bs-adserver.b-cdn.net |
 | daily.yubanet.com | bs-adserver.b-cdn.net |
 | doppler.streetinteractive.com | bs-adserver.b-cdn.net |
+| experience.theassemblync.com | bs-adserver.b-cdn.net |
 | featured.premiermedia.net | bs-adserver.b-cdn.net |
 | floorforce.streetinteractive.com | bs-adserver.b-cdn.net |
 | gemtun.ctnewsjunkie.com | bs-adserver.b-cdn.net |
@@ -700,7 +701,6 @@
 | octopus.janandsusan.io | deprecated-custom-domains.b-cdn.net |
 | octopus.katrinebrandborg.dk | deprecated-custom-domains.b-cdn.net |
 | opossum.roleup.com | deprecated-custom-domains.b-cdn.net |
-| opossum.stephanieharari.com | deprecated-custom-domains.b-cdn.net |
 | orangutan.equaliteam.com | deprecated-custom-domains.b-cdn.net |
 | orangutan.renovare.org | deprecated-custom-domains.b-cdn.net |
 | orca.overbold.co | deprecated-custom-domains.b-cdn.net |
@@ -1050,7 +1050,6 @@
 | cdn.bahswl.com | popcashjs.b-cdn.net |
 | cdn.barlo.xyz | popcashjs.b-cdn.net |
 | cdn.bhlph.com | popcashjs.b-cdn.net |
-| cdn.bhnnop.com | popcashjs.b-cdn.net |
 | cdn.bnmkl.com | popcashjs.b-cdn.net |
 | cdn.borhaj.com | popcashjs.b-cdn.net |
 | cdn.buram.xyz | popcashjs.b-cdn.net |
@@ -1084,7 +1083,6 @@
 | cdn.gelhp.com | popcashjs.b-cdn.net |
 | cdn.genfpm.com | popcashjs.b-cdn.net |
 | cdn.gitajwl.com | popcashjs.b-cdn.net |
-| cdn.gocolow.com | popcashjs.b-cdn.net |
 | cdn.gpcrn.com | popcashjs.b-cdn.net |
 | cdn.hhjow.com | popcashjs.b-cdn.net |
 | cdn.hhmako.cloud | popcashjs.b-cdn.net |
@@ -1098,7 +1096,6 @@
 | cdn.jandaqwe.com | popcashjs.b-cdn.net |
 | cdn.jbtul.com | popcashjs.b-cdn.net |
 | cdn.jhkfd.com | popcashjs.b-cdn.net |
-| cdn.jhoncj.com | popcashjs.b-cdn.net |
 | cdn.jitanvlw.com | popcashjs.b-cdn.net |
 | cdn.jklpy.com | popcashjs.b-cdn.net |
 | cdn.jkpes.com | popcashjs.b-cdn.net |
@@ -1109,7 +1106,6 @@
 | cdn.kizan.cloud | popcashjs.b-cdn.net |
 | cdn.mafyak.com | popcashjs.b-cdn.net |
 | cdn.masbpi.com | popcashjs.b-cdn.net |
-| cdn.miluwo.com | popcashjs.b-cdn.net |
 | cdn.mnhjk.com | popcashjs.b-cdn.net |
 | cdn.mnhjkl.com | popcashjs.b-cdn.net |
 | cdn.monhax.com | popcashjs.b-cdn.net |
@@ -1126,7 +1122,6 @@
 | cdn.ovqds.com | popcashjs.b-cdn.net |
 | cdn.paluinho.cloud | popcashjs.b-cdn.net |
 | cdn.pctv.xyz | popcashjs.b-cdn.net |
-| cdn.pfiuyt.com | popcashjs.b-cdn.net |
 | cdn.piuyt.com | popcashjs.b-cdn.net |
 | cdn.pllah.com | popcashjs.b-cdn.net |
 | cdn.plmwsl.com | popcashjs.b-cdn.net |
@@ -1139,7 +1134,6 @@
 | cdn.quagfa.com | popcashjs.b-cdn.net |
 | cdn.rapolok.com | popcashjs.b-cdn.net |
 | cdn.rausfml.com | popcashjs.b-cdn.net |
-| cdn.rawqel.com | popcashjs.b-cdn.net |
 | cdn.rgrd.xyz | popcashjs.b-cdn.net |
 | cdn.roemoss.com | popcashjs.b-cdn.net |
 | cdn.rofant.com | popcashjs.b-cdn.net |

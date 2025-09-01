@@ -248,6 +248,7 @@ data-1bc9d87af9.ahgz.de
 data-1bc9d87af9.ahgzimmo.de
 data-1be5adcd69.apps.iocnt.de
 data-1c0a3d83e3.transfermarkt.ae
+data-1c0a3d83e3.transfermarkt.at
 data-1c0a3d83e3.transfermarkt.be
 data-1c0a3d83e3.transfermarkt.ch
 data-1c0a3d83e3.transfermarkt.co.id
@@ -415,6 +416,7 @@ data-3706a2ecb0.bauletter.de
 data-3706a2ecb0.baulinks.de
 data-379665bfa7.apps.iocnt.de
 data-37bb36fb44.apps.iocnt.de
+data-38132d333d.e-hausaufgaben.de
 data-3823552b7a.sport.de
 data-382f03151d.harpersbazaar.de
 data-3839bfef3b.diesteirerin.at
@@ -673,6 +675,7 @@ data-4d5c7c2be6.boden-wand-decke.de
 data-4e9ff460f2.autobild.de
 data-4e9ff460f2.bike-bild.de
 data-4e9ff460f2.clever-tanken.de
+data-4eb828715f.apps.iocnt.de
 data-4ede7e9c86.faz.com
 data-4ede7e9c86.faz.de
 data-4ede7e9c86.testfaz.net

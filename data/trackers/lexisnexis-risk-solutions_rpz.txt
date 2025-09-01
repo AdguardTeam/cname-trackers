@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ adprtm53.goldkarte.at CNAME .
 adprtm53.kartegold.de CNAME .
 adprtm53.xn--gebhrenfrei-vhb.de CNAME .
 advertize.stcbank.com.sa CNAME .
+aegis.miio.mx CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
 afm.cnthevtmarkets.com CNAME .
@@ -259,9 +260,9 @@ client.online.sandyspringbank.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
 cnt.faktoria.pl CNAME .
-cnt.goboo.com CNAME .
 cnt.patpat.com CNAME .
 cnt.redotpay.net CNAME .
+common.1win.com CNAME .
 compliance.mohegansuncasino.com CNAME .
 condition.applause.com CNAME .
 connect-cert-card.moneynetwork.com CNAME .
@@ -497,7 +498,6 @@ cookiemonster.calcas.com CNAME .
 creditapp.rogersbank.com CNAME .
 creditcheck.digitecgalaxus.ch CNAME .
 crmg-fraudmgmt.bayad.com CNAME .
-csource.rentals.com CNAME .
 css.slots.io CNAME .
 csservice.aircanada.com CNAME .
 cstm.gumtree.com CNAME .
@@ -702,6 +702,7 @@ info.betway.mw CNAME .
 info.betway.ng CNAME .
 info.betwaypartnersafrica.com CNAME .
 info.jackpotcity.co.za CNAME .
+insights.hastingsdirectloans.com CNAME .
 intl.payu.in CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
@@ -1059,6 +1060,7 @@ tag.icash.illinoistreasurer.gov CNAME .
 tag.maineunclaimedproperty.gov CNAME .
 tag.mycash.utah.gov CNAME .
 tag.ucp.dor.wa.gov CNAME .
+tag.unclaimed.nccash.gov CNAME .
 tag.unclaimedfunds.nj.gov CNAME .
 tag.unclaimedproperty.alaska.gov CNAME .
 tag.unclaimedproperty.delaware.gov CNAME .
@@ -1139,6 +1141,7 @@ tm.creditcheck.illion.com.au CNAME .
 tm.creditprotect.illion.co.nz CNAME .
 tm.creditprotect.illion.com.au CNAME .
 tm.cybersource.com CNAME .
+tm.defense.dbp.fiservapps.com CNAME .
 tm.espnbet.com CNAME .
 tm.fanduel.com CNAME .
 tm.fidelity.asia CNAME .

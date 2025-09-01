@@ -145,6 +145,7 @@
   "ox.mequoda.com": "mequoda-delivery.aquaplatform.com",
   "proxena-images.reviveservers.com": "platformiq-cdn.aquaplatform.com",
   "proxena-secure.reviveservers.com": "platformiq-del.aquaplatform.com",
+  "questico-ads.reviveservers.com": "platformiq-del.aquaplatform.com",
   "revive-console.worldscreen.com": "worldscreen-console.aquaplatform.com",
   "revive-static.worldscreen.com": "worldscreen-static.aquaplatform.com",
   "revive.ahk.de": "ahk-delivery.aquaplatform.com",
@@ -297,5 +298,6 @@
   "www.static.tahoe.com": "oneboat-static.aquaplatform.com",
   "www.static.the-saleroom.com": "proxibid-static.aquaplatform.com",
   "www.stommeplaatjes.geenstijl.nl": "geenstijl-static.aquaplatform.com",
+  "www.treehouse.wwoz.org": "wwoz-delivery.aquaplatform.com",
   "xtraa-secure.reviveservers.com": "platformiq-del.aquaplatform.com"
 }

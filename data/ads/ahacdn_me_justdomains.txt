@@ -11,8 +11,8 @@
 0715c69091.e5f1418a7a.com
 08d9578fe3.29a7397be5.com
 09af1fca04.9e11ec3a56.com
-0bcb1fbd02.e9d13e3e01.com
 0f64a1335d.5170064c2d.com
+0fb71af2e5.67fad39954.com
 0fc3590f12.b7dff0913b.com
 0fd597b40a.2377192920.com
 100fd4a943.a51f200d7e.com
@@ -75,7 +75,6 @@
 3f9cb42517.ce82020873.com
 3fbe5db693.8fbfeb27e6.com
 3ff066c239.cffa3cb187.com
-402ed82a43.2e5e4544c4.com
 429614c72b.153acc74fd.com
 4311007186.a098a4ad81.com
 456e3abe32.215a043303.com
@@ -89,9 +88,7 @@
 4ced4daa4c.84eb50d125.com
 4cf1288ca8.4088846d50.com
 4d5b893578.6e6cd153a6.com
-4d8ab2759e.32596c0d85.com
 4e1305540a.1c0c3fde9d.com
-4e7042dd58.817dae10e1.com
 4ef69e5814.c7b419036b.com
 4fc2d0c0e2.abb030d6a7.com
 503f39274f.cc33b86bbf.com
@@ -126,7 +123,6 @@
 63b0b46d2b.a46d7a5579.com
 6443335642.53ff0e58f9.com
 64ad732e13.fdc99e538f.com
-65d9b4a4ad.433bcaa83b.com
 669baa8973.3a434abae1.com
 689ee63ccc.439f4b8c75.com
 6962d5ab53.2f8a651b12.com
@@ -135,6 +131,7 @@
 6b4d2fc61a.ba7dea6a05.com
 6c3873970c.9a4f937e0f.com
 6c67329704.4d3f87f705.com
+6daf41852f.4ba48a7822.com
 6dfaf2c5aa.9421d59b1d.com
 6e97acb71e.f0d5add3ea.com
 6fb7f2651f.ac359edaf2.com
@@ -173,6 +170,7 @@
 8752d657fd.a3a706a0ae.com
 886a38e988.9c8b7403e9.com
 8915ca928b.a273656d15.com
+897b380ae5.1b87094b09.com
 8992bfef5b.3575e2d4e6.com
 8a45f0e0a6.579eede9ca.com
 8cbe12271a.0ffaf504b2.com
@@ -197,7 +195,6 @@
 9c1c8e0e21.05e4bd1819.com
 9c5203d24f.bca10c62ca.com
 9f0a9a8621.effe2f62ae.com
-9f30710c95.1370065b3a.com
 a011c1f8f2.dcff90fa75.com
 a07f42f76a.2638879a96.com
 a2b0b86a23.c7f4d1276e.com
@@ -212,7 +209,6 @@ a7ccc9ba5b.70b7d98dec.com
 a7e48ab5ca.b9f26bbf80.com
 a82e6920a2.47cb693fa6.com
 a896b40d52.84a15bc0e3.com
-a9e69f8da2.742ba1f9a9.com
 aa682509b0.f11631d24c.com
 aaae5b9ee0.d3aa46b2e8.com
 aae80f5380.7719094ddf.com
@@ -242,7 +238,9 @@ b99e4edba7.98cbb83e14.com
 baff667d7a.7d44c6ba4d.com
 bc8196245a.0d0705c152.com
 be1c6e25e9.ca6d30883b.com
+be7b76b7b1.9e83087e91.com
 be8f770864.5e9cb65c2c.com
+bf7842fb84.daaae00aa4.com
 bfb9bc6900.e92030d8b1.com
 c0d05e4183.59aa4e4c1c.com
 c24ca9e0d8.d170971757.com
@@ -260,7 +258,6 @@ c73afb43bc.389867b0e2.com
 c83de17caf.a8e8c59504.com
 c8e2ad3235.d018b822d2.com
 c92c09d47d.6b902da043.com
-c99574de6f.dd4ef151bb.com
 ca74179f92.132ffebe8c.com
 cb07f20af1.8de5d7e235.com
 cb530ae596.66a5e92d66.com
@@ -284,6 +281,7 @@ d6b1635a92.829c4efedc.com
 d976beb9e5.4f9566374d.com
 d98aab83ee.3103cf02ec.com
 da6e6963b8.01955ad1f7.com
+dcc3de1f8b.13121e3d88.com
 dd275c38d4.4239cc7770.com
 dd47055762.df6733029c.com
 dd99a86663.fcb6adad17.com
@@ -438,6 +436,7 @@ vjs.selecttopoff.com
 2a1b482343.1e55308a88.com
 2b4f503406.a0b5779711.com
 2b825c1d4f.ca6dbde75a.com
+2c4d3459e6.d4dc5a447c.com
 2ce064f854.766935bca8.com
 2ce7a79e64.f2a2ddbb84.com
 2d5ae0d013.d8c04a25e8.com
@@ -453,13 +452,12 @@ vjs.selecttopoff.com
 33b39a6e93.3638f4360b.com
 35a92e241c.30ea3091fb.com
 36a657286a.2e001e2b2b.com
-36e2c762e2.6a59fa5129.com
 380526f50a.e9a5ed7d7a.com
+392e795778.436df5b953.com
 3936321270.d3d30ac9d4.com
 3a699e5208.ed097cf04b.com
 3a89fe0cd6.2cd21b9973.com
 3d55b46c91.78187cbed6.com
-3e8359d812.f9f62da9a0.com
 3f9476b86d.47f0db81c9.com
 3fd63d27b7.86c4c263c2.com
 4043ae3f44.cc5c5a5c56.com
@@ -477,7 +475,6 @@ vjs.selecttopoff.com
 4b0ee437b9.84f017b608.com
 4dad720668.44216f3fdf.com
 4e459a72cc.d4bd4c34af.com
-4f1fca8377.2ea4fb5aea.com
 4f3f7a2316.023e6510cc.com
 4fd3f02e5e.aed08832da.com
 50b5b9c818.40194e19e6.com
@@ -504,7 +501,6 @@ vjs.selecttopoff.com
 5fe1611803.6cd84ae3ce.com
 60ca0fcaf5.4e0c0b1247.com
 629ded61ab.a35a7c1900.com
-640186f930.04de88565b.com
 64a5bc639a.78b7387b52.com
 64f14dbf1b.8dc714cafe.com
 650b1f19ee.14f55cc6a7.com
@@ -516,18 +512,21 @@ vjs.selecttopoff.com
 6bcc158a9d.2f7f58d605.com
 6bcf1efec5.b21379380e.com
 6c062330ce.54653cc53d.com
+6c0f832f38.4058e46800.com
 6c7cd0e530.a970dc123c.com
 6e17040111.aa12b32ecc.com
 700f9a0406.b4ba3365d5.com
 7034bdca2a.4f551488f3.com
 707361e48f.5adde1db4b.com
 70d7de70d1.ae4a30136a.com
+714975f2b4.024e3caef2.com
 71a72bc453.572c52928b.com
 74172faf8e.350c2478fb.com
 747dc46a4d.8428db03e3.com
 75aa1b4236.88cb0eb486.com
 75cec2c697.aaa8f4d18b.com
 7625ef40ff.760a131226.com
+76929a9d41.b9e2865ec3.com
 785cfac57a.5fa93678cd.com
 7a3a4ea153.6a7eac2034.com
 7ad490a943.b3c8cc8e2b.com
@@ -544,7 +543,6 @@ vjs.selecttopoff.com
 7eb2ad7414.903e9c75f6.com
 7f2b0289ba.173726e958.com
 7f8047feaf.42a40423c5.com
-8159323a9c.d064229052.com
 822dbd57ea.298b7571af.com
 823cb09e67.6e67e233a2.com
 838bbe2c37.9f0e7c5370.com
@@ -563,8 +561,10 @@ vjs.selecttopoff.com
 9212a2eca1.36006ca3dd.com
 94ddcccd6e.551ba6c442.com
 95b16b661b.8f05eeda67.com
+977ae034cf.7c23586009.com
 99e7945bc5.73fbab0eb4.com
 9aec3c08ad.c5ca8a76ed.com
+9af74fa453.2f2d60b8b5.com
 9b1ad9b3de.c3759f7e8a.com
 9b5168f52e.419afac32e.com
 9bd66765d7.0214217ebc.com
@@ -580,7 +580,6 @@ a4422148cd.0aabc05067.com
 a6f50f55d7.0fbee846c6.com
 a708fa06da.99ef859a06.com
 a91cf285ac.2e47fd9b9a.com
-a9529eca57.100b57dcae.com
 ad0a48896e.540f8cca2b.com
 ad81b5514f.91b20f7c8f.com
 b0f150be47.96e7bee058.com
@@ -637,7 +636,6 @@ d170e28341.27fae19b56.com
 d3e192e8ea.85a90880b9.com
 d457c69ef7.0e07fa9a08.com
 d4ba3f883d.9e3810a418.com
-d4e78103e1.74d0adc87e.com
 d6d6a6924b.f351966262.com
 d80cb0f7b2.f404af467e.com
 d82d5aceee.81015449c0.com
@@ -659,7 +657,6 @@ df721ea323.0d22ca5caa.com
 df7d4eecab.ccc9c93083.com
 e0e33dcc7b.9075bcc610.com
 e1110c095c.d057ad0c7b.com
-e1cc78a266.f356998def.com
 e2360d9a2d.0f8eec5673.com
 e37768b532.6117ff78fc.com
 e3808936be.cdb4bd7cb1.com
@@ -682,6 +679,7 @@ ef65c623b2.1c9ef7b121.com
 ef6c4fca52.3dcca6931d.com
 f0700b9a77.7a416c3a61.com
 f2038c988e.90d92b6a4e.com
+f2ae48a2ec.93a72bfca9.com
 f3b712f1f4.16d9c2d09e.com
 f45c5d6b32.9dcae0f138.com
 f9d3dca725.b291310c77.com
@@ -709,11 +707,11 @@ fe7f2e3a68.317aba2b18.com
 0f85bcb09c.97f477047f.com
 0f997ecbe1.892fa3d127.com
 0feaa29e9a.6570131a3f.com
+1099d89511.c4ff1123f0.com
 11f116c2ac.8da21bba7c.com
 1257e108d1.a08387be3d.com
 1296d5fc2c.971bf5ec60.com
 1364c2e769.26e8264baa.com
-149549d67c.c759538eb2.com
 15337f077d.2f6dbda127.com
 159f70698e.e806dd6aba.com
 164e84ce61.ac3fc8f2a5.com
@@ -723,7 +721,6 @@ fe7f2e3a68.317aba2b18.com
 197a0c366b.02be4c77d5.com
 1ca6e3e357.a8ca394de0.com
 1cbd637d10.2c8eb505eb.com
-1db7ae623d.ddc1aaee63.com
 1e055ef148.34b2efc756.com
 1e2121a1c4.e811df4714.com
 1e686e4bdb.fceedf7652.com
@@ -737,6 +734,7 @@ fe7f2e3a68.317aba2b18.com
 2518a53ab8.db0a4b4eb7.com
 25f853e885.d49ae3cc10.com
 263ce1e63f.a6947f0e54.com
+27f271a51c.a6c5669865.com
 2950917e4a.56eed75dbe.com
 29e73076ca.49d4db4864.com
 2b294985f3.900f3c4717.com
@@ -747,10 +745,8 @@ fe7f2e3a68.317aba2b18.com
 2f9187dd18.22c29c62b3.com
 305791ddd9.ea1e71ef6c.com
 30609d32ba.3cd03be731.com
-307dcaf284.d41bd4d836.com
 3082420b7f.eeb201e6da.com
 30bbe4fc47.2c8dd8f912.com
-32d3db0610.db35b0c4c1.com
 3307347c72.6e694b79b9.com
 33773a42d8.944ef08b40.com
 33e575cb57.a02e31b105.com
@@ -779,6 +775,7 @@ fe7f2e3a68.317aba2b18.com
 485bd96db9.7d9d50ada1.com
 4883b6e943.d5ed0737cd.com
 49b5412749.cdf057ad83.com
+4aa85b131b.0d25b79bea.com
 4cbaa088a5.e0b7e7348e.com
 4cd8d0b494.773fd92793.com
 4ce83dd618.1c497d51f2.com
@@ -883,6 +880,7 @@ a3f2635e13.ce391f4444.com
 a3f3edf924.7470c4cda5.com
 a40b9f2dba.b36d53af56.com
 a4eea3ed90.31a0792482.com
+a506ea1612.d5fb078bf9.com
 a77e9cff2b.25c487db78.com
 a7d0df85b8.0bb5643104.com
 a8ab9e490d.a188a76155.com
@@ -891,7 +889,6 @@ a9e74b3b02.6c9c74ad54.com
 aaf7ae610b.daa50b1994.com
 ac1a6f663e.6e5923de7e.com
 ac27f8353e.c81cd15a01.com
-ae56c07a5d.7fc6aff494.com
 af9550f443.c1db3bcb4b.com
 b141e5f455.5495d0c343.com
 b1fb7ee141.3fc6424eda.com
@@ -916,7 +913,6 @@ bfa7591905.0cdf9706af.com
 c058b13b28.deec684fdd.com
 c16fd5228c.73a435bfaf.com
 c2c4aecf0a.0073a85a5d.com
-c41d7608cb.cf1335386a.com
 c4be7269bb.418419de36.com
 c4dffe58e4.f253cfd8db.com
 c565389275.4f12fa3413.com
@@ -940,6 +936,7 @@ d2889ff380.12c9049c32.com
 d5099e30ec.708ae8f508.com
 d51846de1e.b7085555f6.com
 d58353af9f.f9a77ca6b8.com
+d6cc6c0a1c.3dedca7f84.com
 d70cb4a85b.c4fb8f2af8.com
 d7c0fb1c13.8681b3fc64.com
 d7c5f8b101.ae44c86ad5.com
@@ -981,6 +978,7 @@ f6c8374b9b.4c81b78eca.com
 f97c68bed0.0a10a1bb7b.com
 fa3b0cdce1.37e1087e51.com
 fbbfde9989.fc9fef32e2.com
+fc98798bca.a431d890c6.com
 fdebe2308c.7900c936fb.com
 fdf7da59b4.676759a2a4.com
 fe4b0f5775.0b6f7dc9d8.com
@@ -988,16 +986,15 @@ ff8453ee2f.2d5ac65613.com
 ff97d1d2da.20590def33.com
 12114200.pix-cdn.org
 264c95d3e9.eaed8c304f.com
+32d3db0610.db35b0c4c1.com
 38236a5b03.e770af238b.com
 65a3a55b73.85fef60641.com
+8159323a9c.d064229052.com
 b99d6ab38b.d15a035f27.com
 bfac5cb821.19d7fd2ed2.com
+c99574de6f.dd4ef151bb.com
 d224b5684f.a34aba7b6c.com
 f2fcd50c02.db2a85c464.com
-2fwww.concretepublic.pro
-dnsbl.test.www.concretepublic.pro
-www.concretepublic.pro
-www.distant-structure.pro
 assets.ahmybid.net
 bid.mbidtg.com
 bid.onclcktg.com
@@ -1040,3 +1037,5 @@ jcdn.soonpubplatform.online
 jcdn.tsyndicate.com
 js.jnkstff.com
 na.wpush.net
+www.agonizingfollowing.pro
+www.kindhearted-building.pro

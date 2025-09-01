@@ -456,6 +456,7 @@
 | tr.espmp-agfr.net | tracking.bp01.net |
 | tr.estatesandwines.moethennessy.com | tracking.bp01.net |
 | tr.etravauxpro.fr | tracking.bp01.net |
+| tr.etude.sncd.org | tracking.bp01.net |
 | tr.eulerhermes.com | tracking.bp01.net |
 | tr.europe.moethennessy.com | tracking.bp01.net |
 | tr.evenements.inpi.fr | tracking.bp01.net |
@@ -539,7 +540,6 @@
 | tr.info.dentexelans.com | tracking.bp01.net |
 | tr.info.e-leclerc.com | tracking.bp01.net |
 | tr.info.easyviaggio.com | tracking.bp01.net |
-| tr.info.easyviajar.com | tracking.bp01.net |
 | tr.info.easyvoyage.co.uk | tracking.bp01.net |
 | tr.info.easyvoyage.com | tracking.bp01.net |
 | tr.info.easyvoyage.de | tracking.bp01.net |
@@ -563,7 +563,6 @@
 | tr.info.mobibam.com | tracking.bp01.net |
 | tr.info.np6.com | tracking.bp01.net |
 | tr.info.np6.fr | tracking.bp01.net |
-| tr.info.oceane-pme.com | tracking.bp01.net |
 | tr.info.offres-cartegie.fr | tracking.bp01.net |
 | tr.info.onboarding.corporatecards.bnpparibas | tracking.bp01.net |
 | tr.info.parlons-incontinence.fr | tracking.bp01.net |
@@ -683,7 +682,6 @@
 | tr.mail1.macif.fr | tracking.bp01.net |
 | tr.mail306.com | tracking.bp01.net |
 | tr.mailatia.com | tracking.bp01.net |
-| tr.mailing.achatpublic.com | tracking.bp01.net |
 | tr.mailing.heliades.fr | tracking.bp01.net |
 | tr.mailing.laredoute.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
@@ -828,7 +826,6 @@
 | tr.news.drveto.com | tracking.bp01.net |
 | tr.news.easybook.fr | tracking.bp01.net |
 | tr.news.easyviaggio.com | tracking.bp01.net |
-| tr.news.easyviajar.com | tracking.bp01.net |
 | tr.news.easyvoyage.co.uk | tracking.bp01.net |
 | tr.news.easyvoyage.com | tracking.bp01.net |
 | tr.news.easyvoyage.de | tracking.bp01.net |
@@ -1215,7 +1212,6 @@
 | tr.vous.hellobank.fr | tracking.bp01.net |
 | tr.wa.wordappeal.com | tracking.bp01.net |
 | tr.welcome.easyviaggio.com | tracking.bp01.net |
-| tr.welcome.easyviajar.com | tracking.bp01.net |
 | tr.welcome.easyvoyage.co.uk | tracking.bp01.net |
 | tr.welcome.easyvoyage.com | tracking.bp01.net |
 | tr.welcome.easyvoyage.de | tracking.bp01.net |

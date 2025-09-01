@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -206,6 +206,7 @@ cs2087sbeda.haken-kanri.net CNAME .
 cs2087sbeda.manage-tempstaffing.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
 cv-adebis.my-studies.net CNAME .
+cv-adebis.nlp-coaching.co.jp CNAME .
 cv-adebis.nlpjapan.co.jp CNAME .
 d-kint.d-kintetsu.co.jp CNAME .
 digital.anicom-sompo.co.jp CNAME .

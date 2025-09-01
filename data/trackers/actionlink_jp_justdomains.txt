@@ -64,6 +64,7 @@ al.neckar.jp
 al.noemie.jp
 al.office-com.jp
 al.onedogs.jp
+al.outfitter-lab.com
 al.packstyle.jp
 al.papawash.com
 al.paragel-onlineshop.jp
@@ -88,6 +89,7 @@ al.store.kyokotsu.jp
 al.talex.co.jp
 al.tanabesports.com
 al.tenhoru.jp
+al.titivate.jp
 al.tokimeku-otoriyose.jp
 al.tsukurupajama.jp
 al.ttandco.com

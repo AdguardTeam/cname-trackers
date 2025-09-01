@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,3 +58,4 @@ l.toushiikusei.net CNAME .
 l.tsukuba.ch CNAME .
 l.vietnhat.tv CNAME .
 l.yoka-yoka.jp CNAME .
+ms-acweb.clog3.net CNAME .

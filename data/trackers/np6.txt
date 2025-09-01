@@ -430,6 +430,7 @@
 ||tr.espmp-agfr.net^
 ||tr.estatesandwines.moethennessy.com^
 ||tr.etravauxpro.fr^
+||tr.etude.sncd.org^
 ||tr.eulerhermes.com^
 ||tr.europe.moethennessy.com^
 ||tr.evenements.inpi.fr^
@@ -513,7 +514,6 @@
 ||tr.info.dentexelans.com^
 ||tr.info.e-leclerc.com^
 ||tr.info.easyviaggio.com^
-||tr.info.easyviajar.com^
 ||tr.info.easyvoyage.co.uk^
 ||tr.info.easyvoyage.com^
 ||tr.info.easyvoyage.de^
@@ -537,7 +537,6 @@
 ||tr.info.mobibam.com^
 ||tr.info.np6.com^
 ||tr.info.np6.fr^
-||tr.info.oceane-pme.com^
 ||tr.info.offres-cartegie.fr^
 ||tr.info.onboarding.corporatecards.bnpparibas^
 ||tr.info.parlons-incontinence.fr^
@@ -657,7 +656,6 @@
 ||tr.mail1.macif.fr^
 ||tr.mail306.com^
 ||tr.mailatia.com^
-||tr.mailing.achatpublic.com^
 ||tr.mailing.heliades.fr^
 ||tr.mailing.laredoute.fr^
 ||tr.mailing.lvmhappening.com^
@@ -802,7 +800,6 @@
 ||tr.news.drveto.com^
 ||tr.news.easybook.fr^
 ||tr.news.easyviaggio.com^
-||tr.news.easyviajar.com^
 ||tr.news.easyvoyage.co.uk^
 ||tr.news.easyvoyage.com^
 ||tr.news.easyvoyage.de^
@@ -1189,7 +1186,6 @@
 ||tr.vous.hellobank.fr^
 ||tr.wa.wordappeal.com^
 ||tr.welcome.easyviaggio.com^
-||tr.welcome.easyviajar.com^
 ||tr.welcome.easyvoyage.co.uk^
 ||tr.welcome.easyvoyage.com^
 ||tr.welcome.easyvoyage.de^

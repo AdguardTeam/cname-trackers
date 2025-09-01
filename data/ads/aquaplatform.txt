@@ -146,6 +146,7 @@
 ||ox.mequoda.com^
 ||proxena-images.reviveservers.com^
 ||proxena-secure.reviveservers.com^
+||questico-ads.reviveservers.com^
 ||revive-console.worldscreen.com^
 ||revive-static.worldscreen.com^
 ||revive.ahk.de^
@@ -298,4 +299,5 @@
 ||www.static.tahoe.com^
 ||www.static.the-saleroom.com^
 ||www.stommeplaatjes.geenstijl.nl^
+||www.treehouse.wwoz.org^
 ||xtraa-secure.reviveservers.com^

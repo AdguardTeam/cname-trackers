@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -219,7 +219,6 @@ a8.minion-wifi.com CNAME .
 a8.mira-feel.com CNAME .
 a8.miror.jp CNAME .
 a8.misshajp.com CNAME .
-a8.mm-digitalsales.academy CNAME .
 a8.mochu.jp CNAME .
 a8.mogurun.com CNAME .
 a8.moku.info CNAME .
@@ -317,7 +316,6 @@ a8.tabechoku.com CNAME .
 a8.tapp-co.jp CNAME .
 a8.taylormadegolf.jp CNAME .
 a8.tcha-tcha-japan.com CNAME .
-a8.tea-lab.co.jp CNAME .
 a8.tecgate.jp CNAME .
 a8.tech-base.net CNAME .
 a8.techis.jp CNAME .
@@ -425,7 +423,6 @@ a8clk.app.offerbox.jp CNAME .
 a8clk.apply-shop.menu.inc CNAME .
 a8clk.asahi-net.or.jp CNAME .
 a8clk.asp.jcity.co.jp CNAME .
-a8clk.assecli.com CNAME .
 a8clk.ato-barai.com CNAME .
 a8clk.audiobook.jp CNAME .
 a8clk.autoc-one.jp CNAME .
@@ -809,7 +806,6 @@ a8cv.alvo.co.jp CNAME .
 a8cv.ama-create.com CNAME .
 a8cv.amiami.jp CNAME .
 a8cv.anapnet.com CNAME .
-a8cv.androsophybaby.com CNAME .
 a8cv.ans-ec.shop CNAME .
 a8cv.antiaging-eshop.com CNAME .
 a8cv.aplod.jp CNAME .
@@ -1019,7 +1015,6 @@ a8cv.info.atgp.jp CNAME .
 a8cv.inkan-takumi.com CNAME .
 a8cv.interlink.or.jp CNAME .
 a8cv.investment.mogecheck.jp CNAME .
-a8cv.ioo-sofa.net CNAME .
 a8cv.ishibashi.co.jp CNAME .
 a8cv.ishibestcareer.com CNAME .
 a8cv.ishizawa-lab.co.jp CNAME .
@@ -1081,7 +1076,6 @@ a8cv.leverage-learning.com CNAME .
 a8cv.lianest.co.jp CNAME .
 a8cv.lifenrich.co.jp CNAME .
 a8cv.lifull.jp CNAME .
-a8cv.livechat-berry.com CNAME .
 a8cv.lp.nalevi.mynavi.jp CNAME .
 a8cv.lp.x-house.co.jp CNAME .
 a8cv.lvs.jp CNAME .

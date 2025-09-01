@@ -208,7 +208,6 @@ a8.minion-wifi.com
 a8.mira-feel.com
 a8.miror.jp
 a8.misshajp.com
-a8.mm-digitalsales.academy
 a8.mochu.jp
 a8.mogurun.com
 a8.moku.info
@@ -306,7 +305,6 @@ a8.tabechoku.com
 a8.tapp-co.jp
 a8.taylormadegolf.jp
 a8.tcha-tcha-japan.com
-a8.tea-lab.co.jp
 a8.tecgate.jp
 a8.tech-base.net
 a8.techis.jp
@@ -414,7 +412,6 @@ a8clk.app.offerbox.jp
 a8clk.apply-shop.menu.inc
 a8clk.asahi-net.or.jp
 a8clk.asp.jcity.co.jp
-a8clk.assecli.com
 a8clk.ato-barai.com
 a8clk.audiobook.jp
 a8clk.autoc-one.jp
@@ -798,7 +795,6 @@ a8cv.alvo.co.jp
 a8cv.ama-create.com
 a8cv.amiami.jp
 a8cv.anapnet.com
-a8cv.androsophybaby.com
 a8cv.ans-ec.shop
 a8cv.antiaging-eshop.com
 a8cv.aplod.jp
@@ -1008,7 +1004,6 @@ a8cv.info.atgp.jp
 a8cv.inkan-takumi.com
 a8cv.interlink.or.jp
 a8cv.investment.mogecheck.jp
-a8cv.ioo-sofa.net
 a8cv.ishibashi.co.jp
 a8cv.ishibestcareer.com
 a8cv.ishizawa-lab.co.jp
@@ -1070,7 +1065,6 @@ a8cv.leverage-learning.com
 a8cv.lianest.co.jp
 a8cv.lifenrich.co.jp
 a8cv.lifull.jp
-a8cv.livechat-berry.com
 a8cv.lp.nalevi.mynavi.jp
 a8cv.lp.x-house.co.jp
 a8cv.lvs.jp

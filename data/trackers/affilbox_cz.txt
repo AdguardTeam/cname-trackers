@@ -213,7 +213,6 @@
 ||affiliate.nabytek-forliveshop.cz^
 ||affiliate.nakladatelstvi-riva.cz^
 ||affiliate.nalepime.cz^
-||affiliate.nejfotopasti.cz^
 ||affiliate.nethost.cz^
 ||affiliate.nomind.cz^
 ||affiliate.novakabelka.cz^
@@ -499,6 +498,7 @@
 ||partner.cukrarskyklub.cz^
 ||partner.cukraszvilag.hu^
 ||partner.danfil.cz^
+||partner.darabags.com^
 ||partner.darinapetrakova.cz^
 ||partner.dellinger.cz^
 ||partner.denato.cz^
@@ -641,7 +641,6 @@
 ||partner.momenti.cz^
 ||partner.montessorihracky.cz^
 ||partner.mooda.cz^
-||partner.mooselife.cz^
 ||partner.moravite.cz^
 ||partner.motoobchod.cz^
 ||partner.muffik.cz^
@@ -854,7 +853,6 @@
 ||partneri.minus-age.cz^
 ||partneri.mixano.cz^
 ||partneri.monikakorinkova.cz^
-||partneri.motmot.cz^
 ||partneri.mrblast.eu^
 ||partneri.muzeslepe.cz^
 ||partneri.mydlatamara.sk^
@@ -883,6 +881,7 @@
 ||partneri.roklen.cz^
 ||partneri.rondainvest.cz^
 ||partneri.salente.cz^
+||partneri.samudia.cz^
 ||partneri.serafinbyliny.cz^
 ||partneri.silaprozivot.com^
 ||partneri.smyslovy-pruzkumnik.cz^
@@ -989,6 +988,7 @@
 ||www.partneri.zuzanaondrisova.sk^
 ||affil.myface.cz^
 ||affiliate.kulturistika.com^
+||affiliate.nejfotopasti.cz^
 ||login.affiliatesit.cz^
 ||partner.janapekna.cz^
 ||partner.topforteam.cz^

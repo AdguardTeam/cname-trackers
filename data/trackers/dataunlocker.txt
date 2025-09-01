@@ -21,7 +21,6 @@
 ||21fhq0t574p.talentkit.io^
 ||21udflra4wd.app-dev.cainthus.com^
 ||23t63tvyxz.marketingtornado.ca^
-||25ix8gm8ien.sandbox.panprices.com^
 ||2829i2p88jx.www.csaladinet.hu^
 ||2aa6f9qgrh9.acc.evservice.nl^
 ||2e718yf5jypb.test.digitalsurge.io^
@@ -68,8 +67,6 @@
 ||e5obq1v261.www.lurkit.com^
 ||f02b61sgc617.es.themoneytizer.com^
 ||fkupm8697t19.eyevolution.de^
-||fq9vy0muyqi3.www.madrigalmaps.com^
-||gl5g98t0vfjb.panprices.com^
 ||hht8m6w8mnug.quine.sh^
 ||htahii1lpt4u.boxoffice.adventuretix.com^
 ||ia84berzxy7v.de.themoneytizer.com^
@@ -121,7 +118,6 @@
 ||tzgurwizule3.app.cardahealth.com^
 ||u0crsrah75fy.camberlion.com^
 ||uhd5nn09mgml.fort-shop.kiev.ua^
-||umylynsr9b.quira.sh^
 ||ut19suycy9vt.nowyformat.nofluffjobs.com^
 ||vyz3nn85ed0e.controlconceptsusa.com^
 ||vzal21mooz.hyperwrite.ai^

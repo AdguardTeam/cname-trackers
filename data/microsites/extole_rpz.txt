@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -66,7 +66,6 @@ refer.integrativenutrition.com CNAME .
 refer.jacksonsun.com CNAME .
 refer.johnson.ca CNAME .
 refer.julep.com CNAME .
-refer.kipling-usa.com CNAME .
 refer.leadmd.com CNAME .
 refer.luckyvitamin.com CNAME .
 refer.lymphedemaproducts.com CNAME .
@@ -134,10 +133,11 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
 em7952.dailypay.com CNAME .
 em8561.go2bank.com CNAME .
+em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -774,7 +774,6 @@ share.useagle.org CNAME .
 share.vcstar.com CNAME .
 share.vcu.com CNAME .
 share.virginvoyages.com CNAME .
-share.vonage.co.uk CNAME .
 share.vonage.com CNAME .
 share.wagwalking.com CNAME .
 share.walmartmoneycard.com CNAME .
@@ -792,11 +791,9 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl._domainkey.dailypay.com CNAME .
-xtl2._domainkey.refer.starbucks.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em2279.referral.quickbooks.co.uk CNAME .
-em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
@@ -807,7 +804,7 @@ em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
-em9523.walmartmoneycard.com CNAME .
+xtl._domainkey.dailypay.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl._domainkey.mail.raf.xfinity.com CNAME .
@@ -825,6 +822,7 @@ xtl2._domainkey.forgetrust.com CNAME .
 xtl2._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl2._domainkey.mail.raf.xfinity.com CNAME .
 xtl2._domainkey.notifications.acorns.com CNAME .
+xtl2._domainkey.refer.starbucks.com CNAME .
 xtl2._domainkey.referral.moneybase.com CNAME .
 xtl2._domainkey.rewards.dailypay.com CNAME .
 xtl2._domainkey.shareus.viktor-rolf.com CNAME .

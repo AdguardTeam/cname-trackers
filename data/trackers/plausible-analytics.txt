@@ -473,7 +473,6 @@
 ||stats.geobox.app^
 ||stats.gesund-vital-lebensfreude.com^
 ||stats.getdoks.org^
-||stats.getpickaxe.com^
 ||stats.getsponsy.com^
 ||stats.ghinda.com^
 ||stats.glassmountains.co.uk^

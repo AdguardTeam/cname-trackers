@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,7 +27,6 @@ cdn.asrop.xyz CNAME .
 cdn.bahswl.com CNAME .
 cdn.barlo.xyz CNAME .
 cdn.bhlph.com CNAME .
-cdn.bhnnop.com CNAME .
 cdn.bnmkl.com CNAME .
 cdn.borhaj.com CNAME .
 cdn.buram.xyz CNAME .
@@ -61,7 +60,6 @@ cdn.gecl.xyz CNAME .
 cdn.gelhp.com CNAME .
 cdn.genfpm.com CNAME .
 cdn.gitajwl.com CNAME .
-cdn.gocolow.com CNAME .
 cdn.gpcrn.com CNAME .
 cdn.hhjow.com CNAME .
 cdn.hhmako.cloud CNAME .
@@ -75,7 +73,6 @@ cdn.isgost.com CNAME .
 cdn.jandaqwe.com CNAME .
 cdn.jbtul.com CNAME .
 cdn.jhkfd.com CNAME .
-cdn.jhoncj.com CNAME .
 cdn.jitanvlw.com CNAME .
 cdn.jklpy.com CNAME .
 cdn.jkpes.com CNAME .
@@ -86,7 +83,6 @@ cdn.kfjhd.com CNAME .
 cdn.kizan.cloud CNAME .
 cdn.mafyak.com CNAME .
 cdn.masbpi.com CNAME .
-cdn.miluwo.com CNAME .
 cdn.mnhjk.com CNAME .
 cdn.mnhjkl.com CNAME .
 cdn.monhax.com CNAME .
@@ -103,7 +99,6 @@ cdn.orjfun.com CNAME .
 cdn.ovqds.com CNAME .
 cdn.paluinho.cloud CNAME .
 cdn.pctv.xyz CNAME .
-cdn.pfiuyt.com CNAME .
 cdn.piuyt.com CNAME .
 cdn.pllah.com CNAME .
 cdn.plmwsl.com CNAME .
@@ -116,7 +111,6 @@ cdn.qgerr.com CNAME .
 cdn.quagfa.com CNAME .
 cdn.rapolok.com CNAME .
 cdn.rausfml.com CNAME .
-cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
 cdn.roemoss.com CNAME .
 cdn.rofant.com CNAME .
@@ -741,7 +735,6 @@ octopus.hans-hornberger.de CNAME .
 octopus.janandsusan.io CNAME .
 octopus.katrinebrandborg.dk CNAME .
 opossum.roleup.com CNAME .
-opossum.stephanieharari.com CNAME .
 orangutan.equaliteam.com CNAME .
 orangutan.renovare.org CNAME .
 orca.overbold.co CNAME .
@@ -1091,6 +1084,7 @@ connected.county10.com CNAME .
 daily.thezebra.org CNAME .
 daily.yubanet.com CNAME .
 doppler.streetinteractive.com CNAME .
+experience.theassemblync.com CNAME .
 featured.premiermedia.net CNAME .
 floorforce.streetinteractive.com CNAME .
 gemtun.ctnewsjunkie.com CNAME .

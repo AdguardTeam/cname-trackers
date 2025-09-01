@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756108809367        ; Serial
+           1756713610178        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -35,7 +35,6 @@ asg.redfans.org CNAME .
 bat25.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.anonimayzer.site CNAME .
-c4n.arcjav.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.hotjavmovies.com CNAME .
 c4n.mypornovideos.com CNAME .
@@ -77,7 +76,6 @@ dfx.xtapes.porn CNAME .
 dr1.piczlabs.com CNAME .
 dr3.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
-excavajo6.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 ge6.getfto.com CNAME .

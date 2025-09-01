@@ -66,6 +66,7 @@ agility.cnvrm.com
 agility.nba.com
 agility.ncaa.com
 agility.scoobylive.com
+agility.scoobystagefright.com
 agility.spaceghost.com
 agility.staples-solutions.com
 agility.tbs.com
@@ -127,6 +128,7 @@ cmp.dieteren.be
 cmp.dieterencenters.be
 cmp.dieterengroup.com
 cmp.dieterenmobilitycompany.be
+cmp.mespneushiver.be
 cmp.microlino.be
 cmp.mijnwinterbanden.be
 cmp.mijnzenmobiliteit.be
