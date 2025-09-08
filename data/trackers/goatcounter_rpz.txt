@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -163,6 +163,7 @@ stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .
 stats.w0chp.radio CNAME .
+stats.wackomenace.co.uk CNAME .
 stats.whatacools.com CNAME .
 stats.ybbond.id CNAME .
 stats.zbahn.de CNAME .

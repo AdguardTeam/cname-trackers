@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -557,7 +557,6 @@ tr.info.phsolidaire-bpifrance.fr CNAME .
 tr.info.pret-bpifrance.fr CNAME .
 tr.info.pretflashtpe-bpifrance.fr CNAME .
 tr.info.projeo-finance.fr CNAME .
-tr.info.promoneuve.fr CNAME .
 tr.info.rebond-bpifrance.fr CNAME .
 tr.info.reunica.com CNAME .
 tr.info.rouen.aeroport.fr CNAME .
@@ -671,7 +670,6 @@ tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailing.opinionrelate.com CNAME .
-tr.mailing.promodeclic.fr CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
 tr.mailperf.ngt-services.com CNAME .
@@ -1234,7 +1232,6 @@ tr1.mperf.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
 tr2.mperf.com CNAME .
 tr4.mailperf.com CNAME .
-tr5.mailperf.com CNAME .
 tr5.mperf.com CNAME .
 tr6.mperf.com CNAME .
 tracking.allopneus.com CNAME .
@@ -1250,7 +1247,8 @@ f1.mperf.com CNAME .
 f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
-www.bfc-mp.caisse-epargne.fr CNAME .
 s.gemy.fr CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
+tr5.mailperf.com CNAME .
+www.bfc-mp.caisse-epargne.fr CNAME .

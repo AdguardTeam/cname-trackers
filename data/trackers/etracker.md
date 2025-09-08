@@ -32,6 +32,7 @@
 | click.easycosmetic.nl | customer.etracker.com |
 | connect.glowtox.de | customer.etracker.com |
 | connect.peter-bringts.de | customer.etracker.com |
+| content01.genius.tv | customer.etracker.com |
 | content02.genius.tv | customer.etracker.com |
 | content03.genius.tv | customer.etracker.com |
 | controlling.bartenbach.de | customer.etracker.com |
@@ -40,7 +41,6 @@
 | customer.growmart.de | customer.etracker.com |
 | data.diekuechedirekt.de | customer.etracker.com |
 | data.drhauschka.de | customer.etracker.com |
-| data.juhu.auto | customer.etracker.com |
 | data.moebel-style.de | customer.etracker.com |
 | data.runners-kitchen.com | customer.etracker.com |
 | data.soristudios.de | customer.etracker.com |
@@ -86,6 +86,7 @@
 | et.louis.pl | customer.etracker.com |
 | et.louis.se | customer.etracker.com |
 | et.majdic.at | customer.etracker.com |
+| et.nrwbank.de | customer.etracker.com |
 | et.ocean-pharma.de | customer.etracker.com |
 | et.pns24.de | customer.etracker.com |
 | et.schindlerparent.de | customer.etracker.com |
@@ -94,6 +95,8 @@
 | et.xenbyte.com | customer.etracker.com |
 | etd.hormonspezialisten.de | customer.etracker.com |
 | etd.kramer-online.com | customer.etracker.com |
+| etd.mannvital.de | customer.etracker.com |
+| etd.progesteron.de | customer.etracker.com |
 | etd.wackerneusongroup.com | customer.etracker.com |
 | etd.wechseljahre-verstehen.de | customer.etracker.com |
 | etd.weidemann.com | customer.etracker.com |
@@ -148,6 +151,7 @@
 | statistics.fruchtbarewelt.de | customer.etracker.com |
 | statistics.hagnauer.org | customer.etracker.com |
 | stats.die-bibel.de | customer.etracker.com |
+| stats.eliveshop.de | customer.etracker.com |
 | stats.folienmarkt.de | customer.etracker.com |
 | stats.hilscher.com | customer.etracker.com |
 | stats.inselloft-norderney.de | customer.etracker.com |

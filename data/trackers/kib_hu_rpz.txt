@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -51,6 +51,7 @@ adat.mindmegette.hu CNAME .
 adat.nemzetisport.hu CNAME .
 adat.nool.hu CNAME .
 adat.origo.hu CNAME .
+adat.petofinepe.hu CNAME .
 adat.radio1gong.hu CNAME .
 adat.retroradio.hu CNAME .
 adat.ripost.hu CNAME .

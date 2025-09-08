@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -125,7 +125,6 @@ a8.fishing-v.jp CNAME .
 a8.fit-theme.com CNAME .
 a8.foods.petokoto.com CNAME .
 a8.form.run CNAME .
-a8.fots.jp CNAME .
 a8.fpo.bz CNAME .
 a8.fracora.com CNAME .
 a8.ftcbeauty.com CNAME .
@@ -952,14 +951,12 @@ a8cv.foods-labo.com CNAME .
 a8cv.foresight.jp CNAME .
 a8cv.fortunes-lab.com CNAME .
 a8cv.forza-gran.com CNAME .
-a8cv.fots.jp CNAME .
 a8cv.fp-life.design CNAME .
 a8cv.fr-shinjuku.com CNAME .
 a8cv.frecious.jp CNAME .
 a8cv.free-max.com CNAME .
 a8cv.freelance-start.com CNAME .
 a8cv.fujiplus.jp CNAME .
-a8cv.fukuoka-factoring.net CNAME .
 a8cv.fundrop.jp CNAME .
 a8cv.futurefinder.net CNAME .
 a8cv.fxtrade.co.jp CNAME .
@@ -973,7 +970,6 @@ a8cv.global-dive.jp CNAME .
 a8cv.global-link-seminar.com CNAME .
 a8cv.glocalnet.jp CNAME .
 a8cv.glow-clinic.com CNAME .
-a8cv.goodlucknail.com CNAME .
 a8cv.goods-station.jp CNAME .
 a8cv.goqoo.me CNAME .
 a8cv.grace-grace.info CNAME .
@@ -1152,6 +1148,7 @@ a8cv.onlinestore.xmobile.ne.jp CNAME .
 a8cv.onlinezemi.com CNAME .
 a8cv.open-cage.com CNAME .
 a8cv.orbis.co.jp CNAME .
+a8cv.order.gmocloud.com CNAME .
 a8cv.orochoku.shop CNAME .
 a8cv.otakudathough.com CNAME .
 a8cv.otoriyose.site CNAME .
@@ -1524,7 +1521,6 @@ cv.loca-site.com CNAME .
 cv.mamaikuko.jp CNAME .
 cv.masteraxis.com CNAME .
 cv.meo.tryhatch.co.jp CNAME .
-cv.michiuru.jp CNAME .
 cv.mupla-ab3.com CNAME .
 cv.my-lancul.com CNAME .
 cv.nell.life CNAME .

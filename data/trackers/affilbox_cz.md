@@ -8,7 +8,6 @@
 
 * c2309.affilbox.cz
 * c4924.affilbox.cz
-* affiliate.elektronicke-vycvikove-obojky.com
 * affiliatesit.cz
 * c771.affilbox.cz
 * c4670.affilbox.cz
@@ -17,7 +16,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| affiliate.nejfotopasti.cz | affiliate.elektronicke-vycvikove-obojky.com |
 | login.affiliatesit.cz | affiliatesit.cz |
 | affil.myface.cz | c2309.affilbox.cz |
 | partner.topforteam.cz | c4670.affilbox.cz |
@@ -139,7 +137,6 @@
 | affiliate.bikeplan.org | cz.affilbox.cz |
 | affiliate.biocare.sk | cz.affilbox.cz |
 | affiliate.biooo.cz | cz.affilbox.cz |
-| affiliate.cannyapp.cz | cz.affilbox.cz |
 | affiliate.childhoodpotential.com | cz.affilbox.cz |
 | affiliate.chytryhonza.cz | cz.affilbox.cz |
 | affiliate.ckslniecko.sk | cz.affilbox.cz |
@@ -236,6 +233,7 @@
 | affiliate.nabytek-forliveshop.cz | cz.affilbox.cz |
 | affiliate.nakladatelstvi-riva.cz | cz.affilbox.cz |
 | affiliate.nalepime.cz | cz.affilbox.cz |
+| affiliate.nejfotopasti.cz | cz.affilbox.cz |
 | affiliate.nethost.cz | cz.affilbox.cz |
 | affiliate.nomind.cz | cz.affilbox.cz |
 | affiliate.novakabelka.cz | cz.affilbox.cz |
@@ -777,7 +775,6 @@
 | partner.vladimirekart.cz | cz.affilbox.cz |
 | partner.volne-reality.cz | cz.affilbox.cz |
 | partner.vunnie.cz | cz.affilbox.cz |
-| partner.waldos.eu | cz.affilbox.cz |
 | partner.webareal.cz | cz.affilbox.cz |
 | partner.webareal.sk | cz.affilbox.cz |
 | partner.webovkysusmevem.cz | cz.affilbox.cz |
@@ -906,6 +903,7 @@
 | partneri.salente.cz | cz.affilbox.cz |
 | partneri.samudia.cz | cz.affilbox.cz |
 | partneri.serafinbyliny.cz | cz.affilbox.cz |
+| partneri.sexshop.cz | cz.affilbox.cz |
 | partneri.silaprozivot.com | cz.affilbox.cz |
 | partneri.smyslovy-pruzkumnik.cz | cz.affilbox.cz |
 | partneri.somsamasebou.sk | cz.affilbox.cz |
@@ -942,6 +940,7 @@
 | partners.almaf.cz | cz.affilbox.cz |
 | partners.bonyacademy.com | cz.affilbox.cz |
 | partners.elitecoaching.cz | cz.affilbox.cz |
+| partners.gingles.co | cz.affilbox.cz |
 | partners.henrysmusic.com | cz.affilbox.cz |
 | partners.pocitarna.cz | cz.affilbox.cz |
 | partners.puravidashop.cz | cz.affilbox.cz |
@@ -991,7 +990,6 @@
 | spoluprace.mentorkalucie.cz | cz.affilbox.cz |
 | spoluprace.narozlucku.cz | cz.affilbox.cz |
 | spoluprace.nordictelecom.cz | cz.affilbox.cz |
-| spoluprace.obchod-kufry.cz | cz.affilbox.cz |
 | spoluprace.obchod-setrilek.cz | cz.affilbox.cz |
 | spoluprace.potravinyarax.cz | cz.affilbox.cz |
 | spoluprace.prostor8.cz | cz.affilbox.cz |

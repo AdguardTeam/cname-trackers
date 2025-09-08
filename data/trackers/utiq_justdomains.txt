@@ -361,6 +361,7 @@ utiq.sensacine.com
 utiq.serienjunkies.de
 utiq.sevilla.abc.es
 utiq.soester-anzeiger.de
+utiq.sofinco.fr
 utiq.speakup.es
 utiq.speisekarte.de
 utiq.spektrum.de

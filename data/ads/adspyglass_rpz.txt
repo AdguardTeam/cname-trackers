@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -55,6 +55,7 @@ $TTL 300
 a.1film.to CNAME .
 a.aahen.site CNAME .
 a.ablat.site CNAME .
+a.abres.xyz CNAME .
 a.acredo.space CNAME .
 a.aliposite.site CNAME .
 a.allopurinolzyloprim.shop CNAME .
@@ -69,11 +70,13 @@ a.babezunknown.com CNAME .
 a.bdsmz.tube CNAME .
 a.belom.site CNAME .
 a.benue.site CNAME .
+a.betterincome.cc CNAME .
 a.blati.site CNAME .
 a.bloblohub.com CNAME .
 a.boyjackpot.com CNAME .
 a.bramb.site CNAME .
 a.brani.site CNAME .
+a.breka.fit CNAME .
 a.brene.site CNAME .
 a.bronca.site CNAME .
 a.btrem.site CNAME .
@@ -81,6 +84,7 @@ a.celai.site CNAME .
 a.celod.site CNAME .
 a.cemir.site CNAME .
 a.cilon.site CNAME .
+a.cingo.sbs CNAME .
 a.clickintact.com CNAME .
 a.coinhub.wiki CNAME .
 a.craftbeerclub.com.ua CNAME .
@@ -96,6 +100,7 @@ a.dimao.site CNAME .
 a.dporntube.site CNAME .
 a.dramb.site CNAME .
 a.drem.site CNAME .
+a.dremp.xyz CNAME .
 a.dripe.site CNAME .
 a.dtrem.site CNAME .
 a.dumae.site CNAME .
@@ -395,6 +400,7 @@ bqwsxft.ekftei2weudt.info CNAME .
 brm68.xnxx-hindi.com CNAME .
 brutus.clicknplay.to CNAME .
 bssaly.com CNAME .
+bte29912.xyz CNAME .
 budlite.hubhubhub.name CNAME .
 bursa.conxxx.pro CNAME .
 buzvl.com CNAME .
@@ -425,7 +431,6 @@ cache.picxxxhub.com CNAME .
 careerjavgg124.fun CNAME .
 carpici.clicknplay.to CNAME .
 cba.cda-hd.co CNAME .
-cdfr.hot4k.org CNAME .
 cdn.007moms.com CNAME .
 cdn.2024jphatomenesys35.top CNAME .
 cdn.sdtraff.com CNAME .
@@ -544,7 +549,6 @@ faspc.hubhubhub.name CNAME .
 fc3ppv.xyz CNAME .
 file.iporngay.com CNAME .
 filterjavgg124.fun CNAME .
-firaapp.com CNAME .
 flower1266.fun CNAME .
 followjav182.fun CNAME .
 foorcdn.com CNAME .
@@ -735,6 +739,7 @@ mestierediscrivere.hubhubhub.name CNAME .
 metroiz.xyz CNAME .
 mficlyxgvfsp.cdnvideo3.com CNAME .
 mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
+milkway.lintlink.com CNAME .
 min.ogaku.site CNAME .
 mintaza.xyz CNAME .
 minus.akirashentai.com CNAME .
@@ -809,7 +814,6 @@ ok.forwank.com CNAME .
 ok.transhero.com CNAME .
 okoloss.com CNAME .
 one.iugbhsu.com CNAME .
-ontj.com CNAME .
 ooawsxkdrm.club CNAME .
 opopop.oplaksik.online CNAME .
 opus.sexyxxx.biz CNAME .
@@ -938,6 +942,7 @@ s.axioporn.online CNAME .
 s.bigpornhd.mom CNAME .
 s.bussyhunter.com CNAME .
 s.chooljang.shop CNAME .
+s.colliderporn.club CNAME .
 s.commissie.online CNAME .
 s.everydayporn.co CNAME .
 s.freeonlinegayporn.com CNAME .
@@ -953,7 +958,9 @@ s.oralblow.com CNAME .
 s.remonti.org CNAME .
 s.searforsear.online CNAME .
 s.septed.site CNAME .
+s.superporn.online CNAME .
 s.thepornfree.me CNAME .
+s.vipdube.com CNAME .
 s1.streaminporn.com CNAME .
 s1sentablya.teenfuckhd.com CNAME .
 s2.everydaygayporn.com CNAME .
@@ -994,7 +1001,6 @@ sk.thepornstar.com CNAME .
 sk.transhero.com CNAME .
 sk.trashreality.com CNAME .
 sk.zatube.com CNAME .
-ska.dezna.online CNAME .
 sketchjav182.fun CNAME .
 sky.ijhyugb.com CNAME .
 slit.lewd.rip CNAME .
@@ -1075,12 +1081,12 @@ unicorn.bloblohub.com CNAME .
 unifieddataconnect.click CNAME .
 unpin.hothomefuck.com CNAME .
 unpydqpidsfb.cdnvideo3.com CNAME .
-up2cdn.com CNAME .
 upperoh.hubhubhub.name CNAME .
 us-west-1.cdn1cloudflare.xyz CNAME .
 uvac.devcre.site CNAME .
 v.septads.store CNAME .
 v1.sellbuy.click CNAME .
+v83h6.gaymale.xxx CNAME .
 vboiutv.xyz CNAME .
 vd.7vid.net CNAME .
 vergo.ehrydnmdoe.com CNAME .
@@ -1101,7 +1107,6 @@ w.4kporn.xxx CNAME .
 w.detrols.site CNAME .
 w.freespeech.tube CNAME .
 w.love4porn.com CNAME .
-wa.astorix.online CNAME .
 weather.bloblohub.com CNAME .
 web18781.hubhubhub.name CNAME .
 websterro.com CNAME .
@@ -1127,6 +1132,7 @@ www.csicskalangos.com CNAME .
 www.dca-ems.hubhubhub.name CNAME .
 www.dude.pleasedonotblockme.com CNAME .
 www.enjoymediafile.hubhubhub.name CNAME .
+www.ethena.online CNAME .
 www.f.bloblohub.com CNAME .
 www.forwank.com CNAME .
 www.go.showmeyouradsnow.com CNAME .
@@ -1171,7 +1177,6 @@ x.xxxbule.com CNAME .
 x.xxxbule.tv CNAME .
 x.xxxbule2.com CNAME .
 x.xxxex.com CNAME .
-x.xxxxxx.name CNAME .
 x1-24.fin.ovh CNAME .
 x1-p25d.fin.ovh CNAME .
 x1cdn.fin.ovh CNAME .
@@ -1221,7 +1226,6 @@ video.cdnako.com CNAME .
 a.fantastixxx.co CNAME .
 a.mysalo.store CNAME .
 a.viralnewsbd.xyz CNAME .
-adservb.com CNAME .
 adservc.com CNAME .
 avview3431.fun CNAME .
 javabsence11.fun CNAME .

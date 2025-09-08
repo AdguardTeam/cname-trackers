@@ -14,7 +14,6 @@ cdn.asecv.xyz
 cdn.asopn.com
 cdn.asrop.xyz
 cdn.bahswl.com
-cdn.barlo.xyz
 cdn.bhlph.com
 cdn.bnmkl.com
 cdn.borhaj.com
@@ -31,7 +30,6 @@ cdn.danwosd.cloud
 cdn.dawplm.com
 cdn.decpo.xyz
 cdn.delutza.com
-cdn.drawx.xyz
 cdn.eecd.xyz
 cdn.elicaowl.com
 cdn.fajukc.com
@@ -574,7 +572,6 @@ kangaroo.kraenk.de
 kangaroo.triplightfantastic.com
 kaxlfq.testingwithtestcafe.com
 kingfisher.gedaly.com
-kingfisher.wishloom.com
 kite.cardneyestate.co.uk
 kite.devin.website
 kite.ibirthdayclub.com
@@ -640,7 +637,6 @@ lobster.justunderwear.com
 locust.ausrebellion.earth
 loon.analogjoe.com
 loon.davidalindahl.com
-loon.energizer.asia
 loon.jrmyfranck.com
 louse.demaree.space
 louse.seanconnolly.dev
@@ -684,7 +680,6 @@ mite.cotinga.io
 mite.tetrameros.com
 mole.bteam.co
 mole.dansksejlunion.dk
-mole.energizer.eu
 mole.getfamealy.com
 mole.gostartupco.com
 mollusk.working.actor
@@ -882,7 +877,6 @@ sheep.littleboat.digital
 sheep.peterfowler.com
 sheep.pixair-survey.com
 sheep.vaxstandby.com
-shrew.ryangjchandler.co.uk
 silkworm.bobsmechanicalrepairs.co.uk
 silkworm.boxmood.be
 silkworm.preventingsuicideinsussex.org

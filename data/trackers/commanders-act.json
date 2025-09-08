@@ -1,6 +1,5 @@
 {
   "configure.adlermode.com": "ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com",
-  "data.auchandirect.fr": "ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com",
   "data.decathlon.co.uk": "redirect342.tagcommander.com",
   "data.decathlon.es": "redirect341.tagcommander.com",
   "data.decathlon.fr": "redirect271.tagcommander.com",

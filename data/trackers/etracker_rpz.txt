@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,6 +30,7 @@ click.easycosmetic.de CNAME .
 click.easycosmetic.nl CNAME .
 connect.glowtox.de CNAME .
 connect.peter-bringts.de CNAME .
+content01.genius.tv CNAME .
 content02.genius.tv CNAME .
 content03.genius.tv CNAME .
 controlling.bartenbach.de CNAME .
@@ -38,7 +39,6 @@ ctrl.guenther.de CNAME .
 customer.growmart.de CNAME .
 data.diekuechedirekt.de CNAME .
 data.drhauschka.de CNAME .
-data.juhu.auto CNAME .
 data.moebel-style.de CNAME .
 data.runners-kitchen.com CNAME .
 data.soristudios.de CNAME .
@@ -84,6 +84,7 @@ et.louis.nl CNAME .
 et.louis.pl CNAME .
 et.louis.se CNAME .
 et.majdic.at CNAME .
+et.nrwbank.de CNAME .
 et.ocean-pharma.de CNAME .
 et.pns24.de CNAME .
 et.schindlerparent.de CNAME .
@@ -92,6 +93,8 @@ et.university-of-labour.de CNAME .
 et.xenbyte.com CNAME .
 etd.hormonspezialisten.de CNAME .
 etd.kramer-online.com CNAME .
+etd.mannvital.de CNAME .
+etd.progesteron.de CNAME .
 etd.wackerneusongroup.com CNAME .
 etd.wechseljahre-verstehen.de CNAME .
 etd.weidemann.com CNAME .
@@ -146,6 +149,7 @@ statistics.finkhof.de CNAME .
 statistics.fruchtbarewelt.de CNAME .
 statistics.hagnauer.org CNAME .
 stats.die-bibel.de CNAME .
+stats.eliveshop.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.hilscher.com CNAME .
 stats.inselloft-norderney.de CNAME .

@@ -381,6 +381,7 @@
 ||content.ofx.com^
 ||content.olympus.ao.com^
 ||content.orixbank.co.jp^
+||content.parcelaja.pt^
 ||content.partycity.ca^
 ||content.paycardsolutions.com^
 ||content.paydala.com^
@@ -748,6 +749,7 @@
 ||mbrstat.mywoodmen.org^
 ||meiodepagamento.campanhaporto.com.br^
 ||membership-device.secured-igaming-services.com^
+||meox.alliancebizsmart.com.my^
 ||meox.allianceonline.com.my^
 ||metrix.motosport.com^
 ||metrix.us.ovhcloud.com^
@@ -887,7 +889,6 @@
 ||qfp.intuit.com^
 ||qrimages.qatarairways.com^
 ||query.capitalontap.com^
-||query.capitalontap.es^
 ||r.hokodo.co^
 ||r7s.scl.swisscom.ch^
 ||ranzg.agribank.co.nz^
@@ -1303,6 +1304,7 @@
 ||wkvjee5b.paviliononline.io^
 ||wp.kroger.com^
 ||wptm.worldvision.org^
+||wptmpreprod.worldvision.org^
 ||ww3.fundingstream.com^
 ||ww3.marlincapitalsolutions.com^
 ||ww3.peacsolutions.com^

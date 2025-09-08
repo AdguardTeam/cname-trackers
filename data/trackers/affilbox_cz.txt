@@ -116,7 +116,6 @@
 ||affiliate.bikeplan.org^
 ||affiliate.biocare.sk^
 ||affiliate.biooo.cz^
-||affiliate.cannyapp.cz^
 ||affiliate.childhoodpotential.com^
 ||affiliate.chytryhonza.cz^
 ||affiliate.ckslniecko.sk^
@@ -213,6 +212,7 @@
 ||affiliate.nabytek-forliveshop.cz^
 ||affiliate.nakladatelstvi-riva.cz^
 ||affiliate.nalepime.cz^
+||affiliate.nejfotopasti.cz^
 ||affiliate.nethost.cz^
 ||affiliate.nomind.cz^
 ||affiliate.novakabelka.cz^
@@ -754,7 +754,6 @@
 ||partner.vladimirekart.cz^
 ||partner.volne-reality.cz^
 ||partner.vunnie.cz^
-||partner.waldos.eu^
 ||partner.webareal.cz^
 ||partner.webareal.sk^
 ||partner.webovkysusmevem.cz^
@@ -883,6 +882,7 @@
 ||partneri.salente.cz^
 ||partneri.samudia.cz^
 ||partneri.serafinbyliny.cz^
+||partneri.sexshop.cz^
 ||partneri.silaprozivot.com^
 ||partneri.smyslovy-pruzkumnik.cz^
 ||partneri.somsamasebou.sk^
@@ -919,6 +919,7 @@
 ||partners.almaf.cz^
 ||partners.bonyacademy.com^
 ||partners.elitecoaching.cz^
+||partners.gingles.co^
 ||partners.henrysmusic.com^
 ||partners.pocitarna.cz^
 ||partners.puravidashop.cz^
@@ -968,7 +969,6 @@
 ||spoluprace.mentorkalucie.cz^
 ||spoluprace.narozlucku.cz^
 ||spoluprace.nordictelecom.cz^
-||spoluprace.obchod-kufry.cz^
 ||spoluprace.obchod-setrilek.cz^
 ||spoluprace.potravinyarax.cz^
 ||spoluprace.prostor8.cz^
@@ -988,7 +988,6 @@
 ||www.partneri.zuzanaondrisova.sk^
 ||affil.myface.cz^
 ||affiliate.kulturistika.com^
-||affiliate.nejfotopasti.cz^
 ||login.affiliatesit.cz^
 ||partner.janapekna.cz^
 ||partner.topforteam.cz^

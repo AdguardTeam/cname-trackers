@@ -30,7 +30,6 @@
     * pp-public-p-use.piwik.pro
     * public-p-swe2.piwik.pro
     * rechtspraak.piwik.pro
-    * relayto.piwik.pro
     * rijksoverheid.piwik.pro
     * rvo.piwik.pro
     * sozialversicherung.piwik.pro
@@ -56,6 +55,7 @@
 | dap.amsterdam.nl | amsterdam.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
+| piwik.slotsparadise.com | betus.piwik.pro |
 | piwik.vegasaces.com | betus.piwik.pro |
 | piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
@@ -93,6 +93,7 @@
 | inzicht.cz.nl | pp-public-p-euw.piwik.pro |
 | p-pan.triodos.com | pp-public-p-euw.piwik.pro |
 | p-pan.triodos.com | pp-public-p-euw.piwik.pro |
+| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
@@ -139,7 +140,6 @@
 | mphdd.multipharma.be | public-p-swe2.piwik.pro |
 | stats.manz.at | public-p-swe2.piwik.pro |
 | statistiek.rechtspraak.nl | rechtspraak.piwik.pro |
-| a.relayto.com | relayto.piwik.pro |
 | statistiek.rijksoverheid.nl | rijksoverheid.piwik.pro |
 | statistiek.rvo.nl | rvo.piwik.pro |
 | analysis.sozialversicherung.at | sozialversicherung.piwik.pro |

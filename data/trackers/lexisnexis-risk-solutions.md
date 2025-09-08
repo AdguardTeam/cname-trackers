@@ -95,6 +95,7 @@
     * h-516jl8bt.online-metrix.net
     * h-5176c3mo.online-metrix.net
     * h-52whdrrv.online-metrix.net
+    * h-5g2d9cmc.online-metrix.net
     * h-5g3kt0kj.online-metrix.net
     * h-5h8i3ud8.online-metrix.net
     * h-5nex4pgp.online-metrix.net
@@ -124,6 +125,7 @@
     * h-6rj18la4.online-metrix.net
     * h-6t5eekm8.online-metrix.net
     * h-6v2be3y0.online-metrix.net
+    * h-6vmpe64m.online-metrix.net
     * h-6wp7e261.online-metrix.net
     * h-6wvzx05q.online-metrix.net
     * h-6xl38gst.online-metrix.net
@@ -1019,6 +1021,7 @@
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
 | tm.play.pl | h-5176c3mo.online-metrix.net |
 | content.paydala.com | h-52whdrrv.online-metrix.net |
+| meox.alliancebizsmart.com.my | h-5g2d9cmc.online-metrix.net |
 | page-format.chase.com | h-5g3kt0kj.online-metrix.net |
 | cfa.advisorchannel.com | h-5h8i3ud8.online-metrix.net |
 | cfa.fidelity.com | h-5h8i3ud8.online-metrix.net |
@@ -1069,6 +1072,7 @@
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | content.norwegianlab.com | h-6t5eekm8.online-metrix.net |
 | content.ip4y.com.br | h-6v2be3y0.online-metrix.net |
+| content.parcelaja.pt | h-6vmpe64m.online-metrix.net |
 | contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
 | pic.bankonline.ge | h-6wvzx05q.online-metrix.net |
 | content.cofidis.pt | h-6xl38gst.online-metrix.net |
@@ -1634,7 +1638,6 @@
 | cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
 | content.orixbank.co.jp | h-dy06hdpq.online-metrix.net |
 | query.capitalontap.com | h-dyj6k3h5.online-metrix.net |
-| query.capitalontap.es | h-dyj6k3h5.online-metrix.net |
 | security.vanquis.com | h-dzb1xpdc.online-metrix.net |
 | content.gap.co.jp | h-e04kqxof.online-metrix.net |
 | content.gap.com | h-e04kqxof.online-metrix.net |
@@ -1645,6 +1648,7 @@
 | fingerprint.fool.com | h-e0j3u9ji-fool.online-metrix.net |
 | shield.legalzoom.com | h-e0j3u9ji-legalzoom.online-metrix.net |
 | wptm.worldvision.org | h-e0j3u9ji-wptm.online-metrix.net |
+| wptmpreprod.worldvision.org | h-e0j3u9ji-wptm.online-metrix.net |
 | fdts.kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
 | src.ebay-us.com | h-ebay.online-metrix.net |
 | content.ecampus.com | h-ecampus.online-metrix.net |

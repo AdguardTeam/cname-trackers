@@ -158,6 +158,7 @@
     * vault.goatcounter.com
     * vpro.goatcounter.com
     * w0chp.goatcounter.com
+    * wackomenace.goatcounter.com
     * whatacools.goatcounter.com
     * ybbond.goatcounter.com
     * ygoprint.goatcounter.com
@@ -327,6 +328,7 @@
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
 | stats.w0chp.radio | w0chp.goatcounter.com |
+| stats.wackomenace.co.uk | wackomenace.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
 | science.ygoprint.org | ygoprint.goatcounter.com |

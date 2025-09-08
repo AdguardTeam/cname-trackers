@@ -104,6 +104,7 @@
 ||3181222.notifysrv.com^
 ||3181924.notifysrv.com^
 ||3181932.notifysrv.com^
+||3183551.notify6.com^
 ||3183803.notifysrv.com^
 ||3184333.notifysrv.com^
 ||3185883.notifysrv.com^
@@ -308,6 +309,7 @@
 ||3329496.notifysrv.com^
 ||3329724.notifysrv.com^
 ||3329726.notifysrv.com^
+||3334828.notify6.com^
 ||3335306.notifysrv.com^
 ||3338422.notifysrv.com^
 ||3338444.notify6.com^
@@ -450,6 +452,7 @@
 ||3451465.notifysrv.com^
 ||3453873.notifysrv.com^
 ||3454909.notifysrv.com^
+||3456415.notifysrv.com^
 ||3457083.notifysrv.com^
 ||3457693.notifysrv.com^
 ||3457959.notify6.com^
@@ -486,6 +489,7 @@
 ||3475341.notify6.com^
 ||3475349.notify6.com^
 ||3476453.notifysrv.com^
+||3477231.notify6.com^
 ||3477325.notify6.com^
 ||3478737.notifysrv.com^
 ||3483067.notifysrv.com^
@@ -510,6 +514,7 @@
 ||3505125.notify6.com^
 ||3505127.notify6.com^
 ||3505133.notify6.com^
+||3505135.notifysrv.com^
 ||3505137.notify6.com^
 ||3505139.notify6.com^
 ||3505141.notify6.com^
@@ -521,6 +526,7 @@
 ||3505963.notifysrv.com^
 ||3505973.notifysrv.com^
 ||3505983.notifysrv.com^
+||3505993.notifysrv.com^
 ||3506005.notify6.com^
 ||3508349.notifysrv.com^
 ||3508759.notifysrv.com^
@@ -550,9 +556,11 @@
 ||3538565.notify6.com^
 ||3538613.notifysrv.com^
 ||3539463.notifysrv.com^
+||3541095.notifysrv.com^
 ||3542163.notifysrv.com^
 ||3544557.notify6.com^
 ||3546.notify.optimizesrv.com^
+||3556651.notifysrv.com^
 ||3557559.notify6.com^
 ||3557821.notifysrv.com^
 ||3562667.notify6.com^
@@ -571,9 +579,12 @@
 ||3570737.notifysrv.com^
 ||3570741.notifysrv.com^
 ||3570789.notifysrv.com^
+||3572273.notify6.com^
+||3572273.notifysrv.com^
 ||3572277.notifysrv.com^
 ||3572281.notify6.com^
 ||3572281.notifysrv.com^
+||3572283.notifysrv.com^
 ||3572291.notify6.com^
 ||3572293.notify6.com^
 ||3572293.notifysrv.com^
@@ -598,6 +609,7 @@
 ||3587731.notifysrv.com^
 ||3587733.notify6.com^
 ||3587733.notifysrv.com^
+||3587739.notifysrv.com^
 ||3587799.notifysrv.com^
 ||3588.notify.optimizesrv.com^
 ||3588135.notify6.com^
@@ -605,10 +617,12 @@
 ||3588587.notify6.com^
 ||3588587.notifysrv.com^
 ||3588589.notify6.com^
+||3588591.notifysrv.com^
 ||3588593.notifysrv.com^
 ||3588597.notify6.com^
 ||3588597.notifysrv.com^
 ||3588599.notifysrv.com^
+||3589779.notify6.com^
 ||3590311.notify6.com^
 ||3590449.notify6.com^
 ||3591075.notify6.com^
@@ -620,6 +634,7 @@
 ||3595711.notify6.com^
 ||3595711.notifysrv.com^
 ||3597775.notifysrv.com^
+||3598457.notifysrv.com^
 ||3598461.notify6.com^
 ||3599607.notify6.com^
 ||3599607.notifysrv.com^
@@ -661,6 +676,7 @@
 ||3662557.notifysrv.com^
 ||3662563.notifysrv.com^
 ||3662593.notifysrv.com^
+||3662601.notifysrv.com^
 ||3662839.notify6.com^
 ||3662845.notify6.com^
 ||3662845.notifysrv.com^
@@ -1121,6 +1137,7 @@
 ||5617898.notify6.com^
 ||5680316.notify6.com^
 ||5690040.notify6.com^
+||5696038.notify6.com^
 ||577.notify.optimizesrv.com^
 ||583.notify.optimizesrv.com^
 ||589.notify.optimizesrv.com^
@@ -1149,8 +1166,6 @@
 ||a.8jfbt5va3r.com^
 ||a.adsession.com^
 ||a.advantageclicks.net^
-||a.allureanews.com^
-||a.asvsm.com^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
 ||a.bizonads-ssp.com^
@@ -1158,7 +1173,7 @@
 ||a.cant3am.com^
 ||a.crme7srv.com^
 ||a.eunow4u.com^
-||a.golhofer.com^
+||a.huklop.com^
 ||a.ma3ion.com^
 ||a.mx.notifysrv.com^
 ||a.n4m5x60.com^
@@ -1167,8 +1182,6 @@
 ||a.playa.to^
 ||a.q88z1s3.com^
 ||a.r8lnet.com^
-||a.rocoads.net^
-||a.santabrowser.com^
 ||a.tf4srv.com^
 ||a.traffic-gold.com^
 ||a.vws4brkfst.com^
@@ -1191,6 +1204,7 @@
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
 ||adrepository.opoxv.com^
+||ads.optimizesrv.com^
 ||ads.toroadvertising.com^
 ||adult.notifysrv.com^
 ||android.notifysrv.com^
@@ -1329,6 +1343,9 @@
 ||s.dsfvuh.com^
 ||s.dsgc99.com^
 ||s.dsgsyp.com^
+||s.dship2.com^
+||s.dsiyzy.com^
+||s.dsjo13.com^
 ||s.dsonb4.com^
 ||s.dsqcjk.com^
 ||s.dss1bi.com^
@@ -1394,6 +1411,7 @@
 ||s.eunow4u.com^
 ||s.exoqarys.com^
 ||s.exv6.com^
+||s.flirtads.net^
 ||s.golhofer.com^
 ||s.huispol.com^
 ||s.huklop.com^
@@ -1614,7 +1632,10 @@
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
 ||a.advertrek.com^
+||a.allureanews.com^
+||a.asvsm.com^
 ||a.etology.com^
-||a.huklop.com^
+||a.golhofer.com^
 ||a.ouzads.com^
-||ads.optimizesrv.com^
+||a.rocoads.net^
+||a.santabrowser.com^

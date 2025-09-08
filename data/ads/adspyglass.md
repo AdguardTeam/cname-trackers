@@ -12,7 +12,6 @@
 * 77980.bodis.com
 * 548260.parkingcrew.net
 * u52.aabdmn.com
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -62,6 +61,7 @@
 | a.1film.to | 0i0i0i0.com |
 | a.aahen.site | 0i0i0i0.com |
 | a.ablat.site | 0i0i0i0.com |
+| a.abres.xyz | 0i0i0i0.com |
 | a.acredo.space | 0i0i0i0.com |
 | a.aliposite.site | 0i0i0i0.com |
 | a.allopurinolzyloprim.shop | 0i0i0i0.com |
@@ -76,11 +76,13 @@
 | a.bdsmz.tube | 0i0i0i0.com |
 | a.belom.site | 0i0i0i0.com |
 | a.benue.site | 0i0i0i0.com |
+| a.betterincome.cc | 0i0i0i0.com |
 | a.blati.site | 0i0i0i0.com |
 | a.bloblohub.com | 0i0i0i0.com |
 | a.boyjackpot.com | 0i0i0i0.com |
 | a.bramb.site | 0i0i0i0.com |
 | a.brani.site | 0i0i0i0.com |
+| a.breka.fit | 0i0i0i0.com |
 | a.brene.site | 0i0i0i0.com |
 | a.bronca.site | 0i0i0i0.com |
 | a.btrem.site | 0i0i0i0.com |
@@ -88,6 +90,7 @@
 | a.celod.site | 0i0i0i0.com |
 | a.cemir.site | 0i0i0i0.com |
 | a.cilon.site | 0i0i0i0.com |
+| a.cingo.sbs | 0i0i0i0.com |
 | a.clickintact.com | 0i0i0i0.com |
 | a.coinhub.wiki | 0i0i0i0.com |
 | a.craftbeerclub.com.ua | 0i0i0i0.com |
@@ -103,6 +106,7 @@
 | a.dporntube.site | 0i0i0i0.com |
 | a.dramb.site | 0i0i0i0.com |
 | a.drem.site | 0i0i0i0.com |
+| a.dremp.xyz | 0i0i0i0.com |
 | a.dripe.site | 0i0i0i0.com |
 | a.dtrem.site | 0i0i0i0.com |
 | a.dumae.site | 0i0i0i0.com |
@@ -400,6 +404,7 @@
 | brm68.xnxx-hindi.com | 0i0i0i0.com |
 | brutus.clicknplay.to | 0i0i0i0.com |
 | bssaly.com | 0i0i0i0.com |
+| bte29912.xyz | 0i0i0i0.com |
 | budlite.hubhubhub.name | 0i0i0i0.com |
 | bursa.conxxx.pro | 0i0i0i0.com |
 | buzvl.com | 0i0i0i0.com |
@@ -430,7 +435,6 @@
 | careerjavgg124.fun | 0i0i0i0.com |
 | carpici.clicknplay.to | 0i0i0i0.com |
 | cba.cda-hd.co | 0i0i0i0.com |
-| cdfr.hot4k.org | 0i0i0i0.com |
 | cdn.007moms.com | 0i0i0i0.com |
 | cdn.2024jphatomenesys35.top | 0i0i0i0.com |
 | cdn.sdtraff.com | 0i0i0i0.com |
@@ -549,7 +553,6 @@
 | fc3ppv.xyz | 0i0i0i0.com |
 | file.iporngay.com | 0i0i0i0.com |
 | filterjavgg124.fun | 0i0i0i0.com |
-| firaapp.com | 0i0i0i0.com |
 | flower1266.fun | 0i0i0i0.com |
 | followjav182.fun | 0i0i0i0.com |
 | foorcdn.com | 0i0i0i0.com |
@@ -737,6 +740,7 @@
 | metroiz.xyz | 0i0i0i0.com |
 | mficlyxgvfsp.cdnvideo3.com | 0i0i0i0.com |
 | mgbkt9eckr.xn--mgbkt9eckr.net | 0i0i0i0.com |
+| milkway.lintlink.com | 0i0i0i0.com |
 | min.ogaku.site | 0i0i0i0.com |
 | mintaza.xyz | 0i0i0i0.com |
 | minus.akirashentai.com | 0i0i0i0.com |
@@ -811,7 +815,6 @@
 | ok.transhero.com | 0i0i0i0.com |
 | okoloss.com | 0i0i0i0.com |
 | one.iugbhsu.com | 0i0i0i0.com |
-| ontj.com | 0i0i0i0.com |
 | ooawsxkdrm.club | 0i0i0i0.com |
 | opopop.oplaksik.online | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
@@ -940,6 +943,7 @@
 | s.bigpornhd.mom | 0i0i0i0.com |
 | s.bussyhunter.com | 0i0i0i0.com |
 | s.chooljang.shop | 0i0i0i0.com |
+| s.colliderporn.club | 0i0i0i0.com |
 | s.commissie.online | 0i0i0i0.com |
 | s.everydayporn.co | 0i0i0i0.com |
 | s.freeonlinegayporn.com | 0i0i0i0.com |
@@ -955,7 +959,9 @@
 | s.remonti.org | 0i0i0i0.com |
 | s.searforsear.online | 0i0i0i0.com |
 | s.septed.site | 0i0i0i0.com |
+| s.superporn.online | 0i0i0i0.com |
 | s.thepornfree.me | 0i0i0i0.com |
+| s.vipdube.com | 0i0i0i0.com |
 | s1.streaminporn.com | 0i0i0i0.com |
 | s1sentablya.teenfuckhd.com | 0i0i0i0.com |
 | s2.everydaygayporn.com | 0i0i0i0.com |
@@ -996,7 +1002,6 @@
 | sk.transhero.com | 0i0i0i0.com |
 | sk.trashreality.com | 0i0i0i0.com |
 | sk.zatube.com | 0i0i0i0.com |
-| ska.dezna.online | 0i0i0i0.com |
 | sketchjav182.fun | 0i0i0i0.com |
 | sky.ijhyugb.com | 0i0i0i0.com |
 | slit.lewd.rip | 0i0i0i0.com |
@@ -1077,12 +1082,12 @@
 | unifieddataconnect.click | 0i0i0i0.com |
 | unpin.hothomefuck.com | 0i0i0i0.com |
 | unpydqpidsfb.cdnvideo3.com | 0i0i0i0.com |
-| up2cdn.com | 0i0i0i0.com |
 | upperoh.hubhubhub.name | 0i0i0i0.com |
 | us-west-1.cdn1cloudflare.xyz | 0i0i0i0.com |
 | uvac.devcre.site | 0i0i0i0.com |
 | v.septads.store | 0i0i0i0.com |
 | v1.sellbuy.click | 0i0i0i0.com |
+| v83h6.gaymale.xxx | 0i0i0i0.com |
 | vboiutv.xyz | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
 | vergo.ehrydnmdoe.com | 0i0i0i0.com |
@@ -1103,7 +1108,6 @@
 | w.detrols.site | 0i0i0i0.com |
 | w.freespeech.tube | 0i0i0i0.com |
 | w.love4porn.com | 0i0i0i0.com |
-| wa.astorix.online | 0i0i0i0.com |
 | weather.bloblohub.com | 0i0i0i0.com |
 | web18781.hubhubhub.name | 0i0i0i0.com |
 | websterro.com | 0i0i0i0.com |
@@ -1129,6 +1133,7 @@
 | www.dca-ems.hubhubhub.name | 0i0i0i0.com |
 | www.dude.pleasedonotblockme.com | 0i0i0i0.com |
 | www.enjoymediafile.hubhubhub.name | 0i0i0i0.com |
+| www.ethena.online | 0i0i0i0.com |
 | www.f.bloblohub.com | 0i0i0i0.com |
 | www.forwank.com | 0i0i0i0.com |
 | www.hazaarulo.com | 0i0i0i0.com |
@@ -1172,7 +1177,6 @@
 | x.xxxbule.tv | 0i0i0i0.com |
 | x.xxxbule2.com | 0i0i0i0.com |
 | x.xxxex.com | 0i0i0i0.com |
-| x.xxxxxx.name | 0i0i0i0.com |
 | x1-24.fin.ovh | 0i0i0i0.com |
 | x1-p25d.fin.ovh | 0i0i0i0.com |
 | x1cdn.fin.ovh | 0i0i0i0.com |
@@ -1213,7 +1217,6 @@
 | goallbest.com | 548260.parkingcrew.net |
 | a.mysalo.store | 77980.bodis.com |
 | a.viralnewsbd.xyz | 77980.bodis.com |
-| adservb.com | 77980.bodis.com |
 | adservc.com | 77980.bodis.com |
 | avview3431.fun | 77980.bodis.com |
 | javabsence11.fun | 77980.bodis.com |
@@ -1233,7 +1236,6 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | now.plsgotoasg.com | u52.aabdmn.com |
-| ontj.com | u53.hypnorat.com |
 | hotadultcontent.com | u57.muzikguide.com |
 | hotadultvids.com | u57.muzikguide.com |
 | hotxxxcontent.com | u57.muzikguide.com |

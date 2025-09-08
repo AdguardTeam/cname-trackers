@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -744,6 +744,7 @@ data-56b1bc19e7.autobild.de CNAME .
 data-56b1bc19e7.clever-tanken.de CNAME .
 data-56def2f6bc.vol.at CNAME .
 data-572c83e731.motorsport-total.com CNAME .
+data-57b3173bb4.wallstreet-online.de CNAME .
 data-57e4acce5f.oe24radio.at CNAME .
 data-57ee451953.apps.iocnt.de CNAME .
 data-583b460b43.edison.media CNAME .
@@ -1214,6 +1215,7 @@ data-8fc521096f.monat.at CNAME .
 data-900b4339a4.page-online.de CNAME .
 data-90725c51d9.gn-online.de CNAME .
 data-9090cf2efa.impulse.de CNAME .
+data-90d810b1e7.bbradio.de CNAME .
 data-9118f4b584.apps.iocnt.de CNAME .
 data-917f6e673e.apps.iocnt.de CNAME .
 data-919542b810.kma-online.de CNAME .
@@ -1316,6 +1318,7 @@ data-9dc3fcd9b4.focus-gesundheit.de CNAME .
 data-9dc3fcd9b4.focus.de CNAME .
 data-9dc3fcd9b4.mylife.de CNAME .
 data-9dc3fcd9b4.netdoktor.de CNAME .
+data-9dc3fcd9b4.netmoms.de CNAME .
 data-9df22f196a.motor1.com CNAME .
 data-9e1c1a7a5e.kurier.de CNAME .
 data-9e29b39c0b.apps.iocnt.de CNAME .

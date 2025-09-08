@@ -98,8 +98,10 @@
 | 0.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 0.www.rogerouch.com | ad-shield.cc |
 | 0.www.rundowndeep.com | ad-shield.cc |
+| 0.www.secretvelvety.com | ad-shield.cc |
 | 0.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 0.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 0.www.softlyacrossany.com | ad-shield.cc |
 | 0.www.squeakyscofffar.com | ad-shield.cc |
 | 0.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 0.www.unfortunatelyafter.com | ad-shield.cc |
@@ -107,6 +109,7 @@
 | 0.www.uprightfondly.com | ad-shield.cc |
 | 0.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 0.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 0.www.whoseabacus.com | ad-shield.cc |
 | 0.www.worthequally.com | ad-shield.cc |
 | 0.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 0.www.yippeewhenever.com | ad-shield.cc |
@@ -204,8 +207,10 @@
 | 1.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 1.www.rogerouch.com | ad-shield.cc |
 | 1.www.rundowndeep.com | ad-shield.cc |
+| 1.www.secretvelvety.com | ad-shield.cc |
 | 1.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 1.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 1.www.softlyacrossany.com | ad-shield.cc |
 | 1.www.squeakyscofffar.com | ad-shield.cc |
 | 1.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 1.www.unfortunatelyafter.com | ad-shield.cc |
@@ -214,6 +219,7 @@
 | 1.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 1.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
 | 1.www.weightabsenteekmonthly.com | ad-shield.cc |
+| 1.www.whoseabacus.com | ad-shield.cc |
 | 1.www.worthequally.com | ad-shield.cc |
 | 1.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 1.www.yippeewhenever.com | ad-shield.cc |
@@ -310,8 +316,10 @@
 | 2.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 2.www.rogerouch.com | ad-shield.cc |
 | 2.www.rundowndeep.com | ad-shield.cc |
+| 2.www.secretvelvety.com | ad-shield.cc |
 | 2.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 2.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 2.www.softlyacrossany.com | ad-shield.cc |
 | 2.www.squeakyscofffar.com | ad-shield.cc |
 | 2.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 2.www.unfortunatelyafter.com | ad-shield.cc |
@@ -319,6 +327,7 @@
 | 2.www.uprightfondly.com | ad-shield.cc |
 | 2.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 2.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 2.www.whoseabacus.com | ad-shield.cc |
 | 2.www.worthequally.com | ad-shield.cc |
 | 2.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 2.www.yippeewhenever.com | ad-shield.cc |
@@ -414,8 +423,10 @@
 | 3.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 3.www.rogerouch.com | ad-shield.cc |
 | 3.www.rundowndeep.com | ad-shield.cc |
+| 3.www.secretvelvety.com | ad-shield.cc |
 | 3.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 3.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 3.www.softlyacrossany.com | ad-shield.cc |
 | 3.www.squeakyscofffar.com | ad-shield.cc |
 | 3.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 3.www.unfortunatelyafter.com | ad-shield.cc |
@@ -423,6 +434,7 @@
 | 3.www.uprightfondly.com | ad-shield.cc |
 | 3.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 3.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 3.www.whoseabacus.com | ad-shield.cc |
 | 3.www.worthequally.com | ad-shield.cc |
 | 3.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 3.www.yippeewhenever.com | ad-shield.cc |
@@ -521,8 +533,10 @@
 | 4.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 4.www.rogerouch.com | ad-shield.cc |
 | 4.www.rundowndeep.com | ad-shield.cc |
+| 4.www.secretvelvety.com | ad-shield.cc |
 | 4.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 4.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 4.www.softlyacrossany.com | ad-shield.cc |
 | 4.www.squeakyscofffar.com | ad-shield.cc |
 | 4.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 4.www.unfortunatelyafter.com | ad-shield.cc |
@@ -530,6 +544,7 @@
 | 4.www.uprightfondly.com | ad-shield.cc |
 | 4.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 4.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 4.www.whoseabacus.com | ad-shield.cc |
 | 4.www.worthequally.com | ad-shield.cc |
 | 4.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 4.www.yippeewhenever.com | ad-shield.cc |
@@ -626,8 +641,10 @@
 | 5.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 5.www.rogerouch.com | ad-shield.cc |
 | 5.www.rundowndeep.com | ad-shield.cc |
+| 5.www.secretvelvety.com | ad-shield.cc |
 | 5.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 5.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 5.www.softlyacrossany.com | ad-shield.cc |
 | 5.www.squeakyscofffar.com | ad-shield.cc |
 | 5.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 5.www.unfortunatelyafter.com | ad-shield.cc |
@@ -635,6 +652,7 @@
 | 5.www.uprightfondly.com | ad-shield.cc |
 | 5.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 5.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 5.www.whoseabacus.com | ad-shield.cc |
 | 5.www.worthequally.com | ad-shield.cc |
 | 5.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 5.www.yippeewhenever.com | ad-shield.cc |
@@ -730,8 +748,10 @@
 | 6.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 6.www.rogerouch.com | ad-shield.cc |
 | 6.www.rundowndeep.com | ad-shield.cc |
+| 6.www.secretvelvety.com | ad-shield.cc |
 | 6.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 6.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 6.www.softlyacrossany.com | ad-shield.cc |
 | 6.www.squeakyscofffar.com | ad-shield.cc |
 | 6.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 6.www.unfortunatelyafter.com | ad-shield.cc |
@@ -739,6 +759,7 @@
 | 6.www.uprightfondly.com | ad-shield.cc |
 | 6.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 6.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 6.www.whoseabacus.com | ad-shield.cc |
 | 6.www.worthequally.com | ad-shield.cc |
 | 6.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 6.www.yippeewhenever.com | ad-shield.cc |
@@ -833,8 +854,10 @@
 | 7.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 7.www.rogerouch.com | ad-shield.cc |
 | 7.www.rundowndeep.com | ad-shield.cc |
+| 7.www.secretvelvety.com | ad-shield.cc |
 | 7.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 7.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 7.www.softlyacrossany.com | ad-shield.cc |
 | 7.www.squeakyscofffar.com | ad-shield.cc |
 | 7.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 7.www.unfortunatelyafter.com | ad-shield.cc |
@@ -842,6 +865,7 @@
 | 7.www.uprightfondly.com | ad-shield.cc |
 | 7.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 7.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 7.www.whoseabacus.com | ad-shield.cc |
 | 7.www.worthequally.com | ad-shield.cc |
 | 7.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 7.www.yippeewhenever.com | ad-shield.cc |
@@ -938,8 +962,10 @@
 | 8.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 8.www.rogerouch.com | ad-shield.cc |
 | 8.www.rundowndeep.com | ad-shield.cc |
+| 8.www.secretvelvety.com | ad-shield.cc |
 | 8.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 8.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 8.www.softlyacrossany.com | ad-shield.cc |
 | 8.www.squeakyscofffar.com | ad-shield.cc |
 | 8.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 8.www.unfortunatelyafter.com | ad-shield.cc |
@@ -947,6 +973,7 @@
 | 8.www.uprightfondly.com | ad-shield.cc |
 | 8.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 8.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 8.www.whoseabacus.com | ad-shield.cc |
 | 8.www.worthequally.com | ad-shield.cc |
 | 8.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 8.www.yippeewhenever.com | ad-shield.cc |
@@ -1041,8 +1068,10 @@
 | 9.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 9.www.rogerouch.com | ad-shield.cc |
 | 9.www.rundowndeep.com | ad-shield.cc |
+| 9.www.secretvelvety.com | ad-shield.cc |
 | 9.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 9.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 9.www.softlyacrossany.com | ad-shield.cc |
 | 9.www.squeakyscofffar.com | ad-shield.cc |
 | 9.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 9.www.unfortunatelyafter.com | ad-shield.cc |
@@ -1050,6 +1079,7 @@
 | 9.www.uprightfondly.com | ad-shield.cc |
 | 9.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 9.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| 9.www.whoseabacus.com | ad-shield.cc |
 | 9.www.worthequally.com | ad-shield.cc |
 | 9.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 9.www.yippeewhenever.com | ad-shield.cc |
@@ -1132,6 +1162,7 @@
 | www.49766251.xyz | ad-shield.cc |
 | www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | www.4tuswl47353p4wl8lsk.xyz | ad-shield.cc |
+| www.50330472.xyz | ad-shield.cc |
 | www.50873vmk3263-7sk.xyz | ad-shield.cc |
 | www.53469662.xyz | ad-shield.cc |
 | www.54199287.xyz | ad-shield.cc |
@@ -1225,9 +1256,11 @@
 | www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | www.rogerouch.com | ad-shield.cc |
 | www.rundowndeep.com | ad-shield.cc |
+| www.secretvelvety.com | ad-shield.cc |
 | www.skylinepasttomorrow.com | ad-shield.cc |
 | www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| www.softlyacrossany.com | ad-shield.cc |
 | www.squeakyscofffar.com | ad-shield.cc |
 | www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | www.u46r7owvv48861t67m0q388.xyz | ad-shield.cc |
@@ -1237,6 +1270,7 @@
 | www.us7-snkvsrwk1k1p2.xyz | ad-shield.cc |
 | www.uselesslyswiftprovided.com | ad-shield.cc |
 | www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
+| www.whoseabacus.com | ad-shield.cc |
 | www.worthequally.com | ad-shield.cc |
 | www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | www.yippeewhenever.com | ad-shield.cc |

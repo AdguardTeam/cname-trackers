@@ -19,6 +19,7 @@ click.easycosmetic.de
 click.easycosmetic.nl
 connect.glowtox.de
 connect.peter-bringts.de
+content01.genius.tv
 content02.genius.tv
 content03.genius.tv
 controlling.bartenbach.de
@@ -27,7 +28,6 @@ ctrl.guenther.de
 customer.growmart.de
 data.diekuechedirekt.de
 data.drhauschka.de
-data.juhu.auto
 data.moebel-style.de
 data.runners-kitchen.com
 data.soristudios.de
@@ -73,6 +73,7 @@ et.louis.nl
 et.louis.pl
 et.louis.se
 et.majdic.at
+et.nrwbank.de
 et.ocean-pharma.de
 et.pns24.de
 et.schindlerparent.de
@@ -81,6 +82,8 @@ et.university-of-labour.de
 et.xenbyte.com
 etd.hormonspezialisten.de
 etd.kramer-online.com
+etd.mannvital.de
+etd.progesteron.de
 etd.wackerneusongroup.com
 etd.wechseljahre-verstehen.de
 etd.weidemann.com
@@ -135,6 +138,7 @@ statistics.finkhof.de
 statistics.fruchtbarewelt.de
 statistics.hagnauer.org
 stats.die-bibel.de
+stats.eliveshop.de
 stats.folienmarkt.de
 stats.hilscher.com
 stats.inselloft-norderney.de

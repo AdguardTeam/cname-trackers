@@ -114,7 +114,6 @@ a8.fishing-v.jp
 a8.fit-theme.com
 a8.foods.petokoto.com
 a8.form.run
-a8.fots.jp
 a8.fpo.bz
 a8.fracora.com
 a8.ftcbeauty.com
@@ -941,14 +940,12 @@ a8cv.foods-labo.com
 a8cv.foresight.jp
 a8cv.fortunes-lab.com
 a8cv.forza-gran.com
-a8cv.fots.jp
 a8cv.fp-life.design
 a8cv.fr-shinjuku.com
 a8cv.frecious.jp
 a8cv.free-max.com
 a8cv.freelance-start.com
 a8cv.fujiplus.jp
-a8cv.fukuoka-factoring.net
 a8cv.fundrop.jp
 a8cv.futurefinder.net
 a8cv.fxtrade.co.jp
@@ -962,7 +959,6 @@ a8cv.global-dive.jp
 a8cv.global-link-seminar.com
 a8cv.glocalnet.jp
 a8cv.glow-clinic.com
-a8cv.goodlucknail.com
 a8cv.goods-station.jp
 a8cv.goqoo.me
 a8cv.grace-grace.info
@@ -1141,6 +1137,7 @@ a8cv.onlinestore.xmobile.ne.jp
 a8cv.onlinezemi.com
 a8cv.open-cage.com
 a8cv.orbis.co.jp
+a8cv.order.gmocloud.com
 a8cv.orochoku.shop
 a8cv.otakudathough.com
 a8cv.otoriyose.site
@@ -1513,7 +1510,6 @@ cv.loca-site.com
 cv.mamaikuko.jp
 cv.masteraxis.com
 cv.meo.tryhatch.co.jp
-cv.michiuru.jp
 cv.mupla-ab3.com
 cv.my-lancul.com
 cv.nell.life

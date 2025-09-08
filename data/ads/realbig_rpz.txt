@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -78,7 +78,6 @@ rdv.naruto-base.tv CNAME .
 real.dvanadva.ru CNAME .
 rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .
-sub.fastgnmx.com CNAME .
 test.truenat.bid CNAME .
 truenat.bid CNAME .
 tryonline.bid CNAME .
@@ -87,17 +86,14 @@ vi.zolivexo.store CNAME .
 workerhome.click CNAME .
 www.1astrjasr.ru CNAME .
 www.5738.ru CNAME .
-www.allworldinfo4.ru CNAME .
-www.allworldinfo4.store CNAME .
+www.androidstores.ru CNAME .
 www.aviator-game.info CNAME .
 www.eshii.ru CNAME .
 www.fasder12.ru CNAME .
 www.fasder12.store CNAME .
 www.gorrio.ru CNAME .
 www.horpush.ru CNAME .
-www.infocentro.ru CNAME .
 www.mojwprb.ru CNAME .
-www.newrrb.bid CNAME .
 www.orbitnotify.com CNAME .
 www.pc-download.ru CNAME .
 www.prbcdn.online CNAME .

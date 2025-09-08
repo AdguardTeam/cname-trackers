@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -392,6 +392,7 @@ content.nycers.org CNAME .
 content.ofx.com CNAME .
 content.olympus.ao.com CNAME .
 content.orixbank.co.jp CNAME .
+content.parcelaja.pt CNAME .
 content.partycity.ca CNAME .
 content.paycardsolutions.com CNAME .
 content.paydala.com CNAME .
@@ -759,6 +760,7 @@ matrix.cpg.org CNAME .
 mbrstat.mywoodmen.org CNAME .
 meiodepagamento.campanhaporto.com.br CNAME .
 membership-device.secured-igaming-services.com CNAME .
+meox.alliancebizsmart.com.my CNAME .
 meox.allianceonline.com.my CNAME .
 metrix.motosport.com CNAME .
 metrix.us.ovhcloud.com CNAME .
@@ -898,7 +900,6 @@ public-check3-at.test.tiaa.org CNAME .
 qfp.intuit.com CNAME .
 qrimages.qatarairways.com CNAME .
 query.capitalontap.com CNAME .
-query.capitalontap.es CNAME .
 r.hokodo.co CNAME .
 r7s.scl.swisscom.ch CNAME .
 ranzg.agribank.co.nz CNAME .
@@ -1314,6 +1315,7 @@ wkvjee5b.globalpay.com CNAME .
 wkvjee5b.paviliononline.io CNAME .
 wp.kroger.com CNAME .
 wptm.worldvision.org CNAME .
+wptmpreprod.worldvision.org CNAME .
 ww3.fundingstream.com CNAME .
 ww3.marlincapitalsolutions.com CNAME .
 ww3.peacsolutions.com CNAME .

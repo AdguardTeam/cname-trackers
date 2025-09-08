@@ -546,7 +546,6 @@ tr.info.phsolidaire-bpifrance.fr
 tr.info.pret-bpifrance.fr
 tr.info.pretflashtpe-bpifrance.fr
 tr.info.projeo-finance.fr
-tr.info.promoneuve.fr
 tr.info.rebond-bpifrance.fr
 tr.info.reunica.com
 tr.info.rouen.aeroport.fr
@@ -660,7 +659,6 @@ tr.mailing.heliades.fr
 tr.mailing.laredoute.fr
 tr.mailing.lvmhappening.com
 tr.mailing.opinionrelate.com
-tr.mailing.promodeclic.fr
 tr.mailmp.macif.net
 tr.mailperf.institut-de-la-protection-sociale.fr
 tr.mailperf.ngt-services.com
@@ -1223,7 +1221,6 @@ tr1.mperf.com
 tr1.peugeot-ipsos.com
 tr2.mperf.com
 tr4.mailperf.com
-tr5.mailperf.com
 tr5.mperf.com
 tr6.mperf.com
 tracking.allopneus.com
@@ -1239,7 +1236,8 @@ f1.mperf.com
 f1.np6.com
 infojeux.paris.fr
 lbv5.mperf.com
-www.bfc-mp.caisse-epargne.fr
 s.gemy.fr
 www.lgch.mp
 tr.communication.jardindacclimatation.fr
+tr5.mailperf.com
+www.bfc-mp.caisse-epargne.fr

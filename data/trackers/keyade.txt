@@ -2,7 +2,6 @@
 ! Company name: Keyade
 ||click-ext.anxa.com^
 ||clk.ubi.com^
-||k.brandalley.be^
 ||k.brandalley.es^
 ||k.brandalley.fr^
 ||k.flynas.com^

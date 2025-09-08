@@ -7,14 +7,20 @@
 ### Rarely active trackers
 
 * form.bp01.net
+* f1.mailperf.com
+* f1.mailperformance.com
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
+* tr1.bp06.net
+* lbv5.mperf.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
+| f1.mailperformance.com | f1.mailperf.com |
+| lbv5.mperf.com | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
@@ -23,9 +29,10 @@
 | f1.np6.com | form.bp01.net |
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
-| www.bfc-mp.caisse-epargne.fr | form.bp01.net |
+| www.bfc-mp.caisse-epargne.fr | lbv5.mperf.com |
 | s.gemy.fr | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
+| tr5.mailperf.com | tr1.bp06.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
@@ -572,7 +579,6 @@
 | tr.info.pret-bpifrance.fr | tracking.bp01.net |
 | tr.info.pretflashtpe-bpifrance.fr | tracking.bp01.net |
 | tr.info.projeo-finance.fr | tracking.bp01.net |
-| tr.info.promoneuve.fr | tracking.bp01.net |
 | tr.info.rebond-bpifrance.fr | tracking.bp01.net |
 | tr.info.reunica.com | tracking.bp01.net |
 | tr.info.rouen.aeroport.fr | tracking.bp01.net |
@@ -686,7 +692,6 @@
 | tr.mailing.laredoute.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
 | tr.mailing.opinionrelate.com | tracking.bp01.net |
-| tr.mailing.promodeclic.fr | tracking.bp01.net |
 | tr.mailmp.macif.net | tracking.bp01.net |
 | tr.mailperf.institut-de-la-protection-sociale.fr | tracking.bp01.net |
 | tr.mailperf.ngt-services.com | tracking.bp01.net |
@@ -1249,7 +1254,6 @@
 | tr1.peugeot-ipsos.com | tracking.bp01.net |
 | tr2.mperf.com | tracking.bp01.net |
 | tr4.mailperf.com | tracking.bp01.net |
-| tr5.mailperf.com | tracking.bp01.net |
 | tr5.mperf.com | tracking.bp01.net |
 | tr6.mperf.com | tracking.bp01.net |
 | tracking.allopneus.com | tracking.bp01.net |

@@ -152,6 +152,7 @@ stats.transactional.blog
 stats.umcconnell.net
 stats.uygar.sh
 stats.w0chp.radio
+stats.wackomenace.co.uk
 stats.whatacools.com
 stats.ybbond.id
 stats.zbahn.de

@@ -44,6 +44,7 @@
 ||l.thd-web.jp^
 ||l.ti-da.net^
 ||l.toushiikusei.net^
+||l.toyamaru.com^
 ||l.tsukuba.ch^
 ||l.vietnhat.tv^
 ||l.yoka-yoka.jp^

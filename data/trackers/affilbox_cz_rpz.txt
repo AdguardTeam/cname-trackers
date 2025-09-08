@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1756713610178        ; Serial
+           1757318409523        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -127,7 +127,6 @@ affiliate.batteryshop.cz CNAME .
 affiliate.bikeplan.org CNAME .
 affiliate.biocare.sk CNAME .
 affiliate.biooo.cz CNAME .
-affiliate.cannyapp.cz CNAME .
 affiliate.childhoodpotential.com CNAME .
 affiliate.chytryhonza.cz CNAME .
 affiliate.ckslniecko.sk CNAME .
@@ -224,6 +223,7 @@ affiliate.montessorikurz.cz CNAME .
 affiliate.nabytek-forliveshop.cz CNAME .
 affiliate.nakladatelstvi-riva.cz CNAME .
 affiliate.nalepime.cz CNAME .
+affiliate.nejfotopasti.cz CNAME .
 affiliate.nethost.cz CNAME .
 affiliate.nomind.cz CNAME .
 affiliate.novakabelka.cz CNAME .
@@ -765,7 +765,6 @@ partner.vivabeauty.cz CNAME .
 partner.vladimirekart.cz CNAME .
 partner.volne-reality.cz CNAME .
 partner.vunnie.cz CNAME .
-partner.waldos.eu CNAME .
 partner.webareal.cz CNAME .
 partner.webareal.sk CNAME .
 partner.webovkysusmevem.cz CNAME .
@@ -894,6 +893,7 @@ partneri.rondainvest.cz CNAME .
 partneri.salente.cz CNAME .
 partneri.samudia.cz CNAME .
 partneri.serafinbyliny.cz CNAME .
+partneri.sexshop.cz CNAME .
 partneri.silaprozivot.com CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .
 partneri.somsamasebou.sk CNAME .
@@ -930,6 +930,7 @@ partneri.zhubnichytre.cz CNAME .
 partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
 partners.elitecoaching.cz CNAME .
+partners.gingles.co CNAME .
 partners.henrysmusic.com CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
@@ -979,7 +980,6 @@ spoluprace.megalu.cz CNAME .
 spoluprace.mentorkalucie.cz CNAME .
 spoluprace.narozlucku.cz CNAME .
 spoluprace.nordictelecom.cz CNAME .
-spoluprace.obchod-kufry.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
 spoluprace.prostor8.cz CNAME .
@@ -999,7 +999,6 @@ www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .
 affiliate.kulturistika.com CNAME .
-affiliate.nejfotopasti.cz CNAME .
 login.affiliatesit.cz CNAME .
 partner.janapekna.cz CNAME .
 partner.topforteam.cz CNAME .

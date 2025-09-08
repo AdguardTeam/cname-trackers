@@ -40,6 +40,7 @@
 ||adat.nemzetisport.hu^
 ||adat.nool.hu^
 ||adat.origo.hu^
+||adat.petofinepe.hu^
 ||adat.radio1gong.hu^
 ||adat.retroradio.hu^
 ||adat.ripost.hu^

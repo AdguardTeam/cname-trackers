@@ -79,6 +79,7 @@
 ||tk.assurland.com^
 ||tk.assurlandpro.com^
 ||tk.atol.fr^
+||tk.billieblush.com^
 ||tk.biovea.com^
 ||tk.blancheporte.be^
 ||tk.blancheporte.fr^

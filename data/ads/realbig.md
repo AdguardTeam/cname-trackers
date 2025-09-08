@@ -75,7 +75,6 @@
 | real.dvanadva.ru | park.realbig.online |
 | rott.mazlspqnn.ru | park.realbig.online |
 | servw.bid | park.realbig.online |
-| sub.fastgnmx.com | park.realbig.online |
 | test.truenat.bid | park.realbig.online |
 | truenat.bid | park.realbig.online |
 | tryonline.bid | park.realbig.online |
@@ -84,17 +83,14 @@
 | workerhome.click | park.realbig.online |
 | www.1astrjasr.ru | park.realbig.online |
 | www.5738.ru | park.realbig.online |
-| www.allworldinfo4.ru | park.realbig.online |
-| www.allworldinfo4.store | park.realbig.online |
+| www.androidstores.ru | park.realbig.online |
 | www.aviator-game.info | park.realbig.online |
 | www.eshii.ru | park.realbig.online |
 | www.fasder12.ru | park.realbig.online |
 | www.fasder12.store | park.realbig.online |
 | www.gorrio.ru | park.realbig.online |
 | www.horpush.ru | park.realbig.online |
-| www.infocentro.ru | park.realbig.online |
 | www.mojwprb.ru | park.realbig.online |
-| www.newrrb.bid | park.realbig.online |
 | www.orbitnotify.com | park.realbig.online |
 | www.pc-download.ru | park.realbig.online |
 | www.prbcdn.online | park.realbig.online |
