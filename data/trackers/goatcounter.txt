@@ -5,10 +5,12 @@
 ||analy.rusz.space^
 ||analytics.applycreatures.com^
 ||analytics.astuto.io^
+||analytics.brandsistency.com^
 ||analytics.code.dccouncil.gov^
 ||analytics.code.dccouncil.us^
 ||analytics.codes.baltimorecity.gov^
 ||analytics.demo.plateau.ng.open.law^
+||analytics.digitaleyes.ai^
 ||analytics.kubasta.net^
 ||analytics.law.cityofsanmateo.org^
 ||analytics.law.lco-nsn.gov^

@@ -14,6 +14,7 @@ analytics.wavelz.com
 analytics.webanalytics.op.europa.eu
 analytics.witglobal.net
 dap.amsterdam.nl
+dnsbl.test.tag.aumago.com
 epiphany.masterworks.digital
 fpt.fjordtravel.no
 gmn.gloo.com

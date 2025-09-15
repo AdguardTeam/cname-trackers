@@ -44,6 +44,7 @@
     * defi.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
+    * digitaleyes.goatcounter.com
     * dungeon.goatcounter.com
     * eithel.goatcounter.com
     * elkobraas.goatcounter.com
@@ -211,6 +212,7 @@
 | stats.defiscitoyens.org | defi.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
+| analytics.digitaleyes.ai | digitaleyes.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
 | stats.eithel.org | eithel.goatcounter.com |
 | statistic.elkobraas.com | elkobraas.goatcounter.com |
@@ -272,6 +274,7 @@
 | stats.mele.dev | mele.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
+| analytics.brandsistency.com | mine.goatcounter.com |
 | goatcounter.repozitor.com | mine.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
 | stats.raycordlegends.com | mine.goatcounter.com |

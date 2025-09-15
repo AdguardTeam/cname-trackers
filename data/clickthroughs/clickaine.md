@@ -29,8 +29,8 @@
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
 | asg.redfans.org | api.clickaine.com |
-| bat25.gimmeporn.xyz | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
+| c4n.allporncomics.co | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
 | c4n.hotjavmovies.com | api.clickaine.com |
@@ -73,6 +73,7 @@
 | dr1.piczlabs.com | api.clickaine.com |
 | dr3.piczlabs.com | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
+| excavajo7.gimmeporn.xyz | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
 | ge6.getfto.com | api.clickaine.com |
@@ -114,7 +115,6 @@
 | station54k.brandnewapp.pro | api.clickaine.com |
 | taco.sexreels.net | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
-| wafe.camcaps.sx | api.clickaine.com |
 | wp.brandnewapp.pro | api.clickaine.com |
 | www.bokep.su | api.clickaine.com |
 | www.brandnewapp.pro | api.clickaine.com |
@@ -122,6 +122,7 @@
 | www.rtnews.pro | api.clickaine.com |
 | www.station54k.brandnewapp.pro | api.clickaine.com |
 | www.telford.brandnewapp.pro | api.clickaine.com |
+| www.web5603.brandnewapp.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

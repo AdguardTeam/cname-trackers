@@ -237,6 +237,7 @@ ebis.eiyoushi-tensyoku.com
 ebis.forcas.com
 ebis.funai-finance.com
 ebis.funaisoken.co.jp
+ebis.glico-direct.jp
 ebis.gokusen-ichiba.com
 ebis.goldcrest.co.jp
 ebis.housekeeping.or.jp

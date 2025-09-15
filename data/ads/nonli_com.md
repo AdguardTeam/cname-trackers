@@ -31,6 +31,7 @@
 | social.eleveur-laitier.fr | non.li |
 | social.lafranceagricole.fr | non.li |
 | social.terre-net-occasions.fr | non.li |
+| static.nonli.com | non.li |
 | sur.laprovence.com | non.li |
 | l.bienpublic.com | origin.non.li |
 | l.bienpublic.com | origin.non.li |
@@ -226,6 +227,7 @@
 | l.ozap.com | tls.non.li |
 | l.paris-normandie.fr | tls.non.li |
 | l.paroledemamans.com | tls.non.li |
+| l.peaches.fr | tls.non.li |
 | l.petitbleu.fr | tls.non.li |
 | l.planet.fr | tls.non.li |
 | l.pleinevie.fr | tls.non.li |

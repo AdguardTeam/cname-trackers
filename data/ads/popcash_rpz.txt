@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -272,7 +272,6 @@ bobcat.snapshooter.io CNAME .
 bonobo.nola.today CNAME .
 boom.laravel.io CNAME .
 bovid.neural.love CNAME .
-bowie-cdn.fathomdns.com CNAME .
 bug.onlinedating.de CNAME .
 butterfly.coverworld.com.au CNAME .
 butterfly.dharsh.dev CNAME .
@@ -1059,6 +1058,7 @@ y5qhzz3q.designdetails.fm CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
 yak.gregsullivan.com CNAME .
+bowie-cdn.fathomdns.com CNAME .
 ads.cdn.bndlapi.com CNAME .
 ads.djc.com CNAME .
 allnews.chestertelegraph.org CNAME .
@@ -1111,7 +1111,6 @@ sponsors.compactequip.com CNAME .
 sponsors.ctnewsjunkie.com CNAME .
 sponsors.floorforce.com CNAME .
 sponsors.inklink.news CNAME .
-sponsors.localcityplaces.com CNAME .
 sponsors.macaronikid.com CNAME .
 sponsors.njmonthly.com CNAME .
 sponsors.oaklandcountymoms.com CNAME .

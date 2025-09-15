@@ -12,6 +12,7 @@
     * czirtyk.customers.1p-data.co
     * edczrfj.customers.1p-data.co
     * gofqpma.customers.1p-data.co
+    * gpillsg.customers.1p-data.co
     * gslclvw.customers.1p-data.co
     * hnvrprl.customers.1p-data.co
     * lumhdco.customers.1p-data.co
@@ -44,6 +45,7 @@
 | czirtyk.sugarmesmooth.com | czirtyk.customers.1p-data.co |
 | edczrfj.veneera.com | edczrfj.customers.1p-data.co |
 | gofqpma.kimkimblehair.com | gofqpma.customers.1p-data.co |
+| gpillsg.genxrefined.com | gpillsg.customers.1p-data.co |
 | gslclvw.lackorecouture.com | gslclvw.customers.1p-data.co |
 | hnvrprl.getmainelobster.com | hnvrprl.customers.1p-data.co |
 | lumhdco.mykitsch.com | lumhdco.customers.1p-data.co |

@@ -261,7 +261,6 @@
 ||bonobo.nola.today^
 ||boom.laravel.io^
 ||bovid.neural.love^
-||bowie-cdn.fathomdns.com^
 ||bug.onlinedating.de^
 ||butterfly.coverworld.com.au^
 ||butterfly.dharsh.dev^
@@ -1048,6 +1047,7 @@
 ||yak.auclantis.com^
 ||yak.flutterblog.net^
 ||yak.gregsullivan.com^
+||bowie-cdn.fathomdns.com^
 ||ads.cdn.bndlapi.com^
 ||ads.djc.com^
 ||allnews.chestertelegraph.org^
@@ -1100,7 +1100,6 @@
 ||sponsors.ctnewsjunkie.com^
 ||sponsors.floorforce.com^
 ||sponsors.inklink.news^
-||sponsors.localcityplaces.com^
 ||sponsors.macaronikid.com^
 ||sponsors.njmonthly.com^
 ||sponsors.oaklandcountymoms.com^

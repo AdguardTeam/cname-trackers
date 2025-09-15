@@ -419,6 +419,7 @@ my.weplayvolleyball.lt
 my.weplayvolleyball.ro
 my.weplayvolleyball.si
 my.weplayvolleyball.sk
+objevuj.amazingplaces.cz
 online.pdfknihovna.cz
 partener.aeriumshop.ro
 partner-affilbox.telly.cz
@@ -454,6 +455,7 @@ partner.bio-nehty.cz
 partner.biomag.cz
 partner.birne.com
 partner.bitcoinzmenaren.sk
+partner.bloominds.cz
 partner.bohempia.com
 partner.bomtonbeauty.cz
 partner.bontonck.cz
@@ -545,7 +547,6 @@ partner.farbe.cz
 partner.ferratum.cz
 partner.finstyle.cz
 partner.firmin.cz
-partner.fitnessrevolucia.sk
 partner.forcell.cz
 partner.forexrebel.net
 partner.forkys.store
@@ -671,6 +672,7 @@ partner.olivum.cz
 partner.olo.cz
 partner.onlinepriznani.cz
 partner.onlinepriznanie.sk
+partner.organikk.cz
 partner.oriclo.cz
 partner.ozogan.cz
 partner.palstorm.cz
@@ -940,7 +942,6 @@ provize.wugi.cz
 provize.zazitkovelety.cz
 provizia.mimulo.sk
 proviznisystem.kanclir.cz
-rek.rybizak.cz
 royalfamily.royalchaga.sk
 special.kvetinyexpres.cz
 splatky.aquatrend.sk

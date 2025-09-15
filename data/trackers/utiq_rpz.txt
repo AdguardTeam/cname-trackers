@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -413,6 +413,7 @@ utiq.topsante.com CNAME .
 utiq.traum-deutung.de CNAME .
 utiq.travelbook.de CNAME .
 utiq.trendencias.com CNAME .
+utiq.tuobenessere.it CNAME .
 utiq.tvspielfilm.de CNAME .
 utiq.tz.de CNAME .
 utiq.usinger-anzeiger.de CNAME .
@@ -452,6 +453,8 @@ utiq.xatakandroid.com CNAME .
 utiq.xatakawindows.com CNAME .
 utiq.zdnet.fr CNAME .
 utiq.zeit.de CNAME .
+vfde-fixed.mno.link CNAME .
+vfde-fixed6.mno.link CNAME .
 vfdemsp.mno.link CNAME .
 vfes.mno.link CNAME .
 vfesmsp.mno.link CNAME .

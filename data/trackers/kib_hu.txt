@@ -55,6 +55,7 @@
 ||adat.travelo.hu^
 ||adat.ujneplap.hu^
 ||adat.vaol.hu^
+||adat.varpalotaiujsag.hu^
 ||adat.veol.hu^
 ||adat.vg.hu^
 ||adat.videa.hu^

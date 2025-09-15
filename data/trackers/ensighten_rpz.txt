@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -156,6 +156,7 @@ cookies.jll.ca CNAME .
 cookies.jll.ch CNAME .
 cookies.jll.cl CNAME .
 cookies.jll.co.id CNAME .
+cookies.jll.co.il CNAME .
 cookies.jll.co.in CNAME .
 cookies.jll.co.kr CNAME .
 cookies.jll.co.uk CNAME .

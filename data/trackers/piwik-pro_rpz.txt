@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ analytics.wavelz.com CNAME .
 analytics.webanalytics.op.europa.eu CNAME .
 analytics.witglobal.net CNAME .
 dap.amsterdam.nl CNAME .
+dnsbl.test.tag.aumago.com CNAME .
 epiphany.masterworks.digital CNAME .
 fpt.fjordtravel.no CNAME .
 gmn.gloo.com CNAME .

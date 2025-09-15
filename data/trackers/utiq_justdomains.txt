@@ -402,6 +402,7 @@ utiq.topsante.com
 utiq.traum-deutung.de
 utiq.travelbook.de
 utiq.trendencias.com
+utiq.tuobenessere.it
 utiq.tvspielfilm.de
 utiq.tz.de
 utiq.usinger-anzeiger.de
@@ -441,6 +442,8 @@ utiq.xatakandroid.com
 utiq.xatakawindows.com
 utiq.zdnet.fr
 utiq.zeit.de
+vfde-fixed.mno.link
+vfde-fixed6.mno.link
 vfdemsp.mno.link
 vfes.mno.link
 vfesmsp.mno.link

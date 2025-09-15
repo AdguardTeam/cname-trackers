@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -244,6 +244,7 @@ static.schrotundkorn.de CNAME .
 static.sonicplug.com CNAME .
 static.tahoe.com CNAME .
 static.the-saleroom.com CNAME .
+static.thinkresult.in CNAME .
 static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
 static.wwoz.org CNAME .

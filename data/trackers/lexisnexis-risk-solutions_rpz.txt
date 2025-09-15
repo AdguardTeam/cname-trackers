@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ aegis.miio.mx CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
 afm.cnthevtmarkets.com CNAME .
+afm.cnvtglobal.com CNAME .
 afm.crointech.io CNAME .
 afm.hoiltech.info CNAME .
 afm.infinox.com CNAME .
@@ -762,6 +763,7 @@ meiodepagamento.campanhaporto.com.br CNAME .
 membership-device.secured-igaming-services.com CNAME .
 meox.alliancebizsmart.com.my CNAME .
 meox.allianceonline.com.my CNAME .
+metrix.ancestry.com CNAME .
 metrix.motosport.com CNAME .
 metrix.us.ovhcloud.com CNAME .
 mnt.sbisec.co.jp CNAME .
@@ -827,6 +829,7 @@ pov.spectrum.net CNAME .
 prod-acutx.chaperone.lumindigitalhosting.com CNAME .
 prod-addition.chaperone.lumindigitalhosting.com CNAME .
 prod-afcutn.chaperone.lumindigitalhosting.com CNAME .
+prod-affinity.chaperone.lumindigitalhosting.com CNAME .
 prod-aocumi.chaperone.lumindigitalhosting.com CNAME .
 prod-apcifcu.chaperone.lumindigitalhosting.com CNAME .
 prod-ascuaz.chaperone.lumindigitalhosting.com CNAME .
@@ -834,6 +837,7 @@ prod-baxter.chaperone.lumindigitalhosting.com CNAME .
 prod-berne.chaperone.lumindigitalhosting.com CNAME .
 prod-blucurrent.chaperone.lumindigitalhosting.com CNAME .
 prod-cardinal.chaperone.lumindigitalhosting.com CNAME .
+prod-ccuil.chaperone.lumindigitalhosting.com CNAME .
 prod-cfcuwi.chaperone.lumindigitalhosting.com CNAME .
 prod-citadel.chaperone.lumindigitalhosting.com CNAME .
 prod-comfin.chaperone.lumindigitalhosting.com CNAME .
@@ -866,6 +870,7 @@ prod-oneaz.chaperone.lumindigitalhosting.com CNAME .
 prod-pacservice.chaperone.lumindigitalhosting.com CNAME .
 prod-pathways.chaperone.lumindigitalhosting.com CNAME .
 prod-prospera.chaperone.lumindigitalhosting.com CNAME .
+prod-redcanoe.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 prod-riverfront.chaperone.lumindigitalhosting.com CNAME .
 prod-selco.chaperone.lumindigitalhosting.com CNAME .
@@ -889,6 +894,7 @@ prod-vantage.chaperone.lumindigitalhosting.com CNAME .
 prod-vsecuvt.chaperone.lumindigitalhosting.com CNAME .
 prod-wccuri.chaperone.lumindigitalhosting.com CNAME .
 prod-westccu.chaperone.lumindigitalhosting.com CNAME .
+prod-wings.chaperone.lumindigitalhosting.com CNAME .
 prof4rs.cembrapay.ch CNAME .
 profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
@@ -967,7 +973,6 @@ sec.lin101.mail.goo.ne.jp CNAME .
 sec.login.mail.goo.ne.jp CNAME .
 sec.login.ocn.ne.jp CNAME .
 sec.login.sdnp.ntt.ocn.ne.jp CNAME .
-sec.mypage.ntt.com CNAME .
 sec.mypage.ocn.ne.jp CNAME .
 sec.plala.or.jp CNAME .
 secure-collector.zen.com CNAME .
@@ -1124,6 +1129,7 @@ tm.beachbody.com CNAME .
 tm.benevity.org CNAME .
 tm.betano.ar CNAME .
 tm.betano.be CNAME .
+tm.betano.bet.ar CNAME .
 tm.betano.bet.br CNAME .
 tm.betano.bg CNAME .
 tm.betano.ca CNAME .
@@ -1311,7 +1317,6 @@ west-eu-0156743.medirect.com.mt CNAME .
 west-eu-0156743.medirect.nl CNAME .
 wfp.intuit.com CNAME .
 wildcard.humm.ie CNAME .
-wkvjee5b.globalpay.com CNAME .
 wkvjee5b.paviliononline.io CNAME .
 wp.kroger.com CNAME .
 wptm.worldvision.org CNAME .
@@ -1337,4 +1342,3 @@ yr3ioxw.hoaresbank.co.uk CNAME .
 zfp.intuit.com CNAME .
 zrn.payglocal.com CNAME .
 identity4.citidirect.com CNAME .
-onoutput.com CNAME .

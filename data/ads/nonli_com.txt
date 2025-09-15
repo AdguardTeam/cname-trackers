@@ -187,6 +187,7 @@
 ||l.paris-normandie.fr^
 ||l.paris-turf.com^
 ||l.paroledemamans.com^
+||l.peaches.fr^
 ||l.petitbleu.fr^
 ||l.planet.fr^
 ||l.pleinevie.fr^
@@ -257,6 +258,7 @@
 ||social.eleveur-laitier.fr^
 ||social.lafranceagricole.fr^
 ||social.terre-net-occasions.fr^
+||static.nonli.com^
 ||sur.corsematin.com^
 ||sur.laprovence.com^
 ||www.20min.fr^

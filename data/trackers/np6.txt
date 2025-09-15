@@ -36,7 +36,6 @@
 ||tr.agefiseminaires.com^
 ||tr.alex.espmp-agfr.net^
 ||tr.allianz-trade.com^
-||tr.allopneus.com^
 ||tr.animation.lexpress.fr^
 ||tr.animation.micromania.fr^
 ||tr.animations.bfmtv.com^
@@ -200,6 +199,7 @@
 ||tr.cdiscount.3wregie.com^
 ||tr.ceeregion.moethennessy.com^
 ||tr.cgpme.medef-gironde.fr^
+||tr.chapsdata.chapsvision.com^
 ||tr.christmas.petit-bateau.com^
 ||tr.chronodrive.com^
 ||tr.ciblexo.fr^
@@ -400,6 +400,7 @@
 ||tr.emailing.canalplus-caledonie.com^
 ||tr.emailing.canalplus-caraibes.com^
 ||tr.emailing.canalplus-haiti.com^
+||tr.emailing.canalplus-internet.com^
 ||tr.emailing.canalplus-maurice.com^
 ||tr.emailing.canalplus-polynesie.com^
 ||tr.emailing.canalplus-reunion.com^
@@ -867,7 +868,6 @@
 ||tr.news.mon-horoscope.info^
 ||tr.news.monvoyant.fr^
 ||tr.news.mperformance.fr^
-||tr.news.normandie.cci.fr^
 ||tr.news.np6.com^
 ||tr.news.onetoonemba.com^
 ||tr.news.ouestnormandie.cci.fr^
@@ -917,7 +917,6 @@
 ||tr.newsletter.afpa.fr^
 ||tr.newsletter.alimgouv.fr^
 ||tr.newsletter.assuragency.net^
-||tr.newsletter.astro-mail.com^
 ||tr.newsletter.bauermedia.fr^
 ||tr.newsletter.bouygues-construction.com^
 ||tr.newsletter.bouygues.com^
@@ -1221,9 +1220,9 @@
 ||tr1.peugeot-ipsos.com^
 ||tr2.mperf.com^
 ||tr4.mailperf.com^
+||tr5.mailperf.com^
 ||tr5.mperf.com^
 ||tr6.mperf.com^
-||tracking.allopneus.com^
 ||www.fodgfip.fr^
 ||www.newsletter.banquepopulaire.fr^
 ||www.np6.eu^
@@ -1236,8 +1235,8 @@
 ||f1.np6.com^
 ||infojeux.paris.fr^
 ||lbv5.mperf.com^
+||www.bfc-mp.caisse-epargne.fr^
 ||s.gemy.fr^
+||s.np6.com^
 ||www.lgch.mp^
 ||tr.communication.jardindacclimatation.fr^
-||tr5.mailperf.com^
-||www.bfc-mp.caisse-epargne.fr^

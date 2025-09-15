@@ -488,7 +488,6 @@ stats.guersanguillaume.com
 stats.guidingwallet.app
 stats.gusmanson.nl
 stats.gynsprechstunde.de
-stats.hackershare.dev
 stats.halcyon.hr
 stats.hammertime.me
 stats.hauke.me
@@ -573,7 +572,6 @@ stats.literaturkreis.online
 stats.lmdsp.com
 stats.localmetravel.com
 stats.ltdhunt.com
-stats.luieremmer.net
 stats.lussoveloce.com
 stats.lyricall.cz
 stats.macosicons.com

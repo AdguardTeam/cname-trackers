@@ -188,7 +188,6 @@
     * 876856926295447.wt-eu02.net
     * 877361186099223.wt-eu02.net
     * 877979016491790.wt-eu02.net
-    * 887450638197118.wt-eu02.net
     * 893825625040746.wt-eu02.net
     * 902786519867551.wt-eu02.net
     * 911505776570324.wt-eu02.net
@@ -287,7 +286,6 @@
 | web.email.umbro.co.uk | 158325876760515.wt-eu02.net |
 | web.news.gnv.it | 175750679116864.wt-eu02.net |
 | trk.krebsversicherung.de | 176652923057792.wt-eu02.net |
-| trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | web.solesource.com | 180629549208289.wt-eu02.net |
 | web.mapp.docpeter.it | 184874202187158.wt-eu02.net |
 | web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
@@ -482,8 +480,6 @@
 | web.enews.greatlittlebreaks.com | 876856926295447.wt-eu02.net |
 | web.news.turnbullandasser.co.uk | 877361186099223.wt-eu02.net |
 | mit.deutschebank.be | 877979016491790.wt-eu02.net |
-| trk.nuernberger.com | 887450638197118.wt-eu02.net |
-| trk.nuernberger.de | 887450638197118.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | web.email.mishimoto.co.uk | 902786519867551.wt-eu02.net |
 | web.email.mishimoto.com | 902786519867551.wt-eu02.net |

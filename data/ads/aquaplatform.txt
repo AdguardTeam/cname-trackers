@@ -233,6 +233,7 @@
 ||static.sonicplug.com^
 ||static.tahoe.com^
 ||static.the-saleroom.com^
+||static.thinkresult.in^
 ||static.trackandfieldnews.com^
 ||static.walaplusadserver.com^
 ||static.wwoz.org^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -57,6 +57,7 @@ estat.edel-kraut.de CNAME .
 estats.globus.de CNAME .
 et.akademie-handel.de CNAME .
 et.alphalas.com CNAME .
+et.corpuls.hospital CNAME .
 et.corpuls.world CNAME .
 et.dremo.com CNAME .
 et.electronic4you.at CNAME .
@@ -71,10 +72,12 @@ et.louis-moto.ch CNAME .
 et.louis-moto.co.uk CNAME .
 et.louis-moto.com CNAME .
 et.louis-moto.dk CNAME .
+et.louis-moto.fi CNAME .
 et.louis-moto.fr CNAME .
 et.louis-moto.it CNAME .
 et.louis.at CNAME .
 et.louis.be CNAME .
+et.louis.biz CNAME .
 et.louis.cz CNAME .
 et.louis.de CNAME .
 et.louis.es CNAME .
@@ -82,6 +85,7 @@ et.louis.eu CNAME .
 et.louis.ie CNAME .
 et.louis.nl CNAME .
 et.louis.pl CNAME .
+et.louis.pt CNAME .
 et.louis.se CNAME .
 et.majdic.at CNAME .
 et.nrwbank.de CNAME .
@@ -99,6 +103,7 @@ etd.wackerneusongroup.com CNAME .
 etd.wechseljahre-verstehen.de CNAME .
 etd.weidemann.com CNAME .
 etdomain.dorothee-schumacher.com CNAME .
+etr.casanovacoaching.de CNAME .
 etr.cosee.biz CNAME .
 etr.green-planet-energy.de CNAME .
 etrac.lodenwalker.com CNAME .
@@ -291,4 +296,5 @@ esub.akkusys.de CNAME .
 et.juskys.de CNAME .
 stats.ekd.de CNAME .
 stats.mm-germany.com CNAME .
+www-test.etracker.de CNAME .
 www.visitormotion.com CNAME .

@@ -7,12 +7,14 @@
 ### Rarely active trackers
 
 * customer2.etracker.com
+* customer-test.etracker.com
 * etracker.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| www-test.etracker.de | customer-test.etracker.com |
 | a.trowow.de | customer.etracker.com |
 | analyse.hs-furtwangen.de | customer.etracker.com |
 | analytics.freiraumakustik.de | customer.etracker.com |
@@ -59,6 +61,7 @@
 | estats.globus.de | customer.etracker.com |
 | et.akademie-handel.de | customer.etracker.com |
 | et.alphalas.com | customer.etracker.com |
+| et.corpuls.hospital | customer.etracker.com |
 | et.corpuls.world | customer.etracker.com |
 | et.dremo.com | customer.etracker.com |
 | et.electronic4you.at | customer.etracker.com |
@@ -73,10 +76,12 @@
 | et.louis-moto.co.uk | customer.etracker.com |
 | et.louis-moto.com | customer.etracker.com |
 | et.louis-moto.dk | customer.etracker.com |
+| et.louis-moto.fi | customer.etracker.com |
 | et.louis-moto.fr | customer.etracker.com |
 | et.louis-moto.it | customer.etracker.com |
 | et.louis.at | customer.etracker.com |
 | et.louis.be | customer.etracker.com |
+| et.louis.biz | customer.etracker.com |
 | et.louis.cz | customer.etracker.com |
 | et.louis.de | customer.etracker.com |
 | et.louis.es | customer.etracker.com |
@@ -84,6 +89,7 @@
 | et.louis.ie | customer.etracker.com |
 | et.louis.nl | customer.etracker.com |
 | et.louis.pl | customer.etracker.com |
+| et.louis.pt | customer.etracker.com |
 | et.louis.se | customer.etracker.com |
 | et.majdic.at | customer.etracker.com |
 | et.nrwbank.de | customer.etracker.com |
@@ -101,6 +107,7 @@
 | etd.wechseljahre-verstehen.de | customer.etracker.com |
 | etd.weidemann.com | customer.etracker.com |
 | etdomain.dorothee-schumacher.com | customer.etracker.com |
+| etr.casanovacoaching.de | customer.etracker.com |
 | etr.cosee.biz | customer.etracker.com |
 | etr.green-planet-energy.de | customer.etracker.com |
 | etrac.lodenwalker.com | customer.etracker.com |

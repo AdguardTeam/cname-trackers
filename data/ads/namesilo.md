@@ -15,29 +15,38 @@
 ### Rarely active trackers
 
 * 1208818836.rsc.cdn77.org
+* syndication.exosrv.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | a.18ramp.com | 1208818836.rsc.cdn77.org |
+| a.8jfbt5va3r.com | 1208818836.rsc.cdn77.org |
 | a.adsession.com | 1208818836.rsc.cdn77.org |
 | a.advantageclicks.net | 1208818836.rsc.cdn77.org |
 | a.advertrek.com | 1208818836.rsc.cdn77.org |
 | a.allureanews.com | 1208818836.rsc.cdn77.org |
 | a.asvsm.com | 1208818836.rsc.cdn77.org |
 | a.b2bstars.com | 1208818836.rsc.cdn77.org |
-| a.b7q9v8z.com | 1208818836.rsc.cdn77.org |
+| a.bizonads-ssp.com | 1208818836.rsc.cdn77.org |
 | a.brilmaver.com | 1208818836.rsc.cdn77.org |
+| a.cant3am.com | 1208818836.rsc.cdn77.org |
 | a.crme7srv.com | 1208818836.rsc.cdn77.org |
 | a.etology.com | 1208818836.rsc.cdn77.org |
 | a.golhofer.com | 1208818836.rsc.cdn77.org |
 | a.huklop.com | 1208818836.rsc.cdn77.org |
+| a.ma3ion.com | 1208818836.rsc.cdn77.org |
+| a.n4m5x60.com | 1208818836.rsc.cdn77.org |
 | a.optimizesrv.com | 1208818836.rsc.cdn77.org |
 | a.ouzads.com | 1208818836.rsc.cdn77.org |
+| a.playa.to | 1208818836.rsc.cdn77.org |
 | a.q88z1s3.com | 1208818836.rsc.cdn77.org |
+| a.r8lnet.com | 1208818836.rsc.cdn77.org |
 | a.rocoads.net | 1208818836.rsc.cdn77.org |
 | a.santabrowser.com | 1208818836.rsc.cdn77.org |
+| a.tf4srv.com | 1208818836.rsc.cdn77.org |
+| a.traffic-gold.com | 1208818836.rsc.cdn77.org |
 | ads.optimizesrv.com | 1208818836.rsc.cdn77.org |
 | delivery.gettopple.com | 1208818836.rsc.cdn77.org |
 | main0.exosrv.com | a37zk9tr.ab1n.net |
@@ -49,6 +58,7 @@
 | rtb.optidigital.com | ka8ing2z.ab1n.net |
 | rtb.traffic-gold.com | ka8ing2z.ab1n.net |
 | rtb.trafficfactory.com | ka8ing2z.ab1n.net |
+| main.exosrv.com | syndication.exosrv.com |
 | 0gjk78xazs6np76r.notifysrv.com | tk6if76q.ab1n.net |
 | 10.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | 10.notifysrv.com | tk6if76q.ab1n.net |
@@ -445,6 +455,7 @@
 | 3405151.notifysrv.com | tk6if76q.ab1n.net |
 | 3405163.notifysrv.com | tk6if76q.ab1n.net |
 | 3405213.notifysrv.com | tk6if76q.ab1n.net |
+| 3405751.notify6.com | tk6if76q.ab1n.net |
 | 3408133.notifysrv.com | tk6if76q.ab1n.net |
 | 3408773.notify6.com | tk6if76q.ab1n.net |
 | 3408773.notifysrv.com | tk6if76q.ab1n.net |
@@ -608,9 +619,11 @@
 | 3542163.notifysrv.com | tk6if76q.ab1n.net |
 | 3544557.notify6.com | tk6if76q.ab1n.net |
 | 3546.notify.optimizesrv.com | tk6if76q.ab1n.net |
+| 3549573.notifysrv.com | tk6if76q.ab1n.net |
 | 3556651.notifysrv.com | tk6if76q.ab1n.net |
 | 3557559.notify6.com | tk6if76q.ab1n.net |
 | 3557821.notifysrv.com | tk6if76q.ab1n.net |
+| 3562657.notifysrv.com | tk6if76q.ab1n.net |
 | 3562667.notify6.com | tk6if76q.ab1n.net |
 | 3563549.notify6.com | tk6if76q.ab1n.net |
 | 3563551.notifysrv.com | tk6if76q.ab1n.net |
@@ -642,7 +655,6 @@
 | 3572303.notifysrv.com | tk6if76q.ab1n.net |
 | 3572904.notifysrv.com | tk6if76q.ab1n.net |
 | 3576531.notifysrv.com | tk6if76q.ab1n.net |
-| 3578231.notify6.com | tk6if76q.ab1n.net |
 | 3578231.notifysrv.com | tk6if76q.ab1n.net |
 | 3578233.notify6.com | tk6if76q.ab1n.net |
 | 3578235.notify6.com | tk6if76q.ab1n.net |
@@ -937,7 +949,6 @@
 | 4046268.notify6.com | tk6if76q.ab1n.net |
 | 4046272.notify6.com | tk6if76q.ab1n.net |
 | 4048172.notify6.com | tk6if76q.ab1n.net |
-| 4050544.notify6.com | tk6if76q.ab1n.net |
 | 4052.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 4052808.notify6.com | tk6if76q.ab1n.net |
 | 4052828.notify6.com | tk6if76q.ab1n.net |
@@ -984,7 +995,6 @@
 | 4152316.notify6.com | tk6if76q.ab1n.net |
 | 4152318.notify6.com | tk6if76q.ab1n.net |
 | 4152322.notify6.com | tk6if76q.ab1n.net |
-| 4152324.notify6.com | tk6if76q.ab1n.net |
 | 4152328.notify6.com | tk6if76q.ab1n.net |
 | 4153216.notify6.com | tk6if76q.ab1n.net |
 | 4160048.notify6.com | tk6if76q.ab1n.net |
@@ -1137,7 +1147,6 @@
 | 4863208.notify6.com | tk6if76q.ab1n.net |
 | 4872274.notify6.com | tk6if76q.ab1n.net |
 | 4872816.notify6.com | tk6if76q.ab1n.net |
-| 4881146.notify6.com | tk6if76q.ab1n.net |
 | 4882380.notify6.com | tk6if76q.ab1n.net |
 | 4882844.notify6.com | tk6if76q.ab1n.net |
 | 4888136.notify6.com | tk6if76q.ab1n.net |
@@ -1186,6 +1195,7 @@
 | 5680316.notify6.com | tk6if76q.ab1n.net |
 | 5690040.notify6.com | tk6if76q.ab1n.net |
 | 5696038.notify6.com | tk6if76q.ab1n.net |
+| 5721572.notify6.com | tk6if76q.ab1n.net |
 | 577.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 583.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 589.notify.optimizesrv.com | tk6if76q.ab1n.net |
@@ -1278,6 +1288,7 @@
 | s.adsession.com | tk6if76q.ab1n.net |
 | s.advantageclicks.net | tk6if76q.ab1n.net |
 | s.advertrek.com | tk6if76q.ab1n.net |
+| s.afxwa.com | tk6if76q.ab1n.net |
 | s.asvsm.com | tk6if76q.ab1n.net |
 | s.b2bstars.com | tk6if76q.ab1n.net |
 | s.b7q9v8z.com | tk6if76q.ab1n.net |
@@ -1332,6 +1343,8 @@
 | s.dship2.com | tk6if76q.ab1n.net |
 | s.dsiyzy.com | tk6if76q.ab1n.net |
 | s.dsjo13.com | tk6if76q.ab1n.net |
+| s.dskjl8.com | tk6if76q.ab1n.net |
+| s.dskwke.com | tk6if76q.ab1n.net |
 | s.dsonb4.com | tk6if76q.ab1n.net |
 | s.dsqcjk.com | tk6if76q.ab1n.net |
 | s.dss1bi.com | tk6if76q.ab1n.net |
@@ -1397,10 +1410,12 @@
 | s.eunow4u.com | tk6if76q.ab1n.net |
 | s.exoqarys.com | tk6if76q.ab1n.net |
 | s.flirtads.net | tk6if76q.ab1n.net |
+| s.gatherstar.io | tk6if76q.ab1n.net |
 | s.golhofer.com | tk6if76q.ab1n.net |
 | s.huispol.com | tk6if76q.ab1n.net |
 | s.huklop.com | tk6if76q.ab1n.net |
 | s.kafaseju.com | tk6if76q.ab1n.net |
+| s.ku34bh9la09.com | tk6if76q.ab1n.net |
 | s.linkv3c.com | tk6if76q.ab1n.net |
 | s.linkw2c.com | tk6if76q.ab1n.net |
 | s.linkw2e.com | tk6if76q.ab1n.net |
@@ -1616,31 +1631,41 @@
 | www.survey.notifysrv.com | tk6if76q.ab1n.net |
 | s.allureanews.com | tk6if76r.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
+| admin.datingclix.com | v3j9t5q9.ab1n.net |
+| admin.gettopple.com | v3j9t5q9.ab1n.net |
+| admin.landingtrk.com | v3j9t5q9.ab1n.net |
+| admin.rocoads.net | v3j9t5q9.ab1n.net |
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
 | admin.valuemedia-ltd.com | v3j9t5q9.ab1n.net |
+| admin.vrumeads.com | v3j9t5q9.ab1n.net |
 | a.18ramp.com | w2u4v9e1.ab1n.net |
 | a.8jfbt5va3r.com | w2u4v9e1.ab1n.net |
-| a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advantageclicks.net | w2u4v9e1.ab1n.net |
+| a.advertrek.com | w2u4v9e1.ab1n.net |
+| a.allureanews.com | w2u4v9e1.ab1n.net |
+| a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.b2bstars.com | w2u4v9e1.ab1n.net |
 | a.b7q9v8z.com | w2u4v9e1.ab1n.net |
-| a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.brilmaver.com | w2u4v9e1.ab1n.net |
 | a.cant3am.com | w2u4v9e1.ab1n.net |
 | a.crme7srv.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
+| a.gatherstar.io | w2u4v9e1.ab1n.net |
+| a.golhofer.com | w2u4v9e1.ab1n.net |
 | a.huklop.com | w2u4v9e1.ab1n.net |
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.n4m5x60.com | w2u4v9e1.ab1n.net |
 | a.optimizesrv.com | w2u4v9e1.ab1n.net |
+| a.ouzads.com | w2u4v9e1.ab1n.net |
 | a.playa.to | w2u4v9e1.ab1n.net |
 | a.q88z1s3.com | w2u4v9e1.ab1n.net |
 | a.r8lnet.com | w2u4v9e1.ab1n.net |
+| a.rocoads.net | w2u4v9e1.ab1n.net |
+| a.santabrowser.com | w2u4v9e1.ab1n.net |
 | a.tf4srv.com | w2u4v9e1.ab1n.net |
 | a.traffic-gold.com | w2u4v9e1.ab1n.net |
 | a.vws4brkfst.com | w2u4v9e1.ab1n.net |
-| ads.optimizesrv.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
 | admin.datingclix.com | x0xmrxm4.ab1n.net |
@@ -1649,11 +1674,14 @@
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.landingtrk.com | x0xmrxm4.ab1n.net |
 | admin.rocoads.net | x0xmrxm4.ab1n.net |
+| admin.rocoads.net | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
+| admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.valuemedia-ltd.com | x0xmrxm4.ab1n.net |
 | admin.valuemedia-ltd.com | x0xmrxm4.ab1n.net |
+| admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | adrepository.opoxv.com | x0xmrxm4.ab1n.net |
 | ads.toroadvertising.com | x0xmrxm4.ab1n.net |

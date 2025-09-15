@@ -4,6 +4,7 @@
 
 * wecantrack.com
     * api.wecantrack.com
+    * app.wecantrack.com
     * fallback.wecantrack.com
 
 ## Cloaking domains
@@ -36,4 +37,5 @@
 | wct.softonic.se | api.wecantrack.com |
 | wctsub.hostingcheck24.de | api.wecantrack.com |
 | wctsub.start24.nl | api.wecantrack.com |
+| www.1mreview.com | app.wecantrack.com |
 | w.vpnalert.com | fallback.wecantrack.com |

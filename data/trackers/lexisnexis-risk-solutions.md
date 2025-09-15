@@ -193,6 +193,7 @@
     * h-96eziru5.online-metrix.net
     * h-97sdcyug.online-metrix.net
     * h-98oju8tz.online-metrix.net
+    * h-9biwblyw.online-metrix.net
     * h-9bkavv7r.online-metrix.net
     * h-9f85se8g-pav.online-metrix.net
     * h-9f85se8g.online-metrix.net
@@ -645,7 +646,6 @@
     * h-nssolutions.online-metrix.net
     * h-nttdocomo.online-metrix.net
     * h-ntthikaritv.online-metrix.net
-    * h-nttocnmypage.online-metrix.net
     * h-nttplala.online-metrix.net
     * h-nttresonant.online-metrix.net
     * h-nttresonantstg.online-metrix.net
@@ -827,13 +827,11 @@
 ### Rarely active trackers
 
 * e4010.dsca.akamaiedge.net
-* 77980.bodis.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| onoutput.com | 77980.bodis.com |
 | content22.citi.com | citi.online-metrix.net |
 | identity4.citidirect.com | e4010.dsca.akamaiedge.net |
 | content-tix.topi.eu | h-1020poof.online-metrix.net |
@@ -863,6 +861,7 @@
 | prod-acutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-addition.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-afcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-affinity.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-aocumi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-apcifcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-ascuaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -870,6 +869,7 @@
 | prod-berne.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-blucurrent.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cardinal.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-ccuil.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cfcuwi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-citadel.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-comfin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -902,6 +902,7 @@
 | prod-pacservice.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-pathways.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-prospera.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-redcanoe.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-riverfront.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-selco.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -924,6 +925,7 @@
 | prod-vsecuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-wccuri.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-westccu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-wings.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
 | cdn-lntmps.mintmobile.com | h-1rvzo2et.online-metrix.net |
 | cdn-lntmps.ultramobile.com | h-1rvzo2et.online-metrix.net |
@@ -1166,6 +1168,7 @@
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | afm.alphatick.com | h-96eziru5.online-metrix.net |
 | afm.cnthevtmarkets.com | h-96eziru5.online-metrix.net |
+| afm.cnvtglobal.com | h-96eziru5.online-metrix.net |
 | afm.crointech.io | h-96eziru5.online-metrix.net |
 | afm.hoiltech.info | h-96eziru5.online-metrix.net |
 | afm.infinox.com | h-96eziru5.online-metrix.net |
@@ -1253,10 +1256,10 @@
 | tmcdn.spingalaxy.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spinpalace.com | h-98oju8tz.online-metrix.net |
 | tmcdn.vegaspalmscasino.com | h-98oju8tz.online-metrix.net |
+| metrix.ancestry.com | h-9biwblyw.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | wkvjee5b.paviliononline.io | h-9f85se8g-pav.online-metrix.net |
 | sess.vippreferred.com | h-9f85se8g.online-metrix.net |
-| wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
 | pngtm.paragonbank.co.uk | h-9fvs1mdg.online-metrix.net |
 | insights.hastingsdirectloans.com | h-9gtgj648.online-metrix.net |
 | img2.bbva.com.ar | h-9i4fauog.online-metrix.net |
@@ -1697,6 +1700,7 @@
 | ww3.peacsolutions.com | h-fundingstream.online-metrix.net |
 | tm.betano.ar | h-gambling-malta.online-metrix.net |
 | tm.betano.be | h-gambling-malta.online-metrix.net |
+| tm.betano.bet.ar | h-gambling-malta.online-metrix.net |
 | tm.betano.bet.br | h-gambling-malta.online-metrix.net |
 | tm.betano.bg | h-gambling-malta.online-metrix.net |
 | tm.betano.ca | h-gambling-malta.online-metrix.net |
@@ -1908,7 +1912,6 @@
 | sub-a.crossmeetz.com | h-nssolutions.online-metrix.net |
 | rba.cfg.smt.docomo.ne.jp | h-nttdocomo.online-metrix.net |
 | sec.hikaritv.net | h-ntthikaritv.online-metrix.net |
-| sec.mypage.ntt.com | h-nttocnmypage.online-metrix.net |
 | sec.plala.or.jp | h-nttplala.online-metrix.net |
 | sec.login.mail.goo.ne.jp | h-nttresonant.online-metrix.net |
 | sec.lin101.mail.goo.ne.jp | h-nttresonantstg.online-metrix.net |

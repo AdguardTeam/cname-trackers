@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -198,6 +198,7 @@ l.ozap.com CNAME .
 l.paris-normandie.fr CNAME .
 l.paris-turf.com CNAME .
 l.paroledemamans.com CNAME .
+l.peaches.fr CNAME .
 l.petitbleu.fr CNAME .
 l.planet.fr CNAME .
 l.pleinevie.fr CNAME .
@@ -268,6 +269,7 @@ social.agrodistribution.fr CNAME .
 social.eleveur-laitier.fr CNAME .
 social.lafranceagricole.fr CNAME .
 social.terre-net-occasions.fr CNAME .
+static.nonli.com CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .
 www.20min.fr CNAME .

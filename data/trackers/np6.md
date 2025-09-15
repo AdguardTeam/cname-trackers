@@ -7,20 +7,14 @@
 ### Rarely active trackers
 
 * form.bp01.net
-* f1.mailperf.com
-* f1.mailperformance.com
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
-* tr1.bp06.net
-* lbv5.mperf.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
-| f1.mailperformance.com | f1.mailperf.com |
-| lbv5.mperf.com | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
@@ -29,10 +23,10 @@
 | f1.np6.com | form.bp01.net |
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
-| www.bfc-mp.caisse-epargne.fr | lbv5.mperf.com |
+| www.bfc-mp.caisse-epargne.fr | form.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
+| s.np6.com | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
-| tr5.mailperf.com | tr1.bp06.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
@@ -69,7 +63,6 @@
 | tr.agefiseminaires.com | tracking.bp01.net |
 | tr.alex.espmp-agfr.net | tracking.bp01.net |
 | tr.allianz-trade.com | tracking.bp01.net |
-| tr.allopneus.com | tracking.bp01.net |
 | tr.animation.lexpress.fr | tracking.bp01.net |
 | tr.animation.micromania.fr | tracking.bp01.net |
 | tr.animations.bfmtv.com | tracking.bp01.net |
@@ -233,6 +226,7 @@
 | tr.cdiscount.3wregie.com | tracking.bp01.net |
 | tr.ceeregion.moethennessy.com | tracking.bp01.net |
 | tr.cgpme.medef-gironde.fr | tracking.bp01.net |
+| tr.chapsdata.chapsvision.com | tracking.bp01.net |
 | tr.christmas.petit-bateau.com | tracking.bp01.net |
 | tr.chronodrive.com | tracking.bp01.net |
 | tr.ciblexo.fr | tracking.bp01.net |
@@ -433,6 +427,7 @@
 | tr.emailing.canalplus-caledonie.com | tracking.bp01.net |
 | tr.emailing.canalplus-caraibes.com | tracking.bp01.net |
 | tr.emailing.canalplus-haiti.com | tracking.bp01.net |
+| tr.emailing.canalplus-internet.com | tracking.bp01.net |
 | tr.emailing.canalplus-maurice.com | tracking.bp01.net |
 | tr.emailing.canalplus-polynesie.com | tracking.bp01.net |
 | tr.emailing.canalplus-reunion.com | tracking.bp01.net |
@@ -900,7 +895,6 @@
 | tr.news.mon-horoscope.info | tracking.bp01.net |
 | tr.news.monvoyant.fr | tracking.bp01.net |
 | tr.news.mperformance.fr | tracking.bp01.net |
-| tr.news.normandie.cci.fr | tracking.bp01.net |
 | tr.news.np6.com | tracking.bp01.net |
 | tr.news.onetoonemba.com | tracking.bp01.net |
 | tr.news.ouestnormandie.cci.fr | tracking.bp01.net |
@@ -950,7 +944,6 @@
 | tr.newsletter.afpa.fr | tracking.bp01.net |
 | tr.newsletter.alimgouv.fr | tracking.bp01.net |
 | tr.newsletter.assuragency.net | tracking.bp01.net |
-| tr.newsletter.astro-mail.com | tracking.bp01.net |
 | tr.newsletter.bauermedia.fr | tracking.bp01.net |
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
 | tr.newsletter.bouygues.com | tracking.bp01.net |
@@ -1254,9 +1247,9 @@
 | tr1.peugeot-ipsos.com | tracking.bp01.net |
 | tr2.mperf.com | tracking.bp01.net |
 | tr4.mailperf.com | tracking.bp01.net |
+| tr5.mailperf.com | tracking.bp01.net |
 | tr5.mperf.com | tracking.bp01.net |
 | tr6.mperf.com | tracking.bp01.net |
-| tracking.allopneus.com | tracking.bp01.net |
 | www.fodgfip.fr | tracking.bp01.net |
 | www.newsletter.banquepopulaire.fr | tracking.bp01.net |
 | www.np6.eu | tracking.bp01.net |

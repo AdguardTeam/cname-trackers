@@ -94,7 +94,6 @@
     * tse-telerama-fr-cddc.at-o.net
     * waati-quechoisir-org-cddc.at-o.net
     * wareneingang-edeka-de-cddc.at-o.net
-    * y1-arte-tv-cddc.at-o.net
     * zelten-fritz-berger-de-cddc.at-o.net
     * zug-sbb-ch-cddc.at-o.net
 
@@ -195,6 +194,5 @@
 | tse.telerama.fr | tse-telerama-fr-cddc.at-o.net |
 | waati.quechoisir.org | waati-quechoisir-org-cddc.at-o.net |
 | wareneingang.edeka.de | wareneingang-edeka-de-cddc.at-o.net |
-| y1.arte.tv | y1-arte-tv-cddc.at-o.net |
 | zelten.fritz-berger.de | zelten-fritz-berger-de-cddc.at-o.net |
 | zug.sbb.ch | zug-sbb-ch-cddc.at-o.net |

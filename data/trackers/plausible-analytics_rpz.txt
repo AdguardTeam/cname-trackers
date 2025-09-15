@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -499,7 +499,6 @@ stats.guersanguillaume.com CNAME .
 stats.guidingwallet.app CNAME .
 stats.gusmanson.nl CNAME .
 stats.gynsprechstunde.de CNAME .
-stats.hackershare.dev CNAME .
 stats.halcyon.hr CNAME .
 stats.hammertime.me CNAME .
 stats.hauke.me CNAME .
@@ -584,7 +583,6 @@ stats.literaturkreis.online CNAME .
 stats.lmdsp.com CNAME .
 stats.localmetravel.com CNAME .
 stats.ltdhunt.com CNAME .
-stats.luieremmer.net CNAME .
 stats.lussoveloce.com CNAME .
 stats.lyricall.cz CNAME .
 stats.macosicons.com CNAME .

@@ -145,6 +145,7 @@
 ||cookies.jll.ch^
 ||cookies.jll.cl^
 ||cookies.jll.co.id^
+||cookies.jll.co.il^
 ||cookies.jll.co.in^
 ||cookies.jll.co.kr^
 ||cookies.jll.co.uk^

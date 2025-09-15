@@ -130,6 +130,7 @@
     * tfn-console.aquaplatform.com
     * tfn-delivery.aquaplatform.com
     * tfn-static.aquaplatform.com
+    * thinkresult-static.aquaplatform.com
     * unionesarda-delivery.aquaplatform.com
     * unionesarda-static.aquaplatform.com
     * viasat-console.aquaplatform.com
@@ -427,6 +428,7 @@
 | servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | www.servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | static.trackandfieldnews.com | tfn-static.aquaplatform.com |
+| static.thinkresult.in | thinkresult-static.aquaplatform.com |
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
 | cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
 | www.cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |

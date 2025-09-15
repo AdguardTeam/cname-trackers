@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,7 +40,6 @@ elpushnot.com CNAME .
 fft.delovoemesto.ru CNAME .
 gaz-help.ru CNAME .
 he.zymorico.ru CNAME .
-liveislive.bid CNAME .
 m3.repka.online CNAME .
 media.olmiweb.com CNAME .
 media.rabbit.click CNAME .
@@ -52,7 +51,6 @@ news.unsere-news.ru CNAME .
 newup.bid CNAME .
 noradown.bid CNAME .
 nservw.net CNAME .
-onemontay.ru CNAME .
 owmedia.rabbit.click CNAME .
 owpush.rabbit.click CNAME .
 p.netork.ru CNAME .
@@ -73,6 +71,7 @@ rbfive.bid CNAME .
 rbfour.bid CNAME .
 rbig.pcyk.ru CNAME .
 rbone.link CNAME .
+rbparks.sskarta.ru CNAME .
 rbthre.work CNAME .
 rdv.naruto-base.tv CNAME .
 real.dvanadva.ru CNAME .
@@ -86,9 +85,9 @@ vi.zolivexo.store CNAME .
 workerhome.click CNAME .
 www.1astrjasr.ru CNAME .
 www.5738.ru CNAME .
+www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .
 www.aviator-game.info CNAME .
-www.eshii.ru CNAME .
 www.fasder12.ru CNAME .
 www.fasder12.store CNAME .
 www.gorrio.ru CNAME .

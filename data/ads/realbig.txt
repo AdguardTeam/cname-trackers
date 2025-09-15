@@ -29,7 +29,6 @@
 ||fft.delovoemesto.ru^
 ||gaz-help.ru^
 ||he.zymorico.ru^
-||liveislive.bid^
 ||m3.repka.online^
 ||media.olmiweb.com^
 ||media.rabbit.click^
@@ -41,7 +40,6 @@
 ||newup.bid^
 ||noradown.bid^
 ||nservw.net^
-||onemontay.ru^
 ||owmedia.rabbit.click^
 ||owpush.rabbit.click^
 ||p.netork.ru^
@@ -62,6 +60,7 @@
 ||rbfour.bid^
 ||rbig.pcyk.ru^
 ||rbone.link^
+||rbparks.sskarta.ru^
 ||rbthre.work^
 ||rdv.naruto-base.tv^
 ||real.dvanadva.ru^
@@ -75,9 +74,9 @@
 ||workerhome.click^
 ||www.1astrjasr.ru^
 ||www.5738.ru^
+||www.allworldinfo5.ru^
 ||www.androidstores.ru^
 ||www.aviator-game.info^
-||www.eshii.ru^
 ||www.fasder12.ru^
 ||www.fasder12.store^
 ||www.gorrio.ru^

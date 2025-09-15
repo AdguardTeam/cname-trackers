@@ -5,6 +5,7 @@
 * utiq-aws.net
     * frontend.prod.utiq-aws.net
     * frontend.test.utiq-aws.net
+    * frontend6.prod.utiq-aws.net
 
 ## Cloaking domains
 
@@ -406,6 +407,7 @@
 | utiq.traum-deutung.de | frontend.prod.utiq-aws.net |
 | utiq.travelbook.de | frontend.prod.utiq-aws.net |
 | utiq.trendencias.com | frontend.prod.utiq-aws.net |
+| utiq.tuobenessere.it | frontend.prod.utiq-aws.net |
 | utiq.tvspielfilm.de | frontend.prod.utiq-aws.net |
 | utiq.tz.de | frontend.prod.utiq-aws.net |
 | utiq.usinger-anzeiger.de | frontend.prod.utiq-aws.net |
@@ -443,6 +445,7 @@
 | utiq.xatakawindows.com | frontend.prod.utiq-aws.net |
 | utiq.zdnet.fr | frontend.prod.utiq-aws.net |
 | utiq.zeit.de | frontend.prod.utiq-aws.net |
+| vfde-fixed.mno.link | frontend.prod.utiq-aws.net |
 | vfes.mno.link | frontend.prod.utiq-aws.net |
 | vfit.mno.link | frontend.prod.utiq-aws.net |
 | vfuk.mno.link | frontend.prod.utiq-aws.net |
@@ -457,3 +460,4 @@
 | utiq.utest3.work | frontend.test.utiq-aws.net |
 | vfdemsp.mno.link | frontend.test.utiq-aws.net |
 | vfesmsp.mno.link | frontend.test.utiq-aws.net |
+| vfde-fixed6.mno.link | frontend6.prod.utiq-aws.net |

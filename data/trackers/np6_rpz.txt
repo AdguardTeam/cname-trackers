@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -47,7 +47,6 @@ tr.ag2rlamondiale.fr CNAME .
 tr.agefiseminaires.com CNAME .
 tr.alex.espmp-agfr.net CNAME .
 tr.allianz-trade.com CNAME .
-tr.allopneus.com CNAME .
 tr.animation.lexpress.fr CNAME .
 tr.animation.micromania.fr CNAME .
 tr.animations.bfmtv.com CNAME .
@@ -211,6 +210,7 @@ tr.cclx.espmp-agfr.net CNAME .
 tr.cdiscount.3wregie.com CNAME .
 tr.ceeregion.moethennessy.com CNAME .
 tr.cgpme.medef-gironde.fr CNAME .
+tr.chapsdata.chapsvision.com CNAME .
 tr.christmas.petit-bateau.com CNAME .
 tr.chronodrive.com CNAME .
 tr.ciblexo.fr CNAME .
@@ -411,6 +411,7 @@ tr.emailing.canalplus-afrique.com CNAME .
 tr.emailing.canalplus-caledonie.com CNAME .
 tr.emailing.canalplus-caraibes.com CNAME .
 tr.emailing.canalplus-haiti.com CNAME .
+tr.emailing.canalplus-internet.com CNAME .
 tr.emailing.canalplus-maurice.com CNAME .
 tr.emailing.canalplus-polynesie.com CNAME .
 tr.emailing.canalplus-reunion.com CNAME .
@@ -878,7 +879,6 @@ tr.news.moethennessy.com CNAME .
 tr.news.mon-horoscope.info CNAME .
 tr.news.monvoyant.fr CNAME .
 tr.news.mperformance.fr CNAME .
-tr.news.normandie.cci.fr CNAME .
 tr.news.np6.com CNAME .
 tr.news.onetoonemba.com CNAME .
 tr.news.ouestnormandie.cci.fr CNAME .
@@ -928,7 +928,6 @@ tr.newsletter.actalians.fr CNAME .
 tr.newsletter.afpa.fr CNAME .
 tr.newsletter.alimgouv.fr CNAME .
 tr.newsletter.assuragency.net CNAME .
-tr.newsletter.astro-mail.com CNAME .
 tr.newsletter.bauermedia.fr CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.bouygues.com CNAME .
@@ -1232,9 +1231,9 @@ tr1.mperf.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
 tr2.mperf.com CNAME .
 tr4.mailperf.com CNAME .
+tr5.mailperf.com CNAME .
 tr5.mperf.com CNAME .
 tr6.mperf.com CNAME .
-tracking.allopneus.com CNAME .
 www.fodgfip.fr CNAME .
 www.newsletter.banquepopulaire.fr CNAME .
 www.np6.eu CNAME .
@@ -1247,8 +1246,8 @@ f1.mperf.com CNAME .
 f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
+www.bfc-mp.caisse-epargne.fr CNAME .
 s.gemy.fr CNAME .
+s.np6.com CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
-tr5.mailperf.com CNAME .
-www.bfc-mp.caisse-epargne.fr CNAME .

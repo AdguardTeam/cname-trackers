@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -430,6 +430,7 @@ my.weplayvolleyball.lt CNAME .
 my.weplayvolleyball.ro CNAME .
 my.weplayvolleyball.si CNAME .
 my.weplayvolleyball.sk CNAME .
+objevuj.amazingplaces.cz CNAME .
 online.pdfknihovna.cz CNAME .
 partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
@@ -465,6 +466,7 @@ partner.bio-nehty.cz CNAME .
 partner.biomag.cz CNAME .
 partner.birne.com CNAME .
 partner.bitcoinzmenaren.sk CNAME .
+partner.bloominds.cz CNAME .
 partner.bohempia.com CNAME .
 partner.bomtonbeauty.cz CNAME .
 partner.bontonck.cz CNAME .
@@ -556,7 +558,6 @@ partner.farbe.cz CNAME .
 partner.ferratum.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
-partner.fitnessrevolucia.sk CNAME .
 partner.forcell.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.forkys.store CNAME .
@@ -682,6 +683,7 @@ partner.olivum.cz CNAME .
 partner.olo.cz CNAME .
 partner.onlinepriznani.cz CNAME .
 partner.onlinepriznanie.sk CNAME .
+partner.organikk.cz CNAME .
 partner.oriclo.cz CNAME .
 partner.ozogan.cz CNAME .
 partner.palstorm.cz CNAME .
@@ -951,7 +953,6 @@ provize.wugi.cz CNAME .
 provize.zazitkovelety.cz CNAME .
 provizia.mimulo.sk CNAME .
 proviznisystem.kanclir.cz CNAME .
-rek.rybizak.cz CNAME .
 royalfamily.royalchaga.sk CNAME .
 special.kvetinyexpres.cz CNAME .
 splatky.aquatrend.sk CNAME .

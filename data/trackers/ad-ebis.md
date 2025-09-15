@@ -192,6 +192,7 @@
     * 8ac48788-f3n6dqvs.cname.ebis.ne.jp
     * 8b8d4818-24xatymd.cname.ebis.ne.jp
     * 8ce836c2-scxitlgt.cname.ebis.ne.jp
+    * 8debf8e3-jtmaxrx7.cname.ebis.ne.jp
     * 8f087789-nkcrsmeh.cname.ebis.ne.jp
     * 8f5032fb-baawdyfz.cname.ebis.ne.jp
     * 8f7ab7df-baawdyfz.cname.ebis.ne.jp
@@ -549,6 +550,7 @@
 | adebis.s-toushi.jp | 8ac48788-f3n6dqvs.cname.ebis.ne.jp |
 | ebis.apo-mjob.com | 8b8d4818-24xatymd.cname.ebis.ne.jp |
 | cs2087sbeda.haken-kanri.net | 8ce836c2-scxitlgt.cname.ebis.ne.jp |
+| ebis.glico-direct.jp | 8debf8e3-jtmaxrx7.cname.ebis.ne.jp |
 | cname.finess.jp | 8f087789-nkcrsmeh.cname.ebis.ne.jp |
 | adebis.shinseibank.com | 8f5032fb-baawdyfz.cname.ebis.ne.jp |
 | adebis.sbishinseibank.co.jp | 8f7ab7df-baawdyfz.cname.ebis.ne.jp |

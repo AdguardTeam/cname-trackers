@@ -16,6 +16,7 @@
 ||af.mobile.free.fr^
 ||afm.alphatick.com^
 ||afm.cnthevtmarkets.com^
+||afm.cnvtglobal.com^
 ||afm.crointech.io^
 ||afm.hoiltech.info^
 ||afm.infinox.com^
@@ -751,6 +752,7 @@
 ||membership-device.secured-igaming-services.com^
 ||meox.alliancebizsmart.com.my^
 ||meox.allianceonline.com.my^
+||metrix.ancestry.com^
 ||metrix.motosport.com^
 ||metrix.us.ovhcloud.com^
 ||mnt.sbisec.co.jp^
@@ -816,6 +818,7 @@
 ||prod-acutx.chaperone.lumindigitalhosting.com^
 ||prod-addition.chaperone.lumindigitalhosting.com^
 ||prod-afcutn.chaperone.lumindigitalhosting.com^
+||prod-affinity.chaperone.lumindigitalhosting.com^
 ||prod-aocumi.chaperone.lumindigitalhosting.com^
 ||prod-apcifcu.chaperone.lumindigitalhosting.com^
 ||prod-ascuaz.chaperone.lumindigitalhosting.com^
@@ -823,6 +826,7 @@
 ||prod-berne.chaperone.lumindigitalhosting.com^
 ||prod-blucurrent.chaperone.lumindigitalhosting.com^
 ||prod-cardinal.chaperone.lumindigitalhosting.com^
+||prod-ccuil.chaperone.lumindigitalhosting.com^
 ||prod-cfcuwi.chaperone.lumindigitalhosting.com^
 ||prod-citadel.chaperone.lumindigitalhosting.com^
 ||prod-comfin.chaperone.lumindigitalhosting.com^
@@ -855,6 +859,7 @@
 ||prod-pacservice.chaperone.lumindigitalhosting.com^
 ||prod-pathways.chaperone.lumindigitalhosting.com^
 ||prod-prospera.chaperone.lumindigitalhosting.com^
+||prod-redcanoe.chaperone.lumindigitalhosting.com^
 ||prod-redwood.chaperone.lumindigitalhosting.com^
 ||prod-riverfront.chaperone.lumindigitalhosting.com^
 ||prod-selco.chaperone.lumindigitalhosting.com^
@@ -878,6 +883,7 @@
 ||prod-vsecuvt.chaperone.lumindigitalhosting.com^
 ||prod-wccuri.chaperone.lumindigitalhosting.com^
 ||prod-westccu.chaperone.lumindigitalhosting.com^
+||prod-wings.chaperone.lumindigitalhosting.com^
 ||prof4rs.cembrapay.ch^
 ||profiling.cmo.cibc.com^
 ||profiling.digitalbusiness.cibc.com^
@@ -956,7 +962,6 @@
 ||sec.login.mail.goo.ne.jp^
 ||sec.login.ocn.ne.jp^
 ||sec.login.sdnp.ntt.ocn.ne.jp^
-||sec.mypage.ntt.com^
 ||sec.mypage.ocn.ne.jp^
 ||sec.plala.or.jp^
 ||secure-collector.zen.com^
@@ -1113,6 +1118,7 @@
 ||tm.benevity.org^
 ||tm.betano.ar^
 ||tm.betano.be^
+||tm.betano.bet.ar^
 ||tm.betano.bet.br^
 ||tm.betano.bg^
 ||tm.betano.ca^
@@ -1300,7 +1306,6 @@
 ||west-eu-0156743.medirect.nl^
 ||wfp.intuit.com^
 ||wildcard.humm.ie^
-||wkvjee5b.globalpay.com^
 ||wkvjee5b.paviliononline.io^
 ||wp.kroger.com^
 ||wptm.worldvision.org^
@@ -1326,4 +1331,3 @@
 ||zfp.intuit.com^
 ||zrn.payglocal.com^
 ||identity4.citidirect.com^
-||onoutput.com^

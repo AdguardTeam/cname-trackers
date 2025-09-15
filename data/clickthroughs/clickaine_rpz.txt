@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,8 +32,8 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 asg.redfans.org CNAME .
-bat25.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
+c4n.allporncomics.co CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.asianpinay.com CNAME .
 c4n.hotjavmovies.com CNAME .
@@ -76,6 +76,7 @@ dfx.xtapes.porn CNAME .
 dr1.piczlabs.com CNAME .
 dr3.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
+excavajo7.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 ge6.getfto.com CNAME .
@@ -117,7 +118,6 @@ ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
 taco.sexreels.net CNAME .
 v040419.badjojo.com CNAME .
-wafe.camcaps.sx CNAME .
 wp.brandnewapp.pro CNAME .
 www.bokep.su CNAME .
 www.brandnewapp.pro CNAME .
@@ -125,6 +125,7 @@ www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
 www.telford.brandnewapp.pro CNAME .
+www.web5603.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

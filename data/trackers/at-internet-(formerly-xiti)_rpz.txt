@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -104,6 +104,5 @@ tse.telerama.fr CNAME .
 waati.quechoisir.org CNAME .
 wareneingang.edeka.de CNAME .
 www.strawberry.basf.com CNAME .
-y1.arte.tv CNAME .
 zelten.fritz-berger.de CNAME .
 zug.sbb.ch CNAME .

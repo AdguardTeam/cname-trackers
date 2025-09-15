@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757318409523        ; Serial
+           1757923209353        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,10 +16,12 @@ anal.sataniskwijt.be CNAME .
 analy.rusz.space CNAME .
 analytics.applycreatures.com CNAME .
 analytics.astuto.io CNAME .
+analytics.brandsistency.com CNAME .
 analytics.code.dccouncil.gov CNAME .
 analytics.code.dccouncil.us CNAME .
 analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
+analytics.digitaleyes.ai CNAME .
 analytics.kubasta.net CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.law.lco-nsn.gov CNAME .
