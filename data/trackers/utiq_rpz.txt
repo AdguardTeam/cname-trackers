@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ dtpen.mno.link CNAME .
 esca-test.mno.link CNAME .
 esca.mno.link CNAME .
 fakexa-post.mno.link CNAME .
+freefr-fixed.mno.link CNAME .
 logger-test.mno.link CNAME .
 mgntat.mno.link CNAME .
 o2de.mno.link CNAME .

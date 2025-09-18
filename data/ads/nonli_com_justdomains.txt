@@ -15,6 +15,7 @@ go.publicsenat.fr
 go.rfi.fr
 go.saveurs-magazine.fr
 go.solidworks.com
+hn.h24.news
 ie.h24.news
 in.h24.news
 it.h24.news
@@ -119,6 +120,7 @@ l.jeuneafrique.com
 l.jeuxvideo.com
 l.journaldemillau.fr
 l.journaldesfemmes.fr
+l.konbini.com
 l.koolmag.fr
 l.la-croix.com
 l.lacremedugaming.fr
@@ -162,6 +164,7 @@ l.mariefrance.fr
 l.marmiton.org
 l.marsactu.fr
 l.maxisciences.com
+l.mediacites.fr
 l.mediapart.fr
 l.medisite.fr
 l.melty.fr

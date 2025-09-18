@@ -301,6 +301,7 @@
 | static.notgoingtouni.co.uk | ngtu-static.aquaplatform.com |
 | console.everythingcolorado.com | oneboat-console.aquaplatform.com |
 | console.imagineobx.com | oneboat-console.aquaplatform.com |
+| servedby.everythingcolorado.com | oneboat-delivery.aquaplatform.com |
 | servedby.everythingnevada.com | oneboat-delivery.aquaplatform.com |
 | servedby.imagineobx.com | oneboat-delivery.aquaplatform.com |
 | servedby.tahoe.com | oneboat-delivery.aquaplatform.com |
@@ -319,7 +320,6 @@
 | cdn.personare.com.br | personare-static.aquaplatform.com |
 | adimages.infotorg.se | platformiq-cdn.aquaplatform.com |
 | adimages.marriagetrac.com | platformiq-cdn.aquaplatform.com |
-| adimages.proforums.com | platformiq-cdn.aquaplatform.com |
 | adimages.rtvdrenthe.nl | platformiq-cdn.aquaplatform.com |
 | adztech-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
@@ -337,6 +337,7 @@
 | omroepflevoland-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
+| rtvutrecht-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | static.hollandhortimedia.nl | platformiq-cdn.aquaplatform.com |
 | www.adimages.infotorg.se | platformiq-cdn.aquaplatform.com |
 | www.images.informatm.com | platformiq-cdn.aquaplatform.com |
@@ -357,8 +358,8 @@
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
 | servedby.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.xtraa.org | platformiq-del.aquaplatform.com |
+| veenmedia-ads.reviveservers.com | platformiq-del.aquaplatform.com |
 | webtool-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
-| www.proforums.com | platformiq-del.aquaplatform.com |
 | xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.portwest.com | portwest-delivery.aquaplatform.com |
 | console.postandparcel.info | postandparcel-console.aquaplatform.com |
@@ -428,6 +429,7 @@
 | servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | www.servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | static.trackandfieldnews.com | tfn-static.aquaplatform.com |
+| cdn-thinkresult.revive-adserver.net | thinkresult-static.aquaplatform.com |
 | static.thinkresult.in | thinkresult-static.aquaplatform.com |
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
 | cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |

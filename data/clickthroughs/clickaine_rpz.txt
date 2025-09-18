@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -118,6 +118,7 @@ ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
 taco.sexreels.net CNAME .
 v040419.badjojo.com CNAME .
+web5603.brandnewapp.pro CNAME .
 wp.brandnewapp.pro CNAME .
 www.bokep.su CNAME .
 www.brandnewapp.pro CNAME .
@@ -126,6 +127,7 @@ www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
 www.telford.brandnewapp.pro CNAME .
 www.web5603.brandnewapp.pro CNAME .
+www.xn--www-hn0a.rtnews.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

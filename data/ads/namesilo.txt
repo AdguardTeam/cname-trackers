@@ -549,6 +549,8 @@
 ||3524303.notifysrv.com^
 ||3524325.notifysrv.com^
 ||3524339.notify6.com^
+||3527699.notify6.com^
+||3527699.notifysrv.com^
 ||3530761.notify6.com^
 ||3532273.notifysrv.com^
 ||3532663.notifysrv.com^
@@ -572,6 +574,7 @@
 ||3563655.notify6.com^
 ||3563663.notifysrv.com^
 ||3566695.notifysrv.com^
+||3566697.notifysrv.com^
 ||3566839.notifysrv.com^
 ||3566873.notifysrv.com^
 ||3568955.notify6.com^
@@ -579,6 +582,7 @@
 ||3569513.notifysrv.com^
 ||3570033.notifysrv.com^
 ||3570673.notify6.com^
+||3570727.notifysrv.com^
 ||3570737.notifysrv.com^
 ||3570741.notifysrv.com^
 ||3570789.notifysrv.com^
@@ -597,6 +601,7 @@
 ||3572303.notifysrv.com^
 ||3572904.notifysrv.com^
 ||3576531.notifysrv.com^
+||3578231.notify6.com^
 ||3578231.notifysrv.com^
 ||3578233.notify6.com^
 ||3578235.notify6.com^
@@ -645,6 +650,7 @@
 ||3603119.notifysrv.com^
 ||3607715.notify6.com^
 ||3607715.notifysrv.com^
+||3608083.notifysrv.com^
 ||3608417.notifysrv.com^
 ||3613079.notify6.com^
 ||3613299.notifysrv.com^
@@ -685,6 +691,7 @@
 ||3662897.notifysrv.com^
 ||3662963.notifysrv.com^
 ||3662967.notify6.com^
+||3662967.notifysrv.com^
 ||3662975.notifysrv.com^
 ||3667313.notifysrv.com^
 ||3668783.notifysrv.com^
@@ -797,6 +804,7 @@
 ||3887544.notify6.com^
 ||3898244.notify6.com^
 ||3898280.notify6.com^
+||3898346.notify6.com^
 ||3898378.notify6.com^
 ||3903162.notify6.com^
 ||3903164.notify6.com^
@@ -891,6 +899,7 @@
 ||4046268.notify6.com^
 ||4046272.notify6.com^
 ||4048172.notify6.com^
+||4050544.notify6.com^
 ||4052.notify.optimizesrv.com^
 ||4052808.notify6.com^
 ||4052828.notify6.com^
@@ -937,6 +946,7 @@
 ||4152316.notify6.com^
 ||4152318.notify6.com^
 ||4152322.notify6.com^
+||4152324.notify6.com^
 ||4152328.notify6.com^
 ||4153216.notify6.com^
 ||4160048.notify6.com^
@@ -1089,6 +1099,7 @@
 ||4863208.notify6.com^
 ||4872274.notify6.com^
 ||4872816.notify6.com^
+||4881146.notify6.com^
 ||4882380.notify6.com^
 ||4882844.notify6.com^
 ||4888136.notify6.com^
@@ -1170,19 +1181,23 @@
 ||a.asvsm.com^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
+||a.bizonads-ssp.com^
 ||a.brilmaver.com^
 ||a.cant3am.com^
 ||a.crme7srv.com^
+||a.etology.com^
 ||a.eunow4u.com^
 ||a.gatherstar.io^
 ||a.golhofer.com^
 ||a.huklop.com^
+||a.ku34bh9la09.com^
 ||a.ma3ion.com^
 ||a.mx.notifysrv.com^
 ||a.n4m5x60.com^
 ||a.ns.notifysrv.com^
 ||a.optimizesrv.com^
 ||a.ouzads.com^
+||a.pinkads.org^
 ||a.playa.to^
 ||a.q88z1s3.com^
 ||a.r8lnet.com^
@@ -1196,6 +1211,7 @@
 ||access.notifysrv.com^
 ||accounting.notifysrv.com^
 ||ada.notifysrv.com^
+||admin.adxnow.com^
 ||admin.datingclix.com^
 ||admin.etology.com^
 ||admin.exoclick.com^
@@ -1210,6 +1226,7 @@
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
 ||adrepository.opoxv.com^
+||ads.optimizesrv.com^
 ||ads.toroadvertising.com^
 ||adult.notifysrv.com^
 ||android.notifysrv.com^
@@ -1305,6 +1322,7 @@
 ||s.brilmaver.com^
 ||s.cant3am.com^
 ||s.chnsrv.com^
+||s.cm9srv.com^
 ||s.crme7srv.com^
 ||s.datingclix.com^
 ||s.ds0yue.com^
@@ -1354,6 +1372,7 @@
 ||s.dsjo13.com^
 ||s.dskjl8.com^
 ||s.dskwke.com^
+||s.dsldv6.com^
 ||s.dsonb4.com^
 ||s.dsqcjk.com^
 ||s.dss1bi.com^
@@ -1642,6 +1661,3 @@
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
 ||a.adsession.com^
-||a.bizonads-ssp.com^
-||a.etology.com^
-||ads.optimizesrv.com^

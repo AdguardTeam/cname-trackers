@@ -2,6 +2,7 @@
 # Company name: Piwik PRO
 a.relayto.com
 a.uwhealth.org
+analysis-test.sozialversicherung.at
 analysis.sozialversicherung.at
 analytics.akvo.org
 analytics.arz.at
@@ -33,6 +34,7 @@ ptm.wuerth.de
 purple.fitchconnect.com
 pwk.tweedekamer.nl
 site-analytics.iop.ohio.gov
+stat.kela.fi
 statistics.ind.nl
 statistiek.rechtspraak.nl
 statistiek.rijksoverheid.nl

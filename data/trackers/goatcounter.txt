@@ -135,6 +135,7 @@
 ||stats.niravraval.com^
 ||stats.nullzwo.dev^
 ||stats.opensurge2d.org^
+||stats.otbivnoe.ru^
 ||stats.palaisdesfetes.eu^
 ||stats.r18.dev^
 ||stats.raycordlegends.com^

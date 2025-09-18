@@ -15,13 +15,15 @@
     * effectory.piwik.pro
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
+    * fjordtravel.piwik.pro
     * helen.piwik.pro
+    * hogeschool.piwik.pro
     * ind.piwik.pro
     * jetu.piwik.pro
+    * kela.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
-    * netdriven.piwik.pro
     * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * polpharma.piwik.pro
@@ -37,9 +39,11 @@
     * sozialversicherung.piwik.pro
     * stateofohio.piwik.pro
     * storck.piwik.pro
+    * svc-test.piwik.pro
     * tigital.piwik.pro
     * triodos.piwik.pro
     * tweedekamer.piwik.pro
+    * twyzle-prod.piwik.pro
     * uninstalled.piwik.pro
     * uwhealth.piwik.pro
     * uwv.piwik.pro
@@ -54,7 +58,6 @@
 | ---- | ---- |
 | analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
-| dnsbl.test.tag.aumago.com | aumago.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
 | piwik.slotsparadise.com | betus.piwik.pro |
@@ -67,15 +70,17 @@
 | analytics.effectory.com | effectory.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
+| fpt.fjordtravel.no | fjordtravel.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
+| analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
 | wa.mybookie.ag | jetu.piwik.pro |
 | wa.xbet.ag | jetu.piwik.pro |
+| stat.kela.fi | kela.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
-| stats.netdriven.com | netdriven.piwik.pro |
 | statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | polpharmaanalytics.pl | polpharma.piwik.pro |
@@ -88,9 +93,11 @@
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.hr.nl | pp-public-p-euw.piwik.pro |
+| analytics.hr.nl | pp-public-p-euw.piwik.pro |
 | analytics.webanalytics.op.europa.eu | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
+| fpt.fjordtravel.no | pp-public-p-euw.piwik.pro |
 | fpt.fjordtravel.no | pp-public-p-euw.piwik.pro |
 | inzicht.cz.nl | pp-public-p-euw.piwik.pro |
 | inzicht.cz.nl | pp-public-p-euw.piwik.pro |
@@ -118,6 +125,7 @@
 | tag2.uwv.nl | pp-public-p-euw.piwik.pro |
 | webanalytics.helen.fi | pp-public-p-euw.piwik.pro |
 | webanalytics.helen.fi | pp-public-p-euw.piwik.pro |
+| analysis-test.sozialversicherung.at | pp-public-p-gwc.piwik.pro |
 | analysis.sozialversicherung.at | pp-public-p-gwc.piwik.pro |
 | analysis.sozialversicherung.at | pp-public-p-gwc.piwik.pro |
 | analytics.arz.at | pp-public-p-gwc.piwik.pro |
@@ -128,11 +136,9 @@
 | p.zwilling.com | pp-public-p-gwc.piwik.pro |
 | piwik.com-online.com | pp-public-p-gwc.piwik.pro |
 | ptm.wuerth.de | pp-public-p-gwc.piwik.pro |
-| ptm.wuerth.de | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tagadmin.aumago.com | pp-public-p-gwc.piwik.pro |
-| wa.mybookie.ag | pp-public-p-gwc.piwik.pro |
 | wa.mybookie.ag | pp-public-p-gwc.piwik.pro |
 | wa.xbet.ag | pp-public-p-gwc.piwik.pro |
 | a.uwhealth.org | pp-public-p-use.piwik.pro |
@@ -153,12 +159,15 @@
 | analytics.dx.ohio.gov | stateofohio.piwik.pro |
 | site-analytics.iop.ohio.gov | stateofohio.piwik.pro |
 | logfiles.storck.com | storck.piwik.pro |
+| analysis-test.sozialversicherung.at | svc-test.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
 | pwk.tweedekamer.nl | tweedekamer.piwik.pro |
+| piwik.twyzle.com | twyzle-prod.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
+| stat.kela.fi | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |
 | a.uwhealth.org | uwhealth.piwik.pro |
@@ -167,5 +176,4 @@
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |
 | analytics.witglobal.net | witglobal.piwik.pro |
-| ptm.wuerth.de | witglobal.piwik.pro |
 | p.zwilling.com | zwilling.piwik.pro |

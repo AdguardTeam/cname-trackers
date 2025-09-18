@@ -601,7 +601,6 @@
 | partner.iodesign.cz | cz.affilbox.cz |
 | partner.italier.cz | cz.affilbox.cz |
 | partner.izlato24.cz | cz.affilbox.cz |
-| partner.jak-na-bolava-zada.cz | cz.affilbox.cz |
 | partner.jakfotitsladke.cz | cz.affilbox.cz |
 | partner.jakserychlenaucit.cz | cz.affilbox.cz |
 | partner.jbimbishop.cz | cz.affilbox.cz |
@@ -892,7 +891,6 @@
 | partneri.plantobesto.com | cz.affilbox.cz |
 | partneri.portske.cz | cz.affilbox.cz |
 | partneri.prectime.cz | cz.affilbox.cz |
-| partneri.professionail.sk | cz.affilbox.cz |
 | partneri.proficredit.cz | cz.affilbox.cz |
 | partneri.pulzsro.cz | cz.affilbox.cz |
 | partneri.puravia.cz | cz.affilbox.cz |

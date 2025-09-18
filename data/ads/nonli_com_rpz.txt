@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ go.publicsenat.fr CNAME .
 go.rfi.fr CNAME .
 go.saveurs-magazine.fr CNAME .
 go.solidworks.com CNAME .
+hn.h24.news CNAME .
 ie.h24.news CNAME .
 in.h24.news CNAME .
 it.h24.news CNAME .
@@ -130,6 +131,7 @@ l.jeuneafrique.com CNAME .
 l.jeuxvideo.com CNAME .
 l.journaldemillau.fr CNAME .
 l.journaldesfemmes.fr CNAME .
+l.konbini.com CNAME .
 l.koolmag.fr CNAME .
 l.la-croix.com CNAME .
 l.lacremedugaming.fr CNAME .
@@ -173,6 +175,7 @@ l.mariefrance.fr CNAME .
 l.marmiton.org CNAME .
 l.marsactu.fr CNAME .
 l.maxisciences.com CNAME .
+l.mediacites.fr CNAME .
 l.mediapart.fr CNAME .
 l.medisite.fr CNAME .
 l.melty.fr CNAME .

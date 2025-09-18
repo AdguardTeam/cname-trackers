@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 a.relayto.com CNAME .
 a.uwhealth.org CNAME .
+analysis-test.sozialversicherung.at CNAME .
 analysis.sozialversicherung.at CNAME .
 analytics.akvo.org CNAME .
 analytics.arz.at CNAME .
@@ -44,6 +45,7 @@ ptm.wuerth.de CNAME .
 purple.fitchconnect.com CNAME .
 pwk.tweedekamer.nl CNAME .
 site-analytics.iop.ohio.gov CNAME .
+stat.kela.fi CNAME .
 statistics.ind.nl CNAME .
 statistiek.rechtspraak.nl CNAME .
 statistiek.rijksoverheid.nl CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -116,7 +116,6 @@ a.eniza.site CNAME .
 a.entia.site CNAME .
 a.eramb.site CNAME .
 a.etrem.site CNAME .
-a.famestporn.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.fedim.site CNAME .
@@ -180,6 +179,7 @@ a.maturepussyporn.net CNAME .
 a.moninas.store CNAME .
 a.mystr1.xyz CNAME .
 a.ninase.sbs CNAME .
+a.oforx.live CNAME .
 a.pchat.com CNAME .
 a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
@@ -659,6 +659,7 @@ js.phoenixmanga.com CNAME .
 js.redshieldcar.com CNAME .
 js.syosetu.top CNAME .
 js.xemkqxs.com CNAME .
+jsnd.fapnado.xxx CNAME .
 jx3.freepornobook.com CNAME .
 k.bloblohub.com CNAME .
 k2o2ls46.xyz CNAME .
@@ -667,6 +668,7 @@ key.sexymovie.name CNAME .
 ki.solujav.my CNAME .
 kimmy.faduz.xyz CNAME .
 kinktsy.com CNAME .
+kkat.hgesqwfqw.online CNAME .
 kliqz.com CNAME .
 kr.sampleperson.site CNAME .
 kra.timbuk.online CNAME .
@@ -811,7 +813,6 @@ ok.forwank.com CNAME .
 ok.transhero.com CNAME .
 okoloss.com CNAME .
 one.iugbhsu.com CNAME .
-ontj.com CNAME .
 ooawsxkdrm.club CNAME .
 opopop.oplaksik.online CNAME .
 opus.sexyxxx.biz CNAME .
@@ -907,7 +908,6 @@ quziao.xyz CNAME .
 qx0.xnxxtubevideos.com CNAME .
 qyusgj.xyz CNAME .
 r.archertube.com CNAME .
-r.erohabu.com CNAME .
 r.tropictube.com CNAME .
 r2.cdn1cloudflare.xyz CNAME .
 rainbo9.com CNAME .
@@ -934,6 +934,7 @@ rpazaa.xyz CNAME .
 rs.picmega.com CNAME .
 rsd.viagrahtabs.shop CNAME .
 rst.pornyhd.com CNAME .
+ruradura.com CNAME .
 s.axioporn.online CNAME .
 s.bigpornhd.mom CNAME .
 s.bussyhunter.com CNAME .
@@ -956,7 +957,6 @@ s.remonti.org CNAME .
 s.searforsear.online CNAME .
 s.septed.site CNAME .
 s.superporn.online CNAME .
-s.thepornfree.me CNAME .
 s.vipdube.com CNAME .
 s1.streaminporn.com CNAME .
 s1sentablya.teenfuckhd.com CNAME .
@@ -970,6 +970,9 @@ sal.easyfreesex.com CNAME .
 sandbox-insight.bloblohub.com CNAME .
 satmon.neekstore.com CNAME .
 saver.icscourierx-press.com CNAME .
+scontent-lax1-3.cdnthreads.com CNAME .
+scontent-nrt1-1.cdnthreads.com CNAME .
+scontent-sin1-2.cdnthreads.com CNAME .
 scottk.hubhubhub.name CNAME .
 scrapejav128.fun CNAME .
 sdg.desihamster.pro CNAME .
@@ -1170,6 +1173,7 @@ x.xxxbule.com CNAME .
 x.xxxbule.tv CNAME .
 x.xxxbule2.com CNAME .
 x.xxxex.com CNAME .
+x.xxxxxx.name CNAME .
 x1-24.fin.ovh CNAME .
 x1-p25d.fin.ovh CNAME .
 x1cdn.fin.ovh CNAME .
@@ -1216,11 +1220,14 @@ perfectvids.com CNAME .
 store4porn.com CNAME .
 topsexmovs.com CNAME .
 video.cdnako.com CNAME .
+a.famestporn.com CNAME .
+goallbest.com CNAME .
+nolojo.com CNAME .
+r.erohabu.com CNAME .
 a.fantastixxx.co CNAME .
 a.mysalo.store CNAME .
 a.viralnewsbd.xyz CNAME .
 adservc.com CNAME .
 avview3431.fun CNAME .
-goallbest.com CNAME .
-nolojo.com CNAME .
 now.plsgotoasg.com CNAME .
+ontj.com CNAME .

@@ -1,0 +1,45 @@
+;
+; Company name: Monetag
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1758216659096        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+1fxt.com CNAME .
+2ddq.com CNAME .
+2dgg.com CNAME .
+6tip.com CNAME .
+80xy.com CNAME .
+amelectivireer.com CNAME .
+astropiusa.com CNAME .
+audraghafamign.com CNAME .
+bemoltrestor.com CNAME .
+beseviperor.com CNAME .
+betpanpourer.com CNAME .
+d70i.com CNAME .
+f03f.com CNAME .
+g4nd.com CNAME .
+gys5.com CNAME .
+ih31.com CNAME .
+injolteona.com CNAME .
+ips9.com CNAME .
+jup9.com CNAME .
+k3on.com CNAME .
+ldy5.com CNAME .
+opvileplumeon.com CNAME .
+r8bz.com CNAME .
+rndcombuskenor.com CNAME .
+roulatioser.com CNAME .
+unslowbror.com CNAME .
+viaferroseedan.com CNAME .
+xgr5.com CNAME .
+xgv1.com CNAME .
+yovcb.com CNAME .
+yzwtz.com CNAME .
+zk1w.com CNAME .

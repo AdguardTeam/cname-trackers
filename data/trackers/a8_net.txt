@@ -158,6 +158,7 @@
 ||a8.industrial-branch.com^
 ||a8.infinitussub.com^
 ||a8.ippin-do.com^
+||a8.jfax.com^
 ||a8.jiiawater.com^
 ||a8.joygirl.jp^
 ||a8.joylab.jp^
@@ -382,7 +383,6 @@
 ||a8aspconv.xn--auso-net-h53gmnzi.com^
 ||a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com^
 ||a8aspconv.xn--biglobe-kc9k.com^
-||a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com^
 ||a8atcomsme.mellife.jp^
 ||a8clic.alcosystem.co.jp^
 ||a8click.daini2.co.jp^

@@ -7,6 +7,7 @@ adat.automotor.hu
 adat.bama.hu
 adat.baon.hu
 adat.beol.hu
+adat.biharinaplo.ro
 adat.bihon.ro
 adat.boon.hu
 adat.borsonline.hu
@@ -37,6 +38,7 @@ adat.mandiner.hu
 adat.mediaworks.hu
 adat.metropol.hu
 adat.mindmegette.hu
+adat.mlog.hu
 adat.nemzetisport.hu
 adat.nool.hu
 adat.origo.hu

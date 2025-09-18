@@ -16,6 +16,7 @@
 | dtpen.mno.link | frontend.prod.utiq-aws.net |
 | esca.mno.link | frontend.prod.utiq-aws.net |
 | fakexa-post.mno.link | frontend.prod.utiq-aws.net |
+| freefr-fixed.mno.link | frontend.prod.utiq-aws.net |
 | mgntat.mno.link | frontend.prod.utiq-aws.net |
 | o2de.mno.link | frontend.prod.utiq-aws.net |
 | orangefr.mno.link | frontend.prod.utiq-aws.net |

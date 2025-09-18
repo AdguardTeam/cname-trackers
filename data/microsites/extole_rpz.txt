@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -133,14 +133,10 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em1476.princesscruises.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
-em2287.theory.com CNAME .
-em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em8561.go2bank.com CNAME .
-em8642.notifications.acorns.com CNAME .
+em5807.turbotax.refer.intuit.com CNAME .
 em924.refer.starbucks.com CNAME .
+em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -794,16 +790,22 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 xtl._domainkey.walmartmoneycard.com CNAME .
+xtl2._domainkey.mail.propertyperks.xfinity.com CNAME .
+em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
+em5230.rewards.dailypay.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
 em8031.soundcloud.com CNAME .
+em8561.go2bank.com CNAME .
+em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
-em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.dailypay.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
@@ -818,7 +820,6 @@ xtl._domainkey.turbotax.refer.intuit.com CNAME .
 xtl._domainkey.zoom.us CNAME .
 xtl2._domainkey.dailypay.com CNAME .
 xtl2._domainkey.forgetrust.com CNAME .
-xtl2._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl2._domainkey.mail.raf.xfinity.com CNAME .
 xtl2._domainkey.notifications.acorns.com CNAME .
 xtl2._domainkey.refer.starbucks.com CNAME .

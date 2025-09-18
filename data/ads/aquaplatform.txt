@@ -14,7 +14,6 @@
 ||adimages.eva.live^
 ||adimages.infotorg.se^
 ||adimages.marriagetrac.com^
-||adimages.proforums.com^
 ||adimages.rtvdrenthe.nl^
 ||adimages.sniffies.com^
 ||ads-console.recon.com^
@@ -63,6 +62,7 @@
 ||brandmovers-delivery.reviveservers.com^
 ||by.addrecipes.com^
 ||cdn-adv.unionesarda.it^
+||cdn-thinkresult.revive-adserver.net^
 ||cdn.adspmg.com^
 ||cdn.conservativestar.com^
 ||cdn.datateam.co.uk^
@@ -151,6 +151,7 @@
 ||revive-static.worldscreen.com^
 ||revive.ahk.de^
 ||revive.worldscreen.com^
+||rtvutrecht-static.reviveservers.com^
 ||serve.faithlifeads.com^
 ||servedby.adbility-media.com^
 ||servedby.ammoland.com^
@@ -162,6 +163,7 @@
 ||servedby.cincinnatimagazine.com^
 ||servedby.cricketworld.com^
 ||servedby.engineeringnews.co.za^
+||servedby.everythingcolorado.com^
 ||servedby.everythingnevada.com^
 ||servedby.geminipub.com^
 ||servedby.greenspring.com^
@@ -241,6 +243,7 @@
 ||streaming.leightonbroadcasting.com^
 ||tlads.midtc.com^
 ||treehouse.wwoz.org^
+||veenmedia-ads.reviveservers.com^
 ||webtool-delivery.reviveservers.com^
 ||www.adconsole.proxibid.com^
 ||www.adimages.infotorg.se^
@@ -276,7 +279,6 @@
 ||www.images.hour-media.com^
 ||www.images.informatm.com^
 ||www.lalala.geenstijl.nl^
-||www.proforums.com^
 ||www.revive-static.worldscreen.com^
 ||www.revive.ahk.de^
 ||www.revive.worldscreen.com^

@@ -172,6 +172,7 @@
 | a8.industrial-branch.com | trck.a8.net |
 | a8.infinitussub.com | trck.a8.net |
 | a8.ippin-do.com | trck.a8.net |
+| a8.jfax.com | trck.a8.net |
 | a8.jiiawater.com | trck.a8.net |
 | a8.joygirl.jp | trck.a8.net |
 | a8.joylab.jp | trck.a8.net |
@@ -396,7 +397,6 @@
 | a8aspconv.xn--auso-net-h53gmnzi.com | trck.a8.net |
 | a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com | trck.a8.net |
 | a8aspconv.xn--biglobe-kc9k.com | trck.a8.net |
-| a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com | trck.a8.net |
 | a8atcomsme.mellife.jp | trck.a8.net |
 | a8clic.alcosystem.co.jp | trck.a8.net |
 | a8click.daini2.co.jp | trck.a8.net |

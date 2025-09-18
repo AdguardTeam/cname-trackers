@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -450,7 +450,6 @@ data-39822b659f.meine-vrm.de CNAME .
 data-39822b659f.mittelhessen.de CNAME .
 data-39822b659f.oberhessische-zeitung.de CNAME .
 data-39822b659f.rhein-liebe.de CNAME .
-data-39822b659f.rlptoday.de CNAME .
 data-39822b659f.vrm-immo.de CNAME .
 data-39822b659f.vrm-jobs.de CNAME .
 data-39822b659f.vrm-trauer.de CNAME .
@@ -520,6 +519,7 @@ data-421b67c653.ka-news.de CNAME .
 data-421b67c653.karriereregion.de CNAME .
 data-4248af8297.futurezone.at CNAME .
 data-433d34b411.babyclub.de CNAME .
+data-440c1b089a.apps.iocnt.de CNAME .
 data-44384eebca.allgaeuer-zeitung.de CNAME .
 data-443a5e05f5.muehlacker-tagblatt.de CNAME .
 data-4494a61d21.chefkoch.de CNAME .
@@ -1367,7 +1367,6 @@ data-a01a8a1ba4.echo-online.de CNAME .
 data-a01a8a1ba4.fupa.net CNAME .
 data-a01a8a1ba4.giessener-anzeiger.de CNAME .
 data-a01a8a1ba4.hessen-liebe.de CNAME .
-data-a01a8a1ba4.hessentoday.de CNAME .
 data-a01a8a1ba4.kreis-anzeiger.de CNAME .
 data-a01a8a1ba4.lampertheimer-zeitung.de CNAME .
 data-a01a8a1ba4.lauterbacher-anzeiger.de CNAME .
@@ -1375,7 +1374,6 @@ data-a01a8a1ba4.main-spitze.de CNAME .
 data-a01a8a1ba4.mittelhessen.de CNAME .
 data-a01a8a1ba4.oberhessische-zeitung.de CNAME .
 data-a01a8a1ba4.rhein-liebe.de CNAME .
-data-a01a8a1ba4.rlptoday.de CNAME .
 data-a01a8a1ba4.usinger-anzeiger.de CNAME .
 data-a01a8a1ba4.vrm-immo.de CNAME .
 data-a01a8a1ba4.vrm-trauer.de CNAME .
@@ -1466,6 +1464,7 @@ data-a9dcbfdd12.dk-online.de CNAME .
 data-a9dcbfdd12.noz.de CNAME .
 data-aa4a1f6eab.apps.iocnt.de CNAME .
 data-aa5df368fb.landundforst.de CNAME .
+data-aa67ab16ab.form-werkzeug.de CNAME .
 data-aa70fe4f08.jam.fm CNAME .
 data-aac883f83b.offiziellecharts.de CNAME .
 data-aacb93c032.atv.at CNAME .
@@ -1501,6 +1500,7 @@ data-adb7e5fd38.pfennigparade.de CNAME .
 data-ade1ea328b.stylebook.de CNAME .
 data-ae3b90ec02.apps.iocnt.de CNAME .
 data-ae56befb78.apps.iocnt.de CNAME .
+data-ae7a5d1f7a.waldkraiburg.de CNAME .
 data-ae81bed93b.familien-glueck.de CNAME .
 data-ae81bed93b.immostimme.de CNAME .
 data-ae81bed93b.jobstimme.de CNAME .
@@ -2322,6 +2322,7 @@ data-fdf4690b14.radiokw.de CNAME .
 data-fdf4690b14.radiomuelheim.de CNAME .
 data-fdf4690b14.radiooberhausen.de CNAME .
 data-fdf4690b14.radiosauerland.de CNAME .
+data-fdf4690b14.trauer.de CNAME .
 data-fdf649e16e.bfv.de CNAME .
 data-fdf649e16e.liga2-online.de CNAME .
 data-fdf649e16e.liga3-online.de CNAME .

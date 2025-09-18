@@ -7,6 +7,7 @@ dtpen.mno.link
 esca-test.mno.link
 esca.mno.link
 fakexa-post.mno.link
+freefr-fixed.mno.link
 logger-test.mno.link
 mgntat.mno.link
 o2de.mno.link

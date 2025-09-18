@@ -439,7 +439,6 @@
 ||data-39822b659f.mittelhessen.de^
 ||data-39822b659f.oberhessische-zeitung.de^
 ||data-39822b659f.rhein-liebe.de^
-||data-39822b659f.rlptoday.de^
 ||data-39822b659f.vrm-immo.de^
 ||data-39822b659f.vrm-jobs.de^
 ||data-39822b659f.vrm-trauer.de^
@@ -509,6 +508,7 @@
 ||data-421b67c653.karriereregion.de^
 ||data-4248af8297.futurezone.at^
 ||data-433d34b411.babyclub.de^
+||data-440c1b089a.apps.iocnt.de^
 ||data-44384eebca.allgaeuer-zeitung.de^
 ||data-443a5e05f5.muehlacker-tagblatt.de^
 ||data-4494a61d21.chefkoch.de^
@@ -1356,7 +1356,6 @@
 ||data-a01a8a1ba4.fupa.net^
 ||data-a01a8a1ba4.giessener-anzeiger.de^
 ||data-a01a8a1ba4.hessen-liebe.de^
-||data-a01a8a1ba4.hessentoday.de^
 ||data-a01a8a1ba4.kreis-anzeiger.de^
 ||data-a01a8a1ba4.lampertheimer-zeitung.de^
 ||data-a01a8a1ba4.lauterbacher-anzeiger.de^
@@ -1364,7 +1363,6 @@
 ||data-a01a8a1ba4.mittelhessen.de^
 ||data-a01a8a1ba4.oberhessische-zeitung.de^
 ||data-a01a8a1ba4.rhein-liebe.de^
-||data-a01a8a1ba4.rlptoday.de^
 ||data-a01a8a1ba4.usinger-anzeiger.de^
 ||data-a01a8a1ba4.vrm-immo.de^
 ||data-a01a8a1ba4.vrm-trauer.de^
@@ -1455,6 +1453,7 @@
 ||data-a9dcbfdd12.noz.de^
 ||data-aa4a1f6eab.apps.iocnt.de^
 ||data-aa5df368fb.landundforst.de^
+||data-aa67ab16ab.form-werkzeug.de^
 ||data-aa70fe4f08.jam.fm^
 ||data-aac883f83b.offiziellecharts.de^
 ||data-aacb93c032.atv.at^
@@ -1490,6 +1489,7 @@
 ||data-ade1ea328b.stylebook.de^
 ||data-ae3b90ec02.apps.iocnt.de^
 ||data-ae56befb78.apps.iocnt.de^
+||data-ae7a5d1f7a.waldkraiburg.de^
 ||data-ae81bed93b.familien-glueck.de^
 ||data-ae81bed93b.immostimme.de^
 ||data-ae81bed93b.jobstimme.de^
@@ -2311,6 +2311,7 @@
 ||data-fdf4690b14.radiomuelheim.de^
 ||data-fdf4690b14.radiooberhausen.de^
 ||data-fdf4690b14.radiosauerland.de^
+||data-fdf4690b14.trauer.de^
 ||data-fdf649e16e.bfv.de^
 ||data-fdf649e16e.liga2-online.de^
 ||data-fdf649e16e.liga3-online.de^

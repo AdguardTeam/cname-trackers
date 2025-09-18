@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,7 +25,6 @@ adimages.associationheadquarters.com CNAME .
 adimages.eva.live CNAME .
 adimages.infotorg.se CNAME .
 adimages.marriagetrac.com CNAME .
-adimages.proforums.com CNAME .
 adimages.rtvdrenthe.nl CNAME .
 adimages.sniffies.com CNAME .
 ads-console.recon.com CNAME .
@@ -74,6 +73,7 @@ banners.leightonbroadcasting.com CNAME .
 brandmovers-delivery.reviveservers.com CNAME .
 by.addrecipes.com CNAME .
 cdn-adv.unionesarda.it CNAME .
+cdn-thinkresult.revive-adserver.net CNAME .
 cdn.adspmg.com CNAME .
 cdn.conservativestar.com CNAME .
 cdn.datateam.co.uk CNAME .
@@ -162,6 +162,7 @@ revive-console.worldscreen.com CNAME .
 revive-static.worldscreen.com CNAME .
 revive.ahk.de CNAME .
 revive.worldscreen.com CNAME .
+rtvutrecht-static.reviveservers.com CNAME .
 serve.faithlifeads.com CNAME .
 servedby.adbility-media.com CNAME .
 servedby.ammoland.com CNAME .
@@ -173,6 +174,7 @@ servedby.channelvas.com CNAME .
 servedby.cincinnatimagazine.com CNAME .
 servedby.cricketworld.com CNAME .
 servedby.engineeringnews.co.za CNAME .
+servedby.everythingcolorado.com CNAME .
 servedby.everythingnevada.com CNAME .
 servedby.geminipub.com CNAME .
 servedby.greenspring.com CNAME .
@@ -252,6 +254,7 @@ stommeplaatjes.geenstijl.nl CNAME .
 streaming.leightonbroadcasting.com CNAME .
 tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
+veenmedia-ads.reviveservers.com CNAME .
 webtool-delivery.reviveservers.com CNAME .
 www.adconsole.proxibid.com CNAME .
 www.adimages.infotorg.se CNAME .
@@ -287,7 +290,6 @@ www.images.fnch.ch CNAME .
 www.images.hour-media.com CNAME .
 www.images.informatm.com CNAME .
 www.lalala.geenstijl.nl CNAME .
-www.proforums.com CNAME .
 www.revive-static.worldscreen.com CNAME .
 www.revive.ahk.de CNAME .
 www.revive.worldscreen.com CNAME .

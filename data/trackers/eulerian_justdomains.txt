@@ -63,6 +63,7 @@ bpe2.destinia.co.il
 bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
+c0i.ckoi.com
 c45cc75f.eulerian.io
 c4dv.copinesdevoyage.com
 ca.clubavantages.net
@@ -81,7 +82,6 @@ ct5m.citadium.com
 cvi6.destinia.qa
 cyf9.destinia.cl
 d0f.le-dauphin.com
-d2u.dauphinquebec.com
 deut1.fdj.fr
 deut2.fdj.fr
 deut3.fdj.fr
@@ -144,7 +144,6 @@ ea.millet-mountain.com
 ea.millet-mountain.de
 ea.millet.fr
 ea.mistergatesdirect.com
-ea.mnt.fr
 ea.mondial-assistance.fr
 ea.mydailyhotel.com
 ea.mywarner.warnerbros.fr
@@ -167,7 +166,6 @@ ea.roxy.eu
 ea.sadyr.es
 ea.smallable.com
 ea.sport2000.fr
-ea.telecommandeonline.com
 ea.tool-fitness.com
 ea.topsante.com
 ea.toscane-boutique.fr
@@ -255,6 +253,7 @@ gdm1.toner.fr
 gf7t.cheques-cadeaux-culturels.fr
 gfn1.ugap.fr
 gfv4.destinia.co.za
+gi7a.structube.com
 gli9.inseec-bs.com
 gnh2.destinia.lv
 gsg9.carrefour-banque.fr
@@ -265,6 +264,7 @@ hbo5.concours-pass.com
 hby7.destinia.it
 hde1.repentignychevrolet.com
 hgf4.zanzicar.fr
+hk2d.tourismemauricie.com
 idg1.idgarages.com
 igc0.destinia.at
 inv3te.oui.sncf
@@ -279,6 +279,7 @@ jhm3.ifgexecutive.com
 jo2f.cheque-cadhoc.fr
 kep6.destinia.ie
 kwsjy9.oui.sncf
+l2i.qualityinnlevis.com
 lbc.lesbonscommerces.fr
 leo1.leon-de-bruxelles.fr
 let1.devialet.com
@@ -346,6 +347,7 @@ pcnphysio-com.ca-eulerian.net
 pgt1.voyage-prive.es
 piq4.inseec.education
 pjh7.us.chantelle.com
+pk1u.melanielyne.com
 pkc5.hardrockhoteltenerife.com
 pm.pmu.fr
 po.ponant.com
@@ -408,6 +410,7 @@ t.locasun.it
 t.locasun.nl
 t.pmu.fr
 t.voyages-sncf.com
+t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tdf1.easyviaggio.com
@@ -466,6 +469,7 @@ xy33.smallable.com
 xya4.groupefsc.com
 xze5.femilet.dk
 yf5.voyage-prive.at
+yio.tremblant.ca
 yoc.younited-credit.com
 ysl3.destinia.ec
 yst4.muchoviaje.com
@@ -480,14 +484,9 @@ zs.voyage-prive.com
 zsi7.destinia.do
 zum7cc.oui.sncf
 zyq2.destinia.sk
-c0i.ckoi.com
 c0p.cepsum.umontreal.ca
-hk2d.tourismemauricie.com
-l2i.qualityinnlevis.com
+d2u.dauphinquebec.com
 rwl.tremblant.ca
-t0y.toyota.ca
 www.mis.tourisme-montreal.org
-yio.tremblant.ca
-gi7a.structube.com
+ea.mnt.fr
 nym5c.laura.ca
-pk1u.melanielyne.com

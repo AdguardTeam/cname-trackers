@@ -102,6 +102,7 @@ sponsor.syracuse.com
 45c8960dbf.0c6be7f968.com
 462c268c7c.4cd79ce97b.com
 471a6f102f.bab3105053.com
+48d25a1156.0b8c767b16.com
 4a2aac440d.7e4c883e71.com
 4ada3756e4.390c1c46b8.com
 4bfa8970e7.8aee7f6429.com
@@ -197,10 +198,8 @@ sponsor.syracuse.com
 8f86146731.afdf573aba.com
 92764a4dd9.a3f602992f.com
 9352c090d1.11a0ba1170.com
-9474c237fd.4ae6b21135.com
 9572f39990.c90dc23040.com
 95cb7382fe.e6c5f295b4.com
-9ad4aa9b37.8c450453b2.com
 9b27c61c1e.a07154cac7.com
 9b81706c09.c161949ece.com
 9db0eb07b5.8a53b29c07.com
@@ -221,7 +220,6 @@ aa47e07c73.f85d290a92.com
 aa884225ad.84747737e0.com
 ab68f17c55.ac94c2b385.com
 adae2f8a3d.087f389ba8.com
-ae70938aca.1837fcaea1.com
 af26280486.a1057123f0.com
 af62ccc4c8.153c349024.com
 afd2557582.e2957dfa03.com
@@ -248,6 +246,7 @@ bf38c78f71.4c1d9ff598.com
 bf69292cc9.71f3eb2dc9.com
 bf8d745387.77f02948e0.com
 bfc49acc80.363644db24.com
+c1bc8643b5.dc3f10eee9.com
 c21c977b97.693085b049.com
 c22366265d.8d46e91bf0.com
 c2a0609d8f.92d31be64a.com
@@ -274,6 +273,7 @@ d603ed603c.dff6af78c7.com
 d6d4404a24.b4a2c277e6.com
 d727d64b02.21d7fe5b3f.com
 da72088eb8.e424766a73.com
+da8decc07d.fa389e64bf.com
 db2691c38a.1141cb64d2.com
 dd80d3eba7.22b8bd2b91.com
 dd8add5afa.3c0448ff06.com
@@ -334,7 +334,6 @@ a135.wftv.com
 mlive.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
-wvtm13.share.ntv.io
 a135.fox23.com
 a135.wpxi.com
 a135.wsbtv.com
@@ -396,6 +395,7 @@ time.share.ntv.io
 travelandleisure.share.ntv.io
 usnews.share.ntv.io
 wsbradio.share.ntv.io
+wvtm13.share.ntv.io
 www.share.ntv.io
 a235.beaumontenterprise.com
 a235.chron.com

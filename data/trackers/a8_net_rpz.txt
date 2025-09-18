@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -169,6 +169,7 @@ a8.imagi-nation.jp CNAME .
 a8.industrial-branch.com CNAME .
 a8.infinitussub.com CNAME .
 a8.ippin-do.com CNAME .
+a8.jfax.com CNAME .
 a8.jiiawater.com CNAME .
 a8.joygirl.jp CNAME .
 a8.joylab.jp CNAME .
@@ -393,7 +394,6 @@ a8aspconv.ns-softbank-hikari.com CNAME .
 a8aspconv.xn--auso-net-h53gmnzi.com CNAME .
 a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
-a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com CNAME .
 a8atcomsme.mellife.jp CNAME .
 a8clic.alcosystem.co.jp CNAME .
 a8click.daini2.co.jp CNAME .

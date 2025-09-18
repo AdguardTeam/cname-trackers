@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -113,6 +113,7 @@ sponsor.syracuse.com CNAME .
 45c8960dbf.0c6be7f968.com CNAME .
 462c268c7c.4cd79ce97b.com CNAME .
 471a6f102f.bab3105053.com CNAME .
+48d25a1156.0b8c767b16.com CNAME .
 4a2aac440d.7e4c883e71.com CNAME .
 4ada3756e4.390c1c46b8.com CNAME .
 4bfa8970e7.8aee7f6429.com CNAME .
@@ -208,10 +209,8 @@ sponsor.syracuse.com CNAME .
 8f86146731.afdf573aba.com CNAME .
 92764a4dd9.a3f602992f.com CNAME .
 9352c090d1.11a0ba1170.com CNAME .
-9474c237fd.4ae6b21135.com CNAME .
 9572f39990.c90dc23040.com CNAME .
 95cb7382fe.e6c5f295b4.com CNAME .
-9ad4aa9b37.8c450453b2.com CNAME .
 9b27c61c1e.a07154cac7.com CNAME .
 9b81706c09.c161949ece.com CNAME .
 9db0eb07b5.8a53b29c07.com CNAME .
@@ -232,7 +231,6 @@ aa47e07c73.f85d290a92.com CNAME .
 aa884225ad.84747737e0.com CNAME .
 ab68f17c55.ac94c2b385.com CNAME .
 adae2f8a3d.087f389ba8.com CNAME .
-ae70938aca.1837fcaea1.com CNAME .
 af26280486.a1057123f0.com CNAME .
 af62ccc4c8.153c349024.com CNAME .
 afd2557582.e2957dfa03.com CNAME .
@@ -259,6 +257,7 @@ bf38c78f71.4c1d9ff598.com CNAME .
 bf69292cc9.71f3eb2dc9.com CNAME .
 bf8d745387.77f02948e0.com CNAME .
 bfc49acc80.363644db24.com CNAME .
+c1bc8643b5.dc3f10eee9.com CNAME .
 c21c977b97.693085b049.com CNAME .
 c22366265d.8d46e91bf0.com CNAME .
 c2a0609d8f.92d31be64a.com CNAME .
@@ -285,6 +284,7 @@ d603ed603c.dff6af78c7.com CNAME .
 d6d4404a24.b4a2c277e6.com CNAME .
 d727d64b02.21d7fe5b3f.com CNAME .
 da72088eb8.e424766a73.com CNAME .
+da8decc07d.fa389e64bf.com CNAME .
 db2691c38a.1141cb64d2.com CNAME .
 dd80d3eba7.22b8bd2b91.com CNAME .
 dd8add5afa.3c0448ff06.com CNAME .
@@ -345,7 +345,6 @@ a135.wftv.com CNAME .
 mlive.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
-wvtm13.share.ntv.io CNAME .
 a135.fox23.com CNAME .
 a135.wpxi.com CNAME .
 a135.wsbtv.com CNAME .
@@ -407,6 +406,7 @@ time.share.ntv.io CNAME .
 travelandleisure.share.ntv.io CNAME .
 usnews.share.ntv.io CNAME .
 wsbradio.share.ntv.io CNAME .
+wvtm13.share.ntv.io CNAME .
 www.share.ntv.io CNAME .
 a235.beaumontenterprise.com CNAME .
 a235.chron.com CNAME .

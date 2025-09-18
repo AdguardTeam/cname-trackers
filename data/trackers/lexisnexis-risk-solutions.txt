@@ -426,6 +426,7 @@
 ||content.thebankoflondon.com^
 ||content.usps.com^
 ||content.varetire.org^
+||content.vi.gov^
 ||content.westcreekfin.com^
 ||content.wizink.es^
 ||content002.bet365.bet.br^
@@ -842,6 +843,7 @@
 ||prod-hfcuvt.chaperone.lumindigitalhosting.com^
 ||prod-hsfcuhi.chaperone.lumindigitalhosting.com^
 ||prod-humantx.chaperone.lumindigitalhosting.com^
+||prod-imcu.chaperone.lumindigitalhosting.com^
 ||prod-interracu.chaperone.lumindigitalhosting.com^
 ||prod-jaxfcufl.chaperone.lumindigitalhosting.com^
 ||prod-jfcudc.chaperone.lumindigitalhosting.com^
@@ -917,6 +919,7 @@
 ||rba.optumgovid.com^
 ||rba.optumid.com^
 ||rbawis.pocketcard.co.jp^
+||rct.ext.sofinco.fr^
 ||rebatecontent.finance.delaware.gov^
 ||regstat.betfair.bet.br^
 ||regstat.betfair.com^
@@ -1179,6 +1182,7 @@
 ||tmcdn.7sultanscasino.com^
 ||tmcdn.alljackpotscasino.com^
 ||tmcdn.allslotscasino.com^
+||tmcdn.betway.mx^
 ||tmcdn.europalace.com^
 ||tmcdn.gamingclub.com^
 ||tmcdn.grizzlysquest.com^
@@ -1265,6 +1269,7 @@
 ||ufp.intuit.com^
 ||uldfp.srilankan.com^
 ||umst.mobile.de^
+||uscmfm.rbccm.com^
 ||v.ayco.com^
 ||v.goldman.ch^
 ||v.goldman.com^
@@ -1322,6 +1327,7 @@
 ||www.content.mabanque.bnpparibas^
 ||www.content.mabanqueprivee.bnpparibas^
 ||www.content.mabanquepro.bnpparibas^
+||www.content.prev-espace-client.hellobank.fr^
 ||www.content.prev.connexion-mabanque.bnpparibas^
 ||xfp.intuit.com^
 ||xmt.paze.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -146,6 +146,7 @@ stats.ngdangtu.com CNAME .
 stats.niravraval.com CNAME .
 stats.nullzwo.dev CNAME .
 stats.opensurge2d.org CNAME .
+stats.otbivnoe.ru CNAME .
 stats.palaisdesfetes.eu CNAME .
 stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .

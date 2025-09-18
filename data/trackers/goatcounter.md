@@ -116,6 +116,7 @@
     * novi.goatcounter.com
     * ooo.goatcounter.com
     * opensurge.goatcounter.com
+    * otbivnoe.goatcounter.com
     * palaisdesfetes.goatcounter.com
     * psiyum.goatcounter.com
     * qrdate.goatcounter.com
@@ -288,6 +289,7 @@
 | novi.webnovi.eu | novi.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |
 | stats.opensurge2d.org | opensurge.goatcounter.com |
+| stats.otbivnoe.ru | otbivnoe.goatcounter.com |
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |

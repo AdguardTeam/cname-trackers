@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -437,6 +437,7 @@ content.tfbank.it CNAME .
 content.thebankoflondon.com CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
+content.vi.gov CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
 content002.bet365.bet.br CNAME .
@@ -853,6 +854,7 @@ prod-fsfcutn.chaperone.lumindigitalhosting.com CNAME .
 prod-hfcuvt.chaperone.lumindigitalhosting.com CNAME .
 prod-hsfcuhi.chaperone.lumindigitalhosting.com CNAME .
 prod-humantx.chaperone.lumindigitalhosting.com CNAME .
+prod-imcu.chaperone.lumindigitalhosting.com CNAME .
 prod-interracu.chaperone.lumindigitalhosting.com CNAME .
 prod-jaxfcufl.chaperone.lumindigitalhosting.com CNAME .
 prod-jfcudc.chaperone.lumindigitalhosting.com CNAME .
@@ -928,6 +930,7 @@ rba.onehealthcareid.com CNAME .
 rba.optumgovid.com CNAME .
 rba.optumid.com CNAME .
 rbawis.pocketcard.co.jp CNAME .
+rct.ext.sofinco.fr CNAME .
 rebatecontent.finance.delaware.gov CNAME .
 regstat.betfair.bet.br CNAME .
 regstat.betfair.com CNAME .
@@ -1190,6 +1193,7 @@ tm.verify.illion.com.au CNAME .
 tmcdn.7sultanscasino.com CNAME .
 tmcdn.alljackpotscasino.com CNAME .
 tmcdn.allslotscasino.com CNAME .
+tmcdn.betway.mx CNAME .
 tmcdn.europalace.com CNAME .
 tmcdn.gamingclub.com CNAME .
 tmcdn.grizzlysquest.com CNAME .
@@ -1276,6 +1280,7 @@ ucfs.sendpro360.pitneycloud.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .
+uscmfm.rbccm.com CNAME .
 v.ayco.com CNAME .
 v.goldman.ch CNAME .
 v.goldman.com CNAME .
@@ -1333,6 +1338,7 @@ www.content.hellobank.it CNAME .
 www.content.mabanque.bnpparibas CNAME .
 www.content.mabanqueprivee.bnpparibas CNAME .
 www.content.mabanquepro.bnpparibas CNAME .
+www.content.prev-espace-client.hellobank.fr CNAME .
 www.content.prev.connexion-mabanque.bnpparibas CNAME .
 xfp.intuit.com CNAME .
 xmt.paze.com CNAME .

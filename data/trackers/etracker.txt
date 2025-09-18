@@ -221,6 +221,7 @@
 ||webcontr.chiptuning.com^
 ||webcontr.crazy-heels.com^
 ||webcontr.distrebution.com^
+||webcontr.domondo.fr^
 ||webcontr.domondo.it^
 ||webcontr.fsj-digital-bw.de^
 ||webcontr.genius.tv^

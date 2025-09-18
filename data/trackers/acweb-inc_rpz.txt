@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ l.amamin.jp CNAME .
 l.ashita-sanuki.jp CNAME .
 l.boo-log.com CNAME .
 l.chesuto.jp CNAME .
+l.citylife-new.com CNAME .
 l.da-te.jp CNAME .
 l.dosugoi.net CNAME .
 l.e-iwate.com CNAME .

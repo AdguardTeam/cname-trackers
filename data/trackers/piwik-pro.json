@@ -1,6 +1,7 @@
 {
   "a.relayto.com": "pp-public-p-euw.piwik.pro",
   "a.uwhealth.org": "pp-public-p-use.piwik.pro",
+  "analysis-test.sozialversicherung.at": "pp-public-p-gwc.piwik.pro",
   "analysis.sozialversicherung.at": "pp-public-p-gwc.piwik.pro",
   "analytics.akvo.org": "pp-public-p-euw.piwik.pro",
   "analytics.arz.at": "pp-public-p-gwc.piwik.pro",
@@ -32,6 +33,7 @@
   "purple.fitchconnect.com": "pp-public-p-euw.piwik.pro",
   "pwk.tweedekamer.nl": "pp-public-p-euw.piwik.pro",
   "site-analytics.iop.ohio.gov": "pp-public-p-use.piwik.pro",
+  "stat.kela.fi": "uninstalled.piwik.pro",
   "statistics.ind.nl": "pp-public-p-euw.piwik.pro",
   "statistiek.rechtspraak.nl": "pp-public-p-euw.piwik.pro",
   "statistiek.rijksoverheid.nl": "rijksoverheid.piwik.pro",

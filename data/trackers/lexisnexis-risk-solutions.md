@@ -267,6 +267,7 @@
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
     * h-b3zpl92l.online-metrix.net
+    * h-b4bq7y80.online-metrix.net
     * h-b6te0xmf.online-metrix.net
     * h-badoo.online-metrix.net
     * h-bambu.online-metrix.net
@@ -441,6 +442,7 @@
     * h-disney.online-metrix.net
     * h-dnp-cdms.online-metrix.net
     * h-do3zrwjp.online-metrix.net
+    * h-dodo6wu7.online-metrix.net
     * h-doregtzf.online-metrix.net
     * h-dpugokq9.online-metrix.net
     * h-draftkings.online-metrix.net
@@ -885,6 +887,7 @@
 | prod-hfcuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-hsfcuhi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-humantx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-imcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-interracu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-jaxfcufl.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-jfcudc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1140,6 +1143,7 @@
 | dtrust.atratopago.com | h-8em5ysu2.online-metrix.net |
 | online-security.unionbankph.com | h-8hqbv9ql.online-metrix.net |
 | ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
+| rct.ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
 | ext.creditpartner.fr | h-8j0oqkrb-2.online-metrix.net |
 | afs.wearemp.com | h-8la63gsu.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
@@ -1235,6 +1239,7 @@
 | tmcdn.7sultanscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.alljackpotscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.allslotscasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.betway.mx | h-98oju8tz.online-metrix.net |
 | tmcdn.europalace.com | h-98oju8tz.online-metrix.net |
 | tmcdn.gamingclub.com | h-98oju8tz.online-metrix.net |
 | tmcdn.grizzlysquest.com | h-98oju8tz.online-metrix.net |
@@ -1352,6 +1357,7 @@
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
+| content.vi.gov | h-b4bq7y80.online-metrix.net |
 | srv.squaretrade.at | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.be | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.co.jp | h-b6te0xmf.online-metrix.net |
@@ -1479,6 +1485,7 @@
 | www.content.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.mabanqueprivee.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
+| www.content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | tcontent.cdiscountmobile.cdiscount.com | h-cdcmobile.online-metrix.net |
 | imagesmx.cdscdn.com | h-cdiscount.online-metrix.net |
@@ -1622,6 +1629,7 @@
 | fp.disney.go.com | h-disney.online-metrix.net |
 | acsweb-3dr1.dnp-cdms.jp | h-dnp-cdms.online-metrix.net |
 | ch.drs.wa.gov | h-do3zrwjp.online-metrix.net |
+| uscmfm.rbccm.com | h-dodo6wu7.online-metrix.net |
 | asanalytics.booking.com | h-doregtzf.online-metrix.net |
 | content.novunaconsumerfinance.co.uk | h-dpugokq9.online-metrix.net |
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |

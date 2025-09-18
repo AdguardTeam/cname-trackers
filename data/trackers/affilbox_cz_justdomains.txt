@@ -580,7 +580,6 @@ partner.investinslovakia.eu
 partner.iodesign.cz
 partner.italier.cz
 partner.izlato24.cz
-partner.jak-na-bolava-zada.cz
 partner.jakfotitsladke.cz
 partner.jakserychlenaucit.cz
 partner.jbimbishop.cz
@@ -871,7 +870,6 @@ partneri.piratecbd.cz
 partneri.plantobesto.com
 partneri.portske.cz
 partneri.prectime.cz
-partneri.professionail.sk
 partneri.proficredit.cz
 partneri.pulzsro.cz
 partneri.puravia.cz

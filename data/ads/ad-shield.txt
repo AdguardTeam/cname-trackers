@@ -70,6 +70,7 @@
 ||0.www.forrepresentzen.com^
 ||0.www.gahroundwhat.com^
 ||0.www.garroteoutlying.com^
+||0.www.greedilyperky.com^
 ||0.www.gutphewlittleoddly.com^
 ||0.www.hairyalligatorviolently.com^
 ||0.www.huzzahwhatintently.com^
@@ -93,6 +94,7 @@
 ||0.www.rogerouch.com^
 ||0.www.rundowndeep.com^
 ||0.www.secretvelvety.com^
+||0.www.slapswingthrough.com^
 ||0.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||0.www.sneakyangrilypromptlyupon.com^
 ||0.www.softlyacrossany.com^
@@ -180,6 +182,7 @@
 ||1.www.forrepresentzen.com^
 ||1.www.gahroundwhat.com^
 ||1.www.garroteoutlying.com^
+||1.www.greedilyperky.com^
 ||1.www.gutphewlittleoddly.com^
 ||1.www.hairyalligatorviolently.com^
 ||1.www.huzzahwhatintently.com^
@@ -204,6 +207,7 @@
 ||1.www.rogerouch.com^
 ||1.www.rundowndeep.com^
 ||1.www.secretvelvety.com^
+||1.www.slapswingthrough.com^
 ||1.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||1.www.sneakyangrilypromptlyupon.com^
 ||1.www.softlyacrossany.com^
@@ -293,6 +297,7 @@
 ||2.www.forrepresentzen.com^
 ||2.www.gahroundwhat.com^
 ||2.www.garroteoutlying.com^
+||2.www.greedilyperky.com^
 ||2.www.gutphewlittleoddly.com^
 ||2.www.hairyalligatorviolently.com^
 ||2.www.huzzahwhatintently.com^
@@ -316,6 +321,7 @@
 ||2.www.rogerouch.com^
 ||2.www.rundowndeep.com^
 ||2.www.secretvelvety.com^
+||2.www.slapswingthrough.com^
 ||2.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||2.www.sneakyangrilypromptlyupon.com^
 ||2.www.softlyacrossany.com^
@@ -402,6 +408,7 @@
 ||3.www.forrepresentzen.com^
 ||3.www.gahroundwhat.com^
 ||3.www.garroteoutlying.com^
+||3.www.greedilyperky.com^
 ||3.www.gutphewlittleoddly.com^
 ||3.www.hairyalligatorviolently.com^
 ||3.www.huzzahwhatintently.com^
@@ -425,6 +432,7 @@
 ||3.www.rogerouch.com^
 ||3.www.rundowndeep.com^
 ||3.www.secretvelvety.com^
+||3.www.slapswingthrough.com^
 ||3.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||3.www.sneakyangrilypromptlyupon.com^
 ||3.www.softlyacrossany.com^
@@ -513,6 +521,7 @@
 ||4.www.forrepresentzen.com^
 ||4.www.gahroundwhat.com^
 ||4.www.garroteoutlying.com^
+||4.www.greedilyperky.com^
 ||4.www.gutphewlittleoddly.com^
 ||4.www.hairyalligatorviolently.com^
 ||4.www.huzzahwhatintently.com^
@@ -537,6 +546,7 @@
 ||4.www.rogerouch.com^
 ||4.www.rundowndeep.com^
 ||4.www.secretvelvety.com^
+||4.www.slapswingthrough.com^
 ||4.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||4.www.sneakyangrilypromptlyupon.com^
 ||4.www.softlyacrossany.com^
@@ -624,6 +634,7 @@
 ||5.www.forrepresentzen.com^
 ||5.www.gahroundwhat.com^
 ||5.www.garroteoutlying.com^
+||5.www.greedilyperky.com^
 ||5.www.gutphewlittleoddly.com^
 ||5.www.hairyalligatorviolently.com^
 ||5.www.huzzahwhatintently.com^
@@ -647,6 +658,7 @@
 ||5.www.rogerouch.com^
 ||5.www.rundowndeep.com^
 ||5.www.secretvelvety.com^
+||5.www.slapswingthrough.com^
 ||5.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||5.www.sneakyangrilypromptlyupon.com^
 ||5.www.softlyacrossany.com^
@@ -734,6 +746,7 @@
 ||6.www.forrepresentzen.com^
 ||6.www.gahroundwhat.com^
 ||6.www.garroteoutlying.com^
+||6.www.greedilyperky.com^
 ||6.www.gutphewlittleoddly.com^
 ||6.www.hairyalligatorviolently.com^
 ||6.www.huzzahwhatintently.com^
@@ -757,6 +770,7 @@
 ||6.www.rogerouch.com^
 ||6.www.rundowndeep.com^
 ||6.www.secretvelvety.com^
+||6.www.slapswingthrough.com^
 ||6.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||6.www.sneakyangrilypromptlyupon.com^
 ||6.www.softlyacrossany.com^
@@ -843,6 +857,7 @@
 ||7.www.forrepresentzen.com^
 ||7.www.gahroundwhat.com^
 ||7.www.garroteoutlying.com^
+||7.www.greedilyperky.com^
 ||7.www.gutphewlittleoddly.com^
 ||7.www.hairyalligatorviolently.com^
 ||7.www.huzzahwhatintently.com^
@@ -866,6 +881,7 @@
 ||7.www.rogerouch.com^
 ||7.www.rundowndeep.com^
 ||7.www.secretvelvety.com^
+||7.www.slapswingthrough.com^
 ||7.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||7.www.sneakyangrilypromptlyupon.com^
 ||7.www.softlyacrossany.com^
@@ -952,6 +968,7 @@
 ||8.www.forrepresentzen.com^
 ||8.www.gahroundwhat.com^
 ||8.www.garroteoutlying.com^
+||8.www.greedilyperky.com^
 ||8.www.gutphewlittleoddly.com^
 ||8.www.hairyalligatorviolently.com^
 ||8.www.huzzahwhatintently.com^
@@ -976,6 +993,7 @@
 ||8.www.rogerouch.com^
 ||8.www.rundowndeep.com^
 ||8.www.secretvelvety.com^
+||8.www.slapswingthrough.com^
 ||8.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||8.www.sneakyangrilypromptlyupon.com^
 ||8.www.softlyacrossany.com^
@@ -1061,6 +1079,7 @@
 ||9.www.forrepresentzen.com^
 ||9.www.gahroundwhat.com^
 ||9.www.garroteoutlying.com^
+||9.www.greedilyperky.com^
 ||9.www.gutphewlittleoddly.com^
 ||9.www.hairyalligatorviolently.com^
 ||9.www.huzzahwhatintently.com^
@@ -1084,6 +1103,7 @@
 ||9.www.rogerouch.com^
 ||9.www.rundowndeep.com^
 ||9.www.secretvelvety.com^
+||9.www.slapswingthrough.com^
 ||9.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||9.www.sneakyangrilypromptlyupon.com^
 ||9.www.softlyacrossany.com^
@@ -1123,7 +1143,6 @@
 ||www.15223102.xyz^
 ||www.16211973.xyz^
 ||www.16239749.xyz^
-||www.16327739.xyz^
 ||www.17022993.xyz^
 ||www.17088440.xyz^
 ||www.17199874.xyz^
@@ -1135,9 +1154,7 @@
 ||www.21148843.xyz^
 ||www.22117898.xyz^
 ||www.22157064.xyz^
-||www.23879858.xyz^
 ||www.23907453.xyz^
-||www.24837724.xyz^
 ||www.25381553.xyz^
 ||www.27714296.xyz^
 ||www.28860928.xyz^
@@ -1167,7 +1184,6 @@
 ||www.46222568.xyz^
 ||www.47206262.xyz^
 ||www.47235645.xyz^
-||www.47296536.xyz^
 ||www.47415889.xyz^
 ||www.48304789.xyz^
 ||www.48654012.xyz^
@@ -1181,7 +1197,6 @@
 ||www.53469662.xyz^
 ||www.55766925.xyz^
 ||www.57473094.xyz^
-||www.58686728.xyz^
 ||www.59202140.xyz^
 ||www.59644010.xyz^
 ||www.5k71-k-t51u8q91otp3.xyz^
@@ -1196,7 +1211,6 @@
 ||www.661kkm40uu6srww1mvso.xyz^
 ||www.69681858.xyz^
 ||www.69799884.xyz^
-||www.72356275.xyz^
 ||www.72891504.xyz^
 ||www.73503921.xyz^
 ||www.73568955.xyz^
@@ -1215,8 +1229,6 @@
 ||www.80133082.xyz^
 ||www.80582834.xyz^
 ||www.82053148.xyz^
-||www.83409127.xyz^
-||www.83761158.xyz^
 ||www.84055600.xyz^
 ||www.84302764.xyz^
 ||www.85132058.xyz^
@@ -1246,6 +1258,7 @@
 ||www.forrepresentzen.com^
 ||www.gahroundwhat.com^
 ||www.garroteoutlying.com^
+||www.greedilyperky.com^
 ||www.gutphewlittleoddly.com^
 ||www.hairyalligatorviolently.com^
 ||www.huzzahwhatintently.com^
@@ -1271,6 +1284,7 @@
 ||www.rundowndeep.com^
 ||www.secretvelvety.com^
 ||www.skylinepasttomorrow.com^
+||www.slapswingthrough.com^
 ||www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||www.sneakyangrilypromptlyupon.com^
 ||www.softlyacrossany.com^

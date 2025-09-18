@@ -261,6 +261,7 @@ bobcat.snapshooter.io
 bonobo.nola.today
 boom.laravel.io
 bovid.neural.love
+bowie-cdn.fathomdns.com
 bug.onlinedating.de
 butterfly.coverworld.com.au
 butterfly.dharsh.dev
@@ -382,7 +383,6 @@ dog.orbit.love
 dog.rejuvenateyouohio.com
 dog.streameon.com
 dolphin.brandname.tech
-dolphin.mayansmithgobat.de
 dolphin.sfelc.com
 donkey.aerzteteam-luppe.de
 donkey.annieswinecottagepowell.com
@@ -454,7 +454,6 @@ flamingo.stacking-club.com
 flea.elbertsnaturalfoods.com
 flea.welikeoliver.com
 flyingfish.whoisrepresented.org
-fowl.saulhardman.com
 fowl.teamyap.app
 fox.visionaudiovisual.com
 frog.borgs.app
@@ -501,7 +500,6 @@ guanaco.redpixelthemes.com
 guanaco.shelter.stream
 guineapig.espressive.com
 guineapig.themenaffin.de
-gull.mayansmithgobat.com
 guppy.ausowned.com.au
 guppy.ironmic.fm
 guppy.omana.me
@@ -580,6 +578,7 @@ kite.zaahir.ca
 kiwi.coreyodonnell.tech
 kiwi.emilkowal.ski
 kiwi.halostats.app
+kiwi.mcan.sh
 kiwi.railway.app
 koala.getslopes.com
 koala.hicks.house
@@ -648,7 +647,6 @@ lynx.pascivite.com
 lynx.sbstjn.com
 lynx.simpleparish.com
 macaw.ianmitchell.dev
-macaw.lab75.jp
 mackerel.passiveincome.io
 magpie.onething.org
 manatee.biodom.bio
@@ -1047,7 +1045,6 @@ y5qhzz3q.designdetails.fm
 yak.auclantis.com
 yak.flutterblog.net
 yak.gregsullivan.com
-bowie-cdn.fathomdns.com
 ads.cdn.bndlapi.com
 ads.djc.com
 allnews.chestertelegraph.org

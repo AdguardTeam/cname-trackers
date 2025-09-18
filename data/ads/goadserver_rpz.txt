@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1757923209353        ; Serial
+           1758216659096        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+16x9tv.goaserv.com CNAME .
 a.go-traffic.com CNAME .
 acessonline.goasrv.com CNAME .
 ad.slimspots.com CNAME .
@@ -21,6 +22,7 @@ adserver.xtubexxx.com CNAME .
 advserver.asiantb.com CNAME .
 cdn.goasrv.com CNAME .
 display.digitalclickstime.com CNAME .
+exchange.go-srv.com CNAME .
 ff.charmduo.site CNAME .
 ff.datecraze.space CNAME .
 ff.datenest.store CNAME .
@@ -37,7 +39,6 @@ gg.luli7.com CNAME .
 go.adstroop.com CNAME .
 go.adxoclick.com CNAME .
 go.aoalmfwinbsstec23.com CNAME .
-go.bidvance.com CNAME .
 go.bigbang.solutions CNAME .
 go.delmovip.com CNAME .
 go.digitalclickstime.com CNAME .
@@ -133,31 +134,31 @@ live.qwirlz.com CNAME .
 live.trmzum.com CNAME .
 live.trudigo.com CNAME .
 live.zrmtrm.com CNAME .
-mx3.go-srv.com CNAME .
+mail3.go-srv.com CNAME .
+qo.goaserv.com CNAME .
 rtb.poensex.com CNAME .
 rtb.prnteen.com CNAME .
 rtb.zingtraffic.com CNAME .
 service.goadnow.com CNAME .
 service.zingtraffic.com CNAME .
+smtp3.go-srv.com CNAME .
 ssp.nontonfilm.xyz CNAME .
 supply.hornylust.com CNAME .
 track.trafficput.com CNAME .
 tt.typsad.com CNAME .
-www.tbllad.com CNAME .
-zz.shat1.com CNAME .
-16x9tv.goaserv.com CNAME .
-a.mx.go-srv.com CNAME .
-cs.go-srv.com CNAME .
-exchange.go-srv.com CNAME .
-gate.go-srv.com CNAME .
-go1.goaserv.com CNAME .
-mail3.go-srv.com CNAME .
-nl.goasrv.com CNAME .
-qo.goaserv.com CNAME .
-smtp3.go-srv.com CNAME .
-vps.go-srv.com CNAME .
 www.goaserv.com CNAME .
 www.goasrv.com CNAME .
+www.tbllad.com CNAME .
+www.tbllzon.com CNAME .
+zz.shat1.com CNAME .
+a.mx.go-srv.com CNAME .
+cs.go-srv.com CNAME .
+gate.go-srv.com CNAME .
+go.bidvance.com CNAME .
+go1.goaserv.com CNAME .
+mx3.go-srv.com CNAME .
+nl.goasrv.com CNAME .
+vps.go-srv.com CNAME .
 app.noviclick.com CNAME .
 data.goasrv.com CNAME .
 st.go-static.info CNAME .
