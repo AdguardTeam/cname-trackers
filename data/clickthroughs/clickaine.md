@@ -124,7 +124,6 @@
 | www.station54k.brandnewapp.pro | api.clickaine.com |
 | www.telford.brandnewapp.pro | api.clickaine.com |
 | www.web5603.brandnewapp.pro | api.clickaine.com |
-| www.xn--www-hn0a.rtnews.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

@@ -18,7 +18,6 @@
 | 0.www.16211973.xyz | ad-shield.cc |
 | 0.www.17199874.xyz | ad-shield.cc |
 | 0.www.19700902.xyz | ad-shield.cc |
-| 0.www.19706903.xyz | ad-shield.cc |
 | 0.www.29662166.xyz | ad-shield.cc |
 | 0.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 0.www.33109166.xyz | ad-shield.cc |
@@ -130,7 +129,6 @@
 | 1.www.16211973.xyz | ad-shield.cc |
 | 1.www.17199874.xyz | ad-shield.cc |
 | 1.www.19700902.xyz | ad-shield.cc |
-| 1.www.19706903.xyz | ad-shield.cc |
 | 1.www.29662166.xyz | ad-shield.cc |
 | 1.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 1.www.33109166.xyz | ad-shield.cc |
@@ -231,6 +229,7 @@
 | 1.www.worthequally.com | ad-shield.cc |
 | 1.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 1.www.yippeewhenever.com | ad-shield.cc |
+| 1.www.yuckbleaklyphooeywhen.com | ad-shield.cc |
 | 1.www.yumhusk.com | ad-shield.cc |
 | 2.www.02952346.xyz | ad-shield.cc |
 | 2.www.07443488.xyz | ad-shield.cc |
@@ -244,7 +243,6 @@
 | 2.www.16211973.xyz | ad-shield.cc |
 | 2.www.17199874.xyz | ad-shield.cc |
 | 2.www.19700902.xyz | ad-shield.cc |
-| 2.www.19706903.xyz | ad-shield.cc |
 | 2.www.29662166.xyz | ad-shield.cc |
 | 2.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 2.www.33109166.xyz | ad-shield.cc |
@@ -355,7 +353,6 @@
 | 3.www.16211973.xyz | ad-shield.cc |
 | 3.www.17199874.xyz | ad-shield.cc |
 | 3.www.19700902.xyz | ad-shield.cc |
-| 3.www.19706903.xyz | ad-shield.cc |
 | 3.www.29662166.xyz | ad-shield.cc |
 | 3.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 3.www.33109166.xyz | ad-shield.cc |
@@ -467,7 +464,6 @@
 | 4.www.16211973.xyz | ad-shield.cc |
 | 4.www.17199874.xyz | ad-shield.cc |
 | 4.www.19700902.xyz | ad-shield.cc |
-| 4.www.19706903.xyz | ad-shield.cc |
 | 4.www.29662166.xyz | ad-shield.cc |
 | 4.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 4.www.33109166.xyz | ad-shield.cc |
@@ -580,7 +576,6 @@
 | 5.www.16211973.xyz | ad-shield.cc |
 | 5.www.17199874.xyz | ad-shield.cc |
 | 5.www.19700902.xyz | ad-shield.cc |
-| 5.www.19706903.xyz | ad-shield.cc |
 | 5.www.29662166.xyz | ad-shield.cc |
 | 5.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 5.www.33109166.xyz | ad-shield.cc |
@@ -693,7 +688,6 @@
 | 6.www.16211973.xyz | ad-shield.cc |
 | 6.www.17199874.xyz | ad-shield.cc |
 | 6.www.19700902.xyz | ad-shield.cc |
-| 6.www.19706903.xyz | ad-shield.cc |
 | 6.www.29662166.xyz | ad-shield.cc |
 | 6.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 6.www.33109166.xyz | ad-shield.cc |
@@ -804,7 +798,6 @@
 | 7.www.16211973.xyz | ad-shield.cc |
 | 7.www.17199874.xyz | ad-shield.cc |
 | 7.www.19700902.xyz | ad-shield.cc |
-| 7.www.19706903.xyz | ad-shield.cc |
 | 7.www.29662166.xyz | ad-shield.cc |
 | 7.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 7.www.33109166.xyz | ad-shield.cc |
@@ -915,7 +908,6 @@
 | 8.www.16211973.xyz | ad-shield.cc |
 | 8.www.17199874.xyz | ad-shield.cc |
 | 8.www.19700902.xyz | ad-shield.cc |
-| 8.www.19706903.xyz | ad-shield.cc |
 | 8.www.29662166.xyz | ad-shield.cc |
 | 8.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 8.www.33109166.xyz | ad-shield.cc |
@@ -1027,7 +1019,6 @@
 | 9.www.16211973.xyz | ad-shield.cc |
 | 9.www.17199874.xyz | ad-shield.cc |
 | 9.www.19700902.xyz | ad-shield.cc |
-| 9.www.19706903.xyz | ad-shield.cc |
 | 9.www.29662166.xyz | ad-shield.cc |
 | 9.www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | 9.www.33109166.xyz | ad-shield.cc |

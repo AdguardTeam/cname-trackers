@@ -261,6 +261,7 @@
 | affiliate.siko.cz | cz.affilbox.cz |
 | affiliate.smarty.cz | cz.affilbox.cz |
 | affiliate.smsticket.cz | cz.affilbox.cz |
+| affiliate.socialni-site-specialista.cz | cz.affilbox.cz |
 | affiliate.socialsprinters.cz | cz.affilbox.cz |
 | affiliate.soscredit.cz | cz.affilbox.cz |
 | affiliate.sperkin.cz | cz.affilbox.cz |
@@ -609,7 +610,6 @@
 | partner.jipos.sk | cz.affilbox.cz |
 | partner.kafista.cz | cz.affilbox.cz |
 | partner.kasparci.eu | cz.affilbox.cz |
-| partner.ketomix.cz | cz.affilbox.cz |
 | partner.ketomix.sk | cz.affilbox.cz |
 | partner.kidtown.cz | cz.affilbox.cz |
 | partner.kokiskashop.cz | cz.affilbox.cz |
@@ -795,7 +795,6 @@
 | partner.zombeek.cz | cz.affilbox.cz |
 | partner.zonky.cz | cz.affilbox.cz |
 | partner.zvaracky-obchod.sk | cz.affilbox.cz |
-| partnerbox.humandesign.cz | cz.affilbox.cz |
 | partnerek.aerium.hu | cz.affilbox.cz |
 | partnerhc.itex24.cz | cz.affilbox.cz |
 | partneri.affiliatevyzva.cz | cz.affilbox.cz |
@@ -968,7 +967,6 @@
 | spoluhraci.decathlon.cz | cz.affilbox.cz |
 | spolupraca.aretacia-rozvodov.sk | cz.affilbox.cz |
 | spolupraca.easylight.sk | cz.affilbox.cz |
-| spolupraca.vivobarefoot.sk | cz.affilbox.cz |
 | spoluprace.aretacni-pripravky.cz | cz.affilbox.cz |
 | spoluprace.bafoo.cz | cz.affilbox.cz |
 | spoluprace.blackkale.cz | cz.affilbox.cz |
@@ -997,7 +995,6 @@
 | spoluprace.skolnitriko.cz | cz.affilbox.cz |
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |
 | spoluprace.vcelarstvi-domovina.cz | cz.affilbox.cz |
-| spoluprace.vivobarefoot.cz | cz.affilbox.cz |
 | tracking.pleddu.com | cz.affilbox.cz |
 | udrzitelny-nakup.mydlia.cz | cz.affilbox.cz |
 | udrzitelny-nakup.tierraverde.cz | cz.affilbox.cz |

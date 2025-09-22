@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -130,6 +130,7 @@ mensch.ekd.de CNAME .
 meter.rhinobag.de CNAME .
 metrics.einfachiso.de CNAME .
 metrics.go-jugendreisen.de CNAME .
+metrics.greatvita.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.treudelberg-resort.com CNAME .
 metrics.ultra-med.de CNAME .
@@ -180,7 +181,6 @@ t.canngo.express CNAME .
 tr.hundesportladen.de CNAME .
 tr.mey-wasserschaden.de CNAME .
 tr.zuhause-finder.com CNAME .
-tr7593.pollin.de CNAME .
 track.bauwirtschaft-bw.de CNAME .
 track.brot-fuer-die-welt.de CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
@@ -217,6 +217,7 @@ wctr.scaleup-fulfillment.de CNAME .
 wctr.sus-architekten-muenster.de CNAME .
 wctr.vitanova-kliniken.de CNAME .
 web.satiata-med.de CNAME .
+web.sihl-direct.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcon.se-legal.de CNAME .
@@ -297,5 +298,6 @@ esub.akkusys.de CNAME .
 et.juskys.de CNAME .
 stats.ekd.de CNAME .
 stats.mm-germany.com CNAME .
+tr7593.pollin.de CNAME .
 www-test.etracker.de CNAME .
 www.visitormotion.com CNAME .

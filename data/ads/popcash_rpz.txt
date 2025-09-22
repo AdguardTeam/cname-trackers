@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -227,7 +227,6 @@ barnacle.hearmeout.work CNAME .
 barnacle.natalieandmikeyb.com CNAME .
 barnacle.viewsource.io CNAME .
 barracuda.civicdatalibrary.org CNAME .
-barracuda.ottsysteme.rs CNAME .
 barracuda.saraos.tech CNAME .
 barracuda.verto.exchange CNAME .
 basilisk.community-arts.net CNAME .

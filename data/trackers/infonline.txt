@@ -391,6 +391,7 @@
 ||data-3277c56f96.ingenieur.de^
 ||data-3277c56f96.ingenieurstage.de^
 ||data-331311c70c.suedkurier.de^
+||data-337242f510.duesseldorf.de^
 ||data-337242f510.itk-rheinland.de^
 ||data-339e8471f1.bau-welt.de^
 ||data-341c3a0fe0.apps.iocnt.de^
@@ -617,7 +618,6 @@
 ||data-47ee1b0882.openairkino-langen.de^
 ||data-47ee1b0882.osnabrueck.hall-of-fame.online^
 ||data-47ee1b0882.ostseekino-kuehlungsborn.de^
-||data-47ee1b0882.roxy-kino.de^
 ||data-47ee1b0882.saarfilm.net^
 ||data-47ee1b0882.schanzenkino.de^
 ||data-47ee1b0882.schanzenkino73.de^
@@ -660,7 +660,6 @@
 ||data-49bb023f99.finanznachrichten.de^
 ||data-49dc40e643.onvista.de^
 ||data-4a575dad18.hamburgerjobs.de^
-||data-4a5f71b500.highlight-web.de^
 ||data-4aed862c71.apps.iocnt.de^
 ||data-4b48d22435.kommune21.de^
 ||data-4be83b69ca.kka-online.info^
@@ -705,7 +704,6 @@
 ||data-50d39a5d3f.diepresse.com^
 ||data-50de2f2b04.focus.de^
 ||data-50de2f2b04.netmoms.de^
-||data-512cafb4f7.addradio.de^
 ||data-512cafb4f7.radiowaf.de^
 ||data-512cafb4f7.radiowafhilft.de^
 ||data-513a50551b.psychologie-heute.de^
@@ -717,7 +715,6 @@
 ||data-524af4397a.weltfussball.de^
 ||data-524af4397a.worldfootball.net^
 ||data-525bd81403.a1.net^
-||data-53398d506e.apps.iocnt.de^
 ||data-53808e266e.nn.de^
 ||data-53ba3c279a.apps.iocnt.de^
 ||data-53ce61d695.bike-x.de^
@@ -876,7 +873,6 @@
 ||data-62e8b40b12.apps.iocnt.de^
 ||data-62e93c650b.entdeckertag.de^
 ||data-62e93c650b.hannover.de^
-||data-62e93c650b.landheime.de^
 ||data-62e93c650b.visit-hannover.com^
 ||data-62e93c650b.visit-niedersachsen.de^
 ||data-631fe157dc.gesund.at^
@@ -903,7 +899,6 @@
 ||data-664e19af6d.11freunde.de^
 ||data-66584305d5.mainpost.de^
 ||data-66b7771b69.motorsport.com^
-||data-66d1660bfe.etailment.de^
 ||data-678018adf2.apps.iocnt.de^
 ||data-678db07fc3.apps.iocnt.de^
 ||data-67e5b22ff5.apps.iocnt.de^
@@ -1046,6 +1041,7 @@
 ||data-79a0e4d6a6.apps.iocnt.de^
 ||data-79b463af18.detmold.de^
 ||data-79b61f918a.autoanzeigen.de^
+||data-79b61f918a.fupa.net^
 ||data-79b61f918a.kult.de^
 ||data-79b61f918a.mittelbayerische-stellen.de^
 ||data-79b61f918a.mittelbayerische-trauer.de^
@@ -1118,10 +1114,8 @@
 ||data-84a0f3455d.transfermarkt.co.in^
 ||data-84a0f3455d.transfermarkt.co.kr^
 ||data-84a0f3455d.transfermarkt.co.uk^
-||data-84a0f3455d.transfermarkt.co.za^
 ||data-84a0f3455d.transfermarkt.com.ar^
 ||data-84a0f3455d.transfermarkt.com.br^
-||data-84a0f3455d.transfermarkt.com.tr^
 ||data-84a0f3455d.transfermarkt.de^
 ||data-84a0f3455d.transfermarkt.es^
 ||data-84a0f3455d.transfermarkt.fr^
@@ -1150,6 +1144,7 @@
 ||data-855289ee2d.apps.iocnt.de^
 ||data-85ad330317.spielaffe.de^
 ||data-85ca53d898.apps.iocnt.de^
+||data-85dba8a916.fupa.net^
 ||data-85dba8a916.schwaebische.de^
 ||data-861bbf2127.bild.de^
 ||data-861bbf2127.bz-berlin.de^
@@ -1763,6 +1758,7 @@
 ||data-cfdfd62451.apps.iocnt.de^
 ||data-d01d310c7a.apps.iocnt.de^
 ||data-d03ddf25a3.wissenschaft.de^
+||data-d0ace8123a.gewinnarena.de^
 ||data-d0d624845f.hcm-magazin.de^
 ||data-d0efcc98f4.apps.iocnt.de^
 ||data-d10cac15a4.onpulson.de^

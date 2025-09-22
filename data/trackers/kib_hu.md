@@ -61,6 +61,7 @@
 | adat.szabadfold.hu | kib.hu |
 | adat.szoljon.hu | kib.hu |
 | adat.szon.hu | kib.hu |
+| adat.szuperinfo.hu | kib.hu |
 | adat.teol.hu | kib.hu |
 | adat.tion.ro | kib.hu |
 | adat.travelo.hu | kib.hu |

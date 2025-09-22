@@ -10,7 +10,6 @@
 ||0.www.16211973.xyz^
 ||0.www.17199874.xyz^
 ||0.www.19700902.xyz^
-||0.www.19706903.xyz^
 ||0.www.29662166.xyz^
 ||0.www.2wu0m0ms098w7148.xyz^
 ||0.www.33109166.xyz^
@@ -122,7 +121,6 @@
 ||1.www.16211973.xyz^
 ||1.www.17199874.xyz^
 ||1.www.19700902.xyz^
-||1.www.19706903.xyz^
 ||1.www.29662166.xyz^
 ||1.www.2wu0m0ms098w7148.xyz^
 ||1.www.33109166.xyz^
@@ -223,6 +221,7 @@
 ||1.www.worthequally.com^
 ||1.www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||1.www.yippeewhenever.com^
+||1.www.yuckbleaklyphooeywhen.com^
 ||1.www.yumhusk.com^
 ||2.www.02952346.xyz^
 ||2.www.07443488.xyz^
@@ -236,7 +235,6 @@
 ||2.www.16211973.xyz^
 ||2.www.17199874.xyz^
 ||2.www.19700902.xyz^
-||2.www.19706903.xyz^
 ||2.www.29662166.xyz^
 ||2.www.2wu0m0ms098w7148.xyz^
 ||2.www.33109166.xyz^
@@ -347,7 +345,6 @@
 ||3.www.16211973.xyz^
 ||3.www.17199874.xyz^
 ||3.www.19700902.xyz^
-||3.www.19706903.xyz^
 ||3.www.29662166.xyz^
 ||3.www.2wu0m0ms098w7148.xyz^
 ||3.www.33109166.xyz^
@@ -459,7 +456,6 @@
 ||4.www.16211973.xyz^
 ||4.www.17199874.xyz^
 ||4.www.19700902.xyz^
-||4.www.19706903.xyz^
 ||4.www.29662166.xyz^
 ||4.www.2wu0m0ms098w7148.xyz^
 ||4.www.33109166.xyz^
@@ -572,7 +568,6 @@
 ||5.www.16211973.xyz^
 ||5.www.17199874.xyz^
 ||5.www.19700902.xyz^
-||5.www.19706903.xyz^
 ||5.www.29662166.xyz^
 ||5.www.2wu0m0ms098w7148.xyz^
 ||5.www.33109166.xyz^
@@ -685,7 +680,6 @@
 ||6.www.16211973.xyz^
 ||6.www.17199874.xyz^
 ||6.www.19700902.xyz^
-||6.www.19706903.xyz^
 ||6.www.29662166.xyz^
 ||6.www.2wu0m0ms098w7148.xyz^
 ||6.www.33109166.xyz^
@@ -796,7 +790,6 @@
 ||7.www.16211973.xyz^
 ||7.www.17199874.xyz^
 ||7.www.19700902.xyz^
-||7.www.19706903.xyz^
 ||7.www.29662166.xyz^
 ||7.www.2wu0m0ms098w7148.xyz^
 ||7.www.33109166.xyz^
@@ -907,7 +900,6 @@
 ||8.www.16211973.xyz^
 ||8.www.17199874.xyz^
 ||8.www.19700902.xyz^
-||8.www.19706903.xyz^
 ||8.www.29662166.xyz^
 ||8.www.2wu0m0ms098w7148.xyz^
 ||8.www.33109166.xyz^
@@ -1019,7 +1011,6 @@
 ||9.www.16211973.xyz^
 ||9.www.17199874.xyz^
 ||9.www.19700902.xyz^
-||9.www.19706903.xyz^
 ||9.www.29662166.xyz^
 ||9.www.2wu0m0ms098w7148.xyz^
 ||9.www.33109166.xyz^

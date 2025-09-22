@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,7 +18,6 @@ $TTL 300
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
 3esm.consubebe.es CNAME .
-5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -74,7 +73,6 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0i.ckoi.com CNAME .
 c45cc75f.eulerian.io CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
@@ -92,7 +90,7 @@ ct.creditec.fr CNAME .
 ct5m.citadium.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d0f.le-dauphin.com CNAME .
+d2u.dauphinquebec.com CNAME .
 deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
 deut3.fdj.fr CNAME .
@@ -191,7 +189,6 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
 eb.mistermenuiserie.com CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -275,7 +272,6 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 hde1.repentignychevrolet.com CNAME .
 hgf4.zanzicar.fr CNAME .
-hk2d.tourismemauricie.com CNAME .
 idg1.idgarages.com CNAME .
 igc0.destinia.at CNAME .
 inv3te.oui.sncf CNAME .
@@ -329,7 +325,7 @@ nlf6.vente-unique.pl CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.bonlook.com CNAME .
+nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
@@ -411,7 +407,6 @@ sr.mistermenuiserie.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
-su1.les-suites.ca CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
 t.locasun.de CNAME .
@@ -480,7 +475,6 @@ xy33.smallable.com CNAME .
 xya4.groupefsc.com CNAME .
 xze5.femilet.dk CNAME .
 yf5.voyage-prive.at CNAME .
-yio.tremblant.ca CNAME .
 yoc.younited-credit.com CNAME .
 ysl3.destinia.ec CNAME .
 yst4.muchoviaje.com CNAME .
@@ -495,9 +489,15 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
+5fm.985fm.ca CNAME .
+c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
-d2u.dauphinquebec.com CNAME .
+d0f.le-dauphin.com CNAME .
+eat9.thebeat925.ca CNAME .
+hk2d.tourismemauricie.com CNAME .
+nym5c.bonlook.com CNAME .
 rwl.tremblant.ca CNAME .
+su1.les-suites.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
+yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
-nym5c.laura.ca CNAME .

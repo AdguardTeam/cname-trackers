@@ -30,7 +30,6 @@
     * wioaavu.customers.1p-data.co
     * wpdlphr.customers.1p-data.co
     * xjoipse.customers.1p-data.co
-    * zzmknba.customers.1p-data.co
 
 ## Cloaking domains
 
@@ -63,4 +62,3 @@
 | wioaavu.enkay.com | wioaavu.customers.1p-data.co |
 | wpdlphr.khoj.city | wpdlphr.customers.1p-data.co |
 | xjoipse.vivarawpets.com | xjoipse.customers.1p-data.co |
-| zzmknba.maupets.com | zzmknba.customers.1p-data.co |

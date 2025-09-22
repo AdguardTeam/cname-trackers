@@ -196,7 +196,6 @@
 ||plausible.mattpruitt.com^
 ||plausible.mcj.co^
 ||plausible.myvirtualsuper.com^
-||plausible.nickmazuk.com^
 ||plausible.nmyvsn.net^
 ||plausible.nuqu.org^
 ||plausible.plausible.tangodelta.media^

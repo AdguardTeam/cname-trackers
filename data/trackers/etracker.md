@@ -7,6 +7,7 @@
 ### Rarely active trackers
 
 * customer2.etracker.com
+* hg0n5n.smoxycdn.net
 * customer-test.etracker.com
 * etracker.com
 
@@ -134,6 +135,7 @@
 | meter.rhinobag.de | customer.etracker.com |
 | metrics.einfachiso.de | customer.etracker.com |
 | metrics.go-jugendreisen.de | customer.etracker.com |
+| metrics.greatvita.de | customer.etracker.com |
 | metrics.ostseeresort-damp.de | customer.etracker.com |
 | metrics.treudelberg-resort.com | customer.etracker.com |
 | metrics.ultra-med.de | customer.etracker.com |
@@ -184,7 +186,6 @@
 | tr.hundesportladen.de | customer.etracker.com |
 | tr.mey-wasserschaden.de | customer.etracker.com |
 | tr.zuhause-finder.com | customer.etracker.com |
-| tr7593.pollin.de | customer.etracker.com |
 | track.bauwirtschaft-bw.de | customer.etracker.com |
 | track.brot-fuer-die-welt.de | customer.etracker.com |
 | track.dictum-gartenwerkzeug.de | customer.etracker.com |
@@ -221,6 +222,7 @@
 | wctr.sus-architekten-muenster.de | customer.etracker.com |
 | wctr.vitanova-kliniken.de | customer.etracker.com |
 | web.satiata-med.de | customer.etracker.com |
+| web.sihl-direct.de | customer.etracker.com |
 | webanalytics.pwc.fr | customer.etracker.com |
 | webaus.dw-shop.de | customer.etracker.com |
 | webcon.se-legal.de | customer.etracker.com |
@@ -302,3 +304,4 @@
 | stats.ekd.de | customer2.etracker.com |
 | stats.mm-germany.com | customer2.etracker.com |
 | www.visitormotion.com | etracker.com |
+| tr7593.pollin.de | hg0n5n.smoxycdn.net |

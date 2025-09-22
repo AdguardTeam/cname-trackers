@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 1fxt.com CNAME .
 2ddq.com CNAME .
 2dgg.com CNAME .
+536i.com CNAME .
 6tip.com CNAME .
 80xy.com CNAME .
 amelectivireer.com CNAME .
@@ -29,14 +30,21 @@ gys5.com CNAME .
 ih31.com CNAME .
 injolteona.com CNAME .
 ips9.com CNAME .
+itonixr.com CNAME .
+itsteelixr.com CNAME .
 jup9.com CNAME .
 k3on.com CNAME .
+kighoadouk.com CNAME .
 ldy5.com CNAME .
 opvileplumeon.com CNAME .
+ossscatterbuga.com CNAME .
 r8bz.com CNAME .
 rndcombuskenor.com CNAME .
 roulatioser.com CNAME .
+roulinooneer.com CNAME .
+unfearowor.com CNAME .
 unslowbror.com CNAME .
+upmonfernoan.com CNAME .
 viaferroseedan.com CNAME .
 xgr5.com CNAME .
 xgv1.com CNAME .

@@ -123,6 +123,7 @@
 ||businessmetrics.syf.com^
 ||cm.quest.com^
 ||cmp.audi.be^
+||cmp.audifinance.be^
 ||cmp.cupra.be^
 ||cmp.dieteren.be^
 ||cmp.dieterencenters.be^
@@ -133,6 +134,7 @@
 ||cmp.mijnwinterbanden.be^
 ||cmp.mijnzenmobiliteit.be^
 ||cmp.myaudi.be^
+||cmp.myvolkswagen.be^
 ||cmp.myway.be^
 ||cmp.porsche.be^
 ||cmp.seat.be^
@@ -219,6 +221,7 @@
 ||ens.nidwaldnerzeitung.ch^
 ||ens.nzzmediasolutions.ch^
 ||ens.obwaldnerzeitung.ch^
+||ens.radiopilatus.ch^
 ||ens.tagblatt.ch^
 ||ens.thurgauerzeitung.ch^
 ||ens.toggenburgertagblatt.ch^

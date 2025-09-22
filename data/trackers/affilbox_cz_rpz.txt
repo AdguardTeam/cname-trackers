@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -251,6 +251,7 @@ affiliate.sexshop.cz CNAME .
 affiliate.siko.cz CNAME .
 affiliate.smarty.cz CNAME .
 affiliate.smsticket.cz CNAME .
+affiliate.socialni-site-specialista.cz CNAME .
 affiliate.socialsprinters.cz CNAME .
 affiliate.soscredit.cz CNAME .
 affiliate.sperkin.cz CNAME .
@@ -599,7 +600,6 @@ partner.jillylenau.cz CNAME .
 partner.jipos.sk CNAME .
 partner.kafista.cz CNAME .
 partner.kasparci.eu CNAME .
-partner.ketomix.cz CNAME .
 partner.ketomix.sk CNAME .
 partner.kidtown.cz CNAME .
 partner.kokiskashop.cz CNAME .
@@ -785,7 +785,6 @@ partner.zkontrolujsiauto.cz CNAME .
 partner.zombeek.cz CNAME .
 partner.zonky.cz CNAME .
 partner.zvaracky-obchod.sk CNAME .
-partnerbox.humandesign.cz CNAME .
 partnerek.aerium.hu CNAME .
 partnerhc.itex24.cz CNAME .
 partneri.affiliatevyzva.cz CNAME .
@@ -958,7 +957,6 @@ spolu.kuskakaa.cz CNAME .
 spoluhraci.decathlon.cz CNAME .
 spolupraca.aretacia-rozvodov.sk CNAME .
 spolupraca.easylight.sk CNAME .
-spolupraca.vivobarefoot.sk CNAME .
 spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .
@@ -987,7 +985,6 @@ spoluprace.sikland.cz CNAME .
 spoluprace.skolnitriko.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
-spoluprace.vivobarefoot.cz CNAME .
 tracking.pleddu.com CNAME .
 udrzitelny-nakup.mydlia.cz CNAME .
 udrzitelny-nakup.tierraverde.cz CNAME .

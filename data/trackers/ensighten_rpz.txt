@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -134,6 +134,7 @@ attribution.tmlewinshirts.eu CNAME .
 businessmetrics.syf.com CNAME .
 cm.quest.com CNAME .
 cmp.audi.be CNAME .
+cmp.audifinance.be CNAME .
 cmp.cupra.be CNAME .
 cmp.dieteren.be CNAME .
 cmp.dieterencenters.be CNAME .
@@ -144,6 +145,7 @@ cmp.microlino.be CNAME .
 cmp.mijnwinterbanden.be CNAME .
 cmp.mijnzenmobiliteit.be CNAME .
 cmp.myaudi.be CNAME .
+cmp.myvolkswagen.be CNAME .
 cmp.myway.be CNAME .
 cmp.porsche.be CNAME .
 cmp.seat.be CNAME .
@@ -230,6 +232,7 @@ ens.moneyhouse.ch CNAME .
 ens.nidwaldnerzeitung.ch CNAME .
 ens.nzzmediasolutions.ch CNAME .
 ens.obwaldnerzeitung.ch CNAME .
+ens.radiopilatus.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.thurgauerzeitung.ch CNAME .
 ens.toggenburgertagblatt.ch CNAME .

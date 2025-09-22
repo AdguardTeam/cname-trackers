@@ -240,6 +240,7 @@
 ||affiliate.siko.cz^
 ||affiliate.smarty.cz^
 ||affiliate.smsticket.cz^
+||affiliate.socialni-site-specialista.cz^
 ||affiliate.socialsprinters.cz^
 ||affiliate.soscredit.cz^
 ||affiliate.sperkin.cz^
@@ -588,7 +589,6 @@
 ||partner.jipos.sk^
 ||partner.kafista.cz^
 ||partner.kasparci.eu^
-||partner.ketomix.cz^
 ||partner.ketomix.sk^
 ||partner.kidtown.cz^
 ||partner.kokiskashop.cz^
@@ -774,7 +774,6 @@
 ||partner.zombeek.cz^
 ||partner.zonky.cz^
 ||partner.zvaracky-obchod.sk^
-||partnerbox.humandesign.cz^
 ||partnerek.aerium.hu^
 ||partnerhc.itex24.cz^
 ||partneri.affiliatevyzva.cz^
@@ -947,7 +946,6 @@
 ||spoluhraci.decathlon.cz^
 ||spolupraca.aretacia-rozvodov.sk^
 ||spolupraca.easylight.sk^
-||spolupraca.vivobarefoot.sk^
 ||spoluprace.aretacni-pripravky.cz^
 ||spoluprace.bafoo.cz^
 ||spoluprace.blackkale.cz^
@@ -976,7 +974,6 @@
 ||spoluprace.skolnitriko.cz^
 ||spoluprace.terrapotheka.cz^
 ||spoluprace.vcelarstvi-domovina.cz^
-||spoluprace.vivobarefoot.cz^
 ||tracking.pleddu.com^
 ||udrzitelny-nakup.mydlia.cz^
 ||udrzitelny-nakup.tierraverde.cz^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -402,6 +402,7 @@ data-3212b1cf73.apps.iocnt.de CNAME .
 data-3277c56f96.ingenieur.de CNAME .
 data-3277c56f96.ingenieurstage.de CNAME .
 data-331311c70c.suedkurier.de CNAME .
+data-337242f510.duesseldorf.de CNAME .
 data-337242f510.itk-rheinland.de CNAME .
 data-339e8471f1.bau-welt.de CNAME .
 data-341c3a0fe0.apps.iocnt.de CNAME .
@@ -628,7 +629,6 @@ data-47ee1b0882.nickel-odeon.de CNAME .
 data-47ee1b0882.openairkino-langen.de CNAME .
 data-47ee1b0882.osnabrueck.hall-of-fame.online CNAME .
 data-47ee1b0882.ostseekino-kuehlungsborn.de CNAME .
-data-47ee1b0882.roxy-kino.de CNAME .
 data-47ee1b0882.saarfilm.net CNAME .
 data-47ee1b0882.schanzenkino.de CNAME .
 data-47ee1b0882.schanzenkino73.de CNAME .
@@ -671,7 +671,6 @@ data-49aef6b58e.shapeup-business.de CNAME .
 data-49bb023f99.finanznachrichten.de CNAME .
 data-49dc40e643.onvista.de CNAME .
 data-4a575dad18.hamburgerjobs.de CNAME .
-data-4a5f71b500.highlight-web.de CNAME .
 data-4aed862c71.apps.iocnt.de CNAME .
 data-4b48d22435.kommune21.de CNAME .
 data-4be83b69ca.kka-online.info CNAME .
@@ -716,7 +715,6 @@ data-50c00d5d12.techbook.de CNAME .
 data-50d39a5d3f.diepresse.com CNAME .
 data-50de2f2b04.focus.de CNAME .
 data-50de2f2b04.netmoms.de CNAME .
-data-512cafb4f7.addradio.de CNAME .
 data-512cafb4f7.radiowaf.de CNAME .
 data-512cafb4f7.radiowafhilft.de CNAME .
 data-513a50551b.psychologie-heute.de CNAME .
@@ -728,7 +726,6 @@ data-5206391739.shz.de CNAME .
 data-524af4397a.weltfussball.de CNAME .
 data-524af4397a.worldfootball.net CNAME .
 data-525bd81403.a1.net CNAME .
-data-53398d506e.apps.iocnt.de CNAME .
 data-53808e266e.nn.de CNAME .
 data-53ba3c279a.apps.iocnt.de CNAME .
 data-53ce61d695.bike-x.de CNAME .
@@ -887,7 +884,6 @@ data-62e4650bcc.apps.iocnt.de CNAME .
 data-62e8b40b12.apps.iocnt.de CNAME .
 data-62e93c650b.entdeckertag.de CNAME .
 data-62e93c650b.hannover.de CNAME .
-data-62e93c650b.landheime.de CNAME .
 data-62e93c650b.visit-hannover.com CNAME .
 data-62e93c650b.visit-niedersachsen.de CNAME .
 data-631fe157dc.gesund.at CNAME .
@@ -914,7 +910,6 @@ data-663387616d.idcdn.de CNAME .
 data-664e19af6d.11freunde.de CNAME .
 data-66584305d5.mainpost.de CNAME .
 data-66b7771b69.motorsport.com CNAME .
-data-66d1660bfe.etailment.de CNAME .
 data-678018adf2.apps.iocnt.de CNAME .
 data-678db07fc3.apps.iocnt.de CNAME .
 data-67e5b22ff5.apps.iocnt.de CNAME .
@@ -1057,6 +1052,7 @@ data-79505c2b06.borkenerzeitung.de CNAME .
 data-79a0e4d6a6.apps.iocnt.de CNAME .
 data-79b463af18.detmold.de CNAME .
 data-79b61f918a.autoanzeigen.de CNAME .
+data-79b61f918a.fupa.net CNAME .
 data-79b61f918a.kult.de CNAME .
 data-79b61f918a.mittelbayerische-stellen.de CNAME .
 data-79b61f918a.mittelbayerische-trauer.de CNAME .
@@ -1129,10 +1125,8 @@ data-84a0f3455d.transfermarkt.co.id CNAME .
 data-84a0f3455d.transfermarkt.co.in CNAME .
 data-84a0f3455d.transfermarkt.co.kr CNAME .
 data-84a0f3455d.transfermarkt.co.uk CNAME .
-data-84a0f3455d.transfermarkt.co.za CNAME .
 data-84a0f3455d.transfermarkt.com.ar CNAME .
 data-84a0f3455d.transfermarkt.com.br CNAME .
-data-84a0f3455d.transfermarkt.com.tr CNAME .
 data-84a0f3455d.transfermarkt.de CNAME .
 data-84a0f3455d.transfermarkt.es CNAME .
 data-84a0f3455d.transfermarkt.fr CNAME .
@@ -1161,6 +1155,7 @@ data-8522662a32.wuerzburgerleben.de CNAME .
 data-855289ee2d.apps.iocnt.de CNAME .
 data-85ad330317.spielaffe.de CNAME .
 data-85ca53d898.apps.iocnt.de CNAME .
+data-85dba8a916.fupa.net CNAME .
 data-85dba8a916.schwaebische.de CNAME .
 data-861bbf2127.bild.de CNAME .
 data-861bbf2127.bz-berlin.de CNAME .
@@ -1774,6 +1769,7 @@ data-cf8fd9b799.tga-contentbase.de CNAME .
 data-cfdfd62451.apps.iocnt.de CNAME .
 data-d01d310c7a.apps.iocnt.de CNAME .
 data-d03ddf25a3.wissenschaft.de CNAME .
+data-d0ace8123a.gewinnarena.de CNAME .
 data-d0d624845f.hcm-magazin.de CNAME .
 data-d0efcc98f4.apps.iocnt.de CNAME .
 data-d10cac15a4.onpulson.de CNAME .

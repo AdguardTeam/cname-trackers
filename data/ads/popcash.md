@@ -194,7 +194,6 @@
 | barnacle.natalieandmikeyb.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.viewsource.io | deprecated-custom-domains.b-cdn.net |
 | barracuda.civicdatalibrary.org | deprecated-custom-domains.b-cdn.net |
-| barracuda.ottsysteme.rs | deprecated-custom-domains.b-cdn.net |
 | barracuda.saraos.tech | deprecated-custom-domains.b-cdn.net |
 | barracuda.verto.exchange | deprecated-custom-domains.b-cdn.net |
 | basilisk.community-arts.net | deprecated-custom-domains.b-cdn.net |

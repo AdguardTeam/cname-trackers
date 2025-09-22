@@ -896,6 +896,7 @@ public-check3-at.test.tiaa-cref.org
 public-check3-at.test.tiaa.org
 qfp.intuit.com
 qrimages.qatarairways.com
+qtbm.welendus.com
 query.capitalontap.com
 r.hokodo.co
 r7s.scl.swisscom.ch
@@ -912,6 +913,7 @@ rba-screen.optumbank.com
 rba-screen.optumfinancial.com
 rba-screen.yourdentalplan.com
 rba.apata.io
+rba.axis.bank.in
 rba.cfg.smt.docomo.ne.jp
 rba.login.agentmessagecenter.optum.com
 rba.login.mahix.org

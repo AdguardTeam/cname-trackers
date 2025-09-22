@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -907,6 +907,7 @@ public-check3-at.test.tiaa-cref.org CNAME .
 public-check3-at.test.tiaa.org CNAME .
 qfp.intuit.com CNAME .
 qrimages.qatarairways.com CNAME .
+qtbm.welendus.com CNAME .
 query.capitalontap.com CNAME .
 r.hokodo.co CNAME .
 r7s.scl.swisscom.ch CNAME .
@@ -923,6 +924,7 @@ rba-screen.optumbank.com CNAME .
 rba-screen.optumfinancial.com CNAME .
 rba-screen.yourdentalplan.com CNAME .
 rba.apata.io CNAME .
+rba.axis.bank.in CNAME .
 rba.cfg.smt.docomo.ne.jp CNAME .
 rba.login.agentmessagecenter.optum.com CNAME .
 rba.login.mahix.org CNAME .

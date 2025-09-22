@@ -216,7 +216,6 @@ barnacle.hearmeout.work
 barnacle.natalieandmikeyb.com
 barnacle.viewsource.io
 barracuda.civicdatalibrary.org
-barracuda.ottsysteme.rs
 barracuda.saraos.tech
 barracuda.verto.exchange
 basilisk.community-arts.net

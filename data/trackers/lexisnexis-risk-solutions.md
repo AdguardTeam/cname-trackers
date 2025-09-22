@@ -95,6 +95,7 @@
     * h-516jl8bt.online-metrix.net
     * h-5176c3mo.online-metrix.net
     * h-52whdrrv.online-metrix.net
+    * h-58d4t635.online-metrix.net
     * h-5g2d9cmc.online-metrix.net
     * h-5g3kt0kj.online-metrix.net
     * h-5h8i3ud8.online-metrix.net
@@ -149,6 +150,7 @@
     * h-7lw52x9e.online-metrix.net
     * h-7npzzdc5.online-metrix.net
     * h-7nwhwds3.online-metrix.net
+    * h-7oasgdq6.online-metrix.net
     * h-7p277rpe.online-metrix.net
     * h-7prfpfvh.online-metrix.net
     * h-7prn07hc.online-metrix.net
@@ -424,6 +426,7 @@
     * h-d1kh7jfh.online-metrix.net
     * h-d3tracking.rbc.online-metrix.net
     * h-d43ho3ge.online-metrix.net
+    * h-d5k4yw92.online-metrix.net
     * h-d5xcbob5.online-metrix.net
     * h-d6v9b0b9.online-metrix.net
     * h-dailylook.online-metrix.net
@@ -1026,6 +1029,7 @@
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
 | tm.play.pl | h-5176c3mo.online-metrix.net |
 | content.paydala.com | h-52whdrrv.online-metrix.net |
+| rba.axis.bank.in | h-58d4t635.online-metrix.net |
 | meox.alliancebizsmart.com.my | h-5g2d9cmc.online-metrix.net |
 | page-format.chase.com | h-5g3kt0kj.online-metrix.net |
 | cfa.advisorchannel.com | h-5h8i3ud8.online-metrix.net |
@@ -1106,6 +1110,7 @@
 | af.mobile.free.fr | h-7lw52x9e.online-metrix.net |
 | dol-reemployme-js01.maine.gov | h-7npzzdc5.online-metrix.net |
 | telem.highlow.com | h-7nwhwds3.online-metrix.net |
+| tmcdn.betway.mx | h-7oasgdq6.online-metrix.net |
 | dt.extrakarte.com | h-7p277rpe.online-metrix.net |
 | rt.wisecartapp.com | h-7prfpfvh.online-metrix.net |
 | tmx.katapult.com | h-7prn07hc.online-metrix.net |
@@ -1239,7 +1244,6 @@
 | tmcdn.7sultanscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.alljackpotscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.allslotscasino.com | h-98oju8tz.online-metrix.net |
-| tmcdn.betway.mx | h-98oju8tz.online-metrix.net |
 | tmcdn.europalace.com | h-98oju8tz.online-metrix.net |
 | tmcdn.gamingclub.com | h-98oju8tz.online-metrix.net |
 | tmcdn.grizzlysquest.com | h-98oju8tz.online-metrix.net |
@@ -1597,6 +1601,7 @@
 | content.sportscheck.ch | h-d1kh7jfh.online-metrix.net |
 | d3tracking.rbc.com | h-d3tracking.rbc.online-metrix.net |
 | detect.clearme.com | h-d43ho3ge.online-metrix.net |
+| qtbm.welendus.com | h-d5k4yw92.online-metrix.net |
 | apicorporativops.portoseguro.com.br | h-d5xcbob5.online-metrix.net |
 | validacionlx.agaval.com | h-d6v9b0b9.online-metrix.net |
 | img.dailylook.com | h-dailylook.online-metrix.net |

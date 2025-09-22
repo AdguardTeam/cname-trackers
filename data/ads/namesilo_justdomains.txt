@@ -429,6 +429,7 @@
 3427951.notifysrv.com
 3429075.notify6.com
 3429095.notifysrv.com
+3432573.notify6.com
 3434551.notify6.com
 3436909.notify6.com
 3437433.notifysrv.com
@@ -469,6 +470,7 @@
 3464703.notifysrv.com
 3466497.notifysrv.com
 3466503.notifysrv.com
+3466857.notify6.com
 3466857.notifysrv.com
 3466861.notify6.com
 3466861.notifysrv.com
@@ -597,6 +599,7 @@
 3572293.notifysrv.com
 3572295.notify6.com
 3572299.notify6.com
+3572299.notifysrv.com
 3572301.notify6.com
 3572303.notifysrv.com
 3572904.notifysrv.com
@@ -654,6 +657,7 @@
 3608417.notifysrv.com
 3613079.notify6.com
 3613299.notifysrv.com
+3617521.notify6.com
 3617551.notify6.com
 3617853.notify6.com
 3618939.notify6.com
@@ -683,6 +687,7 @@
 3662555.notifysrv.com
 3662557.notifysrv.com
 3662563.notifysrv.com
+3662591.notifysrv.com
 3662593.notifysrv.com
 3662601.notifysrv.com
 3662839.notify6.com
@@ -1174,22 +1179,16 @@
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
 a.18ramp.com
-a.8jfbt5va3r.com
+a.adsession.com
 a.advantageclicks.net
-a.advertrek.com
-a.allureanews.com
-a.asvsm.com
 a.b2bstars.com
 a.b7q9v8z.com
 a.bizonads-ssp.com
 a.brilmaver.com
 a.cant3am.com
 a.crme7srv.com
-a.etology.com
 a.eunow4u.com
 a.gatherstar.io
-a.golhofer.com
-a.huklop.com
 a.ku34bh9la09.com
 a.ma3ion.com
 a.mx.notifysrv.com
@@ -1200,9 +1199,7 @@ a.ouzads.com
 a.pinkads.org
 a.playa.to
 a.q88z1s3.com
-a.r8lnet.com
 a.rocoads.net
-a.santabrowser.com
 a.tf4srv.com
 a.traffic-gold.com
 a.vws4brkfst.com
@@ -1226,7 +1223,6 @@ admin1.notifysrv.com
 administration.notifysrv.com
 admissions.notifysrv.com
 adrepository.opoxv.com
-ads.optimizesrv.com
 ads.toroadvertising.com
 adult.notifysrv.com
 android.notifysrv.com
@@ -1373,6 +1369,7 @@ s.dsjo13.com
 s.dskjl8.com
 s.dskwke.com
 s.dsldv6.com
+s.dslzv2.com
 s.dsonb4.com
 s.dsqcjk.com
 s.dss1bi.com
@@ -1531,6 +1528,7 @@ syndication.dynsrvwer.com
 syndication.elink12.com
 syndication.elink4.com
 syndication.elink66.com
+syndication.elinkgo2.com
 syndication.epcmh.com
 syndication.epcmk.com
 syndication.exdynsrv.com
@@ -1660,4 +1658,13 @@ www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
-a.adsession.com
+a.8jfbt5va3r.com
+a.advertrek.com
+a.allureanews.com
+a.asvsm.com
+a.etology.com
+a.golhofer.com
+a.huklop.com
+a.r8lnet.com
+a.santabrowser.com
+ads.optimizesrv.com

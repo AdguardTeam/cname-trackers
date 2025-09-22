@@ -52,6 +52,7 @@ adat.sonline.hu
 adat.szabadfold.hu
 adat.szoljon.hu
 adat.szon.hu
+adat.szuperinfo.hu
 adat.teol.hu
 adat.tion.ro
 adat.travelo.hu

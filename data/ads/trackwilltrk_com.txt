@@ -17,6 +17,7 @@
 ||t.instrck.com^
 ||t.javhd-trk.com^
 ||t.jetrck.com^
+||t.leadtrck.space^
 ||t.loantrck.com^
 ||t.maxtrck.shop^
 ||t.nextrck.website^

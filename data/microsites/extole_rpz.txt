@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ refer.betterbraces.com CNAME .
 refer.bostonglobe.com CNAME .
 refer.bowflex.com CNAME .
 refer.calstate.aaa.com CNAME .
+refer.carbonite.com CNAME .
 refer.citizen-times.com CNAME .
 refer.clarionledger.com CNAME .
 refer.clearme.com CNAME .
@@ -133,11 +134,21 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em225.codecademy.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
+em2287.theory.com CNAME .
+em4504.mail.raf.xfinity.com CNAME .
+em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
+em7952.dailypay.com CNAME .
+em8031.soundcloud.com CNAME .
+em8642.notifications.acorns.com CNAME .
 em924.refer.starbucks.com CNAME .
+em9347.shareus.viktor-rolf.com CNAME .
 em9523.walmartmoneycard.com CNAME .
-emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -286,6 +297,7 @@ refer.issaonline.com CNAME .
 refer.itbed.com CNAME .
 refer.itcu.org CNAME .
 refer.jewelersmutual.com CNAME .
+refer.jiffynewark.com CNAME .
 refer.joann.com CNAME .
 refer.join1440.com CNAME .
 refer.jonesservices.com CNAME .
@@ -368,6 +380,7 @@ refer.quickstart.com CNAME .
 refer.reebok.com CNAME .
 refer.reliasacademy.com CNAME .
 refer.rent.app CNAME .
+refer.revzilla.com CNAME .
 refer.rileyrose.com CNAME .
 refer.rockport.com CNAME .
 refer.rodo.com CNAME .
@@ -466,6 +479,7 @@ reward.first-online.bank CNAME .
 rob.extoleu.com CNAME .
 rob2.extoleu.com CNAME .
 score.lumen.com CNAME .
+sftp.extole.com CNAME .
 share-fiber.t-mobile.com CNAME .
 share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
@@ -788,24 +802,13 @@ www.refer.xfinity.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
+www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl._domainkey.walmartmoneycard.com CNAME .
-xtl2._domainkey.mail.propertyperks.xfinity.com CNAME .
 em1476.princesscruises.com CNAME .
-em225.codecademy.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
-em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em4504.mail.raf.xfinity.com CNAME .
-em5230.rewards.dailypay.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
-em767.forgetrust.com CNAME .
-em7952.dailypay.com CNAME .
-em8031.soundcloud.com CNAME .
 em8561.go2bank.com CNAME .
-em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
-em9347.shareus.viktor-rolf.com CNAME .
+emxxxx.rent.app CNAME .
 xtl._domainkey.dailypay.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
@@ -817,9 +820,11 @@ xtl._domainkey.shareus.viktor-rolf.com CNAME .
 xtl._domainkey.soundcloud.com CNAME .
 xtl._domainkey.theory.com CNAME .
 xtl._domainkey.turbotax.refer.intuit.com CNAME .
+xtl._domainkey.walmartmoneycard.com CNAME .
 xtl._domainkey.zoom.us CNAME .
 xtl2._domainkey.dailypay.com CNAME .
 xtl2._domainkey.forgetrust.com CNAME .
+xtl2._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl2._domainkey.mail.raf.xfinity.com CNAME .
 xtl2._domainkey.notifications.acorns.com CNAME .
 xtl2._domainkey.refer.starbucks.com CNAME .
@@ -829,4 +834,3 @@ xtl2._domainkey.shareus.viktor-rolf.com CNAME .
 xtl2._domainkey.soundcloud.com CNAME .
 xtl2._domainkey.theory.com CNAME .
 xtl2._domainkey.walmartmoneycard.com CNAME .
-sftp.extole.com CNAME .

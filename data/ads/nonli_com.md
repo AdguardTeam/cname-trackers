@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * non.li
+    * l.non.li
     * origin.non.li
     * tls-ebra.non.li
     * tls-lp-cm.non.li
@@ -13,6 +14,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| poc.warnerbros.fr | l.non.li |
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |

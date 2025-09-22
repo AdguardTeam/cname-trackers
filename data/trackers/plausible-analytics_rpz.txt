@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758216659096        ; Serial
+           1758528009445        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -207,7 +207,6 @@ plausible.marker12.org CNAME .
 plausible.mattpruitt.com CNAME .
 plausible.mcj.co CNAME .
 plausible.myvirtualsuper.com CNAME .
-plausible.nickmazuk.com CNAME .
 plausible.nmyvsn.net CNAME .
 plausible.nuqu.org CNAME .
 plausible.plausible.tangodelta.media CNAME .

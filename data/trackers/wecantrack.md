@@ -38,4 +38,5 @@
 | wctsub.hostingcheck24.de | api.wecantrack.com |
 | wctsub.start24.nl | api.wecantrack.com |
 | www.1mreview.com | app.wecantrack.com |
+| www.empowermychild.com | app.wecantrack.com |
 | w.vpnalert.com | fallback.wecantrack.com |
