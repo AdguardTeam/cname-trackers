@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,30 +25,22 @@ blackberry.basf.com CNAME .
 blackberry.btc-europe.com CNAME .
 blackberry.suvinil.com.br CNAME .
 collect.aeonbank.co.jp CNAME .
-collect.ansons.de CNAME .
 collect.asics.com CNAME .
-collect.calvinklein.at CNAME .
 collect.calvinklein.co.uk CNAME .
-collect.calvinklein.com CNAME .
-collect.calvinklein.cz CNAME .
 collect.calvinklein.de CNAME .
+collect.calvinklein.ee CNAME .
 collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
-collect.calvinklein.ie CNAME .
 collect.calvinklein.it CNAME .
 collect.calvinklein.nl CNAME .
 collect.calvinklein.pl CNAME .
 collect.calvinklein.pt CNAME .
-collect.calvinklein.sk CNAME .
 collect.kinto-jp.com CNAME .
 collect.mtgec.jp CNAME .
 collect.oportun.com CNAME .
-collect.peek-cloppenburg.at CNAME .
-collect.sixpad.jp CNAME .
 collect.tommy.com CNAME .
 connect.afterpay.com CNAME .
-databridge.sixpad.jp CNAME .
 dcjm-tms.gestalterbank.de CNAME .
 dcjm-tms.hannoversche-volksbank.de CNAME .
 dcjm-tms.vb-mittelhessen.de CNAME .
@@ -89,7 +81,6 @@ omt.dm.rs CNAME .
 omt.dm.si CNAME .
 omt.mojadm.sk CNAME .
 pixel.bi.serviceplan.com CNAME .
-pixel.peek-cloppenburg.nl CNAME .
 pps.nab.com.au CNAME .
 ssttags.argenta.be CNAME .
 supply.bi.serviceplan.com CNAME .
@@ -155,6 +146,7 @@ tags.calvinklein.com CNAME .
 tags.calvinklein.cz CNAME .
 tags.calvinklein.de CNAME .
 tags.calvinklein.dk CNAME .
+tags.calvinklein.ee CNAME .
 tags.calvinklein.es CNAME .
 tags.calvinklein.fi CNAME .
 tags.calvinklein.fr CNAME .
@@ -241,8 +233,6 @@ tags.ozodi.org CNAME .
 tags.ozodlik.org CNAME .
 tags.partenamut.be CNAME .
 tags.pashtovoa.com CNAME .
-tags.peek-cloppenburg.nl CNAME .
-tags.peek-cloppenburg.pl CNAME .
 tags.pepperl-fuchs.com CNAME .
 tags.pocruises.com.au CNAME .
 tags.propertyfinder.ae CNAME .
@@ -301,6 +291,7 @@ tags.tepezza.com CNAME .
 tags.theklovestory.com CNAME .
 tags.tiq.rbcinsurance.com CNAME .
 tags.tiq.rbcprivateinsurance.com CNAME .
+tags.toitpourtoi.fr CNAME .
 tags.tommy.com CNAME .
 tags.tryg.dk CNAME .
 tags.tryg.no CNAME .
@@ -353,7 +344,6 @@ tccd.douglas.ch CNAME .
 tccd.douglas.cz CNAME .
 tccd.douglas.de CNAME .
 tccd.douglas.es CNAME .
-tccd.douglas.hr CNAME .
 tccd.douglas.hu CNAME .
 tccd.douglas.it CNAME .
 tccd.douglas.lt CNAME .
@@ -447,8 +437,6 @@ tttd.parfumdreams.pl CNAME .
 tttd.parfumdreams.pt CNAME .
 tttd.parfumdreams.se CNAME .
 view.oportun.com CNAME .
-view.peek-cloppenburg.at CNAME .
-view.peek-cloppenburg.de CNAME .
 visitor-service.aeonbank.co.jp CNAME .
 visitor-service.ansons.de CNAME .
 visitor-service.fancl.co.jp CNAME .
@@ -471,27 +459,40 @@ webtags.logitech.com CNAME .
 webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
 www.tiq.monash.edu CNAME .
+collect.ansons.de CNAME .
+collect.calvinklein.at CNAME .
 collect.calvinklein.be CNAME .
 collect.calvinklein.bg CNAME .
 collect.calvinklein.ch CNAME .
+collect.calvinklein.com CNAME .
+collect.calvinklein.cz CNAME .
 collect.calvinklein.dk CNAME .
-collect.calvinklein.ee CNAME .
 collect.calvinklein.hr CNAME .
 collect.calvinklein.hu CNAME .
+collect.calvinklein.ie CNAME .
 collect.calvinklein.lt CNAME .
 collect.calvinklein.lu CNAME .
 collect.calvinklein.lv CNAME .
 collect.calvinklein.se CNAME .
 collect.calvinklein.si CNAME .
+collect.calvinklein.sk CNAME .
+collect.peek-cloppenburg.at CNAME .
 collect.peek-cloppenburg.de CNAME .
+pixel.peek-cloppenburg.nl CNAME .
 tccd.douglas.ee CNAME .
+tccd.douglas.hr CNAME .
 tccd.douglas.si CNAME .
 collect.fancl.co.jp CNAME .
+collect.sixpad.jp CNAME .
+databridge.sixpad.jp CNAME .
 tms-view.sony.jp CNAME .
 tag.bi.serviceplan.com CNAME .
 tags.ansons.de CNAME .
-tags.calvinklein.ee CNAME .
+tags.peek-cloppenburg.nl CNAME .
+tags.peek-cloppenburg.pl CNAME .
 tags.sixpad.jp CNAME .
 tptd.douglas.es CNAME .
 view.ansons.de CNAME .
+view.peek-cloppenburg.at CNAME .
+view.peek-cloppenburg.de CNAME .
 view.stylebob.com CNAME .

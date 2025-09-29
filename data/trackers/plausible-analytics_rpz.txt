@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -827,7 +827,6 @@ stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
 stats.xrechnung.app CNAME .
 stats.zimri.net CNAME .
-statstest.upti.pro CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.authramp.com CNAME .
 sts.eliasjarzombek.com CNAME .

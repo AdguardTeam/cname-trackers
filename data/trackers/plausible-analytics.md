@@ -828,7 +828,6 @@
 | stats.xactcode.com | custom.plausible.io |
 | stats.xrechnung.app | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
-| statstest.upti.pro | custom.plausible.io |
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |
 | sts.authramp.com | custom.plausible.io |
 | sts.eliasjarzombek.com | custom.plausible.io |

@@ -1,11 +1,10 @@
 #
 # Company name: Commanders Act
-configure.adlermode.com
 data.decathlon.co.uk
 data.decathlon.es
 data.decathlon.fr
+data.decathlon.it
 data.decathlon.pl
-data.e-immobilier.credit-agricole.fr
 data.ubi.com
 data.wptag.net
 logger.yp.ca
@@ -15,12 +14,13 @@ tagcommander.laredoute.ch
 tagcommander.laredoute.de
 tagcommander.laredoute.pt
 tagcommander.laredoute.ru
-tc.europcar.be
 tc.europcar.com.au
-tc.europcar.es
-tc.europcar.pt
-data.decathlon.it
+configure.adlermode.com
+data.e-immobilier.credit-agricole.fr
 tag.boulanger.fr
+tc.europcar.be
 tc.europcar.com
 tc.europcar.de
+tc.europcar.es
+tc.europcar.pt
 tcdata.fnac.com

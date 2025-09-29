@@ -375,7 +375,6 @@ cuckoo.peoplefirstjobs.com
 damselfly.vegenook.com
 deer.m1x.co
 deer.ray.io
-dingo.hexocene.com
 dog.christinamoore.us
 dog.justsketch.me
 dog.orbit.love
@@ -618,7 +617,6 @@ leopard.understandit.se
 leopon.jmk.wtf
 leopon.luckycasts.com
 leopon.originalmineral.com
-leopon.thingsin.space
 limpet.eddiehinkle.com
 limpet.pioneerlandscapingllc.com
 limpet.yago.dev
@@ -722,7 +720,6 @@ ostrich.getschools.org
 ostrich.hegic-tokenizer.co
 ostrich.pergaudiaadastra.de
 ostrich.scd-rv.com.au
-otter.emdegmbh.com
 otter.jetting.no
 otter.preferredequineonline.com
 owl.gregwolanski.com
@@ -733,7 +730,6 @@ owl.sentrydiscord.dev
 ox.first-law.com
 ox.ines-papert.de
 p016eshru.kaybe.co.uk
-pa5xjc.m1guelpf.me
 panda.moritz-petersen.de
 panda.mvhphotoproject.org
 panda.teraskolmio.fi
@@ -828,7 +824,6 @@ reindeer.iainbroome.com
 reindeer.pablomaceda.com
 reptile.o-lit.fr
 reptile.sat.trading
-reptile.wyattblogs.com
 rhinoceros.codeagain.com
 rhinoceros.krieger.io
 rhinoceros.valeriaborgese.it
@@ -979,7 +974,6 @@ trout.travelmassive.com
 tuna.ajaymantri.com
 tuna.purplespider.com
 turkey.tella.tv
-turtle.geshem.space
 turtle.mushtache.com
 turtle.mydataroom.io
 turtle.olivier.cx
@@ -1145,3 +1139,5 @@ thirty-good.lugg.com
 tltcxs.awohkn.com
 video.adsninja.ca
 www.cdnboostcache.com
+otter.emdegmbh.com
+pa5xjc.m1guelpf.me

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -94,6 +94,7 @@ tk.billieblush.com CNAME .
 tk.biovea.com CNAME .
 tk.blancheporte.be CNAME .
 tk.blancheporte.fr CNAME .
+tk.boutique.caminteresse.fr CNAME .
 tk.boutique.capital.fr CNAME .
 tk.boutique.cotemaison.fr CNAME .
 tk.boutique.cuisineactuelle.fr CNAME .

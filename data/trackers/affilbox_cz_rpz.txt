@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -306,6 +306,7 @@ devaff.bitcoinzmenaren.sk CNAME .
 doporuc.hopsej.cz CNAME .
 doporuc.kingray.sk CNAME .
 doporuc.konferenceryba.cz CNAME .
+doporuc.krmimkvalitne.cz CNAME .
 doporuc.necojakocola.cz CNAME .
 doporuc.promujdomov.cz CNAME .
 doporuc.slevomat.cz CNAME .
@@ -460,6 +461,7 @@ partner.barefootsaltic.cz CNAME .
 partner.barnaby.cz CNAME .
 partner.bazaroveregaly.cz CNAME .
 partner.bed4dogs.com CNAME .
+partner.bentech.eu CNAME .
 partner.bepor.eu CNAME .
 partner.bilynabytek.cz CNAME .
 partner.bio-nechty.sk CNAME .
@@ -611,8 +613,10 @@ partner.kurzysusmevem.cz CNAME .
 partner.kutnohorskytolar.cz CNAME .
 partner.kvcar.cz CNAME .
 partner.laab.cz CNAME .
+partner.lamax-electronics.com CNAME .
 partner.lascero.cz CNAME .
 partner.lascivni.cz CNAME .
+partner.lauben.com CNAME .
 partner.leadingtechnologies.cz CNAME .
 partner.legalni-konopi.cz CNAME .
 partner.lehatkapropsy.cz CNAME .
@@ -630,8 +634,8 @@ partner.lorooro.com CNAME .
 partner.lovella.cz CNAME .
 partner.ltx.cz CNAME .
 partner.luckyalvin.cz CNAME .
+partner.ludream.eu CNAME .
 partner.lyzelyze.cz CNAME .
-partner.madio.cz CNAME .
 partner.majtki.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
 partner.marspom.cz CNAME .
@@ -756,6 +760,7 @@ partner.thelisteningworld.com CNAME .
 partner.top-obaly.cz CNAME .
 partner.tozax.cz CNAME .
 partner.tozax.sk CNAME .
+partner.truelife.eu CNAME .
 partner.tyano.cz CNAME .
 partner.umio.eu CNAME .
 partner.unuo.de CNAME .
@@ -916,7 +921,6 @@ partneri.vashop.cz CNAME .
 partneri.viadelicia.cz CNAME .
 partneri.volejbal.sk CNAME .
 partneri.volny-termin.cz CNAME .
-partneri.vseprobeh.cz CNAME .
 partneri.way4life.cz CNAME .
 partneri.webmeeting.cz CNAME .
 partneri.worldee.com CNAME .

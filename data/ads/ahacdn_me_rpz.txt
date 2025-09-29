@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,9 +22,7 @@ $TTL 300
 0552ac03f8.64fe1cbf9e.com CNAME .
 05845192a8.b42fb8d81e.com CNAME .
 062d9d4d72.26fc4b0b38.com CNAME .
-0734405418.77b3dd6b03.com CNAME .
 07c3fa8bcf.36ee11539f.com CNAME .
-0892ce11be.c70e84a65a.com CNAME .
 08ac2e4ba4.936781cc1a.com CNAME .
 08fdca8d30.fc5701c3b2.com CNAME .
 0b02a800d8.7003128946.com CNAME .
@@ -41,6 +39,7 @@ $TTL 300
 13741674c3.198636861c.com CNAME .
 1375f1f27e.5cb79f17b9.com CNAME .
 138124e964.eda4dc1ffe.com CNAME .
+142644ec71.a61bc11442.com CNAME .
 15f3ecdff9.21c69b70bc.com CNAME .
 178d4a7678.11b5e84fb9.com CNAME .
 182ff42ced.e1d56c0a5f.com CNAME .
@@ -49,6 +48,7 @@ $TTL 300
 19c1cd4c61.9a8f641701.com CNAME .
 1b1ff98efa.c27902fb3d.com CNAME .
 1b770dc0a7.e7b9fe0fa1.com CNAME .
+1ca6b1f43b.5978ef8c9a.com CNAME .
 1d36f919d8.1be795e9c2.com CNAME .
 1dcf7e1dbb.56a76cb7c7.com CNAME .
 1f92a26341.0a57f6bbfd.com CNAME .
@@ -57,7 +57,6 @@ $TTL 300
 216c2f7039.b7bf007bbe.com CNAME .
 222f2632ff.3535d0471e.com CNAME .
 235c440d53.c2529de2cf.com CNAME .
-23a70832cd.2f359a8315.com CNAME .
 23e023321c.c12c813990.com CNAME .
 2468193450.ac83ccdb8f.com CNAME .
 24fc187db5.e25b585b36.com CNAME .
@@ -71,7 +70,6 @@ $TTL 300
 2b825c1d4f.ca6dbde75a.com CNAME .
 2c4d3459e6.d4dc5a447c.com CNAME .
 2ce064f854.766935bca8.com CNAME .
-2d91ee1fa3.7a53b9303c.com CNAME .
 2de0750b36.3807bf7acf.com CNAME .
 2e4ad8cce9.d39274b315.com CNAME .
 2e84931936.0980b6e8fe.com CNAME .
@@ -99,11 +97,12 @@ $TTL 300
 4057e4e100.d0a2e8bccf.com CNAME .
 41df22289e.edbacc0b70.com CNAME .
 42532fc91f.43512fee11.com CNAME .
+428c242b43.fa29c88413.com CNAME .
 42a95337ac.07a243cfe3.com CNAME .
 43af3542bc.1a0b76c793.com CNAME .
 44cb3d66c1.34c72d94d3.com CNAME .
 459ae2dcb8.8231e5c33a.com CNAME .
-4701985b0c.1e89ee9512.com CNAME .
+472104cbb2.8bd6421c3f.com CNAME .
 4a172e6556.76ec5a61ac.com CNAME .
 4b0ee437b9.84f017b608.com CNAME .
 4dad720668.44216f3fdf.com CNAME .
@@ -133,6 +132,7 @@ $TTL 300
 6064032171.9c40c28bf4.com CNAME .
 60ca0fcaf5.4e0c0b1247.com CNAME .
 629ded61ab.a35a7c1900.com CNAME .
+62d57faaaf.a06c9a4dd7.com CNAME .
 64a5bc639a.78b7387b52.com CNAME .
 64f14dbf1b.8dc714cafe.com CNAME .
 650b1f19ee.14f55cc6a7.com CNAME .
@@ -177,7 +177,6 @@ $TTL 300
 7eb2ad7414.903e9c75f6.com CNAME .
 7f2b0289ba.173726e958.com CNAME .
 7f8047feaf.42a40423c5.com CNAME .
-81aa281d56.19bc0e31d4.com CNAME .
 822dbd57ea.298b7571af.com CNAME .
 823cb09e67.6e67e233a2.com CNAME .
 838bbe2c37.9f0e7c5370.com CNAME .
@@ -186,8 +185,8 @@ $TTL 300
 8841c61d83.372ae6b830.com CNAME .
 885d978a23.149b5a6b84.com CNAME .
 892e84a94b.e94377cdef.com CNAME .
+8a4ca59e89.9eb0066c79.com CNAME .
 8a97caf2b2.b5f1d2bb4d.com CNAME .
-8aea82753b.2ab91613ab.com CNAME .
 8e688aab72.d162882c98.com CNAME .
 8ea4f54913.4e5902f95e.com CNAME .
 907900f0d0.a08b551f9a.com CNAME .
@@ -230,6 +229,7 @@ b7820eb5f5.821e113467.com CNAME .
 b78b08af88.dd795a9d50.com CNAME .
 b8033bc28b.05f3b6b187.com CNAME .
 b8442ed1e4.9365e2dd1f.com CNAME .
+b921fae019.1af24010cb.com CNAME .
 ba3b545f57.43541f6026.com CNAME .
 ba991667c5.5bb66f161d.com CNAME .
 ba9e239613.dd0254aae5.com CNAME .
@@ -296,6 +296,7 @@ ddacdcd4a8.b4ced3abcd.com CNAME .
 de7559fcbb.8b745d2e44.com CNAME .
 df721ea323.0d22ca5caa.com CNAME .
 df7d4eecab.ccc9c93083.com CNAME .
+e046e7ebd9.f18ddd0d1a.com CNAME .
 e0e33dcc7b.9075bcc610.com CNAME .
 e1110c095c.d057ad0c7b.com CNAME .
 e2360d9a2d.0f8eec5673.com CNAME .
@@ -354,11 +355,11 @@ fe7f2e3a68.317aba2b18.com CNAME .
 11f116c2ac.8da21bba7c.com CNAME .
 1257e108d1.a08387be3d.com CNAME .
 1364c2e769.26e8264baa.com CNAME .
-15337f077d.2f6dbda127.com CNAME .
 164e84ce61.ac3fc8f2a5.com CNAME .
 175c666632.e2af52cae7.com CNAME .
 176edb63a6.1a9d1ca12a.com CNAME .
 190237bdf8.08a62d358c.com CNAME .
+196a5595bc.e0b2d6a445.com CNAME .
 197a0c366b.02be4c77d5.com CNAME .
 1ca6e3e357.a8ca394de0.com CNAME .
 1cbd637d10.2c8eb505eb.com CNAME .
@@ -377,6 +378,7 @@ fe7f2e3a68.317aba2b18.com CNAME .
 27f271a51c.a6c5669865.com CNAME .
 28978b3e8f.48daa0d92b.com CNAME .
 2950917e4a.56eed75dbe.com CNAME .
+297fdbc2f7.1426ab7568.com CNAME .
 2b294985f3.900f3c4717.com CNAME .
 2bda84d987.8b8cac90d0.com CNAME .
 2c33f8d1d4.10b7647bbf.com CNAME .
@@ -423,7 +425,6 @@ fe7f2e3a68.317aba2b18.com CNAME .
 4aa85b131b.0d25b79bea.com CNAME .
 4be7fb10f6.fdc9cefe70.com CNAME .
 4cbaa088a5.e0b7e7348e.com CNAME .
-4cd8d0b494.773fd92793.com CNAME .
 4ce83dd618.1c497d51f2.com CNAME .
 4d2fb0abf1.ebc998936c.com CNAME .
 4ef55c331f.6dca8ddc4d.com CNAME .
@@ -441,6 +442,7 @@ fe7f2e3a68.317aba2b18.com CNAME .
 537de1de2c.c69199f27f.com CNAME .
 55c0c98b4d.e0bb9b01ec.com CNAME .
 56f1d98509.7934ed29d8.com CNAME .
+58189ace57.634263882b.com CNAME .
 5b13e52520.fcc217ae84.com CNAME .
 5bab7c0ef6.f97feec1b5.com CNAME .
 5c15acd5d8.519fa5be1d.com CNAME .
@@ -491,6 +493,7 @@ fe7f2e3a68.317aba2b18.com CNAME .
 85dcec5317.b8763ae795.com CNAME .
 86af91aa5a.bd64dc73db.com CNAME .
 86b1d5df81.21b95312a1.com CNAME .
+86e3a0e39d.602e8edafd.com CNAME .
 8731c6147b.ec6a7f5a62.com CNAME .
 875ae5699d.8b543b5074.com CNAME .
 885fff80b5.6c9eed1c74.com CNAME .
@@ -507,6 +510,7 @@ fe7f2e3a68.317aba2b18.com CNAME .
 9326f4a295.7a90dceb35.com CNAME .
 93d9db1a89.0b9d9c14f8.com CNAME .
 94ad51832a.cedb09c3d8.com CNAME .
+956476d9c0.c11a6baa3f.com CNAME .
 956566f4be.bf2bbb8842.com CNAME .
 96f31a396f.d29776df3a.com CNAME .
 9707f751b9.56b1db5afb.com CNAME .
@@ -526,6 +530,7 @@ a0b8b4e910.b10ca28321.com CNAME .
 a0dce34762.ad42309dd4.com CNAME .
 a1131034ac.1668420cbb.com CNAME .
 a1db6a0384.c63b91ca50.com CNAME .
+a3c3c7c303.48cd631c5c.com CNAME .
 a3f2635e13.ce391f4444.com CNAME .
 a3f3edf924.7470c4cda5.com CNAME .
 a40b9f2dba.b36d53af56.com CNAME .
@@ -550,7 +555,6 @@ ba31f372b1.6d0ce9a973.com CNAME .
 ba64778bd4.81af8eb64e.com CNAME .
 ba8bed274a.0daa70aafd.com CNAME .
 ba9ee99d4f.9d9a354450.com CNAME .
-bc13945167.9cf57a043f.com CNAME .
 bc3f648d44.5f631bb110.com CNAME .
 bc7b02847f.95b1e00252.com CNAME .
 bcfd48bbca.660a9baa02.com CNAME .
@@ -582,6 +586,7 @@ d10be68687.a6caf2a605.com CNAME .
 d143db9441.dc188045ef.com CNAME .
 d1f2095e51.3e0605983a.com CNAME .
 d2889ff380.12c9049c32.com CNAME .
+d34d3e1bba.91d02a6a8c.com CNAME .
 d5099e30ec.708ae8f508.com CNAME .
 d51846de1e.b7085555f6.com CNAME .
 d6cc6c0a1c.3dedca7f84.com CNAME .
@@ -614,8 +619,6 @@ e43ef7f183.6a1e09565a.com CNAME .
 e63c2b7c52.995be54914.com CNAME .
 e709b26fc0.f9abdf7da0.com CNAME .
 e9093193fa.8111f7e70e.com CNAME .
-e95055de98.bcc90656ea.com CNAME .
-eb41b051d2.8bbcf84ce6.com CNAME .
 ec2a251e2d.085454ad87.com CNAME .
 ee17c6b8f1.9b8619b026.com CNAME .
 eea253f1df.c5a7249e28.com CNAME .
@@ -637,7 +640,6 @@ fdf7da59b4.676759a2a4.com CNAME .
 fe4b0f5775.0b6f7dc9d8.com CNAME .
 ff8453ee2f.2d5ac65613.com CNAME .
 ff97d1d2da.20590def33.com CNAME .
-fffbaeef93.b12f1b0346.com CNAME .
 0160dd12b9.bc48fa9adc.com CNAME .
 01d449a2ad.26e8841da4.com CNAME .
 043b9471af.2838a86e6c.com CNAME .
@@ -665,6 +667,7 @@ fffbaeef93.b12f1b0346.com CNAME .
 13c29d08a5.e8370630f3.com CNAME .
 142801df41.ca2865fb41.com CNAME .
 1433a25a2b.976caebe7b.com CNAME .
+1480d5060b.8b023d788d.com CNAME .
 14b184caf9.459b6951ca.com CNAME .
 19e408304d.9c867e2056.com CNAME .
 1a244d46ed.611b2ec55c.com CNAME .
@@ -673,7 +676,6 @@ fffbaeef93.b12f1b0346.com CNAME .
 1b88cc6bce.7898a9d175.com CNAME .
 1bef6d70a4.fc5d7c4624.com CNAME .
 1c466187fa.30e4a37eb7.com CNAME .
-1d18dd4bc1.d5db478dde.com CNAME .
 1d36243653.ef1dd1776c.com CNAME .
 1d9c307922.22cbbac9cd.com CNAME .
 1e675ce8a2.2830022a41.com CNAME .
@@ -684,6 +686,7 @@ fffbaeef93.b12f1b0346.com CNAME .
 21cd0ebcd4.1f3912cb04.com CNAME .
 21e18b62f2.4a41fff8a6.com CNAME .
 22251059d5.e03abc72c5.com CNAME .
+2264ca26d4.e088b80df3.com CNAME .
 23a1aece7b.47c50e31a9.com CNAME .
 24cf67b81c.4c35d6c7f6.com CNAME .
 2594d03911.639c909d45.com CNAME .
@@ -774,6 +777,7 @@ fffbaeef93.b12f1b0346.com CNAME .
 6b4d2fc61a.ba7dea6a05.com CNAME .
 6c3873970c.9a4f937e0f.com CNAME .
 6c67329704.4d3f87f705.com CNAME .
+6c93951ec0.4c32ecfead.com CNAME .
 6daf41852f.4ba48a7822.com CNAME .
 6dfaf2c5aa.9421d59b1d.com CNAME .
 6e97acb71e.f0d5add3ea.com CNAME .
@@ -806,7 +810,6 @@ fffbaeef93.b12f1b0346.com CNAME .
 807a8d5ea4.11909f2c84.com CNAME .
 8287c9e305.460e19ebd6.com CNAME .
 8340929ae9.28f810077f.com CNAME .
-8472fcb80c.cb57b3bd09.com CNAME .
 847ab65f59.167999d759.com CNAME .
 8570c75aaf.a69cc901e9.com CNAME .
 86a27c155e.b1aa0634bb.com CNAME .
@@ -816,8 +819,8 @@ fffbaeef93.b12f1b0346.com CNAME .
 886a38e988.9c8b7403e9.com CNAME .
 8915ca928b.a273656d15.com CNAME .
 897b380ae5.1b87094b09.com CNAME .
-8992bfef5b.3575e2d4e6.com CNAME .
 8a45f0e0a6.579eede9ca.com CNAME .
+8c14561703.987f9e203d.com CNAME .
 8cbe12271a.0ffaf504b2.com CNAME .
 8dab71c298.3fa3d4c288.com CNAME .
 8e4feb97c7.8ecc2aee4f.com CNAME .
@@ -828,6 +831,7 @@ fffbaeef93.b12f1b0346.com CNAME .
 91f3054c84.3c241b2b3e.com CNAME .
 92ac005936.7958bd57cc.com CNAME .
 9414a83955.5a5751fd6a.com CNAME .
+94e0cee279.00e2120672.com CNAME .
 953efb5327.735eb9f0a6.com CNAME .
 95536d25ae.aed7dca148.com CNAME .
 9613455b0a.8c3fcf6b0d.com CNAME .
@@ -879,7 +883,6 @@ b1cb3b7fb4.0fe5096a4c.com CNAME .
 b4d0e9fdde.a8bea9eb5d.com CNAME .
 b52775e998.42d9c0e6fb.com CNAME .
 b6ab8b176d.f864fdc049.com CNAME .
-b7755dcb72.3cb9b57efc.com CNAME .
 b88a266bee.889dbee9c9.com CNAME .
 b9615059e4.4672cf576d.com CNAME .
 b99e4edba7.98cbb83e14.com CNAME .
@@ -891,7 +894,6 @@ be7b76b7b1.9e83087e91.com CNAME .
 be8f770864.5e9cb65c2c.com CNAME .
 bf7842fb84.daaae00aa4.com CNAME .
 bfb9bc6900.e92030d8b1.com CNAME .
-c0d05e4183.59aa4e4c1c.com CNAME .
 c24ca9e0d8.d170971757.com CNAME .
 c2dfce1a9f.ccdd7a795c.com CNAME .
 c2ec494150.8681b70da0.com CNAME .
@@ -903,7 +905,6 @@ c5f18bbf67.4afe4f94c5.com CNAME .
 c5fdf44fce.4fee6d013f.com CNAME .
 c66f3bb5ce.80ee887d8f.com CNAME .
 c6933c4650.9adbbad978.com CNAME .
-c73afb43bc.389867b0e2.com CNAME .
 c83de17caf.a8e8c59504.com CNAME .
 c8e2ad3235.d018b822d2.com CNAME .
 c92c09d47d.6b902da043.com CNAME .
@@ -922,7 +923,6 @@ d1f7b9f55a.791ba004c3.com CNAME .
 d37586d118.054f8d0c5a.com CNAME .
 d4a46e4655.700f312054.com CNAME .
 d4cc84626a.f29c4af968.com CNAME .
-d55875dd70.03db0d5d14.com CNAME .
 d5d88f7174.cdd53ec0c3.com CNAME .
 d6b1635a92.829c4efedc.com CNAME .
 d78c80b015.6d092bcd12.com CNAME .
@@ -937,8 +937,8 @@ dd47055762.df6733029c.com CNAME .
 dd99a86663.fcb6adad17.com CNAME .
 ddb56207b0.4dc005d17a.com CNAME .
 ddb8277edc.5608c7633c.com CNAME .
-ddd38c80c8.366378fd1d.com CNAME .
 de597327a9.6657e4f5c2.com CNAME .
+df3ac56d04.c0c84de6d4.com CNAME .
 df48924623.4e16b2e294.com CNAME .
 dfb55a5491.d3edbb478c.com CNAME .
 dff4adcb3a.65a16dd098.com CNAME .
@@ -962,6 +962,7 @@ ecd2f27cc8.d0056a5b0b.com CNAME .
 edc588f8b9.dc7dad4603.com CNAME .
 ee2eb00cc5.5707f9766c.com CNAME .
 f08a153e6e.61e564cc00.com CNAME .
+f1679e30c6.7e84b34fea.com CNAME .
 f1d5c57c50.d980ffe9b6.com CNAME .
 f2733405ec.b29b70e3ca.com CNAME .
 f32be65702.c285e18a9b.com CNAME .
@@ -975,7 +976,6 @@ f7a632d4ef.50f0ac5daf.com CNAME .
 f7d6418016.918284e85c.com CNAME .
 f8be4bf567.40ee7f0644.com CNAME .
 f9043ed30f.61d7a302a1.com CNAME .
-fa61d27a15.c6ec2f3763.com CNAME .
 fabd274910.7abdc2aae1.com CNAME .
 fb995e68d9.7b91f8c7a4.com CNAME .
 fbc0a22821.e109412a60.com CNAME .
@@ -1031,12 +1031,14 @@ vjs.selecttopoff.com CNAME .
 5e7c26314c.474b0fa000.com CNAME .
 8159323a9c.d064229052.com CNAME .
 875ba7cc0a.9db64e2814.com CNAME .
+8992bfef5b.3575e2d4e6.com CNAME .
 95d04d0751.22ad426520.com CNAME .
 b6b381f428.9dcae3bd13.com CNAME .
 b99d6ab38b.d15a035f27.com CNAME .
 c57bd95239.75cbb85265.com CNAME .
 c99574de6f.dd4ef151bb.com CNAME .
 f09c714ed2.c5e739a769.com CNAME .
+fa61d27a15.c6ec2f3763.com CNAME .
 12114200.pix-cdn.org CNAME .
 assets.ahmybid.net CNAME .
 bid.mbidtg.com CNAME .
@@ -1065,6 +1067,7 @@ loc.xtr2020.com CNAME .
 log.fapder.com CNAME .
 log.perfecttitspics.com CNAME .
 cdn.bestadload.com CNAME .
+cdn.chicagobulls.tv CNAME .
 cdn.hip-97166b.com CNAME .
 cdn.stray228.com CNAME .
 cdn.wasp-182b.com CNAME .
@@ -1085,8 +1088,11 @@ www.agonizingfollowing.pro CNAME .
 www.broken-reason.pro CNAME .
 www.bruisedblock.pro CNAME .
 www.decisivedepth.pro CNAME .
+www.foolhardywear.pro CNAME .
+www.fumblingvacation.pro CNAME .
 www.kindhearted-building.pro CNAME .
 www.lazyfuture.pro CNAME .
+www.lovingforever.pro CNAME .
 www.sinful-bad.pro CNAME .
 www.untrueaddition.pro CNAME .
 www.unwieldytowel.pro CNAME .

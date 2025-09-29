@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -64,17 +64,11 @@ ctd.montagna.tv CNAME .
 ctd.quattroruote.it CNAME .
 ctdfm.ilgiornale.it CNAME .
 ctrkd.ilsole24ore.com CNAME .
-da.hornbach.at CNAME .
 da.hornbach.be CNAME .
-da.hornbach.cz CNAME .
-da.hornbach.de CNAME .
-da.hornbach.nl CNAME .
-da.hornbach.ro CNAME .
-da.hornbach.se CNAME .
-da.hornbach.sk CNAME .
 data.adlermode.com CNAME .
 data.all-in.de CNAME .
 data.allgaeuer-zeitung.de CNAME .
+data.babista.ch CNAME .
 data.babista.de CNAME .
 data.babista.nl CNAME .
 data.campaign.prenatal.com CNAME .
@@ -228,7 +222,6 @@ tr.computeruniverse.net CNAME .
 tr.suedkurier.de CNAME .
 trail-001.schleich-s.com CNAME .
 trk.blume2000.de CNAME .
-trk.krebsversicherung.de CNAME .
 w.ilfattoquotidiano.it CNAME .
 w3.aktionaersbank.de CNAME .
 w7.berlin.de CNAME .
@@ -306,7 +299,6 @@ web.info.bonprix.es CNAME .
 web.info.bonprix.fi CNAME .
 web.info.paginegialle.it CNAME .
 web.info.teamwarrior.com CNAME .
-web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.xerjoff.com CNAME .
 web.info.yeppon.it CNAME .

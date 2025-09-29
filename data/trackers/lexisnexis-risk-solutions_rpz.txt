@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -569,6 +569,7 @@ dt.payla.io CNAME .
 dtrust.atratopago.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
 ebcontent.mcbankny.com CNAME .
+edge.privacy.com.br CNAME .
 ela1.bankofscotland.co.uk CNAME .
 elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
@@ -649,6 +650,7 @@ image.online.adp.com CNAME .
 images.applyfleet.com CNAME .
 images.essofleetoffers.com CNAME .
 images.exxonmobilfleetoffers.com CNAME .
+images.otrprocard.com CNAME .
 images.sheetzadvantage.com CNAME .
 images.sunocofleetcards.com CNAME .
 images.suntrakfleetaccount.com CNAME .
@@ -723,6 +725,7 @@ ln.coolspinslot.com CNAME .
 ln.jackpotgo.club CNAME .
 ln.lavishluck.net CNAME .
 ln.meudigio.com.br CNAME .
+ln.moonprizecasino.com CNAME .
 ln.spinsorcery.net CNAME .
 ln.zenmerge.club CNAME .
 lnc.mo.gov CNAME .
@@ -907,7 +910,6 @@ public-check3-at.test.tiaa-cref.org CNAME .
 public-check3-at.test.tiaa.org CNAME .
 qfp.intuit.com CNAME .
 qrimages.qatarairways.com CNAME .
-qtbm.welendus.com CNAME .
 query.capitalontap.com CNAME .
 r.hokodo.co CNAME .
 r7s.scl.swisscom.ch CNAME .
@@ -1017,6 +1019,7 @@ solstice.ibotta.com CNAME .
 sptbb.pilates.com CNAME .
 src.ebay-us.com CNAME .
 src0.myvoffice.com CNAME .
+src1.doterra.com CNAME .
 srv.squaretrade.at CNAME .
 srv.squaretrade.be CNAME .
 srv.squaretrade.co.jp CNAME .
@@ -1195,13 +1198,19 @@ tm.verify.illion.com.au CNAME .
 tmcdn.7sultanscasino.com CNAME .
 tmcdn.alljackpotscasino.com CNAME .
 tmcdn.allslotscasino.com CNAME .
+tmcdn.betway.ca CNAME .
+tmcdn.betway.com CNAME .
+tmcdn.betway.de CNAME .
+tmcdn.betway.es CNAME .
 tmcdn.betway.mx CNAME .
+tmcdn.betwayarabia.com CNAME .
 tmcdn.europalace.com CNAME .
 tmcdn.gamingclub.com CNAME .
 tmcdn.grizzlysquest.com CNAME .
 tmcdn.homeaway.com CNAME .
 tmcdn.jackpotcity.ca CNAME .
 tmcdn.jackpotcity.mx CNAME .
+tmcdn.jackpotcitycasino.co.uk CNAME .
 tmcdn.jackpotcitycasino.com CNAME .
 tmcdn.jackpotcitycasino.com.py CNAME .
 tmcdn.kiwistreasure.com CNAME .
@@ -1299,6 +1308,7 @@ validators.ifpsoyyo.co CNAME .
 verification.ndtco.com CNAME .
 verify.ib.ge CNAME .
 verify.metlife.com CNAME .
+verify.paywithpoli.com CNAME .
 verify.philippineairlines.com CNAME .
 vfp.intuit.com CNAME .
 vlscppe.microsoft.com CNAME .

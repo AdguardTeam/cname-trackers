@@ -295,6 +295,7 @@ devaff.bitcoinzmenaren.sk
 doporuc.hopsej.cz
 doporuc.kingray.sk
 doporuc.konferenceryba.cz
+doporuc.krmimkvalitne.cz
 doporuc.necojakocola.cz
 doporuc.promujdomov.cz
 doporuc.slevomat.cz
@@ -449,6 +450,7 @@ partner.barefootsaltic.cz
 partner.barnaby.cz
 partner.bazaroveregaly.cz
 partner.bed4dogs.com
+partner.bentech.eu
 partner.bepor.eu
 partner.bilynabytek.cz
 partner.bio-nechty.sk
@@ -600,8 +602,10 @@ partner.kurzysusmevem.cz
 partner.kutnohorskytolar.cz
 partner.kvcar.cz
 partner.laab.cz
+partner.lamax-electronics.com
 partner.lascero.cz
 partner.lascivni.cz
+partner.lauben.com
 partner.leadingtechnologies.cz
 partner.legalni-konopi.cz
 partner.lehatkapropsy.cz
@@ -619,8 +623,8 @@ partner.lorooro.com
 partner.lovella.cz
 partner.ltx.cz
 partner.luckyalvin.cz
+partner.ludream.eu
 partner.lyzelyze.cz
-partner.madio.cz
 partner.majtki.cz
 partner.malujpodlecisel.cz
 partner.marspom.cz
@@ -745,6 +749,7 @@ partner.thelisteningworld.com
 partner.top-obaly.cz
 partner.tozax.cz
 partner.tozax.sk
+partner.truelife.eu
 partner.tyano.cz
 partner.umio.eu
 partner.unuo.de
@@ -905,7 +910,6 @@ partneri.vashop.cz
 partneri.viadelicia.cz
 partneri.volejbal.sk
 partneri.volny-termin.cz
-partneri.vseprobeh.cz
 partneri.way4life.cz
 partneri.webmeeting.cz
 partneri.worldee.com

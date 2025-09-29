@@ -205,6 +205,7 @@
     * h-9ivuwf8u.online-metrix.net
     * h-9kqz9786.online-metrix.net
     * h-9mjqz0ev.online-metrix.net
+    * h-9qdsfc38.online-metrix.net
     * h-9qyzb2en.online-metrix.net
     * h-9t5j16he.online-metrix.net
     * h-9tnufjvn.online-metrix.net
@@ -266,6 +267,7 @@
     * h-b2u9vacd2.online-metrix.net
     * h-b2u9vacd3.online-metrix.net
     * h-b2u9vacd5.online-metrix.net
+    * h-b2u9vacd8.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
     * h-b3zpl92l.online-metrix.net
@@ -283,6 +285,7 @@
     * h-banquecasino.online-metrix.net
     * h-barstoolsportsbook.online-metrix.net
     * h-bcbsak.online-metrix.net
+    * h-bczdnqy9.online-metrix.net
     * h-beachbody.online-metrix.net
     * h-benevity.online-metrix.net
     * h-berluti.online-metrix.net
@@ -426,7 +429,6 @@
     * h-d1kh7jfh.online-metrix.net
     * h-d3tracking.rbc.online-metrix.net
     * h-d43ho3ge.online-metrix.net
-    * h-d5k4yw92.online-metrix.net
     * h-d5xcbob5.online-metrix.net
     * h-d6v9b0b9.online-metrix.net
     * h-dailylook.online-metrix.net
@@ -1110,7 +1112,13 @@
 | af.mobile.free.fr | h-7lw52x9e.online-metrix.net |
 | dol-reemployme-js01.maine.gov | h-7npzzdc5.online-metrix.net |
 | telem.highlow.com | h-7nwhwds3.online-metrix.net |
+| tmcdn.betway.ca | h-7oasgdq6.online-metrix.net |
+| tmcdn.betway.com | h-7oasgdq6.online-metrix.net |
+| tmcdn.betway.de | h-7oasgdq6.online-metrix.net |
+| tmcdn.betway.es | h-7oasgdq6.online-metrix.net |
 | tmcdn.betway.mx | h-7oasgdq6.online-metrix.net |
+| tmcdn.betwayarabia.com | h-7oasgdq6.online-metrix.net |
+| tmcdn.jackpotcitycasino.co.uk | h-7oasgdq6.online-metrix.net |
 | dt.extrakarte.com | h-7p277rpe.online-metrix.net |
 | rt.wisecartapp.com | h-7prfpfvh.online-metrix.net |
 | tmx.katapult.com | h-7prn07hc.online-metrix.net |
@@ -1275,6 +1283,7 @@
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
 | verify.ib.ge | h-9mjqz0ev.online-metrix.net |
+| verify.paywithpoli.com | h-9qdsfc38.online-metrix.net |
 | cnt.redotpay.net | h-9qyzb2en.online-metrix.net |
 | tm.flowbirdapp.com | h-9t5j16he.online-metrix.net |
 | cookiemonster.calcas.com | h-9tnufjvn.online-metrix.net |
@@ -1358,6 +1367,7 @@
 | ln.coolspinslot.com | h-b2u9vacd2.online-metrix.net |
 | ln.spinsorcery.net | h-b2u9vacd3.online-metrix.net |
 | ln.lavishluck.net | h-b2u9vacd5.online-metrix.net |
+| ln.moonprizecasino.com | h-b2u9vacd8.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
@@ -1391,6 +1401,7 @@
 | content.floa.com | h-banquecasino.online-metrix.net |
 | tm.barstoolsportsbook.com | h-barstoolsportsbook.online-metrix.net |
 | identity.blueprintportal.com | h-bcbsak.online-metrix.net |
+| edge.privacy.com.br | h-bczdnqy9.online-metrix.net |
 | tm.beachbody.com | h-beachbody.online-metrix.net |
 | tm.benevity.org | h-benevity.online-metrix.net |
 | content.berluti.com | h-berluti.online-metrix.net |
@@ -1601,7 +1612,6 @@
 | content.sportscheck.ch | h-d1kh7jfh.online-metrix.net |
 | d3tracking.rbc.com | h-d3tracking.rbc.online-metrix.net |
 | detect.clearme.com | h-d43ho3ge.online-metrix.net |
-| qtbm.welendus.com | h-d5k4yw92.online-metrix.net |
 | apicorporativops.portoseguro.com.br | h-d5xcbob5.online-metrix.net |
 | validacionlx.agaval.com | h-d6v9b0b9.online-metrix.net |
 | img.dailylook.com | h-dailylook.online-metrix.net |
@@ -2037,6 +2047,7 @@
 | payments.direct.playstation.com | h-sonyie.online-metrix.net |
 | sptbb.pilates.com | h-sptbbpilates.online-metrix.net |
 | src0.myvoffice.com | h-src0.mydoterra.online-metrix.net |
+| src1.doterra.com | h-src0.mydoterra.online-metrix.net |
 | svc1.sc.com | h-standardcharteredbank.online-metrix.net |
 | tx.suncoastcreditunion.com | h-suncoast.online-metrix.net |
 | mobile-tmx.ssisurveys.com | h-surveysampling.online-metrix.net |
@@ -2136,6 +2147,7 @@
 | images.applyfleet.com | h-wrightexpress.online-metrix.net |
 | images.essofleetoffers.com | h-wrightexpress.online-metrix.net |
 | images.exxonmobilfleetoffers.com | h-wrightexpress.online-metrix.net |
+| images.otrprocard.com | h-wrightexpress.online-metrix.net |
 | images.sheetzadvantage.com | h-wrightexpress.online-metrix.net |
 | images.sunocofleetcards.com | h-wrightexpress.online-metrix.net |
 | images.suntrakfleetaccount.com | h-wrightexpress.online-metrix.net |

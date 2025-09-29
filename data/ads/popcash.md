@@ -22,6 +22,7 @@
 * popupads.b-cdn.net
 * consent.b-cdn.net
 * b-cdn.net
+* starman.fathomdns.com
 
 ## Cloaking domains
 
@@ -353,7 +354,6 @@
 | damselfly.vegenook.com | deprecated-custom-domains.b-cdn.net |
 | deer.m1x.co | deprecated-custom-domains.b-cdn.net |
 | deer.ray.io | deprecated-custom-domains.b-cdn.net |
-| dingo.hexocene.com | deprecated-custom-domains.b-cdn.net |
 | dog.christinamoore.us | deprecated-custom-domains.b-cdn.net |
 | dog.justsketch.me | deprecated-custom-domains.b-cdn.net |
 | dog.orbit.love | deprecated-custom-domains.b-cdn.net |
@@ -596,7 +596,6 @@
 | leopon.jmk.wtf | deprecated-custom-domains.b-cdn.net |
 | leopon.luckycasts.com | deprecated-custom-domains.b-cdn.net |
 | leopon.originalmineral.com | deprecated-custom-domains.b-cdn.net |
-| leopon.thingsin.space | deprecated-custom-domains.b-cdn.net |
 | limpet.eddiehinkle.com | deprecated-custom-domains.b-cdn.net |
 | limpet.pioneerlandscapingllc.com | deprecated-custom-domains.b-cdn.net |
 | limpet.yago.dev | deprecated-custom-domains.b-cdn.net |
@@ -700,7 +699,6 @@
 | ostrich.hegic-tokenizer.co | deprecated-custom-domains.b-cdn.net |
 | ostrich.pergaudiaadastra.de | deprecated-custom-domains.b-cdn.net |
 | ostrich.scd-rv.com.au | deprecated-custom-domains.b-cdn.net |
-| otter.emdegmbh.com | deprecated-custom-domains.b-cdn.net |
 | otter.jetting.no | deprecated-custom-domains.b-cdn.net |
 | otter.preferredequineonline.com | deprecated-custom-domains.b-cdn.net |
 | owl.gregwolanski.com | deprecated-custom-domains.b-cdn.net |
@@ -711,7 +709,6 @@
 | ox.first-law.com | deprecated-custom-domains.b-cdn.net |
 | ox.ines-papert.de | deprecated-custom-domains.b-cdn.net |
 | p016eshru.kaybe.co.uk | deprecated-custom-domains.b-cdn.net |
-| pa5xjc.m1guelpf.me | deprecated-custom-domains.b-cdn.net |
 | panda.moritz-petersen.de | deprecated-custom-domains.b-cdn.net |
 | panda.mvhphotoproject.org | deprecated-custom-domains.b-cdn.net |
 | panda.teraskolmio.fi | deprecated-custom-domains.b-cdn.net |
@@ -806,7 +803,6 @@
 | reindeer.pablomaceda.com | deprecated-custom-domains.b-cdn.net |
 | reptile.o-lit.fr | deprecated-custom-domains.b-cdn.net |
 | reptile.sat.trading | deprecated-custom-domains.b-cdn.net |
-| reptile.wyattblogs.com | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.codeagain.com | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.krieger.io | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.valeriaborgese.it | deprecated-custom-domains.b-cdn.net |
@@ -957,7 +953,6 @@
 | tuna.ajaymantri.com | deprecated-custom-domains.b-cdn.net |
 | tuna.purplespider.com | deprecated-custom-domains.b-cdn.net |
 | turkey.tella.tv | deprecated-custom-domains.b-cdn.net |
-| turtle.geshem.space | deprecated-custom-domains.b-cdn.net |
 | turtle.mushtache.com | deprecated-custom-domains.b-cdn.net |
 | turtle.mydataroom.io | deprecated-custom-domains.b-cdn.net |
 | turtle.olivier.cx | deprecated-custom-domains.b-cdn.net |
@@ -1166,6 +1161,8 @@
 | ss.mrmnd.com | ss-mndsrv.b-cdn.net |
 | ss.nwemnd.com | ss-mndsrv.b-cdn.net |
 | ss.nwmnd.com | ss-mndsrv.b-cdn.net |
+| otter.emdegmbh.com | starman.fathomdns.com |
+| pa5xjc.m1guelpf.me | starman.fathomdns.com |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.stoic-media.com | unibotscdn.b-cdn.net |
 | cdn.studiosis.in | unibotscdn.b-cdn.net |

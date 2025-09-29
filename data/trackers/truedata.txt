@@ -14,6 +14,7 @@
 ||td.harpersbazaar.com^
 ||td.housebeautiful.com^
 ||td.menshealth.com^
+||td.milkjamcreamery.com^
 ||td.oprahdaily.com^
 ||td.popularmechanics.com^
 ||td.prevention.com^

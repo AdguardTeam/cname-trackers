@@ -7,6 +7,7 @@
 ||2efj.economies.cheque-dejeuner.com^
 ||2efj.up.coop^
 ||3esm.consubebe.es^
+||5fm.985fm.ca^
 ||66jo.societegenerale.fr^
 ||6pal.consobaby.com^
 ||6swu.cpa-france.org^
@@ -79,7 +80,6 @@
 ||ct5m.citadium.com^
 ||cvi6.destinia.qa^
 ||cyf9.destinia.cl^
-||d2u.dauphinquebec.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
 ||deut3.fdj.fr^
@@ -250,7 +250,6 @@
 ||gf7t.cheques-cadeaux-culturels.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
-||gi7a.structube.com^
 ||gli9.inseec-bs.com^
 ||gnh2.destinia.lv^
 ||gsg9.carrefour-banque.fr^
@@ -275,7 +274,6 @@
 ||jo2f.cheque-cadhoc.fr^
 ||kep6.destinia.ie^
 ||kwsjy9.oui.sncf^
-||l2i.qualityinnlevis.com^
 ||lbc.lesbonscommerces.fr^
 ||leo1.leon-de-bruxelles.fr^
 ||let1.devialet.com^
@@ -314,7 +312,6 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
-||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
 ||oae6.carrefour-banque.fr^
@@ -343,7 +340,6 @@
 ||pgt1.voyage-prive.es^
 ||piq4.inseec.education^
 ||pjh7.us.chantelle.com^
-||pk1u.melanielyne.com^
 ||pkc5.hardrockhoteltenerife.com^
 ||pm.pmu.fr^
 ||po.ponant.com^
@@ -377,7 +373,6 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
-||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sa.lesselectionsskoda.fr^
 ||sa.skoda.fr^
@@ -398,11 +393,8 @@
 ||ssy7.destinia.com.ua^
 ||t.locasun-vp.fr^
 ||t.locasun.co.uk^
-||t.locasun.de^
 ||t.locasun.es^
 ||t.locasun.fr^
-||t.locasun.it^
-||t.locasun.nl^
 ||t.pmu.fr^
 ||t.voyages-sncf.com^
 ||t0y.toyota.ca^
@@ -478,15 +470,20 @@
 ||zsi7.destinia.do^
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
-||5fm.985fm.ca^
 ||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
 ||d0f.le-dauphin.com^
+||d2u.dauphinquebec.com^
 ||eat9.thebeat925.ca^
 ||hk2d.tourismemauricie.com^
+||l2i.qualityinnlevis.com^
 ||nym5c.bonlook.com^
 ||rwl.tremblant.ca^
+||ry0.rythmefm.com^
 ||su1.les-suites.ca^
 ||www.mis.tourisme-montreal.org^
 ||yio.tremblant.ca^
 ||ea.mnt.fr^
+||gi7a.structube.com^
+||nym5c.laura.ca^
+||pk1u.melanielyne.com^

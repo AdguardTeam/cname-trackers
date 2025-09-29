@@ -120,6 +120,7 @@ meter.rhinobag.de
 metrics.einfachiso.de
 metrics.go-jugendreisen.de
 metrics.greatvita.de
+metrics.leimer.de
 metrics.ostseeresort-damp.de
 metrics.treudelberg-resort.com
 metrics.ultra-med.de
@@ -165,6 +166,7 @@ stats.vorarlbergerjobs.at
 stats.wasserfilteroase.de
 stats.wienerjobs.at
 sun.solar-haus.de
+system.affiliate-marketing-hamburg.de
 system.j5media.de
 t.canngo.express
 tr.hundesportladen.de

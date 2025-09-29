@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -317,6 +317,7 @@ utiq.netmums.com CNAME .
 utiq.news.bayern CNAME .
 utiq.news38.de CNAME .
 utiq.newshub.co.uk CNAME .
+utiq.newz.com CNAME .
 utiq.nextplz.fr CNAME .
 utiq.nicematin.com CNAME .
 utiq.nicematin.net CNAME .

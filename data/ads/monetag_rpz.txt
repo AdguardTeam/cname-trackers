@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ $TTL 300
 amelectivireer.com CNAME .
 astropiusa.com CNAME .
 audraghafamign.com CNAME .
+be06.com CNAME .
 bemoltrestor.com CNAME .
 beseviperor.com CNAME .
 betpanpourer.com CNAME .
@@ -28,6 +29,7 @@ f03f.com CNAME .
 g4nd.com CNAME .
 gys5.com CNAME .
 ih31.com CNAME .
+infraxurechan.com CNAME .
 injolteona.com CNAME .
 ips9.com CNAME .
 itonixr.com CNAME .
@@ -36,6 +38,7 @@ jup9.com CNAME .
 k3on.com CNAME .
 kighoadouk.com CNAME .
 ldy5.com CNAME .
+mamsauphoachoap.com CNAME .
 opvileplumeon.com CNAME .
 ossscatterbuga.com CNAME .
 r8bz.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -166,6 +166,7 @@ data-13d258638d.blick.de CNAME .
 data-13d258638d.erzgebirge.de CNAME .
 data-13d258638d.freiepresse-auktion.de CNAME .
 data-13d258638d.freiepresse.de CNAME .
+data-13d258638d.vogtland-anzeiger.de CNAME .
 data-13e75de547.labo.de CNAME .
 data-143ac31e30.brocken.de CNAME .
 data-143ac31e30.radio-brocken.com CNAME .
@@ -671,6 +672,7 @@ data-49aef6b58e.shapeup-business.de CNAME .
 data-49bb023f99.finanznachrichten.de CNAME .
 data-49dc40e643.onvista.de CNAME .
 data-4a575dad18.hamburgerjobs.de CNAME .
+data-4a5f71b500.highlight-web.de CNAME .
 data-4aed862c71.apps.iocnt.de CNAME .
 data-4b48d22435.kommune21.de CNAME .
 data-4be83b69ca.kka-online.info CNAME .
@@ -1386,6 +1388,7 @@ data-a0f0ae1310.gelbeseiten-schluesseldienst.de CNAME .
 data-a0f0ae1310.gelbeseiten.de CNAME .
 data-a0f0ae1310.goyellow.de CNAME .
 data-a0f0ae1310.t-online.de CNAME .
+data-a0f0ae1310.teleauskunft.de CNAME .
 data-a114e51991.ikz.de CNAME .
 data-a119898f35.kaufda.de CNAME .
 data-a1937ab7ea.materialfluss.de CNAME .

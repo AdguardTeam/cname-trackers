@@ -81,6 +81,8 @@
 | 0.www.gutphewlittleoddly.com | ad-shield.cc |
 | 0.www.hairyalligatorviolently.com | ad-shield.cc |
 | 0.www.huzzahwhatintently.com | ad-shield.cc |
+| 0.www.insteadectoderm.com | ad-shield.cc |
+| 0.www.insteadphooey.com | ad-shield.cc |
 | 0.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 0.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 0.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -101,6 +103,7 @@
 | 0.www.rogerouch.com | ad-shield.cc |
 | 0.www.rundowndeep.com | ad-shield.cc |
 | 0.www.secretvelvety.com | ad-shield.cc |
+| 0.www.shinnyhelpfast.com | ad-shield.cc |
 | 0.www.slapswingthrough.com | ad-shield.cc |
 | 0.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 0.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -192,6 +195,8 @@
 | 1.www.gutphewlittleoddly.com | ad-shield.cc |
 | 1.www.hairyalligatorviolently.com | ad-shield.cc |
 | 1.www.huzzahwhatintently.com | ad-shield.cc |
+| 1.www.insteadectoderm.com | ad-shield.cc |
+| 1.www.insteadphooey.com | ad-shield.cc |
 | 1.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 1.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 1.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -213,6 +218,7 @@
 | 1.www.rogerouch.com | ad-shield.cc |
 | 1.www.rundowndeep.com | ad-shield.cc |
 | 1.www.secretvelvety.com | ad-shield.cc |
+| 1.www.shinnyhelpfast.com | ad-shield.cc |
 | 1.www.slapswingthrough.com | ad-shield.cc |
 | 1.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 1.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -307,6 +313,8 @@
 | 2.www.gutphewlittleoddly.com | ad-shield.cc |
 | 2.www.hairyalligatorviolently.com | ad-shield.cc |
 | 2.www.huzzahwhatintently.com | ad-shield.cc |
+| 2.www.insteadectoderm.com | ad-shield.cc |
+| 2.www.insteadphooey.com | ad-shield.cc |
 | 2.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 2.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 2.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -327,6 +335,7 @@
 | 2.www.rogerouch.com | ad-shield.cc |
 | 2.www.rundowndeep.com | ad-shield.cc |
 | 2.www.secretvelvety.com | ad-shield.cc |
+| 2.www.shinnyhelpfast.com | ad-shield.cc |
 | 2.www.slapswingthrough.com | ad-shield.cc |
 | 2.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 2.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -417,6 +426,8 @@
 | 3.www.gutphewlittleoddly.com | ad-shield.cc |
 | 3.www.hairyalligatorviolently.com | ad-shield.cc |
 | 3.www.huzzahwhatintently.com | ad-shield.cc |
+| 3.www.insteadectoderm.com | ad-shield.cc |
+| 3.www.insteadphooey.com | ad-shield.cc |
 | 3.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 3.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 3.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -437,6 +448,7 @@
 | 3.www.rogerouch.com | ad-shield.cc |
 | 3.www.rundowndeep.com | ad-shield.cc |
 | 3.www.secretvelvety.com | ad-shield.cc |
+| 3.www.shinnyhelpfast.com | ad-shield.cc |
 | 3.www.slapswingthrough.com | ad-shield.cc |
 | 3.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 3.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -529,6 +541,8 @@
 | 4.www.gutphewlittleoddly.com | ad-shield.cc |
 | 4.www.hairyalligatorviolently.com | ad-shield.cc |
 | 4.www.huzzahwhatintently.com | ad-shield.cc |
+| 4.www.insteadectoderm.com | ad-shield.cc |
+| 4.www.insteadphooey.com | ad-shield.cc |
 | 4.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 4.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 4.www.m-0-05o17m54w169vk44nk.xyz | ad-shield.cc |
@@ -550,6 +564,7 @@
 | 4.www.rogerouch.com | ad-shield.cc |
 | 4.www.rundowndeep.com | ad-shield.cc |
 | 4.www.secretvelvety.com | ad-shield.cc |
+| 4.www.shinnyhelpfast.com | ad-shield.cc |
 | 4.www.slapswingthrough.com | ad-shield.cc |
 | 4.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 4.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -641,6 +656,8 @@
 | 5.www.gutphewlittleoddly.com | ad-shield.cc |
 | 5.www.hairyalligatorviolently.com | ad-shield.cc |
 | 5.www.huzzahwhatintently.com | ad-shield.cc |
+| 5.www.insteadectoderm.com | ad-shield.cc |
+| 5.www.insteadphooey.com | ad-shield.cc |
 | 5.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 5.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 5.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -661,6 +678,7 @@
 | 5.www.rogerouch.com | ad-shield.cc |
 | 5.www.rundowndeep.com | ad-shield.cc |
 | 5.www.secretvelvety.com | ad-shield.cc |
+| 5.www.shinnyhelpfast.com | ad-shield.cc |
 | 5.www.slapswingthrough.com | ad-shield.cc |
 | 5.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 5.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -752,6 +770,8 @@
 | 6.www.gutphewlittleoddly.com | ad-shield.cc |
 | 6.www.hairyalligatorviolently.com | ad-shield.cc |
 | 6.www.huzzahwhatintently.com | ad-shield.cc |
+| 6.www.insteadectoderm.com | ad-shield.cc |
+| 6.www.insteadphooey.com | ad-shield.cc |
 | 6.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 6.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 6.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -772,6 +792,7 @@
 | 6.www.rogerouch.com | ad-shield.cc |
 | 6.www.rundowndeep.com | ad-shield.cc |
 | 6.www.secretvelvety.com | ad-shield.cc |
+| 6.www.shinnyhelpfast.com | ad-shield.cc |
 | 6.www.slapswingthrough.com | ad-shield.cc |
 | 6.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 6.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -862,6 +883,8 @@
 | 7.www.gutphewlittleoddly.com | ad-shield.cc |
 | 7.www.hairyalligatorviolently.com | ad-shield.cc |
 | 7.www.huzzahwhatintently.com | ad-shield.cc |
+| 7.www.insteadectoderm.com | ad-shield.cc |
+| 7.www.insteadphooey.com | ad-shield.cc |
 | 7.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 7.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 7.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -882,6 +905,7 @@
 | 7.www.rogerouch.com | ad-shield.cc |
 | 7.www.rundowndeep.com | ad-shield.cc |
 | 7.www.secretvelvety.com | ad-shield.cc |
+| 7.www.shinnyhelpfast.com | ad-shield.cc |
 | 7.www.slapswingthrough.com | ad-shield.cc |
 | 7.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 7.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -972,6 +996,8 @@
 | 8.www.gutphewlittleoddly.com | ad-shield.cc |
 | 8.www.hairyalligatorviolently.com | ad-shield.cc |
 | 8.www.huzzahwhatintently.com | ad-shield.cc |
+| 8.www.insteadectoderm.com | ad-shield.cc |
+| 8.www.insteadphooey.com | ad-shield.cc |
 | 8.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 8.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 8.www.m-0-05o17m54w169vk44nk.xyz | ad-shield.cc |
@@ -993,6 +1019,7 @@
 | 8.www.rogerouch.com | ad-shield.cc |
 | 8.www.rundowndeep.com | ad-shield.cc |
 | 8.www.secretvelvety.com | ad-shield.cc |
+| 8.www.shinnyhelpfast.com | ad-shield.cc |
 | 8.www.slapswingthrough.com | ad-shield.cc |
 | 8.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 8.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -1082,6 +1109,8 @@
 | 9.www.gutphewlittleoddly.com | ad-shield.cc |
 | 9.www.hairyalligatorviolently.com | ad-shield.cc |
 | 9.www.huzzahwhatintently.com | ad-shield.cc |
+| 9.www.insteadectoderm.com | ad-shield.cc |
+| 9.www.insteadphooey.com | ad-shield.cc |
 | 9.www.ko9t6qv2kt8psullo7pputs.xyz | ad-shield.cc |
 | 9.www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | 9.www.meanwhilenoonslap.com | ad-shield.cc |
@@ -1102,6 +1131,7 @@
 | 9.www.rogerouch.com | ad-shield.cc |
 | 9.www.rundowndeep.com | ad-shield.cc |
 | 9.www.secretvelvety.com | ad-shield.cc |
+| 9.www.shinnyhelpfast.com | ad-shield.cc |
 | 9.www.slapswingthrough.com | ad-shield.cc |
 | 9.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 9.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
@@ -1124,15 +1154,12 @@
 | www.05420795.xyz | ad-shield.cc |
 | www.06969451.xyz | ad-shield.cc |
 | www.07327127.xyz | ad-shield.cc |
-| www.07421283.xyz | ad-shield.cc |
 | www.07443488.xyz | ad-shield.cc |
 | www.08256602.xyz | ad-shield.cc |
 | www.08585359.xyz | ad-shield.cc |
-| www.09064654.xyz | ad-shield.cc |
 | www.09284291.xyz | ad-shield.cc |
 | www.0ul1wlo58s-vu69us-r1u.xyz | ad-shield.cc |
 | www.10288299.xyz | ad-shield.cc |
-| www.10614305.xyz | ad-shield.cc |
 | www.11006451.xyz | ad-shield.cc |
 | www.11778562.xyz | ad-shield.cc |
 | www.13518450.xyz | ad-shield.cc |
@@ -1146,22 +1173,18 @@
 | www.17088440.xyz | ad-shield.cc |
 | www.17199874.xyz | ad-shield.cc |
 | www.19009143.xyz | ad-shield.cc |
-| www.19199675.xyz | ad-shield.cc |
 | www.19700902.xyz | ad-shield.cc |
 | www.20382207.xyz | ad-shield.cc |
 | www.20690754.xyz | ad-shield.cc |
 | www.21148843.xyz | ad-shield.cc |
 | www.22117898.xyz | ad-shield.cc |
 | www.22157064.xyz | ad-shield.cc |
-| www.23907453.xyz | ad-shield.cc |
 | www.25381553.xyz | ad-shield.cc |
 | www.27714296.xyz | ad-shield.cc |
 | www.28860928.xyz | ad-shield.cc |
 | www.29662166.xyz | ad-shield.cc |
 | www.2wu0m0ms098w7148.xyz | ad-shield.cc |
-| www.30212692.xyz | ad-shield.cc |
 | www.31945016.xyz | ad-shield.cc |
-| www.32472254.xyz | ad-shield.cc |
 | www.33109166.xyz | ad-shield.cc |
 | www.34475780.xyz | ad-shield.cc |
 | www.35452888.xyz | ad-shield.cc |
@@ -1227,7 +1250,6 @@
 | www.79893962.xyz | ad-shield.cc |
 | www.80133082.xyz | ad-shield.cc |
 | www.80582834.xyz | ad-shield.cc |
-| www.82053148.xyz | ad-shield.cc |
 | www.84055600.xyz | ad-shield.cc |
 | www.84302764.xyz | ad-shield.cc |
 | www.85132058.xyz | ad-shield.cc |
@@ -1243,7 +1265,6 @@
 | www.95534134.xyz | ad-shield.cc |
 | www.95597529.xyz | ad-shield.cc |
 | www.96679950.xyz | ad-shield.cc |
-| www.98853171.xyz | ad-shield.cc |
 | www.9m-mlvrsosov-qmrl4.xyz | ad-shield.cc |
 | www.admonishdecisiveyetnow.com | ad-shield.cc |
 | www.aroundveinfixed.com | ad-shield.cc |
@@ -1261,6 +1282,8 @@
 | www.gutphewlittleoddly.com | ad-shield.cc |
 | www.hairyalligatorviolently.com | ad-shield.cc |
 | www.huzzahwhatintently.com | ad-shield.cc |
+| www.insteadectoderm.com | ad-shield.cc |
+| www.insteadphooey.com | ad-shield.cc |
 | www.kq6mv8mpvs4m10r449nms6.xyz | ad-shield.cc |
 | www.m-0-05o17m54w169vk44nk.xyz | ad-shield.cc |
 | www.meanwhilenoonslap.com | ad-shield.cc |
@@ -1282,6 +1305,7 @@
 | www.rogerouch.com | ad-shield.cc |
 | www.rundowndeep.com | ad-shield.cc |
 | www.secretvelvety.com | ad-shield.cc |
+| www.shinnyhelpfast.com | ad-shield.cc |
 | www.skylinepasttomorrow.com | ad-shield.cc |
 | www.slapswingthrough.com | ad-shield.cc |
 | www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |

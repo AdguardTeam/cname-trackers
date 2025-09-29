@@ -816,7 +816,6 @@
 ||stats.xactcode.com^
 ||stats.xrechnung.app^
 ||stats.zimri.net^
-||statstest.upti.pro^
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||sts.authramp.com^
 ||sts.eliasjarzombek.com^

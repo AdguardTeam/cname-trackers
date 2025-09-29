@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -447,6 +447,7 @@ tr.eulerhermes.com CNAME .
 tr.europe.moethennessy.com CNAME .
 tr.evenements.inpi.fr CNAME .
 tr.events-europa-organisation.com CNAME .
+tr.events.rmcbfm.com CNAME .
 tr.expresofferte.be CNAME .
 tr.fg3p.espmp-cufr.net CNAME .
 tr.fidal.pro CNAME .
@@ -1221,7 +1222,6 @@ tr1.bp06.net CNAME .
 tr1.bp09.net CNAME .
 tr1.bp26.net CNAME .
 tr1.citroen-ipsos.com CNAME .
-tr1.easy-v01.net CNAME .
 tr1.lr001.net CNAME .
 tr1.lr002.net CNAME .
 tr1.lr003.net CNAME .

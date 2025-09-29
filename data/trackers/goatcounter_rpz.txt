@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,7 +13,6 @@ $TTL 300
 
 a.50-nuances-octets.fr CNAME .
 anal.sataniskwijt.be CNAME .
-analy.rusz.space CNAME .
 analytics.applycreatures.com CNAME .
 analytics.astuto.io CNAME .
 analytics.brandsistency.com CNAME .
@@ -97,7 +96,6 @@ stats.benjaminmorris.com CNAME .
 stats.beyondthesprawl.com CNAME .
 stats.bilderbrief.de CNAME .
 stats.boredkevin.com CNAME .
-stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .
 stats.brendanhanke.com CNAME .
 stats.cassie.omg.lol CNAME .

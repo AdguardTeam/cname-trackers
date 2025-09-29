@@ -24,7 +24,6 @@
     * bkvn.goatcounter.com
     * blooper.goatcounter.com
     * blu3id-uk.goatcounter.com
-    * boringproxy-io.goatcounter.com
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
     * cassie.goatcounter.com
@@ -124,7 +123,6 @@
     * riccardomurachelli.goatcounter.com
     * riggraz.goatcounter.com
     * rocketgoboom.goatcounter.com
-    * rusz.goatcounter.com
     * ruzickap-github-io.goatcounter.com
     * ryanch.goatcounter.com
     * sanmateo-ca-us-dev-openlawlibrary-us.goatcounter.com
@@ -193,7 +191,6 @@
 | stats.boredkevin.com | bkvn.goatcounter.com |
 | stats.hdyar.com | blooper.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
-| stats.boringproxy.io | boringproxy-io.goatcounter.com |
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
@@ -297,7 +294,6 @@
 | stats.riccardomurachelli.it | riccardomurachelli.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
-| analy.rusz.space | rusz.goatcounter.com |
 | stats-ruzickap-github-io.ruzicka.dev | ruzickap-github-io.goatcounter.com |
 | stats.ryanchmelir.com | ryanch.goatcounter.com |
 | analytics.sanmateo.ca.us.dev.openlawlibrary.us | sanmateo-ca-us-dev-openlawlibrary-us.goatcounter.com |

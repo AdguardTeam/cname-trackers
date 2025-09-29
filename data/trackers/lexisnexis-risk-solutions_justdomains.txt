@@ -558,6 +558,7 @@ dt.payla.io
 dtrust.atratopago.com
 dvc0271.play.jackpocket.com
 ebcontent.mcbankny.com
+edge.privacy.com.br
 ela1.bankofscotland.co.uk
 elevate.stg.na02.aws.ballys.tech
 enligne.bnc.ca
@@ -638,6 +639,7 @@ image.online.adp.com
 images.applyfleet.com
 images.essofleetoffers.com
 images.exxonmobilfleetoffers.com
+images.otrprocard.com
 images.sheetzadvantage.com
 images.sunocofleetcards.com
 images.suntrakfleetaccount.com
@@ -712,6 +714,7 @@ ln.coolspinslot.com
 ln.jackpotgo.club
 ln.lavishluck.net
 ln.meudigio.com.br
+ln.moonprizecasino.com
 ln.spinsorcery.net
 ln.zenmerge.club
 lnc.mo.gov
@@ -896,7 +899,6 @@ public-check3-at.test.tiaa-cref.org
 public-check3-at.test.tiaa.org
 qfp.intuit.com
 qrimages.qatarairways.com
-qtbm.welendus.com
 query.capitalontap.com
 r.hokodo.co
 r7s.scl.swisscom.ch
@@ -1006,6 +1008,7 @@ solstice.ibotta.com
 sptbb.pilates.com
 src.ebay-us.com
 src0.myvoffice.com
+src1.doterra.com
 srv.squaretrade.at
 srv.squaretrade.be
 srv.squaretrade.co.jp
@@ -1184,13 +1187,19 @@ tm.verify.illion.com.au
 tmcdn.7sultanscasino.com
 tmcdn.alljackpotscasino.com
 tmcdn.allslotscasino.com
+tmcdn.betway.ca
+tmcdn.betway.com
+tmcdn.betway.de
+tmcdn.betway.es
 tmcdn.betway.mx
+tmcdn.betwayarabia.com
 tmcdn.europalace.com
 tmcdn.gamingclub.com
 tmcdn.grizzlysquest.com
 tmcdn.homeaway.com
 tmcdn.jackpotcity.ca
 tmcdn.jackpotcity.mx
+tmcdn.jackpotcitycasino.co.uk
 tmcdn.jackpotcitycasino.com
 tmcdn.jackpotcitycasino.com.py
 tmcdn.kiwistreasure.com
@@ -1288,6 +1297,7 @@ validators.ifpsoyyo.co
 verification.ndtco.com
 verify.ib.ge
 verify.metlife.com
+verify.paywithpoli.com
 verify.philippineairlines.com
 vfp.intuit.com
 vlscppe.microsoft.com

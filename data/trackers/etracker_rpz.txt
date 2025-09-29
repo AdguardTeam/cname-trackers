@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -131,6 +131,7 @@ meter.rhinobag.de CNAME .
 metrics.einfachiso.de CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.greatvita.de CNAME .
+metrics.leimer.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.treudelberg-resort.com CNAME .
 metrics.ultra-med.de CNAME .
@@ -176,6 +177,7 @@ stats.vorarlbergerjobs.at CNAME .
 stats.wasserfilteroase.de CNAME .
 stats.wienerjobs.at CNAME .
 sun.solar-haus.de CNAME .
+system.affiliate-marketing-hamburg.de CNAME .
 system.j5media.de CNAME .
 t.canngo.express CNAME .
 tr.hundesportladen.de CNAME .

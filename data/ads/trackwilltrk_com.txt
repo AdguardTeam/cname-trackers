@@ -14,6 +14,7 @@
 ||t.dynatrck.site^
 ||t.fasttrck.tech^
 ||t.flashtrck.tech^
+||t.fluxtrck.site^
 ||t.instrck.com^
 ||t.javhd-trk.com^
 ||t.jetrck.com^
@@ -21,9 +22,11 @@
 ||t.loantrck.com^
 ||t.maxtrck.shop^
 ||t.nextrck.website^
+||t.peaktrck.uno^
 ||t.quicktrck.space^
 ||t.securetrck.uno^
 ||t.snaptrck.uno^
+||t.snaptrckr.fun^
 ||t.sptrck.com^
 ||t.trackpulse.uno^
 ||t.trcktr.com^

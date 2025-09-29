@@ -436,6 +436,7 @@ tr.eulerhermes.com
 tr.europe.moethennessy.com
 tr.evenements.inpi.fr
 tr.events-europa-organisation.com
+tr.events.rmcbfm.com
 tr.expresofferte.be
 tr.fg3p.espmp-cufr.net
 tr.fidal.pro
@@ -1210,7 +1211,6 @@ tr1.bp06.net
 tr1.bp09.net
 tr1.bp26.net
 tr1.citroen-ipsos.com
-tr1.easy-v01.net
 tr1.lr001.net
 tr1.lr002.net
 tr1.lr003.net

@@ -110,7 +110,6 @@
 ||console.sacommunications.com^
 ||console.trackandfieldnews.com^
 ||console.walaplusadserver.com^
-||coreads-console.cambridge.org^
 ||coreads-static.cambridge.org^
 ||coreads.cambridge.org^
 ||creatives.goldseek.com^

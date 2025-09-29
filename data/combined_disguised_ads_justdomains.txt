@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME disguised ads list
 # Description: The list of unique ads domains that disguise the real trackers by using CNAME records.
-# TimeUpdated: 2025-09-22T08:00:09+00:00
+# TimeUpdated: 2025-09-29T08:00:09+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 *.exaapi.com
@@ -77,6 +77,8 @@
 0.www.gutphewlittleoddly.com
 0.www.hairyalligatorviolently.com
 0.www.huzzahwhatintently.com
+0.www.insteadectoderm.com
+0.www.insteadphooey.com
 0.www.ko9t6qv2kt8psullo7pputs.xyz
 0.www.kq6mv8mpvs4m10r449nms6.xyz
 0.www.meanwhilenoonslap.com
@@ -97,6 +99,7 @@
 0.www.rogerouch.com
 0.www.rundowndeep.com
 0.www.secretvelvety.com
+0.www.shinnyhelpfast.com
 0.www.slapswingthrough.com
 0.www.sn2rrlv57qpss5w-qk8llu.xyz
 0.www.sneakyangrilypromptlyupon.com
@@ -147,9 +150,7 @@
 06901f91fd.b2f5a87e42.com
 06b36b4508.5813e74b18.com
 0715c69091.e5f1418a7a.com
-0734405418.77b3dd6b03.com
 07c3fa8bcf.36ee11539f.com
-0892ce11be.c70e84a65a.com
 08ac2e4ba4.936781cc1a.com
 08d9578fe3.29a7397be5.com
 08fdca8d30.fc5701c3b2.com
@@ -255,6 +256,8 @@
 1.www.gutphewlittleoddly.com
 1.www.hairyalligatorviolently.com
 1.www.huzzahwhatintently.com
+1.www.insteadectoderm.com
+1.www.insteadphooey.com
 1.www.ko9t6qv2kt8psullo7pputs.xyz
 1.www.kq6mv8mpvs4m10r449nms6.xyz
 1.www.meanwhilenoonslap.com
@@ -276,6 +279,7 @@
 1.www.rogerouch.com
 1.www.rundowndeep.com
 1.www.secretvelvety.com
+1.www.shinnyhelpfast.com
 1.www.slapswingthrough.com
 1.www.sn2rrlv57qpss5w-qk8llu.xyz
 1.www.sneakyangrilypromptlyupon.com
@@ -324,10 +328,11 @@
 1375f1f27e.5cb79f17b9.com
 138124e964.eda4dc1ffe.com
 13c29d08a5.e8370630f3.com
+142644ec71.a61bc11442.com
 142801df41.ca2865fb41.com
 1433a25a2b.976caebe7b.com
+1480d5060b.8b023d788d.com
 14b184caf9.459b6951ca.com
-15337f077d.2f6dbda127.com
 15f3ecdff9.21c69b70bc.com
 164e84ce61.ac3fc8f2a5.com
 16x9tv.goaserv.com
@@ -338,6 +343,7 @@
 18d92bc6a0.c607b31b1a.com
 190237bdf8.08a62d358c.com
 191b954237.4a4ac32960.com
+196a5595bc.e0b2d6a445.com
 197a0c366b.02be4c77d5.com
 19c1cd4c61.9a8f641701.com
 19e408304d.9c867e2056.com
@@ -349,9 +355,9 @@
 1b88cc6bce.7898a9d175.com
 1bef6d70a4.fc5d7c4624.com
 1c466187fa.30e4a37eb7.com
+1ca6b1f43b.5978ef8c9a.com
 1ca6e3e357.a8ca394de0.com
 1cbd637d10.2c8eb505eb.com
-1d18dd4bc1.d5db478dde.com
 1d36243653.ef1dd1776c.com
 1d36f919d8.1be795e9c2.com
 1d9c307922.22cbbac9cd.com
@@ -445,6 +451,8 @@
 2.www.gutphewlittleoddly.com
 2.www.hairyalligatorviolently.com
 2.www.huzzahwhatintently.com
+2.www.insteadectoderm.com
+2.www.insteadphooey.com
 2.www.ko9t6qv2kt8psullo7pputs.xyz
 2.www.kq6mv8mpvs4m10r449nms6.xyz
 2.www.meanwhilenoonslap.com
@@ -465,6 +473,7 @@
 2.www.rogerouch.com
 2.www.rundowndeep.com
 2.www.secretvelvety.com
+2.www.shinnyhelpfast.com
 2.www.slapswingthrough.com
 2.www.sn2rrlv57qpss5w-qk8llu.xyz
 2.www.sneakyangrilypromptlyupon.com
@@ -497,11 +506,11 @@
 21e18b62f2.4a41fff8a6.com
 22251059d5.e03abc72c5.com
 222f2632ff.3535d0471e.com
+2264ca26d4.e088b80df3.com
 2286.notify.optimizesrv.com
 234562563d.2f5de272ff.com
 235c440d53.c2529de2cf.com
 23a1aece7b.47c50e31a9.com
-23a70832cd.2f359a8315.com
 23e023321c.c12c813990.com
 2468193450.ac83ccdb8f.com
 2492.notify.optimizesrv.com
@@ -529,6 +538,7 @@
 2848.notify.optimizesrv.com
 28978b3e8f.48daa0d92b.com
 2950917e4a.56eed75dbe.com
+297fdbc2f7.1426ab7568.com
 2a1b482343.1e55308a88.com
 2a2f01ad50.0e4a4c9e4e.com
 2b294985f3.900f3c4717.com
@@ -543,7 +553,6 @@
 2ce064f854.766935bca8.com
 2ce7a79e64.f2a2ddbb84.com
 2d1a16af63.55f4605f6d.com
-2d91ee1fa3.7a53b9303c.com
 2ddq.com
 2de0750b36.3807bf7acf.com
 2dgg.com
@@ -631,6 +640,8 @@
 3.www.gutphewlittleoddly.com
 3.www.hairyalligatorviolently.com
 3.www.huzzahwhatintently.com
+3.www.insteadectoderm.com
+3.www.insteadphooey.com
 3.www.ko9t6qv2kt8psullo7pputs.xyz
 3.www.kq6mv8mpvs4m10r449nms6.xyz
 3.www.meanwhilenoonslap.com
@@ -651,6 +662,7 @@
 3.www.rogerouch.com
 3.www.rundowndeep.com
 3.www.secretvelvety.com
+3.www.shinnyhelpfast.com
 3.www.slapswingthrough.com
 3.www.sn2rrlv57qpss5w-qk8llu.xyz
 3.www.sneakyangrilypromptlyupon.com
@@ -832,7 +844,6 @@
 3225747.notify6.com
 3227697.notify6.com
 3230814.notifysrv.com
-3231172.notify6.com
 3231172.notifysrv.com
 3232032.notifysrv.com
 3232836.notify6.com
@@ -865,7 +876,6 @@
 3269104.notifysrv.com
 3270262.notifysrv.com
 3273540.notifysrv.com
-3276222.notifysrv.com
 3278638.notify6.com
 3281804.notifysrv.com
 3282004.notifysrv.com
@@ -908,7 +918,6 @@
 3304350.notifysrv.com
 3304354.notify6.com
 3304354.notifysrv.com
-3305622.notifysrv.com
 3307240.notifysrv.com
 3307347c72.6e694b79b9.com
 3307754.notifysrv.com
@@ -941,7 +950,6 @@
 3317892.notifysrv.com
 3319502.notify6.com
 3319502.notifysrv.com
-3319548.notify6.com
 3319834.notifysrv.com
 3321270.notifysrv.com
 3321284.notifysrv.com
@@ -982,7 +990,6 @@
 3344832.notifysrv.com
 3344862.notifysrv.com
 3344934.notifysrv.com
-3344944.notifysrv.com
 3345712.notify6.com
 3345712.notifysrv.com
 3346174.notify6.com
@@ -995,7 +1002,6 @@
 3348428.notify6.com
 3348428.notifysrv.com
 3349680.notify6.com
-3351068.notify6.com
 3351068.notifysrv.com
 3351072.notify6.com
 3351072.notifysrv.com
@@ -1072,7 +1078,6 @@
 3410343.notify6.com
 3410343.notifysrv.com
 3414351.notifysrv.com
-3416107.notifysrv.com
 3416183.notifysrv.com
 3416525.notifysrv.com
 3416833.notifysrv.com
@@ -1104,7 +1109,6 @@
 3440159.notify6.com
 3440401.notify6.com
 3440401.notifysrv.com
-3440403.notifysrv.com
 3440407.notifysrv.com
 3440409.notify6.com
 3440409.notifysrv.com
@@ -1159,7 +1163,6 @@
 3476453.notifysrv.com
 3477231.notify6.com
 3477325.notify6.com
-3478737.notifysrv.com
 3483067.notifysrv.com
 3483233.notifysrv.com
 3483409.notify6.com
@@ -1229,11 +1232,9 @@
 3541095.notifysrv.com
 3542163.notifysrv.com
 3544557.notify6.com
-3546.notify.optimizesrv.com
 3549573.notifysrv.com
 3556651.notifysrv.com
 3557559.notify6.com
-3557821.notifysrv.com
 356.freeonlinegayporn.com
 3562657.notifysrv.com
 3562667.notify6.com
@@ -1251,7 +1252,6 @@
 3570033.notifysrv.com
 3570673.notify6.com
 3570727.notifysrv.com
-3570737.notifysrv.com
 3570741.notifysrv.com
 3570789.notifysrv.com
 3572273.notify6.com
@@ -1262,7 +1262,6 @@
 3572283.notifysrv.com
 3572291.notify6.com
 3572293.notify6.com
-3572293.notifysrv.com
 3572295.notify6.com
 3572299.notify6.com
 3572299.notifysrv.com
@@ -1374,7 +1373,6 @@
 3662975.notifysrv.com
 3667313.notifysrv.com
 3668783.notifysrv.com
-3668785.notify6.com
 3668785.notifysrv.com
 3668789.notify6.com
 3668791.notify6.com
@@ -1437,7 +1435,6 @@
 3789703.notifysrv.com
 3789861.notifysrv.com
 378ff3112a.613f15a070.com
-3791967.notify6.com
 3793871.notifysrv.com
 3793875.notify6.com
 3793875.notifysrv.com
@@ -1458,7 +1455,6 @@
 3843075.notifysrv.com
 3843131.notify6.com
 3845271.notify6.com
-3845405.notify6.com
 3849719.notify6.com
 3853331.notify6.com
 3853333.notify6.com
@@ -1492,7 +1488,6 @@
 3898244.notify6.com
 3898280.notify6.com
 3898346.notify6.com
-3898378.notify6.com
 3903162.notify6.com
 3903164.notify6.com
 3909064.notify6.com
@@ -1664,6 +1659,8 @@
 4.www.gutphewlittleoddly.com
 4.www.hairyalligatorviolently.com
 4.www.huzzahwhatintently.com
+4.www.insteadectoderm.com
+4.www.insteadphooey.com
 4.www.ko9t6qv2kt8psullo7pputs.xyz
 4.www.kq6mv8mpvs4m10r449nms6.xyz
 4.www.m-0-05o17m54w169vk44nk.xyz
@@ -1685,6 +1682,7 @@
 4.www.rogerouch.com
 4.www.rundowndeep.com
 4.www.secretvelvety.com
+4.www.shinnyhelpfast.com
 4.www.slapswingthrough.com
 4.www.sn2rrlv57qpss5w-qk8llu.xyz
 4.www.sneakyangrilypromptlyupon.com
@@ -1750,7 +1748,6 @@
 4069896.notify6.com
 4069900.notify6.com
 4078544.notify6.com
-4080560.notify6.com
 4080606.notify6.com
 4080872.notify6.com
 4083174.notify6.com
@@ -1844,6 +1841,7 @@
 4270618.notify6.com
 4274616.notify6.com
 4274618.notify6.com
+428c242b43.fa29c88413.com
 4290976.notify6.com
 4292982.notify6.com
 429614c72b.153acc74fd.com
@@ -1919,7 +1917,7 @@
 4694592.notify6.com
 46c752919d.d03ab571b4.com
 46e543879f.4d15ae6889.com
-4701985b0c.1e89ee9512.com
+472104cbb2.8bd6421c3f.com
 4735242.notify6.com
 4743728.notify6.com
 4752e0f296.4d2af59d17.com
@@ -1989,7 +1987,6 @@
 4be7fb10f6.fdc9cefe70.com
 4c3157ffd5.c26b742fa3.com
 4cbaa088a5.e0b7e7348e.com
-4cd8d0b494.773fd92793.com
 4ce83dd618.1c497d51f2.com
 4ced4daa4c.84eb50d125.com
 4cf1288ca8.4088846d50.com
@@ -2082,6 +2079,8 @@
 5.www.gutphewlittleoddly.com
 5.www.hairyalligatorviolently.com
 5.www.huzzahwhatintently.com
+5.www.insteadectoderm.com
+5.www.insteadphooey.com
 5.www.ko9t6qv2kt8psullo7pputs.xyz
 5.www.kq6mv8mpvs4m10r449nms6.xyz
 5.www.meanwhilenoonslap.com
@@ -2102,6 +2101,7 @@
 5.www.rogerouch.com
 5.www.rundowndeep.com
 5.www.secretvelvety.com
+5.www.shinnyhelpfast.com
 5.www.slapswingthrough.com
 5.www.sn2rrlv57qpss5w-qk8llu.xyz
 5.www.sneakyangrilypromptlyupon.com
@@ -2192,6 +2192,7 @@
 577c231052.a91e9c75f8.com
 57b47e6979.4885e2e6f7.com
 57c1ac48f2.7b5f77dbb5.com
+58189ace57.634263882b.com
 583.notify.optimizesrv.com
 5837941a19.d1f76eb5a4.com
 586bc20f97.6fbce8ec59.com
@@ -2303,6 +2304,8 @@
 6.www.gutphewlittleoddly.com
 6.www.hairyalligatorviolently.com
 6.www.huzzahwhatintently.com
+6.www.insteadectoderm.com
+6.www.insteadphooey.com
 6.www.ko9t6qv2kt8psullo7pputs.xyz
 6.www.kq6mv8mpvs4m10r449nms6.xyz
 6.www.meanwhilenoonslap.com
@@ -2323,6 +2326,7 @@
 6.www.rogerouch.com
 6.www.rundowndeep.com
 6.www.secretvelvety.com
+6.www.shinnyhelpfast.com
 6.www.slapswingthrough.com
 6.www.sn2rrlv57qpss5w-qk8llu.xyz
 6.www.sneakyangrilypromptlyupon.com
@@ -2352,6 +2356,7 @@
 61serve.everydayporn.co
 622bac31c1.a73c42223a.com
 629ded61ab.a35a7c1900.com
+62d57faaaf.a06c9a4dd7.com
 639.notify.optimizesrv.com
 639bb3bad9.e59a2ad79a.com
 63b0b46d2b.a46d7a5579.com
@@ -2390,6 +2395,7 @@
 6c67329704.4d3f87f705.com
 6c7cd0e530.a970dc123c.com
 6c800efb18.f8f311a27a.com
+6c93951ec0.4c32ecfead.com
 6c9672b220.1db9fede5f.com
 6cf0e7801e8cd.clicknplay.to
 6d90fc608a.f39ff3accb.com
@@ -2476,6 +2482,8 @@
 7.www.gutphewlittleoddly.com
 7.www.hairyalligatorviolently.com
 7.www.huzzahwhatintently.com
+7.www.insteadectoderm.com
+7.www.insteadphooey.com
 7.www.ko9t6qv2kt8psullo7pputs.xyz
 7.www.kq6mv8mpvs4m10r449nms6.xyz
 7.www.meanwhilenoonslap.com
@@ -2496,6 +2504,7 @@
 7.www.rogerouch.com
 7.www.rundowndeep.com
 7.www.secretvelvety.com
+7.www.shinnyhelpfast.com
 7.www.slapswingthrough.com
 7.www.sn2rrlv57qpss5w-qk8llu.xyz
 7.www.sneakyangrilypromptlyupon.com
@@ -2668,6 +2677,8 @@
 8.www.gutphewlittleoddly.com
 8.www.hairyalligatorviolently.com
 8.www.huzzahwhatintently.com
+8.www.insteadectoderm.com
+8.www.insteadphooey.com
 8.www.ko9t6qv2kt8psullo7pputs.xyz
 8.www.kq6mv8mpvs4m10r449nms6.xyz
 8.www.m-0-05o17m54w169vk44nk.xyz
@@ -2689,6 +2700,7 @@
 8.www.rogerouch.com
 8.www.rundowndeep.com
 8.www.secretvelvety.com
+8.www.shinnyhelpfast.com
 8.www.slapswingthrough.com
 8.www.sn2rrlv57qpss5w-qk8llu.xyz
 8.www.sneakyangrilypromptlyupon.com
@@ -2709,7 +2721,6 @@
 80fb1b35c2.47ae11ce2f.com
 80xy.com
 8159323a9c.d064229052.com
-81aa281d56.19bc0e31d4.com
 821a5b6b9e.363caab0ae.com
 822dbd57ea.298b7571af.com
 823cb09e67.6e67e233a2.com
@@ -2719,7 +2730,6 @@
 838bbe2c37.9f0e7c5370.com
 838ccf095c.02f9838600.com
 84029188ab.339f59c980.com
-8472fcb80c.cb57b3bd09.com
 847ab65f59.167999d759.com
 84c7da3976.c4c3c988ad.com
 8570c75aaf.a69cc901e9.com
@@ -2731,6 +2741,7 @@
 86af3db2a8.1fcf60d54c.com
 86af91aa5a.bd64dc73db.com
 86b1d5df81.21b95312a1.com
+86e3a0e39d.602e8edafd.com
 86f1b067c2.a2255d1d36.com
 86hi9r4f.xyz
 8707c7e689.dec0c1a14f.com
@@ -2752,11 +2763,12 @@
 8992bfef5b.3575e2d4e6.com
 8a2f46cd46.05fa754f24.com
 8a45f0e0a6.579eede9ca.com
+8a4ca59e89.9eb0066c79.com
 8a97caf2b2.b5f1d2bb4d.com
-8aea82753b.2ab91613ab.com
 8b2d434767.b0f31fd873.com
 8b62ddc457.c046100d82.com
 8b7ab78d6c.721474ff09.com
+8c14561703.987f9e203d.com
 8cbe12271a.0ffaf504b2.com
 8d8c9439be.23f6a84cc2.com
 8dab71c298.3fa3d4c288.com
@@ -2843,6 +2855,8 @@
 9.www.gutphewlittleoddly.com
 9.www.hairyalligatorviolently.com
 9.www.huzzahwhatintently.com
+9.www.insteadectoderm.com
+9.www.insteadphooey.com
 9.www.ko9t6qv2kt8psullo7pputs.xyz
 9.www.kq6mv8mpvs4m10r449nms6.xyz
 9.www.meanwhilenoonslap.com
@@ -2863,6 +2877,7 @@
 9.www.rogerouch.com
 9.www.rundowndeep.com
 9.www.secretvelvety.com
+9.www.shinnyhelpfast.com
 9.www.slapswingthrough.com
 9.www.sn2rrlv57qpss5w-qk8llu.xyz
 9.www.sneakyangrilypromptlyupon.com
@@ -2899,9 +2914,11 @@
 9414a83955.5a5751fd6a.com
 94ad51832a.cedb09c3d8.com
 94ddcccd6e.551ba6c442.com
+94e0cee279.00e2120672.com
 953efb5327.735eb9f0a6.com
 955.notify.optimizesrv.com
 95536d25ae.aed7dca148.com
+956476d9c0.c11a6baa3f.com
 956566f4be.bf2bbb8842.com
 95b16b661b.8f05eeda67.com
 95bfbe548450b30c.clicknplay.to
@@ -2994,7 +3011,6 @@ a.cilon.site
 a.cingo.sbs
 a.clickintact.com
 a.coinhub.wiki
-a.craftbeerclub.com.ua
 a.cramb.site
 a.creis.site
 a.crme7srv.com
@@ -3002,6 +3018,7 @@ a.croni.site
 a.ctrem.site
 a.cumpilation.video
 a.cylek.site
+a.degore.xyz
 a.digitalgiftshopping.com
 a.dimao.site
 a.dporntube.site
@@ -3014,6 +3031,7 @@ a.dumae.site
 a.dumay.site
 a.duria.site
 a.edbl.space
+a.egori.xyz
 a.ekont.site
 a.elpex.site
 a.emban.site
@@ -3028,6 +3046,7 @@ a.fantastixxx.co
 a.fapcat.com
 a.fapster.xxx
 a.fedim.site
+a.fegori.xyz
 a.fidar.site
 a.framb.site
 a.freid.site
@@ -3038,11 +3057,13 @@ a.ftrem.site
 a.fukoa.site
 a.fynil.site
 a.gatherstar.io
+a.gegori.xyz
 a.gemen.site
 a.gimea.site
 a.gimes.site
 a.gimet.site
 a.go-traffic.com
+a.gogoga.xyz
 a.golhofer.com
 a.gramb.site
 a.grene.site
@@ -3051,7 +3072,10 @@ a.guidehub.lol
 a.gupload.xyz
 a.gymea.site
 a.hefim.site
+a.hegoda.xyz
 a.hemyn.site
+a.hiani.net
+a.hkartg.com
 a.holimsishoe.click
 a.hramb.site
 a.hreso.site
@@ -3069,6 +3093,7 @@ a.ipelo.site
 a.iramb.site
 a.itren.site
 a.itrex.site
+a.izoga.xyz
 a.jamez.site
 a.jezer.site
 a.jivem.site
@@ -3089,14 +3114,12 @@ a.maturepussyporn.net
 a.moninas.store
 a.mx.go-srv.com
 a.mx.notifysrv.com
-a.mysalo.store
 a.mystr1.xyz
 a.n4m5x60.com
 a.ninase.sbs
 a.ns.notifysrv.com
 a.oforx.live
 a.optimizesrv.com
-a.ouzads.com
 a.pchat.com
 a.pinayviralsexx.com
 a.pinkads.org
@@ -3127,7 +3150,6 @@ a.trusa.xyz
 a.ulisxyz.store
 a.umbrosadigital.com
 a.vidone.net
-a.viralnewsbd.xyz
 a.vws4brkfst.com
 a.warddogs.com
 a.yamcha.xyz
@@ -3148,6 +3170,7 @@ a3869c4674.5ae3a94233.com
 a389db0b80.b0f3731d0a.com
 a398b1fb80.331f7bf198.com
 a3b54a4e96.92e6136b5d.com
+a3c3c7c303.48cd631c5c.com
 a3f2635e13.ce391f4444.com
 a3f3edf924.7470c4cda5.com
 a40b9f2dba.b36d53af56.com
@@ -3213,6 +3236,7 @@ ab4cfdb1ca.d71194ad75.com
 ab9a9bd665.ae83a82a8d.com
 abc.cda-hd.co
 abc.notifysrv.com
+abcd.anihq.to
 ac.4wank.com
 ac.fapnado.xxx
 ac.forwank.com
@@ -3303,7 +3327,6 @@ ads.proxibid.com
 ads.recon.com
 ads.sexvideos.rodeo
 ads.swiss-equestrian.ch
-ads.tabuflix.com
 ads.the-saleroom.com
 ads.toroadvertising.com
 ads.tvp.pl
@@ -3312,7 +3335,6 @@ ads.wetpussy.sexy
 ads.worldofshowjumping.com
 ads.xtra.ca
 adserv1.mannixmarketing.com
-adservc.com
 adserve.bongocdn.com
 adserver.additionalmedia.com
 adserver.associationheadquarters.com
@@ -3325,7 +3347,6 @@ adserver.rtvutrechtreclame.nl
 adserver.sniffies.com
 adserver.sonicplug.com
 adserver.xtubexxx.com
-adservg.com
 adservh.com
 adserving.menatech.net
 adspy.hdthot.com
@@ -3423,7 +3444,6 @@ ao.city24.lv
 ao.la.lv
 aopapp.com
 apac.datacygnal.io
-apathyjav128.fun
 ape.mfj.se
 ape.pytch.co.uk
 ape.saadsvoterguide.org
@@ -3438,7 +3458,6 @@ api.ad.logic-prod.viasat.io
 api.ad.logic-test.viasat.io
 api.ad.logic.viasat.io
 api.adbility-media.com
-api.adnation.com
 api.adultsclips.com
 api.adxnow.com
 api.aqua-adserver.com
@@ -3463,7 +3482,6 @@ api.valuemedia-ltd.com
 api.vrumeads.com
 apogee.spacenews.com
 app.eduseio.com
-app.gayapp.one
 app.iugbhsu.com
 app.noviclick.com
 app.phimvu.app
@@ -3570,7 +3588,6 @@ autoconfig.directory.notifysrv.com
 autorekrb.bid
 av.sharktube.net
 avemariaas.vmrcommunications.com
-avview3431.fun
 awrfds3.pornpapa.com
 ax4.xmoviesland.com
 az6a8nmuz5vbrgd2.exasrv.com
@@ -3582,6 +3599,7 @@ b.defcdn.cloud
 b.filexan.com
 b.harehop.com
 b.hubhubhub.name
+b.octoberads.space
 b.paletta.cc
 b.reissue2871.xyz
 b.seksohub.com
@@ -3617,7 +3635,6 @@ b62adecab1.907ac1b61e.com
 b6ab8b176d.f864fdc049.com
 b6b381f428.9dcae3bd13.com
 b6c215cd84.38e5270423.com
-b7755dcb72.3cb9b57efc.com
 b7820eb5f5.821e113467.com
 b78b08af88.dd795a9d50.com
 b7ab7d0f42.30d52e951d.com
@@ -3627,6 +3644,7 @@ b8442ed1e4.9365e2dd1f.com
 b88a266bee.889dbee9c9.com
 b8ms7gkwq7g.crocotube.com
 b9.rbighouse.ru
+b921fae019.1af24010cb.com
 b9615059e4.4672cf576d.com
 b99d6ab38b.d15a035f27.com
 b99e4edba7.98cbb83e14.com
@@ -3671,7 +3689,6 @@ bb2676f953.0ba2b70e8c.com
 bb9286cc83.fc9e63a7c3.com
 bbcb71c053.0860c7aadf.com
 bbe323b1ac.8315fab792.com
-bc13945167.9cf57a043f.com
 bc3f648d44.5f631bb110.com
 bc6dc48b743dc5d01.clicknplay.to
 bc7b02847f.95b1e00252.com
@@ -3682,6 +3699,7 @@ bcdn.cpmstar.com
 bcfd48bbca.660a9baa02.com
 bd253b68b5.e5ce73abf6.com
 bd43e502ad.4f8303ce57.com
+be06.com
 be1c6e25e9.ca6d30883b.com
 be3b287535.cf9e789bf0.com
 be7b76b7b1.9e83087e91.com
@@ -3787,7 +3805,6 @@ c021b14e0782ad7ef6d74.clicknplay.to
 c045696d87.f09ecab7bb.com
 c058b13b28.deec684fdd.com
 c07ccca5ac.7d89fbf125.com
-c0d05e4183.59aa4e4c1c.com
 c16fd5228c.73a435bfaf.com
 c22x1.xcdn.ovh
 c24ca9e0d8.d170971757.com
@@ -3819,7 +3836,6 @@ c6933c4650.9adbbad978.com
 c6e1f1ff68.be51586160.com
 c6s.bionestraff.pro
 c713c37a1b.a402304fa2.com
-c73afb43bc.389867b0e2.com
 c7ca525b2e.0491166852.com
 c7f7769b15.f10f9df901.com
 c80b7edfa3.97ce98c219.com
@@ -3949,11 +3965,13 @@ cdn.buram.xyz
 cdn.caahwq.com
 cdn.cabhwq.com
 cdn.calcpol.com
+cdn.chicagobulls.tv
 cdn.cjlph.com
 cdn.clbaf.com
 cdn.clivetadds.com
 cdn.cloudvideosa.com
 cdn.conservativestar.com
+cdn.content-hoster.xyz
 cdn.crsope.com
 cdn.cryjun.com
 cdn.dajkq.com
@@ -4172,7 +4190,6 @@ click-eu.pclk.name
 click-eu.plarimocl.com
 click-eu.plarimoexocli.com
 click-eu.plarimoplus.com
-click-eu.preclknu.com
 click-eu.preclksize.com
 click-eu.precmd.com
 click-rtb2-apac.affinity.net
@@ -4188,6 +4205,7 @@ click-rtb2-eu.affinity.net
 click-rtb2-eu.afkwa.com
 click-rtb2-eu.convergeselect.net
 click-rtb2-eu.e-volution.ai
+click-rtb2-eu.jambojar.com
 click-rtb2-eu.mediarise.io
 click-rtb2-eu.n-data.io
 click-rtb2-eu.torchad.com
@@ -4203,6 +4221,7 @@ click-rtb2-useast.mediarise.io
 click-rtb2-useast.newchallenges-dsp.com
 click-rtb2-uswest.afkwa.com
 click-rtb2-uswest.e-volution.ai
+click-rtb2-uswest.jambojar.com
 click-v4.celxkpdir.com
 click-v4.cldirplarimo.com
 click-v4.clkoplardir.com
@@ -4277,7 +4296,6 @@ click.pclk.name
 click.plarimocl.com
 click.plarimoexocli.com
 click.plarimoplus.com
-click.preclknu.com
 click.preclksize.com
 click.precmd.com
 click.pyrrhicmechntech.com
@@ -4351,7 +4369,6 @@ cool.gaygo.tv
 copperjav182.fun
 coral.bladestudy.net
 coral.defygravity.co
-coreads-console.cambridge.org
 coreads-static.cambridge.org
 coreads.cambridge.org
 cougar.augmentedmindapp.com
@@ -4475,6 +4492,7 @@ crow.gim.technology
 crow.themarbleking.com
 crow.voracious.dev
 crumpet.xxxpornhd.pro
+crx.levivblackburn.site
 cs.go-srv.com
 cst.cstwpush.com
 cuckoo.clientrock.app
@@ -4501,6 +4519,7 @@ d1f2095e51.3e0605983a.com
 d1f7b9f55a.791ba004c3.com
 d1mahjlm.xyz
 d2889ff380.12c9049c32.com
+d34d3e1bba.91d02a6a8c.com
 d37586d118.054f8d0c5a.com
 d3e192e8ea.85a90880b9.com
 d457c69ef7.0e07fa9a08.com
@@ -4509,7 +4528,6 @@ d4ba3f883d.9e3810a418.com
 d4cc84626a.f29c4af968.com
 d5099e30ec.708ae8f508.com
 d51846de1e.b7085555f6.com
-d55875dd70.03db0d5d14.com
 d5d88f7174.cdd53ec0c3.com
 d6b1635a92.829c4efedc.com
 d6cc6c0a1c.3dedca7f84.com
@@ -4576,7 +4594,6 @@ ddacdcd4a8.b4ced3abcd.com
 ddb56207b0.4dc005d17a.com
 ddb8277edc.5608c7633c.com
 ddcde73b55.7c13b412e9.com
-ddd38c80c8.366378fd1d.com
 ddijapp.com
 de.h24.news
 de1d3c902b.3e4d96411b.com
@@ -4590,12 +4607,12 @@ delete05032026.shop
 deliver.vkcdnservice.com
 delivery.gettopple.com
 democratic072925.shop
-denialjav128.fun
 departjavgg124.fun
 dev-reporting.bloblohub.com
 dev.bloblohub.com
 development-.bloblohub.com
 development-viz.bloblohub.com
+df3ac56d04.c0c84de6d4.com
 df48924623.4e16b2e294.com
 df721ea323.0d22ca5caa.com
 df7d4eecab.ccc9c93083.com
@@ -4606,7 +4623,6 @@ dfb55a5491.d3edbb478c.com
 dff4adcb3a.65a16dd098.com
 dieadi.com
 dilute08062025.shop
-dingo.hexocene.com
 discourage072925.shop
 display.additionalmedia.com
 display.digitalclickstime.com
@@ -4680,6 +4696,7 @@ e.sexbule.xxx
 e.sexygirlscontact.com
 e00d374dae.3c70e282de.com
 e02f936aee.8f1de9240f.com
+e046e7ebd9.f18ddd0d1a.com
 e0848bb11f.999aae0fa7.com
 e0c8eba8be.8ffea74ec5.com
 e0dc0c0e85.e8853962d1.com
@@ -4716,7 +4733,6 @@ e87fe95e48.c19ef6cf49.com
 e9093193fa.8111f7e70e.com
 e914f61d06.c526b6ac88.com
 e91ab5975e.623efad9ac.com
-e95055de98.bcc90656ea.com
 e95da74cd9.a2b219c0ce.com
 e9b38e2e5a.bbad91e014.com
 eabec5277c.bdd549304d.com
@@ -4730,7 +4746,6 @@ earthworm.mxdvl.com
 earwig.architecturesofhiding.com
 earwig.oofi.es
 eb237ba5f5.86fef27c8b.com
-eb41b051d2.8bbcf84ce6.com
 eb94f6dbe1.a8aebc73ca.com
 ebd.cda-hd.cc
 ebd.cda-hd.co
@@ -4767,7 +4782,6 @@ elk.techphotoguy.com
 elpushnot.com
 embedx.name
 embryo1266.fun
-emsi.livetwo.store
 emu.blitzpower.com
 emu.cortexfutura.com
 emu.motala.no
@@ -4776,7 +4790,6 @@ engine.gettopple.com
 enginejav182.fun
 enjoymediafile.hubhubhub.name
 enkcyenrat.club
-enma.livetwo.space
 enrgy.fwtrck.com
 ensure08062025.shop
 eotaioa.xyz
@@ -4808,6 +4821,7 @@ f03f.com
 f0700b9a77.7a416c3a61.com
 f08a153e6e.61e564cc00.com
 f09c714ed2.c5e739a769.com
+f1679e30c6.7e84b34fea.com
 f17815a794.cd39d85c08.com
 f1d5c57c50.d980ffe9b6.com
 f1ddc07d92.ba6174e1cd.com
@@ -4889,8 +4903,8 @@ ff2f72443e.096f5e98aa.com
 ff413e4e51.b69b92742d.com
 ff8453ee2f.2d5ac65613.com
 ff97d1d2da.20590def33.com
-fffbaeef93.b12f1b0346.com
 fft.delovoemesto.ru
+fgn.preders.site
 file.iporngay.com
 filter-eu.a1.0network.com
 filter-eu.acertb.com
@@ -4949,9 +4963,6 @@ filter-eu.flairadscpc.com
 filter-eu.flurryad.com
 filter-eu.fmlabsonline.com
 filter-eu.foremedia.net
-filter-eu.fstsrv18.com
-filter-eu.fstsrv19.com
-filter-eu.fstsrv20.com
 filter-eu.fstsrv9.com
 filter-eu.globlemath.com
 filter-eu.goclickz.net
@@ -5115,9 +5126,6 @@ filter.fmlabsonline.com
 filter.foremedia.net
 filter.frequency33media.com
 filter.fstsrv10.com
-filter.fstsrv18.com
-filter.fstsrv19.com
-filter.fstsrv20.com
 filter.fstsrv9.com
 filter.globlemath.com
 filter.goclickz.net
@@ -5177,6 +5185,7 @@ filter.pushit.work
 filter.pwr-ads.com
 filter.pyrrhicmechntech.com
 filter.qksrv.cc
+filter.rain.ad
 filter.rastyclick.com
 filter.re-media.info
 filter.realtime-bid.com
@@ -5286,7 +5295,6 @@ g6j.cupidonmedia.com
 ga.tubepork.com
 ga.xxxhd.icu
 gallery.stailaus.fi
-gallonjav128.fun
 gamefowl.emailforward.mx
 gamefowl.karlsutt.com
 gamefowl.nonprofit.foundation
@@ -5359,6 +5367,7 @@ go.static-srv.com
 go.tbllem.com
 go.tbllprem.com
 go.tbllzon.com
+go.trafficbull.com
 go.vidspass.com
 go.waveblossom.com
 go.xyouxxx.com
@@ -5394,13 +5403,15 @@ go1.trakit21.com
 go1.trakit22.com
 go1.trakit23.com
 go1.trakit24.com
+go1.trakit25.com
+go1.trakit27.com
+go1.trakit29.com
 go1.trakit3.com
 go1.trakit5.com
 go1.were.work
 go1.yare.work
 go2.toplineads.com
 go2.trafficbull.com
-goallbest.com
 goat.aicontentdojo.com
 goat.kunalslab.com
 goat.lymedocs.com
@@ -5421,7 +5432,6 @@ gorilla.physio-soft.com
 goto.riseofthetide.xyz
 gpt.throatbulge.com
 gpt.tubetruck.com
-graveljav128.fun
 great.xxxbanglavideo.com
 greenlight-val.looksmart.com
 grouse.i21.co
@@ -5612,6 +5622,7 @@ indonesia.notifysrv.com
 informatm-static.reviveservers.com
 informed.belocalnwa.com
 infospace-val.looksmart.com
+infraxurechan.com
 injolteona.com
 insertjav182.fun
 insight.beta.bloblohub.com
@@ -5671,6 +5682,7 @@ js.cabnnr.com
 js.canstrm.com
 js.capndr.com
 js.cmoa.pro
+js.dongojyousan.com
 js.dshaf.com
 js.eroticmv.com
 js.gerpush.com
@@ -5751,7 +5763,6 @@ krill.far.site
 krill.spoonrage.com
 krill.swiss-uke.ch
 ks42zt.spec.fm
-ktktkt.ktlasik.space
 kuti8iar.xyz
 kwi18ah9r60yjb70.notify6.com
 kx4.firstsexfilm.com
@@ -6020,7 +6031,6 @@ leopard.understandit.se
 leopon.jmk.wtf
 leopon.luckycasts.com
 leopon.originalmineral.com
-leopon.thingsin.space
 level.18huhu.com
 lewd.ws
 lianzl.xyz
@@ -6059,6 +6069,7 @@ live.quixova.com
 live.qwirlz.com
 live.sportsvot.com
 live.trmzum.com
+live.trudigo.com
 live.vot.media
 live.xcamshd.live
 live.zrmtrm.com
@@ -6233,6 +6244,7 @@ lynx.pascivite.com
 lynx.sbstjn.com
 lynx.simpleparish.com
 m.bloblohub.com
+m.hue11.com
 m.hue2b.com
 m.optidigital.com
 m.x-power.info
@@ -6255,6 +6267,7 @@ main0.exosrv.com
 makumva.all-usanomination.com
 mamamia.vintageporno.stream
 mamruoa.club
+mamsauphoachoap.com
 management-boost.exads.com
 management-itsup.exads.com
 management-slice.exads.com
@@ -6428,6 +6441,7 @@ nudapp.com
 nx7.hdxxxclips.com
 nyfa-images.reviveservers.com
 o.hotsextube.tv
+o.octoberads.space
 o313o.com
 o911o.com
 ocean.gigatron.rs
@@ -6505,6 +6519,7 @@ p.febads.shop
 p.janads.shop
 p.netork.ru
 p.octoads.shop
+p.octoberads.space
 p.upskirt.tv
 p016eshru.kaybe.co.uk
 pa5xjc.m1guelpf.me
@@ -6785,7 +6800,6 @@ report.beta.bloblohub.com
 reporting.notify6.com
 reptile.o-lit.fr
 reptile.sat.trading
-reptile.wyattblogs.com
 reryn3ce.com
 res.lintlink.com
 resort1266.fun
@@ -6837,6 +6851,7 @@ rtb-apac-v4.adpluto.com
 rtb-apac-v4.adscholars.com
 rtb-apac-v4.adsfloow.net
 rtb-apac-v4.adsudo.com
+rtb-apac-v4.adxpoint-ad.com
 rtb-apac-v4.affinity.net
 rtb-apac-v4.afkwa.com
 rtb-apac-v4.agilitydigitalmedia.com
@@ -6852,6 +6867,7 @@ rtb-apac-v4.freevpnplanet.com
 rtb-apac-v4.globlemath.com
 rtb-apac-v4.jambojar.com
 rtb-apac-v4.kigoras.com
+rtb-apac-v4.kunvertads.com
 rtb-apac-v4.oppa.media
 rtb-apac-v4.pixelpluses.com
 rtb-apac-v4.prertbdir.com
@@ -6950,6 +6966,7 @@ rtb-eu-v4.infinity-info.com
 rtb-eu-v4.jambojar.com
 rtb-eu-v4.kigoras.com
 rtb-eu-v4.kunvertads.com
+rtb-eu-v4.myrax.co
 rtb-eu-v4.oppa.media
 rtb-eu-v4.pixelpluses.com
 rtb-eu-v4.prertbdir.com
@@ -7007,6 +7024,7 @@ rtb-eu.bidmyqps.xyz
 rtb-eu.blueparrot.media
 rtb-eu.boffoadsapi.com
 rtb-eu.brightmountainads.com
+rtb-eu.chocolateplatform.com
 rtb-eu.clickmi.net
 rtb-eu.convergeselect.net
 rtb-eu.cpmme.com
@@ -7034,6 +7052,7 @@ rtb-eu.mobipromote.com
 rtb-eu.mobuppsrtb.com
 rtb-eu.motionspots.com
 rtb-eu.musiciansaudience.com
+rtb-eu.myrax.co
 rtb-eu.nativeads.com
 rtb-eu.openrtb.in
 rtb-eu.pixelpluses.com
@@ -7043,6 +7062,7 @@ rtb-eu.pubsfusion.com
 rtb-eu.pureadsltd.com
 rtb-eu.push-sense.com
 rtb-eu.pushub.net
+rtb-eu.qortex.ai
 rtb-eu.rankortbdirect.com
 rtb-eu.relevanceads.com
 rtb-eu.revlift.io
@@ -7077,13 +7097,16 @@ rtb-eu.xrtb.io
 rtb-eu.zaimads.com
 rtb-useast-bid.infinity-info.com
 rtb-useast-v4.152media.cloud
+rtb-useast-v4.3mads.com
 rtb-useast-v4.admnrtb.com
 rtb-useast-v4.admozartexchange.com
 rtb-useast-v4.adportonic.com
 rtb-useast-v4.adscholars.com
 rtb-useast-v4.adsfloow.net
 rtb-useast-v4.adsudo.com
+rtb-useast-v4.adtapmedia.com
 rtb-useast-v4.adx.pokkt.com
+rtb-useast-v4.adxpoint-ms.com
 rtb-useast-v4.affinity.net
 rtb-useast-v4.afkwa.com
 rtb-useast-v4.agilitydigitalmedia.com
@@ -7092,7 +7115,6 @@ rtb-useast-v4.appi-fy.ai
 rtb-useast-v4.applixir.com
 rtb-useast-v4.appmonsta.ai
 rtb-useast-v4.aserve1.net
-rtb-useast-v4.cerineas.com
 rtb-useast-v4.chocolateplatform.com
 rtb-useast-v4.clickmi.net
 rtb-useast-v4.coupontic.com
@@ -7266,11 +7288,13 @@ rtb-uswest-v4.aserve1.net
 rtb-uswest-v4.chocolateplatform.com
 rtb-uswest-v4.clickmi.net
 rtb-uswest-v4.didna.io
+rtb-uswest-v4.eximdigital.com
 rtb-uswest-v4.ezmob.com
 rtb-uswest-v4.freevpnplanet.com
 rtb-uswest-v4.globlemath.com
 rtb-uswest-v4.infinityexplorers.com
 rtb-uswest-v4.jambojar.com
+rtb-uswest-v4.kunvertads.com
 rtb-uswest-v4.pixelpluses.com
 rtb-uswest-v4.prertbdir.com
 rtb-uswest-v4.pubsfusion.com
@@ -7290,6 +7314,7 @@ rtb-uswest.152media.cloud
 rtb-uswest.152media.com
 rtb-uswest.ad-maven.com
 rtb-uswest.adbidglobal.com
+rtb-uswest.adbite.com
 rtb-uswest.adcannyads.com
 rtb-uswest.adflores.com
 rtb-uswest.adjux.com
@@ -7381,6 +7406,7 @@ rtb.rtbdemand.com
 rtb.traffic-gold.com
 rtb.trafficfactory.com
 rtb.vokut.com
+rtb.zingtraffic.com
 rtb2-apac.adpluto.com
 rtb2-apac.affinity.net
 rtb2-apac.afkwa.com
@@ -7470,11 +7496,14 @@ s.asvsm.com
 s.axioporn.online
 s.b2bstars.com
 s.b7q9v8z.com
+s.bigass.mom
 s.bigpornhd.mom
 s.bizonads-ssp.com
+s.bohmiper.com
 s.brilmaver.com
 s.bussyhunter.com
 s.cant3am.com
+s.chmsrv.com
 s.chnsrv.com
 s.chooljang.shop
 s.cm9srv.com
@@ -7531,6 +7560,8 @@ s.dskjl8.com
 s.dskwke.com
 s.dsldv6.com
 s.dslzv2.com
+s.dsnain.com
+s.dsntah.com
 s.dsonb4.com
 s.dsqcjk.com
 s.dss1bi.com
@@ -7606,8 +7637,10 @@ s.golhofer.com
 s.hdpornblue.lol
 s.hellporno.buzz
 s.hhyggy.com
+s.hkartg.com
 s.huispol.com
 s.huklop.com
+s.josshub.pro
 s.kafaseju.com
 s.krotoporn.online
 s.ku34bh9la09.com
@@ -7625,6 +7658,7 @@ s.nakedwoman.online
 s.native7.com
 s.nidersaw.com
 s.nowsrv.com
+s.octoberads.space
 s.opoxv.com
 s.opti-digital.com
 s.optidigital.com
@@ -7635,6 +7669,7 @@ s.oralblow.com
 s.orbsrv.com
 s.pemsrv.com
 s.playa.to
+s.porn-step.mom
 s.q88z1s3.com
 s.remavatube.pics
 s.remonti.org
@@ -7685,7 +7720,6 @@ sailfish.kentcdodds.com
 sailfish.lifelines-film.com
 sailfish.the-psychedelicatessen.com
 sailfish.youracademycommunity.com
-sailorjav128.fun
 sakcerl.ehrydnmdoe.com
 sal.easyfreesex.com
 salamander.augmentedmind.io
@@ -7918,6 +7952,7 @@ spyglass.reklon.net
 squid.adart.cc
 squid.antevo.com.au
 squirrel.laravel-mix.com
+srv.biigo.xyz
 srv01.notifysrv.com
 ss.mndsrv.com
 ss.mrmnd.com
@@ -7954,7 +7989,6 @@ static-rtb2.appmonsta.ai
 static-rtb2.appnerve.com
 static-rtb2.assemblyexchange.com
 static-rtb2.branchdsp.io
-static-rtb2.cerineas.com
 static-rtb2.clickout.app
 static-rtb2.convergeselect.net
 static-rtb2.datawrkz.com
@@ -8059,6 +8093,7 @@ static.clickmi.net
 static.clixcrafts.com
 static.clixvista.com
 static.consulcesi.it
+static.content-sync.xyz
 static.contentsrch.com
 static.convertap.com
 static.conxstream.com
@@ -8068,6 +8103,7 @@ static.cranberryads.com
 static.creativedot.net
 static.creativethingsdoneright.top
 static.critic.media
+static.ctrtraffic.com
 static.cue7ven.com
 static.danarimedia.com
 static.dandlooke-bid.com
@@ -8106,9 +8142,6 @@ static.foremedia.net
 static.frownedand-bid.com
 static.fstsrv10.com
 static.fstsrv11.com
-static.fstsrv18.com
-static.fstsrv19.com
-static.fstsrv21.com
 static.fstsrv9.com
 static.glcsrv.com
 static.globalsun.io
@@ -8136,6 +8169,7 @@ static.insideradverts.com
 static.intellectscoop.com
 static.intense-digital.com
 static.isn.nl
+static.itersatedtheo.org
 static.jambojar.com
 static.jotterads.com
 static.kellartv.com
@@ -8431,16 +8465,15 @@ syndication.link5c.com
 syndication.linkfryn.com
 syndication.linkwitt.com
 syndication.optimizesrv.com
-syndication.ouzads.com
 syndication.realsrv.com
 syndication.whibd.com
 syndication.whibp.com
 syndication0.exoclick.com
-synz.liveonce.online
 t.clearmaptrck.store
 t.dynatrck.site
 t.fasttrck.tech
 t.flashtrck.tech
+t.fluxtrck.site
 t.instrck.com
 t.javhd-trk.com
 t.jetrck.com
@@ -8449,9 +8482,11 @@ t.loantrck.com
 t.maxtrck.shop
 t.nextrck.website
 t.optzsrv.com
+t.peaktrck.uno
 t.quicktrck.space
 t.securetrck.uno
 t.snaptrck.uno
+t.snaptrckr.fun
 t.sptrck.com
 t.trackpulse.uno
 t.trcktr.com
@@ -8482,7 +8517,6 @@ teiaoz.xyz
 tele.notifysrv.com
 ten.ijhyugb.com
 ten.notifysrv.com
-tenderjav128.fun
 tensuao.club
 termite.queerburners.org
 tern.daffy.org
@@ -8649,7 +8683,6 @@ tuna.ajaymantri.com
 tuna.purplespider.com
 turkey.tella.tv
 turkey1266.fun
-turtle.geshem.space
 turtle.mushtache.com
 turtle.mydataroom.io
 turtle.olivier.cx
@@ -8844,6 +8877,7 @@ win-rtb2-uswest.webtradingspot.com
 win4.notifysrv.com
 winter05032026.shop
 wn4wztsx.xyz
+wn6x136h.xyz
 wolf.novel.io
 wolf.samarasousa.com
 wolverine.barac.at
@@ -8866,16 +8900,13 @@ www.02952346.xyz
 www.05420795.xyz
 www.06969451.xyz
 www.07327127.xyz
-www.07421283.xyz
 www.07443488.xyz
 www.08256602.xyz
 www.08585359.xyz
-www.09064654.xyz
 www.09284291.xyz
 www.0ul1wlo58s-vu69us-r1u.xyz
 www.10.notify.bizonads-ssp.com
 www.10288299.xyz
-www.10614305.xyz
 www.11006451.xyz
 www.11778562.xyz
 www.12.notify.bizonads-ssp.com
@@ -8890,7 +8921,6 @@ www.17022993.xyz
 www.17088440.xyz
 www.17199874.xyz
 www.19009143.xyz
-www.19199675.xyz
 www.19700902.xyz
 www.1astrjasr.ru
 www.20382207.xyz
@@ -8899,13 +8929,11 @@ www.20min.fr
 www.21148843.xyz
 www.22117898.xyz
 www.22157064.xyz
-www.23907453.xyz
 www.25381553.xyz
 www.27714296.xyz
 www.28860928.xyz
 www.29662166.xyz
 www.2wu0m0ms098w7148.xyz
-www.30212692.xyz
 www.3166293.notifysrv.com
 www.3174430.notifysrv.com
 www.3177866.notifysrv.com
@@ -8918,7 +8946,6 @@ www.3227697.notify6.com
 www.3231172.notify6.com
 www.3234742.notifysrv.com
 www.3243082.notifysrv.com
-www.32472254.xyz
 www.3250420.notify6.com
 www.3254306.notifysrv.com
 www.3270262.notifysrv.com
@@ -9051,7 +9078,6 @@ www.79893962.xyz
 www.8.notify.bizonads-ssp.com
 www.80133082.xyz
 www.80582834.xyz
-www.82053148.xyz
 www.84055600.xyz
 www.84302764.xyz
 www.85132058.xyz
@@ -9067,7 +9093,6 @@ www.94782806.xyz
 www.95534134.xyz
 www.95597529.xyz
 www.96679950.xyz
-www.98853171.xyz
 www.9m-mlvrsosov-qmrl4.xyz
 www.adconsole.proxibid.com
 www.adimages.infotorg.se
@@ -9147,14 +9172,17 @@ www.fasder12.ru
 www.fasder12.store
 www.feedback.notifysrv.com
 www.foldyahoolestorderly.com
+www.foolhardywear.pro
 www.forrepresentzen.com
 www.forwank.com
+www.fumblingvacation.pro
 www.gahroundwhat.com
 www.garroteoutlying.com
 www.geoadserver.com
 www.go-srv.com
 www.go-static.info
 www.go.showmeyouradsnow.com
+www.goaserv.com
 www.gorrio.ru
 www.greedilyperky.com
 www.gutphewlittleoddly.com
@@ -9169,6 +9197,8 @@ www.ilviaggionellatesta.hubhubhub.name
 www.images.fnch.ch
 www.images.hour-media.com
 www.images.informatm.com
+www.insteadectoderm.com
+www.insteadphooey.com
 www.ithaca.hubhubhub.name
 www.javtvnow.xyz
 www.kindhearted-building.pro
@@ -9177,6 +9207,7 @@ www.lalala.geenstijl.nl
 www.lazyfuture.pro
 www.letstry69.xyz
 www.looksmartppc.com
+www.lovingforever.pro
 www.m-0-05o17m54w169vk44nk.xyz
 www.meanwhilenoonslap.com
 www.meanwhiletoo.com
@@ -9250,6 +9281,7 @@ www.servedby.sacommunications.com
 www.servedby.schrotundkorn.de
 www.servedby.trackandfieldnews.com
 www.setimodia.hubhubhub.name
+www.shinnyhelpfast.com
 www.sinful-bad.pro
 www.siterec.site
 www.skylinepasttomorrow.com
@@ -9371,7 +9403,6 @@ xml-eu-v4.bomdukop-2.online
 xml-eu-v4.bomdukop-3.online
 xml-eu-v4.bringthewaves.xyz
 xml-eu-v4.cachegorilla.com
-xml-eu-v4.cerineas.com
 xml-eu-v4.clickmeniaads.com
 xml-eu-v4.clickmi.net
 xml-eu-v4.clixcrafts.com
@@ -9385,6 +9416,7 @@ xml-eu-v4.dkswshap-1.online
 xml-eu-v4.dkswshap-2.online
 xml-eu-v4.dkswshap-3.online
 xml-eu-v4.dollopsdigital.com
+xml-eu-v4.domclkitize.com
 xml-eu-v4.edgexml.com
 xml-eu-v4.eopuzol1.online
 xml-eu-v4.epikads.com
@@ -9400,9 +9432,6 @@ xml-eu-v4.foseller-c.online
 xml-eu-v4.foseller-d.online
 xml-eu-v4.frequency33media.com
 xml-eu-v4.fstsrv11.com
-xml-eu-v4.fstsrv19.com
-xml-eu-v4.fstsrv20.com
-xml-eu-v4.fstsrv21.com
 xml-eu-v4.fstsrv9.com
 xml-eu-v4.goclickz.net
 xml-eu-v4.h12ads.net
@@ -9495,6 +9524,7 @@ xml-eu-v4.xmlorbit.com
 xml-eu-v4.xmlppc.net
 xml-eu-v4.xmlwolf.com
 xml-eu-v4.zentrixads.com
+xml-eu-v4.zenvuedigital.com
 xml-eu-v4.zeusadx.com
 xml-eu.acertb.com
 xml-eu.adcannyxml.com
@@ -9554,7 +9584,6 @@ xml-eu.fmlabsonline.com
 xml-eu.foremedia.net
 xml-eu.foseller-d.online
 xml-eu.fstsrv11.com
-xml-eu.fstsrv20.com
 xml-eu.h12ads.net
 xml-eu.hawkads.in
 xml-eu.hueadsxml.com
@@ -9568,6 +9597,7 @@ xml-eu.mobuppsrtb.com
 xml-eu.newbluetrue.xyz
 xml-eu.optumads.com
 xml-eu.outpush.net
+xml-eu.pops.gg
 xml-eu.pushub.net
 xml-eu.pwr-ads.com
 xml-eu.qksrv.cc
@@ -9656,7 +9686,6 @@ xml-v4.bomdukop-2.online
 xml-v4.bomdukop-3.online
 xml-v4.boostadtraffic.com
 xml-v4.cachegorilla.com
-xml-v4.cerineas.com
 xml-v4.clickmeniaads.com
 xml-v4.clickmi.net
 xml-v4.clixcrafts.com
@@ -9690,10 +9719,8 @@ xml-v4.fmlabsonline.com
 xml-v4.foseller-a.online
 xml-v4.foseller-c.online
 xml-v4.foseller-d.online
+xml-v4.frequency33media.com
 xml-v4.fstsrv11.com
-xml-v4.fstsrv19.com
-xml-v4.fstsrv20.com
-xml-v4.fstsrv21.com
 xml-v4.fstsrv9.com
 xml-v4.glcsrv.com
 xml-v4.goclickz.net
@@ -9861,6 +9888,7 @@ xml.afront.io
 xml.agilitydigitalmedia.com
 xml.aimkweb.com
 xml.ak-tracker.com
+xml.amazeadx.com
 xml.appmonsta.ai
 xml.asnomoneyand.org
 xml.audiencedevelopers.com
@@ -9948,10 +9976,6 @@ xml.foseller-d.online
 xml.frequency33media.com
 xml.fstsrv10.com
 xml.fstsrv11.com
-xml.fstsrv18.com
-xml.fstsrv19.com
-xml.fstsrv20.com
-xml.fstsrv21.com
 xml.fstsrv9.com
 xml.getruncathoomes.com
 xml.glcsrv.com
@@ -9962,6 +9986,7 @@ xml.hefeltlonelya.org
 xml.hehasnoconv.org
 xml.hetcash.com
 xml.hewasinlo-bid.com
+xml.hewaterwith.com
 xml.hiswashiscourts.com
 xml.hoomeeyesmanbest.org
 xml.hotmaracas.com
@@ -9976,6 +10001,7 @@ xml.infinity-info.com
 xml.insightadz.com
 xml.intellectscoop.com
 xml.ionsandinde.org
+xml.itersatedtheo.org
 xml.jambojar.com
 xml.junplatdirect.com
 xml.kilo-bid.com
@@ -10163,6 +10189,7 @@ xml.xmlwolf.com
 xml.xyconversation.org
 xml.yeesshh.com
 xml.yhisladyloveheh.org
+xml.yieldradius.io
 xml.yodirecxl.com
 xml.yojnxl.com
 xml.yolkdirxl.com
@@ -10191,6 +10218,7 @@ xovzgcoovh.club
 xpe3qcqz.xyz
 xs213.javgg.club
 xtraa-secure.reviveservers.com
+xv.mshopstaging.site
 xxx.extrablocks.ru
 xxx.sdtraff.com
 xxxlove.rooski.net
@@ -10211,6 +10239,7 @@ ytlsppuzpf.club
 yudvl.org
 yummycdn.com
 yut4is9b.xyz
+yyi.altyazilimxx1.shop
 yzwtg89j.xyz
 yzwtz.com
 z.allopurinoll.shop

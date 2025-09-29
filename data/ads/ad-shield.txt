@@ -73,6 +73,8 @@
 ||0.www.gutphewlittleoddly.com^
 ||0.www.hairyalligatorviolently.com^
 ||0.www.huzzahwhatintently.com^
+||0.www.insteadectoderm.com^
+||0.www.insteadphooey.com^
 ||0.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||0.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||0.www.meanwhilenoonslap.com^
@@ -93,6 +95,7 @@
 ||0.www.rogerouch.com^
 ||0.www.rundowndeep.com^
 ||0.www.secretvelvety.com^
+||0.www.shinnyhelpfast.com^
 ||0.www.slapswingthrough.com^
 ||0.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||0.www.sneakyangrilypromptlyupon.com^
@@ -184,6 +187,8 @@
 ||1.www.gutphewlittleoddly.com^
 ||1.www.hairyalligatorviolently.com^
 ||1.www.huzzahwhatintently.com^
+||1.www.insteadectoderm.com^
+||1.www.insteadphooey.com^
 ||1.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||1.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||1.www.meanwhilenoonslap.com^
@@ -205,6 +210,7 @@
 ||1.www.rogerouch.com^
 ||1.www.rundowndeep.com^
 ||1.www.secretvelvety.com^
+||1.www.shinnyhelpfast.com^
 ||1.www.slapswingthrough.com^
 ||1.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||1.www.sneakyangrilypromptlyupon.com^
@@ -299,6 +305,8 @@
 ||2.www.gutphewlittleoddly.com^
 ||2.www.hairyalligatorviolently.com^
 ||2.www.huzzahwhatintently.com^
+||2.www.insteadectoderm.com^
+||2.www.insteadphooey.com^
 ||2.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||2.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||2.www.meanwhilenoonslap.com^
@@ -319,6 +327,7 @@
 ||2.www.rogerouch.com^
 ||2.www.rundowndeep.com^
 ||2.www.secretvelvety.com^
+||2.www.shinnyhelpfast.com^
 ||2.www.slapswingthrough.com^
 ||2.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||2.www.sneakyangrilypromptlyupon.com^
@@ -409,6 +418,8 @@
 ||3.www.gutphewlittleoddly.com^
 ||3.www.hairyalligatorviolently.com^
 ||3.www.huzzahwhatintently.com^
+||3.www.insteadectoderm.com^
+||3.www.insteadphooey.com^
 ||3.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||3.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||3.www.meanwhilenoonslap.com^
@@ -429,6 +440,7 @@
 ||3.www.rogerouch.com^
 ||3.www.rundowndeep.com^
 ||3.www.secretvelvety.com^
+||3.www.shinnyhelpfast.com^
 ||3.www.slapswingthrough.com^
 ||3.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||3.www.sneakyangrilypromptlyupon.com^
@@ -521,6 +533,8 @@
 ||4.www.gutphewlittleoddly.com^
 ||4.www.hairyalligatorviolently.com^
 ||4.www.huzzahwhatintently.com^
+||4.www.insteadectoderm.com^
+||4.www.insteadphooey.com^
 ||4.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||4.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||4.www.m-0-05o17m54w169vk44nk.xyz^
@@ -542,6 +556,7 @@
 ||4.www.rogerouch.com^
 ||4.www.rundowndeep.com^
 ||4.www.secretvelvety.com^
+||4.www.shinnyhelpfast.com^
 ||4.www.slapswingthrough.com^
 ||4.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||4.www.sneakyangrilypromptlyupon.com^
@@ -633,6 +648,8 @@
 ||5.www.gutphewlittleoddly.com^
 ||5.www.hairyalligatorviolently.com^
 ||5.www.huzzahwhatintently.com^
+||5.www.insteadectoderm.com^
+||5.www.insteadphooey.com^
 ||5.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||5.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||5.www.meanwhilenoonslap.com^
@@ -653,6 +670,7 @@
 ||5.www.rogerouch.com^
 ||5.www.rundowndeep.com^
 ||5.www.secretvelvety.com^
+||5.www.shinnyhelpfast.com^
 ||5.www.slapswingthrough.com^
 ||5.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||5.www.sneakyangrilypromptlyupon.com^
@@ -744,6 +762,8 @@
 ||6.www.gutphewlittleoddly.com^
 ||6.www.hairyalligatorviolently.com^
 ||6.www.huzzahwhatintently.com^
+||6.www.insteadectoderm.com^
+||6.www.insteadphooey.com^
 ||6.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||6.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||6.www.meanwhilenoonslap.com^
@@ -764,6 +784,7 @@
 ||6.www.rogerouch.com^
 ||6.www.rundowndeep.com^
 ||6.www.secretvelvety.com^
+||6.www.shinnyhelpfast.com^
 ||6.www.slapswingthrough.com^
 ||6.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||6.www.sneakyangrilypromptlyupon.com^
@@ -854,6 +875,8 @@
 ||7.www.gutphewlittleoddly.com^
 ||7.www.hairyalligatorviolently.com^
 ||7.www.huzzahwhatintently.com^
+||7.www.insteadectoderm.com^
+||7.www.insteadphooey.com^
 ||7.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||7.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||7.www.meanwhilenoonslap.com^
@@ -874,6 +897,7 @@
 ||7.www.rogerouch.com^
 ||7.www.rundowndeep.com^
 ||7.www.secretvelvety.com^
+||7.www.shinnyhelpfast.com^
 ||7.www.slapswingthrough.com^
 ||7.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||7.www.sneakyangrilypromptlyupon.com^
@@ -964,6 +988,8 @@
 ||8.www.gutphewlittleoddly.com^
 ||8.www.hairyalligatorviolently.com^
 ||8.www.huzzahwhatintently.com^
+||8.www.insteadectoderm.com^
+||8.www.insteadphooey.com^
 ||8.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||8.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||8.www.m-0-05o17m54w169vk44nk.xyz^
@@ -985,6 +1011,7 @@
 ||8.www.rogerouch.com^
 ||8.www.rundowndeep.com^
 ||8.www.secretvelvety.com^
+||8.www.shinnyhelpfast.com^
 ||8.www.slapswingthrough.com^
 ||8.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||8.www.sneakyangrilypromptlyupon.com^
@@ -1074,6 +1101,8 @@
 ||9.www.gutphewlittleoddly.com^
 ||9.www.hairyalligatorviolently.com^
 ||9.www.huzzahwhatintently.com^
+||9.www.insteadectoderm.com^
+||9.www.insteadphooey.com^
 ||9.www.ko9t6qv2kt8psullo7pputs.xyz^
 ||9.www.kq6mv8mpvs4m10r449nms6.xyz^
 ||9.www.meanwhilenoonslap.com^
@@ -1094,6 +1123,7 @@
 ||9.www.rogerouch.com^
 ||9.www.rundowndeep.com^
 ||9.www.secretvelvety.com^
+||9.www.shinnyhelpfast.com^
 ||9.www.slapswingthrough.com^
 ||9.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||9.www.sneakyangrilypromptlyupon.com^
@@ -1116,15 +1146,12 @@
 ||www.05420795.xyz^
 ||www.06969451.xyz^
 ||www.07327127.xyz^
-||www.07421283.xyz^
 ||www.07443488.xyz^
 ||www.08256602.xyz^
 ||www.08585359.xyz^
-||www.09064654.xyz^
 ||www.09284291.xyz^
 ||www.0ul1wlo58s-vu69us-r1u.xyz^
 ||www.10288299.xyz^
-||www.10614305.xyz^
 ||www.11006451.xyz^
 ||www.11778562.xyz^
 ||www.13518450.xyz^
@@ -1138,22 +1165,18 @@
 ||www.17088440.xyz^
 ||www.17199874.xyz^
 ||www.19009143.xyz^
-||www.19199675.xyz^
 ||www.19700902.xyz^
 ||www.20382207.xyz^
 ||www.20690754.xyz^
 ||www.21148843.xyz^
 ||www.22117898.xyz^
 ||www.22157064.xyz^
-||www.23907453.xyz^
 ||www.25381553.xyz^
 ||www.27714296.xyz^
 ||www.28860928.xyz^
 ||www.29662166.xyz^
 ||www.2wu0m0ms098w7148.xyz^
-||www.30212692.xyz^
 ||www.31945016.xyz^
-||www.32472254.xyz^
 ||www.33109166.xyz^
 ||www.34475780.xyz^
 ||www.35452888.xyz^
@@ -1219,7 +1242,6 @@
 ||www.79893962.xyz^
 ||www.80133082.xyz^
 ||www.80582834.xyz^
-||www.82053148.xyz^
 ||www.84055600.xyz^
 ||www.84302764.xyz^
 ||www.85132058.xyz^
@@ -1235,7 +1257,6 @@
 ||www.95534134.xyz^
 ||www.95597529.xyz^
 ||www.96679950.xyz^
-||www.98853171.xyz^
 ||www.9m-mlvrsosov-qmrl4.xyz^
 ||www.admonishdecisiveyetnow.com^
 ||www.aroundveinfixed.com^
@@ -1253,6 +1274,8 @@
 ||www.gutphewlittleoddly.com^
 ||www.hairyalligatorviolently.com^
 ||www.huzzahwhatintently.com^
+||www.insteadectoderm.com^
+||www.insteadphooey.com^
 ||www.kq6mv8mpvs4m10r449nms6.xyz^
 ||www.m-0-05o17m54w169vk44nk.xyz^
 ||www.meanwhilenoonslap.com^
@@ -1274,6 +1297,7 @@
 ||www.rogerouch.com^
 ||www.rundowndeep.com^
 ||www.secretvelvety.com^
+||www.shinnyhelpfast.com^
 ||www.skylinepasttomorrow.com^
 ||www.slapswingthrough.com^
 ||www.sn2rrlv57qpss5w-qk8llu.xyz^

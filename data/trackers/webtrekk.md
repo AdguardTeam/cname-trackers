@@ -49,7 +49,6 @@
     * 151836596491843.wt-eu02.net
     * 158325876760515.wt-eu02.net
     * 175750679116864.wt-eu02.net
-    * 176652923057792.wt-eu02.net
     * 180629549208289.wt-eu02.net
     * 184874202187158.wt-eu02.net
     * 186015257614542.wt-eu02.net
@@ -107,6 +106,7 @@
     * 461208225315439.wt-eu02.net
     * 467284992404886.wt-eu02.net
     * 470719744966924.wt-eu02.net
+    * 472164549827987.wt-eu02.net
     * 475966354471123.wt-eu02.net
     * 481394388917209.wt-eu02.net
     * 482221458407393.wt-eu02.net
@@ -175,7 +175,6 @@
     * 819363623263983.wt-eu02.net
     * 820632509849778.wt-eu02.net
     * 823532764568303.wt-eu02.net
-    * 832292761796928.wt-eu02.net
     * 835623675026119.wt-eu02.net
     * 841439655073636.wt-eu02.net
     * 842359050480299.wt-eu02.net
@@ -285,7 +284,6 @@
 | web.sensilab.sk | 151836596491843.wt-eu02.net |
 | web.email.umbro.co.uk | 158325876760515.wt-eu02.net |
 | web.news.gnv.it | 175750679116864.wt-eu02.net |
-| trk.krebsversicherung.de | 176652923057792.wt-eu02.net |
 | web.solesource.com | 180629549208289.wt-eu02.net |
 | web.mapp.docpeter.it | 184874202187158.wt-eu02.net |
 | web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
@@ -369,6 +367,7 @@
 | webt.eu.teac-audio.com | 470719744966924.wt-eu02.net |
 | webt.pure-audio.com | 470719744966924.wt-eu02.net |
 | webt.store.okmilo.com | 470719744966924.wt-eu02.net |
+| data.babista.ch | 472164549827987.wt-eu02.net |
 | startrekk.flaconi.ch | 475966354471123.wt-eu02.net |
 | web.crm.beps.it | 481394388917209.wt-eu02.net |
 | web.crm.speedup.it | 481394388917209.wt-eu02.net |
@@ -464,7 +463,6 @@
 | intel.web.noleggiare.it | 820632509849778.wt-eu02.net |
 | mit.dws.com | 823532764568303.wt-eu02.net |
 | mit.dws.de | 823532764568303.wt-eu02.net |
-| web.info.vantastic-foods.com | 832292761796928.wt-eu02.net |
 | web.info.bodybuildingwarehouse.co.uk | 835623675026119.wt-eu02.net |
 | web.info.bodybuildingwarehouse.com | 835623675026119.wt-eu02.net |
 | web.news.paganistore.com | 841439655073636.wt-eu02.net |
@@ -567,14 +565,7 @@
 | data.goertz.de | goertz-01.wt-eu02.net |
 | hbbtv-track.prosieben.de | hbbtv-track.wt-eu02.net |
 | prophet.heise.de | heise02.webtrekk.net |
-| da.hornbach.at | hornbach-02.wt-eu02.net |
 | da.hornbach.be | hornbach-02.wt-eu02.net |
-| da.hornbach.cz | hornbach-02.wt-eu02.net |
-| da.hornbach.de | hornbach-02.wt-eu02.net |
-| da.hornbach.nl | hornbach-02.wt-eu02.net |
-| da.hornbach.ro | hornbach-02.wt-eu02.net |
-| da.hornbach.se | hornbach-02.wt-eu02.net |
-| da.hornbach.sk | hornbach-02.wt-eu02.net |
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
 | img.foodspring.at | img-foodspring01.wt-eu02.net |
 | img.foodspring.be | img-foodspring01.wt-eu02.net |

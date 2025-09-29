@@ -306,6 +306,7 @@
 ||utiq.news.bayern^
 ||utiq.news38.de^
 ||utiq.newshub.co.uk^
+||utiq.newz.com^
 ||utiq.nextplz.fr^
 ||utiq.nicematin.com^
 ||utiq.nicematin.net^

@@ -173,6 +173,7 @@
 | tk.verisure.fr | tk-verisure-fr.wizaly.com |
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |
 | tk.zenpark.com | tk-zenpark-com.wizaly.com |
+| tk.boutique.caminteresse.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.capital.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.cotemaison.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.cuisineactuelle.fr | tk_prismashop_fr.wizaly.com |

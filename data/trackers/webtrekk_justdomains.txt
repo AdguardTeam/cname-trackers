@@ -53,17 +53,11 @@ ctd.montagna.tv
 ctd.quattroruote.it
 ctdfm.ilgiornale.it
 ctrkd.ilsole24ore.com
-da.hornbach.at
 da.hornbach.be
-da.hornbach.cz
-da.hornbach.de
-da.hornbach.nl
-da.hornbach.ro
-da.hornbach.se
-da.hornbach.sk
 data.adlermode.com
 data.all-in.de
 data.allgaeuer-zeitung.de
+data.babista.ch
 data.babista.de
 data.babista.nl
 data.campaign.prenatal.com
@@ -217,7 +211,6 @@ tr.computeruniverse.net
 tr.suedkurier.de
 trail-001.schleich-s.com
 trk.blume2000.de
-trk.krebsversicherung.de
 w.ilfattoquotidiano.it
 w3.aktionaersbank.de
 w7.berlin.de
@@ -295,7 +288,6 @@ web.info.bonprix.es
 web.info.bonprix.fi
 web.info.paginegialle.it
 web.info.teamwarrior.com
-web.info.vantastic-foods.com
 web.info.varelotteriet.dk
 web.info.xerjoff.com
 web.info.yeppon.it

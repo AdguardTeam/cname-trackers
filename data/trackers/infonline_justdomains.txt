@@ -155,6 +155,7 @@ data-13d258638d.blick.de
 data-13d258638d.erzgebirge.de
 data-13d258638d.freiepresse-auktion.de
 data-13d258638d.freiepresse.de
+data-13d258638d.vogtland-anzeiger.de
 data-13e75de547.labo.de
 data-143ac31e30.brocken.de
 data-143ac31e30.radio-brocken.com
@@ -660,6 +661,7 @@ data-49aef6b58e.shapeup-business.de
 data-49bb023f99.finanznachrichten.de
 data-49dc40e643.onvista.de
 data-4a575dad18.hamburgerjobs.de
+data-4a5f71b500.highlight-web.de
 data-4aed862c71.apps.iocnt.de
 data-4b48d22435.kommune21.de
 data-4be83b69ca.kka-online.info
@@ -1375,6 +1377,7 @@ data-a0f0ae1310.gelbeseiten-schluesseldienst.de
 data-a0f0ae1310.gelbeseiten.de
 data-a0f0ae1310.goyellow.de
 data-a0f0ae1310.t-online.de
+data-a0f0ae1310.teleauskunft.de
 data-a114e51991.ikz.de
 data-a119898f35.kaufda.de
 data-a1937ab7ea.materialfluss.de

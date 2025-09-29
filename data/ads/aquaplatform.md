@@ -182,7 +182,6 @@
 | console.blulab.net | blulab-console.aquaplatform.com |
 | adv.blulab.net | blulab-delivery.aquaplatform.com |
 | static.blulab.net | blulab-static.aquaplatform.com |
-| coreads-console.cambridge.org | cambridge-console.aquaplatform.com |
 | www.coreads-console.cambridge.org | cambridge-console.aquaplatform.com |
 | coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
 | www.coreads.cambridge.org | cambridge-delivery.aquaplatform.com |

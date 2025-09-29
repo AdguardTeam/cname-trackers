@@ -2,7 +2,6 @@
 ! Company name: GoatCounter
 ||a.50-nuances-octets.fr^
 ||anal.sataniskwijt.be^
-||analy.rusz.space^
 ||analytics.applycreatures.com^
 ||analytics.astuto.io^
 ||analytics.brandsistency.com^
@@ -86,7 +85,6 @@
 ||stats.beyondthesprawl.com^
 ||stats.bilderbrief.de^
 ||stats.boredkevin.com^
-||stats.boringproxy.io^
 ||stats.brandontoner.ca^
 ||stats.brendanhanke.com^
 ||stats.cassie.omg.lol^

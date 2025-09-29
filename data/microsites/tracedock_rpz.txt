@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1758528009445        ; Serial
+           1759132809385        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,7 +11,6 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-0aiaxudghkwpt0te.agent.ap1.datadoghq.com CNAME .
 agent.ap1.devel1ess.oohmediaomseooohmedialient.ap1.devel1ess-core.status-oohmediaomseooohmediaessseops.ap1.devel1ess.devel1ess-enoohmediarypted.devel1ess.oohmediaomseooohmediaessseops.devel1ess.onfluence-lab.agent.ap1.datadoghq.com CNAME .
 drive-agent.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediaessprofiles.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediaessprofiles.datadoghq.comproduction.agent.ap1.datadoghq.com CNAME .
 0.ads.tremorhub.com CNAME .
@@ -218,7 +217,6 @@ dxqwgwqbaz6crja-c.adkplan.fr CNAME .
 dxshvptnqwpa453-c.adktrack39.xyz CNAME .
 dymsqg46waxy5pl-c.adkoffer.fr CNAME .
 dzuyqkkirtadjpf-c.adkplan.fr CNAME .
-e1hvdvr6gxo3s50-p.adktrack61.xyz CNAME .
 e9gjs6fzixjbyqw-p.linkomo.fr CNAME .
 e9tveiuzdtdcg10-p.linkomo.fr CNAME .
 eaxtxfyjpqd1esy-p.adktrack44.xyz CNAME .
@@ -346,7 +344,6 @@ jprfocxofunqjpt-p.linkomo.fr CNAME .
 jpz2etvkhnzdcox-p.linkomo.fr CNAME .
 jqdl2ik4cglrf08-p.clead.xyz CNAME .
 jr1xvf3zzaegyag-p.kmotrack.xyz CNAME .
-jrpt7krunq4g5us-p.adktrack62.xyz CNAME .
 jsigepdyv4abfcs-p.adktrack30.xyz CNAME .
 junxy0gcijc3ah2-p.adktrack37.xyz CNAME .
 jviz5vo3j1tzcs6-p.clead.xyz CNAME .
@@ -408,7 +405,6 @@ mhoca7keyuo8brr-p.adkoffer.fr CNAME .
 mi8pd9gt1en3us2-c.recettedubonheur.fr CNAME .
 mjoqcdsvptsulwr-c.adktrack34.xyz CNAME .
 mkuzb4lgv0shphu-p.unenoteunjour.fr CNAME .
-mobuw7akjvv6dap-p.adktrack62.xyz CNAME .
 mqprmkdsw0eeaua-p.adktrack34.xyz CNAME .
 mrvbjrghse7ntux-c.missivequotidienne.fr CNAME .
 mtebj1agcp5whyi-p.tck020.xyz CNAME .
@@ -458,7 +454,6 @@ pec8invbfzzrucp-p.unenoteunjour.fr CNAME .
 pezoh8d4xr3vlkw-p.adktrack44.xyz CNAME .
 pf6tjxbzsl0mjhu-c.adkclicker.fr CNAME .
 pf6tjxbzsl0mjhu-p.adkclicker.fr CNAME .
-pfjs8laj0wemtr1-c.adktrack62.xyz CNAME .
 pgzkmo574nyjtsc-c.akming.xyz CNAME .
 piev8qqht6nsjlu-p.adkoffer.fr CNAME .
 pky2nwcf5aqibmy-c.adktrack40.xyz CNAME .
@@ -500,7 +495,6 @@ rcrk5tsyw8lqaah-c.bonnelectureatous.fr CNAME .
 resl5bcocxdke64-p.adkoffer.fr CNAME .
 rggoemcmd5w4s1w-p.adkoffer.fr CNAME .
 rikdnbzvj1tgyn0-p.recettedubonheur.fr CNAME .
-rj8xqzcbtmhpeve-c.adktrack56.xyz CNAME .
 rkv4xqqt29yuotg-p.adktrack35.xyz CNAME .
 rl1tkpe54k8qs7v-c.adktrack39.xyz CNAME .
 rmsvdo1t8vn4jbu-p.recettedubonheur.fr CNAME .
@@ -599,11 +593,8 @@ www.adktrack39.xyz CNAME .
 www.adktrack42.xyz CNAME .
 www.adktrack45.xyz CNAME .
 www.adktrack55.xyz CNAME .
-www.adktrack60.xyz CNAME .
-www.adktrack61.xyz CNAME .
 www.adktrack72.xyz CNAME .
 www.adktrack73.xyz CNAME .
-www.adktrack80.xyz CNAME .
 www.adktrack82.xyz CNAME .
 www.adktrack84.xyz CNAME .
 www.clickadk.fr CNAME .
@@ -663,6 +654,7 @@ zok5mruvufjw9h2-c.adkclicker.fr CNAME .
 zrtfin9ums63kpo-c.akming.xyz CNAME .
 ztioduyhocesv0t-c.tck020.xyz CNAME .
 zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
+0aiaxudghkwpt0te.agent.ap1.datadoghq.com CNAME .
 100000006.collect.igodigital.com CNAME .
 100000133.collect.igodigital.com CNAME .
 100000134.collect.igodigital.com CNAME .
@@ -697,7 +689,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100001978.collect.igodigital.com CNAME .
 100002000.collect.igodigital.com CNAME .
 100002008.collect.igodigital.com CNAME .
-100002010.collect.igodigital.com CNAME .
 100002017.collect.igodigital.com CNAME .
 100002025.collect.igodigital.com CNAME .
 100002035.collect.igodigital.com CNAME .
@@ -712,7 +703,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100002237.collect.igodigital.com CNAME .
 100002258.collect.igodigital.com CNAME .
 100002259.collect.igodigital.com CNAME .
-100002287.collect.igodigital.com CNAME .
 100002290.collect.igodigital.com CNAME .
 100002307.collect.igodigital.com CNAME .
 100002385.collect.igodigital.com CNAME .
@@ -736,7 +726,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100002715.collect.igodigital.com CNAME .
 100002718.collect.igodigital.com CNAME .
 100002748.collect.igodigital.com CNAME .
-100002752.collect.igodigital.com CNAME .
 100002776.collect.igodigital.com CNAME .
 100002787.collect.igodigital.com CNAME .
 100002788.collect.igodigital.com CNAME .
@@ -755,7 +744,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100003086.collect.igodigital.com CNAME .
 100003089.collect.igodigital.com CNAME .
 100003141.collect.igodigital.com CNAME .
-100003143.collect.igodigital.com CNAME .
 100003147.collect.igodigital.com CNAME .
 100003215.collect.igodigital.com CNAME .
 100003216.collect.igodigital.com CNAME .
@@ -773,7 +761,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100003435.collect.igodigital.com CNAME .
 100003461.collect.igodigital.com CNAME .
 100003465.collect.igodigital.com CNAME .
-100003500.collect.igodigital.com CNAME .
 100003504.collect.igodigital.com CNAME .
 100003628.collect.igodigital.com CNAME .
 100003685.collect.igodigital.com CNAME .
@@ -789,11 +776,9 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100004023.collect.igodigital.com CNAME .
 100004024.collect.igodigital.com CNAME .
 100004093.collect.igodigital.com CNAME .
-100004105.collect.igodigital.com CNAME .
 100004113.collect.igodigital.com CNAME .
 100004118.collect.igodigital.com CNAME .
 100004126.collect.igodigital.com CNAME .
-100004152.collect.igodigital.com CNAME .
 100004290.collect.igodigital.com CNAME .
 100004434.collect.igodigital.com CNAME .
 100004437.collect.igodigital.com CNAME .
@@ -813,18 +798,15 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100005485.collect.igodigital.com CNAME .
 100005530.collect.igodigital.com CNAME .
 100005550.collect.igodigital.com CNAME .
-100005596.collect.igodigital.com CNAME .
 100005670.collect.igodigital.com CNAME .
 100005671.collect.igodigital.com CNAME .
 100005783.collect.igodigital.com CNAME .
 100005813.collect.igodigital.com CNAME .
-100006010.collect.igodigital.com CNAME .
 100006044.collect.igodigital.com CNAME .
 100006070.collect.igodigital.com CNAME .
 100006089.collect.igodigital.com CNAME .
 100006100.collect.igodigital.com CNAME .
 100006101.collect.igodigital.com CNAME .
-100006102.collect.igodigital.com CNAME .
 100006105.collect.igodigital.com CNAME .
 100006133.collect.igodigital.com CNAME .
 100006236.collect.igodigital.com CNAME .
@@ -834,7 +816,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100006427.collect.igodigital.com CNAME .
 100006428.collect.igodigital.com CNAME .
 100006472.collect.igodigital.com CNAME .
-100006539.collect.igodigital.com CNAME .
 100006722.collect.igodigital.com CNAME .
 100006727.collect.igodigital.com CNAME .
 100006765.collect.igodigital.com CNAME .
@@ -856,7 +837,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100007706.collect.igodigital.com CNAME .
 100007708.collect.igodigital.com CNAME .
 100007772.collect.igodigital.com CNAME .
-100007958.collect.igodigital.com CNAME .
 100008009.collect.igodigital.com CNAME .
 100008018.collect.igodigital.com CNAME .
 100008126.collect.igodigital.com CNAME .
@@ -870,7 +850,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100008468.collect.igodigital.com CNAME .
 100008481.collect.igodigital.com CNAME .
 100008506.collect.igodigital.com CNAME .
-100008573.collect.igodigital.com CNAME .
 100008580.collect.igodigital.com CNAME .
 100008592.collect.igodigital.com CNAME .
 100008651.collect.igodigital.com CNAME .
@@ -900,12 +879,10 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100009416.collect.igodigital.com CNAME .
 100009418.collect.igodigital.com CNAME .
 100009525.collect.igodigital.com CNAME .
-100009654.collect.igodigital.com CNAME .
 100009660.collect.igodigital.com CNAME .
 100009699.collect.igodigital.com CNAME .
 100009706.collect.igodigital.com CNAME .
 100009747.collect.igodigital.com CNAME .
-100009763.collect.igodigital.com CNAME .
 100009874.collect.igodigital.com CNAME .
 100009881.collect.igodigital.com CNAME .
 100009942.collect.igodigital.com CNAME .
@@ -937,9 +914,7 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100011463.collect.igodigital.com CNAME .
 100011474.collect.igodigital.com CNAME .
 100011489.collect.igodigital.com CNAME .
-100011496.collect.igodigital.com CNAME .
 100011507.collect.igodigital.com CNAME .
-100011568.collect.igodigital.com CNAME .
 100011578.collect.igodigital.com CNAME .
 100011592.collect.igodigital.com CNAME .
 100011608.collect.igodigital.com CNAME .
@@ -987,7 +962,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100030022.collect.igodigital.com CNAME .
 100038611.collect.igodigital.com CNAME .
 100039995.collect.igodigital.com CNAME .
-10325380.collect.igodigital.com CNAME .
 10515133.collect.igodigital.com CNAME .
 1060952.collect.igodigital.com CNAME .
 1067349.collect.igodigital.com CNAME .
@@ -1026,7 +1000,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 514023214.collect.igodigital.com CNAME .
 514025538.collect.igodigital.com CNAME .
 514027809.collect.igodigital.com CNAME .
-514035692.collect.igodigital.com CNAME .
 515005244.collect.igodigital.com CNAME .
 515005351.collect.igodigital.com CNAME .
 515007710.collect.igodigital.com CNAME .
@@ -1074,7 +1047,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 546011740.collect.igodigital.com CNAME .
 6010747.collect.igodigital.com CNAME .
 6165092.collect.igodigital.com CNAME .
-6168842.collect.igodigital.com CNAME .
 6182251.collect.igodigital.com CNAME .
 6187272.collect.igodigital.com CNAME .
 6189532.collect.igodigital.com CNAME .
@@ -1141,7 +1113,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 7279825.collect.igodigital.com CNAME .
 7279980.collect.igodigital.com CNAME .
 7281071.collect.igodigital.com CNAME .
-7281313.collect.igodigital.com CNAME .
 7283808.collect.igodigital.com CNAME .
 7283845.collect.igodigital.com CNAME .
 7286855.collect.igodigital.com CNAME .
@@ -1170,13 +1141,11 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 7296650.collect.igodigital.com CNAME .
 7296665.collect.igodigital.com CNAME .
 7296810.collect.igodigital.com CNAME .
-7297186.collect.igodigital.com CNAME .
 7297500.collect.igodigital.com CNAME .
 7297790.collect.igodigital.com CNAME .
 7297803.collect.igodigital.com CNAME .
 7298601.collect.igodigital.com CNAME .
 7299776.collect.igodigital.com CNAME .
-7300007.collect.igodigital.com CNAME .
 7300013.collect.igodigital.com CNAME .
 7300368.collect.igodigital.com CNAME .
 7301916.collect.igodigital.com CNAME .
@@ -1185,7 +1154,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 7306408.collect.igodigital.com CNAME .
 7306662.collect.igodigital.com CNAME .
 7309485.collect.igodigital.com CNAME .
-7315920.collect.igodigital.com CNAME .
 7316235.collect.igodigital.com CNAME .
 7316446.collect.igodigital.com CNAME .
 7322496.collect.igodigital.com CNAME .
@@ -1199,13 +1167,36 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 7327889.collect.igodigital.com CNAME .
 7328429.collect.igodigital.com CNAME .
 7328781.collect.igodigital.com CNAME .
-7329370.collect.igodigital.com CNAME .
 7329633.collect.igodigital.com CNAME .
 7330071.collect.igodigital.com CNAME .
 7330213.collect.igodigital.com CNAME .
 8200011.collect.igodigital.com CNAME .
 perryellis.collect.igodigital.com CNAME .
 therealreal.collect.igodigital.com CNAME .
+100002010.collect.igodigital.com CNAME .
+100002287.collect.igodigital.com CNAME .
+100002752.collect.igodigital.com CNAME .
+100003143.collect.igodigital.com CNAME .
+100003500.collect.igodigital.com CNAME .
+100004105.collect.igodigital.com CNAME .
+100005596.collect.igodigital.com CNAME .
+100006010.collect.igodigital.com CNAME .
+100006102.collect.igodigital.com CNAME .
+100006539.collect.igodigital.com CNAME .
+100007958.collect.igodigital.com CNAME .
+100008573.collect.igodigital.com CNAME .
+100009654.collect.igodigital.com CNAME .
+100009763.collect.igodigital.com CNAME .
+100011496.collect.igodigital.com CNAME .
+100011568.collect.igodigital.com CNAME .
+10325380.collect.igodigital.com CNAME .
+514035692.collect.igodigital.com CNAME .
+6168842.collect.igodigital.com CNAME .
+7281313.collect.igodigital.com CNAME .
+7297186.collect.igodigital.com CNAME .
+7300007.collect.igodigital.com CNAME .
+7315920.collect.igodigital.com CNAME .
+7329370.collect.igodigital.com CNAME .
 100002077.collect.igodigital.com CNAME .
 100002836.collect.igodigital.com CNAME .
 100003302.collect.igodigital.com CNAME .
@@ -1280,10 +1271,8 @@ analytics-aac-venues.yinzcam.com CNAME .
 analytics-ari-nfl.yinzcam.com CNAME .
 analytics-atx-mls.yinzcam.com CNAME .
 analytics-bal-nfl.yinzcam.com CNAME .
-analytics-bay-nwsl.yinzcam.com CNAME .
 analytics-bb-ru.yinzcam.com CNAME .
 analytics-bha-fa.yinzcam.com CNAME .
-analytics-bkn-nba.yinzcam.com CNAME .
 analytics-bre-fa.yinzcam.com CNAME .
 analytics-buf-nhl.yinzcam.com CNAME .
 analytics-can-ioc.yinzcam.com CNAME .
@@ -1296,42 +1285,31 @@ analytics-cha-nba.yinzcam.com CNAME .
 analytics-chi-nfl.yinzcam.com CNAME .
 analytics-cin-mls.yinzcam.com CNAME .
 analytics-cin-nfl.yinzcam.com CNAME .
-analytics-cle-nba.yinzcam.com CNAME .
 analytics-dal-nfl.yinzcam.com CNAME .
 analytics-dal-nhl.yinzcam.com CNAME .
 analytics-dc-mls.yinzcam.com CNAME .
 analytics-den-nba.yinzcam.com CNAME .
 analytics-den-nfl.yinzcam.com CNAME .
 analytics-det-nhl.yinzcam.com CNAME .
-analytics-fla-nhl.yinzcam.com CNAME .
-analytics-hou-mls.yinzcam.com CNAME .
 analytics-ingest-ue1.yinzcam.com CNAME .
 analytics-la-nwsl.yinzcam.com CNAME .
 analytics-lac-nba.yinzcam.com CNAME .
-analytics-league-apl.yinzcam.com CNAME .
 analytics-league-mff.yinzcam.com CNAME .
-analytics-league-xfl.yinzcam.com CNAME .
 analytics-lei-fa.yinzcam.com CNAME .
 analytics-lv-f1.yinzcam.com CNAME .
 analytics-mff-1.yinzcam.com CNAME .
 analytics-mia-nfl.yinzcam.com CNAME .
-analytics-min-mls.yinzcam.com CNAME .
 analytics-min-nba.yinzcam.com CNAME .
 analytics-min-nhl.yinzcam.com CNAME .
 analytics-msg-venues.yinzcam.com CNAME .
 analytics-nfl-5.yinzcam.com CNAME .
-analytics-njd-nhl.yinzcam.com CNAME .
-analytics-nop-nba.yinzcam.com CNAME .
-analytics-nsh-mls.yinzcam.com CNAME .
 analytics-nycfc-mls.yinzcam.com CNAME .
 analytics-nyg-nfl.yinzcam.com CNAME .
 analytics-nyi-nhl.yinzcam.com CNAME .
 analytics-nyk-nba.yinzcam.com CNAME .
 analytics-nzc-icc.yinzcam.com CNAME .
-analytics-nzl-ru.yinzcam.com CNAME .
 analytics-orl-nba.yinzcam.com CNAME .
 analytics-perth-venues.yinzcam.com CNAME .
-analytics-phi-nba.yinzcam.com CNAME .
 analytics-pit-nhl.yinzcam.com CNAME .
 analytics-por-nba.yinzcam.com CNAME .
 analytics-rgp-venues.yinzcam.com CNAME .
@@ -1343,16 +1321,29 @@ analytics-skc-mls.yinzcam.com CNAME .
 analytics-ssk-cfl.yinzcam.com CNAME .
 analytics-stl-nhl.yinzcam.com CNAME .
 analytics-sun-fa.yinzcam.com CNAME .
-analytics-tb-nfl.yinzcam.com CNAME .
 analytics-tor-cfl.yinzcam.com CNAME .
 analytics-tor-nhl.yinzcam.com CNAME .
-analytics-tot-fa.yinzcam.com CNAME .
 analytics-unitedcenter-venues.yinzcam.com CNAME .
 analytics-uta-nba.yinzcam.com CNAME .
 analytics-uta-nhl.yinzcam.com CNAME .
 analytics-was-nba.yinzcam.com CNAME .
-analytics-wol-fa.yinzcam.com CNAME .
 analytics-wso-ten.yinzcam.com CNAME .
+analytics-bay-nwsl.yinzcam.com CNAME .
+analytics-bkn-nba.yinzcam.com CNAME .
+analytics-nop-nba.yinzcam.com CNAME .
+analytics-phi-nba.yinzcam.com CNAME .
+analytics-cle-nba.yinzcam.com CNAME .
+analytics-hou-mls.yinzcam.com CNAME .
+analytics-nsh-mls.yinzcam.com CNAME .
+analytics-fla-nhl.yinzcam.com CNAME .
+analytics-njd-nhl.yinzcam.com CNAME .
+analytics-league-apl.yinzcam.com CNAME .
+analytics-league-xfl.yinzcam.com CNAME .
+analytics-min-mls.yinzcam.com CNAME .
+analytics-nzl-ru.yinzcam.com CNAME .
+analytics-tb-nfl.yinzcam.com CNAME .
+analytics-tot-fa.yinzcam.com CNAME .
+analytics-wol-fa.yinzcam.com CNAME .
 analytics-v2.gotolstoy.com CNAME .
 analytics.5milesapp.com CNAME .
 analytics.airtv.net CNAME .
