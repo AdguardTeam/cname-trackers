@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ in.h24.news CNAME .
 it.h24.news CNAME .
 l.20minutes.fr CNAME .
 l.3djuegos.com CNAME .
+l.3djuegos.lat CNAME .
 l.750g.com CNAME .
 l.academiedugout.fr CNAME .
 l.actu.fr CNAME .
@@ -79,6 +80,7 @@ l.directoalpaladar.com.mx CNAME .
 l.diverto.tv CNAME .
 l.dna.fr CNAME .
 l.doctissimo.fr CNAME .
+l.dordognelibre.fr CNAME .
 l.dzfoot.com CNAME .
 l.e-sante.fr CNAME .
 l.easyvoyage.com CNAME .
@@ -121,6 +123,7 @@ l.grazia.it CNAME .
 l.harpersbazaar.fr CNAME .
 l.hautanjou.fr CNAME .
 l.heidi.news CNAME .
+l.herault-tribune.com CNAME .
 l.humanite.fr CNAME .
 l.ici.fr CNAME .
 l.ideat.fr CNAME .
@@ -183,6 +186,7 @@ l.midilibre.fr CNAME .
 l.minhavida.com.br CNAME .
 l.modesettravaux.fr CNAME .
 l.monacomatin.mc CNAME .
+l.motorpasion.com.mx CNAME .
 l.mouv.fr CNAME .
 l.moviepilot.de CNAME .
 l.netmums.com CNAME .

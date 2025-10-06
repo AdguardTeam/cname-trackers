@@ -47,7 +47,6 @@
     * dungeon.goatcounter.com
     * eithel.goatcounter.com
     * elkobraas.goatcounter.com
-    * embedx.goatcounter.com
     * enamya.goatcounter.com
     * eventgeek.goatcounter.com
     * fieald.goatcounter.com
@@ -214,7 +213,6 @@
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
 | stats.eithel.org | eithel.goatcounter.com |
 | statistic.elkobraas.com | elkobraas.goatcounter.com |
-| pixel.embed.su | embedx.goatcounter.com |
 | gtcntr.enamya.me | enamya.goatcounter.com |
 | goatcounter.eventgeek.ie | eventgeek.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
@@ -255,6 +253,7 @@
 | stats.kwanok.me | kwanok.goatcounter.com |
 | stats.forest-school.am | landing-forest-school.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
+| cityofsanmateo.analytics.open.law | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
 | analytics.law.sanipueblo.org | law-sanipueblo-org.goatcounter.com |
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |

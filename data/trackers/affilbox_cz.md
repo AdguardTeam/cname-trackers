@@ -280,7 +280,6 @@
 | affiliate.ucetni-portal.cz | cz.affilbox.cz |
 | affiliate.uncaria.cz | cz.affilbox.cz |
 | affiliate.unicare.sk | cz.affilbox.cz |
-| affiliate.urbanstore.cz | cz.affilbox.cz |
 | affiliate.urbanstore.sk | cz.affilbox.cz |
 | affiliate.vasecocky.cz | cz.affilbox.cz |
 | affiliate.vasesosovky.sk | cz.affilbox.cz |
@@ -378,7 +377,6 @@
 | my.top4fitness.sk | cz.affilbox.cz |
 | my.top4football.cz | cz.affilbox.cz |
 | my.top4football.de | cz.affilbox.cz |
-| my.top4football.dk | cz.affilbox.cz |
 | my.top4football.es | cz.affilbox.cz |
 | my.top4football.fi | cz.affilbox.cz |
 | my.top4football.hu | cz.affilbox.cz |
@@ -694,6 +692,7 @@
 | partner.olivie.sk | cz.affilbox.cz |
 | partner.olivum.cz | cz.affilbox.cz |
 | partner.olo.cz | cz.affilbox.cz |
+| partner.omorfia.care | cz.affilbox.cz |
 | partner.onlinepriznani.cz | cz.affilbox.cz |
 | partner.onlinepriznanie.sk | cz.affilbox.cz |
 | partner.organikk.cz | cz.affilbox.cz |
@@ -724,7 +723,6 @@
 | partner.pureharmony.cz | cz.affilbox.cz |
 | partner.respelen.cz | cz.affilbox.cz |
 | partner.root.cz | cz.affilbox.cz |
-| partner.royalfashion.cz | cz.affilbox.cz |
 | partner.rozhladna.sk | cz.affilbox.cz |
 | partner.roztouzeny.cz | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
@@ -901,7 +899,6 @@
 | partneri.razdvapujcka.cz | cz.affilbox.cz |
 | partneri.realitnishaker.cz | cz.affilbox.cz |
 | partneri.richardstepan.cz | cz.affilbox.cz |
-| partneri.robstark.cz | cz.affilbox.cz |
 | partneri.roklen.cz | cz.affilbox.cz |
 | partneri.rondainvest.cz | cz.affilbox.cz |
 | partneri.salente.cz | cz.affilbox.cz |

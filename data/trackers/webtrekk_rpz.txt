@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,7 +52,6 @@ a.hrewards.com CNAME .
 a.jaz-hotel.com CNAME .
 a.maxxhotel.com CNAME .
 a.zleep.com CNAME .
-abc.bayer04.de CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .
 app03.ikk-classic.de CNAME .

@@ -499,7 +499,6 @@
 | web.engagetest.swaindestinations.com | 961613221867173.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |
 | startrekk.flaconi.fi | 968210881135258.wt-eu02.net |
-| abc.bayer04.de | 969665527401678.wt-eu02.net |
 | def.bayer04.de | 969665527401678.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | startrekk.flaconi.cz | 984899049181491.wt-eu02.net |

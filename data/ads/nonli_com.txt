@@ -21,6 +21,7 @@
 ||it.h24.news^
 ||l.20minutes.fr^
 ||l.3djuegos.com^
+||l.3djuegos.lat^
 ||l.750g.com^
 ||l.academiedugout.fr^
 ||l.actu.fr^
@@ -68,6 +69,7 @@
 ||l.diverto.tv^
 ||l.dna.fr^
 ||l.doctissimo.fr^
+||l.dordognelibre.fr^
 ||l.dzfoot.com^
 ||l.e-sante.fr^
 ||l.easyvoyage.com^
@@ -110,6 +112,7 @@
 ||l.harpersbazaar.fr^
 ||l.hautanjou.fr^
 ||l.heidi.news^
+||l.herault-tribune.com^
 ||l.humanite.fr^
 ||l.ici.fr^
 ||l.ideat.fr^
@@ -172,6 +175,7 @@
 ||l.minhavida.com.br^
 ||l.modesettravaux.fr^
 ||l.monacomatin.mc^
+||l.motorpasion.com.mx^
 ||l.mouv.fr^
 ||l.moviepilot.de^
 ||l.netmums.com^

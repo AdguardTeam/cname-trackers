@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -270,7 +270,6 @@ affiliate.trikator.cz CNAME .
 affiliate.ucetni-portal.cz CNAME .
 affiliate.uncaria.cz CNAME .
 affiliate.unicare.sk CNAME .
-affiliate.urbanstore.cz CNAME .
 affiliate.urbanstore.sk CNAME .
 affiliate.vasecocky.cz CNAME .
 affiliate.vasesosovky.sk CNAME .
@@ -368,7 +367,6 @@ my.top4fitness.si CNAME .
 my.top4fitness.sk CNAME .
 my.top4football.cz CNAME .
 my.top4football.de CNAME .
-my.top4football.dk CNAME .
 my.top4football.es CNAME .
 my.top4football.fi CNAME .
 my.top4football.hu CNAME .
@@ -684,6 +682,7 @@ partner.olivie.cz CNAME .
 partner.olivie.sk CNAME .
 partner.olivum.cz CNAME .
 partner.olo.cz CNAME .
+partner.omorfia.care CNAME .
 partner.onlinepriznani.cz CNAME .
 partner.onlinepriznanie.sk CNAME .
 partner.organikk.cz CNAME .
@@ -714,7 +713,6 @@ partner.psidetektiv.cz CNAME .
 partner.pureharmony.cz CNAME .
 partner.respelen.cz CNAME .
 partner.root.cz CNAME .
-partner.royalfashion.cz CNAME .
 partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
 partner.ruzovyslon.cz CNAME .
@@ -891,7 +889,6 @@ partneri.puravia.cz CNAME .
 partneri.razdvapujcka.cz CNAME .
 partneri.realitnishaker.cz CNAME .
 partneri.richardstepan.cz CNAME .
-partneri.robstark.cz CNAME .
 partneri.roklen.cz CNAME .
 partneri.rondainvest.cz CNAME .
 partneri.salente.cz CNAME .

@@ -313,6 +313,7 @@
     * h-bossrevolution.online-metrix.net
     * h-bpm0edvc.online-metrix.net
     * h-bpsgameserver.online-metrix.net
+    * h-braviant.online-metrix.net
     * h-brightlending.online-metrix.net
     * h-bscelhtc.online-metrix.net
     * h-bt.online-metrix.net
@@ -1118,7 +1119,9 @@
 | tmcdn.betway.es | h-7oasgdq6.online-metrix.net |
 | tmcdn.betway.mx | h-7oasgdq6.online-metrix.net |
 | tmcdn.betwayarabia.com | h-7oasgdq6.online-metrix.net |
+| tmcdn.hippodromeonline.com | h-7oasgdq6.online-metrix.net |
 | tmcdn.jackpotcitycasino.co.uk | h-7oasgdq6.online-metrix.net |
+| tmcdn.spincasino.co.uk | h-7oasgdq6.online-metrix.net |
 | dt.extrakarte.com | h-7p277rpe.online-metrix.net |
 | rt.wisecartapp.com | h-7prfpfvh.online-metrix.net |
 | tmx.katapult.com | h-7prn07hc.online-metrix.net |
@@ -1438,6 +1441,7 @@
 | imagestm.bossrevolution.com | h-bossrevolution.online-metrix.net |
 | content.mdeferred-payment.sevenbank.co.jp | h-bpm0edvc.online-metrix.net |
 | fpcn.bpsgameserver.com | h-bpsgameserver.online-metrix.net |
+| 4652415544.balancecredit.com | h-braviant.online-metrix.net |
 | contentservices.brightlending.com | h-brightlending.online-metrix.net |
 | verification.ndtco.com | h-bscelhtc.online-metrix.net |
 | cdn1.thm.panoramainvestor.com.au | h-bt.online-metrix.net |

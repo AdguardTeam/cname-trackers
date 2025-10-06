@@ -115,6 +115,7 @@
 | utiq.doctissimo.fr | frontend.prod.utiq-aws.net |
 | utiq.donaukurier.de | frontend.prod.utiq-aws.net |
 | utiq.donnemagazine.it | frontend.prod.utiq-aws.net |
+| utiq.dordognelibre.fr | frontend.prod.utiq-aws.net |
 | utiq.duden.de | frontend.prod.utiq-aws.net |
 | utiq.dzfoot.com | frontend.prod.utiq-aws.net |
 | utiq.easyvoyage.com | frontend.prod.utiq-aws.net |

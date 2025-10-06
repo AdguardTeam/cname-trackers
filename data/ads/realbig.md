@@ -45,7 +45,6 @@
 | my.rb2psh.ru | park.realbig.online |
 | newrotatormarch23.bid | park.realbig.online |
 | news.unsere-news.ru | park.realbig.online |
-| newup.bid | park.realbig.online |
 | noradown.bid | park.realbig.online |
 | nservw.net | park.realbig.online |
 | owmedia.rabbit.click | park.realbig.online |
@@ -64,7 +63,6 @@
 | rb.sveto-sharik.ru | park.realbig.online |
 | rb.umspecrek.ru | park.realbig.online |
 | rbbutton.bid | park.realbig.online |
-| rbfive.bid | park.realbig.online |
 | rbfour.bid | park.realbig.online |
 | rbig.pcyk.ru | park.realbig.online |
 | rbone.link | park.realbig.online |

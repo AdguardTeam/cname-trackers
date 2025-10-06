@@ -83,6 +83,7 @@
     * mequoda-static.aquaplatform.com
     * midtc1-delivery.aquaplatform.com
     * midtc2-delivery.aquaplatform.com
+    * midtc3-delivery.aquaplatform.com
     * midtc4-delivery.aquaplatform.com
     * midtc5-delivery.aquaplatform.com
     * milenar-delivery.aquaplatform.com
@@ -287,6 +288,7 @@
 | cdn.mequoda.com | mequoda-static.aquaplatform.com |
 | tlads.midtc.com | midtc1-delivery.aquaplatform.com |
 | championads.midtc.com | midtc2-delivery.aquaplatform.com |
+| pawads.midtc.com | midtc3-delivery.aquaplatform.com |
 | adamsads.midtc.com | midtc4-delivery.aquaplatform.com |
 | media360ads.midtc.com | midtc5-delivery.aquaplatform.com |
 | ads-delivery.milenarmedia.pt | milenar-delivery.aquaplatform.com |
@@ -437,6 +439,7 @@
 | api.ad.logic-test.viasat.io | viasat-console.aquaplatform.com |
 | api.ad.logic.viasat.io | viasat-console.aquaplatform.com |
 | console.ad.logic.viasat.io | viasat-console.aquaplatform.com |
+| www.api.ad.logic.viasat.io | viasat-console.aquaplatform.com |
 | server.ad.logic-prod.viasat.io | viasat-delivery.aquaplatform.com |
 | server.ad.logic.viasat.io | viasat-delivery.aquaplatform.com |
 | static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |

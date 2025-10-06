@@ -54,7 +54,6 @@
 ||a8.careecen-shukatsu-agent.com^
 ||a8.careerpark.jp^
 ||a8.casie.jp^
-||a8.cbd-cosme.jp^
 ||a8.cbd-oil.jp^
 ||a8.cbdfx.jp^
 ||a8.centarc.com^
@@ -232,7 +231,6 @@
 ||a8.olightstore.jp^
 ||a8.onamae.com^
 ||a8.onecoinenglish.com^
-||a8.ones-ones.jp^
 ||a8.online-yomikakisoroban.com^
 ||a8.otoku-line.jp^
 ||a8.otonayaki.com^
@@ -314,7 +312,6 @@
 ||a8.tential.jp^
 ||a8.the-session.jp^
 ||a8.themoonmilk.jp^
-||a8.thermostand.jp^
 ||a8.thg.co.jp^
 ||a8.thidastone.com^
 ||a8.tokihana.net^
@@ -1261,7 +1258,6 @@
 ||a8cv.tamago-repeat.com^
 ||a8cv.taxi-qjin.com^
 ||a8cv.techkidsschool.jp^
-||a8cv.tenishokunext.jp^
 ||a8cv.tenshinocart.com^
 ||a8cv.tintle.net^
 ||a8cv.tmix.jp^

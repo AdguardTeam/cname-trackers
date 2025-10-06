@@ -77,6 +77,7 @@
 | it.h24.news | tls.non.li |
 | l.20minutes.fr | tls.non.li |
 | l.3djuegos.com | tls.non.li |
+| l.3djuegos.lat | tls.non.li |
 | l.750g.com | tls.non.li |
 | l.academiedugout.fr | tls.non.li |
 | l.actu.fr | tls.non.li |
@@ -119,6 +120,7 @@
 | l.directoalpaladar.com.mx | tls.non.li |
 | l.diverto.tv | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
+| l.dordognelibre.fr | tls.non.li |
 | l.dzfoot.com | tls.non.li |
 | l.e-sante.fr | tls.non.li |
 | l.easyvoyage.com | tls.non.li |
@@ -159,6 +161,7 @@
 | l.grazia.it | tls.non.li |
 | l.harpersbazaar.fr | tls.non.li |
 | l.hautanjou.fr | tls.non.li |
+| l.herault-tribune.com | tls.non.li |
 | l.humanite.fr | tls.non.li |
 | l.ici.fr | tls.non.li |
 | l.ideat.fr | tls.non.li |
@@ -215,6 +218,7 @@
 | l.midilibre.fr | tls.non.li |
 | l.minhavida.com.br | tls.non.li |
 | l.modesettravaux.fr | tls.non.li |
+| l.motorpasion.com.mx | tls.non.li |
 | l.mouv.fr | tls.non.li |
 | l.moviepilot.de | tls.non.li |
 | l.netmums.com | tls.non.li |

@@ -33,7 +33,6 @@
 | c4n.allporncomics.co | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
-| c4n.hotjavmovies.com | api.clickaine.com |
 | c4n.mypornovideos.com | api.clickaine.com |
 | c4n.myteentgp.com | api.clickaine.com |
 | c4n.natali9.online | api.clickaine.com |
@@ -46,6 +45,7 @@
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
 | cc.histoires-de-sexe.club | api.clickaine.com |
+| cc.relatoseroticos-gratis.com | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
 | cc.sexgeschichten-kostenlos.com | api.clickaine.com |
 | cc2.camcaps.io | api.clickaine.com |

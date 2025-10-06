@@ -259,7 +259,6 @@ affiliate.trikator.cz
 affiliate.ucetni-portal.cz
 affiliate.uncaria.cz
 affiliate.unicare.sk
-affiliate.urbanstore.cz
 affiliate.urbanstore.sk
 affiliate.vasecocky.cz
 affiliate.vasesosovky.sk
@@ -357,7 +356,6 @@ my.top4fitness.si
 my.top4fitness.sk
 my.top4football.cz
 my.top4football.de
-my.top4football.dk
 my.top4football.es
 my.top4football.fi
 my.top4football.hu
@@ -673,6 +671,7 @@ partner.olivie.cz
 partner.olivie.sk
 partner.olivum.cz
 partner.olo.cz
+partner.omorfia.care
 partner.onlinepriznani.cz
 partner.onlinepriznanie.sk
 partner.organikk.cz
@@ -703,7 +702,6 @@ partner.psidetektiv.cz
 partner.pureharmony.cz
 partner.respelen.cz
 partner.root.cz
-partner.royalfashion.cz
 partner.rozhladna.sk
 partner.roztouzeny.cz
 partner.ruzovyslon.cz
@@ -880,7 +878,6 @@ partneri.puravia.cz
 partneri.razdvapujcka.cz
 partneri.realitnishaker.cz
 partneri.richardstepan.cz
-partneri.robstark.cz
 partneri.roklen.cz
 partneri.rondainvest.cz
 partneri.salente.cz

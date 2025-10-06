@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -195,7 +195,6 @@ plausible.help.exploreandcreate.com CNAME .
 plausible.holderbaum-academy.de CNAME .
 plausible.hopecanebay.com CNAME .
 plausible.ionicelements.dev CNAME .
-plausible.jeroenvandenboorn.nl CNAME .
 plausible.joinself.com CNAME .
 plausible.k6sbw.net CNAME .
 plausible.kabaret.no CNAME .
@@ -463,7 +462,6 @@ stats.faluninfo.rs CNAME .
 stats.faluninfo.si CNAME .
 stats.fastbackward.app CNAME .
 stats.felipesere.com CNAME .
-stats.ferienwohnung-dombrowski.com CNAME .
 stats.filejuggler.com CNAME .
 stats.finalrabiesgeneration.org CNAME .
 stats.findvax.us CNAME .
@@ -504,7 +502,6 @@ stats.hauke.me CNAME .
 stats.headhunted.com.au CNAME .
 stats.henkverlinde.com CNAME .
 stats.homepage-2021.askmiso-dev.com CNAME .
-stats.homestow.com CNAME .
 stats.hpz-scharnhausen.de CNAME .
 stats.htmlcsstoimage.com CNAME .
 stats.htp.org CNAME .
@@ -752,7 +749,6 @@ stats.staging.hex.pm CNAME .
 stats.staging.hexdocs.pm CNAME .
 stats.starfish.team CNAME .
 stats.stephlow.audio CNAME .
-stats.steuer-soldaten.de CNAME .
 stats.strawberry.rocks CNAME .
 stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
@@ -825,6 +821,7 @@ stats.wwdcscholars.com CNAME .
 stats.www.agirpourlenvironnement.org CNAME .
 stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
+stats.xn--antnio-dxa.pt CNAME .
 stats.xrechnung.app CNAME .
 stats.zimri.net CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .

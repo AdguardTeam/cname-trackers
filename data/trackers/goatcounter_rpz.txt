@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ analytics.yofbrc.com CNAME .
 api.meestermac.nl CNAME .
 argus.umarbutler.com CNAME .
 c.qrdate.org CNAME .
+cityofsanmateo.analytics.open.law CNAME .
 contacapre.bortox.it CNAME .
 count.andreabrandi.com CNAME .
 count.kealper.com CNAME .
@@ -78,7 +79,6 @@ moo.geopogs.party CNAME .
 novi.webnovi.eu CNAME .
 pageviews.unbegames.com CNAME .
 ping.irisphotos.app CNAME .
-pixel.embed.su CNAME .
 science.ygoprint.org CNAME .
 st.mapleranks.com CNAME .
 statgarden.florinesueur.fr CNAME .

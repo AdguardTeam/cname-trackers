@@ -78,7 +78,6 @@ data-07bc6012a0.apps.iocnt.de
 data-07e0108925.apps.iocnt.de
 data-080d03ce0d.technikundeinkauf.de
 data-080db1a14d.stadtbibliothek-jena.de
-data-0827b0d9ef.dailydose.de
 data-0827b0d9ef.windsurfen-lernen.de
 data-0898a580fd.immo-schaumburg.de
 data-0898a580fd.szlz.de
@@ -791,7 +790,6 @@ data-5ce6ecf8d0.nbi.de
 data-5ce6ecf8d0.nn.de
 data-5ce6ecf8d0.nordbayern.de
 data-5d2679d281.skysportaustria.at
-data-5d4a957104.focus-arztsuche.de
 data-5d848783f7.spiegel.de
 data-5d9e07c784.stadt-und-werk.de
 data-5e25716aa5.apps.iocnt.de
@@ -1263,6 +1261,7 @@ data-96981b4ea8.apps.iocnt.de
 data-96d64cb150.badische-zeitung.de
 data-96d64cb150.bz-ticket.de
 data-96d64cb150.bztrauer.de
+data-96d64cb150.derjobmarkt.de
 data-96d64cb150.fudder.de
 data-96d64cb150.fupa.net
 data-96d64cb150.handwerkjobs-bw.de
@@ -1722,10 +1721,10 @@ data-cb6448e7d7.apps.iocnt.de
 data-cb9b83f47f.t3n.de
 data-cba0c1fee3.ad-magazin.de
 data-cbafce2f20.apps.iocnt.de
-data-cc10b861be.winbiap.de
 data-cc21ca250f.apps.iocnt.de
 data-ccadb8b6f3.apps.iocnt.de
 data-ccea961373.dach-holzbau.de
+data-cd0b4bd19f.auto-motor-sport.de
 data-cd0b4bd19f.auto-motor-und-sport.de
 data-cd0b4bd19f.automotorundsport.de
 data-cd0b4bd19f.motor-klassik.de
@@ -1830,7 +1829,6 @@ data-db3e9abc5d.muensterschezeitung.de
 data-db4b387c99.heizungsjournal.de
 data-db94e113ef.apps.iocnt.de
 data-db9a1c2da1.konstanz.de
-data-db9a1c2da1.winbiap.de
 data-db9f015784.connect-living.de
 data-db9f015784.pc-magazin.de
 data-dbb3f1513f.apps.iocnt.de
@@ -1909,6 +1907,7 @@ data-e81f9554e5.willhaben.at
 data-e89b4fd803.apps.iocnt.de
 data-e89c765eef.main-echo.de
 data-e8be051976.apps.iocnt.de
+data-e93d7f2acb.immoads.at
 data-e9439b5f81.bbv-net.de
 data-e9439b5f81.dattelner-morgenpost.de
 data-e9439b5f81.dorstenerzeitung.de
@@ -1973,6 +1972,7 @@ data-ee807be806.radioessen.de
 data-ee807be806.radiohagen.de
 data-ee807be806.radioherne.de
 data-ee807be806.radiokw.de
+data-ee807be806.radiomuelheim.de
 data-ee807be806.radiooberhausen.de
 data-ee807be806.radiosauerland.de
 data-eea6572f1f.apps.iocnt.de

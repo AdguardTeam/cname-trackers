@@ -143,6 +143,7 @@ openx.mondiale.co.uk
 opx.webtool.net
 opximages.webtool.net
 ox.mequoda.com
+pawads.midtc.com
 proxena-images.reviveservers.com
 proxena-secure.reviveservers.com
 questico-ads.reviveservers.com
@@ -251,6 +252,7 @@ www.ads.proxibid.com
 www.adserver.sniffies.com
 www.adserver.sonicplug.com
 www.adwin.geenstijl.nl
+www.api.ad.logic.viasat.io
 www.api.adbility-media.com
 www.api.metrike.com
 www.cdn-adv.unionesarda.it

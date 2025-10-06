@@ -110,6 +110,7 @@
 ||utiq.doctissimo.fr^
 ||utiq.donaukurier.de^
 ||utiq.donnemagazine.it^
+||utiq.dordognelibre.fr^
 ||utiq.duden.de^
 ||utiq.dzfoot.com^
 ||utiq.easyvoyage.com^

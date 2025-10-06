@@ -77,6 +77,7 @@
 | 0.www.forrepresentzen.com | ad-shield.cc |
 | 0.www.gahroundwhat.com | ad-shield.cc |
 | 0.www.garroteoutlying.com | ad-shield.cc |
+| 0.www.goshoverfeed.com | ad-shield.cc |
 | 0.www.greedilyperky.com | ad-shield.cc |
 | 0.www.gutphewlittleoddly.com | ad-shield.cc |
 | 0.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -88,6 +89,7 @@
 | 0.www.meanwhilenoonslap.com | ad-shield.cc |
 | 0.www.midwifemoist.com | ad-shield.cc |
 | 0.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 0.www.noranglehow.com | ad-shield.cc |
 | 0.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 0.www.nowdickerterraform.com | ad-shield.cc |
 | 0.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -191,6 +193,7 @@
 | 1.www.forrepresentzen.com | ad-shield.cc |
 | 1.www.gahroundwhat.com | ad-shield.cc |
 | 1.www.garroteoutlying.com | ad-shield.cc |
+| 1.www.goshoverfeed.com | ad-shield.cc |
 | 1.www.greedilyperky.com | ad-shield.cc |
 | 1.www.gutphewlittleoddly.com | ad-shield.cc |
 | 1.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -202,6 +205,7 @@
 | 1.www.meanwhilenoonslap.com | ad-shield.cc |
 | 1.www.midwifemoist.com | ad-shield.cc |
 | 1.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 1.www.noranglehow.com | ad-shield.cc |
 | 1.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 1.www.nowdickerterraform.com | ad-shield.cc |
 | 1.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -309,6 +313,7 @@
 | 2.www.forrepresentzen.com | ad-shield.cc |
 | 2.www.gahroundwhat.com | ad-shield.cc |
 | 2.www.garroteoutlying.com | ad-shield.cc |
+| 2.www.goshoverfeed.com | ad-shield.cc |
 | 2.www.greedilyperky.com | ad-shield.cc |
 | 2.www.gutphewlittleoddly.com | ad-shield.cc |
 | 2.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -320,6 +325,7 @@
 | 2.www.meanwhilenoonslap.com | ad-shield.cc |
 | 2.www.midwifemoist.com | ad-shield.cc |
 | 2.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 2.www.noranglehow.com | ad-shield.cc |
 | 2.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 2.www.nowdickerterraform.com | ad-shield.cc |
 | 2.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -422,6 +428,7 @@
 | 3.www.forrepresentzen.com | ad-shield.cc |
 | 3.www.gahroundwhat.com | ad-shield.cc |
 | 3.www.garroteoutlying.com | ad-shield.cc |
+| 3.www.goshoverfeed.com | ad-shield.cc |
 | 3.www.greedilyperky.com | ad-shield.cc |
 | 3.www.gutphewlittleoddly.com | ad-shield.cc |
 | 3.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -433,6 +440,7 @@
 | 3.www.meanwhilenoonslap.com | ad-shield.cc |
 | 3.www.midwifemoist.com | ad-shield.cc |
 | 3.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 3.www.noranglehow.com | ad-shield.cc |
 | 3.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 3.www.nowdickerterraform.com | ad-shield.cc |
 | 3.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -537,6 +545,7 @@
 | 4.www.forrepresentzen.com | ad-shield.cc |
 | 4.www.gahroundwhat.com | ad-shield.cc |
 | 4.www.garroteoutlying.com | ad-shield.cc |
+| 4.www.goshoverfeed.com | ad-shield.cc |
 | 4.www.greedilyperky.com | ad-shield.cc |
 | 4.www.gutphewlittleoddly.com | ad-shield.cc |
 | 4.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -549,6 +558,7 @@
 | 4.www.meanwhilenoonslap.com | ad-shield.cc |
 | 4.www.midwifemoist.com | ad-shield.cc |
 | 4.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 4.www.noranglehow.com | ad-shield.cc |
 | 4.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 4.www.nowdickerterraform.com | ad-shield.cc |
 | 4.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -652,6 +662,7 @@
 | 5.www.forrepresentzen.com | ad-shield.cc |
 | 5.www.gahroundwhat.com | ad-shield.cc |
 | 5.www.garroteoutlying.com | ad-shield.cc |
+| 5.www.goshoverfeed.com | ad-shield.cc |
 | 5.www.greedilyperky.com | ad-shield.cc |
 | 5.www.gutphewlittleoddly.com | ad-shield.cc |
 | 5.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -663,6 +674,7 @@
 | 5.www.meanwhilenoonslap.com | ad-shield.cc |
 | 5.www.midwifemoist.com | ad-shield.cc |
 | 5.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 5.www.noranglehow.com | ad-shield.cc |
 | 5.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 5.www.nowdickerterraform.com | ad-shield.cc |
 | 5.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -766,6 +778,7 @@
 | 6.www.forrepresentzen.com | ad-shield.cc |
 | 6.www.gahroundwhat.com | ad-shield.cc |
 | 6.www.garroteoutlying.com | ad-shield.cc |
+| 6.www.goshoverfeed.com | ad-shield.cc |
 | 6.www.greedilyperky.com | ad-shield.cc |
 | 6.www.gutphewlittleoddly.com | ad-shield.cc |
 | 6.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -777,6 +790,7 @@
 | 6.www.meanwhilenoonslap.com | ad-shield.cc |
 | 6.www.midwifemoist.com | ad-shield.cc |
 | 6.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 6.www.noranglehow.com | ad-shield.cc |
 | 6.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 6.www.nowdickerterraform.com | ad-shield.cc |
 | 6.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -879,6 +893,7 @@
 | 7.www.forrepresentzen.com | ad-shield.cc |
 | 7.www.gahroundwhat.com | ad-shield.cc |
 | 7.www.garroteoutlying.com | ad-shield.cc |
+| 7.www.goshoverfeed.com | ad-shield.cc |
 | 7.www.greedilyperky.com | ad-shield.cc |
 | 7.www.gutphewlittleoddly.com | ad-shield.cc |
 | 7.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -890,6 +905,7 @@
 | 7.www.meanwhilenoonslap.com | ad-shield.cc |
 | 7.www.midwifemoist.com | ad-shield.cc |
 | 7.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 7.www.noranglehow.com | ad-shield.cc |
 | 7.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 7.www.nowdickerterraform.com | ad-shield.cc |
 | 7.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -992,6 +1008,7 @@
 | 8.www.forrepresentzen.com | ad-shield.cc |
 | 8.www.gahroundwhat.com | ad-shield.cc |
 | 8.www.garroteoutlying.com | ad-shield.cc |
+| 8.www.goshoverfeed.com | ad-shield.cc |
 | 8.www.greedilyperky.com | ad-shield.cc |
 | 8.www.gutphewlittleoddly.com | ad-shield.cc |
 | 8.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -1004,6 +1021,7 @@
 | 8.www.meanwhilenoonslap.com | ad-shield.cc |
 | 8.www.midwifemoist.com | ad-shield.cc |
 | 8.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 8.www.noranglehow.com | ad-shield.cc |
 | 8.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 8.www.nowdickerterraform.com | ad-shield.cc |
 | 8.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -1105,6 +1123,7 @@
 | 9.www.forrepresentzen.com | ad-shield.cc |
 | 9.www.gahroundwhat.com | ad-shield.cc |
 | 9.www.garroteoutlying.com | ad-shield.cc |
+| 9.www.goshoverfeed.com | ad-shield.cc |
 | 9.www.greedilyperky.com | ad-shield.cc |
 | 9.www.gutphewlittleoddly.com | ad-shield.cc |
 | 9.www.hairyalligatorviolently.com | ad-shield.cc |
@@ -1116,6 +1135,7 @@
 | 9.www.meanwhilenoonslap.com | ad-shield.cc |
 | 9.www.midwifemoist.com | ad-shield.cc |
 | 9.www.nextbeforefollowerskean.com | ad-shield.cc |
+| 9.www.noranglehow.com | ad-shield.cc |
 | 9.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 9.www.nowdickerterraform.com | ad-shield.cc |
 | 9.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
@@ -1166,25 +1186,18 @@
 | www.13554359.xyz | ad-shield.cc |
 | www.14170678.xyz | ad-shield.cc |
 | www.14381834.xyz | ad-shield.cc |
-| www.15223102.xyz | ad-shield.cc |
 | www.16211973.xyz | ad-shield.cc |
 | www.16239749.xyz | ad-shield.cc |
 | www.17022993.xyz | ad-shield.cc |
 | www.17088440.xyz | ad-shield.cc |
 | www.17199874.xyz | ad-shield.cc |
-| www.19009143.xyz | ad-shield.cc |
 | www.19700902.xyz | ad-shield.cc |
 | www.20382207.xyz | ad-shield.cc |
-| www.20690754.xyz | ad-shield.cc |
 | www.21148843.xyz | ad-shield.cc |
-| www.22117898.xyz | ad-shield.cc |
 | www.22157064.xyz | ad-shield.cc |
-| www.25381553.xyz | ad-shield.cc |
 | www.27714296.xyz | ad-shield.cc |
-| www.28860928.xyz | ad-shield.cc |
 | www.29662166.xyz | ad-shield.cc |
 | www.2wu0m0ms098w7148.xyz | ad-shield.cc |
-| www.31945016.xyz | ad-shield.cc |
 | www.33109166.xyz | ad-shield.cc |
 | www.34475780.xyz | ad-shield.cc |
 | www.35452888.xyz | ad-shield.cc |
@@ -1192,14 +1205,11 @@
 | www.37066957.xyz | ad-shield.cc |
 | www.37243211.xyz | ad-shield.cc |
 | www.37267612.xyz | ad-shield.cc |
-| www.38100003.xyz | ad-shield.cc |
 | www.38167473.xyz | ad-shield.cc |
 | www.41206396.xyz | ad-shield.cc |
 | www.41818491.xyz | ad-shield.cc |
 | www.425kmk7n9wn21pwvl18.xyz | ad-shield.cc |
 | www.42862874.xyz | ad-shield.cc |
-| www.42869755.xyz | ad-shield.cc |
-| www.43113977.xyz | ad-shield.cc |
 | www.44592411.xyz | ad-shield.cc |
 | www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | www.45564736.xyz | ad-shield.cc |
@@ -1217,10 +1227,7 @@
 | www.50330472.xyz | ad-shield.cc |
 | www.50873vmk3263-7sk.xyz | ad-shield.cc |
 | www.53469662.xyz | ad-shield.cc |
-| www.55766925.xyz | ad-shield.cc |
 | www.57473094.xyz | ad-shield.cc |
-| www.59202140.xyz | ad-shield.cc |
-| www.59644010.xyz | ad-shield.cc |
 | www.5k71-k-t51u8q91otp3.xyz | ad-shield.cc |
 | www.5wo4spwppk7n0wvrn.xyz | ad-shield.cc |
 | www.60576949.xyz | ad-shield.cc |
@@ -1234,7 +1241,6 @@
 | www.69681858.xyz | ad-shield.cc |
 | www.69799884.xyz | ad-shield.cc |
 | www.72891504.xyz | ad-shield.cc |
-| www.73503921.xyz | ad-shield.cc |
 | www.73568955.xyz | ad-shield.cc |
 | www.74099753.xyz | ad-shield.cc |
 | www.74759411.xyz | ad-shield.cc |
@@ -1248,7 +1254,6 @@
 | www.79582961.xyz | ad-shield.cc |
 | www.79870085.xyz | ad-shield.cc |
 | www.79893962.xyz | ad-shield.cc |
-| www.80133082.xyz | ad-shield.cc |
 | www.80582834.xyz | ad-shield.cc |
 | www.84055600.xyz | ad-shield.cc |
 | www.84302764.xyz | ad-shield.cc |
@@ -1278,6 +1283,7 @@
 | www.forrepresentzen.com | ad-shield.cc |
 | www.gahroundwhat.com | ad-shield.cc |
 | www.garroteoutlying.com | ad-shield.cc |
+| www.goshoverfeed.com | ad-shield.cc |
 | www.greedilyperky.com | ad-shield.cc |
 | www.gutphewlittleoddly.com | ad-shield.cc |
 | www.hairyalligatorviolently.com | ad-shield.cc |
@@ -1290,6 +1296,7 @@
 | www.meanwhiletoo.com | ad-shield.cc |
 | www.midwifemoist.com | ad-shield.cc |
 | www.nextbeforefollowerskean.com | ad-shield.cc |
+| www.noranglehow.com | ad-shield.cc |
 | www.norsinceexactlyamongplait.com | ad-shield.cc |
 | www.nowdickerterraform.com | ad-shield.cc |
 | www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |

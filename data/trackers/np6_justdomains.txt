@@ -657,6 +657,7 @@ tr.mail.vo3000.com
 tr.mail1.macif.fr
 tr.mail306.com
 tr.mailatia.com
+tr.mailing.associationici.fr
 tr.mailing.heliades.fr
 tr.mailing.laredoute.fr
 tr.mailing.lvmhappening.com

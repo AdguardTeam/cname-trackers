@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -89,7 +89,6 @@ data-07bc6012a0.apps.iocnt.de CNAME .
 data-07e0108925.apps.iocnt.de CNAME .
 data-080d03ce0d.technikundeinkauf.de CNAME .
 data-080db1a14d.stadtbibliothek-jena.de CNAME .
-data-0827b0d9ef.dailydose.de CNAME .
 data-0827b0d9ef.windsurfen-lernen.de CNAME .
 data-0898a580fd.immo-schaumburg.de CNAME .
 data-0898a580fd.szlz.de CNAME .
@@ -802,7 +801,6 @@ data-5ce6ecf8d0.nbi.de CNAME .
 data-5ce6ecf8d0.nn.de CNAME .
 data-5ce6ecf8d0.nordbayern.de CNAME .
 data-5d2679d281.skysportaustria.at CNAME .
-data-5d4a957104.focus-arztsuche.de CNAME .
 data-5d848783f7.spiegel.de CNAME .
 data-5d9e07c784.stadt-und-werk.de CNAME .
 data-5e25716aa5.apps.iocnt.de CNAME .
@@ -1274,6 +1272,7 @@ data-96981b4ea8.apps.iocnt.de CNAME .
 data-96d64cb150.badische-zeitung.de CNAME .
 data-96d64cb150.bz-ticket.de CNAME .
 data-96d64cb150.bztrauer.de CNAME .
+data-96d64cb150.derjobmarkt.de CNAME .
 data-96d64cb150.fudder.de CNAME .
 data-96d64cb150.fupa.net CNAME .
 data-96d64cb150.handwerkjobs-bw.de CNAME .
@@ -1733,10 +1732,10 @@ data-cb6448e7d7.apps.iocnt.de CNAME .
 data-cb9b83f47f.t3n.de CNAME .
 data-cba0c1fee3.ad-magazin.de CNAME .
 data-cbafce2f20.apps.iocnt.de CNAME .
-data-cc10b861be.winbiap.de CNAME .
 data-cc21ca250f.apps.iocnt.de CNAME .
 data-ccadb8b6f3.apps.iocnt.de CNAME .
 data-ccea961373.dach-holzbau.de CNAME .
+data-cd0b4bd19f.auto-motor-sport.de CNAME .
 data-cd0b4bd19f.auto-motor-und-sport.de CNAME .
 data-cd0b4bd19f.automotorundsport.de CNAME .
 data-cd0b4bd19f.motor-klassik.de CNAME .
@@ -1841,7 +1840,6 @@ data-db3e9abc5d.muensterschezeitung.de CNAME .
 data-db4b387c99.heizungsjournal.de CNAME .
 data-db94e113ef.apps.iocnt.de CNAME .
 data-db9a1c2da1.konstanz.de CNAME .
-data-db9a1c2da1.winbiap.de CNAME .
 data-db9f015784.connect-living.de CNAME .
 data-db9f015784.pc-magazin.de CNAME .
 data-dbb3f1513f.apps.iocnt.de CNAME .
@@ -1920,6 +1918,7 @@ data-e81f9554e5.willhaben.at CNAME .
 data-e89b4fd803.apps.iocnt.de CNAME .
 data-e89c765eef.main-echo.de CNAME .
 data-e8be051976.apps.iocnt.de CNAME .
+data-e93d7f2acb.immoads.at CNAME .
 data-e9439b5f81.bbv-net.de CNAME .
 data-e9439b5f81.dattelner-morgenpost.de CNAME .
 data-e9439b5f81.dorstenerzeitung.de CNAME .
@@ -1984,6 +1983,7 @@ data-ee807be806.radioessen.de CNAME .
 data-ee807be806.radiohagen.de CNAME .
 data-ee807be806.radioherne.de CNAME .
 data-ee807be806.radiokw.de CNAME .
+data-ee807be806.radiomuelheim.de CNAME .
 data-ee807be806.radiooberhausen.de CNAME .
 data-ee807be806.radiosauerland.de CNAME .
 data-eea6572f1f.apps.iocnt.de CNAME .

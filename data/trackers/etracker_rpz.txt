@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -110,6 +110,7 @@ etrac.lodenwalker.com CNAME .
 etrac.tita.at CNAME .
 etracker.alex-gross.com CNAME .
 etracker.cjd.de CNAME .
+etracker.limbachgruppe.com CNAME .
 etracker.lukas-becker.eu CNAME .
 etracker.novicon.net CNAME .
 etracker.riess-gruppe.de CNAME .
@@ -193,9 +194,12 @@ track.richtig-schaerfen.de CNAME .
 track.schlaffabrik.com CNAME .
 track.thegundogaffair.com CNAME .
 tracker.bkk24.de CNAME .
+tracking.anthonys.at CNAME .
 tracking.chio.hu CNAME .
+tracking.gruener-soelden.com CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
 tracking.terrassenhof.de CNAME .
+tracking.walserart.at CNAME .
 trkkr.bugatti-media.com CNAME .
 trkkr.bugatti-newsroom.com CNAME .
 uezeus.ueberbit.de CNAME .

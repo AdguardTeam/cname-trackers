@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -101,6 +101,7 @@ tk.boutique.cuisineactuelle.fr CNAME .
 tk.boutique.cuisineaz.com CNAME .
 tk.boutique.femmeactuelle.fr CNAME .
 tk.boutique.geo.fr CNAME .
+tk.boutique.harpersbazaar.fr CNAME .
 tk.boutique.hbrfrance.fr CNAME .
 tk.boutique.programme-tv.net CNAME .
 tk.boutique.voici.fr CNAME .

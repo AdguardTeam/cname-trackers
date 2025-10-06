@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,7 +48,6 @@ mu.zilovaro.store CNAME .
 my.rb2psh.ru CNAME .
 newrotatormarch23.bid CNAME .
 news.unsere-news.ru CNAME .
-newup.bid CNAME .
 noradown.bid CNAME .
 nservw.net CNAME .
 owmedia.rabbit.click CNAME .
@@ -67,7 +66,6 @@ rb.slova-accordy.ru CNAME .
 rb.sveto-sharik.ru CNAME .
 rb.umspecrek.ru CNAME .
 rbbutton.bid CNAME .
-rbfive.bid CNAME .
 rbfour.bid CNAME .
 rbig.pcyk.ru CNAME .
 rbone.link CNAME .

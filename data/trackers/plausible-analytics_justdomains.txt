@@ -184,7 +184,6 @@ plausible.help.exploreandcreate.com
 plausible.holderbaum-academy.de
 plausible.hopecanebay.com
 plausible.ionicelements.dev
-plausible.jeroenvandenboorn.nl
 plausible.joinself.com
 plausible.k6sbw.net
 plausible.kabaret.no
@@ -452,7 +451,6 @@ stats.faluninfo.rs
 stats.faluninfo.si
 stats.fastbackward.app
 stats.felipesere.com
-stats.ferienwohnung-dombrowski.com
 stats.filejuggler.com
 stats.finalrabiesgeneration.org
 stats.findvax.us
@@ -493,7 +491,6 @@ stats.hauke.me
 stats.headhunted.com.au
 stats.henkverlinde.com
 stats.homepage-2021.askmiso-dev.com
-stats.homestow.com
 stats.hpz-scharnhausen.de
 stats.htmlcsstoimage.com
 stats.htp.org
@@ -741,7 +738,6 @@ stats.staging.hex.pm
 stats.staging.hexdocs.pm
 stats.starfish.team
 stats.stephlow.audio
-stats.steuer-soldaten.de
 stats.strawberry.rocks
 stats.studypages.com
 stats.sublimesecurity.com
@@ -814,6 +810,7 @@ stats.wwdcscholars.com
 stats.www.agirpourlenvironnement.org
 stats.wymanmobilenotary.com
 stats.xactcode.com
+stats.xn--antnio-dxa.pt
 stats.xrechnung.app
 stats.zimri.net
 statystyki.ekspertyzy-szkolenia.pl

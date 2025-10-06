@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -134,14 +134,11 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
 em2279.referral.quickbooks.co.uk CNAME .
-em2287.theory.com CNAME .
-em5230.rewards.dailypay.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
-em8642.notifications.acorns.com CNAME .
-em924.refer.starbucks.com CNAME .
+em8561.go2bank.com CNAME .
 emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -269,6 +266,7 @@ refer.globalknowledge.com CNAME .
 refer.gnc.com CNAME .
 refer.gopetplan.ca CNAME .
 refer.gopetplan.com CNAME .
+refer.gpsinsight.com CNAME .
 refer.gymboree.com CNAME .
 refer.hair.com CNAME .
 refer.harley-davidsonfootwear.com CNAME .
@@ -387,6 +385,7 @@ refer.saucony.com CNAME .
 refer.seabourn.com CNAME .
 refer.sharetodoist.com CNAME .
 refer.sharkclean.com CNAME .
+refer.sharkninja.com CNAME .
 refer.shuuemuraartofhair-usa.com CNAME .
 refer.sikorskycu.org CNAME .
 refer.skinceuticals.com CNAME .
@@ -800,14 +799,17 @@ www.rob.extoleu.com CNAME .
 www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
+em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
 em8031.soundcloud.com CNAME .
-em8561.go2bank.com CNAME .
+em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.dailypay.com CNAME .

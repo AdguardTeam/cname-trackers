@@ -41,7 +41,6 @@
 ||a.jaz-hotel.com^
 ||a.maxxhotel.com^
 ||a.zleep.com^
-||abc.bayer04.de^
 ||analytics.hermesworld.com^
 ||analytics.myhermes.de^
 ||app03.ikk-classic.de^

@@ -90,6 +90,7 @@ tk.boutique.cuisineactuelle.fr
 tk.boutique.cuisineaz.com
 tk.boutique.femmeactuelle.fr
 tk.boutique.geo.fr
+tk.boutique.harpersbazaar.fr
 tk.boutique.hbrfrance.fr
 tk.boutique.programme-tv.net
 tk.boutique.voici.fr

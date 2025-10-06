@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -154,6 +154,7 @@ openx.mondiale.co.uk CNAME .
 opx.webtool.net CNAME .
 opximages.webtool.net CNAME .
 ox.mequoda.com CNAME .
+pawads.midtc.com CNAME .
 proxena-images.reviveservers.com CNAME .
 proxena-secure.reviveservers.com CNAME .
 questico-ads.reviveservers.com CNAME .
@@ -262,6 +263,7 @@ www.ads.proxibid.com CNAME .
 www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.adwin.geenstijl.nl CNAME .
+www.api.ad.logic.viasat.io CNAME .
 www.api.adbility-media.com CNAME .
 www.api.metrike.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .

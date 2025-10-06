@@ -180,6 +180,7 @@
 | tk.boutique.cuisineaz.com | tk_prismashop_fr.wizaly.com |
 | tk.boutique.femmeactuelle.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.geo.fr | tk_prismashop_fr.wizaly.com |
+| tk.boutique.harpersbazaar.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.hbrfrance.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.programme-tv.net | tk_prismashop_fr.wizaly.com |
 | tk.boutique.voici.fr | tk_prismashop_fr.wizaly.com |

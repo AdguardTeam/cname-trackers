@@ -68,7 +68,6 @@
 | a8.careecen-shukatsu-agent.com | trck.a8.net |
 | a8.careerpark.jp | trck.a8.net |
 | a8.casie.jp | trck.a8.net |
-| a8.cbd-cosme.jp | trck.a8.net |
 | a8.cbd-oil.jp | trck.a8.net |
 | a8.cbdfx.jp | trck.a8.net |
 | a8.centarc.com | trck.a8.net |
@@ -246,7 +245,6 @@
 | a8.olightstore.jp | trck.a8.net |
 | a8.onamae.com | trck.a8.net |
 | a8.onecoinenglish.com | trck.a8.net |
-| a8.ones-ones.jp | trck.a8.net |
 | a8.online-yomikakisoroban.com | trck.a8.net |
 | a8.otoku-line.jp | trck.a8.net |
 | a8.otonayaki.com | trck.a8.net |
@@ -328,7 +326,6 @@
 | a8.tential.jp | trck.a8.net |
 | a8.the-session.jp | trck.a8.net |
 | a8.themoonmilk.jp | trck.a8.net |
-| a8.thermostand.jp | trck.a8.net |
 | a8.thg.co.jp | trck.a8.net |
 | a8.thidastone.com | trck.a8.net |
 | a8.tokihana.net | trck.a8.net |
@@ -1274,7 +1271,6 @@
 | a8cv.tamago-repeat.com | trck.a8.net |
 | a8cv.taxi-qjin.com | trck.a8.net |
 | a8cv.techkidsschool.jp | trck.a8.net |
-| a8cv.tenishokunext.jp | trck.a8.net |
 | a8cv.tenshinocart.com | trck.a8.net |
 | a8cv.tintle.net | trck.a8.net |
 | a8cv.tmix.jp | trck.a8.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -65,7 +65,6 @@ a8.campaign.musclesuit.co.jp CNAME .
 a8.careecen-shukatsu-agent.com CNAME .
 a8.careerpark.jp CNAME .
 a8.casie.jp CNAME .
-a8.cbd-cosme.jp CNAME .
 a8.cbd-oil.jp CNAME .
 a8.cbdfx.jp CNAME .
 a8.centarc.com CNAME .
@@ -243,7 +242,6 @@ a8.okamotogroup.com CNAME .
 a8.olightstore.jp CNAME .
 a8.onamae.com CNAME .
 a8.onecoinenglish.com CNAME .
-a8.ones-ones.jp CNAME .
 a8.online-yomikakisoroban.com CNAME .
 a8.otoku-line.jp CNAME .
 a8.otonayaki.com CNAME .
@@ -325,7 +323,6 @@ a8.teddyworks.co.jp CNAME .
 a8.tential.jp CNAME .
 a8.the-session.jp CNAME .
 a8.themoonmilk.jp CNAME .
-a8.thermostand.jp CNAME .
 a8.thg.co.jp CNAME .
 a8.thidastone.com CNAME .
 a8.tokihana.net CNAME .
@@ -1272,7 +1269,6 @@ a8cv.taisyokudaiko.jp CNAME .
 a8cv.tamago-repeat.com CNAME .
 a8cv.taxi-qjin.com CNAME .
 a8cv.techkidsschool.jp CNAME .
-a8cv.tenishokunext.jp CNAME .
 a8cv.tenshinocart.com CNAME .
 a8cv.tintle.net CNAME .
 a8cv.tmix.jp CNAME .

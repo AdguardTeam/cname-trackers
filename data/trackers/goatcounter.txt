@@ -27,6 +27,7 @@
 ||api.meestermac.nl^
 ||argus.umarbutler.com^
 ||c.qrdate.org^
+||cityofsanmateo.analytics.open.law^
 ||contacapre.bortox.it^
 ||count.andreabrandi.com^
 ||count.kealper.com^
@@ -67,7 +68,6 @@
 ||novi.webnovi.eu^
 ||pageviews.unbegames.com^
 ||ping.irisphotos.app^
-||pixel.embed.su^
 ||science.ygoprint.org^
 ||st.mapleranks.com^
 ||statgarden.florinesueur.fr^

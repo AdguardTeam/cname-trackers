@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ betpanpourer.com CNAME .
 d70i.com CNAME .
 f03f.com CNAME .
 g4nd.com CNAME .
+glaingotseemt.com CNAME .
 gys5.com CNAME .
 ih31.com CNAME .
 infraxurechan.com CNAME .
@@ -45,6 +46,7 @@ r8bz.com CNAME .
 rndcombuskenor.com CNAME .
 roulatioser.com CNAME .
 roulinooneer.com CNAME .
+uncobalionr.com CNAME .
 unfearowor.com CNAME .
 unslowbror.com CNAME .
 upmonfernoan.com CNAME .

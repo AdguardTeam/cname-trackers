@@ -196,7 +196,6 @@
 | plausible.holderbaum-academy.de | custom.plausible.io |
 | plausible.hopecanebay.com | custom.plausible.io |
 | plausible.ionicelements.dev | custom.plausible.io |
-| plausible.jeroenvandenboorn.nl | custom.plausible.io |
 | plausible.joinself.com | custom.plausible.io |
 | plausible.k6sbw.net | custom.plausible.io |
 | plausible.kabaret.no | custom.plausible.io |
@@ -464,7 +463,6 @@
 | stats.faluninfo.si | custom.plausible.io |
 | stats.fastbackward.app | custom.plausible.io |
 | stats.felipesere.com | custom.plausible.io |
-| stats.ferienwohnung-dombrowski.com | custom.plausible.io |
 | stats.filejuggler.com | custom.plausible.io |
 | stats.finalrabiesgeneration.org | custom.plausible.io |
 | stats.findvax.us | custom.plausible.io |
@@ -505,7 +503,6 @@
 | stats.headhunted.com.au | custom.plausible.io |
 | stats.henkverlinde.com | custom.plausible.io |
 | stats.homepage-2021.askmiso-dev.com | custom.plausible.io |
-| stats.homestow.com | custom.plausible.io |
 | stats.hpz-scharnhausen.de | custom.plausible.io |
 | stats.htmlcsstoimage.com | custom.plausible.io |
 | stats.htp.org | custom.plausible.io |
@@ -753,7 +750,6 @@
 | stats.staging.hexdocs.pm | custom.plausible.io |
 | stats.starfish.team | custom.plausible.io |
 | stats.stephlow.audio | custom.plausible.io |
-| stats.steuer-soldaten.de | custom.plausible.io |
 | stats.strawberry.rocks | custom.plausible.io |
 | stats.studypages.com | custom.plausible.io |
 | stats.sublimesecurity.com | custom.plausible.io |
@@ -826,6 +822,7 @@
 | stats.www.agirpourlenvironnement.org | custom.plausible.io |
 | stats.wymanmobilenotary.com | custom.plausible.io |
 | stats.xactcode.com | custom.plausible.io |
+| stats.xn--antnio-dxa.pt | custom.plausible.io |
 | stats.xrechnung.app | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |

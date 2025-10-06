@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -668,6 +668,7 @@ tr.mail.vo3000.com CNAME .
 tr.mail1.macif.fr CNAME .
 tr.mail306.com CNAME .
 tr.mailatia.com CNAME .
+tr.mailing.associationici.fr CNAME .
 tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .

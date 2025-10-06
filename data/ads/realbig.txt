@@ -37,7 +37,6 @@
 ||my.rb2psh.ru^
 ||newrotatormarch23.bid^
 ||news.unsere-news.ru^
-||newup.bid^
 ||noradown.bid^
 ||nservw.net^
 ||owmedia.rabbit.click^
@@ -56,7 +55,6 @@
 ||rb.sveto-sharik.ru^
 ||rb.umspecrek.ru^
 ||rbbutton.bid^
-||rbfive.bid^
 ||rbfour.bid^
 ||rbig.pcyk.ru^
 ||rbone.link^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -121,6 +121,7 @@ utiq.diverto.tv CNAME .
 utiq.doctissimo.fr CNAME .
 utiq.donaukurier.de CNAME .
 utiq.donnemagazine.it CNAME .
+utiq.dordognelibre.fr CNAME .
 utiq.duden.de CNAME .
 utiq.dzfoot.com CNAME .
 utiq.easyvoyage.com CNAME .

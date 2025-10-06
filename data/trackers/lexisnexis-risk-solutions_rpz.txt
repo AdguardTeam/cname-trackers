@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759132809385        ; Serial
+           1759737609113        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 1bf86f4b.tictoc.ai CNAME .
 1of1.skipcash.app CNAME .
+4652415544.balancecredit.com CNAME .
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 adprtm53.cardgold.it CNAME .
@@ -1207,6 +1208,7 @@ tmcdn.betwayarabia.com CNAME .
 tmcdn.europalace.com CNAME .
 tmcdn.gamingclub.com CNAME .
 tmcdn.grizzlysquest.com CNAME .
+tmcdn.hippodromeonline.com CNAME .
 tmcdn.homeaway.com CNAME .
 tmcdn.jackpotcity.ca CNAME .
 tmcdn.jackpotcity.mx CNAME .
@@ -1222,6 +1224,7 @@ tmcdn.royalvegas.ca CNAME .
 tmcdn.rubyfortune.ca CNAME .
 tmcdn.rubyfortune.com CNAME .
 tmcdn.spincasino.ca CNAME .
+tmcdn.spincasino.co.uk CNAME .
 tmcdn.spincasino.com CNAME .
 tmcdn.spincasino.mx CNAME .
 tmcdn.spingalaxy.com CNAME .
