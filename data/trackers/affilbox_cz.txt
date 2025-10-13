@@ -337,11 +337,9 @@
 ||my.fr.top4running.be^
 ||my.kickz.com^
 ||my.tint-store.ro^
-||my.top4fitness.bg^
 ||my.top4fitness.com^
 ||my.top4fitness.cz^
 ||my.top4fitness.de^
-||my.top4fitness.es^
 ||my.top4fitness.fi^
 ||my.top4fitness.fr^
 ||my.top4fitness.gr^
@@ -555,7 +553,6 @@
 ||partner.freshlabels.cz^
 ||partner.gaymegastore.cz^
 ||partner.gaymegastore.eu^
-||partner.gdcbd.cz^
 ||partner.gel-gun.cz^
 ||partner.generatorvodiku.cz^
 ||partner.gingershot.cz^
@@ -678,7 +675,6 @@
 ||partner.oriclo.cz^
 ||partner.ozogan.cz^
 ||partner.palstorm.cz^
-||partner.parfemy-parfumeur.cz^
 ||partner.patchworkparty.cz^
 ||partner.patchworkparty.sk^
 ||partner.patizon.com^
@@ -776,6 +772,7 @@
 ||partner.zkontrolujsiauto.cz^
 ||partner.zombeek.cz^
 ||partner.zonky.cz^
+||partner.zooshopik.cz^
 ||partner.zvaracky-obchod.sk^
 ||partnerek.aerium.hu^
 ||partnerhc.itex24.cz^

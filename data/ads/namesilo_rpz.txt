@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -598,6 +598,7 @@ $TTL 300
 3572303.notifysrv.com CNAME .
 3572904.notifysrv.com CNAME .
 3576531.notifysrv.com CNAME .
+3578227.notify6.com CNAME .
 3578231.notify6.com CNAME .
 3578231.notifysrv.com CNAME .
 3578233.notify6.com CNAME .
@@ -1134,6 +1135,7 @@ $TTL 300
 5571074.notify6.com CNAME .
 5606578.notify6.com CNAME .
 5617898.notify6.com CNAME .
+5658264.notify6.com CNAME .
 5680316.notify6.com CNAME .
 5690040.notify6.com CNAME .
 5696038.notify6.com CNAME .
@@ -1141,6 +1143,7 @@ $TTL 300
 8.notify.bizonads-ssp.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
+a.8jfbt5va3r.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
@@ -1150,9 +1153,12 @@ a.b7q9v8z.com CNAME .
 a.brilmaver.com CNAME .
 a.cant3am.com CNAME .
 a.crme7srv.com CNAME .
+a.etology.com CNAME .
 a.eunow4u.com CNAME .
+a.gatherstar.io CNAME .
 a.golhofer.com CNAME .
 a.hkartg.com CNAME .
+a.huklop.com CNAME .
 a.ku34bh9la09.com CNAME .
 a.ma3ion.com CNAME .
 a.mx.notifysrv.com CNAME .
@@ -1162,10 +1168,8 @@ a.pinkads.org CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
 a.r8lnet.com CNAME .
-a.rocoads.net CNAME .
 a.t5z3w0p.com CNAME .
 a.tf4srv.com CNAME .
-a.traffic-gold.com CNAME .
 a.vws4brkfst.com CNAME .
 abc.notifysrv.com CNAME .
 accept.notifysrv.com CNAME .
@@ -1241,7 +1245,6 @@ kwi18ah9r60yjb70.notify6.com CNAME .
 law.notifysrv.com CNAME .
 m.hue11.com CNAME .
 m.hue2b.com CNAME .
-m.optidigital.com CNAME .
 mail17.notifysrv.com CNAME .
 main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .
@@ -1341,6 +1344,8 @@ s.dso3bb.com CNAME .
 s.dsonb4.com CNAME .
 s.dsordy.com CNAME .
 s.dsp7c5.com CNAME .
+s.dspbw7.com CNAME .
+s.dspijb.com CNAME .
 s.dsqcjk.com CNAME .
 s.dss1bi.com CNAME .
 s.dsskyw.com CNAME .
@@ -1412,6 +1417,7 @@ s.golhofer.com CNAME .
 s.hkartg.com CNAME .
 s.huispol.com CNAME .
 s.huklop.com CNAME .
+s.humnert.com CNAME .
 s.kafaseju.com CNAME .
 s.ku34bh9la09.com CNAME .
 s.linkv3c.com CNAME .
@@ -1426,6 +1432,7 @@ s.naffertop.com CNAME .
 s.native7.com CNAME .
 s.nidersaw.com CNAME .
 s.nowsrv.com CNAME .
+s.nuismak.com CNAME .
 s.opoxv.com CNAME .
 s.opti-digital.com CNAME .
 s.optidigital.com CNAME .
@@ -1632,10 +1639,9 @@ www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 a.18ramp.com CNAME .
-a.8jfbt5va3r.com CNAME .
 a.asvsm.com CNAME .
 a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
-a.gatherstar.io CNAME .
-a.huklop.com CNAME .
+a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
+a.traffic-gold.com CNAME .
+m.optidigital.com CNAME .

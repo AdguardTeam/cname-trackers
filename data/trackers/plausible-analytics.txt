@@ -404,7 +404,6 @@
 ||stats.devetkomentara.net^
 ||stats.devrain.io^
 ||stats.devskills.co^
-||stats.dflydev.com^
 ||stats.diarmuidsexton.com^
 ||stats.digiexpert.store^
 ||stats.dillen.dev^
@@ -438,7 +437,6 @@
 ||stats.erik.joling.me^
 ||stats.erikinthekitchen.com^
 ||stats.erikkemp.eu^
-||stats.erlef.org^
 ||stats.evenchilada.com^
 ||stats.executebig.org^
 ||stats.extramilefloorcare.com^
@@ -488,7 +486,6 @@
 ||stats.halcyon.hr^
 ||stats.hammertime.me^
 ||stats.hauke.me^
-||stats.headhunted.com.au^
 ||stats.henkverlinde.com^
 ||stats.homepage-2021.askmiso-dev.com^
 ||stats.hpz-scharnhausen.de^
@@ -601,7 +598,6 @@
 ||stats.multiplelenses.com^
 ||stats.multiply.cloud^
 ||stats.murrayhometextiles.ie^
-||stats.myherocard.com^
 ||stats.napaconnect.ca^
 ||stats.navedislam.com^
 ||stats.nerdbusiness.com^
@@ -639,7 +635,6 @@
 ||stats.passwordyeti.com^
 ||stats.pasteapp.io^
 ||stats.pastorwagner.com^
-||stats.patrick.wtf^
 ||stats.patrickl.am^
 ||stats.patriot.win^
 ||stats.paulronge.se^
@@ -783,7 +778,6 @@
 ||stats.unka.space^
 ||stats.unusualtourist.com^
 ||stats.urbanfinn.com^
-||stats.urlaubsverwaltung.cloud^
 ||stats.useeffect.dev^
 ||stats.v4.agirpourlenvironnement.org^
 ||stats.vali-pod.io^

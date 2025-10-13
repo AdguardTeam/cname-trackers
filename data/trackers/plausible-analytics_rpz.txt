@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -415,7 +415,6 @@ stats.devenet.info CNAME .
 stats.devetkomentara.net CNAME .
 stats.devrain.io CNAME .
 stats.devskills.co CNAME .
-stats.dflydev.com CNAME .
 stats.diarmuidsexton.com CNAME .
 stats.digiexpert.store CNAME .
 stats.dillen.dev CNAME .
@@ -449,7 +448,6 @@ stats.engeldirekt.de CNAME .
 stats.erik.joling.me CNAME .
 stats.erikinthekitchen.com CNAME .
 stats.erikkemp.eu CNAME .
-stats.erlef.org CNAME .
 stats.evenchilada.com CNAME .
 stats.executebig.org CNAME .
 stats.extramilefloorcare.com CNAME .
@@ -499,7 +497,6 @@ stats.gynsprechstunde.de CNAME .
 stats.halcyon.hr CNAME .
 stats.hammertime.me CNAME .
 stats.hauke.me CNAME .
-stats.headhunted.com.au CNAME .
 stats.henkverlinde.com CNAME .
 stats.homepage-2021.askmiso-dev.com CNAME .
 stats.hpz-scharnhausen.de CNAME .
@@ -612,7 +609,6 @@ stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
 stats.multiply.cloud CNAME .
 stats.murrayhometextiles.ie CNAME .
-stats.myherocard.com CNAME .
 stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
 stats.nerdbusiness.com CNAME .
@@ -650,7 +646,6 @@ stats.parrot.dev CNAME .
 stats.passwordyeti.com CNAME .
 stats.pasteapp.io CNAME .
 stats.pastorwagner.com CNAME .
-stats.patrick.wtf CNAME .
 stats.patrickl.am CNAME .
 stats.patriot.win CNAME .
 stats.paulronge.se CNAME .
@@ -794,7 +789,6 @@ stats.ubiwiz.com CNAME .
 stats.unka.space CNAME .
 stats.unusualtourist.com CNAME .
 stats.urbanfinn.com CNAME .
-stats.urlaubsverwaltung.cloud CNAME .
 stats.useeffect.dev CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
 stats.vali-pod.io CNAME .

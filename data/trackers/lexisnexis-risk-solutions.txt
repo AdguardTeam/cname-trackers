@@ -130,6 +130,7 @@
 ||black-cat.crypto.com^
 ||bland.starone.org^
 ||business.streetshares.com^
+||c.menards.com^
 ||catalyst.mashreq.com^
 ||caveo.boost-my.com^
 ||cbcdn.bankofscotland.co.uk^
@@ -824,6 +825,7 @@
 ||prod-addition.chaperone.lumindigitalhosting.com^
 ||prod-afcutn.chaperone.lumindigitalhosting.com^
 ||prod-affinity.chaperone.lumindigitalhosting.com^
+||prod-allegacy.chaperone.lumindigitalhosting.com^
 ||prod-aocumi.chaperone.lumindigitalhosting.com^
 ||prod-apcifcu.chaperone.lumindigitalhosting.com^
 ||prod-ascuaz.chaperone.lumindigitalhosting.com^

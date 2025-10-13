@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,7 +42,6 @@ cityofsanmateo.analytics.open.law CNAME .
 contacapre.bortox.it CNAME .
 count.andreabrandi.com CNAME .
 count.kealper.com CNAME .
-count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
 dot-com-stats.sladewatkins.net CNAME .
 gc.acut3.net CNAME .
@@ -96,6 +95,7 @@ stats.benjaminmorris.com CNAME .
 stats.beyondthesprawl.com CNAME .
 stats.bilderbrief.de CNAME .
 stats.boredkevin.com CNAME .
+stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .
 stats.brendanhanke.com CNAME .
 stats.cassie.omg.lol CNAME .
@@ -129,6 +129,7 @@ stats.johanneswienke.de CNAME .
 stats.jonaslieb.de CNAME .
 stats.k94.ch CNAME .
 stats.kc.ie CNAME .
+stats.kev.bar CNAME .
 stats.konfou.xyz CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
@@ -163,7 +164,6 @@ stats.trainsley69.me CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .
-stats.w0chp.radio CNAME .
 stats.wackomenace.co.uk CNAME .
 stats.whatacools.com CNAME .
 stats.ybbond.id CNAME .

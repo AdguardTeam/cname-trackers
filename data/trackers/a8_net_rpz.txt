@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -391,6 +391,7 @@ a8aspconv.ns-softbank-hikari.com CNAME .
 a8aspconv.xn--auso-net-h53gmnzi.com CNAME .
 a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
+a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com CNAME .
 a8atcomsme.mellife.jp CNAME .
 a8clic.alcosystem.co.jp CNAME .
 a8click.daini2.co.jp CNAME .
@@ -552,7 +553,6 @@ a8clk.kaitori-yamatokukimono.jp CNAME .
 a8clk.kaitori.kind.co.jp CNAME .
 a8clk.kaitoriyasan.group CNAME .
 a8clk.kake-barai.com CNAME .
-a8clk.kanagawa-zero.com CNAME .
 a8clk.kihada.jp CNAME .
 a8clk.komochikon.jp CNAME .
 a8clk.label-seal-print.com CNAME .
@@ -805,7 +805,6 @@ a8cv.ans-ec.shop CNAME .
 a8cv.antiaging-eshop.com CNAME .
 a8cv.aplod.jp CNAME .
 a8cv.aquasilver.co.jp CNAME .
-a8cv.araiba.net CNAME .
 a8cv.aruci.jp CNAME .
 a8cv.assign-inc.com CNAME .
 a8cv.atami-box.com CNAME .
@@ -1589,6 +1588,7 @@ t6g.futurizm.jp CNAME .
 tag.minimaid.co.jp CNAME .
 test.shigoto-web.com CNAME .
 test.zeus-wifi.jp CNAME .
+test123.proudclinic.co.jp CNAME .
 testa8wifi.dokoyorimo.com CNAME .
 thanks.olivesitter.com CNAME .
 thanks.tsubaki-musicschool.com CNAME .
@@ -1624,6 +1624,5 @@ trialapp.live-english.co.jp CNAME .
 webcv.advan-corp.co.jp CNAME .
 webtest.lpio.jp CNAME .
 www.a8clk.amelia.ne.jp CNAME .
-www.a8clk.kanagawa-zero.com CNAME .
 www.ad.ehello.jp CNAME .
 yoiku-sub.yoiku.support CNAME .

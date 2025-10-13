@@ -563,6 +563,7 @@
     * h-k8vif92e-helz.online-metrix.net
     * h-k8vif92e-jm.online-metrix.net
     * h-k8vif92e-lulu.online-metrix.net
+    * h-k8vif92e-menards.online-metrix.net
     * h-k8vif92e-mo.online-metrix.net
     * h-k8vif92e-pa.online-metrix.net
     * h-k8vif92e-pr.online-metrix.net
@@ -870,6 +871,7 @@
 | prod-addition.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-afcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-affinity.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-allegacy.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-aocumi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-apcifcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-ascuaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1844,6 +1846,7 @@
 | payments.helzberg.com | h-k8vif92e-helz.online-metrix.net |
 | cdncy.jmbullion.com | h-k8vif92e-jm.online-metrix.net |
 | checkout-df.lululemon.com | h-k8vif92e-lulu.online-metrix.net |
+| c.menards.com | h-k8vif92e-menards.online-metrix.net |
 | mobile.du.ae | h-k8vif92e-mo.online-metrix.net |
 | verify.philippineairlines.com | h-k8vif92e-pa.online-metrix.net |
 | cdncy.providentmetals.com | h-k8vif92e-pr.online-metrix.net |

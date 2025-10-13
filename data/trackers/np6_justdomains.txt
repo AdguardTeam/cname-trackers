@@ -946,7 +946,6 @@ tr.newsletter.phyto.com
 tr.newsletter.plurielmedia.com
 tr.newsletter.veuveclicquot.com
 tr.newsletter.younited-credit.com
-tr.newsletterpagesjaunes.fr
 tr.newsletters-bonpoint.com
 tr.newsletters.coedition-contact.fr
 tr.newsletters.odalys-vacances.com

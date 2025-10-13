@@ -153,6 +153,7 @@ revive.ahk.de
 revive.worldscreen.com
 rtvutrecht-static.reviveservers.com
 serve.faithlifeads.com
+servedby-thinkresult.revive-adserver.net
 servedby.adbility-media.com
 servedby.ammoland.com
 servedby.aqua-adserver.com

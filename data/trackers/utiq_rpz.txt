@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -411,6 +411,7 @@ utiq.thewatmag.com CNAME .
 utiq.thueringen24.de CNAME .
 utiq.tierfans.net CNAME .
 utiq.tim.it CNAME .
+utiq.tnrnews.es CNAME .
 utiq.todoalicante.es CNAME .
 utiq.topsante.com CNAME .
 utiq.traum-deutung.de CNAME .
@@ -463,4 +464,5 @@ vfes.mno.link CNAME .
 vfesmsp.mno.link CNAME .
 vfit.mno.link CNAME .
 vfuk.mno.link CNAME .
+vmo2uk.mno.link CNAME .
 yesss-a1at.mno.link CNAME .

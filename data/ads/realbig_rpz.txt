@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -81,7 +81,6 @@ tryonline.bid CNAME .
 tuesdaysale.bid CNAME .
 vi.zolivexo.store CNAME .
 workerhome.click CNAME .
-www.1astrjasr.ru CNAME .
 www.5738.ru CNAME .
 www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .

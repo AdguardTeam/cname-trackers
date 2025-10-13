@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -164,6 +164,7 @@ revive.ahk.de CNAME .
 revive.worldscreen.com CNAME .
 rtvutrecht-static.reviveservers.com CNAME .
 serve.faithlifeads.com CNAME .
+servedby-thinkresult.revive-adserver.net CNAME .
 servedby.adbility-media.com CNAME .
 servedby.ammoland.com CNAME .
 servedby.aqua-adserver.com CNAME .

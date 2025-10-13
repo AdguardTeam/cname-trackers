@@ -90,6 +90,7 @@
 | l.aisnenouvelle.fr | tls.non.li |
 | l.allocine.fr | tls.non.li |
 | l.alternatives-economiques.fr | tls.non.li |
+| l.applesfera.com | tls.non.li |
 | l.aujourdhui.fr | tls.non.li |
 | l.auto-moto.com | tls.non.li |
 | l.autojournal.fr | tls.non.li |
@@ -126,11 +127,14 @@
 | l.easyvoyage.com | tls.non.li |
 | l.echoancenis.fr | tls.non.li |
 | l.echoduberry.fr | tls.non.li |
+| l.eclypsia.com | tls.non.li |
+| l.elleadore.com | tls.non.li |
 | l.en-vols.com | tls.non.li |
 | l.enfant.com | tls.non.li |
 | l.enfemenino.com | tls.non.li |
 | l.entrenous.fr | tls.non.li |
 | l.equidia.fr | tls.non.li |
+| l.espinof.com | tls.non.li |
 | l.euronews.com | tls.non.li |
 | l.familiscope.fr | tls.non.li |
 | l.femmeactuelle.fr | tls.non.li |
@@ -218,6 +222,8 @@
 | l.midilibre.fr | tls.non.li |
 | l.minhavida.com.br | tls.non.li |
 | l.modesettravaux.fr | tls.non.li |
+| l.moselle.tv | tls.non.li |
+| l.motorpasion.com | tls.non.li |
 | l.motorpasion.com.mx | tls.non.li |
 | l.mouv.fr | tls.non.li |
 | l.moviepilot.de | tls.non.li |
@@ -280,6 +286,7 @@
 | l.xataka.com | tls.non.li |
 | l.xataka.com.br | tls.non.li |
 | l.xataka.com.mx | tls.non.li |
+| l.xatakamovil.com | tls.non.li |
 | l.zdnet.fr | tls.non.li |
 | mail10.h24.news | tls.non.li |
 | mail11.h24.news | tls.non.li |

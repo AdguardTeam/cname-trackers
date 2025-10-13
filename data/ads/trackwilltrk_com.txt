@@ -21,7 +21,9 @@
 ||t.leadtrck.space^
 ||t.loantrck.com^
 ||t.maxtrck.shop^
+||t.nettrck.store^
 ||t.nextrck.website^
+||t.pathtrck.website^
 ||t.peaktrck.uno^
 ||t.quicktrck.space^
 ||t.securetrck.uno^

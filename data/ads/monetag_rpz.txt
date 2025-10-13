@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,7 +17,9 @@ $TTL 300
 536i.com CNAME .
 6tip.com CNAME .
 80xy.com CNAME .
+abarbokan.com CNAME .
 amelectivireer.com CNAME .
+astrhyhorna.com CNAME .
 astropiusa.com CNAME .
 audraghafamign.com CNAME .
 be06.com CNAME .
@@ -40,6 +42,7 @@ k3on.com CNAME .
 kighoadouk.com CNAME .
 ldy5.com CNAME .
 mamsauphoachoap.com CNAME .
+offsnivyor.com CNAME .
 opvileplumeon.com CNAME .
 ossscatterbuga.com CNAME .
 r8bz.com CNAME .

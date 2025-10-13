@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -348,11 +348,9 @@ my.11teamsports.sk CNAME .
 my.fr.top4running.be CNAME .
 my.kickz.com CNAME .
 my.tint-store.ro CNAME .
-my.top4fitness.bg CNAME .
 my.top4fitness.com CNAME .
 my.top4fitness.cz CNAME .
 my.top4fitness.de CNAME .
-my.top4fitness.es CNAME .
 my.top4fitness.fi CNAME .
 my.top4fitness.fr CNAME .
 my.top4fitness.gr CNAME .
@@ -566,7 +564,6 @@ partner.fotoposta.sk CNAME .
 partner.freshlabels.cz CNAME .
 partner.gaymegastore.cz CNAME .
 partner.gaymegastore.eu CNAME .
-partner.gdcbd.cz CNAME .
 partner.gel-gun.cz CNAME .
 partner.generatorvodiku.cz CNAME .
 partner.gingershot.cz CNAME .
@@ -689,7 +686,6 @@ partner.organikk.cz CNAME .
 partner.oriclo.cz CNAME .
 partner.ozogan.cz CNAME .
 partner.palstorm.cz CNAME .
-partner.parfemy-parfumeur.cz CNAME .
 partner.patchworkparty.cz CNAME .
 partner.patchworkparty.sk CNAME .
 partner.patizon.com CNAME .
@@ -787,6 +783,7 @@ partner.ziskamdobroupraci.cz CNAME .
 partner.zkontrolujsiauto.cz CNAME .
 partner.zombeek.cz CNAME .
 partner.zonky.cz CNAME .
+partner.zooshopik.cz CNAME .
 partner.zvaracky-obchod.sk CNAME .
 partnerek.aerium.hu CNAME .
 partnerhc.itex24.cz CNAME .

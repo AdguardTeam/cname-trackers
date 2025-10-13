@@ -394,6 +394,7 @@
 | a8aspconv.xn--auso-net-h53gmnzi.com | trck.a8.net |
 | a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com | trck.a8.net |
 | a8aspconv.xn--biglobe-kc9k.com | trck.a8.net |
+| a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com | trck.a8.net |
 | a8atcomsme.mellife.jp | trck.a8.net |
 | a8clic.alcosystem.co.jp | trck.a8.net |
 | a8click.daini2.co.jp | trck.a8.net |
@@ -555,7 +556,6 @@
 | a8clk.kaitori.kind.co.jp | trck.a8.net |
 | a8clk.kaitoriyasan.group | trck.a8.net |
 | a8clk.kake-barai.com | trck.a8.net |
-| a8clk.kanagawa-zero.com | trck.a8.net |
 | a8clk.kihada.jp | trck.a8.net |
 | a8clk.komochikon.jp | trck.a8.net |
 | a8clk.label-seal-print.com | trck.a8.net |
@@ -807,7 +807,6 @@
 | a8cv.antiaging-eshop.com | trck.a8.net |
 | a8cv.aplod.jp | trck.a8.net |
 | a8cv.aquasilver.co.jp | trck.a8.net |
-| a8cv.araiba.net | trck.a8.net |
 | a8cv.aruci.jp | trck.a8.net |
 | a8cv.assign-inc.com | trck.a8.net |
 | a8cv.atami-box.com | trck.a8.net |
@@ -1591,6 +1590,7 @@
 | tag.minimaid.co.jp | trck.a8.net |
 | test.shigoto-web.com | trck.a8.net |
 | test.zeus-wifi.jp | trck.a8.net |
+| test123.proudclinic.co.jp | trck.a8.net |
 | testa8wifi.dokoyorimo.com | trck.a8.net |
 | thanks.olivesitter.com | trck.a8.net |
 | thanks.tsubaki-musicschool.com | trck.a8.net |
@@ -1624,6 +1624,5 @@
 | webcv.advan-corp.co.jp | trck.a8.net |
 | webtest.lpio.jp | trck.a8.net |
 | www.a8clk.amelia.ne.jp | trck.a8.net |
-| www.a8clk.kanagawa-zero.com | trck.a8.net |
 | www.ad.ehello.jp | trck.a8.net |
 | yoiku-sub.yoiku.support | trck.a8.net |

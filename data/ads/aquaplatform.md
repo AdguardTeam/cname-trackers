@@ -401,6 +401,7 @@
 | console.revive-adserver.net | revivehosted-console.aquaplatform.com |
 | www.console.falconstudios.com | revivehosted-console.aquaplatform.com |
 | adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
+| servedby-thinkresult.revive-adserver.net | revivehosted-delivery.aquaplatform.com |
 | servedby.cricketworld.com | revivehosted-delivery.aquaplatform.com |
 | servedby.revive-adserver.net | revivehosted-delivery.aquaplatform.com |
 | servedby.thinkresult.in | revivehosted-delivery.aquaplatform.com |

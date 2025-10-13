@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ k.brandalley.es CNAME .
 k.brandalley.fr CNAME .
 k.flynas.com CNAME .
 k.hofmann.es CNAME .
+k.laredoute.ch CNAME .
 k.laredoute.com CNAME .
 k.laredoute.es CNAME .
 k.laredoute.pt CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -124,6 +124,7 @@ ferthu.seyffer.shop CNAME .
 go.eitrmsummit.com CNAME .
 gus.corinnavondermuehlen.de CNAME .
 insides.honic.eu CNAME .
+insights.bertelsmann-stiftung.de CNAME .
 js.edingershops.de CNAME .
 lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
@@ -194,6 +195,7 @@ track.richtig-schaerfen.de CNAME .
 track.schlaffabrik.com CNAME .
 track.thegundogaffair.com CNAME .
 tracker.bkk24.de CNAME .
+tracking.360products.de CNAME .
 tracking.anthonys.at CNAME .
 tracking.chio.hu CNAME .
 tracking.gruener-soelden.com CNAME .
@@ -273,6 +275,7 @@ webcontr.solipac.de CNAME .
 webcontr.sovd-hh.de CNAME .
 webcontr.splendid-internet.de CNAME .
 webcontr.stadtwerke-ahrensburg.de CNAME .
+webcontr.strandvogtei.de CNAME .
 webcontr.synvia.de CNAME .
 webcontr.taxando.de CNAME .
 webcontr.terraguide.de CNAME .

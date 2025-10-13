@@ -416,7 +416,6 @@
 | stats.devetkomentara.net | custom.plausible.io |
 | stats.devrain.io | custom.plausible.io |
 | stats.devskills.co | custom.plausible.io |
-| stats.dflydev.com | custom.plausible.io |
 | stats.diarmuidsexton.com | custom.plausible.io |
 | stats.digiexpert.store | custom.plausible.io |
 | stats.dillen.dev | custom.plausible.io |
@@ -450,7 +449,6 @@
 | stats.erik.joling.me | custom.plausible.io |
 | stats.erikinthekitchen.com | custom.plausible.io |
 | stats.erikkemp.eu | custom.plausible.io |
-| stats.erlef.org | custom.plausible.io |
 | stats.evenchilada.com | custom.plausible.io |
 | stats.executebig.org | custom.plausible.io |
 | stats.extramilefloorcare.com | custom.plausible.io |
@@ -500,7 +498,6 @@
 | stats.halcyon.hr | custom.plausible.io |
 | stats.hammertime.me | custom.plausible.io |
 | stats.hauke.me | custom.plausible.io |
-| stats.headhunted.com.au | custom.plausible.io |
 | stats.henkverlinde.com | custom.plausible.io |
 | stats.homepage-2021.askmiso-dev.com | custom.plausible.io |
 | stats.hpz-scharnhausen.de | custom.plausible.io |
@@ -613,7 +610,6 @@
 | stats.multiplelenses.com | custom.plausible.io |
 | stats.multiply.cloud | custom.plausible.io |
 | stats.murrayhometextiles.ie | custom.plausible.io |
-| stats.myherocard.com | custom.plausible.io |
 | stats.napaconnect.ca | custom.plausible.io |
 | stats.navedislam.com | custom.plausible.io |
 | stats.nerdbusiness.com | custom.plausible.io |
@@ -651,7 +647,6 @@
 | stats.passwordyeti.com | custom.plausible.io |
 | stats.pasteapp.io | custom.plausible.io |
 | stats.pastorwagner.com | custom.plausible.io |
-| stats.patrick.wtf | custom.plausible.io |
 | stats.patrickl.am | custom.plausible.io |
 | stats.patriot.win | custom.plausible.io |
 | stats.paulronge.se | custom.plausible.io |
@@ -795,7 +790,6 @@
 | stats.unka.space | custom.plausible.io |
 | stats.unusualtourist.com | custom.plausible.io |
 | stats.urbanfinn.com | custom.plausible.io |
-| stats.urlaubsverwaltung.cloud | custom.plausible.io |
 | stats.useeffect.dev | custom.plausible.io |
 | stats.v4.agirpourlenvironnement.org | custom.plausible.io |
 | stats.vali-pod.io | custom.plausible.io |

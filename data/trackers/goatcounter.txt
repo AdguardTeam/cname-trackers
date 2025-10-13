@@ -31,7 +31,6 @@
 ||contacapre.bortox.it^
 ||count.andreabrandi.com^
 ||count.kealper.com^
-||count.vidsrc.pro^
 ||counter.storydragon.nl^
 ||dot-com-stats.sladewatkins.net^
 ||gc.acut3.net^
@@ -85,6 +84,7 @@
 ||stats.beyondthesprawl.com^
 ||stats.bilderbrief.de^
 ||stats.boredkevin.com^
+||stats.boringproxy.io^
 ||stats.brandontoner.ca^
 ||stats.brendanhanke.com^
 ||stats.cassie.omg.lol^
@@ -118,6 +118,7 @@
 ||stats.jonaslieb.de^
 ||stats.k94.ch^
 ||stats.kc.ie^
+||stats.kev.bar^
 ||stats.konfou.xyz^
 ||stats.ksmets.be^
 ||stats.ksr.onl^
@@ -152,7 +153,6 @@
 ||stats.transactional.blog^
 ||stats.umcconnell.net^
 ||stats.uygar.sh^
-||stats.w0chp.radio^
 ||stats.wackomenace.co.uk^
 ||stats.whatacools.com^
 ||stats.ybbond.id^

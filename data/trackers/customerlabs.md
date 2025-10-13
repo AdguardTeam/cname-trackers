@@ -5,6 +5,7 @@
 * 1p-data.co
     * amtvgfz.customers.1p-data.co
     * bbznqba.customers.1p-data.co
+    * bewsgxy.customers.1p-data.co
     * bpftoyh.customers.1p-data.co
     * bzljqlx.customers.1p-data.co
     * cdskjrg.customers.1p-data.co
@@ -37,6 +38,7 @@
 | ---- | ---- |
 | amtvgfz.veneera.de | amtvgfz.customers.1p-data.co |
 | bbznqba.boxgenie.com | bbznqba.customers.1p-data.co |
+| bewsgxy.solidandstriped.com | bewsgxy.customers.1p-data.co |
 | bpftoyh.chamelo.com | bpftoyh.customers.1p-data.co |
 | bzljqlx.elietahari.com | bzljqlx.customers.1p-data.co |
 | cdskjrg.giliarto.com | cdskjrg.customers.1p-data.co |

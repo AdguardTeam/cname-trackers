@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -141,6 +141,7 @@ bkt-prod.sbishinseibank.co.jp CNAME .
 black-cat.crypto.com CNAME .
 bland.starone.org CNAME .
 business.streetshares.com CNAME .
+c.menards.com CNAME .
 catalyst.mashreq.com CNAME .
 caveo.boost-my.com CNAME .
 cbcdn.bankofscotland.co.uk CNAME .
@@ -835,6 +836,7 @@ prod-acutx.chaperone.lumindigitalhosting.com CNAME .
 prod-addition.chaperone.lumindigitalhosting.com CNAME .
 prod-afcutn.chaperone.lumindigitalhosting.com CNAME .
 prod-affinity.chaperone.lumindigitalhosting.com CNAME .
+prod-allegacy.chaperone.lumindigitalhosting.com CNAME .
 prod-aocumi.chaperone.lumindigitalhosting.com CNAME .
 prod-apcifcu.chaperone.lumindigitalhosting.com CNAME .
 prod-ascuaz.chaperone.lumindigitalhosting.com CNAME .

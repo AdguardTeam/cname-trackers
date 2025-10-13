@@ -30,7 +30,9 @@
 | t.leadtrck.space | r.trackwilltrk.com |
 | t.loantrck.com | r.trackwilltrk.com |
 | t.maxtrck.shop | r.trackwilltrk.com |
+| t.nettrck.store | r.trackwilltrk.com |
 | t.nextrck.website | r.trackwilltrk.com |
+| t.pathtrck.website | r.trackwilltrk.com |
 | t.peaktrck.uno | r.trackwilltrk.com |
 | t.quicktrck.space | r.trackwilltrk.com |
 | t.securetrck.uno | r.trackwilltrk.com |

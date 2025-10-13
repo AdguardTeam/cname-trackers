@@ -78,7 +78,6 @@
 | tuesdaysale.bid | park.realbig.online |
 | vi.zolivexo.store | park.realbig.online |
 | workerhome.click | park.realbig.online |
-| www.1astrjasr.ru | park.realbig.online |
 | www.5738.ru | park.realbig.online |
 | www.allworldinfo5.ru | park.realbig.online |
 | www.androidstores.ru | park.realbig.online |

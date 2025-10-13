@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -957,7 +957,6 @@ tr.newsletter.phyto.com CNAME .
 tr.newsletter.plurielmedia.com CNAME .
 tr.newsletter.veuveclicquot.com CNAME .
 tr.newsletter.younited-credit.com CNAME .
-tr.newsletterpagesjaunes.fr CNAME .
 tr.newsletters-bonpoint.com CNAME .
 tr.newsletters.coedition-contact.fr CNAME .
 tr.newsletters.odalys-vacances.com CNAME .

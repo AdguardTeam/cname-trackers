@@ -400,6 +400,7 @@ utiq.thewatmag.com
 utiq.thueringen24.de
 utiq.tierfans.net
 utiq.tim.it
+utiq.tnrnews.es
 utiq.todoalicante.es
 utiq.topsante.com
 utiq.traum-deutung.de
@@ -452,4 +453,5 @@ vfes.mno.link
 vfesmsp.mno.link
 vfit.mno.link
 vfuk.mno.link
+vmo2uk.mno.link
 yesss-a1at.mno.link

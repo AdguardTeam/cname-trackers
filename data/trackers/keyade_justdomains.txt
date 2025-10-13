@@ -6,6 +6,7 @@ k.brandalley.es
 k.brandalley.fr
 k.flynas.com
 k.hofmann.es
+k.laredoute.ch
 k.laredoute.com
 k.laredoute.es
 k.laredoute.pt

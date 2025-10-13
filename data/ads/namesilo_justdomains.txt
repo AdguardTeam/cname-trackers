@@ -587,6 +587,7 @@
 3572303.notifysrv.com
 3572904.notifysrv.com
 3576531.notifysrv.com
+3578227.notify6.com
 3578231.notify6.com
 3578231.notifysrv.com
 3578233.notify6.com
@@ -1123,6 +1124,7 @@
 5571074.notify6.com
 5606578.notify6.com
 5617898.notify6.com
+5658264.notify6.com
 5680316.notify6.com
 5690040.notify6.com
 5696038.notify6.com
@@ -1130,6 +1132,7 @@
 8.notify.bizonads-ssp.com
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
+a.8jfbt5va3r.com
 a.adsession.com
 a.advantageclicks.net
 a.advertrek.com
@@ -1139,9 +1142,12 @@ a.b7q9v8z.com
 a.brilmaver.com
 a.cant3am.com
 a.crme7srv.com
+a.etology.com
 a.eunow4u.com
+a.gatherstar.io
 a.golhofer.com
 a.hkartg.com
+a.huklop.com
 a.ku34bh9la09.com
 a.ma3ion.com
 a.mx.notifysrv.com
@@ -1151,10 +1157,8 @@ a.pinkads.org
 a.playa.to
 a.q88z1s3.com
 a.r8lnet.com
-a.rocoads.net
 a.t5z3w0p.com
 a.tf4srv.com
-a.traffic-gold.com
 a.vws4brkfst.com
 abc.notifysrv.com
 accept.notifysrv.com
@@ -1230,7 +1234,6 @@ kwi18ah9r60yjb70.notify6.com
 law.notifysrv.com
 m.hue11.com
 m.hue2b.com
-m.optidigital.com
 mail17.notifysrv.com
 main.exdynsrv.com
 main.exoclick.com
@@ -1330,6 +1333,8 @@ s.dso3bb.com
 s.dsonb4.com
 s.dsordy.com
 s.dsp7c5.com
+s.dspbw7.com
+s.dspijb.com
 s.dsqcjk.com
 s.dss1bi.com
 s.dsskyw.com
@@ -1401,6 +1406,7 @@ s.golhofer.com
 s.hkartg.com
 s.huispol.com
 s.huklop.com
+s.humnert.com
 s.kafaseju.com
 s.ku34bh9la09.com
 s.linkv3c.com
@@ -1415,6 +1421,7 @@ s.naffertop.com
 s.native7.com
 s.nidersaw.com
 s.nowsrv.com
+s.nuismak.com
 s.opoxv.com
 s.opti-digital.com
 s.optidigital.com
@@ -1621,10 +1628,9 @@ www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
 a.18ramp.com
-a.8jfbt5va3r.com
 a.asvsm.com
 a.bizonads-ssp.com
-a.etology.com
-a.gatherstar.io
-a.huklop.com
+a.rocoads.net
 a.santabrowser.com
+a.traffic-gold.com
+m.optidigital.com

@@ -34,6 +34,7 @@ l.africaradio.com
 l.aisnenouvelle.fr
 l.allocine.fr
 l.alternatives-economiques.fr
+l.applesfera.com
 l.aufeminin.com
 l.aujourdhui.fr
 l.auto-moto.com
@@ -75,11 +76,14 @@ l.e-sante.fr
 l.easyvoyage.com
 l.echoancenis.fr
 l.echoduberry.fr
+l.eclypsia.com
+l.elleadore.com
 l.en-vols.com
 l.enfant.com
 l.enfemenino.com
 l.entrenous.fr
 l.equidia.fr
+l.espinof.com
 l.estrepublicain.fr
 l.euronews.com
 l.familiscope.fr
@@ -175,6 +179,8 @@ l.midilibre.fr
 l.minhavida.com.br
 l.modesettravaux.fr
 l.monacomatin.mc
+l.moselle.tv
+l.motorpasion.com
 l.motorpasion.com.mx
 l.mouv.fr
 l.moviepilot.de
@@ -244,6 +250,7 @@ l.whatsupdoc-lemag.fr
 l.xataka.com
 l.xataka.com.br
 l.xataka.com.mx
+l.xatakamovil.com
 l.zdnet.fr
 mail10.h24.news
 mail11.h24.news

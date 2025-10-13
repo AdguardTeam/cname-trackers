@@ -380,6 +380,7 @@ a8aspconv.ns-softbank-hikari.com
 a8aspconv.xn--auso-net-h53gmnzi.com
 a8aspconv.xn--bgm-os4bt98xxicx4fqs5c8e8agvq.com
 a8aspconv.xn--biglobe-kc9k.com
+a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com
 a8atcomsme.mellife.jp
 a8clic.alcosystem.co.jp
 a8click.daini2.co.jp
@@ -541,7 +542,6 @@ a8clk.kaitori-yamatokukimono.jp
 a8clk.kaitori.kind.co.jp
 a8clk.kaitoriyasan.group
 a8clk.kake-barai.com
-a8clk.kanagawa-zero.com
 a8clk.kihada.jp
 a8clk.komochikon.jp
 a8clk.label-seal-print.com
@@ -794,7 +794,6 @@ a8cv.ans-ec.shop
 a8cv.antiaging-eshop.com
 a8cv.aplod.jp
 a8cv.aquasilver.co.jp
-a8cv.araiba.net
 a8cv.aruci.jp
 a8cv.assign-inc.com
 a8cv.atami-box.com
@@ -1578,6 +1577,7 @@ t6g.futurizm.jp
 tag.minimaid.co.jp
 test.shigoto-web.com
 test.zeus-wifi.jp
+test123.proudclinic.co.jp
 testa8wifi.dokoyorimo.com
 thanks.olivesitter.com
 thanks.tsubaki-musicschool.com
@@ -1613,6 +1613,5 @@ trialapp.live-english.co.jp
 webcv.advan-corp.co.jp
 webtest.lpio.jp
 www.a8clk.amelia.ne.jp
-www.a8clk.kanagawa-zero.com
 www.ad.ehello.jp
 yoiku-sub.yoiku.support

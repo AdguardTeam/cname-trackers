@@ -6,6 +6,7 @@
     * frontend.prod.utiq-aws.net
     * frontend.test.utiq-aws.net
     * frontend6.prod.utiq-aws.net
+    * vmo2uk.frontend.prod.utiq-aws.net
 
 ## Cloaking domains
 
@@ -405,6 +406,7 @@
 | utiq.thueringen24.de | frontend.prod.utiq-aws.net |
 | utiq.tierfans.net | frontend.prod.utiq-aws.net |
 | utiq.tim.it | frontend.prod.utiq-aws.net |
+| utiq.tnrnews.es | frontend.prod.utiq-aws.net |
 | utiq.todoalicante.es | frontend.prod.utiq-aws.net |
 | utiq.topsante.com | frontend.prod.utiq-aws.net |
 | utiq.traum-deutung.de | frontend.prod.utiq-aws.net |
@@ -464,3 +466,4 @@
 | vfdemsp.mno.link | frontend.test.utiq-aws.net |
 | vfesmsp.mno.link | frontend.test.utiq-aws.net |
 | vfde-fixed6.mno.link | frontend6.prod.utiq-aws.net |
+| vmo2uk.mno.link | vmo2uk.frontend.prod.utiq-aws.net |

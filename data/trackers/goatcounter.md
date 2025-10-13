@@ -24,6 +24,7 @@
     * bkvn.goatcounter.com
     * blooper.goatcounter.com
     * blu3id-uk.goatcounter.com
+    * boringproxy-io.goatcounter.com
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
     * cassie.goatcounter.com
@@ -79,6 +80,7 @@
     * kai.goatcounter.com
     * kc-ie.goatcounter.com
     * kealper.goatcounter.com
+    * kevbar.goatcounter.com
     * koltyakov.goatcounter.com
     * konfou.goatcounter.com
     * ksmets.goatcounter.com
@@ -155,8 +157,6 @@
     * uygar-dot-sh.goatcounter.com
     * valentineus.goatcounter.com
     * vault.goatcounter.com
-    * vpro.goatcounter.com
-    * w0chp.goatcounter.com
     * wackomenace.goatcounter.com
     * whatacools.goatcounter.com
     * ybbond.goatcounter.com
@@ -190,6 +190,7 @@
 | stats.boredkevin.com | bkvn.goatcounter.com |
 | stats.hdyar.com | blooper.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
+| stats.boringproxy.io | boringproxy-io.goatcounter.com |
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
@@ -246,6 +247,7 @@
 | analytics.kubasta.net | kai.goatcounter.com |
 | stats.kc.ie | kc-ie.goatcounter.com |
 | count.kealper.com | kealper.goatcounter.com |
+| stats.kev.bar | kevbar.goatcounter.com |
 | www.stats.spflow.com | koltyakov.goatcounter.com |
 | stats.konfou.xyz | konfou.goatcounter.com |
 | stats.ksmets.be | ksmets.goatcounter.com |
@@ -326,8 +328,6 @@
 | stats.uygar.sh | uygar-dot-sh.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
-| count.vidsrc.pro | vpro.goatcounter.com |
-| stats.w0chp.radio | w0chp.goatcounter.com |
 | stats.wackomenace.co.uk | wackomenace.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |

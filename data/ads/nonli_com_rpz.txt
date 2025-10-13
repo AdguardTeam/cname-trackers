@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,6 +45,7 @@ l.africaradio.com CNAME .
 l.aisnenouvelle.fr CNAME .
 l.allocine.fr CNAME .
 l.alternatives-economiques.fr CNAME .
+l.applesfera.com CNAME .
 l.aufeminin.com CNAME .
 l.aujourdhui.fr CNAME .
 l.auto-moto.com CNAME .
@@ -86,11 +87,14 @@ l.e-sante.fr CNAME .
 l.easyvoyage.com CNAME .
 l.echoancenis.fr CNAME .
 l.echoduberry.fr CNAME .
+l.eclypsia.com CNAME .
+l.elleadore.com CNAME .
 l.en-vols.com CNAME .
 l.enfant.com CNAME .
 l.enfemenino.com CNAME .
 l.entrenous.fr CNAME .
 l.equidia.fr CNAME .
+l.espinof.com CNAME .
 l.estrepublicain.fr CNAME .
 l.euronews.com CNAME .
 l.familiscope.fr CNAME .
@@ -186,6 +190,8 @@ l.midilibre.fr CNAME .
 l.minhavida.com.br CNAME .
 l.modesettravaux.fr CNAME .
 l.monacomatin.mc CNAME .
+l.moselle.tv CNAME .
+l.motorpasion.com CNAME .
 l.motorpasion.com.mx CNAME .
 l.mouv.fr CNAME .
 l.moviepilot.de CNAME .
@@ -255,6 +261,7 @@ l.whatsupdoc-lemag.fr CNAME .
 l.xataka.com CNAME .
 l.xataka.com.br CNAME .
 l.xataka.com.mx CNAME .
+l.xatakamovil.com CNAME .
 l.zdnet.fr CNAME .
 mail10.h24.news CNAME .
 mail11.h24.news CNAME .

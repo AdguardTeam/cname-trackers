@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -786,7 +786,6 @@ data-5ab0f5b45f.noz.de CNAME .
 data-5acce9c32f.apps.iocnt.de CNAME .
 data-5ad053d069.kempten.de CNAME .
 data-5b771a2641.berliner-zeitung.de CNAME .
-data-5ba8f15a9d.apps.iocnt.de CNAME .
 data-5c0bd13fee.apps.iocnt.de CNAME .
 data-5c172edac2.prosieben.at CNAME .
 data-5c499c299f.apps.iocnt.de CNAME .
@@ -796,7 +795,6 @@ data-5c8ddfc1d2.selbst.de CNAME .
 data-5ca562c702.tt.com CNAME .
 data-5cc6bee9f2.tu-dortmund.de CNAME .
 data-5ce6ecf8d0.christkindlesmarkt.de CNAME .
-data-5ce6ecf8d0.nanu.news CNAME .
 data-5ce6ecf8d0.nbi.de CNAME .
 data-5ce6ecf8d0.nn.de CNAME .
 data-5ce6ecf8d0.nordbayern.de CNAME .
@@ -1140,7 +1138,6 @@ data-84a0f3455d.transfermarkt.pl CNAME .
 data-84a0f3455d.transfermarkt.pt CNAME .
 data-84a0f3455d.transfermarkt.ru CNAME .
 data-84a0f3455d.transfermarkt.us CNAME .
-data-84a0f3455d.transfermarkt.world CNAME .
 data-84bc7eaa45.kabelmail.de CNAME .
 data-84bc7eaa45.vodafone.de CNAME .
 data-84bc7eaa45.vodafonemail.de CNAME .
@@ -1187,6 +1184,7 @@ data-8abe5cc617.badische-zeitung.de CNAME .
 data-8abe5cc617.bz-ticket.de CNAME .
 data-8abe5cc617.bzflirt.de CNAME .
 data-8abe5cc617.bztrauer.de CNAME .
+data-8abe5cc617.derjobmarkt.de CNAME .
 data-8abe5cc617.fupa.net CNAME .
 data-8abe5cc617.handwerkjobs-bw.de CNAME .
 data-8abe5cc617.regiojob.de CNAME .
@@ -1635,7 +1633,6 @@ data-bd417eda50.bibliothek-gruenwald.de CNAME .
 data-bd87db2679.haus.de CNAME .
 data-bdeff1b2b2.firmenauto.de CNAME .
 data-be032ee936.christkindlesmarkt.de CNAME .
-data-be032ee936.nanu.news CNAME .
 data-be032ee936.nn.de CNAME .
 data-be032ee936.nordbayern.de CNAME .
 data-be23d0c7b8.apps.iocnt.de CNAME .
@@ -1724,6 +1721,7 @@ data-c94cf2beab.physiotherapeuten.de CNAME .
 data-c958fdb0ad.sk-one.de CNAME .
 data-ca858d8740.apps.iocnt.de CNAME .
 data-cadceaa3b3.tvheute.at CNAME .
+data-cb1273f1c3.alfelder-zeitung.de CNAME .
 data-cb12c9ce6a.superillu.de CNAME .
 data-cb2c174131.menshealth.de CNAME .
 data-cb62759f4c.rpr1.de CNAME .
@@ -2105,7 +2103,6 @@ data-f3bb5f7732.fraenkische-rezepte.de CNAME .
 data-f3bb5f7732.infranken.de CNAME .
 data-f3e9921e92.speedparty.at CNAME .
 data-f3e9f6e256.computer-spezial.de CNAME .
-data-f3ec5391f5.tv14.de CNAME .
 data-f3f7a2af0e.spox.com CNAME .
 data-f3fe376ba8.allgaeuer-zeitung.de CNAME .
 data-f42d3c8446.apps.iocnt.de CNAME .

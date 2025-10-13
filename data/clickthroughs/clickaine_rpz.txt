@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1759737609113        ; Serial
+           1760342408746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,7 +59,6 @@ ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
 click.alexabyte.site CNAME .
 click.freepopnews.skin CNAME .
-clickc4n.pornharlot.com CNAME .
 clickc4n.pornharlot.net CNAME .
 clk.slutcam.org CNAME .
 clka.bondagevalley.cc CNAME .
@@ -122,6 +121,7 @@ web5603.brandnewapp.pro CNAME .
 wp.brandnewapp.pro CNAME .
 www.bokep.su CNAME .
 www.brandnewapp.pro CNAME .
+www.daws4-3.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .

@@ -41,7 +41,6 @@ refer.dna.ancestry.com
 refer.dnj.com
 refer.fivestars.com
 refer.foodkick.com
-refer.freshly.com
 refer.fuzebox.com
 refer.gevalia.com
 refer.gotoassist.com
@@ -123,11 +122,12 @@ acq.discovercard.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em2279.referral.quickbooks.co.uk
+em225.codecademy.com
+em4504.mail.raf.xfinity.com
+em5231.mail.propertyperks.xfinity.com
 em7147.love.suncoastcreditunion.com
-em767.forgetrust.com
-em7952.dailypay.com
 em8561.go2bank.com
+em8642.notifications.acorns.com
 emxxxx.rent.app
 externalreferral.freshworks.com
 friend.discover.com
@@ -155,7 +155,6 @@ q.share.qvcemail.com
 recommander.quickbooks.ca
 refer-au.princess.com
 refer-photo.cvs.com
-refer-staging.freshly.com
 refer-us.uniqlo.com
 refer.1099online.com
 refer.2-10.com
@@ -281,6 +280,7 @@ refer.jewelersmutual.com
 refer.jiffynewark.com
 refer.joann.com
 refer.join1440.com
+refer.joinform.com
 refer.jonesservices.com
 refer.juicepress.com
 refer.jusbyjulie.com
@@ -547,6 +547,7 @@ share.earlybirdbooks.com
 share.elpasotimes.com
 share.elysiumhealth.com
 share.empathywines.com
+share.empireaccess.com
 share.ent.com
 share.enterprisenews.com
 share.enzocustom.com
@@ -788,15 +789,14 @@ www.rob.extoleu.com
 www.rob2.extoleu.com
 www.styleitforwardreward.com
 em1476.princesscruises.com
-em225.codecademy.com
+em2279.referral.quickbooks.co.uk
 em2287.theory.com
 em4367.raf-studentloans.discover.com
-em4504.mail.raf.xfinity.com
 em5230.rewards.dailypay.com
-em5231.mail.propertyperks.xfinity.com
 em5807.turbotax.refer.intuit.com
+em767.forgetrust.com
+em7952.dailypay.com
 em8031.soundcloud.com
-em8642.notifications.acorns.com
 em8928.em.petco.com
 em924.refer.starbucks.com
 em9347.shareus.viktor-rolf.com

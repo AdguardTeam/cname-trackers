@@ -775,7 +775,6 @@ data-5ab0f5b45f.noz.de
 data-5acce9c32f.apps.iocnt.de
 data-5ad053d069.kempten.de
 data-5b771a2641.berliner-zeitung.de
-data-5ba8f15a9d.apps.iocnt.de
 data-5c0bd13fee.apps.iocnt.de
 data-5c172edac2.prosieben.at
 data-5c499c299f.apps.iocnt.de
@@ -785,7 +784,6 @@ data-5c8ddfc1d2.selbst.de
 data-5ca562c702.tt.com
 data-5cc6bee9f2.tu-dortmund.de
 data-5ce6ecf8d0.christkindlesmarkt.de
-data-5ce6ecf8d0.nanu.news
 data-5ce6ecf8d0.nbi.de
 data-5ce6ecf8d0.nn.de
 data-5ce6ecf8d0.nordbayern.de
@@ -1129,7 +1127,6 @@ data-84a0f3455d.transfermarkt.pl
 data-84a0f3455d.transfermarkt.pt
 data-84a0f3455d.transfermarkt.ru
 data-84a0f3455d.transfermarkt.us
-data-84a0f3455d.transfermarkt.world
 data-84bc7eaa45.kabelmail.de
 data-84bc7eaa45.vodafone.de
 data-84bc7eaa45.vodafonemail.de
@@ -1176,6 +1173,7 @@ data-8abe5cc617.badische-zeitung.de
 data-8abe5cc617.bz-ticket.de
 data-8abe5cc617.bzflirt.de
 data-8abe5cc617.bztrauer.de
+data-8abe5cc617.derjobmarkt.de
 data-8abe5cc617.fupa.net
 data-8abe5cc617.handwerkjobs-bw.de
 data-8abe5cc617.regiojob.de
@@ -1624,7 +1622,6 @@ data-bd417eda50.bibliothek-gruenwald.de
 data-bd87db2679.haus.de
 data-bdeff1b2b2.firmenauto.de
 data-be032ee936.christkindlesmarkt.de
-data-be032ee936.nanu.news
 data-be032ee936.nn.de
 data-be032ee936.nordbayern.de
 data-be23d0c7b8.apps.iocnt.de
@@ -1713,6 +1710,7 @@ data-c94cf2beab.physiotherapeuten.de
 data-c958fdb0ad.sk-one.de
 data-ca858d8740.apps.iocnt.de
 data-cadceaa3b3.tvheute.at
+data-cb1273f1c3.alfelder-zeitung.de
 data-cb12c9ce6a.superillu.de
 data-cb2c174131.menshealth.de
 data-cb62759f4c.rpr1.de
@@ -2094,7 +2092,6 @@ data-f3bb5f7732.fraenkische-rezepte.de
 data-f3bb5f7732.infranken.de
 data-f3e9921e92.speedparty.at
 data-f3e9f6e256.computer-spezial.de
-data-f3ec5391f5.tv14.de
 data-f3f7a2af0e.spox.com
 data-f3fe376ba8.allgaeuer-zeitung.de
 data-f42d3c8446.apps.iocnt.de
