@@ -164,7 +164,6 @@ affiliate.fotopasti-bunaty.cz
 affiliate.geoweb.easy.cz
 affiliate.golfplan.org
 affiliate.growmarket.cz
-affiliate.hamham.cz
 affiliate.hanibal.cz
 affiliate.herbadent.cz
 affiliate.hokr.eu
@@ -273,7 +272,6 @@ affiliateold.firma20.cz
 affiliates.adinternet.cz
 affilo.crosta.cz
 affilo.crosta.sk
-affilo.damoda.cz
 affilo.janie.cz
 affilo.lingerio.cz
 affilo.vivaboty.cz
@@ -696,6 +694,7 @@ partner.prosperity-vision.com
 partner.prosperk.cz
 partner.psidetektiv.cz
 partner.pureharmony.cz
+partner.resinstudio.cz
 partner.respelen.cz
 partner.root.cz
 partner.rozhladna.sk

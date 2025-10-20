@@ -184,6 +184,7 @@ l.motorpasion.com
 l.motorpasion.com.mx
 l.mouv.fr
 l.moviepilot.de
+l.neonmag.fr
 l.netmums.com
 l.nextplz.fr
 l.nicematin.com
@@ -197,6 +198,7 @@ l.onzemondial.com
 l.ouest-france.fr
 l.ouifm.fr
 l.ozap.com
+l.paris-jetequitte.com
 l.paris-normandie.fr
 l.paris-turf.com
 l.paroledemamans.com

@@ -123,7 +123,6 @@
 ||tk.interflora.es^
 ||tk.interflora.fr^
 ||tk.interflora.it^
-||tk.jeux.loro.ch^
 ||tk.jim-joe.fr^
 ||tk.kidsaround.com^
 ||tk.kitchendiet.fr^

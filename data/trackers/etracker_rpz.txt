@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -130,10 +130,14 @@ lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
 meter.rhinobag.de CNAME .
+metrics.bauwerk.de CNAME .
+metrics.cannamedical.com CNAME .
 metrics.einfachiso.de CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.greatvita.de CNAME .
 metrics.leimer.de CNAME .
+metrics.meineversicherungswelt.de CNAME .
+metrics.moderade.com CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.treudelberg-resort.com CNAME .
 metrics.ultra-med.de CNAME .
@@ -155,8 +159,10 @@ sst.grasrezept-vergleich.de CNAME .
 stat.beetfreunde.de CNAME .
 statistics.bergland.de CNAME .
 statistics.finkhof.de CNAME .
+statistics.firmengruppe-burk.de CNAME .
 statistics.fruchtbarewelt.de CNAME .
 statistics.hagnauer.org CNAME .
+statistics.xpedite-dx.com CNAME .
 stats.die-bibel.de CNAME .
 stats.eliveshop.de CNAME .
 stats.folienmarkt.de CNAME .
@@ -199,6 +205,7 @@ tracking.360products.de CNAME .
 tracking.anthonys.at CNAME .
 tracking.chio.hu CNAME .
 tracking.gruener-soelden.com CNAME .
+tracking.mediengewerk.de CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
 tracking.terrassenhof.de CNAME .
 tracking.walserart.at CNAME .
@@ -243,6 +250,7 @@ webcontr.crazy-heels.com CNAME .
 webcontr.distrebution.com CNAME .
 webcontr.domondo.fr CNAME .
 webcontr.domondo.it CNAME .
+webcontr.epig-media.de CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.genius.tv CNAME .
 webcontr.holzgestein.com CNAME .

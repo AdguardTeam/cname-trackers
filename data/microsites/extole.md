@@ -45,7 +45,6 @@
     * hannaandersson.extole.com
     * harimari.extole.com
     * hattiesburgamerican.extole.com
-    * healthypaws.extole.com
     * hostgator.extole.com
     * indochino.extole.com
     * integrativenutrition-ssl.extole.com
@@ -124,6 +123,7 @@
     * adventurecu.extole.io
     * affinityfcu.extole.io
     * ahs-proconnect.extole.io
+    * alaskaair.extole.io
     * algaecal.extole.io
     * allenedmonds.extole.io
     * allincu.extole.io
@@ -284,6 +284,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
@@ -303,7 +304,6 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * gpsinsight.extole.io
     * granitegaragefloors.extole.io
@@ -337,7 +337,6 @@
     * indeed.extole.io
     * inkpixi.extole.io
     * inmotionhosting.extole.io
-    * inspire-clean-energy.extole.io
     * installamerica.extole.io
     * iqfiber.extole.io
     * ird.extole.io
@@ -478,8 +477,8 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
+    * resume-now.extole.io
     * reveneer.extole.io
     * revzilla.extole.io
     * riley-rose.extole.io
@@ -638,6 +637,7 @@
 | share.affinityfcu.org | affinityfcu.extole.io |
 | share.ahs.com | ahs-proconnect.extole.io |
 | refer.ahsfriends.com | ahs.extole.com |
+| shareflightpass.alaskaair.com | alaskaair.extole.io |
 | share.algaecal.com | algaecal.extole.io |
 | refer.allenedmonds.com | allenedmonds.extole.io |
 | share.allincu.com | allincu.extole.io |
@@ -872,6 +872,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
 | internalreferral.freshworks.com | freshworks.extole.io |
@@ -959,7 +960,6 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -980,7 +980,6 @@
 | share.havenwellwithin.com | havenwellwithin.extole.io |
 | referaprovider.headway.co | headway.extole.io |
 | share.findheadway.com | headway.extole.io |
-| refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | refer.henribendel.com | henri-bendel.extole.io |
 | share.heydayskincare.com | heydayskincare.extole.io |
 | share.heydude.com | heydude.extole.io |
@@ -1005,7 +1004,6 @@
 | share.indochino.com | indochino.extole.com |
 | share.inkpixi.com | inkpixi.extole.io |
 | refer.inmotionhosting.com | inmotionhosting.extole.io |
-| share.inspirecleanenergy.com | inspire-clean-energy.extole.io |
 | share.installamerica.com | installamerica.extole.io |
 | refer.integrativenutrition.com | integrativenutrition-ssl.extole.com |
 | refer.accountants.intuit.com | intuit-accountants.extole.com |
@@ -1214,8 +1212,8 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
+| refer.resume-now.com | resume-now.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.revzilla.com | revzilla.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
@@ -1415,7 +1413,6 @@
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
 | share.wsecu.org | wsecu.extole.io |
-| em4504.mail.raf.xfinity.com | xfinity.em.extole.io |
 | em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |

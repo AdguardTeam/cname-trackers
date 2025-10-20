@@ -41,6 +41,7 @@ ade.hirose-fx.jp
 ade.jfx.co.jp
 adebis-52667624.wowma.jp
 adebis-bkan.vbest.jp
+adebis-catstreet.trunk-hotel.com
 adebis-cname.jobmall.jp
 adebis-dojyo.dojyo.jp
 adebis-morijuku.morijuku.com
@@ -266,7 +267,6 @@ ebis.randstad.co.jp
 ebis.re-shop.jp
 ebis.rozetta.jp
 ebis.s-bisco.jp
-ebis.samurai271.com
 ebis.sbismile.co.jp
 ebis.seibu-k.co.jp
 ebis.sekisuihouse.co.jp
@@ -315,6 +315,7 @@ isebis.yutoriform.com
 itp.phoebebeautyup.com
 itpebis03.deep2031.com
 itpebis03.recella3d.com
+kataribe.kataribecms.com
 lmpadebis.gala-series.com
 marketing.biz.mynavi.jp
 marketing.zwei.com

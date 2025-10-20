@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ dashboard.alcancemg.com CNAME .
 dashboard.andbeyond.media CNAME .
 dashboard.boostads.ru CNAME .
 dashboard.digita.media CNAME .
+dashboard.entravision.com CNAME .
 dashboard.grapemedia.cz CNAME .
 dashboard.viewtraff.com CNAME .
 dashboard.xqubemedia.com CNAME .

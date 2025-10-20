@@ -22,6 +22,7 @@
     * beyondthesprawl.goatcounter.com
     * bilderbrief.goatcounter.com
     * bkvn.goatcounter.com
+    * blog-lewsion.goatcounter.com
     * blooper.goatcounter.com
     * blu3id-uk.goatcounter.com
     * boringproxy-io.goatcounter.com
@@ -31,7 +32,6 @@
     * celerry.goatcounter.com
     * certidiritti.goatcounter.com
     * cloudnativebitcoin.goatcounter.com
-    * code_dccouncil_us.goatcounter.com
     * coderscompass.goatcounter.com
     * codes-baltimorecity-gov.goatcounter.com
     * codinggrace.goatcounter.com
@@ -51,6 +51,7 @@
     * enamya.goatcounter.com
     * eventgeek.goatcounter.com
     * fieald.goatcounter.com
+    * fiquipedia.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
     * gcls001239028.goatcounter.com
@@ -87,6 +88,7 @@
     * ksr.goatcounter.com
     * kwanok.goatcounter.com
     * landing-forest-school.goatcounter.com
+    * law-badriver-nsn-gov.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
     * law-sanipueblo-org.goatcounter.com
@@ -123,6 +125,7 @@
     * r18.goatcounter.com
     * riccardomurachelli.goatcounter.com
     * riggraz.goatcounter.com
+    * risanne.goatcounter.com
     * rocketgoboom.goatcounter.com
     * ruzickap-github-io.goatcounter.com
     * ryanch.goatcounter.com
@@ -157,6 +160,7 @@
     * uygar-dot-sh.goatcounter.com
     * valentineus.goatcounter.com
     * vault.goatcounter.com
+    * vpro.goatcounter.com
     * wackomenace.goatcounter.com
     * whatacools.goatcounter.com
     * ybbond.goatcounter.com
@@ -188,6 +192,7 @@
 | stats.beyondthesprawl.com | beyondthesprawl.goatcounter.com |
 | stats.bilderbrief.de | bilderbrief.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
+| stats-blog.lewsion.com | blog-lewsion.goatcounter.com |
 | stats.hdyar.com | blooper.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
 | stats.boringproxy.io | boringproxy-io.goatcounter.com |
@@ -197,7 +202,6 @@
 | stats.celerry.com | celerry.goatcounter.com |
 | stats.certidiritti.org | certidiritti.goatcounter.com |
 | stats.cloudnativebitcoin.org | cloudnativebitcoin.goatcounter.com |
-| analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | stats.coderscompass.org | coderscompass.goatcounter.com |
 | analytics.codes.baltimorecity.gov | codes-baltimorecity-gov.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
@@ -217,6 +221,7 @@
 | gtcntr.enamya.me | enamya.goatcounter.com |
 | goatcounter.eventgeek.ie | eventgeek.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
+| analytics.fiquipedia.es | fiquipedia.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
 | analytics.leespace.co | gcls001239028.goatcounter.com |
@@ -254,6 +259,7 @@
 | stats.ksr.onl | ksr.goatcounter.com |
 | stats.kwanok.me | kwanok.goatcounter.com |
 | stats.forest-school.am | landing-forest-school.goatcounter.com |
+| analytics.law.badriver-nsn.gov | law-badriver-nsn-gov.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | cityofsanmateo.analytics.open.law | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
@@ -294,6 +300,7 @@
 | stats.r18.dev | r18.goatcounter.com |
 | stats.riccardomurachelli.it | riccardomurachelli.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
+| stats.risanne.nl | risanne.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
 | stats-ruzickap-github-io.ruzicka.dev | ruzickap-github-io.goatcounter.com |
 | stats.ryanchmelir.com | ryanch.goatcounter.com |
@@ -328,6 +335,7 @@
 | stats.uygar.sh | uygar-dot-sh.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
+| count.vidsrc.pro | vpro.goatcounter.com |
 | stats.wackomenace.co.uk | wackomenace.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |

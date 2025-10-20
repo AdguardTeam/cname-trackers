@@ -41,6 +41,7 @@ tr.animation.micromania.fr
 tr.animations.bfmtv.com
 tr.animations.rmcbfm.com
 tr.apac.coms.moethennessy.com
+tr.apac.legal.moethennessy.com
 tr.apou032.espmp-agfr.net
 tr.asp0.espmp-agfr.net
 tr.asp0010.espmp-nifr.net
@@ -182,6 +183,7 @@ tr.business-deal.nl
 tr.business-quotes.co.uk
 tr.business.offerte-companeo.it
 tr.businessdev.younited-credit.es
+tr.ca-investstore.fr
 tr.cacf-acq.ipsos-surveys.com
 tr.cacf.ipsos-surveys.com
 tr.campaign.colossusbets.com
@@ -231,6 +233,7 @@ tr.com-clients.sfr.fr
 tr.com-parc.sfr.fr
 tr.com-red.sfr.fr
 tr.com-web.sfr.fr
+tr.com.neoliane.fr
 tr.com.santiane.fr
 tr.com.sfr.fr
 tr.combca.fr
@@ -294,7 +297,6 @@ tr.courrier.larepubliquedespyrenees.fr
 tr.courrier.sudouest.fr
 tr.crc.henner.com
 tr.creative.hennessy.com
-tr.credito.universo.pt
 tr.crm.intersportbypitte.com
 tr.crtl.espmp-aufr.net
 tr.customer-solutions.np6.com
@@ -378,7 +380,6 @@ tr.email.harmonie-mutuelle.fr
 tr.email.janedeboy.com
 tr.email.kinvent.com
 tr.email.medicalexpo.com
-tr.email.mnpaf.fr
 tr.email.nauticexpo.com
 tr.email.pointfranchise.co.uk
 tr.email.renaultbank.fr
@@ -856,6 +857,7 @@ tr.news.latribunebordeaux.fr
 tr.news.leclubtravel.fr
 tr.news.lemans.org
 tr.news.lentillesmoinscheres.com
+tr.news.lentimenocare.it
 tr.news.libranoo.com
 tr.news.linxea.com
 tr.news.lisez.com
@@ -984,7 +986,6 @@ tr.offre-btob.fr
 tr.offre-companeo.com
 tr.offre.devisdirect.com
 tr.offres-professionnelles.fr
-tr.offres.ap-regie.fr
 tr.offres.bfmtv.com
 tr.offresbtoc.engie.fr
 tr.offrevip.floa.fr

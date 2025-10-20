@@ -55,6 +55,7 @@
 ||kiki.rireetchansons.fr^
 ||lem.nouvelobs.com^
 ||leo.goplay.be^
+||leo.play.tv^
 ||mefo1.zdf.de^
 ||mkt.usz.ch^
 ||montpalatin.handicap.fr^

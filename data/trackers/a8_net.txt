@@ -242,6 +242,7 @@
 ||a8.pcwrap.com^
 ||a8.personalfile.tech^
 ||a8.petfood.mtflat.co.jp^
+||a8.pikaichi.co.jp^
 ||a8.pla-cole.wedding^
 ||a8.pocket-m.jp^
 ||a8.polyglots.net^
@@ -884,7 +885,6 @@
 ||a8cv.diyfactory.jp^
 ||a8cv.doctor-agent.com^
 ||a8cv.doctoryotsu.com^
-||a8cv.dodopep-kobe.com^
 ||a8cv.dokoyorimo.com^
 ||a8cv.dokugaku-dx.com^
 ||a8cv.downjacket.pro^
@@ -916,7 +916,6 @@
 ||a8cv.entre-salon.com^
 ||a8cv.entry.renet.jp^
 ||a8cv.est-online.com^
-||a8cv.euria.store^
 ||a8cv.exrg-premium.shop^
 ||a8cv.eys-musicschool.com^
 ||a8cv.f.012grp.co.jp^
@@ -1121,6 +1120,7 @@
 ||a8cv.omakase-cyber-mimamori.net^
 ||a8cv.omni7.jp^
 ||a8cv.omobic.com^
+||a8cv.omtogether.jp^
 ||a8cv.one-netbook.jp^
 ||a8cv.onebride.jp^
 ||a8cv.online-mega.com^
@@ -1141,7 +1141,6 @@
 ||a8cv.palms-gym.com^
 ||a8cv.peraichiapp.com^
 ||a8cv.pf.classicmusic.tokyo^
-||a8cv.phonim.com^
 ||a8cv.photo.concorde-corp.jp^
 ||a8cv.photojoy.jp^
 ||a8cv.physiqueframe.com^

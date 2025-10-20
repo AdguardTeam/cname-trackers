@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1183,7 +1183,6 @@ www.06969451.xyz CNAME .
 www.07327127.xyz CNAME .
 www.07443488.xyz CNAME .
 www.08256602.xyz CNAME .
-www.08585359.xyz CNAME .
 www.09284291.xyz CNAME .
 www.0ul1wlo58s-vu69us-r1u.xyz CNAME .
 www.11006451.xyz CNAME .
@@ -1191,21 +1190,13 @@ www.13554359.xyz CNAME .
 www.14170678.xyz CNAME .
 www.14381834.xyz CNAME .
 www.16211973.xyz CNAME .
-www.16239749.xyz CNAME .
-www.17022993.xyz CNAME .
-www.17088440.xyz CNAME .
 www.17199874.xyz CNAME .
 www.19700902.xyz CNAME .
-www.20382207.xyz CNAME .
-www.21148843.xyz CNAME .
-www.22157064.xyz CNAME .
 www.27714296.xyz CNAME .
 www.29662166.xyz CNAME .
 www.2wu0m0ms098w7148.xyz CNAME .
 www.33109166.xyz CNAME .
-www.34475780.xyz CNAME .
 www.35452888.xyz CNAME .
-www.37066957.xyz CNAME .
 www.37243211.xyz CNAME .
 www.37267612.xyz CNAME .
 www.38167473.xyz CNAME .
@@ -1218,13 +1209,9 @@ www.46222568.xyz CNAME .
 www.47206262.xyz CNAME .
 www.47235645.xyz CNAME .
 www.47415889.xyz CNAME .
-www.48304789.xyz CNAME .
-www.48654012.xyz CNAME .
-www.49706204.xyz CNAME .
 www.49709796.xyz CNAME .
 www.4tr3sopq592o7svp1q6mn3.xyz CNAME .
 www.4tuswl47353p4wl8lsk.xyz CNAME .
-www.50330472.xyz CNAME .
 www.50873vmk3263-7sk.xyz CNAME .
 www.53469662.xyz CNAME .
 www.57473094.xyz CNAME .
@@ -1235,7 +1222,6 @@ www.62241240.xyz CNAME .
 www.62842068.xyz CNAME .
 www.64786087.xyz CNAME .
 www.65122038.xyz CNAME .
-www.65894140.xyz CNAME .
 www.661kkm40uu6srww1mvso.xyz CNAME .
 www.69681858.xyz CNAME .
 www.69799884.xyz CNAME .
@@ -1245,7 +1231,6 @@ www.74099753.xyz CNAME .
 www.74759411.xyz CNAME .
 www.75114620.xyz CNAME .
 www.75264920.xyz CNAME .
-www.75485667.xyz CNAME .
 www.78161013.xyz CNAME .
 www.78554661.xyz CNAME .
 www.78587924.xyz CNAME .

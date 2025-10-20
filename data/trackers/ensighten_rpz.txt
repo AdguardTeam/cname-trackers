@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,6 +140,7 @@ cmp.dieteren.be CNAME .
 cmp.dieterencenters.be CNAME .
 cmp.dieterengroup.com CNAME .
 cmp.dieterenmobilitycompany.be CNAME .
+cmp.mamobilitezen.be CNAME .
 cmp.mespneushiver.be CNAME .
 cmp.microlino.be CNAME .
 cmp.mijnwinterbanden.be CNAME .
@@ -284,6 +285,7 @@ nexus.tdinsurance.com CNAME .
 nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .
 ntms-test.coles.com.au CNAME .
+ntms-test.creditcards.money.qantas.com CNAME .
 ntms-test.koganmoney.com.au CNAME .
 ntms.coles.com.au CNAME .
 ntms.creditcards.money.qantas.com CNAME .
@@ -365,7 +367,6 @@ t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
 tagman.crystalsummer.co.uk CNAME .
 tagman.guoman.com CNAME .
-tagman.silversingles.com CNAME .
 tagman.surfstitch.com CNAME .
 tagman.thebodyshop-usa.com CNAME .
 tagman.thistle.com CNAME .

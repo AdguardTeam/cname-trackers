@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ td.harpersbazaar.com CNAME .
 td.housebeautiful.com CNAME .
 td.menshealth.com CNAME .
 td.milkjamcreamery.com CNAME .
+td.myrthada.com CNAME .
 td.oprahdaily.com CNAME .
 td.popularmechanics.com CNAME .
 td.prevention.com CNAME .

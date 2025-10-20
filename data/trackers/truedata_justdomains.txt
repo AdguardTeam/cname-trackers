@@ -15,6 +15,7 @@ td.harpersbazaar.com
 td.housebeautiful.com
 td.menshealth.com
 td.milkjamcreamery.com
+td.myrthada.com
 td.oprahdaily.com
 td.popularmechanics.com
 td.prevention.com

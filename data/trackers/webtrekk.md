@@ -44,6 +44,7 @@
     * 117490221505998.wt-eu02.net
     * 125611812418194.wt-eu02.net
     * 135786637466873.wt-eu02.net
+    * 144997442123603.wt-eu02.net
     * 145003564476173.wt-eu02.net
     * 148749046266446.wt-eu02.net
     * 151836596491843.wt-eu02.net
@@ -64,7 +65,6 @@
     * 243341177383246.wt-eu02.net
     * 261826549347986.wt-eu02.net
     * 266905402333512.wt-eu02.net
-    * 267062407301027.wt-eu02.net
     * 274892701840429.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
@@ -130,7 +130,6 @@
     * 602849465568863.wt-eu02.net
     * 625009642816718.wt-eu02.net
     * 637394170883823.wt-eu02.net
-    * 637511691483562.wt-eu02.net
     * 639871942536313.wt-eu02.net
     * 641523609775483.wt-eu02.net
     * 642216731269756.wt-eu02.net
@@ -143,7 +142,6 @@
     * 669798445377675.wt-eu02.net
     * 671130969507772.wt-eu02.net
     * 693153204099063.wt-eu02.net
-    * 693380235006292.wt-eu02.net
     * 697968943875320.wt-eu02.net
     * 709031981525642.wt-eu02.net
     * 709114798683263.wt-eu02.net
@@ -264,6 +262,7 @@
 | mit.deutschewealth.com | 117490221505998.wt-eu02.net |
 | intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
 | web.news.bottegaverde.com | 135786637466873.wt-eu02.net |
+| web.email.bricocenter.it | 144997442123603.wt-eu02.net |
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | web.sensilab.com | 151836596491843.wt-eu02.net |
@@ -301,8 +300,6 @@
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | mit.postbank.de | 261826549347986.wt-eu02.net |
 | web.mapp.whiteaway.com | 266905402333512.wt-eu02.net |
-| web.b2bimperialfashion.com | 267062407301027.wt-eu02.net |
-| web.news.imperialfashion.com | 267062407301027.wt-eu02.net |
 | web.e.obayaty.com | 274892701840429.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
@@ -402,15 +399,12 @@
 | web.email.farrow-ball.com | 602849465568863.wt-eu02.net |
 | web.e.aldermore.co.uk | 625009642816718.wt-eu02.net |
 | wbtrkk.teufelaudio.at | 637394170883823.wt-eu02.net |
-| web.b2bpleasefashion.com | 637511691483562.wt-eu02.net |
-| web.news.pleasefashion.com | 637511691483562.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
 | mapp.peacocks.co.uk | 642216731269756.wt-eu02.net |
 | data.news.juventus.com | 645617463084043.wt-eu02.net |
 | info.deltapublishing.co.uk | 654069251471705.wt-eu02.net |
 | web.slimjoy.com | 657801072187647.wt-eu02.net |
-| web.slimjoy.cz | 657801072187647.wt-eu02.net |
 | web.slimjoy.es | 657801072187647.wt-eu02.net |
 | web.slimjoy.org | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |
@@ -420,7 +414,6 @@
 | web.news.thebridge.it | 669798445377675.wt-eu02.net |
 | mapp.jysk.nl | 671130969507772.wt-eu02.net |
 | web.news.kasanova.com | 693153204099063.wt-eu02.net |
-| web.news.dixiefashion.com | 693380235006292.wt-eu02.net |
 | mit.dslbank.de | 697968943875320.wt-eu02.net |
 | info.klett-sprachen.de | 709031981525642.wt-eu02.net |
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |

@@ -123,6 +123,7 @@
     * romand-static.aquaplatform.com
     * sacomm-console.aquaplatform.com
     * sacomm-delivery.aquaplatform.com
+    * sacomm-static.aquaplatform.com
     * sonicplug-delivery.aquaplatform.com
     * sonicplug-static.aquaplatform.com
     * t101-console.aquaplatform.com
@@ -202,7 +203,9 @@
 | www.api.metrike.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
+| console.engineeringnews.co.za | creamer-console.aquaplatform.com |
 | console.miningweekly.com | creamer-console.aquaplatform.com |
+| console.polity.org.za | creamer-console.aquaplatform.com |
 | servedby.engineeringnews.co.za | creamer-delivery.aquaplatform.com |
 | servedby.miningweekly.com | creamer-delivery.aquaplatform.com |
 | servedby.polity.org.za | creamer-delivery.aquaplatform.com |
@@ -421,6 +424,7 @@
 | console.sacommunications.com | sacomm-console.aquaplatform.com |
 | servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
 | www.servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
+| images.sacommunications.com | sacomm-static.aquaplatform.com |
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | www.adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |

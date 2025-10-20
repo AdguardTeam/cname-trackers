@@ -170,6 +170,7 @@
 3225747.notify6.com
 3227697.notify6.com
 3230814.notifysrv.com
+3231172.notify6.com
 3231172.notifysrv.com
 3232032.notifysrv.com
 3232836.notify6.com
@@ -353,6 +354,7 @@
 3373381.notify6.com
 3376753.notifysrv.com
 3382743.notify6.com
+3382743.notifysrv.com
 3382771.notifysrv.com
 3382805.notifysrv.com
 3383139.notifysrv.com
@@ -384,7 +386,6 @@
 3405143.notifysrv.com
 3405151.notifysrv.com
 3405163.notifysrv.com
-3405213.notifysrv.com
 3405751.notify6.com
 3408133.notifysrv.com
 3408773.notify6.com
@@ -527,7 +528,6 @@
 3509923.notifysrv.com
 3510151.notifysrv.com
 3512011.notifysrv.com
-3512159.notifysrv.com
 3512165.notifysrv.com
 3512423.notifysrv.com
 3513563.notifysrv.com
@@ -551,7 +551,7 @@
 3541095.notifysrv.com
 3542163.notifysrv.com
 3544557.notify6.com
-3549573.notifysrv.com
+3553611.notify6.com
 3556651.notifysrv.com
 3557559.notify6.com
 3562657.notifysrv.com
@@ -570,6 +570,7 @@
 3570033.notifysrv.com
 3570673.notify6.com
 3570727.notifysrv.com
+3570737.notifysrv.com
 3570741.notifysrv.com
 3570789.notifysrv.com
 3572273.notify6.com
@@ -593,7 +594,6 @@
 3578233.notify6.com
 3578235.notify6.com
 3578245.notify6.com
-3578253.notifysrv.com
 3584069.notifysrv.com
 3584913.notifysrv.com
 3587723.notifysrv.com
@@ -612,7 +612,6 @@
 3588589.notify6.com
 3588591.notifysrv.com
 3588593.notifysrv.com
-3588597.notify6.com
 3588597.notifysrv.com
 3588599.notifysrv.com
 3589779.notify6.com
@@ -665,7 +664,6 @@
 3653689.notify6.com
 3653689.notifysrv.com
 3654845.notify6.com
-3658633.notifysrv.com
 3661193.notify6.com
 3662555.notifysrv.com
 3662557.notifysrv.com
@@ -691,6 +689,7 @@
 3670119.notifysrv.com
 3670315.notify6.com
 3672243.notifysrv.com
+3682181.notify6.com
 3682345.notifysrv.com
 3684237.notify6.com
 3701725.notifysrv.com
@@ -966,7 +965,6 @@
 4197720.notify6.com
 4197730.notify6.com
 4211854.notify6.com
-4212642.notify6.com
 4212982.notify6.com
 4213112.notify6.com
 4214522.notify6.com
@@ -1133,21 +1131,18 @@
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
 a.8jfbt5va3r.com
-a.adsession.com
 a.advantageclicks.net
 a.advertrek.com
 a.allureanews.com
 a.b2bstars.com
 a.b7q9v8z.com
-a.brilmaver.com
 a.cant3am.com
 a.crme7srv.com
-a.etology.com
 a.eunow4u.com
 a.gatherstar.io
-a.golhofer.com
 a.hkartg.com
 a.huklop.com
+a.humnert.com
 a.ku34bh9la09.com
 a.ma3ion.com
 a.mx.notifysrv.com
@@ -1234,6 +1229,7 @@ kwi18ah9r60yjb70.notify6.com
 law.notifysrv.com
 m.hue11.com
 m.hue2b.com
+m.optidigital.com
 mail17.notifysrv.com
 main.exdynsrv.com
 main.exoclick.com
@@ -1335,6 +1331,8 @@ s.dsordy.com
 s.dsp7c5.com
 s.dspbw7.com
 s.dspijb.com
+s.dspzhi.com
+s.dsq93g.com
 s.dsqcjk.com
 s.dss1bi.com
 s.dsskyw.com
@@ -1628,9 +1626,12 @@ www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
 a.18ramp.com
+a.adsession.com
 a.asvsm.com
 a.bizonads-ssp.com
+a.brilmaver.com
+a.etology.com
+a.golhofer.com
 a.rocoads.net
 a.santabrowser.com
 a.traffic-gold.com
-m.optidigital.com

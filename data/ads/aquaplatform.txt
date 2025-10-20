@@ -88,6 +88,7 @@
 ||console.cincinnatimagazine.com^
 ||console.cricketworld.com^
 ||console.datateam.co.uk^
+||console.engineeringnews.co.za^
 ||console.everythingcolorado.com^
 ||console.faithlifeads.com^
 ||console.falconstudios.com^
@@ -105,6 +106,7 @@
 ||console.miningweekly.com^
 ||console.myadsmyanmar.com^
 ||console.pinktriangle.ca^
+||console.polity.org.za^
 ||console.postandparcel.info^
 ||console.revive-adserver.net^
 ||console.sacommunications.com^
@@ -127,6 +129,7 @@
 ||images.jacilla.no^
 ||images.mannenmedia.nl^
 ||images.proxena-adserver.com^
+||images.sacommunications.com^
 ||images.swiss-equestrian.ch^
 ||images.worldofshowjumping.com^
 ||images.xtraa.org^

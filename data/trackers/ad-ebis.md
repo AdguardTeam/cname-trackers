@@ -88,6 +88,7 @@
     * 3735525f-znrwzwlu.cname.ebis.ne.jp
     * 37fe71c4-kfga9uze.cname.ebis.ne.jp
     * 38b9eeba-6pusefyf.cname.ebis.ne.jp
+    * 39ebd0e8-gy66xg6s.cname.ebis.ne.jp
     * 3a3d0355-kkto8pe9.cname.ebis.ne.jp
     * 3aa5341b-y4rfthkp.cname.ebis.ne.jp
     * 3b0f7041-5crkmmew.cname.ebis.ne.jp
@@ -133,7 +134,6 @@
     * 52e84b1b-f9cqqk3h.cname.ebis.ne.jp
     * 531ea578-esqb2ypb.cname.ebis.ne.jp
     * 538e5738-scxitlgt.cname.ebis.ne.jp
-    * 54defe46-yfrcguru.cname.ebis.ne.jp
     * 55ce18c7-ppn7hhsn.cname.ebis.ne.jp
     * 55f9731d-yghwwxr9.cname.ebis.ne.jp
     * 57ec4b6d-thlsfh6z.cname.ebis.ne.jp
@@ -171,6 +171,7 @@
     * 74583186-mvysh92x.cname.ebis.ne.jp
     * 7480e75d-vhd4fq1g.cname.ebis.ne.jp
     * 748da21f-kuqpafku.cname.ebis.ne.jp
+    * 764e38c5-th0o4wui.cname.ebis.ne.jp
     * 7700f733-gwbfzy7a.cname.ebis.ne.jp
     * 77898d5b-lkppvk2g.cname.ebis.ne.jp
     * 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp
@@ -446,6 +447,7 @@
 | sem.tkc-biyou.jp | 3735525f-znrwzwlu.cname.ebis.ne.jp |
 | eb.bewithyou.jp | 37fe71c4-kfga9uze.cname.ebis.ne.jp |
 | ebis-tracking.kawaguchi-keisei.com | 38b9eeba-6pusefyf.cname.ebis.ne.jp |
+| kataribe.kataribecms.com | 39ebd0e8-gy66xg6s.cname.ebis.ne.jp |
 | ebis.seibu-k.co.jp | 3a3d0355-kkto8pe9.cname.ebis.ne.jp |
 | campaign-direct.ketsuatsu-taisaku.xyz | 3aa5341b-y4rfthkp.cname.ebis.ne.jp |
 | ac.geechs-job.com | 3b0f7041-5crkmmew.cname.ebis.ne.jp |
@@ -491,7 +493,6 @@
 | adebis-52667624.wowma.jp | 52e84b1b-f9cqqk3h.cname.ebis.ne.jp |
 | ebis.2jikaikun.com | 531ea578-esqb2ypb.cname.ebis.ne.jp |
 | cs0010sbeda.theory-kumatarumi.com | 538e5738-scxitlgt.cname.ebis.ne.jp |
-| ebis.samurai271.com | 54defe46-yfrcguru.cname.ebis.ne.jp |
 | cname.polestar-m.jp | 55ce18c7-ppn7hhsn.cname.ebis.ne.jp |
 | ad.320320.net | 55f9731d-yghwwxr9.cname.ebis.ne.jp |
 | itpebis03.deep2031.com | 57ec4b6d-thlsfh6z.cname.ebis.ne.jp |
@@ -529,6 +530,7 @@
 | adebis.saison-pocket.com | 74583186-mvysh92x.cname.ebis.ne.jp |
 | ad.aim-universe.co.jp | 7480e75d-vhd4fq1g.cname.ebis.ne.jp |
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |
+| adebis-catstreet.trunk-hotel.com | 764e38c5-th0o4wui.cname.ebis.ne.jp |
 | ebistoppan2.10nengenki.com | 7700f733-gwbfzy7a.cname.ebis.ne.jp |
 | adebis.harutaka.jp | 77898d5b-lkppvk2g.cname.ebis.ne.jp |
 | cname-adebis.vcube.com | 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp |

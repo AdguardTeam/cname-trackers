@@ -23,6 +23,7 @@
 | td.housebeautiful.com | e.truedata.co |
 | td.menshealth.com | e.truedata.co |
 | td.milkjamcreamery.com | e.truedata.co |
+| td.myrthada.com | e.truedata.co |
 | td.oprahdaily.com | e.truedata.co |
 | td.popularmechanics.com | e.truedata.co |
 | td.prevention.com | e.truedata.co |

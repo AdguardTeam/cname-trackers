@@ -448,7 +448,6 @@
 ||data-398d88c7b5.promipool.de^
 ||data-39db8b138f.apps.iocnt.de^
 ||data-39f71aefaf.prisma.de^
-||data-3aa56b5882.die-deutsche-wirtschaft.de^
 ||data-3adb48f023.apps.iocnt.de^
 ||data-3aee2d871a.hgtv.com^
 ||data-3b127a6eb1.mena-watch.com^
@@ -495,6 +494,7 @@
 ||data-40370dcf13.mv-online.de^
 ||data-40370dcf13.newssquare.de^
 ||data-40370dcf13.verlag-altmeppen.de^
+||data-4043567487.apps.iocnt.de^
 ||data-4071aa1e21.staz.de^
 ||data-40a1d254c9.familie.de^
 ||data-40a4482297.bundesbaublatt.de^
@@ -765,10 +765,8 @@
 ||data-5a078ffbef.wb-jobs.de^
 ||data-5a078ffbef.wb-trauer.de^
 ||data-5a078ffbef.westfalen-blatt.de^
-||data-5a2bbd7d77.apps.iocnt.de^
 ||data-5a40478bd4.kino.de^
 ||data-5a9f6e282a.ingenieur.de^
-||data-5a9f6e282a.ingenieurstage.de^
 ||data-5aab0af339.apps.iocnt.de^
 ||data-5ab0f5b45f.dk-online.de^
 ||data-5ab0f5b45f.noz.de^
@@ -849,7 +847,6 @@
 ||data-60d896f23d.solinger-tageblatt.de^
 ||data-60d896f23d.sportbuzzer.de^
 ||data-60d896f23d.sz-auktion.de^
-||data-60d896f23d.sz-jobs.de^
 ||data-60d896f23d.sz-trauer.de^
 ||data-60d896f23d.szlz.de^
 ||data-60d896f23d.tah.de^
@@ -972,7 +969,6 @@
 ||data-6e57cba6aa.focus.de^
 ||data-6e57cba6aa.netmoms.de^
 ||data-6ed56dd691.bdb.at^
-||data-6f0387b7f3.apps.iocnt.de^
 ||data-6f211e7e41.apps.iocnt.de^
 ||data-6f4f333803.apps.iocnt.de^
 ||data-6fd9590058.apps.iocnt.de^
@@ -1020,7 +1016,6 @@
 ||data-75671117cf.radiowafhilft.de^
 ||data-75adc1b92b.fleischerei.de^
 ||data-7609d780e9.apps.iocnt.de^
-||data-7613d707d4.enbausa.de^
 ||data-767a8be759.berliner-kurier.de^
 ||data-7723a9baa7.internetworld.at^
 ||data-7723a9baa7.internetworld.de^
@@ -1061,7 +1056,6 @@
 ||data-7e48679b06.fleischerei.de^
 ||data-7e634b10b2.prosieben.de^
 ||data-7e634b10b2.prosiebenmaxx.de^
-||data-7e634b10b2.the-voice-of-germany.de^
 ||data-7e70b89caf.geb-info.de^
 ||data-7f59e1721b.bergwetter.de^
 ||data-7f59e1721b.planetoutdoor.de^
@@ -1111,7 +1105,6 @@
 ||data-84a0f3455d.transfermarkt.co.id^
 ||data-84a0f3455d.transfermarkt.co.in^
 ||data-84a0f3455d.transfermarkt.co.kr^
-||data-84a0f3455d.transfermarkt.co.uk^
 ||data-84a0f3455d.transfermarkt.com.ar^
 ||data-84a0f3455d.transfermarkt.com.br^
 ||data-84a0f3455d.transfermarkt.de^
@@ -1127,6 +1120,7 @@
 ||data-84a0f3455d.transfermarkt.pt^
 ||data-84a0f3455d.transfermarkt.ru^
 ||data-84a0f3455d.transfermarkt.us^
+||data-84a0f3455d.transfermarkt.world^
 ||data-84bc7eaa45.kabelmail.de^
 ||data-84bc7eaa45.vodafone.de^
 ||data-84bc7eaa45.vodafonemail.de^
@@ -1192,6 +1186,7 @@
 ||data-8ca02b3a5d.versicherungsjournal.de^
 ||data-8cbd29cf98.kabeleins.at^
 ||data-8cc19d99e5.deutsche-handwerks-zeitung.de^
+||data-8cca49835e.apps.iocnt.de^
 ||data-8d1d4989b8.weinheim.de^
 ||data-8d3bec589f.schwaebische.de^
 ||data-8d4563cf4e.gesundheitstrends.com^
@@ -1280,7 +1275,6 @@
 ||data-992b9a20ea.competitionline.com^
 ||data-992bb00b0c.messen.de^
 ||data-99329e3cb2.bilanz.de^
-||data-99329e3cb2.metal-hammer.de^
 ||data-99329e3cb2.musikexpress.de^
 ||data-99329e3cb2.rollingstone.de^
 ||data-99329e3cb2.welt.de^
@@ -1459,10 +1453,8 @@
 ||data-aae7bdcec6.autoscout24.cz^
 ||data-aae7bdcec6.autoscout24.de^
 ||data-aae7bdcec6.autoscout24.hr^
-||data-aae7bdcec6.autoscout24.hu^
 ||data-aae7bdcec6.autoscout24.pl^
 ||data-aae7bdcec6.autoscout24.ro^
-||data-aae7bdcec6.autoscout24.ru^
 ||data-aae7bdcec6.autoscout24.se^
 ||data-ab14746017.autorevue.at^
 ||data-ab6e448dac.wetter.com^
@@ -1500,7 +1492,6 @@
 ||data-ae99031d75.mittelbayerische-stellen.de^
 ||data-ae99031d75.mittelbayerische-trauer.de^
 ||data-ae99031d75.mittelbayerische.de^
-||data-aebbfac9e2.apps.iocnt.de^
 ||data-aebdc1adf0.elle.de^
 ||data-aec7b6c8e0.apps.iocnt.de^
 ||data-af2292b12d.eatbetter.de^
@@ -2225,7 +2216,6 @@
 ||data-fa59f9f6b5.einbecker-kinos.de^
 ||data-fa59f9f6b5.filmcenter-dillingen.de^
 ||data-fa59f9f6b5.filmpalast-sulingen.de^
-||data-fa59f9f6b5.ge-kinos.de^
 ||data-fa59f9f6b5.groebenlichtspiele.de^
 ||data-fa59f9f6b5.haveltorkino.de^
 ||data-fa59f9f6b5.kino-bad-salzuflen.de^
@@ -2250,7 +2240,6 @@
 ||data-fa59f9f6b5.neuesregina.de^
 ||data-fa59f9f6b5.ostseekino-kuehlungsborn.de^
 ||data-fa59f9f6b5.saarfilm.net^
-||data-fa59f9f6b5.uc-kino-ruegen.de^
 ||data-fa59f9f6b5.wied-scala.de^
 ||data-fa59f9f6b5.zinema-city.de^
 ||data-faf3e659f2.apps.iocnt.de^
@@ -2292,7 +2281,6 @@
 ||data-fd9798a870.dieburgenlaenderin.at^
 ||data-fdb60ee122.hamburg.de^
 ||data-fdbbf15b66.finanzen.at^
-||data-fdbbf15b66.finanzen.ch^
 ||data-fdbbf15b66.finanzen.net^
 ||data-fdc5118d41.at-minerals.com^
 ||data-fdf4690b14.jobmarkt-nrw.de^

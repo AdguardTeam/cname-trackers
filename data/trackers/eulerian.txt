@@ -80,7 +80,6 @@
 ||ct5m.citadium.com^
 ||cvi6.destinia.qa^
 ||cyf9.destinia.cl^
-||d0f.le-dauphin.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
 ||deut3.fdj.fr^
@@ -178,7 +177,6 @@
 ||ea.voyage-prive.es^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
-||eat9.thebeat925.ca^
 ||eb.mistermenuiserie.com^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -208,7 +206,6 @@
 ||eulerian.malakoffmederic.com^
 ||eulerian.mathon.fr^
 ||eulerian.monoprix.fr^
-||eulerian.officiel-des-vacances.com^
 ||eulerian.oxybul.com^
 ||eulerian.sarenza.com^
 ||eulerian.siandso.com^
@@ -251,7 +248,6 @@
 ||gf7t.cheques-cadeaux-culturels.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
-||gi7a.structube.com^
 ||gli9.inseec-bs.com^
 ||gnh2.destinia.lv^
 ||gsg9.carrefour-banque.fr^
@@ -276,7 +272,6 @@
 ||jo2f.cheque-cadhoc.fr^
 ||kep6.destinia.ie^
 ||kwsjy9.oui.sncf^
-||l2i.qualityinnlevis.com^
 ||lbc.lesbonscommerces.fr^
 ||leo1.leon-de-bruxelles.fr^
 ||let1.devialet.com^
@@ -315,8 +310,6 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
-||nym5c.bonlook.com^
-||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
 ||oae6.carrefour-banque.fr^
@@ -345,7 +338,6 @@
 ||pgt1.voyage-prive.es^
 ||piq4.inseec.education^
 ||pjh7.us.chantelle.com^
-||pk1u.melanielyne.com^
 ||pkc5.hardrockhoteltenerife.com^
 ||pm.pmu.fr^
 ||po.ponant.com^
@@ -379,7 +371,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
-||ry0.rythmefm.com^
+||rwl.tremblant.ca^
 ||s4e8.cascades.com^
 ||sa.lesselectionsskoda.fr^
 ||sa.skoda.fr^
@@ -398,7 +390,6 @@
 ||srm4.destinia.co.no^
 ||ssrlot.lotoquebec.com^
 ||ssy7.destinia.com.ua^
-||su1.les-suites.ca^
 ||t.locasun-vp.fr^
 ||t.locasun.co.uk^
 ||t.locasun.es^
@@ -465,7 +456,6 @@
 ||xya4.groupefsc.com^
 ||xze5.femilet.dk^
 ||yf5.voyage-prive.at^
-||yio.tremblant.ca^
 ||yoc.younited-credit.com^
 ||ysl3.destinia.ec^
 ||yst4.muchoviaje.com^
@@ -482,8 +472,17 @@
 ||zyq2.destinia.sk^
 ||5fm.985fm.ca^
 ||c0p.cepsum.umontreal.ca^
+||d0f.le-dauphin.com^
 ||d2u.dauphinquebec.com^
+||eat9.thebeat925.ca^
 ||erb.tremblant.ca^
 ||hk2d.tourismemauricie.com^
-||rwl.tremblant.ca^
+||l2i.qualityinnlevis.com^
+||nym5c.bonlook.com^
+||ry0.rythmefm.com^
+||su1.les-suites.ca^
+||yio.tremblant.ca^
 ||ea.mnt.fr^
+||gi7a.structube.com^
+||nym5c.laura.ca^
+||pk1u.melanielyne.com^

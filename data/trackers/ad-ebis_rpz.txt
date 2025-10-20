@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,6 +52,7 @@ ade.hirose-fx.jp CNAME .
 ade.jfx.co.jp CNAME .
 adebis-52667624.wowma.jp CNAME .
 adebis-bkan.vbest.jp CNAME .
+adebis-catstreet.trunk-hotel.com CNAME .
 adebis-cname.jobmall.jp CNAME .
 adebis-dojyo.dojyo.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
@@ -277,7 +278,6 @@ ebis.randstad.co.jp CNAME .
 ebis.re-shop.jp CNAME .
 ebis.rozetta.jp CNAME .
 ebis.s-bisco.jp CNAME .
-ebis.samurai271.com CNAME .
 ebis.sbismile.co.jp CNAME .
 ebis.seibu-k.co.jp CNAME .
 ebis.sekisuihouse.co.jp CNAME .
@@ -326,6 +326,7 @@ isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
 itpebis03.deep2031.com CNAME .
 itpebis03.recella3d.com CNAME .
+kataribe.kataribecms.com CNAME .
 lmpadebis.gala-series.com CNAME .
 marketing.biz.mynavi.jp CNAME .
 marketing.zwei.com CNAME .

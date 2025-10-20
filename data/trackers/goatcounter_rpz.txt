@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,11 +17,12 @@ analytics.applycreatures.com CNAME .
 analytics.astuto.io CNAME .
 analytics.brandsistency.com CNAME .
 analytics.code.dccouncil.gov CNAME .
-analytics.code.dccouncil.us CNAME .
 analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
 analytics.digitaleyes.ai CNAME .
+analytics.fiquipedia.es CNAME .
 analytics.kubasta.net CNAME .
+analytics.law.badriver-nsn.gov CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.law.lco-nsn.gov CNAME .
 analytics.law.mohican.com CNAME .
@@ -42,6 +43,7 @@ cityofsanmateo.analytics.open.law CNAME .
 contacapre.bortox.it CNAME .
 count.andreabrandi.com CNAME .
 count.kealper.com CNAME .
+count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
 dot-com-stats.sladewatkins.net CNAME .
 gc.acut3.net CNAME .
@@ -82,6 +84,7 @@ science.ygoprint.org CNAME .
 st.mapleranks.com CNAME .
 statgarden.florinesueur.fr CNAME .
 statistic.elkobraas.com CNAME .
+stats-blog.lewsion.com CNAME .
 stats-ruzickap-github-io.ruzicka.dev CNAME .
 stats.45rpm.ch CNAME .
 stats.abdo.wtf CNAME .
@@ -150,6 +153,7 @@ stats.palaisdesfetes.eu CNAME .
 stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .
 stats.riccardomurachelli.it CNAME .
+stats.risanne.nl CNAME .
 stats.rocketgoboom.lol CNAME .
 stats.ryanchmelir.com CNAME .
 stats.sebastianzehner.com CNAME .

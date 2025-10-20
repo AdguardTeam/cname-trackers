@@ -17,6 +17,7 @@
 | dashboard.andbeyond.media | dashboard.stat-rock.com |
 | dashboard.boostads.ru | dashboard.stat-rock.com |
 | dashboard.digita.media | dashboard.stat-rock.com |
+| dashboard.entravision.com | dashboard.stat-rock.com |
 | dashboard.grapemedia.cz | dashboard.stat-rock.com |
 | dashboard.viewtraff.com | dashboard.stat-rock.com |
 | dashboard.xqubemedia.com | dashboard.stat-rock.com |

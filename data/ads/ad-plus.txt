@@ -8,6 +8,7 @@
 ||dashboard.andbeyond.media^
 ||dashboard.boostads.ru^
 ||dashboard.digita.media^
+||dashboard.entravision.com^
 ||dashboard.grapemedia.cz^
 ||dashboard.viewtraff.com^
 ||dashboard.xqubemedia.com^

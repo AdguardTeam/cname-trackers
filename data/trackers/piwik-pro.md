@@ -21,7 +21,6 @@
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
-    * netdriven.piwik.pro
     * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * polpharma.piwik.pro
@@ -40,6 +39,7 @@
     * tigital.piwik.pro
     * triodos.piwik.pro
     * tweedekamer.piwik.pro
+    * twyzle-prod.piwik.pro
     * uninstalled.piwik.pro
     * uwhealth.piwik.pro
     * uwv.piwik.pro
@@ -74,7 +74,6 @@
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
-| stats.netdriven.com | netdriven.piwik.pro |
 | statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | polpharmaanalytics.pl | polpharma.piwik.pro |
@@ -155,6 +154,7 @@
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
 | pwk.tweedekamer.nl | tweedekamer.piwik.pro |
+| piwik.twyzle.com | twyzle-prod.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |

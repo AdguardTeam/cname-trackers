@@ -68,6 +68,7 @@
 | tr.animations.bfmtv.com | tracking.bp01.net |
 | tr.animations.rmcbfm.com | tracking.bp01.net |
 | tr.apac.coms.moethennessy.com | tracking.bp01.net |
+| tr.apac.legal.moethennessy.com | tracking.bp01.net |
 | tr.apou032.espmp-agfr.net | tracking.bp01.net |
 | tr.asp0.espmp-agfr.net | tracking.bp01.net |
 | tr.asp0010.espmp-nifr.net | tracking.bp01.net |
@@ -209,6 +210,7 @@
 | tr.business-quotes.co.uk | tracking.bp01.net |
 | tr.business.offerte-companeo.it | tracking.bp01.net |
 | tr.businessdev.younited-credit.es | tracking.bp01.net |
+| tr.ca-investstore.fr | tracking.bp01.net |
 | tr.cacf-acq.ipsos-surveys.com | tracking.bp01.net |
 | tr.cacf.ipsos-surveys.com | tracking.bp01.net |
 | tr.campaign.colossusbets.com | tracking.bp01.net |
@@ -258,6 +260,7 @@
 | tr.com-parc.sfr.fr | tracking.bp01.net |
 | tr.com-red.sfr.fr | tracking.bp01.net |
 | tr.com-web.sfr.fr | tracking.bp01.net |
+| tr.com.neoliane.fr | tracking.bp01.net |
 | tr.com.santiane.fr | tracking.bp01.net |
 | tr.com.sfr.fr | tracking.bp01.net |
 | tr.combca.fr | tracking.bp01.net |
@@ -321,7 +324,6 @@
 | tr.courrier.sudouest.fr | tracking.bp01.net |
 | tr.crc.henner.com | tracking.bp01.net |
 | tr.creative.hennessy.com | tracking.bp01.net |
-| tr.credito.universo.pt | tracking.bp01.net |
 | tr.crm.intersportbypitte.com | tracking.bp01.net |
 | tr.crtl.espmp-aufr.net | tracking.bp01.net |
 | tr.customer-solutions.np6.com | tracking.bp01.net |
@@ -405,7 +407,6 @@
 | tr.email.janedeboy.com | tracking.bp01.net |
 | tr.email.kinvent.com | tracking.bp01.net |
 | tr.email.medicalexpo.com | tracking.bp01.net |
-| tr.email.mnpaf.fr | tracking.bp01.net |
 | tr.email.nauticexpo.com | tracking.bp01.net |
 | tr.email.pointfranchise.co.uk | tracking.bp01.net |
 | tr.email.renaultbank.fr | tracking.bp01.net |
@@ -883,6 +884,7 @@
 | tr.news.leclubtravel.fr | tracking.bp01.net |
 | tr.news.lemans.org | tracking.bp01.net |
 | tr.news.lentillesmoinscheres.com | tracking.bp01.net |
+| tr.news.lentimenocare.it | tracking.bp01.net |
 | tr.news.libranoo.com | tracking.bp01.net |
 | tr.news.linxea.com | tracking.bp01.net |
 | tr.news.lisez.com | tracking.bp01.net |
@@ -1011,7 +1013,6 @@
 | tr.offre-companeo.com | tracking.bp01.net |
 | tr.offre.devisdirect.com | tracking.bp01.net |
 | tr.offres-professionnelles.fr | tracking.bp01.net |
-| tr.offres.ap-regie.fr | tracking.bp01.net |
 | tr.offres.bfmtv.com | tracking.bp01.net |
 | tr.offresbtoc.engie.fr | tracking.bp01.net |
 | tr.offrevip.floa.fr | tracking.bp01.net |

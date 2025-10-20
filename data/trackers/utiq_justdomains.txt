@@ -97,6 +97,7 @@ utiq.dacia.fr
 utiq.dasgelbeblatt.de
 utiq.derwesten.de
 utiq.desired.de
+utiq.dev.stern.de
 utiq.diaridegirona.cat
 utiq.diariocordoba.com
 utiq.diariodeibiza.es
@@ -344,6 +345,7 @@ utiq.psychologies.com
 utiq.publisher-demo.media
 utiq.purebreak.com
 utiq.purepeople.com
+utiq.rac1.cat
 utiq.regio7.cat
 utiq.reisefrage.net
 utiq.renault.fr

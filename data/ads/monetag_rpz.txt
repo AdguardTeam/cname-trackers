@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ $TTL 300
 80xy.com CNAME .
 abarbokan.com CNAME .
 amelectivireer.com CNAME .
+arhelioptileon.com CNAME .
 astrhyhorna.com CNAME .
 astropiusa.com CNAME .
 audraghafamign.com CNAME .
@@ -43,6 +44,7 @@ kighoadouk.com CNAME .
 ldy5.com CNAME .
 mamsauphoachoap.com CNAME .
 offsnivyor.com CNAME .
+ontyrogueom.com CNAME .
 opvileplumeon.com CNAME .
 ossscatterbuga.com CNAME .
 r8bz.com CNAME .

@@ -119,10 +119,14 @@
 ||maschine.bengs-modellbau.de^
 ||mensch.ekd.de^
 ||meter.rhinobag.de^
+||metrics.bauwerk.de^
+||metrics.cannamedical.com^
 ||metrics.einfachiso.de^
 ||metrics.go-jugendreisen.de^
 ||metrics.greatvita.de^
 ||metrics.leimer.de^
+||metrics.meineversicherungswelt.de^
+||metrics.moderade.com^
 ||metrics.ostseeresort-damp.de^
 ||metrics.treudelberg-resort.com^
 ||metrics.ultra-med.de^
@@ -144,8 +148,10 @@
 ||stat.beetfreunde.de^
 ||statistics.bergland.de^
 ||statistics.finkhof.de^
+||statistics.firmengruppe-burk.de^
 ||statistics.fruchtbarewelt.de^
 ||statistics.hagnauer.org^
+||statistics.xpedite-dx.com^
 ||stats.die-bibel.de^
 ||stats.eliveshop.de^
 ||stats.folienmarkt.de^
@@ -188,6 +194,7 @@
 ||tracking.anthonys.at^
 ||tracking.chio.hu^
 ||tracking.gruener-soelden.com^
+||tracking.mediengewerk.de^
 ||tracking.ostsee-resort-dampland.de^
 ||tracking.terrassenhof.de^
 ||tracking.walserart.at^
@@ -232,6 +239,7 @@
 ||webcontr.distrebution.com^
 ||webcontr.domondo.fr^
 ||webcontr.domondo.it^
+||webcontr.epig-media.de^
 ||webcontr.fsj-digital-bw.de^
 ||webcontr.genius.tv^
 ||webcontr.holzgestein.com^

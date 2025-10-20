@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,7 +36,6 @@ c0n.tubestash.com CNAME .
 c4n.allporncomics.co CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.asianpinay.com CNAME .
-c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
 c4n.natali9.online CNAME .
 c4n.shudhdesiporn.com CNAME .
@@ -44,7 +43,6 @@ c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.xxx8.me CNAME .
 c4s.bionestraff.pro CNAME .
-c8d.upde.cc CNAME .
 ca.infomix.best CNAME .
 cc.histoires-de-sexe-gratuites.com CNAME .
 cc.histoires-de-sexe.club CNAME .

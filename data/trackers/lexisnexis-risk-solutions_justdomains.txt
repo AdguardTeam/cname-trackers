@@ -41,6 +41,7 @@ afm.startraders55.com
 afm.startraders56.com
 afm.startradervn.net
 afm.sthub.cc
+afm.strmarketing.net
 afm.ultima-markets.com
 afm.ultimamarkets.asia
 afm.ultimamarkets.com
@@ -115,7 +116,6 @@ assets.harlandclarke.com
 assets.signup.ifxpayments.com
 assets.werally.co
 assets2.ihg.com
-assets2.thefirstclub.com
 aucrdtfrd.revolut.codes
 aucrdtfrd.revolut.com
 auth.vedacheck.com.au
@@ -185,7 +185,6 @@ cdna.rqt-cl-paiement.cofidis.fr
 cdna.rqt-paiement.cofidis.fr
 cdna.tiranabank.al
 cdna.tst-paiement.cofidis.fr
-cdna.xotto.de
 cdna.zopa.com
 cdnb.cashcentral.com
 cdncy.bgasc.com
@@ -205,6 +204,7 @@ cdntm.firstdirect.com
 cdntm.hangseng.com
 cdntm.hsbc.ae
 cdntm.hsbc.ca
+cdntm.hsbc.co.id
 cdntm.hsbc.co.in
 cdntm.hsbc.co.uk
 cdntm.hsbc.com.au
@@ -214,8 +214,10 @@ cdntm.hsbc.com.mx
 cdntm.hsbc.com.my
 cdntm.hsbc.com.ph
 cdntm.hsbc.com.sg
+cdntm.hsbc.com.tw
 cdntm.hsbc.com.vn
 cdntm.hsbc.fr
+cdntm.hsbc.gr
 cdntm.johnlewisfinance.com
 cdntm.mandsbank.com
 cdntm.marksandspencer.com
@@ -274,6 +276,7 @@ connect.premieraccesscard.com
 consortium.adib.ae
 contendvc.cnouyi.pizza
 content-48.cnb.com
+content-dt.crepassplus.com
 content-static.emiratesnbd.com
 content-tix.topi.eu
 content-uk.fundingcircle.com
@@ -339,7 +342,6 @@ content.gaptechol.com
 content.happybank.com
 content.heidipay.com
 content.hellobank.fr
-content.hellobank.it
 content.ibanking-services.com
 content.id.elsevier.com
 content.iddataweb.com
@@ -545,6 +547,7 @@ digitalid.santanderbank.com
 digitalidentity.compass.it
 dii.bankaust.com.au
 directinfo.ib.mizuhobank.co.jp
+dm-prod-visapay.m2pfintech.com
 dol-reemployme-js01.maine.gov
 donor.cafamerica.org
 dp.barclaycardus.com
@@ -1095,6 +1098,7 @@ tags.openaccount.natwest.com
 tags.openaccount.rbs.co.uk
 tags.rbs.co.uk
 tags.rbsdigital.com
+tags.rbsidigital.com
 tags.s-dati.com
 tags.sandbox.onlinebankingtest.natwestinternational.com
 tags.ulsterbank.co.uk
@@ -1340,7 +1344,6 @@ www.cdna.cofidis.be
 www.content.bnpparibas.net
 www.content.connexion-mabanque.bnpparibas
 www.content.espace-client.hellobank.fr
-www.content.hellobank.it
 www.content.mabanque.bnpparibas
 www.content.mabanqueprivee.bnpparibas
 www.content.mabanquepro.bnpparibas

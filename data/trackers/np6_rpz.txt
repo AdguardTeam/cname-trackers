@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,6 +52,7 @@ tr.animation.micromania.fr CNAME .
 tr.animations.bfmtv.com CNAME .
 tr.animations.rmcbfm.com CNAME .
 tr.apac.coms.moethennessy.com CNAME .
+tr.apac.legal.moethennessy.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
 tr.asp0.espmp-agfr.net CNAME .
 tr.asp0010.espmp-nifr.net CNAME .
@@ -193,6 +194,7 @@ tr.business-deal.nl CNAME .
 tr.business-quotes.co.uk CNAME .
 tr.business.offerte-companeo.it CNAME .
 tr.businessdev.younited-credit.es CNAME .
+tr.ca-investstore.fr CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
 tr.campaign.colossusbets.com CNAME .
@@ -242,6 +244,7 @@ tr.com-clients.sfr.fr CNAME .
 tr.com-parc.sfr.fr CNAME .
 tr.com-red.sfr.fr CNAME .
 tr.com-web.sfr.fr CNAME .
+tr.com.neoliane.fr CNAME .
 tr.com.santiane.fr CNAME .
 tr.com.sfr.fr CNAME .
 tr.combca.fr CNAME .
@@ -305,7 +308,6 @@ tr.courrier.larepubliquedespyrenees.fr CNAME .
 tr.courrier.sudouest.fr CNAME .
 tr.crc.henner.com CNAME .
 tr.creative.hennessy.com CNAME .
-tr.credito.universo.pt CNAME .
 tr.crm.intersportbypitte.com CNAME .
 tr.crtl.espmp-aufr.net CNAME .
 tr.customer-solutions.np6.com CNAME .
@@ -389,7 +391,6 @@ tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.janedeboy.com CNAME .
 tr.email.kinvent.com CNAME .
 tr.email.medicalexpo.com CNAME .
-tr.email.mnpaf.fr CNAME .
 tr.email.nauticexpo.com CNAME .
 tr.email.pointfranchise.co.uk CNAME .
 tr.email.renaultbank.fr CNAME .
@@ -867,6 +868,7 @@ tr.news.latribunebordeaux.fr CNAME .
 tr.news.leclubtravel.fr CNAME .
 tr.news.lemans.org CNAME .
 tr.news.lentillesmoinscheres.com CNAME .
+tr.news.lentimenocare.it CNAME .
 tr.news.libranoo.com CNAME .
 tr.news.linxea.com CNAME .
 tr.news.lisez.com CNAME .
@@ -995,7 +997,6 @@ tr.offre-btob.fr CNAME .
 tr.offre-companeo.com CNAME .
 tr.offre.devisdirect.com CNAME .
 tr.offres-professionnelles.fr CNAME .
-tr.offres.ap-regie.fr CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offresbtoc.engie.fr CNAME .
 tr.offrevip.floa.fr CNAME .

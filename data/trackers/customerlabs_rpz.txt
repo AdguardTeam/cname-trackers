@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ gofqpma.kimkimblehair.com CNAME .
 gpillsg.genxrefined.com CNAME .
 gslclvw.lackorecouture.com CNAME .
 hnvrprl.getmainelobster.com CNAME .
+kpdignp.trumerholz.com CNAME .
 lumhdco.mykitsch.com CNAME .
 msnpurf.themjewelersny.com CNAME .
 pmpbzjp.everydaydose.com CNAME .

@@ -103,6 +103,7 @@
 | utiq.dasgelbeblatt.de | frontend.prod.utiq-aws.net |
 | utiq.derwesten.de | frontend.prod.utiq-aws.net |
 | utiq.desired.de | frontend.prod.utiq-aws.net |
+| utiq.dev.stern.de | frontend.prod.utiq-aws.net |
 | utiq.diaridegirona.cat | frontend.prod.utiq-aws.net |
 | utiq.diariocordoba.com | frontend.prod.utiq-aws.net |
 | utiq.diariodeibiza.es | frontend.prod.utiq-aws.net |
@@ -350,6 +351,7 @@
 | utiq.publisher-demo.media | frontend.prod.utiq-aws.net |
 | utiq.purebreak.com | frontend.prod.utiq-aws.net |
 | utiq.purepeople.com | frontend.prod.utiq-aws.net |
+| utiq.rac1.cat | frontend.prod.utiq-aws.net |
 | utiq.regio7.cat | frontend.prod.utiq-aws.net |
 | utiq.reisefrage.net | frontend.prod.utiq-aws.net |
 | utiq.renault.fr | frontend.prod.utiq-aws.net |

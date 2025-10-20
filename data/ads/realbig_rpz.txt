@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,7 +20,6 @@ a.yandd.site CNAME .
 ad.choicy.org CNAME .
 ads.wattpadru.ru CNAME .
 any.realbig.media CNAME .
-autorekrb.bid CNAME .
 b1.rbighouse.ru CNAME .
 b10.rbighouse.ru CNAME .
 b11.rbighouse.ru CNAME .
@@ -63,9 +62,7 @@ r.hjj.pw CNAME .
 rb.crimeagc.com CNAME .
 rb.mnogodiva.ru CNAME .
 rb.slova-accordy.ru CNAME .
-rb.sveto-sharik.ru CNAME .
 rb.umspecrek.ru CNAME .
-rbbutton.bid CNAME .
 rbfour.bid CNAME .
 rbig.pcyk.ru CNAME .
 rbone.link CNAME .
@@ -84,7 +81,6 @@ workerhome.click CNAME .
 www.5738.ru CNAME .
 www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .
-www.aviator-game.info CNAME .
 www.fasder12.ru CNAME .
 www.fasder12.store CNAME .
 www.gorrio.ru CNAME .

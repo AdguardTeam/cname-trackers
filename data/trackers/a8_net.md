@@ -256,6 +256,7 @@
 | a8.pcwrap.com | trck.a8.net |
 | a8.personalfile.tech | trck.a8.net |
 | a8.petfood.mtflat.co.jp | trck.a8.net |
+| a8.pikaichi.co.jp | trck.a8.net |
 | a8.pla-cole.wedding | trck.a8.net |
 | a8.pocket-m.jp | trck.a8.net |
 | a8.polyglots.net | trck.a8.net |
@@ -897,7 +898,6 @@
 | a8cv.diyfactory.jp | trck.a8.net |
 | a8cv.doctor-agent.com | trck.a8.net |
 | a8cv.doctoryotsu.com | trck.a8.net |
-| a8cv.dodopep-kobe.com | trck.a8.net |
 | a8cv.dokoyorimo.com | trck.a8.net |
 | a8cv.dokugaku-dx.com | trck.a8.net |
 | a8cv.downjacket.pro | trck.a8.net |
@@ -929,7 +929,6 @@
 | a8cv.entre-salon.com | trck.a8.net |
 | a8cv.entry.renet.jp | trck.a8.net |
 | a8cv.est-online.com | trck.a8.net |
-| a8cv.euria.store | trck.a8.net |
 | a8cv.exrg-premium.shop | trck.a8.net |
 | a8cv.eys-musicschool.com | trck.a8.net |
 | a8cv.f.012grp.co.jp | trck.a8.net |
@@ -1134,6 +1133,7 @@
 | a8cv.omakase-cyber-mimamori.net | trck.a8.net |
 | a8cv.omni7.jp | trck.a8.net |
 | a8cv.omobic.com | trck.a8.net |
+| a8cv.omtogether.jp | trck.a8.net |
 | a8cv.one-netbook.jp | trck.a8.net |
 | a8cv.onebride.jp | trck.a8.net |
 | a8cv.online-mega.com | trck.a8.net |
@@ -1154,7 +1154,6 @@
 | a8cv.palms-gym.com | trck.a8.net |
 | a8cv.peraichiapp.com | trck.a8.net |
 | a8cv.pf.classicmusic.tokyo | trck.a8.net |
-| a8cv.phonim.com | trck.a8.net |
 | a8cv.photo.concorde-corp.jp | trck.a8.net |
 | a8cv.photojoy.jp | trck.a8.net |
 | a8cv.physiqueframe.com | trck.a8.net |

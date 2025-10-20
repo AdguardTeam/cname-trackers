@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,6 +52,7 @@ afm.startraders55.com CNAME .
 afm.startraders56.com CNAME .
 afm.startradervn.net CNAME .
 afm.sthub.cc CNAME .
+afm.strmarketing.net CNAME .
 afm.ultima-markets.com CNAME .
 afm.ultimamarkets.asia CNAME .
 afm.ultimamarkets.com CNAME .
@@ -126,7 +127,6 @@ assets.harlandclarke.com CNAME .
 assets.signup.ifxpayments.com CNAME .
 assets.werally.co CNAME .
 assets2.ihg.com CNAME .
-assets2.thefirstclub.com CNAME .
 aucrdtfrd.revolut.codes CNAME .
 aucrdtfrd.revolut.com CNAME .
 auth.vedacheck.com.au CNAME .
@@ -196,7 +196,6 @@ cdna.rqt-cl-paiement.cofidis.fr CNAME .
 cdna.rqt-paiement.cofidis.fr CNAME .
 cdna.tiranabank.al CNAME .
 cdna.tst-paiement.cofidis.fr CNAME .
-cdna.xotto.de CNAME .
 cdna.zopa.com CNAME .
 cdnb.cashcentral.com CNAME .
 cdncy.bgasc.com CNAME .
@@ -216,6 +215,7 @@ cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
 cdntm.hsbc.ae CNAME .
 cdntm.hsbc.ca CNAME .
+cdntm.hsbc.co.id CNAME .
 cdntm.hsbc.co.in CNAME .
 cdntm.hsbc.co.uk CNAME .
 cdntm.hsbc.com.au CNAME .
@@ -225,8 +225,10 @@ cdntm.hsbc.com.mx CNAME .
 cdntm.hsbc.com.my CNAME .
 cdntm.hsbc.com.ph CNAME .
 cdntm.hsbc.com.sg CNAME .
+cdntm.hsbc.com.tw CNAME .
 cdntm.hsbc.com.vn CNAME .
 cdntm.hsbc.fr CNAME .
+cdntm.hsbc.gr CNAME .
 cdntm.johnlewisfinance.com CNAME .
 cdntm.mandsbank.com CNAME .
 cdntm.marksandspencer.com CNAME .
@@ -285,6 +287,7 @@ connect.premieraccesscard.com CNAME .
 consortium.adib.ae CNAME .
 contendvc.cnouyi.pizza CNAME .
 content-48.cnb.com CNAME .
+content-dt.crepassplus.com CNAME .
 content-static.emiratesnbd.com CNAME .
 content-tix.topi.eu CNAME .
 content-uk.fundingcircle.com CNAME .
@@ -350,7 +353,6 @@ content.gaptechol.com CNAME .
 content.happybank.com CNAME .
 content.heidipay.com CNAME .
 content.hellobank.fr CNAME .
-content.hellobank.it CNAME .
 content.ibanking-services.com CNAME .
 content.id.elsevier.com CNAME .
 content.iddataweb.com CNAME .
@@ -556,6 +558,7 @@ digitalid.santanderbank.com CNAME .
 digitalidentity.compass.it CNAME .
 dii.bankaust.com.au CNAME .
 directinfo.ib.mizuhobank.co.jp CNAME .
+dm-prod-visapay.m2pfintech.com CNAME .
 dol-reemployme-js01.maine.gov CNAME .
 donor.cafamerica.org CNAME .
 dp.barclaycardus.com CNAME .
@@ -1106,6 +1109,7 @@ tags.openaccount.natwest.com CNAME .
 tags.openaccount.rbs.co.uk CNAME .
 tags.rbs.co.uk CNAME .
 tags.rbsdigital.com CNAME .
+tags.rbsidigital.com CNAME .
 tags.s-dati.com CNAME .
 tags.sandbox.onlinebankingtest.natwestinternational.com CNAME .
 tags.ulsterbank.co.uk CNAME .
@@ -1351,7 +1355,6 @@ www.cdna.cofidis.be CNAME .
 www.content.bnpparibas.net CNAME .
 www.content.connexion-mabanque.bnpparibas CNAME .
 www.content.espace-client.hellobank.fr CNAME .
-www.content.hellobank.it CNAME .
 www.content.mabanque.bnpparibas CNAME .
 www.content.mabanqueprivee.bnpparibas CNAME .
 www.content.mabanquepro.bnpparibas CNAME .

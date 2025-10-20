@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -195,6 +195,7 @@ l.motorpasion.com CNAME .
 l.motorpasion.com.mx CNAME .
 l.mouv.fr CNAME .
 l.moviepilot.de CNAME .
+l.neonmag.fr CNAME .
 l.netmums.com CNAME .
 l.nextplz.fr CNAME .
 l.nicematin.com CNAME .
@@ -208,6 +209,7 @@ l.onzemondial.com CNAME .
 l.ouest-france.fr CNAME .
 l.ouifm.fr CNAME .
 l.ozap.com CNAME .
+l.paris-jetequitte.com CNAME .
 l.paris-normandie.fr CNAME .
 l.paris-turf.com CNAME .
 l.paroledemamans.com CNAME .

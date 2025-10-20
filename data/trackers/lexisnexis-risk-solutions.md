@@ -47,6 +47,7 @@
     * h-2lrwrk15.online-metrix.net
     * h-2n067wr9.online-metrix.net
     * h-2odx9gtz.online-metrix.net
+    * h-2pd5ywft.online-metrix.net
     * h-2qfdtlmr.online-metrix.net
     * h-2ql3c6py.online-metrix.net
     * h-2uk5c4md.online-metrix.net
@@ -306,7 +307,6 @@
     * h-bmfe8lje.online-metrix.net
     * h-bmo.online-metrix.net
     * h-bnc.online-metrix.net
-    * h-bnl.online-metrix.net
     * h-bo72h7g2-4.online-metrix.net
     * h-bos-soc.online-metrix.net
     * h-bos.online-metrix.net
@@ -388,7 +388,6 @@
     * h-citizensbankaccess.online-metrix.net
     * h-citizensbankonline.online-metrix.net
     * h-citizenscommercial.online-metrix.net
-    * h-cjvdt1o0.online-metrix.net
     * h-cjwi5pjh.online-metrix.net
     * h-clearcover.online-metrix.net
     * h-cloudwalk.online-metrix.net
@@ -569,6 +568,7 @@
     * h-k8vif92e-pr.online-metrix.net
     * h-k8vif92e-si.online-metrix.net
     * h-k8vif92e-stc.online-metrix.net
+    * h-k8vif92e-visapay.online-metrix.net
     * h-k8vif92e-worldline.online-metrix.net
     * h-k8vif92e.goto.online-metrix.net
     * h-k8vif92e.online-metrix.net
@@ -755,7 +755,6 @@
     * h-thales.online-metrix.net
     * h-thecardservicescenter.online-metrix.net
     * h-thefirstclub-ihg.online-metrix.net
-    * h-thefirstclub.online-metrix.net
     * h-threatmetrix.ea.online-metrix.net
     * h-threatmetrix.online-metrix.net
     * h-thumbtack.online-metrix.net
@@ -968,6 +967,7 @@
 | fp.simplybe.co.uk | h-2n067wr9.online-metrix.net |
 | tmx.banquemanuvie.com | h-2odx9gtz.online-metrix.net |
 | tmx.manulifebank.com | h-2odx9gtz.online-metrix.net |
+| content-dt.crepassplus.com | h-2pd5ywft.online-metrix.net |
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | hunt.elcorteingles.es | h-2uk5c4md.online-metrix.net |
@@ -1214,6 +1214,7 @@
 | afm.startraders56.com | h-96eziru5.online-metrix.net |
 | afm.startradervn.net | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
+| afm.strmarketing.net | h-96eziru5.online-metrix.net |
 | afm.ultima-markets.com | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.asia | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.com | h-96eziru5.online-metrix.net |
@@ -1435,8 +1436,6 @@
 | content22.bmo.com | h-bmo.online-metrix.net |
 | enligne.bnc.ca | h-bnc.online-metrix.net |
 | online.nbc.ca | h-bnc.online-metrix.net |
-| content.hellobank.it | h-bnl.online-metrix.net |
-| www.content.hellobank.it | h-bnl.online-metrix.net |
 | css.slots.io | h-bo72h7g2-4.online-metrix.net |
 | cbcdn.bankofscotland.co.uk | h-bos-soc.online-metrix.net |
 | check2.bankofscotland.co.uk | h-bos.online-metrix.net |
@@ -1561,7 +1560,6 @@
 | go.citizensaccess.com | h-citizensbankaccess.online-metrix.net |
 | content.citizensbankonline.com | h-citizensbankonline.online-metrix.net |
 | cdn17.citizensbank.com | h-citizenscommercial.online-metrix.net |
-| cdna.xotto.de | h-cjvdt1o0.online-metrix.net |
 | idhtm.bb.com.br | h-cjwi5pjh.online-metrix.net |
 | tm.clearcover.com | h-clearcover.online-metrix.net |
 | authorizer-data.infinitepay.io | h-cloudwalk.online-metrix.net |
@@ -1788,6 +1786,7 @@
 | cdntm.hangseng.com | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.ae | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.ca | h-hsbcmx.online-metrix.net |
+| cdntm.hsbc.co.id | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.co.in | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.co.uk | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.au | h-hsbcmx.online-metrix.net |
@@ -1797,8 +1796,10 @@
 | cdntm.hsbc.com.my | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.ph | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.sg | h-hsbcmx.online-metrix.net |
+| cdntm.hsbc.com.tw | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.vn | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.fr | h-hsbcmx.online-metrix.net |
+| cdntm.hsbc.gr | h-hsbcmx.online-metrix.net |
 | cdntm.us.hsbc.com | h-hsbcmx.online-metrix.net |
 | rba-screen.healthsafe-id.com | h-hsid.online-metrix.net |
 | rba-screen.liveandworkwell.com | h-hsid.online-metrix.net |
@@ -1852,6 +1853,7 @@
 | cdncy.providentmetals.com | h-k8vif92e-pr.online-metrix.net |
 | cdncy.silver.com | h-k8vif92e-si.online-metrix.net |
 | advertize.stcbank.com.sa | h-k8vif92e-stc.online-metrix.net |
+| dm-prod-visapay.m2pfintech.com | h-k8vif92e-visapay.online-metrix.net |
 | device-fingerprint.pay1.checkout.worldline-solutions.com | h-k8vif92e-worldline.online-metrix.net |
 | device-fingerprint.pay2.checkout.worldline-solutions.com | h-k8vif92e-worldline.online-metrix.net |
 | cdn-east.purchase.goto.com | h-k8vif92e.goto.online-metrix.net |
@@ -2010,6 +2012,7 @@
 | tags.openaccount.rbs.co.uk | h-rbs-bank.online-metrix.net |
 | tags.rbs.co.uk | h-rbs-bank.online-metrix.net |
 | tags.rbsdigital.com | h-rbs-bank.online-metrix.net |
+| tags.rbsidigital.com | h-rbs-bank.online-metrix.net |
 | tags.sandbox.onlinebankingtest.natwestinternational.com | h-rbs-bank.online-metrix.net |
 | tags.ulsterbank.co.uk | h-rbs-bank.online-metrix.net |
 | tags.ulsterbankanytimebanking.co.uk | h-rbs-bank.online-metrix.net |
@@ -2072,7 +2075,6 @@
 | tmx.rnd.gemaltodigitalbankingidcloud.com | h-thales.online-metrix.net |
 | cda.thecardservicescenter.com | h-thecardservicescenter.online-metrix.net |
 | assets2.ihg.com | h-thefirstclub-ihg.online-metrix.net |
-| assets2.thefirstclub.com | h-thefirstclub.online-metrix.net |
 | content.ea.com | h-threatmetrix.ea.online-metrix.net |
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |
 | df.thumbtack.com | h-thumbtack.online-metrix.net |

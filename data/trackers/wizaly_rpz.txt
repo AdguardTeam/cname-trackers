@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -134,7 +134,6 @@ tk.interflora.dk CNAME .
 tk.interflora.es CNAME .
 tk.interflora.fr CNAME .
 tk.interflora.it CNAME .
-tk.jeux.loro.ch CNAME .
 tk.jim-joe.fr CNAME .
 tk.kidsaround.com CNAME .
 tk.kitchendiet.fr CNAME .

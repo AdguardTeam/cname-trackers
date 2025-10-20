@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -99,6 +99,7 @@ console.channelvas.com CNAME .
 console.cincinnatimagazine.com CNAME .
 console.cricketworld.com CNAME .
 console.datateam.co.uk CNAME .
+console.engineeringnews.co.za CNAME .
 console.everythingcolorado.com CNAME .
 console.faithlifeads.com CNAME .
 console.falconstudios.com CNAME .
@@ -116,6 +117,7 @@ console.mannixmarketing.com CNAME .
 console.miningweekly.com CNAME .
 console.myadsmyanmar.com CNAME .
 console.pinktriangle.ca CNAME .
+console.polity.org.za CNAME .
 console.postandparcel.info CNAME .
 console.revive-adserver.net CNAME .
 console.sacommunications.com CNAME .
@@ -138,6 +140,7 @@ images.informatm.com CNAME .
 images.jacilla.no CNAME .
 images.mannenmedia.nl CNAME .
 images.proxena-adserver.com CNAME .
+images.sacommunications.com CNAME .
 images.swiss-equestrian.ch CNAME .
 images.worldofshowjumping.com CNAME .
 images.xtraa.org CNAME .

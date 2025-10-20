@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -108,6 +108,7 @@ utiq.dacia.fr CNAME .
 utiq.dasgelbeblatt.de CNAME .
 utiq.derwesten.de CNAME .
 utiq.desired.de CNAME .
+utiq.dev.stern.de CNAME .
 utiq.diaridegirona.cat CNAME .
 utiq.diariocordoba.com CNAME .
 utiq.diariodeibiza.es CNAME .
@@ -355,6 +356,7 @@ utiq.psychologies.com CNAME .
 utiq.publisher-demo.media CNAME .
 utiq.purebreak.com CNAME .
 utiq.purepeople.com CNAME .
+utiq.rac1.cat CNAME .
 utiq.regio7.cat CNAME .
 utiq.reisefrage.net CNAME .
 utiq.renault.fr CNAME .

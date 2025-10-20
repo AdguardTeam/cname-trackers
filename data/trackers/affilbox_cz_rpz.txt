@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -175,7 +175,6 @@ affiliate.fotopasti-bunaty.cz CNAME .
 affiliate.geoweb.easy.cz CNAME .
 affiliate.golfplan.org CNAME .
 affiliate.growmarket.cz CNAME .
-affiliate.hamham.cz CNAME .
 affiliate.hanibal.cz CNAME .
 affiliate.herbadent.cz CNAME .
 affiliate.hokr.eu CNAME .
@@ -284,7 +283,6 @@ affiliateold.firma20.cz CNAME .
 affiliates.adinternet.cz CNAME .
 affilo.crosta.cz CNAME .
 affilo.crosta.sk CNAME .
-affilo.damoda.cz CNAME .
 affilo.janie.cz CNAME .
 affilo.lingerio.cz CNAME .
 affilo.vivaboty.cz CNAME .
@@ -707,6 +705,7 @@ partner.prosperity-vision.com CNAME .
 partner.prosperk.cz CNAME .
 partner.psidetektiv.cz CNAME .
 partner.pureharmony.cz CNAME .
+partner.resinstudio.cz CNAME .
 partner.respelen.cz CNAME .
 partner.root.cz CNAME .
 partner.rozhladna.sk CNAME .

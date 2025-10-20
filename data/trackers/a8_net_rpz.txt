@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -253,6 +253,7 @@ a8.pcnext.shop CNAME .
 a8.pcwrap.com CNAME .
 a8.personalfile.tech CNAME .
 a8.petfood.mtflat.co.jp CNAME .
+a8.pikaichi.co.jp CNAME .
 a8.pla-cole.wedding CNAME .
 a8.pocket-m.jp CNAME .
 a8.polyglots.net CNAME .
@@ -895,7 +896,6 @@ a8cv.direct.shark.co.jp CNAME .
 a8cv.diyfactory.jp CNAME .
 a8cv.doctor-agent.com CNAME .
 a8cv.doctoryotsu.com CNAME .
-a8cv.dodopep-kobe.com CNAME .
 a8cv.dokoyorimo.com CNAME .
 a8cv.dokugaku-dx.com CNAME .
 a8cv.downjacket.pro CNAME .
@@ -927,7 +927,6 @@ a8cv.english-village.net CNAME .
 a8cv.entre-salon.com CNAME .
 a8cv.entry.renet.jp CNAME .
 a8cv.est-online.com CNAME .
-a8cv.euria.store CNAME .
 a8cv.exrg-premium.shop CNAME .
 a8cv.eys-musicschool.com CNAME .
 a8cv.f.012grp.co.jp CNAME .
@@ -1132,6 +1131,7 @@ a8cv.oisix.com CNAME .
 a8cv.omakase-cyber-mimamori.net CNAME .
 a8cv.omni7.jp CNAME .
 a8cv.omobic.com CNAME .
+a8cv.omtogether.jp CNAME .
 a8cv.one-netbook.jp CNAME .
 a8cv.onebride.jp CNAME .
 a8cv.online-mega.com CNAME .
@@ -1152,7 +1152,6 @@ a8cv.paintory.com CNAME .
 a8cv.palms-gym.com CNAME .
 a8cv.peraichiapp.com CNAME .
 a8cv.pf.classicmusic.tokyo CNAME .
-a8cv.phonim.com CNAME .
 a8cv.photo.concorde-corp.jp CNAME .
 a8cv.photojoy.jp CNAME .
 a8cv.physiqueframe.com CNAME .

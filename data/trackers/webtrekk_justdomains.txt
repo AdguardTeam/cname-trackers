@@ -236,8 +236,6 @@ wbtrkk.teufelaudio.it
 wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
 web.autobodytoolmart.com
-web.b2bimperialfashion.com
-web.b2bpleasefashion.com
 web.bankofscotland.de
 web.campaign.jaked.com
 web.campaign.miriade.com
@@ -265,6 +263,7 @@ web.e.pvccladding.com
 web.e.rapidonline.com
 web.e.soakaways.com
 web.email.amplifiedclothing.com
+web.email.bricocenter.it
 web.email.farrow-ball.com
 web.email.mishimoto.co.uk
 web.email.mishimoto.com
@@ -315,15 +314,12 @@ web.news.absurdbeauty.com
 web.news.bottegaverde.com
 web.news.boxeurdesrues.com
 web.news.coccinelle.com
-web.news.dixiefashion.com
 web.news.eprice.it
 web.news.gnv.it
-web.news.imperialfashion.com
 web.news.kasanova.com
 web.news.lancel.com
 web.news.paganistore.com
 web.news.piquadro.com
-web.news.pleasefashion.com
 web.news.sbm.mc
 web.news.thebridge.it
 web.news.turnbullandasser.co.uk
@@ -358,7 +354,6 @@ web.sensilab.si
 web.sensilab.sk
 web.sidsavage.com
 web.slimjoy.com
-web.slimjoy.cz
 web.slimjoy.es
 web.slimjoy.org
 web.slimjoy.sk

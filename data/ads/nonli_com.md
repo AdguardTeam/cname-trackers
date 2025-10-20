@@ -227,6 +227,7 @@
 | l.motorpasion.com.mx | tls.non.li |
 | l.mouv.fr | tls.non.li |
 | l.moviepilot.de | tls.non.li |
+| l.neonmag.fr | tls.non.li |
 | l.netmums.com | tls.non.li |
 | l.nextplz.fr | tls.non.li |
 | l.notretemps.com | tls.non.li |
@@ -238,6 +239,7 @@
 | l.onzemondial.com | tls.non.li |
 | l.ouest-france.fr | tls.non.li |
 | l.ozap.com | tls.non.li |
+| l.paris-jetequitte.com | tls.non.li |
 | l.paris-normandie.fr | tls.non.li |
 | l.paroledemamans.com | tls.non.li |
 | l.peaches.fr | tls.non.li |

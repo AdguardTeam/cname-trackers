@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760342408746        ; Serial
+           1760947209144        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -247,8 +247,6 @@ wbtrkk.teufelaudio.it CNAME .
 wbtrkk.teufelaudio.nl CNAME .
 wbtrkk.teufelaudio.pl CNAME .
 web.autobodytoolmart.com CNAME .
-web.b2bimperialfashion.com CNAME .
-web.b2bpleasefashion.com CNAME .
 web.bankofscotland.de CNAME .
 web.campaign.jaked.com CNAME .
 web.campaign.miriade.com CNAME .
@@ -276,6 +274,7 @@ web.e.pvccladding.com CNAME .
 web.e.rapidonline.com CNAME .
 web.e.soakaways.com CNAME .
 web.email.amplifiedclothing.com CNAME .
+web.email.bricocenter.it CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.mishimoto.co.uk CNAME .
 web.email.mishimoto.com CNAME .
@@ -326,15 +325,12 @@ web.news.absurdbeauty.com CNAME .
 web.news.bottegaverde.com CNAME .
 web.news.boxeurdesrues.com CNAME .
 web.news.coccinelle.com CNAME .
-web.news.dixiefashion.com CNAME .
 web.news.eprice.it CNAME .
 web.news.gnv.it CNAME .
-web.news.imperialfashion.com CNAME .
 web.news.kasanova.com CNAME .
 web.news.lancel.com CNAME .
 web.news.paganistore.com CNAME .
 web.news.piquadro.com CNAME .
-web.news.pleasefashion.com CNAME .
 web.news.sbm.mc CNAME .
 web.news.thebridge.it CNAME .
 web.news.turnbullandasser.co.uk CNAME .
@@ -369,7 +365,6 @@ web.sensilab.si CNAME .
 web.sensilab.sk CNAME .
 web.sidsavage.com CNAME .
 web.slimjoy.com CNAME .
-web.slimjoy.cz CNAME .
 web.slimjoy.es CNAME .
 web.slimjoy.org CNAME .
 web.slimjoy.sk CNAME .

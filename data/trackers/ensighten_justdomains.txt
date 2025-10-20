@@ -129,6 +129,7 @@ cmp.dieteren.be
 cmp.dieterencenters.be
 cmp.dieterengroup.com
 cmp.dieterenmobilitycompany.be
+cmp.mamobilitezen.be
 cmp.mespneushiver.be
 cmp.microlino.be
 cmp.mijnwinterbanden.be
@@ -273,6 +274,7 @@ nexus.tdinsurance.com
 nexus.toyota.com
 nexus.virginholidays.co.uk
 ntms-test.coles.com.au
+ntms-test.creditcards.money.qantas.com
 ntms-test.koganmoney.com.au
 ntms.coles.com.au
 ntms.creditcards.money.qantas.com
@@ -354,7 +356,6 @@ t.janieandjack.com
 tagman.britishairways.com
 tagman.crystalsummer.co.uk
 tagman.guoman.com
-tagman.silversingles.com
 tagman.surfstitch.com
 tagman.thebodyshop-usa.com
 tagman.thistle.com
