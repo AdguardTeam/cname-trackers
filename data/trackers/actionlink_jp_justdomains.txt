@@ -32,6 +32,7 @@ al.elekit-store.com
 al.engei.net
 al.entresquare.com
 al.epoi-jp.com
+al.everlifegroup.jp
 al.fafa-shop.com
 al.fakui.jp
 al.ffs-online.shop
@@ -52,6 +53,7 @@ al.kbwine.com
 al.keymemory.co.jp
 al.kosei.com
 al.maikon.jp
+al.marukajozo-shop.jp
 al.megumistory.jp
 al.mikegray.jp
 al.mitsubachi-note.com
@@ -97,6 +99,7 @@ al.tokimeku-otoriyose.jp
 al.tsukurupajama.jp
 al.ttandco.com
 al.ur-s.me
+al.urban-grow.shop
 al.urban-square.jp
 al.urbancosme.co.jp
 al.uzu-japan.com

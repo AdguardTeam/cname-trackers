@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -132,11 +132,15 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
+em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
-em767.forgetrust.com CNAME .
-em8642.notifications.acorns.com CNAME .
+em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
+em924.refer.starbucks.com CNAME .
+emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -211,6 +215,7 @@ refer.cbdpillow.com CNAME .
 refer.centier.com CNAME .
 refer.centurylink.com CNAME .
 refer.chacos.com CNAME .
+refer.chancedavis.net CNAME .
 refer.cheaptickets.com CNAME .
 refer.chicos.com CNAME .
 refer.chicosofftherack.com CNAME .
@@ -346,7 +351,6 @@ refer.pacificservice.org CNAME .
 refer.pacsafe.com CNAME .
 refer.pacu.com CNAME .
 refer.panerabread.com CNAME .
-refer.paylocity.com CNAME .
 refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
 refer.pjfitz.com CNAME .
@@ -397,6 +401,7 @@ refer.starfurniture.com CNAME .
 refer.steelseries.com CNAME .
 refer.stopandshop.com CNAME .
 refer.striderite.com CNAME .
+refer.styleitforwardreward.ca CNAME .
 refer.styleitforwardreward.com CNAME .
 refer.sugarandjade.com CNAME .
 refer.sundancevacations.com CNAME .
@@ -415,6 +420,7 @@ refer.thepopcornfactory.com CNAME .
 refer.thesculptsociety.com CNAME .
 refer.thewildest.com CNAME .
 refer.thirdlove.com CNAME .
+refer.titangps.com CNAME .
 refer.tomorrowsleep.com CNAME .
 refer.tous.com CNAME .
 refer.truwest.org CNAME .
@@ -439,6 +445,7 @@ refer.wine.com CNAME .
 refer.wolverine.com CNAME .
 refer.wrangler.com CNAME .
 refer.xfinity.com CNAME .
+refer.yotoplay.com CNAME .
 refer.zenhaven.com CNAME .
 refer.zentrointernet.com CNAME .
 refer.zipcar.ca CNAME .
@@ -797,21 +804,17 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-em1476.princesscruises.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
 em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
-em5230.rewards.dailypay.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
-em7952.dailypay.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
 em8031.soundcloud.com CNAME .
-em8561.go2bank.com CNAME .
+em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
 em9523.walmartmoneycard.com CNAME .
-emxxxx.rent.app CNAME .
 xtl._domainkey.dailypay.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .

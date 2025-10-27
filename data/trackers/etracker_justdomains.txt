@@ -46,6 +46,7 @@ estat.edel-kraut.de
 estats.globus.de
 et.akademie-handel.de
 et.alphalas.com
+et.bleibwacker.com
 et.corpuls.hospital
 et.corpuls.world
 et.dremo.com
@@ -173,6 +174,7 @@ stats.united-domains.de
 stats.vorarlbergerjobs.at
 stats.wasserfilteroase.de
 stats.wienerjobs.at
+stgstats.die-bibel.de
 sun.solar-haus.de
 system.affiliate-marketing-hamburg.de
 system.j5media.de

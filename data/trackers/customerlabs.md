@@ -25,6 +25,7 @@
     * rulrdow.customers.1p-data.co
     * rwlywoe.customers.1p-data.co
     * tzfgzgo.customers.1p-data.co
+    * uaxfwsb.customers.1p-data.co
     * ucscaik.customers.1p-data.co
     * ujyloty.customers.1p-data.co
     * untrhhc.customers.1p-data.co
@@ -59,6 +60,7 @@
 | rulrdow.solawave.co | rulrdow.customers.1p-data.co |
 | rwlywoe.keepnaturewild.com | rwlywoe.customers.1p-data.co |
 | tzfgzgo.quickservicepanama.com | tzfgzgo.customers.1p-data.co |
+| uaxfwsb.smallflower.com | uaxfwsb.customers.1p-data.co |
 | ucscaik.gardencup.com | ucscaik.customers.1p-data.co |
 | ujyloty.kingofchristmas.com | ujyloty.customers.1p-data.co |
 | untrhhc.veneera.co.uk | untrhhc.customers.1p-data.co |

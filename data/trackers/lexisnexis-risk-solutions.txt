@@ -16,6 +16,7 @@
 ||aegis.miio.mx^
 ||af.mobile.free.fr^
 ||afm.alphatick.com^
+||afm.asiacngw.com^
 ||afm.cnthevtmarkets.com^
 ||afm.cnvtglobal.com^
 ||afm.crointech.io^
@@ -337,6 +338,8 @@
 ||content.frs.fl.gov^
 ||content.gap.co.jp^
 ||content.gap.com^
+||content.gapcanada.ca^
+||content.gapfactory.ca^
 ||content.gapfactory.com^
 ||content.gaptechol.com^
 ||content.happybank.com^
@@ -460,7 +463,6 @@
 ||content22.citi.com^
 ||content22.citibank.ae^
 ||content22.citibank.co.id^
-||content22.citibank.co.in^
 ||content22.citibank.com^
 ||content22.citibank.com.au^
 ||content22.citibank.com.hk^
@@ -548,6 +550,7 @@
 ||dii.bankaust.com.au^
 ||directinfo.ib.mizuhobank.co.jp^
 ||dm-prod-visapay.m2pfintech.com^
+||dmo-services-tmx.cofidis.cz^
 ||dol-reemployme-js01.maine.gov^
 ||donor.cafamerica.org^
 ||dp.barclaycardus.com^
@@ -847,6 +850,7 @@
 ||prod-dexsta.chaperone.lumindigitalhosting.com^
 ||prod-ffcuin.chaperone.lumindigitalhosting.com^
 ||prod-firstmark.chaperone.lumindigitalhosting.com^
+||prod-fortcomm-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-frontier.chaperone.lumindigitalhosting.com^
 ||prod-fsfcutn.chaperone.lumindigitalhosting.com^
 ||prod-hfcuvt.chaperone.lumindigitalhosting.com^
@@ -1024,6 +1028,7 @@
 ||srv.squaretrade.de^
 ||srv.squaretrade.dk^
 ||srv.squaretrade.es^
+||srv.squaretrade.eu^
 ||srv.squaretrade.fi^
 ||srv.squaretrade.hu^
 ||srv.squaretrade.nl^
@@ -1165,6 +1170,7 @@
 ||tm.humanesociety.org^
 ||tm.humaneworld.org^
 ||tm.kotak.com^
+||tm.nowfinance.com.au^
 ||tm.okinushub.com^
 ||tm.paysafecard.com^
 ||tm.play.pl^

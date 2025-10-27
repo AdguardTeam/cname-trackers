@@ -54,6 +54,7 @@
 ||rb.umspecrek.ru^
 ||rbfour.bid^
 ||rbig.pcyk.ru^
+||rbm.tbmods.ru^
 ||rbone.link^
 ||rbparks.sskarta.ru^
 ||rbthre.work^
@@ -72,7 +73,6 @@
 ||www.androidstores.ru^
 ||www.fasder12.ru^
 ||www.fasder12.store^
-||www.gorrio.ru^
 ||www.horpush.ru^
 ||www.mojwprb.ru^
 ||www.orbitnotify.com^

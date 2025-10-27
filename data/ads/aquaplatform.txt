@@ -76,6 +76,8 @@
 ||cdn.reviveservers.com^
 ||cdn.rlnads.net^
 ||championads.midtc.com^
+||console.ad.logic-prod.viasat.io^
+||console.ad.logic-test.viasat.io^
 ||console.ad.logic.viasat.io^
 ||console.adbility-media.com^
 ||console.adspmg.com^
@@ -103,6 +105,7 @@
 ||console.leightonbroadcasting.com^
 ||console.livingmagonline.com^
 ||console.mannixmarketing.com^
+||console.medlabmag.com^
 ||console.miningweekly.com^
 ||console.myadsmyanmar.com^
 ||console.pinktriangle.ca^
@@ -110,6 +113,7 @@
 ||console.postandparcel.info^
 ||console.revive-adserver.net^
 ||console.sacommunications.com^
+||console.schrotundkorn.de^
 ||console.trackandfieldnews.com^
 ||console.walaplusadserver.com^
 ||coreads-static.cambridge.org^
@@ -177,6 +181,7 @@
 ||servedby.hour-media.com^
 ||servedby.imagineobx.com^
 ||servedby.insideradverts.com^
+||servedby.isn.nl^
 ||servedby.lamag.com^
 ||servedby.livingmagonline.com^
 ||servedby.mannixmarketing.com^
@@ -203,9 +208,11 @@
 ||servedby.walaplusadserver.com^
 ||servedby.xtraa.org^
 ||server.ad.logic-prod.viasat.io^
+||server.ad.logic-test.viasat.io^
 ||server.ad.logic.viasat.io^
 ||static.ad.logic-prod.viasat.io^
 ||static.ad.logic-test.viasat.io^
+||static.ad.logic.viasat.io^
 ||static.ahk.de^
 ||static.ammoland.com^
 ||static.aqua-adserver.com^
@@ -256,6 +263,8 @@
 ||www.adserver.sniffies.com^
 ||www.adserver.sonicplug.com^
 ||www.adwin.geenstijl.nl^
+||www.api.ad.logic-prod.viasat.io^
+||www.api.ad.logic-test.viasat.io^
 ||www.api.ad.logic.viasat.io^
 ||www.api.adbility-media.com^
 ||www.api.metrike.com^
@@ -263,6 +272,9 @@
 ||www.cdn.adspmg.com^
 ||www.cdn.datateam.co.uk^
 ||www.cdn.metrike.com^
+||www.console.ad.logic-prod.viasat.io^
+||www.console.ad.logic-test.viasat.io^
+||www.console.ad.logic.viasat.io^
 ||www.console.adspmg.com^
 ||www.console.biohandel.de^
 ||www.console.ceramicartsnetwork.org^
@@ -297,7 +309,12 @@
 ||www.servedby.sacommunications.com^
 ||www.servedby.schrotundkorn.de^
 ||www.servedby.trackandfieldnews.com^
+||www.server.ad.logic-prod.viasat.io^
+||www.server.ad.logic-test.viasat.io^
+||www.server.ad.logic.viasat.io^
+||www.static.ad.logic-prod.viasat.io^
 ||www.static.ad.logic-test.viasat.io^
+||www.static.ad.logic.viasat.io^
 ||www.static.engineeringnews.co.za^
 ||www.static.everythingnevada.com^
 ||www.static.healthcarescene.com^

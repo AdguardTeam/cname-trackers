@@ -404,7 +404,6 @@
 | mapp.peacocks.co.uk | 642216731269756.wt-eu02.net |
 | data.news.juventus.com | 645617463084043.wt-eu02.net |
 | info.deltapublishing.co.uk | 654069251471705.wt-eu02.net |
-| web.slimjoy.com | 657801072187647.wt-eu02.net |
 | web.slimjoy.es | 657801072187647.wt-eu02.net |
 | web.slimjoy.org | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,6 +43,7 @@ al.elekit-store.com CNAME .
 al.engei.net CNAME .
 al.entresquare.com CNAME .
 al.epoi-jp.com CNAME .
+al.everlifegroup.jp CNAME .
 al.fafa-shop.com CNAME .
 al.fakui.jp CNAME .
 al.ffs-online.shop CNAME .
@@ -63,6 +64,7 @@ al.kbwine.com CNAME .
 al.keymemory.co.jp CNAME .
 al.kosei.com CNAME .
 al.maikon.jp CNAME .
+al.marukajozo-shop.jp CNAME .
 al.megumistory.jp CNAME .
 al.mikegray.jp CNAME .
 al.mitsubachi-note.com CNAME .
@@ -108,6 +110,7 @@ al.tokimeku-otoriyose.jp CNAME .
 al.tsukurupajama.jp CNAME .
 al.ttandco.com CNAME .
 al.ur-s.me CNAME .
+al.urban-grow.shop CNAME .
 al.urban-square.jp CNAME .
 al.urbancosme.co.jp CNAME .
 al.uzu-japan.com CNAME .

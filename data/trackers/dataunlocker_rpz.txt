@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -78,6 +78,7 @@ dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 fkupm8697t19.eyevolution.de CNAME .
+fomsdph4lf9c.test.eldorado.gg CNAME .
 hht8m6w8mnug.quine.sh CNAME .
 htahii1lpt4u.boxoffice.adventuretix.com CNAME .
 ia84berzxy7v.de.themoneytizer.com CNAME .
@@ -86,7 +87,6 @@ ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
 jc917x3.adaptive.marketing CNAME .
-jiktq0fr9hv6.meleton.ru CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
 lj5s1u8ct5vz.app.chatpay.dev CNAME .

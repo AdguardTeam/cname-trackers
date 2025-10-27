@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -87,6 +87,8 @@ cdn.revive-adserver.net CNAME .
 cdn.reviveservers.com CNAME .
 cdn.rlnads.net CNAME .
 championads.midtc.com CNAME .
+console.ad.logic-prod.viasat.io CNAME .
+console.ad.logic-test.viasat.io CNAME .
 console.ad.logic.viasat.io CNAME .
 console.adbility-media.com CNAME .
 console.adspmg.com CNAME .
@@ -114,6 +116,7 @@ console.isn.nl CNAME .
 console.leightonbroadcasting.com CNAME .
 console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
+console.medlabmag.com CNAME .
 console.miningweekly.com CNAME .
 console.myadsmyanmar.com CNAME .
 console.pinktriangle.ca CNAME .
@@ -121,6 +124,7 @@ console.polity.org.za CNAME .
 console.postandparcel.info CNAME .
 console.revive-adserver.net CNAME .
 console.sacommunications.com CNAME .
+console.schrotundkorn.de CNAME .
 console.trackandfieldnews.com CNAME .
 console.walaplusadserver.com CNAME .
 coreads-static.cambridge.org CNAME .
@@ -188,6 +192,7 @@ servedby.hollandhortimedia.nl CNAME .
 servedby.hour-media.com CNAME .
 servedby.imagineobx.com CNAME .
 servedby.insideradverts.com CNAME .
+servedby.isn.nl CNAME .
 servedby.lamag.com CNAME .
 servedby.livingmagonline.com CNAME .
 servedby.mannixmarketing.com CNAME .
@@ -214,9 +219,11 @@ servedby.trackandfieldnews.com CNAME .
 servedby.walaplusadserver.com CNAME .
 servedby.xtraa.org CNAME .
 server.ad.logic-prod.viasat.io CNAME .
+server.ad.logic-test.viasat.io CNAME .
 server.ad.logic.viasat.io CNAME .
 static.ad.logic-prod.viasat.io CNAME .
 static.ad.logic-test.viasat.io CNAME .
+static.ad.logic.viasat.io CNAME .
 static.ahk.de CNAME .
 static.ammoland.com CNAME .
 static.aqua-adserver.com CNAME .
@@ -267,6 +274,8 @@ www.ads.proxibid.com CNAME .
 www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.adwin.geenstijl.nl CNAME .
+www.api.ad.logic-prod.viasat.io CNAME .
+www.api.ad.logic-test.viasat.io CNAME .
 www.api.ad.logic.viasat.io CNAME .
 www.api.adbility-media.com CNAME .
 www.api.metrike.com CNAME .
@@ -274,6 +283,9 @@ www.cdn-adv.unionesarda.it CNAME .
 www.cdn.adspmg.com CNAME .
 www.cdn.datateam.co.uk CNAME .
 www.cdn.metrike.com CNAME .
+www.console.ad.logic-prod.viasat.io CNAME .
+www.console.ad.logic-test.viasat.io CNAME .
+www.console.ad.logic.viasat.io CNAME .
 www.console.adspmg.com CNAME .
 www.console.biohandel.de CNAME .
 www.console.ceramicartsnetwork.org CNAME .
@@ -308,7 +320,12 @@ www.servedby.quirks.com CNAME .
 www.servedby.sacommunications.com CNAME .
 www.servedby.schrotundkorn.de CNAME .
 www.servedby.trackandfieldnews.com CNAME .
+www.server.ad.logic-prod.viasat.io CNAME .
+www.server.ad.logic-test.viasat.io CNAME .
+www.server.ad.logic.viasat.io CNAME .
+www.static.ad.logic-prod.viasat.io CNAME .
 www.static.ad.logic-test.viasat.io CNAME .
+www.static.ad.logic.viasat.io CNAME .
 www.static.engineeringnews.co.za CNAME .
 www.static.everythingnevada.com CNAME .
 www.static.healthcarescene.com CNAME .

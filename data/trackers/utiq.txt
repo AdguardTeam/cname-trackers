@@ -181,6 +181,7 @@
 ||utiq.hallo-muenchen.de^
 ||utiq.hanauer.de^
 ||utiq.handelsblatt.com^
+||utiq.harpersbazaar.fr^
 ||utiq.hbrfrance.fr^
 ||utiq.heftig.de^
 ||utiq.heimatsport.de^

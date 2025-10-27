@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -65,6 +65,7 @@ rb.slova-accordy.ru CNAME .
 rb.umspecrek.ru CNAME .
 rbfour.bid CNAME .
 rbig.pcyk.ru CNAME .
+rbm.tbmods.ru CNAME .
 rbone.link CNAME .
 rbparks.sskarta.ru CNAME .
 rbthre.work CNAME .
@@ -83,7 +84,6 @@ www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .
 www.fasder12.ru CNAME .
 www.fasder12.store CNAME .
-www.gorrio.ru CNAME .
 www.horpush.ru CNAME .
 www.mojwprb.ru CNAME .
 www.orbitnotify.com CNAME .

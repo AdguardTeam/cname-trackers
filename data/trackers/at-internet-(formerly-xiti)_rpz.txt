@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -99,6 +99,7 @@ stiwa.test.de CNAME .
 strawberry.basf.ca CNAME .
 strawberry.basf.com CNAME .
 strawberry.basf.us CNAME .
+tja-expiration.pa-cd-dev.com CNAME .
 tm.urssaf.fr CNAME .
 tm.urssaf.org CNAME .
 tse.telerama.fr CNAME .

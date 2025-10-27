@@ -62,6 +62,7 @@
 | estats.globus.de | customer.etracker.com |
 | et.akademie-handel.de | customer.etracker.com |
 | et.alphalas.com | customer.etracker.com |
+| et.bleibwacker.com | customer.etracker.com |
 | et.corpuls.hospital | customer.etracker.com |
 | et.corpuls.world | customer.etracker.com |
 | et.dremo.com | customer.etracker.com |
@@ -189,6 +190,7 @@
 | stats.vorarlbergerjobs.at | customer.etracker.com |
 | stats.wasserfilteroase.de | customer.etracker.com |
 | stats.wienerjobs.at | customer.etracker.com |
+| stgstats.die-bibel.de | customer.etracker.com |
 | sun.solar-haus.de | customer.etracker.com |
 | system.affiliate-marketing-hamburg.de | customer.etracker.com |
 | system.j5media.de | customer.etracker.com |

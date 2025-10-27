@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -46,6 +46,7 @@ l.aisnenouvelle.fr CNAME .
 l.allocine.fr CNAME .
 l.alternatives-economiques.fr CNAME .
 l.applesfera.com CNAME .
+l.argentauquotidien.com CNAME .
 l.aufeminin.com CNAME .
 l.aujourdhui.fr CNAME .
 l.auto-moto.com CNAME .
@@ -146,6 +147,7 @@ l.ladepeche.fr CNAME .
 l.lalettre.fr CNAME .
 l.lalsace.fr CNAME .
 l.lamanchelibre.fr CNAME .
+l.lamontagne.fr CNAME .
 l.lanouvellerepublique.fr CNAME .
 l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
@@ -162,6 +164,7 @@ l.lefigaro.fr CNAME .
 l.lejournaldelamaison.fr CNAME .
 l.lejournaldici.com CNAME .
 l.lejsl.com CNAME .
+l.lemagauquotidien.com CNAME .
 l.lemoniteurdespharmacies.fr CNAME .
 l.leparisien.fr CNAME .
 l.lepoint.fr CNAME .
@@ -215,6 +218,7 @@ l.paris-turf.com CNAME .
 l.paroledemamans.com CNAME .
 l.peaches.fr CNAME .
 l.petitbleu.fr CNAME .
+l.plaisirauquotidien.com CNAME .
 l.planet.fr CNAME .
 l.pleinevie.fr CNAME .
 l.positivr.fr CNAME .

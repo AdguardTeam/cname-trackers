@@ -1167,7 +1167,6 @@
 ||www.00404850.xyz^
 ||www.02085170.xyz^
 ||www.02952346.xyz^
-||www.05420795.xyz^
 ||www.06969451.xyz^
 ||www.07327127.xyz^
 ||www.07443488.xyz^
@@ -1197,7 +1196,6 @@
 ||www.46222568.xyz^
 ||www.47206262.xyz^
 ||www.47235645.xyz^
-||www.47415889.xyz^
 ||www.49709796.xyz^
 ||www.4tr3sopq592o7svp1q6mn3.xyz^
 ||www.4tuswl47353p4wl8lsk.xyz^
@@ -1212,7 +1210,6 @@
 ||www.64786087.xyz^
 ||www.65122038.xyz^
 ||www.661kkm40uu6srww1mvso.xyz^
-||www.69681858.xyz^
 ||www.69799884.xyz^
 ||www.72891504.xyz^
 ||www.73568955.xyz^
@@ -1302,4 +1299,5 @@
 ||www.worthequally.com^
 ||www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||www.yippeewhenever.com^
+||www.yuckbleaklyphooeywhen.com^
 ||www.yumhusk.com^

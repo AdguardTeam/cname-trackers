@@ -116,6 +116,7 @@
     * revivehosted-console.aquaplatform.com
     * revivehosted-delivery.aquaplatform.com
     * revivehosted-static.aquaplatform.com
+    * ridgewood-console.aquaplatform.com
     * ridgewood-delivery.aquaplatform.com
     * ridgewood-static.aquaplatform.com
     * romand-console.aquaplatform.com
@@ -173,6 +174,7 @@
 | ads.lot-tissimo.com | atg-delivery.aquaplatform.com |
 | static.lot-tissimo.com | atg-static.aquaplatform.com |
 | console.biohandel.de | bioverlag-console.aquaplatform.com |
+| console.schrotundkorn.de | bioverlag-console.aquaplatform.com |
 | www.console.biohandel.de | bioverlag-console.aquaplatform.com |
 | www.console.schrotundkorn.de | bioverlag-console.aquaplatform.com |
 | servedby.biohandel.de | bioverlag-delivery.aquaplatform.com |
@@ -406,6 +408,7 @@
 | adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | servedby-thinkresult.revive-adserver.net | revivehosted-delivery.aquaplatform.com |
 | servedby.cricketworld.com | revivehosted-delivery.aquaplatform.com |
+| servedby.isn.nl | revivehosted-delivery.aquaplatform.com |
 | servedby.revive-adserver.net | revivehosted-delivery.aquaplatform.com |
 | servedby.thinkresult.in | revivehosted-delivery.aquaplatform.com |
 | www.adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
@@ -415,6 +418,7 @@
 | images.cricketworld.com | revivehosted-static.aquaplatform.com |
 | images.falconstudios.com | revivehosted-static.aquaplatform.com |
 | static.isn.nl | revivehosted-static.aquaplatform.com |
+| console.medlabmag.com | ridgewood-console.aquaplatform.com |
 | servedby.medlabmag.com | ridgewood-delivery.aquaplatform.com |
 | servedby.pppmag.com | ridgewood-delivery.aquaplatform.com |
 | static.pppmag.com | ridgewood-static.aquaplatform.com |
@@ -443,13 +447,27 @@
 | api.ad.logic-prod.viasat.io | viasat-console.aquaplatform.com |
 | api.ad.logic-test.viasat.io | viasat-console.aquaplatform.com |
 | api.ad.logic.viasat.io | viasat-console.aquaplatform.com |
+| console.ad.logic-prod.viasat.io | viasat-console.aquaplatform.com |
+| console.ad.logic-test.viasat.io | viasat-console.aquaplatform.com |
 | console.ad.logic.viasat.io | viasat-console.aquaplatform.com |
+| www.api.ad.logic-prod.viasat.io | viasat-console.aquaplatform.com |
+| www.api.ad.logic-test.viasat.io | viasat-console.aquaplatform.com |
 | www.api.ad.logic.viasat.io | viasat-console.aquaplatform.com |
+| www.console.ad.logic-prod.viasat.io | viasat-console.aquaplatform.com |
+| www.console.ad.logic-test.viasat.io | viasat-console.aquaplatform.com |
+| www.console.ad.logic.viasat.io | viasat-console.aquaplatform.com |
 | server.ad.logic-prod.viasat.io | viasat-delivery.aquaplatform.com |
+| server.ad.logic-test.viasat.io | viasat-delivery.aquaplatform.com |
 | server.ad.logic.viasat.io | viasat-delivery.aquaplatform.com |
+| www.server.ad.logic-prod.viasat.io | viasat-delivery.aquaplatform.com |
+| www.server.ad.logic-test.viasat.io | viasat-delivery.aquaplatform.com |
+| www.server.ad.logic.viasat.io | viasat-delivery.aquaplatform.com |
 | static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |
 | static.ad.logic-test.viasat.io | viasat-static.aquaplatform.com |
+| static.ad.logic.viasat.io | viasat-static.aquaplatform.com |
+| www.static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |
 | www.static.ad.logic-test.viasat.io | viasat-static.aquaplatform.com |
+| www.static.ad.logic.viasat.io | viasat-static.aquaplatform.com |
 | revive-console.worldscreen.com | worldscreen-console.aquaplatform.com |
 | revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
 | www.revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |

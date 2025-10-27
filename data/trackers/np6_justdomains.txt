@@ -43,6 +43,7 @@ tr.animations.rmcbfm.com
 tr.apac.coms.moethennessy.com
 tr.apac.legal.moethennessy.com
 tr.apou032.espmp-agfr.net
+tr.arena.espmp-agfr.net
 tr.asp0.espmp-agfr.net
 tr.asp0010.espmp-nifr.net
 tr.asp0018.espmp-aufr.net
@@ -71,6 +72,7 @@ tr.asp106d.espmp-cufr.net
 tr.asp106g.espmp-nifr.net
 tr.asp106m.espmp-agfr.net
 tr.asp108a.espmp-cufr.net
+tr.asp108b.espmp-cufr.net
 tr.asp1098.espmp-cufr.net
 tr.asp109c.espmp-aufr.net
 tr.asp109e.espmp-cufr.net
@@ -268,6 +270,7 @@ tr.companeo-news.co.uk
 tr.comunicacao.younited-credit.com
 tr.comunicazione.younited-credit.com
 tr.contact.astuceco.fr
+tr.contact.cadenas.fr
 tr.contact.canalplay.com
 tr.contact.canalplus.fr
 tr.contact.canalsat.fr
@@ -523,6 +526,7 @@ tr.info.easyvoyage.de
 tr.info.ecole-de-savignac.com
 tr.info.fulli.com
 tr.info.galian.fr
+tr.info.grapp-hennessy.com
 tr.info.harmonie-mutuelle.fr
 tr.info.la-norma.fr
 tr.info.lacentrale.fr
@@ -588,6 +592,7 @@ tr.infos.fongecifcentre.com
 tr.infos.gazdebordeaux.fr
 tr.infos.lacarte.demenagez-moi.com
 tr.infos.lettre-resiliation.com
+tr.infos.lisez.com
 tr.infos.mnt.fr
 tr.infos.odalys-vacances.com
 tr.infos.resilier.com
@@ -909,7 +914,6 @@ tr.news.vraaguwofferte.be
 tr.news.vraaguwofferte.com
 tr.news.younited-coach.com
 tr.news.younited-credit.com
-tr.news.zebaz.fr
 tr.news2pjms.fr
 tr.news5.cdiscount.com
 tr.news6.cdiscount.com
@@ -1023,6 +1027,7 @@ tr.presupuesto-b2b.es
 tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro-renov.be
+tr.pro.myhomeflowercampings.com
 tr.pro.odalys-campus.com
 tr.pro.odalys-vacances.com
 tr.pro.residencehappysenior.fr
@@ -1073,6 +1078,7 @@ tr.satisfaction.villagesnature.com
 tr.schj.espmp-aufr.net
 tr.seat-fs-email.fr
 tr.secteurentreprises.harmonie-mutuelle.fr
+tr.security.perfectstay.com
 tr.send.kinvent.com
 tr.service-client.mhdfrance.fr
 tr.service.linxea.com
@@ -1168,6 +1174,7 @@ tr.urfk07c.espmp-aufr.net
 tr.urfk07e.espmp-aufr.net
 tr.urfk07h.espmp-agfr.net
 tr.urfk07j.espmp-nifr.net
+tr.urfk07n.espmp-agfr.net
 tr.urfk07r.espmp-agfr.net
 tr.urfk07s.espmp-nifr.net
 tr.urfk080.espmp-agfr.net

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -731,10 +731,8 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100002789.collect.igodigital.com CNAME .
 100002804.collect.igodigital.com CNAME .
 100002807.collect.igodigital.com CNAME .
-100002819.collect.igodigital.com CNAME .
 100002881.collect.igodigital.com CNAME .
 100002884.collect.igodigital.com CNAME .
-100002903.collect.igodigital.com CNAME .
 100003000.collect.igodigital.com CNAME .
 100003037.collect.igodigital.com CNAME .
 100003063.collect.igodigital.com CNAME .
@@ -788,7 +786,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100004512.collect.igodigital.com CNAME .
 100004571.collect.igodigital.com CNAME .
 100004590.collect.igodigital.com CNAME .
-100004906.collect.igodigital.com CNAME .
 100005072.collect.igodigital.com CNAME .
 100005082.collect.igodigital.com CNAME .
 100005244.collect.igodigital.com CNAME .
@@ -901,7 +898,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100010410.collect.igodigital.com CNAME .
 100010412.collect.igodigital.com CNAME .
 100010413.collect.igodigital.com CNAME .
-100010418.collect.igodigital.com CNAME .
 100010422.collect.igodigital.com CNAME .
 100010465.collect.igodigital.com CNAME .
 100010481.collect.igodigital.com CNAME .
@@ -1083,9 +1079,7 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 7203837.collect.igodigital.com CNAME .
 7206223.collect.igodigital.com CNAME .
 7206982.collect.igodigital.com CNAME .
-7207717.collect.igodigital.com CNAME .
 7207718.collect.igodigital.com CNAME .
-7208781.collect.igodigital.com CNAME .
 7209949.collect.igodigital.com CNAME .
 7212122.collect.igodigital.com CNAME .
 7217158.collect.igodigital.com CNAME .
@@ -1094,7 +1088,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 7223649.collect.igodigital.com CNAME .
 7223835.collect.igodigital.com CNAME .
 7225019.collect.igodigital.com CNAME .
-7226716.collect.igodigital.com CNAME .
 7227272.collect.igodigital.com CNAME .
 7227558.collect.igodigital.com CNAME .
 7231187.collect.igodigital.com CNAME .
@@ -1215,6 +1208,13 @@ therealreal.collect.igodigital.com CNAME .
 7325687.collect.igodigital.com CNAME .
 enviedeplus.collect.igodigital.com CNAME .
 sfdc.cottages.com CNAME .
+100002819.collect.igodigital.com CNAME .
+100002903.collect.igodigital.com CNAME .
+100004906.collect.igodigital.com CNAME .
+100010418.collect.igodigital.com CNAME .
+7207717.collect.igodigital.com CNAME .
+7208781.collect.igodigital.com CNAME .
+7226716.collect.igodigital.com CNAME .
 8ql60l2kzjanitvc.internal.pov.acceldatasolutions.net CNAME .
 be7wjd7htvadmddj.internal.pov.acceldatasolutions.net CNAME .
 ku3v7v2o10w0ptv9.internal.pov.acceldatasolutions.net CNAME .
@@ -1270,7 +1270,6 @@ analytics-dal-nfl.yinzcam.com CNAME .
 analytics-dal-nhl.yinzcam.com CNAME .
 analytics-dc-mls.yinzcam.com CNAME .
 analytics-den-nba.yinzcam.com CNAME .
-analytics-den-nfl.yinzcam.com CNAME .
 analytics-det-nhl.yinzcam.com CNAME .
 analytics-fla-nhl.yinzcam.com CNAME .
 analytics-hou-mls.yinzcam.com CNAME .
@@ -1300,7 +1299,6 @@ analytics-orl-nba.yinzcam.com CNAME .
 analytics-perth-venues.yinzcam.com CNAME .
 analytics-phi-nba.yinzcam.com CNAME .
 analytics-pit-nhl.yinzcam.com CNAME .
-analytics-por-nba.yinzcam.com CNAME .
 analytics-rgp-venues.yinzcam.com CNAME .
 analytics-sd-mls.yinzcam.com CNAME .
 analytics-sea-mls.yinzcam.com CNAME .
@@ -1320,6 +1318,8 @@ analytics-uta-nhl.yinzcam.com CNAME .
 analytics-was-nba.yinzcam.com CNAME .
 analytics-wol-fa.yinzcam.com CNAME .
 analytics-wso-ten.yinzcam.com CNAME .
+analytics-den-nfl.yinzcam.com CNAME .
+analytics-por-nba.yinzcam.com CNAME .
 analytics.5milesapp.com CNAME .
 analytics.airtv.net CNAME .
 analytics.sling.com CNAME .

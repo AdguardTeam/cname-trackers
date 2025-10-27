@@ -765,6 +765,7 @@ data-5a078ffbef.wb-immo.net
 data-5a078ffbef.wb-jobs.de
 data-5a078ffbef.wb-trauer.de
 data-5a078ffbef.westfalen-blatt.de
+data-5a2bbd7d77.apps.iocnt.de
 data-5a40478bd4.kino.de
 data-5a9f6e282a.ingenieur.de
 data-5aab0af339.apps.iocnt.de
@@ -1016,6 +1017,7 @@ data-75671117cf.radiowaf.de
 data-75671117cf.radiowafhilft.de
 data-75adc1b92b.fleischerei.de
 data-7609d780e9.apps.iocnt.de
+data-7613d707d4.enbausa.de
 data-767a8be759.berliner-kurier.de
 data-7723a9baa7.internetworld.at
 data-7723a9baa7.internetworld.de
@@ -1042,6 +1044,7 @@ data-79b61f918a.mittelbayerische.de
 data-7a3ad4c334.apps.iocnt.de
 data-7a534833b2.techbook.de
 data-7b326f376b.apps.iocnt.de
+data-7b4229ab74.eishockeynews.de
 data-7b4229ab74.idowa.de
 data-7b705d0b93.b4bschwaben.de
 data-7bd40aa49e.laendleimmo.at
@@ -1107,6 +1110,7 @@ data-84a0f3455d.transfermarkt.co.in
 data-84a0f3455d.transfermarkt.co.kr
 data-84a0f3455d.transfermarkt.com.ar
 data-84a0f3455d.transfermarkt.com.br
+data-84a0f3455d.transfermarkt.com.tr
 data-84a0f3455d.transfermarkt.de
 data-84a0f3455d.transfermarkt.es
 data-84a0f3455d.transfermarkt.fr
@@ -1275,6 +1279,7 @@ data-98b5a11c9b.radiolippe.de
 data-992b9a20ea.competitionline.com
 data-992bb00b0c.messen.de
 data-99329e3cb2.bilanz.de
+data-99329e3cb2.metal-hammer.de
 data-99329e3cb2.musikexpress.de
 data-99329e3cb2.rollingstone.de
 data-99329e3cb2.welt.de

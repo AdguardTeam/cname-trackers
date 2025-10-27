@@ -198,6 +198,7 @@
     * centier.extole.io
     * chacos.extole.io
     * chamberlain.extole.io
+    * chance-davis-test.extole.io
     * cheaper-than-dirt.extole.io
     * cheaptickets.extole.io
     * chewsidental.extole.io
@@ -232,6 +233,7 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -284,7 +286,6 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
-    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
@@ -304,6 +305,7 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * gpsinsight.extole.io
     * granitegaragefloors.extole.io
@@ -415,7 +417,6 @@
     * newtonbaby.extole.io
     * nfhs-network.extole.io
     * ngfcu.extole.io
-    * notifications.acorns.em.extole.io
     * nutribullet.extole.io
     * nuts.extole.io
     * nymcu.extole.io
@@ -440,7 +441,6 @@
     * parrainage-quickbooks-fr.extole.io
     * partsvu.extole.io
     * paulmitchell.extole.io
-    * paylocity.extole.io
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
@@ -458,6 +458,7 @@
     * pottery-barn.extole.io
     * princess.extole.io
     * princessau.extole.io
+    * princesscruises.em.extole.io
     * princessuk.extole.io
     * prokeds.extole.io
     * propark.extole.io
@@ -466,6 +467,7 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
+    * quickbooks.em.extole.io
     * quickbooks.extole.io
     * quickbooksintuituk.extole.io
     * quickstart.extole.io
@@ -477,10 +479,12 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
+    * rent.em.extole.io
     * rentapp.extole.io
     * resume-now.extole.io
     * reveneer.extole.io
     * revzilla.extole.io
+    * rewards-dailypay.em.extole.io
     * riley-rose.extole.io
     * rio-grande-credit-union.extole.io
     * robertmondaviwinery.extole.io
@@ -523,6 +527,7 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
@@ -533,7 +538,6 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
-    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -606,6 +610,7 @@
     * wsecu.extole.io
     * xfinity.em.extole.io
     * xfinity.extole.io
+    * yotoplay.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
     * zenwork.extole.io
@@ -748,6 +753,7 @@
 | refer.centier.com | centier.extole.io |
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
+| refer.chancedavis.net | chance-davis-test.extole.io |
 | share.cheaperthandirt.net | cheaper-than-dirt.extole.io |
 | refer.cheaptickets.com | cheaptickets.extole.io |
 | share.chewsidental.com | chewsidental.extole.io |
@@ -798,6 +804,7 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -872,7 +879,6 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
-| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
 | internalreferral.freshworks.com | freshworks.extole.io |
@@ -960,11 +966,13 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
 | refer.gotowebinar.com | gotowebinar.extole.com |
 | refer.gpsinsight.com | gpsinsight.extole.io |
+| refer.titangps.com | gpsinsight.extole.io |
 | share.granitegaragefloors.com | granitegaragefloors.extole.io |
 | share.greenlight.com | greenlightcard.extole.io |
 | share.greenlightcard.com | greenlightcard.extole.io |
@@ -1098,6 +1106,7 @@
 | share.mlb.tv | mlbtv.extole.com |
 | refer.mpgsport.ca | mondetta.extole.io |
 | refer.mpgsport.com | mondetta.extole.io |
+| refer.styleitforwardreward.ca | mondetta.extole.io |
 | refer.styleitforwardreward.com | mondetta.extole.io |
 | www.styleitforwardreward.com | mondetta.extole.io |
 | referral.moneybase.com | moneybase.extole.io |
@@ -1120,7 +1129,6 @@
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | share.ngfcu.us | ngfcu.extole.io |
-| em8642.notifications.acorns.com | notifications.acorns.em.extole.io |
 | share.nutribullet.com | nutribullet.extole.io |
 | share.nuts.com | nuts.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
@@ -1158,7 +1166,6 @@
 | www.parrainage-quickbooks.fr | parrainage-quickbooks-fr.extole.io |
 | share.partsvu.com | partsvu.extole.io |
 | share.paulmitchell.com | paulmitchell.extole.io |
-| refer.paylocity.com | paylocity.extole.io |
 | referral.pellaofdfw.com | pellaofdfw.extole.io |
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
@@ -1185,6 +1192,7 @@
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
 | refer-au.princess.com | princessau.extole.io |
+| em1476.princesscruises.com | princesscruises.em.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
@@ -1198,6 +1206,7 @@
 | recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
+| em2279.referral.quickbooks.co.uk | quickbooks.em.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
 | referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
@@ -1212,10 +1221,12 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
+| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | refer.resume-now.com | resume-now.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.revzilla.com | revzilla.extole.io |
+| em5230.rewards.dailypay.com | rewards-dailypay.em.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
 | share.riograndecu.org | rio-grande-credit-union.extole.io |
 | refer.roadrunnersports.com | roadrunnersports-ssl.extole.com |
@@ -1276,6 +1287,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
@@ -1286,7 +1298,6 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
-| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1445,6 +1456,7 @@
 | xtl2._domainkey.theory.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | xtl2._domainkey.walmartmoneycard.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
+| refer.yotoplay.com | yotoplay.extole.io |
 | share.zenbusiness.com | zenbusiness.extole.io |
 | refer.zentrointernet.com | zentrointernet.extole.io |
 | share.baiconnect.com | zentrointernet.extole.io |

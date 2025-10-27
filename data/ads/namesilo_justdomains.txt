@@ -410,6 +410,7 @@
 3420765.notifysrv.com
 3420767.notify6.com
 3420767.notifysrv.com
+3420777.notifysrv.com
 3420793.notifysrv.com
 3421353.notifysrv.com
 3423873.notifysrv.com
@@ -427,6 +428,7 @@
 3440159.notify6.com
 3440401.notify6.com
 3440401.notifysrv.com
+3440403.notify6.com
 3440407.notifysrv.com
 3440409.notify6.com
 3440409.notifysrv.com
@@ -534,6 +536,7 @@
 3517123.notify6.com
 3518183.notifysrv.com
 3518189.notifysrv.com
+3520653.notifysrv.com
 3523289.notifysrv.com
 3524303.notifysrv.com
 3524325.notifysrv.com
@@ -551,7 +554,9 @@
 3541095.notifysrv.com
 3542163.notifysrv.com
 3544557.notify6.com
+3549573.notifysrv.com
 3553611.notify6.com
+3556327.notifysrv.com
 3556651.notifysrv.com
 3557559.notify6.com
 3562657.notifysrv.com
@@ -729,6 +734,7 @@
 3768747.notify6.com
 3768747.notifysrv.com
 3771491.notify6.com
+3775247.notifysrv.com
 3777631.notify6.com
 3783121.notify6.com
 3783123.notifysrv.com
@@ -1131,15 +1137,18 @@
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
 a.8jfbt5va3r.com
+a.adsession.com
 a.advantageclicks.net
 a.advertrek.com
 a.allureanews.com
 a.b2bstars.com
 a.b7q9v8z.com
+a.bizonads-ssp.com
 a.cant3am.com
 a.crme7srv.com
 a.eunow4u.com
 a.gatherstar.io
+a.golhofer.com
 a.hkartg.com
 a.huklop.com
 a.humnert.com
@@ -1151,7 +1160,7 @@ a.ns.notifysrv.com
 a.pinkads.org
 a.playa.to
 a.q88z1s3.com
-a.r8lnet.com
+a.rocoads.net
 a.t5z3w0p.com
 a.tf4srv.com
 a.vws4brkfst.com
@@ -1334,9 +1343,12 @@ s.dspijb.com
 s.dspzhi.com
 s.dsq93g.com
 s.dsqcjk.com
+s.dsqvkn.com
 s.dss1bi.com
 s.dsskyw.com
 s.dsssnr.com
+s.dst3hq.com
+s.dst82e.com
 s.dst8vn.com
 s.dstfgh.com
 s.dsvrqo.com
@@ -1425,7 +1437,6 @@ s.opti-digital.com
 s.optidigital.com
 s.optnx.com
 s.optvz.com
-s.optzsrv.com
 s.orbsrv.com
 s.pemsrv.com
 s.playa.to
@@ -1515,7 +1526,6 @@ syndication.realsrv.com
 syndication.whibd.com
 syndication.whibp.com
 syndication0.exoclick.com
-t.optzsrv.com
 tap.notifysrv.com
 tele.notifysrv.com
 ten.notifysrv.com
@@ -1626,12 +1636,9 @@ www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
 a.18ramp.com
-a.adsession.com
 a.asvsm.com
-a.bizonads-ssp.com
 a.brilmaver.com
 a.etology.com
-a.golhofer.com
-a.rocoads.net
+a.r8lnet.com
 a.santabrowser.com
 a.traffic-gold.com

@@ -371,7 +371,6 @@
 | my.top4fitness.ro | cz.affilbox.cz |
 | my.top4fitness.si | cz.affilbox.cz |
 | my.top4fitness.sk | cz.affilbox.cz |
-| my.top4football.cz | cz.affilbox.cz |
 | my.top4football.de | cz.affilbox.cz |
 | my.top4football.es | cz.affilbox.cz |
 | my.top4football.fi | cz.affilbox.cz |
@@ -442,8 +441,6 @@
 | partner-affilbox.telly.cz | cz.affilbox.cz |
 | partner.2din.cz | cz.affilbox.cz |
 | partner.aerium.sk | cz.affilbox.cz |
-| partner.aeriumshop.nl | cz.affilbox.cz |
-| partner.aeriumshop.pl | cz.affilbox.cz |
 | partner.affilbox.com | cz.affilbox.cz |
 | partner.affiliateark.com | cz.affilbox.cz |
 | partner.airbobags.com | cz.affilbox.cz |
@@ -569,11 +566,9 @@
 | partner.forexrebel.net | cz.affilbox.cz |
 | partner.forkys.store | cz.affilbox.cz |
 | partner.fotoposta.sk | cz.affilbox.cz |
-| partner.freshlabels.cz | cz.affilbox.cz |
 | partner.gaymegastore.cz | cz.affilbox.cz |
 | partner.gaymegastore.eu | cz.affilbox.cz |
 | partner.gel-gun.cz | cz.affilbox.cz |
-| partner.generatorvodiku.cz | cz.affilbox.cz |
 | partner.gingershot.cz | cz.affilbox.cz |
 | partner.giulieta.shop | cz.affilbox.cz |
 | partner.goelite.club | cz.affilbox.cz |
@@ -780,6 +775,7 @@
 | partner.webrebel.sk | cz.affilbox.cz |
 | partner.webskicak.cz | cz.affilbox.cz |
 | partner.wellmall.cz | cz.affilbox.cz |
+| partner.wellmall.sk | cz.affilbox.cz |
 | partner.whoopdedoo.cz | cz.affilbox.cz |
 | partner.whoopdedoo.love | cz.affilbox.cz |
 | partner.whoopdedoo.me | cz.affilbox.cz |
@@ -833,7 +829,6 @@
 | partneri.evolveo.com | cz.affilbox.cz |
 | partneri.evolveo.cz | cz.affilbox.cz |
 | partneri.fengshuiacademy.cz | cz.affilbox.cz |
-| partneri.fistar.cz | cz.affilbox.cz |
 | partneri.fitstore.cz | cz.affilbox.cz |
 | partneri.frcime.cz | cz.affilbox.cz |
 | partneri.freli.cz | cz.affilbox.cz |
@@ -938,6 +933,7 @@
 | partners.elitecoaching.cz | cz.affilbox.cz |
 | partners.gingles.co | cz.affilbox.cz |
 | partners.henrysmusic.com | cz.affilbox.cz |
+| partners.lawofattraction.cz | cz.affilbox.cz |
 | partners.pocitarna.cz | cz.affilbox.cz |
 | partners.puravidashop.cz | cz.affilbox.cz |
 | partners.spiritradar.com | cz.affilbox.cz |

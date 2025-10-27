@@ -721,10 +721,8 @@
 ||100002789.collect.igodigital.com^
 ||100002804.collect.igodigital.com^
 ||100002807.collect.igodigital.com^
-||100002819.collect.igodigital.com^
 ||100002881.collect.igodigital.com^
 ||100002884.collect.igodigital.com^
-||100002903.collect.igodigital.com^
 ||100003000.collect.igodigital.com^
 ||100003037.collect.igodigital.com^
 ||100003063.collect.igodigital.com^
@@ -778,7 +776,6 @@
 ||100004512.collect.igodigital.com^
 ||100004571.collect.igodigital.com^
 ||100004590.collect.igodigital.com^
-||100004906.collect.igodigital.com^
 ||100005072.collect.igodigital.com^
 ||100005082.collect.igodigital.com^
 ||100005244.collect.igodigital.com^
@@ -891,7 +888,6 @@
 ||100010410.collect.igodigital.com^
 ||100010412.collect.igodigital.com^
 ||100010413.collect.igodigital.com^
-||100010418.collect.igodigital.com^
 ||100010422.collect.igodigital.com^
 ||100010465.collect.igodigital.com^
 ||100010481.collect.igodigital.com^
@@ -1073,9 +1069,7 @@
 ||7203837.collect.igodigital.com^
 ||7206223.collect.igodigital.com^
 ||7206982.collect.igodigital.com^
-||7207717.collect.igodigital.com^
 ||7207718.collect.igodigital.com^
-||7208781.collect.igodigital.com^
 ||7209949.collect.igodigital.com^
 ||7212122.collect.igodigital.com^
 ||7217158.collect.igodigital.com^
@@ -1084,7 +1078,6 @@
 ||7223649.collect.igodigital.com^
 ||7223835.collect.igodigital.com^
 ||7225019.collect.igodigital.com^
-||7226716.collect.igodigital.com^
 ||7227272.collect.igodigital.com^
 ||7227558.collect.igodigital.com^
 ||7231187.collect.igodigital.com^
@@ -1205,6 +1198,13 @@
 ||7325687.collect.igodigital.com^
 ||enviedeplus.collect.igodigital.com^
 ||sfdc.cottages.com^
+||100002819.collect.igodigital.com^
+||100002903.collect.igodigital.com^
+||100004906.collect.igodigital.com^
+||100010418.collect.igodigital.com^
+||7207717.collect.igodigital.com^
+||7208781.collect.igodigital.com^
+||7226716.collect.igodigital.com^
 ||8ql60l2kzjanitvc.internal.pov.acceldatasolutions.net^
 ||be7wjd7htvadmddj.internal.pov.acceldatasolutions.net^
 ||ku3v7v2o10w0ptv9.internal.pov.acceldatasolutions.net^
@@ -1260,7 +1260,6 @@
 ||analytics-dal-nhl.yinzcam.com^
 ||analytics-dc-mls.yinzcam.com^
 ||analytics-den-nba.yinzcam.com^
-||analytics-den-nfl.yinzcam.com^
 ||analytics-det-nhl.yinzcam.com^
 ||analytics-fla-nhl.yinzcam.com^
 ||analytics-hou-mls.yinzcam.com^
@@ -1290,7 +1289,6 @@
 ||analytics-perth-venues.yinzcam.com^
 ||analytics-phi-nba.yinzcam.com^
 ||analytics-pit-nhl.yinzcam.com^
-||analytics-por-nba.yinzcam.com^
 ||analytics-rgp-venues.yinzcam.com^
 ||analytics-sd-mls.yinzcam.com^
 ||analytics-sea-mls.yinzcam.com^
@@ -1310,6 +1308,8 @@
 ||analytics-was-nba.yinzcam.com^
 ||analytics-wol-fa.yinzcam.com^
 ||analytics-wso-ten.yinzcam.com^
+||analytics-den-nfl.yinzcam.com^
+||analytics-por-nba.yinzcam.com^
 ||analytics.5milesapp.com^
 ||analytics.airtv.net^
 ||analytics.sling.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,6 +33,7 @@ rmxmtsg.wowe.me CNAME .
 rulrdow.solawave.co CNAME .
 rwlywoe.keepnaturewild.com CNAME .
 tzfgzgo.quickservicepanama.com CNAME .
+uaxfwsb.smallflower.com CNAME .
 ucscaik.gardencup.com CNAME .
 ujyloty.kingofchristmas.com CNAME .
 untrhhc.veneera.co.uk CNAME .

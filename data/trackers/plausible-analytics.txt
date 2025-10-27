@@ -267,7 +267,6 @@
 ||s.useeffectbyexample.com^
 ||s.vejenerhverv.dk^
 ||s.vucko.co^
-||sa.flux.community^
 ||sats.mailbrew.com^
 ||see.wasteorshare.com^
 ||server.japanbyrivercruise.com^
@@ -370,7 +369,6 @@
 ||stats.coachinghive.com^
 ||stats.code-it-studio.de^
 ||stats.codinginfinity.me^
-||stats.codis.io^
 ||stats.cohere.so^
 ||stats.coldbox.org^
 ||stats.connect.pm^
@@ -711,7 +709,6 @@
 ||stats.seva.rocks^
 ||stats.shapeless.dev^
 ||stats.shareup.app^
-||stats.shawnyeager.com^
 ||stats.shepherd.com^
 ||stats.shh.io^
 ||stats.shiftx.com^
@@ -793,7 +790,6 @@
 ||stats.warrantynowvoid.com^
 ||stats.websnap.app^
 ||stats.wecodeni.com^
-||stats.westswindon-pc.gov.uk^
 ||stats.whenpigsflybbq.com^
 ||stats.whereisit5pmrightnow.com^
 ||stats.wordvested.org^

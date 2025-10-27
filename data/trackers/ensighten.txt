@@ -134,6 +134,7 @@
 ||cmp.microlino.be^
 ||cmp.mijnwinterbanden.be^
 ||cmp.mijnzenmobiliteit.be^
+||cmp.mijnzomerbanden.be^
 ||cmp.myaudi.be^
 ||cmp.myvolkswagen.be^
 ||cmp.myway.be^
@@ -236,6 +237,7 @@
 ||ensighten.filmstruck.com^
 ||ensighten.heineken.co.za^
 ||ensighten.heishop.com.br^
+||ensighten.heishop.hu^
 ||ensighten.heishop.mx^
 ||ensighten.huntington.com^
 ||ensighten.huntingtonbank.com^

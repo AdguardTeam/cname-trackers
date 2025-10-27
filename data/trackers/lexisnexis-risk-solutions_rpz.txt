@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ advertize.stcbank.com.sa CNAME .
 aegis.miio.mx CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
+afm.asiacngw.com CNAME .
 afm.cnthevtmarkets.com CNAME .
 afm.cnvtglobal.com CNAME .
 afm.crointech.io CNAME .
@@ -348,6 +349,8 @@ content.floridarentals.com CNAME .
 content.frs.fl.gov CNAME .
 content.gap.co.jp CNAME .
 content.gap.com CNAME .
+content.gapcanada.ca CNAME .
+content.gapfactory.ca CNAME .
 content.gapfactory.com CNAME .
 content.gaptechol.com CNAME .
 content.happybank.com CNAME .
@@ -471,7 +474,6 @@ content22.bmo.com CNAME .
 content22.citi.com CNAME .
 content22.citibank.ae CNAME .
 content22.citibank.co.id CNAME .
-content22.citibank.co.in CNAME .
 content22.citibank.com CNAME .
 content22.citibank.com.au CNAME .
 content22.citibank.com.hk CNAME .
@@ -559,6 +561,7 @@ digitalidentity.compass.it CNAME .
 dii.bankaust.com.au CNAME .
 directinfo.ib.mizuhobank.co.jp CNAME .
 dm-prod-visapay.m2pfintech.com CNAME .
+dmo-services-tmx.cofidis.cz CNAME .
 dol-reemployme-js01.maine.gov CNAME .
 donor.cafamerica.org CNAME .
 dp.barclaycardus.com CNAME .
@@ -858,6 +861,7 @@ prod-dccuva.chaperone.lumindigitalhosting.com CNAME .
 prod-dexsta.chaperone.lumindigitalhosting.com CNAME .
 prod-ffcuin.chaperone.lumindigitalhosting.com CNAME .
 prod-firstmark.chaperone.lumindigitalhosting.com CNAME .
+prod-fortcomm-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-frontier.chaperone.lumindigitalhosting.com CNAME .
 prod-fsfcutn.chaperone.lumindigitalhosting.com CNAME .
 prod-hfcuvt.chaperone.lumindigitalhosting.com CNAME .
@@ -1035,6 +1039,7 @@ srv.squaretrade.com.au CNAME .
 srv.squaretrade.de CNAME .
 srv.squaretrade.dk CNAME .
 srv.squaretrade.es CNAME .
+srv.squaretrade.eu CNAME .
 srv.squaretrade.fi CNAME .
 srv.squaretrade.hu CNAME .
 srv.squaretrade.nl CNAME .
@@ -1176,6 +1181,7 @@ tm.gumtree.com.au CNAME .
 tm.humanesociety.org CNAME .
 tm.humaneworld.org CNAME .
 tm.kotak.com CNAME .
+tm.nowfinance.com.au CNAME .
 tm.okinushub.com CNAME .
 tm.paysafecard.com CNAME .
 tm.play.pl CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1178,7 +1178,6 @@ $TTL 300
 www.00404850.xyz CNAME .
 www.02085170.xyz CNAME .
 www.02952346.xyz CNAME .
-www.05420795.xyz CNAME .
 www.06969451.xyz CNAME .
 www.07327127.xyz CNAME .
 www.07443488.xyz CNAME .
@@ -1208,7 +1207,6 @@ www.45564736.xyz CNAME .
 www.46222568.xyz CNAME .
 www.47206262.xyz CNAME .
 www.47235645.xyz CNAME .
-www.47415889.xyz CNAME .
 www.49709796.xyz CNAME .
 www.4tr3sopq592o7svp1q6mn3.xyz CNAME .
 www.4tuswl47353p4wl8lsk.xyz CNAME .
@@ -1223,7 +1221,6 @@ www.62842068.xyz CNAME .
 www.64786087.xyz CNAME .
 www.65122038.xyz CNAME .
 www.661kkm40uu6srww1mvso.xyz CNAME .
-www.69681858.xyz CNAME .
 www.69799884.xyz CNAME .
 www.72891504.xyz CNAME .
 www.73568955.xyz CNAME .
@@ -1313,4 +1310,5 @@ www.whoseabacus.com CNAME .
 www.worthequally.com CNAME .
 www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 www.yippeewhenever.com CNAME .
+www.yuckbleaklyphooeywhen.com CNAME .
 www.yumhusk.com CNAME .

@@ -90,6 +90,7 @@
     * strawberry-basf-ca-cddc.at-o.net
     * strawberry-basf-com-cddc.at-o.net
     * strawberry-basf-us-cddc.at-o.net
+    * tja-expiration-pa-cd-dev-com-cddc.at-o.net
     * tm-urssaf-fr-cddc.at-o.net
     * tm-urssaf-org-cddc.at-o.net
     * tse-telerama-fr-cddc.at-o.net
@@ -191,6 +192,7 @@
 | strawberry.basf.com | strawberry-basf-com-cddc.at-o.net |
 | www.strawberry.basf.com | strawberry-basf-com-cddc.at-o.net |
 | strawberry.basf.us | strawberry-basf-us-cddc.at-o.net |
+| tja-expiration.pa-cd-dev.com | tja-expiration-pa-cd-dev-com-cddc.at-o.net |
 | tm.urssaf.fr | tm-urssaf-fr-cddc.at-o.net |
 | tm.urssaf.org | tm-urssaf-org-cddc.at-o.net |
 | tse.telerama.fr | tse-telerama-fr-cddc.at-o.net |

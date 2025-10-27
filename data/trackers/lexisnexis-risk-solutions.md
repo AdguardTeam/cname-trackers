@@ -373,7 +373,6 @@
     * h-citibank-au.online-metrix.net
     * h-citibank-hk.online-metrix.net
     * h-citibank-id.online-metrix.net
-    * h-citibank-in.online-metrix.net
     * h-citibank-mx.online-metrix.net
     * h-citibank-pl.online-metrix.net
     * h-citibank-sg.online-metrix.net
@@ -652,6 +651,7 @@
     * h-niubiz.online-metrix.net
     * h-njea5xb8.online-metrix.net
     * h-norton.online-metrix.net
+    * h-nowfinance.online-metrix.net
     * h-nssolutions.online-metrix.net
     * h-nttdocomo.online-metrix.net
     * h-ntthikaritv.online-metrix.net
@@ -889,6 +889,7 @@
 | prod-dexsta.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-ffcuin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-firstmark.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-fortcomm-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-frontier.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-fsfcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-hfcuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -998,6 +999,7 @@
 | shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
 | diff3.orange.es | h-40347ghm.online-metrix.net |
 | diff3.jazztel.com | h-40347ghm2.online-metrix.net |
+| dmo-services-tmx.cofidis.cz | h-460nu0c9.online-metrix.net |
 | services-tmx.cofidis.cz | h-460nu0c9.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
 | content002.bet365.bet.br | h-47z24dz9.online-metrix.net |
@@ -1189,6 +1191,7 @@
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | afm.alphatick.com | h-96eziru5.online-metrix.net |
+| afm.asiacngw.com | h-96eziru5.online-metrix.net |
 | afm.cnthevtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.cnvtglobal.com | h-96eziru5.online-metrix.net |
 | afm.crointech.io | h-96eziru5.online-metrix.net |
@@ -1387,6 +1390,7 @@
 | srv.squaretrade.de | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.dk | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.es | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.eu | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.fi | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.hu | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.nl | h-b6te0xmf.online-metrix.net |
@@ -1543,7 +1547,6 @@
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
 | content22.citibank.com.hk | h-citibank-hk.online-metrix.net |
 | content22.citibank.co.id | h-citibank-id.online-metrix.net |
-| content22.citibank.co.in | h-citibank-in.online-metrix.net |
 | content22.bancanet.banamex.com | h-citibank-mx.online-metrix.net |
 | content22.citibank.pl | h-citibank-pl.online-metrix.net |
 | content22.citibank.com.sg | h-citibank-sg.online-metrix.net |
@@ -1671,6 +1674,8 @@
 | security.vanquis.com | h-dzb1xpdc.online-metrix.net |
 | content.gap.co.jp | h-e04kqxof.online-metrix.net |
 | content.gap.com | h-e04kqxof.online-metrix.net |
+| content.gapcanada.ca | h-e04kqxof.online-metrix.net |
+| content.gapfactory.ca | h-e04kqxof.online-metrix.net |
 | content.gapfactory.com | h-e04kqxof.online-metrix.net |
 | content.gaptechol.com | h-e04kqxof.online-metrix.net |
 | tm.humanesociety.org | h-e0j3u9ji-2.online-metrix.net |
@@ -1941,6 +1946,7 @@
 | m.vnforapps.com | h-niubiz.online-metrix.net |
 | img.tmxcyber.com | h-njea5xb8.online-metrix.net |
 | fpt.norton.com | h-norton.online-metrix.net |
+| tm.nowfinance.com.au | h-nowfinance.online-metrix.net |
 | sub-a.crossmeetz.com | h-nssolutions.online-metrix.net |
 | rba.cfg.smt.docomo.ne.jp | h-nttdocomo.online-metrix.net |
 | sec.hikaritv.net | h-ntthikaritv.online-metrix.net |

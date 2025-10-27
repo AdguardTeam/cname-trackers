@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -361,7 +361,6 @@ my.top4fitness.pt CNAME .
 my.top4fitness.ro CNAME .
 my.top4fitness.si CNAME .
 my.top4fitness.sk CNAME .
-my.top4football.cz CNAME .
 my.top4football.de CNAME .
 my.top4football.es CNAME .
 my.top4football.fi CNAME .
@@ -432,8 +431,6 @@ partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
 partner.2din.cz CNAME .
 partner.aerium.sk CNAME .
-partner.aeriumshop.nl CNAME .
-partner.aeriumshop.pl CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
 partner.airbobags.com CNAME .
@@ -559,11 +556,9 @@ partner.forcell.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.forkys.store CNAME .
 partner.fotoposta.sk CNAME .
-partner.freshlabels.cz CNAME .
 partner.gaymegastore.cz CNAME .
 partner.gaymegastore.eu CNAME .
 partner.gel-gun.cz CNAME .
-partner.generatorvodiku.cz CNAME .
 partner.gingershot.cz CNAME .
 partner.giulieta.shop CNAME .
 partner.goelite.club CNAME .
@@ -770,6 +765,7 @@ partner.webovkysusmevem.cz CNAME .
 partner.webrebel.sk CNAME .
 partner.webskicak.cz CNAME .
 partner.wellmall.cz CNAME .
+partner.wellmall.sk CNAME .
 partner.whoopdedoo.cz CNAME .
 partner.whoopdedoo.love CNAME .
 partner.whoopdedoo.me CNAME .
@@ -823,7 +819,6 @@ partneri.espressoenglish.cz CNAME .
 partneri.evolveo.com CNAME .
 partneri.evolveo.cz CNAME .
 partneri.fengshuiacademy.cz CNAME .
-partneri.fistar.cz CNAME .
 partneri.fitstore.cz CNAME .
 partneri.frcime.cz CNAME .
 partneri.freli.cz CNAME .
@@ -928,6 +923,7 @@ partners.bonyacademy.com CNAME .
 partners.elitecoaching.cz CNAME .
 partners.gingles.co CNAME .
 partners.henrysmusic.com CNAME .
+partners.lawofattraction.cz CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
 partners.spiritradar.com CNAME .

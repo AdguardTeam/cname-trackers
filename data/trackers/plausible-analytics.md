@@ -279,7 +279,6 @@
 | s.useeffectbyexample.com | custom.plausible.io |
 | s.vejenerhverv.dk | custom.plausible.io |
 | s.vucko.co | custom.plausible.io |
-| sa.flux.community | custom.plausible.io |
 | sats.mailbrew.com | custom.plausible.io |
 | see.wasteorshare.com | custom.plausible.io |
 | server.japanbyrivercruise.com | custom.plausible.io |
@@ -382,7 +381,6 @@
 | stats.coachinghive.com | custom.plausible.io |
 | stats.code-it-studio.de | custom.plausible.io |
 | stats.codinginfinity.me | custom.plausible.io |
-| stats.codis.io | custom.plausible.io |
 | stats.cohere.so | custom.plausible.io |
 | stats.coldbox.org | custom.plausible.io |
 | stats.connect.pm | custom.plausible.io |
@@ -723,7 +721,6 @@
 | stats.seva.rocks | custom.plausible.io |
 | stats.shapeless.dev | custom.plausible.io |
 | stats.shareup.app | custom.plausible.io |
-| stats.shawnyeager.com | custom.plausible.io |
 | stats.shepherd.com | custom.plausible.io |
 | stats.shh.io | custom.plausible.io |
 | stats.shiftx.com | custom.plausible.io |
@@ -805,7 +802,6 @@
 | stats.warrantynowvoid.com | custom.plausible.io |
 | stats.websnap.app | custom.plausible.io |
 | stats.wecodeni.com | custom.plausible.io |
-| stats.westswindon-pc.gov.uk | custom.plausible.io |
 | stats.whenpigsflybbq.com | custom.plausible.io |
 | stats.whereisit5pmrightnow.com | custom.plausible.io |
 | stats.wordvested.org | custom.plausible.io |

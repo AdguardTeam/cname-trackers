@@ -166,6 +166,7 @@
     * 7230b342-gwbfzy7a.cname.ebis.ne.jp
     * 728a8adc-y4rfthkp.cname.ebis.ne.jp
     * 728d5fcc-6hbgpszs.cname.ebis.ne.jp
+    * 72a0097c-scxitlgt.cname.ebis.ne.jp
     * 730fac49-ezdvkv2x.cname.ebis.ne.jp
     * 73b08207-acrymmnj.cname.ebis.ne.jp
     * 74583186-mvysh92x.cname.ebis.ne.jp
@@ -525,6 +526,7 @@
 | ebistoppan6.kyowahakko-bio-campaign3.com | 7230b342-gwbfzy7a.cname.ebis.ne.jp |
 | campaign-direct.kouketsuatsu-health.xyz | 728a8adc-y4rfthkp.cname.ebis.ne.jp |
 | ebis.sekisuihouse.com | 728d5fcc-6hbgpszs.cname.ebis.ne.jp |
+| cs0008sbeda.uricacid-lowering.com | 72a0097c-scxitlgt.cname.ebis.ne.jp |
 | ebis.bulk.co.jp | 730fac49-ezdvkv2x.cname.ebis.ne.jp |
 | cname.sokuyaku.jp | 73b08207-acrymmnj.cname.ebis.ne.jp |
 | adebis.saison-pocket.com | 74583186-mvysh92x.cname.ebis.ne.jp |

@@ -35,7 +35,6 @@
 | a8.aga-hakata.com | trck.a8.net |
 | a8.ahcswiss.com | trck.a8.net |
 | a8.air-snet.com | trck.a8.net |
-| a8.aliceandolivia.jp | trck.a8.net |
 | a8.amairo-sky.com | trck.a8.net |
 | a8.andethic.com | trck.a8.net |
 | a8.aniera.jp | trck.a8.net |
@@ -349,7 +348,6 @@
 | a8.vector-park.jp | trck.a8.net |
 | a8.vinew.jp | trck.a8.net |
 | a8.virus-gekitai.com | trck.a8.net |
-| a8.volstar.jp | trck.a8.net |
 | a8.vtuber.sexy | trck.a8.net |
 | a8.watero.pet | trck.a8.net |
 | a8.web-hikari.net | trck.a8.net |
@@ -1497,6 +1495,7 @@
 | cv.cp-c21.com | trck.a8.net |
 | cv.denkichoice.jp | trck.a8.net |
 | cv.fire-bird.jp | trck.a8.net |
+| cv.fruitfulenglish.com | trck.a8.net |
 | cv.gas-choice.net | trck.a8.net |
 | cv.h-docomo.com | trck.a8.net |
 | cv.hanna-saku.jp | trck.a8.net |
@@ -1505,6 +1504,7 @@
 | cv.hoikushi-bosyu.com | trck.a8.net |
 | cv.homepage-seisaku.jp | trck.a8.net |
 | cv.ignis.coach | trck.a8.net |
+| cv.infield-sports.com | trck.a8.net |
 | cv.it-kyujin.jp | trck.a8.net |
 | cv.japan-curtain.jp | trck.a8.net |
 | cv.jidoumail.com | trck.a8.net |

@@ -1175,7 +1175,6 @@
 | www.00404850.xyz | ad-shield.cc |
 | www.02085170.xyz | ad-shield.cc |
 | www.02952346.xyz | ad-shield.cc |
-| www.05420795.xyz | ad-shield.cc |
 | www.06969451.xyz | ad-shield.cc |
 | www.07327127.xyz | ad-shield.cc |
 | www.07443488.xyz | ad-shield.cc |
@@ -1205,7 +1204,6 @@
 | www.46222568.xyz | ad-shield.cc |
 | www.47206262.xyz | ad-shield.cc |
 | www.47235645.xyz | ad-shield.cc |
-| www.47415889.xyz | ad-shield.cc |
 | www.49709796.xyz | ad-shield.cc |
 | www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | www.4tuswl47353p4wl8lsk.xyz | ad-shield.cc |
@@ -1220,7 +1218,6 @@
 | www.64786087.xyz | ad-shield.cc |
 | www.65122038.xyz | ad-shield.cc |
 | www.661kkm40uu6srww1mvso.xyz | ad-shield.cc |
-| www.69681858.xyz | ad-shield.cc |
 | www.69799884.xyz | ad-shield.cc |
 | www.72891504.xyz | ad-shield.cc |
 | www.73568955.xyz | ad-shield.cc |
@@ -1310,4 +1307,5 @@
 | www.worthequally.com | ad-shield.cc |
 | www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | www.yippeewhenever.com | ad-shield.cc |
+| www.yuckbleaklyphooeywhen.com | ad-shield.cc |
 | www.yumhusk.com | ad-shield.cc |

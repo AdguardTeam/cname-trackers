@@ -184,6 +184,7 @@
 ||cs0008sbeda.enzyme-supply.com^
 ||cs0008sbeda.moromi-koso-c.com^
 ||cs0008sbeda.moromi-koso.com^
+||cs0008sbeda.uricacid-lowering.com^
 ||cs0010sbeda.theory-clinic.com^
 ||cs0010sbeda.theory-diet.com^
 ||cs0010sbeda.theory-kumatarumi.com^

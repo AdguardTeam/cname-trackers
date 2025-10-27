@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -364,7 +364,6 @@ web.sensilab.se CNAME .
 web.sensilab.si CNAME .
 web.sensilab.sk CNAME .
 web.sidsavage.com CNAME .
-web.slimjoy.com CNAME .
 web.slimjoy.es CNAME .
 web.slimjoy.org CNAME .
 web.slimjoy.sk CNAME .

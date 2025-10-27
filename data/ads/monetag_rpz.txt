@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ $TTL 300
 abarbokan.com CNAME .
 amelectivireer.com CNAME .
 arhelioptileon.com CNAME .
+asmienshaoor.com CNAME .
 astrhyhorna.com CNAME .
 astropiusa.com CNAME .
 audraghafamign.com CNAME .
@@ -51,6 +52,7 @@ r8bz.com CNAME .
 rndcombuskenor.com CNAME .
 roulatioser.com CNAME .
 roulinooneer.com CNAME .
+softaignidsoom.com CNAME .
 uncobalionr.com CNAME .
 unfearowor.com CNAME .
 unslowbror.com CNAME .

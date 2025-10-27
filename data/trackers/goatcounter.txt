@@ -30,6 +30,7 @@
 ||c.qrdate.org^
 ||cityofsanmateo.analytics.open.law^
 ||contacapre.bortox.it^
+||corner-stats.sladewatkins.net^
 ||count.andreabrandi.com^
 ||count.kealper.com^
 ||count.vidsrc.pro^
@@ -50,6 +51,7 @@
 ||goat.dabric.xyz^
 ||goat.dheinemann.com^
 ||goat.gavv.in^
+||goat.neverhill.net^
 ||goat.skeetstats.xyz^
 ||goat.tailspace.net^
 ||goat.twoistoomany.com^
@@ -110,6 +112,7 @@
 ||stats.hdyar.com^
 ||stats.hedy.dev^
 ||stats.how.wtf^
+||stats.ifknow.ru^
 ||stats.ignatuque.xyz^
 ||stats.isaacfreund.com^
 ||stats.jakebailey.dev^
@@ -164,6 +167,8 @@
 ||stats.zgo.at^
 ||stats.zl2edh.com^
 ||trackerstats.davidthe.dev^
+||tracking.undercovermunich.de^
+||usage.ideasnap.co^
 ||varz.mcyoung.xyz^
 ||vault-stats.sladewatkins.net^
 ||visit.argfuscator.net^

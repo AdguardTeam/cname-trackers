@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -776,6 +776,7 @@ data-5a078ffbef.wb-immo.net CNAME .
 data-5a078ffbef.wb-jobs.de CNAME .
 data-5a078ffbef.wb-trauer.de CNAME .
 data-5a078ffbef.westfalen-blatt.de CNAME .
+data-5a2bbd7d77.apps.iocnt.de CNAME .
 data-5a40478bd4.kino.de CNAME .
 data-5a9f6e282a.ingenieur.de CNAME .
 data-5aab0af339.apps.iocnt.de CNAME .
@@ -1027,6 +1028,7 @@ data-75671117cf.radiowaf.de CNAME .
 data-75671117cf.radiowafhilft.de CNAME .
 data-75adc1b92b.fleischerei.de CNAME .
 data-7609d780e9.apps.iocnt.de CNAME .
+data-7613d707d4.enbausa.de CNAME .
 data-767a8be759.berliner-kurier.de CNAME .
 data-7723a9baa7.internetworld.at CNAME .
 data-7723a9baa7.internetworld.de CNAME .
@@ -1053,6 +1055,7 @@ data-79b61f918a.mittelbayerische.de CNAME .
 data-7a3ad4c334.apps.iocnt.de CNAME .
 data-7a534833b2.techbook.de CNAME .
 data-7b326f376b.apps.iocnt.de CNAME .
+data-7b4229ab74.eishockeynews.de CNAME .
 data-7b4229ab74.idowa.de CNAME .
 data-7b705d0b93.b4bschwaben.de CNAME .
 data-7bd40aa49e.laendleimmo.at CNAME .
@@ -1118,6 +1121,7 @@ data-84a0f3455d.transfermarkt.co.in CNAME .
 data-84a0f3455d.transfermarkt.co.kr CNAME .
 data-84a0f3455d.transfermarkt.com.ar CNAME .
 data-84a0f3455d.transfermarkt.com.br CNAME .
+data-84a0f3455d.transfermarkt.com.tr CNAME .
 data-84a0f3455d.transfermarkt.de CNAME .
 data-84a0f3455d.transfermarkt.es CNAME .
 data-84a0f3455d.transfermarkt.fr CNAME .
@@ -1286,6 +1290,7 @@ data-98b5a11c9b.radiolippe.de CNAME .
 data-992b9a20ea.competitionline.com CNAME .
 data-992bb00b0c.messen.de CNAME .
 data-99329e3cb2.bilanz.de CNAME .
+data-99329e3cb2.metal-hammer.de CNAME .
 data-99329e3cb2.musikexpress.de CNAME .
 data-99329e3cb2.rollingstone.de CNAME .
 data-99329e3cb2.welt.de CNAME .

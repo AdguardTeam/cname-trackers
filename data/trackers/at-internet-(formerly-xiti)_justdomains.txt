@@ -88,6 +88,7 @@ stiwa.test.de
 strawberry.basf.ca
 strawberry.basf.com
 strawberry.basf.us
+tja-expiration.pa-cd-dev.com
 tm.urssaf.fr
 tm.urssaf.org
 tse.telerama.fr

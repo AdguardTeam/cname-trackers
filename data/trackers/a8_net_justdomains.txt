@@ -21,7 +21,6 @@ a8.ablenet.jp
 a8.aga-hakata.com
 a8.ahcswiss.com
 a8.air-snet.com
-a8.aliceandolivia.jp
 a8.amairo-sky.com
 a8.andethic.com
 a8.aniera.jp
@@ -335,7 +334,6 @@ a8.uzuz-college.jp
 a8.vector-park.jp
 a8.vinew.jp
 a8.virus-gekitai.com
-a8.volstar.jp
 a8.vtuber.sexy
 a8.watero.pet
 a8.web-hikari.net
@@ -1484,6 +1482,7 @@ cv.colleize.com
 cv.cp-c21.com
 cv.denkichoice.jp
 cv.fire-bird.jp
+cv.fruitfulenglish.com
 cv.gas-choice.net
 cv.h-docomo.com
 cv.hanna-saku.jp
@@ -1492,6 +1491,7 @@ cv.hikkoshizamurai.jp
 cv.hoikushi-bosyu.com
 cv.homepage-seisaku.jp
 cv.ignis.coach
+cv.infield-sports.com
 cv.it-kyujin.jp
 cv.japan-curtain.jp
 cv.jidoumail.com

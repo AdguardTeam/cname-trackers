@@ -18,6 +18,7 @@
 ||dnsbl.test.tag.aumago.com^
 ||epiphany.masterworks.digital^
 ||fpt.fjordtravel.no^
+||fpt.gofjords.com^
 ||gmn.gloo.com^
 ||inzicht.cz.nl^
 ||logfiles.storck.com^

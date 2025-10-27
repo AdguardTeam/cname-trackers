@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,7 +32,6 @@ a8.ablenet.jp CNAME .
 a8.aga-hakata.com CNAME .
 a8.ahcswiss.com CNAME .
 a8.air-snet.com CNAME .
-a8.aliceandolivia.jp CNAME .
 a8.amairo-sky.com CNAME .
 a8.andethic.com CNAME .
 a8.aniera.jp CNAME .
@@ -346,7 +345,6 @@ a8.uzuz-college.jp CNAME .
 a8.vector-park.jp CNAME .
 a8.vinew.jp CNAME .
 a8.virus-gekitai.com CNAME .
-a8.volstar.jp CNAME .
 a8.vtuber.sexy CNAME .
 a8.watero.pet CNAME .
 a8.web-hikari.net CNAME .
@@ -1495,6 +1493,7 @@ cv.colleize.com CNAME .
 cv.cp-c21.com CNAME .
 cv.denkichoice.jp CNAME .
 cv.fire-bird.jp CNAME .
+cv.fruitfulenglish.com CNAME .
 cv.gas-choice.net CNAME .
 cv.h-docomo.com CNAME .
 cv.hanna-saku.jp CNAME .
@@ -1503,6 +1502,7 @@ cv.hikkoshizamurai.jp CNAME .
 cv.hoikushi-bosyu.com CNAME .
 cv.homepage-seisaku.jp CNAME .
 cv.ignis.coach CNAME .
+cv.infield-sports.com CNAME .
 cv.it-kyujin.jp CNAME .
 cv.japan-curtain.jp CNAME .
 cv.jidoumail.com CNAME .

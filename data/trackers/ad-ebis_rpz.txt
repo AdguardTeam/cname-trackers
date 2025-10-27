@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -195,6 +195,7 @@ corporate.frontierconsul.net CNAME .
 cs0008sbeda.enzyme-supply.com CNAME .
 cs0008sbeda.moromi-koso-c.com CNAME .
 cs0008sbeda.moromi-koso.com CNAME .
+cs0008sbeda.uricacid-lowering.com CNAME .
 cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .
 cs0010sbeda.theory-kumatarumi.com CNAME .

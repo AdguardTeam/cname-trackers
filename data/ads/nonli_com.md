@@ -91,6 +91,7 @@
 | l.allocine.fr | tls.non.li |
 | l.alternatives-economiques.fr | tls.non.li |
 | l.applesfera.com | tls.non.li |
+| l.argentauquotidien.com | tls.non.li |
 | l.aujourdhui.fr | tls.non.li |
 | l.auto-moto.com | tls.non.li |
 | l.autojournal.fr | tls.non.li |
@@ -183,6 +184,7 @@
 | l.ladepeche.fr | tls.non.li |
 | l.lalettre.fr | tls.non.li |
 | l.lamanchelibre.fr | tls.non.li |
+| l.lamontagne.fr | tls.non.li |
 | l.lanouvellerepublique.fr | tls.non.li |
 | l.lardennais.fr | tls.non.li |
 | l.larenaissancehebdo.fr | tls.non.li |
@@ -196,6 +198,7 @@
 | l.lefigaro.fr | tls.non.li |
 | l.lejournaldelamaison.fr | tls.non.li |
 | l.lejournaldici.com | tls.non.li |
+| l.lemagauquotidien.com | tls.non.li |
 | l.lemoniteurdespharmacies.fr | tls.non.li |
 | l.leparisien.fr | tls.non.li |
 | l.lepoint.fr | tls.non.li |
@@ -244,6 +247,7 @@
 | l.paroledemamans.com | tls.non.li |
 | l.peaches.fr | tls.non.li |
 | l.petitbleu.fr | tls.non.li |
+| l.plaisirauquotidien.com | tls.non.li |
 | l.planet.fr | tls.non.li |
 | l.pleinevie.fr | tls.non.li |
 | l.positivr.fr | tls.non.li |

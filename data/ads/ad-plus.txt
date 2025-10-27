@@ -26,4 +26,5 @@
 ||serving.viewtraff.com^
 ||serving.webtradingspot.com^
 ||stream.kolorowey.com^
+||video.waardex.com^
 ||vidops.zeeker.com^

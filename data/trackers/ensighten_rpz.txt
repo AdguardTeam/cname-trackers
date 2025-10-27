@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -145,6 +145,7 @@ cmp.mespneushiver.be CNAME .
 cmp.microlino.be CNAME .
 cmp.mijnwinterbanden.be CNAME .
 cmp.mijnzenmobiliteit.be CNAME .
+cmp.mijnzomerbanden.be CNAME .
 cmp.myaudi.be CNAME .
 cmp.myvolkswagen.be CNAME .
 cmp.myway.be CNAME .
@@ -247,6 +248,7 @@ ensighten.distrelec.com CNAME .
 ensighten.filmstruck.com CNAME .
 ensighten.heineken.co.za CNAME .
 ensighten.heishop.com.br CNAME .
+ensighten.heishop.hu CNAME .
 ensighten.heishop.mx CNAME .
 ensighten.huntington.com CNAME .
 ensighten.huntingtonbank.com CNAME .

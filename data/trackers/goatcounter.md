@@ -35,6 +35,7 @@
     * coderscompass.goatcounter.com
     * codes-baltimorecity-gov.goatcounter.com
     * codinggrace.goatcounter.com
+    * corner.goatcounter.com
     * crosshair.goatcounter.com
     * d8a.goatcounter.com
     * dailies.goatcounter.com
@@ -66,6 +67,8 @@
     * hausarzt-zentrum-herne.goatcounter.com
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
+    * ideasnap.goatcounter.com
+    * ifknow.goatcounter.com
     * ignatuque.goatcounter.com
     * irishbornchinese.goatcounter.com
     * irisphotos.goatcounter.com
@@ -110,6 +113,7 @@
     * mine.goatcounter.com
     * mlcet.goatcounter.com
     * msol.goatcounter.com
+    * neverhill.goatcounter.com
     * ngdangtu.goatcounter.com
     * nhimmeo.goatcounter.com
     * niravraval.goatcounter.com
@@ -157,6 +161,7 @@
     * ultimategopher.goatcounter.com
     * umcconnell.goatcounter.com
     * unbegames.goatcounter.com
+    * undercover.goatcounter.com
     * uygar-dot-sh.goatcounter.com
     * valentineus.goatcounter.com
     * vault.goatcounter.com
@@ -205,6 +210,7 @@
 | stats.coderscompass.org | coderscompass.goatcounter.com |
 | analytics.codes.baltimorecity.gov | codes-baltimorecity-gov.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
+| corner-stats.sladewatkins.net | corner.goatcounter.com |
 | stats.crosshair.dev | crosshair.goatcounter.com |
 | go.d8a.org | d8a.goatcounter.com |
 | trackerstats.davidthe.dev | dailies.goatcounter.com |
@@ -237,6 +243,8 @@
 | gc.hausarzt-zentrum-herne.de | hausarzt-zentrum-herne.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
+| usage.ideasnap.co | ideasnap.goatcounter.com |
+| stats.ifknow.ru | ifknow.goatcounter.com |
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
 | goatcounter.irishbornchinese.com | irishbornchinese.goatcounter.com |
 | ping.irisphotos.app | irisphotos.goatcounter.com |
@@ -285,6 +293,7 @@
 | stats.raycordlegends.com | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
+| goat.neverhill.net | neverhill.goatcounter.com |
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
 | stats.niravraval.com | niravraval.goatcounter.com |
@@ -332,6 +341,7 @@
 | stats.hedy.dev | ultimategopher.goatcounter.com |
 | stats.umcconnell.net | umcconnell.goatcounter.com |
 | pageviews.unbegames.com | unbegames.goatcounter.com |
+| tracking.undercovermunich.de | undercover.goatcounter.com |
 | stats.uygar.sh | uygar-dot-sh.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |

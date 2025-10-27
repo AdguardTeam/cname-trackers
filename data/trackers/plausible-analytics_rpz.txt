@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -278,7 +278,6 @@ s.testingreactjs.com CNAME .
 s.useeffectbyexample.com CNAME .
 s.vejenerhverv.dk CNAME .
 s.vucko.co CNAME .
-sa.flux.community CNAME .
 sats.mailbrew.com CNAME .
 see.wasteorshare.com CNAME .
 server.japanbyrivercruise.com CNAME .
@@ -381,7 +380,6 @@ stats.cleverdiabetic.com CNAME .
 stats.coachinghive.com CNAME .
 stats.code-it-studio.de CNAME .
 stats.codinginfinity.me CNAME .
-stats.codis.io CNAME .
 stats.cohere.so CNAME .
 stats.coldbox.org CNAME .
 stats.connect.pm CNAME .
@@ -722,7 +720,6 @@ stats.servicedesignjobs.com CNAME .
 stats.seva.rocks CNAME .
 stats.shapeless.dev CNAME .
 stats.shareup.app CNAME .
-stats.shawnyeager.com CNAME .
 stats.shepherd.com CNAME .
 stats.shh.io CNAME .
 stats.shiftx.com CNAME .
@@ -804,7 +801,6 @@ stats.walkiees.co.uk CNAME .
 stats.warrantynowvoid.com CNAME .
 stats.websnap.app CNAME .
 stats.wecodeni.com CNAME .
-stats.westswindon-pc.gov.uk CNAME .
 stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
 stats.wordvested.org CNAME .

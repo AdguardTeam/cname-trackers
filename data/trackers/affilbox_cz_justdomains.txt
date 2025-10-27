@@ -350,7 +350,6 @@ my.top4fitness.pt
 my.top4fitness.ro
 my.top4fitness.si
 my.top4fitness.sk
-my.top4football.cz
 my.top4football.de
 my.top4football.es
 my.top4football.fi
@@ -421,8 +420,6 @@ partener.aeriumshop.ro
 partner-affilbox.telly.cz
 partner.2din.cz
 partner.aerium.sk
-partner.aeriumshop.nl
-partner.aeriumshop.pl
 partner.affilbox.com
 partner.affiliateark.com
 partner.airbobags.com
@@ -548,11 +545,9 @@ partner.forcell.cz
 partner.forexrebel.net
 partner.forkys.store
 partner.fotoposta.sk
-partner.freshlabels.cz
 partner.gaymegastore.cz
 partner.gaymegastore.eu
 partner.gel-gun.cz
-partner.generatorvodiku.cz
 partner.gingershot.cz
 partner.giulieta.shop
 partner.goelite.club
@@ -759,6 +754,7 @@ partner.webovkysusmevem.cz
 partner.webrebel.sk
 partner.webskicak.cz
 partner.wellmall.cz
+partner.wellmall.sk
 partner.whoopdedoo.cz
 partner.whoopdedoo.love
 partner.whoopdedoo.me
@@ -812,7 +808,6 @@ partneri.espressoenglish.cz
 partneri.evolveo.com
 partneri.evolveo.cz
 partneri.fengshuiacademy.cz
-partneri.fistar.cz
 partneri.fitstore.cz
 partneri.frcime.cz
 partneri.freli.cz
@@ -917,6 +912,7 @@ partners.bonyacademy.com
 partners.elitecoaching.cz
 partners.gingles.co
 partners.henrysmusic.com
+partners.lawofattraction.cz
 partners.pocitarna.cz
 partners.puravidashop.cz
 partners.spiritradar.com

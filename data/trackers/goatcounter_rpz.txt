@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1760947209144        ; Serial
+           1761552009985        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,6 +41,7 @@ argus.umarbutler.com CNAME .
 c.qrdate.org CNAME .
 cityofsanmateo.analytics.open.law CNAME .
 contacapre.bortox.it CNAME .
+corner-stats.sladewatkins.net CNAME .
 count.andreabrandi.com CNAME .
 count.kealper.com CNAME .
 count.vidsrc.pro CNAME .
@@ -61,6 +62,7 @@ go.d8a.org CNAME .
 goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
 goat.gavv.in CNAME .
+goat.neverhill.net CNAME .
 goat.skeetstats.xyz CNAME .
 goat.tailspace.net CNAME .
 goat.twoistoomany.com CNAME .
@@ -121,6 +123,7 @@ stats.haseebmajid.dev CNAME .
 stats.hdyar.com CNAME .
 stats.hedy.dev CNAME .
 stats.how.wtf CNAME .
+stats.ifknow.ru CNAME .
 stats.ignatuque.xyz CNAME .
 stats.isaacfreund.com CNAME .
 stats.jakebailey.dev CNAME .
@@ -175,6 +178,8 @@ stats.zbahn.de CNAME .
 stats.zgo.at CNAME .
 stats.zl2edh.com CNAME .
 trackerstats.davidthe.dev CNAME .
+tracking.undercovermunich.de CNAME .
+usage.ideasnap.co CNAME .
 varz.mcyoung.xyz CNAME .
 vault-stats.sladewatkins.net CNAME .
 visit.argfuscator.net CNAME .
