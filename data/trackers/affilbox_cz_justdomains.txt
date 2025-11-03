@@ -573,6 +573,7 @@ partner.italier.cz
 partner.izlato24.cz
 partner.jakfotitsladke.cz
 partner.jakserychlenaucit.cz
+partner.janmarkel.cz
 partner.jbimbishop.cz
 partner.jedlenadobi.cz
 partner.jillylenau.cz
@@ -734,6 +735,7 @@ partner.t-shock.eu
 partner.tahnabranu.cz
 partner.thechillidoctor.cz
 partner.thelisteningworld.com
+partner.tinecostore.cz
 partner.top-obaly.cz
 partner.tozax.cz
 partner.tozax.sk
@@ -770,7 +772,6 @@ partner.zonky.cz
 partner.zooshopik.cz
 partner.zvaracky-obchod.sk
 partnerek.aerium.hu
-partnerhc.itex24.cz
 partneri.affiliatevyzva.cz
 partneri.akodlhsiezit.sk
 partneri.alchemistr.cz
@@ -918,6 +919,7 @@ partners.puravidashop.cz
 partners.spiritradar.com
 plus.mameradivlasy.cz
 promo.smskouc.cz
+promo.vyzkousejhizero.cz
 provize.3dfitness.cz
 provize.brilas.cz
 provize.dzumdzum.cz
@@ -978,5 +980,6 @@ www.partneri.zuzanaondrisova.sk
 affil.myface.cz
 affiliate.kulturistika.com
 login.affiliatesit.cz
+partner.eliteways.cz
 partner.janapekna.cz
 partner.topforteam.cz

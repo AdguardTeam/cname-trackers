@@ -15,7 +15,6 @@
     * effectory.piwik.pro
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
-    * fjordtravel.piwik.pro
     * helen.piwik.pro
     * hogeschool.piwik.pro
     * ind.piwik.pro
@@ -23,7 +22,6 @@
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
-    * netdriven.piwik.pro
     * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * polpharma.piwik.pro
@@ -57,6 +55,7 @@
 | ---- | ---- |
 | analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
+| dnsbl.test.tag.aumago.com | aumago.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
 | piwik.slotsparadise.com | betus.piwik.pro |
@@ -69,17 +68,16 @@
 | analytics.effectory.com | effectory.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
-| fpt.gofjords.com | fjordtravel.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
 | analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
+| wa.love2play.com | jetu.piwik.pro |
 | wa.mybookie.ag | jetu.piwik.pro |
 | wa.xbet.ag | jetu.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
-| stats.netdriven.com | netdriven.piwik.pro |
 | statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | polpharmaanalytics.pl | polpharma.piwik.pro |
@@ -113,6 +111,7 @@
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
+| pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
 | statistiek.rechtspraak.nl | pp-public-p-euw.piwik.pro |
@@ -134,10 +133,11 @@
 | p.zwilling.com | pp-public-p-gwc.piwik.pro |
 | piwik.com-online.com | pp-public-p-gwc.piwik.pro |
 | ptm.wuerth.de | pp-public-p-gwc.piwik.pro |
+| ptm.wuerth.de | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tagadmin.aumago.com | pp-public-p-gwc.piwik.pro |
-| wa.mybookie.ag | pp-public-p-gwc.piwik.pro |
+| wa.love2play.com | pp-public-p-gwc.piwik.pro |
 | wa.mybookie.ag | pp-public-p-gwc.piwik.pro |
 | wa.xbet.ag | pp-public-p-gwc.piwik.pro |
 | a.uwhealth.org | pp-public-p-use.piwik.pro |
@@ -174,4 +174,5 @@
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |
 | analytics.witglobal.net | witglobal.piwik.pro |
+| ptm.wuerth.de | witglobal.piwik.pro |
 | p.zwilling.com | zwilling.piwik.pro |

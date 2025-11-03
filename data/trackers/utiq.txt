@@ -3,6 +3,7 @@
 ||a1at.mno.link^
 ||bgtfr-test.mno.link^
 ||bob-a1at.mno.link^
+||dtpen-test.mno.link^
 ||dtpen.mno.link^
 ||esca-test.mno.link^
 ||esca.mno.link^
@@ -18,6 +19,7 @@
 ||sfr.mno.link^
 ||timit.mno.link^
 ||tmi.jv-telcoid.es^
+||tmi.mno.link^
 ||tmi.vodafone.de^
 ||u.20minutes.fr^
 ||u.20mn.it^
@@ -51,6 +53,7 @@
 ||utiq.autofrage.net^
 ||utiq.autojournal.fr^
 ||utiq.automobile-magazine.fr^
+||utiq.automoto.it^
 ||utiq.autoplus.fr^
 ||utiq.az-online.de^
 ||utiq.berlin-live.de^
@@ -159,6 +162,7 @@
 ||utiq.foodblog.it^
 ||utiq.football.fr^
 ||utiq.football365.fr^
+||utiq.formel1.de^
 ||utiq.fr.de^
 ||utiq.frandroid.com^
 ||utiq.fuehrerscheintest-online.de^
@@ -269,6 +273,7 @@
 ||utiq.madmoizelle.com^
 ||utiq.maennerseite.net^
 ||utiq.mahou.es^
+||utiq.mail.de^
 ||utiq.maison-travaux.fr^
 ||utiq.mallorcazeitung.es^
 ||utiq.manager-magazin.de^
@@ -296,9 +301,11 @@
 ||utiq.moin.de^
 ||utiq.monacomatin.mc^
 ||utiq.mopo.de^
+||utiq.moto.it^
 ||utiq.motor-talk.de^
 ||utiq.motorimagazine.it^
 ||utiq.motorradfrage.net^
+||utiq.motorsport-total.com^
 ||utiq.movistar.es^
 ||utiq.mundoxiaomi.com^
 ||utiq.myhomebook.de^

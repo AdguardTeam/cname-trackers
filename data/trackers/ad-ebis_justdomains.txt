@@ -126,7 +126,6 @@ adebis.zenyaku-hbshop.com
 adebis01.job-con.jp
 adebis02.juku.st
 adebis0508.brain-sleep.com
-adebis1.1rnavi.com
 adebis2.line-property.com
 adebis8628.matsui.co.jp
 adebiscname.au-sonpo.co.jp
@@ -173,6 +172,7 @@ cname.mebiusseiyaku.co.jp
 cname.mitsuihome.co.jp
 cname.nikkei-cnbc.co.jp
 cname.polestar-m.jp
+cname.restys.jp
 cname.sognando.jp
 cname.sokuyaku.jp
 cname1.shakenkan.co.jp
@@ -204,11 +204,13 @@ digital.anicom-sompo.co.jp
 eb.bewithyou.jp
 eb.o-b-labo.com
 ebis-cname.mirai-japan.co.jp
+ebis-tracking.aoki-tsuyoshi.com
 ebis-tracking.hirakata-skin-clinic.com
 ebis-tracking.kawaguchi-keisei.com
 ebis-tracking.okinawa-keisei.com
 ebis-tracking.shinyokohama-beauty.com
 ebis-tracking.tcb-beauty.net
+ebis-tracking.tcb-esaka.com
 ebis-tracking.tcb-fukuoka.com
 ebis-tracking.tcb-fukushima.com
 ebis-tracking.tcb-ginza.com
@@ -216,8 +218,11 @@ ebis-tracking.tcb-koriyama.com
 ebis-tracking.tcb-mito.com
 ebis-tracking.tcb-nakano.com
 ebis-tracking.tcb-recruit.com
+ebis-tracking.tcb-sakai.com
 ebis-tracking.tcb-setagaya.com
 ebis-tracking.tcb-shibuya.com
+ebis-tracking.tcb-shinjuku.com
+ebis-tracking.tcb-yokohama.com
 ebis.15jikai.com
 ebis.2jikaikun.com
 ebis.3838.com
@@ -229,7 +234,6 @@ ebis.bbo.co.jp
 ebis.belta.co.jp
 ebis.biyo-job.com
 ebis.bulk.co.jp
-ebis.care-tensyoku.com
 ebis.ccjusers.com
 ebis.ce-parfait.com
 ebis.coyori.com
@@ -326,8 +330,6 @@ mcad.mods-clinic.com
 mcad.mods-clinic.info
 mcad.modsclinic-osaka.com
 mdm.hibinobi-mandom.jp
-media.geinoschool-hikaku.com
-media.geinoschool-hikaku.net
 mgn.ebis.xn--olsz5f0ufw02b.net
 ncc.nip-col.jp
 nlp-japan.life-and-mind.com

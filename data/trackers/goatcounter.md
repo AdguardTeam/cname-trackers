@@ -62,13 +62,13 @@
     * gpuzelenograd-github.goatcounter.com
     * gradient.goatcounter.com
     * grokhard.goatcounter.com
+    * gwyers.goatcounter.com
     * hadejkde.goatcounter.com
     * haseebmajid.goatcounter.com
     * hausarzt-zentrum-herne.goatcounter.com
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
     * ideasnap.goatcounter.com
-    * ifknow.goatcounter.com
     * ignatuque.goatcounter.com
     * irishbornchinese.goatcounter.com
     * irisphotos.goatcounter.com
@@ -124,6 +124,7 @@
     * opensurge.goatcounter.com
     * otbivnoe.goatcounter.com
     * palaisdesfetes.goatcounter.com
+    * pamcarter.goatcounter.com
     * psiyum.goatcounter.com
     * qrdate.goatcounter.com
     * r18.goatcounter.com
@@ -138,6 +139,7 @@
     * satanisk.goatcounter.com
     * sebastianzehner.goatcounter.com
     * semipol.goatcounter.com
+    * shu.goatcounter.com
     * skeetstats.goatcounter.com
     * slade.goatcounter.com
     * sofianlak.goatcounter.com
@@ -238,13 +240,13 @@
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | stats.brendanhanke.com | gradient.goatcounter.com |
 | gc.grokhard.com | grokhard.goatcounter.com |
+| stats.gwyer.net | gwyers.goatcounter.com |
 | stats.hadejkde.cz | hadejkde.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | gc.hausarzt-zentrum-herne.de | hausarzt-zentrum-herne.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | usage.ideasnap.co | ideasnap.goatcounter.com |
-| stats.ifknow.ru | ifknow.goatcounter.com |
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
 | goatcounter.irishbornchinese.com | irishbornchinese.goatcounter.com |
 | ping.irisphotos.app | irisphotos.goatcounter.com |
@@ -304,6 +306,7 @@
 | stats.opensurge2d.org | opensurge.goatcounter.com |
 | stats.otbivnoe.ru | otbivnoe.goatcounter.com |
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
+| stats.pamcarter.net | pamcarter.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
 | stats.r18.dev | r18.goatcounter.com |
@@ -318,6 +321,7 @@
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.sebastianzehner.com | sebastianzehner.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
+| stats.shurimp.com | shu.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
 | dot-com-stats.sladewatkins.net | slade.goatcounter.com |
 | stats.sofianlak.fr | sofianlak.goatcounter.com |

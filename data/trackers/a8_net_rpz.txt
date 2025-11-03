@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -169,6 +169,7 @@ a8.infinitussub.com CNAME .
 a8.ippin-do.com CNAME .
 a8.jfax.com CNAME .
 a8.jiiawater.com CNAME .
+a8.job.lismi.jp CNAME .
 a8.joygirl.jp CNAME .
 a8.joylab.jp CNAME .
 a8.jp.peacebird.com CNAME .
@@ -241,6 +242,7 @@ a8.okamotogroup.com CNAME .
 a8.olightstore.jp CNAME .
 a8.onamae.com CNAME .
 a8.onecoinenglish.com CNAME .
+a8.onenova.jp CNAME .
 a8.online-yomikakisoroban.com CNAME .
 a8.otoku-line.jp CNAME .
 a8.otonayaki.com CNAME .
@@ -671,7 +673,6 @@ a8clk.sixcore.ne.jp CNAME .
 a8clk.skima.jp CNAME .
 a8clk.skynet-c.jp CNAME .
 a8clk.skyoffice.info CNAME .
-a8clk.sma-ene.jp CNAME .
 a8clk.smart-keiri.com CNAME .
 a8clk.smartmethod.rarejob.com CNAME .
 a8clk.smile-zemi.jp CNAME .
@@ -737,6 +738,7 @@ a8clk.www.gaihekitosou-partners.jp CNAME .
 a8clk.www.green-dog.com CNAME .
 a8clk.www.italki.com CNAME .
 a8clk.www.jaf.or.jp CNAME .
+a8clk.www.jieitaiclub.jp CNAME .
 a8clk.www.just-size.net CNAME .
 a8clk.www.ka-nabell.com CNAME .
 a8clk.www.khaki.jp CNAME .
@@ -831,6 +833,7 @@ a8cv.bizlink.io CNAME .
 a8cv.bloomonline.jp CNAME .
 a8cv.bonaventura.shop CNAME .
 a8cv.borderfree-official.com CNAME .
+a8cv.botanium.jp CNAME .
 a8cv.brandeuse.jp CNAME .
 a8cv.bresmile.jp CNAME .
 a8cv.bright-app.com CNAME .
@@ -1211,6 +1214,7 @@ a8cv.setagayarecords.co CNAME .
 a8cv.shadoten.com CNAME .
 a8cv.sharing-tech.co.jp CNAME .
 a8cv.sharing-tech.jp CNAME .
+a8cv.shi-rel.com CNAME .
 a8cv.shibarinashi-wifi.jp CNAME .
 a8cv.shibuya-scramble-figure.com CNAME .
 a8cv.shimomoto-cl.co.jp CNAME .
@@ -1223,6 +1227,7 @@ a8cv.shop.solve-grp.com CNAME .
 a8cv.sibody.co.jp CNAME .
 a8cv.signalift.com CNAME .
 a8cv.sirusi.jp CNAME .
+a8cv.sitecreation.co.jp CNAME .
 a8cv.sl-creations.store CNAME .
 a8cv.slp.partners-re.co.jp CNAME .
 a8cv.smart-shikaku.com CNAME .
@@ -1333,6 +1338,7 @@ a8cv.yamato-gp.net CNAME .
 a8cv.yamatokouso.com CNAME .
 a8cv.ygm-clinic.or.jp CNAME .
 a8cv.yobybo-japan.com CNAME .
+a8cv.yogino.jp CNAME .
 a8cv.yokoyamakaban.com CNAME .
 a8cv.yoriso.com CNAME .
 a8cv.you-shoku.net CNAME .
@@ -1370,7 +1376,6 @@ a8net.gset.co.jp CNAME .
 a8net.hassyadai.com CNAME .
 a8net.kitamura-print.com CNAME .
 a8net.pg-learning.net CNAME .
-a8net.sourcenext.com CNAME .
 a8netcv.crebiq.com CNAME .
 a8nikibi.ike-sunshine.co.jp CNAME .
 a8onlineshop.trendmicro.co.jp CNAME .
@@ -1486,7 +1491,6 @@ cv.belta-shop.jp CNAME .
 cv.betrading.jp CNAME .
 cv.bloomeelife.com CNAME .
 cv.cante-gym.com CNAME .
-cv.cart.naturath.jp CNAME .
 cv.classmall.jp CNAME .
 cv.codecamp.jp CNAME .
 cv.colleize.com CNAME .

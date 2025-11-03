@@ -106,6 +106,7 @@
 ||console.livingmagonline.com^
 ||console.mannixmarketing.com^
 ||console.medlabmag.com^
+||console.mequoda.com^
 ||console.miningweekly.com^
 ||console.myadsmyanmar.com^
 ||console.pinktriangle.ca^
@@ -319,6 +320,7 @@
 ||www.static.everythingnevada.com^
 ||www.static.healthcarescene.com^
 ||www.static.imagineobx.com^
+||www.static.insideradverts.com^
 ||www.static.livingmagonline.com^
 ||www.static.proxibid.com^
 ||www.static.schrotundkorn.de^

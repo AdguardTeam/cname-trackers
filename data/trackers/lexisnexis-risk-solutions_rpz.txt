@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -51,6 +51,7 @@ afm.startradermarkets.com CNAME .
 afm.startradermy.com CNAME .
 afm.startraders55.com CNAME .
 afm.startraders56.com CNAME .
+afm.startraders58.com CNAME .
 afm.startradervn.net CNAME .
 afm.sthub.cc CNAME .
 afm.strmarketing.net CNAME .
@@ -72,6 +73,7 @@ afm.vantagemarketssea.com CNAME .
 afm.vantagetradings.com CNAME .
 afm.vnvtglobal.com CNAME .
 afm.vnvtmarkets.com CNAME .
+afm.vtdigitalad.com CNAME .
 afm.vtg-mkt-apac.com CNAME .
 afm.vtg-mkt.com CNAME .
 afm.vtg-mkts.com CNAME .
@@ -90,6 +92,7 @@ afm.vtmarketsintlcn.com CNAME .
 afm.vtmarketsjp.com CNAME .
 afm.vtmarketsnet.com CNAME .
 afm.vtmarketsuk.com CNAME .
+afm.vtmarketsvn.com CNAME .
 afm.vtmarketsweb.com CNAME .
 afm.vtmgcn.com CNAME .
 afm.vtmindo.com CNAME .
@@ -122,6 +125,7 @@ applicant.rbfcu.org CNAME .
 apps.shift.com.au CNAME .
 appschk.scotiabank.com CNAME .
 appscore.credilike.me CNAME .
+argospay-tmx-content.argos.co.uk CNAME .
 asanalytics.booking.com CNAME .
 assessment.nj.betmgm.com CNAME .
 assets.harlandclarke.com CNAME .
@@ -363,6 +367,7 @@ content.imagedepositgateway.com CNAME .
 content.incredit.pl CNAME .
 content.interaconline.com CNAME .
 content.ip4y.com.br CNAME .
+content.jackpotcity.ca CNAME .
 content.jackpotcitycasino.ca CNAME .
 content.knetbooks.com CNAME .
 content.koalafi.com CNAME .
@@ -715,6 +720,7 @@ info.betway.mw CNAME .
 info.betway.ng CNAME .
 info.betwaypartnersafrica.com CNAME .
 info.jackpotcity.co.za CNAME .
+info.jackpotcitycasino.mw CNAME .
 insights.hastingsdirectloans.com CNAME .
 intl.payu.in CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
@@ -901,6 +907,7 @@ prod-travis.chaperone.lumindigitalhosting.com CNAME .
 prod-tvfcuwy.chaperone.lumindigitalhosting.com CNAME .
 prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
 prod-uiccuil.chaperone.lumindigitalhosting.com CNAME .
+prod-umassfive-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-university.chaperone.lumindigitalhosting.com CNAME .
 prod-usalliance.chaperone.lumindigitalhosting.com CNAME .
 prod-useagle.chaperone.lumindigitalhosting.com CNAME .
@@ -914,6 +921,7 @@ prof4rs.cembrapay.ch CNAME .
 profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
+protection.bt.com CNAME .
 provider-services.openbank.mx CNAME .
 ptm.creditas.com CNAME .
 public-check3-at.test.tiaa-cref.org CNAME .
@@ -968,6 +976,7 @@ rhino.gocardless.com CNAME .
 rm-3d84e791.payby.com CNAME .
 rmscheck.sbifxt.co.jp CNAME .
 rqt-cdna.paymentncb.cofidis.fr CNAME .
+rqt-cl-cdna.ecommerce.cofidis.it CNAME .
 rsx.afterpay.com CNAME .
 rt.wisecartapp.com CNAME .
 rttm.uniondigitalbank.co CNAME .
@@ -1217,6 +1226,7 @@ tmcdn.betway.de CNAME .
 tmcdn.betway.es CNAME .
 tmcdn.betway.mx CNAME .
 tmcdn.betwayarabia.com CNAME .
+tmcdn.betwayarabia1.com CNAME .
 tmcdn.europalace.com CNAME .
 tmcdn.gamingclub.com CNAME .
 tmcdn.grizzlysquest.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -67,7 +67,9 @@ et.electronic4you.hr CNAME .
 et.electronic4you.si CNAME .
 et.go-kmu.de CNAME .
 et.goal-based.investments CNAME .
+et.immobilien-strobl.de CNAME .
 et.lavita.com CNAME .
+et.lerche-werbemittel.de CNAME .
 et.lioran.de CNAME .
 et.louis-moto.ch CNAME .
 et.louis-moto.co.uk CNAME .
@@ -115,6 +117,7 @@ etracker.limbachgruppe.com CNAME .
 etracker.lukas-becker.eu CNAME .
 etracker.novicon.net CNAME .
 etracker.riess-gruppe.de CNAME .
+etracker.seoversiert.de CNAME .
 ets.verivox.com CNAME .
 ettcc.steute-controltec.com CNAME .
 ettcc.steute-leantec.com CNAME .
@@ -123,10 +126,12 @@ ettcc.steute.com CNAME .
 eva.institut-sitya.at CNAME .
 ferthu.seyffer.shop CNAME .
 go.eitrmsummit.com CNAME .
+go.kik.de CNAME .
 gus.corinnavondermuehlen.de CNAME .
 insides.honic.eu CNAME .
 insights.bertelsmann-stiftung.de CNAME .
 js.edingershops.de CNAME .
+knowlege.pepeprint.de CNAME .
 lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
@@ -140,6 +145,8 @@ metrics.leimer.de CNAME .
 metrics.meineversicherungswelt.de CNAME .
 metrics.moderade.com CNAME .
 metrics.ostseeresort-damp.de CNAME .
+metrics.stilvol.de CNAME .
+metrics.thegoodshit.store CNAME .
 metrics.treudelberg-resort.com CNAME .
 metrics.ultra-med.de CNAME .
 metrics.zaun-star.com CNAME .
@@ -154,6 +161,7 @@ ric.riedel-immobilien.de CNAME .
 ric.seeleben-starnbergersee.de CNAME .
 salzburg.semsea.at CNAME .
 show.gruppedrei.com CNAME .
+sltracking.sonderlote.de CNAME .
 src.vector.com CNAME .
 sst.cannapoli.de CNAME .
 sst.grasrezept-vergleich.de CNAME .
@@ -211,6 +219,7 @@ tracking.mediengewerk.de CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
 tracking.terrassenhof.de CNAME .
 tracking.walserart.at CNAME .
+trkker.wearelean.com CNAME .
 trkkr.bugatti-media.com CNAME .
 trkkr.bugatti-newsroom.com CNAME .
 uezeus.ueberbit.de CNAME .
@@ -259,6 +268,7 @@ webcontr.holzgestein.com CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.in-akustik.de CNAME .
 webcontr.jalousiescout.at CNAME .
+webcontr.jalousiescout.de CNAME .
 webcontr.kabelschuhe-shop.de CNAME .
 webcontr.kitchen-concept.de CNAME .
 webcontr.kontor4.de CNAME .

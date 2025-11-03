@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -132,13 +132,13 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
+em2287.theory.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em7952.dailypay.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em8561.go2bank.com CNAME .
+em8642.notifications.acorns.com CNAME .
 em924.refer.starbucks.com CNAME .
 emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
@@ -467,7 +467,6 @@ referral.bluehost.com CNAME .
 referral.bluehost.uk CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.drunkelephant.com CNAME .
-referral.lgeccu.org CNAME .
 referral.moneybase.com CNAME .
 referral.pellaofdfw.com CNAME .
 referral.shiseido.com CNAME .
@@ -500,7 +499,6 @@ share.asics.com CNAME .
 share.asurion.com CNAME .
 share.atlasbars.com CNAME .
 share.au.boden.com CNAME .
-share.aveda.com.au CNAME .
 share.azcentral.com CNAME .
 share.baiconnect.com CNAME .
 share.barrys.com CNAME .
@@ -568,7 +566,6 @@ share.ent.com CNAME .
 share.enterprisenews.com CNAME .
 share.enzocustom.com CNAME .
 share.esteelauder.co.kr CNAME .
-share.esteelauder.com.au CNAME .
 share.esteelauder.com.tw CNAME .
 share.ets.org CNAME .
 share.evine.com CNAME .
@@ -587,7 +584,6 @@ share.fundrive.savers.com CNAME .
 share.getmobilemechanic.com CNAME .
 share.getsetup.io CNAME .
 share.getshyft.co.za CNAME .
-share.giftcardgranny.com CNAME .
 share.giftya.com CNAME .
 share.giorgioarmanibeauty-usa.com CNAME .
 share.go2bank.com CNAME .
@@ -634,7 +630,6 @@ share.lifedna.com CNAME .
 share.livongo.com CNAME .
 share.lohud.com CNAME .
 share.lovesac.com CNAME .
-share.maccosmetics.com.au CNAME .
 share.macsales.com CNAME .
 share.maidpro.com CNAME .
 share.mamabearlegalforms.com CNAME .
@@ -690,11 +685,9 @@ share.redding.com CNAME .
 share.refer-aveda.ca CNAME .
 share.refer-aveda.co.uk CNAME .
 share.refer-aveda.com CNAME .
-share.refer-aveda.jp CNAME .
 share.refer-bumbleandbumble.co.uk CNAME .
 share.refer-bumbleandbumble.com CNAME .
 share.refer-clinique.com CNAME .
-share.refer-clinique.com.au CNAME .
 share.refer-clinique.com.tw CNAME .
 share.refer-clinique.jp CNAME .
 share.refer-cliniquekorea.co.kr CNAME .
@@ -707,7 +700,6 @@ share.refer-glamglow.com CNAME .
 share.refer-maccosmetics.ca CNAME .
 share.refer-maccosmetics.co.uk CNAME .
 share.refer-maccosmetics.com CNAME .
-share.refer-maccosmetics.com.tw CNAME .
 share.refer-maccosmetics.es CNAME .
 share.refer-maccosmetics.fr CNAME .
 share.refer-maccosmetics.it CNAME .
@@ -731,7 +723,6 @@ share.salalcu.org CNAME .
 share.sesamecare.com CNAME .
 share.shibumishade.com CNAME .
 share.shoptruespirit.com CNAME .
-share.shutterstock.com CNAME .
 share.shyft.co.za CNAME .
 share.simonandschuster.com CNAME .
 share.simplepractice.com CNAME .
@@ -743,6 +734,7 @@ share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
 share.stargazette.com CNAME .
 share.statesmanjournal.com CNAME .
+share.stiltzlifts.com CNAME .
 share.stockpile.com CNAME .
 share.stopagingnow.com CNAME .
 share.stridehealth.com CNAME .
@@ -804,14 +796,14 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-em2287.theory.com CNAME .
+em1476.princesscruises.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
+em7952.dailypay.com CNAME .
 em8031.soundcloud.com CNAME .
-em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
 em9523.walmartmoneycard.com CNAME .

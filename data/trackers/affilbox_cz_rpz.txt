@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -584,6 +584,7 @@ partner.italier.cz CNAME .
 partner.izlato24.cz CNAME .
 partner.jakfotitsladke.cz CNAME .
 partner.jakserychlenaucit.cz CNAME .
+partner.janmarkel.cz CNAME .
 partner.jbimbishop.cz CNAME .
 partner.jedlenadobi.cz CNAME .
 partner.jillylenau.cz CNAME .
@@ -745,6 +746,7 @@ partner.t-shock.eu CNAME .
 partner.tahnabranu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.thelisteningworld.com CNAME .
+partner.tinecostore.cz CNAME .
 partner.top-obaly.cz CNAME .
 partner.tozax.cz CNAME .
 partner.tozax.sk CNAME .
@@ -781,7 +783,6 @@ partner.zonky.cz CNAME .
 partner.zooshopik.cz CNAME .
 partner.zvaracky-obchod.sk CNAME .
 partnerek.aerium.hu CNAME .
-partnerhc.itex24.cz CNAME .
 partneri.affiliatevyzva.cz CNAME .
 partneri.akodlhsiezit.sk CNAME .
 partneri.alchemistr.cz CNAME .
@@ -929,6 +930,7 @@ partners.puravidashop.cz CNAME .
 partners.spiritradar.com CNAME .
 plus.mameradivlasy.cz CNAME .
 promo.smskouc.cz CNAME .
+promo.vyzkousejhizero.cz CNAME .
 provize.3dfitness.cz CNAME .
 provize.brilas.cz CNAME .
 provize.dzumdzum.cz CNAME .
@@ -989,5 +991,6 @@ www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .
 affiliate.kulturistika.com CNAME .
 login.affiliatesit.cz CNAME .
+partner.eliteways.cz CNAME .
 partner.janapekna.cz CNAME .
 partner.topforteam.cz CNAME .

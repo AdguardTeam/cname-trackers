@@ -70,6 +70,7 @@
 ||3178930.notify6.com^
 ||3179416.notify6.com^
 ||3179416.notifysrv.com^
+||3179546.notify6.com^
 ||3179552.notifysrv.com^
 ||3180142.notifysrv.com^
 ||3180144.notifysrv.com^
@@ -187,6 +188,7 @@
 ||3243082.notifysrv.com^
 ||3245102.notifysrv.com^
 ||3246524.notifysrv.com^
+||3247106.notify6.com^
 ||3248488.notify6.com^
 ||3249470.notifysrv.com^
 ||3249648.notify6.com^
@@ -451,6 +453,7 @@
 ||3461281.notify6.com^
 ||3461281.notifysrv.com^
 ||3461289.notify6.com^
+||3461289.notifysrv.com^
 ||3461293.notifysrv.com^
 ||3461347.notify6.com^
 ||3461347.notifysrv.com^
@@ -794,6 +797,7 @@
 ||3898244.notify6.com^
 ||3898280.notify6.com^
 ||3898346.notify6.com^
+||3898378.notify6.com^
 ||3903162.notify6.com^
 ||3903164.notify6.com^
 ||3909064.notify6.com^
@@ -884,6 +888,7 @@
 ||4037384.notify6.com^
 ||4037426.notify6.com^
 ||4037428.notify6.com^
+||4045404.notify6.com^
 ||4045406.notify6.com^
 ||4046268.notify6.com^
 ||4046272.notify6.com^
@@ -1136,14 +1141,17 @@
 ||8.notify.bizonads-ssp.com^
 ||_sip._tcp.meet.3393147.notifysrv.com^
 ||_sips._tcp.3323174.notifysrv.com^
+||a.18ramp.com^
 ||a.8jfbt5va3r.com^
 ||a.adsession.com^
 ||a.advantageclicks.net^
 ||a.advertrek.com^
 ||a.allureanews.com^
+||a.asvsm.com^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
 ||a.bizonads-ssp.com^
+||a.brilmaver.com^
 ||a.cant3am.com^
 ||a.crme7srv.com^
 ||a.eunow4u.com^
@@ -1160,15 +1168,18 @@
 ||a.pinkads.org^
 ||a.playa.to^
 ||a.q88z1s3.com^
+||a.r8lnet.com^
 ||a.rocoads.net^
-||a.t5z3w0p.com^
+||a.santabrowser.com^
 ||a.tf4srv.com^
+||a.traffic-gold.com^
 ||a.vws4brkfst.com^
 ||abc.notifysrv.com^
 ||accept.notifysrv.com^
 ||access.notifysrv.com^
 ||accounting.notifysrv.com^
 ||ada.notifysrv.com^
+||admin.adsession.com^
 ||admin.adxnow.com^
 ||admin.datingclix.com^
 ||admin.etology.com^
@@ -1176,7 +1187,6 @@
 ||admin.gettopple.com^
 ||admin.landingtrk.com^
 ||admin.rocoads.net^
-||admin.shafttraffic.com^
 ||admin.trafficfactory.com^
 ||admin.valuemedia-ltd.com^
 ||admin.vrumeads.com^
@@ -1193,7 +1203,6 @@
 ||api.adxnow.com^
 ||api.datingclix.com^
 ||api.getblaze.app^
-||api.shafttraffic.com^
 ||api.tf4srv.com^
 ||api.trafficfactory.com^
 ||api.valuemedia-ltd.com^
@@ -1351,6 +1360,8 @@
 ||s.dst82e.com^
 ||s.dst8vn.com^
 ||s.dstfgh.com^
+||s.dsuntq.com^
+||s.dsvfk5.com^
 ||s.dsvrqo.com^
 ||s.dsx827.com^
 ||s.dsxmn0.com^
@@ -1377,6 +1388,7 @@
 ||s.elnk40.com^
 ||s.elnk4b.com^
 ||s.elnk4d.com^
+||s.elnk60.com^
 ||s.elnk66.com^
 ||s.elnk90.com^
 ||s.elnk92.com^
@@ -1439,6 +1451,7 @@
 ||s.optvz.com^
 ||s.orbsrv.com^
 ||s.pemsrv.com^
+||s.pinkads.org^
 ||s.playa.to^
 ||s.q88z1s3.com^
 ||s.rocoads.net^
@@ -1635,10 +1648,5 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
-||a.18ramp.com^
-||a.asvsm.com^
-||a.brilmaver.com^
 ||a.etology.com^
-||a.r8lnet.com^
-||a.santabrowser.com^
-||a.traffic-gold.com^
+||a.t5z3w0p.com^

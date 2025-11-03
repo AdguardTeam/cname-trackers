@@ -81,7 +81,6 @@ l.eclypsia.com
 l.elleadore.com
 l.en-vols.com
 l.enfant.com
-l.enfemenino.com
 l.entrenous.fr
 l.equidia.fr
 l.espinof.com
@@ -142,6 +141,7 @@ l.laprovence.com
 l.lardennais.fr
 l.larenaissancehebdo.fr
 l.larepubliquedespyrenees.fr
+l.lasanteauquotidien.com
 l.latribune.fr
 l.lavoixdunord.fr
 l.le10sport.com
@@ -167,6 +167,7 @@ l.lexpress.fr
 l.lhebdoduvendredi.com
 l.liberation-champagne.fr
 l.lindependant.fr
+l.linfoauquotidien.com
 l.lunion.fr
 l.madmoizelle.com
 l.maison-travaux.fr
@@ -206,6 +207,7 @@ l.paris-normandie.fr
 l.paris-turf.com
 l.paroledemamans.com
 l.peaches.fr
+l.peopleauquotidien.com
 l.petitbleu.fr
 l.plaisirauquotidien.com
 l.planet.fr
@@ -249,6 +251,7 @@ l.trendencias.com
 l.tudogostoso.com.br
 l.uppercutmma.com
 l.varmatin.com
+l.vert.eco
 l.viepratique.fr
 l.voici.fr
 l.vosgesmatin.fr

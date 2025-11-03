@@ -9,6 +9,7 @@
 * c2309.affilbox.cz
 * c4924.affilbox.cz
 * affiliatesit.cz
+* c7158.affilbox.cz
 * c771.affilbox.cz
 * c4670.affilbox.cz
 
@@ -20,6 +21,7 @@
 | affil.myface.cz | c2309.affilbox.cz |
 | partner.topforteam.cz | c4670.affilbox.cz |
 | affiliate.kulturistika.com | c4924.affilbox.cz |
+| partner.eliteways.cz | c7158.affilbox.cz |
 | partner.janapekna.cz | c771.affilbox.cz |
 | abox.simpleshop.cz | cz.affilbox.cz |
 | aff.faircredit.cz | cz.affilbox.cz |
@@ -594,6 +596,7 @@
 | partner.izlato24.cz | cz.affilbox.cz |
 | partner.jakfotitsladke.cz | cz.affilbox.cz |
 | partner.jakserychlenaucit.cz | cz.affilbox.cz |
+| partner.janmarkel.cz | cz.affilbox.cz |
 | partner.jbimbishop.cz | cz.affilbox.cz |
 | partner.jedlenadobi.cz | cz.affilbox.cz |
 | partner.jillylenau.cz | cz.affilbox.cz |
@@ -755,6 +758,7 @@
 | partner.tahnabranu.cz | cz.affilbox.cz |
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.thelisteningworld.com | cz.affilbox.cz |
+| partner.tinecostore.cz | cz.affilbox.cz |
 | partner.top-obaly.cz | cz.affilbox.cz |
 | partner.tozax.cz | cz.affilbox.cz |
 | partner.tozax.sk | cz.affilbox.cz |
@@ -791,7 +795,6 @@
 | partner.zooshopik.cz | cz.affilbox.cz |
 | partner.zvaracky-obchod.sk | cz.affilbox.cz |
 | partnerek.aerium.hu | cz.affilbox.cz |
-| partnerhc.itex24.cz | cz.affilbox.cz |
 | partneri.affiliatevyzva.cz | cz.affilbox.cz |
 | partneri.akodlhsiezit.sk | cz.affilbox.cz |
 | partneri.alchemistr.cz | cz.affilbox.cz |
@@ -939,6 +942,7 @@
 | partners.spiritradar.com | cz.affilbox.cz |
 | plus.mameradivlasy.cz | cz.affilbox.cz |
 | promo.smskouc.cz | cz.affilbox.cz |
+| promo.vyzkousejhizero.cz | cz.affilbox.cz |
 | provize.3dfitness.cz | cz.affilbox.cz |
 | provize.brilas.cz | cz.affilbox.cz |
 | provize.dzumdzum.cz | cz.affilbox.cz |

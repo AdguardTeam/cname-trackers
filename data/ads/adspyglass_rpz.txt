@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,6 +33,7 @@ $TTL 300
 4k6.4kporn.xxx CNAME .
 5475feaab.clicknplay.to CNAME .
 58745.clicknplay.to CNAME .
+5bs4y5e7.xyz CNAME .
 5f-hj8-5d2g.dnsdf.com CNAME .
 61serve.everydayporn.co CNAME .
 6969.javher.com CNAME .
@@ -67,7 +68,6 @@ a.ardont.xyz CNAME .
 a.arkox.site CNAME .
 a.atakcdn.art CNAME .
 a.atrem.site CNAME .
-a.babezunknown.com CNAME .
 a.bdsmz.tube CNAME .
 a.bedont.xyz CNAME .
 a.benue.site CNAME .
@@ -101,6 +101,7 @@ a.degore.xyz CNAME .
 a.diget.xyz CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dimao.site CNAME .
+a.dipi.online CNAME .
 a.dporntube.site CNAME .
 a.dramb.site CNAME .
 a.drem.site CNAME .
@@ -137,6 +138,7 @@ a.fuget.xyz CNAME .
 a.fynil.site CNAME .
 a.gegori.xyz CNAME .
 a.gemen.site CNAME .
+a.ghuet.xyz CNAME .
 a.gimea.site CNAME .
 a.gimes.site CNAME .
 a.gimet.site CNAME .
@@ -157,6 +159,7 @@ a.hrient.xyz CNAME .
 a.hruch.site CNAME .
 a.htrem.site CNAME .
 a.hubhubhub.name CNAME .
+a.hugit.xyz CNAME .
 a.hupot.site CNAME .
 a.hvert.site CNAME .
 a.hynea.site CNAME .
@@ -164,6 +167,7 @@ a.ifont.site CNAME .
 a.imbet.site CNAME .
 a.imeto.site CNAME .
 a.ingant.xyz CNAME .
+a.inpit.xyz CNAME .
 a.ipelo.site CNAME .
 a.iramb.site CNAME .
 a.itren.site CNAME .
@@ -177,6 +181,7 @@ a.jopel.site CNAME .
 a.jramb.site CNAME .
 a.jtren.site CNAME .
 a.juggo.site CNAME .
+a.jupit.xyz CNAME .
 a.juska.site CNAME .
 a.kainpopoy.com CNAME .
 a.kambistory.ml CNAME .
@@ -389,6 +394,7 @@ bancaleafe.xyz CNAME .
 battle05032026.shop CNAME .
 baukeri.ehrydnmdoe.com CNAME .
 bc6dc48b743dc5d01.clicknplay.to CNAME .
+beta.bloblohub.com CNAME .
 bio.booseed.com CNAME .
 blow.week1time.com CNAME .
 blum.stellaplus.xyz CNAME .
@@ -453,6 +459,7 @@ cdn5.cartoonporn.to CNAME .
 changeable1x.xyz CNAME .
 cheese08062025.shop CNAME .
 chlziaue.xyz CNAME .
+cinema.dmmcom.cc CNAME .
 client2009x25.xcdn.ovh CNAME .
 clit.lewdl.com CNAME .
 clo1p7jd.xyz CNAME .
@@ -569,7 +576,6 @@ gruesome1x.xyz CNAME .
 gsa24.giaythethaonuhcm.com CNAME .
 gui789.xyz CNAME .
 gx0.funfuckmovies.com CNAME .
-gyimie.womaametoto.xyz CNAME .
 h.bloblohub.com CNAME .
 h037n.letsporn.com CNAME .
 h4o565egjgi0v4bz.hubhubhub.name CNAME .
@@ -706,7 +712,6 @@ mangraox.my CNAME .
 mangtaoxa.xyz CNAME .
 maoeoa.xyz CNAME .
 materiaali.stailaus.fi CNAME .
-maxcdn.dmm-video.online CNAME .
 maximumdecimus.clicknplay.to CNAME .
 maxx1.a.pleasedonotblockme.com CNAME .
 maxx1.pleasedonotblockme.com CNAME .
@@ -740,7 +745,6 @@ n20dj6rv6ru1qewt.analytics.bloblohub.com CNAME .
 nameoaj.xyz CNAME .
 nbjiwgsm.xyz CNAME .
 negligence072925.shop CNAME .
-nesta.dimawusinners.xyz CNAME .
 net.contoscn.com CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
@@ -1082,6 +1086,7 @@ www.antiadblock.info CNAME .
 www.apgate.hubhubhub.name CNAME .
 www.atlas-3ib.com CNAME .
 www.b.hubhubhub.name CNAME .
+www.bancaleafe.xyz CNAME .
 www.bigboy.monster CNAME .
 www.bloblohub.com CNAME .
 www.blyger.hubhubhub.name CNAME .
@@ -1124,13 +1129,7 @@ www.web18781.hubhubhub.name CNAME .
 www.wisej1355.com CNAME .
 www.xz8.ru CNAME .
 www.zqwe.ru CNAME .
-www4.hentai-rpg.com CNAME .
-www4.hentaigamecg.com CNAME .
-www6.freeanimesource.com CNAME .
-www6.hentai-zone.com CNAME .
-www7.erogegames.com CNAME .
 www7.erogewiki.com CNAME .
-www8.upload-pics.com CNAME .
 x.adactioner.com CNAME .
 x.crazyporn.xxx CNAME .
 x.latelust.site CNAME .

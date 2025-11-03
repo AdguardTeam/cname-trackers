@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ t8.mailperformance.com CNAME .
 tr.3ou4xcb.cetelem.fr CNAME .
 tr.aasi.espmp-agfr.net CNAME .
 tr.abo.cotemaison.fr CNAME .
+tr.academy.canal-plus.com CNAME .
 tr.account.np6.com CNAME .
 tr.acd-comexpert.fr CNAME .
 tr.acq-pjms.fr CNAME .
@@ -293,6 +294,7 @@ tr.contact.henner.com CNAME .
 tr.contact.krug.fr CNAME .
 tr.contact.lvmh.fr CNAME .
 tr.contact.mhl-publishing.fr CNAME .
+tr.contact.rdcmm.fr CNAME .
 tr.contact.ruinart.com CNAME .
 tr.contact.stof.fr CNAME .
 tr.contact.thelist-emirates.fr CNAME .
@@ -349,7 +351,6 @@ tr.devizul-meu.ro CNAME .
 tr.dial03g.espmp-agfr.net CNAME .
 tr.digitalacademy.np6.com CNAME .
 tr.digitaldigest.lvmh.com CNAME .
-tr.directferries.com CNAME .
 tr.dirigeants.harmonie-mutuelle.fr CNAME .
 tr.discover.perfectstay.com CNAME .
 tr.djay.espmp-agfr.net CNAME .
@@ -395,6 +396,7 @@ tr.email.janedeboy.com CNAME .
 tr.email.kinvent.com CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.nauticexpo.com CNAME .
+tr.email.np6.com CNAME .
 tr.email.pointfranchise.co.uk CNAME .
 tr.email.renaultbank.fr CNAME .
 tr.email.rs-fr.com CNAME .
@@ -456,6 +458,7 @@ tr.expresofferte.be CNAME .
 tr.fg3p.espmp-cufr.net CNAME .
 tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
+tr.finance.coheris.com CNAME .
 tr.finance.moethennessy.com CNAME .
 tr.fleetmatics.vraaguwofferte.be CNAME .
 tr.fortuneo.com CNAME .
@@ -468,6 +471,7 @@ tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
 tr.g.moethennessy.com CNAME .
 tr.gen.espmp-agfr.net CNAME .
+tr.gestion-client.portzamparc.bnpparibas CNAME .
 tr.gestion.bnpparibas-pf.fr CNAME .
 tr.gestion.cafineo.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
@@ -902,6 +906,7 @@ tr.news.retailglobalsolutions.com CNAME .
 tr.news.seine-estuaire.cci.fr CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
+tr.news.solocalms.fr CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.sunelia.com CNAME .
 tr.news.supercasino.fr CNAME .
@@ -1131,7 +1136,6 @@ tr.surveys.np6.com CNAME .
 tr.talentconnect.lvmh.com CNAME .
 tr.tdgx.espmp-cufr.net CNAME .
 tr.think.lvmh.fr CNAME .
-tr.thisiseurope.moethennessy.com CNAME .
 tr.tibo.espmp-nifr.net CNAME .
 tr.tns.harmonie-mutuelle.fr CNAME .
 tr.tonerservices.fr CNAME .

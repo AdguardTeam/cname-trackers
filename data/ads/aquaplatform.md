@@ -79,6 +79,7 @@
     * mannix-console.aquaplatform.com
     * mannix-delivery.aquaplatform.com
     * mannix-static.aquaplatform.com
+    * mequoda-console.aquaplatform.com
     * mequoda-delivery.aquaplatform.com
     * mequoda-static.aquaplatform.com
     * midtc1-delivery.aquaplatform.com
@@ -271,6 +272,7 @@
 | console.insideradverts.com | im-console.aquaplatform.com |
 | servedby.insideradverts.com | im-delivery.aquaplatform.com |
 | static.insideradverts.com | im-static.aquaplatform.com |
+| www.static.insideradverts.com | im-static.aquaplatform.com |
 | display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
 | www.display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
 | console.leightonbroadcasting.com | lb-console.aquaplatform.com |
@@ -289,6 +291,7 @@
 | adserv1.mannixmarketing.com | mannix-delivery.aquaplatform.com |
 | servedby.mannixmarketing.com | mannix-delivery.aquaplatform.com |
 | static.mannixmarketing.com | mannix-static.aquaplatform.com |
+| console.mequoda.com | mequoda-console.aquaplatform.com |
 | ox.mequoda.com | mequoda-delivery.aquaplatform.com |
 | cdn.mequoda.com | mequoda-static.aquaplatform.com |
 | tlads.midtc.com | midtc1-delivery.aquaplatform.com |

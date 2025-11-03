@@ -705,6 +705,7 @@
 ||data-50d39a5d3f.diepresse.com^
 ||data-50de2f2b04.focus.de^
 ||data-50de2f2b04.netmoms.de^
+||data-512cafb4f7.addradio.de^
 ||data-512cafb4f7.radiowaf.de^
 ||data-512cafb4f7.radiowafhilft.de^
 ||data-513a50551b.psychologie-heute.de^
@@ -774,6 +775,7 @@
 ||data-5acce9c32f.apps.iocnt.de^
 ||data-5ad053d069.kempten.de^
 ||data-5b771a2641.berliner-zeitung.de^
+||data-5ba8f15a9d.apps.iocnt.de^
 ||data-5c0bd13fee.apps.iocnt.de^
 ||data-5c172edac2.prosieben.at^
 ||data-5c499c299f.apps.iocnt.de^
@@ -848,6 +850,7 @@
 ||data-60d896f23d.solinger-tageblatt.de^
 ||data-60d896f23d.sportbuzzer.de^
 ||data-60d896f23d.sz-auktion.de^
+||data-60d896f23d.sz-jobs.de^
 ||data-60d896f23d.sz-trauer.de^
 ||data-60d896f23d.szlz.de^
 ||data-60d896f23d.tah.de^
@@ -871,6 +874,7 @@
 ||data-62e93c650b.hannover.de^
 ||data-62e93c650b.visit-hannover.com^
 ||data-62e93c650b.visit-niedersachsen.de^
+||data-63015eaef7.apps.iocnt.de^
 ||data-631fe157dc.gesund.at^
 ||data-63224ea7ba.apps.iocnt.de^
 ||data-6345746ba5.nwz-glueckwunsch.de^
@@ -969,6 +973,7 @@
 ||data-6e2d34ec1f.pnp.de^
 ||data-6e57cba6aa.focus.de^
 ||data-6e57cba6aa.netmoms.de^
+||data-6e7c6d8d31.winbiap.net^
 ||data-6ed56dd691.bdb.at^
 ||data-6f211e7e41.apps.iocnt.de^
 ||data-6f4f333803.apps.iocnt.de^
@@ -1249,6 +1254,7 @@
 ||data-9599593609.laborjournal.com^
 ||data-9599593609.laborjournal.de^
 ||data-95c8053841.pirsch.de^
+||data-95fff71409.boersennews.de^
 ||data-960dda2233.jam.fm^
 ||data-960dda2233.jamfm.de^
 ||data-962cccd9c4.erneuerbareenergien.de^
@@ -1397,6 +1403,7 @@
 ||data-a38e203a07.job38.de^
 ||data-a38e203a07.radio38.de^
 ||data-a3a5ca8056.apps.iocnt.de^
+||data-a3c5651c22.cicero.de^
 ||data-a406cb7ed1.onpulson.de^
 ||data-a47d9423c7.esslingen.de^
 ||data-a486ca6d85.hamburg-magazin.de^
@@ -1458,8 +1465,10 @@
 ||data-aae7bdcec6.autoscout24.cz^
 ||data-aae7bdcec6.autoscout24.de^
 ||data-aae7bdcec6.autoscout24.hr^
+||data-aae7bdcec6.autoscout24.hu^
 ||data-aae7bdcec6.autoscout24.pl^
 ||data-aae7bdcec6.autoscout24.ro^
+||data-aae7bdcec6.autoscout24.ru^
 ||data-aae7bdcec6.autoscout24.se^
 ||data-ab14746017.autorevue.at^
 ||data-ab6e448dac.wetter.com^
@@ -1609,6 +1618,7 @@
 ||data-bc153aec3e.radiogueterslohhilft.de^
 ||data-bc16fafbba.stadtbibliothek-reutlingen.de^
 ||data-bc52ee58ca.meinprospekt.de^
+||data-bc58d40c93.nwz-auto.de^
 ||data-bc58d40c93.nwzonline.de^
 ||data-bc9dbdd971.handwerk-magazin.de^
 ||data-bcaa25791f.apps.iocnt.de^
@@ -1616,6 +1626,7 @@
 ||data-bd2c894b2a.apps.iocnt.de^
 ||data-bd417eda50.bibliothek-gruenwald.de^
 ||data-bd87db2679.haus.de^
+||data-bde21e813f.apps.iocnt.de^
 ||data-bdeff1b2b2.firmenauto.de^
 ||data-be032ee936.christkindlesmarkt.de^
 ||data-be032ee936.nn.de^
@@ -1632,6 +1643,7 @@
 ||data-c061012ba4.bisafans.de^
 ||data-c062efa4b8.arboe.at^
 ||data-c0856a82d9.aerzteblatt.de^
+||data-c0856a82d9.schaffrath-digital.de^
 ||data-c08b160129.theviennareview.at^
 ||data-c0cce5983f.business-wissen.de^
 ||data-c1195dc135.landundforst.de^
@@ -1878,6 +1890,7 @@
 ||data-e4997adf31.bilanz.de^
 ||data-e4997adf31.metal-hammer.de^
 ||data-e4997adf31.musikexpress.de^
+||data-e4997adf31.rollingstone.de^
 ||data-e4997adf31.welt.de^
 ||data-e4cfccd10c.freundin.de^
 ||data-e4dc2eea88.kochbar.de^
@@ -1915,6 +1928,7 @@
 ||data-e9439b5f81.stimberg-zeitung.de^
 ||data-e9439b5f81.waltroper-zeitung.de^
 ||data-e9489e7e40.citkomm.de^
+||data-e95444b6e0.apps.iocnt.de^
 ||data-e957dcbbbe.tele5.de^
 ||data-e9983e832a.boyens-medien.de^
 ||data-e9b83554f9.moserholding.com^
@@ -1925,6 +1939,7 @@
 ||data-ea81aa1271.derstandard.de^
 ||data-ea9686d3c9.guter-rat.de^
 ||data-eb375c9b89.apps.iocnt.de^
+||data-eb6d621864.apps.iocnt.de^
 ||data-ebb08b8040.bildderfrau.de^
 ||data-ebf4df4b00.antenne-thueringen.de^
 ||data-ebf4df4b00.antennethueringen.de^
@@ -2186,6 +2201,7 @@
 ||data-f5fd977e9d.getraenke-news.de^
 ||data-f62d7c5cdb.bergstraesser-anzeiger.de^
 ||data-f62d7c5cdb.fnweb.de^
+||data-f62d7c5cdb.haas-mediengruppe.de^
 ||data-f62d7c5cdb.immomorgen.de^
 ||data-f62d7c5cdb.jobmorgen.de^
 ||data-f62d7c5cdb.mannheimer-morgen.de^
@@ -2201,6 +2217,7 @@
 ||data-f8fea2d99e.staatsbibliothek-berlin.de^
 ||data-f943e74ec9.bz-berlin.de^
 ||data-f9b542cb96.apps.iocnt.de^
+||data-f9c11ac97e.apps.iocnt.de^
 ||data-fa2c5597f6.cavallo.de^
 ||data-fa2c5597f6.elektrobike-online.com^
 ||data-fa2c5597f6.roadbike.de^

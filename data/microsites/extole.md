@@ -147,11 +147,9 @@
     * at-a-glance.extole.io
     * athleta.extole.io
     * atlasbars.extole.io
-    * aveda-au.extole.io
     * aveda-ca.extole.io
     * aveda-uk.extole.io
     * aveda.extole.io
-    * avedajp.extole.io
     * ballarddesigns.extole.io
     * banana-republic.extole.io
     * baremineralsuk.extole.io
@@ -211,7 +209,6 @@
     * cle-de-peau.extole.io
     * clevelandgolf.extole.io
     * clinique.extole.io
-    * cliniqueau.extole.io
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
@@ -233,7 +230,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -263,7 +259,6 @@
     * enzocustom.extole.io
     * eset.extole.io
     * estee-lauder-ca.extole.io
-    * esteelauder-au.extole.io
     * esteelauder-kr.extole.io
     * esteelauder.extole.io
     * esteelauderhk.extole.io
@@ -299,7 +294,6 @@
     * giant-martins.extole.io
     * giantfood.extole.io
     * giantfoodstores.extole.io
-    * giftcardgranny.extole.io
     * giftya.extole.io
     * giorgioarmanibeauty-usa.extole.io
     * glamglow.extole.io
@@ -374,7 +368,6 @@
     * lemonaidhealth.extole.io
     * lending-club.extole.io
     * levi.extole.io
-    * lgeccu.extole.io
     * lifedna.extole.io
     * lighthousecu.extole.io
     * lightstream.extole.io
@@ -417,6 +410,7 @@
     * newtonbaby.extole.io
     * nfhs-network.extole.io
     * ngfcu.extole.io
+    * notifications.acorns.em.extole.io
     * nutribullet.extole.io
     * nuts.extole.io
     * nymcu.extole.io
@@ -458,7 +452,6 @@
     * pottery-barn.extole.io
     * princess.extole.io
     * princessau.extole.io
-    * princesscruises.em.extole.io
     * princessuk.extole.io
     * prokeds.extole.io
     * propark.extole.io
@@ -467,7 +460,6 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
-    * quickbooks.em.extole.io
     * quickbooks.extole.io
     * quickbooksintuituk.extole.io
     * quickstart.extole.io
@@ -509,7 +501,6 @@
     * shibumishade.extole.io
     * shiseido.extole.io
     * shu-uemura-art-of-hair.extole.io
-    * shutterstock.extole.io
     * shyft.extole.io
     * sikorskycu.extole.io
     * simon-and-schuster.extole.io
@@ -531,6 +522,7 @@
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
+    * stiltzlifts.extole.io
     * stockpile.extole.io
     * stop-and-shop.extole.io
     * stopagingnow.extole.io
@@ -538,6 +530,7 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -557,6 +550,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -678,12 +672,10 @@
 | refer.athleta.com | athleta.extole.io |
 | refer.athletawell.com | athleta.extole.io |
 | share.atlasbars.com | atlasbars.extole.io |
-| share.aveda.com.au | aveda-au.extole.io |
 | share.refer-aveda.ca | aveda-ca.extole.io |
 | share.refer-aveda.co.uk | aveda-uk.extole.io |
 | refer.aveda.com | aveda.extole.io |
 | share.refer-aveda.com | aveda.extole.io |
-| share.refer-aveda.jp | avedajp.extole.io |
 | refer.backcountry.com | backcountry.extole.com |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
 | refer.bananarepublic.com | banana-republic.extole.io |
@@ -770,7 +762,6 @@
 | refer.clearme.com | clearme-ssl.extole.com |
 | share.dunlopsports.com | clevelandgolf.extole.io |
 | share.refer-clinique.com | clinique.extole.io |
-| share.refer-clinique.com.au | cliniqueau.extole.io |
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
@@ -804,7 +795,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -843,7 +833,6 @@
 | share.enzocustom.com | enzocustom.extole.io |
 | refer.eset.com | eset.extole.io |
 | share.refer-esteelauder.ca | estee-lauder-ca.extole.io |
-| share.esteelauder.com.au | esteelauder-au.extole.io |
 | share.esteelauder.co.kr | esteelauder-kr.extole.io |
 | share.esteelauder.com.tw | esteelauder.extole.io |
 | share.refer-esteelauder.com.hk | esteelauderhk.extole.io |
@@ -959,7 +948,6 @@
 | refer.martinsfoods.com | giant-martins.extole.io |
 | refer.giantfood.com | giantfood.extole.io |
 | refer.giantfoodstores.com | giantfoodstores.extole.io |
-| share.giftcardgranny.com | giftcardgranny.extole.io |
 | share.giftya.com | giftya.extole.io |
 | share.giorgioarmanibeauty-usa.com | giorgioarmanibeauty-usa.extole.io |
 | refer.glamglow.com | glamglow.extole.io |
@@ -1066,7 +1054,6 @@
 | share.s1.levi-site.com | levi.extole.io |
 | share.s3.levi-site.com | levi.extole.io |
 | share.s4.levi-site.com | levi.extole.io |
-| referral.lgeccu.org | lgeccu.extole.io |
 | share.lifedna.com | lifedna.extole.io |
 | refer.lighthousecu.org | lighthousecu.extole.io |
 | refer.lightstream.com | lightstream.extole.io |
@@ -1085,8 +1072,6 @@
 | score.lumen.com | lumen.extole.io |
 | refer.lumosfiber.com | lumos-fiber.extole.io |
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
-| share.maccosmetics.com.au | mac-cosmetics.extole.io |
-| share.refer-maccosmetics.com.tw | mac-cosmetics.extole.io |
 | share.refer-maccosmetics.jp | mac-cosmetics.extole.io |
 | refer.madison-reed.com | madison-reed.extole.io |
 | share.maidpro.com | maidpro.extole.io |
@@ -1129,6 +1114,7 @@
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | share.ngfcu.us | ngfcu.extole.io |
+| em8642.notifications.acorns.com | notifications.acorns.em.extole.io |
 | share.nutribullet.com | nutribullet.extole.io |
 | share.nuts.com | nuts.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
@@ -1192,7 +1178,6 @@
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
 | refer-au.princess.com | princessau.extole.io |
-| em1476.princesscruises.com | princesscruises.em.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
@@ -1206,7 +1191,6 @@
 | recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
-| em2279.referral.quickbooks.co.uk | quickbooks.em.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
 | referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
@@ -1263,7 +1247,6 @@
 | referral.shiseido.com | shiseido.extole.io |
 | refer.shoesforcrews.com | shoesforcrews-ssl.extole.com |
 | refer.shuuemuraartofhair-usa.com | shu-uemura-art-of-hair.extole.io |
-| share.shutterstock.com | shutterstock.extole.io |
 | share.getshyft.co.za | shyft.extole.io |
 | share.shyft.co.za | shyft.extole.io |
 | refer.sikorskycu.org | sikorskycu.extole.io |
@@ -1291,6 +1274,7 @@
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
+| share.stiltzlifts.com | stiltzlifts.extole.io |
 | share.stockpile.com | stockpile.extole.io |
 | refer.stopandshop.com | stop-and-shop.extole.io |
 | share.stopagingnow.com | stopagingnow.extole.io |
@@ -1298,6 +1282,7 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1326,6 +1311,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |

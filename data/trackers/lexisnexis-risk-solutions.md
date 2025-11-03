@@ -36,6 +36,7 @@
     * h-22vdduyk.online-metrix.net
     * h-248kh53w.online-metrix.net
     * h-27l2wggf.online-metrix.net
+    * h-2cctnc2e.online-metrix.net
     * h-2dehands.online-metrix.net
     * h-2ememain.online-metrix.net
     * h-2g7dk5bn.online-metrix.net
@@ -928,6 +929,7 @@
 | prod-tvfcuwy.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uecupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uiccuil.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-umassfive-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-university.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-usalliance.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-useagle.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -946,6 +948,7 @@
 | ghisa.subito.it | h-22vdduyk.online-metrix.net |
 | aegis.miio.mx | h-248kh53w.online-metrix.net |
 | rmscheck.sbifxt.co.jp | h-27l2wggf.online-metrix.net |
+| protection.bt.com | h-2cctnc2e.online-metrix.net |
 | faas.2dehands.be | h-2dehands.online-metrix.net |
 | faas.2ememain.be | h-2ememain.online-metrix.net |
 | bkt-prod.sbishinseibank.co.jp | h-2g7dk5bn.online-metrix.net |
@@ -1105,6 +1108,7 @@
 | business.streetshares.com | h-7g11ytc6.online-metrix.net |
 | content.thebankoflondon.com | h-7gmzrj2o.online-metrix.net |
 | analytics.m10payments.com | h-7ih7ebik.online-metrix.net |
+| content.jackpotcity.ca | h-7ij9mii1-a.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.royalvegascasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.rubyfortune.ca | h-7ij9mii1-a.online-metrix.net |
@@ -1123,6 +1127,7 @@
 | tmcdn.betway.es | h-7oasgdq6.online-metrix.net |
 | tmcdn.betway.mx | h-7oasgdq6.online-metrix.net |
 | tmcdn.betwayarabia.com | h-7oasgdq6.online-metrix.net |
+| tmcdn.betwayarabia1.com | h-7oasgdq6.online-metrix.net |
 | tmcdn.hippodromeonline.com | h-7oasgdq6.online-metrix.net |
 | tmcdn.jackpotcitycasino.co.uk | h-7oasgdq6.online-metrix.net |
 | tmcdn.spincasino.co.uk | h-7oasgdq6.online-metrix.net |
@@ -1145,6 +1150,7 @@
 | info.betway.ng | h-7v30y901.online-metrix.net |
 | info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
 | info.jackpotcity.co.za | h-7v30y901.online-metrix.net |
+| info.jackpotcitycasino.mw | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
 | tm.tbcbusiness.uz | h-7xy7wvmp.online-metrix.net |
 | sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
@@ -1215,6 +1221,7 @@
 | afm.startradermy.com | h-96eziru5.online-metrix.net |
 | afm.startraders55.com | h-96eziru5.online-metrix.net |
 | afm.startraders56.com | h-96eziru5.online-metrix.net |
+| afm.startraders58.com | h-96eziru5.online-metrix.net |
 | afm.startradervn.net | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
 | afm.strmarketing.net | h-96eziru5.online-metrix.net |
@@ -1236,6 +1243,7 @@
 | afm.vantagetradings.com | h-96eziru5.online-metrix.net |
 | afm.vnvtglobal.com | h-96eziru5.online-metrix.net |
 | afm.vnvtmarkets.com | h-96eziru5.online-metrix.net |
+| afm.vtdigitalad.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt-apac.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkts.com | h-96eziru5.online-metrix.net |
@@ -1254,6 +1262,7 @@
 | afm.vtmarketsjp.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsnet.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsuk.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsvn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsweb.com | h-96eziru5.online-metrix.net |
 | afm.vtmgcn.com | h-96eziru5.online-metrix.net |
 | afm.vtmindo.com | h-96eziru5.online-metrix.net |
@@ -1470,6 +1479,7 @@
 | lndata.labor.md.gov | h-c70ghtsb.online-metrix.net |
 | content.olympus.ao.com | h-c7f45hl1-ao.online-metrix.net |
 | scontent.fluid.co.uk | h-c7f45hl1-fluid.online-metrix.net |
+| argospay-tmx-content.argos.co.uk | h-c7f45hl1.online-metrix.net |
 | scontent.aquacard.co.uk | h-c7f45hl1.online-metrix.net |
 | scontent.bip.credit | h-c7f45hl1.online-metrix.net |
 | scontent.marbles.com | h-c7f45hl1.online-metrix.net |
@@ -1669,6 +1679,7 @@
 | servicesdp.spinaway.ca | h-dwiy84jk-a.online-metrix.net |
 | servicesdp.luckydays.ca | h-dwiy84jk.online-metrix.net |
 | cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
+| rqt-cl-cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
 | content.orixbank.co.jp | h-dy06hdpq.online-metrix.net |
 | query.capitalontap.com | h-dyj6k3h5.online-metrix.net |
 | security.vanquis.com | h-dzb1xpdc.online-metrix.net |

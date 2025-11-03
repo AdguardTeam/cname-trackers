@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -117,6 +117,7 @@ console.leightonbroadcasting.com CNAME .
 console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
 console.medlabmag.com CNAME .
+console.mequoda.com CNAME .
 console.miningweekly.com CNAME .
 console.myadsmyanmar.com CNAME .
 console.pinktriangle.ca CNAME .
@@ -330,6 +331,7 @@ www.static.engineeringnews.co.za CNAME .
 www.static.everythingnevada.com CNAME .
 www.static.healthcarescene.com CNAME .
 www.static.imagineobx.com CNAME .
+www.static.insideradverts.com CNAME .
 www.static.livingmagonline.com CNAME .
 www.static.proxibid.com CNAME .
 www.static.schrotundkorn.de CNAME .

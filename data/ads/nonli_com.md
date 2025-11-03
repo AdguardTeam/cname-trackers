@@ -132,7 +132,6 @@
 | l.elleadore.com | tls.non.li |
 | l.en-vols.com | tls.non.li |
 | l.enfant.com | tls.non.li |
-| l.enfemenino.com | tls.non.li |
 | l.entrenous.fr | tls.non.li |
 | l.equidia.fr | tls.non.li |
 | l.espinof.com | tls.non.li |
@@ -189,6 +188,7 @@
 | l.lardennais.fr | tls.non.li |
 | l.larenaissancehebdo.fr | tls.non.li |
 | l.larepubliquedespyrenees.fr | tls.non.li |
+| l.lasanteauquotidien.com | tls.non.li |
 | l.latribune.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |
 | l.le10sport.com | tls.non.li |
@@ -211,6 +211,7 @@
 | l.lhebdoduvendredi.com | tls.non.li |
 | l.liberation-champagne.fr | tls.non.li |
 | l.lindependant.fr | tls.non.li |
+| l.linfoauquotidien.com | tls.non.li |
 | l.lunion.fr | tls.non.li |
 | l.madmoizelle.com | tls.non.li |
 | l.maison-travaux.fr | tls.non.li |
@@ -246,6 +247,7 @@
 | l.paris-normandie.fr | tls.non.li |
 | l.paroledemamans.com | tls.non.li |
 | l.peaches.fr | tls.non.li |
+| l.peopleauquotidien.com | tls.non.li |
 | l.petitbleu.fr | tls.non.li |
 | l.plaisirauquotidien.com | tls.non.li |
 | l.planet.fr | tls.non.li |
@@ -286,6 +288,7 @@
 | l.trendencias.com | tls.non.li |
 | l.tudogostoso.com.br | tls.non.li |
 | l.uppercutmma.com | tls.non.li |
+| l.vert.eco | tls.non.li |
 | l.viepratique.fr | tls.non.li |
 | l.voici.fr | tls.non.li |
 | l.whatsupdoc-lemag.fr | tls.non.li |

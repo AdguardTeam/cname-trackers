@@ -16,7 +16,6 @@
 ||api.ngamgaixinh.art^
 ||api.rtnews.pro^
 ||api.xxxbanjo.com^
-||api2.clickaine.com^
 ||app.rtnews.pro^
 ||asg.javhoho.com^
 ||asg.pienude.com^
@@ -41,10 +40,10 @@
 ||cc.relatoseroticos-gratis.com^
 ||cc.sersh.com^
 ||cc.sexgeschichten-kostenlos.com^
+||cc.sexgeschichten-xxx.com^
 ||cc2.camcaps.io^
 ||cdn1.memojav.com^
 ||cdn1.xvideohub.top^
-||cdn2.picyield.com^
 ||ck.zzipps.com^
 ||cl.sexstories-all.com^
 ||click.alexabyte.site^

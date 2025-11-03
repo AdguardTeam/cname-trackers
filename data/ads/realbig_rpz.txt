@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,15 +20,6 @@ a.yandd.site CNAME .
 ad.choicy.org CNAME .
 ads.wattpadru.ru CNAME .
 any.realbig.media CNAME .
-b1.rbighouse.ru CNAME .
-b10.rbighouse.ru CNAME .
-b11.rbighouse.ru CNAME .
-b3.rbighouse.ru CNAME .
-b4.rbighouse.ru CNAME .
-b5.rbighouse.ru CNAME .
-b6.rbighouse.ru CNAME .
-b8.rbighouse.ru CNAME .
-b9.rbighouse.ru CNAME .
 bo.zymorico.store CNAME .
 cdn.zamunda.ru CNAME .
 da.zilovaro.ru CNAME .
@@ -70,12 +61,12 @@ rbone.link CNAME .
 rbparks.sskarta.ru CNAME .
 rbthre.work CNAME .
 rdv.naruto-base.tv CNAME .
+real.delovoemesto.ru CNAME .
 real.dvanadva.ru CNAME .
 rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .
 test.truenat.bid CNAME .
 truenat.bid CNAME .
-tryonline.bid CNAME .
 tuesdaysale.bid CNAME .
 vi.zolivexo.store CNAME .
 workerhome.click CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,7 +27,6 @@ api.hugemedia.cz CNAME .
 api.ngamgaixinh.art CNAME .
 api.rtnews.pro CNAME .
 api.xxxbanjo.com CNAME .
-api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
@@ -52,10 +51,10 @@ cc.histoires-de-sexe.club CNAME .
 cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
 cc.sexgeschichten-kostenlos.com CNAME .
+cc.sexgeschichten-xxx.com CNAME .
 cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
 cdn1.xvideohub.top CNAME .
-cdn2.picyield.com CNAME .
 ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
 click.alexabyte.site CNAME .

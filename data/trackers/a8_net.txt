@@ -158,6 +158,7 @@
 ||a8.ippin-do.com^
 ||a8.jfax.com^
 ||a8.jiiawater.com^
+||a8.job.lismi.jp^
 ||a8.joygirl.jp^
 ||a8.joylab.jp^
 ||a8.jp.peacebird.com^
@@ -230,6 +231,7 @@
 ||a8.olightstore.jp^
 ||a8.onamae.com^
 ||a8.onecoinenglish.com^
+||a8.onenova.jp^
 ||a8.online-yomikakisoroban.com^
 ||a8.otoku-line.jp^
 ||a8.otonayaki.com^
@@ -660,7 +662,6 @@
 ||a8clk.skima.jp^
 ||a8clk.skynet-c.jp^
 ||a8clk.skyoffice.info^
-||a8clk.sma-ene.jp^
 ||a8clk.smart-keiri.com^
 ||a8clk.smartmethod.rarejob.com^
 ||a8clk.smile-zemi.jp^
@@ -726,6 +727,7 @@
 ||a8clk.www.green-dog.com^
 ||a8clk.www.italki.com^
 ||a8clk.www.jaf.or.jp^
+||a8clk.www.jieitaiclub.jp^
 ||a8clk.www.just-size.net^
 ||a8clk.www.ka-nabell.com^
 ||a8clk.www.khaki.jp^
@@ -820,6 +822,7 @@
 ||a8cv.bloomonline.jp^
 ||a8cv.bonaventura.shop^
 ||a8cv.borderfree-official.com^
+||a8cv.botanium.jp^
 ||a8cv.brandeuse.jp^
 ||a8cv.bresmile.jp^
 ||a8cv.bright-app.com^
@@ -1200,6 +1203,7 @@
 ||a8cv.shadoten.com^
 ||a8cv.sharing-tech.co.jp^
 ||a8cv.sharing-tech.jp^
+||a8cv.shi-rel.com^
 ||a8cv.shibarinashi-wifi.jp^
 ||a8cv.shibuya-scramble-figure.com^
 ||a8cv.shimomoto-cl.co.jp^
@@ -1212,6 +1216,7 @@
 ||a8cv.sibody.co.jp^
 ||a8cv.signalift.com^
 ||a8cv.sirusi.jp^
+||a8cv.sitecreation.co.jp^
 ||a8cv.sl-creations.store^
 ||a8cv.slp.partners-re.co.jp^
 ||a8cv.smart-shikaku.com^
@@ -1322,6 +1327,7 @@
 ||a8cv.yamatokouso.com^
 ||a8cv.ygm-clinic.or.jp^
 ||a8cv.yobybo-japan.com^
+||a8cv.yogino.jp^
 ||a8cv.yokoyamakaban.com^
 ||a8cv.yoriso.com^
 ||a8cv.you-shoku.net^
@@ -1359,7 +1365,6 @@
 ||a8net.hassyadai.com^
 ||a8net.kitamura-print.com^
 ||a8net.pg-learning.net^
-||a8net.sourcenext.com^
 ||a8netcv.crebiq.com^
 ||a8nikibi.ike-sunshine.co.jp^
 ||a8onlineshop.trendmicro.co.jp^
@@ -1475,7 +1480,6 @@
 ||cv.betrading.jp^
 ||cv.bloomeelife.com^
 ||cv.cante-gym.com^
-||cv.cart.naturath.jp^
 ||cv.classmall.jp^
 ||cv.codecamp.jp^
 ||cv.colleize.com^

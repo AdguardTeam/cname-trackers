@@ -585,6 +585,7 @@
 ||4.www.yippeewhenever.com^
 ||4.www.yumhusk.com^
 ||5.www.02952346.xyz^
+||5.www.07443488.xyz^
 ||5.www.08256602.xyz^
 ||5.www.09284291.xyz^
 ||5.www.0ul1wlo58s-vu69us-r1u.xyz^
@@ -907,6 +908,7 @@
 ||7.www.offendalligatorcoaleven.com^
 ||7.www.omomku7r4n3vo55rp5k.xyz^
 ||7.www.pileevery.com^
+||7.www.q2kw6s1l5m4v9l44s2sou18.xyz^
 ||7.www.r033o0p37qr4v914m06om.xyz^
 ||7.www.referenceirresponsible.com^
 ||7.www.righteouslyyumaugmentnext.com^
@@ -1186,8 +1188,6 @@
 ||www.33109166.xyz^
 ||www.35452888.xyz^
 ||www.37243211.xyz^
-||www.37267612.xyz^
-||www.38167473.xyz^
 ||www.41818491.xyz^
 ||www.425kmk7n9wn21pwvl18.xyz^
 ||www.42862874.xyz^
@@ -1195,7 +1195,6 @@
 ||www.45564736.xyz^
 ||www.46222568.xyz^
 ||www.47206262.xyz^
-||www.47235645.xyz^
 ||www.49709796.xyz^
 ||www.4tr3sopq592o7svp1q6mn3.xyz^
 ||www.4tuswl47353p4wl8lsk.xyz^
@@ -1223,7 +1222,6 @@
 ||www.79391192.xyz^
 ||www.79582961.xyz^
 ||www.79870085.xyz^
-||www.79893962.xyz^
 ||www.80582834.xyz^
 ||www.84055600.xyz^
 ||www.84302764.xyz^
@@ -1301,3 +1299,4 @@
 ||www.yippeewhenever.com^
 ||www.yuckbleaklyphooeywhen.com^
 ||www.yumhusk.com^
+||www.37267612.xyz^

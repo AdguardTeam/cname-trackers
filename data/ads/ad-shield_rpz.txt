@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -596,6 +596,7 @@ $TTL 300
 4.www.yippeewhenever.com CNAME .
 4.www.yumhusk.com CNAME .
 5.www.02952346.xyz CNAME .
+5.www.07443488.xyz CNAME .
 5.www.08256602.xyz CNAME .
 5.www.09284291.xyz CNAME .
 5.www.0ul1wlo58s-vu69us-r1u.xyz CNAME .
@@ -918,6 +919,7 @@ $TTL 300
 7.www.offendalligatorcoaleven.com CNAME .
 7.www.omomku7r4n3vo55rp5k.xyz CNAME .
 7.www.pileevery.com CNAME .
+7.www.q2kw6s1l5m4v9l44s2sou18.xyz CNAME .
 7.www.r033o0p37qr4v914m06om.xyz CNAME .
 7.www.referenceirresponsible.com CNAME .
 7.www.righteouslyyumaugmentnext.com CNAME .
@@ -1197,8 +1199,6 @@ www.2wu0m0ms098w7148.xyz CNAME .
 www.33109166.xyz CNAME .
 www.35452888.xyz CNAME .
 www.37243211.xyz CNAME .
-www.37267612.xyz CNAME .
-www.38167473.xyz CNAME .
 www.41818491.xyz CNAME .
 www.425kmk7n9wn21pwvl18.xyz CNAME .
 www.42862874.xyz CNAME .
@@ -1206,7 +1206,6 @@ www.4547u5qms0m2um3rrum2wuo.xyz CNAME .
 www.45564736.xyz CNAME .
 www.46222568.xyz CNAME .
 www.47206262.xyz CNAME .
-www.47235645.xyz CNAME .
 www.49709796.xyz CNAME .
 www.4tr3sopq592o7svp1q6mn3.xyz CNAME .
 www.4tuswl47353p4wl8lsk.xyz CNAME .
@@ -1234,7 +1233,6 @@ www.78587924.xyz CNAME .
 www.79391192.xyz CNAME .
 www.79582961.xyz CNAME .
 www.79870085.xyz CNAME .
-www.79893962.xyz CNAME .
 www.80582834.xyz CNAME .
 www.84055600.xyz CNAME .
 www.84302764.xyz CNAME .
@@ -1312,3 +1310,4 @@ www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 www.yippeewhenever.com CNAME .
 www.yuckbleaklyphooeywhen.com CNAME .
 www.yumhusk.com CNAME .
+www.37267612.xyz CNAME .

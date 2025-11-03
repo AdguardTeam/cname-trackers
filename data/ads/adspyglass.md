@@ -9,6 +9,7 @@
 ### Rarely active trackers
 
 * u52.aabdmn.com
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -36,6 +37,7 @@
 | 4k6.4kporn.xxx | 0i0i0i0.com |
 | 5475feaab.clicknplay.to | 0i0i0i0.com |
 | 58745.clicknplay.to | 0i0i0i0.com |
+| 5bs4y5e7.xyz | 0i0i0i0.com |
 | 5f-hj8-5d2g.dnsdf.com | 0i0i0i0.com |
 | 61serve.everydayporn.co | 0i0i0i0.com |
 | 6969.javher.com | 0i0i0i0.com |
@@ -70,7 +72,6 @@
 | a.arkox.site | 0i0i0i0.com |
 | a.atakcdn.art | 0i0i0i0.com |
 | a.atrem.site | 0i0i0i0.com |
-| a.babezunknown.com | 0i0i0i0.com |
 | a.bdsmz.tube | 0i0i0i0.com |
 | a.bedont.xyz | 0i0i0i0.com |
 | a.benue.site | 0i0i0i0.com |
@@ -104,6 +105,7 @@
 | a.diget.xyz | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.dimao.site | 0i0i0i0.com |
+| a.dipi.online | 0i0i0i0.com |
 | a.dporntube.site | 0i0i0i0.com |
 | a.dramb.site | 0i0i0i0.com |
 | a.drem.site | 0i0i0i0.com |
@@ -140,6 +142,7 @@
 | a.fynil.site | 0i0i0i0.com |
 | a.gegori.xyz | 0i0i0i0.com |
 | a.gemen.site | 0i0i0i0.com |
+| a.ghuet.xyz | 0i0i0i0.com |
 | a.gimea.site | 0i0i0i0.com |
 | a.gimes.site | 0i0i0i0.com |
 | a.gimet.site | 0i0i0i0.com |
@@ -160,6 +163,7 @@
 | a.hruch.site | 0i0i0i0.com |
 | a.htrem.site | 0i0i0i0.com |
 | a.hubhubhub.name | 0i0i0i0.com |
+| a.hugit.xyz | 0i0i0i0.com |
 | a.hupot.site | 0i0i0i0.com |
 | a.hvert.site | 0i0i0i0.com |
 | a.hynea.site | 0i0i0i0.com |
@@ -167,6 +171,7 @@
 | a.imbet.site | 0i0i0i0.com |
 | a.imeto.site | 0i0i0i0.com |
 | a.ingant.xyz | 0i0i0i0.com |
+| a.inpit.xyz | 0i0i0i0.com |
 | a.ipelo.site | 0i0i0i0.com |
 | a.iramb.site | 0i0i0i0.com |
 | a.itren.site | 0i0i0i0.com |
@@ -180,6 +185,7 @@
 | a.jramb.site | 0i0i0i0.com |
 | a.jtren.site | 0i0i0i0.com |
 | a.juggo.site | 0i0i0i0.com |
+| a.jupit.xyz | 0i0i0i0.com |
 | a.juska.site | 0i0i0i0.com |
 | a.kainpopoy.com | 0i0i0i0.com |
 | a.kambistory.ml | 0i0i0i0.com |
@@ -390,6 +396,7 @@
 | battle05032026.shop | 0i0i0i0.com |
 | baukeri.ehrydnmdoe.com | 0i0i0i0.com |
 | bc6dc48b743dc5d01.clicknplay.to | 0i0i0i0.com |
+| beta.bloblohub.com | 0i0i0i0.com |
 | bio.booseed.com | 0i0i0i0.com |
 | blow.week1time.com | 0i0i0i0.com |
 | blum.stellaplus.xyz | 0i0i0i0.com |
@@ -454,6 +461,7 @@
 | changeable1x.xyz | 0i0i0i0.com |
 | cheese08062025.shop | 0i0i0i0.com |
 | chlziaue.xyz | 0i0i0i0.com |
+| cinema.dmmcom.cc | 0i0i0i0.com |
 | client2009x25.xcdn.ovh | 0i0i0i0.com |
 | clit.lewdl.com | 0i0i0i0.com |
 | clo1p7jd.xyz | 0i0i0i0.com |
@@ -569,7 +577,6 @@
 | gsa24.giaythethaonuhcm.com | 0i0i0i0.com |
 | gui789.xyz | 0i0i0i0.com |
 | gx0.funfuckmovies.com | 0i0i0i0.com |
-| gyimie.womaametoto.xyz | 0i0i0i0.com |
 | h.bloblohub.com | 0i0i0i0.com |
 | h037n.letsporn.com | 0i0i0i0.com |
 | h4o565egjgi0v4bz.hubhubhub.name | 0i0i0i0.com |
@@ -704,7 +711,6 @@
 | mangtaoxa.xyz | 0i0i0i0.com |
 | maoeoa.xyz | 0i0i0i0.com |
 | materiaali.stailaus.fi | 0i0i0i0.com |
-| maxcdn.dmm-video.online | 0i0i0i0.com |
 | maximumdecimus.clicknplay.to | 0i0i0i0.com |
 | maxx1.a.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx1.pleasedonotblockme.com | 0i0i0i0.com |
@@ -738,7 +744,6 @@
 | nameoaj.xyz | 0i0i0i0.com |
 | nbjiwgsm.xyz | 0i0i0i0.com |
 | negligence072925.shop | 0i0i0i0.com |
-| nesta.dimawusinners.xyz | 0i0i0i0.com |
 | net.contoscn.com | 0i0i0i0.com |
 | net.contoseroticoscnn.com | 0i0i0i0.com |
 | net.sexstories69.com | 0i0i0i0.com |
@@ -1080,6 +1085,7 @@
 | www.apgate.hubhubhub.name | 0i0i0i0.com |
 | www.atlas-3ib.com | 0i0i0i0.com |
 | www.b.hubhubhub.name | 0i0i0i0.com |
+| www.bancaleafe.xyz | 0i0i0i0.com |
 | www.bigboy.monster | 0i0i0i0.com |
 | www.bloblohub.com | 0i0i0i0.com |
 | www.blyger.hubhubhub.name | 0i0i0i0.com |
@@ -1121,13 +1127,7 @@
 | www.wisej1355.com | 0i0i0i0.com |
 | www.xz8.ru | 0i0i0i0.com |
 | www.zqwe.ru | 0i0i0i0.com |
-| www4.hentai-rpg.com | 0i0i0i0.com |
-| www4.hentaigamecg.com | 0i0i0i0.com |
-| www6.freeanimesource.com | 0i0i0i0.com |
-| www6.hentai-zone.com | 0i0i0i0.com |
-| www7.erogegames.com | 0i0i0i0.com |
 | www7.erogewiki.com | 0i0i0i0.com |
-| www8.upload-pics.com | 0i0i0i0.com |
 | x.adactioner.com | 0i0i0i0.com |
 | x.crazyporn.xxx | 0i0i0i0.com |
 | x.latelust.site | 0i0i0i0.com |
@@ -1185,6 +1185,7 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | now.plsgotoasg.com | u52.aabdmn.com |
+| ontj.com | u53.hypnorat.com |
 | hotadultcontent.com | u57.muzikguide.com |
 | hotadultvids.com | u57.muzikguide.com |
 | hotxxxcontent.com | u57.muzikguide.com |

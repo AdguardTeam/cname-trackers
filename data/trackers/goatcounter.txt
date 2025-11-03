@@ -107,12 +107,12 @@
 ||stats.forest-school.am^
 ||stats.ghostiam.dev^
 ||stats.gopikrishna.dev^
+||stats.gwyer.net^
 ||stats.hadejkde.cz^
 ||stats.haseebmajid.dev^
 ||stats.hdyar.com^
 ||stats.hedy.dev^
 ||stats.how.wtf^
-||stats.ifknow.ru^
 ||stats.ignatuque.xyz^
 ||stats.isaacfreund.com^
 ||stats.jakebailey.dev^
@@ -142,6 +142,7 @@
 ||stats.opensurge2d.org^
 ||stats.otbivnoe.ru^
 ||stats.palaisdesfetes.eu^
+||stats.pamcarter.net^
 ||stats.r18.dev^
 ||stats.raycordlegends.com^
 ||stats.riccardomurachelli.it^
@@ -150,6 +151,7 @@
 ||stats.ryanchmelir.com^
 ||stats.sebastianzehner.com^
 ||stats.semipol.de^
+||stats.shurimp.com^
 ||stats.sofianlak.fr^
 ||stats.svc.lol^
 ||stats.szorty.space^

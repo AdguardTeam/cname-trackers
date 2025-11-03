@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 a1at.mno.link CNAME .
 bgtfr-test.mno.link CNAME .
 bob-a1at.mno.link CNAME .
+dtpen-test.mno.link CNAME .
 dtpen.mno.link CNAME .
 esca-test.mno.link CNAME .
 esca.mno.link CNAME .
@@ -29,6 +30,7 @@ service.utiq.com CNAME .
 sfr.mno.link CNAME .
 timit.mno.link CNAME .
 tmi.jv-telcoid.es CNAME .
+tmi.mno.link CNAME .
 tmi.vodafone.de CNAME .
 u.20minutes.fr CNAME .
 u.20mn.it CNAME .
@@ -62,6 +64,7 @@ utiq.autobild.de CNAME .
 utiq.autofrage.net CNAME .
 utiq.autojournal.fr CNAME .
 utiq.automobile-magazine.fr CNAME .
+utiq.automoto.it CNAME .
 utiq.autoplus.fr CNAME .
 utiq.az-online.de CNAME .
 utiq.berlin-live.de CNAME .
@@ -170,6 +173,7 @@ utiq.focus.de CNAME .
 utiq.foodblog.it CNAME .
 utiq.football.fr CNAME .
 utiq.football365.fr CNAME .
+utiq.formel1.de CNAME .
 utiq.fr.de CNAME .
 utiq.frandroid.com CNAME .
 utiq.fuehrerscheintest-online.de CNAME .
@@ -280,6 +284,7 @@ utiq.lyonne.fr CNAME .
 utiq.madmoizelle.com CNAME .
 utiq.maennerseite.net CNAME .
 utiq.mahou.es CNAME .
+utiq.mail.de CNAME .
 utiq.maison-travaux.fr CNAME .
 utiq.mallorcazeitung.es CNAME .
 utiq.manager-magazin.de CNAME .
@@ -307,9 +312,11 @@ utiq.modesettravaux.fr CNAME .
 utiq.moin.de CNAME .
 utiq.monacomatin.mc CNAME .
 utiq.mopo.de CNAME .
+utiq.moto.it CNAME .
 utiq.motor-talk.de CNAME .
 utiq.motorimagazine.it CNAME .
 utiq.motorradfrage.net CNAME .
+utiq.motorsport-total.com CNAME .
 utiq.movistar.es CNAME .
 utiq.mundoxiaomi.com CNAME .
 utiq.myhomebook.de CNAME .

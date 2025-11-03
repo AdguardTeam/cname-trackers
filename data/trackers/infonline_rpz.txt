@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -716,6 +716,7 @@ data-50c00d5d12.techbook.de CNAME .
 data-50d39a5d3f.diepresse.com CNAME .
 data-50de2f2b04.focus.de CNAME .
 data-50de2f2b04.netmoms.de CNAME .
+data-512cafb4f7.addradio.de CNAME .
 data-512cafb4f7.radiowaf.de CNAME .
 data-512cafb4f7.radiowafhilft.de CNAME .
 data-513a50551b.psychologie-heute.de CNAME .
@@ -785,6 +786,7 @@ data-5ab0f5b45f.noz.de CNAME .
 data-5acce9c32f.apps.iocnt.de CNAME .
 data-5ad053d069.kempten.de CNAME .
 data-5b771a2641.berliner-zeitung.de CNAME .
+data-5ba8f15a9d.apps.iocnt.de CNAME .
 data-5c0bd13fee.apps.iocnt.de CNAME .
 data-5c172edac2.prosieben.at CNAME .
 data-5c499c299f.apps.iocnt.de CNAME .
@@ -859,6 +861,7 @@ data-60d896f23d.sn-online.de CNAME .
 data-60d896f23d.solinger-tageblatt.de CNAME .
 data-60d896f23d.sportbuzzer.de CNAME .
 data-60d896f23d.sz-auktion.de CNAME .
+data-60d896f23d.sz-jobs.de CNAME .
 data-60d896f23d.sz-trauer.de CNAME .
 data-60d896f23d.szlz.de CNAME .
 data-60d896f23d.tah.de CNAME .
@@ -882,6 +885,7 @@ data-62e93c650b.entdeckertag.de CNAME .
 data-62e93c650b.hannover.de CNAME .
 data-62e93c650b.visit-hannover.com CNAME .
 data-62e93c650b.visit-niedersachsen.de CNAME .
+data-63015eaef7.apps.iocnt.de CNAME .
 data-631fe157dc.gesund.at CNAME .
 data-63224ea7ba.apps.iocnt.de CNAME .
 data-6345746ba5.nwz-glueckwunsch.de CNAME .
@@ -980,6 +984,7 @@ data-6e2d34ec1f.heimatzeitung.de CNAME .
 data-6e2d34ec1f.pnp.de CNAME .
 data-6e57cba6aa.focus.de CNAME .
 data-6e57cba6aa.netmoms.de CNAME .
+data-6e7c6d8d31.winbiap.net CNAME .
 data-6ed56dd691.bdb.at CNAME .
 data-6f211e7e41.apps.iocnt.de CNAME .
 data-6f4f333803.apps.iocnt.de CNAME .
@@ -1260,6 +1265,7 @@ data-9599593609.biotech-europe.de CNAME .
 data-9599593609.laborjournal.com CNAME .
 data-9599593609.laborjournal.de CNAME .
 data-95c8053841.pirsch.de CNAME .
+data-95fff71409.boersennews.de CNAME .
 data-960dda2233.jam.fm CNAME .
 data-960dda2233.jamfm.de CNAME .
 data-962cccd9c4.erneuerbareenergien.de CNAME .
@@ -1408,6 +1414,7 @@ data-a379a2e240.petbook.de CNAME .
 data-a38e203a07.job38.de CNAME .
 data-a38e203a07.radio38.de CNAME .
 data-a3a5ca8056.apps.iocnt.de CNAME .
+data-a3c5651c22.cicero.de CNAME .
 data-a406cb7ed1.onpulson.de CNAME .
 data-a47d9423c7.esslingen.de CNAME .
 data-a486ca6d85.hamburg-magazin.de CNAME .
@@ -1469,8 +1476,10 @@ data-aae7bdcec6.autoscout24.com.ua CNAME .
 data-aae7bdcec6.autoscout24.cz CNAME .
 data-aae7bdcec6.autoscout24.de CNAME .
 data-aae7bdcec6.autoscout24.hr CNAME .
+data-aae7bdcec6.autoscout24.hu CNAME .
 data-aae7bdcec6.autoscout24.pl CNAME .
 data-aae7bdcec6.autoscout24.ro CNAME .
+data-aae7bdcec6.autoscout24.ru CNAME .
 data-aae7bdcec6.autoscout24.se CNAME .
 data-ab14746017.autorevue.at CNAME .
 data-ab6e448dac.wetter.com CNAME .
@@ -1620,6 +1629,7 @@ data-bc153aec3e.radioguetersloh.de CNAME .
 data-bc153aec3e.radiogueterslohhilft.de CNAME .
 data-bc16fafbba.stadtbibliothek-reutlingen.de CNAME .
 data-bc52ee58ca.meinprospekt.de CNAME .
+data-bc58d40c93.nwz-auto.de CNAME .
 data-bc58d40c93.nwzonline.de CNAME .
 data-bc9dbdd971.handwerk-magazin.de CNAME .
 data-bcaa25791f.apps.iocnt.de CNAME .
@@ -1627,6 +1637,7 @@ data-bce9ac005c.apps.iocnt.de CNAME .
 data-bd2c894b2a.apps.iocnt.de CNAME .
 data-bd417eda50.bibliothek-gruenwald.de CNAME .
 data-bd87db2679.haus.de CNAME .
+data-bde21e813f.apps.iocnt.de CNAME .
 data-bdeff1b2b2.firmenauto.de CNAME .
 data-be032ee936.christkindlesmarkt.de CNAME .
 data-be032ee936.nn.de CNAME .
@@ -1643,6 +1654,7 @@ data-c05bf504b4.gesund24.at CNAME .
 data-c061012ba4.bisafans.de CNAME .
 data-c062efa4b8.arboe.at CNAME .
 data-c0856a82d9.aerzteblatt.de CNAME .
+data-c0856a82d9.schaffrath-digital.de CNAME .
 data-c08b160129.theviennareview.at CNAME .
 data-c0cce5983f.business-wissen.de CNAME .
 data-c1195dc135.landundforst.de CNAME .
@@ -1889,6 +1901,7 @@ data-e47ac57521.lokal26.de CNAME .
 data-e4997adf31.bilanz.de CNAME .
 data-e4997adf31.metal-hammer.de CNAME .
 data-e4997adf31.musikexpress.de CNAME .
+data-e4997adf31.rollingstone.de CNAME .
 data-e4997adf31.welt.de CNAME .
 data-e4cfccd10c.freundin.de CNAME .
 data-e4dc2eea88.kochbar.de CNAME .
@@ -1926,6 +1939,7 @@ data-e9439b5f81.ruhrnachrichten.de CNAME .
 data-e9439b5f81.stimberg-zeitung.de CNAME .
 data-e9439b5f81.waltroper-zeitung.de CNAME .
 data-e9489e7e40.citkomm.de CNAME .
+data-e95444b6e0.apps.iocnt.de CNAME .
 data-e957dcbbbe.tele5.de CNAME .
 data-e9983e832a.boyens-medien.de CNAME .
 data-e9b83554f9.moserholding.com CNAME .
@@ -1936,6 +1950,7 @@ data-ea7d084cda.wz.de CNAME .
 data-ea81aa1271.derstandard.de CNAME .
 data-ea9686d3c9.guter-rat.de CNAME .
 data-eb375c9b89.apps.iocnt.de CNAME .
+data-eb6d621864.apps.iocnt.de CNAME .
 data-ebb08b8040.bildderfrau.de CNAME .
 data-ebf4df4b00.antenne-thueringen.de CNAME .
 data-ebf4df4b00.antennethueringen.de CNAME .
@@ -2197,6 +2212,7 @@ data-f5d00c1ea1.tageskarte.io CNAME .
 data-f5fd977e9d.getraenke-news.de CNAME .
 data-f62d7c5cdb.bergstraesser-anzeiger.de CNAME .
 data-f62d7c5cdb.fnweb.de CNAME .
+data-f62d7c5cdb.haas-mediengruppe.de CNAME .
 data-f62d7c5cdb.immomorgen.de CNAME .
 data-f62d7c5cdb.jobmorgen.de CNAME .
 data-f62d7c5cdb.mannheimer-morgen.de CNAME .
@@ -2212,6 +2228,7 @@ data-f8fea2d99e.gbv.de CNAME .
 data-f8fea2d99e.staatsbibliothek-berlin.de CNAME .
 data-f943e74ec9.bz-berlin.de CNAME .
 data-f9b542cb96.apps.iocnt.de CNAME .
+data-f9c11ac97e.apps.iocnt.de CNAME .
 data-fa2c5597f6.cavallo.de CNAME .
 data-fa2c5597f6.elektrobike-online.com CNAME .
 data-fa2c5597f6.roadbike.de CNAME .

@@ -4,10 +4,15 @@
 
 * ad-shield.cc
 
+### Rarely active trackers
+
+* 37267612.xyz
+
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| www.37267612.xyz | 37267612.xyz |
 | 0.www.02952346.xyz | ad-shield.cc |
 | 0.www.08256602.xyz | ad-shield.cc |
 | 0.www.09284291.xyz | ad-shield.cc |
@@ -593,6 +598,7 @@
 | 4.www.yippeewhenever.com | ad-shield.cc |
 | 4.www.yumhusk.com | ad-shield.cc |
 | 5.www.02952346.xyz | ad-shield.cc |
+| 5.www.07443488.xyz | ad-shield.cc |
 | 5.www.08256602.xyz | ad-shield.cc |
 | 5.www.09284291.xyz | ad-shield.cc |
 | 5.www.0ul1wlo58s-vu69us-r1u.xyz | ad-shield.cc |
@@ -915,6 +921,7 @@
 | 7.www.offendalligatorcoaleven.com | ad-shield.cc |
 | 7.www.omomku7r4n3vo55rp5k.xyz | ad-shield.cc |
 | 7.www.pileevery.com | ad-shield.cc |
+| 7.www.q2kw6s1l5m4v9l44s2sou18.xyz | ad-shield.cc |
 | 7.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 7.www.referenceirresponsible.com | ad-shield.cc |
 | 7.www.righteouslyyumaugmentnext.com | ad-shield.cc |
@@ -1194,8 +1201,6 @@
 | www.33109166.xyz | ad-shield.cc |
 | www.35452888.xyz | ad-shield.cc |
 | www.37243211.xyz | ad-shield.cc |
-| www.37267612.xyz | ad-shield.cc |
-| www.38167473.xyz | ad-shield.cc |
 | www.41818491.xyz | ad-shield.cc |
 | www.425kmk7n9wn21pwvl18.xyz | ad-shield.cc |
 | www.42862874.xyz | ad-shield.cc |
@@ -1203,7 +1208,6 @@
 | www.45564736.xyz | ad-shield.cc |
 | www.46222568.xyz | ad-shield.cc |
 | www.47206262.xyz | ad-shield.cc |
-| www.47235645.xyz | ad-shield.cc |
 | www.49709796.xyz | ad-shield.cc |
 | www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | www.4tuswl47353p4wl8lsk.xyz | ad-shield.cc |
@@ -1231,7 +1235,6 @@
 | www.79391192.xyz | ad-shield.cc |
 | www.79582961.xyz | ad-shield.cc |
 | www.79870085.xyz | ad-shield.cc |
-| www.79893962.xyz | ad-shield.cc |
 | www.80582834.xyz | ad-shield.cc |
 | www.84055600.xyz | ad-shield.cc |
 | www.84302764.xyz | ad-shield.cc |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -118,12 +118,12 @@ stats.fieald.com CNAME .
 stats.forest-school.am CNAME .
 stats.ghostiam.dev CNAME .
 stats.gopikrishna.dev CNAME .
+stats.gwyer.net CNAME .
 stats.hadejkde.cz CNAME .
 stats.haseebmajid.dev CNAME .
 stats.hdyar.com CNAME .
 stats.hedy.dev CNAME .
 stats.how.wtf CNAME .
-stats.ifknow.ru CNAME .
 stats.ignatuque.xyz CNAME .
 stats.isaacfreund.com CNAME .
 stats.jakebailey.dev CNAME .
@@ -153,6 +153,7 @@ stats.nullzwo.dev CNAME .
 stats.opensurge2d.org CNAME .
 stats.otbivnoe.ru CNAME .
 stats.palaisdesfetes.eu CNAME .
+stats.pamcarter.net CNAME .
 stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .
 stats.riccardomurachelli.it CNAME .
@@ -161,6 +162,7 @@ stats.rocketgoboom.lol CNAME .
 stats.ryanchmelir.com CNAME .
 stats.sebastianzehner.com CNAME .
 stats.semipol.de CNAME .
+stats.shurimp.com CNAME .
 stats.sofianlak.fr CNAME .
 stats.svc.lol CNAME .
 stats.szorty.space CNAME .

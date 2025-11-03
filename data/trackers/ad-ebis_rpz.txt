@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,7 +137,6 @@ adebis.zenyaku-hbshop.com CNAME .
 adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .
 adebis0508.brain-sleep.com CNAME .
-adebis1.1rnavi.com CNAME .
 adebis2.line-property.com CNAME .
 adebis8628.matsui.co.jp CNAME .
 adebiscname.au-sonpo.co.jp CNAME .
@@ -184,6 +183,7 @@ cname.mebiusseiyaku.co.jp CNAME .
 cname.mitsuihome.co.jp CNAME .
 cname.nikkei-cnbc.co.jp CNAME .
 cname.polestar-m.jp CNAME .
+cname.restys.jp CNAME .
 cname.sognando.jp CNAME .
 cname.sokuyaku.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
@@ -215,11 +215,13 @@ digital.anicom-sompo.co.jp CNAME .
 eb.bewithyou.jp CNAME .
 eb.o-b-labo.com CNAME .
 ebis-cname.mirai-japan.co.jp CNAME .
+ebis-tracking.aoki-tsuyoshi.com CNAME .
 ebis-tracking.hirakata-skin-clinic.com CNAME .
 ebis-tracking.kawaguchi-keisei.com CNAME .
 ebis-tracking.okinawa-keisei.com CNAME .
 ebis-tracking.shinyokohama-beauty.com CNAME .
 ebis-tracking.tcb-beauty.net CNAME .
+ebis-tracking.tcb-esaka.com CNAME .
 ebis-tracking.tcb-fukuoka.com CNAME .
 ebis-tracking.tcb-fukushima.com CNAME .
 ebis-tracking.tcb-ginza.com CNAME .
@@ -227,8 +229,11 @@ ebis-tracking.tcb-koriyama.com CNAME .
 ebis-tracking.tcb-mito.com CNAME .
 ebis-tracking.tcb-nakano.com CNAME .
 ebis-tracking.tcb-recruit.com CNAME .
+ebis-tracking.tcb-sakai.com CNAME .
 ebis-tracking.tcb-setagaya.com CNAME .
 ebis-tracking.tcb-shibuya.com CNAME .
+ebis-tracking.tcb-shinjuku.com CNAME .
+ebis-tracking.tcb-yokohama.com CNAME .
 ebis.15jikai.com CNAME .
 ebis.2jikaikun.com CNAME .
 ebis.3838.com CNAME .
@@ -240,7 +245,6 @@ ebis.bbo.co.jp CNAME .
 ebis.belta.co.jp CNAME .
 ebis.biyo-job.com CNAME .
 ebis.bulk.co.jp CNAME .
-ebis.care-tensyoku.com CNAME .
 ebis.ccjusers.com CNAME .
 ebis.ce-parfait.com CNAME .
 ebis.coyori.com CNAME .
@@ -337,8 +341,6 @@ mcad.mods-clinic.com CNAME .
 mcad.mods-clinic.info CNAME .
 mcad.modsclinic-osaka.com CNAME .
 mdm.hibinobi-mandom.jp CNAME .
-media.geinoschool-hikaku.com CNAME .
-media.geinoschool-hikaku.net CNAME .
 mgn.ebis.xn--olsz5f0ufw02b.net CNAME .
 ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .

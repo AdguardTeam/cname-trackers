@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1761552009985        ; Serial
+           1762156808687        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -92,7 +92,6 @@ l.eclypsia.com CNAME .
 l.elleadore.com CNAME .
 l.en-vols.com CNAME .
 l.enfant.com CNAME .
-l.enfemenino.com CNAME .
 l.entrenous.fr CNAME .
 l.equidia.fr CNAME .
 l.espinof.com CNAME .
@@ -153,6 +152,7 @@ l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
 l.larenaissancehebdo.fr CNAME .
 l.larepubliquedespyrenees.fr CNAME .
+l.lasanteauquotidien.com CNAME .
 l.latribune.fr CNAME .
 l.lavoixdunord.fr CNAME .
 l.le10sport.com CNAME .
@@ -178,6 +178,7 @@ l.lexpress.fr CNAME .
 l.lhebdoduvendredi.com CNAME .
 l.liberation-champagne.fr CNAME .
 l.lindependant.fr CNAME .
+l.linfoauquotidien.com CNAME .
 l.lunion.fr CNAME .
 l.madmoizelle.com CNAME .
 l.maison-travaux.fr CNAME .
@@ -217,6 +218,7 @@ l.paris-normandie.fr CNAME .
 l.paris-turf.com CNAME .
 l.paroledemamans.com CNAME .
 l.peaches.fr CNAME .
+l.peopleauquotidien.com CNAME .
 l.petitbleu.fr CNAME .
 l.plaisirauquotidien.com CNAME .
 l.planet.fr CNAME .
@@ -260,6 +262,7 @@ l.trendencias.com CNAME .
 l.tudogostoso.com.br CNAME .
 l.uppercutmma.com CNAME .
 l.varmatin.com CNAME .
+l.vert.eco CNAME .
 l.viepratique.fr CNAME .
 l.voici.fr CNAME .
 l.vosgesmatin.fr CNAME .

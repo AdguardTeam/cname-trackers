@@ -40,6 +40,7 @@
 ||afm.startradermy.com^
 ||afm.startraders55.com^
 ||afm.startraders56.com^
+||afm.startraders58.com^
 ||afm.startradervn.net^
 ||afm.sthub.cc^
 ||afm.strmarketing.net^
@@ -61,6 +62,7 @@
 ||afm.vantagetradings.com^
 ||afm.vnvtglobal.com^
 ||afm.vnvtmarkets.com^
+||afm.vtdigitalad.com^
 ||afm.vtg-mkt-apac.com^
 ||afm.vtg-mkt.com^
 ||afm.vtg-mkts.com^
@@ -79,6 +81,7 @@
 ||afm.vtmarketsjp.com^
 ||afm.vtmarketsnet.com^
 ||afm.vtmarketsuk.com^
+||afm.vtmarketsvn.com^
 ||afm.vtmarketsweb.com^
 ||afm.vtmgcn.com^
 ||afm.vtmindo.com^
@@ -111,6 +114,7 @@
 ||apps.shift.com.au^
 ||appschk.scotiabank.com^
 ||appscore.credilike.me^
+||argospay-tmx-content.argos.co.uk^
 ||asanalytics.booking.com^
 ||assessment.nj.betmgm.com^
 ||assets.harlandclarke.com^
@@ -352,6 +356,7 @@
 ||content.incredit.pl^
 ||content.interaconline.com^
 ||content.ip4y.com.br^
+||content.jackpotcity.ca^
 ||content.jackpotcitycasino.ca^
 ||content.knetbooks.com^
 ||content.koalafi.com^
@@ -704,6 +709,7 @@
 ||info.betway.ng^
 ||info.betwaypartnersafrica.com^
 ||info.jackpotcity.co.za^
+||info.jackpotcitycasino.mw^
 ||insights.hastingsdirectloans.com^
 ||intl.payu.in^
 ||intlsdpntrca.nitrocasino.ca^
@@ -890,6 +896,7 @@
 ||prod-tvfcuwy.chaperone.lumindigitalhosting.com^
 ||prod-uecupa.chaperone.lumindigitalhosting.com^
 ||prod-uiccuil.chaperone.lumindigitalhosting.com^
+||prod-umassfive-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-university.chaperone.lumindigitalhosting.com^
 ||prod-usalliance.chaperone.lumindigitalhosting.com^
 ||prod-useagle.chaperone.lumindigitalhosting.com^
@@ -903,6 +910,7 @@
 ||profiling.cmo.cibc.com^
 ||profiling.digitalbusiness.cibc.com^
 ||profiling.qacitizensbankonline.com^
+||protection.bt.com^
 ||provider-services.openbank.mx^
 ||ptm.creditas.com^
 ||public-check3-at.test.tiaa-cref.org^
@@ -957,6 +965,7 @@
 ||rm-3d84e791.payby.com^
 ||rmscheck.sbifxt.co.jp^
 ||rqt-cdna.paymentncb.cofidis.fr^
+||rqt-cl-cdna.ecommerce.cofidis.it^
 ||rsx.afterpay.com^
 ||rt.wisecartapp.com^
 ||rttm.uniondigitalbank.co^
@@ -1206,6 +1215,7 @@
 ||tmcdn.betway.es^
 ||tmcdn.betway.mx^
 ||tmcdn.betwayarabia.com^
+||tmcdn.betwayarabia1.com^
 ||tmcdn.europalace.com^
 ||tmcdn.gamingclub.com^
 ||tmcdn.grizzlysquest.com^
