@@ -261,6 +261,7 @@
 ||www.adimages.infotorg.se^
 ||www.ads.environmentalleader.com^
 ||www.ads.proxibid.com^
+||www.adserver.fa-mag.com^
 ||www.adserver.sniffies.com^
 ||www.adserver.sonicplug.com^
 ||www.adwin.geenstijl.nl^

@@ -129,9 +129,11 @@
 | l.echoancenis.fr | tls.non.li |
 | l.echoduberry.fr | tls.non.li |
 | l.eclypsia.com | tls.non.li |
+| l.elle.fr | tls.non.li |
 | l.elleadore.com | tls.non.li |
 | l.en-vols.com | tls.non.li |
 | l.enfant.com | tls.non.li |
+| l.enfemenino.com | tls.non.li |
 | l.entrenous.fr | tls.non.li |
 | l.equidia.fr | tls.non.li |
 | l.espinof.com | tls.non.li |
@@ -141,6 +143,7 @@
 | l.filmstarts.de | tls.non.li |
 | l.fip.fr | tls.non.li |
 | l.foot-national.com | tls.non.li |
+| l.foot01.com | tls.non.li |
 | l.football.fr | tls.non.li |
 | l.football365.fr | tls.non.li |
 | l.franceantilles.fr | tls.non.li |
@@ -181,6 +184,7 @@
 | l.la-croix.com | tls.non.li |
 | l.lacremedugaming.fr | tls.non.li |
 | l.ladepeche.fr | tls.non.li |
+| l.ladepechedubassin.fr | tls.non.li |
 | l.lalettre.fr | tls.non.li |
 | l.lamanchelibre.fr | tls.non.li |
 | l.lamontagne.fr | tls.non.li |
@@ -215,6 +219,7 @@
 | l.lunion.fr | tls.non.li |
 | l.madmoizelle.com | tls.non.li |
 | l.maison-travaux.fr | tls.non.li |
+| l.marianne.net | tls.non.li |
 | l.mariefrance.fr | tls.non.li |
 | l.marmiton.org | tls.non.li |
 | l.marsactu.fr | tls.non.li |
@@ -267,6 +272,7 @@
 | l.rmcsport.fr | tls.non.li |
 | l.roole.fr | tls.non.li |
 | l.rtl.fr | tls.non.li |
+| l.rugbyrama.fr | tls.non.li |
 | l.science-et-vie.com | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
 | l.sensacine.com | tls.non.li |

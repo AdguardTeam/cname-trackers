@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -272,6 +272,7 @@ www.adconsole.proxibid.com CNAME .
 www.adimages.infotorg.se CNAME .
 www.ads.environmentalleader.com CNAME .
 www.ads.proxibid.com CNAME .
+www.adserver.fa-mag.com CNAME .
 www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.adwin.geenstijl.nl CNAME .

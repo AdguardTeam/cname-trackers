@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -89,9 +89,11 @@ l.easyvoyage.com CNAME .
 l.echoancenis.fr CNAME .
 l.echoduberry.fr CNAME .
 l.eclypsia.com CNAME .
+l.elle.fr CNAME .
 l.elleadore.com CNAME .
 l.en-vols.com CNAME .
 l.enfant.com CNAME .
+l.enfemenino.com CNAME .
 l.entrenous.fr CNAME .
 l.equidia.fr CNAME .
 l.espinof.com CNAME .
@@ -102,6 +104,7 @@ l.femmeactuelle.fr CNAME .
 l.filmstarts.de CNAME .
 l.fip.fr CNAME .
 l.foot-national.com CNAME .
+l.foot01.com CNAME .
 l.football.fr CNAME .
 l.football365.fr CNAME .
 l.franceantilles.fr CNAME .
@@ -143,6 +146,7 @@ l.koolmag.fr CNAME .
 l.la-croix.com CNAME .
 l.lacremedugaming.fr CNAME .
 l.ladepeche.fr CNAME .
+l.ladepechedubassin.fr CNAME .
 l.lalettre.fr CNAME .
 l.lalsace.fr CNAME .
 l.lamanchelibre.fr CNAME .
@@ -182,6 +186,7 @@ l.linfoauquotidien.com CNAME .
 l.lunion.fr CNAME .
 l.madmoizelle.com CNAME .
 l.maison-travaux.fr CNAME .
+l.marianne.net CNAME .
 l.mariefrance.fr CNAME .
 l.marmiton.org CNAME .
 l.marsactu.fr CNAME .
@@ -239,6 +244,7 @@ l.rmc.fr CNAME .
 l.rmcsport.fr CNAME .
 l.roole.fr CNAME .
 l.rtl.fr CNAME .
+l.rugbyrama.fr CNAME .
 l.science-et-vie.com CNAME .
 l.sciencesetavenir.fr CNAME .
 l.sensacine.com CNAME .

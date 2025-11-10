@@ -20,7 +20,6 @@
     * astuto.goatcounter.com
     * benjaminmorris.goatcounter.com
     * beyondthesprawl.goatcounter.com
-    * bilderbrief.goatcounter.com
     * bkvn.goatcounter.com
     * blog-lewsion.goatcounter.com
     * blooper.goatcounter.com
@@ -197,7 +196,6 @@
 | analytics.astuto.io | astuto.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
 | stats.beyondthesprawl.com | beyondthesprawl.goatcounter.com |
-| stats.bilderbrief.de | bilderbrief.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
 | stats-blog.lewsion.com | blog-lewsion.goatcounter.com |
 | stats.hdyar.com | blooper.goatcounter.com |

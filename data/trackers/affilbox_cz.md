@@ -293,11 +293,6 @@
 | affiliate.zhubnichytre.cz | cz.affilbox.cz |
 | affiliateold.firma20.cz | cz.affilbox.cz |
 | affiliates.adinternet.cz | cz.affilbox.cz |
-| affilo.crosta.cz | cz.affilbox.cz |
-| affilo.crosta.sk | cz.affilbox.cz |
-| affilo.janie.cz | cz.affilbox.cz |
-| affilo.lingerio.cz | cz.affilbox.cz |
-| affilo.vivaboty.cz | cz.affilbox.cz |
 | affilpartner.descanti.com | cz.affilbox.cz |
 | affilpartneri.affilbusiness.cz | cz.affilbox.cz |
 | afill.e-potisk.cz | cz.affilbox.cz |
@@ -419,10 +414,12 @@
 | my.weplayhandball.ch | cz.affilbox.cz |
 | my.weplayhandball.cz | cz.affilbox.cz |
 | my.weplayhandball.de | cz.affilbox.cz |
+| my.weplayhandball.es | cz.affilbox.cz |
 | my.weplayhandball.eu | cz.affilbox.cz |
 | my.weplayhandball.fr | cz.affilbox.cz |
 | my.weplayhandball.gr | cz.affilbox.cz |
 | my.weplayhandball.hu | cz.affilbox.cz |
+| my.weplayhandball.it | cz.affilbox.cz |
 | my.weplayhandball.nl | cz.affilbox.cz |
 | my.weplayhandball.ro | cz.affilbox.cz |
 | my.weplayhandball.si | cz.affilbox.cz |
@@ -431,8 +428,11 @@
 | my.weplayvolleyball.ch | cz.affilbox.cz |
 | my.weplayvolleyball.cz | cz.affilbox.cz |
 | my.weplayvolleyball.de | cz.affilbox.cz |
+| my.weplayvolleyball.es | cz.affilbox.cz |
 | my.weplayvolleyball.fr | cz.affilbox.cz |
 | my.weplayvolleyball.gr | cz.affilbox.cz |
+| my.weplayvolleyball.hu | cz.affilbox.cz |
+| my.weplayvolleyball.it | cz.affilbox.cz |
 | my.weplayvolleyball.lt | cz.affilbox.cz |
 | my.weplayvolleyball.ro | cz.affilbox.cz |
 | my.weplayvolleyball.si | cz.affilbox.cz |
@@ -618,7 +618,6 @@
 | partner.lascero.cz | cz.affilbox.cz |
 | partner.lascivni.cz | cz.affilbox.cz |
 | partner.lauben.com | cz.affilbox.cz |
-| partner.leadingtechnologies.cz | cz.affilbox.cz |
 | partner.legalni-konopi.cz | cz.affilbox.cz |
 | partner.lehatkapropsy.cz | cz.affilbox.cz |
 | partner.lekarna.cz | cz.affilbox.cz |
@@ -997,6 +996,5 @@
 | udrzitelny-nakup.tierraverde.cz | cz.affilbox.cz |
 | vydelavejtesnami.pg.cz | cz.affilbox.cz |
 | www.affilbox.mironet.cz | cz.affilbox.cz |
-| www.affilo.cz | cz.affilbox.cz |
 | www.partner.hubatacernoska.cz | cz.affilbox.cz |
 | www.partneri.zuzanaondrisova.sk | cz.affilbox.cz |

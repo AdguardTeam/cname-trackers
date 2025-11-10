@@ -15,16 +15,18 @@
     * effectory.piwik.pro
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
+    * fjordtravel.piwik.pro
     * helen.piwik.pro
-    * hogeschool.piwik.pro
     * ind.piwik.pro
     * jetu.piwik.pro
+    * koop.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
     * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * polpharma.piwik.pro
+    * pp-koop-p-euw.piwik.pro
     * pp-public-p-aea.piwik.pro
     * pp-public-p-euw.piwik.pro
     * pp-public-p-gwc.piwik.pro
@@ -55,7 +57,6 @@
 | ---- | ---- |
 | analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
-| dnsbl.test.tag.aumago.com | aumago.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
 | piwik.slotsparadise.com | betus.piwik.pro |
@@ -68,12 +69,12 @@
 | analytics.effectory.com | effectory.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
+| fpt.fjordtravel.no | fjordtravel.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
-| analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
-| wa.love2play.com | jetu.piwik.pro |
 | wa.mybookie.ag | jetu.piwik.pro |
 | wa.xbet.ag | jetu.piwik.pro |
+| tagmanager.becop.nl | koop.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
@@ -81,6 +82,7 @@
 | statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | polpharmaanalytics.pl | polpharma.piwik.pro |
+| tagmanager.becop.nl | pp-koop-p-euw.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
 | analytics.wavelz.com | pp-public-p-aea.piwik.pro |
@@ -90,10 +92,10 @@
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.hr.nl | pp-public-p-euw.piwik.pro |
-| analytics.hr.nl | pp-public-p-euw.piwik.pro |
 | analytics.webanalytics.op.europa.eu | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
+| fpt.fjordtravel.no | pp-public-p-euw.piwik.pro |
 | fpt.fjordtravel.no | pp-public-p-euw.piwik.pro |
 | fpt.gofjords.com | pp-public-p-euw.piwik.pro |
 | inzicht.cz.nl | pp-public-p-euw.piwik.pro |
@@ -132,7 +134,6 @@
 | logfiles.storck.com | pp-public-p-gwc.piwik.pro |
 | p.zwilling.com | pp-public-p-gwc.piwik.pro |
 | piwik.com-online.com | pp-public-p-gwc.piwik.pro |
-| ptm.wuerth.de | pp-public-p-gwc.piwik.pro |
 | ptm.wuerth.de | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
@@ -174,5 +175,4 @@
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |
 | analytics.witglobal.net | witglobal.piwik.pro |
-| ptm.wuerth.de | witglobal.piwik.pro |
 | p.zwilling.com | zwilling.piwik.pro |

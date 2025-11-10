@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,9 +27,10 @@ blackberry.suvinil.com.br CNAME .
 collect.aeonbank.co.jp CNAME .
 collect.asics.com CNAME .
 collect.calvinklein.at CNAME .
-collect.calvinklein.be CNAME .
+collect.calvinklein.bg CNAME .
+collect.calvinklein.ch CNAME .
 collect.calvinklein.co.uk CNAME .
-collect.calvinklein.cz CNAME .
+collect.calvinklein.com CNAME .
 collect.calvinklein.de CNAME .
 collect.calvinklein.dk CNAME .
 collect.calvinklein.ee CNAME .
@@ -37,22 +38,15 @@ collect.calvinklein.es CNAME .
 collect.calvinklein.fi CNAME .
 collect.calvinklein.fr CNAME .
 collect.calvinklein.hr CNAME .
-collect.calvinklein.ie CNAME .
 collect.calvinklein.it CNAME .
-collect.calvinklein.lt CNAME .
-collect.calvinklein.lv CNAME .
-collect.calvinklein.pl CNAME .
-collect.fancl.co.jp CNAME .
+collect.calvinklein.nl CNAME .
+collect.calvinklein.se CNAME .
 collect.kinto-jp.com CNAME .
 collect.mtgec.jp CNAME .
 collect.oportun.com CNAME .
-collect.peek-cloppenburg.de CNAME .
-collect.peek-cloppenburg.nl CNAME .
-collect.sixpad.jp CNAME .
+collect.peek-cloppenburg.at CNAME .
 collect.tommy.com CNAME .
 connect.afterpay.com CNAME .
-databridge.mtgec.jp CNAME .
-databridge.sixpad.jp CNAME .
 dcjm-tms.gestalterbank.de CNAME .
 dcjm-tms.hannoversche-volksbank.de CNAME .
 dcjm-tms.vb-mittelhessen.de CNAME .
@@ -255,8 +249,6 @@ tags.pararius.com CNAME .
 tags.pararius.nl CNAME .
 tags.partenamut.be CNAME .
 tags.pashtovoa.com CNAME .
-tags.peek-cloppenburg.nl CNAME .
-tags.peek-cloppenburg.pl CNAME .
 tags.pepperl-fuchs.com CNAME .
 tags.pocruises.com.au CNAME .
 tags.polygraph.info CNAME .
@@ -295,7 +287,6 @@ tags.severreal.org CNAME .
 tags.shaw.ca CNAME .
 tags.shop.com CNAME .
 tags.sibreal.org CNAME .
-tags.sixpad.jp CNAME .
 tags.slobodnaevropa.mk CNAME .
 tags.slobodnaevropa.org CNAME .
 tags.streampicker.de CNAME .
@@ -371,6 +362,7 @@ tccd.douglas.bg CNAME .
 tccd.douglas.ch CNAME .
 tccd.douglas.cz CNAME .
 tccd.douglas.de CNAME .
+tccd.douglas.ee CNAME .
 tccd.douglas.es CNAME .
 tccd.douglas.hr CNAME .
 tccd.douglas.hu CNAME .
@@ -379,8 +371,8 @@ tccd.douglas.lt CNAME .
 tccd.douglas.lv CNAME .
 tccd.douglas.nl CNAME .
 tccd.douglas.pl CNAME .
+tccd.douglas.pt CNAME .
 tccd.douglas.ro CNAME .
-tccd.douglas.si CNAME .
 tccd.douglas.sk CNAME .
 tccd.niche-beauty.com CNAME .
 tccd.nocibe.fr CNAME .
@@ -423,13 +415,13 @@ tiq.monash.edu CNAME .
 tiq.monash.edu.au CNAME .
 tiq.sunlife.com CNAME .
 tms-collect.sony.jp CNAME .
+tms-tags.sony.jp CNAME .
 tms-visitor-service.sony.jp CNAME .
 tms.ace.aaa.com CNAME .
 tms.data.hsbc.com CNAME .
 tms.oracle.com CNAME .
 tms.tescomobile.com CNAME .
 tptd.douglas.lt CNAME .
-tptd.nocibe.fr CNAME .
 ts.congstar.de CNAME .
 ttm.goertz.de CNAME .
 tttd.douglas.at CNAME .
@@ -469,10 +461,7 @@ tttd.parfumdreams.nl CNAME .
 tttd.parfumdreams.pl CNAME .
 tttd.parfumdreams.pt CNAME .
 tttd.parfumdreams.se CNAME .
-tvtd.douglas.hr CNAME .
 view.oportun.com CNAME .
-view.peek-cloppenburg.at CNAME .
-view.peek-cloppenburg.de CNAME .
 visitor-service.aeonbank.co.jp CNAME .
 visitor-service.ansons.de CNAME .
 visitor-service.fancl.co.jp CNAME .
@@ -496,25 +485,36 @@ webtags.logitechg.com CNAME .
 www.tags.kmart.com.au CNAME .
 www.tiq.monash.edu CNAME .
 collect.ansons.de CNAME .
-collect.calvinklein.bg CNAME .
-collect.calvinklein.ch CNAME .
-collect.calvinklein.com CNAME .
+collect.calvinklein.be CNAME .
+collect.calvinklein.cz CNAME .
 collect.calvinklein.hu CNAME .
+collect.calvinklein.ie CNAME .
+collect.calvinklein.lt CNAME .
 collect.calvinklein.lu CNAME .
-collect.calvinklein.nl CNAME .
+collect.calvinklein.lv CNAME .
+collect.calvinklein.pl CNAME .
 collect.calvinklein.pt CNAME .
-collect.calvinklein.se CNAME .
 collect.calvinklein.si CNAME .
 collect.calvinklein.sk CNAME .
-collect.peek-cloppenburg.at CNAME .
+collect.peek-cloppenburg.de CNAME .
+collect.peek-cloppenburg.nl CNAME .
 pixel.peek-cloppenburg.nl CNAME .
 tccd.disapo.de CNAME .
-tccd.douglas.ee CNAME .
-tccd.douglas.pt CNAME .
+tccd.douglas.si CNAME .
+collect.fancl.co.jp CNAME .
+collect.sixpad.jp CNAME .
+databridge.mtgec.jp CNAME .
+databridge.sixpad.jp CNAME .
 tms-view.sony.jp CNAME .
 tag.bi.serviceplan.com CNAME .
-tms-tags.sony.jp CNAME .
+tags.peek-cloppenburg.nl CNAME .
+tags.peek-cloppenburg.pl CNAME .
+tags.sixpad.jp CNAME .
 tptd.douglas.es CNAME .
 tptd.douglas.sk CNAME .
+tptd.nocibe.fr CNAME .
+tvtd.douglas.hr CNAME .
 view.ansons.de CNAME .
+view.peek-cloppenburg.at CNAME .
+view.peek-cloppenburg.de CNAME .
 view.stylebob.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,7 +16,6 @@ data.decathlon.co.uk CNAME .
 data.decathlon.es CNAME .
 data.decathlon.fr CNAME .
 data.decathlon.pl CNAME .
-data.e-immobilier.credit-agricole.fr CNAME .
 data.ubi.com CNAME .
 data.wptag.net CNAME .
 logger.yp.ca CNAME .
@@ -30,8 +29,9 @@ tagcommander.laredoute.ru CNAME .
 tc.europcar.be CNAME .
 tc.europcar.com.au CNAME .
 tc.europcar.de CNAME .
+data.decathlon.it CNAME .
+data.e-immobilier.credit-agricole.fr CNAME .
+tc.europcar.com CNAME .
 tc.europcar.es CNAME .
 tc.europcar.pt CNAME .
 tcdata.fnac.com CNAME .
-data.decathlon.it CNAME .
-tc.europcar.com CNAME .

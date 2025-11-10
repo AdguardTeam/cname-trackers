@@ -78,9 +78,11 @@
 ||l.echoancenis.fr^
 ||l.echoduberry.fr^
 ||l.eclypsia.com^
+||l.elle.fr^
 ||l.elleadore.com^
 ||l.en-vols.com^
 ||l.enfant.com^
+||l.enfemenino.com^
 ||l.entrenous.fr^
 ||l.equidia.fr^
 ||l.espinof.com^
@@ -91,6 +93,7 @@
 ||l.filmstarts.de^
 ||l.fip.fr^
 ||l.foot-national.com^
+||l.foot01.com^
 ||l.football.fr^
 ||l.football365.fr^
 ||l.franceantilles.fr^
@@ -132,6 +135,7 @@
 ||l.la-croix.com^
 ||l.lacremedugaming.fr^
 ||l.ladepeche.fr^
+||l.ladepechedubassin.fr^
 ||l.lalettre.fr^
 ||l.lalsace.fr^
 ||l.lamanchelibre.fr^
@@ -171,6 +175,7 @@
 ||l.lunion.fr^
 ||l.madmoizelle.com^
 ||l.maison-travaux.fr^
+||l.marianne.net^
 ||l.mariefrance.fr^
 ||l.marmiton.org^
 ||l.marsactu.fr^
@@ -228,6 +233,7 @@
 ||l.rmcsport.fr^
 ||l.roole.fr^
 ||l.rtl.fr^
+||l.rugbyrama.fr^
 ||l.science-et-vie.com^
 ||l.sciencesetavenir.fr^
 ||l.sensacine.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,6 +30,7 @@ $TTL 300
 450a.feet9.com CNAME .
 478789.everydayporn.co CNAME .
 4cz7ypl3.xyz CNAME .
+4k.fanza18r.online CNAME .
 4k6.4kporn.xxx CNAME .
 5475feaab.clicknplay.to CNAME .
 58745.clicknplay.to CNAME .
@@ -406,7 +407,6 @@ bn.asgadmp.cc CNAME .
 bn.asgadsts.cc CNAME .
 bn.asgadxsp.cc CNAME .
 bnrs.shemrec.cc CNAME .
-bombozzz.xyz CNAME .
 boob.sukaporn.com CNAME .
 bort.busty-wife.com CNAME .
 bot.qa.pleasedonotblockme.com CNAME .
@@ -519,7 +519,6 @@ dzqtn.lesbianbliss.com CNAME .
 e.bloblohub.com CNAME .
 e.seksohub.com CNAME .
 e.sexbule.xxx CNAME .
-e.sexygirlscontact.com CNAME .
 earnvids05032026.shop CNAME .
 ebd.cda-hd.cc CNAME .
 ebd.cda-hd.co CNAME .
@@ -549,6 +548,7 @@ f.bloblohub.com CNAME .
 f5w.prettytube.net CNAME .
 fanza.yoshiclub.xyz CNAME .
 faspc.hubhubhub.name CNAME .
+fdf.awefweegfxwergexw.icu CNAME .
 fgn.preders.site CNAME .
 file.iporngay.com CNAME .
 floatjav09212026.shop CNAME .
@@ -576,6 +576,7 @@ gruesome1x.xyz CNAME .
 gsa24.giaythethaonuhcm.com CNAME .
 gui789.xyz CNAME .
 gx0.funfuckmovies.com CNAME .
+gyimie.womaametoto.xyz CNAME .
 h.bloblohub.com CNAME .
 h037n.letsporn.com CNAME .
 h4o565egjgi0v4bz.hubhubhub.name CNAME .
@@ -587,6 +588,7 @@ heyyounow.my CNAME .
 hgcustom-ad.xyz CNAME .
 highway.18manwa.com CNAME .
 hmpryf89.xyz CNAME .
+home.throne.ink CNAME .
 honest05032026.shop CNAME .
 hot.justpornflix.com CNAME .
 hqqvjdttre.club CNAME .
@@ -600,7 +602,6 @@ i.bloblohub.com CNAME .
 i.cdnboosler.cloud CNAME .
 i.love4porn.com CNAME .
 i.mayoblast.com CNAME .
-i.wideblacks.com CNAME .
 i10.mayoblast.com CNAME .
 i11.mayoblast.com CNAME .
 i1901zxd.xyz CNAME .
@@ -630,6 +631,7 @@ ip176-194.bloblohub.com CNAME .
 irj2vs6p.xyz CNAME .
 ironyjav09212026.shop CNAME .
 islamonline24.hubhubhub.name CNAME .
+itgb.kiuyrsebgrjythyt.today CNAME .
 ithaca.hubhubhub.name CNAME .
 ix2.deepsexvids.com CNAME .
 izjzyykiyn.club CNAME .
@@ -680,10 +682,8 @@ languroa.xyz CNAME .
 larasub.conxxx.pro CNAME .
 layout08062025.shop CNAME .
 ldvuz.org CNAME .
-lentaopz.xyz CNAME .
 level.18huhu.com CNAME .
 lewd.ws CNAME .
-lianzl.xyz CNAME .
 linakso.xyz CNAME .
 live.meghentai.live CNAME .
 live.xcamshd.live CNAME .
@@ -706,10 +706,8 @@ m8ix4fqk.xyz CNAME .
 makumva.all-usanomination.com CNAME .
 mamamia.vintageporno.stream CNAME .
 mamruoa.club CNAME .
-mangbaiz.xyz CNAME .
 mangrao.club CNAME .
 mangraox.my CNAME .
-mangtaoxa.xyz CNAME .
 maoeoa.xyz CNAME .
 materiaali.stailaus.fi CNAME .
 maximumdecimus.clicknplay.to CNAME .
@@ -718,11 +716,8 @@ maxx1.pleasedonotblockme.com CNAME .
 maxx2.a.pleasedonotblockme.com CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
-mengaoz.xyz CNAME .
 mengozia.xyz CNAME .
-meorzoi.xyz CNAME .
 mestierediscrivere.hubhubhub.name CNAME .
-metroiz.xyz CNAME .
 mficlyxgvfsp.cdnvideo3.com CNAME .
 mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
 mgtb.ifuckedyourgf.com CNAME .
@@ -733,7 +728,6 @@ mnfk059nmyfhq8js.analytics.bloblohub.com CNAME .
 mntft.com CNAME .
 modeljav09212026.shop CNAME .
 moster.granny-xxx-video.com CNAME .
-mrpazk.xyz CNAME .
 mt1vw5ie.xyz CNAME .
 mx6.3pornhere.com CNAME .
 my.007moms.com CNAME .
@@ -821,7 +815,6 @@ pempia.sbs CNAME .
 pianwela.xyz CNAME .
 pickard.hubhubhub.name CNAME .
 pihu.xxxpornhd.pro CNAME .
-piotyo.xyz CNAME .
 pip.jhbsdds.com CNAME .
 play.rooski.net CNAME .
 pnpjceawvmeu.cdnvideo3.com CNAME .
@@ -875,7 +868,6 @@ qmogjaezcv.club CNAME .
 qoqv.com CNAME .
 qovua60gue.tubewolf.com CNAME .
 qpwvok0l.xyz CNAME .
-qsdr.mysunnylawn.com CNAME .
 quaocns.xyz CNAME .
 question.hot-step-mom.com CNAME .
 quote.bloblohub.com CNAME .
@@ -992,6 +984,7 @@ storage.lulu-row1.com CNAME .
 stream.youxxjav.xyz CNAME .
 streamhg05032026.shop CNAME .
 stuff.wikiporno.org CNAME .
+sub1.adultredirection.site CNAME .
 sub1.bestofall.info CNAME .
 sub1.gebeall.info CNAME .
 subcom.uiiumovie.com CNAME .
@@ -1159,11 +1152,9 @@ y.crazyporn.xxx CNAME .
 y.sphinxtube.com CNAME .
 y6zqw.boyspornpics.com CNAME .
 yd2oq9bo.xyz CNAME .
-youaixx.xyz CNAME .
 yqohoxwuyu.club CNAME .
 ytlsppuzpf.club CNAME .
 yudvl.org CNAME .
-yummycdn.com CNAME .
 yut4is9b.xyz CNAME .
 yyi.altyazilimxx1.shop CNAME .
 yzwtg89j.xyz CNAME .
@@ -1173,7 +1164,6 @@ z.zedtrekh.online CNAME .
 z0000g.yorkvillemarketing.net CNAME .
 z0000g.yvmads.com CNAME .
 zakld.com CNAME .
-zaokko.com CNAME .
 zmrzlin.amateurswild.com CNAME .
 zrakos.com CNAME .
 ztg7hqds.xyz CNAME .

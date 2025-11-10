@@ -224,7 +224,6 @@ plausible.yalepaprika.com
 plausible.zest.dev
 plausible.zorin.com
 pls.ambue.com
-pls.fcrpg.net
 pls.skycastle.dev
 plsbl-staging.edison.se
 plsbl.edison.se
@@ -725,7 +724,6 @@ stats.sprune.com
 stats.sqlteam.com
 stats.stack11.io
 stats.stackingthebricks.com
-stats.stacks.org
 stats.staging.hex.pm
 stats.staging.hexdocs.pm
 stats.starfish.team
@@ -803,6 +801,7 @@ stats.xactcode.com
 stats.xn--antnio-dxa.pt
 stats.xrechnung.app
 stats.zimri.net
+statstest.upti.pro
 statystyki.ekspertyzy-szkolenia.pl
 sts.authramp.com
 sts.eliasjarzombek.com

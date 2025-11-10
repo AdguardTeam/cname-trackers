@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,6 +73,7 @@ data.babista.nl CNAME .
 data.campaign.prenatal.com CNAME .
 data.campaign.toyscenter.it CNAME .
 data.charles-colby.com CNAME .
+data.email.riverford.co.uk CNAME .
 data.engelhorn.com CNAME .
 data.engelhorn.de CNAME .
 data.goertz.de CNAME .
@@ -256,7 +257,6 @@ web.collisionservices.com CNAME .
 web.communications.amouage.com CNAME .
 web.comunicaciones.toysrus.pt CNAME .
 web.comunicazioni.iol.it CNAME .
-web.crm.beps.it CNAME .
 web.crm.speedup.it CNAME .
 web.diebayerische.de CNAME .
 web.e.aldermore.co.uk CNAME .
@@ -344,7 +344,6 @@ web.post.toast.co.uk CNAME .
 web.powgen.at CNAME .
 web.powgen.cz CNAME .
 web.powgen.es CNAME .
-web.powgen.it CNAME .
 web.redazione.italiaoggi.it CNAME .
 web.redazione.milanofinanza.it CNAME .
 web.sensilab.com CNAME .
@@ -381,7 +380,6 @@ web.tummytox.sk CNAME .
 web.update.sandiego.org CNAME .
 web.updates.ditano.com CNAME .
 web.usautosupply.com CNAME .
-web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 web2.updates.ditano.com CNAME .
 webmet.creditreform-mahnwesen.de CNAME .

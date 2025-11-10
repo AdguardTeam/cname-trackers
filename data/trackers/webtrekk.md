@@ -44,6 +44,7 @@
     * 117490221505998.wt-eu02.net
     * 125611812418194.wt-eu02.net
     * 135786637466873.wt-eu02.net
+    * 142740387607140.wt-eu02.net
     * 144997442123603.wt-eu02.net
     * 145003564476173.wt-eu02.net
     * 148749046266446.wt-eu02.net
@@ -60,7 +61,6 @@
     * 215973748390194.wt-eu02.net
     * 227633596530844.wt-eu02.net
     * 228171111835997.wt-eu02.net
-    * 229792913412288.wt-eu02.net
     * 237317037194698.wt-eu02.net
     * 243341177383246.wt-eu02.net
     * 261826549347986.wt-eu02.net
@@ -261,6 +261,7 @@
 | mit.deutschewealth.com | 117490221505998.wt-eu02.net |
 | intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
 | web.news.bottegaverde.com | 135786637466873.wt-eu02.net |
+| data.email.riverford.co.uk | 142740387607140.wt-eu02.net |
 | web.email.bricocenter.it | 144997442123603.wt-eu02.net |
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
@@ -294,7 +295,6 @@
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
 | web.news.boxeurdesrues.com | 228171111835997.wt-eu02.net |
-| web.web.tomasiauto.com | 229792913412288.wt-eu02.net |
 | startrekk.flaconi.dk | 237317037194698.wt-eu02.net |
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | mit.postbank.de | 261826549347986.wt-eu02.net |
@@ -365,7 +365,6 @@
 | webt.store.okmilo.com | 470719744966924.wt-eu02.net |
 | data.babista.ch | 472164549827987.wt-eu02.net |
 | startrekk.flaconi.ch | 475966354471123.wt-eu02.net |
-| web.crm.beps.it | 481394388917209.wt-eu02.net |
 | web.crm.speedup.it | 481394388917209.wt-eu02.net |
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
@@ -448,7 +447,6 @@
 | web.powgen.at | 795078683620107.wt-eu02.net |
 | web.powgen.cz | 795078683620107.wt-eu02.net |
 | web.powgen.es | 795078683620107.wt-eu02.net |
-| web.powgen.it | 795078683620107.wt-eu02.net |
 | data.babista.de | 811475980920799.wt-eu02.net |
 | web.mapp.naturzeit.com | 818150559802317.wt-eu02.net |
 | web.online.monnalisa.com | 819363623263983.wt-eu02.net |

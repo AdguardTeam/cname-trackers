@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -98,7 +98,6 @@ stats.artero.dev CNAME .
 stats.artur-rodrigues.com CNAME .
 stats.benjaminmorris.com CNAME .
 stats.beyondthesprawl.com CNAME .
-stats.bilderbrief.de CNAME .
 stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .

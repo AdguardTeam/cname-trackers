@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,6 +59,7 @@ t-pan.triodos.com CNAME .
 tag.aumago.com CNAME .
 tag2.uwv.nl CNAME .
 tagadmin.aumago.com CNAME .
+tagmanager.becop.nl CNAME .
 wa.love2play.com CNAME .
 wa.mybookie.ag CNAME .
 wa.xbet.ag CNAME .

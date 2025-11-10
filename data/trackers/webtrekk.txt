@@ -62,6 +62,7 @@
 ||data.campaign.prenatal.com^
 ||data.campaign.toyscenter.it^
 ||data.charles-colby.com^
+||data.email.riverford.co.uk^
 ||data.engelhorn.com^
 ||data.engelhorn.de^
 ||data.goertz.de^
@@ -245,7 +246,6 @@
 ||web.communications.amouage.com^
 ||web.comunicaciones.toysrus.pt^
 ||web.comunicazioni.iol.it^
-||web.crm.beps.it^
 ||web.crm.speedup.it^
 ||web.diebayerische.de^
 ||web.e.aldermore.co.uk^
@@ -333,7 +333,6 @@
 ||web.powgen.at^
 ||web.powgen.cz^
 ||web.powgen.es^
-||web.powgen.it^
 ||web.redazione.italiaoggi.it^
 ||web.redazione.milanofinanza.it^
 ||web.sensilab.com^
@@ -370,7 +369,6 @@
 ||web.update.sandiego.org^
 ||web.updates.ditano.com^
 ||web.usautosupply.com^
-||web.web.tomasiauto.com^
 ||web.x.ilpost.it^
 ||web2.updates.ditano.com^
 ||webmet.creditreform-mahnwesen.de^

@@ -229,6 +229,7 @@
 | console.faithlifeads.com | faithlife-console.aquaplatform.com |
 | serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
 | adserver.fa-mag.com | famag-delivery.aquaplatform.com |
+| www.adserver.fa-mag.com | famag-delivery.aquaplatform.com |
 | static.fa-mag.com | famag-static.aquaplatform.com |
 | adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
 | www.adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |

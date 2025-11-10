@@ -224,7 +224,6 @@
     * h-accountonline.online-metrix.net
     * h-accurint.online-metrix.net
     * h-ad2y6kcr.online-metrix.net
-    * h-addisonlee.online-metrix.net
     * h-adp.online-metrix.net
     * h-adpynquc.online-metrix.net
     * h-af1jjj0t.online-metrix.net
@@ -269,6 +268,7 @@
     * h-b2u9vacd2.online-metrix.net
     * h-b2u9vacd3.online-metrix.net
     * h-b2u9vacd5.online-metrix.net
+    * h-b2u9vacd6.online-metrix.net
     * h-b2u9vacd8.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
@@ -333,7 +333,6 @@
     * h-c7f45hl1-fluid.online-metrix.net
     * h-c7f45hl1.online-metrix.net
     * h-caa.online-metrix.net
-    * h-cadmv.online-metrix.net
     * h-caesars888.online-metrix.net
     * h-cafa.online-metrix.net
     * h-cambiahealth.online-metrix.net
@@ -882,6 +881,7 @@
 | prod-ccuil.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cfcuwi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-citadel.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-coastal.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-comfin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-commonwealth.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-consumers.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1321,7 +1321,6 @@
 | cdnfp.lexisnexisrisk.com | h-accurint.online-metrix.net |
 | cdnfp.lexisnexisrisk.eu | h-accurint.online-metrix.net |
 | bifpt.pepperfinance.es | h-ad2y6kcr.online-metrix.net |
-| content.addisonlee.com | h-addisonlee.online-metrix.net |
 | image.online.adp.com | h-adp.online-metrix.net |
 | west-eu-0156743.medirect.be | h-adpynquc.online-metrix.net |
 | west-eu-0156743.medirect.com.mt | h-adpynquc.online-metrix.net |
@@ -1385,6 +1384,7 @@
 | ln.coolspinslot.com | h-b2u9vacd2.online-metrix.net |
 | ln.spinsorcery.net | h-b2u9vacd3.online-metrix.net |
 | ln.lavishluck.net | h-b2u9vacd5.online-metrix.net |
+| ln.cidercasino.com | h-b2u9vacd6.online-metrix.net |
 | ln.moonprizecasino.com | h-b2u9vacd8.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
@@ -1486,7 +1486,6 @@
 | scontent.newdaycards.com | h-c7f45hl1.online-metrix.net |
 | scontent.opuscard.co.uk | h-c7f45hl1.online-metrix.net |
 | irmp.caa.com | h-caa.online-metrix.net |
-| deviceauth.dmv.ca.gov | h-cadmv.online-metrix.net |
 | membership-device.secured-igaming-services.com | h-caesars888.online-metrix.net |
 | donor.cafamerica.org | h-cafa.online-metrix.net |
 | hooru.regence.com | h-cambiahealth.online-metrix.net |
@@ -2103,6 +2102,7 @@
 | tm.bdc-cdn.com | h-tm.bdc-cdn.com.online-metrix.net |
 | img2.tmrs.com | h-tmrs.online-metrix.net |
 | tmx.gotobilling.com | h-tmx.gotobilling.online-metrix.net |
+| t.chmobile.ch | h-tmx.sunrise.online-metrix.net |
 | t.lebara.ch | h-tmx.sunrise.online-metrix.net |
 | t.sunrise.ch | h-tmx.sunrise.online-metrix.net |
 | t.yallo.ch | h-tmx.sunrise.online-metrix.net |

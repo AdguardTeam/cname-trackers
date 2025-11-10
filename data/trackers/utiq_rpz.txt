@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -200,6 +200,7 @@ utiq.harpersbazaar.fr CNAME .
 utiq.hbrfrance.fr CNAME .
 utiq.heftig.de CNAME .
 utiq.heimatsport.de CNAME .
+utiq.hellorayo.co.uk CNAME .
 utiq.helpster.de CNAME .
 utiq.hersfelder-zeitung.de CNAME .
 utiq.hna.de CNAME .
@@ -375,6 +376,7 @@ utiq.rtl.de CNAME .
 utiq.rtl.fr CNAME .
 utiq.rtl2.fr CNAME .
 utiq.rugbyrama.fr CNAME .
+utiq.ruhr24.de CNAME .
 utiq.sabervivirtv.com CNAME .
 utiq.salamancahoy.es CNAME .
 utiq.sauerlandkurier.de CNAME .

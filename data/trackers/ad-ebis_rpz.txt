@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,6 +58,7 @@ adebis-dojyo.dojyo.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
 adebis-rikon.vbest.jp CNAME .
 adebis-saimu.vbest.jp CNAME .
+adebis-trk-wedding.official-wedding.net CNAME .
 adebis.464981.com CNAME .
 adebis.afc-shop.com CNAME .
 adebis.ahjikan-shop.com CNAME .
@@ -155,6 +156,7 @@ adtrack.loracle.jp CNAME .
 adtrack.maisonlexia.com CNAME .
 aesus.so-net.ne.jp CNAME .
 analyse.hinemos.info CNAME .
+analytics.pcnext.shop CNAME .
 axjfkc.kobayashi.co.jp CNAME .
 bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .

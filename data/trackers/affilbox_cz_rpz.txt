@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -281,11 +281,6 @@ affiliate.zdravykos.cz CNAME .
 affiliate.zhubnichytre.cz CNAME .
 affiliateold.firma20.cz CNAME .
 affiliates.adinternet.cz CNAME .
-affilo.crosta.cz CNAME .
-affilo.crosta.sk CNAME .
-affilo.janie.cz CNAME .
-affilo.lingerio.cz CNAME .
-affilo.vivaboty.cz CNAME .
 affilpartner.descanti.com CNAME .
 affilpartneri.affilbusiness.cz CNAME .
 afill.e-potisk.cz CNAME .
@@ -407,10 +402,12 @@ my.weplayhandball.bg CNAME .
 my.weplayhandball.ch CNAME .
 my.weplayhandball.cz CNAME .
 my.weplayhandball.de CNAME .
+my.weplayhandball.es CNAME .
 my.weplayhandball.eu CNAME .
 my.weplayhandball.fr CNAME .
 my.weplayhandball.gr CNAME .
 my.weplayhandball.hu CNAME .
+my.weplayhandball.it CNAME .
 my.weplayhandball.nl CNAME .
 my.weplayhandball.ro CNAME .
 my.weplayhandball.si CNAME .
@@ -419,8 +416,11 @@ my.weplayvolleyball.bg CNAME .
 my.weplayvolleyball.ch CNAME .
 my.weplayvolleyball.cz CNAME .
 my.weplayvolleyball.de CNAME .
+my.weplayvolleyball.es CNAME .
 my.weplayvolleyball.fr CNAME .
 my.weplayvolleyball.gr CNAME .
+my.weplayvolleyball.hu CNAME .
+my.weplayvolleyball.it CNAME .
 my.weplayvolleyball.lt CNAME .
 my.weplayvolleyball.ro CNAME .
 my.weplayvolleyball.si CNAME .
@@ -606,7 +606,6 @@ partner.lamax-electronics.com CNAME .
 partner.lascero.cz CNAME .
 partner.lascivni.cz CNAME .
 partner.lauben.com CNAME .
-partner.leadingtechnologies.cz CNAME .
 partner.legalni-konopi.cz CNAME .
 partner.lehatkapropsy.cz CNAME .
 partner.lekarna.cz CNAME .
@@ -985,7 +984,6 @@ udrzitelny-nakup.mydlia.cz CNAME .
 udrzitelny-nakup.tierraverde.cz CNAME .
 vydelavejtesnami.pg.cz CNAME .
 www.affilbox.mironet.cz CNAME .
-www.affilo.cz CNAME .
 www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .

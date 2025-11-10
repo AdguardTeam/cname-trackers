@@ -87,7 +87,6 @@
 ||stats.artur-rodrigues.com^
 ||stats.benjaminmorris.com^
 ||stats.beyondthesprawl.com^
-||stats.bilderbrief.de^
 ||stats.boredkevin.com^
 ||stats.boringproxy.io^
 ||stats.brandontoner.ca^

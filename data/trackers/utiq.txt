@@ -189,6 +189,7 @@
 ||utiq.hbrfrance.fr^
 ||utiq.heftig.de^
 ||utiq.heimatsport.de^
+||utiq.hellorayo.co.uk^
 ||utiq.helpster.de^
 ||utiq.hersfelder-zeitung.de^
 ||utiq.hna.de^
@@ -364,6 +365,7 @@
 ||utiq.rtl.fr^
 ||utiq.rtl2.fr^
 ||utiq.rugbyrama.fr^
+||utiq.ruhr24.de^
 ||utiq.sabervivirtv.com^
 ||utiq.salamancahoy.es^
 ||utiq.sauerlandkurier.de^

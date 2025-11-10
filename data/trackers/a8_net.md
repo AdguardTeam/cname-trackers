@@ -423,6 +423,7 @@
 | a8clk.app.offerbox.jp | trck.a8.net |
 | a8clk.apply-shop.menu.inc | trck.a8.net |
 | a8clk.asahi-net.or.jp | trck.a8.net |
+| a8clk.ashitarunrun.com | trck.a8.net |
 | a8clk.asp.jcity.co.jp | trck.a8.net |
 | a8clk.ato-barai.com | trck.a8.net |
 | a8clk.audiobook.jp | trck.a8.net |
@@ -495,6 +496,7 @@
 | a8clk.dr-10.com | trck.a8.net |
 | a8clk.dr-40.com | trck.a8.net |
 | a8clk.dr-8.com | trck.a8.net |
+| a8clk.drivee.ne.jp | trck.a8.net |
 | a8clk.driver-island.com | trck.a8.net |
 | a8clk.e-ninniku.jp | trck.a8.net |
 | a8clk.ec.halmek.co.jp | trck.a8.net |
@@ -703,6 +705,7 @@
 | a8clk.tastytable-food.com | trck.a8.net |
 | a8clk.teacon.jp | trck.a8.net |
 | a8clk.titivate.jp | trck.a8.net |
+| a8clk.tocoo.jp | trck.a8.net |
 | a8clk.toretoku.jp | trck.a8.net |
 | a8clk.tsuchiya-kaban.jp | trck.a8.net |
 | a8clk.tsunorice.com | trck.a8.net |

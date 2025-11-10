@@ -161,6 +161,7 @@
 3216263.notifysrv.com
 3217033.notifysrv.com
 3217213.notifysrv.com
+3219201.notify6.com
 3220723.notify6.com
 3220913.notify6.com
 3221653.notifysrv.com
@@ -557,6 +558,7 @@
 3541095.notifysrv.com
 3542163.notifysrv.com
 3544557.notify6.com
+3544647.notify6.com
 3549573.notifysrv.com
 3553611.notify6.com
 3556327.notifysrv.com
@@ -589,6 +591,7 @@
 3572283.notifysrv.com
 3572291.notify6.com
 3572293.notify6.com
+3572293.notifysrv.com
 3572295.notify6.com
 3572299.notify6.com
 3572299.notifysrv.com
@@ -1145,20 +1148,13 @@ a.18ramp.com
 a.8jfbt5va3r.com
 a.adsession.com
 a.advantageclicks.net
-a.advertrek.com
-a.allureanews.com
-a.asvsm.com
 a.b2bstars.com
 a.b7q9v8z.com
-a.bizonads-ssp.com
-a.brilmaver.com
 a.cant3am.com
 a.crme7srv.com
 a.eunow4u.com
 a.gatherstar.io
 a.golhofer.com
-a.hkartg.com
-a.huklop.com
 a.humnert.com
 a.ku34bh9la09.com
 a.ma3ion.com
@@ -1169,10 +1165,8 @@ a.pinkads.org
 a.playa.to
 a.q88z1s3.com
 a.r8lnet.com
-a.rocoads.net
-a.santabrowser.com
+a.t5z3w0p.com
 a.tf4srv.com
-a.traffic-gold.com
 a.vws4brkfst.com
 abc.notifysrv.com
 accept.notifysrv.com
@@ -1363,6 +1357,7 @@ s.dstfgh.com
 s.dsuntq.com
 s.dsvfk5.com
 s.dsvrqo.com
+s.dsw3rw.com
 s.dsx827.com
 s.dsxmn0.com
 s.eaalink.com
@@ -1374,6 +1369,7 @@ s.elink3x.com
 s.eln14e.com
 s.eln16e.com
 s.eln3ax.com
+s.eln7dc.com
 s.elna1v.com
 s.elna1w.com
 s.elna1x.com
@@ -1427,7 +1423,6 @@ s.gatherstar.io
 s.golhofer.com
 s.hkartg.com
 s.huispol.com
-s.huklop.com
 s.humnert.com
 s.kafaseju.com
 s.ku34bh9la09.com
@@ -1438,6 +1433,7 @@ s.linkw2g.com
 s.ma3ion.com
 s.magsrv.com
 s.makolper.com
+s.mikbaken.com
 s.n4m5x60.com
 s.naffertop.com
 s.native7.com
@@ -1648,5 +1644,13 @@ www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
+a.advertrek.com
+a.allureanews.com
+a.asvsm.com
+a.bizonads-ssp.com
+a.brilmaver.com
 a.etology.com
-a.t5z3w0p.com
+a.hkartg.com
+a.rocoads.net
+a.santabrowser.com
+a.traffic-gold.com

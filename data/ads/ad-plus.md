@@ -12,6 +12,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | cdn.laim.tv | cdn.stat-rock.com |
+| cdn1.digita.media | cdn.stat-rock.com |
 | player.resonance.pk | cdn.stat-rock.com |
 | dashboard.alcancemg.com | dashboard.stat-rock.com |
 | dashboard.andbeyond.media | dashboard.stat-rock.com |

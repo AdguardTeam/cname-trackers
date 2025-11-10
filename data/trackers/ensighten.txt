@@ -312,6 +312,7 @@
 ||privacy.latitudefinancial.com.au^
 ||privacy.latitudepay.com^
 ||privacy.learcapital.com^
+||privacy.merchantprocessorsolutions.com^
 ||privacy.online.heineken.co.za^
 ||privacy.owllabs.com^
 ||privacy.pruadviser.co.uk^

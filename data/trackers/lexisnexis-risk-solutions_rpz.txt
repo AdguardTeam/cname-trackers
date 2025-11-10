@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -296,7 +296,6 @@ content-dt.crepassplus.com CNAME .
 content-static.emiratesnbd.com CNAME .
 content-tix.topi.eu CNAME .
 content-uk.fundingcircle.com CNAME .
-content.addisonlee.com CNAME .
 content.affinityfcu.com CNAME .
 content.ageas.co.uk CNAME .
 content.allstate.com CNAME .
@@ -542,7 +541,6 @@ device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
 device.messa.org CNAME .
 device.register.greenlight.com CNAME .
-deviceauth.dmv.ca.gov CNAME .
 devicecontent.icuracao.com CNAME .
 devices.yondercard.com CNAME .
 df.fragrancex.com CNAME .
@@ -735,6 +733,7 @@ kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
 ln.acornfun.com CNAME .
 ln.cash.app CNAME .
+ln.cidercasino.com CNAME .
 ln.coolspinslot.com CNAME .
 ln.jackpotgo.club CNAME .
 ln.lavishluck.net CNAME .
@@ -859,6 +858,7 @@ prod-cardinal.chaperone.lumindigitalhosting.com CNAME .
 prod-ccuil.chaperone.lumindigitalhosting.com CNAME .
 prod-cfcuwi.chaperone.lumindigitalhosting.com CNAME .
 prod-citadel.chaperone.lumindigitalhosting.com CNAME .
+prod-coastal.chaperone.lumindigitalhosting.com CNAME .
 prod-comfin.chaperone.lumindigitalhosting.com CNAME .
 prod-commonwealth.chaperone.lumindigitalhosting.com CNAME .
 prod-consumers.chaperone.lumindigitalhosting.com CNAME .
@@ -1073,6 +1073,7 @@ svc.bangkokbank.com CNAME .
 svc.ondeck.com.au CNAME .
 svc1.sc.com CNAME .
 svc2.sc.com CNAME .
+t.chmobile.ch CNAME .
 t.lebara.ch CNAME .
 t.liberty.com.au CNAME .
 t.sunrise.ch CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -323,6 +323,7 @@ privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .
 privacy.learcapital.com CNAME .
+privacy.merchantprocessorsolutions.com CNAME .
 privacy.online.heineken.co.za CNAME .
 privacy.owllabs.com CNAME .
 privacy.pruadviser.co.uk CNAME .

@@ -285,7 +285,6 @@ content-dt.crepassplus.com
 content-static.emiratesnbd.com
 content-tix.topi.eu
 content-uk.fundingcircle.com
-content.addisonlee.com
 content.affinityfcu.com
 content.ageas.co.uk
 content.allstate.com
@@ -531,7 +530,6 @@ device-profile.jeniusbank.com
 device.invoice2go.com
 device.messa.org
 device.register.greenlight.com
-deviceauth.dmv.ca.gov
 devicecontent.icuracao.com
 devices.yondercard.com
 df.fragrancex.com
@@ -724,6 +722,7 @@ kyc.usend.com
 lab4.lloydsbank.com
 ln.acornfun.com
 ln.cash.app
+ln.cidercasino.com
 ln.coolspinslot.com
 ln.jackpotgo.club
 ln.lavishluck.net
@@ -848,6 +847,7 @@ prod-cardinal.chaperone.lumindigitalhosting.com
 prod-ccuil.chaperone.lumindigitalhosting.com
 prod-cfcuwi.chaperone.lumindigitalhosting.com
 prod-citadel.chaperone.lumindigitalhosting.com
+prod-coastal.chaperone.lumindigitalhosting.com
 prod-comfin.chaperone.lumindigitalhosting.com
 prod-commonwealth.chaperone.lumindigitalhosting.com
 prod-consumers.chaperone.lumindigitalhosting.com
@@ -1062,6 +1062,7 @@ svc.bangkokbank.com
 svc.ondeck.com.au
 svc1.sc.com
 svc2.sc.com
+t.chmobile.ch
 t.lebara.ch
 t.liberty.com.au
 t.sunrise.ch

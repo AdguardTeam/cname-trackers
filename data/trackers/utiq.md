@@ -194,6 +194,7 @@
 | utiq.hbrfrance.fr | frontend.prod.utiq-aws.net |
 | utiq.heftig.de | frontend.prod.utiq-aws.net |
 | utiq.heimatsport.de | frontend.prod.utiq-aws.net |
+| utiq.hellorayo.co.uk | frontend.prod.utiq-aws.net |
 | utiq.helpster.de | frontend.prod.utiq-aws.net |
 | utiq.hersfelder-zeitung.de | frontend.prod.utiq-aws.net |
 | utiq.hna.de | frontend.prod.utiq-aws.net |
@@ -369,6 +370,7 @@
 | utiq.rtl.fr | frontend.prod.utiq-aws.net |
 | utiq.rtl2.fr | frontend.prod.utiq-aws.net |
 | utiq.rugbyrama.fr | frontend.prod.utiq-aws.net |
+| utiq.ruhr24.de | frontend.prod.utiq-aws.net |
 | utiq.sabervivirtv.com | frontend.prod.utiq-aws.net |
 | utiq.salamancahoy.es | frontend.prod.utiq-aws.net |
 | utiq.sauerlandkurier.de | frontend.prod.utiq-aws.net |

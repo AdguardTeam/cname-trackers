@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -420,6 +420,7 @@ a8clk.ap.livede55.com CNAME .
 a8clk.app.offerbox.jp CNAME .
 a8clk.apply-shop.menu.inc CNAME .
 a8clk.asahi-net.or.jp CNAME .
+a8clk.ashitarunrun.com CNAME .
 a8clk.asp.jcity.co.jp CNAME .
 a8clk.ato-barai.com CNAME .
 a8clk.audiobook.jp CNAME .
@@ -492,6 +493,7 @@ a8clk.dospara.co.jp CNAME .
 a8clk.dr-10.com CNAME .
 a8clk.dr-40.com CNAME .
 a8clk.dr-8.com CNAME .
+a8clk.drivee.ne.jp CNAME .
 a8clk.driver-island.com CNAME .
 a8clk.e-ninniku.jp CNAME .
 a8clk.ec.halmek.co.jp CNAME .
@@ -701,6 +703,7 @@ a8clk.tastytable-food.com CNAME .
 a8clk.teacon.jp CNAME .
 a8clk.test.coreda.jp CNAME .
 a8clk.titivate.jp CNAME .
+a8clk.tocoo.jp CNAME .
 a8clk.toretoku.jp CNAME .
 a8clk.tsuchiya-kaban.jp CNAME .
 a8clk.tsunorice.com CNAME .

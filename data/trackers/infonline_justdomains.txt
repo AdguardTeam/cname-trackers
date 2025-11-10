@@ -1404,6 +1404,7 @@ data-a38e203a07.job38.de
 data-a38e203a07.radio38.de
 data-a3a5ca8056.apps.iocnt.de
 data-a3c5651c22.cicero.de
+data-a3c5651c22.monopol-magazin.de
 data-a406cb7ed1.onpulson.de
 data-a47d9423c7.esslingen.de
 data-a486ca6d85.hamburg-magazin.de

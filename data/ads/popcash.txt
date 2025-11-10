@@ -601,7 +601,6 @@
 ||landsnail.brownfield.dev^
 ||landsnail.garasjeport1.no^
 ||landsnail.motin.eu^
-||lark.pollie.dev^
 ||leech.carolgilabert.me^
 ||leech.fuchsegg.at^
 ||leech.stargate-project.de^
@@ -619,7 +618,6 @@
 ||limpet.pioneerlandscapingllc.com^
 ||limpet.yago.dev^
 ||lion.lastfrontiermagazine.com^
-||lizard.priorart.dev^
 ||lizard.utropia.es^
 ||llama.eniston.io^
 ||llama.growthinkers.nl^
@@ -786,7 +784,6 @@
 ||prairiedog.freemusic.com.au^
 ||prairiedog.hashnode.com^
 ||prairiedog.health-improvement.uk^
-||prairiedog.thisismattsmith.com^
 ||prairiedog.xview.us^
 ||prawn.inchperfect.com^
 ||prawn.lionsmouth.digital^
@@ -858,7 +855,6 @@
 ||sdegwynml.bmaci.me^
 ||seahorse.brightwayhealth.org^
 ||seahorse.dexterityvisuals.com^
-||seahorse.habitstack.com^
 ||shark.codeswitch.be^
 ||shark.getplayback.com^
 ||shark.rockyourlife.de^
@@ -873,7 +869,6 @@
 ||silkworm.westwoodmbc.org^
 ||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
-||skink.thoumi.ch^
 ||skunk.dwa.li^
 ||skunk.gameworkersolidarity.com^
 ||smelt.allenpike.com^
@@ -960,6 +955,7 @@
 ||tiglon.davidroessli.com^
 ||toad.ettiennevorster.co.za^
 ||toad.frontendmentor.io^
+||tortoise.allyinteractive.com^
 ||tortoise.mdx.one^
 ||tortoise.trysmartplan.com^
 ||toucan.ateliermilky.com^

@@ -26,6 +26,7 @@
 | assets.telefonanlage-shop.de | customer.etracker.com |
 | atrdb.laeckerli-huus.ch | customer.etracker.com |
 | auszeichnungen.pokale-nrw.de | customer.etracker.com |
+| betterdata.kruu.com | customer.etracker.com |
 | bmkt.bernhardtmoden.de | customer.etracker.com |
 | cet.ximpl.digital | customer.etracker.com |
 | click.easycosmetic.at | customer.etracker.com |
@@ -152,8 +153,10 @@
 | metrics.ostseeresort-damp.de | customer.etracker.com |
 | metrics.stilvol.de | customer.etracker.com |
 | metrics.thegoodshit.store | customer.etracker.com |
+| metrics.thomasipunkt.de | customer.etracker.com |
 | metrics.treudelberg-resort.com | customer.etracker.com |
 | metrics.ultra-med.de | customer.etracker.com |
+| metrics.walter-cmp.de | customer.etracker.com |
 | metrics.zaun-star.com | customer.etracker.com |
 | mktg.activemind.legal | customer.etracker.com |
 | monitoring.medizinbedarf.eu | customer.etracker.com |

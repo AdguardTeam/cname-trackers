@@ -11,6 +11,7 @@
 ||r.spttrck.com^
 ||r.wholehall.com^
 ||t.clearmaptrck.store^
+||t.clickscope.fun^
 ||t.dynatrck.site^
 ||t.fasttrck.tech^
 ||t.flashtrck.tech^

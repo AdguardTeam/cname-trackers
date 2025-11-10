@@ -270,11 +270,6 @@
 ||affiliate.zhubnichytre.cz^
 ||affiliateold.firma20.cz^
 ||affiliates.adinternet.cz^
-||affilo.crosta.cz^
-||affilo.crosta.sk^
-||affilo.janie.cz^
-||affilo.lingerio.cz^
-||affilo.vivaboty.cz^
 ||affilpartner.descanti.com^
 ||affilpartneri.affilbusiness.cz^
 ||afill.e-potisk.cz^
@@ -396,10 +391,12 @@
 ||my.weplayhandball.ch^
 ||my.weplayhandball.cz^
 ||my.weplayhandball.de^
+||my.weplayhandball.es^
 ||my.weplayhandball.eu^
 ||my.weplayhandball.fr^
 ||my.weplayhandball.gr^
 ||my.weplayhandball.hu^
+||my.weplayhandball.it^
 ||my.weplayhandball.nl^
 ||my.weplayhandball.ro^
 ||my.weplayhandball.si^
@@ -408,8 +405,11 @@
 ||my.weplayvolleyball.ch^
 ||my.weplayvolleyball.cz^
 ||my.weplayvolleyball.de^
+||my.weplayvolleyball.es^
 ||my.weplayvolleyball.fr^
 ||my.weplayvolleyball.gr^
+||my.weplayvolleyball.hu^
+||my.weplayvolleyball.it^
 ||my.weplayvolleyball.lt^
 ||my.weplayvolleyball.ro^
 ||my.weplayvolleyball.si^
@@ -595,7 +595,6 @@
 ||partner.lascero.cz^
 ||partner.lascivni.cz^
 ||partner.lauben.com^
-||partner.leadingtechnologies.cz^
 ||partner.legalni-konopi.cz^
 ||partner.lehatkapropsy.cz^
 ||partner.lekarna.cz^
@@ -974,7 +973,6 @@
 ||udrzitelny-nakup.tierraverde.cz^
 ||vydelavejtesnami.pg.cz^
 ||www.affilbox.mironet.cz^
-||www.affilo.cz^
 ||www.partner.hubatacernoska.cz^
 ||www.partneri.zuzanaondrisova.sk^
 ||affil.myface.cz^

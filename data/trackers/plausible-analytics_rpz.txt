@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -235,7 +235,6 @@ plausible.yalepaprika.com CNAME .
 plausible.zest.dev CNAME .
 plausible.zorin.com CNAME .
 pls.ambue.com CNAME .
-pls.fcrpg.net CNAME .
 pls.skycastle.dev CNAME .
 plsbl-staging.edison.se CNAME .
 plsbl.edison.se CNAME .
@@ -736,7 +735,6 @@ stats.sprune.com CNAME .
 stats.sqlteam.com CNAME .
 stats.stack11.io CNAME .
 stats.stackingthebricks.com CNAME .
-stats.stacks.org CNAME .
 stats.staging.hex.pm CNAME .
 stats.staging.hexdocs.pm CNAME .
 stats.starfish.team CNAME .
@@ -814,6 +812,7 @@ stats.xactcode.com CNAME .
 stats.xn--antnio-dxa.pt CNAME .
 stats.xrechnung.app CNAME .
 stats.zimri.net CNAME .
+statstest.upti.pro CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.authramp.com CNAME .
 sts.eliasjarzombek.com CNAME .

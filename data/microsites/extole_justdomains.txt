@@ -123,12 +123,7 @@ demo.extole.com
 earn-and-refer.extoleu.com
 em225.codecademy.com
 em2287.theory.com
-em5230.rewards.dailypay.com
-em5231.mail.propertyperks.xfinity.com
-em7147.love.suncoastcreditunion.com
-em8561.go2bank.com
-em8642.notifications.acorns.com
-em924.refer.starbucks.com
+em7952.dailypay.com
 emxxxx.rent.app
 externalreferral.freshworks.com
 friend.discover.com
@@ -456,6 +451,7 @@ referral.bluehost.com
 referral.bluehost.uk
 referral.cledepeaubeaute.com
 referral.drunkelephant.com
+referral.lgeccu.org
 referral.moneybase.com
 referral.pellaofdfw.com
 referral.shiseido.com
@@ -561,7 +557,6 @@ share.evine.com
 share.fastbridgefiber.com
 share.fdlreporter.com
 share.fetchpet.com
-share.findheadway.com
 share.fingercheck.com
 share.firstleaf.club
 share.firstleaf.com
@@ -789,11 +784,16 @@ em1476.princesscruises.com
 em2279.referral.quickbooks.co.uk
 em4367.raf-studentloans.discover.com
 em4504.mail.raf.xfinity.com
+em5230.rewards.dailypay.com
+em5231.mail.propertyperks.xfinity.com
 em5807.turbotax.refer.intuit.com
+em7147.love.suncoastcreditunion.com
 em767.forgetrust.com
-em7952.dailypay.com
 em8031.soundcloud.com
+em8561.go2bank.com
+em8642.notifications.acorns.com
 em8928.em.petco.com
+em924.refer.starbucks.com
 em9347.shareus.viktor-rolf.com
 em9523.walmartmoneycard.com
 xtl._domainkey.dailypay.com

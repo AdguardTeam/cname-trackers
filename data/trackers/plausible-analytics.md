@@ -236,7 +236,6 @@
 | plausible.zest.dev | custom.plausible.io |
 | plausible.zorin.com | custom.plausible.io |
 | pls.ambue.com | custom.plausible.io |
-| pls.fcrpg.net | custom.plausible.io |
 | pls.skycastle.dev | custom.plausible.io |
 | plsbl-staging.edison.se | custom.plausible.io |
 | plsbl.edison.se | custom.plausible.io |
@@ -737,7 +736,6 @@
 | stats.sqlteam.com | custom.plausible.io |
 | stats.stack11.io | custom.plausible.io |
 | stats.stackingthebricks.com | custom.plausible.io |
-| stats.stacks.org | custom.plausible.io |
 | stats.staging.hex.pm | custom.plausible.io |
 | stats.staging.hexdocs.pm | custom.plausible.io |
 | stats.starfish.team | custom.plausible.io |
@@ -815,6 +813,7 @@
 | stats.xn--antnio-dxa.pt | custom.plausible.io |
 | stats.xrechnung.app | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
+| statstest.upti.pro | custom.plausible.io |
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |
 | sts.authramp.com | custom.plausible.io |
 | sts.eliasjarzombek.com | custom.plausible.io |

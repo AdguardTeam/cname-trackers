@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ ih31.com CNAME .
 infraxurechan.com CNAME .
 injolteona.com CNAME .
 ips9.com CNAME .
+itfeebason.com CNAME .
 itonixr.com CNAME .
 itsteelixr.com CNAME .
 jup9.com CNAME .
@@ -45,6 +46,7 @@ kighoadouk.com CNAME .
 ldy5.com CNAME .
 mamsauphoachoap.com CNAME .
 offsnivyor.com CNAME .
+ofgastlyr.com CNAME .
 ontyrogueom.com CNAME .
 opvileplumeon.com CNAME .
 ossscatterbuga.com CNAME .
@@ -53,6 +55,7 @@ rndcombuskenor.com CNAME .
 roulatioser.com CNAME .
 roulinooneer.com CNAME .
 softaignidsoom.com CNAME .
+toomastarer.com CNAME .
 uncobalionr.com CNAME .
 unfearowor.com CNAME .
 unslowbror.com CNAME .

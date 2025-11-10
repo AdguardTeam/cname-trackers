@@ -580,7 +580,6 @@
 | landsnail.brownfield.dev | deprecated-custom-domains.b-cdn.net |
 | landsnail.garasjeport1.no | deprecated-custom-domains.b-cdn.net |
 | landsnail.motin.eu | deprecated-custom-domains.b-cdn.net |
-| lark.pollie.dev | deprecated-custom-domains.b-cdn.net |
 | leech.carolgilabert.me | deprecated-custom-domains.b-cdn.net |
 | leech.fuchsegg.at | deprecated-custom-domains.b-cdn.net |
 | leech.stargate-project.de | deprecated-custom-domains.b-cdn.net |
@@ -598,7 +597,6 @@
 | limpet.pioneerlandscapingllc.com | deprecated-custom-domains.b-cdn.net |
 | limpet.yago.dev | deprecated-custom-domains.b-cdn.net |
 | lion.lastfrontiermagazine.com | deprecated-custom-domains.b-cdn.net |
-| lizard.priorart.dev | deprecated-custom-domains.b-cdn.net |
 | lizard.utropia.es | deprecated-custom-domains.b-cdn.net |
 | llama.eniston.io | deprecated-custom-domains.b-cdn.net |
 | llama.growthinkers.nl | deprecated-custom-domains.b-cdn.net |
@@ -765,7 +763,6 @@
 | prairiedog.freemusic.com.au | deprecated-custom-domains.b-cdn.net |
 | prairiedog.hashnode.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.health-improvement.uk | deprecated-custom-domains.b-cdn.net |
-| prairiedog.thisismattsmith.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.xview.us | deprecated-custom-domains.b-cdn.net |
 | prawn.inchperfect.com | deprecated-custom-domains.b-cdn.net |
 | prawn.lionsmouth.digital | deprecated-custom-domains.b-cdn.net |
@@ -837,7 +834,6 @@
 | sdegwynml.bmaci.me | deprecated-custom-domains.b-cdn.net |
 | seahorse.brightwayhealth.org | deprecated-custom-domains.b-cdn.net |
 | seahorse.dexterityvisuals.com | deprecated-custom-domains.b-cdn.net |
-| seahorse.habitstack.com | deprecated-custom-domains.b-cdn.net |
 | shark.codeswitch.be | deprecated-custom-domains.b-cdn.net |
 | shark.getplayback.com | deprecated-custom-domains.b-cdn.net |
 | shark.rockyourlife.de | deprecated-custom-domains.b-cdn.net |
@@ -852,7 +848,6 @@
 | silkworm.westwoodmbc.org | deprecated-custom-domains.b-cdn.net |
 | silverfish.djordjevanjek.com | deprecated-custom-domains.b-cdn.net |
 | skink.asorman.io | deprecated-custom-domains.b-cdn.net |
-| skink.thoumi.ch | deprecated-custom-domains.b-cdn.net |
 | skunk.dwa.li | deprecated-custom-domains.b-cdn.net |
 | skunk.gameworkersolidarity.com | deprecated-custom-domains.b-cdn.net |
 | smelt.allenpike.com | deprecated-custom-domains.b-cdn.net |
@@ -939,6 +934,7 @@
 | tiglon.davidroessli.com | deprecated-custom-domains.b-cdn.net |
 | toad.ettiennevorster.co.za | deprecated-custom-domains.b-cdn.net |
 | toad.frontendmentor.io | deprecated-custom-domains.b-cdn.net |
+| tortoise.allyinteractive.com | deprecated-custom-domains.b-cdn.net |
 | tortoise.mdx.one | deprecated-custom-domains.b-cdn.net |
 | tortoise.trysmartplan.com | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |

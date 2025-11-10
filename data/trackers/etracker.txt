@@ -10,6 +10,7 @@
 ||assets.telefonanlage-shop.de^
 ||atrdb.laeckerli-huus.ch^
 ||auszeichnungen.pokale-nrw.de^
+||betterdata.kruu.com^
 ||bmkt.bernhardtmoden.de^
 ||cet.ximpl.digital^
 ||click.easycosmetic.at^
@@ -136,8 +137,10 @@
 ||metrics.ostseeresort-damp.de^
 ||metrics.stilvol.de^
 ||metrics.thegoodshit.store^
+||metrics.thomasipunkt.de^
 ||metrics.treudelberg-resort.com^
 ||metrics.ultra-med.de^
+||metrics.walter-cmp.de^
 ||metrics.zaun-star.com^
 ||mktg.activemind.legal^
 ||monitoring.medizinbedarf.eu^

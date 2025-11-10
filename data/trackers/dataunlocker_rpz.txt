@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -92,7 +92,6 @@ li3k4d70ig52.resourceya.com CNAME .
 lj5s1u8ct5vz.app.chatpay.dev CNAME .
 lofo3l15c674.platform.replai.io CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
-m3uef4b38brmbntdzx.franchiseplus.nl CNAME .
 m4zoxtrcea1k.controlconceptsusa.com CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .

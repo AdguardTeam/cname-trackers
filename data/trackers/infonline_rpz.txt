@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1415,6 +1415,7 @@ data-a38e203a07.job38.de CNAME .
 data-a38e203a07.radio38.de CNAME .
 data-a3a5ca8056.apps.iocnt.de CNAME .
 data-a3c5651c22.cicero.de CNAME .
+data-a3c5651c22.monopol-magazin.de CNAME .
 data-a406cb7ed1.onpulson.de CNAME .
 data-a47d9423c7.esslingen.de CNAME .
 data-a486ca6d85.hamburg-magazin.de CNAME .

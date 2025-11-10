@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,6 +22,7 @@ r.spininitial.tech CNAME .
 r.spttrck.com CNAME .
 r.wholehall.com CNAME .
 t.clearmaptrck.store CNAME .
+t.clickscope.fun CNAME .
 t.dynatrck.site CNAME .
 t.fasttrck.tech CNAME .
 t.flashtrck.tech CNAME .

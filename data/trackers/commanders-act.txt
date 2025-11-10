@@ -5,7 +5,6 @@
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.decathlon.pl^
-||data.e-immobilier.credit-agricole.fr^
 ||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
@@ -19,8 +18,9 @@
 ||tc.europcar.be^
 ||tc.europcar.com.au^
 ||tc.europcar.de^
+||data.decathlon.it^
+||data.e-immobilier.credit-agricole.fr^
+||tc.europcar.com^
 ||tc.europcar.es^
 ||tc.europcar.pt^
 ||tcdata.fnac.com^
-||data.decathlon.it^
-||tc.europcar.com^

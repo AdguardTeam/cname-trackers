@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -612,7 +612,6 @@ landsnail.bindle.io CNAME .
 landsnail.brownfield.dev CNAME .
 landsnail.garasjeport1.no CNAME .
 landsnail.motin.eu CNAME .
-lark.pollie.dev CNAME .
 leech.carolgilabert.me CNAME .
 leech.fuchsegg.at CNAME .
 leech.stargate-project.de CNAME .
@@ -630,7 +629,6 @@ limpet.eddiehinkle.com CNAME .
 limpet.pioneerlandscapingllc.com CNAME .
 limpet.yago.dev CNAME .
 lion.lastfrontiermagazine.com CNAME .
-lizard.priorart.dev CNAME .
 lizard.utropia.es CNAME .
 llama.eniston.io CNAME .
 llama.growthinkers.nl CNAME .
@@ -797,7 +795,6 @@ porpoise.kristinholl.com CNAME .
 prairiedog.freemusic.com.au CNAME .
 prairiedog.hashnode.com CNAME .
 prairiedog.health-improvement.uk CNAME .
-prairiedog.thisismattsmith.com CNAME .
 prairiedog.xview.us CNAME .
 prawn.inchperfect.com CNAME .
 prawn.lionsmouth.digital CNAME .
@@ -869,7 +866,6 @@ scorpion.gamedao.co CNAME .
 sdegwynml.bmaci.me CNAME .
 seahorse.brightwayhealth.org CNAME .
 seahorse.dexterityvisuals.com CNAME .
-seahorse.habitstack.com CNAME .
 shark.codeswitch.be CNAME .
 shark.getplayback.com CNAME .
 shark.rockyourlife.de CNAME .
@@ -884,7 +880,6 @@ silkworm.waspexpert.com CNAME .
 silkworm.westwoodmbc.org CNAME .
 silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
-skink.thoumi.ch CNAME .
 skunk.dwa.li CNAME .
 skunk.gameworkersolidarity.com CNAME .
 smelt.allenpike.com CNAME .
@@ -971,6 +966,7 @@ tiglon.beyondco.de CNAME .
 tiglon.davidroessli.com CNAME .
 toad.ettiennevorster.co.za CNAME .
 toad.frontendmentor.io CNAME .
+tortoise.allyinteractive.com CNAME .
 tortoise.mdx.one CNAME .
 tortoise.trysmartplan.com CNAME .
 toucan.ateliermilky.com CNAME .

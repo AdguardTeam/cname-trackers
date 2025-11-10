@@ -409,6 +409,7 @@
 ||a8clk.app.offerbox.jp^
 ||a8clk.apply-shop.menu.inc^
 ||a8clk.asahi-net.or.jp^
+||a8clk.ashitarunrun.com^
 ||a8clk.asp.jcity.co.jp^
 ||a8clk.ato-barai.com^
 ||a8clk.audiobook.jp^
@@ -481,6 +482,7 @@
 ||a8clk.dr-10.com^
 ||a8clk.dr-40.com^
 ||a8clk.dr-8.com^
+||a8clk.drivee.ne.jp^
 ||a8clk.driver-island.com^
 ||a8clk.e-ninniku.jp^
 ||a8clk.ec.halmek.co.jp^
@@ -690,6 +692,7 @@
 ||a8clk.teacon.jp^
 ||a8clk.test.coreda.jp^
 ||a8clk.titivate.jp^
+||a8clk.tocoo.jp^
 ||a8clk.toretoku.jp^
 ||a8clk.tsuchiya-kaban.jp^
 ||a8clk.tsunorice.com^

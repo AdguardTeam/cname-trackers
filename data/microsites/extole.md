@@ -230,6 +230,7 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -299,7 +300,6 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * gpsinsight.extole.io
     * granitegaragefloors.extole.io
@@ -368,6 +368,7 @@
     * lemonaidhealth.extole.io
     * lending-club.extole.io
     * levi.extole.io
+    * lgeccu.extole.io
     * lifedna.extole.io
     * lighthousecu.extole.io
     * lightstream.extole.io
@@ -410,7 +411,6 @@
     * newtonbaby.extole.io
     * nfhs-network.extole.io
     * ngfcu.extole.io
-    * notifications.acorns.em.extole.io
     * nutribullet.extole.io
     * nuts.extole.io
     * nymcu.extole.io
@@ -476,7 +476,6 @@
     * resume-now.extole.io
     * reveneer.extole.io
     * revzilla.extole.io
-    * rewards-dailypay.em.extole.io
     * riley-rose.extole.io
     * rio-grande-credit-union.extole.io
     * robertmondaviwinery.extole.io
@@ -518,7 +517,6 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steelseries.extole.io
@@ -530,7 +528,6 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
-    * suncoastcreditunion.em.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
@@ -602,7 +599,6 @@
     * wombat.extole.io
     * wrangler.extole.io
     * wsecu.extole.io
-    * xfinity.em.extole.io
     * xfinity.extole.io
     * yotoplay.extole.io
     * zenbusiness.extole.io
@@ -795,6 +791,7 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -954,7 +951,6 @@
 | share.refer-glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -975,7 +971,6 @@
 | refer.hattiesburgamerican.com | hattiesburgamerican.extole.com |
 | share.havenwellwithin.com | havenwellwithin.extole.io |
 | referaprovider.headway.co | headway.extole.io |
-| share.findheadway.com | headway.extole.io |
 | refer.henribendel.com | henri-bendel.extole.io |
 | share.heydayskincare.com | heydayskincare.extole.io |
 | share.heydude.com | heydude.extole.io |
@@ -1054,6 +1049,7 @@
 | share.s1.levi-site.com | levi.extole.io |
 | share.s3.levi-site.com | levi.extole.io |
 | share.s4.levi-site.com | levi.extole.io |
+| referral.lgeccu.org | lgeccu.extole.io |
 | share.lifedna.com | lifedna.extole.io |
 | refer.lighthousecu.org | lighthousecu.extole.io |
 | refer.lightstream.com | lightstream.extole.io |
@@ -1114,7 +1110,6 @@
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | share.ngfcu.us | ngfcu.extole.io |
-| em8642.notifications.acorns.com | notifications.acorns.em.extole.io |
 | share.nutribullet.com | nutribullet.extole.io |
 | share.nuts.com | nuts.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
@@ -1210,7 +1205,6 @@
 | refer.resume-now.com | resume-now.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.revzilla.com | revzilla.extole.io |
-| em5230.rewards.dailypay.com | rewards-dailypay.em.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
 | share.riograndecu.org | rio-grande-credit-union.extole.io |
 | refer.roadrunnersports.com | roadrunnersports-ssl.extole.com |
@@ -1270,7 +1264,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
@@ -1282,7 +1275,6 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
-| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
@@ -1410,7 +1402,6 @@
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
 | share.wsecu.org | wsecu.extole.io |
-| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |

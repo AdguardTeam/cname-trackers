@@ -48,6 +48,7 @@ t-pan.triodos.com
 tag.aumago.com
 tag2.uwv.nl
 tagadmin.aumago.com
+tagmanager.becop.nl
 wa.love2play.com
 wa.mybookie.ag
 wa.xbet.ag

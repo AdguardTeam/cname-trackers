@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762156808687        ; Serial
+           1762761610557        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ analytics.monobloc.de CNAME .
 assets.telefonanlage-shop.de CNAME .
 atrdb.laeckerli-huus.ch CNAME .
 auszeichnungen.pokale-nrw.de CNAME .
+betterdata.kruu.com CNAME .
 bmkt.bernhardtmoden.de CNAME .
 cet.ximpl.digital CNAME .
 click.easycosmetic.at CNAME .
@@ -147,8 +148,10 @@ metrics.moderade.com CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.stilvol.de CNAME .
 metrics.thegoodshit.store CNAME .
+metrics.thomasipunkt.de CNAME .
 metrics.treudelberg-resort.com CNAME .
 metrics.ultra-med.de CNAME .
+metrics.walter-cmp.de CNAME .
 metrics.zaun-star.com CNAME .
 mktg.activemind.legal CNAME .
 monitoring.medizinbedarf.eu CNAME .
