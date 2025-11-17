@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -318,7 +318,6 @@ web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
-web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.absurdbeauty.com CNAME .
 web.news.bottegaverde.com CNAME .
@@ -418,3 +417,4 @@ wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
 www.a.jaz-hotel.com CNAME .
+web.marketing.jellybelly.com CNAME .

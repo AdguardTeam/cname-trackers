@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -222,6 +222,7 @@ dguqe.outdoornativitysets.com CNAME .
 dhauc.earthhero.com CNAME .
 dhlou.fidella.org CNAME .
 dhole.samuelhubbard.com CNAME .
+dhqpj.everydayreliefhub.com CNAME .
 dkdst.coopsleepgoods.com CNAME .
 dkeer.greenleafblends.us CNAME .
 dkgto.plantishfuture.com CNAME .
@@ -718,7 +719,6 @@ lchhd.wakeupwarrior.com CNAME .
 lcrbz.sterilybrasil.com CNAME .
 lcser.dinovite.com CNAME .
 lcugj.pestie.com CNAME .
-ldovz.deckhandmarinesupply.com CNAME .
 ldpns.ruggable.com CNAME .
 ldpsh.fashionnova.com CNAME .
 leghe.tappycard.com CNAME .
@@ -780,6 +780,7 @@ luutf.longtermdenials.com CNAME .
 lvbvr.aroma360.ch CNAME .
 lvdvj.sheetsgiggles.com CNAME .
 lvula.4joypaddles.com CNAME .
+lzeku.almighty.tools CNAME .
 mabzz.bluecorncandles.com CNAME .
 maczf.mahoneysupplements.com CNAME .
 mahim.certifymeonline.net CNAME .
@@ -1355,6 +1356,7 @@ virbe.sokolovelaw.com CNAME .
 vjdaz.plantaform.com CNAME .
 vjecr.greenleaf-blends.nl CNAME .
 vjkzs.feralfungi.com CNAME .
+vjqji.eberjey.com CNAME .
 vklke.fatfender.com CNAME .
 vljfo.lanimal.co CNAME .
 vlrst.rhinousainc.com CNAME .
@@ -1677,6 +1679,7 @@ dcjoj.clubmagichour.com CNAME .
 dcsvf.xtratuf.com CNAME .
 dcudi.basbleu.com CNAME .
 ddccm.beyondalpha.co CNAME .
+ddjpc.lg.com CNAME .
 ddjpj.eargasm.com CNAME .
 ddrfn.grazly.co CNAME .
 dfgjj.coffee-direct.co.uk CNAME .
@@ -1699,6 +1702,7 @@ dkiig.misen.com CNAME .
 dkomm.westcoastkids.ca CNAME .
 dkphq.sokoglam.com CNAME .
 dkqdl.theinkeylist.com CNAME .
+dlcgh.songmontofficial.com CNAME .
 dldah.mountainmikespizza.com CNAME .
 dmdtb.georgiaboot.com CNAME .
 dmztm.varley.com CNAME .
@@ -2214,12 +2218,14 @@ lspvo.weldernation.com CNAME .
 lsrot.renefurtererusa.com CNAME .
 ltlii.talentless.co CNAME .
 ltqsl.liplab.com CNAME .
+ltrrw.pakaapparel.com CNAME .
 luchn.melin.com CNAME .
 lumbu.naturallife.com CNAME .
 lvinq.lonewolfranchpets.com CNAME .
 lvngt.representclo.com CNAME .
 lzdub.horse.com CNAME .
 lziri.lifeboostcoffee.com CNAME .
+lzlrp.alpakagear.com CNAME .
 magkn.victoriassecret.com CNAME .
 mauiv.innisfree.com CNAME .
 mbfkd.patricianashdesigns.com CNAME .
@@ -2500,6 +2506,7 @@ qbjit.circalasvegas.com CNAME .
 qbrth.ezcontacts.com CNAME .
 qbuec.elvtd.com CNAME .
 qcalq.whirleypopshop.com CNAME .
+qchoh.lg.com CNAME .
 qcvji.aliceandolivia.com CNAME .
 qdhjl.borne.com CNAME .
 qdqnd.snipesusa.com CNAME .
@@ -2543,6 +2550,7 @@ qsebe.hudsonjeans.com CNAME .
 qssjr.farmrio.com CNAME .
 qtbqh.hamperswithbite.com.au CNAME .
 qtbsd.crocs.com CNAME .
+qtgge.darngoodyarn.com CNAME .
 qthij.naturalizer.com CNAME .
 qtljl.hopwtr.com CNAME .
 qtmvp.roamans.com CNAME .
@@ -2639,6 +2647,7 @@ sjfhb.ironhaft.com CNAME .
 sjzbf.doheny.com CNAME .
 skizu.canvasonsale.com CNAME .
 sljhc.lorex.ca CNAME .
+smazn.huckberry.com CNAME .
 smjpr.killstar.com CNAME .
 smmkf.jostens.com CNAME .
 smume.wearwellow.com CNAME .
@@ -2650,6 +2659,7 @@ soegt.candyscupcakes.co.uk CNAME .
 soolb.broadway.com CNAME .
 spabz.mytopicals.com CNAME .
 sqbcn.catholiccoffee.com CNAME .
+sqcrb.dlouise.co.uk CNAME .
 sqvnf.sneakerpolitics.com CNAME .
 srlrl.outerknown.com CNAME .
 ssdjq.bedinabox.com CNAME .

@@ -56,7 +56,6 @@
 | redefine.hit.stat24.com | redefine.adocean.pl |
 | tp.hit.stat24.com | redefine.adocean.pl |
 | ocean.gigatron.rs | rs.adocean.pl |
-| ad.services.tvn.pl | tvn.adocean.pl |
 | recontent.services.tvn.pl | tvn.adocean.pl |
 | ads.tvp.pl | tvp.adocean.pl |
 | a.actualno.com | webgroundbg.adocean.pl |

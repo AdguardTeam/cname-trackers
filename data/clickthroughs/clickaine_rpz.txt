@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -109,7 +109,6 @@ taco.sexreels.net CNAME .
 v040419.badjojo.com CNAME .
 web5603.brandnewapp.pro CNAME .
 wp.brandnewapp.pro CNAME .
-www.bokep.su CNAME .
 www.brandnewapp.pro CNAME .
 www.daws4-3.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
@@ -118,5 +117,6 @@ www.station54k.brandnewapp.pro CNAME .
 www.telford.brandnewapp.pro CNAME .
 www.web5603.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
+xn--api-hn0a.rtnews.pro CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

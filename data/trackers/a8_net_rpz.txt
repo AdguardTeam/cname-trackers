@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1519,7 +1519,6 @@ cv.kuvings.jp CNAME .
 cv.liability.jp CNAME .
 cv.loca-site.com CNAME .
 cv.mamaikuko.jp CNAME .
-cv.masteraxis.com CNAME .
 cv.meo.tryhatch.co.jp CNAME .
 cv.mupla-ab3.com CNAME .
 cv.my-lancul.com CNAME .

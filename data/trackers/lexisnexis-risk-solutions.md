@@ -1016,7 +1016,6 @@
 | content002.bet365.es | h-47z24dz9.online-metrix.net |
 | content002.bet365.gr | h-47z24dz9.online-metrix.net |
 | content002.bet365.it | h-47z24dz9.online-metrix.net |
-| content002.bet365.mx | h-47z24dz9.online-metrix.net |
 | content002.bet365.nl | h-47z24dz9.online-metrix.net |
 | content002.bet365.pe | h-47z24dz9.online-metrix.net |
 | content002.bet365.rs | h-47z24dz9.online-metrix.net |
@@ -1751,7 +1750,6 @@
 | tm.betano.cz | h-gambling-malta.online-metrix.net |
 | tm.betano.de | h-gambling-malta.online-metrix.net |
 | tm.betano.dk | h-gambling-malta.online-metrix.net |
-| tm.betano.mx | h-gambling-malta.online-metrix.net |
 | tm.betano.ng | h-gambling-malta.online-metrix.net |
 | tm.stoiximan.com.cy | h-gambling-malta.online-metrix.net |
 | tm.stoiximan.gr | h-gambling-malta.online-metrix.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -896,7 +896,6 @@ partneri.sterixretro.cz CNAME .
 partneri.supportbox.cz CNAME .
 partneri.svetfitness.cz CNAME .
 partneri.sviicka.cz CNAME .
-partneri.tajomstvochudnutia.sk CNAME .
 partneri.tanahavlickova.cz CNAME .
 partneri.tentino.cz CNAME .
 partneri.toothy.cz CNAME .
@@ -937,7 +936,6 @@ provize.hopsej.cz CNAME .
 provize.mimulo.cz CNAME .
 provize.pracenasobe.cz CNAME .
 provize.radynacestu.cz CNAME .
-provize.rychle-pujcky-bez-registru.cz CNAME .
 provize.snubni-prsten.cz CNAME .
 provize.vybavenifitness.cz CNAME .
 provize.wugi.cz CNAME .

@@ -212,7 +212,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -230,7 +229,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -393,7 +391,6 @@
     * midlandsb.extole.io
     * midlandusa.extole.io
     * minted.extole.io
-    * mission.extole.io
     * mondetta.extole.io
     * moneybase.extole.io
     * msgcu.extole.io
@@ -471,7 +468,6 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
     * resume-now.extole.io
     * reveneer.extole.io
@@ -547,7 +543,6 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
-    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -579,7 +574,6 @@
     * useagle.extole.io
     * uvacreditunion.extole.io
     * vayasleep.extole.io
-    * vcu.extole.io
     * verizon.extole.io
     * viktor-rolf.extole.io
     * virginvoyages.extole.io
@@ -761,7 +755,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -791,7 +784,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -1040,7 +1032,6 @@
 | refer.lastcall.com | lastcall.extole.io |
 | refer.lauramercier.com | laura-mercier.extole.io |
 | refer.laylasleep.com | layla-sleep.extole.io |
-| refer.quickfixtest5.com | layla-sleep.extole.io |
 | refer.leadmd.com | leadmd.extole.com |
 | share.learnersedge.com | learnersedge.extole.io |
 | refer.lemonaidhealth.com | lemonaidhealth.extole.io |
@@ -1083,7 +1074,6 @@
 | refer.midlandsb.com | midlandsb.extole.io |
 | share.midlandusa.com | midlandusa.extole.io |
 | refer.minted.com | minted.extole.io |
-| refer.mission.com | mission.extole.io |
 | share.mlb.tv | mlbtv.extole.com |
 | refer.mpgsport.ca | mondetta.extole.io |
 | refer.mpgsport.com | mondetta.extole.io |
@@ -1200,7 +1190,6 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | refer.resume-now.com | resume-now.extole.io |
 | share.reveneer.io | reveneer.extole.io |
@@ -1303,7 +1292,6 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
-| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1371,7 +1359,6 @@
 | share.useagle.org | useagle.extole.io |
 | friends.uvacreditunion.org | uvacreditunion.extole.io |
 | refer.vayasleep.com | vayasleep.extole.io |
-| share.vcu.com | vcu.extole.io |
 | refer.verabradley.com | verabradley.extole.com |
 | referabusiness.verizon.com | verizon.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |

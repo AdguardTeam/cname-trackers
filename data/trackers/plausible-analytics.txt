@@ -789,7 +789,6 @@
 ||stats.websnap.app^
 ||stats.wecodeni.com^
 ||stats.whenpigsflybbq.com^
-||stats.whereisit5pmrightnow.com^
 ||stats.wordvested.org^
 ||stats.world.hey.com^
 ||stats.wvs.org.uk^
@@ -810,7 +809,6 @@
 ||stts.emplution.com^
 ||stts.sgab-srfp.ch^
 ||stts.swisshranalytics.ch^
-||t.lastcast.fm^
 ||taylor.gladspring.com^
 ||tics.cortex.gg^
 ||tics.seeker.gg^

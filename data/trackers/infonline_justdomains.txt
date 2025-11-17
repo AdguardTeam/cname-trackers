@@ -264,7 +264,6 @@ data-1c0a3d83e3.transfermarkt.com.tr
 data-1c0a3d83e3.transfermarkt.de
 data-1c0a3d83e3.transfermarkt.es
 data-1c0a3d83e3.transfermarkt.fr
-data-1c0a3d83e3.transfermarkt.it
 data-1c0a3d83e3.transfermarkt.jp
 data-1c0a3d83e3.transfermarkt.mx
 data-1c0a3d83e3.transfermarkt.my
@@ -548,7 +547,6 @@ data-47ee1b0882.capitol-kappeln.de
 data-47ee1b0882.capitol-kornwestheim.de
 data-47ee1b0882.central-dorsten.de
 data-47ee1b0882.cincinnati-muenchen.de
-data-47ee1b0882.cine-chiemgau.de
 data-47ee1b0882.cinema-badsaarow.de
 data-47ee1b0882.cinema-prerow.de
 data-47ee1b0882.cinema64.de
@@ -564,13 +562,11 @@ data-47ee1b0882.filmcenter-dillingen.de
 data-47ee1b0882.filmforum.de
 data-47ee1b0882.filmpalast-sulingen.de
 data-47ee1b0882.ge-kinos.de
-data-47ee1b0882.groebenlichtspiele.de
 data-47ee1b0882.hansakinosyke.de
 data-47ee1b0882.haveltorkino.de
 data-47ee1b0882.hohenstaufenkino.de
 data-47ee1b0882.hollywoodaminn.de
 data-47ee1b0882.holzlandkino.de
-data-47ee1b0882.insel-kinos.de
 data-47ee1b0882.kamp-lintfort.hall-of-fame.website
 data-47ee1b0882.kino-bad-fuessing.de
 data-47ee1b0882.kino-bad-salzuflen.de
@@ -582,7 +578,6 @@ data-47ee1b0882.kino-holzminden.de
 data-47ee1b0882.kino-kelkheim.de
 data-47ee1b0882.kino-meinerzhagen.de
 data-47ee1b0882.kino-meldorf.de
-data-47ee1b0882.kino-movieworld.de
 data-47ee1b0882.kino-oehringen.de
 data-47ee1b0882.kino-oelde.de
 data-47ee1b0882.kino-offingen.de
@@ -598,7 +593,6 @@ data-47ee1b0882.kinonaechte-lueneburg.de
 data-47ee1b0882.kinowelt-online.de
 data-47ee1b0882.kronberger-lichtspiele.de
 data-47ee1b0882.kuki-landau.de
-data-47ee1b0882.kultiplex.de
 data-47ee1b0882.kulturhaus-pritzwalk.de
 data-47ee1b0882.lichtburg-langen.de
 data-47ee1b0882.lichtspiele-grosshabersdorf.de
@@ -1119,7 +1113,6 @@ data-84a0f3455d.transfermarkt.com.tr
 data-84a0f3455d.transfermarkt.de
 data-84a0f3455d.transfermarkt.es
 data-84a0f3455d.transfermarkt.fr
-data-84a0f3455d.transfermarkt.it
 data-84a0f3455d.transfermarkt.jp
 data-84a0f3455d.transfermarkt.mx
 data-84a0f3455d.transfermarkt.my
@@ -1262,7 +1255,6 @@ data-964f7f3f43.boerse-online.de
 data-964f7f3f43.xinfinit.com
 data-96981b4ea8.apps.iocnt.de
 data-96d64cb150.badische-zeitung.de
-data-96d64cb150.bz-ticket.de
 data-96d64cb150.bztrauer.de
 data-96d64cb150.derjobmarkt.de
 data-96d64cb150.fudder.de
@@ -1439,7 +1431,6 @@ data-a85b10211f.rhein-neckar-zeitung.net
 data-a85b10211f.rhein-neckar-zeitung.org
 data-a85b10211f.rnz.de
 data-a85b10211f.rnz.info
-data-a90e364910.rga.de
 data-a91b4f801d.rhoenundsaalepost.de
 data-a91b4f801d.rhoenundstreubote.de
 data-a938ff636c.radioguetersloh.de
@@ -1454,7 +1445,6 @@ data-a9b566d4a7.k.at
 data-a9dcbfdd12.dk-online.de
 data-a9dcbfdd12.noz.de
 data-aa4a1f6eab.apps.iocnt.de
-data-aa5df368fb.landundforst.de
 data-aa67ab16ab.form-werkzeug.de
 data-aa70fe4f08.jam.fm
 data-aac883f83b.offiziellecharts.de
@@ -1482,7 +1472,6 @@ data-ac53158cce.apps.iocnt.de
 data-ac54d3e2fa.boersenblatt.net
 data-ac6a73462f.apps.iocnt.de
 data-ace3993871.gambelino.de
-data-ace3993871.winario.de
 data-ad103030ce.apps.iocnt.de
 data-ad2a62779c.prosiebenmaxx.at
 data-ad8351f80c.outdoor-magazin.com

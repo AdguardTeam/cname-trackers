@@ -46,7 +46,6 @@
 | po.zolivexo.ru | park.realbig.online |
 | push.rabbit.click | park.realbig.online |
 | pushche.rabbit.click | park.realbig.online |
-| r.hjj.pw | park.realbig.online |
 | rb.crimeagc.com | park.realbig.online |
 | rb.mnogodiva.ru | park.realbig.online |
 | rb.slova-accordy.ru | park.realbig.online |
@@ -62,8 +61,6 @@
 | real.dvanadva.ru | park.realbig.online |
 | rott.mazlspqnn.ru | park.realbig.online |
 | servw.bid | park.realbig.online |
-| test.truenat.bid | park.realbig.online |
-| truenat.bid | park.realbig.online |
 | tuesdaysale.bid | park.realbig.online |
 | vi.zolivexo.store | park.realbig.online |
 | workerhome.click | park.realbig.online |
@@ -97,6 +94,5 @@
 | www.rlrt.ru | park.realbig.online |
 | www.siterec.site | park.realbig.online |
 | www.step555.ru | park.realbig.online |
-| www.truenat.bid | park.realbig.online |
 | xxx.extrablocks.ru | park.realbig.online |
 | zbs.etodomendlyareklamy.ru | park.realbig.online |

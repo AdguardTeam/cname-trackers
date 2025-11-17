@@ -22,6 +22,7 @@
 * popupads.b-cdn.net
 * consent.b-cdn.net
 * b-cdn.net
+* starman.fathomdns.com
 
 ## Cloaking domains
 
@@ -308,8 +309,6 @@
 | chicken.redbrushart.com | deprecated-custom-domains.b-cdn.net |
 | chicken.zwei.haus | deprecated-custom-domains.b-cdn.net |
 | chimpanzee.designerdailyreport.com | deprecated-custom-domains.b-cdn.net |
-| chimpanzee.ines-papert.com | deprecated-custom-domains.b-cdn.net |
-| chimpanzee.thestoryengine.co.uk | deprecated-custom-domains.b-cdn.net |
 | chinchilla.68keys.io | deprecated-custom-domains.b-cdn.net |
 | chipmunk.sqltoapi.com | deprecated-custom-domains.b-cdn.net |
 | cicada.wordvested.org | deprecated-custom-domains.b-cdn.net |
@@ -339,13 +338,11 @@
 | crawdad.craiga.id.au | deprecated-custom-domains.b-cdn.net |
 | crawdad.dillonerhardt.com | deprecated-custom-domains.b-cdn.net |
 | crayfish.fansubbing.com | deprecated-custom-domains.b-cdn.net |
-| crayfish.portbanecottagelochtay.co.uk | deprecated-custom-domains.b-cdn.net |
 | crayfish.spotlessconcepts.com | deprecated-custom-domains.b-cdn.net |
 | crayfish.thecatherinewheel.co | deprecated-custom-domains.b-cdn.net |
 | crocodile.rapid-sale.co.uk | deprecated-custom-domains.b-cdn.net |
 | crow.centresustains.com | deprecated-custom-domains.b-cdn.net |
 | crow.claudiakeil.de | deprecated-custom-domains.b-cdn.net |
-| crow.gim.technology | deprecated-custom-domains.b-cdn.net |
 | crow.themarbleking.com | deprecated-custom-domains.b-cdn.net |
 | crow.voracious.dev | deprecated-custom-domains.b-cdn.net |
 | cuckoo.clientrock.app | deprecated-custom-domains.b-cdn.net |
@@ -534,7 +531,6 @@
 | impala.vnv.nl | deprecated-custom-domains.b-cdn.net |
 | ipgeaif.blairmacintyre.me | deprecated-custom-domains.b-cdn.net |
 | jackal.jakerunzer.com | deprecated-custom-domains.b-cdn.net |
-| jackal.thetie.io | deprecated-custom-domains.b-cdn.net |
 | jay.brauerei-egg.at | deprecated-custom-domains.b-cdn.net |
 | jay.howivscode.com | deprecated-custom-domains.b-cdn.net |
 | jcpjfyikk.dogbonemarket.com | deprecated-custom-domains.b-cdn.net |
@@ -622,7 +618,6 @@
 | mackerel.passiveincome.io | deprecated-custom-domains.b-cdn.net |
 | magpie.onething.org | deprecated-custom-domains.b-cdn.net |
 | manatee.biodom.bio | deprecated-custom-domains.b-cdn.net |
-| mandrill.castingcollective.net | deprecated-custom-domains.b-cdn.net |
 | mandrill.yellowfruit.co | deprecated-custom-domains.b-cdn.net |
 | mantaray.bullshitgoggles.com | deprecated-custom-domains.b-cdn.net |
 | marlin.firstline.org | deprecated-custom-domains.b-cdn.net |
@@ -634,7 +629,6 @@
 | marsupial.kymellis.co | deprecated-custom-domains.b-cdn.net |
 | marten.countertype.com | deprecated-custom-domains.b-cdn.net |
 | marten.joqr.co.jp | deprecated-custom-domains.b-cdn.net |
-| marten.supernero.app | deprecated-custom-domains.b-cdn.net |
 | mastodon.internalnewsletters.co | deprecated-custom-domains.b-cdn.net |
 | mastodon.thrustcarbon.com | deprecated-custom-domains.b-cdn.net |
 | meadowlark.hownow.guide | deprecated-custom-domains.b-cdn.net |
@@ -721,7 +715,6 @@
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
 | parrot.alookwithin.ca | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
-| parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
 | peafowl.prod.fyi | deprecated-custom-domains.b-cdn.net |
 | peafowl.projectstrackt.dev | deprecated-custom-domains.b-cdn.net |
@@ -729,7 +722,6 @@
 | penguin.mobiadroit.com | deprecated-custom-domains.b-cdn.net |
 | penguin.revolana.com | deprecated-custom-domains.b-cdn.net |
 | perch.luckydiff.com | deprecated-custom-domains.b-cdn.net |
-| perch.searchwp.com | deprecated-custom-domains.b-cdn.net |
 | perch.stefangasser.com | deprecated-custom-domains.b-cdn.net |
 | pheasant.ampapageorgiou.gr | deprecated-custom-domains.b-cdn.net |
 | pheasant.sonistaging.com | deprecated-custom-domains.b-cdn.net |
@@ -737,7 +729,6 @@
 | pig.curtisherbert.com | deprecated-custom-domains.b-cdn.net |
 | pig.nigano.com | deprecated-custom-domains.b-cdn.net |
 | pig.notion.chat | deprecated-custom-domains.b-cdn.net |
-| pigeon.surtitlesolutions.com | deprecated-custom-domains.b-cdn.net |
 | pigeon.thankyuu.com | deprecated-custom-domains.b-cdn.net |
 | pinniped.quarantinecup.live | deprecated-custom-domains.b-cdn.net |
 | pinniped.resist.bot | deprecated-custom-domains.b-cdn.net |
@@ -798,7 +789,6 @@
 | reindeer.pablomaceda.com | deprecated-custom-domains.b-cdn.net |
 | reptile.o-lit.fr | deprecated-custom-domains.b-cdn.net |
 | reptile.sat.trading | deprecated-custom-domains.b-cdn.net |
-| rhinoceros.codeagain.com | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.krieger.io | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.valeriaborgese.it | deprecated-custom-domains.b-cdn.net |
 | roadrunner.ausmv.com.au | deprecated-custom-domains.b-cdn.net |
@@ -864,7 +854,6 @@
 | spider.capricciocolumbus.org | deprecated-custom-domains.b-cdn.net |
 | spider.scottw.com | deprecated-custom-domains.b-cdn.net |
 | spider.storiesofchang.com | deprecated-custom-domains.b-cdn.net |
-| spoonbill.mumblebox.com | deprecated-custom-domains.b-cdn.net |
 | squid.adart.cc | deprecated-custom-domains.b-cdn.net |
 | squid.antevo.com.au | deprecated-custom-domains.b-cdn.net |
 | squirrel.laravel-mix.com | deprecated-custom-domains.b-cdn.net |
@@ -899,10 +888,8 @@
 | swordfish.hotcross.com | deprecated-custom-domains.b-cdn.net |
 | swordfish.joebuhlig.com | deprecated-custom-domains.b-cdn.net |
 | swordfish.lorem.industries | deprecated-custom-domains.b-cdn.net |
-| swordfish.mattpreston.io | deprecated-custom-domains.b-cdn.net |
 | swordtail.hnh.digital | deprecated-custom-domains.b-cdn.net |
 | swordtail.rockface.io | deprecated-custom-domains.b-cdn.net |
-| swordtail.thocstock.com | deprecated-custom-domains.b-cdn.net |
 | t0ikowg7jg.serverlesslaravelcourse.com | deprecated-custom-domains.b-cdn.net |
 | tahr.componentsui.com | deprecated-custom-domains.b-cdn.net |
 | tahr.happydev.fm | deprecated-custom-domains.b-cdn.net |
@@ -915,7 +902,6 @@
 | tarantula.searchbox.tech | deprecated-custom-domains.b-cdn.net |
 | tarantula.tuxedo.media | deprecated-custom-domains.b-cdn.net |
 | tarsier.emitremmus.com | deprecated-custom-domains.b-cdn.net |
-| tarsier.kriterie.se | deprecated-custom-domains.b-cdn.net |
 | termite.queerburners.org | deprecated-custom-domains.b-cdn.net |
 | tern.daffy.org | deprecated-custom-domains.b-cdn.net |
 | tern.xebel.co | deprecated-custom-domains.b-cdn.net |
@@ -936,7 +922,6 @@
 | toad.frontendmentor.io | deprecated-custom-domains.b-cdn.net |
 | tortoise.allyinteractive.com | deprecated-custom-domains.b-cdn.net |
 | tortoise.mdx.one | deprecated-custom-domains.b-cdn.net |
-| tortoise.trysmartplan.com | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
@@ -981,7 +966,6 @@
 | waterboa.nighttrain.co | deprecated-custom-domains.b-cdn.net |
 | weasel.madebytune.be | deprecated-custom-domains.b-cdn.net |
 | whale.gdebrauwer.dev | deprecated-custom-domains.b-cdn.net |
-| whippet.ianglover.com | deprecated-custom-domains.b-cdn.net |
 | whippet.madewithspark.com | deprecated-custom-domains.b-cdn.net |
 | whippet.miniforetak.no | deprecated-custom-domains.b-cdn.net |
 | whitefish.antonopoulos-stores.gr | deprecated-custom-domains.b-cdn.net |
@@ -1174,6 +1158,20 @@
 | ss.mrmnd.com | ss-mndsrv.b-cdn.net |
 | ss.nwemnd.com | ss-mndsrv.b-cdn.net |
 | ss.nwmnd.com | ss-mndsrv.b-cdn.net |
+| crayfish.portbanecottagelochtay.co.uk | starman.fathomdns.com |
+| crow.gim.technology | starman.fathomdns.com |
+| jackal.thetie.io | starman.fathomdns.com |
+| mandrill.castingcollective.net | starman.fathomdns.com |
+| marten.supernero.app | starman.fathomdns.com |
+| parrotfish.thenping.me | starman.fathomdns.com |
+| pigeon.surtitlesolutions.com | starman.fathomdns.com |
+| rhinoceros.codeagain.com | starman.fathomdns.com |
+| spoonbill.mumblebox.com | starman.fathomdns.com |
+| swordfish.mattpreston.io | starman.fathomdns.com |
+| swordtail.thocstock.com | starman.fathomdns.com |
+| tarsier.kriterie.se | starman.fathomdns.com |
+| tortoise.trysmartplan.com | starman.fathomdns.com |
+| whippet.ianglover.com | starman.fathomdns.com |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.stoic-media.com | unibotscdn.b-cdn.net |
 | cdn.studiosis.in | unibotscdn.b-cdn.net |

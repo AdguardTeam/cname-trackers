@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -800,7 +800,6 @@ stats.warrantynowvoid.com CNAME .
 stats.websnap.app CNAME .
 stats.wecodeni.com CNAME .
 stats.whenpigsflybbq.com CNAME .
-stats.whereisit5pmrightnow.com CNAME .
 stats.wordvested.org CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .
@@ -821,7 +820,6 @@ sts.tour-europe.org CNAME .
 stts.emplution.com CNAME .
 stts.sgab-srfp.ch CNAME .
 stts.swisshranalytics.ch CNAME .
-t.lastcast.fm CNAME .
 taylor.gladspring.com CNAME .
 tics.cortex.gg CNAME .
 tics.seeker.gg CNAME .

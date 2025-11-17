@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -165,6 +165,7 @@ l.lecourriercauchois.fr CNAME .
 l.lecourrierdelamayenne.fr CNAME .
 l.ledauphine.com CNAME .
 l.lefigaro.fr CNAME .
+l.lejdc.fr CNAME .
 l.lejournaldelamaison.fr CNAME .
 l.lejournaldici.com CNAME .
 l.lejsl.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -263,7 +263,6 @@ tr.communication.boursobank.info CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
 tr.communication.eminente.com CNAME .
-tr.communication.enkiapp.io CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
 tr.communication.hennessy.com CNAME .
 tr.communication.hybrigenics.com CNAME .
@@ -645,7 +644,6 @@ tr.lbar.espmp-agfr.net CNAME .
 tr.leads.direct CNAME .
 tr.legrandjeu.boulanger.com CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
-tr.lesmarquesenviedebienmanger.fr CNAME .
 tr.lettre.dechets-infos.com CNAME .
 tr.lettre.durbanparticipations.com CNAME .
 tr.lettre.helianthal.fr CNAME .
@@ -706,7 +704,6 @@ tr.media.harmonie-sante.fr CNAME .
 tr.melhores-propostas.pt CNAME .
 tr.membres.boursobank.info CNAME .
 tr.membres.boursorama.info CNAME .
-tr.mep.enkiapp.io CNAME .
 tr.mes-bonsplans.be CNAME .
 tr.mes-prestataires.fr CNAME .
 tr.message.maaf.fr CNAME .
@@ -827,7 +824,6 @@ tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
 tr.news.editions-lva.fr CNAME .
 tr.news.ekosport-rent.fr CNAME .
-tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
 tr.news.eureden.com CNAME .
 tr.news.eurodatatv.com CNAME .
@@ -933,7 +929,6 @@ tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
 tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
-tr.newsletter-mdh.com CNAME .
 tr.newsletter-stressless.com CNAME .
 tr.newsletter.1664france.fr CNAME .
 tr.newsletter.1oag.com CNAME .

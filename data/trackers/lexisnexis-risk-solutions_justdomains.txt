@@ -451,7 +451,6 @@ content002.bet365.ee
 content002.bet365.es
 content002.bet365.gr
 content002.bet365.it
-content002.bet365.mx
 content002.bet365.nl
 content002.bet365.pe
 content002.bet365.rs
@@ -1157,7 +1156,6 @@ tm.betano.com
 tm.betano.cz
 tm.betano.de
 tm.betano.dk
-tm.betano.mx
 tm.betano.ng
 tm.cbd.ae
 tm.clearcover.com

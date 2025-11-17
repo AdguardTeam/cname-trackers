@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,7 +49,6 @@ park.wpcodes.org CNAME .
 po.zolivexo.ru CNAME .
 push.rabbit.click CNAME .
 pushche.rabbit.click CNAME .
-r.hjj.pw CNAME .
 rb.crimeagc.com CNAME .
 rb.mnogodiva.ru CNAME .
 rb.slova-accordy.ru CNAME .
@@ -65,8 +64,6 @@ real.delovoemesto.ru CNAME .
 real.dvanadva.ru CNAME .
 rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .
-test.truenat.bid CNAME .
-truenat.bid CNAME .
 tuesdaysale.bid CNAME .
 vi.zolivexo.store CNAME .
 workerhome.click CNAME .
@@ -100,6 +97,5 @@ www.rekl1.com CNAME .
 www.rlrt.ru CNAME .
 www.siterec.site CNAME .
 www.step555.ru CNAME .
-www.truenat.bid CNAME .
 xxx.extrablocks.ru CNAME .
 zbs.etodomendlyareklamy.ru CNAME .

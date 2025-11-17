@@ -200,6 +200,7 @@
 | l.lecourriercauchois.fr | tls.non.li |
 | l.lecourrierdelamayenne.fr | tls.non.li |
 | l.lefigaro.fr | tls.non.li |
+| l.lejdc.fr | tls.non.li |
 | l.lejournaldelamaison.fr | tls.non.li |
 | l.lejournaldici.com | tls.non.li |
 | l.lemagauquotidien.com | tls.non.li |

@@ -1178,18 +1178,15 @@
 | www.16211973.xyz | ad-shield.cc |
 | www.17199874.xyz | ad-shield.cc |
 | www.19700902.xyz | ad-shield.cc |
-| www.27714296.xyz | ad-shield.cc |
 | www.29662166.xyz | ad-shield.cc |
 | www.2wu0m0ms098w7148.xyz | ad-shield.cc |
 | www.33109166.xyz | ad-shield.cc |
 | www.35452888.xyz | ad-shield.cc |
-| www.41818491.xyz | ad-shield.cc |
 | www.425kmk7n9wn21pwvl18.xyz | ad-shield.cc |
 | www.42862874.xyz | ad-shield.cc |
 | www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | www.45564736.xyz | ad-shield.cc |
 | www.46222568.xyz | ad-shield.cc |
-| www.47206262.xyz | ad-shield.cc |
 | www.49709796.xyz | ad-shield.cc |
 | www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | www.4tuswl47353p4wl8lsk.xyz | ad-shield.cc |
@@ -1202,7 +1199,6 @@
 | www.62241240.xyz | ad-shield.cc |
 | www.62842068.xyz | ad-shield.cc |
 | www.64786087.xyz | ad-shield.cc |
-| www.65122038.xyz | ad-shield.cc |
 | www.661kkm40uu6srww1mvso.xyz | ad-shield.cc |
 | www.69799884.xyz | ad-shield.cc |
 | www.72891504.xyz | ad-shield.cc |

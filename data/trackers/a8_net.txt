@@ -1508,7 +1508,6 @@
 ||cv.liability.jp^
 ||cv.loca-site.com^
 ||cv.mamaikuko.jp^
-||cv.masteraxis.com^
 ||cv.meo.tryhatch.co.jp^
 ||cv.mupla-ab3.com^
 ||cv.my-lancul.com^

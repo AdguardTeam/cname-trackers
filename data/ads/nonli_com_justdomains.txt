@@ -154,6 +154,7 @@ l.lecourriercauchois.fr
 l.lecourrierdelamayenne.fr
 l.ledauphine.com
 l.lefigaro.fr
+l.lejdc.fr
 l.lejournaldelamaison.fr
 l.lejournaldici.com
 l.lejsl.com

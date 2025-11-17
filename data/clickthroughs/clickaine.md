@@ -106,7 +106,6 @@
 | v040419.badjojo.com | api.clickaine.com |
 | web5603.brandnewapp.pro | api.clickaine.com |
 | wp.brandnewapp.pro | api.clickaine.com |
-| www.bokep.su | api.clickaine.com |
 | www.brandnewapp.pro | api.clickaine.com |
 | www.daws4-3.brandnewapp.pro | api.clickaine.com |
 | www.faq.brandnewapp.pro | api.clickaine.com |
@@ -115,5 +114,6 @@
 | www.telford.brandnewapp.pro | api.clickaine.com |
 | www.web5603.brandnewapp.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
+| xn--api-hn0a.rtnews.pro | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

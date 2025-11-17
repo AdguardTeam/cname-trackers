@@ -307,7 +307,6 @@
 ||web.mapp.whiteaway.no^
 ||web.mapp.whiteaway.se^
 ||web.marcotozzi.com^
-||web.marketing.jellybelly.com^
 ||web.mytoys.de^
 ||web.news.absurdbeauty.com^
 ||web.news.bottegaverde.com^
@@ -407,3 +406,4 @@
 ||wttd.madeleine.fr^
 ||wttd.madeleine.gr^
 ||www.a.jaz-hotel.com^
+||web.marketing.jellybelly.com^

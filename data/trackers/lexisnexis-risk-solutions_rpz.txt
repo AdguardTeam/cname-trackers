@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -462,7 +462,6 @@ content002.bet365.ee CNAME .
 content002.bet365.es CNAME .
 content002.bet365.gr CNAME .
 content002.bet365.it CNAME .
-content002.bet365.mx CNAME .
 content002.bet365.nl CNAME .
 content002.bet365.pe CNAME .
 content002.bet365.rs CNAME .
@@ -1168,7 +1167,6 @@ tm.betano.com CNAME .
 tm.betano.cz CNAME .
 tm.betano.de CNAME .
 tm.betano.dk CNAME .
-tm.betano.mx CNAME .
 tm.betano.ng CNAME .
 tm.cbd.ae CNAME .
 tm.clearcover.com CNAME .

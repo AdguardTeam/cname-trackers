@@ -801,7 +801,6 @@
 | stats.websnap.app | custom.plausible.io |
 | stats.wecodeni.com | custom.plausible.io |
 | stats.whenpigsflybbq.com | custom.plausible.io |
-| stats.whereisit5pmrightnow.com | custom.plausible.io |
 | stats.wordvested.org | custom.plausible.io |
 | stats.world.hey.com | custom.plausible.io |
 | stats.wvs.org.uk | custom.plausible.io |
@@ -822,7 +821,6 @@
 | stts.emplution.com | custom.plausible.io |
 | stts.sgab-srfp.ch | custom.plausible.io |
 | stts.swisshranalytics.ch | custom.plausible.io |
-| t.lastcast.fm | custom.plausible.io |
 | taylor.gladspring.com | custom.plausible.io |
 | tics.cortex.gg | custom.plausible.io |
 | tics.seeker.gg | custom.plausible.io |

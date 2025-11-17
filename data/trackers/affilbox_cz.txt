@@ -885,7 +885,6 @@
 ||partneri.supportbox.cz^
 ||partneri.svetfitness.cz^
 ||partneri.sviicka.cz^
-||partneri.tajomstvochudnutia.sk^
 ||partneri.tanahavlickova.cz^
 ||partneri.tentino.cz^
 ||partneri.toothy.cz^
@@ -926,7 +925,6 @@
 ||provize.mimulo.cz^
 ||provize.pracenasobe.cz^
 ||provize.radynacestu.cz^
-||provize.rychle-pujcky-bez-registru.cz^
 ||provize.snubni-prsten.cz^
 ||provize.vybavenifitness.cz^
 ||provize.wugi.cz^

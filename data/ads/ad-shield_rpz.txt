@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1762761610557        ; Serial
+           1763366409914        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1176,18 +1176,15 @@ www.14381834.xyz CNAME .
 www.16211973.xyz CNAME .
 www.17199874.xyz CNAME .
 www.19700902.xyz CNAME .
-www.27714296.xyz CNAME .
 www.29662166.xyz CNAME .
 www.2wu0m0ms098w7148.xyz CNAME .
 www.33109166.xyz CNAME .
 www.35452888.xyz CNAME .
-www.41818491.xyz CNAME .
 www.425kmk7n9wn21pwvl18.xyz CNAME .
 www.42862874.xyz CNAME .
 www.4547u5qms0m2um3rrum2wuo.xyz CNAME .
 www.45564736.xyz CNAME .
 www.46222568.xyz CNAME .
-www.47206262.xyz CNAME .
 www.49709796.xyz CNAME .
 www.4tr3sopq592o7svp1q6mn3.xyz CNAME .
 www.4tuswl47353p4wl8lsk.xyz CNAME .
@@ -1200,7 +1197,6 @@ www.60576949.xyz CNAME .
 www.62241240.xyz CNAME .
 www.62842068.xyz CNAME .
 www.64786087.xyz CNAME .
-www.65122038.xyz CNAME .
 www.661kkm40uu6srww1mvso.xyz CNAME .
 www.69799884.xyz CNAME .
 www.72891504.xyz CNAME .
