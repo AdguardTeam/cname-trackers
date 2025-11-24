@@ -23,7 +23,6 @@
 | analytics.arunraghavan.net | custom.plausible.io |
 | analytics.basistheory.com | custom.plausible.io |
 | analytics.betterplaces.nl | custom.plausible.io |
-| analytics.certifriedit.com | custom.plausible.io |
 | analytics.churchthemes.com | custom.plausible.io |
 | analytics.codeforscience.org | custom.plausible.io |
 | analytics.codeskulptor.org | custom.plausible.io |
@@ -601,7 +600,6 @@
 | stats.missionrabies.com | custom.plausible.io |
 | stats.moco-comics.com | custom.plausible.io |
 | stats.mostlycoding.com.au | custom.plausible.io |
-| stats.motion-effect.com | custom.plausible.io |
 | stats.motorcyclepartsireland.ie | custom.plausible.io |
 | stats.mrtnvh.com | custom.plausible.io |
 | stats.multiplelenses.com | custom.plausible.io |
@@ -669,7 +667,6 @@
 | stats.pri.org | custom.plausible.io |
 | stats.pricewell.io | custom.plausible.io |
 | stats.principedepaz.gt | custom.plausible.io |
-| stats.print.work | custom.plausible.io |
 | stats.processserver101.com | custom.plausible.io |
 | stats.procumeni.cz | custom.plausible.io |
 | stats.prodtype.com | custom.plausible.io |
@@ -726,7 +723,6 @@
 | stats.shobokshy.com | custom.plausible.io |
 | stats.simplinetworks.com | custom.plausible.io |
 | stats.sirdata.com | custom.plausible.io |
-| stats.sixseven.at | custom.plausible.io |
 | stats.ski.com | custom.plausible.io |
 | stats.socialeurope.eu | custom.plausible.io |
 | stats.southswindon-pc.gov.uk | custom.plausible.io |
@@ -828,7 +824,6 @@
 | tipstats.onepagelove.com | custom.plausible.io |
 | tock.weg.plus | custom.plausible.io |
 | track.slickinbox.com | custom.plausible.io |
-| traffic.hostedstatus.page | custom.plausible.io |
 | traffic.taktikal.is | custom.plausible.io |
 | triton.companyegg.com | custom.plausible.io |
 | usage.growthbook.io | custom.plausible.io |

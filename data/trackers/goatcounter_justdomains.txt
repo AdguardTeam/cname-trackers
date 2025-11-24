@@ -20,6 +20,7 @@ analytics.law.tmchippewa.com
 analytics.law.umitribe.org
 analytics.leespace.co
 analytics.popov.link
+analytics.repath.studio
 analytics.riggraz.dev
 analytics.sanmateo.ca.us.dev.openlawlibrary.us
 analytics.sanmateo.ca.us.open.law
@@ -161,7 +162,6 @@ stats.trainsley69.me
 stats.transactional.blog
 stats.umcconnell.net
 stats.uygar.sh
-stats.wackomenace.co.uk
 stats.whatacools.com
 stats.ybbond.id
 stats.zbahn.de

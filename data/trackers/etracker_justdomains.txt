@@ -29,6 +29,7 @@ ctrl.guenther.de
 customer.growmart.de
 data.diekuechedirekt.de
 data.drhauschka.de
+data.fitx.de
 data.moebel-style.de
 data.runners-kitchen.com
 data.soristudios.de
@@ -146,6 +147,7 @@ mktg.activemind.legal
 monitoring.medizinbedarf.eu
 monitoring.paw-wow.de
 mytrd.orion.at
+node.juve.de
 pse.gabor.com
 ric.arrive-im-herzogpark.de
 ric.contur-muenchen.de
@@ -155,7 +157,6 @@ salzburg.semsea.at
 show.gruppedrei.com
 sltracking.sonderlote.de
 src.vector.com
-sst.cannapoli.de
 sst.grasrezept-vergleich.de
 stat.beetfreunde.de
 statistics.bergland.de
@@ -163,6 +164,7 @@ statistics.finkhof.de
 statistics.firmengruppe-burk.de
 statistics.fruchtbarewelt.de
 statistics.hagnauer.org
+statistics.krohne.com
 statistics.xpedite-dx.com
 stats.die-bibel.de
 stats.eliveshop.de

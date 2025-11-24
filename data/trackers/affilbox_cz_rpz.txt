@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,7 +48,6 @@ affil.gastrofans.cz CNAME .
 affil.hifimarket.cz CNAME .
 affil.hobbytec.cz CNAME .
 affil.jobsik.cz CNAME .
-affil.knihavyhod.cz CNAME .
 affil.knihazenasnov.sk CNAME .
 affil.kralovstvi-tiande.cz CNAME .
 affil.lesgoodies.com CNAME .
@@ -207,9 +206,7 @@ affiliate.levnoshop.cz CNAME .
 affiliate.levsalonu.cz CNAME .
 affiliate.lg-store.cz CNAME .
 affiliate.licit.cz CNAME .
-affiliate.loveo.cz CNAME .
 affiliate.luxor.cz CNAME .
-affiliate.malujememazlicky.cz CNAME .
 affiliate.marketingminer.com CNAME .
 affiliate.martinchudy.sk CNAME .
 affiliate.martinreznicek.cz CNAME .
@@ -818,7 +815,6 @@ partneri.eshop.jarkamatuskova.cz CNAME .
 partneri.espressoenglish.cz CNAME .
 partneri.evolveo.com CNAME .
 partneri.evolveo.cz CNAME .
-partneri.fengshuiacademy.cz CNAME .
 partneri.fitstore.cz CNAME .
 partneri.frcime.cz CNAME .
 partneri.freli.cz CNAME .

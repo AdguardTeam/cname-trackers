@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -257,21 +257,11 @@ web.collisionservices.com CNAME .
 web.communications.amouage.com CNAME .
 web.comunicaciones.toysrus.pt CNAME .
 web.comunicazioni.iol.it CNAME .
-web.crm.speedup.it CNAME .
 web.diebayerische.de CNAME .
 web.e.aldermore.co.uk CNAME .
-web.e.bifoldsales.co.uk CNAME .
-web.e.bolts.co.uk CNAME .
-web.e.compositesales.co.uk CNAME .
-web.e.dekogardensupplies.co.uk CNAME .
-web.e.drainagepipe.co.uk CNAME .
-web.e.guttersupplies.co.uk CNAME .
 web.e.obayaty.com CNAME .
 web.e.panmacmillan.com CNAME .
 web.e.pbslgroup.co.uk CNAME .
-web.e.professionalbuildingsupplies.co.uk CNAME .
-web.e.pvccladding.com CNAME .
-web.e.soakaways.com CNAME .
 web.email.amplifiedclothing.com CNAME .
 web.email.bricocenter.it CNAME .
 web.email.farrow-ball.com CNAME .
@@ -318,6 +308,7 @@ web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
+web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.absurdbeauty.com CNAME .
 web.news.bottegaverde.com CNAME .
@@ -340,7 +331,6 @@ web.online.monnalisa.com CNAME .
 web.pondenhome-mail.com CNAME .
 web.post.toa.st CNAME .
 web.post.toast.co.uk CNAME .
-web.powgen.at CNAME .
 web.powgen.cz CNAME .
 web.powgen.es CNAME .
 web.redazione.italiaoggi.it CNAME .
@@ -417,4 +407,3 @@ wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
 www.a.jaz-hotel.com CNAME .
-web.marketing.jellybelly.com CNAME .

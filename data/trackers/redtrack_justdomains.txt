@@ -196,7 +196,6 @@ go.fallenyetnotforgotten.com
 go.fastautosaver.com
 go.fedhealth.us
 go.fedmedi.us
-go.fimxi.com
 go.foreverhealthyandhappy.com
 go.getrewarded.app
 go.getspartanman.com
@@ -337,10 +336,8 @@ lu9xve2c97l898gjjxv4.bigglobaltravel.com
 lu9xve2c97l898gjjxv4.brain-sharper.com
 lu9xve2c97l898gjjxv4.bridesblush.com
 lu9xve2c97l898gjjxv4.carterfive.com
-lu9xve2c97l898gjjxv4.cleverclassic.com
 lu9xve2c97l898gjjxv4.drivepedia.com
 lu9xve2c97l898gjjxv4.fabcrunch.com
-lu9xve2c97l898gjjxv4.familythis.com
 lu9xve2c97l898gjjxv4.housecultures.com
 lu9xve2c97l898gjjxv4.instantlymodern.com
 lu9xve2c97l898gjjxv4.noteabley.com
@@ -351,10 +348,8 @@ lu9xve2c97l898gjjxv4.simplyurbans.com
 lu9xve2c97l898gjjxv4.sneakertoast.com
 lu9xve2c97l898gjjxv4.spellrock.com
 lu9xve2c97l898gjjxv4.sportinal.com
-lu9xve2c97l898gjjxv4.thedaddest.com
 lu9xve2c97l898gjjxv4.thefashionball.com
 lu9xve2c97l898gjjxv4.unpasted.com
-lu9xve2c97l898gjjxv4.urbanaunty.com
 mail.rtdyotrck.com
 mail4.adgtrk.com
 main.adblock-gold.com
@@ -561,6 +556,7 @@ rtk.trk.seniorburialfounds.com
 rtk.trk.seniorextrabenefits.com
 rtk.trk.seniorpeaceofmind.com
 rtk.trk.seniorplansupdated.com
+rtk.trk.seniorprotectionscenter.com
 rtk.trk.seniorscareamerica.com
 rtk.trk.simplecoveragetoday.com
 rtk.trk.smartexpenseadvisor.com
@@ -574,7 +570,6 @@ rtk.trk.trustedbenefitsusa.com
 rtk.trk.ultimatecoverageplans.com
 rtk.trk.universalbenefitscenter.com
 rtk.trk.unlockhealthplans.com
-rtk.trk.usawellsaver.com
 rtk.trk.vipsaverusa.com
 rtk.trk.wisemoneyguidance.com
 rtk.trk.wisewallettoday.com
@@ -669,6 +664,7 @@ track.clickarc.com
 track.clickstoclients.net
 track.cliktrekbr.com
 track.clubuldeenglezaonline.ro
+track.coupongini.com
 track.coytracking.com
 track.cuidandotusalud.fun
 track.dariuslukas.com
@@ -784,6 +780,7 @@ track.p4l.lol
 track.p4l.today
 track.pandabrands.io
 track.paradigmtrack.com
+track.parcelabc.com
 track.performancegolf.com
 track.pimpbangkok.com
 track.playonouae.com
@@ -806,7 +803,6 @@ track.quickestcoverage.ca
 track.quizinsurance.com
 track.rabbclk.com
 track.reliefontime.com
-track.relievestoday.com
 track.remarkableheadlines.shop
 track.remotemode.com
 track.residentialbenefits.com
@@ -847,9 +843,7 @@ track.thelitlamps.com
 track.thinkmobiles.com
 track.thispowerrise.online
 track.tips2know.net
-track.toptechnews.news
 track.topviverbem.com
-track.totalprotectionuae.com
 track.tracerurlvis.com
 track.trackmate777.com
 track.trackmate888.com
@@ -918,7 +912,6 @@ trck.betterquotespro.com
 trckn.earningseekers.com
 trckr.beatconnect.com
 trending.buzzingfinds.com
-trk.5news.name
 trk.advancedtrkr.com
 trk.alexjoyfullife.com
 trk.alexmega.shop
@@ -1110,7 +1103,6 @@ go.faltenreduzieren.com
 go.karlundlina.de
 go.miro-kredit.ch
 go.removely.de
-go.sonhoelegante.com
 go.varmekoncept.se
 hi.bollsen.co.uk
 hi.bollsen.dk
@@ -1151,7 +1143,6 @@ mdt.slimsyoficial.com
 moose.eldorado.gg
 mr.track.x-booster.energy
 msm.myshopmen.com
-mytracking.cex777.com
 mytracking.sanaor.com
 nelson.packzin.com.br
 nt.biutlifehealth.org
@@ -1174,18 +1165,22 @@ red.marcoshoes.com
 red.swissfx.net
 red.veloureuk.com
 redtk.fitbyyou.com
+redtrack-2.revguru.io
 redtrack.distacart.com
 redtrack.ecodrive.in.ua
 redtrack.godlike.host
 redtrack.klaragroulikova.cz
 redtrack.lyfefuel.com
 redtrack.manset.com.ua
+redtrack.weeshop.dk
 register.astro-palace.com
 route.actec-solar.de
 rt.dispo-seo.com
 rt.quaresmadopadrepio.com
 rt.sanascience.com
 rt.sultanofstyle.de
+rt.vbet.nl
+rt.wagnific.com
 rt2.afiliadosniper.com
 rtattr.skyup.aero
 rtk.dailymentips.com
@@ -1197,6 +1192,7 @@ rtk.toptoon.net
 rtk.webbtoonn.kr
 rtrk.anabolichealth.com
 rtrk.bella-balu.de
+rtrk.faktenzeitung.com
 rtrk.feitenkrant.nl
 rtrk.gartenstadl.de
 rtrk.newsdigestuk.co.uk
@@ -1287,7 +1283,6 @@ track.teflfullcircle.com
 track.thebirdlovers.com
 track.togetherprice.com
 track.toxicasino.com
-track.trackleads.com.au
 track.traktor.fleszbielizna.com
 track.truesource.com.br
 track.vbet.bet.br
@@ -1352,15 +1347,15 @@ pl.trk.quirkalooquotient.com
 pl.trk.wackywonderlandweb.com
 rt.policyfamilyquote.com
 tr.track-myleads.com
-track.24monetize.com
 track.nativead.be
 track.topsolutions.club
 track.trkbtga.com
-trk.acareliefact.org
+trk.getpestdefensepro.com
 trk.saveclever.org
 click.mmotoplay.com
 summitrix.com
 t.aineuralnarrative.com
+track.24monetize.com
 track.glukobestpro.net
 track.routes.name
-trk.getpestdefensepro.com
+trk.acareliefact.org

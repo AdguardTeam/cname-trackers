@@ -337,7 +337,6 @@
 | images.addurance.com | platformiq-cdn.aquaplatform.com |
 | images.etnomedia.nl | platformiq-cdn.aquaplatform.com |
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
-| images.jacilla.no | platformiq-cdn.aquaplatform.com |
 | images.mannenmedia.nl | platformiq-cdn.aquaplatform.com |
 | images.proxena-adserver.com | platformiq-cdn.aquaplatform.com |
 | images.xtraa.org | platformiq-cdn.aquaplatform.com |

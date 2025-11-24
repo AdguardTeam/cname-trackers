@@ -16,7 +16,6 @@
 ||player.resonance.pk^
 ||player.urdupoint.com^
 ||serving.grapemedia.cz^
-||serving.idolmedia360.com^
 ||serving.laimroll.ru^
 ||serving.lookverin.com^
 ||serving.mmmedia-group.com^

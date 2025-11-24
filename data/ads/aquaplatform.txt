@@ -131,7 +131,6 @@
 ||images.goldseek.com^
 ||images.hour-media.com^
 ||images.informatm.com^
-||images.jacilla.no^
 ||images.mannenmedia.nl^
 ||images.proxena-adserver.com^
 ||images.sacommunications.com^

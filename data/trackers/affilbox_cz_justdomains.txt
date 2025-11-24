@@ -37,7 +37,6 @@ affil.gastrofans.cz
 affil.hifimarket.cz
 affil.hobbytec.cz
 affil.jobsik.cz
-affil.knihavyhod.cz
 affil.knihazenasnov.sk
 affil.kralovstvi-tiande.cz
 affil.lesgoodies.com
@@ -196,9 +195,7 @@ affiliate.levnoshop.cz
 affiliate.levsalonu.cz
 affiliate.lg-store.cz
 affiliate.licit.cz
-affiliate.loveo.cz
 affiliate.luxor.cz
-affiliate.malujememazlicky.cz
 affiliate.marketingminer.com
 affiliate.martinchudy.sk
 affiliate.martinreznicek.cz
@@ -807,7 +804,6 @@ partneri.eshop.jarkamatuskova.cz
 partneri.espressoenglish.cz
 partneri.evolveo.com
 partneri.evolveo.cz
-partneri.fengshuiacademy.cz
 partneri.fitstore.cz
 partneri.frcime.cz
 partneri.freli.cz

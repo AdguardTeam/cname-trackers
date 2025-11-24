@@ -10,6 +10,7 @@
     * h-10mkgm4b.online-metrix.net
     * h-11b6fun8cno.online-metrix.net
     * h-12jodw87.online-metrix.net
+    * h-1382cmqz.online-metrix.net
     * h-15dxj0k6.online-metrix.net
     * h-16vzjy52.online-metrix.net
     * h-1d2p5fdt.online-metrix.net
@@ -849,6 +850,7 @@
 | partition.enterprise.com | h-10mkgm4b.online-metrix.net |
 | content.mycno.com | h-11b6fun8cno.online-metrix.net |
 | cdna.tiranabank.al | h-12jodw87.online-metrix.net |
+| rmetrix.superbid.net | h-1382cmqz.online-metrix.net |
 | lnday.sinclair.edu | h-15dxj0k6.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | content.sb.lt | h-1d2p5fdt.online-metrix.net |
@@ -1025,7 +1027,6 @@
 | ep-content.patento.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.vivigo.pl | h-4iibpm7t.online-metrix.net |
 | ep-content.viviraty.pl | h-4iibpm7t.online-metrix.net |
-| ep-content.vivus.pl | h-4iibpm7t.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | ep.heartland.co.nz | h-4kblllmz.online-metrix.net |
 | content.heidipay.com | h-4qqysdfz.online-metrix.net |

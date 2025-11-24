@@ -3,15 +3,18 @@
 ## Disguised trackers list
 
 * affex.org
+    * brillen-de.affex.org
     * daraz-com.affex.org
     * home24-at.affex.org
-    * home24-be.affex.org
-    * home24-it.affex.org
+    * home24-de.affex.org
     * iberostar-com.affex.org
     * jakuli-com.affex.org
     * jumia-cm.affex.org
     * jumia-ma.affex.org
     * jumia-ug.affex.org
+    * lafamo-com.affex.org
+    * mydays-de.affex.org
+    * tr-akipam-com.affex.org
     * tr-brillen-de.affex.org
     * tr-daraz-com-bd.affex.org
     * tr-daraz-lk.affex.org
@@ -25,11 +28,17 @@
     * tr-logitravel-com.affex.org
     * tr-netsalesmedia-pl.affex.org
     * tr-occhiali24-it.affex.org
+    * tr-powuta-com.affex.org
+
+### Rarely active trackers
+
+* traefik-production.secure-traffic.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| net.brillen.de | brillen-de.affex.org |
 | -084-gls-223-www-9-k-0brasil.net.daraz.com | daraz-com.affex.org |
 | -access-logs-1.net.daraz.com | daraz-com.affex.org |
 | -access-logs-3apropmdeizy9vjf.net.daraz.com | daraz-com.affex.org |
@@ -2303,6 +2312,7 @@
 | 1-ns.emailvision.panel.net.daraz.com | daraz-com.affex.org |
 | 1-ns.emailvision.us.net.daraz.com | daraz-com.affex.org |
 | 1-r-is-1-0.0-030.net.daraz.com | daraz-com.affex.org |
+| 1-r-is-1-2.net.daraz.com | daraz-com.affex.org |
 | 1.car21.net.daraz.com | daraz-com.affex.org |
 | 1.ebs-partner.net.daraz.com | daraz-com.affex.org |
 | 10-kubemarketing.net.daraz.com | daraz-com.affex.org |
@@ -2345,7 +2355,6 @@
 | 123pago-apidocsvc.docapidocs.net.daraz.com | daraz-com.affex.org |
 | 123pago-backendvc.docbackend.net.daraz.com | daraz-com.affex.org |
 | 123pago-backupsoginvc.docbackupsogin.net.daraz.com | daraz-com.affex.org |
-| 123pago-billinginvc.docbillingin.net.daraz.com | daraz-com.affex.org |
 | 123pago-car21cvc.doccar21c.net.daraz.com | daraz-com.affex.org |
 | 123pago-csr41c.docs.net.daraz.com | daraz-com.affex.org |
 | 123pago-docloginvc.docdoclogin.net.daraz.com | daraz-com.affex.org |
@@ -2779,7 +2788,6 @@
 | ae2-movil-dr02.net.daraz.com | daraz-com.affex.org |
 | ae2-pre-bmsfw3-pre-bmsr02.net.daraz.com | daraz-com.affex.org |
 | ae2-s1-dr02.net.daraz.com | daraz-com.affex.org |
-| ae2-surveyfw3-surveyr02.net.daraz.com | daraz-com.affex.org |
 | ae2-v2fw3-v2r02.net.daraz.com | daraz-com.affex.org |
 | ae29-art-dr01.net.daraz.com | daraz-com.affex.org |
 | ae29-dnsjc12-dr01.net.daraz.com | daraz-com.affex.org |
@@ -3738,7 +3746,6 @@
 | dssl.ns.emailvisistaff.authenticate.net.daraz.com | daraz-com.affex.org |
 | dssl.ns.emailvisiwebdisk.authenticate.net.daraz.com | daraz-com.affex.org |
 | dssl.ns.emailvmsoidion.authenticate.net.daraz.com | daraz-com.affex.org |
-| dssl.ns.emailvzzpa3e62zt91c04rion.authenticate.net.daraz.com | daraz-com.affex.org |
 | dssl.ns.emajulylvjulysjulyon.authentjulycate.net.daraz.com | daraz-com.affex.org |
 | dssl.ns.emfoodilvision.fooduthenticfoodte.net.daraz.com | daraz-com.affex.org |
 | dssl.ns.emiopaccountlvision.authenticate.net.daraz.com | daraz-com.affex.org |
@@ -3939,7 +3946,6 @@
 | kubemarketingxspace.net.daraz.com | daraz-com.affex.org |
 | kubemasellerpackagingketing.net.daraz.com | daraz-com.affex.org |
 | laboratories-manage.lib-oa-1.net.daraz.com | daraz-com.affex.org |
-| laboratorio123pago-loginvc.doclogin.net.daraz.com | daraz-com.affex.org |
 | latin-ns2.viviotech.net.daraz.com | daraz-com.affex.org |
 | lax1.ns3.mobilecl.bellsouth.net.daraz.com | daraz-com.affex.org |
 | lazada-sg-2zzpa3e62zt91c04r.administrator.net.daraz.com | daraz-com.affex.org |
@@ -3965,11 +3971,9 @@
 | manage.azure.lib-oa-1.net.daraz.com | daraz-com.affex.org |
 | manage.erdektarim-lib-oa-1.net.daraz.com | daraz-com.affex.org |
 | manage.frontpage-partner.net.daraz.com | daraz-com.affex.org |
-| manage.lib-oa-1.turk.net.daraz.com | daraz-com.affex.org |
 | manage.lib-oa-1folders.net.daraz.com | daraz-com.affex.org |
 | manage.lib-oa-music.net.daraz.com | daraz-com.affex.org |
 | manage.lib-oa-ops.net.daraz.com | daraz-com.affex.org |
-| manage.n-switch.net.daraz.com | daraz-com.affex.org |
 | manage.qlikview.lib-oa-1.net.daraz.com | daraz-com.affex.org |
 | manage.wslib-oa-1.net.daraz.com | daraz-com.affex.org |
 | manage23pago-svc.docs.net.daraz.com | daraz-com.affex.org |
@@ -3980,7 +3984,6 @@
 | management-application-salting.net.daraz.com | daraz-com.affex.org |
 | management-application-spappsing.net.daraz.com | daraz-com.affex.org |
 | management-application-spring-alimebot.net.daraz.com | daraz-com.affex.org |
-| management-application-spring-helpdesk.net.daraz.com | daraz-com.affex.org |
 | management-application-spring.k.net.daraz.com | daraz-com.affex.org |
 | management-application-spring.sandbox.net.daraz.com | daraz-com.affex.org |
 | management-application-springmeta01.net.daraz.com | daraz-com.affex.org |
@@ -4347,7 +4350,6 @@
 | sitebuildercsr41.application.net.daraz.com | daraz-com.affex.org |
 | sjaidoitruy-doitruy.emailvision.net.daraz.com | daraz-com.affex.org |
 | sjc12draganddropobjects.net.daraz.com | daraz-com.affex.org |
-| skidns1oitruy-dns1oitruy.emailvision.net.daraz.com | daraz-com.affex.org |
 | skidoboardruy-doboardruy.emailvision.net.daraz.com | daraz-com.affex.org |
 | skidoitimogenuy-doitimogenuy.emailvision.net.daraz.com | daraz-com.affex.org |
 | skidoitrcpy-doitrcpy.emailvision.net.daraz.com | daraz-com.affex.org |
@@ -4380,7 +4382,6 @@
 | skidoitruy-doitruy.testing1emailvision.net.daraz.com | daraz-com.affex.org |
 | skidoitruy-sjc12-dr01.net.daraz.com | daraz-com.affex.org |
 | skidoitruy.ebs.10-marketing.net.daraz.com | daraz-com.affex.org |
-| skimailserver-mailserver.emailvision.net.daraz.com | daraz-com.affex.org |
 | sklearningportaloitruy-doitruy.emailvision.net.daraz.com | daraz-com.affex.org |
 | skmailadminoitruy-doitruy.emailvision.net.daraz.com | daraz-com.affex.org |
 | smanagement-application-springidoitruy-doitruy.emailvision.net.daraz.com | daraz-com.affex.org |
@@ -4438,7 +4439,6 @@
 | stage-ugkumondabji.net.daraz.com | daraz-com.affex.org |
 | stage-ugphotoshop.net.daraz.com | daraz-com.affex.org |
 | stage-ugportal-ememoastaging.net.daraz.com | daraz-com.affex.org |
-| stage-ugportal-screenshare.net.daraz.com | daraz-com.affex.org |
 | stage-ugportal-stagingtubeunblock.net.daraz.com | daraz-com.affex.org |
 | stage-ugportal-zerommd.net.daraz.com | daraz-com.affex.org |
 | stage-ugportal1buketstaging.net.daraz.com | daraz-com.affex.org |
@@ -4573,7 +4573,6 @@
 | staging-alifathilawyer.net.daraz.com | daraz-com.affex.org |
 | staging-atidstage.naruspot.net.daraz.com | daraz-com.affex.org |
 | staging-authstaging.rail.net.daraz.com | daraz-com.affex.org |
-| staging-bejav-dictus-stage.net.daraz.com | daraz-com.affex.org |
 | staging-bejav-eparking.net.daraz.com | daraz-com.affex.org |
 | staging-bejav-stagingmlearn.net.daraz.com | daraz-com.affex.org |
 | staging-bejav-starboardcruise.net.daraz.com | daraz-com.affex.org |
@@ -4617,9 +4616,7 @@
 | staging-csprod-ss.bullshit77.net.daraz.com | daraz-com.affex.org |
 | staging-csprod-ss.dadonwang-stage.net.daraz.com | daraz-com.affex.org |
 | staging-csprod-ss.goddardusedautosales-stage.net.daraz.com | daraz-com.affex.org |
-| staging-csprod-ss.heimwerker.net.daraz.com | daraz-com.affex.org |
 | staging-csprod-ss.stagesjcandy0208.net.daraz.com | daraz-com.affex.org |
-| staging-csprod-ss.stagingacfashion.net.daraz.com | daraz-com.affex.org |
 | staging-csprod-ss.starboardcruise.net.daraz.com | daraz-com.affex.org |
 | staging-csprod-ssstagemybooster.net.daraz.com | daraz-com.affex.org |
 | staging-csprod-ssstageobong.net.daraz.com | daraz-com.affex.org |
@@ -4650,13 +4647,11 @@
 | staging-gulonunmutfagindan.net.daraz.com | daraz-com.affex.org |
 | staging-hanage.net.daraz.com | daraz-com.affex.org |
 | staging-hankakuwalker.net.daraz.com | daraz-com.affex.org |
-| staging-pull-drzlive-partner.net.daraz.com | daraz-com.affex.org |
 | staging.ae29-sjc12-dr01.net.daraz.com | daraz-com.affex.org |
 | staging12ube-partner.net.daraz.com | daraz-com.affex.org |
 | static-mgmt.partner.net.daraz.com | daraz-com.affex.org |
 | static.net.daraz.com | daraz-com.affex.org |
 | summer-patner.net.daraz.com | daraz-com.affex.org |
-| summermanage.lib-oa-1.net.daraz.com | daraz-com.affex.org |
 | support-cloudfrontcar31.net.daraz.com | daraz-com.affex.org |
 | svc-01-caauthenticate21-10-authenticate-oa-1.net.daraz.com | daraz-com.affex.org |
 | svc.manage.lib-oa-1.net.daraz.com | daraz-com.affex.org |
@@ -4681,14 +4676,12 @@
 | twtelecom-prueba.azure.net.daraz.com | daraz-com.affex.org |
 | twtelecom-sftp.azure.net.daraz.com | daraz-com.affex.org |
 | twtelecom.api-docs-azure.net.daraz.com | daraz-com.affex.org |
-| twtelecom.aunixure.net.daraz.com | daraz-com.affex.org |
 | twtelecom.azimailre.net.daraz.com | daraz-com.affex.org |
 | twtelecom.azuc2se.net.daraz.com | daraz-com.affex.org |
 | twtelecom.azuqqe.net.daraz.com | daraz-com.affex.org |
 | twtelecom.azure-pre-retail.net.daraz.com | daraz-com.affex.org |
 | twtelecom.azure.cms.net.daraz.com | daraz-com.affex.org |
 | twtelecom.azure.erp.net.daraz.com | daraz-com.affex.org |
-| twtelecom.azurecdnpre.net.daraz.com | daraz-com.affex.org |
 | twtelecom.jira-azure.net.daraz.com | daraz-com.affex.org |
 | twtelecom.latinamerica-azure.net.daraz.com | daraz-com.affex.org |
 | twtelecom.msgx.azure.net.daraz.com | daraz-com.affex.org |
@@ -4705,6 +4698,7 @@
 | uo1nftzjljzdfuq5.doclogin.net.daraz.com | daraz-com.affex.org |
 | ut.administrators.net.daraz.com | daraz-com.affex.org |
 | utmanagement-application-spring.net.daraz.com | daraz-com.affex.org |
+| v113.net.daraz.com | daraz-com.affex.org |
 | v1twtelecom.azure.net.daraz.com | daraz-com.affex.org |
 | v2-gheraction.net.daraz.com | daraz-com.affex.org |
 | v2-interaction-socialx.net.daraz.com | daraz-com.affex.org |
@@ -4720,7 +4714,6 @@
 | v2-interactipre-pull-drzliven.net.daraz.com | daraz-com.affex.org |
 | v2-interactisqlserver.net.daraz.com | daraz-com.affex.org |
 | v2-intezong-stagingction.net.daraz.com | daraz-com.affex.org |
-| v2-vps1.net.daraz.com | daraz-com.affex.org |
 | vaultbellsouth.administrator.net.daraz.com | daraz-com.affex.org |
 | vaulttelecom.azure.net.daraz.com | daraz-com.affex.org |
 | vc-ns2.viviotech.net.daraz.com | daraz-com.affex.org |
@@ -4753,6 +4746,7 @@
 | www-123pago.rgsdocker.net.daraz.com | daraz-com.affex.org |
 | www-gw.applications.net.daraz.com | daraz-com.affex.org |
 | www-linux.rgsdocker.net.daraz.com | daraz-com.affex.org |
+| www-qlikview.applications.net.daraz.com | daraz-com.affex.org |
 | www-uat-oneloadpk.rgsdocker.net.daraz.com | daraz-com.affex.org |
 | www-ut.partner.net.daraz.com | daraz-com.affex.org |
 | www.01-car21-10-r-oa-1.rgsdocker.net.daraz.com | daraz-com.affex.org |
@@ -4777,7 +4771,6 @@
 | www.rgsdocker.cloudfront.net.daraz.com | daraz-com.affex.org |
 | www.rgsdockermarketingpush.net.daraz.com | daraz-com.affex.org |
 | www.rgsdockermysql.net.daraz.com | daraz-com.affex.org |
-| www.rgsf8ocker.net.daraz.com | daraz-com.affex.org |
 | www.sportgsdockesport.net.daraz.com | daraz-com.affex.org |
 | www.spyder-ui-prod-rgsdocker.net.daraz.com | daraz-com.affex.org |
 | www01chd-www.partner.net.daraz.com | daraz-com.affex.org |
@@ -4787,7 +4780,6 @@
 | x.kube-partner.net.daraz.com | daraz-com.affex.org |
 | zabbix-ns.emailvision.panel.net.daraz.com | daraz-com.affex.org |
 | zamestnavatel-stagestage-bollyshare.net.daraz.com | daraz-com.affex.org |
-| zamestnavatel.stage-ugportal.net.daraz.com | daraz-com.affex.org |
 | zanjan.stage-bitchop.net.daraz.com | daraz-com.affex.org |
 | zanjan.stage-mhb-dhcp.net.daraz.com | daraz-com.affex.org |
 | zatapi.freshmaza.net.daraz.com | daraz-com.affex.org |
@@ -4820,9 +4812,9 @@
 | zimbra-ns.labemailvision.net.daraz.com | daraz-com.affex.org |
 | zimbranewnautilus12345proxy3.net.daraz.com | daraz-com.affex.org |
 | zimbraupportfreya.net.daraz.com | daraz-com.affex.org |
-| zlmlkcbykclk.stage-esattamatka.net.daraz.com | daraz-com.affex.org |
 | zm.51-lib-oa-3-staginginistrators-csr40.net.daraz.com | daraz-com.affex.org |
 | zmr07.net.daraz.com | daraz-com.affex.org |
+| zong-chd-www.partner.net.daraz.com | daraz-com.affex.org |
 | zong-help-berndpulchmedotcom.net.daraz.com | daraz-com.affex.org |
 | zong-sftp-demo.lib-ln-1.net.daraz.com | daraz-com.affex.org |
 | zong-sftp.beta-aws.net.daraz.com | daraz-com.affex.org |
@@ -4831,6 +4823,7 @@
 | zong-stagingbejav.net.daraz.com | daraz-com.affex.org |
 | zong-stagingkube-partner.net.daraz.com | daraz-com.affex.org |
 | zong-stagingpidocskeele-nnw-leis-mc-leis.net.daraz.com | daraz-com.affex.org |
+| zongn-switch.net.daraz.com | daraz-com.affex.org |
 | zoomir-staging-cointoon.net.daraz.com | daraz-com.affex.org |
 | zoomir-staging-stagingparmakla.net.daraz.com | daraz-com.affex.org |
 | zsp-staging.ysr.net.daraz.com | daraz-com.affex.org |
@@ -4862,7 +4855,6 @@
 | zzpa3e62zt91c04r.administratorstage.net.daraz.com | daraz-com.affex.org |
 | zzpa3e62zt91c04r.dropadministrator.net.daraz.com | daraz-com.affex.org |
 | zzpa3e62zt91c04r.n.net.daraz.com | daraz-com.affex.org |
-| zzpa3e62zt91c04r.preview.net.daraz.com | daraz-com.affex.org |
 | zzpa3e62zt91c04r.s-administrator.net.daraz.com | daraz-com.affex.org |
 | zzpa3e62zt91c04r.samples.administrator.net.daraz.com | daraz-com.affex.org |
 | zzpa3e62zt91c04r.vortex-administrator.net.daraz.com | daraz-com.affex.org |
@@ -4875,13 +4867,20 @@
 | zzprg3e62zt91c04r.rgdministrrgtor.net.daraz.com | daraz-com.affex.org |
 | zzsecopsa3e62zt91c04r.administrator.net.daraz.com | daraz-com.affex.org |
 | net.home24.at | home24-at.affex.org |
-| net.home24.be | home24-be.affex.org |
-| net.home24.it | home24-it.affex.org |
+| 2marketing-docs.net.home24.de | home24-de.affex.org |
 | et-3-0-2.gw1.mia19.alter.net.iberostar.com | iberostar-com.affex.org |
 | r.jakuli.com | jakuli-com.affex.org |
 | net35.net.jumia.cm | jumia-cm.affex.org |
 | net.jumia.ma | jumia-ma.affex.org |
 | net.jumia.ug | jumia-ug.affex.org |
+| r.lafamo.com | lafamo-com.affex.org |
+| 252fdropbox-2.net.mydays.de | mydays-de.affex.org |
+| 255fwevideoeumail.net.mydays.de | mydays-de.affex.org |
+| 2dhmpisq.net.mydays.de | mydays-de.affex.org |
+| 2dollarearrings.net.mydays.de | mydays-de.affex.org |
+| 2fevernote-6-2.net.mydays.de | mydays-de.affex.org |
+| 2fwww1.net.mydays.de | mydays-de.affex.org |
+| atlas.r.akipam.com | tr-akipam-com.affex.org |
 | marketing.net.brillen.de | tr-brillen-de.affex.org |
 | marketing.net.daraz.com.bd | tr-daraz-com-bd.affex.org |
 | marketing.net.daraz.lk | tr-daraz-lk.affex.org |
@@ -4895,3 +4894,6 @@
 | ssl.affiliate.logitravel.com | tr-logitravel-com.affex.org |
 | marketing.tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
 | marketing.net.occhiali24.it | tr-occhiali24-it.affex.org |
+| pluto.r.powuta.com | tr-powuta-com.affex.org |
+| net.home24.be | traefik-production.secure-traffic.com |
+| net.home24.it | traefik-production.secure-traffic.com |

@@ -111,6 +111,8 @@ click-v4.expdirclk.com
 click-v4.expilaclkdir.com
 click-v4.explodasclksec.com
 click-v4.explodclikmn.com
+click-v4.explodnmainclck.com
+click-v4.expmclck.com
 click-v4.expmidclk.com
 click-v4.expoclknu.com
 click-v4.fiddirexol.com
@@ -126,6 +128,7 @@ click-v4.mainexclkdir.com
 click-v4.mainexdircllk.com
 click-v4.mainexpclkdir.com
 click-v4.mediacpc.com
+click-v4.mkrclkuno.com
 click-v4.plarimocl.com
 click-v4.plarimoexocli.com
 click-v4.plclick.com
@@ -154,6 +157,7 @@ click.exmnclk.com
 click.exoclkneu.com
 click.expdirclk.com
 click.explodasclksec.com
+click.expmclck.com
 click.expmidclk.com
 click.expoclknu.com
 click.fiddirexol.com
@@ -344,7 +348,6 @@ filter-eu.blasti.download
 filter-eu.blastmedia.site
 filter-eu.boffoadsfeeds.com
 filter-eu.cachegorilla.com
-filter-eu.cerineas.com
 filter-eu.clickmeniaads.com
 filter-eu.clickmi.net
 filter-eu.clixcrafts.com
@@ -497,7 +500,6 @@ filter.boffoads.com
 filter.boffoadsfeeds.com
 filter.boostadtraffic.com
 filter.cachegorilla.com
-filter.cerineas.com
 filter.clickmenia.com
 filter.clickmeniaads.com
 filter.clickmi.net
@@ -1594,28 +1596,23 @@ sm-rtb-useast.zmdvideo.com
 staging.yeesshh.com
 static-rtb2.affinity.net
 static-rtb2.branchdsp.io
+static-rtb2.n-data.io
 static-rtb2.newchallenges-dsp.com
 static-rtb2.reachableads.com
-static.152media.cloud
-static.ad2click.in
 static.adright.co
-static.adsolut.in
-static.afkwa.com
-static.creativethingsdoneright.top
+static.aserve1.net
+static.creativedot.net
 static.displayio.cloud
 static.ezmob.com
 static.openrtb.in
-static.pdn-1.com
 static.pressize.com
 static.pushub.net
 static.qualiclicks.com
 static.rtbserve.io
-static.servsserverz.com
-static.sflyingdownthe.com
 static.smoads.com
+static.srvqck21.com
 static.srvqck24.com
 static.theardent.group
-static.yieldradius.io
 sub-eu-v4.adzgame.com
 sub-eu.adzgame.com
 sub-v4.adzgame.com
@@ -1680,6 +1677,7 @@ tq.foseller-a.online
 tq.foseller-c.online
 tq.foseller-d.online
 tq.grantdk-1.online
+tq.grantdk-2.online
 tq.iforcircles-1.online
 tq.iforcircles-2.online
 tq.ldnpointer.online
@@ -1862,6 +1860,7 @@ xml-eu-v4.fstsrv11.com
 xml-eu-v4.fstsrv9.com
 xml-eu-v4.goclickz.net
 xml-eu-v4.grantdk-1.online
+xml-eu-v4.grantdk-2.online
 xml-eu-v4.h12ads.net
 xml-eu-v4.hawkads.in
 xml-eu-v4.high-on-ads.com
@@ -2092,6 +2091,7 @@ xml-v4.adtapmedia.com
 xml-v4.adtube.media
 xml-v4.adverttise.com
 xml-v4.advlistings.com
+xml-v4.adxcircle.com
 xml-v4.adxpoint.com
 xml-v4.adzgame.com
 xml-v4.adzinx.com
@@ -2162,6 +2162,7 @@ xml-v4.fstsrv9.com
 xml-v4.glcsrv.com
 xml-v4.goclickz.net
 xml-v4.grantdk-1.online
+xml-v4.grantdk-2.online
 xml-v4.hawkads.in
 xml-v4.hetcash.com
 xml-v4.high-on-ads.com
@@ -2247,6 +2248,7 @@ xml-v4.swelltomedia.com
 xml-v4.tat-adz.com
 xml-v4.techdoor.com
 xml-v4.tenxads.com
+xml-v4.thebidex.net
 xml-v4.thenetwork18.com
 xml-v4.topdealad.com
 xml-v4.topsolutionsmedia.com
@@ -2388,6 +2390,7 @@ xml.domxexitize.com
 xml.droundhertou.com
 xml.edgexml.com
 xml.eflewrounda.com
+xml.eforeukandth.com
 xml.efullofeedshe.org
 xml.eopuzol1.online
 xml.epikads.com
@@ -2424,6 +2427,7 @@ xml.getruncathoomes.com
 xml.glcsrv.com
 xml.goclickz.net
 xml.grantdk-1.online
+xml.grantdk-2.online
 xml.heautumncam.org
 xml.hefeltlonelya.org
 xml.hehasnoconv.org
@@ -2610,6 +2614,7 @@ xml.uptowntraction.com
 xml.userwave.com
 xml.valueklicks.com
 xml.vashoot.com
+xml.vementxviewsin.com
 xml.verafterabigyel.com
 xml.verrippleshiswa.com
 xml.verwasquitefu.org
@@ -2665,11 +2670,13 @@ static-analytics.nativeads.com
 static-rtb.vespymedia.com
 static-xml.vespymedia.com
 static.100conversions.com
+static.152media.cloud
 static.9versemedia.com
 static.a1.0network.com
 static.acertb.com
 static.ad-maven.com
 static.ad.iadxchange.com
+static.ad2click.in
 static.adapace.com
 static.adbidglobal.com
 static.adbite.com
@@ -2702,6 +2709,7 @@ static.adsbuyclick.com
 static.adscholars.com
 static.adsfloow.net
 static.adsimilate.com
+static.adsolut.in
 static.adsupplyexchange.com
 static.adtapmedia.com
 static.advertruth.com
@@ -2713,6 +2721,7 @@ static.adxpoint.com
 static.adzealous.com
 static.adzestocp.com
 static.adzreach.com
+static.afkwa.com
 static.ak.bonanza.com
 static.altavara.co
 static.altitudemarketing.com
@@ -2725,7 +2734,6 @@ static.applixir.com
 static.appocean.media
 static.arbigo.com
 static.arvardsusyseinpo.com
-static.aserve1.net
 static.audience.media
 static.audiencedevelopers.com
 static.axetechnology.in
@@ -2756,7 +2764,7 @@ static.conxstream.com
 static.coupontic.com
 static.cpmvibes.com
 static.cranberryads.com
-static.creativedot.net
+static.creativethingsdoneright.top
 static.critic.media
 static.ctrtraffic.com
 static.cue7ven.com
@@ -2845,6 +2853,7 @@ static.ovewiththem.com
 static.paddlewaver.com
 static.panel-bid.com
 static.pareto21.com
+static.pdn-1.com
 static.pixelpluses.com
 static.plarimoplus.com
 static.popmonetizer.com
@@ -2892,6 +2901,8 @@ static.serving-hecity.com
 static.serving-lewov.com
 static.serving-nightth.com
 static.serving-sfriends.com
+static.servsserverz.com
+static.sflyingdownthe.com
 static.shall-bid.com
 static.shenwhentheau.org
 static.shook-bid.com
@@ -2912,7 +2923,6 @@ static.srvqck18.com
 static.srvqck19.com
 static.srvqck2.com
 static.srvqck20.com
-static.srvqck21.com
 static.srvqck22.com
 static.srvqck23.com
 static.srvqck3.com
@@ -2971,6 +2981,7 @@ static.xmlwolf.com
 static.xrtb.io
 static.xyconversation.org
 static.yhisladyloveheh.org
+static.yieldradius.io
 static.yrelationsan.org
 static.zaimads.com
 static.zentrixads.com
@@ -3009,7 +3020,6 @@ static-rtb2.jambojar.com
 static-rtb2.magixengage.com
 static-rtb2.mediarise.io
 static-rtb2.mytrendingstories.com
-static-rtb2.n-data.io
 static-rtb2.onenativeads.com
 static-rtb2.programmatics.net
 static-rtb2.push-sense.com

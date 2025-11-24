@@ -7,19 +7,21 @@
 ### Rarely active trackers
 
 * form.bp01.net
+* f1.mailperf.com
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
+* tr1.bp06.net
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
+| f1.mperf.com | f1.mailperf.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
 | f1.mailperformance.com | form.bp01.net |
-| f1.mperf.com | form.bp01.net |
 | f1.np6.com | form.bp01.net |
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
@@ -27,6 +29,7 @@
 | s.gemy.fr | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
+| tr6.mperf.com | tr1.bp06.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
@@ -529,7 +532,6 @@
 | tr.info.aliae.com | tracking.bp01.net |
 | tr.info.aprr.fr | tracking.bp01.net |
 | tr.info.arialcnp.fr | tracking.bp01.net |
-| tr.info.astermod.net | tracking.bp01.net |
 | tr.info.aussois.com | tracking.bp01.net |
 | tr.info.bessans.com | tracking.bp01.net |
 | tr.info.bonneval-sur-arc.com | tracking.bp01.net |
@@ -1256,7 +1258,6 @@
 | tr4.mailperf.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
 | tr5.mperf.com | tracking.bp01.net |
-| tr6.mperf.com | tracking.bp01.net |
 | www.fodgfip.fr | tracking.bp01.net |
 | www.newsletter.banquepopulaire.fr | tracking.bp01.net |
 | www.np6.eu | tracking.bp01.net |

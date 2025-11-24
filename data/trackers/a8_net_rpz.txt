@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -279,7 +279,6 @@ a8.sara-uv.com CNAME .
 a8.schecon.com CNAME .
 a8.seifu-ac.jp CNAME .
 a8.seminarshelf.com CNAME .
-a8.sennendo.jp CNAME .
 a8.sharefull.com CNAME .
 a8.shikaketegami.com CNAME .
 a8.shikigaku.jp CNAME .

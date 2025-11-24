@@ -282,7 +282,6 @@
 | a8.schecon.com | trck.a8.net |
 | a8.seifu-ac.jp | trck.a8.net |
 | a8.seminarshelf.com | trck.a8.net |
-| a8.sennendo.jp | trck.a8.net |
 | a8.sharefull.com | trck.a8.net |
 | a8.shikaketegami.com | trck.a8.net |
 | a8.shikigaku.jp | trck.a8.net |

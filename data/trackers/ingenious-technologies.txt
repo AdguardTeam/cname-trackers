@@ -2273,6 +2273,7 @@
 ||1-ns.emailvision.panel.net.daraz.com^
 ||1-ns.emailvision.us.net.daraz.com^
 ||1-r-is-1-0.0-030.net.daraz.com^
+||1-r-is-1-2.net.daraz.com^
 ||1.car21.net.daraz.com^
 ||1.ebs-partner.net.daraz.com^
 ||10-kubemarketing.net.daraz.com^
@@ -2315,7 +2316,6 @@
 ||123pago-apidocsvc.docapidocs.net.daraz.com^
 ||123pago-backendvc.docbackend.net.daraz.com^
 ||123pago-backupsoginvc.docbackupsogin.net.daraz.com^
-||123pago-billinginvc.docbillingin.net.daraz.com^
 ||123pago-car21cvc.doccar21c.net.daraz.com^
 ||123pago-csr41c.docs.net.daraz.com^
 ||123pago-docloginvc.docdoclogin.net.daraz.com^
@@ -2600,8 +2600,15 @@
 ||21.0-00d300000000t9beau.net.daraz.com^
 ||210.dcsportal.0-01-lib-oa-1-cf23region.net.daraz.com^
 ||24c6y06yxmetccjz.partner-pay.net.daraz.com^
+||252fdropbox-2.net.mydays.de^
+||255fwevideoeumail.net.mydays.de^
 ||25b3jap28y1jezni.net.daraz.com^
 ||2a6jk46shfyp0lxg.administrators.net.daraz.com^
+||2dhmpisq.net.mydays.de^
+||2dollarearrings.net.mydays.de^
+||2fevernote-6-2.net.mydays.de^
+||2fwww1.net.mydays.de^
+||2marketing-docs.net.home24.de^
 ||2mhesk294m2fhou5.docs.net.daraz.com^
 ||2nq7m57at7uxoi9e.administrators.net.daraz.com^
 ||2psagenglegacy.0-030.net.daraz.com^
@@ -2749,7 +2756,6 @@
 ||ae2-movil-dr02.net.daraz.com^
 ||ae2-pre-bmsfw3-pre-bmsr02.net.daraz.com^
 ||ae2-s1-dr02.net.daraz.com^
-||ae2-surveyfw3-surveyr02.net.daraz.com^
 ||ae2-v2fw3-v2r02.net.daraz.com^
 ||ae29-art-dr01.net.daraz.com^
 ||ae29-dnsjc12-dr01.net.daraz.com^
@@ -2933,6 +2939,7 @@
 ||aserver-core-authenticate.net.daraz.com^
 ||aserverv2-interaction.net.daraz.com^
 ||assetsvops-ns2.viviotech.net.daraz.com^
+||atlas.r.akipam.com^
 ||atlasv2-interaction.net.daraz.com^
 ||autdfw3orization.summer.net.daraz.com^
 ||authealimeboticate.net.daraz.com^
@@ -3708,7 +3715,6 @@
 ||dssl.ns.emailvisistaff.authenticate.net.daraz.com^
 ||dssl.ns.emailvisiwebdisk.authenticate.net.daraz.com^
 ||dssl.ns.emailvmsoidion.authenticate.net.daraz.com^
-||dssl.ns.emailvzzpa3e62zt91c04rion.authenticate.net.daraz.com^
 ||dssl.ns.emajulylvjulysjulyon.authentjulycate.net.daraz.com^
 ||dssl.ns.emfoodilvision.fooduthenticfoodte.net.daraz.com^
 ||dssl.ns.emiopaccountlvision.authenticate.net.daraz.com^
@@ -3911,7 +3917,6 @@
 ||kubemarketingxspace.net.daraz.com^
 ||kubemasellerpackagingketing.net.daraz.com^
 ||laboratories-manage.lib-oa-1.net.daraz.com^
-||laboratorio123pago-loginvc.doclogin.net.daraz.com^
 ||latin-ns2.viviotech.net.daraz.com^
 ||lax1.ns3.mobilecl.bellsouth.net.daraz.com^
 ||lazada-sg-2zzpa3e62zt91c04r.administrator.net.daraz.com^
@@ -3938,11 +3943,9 @@
 ||manage.azure.lib-oa-1.net.daraz.com^
 ||manage.erdektarim-lib-oa-1.net.daraz.com^
 ||manage.frontpage-partner.net.daraz.com^
-||manage.lib-oa-1.turk.net.daraz.com^
 ||manage.lib-oa-1folders.net.daraz.com^
 ||manage.lib-oa-music.net.daraz.com^
 ||manage.lib-oa-ops.net.daraz.com^
-||manage.n-switch.net.daraz.com^
 ||manage.qlikview.lib-oa-1.net.daraz.com^
 ||manage.wslib-oa-1.net.daraz.com^
 ||manage23pago-svc.docs.net.daraz.com^
@@ -3953,7 +3956,6 @@
 ||management-application-salting.net.daraz.com^
 ||management-application-spappsing.net.daraz.com^
 ||management-application-spring-alimebot.net.daraz.com^
-||management-application-spring-helpdesk.net.daraz.com^
 ||management-application-spring.k.net.daraz.com^
 ||management-application-spring.sandbox.net.daraz.com^
 ||management-application-springmeta01.net.daraz.com^
@@ -4088,10 +4090,9 @@
 ||nadmin8.emailviadmin8ion.uadmin8.net.daraz.com^
 ||nca3.mobilecl.bellcaouth.net.daraz.com^
 ||neon.manage.lib-oa-1.net.daraz.com^
+||net.brillen.de^
 ||net.daraz.com^
 ||net.home24.at^
-||net.home24.be^
-||net.home24.it^
 ||net.jumia.ma^
 ||net.jumia.ug^
 ||net35.net.jumia.cm^
@@ -4264,6 +4265,7 @@
 ||patnerplugins.net.daraz.com^
 ||pctner.net.daraz.com^
 ||phermestner.net.daraz.com^
+||pluto.r.powuta.com^
 ||pluto2-cfw-c2s-01-n6x026.net.daraz.com^
 ||poczta-car21-10-r-oa-1.net.daraz.com^
 ||pop.net.daraz.com^
@@ -4299,6 +4301,7 @@
 ||qr.bellsouth.administrator.net.daraz.com^
 ||r.01-car21-web-wwww0node.net.daraz.com^
 ||r.jakuli.com^
+||r.lafamo.com^
 ||r.net.daraz.com^
 ||rabbitmq.net.daraz.com^
 ||radioapplication-spring.net.daraz.com^
@@ -4337,7 +4340,6 @@
 ||sitebuildercsr41.application.net.daraz.com^
 ||sjaidoitruy-doitruy.emailvision.net.daraz.com^
 ||sjc12draganddropobjects.net.daraz.com^
-||skidns1oitruy-dns1oitruy.emailvision.net.daraz.com^
 ||skidoboardruy-doboardruy.emailvision.net.daraz.com^
 ||skidoitimogenuy-doitimogenuy.emailvision.net.daraz.com^
 ||skidoitrcpy-doitrcpy.emailvision.net.daraz.com^
@@ -4370,7 +4372,6 @@
 ||skidoitruy-doitruy.testing1emailvision.net.daraz.com^
 ||skidoitruy-sjc12-dr01.net.daraz.com^
 ||skidoitruy.ebs.10-marketing.net.daraz.com^
-||skimailserver-mailserver.emailvision.net.daraz.com^
 ||sklearningportaloitruy-doitruy.emailvision.net.daraz.com^
 ||skmailadminoitruy-doitruy.emailvision.net.daraz.com^
 ||smanagement-application-springidoitruy-doitruy.emailvision.net.daraz.com^
@@ -4429,7 +4430,6 @@
 ||stage-ugkumondabji.net.daraz.com^
 ||stage-ugphotoshop.net.daraz.com^
 ||stage-ugportal-ememoastaging.net.daraz.com^
-||stage-ugportal-screenshare.net.daraz.com^
 ||stage-ugportal-stagingtubeunblock.net.daraz.com^
 ||stage-ugportal-zerommd.net.daraz.com^
 ||stage-ugportal1buketstaging.net.daraz.com^
@@ -4564,7 +4564,6 @@
 ||staging-alifathilawyer.net.daraz.com^
 ||staging-atidstage.naruspot.net.daraz.com^
 ||staging-authstaging.rail.net.daraz.com^
-||staging-bejav-dictus-stage.net.daraz.com^
 ||staging-bejav-eparking.net.daraz.com^
 ||staging-bejav-stagingmlearn.net.daraz.com^
 ||staging-bejav-starboardcruise.net.daraz.com^
@@ -4608,9 +4607,7 @@
 ||staging-csprod-ss.bullshit77.net.daraz.com^
 ||staging-csprod-ss.dadonwang-stage.net.daraz.com^
 ||staging-csprod-ss.goddardusedautosales-stage.net.daraz.com^
-||staging-csprod-ss.heimwerker.net.daraz.com^
 ||staging-csprod-ss.stagesjcandy0208.net.daraz.com^
-||staging-csprod-ss.stagingacfashion.net.daraz.com^
 ||staging-csprod-ss.starboardcruise.net.daraz.com^
 ||staging-csprod-ssstagemybooster.net.daraz.com^
 ||staging-csprod-ssstageobong.net.daraz.com^
@@ -4641,13 +4638,11 @@
 ||staging-gulonunmutfagindan.net.daraz.com^
 ||staging-hanage.net.daraz.com^
 ||staging-hankakuwalker.net.daraz.com^
-||staging-pull-drzlive-partner.net.daraz.com^
 ||staging.ae29-sjc12-dr01.net.daraz.com^
 ||staging12ube-partner.net.daraz.com^
 ||static-mgmt.partner.net.daraz.com^
 ||static.net.daraz.com^
 ||summer-patner.net.daraz.com^
-||summermanage.lib-oa-1.net.daraz.com^
 ||support-cloudfrontcar31.net.daraz.com^
 ||svc-01-caauthenticate21-10-authenticate-oa-1.net.daraz.com^
 ||svc.manage.lib-oa-1.net.daraz.com^
@@ -4672,14 +4667,12 @@
 ||twtelecom-prueba.azure.net.daraz.com^
 ||twtelecom-sftp.azure.net.daraz.com^
 ||twtelecom.api-docs-azure.net.daraz.com^
-||twtelecom.aunixure.net.daraz.com^
 ||twtelecom.azimailre.net.daraz.com^
 ||twtelecom.azuc2se.net.daraz.com^
 ||twtelecom.azuqqe.net.daraz.com^
 ||twtelecom.azure-pre-retail.net.daraz.com^
 ||twtelecom.azure.cms.net.daraz.com^
 ||twtelecom.azure.erp.net.daraz.com^
-||twtelecom.azurecdnpre.net.daraz.com^
 ||twtelecom.jira-azure.net.daraz.com^
 ||twtelecom.latinamerica-azure.net.daraz.com^
 ||twtelecom.msgx.azure.net.daraz.com^
@@ -4696,6 +4689,7 @@
 ||uo1nftzjljzdfuq5.doclogin.net.daraz.com^
 ||ut.administrators.net.daraz.com^
 ||utmanagement-application-spring.net.daraz.com^
+||v113.net.daraz.com^
 ||v1twtelecom.azure.net.daraz.com^
 ||v2-gheraction.net.daraz.com^
 ||v2-interaction-socialx.net.daraz.com^
@@ -4711,7 +4705,6 @@
 ||v2-interactipre-pull-drzliven.net.daraz.com^
 ||v2-interactisqlserver.net.daraz.com^
 ||v2-intezong-stagingction.net.daraz.com^
-||v2-vps1.net.daraz.com^
 ||vaultbellsouth.administrator.net.daraz.com^
 ||vaulttelecom.azure.net.daraz.com^
 ||vc-ns2.viviotech.net.daraz.com^
@@ -4744,6 +4737,7 @@
 ||www-123pago.rgsdocker.net.daraz.com^
 ||www-gw.applications.net.daraz.com^
 ||www-linux.rgsdocker.net.daraz.com^
+||www-qlikview.applications.net.daraz.com^
 ||www-uat-oneloadpk.rgsdocker.net.daraz.com^
 ||www-ut.partner.net.daraz.com^
 ||www.01-car21-10-r-oa-1.rgsdocker.net.daraz.com^
@@ -4768,7 +4762,6 @@
 ||www.rgsdocker.cloudfront.net.daraz.com^
 ||www.rgsdockermarketingpush.net.daraz.com^
 ||www.rgsdockermysql.net.daraz.com^
-||www.rgsf8ocker.net.daraz.com^
 ||www.sportgsdockesport.net.daraz.com^
 ||www.spyder-ui-prod-rgsdocker.net.daraz.com^
 ||www01chd-www.partner.net.daraz.com^
@@ -4778,7 +4771,6 @@
 ||x.kube-partner.net.daraz.com^
 ||zabbix-ns.emailvision.panel.net.daraz.com^
 ||zamestnavatel-stagestage-bollyshare.net.daraz.com^
-||zamestnavatel.stage-ugportal.net.daraz.com^
 ||zanjan.stage-bitchop.net.daraz.com^
 ||zanjan.stage-mhb-dhcp.net.daraz.com^
 ||zatapi.freshmaza.net.daraz.com^
@@ -4811,9 +4803,9 @@
 ||zimbra-ns.labemailvision.net.daraz.com^
 ||zimbranewnautilus12345proxy3.net.daraz.com^
 ||zimbraupportfreya.net.daraz.com^
-||zlmlkcbykclk.stage-esattamatka.net.daraz.com^
 ||zm.51-lib-oa-3-staginginistrators-csr40.net.daraz.com^
 ||zmr07.net.daraz.com^
+||zong-chd-www.partner.net.daraz.com^
 ||zong-help-berndpulchmedotcom.net.daraz.com^
 ||zong-sftp-demo.lib-ln-1.net.daraz.com^
 ||zong-sftp.beta-aws.net.daraz.com^
@@ -4822,6 +4814,7 @@
 ||zong-stagingbejav.net.daraz.com^
 ||zong-stagingkube-partner.net.daraz.com^
 ||zong-stagingpidocskeele-nnw-leis-mc-leis.net.daraz.com^
+||zongn-switch.net.daraz.com^
 ||zoomir-staging-cointoon.net.daraz.com^
 ||zoomir-staging-stagingparmakla.net.daraz.com^
 ||zsp-staging.ysr.net.daraz.com^
@@ -4853,7 +4846,6 @@
 ||zzpa3e62zt91c04r.administratorstage.net.daraz.com^
 ||zzpa3e62zt91c04r.dropadministrator.net.daraz.com^
 ||zzpa3e62zt91c04r.n.net.daraz.com^
-||zzpa3e62zt91c04r.preview.net.daraz.com^
 ||zzpa3e62zt91c04r.s-administrator.net.daraz.com^
 ||zzpa3e62zt91c04r.samples.administrator.net.daraz.com^
 ||zzpa3e62zt91c04r.vortex-administrator.net.daraz.com^
@@ -4865,3 +4857,5 @@
 ||zzpmagento3e62zt91c04r.magentodministrmagentotor.net.daraz.com^
 ||zzprg3e62zt91c04r.rgdministrrgtor.net.daraz.com^
 ||zzsecopsa3e62zt91c04r.administrator.net.daraz.com^
+||net.home24.be^
+||net.home24.it^

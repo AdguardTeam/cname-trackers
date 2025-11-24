@@ -961,12 +961,12 @@
 ||8.notify.bizonads-ssp.com^
 ||_sip._tcp.meet.3393147.notifysrv.com^
 ||_sips._tcp.3323174.notifysrv.com^
+||a.6hd49jng.com^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
 ||a.cant3am.com^
 ||a.crme7srv.com^
 ||a.eunow4u.com^
-||a.golhofer.com^
 ||a.ku34bh9la09.com^
 ||a.ma3ion.com^
 ||a.mx.notifysrv.com^
@@ -974,7 +974,6 @@
 ||a.ns.notifysrv.com^
 ||a.playa.to^
 ||a.q88z1s3.com^
-||a.t5z3w0p.com^
 ||a.tf4srv.com^
 ||a.vws4brkfst.com^
 ||abc.notifysrv.com^
@@ -1141,6 +1140,8 @@
 ||s.dsw3rw.com^
 ||s.dswgzk.com^
 ||s.dswqta.com^
+||s.dsxlez.com^
+||s.dsxsdn.com^
 ||s.eaalink.com^
 ||s.ecwlink.com^
 ||s.elink2b.com^
@@ -1201,6 +1202,7 @@
 ||s.exv6.com^
 ||s.flirtads.net^
 ||s.gatherstar.io^
+||s.gentlefieldpattern.com^
 ||s.golhofer.com^
 ||s.hkartg.com^
 ||s.huispol.com^
@@ -1436,10 +1438,12 @@
 ||a.brilmaver.com^
 ||a.etology.com^
 ||a.gatherstar.io^
+||a.golhofer.com^
 ||a.hkartg.com^
 ||a.humnert.com^
 ||a.pinkads.org^
 ||a.r8lnet.com^
 ||a.rocoads.net^
 ||a.santabrowser.com^
+||a.t5z3w0p.com^
 ||a.traffic-gold.com^

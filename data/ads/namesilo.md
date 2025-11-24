@@ -7,7 +7,6 @@
     * ka8ing2z.ab1n.net
     * tk6if76q.ab1n.net
     * tk6if76r.ab1n.net
-    * v3j9t5q9.ab1n.net
     * w2u4v9e1.ab1n.net
     * x0xmrxm4.ab1n.net
     * x0xmrxm5.ab1n.net
@@ -27,18 +26,24 @@
 | a.advertrek.com | 1208818836.rsc.cdn77.org |
 | a.allureanews.com | 1208818836.rsc.cdn77.org |
 | a.asvsm.com | 1208818836.rsc.cdn77.org |
+| a.b2bstars.com | 1208818836.rsc.cdn77.org |
 | a.bizonads-ssp.com | 1208818836.rsc.cdn77.org |
 | a.brilmaver.com | 1208818836.rsc.cdn77.org |
 | a.etology.com | 1208818836.rsc.cdn77.org |
 | a.gatherstar.io | 1208818836.rsc.cdn77.org |
+| a.golhofer.com | 1208818836.rsc.cdn77.org |
 | a.hkartg.com | 1208818836.rsc.cdn77.org |
 | a.humnert.com | 1208818836.rsc.cdn77.org |
+| a.ma3ion.com | 1208818836.rsc.cdn77.org |
 | a.pinkads.org | 1208818836.rsc.cdn77.org |
+| a.playa.to | 1208818836.rsc.cdn77.org |
 | a.r8lnet.com | 1208818836.rsc.cdn77.org |
 | a.rocoads.net | 1208818836.rsc.cdn77.org |
 | a.santabrowser.com | 1208818836.rsc.cdn77.org |
+| a.t5z3w0p.com | 1208818836.rsc.cdn77.org |
 | a.tf4srv.com | 1208818836.rsc.cdn77.org |
 | a.traffic-gold.com | 1208818836.rsc.cdn77.org |
+| delivery.gettopple.com | 1208818836.rsc.cdn77.org |
 | main0.exosrv.com | a37zk9tr.ab1n.net |
 | syndication0.exoclick.com | a37zk9tr.ab1n.net |
 | rtb.advertrek.com | ka8ing2z.ab1n.net |
@@ -1135,6 +1140,8 @@
 | s.dsw3rw.com | tk6if76q.ab1n.net |
 | s.dswgzk.com | tk6if76q.ab1n.net |
 | s.dswqta.com | tk6if76q.ab1n.net |
+| s.dsxlez.com | tk6if76q.ab1n.net |
+| s.dsxsdn.com | tk6if76q.ab1n.net |
 | s.eaalink.com | tk6if76q.ab1n.net |
 | s.ecwlink.com | tk6if76q.ab1n.net |
 | s.elink2b.com | tk6if76q.ab1n.net |
@@ -1194,6 +1201,7 @@
 | s.exoqarys.com | tk6if76q.ab1n.net |
 | s.flirtads.net | tk6if76q.ab1n.net |
 | s.gatherstar.io | tk6if76q.ab1n.net |
+| s.gentlefieldpattern.com | tk6if76q.ab1n.net |
 | s.golhofer.com | tk6if76q.ab1n.net |
 | s.hkartg.com | tk6if76q.ab1n.net |
 | s.huispol.com | tk6if76q.ab1n.net |
@@ -1418,23 +1426,22 @@
 | www.survey.notifysrv.com | tk6if76q.ab1n.net |
 | s.allureanews.com | tk6if76r.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
-| admin.adsession.com | v3j9t5q9.ab1n.net |
+| a.6hd49jng.com | w2u4v9e1.ab1n.net |
 | a.b2bstars.com | w2u4v9e1.ab1n.net |
 | a.b7q9v8z.com | w2u4v9e1.ab1n.net |
 | a.cant3am.com | w2u4v9e1.ab1n.net |
 | a.crme7srv.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
-| a.golhofer.com | w2u4v9e1.ab1n.net |
 | a.ku34bh9la09.com | w2u4v9e1.ab1n.net |
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.n4m5x60.com | w2u4v9e1.ab1n.net |
 | a.playa.to | w2u4v9e1.ab1n.net |
 | a.q88z1s3.com | w2u4v9e1.ab1n.net |
-| a.t5z3w0p.com | w2u4v9e1.ab1n.net |
 | a.tf4srv.com | w2u4v9e1.ab1n.net |
 | a.vws4brkfst.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
+| admin.adsession.com | x0xmrxm4.ab1n.net |
 | admin.adxnow.com | x0xmrxm4.ab1n.net |
 | admin.datingclix.com | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |

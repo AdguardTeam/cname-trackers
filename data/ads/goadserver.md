@@ -7,9 +7,9 @@
 ### Rarely active trackers
 
 * ams.goadserver.com
-* detroit.goadserver.com
 * noviclick.goadserver.com
 * static.goadserver.com
+* detroit.goadserver.com
 * dtb.goadserver.com
 * up.goadserver.com
 * data.goadserver.com
@@ -59,7 +59,7 @@
 | go.bigbang.solutions | ams.goadserver.com |
 | go.bigbang.solutions | ams.goadserver.com |
 | go.delmovip.com | ams.goadserver.com |
-| go.delmovip.com | ams.goadserver.com |
+| go.digitalclickstime.com | ams.goadserver.com |
 | go.digitalclickstime.com | ams.goadserver.com |
 | go.go-srv.com | ams.goadserver.com |
 | go.go-srv.com | ams.goadserver.com |
@@ -73,6 +73,7 @@
 | go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com | ams.goadserver.com |
 | go.redgifs.com | ams.goadserver.com |
 | go.static-srv.com | ams.goadserver.com |
+| go.static-srv.com | ams.goadserver.com |
 | go.svradv.com | ams.goadserver.com |
 | go.tbllad.com | ams.goadserver.com |
 | go.tbllem.com | ams.goadserver.com |
@@ -85,6 +86,7 @@
 | go.xyouxxx.com | ams.goadserver.com |
 | go1.3mre.work | ams.goadserver.com |
 | go1.a2ure.work | ams.goadserver.com |
+| go1.a2ure.work | ams.goadserver.com |
 | go1.atre.work | ams.goadserver.com |
 | go1.bgunit.com | ams.goadserver.com |
 | go1.bhunif.com | ams.goadserver.com |
@@ -93,6 +95,7 @@
 | go1.goaserv.com | ams.goadserver.com |
 | go1.lire.work | ams.goadserver.com |
 | go1.mintsvip.biz | ams.goadserver.com |
+| go1.nolvadex.top | ams.goadserver.com |
 | go1.nolvadex.top | ams.goadserver.com |
 | go1.orenwiki.top | ams.goadserver.com |
 | go1.reacheffecti.work | ams.goadserver.com |
@@ -111,7 +114,6 @@
 | go1.trakit17.com | ams.goadserver.com |
 | go1.trakit18.com | ams.goadserver.com |
 | go1.trakit19.com | ams.goadserver.com |
-| go1.trakit19.com | ams.goadserver.com |
 | go1.trakit20.com | ams.goadserver.com |
 | go1.trakit21.com | ams.goadserver.com |
 | go1.trakit22.com | ams.goadserver.com |
@@ -119,13 +121,12 @@
 | go1.trakit23.com | ams.goadserver.com |
 | go1.trakit24.com | ams.goadserver.com |
 | go1.trakit25.com | ams.goadserver.com |
-| go1.trakit25.com | ams.goadserver.com |
 | go1.trakit26.com | ams.goadserver.com |
+| go1.trakit27.com | ams.goadserver.com |
 | go1.trakit27.com | ams.goadserver.com |
 | go1.trakit3.com | ams.goadserver.com |
 | go1.trakit5.com | ams.goadserver.com |
 | go1.were.work | ams.goadserver.com |
-| go1.yare.work | ams.goadserver.com |
 | go1.yare.work | ams.goadserver.com |
 | go2.toplineads.com | ams.goadserver.com |
 | go2.toplineads.com | ams.goadserver.com |
@@ -134,9 +135,8 @@
 | gw.blacked.com | ams.goadserver.com |
 | gw.blackedraw.com | ams.goadserver.com |
 | gw.deeper.com | ams.goadserver.com |
-| gw.deeper.com | ams.goadserver.com |
 | gw.madcheddar.net | ams.goadserver.com |
-| gw.milfy.com | ams.goadserver.com |
+| gw.madcheddar.net | ams.goadserver.com |
 | gw.milfy.com | ams.goadserver.com |
 | gw.slayed.com | ams.goadserver.com |
 | gw.tushy.com | ams.goadserver.com |
@@ -148,8 +148,6 @@
 | its.fusrv.com | ams.goadserver.com |
 | its.fusrv.com | ams.goadserver.com |
 | its.pasrv.com | ams.goadserver.com |
-| its.pasrv.com | ams.goadserver.com |
-| its.tbpot.com | ams.goadserver.com |
 | its.tbpot.com | ams.goadserver.com |
 | jantest.goaserv.com | ams.goadserver.com |
 | krisna-dokumentasi.go-srv.com | ams.goadserver.com |
@@ -160,7 +158,6 @@
 | live.trmzum.com | ams.goadserver.com |
 | live.trmzum.com | ams.goadserver.com |
 | live.trudigo.com | ams.goadserver.com |
-| live.zrmtrm.com | ams.goadserver.com |
 | live.zrmtrm.com | ams.goadserver.com |
 | mosi-sms.go-srv.com | ams.goadserver.com |
 | mylinuxtoday.go-srv.com | ams.goadserver.com |
@@ -173,8 +170,6 @@
 | rtb.prnteen.com | ams.goadserver.com |
 | rtb.zingtraffic.com | ams.goadserver.com |
 | sbb103.go-srv.com | ams.goadserver.com |
-| service.goadnow.com | ams.goadserver.com |
-| service.goadnow.com | ams.goadserver.com |
 | service.zingtraffic.com | ams.goadserver.com |
 | siguientepagina.go-srv.com | ams.goadserver.com |
 | smtp3.go-srv.com | ams.goadserver.com |
@@ -195,16 +190,15 @@
 | zoumekalamaria.go-srv.com | ams.goadserver.com |
 | zz.shat1.com | ams.goadserver.com |
 | st.static-srv.com | data.goadserver.com |
-| ad.srvupads.com | detroit.goadserver.com |
 | display.digitalclickstime.com | detroit.goadserver.com |
 | go.aoalmfwinbsstec23.com | detroit.goadserver.com |
 | go.bigbang.solutions | detroit.goadserver.com |
-| go.go-srv.com | detroit.goadserver.com |
+| go.digitalclickstime.com | detroit.goadserver.com |
 | go.goaserv.com | detroit.goadserver.com |
 | go.gosrv.cl | detroit.goadserver.com |
 | go.gsrv.dev | detroit.goadserver.com |
-| go.redgifs.com | detroit.goadserver.com |
 | go.static-srv.com | detroit.goadserver.com |
+| go.tbllzon.com | detroit.goadserver.com |
 | go1.3mre.work | detroit.goadserver.com |
 | go1.nolvadex.top | detroit.goadserver.com |
 | go1.trakit12.com | detroit.goadserver.com |
@@ -213,11 +207,11 @@
 | go1.trakit25.com | detroit.goadserver.com |
 | go1.trakit27.com | detroit.goadserver.com |
 | go2.toplineads.com | detroit.goadserver.com |
-| gw.blacked.com | detroit.goadserver.com |
 | gw.madcheddar.net | detroit.goadserver.com |
 | its.fusrv.com | detroit.goadserver.com |
 | live.quixova.com | detroit.goadserver.com |
 | live.trmzum.com | detroit.goadserver.com |
+| live.trudigo.com | detroit.goadserver.com |
 | display.digitalclickstime.com | dtb.goadserver.com |
 | go.aoalmfwinbsstec23.com | dtb.goadserver.com |
 | go.bigbang.solutions | dtb.goadserver.com |
@@ -227,11 +221,11 @@
 | go.goaserv.com | dtb.goadserver.com |
 | go.gosrv.cl | dtb.goadserver.com |
 | go.gsrv.dev | dtb.goadserver.com |
+| go.novirtb.com | dtb.goadserver.com |
 | go.static-srv.com | dtb.goadserver.com |
-| go.tbllzon.com | dtb.goadserver.com |
 | go1.3mre.work | dtb.goadserver.com |
 | go1.nolvadex.top | dtb.goadserver.com |
-| go1.trakit12.com | dtb.goadserver.com |
+| go1.reachsrv.com | dtb.goadserver.com |
 | go1.trakit19.com | dtb.goadserver.com |
 | go1.trakit21.com | dtb.goadserver.com |
 | go1.trakit22.com | dtb.goadserver.com |
@@ -241,20 +235,18 @@
 | go1.trakit27.com | dtb.goadserver.com |
 | go1.yare.work | dtb.goadserver.com |
 | go2.toplineads.com | dtb.goadserver.com |
-| gw.blacked.com | dtb.goadserver.com |
+| gw.blackedraw.com | dtb.goadserver.com |
+| gw.deeper.com | dtb.goadserver.com |
 | gw.madcheddar.net | dtb.goadserver.com |
-| gw.slayed.com | dtb.goadserver.com |
-| gw.tushy.com | dtb.goadserver.com |
-| gw.vixen.com | dtb.goadserver.com |
+| gw.wifey.com | dtb.goadserver.com |
 | its.fusrv.com | dtb.goadserver.com |
 | its.pasrv.com | dtb.goadserver.com |
 | live.amplifo.com | dtb.goadserver.com |
 | live.quixova.com | dtb.goadserver.com |
 | live.trmzum.com | dtb.goadserver.com |
-| service.zingtraffic.com | dtb.goadserver.com |
+| live.trudigo.com | dtb.goadserver.com |
 | ad.srvupads.com | go.goadserver.com |
 | display.digitalclickstime.com | go.goadserver.com |
-| go.adxoclick.com | go.goadserver.com |
 | go.aoalmfwinbsstec23.com | go.goadserver.com |
 | go.bigbang.solutions | go.goadserver.com |
 | go.delmovip.com | go.goadserver.com |
@@ -263,15 +255,14 @@
 | go.goaserv.com | go.goadserver.com |
 | go.gosrv.cl | go.goadserver.com |
 | go.gsrv.dev | go.goadserver.com |
-| go.redgifs.com | go.goadserver.com |
+| go.novirtb.com | go.goadserver.com |
 | go.static-srv.com | go.goadserver.com |
 | go.tbllzon.com | go.goadserver.com |
-| go.xyouxxx.com | go.goadserver.com |
 | go1.3mre.work | go.goadserver.com |
 | go1.a2ure.work | go.goadserver.com |
 | go1.nolvadex.top | go.goadserver.com |
 | go1.reacheffecti.work | go.goadserver.com |
-| go1.spre.work | go.goadserver.com |
+| go1.reachsrv.com | go.goadserver.com |
 | go1.trakit12.com | go.goadserver.com |
 | go1.trakit19.com | go.goadserver.com |
 | go1.trakit21.com | go.goadserver.com |
@@ -282,22 +273,16 @@
 | go1.trakit27.com | go.goadserver.com |
 | go1.yare.work | go.goadserver.com |
 | go2.toplineads.com | go.goadserver.com |
-| gw.blacked.com | go.goadserver.com |
+| gw.blackedraw.com | go.goadserver.com |
 | gw.deeper.com | go.goadserver.com |
 | gw.madcheddar.net | go.goadserver.com |
-| gw.milfy.com | go.goadserver.com |
-| gw.slayed.com | go.goadserver.com |
-| gw.tushy.com | go.goadserver.com |
-| gw.vixen.com | go.goadserver.com |
+| gw.wifey.com | go.goadserver.com |
 | its.fusrv.com | go.goadserver.com |
 | its.pasrv.com | go.goadserver.com |
-| its.tbpot.com | go.goadserver.com |
 | live.amplifo.com | go.goadserver.com |
 | live.quixova.com | go.goadserver.com |
 | live.trmzum.com | go.goadserver.com |
-| live.zrmtrm.com | go.goadserver.com |
-| service.goadnow.com | go.goadserver.com |
-| service.zingtraffic.com | go.goadserver.com |
+| live.trudigo.com | go.goadserver.com |
 | app.noviclick.com | noviclick.goadserver.com |
 | data.goasrv.com | static.goadserver.com |
 | st.go-static.info | static.goadserver.com |

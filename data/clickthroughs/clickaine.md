@@ -27,7 +27,6 @@
 | app.rtnews.pro | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
-| bat26.gimmeporn.xyz | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.allporncomics.co | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
@@ -70,6 +69,7 @@
 | ddd.sexstories69.com | api.clickaine.com |
 | dfx.xtapes.porn | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
+| excavajo8.gimmeporn.xyz | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
 | get.xclick24.com | api.clickaine.com |
@@ -84,7 +84,6 @@
 | icn.brandnewapp.pro | api.clickaine.com |
 | jpnj.hotpornfile.org | api.clickaine.com |
 | m.brandnewapp.pro | api.clickaine.com |
-| mail.7porn.ru | api.clickaine.com |
 | n.porno-all.top | api.clickaine.com |
 | net.fuckxstream.com | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
@@ -114,6 +113,5 @@
 | www.telford.brandnewapp.pro | api.clickaine.com |
 | www.web5603.brandnewapp.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
-| xn--api-hn0a.rtnews.pro | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

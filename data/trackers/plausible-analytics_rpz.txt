@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,7 +22,6 @@ analytics.andrewsmith.com.au CNAME .
 analytics.arunraghavan.net CNAME .
 analytics.basistheory.com CNAME .
 analytics.betterplaces.nl CNAME .
-analytics.certifriedit.com CNAME .
 analytics.churchthemes.com CNAME .
 analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
@@ -600,7 +599,6 @@ stats.missionmet.com CNAME .
 stats.missionrabies.com CNAME .
 stats.moco-comics.com CNAME .
 stats.mostlycoding.com.au CNAME .
-stats.motion-effect.com CNAME .
 stats.motorcyclepartsireland.ie CNAME .
 stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
@@ -668,7 +666,6 @@ stats.practicepl.us CNAME .
 stats.pri.org CNAME .
 stats.pricewell.io CNAME .
 stats.principedepaz.gt CNAME .
-stats.print.work CNAME .
 stats.processserver101.com CNAME .
 stats.procumeni.cz CNAME .
 stats.prodtype.com CNAME .
@@ -725,7 +722,6 @@ stats.shiftx.com CNAME .
 stats.shobokshy.com CNAME .
 stats.simplinetworks.com CNAME .
 stats.sirdata.com CNAME .
-stats.sixseven.at CNAME .
 stats.ski.com CNAME .
 stats.socialeurope.eu CNAME .
 stats.southswindon-pc.gov.uk CNAME .
@@ -827,7 +823,6 @@ tics.techdirt.com CNAME .
 tipstats.onepagelove.com CNAME .
 tock.weg.plus CNAME .
 track.slickinbox.com CNAME .
-traffic.hostedstatus.page CNAME .
 traffic.taktikal.is CNAME .
 triton.companyegg.com CNAME .
 usage.growthbook.io CNAME .

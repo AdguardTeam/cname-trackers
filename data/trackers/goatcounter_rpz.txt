@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ analytics.law.tmchippewa.com CNAME .
 analytics.law.umitribe.org CNAME .
 analytics.leespace.co CNAME .
 analytics.popov.link CNAME .
+analytics.repath.studio CNAME .
 analytics.riggraz.dev CNAME .
 analytics.sanmateo.ca.us.dev.openlawlibrary.us CNAME .
 analytics.sanmateo.ca.us.open.law CNAME .
@@ -172,7 +173,6 @@ stats.trainsley69.me CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .
-stats.wackomenace.co.uk CNAME .
 stats.whatacools.com CNAME .
 stats.ybbond.id CNAME .
 stats.zbahn.de CNAME .

@@ -708,6 +708,7 @@
 ||100002625.collect.igodigital.com^
 ||100002630.collect.igodigital.com^
 ||100002641.collect.igodigital.com^
+||100002656.collect.igodigital.com^
 ||100002664.collect.igodigital.com^
 ||100002713.collect.igodigital.com^
 ||100002715.collect.igodigital.com^
@@ -759,6 +760,7 @@
 ||100003733.collect.igodigital.com^
 ||100003790.collect.igodigital.com^
 ||100003816.collect.igodigital.com^
+||100003983.collect.igodigital.com^
 ||100004014.collect.igodigital.com^
 ||100004015.collect.igodigital.com^
 ||100004018.collect.igodigital.com^
@@ -783,6 +785,7 @@
 ||100005419.collect.igodigital.com^
 ||100005424.collect.igodigital.com^
 ||100005478.collect.igodigital.com^
+||100005481.collect.igodigital.com^
 ||100005485.collect.igodigital.com^
 ||100005530.collect.igodigital.com^
 ||100005550.collect.igodigital.com^
@@ -941,6 +944,7 @@
 ||100014551.collect.igodigital.com^
 ||100014588.collect.igodigital.com^
 ||100014768.collect.igodigital.com^
+||100014837.collect.igodigital.com^
 ||100014861.collect.igodigital.com^
 ||100014979.collect.igodigital.com^
 ||100015026.collect.igodigital.com^
@@ -963,7 +967,10 @@
 ||10972460.collect.igodigital.com^
 ||10982812.collect.igodigital.com^
 ||10986319.collect.igodigital.com^
+||1100051.collect.igodigital.com^
 ||110005634.collect.igodigital.com^
+||110006528.collect.igodigital.com^
+||110006698.collect.igodigital.com^
 ||110007143.collect.igodigital.com^
 ||110007158.collect.igodigital.com^
 ||110007162.collect.igodigital.com^
@@ -982,7 +989,6 @@
 ||514009935.collect.igodigital.com^
 ||514013685.collect.igodigital.com^
 ||514021787.collect.igodigital.com^
-||514023043.collect.igodigital.com^
 ||514023214.collect.igodigital.com^
 ||514025538.collect.igodigital.com^
 ||514027809.collect.igodigital.com^
@@ -994,6 +1000,7 @@
 ||515008369.collect.igodigital.com^
 ||515008558.collect.igodigital.com^
 ||515010815.collect.igodigital.com^
+||515010833.collect.igodigital.com^
 ||515010852.collect.igodigital.com^
 ||515011050.collect.igodigital.com^
 ||515011129.collect.igodigital.com^
@@ -1005,6 +1012,7 @@
 ||518004450.collect.igodigital.com^
 ||518004463.collect.igodigital.com^
 ||518004687.collect.igodigital.com^
+||518005082.collect.igodigital.com^
 ||518006701.collect.igodigital.com^
 ||520001618.collect.igodigital.com^
 ||523001330.collect.igodigital.com^
@@ -1053,6 +1061,7 @@
 ||6419171.collect.igodigital.com^
 ||6419189.collect.igodigital.com^
 ||6426127.collect.igodigital.com^
+||6426136.collect.igodigital.com^
 ||7000413.collect.igodigital.com^
 ||7200863.collect.igodigital.com^
 ||7203837.collect.igodigital.com^
@@ -1079,6 +1088,7 @@
 ||7234672.collect.igodigital.com^
 ||7235134.collect.igodigital.com^
 ||7238213.collect.igodigital.com^
+||7243017.collect.igodigital.com^
 ||7269812.collect.igodigital.com^
 ||7270039.collect.igodigital.com^
 ||7275979.collect.igodigital.com^
@@ -1120,7 +1130,6 @@
 ||7297790.collect.igodigital.com^
 ||7297803.collect.igodigital.com^
 ||7298601.collect.igodigital.com^
-||7299776.collect.igodigital.com^
 ||7300007.collect.igodigital.com^
 ||7300013.collect.igodigital.com^
 ||7300368.collect.igodigital.com^
@@ -1153,7 +1162,6 @@
 ||100002836.collect.igodigital.com^
 ||100003302.collect.igodigital.com^
 ||100004000.collect.igodigital.com^
-||100008225.collect.igodigital.com^
 ||100008622.collect.igodigital.com^
 ||100009050.collect.igodigital.com^
 ||100013802.collect.igodigital.com^
@@ -1184,17 +1192,9 @@
 ||7325687.collect.igodigital.com^
 ||enviedeplus.collect.igodigital.com^
 ||sfdc.cottages.com^
-||100002656.collect.igodigital.com^
-||100003983.collect.igodigital.com^
-||100005481.collect.igodigital.com^
-||100014837.collect.igodigital.com^
-||1100051.collect.igodigital.com^
-||110006528.collect.igodigital.com^
-||110006698.collect.igodigital.com^
-||515010833.collect.igodigital.com^
-||518005082.collect.igodigital.com^
-||6426136.collect.igodigital.com^
-||7243017.collect.igodigital.com^
+||100008225.collect.igodigital.com^
+||514023043.collect.igodigital.com^
+||7299776.collect.igodigital.com^
 ||8ql60l2kzjanitvc.internal.pov.acceldatasolutions.net^
 ||be7wjd7htvadmddj.internal.pov.acceldatasolutions.net^
 ||ku3v7v2o10w0ptv9.internal.pov.acceldatasolutions.net^
@@ -1206,13 +1206,11 @@
 ||ad-events-lhr11.g.flashtalking.com^
 ||ad-heros.com^
 ||ad-imp.jtbc.co.kr^
-||ad-stats-reader.prd.01.eu-west-1.eu.olx.org^
+||ad.imp.joins.com^
 ||ad-stats-reader.stg.01.eu-west-1.eu.olx.org^
-||ad-stats-writer.prd.01.eu-west-1.eu.olx.org^
 ||ad-stats-writer.stg.01.eu-west-1.eu.olx.org^
 ||ad.audiencemanager.de^
 ||www.audiencemanager.de^
-||ad.imp.joins.com^
 ||adp.sbx.couchhost.com^
 ||ads.its-newid.net^
 ||ads.serving-sys.cn^
@@ -1258,10 +1256,12 @@
 ||analytics-la-nwsl.yinzcam.com^
 ||analytics-lac-nba.yinzcam.com^
 ||analytics-league-apl.yinzcam.com^
+||analytics-league-mff.yinzcam.com^
 ||analytics-league-xfl.yinzcam.com^
 ||analytics-lei-fa.yinzcam.com^
 ||analytics-lv-f1.yinzcam.com^
 ||analytics-mff-1.yinzcam.com^
+||analytics-mia-nfl.yinzcam.com^
 ||analytics-min-mls.yinzcam.com^
 ||analytics-min-nba.yinzcam.com^
 ||analytics-msg-venues.yinzcam.com^
@@ -1275,6 +1275,7 @@
 ||analytics-nzc-icc.yinzcam.com^
 ||analytics-nzl-ru.yinzcam.com^
 ||analytics-orl-nba.yinzcam.com^
+||analytics-perth-venues.yinzcam.com^
 ||analytics-phi-nba.yinzcam.com^
 ||analytics-pit-nhl.yinzcam.com^
 ||analytics-por-nba.yinzcam.com^
@@ -1297,9 +1298,6 @@
 ||analytics-was-nba.yinzcam.com^
 ||analytics-wol-fa.yinzcam.com^
 ||analytics-wso-ten.yinzcam.com^
-||analytics-league-mff.yinzcam.com^
-||analytics-mia-nfl.yinzcam.com^
-||analytics-perth-venues.yinzcam.com^
 ||analytics.5milesapp.com^
 ||analytics.airtv.net^
 ||analytics.sling.com^

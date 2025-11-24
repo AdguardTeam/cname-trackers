@@ -575,7 +575,6 @@
 ||ep-content.patento.pl^
 ||ep-content.vivigo.pl^
 ||ep-content.viviraty.pl^
-||ep-content.vivus.pl^
 ||ep.heartland.co.nz^
 ||ep.vystarcu.org^
 ||eps.uprova.com^
@@ -962,6 +961,7 @@
 ||rfp.intuit.com^
 ||rhino.gocardless.com^
 ||rm-3d84e791.payby.com^
+||rmetrix.superbid.net^
 ||rmscheck.sbifxt.co.jp^
 ||rqt-cdna.paymentncb.cofidis.fr^
 ||rqt-cl-cdna.ecommerce.cofidis.it^

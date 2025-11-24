@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME original trackers list
 # Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-# TimeUpdated: 2025-11-17T08:00:09+00:00
+# TimeUpdated: 2025-11-24T08:00:08+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 #

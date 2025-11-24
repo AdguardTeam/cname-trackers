@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -147,7 +147,6 @@ izoncl2caorfnn6o.extoleu.com CNAME .
 jessica-test-numero-dos.extoleu.com CNAME .
 kenn.extoleu.com CNAME .
 love.columbiacu.org CNAME .
-love.suncoastcreditunion.com CNAME .
 my.kotn.com CNAME .
 offers.wecu.com CNAME .
 pals.petco.com CNAME .
@@ -214,7 +213,6 @@ refer.childrensplace.com CNAME .
 refer.cinemark.com CNAME .
 refer.citizenwatch.com CNAME .
 refer.clarksusa.com CNAME .
-refer.codecademy.com CNAME .
 refer.colemancanada.ca CNAME .
 refer.comfortzoneskin.com CNAME .
 refer.communityfirstfl.org CNAME .

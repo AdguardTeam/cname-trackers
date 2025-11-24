@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,7 +142,6 @@ images.fnch.ch CNAME .
 images.goldseek.com CNAME .
 images.hour-media.com CNAME .
 images.informatm.com CNAME .
-images.jacilla.no CNAME .
 images.mannenmedia.nl CNAME .
 images.proxena-adserver.com CNAME .
 images.sacommunications.com CNAME .

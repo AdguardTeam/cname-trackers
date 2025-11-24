@@ -14,3 +14,4 @@
 | ---- | ---- |
 | sptrack.mailer.humblebundle.com | cordial.et.e.sparkpost.com |
 | trcksp.cordial.io | cordial.et.e.sparkpost.com |
+| trcksp.cordial.io | track.sp.crdl.io |

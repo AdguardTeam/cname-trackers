@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ $TTL 300
 100kia.xyz CNAME .
 1j5syuz0.xyz CNAME .
 1k0ed0c7.xyz CNAME .
+22qt1c4n.xyz CNAME .
 25serve.yourporngod.com CNAME .
 33serve.bussyhunter.com CNAME .
 356.freeonlinegayporn.com CNAME .
@@ -124,7 +125,6 @@ a.fapster.xxx CNAME .
 a.fedim.site CNAME .
 a.fegent.xyz CNAME .
 a.fegori.xyz CNAME .
-a.fidar.site CNAME .
 a.framb.site CNAME .
 a.freid.site CNAME .
 a.frezeporn.site CNAME .
@@ -329,6 +329,7 @@ as.lencdn.com CNAME .
 as.lenkino.adult CNAME .
 as.pomcdn.com CNAME .
 as1.maturexxx.vip CNAME .
+as5.tubesexcity.com CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
 asg.animehdl.net CNAME .
@@ -356,6 +357,7 @@ asg.srvtax.com CNAME .
 asg.titdumps.com CNAME .
 asg.zzipps.com CNAME .
 asg1.hostadsmarkets.com CNAME .
+asi.linksex.club CNAME .
 asp.rstrix.com CNAME .
 asp.russkiyseks.vip CNAME .
 asp.sexyasianwife.click CNAME .
@@ -459,6 +461,7 @@ cn.hotclips.click CNAME .
 comic.fc2ppvv.info CNAME .
 concession072925.shop CNAME .
 content.impression-sync.xyz CNAME .
+content.watanabehono.info CNAME .
 conuber.getyoursafelink.com CNAME .
 cool.gaygo.tv CNAME .
 creatives.x2lt.com CNAME .
@@ -594,7 +597,6 @@ i.mayoblast.com CNAME .
 i10.mayoblast.com CNAME .
 i11.mayoblast.com CNAME .
 i1901zxd.xyz CNAME .
-i1i.heyaiii111iidsfsdbfjb132222ffco.xyz CNAME .
 i2.mayoblast.com CNAME .
 i3.mayoblast.com CNAME .
 i4.mayoblast.com CNAME .
@@ -853,7 +855,6 @@ qa.hdclips.fun CNAME .
 qa.pleasedonotblockme.com CNAME .
 qa.xxmvideos.club CNAME .
 qmogjaezcv.club CNAME .
-qoqv.com CNAME .
 qovua60gue.tubewolf.com CNAME .
 qpwvok0l.xyz CNAME .
 quaocns.xyz CNAME .
@@ -868,6 +869,7 @@ ranking.fc2ppvdb.live CNAME .
 redshieldcar.com CNAME .
 reklama.teenfuckhd.com CNAME .
 reload.hotscopes.org CNAME .
+ren.bindeed.site CNAME .
 report.beta.bloblohub.com CNAME .
 reryn3ce.com CNAME .
 res.lintlink.com CNAME .
@@ -880,6 +882,10 @@ rs.picmega.com CNAME .
 rsd.viagrahtabs.shop CNAME .
 rst.pornyhd.com CNAME .
 ruradura.com CNAME .
+rwdh.asianxhub.com CNAME .
+rwdr.asianxhub.com CNAME .
+rwds.asianxhub.com CNAME .
+rwdt.asianxhub.com CNAME .
 s.arf.dev CNAME .
 s.axioporn.online CNAME .
 s.bigass.mom CNAME .
@@ -1000,6 +1006,7 @@ tlv.ui02.com CNAME .
 tmntft.com CNAME .
 too6jhvw.xyz CNAME .
 topdisplay.xyz CNAME .
+tot.suffed.site CNAME .
 touchjav09212026.shop CNAME .
 tqoneyyivw.club CNAME .
 tr.7vid.net CNAME .
@@ -1167,4 +1174,4 @@ store4porn.com CNAME .
 topsexmovs.com CNAME .
 video.cdnako.com CNAME .
 now.plsgotoasg.com CNAME .
-ontj.com CNAME .
+qoqv.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -972,12 +972,12 @@ $TTL 300
 8.notify.bizonads-ssp.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
+a.6hd49jng.com CNAME .
 a.b2bstars.com CNAME .
 a.b7q9v8z.com CNAME .
 a.cant3am.com CNAME .
 a.crme7srv.com CNAME .
 a.eunow4u.com CNAME .
-a.golhofer.com CNAME .
 a.ku34bh9la09.com CNAME .
 a.ma3ion.com CNAME .
 a.mx.notifysrv.com CNAME .
@@ -985,7 +985,6 @@ a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
-a.t5z3w0p.com CNAME .
 a.tf4srv.com CNAME .
 a.vws4brkfst.com CNAME .
 abc.notifysrv.com CNAME .
@@ -1152,6 +1151,8 @@ s.dsvfk5.com CNAME .
 s.dsw3rw.com CNAME .
 s.dswgzk.com CNAME .
 s.dswqta.com CNAME .
+s.dsxlez.com CNAME .
+s.dsxsdn.com CNAME .
 s.eaalink.com CNAME .
 s.ecwlink.com CNAME .
 s.elink2b.com CNAME .
@@ -1212,6 +1213,7 @@ s.exoqarys.com CNAME .
 s.exv6.com CNAME .
 s.flirtads.net CNAME .
 s.gatherstar.io CNAME .
+s.gentlefieldpattern.com CNAME .
 s.golhofer.com CNAME .
 s.hkartg.com CNAME .
 s.huispol.com CNAME .
@@ -1447,10 +1449,12 @@ a.bizonads-ssp.com CNAME .
 a.brilmaver.com CNAME .
 a.etology.com CNAME .
 a.gatherstar.io CNAME .
+a.golhofer.com CNAME .
 a.hkartg.com CNAME .
 a.humnert.com CNAME .
 a.pinkads.org CNAME .
 a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
+a.t5z3w0p.com CNAME .
 a.traffic-gold.com CNAME .

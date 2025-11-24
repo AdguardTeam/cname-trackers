@@ -195,8 +195,10 @@
 | l.lasanteauquotidien.com | tls.non.li |
 | l.latribune.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |
+| l.le-pays.fr | tls.non.li |
 | l.le10sport.com | tls.non.li |
 | l.lechasseurfrancais.com | tls.non.li |
+| l.lechorepublicain.fr | tls.non.li |
 | l.lecourriercauchois.fr | tls.non.li |
 | l.lecourrierdelamayenne.fr | tls.non.li |
 | l.lefigaro.fr | tls.non.li |
@@ -207,17 +209,20 @@
 | l.lemoniteurdespharmacies.fr | tls.non.li |
 | l.leparisien.fr | tls.non.li |
 | l.lepoint.fr | tls.non.li |
+| l.lepopulaire.fr | tls.non.li |
 | l.lequipe.fr | tls.non.li |
 | l.lequotidiendelart.com | tls.non.li |
 | l.lesnumeriques.com | tls.non.li |
 | l.lest-eclair.fr | tls.non.li |
 | l.letemps.ch | tls.non.li |
+| l.leveil.fr | tls.non.li |
 | l.lexpress.fr | tls.non.li |
 | l.lhebdoduvendredi.com | tls.non.li |
 | l.liberation-champagne.fr | tls.non.li |
 | l.lindependant.fr | tls.non.li |
 | l.linfoauquotidien.com | tls.non.li |
 | l.lunion.fr | tls.non.li |
+| l.lyonne.fr | tls.non.li |
 | l.madmoizelle.com | tls.non.li |
 | l.maison-travaux.fr | tls.non.li |
 | l.marianne.net | tls.non.li |
@@ -273,6 +278,7 @@
 | l.rmcsport.fr | tls.non.li |
 | l.roole.fr | tls.non.li |
 | l.rtl.fr | tls.non.li |
+| l.rue89strasbourg.com | tls.non.li |
 | l.rugbyrama.fr | tls.non.li |
 | l.science-et-vie.com | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
@@ -294,6 +300,7 @@
 | l.touteleurope.eu | tls.non.li |
 | l.trendencias.com | tls.non.li |
 | l.tudogostoso.com.br | tls.non.li |
+| l.tvauquotidien.com | tls.non.li |
 | l.uppercutmma.com | tls.non.li |
 | l.vert.eco | tls.non.li |
 | l.viepratique.fr | tls.non.li |

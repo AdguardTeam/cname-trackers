@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ ctrl.guenther.de CNAME .
 customer.growmart.de CNAME .
 data.diekuechedirekt.de CNAME .
 data.drhauschka.de CNAME .
+data.fitx.de CNAME .
 data.moebel-style.de CNAME .
 data.runners-kitchen.com CNAME .
 data.soristudios.de CNAME .
@@ -157,6 +158,7 @@ mktg.activemind.legal CNAME .
 monitoring.medizinbedarf.eu CNAME .
 monitoring.paw-wow.de CNAME .
 mytrd.orion.at CNAME .
+node.juve.de CNAME .
 pse.gabor.com CNAME .
 ric.arrive-im-herzogpark.de CNAME .
 ric.contur-muenchen.de CNAME .
@@ -166,7 +168,6 @@ salzburg.semsea.at CNAME .
 show.gruppedrei.com CNAME .
 sltracking.sonderlote.de CNAME .
 src.vector.com CNAME .
-sst.cannapoli.de CNAME .
 sst.grasrezept-vergleich.de CNAME .
 stat.beetfreunde.de CNAME .
 statistics.bergland.de CNAME .
@@ -174,6 +175,7 @@ statistics.finkhof.de CNAME .
 statistics.firmengruppe-burk.de CNAME .
 statistics.fruchtbarewelt.de CNAME .
 statistics.hagnauer.org CNAME .
+statistics.krohne.com CNAME .
 statistics.xpedite-dx.com CNAME .
 stats.die-bibel.de CNAME .
 stats.eliveshop.de CNAME .

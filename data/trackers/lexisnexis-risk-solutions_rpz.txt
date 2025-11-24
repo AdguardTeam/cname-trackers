@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -586,7 +586,6 @@ enligne.bnc.ca CNAME .
 ep-content.patento.pl CNAME .
 ep-content.vivigo.pl CNAME .
 ep-content.viviraty.pl CNAME .
-ep-content.vivus.pl CNAME .
 ep.heartland.co.nz CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
@@ -973,6 +972,7 @@ res.pay.ionos.com CNAME .
 rfp.intuit.com CNAME .
 rhino.gocardless.com CNAME .
 rm-3d84e791.payby.com CNAME .
+rmetrix.superbid.net CNAME .
 rmscheck.sbifxt.co.jp CNAME .
 rqt-cdna.paymentncb.cofidis.fr CNAME .
 rqt-cl-cdna.ecommerce.cofidis.it CNAME .

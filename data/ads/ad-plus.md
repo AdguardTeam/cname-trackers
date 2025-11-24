@@ -28,7 +28,6 @@
 | cdn33.protagcdn.com | serving.stat-rock.com |
 | player.urdupoint.com | serving.stat-rock.com |
 | serving.grapemedia.cz | serving.stat-rock.com |
-| serving.idolmedia360.com | serving.stat-rock.com |
 | serving.laimroll.ru | serving.stat-rock.com |
 | serving.lookverin.com | serving.stat-rock.com |
 | serving.mmmedia-group.com | serving.stat-rock.com |

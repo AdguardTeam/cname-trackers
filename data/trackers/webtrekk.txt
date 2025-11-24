@@ -246,21 +246,11 @@
 ||web.communications.amouage.com^
 ||web.comunicaciones.toysrus.pt^
 ||web.comunicazioni.iol.it^
-||web.crm.speedup.it^
 ||web.diebayerische.de^
 ||web.e.aldermore.co.uk^
-||web.e.bifoldsales.co.uk^
-||web.e.bolts.co.uk^
-||web.e.compositesales.co.uk^
-||web.e.dekogardensupplies.co.uk^
-||web.e.drainagepipe.co.uk^
-||web.e.guttersupplies.co.uk^
 ||web.e.obayaty.com^
 ||web.e.panmacmillan.com^
 ||web.e.pbslgroup.co.uk^
-||web.e.professionalbuildingsupplies.co.uk^
-||web.e.pvccladding.com^
-||web.e.soakaways.com^
 ||web.email.amplifiedclothing.com^
 ||web.email.bricocenter.it^
 ||web.email.farrow-ball.com^
@@ -307,6 +297,7 @@
 ||web.mapp.whiteaway.no^
 ||web.mapp.whiteaway.se^
 ||web.marcotozzi.com^
+||web.marketing.jellybelly.com^
 ||web.mytoys.de^
 ||web.news.absurdbeauty.com^
 ||web.news.bottegaverde.com^
@@ -329,7 +320,6 @@
 ||web.pondenhome-mail.com^
 ||web.post.toa.st^
 ||web.post.toast.co.uk^
-||web.powgen.at^
 ||web.powgen.cz^
 ||web.powgen.es^
 ||web.redazione.italiaoggi.it^
@@ -406,4 +396,3 @@
 ||wttd.madeleine.fr^
 ||wttd.madeleine.gr^
 ||www.a.jaz-hotel.com^
-||web.marketing.jellybelly.com^

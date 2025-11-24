@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -106,6 +106,7 @@ omyvimmw9wsk.t.mahapowerex.eu CNAME .
 otx23nu6rzon.prep.toppers.com CNAME .
 p7h1silo3f.app.cainthus.com CNAME .
 pgc5000di6pg.www.brizy.io CNAME .
+piqk97o4luyo.22games.net CNAME .
 q4l5gz6lqog6.www.eventus.io CNAME .
 qgvmfmu.crm.mijn.host CNAME .
 qh3ws6xr53zy.integ.partsavatar.ca CNAME .

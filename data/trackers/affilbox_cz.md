@@ -60,7 +60,6 @@
 | affil.hifimarket.cz | cz.affilbox.cz |
 | affil.hobbytec.cz | cz.affilbox.cz |
 | affil.jobsik.cz | cz.affilbox.cz |
-| affil.knihavyhod.cz | cz.affilbox.cz |
 | affil.knihazenasnov.sk | cz.affilbox.cz |
 | affil.kralovstvi-tiande.cz | cz.affilbox.cz |
 | affil.lesgoodies.com | cz.affilbox.cz |
@@ -219,9 +218,7 @@
 | affiliate.levsalonu.cz | cz.affilbox.cz |
 | affiliate.lg-store.cz | cz.affilbox.cz |
 | affiliate.licit.cz | cz.affilbox.cz |
-| affiliate.loveo.cz | cz.affilbox.cz |
 | affiliate.luxor.cz | cz.affilbox.cz |
-| affiliate.malujememazlicky.cz | cz.affilbox.cz |
 | affiliate.marketingminer.com | cz.affilbox.cz |
 | affiliate.martinchudy.sk | cz.affilbox.cz |
 | affiliate.martinreznicek.cz | cz.affilbox.cz |
@@ -830,7 +827,6 @@
 | partneri.espressoenglish.cz | cz.affilbox.cz |
 | partneri.evolveo.com | cz.affilbox.cz |
 | partneri.evolveo.cz | cz.affilbox.cz |
-| partneri.fengshuiacademy.cz | cz.affilbox.cz |
 | partneri.fitstore.cz | cz.affilbox.cz |
 | partneri.frcime.cz | cz.affilbox.cz |
 | partneri.freli.cz | cz.affilbox.cz |

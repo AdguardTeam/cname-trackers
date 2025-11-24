@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -159,8 +159,10 @@ l.larepubliquedespyrenees.fr CNAME .
 l.lasanteauquotidien.com CNAME .
 l.latribune.fr CNAME .
 l.lavoixdunord.fr CNAME .
+l.le-pays.fr CNAME .
 l.le10sport.com CNAME .
 l.lechasseurfrancais.com CNAME .
+l.lechorepublicain.fr CNAME .
 l.lecourriercauchois.fr CNAME .
 l.lecourrierdelamayenne.fr CNAME .
 l.ledauphine.com CNAME .
@@ -173,18 +175,21 @@ l.lemagauquotidien.com CNAME .
 l.lemoniteurdespharmacies.fr CNAME .
 l.leparisien.fr CNAME .
 l.lepoint.fr CNAME .
+l.lepopulaire.fr CNAME .
 l.leprogres.fr CNAME .
 l.lequipe.fr CNAME .
 l.lequotidiendelart.com CNAME .
 l.lesnumeriques.com CNAME .
 l.lest-eclair.fr CNAME .
 l.letemps.ch CNAME .
+l.leveil.fr CNAME .
 l.lexpress.fr CNAME .
 l.lhebdoduvendredi.com CNAME .
 l.liberation-champagne.fr CNAME .
 l.lindependant.fr CNAME .
 l.linfoauquotidien.com CNAME .
 l.lunion.fr CNAME .
+l.lyonne.fr CNAME .
 l.madmoizelle.com CNAME .
 l.maison-travaux.fr CNAME .
 l.marianne.net CNAME .
@@ -245,6 +250,7 @@ l.rmc.fr CNAME .
 l.rmcsport.fr CNAME .
 l.roole.fr CNAME .
 l.rtl.fr CNAME .
+l.rue89strasbourg.com CNAME .
 l.rugbyrama.fr CNAME .
 l.science-et-vie.com CNAME .
 l.sciencesetavenir.fr CNAME .
@@ -267,6 +273,7 @@ l.touteleurope.eu CNAME .
 l.traxmag.com CNAME .
 l.trendencias.com CNAME .
 l.tudogostoso.com.br CNAME .
+l.tvauquotidien.com CNAME .
 l.uppercutmma.com CNAME .
 l.varmatin.com CNAME .
 l.vert.eco CNAME .

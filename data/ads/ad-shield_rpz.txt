@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763366409914        ; Serial
+           1763971208814        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1180,6 +1180,7 @@ www.29662166.xyz CNAME .
 www.2wu0m0ms098w7148.xyz CNAME .
 www.33109166.xyz CNAME .
 www.35452888.xyz CNAME .
+www.38167473.xyz CNAME .
 www.425kmk7n9wn21pwvl18.xyz CNAME .
 www.42862874.xyz CNAME .
 www.4547u5qms0m2um3rrum2wuo.xyz CNAME .

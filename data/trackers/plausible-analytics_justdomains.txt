@@ -11,7 +11,6 @@ analytics.andrewsmith.com.au
 analytics.arunraghavan.net
 analytics.basistheory.com
 analytics.betterplaces.nl
-analytics.certifriedit.com
 analytics.churchthemes.com
 analytics.codeforscience.org
 analytics.codeskulptor.org
@@ -589,7 +588,6 @@ stats.missionmet.com
 stats.missionrabies.com
 stats.moco-comics.com
 stats.mostlycoding.com.au
-stats.motion-effect.com
 stats.motorcyclepartsireland.ie
 stats.mrtnvh.com
 stats.multiplelenses.com
@@ -657,7 +655,6 @@ stats.practicepl.us
 stats.pri.org
 stats.pricewell.io
 stats.principedepaz.gt
-stats.print.work
 stats.processserver101.com
 stats.procumeni.cz
 stats.prodtype.com
@@ -714,7 +711,6 @@ stats.shiftx.com
 stats.shobokshy.com
 stats.simplinetworks.com
 stats.sirdata.com
-stats.sixseven.at
 stats.ski.com
 stats.socialeurope.eu
 stats.southswindon-pc.gov.uk
@@ -816,7 +812,6 @@ tics.techdirt.com
 tipstats.onepagelove.com
 tock.weg.plus
 track.slickinbox.com
-traffic.hostedstatus.page
 traffic.taktikal.is
 triton.companyegg.com
 usage.growthbook.io

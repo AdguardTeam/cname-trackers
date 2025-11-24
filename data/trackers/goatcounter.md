@@ -127,6 +127,7 @@
     * psiyum.goatcounter.com
     * qrdate.goatcounter.com
     * r18.goatcounter.com
+    * repath-studio.goatcounter.com
     * riccardomurachelli.goatcounter.com
     * riggraz.goatcounter.com
     * risanne.goatcounter.com
@@ -167,7 +168,6 @@
     * valentineus.goatcounter.com
     * vault.goatcounter.com
     * vpro.goatcounter.com
-    * wackomenace.goatcounter.com
     * whatacools.goatcounter.com
     * ybbond.goatcounter.com
     * ygoprint.goatcounter.com
@@ -308,6 +308,7 @@
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
 | stats.r18.dev | r18.goatcounter.com |
+| analytics.repath.studio | repath-studio.goatcounter.com |
 | stats.riccardomurachelli.it | riccardomurachelli.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.risanne.nl | risanne.goatcounter.com |
@@ -348,7 +349,6 @@
 | analytics.popov.link | valentineus.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
-| stats.wackomenace.co.uk | wackomenace.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
 | science.ygoprint.org | ygoprint.goatcounter.com |

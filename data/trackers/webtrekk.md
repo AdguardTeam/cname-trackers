@@ -108,12 +108,12 @@
     * 470719744966924.wt-eu02.net
     * 472164549827987.wt-eu02.net
     * 475966354471123.wt-eu02.net
-    * 481394388917209.wt-eu02.net
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 487143832382979.wt-eu02.net
     * 489164258023327.wt-eu02.net
     * 492778793747615.wt-eu02.net
+    * 495967780350059.wt-eu02.net
     * 516595732855224.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 545460378195639.wt-eu02.net
@@ -364,12 +364,12 @@
 | webt.store.okmilo.com | 470719744966924.wt-eu02.net |
 | data.babista.ch | 472164549827987.wt-eu02.net |
 | startrekk.flaconi.ch | 475966354471123.wt-eu02.net |
-| web.crm.speedup.it | 481394388917209.wt-eu02.net |
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.news.coccinelle.com | 487143832382979.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
 | web.news.absurdbeauty.com | 492778793747615.wt-eu02.net |
+| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | web2.updates.ditano.com | 516595732855224.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
@@ -378,16 +378,7 @@
 | web.info.xerjoff.com | 572457300660290.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
-| web.e.bifoldsales.co.uk | 587628343151442.wt-eu02.net |
-| web.e.bolts.co.uk | 587628343151442.wt-eu02.net |
-| web.e.compositesales.co.uk | 587628343151442.wt-eu02.net |
-| web.e.dekogardensupplies.co.uk | 587628343151442.wt-eu02.net |
-| web.e.drainagepipe.co.uk | 587628343151442.wt-eu02.net |
-| web.e.guttersupplies.co.uk | 587628343151442.wt-eu02.net |
 | web.e.pbslgroup.co.uk | 587628343151442.wt-eu02.net |
-| web.e.professionalbuildingsupplies.co.uk | 587628343151442.wt-eu02.net |
-| web.e.pvccladding.com | 587628343151442.wt-eu02.net |
-| web.e.soakaways.com | 587628343151442.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
 | info.allango.net | 599048080139251.wt-eu02.net |
@@ -442,7 +433,6 @@
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.post.toa.st | 792207084509163.wt-eu02.net |
 | web.post.toast.co.uk | 792207084509163.wt-eu02.net |
-| web.powgen.at | 795078683620107.wt-eu02.net |
 | web.powgen.cz | 795078683620107.wt-eu02.net |
 | web.powgen.es | 795078683620107.wt-eu02.net |
 | data.babista.de | 811475980920799.wt-eu02.net |

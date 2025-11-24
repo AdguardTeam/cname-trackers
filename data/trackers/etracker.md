@@ -45,6 +45,7 @@
 | customer.growmart.de | customer.etracker.com |
 | data.diekuechedirekt.de | customer.etracker.com |
 | data.drhauschka.de | customer.etracker.com |
+| data.fitx.de | customer.etracker.com |
 | data.moebel-style.de | customer.etracker.com |
 | data.runners-kitchen.com | customer.etracker.com |
 | data.soristudios.de | customer.etracker.com |
@@ -162,6 +163,7 @@
 | monitoring.medizinbedarf.eu | customer.etracker.com |
 | monitoring.paw-wow.de | customer.etracker.com |
 | mytrd.orion.at | customer.etracker.com |
+| node.juve.de | customer.etracker.com |
 | pse.gabor.com | customer.etracker.com |
 | ric.arrive-im-herzogpark.de | customer.etracker.com |
 | ric.contur-muenchen.de | customer.etracker.com |
@@ -171,7 +173,6 @@
 | show.gruppedrei.com | customer.etracker.com |
 | sltracking.sonderlote.de | customer.etracker.com |
 | src.vector.com | customer.etracker.com |
-| sst.cannapoli.de | customer.etracker.com |
 | sst.grasrezept-vergleich.de | customer.etracker.com |
 | stat.beetfreunde.de | customer.etracker.com |
 | statistics.bergland.de | customer.etracker.com |
@@ -179,6 +180,7 @@
 | statistics.firmengruppe-burk.de | customer.etracker.com |
 | statistics.fruchtbarewelt.de | customer.etracker.com |
 | statistics.hagnauer.org | customer.etracker.com |
+| statistics.krohne.com | customer.etracker.com |
 | statistics.xpedite-dx.com | customer.etracker.com |
 | stats.die-bibel.de | customer.etracker.com |
 | stats.eliveshop.de | customer.etracker.com |
