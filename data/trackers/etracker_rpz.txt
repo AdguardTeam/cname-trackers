@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -117,6 +117,7 @@ etracker.alex-gross.com CNAME .
 etracker.cjd.de CNAME .
 etracker.limbachgruppe.com CNAME .
 etracker.lukas-becker.eu CNAME .
+etracker.mammutmarsch.de CNAME .
 etracker.novicon.net CNAME .
 etracker.riess-gruppe.de CNAME .
 etracker.seoversiert.de CNAME .
@@ -146,6 +147,7 @@ metrics.greatvita.de CNAME .
 metrics.leimer.de CNAME .
 metrics.meineversicherungswelt.de CNAME .
 metrics.moderade.com CNAME .
+metrics.muehle-glashuette.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.stilvol.de CNAME .
 metrics.thegoodshit.store CNAME .

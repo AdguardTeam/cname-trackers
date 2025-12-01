@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 1bf86f4b.tictoc.ai CNAME .
 1of1.skipcash.app CNAME .
 4652415544.balancecredit.com CNAME .
+abfrage.etakenya.go.ke CNAME .
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 adprtm53.cardgold.it CNAME .
@@ -583,9 +584,7 @@ edge.privacy.com.br CNAME .
 ela1.bankofscotland.co.uk CNAME .
 elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
-ep-content.patento.pl CNAME .
 ep-content.vivigo.pl CNAME .
-ep-content.viviraty.pl CNAME .
 ep.heartland.co.nz CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
@@ -1072,6 +1071,7 @@ svc.bangkokbank.com CNAME .
 svc.ondeck.com.au CNAME .
 svc1.sc.com CNAME .
 svc2.sc.com CNAME .
+t.aldi-mobile.ch CNAME .
 t.chmobile.ch CNAME .
 t.lebara.ch CNAME .
 t.liberty.com.au CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,12 +33,10 @@ he.zymorico.ru CNAME .
 m3.repka.online CNAME .
 media.olmiweb.com CNAME .
 media.rabbit.click CNAME .
-mondaysale.bid CNAME .
 mu.zilovaro.store CNAME .
 my.rb2psh.ru CNAME .
 newrotatormarch23.bid CNAME .
 news.unsere-news.ru CNAME .
-noradown.bid CNAME .
 nservw.net CNAME .
 owmedia.rabbit.click CNAME .
 owpush.rabbit.click CNAME .
@@ -72,7 +70,6 @@ www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .
 www.fasder12.ru CNAME .
 www.fasder12.store CNAME .
-www.horpush.ru CNAME .
 www.mojwprb.ru CNAME .
 www.orbitnotify.com CNAME .
 www.pc-download.ru CNAME .

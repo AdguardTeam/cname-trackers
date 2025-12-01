@@ -44,8 +44,6 @@
 | l.lejsl.com | origin.non.li |
 | l.leprogres.fr | origin.non.li |
 | l.republicain-lorrain.fr | origin.non.li |
-| l.vosgesmatin.fr | origin.non.li |
-| l.vosgesmatin.fr | origin.non.li |
 | l.bienpublic.com | tls-ebra.non.li |
 | l.dna.fr | tls-ebra.non.li |
 | l.estrepublicain.fr | tls-ebra.non.li |
@@ -54,7 +52,6 @@
 | l.lejsl.com | tls-ebra.non.li |
 | l.leprogres.fr | tls-ebra.non.li |
 | l.republicain-lorrain.fr | tls-ebra.non.li |
-| l.vosgesmatin.fr | tls-ebra.non.li |
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
@@ -92,6 +89,7 @@
 | l.alternatives-economiques.fr | tls.non.li |
 | l.applesfera.com | tls.non.li |
 | l.argentauquotidien.com | tls.non.li |
+| l.astucesauquotidien.com | tls.non.li |
 | l.aujourdhui.fr | tls.non.li |
 | l.auto-moto.com | tls.non.li |
 | l.autojournal.fr | tls.non.li |
@@ -103,6 +101,7 @@
 | l.beauxarts.com | tls.non.li |
 | l.bfmtv.com | tls.non.li |
 | l.bibamagazine.fr | tls.non.li |
+| l.bourseinside.fr | tls.non.li |
 | l.caminteresse.fr | tls.non.li |
 | l.capital.fr | tls.non.li |
 | l.centre-presse.fr | tls.non.li |
@@ -191,7 +190,9 @@
 | l.lanouvellerepublique.fr | tls.non.li |
 | l.lardennais.fr | tls.non.li |
 | l.larenaissancehebdo.fr | tls.non.li |
+| l.larep.fr | tls.non.li |
 | l.larepubliquedespyrenees.fr | tls.non.li |
+| l.largus.fr | tls.non.li |
 | l.lasanteauquotidien.com | tls.non.li |
 | l.latribune.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |

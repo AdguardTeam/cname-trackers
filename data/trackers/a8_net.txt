@@ -1005,7 +1005,6 @@
 ||a8cv.itscoco.shop^
 ||a8cv.iwamizu.com^
 ||a8cv.japaden.jp^
-||a8cv.jbl-link.com^
 ||a8cv.jcom.co.jp^
 ||a8cv.jeansmate.co.jp^
 ||a8cv.jemmy.co.jp^
@@ -1141,7 +1140,6 @@
 ||a8cv.otoriyose.site^
 ||a8cv.paidy.com^
 ||a8cv.paintory.com^
-||a8cv.palms-gym.com^
 ||a8cv.peraichiapp.com^
 ||a8cv.pf.classicmusic.tokyo^
 ||a8cv.photo.concorde-corp.jp^

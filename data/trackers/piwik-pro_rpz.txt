@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ mphdd.multipharma.be CNAME .
 p-pan.triodos.com CNAME .
 p.zwilling.com CNAME .
 piwik.com-online.com CNAME .
+piwik.eib.org CNAME .
 piwik.slotsparadise.com CNAME .
 piwik.twyzle.com CNAME .
 piwik.vegasaces.com CNAME .

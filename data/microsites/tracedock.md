@@ -14,16 +14,12 @@
 * adktracking-1671721947.eu-west-3.elb.amazonaws.com
 * nova-collector-1192479543.us-east-1.elb.amazonaws.com
 * tau-collector-2141062151.eu-west-1.elb.amazonaws.com
-* tau.collect.igodigital.com
-* nova.collect.igodigital.com
 * ad-us1-pov-cm-nlb-b6edaf2617cd78a3.elb.us-east-1.amazonaws.com
-* protal-analytics-lber-773316852.ap-east-1.elb.amazonaws.com
 * ad-car-prod-1880381550.ap-northeast-2.elb.amazonaws.com
 * ad-interactions-prod-lb-773417274.us-east-2.elb.amazonaws.com
 * ad-interactions-prod-lb-1426714899.eu-west-2.elb.amazonaws.com
 * s3-website-us-west-1.amazonaws.com
 * ad-imp-1430749923.ap-northeast-2.elb.amazonaws.com
-* ad-stats-daily-stg-1.ctwsppe1onsf.eu-west-1.rds.amazonaws.com
 * ad-stats-daily-stg-0.ctwsppe1onsf.eu-west-1.rds.amazonaws.com
 * adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
 * ad-elb-sbx01-1462312431.us-east-2.elb.amazonaws.com
@@ -117,7 +113,6 @@
 | www.nq-mobile.com | ad-report-587501361.us-west-1.elb.amazonaws.com |
 | api-stage.facturacionmcdonalds.com.mx | ad-stage-356375666.us-east-1.elb.amazonaws.com |
 | ad-stats-writer.stg.01.eu-west-1.eu.olx.org | ad-stats-daily-stg-0.ctwsppe1onsf.eu-west-1.rds.amazonaws.com |
-| ad-stats-reader.stg.01.eu-west-1.eu.olx.org | ad-stats-daily-stg-1.ctwsppe1onsf.eu-west-1.rds.amazonaws.com |
 | 8ql60l2kzjanitvc.internal.pov.acceldatasolutions.net | ad-us1-pov-cm-nlb-b6edaf2617cd78a3.elb.us-east-1.amazonaws.com |
 | be7wjd7htvadmddj.internal.pov.acceldatasolutions.net | ad-us1-pov-cm-nlb-b6edaf2617cd78a3.elb.us-east-1.amazonaws.com |
 | ku3v7v2o10w0ptv9.internal.pov.acceldatasolutions.net | ad-us1-pov-cm-nlb-b6edaf2617cd78a3.elb.us-east-1.amazonaws.com |
@@ -876,7 +871,6 @@
 | 100002010.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002017.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002025.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 100002035.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002040.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002105.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002111.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -916,7 +910,6 @@
 | 100002787.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002788.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002789.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 100002804.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002807.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002819.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100002881.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -937,7 +930,6 @@
 | 100003229.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100003270.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100003273.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 100003277.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100003282.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100003364.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100003387.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -1186,6 +1178,7 @@
 | 514009935.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514013685.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514021787.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
+| 514023043.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514023214.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514025538.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514027809.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -1327,6 +1320,7 @@
 | 7297790.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7297803.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7298601.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
+| 7299776.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7300007.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7300013.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7300368.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -1355,8 +1349,6 @@
 | 8200011.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | perryellis.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | therealreal.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 514023043.collect.igodigital.com | nova.collect.igodigital.com |
-| 7299776.collect.igodigital.com | nova.collect.igodigital.com |
 | collector.global.xdome.claroty.com | opentelemetry-collector-1730785506.us-east-1.elb.amazonaws.com |
 | analytics.airtv.net | p-dany-analytics-1643478883.us-west-2.elb.amazonaws.com |
 | analytics.sling.com | p-dany-analytics-1643478883.us-west-2.elb.amazonaws.com |
@@ -1365,7 +1357,6 @@
 | rum-collector.pingdom.net | prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com |
 | kr-ad-dcsn.aws.tving.com | prod-nlb-ad-decision-ex-f66f351d1a85e853.elb.ap-northeast-2.amazonaws.com |
 | metrics-api.librato.com | prodvpc-metrics-alb-283170797.us-east-1.elb.amazonaws.com |
-| a.hyenadata.net | protal-analytics-lber-773316852.ap-east-1.elb.amazonaws.com |
 | banners.designashirt.com | s3-w.us-east-1.amazonaws.com |
 | banners.royalpixel.com.br | s3-website-sa-east-1.amazonaws.com |
 | ad-heros.com | s3-website-us-west-1.amazonaws.com |
@@ -1386,6 +1377,7 @@
 | 100002836.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | 100003302.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | 100004000.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
+| 100008225.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | 100008622.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | 100009050.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | 100013802.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
@@ -1416,7 +1408,6 @@
 | 7325687.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | enviedeplus.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | sfdc.cottages.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
-| 100008225.collect.igodigital.com | tau.collect.igodigital.com |
 | r.dochaseadx.com | tracker-alb-958500657.us-east-1.elb.amazonaws.com |
 | tracker.boredpanda.com | tracker-load-balancer-910132794.us-east-1.elb.amazonaws.com |
 | isc-tracking.eventim.com | tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com |

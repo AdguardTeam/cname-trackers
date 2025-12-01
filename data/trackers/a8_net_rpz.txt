@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1016,7 +1016,6 @@ a8cv.isuzu-rinji.com CNAME .
 a8cv.itscoco.shop CNAME .
 a8cv.iwamizu.com CNAME .
 a8cv.japaden.jp CNAME .
-a8cv.jbl-link.com CNAME .
 a8cv.jcom.co.jp CNAME .
 a8cv.jeansmate.co.jp CNAME .
 a8cv.jemmy.co.jp CNAME .
@@ -1152,7 +1151,6 @@ a8cv.otakudathough.com CNAME .
 a8cv.otoriyose.site CNAME .
 a8cv.paidy.com CNAME .
 a8cv.paintory.com CNAME .
-a8cv.palms-gym.com CNAME .
 a8cv.peraichiapp.com CNAME .
 a8cv.pf.classicmusic.tokyo CNAME .
 a8cv.photo.concorde-corp.jp CNAME .

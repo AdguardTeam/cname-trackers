@@ -45,7 +45,6 @@ sponsor.syracuse.com
 1f3ab586c0.33e70fcb8e.com
 1f499c823a.f941d843f8.com
 21634aa7ae.2ba0f6361c.com
-2465ea745e.89558cd8d1.com
 24f89c62f4.c4dfcacaa9.com
 26e5cdfa54.ebfe416c5c.com
 27064b2d7e.fb8fb174cf.com
@@ -78,7 +77,6 @@ sponsor.syracuse.com
 3aa5342c9f.8b2b018606.com
 3b1d253452.8ea1272194.com
 3b694d57dc.ff1232f5f3.com
-3b71ae07b7.5bb3e0be1a.com
 3bd0eb632a.ea87707b92.com
 3c0bb1b6ad.25ed3d6f24.com
 3c12cce224.c4db8f5827.com
@@ -90,7 +88,6 @@ sponsor.syracuse.com
 3f9d5d7286.3ca9dc59cc.com
 3fedefbe70.0300acdff2.com
 40b9a96edf.3a6a721b13.com
-4184fdf4c0.46f884ead3.com
 423c61dd04.d0d5d6db3b.com
 42be5b600b.fcac6f9c91.com
 430e6749c9.4a93064ed9.com
@@ -105,6 +102,7 @@ sponsor.syracuse.com
 486ebce767.1521f6cf6a.com
 487a26891a.1ed8ae4970.com
 48d25a1156.0b8c767b16.com
+49c90e13b2.c813dd7e93.com
 4a7fe038cf.e48e29ca2b.com
 4ada3756e4.390c1c46b8.com
 4c13387070.150791bf69.com
@@ -126,7 +124,6 @@ sponsor.syracuse.com
 58d245d6b5.be429dd00e.com
 5953096a4b.d76cd1b5fb.com
 5a9bbbbeae.c3b1912666.com
-5d0405d69d.7677b41a02.com
 5e0c677015.717d165445.com
 60537d5324.94ea40fd7b.com
 60cedb9d45.c959924432.com
@@ -143,7 +140,6 @@ sponsor.syracuse.com
 66b978fced.59767b8571.com
 66f064c408.8455251186.com
 67f70ab742.0551acf6ed.com
-683bf625f2.6e6ab61908.com
 696d24eeec.cea5ceb67a.com
 69c337174c.601a4993f0.com
 6a568c2959.efdbdc0d8b.com
@@ -176,7 +172,6 @@ sponsor.syracuse.com
 8655437872.1f1d9a652e.com
 8922d8bced.2bd77addac.com
 8b77d90e45.1b60887cd1.com
-8b9cf751fc.e00623c9a6.com
 8c40fb9c8e.e61f59ebf7.com
 8ced4d3c11.dc5cede8fb.com
 8cf31407cf.9c7a355783.com
@@ -239,6 +234,7 @@ bc17f0a6b0.491ad1417d.com
 bd4afc201d.a9a878a4a2.com
 bd5a04cfd5.2e4d034bab.com
 be8d232c28.7a37d4e31f.com
+beb0ad5bff.c9df1be7cc.com
 bed6c3dbc7.c7b6f80a62.com
 bf38c78f71.4c1d9ff598.com
 bf69292cc9.71f3eb2dc9.com
@@ -251,7 +247,6 @@ c3dc092e5d.e365275045.com
 c42d357c54.8d310a6a39.com
 c56b030151.fe17ba9b40.com
 c6a4712ab6.91562f6de0.com
-c7709c5873.28f6ebafa2.com
 c8fbd6515f.9fe0bb9836.com
 c98c4ff7d9.cf625c6093.com
 ca726f00be.d8c9bf3664.com

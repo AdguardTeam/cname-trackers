@@ -62,7 +62,6 @@
 | api.elliehuxtable.com | custom.plausible.io |
 | api.fuck.education | custom.plausible.io |
 | api.ryanyao.design | custom.plausible.io |
-| apis.4bn.xyz | custom.plausible.io |
 | app-stats.supernotes.app | custom.plausible.io |
 | artistchristinacarmel.ericksonbuilt.com | custom.plausible.io |
 | assets.garron.blog | custom.plausible.io |

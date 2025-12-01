@@ -22,12 +22,10 @@
 ||m3.repka.online^
 ||media.olmiweb.com^
 ||media.rabbit.click^
-||mondaysale.bid^
 ||mu.zilovaro.store^
 ||my.rb2psh.ru^
 ||newrotatormarch23.bid^
 ||news.unsere-news.ru^
-||noradown.bid^
 ||nservw.net^
 ||owmedia.rabbit.click^
 ||owpush.rabbit.click^
@@ -61,7 +59,6 @@
 ||www.androidstores.ru^
 ||www.fasder12.ru^
 ||www.fasder12.store^
-||www.horpush.ru^
 ||www.mojwprb.ru^
 ||www.orbitnotify.com^
 ||www.pc-download.ru^

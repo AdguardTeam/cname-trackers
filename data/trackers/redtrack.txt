@@ -129,7 +129,6 @@
 ||de.sevoly.de^
 ||deal.trk.agency^
 ||deb.spendsky.com^
-||dentalbenifitsnearme.com^
 ||download.howtosellahouse.info^
 ||duce.parc-consulting.com^
 ||ecologi.link^
@@ -349,7 +348,6 @@
 ||lu9xve2c97l898gjjxv4.spellrock.com^
 ||lu9xve2c97l898gjjxv4.sportinal.com^
 ||lu9xve2c97l898gjjxv4.thefashionball.com^
-||lu9xve2c97l898gjjxv4.unpasted.com^
 ||mail.rtdyotrck.com^
 ||mail4.adgtrk.com^
 ||main.adblock-gold.com^
@@ -493,7 +491,6 @@
 ||rtk.af.clinicagransol.com^
 ||rtk.falalima.com.br^
 ||rtk.metodoqu4tro.com^
-||rtk.resetvitamina.com^
 ||rtk.san-marco.com^
 ||rtk.trk.affordablehealthamerica.com^
 ||rtk.trk.affordablemainplans.com^
@@ -509,7 +506,6 @@
 ||rtk.trk.benefitsreveal.com^
 ||rtk.trk.bestbenefitscouts.com^
 ||rtk.trk.betterbenefitsforseniors.com^
-||rtk.trk.brightshieldhealth.com^
 ||rtk.trk.budgetcenterusa.com^
 ||rtk.trk.callforbenefits.com^
 ||rtk.trk.careforallnow.com^
@@ -521,7 +517,6 @@
 ||rtk.trk.easycoveragenow.com^
 ||rtk.trk.easyexpensecoverage.com^
 ||rtk.trk.easyfinalplan.com^
-||rtk.trk.everydayhealthrebates.com^
 ||rtk.trk.expenseguideusa.com^
 ||rtk.trk.familycoverageandcare.com^
 ||rtk.trk.finalplanexperts.com^
@@ -544,6 +539,7 @@
 ||rtk.trk.perfectpitchgroupllc.com^
 ||rtk.trk.planninghealthwise.com^
 ||rtk.trk.premiumhealthsubsidy.com^
+||rtk.trk.primehealthchoices.com^
 ||rtk.trk.reliablehealthoptions.com^
 ||rtk.trk.savingstipsdaily.com^
 ||rtk.trk.securefuturehealth.com^
@@ -564,7 +560,6 @@
 ||rtk.trk.thebenefitslineusa.com^
 ||rtk.trk.theonlinecarecenters.com^
 ||rtk.trk.totalcareenrollment.com^
-||rtk.trk.totalcarepath.com^
 ||rtk.trk.trustedbenefitstoday.com^
 ||rtk.trk.trustedbenefitsusa.com^
 ||rtk.trk.ultimatecoverageplans.com^
@@ -801,7 +796,6 @@
 ||track.prostaprime.com^
 ||track.quickestcoverage.ca^
 ||track.quizinsurance.com^
-||track.rabbclk.com^
 ||track.reliefontime.com^
 ||track.remarkableheadlines.shop^
 ||track.remotemode.com^
@@ -847,7 +841,6 @@
 ||track.tracerurlvis.com^
 ||track.trackmate777.com^
 ||track.trackmate888.com^
-||track.trglm.com^
 ||track.ultrazo.co^
 ||track.usadailyjournal.com^
 ||track.usxwb.co^
@@ -971,6 +964,7 @@
 ||trk.newseniorbenefits.com^
 ||trk.nimasound.com^
 ||trk.omgosh.co^
+||trk.ozemgummy.com^
 ||trk.quicksavingstoday.com^
 ||trk.reliefcenteraid.org^
 ||trk.seniorbenefitmatch.com^
@@ -996,7 +990,6 @@
 ||trk.trkr.store^
 ||trk.trksky23.com^
 ||trk.trktrackingfbads.click^
-||trk.trktrackingpt.click^
 ||trk.truehealthytoday.com^
 ||trk.trxops.com^
 ||trk.ucttrakm.com^
@@ -1050,7 +1043,6 @@
 ||www.adgtrk.com^
 ||www.bigclicktrakk.com^
 ||www.dctrckng.com^
-||www.dentalbenifitsnearme.com^
 ||www.eyecarebeautytips.com^
 ||www.glxrina.site^
 ||www.glxta.site^
@@ -1073,6 +1065,7 @@
 ||adtrack.ovotaris.com^
 ||alex.coatdefense.com^
 ||api.realmentor.net^
+||app.redtrack.cc^
 ||att.biaxoltrck.com^
 ||att.prflbs.com^
 ||att.track.keunehungary.hu^
@@ -1120,6 +1113,8 @@
 ||hi.zaufanarecenzja.pl^
 ||i.do.adtrack.it^
 ||insight.apothekenblatt.de^
+||insight.carla-jewelry.com^
+||insight.cumaskincare.com^
 ||insight.fluff.co^
 ||insight.gelexobel.de^
 ||insight.hoola.com^
@@ -1129,6 +1124,7 @@
 ||insight.vinnea.dk^
 ||insight.vinnea.no^
 ||insight.vinnea.se^
+||insights.cadense.com^
 ||km.adsdomaintracking.com^
 ||krt.trickovy.cz^
 ||krt.trickovy.sk^
@@ -1160,7 +1156,6 @@
 ||rdrt.simplebooking.it^
 ||record.t.top4smm.com^
 ||red.belle-body.de^
-||red.kurk.us^
 ||red.marcoshoes.com^
 ||red.swissfx.net^
 ||red.veloureuk.com^
@@ -1176,6 +1171,7 @@
 ||register.astro-palace.com^
 ||route.actec-solar.de^
 ||rt.dispo-seo.com^
+||rt.moerie.com^
 ||rt.quaresmadopadrepio.com^
 ||rt.sanascience.com^
 ||rt.sultanofstyle.de^
@@ -1184,6 +1180,7 @@
 ||rt2.afiliadosniper.com^
 ||rtattr.skyup.aero^
 ||rtk.dailymentips.com^
+||rtk.larsonjewelers.com^
 ||rtk.mag-store.fun^
 ||rtk.magstore.shop^
 ||rtk.toptoon.com^
@@ -1202,6 +1199,7 @@
 ||rtrk.swipeyai.com^
 ||rttrk.wyylde.com^
 ||s2s.overgear.com^
+||sara.buenospa.com^
 ||sde.steptosportde.com^
 ||secure.gbb77.com^
 ||secure.mheboost.com^
@@ -1287,6 +1285,7 @@
 ||track.truesource.com.br^
 ||track.vbet.bet.br^
 ||track.venitotrack.online^
+||track.victorybet.ro^
 ||track.vilanovapark.com^
 ||track.weflatables.com^
 ||track.westore24.com^
@@ -1346,16 +1345,16 @@
 ||pl.trk.quirkalooquotient.com^
 ||pl.trk.wackywonderlandweb.com^
 ||rt.policyfamilyquote.com^
+||summitrix.com^
+||t.aineuralnarrative.com^
 ||tr.track-myleads.com^
 ||track.nativead.be^
 ||track.topsolutions.club^
-||track.trkbtga.com^
+||trk.acareliefact.org^
 ||trk.getpestdefensepro.com^
-||trk.saveclever.org^
 ||click.mmotoplay.com^
-||summitrix.com^
-||t.aineuralnarrative.com^
 ||track.24monetize.com^
 ||track.glukobestpro.net^
 ||track.routes.name^
-||trk.acareliefact.org^
+||track.trkbtga.com^
+||trk.saveclever.org^

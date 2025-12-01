@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ dashboard.xqubemedia.com CNAME .
 player.resonance.pk CNAME .
 player.urdupoint.com CNAME .
 serving.grapemedia.cz CNAME .
+serving.greeter.lat CNAME .
 serving.laimroll.ru CNAME .
 serving.lookverin.com CNAME .
 serving.mmmedia-group.com CNAME .

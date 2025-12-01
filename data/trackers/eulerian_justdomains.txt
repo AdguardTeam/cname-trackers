@@ -390,7 +390,6 @@ ssrlot.lotoquebec.com
 ssy7.destinia.com.ua
 t.locasun-vp.fr
 t.locasun.co.uk
-t.locasun.es
 t.locasun.fr
 t.pmu.fr
 t.voyages-sncf.com

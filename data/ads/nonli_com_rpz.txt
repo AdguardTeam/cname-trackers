@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -47,6 +47,7 @@ l.allocine.fr CNAME .
 l.alternatives-economiques.fr CNAME .
 l.applesfera.com CNAME .
 l.argentauquotidien.com CNAME .
+l.astucesauquotidien.com CNAME .
 l.aufeminin.com CNAME .
 l.aujourdhui.fr CNAME .
 l.auto-moto.com CNAME .
@@ -62,6 +63,7 @@ l.bibamagazine.fr CNAME .
 l.bienpublic.com CNAME .
 l.blissim.fr CNAME .
 l.bon-esprit.fr CNAME .
+l.bourseinside.fr CNAME .
 l.caminteresse.fr CNAME .
 l.capital.fr CNAME .
 l.centre-presse.fr CNAME .
@@ -155,7 +157,9 @@ l.lanouvellerepublique.fr CNAME .
 l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
 l.larenaissancehebdo.fr CNAME .
+l.larep.fr CNAME .
 l.larepubliquedespyrenees.fr CNAME .
+l.largus.fr CNAME .
 l.lasanteauquotidien.com CNAME .
 l.latribune.fr CNAME .
 l.lavoixdunord.fr CNAME .
@@ -279,7 +283,6 @@ l.varmatin.com CNAME .
 l.vert.eco CNAME .
 l.viepratique.fr CNAME .
 l.voici.fr CNAME .
-l.vosgesmatin.fr CNAME .
 l.whatsupdoc-lemag.fr CNAME .
 l.xataka.com CNAME .
 l.xataka.com.br CNAME .

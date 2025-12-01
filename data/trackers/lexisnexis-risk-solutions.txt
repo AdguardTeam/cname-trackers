@@ -3,6 +3,7 @@
 ||1bf86f4b.tictoc.ai^
 ||1of1.skipcash.app^
 ||4652415544.balancecredit.com^
+||abfrage.etakenya.go.ke^
 ||acdc.toolineo.de^
 ||acsweb-3dr1.dnp-cdms.jp^
 ||adprtm53.cardgold.it^
@@ -572,9 +573,7 @@
 ||ela1.bankofscotland.co.uk^
 ||elevate.stg.na02.aws.ballys.tech^
 ||enligne.bnc.ca^
-||ep-content.patento.pl^
 ||ep-content.vivigo.pl^
-||ep-content.viviraty.pl^
 ||ep.heartland.co.nz^
 ||ep.vystarcu.org^
 ||eps.uprova.com^
@@ -1061,6 +1060,7 @@
 ||svc.ondeck.com.au^
 ||svc1.sc.com^
 ||svc2.sc.com^
+||t.aldi-mobile.ch^
 ||t.chmobile.ch^
 ||t.lebara.ch^
 ||t.liberty.com.au^

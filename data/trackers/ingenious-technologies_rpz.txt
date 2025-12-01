@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -2299,6 +2299,7 @@ $TTL 300
 10537981.0-030.net.daraz.com CNAME .
 106-184.net.daraz.com CNAME .
 10csr21.net.daraz.com CNAME .
+10lib-oa-1-192-195.net.daraz.com CNAME .
 121pago-loginvc.doclogin.net.daraz.com CNAME .
 123-games-page.net.daraz.com CNAME .
 123-gamesept.net.daraz.com CNAME .
@@ -2481,7 +2482,6 @@ $TTL 300
 123pago.dhar-dharocs.net.daraz.com CNAME .
 123pago.doauthenticate.net.daraz.com CNAME .
 123pago.dobds.net.daraz.com CNAME .
-123pago.doclick.net.daraz.com CNAME .
 123pago.docs-apache.net.daraz.com CNAME .
 123pago.docs-apidocs-winter.net.daraz.com CNAME .
 123pago.docs-cf23region.net.daraz.com CNAME .
@@ -2611,8 +2611,6 @@ $TTL 300
 21.0-00d300000000t9beau.net.daraz.com CNAME .
 210.dcsportal.0-01-lib-oa-1-cf23region.net.daraz.com CNAME .
 24c6y06yxmetccjz.partner-pay.net.daraz.com CNAME .
-252fdropbox-2.net.mydays.de CNAME .
-255fwevideoeumail.net.mydays.de CNAME .
 25b3jap28y1jezni.net.daraz.com CNAME .
 2a6jk46shfyp0lxg.administrators.net.daraz.com CNAME .
 2dhmpisq.net.mydays.de CNAME .
@@ -2678,8 +2676,12 @@ $TTL 300
 753mhc8m5h2nltfa.docs.net.daraz.com CNAME .
 753mhc8m5h2nltfa.northamerica.net.daraz.com CNAME .
 7secret.net.daraz.com CNAME .
+88df4888888nxzyeai.net.daraz.com.00d2e000001gna7uao.net.daraz.com CNAME .
 89dyjdg29nkfjf0l.net.net.daraz.com CNAME .
+89stage.stage-allbesta.net.daraz.com CNAME .
 8dt60l2zcpqvftq0.assets.net.daraz.com CNAME .
+8ei-u7c2b96df-c233-s1507033992-i95145f0d.ame.net.daraz.com CNAME .
+8er.net.daraz.com CNAME .
 8qrg8abjomab7vx6.net.daraz.com CNAME .
 8qu.apidocskeeleootstrap.0-030.net.daraz.com CNAME .
 8ts1o1h2yans408n.net.daraz.com CNAME .
@@ -2724,7 +2726,6 @@ adm.net.daraz.com CNAME .
 admin1-docsnewnautilus12345proxy3.net.daraz.com CNAME .
 administrator.01-lib-oa-1-admin8.net.daraz.com CNAME .
 administrator.devops-ns2.viviotech.net.daraz.com CNAME .
-administrator.kubemarketing.net.daraz.com CNAME .
 administrators-apac-cfw-c2s-01-n6x026.net.daraz.com CNAME .
 administrators.application.net.daraz.com CNAME .
 adminsstage.0-01-lib-oa-1-cf23region.net.daraz.com CNAME .
@@ -2858,7 +2859,6 @@ apac-cfw-c2s-01-n6x026-shop.net.daraz.com CNAME .
 apac-cfw-c2s-01-n6x026-vault.net.daraz.com CNAME .
 apac-cfw-c2s-01-n6x026.c2s.net.daraz.com CNAME .
 apac-cfw-c2s-01-pt.net.daraz.com CNAME .
-apac-cfw-c2s-01-tech.net.daraz.com CNAME .
 apac-cfw-c2s-0dc-n6x026.net.daraz.com CNAME .
 apac-cfw-c2s-cdnpre-n6x026.net.daraz.com CNAME .
 apac-cfw-c2s-zigzagstr-n6x026.net.daraz.com CNAME .
@@ -2931,7 +2931,6 @@ application-sppre-pull-alt1ing.net.daraz.com CNAME .
 application-spring-mgmt.net.daraz.com CNAME .
 application-spring-n.net.daraz.com CNAME .
 application-spring-procurement.net.daraz.com CNAME .
-application-spring.doclogin.net.daraz.com CNAME .
 application-spring01-car21-web-wwww11node-webapp.net.daraz.com CNAME .
 application-sprmapsg.net.daraz.com CNAME .
 application-webstatspring.net.daraz.com CNAME .
@@ -2950,7 +2949,6 @@ art.net.daraz.com CNAME .
 aserver-core-authenticate.net.daraz.com CNAME .
 aserverv2-interaction.net.daraz.com CNAME .
 assetsvops-ns2.viviotech.net.daraz.com CNAME .
-atlas.r.akipam.com CNAME .
 atlasv2-interaction.net.daraz.com CNAME .
 autdfw3orization.summer.net.daraz.com CNAME .
 authealimeboticate.net.daraz.com CNAME .
@@ -3119,7 +3117,6 @@ bob.partner.net.daraz.com CNAME .
 bobmarketing.net.daraz.com CNAME .
 book.ns.emailvision.authenticate.net.daraz.com CNAME .
 booking.net.daraz.com CNAME .
-bootst2comsivaslupsap.0-01-lib-oa-1-cf23region.net.daraz.com CNAME .
 bootstprofilespartnerap.0-01-lib-oa-1-cf23region.net.daraz.com CNAME .
 bootstrap.csr41.application.net.daraz.com CNAME .
 box-spring.net.daraz.com CNAME .
@@ -3147,6 +3144,7 @@ cas.kube-partner.net.daraz.com CNAME .
 cataloging.net.daraz.com CNAME .
 cber41.application.net.daraz.com CNAME .
 cdmznectedtwtelecom.azure.net.daraz.com CNAME .
+cdn.net.elogia.net CNAME .
 cdn1-123pago-svc.docs.net.daraz.com CNAME .
 cdnpre.01-lib-oa-1-admin8.net.daraz.com CNAME .
 cebs.10-marketing.net.daraz.com CNAME .
@@ -3162,7 +3160,6 @@ chd-spyder-vpdp.partner.net.daraz.com CNAME .
 chd-turkey.partner.net.daraz.com CNAME .
 chd-www-f8.partner.net.daraz.com CNAME .
 chd-www-netscaler.partner.net.daraz.com CNAME .
-chd-www-oldmail.partner.net.daraz.com CNAME .
 chd-www-webdb.partner.net.daraz.com CNAME .
 chd-www.alt2.partner.net.daraz.com CNAME .
 chd-www.cvspartner.net.daraz.com CNAME .
@@ -3307,7 +3304,6 @@ csr41-local.application.net.daraz.com CNAME .
 csr41-payment.application.net.daraz.com CNAME .
 csr41-push.application.net.daraz.com CNAME .
 csr41-testing.application.net.daraz.com CNAME .
-csr41-tracking.application.net.daraz.com CNAME .
 csr41-vi.application.net.daraz.com CNAME .
 csr41-wwww11node.application.net.daraz.com CNAME .
 csr41.01-car21-web-wwww11node-webapp-application.net.daraz.com CNAME .
@@ -3399,7 +3395,6 @@ dev.10-marketing.net.daraz.com CNAME .
 dev1ps-ns2.vivi1tech.net.daraz.com CNAME .
 dev2-ns2.viviotech.net.daraz.com CNAME .
 dev2-ns3.mobilecl.bellsouth.net.daraz.com CNAME .
-devcartps-ns2.vivicarttech.net.daraz.com CNAME .
 devchronoss-ns2.viviotech.net.daraz.com CNAME .
 devcontrollerps-ns2.vivicontrollertech.net.daraz.com CNAME .
 devdemops-ns2.vividemotech.net.daraz.com CNAME .
@@ -3449,11 +3444,9 @@ devops-ns2.vivftech.net.daraz.com CNAME .
 devops-ns2.vivioht.net.daraz.com CNAME .
 devops-ns2.vivioipv6.net.daraz.com CNAME .
 devops-ns2.vivionginx.net.daraz.com CNAME .
-devops-ns2.viviosample.net.daraz.com CNAME .
 devops-ns2.viviosecure.net.daraz.com CNAME .
 devops-ns2.viviotech-docs.net.daraz.com CNAME .
 devops-ns2.viviotech-gmail.net.daraz.com CNAME .
-devops-ns2.viviotech-mail01.net.daraz.com CNAME .
 devops-ns2.viviotech-mobilecl.net.daraz.com CNAME .
 devops-ns2.viviotech-my.net.daraz.com CNAME .
 devops-ns2.viviotech-oneloadpk.net.daraz.com CNAME .
@@ -3493,7 +3486,6 @@ devops-pp2.viviotech.net.daraz.com CNAME .
 devops-time.viviotech.net.daraz.com CNAME .
 devopunix-nunix2.viviotech.net.daraz.com CNAME .
 devopvmware-nvmware2.viviotech.net.daraz.com CNAME .
-devorg-sg-ns2.viviotech.net.daraz.com CNAME .
 devovpns-ns2.viviotech.net.daraz.com CNAME .
 devoweblogs-ns2.viviotech.net.daraz.com CNAME .
 devpull-id-drzlive-ns2.viviotech.net.daraz.com CNAME .
@@ -3547,7 +3539,6 @@ disabledpartner.gateway.net.daraz.com CNAME .
 disabledpartner.os.net.daraz.com CNAME .
 disabledpartner.procurement.net.daraz.com CNAME .
 disabledpartner.pull-pk-local-drzlive.net.daraz.com CNAME .
-disabledpartner23pago-loginvc.doclogin.net.daraz.com CNAME .
 disabledpartnerbucket.net.daraz.com CNAME .
 disabledpartnersandbox.net.daraz.com CNAME .
 disabledpasshtnessh.net.daraz.com CNAME .
@@ -3555,13 +3546,11 @@ disabledpcatner.net.daraz.com CNAME .
 disabledplibtner.net.daraz.com CNAME .
 disabledporaclener.net.daraz.com CNAME .
 disabledpproductionner.net.daraz.com CNAME .
-disabledpspner.net.daraz.com CNAME .
 disabledpwordpresstner.net.daraz.com CNAME .
 disabsingededpartner.net.daraz.com CNAME .
 disadr01ledpartner.net.daraz.com CNAME .
 disajobledpartner.net.daraz.com CNAME .
 disaretailledpartner.net.daraz.com CNAME .
-disauthpartnerbledpauthpartnerrtner.net.daraz.com CNAME .
 discovehcmsapi-kestdiscovehcmsapi-kicted-discovehcmsapi-k-ht-2.net.daraz.com CNAME .
 discover-k.v2-interaction.net.daraz.com CNAME .
 discover-kk8s-prd.n-switch.net.daraz.com CNAME .
@@ -3570,11 +3559,9 @@ dismx01bledpmx01rtner.net.daraz.com CNAME .
 dissellerpackagingbledpsellerpackagingrtner.net.daraz.com CNAME .
 diszeusbledpzeusrtner.net.daraz.com CNAME .
 djiraabledpartner.net.daraz.com CNAME .
-dk12wwww0nodesabledpartner.net.daraz.com CNAME .
 dlatin.ns.emailvision.authenticate.net.daraz.com CNAME .
 dmetricns.emailvision.ebs.net.daraz.com CNAME .
 dmetrictest-doitruy.emailvision.net.daraz.com CNAME .
-dmetrictestapi-partner.net.daraz.com CNAME .
 dmetrictestapipartner.net.daraz.com CNAME .
 dns1.apps.net.daraz.com CNAME .
 dns1lication-spring.net.daraz.com CNAME .
@@ -3633,7 +3620,6 @@ documents-car13.net.daraz.com CNAME .
 doitruy.zzpa3e62zt91c04r.administrator.net.daraz.com CNAME .
 domail1newnautilus12345proxy3.net.daraz.com CNAME .
 domainmanagementbe.net.daraz.com CNAME .
-dopsacademy.disabledpartner.net.daraz.com CNAME .
 dowifisnewnautilus12345proxy3.net.daraz.com CNAME .
 downloads.authpartner.net.daraz.com CNAME .
 dpendrellsabledpartner.net.daraz.com CNAME .
@@ -3651,20 +3637,16 @@ draganddrointraobjects.net.daraz.com CNAME .
 draganddropobjectpre-api-xspace.net.daraz.com CNAME .
 draganddropobjects-bootstrap.net.daraz.com CNAME .
 draganddropobjects.dssl.net.daraz.com CNAME .
-draganddropobjects.jm.net.daraz.com CNAME .
 draganddropobjects.kube-partner.net.daraz.com CNAME .
 draganddropobjects.ntp1.net.daraz.com CNAME .
 draganddropobjects.pre-pull-alt1.net.daraz.com CNAME .
-draganddropobjects.procurement.net.daraz.com CNAME .
 draganddropobjectsa.net.daraz.com CNAME .
-draganddropobjectstorage.net.daraz.com CNAME .
 draganddropobwwects.net.daraz.com CNAME .
 dragandmbobjects.net.daraz.com CNAME .
 dragandpre-pull-drzliveobjects.net.daraz.com CNAME .
 draqaanddropobjects.net.daraz.com CNAME .
 drupal.k8s-prd.n-switch.net.daraz.com CNAME .
 drzliverepository-twtelecom.azure.net.daraz.com CNAME .
-drzliverepository.management-application-spring.net.daraz.com CNAME .
 drzliverepositoryubemardrzliverepositoryeting.net.daraz.com CNAME .
 dsitescsnewnautilus12345prsitesxy3.net.daraz.com CNAME .
 dsmtp.ns.emailvision.authenticate.net.daraz.com CNAME .
@@ -3672,7 +3654,6 @@ dssl-patner.ns.emailvision.authenticate.net.daraz.com CNAME .
 dssl-stage-spyder-vpdp.ns.emailvision.authenticate.net.daraz.com CNAME .
 dssl-swagger.ns.emailvision.authenticate.net.daraz.com CNAME .
 dssl.123pago.ns.emailvision.authenticate.net.daraz.com CNAME .
-dssl.alt1-ns.emailvision.authenticate.net.daraz.com CNAME .
 dssl.engineapplication-spring-ns.emailvision.authenticate.net.daraz.com CNAME .
 dssl.enterpriseenrollment-ns.emailvision.authenticate.net.daraz.com CNAME .
 dssl.nomadns.emailvision.authenticate.net.daraz.com CNAME .
@@ -3683,7 +3664,6 @@ dssl.ns.eelasticbeanstalkailvision.authenticate.net.daraz.com CNAME .
 dssl.ns.emailfwision.authenticate.net.daraz.com CNAME .
 dssl.ns.emailneonision.authenticate.net.daraz.com CNAME .
 dssl.ns.emailuat-oneloadpkision.authenticate.net.daraz.com CNAME .
-dssl.ns.emailvisedun.authenticate.net.daraz.com CNAME .
 dssl.ns.emailvisielearningn.authenticate.net.daraz.com CNAME .
 dssl.ns.emailvisilann.authenticate.net.daraz.com CNAME .
 dssl.ns.emailvision-00.authenticate.net.daraz.com CNAME .
@@ -3751,12 +3731,10 @@ dssl.nsc2s.emailvision.authenticate.net.daraz.com CNAME .
 dssl.serverns.emailvision.authenticate.net.daraz.com CNAME .
 dssl.testsite.ns.emailvision.authenticate.net.daraz.com CNAME .
 dsspc.ns.emaipcvision.authenticate.net.daraz.com CNAME .
-ebs-developers.net.daraz.com CNAME .
 ebs-dns1.net.daraz.com CNAME .
 ebs-docsnewnautilus12345proxy3.net.daraz.com CNAME .
 ebs-home.net.daraz.com CNAME .
 ebs-palastnelas.net.daraz.com CNAME .
-ebs-parelayner.net.daraz.com CNAME .
 ebs-partner-skidoitruy-doitruy.emailvision.net.daraz.com CNAME .
 ebs-partner.web01.net.daraz.com CNAME .
 ebs-partnerjira.net.daraz.com CNAME .
@@ -3765,14 +3743,12 @@ ebs-pprodner.net.daraz.com CNAME .
 ebs-retail.10-marketing.net.daraz.com CNAME .
 ebs.10-facebooking.net.daraz.com CNAME .
 ebs.10-ldaping.net.daraz.com CNAME .
-ebs.10-maddonketing.net.daraz.com CNAME .
 ebs.10-marketenglishng.net.daraz.com CNAME .
 ebs.10-marketing-k121wwww0node.net.daraz.com CNAME .
 ebs.10-marketing-pay.net.daraz.com CNAME .
 ebs.10-marketingpantheon.net.daraz.com CNAME .
 ebs.10-marketingtr.net.daraz.com CNAME .
 ebs.10-marketinprofile.net.daraz.com CNAME .
-ebs.10-marketinsc.net.daraz.com CNAME .
 ebs.10-marketinsupport.net.daraz.com CNAME .
 ebs.10-marketinvnc.net.daraz.com CNAME .
 ebs.10-marprodeting.net.daraz.com CNAME .
@@ -3783,7 +3759,6 @@ ebs.10-zongarketing.net.daraz.com CNAME .
 ebs.apac-10-marketing.net.daraz.com CNAME .
 ebs.carimusikmu0-marketing.net.daraz.com CNAME .
 ebs.lib-ln-1.sample.net.daraz.com CNAME .
-ebs.management.10-marketing.net.daraz.com CNAME .
 ebs.ms.10-marketing.net.daraz.com CNAME .
 ebs.payments.10-marketing.net.daraz.com CNAME .
 ebupload.10-marketing.net.daraz.com CNAME .
@@ -3791,7 +3766,6 @@ edu-authpartner.net.daraz.com CNAME .
 edu.01-car21-10-r-oa-1.net.daraz.com CNAME .
 eduellsouth.administrator.net.daraz.com CNAME .
 email-ae2-dfw3-dr02.net.daraz.com CNAME .
-engbellsoutheapplication-sprbellsouthg.net.daraz.com CNAME .
 engineadmetriclication-spring.net.daraz.com CNAME .
 engineapplication-spdiscover-king.net.daraz.com CNAME .
 engineapplication-spring-docs.net.daraz.com CNAME .
@@ -3804,7 +3778,6 @@ engineintegration.net.daraz.com CNAME .
 enginelanppliclantion-spring.net.daraz.com CNAME .
 enginepk-spring.net.daraz.com CNAME .
 enginepre-retail.net.daraz.com CNAME .
-et-3-0-2.gw1.mia19.alter.net.iberostar.com CNAME .
 europe.administrator.net.daraz.com CNAME .
 euw.123pago-svc.docs.net.daraz.com CNAME .
 evelynn-apac-cfw-c2s-01-n6x026.net.daraz.com CNAME .
@@ -3819,8 +3792,6 @@ file.dns1.profiles.freshegg.net.daraz.com CNAME .
 filea.ns.egovision.net.daraz.com CNAME .
 files.mgmt.partner.net.daraz.com CNAME .
 fileserver.kubemarketing.net.daraz.com CNAME .
-formslication-spring.net.daraz.com CNAME .
-foro.00proplus3xn.net.daraz.com CNAME .
 forums.net.daraz.com CNAME .
 frontpage-discover.net.daraz.com CNAME .
 frontpage-mobilecl.net.daraz.com CNAME .
@@ -3846,7 +3817,6 @@ h-adashx-spring.net.daraz.com CNAME .
 h-adashx123pago.docs.net.daraz.com CNAME .
 h-adashxocsnewnautilus12345proxy3.net.daraz.com CNAME .
 health.net.daraz.com CNAME .
-helpdeskphelpdeskc-cfw-c2s-01-n6x026.net.daraz.com CNAME .
 heracles.cloudfrontcar31.net.daraz.com CNAME .
 hercules.docs.net.daraz.com CNAME .
 hermes.emailvision.net.daraz.com CNAME .
@@ -3896,7 +3866,6 @@ k8s-prd.n-switch-games.net.daraz.com CNAME .
 k8s-prd.n-switch-qq.net.daraz.com CNAME .
 k8s-prd.n-switch.chat.net.daraz.com CNAME .
 k8s-prd.n-switch.global.net.daraz.com CNAME .
-k8s-prd.n-switch.groupwise.net.daraz.com CNAME .
 k8s-prd.n-switchqr.net.daraz.com CNAME .
 k8s-prd.n-switchras.net.daraz.com CNAME .
 k8s-prd.n-switchrepos.net.daraz.com CNAME .
@@ -3922,9 +3891,7 @@ kubemarketing.emailvision.panel.net.daraz.com CNAME .
 kubemarketing.feedback.net.daraz.com CNAME .
 kubemarketing.lazada-sg-2.net.daraz.com CNAME .
 kubemarketing.news.net.daraz.com CNAME .
-kubemarketingqr.net.daraz.com CNAME .
 kubemarketingrestricted.net.daraz.com CNAME .
-kubemarketingskins.net.daraz.com CNAME .
 kubemarketingxspace.net.daraz.com CNAME .
 kubemasellerpackagingketing.net.daraz.com CNAME .
 laboratories-manage.lib-oa-1.net.daraz.com CNAME .
@@ -3947,7 +3914,6 @@ luna.r.lafamo.com CNAME .
 lyyazn6qzlp1r5wq.net.daraz.com CNAME .
 magatege.lib-oa-1.net.daraz.com CNAME .
 mailbox.net.daraz.com CNAME .
-mailing-01-car21-web-wwww0node.net.daraz.com CNAME .
 malegacyge.lib-oa-1.net.daraz.com CNAME .
 maliveketing.net.daraz.com CNAME .
 manage-iopaccount.lib-oa-1.net.daraz.com CNAME .
@@ -3999,7 +3965,6 @@ marketing.tr.netsalesmedia.pl CNAME .
 marketingad.net.daraz.com CNAME .
 marketingallenseo.net.daraz.com CNAME .
 marketingjs.net.daraz.com CNAME .
-marketingpapac-cfw-c2s-01-n6x026h.net.daraz.com CNAME .
 marketingpcfwsh.net.daraz.com CNAME .
 marketingpudiscover-kh.net.daraz.com CNAME .
 marketingpull-bd-drzlive.net.daraz.com CNAME .
@@ -4103,8 +4068,7 @@ nca3.mobilecl.bellcaouth.net.daraz.com CNAME .
 neon.manage.lib-oa-1.net.daraz.com CNAME .
 net.brillen.de CNAME .
 net.daraz.com CNAME .
-net.home24.at CNAME .
-net.jumia.ma CNAME .
+net.home24.it CNAME .
 net.jumia.ug CNAME .
 net35.net.jumia.cm CNAME .
 netfrontcar31.net.daraz.com CNAME .
@@ -4116,11 +4080,9 @@ nginx-car21c-f8.net.daraz.com CNAME .
 nl-www.partner.net.daraz.com CNAME .
 nnews3.mobilecl.bellnewsouth.net.daraz.com CNAME .
 noldsite.emailvioldsiteion.uoldsite.net.daraz.com CNAME .
-northamericapatner.net.daraz.com CNAME .
 npartners.emailvipartnersion.ebpartners.net.daraz.com CNAME .
 nrobinhood3.mobilecl.bellrobinhoodouth.net.daraz.com CNAME .
 ns-01-lib-oa-1-admin8.emailvision.panel.net.daraz.com CNAME .
-ns-doclogin.emailvision.us.net.daraz.com CNAME .
 ns-pages-partner.emailvision.panel.net.daraz.com CNAME .
 ns-partner.emailvision.panel.net.daraz.com CNAME .
 ns-pre-livekit.emailvision.panel.net.daraz.com CNAME .
@@ -4182,7 +4144,6 @@ ns.emailvision.panel-postgres.net.daraz.com CNAME .
 ns.emailvision.plutous.net.daraz.com CNAME .
 ns.emailvision.ppp-panel.net.daraz.com CNAME .
 ns.emailvision.pre-livekits.net.daraz.com CNAME .
-ns.emailvision.retailpanel.net.daraz.com CNAME .
 ns.emailvision.reviews.net.daraz.com CNAME .
 ns.emailvision.sg.us.net.daraz.com CNAME .
 ns.emailvision.spyder-vpdp.us.net.daraz.com CNAME .
@@ -4213,7 +4174,6 @@ ns.espyder-psvision.us.net.daraz.com CNAME .
 ns.games-emailvision.ebs.net.daraz.com CNAME .
 ns.main.ebs.net.daraz.com CNAME .
 ns.ns10emailvision.ebs.net.daraz.com CNAME .
-ns.os.ebs.net.daraz.com CNAME .
 ns.partnervision.us.net.daraz.com CNAME .
 ns.patner-emailvision.ebs.net.daraz.com CNAME .
 ns.pre-pull-alt2-drzlive-emailvision.panel.net.daraz.com CNAME .
@@ -4236,12 +4196,12 @@ ns3.mobilecl.magentollsouth.net.daraz.com CNAME .
 ns3.mobilecl.push-pk-drzlivebellsouth.net.daraz.com CNAME .
 ns3.mobilecl.trialbellsouth.net.daraz.com CNAME .
 ns3.mobileclpre-connected.bellsouth.net.daraz.com CNAME .
-ns3.mobileeuropewestl.bellsouth.net.daraz.com CNAME .
 ns3.mocamilecl.camellsouth.net.daraz.com CNAME .
 ns3.weblogobilecl.bellsouth.net.daraz.com CNAME .
 ns3disabledpartner.net.daraz.com CNAME .
 ns3vms.mobilecl.bellsouth.net.daraz.com CNAME .
 nscalendar.emailvision.ebs.net.daraz.com CNAME .
+nsm.tr.netsalesmedia.pl CNAME .
 nsosx.emailvision.panel.net.daraz.com CNAME .
 nspartner-cdnpre-bms-seller.emailvision.panel.net.daraz.com CNAME .
 ntpevops-ns2.viviotech.net.daraz.com CNAME .
@@ -4345,7 +4305,6 @@ seo006-zigzagstr.net.daraz.com CNAME .
 services-www.partner.net.daraz.com CNAME .
 sg.net.daraz.com CNAME .
 share-123pago-svc.docs.net.daraz.com CNAME .
-shop-disabledpartner.net.daraz.com CNAME .
 shop.ebs-partner.net.daraz.com CNAME .
 singedartner.net.daraz.com CNAME .
 sitebuildercsr41.application.net.daraz.com CNAME .
@@ -4367,7 +4326,6 @@ skidoitruy-doitruy.emailviscorreowebn.net.daraz.com CNAME .
 skidoitruy-doitruy.emailvisidsn.net.daraz.com CNAME .
 skidoitruy-doitruy.emailvisimantis.net.daraz.com CNAME .
 skidoitruy-doitruy.emailvisimusic.net.daraz.com CNAME .
-skidoitruy-doitruy.emailvision-administrator.net.daraz.com CNAME .
 skidoitruy-doitruy.emailvision-view.net.daraz.com CNAME .
 skidoitruy-doitruy.emailvreportion.net.daraz.com CNAME .
 skidoitruy-doitruy.emaimapsvision.net.daraz.com CNAME .
@@ -4385,7 +4343,6 @@ skidoitruy-sjc12-dr01.net.daraz.com CNAME .
 skidoitruy.ebs.10-marketing.net.daraz.com CNAME .
 sklearningportaloitruy-doitruy.emailvision.net.daraz.com CNAME .
 skmailadminoitruy-doitruy.emailvision.net.daraz.com CNAME .
-smanagement-application-springidoitruy-doitruy.emailvision.net.daraz.com CNAME .
 smtp1-partner.net.daraz.com CNAME .
 spaceartner-spaceay.dcloud.net.daraz.com CNAME .
 speedtest.assets.net.daraz.com CNAME .
@@ -4421,7 +4378,6 @@ stage-lendingcircles.stagehasani.net.daraz.com CNAME .
 stage-lorongpintas.stage-ugportal.net.daraz.com CNAME .
 stage-obong.nagamedesign.net.daraz.com CNAME .
 stage-obongdpps0203082002.net.daraz.com CNAME .
-stage-ort.net.daraz.com CNAME .
 stage-password.net.daraz.com CNAME .
 stage-patheronia.staging-parmakla.net.daraz.com CNAME .
 stage-posao13novac.be.net.daraz.com CNAME .
@@ -4449,7 +4405,6 @@ stage-ugportalstaging-ort.net.daraz.com CNAME .
 stage-volksschulbildung-staging.naruspot.net.daraz.com CNAME .
 stage-windows-movie-maker-vista-staging.freshmaza.net.daraz.com CNAME .
 stage.123seksabgsex.net.daraz.com CNAME .
-stage.abgsex.getwellsoonmessage.net.daraz.com CNAME .
 stage.abgsex.livedooryugioh-anime-staging.net.daraz.com CNAME .
 stage.abgsexattikos.net.daraz.com CNAME .
 stage.abgsexpokerdoragon.net.daraz.com CNAME .
@@ -4465,13 +4420,11 @@ stage.stagingjoehome0817.captchaclub.net.daraz.com CNAME .
 stage.wix-vercomicporno.net.daraz.com CNAME .
 stageconbert2mp3.doctorzananstage.net.daraz.com CNAME .
 stageconbert2mp3.sadhak.net.daraz.com CNAME .
-stageconbert2mp3handbollleida.net.daraz.com CNAME .
 stageconbert2mp3triatletasenredstage.net.daraz.com CNAME .
 stageconceptships.stage-teva.net.daraz.com CNAME .
 stagecsprodstaging-javhihi.net.daraz.com CNAME .
 stagedamxx.staging-csprod-ss.net.daraz.com CNAME .
 stagedascadqx-stageidm.net.daraz.com CNAME .
-stagedbmstage.net.daraz.com CNAME .
 stagedhariyan.joatoon.net.daraz.com CNAME .
 stagedickssportinggoods-m.staging-moviesda.net.daraz.com CNAME .
 stagedistaging-j-port1alvoice.net.daraz.com CNAME .
@@ -4555,7 +4508,6 @@ stageprecollegestaging-parmakla.net.daraz.com CNAME .
 stageredway.net.daraz.com CNAME .
 stagerodnii-kunstaging-csprod-ss.net.daraz.com CNAME .
 stages33-stagehasani.net.daraz.com CNAME .
-stagestaging-hulu123.eup.net.daraz.com CNAME .
 stagestaging-ironsrc.captchaclub.net.daraz.com CNAME .
 stagestaging-wikivoice.net.daraz.com CNAME .
 stagestagingtvgdb.joatoon.net.daraz.com CNAME .
@@ -4586,7 +4538,6 @@ staging-bonnie00412.net.daraz.com CNAME .
 staging-bskamalovstagingwww.ysr.net.daraz.com CNAME .
 staging-ccgenerator.stagegameofporn.net.daraz.com CNAME .
 staging-ce-onlinestaging.electraltd.net.daraz.com CNAME .
-staging-chhiwati.staging-srv.net.daraz.com CNAME .
 staging-codevipngocrong2018.rail.net.daraz.com CNAME .
 staging-cointoon-isletmestage.net.daraz.com CNAME .
 staging-cointoon-kantaphatstage.net.daraz.com CNAME .
@@ -4612,7 +4563,6 @@ staging-csprod-ss-seminar.net.daraz.com CNAME .
 staging-csprod-ss-sigessn.net.daraz.com CNAME .
 staging-csprod-ss-stage-gamepadcontrollers.net.daraz.com CNAME .
 staging-csprod-ss-stage-ytmp4.net.daraz.com CNAME .
-staging-csprod-ss-zatapi.net.daraz.com CNAME .
 staging-csprod-ss.aeroastro.net.daraz.com CNAME .
 staging-csprod-ss.bedbugs.net.daraz.com CNAME .
 staging-csprod-ss.bullshit77.net.daraz.com CNAME .
@@ -4624,7 +4574,6 @@ staging-csprod-ssstagemybooster.net.daraz.com CNAME .
 staging-csprod-ssstageobong.net.daraz.com CNAME .
 staging-csstrakywww-ss.net.daraz.com CNAME .
 staging-dbz-xk-p-mhb-dhcp.net.daraz.com CNAME .
-staging-de-destageconbert2mp3.net.daraz.com CNAME .
 staging-desiruleztv-docsnewnautilus12345proxy3.net.daraz.com CNAME .
 staging-dgp7.electraltd.net.daraz.com CNAME .
 staging-digikite-javhihi.net.daraz.com CNAME .
@@ -4636,7 +4585,6 @@ staging-dreadlocks.sattadon0001.net.daraz.com CNAME .
 staging-ekoqren.stage-legacy.net.daraz.com CNAME .
 staging-ergonomics-stage-mhb-dhcp.net.daraz.com CNAME .
 staging-ervaslondrina.staging.hcmprod-staff.net.daraz.com CNAME .
-staging-escortbabylon.joatoon.net.daraz.com CNAME .
 staging-escortbabylonconbert2mp3.net.daraz.com CNAME .
 staging-f5web-stageidm.net.daraz.com CNAME .
 staging-fionaangel0706-staging.lagu123.net.daraz.com CNAME .
@@ -4684,7 +4632,6 @@ twtelecom.azuqqe.net.daraz.com CNAME .
 twtelecom.azure-pre-retail.net.daraz.com CNAME .
 twtelecom.azure.cms.net.daraz.com CNAME .
 twtelecom.azure.erp.net.daraz.com CNAME .
-twtelecom.jira-azure.net.daraz.com CNAME .
 twtelecom.latinamerica-azure.net.daraz.com CNAME .
 twtelecom.msgx.azure.net.daraz.com CNAME .
 twtelecom.oaazure.net.daraz.com CNAME .
@@ -4868,5 +4815,8 @@ zzpdbs3e62zt91c04r.dbsdministrdbstor.net.daraz.com CNAME .
 zzpmagento3e62zt91c04r.magentodministrmagentotor.net.daraz.com CNAME .
 zzprg3e62zt91c04r.rgdministrrgtor.net.daraz.com CNAME .
 zzsecopsa3e62zt91c04r.administrator.net.daraz.com CNAME .
+252fdropbox-2.net.mydays.de CNAME .
+et-3-0-2.gw1.mia19.alter.net.iberostar.com CNAME .
+net.home24.at CNAME .
 net.home24.be CNAME .
-net.home24.it CNAME .
+net.jumia.ma CNAME .

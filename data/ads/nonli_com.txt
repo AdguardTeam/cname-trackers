@@ -36,6 +36,7 @@
 ||l.alternatives-economiques.fr^
 ||l.applesfera.com^
 ||l.argentauquotidien.com^
+||l.astucesauquotidien.com^
 ||l.aufeminin.com^
 ||l.aujourdhui.fr^
 ||l.auto-moto.com^
@@ -51,6 +52,7 @@
 ||l.bienpublic.com^
 ||l.blissim.fr^
 ||l.bon-esprit.fr^
+||l.bourseinside.fr^
 ||l.caminteresse.fr^
 ||l.capital.fr^
 ||l.centre-presse.fr^
@@ -144,7 +146,9 @@
 ||l.laprovence.com^
 ||l.lardennais.fr^
 ||l.larenaissancehebdo.fr^
+||l.larep.fr^
 ||l.larepubliquedespyrenees.fr^
+||l.largus.fr^
 ||l.lasanteauquotidien.com^
 ||l.latribune.fr^
 ||l.lavoixdunord.fr^
@@ -268,7 +272,6 @@
 ||l.vert.eco^
 ||l.viepratique.fr^
 ||l.voici.fr^
-||l.vosgesmatin.fr^
 ||l.whatsupdoc-lemag.fr^
 ||l.xataka.com^
 ||l.xataka.com.br^

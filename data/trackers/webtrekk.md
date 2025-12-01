@@ -113,7 +113,6 @@
     * 487143832382979.wt-eu02.net
     * 489164258023327.wt-eu02.net
     * 492778793747615.wt-eu02.net
-    * 495967780350059.wt-eu02.net
     * 516595732855224.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 545460378195639.wt-eu02.net
@@ -369,7 +368,6 @@
 | web.news.coccinelle.com | 487143832382979.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
 | web.news.absurdbeauty.com | 492778793747615.wt-eu02.net |
-| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | web2.updates.ditano.com | 516595732855224.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
@@ -433,7 +431,6 @@
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.post.toa.st | 792207084509163.wt-eu02.net |
 | web.post.toast.co.uk | 792207084509163.wt-eu02.net |
-| web.powgen.cz | 795078683620107.wt-eu02.net |
 | web.powgen.es | 795078683620107.wt-eu02.net |
 | data.babista.de | 811475980920799.wt-eu02.net |
 | web.mapp.naturzeit.com | 818150559802317.wt-eu02.net |

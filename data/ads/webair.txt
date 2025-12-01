@@ -567,7 +567,6 @@
 ||filter.mywaymedia.co^
 ||filter.nativeadsfeed.com^
 ||filter.nexrtb.com^
-||filter.onemediawork.com^
 ||filter.online-adnetwork.com^
 ||filter.optumads.com^
 ||filter.pensarmedia.com^
@@ -851,7 +850,6 @@
 ||login.trackifyy.com^
 ||login.trafficmoose.com^
 ||login.trinytymedia.com^
-||login.ugihub.com^
 ||login.unibots.in^
 ||login.vespymedia.com^
 ||login.waardex.com^
@@ -936,7 +934,6 @@
 ||rtb-apac-v4.afkwa.com^
 ||rtb-apac-v4.agilitydigitalmedia.com^
 ||rtb-apac-v4.aserve1.net^
-||rtb-apac-v4.broadadx.com^
 ||rtb-apac-v4.chocolateplatform.com^
 ||rtb-apac-v4.clickmi.net^
 ||rtb-apac-v4.cpmme.com^
@@ -988,7 +985,6 @@
 ||rtb-apac.bidderads.com^
 ||rtb-apac.bidmyqps.xyz^
 ||rtb-apac.boffoadsapi.com^
-||rtb-apac.broadadx.com^
 ||rtb-apac.chocolateplatform.com^
 ||rtb-apac.convergeselect.net^
 ||rtb-apac.creativedot.net^
@@ -1013,6 +1009,7 @@
 ||rtb-apac.rtbflairads.com^
 ||rtb-apac.rtbplatform.net^
 ||rtb-apac.rtbserve.io^
+||rtb-apac.strongmetrics.io^
 ||rtb-apac.unibots.in^
 ||rtb-apac.voisetech.com^
 ||rtb-apac.wxadserve.xyz^
@@ -1596,10 +1593,12 @@
 ||staging.yeesshh.com^
 ||static-rtb2.affinity.net^
 ||static-rtb2.branchdsp.io^
+||static-rtb2.jambojar.com^
 ||static-rtb2.n-data.io^
 ||static-rtb2.newchallenges-dsp.com^
 ||static-rtb2.reachableads.com^
 ||static.adright.co^
+||static.adsolut.in^
 ||static.aserve1.net^
 ||static.creativedot.net^
 ||static.displayio.cloud^
@@ -1673,6 +1672,7 @@
 ||tq.eopuzol1.online^
 ||tq.fdkox-b.online^
 ||tq.fdkox-d.online^
+||tq.flowldsb.online^
 ||tq.foseller-a.online^
 ||tq.foseller-c.online^
 ||tq.foseller-d.online^
@@ -1801,6 +1801,7 @@
 ||xml-eu-v4.adtube.media^
 ||xml-eu-v4.adverttise.com^
 ||xml-eu-v4.advlistings.com^
+||xml-eu-v4.adxcircle.com^
 ||xml-eu-v4.adxpoint.com^
 ||xml-eu-v4.adzgame.com^
 ||xml-eu-v4.adzinx.com^
@@ -1850,6 +1851,7 @@
 ||xml-eu-v4.fdkox-b.online^
 ||xml-eu-v4.fdkox-c.online^
 ||xml-eu-v4.fdkox-d.online^
+||xml-eu-v4.flowldsb.online^
 ||xml-eu-v4.flurryad.com^
 ||xml-eu-v4.fmlabsonline.com^
 ||xml-eu-v4.foseller-a.online^
@@ -1887,7 +1889,6 @@
 ||xml-eu-v4.newbluetrue.xyz^
 ||xml-eu-v4.nexrtb.com^
 ||xml-eu-v4.oceanfall.xyz^
-||xml-eu-v4.onemediawork.com^
 ||xml-eu-v4.optargone-3.online^
 ||xml-eu-v4.optumads.com^
 ||xml-eu-v4.outpush.net^
@@ -1897,6 +1898,7 @@
 ||xml-eu-v4.pubsfusion.com^
 ||xml-eu-v4.pushub.net^
 ||xml-eu-v4.pwr-ads.com^
+||xml-eu-v4.qovolta.com^
 ||xml-eu-v4.qualiclicks.com^
 ||xml-eu-v4.re-media.info^
 ||xml-eu-v4.regalrisemedia.com^
@@ -2151,6 +2153,7 @@
 ||xml-v4.fdkox-c.online^
 ||xml-v4.fdkox-d.online^
 ||xml-v4.felixads.com^
+||xml-v4.flowldsb.online^
 ||xml-v4.flurryad.com^
 ||xml-v4.fmlabsonline.com^
 ||xml-v4.foseller-a.online^
@@ -2190,7 +2193,6 @@
 ||xml-v4.newbluetrue.xyz^
 ||xml-v4.nexrtb.com^
 ||xml-v4.oceanfall.xyz^
-||xml-v4.onemediawork.com^
 ||xml-v4.optargone-3.online^
 ||xml-v4.optumads.com^
 ||xml-v4.paddlewaver.com^
@@ -2448,6 +2450,7 @@
 ||xml.indforh-serving.com^
 ||xml.infinity-info.com^
 ||xml.ingdowntheriv.com^
+||xml.inlargeconsultin.com^
 ||xml.insightadz.com^
 ||xml.intellectscoop.com^
 ||xml.ionsandinde.org^
@@ -2490,7 +2493,6 @@
 ||xml.nova-bid.com^
 ||xml.omanyrelurl.org^
 ||xml.onelyandbegan.org^
-||xml.onemediawork.com^
 ||xml.online-adnetwork.com^
 ||xml.optargone-3.online^
 ||xml.optumads.com^
@@ -2640,7 +2642,6 @@
 ||xml.yeesshh.com^
 ||xml.yhisladyloveheh.org^
 ||xml.yieldradius.io^
-||xml.yodirecxl.com^
 ||xml.yojnxl.com^
 ||xml.yolkdirxl.com^
 ||xml.yoplxl.com^
@@ -2709,7 +2710,6 @@
 ||static.adscholars.com^
 ||static.adsfloow.net^
 ||static.adsimilate.com^
-||static.adsolut.in^
 ||static.adsupplyexchange.com^
 ||static.adtapmedia.com^
 ||static.advertruth.com^
@@ -2846,7 +2846,6 @@
 ||static.nexrtb.com^
 ||static.omanyrelurl.org^
 ||static.onelyandbegan.org^
-||static.onemediawork.com^
 ||static.otireofhislady.org^
 ||static.outpush.net^
 ||static.ovewiththem.com^
@@ -3016,7 +3015,6 @@
 ||static-rtb2.globalwingspan.com^
 ||static-rtb2.goleftmedia.com^
 ||static-rtb2.gravityadnetwork.io^
-||static-rtb2.jambojar.com^
 ||static-rtb2.magixengage.com^
 ||static-rtb2.mediarise.io^
 ||static-rtb2.mytrendingstories.com^

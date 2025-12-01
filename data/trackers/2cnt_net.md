@@ -24,13 +24,11 @@
 * fr-online.vgwort-de.2cnt.net
 * gala.vgwort-de.2cnt.net
 * geo.vgwort-de.2cnt.net
-* hogrefe.vgwort-de.2cnt.net
 * ksta.vgwort-de.2cnt.net
 * manager.vgwort-de.2cnt.net
 * merkur.vgwort-de.2cnt.net
 * mopo.vgwort-de.2cnt.net
 * n-tv.vgwort-de.2cnt.net
-* nomos.vgwort-de.2cnt.net
 * pl01.prolitteris.2cnt.net
 * rtl.vgwort-de.2cnt.net
 * spiegel.vgwort-de.2cnt.net
@@ -45,6 +43,7 @@
 * ssl-t-online.vgwort-de.2cnt.net
 * ssl-teltarif.vgwort-de.2cnt.net
 * sl-demo-de-pool01.2cnt.net
+* ssl-thieme.vgwort-de.2cnt.net
 * ssl-vg03.vgwort-de.2cnt.net
 * ssl-weka.vgwort-de.2cnt.net
 * ssl-welt.vgwort-de.2cnt.net
@@ -63,7 +62,6 @@
 * vg07.vgwort-de.2cnt.net
 * vg08.vgwort-de.2cnt.net
 * vg09.vgwort-de.2cnt.net
-* vogel.vgwort-de.2cnt.net
 * waz.vgwort-de.2cnt.net
 * wiley.vgwort-de.2cnt.net
 * zeit.vgwort-de.2cnt.net
@@ -87,13 +85,11 @@
 | fr-online.met.vgwort.de | fr-online.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | gala.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | geo.vgwort-de.2cnt.net |
-| hogrefe.met.vgwort.de | hogrefe.vgwort-de.2cnt.net |
 | ksta.met.vgwort.de | ksta.vgwort-de.2cnt.net |
 | manager.met.vgwort.de | manager.vgwort-de.2cnt.net |
 | merkur.met.vgwort.de | merkur.vgwort-de.2cnt.net |
 | mopo.met.vgwort.de | mopo.vgwort-de.2cnt.net |
 | n-tv.met.vgwort.de | n-tv.vgwort-de.2cnt.net |
-| nomos.met.vgwort.de | nomos.vgwort-de.2cnt.net |
 | pl01.owen.prolitteris.ch | pl01.prolitteris.2cnt.net |
 | pl02.owen.prolitteris.ch | pl02.prolitteris.2cnt.net |
 | rtl.met.vgwort.de | rtl.vgwort-de.2cnt.net |
@@ -199,7 +195,6 @@
 | vg06.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | vg06.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | vogel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
-| vogel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | weka.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | 1und1.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | 1und1.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
@@ -222,6 +217,7 @@
 | ssl-ksta.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-merkur.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-nwb.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
+| ssl-thieme.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-thieme.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-vg03.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-vg03.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
@@ -247,6 +243,7 @@
 | ssl-rp-online.met.vgwort.de | ssl-rp-online.vgwort-de.2cnt.net |
 | ssl-t-online.met.vgwort.de | ssl-t-online.vgwort-de.2cnt.net |
 | ssl-teltarif.met.vgwort.de | ssl-teltarif.vgwort-de.2cnt.net |
+| ssl-thieme.met.vgwort.de | ssl-thieme.vgwort-de.2cnt.net |
 | ssl-vg03.met.vgwort.de | ssl-vg03.vgwort-de.2cnt.net |
 | ssl-weka.met.vgwort.de | ssl-weka.vgwort-de.2cnt.net |
 | ssl-welt.met.vgwort.de | ssl-welt.vgwort-de.2cnt.net |
@@ -265,7 +262,6 @@
 | vg07.met.vgwort.de | vg07.vgwort-de.2cnt.net |
 | vg08.met.vgwort.de | vg08.vgwort-de.2cnt.net |
 | vg09.met.vgwort.de | vg09.vgwort-de.2cnt.net |
-| vogel.met.vgwort.de | vogel.vgwort-de.2cnt.net |
 | waz.met.vgwort.de | waz.vgwort-de.2cnt.net |
 | wiley.met.vgwort.de | wiley.vgwort-de.2cnt.net |
 | zeit.met.vgwort.de | zeit.vgwort-de.2cnt.net |

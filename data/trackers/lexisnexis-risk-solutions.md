@@ -85,7 +85,7 @@
     * h-4a04ohow.online-metrix.net
     * h-4f0drex6.online-metrix.net
     * h-4hq91r5k.online-metrix.net
-    * h-4iibpm7t.online-metrix.net
+    * h-4iibpm7t-1.online-metrix.net
     * h-4izfn6dr.online-metrix.net
     * h-4kblllmz.online-metrix.net
     * h-4qqysdfz.online-metrix.net
@@ -103,6 +103,7 @@
     * h-5g3kt0kj.online-metrix.net
     * h-5h8i3ud8.online-metrix.net
     * h-5nex4pgp.online-metrix.net
+    * h-5nflpypv.online-metrix.net
     * h-5pxao9h8.online-metrix.net
     * h-5rsqem15.online-metrix.net
     * h-5sc89hft.online-metrix.net
@@ -1024,9 +1025,7 @@
 | content.ofx.com | h-4a04ohow.online-metrix.net |
 | content.midi.io | h-4f0drex6.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
-| ep-content.patento.pl | h-4iibpm7t.online-metrix.net |
-| ep-content.vivigo.pl | h-4iibpm7t.online-metrix.net |
-| ep-content.viviraty.pl | h-4iibpm7t.online-metrix.net |
+| ep-content.vivigo.pl | h-4iibpm7t-1.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | ep.heartland.co.nz | h-4kblllmz.online-metrix.net |
 | content.heidipay.com | h-4qqysdfz.online-metrix.net |
@@ -1052,6 +1051,7 @@
 | cfaxq1.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | cfaxq2.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | identity.myblueprint.arkansasbluecross.com | h-5nex4pgp.online-metrix.net |
+| abfrage.etakenya.go.ke | h-5nflpypv.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.ke | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.za | h-5pxao9h8.online-metrix.net |
@@ -2101,6 +2101,7 @@
 | tm.bdc-cdn.com | h-tm.bdc-cdn.com.online-metrix.net |
 | img2.tmrs.com | h-tmrs.online-metrix.net |
 | tmx.gotobilling.com | h-tmx.gotobilling.online-metrix.net |
+| t.aldi-mobile.ch | h-tmx.sunrise.online-metrix.net |
 | t.chmobile.ch | h-tmx.sunrise.online-metrix.net |
 | t.lebara.ch | h-tmx.sunrise.online-metrix.net |
 | t.sunrise.ch | h-tmx.sunrise.online-metrix.net |

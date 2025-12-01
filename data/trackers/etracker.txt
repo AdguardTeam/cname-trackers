@@ -106,6 +106,7 @@
 ||etracker.cjd.de^
 ||etracker.limbachgruppe.com^
 ||etracker.lukas-becker.eu^
+||etracker.mammutmarsch.de^
 ||etracker.novicon.net^
 ||etracker.riess-gruppe.de^
 ||etracker.seoversiert.de^
@@ -135,6 +136,7 @@
 ||metrics.leimer.de^
 ||metrics.meineversicherungswelt.de^
 ||metrics.moderade.com^
+||metrics.muehle-glashuette.de^
 ||metrics.ostseeresort-damp.de^
 ||metrics.stilvol.de^
 ||metrics.thegoodshit.store^

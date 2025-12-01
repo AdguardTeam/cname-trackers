@@ -3,19 +3,19 @@
 ## Disguised trackers list
 
 * piwik.pro
+    * akvo.piwik.pro
     * amsterdam.piwik.pro
     * aumago.piwik.pro
     * czgroep.piwik.pro
     * dealerspike-prod.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
+    * eib.piwik.pro
     * ferreroanalytics.piwik.pro
+    * fitchconnect.piwik.pro
     * helen.piwik.pro
     * ind.piwik.pro
-    * jetu.piwik.pro
-    * kela.piwik.pro
     * masterworks.piwik.pro
-    * multipharma.piwik.pro
     * opanalytics.piwik.pro
     * pp-koop-p-euw.piwik.pro
     * pp-public-p-aea.piwik.pro
@@ -24,6 +24,7 @@
     * pp-public-p-use.piwik.pro
     * public-p-swe2.piwik.pro
     * rechtspraak.piwik.pro
+    * relayto.piwik.pro
     * rijksoverheid.piwik.pro
     * rvo.piwik.pro
     * sozialversicherung.piwik.pro
@@ -32,9 +33,7 @@
     * tigital.piwik.pro
     * triodos.piwik.pro
     * uninstalled.piwik.pro
-    * uwhealth.piwik.pro
     * uwv.piwik.pro
-    * vodafonedotcom.piwik.pro
     * wavelz.piwik.pro
     * witglobal.piwik.pro
 
@@ -42,21 +41,20 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
-| tagadmin.aumago.com | aumago.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
+| piwik.eib.org | eib.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
+| purple.fitchconnect.com | fitchconnect.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
-| wa.xbet.ag | jetu.piwik.pro |
-| stat.kela.fi | kela.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
-| mphdd.multipharma.be | multipharma.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | tagmanager.becop.nl | pp-koop-p-euw.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
@@ -76,11 +74,12 @@
 | inzicht.cz.nl | pp-public-p-euw.piwik.pro |
 | p-pan.triodos.com | pp-public-p-euw.piwik.pro |
 | p-pan.triodos.com | pp-public-p-euw.piwik.pro |
+| piwik.eib.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
-| piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
 | polpharmaanalytics.pl | pp-public-p-euw.piwik.pro |
+| purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
@@ -111,16 +110,15 @@
 | wa.mybookie.ag | pp-public-p-gwc.piwik.pro |
 | wa.xbet.ag | pp-public-p-gwc.piwik.pro |
 | a.uwhealth.org | pp-public-p-use.piwik.pro |
-| a.uwhealth.org | pp-public-p-use.piwik.pro |
 | analytics.dx.ohio.gov | pp-public-p-use.piwik.pro |
 | analytics.dx.ohio.gov | pp-public-p-use.piwik.pro |
 | epiphany.masterworks.digital | pp-public-p-use.piwik.pro |
 | gmn.gloo.com | pp-public-p-use.piwik.pro |
 | site-analytics.iop.ohio.gov | pp-public-p-use.piwik.pro |
 | mphdd.multipharma.be | public-p-swe2.piwik.pro |
-| mphdd.multipharma.be | public-p-swe2.piwik.pro |
 | stats.manz.at | public-p-swe2.piwik.pro |
 | statistiek.rechtspraak.nl | rechtspraak.piwik.pro |
+| a.relayto.com | relayto.piwik.pro |
 | statistiek.rijksoverheid.nl | rijksoverheid.piwik.pro |
 | statistiek.rvo.nl | rvo.piwik.pro |
 | analysis.sozialversicherung.at | sozialversicherung.piwik.pro |
@@ -132,12 +130,9 @@
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
-| stat.kela.fi | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |
-| a.uwhealth.org | uwhealth.piwik.pro |
 | tag2.uwv.nl | uwv.piwik.pro |
-| piwikpro.vodafone.com | vodafonedotcom.piwik.pro |
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |
 | analytics.witglobal.net | witglobal.piwik.pro |

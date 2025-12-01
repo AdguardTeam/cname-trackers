@@ -50,7 +50,6 @@ api.digitalpiloten.org
 api.elliehuxtable.com
 api.fuck.education
 api.ryanyao.design
-apis.4bn.xyz
 app-stats.supernotes.app
 artistchristinacarmel.ericksonbuilt.com
 assets.garron.blog

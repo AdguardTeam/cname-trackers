@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -401,7 +401,6 @@ ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
-t.locasun.es CNAME .
 t.locasun.fr CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .

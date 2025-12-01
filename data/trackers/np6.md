@@ -8,6 +8,7 @@
 
 * form.bp01.net
 * f1.mailperf.com
+* f1.mailperformance.com
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
 * tr1.bp06.net
@@ -18,13 +19,13 @@
 | ---- | ---- |
 | tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
 | f1.mperf.com | f1.mailperf.com |
+| lbv5.mperf.com | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
 | f1.mailperformance.com | form.bp01.net |
 | f1.np6.com | form.bp01.net |
 | infojeux.paris.fr | form.bp01.net |
-| lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
@@ -984,7 +985,6 @@
 | tr.newsletters-bonpoint.com | tracking.bp01.net |
 | tr.newsletters.coedition-contact.fr | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
-| tr.newsletters.qapa-interim.fr | tracking.bp01.net |
 | tr.newsletters.rmcbfm.com | tracking.bp01.net |
 | tr.newsmarketing.allopneus.com | tracking.bp01.net |
 | tr.nl.2wls.net | tracking.bp01.net |

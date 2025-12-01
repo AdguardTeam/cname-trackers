@@ -4,79 +4,83 @@
 
 * actonservice.com
     * a11522.actonservice.com
-    * a14951.actonservice.com
+    * a12605.actonservice.com
     * a16479.actonservice.com
     * a17591.actonservice.com
+    * a28348.actonservice.com
+    * a28351.actonservice.com
     * a28720.actonservice.com
-    * a29763.actonservice.com
-    * a38820.actonservice.com
     * a42575.actonservice.com
+    * a42807.actonservice.com
+    * a42896.actonservice.com
     * a43024.actonservice.com
-    * a43329.actonservice.com
+    * a43256.actonservice.com
+    * a43317.actonservice.com
     * a43339.actonservice.com
     * a43354.actonservice.com
     * a43410.actonservice.com
+    * a43411.actonservice.com
     * a43422.actonservice.com
     * a43424.actonservice.com
-    * a43806.actonservice.com
-    * a43933.actonservice.com
-    * a43972.actonservice.com
     * a44147.actonservice.com
     * a44163.actonservice.com
     * a44199.actonservice.com
     * a44213.actonservice.com
     * a44278.actonservice.com
-    * a44313.actonservice.com
     * a44370.actonservice.com
-    * a44371.actonservice.com
-    * a44745.actonservice.com
+    * a44685.actonservice.com
+    * a44838.actonservice.com
     * a45005.actonservice.com
-    * a45864.actonservice.com
-    * a45938.actonservice.com
+    * a45230.actonservice.com
+    * a45275.actonservice.com
+    * a45443.actonservice.com
+    * a46003.actonservice.com
+    * a46071.actonservice.com
     * a46336.actonservice.com
-    * accutrain.actonservice.com
-    * ccbjournal.actonservice.com
+    * a46349.actonservice.com
+    * a46360.actonservice.com
+    * a46392.actonservice.com
+    * a46423.actonservice.com
+    * a46436.actonservice.com
+    * ballymoregroup.actonservice.com
+    * briefing.actonservice.com
     * ci27.actonservice.com
     * construsoft.actonservice.com
-    * evergreenmedia.actonservice.com
-    * frenchgerleman.actonservice.com
+    * floorforce.actonservice.com
+    * gophersport.actonservice.com
     * halo.actonservice.com
-    * hygiena.actonservice.com
     * iwantglobal.actonservice.com
-    * kfcu.actonservice.com
-    * mortgagefamily.actonservice.com
+    * onlinevacationcenter.actonservice.com
     * primavera.actonservice.com
     * smu.actonservice.com
+    * triconah.actonservice.com
 * actonsoftware.com
     * a10773.actonsoftware.com
-    * a1328.actonsoftware.com
-    * a18110.actonsoftware.com
-    * a18231.actonsoftware.com
-    * a19237.actonsoftware.com
+    * a21703.actonsoftware.com
     * a22719.actonsoftware.com
     * a22731.actonsoftware.com
+    * a22741.actonsoftware.com
     * a23104.actonsoftware.com
-    * a23817.actonsoftware.com
+    * a23418.actonsoftware.com
+    * a23866.actonsoftware.com
+    * a2937.actonsoftware.com
     * a31175.actonsoftware.com
-    * a31909.actonsoftware.com
-    * a34028.actonsoftware.com
+    * a32819.actonsoftware.com
     * a34498.actonsoftware.com
-    * a35020.actonsoftware.com
-    * a35541.actonsoftware.com
+    * a37458.actonsoftware.com
     * a37775.actonsoftware.com
     * a38268.actonsoftware.com
     * a39960.actonsoftware.com
-    * a40563.actonsoftware.com
+    * a4007.actonsoftware.com
+    * a40428.actonsoftware.com
     * a40592.actonsoftware.com
-    * a41559.actonsoftware.com
+    * a42066.actonsoftware.com
     * a42220.actonsoftware.com
-    * a42327.actonsoftware.com
-    * a42622.actonsoftware.com
+    * a42611.actonsoftware.com
+    * a42650.actonsoftware.com
     * a42798.actonsoftware.com
-    * a42972.actonsoftware.com
-    * a43108.actonsoftware.com
     * a43125.actonsoftware.com
-    * a43186.actonsoftware.com
+    * a5303.actonsoftware.com
     * a7510.actonsoftware.com
     * a9883.actonsoftware.com
     * adepci1.actonsoftware.com
@@ -117,86 +121,71 @@
     * aorpcid71.actonsoftware.com
     * aorpcid76.actonsoftware.com
     * aorpcid98.actonsoftware.com
-    * astm.actonsoftware.com
     * ci100.actonsoftware.com
     * ci101.actonsoftware.com
-    * ci203.actonsoftware.com
+    * ci200.actonsoftware.com
     * ci22.actonsoftware.com
     * ci23.actonsoftware.com
+    * ci25.actonsoftware.com
     * ci29.actonsoftware.com
-    * ci30.actonsoftware.com
-    * ci303.actonsoftware.com
-    * ci33.actonsoftware.com
-    * ci34.actonsoftware.com
-    * ci35.actonsoftware.com
+    * ci300.actonsoftware.com
+    * ci301.actonsoftware.com
     * ci38.actonsoftware.com
     * ci41.actonsoftware.com
-    * ci46.actonsoftware.com
     * ci50.actonsoftware.com
-    * ci52.actonsoftware.com
-    * ci53.actonsoftware.com
-    * ci54.actonsoftware.com
-    * ci56.actonsoftware.com
     * ci57.actonsoftware.com
     * ci58.actonsoftware.com
-    * ci59.actonsoftware.com
+    * ci60.actonsoftware.com
     * ci61.actonsoftware.com
-    * ci62.actonsoftware.com
     * ci63.actonsoftware.com
     * ci66.actonsoftware.com
+    * ci67.actonsoftware.com
+    * ci70.actonsoftware.com
+    * ci73.actonsoftware.com
     * ci75.actonsoftware.com
-    * ci76.actonsoftware.com
-    * ci90.actonsoftware.com
+    * ci80.actonsoftware.com
+    * ci87.actonsoftware.com
+    * ci92.actonsoftware.com
     * ci93.actonsoftware.com
-    * ci94.actonsoftware.com
-    * ci97.actonsoftware.com
     * cid11.actonsoftware.com
     * cid2.actonsoftware.com
-    * cid3.actonsoftware.com
+    * cid6.actonsoftware.com
     * cid7.actonsoftware.com
     * cilab3.actonsoftware.com
-    * flex.actonsoftware.com
     * forpci11.actonsoftware.com
     * forpci12.actonsoftware.com
     * forpci22.actonsoftware.com
     * forpci23.actonsoftware.com
+    * forpci25.actonsoftware.com
     * forpci29.actonsoftware.com
     * forpci3.actonsoftware.com
-    * forpci31.actonsoftware.com
-    * forpci33.actonsoftware.com
-    * forpci34.actonsoftware.com
-    * forpci35.actonsoftware.com
     * forpci38.actonsoftware.com
     * forpci39.actonsoftware.com
+    * forpci4.actonsoftware.com
     * forpci41.actonsoftware.com
     * forpci43.actonsoftware.com
-    * forpci46.actonsoftware.com
-    * forpci47.actonsoftware.com
-    * forpci49.actonsoftware.com
+    * forpci48.actonsoftware.com
     * forpci50.actonsoftware.com
     * forpci52.actonsoftware.com
-    * forpci53.actonsoftware.com
-    * forpci54.actonsoftware.com
     * forpci56.actonsoftware.com
     * forpci57.actonsoftware.com
     * forpci58.actonsoftware.com
-    * forpci59.actonsoftware.com
+    * forpci60.actonsoftware.com
     * forpci61.actonsoftware.com
-    * forpci62.actonsoftware.com
     * forpci63.actonsoftware.com
     * forpci66.actonsoftware.com
+    * forpci68.actonsoftware.com
+    * forpci73.actonsoftware.com
     * forpci75.actonsoftware.com
-    * forpci76.actonsoftware.com
+    * forpci80.actonsoftware.com
     * forpci85.actonsoftware.com
     * forpci87.actonsoftware.com
-    * forpci90.actonsoftware.com
     * forpci93.actonsoftware.com
-    * forpci94.actonsoftware.com
     * forpci97.actonsoftware.com
     * forpcid1.actonsoftware.com
     * forpcid12.actonsoftware.com
-    * forpcid13.actonsoftware.com
     * forpcid15.actonsoftware.com
+    * forpcid16.actonsoftware.com
     * forpcid18.actonsoftware.com
     * forpcid2.actonsoftware.com
     * forpcid21.actonsoftware.com
@@ -206,8 +195,7 @@
     * forpcid26.actonsoftware.com
     * forpcid7.actonsoftware.com
     * forpcid8.actonsoftware.com
-    * highroadsolution.actonsoftware.com
-    * napatech.actonsoftware.com
+    * poly.actonsoftware.com
     * seahorsebio.actonsoftware.com
     * test.actonsoftware.com
 
@@ -222,67 +210,71 @@
 | ---- | ---- |
 | marketing.centra.org | a10773.actonsoftware.com |
 | ugmarketing.smu.edu.sg | a11522.actonservice.com |
-| marketing.nthdegree.com | a1328.actonsoftware.com |
-| marketing.napatech.com | a14951.actonservice.com |
+| travel.onlinevacationcenter.com | a12605.actonservice.com |
 | stcharleshealthcare.hrm.healthgrades.com | a16479.actonservice.com |
 | campaigns.ila.cegid.com | a17591.actonservice.com |
-| bdoaustralia.bdo.com.au | a18110.actonsoftware.com |
-| nm.hrm.healthgrades.com | a18231.actonsoftware.com |
-| marketing2.globalpointofcare.abbott | a19237.actonsoftware.com |
+| promo.skf.com | a21703.actonsoftware.com |
 | news.finance-commerce.com | a22719.actonsoftware.com |
 | news.djcoregon.com | a22731.actonsoftware.com |
+| news.neworleanscitybusiness.com | a22741.actonsoftware.com |
 | marketing.luxurylink.com | a23104.actonsoftware.com |
-| membership.mortonarb.org | a23817.actonsoftware.com |
+| in.promo.skf.com | a23418.actonsoftware.com |
+| cl.promo.skf.com | a23866.actonsoftware.com |
+| lubricationde.promo.skf.com | a28348.actonservice.com |
+| lubricationus.promo.skf.com | a28351.actonservice.com |
 | marketing.thisiscleveland.com | a28720.actonservice.com |
-| info.itwcce.com | a29763.actonservice.com |
+| news.brokersalliance.com | a2937.actonsoftware.com |
 | logistics.osmworldwide.com | a31175.actonsoftware.com |
-| info.insurancehotline.com | a31909.actonsoftware.com |
-| marketing.acromag.com | a34028.actonsoftware.com |
+| marketing.visitsaltlake.com | a32819.actonsoftware.com |
 | info.scoopinsurance.ca | a34498.actonsoftware.com |
-| seniorliving.cypressplaceseniorliving.com | a35020.actonsoftware.com |
-| mktg.latourhotelsandresorts.com | a35541.actonsoftware.com |
+| marketing.visithamiltoncounty.com | a37458.actonsoftware.com |
 | marketing.latourism.org | a37775.actonsoftware.com |
 | marketing.experiencecolumbus.com | a38268.actonsoftware.com |
-| click.quickenloansnow.com | a38820.actonservice.com |
 | info.rates.ca | a39960.actonsoftware.com |
-| marketing.visitspc.com | a40563.actonsoftware.com |
+| message.alldata.com | a4007.actonsoftware.com |
+| action.advisorycloud.com | a40428.actonsoftware.com |
 | marketing.gotobermuda.com | a40592.actonsoftware.com |
-| news.scbiznews.com | a41559.actonsoftware.com |
+| marketing.discoverlehighvalley.com | a42066.actonsoftware.com |
 | tourism.visitorlando.com | a42220.actonsoftware.com |
-| marketing.iloveny.com | a42327.actonsoftware.com |
 | shop.iwantclips.com | a42575.actonservice.com |
-| marketing.gulfshores.com | a42622.actonsoftware.com |
+| marketing.anchorage.net | a42611.actonsoftware.com |
+| marketing.visitvancouverusa.com | a42650.actonsoftware.com |
 | svmarketing.destinationtoronto.com | a42798.actonsoftware.com |
-| marketing.visitchattanooga.com | a42972.actonsoftware.com |
+| weare.ballymoregroup.com | a42807.actonservice.com |
+| marketing.triconresidential.com | a42896.actonservice.com |
 | marketing.bouldercoloradousa.com | a43024.actonservice.com |
-| marketing.visitgreenvillesc.com | a43108.actonsoftware.com |
 | marketing.washington.org | a43125.actonsoftware.com |
-| marketing.visitwilliamsburg.com | a43186.actonsoftware.com |
-| marketing.destinationcanada.com | a43329.actonservice.com |
+| marketing.exploreasheville.com | a43256.actonservice.com |
+| promotions.stationcasinos.com | a43317.actonservice.com |
 | ca.ssl.holdmybeerconsulting.com | a43339.actonservice.com |
 | marketing.choosechicago.com | a43354.actonservice.com |
 | internalcomms.hubinternational.com | a43410.actonservice.com |
+| marketing.visitchesapeake.com | a43411.actonservice.com |
 | pbc.programbrokerage.com | a43422.actonservice.com |
 | hub.hubfinancial.com | a43424.actonservice.com |
-| content.fabasoft.com | a43806.actonservice.com |
-| fiber.zayo.com | a43933.actonservice.com |
-| info.battelle.org | a43972.actonservice.com |
 | partner.hubinternational.com | a44147.actonservice.com |
 | welcome.hubinternational.com | a44163.actonservice.com |
 | privateclient.hubinternational.com | a44199.actonservice.com |
 | spg.specialtyprogramgroup.com | a44213.actonservice.com |
 | personal.hubinternational.com | a44278.actonservice.com |
-| marketing.thimble.com | a44313.actonservice.com |
 | page.ephesus.cooperlighting.com | a44370.actonservice.com |
-| devotionalclicks.amazingfacts.org | a44371.actonservice.com |
-| info.lowestrates.ca | a44745.actonservice.com |
+| info.themyersbriggs.com | a44685.actonservice.com |
+| solutions.oshaeducationcenter.com | a44838.actonservice.com |
 | viu.viubyhub.com | a45005.actonservice.com |
-| marketing.meetboston.com | a45864.actonservice.com |
-| marketing.visitfortwayne.com | a45938.actonservice.com |
+| page.downloads.cooperlighting.com | a45230.actonservice.com |
+| marketing.visitmusiccity.com | a45275.actonservice.com |
+| franchising.mcdonalds.ca | a45443.actonservice.com |
+| marketing.scenicsedona.com | a46003.actonservice.com |
+| marketing.wmta.org | a46071.actonservice.com |
 | info.etap.com | a46336.actonservice.com |
+| marketing.5lovelanguages.com | a46349.actonservice.com |
+| marketing.discovernewport.org | a46360.actonservice.com |
+| aginginplace.vyta.ca | a46392.actonservice.com |
+| marketing.visitguam.org | a46423.actonservice.com |
+| info.mesquitegaming.com | a46436.actonservice.com |
+| 3347.wolfgordon.com | a5303.actonsoftware.com |
 | wissen.sage.de | a7510.actonsoftware.com |
 | success.act-on.com | a9883.actonsoftware.com |
-| info.accutrain.com | accutrain.actonservice.com |
 | info.inigral.com | actonsoftware.com |
 | info.suite1000.com | actonsoftware.com |
 | marketing.acumenehr.com | actonsoftware.com |
@@ -299,7 +291,6 @@
 | start.mediware.com | actonsoftware.com |
 | a10250.actonservice.com | adepci1.actonsoftware.com |
 | a11868.actonservice.com | adepci1.actonsoftware.com |
-| a12273.actonservice.com | adepci1.actonsoftware.com |
 | a13111.actonservice.com | adepci1.actonsoftware.com |
 | a13890.actonservice.com | adepci1.actonsoftware.com |
 | a14951.actonservice.com | adepci1.actonsoftware.com |
@@ -373,7 +364,6 @@
 | marketing.magnet.ie | adepci1.actonsoftware.com |
 | marketing.merlinbusinesssoftware.com | adepci1.actonsoftware.com |
 | marketing.monochrome.co.uk | adepci1.actonsoftware.com |
-| marketing.napatech.com | adepci1.actonsoftware.com |
 | marketing.napatech.com | adepci1.actonsoftware.com |
 | marketing.nualight.com | adepci1.actonsoftware.com |
 | marketing.olivers.dk | adepci1.actonsoftware.com |
@@ -612,6 +602,7 @@
 | bg.promo.skf.com | adepci4.actonsoftware.com |
 | br.promo.skf.com | adepci4.actonsoftware.com |
 | business.matchd.nl | adepci4.actonsoftware.com |
+| cl.promo.skf.com | adepci4.actonsoftware.com |
 | cn.promo.skf.com | adepci4.actonsoftware.com |
 | co.promo.skf.com | adepci4.actonsoftware.com |
 | communication.treston.com | adepci4.actonsoftware.com |
@@ -626,7 +617,6 @@
 | dkno.netpartnering.com | adepci4.actonsoftware.com |
 | fi.on-channel.com | adepci4.actonsoftware.com |
 | fr.promo.skf.com | adepci4.actonsoftware.com |
-| go.esri.fi | adepci4.actonsoftware.com |
 | go.skillshouse.dk | adepci4.actonsoftware.com |
 | gr.promo.skf.com | adepci4.actonsoftware.com |
 | hr.promo.skf.com | adepci4.actonsoftware.com |
@@ -693,6 +683,7 @@
 | pe.promo.skf.com | adepci4.actonsoftware.com |
 | ph.promo.skf.com | adepci4.actonsoftware.com |
 | pl.promo.skf.com | adepci4.actonsoftware.com |
+| promo.skf.com | adepci4.actonsoftware.com |
 | promo.skf.com | adepci4.actonsoftware.com |
 | ro.promo.skf.com | adepci4.actonsoftware.com |
 | se.netpartnering.com | adepci4.actonsoftware.com |
@@ -782,8 +773,6 @@
 | marketing.c-c-l.com | adepci5.actonsoftware.com |
 | marketing.centreforaviation.com | adepci5.actonsoftware.com |
 | marketing.claritum.com | adepci5.actonsoftware.com |
-| marketing.construsoft.com | adepci5.actonsoftware.com |
-| marketing.construsoft.com | adepci5.actonsoftware.com |
 | marketing.crbcunninghams.co.uk | adepci5.actonsoftware.com |
 | marketing.cunninghams.co.uk | adepci5.actonsoftware.com |
 | marketing.dmcplc.co.uk | adepci5.actonsoftware.com |
@@ -886,8 +875,6 @@
 | dm.syntelli.com | aorpci1.actonsoftware.com |
 | email.axisintegrated.ca | aorpci1.actonsoftware.com |
 | experts.cutter.com | aorpci1.actonsoftware.com |
-| fiber.zayo.com | aorpci1.actonsoftware.com |
-| fiber.zayo.com | aorpci1.actonsoftware.com |
 | fiduciaryfirst.actonservice.com | aorpci1.actonsoftware.com |
 | financialservices.teranet.ca | aorpci1.actonsoftware.com |
 | forms.cooperaerobics.com | aorpci1.actonsoftware.com |
@@ -1016,7 +1003,6 @@
 | marketing.xsightusa.com | aorpci1.actonsoftware.com |
 | marketing.yooistanbul.com | aorpci1.actonsoftware.com |
 | marketing.zeomega.com | aorpci1.actonsoftware.com |
-| marketing2.globalpointofcare.abbott | aorpci1.actonsoftware.com |
 | marketing2.globalpointofcare.abbott | aorpci1.actonsoftware.com |
 | member.usenix.org | aorpci1.actonsoftware.com |
 | mkt.animalsafety.neogen.com | aorpci1.actonsoftware.com |
@@ -1359,6 +1345,7 @@
 | info.ashergroup.com | aorpci10.actonsoftware.com |
 | info.astronovainc.com | aorpci10.actonsoftware.com |
 | info.authentic4d.com | aorpci10.actonsoftware.com |
+| info.briefing.com | aorpci10.actonsoftware.com |
 | info.bris.bdo.com.au | aorpci10.actonsoftware.com |
 | info.commonsenseadvisory.com | aorpci10.actonsoftware.com |
 | info.doverpark.org.sg | aorpci10.actonsoftware.com |
@@ -1580,7 +1567,6 @@
 | setaram.actonservice.com | aorpci10.actonsoftware.com |
 | sigmagroup.actonservice.com | aorpci10.actonsoftware.com |
 | simplify.razorsync.com | aorpci10.actonsoftware.com |
-| sitel.actonservice.com | aorpci10.actonsoftware.com |
 | slatwall-displays.gogopanels.com | aorpci10.actonsoftware.com |
 | smf.southernmetalfab.com | aorpci10.actonsoftware.com |
 | solutions.advantageauburn.com | aorpci10.actonsoftware.com |
@@ -1610,6 +1596,7 @@
 | velocitypartners.actonservice.com | aorpci10.actonsoftware.com |
 | verified.beefbooster.com | aorpci10.actonsoftware.com |
 | vertexcs.actonservice.com | aorpci10.actonsoftware.com |
+| vip.gophersport.com | aorpci10.actonsoftware.com |
 | vip.gophersport.com | aorpci10.actonsoftware.com |
 | voiply.actonservice.com | aorpci10.actonsoftware.com |
 | vroomangroup.actonservice.com | aorpci10.actonsoftware.com |
@@ -1644,7 +1631,6 @@
 | a44170.actonservice.com | aorpci11.actonsoftware.com |
 | a44203.actonservice.com | aorpci11.actonsoftware.com |
 | a44370.actonservice.com | aorpci11.actonsoftware.com |
-| a44370.actonservice.com | aorpci11.actonsoftware.com |
 | a45554.actonservice.com | aorpci11.actonsoftware.com |
 | a45710.actonservice.com | aorpci11.actonsoftware.com |
 | a45807.actonservice.com | aorpci11.actonsoftware.com |
@@ -1672,8 +1658,6 @@
 | go.pcfaceshield.com | aorpci11.actonsoftware.com |
 | go.phhlending.com | aorpci11.actonsoftware.com |
 | go.unitusccu.com | aorpci11.actonsoftware.com |
-| info.ccbjournal.com | aorpci11.actonsoftware.com |
-| info.ccbjournal.com | aorpci11.actonsoftware.com |
 | info.electrifai.net | aorpci11.actonsoftware.com |
 | info.enchantedrock.com | aorpci11.actonsoftware.com |
 | info.infiniteconnect.com | aorpci11.actonsoftware.com |
@@ -1725,6 +1709,7 @@
 | marketing.equitablemortgage.com | aorpci11.actonsoftware.com |
 | marketing.erm-ins.com | aorpci11.actonsoftware.com |
 | marketing.evcp.com | aorpci11.actonsoftware.com |
+| marketing.exploreasheville.com | aorpci11.actonsoftware.com |
 | marketing.exploreasheville.com | aorpci11.actonsoftware.com |
 | marketing.explorenorthmyrtlebeach.com | aorpci11.actonsoftware.com |
 | marketing.festivaorlandoresort.com | aorpci11.actonsoftware.com |
@@ -1785,7 +1770,6 @@
 | marketing.theaffluenttraveler.com | aorpci11.actonsoftware.com |
 | marketing.thefranchiseconsultingcompany.ca | aorpci11.actonsoftware.com |
 | marketing.thimble.com | aorpci11.actonsoftware.com |
-| marketing.thimble.com | aorpci11.actonsoftware.com |
 | marketing.toyotaofeasley.com | aorpci11.actonsoftware.com |
 | marketing.travelmarketreport.com | aorpci11.actonsoftware.com |
 | marketing.travelportland.com | aorpci11.actonsoftware.com |
@@ -1799,25 +1783,21 @@
 | marketing.visitcabarrus.com | aorpci11.actonsoftware.com |
 | marketing.visitcharlottesville.org | aorpci11.actonsoftware.com |
 | marketing.visitchattanooga.com | aorpci11.actonsoftware.com |
-| marketing.visitchattanooga.com | aorpci11.actonsoftware.com |
 | marketing.visitchesapeake.com | aorpci11.actonsoftware.com |
 | marketing.visiteauclaire.com | aorpci11.actonsoftware.com |
-| marketing.visitgreenvillesc.com | aorpci11.actonsoftware.com |
-| marketing.visitgreenvillesc.com | aorpci11.actonsoftware.com |
 | marketing.visitlex.com | aorpci11.actonsoftware.com |
 | marketing.visitnapavalley.com | aorpci11.actonsoftware.com |
 | marketing.visitrenotahoe.com | aorpci11.actonsoftware.com |
 | marketing.visitroanokeva.com | aorpci11.actonsoftware.com |
 | marketing.visitwilliamsburg.com | aorpci11.actonsoftware.com |
 | marketing.washington.org | aorpci11.actonsoftware.com |
-| marketing.washington.org | aorpci11.actonsoftware.com |
 | marketing.whiteeaglecoalition.com | aorpci11.actonsoftware.com |
 | mdtelephone.actonservice.com | aorpci11.actonsoftware.com |
 | media.eagleridgeinvestment.com | aorpci11.actonsoftware.com |
-| mm.evolutionmotion.com | aorpci11.actonsoftware.com |
 | mm.morrellinc.com | aorpci11.actonsoftware.com |
 | morrellinc.actonservice.com | aorpci11.actonsoftware.com |
 | mortgagefamily.actonservice.com | aorpci11.actonsoftware.com |
+| msufcu.actonservice.com | aorpci11.actonsoftware.com |
 | nakisa.actonservice.com | aorpci11.actonsoftware.com |
 | news.colormagazine.com | aorpci11.actonsoftware.com |
 | opoffice.actonservice.com | aorpci11.actonsoftware.com |
@@ -1845,6 +1825,7 @@
 | success.mgmt3d.com | aorpci11.actonsoftware.com |
 | success.studioxerxes.com | aorpci11.actonsoftware.com |
 | t.ao.imagineartsacademy.com | aorpci11.actonsoftware.com |
+| travelmarketreport.actonservice.com | aorpci11.actonsoftware.com |
 | unitusccu.actonservice.com | aorpci11.actonsoftware.com |
 | utexas.actonservice.com | aorpci11.actonsoftware.com |
 | woodtone.actonservice.com | aorpci11.actonsoftware.com |
@@ -2089,7 +2070,9 @@
 | a43803.actonservice.com | aorpci12.actonsoftware.com |
 | a45649.actonservice.com | aorpci12.actonsoftware.com |
 | a45759.actonservice.com | aorpci12.actonsoftware.com |
+| a45759.actonservice.com | aorpci12.actonsoftware.com |
 | a45811.actonservice.com | aorpci12.actonsoftware.com |
+| a45823.actonservice.com | aorpci12.actonsoftware.com |
 | a45831.actonservice.com | aorpci12.actonsoftware.com |
 | a45851.actonservice.com | aorpci12.actonsoftware.com |
 | a45856.actonservice.com | aorpci12.actonsoftware.com |
@@ -2097,6 +2080,7 @@
 | a45875.actonservice.com | aorpci12.actonsoftware.com |
 | a45886.actonservice.com | aorpci12.actonsoftware.com |
 | a45938.actonservice.com | aorpci12.actonsoftware.com |
+| a45964.actonservice.com | aorpci12.actonsoftware.com |
 | a45964.actonservice.com | aorpci12.actonsoftware.com |
 | a46027.actonservice.com | aorpci12.actonsoftware.com |
 | a46069.actonservice.com | aorpci12.actonsoftware.com |
@@ -2111,6 +2095,7 @@
 | a46892.actonservice.com | aorpci12.actonsoftware.com |
 | acton.sightlife.org | aorpci12.actonsoftware.com |
 | adviacu.fmservice.com | aorpci12.actonsoftware.com |
+| aginginplace.vyta.ca | aorpci12.actonsoftware.com |
 | alwayscare.starmountlife.com | aorpci12.actonsoftware.com |
 | andesvision.webmarketing.com.ec | aorpci12.actonsoftware.com |
 | atbs.actonservice.com | aorpci12.actonsoftware.com |
@@ -2189,7 +2174,6 @@
 | info.edtrainingcenter.com | aorpci12.actonsoftware.com |
 | info.eecoonline.com | aorpci12.actonsoftware.com |
 | info.etap.com | aorpci12.actonsoftware.com |
-| info.etap.com | aorpci12.actonsoftware.com |
 | info.fazzi.com | aorpci12.actonsoftware.com |
 | info.florissgroup.com | aorpci12.actonsoftware.com |
 | info.followoz.com | aorpci12.actonsoftware.com |
@@ -2201,8 +2185,6 @@
 | info.heirtight.co | aorpci12.actonsoftware.com |
 | info.ibamolecular.com | aorpci12.actonsoftware.com |
 | info.instephealth.com | aorpci12.actonsoftware.com |
-| info.itwcce.com | aorpci12.actonsoftware.com |
-| info.itwcce.com | aorpci12.actonsoftware.com |
 | info.landstar.com | aorpci12.actonsoftware.com |
 | info.livingwage.org.uk | aorpci12.actonsoftware.com |
 | info.narcdc.org | aorpci12.actonsoftware.com |
@@ -2266,6 +2248,7 @@
 | marketing.3dcadtools.com | aorpci12.actonsoftware.com |
 | marketing.4psgroup.com | aorpci12.actonsoftware.com |
 | marketing.5lovelanguages.com | aorpci12.actonsoftware.com |
+| marketing.5lovelanguages.com | aorpci12.actonsoftware.com |
 | marketing.advantage.tech | aorpci12.actonsoftware.com |
 | marketing.airefco.com | aorpci12.actonsoftware.com |
 | marketing.allco.co.nz | aorpci12.actonsoftware.com |
@@ -2295,6 +2278,7 @@
 | marketing.dataprise.com | aorpci12.actonsoftware.com |
 | marketing.discoveratlanta.com | aorpci12.actonsoftware.com |
 | marketing.discoverdurham.com | aorpci12.actonsoftware.com |
+| marketing.discovernewport.org | aorpci12.actonsoftware.com |
 | marketing.discovernewport.org | aorpci12.actonsoftware.com |
 | marketing.discoverorg.com | aorpci12.actonsoftware.com |
 | marketing.discoverphl.com | aorpci12.actonsoftware.com |
@@ -2413,9 +2397,9 @@
 | marketing.unimar.com | aorpci12.actonsoftware.com |
 | marketing.vgmeducation.com | aorpci12.actonsoftware.com |
 | marketing.visitcurrituck.com | aorpci12.actonsoftware.com |
-| marketing.visitestespark.com | aorpci12.actonsoftware.com |
 | marketing.visitfortwayne.com | aorpci12.actonsoftware.com |
 | marketing.visitftcollins.com | aorpci12.actonsoftware.com |
+| marketing.visitguam.org | aorpci12.actonsoftware.com |
 | marketing.visitguam.org | aorpci12.actonsoftware.com |
 | marketing.visithendrickscounty.com | aorpci12.actonsoftware.com |
 | marketing.visitmadison.com | aorpci12.actonsoftware.com |
@@ -2655,6 +2639,7 @@
 | mri.iradimed.com | aorpci2.actonsoftware.com |
 | myretailmatch.actonservice.com | aorpci2.actonsoftware.com |
 | news.brokersalliance.com | aorpci2.actonsoftware.com |
+| news.brokersalliance.com | aorpci2.actonsoftware.com |
 | northsidemediagroup.actonservice.com | aorpci2.actonsoftware.com |
 | on.leagueapps.com | aorpci2.actonsoftware.com |
 | opportunityfund.actonservice.com | aorpci2.actonsoftware.com |
@@ -2748,6 +2733,7 @@
 | info.davidrio.com | aorpci3.actonsoftware.com |
 | info.dimplexthermal.com | aorpci3.actonsoftware.com |
 | info.divurgent.com | aorpci3.actonsoftware.com |
+| info.duprelogistics.com | aorpci3.actonsoftware.com |
 | info.fifthadvertising.com | aorpci3.actonsoftware.com |
 | info.freedom-iot.com | aorpci3.actonsoftware.com |
 | info.gcaaltium.com | aorpci3.actonsoftware.com |
@@ -2796,7 +2782,6 @@
 | m.evolutionbb.com | aorpci3.actonsoftware.com |
 | m.evolutiondigital.com | aorpci3.actonsoftware.com |
 | ma.a3.se | aorpci3.actonsoftware.com |
-| ma.betterbusiness.se | aorpci3.actonsoftware.com |
 | ma.heatmanage.com | aorpci3.actonsoftware.com |
 | madisoncres.actonservice.com | aorpci3.actonsoftware.com |
 | marketing-company.getinsured.com | aorpci3.actonsoftware.com |
@@ -2806,7 +2791,6 @@
 | marketing.abouttimetech.com | aorpci3.actonsoftware.com |
 | marketing.absoluteexhibits.com | aorpci3.actonsoftware.com |
 | marketing.accuride.com | aorpci3.actonsoftware.com |
-| marketing.acromag.com | aorpci3.actonsoftware.com |
 | marketing.acromag.com | aorpci3.actonsoftware.com |
 | marketing.adept-telecom.co.uk | aorpci3.actonsoftware.com |
 | marketing.alereforensics.com | aorpci3.actonsoftware.com |
@@ -2918,7 +2902,6 @@
 | marketing.taos.com | aorpci3.actonsoftware.com |
 | marketing.tealium.com | aorpci3.actonsoftware.com |
 | marketing.thebestirs.com | aorpci3.actonsoftware.com |
-| marketing.tilsonhr.com | aorpci3.actonsoftware.com |
 | marketing.tmshealth.com | aorpci3.actonsoftware.com |
 | marketing.topspot.com | aorpci3.actonsoftware.com |
 | marketing.topspotims.com | aorpci3.actonsoftware.com |
@@ -2971,7 +2954,6 @@
 | redlion.actonservice.com | aorpci3.actonsoftware.com |
 | resources.davey.com | aorpci3.actonsoftware.com |
 | resources.linengineering.com | aorpci3.actonsoftware.com |
-| resources.linengineering.com | aorpci3.actonsoftware.com |
 | retirementservices.firstallied.com | aorpci3.actonsoftware.com |
 | rfxcel.actonservice.com | aorpci3.actonsoftware.com |
 | root9b.actonservice.com | aorpci3.actonsoftware.com |
@@ -3000,7 +2982,6 @@
 | try.ecisecurepay.com | aorpci3.actonsoftware.com |
 | updates.conexpoconagg.com | aorpci3.actonsoftware.com |
 | value.kfcu.org | aorpci3.actonsoftware.com |
-| value.kfcu.org | aorpci3.actonsoftware.com |
 | wolseley.actonservice.com | aorpci3.actonsoftware.com |
 | www.connect.checkintocash.com | aorpci3.actonsoftware.com |
 | www.info.davidrio.com | aorpci3.actonsoftware.com |
@@ -3009,7 +2990,6 @@
 | yourfuture.walsh.edu | aorpci3.actonsoftware.com |
 | youronestopshop.themagnetgroup.com | aorpci3.actonsoftware.com |
 | 3347.wolf-gordon.com | aorpci4.actonsoftware.com |
-| 3347.wolfgordon.com | aorpci4.actonsoftware.com |
 | 908devices.actonservice.com | aorpci4.actonsoftware.com |
 | a43972.actonservice.com | aorpci4.actonsoftware.com |
 | a43977.actonservice.com | aorpci4.actonsoftware.com |
@@ -3045,8 +3025,6 @@
 | hq.handiquilter.com | aorpci4.actonsoftware.com |
 | info.accutrain.com | aorpci4.actonsoftware.com |
 | info.awos.com | aorpci4.actonsoftware.com |
-| info.battelle.org | aorpci4.actonsoftware.com |
-| info.battelle.org | aorpci4.actonsoftware.com |
 | info.bgi.com | aorpci4.actonsoftware.com |
 | info.blazecu.com | aorpci4.actonsoftware.com |
 | info.burnswhite.com | aorpci4.actonsoftware.com |
@@ -3216,6 +3194,7 @@
 | marketing.visitdenver.com | aorpci4.actonsoftware.com |
 | marketing.visitgreaterpalmsprings.com | aorpci4.actonsoftware.com |
 | marketing.visithamiltoncounty.com | aorpci4.actonsoftware.com |
+| marketing.visithamiltoncounty.com | aorpci4.actonsoftware.com |
 | marketing.visitoakland.com | aorpci4.actonsoftware.com |
 | marketing.visitpanamacitybeach.com | aorpci4.actonsoftware.com |
 | marketing.wallstreetsystems.com | aorpci4.actonsoftware.com |
@@ -3233,7 +3212,6 @@
 | mhaaconetwork.mhainc.com | aorpci4.actonsoftware.com |
 | mkt.content4demand.com | aorpci4.actonsoftware.com |
 | mkt.detechtion.com | aorpci4.actonsoftware.com |
-| mktg.latourhotelsandresorts.com | aorpci4.actonsoftware.com |
 | mktg.latourhotelsandresorts.com | aorpci4.actonsoftware.com |
 | morganfranklin.actonservice.com | aorpci4.actonsoftware.com |
 | motista.actonservice.com | aorpci4.actonsoftware.com |
@@ -3290,6 +3268,7 @@
 | ssdl.actonservice.com | aorpci4.actonsoftware.com |
 | stormwind.actonservice.com | aorpci4.actonsoftware.com |
 | strategycompanion.actonservice.com | aorpci4.actonsoftware.com |
+| system.nefiber.com | aorpci4.actonsoftware.com |
 | tengointernet.actonservice.com | aorpci4.actonsoftware.com |
 | testforce.actonservice.com | aorpci4.actonsoftware.com |
 | thesuccessstars.actonservice.com | aorpci4.actonsoftware.com |
@@ -3300,7 +3279,6 @@
 | www2.aerodynamic-solutions.com | aorpci4.actonsoftware.com |
 | yoursolution.tapes.averydennison.com | aorpci4.actonsoftware.com |
 | a.highroadsolution.com | aorpci5.actonsoftware.com |
-| a11058.actonservice.com | aorpci5.actonsoftware.com |
 | a11107.actonservice.com | aorpci5.actonsoftware.com |
 | a11114.actonservice.com | aorpci5.actonsoftware.com |
 | a11143.actonservice.com | aorpci5.actonsoftware.com |
@@ -3324,8 +3302,6 @@
 | a44274.actonservice.com | aorpci5.actonsoftware.com |
 | a44321.actonservice.com | aorpci5.actonsoftware.com |
 | a44322.actonservice.com | aorpci5.actonsoftware.com |
-| a44371.actonservice.com | aorpci5.actonsoftware.com |
-| a44371.actonservice.com | aorpci5.actonsoftware.com |
 | a44539.actonservice.com | aorpci5.actonsoftware.com |
 | a44581.actonservice.com | aorpci5.actonsoftware.com |
 | a44746.actonservice.com | aorpci5.actonsoftware.com |
@@ -3343,7 +3319,7 @@
 | crawford-industries.actonservice.com | aorpci5.actonsoftware.com |
 | crm.toyotago.com.ec | aorpci5.actonsoftware.com |
 | devotionalclicks.amazingfacts.org | aorpci5.actonsoftware.com |
-| devotionalclicks.amazingfacts.org | aorpci5.actonsoftware.com |
+| edcmktg.ashevillechamber.org | aorpci5.actonsoftware.com |
 | emarketing.landisgyr.com | aorpci5.actonsoftware.com |
 | emarketing.moveo.com | aorpci5.actonsoftware.com |
 | emarketing.zulkiepartners.com | aorpci5.actonsoftware.com |
@@ -3431,6 +3407,7 @@
 | marketing.cableloc.com | aorpci5.actonsoftware.com |
 | marketing.chemometec.com | aorpci5.actonsoftware.com |
 | marketing.cjisgroup.com | aorpci5.actonsoftware.com |
+| marketing.cogentco.com | aorpci5.actonsoftware.com |
 | marketing.connectandsell.com | aorpci5.actonsoftware.com |
 | marketing.corneagen.com | aorpci5.actonsoftware.com |
 | marketing.creativechannel.com | aorpci5.actonsoftware.com |
@@ -3525,7 +3502,6 @@
 | media.elementsbehavioralhealth.com | aorpci5.actonsoftware.com |
 | media.theartisansapproach.com | aorpci5.actonsoftware.com |
 | membership.mortonarb.org | aorpci5.actonsoftware.com |
-| membership.mortonarb.org | aorpci5.actonsoftware.com |
 | mkt.globalmentoring.com | aorpci5.actonsoftware.com |
 | mktg.martechadvisor.com | aorpci5.actonsoftware.com |
 | news.btmbiz.com | aorpci5.actonsoftware.com |
@@ -3619,6 +3595,7 @@
 | biminibliss.rwbimini.com | aorpci6.actonsoftware.com |
 | biznews.oregon.gov | aorpci6.actonsoftware.com |
 | build.bildgta.ca | aorpci6.actonsoftware.com |
+| campaigns.hygiena.com | aorpci6.actonsoftware.com |
 | caradonna.actonservice.com | aorpci6.actonsoftware.com |
 | commercial.davey.com | aorpci6.actonsoftware.com |
 | communicate.lightningprotection.com | aorpci6.actonsoftware.com |
@@ -3626,6 +3603,7 @@
 | connect.chiropractic.ac.nz | aorpci6.actonsoftware.com |
 | connect.meringcarson.com | aorpci6.actonsoftware.com |
 | connect.rallypoint.com | aorpci6.actonsoftware.com |
+| connect.thinkinterval.com | aorpci6.actonsoftware.com |
 | content.commandc.com | aorpci6.actonsoftware.com |
 | corporatecommunications.bvifsc.vg | aorpci6.actonsoftware.com |
 | digitalcurrent.actonservice.com | aorpci6.actonsoftware.com |
@@ -3803,7 +3781,6 @@
 | marketing.tourismwinnipeg.com | aorpci6.actonsoftware.com |
 | marketing.traveltags.com | aorpci6.actonsoftware.com |
 | marketing.ugamsolutions.com | aorpci6.actonsoftware.com |
-| marketing.unionwear.com | aorpci6.actonsoftware.com |
 | marketing.unitedautocredit.net | aorpci6.actonsoftware.com |
 | marketing.versium.com | aorpci6.actonsoftware.com |
 | marketing.verticaldesignservices.com | aorpci6.actonsoftware.com |
@@ -3885,7 +3862,6 @@
 | solutions.servometer.com | aorpci6.actonsoftware.com |
 | success.etgroup.ca | aorpci6.actonsoftware.com |
 | success.lohfeldconsulting.com | aorpci6.actonsoftware.com |
-| support.flex.com | aorpci6.actonsoftware.com |
 | support.flex.com | aorpci6.actonsoftware.com |
 | techadv.actonservice.com | aorpci6.actonsoftware.com |
 | telsmith.actonservice.com | aorpci6.actonsoftware.com |
@@ -4005,9 +3981,11 @@
 | news.milawyersweekly.com | aorpci7.actonsoftware.com |
 | news.molawyersmedia.com | aorpci7.actonsoftware.com |
 | news.neworleanscitybusiness.com | aorpci7.actonsoftware.com |
+| news.neworleanscitybusiness.com | aorpci7.actonsoftware.com |
 | news.nydailyrecord.com | aorpci7.actonsoftware.com |
 | news.valawyersweekly.com | aorpci7.actonsoftware.com |
 | ottawa-content.cresa.com | aorpci7.actonsoftware.com |
+| page.downloads.cooperlighting.com | aorpci7.actonsoftware.com |
 | page.downloads.cooperlighting.com | aorpci7.actonsoftware.com |
 | philadelphia-content.cresa.com | aorpci7.actonsoftware.com |
 | phoenix-content.cresa.com | aorpci7.actonsoftware.com |
@@ -4055,6 +4033,7 @@
 | a13009.actonservice.com | aorpci8.actonsoftware.com |
 | a13010.actonservice.com | aorpci8.actonsoftware.com |
 | act.colorlines.com | aorpci8.actonsoftware.com |
+| act.online.engineering.nyu.edu | aorpci8.actonsoftware.com |
 | act.online.engineering.nyu.edu | aorpci8.actonsoftware.com |
 | act.raceforward.org | aorpci8.actonsoftware.com |
 | altn.actonservice.com | aorpci8.actonsoftware.com |
@@ -4131,6 +4110,7 @@
 | marketing.advanceflooring.co.nz | aorpci8.actonsoftware.com |
 | marketing.alaskavisit.com | aorpci8.actonsoftware.com |
 | marketing.anchorage.net | aorpci8.actonsoftware.com |
+| marketing.anchorage.net | aorpci8.actonsoftware.com |
 | marketing.armsolutions.com | aorpci8.actonsoftware.com |
 | marketing.baltimore.org | aorpci8.actonsoftware.com |
 | marketing.barbizon.com | aorpci8.actonsoftware.com |
@@ -4150,6 +4130,8 @@
 | marketing.cygnetcloud.com | aorpci8.actonsoftware.com |
 | marketing.ddc-cabtech.com | aorpci8.actonsoftware.com |
 | marketing.directmedimaging.com | aorpci8.actonsoftware.com |
+| marketing.discoverlehighvalley.com | aorpci8.actonsoftware.com |
+| marketing.discoverlehighvalley.com | aorpci8.actonsoftware.com |
 | marketing.discoversaratoga.org | aorpci8.actonsoftware.com |
 | marketing.dmihotels.com | aorpci8.actonsoftware.com |
 | marketing.dohmen.com | aorpci8.actonsoftware.com |
@@ -4172,7 +4154,6 @@
 | marketing.gotobermuda.com | aorpci8.actonsoftware.com |
 | marketing.gotobermuda.com | aorpci8.actonsoftware.com |
 | marketing.grandecheese.com | aorpci8.actonsoftware.com |
-| marketing.gulfshores.com | aorpci8.actonsoftware.com |
 | marketing.gulfshores.com | aorpci8.actonsoftware.com |
 | marketing.hcu.coop | aorpci8.actonsoftware.com |
 | marketing.hfore.com | aorpci8.actonsoftware.com |
@@ -4251,8 +4232,8 @@
 | marketing.visitsouthbend.com | aorpci8.actonsoftware.com |
 | marketing.visitsouthwalton.com | aorpci8.actonsoftware.com |
 | marketing.visitspc.com | aorpci8.actonsoftware.com |
-| marketing.visitspc.com | aorpci8.actonsoftware.com |
 | marketing.visitspokane.com | aorpci8.actonsoftware.com |
+| marketing.visitvancouverusa.com | aorpci8.actonsoftware.com |
 | marketing.visitvancouverusa.com | aorpci8.actonsoftware.com |
 | marketing.visitvancouverwa.com | aorpci8.actonsoftware.com |
 | marketing.visitwichita.com | aorpci8.actonsoftware.com |
@@ -4275,7 +4256,6 @@
 | mktg.pershing.com | aorpci8.actonsoftware.com |
 | moreinfo.onnowdigital.com | aorpci8.actonsoftware.com |
 | moreinfo.powerpro360.com | aorpci8.actonsoftware.com |
-| news.scbiznews.com | aorpci8.actonsoftware.com |
 | news.scmanufacturingconference.com | aorpci8.actonsoftware.com |
 | news.sp2.org | aorpci8.actonsoftware.com |
 | nova-healthcare.actonservice.com | aorpci8.actonsoftware.com |
@@ -4341,7 +4321,6 @@
 | www.info.osucascades.edu | aorpci8.actonsoftware.com |
 | www.marketing.altn.com | aorpci8.actonsoftware.com |
 | www2.simplilearn.com | aorpci8.actonsoftware.com |
-| www2.simplilearn.com | aorpci8.actonsoftware.com |
 | zelmanassociates.actonservice.com | aorpci8.actonsoftware.com |
 | a.evergage.com | aorpci9.actonsoftware.com |
 | a11315.actonservice.com | aorpci9.actonsoftware.com |
@@ -4360,7 +4339,6 @@
 | a11501.actonservice.com | aorpci9.actonsoftware.com |
 | a11519.actonservice.com | aorpci9.actonsoftware.com |
 | a11531.actonservice.com | aorpci9.actonsoftware.com |
-| a11537.actonservice.com | aorpci9.actonsoftware.com |
 | a11538.actonservice.com | aorpci9.actonsoftware.com |
 | a11540.actonservice.com | aorpci9.actonsoftware.com |
 | a11550.actonservice.com | aorpci9.actonsoftware.com |
@@ -4651,6 +4629,7 @@
 | franchise.justcuts.ca | aorpci9.actonsoftware.com |
 | franchising.beautyfirstfranchise.com | aorpci9.actonsoftware.com |
 | franchising.mcdonalds.ca | aorpci9.actonsoftware.com |
+| franchising.mcdonalds.ca | aorpci9.actonsoftware.com |
 | franchising.toppers.ca | aorpci9.actonsoftware.com |
 | gas-sensing.spec-sensors.com | aorpci9.actonsoftware.com |
 | gassales.eversource.com | aorpci9.actonsoftware.com |
@@ -4686,6 +4665,7 @@
 | info.gantryinc.com | aorpci9.actonsoftware.com |
 | info.girlswhoinvest.org | aorpci9.actonsoftware.com |
 | info.growthzone.com | aorpci9.actonsoftware.com |
+| info.halo.com | aorpci9.actonsoftware.com |
 | info.halo.com | aorpci9.actonsoftware.com |
 | info.ijungo.com | aorpci9.actonsoftware.com |
 | info.imagethink.net | aorpci9.actonsoftware.com |
@@ -4817,6 +4797,7 @@
 | marketing.netvlies.nl | aorpci9.actonsoftware.com |
 | marketing.neurorelief.com | aorpci9.actonsoftware.com |
 | marketing.nfte.com | aorpci9.actonsoftware.com |
+| marketing.omnifymarketing.com | aorpci9.actonsoftware.com |
 | marketing.omnifymarketing.com | aorpci9.actonsoftware.com |
 | marketing.onecallglobal.com | aorpci9.actonsoftware.com |
 | marketing.oxfordlearning.com | aorpci9.actonsoftware.com |
@@ -4993,6 +4974,7 @@
 | worldnetpr.actonservice.com | aorpci9.actonsoftware.com |
 | ypowpo.actonservice.com | aorpci9.actonsoftware.com |
 | a10053.actonservice.com | aorpcid1.actonsoftware.com |
+| action.advisorycloud.com | aorpcid1.actonsoftware.com |
 | kws.holdmybeerconsulting.com | aorpcid1.actonsoftware.com |
 | a11248.actonservice.com | aorpcid13.actonsoftware.com |
 | a12872.actonservice.com | aorpcid13.actonsoftware.com |
@@ -5121,7 +5103,6 @@
 | mktg.ummhealth.org | aorpcid13.actonsoftware.com |
 | news.mclaren.org | aorpcid13.actonsoftware.com |
 | nm.hrm.healthgrades.com | aorpcid13.actonsoftware.com |
-| nm.hrm.healthgrades.com | aorpcid13.actonsoftware.com |
 | outreach.kansashealthsystem.com | aorpcid13.actonsoftware.com |
 | profile-update.healthgrades.com | aorpcid13.actonsoftware.com |
 | providers.mhc.net | aorpcid13.actonsoftware.com |
@@ -5152,6 +5133,7 @@
 | mmarkhigh.actonservice.com | aorpcid14.actonsoftware.com |
 | info.autozonepro.com | aorpcid16.actonsoftware.com |
 | marketing.autozonemecanicos.com | aorpcid16.actonsoftware.com |
+| message.alldata.com | aorpcid16.actonsoftware.com |
 | message.alldata.com | aorpcid16.actonsoftware.com |
 | click.quickenloansnow.com | aorpcid18.actonsoftware.com |
 | info.rocketloansnow.com | aorpcid18.actonsoftware.com |
@@ -5202,65 +5184,56 @@
 | a46938.actonservice.com | aorpcid98.actonsoftware.com |
 | gpbsecuritiessettlement.e.epiqnotification.com | aorpcid98.actonsoftware.com |
 | tupperwaresecuritiessettlement.e.epiqnotification.com | aorpcid98.actonsoftware.com |
-| marketing.astm.org | astm.actonsoftware.com |
 | marketing.mixitusa.com | axews5sjzdjp.wpeproxy.com |
-| info.ccbjournal.com | ccbjournal.actonservice.com |
+| weare.ballymoregroup.com | ballymoregroup.actonservice.com |
+| info.briefing.com | briefing.actonservice.com |
 | a13557.actonservice.com | ci100.actonsoftware.com |
 | a16418.actonservice.com | ci100.actonsoftware.com |
 | marketing.navitascredit.com | ci100.actonsoftware.com |
 | vetsource.actonservice.com | ci100.actonsoftware.com |
 | a13866.actonservice.com | ci101.actonsoftware.com |
 | thomsonreuters.actonservice.com | ci101.actonsoftware.com |
-| marketing.construsoft.com | ci203.actonsoftware.com |
+| a12273.actonservice.com | ci200.actonsoftware.com |
 | my.bruker.com | ci22.actonsoftware.com |
 | logistics.osmworldwide.com | ci23.actonsoftware.com |
+| news.brokersalliance.com | ci25.actonsoftware.com |
 | www2.ecina.com | ci27.actonservice.com |
-| value.kfcu.org | ci29.actonsoftware.com |
-| marketing.acromag.com | ci30.actonsoftware.com |
-| resources.linengineering.com | ci30.actonsoftware.com |
-| content.fabasoft.com | ci303.actonsoftware.com |
-| seniorliving.cypressplaceseniorliving.com | ci33.actonsoftware.com |
-| info.accutrain.com | ci34.actonsoftware.com |
-| mktg.latourhotelsandresorts.com | ci34.actonsoftware.com |
-| system.nefiber.com | ci34.actonsoftware.com |
-| marketing2.globalpointofcare.abbott | ci35.actonsoftware.com |
+| marketing.visitsaltlake.com | ci29.actonsoftware.com |
+| cl.promo.skf.com | ci300.actonsoftware.com |
+| in.promo.skf.com | ci300.actonsoftware.com |
+| promo.skf.com | ci300.actonsoftware.com |
+| lubricationde.promo.skf.com | ci301.actonsoftware.com |
+| lubricationus.promo.skf.com | ci301.actonsoftware.com |
 | marketing.experiencecolumbus.com | ci38.actonsoftware.com |
 | marketing.latourism.org | ci38.actonsoftware.com |
+| marketing.visithamiltoncounty.com | ci38.actonsoftware.com |
 | promos.sanmarcanada.com | ci41.actonsoftware.com |
-| a.highroadsolution.com | ci46.actonsoftware.com |
 | news.djcoregon.com | ci50.actonsoftware.com |
 | news.finance-commerce.com | ci50.actonsoftware.com |
-| know.gimmal.com | ci52.actonsoftware.com |
-| seniorliving.morningsideoffullerton.com | ci53.actonsoftware.com |
-| support.flex.com | ci54.actonsoftware.com |
-| marketing.astm.org | ci56.actonsoftware.com |
-| www2.simplilearn.com | ci57.actonsoftware.com |
+| news.neworleanscitybusiness.com | ci50.actonsoftware.com |
+| act.online.engineering.nyu.edu | ci57.actonsoftware.com |
 | marketing.gotobermuda.com | ci58.actonsoftware.com |
-| marketing.visitspc.com | ci58.actonsoftware.com |
-| news.scbiznews.com | ci58.actonsoftware.com |
-| membership.mortonarb.org | ci59.actonsoftware.com |
-| marketing.gulfshores.com | ci61.actonsoftware.com |
-| marketing.iloveny.com | ci61.actonsoftware.com |
+| connect.thinkinterval.com | ci60.actonsoftware.com |
+| marketing.anchorage.net | ci61.actonsoftware.com |
+| marketing.discoverlehighvalley.com | ci61.actonsoftware.com |
+| marketing.visitvancouverusa.com | ci61.actonsoftware.com |
 | svmarketing.destinationtoronto.com | ci61.actonsoftware.com |
-| marketing.nthdegree.com | ci62.actonsoftware.com |
 | marketing.centra.org | ci63.actonsoftware.com |
 | seahorseinfo.agilent.com | ci66.actonsoftware.com |
+| a11058.actonservice.com | ci67.actonsoftware.com |
+| a11537.actonservice.com | ci70.actonsoftware.com |
+| marketing.omnifymarketing.com | ci73.actonsoftware.com |
 | halo.actonservice.com | ci75.actonsoftware.com |
 | info.halo.com | ci75.actonsoftware.com |
-| info.goagilix.com | ci76.actonsoftware.com |
-| eagle.actonservice.com | ci90.actonsoftware.com |
+| vip.gophersport.com | ci80.actonsoftware.com |
+| info.briefing.com | ci87.actonsoftware.com |
+| sitel.actonservice.com | ci92.actonsoftware.com |
 | marketing.thisiscleveland.com | ci93.actonsoftware.com |
-| a17128.actonservice.com | ci94.actonsoftware.com |
-| info.itwcce.com | ci97.actonsoftware.com |
-| go.phhlending.com | cid11.actonsoftware.com |
-| info.ccbjournal.com | cid11.actonsoftware.com |
 | marketing.choosechicago.com | cid11.actonsoftware.com |
-| marketing.destinationcanada.com | cid11.actonsoftware.com |
-| marketing.visitchattanooga.com | cid11.actonsoftware.com |
-| marketing.visitgreenvillesc.com | cid11.actonsoftware.com |
-| marketing.visitwilliamsburg.com | cid11.actonsoftware.com |
+| marketing.exploreasheville.com | cid11.actonsoftware.com |
+| marketing.visitchesapeake.com | cid11.actonsoftware.com |
 | marketing.washington.org | cid11.actonsoftware.com |
-| travelmarketreport.actonservice.com | cid11.actonsoftware.com |
+| msufcu.actonservice.com | cid11.actonsoftware.com |
 | a19384.actonservice.com | cid2.actonsoftware.com |
 | a19684.actonservice.com | cid2.actonsoftware.com |
 | a19690.actonservice.com | cid2.actonsoftware.com |
@@ -5499,81 +5472,77 @@
 | a25949.actonservice.com | cid2.actonsoftware.com |
 | a26232.actonservice.com | cid2.actonsoftware.com |
 | a27183.actonservice.com | cid2.actonsoftware.com |
-| nm.hrm.healthgrades.com | cid3.actonsoftware.com |
+| message.alldata.com | cid6.actonsoftware.com |
 | 23andme.actonservice.com | cid7.actonsoftware.com |
 | a16611001.actonservice.com | cilab3.actonsoftware.com |
 | a16629001.actonservice.com | cilab3.actonsoftware.com |
 | a16656001.actonservice.com | cilab3.actonsoftware.com |
 | marketing.construsoft.com | construsoft.actonservice.com |
-| click.quickenloansnow.com | evergreenmedia.actonservice.com |
-| support.flex.com | flex.actonsoftware.com |
+| marketing.omnifymarketing.com | floorforce.actonservice.com |
 | a44370.actonservice.com | forpci11.actonsoftware.com |
 | content.wacom.com | forpci11.actonsoftware.com |
-| go.phhlending.com | forpci11.actonsoftware.com |
 | info.amgwealthadvisors.com | forpci11.actonsoftware.com |
 | info.ccbjournal.com | forpci11.actonsoftware.com |
 | marketing.choosechicago.com | forpci11.actonsoftware.com |
-| marketing.destinationcanada.com | forpci11.actonsoftware.com |
-| marketing.thimble.com | forpci11.actonsoftware.com |
-| marketing.visitchattanooga.com | forpci11.actonsoftware.com |
+| marketing.exploreasheville.com | forpci11.actonsoftware.com |
+| marketing.visitchesapeake.com | forpci11.actonsoftware.com |
 | marketing.visitgreenvillesc.com | forpci11.actonsoftware.com |
-| marketing.visitwilliamsburg.com | forpci11.actonsoftware.com |
+| marketing.washington.org | forpci11.actonsoftware.com |
 | marketing.washington.org | forpci11.actonsoftware.com |
 | msufcu.actonservice.com | forpci11.actonsoftware.com |
 | page.ephesus.cooperlighting.com | forpci11.actonsoftware.com |
 | shop.iwantclips.com | forpci12.actonsoftware.com |
 | my.bruker.com | forpci22.actonsoftware.com |
 | logistics.osmworldwide.com | forpci23.actonsoftware.com |
-| info.duprelogistics.com | forpci29.actonsoftware.com |
-| value.kfcu.org | forpci29.actonsoftware.com |
+| news.brokersalliance.com | forpci25.actonsoftware.com |
+| marketing.visitsaltlake.com | forpci29.actonsoftware.com |
 | fiber.zayo.com | forpci3.actonsoftware.com |
-| marketing.acromag.com | forpci31.actonsoftware.com |
-| resources.linengineering.com | forpci31.actonsoftware.com |
-| seniorliving.cypressplaceseniorliving.com | forpci33.actonsoftware.com |
-| info.accutrain.com | forpci34.actonsoftware.com |
-| mktg.latourhotelsandresorts.com | forpci34.actonsoftware.com |
-| marketing2.globalpointofcare.abbott | forpci35.actonsoftware.com |
 | info.epworthvilla.org | forpci38.actonsoftware.com |
 | marketing.experiencecolumbus.com | forpci38.actonsoftware.com |
 | marketing.latourism.org | forpci38.actonsoftware.com |
+| marketing.visithamiltoncounty.com | forpci38.actonsoftware.com |
 | info.battelle.org | forpci39.actonsoftware.com |
+| info.mesquitegaming.com | forpci4.actonsoftware.com |
 | promos.sanmarcanada.com | forpci41.actonsoftware.com |
 | a44371.actonservice.com | forpci43.actonsoftware.com |
-| devotionalclicks.amazingfacts.org | forpci43.actonsoftware.com |
-| a.highroadsolution.com | forpci46.actonsoftware.com |
-| marketing.cogentco.com | forpci47.actonsoftware.com |
-| edcmktg.ashevillechamber.org | forpci49.actonsoftware.com |
+| info.themyersbriggs.com | forpci48.actonsoftware.com |
 | news.djcoregon.com | forpci50.actonsoftware.com |
 | news.finance-commerce.com | forpci50.actonsoftware.com |
-| know.gimmal.com | forpci52.actonsoftware.com |
-| seniorliving.morningsideoffullerton.com | forpci53.actonsoftware.com |
-| support.flex.com | forpci54.actonsoftware.com |
+| news.neworleanscitybusiness.com | forpci50.actonsoftware.com |
+| solutions.oshaeducationcenter.com | forpci52.actonsoftware.com |
 | a45230.actonservice.com | forpci56.actonsoftware.com |
-| marketing.astm.org | forpci56.actonsoftware.com |
+| a45230.actonservice.com | forpci56.actonsoftware.com |
+| marketing.visitmusiccity.com | forpci56.actonsoftware.com |
+| page.downloads.cooperlighting.com | forpci56.actonsoftware.com |
 | stcharleshealthcare.hrm.healthgrades.com | forpci56.actonsoftware.com |
-| www2.simplilearn.com | forpci57.actonsoftware.com |
+| act.online.engineering.nyu.edu | forpci57.actonsoftware.com |
 | marketing.gotobermuda.com | forpci58.actonsoftware.com |
-| marketing.visitspc.com | forpci58.actonsoftware.com |
-| news.scbiznews.com | forpci58.actonsoftware.com |
-| membership.mortonarb.org | forpci59.actonsoftware.com |
+| connect.thinkinterval.com | forpci60.actonsoftware.com |
+| marketing.anchorage.net | forpci61.actonsoftware.com |
 | marketing.discoverlehighvalley.com | forpci61.actonsoftware.com |
-| marketing.gulfshores.com | forpci61.actonsoftware.com |
-| marketing.iloveny.com | forpci61.actonsoftware.com |
+| marketing.visitvancouverusa.com | forpci61.actonsoftware.com |
 | svmarketing.destinationtoronto.com | forpci61.actonsoftware.com |
-| marketing.nthdegree.com | forpci62.actonsoftware.com |
 | marketing.centra.org | forpci63.actonsoftware.com |
 | seahorseinfo.agilent.com | forpci66.actonsoftware.com |
+| franchising.mcdonalds.ca | forpci68.actonsoftware.com |
+| marketing.omnifymarketing.com | forpci73.actonsoftware.com |
+| halo.actonservice.com | forpci75.actonsoftware.com |
 | halo.actonservice.com | forpci75.actonsoftware.com |
 | info.halo.com | forpci75.actonsoftware.com |
-| info.goagilix.com | forpci76.actonsoftware.com |
-| a45823.actonservice.com | forpci85.actonsoftware.com |
+| vip.gophersport.com | forpci80.actonsoftware.com |
+| a45759.actonservice.com | forpci85.actonsoftware.com |
+| a45964.actonservice.com | forpci85.actonsoftware.com |
+| aginginplace.vyta.ca | forpci85.actonsoftware.com |
 | info.etap.com | forpci85.actonsoftware.com |
-| marketing.meetboston.com | forpci85.actonsoftware.com |
-| marketing.visitfortwayne.com | forpci85.actonsoftware.com |
+| marketing.5lovelanguages.com | forpci85.actonsoftware.com |
+| marketing.discovernewport.org | forpci85.actonsoftware.com |
+| marketing.scenicsedona.com | forpci85.actonsoftware.com |
+| marketing.visitestespark.com | forpci85.actonsoftware.com |
+| marketing.visitguam.org | forpci85.actonsoftware.com |
+| marketing.wmta.org | forpci85.actonsoftware.com |
 | info.briefing.com | forpci87.actonsoftware.com |
-| eagle.actonservice.com | forpci90.actonsoftware.com |
+| info.briefing.com | forpci87.actonsoftware.com |
 | marketing.thisiscleveland.com | forpci93.actonsoftware.com |
-| a17128.actonservice.com | forpci94.actonsoftware.com |
 | info.itwcce.com | forpci97.actonsoftware.com |
 | success.act-on.com | forpcid1.actonsoftware.com |
 | a42917.actonservice.com | forpcid12.actonsoftware.com |
@@ -5618,7 +5587,6 @@
 | marketing.professionalplanningservices.com | forpcid12.actonsoftware.com |
 | marketing.safetreeretirement.com | forpcid12.actonsoftware.com |
 | marketing.shpfinancial.com | forpcid12.actonsoftware.com |
-| marketing.solutionsfirstgroup.com | forpcid12.actonsoftware.com |
 | marketing.southparkcapital.com | forpcid12.actonsoftware.com |
 | marketing.suncrestadvisors.com | forpcid12.actonsoftware.com |
 | marketing.thequincygroupinc.com | forpcid12.actonsoftware.com |
@@ -5626,9 +5594,8 @@
 | marketing.vantagepoint-financial.com | forpcid12.actonsoftware.com |
 | marketing.yournewmillenniumgroup.com | forpcid12.actonsoftware.com |
 | marketing.zinniawealth.com | forpcid12.actonsoftware.com |
-| nm.hrm.healthgrades.com | forpcid13.actonsoftware.com |
 | a23402.actonservice.com | forpcid15.actonsoftware.com |
-| click.quickenloansnow.com | forpcid18.actonsoftware.com |
+| message.alldata.com | forpcid16.actonsoftware.com |
 | info.consumerfinanceteam.com | forpcid18.actonsoftware.com |
 | tourism.visitorlando.com | forpcid2.actonsoftware.com |
 | links.asbury.org | forpcid21.actonsoftware.com |
@@ -5646,16 +5613,15 @@
 | marketing.beneplace.com | forpcid26.actonsoftware.com |
 | marketing.satuit.com | forpcid7.actonsoftware.com |
 | marketing.on1.com | forpcid8.actonsoftware.com |
-| info.goagilix.com | frenchgerleman.actonservice.com |
 | mailer.gameloft.com | gameloft86076.activehosted.com |
+| vip.gophersport.com | gophersport.actonservice.com |
 | info.halo.com | halo.actonservice.com |
-| a.highroadsolution.com | highroadsolution.actonsoftware.com |
-| campaigns.hygiena.com | hygiena.actonservice.com |
 | shop.iwantclips.com | iwantglobal.actonservice.com |
-| value.kfcu.org | kfcu.actonservice.com |
-| go.phhlending.com | mortgagefamily.actonservice.com |
-| marketing.napatech.com | napatech.actonsoftware.com |
+| travel.onlinevacationcenter.com | onlinevacationcenter.actonservice.com |
+| act.online.engineering.nyu.edu | poly.actonsoftware.com |
+| campaigns.ila.cegid.com | primavera.actonservice.com |
 | campaigns.ila.cegid.com | primavera.actonservice.com |
 | seahorseinfo.agilent.com | seahorsebio.actonsoftware.com |
 | ugmarketing.smu.edu.sg | smu.actonservice.com |
 | test.actonservice.com | test.actonsoftware.com |
+| marketing.triconresidential.com | triconah.actonservice.com |

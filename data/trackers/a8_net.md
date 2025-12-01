@@ -1018,7 +1018,6 @@
 | a8cv.itscoco.shop | trck.a8.net |
 | a8cv.iwamizu.com | trck.a8.net |
 | a8cv.japaden.jp | trck.a8.net |
-| a8cv.jbl-link.com | trck.a8.net |
 | a8cv.jcom.co.jp | trck.a8.net |
 | a8cv.jeansmate.co.jp | trck.a8.net |
 | a8cv.jemmy.co.jp | trck.a8.net |
@@ -1154,7 +1153,6 @@
 | a8cv.otoriyose.site | trck.a8.net |
 | a8cv.paidy.com | trck.a8.net |
 | a8cv.paintory.com | trck.a8.net |
-| a8cv.palms-gym.com | trck.a8.net |
 | a8cv.peraichiapp.com | trck.a8.net |
 | a8cv.pf.classicmusic.tokyo | trck.a8.net |
 | a8cv.photo.concorde-corp.jp | trck.a8.net |

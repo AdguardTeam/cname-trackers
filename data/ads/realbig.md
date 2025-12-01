@@ -30,12 +30,10 @@
 | m3.repka.online | park.realbig.online |
 | media.olmiweb.com | park.realbig.online |
 | media.rabbit.click | park.realbig.online |
-| mondaysale.bid | park.realbig.online |
 | mu.zilovaro.store | park.realbig.online |
 | my.rb2psh.ru | park.realbig.online |
 | newrotatormarch23.bid | park.realbig.online |
 | news.unsere-news.ru | park.realbig.online |
-| noradown.bid | park.realbig.online |
 | nservw.net | park.realbig.online |
 | owmedia.rabbit.click | park.realbig.online |
 | owpush.rabbit.click | park.realbig.online |
@@ -69,7 +67,6 @@
 | www.androidstores.ru | park.realbig.online |
 | www.fasder12.ru | park.realbig.online |
 | www.fasder12.store | park.realbig.online |
-| www.horpush.ru | park.realbig.online |
 | www.mojwprb.ru | park.realbig.online |
 | www.orbitnotify.com | park.realbig.online |
 | www.pc-download.ru | park.realbig.online |

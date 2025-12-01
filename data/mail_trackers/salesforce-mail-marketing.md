@@ -23,7 +23,6 @@
     * click.virt.s12.exacttarget.com
     * click.virt.s13.exacttarget.com
     * click.virt.s4.exacttarget.com
-    * click.virt.s5.exacttarget.com
     * click.virt.s50.exacttarget.com
     * click.virt.s51.exacttarget.com
     * click.virt.s6.exacttarget.com
@@ -37,7 +36,6 @@
     * icemiller.virt.exacttarget.com
     * mta.ellucian.exacttarget.com
     * ns1.exacttarget.com
-    * opencourse.virt.exacttarget.com
     * origin-click.virt.s7.exacttarget.com
     * pages.boa.exacttarget.com
     * pages.exacttarget.com
@@ -49,8 +47,6 @@
     * pages.virt.exacttarget.com
     * pages.virt.s10.exacttarget.com
     * pages.virt.s11.exacttarget.com
-    * pages.virt.s12.exacttarget.com
-    * pages.virt.s13.exacttarget.com
     * pages.virt.s4.exacttarget.com
     * pages.virt.s5.exacttarget.com
     * pages.virt.s50.exacttarget.com
@@ -84,7 +80,7 @@
     * view.virt.exacttarget.com
     * view.virt.s10.exacttarget.com
     * view.virt.s11.exacttarget.com
-    * view.virt.s13.exacttarget.com
+    * view.virt.s12.exacttarget.com
     * view.virt.s4.exacttarget.com
     * view.virt.s5.exacttarget.com
     * view.virt.s50.exacttarget.com
@@ -119,7 +115,6 @@
 | 10dkim1._domainkey.alerts.cvs.com | 10dkim1._domainkey.s10.exacttarget.com |
 | 10dkim1._domainkey.em.virtualcare.cvs.com | 10dkim1._domainkey.s10.exacttarget.com |
 | 10dkim1._domainkey.mypharmacy.cvs.com | 10dkim1._domainkey.s10.exacttarget.com |
-| 10dkim1._domainkey.shopeepay.co.id | 10dkim1._domainkey.s10.exacttarget.com |
 | 11dkim1._domainkey.biz.maxis.com.my | 11dkim1._domainkey.s11.exacttarget.com |
 | 12dkim1._domainkey.alerts.cvs.com | 12dkim1._domainkey.s12.exacttarget.com |
 | 12dkim1._domainkey.mc.hyundaiusa.com | 12dkim1._domainkey.s12.exacttarget.com |
@@ -130,7 +125,6 @@
 | 200608._domainkey.news.kiehls.com.my | 200608._domainkey.exacttarget.com |
 | 50dkim1._domainkey.communication.telia.ee | 50dkim1._domainkey.s50.exacttarget.com |
 | 51dkim1._domainkey.communication.talabat.com | 51dkim1._domainkey.s51.exacttarget.com |
-| 51dkim1._domainkey.email.connectivity.booking.com | 51dkim1._domainkey.s51.exacttarget.com |
 | 51dkim1._domainkey.info-ch.genesis.com | 51dkim1._domainkey.s51.exacttarget.com |
 | 51dkim1._domainkey.info-de.genesis.com | 51dkim1._domainkey.s51.exacttarget.com |
 | click.a32.amsidlr.com | a1467.b.akamai.net |
@@ -140,7 +134,6 @@
 | click.addisonleeservices.com | a1467.b.akamai.net |
 | click.airasthelpdesk.org | a1467.b.akamai.net |
 | click.airfrance.klm-corporatetravel-email.com | a1467.b.akamai.net |
-| click.apac.foodpanda.com | a1467.b.akamai.net |
 | click.autobus.motordlr.com | a1467.b.akamai.net |
 | click.automobility.motordlr.com | a1467.b.akamai.net |
 | click.autos.myhonda.com.br | a1467.b.akamai.net |
@@ -151,10 +144,10 @@
 | click.campanhas.kinoplex.com.br | a1467.b.akamai.net |
 | click.camshaft.motordlr.com | a1467.b.akamai.net |
 | click.carriage.motordlr.com | a1467.b.akamai.net |
+| click.cbfddlr.com | a1467.b.akamai.net |
 | click.cbhscorporatehealthfund.com.au | a1467.b.akamai.net |
 | click.ccg.nintendo.net | a1467.b.akamai.net |
 | click.cciio-spidr.cms.gov | a1467.b.akamai.net |
-| click.cee.foodpanda.com | a1467.b.akamai.net |
 | click.chainpump.motordlr.com | a1467.b.akamai.net |
 | click.chemicalguys-email.com | a1467.b.akamai.net |
 | click.client-airfrance.com | a1467.b.akamai.net |
@@ -172,20 +165,19 @@
 | click.crankshaft.motordlr.com | a1467.b.akamai.net |
 | click.credithuman-email.com | a1467.b.akamai.net |
 | click.customer.cp-daihatsu.jp | a1467.b.akamai.net |
+| click.deutscheam.db.com | a1467.b.akamai.net |
 | click.deutscheawm.db.com | a1467.b.akamai.net |
 | click.deutschebankwm.db.com | a1467.b.akamai.net |
 | click.diesel.motordlr.com | a1467.b.akamai.net |
 | click.digital.bankleumi.co.il | a1467.b.akamai.net |
-| click.discover.availity.com | a1467.b.akamai.net |
 | click.e.aldoshoes.com | a1467.b.akamai.net |
 | click.e.asu.edu | a1467.b.akamai.net |
 | click.e.avg.com | a1467.b.akamai.net |
-| click.e.brighton.com | a1467.b.akamai.net |
 | click.e.carnet.vw.com | a1467.b.akamai.net |
 | click.e.cda.nl | a1467.b.akamai.net |
+| click.e.clifbar.com | a1467.b.akamai.net |
 | click.e.f-secure.com | a1467.b.akamai.net |
 | click.e.foxtel.com.au | a1467.b.akamai.net |
-| click.e.larocheposay.com.au | a1467.b.akamai.net |
 | click.e.libertytravel.com | a1467.b.akamai.net |
 | click.e.lorealprofessionnel.com.au | a1467.b.akamai.net |
 | click.e.msmode.com | a1467.b.akamai.net |
@@ -194,7 +186,6 @@
 | click.e.tntsupermarket.com | a1467.b.akamai.net |
 | click.e.zurich.co.uk | a1467.b.akamai.net |
 | click.e2.cimaglobal.com | a1467.b.akamai.net |
-| click.edu.cpaacademy.org | a1467.b.akamai.net |
 | click.elektrowagen.motordlr.com | a1467.b.akamai.net |
 | click.em-commercial.keurig.com | a1467.b.akamai.net |
 | click.em-hmrboston.com | a1467.b.akamai.net |
@@ -203,22 +194,18 @@
 | click.em.oshkosh.com | a1467.b.akamai.net |
 | click.em.sassoon-education.com | a1467.b.akamai.net |
 | click.em.sassoon-salon.com | a1467.b.akamai.net |
-| click.em.tespa.org | a1467.b.akamai.net |
 | click.email-currencyfair.com | a1467.b.akamai.net |
 | click.email-nrinstitute.org | a1467.b.akamai.net |
 | click.email-outletcalzedoniagroup.com | a1467.b.akamai.net |
 | click.email-uwcentralcarolinas.org | a1467.b.akamai.net |
-| click.email.allenedmonds.com | a1467.b.akamai.net |
 | click.email.atlantisevents.com | a1467.b.akamai.net |
 | click.email.bcidaho.com | a1467.b.akamai.net |
 | click.email.byui.edu | a1467.b.akamai.net |
 | click.email.canadadrives.ca | a1467.b.akamai.net |
-| click.email.chickentreat.com.au | a1467.b.akamai.net |
 | click.email.churchofjesuschrist.org | a1467.b.akamai.net |
 | click.email.collaw.com | a1467.b.akamai.net |
 | click.email.comeuntochrist.org | a1467.b.akamai.net |
 | click.email.compassdigital.io | a1467.b.akamai.net |
-| click.email.coupons.com | a1467.b.akamai.net |
 | click.email.coupons.nine.com.au | a1467.b.akamai.net |
 | click.email.discountcode.dailymail.co.uk | a1467.b.akamai.net |
 | click.email.elephant.com | a1467.b.akamai.net |
@@ -233,7 +220,6 @@
 | click.email.kfc.fr | a1467.b.akamai.net |
 | click.email.kortingscode.nl | a1467.b.akamai.net |
 | click.email.ldschurch.org | a1467.b.akamai.net |
-| click.email.leetchi.com | a1467.b.akamai.net |
 | click.email.lomadee.com | a1467.b.akamai.net |
 | click.email.lrp.com.tw | a1467.b.akamai.net |
 | click.email.maxi-cosi.com | a1467.b.akamai.net |
@@ -248,6 +234,7 @@
 | click.email.reserve1870.com | a1467.b.akamai.net |
 | click.email.rockets.com | a1467.b.akamai.net |
 | click.email.shopwithgolf.com | a1467.b.akamai.net |
+| click.email.tego.fr | a1467.b.akamai.net |
 | click.email.travelhq.com | a1467.b.akamai.net |
 | click.email.warface.com | a1467.b.akamai.net |
 | click.email.xilinx.com | a1467.b.akamai.net |
@@ -259,7 +246,6 @@
 | click.engage.microfocus.com | a1467.b.akamai.net |
 | click.engage.windows.com | a1467.b.akamai.net |
 | click.envios.cityexpress.com | a1467.b.akamai.net |
-| click.et.orbitz.com | a1467.b.akamai.net |
 | click.et.usaa.com | a1467.b.akamai.net |
 | click.et.vw.com | a1467.b.akamai.net |
 | click.ex.doctorondemand.com | a1467.b.akamai.net |
@@ -271,12 +257,10 @@
 | click.f39.fdautodealer.com | a1467.b.akamai.net |
 | click.f40.fdautodealer.com | a1467.b.akamai.net |
 | click.fairmail.fairus.org | a1467.b.akamai.net |
-| click.financeiro.zapimoveis.com.br | a1467.b.akamai.net |
 | click.flywheel.motordlr.com | a1467.b.akamai.net |
 | click.fourcycle.motordlr.com | a1467.b.akamai.net |
 | click.fragrance.communication-bulgari.com | a1467.b.akamai.net |
 | click.freestyleprovider.abbott.us | a1467.b.akamai.net |
-| click.gecu.com | a1467.b.akamai.net |
 | click.go.inogen.com | a1467.b.akamai.net |
 | click.grocery.winsightmedia.com | a1467.b.akamai.net |
 | click.grupoliberty.libertyseguros.es | a1467.b.akamai.net |
@@ -284,7 +268,6 @@
 | click.hbhospitality-email.com | a1467.b.akamai.net |
 | click.hg-email.com | a1467.b.akamai.net |
 | click.homestarfc-connect.com | a1467.b.akamai.net |
-| click.hotel.orbitz.com | a1467.b.akamai.net |
 | click.i.hepsiburada.com | a1467.b.akamai.net |
 | click.imoveis.zapimoveis.com.br | a1467.b.akamai.net |
 | click.induction.motordlr.com | a1467.b.akamai.net |
@@ -309,7 +292,6 @@
 | click.mag.bluenote.co.jp | a1467.b.akamai.net |
 | click.magneto.motordlr.com | a1467.b.akamai.net |
 | click.mail-us.pradabeauty.com | a1467.b.akamai.net |
-| click.mail-wildlands.nl | a1467.b.akamai.net |
 | click.mail.asseditoraglobo.com.br | a1467.b.akamai.net |
 | click.mail.beautyforall.uy | a1467.b.akamai.net |
 | click.mail.brands4friends.de | a1467.b.akamai.net |
@@ -344,15 +326,12 @@
 | click.marketplace.gm.com | a1467.b.akamai.net |
 | click.mba.grupo-primo.com | a1467.b.akamai.net |
 | click.mc.kellogg.northwestern.edu | a1467.b.akamai.net |
-| click.meaaction.org | a1467.b.akamai.net |
 | click.medicalupdate.novartis.at | a1467.b.akamai.net |
 | click.member.kylottery.com | a1467.b.akamai.net |
 | click.messages.plymouth.edu | a1467.b.akamai.net |
 | click.messages.postmates.com | a1467.b.akamai.net |
 | click.miniclipmail.com | a1467.b.akamai.net |
 | click.mktmail.totvs.com.br | a1467.b.akamai.net |
-| click.mm.cledepeau-beaute.com | a1467.b.akamai.net |
-| click.mm.narscosmetics.jp | a1467.b.akamai.net |
 | click.morning7.theskimm.com | a1467.b.akamai.net |
 | click.motivafuels.com | a1467.b.akamai.net |
 | click.motorcab.motordlr.com | a1467.b.akamai.net |
@@ -375,6 +354,7 @@
 | click.news.netpincer.hu | a1467.b.akamai.net |
 | click.newsfromted.com | a1467.b.akamai.net |
 | click.newsletter.adidas.co.za | a1467.b.akamai.net |
+| click.newsletter.icesports.com | a1467.b.akamai.net |
 | click.newsletter.kanui.com.br | a1467.b.akamai.net |
 | click.newsletter.meadjohnson.asia | a1467.b.akamai.net |
 | click.newsletter.on-running.com | a1467.b.akamai.net |
@@ -391,11 +371,10 @@
 | click.r.onstar.com | a1467.b.akamai.net |
 | click.renoaces-mail.com | a1467.b.akamai.net |
 | click.reply.ien.com | a1467.b.akamai.net |
-| click.reply.kaplan.com.sg | a1467.b.akamai.net |
 | click.reply.lexisnexis.com | a1467.b.akamai.net |
+| click.rimsmail.tr.mufg.jp | a1467.b.akamai.net |
 | click.rotary.motordlr.com | a1467.b.akamai.net |
 | click.salesforce.thaiunion.com | a1467.b.akamai.net |
-| click.sanantonioshoemakers.com | a1467.b.akamai.net |
 | click.savoymiami-email.com | a1467.b.akamai.net |
 | click.sea.foodpanda.com | a1467.b.akamai.net |
 | click.search.realtystore.com | a1467.b.akamai.net |
@@ -415,7 +394,6 @@
 | click.sfmcmail.indochino.com | a1467.b.akamai.net |
 | click.sfwateroutreach.org | a1467.b.akamai.net |
 | click.sls.orealvalor.com.br | a1467.b.akamai.net |
-| click.sm.oreilly.com | a1467.b.akamai.net |
 | click.smcemail.zynga.com | a1467.b.akamai.net |
 | click.sp.mdj.jp | a1467.b.akamai.net |
 | click.steambus.motordlr.com | a1467.b.akamai.net |
@@ -439,7 +417,6 @@
 | click.wm.chmedia.ch | a1467.b.akamai.net |
 | click.xcaret.vacations | a1467.b.akamai.net |
 | click2525.etaktest.com | a1467.b.akamai.net |
-| tl-nk0gdjz15gxf999lf2j7sk8vq.click-sap.sfmc-marketing.com | a1467.b.akamai.net |
 | tlbkfpsz2nxvhhvq9bk230fhcgbq.click-sap.sfmc-marketing.com | a1467.b.akamai.net |
 | tldtt8kj41klrk430x3r0s8mvpjq.click-sap.sfmc-marketing.com | a1467.b.akamai.net |
 | tlkd3q3r7kxsdtfbrlt96lsp5n44.click-sap.sfmc-marketing.com | a1467.b.akamai.net |
@@ -453,7 +430,6 @@
 | click.leasing.bankofamerica.com | click.boa.exacttarget.com |
 | click.message.ustrust.com | click.boa.exacttarget.com |
 | click.mlwm.ml.com | click.boa.exacttarget.com |
-| click-clic.stg-transactions.canadapost-postescanada.ca | click.s12.exacttarget.com |
 | click.apply.gocoastguard.com | click.s12.exacttarget.com |
 | click.campaign.hrtraininngs.com | click.s12.exacttarget.com |
 | click.campaign.simplivlearning.co | click.s12.exacttarget.com |
@@ -461,12 +437,13 @@
 | click.campaigns.wltic.com | click.s12.exacttarget.com |
 | click.comm.metropolisindia.net | click.s12.exacttarget.com |
 | click.comms.vodafone.co.nz | click.s12.exacttarget.com |
-| click.communications.brightspeed.com | click.s12.exacttarget.com |
 | click.communications.colostate.edu | click.s12.exacttarget.com |
+| click.comunicacao.suhaiseguradora.com | click.s12.exacttarget.com |
 | click.contact.disneystore.com | click.s12.exacttarget.com |
 | click.courses.traincel.com | click.s12.exacttarget.com |
 | click.crm.emilioribas.com.br | click.s12.exacttarget.com |
 | click.deliver.lasership.com | click.s12.exacttarget.com |
+| click.digest.marketdominancenews.com | click.s12.exacttarget.com |
 | click.digital.hairtalkusa.com | click.s12.exacttarget.com |
 | click.divulga.mktsebrae.com.br | click.s12.exacttarget.com |
 | click.e.appliedtherapeutics.com | click.s12.exacttarget.com |
@@ -475,8 +452,6 @@
 | click.e.mwave.com.au | click.s12.exacttarget.com |
 | click.e.pennstatehealth.psu.edu | click.s12.exacttarget.com |
 | click.edm.nothing.tech | click.s12.exacttarget.com |
-| click.eg.wotif.com | click.s12.exacttarget.com |
-| click.em-parallelwireless.com | click.s12.exacttarget.com |
 | click.email-capify.com | click.s12.exacttarget.com |
 | click.email-ezanchorpuller.com | click.s12.exacttarget.com |
 | click.email-optimadermatology.com | click.s12.exacttarget.com |
@@ -484,10 +459,12 @@
 | click.email.bountyhunterrarewine.com | click.s12.exacttarget.com |
 | click.email.bylinebank.com | click.s12.exacttarget.com |
 | click.email.cgccomics.com | click.s12.exacttarget.com |
+| click.email.cgccomics.com | click.s12.exacttarget.com |
 | click.email.charliehealth.com | click.s12.exacttarget.com |
 | click.email.christineforgov.com | click.s12.exacttarget.com |
 | click.email.clubchampiongolf.com | click.s12.exacttarget.com |
 | click.email.clubchampiongolf.com | click.s12.exacttarget.com |
+| click.email.creditfresh.com | click.s12.exacttarget.com |
 | click.email.creditfresh.com | click.s12.exacttarget.com |
 | click.email.duxiana.com | click.s12.exacttarget.com |
 | click.email.exoduscapitalcre.com | click.s12.exacttarget.com |
@@ -499,18 +476,15 @@
 | click.email.kasmo.co | click.s12.exacttarget.com |
 | click.email.lg-argentina.com | click.s12.exacttarget.com |
 | click.email.mauijim.com | click.s12.exacttarget.com |
-| click.email.mauijim.com | click.s12.exacttarget.com |
 | click.email.moldsoft.com.br | click.s12.exacttarget.com |
 | click.email.ngccoin.com | click.s12.exacttarget.com |
 | click.email.novaquest.com.br | click.s12.exacttarget.com |
 | click.email.pelicancu.com | click.s12.exacttarget.com |
 | click.email.plasticbank.com | click.s12.exacttarget.com |
 | click.email.pmgnotes.com | click.s12.exacttarget.com |
-| click.email.renfrobrands.com | click.s12.exacttarget.com |
 | click.email.soriana.com | click.s12.exacttarget.com |
 | click.email.sundae.com | click.s12.exacttarget.com |
 | click.email.theralogix.com | click.s12.exacttarget.com |
-| click.email.thunderfunding.com | click.s12.exacttarget.com |
 | click.email.ticketera.com | click.s12.exacttarget.com |
 | click.email.utthc.com | click.s12.exacttarget.com |
 | click.email.vivalon.org | click.s12.exacttarget.com |
@@ -520,13 +494,11 @@
 | click.emailplus.moneykey.com | click.s12.exacttarget.com |
 | click.emails.connect4learning.com | click.s12.exacttarget.com |
 | click.emkt.movidazerokm.com.br | click.s12.exacttarget.com |
-| click.expert.patriotinvestorsjournal.com | click.s12.exacttarget.com |
 | click.georgiaswarm.us | click.s12.exacttarget.com |
 | click.globalbuyer.alibaba.com | click.s12.exacttarget.com |
 | click.go.donaldjtrump.com | click.s12.exacttarget.com |
 | click.go.gpwa.com | click.s12.exacttarget.com |
 | click.gruposalus-info.com.br | click.s12.exacttarget.com |
-| click.healthhub-email.internationalsos.com | click.s12.exacttarget.com |
 | click.heart-p-ml.com | click.s12.exacttarget.com |
 | click.hello.brightspeed.com | click.s12.exacttarget.com |
 | click.hello.knotel.com | click.s12.exacttarget.com |
@@ -547,10 +519,12 @@
 | click.mag.osakagas.co.jp | click.s12.exacttarget.com |
 | click.mail-globalhq.com | click.s12.exacttarget.com |
 | click.mail.ajga.org | click.s12.exacttarget.com |
+| click.mail.avisos-lafise.com | click.s12.exacttarget.com |
 | click.mail.cfefund.org | click.s12.exacttarget.com |
 | click.mail.crikey.com.au | click.s12.exacttarget.com |
 | click.mail.disneystore.asia | click.s12.exacttarget.com |
 | click.mail.e.ceapay.com.br | click.s12.exacttarget.com |
+| click.mail.gobicashmere.com | click.s12.exacttarget.com |
 | click.mail.hrtraininngs.com | click.s12.exacttarget.com |
 | click.mail.jobomas.com | click.s12.exacttarget.com |
 | click.mail.mamanoko.jp | click.s12.exacttarget.com |
@@ -619,10 +593,8 @@
 | click.tumi.co.jp | click.s12.exacttarget.com |
 | click.unext-info.jp | click.s12.exacttarget.com |
 | click.unext-info.jp | click.s12.exacttarget.com |
-| click.updates.funko.com | click.s12.exacttarget.com |
 | click.updates.tea.texas.gov | click.s12.exacttarget.com |
 | click.viewstream-v.com | click.s12.exacttarget.com |
-| click.zurich.com | click.s12.exacttarget.com |
 | tl-2h6sp5fd1tb0tqwp9n3b62ljy.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tl1r0sk6s36-r043w2ngzld6jfvy.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tl3b50h7099rd16r05ldzytgtmt8.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
@@ -630,8 +602,6 @@
 | tl3rfjxnp2df7b4vj2mgss1c4t34.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tl3zgbzrcs7tgrbdhzwvwx51hw60.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tl5-f-j5k6r79nbdfl-1z659n171.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
-| tl5vs7qnkf68srq6dw694yv0dr40.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
-| tl666tz9zx2w7mb-9-b9fb44syf0.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tl6mzjyv83rzklkz7crs5jw1sqb0.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tl78y5t-j73s-qy1m02ymsjnh440.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tlcqfd5jwn67g8--b18msmfr9hp1.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
@@ -649,25 +619,21 @@
 | tlt4--3qh9m61pd59tp51vqp1wk8.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tltxj5qdx-8mppgj5qd78w0ypf44.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tlvrvz6kf10h9pw215dzch-9-9j0.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
-| tlvrvz6kf10h9pw215dzch-9-9j0.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tlw8x4mgkl4vc40qc-bc180q2zv1.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
-| tlx9dtg5gqsjdv182tmvhh2jqkv8.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
-| tlxcz49g6crm2j28j5l4pf59lkxm.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tlxgsmmjyhsq-x-flhcpqjh5h918.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | tlz4cpyy14jgm3bjcnfk7f4l9664.click-sap.sfmc-marketing.com | click.s12.exacttarget.com |
 | click.13.mail.salesforce.com | click.s13.exacttarget.com |
 | click.benzingaevents.com | click.s13.exacttarget.com |
 | click.campaign.compliance4alllearning.com | click.s13.exacttarget.com |
 | click.campaign.gcplearning.com | click.s13.exacttarget.com |
-| click.campaign.gcplearning.com | click.s13.exacttarget.com |
 | click.campaign.ittrainingsonline.com | click.s13.exacttarget.com |
 | click.campaign.trainhrlearning.com | click.s13.exacttarget.com |
+| click.campaign.webinarhealth.com | click.s13.exacttarget.com |
 | click.campaigner.eventiaco.com | click.s13.exacttarget.com |
 | click.campaigner.trainingss.com | click.s13.exacttarget.com |
 | click.cloudninehospitals.com | click.s13.exacttarget.com |
 | click.communications.upsstore.com | click.s13.exacttarget.com |
 | click.contacto.tumomento.com | click.s13.exacttarget.com |
-| click.e.lwcc.com | click.s13.exacttarget.com |
 | click.email.aitrainonline.com | click.s13.exacttarget.com |
 | click.email.chi.com | click.s13.exacttarget.com |
 | click.email.emanuelsf.org | click.s13.exacttarget.com |
@@ -678,10 +644,8 @@
 | click.email.tandon.nyu.edu | click.s13.exacttarget.com |
 | click.email.uwci.online | click.s13.exacttarget.com |
 | click.equipter.co | click.s13.exacttarget.com |
-| click.event.myestudy.com | click.s13.exacttarget.com |
 | click.event.teachmecompliance.com | click.s13.exacttarget.com |
 | click.franchisesales.upsstore.com | click.s13.exacttarget.com |
-| click.from.investinggovernance.com | click.s13.exacttarget.com |
 | click.genetrixtech.org | click.s13.exacttarget.com |
 | click.gestiondigital.gruposura.com | click.s13.exacttarget.com |
 | click.hob.net.br | click.s13.exacttarget.com |
@@ -708,7 +672,6 @@
 | click.skill.compliyer.com | click.s13.exacttarget.com |
 | click.skill.myknowledgespot.com | click.s13.exacttarget.com |
 | click.trustalerts.okta.com | click.s13.exacttarget.com |
-| click.vault.thesmartdividend.com | click.s13.exacttarget.com |
 | click.workshop.stateswebinars.com | click.s13.exacttarget.com |
 | click.workshop.virtualeducations.com | click.s13.exacttarget.com |
 | tl-l3mgy48qr785fkqyjngh464w1.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
@@ -724,12 +687,9 @@
 | tl57zy3wtjqlj3f9tn7gtxfv7y70.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
 | tl6ml9-7tm9yn330q7g0jgfmx2zy.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
 | tl76cvk9c0t778-3lt2kbzl13x4m.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
-| tl7ldlvyyp75bwl5dtz-ly68pzz1.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
-| tl98psjkp7s8chdsq786js6mj0-1.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
 | tl9pk8nht84ydnly7-xjh8lzwjv8.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
-| tlb682y3tmk4c0rtblj1g7bzd-z4.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
+| tld7nrz5lg6pdr8kbbk6ll0ygk4m.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
 | tlfdxn90kgw6n40z6df6n8s9mz-q.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
-| tlgjfv-q5srw32m8ll265h68hflm.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
 | tlhsbh94dz904-676-6vcd33q478.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
 | tlj90t2b29j0c9s5y34wlwf5jf24.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
 | tljskwr-8csm4r7hzx6fdjq3m974.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
@@ -756,20 +716,17 @@
 | tly5vq2qpwtpn3rv04d8q6tdbkbq.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
 | tlyk4zc4db53vwdx0dz2sxwz7br4.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
 | tlz53jd1dvrtx2r1g2r3k4c4tn94.click-sap.sfmc-marketing.com | click.s13.exacttarget.com |
-| click.almentor-projects.net | click.s51.exacttarget.com |
 | click.comunicazioni.autostrade.it | click.s51.exacttarget.com |
 | click.consult.clstjean.be | click.s51.exacttarget.com |
 | click.contact.ethnikiasfalistiki.gr | click.s51.exacttarget.com |
+| click.eiis-education.eu | click.s51.exacttarget.com |
 | click.email.cccarmila.com | click.s51.exacttarget.com |
-| click.email.equitydxb.com | click.s51.exacttarget.com |
 | click.email.propp.io | click.s51.exacttarget.com |
 | click.emails.twentyci.co.uk | click.s51.exacttarget.com |
 | click.epost.minstoradag.se | click.s51.exacttarget.com |
 | click.i.aramex.com | click.s51.exacttarget.com |
 | click.info.callmewine.com | click.s51.exacttarget.com |
 | click.info.formazionedigitalesanita.servizirl.it | click.s51.exacttarget.com |
-| click.info.imaginaenergia.com | click.s51.exacttarget.com |
-| click.infos.intermarche.com | click.s51.exacttarget.com |
 | click.infos.leaudiledefrance.fr | click.s51.exacttarget.com |
 | click.inside.subbyx.com | click.s51.exacttarget.com |
 | click.mail.almustafatrust.org | click.s51.exacttarget.com |
@@ -778,12 +735,12 @@
 | click.mail.gbc-education.org | click.s51.exacttarget.com |
 | click.mail.surebird.nl | click.s51.exacttarget.com |
 | click.mail.theirworld.org | click.s51.exacttarget.com |
+| click.mail.theirworld.org | click.s51.exacttarget.com |
 | click.mailing.rfea.es | click.s51.exacttarget.com |
 | click.market.chilli.se | click.s51.exacttarget.com |
 | click.marketing.hubpay.ae | click.s51.exacttarget.com |
 | click.marketingrock.vedif.net | click.s51.exacttarget.com |
 | click.markom.optimera.se | click.s51.exacttarget.com |
-| click.mkt.factorenergia.com | click.s51.exacttarget.com |
 | click.mkt.factorenergia.com | click.s51.exacttarget.com |
 | click.mkt.marcolino1926.net | click.s51.exacttarget.com |
 | click.mktg.correosexpress.com | click.s51.exacttarget.com |
@@ -798,7 +755,6 @@
 | click.sesamosupport.sanita.fvg.it | click.s51.exacttarget.com |
 | click.storesportivi.com | click.s51.exacttarget.com |
 | tl-l579mlsq35nn5vdd4wx3n-9q4.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
-| tl6bbz98s427bx01pw-8v1zlhptm.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
 | tl7dx2gn0wvqd7zsl78009-hj2lm.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
 | tl7tryzcgm1mp55q6y128b2bhynm.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
 | tl8vb2-pqtr-jp-hdby30skcg9q0.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
@@ -809,15 +765,11 @@
 | tlkmm-3xy0lzcj3nf035d9dl00r1.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
 | tlph6g44b9jk5cq4978l9svcjwdm.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
 | tlpn9q-zzx25r6lh9s67v1v57yry.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
-| tlqxtykwnvhznq2zr5ddh91fvw2y.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
 | tlvm-tnc7wr1fhj4m0nmsncz-c44.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
 | tlzmj0jplgp-jn87wd5n8hx5m84q.click-sap.sfmc-marketing.com | click.s51.exacttarget.com |
 | cl.bmo-email.com | click.virt.exacttarget.com |
 | cl.email.schwabpt.com | click.virt.exacttarget.com |
 | cl.hotels.exactt.net | click.virt.exacttarget.com |
-| cl.info.lululemon.com | click.virt.exacttarget.com |
-| cl.messages.hannaford.com | click.virt.exacttarget.com |
-| cl.response2.bestbuy.com | click.virt.exacttarget.com |
 | click.aaacpmail.com | click.virt.exacttarget.com |
 | click.admissions.hawkeyecollege.edu | click.virt.exacttarget.com |
 | click.admissions.pacificu.edu | click.virt.exacttarget.com |
@@ -839,12 +791,10 @@
 | click.communication.arbitron.com | click.virt.exacttarget.com |
 | click.communications.abs-cbn.com | click.virt.exacttarget.com |
 | click.company.angieslist.com | click.virt.exacttarget.com |
-| click.concordiacollege.org | click.virt.exacttarget.com |
 | click.conduentbenefits.com | click.virt.exacttarget.com |
 | click.contacto.tec.mx | click.virt.exacttarget.com |
 | click.crm-email.ocean.edu | click.virt.exacttarget.com |
 | click.crm.andrews.edu | click.virt.exacttarget.com |
-| click.cubcadet-email.com | click.virt.exacttarget.com |
 | click.customernotification.qualcomm.com | click.virt.exacttarget.com |
 | click.dev-uat-email.enterprise.com | click.virt.exacttarget.com |
 | click.directa.buenosaires.gob.ar | click.virt.exacttarget.com |
@@ -881,10 +831,10 @@
 | click.email-skccom.com | click.virt.exacttarget.com |
 | click.email-sparetimesportsclubs.com | click.virt.exacttarget.com |
 | click.email-tlclasik.ca | click.virt.exacttarget.com |
+| click.email-updates.history.com | click.virt.exacttarget.com |
 | click.email-visiongroupcanada.ca | click.virt.exacttarget.com |
 | click.email.aaabanking.mi.aaa.com | click.virt.exacttarget.com |
 | click.email.agbirthdaycalendar.com | click.virt.exacttarget.com |
-| click.email.americanconference.com | click.virt.exacttarget.com |
 | click.email.amfamconnect.com | click.virt.exacttarget.com |
 | click.email.anico.com | click.virt.exacttarget.com |
 | click.email.anthem.com | click.virt.exacttarget.com |
@@ -892,7 +842,6 @@
 | click.email.authorhouse.com | click.virt.exacttarget.com |
 | click.email.autoclub.aaa.com | click.virt.exacttarget.com |
 | click.email.autoclubsouth.aaa.com | click.virt.exacttarget.com |
-| click.email.avalonbay.com | click.virt.exacttarget.com |
 | click.email.balboapress.com | click.virt.exacttarget.com |
 | click.email.bankerslife.com | click.virt.exacttarget.com |
 | click.email.bonaire.es | click.virt.exacttarget.com |
@@ -903,18 +852,15 @@
 | click.email.centrecommercial-partdieu.com | click.virt.exacttarget.com |
 | click.email.charteremails.com | click.virt.exacttarget.com |
 | click.email.cignahk.com | click.virt.exacttarget.com |
-| click.email.deltadentalwa.com | click.virt.exacttarget.com |
 | click.email.dickies.com | click.virt.exacttarget.com |
 | click.email.directvla.com | click.virt.exacttarget.com |
 | click.email.discover.aaa.com | click.virt.exacttarget.com |
-| click.email.discoveryeducation.com | click.virt.exacttarget.com |
 | click.email.dunkindonuts.com | click.virt.exacttarget.com |
 | click.email.eastcentral.aaa.com | click.virt.exacttarget.com |
 | click.email.easttn.aaa.com | click.virt.exacttarget.com |
 | click.email.federalpremium.com | click.virt.exacttarget.com |
 | click.email.financeservicing.com | click.virt.exacttarget.com |
 | click.email.floridarealtors.org | click.virt.exacttarget.com |
-| click.email.globalcloud.net | click.virt.exacttarget.com |
 | click.email.hallmark.com | click.virt.exacttarget.com |
 | click.email.homeinsteadinc.com | click.virt.exacttarget.com |
 | click.email.homesite.com | click.virt.exacttarget.com |
@@ -927,7 +873,6 @@
 | click.email.mainconcept.com | click.virt.exacttarget.com |
 | click.email.manhunt.net | click.virt.exacttarget.com |
 | click.email.mesassurancesconnectees.com | click.virt.exacttarget.com |
-| click.email.midstates.aaa.com | click.virt.exacttarget.com |
 | click.email.msn.americangreetings.com | click.virt.exacttarget.com |
 | click.email.mtw.aaa.com | click.virt.exacttarget.com |
 | click.email.ncbc.com | click.virt.exacttarget.com |
@@ -983,7 +928,6 @@
 | click.hrsemail.services.conduent.com | click.virt.exacttarget.com |
 | click.htlmail.com | click.virt.exacttarget.com |
 | click.hubspotemail.com | click.virt.exacttarget.com |
-| click.huntington-email.com | click.virt.exacttarget.com |
 | click.iloqal.com | click.virt.exacttarget.com |
 | click.info.icex.es | click.virt.exacttarget.com |
 | click.info.kiausa.com | click.virt.exacttarget.com |
@@ -1002,7 +946,6 @@
 | click.mail-cybermonday.com | click.virt.exacttarget.com |
 | click.mail-gwynniebee.com | click.virt.exacttarget.com |
 | click.mail-jhdiscountshopping.com | click.virt.exacttarget.com |
-| click.mail-pennsquare.com | click.virt.exacttarget.com |
 | click.mail.coinc.es | click.virt.exacttarget.com |
 | click.mail.donorschoose.org | click.virt.exacttarget.com |
 | click.mail.health.harvard.edu | click.virt.exacttarget.com |
@@ -1020,7 +963,6 @@
 | click.mc.apartments.com | click.virt.exacttarget.com |
 | click.medicare.bcbsm.com | click.virt.exacttarget.com |
 | click.memberemail.com | click.virt.exacttarget.com |
-| click.members.angieslist.com | click.virt.exacttarget.com |
 | click.memberservices.cerner.com | click.virt.exacttarget.com |
 | click.messages.psncenergy.com | click.virt.exacttarget.com |
 | click.microsoftstoreemail.com | click.virt.exacttarget.com |
@@ -1030,7 +972,6 @@
 | click.new.joracredit.com | click.virt.exacttarget.com |
 | click.news.belkin.com | click.virt.exacttarget.com |
 | click.news.cinequest.org | click.virt.exacttarget.com |
-| click.news.gatorade.com | click.virt.exacttarget.com |
 | click.news.passeidireto.com | click.virt.exacttarget.com |
 | click.news.royalairmaroc.com | click.virt.exacttarget.com |
 | click.newsletter.columbia.com | click.virt.exacttarget.com |
@@ -1104,15 +1045,12 @@
 | clk.amplifyi.com | click.virt.exacttarget.com |
 | tl0s2xs581pwxp-zvxwld-khp2xm.click-sap.sfmc-marketing.com | click.virt.exacttarget.com |
 | tlczvsmqf9gx5v7w9n6xy44xs1p4.click-sap.sfmc-marketing.com | click.virt.exacttarget.com |
-| tld-7y025nv0l878fgb6sm24bp88.click-sap.sfmc-marketing.com | click.virt.exacttarget.com |
 | tln1-kyt88czbvwz7vct3v3s9-wm.click-sap.sfmc-marketing.com | click.virt.exacttarget.com |
 | tlnlvfl1ndgl2s9jpt9nwlbmkzy4.click-sap.sfmc-marketing.com | click.virt.exacttarget.com |
 | tlntwqrsrsc74v0b2ldg4yycy710.click-sap.sfmc-marketing.com | click.virt.exacttarget.com |
 | tlq1d3k4d1dp5q-2k0lh0z0ynb7y.click-sap.sfmc-marketing.com | click.virt.exacttarget.com |
 | tlx5xrx9ldjzqg6n3pyjkf5bkd10.click-sap.sfmc-marketing.com | click.virt.exacttarget.com |
-| click-old.email.realestate.com.au | click.virt.s10.exacttarget.com |
 | click.activate.urosario.edu.co | click.virt.s10.exacttarget.com |
-| click.agencycareersatallstate.com | click.virt.s10.exacttarget.com |
 | click.apacsfmc.roche.com | click.virt.s10.exacttarget.com |
 | click.atiptemails.com | click.virt.s10.exacttarget.com |
 | click.audidemexico.com | click.virt.s10.exacttarget.com |
@@ -1149,14 +1087,11 @@
 | click.e-take5oilchange.com | click.virt.s10.exacttarget.com |
 | click.e.centrosunico.com | click.virt.s10.exacttarget.com |
 | click.e.community.twitch.tv | click.virt.s10.exacttarget.com |
-| click.e.fox32chicago.com | click.virt.s10.exacttarget.com |
 | click.e.hkbnengagement.net | click.virt.s10.exacttarget.com |
 | click.e.marketplace.coned.com | click.virt.s10.exacttarget.com |
 | click.e.mediamatters.org | click.virt.s10.exacttarget.com |
 | click.e.mychoice.com | click.virt.s10.exacttarget.com |
 | click.e.online.uri.edu | click.virt.s10.exacttarget.com |
-| click.e.recordrentacar.com | click.virt.s10.exacttarget.com |
-| click.elcompanies.com | click.virt.s10.exacttarget.com |
 | click.em-dreamdinners.com | click.virt.s10.exacttarget.com |
 | click.em.gamestop.com | click.virt.s10.exacttarget.com |
 | click.em.nestle.com | click.virt.s10.exacttarget.com |
@@ -1173,7 +1108,6 @@
 | click.email.anaconda.com.au | click.virt.s10.exacttarget.com |
 | click.email.asrinvest.com | click.virt.s10.exacttarget.com |
 | click.email.attainbyaetna.com | click.virt.s10.exacttarget.com |
-| click.email.beaba.com | click.virt.s10.exacttarget.com |
 | click.email.cineworld.com | click.virt.s10.exacttarget.com |
 | click.email.citi.com.ph | click.virt.s10.exacttarget.com |
 | click.email.citibank.com.hk | click.virt.s10.exacttarget.com |
@@ -1195,7 +1129,6 @@
 | click.email.latimes.com | click.virt.s10.exacttarget.com |
 | click.email.laurelroad.com | click.virt.s10.exacttarget.com |
 | click.email.lawson.jp | click.virt.s10.exacttarget.com |
-| click.email.lixilamericas.com | click.virt.s10.exacttarget.com |
 | click.email.marutisuzuki.com | click.virt.s10.exacttarget.com |
 | click.email.mercyhealth.com | click.virt.s10.exacttarget.com |
 | click.email.mountaindesigns.com | click.virt.s10.exacttarget.com |
@@ -1203,10 +1136,8 @@
 | click.email.nycers.org | click.virt.s10.exacttarget.com |
 | click.email.onduo.com | click.virt.s10.exacttarget.com |
 | click.email.online.jwu.edu | click.virt.s10.exacttarget.com |
-| click.email.pensionbee.com | click.virt.s10.exacttarget.com |
 | click.email.popsockets.com | click.virt.s10.exacttarget.com |
 | click.email.prideindustries.com | click.virt.s10.exacttarget.com |
-| click.email.salvationarmysouthernterritory.com | click.virt.s10.exacttarget.com |
 | click.email.samc.com | click.virt.s10.exacttarget.com |
 | click.email.sclhealth.org | click.virt.s10.exacttarget.com |
 | click.email.silverjeans.com | click.virt.s10.exacttarget.com |
@@ -1220,6 +1151,7 @@
 | click.email.thekrazycouponlady.com | click.virt.s10.exacttarget.com |
 | click.email.theubiquegroup.com | click.virt.s10.exacttarget.com |
 | click.email.unifi.com.my | click.virt.s10.exacttarget.com |
+| click.email.wwf.it | click.virt.s10.exacttarget.com |
 | click.emailbenefithub-ita.com | click.virt.s10.exacttarget.com |
 | click.emailbenefithub.in | click.virt.s10.exacttarget.com |
 | click.emails.fenwick.co.uk | click.virt.s10.exacttarget.com |
@@ -1231,7 +1163,6 @@
 | click.find.edx.org | click.virt.s10.exacttarget.com |
 | click.fitnesshut-email.com | click.virt.s10.exacttarget.com |
 | click.gemcore-email.com | click.virt.s10.exacttarget.com |
-| click.guidiauto.com | click.virt.s10.exacttarget.com |
 | click.hannamfertility-email.com | click.virt.s10.exacttarget.com |
 | click.hello.justeattakeaway.com | click.virt.s10.exacttarget.com |
 | click.info.bkportugal.pt | click.virt.s10.exacttarget.com |
@@ -1246,7 +1177,6 @@
 | click.k12.follett.com | click.virt.s10.exacttarget.com |
 | click.kasasa.rewardlocally.com | click.virt.s10.exacttarget.com |
 | click.kcsouthern-email.com | click.virt.s10.exacttarget.com |
-| click.leeds.colorado.edu | click.virt.s10.exacttarget.com |
 | click.legacyscs-mail.com | click.virt.s10.exacttarget.com |
 | click.livingwell-email.com | click.virt.s10.exacttarget.com |
 | click.lkqheavytruck-email.com | click.virt.s10.exacttarget.com |
@@ -1254,7 +1184,6 @@
 | click.mail-hmgstrategy.com | click.virt.s10.exacttarget.com |
 | click.mail-planetwin365.com | click.virt.s10.exacttarget.com |
 | click.mail.360onlineprint.com | click.virt.s10.exacttarget.com |
-| click.mail.aig.com | click.virt.s10.exacttarget.com |
 | click.mail.bbvacontinental.pe | click.virt.s10.exacttarget.com |
 | click.mail.bl.leeds.ac.uk | click.virt.s10.exacttarget.com |
 | click.mail.blue.ch | click.virt.s10.exacttarget.com |
@@ -1263,7 +1192,6 @@
 | click.mail.debona.it | click.virt.s10.exacttarget.com |
 | click.mail.goldsgym.jp | click.virt.s10.exacttarget.com |
 | click.mail.gottman.com | click.virt.s10.exacttarget.com |
-| click.mail.homemadesimple.com | click.virt.s10.exacttarget.com |
 | click.mail.myfirstinternetbank.com | click.virt.s10.exacttarget.com |
 | click.mail.sonysonpo.co.jp | click.virt.s10.exacttarget.com |
 | click.mail.zoover.com | click.virt.s10.exacttarget.com |
@@ -1295,7 +1223,6 @@
 | click.mkt.unimedbelem.com.br | click.virt.s10.exacttarget.com |
 | click.ms.aboardtheworld.com | click.virt.s10.exacttarget.com |
 | click.murphyusa-email.com | click.virt.s10.exacttarget.com |
-| click.mycomputercareer-email.com | click.virt.s10.exacttarget.com |
 | click.mytrips.americanexpress.com | click.virt.s10.exacttarget.com |
 | click.neopostcommunications.com | click.virt.s10.exacttarget.com |
 | click.news.alfursan-online.com | click.virt.s10.exacttarget.com |
@@ -1305,7 +1232,6 @@
 | click.news.condis.es | click.virt.s10.exacttarget.com |
 | click.news.daraz.com.bd | click.virt.s10.exacttarget.com |
 | click.news.daraz.pk | click.virt.s10.exacttarget.com |
-| click.news.drogariasaopaulo.com.br | click.virt.s10.exacttarget.com |
 | click.news.shop.com.mm | click.virt.s10.exacttarget.com |
 | click.news.thalia.at | click.virt.s10.exacttarget.com |
 | click.news.thalia.de | click.virt.s10.exacttarget.com |
@@ -1346,6 +1272,7 @@
 | click.starlike-email.com.tw | click.virt.s10.exacttarget.com |
 | click.studysky.com.br | click.virt.s10.exacttarget.com |
 | click.summerdiscovery-email.com | click.virt.s10.exacttarget.com |
+| click.t.quickenloans.com | click.virt.s10.exacttarget.com |
 | click.tachipalaceclub.com | click.virt.s10.exacttarget.com |
 | click.teach.skillshare.com | click.virt.s10.exacttarget.com |
 | click.techclient.kering.com | click.virt.s10.exacttarget.com |
@@ -1367,19 +1294,14 @@
 | click.www.shakeyspizza.online | click.virt.s10.exacttarget.com |
 | tl46pcs-gyj855hgpvtjcb0jq700.click-sap.sfmc-marketing.com | click.virt.s10.exacttarget.com |
 | tld3qvfkxg17hw1bkrxjsd31-388.click-sap.sfmc-marketing.com | click.virt.s10.exacttarget.com |
-| tlysk54v607tsfyfp0v607mfzny8.click-sap.sfmc-marketing.com | click.virt.s10.exacttarget.com |
 | bitbucket.click.s11.sfmc-osl.com | click.virt.s11.exacttarget.com |
 | click.admissions-mail.mta.ca | click.virt.s11.exacttarget.com |
 | click.admissions.yu.edu | click.virt.s11.exacttarget.com |
-| click.agua.bebbia.com | click.virt.s11.exacttarget.com |
 | click.americanhartfordg.com | click.virt.s11.exacttarget.com |
-| click.ameriflex-emails.com | click.virt.s11.exacttarget.com |
 | click.apac.burton.com | click.virt.s11.exacttarget.com |
 | click.app-margo.me | click.virt.s11.exacttarget.com |
 | click.bellacormail.com | click.virt.s11.exacttarget.com |
 | click.benedettis.mx | click.virt.s11.exacttarget.com |
-| click.bluhomesevents.com | click.virt.s11.exacttarget.com |
-| click.bullseyecx.net | click.virt.s11.exacttarget.com |
 | click.cbsconnect.paramount.com | click.virt.s11.exacttarget.com |
 | click.comms.dhs.arkansas.gov | click.virt.s11.exacttarget.com |
 | click.comms.homes.co.nz | click.virt.s11.exacttarget.com |
@@ -1387,12 +1309,9 @@
 | click.communications.careers360.co.in | click.virt.s11.exacttarget.com |
 | click.communications.gitam.edu | click.virt.s11.exacttarget.com |
 | click.communications.risebroadband.com | click.virt.s11.exacttarget.com |
-| click.communities.citigroup.com | click.virt.s11.exacttarget.com |
 | click.community.janegoodall.org | click.virt.s11.exacttarget.com |
 | click.comunicaciones.gruporecordar.com.co | click.virt.s11.exacttarget.com |
-| click.content.jdrf.org | click.virt.s11.exacttarget.com |
 | click.cpfldigital.com.br | click.virt.s11.exacttarget.com |
-| click.crm.emcasa.com | click.virt.s11.exacttarget.com |
 | click.crmsf.colombo.com.br | click.virt.s11.exacttarget.com |
 | click.cwdc.state.co.us | click.virt.s11.exacttarget.com |
 | click.delivery.uvarosa.com.br | click.virt.s11.exacttarget.com |
@@ -1403,6 +1322,7 @@
 | click.e.chicosofftherack.com | click.virt.s11.exacttarget.com |
 | click.e.envisionhealth.com | click.virt.s11.exacttarget.com |
 | click.e.gktw.org | click.virt.s11.exacttarget.com |
+| click.e.rivian.com | click.virt.s11.exacttarget.com |
 | click.e.saltairspa.com.au | click.virt.s11.exacttarget.com |
 | click.e.seagen.com | click.virt.s11.exacttarget.com |
 | click.e.spotpetins.com | click.virt.s11.exacttarget.com |
@@ -1427,7 +1347,6 @@
 | click.email.catho.com.br | click.virt.s11.exacttarget.com |
 | click.email.coursera.org | click.virt.s11.exacttarget.com |
 | click.email.diversyfund.com | click.virt.s11.exacttarget.com |
-| click.email.hrtrainonline.com | click.virt.s11.exacttarget.com |
 | click.email.infragistics.com | click.virt.s11.exacttarget.com |
 | click.email.lively.com | click.virt.s11.exacttarget.com |
 | click.email.marcorubiofl.com | click.virt.s11.exacttarget.com |
@@ -1467,7 +1386,6 @@
 | click.ivyexecinsights.com | click.virt.s11.exacttarget.com |
 | click.jobs.oreillyauto.com | click.virt.s11.exacttarget.com |
 | click.lovewellness-email.com | click.virt.s11.exacttarget.com |
-| click.m.hands.net | click.virt.s11.exacttarget.com |
 | click.ma.alba.co.jp | click.virt.s11.exacttarget.com |
 | click.ma.daiyak.co.jp | click.virt.s11.exacttarget.com |
 | click.ma.fightingroad.co.jp | click.virt.s11.exacttarget.com |
@@ -1517,7 +1435,6 @@
 | click.news.tennischannel.com | click.virt.s11.exacttarget.com |
 | click.news.uphone.co.kr | click.virt.s11.exacttarget.com |
 | click.newschillibeans.com.br | click.virt.s11.exacttarget.com |
-| click.note.cryptoinsiderstoday.com | click.virt.s11.exacttarget.com |
 | click.notificacion.movistar.cl | click.virt.s11.exacttarget.com |
 | click.notifications.dsny.nyc.gov | click.virt.s11.exacttarget.com |
 | click.olive-email.com | click.virt.s11.exacttarget.com |
@@ -1535,7 +1452,6 @@
 | click.relacionamento.eqi-investimentos.com | click.virt.s11.exacttarget.com |
 | click.reply.pacificsmiles.com.au | click.virt.s11.exacttarget.com |
 | click.rnareset-email.com | click.virt.s11.exacttarget.com |
-| click.safralink.info | click.virt.s11.exacttarget.com |
 | click.sandstonecare-email.com | click.virt.s11.exacttarget.com |
 | click.saude.unimedbh.com.br | click.virt.s11.exacttarget.com |
 | click.sc.hks.harvard.edu | click.virt.s11.exacttarget.com |
@@ -1563,7 +1479,6 @@
 | click.tlcnotifications.com | click.virt.s11.exacttarget.com |
 | click.tp.tridenthotels.com | click.virt.s11.exacttarget.com |
 | click.traemand.co | click.virt.s11.exacttarget.com |
-| click.transactions.westernunion.com | click.virt.s11.exacttarget.com |
 | click.trsm-connect.ryerson.ca | click.virt.s11.exacttarget.com |
 | click.tvc-prodriver.com | click.virt.s11.exacttarget.com |
 | click.updates.radicava.com | click.virt.s11.exacttarget.com |
@@ -1620,7 +1535,6 @@
 | tl638cy8p99m--rvd99360m-xrky.click-sap.sfmc-marketing.com | click.virt.s11.exacttarget.com |
 | tlb0kvytqn0rqwtr6ppvht8321f0.click-sap.sfmc-marketing.com | click.virt.s11.exacttarget.com |
 | tlb7qyj46h0y1x-q7bddfpr5ghn0.click-sap.sfmc-marketing.com | click.virt.s11.exacttarget.com |
-| tlg-kf3-whzlhxvhl31f33hfxyqy.click-sap.sfmc-marketing.com | click.virt.s11.exacttarget.com |
 | tllbb87nwm3bzl-n9mrfgh0ypvyq.click-sap.sfmc-marketing.com | click.virt.s11.exacttarget.com |
 | tlmbnc2yvlp1fbrl4l11lhynzkm0.click-sap.sfmc-marketing.com | click.virt.s11.exacttarget.com |
 | tlw5ydyzggt0w68y6jq1s7h67fr4.click-sap.sfmc-marketing.com | click.virt.s11.exacttarget.com |
@@ -1647,20 +1561,25 @@
 | zdactzl96snkye37.click.s11.sfmc-osl.com | click.virt.s11.exacttarget.com |
 | click.campaign.simplivlearning.co | click.virt.s12.exacttarget.com |
 | click.campaign.trainhealthonline.com | click.virt.s12.exacttarget.com |
+| click.campaign.trainhealthonline.com | click.virt.s12.exacttarget.com |
 | click.communications.brightspeed.com | click.virt.s12.exacttarget.com |
-| click.eg.wotif.com | click.virt.s12.exacttarget.com |
+| click.comunicacao.suhaiseguradora.com | click.virt.s12.exacttarget.com |
+| click.digest.marketdominancenews.com | click.virt.s12.exacttarget.com |
+| click.email.cgccomics.com | click.virt.s12.exacttarget.com |
 | click.email.clubchampiongolf.com | click.virt.s12.exacttarget.com |
+| click.email.creditfresh.com | click.virt.s12.exacttarget.com |
 | click.email.mauijim.com | click.virt.s12.exacttarget.com |
-| click.part.smartinvestmenttoday.com | click.virt.s12.exacttarget.com |
+| click.mail.avisos-lafise.com | click.virt.s12.exacttarget.com |
+| click.mail.gobicashmere.com | click.virt.s12.exacttarget.com |
+| click.msi-marketing.com | click.virt.s12.exacttarget.com |
 | click.recruiting.captainu.com | click.virt.s12.exacttarget.com |
 | click.tumi.co.jp | click.virt.s12.exacttarget.com |
 | click.unext-info.jp | click.virt.s12.exacttarget.com |
-| tlvrvz6kf10h9pw215dzch-9-9j0.click-sap.sfmc-marketing.com | click.virt.s12.exacttarget.com |
+| click.campaign.compliance4alllearning.com | click.virt.s13.exacttarget.com |
 | click.campaign.gcplearning.com | click.virt.s13.exacttarget.com |
 | click.campaign.panelcompliance.com | click.virt.s13.exacttarget.com |
-| click.campaign.trainhrlearning.com | click.virt.s13.exacttarget.com |
-| click.campaign.webinarhealth.com | click.virt.s13.exacttarget.com |
-| click.messaging.logicool.co.jp | click.virt.s13.exacttarget.com |
+| click.mc.takakuureru.com | click.virt.s13.exacttarget.com |
+| tld7nrz5lg6pdr8kbbk6ll0ygk4m.click-sap.sfmc-marketing.com | click.virt.s13.exacttarget.com |
 | click-cre.capitalone.com | click.virt.s4.exacttarget.com |
 | click-csf.capitalone.com | click.virt.s4.exacttarget.com |
 | click-wam.capitalone.com | click.virt.s4.exacttarget.com |
@@ -1668,30 +1587,24 @@
 | click.3arena.net | click.virt.s4.exacttarget.com |
 | click.academic.cambridge.org | click.virt.s4.exacttarget.com |
 | click.advicecenter.transamerica.com | click.virt.s4.exacttarget.com |
-| click.aflac-email.com | click.virt.s4.exacttarget.com |
 | click.alert.creditcard.acg.aaa.com | click.virt.s4.exacttarget.com |
 | click.apusmail.apus.edu | click.virt.s4.exacttarget.com |
 | click.aruba.mail.hpe.com | click.virt.s4.exacttarget.com |
-| click.bgetheatre.com | click.virt.s4.exacttarget.com |
 | click.cinch-email.com | click.virt.s4.exacttarget.com |
 | click.comm.priceline.com.au | click.virt.s4.exacttarget.com |
-| click.comms.nib.com.au | click.virt.s4.exacttarget.com |
 | click.communications.intuit.net | click.virt.s4.exacttarget.com |
 | click.connectnotifications.intuit.com | click.virt.s4.exacttarget.com |
 | click.conns-email.com | click.virt.s4.exacttarget.com |
 | click.customerservice.tmm.ticketmaster.co.uk | click.virt.s4.exacttarget.com |
 | click.cybex-email.com | click.virt.s4.exacttarget.com |
-| click.e.daveramsey.com | click.virt.s4.exacttarget.com |
 | click.e.kathmandu.co.uk | click.virt.s4.exacttarget.com |
 | click.e.kathmandu.com.au | click.virt.s4.exacttarget.com |
 | click.e.kidspot.com.au | click.virt.s4.exacttarget.com |
 | click.e.lowes.ca | click.virt.s4.exacttarget.com |
-| click.e.underarmour.co.uk | click.virt.s4.exacttarget.com |
+| click.e.melaleuca.com | click.virt.s4.exacttarget.com |
 | click.e.writersstore.com | click.virt.s4.exacttarget.com |
 | click.e2.overtons.com | click.virt.s4.exacttarget.com |
 | click.email-aarpdentalplan.com | click.virt.s4.exacttarget.com |
-| click.email.6pm.com | click.virt.s4.exacttarget.com |
-| click.email.abercrombie.com | click.virt.s4.exacttarget.com |
 | click.email.aetnasbc.com | click.virt.s4.exacttarget.com |
 | click.email.betsson.dk | click.virt.s4.exacttarget.com |
 | click.email.choice.com.au | click.virt.s4.exacttarget.com |
@@ -1704,7 +1617,6 @@
 | click.email.mcc.org.au | click.virt.s4.exacttarget.com |
 | click.email.medicorpinc.com | click.virt.s4.exacttarget.com |
 | click.email.merchantcenter.intuit.com | click.virt.s4.exacttarget.com |
-| click.email.microsoftonline.com | click.virt.s4.exacttarget.com |
 | click.email.mystayingsharp.org | click.virt.s4.exacttarget.com |
 | click.email.nridigital.com | click.virt.s4.exacttarget.com |
 | click.email.pamperedchef.com | click.virt.s4.exacttarget.com |
@@ -1720,11 +1632,8 @@
 | click.emails.bakerhughes.com | click.virt.s4.exacttarget.com |
 | click.emails.disneyworld.com | click.virt.s4.exacttarget.com |
 | click.emails.vikingcruises.com.au | click.virt.s4.exacttarget.com |
-| click.endopro.abbvie.com | click.virt.s4.exacttarget.com |
 | click.festivalhall.co | click.virt.s4.exacttarget.com |
 | click.gavleteater.com | click.virt.s4.exacttarget.com |
-| click.gphcp.abbvie.com | click.virt.s4.exacttarget.com |
-| click.hcv.abbvie.com | click.virt.s4.exacttarget.com |
 | click.hifk.tmmsg.com | click.virt.s4.exacttarget.com |
 | click.inbox.bissell.ca | click.virt.s4.exacttarget.com |
 | click.info.gm.ca | click.virt.s4.exacttarget.com |
@@ -1767,7 +1676,6 @@
 | click.post.hulu.com | click.virt.s4.exacttarget.com |
 | click.powerreviewsemail.com | click.virt.s4.exacttarget.com |
 | click.produv.abbvie.com | click.virt.s4.exacttarget.com |
-| click.prohsm.abbvie.com | click.virt.s4.exacttarget.com |
 | click.prouvm.abbvie.com | click.virt.s4.exacttarget.com |
 | click.raumanlukko.net | click.virt.s4.exacttarget.com |
 | click.refer.mail.fidelity.com | click.virt.s4.exacttarget.com |
@@ -1796,23 +1704,16 @@
 | click.web.bluenile.com | click.virt.s4.exacttarget.com |
 | go.politicoemail.com | click.virt.s4.exacttarget.com |
 | h30606.www3.hp.com | click.virt.s4.exacttarget.com |
-| tl-2h2xzw0n-m56p3bhfbrl5nfp8.click-sap.sfmc-marketing.com | click.virt.s4.exacttarget.com |
 | tl-82dv9b9q28cxtmft3yb9cq6g1.click-sap.sfmc-marketing.com | click.virt.s4.exacttarget.com |
-| tlbz1l-jxwd92clt9hnwdkb7r3y4.click-sap.sfmc-marketing.com | click.virt.s4.exacttarget.com |
 | tlvrgyvskgd7wcf-ym-r49vktfq0.click-sap.sfmc-marketing.com | click.virt.s4.exacttarget.com |
-| click.appointment.bankofamerica.com | click.virt.s5.exacttarget.com |
-| click.gcsr.bankofamerica.com | click.virt.s5.exacttarget.com |
 | click.adjust.dev | click.virt.s50.exacttarget.com |
 | click.ambiente.gruppoiren.it | click.virt.s50.exacttarget.com |
-| click.azafinance.com | click.virt.s50.exacttarget.com |
 | click.bstrong-store.com | click.virt.s50.exacttarget.com |
-| click.btob-events.co.uk | click.virt.s50.exacttarget.com |
 | click.campaigns.neckermann.be | click.virt.s50.exacttarget.com |
 | click.ceo1m.adeccogroup.com | click.virt.s50.exacttarget.com |
 | click.club.relxwithme.com | click.virt.s50.exacttarget.com |
 | click.club.total.fr | click.virt.s50.exacttarget.com |
 | click.cm.mountain-shop.com | click.virt.s50.exacttarget.com |
-| click.cm.salewa.com | click.virt.s50.exacttarget.com |
 | click.comms.admiralbusiness.com | click.virt.s50.exacttarget.com |
 | click.communications.cala.co.uk | click.virt.s50.exacttarget.com |
 | click.communications.nortonway.com | click.virt.s50.exacttarget.com |
@@ -1826,7 +1727,6 @@
 | click.concierge.luxxu.net | click.virt.s50.exacttarget.com |
 | click.concierge.rugsociety.eu | click.virt.s50.exacttarget.com |
 | click.connect.mashbir.co.il | click.virt.s50.exacttarget.com |
-| click.contact-bromptonbikehire.com | click.virt.s50.exacttarget.com |
 | click.contact.stores-discount.com | click.virt.s50.exacttarget.com |
 | click.crm.lexus.ru | click.virt.s50.exacttarget.com |
 | click.crm.toyota.ie | click.virt.s50.exacttarget.com |
@@ -1846,7 +1746,6 @@
 | click.email-slidesgo.com | click.virt.s50.exacttarget.com |
 | click.email.allerganspain.com | click.virt.s50.exacttarget.com |
 | click.email.baya.vn | click.virt.s50.exacttarget.com |
-| click.email.bikkembergs.com | click.virt.s50.exacttarget.com |
 | click.email.chervo.com | click.virt.s50.exacttarget.com |
 | click.email.choice.no | click.virt.s50.exacttarget.com |
 | click.email.collecting.com | click.virt.s50.exacttarget.com |
@@ -1860,6 +1759,7 @@
 | click.email.folletto-vorwerk.it | click.virt.s50.exacttarget.com |
 | click.email.grandoptical.pt | click.virt.s50.exacttarget.com |
 | click.email.hollandandbarrett.com | click.virt.s50.exacttarget.com |
+| click.email.juniorcouture.com | click.virt.s50.exacttarget.com |
 | click.email.lunii.com | click.virt.s50.exacttarget.com |
 | click.email.mauricelacroix.com | click.virt.s50.exacttarget.com |
 | click.email.mktagilidade.pt | click.virt.s50.exacttarget.com |
@@ -1870,7 +1770,6 @@
 | click.email.stanleytools.com.au | click.virt.s50.exacttarget.com |
 | click.email.widilo.fr | click.virt.s50.exacttarget.com |
 | click.emails.mancity.com | click.virt.s50.exacttarget.com |
-| click.emails.tgifridays.co.uk | click.virt.s50.exacttarget.com |
 | click.engage.absa.africa | click.virt.s50.exacttarget.com |
 | click.epost.rfsl.se | click.virt.s50.exacttarget.com |
 | click.esfa.coursedirectory.org.uk | click.virt.s50.exacttarget.com |
@@ -1879,12 +1778,12 @@
 | click.go.myhealthcareclinic.com | click.virt.s50.exacttarget.com |
 | click.hello.9e-store.fr | click.virt.s50.exacttarget.com |
 | click.hello.rustica.fr | click.virt.s50.exacttarget.com |
-| click.hifi-mail.lu | click.virt.s50.exacttarget.com |
 | click.i.myofer.co.il | click.virt.s50.exacttarget.com |
 | click.imamma.eu | click.virt.s50.exacttarget.com |
 | click.info.galliardhomes.com | click.virt.s50.exacttarget.com |
 | click.info.leoandgo.com | click.virt.s50.exacttarget.com |
 | click.info.mutuelle-mbtp.com | click.virt.s50.exacttarget.com |
+| click.info.rewire.to | click.virt.s50.exacttarget.com |
 | click.infoclient.financo.fr | click.virt.s50.exacttarget.com |
 | click.information.cegema.com | click.virt.s50.exacttarget.com |
 | click.krefel-mail.be | click.virt.s50.exacttarget.com |
@@ -1904,11 +1803,8 @@
 | click.mailing.orange.lu | click.virt.s50.exacttarget.com |
 | click.mailing.vfj.co.jp | click.virt.s50.exacttarget.com |
 | click.mails.autoscout24.at | click.virt.s50.exacttarget.com |
-| click.mails.autoscout24.be | click.virt.s50.exacttarget.com |
-| click.mails.autoscout24.es | click.virt.s50.exacttarget.com |
 | click.mails.autoscout24.it | click.virt.s50.exacttarget.com |
 | click.mails.casashops.com | click.virt.s50.exacttarget.com |
-| click.marketing-chevalier-conservation.com | click.virt.s50.exacttarget.com |
 | click.marketing-pouyanne-paris.com | click.virt.s50.exacttarget.com |
 | click.marketing-wartnerpro.com | click.virt.s50.exacttarget.com |
 | click.marketing.cpt.digicall.co.za | click.virt.s50.exacttarget.com |
@@ -1934,7 +1830,6 @@
 | click.newsletter.agorastore.fr | click.virt.s50.exacttarget.com |
 | click.newsletter.vistasi.it | click.virt.s50.exacttarget.com |
 | click.official.thebar.com | click.virt.s50.exacttarget.com |
-| click.ouphe.oup.com | click.virt.s50.exacttarget.com |
 | click.pkf.uk | click.virt.s50.exacttarget.com |
 | click.program-mail.grohe.com | click.virt.s50.exacttarget.com |
 | click.promos.codere.mx | click.virt.s50.exacttarget.com |
@@ -1953,7 +1848,6 @@
 | click.sf.email.kbcbank.bg | click.virt.s50.exacttarget.com |
 | click.sfm.bebeboutik.com | click.virt.s50.exacttarget.com |
 | click.sfmail.mundipharma.com | click.virt.s50.exacttarget.com |
-| click.sk.mercedes-benz.eu | click.virt.s50.exacttarget.com |
 | click.stockholmsmassan-email.se | click.virt.s50.exacttarget.com |
 | click.uat-updates.ubisoft.com | click.virt.s50.exacttarget.com |
 | click.utmb.world | click.virt.s50.exacttarget.com |
@@ -1971,21 +1865,16 @@
 | tlh6xh--ql2n5qnx-2j4m5hs5pc4.click-sap.sfmc-marketing.com | click.virt.s50.exacttarget.com |
 | tljnylk9fldm0-jr93612h9d5xj8.click-sap.sfmc-marketing.com | click.virt.s50.exacttarget.com |
 | tlxbvp0rmwpwqqtlhbj-x4hsq2t8.click-sap.sfmc-marketing.com | click.virt.s50.exacttarget.com |
-| click.eiis-education.eu | click.virt.s51.exacttarget.com |
+| click.mail.theirworld.org | click.virt.s51.exacttarget.com |
 | click.mkt.aurgi.com | click.virt.s51.exacttarget.com |
-| click.mkt.factorenergia.com | click.virt.s51.exacttarget.com |
-| click.aeroplan.points.com | click.virt.s6.exacttarget.com |
 | click.bbcearth.bbc.com | click.virt.s6.exacttarget.com |
 | click.bbcshop.bbc.com | click.virt.s6.exacttarget.com |
-| click.bkdpt.com | click.virt.s6.exacttarget.com |
 | click.boletimuol.com.br | click.virt.s6.exacttarget.com |
-| click.business.trivago.com | click.virt.s6.exacttarget.com |
 | click.c.coppel.com | click.virt.s6.exacttarget.com |
 | click.champion-america-email.com | click.virt.s6.exacttarget.com |
 | click.cimaco.com.mx | click.virt.s6.exacttarget.com |
 | click.click.hermanmiller.com | click.virt.s6.exacttarget.com |
 | click.comms.cynergybank.co.uk | click.virt.s6.exacttarget.com |
-| click.communication.geocaching.com | click.virt.s6.exacttarget.com |
 | click.communications.cas.org | click.virt.s6.exacttarget.com |
 | click.contato.catho.com.br | click.virt.s6.exacttarget.com |
 | click.contato.oqvestir.com.br | click.virt.s6.exacttarget.com |
@@ -2000,12 +1889,10 @@
 | click.e-sunglasshut.com | click.virt.s6.exacttarget.com |
 | click.e.clubmama.com.ph | click.virt.s6.exacttarget.com |
 | click.e.dantaxi.dk | click.virt.s6.exacttarget.com |
-| click.e.draftkings.com | click.virt.s6.exacttarget.com |
 | click.e.email.enfamil.pl | click.virt.s6.exacttarget.com |
 | click.e.finishinfo.com | click.virt.s6.exacttarget.com |
 | click.e.hautelook.com | click.virt.s6.exacttarget.com |
 | click.e.juiceplus.com | click.virt.s6.exacttarget.com |
-| click.e.kaspick.com | click.virt.s6.exacttarget.com |
 | click.e.maccas.com.au | click.virt.s6.exacttarget.com |
 | click.e.odpbusiness.com | click.virt.s6.exacttarget.com |
 | click.e.officedepot.com | click.virt.s6.exacttarget.com |
@@ -2017,7 +1904,6 @@
 | click.em.secondlife.com | click.virt.s6.exacttarget.com |
 | click.email-leanintree.com | click.virt.s6.exacttarget.com |
 | click.email-offbroadwayshoes.com | click.virt.s6.exacttarget.com |
-| click.email-tuftshealth.com | click.virt.s6.exacttarget.com |
 | click.email.bananarepublic.co.jp | click.virt.s6.exacttarget.com |
 | click.email.beachbody.com | click.virt.s6.exacttarget.com |
 | click.email.caesars.co.uk | click.virt.s6.exacttarget.com |
@@ -2027,8 +1913,6 @@
 | click.email.finspreads.com | click.virt.s6.exacttarget.com |
 | click.email.gamingmails.com | click.virt.s6.exacttarget.com |
 | click.email.garageclothing.com | click.virt.s6.exacttarget.com |
-| click.email.joefresh.com | click.virt.s6.exacttarget.com |
-| click.email.kayoutlet.com | click.virt.s6.exacttarget.com |
 | click.email.lifetimefitness.com | click.virt.s6.exacttarget.com |
 | click.email.littleleague.org | click.virt.s6.exacttarget.com |
 | click.email.lysol.com | click.virt.s6.exacttarget.com |
@@ -2045,17 +1929,13 @@
 | click.email.seton.ca | click.virt.s6.exacttarget.com |
 | click.email.shadowmountainrecords.com | click.virt.s6.exacttarget.com |
 | click.email.showroomprive.it | click.virt.s6.exacttarget.com |
-| click.email.sonos.com | click.virt.s6.exacttarget.com |
 | click.email.southeastwater.com.au | click.virt.s6.exacttarget.com |
 | click.email.suunto.com | click.virt.s6.exacttarget.com |
-| click.email.universalparkevents.com | click.virt.s6.exacttarget.com |
 | click.email.universalpictures.com | click.virt.s6.exacttarget.com |
-| click.email.universaltravelagents.com | click.virt.s6.exacttarget.com |
 | click.email.vonage.com | click.virt.s6.exacttarget.com |
 | click.email.wbd.com | click.virt.s6.exacttarget.com |
 | click.email.webpremios.com.br | click.virt.s6.exacttarget.com |
 | click.email.wendys.com | click.virt.s6.exacttarget.com |
-| click.email.yeezy.gap.com | click.virt.s6.exacttarget.com |
 | click.email.yellowstonenationalparklodges.com | click.virt.s6.exacttarget.com |
 | click.emails.bbc.com | click.virt.s6.exacttarget.com |
 | click.emails.burberry.com | click.virt.s6.exacttarget.com |
@@ -2071,9 +1951,7 @@
 | click.et.pecheur.com | click.virt.s6.exacttarget.com |
 | click.et.scad.edu | click.virt.s6.exacttarget.com |
 | click.eu.page.com | click.virt.s6.exacttarget.com |
-| click.eupdates.53.com | click.virt.s6.exacttarget.com |
 | click.exmail.lentillesmoinscheres.com | click.virt.s6.exacttarget.com |
-| click.fr.page.com | click.virt.s6.exacttarget.com |
 | click.fullssl.securethemails.com | click.virt.s6.exacttarget.com |
 | click.improvementscatalog-email.com | click.virt.s6.exacttarget.com |
 | click.info.cashback.net | click.virt.s6.exacttarget.com |
@@ -2090,10 +1968,8 @@
 | click.mail.hipages.com.au | click.virt.s6.exacttarget.com |
 | click.mail.medscapemedaffairs.com | click.virt.s6.exacttarget.com |
 | click.mail.wehkamp.nl | click.virt.s6.exacttarget.com |
-| click.mail.zahnersatzsparen.de | click.virt.s6.exacttarget.com |
 | click.mailing-globtrex.com | click.virt.s6.exacttarget.com |
 | click.mailing.bouwmaat.nl | click.virt.s6.exacttarget.com |
-| click.mixedssl.securethemails.com | click.virt.s6.exacttarget.com |
 | click.mortgage.53.com | click.virt.s6.exacttarget.com |
 | click.news-fuelgenie.co.uk | click.virt.s6.exacttarget.com |
 | click.news-h5g.com | click.virt.s6.exacttarget.com |
@@ -2111,11 +1987,9 @@
 | click.points.aircanada.com | click.virt.s6.exacttarget.com |
 | click.points.airmilesme.com | click.virt.s6.exacttarget.com |
 | click.press.trivago.com | click.virt.s6.exacttarget.com |
-| click.protectionplus.sel.sony.com | click.virt.s6.exacttarget.com |
 | click.prucap-prudential.com | click.virt.s6.exacttarget.com |
 | click.relacionamento.clinicassistance.com.br | click.virt.s6.exacttarget.com |
 | click.relacionamento.folha.com.br | click.virt.s6.exacttarget.com |
-| click.responsiblesourcing.walmart.com | click.virt.s6.exacttarget.com |
 | click.rewardpoints.53.com | click.virt.s6.exacttarget.com |
 | click.s6.deeplinking.sfmctest.com | click.virt.s6.exacttarget.com |
 | click.secure3.iolo.com | click.virt.s6.exacttarget.com |
@@ -2132,7 +2006,6 @@
 | click.uq.uniqlo.com.my | click.virt.s6.exacttarget.com |
 | click.uq.uniqlo.com.sg | click.virt.s6.exacttarget.com |
 | click.us-news.lillet.com | click.virt.s6.exacttarget.com |
-| click.uscomms.wal-mart.com | click.virt.s6.exacttarget.com |
 | click.vip.belezanaweb.com.br | click.virt.s6.exacttarget.com |
 | click.welcome.coca-cola.com | click.virt.s6.exacttarget.com |
 | click.wt-email.com | click.virt.s6.exacttarget.com |
@@ -2142,36 +2015,36 @@
 | tlb2b4rf0yc0tz2dx9dvspd44bw4.click-sap.sfmc-marketing.com | click.virt.s6.exacttarget.com |
 | tldd15-8vtvyymgp974n89g4chhq.click-sap.sfmc-marketing.com | click.virt.s6.exacttarget.com |
 | tldg244k3r1l3fqhrm9p11jgzs7y.click-sap.sfmc-marketing.com | click.virt.s6.exacttarget.com |
-| tlg05vrxlz66q291p-kbh80qsgty.click-sap.sfmc-marketing.com | click.virt.s6.exacttarget.com |
 | tlj1hj3-xy049fcg7cc7hy7ntdrq.click-sap.sfmc-marketing.com | click.virt.s6.exacttarget.com |
 | tll5fyx9t-12t4ksp7y854d7x3p8.click-sap.sfmc-marketing.com | click.virt.s6.exacttarget.com |
 | click.autofinance-email.com | click.virt.s7.exacttarget.com |
 | click.c.shoppersdrugmart.ca | click.virt.s7.exacttarget.com |
-| click.cbfddlr.com | click.virt.s7.exacttarget.com |
 | click.communications.neteller.com | click.virt.s7.exacttarget.com |
-| click.crankshaft.motordlr.com | click.virt.s7.exacttarget.com |
-| click.deutscheam.db.com | click.virt.s7.exacttarget.com |
 | click.discover.availity.com | click.virt.s7.exacttarget.com |
-| click.e.clifbar.com | click.virt.s7.exacttarget.com |
+| click.e-mail.manhattanprep.com | click.virt.s7.exacttarget.com |
+| click.e-vanguard.com.au | click.virt.s7.exacttarget.com |
 | click.e.larocheposay.com.au | click.virt.s7.exacttarget.com |
 | click.edu.cpaacademy.org | click.virt.s7.exacttarget.com |
-| click.em.cartersoshkosh.ca | click.virt.s7.exacttarget.com |
+| click.elektrowagen.motordlr.com | click.virt.s7.exacttarget.com |
 | click.email.allenedmonds.com | click.virt.s7.exacttarget.com |
 | click.email.chickentreat.com.au | click.virt.s7.exacttarget.com |
+| click.email.gutscheine.focus.de | click.virt.s7.exacttarget.com |
 | click.email.just-eat.fr | click.virt.s7.exacttarget.com |
 | click.email.oporto.com.au | click.virt.s7.exacttarget.com |
-| click.email.raileurope.fr | click.virt.s7.exacttarget.com |
 | click.email.skype.com | click.virt.s7.exacttarget.com |
-| click.email.tego.fr | click.virt.s7.exacttarget.com |
+| click.emails.cobbtuning.com | click.virt.s7.exacttarget.com |
 | click.m.coen.co.jp | click.virt.s7.exacttarget.com |
-| click.mail.nintendo-europe.com | click.virt.s7.exacttarget.com |
+| click.m30.mileonedlr.com | click.virt.s7.exacttarget.com |
+| click.mail.asseditoraglobo.com.br | click.virt.s7.exacttarget.com |
+| click.mail.interapothek.es | click.virt.s7.exacttarget.com |
 | click.mcld.salesforce.com | click.virt.s7.exacttarget.com |
-| click.mm.cledepeau-beaute.com | click.virt.s7.exacttarget.com |
 | click.mm.narscosmetics.jp | click.virt.s7.exacttarget.com |
-| click.motivafuels.com | click.virt.s7.exacttarget.com |
+| click.motorwagen.motordlr.com | click.virt.s7.exacttarget.com |
 | click.news-rakuten.fr | click.virt.s7.exacttarget.com |
-| click.newsletter.icesports.com | click.virt.s7.exacttarget.com |
-| click.rimsmail.tr.mufg.jp | click.virt.s7.exacttarget.com |
+| click.news.swift.com.br | click.virt.s7.exacttarget.com |
+| click.oglobojn.com.br | click.virt.s7.exacttarget.com |
+| click.rotary.motordlr.com | click.virt.s7.exacttarget.com |
+| click.smcemail.zynga.com | click.virt.s7.exacttarget.com |
 | mktcloud.imagin.com | e3044.dscx.akamaiedge.net |
 | email.doublevpartners.com | e8871.x.akamaiedge.net |
 | 10002.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
@@ -2225,25 +2098,15 @@
 | 10457.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 10464.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 10468.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 10481.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 10520.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 10523.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 10569.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 10625.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 1389.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
+| 16105.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 16283.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 16671.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 1711.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 26006.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 26289.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 28121.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 3150.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | 31842.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 4181.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 4961.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 7381.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 8437.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
-| 8891.editor-qa1.marketingcloudqaapis.com | editorsupport.s1.qa1.exacttarget.com |
 | www.envoymarketing.com | envoymarketing.virt.exacttarget.com |
 | 10002.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10035.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
@@ -2290,37 +2153,16 @@
 | 10366.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10388.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10402.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 10404.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10435.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10439.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10464.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10516.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10525.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 10600.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10603.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 10659.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 10895.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 13485.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 15.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 16444.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 16732.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 17072.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 17099.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 17441.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 204.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 26623.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 29768.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 4458.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 5496.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 7164.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 7974.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 8515.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 8630.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 8656.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 8930.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 8990.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| 9796.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
-| test123456789.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
+| 25323.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
+| 27935.connector-qa1.marketingcloudqaapis.com | etappx.s1.qa1.exacttarget.com |
 | 10002.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
 | 10035.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
 | 10039.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
@@ -2372,18 +2214,9 @@
 | 10734.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
 | 12596.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
 | 16464.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 17222.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 17302.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 28257.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 32726.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 6754.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 6949.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 7044.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
+| 25882.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
+| 2978.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
 | 8410.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 8618.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 8633.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 9009.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
-| 9467.ftp-qa1.marketingcloudqaops.com | ftp.s1.qa1.exacttarget.com |
 | www.goodyeartvrebate.com | goodyear.hosting.exacttarget.com |
 | wiki.memberlandingpages.com | help.exacttarget.com |
 | www.news.icemiller.com | icemiller.virt.exacttarget.com |
@@ -2395,7 +2228,6 @@
 | mail.ifsa-butler.org | ns1.exacttarget.com |
 | mailer.brmobile.com.br | ns1.exacttarget.com |
 | ns1.etarget.mamotorworks.com | ns1.exacttarget.com |
-| email.opencourse.com | opencourse.virt.exacttarget.com |
 | click.mail.onedrive.com | origin-click.virt.s7.exacttarget.com |
 | click.welcome.customersbank.com | origin-click.virt.s7.exacttarget.com |
 | pages.baisidirect.bankofamerica.com | pages.boa.exacttarget.com |
@@ -2419,7 +2251,6 @@
 | pages.e.mufgamericas.com | pages.s12.exacttarget.com |
 | pages.e.outbrain.com | pages.s12.exacttarget.com |
 | pages.ea.resmed.com | pages.s12.exacttarget.com |
-| pages.eg.expediagroup.com | pages.s12.exacttarget.com |
 | pages.eg.orbitz.com | pages.s12.exacttarget.com |
 | pages.eg.wotif.com | pages.s12.exacttarget.com |
 | pages.em.www.cloudflare.com | pages.s12.exacttarget.com |
@@ -2441,7 +2272,6 @@
 | pages.halpartners.hollandamerica.com | pages.s12.exacttarget.com |
 | pages.hello.brightspeed.com | pages.s12.exacttarget.com |
 | pages.hello.teachable.com | pages.s12.exacttarget.com |
-| pages.home-internet.t-mobile.com | pages.s12.exacttarget.com |
 | pages.i.studyonline.rmit.edu.au | pages.s12.exacttarget.com |
 | pages.idmkt.lge.com | pages.s12.exacttarget.com |
 | pages.info.fanbox.cc | pages.s12.exacttarget.com |
@@ -2493,7 +2323,6 @@
 | pages.waphyto-info.com | pages.s12.exacttarget.com |
 | pages.yulistamail.com | pages.s12.exacttarget.com |
 | pages.zettle.paypal.com | pages.s12.exacttarget.com |
-| tldwt5tybsc5flljwz08rknwtz84.cp-sap.sfmc-content.com | pages.s12.exacttarget.com |
 | tlq0d5jn0xn63h0zjqyywj1lwwl4.cp-sap.sfmc-content.com | pages.s12.exacttarget.com |
 | pages.13.mail.salesforce.com | pages.s13.exacttarget.com |
 | pages.comms.upsstore.com | pages.s13.exacttarget.com |
@@ -2564,7 +2393,6 @@
 | direct.vodafone.com.au | pages.virt.exacttarget.com |
 | learn.copyright.com | pages.virt.exacttarget.com |
 | pages.amq.mq.edu.au | pages.virt.exacttarget.com |
-| pages.angieslist.com | pages.virt.exacttarget.com |
 | pages.anthem-email.com | pages.virt.exacttarget.com |
 | pages.belk.com | pages.virt.exacttarget.com |
 | pages.benihana-news.com | pages.virt.exacttarget.com |
@@ -2573,7 +2401,6 @@
 | pages.c.surveys.usaa.com | pages.virt.exacttarget.com |
 | pages.candy.itmtatest.org | pages.virt.exacttarget.com |
 | pages.cirroenergy-email.com | pages.virt.exacttarget.com |
-| pages.comms.gumtree.com | pages.virt.exacttarget.com |
 | pages.communications.americangreetings.com | pages.virt.exacttarget.com |
 | pages.crm.sumup.com | pages.virt.exacttarget.com |
 | pages.crmqa.elliemae.io | pages.virt.exacttarget.com |
@@ -2677,7 +2504,6 @@
 | pages.mailer.lemonaidhealth.com | pages.virt.exacttarget.com |
 | pages.mailfredmeyerjewelers.com | pages.virt.exacttarget.com |
 | pages.mc.kempen.com | pages.virt.exacttarget.com |
-| pages.members.angieslist.com | pages.virt.exacttarget.com |
 | pages.message.mundipagg.com | pages.virt.exacttarget.com |
 | pages.messages9.com | pages.virt.exacttarget.com |
 | pages.mortgage.arvest.com | pages.virt.exacttarget.com |
@@ -2700,7 +2526,6 @@
 | pages.reliantneemail.com | pages.virt.exacttarget.com |
 | pages.reminder.bluemountain.com | pages.virt.exacttarget.com |
 | pages.reply.dotfoods.com | pages.virt.exacttarget.com |
-| pages.response2.bestbuy.com | pages.virt.exacttarget.com |
 | pages.rewardzonecerts2.bestbuy.com | pages.virt.exacttarget.com |
 | pages.rnnetworkinfo.com | pages.virt.exacttarget.com |
 | pages.s1.deeplinking.sfmctest.com | pages.virt.exacttarget.com |
@@ -2739,11 +2564,8 @@
 | pages.businessloans.americanexpress.com | pages.virt.s10.exacttarget.com |
 | pages.captainschoice-email.com | pages.virt.s10.exacttarget.com |
 | pages.cataapmail.com | pages.virt.s10.exacttarget.com |
-| pages.clientecaravela.com | pages.virt.s10.exacttarget.com |
 | pages.cn.vw.com | pages.virt.s10.exacttarget.com |
 | pages.cnectgpo-email.com | pages.virt.s10.exacttarget.com |
-| pages.comm.delltechnologies.com | pages.virt.s10.exacttarget.com |
-| pages.commpltfm.aig.com | pages.virt.s10.exacttarget.com |
 | pages.comms.unimelb.edu.au | pages.virt.s10.exacttarget.com |
 | pages.comms.vueling.com | pages.virt.s10.exacttarget.com |
 | pages.communication.toyota.com.au | pages.virt.s10.exacttarget.com |
@@ -2793,8 +2615,6 @@
 | pages.em.nm.com | pages.virt.s10.exacttarget.com |
 | pages.em.northwesternmutual.com | pages.virt.s10.exacttarget.com |
 | pages.em.pepsico.com | pages.virt.s10.exacttarget.com |
-| pages.em.perkins.com | pages.virt.s10.exacttarget.com |
-| pages.em.samsclub.com | pages.virt.s10.exacttarget.com |
 | pages.em.utdallas.edu | pages.virt.s10.exacttarget.com |
 | pages.em.virtualcare.cvs.com | pages.virt.s10.exacttarget.com |
 | pages.em.vw.com | pages.virt.s10.exacttarget.com |
@@ -2828,10 +2648,6 @@
 | pages.email.precisionnutrition.com | pages.virt.s10.exacttarget.com |
 | pages.email.repsol.com | pages.virt.s10.exacttarget.com |
 | pages.email.shopee.co.id | pages.virt.s10.exacttarget.com |
-| pages.email.shopee.com.my | pages.virt.s10.exacttarget.com |
-| pages.email.shopee.ph | pages.virt.s10.exacttarget.com |
-| pages.email.shopee.tw | pages.virt.s10.exacttarget.com |
-| pages.email.shopee.vn | pages.virt.s10.exacttarget.com |
 | pages.email.sunflowerhealthplan.com | pages.virt.s10.exacttarget.com |
 | pages.email.thetileapp.com | pages.virt.s10.exacttarget.com |
 | pages.email.trendyol.com | pages.virt.s10.exacttarget.com |
@@ -2843,7 +2659,6 @@
 | pages.emails.fr.skechers.com | pages.virt.s10.exacttarget.com |
 | pages.emails.nationalgridus.com | pages.virt.s10.exacttarget.com |
 | pages.emails.shopee.com | pages.virt.s10.exacttarget.com |
-| pages.emails.tesla.com | pages.virt.s10.exacttarget.com |
 | pages.emailwerner.com | pages.virt.s10.exacttarget.com |
 | pages.eml.ecobee.com | pages.virt.s10.exacttarget.com |
 | pages.esp.foxnation.com | pages.virt.s10.exacttarget.com |
@@ -2889,7 +2704,6 @@
 | pages.mail.aig.com | pages.virt.s10.exacttarget.com |
 | pages.mail.blueplus.ch | pages.virt.s10.exacttarget.com |
 | pages.mail.c6bank.com.br | pages.virt.s10.exacttarget.com |
-| pages.mail.disneyplus.com | pages.virt.s10.exacttarget.com |
 | pages.mail.expat.hsbc.com | pages.virt.s10.exacttarget.com |
 | pages.mail.homemadesimple.com | pages.virt.s10.exacttarget.com |
 | pages.mail.life.aig.com | pages.virt.s10.exacttarget.com |
@@ -2981,7 +2795,6 @@
 | pages.vn.mkt.grab.com | pages.virt.s10.exacttarget.com |
 | pages.wearetrueu.com | pages.virt.s10.exacttarget.com |
 | pages.web.cvs.com | pages.virt.s10.exacttarget.com |
-| tlwglg9skhdq0s690vllsnsyn0fm.cp-sap.sfmc-content.com | pages.virt.s10.exacttarget.com |
 | pages.a.altrarunning.com | pages.virt.s11.exacttarget.com |
 | pages.a.sephora.com.br | pages.virt.s11.exacttarget.com |
 | pages.account.att-mail.com | pages.virt.s11.exacttarget.com |
@@ -3003,7 +2816,6 @@
 | pages.communities.citigroup.com | pages.virt.s11.exacttarget.com |
 | pages.comunicacao-exame.com | pages.virt.s11.exacttarget.com |
 | pages.connect.att-mail.com | pages.virt.s11.exacttarget.com |
-| pages.contato.serasa.com.br | pages.virt.s11.exacttarget.com |
 | pages.crm.hotmart.com | pages.virt.s11.exacttarget.com |
 | pages.cryptogossip.info | pages.virt.s11.exacttarget.com |
 | pages.debit.affirm.com | pages.virt.s11.exacttarget.com |
@@ -3017,7 +2829,6 @@
 | pages.e.rivian.com | pages.virt.s11.exacttarget.com |
 | pages.e.secureserver.net | pages.virt.s11.exacttarget.com |
 | pages.e.thenorthface.com | pages.virt.s11.exacttarget.com |
-| pages.e.westernunion.com | pages.virt.s11.exacttarget.com |
 | pages.e.worldvision.or.kr | pages.virt.s11.exacttarget.com |
 | pages.e.zoom.us | pages.virt.s11.exacttarget.com |
 | pages.em.honda.com | pages.virt.s11.exacttarget.com |
@@ -3042,7 +2853,6 @@
 | pages.emailfocustreatment.com | pages.virt.s11.exacttarget.com |
 | pages.emailmobiloans.com | pages.virt.s11.exacttarget.com |
 | pages.emails.dickies.com | pages.virt.s11.exacttarget.com |
-| pages.emails.monster.com | pages.virt.s11.exacttarget.com |
 | pages.eml.aerogarden.com | pages.virt.s11.exacttarget.com |
 | pages.engage.virginia.edu | pages.virt.s11.exacttarget.com |
 | pages.eu.burton.com | pages.virt.s11.exacttarget.com |
@@ -3063,7 +2873,6 @@
 | pages.info15.citi.com | pages.virt.s11.exacttarget.com |
 | pages.infomuverang.com | pages.virt.s11.exacttarget.com |
 | pages.internal-np.delltechnologies.com | pages.virt.s11.exacttarget.com |
-| pages.kkr.com | pages.virt.s11.exacttarget.com |
 | pages.lovewellness-email.com | pages.virt.s11.exacttarget.com |
 | pages.maga-supporters.com | pages.virt.s11.exacttarget.com |
 | pages.mail-aiiflorida.com | pages.virt.s11.exacttarget.com |
@@ -3137,11 +2946,7 @@
 | pages.wwmarquis.com | pages.virt.s11.exacttarget.com |
 | pages.xula1925.com | pages.virt.s11.exacttarget.com |
 | tlr144jw2-mk0b42z4lf4n92dgyy.cp-sap.sfmc-content.com | pages.virt.s11.exacttarget.com |
-| pages.email.eero.com | pages.virt.s12.exacttarget.com |
-| pages.comms.upsstore.com | pages.virt.s13.exacttarget.com |
-| pages-cre.capitalone.com | pages.virt.s4.exacttarget.com |
 | pages-csf.capitalone.com | pages.virt.s4.exacttarget.com |
-| pages-tm.capitalone.com | pages.virt.s4.exacttarget.com |
 | pages-wam.capitalone.com | pages.virt.s4.exacttarget.com |
 | pages.1-800-tocover.com | pages.virt.s4.exacttarget.com |
 | pages.a.amaysim.com.au | pages.virt.s4.exacttarget.com |
@@ -3167,7 +2972,6 @@
 | pages.e.underarmour.fr | pages.virt.s4.exacttarget.com |
 | pages.email-aarpdentalplan.com | pages.virt.s4.exacttarget.com |
 | pages.email.abercrombie.com | pages.virt.s4.exacttarget.com |
-| pages.email.aig.com | pages.virt.s4.exacttarget.com |
 | pages.email.betsson.com | pages.virt.s4.exacttarget.com |
 | pages.email.cruisecritic.co.uk | pages.virt.s4.exacttarget.com |
 | pages.email.lookout.com | pages.virt.s4.exacttarget.com |
@@ -3194,7 +2998,6 @@
 | pages.mail.theguardian.com | pages.virt.s4.exacttarget.com |
 | pages.mail.usbank.com | pages.virt.s4.exacttarget.com |
 | pages.marketing.zellepay.com | pages.virt.s4.exacttarget.com |
-| pages.mktcld.salesforce.com | pages.virt.s4.exacttarget.com |
 | pages.myloyaltyreward.com | pages.virt.s4.exacttarget.com |
 | pages.news.bmo.com | pages.virt.s4.exacttarget.com |
 | pages.news.infotainment.siriusxm.com | pages.virt.s4.exacttarget.com |
@@ -3234,7 +3037,6 @@
 | pages.mail.neighborhoodlending.bankofamerica.com | pages.virt.s5.exacttarget.com |
 | pages.allerganaestheticsgulf.com | pages.virt.s50.exacttarget.com |
 | pages.alpitourworld-digital.com | pages.virt.s50.exacttarget.com |
-| pages.azafinance.com | pages.virt.s50.exacttarget.com |
 | pages.b2b.deliveroo.com | pages.virt.s50.exacttarget.com |
 | pages.belfiusdirect.be | pages.virt.s50.exacttarget.com |
 | pages.boletines.helvetia.es | pages.virt.s50.exacttarget.com |
@@ -3246,7 +3048,6 @@
 | pages.communication.telia.ee | pages.virt.s50.exacttarget.com |
 | pages.communication.volkswagen.de | pages.virt.s50.exacttarget.com |
 | pages.comunica.ocu.org | pages.virt.s50.exacttarget.com |
-| pages.concierge.sodexo.com | pages.virt.s50.exacttarget.com |
 | pages.connect.dev.etoro.com | pages.virt.s50.exacttarget.com |
 | pages.contact.new10.com | pages.virt.s50.exacttarget.com |
 | pages.crm.ba.com | pages.virt.s50.exacttarget.com |
@@ -3331,10 +3132,8 @@
 | pages.link.youfoodz.com | pages.virt.s50.exacttarget.com |
 | pages.loans.latitudefinancial.com.au | pages.virt.s50.exacttarget.com |
 | pages.mail-hotelesrh.com | pages.virt.s50.exacttarget.com |
-| pages.mail.axappphealthcare.co.uk | pages.virt.s50.exacttarget.com |
 | pages.mail.betmgm.com | pages.virt.s50.exacttarget.com |
 | pages.mail.etos.nl | pages.virt.s50.exacttarget.com |
-| pages.mail.immobilienscout24.de | pages.virt.s50.exacttarget.com |
 | pages.mail.parcel.dhl.be | pages.virt.s50.exacttarget.com |
 | pages.mail.parcel.dhl.nl | pages.virt.s50.exacttarget.com |
 | pages.mail.smunch.co | pages.virt.s50.exacttarget.com |
@@ -3405,9 +3204,7 @@
 | pages.bbcamerica.bbc.com | pages.virt.s6.exacttarget.com |
 | pages.bbcgames.bbc.com | pages.virt.s6.exacttarget.com |
 | pages.bbcgoodfood.bbc.com | pages.virt.s6.exacttarget.com |
-| pages.blog.trivago.com | pages.virt.s6.exacttarget.com |
 | pages.brokernews.chubbinsurance.ca | pages.virt.s6.exacttarget.com |
-| pages.business.trivago.com | pages.virt.s6.exacttarget.com |
 | pages.campaign.sonepar-us.com | pages.virt.s6.exacttarget.com |
 | pages.cchemail.com | pages.virt.s6.exacttarget.com |
 | pages.corp.homecenter.com.co | pages.virt.s6.exacttarget.com |
@@ -3441,31 +3238,25 @@
 | pages.email.gapinc.com | pages.virt.s6.exacttarget.com |
 | pages.email.kayoutlet.com | pages.virt.s6.exacttarget.com |
 | pages.email.lindtusa.com | pages.virt.s6.exacttarget.com |
-| pages.email.mypharmacy.shoppersdrugmart.ca | pages.virt.s6.exacttarget.com |
 | pages.email.nbnco.com.au | pages.virt.s6.exacttarget.com |
-| pages.email.nyse.com | pages.virt.s6.exacttarget.com |
 | pages.email.pernod-ricard-argentina.com | pages.virt.s6.exacttarget.com |
 | pages.email.suunto.com | pages.virt.s6.exacttarget.com |
 | pages.email.trivago.com | pages.virt.s6.exacttarget.com |
 | pages.email.universalstudioshollywood.com | pages.virt.s6.exacttarget.com |
-| pages.email.vonage.com | pages.virt.s6.exacttarget.com |
 | pages.email.yeezy.gap.com | pages.virt.s6.exacttarget.com |
 | pages.email1.avery.com | pages.virt.s6.exacttarget.com |
 | pages.emails-weddingwire.com | pages.virt.s6.exacttarget.com |
-| pages.emails.pcinsurance.ca | pages.virt.s6.exacttarget.com |
 | pages.emailsabcautoinsurance.com | pages.virt.s6.exacttarget.com |
 | pages.emailsprojectwedding.com | pages.virt.s6.exacttarget.com |
 | pages.emea.invisalign.com | pages.virt.s6.exacttarget.com |
 | pages.eml.web.com | pages.virt.s6.exacttarget.com |
 | pages.events.absolut.com | pages.virt.s6.exacttarget.com |
 | pages.hcp.reckitt.com | pages.virt.s6.exacttarget.com |
-| pages.hotelmanager.trivago.com | pages.virt.s6.exacttarget.com |
 | pages.info.centauro.com.br | pages.virt.s6.exacttarget.com |
 | pages.info.invisalign.com | pages.virt.s6.exacttarget.com |
 | pages.info.itero.com | pages.virt.s6.exacttarget.com |
 | pages.latam.invisalign.com | pages.virt.s6.exacttarget.com |
 | pages.mail-pensionmark.com | pages.virt.s6.exacttarget.com |
-| pages.mail.globalassethub.sonypictures.com | pages.virt.s6.exacttarget.com |
 | pages.mail.hipages.com.au | pages.virt.s6.exacttarget.com |
 | pages.mail.luxuryretreats.com | pages.virt.s6.exacttarget.com |
 | pages.mail.statefarm.com | pages.virt.s6.exacttarget.com |
@@ -3577,7 +3368,6 @@
 | pages.edm.colonialfirststate.com.au | pages.virt.s7.exacttarget.com |
 | pages.ee.delta.com | pages.virt.s7.exacttarget.com |
 | pages.em-commercial.keurig.com | pages.virt.s7.exacttarget.com |
-| pages.em.battle.net | pages.virt.s7.exacttarget.com |
 | pages.em.drpepper.com | pages.virt.s7.exacttarget.com |
 | pages.em.funimation.com | pages.virt.s7.exacttarget.com |
 | pages.em.keurig.ca | pages.virt.s7.exacttarget.com |
@@ -3587,11 +3377,9 @@
 | pages.email-uway.org | pages.virt.s7.exacttarget.com |
 | pages.email-wwt.com | pages.virt.s7.exacttarget.com |
 | pages.email.amazongames.com | pages.virt.s7.exacttarget.com |
-| pages.email.booztlet.com | pages.virt.s7.exacttarget.com |
 | pages.email.ccm.com | pages.virt.s7.exacttarget.com |
 | pages.email.cedars-sinai.edu | pages.virt.s7.exacttarget.com |
 | pages.email.compassion.com.au | pages.virt.s7.exacttarget.com |
-| pages.email.coupons.cnn.com | pages.virt.s7.exacttarget.com |
 | pages.email.coupons.nine.com.au | pages.virt.s7.exacttarget.com |
 | pages.email.eqbank.ca | pages.virt.s7.exacttarget.com |
 | pages.email.extension.psu.edu | pages.virt.s7.exacttarget.com |
@@ -3604,8 +3392,6 @@
 | pages.email.myccmortgage.com | pages.virt.s7.exacttarget.com |
 | pages.email.nn-group.com | pages.virt.s7.exacttarget.com |
 | pages.email.opentable.co.uk | pages.virt.s7.exacttarget.com |
-| pages.email.opentable.com.au | pages.virt.s7.exacttarget.com |
-| pages.email.opentable.de | pages.virt.s7.exacttarget.com |
 | pages.email.pcoptimum.ca | pages.virt.s7.exacttarget.com |
 | pages.email.planetfitness.com | pages.virt.s7.exacttarget.com |
 | pages.email.popular.com | pages.virt.s7.exacttarget.com |
@@ -3616,7 +3402,6 @@
 | pages.email.subito.it | pages.virt.s7.exacttarget.com |
 | pages.email.surface.com | pages.virt.s7.exacttarget.com |
 | pages.email.vakantiediscounter.nl | pages.virt.s7.exacttarget.com |
-| pages.email.wealthsimple.com | pages.virt.s7.exacttarget.com |
 | pages.email.whirlpool.eu | pages.virt.s7.exacttarget.com |
 | pages.email1.harristeeter.com | pages.virt.s7.exacttarget.com |
 | pages.email2.office.com | pages.virt.s7.exacttarget.com |
@@ -3703,7 +3488,6 @@
 | pages.n.ebookers.com | pages.virt.s7.exacttarget.com |
 | pages.news.armanibeauty.com.my | pages.virt.s7.exacttarget.com |
 | pages.news.armanibeauty.com.sg | pages.virt.s7.exacttarget.com |
-| pages.news.axa.com.hk | pages.virt.s7.exacttarget.com |
 | pages.news.bioritmo.com.br | pages.virt.s7.exacttarget.com |
 | pages.news.cerave.com.vn | pages.virt.s7.exacttarget.com |
 | pages.news.daraz.com | pages.virt.s7.exacttarget.com |
@@ -3738,7 +3522,6 @@
 | pages.offers.neteller.com | pages.virt.s7.exacttarget.com |
 | pages.ohiobaremail.org | pages.virt.s7.exacttarget.com |
 | pages.oncologymail.novartis.com | pages.virt.s7.exacttarget.com |
-| pages.ownerservices.onstar.com | pages.virt.s7.exacttarget.com |
 | pages.personalhealth.philips.com | pages.virt.s7.exacttarget.com |
 | pages.personalwealthmanagement.citi.com | pages.virt.s7.exacttarget.com |
 | pages.pf.ifit.com | pages.virt.s7.exacttarget.com |
@@ -3771,7 +3554,6 @@
 | pages.support.bualuang.co.th | pages.virt.s7.exacttarget.com |
 | pages.t.clearme.com | pages.virt.s7.exacttarget.com |
 | pages.t.zoro.com | pages.virt.s7.exacttarget.com |
-| pages.talent.intuit.com | pages.virt.s7.exacttarget.com |
 | pages.teammatecomms.underarmour.com | pages.virt.s7.exacttarget.com |
 | pages.teamzakelijk.essent.nl | pages.virt.s7.exacttarget.com |
 | pages.th-kcc.com | pages.virt.s7.exacttarget.com |
@@ -3904,7 +3686,6 @@
 | cloud.e.oneplatform.com.hk | pub.s10.exacttarget.com |
 | cloud.e.opendoors.org.nz | pub.s10.exacttarget.com |
 | cloud.easternct-email.com | pub.s10.exacttarget.com |
-| cloud.elcompanies.com | pub.s10.exacttarget.com |
 | cloud.em.dignityhealth.org | pub.s10.exacttarget.com |
 | cloud.em.fritolay.com | pub.s10.exacttarget.com |
 | cloud.em.gatorade.com | pub.s10.exacttarget.com |
@@ -3947,7 +3728,6 @@
 | cloud.emails.adidasheadphones.com | pub.s10.exacttarget.com |
 | cloud.emails.silverts.com | pub.s10.exacttarget.com |
 | cloud.emailtitletown.com | pub.s10.exacttarget.com |
-| cloud.enews.telekom.de | pub.s10.exacttarget.com |
 | cloud.enews.wgvu.org | pub.s10.exacttarget.com |
 | cloud.fcaindiagroup.com | pub.s10.exacttarget.com |
 | cloud.hannamfertility-email.com | pub.s10.exacttarget.com |
@@ -3964,7 +3744,6 @@
 | cloud.livingwell-email.com | pub.s10.exacttarget.com |
 | cloud.mail-loanme.com | pub.s10.exacttarget.com |
 | cloud.mail-thestrivegroup.com | pub.s10.exacttarget.com |
-| cloud.mail.aig.com | pub.s10.exacttarget.com |
 | cloud.mail.goldsgym.jp | pub.s10.exacttarget.com |
 | cloud.mail.homemadesimple.com | pub.s10.exacttarget.com |
 | cloud.mail.online.villanova.edu | pub.s10.exacttarget.com |
@@ -4008,7 +3787,6 @@
 | cloud.service.ace.co.uk | pub.s10.exacttarget.com |
 | cloud.service.studio.co.uk | pub.s10.exacttarget.com |
 | cloud.sf.laplinkemail.com | pub.s10.exacttarget.com |
-| cloud.sfdcemail.massmutual.com | pub.s10.exacttarget.com |
 | cloud.sfe.howardhanna.com | pub.s10.exacttarget.com |
 | cloud.smartusa-email.com | pub.s10.exacttarget.com |
 | cloud.study.griffith.edu.au | pub.s10.exacttarget.com |
@@ -4047,7 +3825,6 @@
 | cloud.asesor-comercialdeseguros.com | pub.s11.exacttarget.com |
 | cloud.ayush-herbs.com | pub.s11.exacttarget.com |
 | cloud.bh-pages-ja.fujifilm.com | pub.s11.exacttarget.com |
-| cloud.bullish.com | pub.s11.exacttarget.com |
 | cloud.buzzpoints-email.com | pub.s11.exacttarget.com |
 | cloud.casitatraveltrailers-email.com | pub.s11.exacttarget.com |
 | cloud.castaway-email.com | pub.s11.exacttarget.com |
@@ -4273,7 +4050,6 @@
 | cloud.news.tsgco.com | pub.s12.exacttarget.com |
 | cloud.notices.cvs.com | pub.s12.exacttarget.com |
 | cloud.outreach.cares.cwds.ca.gov | pub.s12.exacttarget.com |
-| cloud.partner.nianticlabs.com | pub.s12.exacttarget.com |
 | cloud.relacionamento.rodobens.com | pub.s12.exacttarget.com |
 | cloud.sales.wellnessextract.org | pub.s12.exacttarget.com |
 | cloud.salesforce.copel.com | pub.s12.exacttarget.com |
@@ -4495,14 +4271,12 @@
 | pub.e.trivago.com | pub.s6.exacttarget.com |
 | pub.email-ccservicing.com | pub.s6.exacttarget.com |
 | pub.email.mypharmacy.shoppersdrugmart.ca | pub.s6.exacttarget.com |
-| pub.email.nyse.com | pub.s6.exacttarget.com |
 | pub.email.wheeloffortune.com | pub.s6.exacttarget.com |
 | pub.hotelmanager.trivago.com | pub.s6.exacttarget.com |
 | pub.personalloans.discover.com | pub.s6.exacttarget.com |
 | pub.s.offaisle.com | pub.s6.exacttarget.com |
 | pub.uq.uniqlo.com.my | pub.s6.exacttarget.com |
 | web.e.equifax.com | pub.s6.exacttarget.com |
-| click.pilotflyingj.com | pub.s7.exacttarget.com |
 | cloud.apma.novartis.com | pub.s7.exacttarget.com |
 | cloud.bimi.decathlon.com | pub.s7.exacttarget.com |
 | cloud.bulldogsmail.com.au | pub.s7.exacttarget.com |
@@ -4512,7 +4286,6 @@
 | cloud.connect.udayton.edu | pub.s7.exacttarget.com |
 | cloud.crm-cervezapatagonia-ar.com | pub.s7.exacttarget.com |
 | cloud.crm-stellaartois-ar.com | pub.s7.exacttarget.com |
-| cloud.customers.decathlon.com | pub.s7.exacttarget.com |
 | cloud.e.carnet.vw.com | pub.s7.exacttarget.com |
 | cloud.e.clifbar.com | pub.s7.exacttarget.com |
 | cloud.e.gap.ae | pub.s7.exacttarget.com |
@@ -4560,7 +4333,6 @@
 | cloud.psepr-mail.com | pub.s7.exacttarget.com |
 | cloud.renoaces-mail.com | pub.s7.exacttarget.com |
 | cloud.repmail-sunpharma.com | pub.s7.exacttarget.com |
-| cloud.s7.sfmctest.com | pub.s7.exacttarget.com |
 | cloud.sfmc-staging.upstart.com | pub.s7.exacttarget.com |
 | cloud.unitedwayofshr.com | pub.s7.exacttarget.com |
 | cloud.uwwesternct-email.com | pub.s7.exacttarget.com |
@@ -4571,7 +4343,6 @@
 | mail.odfw.com | pub.s7.exacttarget.com |
 | pages.leenbakker.be | pub.s7.exacttarget.com |
 | pages.menulog.com.au | pub.s7.exacttarget.com |
-| pages.nl.abbvie.com | pub.s7.exacttarget.com |
 | pages.no.abbvie.com | pub.s7.exacttarget.com |
 | pages.se.abbvie.com | pub.s7.exacttarget.com |
 | pages.vikings.com | pub.s7.exacttarget.com |
@@ -4645,7 +4416,6 @@
 | pub.nl.coop.ch | pub.s7.exacttarget.com |
 | pub.oe.target.com | pub.s7.exacttarget.com |
 | pub.ohiobaremail.org | pub.s7.exacttarget.com |
-| pub.ownerservices.onstar.com | pub.s7.exacttarget.com |
 | pub.personalwealthmanagement.citi.com | pub.s7.exacttarget.com |
 | pub.rimsmail.tr.mufg.jp | pub.s7.exacttarget.com |
 | pub.rosedalecountryclub-email.com | pub.s7.exacttarget.com |
@@ -4657,7 +4427,6 @@
 | pub.services.totaloil.com.ph | pub.s7.exacttarget.com |
 | pub.sfwateroutreach.org | pub.s7.exacttarget.com |
 | pub.smc.otpn.jp | pub.s7.exacttarget.com |
-| pub.talent.intuit.com | pub.s7.exacttarget.com |
 | pub.teamzakelijk.essent.nl | pub.s7.exacttarget.com |
 | pub.trade.carnival.com | pub.s7.exacttarget.com |
 | pub.transcosmos-email.com | pub.s7.exacttarget.com |
@@ -4679,7 +4448,6 @@
 | email.news-press.com | reply.exacttarget.com |
 | email.tenthousandvillages.com | reply.exacttarget.com |
 | enews.bnpmedia.com | reply.exacttarget.com |
-| et.britannica.com | reply.exacttarget.com |
 | reply.acdnewsletters.com | reply.exacttarget.com |
 | reply.anthem.com | reply.exacttarget.com |
 | reply.arcticcat.com | reply.exacttarget.com |
@@ -4780,18 +4548,10 @@
 | 10480.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
 | 10592.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
 | 1424.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
-| 16405.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
 | 16986.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
 | 17133.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
-| 24187.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
-| 28917.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
+| 26335.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
 | 3917.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
-| 5686.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
-| 7017.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
-| 8387.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
-| 8793.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
-| 9770.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
-| 9774.sfap-qa1.marketingcloudqaops.com | sfap.s1.qa1.exacttarget.com |
 | 10002.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
 | 10035.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
 | 10039.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
@@ -4838,22 +4598,12 @@
 | 10439.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
 | 10464.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
 | 10556.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 10575.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
 | 10827.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
 | 12807.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 1447.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 24964.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 25158.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
+| 17367.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
 | 3815.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 4620.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 5700.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 6357.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 639.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 6835.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 8430.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 8891.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
+| 573.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
 | 8910.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
-| 9626.sock-qa1.marketingcloudqaops.com | sock.s1.qa1.exacttarget.com |
 | view.mailkutxabank.es | tl01t19mzjy71mtgfj4w8zccr5m4.view-sap.sfmc-marketing.com |
 | cloud.dealers-mazdausa.com | tl2ympcpvd-sn4-0wbq03p7bxgky.cp-sap.sfmc-content.com |
 | click.partnernewsemail.xerox.com | tl5p7trq81xslb3qr9mwq5kxt1f1.click-sap.sfmc-marketing.com |
@@ -4926,6 +4676,7 @@
 | view.edm.nothing.tech | view.s12.exacttarget.com |
 | view.edu.wcei.net | view.s12.exacttarget.com |
 | view.education.dispatchhealth.com | view.s12.exacttarget.com |
+| view.eg.wotif.com | view.s12.exacttarget.com |
 | view.em-parallelwireless.com | view.s12.exacttarget.com |
 | view.em.www.cloudflare.com | view.s12.exacttarget.com |
 | view.email-arionkoder.com | view.s12.exacttarget.com |
@@ -5083,7 +4834,6 @@
 | view.zurich.com | view.s12.exacttarget.com |
 | tl-yy0yfbdjt1h7cp-738n73mdn4.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
 | tl03lncpszx6pxxlhjhmlftz70w4.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
-| tl1rc931j57tjvvb0s0h2sssbtx4.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
 | tl2ckfmb9nldsn6k4rypt9g16tz8.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
 | tl4-2pny29672w0r24l4zndy3n31.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
 | tl6pdrmz2ls4635wqh7dr7htxg31.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
@@ -5094,7 +4844,6 @@
 | tlh8bjgj766q70956mvk2-ymrqn1.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
 | tlhx2yk9nl3d0mf7d81q2th9hdkm.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
 | tljfrg832wvdsxyqkytc602c1kc0.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
-| tlm0zp3-rr23hn-jcdclrv0wg8m8.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
 | tlphb7939hn2mb24kd9hrtcghgfy.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
 | tlq299qw6td4wmhm20nbc7dqnj60.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
 | tlqfj96t940j18szc572rmm9gfxy.view-sap.sfmc-marketing.com | view.s13.exacttarget.com |
@@ -5131,7 +4880,6 @@
 | view.your.eaglesightinvesting.com | view.s13.exacttarget.com |
 | view.s2.qa2.sfmctest.com | view.s2.qa2.exacttarget.com |
 | view.qa1s4-test-migration-1.sfmc-tlsprovisioningqa.com | view.s4.qa1.exacttarget.com |
-| tllrmq3sbw5f-lnz-kk32cccbyn1.view-sap.sfmc-marketing.com | view.s51.exacttarget.com |
 | tlm5jq6n46pfv8l6y9p3jk0pmr34.view-sap.sfmc-marketing.com | view.s51.exacttarget.com |
 | tlmv17hr-qnqh31nrzfkq8snhyf8.view-sap.sfmc-marketing.com | view.s51.exacttarget.com |
 | tlxmwkyb83n1zyxmjs1zq92g4b2q.view-sap.sfmc-marketing.com | view.s51.exacttarget.com |
@@ -5518,7 +5266,6 @@
 | view.rewardzonecerts2.bestbuy.com | view.virt.exacttarget.com |
 | view.rssc-email.com | view.virt.exacttarget.com |
 | view.s1.deeplinking.sfmctest.com | view.virt.exacttarget.com |
-| view.s1.pilot.itmta-test.com | view.virt.exacttarget.com |
 | view.s1.qa1.deeplinking.sfmctest.com | view.virt.exacttarget.com |
 | view.s1.sfmctest.com | view.virt.exacttarget.com |
 | view.s3.qa1.deeplinking.sfmctest.com | view.virt.exacttarget.com |
@@ -5621,7 +5368,6 @@
 | view.e.cgsignlab.com | view.virt.s10.exacttarget.com |
 | view.e.cloroxpool.com | view.virt.s10.exacttarget.com |
 | view.e.fox13news.com | view.virt.s10.exacttarget.com |
-| view.e.fox2detroit.com | view.virt.s10.exacttarget.com |
 | view.e.fox5dc.com | view.virt.s10.exacttarget.com |
 | view.e.fox9.com | view.virt.s10.exacttarget.com |
 | view.e.foxla.com | view.virt.s10.exacttarget.com |
@@ -5633,7 +5379,6 @@
 | view.e.virginvoyages.com | view.virt.s10.exacttarget.com |
 | view.elcompanies.com | view.virt.s10.exacttarget.com |
 | view.em.dometic.com | view.virt.s10.exacttarget.com |
-| view.em.fritolay.com | view.virt.s10.exacttarget.com |
 | view.em.gamestop.com | view.virt.s10.exacttarget.com |
 | view.em.mountaindew.com | view.virt.s10.exacttarget.com |
 | view.em.utdallas.edu | view.virt.s10.exacttarget.com |
@@ -5753,7 +5498,6 @@
 | view.loews-emails.com | view.virt.s10.exacttarget.com |
 | view.lovestevensinger.com | view.virt.s10.exacttarget.com |
 | view.lucasfoxsuccess.com | view.virt.s10.exacttarget.com |
-| view.lxpc.expedia.com | view.virt.s10.exacttarget.com |
 | view.m-gvokeglucagon.com | view.virt.s10.exacttarget.com |
 | view.m.solarturbines.com | view.virt.s10.exacttarget.com |
 | view.ma.stripe-club.com | view.virt.s10.exacttarget.com |
@@ -5854,7 +5598,6 @@
 | view.smartusa-email.com | view.virt.s10.exacttarget.com |
 | view.smc2.spectrumhealth.org | view.virt.s10.exacttarget.com |
 | view.studysky.com.br | view.virt.s10.exacttarget.com |
-| view.symphonic-email.com | view.virt.s10.exacttarget.com |
 | view.t.quickenloans.com | view.virt.s10.exacttarget.com |
 | view.tachipalaceclub.com | view.virt.s10.exacttarget.com |
 | view.tacomahousing.email | view.virt.s10.exacttarget.com |
@@ -6222,7 +5965,7 @@
 | view.zen-place.jp | view.virt.s11.exacttarget.com |
 | view.zero-markets.com | view.virt.s11.exacttarget.com |
 | www.streaming.view.s11.sfmc-osl.com | view.virt.s11.exacttarget.com |
-| view.communications.upsstore.com | view.virt.s13.exacttarget.com |
+| view.eg.wotif.com | view.virt.s12.exacttarget.com |
 | tlydszdppn1-njylmkc606jsllzq.view-sap.sfmc-marketing.com | view.virt.s4.exacttarget.com |
 | view-cre.capitalone.com | view.virt.s4.exacttarget.com |
 | view-csf.capitalone.com | view.virt.s4.exacttarget.com |
@@ -6254,7 +5997,6 @@
 | view.digital.halldata.com | view.virt.s4.exacttarget.com |
 | view.dropboxteam.com | view.virt.s4.exacttarget.com |
 | view.e.abbvie.com | view.virt.s4.exacttarget.com |
-| view.e.ayco.com | view.virt.s4.exacttarget.com |
 | view.e.bonds.com.au | view.virt.s4.exacttarget.com |
 | view.e.colehaan.com | view.virt.s4.exacttarget.com |
 | view.e.domayne.com | view.virt.s4.exacttarget.com |
@@ -6266,7 +6008,6 @@
 | view.email-fisherpaykel.com | view.virt.s4.exacttarget.com |
 | view.email-ubyuniworld.com | view.virt.s4.exacttarget.com |
 | view.email.6pm.com | view.virt.s4.exacttarget.com |
-| view.email.abercrombie.com | view.virt.s4.exacttarget.com |
 | view.email.aetnasbc.com | view.virt.s4.exacttarget.com |
 | view.email.aig.com | view.virt.s4.exacttarget.com |
 | view.email.betterment.com | view.virt.s4.exacttarget.com |
@@ -6373,7 +6114,6 @@
 | view.produv.abbvie.com | view.virt.s4.exacttarget.com |
 | view.prohsm.abbvie.com | view.virt.s4.exacttarget.com |
 | view.prokl.abbvie.com | view.virt.s4.exacttarget.com |
-| view.prolp.abbvie.com | view.virt.s4.exacttarget.com |
 | view.proonc.abbvie.com | view.virt.s4.exacttarget.com |
 | view.prosi.abbvie.com | view.virt.s4.exacttarget.com |
 | view.prosn.abbvie.com | view.virt.s4.exacttarget.com |
@@ -6513,11 +6253,11 @@
 | view.info.jomalone.co.uk | view.virt.s50.exacttarget.com |
 | view.info.logistadis.com | view.virt.s50.exacttarget.com |
 | view.info.mutuelle-mbtp.com | view.virt.s50.exacttarget.com |
+| view.info.rewire.to | view.virt.s50.exacttarget.com |
 | view.info.skoda.se | view.virt.s50.exacttarget.com |
 | view.krefel-mail.be | view.virt.s50.exacttarget.com |
 | view.leolandiadigital.it | view.virt.s50.exacttarget.com |
 | view.level.centralmediacsoport.hu | view.virt.s50.exacttarget.com |
-| view.mail.axappphealthcare.co.uk | view.virt.s50.exacttarget.com |
 | view.mail.barometern.se | view.virt.s50.exacttarget.com |
 | view.mail.betmgm.com | view.virt.s50.exacttarget.com |
 | view.mail.borbonese.com | view.virt.s50.exacttarget.com |
@@ -6735,7 +6475,6 @@
 | view.emails.bigw.com.au | view.virt.s6.exacttarget.com |
 | view.emails.brooksbrothers.com | view.virt.s6.exacttarget.com |
 | view.emails.business.com | view.virt.s6.exacttarget.com |
-| view.emails.comparethemarket.com | view.virt.s6.exacttarget.com |
 | view.emails.pcinsurance.ca | view.virt.s6.exacttarget.com |
 | view.emails.themobileshop.ca | view.virt.s6.exacttarget.com |
 | view.emails.wyndhamhotelgroup.com | view.virt.s6.exacttarget.com |
@@ -6893,7 +6632,6 @@
 | view.deutscheawm.db.com | view.virt.s7.exacttarget.com |
 | view.deutschebankwm.db.com | view.virt.s7.exacttarget.com |
 | view.dexcom-email.com | view.virt.s7.exacttarget.com |
-| view.digital-solutions.man | view.virt.s7.exacttarget.com |
 | view.drfmail.com | view.virt.s7.exacttarget.com |
 | view.e-mail.crayola.com | view.virt.s7.exacttarget.com |
 | view.e-melbourneairport.com.au | view.virt.s7.exacttarget.com |
@@ -6963,7 +6701,6 @@
 | view.email.chickentreat.com.au | view.virt.s7.exacttarget.com |
 | view.email.churchofjesuschrist.org | view.virt.s7.exacttarget.com |
 | view.email.coupons.cnn.com | view.virt.s7.exacttarget.com |
-| view.email.coupons.com | view.virt.s7.exacttarget.com |
 | view.email.craftsman.ca | view.virt.s7.exacttarget.com |
 | view.email.crazy8.com | view.virt.s7.exacttarget.com |
 | view.email.cuponation.com | view.virt.s7.exacttarget.com |
@@ -7015,7 +6752,6 @@
 | view.email.wealthsimple.com | view.virt.s7.exacttarget.com |
 | view.email.windows.com | view.virt.s7.exacttarget.com |
 | view.email2-gowireless.com | view.virt.s7.exacttarget.com |
-| view.email2.microsoft.com | view.virt.s7.exacttarget.com |
 | view.email2.office.com | view.virt.s7.exacttarget.com |
 | view.emailcoral.co.uk | view.virt.s7.exacttarget.com |
 | view.emaillq-lincoln.com | view.virt.s7.exacttarget.com |
@@ -7107,7 +6843,6 @@
 | view.mailndb.bbva.com | view.virt.s7.exacttarget.com |
 | view.mails.glenans.asso.fr | view.virt.s7.exacttarget.com |
 | view.marketing-sportsmansguide.com | view.virt.s7.exacttarget.com |
-| view.marketing.saldogestion.com | view.virt.s7.exacttarget.com |
 | view.marketingmail.truckstop.com | view.virt.s7.exacttarget.com |
 | view.mc-taylormadeproducts.com | view.virt.s7.exacttarget.com |
 | view.mcld.salesforce.com | view.virt.s7.exacttarget.com |

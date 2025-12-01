@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -965,7 +965,6 @@ tr.newsletter.younited-credit.com CNAME .
 tr.newsletters-bonpoint.com CNAME .
 tr.newsletters.coedition-contact.fr CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
-tr.newsletters.qapa-interim.fr CNAME .
 tr.newsletters.rmcbfm.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
 tr.nl.2wls.net CNAME .
@@ -1249,9 +1248,9 @@ f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
 f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
-lbv5.mperf.com CNAME .
 www.bfc-mp.caisse-epargne.fr CNAME .
 f1.mperf.com CNAME .
+lbv5.mperf.com CNAME .
 s.gemy.fr CNAME .
 s.np6.com CNAME .
 www.lgch.mp CNAME .

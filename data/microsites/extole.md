@@ -270,6 +270,7 @@
     * extoleu.extole.io
     * familysavingscu.extole.io
     * fastbridgefiber.extole.io
+    * fellahealth.extole.io
     * fetchpet.extole.io
     * fingercheck.extole.io
     * first-aid-beauty.extole.io
@@ -843,6 +844,7 @@
 | social.fabkids.com | fabkids-ssl.extole.com |
 | refer.familysavingscu.com | familysavingscu.extole.io |
 | share.fastbridgefiber.com | fastbridgefiber.extole.io |
+| refer.fellahealth.com | fellahealth.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
 | refer.firstaidbeauty.com | first-aid-beauty.extole.io |

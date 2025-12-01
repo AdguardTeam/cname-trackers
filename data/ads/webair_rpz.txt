@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -578,7 +578,6 @@ filter.mymedia.club CNAME .
 filter.mywaymedia.co CNAME .
 filter.nativeadsfeed.com CNAME .
 filter.nexrtb.com CNAME .
-filter.onemediawork.com CNAME .
 filter.online-adnetwork.com CNAME .
 filter.optumads.com CNAME .
 filter.pensarmedia.com CNAME .
@@ -862,7 +861,6 @@ login.topdealad.com CNAME .
 login.trackifyy.com CNAME .
 login.trafficmoose.com CNAME .
 login.trinytymedia.com CNAME .
-login.ugihub.com CNAME .
 login.unibots.in CNAME .
 login.vespymedia.com CNAME .
 login.waardex.com CNAME .
@@ -947,7 +945,6 @@ rtb-apac-v4.affinity.net CNAME .
 rtb-apac-v4.afkwa.com CNAME .
 rtb-apac-v4.agilitydigitalmedia.com CNAME .
 rtb-apac-v4.aserve1.net CNAME .
-rtb-apac-v4.broadadx.com CNAME .
 rtb-apac-v4.chocolateplatform.com CNAME .
 rtb-apac-v4.clickmi.net CNAME .
 rtb-apac-v4.cpmme.com CNAME .
@@ -999,7 +996,6 @@ rtb-apac.aserve1.net CNAME .
 rtb-apac.bidderads.com CNAME .
 rtb-apac.bidmyqps.xyz CNAME .
 rtb-apac.boffoadsapi.com CNAME .
-rtb-apac.broadadx.com CNAME .
 rtb-apac.chocolateplatform.com CNAME .
 rtb-apac.convergeselect.net CNAME .
 rtb-apac.creativedot.net CNAME .
@@ -1024,6 +1020,7 @@ rtb-apac.rtbfactory.com CNAME .
 rtb-apac.rtbflairads.com CNAME .
 rtb-apac.rtbplatform.net CNAME .
 rtb-apac.rtbserve.io CNAME .
+rtb-apac.strongmetrics.io CNAME .
 rtb-apac.unibots.in CNAME .
 rtb-apac.voisetech.com CNAME .
 rtb-apac.wxadserve.xyz CNAME .
@@ -1607,10 +1604,12 @@ sm-rtb-useast.zmdvideo.com CNAME .
 staging.yeesshh.com CNAME .
 static-rtb2.affinity.net CNAME .
 static-rtb2.branchdsp.io CNAME .
+static-rtb2.jambojar.com CNAME .
 static-rtb2.n-data.io CNAME .
 static-rtb2.newchallenges-dsp.com CNAME .
 static-rtb2.reachableads.com CNAME .
 static.adright.co CNAME .
+static.adsolut.in CNAME .
 static.aserve1.net CNAME .
 static.creativedot.net CNAME .
 static.displayio.cloud CNAME .
@@ -1684,6 +1683,7 @@ tq.dkswshap-3.online CNAME .
 tq.eopuzol1.online CNAME .
 tq.fdkox-b.online CNAME .
 tq.fdkox-d.online CNAME .
+tq.flowldsb.online CNAME .
 tq.foseller-a.online CNAME .
 tq.foseller-c.online CNAME .
 tq.foseller-d.online CNAME .
@@ -1812,6 +1812,7 @@ xml-eu-v4.adtapmedia.com CNAME .
 xml-eu-v4.adtube.media CNAME .
 xml-eu-v4.adverttise.com CNAME .
 xml-eu-v4.advlistings.com CNAME .
+xml-eu-v4.adxcircle.com CNAME .
 xml-eu-v4.adxpoint.com CNAME .
 xml-eu-v4.adzgame.com CNAME .
 xml-eu-v4.adzinx.com CNAME .
@@ -1861,6 +1862,7 @@ xml-eu-v4.ezmob.com CNAME .
 xml-eu-v4.fdkox-b.online CNAME .
 xml-eu-v4.fdkox-c.online CNAME .
 xml-eu-v4.fdkox-d.online CNAME .
+xml-eu-v4.flowldsb.online CNAME .
 xml-eu-v4.flurryad.com CNAME .
 xml-eu-v4.fmlabsonline.com CNAME .
 xml-eu-v4.foseller-a.online CNAME .
@@ -1898,7 +1900,6 @@ xml-eu-v4.mywaymedia.co CNAME .
 xml-eu-v4.newbluetrue.xyz CNAME .
 xml-eu-v4.nexrtb.com CNAME .
 xml-eu-v4.oceanfall.xyz CNAME .
-xml-eu-v4.onemediawork.com CNAME .
 xml-eu-v4.optargone-3.online CNAME .
 xml-eu-v4.optumads.com CNAME .
 xml-eu-v4.outpush.net CNAME .
@@ -1908,6 +1909,7 @@ xml-eu-v4.programmaticnexus.com CNAME .
 xml-eu-v4.pubsfusion.com CNAME .
 xml-eu-v4.pushub.net CNAME .
 xml-eu-v4.pwr-ads.com CNAME .
+xml-eu-v4.qovolta.com CNAME .
 xml-eu-v4.qualiclicks.com CNAME .
 xml-eu-v4.re-media.info CNAME .
 xml-eu-v4.regalrisemedia.com CNAME .
@@ -2162,6 +2164,7 @@ xml-v4.fdkox-b.online CNAME .
 xml-v4.fdkox-c.online CNAME .
 xml-v4.fdkox-d.online CNAME .
 xml-v4.felixads.com CNAME .
+xml-v4.flowldsb.online CNAME .
 xml-v4.flurryad.com CNAME .
 xml-v4.fmlabsonline.com CNAME .
 xml-v4.foseller-a.online CNAME .
@@ -2201,7 +2204,6 @@ xml-v4.mywaymedia.co CNAME .
 xml-v4.newbluetrue.xyz CNAME .
 xml-v4.nexrtb.com CNAME .
 xml-v4.oceanfall.xyz CNAME .
-xml-v4.onemediawork.com CNAME .
 xml-v4.optargone-3.online CNAME .
 xml-v4.optumads.com CNAME .
 xml-v4.paddlewaver.com CNAME .
@@ -2459,6 +2461,7 @@ xml.indeedtheriverw.org CNAME .
 xml.indforh-serving.com CNAME .
 xml.infinity-info.com CNAME .
 xml.ingdowntheriv.com CNAME .
+xml.inlargeconsultin.com CNAME .
 xml.insightadz.com CNAME .
 xml.intellectscoop.com CNAME .
 xml.ionsandinde.org CNAME .
@@ -2501,7 +2504,6 @@ xml.nourdream-bid.com CNAME .
 xml.nova-bid.com CNAME .
 xml.omanyrelurl.org CNAME .
 xml.onelyandbegan.org CNAME .
-xml.onemediawork.com CNAME .
 xml.online-adnetwork.com CNAME .
 xml.optargone-3.online CNAME .
 xml.optumads.com CNAME .
@@ -2651,7 +2653,6 @@ xml.xyconversation.org CNAME .
 xml.yeesshh.com CNAME .
 xml.yhisladyloveheh.org CNAME .
 xml.yieldradius.io CNAME .
-xml.yodirecxl.com CNAME .
 xml.yojnxl.com CNAME .
 xml.yolkdirxl.com CNAME .
 xml.yoplxl.com CNAME .
@@ -2720,7 +2721,6 @@ static.adsbuyclick.com CNAME .
 static.adscholars.com CNAME .
 static.adsfloow.net CNAME .
 static.adsimilate.com CNAME .
-static.adsolut.in CNAME .
 static.adsupplyexchange.com CNAME .
 static.adtapmedia.com CNAME .
 static.advertruth.com CNAME .
@@ -2857,7 +2857,6 @@ static.newchallenges-rtb.com CNAME .
 static.nexrtb.com CNAME .
 static.omanyrelurl.org CNAME .
 static.onelyandbegan.org CNAME .
-static.onemediawork.com CNAME .
 static.otireofhislady.org CNAME .
 static.outpush.net CNAME .
 static.ovewiththem.com CNAME .
@@ -3027,7 +3026,6 @@ static-rtb2.foremedia.net CNAME .
 static-rtb2.globalwingspan.com CNAME .
 static-rtb2.goleftmedia.com CNAME .
 static-rtb2.gravityadnetwork.io CNAME .
-static-rtb2.jambojar.com CNAME .
 static-rtb2.magixengage.com CNAME .
 static-rtb2.mediarise.io CNAME .
 static-rtb2.mytrendingstories.com CNAME .

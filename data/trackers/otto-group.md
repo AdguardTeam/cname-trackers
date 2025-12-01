@@ -6,9 +6,11 @@
     * js.oghub.io
     * sniffer.oghub.io
     * sniffer.test-extern.oghub.io
+    * te-ackermann-ch.oghub.io
     * te-baur-de.oghub.io
     * te-limango-de.oghub.io
     * te-otto-de.oghub.io
+    * te-ottoversand-at.oghub.io
     * te-quelle-de.oghub.io
     * te-universal-at.oghub.io
     * te.oghub.io
@@ -20,6 +22,7 @@
     * tp-limango-de.oghub.io
     * tp-otto-de.oghub.io
     * tp-ottoversand-at.oghub.io
+    * tp-quelle-de.oghub.io
     * tp-universal-at.oghub.io
 
 ## Cloaking domains
@@ -70,9 +73,11 @@
 | sniffer.nitro-production.otto.boreus.de | sniffer.oghub.io |
 | sniffer.nitro-test-extern.otto.boreus.de | sniffer.test-extern.oghub.io |
 | test-extern.nitrosniffer.ottogroup.io | sniffer.test-extern.oghub.io |
+| te.ackermann.ch | te-ackermann-ch.oghub.io |
 | te.baur.de | te-baur-de.oghub.io |
 | te.limango.de | te-limango-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
+| te.ottoversand.at | te-ottoversand-at.oghub.io |
 | te.quelle.de | te-quelle-de.oghub.io |
 | te.universal.at | te-universal-at.oghub.io |
 | te.ackermann.ch | te.oghub.io |
@@ -100,6 +105,7 @@
 | te.otto.de | te.oghub.io |
 | te.otto.de | te.oghub.io |
 | te.ottoversand.at | te.oghub.io |
+| te.ottoversand.at | te.oghub.io |
 | te.quelle.de | te.oghub.io |
 | te.quelle.de | te.oghub.io |
 | te.sheego.de | te.oghub.io |
@@ -125,4 +131,5 @@
 | tp.limango.de | tp-limango-de.oghub.io |
 | tp.otto.de | tp-otto-de.oghub.io |
 | tp.ottoversand.at | tp-ottoversand-at.oghub.io |
+| tp.quelle.de | tp-quelle-de.oghub.io |
 | tp.universal.at | tp-universal-at.oghub.io |

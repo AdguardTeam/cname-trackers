@@ -3,9 +3,6 @@
 ## Disguised trackers list
 
 * dataunlocker.com
-    * 48z7wyjdsywu.ddns.dataunlocker.com
-    * 9l3cr6dvk2kb.ddns.dataunlocker.com
-    * piqk97o4luyo.ddns.dataunlocker.com
     * pmbkvlupohcz.ddns.dataunlocker.com
     * smartproxy.dataunlocker.com
 * monopoly-drain.ga
@@ -15,9 +12,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| 48z7wyjdsywu.www.revistaferramental.com.br | 48z7wyjdsywu.ddns.dataunlocker.com |
-| 9l3cr6dvk2kb.adaptive.marketing | 9l3cr6dvk2kb.ddns.dataunlocker.com |
-| piqk97o4luyo.22games.net | piqk97o4luyo.ddns.dataunlocker.com |
 | dsoxjxin5jji.controlconceptsusa.com | pmbkvlupohcz.ddns.dataunlocker.com |
 | 11b6n4ty2x3.taxliencode.com | smartproxy.dataunlocker.com |
 | 13js1lbtbj3.sparkloop.app | smartproxy.dataunlocker.com |
@@ -48,7 +42,6 @@
 | 3l0zszdzjhpw.www.comicleaks.com | smartproxy.dataunlocker.com |
 | 3wn3w3skxpym.round.t3.gg | smartproxy.dataunlocker.com |
 | 48z7wyjdsywu.www.revistaferramental.com.br | smartproxy.dataunlocker.com |
-| 48z7wyjdsywu.www.revistaferramental.com.br | smartproxy.dataunlocker.com |
 | 4jaehnfqizyx.controlconceptsusa.com | smartproxy.dataunlocker.com |
 | 5mc92su06suu.www.abhijith.page | smartproxy.dataunlocker.com |
 | 5oovx2t8rl04.thebarrecollective.co | smartproxy.dataunlocker.com |
@@ -67,7 +60,6 @@
 | 9b5gjkrnw71r.it.themoneytizer.com | smartproxy.dataunlocker.com |
 | 9endbwsya7vw.app.polymerdev.com | smartproxy.dataunlocker.com |
 | 9kkjfywjz50v.www.eventus.io | smartproxy.dataunlocker.com |
-| 9l3cr6dvk2kb.adaptive.marketing | smartproxy.dataunlocker.com |
 | 9l3cr6dvk2kb.adaptive.marketing | smartproxy.dataunlocker.com |
 | 9uim1pc4ej4n.ru.themoneytizer.com | smartproxy.dataunlocker.com |
 | 9ywl0cwf7e37m5yi.tapin.gg | smartproxy.dataunlocker.com |

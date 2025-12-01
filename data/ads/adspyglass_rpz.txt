@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1763971208814        ; Serial
+           1764576009236        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -102,7 +102,6 @@ a.diget.xyz CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dimao.site CNAME .
 a.dipi.online CNAME .
-a.dporntube.site CNAME .
 a.dramb.site CNAME .
 a.drem.site CNAME .
 a.dremp.xyz CNAME .
@@ -127,7 +126,6 @@ a.fegent.xyz CNAME .
 a.fegori.xyz CNAME .
 a.framb.site CNAME .
 a.freid.site CNAME .
-a.frezeporn.site CNAME .
 a.friy.site CNAME .
 a.frodo.space CNAME .
 a.ftrem.site CNAME .
@@ -235,7 +233,6 @@ ad.animeitaly.tv CNAME .
 ad.empressleak.biz CNAME .
 ad.tubelegion.com CNAME .
 ad.xxam.org CNAME .
-adb.deflr.com CNAME .
 addin1.name CNAME .
 adilk.ilikecomix.com CNAME .
 ads.aphex.me CNAME .
@@ -282,6 +279,7 @@ api.shinybirdwhispered.com CNAME .
 api.sleepingrockhappy.com CNAME .
 api.smilingtrainyellow.com CNAME .
 api.tiredoceanhugged.com CNAME .
+app.dlsite123.online CNAME .
 app.eduseio.com CNAME .
 app.iugbhsu.com CNAME .
 app.phimvu.app CNAME .
@@ -360,6 +358,7 @@ asg1.hostadsmarkets.com CNAME .
 asi.linksex.club CNAME .
 asp.rstrix.com CNAME .
 asp.russkiyseks.vip CNAME .
+asp.sexmy.site CNAME .
 asp.sexyasianwife.click CNAME .
 assets.taghtia.com CNAME .
 astuff.clicknplay.to CNAME .
@@ -444,6 +443,7 @@ cdn.content-hoster.xyz CNAME .
 cdn.sdtraff.com CNAME .
 cdn.sphinxtube.com CNAME .
 cdn.throatbulge.com CNAME .
+cdn.vaara.id CNAME .
 cdn3.cartoonporn.to CNAME .
 cdn3.hentaihand.com CNAME .
 cdn3.hentok.com CNAME .
@@ -477,7 +477,6 @@ d.cinvetica.com CNAME .
 d.love4porn.com CNAME .
 d.seksohub.com CNAME .
 d1mahjlm.xyz CNAME .
-daldk.com CNAME .
 dash.bloblohub.com CNAME .
 data.bangtubevideos.com CNAME .
 data.streamtape.com CNAME .
@@ -557,6 +556,7 @@ gallery.stailaus.fi CNAME .
 garage08062025.shop CNAME .
 gay.everydayporn.co CNAME .
 gay.trkpop.click CNAME .
+gdg4yih5.xyz CNAME .
 gff660fg.xyz CNAME .
 ghtry.amateurswild.com CNAME .
 go.showmeyouradsnow.com CNAME .
@@ -732,6 +732,7 @@ negligence072925.shop CNAME .
 net.contoscn.com CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
+new.fc2-ppv.xyz CNAME .
 new.plus-eromanga.com CNAME .
 newg.clicknplay.to CNAME .
 news.setokanna.online CNAME .
@@ -887,33 +888,19 @@ rwdr.asianxhub.com CNAME .
 rwds.asianxhub.com CNAME .
 rwdt.asianxhub.com CNAME .
 s.arf.dev CNAME .
-s.axioporn.online CNAME .
-s.bigass.mom CNAME .
-s.bigpornhd.mom CNAME .
 s.bussyhunter.com CNAME .
 s.chooljang.shop CNAME .
-s.colliderporn.club CNAME .
 s.commissie.online CNAME .
 s.everydayporn.co CNAME .
 s.freeonlinegayporn.com CNAME .
 s.freeporncave.com CNAME .
-s.freepornsex.online CNAME .
-s.hdpornblue.lol CNAME .
-s.hellporno.buzz CNAME .
 s.hhyggy.com CNAME .
-s.josshub.pro CNAME .
-s.krotoporn.online CNAME .
-s.mangoporn.site CNAME .
-s.nakedwoman.online CNAME .
 s.octoberads.space CNAME .
 s.oralblow.com CNAME .
-s.porn-step.mom CNAME .
-s.remavatube.pics CNAME .
 s.remonti.org CNAME .
 s.searforsear.online CNAME .
 s.septed.site CNAME .
 s.slideroctober.store CNAME .
-s.superporn.online CNAME .
 s.vipdube.com CNAME .
 s1.streaminporn.com CNAME .
 s1sentablya.teenfuckhd.com CNAME .
@@ -933,7 +920,6 @@ scottk.hubhubhub.name CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
 ser.everydayporn.co CNAME .
-serv.globtube.com CNAME .
 serve.bdsmstreak.com CNAME .
 serve.freeonlinegayporn.com CNAME .
 setimodia.hubhubhub.name CNAME .
@@ -955,7 +941,6 @@ sk.trashreality.com CNAME .
 sk.zatube.com CNAME .
 sktskt.aisfokgqw.online CNAME .
 slit.lewd.rip CNAME .
-smart.xxxadmin.xyz CNAME .
 smetia.dirtyships.net CNAME .
 sol.kjhbskd.com CNAME .
 solo.chinese-sex-tube.com CNAME .
@@ -982,6 +967,7 @@ sub1.adultredirection.site CNAME .
 sub1.bestofall.info CNAME .
 sub1.gebeall.info CNAME .
 sub2.abcbest.info CNAME .
+sub3.abcbest.info CNAME .
 subcom.uiiumovie.com CNAME .
 subfun.uiiumovie.fun CNAME .
 sungtoaz.club CNAME .
@@ -1012,8 +998,6 @@ tqoneyyivw.club CNAME .
 tr.7vid.net CNAME .
 tripl3a.com CNAME .
 tron.bbw-porn-video.com CNAME .
-ts.globtube.com CNAME .
-ts.nakedwoman.online CNAME .
 ts.sopornvideos.com CNAME .
 tssyakir.xyz CNAME .
 tt.wl-cornholio.com CNAME .
@@ -1048,6 +1032,7 @@ videocdn.xyz CNAME .
 visualize-beta.bloblohub.com CNAME .
 vo.turbocap.net CNAME .
 vozesencarnadas.hubhubhub.name CNAME .
+vqk0h1xb.xyz CNAME .
 vr.fanzacom.live CNAME .
 vsx.hotpornfile.org CNAME .
 vuwjv7sjvg7.zedporn.com CNAME .
@@ -1174,4 +1159,3 @@ store4porn.com CNAME .
 topsexmovs.com CNAME .
 video.cdnako.com CNAME .
 now.plsgotoasg.com CNAME .
-qoqv.com CNAME .

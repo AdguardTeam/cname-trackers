@@ -26,6 +26,7 @@ mphdd.multipharma.be
 p-pan.triodos.com
 p.zwilling.com
 piwik.com-online.com
+piwik.eib.org
 piwik.slotsparadise.com
 piwik.twyzle.com
 piwik.vegasaces.com

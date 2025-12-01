@@ -954,7 +954,6 @@
 ||tr.newsletters-bonpoint.com^
 ||tr.newsletters.coedition-contact.fr^
 ||tr.newsletters.odalys-vacances.com^
-||tr.newsletters.qapa-interim.fr^
 ||tr.newsletters.rmcbfm.com^
 ||tr.newsmarketing.allopneus.com^
 ||tr.nl.2wls.net^
@@ -1238,9 +1237,9 @@
 ||f1.mailperformance.com^
 ||f1.np6.com^
 ||infojeux.paris.fr^
-||lbv5.mperf.com^
 ||www.bfc-mp.caisse-epargne.fr^
 ||f1.mperf.com^
+||lbv5.mperf.com^
 ||s.gemy.fr^
 ||s.np6.com^
 ||www.lgch.mp^

@@ -350,7 +350,6 @@
 | my.fr.top4running.be | cz.affilbox.cz |
 | my.kickz.com | cz.affilbox.cz |
 | my.tint-store.ro | cz.affilbox.cz |
-| my.top4fitness.com | cz.affilbox.cz |
 | my.top4fitness.cz | cz.affilbox.cz |
 | my.top4fitness.de | cz.affilbox.cz |
 | my.top4fitness.fi | cz.affilbox.cz |
