@@ -69,7 +69,6 @@
 ||blog.blogvocebonita.com^
 ||blog.ciencianaweb.com^
 ||blog.comunidadebelezaempauta.com.br^
-||blog.cuidadocaseiro.com^
 ||blog.firsthandnow.com^
 ||blog.top5.co^
 ||blontric.xyz^
@@ -84,7 +83,6 @@
 ||click.bigclicktrakk.com^
 ||click.caringforourseniors.org^
 ||click.check-games.com^
-||click.financetodaybenefits.org^
 ||click.helpforourseniors.org^
 ||click.jctrkg.com^
 ||click.ketoplan24.com^
@@ -112,9 +110,7 @@
 ||clk.myamericancare.com^
 ||clk.premierautocover.com^
 ||clk.rratrack.com^
-||clk.savebigseniorshelpline.com^
 ||clk.savingsalertguide.com^
-||clk.seniorsavingshotline.com^
 ||clk.shinydaay.com^
 ||clk.todaysaversclub.com^
 ||clk2.allaboutvibe.com^
@@ -128,7 +124,6 @@
 ||dc.01menshealthblog.com^
 ||de.sevoly.de^
 ||deal.trk.agency^
-||deb.spendsky.com^
 ||download.howtosellahouse.info^
 ||duce.parc-consulting.com^
 ||ecologi.link^
@@ -192,7 +187,6 @@
 ||go.erasilk.com^
 ||go.eruditelifestyle.co.uk^
 ||go.fallenyetnotforgotten.com^
-||go.fastautosaver.com^
 ||go.fedhealth.us^
 ||go.fedmedi.us^
 ||go.foreverhealthyandhappy.com^
@@ -596,7 +590,6 @@
 ||secured.thericheststate.com^
 ||service.fastaxol24.net^
 ||sicher.exklusiv-und-zertifiziert.com^
-||sichere-verbindung.offizielle-gewinnspiele.com^
 ||sketerterus.com^
 ||solar.greenenergyalliance.net^
 ||sp.solus.nu^
@@ -654,7 +647,6 @@
 ||track.chateauberne-vin.com^
 ||track.clarifiedexplanations.com^
 ||track.clash.gg^
-||track.cleartrust.site^
 ||track.clickarc.com^
 ||track.clickstoclients.net^
 ||track.cliktrekbr.com^
@@ -714,7 +706,6 @@
 ||track.healthylifeprotocol.com^
 ||track.healthymenblog.com^
 ||track.homemvigor.club^
-||track.homeownerupgrade.com^
 ||track.homie.com.au^
 ||track.icowhide.com^
 ||track.ie-grandslamgaming.com^
@@ -816,7 +807,6 @@
 ||track.shine-group.fr^
 ||track.shopazoid.com^
 ||track.shopminnows.com^
-||track.sketerterus.com^
 ||track.skymap.ro^
 ||track.slimtricks.com^
 ||track.social.supply^
@@ -992,7 +982,6 @@
 ||trk.trktrackingfbads.click^
 ||trk.truehealthytoday.com^
 ||trk.trxops.com^
-||trk.ucttrakm.com^
 ||trk.usawalletbreak.com^
 ||trk.vitaliv.us^
 ||trk.vyve.in^
@@ -1078,6 +1067,7 @@
 ||ce.adsdomaintracking.com^
 ||cf.wolfclicktrack.com^
 ||click.track700.com^
+||cnn.healthtrailsource.com^
 ||cwtrk.cushiow.com^
 ||dashboard.beardcareclub.com^
 ||data.loczek.pl^
@@ -1114,7 +1104,6 @@
 ||i.do.adtrack.it^
 ||insight.apothekenblatt.de^
 ||insight.carla-jewelry.com^
-||insight.cumaskincare.com^
 ||insight.fluff.co^
 ||insight.gelexobel.de^
 ||insight.hoola.com^
@@ -1148,6 +1137,7 @@
 ||nt.healthwellnesstoday.org^
 ||nt.lifecarepathway.com^
 ||nt.mellisanohealt.org^
+||nt.naturalstarttoday.com^
 ||nt.naturecorehealth.online^
 ||nt.wellnessupdatetoday.org^
 ||perpetual.tracking.01alarme.fr^
@@ -1211,6 +1201,7 @@
 ||stpuk.steptosportuk.com^
 ||t.heyremmy.com^
 ||t.inneosfamily.com^
+||t.t.amovibe.com^
 ||t.t.luselle.com^
 ||t.t.novadoll.com^
 ||the7daygenius.com^
@@ -1219,6 +1210,7 @@
 ||track.animebee.com^
 ||track.automatikblog.com^
 ||track.bekhtir.com^
+||track.bestseedsonline.com^
 ||track.bitcasino.io^
 ||track.burgogemme.shop^
 ||track.buyingseed.com^
@@ -1236,6 +1228,7 @@
 ||track.ecomleague.com^
 ||track.elvatetrack.com^
 ||track.encer.store^
+||track.essenzacellavita.com^
 ||track.fntrk.org^
 ||track.fradall.com^
 ||track.generationgenius.com^
@@ -1260,7 +1253,6 @@
 ||track.muaystore.sk^
 ||track.my.ofpfunding.com^
 ||track.northfashionstore.com^
-||track.organicbazar.net^
 ||track.petsummits.com^
 ||track.physiohealth-line.de^
 ||track.ploclicktrack.com^
@@ -1268,8 +1260,6 @@
 ||track.rollingriches.com^
 ||track.safeyourlove.co^
 ||track.server.nuwelo.de^
-||track.sintra.ai^
-||track.sniff.me^
 ||track.sondercare.com^
 ||track.stayloyal.com.au^
 ||track.streetshirts.com^
@@ -1287,6 +1277,7 @@
 ||track.venitotrack.online^
 ||track.victorybet.ro^
 ||track.vilanovapark.com^
+||track.waifuworld.shop^
 ||track.weflatables.com^
 ||track.westore24.com^
 ||track1.embrogift.com^
@@ -1310,11 +1301,12 @@
 ||trk.galileofx.com^
 ||trk.garageflooringusa.com^
 ||trk.gardenz-hi.com^
+||trk.konner-sohnen.com.ua^
 ||trk.lifelab.no^
-||trk.minimalclub.com.br^
 ||trk.misnst.xyz^
 ||trk.narcistdebaas.nl^
 ||trk.solo-ella.com^
+||trk.tabucbd.com^
 ||trk.tr4ck1ng.com^
 ||trk.videoremunerado.com^
 ||trk.vturb.com^
@@ -1345,16 +1337,13 @@
 ||pl.trk.quirkalooquotient.com^
 ||pl.trk.wackywonderlandweb.com^
 ||rt.policyfamilyquote.com^
-||summitrix.com^
-||t.aineuralnarrative.com^
 ||tr.track-myleads.com^
-||track.nativead.be^
 ||track.topsolutions.club^
+||track.trkbtga.com^
 ||trk.acareliefact.org^
-||trk.getpestdefensepro.com^
+||trk.saveclever.org^
 ||click.mmotoplay.com^
 ||track.24monetize.com^
 ||track.glukobestpro.net^
+||track.nativead.be^
 ||track.routes.name^
-||track.trkbtga.com^
-||trk.saveclever.org^

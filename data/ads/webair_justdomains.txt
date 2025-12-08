@@ -331,6 +331,7 @@ filter-eu.adsupplyexchange.com
 filter-eu.adtube.media
 filter-eu.adverttise.com
 filter-eu.advlistings.com
+filter-eu.adxcircle.com
 filter-eu.adxfactory.com
 filter-eu.adxpoint.com
 filter-eu.adzestoads.xyz
@@ -362,6 +363,7 @@ filter-eu.edgexml.com
 filter-eu.epikads.com
 filter-eu.eximdigital.com
 filter-eu.expialidosius.com
+filter-eu.explorads.com
 filter-eu.ezmob.com
 filter-eu.flairadscpc.com
 filter-eu.flurryad.com
@@ -419,6 +421,7 @@ filter-eu.srvqck5.com
 filter-eu.srvqck6.com
 filter-eu.srvqck7.com
 filter-eu.srvqck9.com
+filter-eu.tat-adz.com
 filter-eu.techdoor.com
 filter-eu.tenxads.com
 filter-eu.thenetwork18.com
@@ -1598,11 +1601,9 @@ static-rtb2.n-data.io
 static-rtb2.newchallenges-dsp.com
 static-rtb2.reachableads.com
 static.adright.co
-static.adsolut.in
-static.aserve1.net
-static.creativedot.net
 static.displayio.cloud
 static.ezmob.com
+static.mediadobrasil.com
 static.openrtb.in
 static.pressize.com
 static.pushub.net
@@ -1612,6 +1613,7 @@ static.smoads.com
 static.srvqck21.com
 static.srvqck24.com
 static.theardent.group
+static.vistarsagency.com
 sub-eu-v4.adzgame.com
 sub-eu.adzgame.com
 sub-v4.adzgame.com
@@ -1651,7 +1653,6 @@ tq-eu.minutelight-1.online
 tq-eu.mpds-smart1.online
 tq-eu.mpds-smart3.online
 tq-eu.optargone-3.online
-tq-eu.resugovex-2.co
 tq-eu.starvalue-3.online
 tq-eu.starvalue-4.online
 tq-eu.stevbade1.online
@@ -1688,8 +1689,6 @@ tq.mpds-smart3.online
 tq.mpds-smart4.online
 tq.optargone-3.online
 tq.pdn-eu.com
-tq.resugovex-1.co
-tq.resugovex-2.co
 tq.starvalue-3.online
 tq.starvalue-4.online
 tq.stevbade1.online
@@ -1903,8 +1902,6 @@ xml-eu-v4.qualiclicks.com
 xml-eu-v4.re-media.info
 xml-eu-v4.regalrisemedia.com
 xml-eu-v4.relevanceads.com
-xml-eu-v4.resugovex-1.co
-xml-eu-v4.resugovex-2.co
 xml-eu-v4.ripamatic.com
 xml-eu-v4.rocoads.com
 xml-eu-v4.rtxfeed.com
@@ -1970,6 +1967,7 @@ xml-eu.adtapmedia.com
 xml-eu.adtube.media
 xml-eu.adverttise.com
 xml-eu.advlistings.com
+xml-eu.adxcircle.com
 xml-eu.adxfactory.com
 xml-eu.adxpoint.com
 xml-eu.adzestoads.xyz
@@ -2038,7 +2036,6 @@ xml-eu.re-media.info
 xml-eu.realtime-bid.com
 xml-eu.regalrisemedia.com
 xml-eu.relevanceads.com
-xml-eu.resugovex-1.co
 xml-eu.rocoads.com
 xml-eu.rtbfactory.com
 xml-eu.rtxfeed.com
@@ -2208,8 +2205,6 @@ xml-v4.rastyclick.com
 xml-v4.re-media.info
 xml-v4.regalrisemedia.com
 xml-v4.relevanceads.com
-xml-v4.resugovex-1.co
-xml-v4.resugovex-2.co
 xml-v4.revantagex.com
 xml-v4.ripamatic.com
 xml-v4.rocoads.com
@@ -2465,6 +2460,7 @@ xml.lensgard-2.online
 xml.leoback.com
 xml.leofback.com
 xml.leoyard.com
+xml.liketheappyrince.com
 xml.looksmartppc.com
 xml.lowsshehasnom.org
 xml.lthroughthesum.org
@@ -2528,7 +2524,6 @@ xml.readywind.media
 xml.realtime-bid.com
 xml.regalrisemedia.com
 xml.relevanceads.com
-xml.resugovex-2.co
 xml.revenuehits.com
 xml.revrtb.com
 xml.revrtb.net
@@ -2641,6 +2636,7 @@ xml.xmlwolf.com
 xml.xyconversation.org
 xml.yeesshh.com
 xml.yhisladyloveheh.org
+xml.yieldoz.com
 xml.yieldradius.io
 xml.yojnxl.com
 xml.yolkdirxl.com
@@ -2710,6 +2706,7 @@ static.adsbuyclick.com
 static.adscholars.com
 static.adsfloow.net
 static.adsimilate.com
+static.adsolut.in
 static.adsupplyexchange.com
 static.adtapmedia.com
 static.advertruth.com
@@ -2734,6 +2731,7 @@ static.applixir.com
 static.appocean.media
 static.arbigo.com
 static.arvardsusyseinpo.com
+static.aserve1.net
 static.audience.media
 static.audiencedevelopers.com
 static.axetechnology.in
@@ -2764,6 +2762,7 @@ static.conxstream.com
 static.coupontic.com
 static.cpmvibes.com
 static.cranberryads.com
+static.creativedot.net
 static.creativethingsdoneright.top
 static.critic.media
 static.ctrtraffic.com
@@ -2830,7 +2829,6 @@ static.massmediaent.in
 static.masterfr-bid.com
 static.maticalm-bid.com
 static.mediacpc.com
-static.mediadobrasil.com
 static.mediahubserver.com
 static.mediataggus.com
 static.milkywase.com
@@ -2961,8 +2959,6 @@ static.verrippleshiswa.com
 static.verwasquitefu.org
 static.vewith-bid.com
 static.vexa-bid.com
-static.vidastra.net
-static.vistarsagency.com
 static.voisetech.com
 static.wawayftertheyh.org
 static.webfindi.com

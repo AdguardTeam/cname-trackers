@@ -11,19 +11,14 @@
     * te-limango-de.oghub.io
     * te-otto-de.oghub.io
     * te-ottoversand-at.oghub.io
-    * te-quelle-de.oghub.io
+    * te-sieh-an-de.oghub.io
     * te-universal-at.oghub.io
     * te.oghub.io
     * te.test-extern.oghub.io
-    * tp-ackermann-ch.oghub.io
     * tp-baur-de.oghub.io
     * tp-frankonia-de.oghub.io
-    * tp-jelmoli-shop-ch.oghub.io
     * tp-limango-de.oghub.io
     * tp-otto-de.oghub.io
-    * tp-ottoversand-at.oghub.io
-    * tp-quelle-de.oghub.io
-    * tp-universal-at.oghub.io
 
 ## Cloaking domains
 
@@ -58,7 +53,6 @@
 | tp.sieh-an.ch | js.oghub.io |
 | tp.sieh-an.de | js.oghub.io |
 | tp.universal.at | js.oghub.io |
-| tp.universal.at | js.oghub.io |
 | tp.waeschepur.de | js.oghub.io |
 | tp.witt-international.cz | js.oghub.io |
 | tp.witt-international.nl | js.oghub.io |
@@ -78,7 +72,7 @@
 | te.limango.de | te-limango-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
 | te.ottoversand.at | te-ottoversand-at.oghub.io |
-| te.quelle.de | te-quelle-de.oghub.io |
+| te.sieh-an.de | te-sieh-an-de.oghub.io |
 | te.universal.at | te-universal-at.oghub.io |
 | te.ackermann.ch | te.oghub.io |
 | te.ambria.de | te.oghub.io |
@@ -107,10 +101,10 @@
 | te.ottoversand.at | te.oghub.io |
 | te.ottoversand.at | te.oghub.io |
 | te.quelle.de | te.oghub.io |
-| te.quelle.de | te.oghub.io |
 | te.sheego.de | te.oghub.io |
 | te.sieh-an.at | te.oghub.io |
 | te.sieh-an.ch | te.oghub.io |
+| te.sieh-an.de | te.oghub.io |
 | te.sieh-an.de | te.oghub.io |
 | te.universal.at | te.oghub.io |
 | te.waeschepur.de | te.oghub.io |
@@ -124,12 +118,7 @@
 | te.your-look-for-less.nl | te.oghub.io |
 | te.your-look-for-less.se | te.oghub.io |
 | te.nitro-test-extern.otto.boreus.de | te.test-extern.oghub.io |
-| tp.ackermann.ch | tp-ackermann-ch.oghub.io |
 | tp.baur.de | tp-baur-de.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
-| tp.jelmoli-shop.ch | tp-jelmoli-shop-ch.oghub.io |
 | tp.limango.de | tp-limango-de.oghub.io |
 | tp.otto.de | tp-otto-de.oghub.io |
-| tp.ottoversand.at | tp-ottoversand-at.oghub.io |
-| tp.quelle.de | tp-quelle-de.oghub.io |
-| tp.universal.at | tp-universal-at.oghub.io |

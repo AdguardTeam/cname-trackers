@@ -109,7 +109,6 @@
 ||ea.ecotour.com^
 ||ea.elstarprevention.com^
 ||ea.evaway.com^
-||ea.fleurancenature.com^
 ||ea.fleurancenature.fr^
 ||ea.francoisesaget.be^
 ||ea.francoisesaget.com^
@@ -153,7 +152,6 @@
 ||ea.poeleaboismaison.com^
 ||ea.promovacances.com^
 ||ea.quiksilver.eu^
-||ea.radiateurplus.com^
 ||ea.rentacar.fr^
 ||ea.reunica.com^
 ||ea.roxy.eu^
@@ -446,14 +444,12 @@
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
 ||xoq.pmubrasil.com.br^
-||xuc.monteleone.fr^
 ||xy33.smallable.com^
 ||xya4.groupefsc.com^
 ||xze5.femilet.dk^
 ||yf5.voyage-prive.at^
 ||yoc.younited-credit.com^
 ||ysl3.destinia.ec^
-||yst4.muchoviaje.com^
 ||yyi7.consobaby.de^
 ||zdi0.destinia.cr^
 ||zdx5.destinia.pe^

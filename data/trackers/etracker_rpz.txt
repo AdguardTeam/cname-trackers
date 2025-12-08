@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -117,7 +117,6 @@ etracker.alex-gross.com CNAME .
 etracker.cjd.de CNAME .
 etracker.limbachgruppe.com CNAME .
 etracker.lukas-becker.eu CNAME .
-etracker.mammutmarsch.de CNAME .
 etracker.novicon.net CNAME .
 etracker.riess-gruppe.de CNAME .
 etracker.seoversiert.de CNAME .
@@ -138,6 +137,7 @@ knowlege.pepeprint.de CNAME .
 lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
+met.hanser-literaturverlage.de CNAME .
 meter.rhinobag.de CNAME .
 metrics.bauwerk.de CNAME .
 metrics.cannamedical.com CNAME .
@@ -179,6 +179,7 @@ statistics.fruchtbarewelt.de CNAME .
 statistics.hagnauer.org CNAME .
 statistics.krohne.com CNAME .
 statistics.xpedite-dx.com CNAME .
+stats.brune-company.de CNAME .
 stats.die-bibel.de CNAME .
 stats.eliveshop.de CNAME .
 stats.folienmarkt.de CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -163,7 +163,6 @@ beeline.beeline-tire.co.jp CNAME .
 c.lypo-c.jp CNAME .
 c.lypo-c.shop CNAME .
 campaign-direct.eisai.jp CNAME .
-campaign-direct.ketsuatsu-taisaku.xyz CNAME .
 campaign-direct.kouketsuatsu-health.xyz CNAME .
 ccc.aqualink.tokyo CNAME .
 cmass.massmedian.co.jp CNAME .

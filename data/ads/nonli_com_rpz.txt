@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,7 +60,6 @@ l.beaute-test.com CNAME .
 l.beauxarts.com CNAME .
 l.bfmtv.com CNAME .
 l.bibamagazine.fr CNAME .
-l.bienpublic.com CNAME .
 l.blissim.fr CNAME .
 l.bon-esprit.fr CNAME .
 l.bourseinside.fr CNAME .
@@ -82,7 +81,6 @@ l.diapasonmag.fr CNAME .
 l.directoalpaladar.com CNAME .
 l.directoalpaladar.com.mx CNAME .
 l.diverto.tv CNAME .
-l.dna.fr CNAME .
 l.doctissimo.fr CNAME .
 l.dordognelibre.fr CNAME .
 l.dzfoot.com CNAME .
@@ -99,7 +97,6 @@ l.enfemenino.com CNAME .
 l.entrenous.fr CNAME .
 l.equidia.fr CNAME .
 l.espinof.com CNAME .
-l.estrepublicain.fr CNAME .
 l.euronews.com CNAME .
 l.familiscope.fr CNAME .
 l.femmeactuelle.fr CNAME .
@@ -150,7 +147,6 @@ l.lacremedugaming.fr CNAME .
 l.ladepeche.fr CNAME .
 l.ladepechedubassin.fr CNAME .
 l.lalettre.fr CNAME .
-l.lalsace.fr CNAME .
 l.lamanchelibre.fr CNAME .
 l.lamontagne.fr CNAME .
 l.lanouvellerepublique.fr CNAME .
@@ -165,22 +161,20 @@ l.latribune.fr CNAME .
 l.lavoixdunord.fr CNAME .
 l.le-pays.fr CNAME .
 l.le10sport.com CNAME .
+l.leberry.fr CNAME .
 l.lechasseurfrancais.com CNAME .
 l.lechorepublicain.fr CNAME .
 l.lecourriercauchois.fr CNAME .
 l.lecourrierdelamayenne.fr CNAME .
-l.ledauphine.com CNAME .
 l.lefigaro.fr CNAME .
 l.lejdc.fr CNAME .
 l.lejournaldelamaison.fr CNAME .
 l.lejournaldici.com CNAME .
-l.lejsl.com CNAME .
 l.lemagauquotidien.com CNAME .
 l.lemoniteurdespharmacies.fr CNAME .
 l.leparisien.fr CNAME .
 l.lepoint.fr CNAME .
 l.lepopulaire.fr CNAME .
-l.leprogres.fr CNAME .
 l.lequipe.fr CNAME .
 l.lequotidiendelart.com CNAME .
 l.lesnumeriques.com CNAME .
@@ -248,7 +242,6 @@ l.purepeople.com.br CNAME .
 l.quinzemondial.com CNAME .
 l.radiofrance.fr CNAME .
 l.reporterre.net CNAME .
-l.republicain-lorrain.fr CNAME .
 l.revue21.fr CNAME .
 l.rmc.fr CNAME .
 l.rmcsport.fr CNAME .
@@ -264,6 +257,7 @@ l.sportauto.fr CNAME .
 l.sports.fr CNAME .
 l.sudinfo.be CNAME .
 l.sudouest.fr CNAME .
+l.supersoluce.com CNAME .
 l.telestar.fr CNAME .
 l.tendanceouest.com CNAME .
 l.terrafemina.com CNAME .

@@ -8,7 +8,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| 1.vakuumnyy-stimulyator.ru | park.realbig.online |
 | 1.xcfaprb0325.ru | park.realbig.online |
 | a.rb-ya.ru | park.realbig.online |
 | a.resr.ru | park.realbig.online |

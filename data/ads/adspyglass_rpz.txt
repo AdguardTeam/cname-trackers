@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,7 +27,6 @@ $TTL 300
 3krujww3z31l4def.bloblohub.com CNAME .
 444.bussyclub.com CNAME .
 444.bussyhunter.com CNAME .
-444.thebussybandit.com CNAME .
 450a.feet9.com CNAME .
 478789.everydayporn.co CNAME .
 4cz7ypl3.xyz CNAME .
@@ -47,7 +46,6 @@ $TTL 300
 7zvhi46y.xyz CNAME .
 858akaman.xyz CNAME .
 86hi9r4f.xyz CNAME .
-879.thebussybandit.com CNAME .
 892azz.xyz CNAME .
 8dk5q9tp.xyz CNAME .
 8nximzje.xyz CNAME .
@@ -233,6 +231,7 @@ ad.animeitaly.tv CNAME .
 ad.empressleak.biz CNAME .
 ad.tubelegion.com CNAME .
 ad.xxam.org CNAME .
+adb.reallifecams.net CNAME .
 addin1.name CNAME .
 adilk.ilikecomix.com CNAME .
 ads.aphex.me CNAME .
@@ -338,6 +337,7 @@ asg.faperoni.com CNAME .
 asg.hornygrail.com CNAME .
 asg.irontube.net CNAME .
 asg.laivue.com CNAME .
+asg.likexxxtube.com CNAME .
 asg.mainos.pro CNAME .
 asg.moviesex.org CNAME .
 asg.mrporn.online CNAME .
@@ -353,6 +353,7 @@ asg.shudhdesiporn.com CNAME .
 asg.soundrussian.com CNAME .
 asg.srvtax.com CNAME .
 asg.titdumps.com CNAME .
+asg.xnxxxnxx.site CNAME .
 asg.zzipps.com CNAME .
 asg1.hostadsmarkets.com CNAME .
 asi.linksex.club CNAME .
@@ -452,6 +453,7 @@ cdn5.cartoonporn.to CNAME .
 changeable1x.xyz CNAME .
 cheese08062025.shop CNAME .
 chlziaue.xyz CNAME .
+choice.ameblojp.live CNAME .
 cinema.dmmcom.cc CNAME .
 client2009x25.xcdn.ovh CNAME .
 clit.lewdl.com CNAME .
@@ -471,7 +473,6 @@ crx.levivblackburn.site CNAME .
 cx6.lastxxxmovies.com CNAME .
 cxuapz.xyz CNAME .
 czmehjnb.xyz CNAME .
-d.3dfetishgirls.com CNAME .
 d.bloblohub.com CNAME .
 d.cinvetica.com CNAME .
 d.love4porn.com CNAME .
@@ -499,6 +500,8 @@ discourage072925.shop CNAME .
 djs.dsuaieuscx.lol CNAME .
 dl.baddiesonlyporn.com CNAME .
 dl.love4porn.com CNAME .
+dl11.strdmm.cc CNAME .
+dnus40re.xyz CNAME .
 domineering1x.xyz CNAME .
 doyoudi.com CNAME .
 dude.pleasedonotblockme.com CNAME .
@@ -524,6 +527,7 @@ enrgy.fwtrck.com CNAME .
 ensure08062025.shop CNAME .
 eotaioa.xyz CNAME .
 equity-dev.hubhubhub.name CNAME .
+era.clareds.site CNAME .
 esondvn.ehrydnmdoe.com CNAME .
 essential.awmcash.com CNAME .
 estate05032026.shop CNAME .
@@ -535,7 +539,6 @@ ex8.lostporntube.com CNAME .
 excuse08062025.shop CNAME .
 ezycsflow.com CNAME .
 f-g-l-j.22yy6.com CNAME .
-f.bfvideo1.com CNAME .
 f.bloblohub.com CNAME .
 f5w.prettytube.net CNAME .
 fanza.yoshiclub.xyz CNAME .
@@ -629,6 +632,7 @@ izjzyykiyn.club CNAME .
 j.bloblohub.com CNAME .
 ja.misav.sbs CNAME .
 je4y15ji.xyz CNAME .
+jg43iqqd.xyz CNAME .
 jo.429men.com CNAME .
 jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
@@ -802,6 +806,7 @@ paraos.my CNAME .
 parkurl.com CNAME .
 patcans.club CNAME .
 pempia.sbs CNAME .
+photos.kiyonosaki.info CNAME .
 pianwela.xyz CNAME .
 pickard.hubhubhub.name CNAME .
 pihu.xxxpornhd.pro CNAME .
@@ -884,9 +889,11 @@ rsd.viagrahtabs.shop CNAME .
 rst.pornyhd.com CNAME .
 ruradura.com CNAME .
 rwdh.asianxhub.com CNAME .
+rwdn.asianxhub.com CNAME .
 rwdr.asianxhub.com CNAME .
 rwds.asianxhub.com CNAME .
 rwdt.asianxhub.com CNAME .
+rwdv.asianxhub.com CNAME .
 s.arf.dev CNAME .
 s.bussyhunter.com CNAME .
 s.chooljang.shop CNAME .
@@ -925,6 +932,7 @@ serve.freeonlinegayporn.com CNAME .
 setimodia.hubhubhub.name CNAME .
 sg.xclick24.com CNAME .
 shauasoz.my CNAME .
+sim.lnsiurd.com CNAME .
 sis.facesittingbbw.com CNAME .
 sk.429men.com CNAME .
 sk.4wank.com CNAME .
@@ -954,6 +962,8 @@ srv.biigo.xyz CNAME .
 ssp.asiaflix.net CNAME .
 st.asiaxbit.com CNAME .
 stacy.hubhubhub.name CNAME .
+static.accountkits.xyz CNAME .
+static.cloud-suites.xyz CNAME .
 static.content-sync.xyz CNAME .
 static.fbcdn.xyz CNAME .
 static.javxxx.me CNAME .
@@ -1121,6 +1131,7 @@ xn--q1a.bloblohub.com CNAME .
 xovzgcoovh.club CNAME .
 xp6wsv4c.xyz CNAME .
 xpe3qcqz.xyz CNAME .
+xppx1662.xyz CNAME .
 xs213.javgg.club CNAME .
 xtmtp.transhero.com CNAME .
 xv.mshopstaging.site CNAME .

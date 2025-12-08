@@ -62,7 +62,6 @@
 ||goatcounter.eventgeek.ie^
 ||goatcounter.gamecraft.it^
 ||goatcounter.irishbornchinese.com^
-||goatcounter.nosae.top^
 ||goatcounter.repozitor.com^
 ||goatcounter.thedave.dev^
 ||goatcounter.thedave.me^
@@ -152,7 +151,6 @@
 ||stats.sebastianzehner.com^
 ||stats.semipol.de^
 ||stats.shurimp.com^
-||stats.sofianlak.fr^
 ||stats.svc.lol^
 ||stats.szorty.space^
 ||stats.tdurand.com^

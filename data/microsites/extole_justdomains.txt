@@ -111,7 +111,6 @@ share.tenmarks.com
 share.vimeo.com
 share.wimp.no
 share.worldmarket.com
-social.fabkids.com
 tellapal.register.com
 tellapal.web.com
 www.refercentier.com
@@ -176,6 +175,7 @@ refer.batesfootwear.com
 refer.bathandbodyworks.com
 refer.baxterofcalifornia.com
 refer.belkin.com
+refer.boltpharmacy.co.uk
 refer.booksy.com
 refer.bose.co.uk
 refer.bose.com

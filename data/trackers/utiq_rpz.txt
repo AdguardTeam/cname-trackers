@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,6 +142,7 @@ utiq.elcorreoweb.es CNAME .
 utiq.eldia.es CNAME .
 utiq.eldiario.es CNAME .
 utiq.eldiariomontanes.es CNAME .
+utiq.eleconomista.es CNAME .
 utiq.elmueble.com CNAME .
 utiq.elmundo.es CNAME .
 utiq.elnacional.cat CNAME .
@@ -448,6 +449,7 @@ utiq.vitonica.com CNAME .
 utiq.voici.fr CNAME .
 utiq.volksfest-freising.de CNAME .
 utiq.wa.de CNAME .
+utiq.watson.de CNAME .
 utiq.webedia.io CNAME .
 utiq.webnachrichten.de CNAME .
 utiq.welt-ctv.com CNAME .

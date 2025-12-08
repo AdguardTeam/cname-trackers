@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,7 +40,6 @@ tr.actu.rmcbfmplay.com CNAME .
 tr.actualites.bfmtv.com CNAME .
 tr.actualites.reseau-lcd.org CNAME .
 tr.actuentreprises.elior.fr CNAME .
-tr.actupremium.com CNAME .
 tr.actus-fdj.fr CNAME .
 tr.adhesion.ircom-laverriere.com CNAME .
 tr.afpa.espmp-cufr.net CNAME .
@@ -377,24 +376,18 @@ tr.elections.mnt.fr CNAME .
 tr.elections.simplivote.fr CNAME .
 tr.em.cdiscount-pro.com CNAME .
 tr.em.cdiscountpro.com CNAME .
-tr.email.aeroexpo.online CNAME .
-tr.email.agriexpo.online CNAME .
 tr.email.aktuariat.fr CNAME .
-tr.email.archiexpo.com CNAME .
 tr.email.chapsvisioncloud.com CNAME .
 tr.email.contact-jaguar.fr CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
 tr.email.d8.tv CNAME .
 tr.email.defiscaliser.com CNAME .
-tr.email.directindustry.com CNAME .
 tr.email.distributor-expo.com CNAME .
 tr.email.gap-france.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.janedeboy.com CNAME .
 tr.email.kinvent.com CNAME .
-tr.email.medicalexpo.com CNAME .
-tr.email.nauticexpo.com CNAME .
 tr.email.np6.com CNAME .
 tr.email.pointfranchise.co.uk CNAME .
 tr.email.renaultbank.fr CNAME .
@@ -404,7 +397,6 @@ tr.email.solocal.com CNAME .
 tr.email.thelem-assurances.fr CNAME .
 tr.email.toute-la-franchise.com CNAME .
 tr.email.videofutur.fr CNAME .
-tr.email.virtual-expo.com CNAME .
 tr.email.voyagesleclerc.com CNAME .
 tr.email.wtwco.com CNAME .
 tr.emailatia.fr CNAME .
@@ -1248,9 +1240,9 @@ f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
 f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
+lbv5.mperf.com CNAME .
 www.bfc-mp.caisse-epargne.fr CNAME .
 f1.mperf.com CNAME .
-lbv5.mperf.com CNAME .
 s.gemy.fr CNAME .
 s.np6.com CNAME .
 www.lgch.mp CNAME .

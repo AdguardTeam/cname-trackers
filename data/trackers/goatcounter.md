@@ -116,7 +116,6 @@
     * ngdangtu.goatcounter.com
     * nhimmeo.goatcounter.com
     * niravraval.goatcounter.com
-    * nosae.goatcounter.com
     * noscirep.goatcounter.com
     * novi.goatcounter.com
     * ooo.goatcounter.com
@@ -142,7 +141,6 @@
     * shu.goatcounter.com
     * skeetstats.goatcounter.com
     * slade.goatcounter.com
-    * sofianlak.goatcounter.com
     * storydragon.goatcounter.com
     * szorty.goatcounter.com
     * tailspace.goatcounter.com
@@ -297,7 +295,6 @@
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
 | stats.niravraval.com | niravraval.goatcounter.com |
-| goatcounter.nosae.top | nosae.goatcounter.com |
 | gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |
@@ -323,7 +320,6 @@
 | stats.shurimp.com | shu.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
 | dot-com-stats.sladewatkins.net | slade.goatcounter.com |
-| stats.sofianlak.fr | sofianlak.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | stats.szorty.space | szorty.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,7 +20,6 @@ ana.grumpygamer.com CNAME .
 analytics.adam.page CNAME .
 analytics.andrewsmith.com.au CNAME .
 analytics.arunraghavan.net CNAME .
-analytics.basistheory.com CNAME .
 analytics.betterplaces.nl CNAME .
 analytics.churchthemes.com CNAME .
 analytics.codeforscience.org CNAME .
@@ -165,7 +164,6 @@ plausible.app.tlschedule.com CNAME .
 plausible.as207960.net CNAME .
 plausible.bablab.com CNAME .
 plausible.bacanalia.net CNAME .
-plausible.baychi.org CNAME .
 plausible.beanti.me CNAME .
 plausible.benscarblog.com CNAME .
 plausible.bostad.shop CNAME .
@@ -228,7 +226,6 @@ plausible.treelightsoftware.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.veszelovszki.com CNAME .
 plausible.wordstamped.com CNAME .
-plausible.x.baychi.org CNAME .
 plausible.yalepaprika.com CNAME .
 plausible.zest.dev CNAME .
 plausible.zorin.com CNAME .

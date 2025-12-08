@@ -91,7 +91,6 @@
     * 38b9eeba-6pusefyf.cname.ebis.ne.jp
     * 39ebd0e8-gy66xg6s.cname.ebis.ne.jp
     * 3a3d0355-kkto8pe9.cname.ebis.ne.jp
-    * 3aa5341b-y4rfthkp.cname.ebis.ne.jp
     * 3b0f7041-5crkmmew.cname.ebis.ne.jp
     * 3ba7c801-gwbfzy7a.cname.ebis.ne.jp
     * 3c39ea6e-px3cltrd.cname.ebis.ne.jp
@@ -455,7 +454,6 @@
 | ebis-tracking.kawaguchi-keisei.com | 38b9eeba-6pusefyf.cname.ebis.ne.jp |
 | kataribe.kataribecms.com | 39ebd0e8-gy66xg6s.cname.ebis.ne.jp |
 | ebis.seibu-k.co.jp | 3a3d0355-kkto8pe9.cname.ebis.ne.jp |
-| campaign-direct.ketsuatsu-taisaku.xyz | 3aa5341b-y4rfthkp.cname.ebis.ne.jp |
 | ac.geechs-job.com | 3b0f7041-5crkmmew.cname.ebis.ne.jp |
 | adebis.kirin.co.jp | 3ba7c801-gwbfzy7a.cname.ebis.ne.jp |
 | ebis202001.joyfit.jp | 3c39ea6e-px3cltrd.cname.ebis.ne.jp |

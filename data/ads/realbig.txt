@@ -1,6 +1,5 @@
 !
 ! Company name: RealBig
-||1.vakuumnyy-stimulyator.ru^
 ||1.xcfaprb0325.ru^
 ||a.rb-ya.ru^
 ||a.resr.ru^

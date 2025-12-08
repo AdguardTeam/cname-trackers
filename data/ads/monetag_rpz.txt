@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,33 +17,17 @@ $TTL 300
 536i.com CNAME .
 6tip.com CNAME .
 80xy.com CNAME .
-abarbokan.com CNAME .
-amelectivireer.com CNAME .
-astropiusa.com CNAME .
-audraghafamign.com CNAME .
 be06.com CNAME .
-betpanpourer.com CNAME .
 d70i.com CNAME .
 f03f.com CNAME .
 g4nd.com CNAME .
-glaingotseemt.com CNAME .
 gys5.com CNAME .
 ih31.com CNAME .
 ips9.com CNAME .
-itfeebason.com CNAME .
-itonixr.com CNAME .
 jup9.com CNAME .
 k3on.com CNAME .
-kighoadouk.com CNAME .
 ldy5.com CNAME .
-mamsauphoachoap.com CNAME .
-offsnivyor.com CNAME .
-ontyrogueom.com CNAME .
 r8bz.com CNAME .
-roulatioser.com CNAME .
-softaignidsoom.com CNAME .
-uncobalionr.com CNAME .
-unslowbror.com CNAME .
 xgr5.com CNAME .
 xgv1.com CNAME .
 yovcb.com CNAME .

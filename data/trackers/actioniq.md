@@ -55,7 +55,6 @@
 | anx.learnwithhomer.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
 | mr-in.beginlearning.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
 | mr-in.littlepassports.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
-| anx-new.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx-staging.learnwithhomer.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
 | mr-in-staging.beginlearning.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
@@ -115,7 +114,6 @@
 | a.callawaygolf.com | tcb-prod.actioniq.mr-in.com |
 | a.callawaygolfpreowned.com | tcb-prod.actioniq.mr-in.com |
 | a.ogio.com | tcb-prod.actioniq.mr-in.com |
-| a.topgolf.com | tcb-prod.actioniq.mr-in.com |
 | aiqx.travismathew.ca | tcb-prod.actioniq.mr-in.com |
 | aiqx.travismathew.co.uk | tcb-prod.actioniq.mr-in.com |
 | aiqx.travismathew.com | tcb-prod.actioniq.mr-in.com |

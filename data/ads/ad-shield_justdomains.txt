@@ -21,7 +21,6 @@
 0.www.45564736.xyz
 0.www.46222568.xyz
 0.www.47206262.xyz
-0.www.47235645.xyz
 0.www.49709796.xyz
 0.www.4tr3sopq592o7svp1q6mn3.xyz
 0.www.50873vmk3263-7sk.xyz
@@ -137,7 +136,6 @@
 1.www.45564736.xyz
 1.www.46222568.xyz
 1.www.47206262.xyz
-1.www.47235645.xyz
 1.www.49709796.xyz
 1.www.4tr3sopq592o7svp1q6mn3.xyz
 1.www.50873vmk3263-7sk.xyz
@@ -257,7 +255,6 @@
 2.www.45564736.xyz
 2.www.46222568.xyz
 2.www.47206262.xyz
-2.www.47235645.xyz
 2.www.49709796.xyz
 2.www.4tr3sopq592o7svp1q6mn3.xyz
 2.www.50873vmk3263-7sk.xyz
@@ -372,7 +369,6 @@
 3.www.45564736.xyz
 3.www.46222568.xyz
 3.www.47206262.xyz
-3.www.47235645.xyz
 3.www.49709796.xyz
 3.www.4tr3sopq592o7svp1q6mn3.xyz
 3.www.50873vmk3263-7sk.xyz
@@ -488,7 +484,6 @@
 4.www.45564736.xyz
 4.www.46222568.xyz
 4.www.47206262.xyz
-4.www.47235645.xyz
 4.www.49709796.xyz
 4.www.4tr3sopq592o7svp1q6mn3.xyz
 4.www.4tuswl47353p4wl8lsk.xyz
@@ -606,7 +601,6 @@
 5.www.45564736.xyz
 5.www.46222568.xyz
 5.www.47206262.xyz
-5.www.47235645.xyz
 5.www.49709796.xyz
 5.www.4tr3sopq592o7svp1q6mn3.xyz
 5.www.50873vmk3263-7sk.xyz
@@ -722,7 +716,6 @@
 6.www.45564736.xyz
 6.www.46222568.xyz
 6.www.47206262.xyz
-6.www.47235645.xyz
 6.www.49709796.xyz
 6.www.4tr3sopq592o7svp1q6mn3.xyz
 6.www.50873vmk3263-7sk.xyz
@@ -837,7 +830,6 @@
 7.www.45564736.xyz
 7.www.46222568.xyz
 7.www.47206262.xyz
-7.www.47235645.xyz
 7.www.49709796.xyz
 7.www.4tr3sopq592o7svp1q6mn3.xyz
 7.www.50873vmk3263-7sk.xyz
@@ -954,7 +946,6 @@
 8.www.45564736.xyz
 8.www.46222568.xyz
 8.www.47206262.xyz
-8.www.47235645.xyz
 8.www.49709796.xyz
 8.www.4tr3sopq592o7svp1q6mn3.xyz
 8.www.50873vmk3263-7sk.xyz
@@ -1058,7 +1049,6 @@
 9.www.4547u5qms0m2um3rrum2wuo.xyz
 9.www.45564736.xyz
 9.www.47206262.xyz
-9.www.47235645.xyz
 9.www.49709796.xyz
 9.www.4tr3sopq592o7svp1q6mn3.xyz
 9.www.50873vmk3263-7sk.xyz
@@ -1277,4 +1267,3 @@ www.wqq881m8uwq1k5m-4p7lv7.xyz
 www.yippeewhenever.com
 www.yuckbleaklyphooeywhen.com
 www.yumhusk.com
-www.37267612.xyz

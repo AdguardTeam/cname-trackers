@@ -21,7 +21,6 @@
 | analytics.adam.page | custom.plausible.io |
 | analytics.andrewsmith.com.au | custom.plausible.io |
 | analytics.arunraghavan.net | custom.plausible.io |
-| analytics.basistheory.com | custom.plausible.io |
 | analytics.betterplaces.nl | custom.plausible.io |
 | analytics.churchthemes.com | custom.plausible.io |
 | analytics.codeforscience.org | custom.plausible.io |
@@ -166,7 +165,6 @@
 | plausible.as207960.net | custom.plausible.io |
 | plausible.bablab.com | custom.plausible.io |
 | plausible.bacanalia.net | custom.plausible.io |
-| plausible.baychi.org | custom.plausible.io |
 | plausible.beanti.me | custom.plausible.io |
 | plausible.benscarblog.com | custom.plausible.io |
 | plausible.bostad.shop | custom.plausible.io |
@@ -229,7 +227,6 @@
 | plausible.urbanekuensteruhr.de | custom.plausible.io |
 | plausible.veszelovszki.com | custom.plausible.io |
 | plausible.wordstamped.com | custom.plausible.io |
-| plausible.x.baychi.org | custom.plausible.io |
 | plausible.yalepaprika.com | custom.plausible.io |
 | plausible.zest.dev | custom.plausible.io |
 | plausible.zorin.com | custom.plausible.io |

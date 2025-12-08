@@ -87,7 +87,6 @@
     * midtc3-delivery.aquaplatform.com
     * midtc4-delivery.aquaplatform.com
     * midtc5-delivery.aquaplatform.com
-    * milenar-delivery.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
     * mondiale-static.aquaplatform.com
     * myadsmyanmar-console.aquaplatform.com
@@ -300,7 +299,6 @@
 | pawads.midtc.com | midtc3-delivery.aquaplatform.com |
 | adamsads.midtc.com | midtc4-delivery.aquaplatform.com |
 | media360ads.midtc.com | midtc5-delivery.aquaplatform.com |
-| ads-delivery.milenarmedia.pt | milenar-delivery.aquaplatform.com |
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | static.mondiale.co.uk | mondiale-static.aquaplatform.com |

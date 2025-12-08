@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -351,6 +351,7 @@ br.campirates.com CNAME .
 br.celebjihad.live CNAME .
 br.drtuberlive.com CNAME .
 br.hot-india.com CNAME .
+br.hotzcam.com CNAME .
 br.live7mm.tv CNAME .
 br.lpt.stripchat.global CNAME .
 br.myavlive.com CNAME .
@@ -364,6 +365,7 @@ br.stripchat.beeg.com CNAME .
 br.stripchat.cam CNAME .
 br.stripchat.global CNAME .
 br.stripchat.org CNAME .
+br.stripchat.webcam CNAME .
 br.superchatlive.com CNAME .
 br.us.superchat.live CNAME .
 br.vbr.omg.adult CNAME .
@@ -427,6 +429,7 @@ cs.cambaddies.com CNAME .
 cs.celebjihad.live CNAME .
 cs.freestrip.chat CNAME .
 cs.hot-india.com CNAME .
+cs.hotzcam.com CNAME .
 cs.liveandsexy.cam CNAME .
 cs.myavlive.com CNAME .
 cs.nsfwlivechat.com CNAME .
@@ -437,7 +440,10 @@ cs.xham.live CNAME .
 cs.xhlive.cam CNAME .
 cs.xmates.com CNAME .
 cycling.sexfortokens.com CNAME .
+da.hotzcam.com CNAME .
+da.spankbanglive.com CNAME .
 da.stripchat.dk CNAME .
+da.xham.live CNAME .
 da.xhlive.cam CNAME .
 dailycult.xhamsterlive.info CNAME .
 dapurkreasi-simonlebon.stripchat.org CNAME .
@@ -447,7 +453,9 @@ de.boyfriend.show CNAME .
 de.eronite.chat CNAME .
 de.hot-india.com CNAME .
 de.livecamlovetr.com CNAME .
+de.mycamtv.com CNAME .
 de.nsfwlivechat.com CNAME .
+de.omg.adult CNAME .
 de.sexfortokens.com CNAME .
 de.shemale.show CNAME .
 de.stripchat.global CNAME .
@@ -460,12 +468,15 @@ de.xhlive.org CNAME .
 debi.xhlive.cam CNAME .
 departments.strp.chat CNAME .
 doraemon.sexfortokens.com CNAME .
+drtuberlive.com CNAME .
 dummy.145.32.89.spankbanglive.com CNAME .
 dutchamazingnewsblog.myavlive.com CNAME .
 educationaltech-med.superchat.live CNAME .
 einsteinium.camsplanetlive.com CNAME .
 el.boyfriend.show CNAME .
+el.camsplanetlive.com CNAME .
 el.celebjihad.live CNAME .
+el.hotzcam.com CNAME .
 el.kinkscams.com CNAME .
 el.mycamtv.com CNAME .
 el.nsfwlivechat.com CNAME .
@@ -483,12 +494,15 @@ en.myavlive.com CNAME .
 en.xham.live CNAME .
 enattendant-2012.xhamsterlive.info CNAME .
 es.aznudelive.com CNAME .
+es.boyfriend.show CNAME .
 es.cambaddies.com CNAME .
+es.celebjihad.live CNAME .
 es.drtuberlive.com CNAME .
 es.hot-india.com CNAME .
 es.liveandsexy.cam CNAME .
 es.myavlive.com CNAME .
 es.mycamtv.com CNAME .
+es.nsfwlivechat.com CNAME .
 es.omg.adult CNAME .
 es.sexfortokens.com CNAME .
 es.shemale.show CNAME .
@@ -497,6 +511,7 @@ es.stripchat.beeg.com CNAME .
 es.stripchat.cam CNAME .
 es.stripchat.global CNAME .
 es.stripchat.org CNAME .
+es.stripchatgirls.com CNAME .
 es.strp.chat CNAME .
 es.superchatlive.com CNAME .
 es.tklivechat.com CNAME .
@@ -527,6 +542,7 @@ fr.boyfriend.show CNAME .
 fr.cambaddies.com CNAME .
 fr.celebjihad.live CNAME .
 fr.colsex.com CNAME .
+fr.hot-india.com CNAME .
 fr.hotzcam.com CNAME .
 fr.liveandsexy.cam CNAME .
 fr.motherlesslive.com CNAME .
@@ -580,6 +596,7 @@ go.id.xhlive.cam CNAME .
 go.live.javmix.tv CNAME .
 go.liveandsexy.cam CNAME .
 go.myavlive.com CNAME .
+go.mycamtv.com CNAME .
 go.nsfwlivechat.com CNAME .
 go.nudescam18.com CNAME .
 go.omg.adult CNAME .
@@ -590,6 +607,8 @@ go.spankbanglive.com CNAME .
 go.stripchat.beeg.com CNAME .
 go.stripchat.cam CNAME .
 go.stripchat.global CNAME .
+go.stripchat.io CNAME .
+go.stripchat.org CNAME .
 go.stripchat.vision CNAME .
 go.stripchat.webcam CNAME .
 go.stripchatgirls.com CNAME .
@@ -601,11 +620,13 @@ go.tklivechat.com CNAME .
 go.tranny.show CNAME .
 go.ua.drtuberlive.com CNAME .
 go.vi.hotzcam.com CNAME .
+go.vi.stripchats.io CNAME .
 go.xham.live CNAME .
 go.xhlive.cam CNAME .
 go.xhlive.net CNAME .
 go.xhlive.org CNAME .
 go.zt.omg.adult CNAME .
+go.zt.spankbanglive.com CNAME .
 gr.stripchat.beeg.com CNAME .
 hansjtruth.chiccams.com CNAME .
 hermes.tklivechat.com CNAME .
@@ -650,20 +671,25 @@ info.stripchat.global CNAME .
 informasicirebon.omg.adult CNAME .
 ip-118.xhlive.cam CNAME .
 ipggi.stripchat.global CNAME .
+it.celebjihad.live CNAME .
 it.drtuberlive.com CNAME .
 it.hotzcam.com CNAME .
 it.liveandsexy.cam CNAME .
+it.mycamtv.com CNAME .
+it.nsfwlivechat.com CNAME .
 it.omg.adult CNAME .
 it.sexygirlspics.live CNAME .
 it.spankbanglive.com CNAME .
 it.stripchat.global CNAME .
 it.stripchatlive.com CNAME .
 it.stripchats.io CNAME .
+it.superchatlive.com CNAME .
 it.xham.live CNAME .
 it.xhlive.cam CNAME .
 it.xhlive.net CNAME .
 ive.mycamtv.com CNAME .
 ja.boyfriend.show CNAME .
+ja.colsex.com CNAME .
 ja.drtuberlive.com CNAME .
 ja.hot-india.com CNAME .
 ja.hotzcam.com CNAME .
@@ -699,9 +725,13 @@ ko.omg.adult CNAME .
 ko.shemale.show CNAME .
 ko.stripchat.cam CNAME .
 ko.stripchat.global CNAME .
+ko.stripchat.io CNAME .
+ko.stripchat.org CNAME .
 ko.stripchatgirls.com CNAME .
 ko.stripchats.io CNAME .
+ko.superchat.live CNAME .
 ko.superchatlive.com CNAME .
+ko.tklivechat.com CNAME .
 ko.xham.live CNAME .
 ko.xhlive.cam CNAME .
 kolom-tutorial.myavlive.com CNAME .
@@ -777,6 +807,7 @@ ms.shemale.show CNAME .
 ms.spankbanglive.com CNAME .
 ms.stripchat.global CNAME .
 ms.tranny.show CNAME .
+ms.xham.live CNAME .
 ms.xhlive.cam CNAME .
 ms.xhlive.net CNAME .
 mta-sts.mail.eroscam24.ch CNAME .
@@ -894,6 +925,7 @@ pl.camsplanetlive.com CNAME .
 pl.celebjihad.live CNAME .
 pl.chiccams.com CNAME .
 pl.hot-india.com CNAME .
+pl.hotzcam.com CNAME .
 pl.live.javmix.tv CNAME .
 pl.liveandsexy.cam CNAME .
 pl.mycamtv.com CNAME .
@@ -947,6 +979,7 @@ promocouponscodes.stripchats.io CNAME .
 proskore.xhamsterlive.info CNAME .
 protein174.cambaddies.com CNAME .
 pt.aznudelive.com CNAME .
+pt.boyfriend.show CNAME .
 pt.celebjihad.live CNAME .
 pt.colsex.com CNAME .
 pt.drtuberlive.com CNAME .
@@ -1000,6 +1033,7 @@ rfm.xhlive.org CNAME .
 richardmuscat.chiccams.com CNAME .
 richardwiseman.stripchat.org CNAME .
 ro.aznudelive.com CNAME .
+ro.boyfriend.show CNAME .
 ro.celebjihad.live CNAME .
 ro.drtuberlive.com CNAME .
 ro.live7mm.tv CNAME .
@@ -1019,6 +1053,7 @@ ro.strp.chat CNAME .
 ro.superchat.live CNAME .
 ro.tklivechat.com CNAME .
 ro.tranny.show CNAME .
+ro.xham.live CNAME .
 ro.xhlive.cam CNAME .
 ro.xhlive.net CNAME .
 ro.xhlive.org CNAME .
@@ -1044,12 +1079,14 @@ ru.chiccams.com CNAME .
 ru.colsex.com CNAME .
 ru.drtuberlive.com CNAME .
 ru.eu.superchatlive.com CNAME .
+ru.hotzcam.com CNAME .
 ru.kinkscams.com CNAME .
 ru.la.spankbanglive.com CNAME .
 ru.live7mm.tv CNAME .
 ru.liveandsexy.cam CNAME .
 ru.livecamlovetr.com CNAME .
 ru.motherlesslive.com CNAME .
+ru.myavlive.com CNAME .
 ru.mycamtv.com CNAME .
 ru.nsfwlivechat.com CNAME .
 ru.nudescam18.com CNAME .
@@ -1332,6 +1369,7 @@ th.myavlive.com CNAME .
 th.mycamtv.com CNAME .
 th.porndudecams.com CNAME .
 th.spankbanglive.com CNAME .
+th.stripchat.global CNAME .
 th.stripchatgirls.com CNAME .
 th.stripchats.io CNAME .
 th.superchatlive.com CNAME .
@@ -1406,6 +1444,7 @@ tr.strip-chat.club CNAME .
 tr.stripchat.beeg.com CNAME .
 tr.stripchat.cam CNAME .
 tr.stripchat.global CNAME .
+tr.stripchat.io CNAME .
 tr.stripchat.porn CNAME .
 tr.stripchat.run CNAME .
 tr.stripchat.vision CNAME .
@@ -1421,6 +1460,7 @@ tr.tklivechat.com CNAME .
 tr.tranny.show CNAME .
 tr.webcam.ac CNAME .
 tr.wonderboobs.live CNAME .
+tr.xham.live CNAME .
 tr.xhlive.cam CNAME .
 tr.xhlive.net CNAME .
 tr.xhlive.org CNAME .
@@ -1918,6 +1958,7 @@ zh.sexygirlspics.live CNAME .
 zh.shemale.show CNAME .
 zh.strip-chat.club CNAME .
 zh.stripchat.beeg.com CNAME .
+zh.stripchat.global CNAME .
 zh.stripchat.webcam CNAME .
 zh.stripchatgirls.com CNAME .
 zh.stripchatlive.com CNAME .
@@ -1954,6 +1995,7 @@ zt.shemale.show CNAME .
 zt.spankbanglive.com CNAME .
 zt.stripchat.vision CNAME .
 zt.stripchat.webcam CNAME .
+zt.stripchatgirls.com CNAME .
 zt.stripchats.io CNAME .
 zt.superchat.live CNAME .
 zt.superchatlive.com CNAME .

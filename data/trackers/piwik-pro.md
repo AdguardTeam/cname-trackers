@@ -3,9 +3,9 @@
 ## Disguised trackers list
 
 * piwik.pro
-    * akvo.piwik.pro
     * amsterdam.piwik.pro
     * aumago.piwik.pro
+    * com-on.piwik.pro
     * czgroep.piwik.pro
     * dealerspike-prod.piwik.pro
     * ec-prod-infra.piwik.pro
@@ -24,7 +24,6 @@
     * pp-public-p-use.piwik.pro
     * public-p-swe2.piwik.pro
     * rechtspraak.piwik.pro
-    * relayto.piwik.pro
     * rijksoverheid.piwik.pro
     * rvo.piwik.pro
     * sozialversicherung.piwik.pro
@@ -32,8 +31,10 @@
     * storck.piwik.pro
     * tigital.piwik.pro
     * triodos.piwik.pro
+    * tweedekamer.piwik.pro
     * uninstalled.piwik.pro
     * uwv.piwik.pro
+    * vodafonedotcom.piwik.pro
     * wavelz.piwik.pro
     * witglobal.piwik.pro
 
@@ -41,9 +42,9 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
+| piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
@@ -77,6 +78,7 @@
 | piwik.eib.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
+| piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
 | piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
 | polpharmaanalytics.pl | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
@@ -118,7 +120,6 @@
 | mphdd.multipharma.be | public-p-swe2.piwik.pro |
 | stats.manz.at | public-p-swe2.piwik.pro |
 | statistiek.rechtspraak.nl | rechtspraak.piwik.pro |
-| a.relayto.com | relayto.piwik.pro |
 | statistiek.rijksoverheid.nl | rijksoverheid.piwik.pro |
 | statistiek.rvo.nl | rvo.piwik.pro |
 | analysis.sozialversicherung.at | sozialversicherung.piwik.pro |
@@ -127,12 +128,14 @@
 | logfiles.storck.com | storck.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
+| pwk.tweedekamer.nl | tweedekamer.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |
 | tag2.uwv.nl | uwv.piwik.pro |
+| piwikpro.vodafone.com | vodafonedotcom.piwik.pro |
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |
 | analytics.witglobal.net | witglobal.piwik.pro |

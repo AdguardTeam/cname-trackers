@@ -9,7 +9,6 @@
 ||analytics.adam.page^
 ||analytics.andrewsmith.com.au^
 ||analytics.arunraghavan.net^
-||analytics.basistheory.com^
 ||analytics.betterplaces.nl^
 ||analytics.churchthemes.com^
 ||analytics.codeforscience.org^
@@ -154,7 +153,6 @@
 ||plausible.as207960.net^
 ||plausible.bablab.com^
 ||plausible.bacanalia.net^
-||plausible.baychi.org^
 ||plausible.beanti.me^
 ||plausible.benscarblog.com^
 ||plausible.bostad.shop^
@@ -217,7 +215,6 @@
 ||plausible.urbanekuensteruhr.de^
 ||plausible.veszelovszki.com^
 ||plausible.wordstamped.com^
-||plausible.x.baychi.org^
 ||plausible.yalepaprika.com^
 ||plausible.zest.dev^
 ||plausible.zorin.com^

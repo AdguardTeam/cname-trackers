@@ -8,7 +8,6 @@
 
 * form.bp01.net
 * f1.mailperf.com
-* f1.mailperformance.com
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
 * tr1.bp06.net
@@ -19,13 +18,13 @@
 | ---- | ---- |
 | tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
 | f1.mperf.com | f1.mailperf.com |
-| lbv5.mperf.com | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
 | f1.mailperformance.com | form.bp01.net |
 | f1.np6.com | form.bp01.net |
 | infojeux.paris.fr | form.bp01.net |
+| lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
@@ -60,7 +59,6 @@
 | tr.actualites.bfmtv.com | tracking.bp01.net |
 | tr.actualites.reseau-lcd.org | tracking.bp01.net |
 | tr.actuentreprises.elior.fr | tracking.bp01.net |
-| tr.actupremium.com | tracking.bp01.net |
 | tr.actus-fdj.fr | tracking.bp01.net |
 | tr.adhesion.ircom-laverriere.com | tracking.bp01.net |
 | tr.afpa.espmp-cufr.net | tracking.bp01.net |
@@ -397,24 +395,18 @@
 | tr.elections.simplivote.fr | tracking.bp01.net |
 | tr.em.cdiscount-pro.com | tracking.bp01.net |
 | tr.em.cdiscountpro.com | tracking.bp01.net |
-| tr.email.aeroexpo.online | tracking.bp01.net |
-| tr.email.agriexpo.online | tracking.bp01.net |
 | tr.email.aktuariat.fr | tracking.bp01.net |
-| tr.email.archiexpo.com | tracking.bp01.net |
 | tr.email.chapsvisioncloud.com | tracking.bp01.net |
 | tr.email.contact-jaguar.fr | tracking.bp01.net |
 | tr.email.contact-landrover.fr | tracking.bp01.net |
 | tr.email.custom-campaign.com | tracking.bp01.net |
 | tr.email.d8.tv | tracking.bp01.net |
 | tr.email.defiscaliser.com | tracking.bp01.net |
-| tr.email.directindustry.com | tracking.bp01.net |
 | tr.email.distributor-expo.com | tracking.bp01.net |
 | tr.email.gap-france.fr | tracking.bp01.net |
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
 | tr.email.kinvent.com | tracking.bp01.net |
-| tr.email.medicalexpo.com | tracking.bp01.net |
-| tr.email.nauticexpo.com | tracking.bp01.net |
 | tr.email.np6.com | tracking.bp01.net |
 | tr.email.pointfranchise.co.uk | tracking.bp01.net |
 | tr.email.renaultbank.fr | tracking.bp01.net |
@@ -424,7 +416,6 @@
 | tr.email.thelem-assurances.fr | tracking.bp01.net |
 | tr.email.toute-la-franchise.com | tracking.bp01.net |
 | tr.email.videofutur.fr | tracking.bp01.net |
-| tr.email.virtual-expo.com | tracking.bp01.net |
 | tr.email.voyagesleclerc.com | tracking.bp01.net |
 | tr.email.wtwco.com | tracking.bp01.net |
 | tr.emailatia.fr | tracking.bp01.net |

@@ -397,6 +397,7 @@ tms.capitalone.com
 tms.cheq.ai
 tms.delta.com
 tms.experian.com
+tms.hicaps.com.au
 tms.jbwere.com.au
 tms.kone.com
 tms.marriott.com

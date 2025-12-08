@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,7 +73,6 @@ goatcounter.codinggrace.com CNAME .
 goatcounter.eventgeek.ie CNAME .
 goatcounter.gamecraft.it CNAME .
 goatcounter.irishbornchinese.com CNAME .
-goatcounter.nosae.top CNAME .
 goatcounter.repozitor.com CNAME .
 goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
@@ -163,7 +162,6 @@ stats.ryanchmelir.com CNAME .
 stats.sebastianzehner.com CNAME .
 stats.semipol.de CNAME .
 stats.shurimp.com CNAME .
-stats.sofianlak.fr CNAME .
 stats.svc.lol CNAME .
 stats.szorty.space CNAME .
 stats.tdurand.com CNAME .

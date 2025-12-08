@@ -17,7 +17,6 @@
 ||adimages.rtvdrenthe.nl^
 ||adimages.sniffies.com^
 ||ads-console.recon.com^
-||ads-delivery.milenarmedia.pt^
 ||ads-static.recon.com^
 ||ads.bidspotter.co.uk^
 ||ads.cavalier-romand.ch^

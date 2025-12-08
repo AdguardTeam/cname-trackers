@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,7 +11,6 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-1.vakuumnyy-stimulyator.ru CNAME .
 1.xcfaprb0325.ru CNAME .
 a.rb-ya.ru CNAME .
 a.resr.ru CNAME .

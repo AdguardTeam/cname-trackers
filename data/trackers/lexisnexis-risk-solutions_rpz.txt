@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -919,6 +919,7 @@ profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
 protection.bt.com CNAME .
+protection.ee.co.uk CNAME .
 provider-services.openbank.mx CNAME .
 ptm.creditas.com CNAME .
 public-check3-at.test.tiaa-cref.org CNAME .

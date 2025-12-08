@@ -32,7 +32,6 @@
     * divvybikes.extole.com
     * dnj.extole.com
     * ebags.extole.com
-    * fabkids-ssl.extole.com
     * fivestars.extole.com
     * freshdirect.extole.com
     * fuzebox-ssl.extole.com
@@ -841,9 +840,9 @@
 | www.extoleu.com | extoleu.extole.io |
 | www.rob.extoleu.com | extoleu.extole.io |
 | www.rob2.extoleu.com | extoleu.extole.io |
-| social.fabkids.com | fabkids-ssl.extole.com |
 | refer.familysavingscu.com | familysavingscu.extole.io |
 | share.fastbridgefiber.com | fastbridgefiber.extole.io |
+| refer.boltpharmacy.co.uk | fellahealth.extole.io |
 | refer.fellahealth.com | fellahealth.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |

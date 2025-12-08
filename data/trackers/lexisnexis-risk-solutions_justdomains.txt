@@ -908,6 +908,7 @@ profiling.cmo.cibc.com
 profiling.digitalbusiness.cibc.com
 profiling.qacitizensbankonline.com
 protection.bt.com
+protection.ee.co.uk
 provider-services.openbank.mx
 ptm.creditas.com
 public-check3-at.test.tiaa-cref.org

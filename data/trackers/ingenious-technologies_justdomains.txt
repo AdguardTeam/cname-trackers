@@ -2938,6 +2938,7 @@ art.net.daraz.com
 aserver-core-authenticate.net.daraz.com
 aserverv2-interaction.net.daraz.com
 assetsvops-ns2.viviotech.net.daraz.com
+atlas.r.akipam.com
 atlasv2-interaction.net.daraz.com
 autdfw3orization.summer.net.daraz.com
 authealimeboticate.net.daraz.com
@@ -3126,7 +3127,6 @@ car21c.administrators.net.daraz.com
 car21cejav.net.daraz.com
 careers.00-bootstrap.net.daraz.com
 carimusikmu-csr41.application.net.daraz.com
-carimusikmu.twtelecom.azure.net.daraz.com
 carimusikmuapplication-spring.net.daraz.com
 cas.frontpage-partner.net.daraz.com
 cas.kube-partner.net.daraz.com
@@ -3250,7 +3250,6 @@ connectedtwtelecom.azustaging-ocr-drzlivee.net.daraz.com
 connectedtwtelecom.banner.azure.net.daraz.com
 connectedtwtelecom.bejav.net.daraz.com
 connectedtwtelecom.board-azure.net.daraz.com
-connectedtwtelecom.dcloudzure.net.daraz.com
 connectedtwtelecom.dfw3.net.daraz.com
 connectedtwtelecom.dlzure.net.daraz.com
 connectedtwtelecom.kubemarketing.net.daraz.com
@@ -3379,6 +3378,7 @@ desktop.engineapplication-spring.net.daraz.com
 desktopchd-www.partner.net.daraz.com
 desmtp1ops-ns2.smtp1ismtp1iotech.net.daraz.com
 deutops-ns2.utiutiotech.net.daraz.com
+dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com
 dev-csr41.application.net.daraz.com
 dev.10-marketing.net.daraz.com
 dev1ps-ns2.vivi1tech.net.daraz.com
@@ -3408,7 +3408,6 @@ devops-csr40.viviotech.net.daraz.com
 devops-devops2.viviotech.net.daraz.com
 devops-iopaccount2.viviotech.net.daraz.com
 devops-july.viviotech.net.daraz.com
-devops-ns2-azure.viviotech.net.daraz.com
 devops-ns2-dmetrictestapi.viviotech.net.daraz.com
 devops-ns2-dr01.viviotech.net.daraz.com
 devops-ns2-photo.viviotech.net.daraz.com
@@ -3417,7 +3416,6 @@ devops-ns2-sites.viviotech.net.daraz.com
 devops-ns2-windows.viviotech.net.daraz.com
 devops-ns2.applicationviviotech.net.daraz.com
 devops-ns2.auth-viviotech.net.daraz.com
-devops-ns2.clientes.net.daraz.com
 devops-ns2.clubpartnerviviotech.net.daraz.com
 devops-ns2.correoviviotech.net.daraz.com
 devops-ns2.d.viviotech.net.daraz.com
@@ -3432,7 +3430,6 @@ devops-ns2.tomcat.net.daraz.com
 devops-ns2.vivftech.net.daraz.com
 devops-ns2.vivioht.net.daraz.com
 devops-ns2.vivioipv6.net.daraz.com
-devops-ns2.vivionginx.net.daraz.com
 devops-ns2.viviosecure.net.daraz.com
 devops-ns2.viviotech-docs.net.daraz.com
 devops-ns2.viviotech-gmail.net.daraz.com
@@ -3450,7 +3447,6 @@ devops-ns2.viviotech.root.net.daraz.com
 devops-ns2.viviotechip6.net.daraz.com
 devops-ns2.viviotechlinks.net.daraz.com
 devops-ns2.viviotechm2.net.daraz.com
-devops-ns2.viviotechpull-pk-aka-drzlive.net.daraz.com
 devops-ns2.viviotechsftp.net.daraz.com
 devops-ns2.viviotecut.net.daraz.com
 devops-ns2.vivioteoutgoingh.net.daraz.com
@@ -3474,7 +3470,6 @@ devops-nssales.viviotech.net.daraz.com
 devops-pp2.viviotech.net.daraz.com
 devops-time.viviotech.net.daraz.com
 devopunix-nunix2.viviotech.net.daraz.com
-devopvmware-nvmware2.viviotech.net.daraz.com
 devovpns-ns2.viviotech.net.daraz.com
 devoweblogs-ns2.viviotech.net.daraz.com
 devpull-id-drzlive-ns2.viviotech.net.daraz.com
@@ -3485,7 +3480,6 @@ devsiteadminps-ns2.vivisiteadmintech.net.daraz.com
 devzong-sftp-ns2.viviotech.net.daraz.com
 dewsusops-ns2.wsusiwsusiotech.net.daraz.com
 dex-3arketing.net.daraz.com
-dex-api.ae2-dfw3-dr02.net.daraz.com
 dexdocsnewnautilus12345proxy3.net.daraz.com
 dfaxfaxl.nfax.emailvifaxion.authenticate.net.daraz.com
 dfw3-management-application-spring.net.daraz.com
@@ -3494,7 +3488,6 @@ dhar-dhar-authpartner.net.daraz.com
 dhar.doclogin.net.daraz.com
 dhcms.k8s-prd.n-switch.net.daraz.com
 dhcmsdocsnewnautilus12345proxy3.net.daraz.com
-dibellsouthbledpartner.net.daraz.com
 digitalacademy-00-bootstrap.net.daraz.com
 diorgbledpartner.net.daraz.com
 dipocztaabledpartner.net.daraz.com
@@ -3655,7 +3648,6 @@ dssl.ns.emailneonision.authenticate.net.daraz.com
 dssl.ns.emailuat-oneloadpkision.authenticate.net.daraz.com
 dssl.ns.emailvisielearningn.authenticate.net.daraz.com
 dssl.ns.emailvisilann.authenticate.net.daraz.com
-dssl.ns.emailvision-00.authenticate.net.daraz.com
 dssl.ns.emailvision.aaliexamhenticate.net.daraz.com
 dssl.ns.emailvision.aelbthenticate.net.daraz.com
 dssl.ns.emailvision.ai.authenticate.net.daraz.com
@@ -3795,13 +3787,13 @@ ftrain-r-oa-1eya.ttrain-r-oa-1ain.net.daraz.com
 fw-emailvision.email.freya.net.daraz.com
 fwpartner.net.daraz.com
 g.patner.net.daraz.com
+g.whatsapp.net.iberostar.com
 g3eyftdvsrkkbfi4.net.daraz.com
 gallery.emailvision.panel.net.daraz.com
 groups-3arketing.net.daraz.com
 groups-zigzagstr.administrators.net.daraz.com
 groupwise-apidocs-winter.net.daraz.com
 groupwisee2-dfw3-dr02.net.daraz.com
-grqfdhmm1vj0ni9u.net.daraz.com
 h-adashx-spring.net.daraz.com
 h-adashx123pago.docs.net.daraz.com
 h-adashxocsnewnautilus12345proxy3.net.daraz.com
@@ -3825,7 +3817,6 @@ janus.r.jakuli.com
 jenciolq4id0rnvr.be.net.daraz.com
 jenciolq4id0rnvr.view.net.daraz.com
 jenkinstest-authorization.summer.net.daraz.com
-jenkinstest.ns.emailvision.authenticate.net.daraz.com
 jinx.net.daraz.com
 jiramanage.lib-oa-1.net.daraz.com
 jiratwtelecom.azure.net.daraz.com
@@ -3867,7 +3858,6 @@ kibanaevops-ns2.viviotech.net.daraz.com
 kibanassl.ns.emailvision.authenticate.net.daraz.com
 kr01-car21-10-r-oa-1.net.daraz.com
 kube-partner-newsite.net.daraz.com
-kube-partnerpreferences.net.daraz.com
 kube-partnersitebuilder.net.daraz.com
 kube-partnerzigzagstr.administrators.net.daraz.com
 kube23pago-loginvc.doclogin.net.daraz.com
@@ -3952,7 +3942,6 @@ marketing.spyder-api-prod.net.daraz.com
 marketing.tngwstage.net.daraz.com
 marketing.tr.netsalesmedia.pl
 marketingad.net.daraz.com
-marketingallenseo.net.daraz.com
 marketingjs.net.daraz.com
 marketingpcfwsh.net.daraz.com
 marketingpudiscover-kh.net.daraz.com
@@ -3991,7 +3980,6 @@ mgmt.paspyder-api-prodtnespyder-api-prod.net.daraz.com
 mgmt.paxspacener.net.daraz.com
 mgmt.pdeveloperstner.net.daraz.com
 mgmt.ppull-bd-alt1-drzlivertner.net.daraz.com
-mgmt.rabbitmqpartner.net.daraz.com
 mgmt.radioartner.net.daraz.com
 mgmt.socialx.net.daraz.com
 mgmt.topup.net.daraz.com
@@ -3999,7 +3987,6 @@ mgmt.uk.net.daraz.com
 mgmt.www.net.daraz.com
 mgmtclub.partner.net.daraz.com
 mgmtwsus.partner.net.daraz.com
-mirror.partner.net.daraz.com
 missions-01-car21-10-r-oa-1.net.daraz.com
 missions006-zigzagstr.net.daraz.com
 mk8s-prd.n-switch.net.daraz.com
@@ -4055,10 +4042,10 @@ n6x026.01-car21-web-wwww0node.net.daraz.com
 nadmin8.emailviadmin8ion.uadmin8.net.daraz.com
 nca3.mobilecl.bellcaouth.net.daraz.com
 neon.manage.lib-oa-1.net.daraz.com
+neso.r.niwepa.com
 net.brillen.de
 net.daraz.com
 net.home24.it
-net.jumia.ug
 net35.net.jumia.cm
 netfrontcar31.net.daraz.com
 news.bejav.net.daraz.com
@@ -4069,6 +4056,7 @@ nginx-car21c-f8.net.daraz.com
 nl-www.partner.net.daraz.com
 nnews3.mobilecl.bellnewsouth.net.daraz.com
 noldsite.emailvioldsiteion.uoldsite.net.daraz.com
+northamerica.net.daraz.com
 npartners.emailvipartnersion.ebpartners.net.daraz.com
 nrobinhood3.mobilecl.bellrobinhoodouth.net.daraz.com
 ns-01-lib-oa-1-admin8.emailvision.panel.net.daraz.com
@@ -4079,7 +4067,6 @@ ns-seller-shop.emailvision.ebs.net.daraz.com
 ns-socialx.emailvision.ebs.net.daraz.com
 ns-x-space.emailvision.ebs.net.daraz.com
 ns.bob-emailvision.panel.net.daraz.com
-ns.csr40-emailvision.panel.net.daraz.com
 ns.edevopsvision.panel.net.daraz.com
 ns.egermanyailvision.panel.net.daraz.com
 ns.elbemailvision.us.net.daraz.com
@@ -4094,9 +4081,7 @@ ns.emaillaboratorysion.us.net.daraz.com
 ns.emailmobsion.us.net.daraz.com
 ns.emailmusicsion.panel.net.daraz.com
 ns.emailntision.ebs.net.daraz.com
-ns.emailpmasion.ebs.net.daraz.com
 ns.emailproision.panel.net.daraz.com
-ns.emailremotesion.us.net.daraz.com
 ns.emailsurveysion.panel.net.daraz.com
 ns.emailvconnection.panel.net.daraz.com
 ns.emailvimages1ion.us.net.daraz.com
@@ -4144,7 +4129,6 @@ ns.emailvision.us-pre-bms.net.daraz.com
 ns.emailvision.us.push.net.daraz.com
 ns.emailvision.us.score-api.net.daraz.com
 ns.emailvision.usadmin8.net.daraz.com
-ns.emailvisipayment.us.net.daraz.com
 ns.emailvisiuat-oneloadpk.us.net.daraz.com
 ns.emailvpatnerion.us.net.daraz.com
 ns.emailvpreion.us.net.daraz.com
@@ -4166,7 +4150,6 @@ ns.ns10emailvision.ebs.net.daraz.com
 ns.partnervision.us.net.daraz.com
 ns.patner-emailvision.ebs.net.daraz.com
 ns.pre-pull-alt2-drzlive-emailvision.panel.net.daraz.com
-ns.projects.emailvision.ebs.net.daraz.com
 ns.score-emailvision.ebs.net.daraz.com
 ns.x.ebs.net.daraz.com
 ns01bejav.net.daraz.com
@@ -4190,7 +4173,6 @@ ns3.weblogobilecl.bellsouth.net.daraz.com
 ns3disabledpartner.net.daraz.com
 ns3vms.mobilecl.bellsouth.net.daraz.com
 nscalendar.emailvision.ebs.net.daraz.com
-nsm.tr.netsalesmedia.pl
 nsosx.emailvision.panel.net.daraz.com
 nspartner-cdnpre-bms-seller.emailvision.panel.net.daraz.com
 ntpevops-ns2.viviotech.net.daraz.com
@@ -4210,7 +4192,6 @@ pafrontpage-partnerner.net.daraz.com
 pages.n-switch.net.daraz.com
 painmueblesner.net.daraz.com
 papre-pull-alt2-drzlivetnepre-pull-alt2-drzlive.net.daraz.com
-partar.net.daraz.com
 partner-summer.net.daraz.com
 partner-switch.net.daraz.com
 partner.stage-ocr.net.daraz.com
@@ -4228,7 +4209,6 @@ phermestner.net.daraz.com
 pluto.r.powuta.com
 pluto2-cfw-c2s-01-n6x026.net.daraz.com
 poczta-car21-10-r-oa-1.net.daraz.com
-pop.net.daraz.com
 pop3.123pago-svc.docs.net.daraz.com
 pp01-car21-web-wwww11node-webapp.net.daraz.com
 ppp.frontpage-partner.net.daraz.com
@@ -4254,19 +4234,18 @@ pull-pk-local-drzlive-bejav.assets.net.daraz.com
 pull-pk-local-drzlive.summer.net.daraz.com
 push-bd-drzlive-doitruy.emailvision.net.daraz.com
 push-devops-ns2.viviotech.net.daraz.com
-push-id-drzlive123pago.docs.net.daraz.com
 push-pk-drzlive.skidoitruy-doitruy.emailvision.net.daraz.com
 pwinrtner.net.daraz.com
 qqn-switch.net.daraz.com
 qr.bellsouth.administrator.net.daraz.com
 r.01-car21-web-wwww0node.net.daraz.com
+r.akipam.com
 r.jakuli.com
 r.lafamo.com
 r.net.daraz.com
 rabbitmq.net.daraz.com
 radioapplication-spring.net.daraz.com
 ras.ns3.mobilecl.bellsouth.net.daraz.com
-raw.net.daraz.com
 redmineraganredmineredmineropobjects.net.daraz.com
 reseaccessicted-r-ht-2.net.daraz.com
 restrictbejav.assets.net.daraz.com
@@ -4296,7 +4275,6 @@ sg.net.daraz.com
 share-123pago-svc.docs.net.daraz.com
 shop.ebs-partner.net.daraz.com
 singedartner.net.daraz.com
-sitebuildercsr41.application.net.daraz.com
 sjaidoitruy-doitruy.emailvision.net.daraz.com
 sjc12draganddropobjects.net.daraz.com
 skidoboardruy-doboardruy.emailvision.net.daraz.com
@@ -4356,7 +4334,6 @@ stage-esattamatka-stagegran3.net.daraz.com
 stage-esattamatka.hakodatestaging.net.daraz.com
 stage-famicom.net.daraz.com
 stage-gieluccastaging.joatoon.net.daraz.com
-stage-legacy-stage-bgu-sso.net.daraz.com
 stage-legacy-stagingjavascript123.net.daraz.com
 stage-legacy-stagingpt.net.daraz.com
 stage-legacygreenlinkstaging.net.daraz.com
@@ -4373,7 +4350,6 @@ stage-posao13novac.be.net.daraz.com
 stage-spyder-api.partner.net.daraz.com
 stage-spyder-pdp-partner.net.daraz.com
 stage-spyder-pdp.management-application-spring.net.daraz.com
-stage-spyder-vpdp-bejav.net.daraz.com
 stage-spyder-vpdpenticate.net.daraz.com
 stage-tfpnjstage-obong.net.daraz.com
 stage-toonjoa.kepanjangan.net.daraz.com
@@ -4476,7 +4452,6 @@ stagemymangaonlineportalluisgomesrn.net.daraz.com
 stagemymangaonlinestageturbopk.net.daraz.com
 stagemymangastagingen-gb-help.net.daraz.com
 stageobong-art4now-com.net.daraz.com
-stageobong-hiperbet.net.daraz.com
 stageobong-pocket.net.daraz.com
 stageobong-stage-tanakaensh.net.daraz.com
 stageobong-stagecareersatsea.net.daraz.com
@@ -4492,7 +4467,6 @@ stageollehello.joatoon.net.daraz.com
 stageopen.staging.hcmprod-staff.net.daraz.com
 stageopenstageatid.net.daraz.com
 stagepaltypink77stage-mhb-dhcp.net.daraz.com
-stagepay114-staging.joatoon.net.daraz.com
 stageprecollegestaging-parmakla.net.daraz.com
 stageredway.net.daraz.com
 stagerodnii-kunstaging-csprod-ss.net.daraz.com
@@ -4526,13 +4500,11 @@ staging-bonnie00412-staging.mp4teluguwap.net.daraz.com
 staging-bonnie00412.net.daraz.com
 staging-bskamalovstagingwww.ysr.net.daraz.com
 staging-ccgenerator.stagegameofporn.net.daraz.com
-staging-ce-onlinestaging.electraltd.net.daraz.com
 staging-codevipngocrong2018.rail.net.daraz.com
 staging-cointoon-isletmestage.net.daraz.com
 staging-cointoon-kantaphatstage.net.daraz.com
 staging-cointoon.blogpinggir.net.daraz.com
 staging-cointoon.evaluacion.net.daraz.com
-staging-cointoonstage-e-procurement.net.daraz.com
 staging-cointoonstageyitirilmis.net.daraz.com
 staging-craftmod-staging.lagu123.net.daraz.com
 staging-croirstagingparmakla.net.daraz.com
@@ -4543,7 +4515,6 @@ staging-csnewfilmzones-ss.net.daraz.com
 staging-cspaphopustage-ss.net.daraz.com
 staging-csprod-ss-mca.net.daraz.com
 staging-csprod-ss-ryusstory.net.daraz.com
-staging-csprod-ss-sabukarunews-stage.net.daraz.com
 staging-csprod-ss-sandromoscoloni.net.daraz.com
 staging-csprod-ss-scure111.net.daraz.com
 staging-csprod-ss-search.net.daraz.com
@@ -4597,11 +4568,9 @@ svc.manage.lib-oa-1.net.daraz.com
 testdraganddropobjects.net.daraz.com
 thumbs-partner.net.daraz.com
 tokenbroker.net.daraz.com
-toolarketingpush.net.daraz.com
 topup123pago-loginvc.doclogin.net.daraz.com
 tpnb9jr6vfs6poks.docs.net.daraz.com
 tracker-patner.net.daraz.com
-train.net.daraz.com
 trestrictedtelecom.azure.net.daraz.com
 trucking-ns.emailvision.panel.net.daraz.com
 tunnelvtunneliltunnelble.net.daraz.com
@@ -4649,7 +4618,6 @@ v2-interactionauth.net.daraz.com
 v2-interactionfrontpage.net.daraz.com
 v2-interactionfulcrum.net.daraz.com
 v2-interactionpages.net.daraz.com
-v2-interactipre-pull-drzliven.net.daraz.com
 v2-interactisqlserver.net.daraz.com
 v2-intezong-stagingction.net.daraz.com
 vaultbellsouth.administrator.net.daraz.com
@@ -4675,6 +4643,7 @@ wordpressorization.summer.net.daraz.com
 work.00proplus3xn.net.daraz.com
 work123pago.docs.net.daraz.com
 workstationzzpa3e62zt91c04r.administrator.net.daraz.com
+wptv.net.daraz.com
 wrz0gjzdhsrt4rky.net.daraz.com
 wssu.net.daraz.com
 wssudraganddropobjects.net.daraz.com
@@ -4729,7 +4698,6 @@ zeynepharikalardiyarinda-stage-stage-bollyshare.net.daraz.com
 zeynepharikalardiyarinda.staging-srv.net.daraz.com
 zigzagstr.administrators-k1push.net.daraz.com
 zigzagstr.administrators01-car21c-f8.net.daraz.com
-zigzagstr.administratorsdraganddropobjects.net.daraz.com
 zigzagstr.admins.net.daraz.com
 zigzagstr.alumniadministrators.net.daraz.com
 zigzagstr.dns.administrators.net.daraz.com
@@ -4789,7 +4757,6 @@ zzpa3e62zt91c04r.adminiiptrator.net.daraz.com
 zzpa3e62zt91c04r.administrator-car21.net.daraz.com
 zzpa3e62zt91c04r.administrator.pull-pk-aka-drzlive.net.daraz.com
 zzpa3e62zt91c04r.administratorbootstrap.net.daraz.com
-zzpa3e62zt91c04r.administratorstage-trucking.net.daraz.com
 zzpa3e62zt91c04r.administratorstage.net.daraz.com
 zzpa3e62zt91c04r.dropadministrator.net.daraz.com
 zzpa3e62zt91c04r.n.net.daraz.com
@@ -4797,7 +4764,6 @@ zzpa3e62zt91c04r.s-administrator.net.daraz.com
 zzpa3e62zt91c04r.samples.administrator.net.daraz.com
 zzpa3e62zt91c04r.vortex-administrator.net.daraz.com
 zzpa3e62zt91movil04r.administrator.net.daraz.com
-zzpa3e62zt91pop04r.administrator.net.daraz.com
 zzpa3e6drzlivezt91c04r.administrator.net.daraz.com
 zzpa3e6pre-rg-sgzt91c04r.administrator.net.daraz.com
 zzpdbs3e62zt91c04r.dbsdministrdbstor.net.daraz.com
@@ -4809,3 +4775,5 @@ et-3-0-2.gw1.mia19.alter.net.iberostar.com
 net.home24.at
 net.home24.be
 net.jumia.ma
+net.jumia.ug
+nsm.tr.netsalesmedia.pl

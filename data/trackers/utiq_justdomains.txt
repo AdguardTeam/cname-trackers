@@ -131,6 +131,7 @@ utiq.elcorreoweb.es
 utiq.eldia.es
 utiq.eldiario.es
 utiq.eldiariomontanes.es
+utiq.eleconomista.es
 utiq.elmueble.com
 utiq.elmundo.es
 utiq.elnacional.cat
@@ -437,6 +438,7 @@ utiq.vitonica.com
 utiq.voici.fr
 utiq.volksfest-freising.de
 utiq.wa.de
+utiq.watson.de
 utiq.webedia.io
 utiq.webnachrichten.de
 utiq.welt-ctv.com

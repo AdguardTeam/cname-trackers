@@ -33,9 +33,11 @@
 ||al.entresquare.com^
 ||al.epoi-jp.com^
 ||al.everlifegroup.jp^
+||al.f-kayama.com^
 ||al.fafa-shop.com^
 ||al.fakui.jp^
 ||al.ffs-online.shop^
+||al.free-spirits.co.jp^
 ||al.fundokin.co.jp^
 ||al.ganzo.ne.jp^
 ||al.germanpet.com^

@@ -106,7 +106,6 @@
 ||etracker.cjd.de^
 ||etracker.limbachgruppe.com^
 ||etracker.lukas-becker.eu^
-||etracker.mammutmarsch.de^
 ||etracker.novicon.net^
 ||etracker.riess-gruppe.de^
 ||etracker.seoversiert.de^
@@ -127,6 +126,7 @@
 ||lolly.needforsweet.de^
 ||maschine.bengs-modellbau.de^
 ||mensch.ekd.de^
+||met.hanser-literaturverlage.de^
 ||meter.rhinobag.de^
 ||metrics.bauwerk.de^
 ||metrics.cannamedical.com^
@@ -168,6 +168,7 @@
 ||statistics.hagnauer.org^
 ||statistics.krohne.com^
 ||statistics.xpedite-dx.com^
+||stats.brune-company.de^
 ||stats.die-bibel.de^
 ||stats.eliveshop.de^
 ||stats.folienmarkt.de^

@@ -3,8 +3,6 @@
 ## Disguised trackers list
 
 * non.li
-    * origin.non.li
-    * tls-ebra.non.li
     * tls-lp-cm.non.li
     * tls-rfi.non.li
     * tls.non.li
@@ -33,25 +31,6 @@
 | social.terre-net-occasions.fr | non.li |
 | static.nonli.com | non.li |
 | sur.laprovence.com | non.li |
-| l.bienpublic.com | origin.non.li |
-| l.bienpublic.com | origin.non.li |
-| l.dna.fr | origin.non.li |
-| l.dna.fr | origin.non.li |
-| l.estrepublicain.fr | origin.non.li |
-| l.lalsace.fr | origin.non.li |
-| l.lalsace.fr | origin.non.li |
-| l.ledauphine.com | origin.non.li |
-| l.lejsl.com | origin.non.li |
-| l.leprogres.fr | origin.non.li |
-| l.republicain-lorrain.fr | origin.non.li |
-| l.bienpublic.com | tls-ebra.non.li |
-| l.dna.fr | tls-ebra.non.li |
-| l.estrepublicain.fr | tls-ebra.non.li |
-| l.lalsace.fr | tls-ebra.non.li |
-| l.ledauphine.com | tls-ebra.non.li |
-| l.lejsl.com | tls-ebra.non.li |
-| l.leprogres.fr | tls-ebra.non.li |
-| l.republicain-lorrain.fr | tls-ebra.non.li |
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
@@ -198,6 +177,7 @@
 | l.lavoixdunord.fr | tls.non.li |
 | l.le-pays.fr | tls.non.li |
 | l.le10sport.com | tls.non.li |
+| l.leberry.fr | tls.non.li |
 | l.lechasseurfrancais.com | tls.non.li |
 | l.lechorepublicain.fr | tls.non.li |
 | l.lecourriercauchois.fr | tls.non.li |
@@ -289,6 +269,7 @@
 | l.sports.fr | tls.non.li |
 | l.sudinfo.be | tls.non.li |
 | l.sudouest.fr | tls.non.li |
+| l.supersoluce.com | tls.non.li |
 | l.telestar.fr | tls.non.li |
 | l.tendanceouest.com | tls.non.li |
 | l.terrafemina.com | tls.non.li |

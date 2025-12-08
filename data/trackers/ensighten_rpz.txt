@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1764576009236        ; Serial
+           1765180810862        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -408,6 +408,7 @@ tms.capitalone.com CNAME .
 tms.cheq.ai CNAME .
 tms.delta.com CNAME .
 tms.experian.com CNAME .
+tms.hicaps.com.au CNAME .
 tms.jbwere.com.au CNAME .
 tms.kone.com CNAME .
 tms.marriott.com CNAME .
