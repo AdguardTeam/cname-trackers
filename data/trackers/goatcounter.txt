@@ -1,6 +1,5 @@
 !
 ! Company name: GoatCounter
-||a.50-nuances-octets.fr^
 ||anal.sataniskwijt.be^
 ||analytics.applycreatures.com^
 ||analytics.astuto.io^
@@ -157,6 +156,7 @@
 ||stats.timothechau.vet^
 ||stats.tinkerer.tools^
 ||stats.trainsley69.me^
+||stats.tramax.com.ar^
 ||stats.transactional.blog^
 ||stats.umcconnell.net^
 ||stats.uygar.sh^

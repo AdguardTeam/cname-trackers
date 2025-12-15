@@ -46,7 +46,6 @@
 ||a8.bousui-pro.com^
 ||a8.brandcosme.com^
 ||a8.brandkaimasu.com^
-||a8.bridal-hills.com^
 ||a8.buddyup.shop^
 ||a8.buvlabo.com^
 ||a8.campaign.musclesuit.co.jp^
@@ -225,7 +224,6 @@
 ||a8.nosh.jp^
 ||a8.novicetokyo.com^
 ||a8.o-tayori.com^
-||a8.obihiro-butaichi.jp^
 ||a8.ocnk.net^
 ||a8.okamotogroup.com^
 ||a8.olightstore.jp^

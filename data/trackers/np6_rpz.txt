@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -360,8 +360,6 @@ tr.dogstrust.org.uk CNAME .
 tr.donateur.afm-telethon.fr CNAME .
 tr.dossier-assurance.maaf.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
-tr.e-mail.axa.fr CNAME .
-tr.e-mail.axabanque.fr CNAME .
 tr.e-travaux.info CNAME .
 tr.e.entreprise-pm.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
@@ -432,7 +430,6 @@ tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
 tr.enquetes.actionlogement.fr CNAME .
 tr.entreprise-pro.info CNAME .
-tr.entreprise.axa.fr CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.eqs.cpam67.net CNAME .
 tr.ere.emailing.bnpparibas CNAME .
@@ -900,7 +897,6 @@ tr.news.supercasino.fr CNAME .
 tr.news.teklifim.pro CNAME .
 tr.news.tf1licences.com CNAME .
 tr.news.thelist-emirates.fr CNAME .
-tr.news.themedtechforum.eu CNAME .
 tr.news.toocampmail.com CNAME .
 tr.news.toute-la-franchise.com CNAME .
 tr.news.triskalia.fr CNAME .
@@ -1230,6 +1226,7 @@ tr2.mperf.com CNAME .
 tr4.mailperf.com CNAME .
 tr5.mailperf.com CNAME .
 tr5.mperf.com CNAME .
+tr6.mperf.com CNAME .
 www.fodgfip.fr CNAME .
 www.newsletter.banquepopulaire.fr CNAME .
 www.np6.eu CNAME .
@@ -1238,13 +1235,12 @@ cotemaison.np6.com CNAME .
 f1.demo.np6.com CNAME .
 f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
+f1.mperf.com CNAME .
 f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
 www.bfc-mp.caisse-epargne.fr CNAME .
-f1.mperf.com CNAME .
 s.gemy.fr CNAME .
 s.np6.com CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
-tr6.mperf.com CNAME .

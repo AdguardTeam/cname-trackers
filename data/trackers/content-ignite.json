@@ -51,6 +51,7 @@
   "collect.sixpad.jp": "uconnect-alb-greylabel-712393914.ap-northeast-1.elb.amazonaws.com",
   "collect.tommy.com": "uconnect-alb-greylabel-1511792371.eu-central-1.elb.amazonaws.com",
   "connect.afterpay.com": "uconnect-alb-greylabel-688203775.us-east-1.elb.amazonaws.com",
+  "d.meinschiff.com": "d.meinschiff.com.greylabeldelivery.com",
   "databridge.mtgec.jp": "prod-databridge-external-alb-1023055160.ap-northeast-1.elb.amazonaws.com",
   "databridge.sixpad.jp": "prod-databridge-external-alb-1023055160.ap-northeast-1.elb.amazonaws.com",
   "dcjm-tms.gestalterbank.de": "dcjm-tms.gestalterbank.de.greylabeldelivery.com",

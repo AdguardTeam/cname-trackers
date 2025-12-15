@@ -390,7 +390,6 @@
 | data.news.juventus.com | 645617463084043.wt-eu02.net |
 | info.deltapublishing.co.uk | 654069251471705.wt-eu02.net |
 | web.slimjoy.es | 657801072187647.wt-eu02.net |
-| web.slimjoy.org | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | web.mapp.edenred.it | 667035493029158.wt-eu02.net |

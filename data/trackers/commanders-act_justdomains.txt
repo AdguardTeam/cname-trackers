@@ -4,6 +4,7 @@ data.decathlon.co.uk
 data.decathlon.es
 data.decathlon.fr
 data.decathlon.pl
+data.ubi.com
 data.wptag.net
 logger.yp.ca
 sales.disneylandparis.com
@@ -12,14 +13,13 @@ tagcommander.laredoute.ch
 tagcommander.laredoute.de
 tagcommander.laredoute.pt
 tagcommander.laredoute.ru
-tc.europcar.com.au
 configure.adlermode.com
 data.decathlon.it
 data.e-immobilier.credit-agricole.fr
-data.ubi.com
 tag.boulanger.fr
 tc.europcar.be
 tc.europcar.com
+tc.europcar.com.au
 tc.europcar.de
 tc.europcar.es
 tc.europcar.pt

@@ -5,7 +5,6 @@
 * goatcounter.com
     * 0687.goatcounter.com
     * 45rpm-ch.goatcounter.com
-    * 50no.goatcounter.com
     * abdodaoud.goatcounter.com
     * abdoughnut.goatcounter.com
     * acut3.goatcounter.com
@@ -126,6 +125,7 @@
     * psiyum.goatcounter.com
     * qrdate.goatcounter.com
     * r18.goatcounter.com
+    * radiomax.goatcounter.com
     * repath-studio.goatcounter.com
     * riccardomurachelli.goatcounter.com
     * riggraz.goatcounter.com
@@ -179,7 +179,6 @@
 | ---- | ---- |
 | statgarden.florinesueur.fr | 0687.goatcounter.com |
 | stats.45rpm.ch | 45rpm-ch.goatcounter.com |
-| a.50-nuances-octets.fr | 50no.goatcounter.com |
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.abdo.wtf | abdoughnut.goatcounter.com |
 | gc.acut3.net | acut3.goatcounter.com |
@@ -305,6 +304,7 @@
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
 | stats.r18.dev | r18.goatcounter.com |
+| stats.tramax.com.ar | radiomax.goatcounter.com |
 | analytics.repath.studio | repath-studio.goatcounter.com |
 | stats.riccardomurachelli.it | riccardomurachelli.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |

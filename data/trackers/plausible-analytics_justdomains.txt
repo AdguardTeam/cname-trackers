@@ -92,7 +92,6 @@ meter.bref.sh
 metric.methoddev.com
 metrics.creit.tech
 metrics.earrieta.dev
-metrics.recunia.de
 momotaro.craigmod.com
 momotaro.walkkumano.com
 munnin.hicsuntdra.co
@@ -288,7 +287,6 @@ stat.umsu.de
 static.osalta.eu
 statistic.jac-systeme.de
 statistics.heatbeat.de
-statistics.leohoesl.com
 statistik.apartments-tirolerhaus.at
 statman.sesong.info
 stats.69grad.de
@@ -654,7 +652,6 @@ stats.principedepaz.gt
 stats.processserver101.com
 stats.procumeni.cz
 stats.prodtype.com
-stats.profilehunt.net
 stats.profitablesignpricing.com
 stats.projectcongress.com
 stats.psychotherapieravensburg.de

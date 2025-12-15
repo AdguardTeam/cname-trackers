@@ -5,9 +5,7 @@
 * piwik.pro
     * amsterdam.piwik.pro
     * aumago.piwik.pro
-    * com-on.piwik.pro
     * czgroep.piwik.pro
-    * dealerspike-prod.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
     * eib.piwik.pro
@@ -16,6 +14,7 @@
     * helen.piwik.pro
     * ind.piwik.pro
     * masterworks.piwik.pro
+    * multipharma.piwik.pro
     * opanalytics.piwik.pro
     * pp-koop-p-euw.piwik.pro
     * pp-public-p-aea.piwik.pro
@@ -28,15 +27,14 @@
     * rvo.piwik.pro
     * sozialversicherung.piwik.pro
     * stateofohio.piwik.pro
-    * storck.piwik.pro
     * tigital.piwik.pro
     * triodos.piwik.pro
-    * tweedekamer.piwik.pro
+    * twyzle-prod.piwik.pro
     * uninstalled.piwik.pro
     * uwv.piwik.pro
-    * vodafonedotcom.piwik.pro
     * wavelz.piwik.pro
     * witglobal.piwik.pro
+    * zwilling.piwik.pro
 
 ## Cloaking domains
 
@@ -44,9 +42,7 @@
 | ---- | ---- |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
-| piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
-| stats.dealerspike.com | dealerspike-prod.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
 | piwik.eib.org | eib.piwik.pro |
@@ -56,6 +52,7 @@
 | statistics.ind.nl | ind.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
+| mphdd.multipharma.be | multipharma.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | tagmanager.becop.nl | pp-koop-p-euw.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
@@ -78,7 +75,6 @@
 | piwik.eib.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
-| piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
 | piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
 | polpharmaanalytics.pl | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
@@ -118,6 +114,7 @@
 | gmn.gloo.com | pp-public-p-use.piwik.pro |
 | site-analytics.iop.ohio.gov | pp-public-p-use.piwik.pro |
 | mphdd.multipharma.be | public-p-swe2.piwik.pro |
+| mphdd.multipharma.be | public-p-swe2.piwik.pro |
 | stats.manz.at | public-p-swe2.piwik.pro |
 | statistiek.rechtspraak.nl | rechtspraak.piwik.pro |
 | statistiek.rijksoverheid.nl | rijksoverheid.piwik.pro |
@@ -125,17 +122,17 @@
 | analysis.sozialversicherung.at | sozialversicherung.piwik.pro |
 | analytics.dx.ohio.gov | stateofohio.piwik.pro |
 | site-analytics.iop.ohio.gov | stateofohio.piwik.pro |
-| logfiles.storck.com | storck.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
-| pwk.tweedekamer.nl | tweedekamer.piwik.pro |
+| t-pan.triodos.com | triodos.piwik.pro |
+| piwik.twyzle.com | twyzle-prod.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |
 | tag2.uwv.nl | uwv.piwik.pro |
-| piwikpro.vodafone.com | vodafonedotcom.piwik.pro |
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |
 | analytics.witglobal.net | witglobal.piwik.pro |
+| p.zwilling.com | zwilling.piwik.pro |

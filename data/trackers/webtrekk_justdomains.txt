@@ -340,7 +340,6 @@ web.sensilab.si
 web.sensilab.sk
 web.sidsavage.com
 web.slimjoy.es
-web.slimjoy.org
 web.slimjoy.sk
 web.solesource.com
 web.tamaris.com

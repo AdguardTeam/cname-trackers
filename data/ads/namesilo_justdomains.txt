@@ -816,7 +816,8 @@
 8.notify.bizonads-ssp.com
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
-a.6hd49jng.com
+a.8jfbt5va3r.com
+a.adsession.com
 a.advantageclicks.net
 a.b2bstars.com
 a.b7q9v8z.com
@@ -908,6 +909,7 @@ m.hue11.com
 m.hue2b.com
 m.optidigital.com
 mail17.notifysrv.com
+main.exdynsrv.com
 main.exoclick.com
 main.exosrv.com
 main.realsrv.com
@@ -953,9 +955,11 @@ s.crme7srv.com
 s.datingclix.com
 s.ds10lf.com
 s.ds165z.com
+s.ds2beb.com
 s.ds3u8n.com
 s.ds3zoh.com
 s.ds4de1.com
+s.ds4i8a.com
 s.ds4zqa.com
 s.ds6n6c.com
 s.ds7khy.com
@@ -1154,7 +1158,6 @@ sv3.notifysrv.com
 svn.notifysrv.com
 sw.notifysrv.com
 syndication-adblock.exoclick.com
-syndication-json.exoclick.com
 syndication.dynsrvtbg.com
 syndication.dynsrvwer.com
 syndication.elink12.com
@@ -1288,8 +1291,7 @@ www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
 a.18ramp.com
-a.8jfbt5va3r.com
-a.adsession.com
+a.6hd49jng.com
 a.advertrek.com
 a.allureanews.com
 a.asvsm.com
@@ -1306,3 +1308,4 @@ a.rocoads.net
 a.santabrowser.com
 a.t5z3w0p.com
 a.traffic-gold.com
+syndication-json.exoclick.com

@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME disguised microsites list
 # Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-# TimeUpdated: 2025-12-08T08:00:10+00:00
+# TimeUpdated: 2025-12-15T08:00:17+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 0-13-9-crs.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediadrsprofildr.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediadrsprofildr.datadoghq.oohmediaomprooohmediadrspage.agent.ap1.datadoghq.com
@@ -16,7 +16,6 @@
 039ff33996.ba2448462a.com
 03rproxjqg5imz2-c.adkclicker.fr
 040f090395.b76d324ae6.com
-0436e447eb.bf4a39dfe0.com
 0446b5647b.61847b1398.com
 048ifc-88ww1n-5munyx9r-l9yy0yu.xhamsterlive.info
 056.omg.adult
@@ -200,7 +199,6 @@
 100004113.collect.igodigital.com
 100004118.collect.igodigital.com
 100004290.collect.igodigital.com
-100004434.collect.igodigital.com
 100004437.collect.igodigital.com
 100004442.collect.igodigital.com
 100004512.collect.igodigital.com
@@ -453,7 +451,6 @@
 1libertaire.stripchats.io
 1pgtvprzsdyakbf-p.adktrack32.xyz
 1to1dialogue.thunderhead.com
-20fff4ff2f.e2605341ca.com
 21634aa7ae.2ba0f6361c.com
 242.net-31.172.freestrip.chat
 242.net-31.172.stripchatgirls.com
@@ -468,7 +465,6 @@
 27caae0237.5a8b835ce5.com
 28.static.shemale.show
 290405.xhamsterlive.info
-29ab6fe859.658c9e9187.com
 2ae1e74240.c29013edc2.com
 2bmvvx5wsy7iqo3-p.adktrack30.xyz
 2ce242283a.3aa2de320e.com
@@ -477,7 +473,6 @@
 2dbc658dbe.8888b3ac06.com
 2e1aaa5ac9.3e1b245c19.com
 2f32381512.3d19359f22.com
-2f744850a9.4fcd77ec66.com
 2hxji75mlx96dro-p.kmotrack.xyz
 2jgbn9x8ozw60nj-p.adktrack37.xyz
 2mcizfbqhuqzkys-c.adkoffer.fr
@@ -498,7 +493,6 @@
 3338dcd372.11ef3f3e0d.com
 3382824cd3.46cccb1813.com
 339e1113be.4f8ba4d7e8.com
-357ceb3cef.289537e8c0.com
 35a9d60d1d.808ba9fe3d.com
 35f1f7129e.279a342278.com
 37fde8ca0b.d603b6ccf0.com
@@ -830,7 +824,6 @@
 7akfvczdhzmrp5c-c.adkclicker.fr
 7b04ae1dbf.bb1b9b8ea2.com
 7b26070d7b.68d48e2725.com
-7bdc97a611.469ccf55cc.com
 7c9edd89e2.5fbc7e29cd.com
 7efa876ad4.d0abc3646f.com
 7fbe7b63e4.abfd9d8ecc.com
@@ -861,7 +854,9 @@
 8ql60l2kzjanitvc.internal.pov.acceldatasolutions.net
 8uii.hot-india.com
 9.cambaddies.com
+9287e003c6.5e08c93d2d.com
 9352c090d1.11a0ba1170.com
+95056ac920.62d280f2c7.com
 950cjmyvgerwpbv-c.unenoteunjour.fr
 95cb7382fe.e6c5f295b4.com
 96.net-31.172.stripchats.io
@@ -927,6 +922,7 @@ a235.thetelegraph.com
 a235.timesunion.com
 a2d4bf2605.2042be5d8c.com
 a2rhoet1piz5nd9-p.adktrack44.xyz
+a34ce4695e.3af9d5efab.com
 a3dyrqfccnzsjyt-c.adkoffre.fr
 a536a1e335.52154cdd64.com
 a614.al.com
@@ -944,7 +940,6 @@ a7lashella.xham.live
 a80f715848.b9103544dc.com
 a8a7f3b120.d4797171fc.com
 a8fa486953.b47114d926.com
-a91a3eb601.68d4d1e771.com
 a967080464.0da6b9c880.com
 aa47e07c73.f85d290a92.com
 aa884225ad.84747737e0.com
@@ -1919,7 +1914,6 @@ b5ukp3l8fbzrein-p.bonnelectureatous.fr
 b64.shemale.show
 b71260c6e8.b6fbaf103c.com
 b731055a61.20f70ba20b.com
-b7bff12888.bbbe6e2472.com
 b7d69916a8.425410f96b.com
 b7ooagmievxajkf-p.akming.xyz
 b895c86c17.ab8c7b1863.com
@@ -2041,6 +2035,7 @@ br.mycamtv.com
 br.nsfwlivechat.com
 br.omg.adult
 br.porndudecams.com
+br.sexygirlspics.live
 br.shemale.show
 br.spankbanglive.com
 br.stripchat.beeg.com
@@ -2049,6 +2044,7 @@ br.stripchat.global
 br.stripchat.org
 br.stripchat.webcam
 br.superchatlive.com
+br.tiktits.com
 br.us.superchat.live
 br.vbr.omg.adult
 br.xham.live
@@ -2166,6 +2162,7 @@ comms.cigna.com.hk
 comms.cigna.com.sg
 comms.cigna.es
 comms.cignaglobalhealth.com
+communication.adpinfo.com
 communication.proximus.be
 communications.aquafold.com
 communications.cigna.com
@@ -2226,6 +2223,7 @@ conteudos.lp.deloittecomunicacao.com.br
 cook.stripchat.global
 cookie.amerigas.com
 cookie.myamerigas.com
+cookiejar.atea.no
 cookies.siemens-advanta.com
 cookies.siemens-healthineers.com
 cookies.siemens.com
@@ -2310,6 +2308,7 @@ d9eoyijbkjrxyl5-p.linkomo.fr
 da.hotzcam.com
 da.spankbanglive.com
 da.stripchat.dk
+da.stripchat.global
 da.xham.live
 da.xhlive.cam
 da72088eb8.e424766a73.com
@@ -2335,9 +2334,9 @@ de-de.siemensplmevents.com
 de-go.experian.com
 de.aznudelive.com
 de.boyfriend.show
+de.celebjihad.live
 de.contact.alphabet.com
 de.eronite.chat
-de.hot-india.com
 de.livecamlovetr.com
 de.mycamtv.com
 de.nsfwlivechat.com
@@ -2352,6 +2351,7 @@ de.tklivechat.com
 de.verintsystemsinc.com
 de.xham.live
 de.xhlive.cam
+de.xhlive.net
 de.xhlive.org
 debi.xhlive.cam
 decorex.ubm-events.com
@@ -2467,7 +2467,6 @@ e39b870a84.d59419bbc9.com
 e495ca26f4.3322885ad1.com
 e4f2928e49.0c289f53bc.com
 e50dc6ad27.ca7d0bd322.com
-e5f4a975e1.379b3d01c3.com
 e6499697e6.d97d3231b2.com
 e6e3e5bd74.3ae7054c01.com
 e791351c80.680642cdf3.com
@@ -2521,7 +2520,9 @@ el.xham.live
 el.xhlive.cam
 elink.serasaexperian.com.br
 ellechinacom.myavlive.com
+eloqua-tracking.unity3d.com
 eloqua-trackings.unity.com
+eloqua-trackings.unity3d.com
 eloqua.cadriamarketing.com
 eloqua.gdlcouncil.org
 eloqua.microfocus.com
@@ -2547,6 +2548,7 @@ elq-ic01.content.tech
 elq-trk.fullsail.edu
 elq.ansible.com
 elq.atlaslovestravel.com
+elq.blackrock.com
 elq.brightmine.com
 elq.cirium.com
 elq.efront.com
@@ -2589,8 +2591,6 @@ elqtracking.strayer.edu
 elqtracking.wearejust.co.uk
 elqtrck.motor.no
 elqtrk.cummins.com
-elqtrk.ext.hp.com
-elqtrk.hp.com
 elqtrk.morningstar.com
 elqtrk.morningstar.com.au
 elqtrk.morningstar.it
@@ -2662,6 +2662,7 @@ email-cm.jll.com.lk
 email-cm.jll.com.ph
 email-cm.jll.fr
 email-cm.jll.nl
+email-cm.jll.nz
 email-cm.jll.pe
 email-cm.jll.pt
 email-cm.jll.ro
@@ -2772,6 +2773,7 @@ es.stripchat.org
 es.stripchatgirls.com
 es.strp.chat
 es.superchatlive.com
+es.tiktits.com
 es.tklivechat.com
 es.tranny.show
 es.xham.live
@@ -2782,6 +2784,7 @@ esrnpzgbcb0tlvk-p.adkplan.fr
 esrrkqouhf4dftn-c.clickomo.fr
 esrrkqouhf4dftn-p.clickomo.fr
 etc.lxhausys.com
+etrack.ext.arubanetworks.com
 etrack.ext.hpe.com
 etscampaign.motorola.com
 eu.cignaglobalhealth.com
@@ -2941,6 +2944,7 @@ fr.stripchat.global
 fr.stripchats.global
 fr.superchat.live
 fr.superchatlive.com
+fr.tiktits.com
 fr.xham.live
 fr.xhlive.cam
 francisconixon.myavlive.com
@@ -3002,6 +3006,7 @@ go-response.thermofisher.com
 go-stage.oracle.com
 go.atosmedical.com
 go.azets.fi
+go.aznudelive.com
 go.batsbaseball.com
 go.biz.alabamapower.com
 go.biz.mississippipower.com
@@ -3074,6 +3079,7 @@ go.oracle.com
 go.paze.com
 go.pearsonvue.com
 go.ps.experian.com
+go.rarecams.com
 go.robertsonbuildings.com
 go.sabres.com
 go.seadogs.com
@@ -3084,6 +3090,7 @@ go.sexfortokens.com
 go.sexygirlspics.live
 go.sfcg.com
 go.shemale.show
+go.showtime-cams.live
 go.spankbanglive.com
 go.stripchat.beeg.com
 go.stripchat.cam
@@ -3098,11 +3105,12 @@ go.stripchats.io
 go.superchat.live
 go.superchatlive.com
 go.tegrita.com
+go.tiktits.com
 go.tklivechat.com
 go.tranny.show
 go.transtector.com
 go.tuv.com
-go.ua.drtuberlive.com
+go.vi.cambaddies.com
 go.vi.hotzcam.com
 go.vi.stripchats.io
 go.vitality.com.ar
@@ -3186,6 +3194,8 @@ hu.mycamtv.com
 hu.nsfwlivechat.com
 hu.sexygirlspics.live
 hu.shemale.show
+hu.stripchat.global
+hu.xham.live
 hu.xhlive.cam
 hu.xhlive.net
 hungdudes.myavlive.com
@@ -3209,16 +3219,21 @@ iaw-events.polarbyte.com
 ichnaea-web.us-west-2.internal.dradis.netflix.com
 iconnectworld.myavlive.com
 id-go.experian.com
+id.aznudelive.com
 id.boyfriend.show
 id.live7mm.tv
 id.liveandsexy.cam
 id.myavlive.com
 id.nsfwlivechat.com
+id.sexfortokens.com
 id.sexygirlspics.live
+id.shemale.show
 id.spankbanglive.com
 id.stripchat.cam
+id.stripchat.global
 id.stripchatgirls.com
 id.stripchatlive.com
+id.stripchats.global
 id.superchat.live
 id.tklivechat.com
 id.xham.live
@@ -3285,6 +3300,7 @@ images.e.lexisnexis.com
 images.e.pcm.com
 images.edm.carnivalaustralia.com
 images.edm.sangfor.cn
+images.education.ifebp.org
 images.efficiency.visma.se
 images.eloqua.fredhutch.org
 images.em.email-prudential.com
@@ -3426,6 +3442,7 @@ images.novedades.fibercorp.com.ar
 images.one.leumicard.co.il
 images.online.bankofjordan.com.jo
 images.ops.mailbpost.be
+images.oracle.netsuite.com
 images.p.smflc.jp
 images.partnersupport.samsung.com
 images.performance.volvotrucks.com
@@ -3447,6 +3464,8 @@ images.response.incontact.com
 images.response.mini.com.au
 images.response.motivatedigital.com
 images.response.orhp.com
+images.response.playpower.com
+images.response.softchoice.com
 images.response.tenplay.com.au
 images.rjf.raymondjames.com
 images.secureforms.mcafee.com
@@ -3514,6 +3533,7 @@ info.johnsoncontrols.com
 info.kalevavakuutus.fi
 info.lamy-liaisons.fr
 info.lansa.com
+info.lesmills.com
 info.mandatum.fi
 info.marketingcube.com.au
 info.mdsol.com
@@ -3596,6 +3616,7 @@ isi-tracking.eventim.com
 it-business.vodafone.com
 it-go.experian.com
 it-it.siemensplmevents.com
+it.boyfriend.show
 it.celebjihad.live
 it.contact.alphabet.com
 it.drtuberlive.com
@@ -3704,6 +3725,7 @@ kjhfebpk7so5dxc-p.adktrack30.xyz
 knitfihuopymejv-c.adktrack51.xyz
 ko.aznudelive.com
 ko.boyfriend.show
+ko.cambaddies.com
 ko.celebjihad.live
 ko.colsex.com
 ko.hotzcam.com
@@ -3904,6 +3926,7 @@ m7hdh-2damu.ads.tremorhub.com
 m7nitxnpazaog0e-p.adktrack30.xyz
 m93djrfquxtem8t-p.adkoffer.fr
 ma.fountasandpinnell.com
+ma.heinemann.com
 ma.hitachi-systems.com
 ma.hmhco.com
 ma.toyobo.co.jp
@@ -4035,11 +4058,14 @@ move.azets.no
 move.azets.se
 mqprmkdsw0eeaua-p.adktrack34.xyz
 mrket.ubmfashion.com
+mrkttrack.armanino.com
 mrvbjrghse7ntux-c.missivequotidienne.fr
 ms.aznudelive.com
 ms.boyfriend.show
 ms.drtuberlive.com
 ms.hot-india.com
+ms.myavlive.com
+ms.nsfwlivechat.com
 ms.omg.adult
 ms.shemale.show
 ms.spankbanglive.com
@@ -4105,7 +4131,6 @@ nat-132.myavlive.com
 nativomobileapps.share.ntv.io
 nb.neubergerberman.com
 nbia.aon.com
-nebraska.stripchat.org
 netakias.stripchat.org
 network.lancom-systems.com
 networkingexchange.att.com
@@ -4142,9 +4167,11 @@ ninaasteria.myavlive.com
 nj.finegardening.com
 nj.share.ntv.io
 nl-go.experian.com
+nl.celebjihad.live
 nl.live7mm.tv
 nl.liveandsexy.cam
 nl.myavlive.com
+nl.omg.adult
 nl.sexfortokens.com
 nl.shemale.show
 nl.stripchat.be
@@ -4219,7 +4246,6 @@ okaqjlxrq0xnwpn-p.adkclicker.fr
 okifstpenuyakzb-c.adkoffer.fr
 oljr5uawdfifsjc-p.unenoteunjour.fr
 olohg9e3agmambs-p.adktrack30.xyz
-onbloggers.stripchat.org
 ondemand.sexfortokens.com
 oneredpaperclip.superchatlive.com
 online-mt-com-455208869.p06.elqsandbox.com
@@ -4293,6 +4319,7 @@ pages.informafoodserviceevents.com
 pages.informafoodservicemedia.com
 pages.informamanufacturing.com
 pages.informaretail.com
+pages.ledger.com
 pages.magellangroup.com.au
 pages.mktg-upfield.com
 pages.mongodb.com
@@ -4493,6 +4520,7 @@ pt.spankbanglive.com
 pt.strip-chat.club
 pt.stripchat.global
 pt.stripchats.io
+pt.superchatlive.com
 pt.xham.live
 pt.xhlive.cam
 pt.xmates.com
@@ -4577,7 +4605,6 @@ refer.akcpetinsurance.com
 refer.allenedmonds.com
 refer.amctheatres.com
 refer.american-giant.com
-refer.americaneagle.org
 refer.americanexpress.com
 refer.americanmusical.com
 refer.amerisleep.com
@@ -4756,7 +4783,6 @@ refer.laylasleep.com
 refer.leadmd.com
 refer.lemonaidhealth.com
 refer.lendingclub.com
-refer.lendly.com
 refer.lighthousecu.org
 refer.lightstream.com
 refer.littlepassports.com
@@ -5003,6 +5029,7 @@ response.iqpc.com
 response.jeevessivarajah.com
 response.nofault.com
 response.playpower.com
+response.playworld.com
 response.retailchoice.com
 response.sonosite.co.uk
 response.sonosite.com
@@ -5017,7 +5044,6 @@ responses.wild.com
 resultadosbaloto.stripchat.org
 results.news.marshmma.com
 retirement.aonunited.com
-retrodoll.stripchat.org
 reuniondepadres.unisabana.edu.co
 reward.first-online.bank
 rfm.xhlive.org
@@ -5130,6 +5156,7 @@ ru.uk.spankbanglive.com
 ru.uk.stripchat.webcam
 ru.webcam.ac
 ru.xham.live
+ru.xhamsterlive.info
 ru.xhcam.live
 ru.xhlive.cam
 ru.xhlive.net
@@ -5214,6 +5241,7 @@ secure.sw.broadcom.com
 secure.visualsonics.com
 secure1.lapersonnelle.com
 securebox.superchat.live
+securecookies.dustin.dk
 securecookies.dustin.fi
 securecookies.dustin.nl
 securecookies.dustin.se
@@ -5222,6 +5250,7 @@ securecookies.dustinhome.no
 securecookies.dustinhome.se
 securecookiesdustininfo.dustin.dk
 securecookiesdustininfo.dustin.fi
+securecookiesdustininfo.dustin.nl
 securecookiesdustininfo.dustin.se
 securecookiesdustininfo.dustinhome.dk
 securecookiesdustininfo.dustinhome.fi
@@ -5621,7 +5650,6 @@ sk.aznudelive.com
 sk.boyfriend.show
 sk.cambaddies.com
 sk.celebjihad.live
-sk.drtuberlive.com
 sk.hot-india.com
 sk.myavlive.com
 sk.mycamtv.com
@@ -5681,7 +5709,6 @@ smtpauth.superchatlive.com
 smtpseguro.stripchat.vision
 snippet.stripchat.global
 snjwvk7tmzoywv2-c.ktrack.xyz
-snoopy.strp.chat
 snowplow-production.fooda.com
 snowplow.wral.com
 snowplowcollector.kry.pet
@@ -6225,6 +6252,7 @@ th.spankbanglive.com
 th.stripchat.global
 th.stripchatgirls.com
 th.stripchats.io
+th.superchat.live
 th.superchatlive.com
 th.xham.live
 th.xhamsterlive.info
@@ -6247,7 +6275,6 @@ thequickandthehungry.superchatlive.com
 therealreal.collect.igodigital.com
 thesandbox.stripchats.io
 theviesociety.stripchat.org
-thewizsdailydose.stripchat.org
 theyear2012.superchatlive.com
 thriftydecorchick.stripchats.io
 tiaianalystinfo.geoworkerz.com
@@ -6272,7 +6299,6 @@ tokyofashiongirls.stripchat.webcam
 tonya.tklivechat.com
 torgi.chiccams.com
 totalhealthclinic.superchat.live
-toyibg.stripchat.org
 tp.lexisnexis.co.nz
 tp.lexisnexis.com.au
 tqrqylevtnfb382-p.adktrack68.xyz
@@ -6304,7 +6330,6 @@ tr.mycamtv.com
 tr.nsfwlivechat.com
 tr.nudescam18.com
 tr.omg.adult
-tr.perfectgirls.live
 tr.porndudecams.com
 tr.primetime-cams.me
 tr.rarecams.com
@@ -6384,6 +6409,7 @@ track.hg.healthgrades.com
 track.hofstrainternationalprograms.com
 track.illinoisstate.intostudy.com
 track.info.campaignus.com
+track.info.clinicaladvisor.com
 track.info.clinicalpainadvisor.com
 track.info.dermatologyadvisor.com
 track.info.empr.com
@@ -6440,6 +6466,7 @@ tracking-explore-dev.agilent.com
 tracking-explore-uat.agilent.com
 tracking-sandbox.eloq.soa.org
 tracking-sandbox.vodafone.co.uk
+tracking.aapa.org
 tracking.aberdeenadviser.com
 tracking.abrdn.com
 tracking.acceptance.industrial.omron.eu
@@ -6580,6 +6607,7 @@ tracking.handlesets.com
 tracking.health.bilh.org
 tracking.health.lexmed.com
 tracking.health.tmcaz.com
+tracking.hibu.com
 tracking.hiscox.com
 tracking.hot.net.il
 tracking.idwholesaler.com
@@ -6596,6 +6624,7 @@ tracking.info.terex.com
 tracking.info.zetes.com
 tracking.innovamarketinsights.com
 tracking.insead.edu
+tracking.insperity.com
 tracking.janssenmed.hu
 tracking.janssenmed.pl
 tracking.janssenmed.ro
@@ -7124,6 +7153,7 @@ trk.flora.com
 trk.flora.cz
 trk.flora.es
 trk.flora.hu
+trk.florafoodgroup.com
 trk.floraplant.at
 trk.floraprofessional.com
 trk.floraspread.com.au
@@ -7313,6 +7343,7 @@ trk.visionpartners.vsp.com
 trk.vitam.gr
 trk.vodafone.com.tr
 trk.wallstreetandtech.com
+trk.wealthmanagement.com
 trk.web-cast.ro
 trk.wellsfargocenterphilly.com
 trk.westpackshow.com
@@ -7585,7 +7616,6 @@ uss5zgycx31jthk-p.unenoteunjour.fr
 ut.econnect.utexas.edu
 uwatchthatdpoza.xhamsterlive.info
 uwcdbwlohh6eegj-p.adktrack44.xyz
-uz.cambaddies.com
 v117.tklivechat.com
 v150.stripchat.webcam
 v2blxzmott3wuae-p.clickomo.fr
@@ -7601,7 +7631,6 @@ varjoleikkeja.superchat.live
 vault01.shemale.show
 vbivezkdjseidag-p.adktrack30.xyz
 vcenter02.freestrip.chat
-vdp2.chiccams.com
 vegannalein.xham.live
 vehiclelocator.forddirectdealers.com
 venezia.spankbanglive.com
@@ -7613,6 +7642,7 @@ vg.stripchat.org
 vge-mktg-secure.vodafone.com
 vi.aznudelive.com
 vi.boyfriend.show
+vi.cambaddies.com
 vi.camsplanetlive.com
 vi.celebjihad.live
 vi.drtuberlive.com
@@ -7721,6 +7751,7 @@ vr.stripchats.io
 vr.strp.chat
 vr.superchat.live
 vr.superchatlive.com
+vr.tiktits.com
 vr.tklivechat.com
 vr.tranny.show
 vr.xham.live
@@ -8413,6 +8444,7 @@ zh.superchatlive.com
 zh.tklivechat.com
 zh.tranny.show
 zh.vrhub.live
+zh.xham.live
 zh.xhlive.cam
 zh.xhlive.net
 zh.xmates.com
@@ -8442,6 +8474,7 @@ zt.sexfortokens.com
 zt.sexygirlspics.live
 zt.shemale.show
 zt.spankbanglive.com
+zt.stripchat.global
 zt.stripchat.vision
 zt.stripchat.webcam
 zt.stripchatgirls.com

@@ -7,21 +7,19 @@
 ### Rarely active trackers
 
 * form.bp01.net
-* f1.mailperf.com
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
-* tr1.bp06.net
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
-| f1.mperf.com | f1.mailperf.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
 | f1.mailperformance.com | form.bp01.net |
+| f1.mperf.com | form.bp01.net |
 | f1.np6.com | form.bp01.net |
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
@@ -29,7 +27,6 @@
 | s.gemy.fr | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
-| tr6.mperf.com | tr1.bp06.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
@@ -379,8 +376,6 @@
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
 | tr.dossier-assurance.maaf.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
-| tr.e-mail.axa.fr | tracking.bp01.net |
-| tr.e-mail.axabanque.fr | tracking.bp01.net |
 | tr.e-travaux.info | tracking.bp01.net |
 | tr.e.entreprise-pm.fr | tracking.bp01.net |
 | tr.e.entreprise-pm.net | tracking.bp01.net |
@@ -451,7 +446,6 @@
 | tr.enews.customsolutions.fr | tracking.bp01.net |
 | tr.enquetes.actionlogement.fr | tracking.bp01.net |
 | tr.entreprise-pro.info | tracking.bp01.net |
-| tr.entreprise.axa.fr | tracking.bp01.net |
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
 | tr.eqs.cpam67.net | tracking.bp01.net |
 | tr.ere.emailing.bnpparibas | tracking.bp01.net |
@@ -919,7 +913,6 @@
 | tr.news.teklifim.pro | tracking.bp01.net |
 | tr.news.tf1licences.com | tracking.bp01.net |
 | tr.news.thelist-emirates.fr | tracking.bp01.net |
-| tr.news.themedtechforum.eu | tracking.bp01.net |
 | tr.news.toocampmail.com | tracking.bp01.net |
 | tr.news.toute-la-franchise.com | tracking.bp01.net |
 | tr.news.triskalia.fr | tracking.bp01.net |
@@ -1249,6 +1242,7 @@
 | tr4.mailperf.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
 | tr5.mperf.com | tracking.bp01.net |
+| tr6.mperf.com | tracking.bp01.net |
 | www.fodgfip.fr | tracking.bp01.net |
 | www.newsletter.banquepopulaire.fr | tracking.bp01.net |
 | www.np6.eu | tracking.bp01.net |

@@ -129,7 +129,6 @@
     * alltrucu.extole.io
     * amazon-web-services.extole.io
     * amcstubs.extole.io
-    * americaneagle.extole.io
     * americanmusical.extole.io
     * amerisleep.extole.io
     * ammunition-depot.extole.io
@@ -287,7 +286,6 @@
     * gardenoflife.extole.io
     * garnethill.extole.io
     * getfreed.extole.io
-    * getlendly.extole.io
     * getsetup.extole.io
     * giant-martins.extole.io
     * giantfood.extole.io
@@ -632,7 +630,6 @@
 | refer.awscloud.com | amazon-web-services.extole.io |
 | refer.amctheatres.com | amcstubs.extole.io |
 | refer.american-giant.com | american-giant.extole.com |
-| refer.americaneagle.org | americaneagle.extole.io |
 | refer.americanexpress.com | americanexpress.extole.com |
 | refer.americanmusical.com | americanmusical.extole.io |
 | refer.amerisleep.com | amerisleep.extole.io |
@@ -928,7 +925,6 @@
 | refer.gardenoflife.com | gardenoflife.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
 | gift.getfreed.ai | getfreed.extole.io |
-| refer.lendly.com | getlendly.extole.io |
 | share.getsetup.io | getsetup.extole.io |
 | refer.gevalia.com | gevalia.extole.com |
 | share.ggu.edu | ggu-ssl.extole.com |

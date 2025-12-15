@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -367,6 +367,7 @@ qtj0.destinia.pl CNAME .
 quk9.destinia.com.ar CNAME .
 qzl8.destinia.fi CNAME .
 qzu5.carrefour-banque.fr CNAME .
+r1c.ricardocuisine.com CNAME .
 r1ztni.oui.sncf CNAME .
 r2pnq.montecarlovirtualtour.com CNAME .
 r4nds.absorba.com CNAME .

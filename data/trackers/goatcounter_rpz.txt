@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,7 +11,6 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-a.50-nuances-octets.fr CNAME .
 anal.sataniskwijt.be CNAME .
 analytics.applycreatures.com CNAME .
 analytics.astuto.io CNAME .
@@ -168,6 +167,7 @@ stats.tdurand.com CNAME .
 stats.timothechau.vet CNAME .
 stats.tinkerer.tools CNAME .
 stats.trainsley69.me CNAME .
+stats.tramax.com.ar CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -220,7 +220,6 @@ cdntm.expat.hsbc.com CNAME .
 cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
 cdntm.hsbc.ae CNAME .
-cdntm.hsbc.ca CNAME .
 cdntm.hsbc.co.id CNAME .
 cdntm.hsbc.co.in CNAME .
 cdntm.hsbc.co.uk CNAME .
@@ -276,16 +275,6 @@ cnt.redotpay.net CNAME .
 common.1win.com CNAME .
 compliance.mohegansuncasino.com CNAME .
 condition.applause.com CNAME .
-connect-cert-card.moneynetwork.com CNAME .
-connect-cert-mbd.everywherepaycard.com CNAME .
-connect-cert-myfunds.moneynetwork.com CNAME .
-connect-cert-prepaid.everywherepaycard.com CNAME .
-connect-cert-prepaidcard.moneynetwork.com CNAME .
-connect-cert.account.moneynetwork.com CNAME .
-connect-cert.briopay.com CNAME .
-connect-cert.everywherepaycard.com CNAME .
-connect-cert.premieraccesscard.com CNAME .
-connect-cert.walmart.everywherepaycard.com CNAME .
 connect.briopay.com CNAME .
 connect.everywherepaycard.com CNAME .
 connect.moneynetwork.com CNAME .
@@ -483,7 +472,6 @@ content22.citibank.com.au CNAME .
 content22.citibank.com.hk CNAME .
 content22.citibank.com.sg CNAME .
 content22.citibank.com.tw CNAME .
-content22.citibank.com.vn CNAME .
 content22.citibank.pl CNAME .
 content22.citibankonline.com CNAME .
 content22.citicards.com CNAME .
@@ -584,6 +572,7 @@ edge.privacy.com.br CNAME .
 ela1.bankofscotland.co.uk CNAME .
 elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
+ep-content.patento.pl CNAME .
 ep-content.vivigo.pl CNAME .
 ep.heartland.co.nz CNAME .
 ep.vystarcu.org CNAME .
@@ -1134,7 +1123,6 @@ tblsdp.staging.tonybet.ca CNAME .
 tblsdp.tonybet.ca CNAME .
 tbp.tescobank.com CNAME .
 tcontent.auchantelecom.fr CNAME .
-tcontent.cdiscountmobile.cdiscount.com CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.highlow.com CNAME .
 telempdf.vepormas.com CNAME .

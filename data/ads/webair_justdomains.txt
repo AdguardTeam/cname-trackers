@@ -16,7 +16,6 @@ ak-tracker.com
 akxml.nativeadsfeed.com
 apac.datacygnal.io
 api.brandlabs.ai
-app.torchad.com
 apple-val.looksmart.com
 beta.ad-maven.com
 beta.adkernel.com
@@ -37,6 +36,7 @@ click-eu-v4.exmnclk.com
 click-eu-v4.exoclkneu.com
 click-eu-v4.expdirclk.com
 click-eu-v4.explodasclksec.com
+click-eu-v4.expmclck.com
 click-eu-v4.expmidclk.com
 click-eu-v4.fiddirexol.com
 click-eu-v4.globlemath.com
@@ -73,7 +73,6 @@ click-rtb2-apac.e-volution.ai
 click-rtb2-apac.jambojar.com
 click-rtb2-apac.newchallenges-dsp.com
 click-rtb2-apac.onenativeads.com
-click-rtb2-apac.torchad.com
 click-rtb2-apac.waardex.com
 click-rtb2-eu.affinity.net
 click-rtb2-eu.afkwa.com
@@ -82,7 +81,6 @@ click-rtb2-eu.e-volution.ai
 click-rtb2-eu.jambojar.com
 click-rtb2-eu.mediarise.io
 click-rtb2-eu.n-data.io
-click-rtb2-eu.torchad.com
 click-rtb2-eu.waardex.com
 click-rtb2-eu.webtradingspot.com
 click-rtb2-useast.adsync.global
@@ -239,7 +237,6 @@ cpm.pubgenius.io
 cpm.pulsefintech.net
 cpm.pureadsltd.com
 cpm.pushub.net
-cpm.pwr-ads.com
 cpm.qortex.ai
 cpm.reachableads.com
 cpm.readywind.media
@@ -354,6 +351,7 @@ filter-eu.clickmi.net
 filter-eu.clixcrafts.com
 filter-eu.clixvista.com
 filter-eu.convertap.com
+filter-eu.cortexbid.com
 filter-eu.coupontic.com
 filter-eu.cpmvibes.com
 filter-eu.ctrtraffic.com
@@ -389,10 +387,10 @@ filter-eu.optumads.com
 filter-eu.outpush.net
 filter-eu.plarimoplus.com
 filter-eu.pops.gg
+filter-eu.popviking.com
 filter-eu.pressize.com
 filter-eu.programmaticnexus.com
 filter-eu.pubsfusion.com
-filter-eu.pwr-ads.com
 filter-eu.re-media.info
 filter-eu.realtime-bid.com
 filter-eu.regalrisemedia.com
@@ -587,7 +585,6 @@ filter.programmaticnexus.com
 filter.pubsfusion.com
 filter.push-sense.com
 filter.pushit.work
-filter.pwr-ads.com
 filter.pyrrhicmechntech.com
 filter.rain.ad
 filter.rastyclick.com
@@ -626,6 +623,7 @@ filter.srvqck2.com
 filter.srvqck21.com
 filter.srvqck23.com
 filter.srvqck25.com
+filter.srvqck27.com
 filter.srvqck3.com
 filter.srvqck5.com
 filter.srvqck6.com
@@ -1342,7 +1340,6 @@ rtb-useast.pronivydigital.com
 rtb-useast.pubsfusion.com
 rtb-useast.pureadsltd.com
 rtb-useast.pushub.net
-rtb-useast.pwr-ads.com
 rtb-useast.qortex.ai
 rtb-useast.rankortbdirect.com
 rtb-useast.readywind.media
@@ -1512,7 +1509,6 @@ rtb2-apac.jambojar.com
 rtb2-apac.newchallenges-dsp.com
 rtb2-apac.onenativeads.com
 rtb2-apac.qortex.ai
-rtb2-apac.torchad.com
 rtb2-apac.voisetech.com
 rtb2-eu.adpluto.com
 rtb2-eu.affinity.net
@@ -1528,7 +1524,6 @@ rtb2-eu.n-data.io
 rtb2-eu.newchallenges-dsp.com
 rtb2-eu.programmatics.net
 rtb2-eu.thecdn.site
-rtb2-eu.torchad.com
 rtb2-eu.waardex.com
 rtb2-eu.webtradingspot.com
 rtb2-useast.adhunter.media
@@ -1556,7 +1551,6 @@ rtb2-useast.nexsouk.com
 rtb2-useast.qortex.ai
 rtb2-useast.reachableads.com
 rtb2-useast.t3dsp.com
-rtb2-useast.torchad.com
 rtb2-useast.voisetech.com
 rtb2-useast.waardex.com
 rtb2-useast.xaprio.net
@@ -1595,25 +1589,27 @@ serve.datacygnal.io
 sm-rtb-useast.zmdvideo.com
 staging.yeesshh.com
 static-rtb2.affinity.net
+static-rtb2.applabs.live
 static-rtb2.branchdsp.io
-static-rtb2.jambojar.com
-static-rtb2.n-data.io
-static-rtb2.newchallenges-dsp.com
 static-rtb2.reachableads.com
 static.adright.co
+static.adsolut.in
+static.afkwa.com
+static.aserve1.net
+static.creativedot.net
 static.displayio.cloud
+static.dynatondata.com
 static.ezmob.com
-static.mediadobrasil.com
 static.openrtb.in
 static.pressize.com
 static.pushub.net
 static.qualiclicks.com
 static.rtbserve.io
+static.saroadexchange.com
 static.smoads.com
-static.srvqck21.com
 static.srvqck24.com
+static.srvqck26.com
 static.theardent.group
-static.vistarsagency.com
 sub-eu-v4.adzgame.com
 sub-eu.adzgame.com
 sub-v4.adzgame.com
@@ -1738,7 +1734,6 @@ win-rtb2-eu.e-volution.ai
 win-rtb2-eu.jambojar.com
 win-rtb2-eu.n-data.io
 win-rtb2-eu.programmatics.net
-win-rtb2-eu.torchad.com
 win-rtb2-eu.userwave.com
 win-rtb2-eu.webtradingspot.com
 win-rtb2-useast.adsync.global
@@ -1753,7 +1748,6 @@ win-rtb2-useast.e-volution.ai
 win-rtb2-useast.jambojar.com
 win-rtb2-useast.kremsondigital.com
 win-rtb2-useast.qortex.ai
-win-rtb2-useast.torchad.com
 win-rtb2-useast.userwave.com
 win-rtb2-useast.waardex.com
 win-rtb2-useast.webithr.com
@@ -1836,6 +1830,7 @@ xml-eu-v4.clkfst.com
 xml-eu-v4.convertap.com
 xml-eu-v4.coupontic.com
 xml-eu-v4.cpmvibes.com
+xml-eu-v4.creziamedia.com
 xml-eu-v4.ctrtraffic.com
 xml-eu-v4.dkswshap-1.online
 xml-eu-v4.dkswshap-2.online
@@ -1851,6 +1846,7 @@ xml-eu-v4.fdkox-b.online
 xml-eu-v4.fdkox-c.online
 xml-eu-v4.fdkox-d.online
 xml-eu-v4.flowldsb.online
+xml-eu-v4.flowldsd.online
 xml-eu-v4.flurryad.com
 xml-eu-v4.fmlabsonline.com
 xml-eu-v4.foseller-a.online
@@ -1896,7 +1892,6 @@ xml-eu-v4.popviking.com
 xml-eu-v4.programmaticnexus.com
 xml-eu-v4.pubsfusion.com
 xml-eu-v4.pushub.net
-xml-eu-v4.pwr-ads.com
 xml-eu-v4.qovolta.com
 xml-eu-v4.qualiclicks.com
 xml-eu-v4.re-media.info
@@ -1920,6 +1915,7 @@ xml-eu-v4.srvqck19.com
 xml-eu-v4.srvqck21.com
 xml-eu-v4.srvqck23.com
 xml-eu-v4.srvqck25.com
+xml-eu-v4.srvqck27.com
 xml-eu-v4.srvqck3.com
 xml-eu-v4.srvqck5.com
 xml-eu-v4.srvqck6.com
@@ -2030,7 +2026,7 @@ xml-eu.outpush.net
 xml-eu.pops.gg
 xml-eu.programmaticnexus.com
 xml-eu.pushub.net
-xml-eu.pwr-ads.com
+xml-eu.qovolta.com
 xml-eu.qualiclicks.com
 xml-eu.re-media.info
 xml-eu.realtime-bid.com
@@ -2079,6 +2075,7 @@ xml-v4.adbite.com
 xml-v4.adcannyxml.com
 xml-v4.adexone.com
 xml-v4.adflyer.media
+xml-v4.adlunar.com
 xml-v4.adportonic.com
 xml-v4.adquint.com
 xml-v4.adqva.com
@@ -2132,6 +2129,7 @@ xml-v4.convertap.com
 xml-v4.conxstream.com
 xml-v4.coupontic.com
 xml-v4.cpmvibes.com
+xml-v4.creziamedia.com
 xml-v4.ctrtraffic.com
 xml-v4.datadrives.ai
 xml-v4.dkswshap-1.online
@@ -2151,6 +2149,7 @@ xml-v4.fdkox-c.online
 xml-v4.fdkox-d.online
 xml-v4.felixads.com
 xml-v4.flowldsb.online
+xml-v4.flowldsd.online
 xml-v4.flurryad.com
 xml-v4.fmlabsonline.com
 xml-v4.foseller-a.online
@@ -2198,7 +2197,6 @@ xml-v4.popviking.com
 xml-v4.programmaticnexus.com
 xml-v4.pubsfusion.com
 xml-v4.pushub.net
-xml-v4.pwr-ads.com
 xml-v4.qualiclicks.com
 xml-v4.rain.ad
 xml-v4.rastyclick.com
@@ -2229,6 +2227,7 @@ xml-v4.srvqck19.com
 xml-v4.srvqck21.com
 xml-v4.srvqck23.com
 xml-v4.srvqck25.com
+xml-v4.srvqck27.com
 xml-v4.srvqck3.com
 xml-v4.srvqck5.com
 xml-v4.srvqck6.com
@@ -2245,6 +2244,7 @@ xml-v4.swelltomedia.com
 xml-v4.tat-adz.com
 xml-v4.techdoor.com
 xml-v4.tenxads.com
+xml-v4.teriflicmedia.com
 xml-v4.thebidex.net
 xml-v4.thenetwork18.com
 xml-v4.topdealad.com
@@ -2310,6 +2310,7 @@ xml.adtube.media
 xml.adventurefeeds.com
 xml.adverttise.com
 xml.advlistings.com
+xml.adxcircle.com
 xml.adxfactory.com
 xml.adxnexus.com
 xml.adxpoint.com
@@ -2372,6 +2373,7 @@ xml.clixwells.com
 xml.conxstream.com
 xml.coupontic.com
 xml.cpmvibes.com
+xml.creziamedia.com
 xml.cryingforthemu.com
 xml.ctrtraffic.com
 xml.dandlooke-bid.com
@@ -2386,6 +2388,7 @@ xml.domclkitize.com
 xml.domxexitize.com
 xml.droundhertou.com
 xml.edgexml.com
+xml.edindeedeisasb.com
 xml.eflewrounda.com
 xml.eforeukandth.com
 xml.efullofeedshe.org
@@ -2409,6 +2412,7 @@ xml.felixads.com
 xml.finevisit.com
 xml.flairads.com
 xml.flairadscpc.com
+xml.flowldsd.online
 xml.flurryad.com
 xml.flyerblaze.com
 xml.fmlabsonline.com
@@ -2515,7 +2519,6 @@ xml.pubsfusion.com
 xml.pulsefintech.net
 xml.push-sense.com
 xml.pushub.net
-xml.pwr-ads.com
 xml.pyrrhicmechntech.com
 xml.qualiclicks.com
 xml.rastyclick.com
@@ -2575,6 +2578,8 @@ xml.srvqck22.com
 xml.srvqck23.com
 xml.srvqck24.com
 xml.srvqck25.com
+xml.srvqck26.com
+xml.srvqck27.com
 xml.srvqck3.com
 xml.srvqck4.com
 xml.srvqck5.com
@@ -2706,7 +2711,6 @@ static.adsbuyclick.com
 static.adscholars.com
 static.adsfloow.net
 static.adsimilate.com
-static.adsolut.in
 static.adsupplyexchange.com
 static.adtapmedia.com
 static.advertruth.com
@@ -2718,7 +2722,6 @@ static.adxpoint.com
 static.adzealous.com
 static.adzestocp.com
 static.adzreach.com
-static.afkwa.com
 static.ak.bonanza.com
 static.altavara.co
 static.altitudemarketing.com
@@ -2731,7 +2734,6 @@ static.applixir.com
 static.appocean.media
 static.arbigo.com
 static.arvardsusyseinpo.com
-static.aserve1.net
 static.audience.media
 static.audiencedevelopers.com
 static.axetechnology.in
@@ -2762,7 +2764,6 @@ static.conxstream.com
 static.coupontic.com
 static.cpmvibes.com
 static.cranberryads.com
-static.creativedot.net
 static.creativethingsdoneright.top
 static.critic.media
 static.ctrtraffic.com
@@ -2780,7 +2781,6 @@ static.directrankcl.com
 static.dollopsdigital.com
 static.domains-traffic.com
 static.domitize.com
-static.dynatondata.com
 static.e-volution.ai
 static.epeex.com
 static.eredthechild-bid.com
@@ -2829,6 +2829,7 @@ static.massmediaent.in
 static.masterfr-bid.com
 static.maticalm-bid.com
 static.mediacpc.com
+static.mediadobrasil.com
 static.mediahubserver.com
 static.mediataggus.com
 static.milkywase.com
@@ -2864,7 +2865,6 @@ static.programmaticnexus.com
 static.pronivydigital.com
 static.pulsefintech.net
 static.pureadsltd.com
-static.pwr-ads.com
 static.pyrrhicmechntech.com
 static.qortex.ai
 static.queen-bid.com
@@ -2889,7 +2889,6 @@ static.rtxfeed.com
 static.rtxplatform.com
 static.rxnetwork.net
 static.saidndamafrai.org
-static.saroadexchange.com
 static.saturndynamic.pt
 static.search-house.co
 static.sedodna.com
@@ -2920,6 +2919,7 @@ static.srvqck18.com
 static.srvqck19.com
 static.srvqck2.com
 static.srvqck20.com
+static.srvqck21.com
 static.srvqck22.com
 static.srvqck23.com
 static.srvqck3.com
@@ -2959,6 +2959,7 @@ static.verrippleshiswa.com
 static.verwasquitefu.org
 static.vewith-bid.com
 static.vexa-bid.com
+static.vistarsagency.com
 static.voisetech.com
 static.wawayftertheyh.org
 static.webfindi.com
@@ -2996,7 +2997,6 @@ static-rtb2.advantagedsp.com
 static-rtb2.afkwa.com
 static-rtb2.africonverse.com
 static-rtb2.ak.bonanza.com
-static-rtb2.applabs.live
 static-rtb2.appmonsta.ai
 static-rtb2.appnerve.com
 static-rtb2.assemblyexchange.com
@@ -3011,15 +3011,17 @@ static-rtb2.foremedia.net
 static-rtb2.globalwingspan.com
 static-rtb2.goleftmedia.com
 static-rtb2.gravityadnetwork.io
+static-rtb2.jambojar.com
 static-rtb2.magixengage.com
 static-rtb2.mediarise.io
 static-rtb2.mytrendingstories.com
+static-rtb2.n-data.io
+static-rtb2.newchallenges-dsp.com
 static-rtb2.onenativeads.com
 static-rtb2.programmatics.net
 static-rtb2.push-sense.com
 static-rtb2.qortex.ai
 static-rtb2.talkdonttext.com
-static-rtb2.torchad.com
 static-rtb2.userwave.com
 static-rtb2.voisetech.com
 static.rtb-serve.com

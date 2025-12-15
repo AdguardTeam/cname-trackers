@@ -388,11 +388,6 @@
 ||test3-dc.kayoutlet.com^
 ||tm.hdmtools.com^
 ||tms-test.nab.com.au^
-||tms.betway.com^
-||tms.betwayarabia.com^
-||tms.betwayarabia1.com^
-||tms.betwaysatta.com^
-||tms.betwaysatta1.com^
 ||tms.capitalone.com^
 ||tms.cheq.ai^
 ||tms.delta.com^

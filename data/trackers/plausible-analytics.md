@@ -104,7 +104,6 @@
 | metric.methoddev.com | custom.plausible.io |
 | metrics.creit.tech | custom.plausible.io |
 | metrics.earrieta.dev | custom.plausible.io |
-| metrics.recunia.de | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
 | momotaro.walkkumano.com | custom.plausible.io |
 | munnin.hicsuntdra.co | custom.plausible.io |
@@ -300,7 +299,6 @@
 | static.osalta.eu | custom.plausible.io |
 | statistic.jac-systeme.de | custom.plausible.io |
 | statistics.heatbeat.de | custom.plausible.io |
-| statistics.leohoesl.com | custom.plausible.io |
 | statistik.apartments-tirolerhaus.at | custom.plausible.io |
 | statman.sesong.info | custom.plausible.io |
 | stats.69grad.de | custom.plausible.io |
@@ -666,7 +664,6 @@
 | stats.processserver101.com | custom.plausible.io |
 | stats.procumeni.cz | custom.plausible.io |
 | stats.prodtype.com | custom.plausible.io |
-| stats.profilehunt.net | custom.plausible.io |
 | stats.profitablesignpricing.com | custom.plausible.io |
 | stats.projectcongress.com | custom.plausible.io |
 | stats.psychotherapieravensburg.de | custom.plausible.io |

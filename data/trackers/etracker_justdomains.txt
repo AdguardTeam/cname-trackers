@@ -131,6 +131,7 @@ meter.rhinobag.de
 metrics.bauwerk.de
 metrics.cannamedical.com
 metrics.einfachiso.de
+metrics.energetix.tv
 metrics.go-jugendreisen.de
 metrics.greatvita.de
 metrics.leimer.de
@@ -283,6 +284,7 @@ webcontr.parax.de
 webcontr.patrick-wentzel.de
 webcontr.pedalbox.com
 webcontr.reisprinzen.de
+webcontr.rheinenergie.com
 webcontr.rollytoys.de
 webcontr.ryzon.net
 webcontr.scandtrack.com
@@ -295,7 +297,6 @@ webcontr.stadtwerke-ahrensburg.de
 webcontr.strandvogtei.de
 webcontr.synvia.de
 webcontr.taxando.de
-webcontr.terraguide.de
 webcontr.thechefsstories.de
 webcontr.verpoorten-shop.de
 webcontr.verpoorten.de

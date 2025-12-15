@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,6 +142,7 @@ meter.rhinobag.de CNAME .
 metrics.bauwerk.de CNAME .
 metrics.cannamedical.com CNAME .
 metrics.einfachiso.de CNAME .
+metrics.energetix.tv CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.greatvita.de CNAME .
 metrics.leimer.de CNAME .
@@ -294,6 +295,7 @@ webcontr.parax.de CNAME .
 webcontr.patrick-wentzel.de CNAME .
 webcontr.pedalbox.com CNAME .
 webcontr.reisprinzen.de CNAME .
+webcontr.rheinenergie.com CNAME .
 webcontr.rollytoys.de CNAME .
 webcontr.ryzon.net CNAME .
 webcontr.scandtrack.com CNAME .
@@ -306,7 +308,6 @@ webcontr.stadtwerke-ahrensburg.de CNAME .
 webcontr.strandvogtei.de CNAME .
 webcontr.synvia.de CNAME .
 webcontr.taxando.de CNAME .
-webcontr.terraguide.de CNAME .
 webcontr.thechefsstories.de CNAME .
 webcontr.verpoorten-shop.de CNAME .
 webcontr.verpoorten.de CNAME .

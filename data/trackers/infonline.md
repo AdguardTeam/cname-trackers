@@ -4,21 +4,23 @@
 
 * iocnt.net
     * aadaktio-relay.iocnt.net
+    * aadaumos-relay.iocnt.net
+    * aadbadze-relay.iocnt.net
     * aadbdsp-relay.iocnt.net
     * aadbild-relay.iocnt.net
+    * aadbonl-relay.iocnt.net
+    * aadckoch-relay.iocnt.net
     * aadcleve-relay.iocnt.net
-    * aaddokur-relay.iocnt.net
+    * aadcomun-relay.iocnt.net
     * aadfinet-relay.iocnt.net
     * aadfocus-relay.iocnt.net
     * aadfrtag-relay.iocnt.net
     * aadgabn-relay.iocnt.net
     * aadmeta-relay.iocnt.net
-    * aadmpros-relay.iocnt.net
+    * aadmitby-relay.iocnt.net
     * aadnord-relay.iocnt.net
     * aadnordb-relay.iocnt.net
     * aadntv-relay.iocnt.net
-    * aadnwnp-relay.iocnt.net
-    * aadosthe-relay.iocnt.net
     * aadpliga-relay.iocnt.net
     * aadpnp-relay.iocnt.net
     * aadradio-relay.iocnt.net
@@ -29,37 +31,44 @@
     * aadtonl-relay.iocnt.net
     * aadwelt-relay.iocnt.net
     * aadwetco-relay.iocnt.net
-    * achgut-relay.iocnt.net
+    * aadwetde-relay.iocnt.net
     * acsam-script.iocnt.net
     * aerztebl-relay.iocnt.net
     * agrar-relay.iocnt.net
     * ak463-relay.iocnt.net
+    * alefzeit-relay.iocnt.net
+    * allgauze-relay.iocnt.net
+    * appaktio-relay.iocnt.net
+    * appbdsp-relay.iocnt.net
     * appbild-relay.iocnt.net
     * appbildp-relay.iocnt.net
+    * appckoch-relay.iocnt.net
     * appcleve-relay.iocnt.net
-    * appmeta-relay.iocnt.net
     * appntv-relay.iocnt.net
-    * appsued-relay.iocnt.net
+    * apppnp-relay.iocnt.net
+    * appradio-relay.iocnt.net
+    * appradwe-relay.iocnt.net
     * apptbkic-relay.iocnt.net
     * apptelma-relay.iocnt.net
     * appweltm-relay.iocnt.net
+    * ariva-relay.iocnt.net
     * at-a-krone-relay.iocnt.net
-    * at-a-kronepaper-relay.iocnt.net
+    * at-a-ooen-relay.iocnt.net
     * at-a-orfatnews-relay.iocnt.net
     * at-a-orfatsport-relay.iocnt.net
-    * at-a-orffussb-relay.iocnt.net
-    * at-a-orfkids-relay.iocnt.net
+    * at-a-orfskiawc-relay.iocnt.net
     * at-a-orftelet-relay.iocnt.net
     * at-a-orftvthek-relay.iocnt.net
-    * at-a-radiooe3-relay.iocnt.net
-    * at-a-willhaben-relay.iocnt.net
-    * at-i-krone-relay.iocnt.net
-    * at-i-orfatnews-relay.iocnt.net
+    * at-a-radiooe1-relay.iocnt.net
+    * at-a-volat-relay.iocnt.net
     * at-i-orfskiawc-relay.iocnt.net
-    * at-i-willhaben-relay.iocnt.net
+    * at-i-orftvthek-relay.iocnt.net
+    * at-i-radiooe3-relay.iocnt.net
     * at-w-at5min-relay.iocnt.net
-    * at-w-atantvrlb-relay.iocnt.net
     * at-w-atderstand-relay.iocnt.net
+    * at-w-atdiewirt-relay.iocnt.net
+    * at-w-atepap-oes-relay.iocnt.net
+    * at-w-atexxpress-relay.iocnt.net
     * at-w-atfalter-relay.iocnt.net
     * at-w-atfinden-relay.iocnt.net
     * at-w-atfuturez-relay.iocnt.net
@@ -68,13 +77,17 @@
     * at-w-atkleineze-relay.iocnt.net
     * at-w-atkosmo-relay.iocnt.net
     * at-w-atkrone-relay.iocnt.net
-    * at-w-atkronehit-relay.iocnt.net
     * at-w-atkurier-relay.iocnt.net
     * at-w-atlaendanz-relay.iocnt.net
+    * at-w-atlaenimmo-relay.iocnt.net
+    * at-w-atlaola1-relay.iocnt.net
     * at-w-atliportal-relay.iocnt.net
+    * at-w-atlooksbg-relay.iocnt.net
     * at-w-atmeinbez-relay.iocnt.net
+    * at-w-atmeinmed-relay.iocnt.net
     * at-w-atnachrich-relay.iocnt.net
-    * at-w-atnewsflix-relay.iocnt.net
+    * at-w-atnetdok-relay.iocnt.net
+    * at-w-atnews-relay.iocnt.net
     * at-w-atnoen-relay.iocnt.net
     * at-w-atoe24-relay.iocnt.net
     * at-w-atorf-relay.iocnt.net
@@ -83,130 +96,139 @@
     * at-w-atsbg24-relay.iocnt.net
     * at-w-atskyspaut-relay.iocnt.net
     * at-w-atsn-relay.iocnt.net
-    * at-w-atstyleup-relay.iocnt.net
     * at-w-attips-relay.iocnt.net
     * at-w-attv-media-relay.iocnt.net
     * at-w-attvheute-relay.iocnt.net
+    * at-w-atvgn-relay.iocnt.net
     * at-w-atvienna-relay.iocnt.net
+    * at-w-atvn-relay.iocnt.net
     * at-w-atvol-relay.iocnt.net
     * at-w-atwillhab-relay.iocnt.net
+    * at-w-atwoman-relay.iocnt.net
     * at-w-atyesss-relay.iocnt.net
     * at-w-comdiepres-relay.iocnt.net
     * at-w-comfalstaf-relay.iocnt.net
     * at-w-comservtv-relay.iocnt.net
+    * at-w-comservus-relay.iocnt.net
     * at-w-comtt-relay.iocnt.net
-    * at-w-comwetter-relay.iocnt.net
     * at-w-dederstand-relay.iocnt.net
-    * at-w-netmaila1-relay.iocnt.net
-    * at-w-networlda1-relay.iocnt.net
     * augsallg-relay.iocnt.net
-    * aumospo-relay.iocnt.net
     * aus24-relay.iocnt.net
     * autobild-relay.iocnt.net
     * autozeit-relay.iocnt.net
-    * b4bwirt-relay.iocnt.net
     * badzeit-relay.iocnt.net
     * baunetz-relay.iocnt.net
     * bergfex-relay.iocnt.net
     * berlizei-relay.iocnt.net
     * berlkuri-relay.iocnt.net
-    * bikex-relay.iocnt.net
     * bild-relay.iocnt.net
     * bisafans-relay.iocnt.net
     * bluray-relay.iocnt.net
+    * blw-relay.iocnt.net
     * bnn-relay.iocnt.net
     * boerseon-relay.iocnt.net
-    * bzberlin-relay.iocnt.net
+    * boyens-relay.iocnt.net
+    * businsi-relay.iocnt.net
     * cbo-relay.iocnt.net
     * chartsde-relay.iocnt.net
-    * cineplex-relay.iocnt.net
+    * ciceroon-relay.iocnt.net
     * cinestar-relay.iocnt.net
     * daktion-relay.iocnt.net
     * daportal-relay.iocnt.net
     * dastelef-relay.iocnt.net
-    * desired-relay.iocnt.net
     * donaude-relay.iocnt.net
+    * dzonl-relay.iocnt.net
     * eatbette-relay.iocnt.net
+    * ehausauf-relay.iocnt.net
     * einfaba-relay.iocnt.net
     * einfkoch-relay.iocnt.net
+    * ejzde-relay.iocnt.net
     * elle-relay.iocnt.net
     * evangede-relay.iocnt.net
     * falstaff-relay.iocnt.net
-    * familie-relay.iocnt.net
+    * faz-relay.iocnt.net
     * filmdien-relay.iocnt.net
     * financh-relay.iocnt.net
     * finaonl-relay.iocnt.net
-    * fitbook-relay.iocnt.net
+    * firmenw-relay.iocnt.net
+    * flugrevu-relay.iocnt.net
     * freipres-relay.iocnt.net
     * frtag-relay.iocnt.net
+    * fvw-relay.iocnt.net
+    * gabler-relay.iocnt.net
+    * gaeubote-relay.iocnt.net
+    * gatfitr-relay.iocnt.net
+    * gea-relay.iocnt.net
     * gelbseit-relay.iocnt.net
-    * giga-relay.iocnt.net
     * glamour-relay.iocnt.net
     * gnonline-relay.iocnt.net
     * gutekue-relay.iocnt.net
     * gzonline-relay.iocnt.net
+    * handbl-relay.iocnt.net
     * haperson-relay.iocnt.net
     * hatedilo-relay.iocnt.net
-    * haus-relay.iocnt.net
+    * haustec-relay.iocnt.net
     * haz-relay.iocnt.net
-    * hialzeit-relay.iocnt.net
-    * hogapage-relay.iocnt.net
+    * hbazaar-relay.iocnt.net
     * holidayc-relay.iocnt.net
     * idowa-relay.iocnt.net
     * instyle-relay.iocnt.net
     * ippenmed-relay.iocnt.net
+    * kanews-relay.iocnt.net
     * kathde-relay.iocnt.net
     * kicker-relay.iocnt.net
-    * kino-relay.iocnt.net
+    * kinozeit-relay.iocnt.net
     * kochzept-relay.iocnt.net
-    * koelnde-relay.iocnt.net
+    * koelnsta-relay.iocnt.net
+    * landfors-relay.iocnt.net
     * laut-relay.iocnt.net
     * lznet-relay.iocnt.net
     * mainecho-relay.iocnt.net
     * mainpost-relay.iocnt.net
     * mainrhei-relay.iocnt.net
     * memberoewa-at.iocnt.net
+    * mhsdigi-relay.iocnt.net
     * moballgz-relay.iocnt.net
     * moballin-relay.iocnt.net
+    * mobalpin-relay.iocnt.net
     * mobaubi-relay.iocnt.net
     * mobaugsb-relay.iocnt.net
     * mobaumos-relay.iocnt.net
     * mobaus24-relay.iocnt.net
     * mobazan-relay.iocnt.net
     * mobbadze-relay.iocnt.net
-    * mobbikex-relay.iocnt.net
+    * mobbigfm-relay.iocnt.net
     * mobbild-relay.iocnt.net
     * mobbusin-relay.iocnt.net
     * mobcombi-relay.iocnt.net
-    * mobdesi-relay.iocnt.net
+    * mobderwe-relay.iocnt.net
+    * mobdhz-relay.iocnt.net
     * mobdokur-relay.iocnt.net
     * mobech24-relay.iocnt.net
+    * mobechtm-relay.iocnt.net
     * mobeinfa-relay.iocnt.net
     * mobelle-relay.iocnt.net
     * mobesqui-relay.iocnt.net
-    * mobfamie-relay.iocnt.net
+    * mobeurot-relay.iocnt.net
     * mobflugr-relay.iocnt.net
     * mobfreun-relay.iocnt.net
     * mobfrpre-relay.iocnt.net
     * mobfrtag-relay.iocnt.net
-    * mobgiga-relay.iocnt.net
     * mobhabaz-relay.iocnt.net
-    * mobhaute-relay.iocnt.net
+    * mobhallk-relay.iocnt.net
     * mobhaz-relay.iocnt.net
+    * mobheilb-relay.iocnt.net
     * mobholch-relay.iocnt.net
-    * mobinge-relay.iocnt.net
     * mobinsty-relay.iocnt.net
     * mobippen-relay.iocnt.net
     * mobkanew-relay.iocnt.net
     * mobkicke-relay.iocnt.net
     * mobkinco-relay.iocnt.net
-    * mobkino-relay.iocnt.net
     * mobkinoz-relay.iocnt.net
+    * mobleben-relay.iocnt.net
     * moblippi-relay.iocnt.net
     * mobmainp-relay.iocnt.net
-    * mobmhobo-relay.iocnt.net
     * mobmhs-relay.iocnt.net
-    * mobmibay-relay.iocnt.net
     * mobminde-relay.iocnt.net
     * mobmopo-relay.iocnt.net
     * mobmorad-relay.iocnt.net
@@ -216,74 +238,78 @@
     * mobnordb-relay.iocnt.net
     * mobnordk-relay.iocnt.net
     * mobnwnew-relay.iocnt.net
+    * mobnwz-relay.iocnt.net
     * mobosnaz-relay.iocnt.net
-    * mobosthe-relay.iocnt.net
+    * moboutma-relay.iocnt.net
     * mobpnp-relay.iocnt.net
     * mobpromo-relay.iocnt.net
+    * mobradbi-relay.iocnt.net
     * mobradgu-relay.iocnt.net
+    * mobradhe-relay.iocnt.net
     * mobradho-relay.iocnt.net
-    * mobradli-relay.iocnt.net
-    * mobrmm-relay.iocnt.net
+    * mobradwa-relay.iocnt.net
+    * mobrnz-relay.iocnt.net
     * mobrpo-relay.iocnt.net
     * mobruhr-relay.iocnt.net
+    * mobrunwo-relay.iocnt.net
     * mobsao-relay.iocnt.net
     * mobschwa-relay.iocnt.net
     * mobshz-relay.iocnt.net
-    * mobstern-relay.iocnt.net
-    * mobstybo-relay.iocnt.net
+    * mobsued-relay.iocnt.net
     * mobsuedk-relay.iocnt.net
     * mobt3n-relay.iocnt.net
     * mobtoi-relay.iocnt.net
-    * mobtrabo-relay.iocnt.net
+    * mobtrans-relay.iocnt.net
     * mobupday-relay.iocnt.net
-    * mobverjo-relay.iocnt.net
-    * mobwatso-relay.iocnt.net
     * mobwelt-relay.iocnt.net
     * mobweser-relay.iocnt.net
-    * mobwobla-relay.iocnt.net
-    * mobwohea-relay.iocnt.net
     * mobwznew-relay.iocnt.net
+    * mobzeit-relay.iocnt.net
     * mopo-relay.iocnt.net
     * mopo24-relay.iocnt.net
     * motorspo-relay.iocnt.net
-    * motradon-relay.iocnt.net
-    * msg-relay.iocnt.net
+    * mtonl-relay.iocnt.net
     * mvonline-relay.iocnt.net
-    * myhomebo-relay.iocnt.net
     * netdok-relay.iocnt.net
+    * neueoz-relay.iocnt.net
+    * newsclic-relay.iocnt.net
     * nwnews-relay.iocnt.net
     * nwz-relay.iocnt.net
     * oberpfal-relay.iocnt.net
+    * onvis-relay.iocnt.net
     * osthesse-relay.iocnt.net
+    * petbook-relay.iocnt.net
+    * pharmaz-relay.iocnt.net
     * pirsch-relay.iocnt.net
-    * pnp-relay.iocnt.net
     * pool1.iocnt.net
     * pool2.iocnt.net
     * presspor-relay.iocnt.net
-    * promobil-relay.iocnt.net
+    * pro7-relay.iocnt.net
     * ptaheu-relay.iocnt.net
     * pznewsde-relay.iocnt.net
-    * radsport-relay.iocnt.net
-    * ran-relay.iocnt.net
     * relay-client-c01.iocnt.net
     * relay-client-c03.iocnt.net
     * relay-client-c07.iocnt.net
     * relay-client.iocnt.net
     * reportoewa-at.iocnt.net
+    * rgaonl-relay.iocnt.net
+    * rhosaale-relay.iocnt.net
     * rnzonl-relay.iocnt.net
     * ron-relay.iocnt.net
     * rponl-relay.iocnt.net
     * rtlluxem-relay.iocnt.net
     * ruhrnari-relay.iocnt.net
-    * sanitaer-relay.iocnt.net
     * sarcdbsgs001.iocnt.net
     * scinexx-relay.iocnt.net
-    * skol-relay.iocnt.net
+    * shz-relay.iocnt.net
+    * skone-relay.iocnt.net
     * speedwee-relay.iocnt.net
+    * spoxcom-relay.iocnt.net
     * sprimedi-relay.iocnt.net
+    * spriprof-relay.iocnt.net
     * stimme-relay.iocnt.net
+    * sueddeut-relay.iocnt.net
     * suedostn-relay.iocnt.net
-    * szbzde-relay.iocnt.net
     * szon-relay.iocnt.net
     * t3n-relay.iocnt.net
     * tagblatt-relay.iocnt.net
@@ -298,15 +324,14 @@
     * vodafone-relay.iocnt.net
     * vorausweisungoewa-at.iocnt.net
     * vtestgs001.iocnt.net
-    * watchtim-relay.iocnt.net
     * watson-relay.iocnt.net
     * weinheim-relay.iocnt.net
     * welt-relay.iocnt.net
-    * weltfuss-relay.iocnt.net
     * westblat-relay.iocnt.net
     * westnach-relay.iocnt.net
     * wznet-relay.iocnt.net
     * wznews-relay.iocnt.net
+    * yachtde-relay.iocnt.net
     * zdftagma-relay.iocnt.net
     * zgo-relay.iocnt.net
     * zvw-relay.iocnt.net
@@ -316,21 +341,23 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | data-dc11b32774.apps.iocnt.de | aadaktio-relay.iocnt.net |
+| data-b7d20b3e3b.apps.iocnt.de | aadaumos-relay.iocnt.net |
+| data-e3af19e759.apps.iocnt.de | aadbadze-relay.iocnt.net |
 | data-a6a76566fd.apps.iocnt.de | aadbdsp-relay.iocnt.net |
 | data-57ee451953.apps.iocnt.de | aadbild-relay.iocnt.net |
+| data-4c63bfe8f2.apps.iocnt.de | aadbonl-relay.iocnt.net |
+| data-c4b720ded1.apps.iocnt.de | aadckoch-relay.iocnt.net |
 | data-53ba3c279a.apps.iocnt.de | aadcleve-relay.iocnt.net |
-| data-341c3a0fe0.apps.iocnt.de | aaddokur-relay.iocnt.net |
+| data-038ae8f760.apps.iocnt.de | aadcomun-relay.iocnt.net |
 | data-ac6a73462f.apps.iocnt.de | aadfinet-relay.iocnt.net |
 | data-e095ec3c5c.apps.iocnt.de | aadfocus-relay.iocnt.net |
 | data-04c5cc96a0.apps.iocnt.de | aadfrtag-relay.iocnt.net |
 | data-5aab0af339.apps.iocnt.de | aadgabn-relay.iocnt.net |
 | data-917f6e673e.apps.iocnt.de | aadmeta-relay.iocnt.net |
-| data-12cf56a65f.apps.iocnt.de | aadmpros-relay.iocnt.net |
+| data-5617a90665.apps.iocnt.de | aadmitby-relay.iocnt.net |
 | data-678db07fc3.apps.iocnt.de | aadnord-relay.iocnt.net |
 | data-2d5e2d4006.apps.iocnt.de | aadnordb-relay.iocnt.net |
 | data-91d77b307e.apps.iocnt.de | aadntv-relay.iocnt.net |
-| data-2340ac25bb.apps.iocnt.de | aadnwnp-relay.iocnt.net |
-| data-2e1c59efe0.apps.iocnt.de | aadosthe-relay.iocnt.net |
 | data-5164524be6.apps.iocnt.de | aadpliga-relay.iocnt.net |
 | data-f5928669e0.apps.iocnt.de | aadpnp-relay.iocnt.net |
 | data-a21143b1fe.apps.iocnt.de | aadradio-relay.iocnt.net |
@@ -341,39 +368,47 @@
 | data-01df4c6e0c.apps.iocnt.de | aadtonl-relay.iocnt.net |
 | data-ce0e6fdeb3.apps.iocnt.de | aadwelt-relay.iocnt.net |
 | data-ce54b2d2bd.apps.iocnt.de | aadwetco-relay.iocnt.net |
-| data-74131617db.achgut.com | achgut-relay.iocnt.net |
+| data-0186141170.apps.iocnt.de | aadwetde-relay.iocnt.net |
+| data-0186141170.apps.iocnt.de | aadwetde-relay.iocnt.net |
 | acksrc.chip.de | acsam-script.iocnt.net |
 | source-66584305d5.mainpost.de | acsam-script.iocnt.net |
 | source-ed91a21bf0.dastelefonbuch.de | acsam-script.iocnt.net |
 | data-df5a2bcc30.aerzteblatt.de | aerztebl-relay.iocnt.net |
 | data-30826b1c29.agrarheute.com | agrar-relay.iocnt.net |
 | data-97304cc18d.medienzentrum-biberach.de | ak463-relay.iocnt.net |
+| data-cb1273f1c3.alfelder-zeitung.de | alefzeit-relay.iocnt.net |
+| data-f3fe376ba8.allgaeuer-zeitung.de | allgauze-relay.iocnt.net |
+| data-d3b7b07de5.apps.iocnt.de | appaktio-relay.iocnt.net |
+| data-de83895c33.apps.iocnt.de | appbdsp-relay.iocnt.net |
 | data-96981b4ea8.apps.iocnt.de | appbild-relay.iocnt.net |
 | data-2f559bb09f.apps.iocnt.de | appbildp-relay.iocnt.net |
+| data-189b3ff7e9.apps.iocnt.de | appckoch-relay.iocnt.net |
 | data-49877903fc.apps.iocnt.de | appcleve-relay.iocnt.net |
-| data-5acce9c32f.apps.iocnt.de | appmeta-relay.iocnt.net |
 | data-4aed862c71.apps.iocnt.de | appntv-relay.iocnt.net |
-| data-b36bfba069.apps.iocnt.de | appsued-relay.iocnt.net |
+| data-6b5868992a.apps.iocnt.de | apppnp-relay.iocnt.net |
+| data-e89b4fd803.apps.iocnt.de | appradio-relay.iocnt.net |
+| data-ba5075b88b.apps.iocnt.de | appradwe-relay.iocnt.net |
 | data-cedbf1e823.apps.iocnt.de | apptbkic-relay.iocnt.net |
 | data-8f7660c51c.apps.iocnt.de | apptelma-relay.iocnt.net |
 | data-ccadb8b6f3.apps.iocnt.de | appweltm-relay.iocnt.net |
+| data-2ee2564ecd.ariva.de | ariva-relay.iocnt.net |
 | data-9439f4400c.apps.iocnt.de | at-a-krone-relay.iocnt.net |
-| data-0034231193.apps.iocnt.de | at-a-kronepaper-relay.iocnt.net |
+| data-cb6448e7d7.apps.iocnt.de | at-a-ooen-relay.iocnt.net |
 | data-60ca748eaf.apps.iocnt.de | at-a-orfatnews-relay.iocnt.net |
 | data-c5c2cd7b92.apps.iocnt.de | at-a-orfatsport-relay.iocnt.net |
-| data-d611a11039.apps.iocnt.de | at-a-orffussb-relay.iocnt.net |
-| data-5f31cc5b45.apps.iocnt.de | at-a-orfkids-relay.iocnt.net |
+| data-ceb2600919.apps.iocnt.de | at-a-orfskiawc-relay.iocnt.net |
 | data-7a3ad4c334.apps.iocnt.de | at-a-orftelet-relay.iocnt.net |
 | data-924def9ef0.apps.iocnt.de | at-a-orftvthek-relay.iocnt.net |
-| data-f4f60a6d2f.apps.iocnt.de | at-a-radiooe3-relay.iocnt.net |
-| data-a4ca7c0f04.apps.iocnt.de | at-a-willhaben-relay.iocnt.net |
-| data-63659a24a7.apps.iocnt.de | at-i-krone-relay.iocnt.net |
-| data-4cb57634de.apps.iocnt.de | at-i-orfatnews-relay.iocnt.net |
+| data-67e5b22ff5.apps.iocnt.de | at-a-radiooe1-relay.iocnt.net |
+| data-63ef19fa52.apps.iocnt.de | at-a-volat-relay.iocnt.net |
 | data-5a2bbd7d77.apps.iocnt.de | at-i-orfskiawc-relay.iocnt.net |
-| data-b1ae357847.apps.iocnt.de | at-i-willhaben-relay.iocnt.net |
+| data-d01d310c7a.apps.iocnt.de | at-i-orftvthek-relay.iocnt.net |
+| data-020f60e247.apps.iocnt.de | at-i-radiooe3-relay.iocnt.net |
 | data-d50538de89.5min.at | at-w-at5min-relay.iocnt.net |
-| data-e16c65ad3c.antennevorarlberg.at | at-w-atantvrlb-relay.iocnt.net |
 | data-dda7d24eb2.derstandard.at | at-w-atderstand-relay.iocnt.net |
+| data-ea24093e1a.die-wirtschaft.at | at-w-atdiewirt-relay.iocnt.net |
+| data-d75062df83.epaper-oesterreich.at | at-w-atepap-oes-relay.iocnt.net |
+| data-c3a3188a23.exxpress.at | at-w-atexxpress-relay.iocnt.net |
 | data-ecb5249bb2.falter.at | at-w-atfalter-relay.iocnt.net |
 | data-e58155ef3c.finden.at | at-w-atfinden-relay.iocnt.net |
 | data-4248af8297.futurezone.at | at-w-atfuturez-relay.iocnt.net |
@@ -382,13 +417,17 @@
 | data-afa8dd5312.kleinezeitung.at | at-w-atkleineze-relay.iocnt.net |
 | data-545e23e607.kosmo.at | at-w-atkosmo-relay.iocnt.net |
 | data-1ce9bdc9f1.krone.at | at-w-atkrone-relay.iocnt.net |
-| data-74e6a53123.kronehit.at | at-w-atkronehit-relay.iocnt.net |
 | data-e0cdc680c2.kurier.at | at-w-atkurier-relay.iocnt.net |
 | data-6a61a15cf3.laendleanzeiger.at | at-w-atlaendanz-relay.iocnt.net |
+| data-7bd40aa49e.laendleimmo.at | at-w-atlaenimmo-relay.iocnt.net |
+| data-8468e8ebc5.laola1.at | at-w-atlaola1-relay.iocnt.net |
 | data-10e222a818.ligaportal.at | at-w-atliportal-relay.iocnt.net |
+| data-3fb5262fad.unsersalzburg.at | at-w-atlooksbg-relay.iocnt.net |
 | data-b50e0279d5.meinbezirk.at | at-w-atmeinbez-relay.iocnt.net |
+| data-2356053920.meinmed.at | at-w-atmeinmed-relay.iocnt.net |
 | data-40b7721511.nachrichten.at | at-w-atnachrich-relay.iocnt.net |
-| data-1c70f16ae2.newsflix.at | at-w-atnewsflix-relay.iocnt.net |
+| data-1fef8558fa.netdoktor.at | at-w-atnetdok-relay.iocnt.net |
+| data-fe32da0431.news.at | at-w-atnews-relay.iocnt.net |
 | data-a29bc6fa2d.noen.at | at-w-atnoen-relay.iocnt.net |
 | data-d543661da8.oe24.at | at-w-atoe24-relay.iocnt.net |
 | data-d6e13c60e8.orf.at | at-w-atorf-relay.iocnt.net |
@@ -397,127 +436,134 @@
 | data-5fdd0f6a02.salzburg24.at | at-w-atsbg24-relay.iocnt.net |
 | data-5d2679d281.skysportaustria.at | at-w-atskyspaut-relay.iocnt.net |
 | data-f6693670bf.sn.at | at-w-atsn-relay.iocnt.net |
-| data-f4f9925b8a.styleupyourlife.at | at-w-atstyleup-relay.iocnt.net |
 | data-0af01e596d.tips.at | at-w-attips-relay.iocnt.net |
 | data-d3b9450695.tv-media.at | at-w-attv-media-relay.iocnt.net |
 | data-cadceaa3b3.tvheute.at | at-w-attvheute-relay.iocnt.net |
+| data-c1e9638016.vgn.at | at-w-atvgn-relay.iocnt.net |
 | data-3db2fae96f.vienna.at | at-w-atvienna-relay.iocnt.net |
+| data-be4fd7bada.vn.at | at-w-atvn-relay.iocnt.net |
 | data-56def2f6bc.vol.at | at-w-atvol-relay.iocnt.net |
 | data-e81f9554e5.willhaben.at | at-w-atwillhab-relay.iocnt.net |
+| data-595db38f76.woman.at | at-w-atwoman-relay.iocnt.net |
 | data-009c74b736.yesss.at | at-w-atyesss-relay.iocnt.net |
 | data-50d39a5d3f.diepresse.com | at-w-comdiepres-relay.iocnt.net |
 | data-353c1c8501.falstaff.com | at-w-comfalstaf-relay.iocnt.net |
 | data-cdd14ee8a7.servustv.com | at-w-comservtv-relay.iocnt.net |
+| data-b71e59c9ac.servus.com | at-w-comservus-relay.iocnt.net |
 | data-5ca562c702.tt.com | at-w-comtt-relay.iocnt.net |
-| data-ab6e448dac.wetter.com | at-w-comwetter-relay.iocnt.net |
 | data-ea81aa1271.derstandard.de | at-w-dederstand-relay.iocnt.net |
-| data-525bd81403.a1.net | at-w-netmaila1-relay.iocnt.net |
-| data-1eea95e868.a1.net | at-w-networlda1-relay.iocnt.net |
 | data-7462ea72ec.augsburger-allgemeine.de | augsallg-relay.iocnt.net |
-| data-cd0b4bd19f.auto-motor-und-sport.de | aumospo-relay.iocnt.net |
-| data-aae7bdcec6.autoscout24.ro | aus24-relay.iocnt.net |
+| data-aae7bdcec6.autoscout24.hr | aus24-relay.iocnt.net |
+| data-56b1bc19e7.autobild.de | autobild-relay.iocnt.net |
 | data-56b1bc19e7.clever-tanken.de | autobild-relay.iocnt.net |
 | data-36eb08aa0f.autozeitung.de | autozeit-relay.iocnt.net |
-| data-7b705d0b93.b4bschwaben.de | b4bwirt-relay.iocnt.net |
 | data-8abe5cc617.badische-zeitung.de | badzeit-relay.iocnt.net |
-| data-9d5ca866eb.baunetz-id.de | baunetz-relay.iocnt.net |
+| data-9d5ca866eb.baunetz.de | baunetz-relay.iocnt.net |
 | data-44a005f23c.bergfex.at | bergfex-relay.iocnt.net |
+| data-44a005f23c.bergfex.ch | bergfex-relay.iocnt.net |
 | data-44a005f23c.bergfex.com | bergfex-relay.iocnt.net |
-| data-44a005f23c.bergfex.de | bergfex-relay.iocnt.net |
-| data-44a005f23c.bergfex.si | bergfex-relay.iocnt.net |
+| data-44a005f23c.bergfex.pl | bergfex-relay.iocnt.net |
 | data-5b771a2641.berliner-zeitung.de | berlizei-relay.iocnt.net |
 | data-767a8be759.berliner-kurier.de | berlkuri-relay.iocnt.net |
-| data-53ce61d695.bike-x.de | bikex-relay.iocnt.net |
 | data-bb21a2f11b.bild.de | bild-relay.iocnt.net |
+| data-bb21a2f11b.bz-berlin.de | bild-relay.iocnt.net |
 | data-bb21a2f11b.fitbook.de | bild-relay.iocnt.net |
-| data-bb21a2f11b.myhomebook.de | bild-relay.iocnt.net |
-| data-bb21a2f11b.petbook-magazine.com | bild-relay.iocnt.net |
-| data-bb21a2f11b.sportbild.de | bild-relay.iocnt.net |
-| data-bb21a2f11b.stylebook.de | bild-relay.iocnt.net |
-| data-bb21a2f11b.techbook.de | bild-relay.iocnt.net |
 | data-c061012ba4.bisafans.de | bisafans-relay.iocnt.net |
 | data-2e91d05bea.bluray-disc.de | bluray-relay.iocnt.net |
+| data-a59dd2af3b.wochenblatt-dlv.de | blw-relay.iocnt.net |
 | data-28d1f65bc5.bnn.de | bnn-relay.iocnt.net |
 | data-964f7f3f43.boerse-online.de | boerseon-relay.iocnt.net |
-| data-f943e74ec9.bz-berlin.de | bzberlin-relay.iocnt.net |
+| data-e9983e832a.boyens-medien.de | boyens-relay.iocnt.net |
+| data-b43a87d00c.businessinsider.de | businsi-relay.iocnt.net |
 | data-2af9963ee4.computerbild.de | cbo-relay.iocnt.net |
+| data-2af9963ee4.wieistmeineip.de | cbo-relay.iocnt.net |
 | data-aac883f83b.offiziellecharts.de | chartsde-relay.iocnt.net |
-| data-9fc27eb430.cineplex.de | cineplex-relay.iocnt.net |
+| data-a3c5651c22.monopol-magazin.de | ciceroon-relay.iocnt.net |
 | data-f0a1fa7abc.cinestar.de | cinestar-relay.iocnt.net |
 | data-af9a061aaf.deraktionaer.de | daktion-relay.iocnt.net |
 | data-b9680e0592.deutschesapothekenportal.de | daportal-relay.iocnt.net |
 | data-ed91a21bf0.dastelefonbuch.de | dastelef-relay.iocnt.net |
-| data-044c671387.desired.de | desired-relay.iocnt.net |
 | data-ae99031d75.mittelbayerische.de | donaude-relay.iocnt.net |
+| data-833e9f9a71.dzonline.de | dzonl-relay.iocnt.net |
 | data-af2292b12d.eatbetter.de | eatbette-relay.iocnt.net |
+| data-38132d333d.e-hausaufgaben.de | ehausauf-relay.iocnt.net |
 | data-4f2efe538c.einfachbacken.de | einfaba-relay.iocnt.net |
 | data-1b9c592a39.einfachkochen.de | einfkoch-relay.iocnt.net |
+| data-dae559c4b7.ejz.de | ejzde-relay.iocnt.net |
 | data-1aec34a522.elle.de | elle-relay.iocnt.net |
 | data-a7deba18e8.evangelisch.de | evangede-relay.iocnt.net |
 | data-9fcd0b641d.falstaff.com | falstaff-relay.iocnt.net |
-| data-40a1d254c9.familie.de | familie-relay.iocnt.net |
+| data-4ede7e9c86.testfaz.net | faz-relay.iocnt.net |
 | data-06d9d19ba0.filmdienst.de | filmdien-relay.iocnt.net |
 | data-b8cbca7d61.finanzen.ch | financh-relay.iocnt.net |
 | data-fdbbf15b66.finanzen.at | finaonl-relay.iocnt.net |
 | data-fdbbf15b66.finanzen.net | finaonl-relay.iocnt.net |
-| data-6463194ae5.fitbook.de | fitbook-relay.iocnt.net |
+| data-34565915dd.firmenwissen.com | firmenw-relay.iocnt.net |
+| data-ce326d00f8.aero.de | flugrevu-relay.iocnt.net |
 | data-1b32532ce1.freiepresse.de | freipres-relay.iocnt.net |
-| data-ef8760a9b2.fraenkische-rezepte.de | frtag-relay.iocnt.net |
 | data-ef8760a9b2.infranken.de | frtag-relay.iocnt.net |
+| data-1774ab3b64.fvw.de | fvw-relay.iocnt.net |
+| data-051302072f.gabler.de | gabler-relay.iocnt.net |
+| data-a0b1f67d32.gaeubote.de | gaeubote-relay.iocnt.net |
+| data-fc6e3104c2.finanztreff.de | gatfitr-relay.iocnt.net |
+| data-05c346d0b0.gea.de | gea-relay.iocnt.net |
 | data-a0f0ae1310.gelbeseiten.de | gelbseit-relay.iocnt.net |
-| data-17c7ec5f16.giga.de | giga-relay.iocnt.net |
 | data-236c420b67.glamour.de | glamour-relay.iocnt.net |
 | data-90725c51d9.gn-online.de | gnonline-relay.iocnt.net |
 | data-1d11624658.gutekueche.de | gutekue-relay.iocnt.net |
 | data-494b3b236f.goslarsche.de | gzonline-relay.iocnt.net |
+| data-08d52e2a42.handelsblatt.com | handbl-relay.iocnt.net |
 | data-162d89b6ce.haufe.de | haperson-relay.iocnt.net |
 | data-f27acaf339.haustechnikdialog.de | hatedilo-relay.iocnt.net |
-| data-195efe600e.haus.de | haus-relay.iocnt.net |
-| data-60d896f23d.cz.de | haz-relay.iocnt.net |
-| data-60d896f23d.haz.de | haz-relay.iocnt.net |
-| data-60d896f23d.kn-online.de | haz-relay.iocnt.net |
-| data-60d896f23d.ostsee-zeitung.de | haz-relay.iocnt.net |
-| data-60d896f23d.reisereporter.de | haz-relay.iocnt.net |
+| data-b4df3518e0.haustec.de | haustec-relay.iocnt.net |
+| data-60d896f23d.radio.de | haz-relay.iocnt.net |
 | data-60d896f23d.rnd.de | haz-relay.iocnt.net |
 | data-60d896f23d.saechsische.de | haz-relay.iocnt.net |
-| data-60d896f23d.solinger-tageblatt.de | haz-relay.iocnt.net |
-| data-48d3085f82.hildesheimer-allgemeine.de | hialzeit-relay.iocnt.net |
-| data-b8f9ef66dc.hogapage.de | hogapage-relay.iocnt.net |
+| data-60d896f23d.waz-online.de | haz-relay.iocnt.net |
+| data-382f03151d.harpersbazaar.de | hbazaar-relay.iocnt.net |
 | data-a98482617b.holidaycheck.de | holidayc-relay.iocnt.net |
 | data-7b4229ab74.idowa.de | idowa-relay.iocnt.net |
 | data-d3b795e73c.instyle.de | instyle-relay.iocnt.net |
+| data-f1e447fbcf.einfach-tasty.de | ippenmed-relay.iocnt.net |
 | data-f1e447fbcf.fr.de | ippenmed-relay.iocnt.net |
-| data-f1e447fbcf.hna.de | ippenmed-relay.iocnt.net |
 | data-f1e447fbcf.kreiszeitung.de | ippenmed-relay.iocnt.net |
 | data-f1e447fbcf.merkur.de | ippenmed-relay.iocnt.net |
+| data-f1e447fbcf.op-online.de | ippenmed-relay.iocnt.net |
+| data-f1e447fbcf.rosenheim24.de | ippenmed-relay.iocnt.net |
 | data-f1e447fbcf.serienjunkies.de | ippenmed-relay.iocnt.net |
+| data-f1e447fbcf.tz.de | ippenmed-relay.iocnt.net |
+| data-f1e447fbcf.wa.de | ippenmed-relay.iocnt.net |
 | data-f1e447fbcf.webnachrichten.de | ippenmed-relay.iocnt.net |
+| data-421b67c653.ka-news.de | kanews-relay.iocnt.net |
 | data-0cf18bcfe3.katholisch.de | kathde-relay.iocnt.net |
 | data-e69b3d32a9.kicker.de | kicker-relay.iocnt.net |
-| data-c76cebcfed.kino.de | kino-relay.iocnt.net |
+| data-3eff3aac07.kino-zeit.de | kinozeit-relay.iocnt.net |
 | data-7899267776.daskochrezept.de | kochzept-relay.iocnt.net |
-| data-dc874fa9ed.koeln.de | koelnde-relay.iocnt.net |
+| data-59a3f7fb00.ksta.de | koelnsta-relay.iocnt.net |
+| data-c1195dc135.landundforst.de | landfors-relay.iocnt.net |
 | data-589866a496.laut.de | laut-relay.iocnt.net |
 | data-367bcf5bd6.lebensmittelzeitung.net | lznet-relay.iocnt.net |
 | data-e89c765eef.main-echo.de | mainecho-relay.iocnt.net |
 | data-1381d79962.mainpost.de | mainpost-relay.iocnt.net |
-| data-a01a8a1ba4.allgemeine-zeitung.de | mainrhei-relay.iocnt.net |
 | data-a01a8a1ba4.echo-online.de | mainrhei-relay.iocnt.net |
-| data-a01a8a1ba4.kreis-anzeiger.de | mainrhei-relay.iocnt.net |
-| data-a01a8a1ba4.main-spitze.de | mainrhei-relay.iocnt.net |
 | data-a01a8a1ba4.mittelhessen.de | mainrhei-relay.iocnt.net |
+| data-a01a8a1ba4.wormser-zeitung.de | mainrhei-relay.iocnt.net |
 | member.oewa.at | memberoewa-at.iocnt.net |
+| data-1fbcf6d7f5.frankenpost.de | mhsdigi-relay.iocnt.net |
+| data-1fbcf6d7f5.schwarzwaelder-bote.de | mhsdigi-relay.iocnt.net |
+| data-1fbcf6d7f5.stuttgarter-nachrichten.de | mhsdigi-relay.iocnt.net |
+| data-1fbcf6d7f5.stuttgarter-zeitung.de | mhsdigi-relay.iocnt.net |
 | data-44384eebca.allgaeuer-zeitung.de | moballgz-relay.iocnt.net |
 | data-a2a13b1828.all-in.de | moballin-relay.iocnt.net |
+| data-89254d05a3.alpin.de | mobalpin-relay.iocnt.net |
 | data-4e9ff460f2.autobild.de | mobaubi-relay.iocnt.net |
 | data-190087bcf9.augsburger-allgemeine.de | mobaugsb-relay.iocnt.net |
 | data-b4d5de22d2.auto-motor-und-sport.de | mobaumos-relay.iocnt.net |
-| data-b7d0b4217b.autoscout24.com.tr | mobaus24-relay.iocnt.net |
 | data-b7d0b4217b.autoscout24.hr | mobaus24-relay.iocnt.net |
-| data-b7d0b4217b.autoscout24.pl | mobaus24-relay.iocnt.net |
 | data-fa2d848059.aachener-zeitung.de | mobazan-relay.iocnt.net |
 | data-96d64cb150.badische-zeitung.de | mobbadze-relay.iocnt.net |
-| data-8459ce106e.bike-x.de | mobbikex-relay.iocnt.net |
+| data-96d64cb150.fupa.net | mobbadze-relay.iocnt.net |
+| data-febb5dffb0.bigfm.de | mobbigfm-relay.iocnt.net |
 | data-861bbf2127.bild.de | mobbild-relay.iocnt.net |
 | data-861bbf2127.bz-berlin.de | mobbild-relay.iocnt.net |
 | data-861bbf2127.fitbook.de | mobbild-relay.iocnt.net |
@@ -528,80 +574,72 @@
 | data-497f575d82.businessinsider.de | mobbusin-relay.iocnt.net |
 | data-19e0ce8844.computerbild.de | mobcombi-relay.iocnt.net |
 | data-19e0ce8844.wieistmeineip.de | mobcombi-relay.iocnt.net |
-| data-6dafa8d42f.desired.de | mobdesi-relay.iocnt.net |
+| data-fdf4690b14.jobmarkt-nrw.de | mobderwe-relay.iocnt.net |
+| data-8cc19d99e5.deutsche-handwerks-zeitung.de | mobdhz-relay.iocnt.net |
 | data-fa3432c50a.donaukurier.de | mobdokur-relay.iocnt.net |
 | data-663387616d.echo24.de | mobech24-relay.iocnt.net |
+| data-9c12ed8b3c.echtemamas.de | mobechtm-relay.iocnt.net |
 | data-9b2f644d2c.einfachbacken.de | mobeinfa-relay.iocnt.net |
 | data-aebdc1adf0.elle.de | mobelle-relay.iocnt.net |
 | data-2ccf0ea3cc.esquire.de | mobesqui-relay.iocnt.net |
-| data-9fa9a37f64.familie.de | mobfamie-relay.iocnt.net |
-| data-2732fcab6f.aero.de | mobflugr-relay.iocnt.net |
+| data-00460c60fa.eurotransport.de | mobeurot-relay.iocnt.net |
 | data-2732fcab6f.flugrevue.de | mobflugr-relay.iocnt.net |
 | data-e4cfccd10c.freundin.de | mobfreun-relay.iocnt.net |
 | data-13d258638d.blick.de | mobfrpre-relay.iocnt.net |
 | data-13d258638d.freiepresse.de | mobfrpre-relay.iocnt.net |
 | data-f3bb5f7732.infranken.de | mobfrtag-relay.iocnt.net |
-| data-ec98eddf4a.giga.de | mobgiga-relay.iocnt.net |
 | data-3cb5515026.harpersbazaar.de | mobhabaz-relay.iocnt.net |
-| data-048d215ebe.haustec.de | mobhaute-relay.iocnt.net |
-| data-6dde45f576.cz.de | mobhaz-relay.iocnt.net |
-| data-6dde45f576.dieharke.de | mobhaz-relay.iocnt.net |
+| data-f722634d33.haller-kreisblatt.de | mobhallk-relay.iocnt.net |
 | data-6dde45f576.dnn.de | mobhaz-relay.iocnt.net |
-| data-6dde45f576.goettinger-tageblatt.de | mobhaz-relay.iocnt.net |
+| data-6dde45f576.gnz.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.haz.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.kn-online.de | mobhaz-relay.iocnt.net |
+| data-6dde45f576.landeszeitung.de | mobhaz-relay.iocnt.net |
+| data-6dde45f576.ln-online.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.lvz.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.maz-online.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.ndz.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.neuepresse.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.op-marburg.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.ostsee-zeitung.de | mobhaz-relay.iocnt.net |
-| data-6dde45f576.paz-online.de | mobhaz-relay.iocnt.net |
-| data-6dde45f576.radio.es | mobhaz-relay.iocnt.net |
-| data-6dde45f576.radio.fr | mobhaz-relay.iocnt.net |
-| data-6dde45f576.radio.net | mobhaz-relay.iocnt.net |
-| data-6dde45f576.radio.pl | mobhaz-relay.iocnt.net |
 | data-6dde45f576.reisereporter.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.remszeitung.de | mobhaz-relay.iocnt.net |
-| data-6dde45f576.rga.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.rnd.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.saechsische.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.siegener-zeitung.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.sn-online.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.solinger-tageblatt.de | mobhaz-relay.iocnt.net |
-| data-6dde45f576.szlz.de | mobhaz-relay.iocnt.net |
-| data-6dde45f576.tah.de | mobhaz-relay.iocnt.net |
+| data-6dde45f576.sz-jobs.de | mobhaz-relay.iocnt.net |
 | data-6dde45f576.trauer-anzeigen.de | mobhaz-relay.iocnt.net |
-| data-93346271bf.holidaycheck.at | mobholch-relay.iocnt.net |
+| data-6dde45f576.waz-online.de | mobhaz-relay.iocnt.net |
+| data-ae81bed93b.stimme.de | mobheilb-relay.iocnt.net |
+| data-93346271bf.holidaycheck.ch | mobholch-relay.iocnt.net |
 | data-93346271bf.holidaycheck.de | mobholch-relay.iocnt.net |
-| data-5a9f6e282a.ingenieur.de | mobinge-relay.iocnt.net |
 | data-0d1a0271a9.instyle.de | mobinsty-relay.iocnt.net |
-| data-f59db3288b.24garten.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.24rhein.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.az-online.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.bgland24.de | mobippen-relay.iocnt.net |
-| data-f59db3288b.buzzfeed.de | mobippen-relay.iocnt.net |
-| data-f59db3288b.bw24.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.chiemgau24.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.come-on.de | mobippen-relay.iocnt.net |
+| data-f59db3288b.costanachrichten.com | mobippen-relay.iocnt.net |
 | data-f59db3288b.deichstube.de | mobippen-relay.iocnt.net |
+| data-f59db3288b.einfach-tasty.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.fnp.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.fr.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.fuldaerzeitung.de | mobippen-relay.iocnt.net |
-| data-f59db3288b.giessener-allgemeine.de | mobippen-relay.iocnt.net |
-| data-f59db3288b.hallo-muenchen.de | mobippen-relay.iocnt.net |
+| data-f59db3288b.fupa.net | mobippen-relay.iocnt.net |
+| data-f59db3288b.fussball.news | mobippen-relay.iocnt.net |
 | data-f59db3288b.hanauer.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.heidelberg24.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.hna.de | mobippen-relay.iocnt.net |
-| data-f59db3288b.ingame.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.innsalzach24.de | mobippen-relay.iocnt.net |
-| data-f59db3288b.kreisbote.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.kreiszeitung.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.ludwigshafen24.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.mannheim24.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.merkur.de | mobippen-relay.iocnt.net |
-| data-f59db3288b.nextg.tv | mobippen-relay.iocnt.net |
+| data-f59db3288b.oberhessische-zeitung.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.op-online.de | mobippen-relay.iocnt.net |
+| data-f59db3288b.ovb-online.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.rosenheim24.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.ruhr24.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.sauerlandkurier.de | mobippen-relay.iocnt.net |
@@ -610,113 +648,109 @@
 | data-f59db3288b.suedwest24.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.tz.de | mobippen-relay.iocnt.net |
 | data-f59db3288b.wa.de | mobippen-relay.iocnt.net |
-| data-f59db3288b.werra-rundschau.de | mobippen-relay.iocnt.net |
-| data-f59db3288b.wlz-online.de | mobippen-relay.iocnt.net |
 | data-650d8068ef.ka-news.de | mobkanew-relay.iocnt.net |
 | data-3cd8fb3825.kicker.de | mobkicke-relay.iocnt.net |
-| data-fa59f9f6b5.groebenlichtspiele.de | mobkinco-relay.iocnt.net |
-| data-5a40478bd4.kino.de | mobkino-relay.iocnt.net |
+| data-fa59f9f6b5.cinexx.de | mobkinco-relay.iocnt.net |
+| data-fa59f9f6b5.kuki-landau.de | mobkinco-relay.iocnt.net |
 | data-e392d35d53.kino-zeit.de | mobkinoz-relay.iocnt.net |
+| data-6cfdf9f979.lebensmittelzeitung.net | mobleben-relay.iocnt.net |
 | data-a06056e0a7.lz.de | moblippi-relay.iocnt.net |
 | data-8522662a32.mainpost.de | mobmainp-relay.iocnt.net |
-| data-d1cd281a03.myhomebook.de | mobmhobo-relay.iocnt.net |
-| data-fb37a1e7c3.esslinger-zeitung.de | mobmhs-relay.iocnt.net |
 | data-fb37a1e7c3.frankenpost.de | mobmhs-relay.iocnt.net |
 | data-fb37a1e7c3.insuedthueringen.de | mobmhs-relay.iocnt.net |
 | data-fb37a1e7c3.kurier.de | mobmhs-relay.iocnt.net |
-| data-fb37a1e7c3.kurier.de | mobmhs-relay.iocnt.net |
+| data-fb37a1e7c3.np-coburg.de | mobmhs-relay.iocnt.net |
 | data-fb37a1e7c3.schwarzwaelder-bote.de | mobmhs-relay.iocnt.net |
 | data-fb37a1e7c3.stuttgarter-nachrichten.de | mobmhs-relay.iocnt.net |
 | data-fb37a1e7c3.stuttgarter-zeitung.de | mobmhs-relay.iocnt.net |
-| data-79b61f918a.mittelbayerische.de | mobmibay-relay.iocnt.net |
 | data-a5210336ab.mt.de | mobminde-relay.iocnt.net |
 | data-1203b7acd3.mopo.de | mobmopo-relay.iocnt.net |
 | data-cf56e4da9b.motorradonline.de | mobmorad-relay.iocnt.net |
+| data-f62d7c5cdb.fnweb.de | mobmorge-relay.iocnt.net |
+| data-f62d7c5cdb.immomorgen.de | mobmorge-relay.iocnt.net |
+| data-f62d7c5cdb.mannheimer-morgen.de | mobmorge-relay.iocnt.net |
 | data-f62d7c5cdb.schwetzinger-zeitung.de | mobmorge-relay.iocnt.net |
-| data-fbb8842b89.focus.de | mobnetdo-relay.iocnt.net |
+| data-fbb8842b89.fitforfun.de | mobnetdo-relay.iocnt.net |
+| data-fbb8842b89.mylife.de | mobnetdo-relay.iocnt.net |
 | data-fbb8842b89.netdoktor.de | mobnetdo-relay.iocnt.net |
 | data-a7d04303de.nn.de | mobnnde-relay.iocnt.net |
 | data-be032ee936.nordbayern.de | mobnordb-relay.iocnt.net |
 | data-d7486a3850.nordkurier.de | mobnordk-relay.iocnt.net |
+| data-81547504c8.fupa.net | mobnwnew-relay.iocnt.net |
 | data-81547504c8.nw.de | mobnwnew-relay.iocnt.net |
+| data-bc58d40c93.nwzonline.de | mobnwz-relay.iocnt.net |
 | data-5ab0f5b45f.dk-online.de | mobosnaz-relay.iocnt.net |
 | data-5ab0f5b45f.noz.de | mobosnaz-relay.iocnt.net |
-| data-a77fb9b63f.osthessen-news.de | mobosthe-relay.iocnt.net |
+| www2.dk-online.de | mobosnaz-relay.iocnt.net |
+| data-ad8351f80c.outdoor-magazin.com | moboutma-relay.iocnt.net |
+| data-6e2d34ec1f.heimatsport.de | mobpnp-relay.iocnt.net |
 | data-6e2d34ec1f.pnp.de | mobpnp-relay.iocnt.net |
 | data-ede3421766.promobil.de | mobpromo-relay.iocnt.net |
+| data-cd3f2f9c0c.radiobielefeld.de | mobradbi-relay.iocnt.net |
 | data-a938ff636c.radioguetersloh.de | mobradgu-relay.iocnt.net |
+| data-73b18cc776.radioherford.de | mobradhe-relay.iocnt.net |
 | data-3bf5bac5c5.radiohochstift.de | mobradho-relay.iocnt.net |
-| data-91f69542bd.radiolippe.de | mobradli-relay.iocnt.net |
-| data-39822b659f.fupa.net | mobrmm-relay.iocnt.net |
+| data-75671117cf.radiowafhilft.de | mobradwa-relay.iocnt.net |
+| data-a85b10211f.rnz.de | mobrnz-relay.iocnt.net |
 | data-043610b415.fupa.net | mobrpo-relay.iocnt.net |
 | data-043610b415.ga.de | mobrpo-relay.iocnt.net |
 | data-043610b415.rp-online.de | mobrpo-relay.iocnt.net |
 | data-043610b415.saarbruecker-zeitung.de | mobrpo-relay.iocnt.net |
-| data-043610b415.sol.de | mobrpo-relay.iocnt.net |
-| data-043610b415.trauer.de | mobrpo-relay.iocnt.net |
 | data-043610b415.volksfreund.de | mobrpo-relay.iocnt.net |
 | data-c5740f79ff.bbv-net.de | mobruhr-relay.iocnt.net |
-| data-c5740f79ff.dattelner-morgenpost.de | mobruhr-relay.iocnt.net |
 | data-c5740f79ff.dorstenerzeitung.de | mobruhr-relay.iocnt.net |
-| data-c5740f79ff.hertener-allgemeine.de | mobruhr-relay.iocnt.net |
+| data-c5740f79ff.hellwegeranzeiger.de | mobruhr-relay.iocnt.net |
 | data-c5740f79ff.marler-zeitung.de | mobruhr-relay.iocnt.net |
-| data-c5740f79ff.muensterlandzeitung.de | mobruhr-relay.iocnt.net |
 | data-c5740f79ff.recklinghaeuser-zeitung.de | mobruhr-relay.iocnt.net |
 | data-c5740f79ff.ruhrnachrichten.de | mobruhr-relay.iocnt.net |
+| data-c835a62a97.runnersworld.de | mobrunwo-relay.iocnt.net |
+| data-11c63b1cbc.abschied-nehmen.de | mobsao-relay.iocnt.net |
 | data-11c63b1cbc.fupa.net | mobsao-relay.iocnt.net |
-| data-11c63b1cbc.magdeburg-fussball.de | mobsao-relay.iocnt.net |
 | data-11c63b1cbc.mz.de | mobsao-relay.iocnt.net |
 | data-11c63b1cbc.rblive.de | mobsao-relay.iocnt.net |
 | data-11c63b1cbc.volksstimme.de | mobsao-relay.iocnt.net |
 | data-85dba8a916.schwaebische.de | mobschwa-relay.iocnt.net |
 | data-5206391739.shz.de | mobshz-relay.iocnt.net |
-| data-b389eff81a.business-punk.com | mobstern-relay.iocnt.net |
-| data-ade1ea328b.stylebook.de | mobstybo-relay.iocnt.net |
+| data-86d2aee9fa.sueddeutsche.de | mobsued-relay.iocnt.net |
 | data-331311c70c.suedkurier.de | mobsuedk-relay.iocnt.net |
 | data-cb9b83f47f.t3n.de | mobt3n-relay.iocnt.net |
 | data-1df8532686.t-online.de | mobtoi-relay.iocnt.net |
-| data-9e4f40dc7c.travelbook.de | mobtrabo-relay.iocnt.net |
+| data-1c0a3d83e3.transfermarkt.pt | mobtrans-relay.iocnt.net |
 | data-c6b1789ee3.upday.com | mobupday-relay.iocnt.net |
-| data-01d50fd151.versicherungsjournal.de | mobverjo-relay.iocnt.net |
-| data-4d33656d8f.watson.de | mobwatso-relay.iocnt.net |
 | data-e4997adf31.metal-hammer.de | mobwelt-relay.iocnt.net |
 | data-e4997adf31.welt.de | mobwelt-relay.iocnt.net |
 | data-ecd887c1d0.weser-kurier.de | mobweser-relay.iocnt.net |
-| data-b261ece11d.wochenblatt.de | mobwobla-relay.iocnt.net |
-| data-057c6f44b1.womenshealth.de | mobwohea-relay.iocnt.net |
 | data-ea7d084cda.wz.de | mobwznew-relay.iocnt.net |
+| data-614d3891ff.zeit.de | mobzeit-relay.iocnt.net |
 | data-209f9bb45a.mopo.de | mopo-relay.iocnt.net |
 | data-40dcbb4884.tag24.de | mopo24-relay.iocnt.net |
 | data-572c83e731.motorsport-total.com | motorspo-relay.iocnt.net |
-| data-c14a6b9c37.1000ps.de | motradon-relay.iocnt.net |
-| data-6e2baaf3b9.mein-schoener-garten.de | msg-relay.iocnt.net |
+| data-0e974e9c43.mt.de | mtonl-relay.iocnt.net |
 | data-40370dcf13.mv-online.de | mvonline-relay.iocnt.net |
-| data-8a60c76189.myhomebook.de | myhomebo-relay.iocnt.net |
-| data-9dc3fcd9b4.focus.de | netdok-relay.iocnt.net |
+| data-9dc3fcd9b4.netdoktor.de | netdok-relay.iocnt.net |
+| data-a9dcbfdd12.noz.de | neueoz-relay.iocnt.net |
+| data-c3391a3eb3.job38.de | newsclic-relay.iocnt.net |
 | data-83380557db.nw.de | nwnews-relay.iocnt.net |
 | data-6345746ba5.nwzonline.de | nwz-relay.iocnt.net |
 | data-7023b17a38.onetz.de | oberpfal-relay.iocnt.net |
+| data-49dc40e643.onvista.de | onvis-relay.iocnt.net |
 | data-da1d9cc48a.osthessen-news.de | osthesse-relay.iocnt.net |
+| data-fee2664334.petbook.de | petbook-relay.iocnt.net |
+| data-927768f668.pharmazeutische-zeitung.de | pharmaz-relay.iocnt.net |
 | data-d61ee02db0.pirsch.de | pirsch-relay.iocnt.net |
-| data-dd659348c3.pnp.de | pnp-relay.iocnt.net |
 | pool1.i-am.io | pool1.iocnt.net |
 | pool1.ioam.de | pool1.iocnt.net |
 | pool4.ioam.de | pool1.iocnt.net |
 | pool2.ioam.de | pool2.iocnt.net |
 | pool5.ioam.de | pool2.iocnt.net |
-| data-1a8175bc05.presseportal.ch | presspor-relay.iocnt.net |
 | data-1a8175bc05.presseportal.de | presspor-relay.iocnt.net |
-| data-f10a591664.promobil.de | promobil-relay.iocnt.net |
+| data-7e634b10b2.prosiebenmaxx.de | pro7-relay.iocnt.net |
 | data-a7c3ea71dc.ptaheute.de | ptaheu-relay.iocnt.net |
 | data-7c0fd2a117.pz-news.de | pznewsde-relay.iocnt.net |
-| data-0331877d53.radsport-news.com | radsport-relay.iocnt.net |
-| data-0420d605d9.ligainsider.de | ran-relay.iocnt.net |
 | 0186141170.apps.iocnt.de | relay-client-c01.iocnt.net |
 | 39db8b138f.apps.iocnt.de | relay-client-c01.iocnt.net |
 | 5bf0fdacd2.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-0034231193.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-0034231193.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-00460c60fa.eurotransport.de | relay-client-c01.iocnt.net |
 | data-004e4e6793.wetter.at | relay-client-c01.iocnt.net |
 | data-01a19c0522.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-01c47ceea9.wienerin.at | relay-client-c01.iocnt.net |
@@ -725,24 +759,16 @@
 | data-02011e6008.dasoertliche.de | relay-client-c01.iocnt.net |
 | data-02011e6008.golocal.de | relay-client-c01.iocnt.net |
 | data-02011e6008.t-online.de | relay-client-c01.iocnt.net |
-| data-020f60e247.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-029be27def.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-02d6c01d72.rga.de | relay-client-c01.iocnt.net |
 | data-0331877d53.radsport-news.com | relay-client-c01.iocnt.net |
 | data-03ad2660a6.solinger-tageblatt.de | relay-client-c01.iocnt.net |
 | data-0420d605d9.90min.de | relay-client-c01.iocnt.net |
 | data-0420d605d9.ligainsider.de | relay-client-c01.iocnt.net |
-| data-0420d605d9.ligainsider.de | relay-client-c01.iocnt.net |
 | data-0420d605d9.p7s1.io | relay-client-c01.iocnt.net |
 | data-0420d605d9.ran.de | relay-client-c01.iocnt.net |
-| data-044c671387.desired.de | relay-client-c01.iocnt.net |
-| data-044c671387.desired.de | relay-client-c01.iocnt.net |
-| data-04c5cc96a0.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-04c5cc96a0.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-05bc1a27ba.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-05c346d0b0.gea.de | relay-client-c01.iocnt.net |
-| data-06d9d19ba0.filmdienst.de | relay-client-c01.iocnt.net |
-| data-06d9d19ba0.filmdienst.de | relay-client-c01.iocnt.net |
+| data-05c346d0b0.gea.de | relay-client-c01.iocnt.net |
 | data-07728e2d08.lokaldirekt.de | relay-client-c01.iocnt.net |
 | data-0797a61d67.starfm.de | relay-client-c01.iocnt.net |
 | data-080d03ce0d.technikundeinkauf.de | relay-client-c01.iocnt.net |
@@ -759,6 +785,7 @@
 | data-0dc128409f.watchtime.net | relay-client-c01.iocnt.net |
 | data-0de2e36f03.nitro-tv.de | relay-client-c01.iocnt.net |
 | data-0e160b5dfc.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-0e974e9c43.mt.de | relay-client-c01.iocnt.net |
 | data-0e974e9c43.mt.de | relay-client-c01.iocnt.net |
 | data-0ecbed3a92.lebexund.jetzt | relay-client-c01.iocnt.net |
 | data-0f1d215994.apps.iocnt.de | relay-client-c01.iocnt.net |
@@ -792,7 +819,6 @@
 | data-16d7ec9a30.aschendorff-medien.de | relay-client-c01.iocnt.net |
 | data-16d7ec9a30.grevenerzeitung.de | relay-client-c01.iocnt.net |
 | data-16d7ec9a30.gruss.ms | relay-client-c01.iocnt.net |
-| data-16d7ec9a30.immomarkt.ms | relay-client-c01.iocnt.net |
 | data-16d7ec9a30.muensterschezeitung.de | relay-client-c01.iocnt.net |
 | data-16d7ec9a30.reiseauktion.ms | relay-client-c01.iocnt.net |
 | data-16d7ec9a30.trauer.ms | relay-client-c01.iocnt.net |
@@ -812,8 +838,6 @@
 | data-1774ab3b64.fvw.de | relay-client-c01.iocnt.net |
 | data-1774ab3b64.fvwjobs.de | relay-client-c01.iocnt.net |
 | data-179369af40.connect-professional.de | relay-client-c01.iocnt.net |
-| data-17c7ec5f16.giga.de | relay-client-c01.iocnt.net |
-| data-17c7ec5f16.giga.de | relay-client-c01.iocnt.net |
 | data-190087bcf9.augsburger-allgemeine.de | relay-client-c01.iocnt.net |
 | data-190087bcf9.augsburger-allgemeine.de | relay-client-c01.iocnt.net |
 | data-190087bcf9.fupa.net | relay-client-c01.iocnt.net |
@@ -822,7 +846,6 @@
 | data-19e0ce8844.computerbild.de | relay-client-c01.iocnt.net |
 | data-19e0ce8844.wieistmeineip.de | relay-client-c01.iocnt.net |
 | data-1a5bbc417e.tele5.de | relay-client-c01.iocnt.net |
-| data-1a8175bc05.presseportal.ch | relay-client-c01.iocnt.net |
 | data-1a8175bc05.presseportal.ch | relay-client-c01.iocnt.net |
 | data-1a8175bc05.presseportal.de | relay-client-c01.iocnt.net |
 | data-1a89577861.btc-echo.de | relay-client-c01.iocnt.net |
@@ -848,13 +871,11 @@
 | data-207a822be2.onlinefussballmanager.de | relay-client-c01.iocnt.net |
 | data-226a0f54a7.azonline.de | relay-client-c01.iocnt.net |
 | data-2340ac25bb.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-2340ac25bb.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-2356053920.meinmed.at | relay-client-c01.iocnt.net |
 | data-236c420b67.glamour.de | relay-client-c01.iocnt.net |
 | data-236c420b67.glamour.de | relay-client-c01.iocnt.net |
 | data-236c420b67.glamourshopping.de | relay-client-c01.iocnt.net |
 | data-27118360b0.shk-profi.de | relay-client-c01.iocnt.net |
-| data-2749d16d51.salue.de | relay-client-c01.iocnt.net |
 | data-2749d16d51.spin.de | relay-client-c01.iocnt.net |
 | data-281bdc39ec.bsbrandschutz.de | relay-client-c01.iocnt.net |
 | data-29b3ebc284.gutekueche.de | relay-client-c01.iocnt.net |
@@ -862,39 +883,38 @@
 | data-2af9963ee4.computerbild.de | relay-client-c01.iocnt.net |
 | data-2af9963ee4.computerbild.de | relay-client-c01.iocnt.net |
 | data-2af9963ee4.wieistmeineip.de | relay-client-c01.iocnt.net |
+| data-2af9963ee4.wieistmeineip.de | relay-client-c01.iocnt.net |
 | data-2cee0cb9fa.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-2d5e2d4006.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-2d8c7b4f16.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-2dd4c084f5.hektar.com | relay-client-c01.iocnt.net |
 | data-2e1c59efe0.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-2e1c59efe0.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-2e91d05bea.bluray-disc.de | relay-client-c01.iocnt.net |
 | data-2e91d05bea.bluray-disc.de | relay-client-c01.iocnt.net |
+| data-2ee2564ecd.ariva.de | relay-client-c01.iocnt.net |
 | data-2ee2564ecd.ariva.de | relay-client-c01.iocnt.net |
 | data-2ef5a47289.6rtl.com | relay-client-c01.iocnt.net |
 | data-2f559bb09f.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-2f559bb09f.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-3102d425a1.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-31c137b707.behindertengerechte-dusche.de | relay-client-c01.iocnt.net |
+| data-31c137b707.sanitaerjournal.de | relay-client-c01.iocnt.net |
 | data-31c137b707.wasserenthaertungsanlage-trinkwasser.de | relay-client-c01.iocnt.net |
 | data-3277c56f96.ingenieur.de | relay-client-c01.iocnt.net |
 | data-331311c70c.suedkurier.de | relay-client-c01.iocnt.net |
 | data-339e8471f1.bau-welt.de | relay-client-c01.iocnt.net |
 | data-341c3a0fe0.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-34565915dd.firmenwissen.com | relay-client-c01.iocnt.net |
 | data-34565915dd.firmenwissen.de | relay-client-c01.iocnt.net |
-| data-34c9d32b77.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-353c1c8501.falstaff.com | relay-client-c01.iocnt.net |
 | data-353c1c8501.falstaff.com | relay-client-c01.iocnt.net |
 | data-366a248b14.film.at | relay-client-c01.iocnt.net |
 | data-367bcf5bd6.lebensmittelzeitung.de | relay-client-c01.iocnt.net |
 | data-367bcf5bd6.lebensmittelzeitung.net | relay-client-c01.iocnt.net |
+| data-367bcf5bd6.lebensmittelzeitung.net | relay-client-c01.iocnt.net |
 | data-36851a8aa0.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-379665bfa7.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-3839bfef3b.diesteirerin.at | relay-client-c01.iocnt.net |
 | data-39822b659f.allgemeine-zeitung.de | relay-client-c01.iocnt.net |
-| data-39822b659f.buerstaedter-zeitung.de | relay-client-c01.iocnt.net |
-| data-39822b659f.echo-online.de | relay-client-c01.iocnt.net |
 | data-39822b659f.fupa.net | relay-client-c01.iocnt.net |
 | data-39822b659f.giessener-anzeiger.de | relay-client-c01.iocnt.net |
 | data-39822b659f.hessen-liebe.de | relay-client-c01.iocnt.net |
@@ -906,7 +926,6 @@
 | data-39822b659f.vrm-immo.de | relay-client-c01.iocnt.net |
 | data-39822b659f.vrm-jobs.de | relay-client-c01.iocnt.net |
 | data-3b1647c072.entdeckertag.de | relay-client-c01.iocnt.net |
-| data-3b1647c072.hannover.de | relay-client-c01.iocnt.net |
 | data-3b1647c072.landheime.de | relay-client-c01.iocnt.net |
 | data-3b1647c072.visit-hannover.com | relay-client-c01.iocnt.net |
 | data-3b1647c072.visit-niedersachsen.de | relay-client-c01.iocnt.net |
@@ -916,19 +935,16 @@
 | data-3cce760e0e.gq-magazin.de | relay-client-c01.iocnt.net |
 | data-3e7222ce74.arzt-wirtschaft.de | relay-client-c01.iocnt.net |
 | data-3eff3aac07.kino-zeit.de | relay-client-c01.iocnt.net |
-| data-3fb5262fad.unsersalzburg.at | relay-client-c01.iocnt.net |
 | data-40370dcf13.emsdettenervolkszeitung.de | relay-client-c01.iocnt.net |
 | data-40370dcf13.ev-online.de | relay-client-c01.iocnt.net |
+| data-40370dcf13.mv-online.de | relay-client-c01.iocnt.net |
 | data-40370dcf13.mv-online.de | relay-client-c01.iocnt.net |
 | data-40370dcf13.verlag-altmeppen.de | relay-client-c01.iocnt.net |
 | data-4043567487.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-4071aa1e21.staz.de | relay-client-c01.iocnt.net |
-| data-40a1d254c9.familie.de | relay-client-c01.iocnt.net |
-| data-40a1d254c9.familie.de | relay-client-c01.iocnt.net |
 | data-40dcbb4884.tag24.de | relay-client-c01.iocnt.net |
 | data-40dcbb4884.tag24.de | relay-client-c01.iocnt.net |
 | data-411f822017.fem.com | relay-client-c01.iocnt.net |
-| data-4190908d67.watson.de | relay-client-c01.iocnt.net |
 | data-4248af8297.futurezone.at | relay-client-c01.iocnt.net |
 | data-4248af8297.futurezone.at | relay-client-c01.iocnt.net |
 | data-433d34b411.babyclub.de | relay-client-c01.iocnt.net |
@@ -967,13 +983,11 @@
 | data-47ee1b0882.kinobleicherode.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.kinokorbach.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.kuki-landau.de | relay-client-c01.iocnt.net |
-| data-47ee1b0882.kulturhaus-pritzwalk.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.lichtspiele-grosshabersdorf.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.liliservicekino.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.lindenkino-wusterhausen.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.luli-kino.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.movietown-openair.de | relay-client-c01.iocnt.net |
-| data-47ee1b0882.movietown.eu | relay-client-c01.iocnt.net |
 | data-47ee1b0882.neue-filmbuehne.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.neuesregina.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.neuesrex.de | relay-client-c01.iocnt.net |
@@ -989,60 +1003,45 @@
 | data-47ee1b0882.zinema-city.de | relay-client-c01.iocnt.net |
 | data-47ee1b0882.zuckerfabrik.de | relay-client-c01.iocnt.net |
 | data-48d3085f82.hildesheimer-allgemeine.de | relay-client-c01.iocnt.net |
-| data-48d3085f82.hildesheimer-allgemeine.de | relay-client-c01.iocnt.net |
 | data-497f575d82.businessinsider.de | relay-client-c01.iocnt.net |
-| data-497f575d82.businessinsider.de | relay-client-c01.iocnt.net |
-| data-49877903fc.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-49877903fc.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-49dc40e643.onvista.de | relay-client-c01.iocnt.net |
-| data-4a5f71b500.highlight-web.de | relay-client-c01.iocnt.net |
 | data-4b48d22435.kommune21.de | relay-client-c01.iocnt.net |
 | data-4c63bfe8f2.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-4cb57634de.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-4c63bfe8f2.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-4cf73e282f.fleischwirtschaft.de | relay-client-c01.iocnt.net |
 | data-4d33656d8f.watson.de | relay-client-c01.iocnt.net |
-| data-4e9ff460f2.autobild.de | relay-client-c01.iocnt.net |
 | data-4e9ff460f2.autobild.de | relay-client-c01.iocnt.net |
 | data-4e9ff460f2.clever-tanken.de | relay-client-c01.iocnt.net |
 | data-4ede7e9c86.faz.com | relay-client-c01.iocnt.net |
 | data-4ede7e9c86.faz.de | relay-client-c01.iocnt.net |
-| data-4ede7e9c86.testfaz.net | relay-client-c01.iocnt.net |
 | data-4f77096dc0.brocken.de | relay-client-c01.iocnt.net |
 | data-4f77096dc0.radio-brocken.de | relay-client-c01.iocnt.net |
 | data-501446ac98.einfachtierisch.de | relay-client-c01.iocnt.net |
 | data-501446ac98.stayfriends.de | relay-client-c01.iocnt.net |
-| data-50d39a5d3f.diepresse.com | relay-client-c01.iocnt.net |
+| data-501446ac98.t-online.de | relay-client-c01.iocnt.net |
 | data-50d39a5d3f.diepresse.com | relay-client-c01.iocnt.net |
 | data-50de2f2b04.focus.de | relay-client-c01.iocnt.net |
 | data-5164524be6.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-51ce0248a2.haz.de | relay-client-c01.iocnt.net |
 | data-51ce0248a2.op-marburg.de | relay-client-c01.iocnt.net |
 | data-53ba3c279a.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-53ba3c279a.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-53ce61d695.bike-x.de | relay-client-c01.iocnt.net |
 | data-552667226c.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-56b1bc19e7.clever-tanken.de | relay-client-c01.iocnt.net |
+| data-5617a90665.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-56b1bc19e7.autobild.de | relay-client-c01.iocnt.net |
 | data-56b1bc19e7.clever-tanken.de | relay-client-c01.iocnt.net |
 | data-589866a496.laut.de | relay-client-c01.iocnt.net |
-| data-597aebc8e1.daznservices.com | relay-client-c01.iocnt.net |
+| data-59a3f7fb00.ksta.de | relay-client-c01.iocnt.net |
 | data-5a078ffbef.wb-immo.net | relay-client-c01.iocnt.net |
 | data-5a2bbd7d77.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-5a2bbd7d77.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-5a40478bd4.kino.de | relay-client-c01.iocnt.net |
-| data-5a40478bd4.kino.de | relay-client-c01.iocnt.net |
-| data-5a9f6e282a.ingenieur.de | relay-client-c01.iocnt.net |
-| data-5a9f6e282a.ingenieur.de | relay-client-c01.iocnt.net |
 | data-5aab0af339.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-5acce9c32f.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-5b771a2641.berliner-zeitung.de | relay-client-c01.iocnt.net |
 | data-5b771a2641.berliner-zeitung.de | relay-client-c01.iocnt.net |
 | data-5c499c299f.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-5c543e37c1.wochenblatt-dlv.de | relay-client-c01.iocnt.net |
 | data-5ca562c702.tt.com | relay-client-c01.iocnt.net |
-| data-5ca562c702.tt.com | relay-client-c01.iocnt.net |
 | data-5e8d192b40.liga3-online.de | relay-client-c01.iocnt.net |
 | data-5f31cc5b45.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-5f7ebd9560.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-605b7fe247.babyclub.de | relay-client-c01.iocnt.net |
 | data-60ca748eaf.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.aller-zeitung.de | relay-client-c01.iocnt.net |
@@ -1051,20 +1050,13 @@
 | data-60d896f23d.dnn.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.doebelner-allgemeine.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.eichsfelder-tageblatt.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.gnz.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.haz.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.haz.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.kieler-nachrichten.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.kn-online.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.kn-online.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.ln-online.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.neuepresse.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.oaz-online.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.op-marburg.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.ostsee-zeitung.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.ovz-online.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.radio.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.radio.dk | relay-client-c01.iocnt.net |
 | data-60d896f23d.radio.it | relay-client-c01.iocnt.net |
 | data-60d896f23d.radio.pl | relay-client-c01.iocnt.net |
 | data-60d896f23d.radio.pt | relay-client-c01.iocnt.net |
@@ -1072,54 +1064,43 @@
 | data-60d896f23d.radiome.at | relay-client-c01.iocnt.net |
 | data-60d896f23d.reisereporter.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.rnd.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.rnd.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.saechsische.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.saechsische.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.solinger-tageblatt.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.sportbuzzer.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.sz-auktion.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.sz-jobs.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.sz-trauer.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.szlz.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.tah.de | relay-client-c01.iocnt.net |
-| data-60d896f23d.torgauerzeitung.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.waz-online.de | relay-client-c01.iocnt.net |
 | data-60d896f23d.weihnachten-in-hannover.de | relay-client-c01.iocnt.net |
 | data-615a2eced5.grazer.at | relay-client-c01.iocnt.net |
-| data-626887dee6.890rtl.de | relay-client-c01.iocnt.net |
 | data-62688b6a00.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-62e8b40b12.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-62e93c650b.visit-niedersachsen.de | relay-client-c01.iocnt.net |
 | data-631fe157dc.gesund.at | relay-client-c01.iocnt.net |
 | data-6345746ba5.nwz-glueckwunsch.de | relay-client-c01.iocnt.net |
 | data-6345746ba5.nwzonline.de | relay-client-c01.iocnt.net |
-| data-6345746ba5.nwzonline.de | relay-client-c01.iocnt.net |
 | data-63659a24a7.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-63bbe3ec45.wuv.de | relay-client-c01.iocnt.net |
+| data-63ef19fa52.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-650d8068ef.ka-news.de | relay-client-c01.iocnt.net |
-| data-661a70098f.muehlacker-tagblatt.de | relay-client-c01.iocnt.net |
 | data-663387616d.echo24.de | relay-client-c01.iocnt.net |
 | data-663387616d.idcdn.de | relay-client-c01.iocnt.net |
 | data-66584305d5.mainpost.de | relay-client-c01.iocnt.net |
 | data-678db07fc3.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-67e5b22ff5.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-67e5b22ff5.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-6a83b9cb11.liferadio.tirol | relay-client-c01.iocnt.net |
 | data-6b5868992a.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-6bc4e31d56.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-6ccf929934.recovery-worldwide.com | relay-client-c01.iocnt.net |
 | data-6cfdf9f979.lebensmittelzeitung.net | relay-client-c01.iocnt.net |
-| data-6dafa8d42f.desired.de | relay-client-c01.iocnt.net |
-| data-6dafa8d42f.desired.de | relay-client-c01.iocnt.net |
+| data-6cfdf9f979.lebensmittelzeitung.net | relay-client-c01.iocnt.net |
 | data-6dde45f576.augusto-sachsen.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.cz.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.cz.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.dewezet.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.dieharke.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.dnn.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.dnn.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.eichsfelder-tageblatt.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.gnz.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.goettinger-tageblatt.de | relay-client-c01.iocnt.net |
+| data-6dde45f576.gnz.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.goettinger-tageblatt.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.haz.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.kieler-nachrichten.de | relay-client-c01.iocnt.net |
@@ -1127,8 +1108,6 @@
 | data-6dde45f576.landeszeitung.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.ln-online.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.lvz.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.lvz.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.maz-online.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.maz-online.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.ndz.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.neuepresse.de | relay-client-c01.iocnt.net |
@@ -1138,11 +1117,8 @@
 | data-6dde45f576.ostsee-zeitung.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.ovz-online.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.paz-online.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.paz-online.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.radio.at | relay-client-c01.iocnt.net |
-| data-6dde45f576.radio.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.radio.dk | relay-client-c01.iocnt.net |
-| data-6dde45f576.radio.es | relay-client-c01.iocnt.net |
 | data-6dde45f576.radio.es | relay-client-c01.iocnt.net |
 | data-6dde45f576.radio.fr | relay-client-c01.iocnt.net |
 | data-6dde45f576.radio.it | relay-client-c01.iocnt.net |
@@ -1152,8 +1128,8 @@
 | data-6dde45f576.radio.se | relay-client-c01.iocnt.net |
 | data-6dde45f576.reisereporter.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.remszeitung.de | relay-client-c01.iocnt.net |
+| data-6dde45f576.remszeitung.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.rga.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.rnd.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.rnd.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.saechsische.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.saechsische.de | relay-client-c01.iocnt.net |
@@ -1161,16 +1137,13 @@
 | data-6dde45f576.sn-online.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.sn-online.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.solinger-tageblatt.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.solinger-tageblatt.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.sportbuzzer.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.sz-auktion.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.sz-jobs.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.szlz.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.szlz.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.tah.de | relay-client-c01.iocnt.net |
-| data-6dde45f576.tah.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.torgauerzeitung.de | relay-client-c01.iocnt.net |
 | data-6dde45f576.trauer-anzeigen.de | relay-client-c01.iocnt.net |
+| data-6dde45f576.waz-online.de | relay-client-c01.iocnt.net |
+| data-6e2d34ec1f.heimatsport.de | relay-client-c01.iocnt.net |
 | data-6e2d34ec1f.heimatzeitung.de | relay-client-c01.iocnt.net |
 | data-6e2d34ec1f.pnp.de | relay-client-c01.iocnt.net |
 | data-6e57cba6aa.focus.de | relay-client-c01.iocnt.net |
@@ -1182,24 +1155,18 @@
 | data-6fd9590058.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-7023b17a38.amberg24.de | relay-client-c01.iocnt.net |
 | data-7023b17a38.derneuetag.de | relay-client-c01.iocnt.net |
-| data-7023b17a38.oberpfalz-pages.de | relay-client-c01.iocnt.net |
 | data-7023b17a38.oberpfalznet.de | relay-client-c01.iocnt.net |
 | data-7023b17a38.oberpfalznetz.de | relay-client-c01.iocnt.net |
 | data-7023b17a38.onetz.de | relay-client-c01.iocnt.net |
+| data-7023b17a38.onetz.de | relay-client-c01.iocnt.net |
 | data-7023b17a38.weiden24.de | relay-client-c01.iocnt.net |
-| data-70f37c510a.jobs-im-suedwesten.de | relay-client-c01.iocnt.net |
 | data-70f37c510a.skol.de | relay-client-c01.iocnt.net |
 | data-70f37c510a.suedkurier-medienhaus.de | relay-client-c01.iocnt.net |
-| data-70f37c510a.suedkurier.de | relay-client-c01.iocnt.net |
 | data-70f3958feb.bauwelt.de | relay-client-c01.iocnt.net |
-| data-71ad7acf77.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-7393daff1b.focus-mobility.de | relay-client-c01.iocnt.net |
-| data-74131617db.achgut.com | relay-client-c01.iocnt.net |
 | data-7462ea72ec.augsburger-allgemeine.de | relay-client-c01.iocnt.net |
 | data-7462ea72ec.intersana.de | relay-client-c01.iocnt.net |
 | data-74e6a53123.kronehit.at | relay-client-c01.iocnt.net |
 | data-75526e35eb.etailment.de | relay-client-c01.iocnt.net |
-| data-7555680eb3.ikz.de | relay-client-c01.iocnt.net |
 | data-7613d707d4.enbausa.de | relay-client-c01.iocnt.net |
 | data-767a8be759.berliner-kurier.de | relay-client-c01.iocnt.net |
 | data-767a8be759.berliner-kurier.de | relay-client-c01.iocnt.net |
@@ -1217,22 +1184,19 @@
 | data-7b705d0b93.b4bschwaben.de | relay-client-c01.iocnt.net |
 | data-7c4521058c.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-7e634b10b2.prosieben.de | relay-client-c01.iocnt.net |
-| data-7e634b10b2.prosiebenmaxx.de | relay-client-c01.iocnt.net |
 | data-7f59e1721b.bergwetter.de | relay-client-c01.iocnt.net |
 | data-7f59e1721b.planetoutdoor.de | relay-client-c01.iocnt.net |
 | data-7f9c14ceb6.telecom-handel.de | relay-client-c01.iocnt.net |
 | data-7fbde6a274.ticket24.at | relay-client-c01.iocnt.net |
 | data-804560170e.leichtathletik.de | relay-client-c01.iocnt.net |
-| data-80b614ee0f.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-80d2d17df3.berchtesgadener-anzeiger.de | relay-client-c01.iocnt.net |
 | data-80f62dcd51.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-833e9f9a71.dzonline.de | relay-client-c01.iocnt.net |
 | data-83d91ea519.fnweb.de | relay-client-c01.iocnt.net |
 | data-83d91ea519.immomorgen.de | relay-client-c01.iocnt.net |
 | data-83d91ea519.mamo.de | relay-client-c01.iocnt.net |
-| data-83d91ea519.morgenweb.de | relay-client-c01.iocnt.net |
 | data-8449537926.cellesche-zeitung.de | relay-client-c01.iocnt.net |
 | data-8449537926.cz.de | relay-client-c01.iocnt.net |
-| data-8459ce106e.bike-x.de | relay-client-c01.iocnt.net |
-| data-8459ce106e.bike-x.de | relay-client-c01.iocnt.net |
 | data-849004cc69.radio-regenbogen.de | relay-client-c01.iocnt.net |
 | data-84bcae01a1.iz.de | relay-client-c01.iocnt.net |
 | data-8522662a32.ansbachplus.de | relay-client-c01.iocnt.net |
@@ -1245,10 +1209,10 @@
 | data-8629f7a423.4players.de | relay-client-c01.iocnt.net |
 | data-86d2aee9fa.jetzt.de | relay-client-c01.iocnt.net |
 | data-86d2aee9fa.sueddeutsche.de | relay-client-c01.iocnt.net |
+| data-86d2aee9fa.sueddeutsche.de | relay-client-c01.iocnt.net |
 | data-8793ca6c7d.rpr1.de | relay-client-c01.iocnt.net |
 | data-8a60c76189.myhomebook.de | relay-client-c01.iocnt.net |
 | data-8ad4a97c5f.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-8b242b85ce.textilwirtschaft.de | relay-client-c01.iocnt.net |
 | data-8b242b85ce.twjobs.de | relay-client-c01.iocnt.net |
 | data-8b77a703e0.dasoertliche.de | relay-client-c01.iocnt.net |
 | data-8b77a703e0.golocal.de | relay-client-c01.iocnt.net |
@@ -1270,11 +1234,10 @@
 | data-9265b7c6dd.computer-automation.de | relay-client-c01.iocnt.net |
 | data-92cf33b2ed.testfaz.net | relay-client-c01.iocnt.net |
 | data-93346271bf.holidaycheck.at | relay-client-c01.iocnt.net |
-| data-93346271bf.holidaycheck.at | relay-client-c01.iocnt.net |
+| data-93346271bf.holidaycheck.ch | relay-client-c01.iocnt.net |
 | data-93346271bf.holidaycheck.ch | relay-client-c01.iocnt.net |
 | data-93346271bf.holidaycheck.de | relay-client-c01.iocnt.net |
 | data-93346271bf.holidaycheck.de | relay-client-c01.iocnt.net |
-| data-9336f0fb1d.news.de | relay-client-c01.iocnt.net |
 | data-9358579756.cash-online.de | relay-client-c01.iocnt.net |
 | data-9439f4400c.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-9439f4400c.apps.iocnt.de | relay-client-c01.iocnt.net |
@@ -1284,11 +1247,8 @@
 | data-960dda2233.jamfm.de | relay-client-c01.iocnt.net |
 | data-964f7f3f43.boerse-online.de | relay-client-c01.iocnt.net |
 | data-964f7f3f43.boerse-online.de | relay-client-c01.iocnt.net |
-| data-97304cc18d.medienzentrum-biberach.de | relay-client-c01.iocnt.net |
-| data-975521d9ad.horizont.de | relay-client-c01.iocnt.net |
 | data-975521d9ad.horizont.net | relay-client-c01.iocnt.net |
 | data-97d159685e.gemeinsam-gedenken.de | relay-client-c01.iocnt.net |
-| data-992bb00b0c.messen.de | relay-client-c01.iocnt.net |
 | data-997fc825f1.bkz.de | relay-client-c01.iocnt.net |
 | data-997fc825f1.fupa.net | relay-client-c01.iocnt.net |
 | data-997fc825f1.murrhardter-zeitung.de | relay-client-c01.iocnt.net |
@@ -1300,7 +1260,6 @@
 | data-9b6c55490e.fleischwirtschaft.de | relay-client-c01.iocnt.net |
 | data-9b6d0bb310.print.de | relay-client-c01.iocnt.net |
 | data-9b7927207a.outdoor-magazin.com | relay-client-c01.iocnt.net |
-| data-9c12ed8b3c.echtemamas.de | relay-client-c01.iocnt.net |
 | data-9d5c2cfc8c.baustoff-partner.de | relay-client-c01.iocnt.net |
 | data-9dc3fcd9b4.bunte.de | relay-client-c01.iocnt.net |
 | data-9dc3fcd9b4.chip.de | relay-client-c01.iocnt.net |
@@ -1315,8 +1274,6 @@
 | data-9f311cce4c.nofi-lauf.de | relay-client-c01.iocnt.net |
 | data-9f311cce4c.onetz.de | relay-client-c01.iocnt.net |
 | data-9f9c59bc36.ausschreibung.at | relay-client-c01.iocnt.net |
-| data-9fa9a37f64.familie.de | relay-client-c01.iocnt.net |
-| data-9fc27eb430.cineplex.de | relay-client-c01.iocnt.net |
 | data-9fc27eb430.cineplex.de | relay-client-c01.iocnt.net |
 | data-9fc27eb430.slmedien.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.allgemeine-zeitung.de | relay-client-c01.iocnt.net |
@@ -1325,15 +1282,13 @@
 | data-a01a8a1ba4.fupa.net | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.giessener-anzeiger.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.hessen-liebe.de | relay-client-c01.iocnt.net |
+| data-a01a8a1ba4.kreis-anzeiger.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.lampertheimer-zeitung.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.lauterbacher-anzeiger.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.main-spitze.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.mittelhessen.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.mittelhessen.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.oberhessische-zeitung.de | relay-client-c01.iocnt.net |
-| data-a01a8a1ba4.rhein-liebe.de | relay-client-c01.iocnt.net |
-| data-a01a8a1ba4.usinger-anzeiger.de | relay-client-c01.iocnt.net |
-| data-a01a8a1ba4.vrm-immo.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.vrm-trauer.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.wiesbadener-kurier.de | relay-client-c01.iocnt.net |
 | data-a01a8a1ba4.wormser-zeitung.de | relay-client-c01.iocnt.net |
@@ -1363,13 +1318,12 @@
 | data-a2c8256a75.saw-musikwelt.de | relay-client-c01.iocnt.net |
 | data-a2c8256a75.sawmusikwelt.de | relay-client-c01.iocnt.net |
 | data-a3c5651c22.cicero.de | relay-client-c01.iocnt.net |
+| data-a3c5651c22.monopol-magazin.de | relay-client-c01.iocnt.net |
 | data-a406cb7ed1.onpulson.de | relay-client-c01.iocnt.net |
 | data-a4ca7c0f04.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-a5210336ab.mt.de | relay-client-c01.iocnt.net |
 | data-a58f7aceaf.boden-wand-decke.de | relay-client-c01.iocnt.net |
-| data-a610441c2a.starfm.de | relay-client-c01.iocnt.net |
 | data-a69d61e039.bausicherheit-online.de | relay-client-c01.iocnt.net |
-| data-a77fb9b63f.osthessen-news.de | relay-client-c01.iocnt.net |
 | data-a77fb9b63f.osthessen-news.de | relay-client-c01.iocnt.net |
 | data-a7d04303de.nn.de | relay-client-c01.iocnt.net |
 | data-a7deba18e8.evangelisch.de | relay-client-c01.iocnt.net |
@@ -1389,7 +1343,6 @@
 | data-a91b4f801d.rhoenundstreubote.de | relay-client-c01.iocnt.net |
 | data-a98482617b.holidaycheck.at | relay-client-c01.iocnt.net |
 | data-a98482617b.holidaycheck.de | relay-client-c01.iocnt.net |
-| data-a98482617b.holidaycheck.de | relay-client-c01.iocnt.net |
 | data-a98482617b.holidaycheck.fr | relay-client-c01.iocnt.net |
 | data-a98482617b.holidaycheck.nl | relay-client-c01.iocnt.net |
 | data-a98482617b.holidaycheck.pl | relay-client-c01.iocnt.net |
@@ -1398,16 +1351,18 @@
 | data-ab96b76d6a.wochenblatt.net | relay-client-c01.iocnt.net |
 | data-ac3d45df06.jetzt.de | relay-client-c01.iocnt.net |
 | data-ac3d45df06.sueddeutsche.de | relay-client-c01.iocnt.net |
+| data-ac3d45df06.sueddeutsche.de | relay-client-c01.iocnt.net |
 | data-ac6a73462f.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-ac6a73462f.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-ace3993871.gambelino.de | relay-client-c01.iocnt.net |
 | data-ad103030ce.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-ad8351f80c.outdoor-magazin.com | relay-client-c01.iocnt.net |
 | data-ad9e701841.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-ae81bed93b.familien-glueck.de | relay-client-c01.iocnt.net |
 | data-ae81bed93b.immostimme.de | relay-client-c01.iocnt.net |
 | data-ae81bed93b.jobstimme.de | relay-client-c01.iocnt.net |
+| data-ae81bed93b.stimme.de | relay-client-c01.iocnt.net |
 | data-ae81bed93b.stimmt.de | relay-client-c01.iocnt.net |
-| data-ae81bed93b.trauerundgedenken.de | relay-client-c01.iocnt.net |
 | data-ae81bed93b.verliebt-in-bw.de | relay-client-c01.iocnt.net |
 | data-ae81bed93b.zig-stimme.de | relay-client-c01.iocnt.net |
 | data-af2292b12d.eatbetter.de | relay-client-c01.iocnt.net |
@@ -1418,7 +1373,6 @@
 | data-b19475ee82.focus.de | relay-client-c01.iocnt.net |
 | data-b19475ee82.weather.com | relay-client-c01.iocnt.net |
 | data-b1ae357847.apps.iocnt.de | relay-client-c01.iocnt.net |
-| data-b1ae357847.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-b204b9f978.4players.de | relay-client-c01.iocnt.net |
 | data-b2b62acd29.big-fm.de | relay-client-c01.iocnt.net |
 | data-b2b62acd29.bigfm.de | relay-client-c01.iocnt.net |
@@ -1427,11 +1381,11 @@
 | data-b43a87d00c.businessinsider.de | relay-client-c01.iocnt.net |
 | data-b50e0279d5.meinbezirk.at | relay-client-c01.iocnt.net |
 | data-b50e0279d5.meinbezirk.at | relay-client-c01.iocnt.net |
-| data-b59e228e1d.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-b640a0ce46.connect.de | relay-client-c01.iocnt.net |
 | data-b640a0ce46.wmp-dev.de | relay-client-c01.iocnt.net |
 | data-b7311f797c.fnweb.de | relay-client-c01.iocnt.net |
 | data-b784e2dbb0.echo24.de | relay-client-c01.iocnt.net |
+| data-b7d20b3e3b.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-b7d20b3e3b.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-b80f3dd5d8.rhein-neckar-zeitung.biz | relay-client-c01.iocnt.net |
 | data-b80f3dd5d8.rhein-neckar-zeitung.com | relay-client-c01.iocnt.net |
@@ -1456,8 +1410,8 @@
 | data-b9680e0592.deutschesapothekenportal.de | relay-client-c01.iocnt.net |
 | data-ba3ff52f53.fitforfun.de | relay-client-c01.iocnt.net |
 | data-ba5075b88b.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-ba5075b88b.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-bc58d40c93.nwz-auto.de | relay-client-c01.iocnt.net |
-| data-bc58d40c93.nwzonline.de | relay-client-c01.iocnt.net |
 | data-bce9ac005c.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-bd2c894b2a.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-bdeff1b2b2.firmenauto.de | relay-client-c01.iocnt.net |
@@ -1491,17 +1445,17 @@
 | data-c652705c3e.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-c662a60daa.kabeleinsdoku.de | relay-client-c01.iocnt.net |
 | data-c6cb92ccdb.zkg.de | relay-client-c01.iocnt.net |
-| data-c76cebcfed.kino.de | relay-client-c01.iocnt.net |
-| data-c76cebcfed.kino.de | relay-client-c01.iocnt.net |
 | data-c7a4161550.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-c849cc593c.heuer-dialog.de | relay-client-c01.iocnt.net |
 | data-c849cc593c.immobilien-zeitung.de | relay-client-c01.iocnt.net |
 | data-c849cc593c.iz-shop.de | relay-client-c01.iocnt.net |
 | data-c849cc593c.iz.de | relay-client-c01.iocnt.net |
 | data-cb1273f1c3.alfelder-zeitung.de | relay-client-c01.iocnt.net |
+| data-cb1273f1c3.alfelder-zeitung.de | relay-client-c01.iocnt.net |
 | data-cb12c9ce6a.superillu.de | relay-client-c01.iocnt.net |
 | data-cb62759f4c.rpr1.de | relay-client-c01.iocnt.net |
 | data-cb62759f4c.vereinsleben.de | relay-client-c01.iocnt.net |
+| data-cb6448e7d7.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-cb6448e7d7.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-cb9b83f47f.t3n.de | relay-client-c01.iocnt.net |
 | data-cba0c1fee3.ad-magazin.de | relay-client-c01.iocnt.net |
@@ -1512,6 +1466,7 @@
 | data-ce904c6d42.metallbau-magazin.de | relay-client-c01.iocnt.net |
 | data-ce964ae059.guter-rat.de | relay-client-c01.iocnt.net |
 | data-ce964ae059.guterrat.de | relay-client-c01.iocnt.net |
+| data-ceb2600919.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-ceb2600919.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-cedbf1e823.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-cedbf1e823.apps.iocnt.de | relay-client-c01.iocnt.net |
@@ -1530,6 +1485,7 @@
 | data-d29d7a3de4.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-d3ad057ab7.firmenauto.de | relay-client-c01.iocnt.net |
 | data-d3b7b07de5.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-d3b7b07de5.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-d410bbe8e2.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-d47b934372.regionalheute.de | relay-client-c01.iocnt.net |
 | data-d4dfa4bc2c.focus.de | relay-client-c01.iocnt.net |
@@ -1542,6 +1498,7 @@
 | data-d611a11039.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-d708c3c3bc.freizeit.at | relay-client-c01.iocnt.net |
 | data-d7486a3850.nordkurier.de | relay-client-c01.iocnt.net |
+| data-d75062df83.epaper-oesterreich.at | relay-client-c01.iocnt.net |
 | data-d75062df83.epaper-oesterreich.at | relay-client-c01.iocnt.net |
 | data-d858e7585b.jobs26.de | relay-client-c01.iocnt.net |
 | data-d858e7585b.lokal26.de | relay-client-c01.iocnt.net |
@@ -1560,7 +1517,6 @@
 | data-dc11b32774.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-dc11b32774.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-dc874fa9ed.koeln.de | relay-client-c01.iocnt.net |
-| data-dc874fa9ed.koeln.de | relay-client-c01.iocnt.net |
 | data-dd659348c3.bgl-anzeigenpost.de | relay-client-c01.iocnt.net |
 | data-dd659348c3.heimatsport.de | relay-client-c01.iocnt.net |
 | data-dd659348c3.heimatzeitung.de | relay-client-c01.iocnt.net |
@@ -1574,7 +1530,6 @@
 | data-deb04a4388.wb-immo.net | relay-client-c01.iocnt.net |
 | data-deb04a4388.wb-jobs.de | relay-client-c01.iocnt.net |
 | data-deb04a4388.wb-trauer.de | relay-client-c01.iocnt.net |
-| data-deb04a4388.westfalen-blatt.de | relay-client-c01.iocnt.net |
 | data-deb04a4388.westfalen-blatt.de | relay-client-c01.iocnt.net |
 | data-deb04a4388.westfalen-blatt2.de | relay-client-c01.iocnt.net |
 | data-deb04a4388.westfalenblatt.de | relay-client-c01.iocnt.net |
@@ -1597,9 +1552,11 @@
 | data-e623de9fda.focus.de | relay-client-c01.iocnt.net |
 | data-e627e4d475.filmstarts.de | relay-client-c01.iocnt.net |
 | data-e89b4fd803.apps.iocnt.de | relay-client-c01.iocnt.net |
+| data-e89b4fd803.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-e89c765eef.main-echo.de | relay-client-c01.iocnt.net |
 | data-e8be051976.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-e93d7f2acb.immoads.at | relay-client-c01.iocnt.net |
+| data-e9983e832a.boyens-medien.de | relay-client-c01.iocnt.net |
 | data-e9983e832a.boyens-medien.de | relay-client-c01.iocnt.net |
 | data-e9b83554f9.moserholding.com | relay-client-c01.iocnt.net |
 | data-ea06a9645c.bauhof-online.de | relay-client-c01.iocnt.net |
@@ -1607,8 +1564,6 @@
 | data-eb375c9b89.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-ebf4df4b00.antenne-thueringen.de | relay-client-c01.iocnt.net |
 | data-ebf4df4b00.antennethueringen.de | relay-client-c01.iocnt.net |
-| data-ec98eddf4a.giga.de | relay-client-c01.iocnt.net |
-| data-ec98eddf4a.giga.de | relay-client-c01.iocnt.net |
 | data-ec9f31ae75.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-ecadc85e81.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-ecaf4bd7a9.deutschlandtest.de | relay-client-c01.iocnt.net |
@@ -1620,14 +1575,13 @@
 | data-f06c8efc81.fitforfun.de | relay-client-c01.iocnt.net |
 | data-f0a1fa7abc.cinestar.de | relay-client-c01.iocnt.net |
 | data-f13c34cd1a.scienceblogs.de | relay-client-c01.iocnt.net |
-| data-f13c34cd1a.wissen.de | relay-client-c01.iocnt.net |
 | data-f23d588bea.hamburg.de | relay-client-c01.iocnt.net |
 | data-f25fa5345b.xn--sterreich-z7a.at | relay-client-c01.iocnt.net |
 | data-f27acaf339.haustechnikdialog.de | relay-client-c01.iocnt.net |
-| data-f2fef0ab45.rhoenundsaalepost.de | relay-client-c01.iocnt.net |
 | data-f2fef0ab45.rhoenundstreubote.de | relay-client-c01.iocnt.net |
 | data-f3e9f6e256.computer-spezial.de | relay-client-c01.iocnt.net |
 | data-f3f7a2af0e.spox.com | relay-client-c01.iocnt.net |
+| data-f3fe376ba8.allgaeuer-zeitung.de | relay-client-c01.iocnt.net |
 | data-f3fe376ba8.allgaeuer-zeitung.de | relay-client-c01.iocnt.net |
 | data-f4f60a6d2f.apps.iocnt.de | relay-client-c01.iocnt.net |
 | data-f4f9925b8a.styleupyourlife.at | relay-client-c01.iocnt.net |
@@ -1638,7 +1592,6 @@
 | data-f62d7c5cdb.bergstraesser-anzeiger.de | relay-client-c01.iocnt.net |
 | data-f62d7c5cdb.fnweb.de | relay-client-c01.iocnt.net |
 | data-f62d7c5cdb.haas-mediengruppe.de | relay-client-c01.iocnt.net |
-| data-f62d7c5cdb.immomorgen.de | relay-client-c01.iocnt.net |
 | data-f62d7c5cdb.jobmorgen.de | relay-client-c01.iocnt.net |
 | data-f62d7c5cdb.mannheimer-morgen.de | relay-client-c01.iocnt.net |
 | data-f62d7c5cdb.schwetzinger-zeitung.de | relay-client-c01.iocnt.net |
@@ -1658,11 +1611,11 @@
 | data-fa59f9f6b5.cinema-prerow.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.cinetech.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.cineworld-luenen.de | relay-client-c01.iocnt.net |
-| data-fa59f9f6b5.cinexx.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.cityshowbuehne.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.einbecker-kinos.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.filmcenter-dillingen.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.filmpalast-sulingen.de | relay-client-c01.iocnt.net |
+| data-fa59f9f6b5.groebenlichtspiele.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.haveltorkino.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.kino-bad-salzuflen.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.kino-buedingen.de | relay-client-c01.iocnt.net |
@@ -1675,7 +1628,6 @@
 | data-fa59f9f6b5.kinocenter-cuxhaven.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.kinokorbach.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.kronberger-lichtspiele.de | relay-client-c01.iocnt.net |
-| data-fa59f9f6b5.kuki-landau.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.kulturhaus-pritzwalk.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.lichtspiele-grosshabersdorf.de | relay-client-c01.iocnt.net |
 | data-fa59f9f6b5.liliservicekino.de | relay-client-c01.iocnt.net |
@@ -1691,6 +1643,7 @@
 | data-fb6bd6ba7f.agrarzeitung.de | relay-client-c01.iocnt.net |
 | data-fb6bd6ba7f.ernaehrungsdienst.de | relay-client-c01.iocnt.net |
 | data-fc6e3104c2.finanztreff.de | relay-client-c01.iocnt.net |
+| data-fc6e3104c2.finanztreff.de | relay-client-c01.iocnt.net |
 | data-fc6e3104c2.gatrixx.com | relay-client-c01.iocnt.net |
 | data-fd399543fe.elektroniknet.de | relay-client-c01.iocnt.net |
 | data-fd399543fe.medical-design.news | relay-client-c01.iocnt.net |
@@ -1703,6 +1656,7 @@
 | data-fdf649e16e.liga2-online.de | relay-client-c01.iocnt.net |
 | data-fdf649e16e.liga3-online.de | relay-client-c01.iocnt.net |
 | data-fdf649e16e.rb-fans.de | relay-client-c01.iocnt.net |
+| data-febb5dffb0.bigfm.de | relay-client-c01.iocnt.net |
 | data-febb5dffb0.bigfm.de | relay-client-c01.iocnt.net |
 | data-febb5dffb0.bigkarriere.de | relay-client-c01.iocnt.net |
 | data-febb5dffb0.fashionzone.de | relay-client-c01.iocnt.net |
@@ -1735,7 +1689,6 @@
 | data-043610b415.saarbruecker-zeitung.de | relay-client-c03.iocnt.net |
 | data-043610b415.saarbruecker-zeitung.de | relay-client-c03.iocnt.net |
 | data-043610b415.sol.de | relay-client-c03.iocnt.net |
-| data-043610b415.sol.de | relay-client-c03.iocnt.net |
 | data-043610b415.stadt-kurier.de | relay-client-c03.iocnt.net |
 | data-043610b415.tonight.de | relay-client-c03.iocnt.net |
 | data-043610b415.trauer.de | relay-client-c03.iocnt.net |
@@ -1745,6 +1698,7 @@
 | data-048578045a.formel1.de | relay-client-c03.iocnt.net |
 | data-057c6f44b1.womenshealth.de | relay-client-c03.iocnt.net |
 | data-0827b0d9ef.windsurfen-lernen.de | relay-client-c03.iocnt.net |
+| data-08d52e2a42.handelsblatt.com | relay-client-c03.iocnt.net |
 | data-08d52e2a42.handelsblatt.com | relay-client-c03.iocnt.net |
 | data-09d76f48f8.ivz-aktuell.de | relay-client-c03.iocnt.net |
 | data-09d76f48f8.ivz-epaper.de | relay-client-c03.iocnt.net |
@@ -1761,7 +1715,6 @@
 | data-11c63b1cbc.fcmlive.de | relay-client-c03.iocnt.net |
 | data-11c63b1cbc.fupa.net | relay-client-c03.iocnt.net |
 | data-11c63b1cbc.fupa.net | relay-client-c03.iocnt.net |
-| data-11c63b1cbc.magdeburg-fussball.de | relay-client-c03.iocnt.net |
 | data-11c63b1cbc.magdeburg-fussball.de | relay-client-c03.iocnt.net |
 | data-11c63b1cbc.mz-jobs.de | relay-client-c03.iocnt.net |
 | data-11c63b1cbc.mz.de | relay-client-c03.iocnt.net |
@@ -1837,7 +1790,6 @@
 | data-1c0a3d83e3.transfermarkt.nl | relay-client-c03.iocnt.net |
 | data-1c0a3d83e3.transfermarkt.pe | relay-client-c03.iocnt.net |
 | data-1c0a3d83e3.transfermarkt.pl | relay-client-c03.iocnt.net |
-| data-1c0a3d83e3.transfermarkt.pt | relay-client-c03.iocnt.net |
 | data-1c0a3d83e3.transfermarkt.ru | relay-client-c03.iocnt.net |
 | data-1c0a3d83e3.transfermarkt.us | relay-client-c03.iocnt.net |
 | data-1c0a3d83e3.transfermarkt.world | relay-client-c03.iocnt.net |
@@ -1845,11 +1797,11 @@
 | data-1caddf134b.move-online.de | relay-client-c03.iocnt.net |
 | data-1e71eb44ba.caravaning.de | relay-client-c03.iocnt.net |
 | data-1eea95e868.a1.net | relay-client-c03.iocnt.net |
-| data-1eea95e868.a1.net | relay-client-c03.iocnt.net |
 | data-1f00ebbd99.trend.at | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.alb-flirt.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.esslinger-zeitung.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.franken-gedenkt.de | relay-client-c03.iocnt.net |
+| data-1fbcf6d7f5.frankenpost.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.frankenpost.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.inoberfranken.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.insuedthueringen.de | relay-client-c03.iocnt.net |
@@ -1862,6 +1814,8 @@
 | data-1fbcf6d7f5.schwarzwaelder-bote.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.stuttgart-gedenkt.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.stuttgarter-nachrichten.de | relay-client-c03.iocnt.net |
+| data-1fbcf6d7f5.stuttgarter-nachrichten.de | relay-client-c03.iocnt.net |
+| data-1fbcf6d7f5.stuttgarter-zeitung.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.stuttgarter-zeitung.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.thueringen-gedenkt.de | relay-client-c03.iocnt.net |
 | data-1fbcf6d7f5.trauerforum-altkreis.de | relay-client-c03.iocnt.net |
@@ -1882,7 +1836,7 @@
 | data-36eb08aa0f.autozeitung.de | relay-client-c03.iocnt.net |
 | data-36eb08aa0f.autozeitung.de | relay-client-c03.iocnt.net |
 | data-3706a2ecb0.baulinks.de | relay-client-c03.iocnt.net |
-| data-38132d333d.e-hausaufgaben.de | relay-client-c03.iocnt.net |
+| data-382f03151d.harpersbazaar.de | relay-client-c03.iocnt.net |
 | data-39f71aefaf.prisma.de | relay-client-c03.iocnt.net |
 | data-3aee2d871a.hgtv.com | relay-client-c03.iocnt.net |
 | data-3b127a6eb1.mena-watch.com | relay-client-c03.iocnt.net |
@@ -1901,88 +1855,68 @@
 | data-421b67c653.ka-news.de | relay-client-c03.iocnt.net |
 | data-421b67c653.karriereregion.de | relay-client-c03.iocnt.net |
 | data-44a005f23c.bergfex.at | relay-client-c03.iocnt.net |
-| data-44a005f23c.bergfex.at | relay-client-c03.iocnt.net |
 | data-44a005f23c.bergfex.ch | relay-client-c03.iocnt.net |
+| data-44a005f23c.bergfex.com | relay-client-c03.iocnt.net |
 | data-44a005f23c.bergfex.com | relay-client-c03.iocnt.net |
 | data-44a005f23c.bergfex.cz | relay-client-c03.iocnt.net |
 | data-44a005f23c.bergfex.de | relay-client-c03.iocnt.net |
-| data-44a005f23c.bergfex.de | relay-client-c03.iocnt.net |
-| data-44a005f23c.bergfex.it | relay-client-c03.iocnt.net |
+| data-44a005f23c.bergfex.pl | relay-client-c03.iocnt.net |
 | data-44a005f23c.bergfex.pl | relay-client-c03.iocnt.net |
 | data-44a005f23c.bergfex.si | relay-client-c03.iocnt.net |
 | data-45798f2697.nils-nager.de | relay-client-c03.iocnt.net |
 | data-45798f2697.rheinpfalz.de | relay-client-c03.iocnt.net |
 | data-45d218b384.wochenblatt-verlagsgruppe.de | relay-client-c03.iocnt.net |
 | data-463860f007.radiowestfalica.de | relay-client-c03.iocnt.net |
-| data-48bcc52851.wirtrauern.at | relay-client-c03.iocnt.net |
 | data-48fd46a412.digitalphoto.de | relay-client-c03.iocnt.net |
 | data-494b3b236f.goslarsche.de | relay-client-c03.iocnt.net |
-| data-494b3b236f.goslarsche.de | relay-client-c03.iocnt.net |
 | data-497ecca600.erft-kurier.de | relay-client-c03.iocnt.net |
-| data-497ecca600.ga-story.de | relay-client-c03.iocnt.net |
 | data-497ecca600.ga.de | relay-client-c03.iocnt.net |
 | data-497ecca600.moneyspecial.de | relay-client-c03.iocnt.net |
 | data-497ecca600.rp-online-dating.de | relay-client-c03.iocnt.net |
 | data-497ecca600.rp-online.de | relay-client-c03.iocnt.net |
-| data-497ecca600.s4p-iapps.com | relay-client-c03.iocnt.net |
 | data-497ecca600.saarbruecker-zeitung.de | relay-client-c03.iocnt.net |
 | data-497ecca600.volksfreund.de | relay-client-c03.iocnt.net |
-| data-49aef6b58e.shapeup-business.de | relay-client-c03.iocnt.net |
+| data-497ecca600.wuppertaler-rundschau.de | relay-client-c03.iocnt.net |
 | data-4a575dad18.hamburgerjobs.de | relay-client-c03.iocnt.net |
-| data-4cc3ddd1b2.puls24.at | relay-client-c03.iocnt.net |
-| data-4ccf76e1ad.tagesspiegel.de | relay-client-c03.iocnt.net |
 | data-4ce33a993b.radiohochstifthilft.de | relay-client-c03.iocnt.net |
 | data-4d5c7c2be6.boden-wand-decke.de | relay-client-c03.iocnt.net |
 | data-4f2efe538c.einfachbacken.de | relay-client-c03.iocnt.net |
 | data-4f99163f5e.bludenz.com | relay-client-c03.iocnt.net |
 | data-4fa18eb5e3.zvw.de | relay-client-c03.iocnt.net |
-| data-504bba0c00.tlc.de | relay-client-c03.iocnt.net |
 | data-5206391739.shz.de | relay-client-c03.iocnt.net |
-| data-525bd81403.a1.net | relay-client-c03.iocnt.net |
 | data-545e23e607.kosmo.at | relay-client-c03.iocnt.net |
 | data-545e23e607.kosmo.at | relay-client-c03.iocnt.net |
 | data-5492b7d422.azubis.de | relay-client-c03.iocnt.net |
-| data-5492b7d422.magdeburg-fussball.de | relay-client-c03.iocnt.net |
 | data-5492b7d422.sao.de | relay-client-c03.iocnt.net |
-| data-5492b7d422.volksstimme.de | relay-client-c03.iocnt.net |
-| data-557fc65a33.womenshealth.de | relay-client-c03.iocnt.net |
 | data-56def2f6bc.vol.at | relay-client-c03.iocnt.net |
 | data-56def2f6bc.vol.at | relay-client-c03.iocnt.net |
+| data-595db38f76.woman.at | relay-client-c03.iocnt.net |
 | data-5ab0f5b45f.dk-online.de | relay-client-c03.iocnt.net |
 | data-5ab0f5b45f.noz.de | relay-client-c03.iocnt.net |
 | data-5ab0f5b45f.noz.de | relay-client-c03.iocnt.net |
 | data-5c172edac2.prosieben.at | relay-client-c03.iocnt.net |
 | data-5c8ddfc1d2.selbst.de | relay-client-c03.iocnt.net |
-| data-5ce6ecf8d0.christkindlesmarkt.de | relay-client-c03.iocnt.net |
 | data-5ce6ecf8d0.nbi.de | relay-client-c03.iocnt.net |
-| data-5ce6ecf8d0.nn.de | relay-client-c03.iocnt.net |
-| data-5ce6ecf8d0.nordbayern.de | relay-client-c03.iocnt.net |
 | data-5d2679d281.skysportaustria.at | relay-client-c03.iocnt.net |
 | data-5d9e07c784.stadt-und-werk.de | relay-client-c03.iocnt.net |
 | data-5f4e914553.apps.iocnt.de | relay-client-c03.iocnt.net |
 | data-5f4e914553.apps.iocnt.de | relay-client-c03.iocnt.net |
-| data-5fdd0f6a02.salzburg24.at | relay-client-c03.iocnt.net |
 | data-5fdd0f6a02.salzburg24.at | relay-client-c03.iocnt.net |
 | data-614d3891ff.academics.at | relay-client-c03.iocnt.net |
 | data-614d3891ff.academics.ch | relay-client-c03.iocnt.net |
 | data-614d3891ff.academics.com | relay-client-c03.iocnt.net |
 | data-614d3891ff.academics.de | relay-client-c03.iocnt.net |
 | data-614d3891ff.weltkunst.de | relay-client-c03.iocnt.net |
+| data-614d3891ff.zeit.de | relay-client-c03.iocnt.net |
 | data-6357c1903a.plasteurope.com | relay-client-c03.iocnt.net |
-| data-6463194ae5.fitbook.de | relay-client-c03.iocnt.net |
 | data-6a61a15cf3.laendleanzeiger.at | relay-client-c03.iocnt.net |
-| data-6add5bd962.bergwelten.com | relay-client-c03.iocnt.net |
 | data-6e2baaf3b9.garten.de | relay-client-c03.iocnt.net |
-| data-6e2baaf3b9.mein-schoener-garten.de | relay-client-c03.iocnt.net |
-| data-6e2baaf3b9.mein-schoener-garten.de | relay-client-c03.iocnt.net |
-| data-706868203b.partytimer.at | relay-client-c03.iocnt.net |
-| data-707aff899d.donna-magazin.de | relay-client-c03.iocnt.net |
 | data-707aff899d.funke.fun | relay-client-c03.iocnt.net |
 | data-718a2dc909.tageblatt.de | relay-client-c03.iocnt.net |
+| data-73b18cc776.radioherford.de | relay-client-c03.iocnt.net |
 | data-73b18cc776.radioherfordhilft.de | relay-client-c03.iocnt.net |
 | data-73e5a82398.recybase.de | relay-client-c03.iocnt.net |
 | data-73e5a82398.requipment.de | relay-client-c03.iocnt.net |
-| data-75671117cf.radiowafhilft.de | relay-client-c03.iocnt.net |
 | data-75adc1b92b.fleischerei.de | relay-client-c03.iocnt.net |
 | data-7860983f88.wohintipp.at | relay-client-c03.iocnt.net |
 | data-7899267776.daskochrezept.de | relay-client-c03.iocnt.net |
@@ -1991,11 +1925,9 @@
 | data-79b61f918a.kult.de | relay-client-c03.iocnt.net |
 | data-79b61f918a.mittelbayerische-stellen.de | relay-client-c03.iocnt.net |
 | data-79b61f918a.mittelbayerische-trauer.de | relay-client-c03.iocnt.net |
-| data-79b61f918a.mittelbayerische.de | relay-client-c03.iocnt.net |
-| data-7a534833b2.techbook.de | relay-client-c03.iocnt.net |
+| data-7bd40aa49e.laendleimmo.at | relay-client-c03.iocnt.net |
 | data-7bd40aa49e.laendleimmo.at | relay-client-c03.iocnt.net |
 | data-7c0fd2a117.meinenzkreis.de | relay-client-c03.iocnt.net |
-| data-7c0fd2a117.pz-news.de | relay-client-c03.iocnt.net |
 | data-7c0fd2a117.pz-news.de | relay-client-c03.iocnt.net |
 | data-7c0fd2a117.pz-nightlife.de | relay-client-c03.iocnt.net |
 | data-7db347bc87.meinprospekt.de | relay-client-c03.iocnt.net |
@@ -2004,19 +1936,19 @@
 | data-7e48679b06.fleischerei.de | relay-client-c03.iocnt.net |
 | data-7fa3547eed.atv2.at | relay-client-c03.iocnt.net |
 | data-81547504c8.erwin-event.de | relay-client-c03.iocnt.net |
+| data-81547504c8.fupa.net | relay-client-c03.iocnt.net |
 | data-81547504c8.nw.de | relay-client-c03.iocnt.net |
 | data-81547504c8.nw.de | relay-client-c03.iocnt.net |
 | data-8251905874.handwerk-magazin.de | relay-client-c03.iocnt.net |
 | data-83380557db.erwin-event.de | relay-client-c03.iocnt.net |
 | data-83380557db.nw.de | relay-client-c03.iocnt.net |
+| data-8468e8ebc5.laola1.at | relay-client-c03.iocnt.net |
 | data-84a0f3455d.transfermarkt.at | relay-client-c03.iocnt.net |
 | data-84a0f3455d.transfermarkt.be | relay-client-c03.iocnt.net |
 | data-84a0f3455d.transfermarkt.ch | relay-client-c03.iocnt.net |
 | data-84a0f3455d.transfermarkt.co | relay-client-c03.iocnt.net |
 | data-84a0f3455d.transfermarkt.co.in | relay-client-c03.iocnt.net |
-| data-84a0f3455d.transfermarkt.co.kr | relay-client-c03.iocnt.net |
 | data-84a0f3455d.transfermarkt.fr | relay-client-c03.iocnt.net |
-| data-84a0f3455d.transfermarkt.jp | relay-client-c03.iocnt.net |
 | data-84a0f3455d.transfermarkt.mx | relay-client-c03.iocnt.net |
 | data-84a0f3455d.transfermarkt.my | relay-client-c03.iocnt.net |
 | data-84a0f3455d.transfermarkt.nl | relay-client-c03.iocnt.net |
@@ -2034,17 +1966,15 @@
 | data-861bbf2127.fitbook.de | relay-client-c03.iocnt.net |
 | data-861bbf2127.myhomebook.de | relay-client-c03.iocnt.net |
 | data-861bbf2127.petbook.de | relay-client-c03.iocnt.net |
-| data-861bbf2127.petbook.de | relay-client-c03.iocnt.net |
-| data-861bbf2127.stylebook.de | relay-client-c03.iocnt.net |
 | data-861bbf2127.techbook.de | relay-client-c03.iocnt.net |
 | data-861bbf2127.travelbook.de | relay-client-c03.iocnt.net |
 | data-86943486de.laendleauto.at | relay-client-c03.iocnt.net |
 | data-8862d19d68.vorsprung-online.de | relay-client-c03.iocnt.net |
 | data-88ba07a559.motor1.com | relay-client-c03.iocnt.net |
 | data-89254d05a3.alpin.de | relay-client-c03.iocnt.net |
+| data-89254d05a3.alpin.de | relay-client-c03.iocnt.net |
 | data-8a0e70a411.car4you.at | relay-client-c03.iocnt.net |
 | data-8a4d99ad09.sat1.at | relay-client-c03.iocnt.net |
-| data-8abe5cc617.badische-zeitung.de | relay-client-c03.iocnt.net |
 | data-8abe5cc617.badische-zeitung.de | relay-client-c03.iocnt.net |
 | data-8abe5cc617.bz-ticket.de | relay-client-c03.iocnt.net |
 | data-8abe5cc617.bzflirt.de | relay-client-c03.iocnt.net |
@@ -2063,6 +1993,7 @@
 | data-8d9711db79.gusto.at | relay-client-c03.iocnt.net |
 | data-8eeb5d63be.gast.at | relay-client-c03.iocnt.net |
 | data-91f69542bd.radiolippe.de | relay-client-c03.iocnt.net |
+| data-927768f668.pharmazeutische-zeitung.de | relay-client-c03.iocnt.net |
 | data-927768f668.pharmazeutische-zeitung.de | relay-client-c03.iocnt.net |
 | data-927768f668.pz-markt.de | relay-client-c03.iocnt.net |
 | data-927768f668.schaffrath-neuemedien.de | relay-client-c03.iocnt.net |
@@ -2088,6 +2019,7 @@
 | data-99329e3cb2.bilanz.de | relay-client-c03.iocnt.net |
 | data-99329e3cb2.metal-hammer.de | relay-client-c03.iocnt.net |
 | data-99329e3cb2.musikexpress.de | relay-client-c03.iocnt.net |
+| data-99329e3cb2.musikexpress.de | relay-client-c03.iocnt.net |
 | data-99329e3cb2.rollingstone.de | relay-client-c03.iocnt.net |
 | data-99329e3cb2.welt.de | relay-client-c03.iocnt.net |
 | data-9ac0797a75.4gamechangers.io | relay-client-c03.iocnt.net |
@@ -2099,7 +2031,6 @@
 | data-9df22f196a.motor1.com | relay-client-c03.iocnt.net |
 | data-9e1c1a7a5e.kurier.de | relay-client-c03.iocnt.net |
 | data-9e4f40dc7c.travelbook.de | relay-client-c03.iocnt.net |
-| data-9e4f40dc7c.travelbook.de | relay-client-c03.iocnt.net |
 | data-9f426096e1.wz-net.de | relay-client-c03.iocnt.net |
 | data-9fcd0b641d.falstaff.com | relay-client-c03.iocnt.net |
 | data-9fcd0b641d.falstaff.de | relay-client-c03.iocnt.net |
@@ -2110,21 +2041,21 @@
 | data-a379a2e240.petbook.de | relay-client-c03.iocnt.net |
 | data-a38e203a07.job38.de | relay-client-c03.iocnt.net |
 | data-a38e203a07.radio38.de | relay-client-c03.iocnt.net |
+| data-a59dd2af3b.wochenblatt-dlv.de | relay-client-c03.iocnt.net |
 | data-a59ff4db12.bildderfrau.de | relay-client-c03.iocnt.net |
-| data-a6c3c2bffa.mamiweb.de | relay-client-c03.iocnt.net |
 | data-a6faa6efe2.insuedthueringen.de | relay-client-c03.iocnt.net |
 | data-a6faa6efe2.thueringen-gedenkt.de | relay-client-c03.iocnt.net |
 | data-a764ba99aa.das-pta-magazin.de | relay-client-c03.iocnt.net |
 | data-a7c3ea71dc.ptaheute.de | relay-client-c03.iocnt.net |
 | data-a938ff636c.radioguetersloh.de | relay-client-c03.iocnt.net |
+| data-a938ff636c.radioguetersloh.de | relay-client-c03.iocnt.net |
 | data-a938ff636c.radiogueterslohhilft.de | relay-client-c03.iocnt.net |
 | data-a9dcbfdd12.noz.de | relay-client-c03.iocnt.net |
 | data-aac883f83b.offiziellecharts.de | relay-client-c03.iocnt.net |
 | data-aacb93c032.atv.at | relay-client-c03.iocnt.net |
-| data-aae7bdcec6.autoscout24.com | relay-client-c03.iocnt.net |
-| data-aae7bdcec6.autoscout24.com.tr | relay-client-c03.iocnt.net |
 | data-aae7bdcec6.autoscout24.cz | relay-client-c03.iocnt.net |
 | data-aae7bdcec6.autoscout24.de | relay-client-c03.iocnt.net |
+| data-aae7bdcec6.autoscout24.hr | relay-client-c03.iocnt.net |
 | data-aae7bdcec6.autoscout24.hr | relay-client-c03.iocnt.net |
 | data-aae7bdcec6.autoscout24.hu | relay-client-c03.iocnt.net |
 | data-aae7bdcec6.autoscout24.pl | relay-client-c03.iocnt.net |
@@ -2134,7 +2065,6 @@
 | data-ab6e448dac.wetter.com | relay-client-c03.iocnt.net |
 | data-abd17c1cd9.ran.at | relay-client-c03.iocnt.net |
 | data-ad2a62779c.prosiebenmaxx.at | relay-client-c03.iocnt.net |
-| data-ade1ea328b.stylebook.de | relay-client-c03.iocnt.net |
 | data-ade1ea328b.stylebook.de | relay-client-c03.iocnt.net |
 | data-ae99031d75.autoanzeigen.de | relay-client-c03.iocnt.net |
 | data-ae99031d75.fupa.net | relay-client-c03.iocnt.net |
@@ -2151,19 +2081,18 @@
 | data-af9f3dfb33.zeit.de | relay-client-c03.iocnt.net |
 | data-b19f3371de.songtexte.com | relay-client-c03.iocnt.net |
 | data-b261ece11d.wochenblatt.de | relay-client-c03.iocnt.net |
-| data-b35e28a5a5.springermedizin.de | relay-client-c03.iocnt.net |
-| data-b389eff81a.business-punk.com | relay-client-c03.iocnt.net |
 | data-b389eff81a.business-punk.com | relay-client-c03.iocnt.net |
 | data-b55c944924.brandeins.de | relay-client-c03.iocnt.net |
 | data-b5689af0d0.aerotelegraph.com | relay-client-c03.iocnt.net |
+| data-b71e59c9ac.servus.com | relay-client-c03.iocnt.net |
 | data-b8cbca7d61.finanzen.ch | relay-client-c03.iocnt.net |
 | data-b8f9ef66dc.hogapage.at | relay-client-c03.iocnt.net |
 | data-b8f9ef66dc.hogapage.ch | relay-client-c03.iocnt.net |
 | data-b8f9ef66dc.hogapage.de | relay-client-c03.iocnt.net |
-| data-b8f9ef66dc.hogapage.de | relay-client-c03.iocnt.net |
+| data-bab9a31794.shz.de | relay-client-c03.iocnt.net |
 | data-bab9a31794.shz.de | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.bild.de | relay-client-c03.iocnt.net |
-| data-bb21a2f11b.bild.de | relay-client-c03.iocnt.net |
+| data-bb21a2f11b.bz-berlin.de | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.bz-berlin.de | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.fitbook-magazine.com | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.fitbook.de | relay-client-c03.iocnt.net |
@@ -2171,11 +2100,9 @@
 | data-bb21a2f11b.myhomebook.de | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.petbook-magazine.com | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.sportbild.de | relay-client-c03.iocnt.net |
-| data-bb21a2f11b.sportbild.de | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.stylebook-magazine.com | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.stylebook.de | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.techbook-magazine.com | relay-client-c03.iocnt.net |
-| data-bb21a2f11b.techbook.de | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.techbook.de | relay-client-c03.iocnt.net |
 | data-bb21a2f11b.travelbook-magazine.com | relay-client-c03.iocnt.net |
 | data-bb4ada6163.travelbook.de | relay-client-c03.iocnt.net |
@@ -2185,15 +2112,11 @@
 | data-be032ee936.christkindlesmarkt.de | relay-client-c03.iocnt.net |
 | data-be032ee936.nn.de | relay-client-c03.iocnt.net |
 | data-be032ee936.nordbayern.de | relay-client-c03.iocnt.net |
-| data-be4fd7bada.vn.at | relay-client-c03.iocnt.net |
 | data-be9b6161bf.aponet.de | relay-client-c03.iocnt.net |
 | data-c061012ba4.bisafans.de | relay-client-c03.iocnt.net |
-| data-c0856a82d9.aerzteblatt.de | relay-client-c03.iocnt.net |
 | data-c0856a82d9.schaffrath-digital.de | relay-client-c03.iocnt.net |
 | data-c08b160129.theviennareview.at | relay-client-c03.iocnt.net |
 | data-c128cec8f4.wnoz.de | relay-client-c03.iocnt.net |
-| data-c1e9638016.vgn.at | relay-client-c03.iocnt.net |
-| data-c3391a3eb3.job38.de | relay-client-c03.iocnt.net |
 | data-c3391a3eb3.radio38.de | relay-client-c03.iocnt.net |
 | data-c3a0d2b933.studentpartout.de | relay-client-c03.iocnt.net |
 | data-c3a3188a23.exxpress.at | relay-client-c03.iocnt.net |
@@ -2204,9 +2127,10 @@
 | data-c5740f79ff.bbv-net.de | relay-client-c03.iocnt.net |
 | data-c5740f79ff.bbv-net.de | relay-client-c03.iocnt.net |
 | data-c5740f79ff.dattelner-morgenpost.de | relay-client-c03.iocnt.net |
-| data-c5740f79ff.dattelner-morgenpost.de | relay-client-c03.iocnt.net |
+| data-c5740f79ff.dorstenerzeitung.de | relay-client-c03.iocnt.net |
 | data-c5740f79ff.dorstenerzeitung.de | relay-client-c03.iocnt.net |
 | data-c5740f79ff.halternerzeitung.de | relay-client-c03.iocnt.net |
+| data-c5740f79ff.hellwegeranzeiger.de | relay-client-c03.iocnt.net |
 | data-c5740f79ff.hellwegeranzeiger.de | relay-client-c03.iocnt.net |
 | data-c5740f79ff.hertener-allgemeine.de | relay-client-c03.iocnt.net |
 | data-c5740f79ff.marler-zeitung.de | relay-client-c03.iocnt.net |
@@ -2221,10 +2145,10 @@
 | data-c5c818f755.zaubertopf.de | relay-client-c03.iocnt.net |
 | data-c6b1789ee3.upday.com | relay-client-c03.iocnt.net |
 | data-c94cf2beab.physiotherapeuten.de | relay-client-c03.iocnt.net |
-| data-c958fdb0ad.sk-one.de | relay-client-c03.iocnt.net |
 | data-cadceaa3b3.tvheute.at | relay-client-c03.iocnt.net |
 | data-cb2c174131.menshealth.de | relay-client-c03.iocnt.net |
 | data-ccea961373.dach-holzbau.de | relay-client-c03.iocnt.net |
+| data-cd3f2f9c0c.radiobielefeld.de | relay-client-c03.iocnt.net |
 | data-cd3f2f9c0c.radiobielefeld.de | relay-client-c03.iocnt.net |
 | data-cd3f2f9c0c.radiobielefeldhilft.de | relay-client-c03.iocnt.net |
 | data-cdc8773b0f.hcm-magazin.de | relay-client-c03.iocnt.net |
@@ -2240,11 +2164,10 @@
 | data-d3b9450695.tv-media.at | relay-client-c03.iocnt.net |
 | data-d4db30a18b.borkumer-zeitung.de | relay-client-c03.iocnt.net |
 | data-d4db30a18b.ga-online.de | relay-client-c03.iocnt.net |
-| data-d4db30a18b.on-online.de | relay-client-c03.iocnt.net |
+| data-d4db30a18b.ga-online.de | relay-client-c03.iocnt.net |
 | data-d4db30a18b.oz-online.de | relay-client-c03.iocnt.net |
 | data-d4db30a18b.zgo.de | relay-client-c03.iocnt.net |
 | data-d50538de89.5min.at | relay-client-c03.iocnt.net |
-| data-d6484416fd.maclife.de | relay-client-c03.iocnt.net |
 | data-d6485d3579.playboy.de | relay-client-c03.iocnt.net |
 | data-d6e13c60e8.orf.at | relay-client-c03.iocnt.net |
 | data-d7dfad490d.feldkirch.com | relay-client-c03.iocnt.net |
@@ -2256,6 +2179,7 @@
 | data-d8a16b307b.eishockeynews.de | relay-client-c03.iocnt.net |
 | data-d8a16b307b.idowa.de | relay-client-c03.iocnt.net |
 | data-d9be8dacc3.alpin.de | relay-client-c03.iocnt.net |
+| data-dae559c4b7.ejz.de | relay-client-c03.iocnt.net |
 | data-dae559c4b7.ejz.de | relay-client-c03.iocnt.net |
 | data-db0ecef264.trafikantenzeitung.at | relay-client-c03.iocnt.net |
 | data-dbeb5d461a.fnweb.de | relay-client-c03.iocnt.net |
@@ -2280,11 +2204,8 @@
 | data-e7308988a6.freundin.de | relay-client-c03.iocnt.net |
 | data-e81f9554e5.willhaben.at | relay-client-c03.iocnt.net |
 | data-e957dcbbbe.tele5.de | relay-client-c03.iocnt.net |
-| data-ea24093e1a.die-wirtschaft.at | relay-client-c03.iocnt.net |
 | data-ea81aa1271.derstandard.de | relay-client-c03.iocnt.net |
 | data-ebb08b8040.bildderfrau.de | relay-client-c03.iocnt.net |
-| data-ecb5249bb2.falter.at | relay-client-c03.iocnt.net |
-| data-ecb5249bb2.falter.at | relay-client-c03.iocnt.net |
 | data-ecd887c1d0.weser-kurier.de | relay-client-c03.iocnt.net |
 | data-ecd887c1d0.weser-kurier.de | relay-client-c03.iocnt.net |
 | data-ed1ee98a6c.arzt-atlas.de | relay-client-c03.iocnt.net |
@@ -2297,7 +2218,6 @@
 | data-ed1ee98a6c.portal-der-maenner.de | relay-client-c03.iocnt.net |
 | data-ed1ee98a6c.portal-der-orthopaedie.de | relay-client-c03.iocnt.net |
 | data-ed1ee98a6c.portal-der-psyche.de | relay-client-c03.iocnt.net |
-| data-ed1ee98a6c.portal-der-schoenheit.de | relay-client-c03.iocnt.net |
 | data-ed1ee98a6c.portal-der-zahnmedizin.de | relay-client-c03.iocnt.net |
 | data-ed1ee98a6c.schoenheit-und-medizin.de | relay-client-c03.iocnt.net |
 | data-ed3fe893ba.springermedizin.at | relay-client-c03.iocnt.net |
@@ -2319,10 +2239,8 @@
 | data-f10a591664.caraworld.de | relay-client-c03.iocnt.net |
 | data-f10a591664.promobil.de | relay-client-c03.iocnt.net |
 | data-f16abe2047.daskochrezept.de | relay-client-c03.iocnt.net |
-| data-f1c47705fc.elite-magazin.de | relay-client-c03.iocnt.net |
 | data-f1c47705fc.profi.de | relay-client-c03.iocnt.net |
 | data-f1c47705fc.susonline.de | relay-client-c03.iocnt.net |
-| data-f1c47705fc.topagrar.com | relay-client-c03.iocnt.net |
 | data-f1c47705fc.topagrar.com | relay-client-c03.iocnt.net |
 | data-f1c47705fc.topagrar.de | relay-client-c03.iocnt.net |
 | data-f1c47705fc.topagrar.pl | relay-client-c03.iocnt.net |
@@ -2364,7 +2282,6 @@
 | data-f1e447fbcf.herbstfest-rosenheim.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.hersfelder-zeitung.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.hna.de | relay-client-c03.iocnt.net |
-| data-f1e447fbcf.hna.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.homeofsports.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.idcdn.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.ingame.de | relay-client-c03.iocnt.net |
@@ -2398,7 +2315,7 @@
 | data-f1e447fbcf.soester-anzeiger.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.suedwest24.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.torgranate.de | relay-client-c03.iocnt.net |
-| data-f1e447fbcf.trauer.nrw | relay-client-c03.iocnt.net |
+| data-f1e447fbcf.tz.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.tz.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.usinger-anzeiger.de | relay-client-c03.iocnt.net |
 | data-f1e447fbcf.volksfest-freising.de | relay-client-c03.iocnt.net |
@@ -2420,14 +2337,9 @@
 | data-f59db3288b.24books.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.24garten.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.24hamburg.de | relay-client-c03.iocnt.net |
-| data-f59db3288b.24rhein.de | relay-client-c03.iocnt.net |
-| data-f59db3288b.24rhein.de | relay-client-c03.iocnt.net |
-| data-f59db3288b.24royal.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.24sport.de | relay-client-c03.iocnt.net |
-| data-f59db3288b.24vita.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.absolutfussball.com | relay-client-c03.iocnt.net |
 | data-f59db3288b.az-online.de | relay-client-c03.iocnt.net |
-| data-f59db3288b.baden24.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.bgland24.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.bgland24.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.bgland24.tv | relay-client-c03.iocnt.net |
@@ -2451,10 +2363,10 @@
 | data-f59db3288b.fuldaerzeitung.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.fupa.net | relay-client-c03.iocnt.net |
 | data-f59db3288b.fussball.news | relay-client-c03.iocnt.net |
+| data-f59db3288b.fussball.news | relay-client-c03.iocnt.net |
 | data-f59db3288b.giessener-allgemeine.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.giessener-anzeiger.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.hallo-eltern.de | relay-client-c03.iocnt.net |
-| data-f59db3288b.hallo-muenchen.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.hanauer.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.heidelberg24.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.herbstfest-rosenheim.de | relay-client-c03.iocnt.net |
@@ -2463,12 +2375,9 @@
 | data-f59db3288b.homeofsports.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.idcdn.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.ingame.de | relay-client-c03.iocnt.net |
-| data-f59db3288b.ingame.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.inn-salzach24.tv | relay-client-c03.iocnt.net |
 | data-f59db3288b.innsalzach24.de | relay-client-c03.iocnt.net |
-| data-f59db3288b.ippen.media | relay-client-c03.iocnt.net |
 | data-f59db3288b.kreis-anzeiger.de | relay-client-c03.iocnt.net |
-| data-f59db3288b.kreisbote.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.kreisbote.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.kreiszeitung.de | relay-client-c03.iocnt.net |
 | data-f59db3288b.kurierverlag.de | relay-client-c03.iocnt.net |
@@ -2518,7 +2427,6 @@
 | data-f6693670bf.sn.at | relay-client-c03.iocnt.net |
 | data-f7c9c12653.sachsen-fernsehen.de | relay-client-c03.iocnt.net |
 | data-f943e74ec9.bz-berlin.de | relay-client-c03.iocnt.net |
-| data-f943e74ec9.bz-berlin.de | relay-client-c03.iocnt.net |
 | data-fa2c5597f6.cavallo.de | relay-client-c03.iocnt.net |
 | data-fa2c5597f6.elektrobike-online.com | relay-client-c03.iocnt.net |
 | data-fa2c5597f6.roadbike.de | relay-client-c03.iocnt.net |
@@ -2526,8 +2434,6 @@
 | data-fa2d848059.aachener-zeitung.de | relay-client-c03.iocnt.net |
 | data-fa2d848059.fupa.net | relay-client-c03.iocnt.net |
 | data-fb37a1e7c3.cannstatter-zeitung.de | relay-client-c03.iocnt.net |
-| data-fb37a1e7c3.esslinger-zeitung.de | relay-client-c03.iocnt.net |
-| data-fb37a1e7c3.esslinger-zeitung.de | relay-client-c03.iocnt.net |
 | data-fb37a1e7c3.frankenpost.de | relay-client-c03.iocnt.net |
 | data-fb37a1e7c3.frankenpost.de | relay-client-c03.iocnt.net |
 | data-fb37a1e7c3.insuedthueringen.de | relay-client-c03.iocnt.net |
@@ -2544,15 +2450,11 @@
 | data-fb37a1e7c3.stuttgarter-zeitung.de | relay-client-c03.iocnt.net |
 | data-fb37a1e7c3.verlagshaus-jaumann.de | relay-client-c03.iocnt.net |
 | data-fbb8842b89.chip.de | relay-client-c03.iocnt.net |
-| data-fbb8842b89.fitforfun.de | relay-client-c03.iocnt.net |
 | data-fbb8842b89.focus.de | relay-client-c03.iocnt.net |
-| data-fbb8842b89.focus.de | relay-client-c03.iocnt.net |
-| data-fbb8842b89.mylife.de | relay-client-c03.iocnt.net |
 | data-fbb8842b89.netdoktor.de | relay-client-c03.iocnt.net |
 | data-fbb8842b89.netdoktor.de | relay-client-c03.iocnt.net |
 | data-fbb8842b89.netmoms.de | relay-client-c03.iocnt.net |
 | data-fbd77ae9c0.np-coburg.de | relay-client-c03.iocnt.net |
-| data-fdf4690b14.jobmarkt-nrw.de | relay-client-c03.iocnt.net |
 | data-fdf4690b14.radiobochum.de | relay-client-c03.iocnt.net |
 | data-fdf4690b14.radioduisburg.de | relay-client-c03.iocnt.net |
 | data-fdf4690b14.radioemscherlippe.de | relay-client-c03.iocnt.net |
@@ -2564,25 +2466,21 @@
 | data-fdf4690b14.radiomuelheim.de | relay-client-c03.iocnt.net |
 | data-fdf4690b14.radiooberhausen.de | relay-client-c03.iocnt.net |
 | data-fdf4690b14.radiosauerland.de | relay-client-c03.iocnt.net |
-| data-fdf4690b14.trauer.de | relay-client-c03.iocnt.net |
+| data-fe32da0431.news.at | relay-client-c03.iocnt.net |
 | data-fe32da0431.news.at | relay-client-c03.iocnt.net |
 | data-fe34715c33.zi-online.info | relay-client-c03.iocnt.net |
-| data-fee2664334.petbook.de | relay-client-c03.iocnt.net |
 | data-ff6ba35ab1.cash-online.de | relay-client-c03.iocnt.net |
 | data-nl.tageskarte.io | relay-client-c03.iocnt.net |
-| www2.dk-online.de | relay-client-c03.iocnt.net |
-| data-0142dcfbcf.yacht.de | relay-client-c07.iocnt.net |
 | data-0186141170.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-019a21151c.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-01d50fd151.versicherungsjournal.de | relay-client-c07.iocnt.net |
-| data-01d50fd151.versicherungsjournal.de | relay-client-c07.iocnt.net |
 | data-0282cb9d1f.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-02f97b9d87.apps.iocnt.de | relay-client-c07.iocnt.net |
-| data-038ae8f760.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-03dc2421cd.sup-mag.de | relay-client-c07.iocnt.net |
 | data-03dc2421cd.surf-magazin.de | relay-client-c07.iocnt.net |
 | data-047bac5814.wissenschaft.de | relay-client-c07.iocnt.net |
 | data-048d215ebe.haustec.de | relay-client-c07.iocnt.net |
+| data-051302072f.gabler.de | relay-client-c07.iocnt.net |
 | data-051302072f.gabler.de | relay-client-c07.iocnt.net |
 | data-05f15c0145.runnersworld.de | relay-client-c07.iocnt.net |
 | data-0622b98dbe.apps.iocnt.de | relay-client-c07.iocnt.net |
@@ -2604,6 +2502,7 @@
 | data-12cf56a65f.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-130016e017.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-189b3ff7e9.apps.iocnt.de | relay-client-c07.iocnt.net |
+| data-189b3ff7e9.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-1b488c21c4.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-1b8b21e54b.speedweek.com | relay-client-c07.iocnt.net |
 | data-1b8b21e54b.speedweek.de | relay-client-c07.iocnt.net |
@@ -2620,7 +2519,6 @@
 | data-26457755f1.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-27183e6c59.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-2732fcab6f.aero.de | relay-client-c07.iocnt.net |
-| data-2732fcab6f.aero.de | relay-client-c07.iocnt.net |
 | data-2732fcab6f.aerokurier.de | relay-client-c07.iocnt.net |
 | data-2732fcab6f.flugrevue.de | relay-client-c07.iocnt.net |
 | data-28d1f65bc5.bnn.de | relay-client-c07.iocnt.net |
@@ -2632,17 +2530,14 @@
 | data-4591916fcd.hanser-fachverlag.de | relay-client-c07.iocnt.net |
 | data-46b11f8fc4.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-4aed862c71.apps.iocnt.de | relay-client-c07.iocnt.net |
-| data-50b219a31f.btc-echo.de | relay-client-c07.iocnt.net |
 | data-54a2358d26.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-572c83e731.motorsport-total.com | relay-client-c07.iocnt.net |
-| data-572c83e731.motorsport-total.com | relay-client-c07.iocnt.net |
 | data-57ee451953.apps.iocnt.de | relay-client-c07.iocnt.net |
-| data-57ee451953.apps.iocnt.de | relay-client-c07.iocnt.net |
+| data-588cbce106.springerprofessional.de | relay-client-c07.iocnt.net |
 | data-5e25716aa5.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-5f67d653dd.si-shk.de | relay-client-c07.iocnt.net |
 | data-6078195ae2.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-63224ea7ba.apps.iocnt.de | relay-client-c07.iocnt.net |
-| data-63798c78f2.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-6416365902.sbz-online.de | relay-client-c07.iocnt.net |
 | data-664e19af6d.11freunde.de | relay-client-c07.iocnt.net |
 | data-6b50f0ba60.apps.iocnt.de | relay-client-c07.iocnt.net |
@@ -2670,7 +2565,6 @@
 | data-92cc871c16.glaswelt.de | relay-client-c07.iocnt.net |
 | data-93d70fad98.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-94d154970c.boersenblatt.net | relay-client-c07.iocnt.net |
-| data-962cccd9c4.erneuerbareenergien.de | relay-client-c07.iocnt.net |
 | data-96981b4ea8.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-9a1ff0f093.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-9a84c04ecb.meintophotel.de | relay-client-c07.iocnt.net |
@@ -2678,6 +2572,7 @@
 | data-9d5ca866eb.baunetz-architekten.de | relay-client-c07.iocnt.net |
 | data-9d5ca866eb.baunetz-campus.de | relay-client-c07.iocnt.net |
 | data-9d5ca866eb.baunetz-id.de | relay-client-c07.iocnt.net |
+| data-9d5ca866eb.baunetz.de | relay-client-c07.iocnt.net |
 | data-9d5ca866eb.baunetz.de | relay-client-c07.iocnt.net |
 | data-9d5ca866eb.baunetzwissen.de | relay-client-c07.iocnt.net |
 | data-9e4ff1c91f.wz-plus.de | relay-client-c07.iocnt.net |
@@ -2709,6 +2604,7 @@
 | data-b4d5de22d2.auto-motor-und-sport.de | relay-client-c07.iocnt.net |
 | data-b4d5de22d2.auto-motor-und-sport.de | relay-client-c07.iocnt.net |
 | data-b4d5de22d2.mehr-tanken.de | relay-client-c07.iocnt.net |
+| data-b4df3518e0.haustec.de | relay-client-c07.iocnt.net |
 | data-b622eb90d0.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-b629679828.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-b7d0b4217b.autoscout24.bg | relay-client-c07.iocnt.net |
@@ -2731,6 +2627,7 @@
 | data-c626b9efa7.versicherungsmagazin.de | relay-client-c07.iocnt.net |
 | data-c7fa2f50f1.photovoltaik.eu | relay-client-c07.iocnt.net |
 | data-c835a62a97.runnersworld.de | relay-client-c07.iocnt.net |
+| data-c835a62a97.runnersworld.de | relay-client-c07.iocnt.net |
 | data-ca858d8740.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-cc21ca250f.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-ccadb8b6f3.apps.iocnt.de | relay-client-c07.iocnt.net |
@@ -2743,6 +2640,7 @@
 | data-cd0b4bd19f.webauto.de | relay-client-c07.iocnt.net |
 | data-ce0e6fdeb3.apps.iocnt.de | relay-client-c07.iocnt.net |
 | data-ce0e6fdeb3.apps.iocnt.de | relay-client-c07.iocnt.net |
+| data-ce326d00f8.aero.de | relay-client-c07.iocnt.net |
 | data-ce326d00f8.aero.de | relay-client-c07.iocnt.net |
 | data-ce326d00f8.aerokurier-markt.de | relay-client-c07.iocnt.net |
 | data-ce326d00f8.aerokurier.de | relay-client-c07.iocnt.net |
@@ -2777,9 +2675,7 @@
 | data-e9439b5f81.hellwegeranzeiger.de | relay-client-c07.iocnt.net |
 | data-e9439b5f81.hertener-allgemeine.de | relay-client-c07.iocnt.net |
 | data-e9439b5f81.marler-zeitung.de | relay-client-c07.iocnt.net |
-| data-e9439b5f81.muensterlandzeitung.de | relay-client-c07.iocnt.net |
 | data-e9439b5f81.recklinghaeuser-zeitung.de | relay-client-c07.iocnt.net |
-| data-e9439b5f81.ruhrnachrichten.de | relay-client-c07.iocnt.net |
 | data-e9439b5f81.stimberg-zeitung.de | relay-client-c07.iocnt.net |
 | data-e9439b5f81.waltroper-zeitung.de | relay-client-c07.iocnt.net |
 | data-e95444b6e0.apps.iocnt.de | relay-client-c07.iocnt.net |
@@ -2810,20 +2706,19 @@
 | data-fe7ee41789.apps.iocnt.de | relay-client-c07.iocnt.net |
 | acsam-relay.ivwonline.org | relay-client.iocnt.net |
 | report.oewa.at | reportoewa-at.iocnt.net |
+| data-02d6c01d72.rga.de | rgaonl-relay.iocnt.net |
+| data-f2fef0ab45.rhoenundsaalepost.de | rhosaale-relay.iocnt.net |
 | data-b80f3dd5d8.rnz.de | rnzonl-relay.iocnt.net |
 | data-b80f3dd5d8.rnz.de | rnzonl-relay.iocnt.net |
 | data-45798f2697.rheinpfalz.de | ron-relay.iocnt.net |
 | data-45798f2697.rheinpfalz.de | ron-relay.iocnt.net |
 | data-497ecca600.ga.de | rponl-relay.iocnt.net |
+| data-497ecca600.ga.de | rponl-relay.iocnt.net |
 | data-497ecca600.rp-online.de | rponl-relay.iocnt.net |
 | data-497ecca600.saarbruecker-zeitung.de | rponl-relay.iocnt.net |
-| data-497ecca600.saarbruecker-zeitung.de | rponl-relay.iocnt.net |
 | data-497ecca600.volksfreund.de | rponl-relay.iocnt.net |
-| data-497ecca600.wuppertaler-rundschau.de | rponl-relay.iocnt.net |
 | data-3ca7289259.rtlradio.de | rtlluxem-relay.iocnt.net |
 | data-e9439b5f81.ruhrnachrichten.de | ruhrnari-relay.iocnt.net |
-| data-e9439b5f81.ruhrnachrichten.de | ruhrnari-relay.iocnt.net |
-| data-31c137b707.sanitaerjournal.de | sanitaer-relay.iocnt.net |
 | data-06e3bb70c5.bibkatalog.de | sarcdbsgs001.iocnt.net |
 | data-06e3bb70c5.th-ab.de | sarcdbsgs001.iocnt.net |
 | data-0740a1e851.stadtbibliothek-rostock.de | sarcdbsgs001.iocnt.net |
@@ -2841,7 +2736,6 @@
 | data-397bf6a16b.stadtbibliothek-bielefeld.de | sarcdbsgs001.iocnt.net |
 | data-4d32f71c16.stadtbuecherei-nuertingen.de | sarcdbsgs001.iocnt.net |
 | data-584ddcd14e.verl.de | sarcdbsgs001.iocnt.net |
-| data-5ad053d069.kempten.de | sarcdbsgs001.iocnt.net |
 | data-5cc6bee9f2.tu-dortmund.de | sarcdbsgs001.iocnt.net |
 | data-6e7c6d8d31.winbiap.net | sarcdbsgs001.iocnt.net |
 | data-7198dfe960.meduniwien.ac.at | sarcdbsgs001.iocnt.net |
@@ -2856,7 +2750,6 @@
 | data-8ec206415a.zdb-katalog.de | sarcdbsgs001.iocnt.net |
 | data-9453f66230.bergischgladbach.de | sarcdbsgs001.iocnt.net |
 | data-9453f66230.stadtbuecherei-gl.de | sarcdbsgs001.iocnt.net |
-| data-9c7a4ab91a.marktredwitz.de | sarcdbsgs001.iocnt.net |
 | data-a2557095eb.wilhelmshaven.de | sarcdbsgs001.iocnt.net |
 | data-a47d9423c7.esslingen.de | sarcdbsgs001.iocnt.net |
 | data-adb7e5fd38.pfennigparade.de | sarcdbsgs001.iocnt.net |
@@ -2878,25 +2771,28 @@
 | data-fc37ed291d.bruchkoebel.de | sarcdbsgs001.iocnt.net |
 | data-fc37ed291d.stadtbibliothek-bruchkoebel.de | sarcdbsgs001.iocnt.net |
 | data-4754325bf6.scinexx.de | scinexx-relay.iocnt.net |
-| data-70f37c510a.jobs-im-suedwesten.de | skol-relay.iocnt.net |
-| data-70f37c510a.suedkurier.de | skol-relay.iocnt.net |
+| data-bab9a31794.shz.de | shz-relay.iocnt.net |
+| data-c958fdb0ad.sk-one.de | skone-relay.iocnt.net |
 | data-1b8b21e54b.speedweek.com | speedwee-relay.iocnt.net |
 | data-1b8b21e54b.speedweek.eu | speedwee-relay.iocnt.net |
+| data-597aebc8e1.daznservices.com | spoxcom-relay.iocnt.net |
 | data-b35e28a5a5.springermedizin.de | sprimedi-relay.iocnt.net |
-| data-b35e28a5a5.springermedizin.de | sprimedi-relay.iocnt.net |
+| data-588cbce106.springerprofessional.de | spriprof-relay.iocnt.net |
 | data-b8587f1b76.stimme.de | stimme-relay.iocnt.net |
+| data-ac3d45df06.sueddeutsche.de | sueddeut-relay.iocnt.net |
+| data-80d2d17df3.berchtesgadener-anzeiger.de | suedostn-relay.iocnt.net |
 | data-80d2d17df3.traunsteiner-tagblatt.de | suedostn-relay.iocnt.net |
-| data-97d159685e.szbz.de | szbzde-relay.iocnt.net |
 | data-8d3bec589f.schwaebische.de | szon-relay.iocnt.net |
 | data-8d3bec589f.schwaebische.de | szon-relay.iocnt.net |
 | data-f6d2ad6f1b.t3n.de | t3n-relay.iocnt.net |
+| data-718a2dc909.tageblatt.de | tagblatt-relay.iocnt.net |
 | data-718a2dc909.tageblatt.de | tagblatt-relay.iocnt.net |
 | data-2cfc77297e.tagesspiegel.de | tagspieg-relay.iocnt.net |
 | data-7a534833b2.techbook.de | techbook-relay.iocnt.net |
 | data-01e876a345.tichyseinblick.de | tichyein-relay.iocnt.net |
 | data-501446ac98.stayfriends.de | toi-relay.iocnt.net |
+| data-501446ac98.stayfriends.de | toi-relay.iocnt.net |
 | data-501446ac98.t-online.de | toi-relay.iocnt.net |
-| data-f1c47705fc.profi.de | topagrar-relay.iocnt.net |
 | data-f1c47705fc.topagrar.com | topagrar-relay.iocnt.net |
 | data-af9be266ee.tour-magazin.de | tourmag-relay.iocnt.net |
 | data-8b242b85ce.textilwirtschaft.de | twnetde-relay.iocnt.net |
@@ -2905,19 +2801,23 @@
 | data-84bc7eaa45.vodafonemail.de | vodafone-relay.iocnt.net |
 | vorausweisung.report.oewa.at | vorausweisungoewa-at.iocnt.net |
 | wp-test.infonline.de | vtestgs001.iocnt.net |
-| data-0dc128409f.watchtime.net | watchtim-relay.iocnt.net |
 | data-4190908d67.watson.de | watson-relay.iocnt.net |
 | data-c128cec8f4.wnoz.de | weinheim-relay.iocnt.net |
+| data-99329e3cb2.musikexpress.de | welt-relay.iocnt.net |
 | data-99329e3cb2.rollingstone.de | welt-relay.iocnt.net |
 | data-99329e3cb2.rollingstone.de | welt-relay.iocnt.net |
 | data-99329e3cb2.welt.de | welt-relay.iocnt.net |
-| data-524af4397a.worldfootball.net | weltfuss-relay.iocnt.net |
 | data-deb04a4388.westfalen-blatt.de | westblat-relay.iocnt.net |
+| data-16d7ec9a30.immomarkt.ms | westnach-relay.iocnt.net |
+| data-16d7ec9a30.trauer.ms | westnach-relay.iocnt.net |
 | data-16d7ec9a30.trauer.ms | westnach-relay.iocnt.net |
 | data-16d7ec9a30.wn.de | westnach-relay.iocnt.net |
 | data-9f426096e1.wz-net.de | wznet-relay.iocnt.net |
+| data-9f426096e1.wz-net.de | wznet-relay.iocnt.net |
 | data-9e4ff1c91f.wz.de | wznews-relay.iocnt.net |
+| data-0142dcfbcf.yacht.de | yachtde-relay.iocnt.net |
 | data-2b76ef50e8.zdf.de | zdftagma-relay.iocnt.net |
+| data-d4db30a18b.ga-online.de | zgo-relay.iocnt.net |
 | data-d4db30a18b.on-online.de | zgo-relay.iocnt.net |
 | data-d4db30a18b.oz-online.de | zgo-relay.iocnt.net |
 | data-4fa18eb5e3.zvw.de | zvw-relay.iocnt.net |

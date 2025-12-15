@@ -154,7 +154,6 @@
 ||refer.akcpetinsurance.com^
 ||refer.allenedmonds.com^
 ||refer.amctheatres.com^
-||refer.americaneagle.org^
 ||refer.americanmusical.com^
 ||refer.amerisleep.com^
 ||refer.andieswim.com^
@@ -292,7 +291,6 @@
 ||refer.laylasleep.com^
 ||refer.lemonaidhealth.com^
 ||refer.lendingclub.com^
-||refer.lendly.com^
 ||refer.lighthousecu.org^
 ||refer.lightstream.com^
 ||refer.littlepassports.com^

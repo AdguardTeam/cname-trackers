@@ -252,6 +252,7 @@
 ||10dkim1._domainkey.em.virtualcare.cvs.com^
 ||10dkim1._domainkey.mypharmacy.cvs.com^
 ||11dkim1._domainkey.biz.maxis.com.my^
+||12784.ftp-qa1.marketingcloudqaops.com^
 ||12807.sock-qa1.marketingcloudqaops.com^
 ||12dkim1._domainkey.alerts.cvs.com^
 ||12dkim1._domainkey.mc.hyundaiusa.com^
@@ -260,6 +261,7 @@
 ||13dkim1._domainkey.advancement.mcgill.ca^
 ||13dkim1._domainkey.comcast.com^
 ||13dkim1._domainkey.messaging.ultimateears.com^
+||14805.connector-qa1.marketingcloudqaapis.com^
 ||15920.connector-qa1.marketingcloudqaapis.com^
 ||16105.editor-qa1.marketingcloudqaapis.com^
 ||16283.editor-qa1.marketingcloudqaapis.com^
@@ -269,6 +271,7 @@
 ||200608._domainkey.news.kiehls.com.my^
 ||25882.ftp-qa1.marketingcloudqaops.com^
 ||27935.connector-qa1.marketingcloudqaapis.com^
+||30083.editor-qa1.marketingcloudqaapis.com^
 ||30619.ftp-qa1.marketingcloudqaops.com^
 ||3815.sock-qa1.marketingcloudqaops.com^
 ||3851.sock-qa1.marketingcloudqaops.com^
@@ -278,12 +281,14 @@
 ||51dkim1._domainkey.communication.talabat.com^
 ||51dkim1._domainkey.info-ch.genesis.com^
 ||51dkim1._domainkey.info-de.genesis.com^
+||7629.editor-qa1.marketingcloudqaapis.com^
 ||7974.sfap-qa1.marketingcloudqaops.com^
 ||8410.ftp-qa1.marketingcloudqaops.com^
 ||bitbucket.click.s11.sfmc-osl.com^
 ||cl.hotels.exactt.net^
 ||click-cre.capitalone.com^
 ||click-csf.capitalone.com^
+||click-tm.capitalone.com^
 ||click.aaacpmail.com^
 ||click.academic.cambridge.org^
 ||click.activate.urosario.edu.co^
@@ -304,6 +309,7 @@
 ||click.apacsfmc.roche.com^
 ||click.apply.gocoastguard.com^
 ||click.aruba.mail.hpe.com^
+||click.autofinance-email.com^
 ||click.awremail.com^
 ||click.bbcshop.bbc.com^
 ||click.bellacormail.com^
@@ -314,26 +320,27 @@
 ||click.boletimuol.com.br^
 ||click.bookdepoemail.com^
 ||click.bstrong-store.com^
+||click.btob-events.co.uk^
 ||click.bunnquality.com^
 ||click.c.coppel.com^
-||click.c.shoppersdrugmart.ca^
 ||click.c.surveys.usaa.com^
 ||click.campaign.compliance4alllearning.com^
 ||click.campaign.gcplearning.com^
 ||click.campaign.hrtraininngs.com^
 ||click.campaign.ittrainingsonline.com^
+||click.campaign.panelcompliance.com^
 ||click.campaign.simplivlearning.co^
 ||click.campaign.trainhealthonline.com^
 ||click.campaign.trainhrlearning.com^
 ||click.campaign.webinarhealth.com^
 ||click.campaigner.eventiaco.com^
 ||click.campaigner.trainingss.com^
+||click.campaigns.begrand.mx^
 ||click.campaigns.neckermann.be^
 ||click.campaigns.wltic.com^
 ||click.cardpointe.com^
 ||click.care.comcast.com^
 ||click.careers.enterprisemobility.com^
-||click.cbhscorporatehealthfund.com.au^
 ||click.cbsconnect.paramount.com^
 ||click.cc.casio.info^
 ||click.champion-america-email.com^
@@ -347,6 +354,7 @@
 ||click.clientes.unicaja.es^
 ||click.cloudninehospitals.com^
 ||click.cm.mountain-shop.com^
+||click.cm.salewa.com^
 ||click.comm.metropolisindia.net^
 ||click.comm.priceline.com.au^
 ||click.commercialbank.bankofamerica.com^
@@ -368,8 +376,8 @@
 ||click.communications.nuffieldfoundation.org^
 ||click.communications.risebroadband.com^
 ||click.communications.upsstore.com^
-||click.community.janegoodall.org^
 ||click.comunicacao.suhaiseguradora.com^
+||click.comunicacao.valor.com.br^
 ||click.comunicaciones.epssanitas.com^
 ||click.comunicaciones.gruporecordar.com.co^
 ||click.comunicaciones.patrimonionacional.es^
@@ -393,6 +401,7 @@
 ||click.contacto.tec.mx^
 ||click.contacto.tumomento.com^
 ||click.contacto.volkswagen.mx^
+||click.contactosuperxtra.com^
 ||click.contactvauxhall.co.uk^
 ||click.contato.oqvestir.com.br^
 ||click.convoymarketing-email.com^
@@ -424,10 +433,10 @@
 ||click.digital.positiva.gov.co^
 ||click.dipmail5.baitoru.com^
 ||click.directa.buenosaires.gob.ar^
-||click.discover.availity.com^
 ||click.discover.nyit.edu^
 ||click.divulga.mktsebrae.com.br^
 ||click.doctorsonly-email.com^
+||click.documentsservice-thehartford.com^
 ||click.doemails.scotiabank.com^
 ||click.dr.oe.target.com^
 ||click.drivers-toyotaims.com^
@@ -445,8 +454,6 @@
 ||click.e.dantaxi.dk^
 ||click.e.envisionhealth.com^
 ||click.e.finishinfo.com^
-||click.e.foxtel.com.au^
-||click.e.gifts.com^
 ||click.e.gktw.org^
 ||click.e.guideinvestimentos.com.br^
 ||click.e.harpercollege.edu^
@@ -478,7 +485,6 @@
 ||click.e.pennstatehealth.psu.edu^
 ||click.e.producernews.metlife.com^
 ||click.e.rivian.com^
-||click.e.saltairspa.com.au^
 ||click.e.scheels.com^
 ||click.e.seagen.com^
 ||click.e.spotpetins.com^
@@ -495,6 +501,7 @@
 ||click.edu.cpaacademy.org^
 ||click.efamilydollar.com^
 ||click.eiis-education.eu^
+||click.elcompanies.com^
 ||click.em-dreamdinners.com^
 ||click.em-sel.sel.sony.com^
 ||click.em.activision.com^
@@ -521,6 +528,7 @@
 ||click.em.tiendasmass.com.pe^
 ||click.em.utdallas.edu^
 ||click.em.vitalaire.com.br^
+||click.em.waterpik.com^
 ||click.em.writermag.com^
 ||click.em2.assurant.com^
 ||click.email-aarpdentalplan.com^
@@ -535,7 +543,6 @@
 ||click.email-juicycouture.com^
 ||click.email-kinglasikcanada.ca^
 ||click.email-landolakes.com^
-||click.email-lasikmd.com^
 ||click.email-leanintree.com^
 ||click.email-lge.com^
 ||click.email-luckybrand.com^
@@ -602,10 +609,12 @@
 ||click.email.claytonhomes.com^
 ||click.email.clubchampiongolf.com^
 ||click.email.collecting.com^
+||click.email.coursera.org^
 ||click.email.creditfresh.com^
 ||click.email.cruisecritic.co.uk^
 ||click.email.cruisecritic.com^
 ||click.email.ct.hearstdigitalnews.com^
+||click.email.cuponation.com^
 ||click.email.davidjones.com.au^
 ||click.email.deltadentalnj.com^
 ||click.email.dewalt.com.au^
@@ -665,6 +674,7 @@
 ||click.email.latimes.com^
 ||click.email.laurelroad.com^
 ||click.email.lawson.jp^
+||click.email.ldschurch.org^
 ||click.email.lg-argentina.com^
 ||click.email.lifetimefitness.com^
 ||click.email.lunii.com^
@@ -702,7 +712,9 @@
 ||click.email.nycers.org^
 ||click.email.oka.com^
 ||click.email.onduo.com^
+||click.email.oporto.com.au^
 ||click.email.optumrx.com^
+||click.email.pamperedchef.com^
 ||click.email.partridgepublishing.com^
 ||click.email.patientfusion.com^
 ||click.email.patpat.com^
@@ -757,7 +769,6 @@
 ||click.email.tcmevents.org^
 ||click.email.telepass.com^
 ||click.email.theralogix.com^
-||click.email.theubiquegroup.com^
 ||click.email.ticketera.com^
 ||click.email.ticketmaster.it^
 ||click.email.ticketweb.com^
@@ -850,6 +861,7 @@
 ||click.franchisesales.upsstore.com^
 ||click.free2move-email.com^
 ||click.frl-research.facebookmail.com^
+||click.from.investinggovernance.com^
 ||click.gavleteater.com^
 ||click.gemcore-email.com^
 ||click.genetrixtech.org^
@@ -876,7 +888,6 @@
 ||click.hifk.tmmsg.com^
 ||click.hob.net.br^
 ||click.homedepotemail.com^
-||click.hometapmailma.kirin.co.jp^
 ||click.hoteltransamerica.com.br^
 ||click.hrsemail.services.conduent.com^
 ||click.htlmail.com^
@@ -978,7 +989,6 @@
 ||click.mail.ajga.org^
 ||click.mail.alltricks.com^
 ||click.mail.almustafatrust.org^
-||click.mail.asseditoraglobo.com.br^
 ||click.mail.baars-bloemhoff.nl^
 ||click.mail.bbvacontinental.pe^
 ||click.mail.bl.leeds.ac.uk^
@@ -1050,12 +1060,12 @@
 ||click.mail2.fotolivro.com.br^
 ||click.mail5.spokeo.com^
 ||click.mailclubcruzverde.com.co^
+||click.mailer.23andme.com^
 ||click.mailer.airmusictech.com^
 ||click.mailer.atlassian.com^
 ||click.mailer.coventry.com^
 ||click.mailer.denondj.com^
 ||click.mailer.har.com^
-||click.mailer.hoteltonight.com^
 ||click.mailer.mojo.nl^
 ||click.mailer.sgcarmart.com^
 ||click.mailing-globtrex.com^
@@ -1159,8 +1169,6 @@
 ||click.mkt.visual.com.mx^
 ||click.mktcld.salesforce.com^
 ||click.mktg.drivetime.com^
-||click.mm.cledepeau-beaute.com^
-||click.mm.narscosmetics.jp^
 ||click.mortgage.53.com^
 ||click.mortgage.arvest.com^
 ||click.ms.aboardtheworld.com^
@@ -1173,6 +1181,7 @@
 ||click.myoffers.verizonwireless.com^
 ||click.myrjlig.com^
 ||click.mytrips.americanexpress.com^
+||click.n.ebookers.com^
 ||click.na.burton.com^
 ||click.nanaco-net.jp^
 ||click.neopostcommunications.com^
@@ -1289,6 +1298,7 @@
 ||click.privilege.mymesra.com.my^
 ||click.proequitiesemail.com^
 ||click.program-mail.grohe.com^
+||click.projectechocomms.iecho.org^
 ||click.promocionesoh.pe^
 ||click.promos.codere.mx^
 ||click.promotions.hertz.com^
@@ -1332,7 +1342,6 @@
 ||click.response2.bestbuy.com^
 ||click.rewardpoints.53.com^
 ||click.rewardzonecerts2.bestbuy.com^
-||click.rimsmail.tr.mufg.jp^
 ||click.rnareset-email.com^
 ||click.ro.mercedes-benz.eu^
 ||click.rocventures-email.com^
@@ -1352,6 +1361,7 @@
 ||click.sc.hks.harvard.edu^
 ||click.seatdemexico.com^
 ||click.seekmedicareservices.com^
+||click.seiumemberbenefits.com^
 ||click.sej.co.jp^
 ||click.selectshops-email.ca^
 ||click.send.grammarly.com^
@@ -1480,6 +1490,7 @@
 ||click.unitedhealthcare-hmhb.com^
 ||click.upaep-email.mx^
 ||click.update.lieferservice.at^
+||click.updates.funko.com^
 ||click.updates.privatemoneygoldmine.com^
 ||click.updates.radicava.com^
 ||click.updates.tea.texas.gov^
@@ -1736,7 +1747,6 @@
 ||cloud.email.damafinancial.com^
 ||cloud.email.dead.net^
 ||cloud.email.decathlon.com^
-||cloud.email.dickies.com^
 ||cloud.email.donauzentrum.at^
 ||cloud.email.dubaifuture.ae^
 ||cloud.email.ducasse-paris.com^
@@ -1865,7 +1875,6 @@
 ||cloud.hrmotor.net^
 ||cloud.htlmail.com^
 ||cloud.i.studyonline.rmit.edu.au^
-||cloud.india.stellantis.com^
 ||cloud.infinox-email.com^
 ||cloud.info-lantheus.com^
 ||cloud.info.avancecare.com^
@@ -2208,7 +2217,6 @@
 ||email.gruslabs.com^
 ||email.mtdproducts.ca^
 ||email.news-press.com^
-||email.tenthousandvillages.com^
 ||enews.bnpmedia.com^
 ||flink.click.s11.sfmc-osl.com^
 ||followup.axa.co.jp^
@@ -2255,7 +2263,6 @@
 ||mc.pldthome.com^
 ||mkt.gitlab.cn^
 ||mta.info.cotc.edu^
-||ns1.etarget.mamotorworks.com^
 ||out-globalid3.click.s11.sfmc-osl.com^
 ||page.e.moneris.com^
 ||page.email.ally.com^
@@ -2529,7 +2536,6 @@
 ||pages.e.smuckers.com^
 ||pages.e.starbucks.com.mx^
 ||pages.e.themobileshop.ca^
-||pages.e.thenorthface.com^
 ||pages.e.thrivent.com^
 ||pages.e.tntsupermarket.com^
 ||pages.e.travelocity.ca^
@@ -2562,6 +2568,8 @@
 ||pages.edm.colonialfirststate.com.au^
 ||pages.edm.theage.com.au^
 ||pages.ee.delta.com^
+||pages.eg.cheaptickets.com^
+||pages.eg.ebookers.com^
 ||pages.eg.orbitz.com^
 ||pages.eg.wotif.com^
 ||pages.egmkt.lge.com^
@@ -2590,6 +2598,7 @@
 ||pages.em.northwesternmutual.com^
 ||pages.em.outrigger.com^
 ||pages.em.pepsico.com^
+||pages.em.perkins.com^
 ||pages.em.utdallas.edu^
 ||pages.em.virtualcare.cvs.com^
 ||pages.em.vrt.be^
@@ -3046,7 +3055,6 @@
 ||pages.mail.expat.hsbc.com^
 ||pages.mail.farmers.com^
 ||pages.mail.gerbergear.com^
-||pages.mail.heartmath.com^
 ||pages.mail.hipages.com.au^
 ||pages.mail.homemadesimple.com^
 ||pages.mail.hoteis.com^
@@ -3908,7 +3916,6 @@
 ||tlnwjr0vf3ysf-rrd2mwlttbstb4.view-sap.sfmc-marketing.com^
 ||tlnx5m-5ryhc3drpdr3j73kxdpn4.view-sap.sfmc-marketing.com^
 ||tlnyb2wxv4h4kfz4lhnng3jjw3h0.click-sap.sfmc-marketing.com^
-||tlp5022rslxsy0n35wvk5jm8y5lq.view-sap.sfmc-marketing.com^
 ||tlph6g44b9jk5cq4978l9svcjwdm.click-sap.sfmc-marketing.com^
 ||tlphb7939hn2mb24kd9hrtcghgfy.view-sap.sfmc-marketing.com^
 ||tlpn9q-zzx25r6lh9s67v1v57yry.click-sap.sfmc-marketing.com^
@@ -4472,7 +4479,6 @@
 ||view.email-knkx.org^
 ||view.email-landolakes.com^
 ||view.email-larocavillage.com^
-||view.email-lasikmd.com^
 ||view.email-lasrozasvillage.com^
 ||view.email-lavalleevillage.com^
 ||view.email-leanintree.com^
@@ -5232,7 +5238,6 @@
 ||view.letterfrompetplan.com^
 ||view.level.centralmediacsoport.hu^
 ||view.lilly-email.com^
-||view.links-mail.com^
 ||view.linksys-email.com^
 ||view.list.lonelyplanet.com^
 ||view.lkqheavytruck-email.com^
@@ -5404,7 +5409,6 @@
 ||view.mail.tiendamolinos.com^
 ||view.mail.toyotafinancial.com^
 ||view.mail.tripbeat.com^
-||view.mail.txu.com^
 ||view.mail.uwcsea.edu.sg^
 ||view.mail.vidav.com.br^
 ||view.mail.virtualtrainings.co^
@@ -6341,9 +6345,11 @@
 ||click.autos.myhonda.com.br^
 ||click.buggy.motordlr.com^
 ||click.business-email.gmu.edu^
+||click.c.shoppersdrugmart.ca^
 ||click.campanhas.kinoplex.com.br^
 ||click.camshaft.motordlr.com^
 ||click.carriage.motordlr.com^
+||click.cbhscorporatehealthfund.com.au^
 ||click.ccg.nintendo.net^
 ||click.cciio-spidr.cms.gov^
 ||click.chainpump.motordlr.com^
@@ -6353,7 +6359,6 @@
 ||click.comercial-infoglobo.com.br^
 ||click.communication.ruelala.com^
 ||click.communications.trustpower.co.nz^
-||click.comunicacao.valor.com.br^
 ||click.comunicaciones.libertyseguros.com^
 ||click.connect.autovin.com^
 ||click.contact.alaska.edu^
@@ -6365,11 +6370,14 @@
 ||click.deutschebankwm.db.com^
 ||click.diesel.motordlr.com^
 ||click.digital.bankleumi.co.il^
+||click.discover.availity.com^
 ||click.e-vanguard.com.au^
 ||click.e.aldoshoes.com^
 ||click.e.asu.edu^
 ||click.e.carnet.vw.com^
 ||click.e.cda.nl^
+||click.e.foxtel.com.au^
+||click.e.gifts.com^
 ||click.e.libertytravel.com^
 ||click.e.lorealprofessionnel.com.au^
 ||click.e.msmode.com^
@@ -6408,13 +6416,11 @@
 ||click.email.just-eat.fr^
 ||click.email.kfc.fr^
 ||click.email.kortingscode.nl^
-||click.email.ldschurch.org^
 ||click.email.lomadee.com^
 ||click.email.lrp.com.tw^
 ||click.email.maxi-cosi.com^
 ||click.email.nau.edu^
 ||click.email.opentable.de^
-||click.email.oporto.com.au^
 ||click.email.pcplus.ca^
 ||click.email.psychiatry.org^
 ||click.email.pvhba.com^
@@ -6441,7 +6447,6 @@
 ||click.f37.fdautodealer.com^
 ||click.f38.fdautodealer.com^
 ||click.f39.fdautodealer.com^
-||click.f40.fdautodealer.com^
 ||click.flywheel.motordlr.com^
 ||click.fourcycle.motordlr.com^
 ||click.freestyleprovider.abbott.us^
@@ -6454,7 +6459,6 @@
 ||click.homestarfc-connect.com^
 ||click.imoveis.zapimoveis.com.br^
 ||click.induction.motordlr.com^
-||click.info.berkleynet.com^
 ||click.info.histoiredor.com^
 ||click.info.johnson.ca^
 ||click.info.lavalier.com^
@@ -6472,6 +6476,7 @@
 ||click.mag.bluenote.co.jp^
 ||click.magneto.motordlr.com^
 ||click.mail-us.pradabeauty.com^
+||click.mail.asseditoraglobo.com.br^
 ||click.mail.beautyforall.uy^
 ||click.mail.brands4friends.de^
 ||click.mail.cedyna.co.jp^
@@ -6486,13 +6491,13 @@
 ||click.mail.nintendo-europe.com^
 ||click.mail.nyxcosmetics.co^
 ||click.mail.pflege.de^
-||click.mail.playstation.com.cn^
 ||click.mail.tommy.com^
 ||click.mail.uwcsea.edu.sg^
 ||click.mail.wizsolucoes.com.br^
 ||click.mail03.travian.com^
 ||click.mail03.traviangames.com^
 ||click.mailer.fideliscare.org^
+||click.mailer.hoteltonight.com^
 ||click.mailer.kent.edu^
 ||click.mailing.telus.com^
 ||click.manifold.motordlr.com^
@@ -6509,6 +6514,7 @@
 ||click.messages.plymouth.edu^
 ||click.miniclipmail.com^
 ||click.mktmail.totvs.com.br^
+||click.mm.narscosmetics.jp^
 ||click.morning7.theskimm.com^
 ||click.motivafuels.com^
 ||click.motorcab.motordlr.com^
@@ -6544,6 +6550,7 @@
 ||click.renoaces-mail.com^
 ||click.reply.ien.com^
 ||click.reply.lexisnexis.com^
+||click.rimsmail.tr.mufg.jp^
 ||click.rotary.motordlr.com^
 ||click.salesforce.thaiunion.com^
 ||click.savoymiami-email.com^
@@ -6588,6 +6595,8 @@
 ||tlxx4sblp54ww1tntll6pxp489zm.click-sap.sfmc-marketing.com^
 ||click.contato.chamanopx.com^
 ||click.edm.samsonite.com.au^
+||click.f40.fdautodealer.com^
+||click.mail.playstation.com.cn^
 ||click.partnernewsemail.xerox.com^
 ||click.turbi.news^
 ||click.whs.questdiagnostics.com^

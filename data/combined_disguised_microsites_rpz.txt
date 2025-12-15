@@ -1,12 +1,12 @@
 ; Title: AdGuard CNAME disguised microsites list
 ; Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-; TimeUpdated: 2025-12-08T08:00:10+00:00
+; TimeUpdated: 2025-12-15T08:00:17+00:00
 ; Homepage: https://github.com/AdguardTeam/cname-trackers
 ;
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,7 +26,6 @@ $TTL 300
 039ff33996.ba2448462a.com CNAME .
 03rproxjqg5imz2-c.adkclicker.fr CNAME .
 040f090395.b76d324ae6.com CNAME .
-0436e447eb.bf4a39dfe0.com CNAME .
 0446b5647b.61847b1398.com CNAME .
 048ifc-88ww1n-5munyx9r-l9yy0yu.xhamsterlive.info CNAME .
 056.omg.adult CNAME .
@@ -210,7 +209,6 @@ $TTL 300
 100004113.collect.igodigital.com CNAME .
 100004118.collect.igodigital.com CNAME .
 100004290.collect.igodigital.com CNAME .
-100004434.collect.igodigital.com CNAME .
 100004437.collect.igodigital.com CNAME .
 100004442.collect.igodigital.com CNAME .
 100004512.collect.igodigital.com CNAME .
@@ -463,7 +461,6 @@ $TTL 300
 1libertaire.stripchats.io CNAME .
 1pgtvprzsdyakbf-p.adktrack32.xyz CNAME .
 1to1dialogue.thunderhead.com CNAME .
-20fff4ff2f.e2605341ca.com CNAME .
 21634aa7ae.2ba0f6361c.com CNAME .
 242.net-31.172.freestrip.chat CNAME .
 242.net-31.172.stripchatgirls.com CNAME .
@@ -478,7 +475,6 @@ $TTL 300
 27caae0237.5a8b835ce5.com CNAME .
 28.static.shemale.show CNAME .
 290405.xhamsterlive.info CNAME .
-29ab6fe859.658c9e9187.com CNAME .
 2ae1e74240.c29013edc2.com CNAME .
 2bmvvx5wsy7iqo3-p.adktrack30.xyz CNAME .
 2ce242283a.3aa2de320e.com CNAME .
@@ -487,7 +483,6 @@ $TTL 300
 2dbc658dbe.8888b3ac06.com CNAME .
 2e1aaa5ac9.3e1b245c19.com CNAME .
 2f32381512.3d19359f22.com CNAME .
-2f744850a9.4fcd77ec66.com CNAME .
 2hxji75mlx96dro-p.kmotrack.xyz CNAME .
 2jgbn9x8ozw60nj-p.adktrack37.xyz CNAME .
 2mcizfbqhuqzkys-c.adkoffer.fr CNAME .
@@ -508,7 +503,6 @@ $TTL 300
 3338dcd372.11ef3f3e0d.com CNAME .
 3382824cd3.46cccb1813.com CNAME .
 339e1113be.4f8ba4d7e8.com CNAME .
-357ceb3cef.289537e8c0.com CNAME .
 35a9d60d1d.808ba9fe3d.com CNAME .
 35f1f7129e.279a342278.com CNAME .
 37fde8ca0b.d603b6ccf0.com CNAME .
@@ -840,7 +834,6 @@ $TTL 300
 7akfvczdhzmrp5c-c.adkclicker.fr CNAME .
 7b04ae1dbf.bb1b9b8ea2.com CNAME .
 7b26070d7b.68d48e2725.com CNAME .
-7bdc97a611.469ccf55cc.com CNAME .
 7c9edd89e2.5fbc7e29cd.com CNAME .
 7efa876ad4.d0abc3646f.com CNAME .
 7fbe7b63e4.abfd9d8ecc.com CNAME .
@@ -871,7 +864,9 @@ $TTL 300
 8ql60l2kzjanitvc.internal.pov.acceldatasolutions.net CNAME .
 8uii.hot-india.com CNAME .
 9.cambaddies.com CNAME .
+9287e003c6.5e08c93d2d.com CNAME .
 9352c090d1.11a0ba1170.com CNAME .
+95056ac920.62d280f2c7.com CNAME .
 950cjmyvgerwpbv-c.unenoteunjour.fr CNAME .
 95cb7382fe.e6c5f295b4.com CNAME .
 96.net-31.172.stripchats.io CNAME .
@@ -937,6 +932,7 @@ a235.thetelegraph.com CNAME .
 a235.timesunion.com CNAME .
 a2d4bf2605.2042be5d8c.com CNAME .
 a2rhoet1piz5nd9-p.adktrack44.xyz CNAME .
+a34ce4695e.3af9d5efab.com CNAME .
 a3dyrqfccnzsjyt-c.adkoffre.fr CNAME .
 a536a1e335.52154cdd64.com CNAME .
 a614.al.com CNAME .
@@ -954,7 +950,6 @@ a7lashella.xham.live CNAME .
 a80f715848.b9103544dc.com CNAME .
 a8a7f3b120.d4797171fc.com CNAME .
 a8fa486953.b47114d926.com CNAME .
-a91a3eb601.68d4d1e771.com CNAME .
 a967080464.0da6b9c880.com CNAME .
 aa47e07c73.f85d290a92.com CNAME .
 aa884225ad.84747737e0.com CNAME .
@@ -1929,7 +1924,6 @@ b5ukp3l8fbzrein-p.bonnelectureatous.fr CNAME .
 b64.shemale.show CNAME .
 b71260c6e8.b6fbaf103c.com CNAME .
 b731055a61.20f70ba20b.com CNAME .
-b7bff12888.bbbe6e2472.com CNAME .
 b7d69916a8.425410f96b.com CNAME .
 b7ooagmievxajkf-p.akming.xyz CNAME .
 b895c86c17.ab8c7b1863.com CNAME .
@@ -2051,6 +2045,7 @@ br.mycamtv.com CNAME .
 br.nsfwlivechat.com CNAME .
 br.omg.adult CNAME .
 br.porndudecams.com CNAME .
+br.sexygirlspics.live CNAME .
 br.shemale.show CNAME .
 br.spankbanglive.com CNAME .
 br.stripchat.beeg.com CNAME .
@@ -2059,6 +2054,7 @@ br.stripchat.global CNAME .
 br.stripchat.org CNAME .
 br.stripchat.webcam CNAME .
 br.superchatlive.com CNAME .
+br.tiktits.com CNAME .
 br.us.superchat.live CNAME .
 br.vbr.omg.adult CNAME .
 br.xham.live CNAME .
@@ -2176,6 +2172,7 @@ comms.cigna.com.hk CNAME .
 comms.cigna.com.sg CNAME .
 comms.cigna.es CNAME .
 comms.cignaglobalhealth.com CNAME .
+communication.adpinfo.com CNAME .
 communication.proximus.be CNAME .
 communications.aquafold.com CNAME .
 communications.cigna.com CNAME .
@@ -2236,6 +2233,7 @@ conteudos.lp.deloittecomunicacao.com.br CNAME .
 cook.stripchat.global CNAME .
 cookie.amerigas.com CNAME .
 cookie.myamerigas.com CNAME .
+cookiejar.atea.no CNAME .
 cookies.siemens-advanta.com CNAME .
 cookies.siemens-healthineers.com CNAME .
 cookies.siemens.com CNAME .
@@ -2320,6 +2318,7 @@ d9eoyijbkjrxyl5-p.linkomo.fr CNAME .
 da.hotzcam.com CNAME .
 da.spankbanglive.com CNAME .
 da.stripchat.dk CNAME .
+da.stripchat.global CNAME .
 da.xham.live CNAME .
 da.xhlive.cam CNAME .
 da72088eb8.e424766a73.com CNAME .
@@ -2345,9 +2344,9 @@ de-de.siemensplmevents.com CNAME .
 de-go.experian.com CNAME .
 de.aznudelive.com CNAME .
 de.boyfriend.show CNAME .
+de.celebjihad.live CNAME .
 de.contact.alphabet.com CNAME .
 de.eronite.chat CNAME .
-de.hot-india.com CNAME .
 de.livecamlovetr.com CNAME .
 de.mycamtv.com CNAME .
 de.nsfwlivechat.com CNAME .
@@ -2362,6 +2361,7 @@ de.tklivechat.com CNAME .
 de.verintsystemsinc.com CNAME .
 de.xham.live CNAME .
 de.xhlive.cam CNAME .
+de.xhlive.net CNAME .
 de.xhlive.org CNAME .
 debi.xhlive.cam CNAME .
 decorex.ubm-events.com CNAME .
@@ -2477,7 +2477,6 @@ e39b870a84.d59419bbc9.com CNAME .
 e495ca26f4.3322885ad1.com CNAME .
 e4f2928e49.0c289f53bc.com CNAME .
 e50dc6ad27.ca7d0bd322.com CNAME .
-e5f4a975e1.379b3d01c3.com CNAME .
 e6499697e6.d97d3231b2.com CNAME .
 e6e3e5bd74.3ae7054c01.com CNAME .
 e791351c80.680642cdf3.com CNAME .
@@ -2531,7 +2530,9 @@ el.xham.live CNAME .
 el.xhlive.cam CNAME .
 elink.serasaexperian.com.br CNAME .
 ellechinacom.myavlive.com CNAME .
+eloqua-tracking.unity3d.com CNAME .
 eloqua-trackings.unity.com CNAME .
+eloqua-trackings.unity3d.com CNAME .
 eloqua.cadriamarketing.com CNAME .
 eloqua.gdlcouncil.org CNAME .
 eloqua.microfocus.com CNAME .
@@ -2557,6 +2558,7 @@ elq-ic01.content.tech CNAME .
 elq-trk.fullsail.edu CNAME .
 elq.ansible.com CNAME .
 elq.atlaslovestravel.com CNAME .
+elq.blackrock.com CNAME .
 elq.brightmine.com CNAME .
 elq.cirium.com CNAME .
 elq.efront.com CNAME .
@@ -2599,8 +2601,6 @@ elqtracking.strayer.edu CNAME .
 elqtracking.wearejust.co.uk CNAME .
 elqtrck.motor.no CNAME .
 elqtrk.cummins.com CNAME .
-elqtrk.ext.hp.com CNAME .
-elqtrk.hp.com CNAME .
 elqtrk.morningstar.com CNAME .
 elqtrk.morningstar.com.au CNAME .
 elqtrk.morningstar.it CNAME .
@@ -2672,6 +2672,7 @@ email-cm.jll.com.lk CNAME .
 email-cm.jll.com.ph CNAME .
 email-cm.jll.fr CNAME .
 email-cm.jll.nl CNAME .
+email-cm.jll.nz CNAME .
 email-cm.jll.pe CNAME .
 email-cm.jll.pt CNAME .
 email-cm.jll.ro CNAME .
@@ -2782,6 +2783,7 @@ es.stripchat.org CNAME .
 es.stripchatgirls.com CNAME .
 es.strp.chat CNAME .
 es.superchatlive.com CNAME .
+es.tiktits.com CNAME .
 es.tklivechat.com CNAME .
 es.tranny.show CNAME .
 es.xham.live CNAME .
@@ -2792,6 +2794,7 @@ esrnpzgbcb0tlvk-p.adkplan.fr CNAME .
 esrrkqouhf4dftn-c.clickomo.fr CNAME .
 esrrkqouhf4dftn-p.clickomo.fr CNAME .
 etc.lxhausys.com CNAME .
+etrack.ext.arubanetworks.com CNAME .
 etrack.ext.hpe.com CNAME .
 etscampaign.motorola.com CNAME .
 eu.cignaglobalhealth.com CNAME .
@@ -2951,6 +2954,7 @@ fr.stripchat.global CNAME .
 fr.stripchats.global CNAME .
 fr.superchat.live CNAME .
 fr.superchatlive.com CNAME .
+fr.tiktits.com CNAME .
 fr.xham.live CNAME .
 fr.xhlive.cam CNAME .
 francisconixon.myavlive.com CNAME .
@@ -3012,6 +3016,7 @@ go-response.thermofisher.com CNAME .
 go-stage.oracle.com CNAME .
 go.atosmedical.com CNAME .
 go.azets.fi CNAME .
+go.aznudelive.com CNAME .
 go.batsbaseball.com CNAME .
 go.biz.alabamapower.com CNAME .
 go.biz.mississippipower.com CNAME .
@@ -3084,6 +3089,7 @@ go.oracle.com CNAME .
 go.paze.com CNAME .
 go.pearsonvue.com CNAME .
 go.ps.experian.com CNAME .
+go.rarecams.com CNAME .
 go.robertsonbuildings.com CNAME .
 go.sabres.com CNAME .
 go.seadogs.com CNAME .
@@ -3094,6 +3100,7 @@ go.sexfortokens.com CNAME .
 go.sexygirlspics.live CNAME .
 go.sfcg.com CNAME .
 go.shemale.show CNAME .
+go.showtime-cams.live CNAME .
 go.spankbanglive.com CNAME .
 go.stripchat.beeg.com CNAME .
 go.stripchat.cam CNAME .
@@ -3108,11 +3115,12 @@ go.stripchats.io CNAME .
 go.superchat.live CNAME .
 go.superchatlive.com CNAME .
 go.tegrita.com CNAME .
+go.tiktits.com CNAME .
 go.tklivechat.com CNAME .
 go.tranny.show CNAME .
 go.transtector.com CNAME .
 go.tuv.com CNAME .
-go.ua.drtuberlive.com CNAME .
+go.vi.cambaddies.com CNAME .
 go.vi.hotzcam.com CNAME .
 go.vi.stripchats.io CNAME .
 go.vitality.com.ar CNAME .
@@ -3196,6 +3204,8 @@ hu.mycamtv.com CNAME .
 hu.nsfwlivechat.com CNAME .
 hu.sexygirlspics.live CNAME .
 hu.shemale.show CNAME .
+hu.stripchat.global CNAME .
+hu.xham.live CNAME .
 hu.xhlive.cam CNAME .
 hu.xhlive.net CNAME .
 hungdudes.myavlive.com CNAME .
@@ -3219,16 +3229,21 @@ iaw-events.polarbyte.com CNAME .
 ichnaea-web.us-west-2.internal.dradis.netflix.com CNAME .
 iconnectworld.myavlive.com CNAME .
 id-go.experian.com CNAME .
+id.aznudelive.com CNAME .
 id.boyfriend.show CNAME .
 id.live7mm.tv CNAME .
 id.liveandsexy.cam CNAME .
 id.myavlive.com CNAME .
 id.nsfwlivechat.com CNAME .
+id.sexfortokens.com CNAME .
 id.sexygirlspics.live CNAME .
+id.shemale.show CNAME .
 id.spankbanglive.com CNAME .
 id.stripchat.cam CNAME .
+id.stripchat.global CNAME .
 id.stripchatgirls.com CNAME .
 id.stripchatlive.com CNAME .
+id.stripchats.global CNAME .
 id.superchat.live CNAME .
 id.tklivechat.com CNAME .
 id.xham.live CNAME .
@@ -3295,6 +3310,7 @@ images.e.lexisnexis.com CNAME .
 images.e.pcm.com CNAME .
 images.edm.carnivalaustralia.com CNAME .
 images.edm.sangfor.cn CNAME .
+images.education.ifebp.org CNAME .
 images.efficiency.visma.se CNAME .
 images.eloqua.fredhutch.org CNAME .
 images.em.email-prudential.com CNAME .
@@ -3436,6 +3452,7 @@ images.novedades.fibercorp.com.ar CNAME .
 images.one.leumicard.co.il CNAME .
 images.online.bankofjordan.com.jo CNAME .
 images.ops.mailbpost.be CNAME .
+images.oracle.netsuite.com CNAME .
 images.p.smflc.jp CNAME .
 images.partnersupport.samsung.com CNAME .
 images.performance.volvotrucks.com CNAME .
@@ -3457,6 +3474,8 @@ images.response.incontact.com CNAME .
 images.response.mini.com.au CNAME .
 images.response.motivatedigital.com CNAME .
 images.response.orhp.com CNAME .
+images.response.playpower.com CNAME .
+images.response.softchoice.com CNAME .
 images.response.tenplay.com.au CNAME .
 images.rjf.raymondjames.com CNAME .
 images.secureforms.mcafee.com CNAME .
@@ -3524,6 +3543,7 @@ info.johnsoncontrols.com CNAME .
 info.kalevavakuutus.fi CNAME .
 info.lamy-liaisons.fr CNAME .
 info.lansa.com CNAME .
+info.lesmills.com CNAME .
 info.mandatum.fi CNAME .
 info.marketingcube.com.au CNAME .
 info.mdsol.com CNAME .
@@ -3606,6 +3626,7 @@ isi-tracking.eventim.com CNAME .
 it-business.vodafone.com CNAME .
 it-go.experian.com CNAME .
 it-it.siemensplmevents.com CNAME .
+it.boyfriend.show CNAME .
 it.celebjihad.live CNAME .
 it.contact.alphabet.com CNAME .
 it.drtuberlive.com CNAME .
@@ -3714,6 +3735,7 @@ kjhfebpk7so5dxc-p.adktrack30.xyz CNAME .
 knitfihuopymejv-c.adktrack51.xyz CNAME .
 ko.aznudelive.com CNAME .
 ko.boyfriend.show CNAME .
+ko.cambaddies.com CNAME .
 ko.celebjihad.live CNAME .
 ko.colsex.com CNAME .
 ko.hotzcam.com CNAME .
@@ -3914,6 +3936,7 @@ m7hdh-2damu.ads.tremorhub.com CNAME .
 m7nitxnpazaog0e-p.adktrack30.xyz CNAME .
 m93djrfquxtem8t-p.adkoffer.fr CNAME .
 ma.fountasandpinnell.com CNAME .
+ma.heinemann.com CNAME .
 ma.hitachi-systems.com CNAME .
 ma.hmhco.com CNAME .
 ma.toyobo.co.jp CNAME .
@@ -4045,11 +4068,14 @@ move.azets.no CNAME .
 move.azets.se CNAME .
 mqprmkdsw0eeaua-p.adktrack34.xyz CNAME .
 mrket.ubmfashion.com CNAME .
+mrkttrack.armanino.com CNAME .
 mrvbjrghse7ntux-c.missivequotidienne.fr CNAME .
 ms.aznudelive.com CNAME .
 ms.boyfriend.show CNAME .
 ms.drtuberlive.com CNAME .
 ms.hot-india.com CNAME .
+ms.myavlive.com CNAME .
+ms.nsfwlivechat.com CNAME .
 ms.omg.adult CNAME .
 ms.shemale.show CNAME .
 ms.spankbanglive.com CNAME .
@@ -4115,7 +4141,6 @@ nat-132.myavlive.com CNAME .
 nativomobileapps.share.ntv.io CNAME .
 nb.neubergerberman.com CNAME .
 nbia.aon.com CNAME .
-nebraska.stripchat.org CNAME .
 netakias.stripchat.org CNAME .
 network.lancom-systems.com CNAME .
 networkingexchange.att.com CNAME .
@@ -4152,9 +4177,11 @@ ninaasteria.myavlive.com CNAME .
 nj.finegardening.com CNAME .
 nj.share.ntv.io CNAME .
 nl-go.experian.com CNAME .
+nl.celebjihad.live CNAME .
 nl.live7mm.tv CNAME .
 nl.liveandsexy.cam CNAME .
 nl.myavlive.com CNAME .
+nl.omg.adult CNAME .
 nl.sexfortokens.com CNAME .
 nl.shemale.show CNAME .
 nl.stripchat.be CNAME .
@@ -4229,7 +4256,6 @@ okaqjlxrq0xnwpn-p.adkclicker.fr CNAME .
 okifstpenuyakzb-c.adkoffer.fr CNAME .
 oljr5uawdfifsjc-p.unenoteunjour.fr CNAME .
 olohg9e3agmambs-p.adktrack30.xyz CNAME .
-onbloggers.stripchat.org CNAME .
 ondemand.sexfortokens.com CNAME .
 oneredpaperclip.superchatlive.com CNAME .
 online-mt-com-455208869.p06.elqsandbox.com CNAME .
@@ -4303,6 +4329,7 @@ pages.informafoodserviceevents.com CNAME .
 pages.informafoodservicemedia.com CNAME .
 pages.informamanufacturing.com CNAME .
 pages.informaretail.com CNAME .
+pages.ledger.com CNAME .
 pages.magellangroup.com.au CNAME .
 pages.mktg-upfield.com CNAME .
 pages.mongodb.com CNAME .
@@ -4503,6 +4530,7 @@ pt.spankbanglive.com CNAME .
 pt.strip-chat.club CNAME .
 pt.stripchat.global CNAME .
 pt.stripchats.io CNAME .
+pt.superchatlive.com CNAME .
 pt.xham.live CNAME .
 pt.xhlive.cam CNAME .
 pt.xmates.com CNAME .
@@ -4587,7 +4615,6 @@ refer.akcpetinsurance.com CNAME .
 refer.allenedmonds.com CNAME .
 refer.amctheatres.com CNAME .
 refer.american-giant.com CNAME .
-refer.americaneagle.org CNAME .
 refer.americanexpress.com CNAME .
 refer.americanmusical.com CNAME .
 refer.amerisleep.com CNAME .
@@ -4766,7 +4793,6 @@ refer.laylasleep.com CNAME .
 refer.leadmd.com CNAME .
 refer.lemonaidhealth.com CNAME .
 refer.lendingclub.com CNAME .
-refer.lendly.com CNAME .
 refer.lighthousecu.org CNAME .
 refer.lightstream.com CNAME .
 refer.littlepassports.com CNAME .
@@ -5013,6 +5039,7 @@ response.iqpc.com CNAME .
 response.jeevessivarajah.com CNAME .
 response.nofault.com CNAME .
 response.playpower.com CNAME .
+response.playworld.com CNAME .
 response.retailchoice.com CNAME .
 response.sonosite.co.uk CNAME .
 response.sonosite.com CNAME .
@@ -5027,7 +5054,6 @@ responses.wild.com CNAME .
 resultadosbaloto.stripchat.org CNAME .
 results.news.marshmma.com CNAME .
 retirement.aonunited.com CNAME .
-retrodoll.stripchat.org CNAME .
 reuniondepadres.unisabana.edu.co CNAME .
 reward.first-online.bank CNAME .
 rfm.xhlive.org CNAME .
@@ -5140,6 +5166,7 @@ ru.uk.spankbanglive.com CNAME .
 ru.uk.stripchat.webcam CNAME .
 ru.webcam.ac CNAME .
 ru.xham.live CNAME .
+ru.xhamsterlive.info CNAME .
 ru.xhcam.live CNAME .
 ru.xhlive.cam CNAME .
 ru.xhlive.net CNAME .
@@ -5224,6 +5251,7 @@ secure.sw.broadcom.com CNAME .
 secure.visualsonics.com CNAME .
 secure1.lapersonnelle.com CNAME .
 securebox.superchat.live CNAME .
+securecookies.dustin.dk CNAME .
 securecookies.dustin.fi CNAME .
 securecookies.dustin.nl CNAME .
 securecookies.dustin.se CNAME .
@@ -5232,6 +5260,7 @@ securecookies.dustinhome.no CNAME .
 securecookies.dustinhome.se CNAME .
 securecookiesdustininfo.dustin.dk CNAME .
 securecookiesdustininfo.dustin.fi CNAME .
+securecookiesdustininfo.dustin.nl CNAME .
 securecookiesdustininfo.dustin.se CNAME .
 securecookiesdustininfo.dustinhome.dk CNAME .
 securecookiesdustininfo.dustinhome.fi CNAME .
@@ -5631,7 +5660,6 @@ sk.aznudelive.com CNAME .
 sk.boyfriend.show CNAME .
 sk.cambaddies.com CNAME .
 sk.celebjihad.live CNAME .
-sk.drtuberlive.com CNAME .
 sk.hot-india.com CNAME .
 sk.myavlive.com CNAME .
 sk.mycamtv.com CNAME .
@@ -5691,7 +5719,6 @@ smtpauth.superchatlive.com CNAME .
 smtpseguro.stripchat.vision CNAME .
 snippet.stripchat.global CNAME .
 snjwvk7tmzoywv2-c.ktrack.xyz CNAME .
-snoopy.strp.chat CNAME .
 snowplow-production.fooda.com CNAME .
 snowplow.wral.com CNAME .
 snowplowcollector.kry.pet CNAME .
@@ -6235,6 +6262,7 @@ th.spankbanglive.com CNAME .
 th.stripchat.global CNAME .
 th.stripchatgirls.com CNAME .
 th.stripchats.io CNAME .
+th.superchat.live CNAME .
 th.superchatlive.com CNAME .
 th.xham.live CNAME .
 th.xhamsterlive.info CNAME .
@@ -6257,7 +6285,6 @@ thequickandthehungry.superchatlive.com CNAME .
 therealreal.collect.igodigital.com CNAME .
 thesandbox.stripchats.io CNAME .
 theviesociety.stripchat.org CNAME .
-thewizsdailydose.stripchat.org CNAME .
 theyear2012.superchatlive.com CNAME .
 thriftydecorchick.stripchats.io CNAME .
 tiaianalystinfo.geoworkerz.com CNAME .
@@ -6282,7 +6309,6 @@ tokyofashiongirls.stripchat.webcam CNAME .
 tonya.tklivechat.com CNAME .
 torgi.chiccams.com CNAME .
 totalhealthclinic.superchat.live CNAME .
-toyibg.stripchat.org CNAME .
 tp.lexisnexis.co.nz CNAME .
 tp.lexisnexis.com.au CNAME .
 tqrqylevtnfb382-p.adktrack68.xyz CNAME .
@@ -6314,7 +6340,6 @@ tr.mycamtv.com CNAME .
 tr.nsfwlivechat.com CNAME .
 tr.nudescam18.com CNAME .
 tr.omg.adult CNAME .
-tr.perfectgirls.live CNAME .
 tr.porndudecams.com CNAME .
 tr.primetime-cams.me CNAME .
 tr.rarecams.com CNAME .
@@ -6394,6 +6419,7 @@ track.hg.healthgrades.com CNAME .
 track.hofstrainternationalprograms.com CNAME .
 track.illinoisstate.intostudy.com CNAME .
 track.info.campaignus.com CNAME .
+track.info.clinicaladvisor.com CNAME .
 track.info.clinicalpainadvisor.com CNAME .
 track.info.dermatologyadvisor.com CNAME .
 track.info.empr.com CNAME .
@@ -6450,6 +6476,7 @@ tracking-explore-dev.agilent.com CNAME .
 tracking-explore-uat.agilent.com CNAME .
 tracking-sandbox.eloq.soa.org CNAME .
 tracking-sandbox.vodafone.co.uk CNAME .
+tracking.aapa.org CNAME .
 tracking.aberdeenadviser.com CNAME .
 tracking.abrdn.com CNAME .
 tracking.acceptance.industrial.omron.eu CNAME .
@@ -6590,6 +6617,7 @@ tracking.handlesets.com CNAME .
 tracking.health.bilh.org CNAME .
 tracking.health.lexmed.com CNAME .
 tracking.health.tmcaz.com CNAME .
+tracking.hibu.com CNAME .
 tracking.hiscox.com CNAME .
 tracking.hot.net.il CNAME .
 tracking.idwholesaler.com CNAME .
@@ -6606,6 +6634,7 @@ tracking.info.terex.com CNAME .
 tracking.info.zetes.com CNAME .
 tracking.innovamarketinsights.com CNAME .
 tracking.insead.edu CNAME .
+tracking.insperity.com CNAME .
 tracking.janssenmed.hu CNAME .
 tracking.janssenmed.pl CNAME .
 tracking.janssenmed.ro CNAME .
@@ -7134,6 +7163,7 @@ trk.flora.com CNAME .
 trk.flora.cz CNAME .
 trk.flora.es CNAME .
 trk.flora.hu CNAME .
+trk.florafoodgroup.com CNAME .
 trk.floraplant.at CNAME .
 trk.floraprofessional.com CNAME .
 trk.floraspread.com.au CNAME .
@@ -7323,6 +7353,7 @@ trk.visionpartners.vsp.com CNAME .
 trk.vitam.gr CNAME .
 trk.vodafone.com.tr CNAME .
 trk.wallstreetandtech.com CNAME .
+trk.wealthmanagement.com CNAME .
 trk.web-cast.ro CNAME .
 trk.wellsfargocenterphilly.com CNAME .
 trk.westpackshow.com CNAME .
@@ -7595,7 +7626,6 @@ uss5zgycx31jthk-p.unenoteunjour.fr CNAME .
 ut.econnect.utexas.edu CNAME .
 uwatchthatdpoza.xhamsterlive.info CNAME .
 uwcdbwlohh6eegj-p.adktrack44.xyz CNAME .
-uz.cambaddies.com CNAME .
 v117.tklivechat.com CNAME .
 v150.stripchat.webcam CNAME .
 v2blxzmott3wuae-p.clickomo.fr CNAME .
@@ -7611,7 +7641,6 @@ varjoleikkeja.superchat.live CNAME .
 vault01.shemale.show CNAME .
 vbivezkdjseidag-p.adktrack30.xyz CNAME .
 vcenter02.freestrip.chat CNAME .
-vdp2.chiccams.com CNAME .
 vegannalein.xham.live CNAME .
 vehiclelocator.forddirectdealers.com CNAME .
 venezia.spankbanglive.com CNAME .
@@ -7623,6 +7652,7 @@ vg.stripchat.org CNAME .
 vge-mktg-secure.vodafone.com CNAME .
 vi.aznudelive.com CNAME .
 vi.boyfriend.show CNAME .
+vi.cambaddies.com CNAME .
 vi.camsplanetlive.com CNAME .
 vi.celebjihad.live CNAME .
 vi.drtuberlive.com CNAME .
@@ -7731,6 +7761,7 @@ vr.stripchats.io CNAME .
 vr.strp.chat CNAME .
 vr.superchat.live CNAME .
 vr.superchatlive.com CNAME .
+vr.tiktits.com CNAME .
 vr.tklivechat.com CNAME .
 vr.tranny.show CNAME .
 vr.xham.live CNAME .
@@ -8423,6 +8454,7 @@ zh.superchatlive.com CNAME .
 zh.tklivechat.com CNAME .
 zh.tranny.show CNAME .
 zh.vrhub.live CNAME .
+zh.xham.live CNAME .
 zh.xhlive.cam CNAME .
 zh.xhlive.net CNAME .
 zh.xmates.com CNAME .
@@ -8452,6 +8484,7 @@ zt.sexfortokens.com CNAME .
 zt.sexygirlspics.live CNAME .
 zt.shemale.show CNAME .
 zt.spankbanglive.com CNAME .
+zt.stripchat.global CNAME .
 zt.stripchat.vision CNAME .
 zt.stripchat.webcam CNAME .
 zt.stripchatgirls.com CNAME .

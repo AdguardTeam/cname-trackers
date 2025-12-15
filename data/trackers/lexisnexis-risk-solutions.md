@@ -346,7 +346,6 @@
     * h-cb9r8vh8.online-metrix.net
     * h-cbd.online-metrix.net
     * h-cco37scf.online-metrix.net
-    * h-cdcmobile.online-metrix.net
     * h-cdiscount.online-metrix.net
     * h-cdn-scripts.online-metrix.net
     * h-cdn.coastcapitalsavings.online-metrix.net
@@ -379,7 +378,6 @@
     * h-citibank-pl.online-metrix.net
     * h-citibank-sg.online-metrix.net
     * h-citibank-tw.online-metrix.net
-    * h-citibank-vn.online-metrix.net
     * h-citibank.online-metrix.net
     * h-citibankonline.online-metrix.net
     * h-citicards.online-metrix.net
@@ -1026,6 +1024,7 @@
 | content.ofx.com | h-4a04ohow.online-metrix.net |
 | content.midi.io | h-4f0drex6.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
+| ep-content.patento.pl | h-4iibpm7t-1.online-metrix.net |
 | ep-content.vivigo.pl | h-4iibpm7t-1.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | ep.heartland.co.nz | h-4kblllmz.online-metrix.net |
@@ -1521,7 +1520,6 @@
 | www.content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
-| tcontent.cdiscountmobile.cdiscount.com | h-cdcmobile.online-metrix.net |
 | imagesmx.cdscdn.com | h-cdiscount.online-metrix.net |
 | fp.cdn-scripts.com | h-cdn-scripts.online-metrix.net |
 | cdn.coastcapitalsavings.com | h-cdn.coastcapitalsavings.online-metrix.net |
@@ -1561,7 +1559,6 @@
 | content22.citibank.pl | h-citibank-pl.online-metrix.net |
 | content22.citibank.com.sg | h-citibank-sg.online-metrix.net |
 | content22.citibank.com.tw | h-citibank-tw.online-metrix.net |
-| content22.citibank.com.vn | h-citibank-vn.online-metrix.net |
 | content22.citibank.com | h-citibank.online-metrix.net |
 | content22.olb-usmtu2web1.citi.com | h-citibank.online-metrix.net |
 | content22.online.citibank.com | h-citibank.online-metrix.net |
@@ -1633,16 +1630,6 @@
 | validacionlx.agaval.com | h-d6v9b0b9.online-metrix.net |
 | img.dailylook.com | h-dailylook.online-metrix.net |
 | tags.dazn.com | h-dazn.online-metrix.net |
-| connect-cert-card.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
-| connect-cert-mbd.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
-| connect-cert-myfunds.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
-| connect-cert-prepaid.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
-| connect-cert-prepaidcard.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
-| connect-cert.account.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
-| connect-cert.briopay.com | h-ddqvf3r9.online-metrix.net |
-| connect-cert.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
-| connect-cert.premieraccesscard.com | h-ddqvf3r9.online-metrix.net |
-| connect-cert.walmart.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
 | connect.briopay.com | h-ddqvf3r9.online-metrix.net |
 | connect.everywherepaycard.com | h-ddqvf3r9.online-metrix.net |
 | connect.moneynetwork.com | h-ddqvf3r9.online-metrix.net |
@@ -1800,7 +1787,6 @@
 | cdntm.firstdirect.com | h-hsbcmx.online-metrix.net |
 | cdntm.hangseng.com | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.ae | h-hsbcmx.online-metrix.net |
-| cdntm.hsbc.ca | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.co.id | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.co.in | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.co.uk | h-hsbcmx.online-metrix.net |

@@ -6,15 +6,14 @@
     * js.oghub.io
     * sniffer.oghub.io
     * sniffer.test-extern.oghub.io
-    * te-ackermann-ch.oghub.io
     * te-baur-de.oghub.io
-    * te-limango-de.oghub.io
     * te-otto-de.oghub.io
     * te-ottoversand-at.oghub.io
     * te-sieh-an-de.oghub.io
     * te-universal-at.oghub.io
     * te.oghub.io
     * te.test-extern.oghub.io
+    * tp-ackermann-ch.oghub.io
     * tp-baur-de.oghub.io
     * tp-frankonia-de.oghub.io
     * tp-limango-de.oghub.io
@@ -67,9 +66,7 @@
 | sniffer.nitro-production.otto.boreus.de | sniffer.oghub.io |
 | sniffer.nitro-test-extern.otto.boreus.de | sniffer.test-extern.oghub.io |
 | test-extern.nitrosniffer.ottogroup.io | sniffer.test-extern.oghub.io |
-| te.ackermann.ch | te-ackermann-ch.oghub.io |
 | te.baur.de | te-baur-de.oghub.io |
-| te.limango.de | te-limango-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
 | te.ottoversand.at | te-ottoversand-at.oghub.io |
 | te.sieh-an.de | te-sieh-an-de.oghub.io |
@@ -91,7 +88,6 @@
 | te.jelmoli-shop.ch | te.oghub.io |
 | te.lascana.at | te.oghub.io |
 | te.lascana.ch | te.oghub.io |
-| te.limango.de | te.oghub.io |
 | te.limango.de | te.oghub.io |
 | te.mirapodo.de | te.oghub.io |
 | te.mytoys.de | te.oghub.io |
@@ -118,6 +114,7 @@
 | te.your-look-for-less.nl | te.oghub.io |
 | te.your-look-for-less.se | te.oghub.io |
 | te.nitro-test-extern.otto.boreus.de | te.test-extern.oghub.io |
+| tp.ackermann.ch | tp-ackermann-ch.oghub.io |
 | tp.baur.de | tp-baur-de.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
 | tp.limango.de | tp-limango-de.oghub.io |

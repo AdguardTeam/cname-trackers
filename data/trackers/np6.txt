@@ -349,8 +349,6 @@
 ||tr.donateur.afm-telethon.fr^
 ||tr.dossier-assurance.maaf.fr^
 ||tr.drh-holding.lvmh.fr^
-||tr.e-mail.axa.fr^
-||tr.e-mail.axabanque.fr^
 ||tr.e-travaux.info^
 ||tr.e.entreprise-pm.fr^
 ||tr.e.entreprise-pm.net^
@@ -421,7 +419,6 @@
 ||tr.enews.customsolutions.fr^
 ||tr.enquetes.actionlogement.fr^
 ||tr.entreprise-pro.info^
-||tr.entreprise.axa.fr^
 ||tr.envie-de-bien-manger.espmp-aufr.net^
 ||tr.eqs.cpam67.net^
 ||tr.ere.emailing.bnpparibas^
@@ -889,7 +886,6 @@
 ||tr.news.teklifim.pro^
 ||tr.news.tf1licences.com^
 ||tr.news.thelist-emirates.fr^
-||tr.news.themedtechforum.eu^
 ||tr.news.toocampmail.com^
 ||tr.news.toute-la-franchise.com^
 ||tr.news.triskalia.fr^
@@ -1219,6 +1215,7 @@
 ||tr4.mailperf.com^
 ||tr5.mailperf.com^
 ||tr5.mperf.com^
+||tr6.mperf.com^
 ||www.fodgfip.fr^
 ||www.newsletter.banquepopulaire.fr^
 ||www.np6.eu^
@@ -1227,13 +1224,12 @@
 ||f1.demo.np6.com^
 ||f1.mailperf.com^
 ||f1.mailperformance.com^
+||f1.mperf.com^
 ||f1.np6.com^
 ||infojeux.paris.fr^
 ||lbv5.mperf.com^
 ||www.bfc-mp.caisse-epargne.fr^
-||f1.mperf.com^
 ||s.gemy.fr^
 ||s.np6.com^
 ||www.lgch.mp^
 ||tr.communication.jardindacclimatation.fr^
-||tr6.mperf.com^

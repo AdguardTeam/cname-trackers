@@ -7,6 +7,7 @@
     * ka8ing2z.ab1n.net
     * tk6if76q.ab1n.net
     * tk6if76r.ab1n.net
+    * v3j9t5q9.ab1n.net
     * w2u4v9e1.ab1n.net
     * x0xmrxm4.ab1n.net
     * x0xmrxm5.ab1n.net
@@ -14,35 +15,40 @@
 ### Rarely active trackers
 
 * 1208818836.rsc.cdn77.org
+* syndication.exoclick.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | a.18ramp.com | 1208818836.rsc.cdn77.org |
-| a.8jfbt5va3r.com | 1208818836.rsc.cdn77.org |
-| a.adsession.com | 1208818836.rsc.cdn77.org |
+| a.6hd49jng.com | 1208818836.rsc.cdn77.org |
 | a.advertrek.com | 1208818836.rsc.cdn77.org |
 | a.allureanews.com | 1208818836.rsc.cdn77.org |
 | a.asvsm.com | 1208818836.rsc.cdn77.org |
 | a.b2bstars.com | 1208818836.rsc.cdn77.org |
-| a.b7q9v8z.com | 1208818836.rsc.cdn77.org |
 | a.bizonads-ssp.com | 1208818836.rsc.cdn77.org |
 | a.brilmaver.com | 1208818836.rsc.cdn77.org |
+| a.cant3am.com | 1208818836.rsc.cdn77.org |
+| a.chmsrv.com | 1208818836.rsc.cdn77.org |
 | a.etology.com | 1208818836.rsc.cdn77.org |
+| a.eunow4u.com | 1208818836.rsc.cdn77.org |
 | a.gatherstar.io | 1208818836.rsc.cdn77.org |
+| a.gentlefieldpattern.com | 1208818836.rsc.cdn77.org |
 | a.golhofer.com | 1208818836.rsc.cdn77.org |
 | a.hkartg.com | 1208818836.rsc.cdn77.org |
 | a.humnert.com | 1208818836.rsc.cdn77.org |
-| a.ku34bh9la09.com | 1208818836.rsc.cdn77.org |
-| a.mikbaken.com | 1208818836.rsc.cdn77.org |
+| a.ma3ion.com | 1208818836.rsc.cdn77.org |
+| a.n4m5x60.com | 1208818836.rsc.cdn77.org |
 | a.pinkads.org | 1208818836.rsc.cdn77.org |
 | a.playa.to | 1208818836.rsc.cdn77.org |
+| a.q88z1s3.com | 1208818836.rsc.cdn77.org |
 | a.r8lnet.com | 1208818836.rsc.cdn77.org |
 | a.rocoads.net | 1208818836.rsc.cdn77.org |
 | a.santabrowser.com | 1208818836.rsc.cdn77.org |
 | a.t5z3w0p.com | 1208818836.rsc.cdn77.org |
 | a.traffic-gold.com | 1208818836.rsc.cdn77.org |
+| a.vws4brkfst.com | 1208818836.rsc.cdn77.org |
 | delivery.gettopple.com | 1208818836.rsc.cdn77.org |
 | main0.exosrv.com | a37zk9tr.ab1n.net |
 | syndication0.exoclick.com | a37zk9tr.ab1n.net |
@@ -54,6 +60,7 @@
 | rtb.optidigital.com | ka8ing2z.ab1n.net |
 | rtb.traffic-gold.com | ka8ing2z.ab1n.net |
 | rtb.trafficfactory.com | ka8ing2z.ab1n.net |
+| syndication-json.exoclick.com | syndication.exoclick.com |
 | 0gjk78xazs6np76r.notifysrv.com | tk6if76q.ab1n.net |
 | 10.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | 10.notifysrv.com | tk6if76q.ab1n.net |
@@ -921,6 +928,7 @@
 | m.hue2b.com | tk6if76q.ab1n.net |
 | m.optidigital.com | tk6if76q.ab1n.net |
 | mail17.notifysrv.com | tk6if76q.ab1n.net |
+| main.exdynsrv.com | tk6if76q.ab1n.net |
 | main.exoclick.com | tk6if76q.ab1n.net |
 | main.exosrv.com | tk6if76q.ab1n.net |
 | main.realsrv.com | tk6if76q.ab1n.net |
@@ -949,9 +957,11 @@
 | s.datingclix.com | tk6if76q.ab1n.net |
 | s.ds10lf.com | tk6if76q.ab1n.net |
 | s.ds165z.com | tk6if76q.ab1n.net |
+| s.ds2beb.com | tk6if76q.ab1n.net |
 | s.ds3u8n.com | tk6if76q.ab1n.net |
 | s.ds3zoh.com | tk6if76q.ab1n.net |
 | s.ds4de1.com | tk6if76q.ab1n.net |
+| s.ds4i8a.com | tk6if76q.ab1n.net |
 | s.ds4zqa.com | tk6if76q.ab1n.net |
 | s.ds6n6c.com | tk6if76q.ab1n.net |
 | s.ds7khy.com | tk6if76q.ab1n.net |
@@ -1149,7 +1159,6 @@
 | svn.notifysrv.com | tk6if76q.ab1n.net |
 | sw.notifysrv.com | tk6if76q.ab1n.net |
 | syndication-adblock.exoclick.com | tk6if76q.ab1n.net |
-| syndication-json.exoclick.com | tk6if76q.ab1n.net |
 | syndication.dynsrvtbg.com | tk6if76q.ab1n.net |
 | syndication.dynsrvwer.com | tk6if76q.ab1n.net |
 | syndication.elink12.com | tk6if76q.ab1n.net |
@@ -1282,7 +1291,11 @@
 | www.survey.notifysrv.com | tk6if76q.ab1n.net |
 | s.allureanews.com | tk6if76r.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
-| a.6hd49jng.com | w2u4v9e1.ab1n.net |
+| admin.adxnow.com | v3j9t5q9.ab1n.net |
+| admin.etology.com | v3j9t5q9.ab1n.net |
+| admin.landingtrk.com | v3j9t5q9.ab1n.net |
+| a.8jfbt5va3r.com | w2u4v9e1.ab1n.net |
+| a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advantageclicks.net | w2u4v9e1.ab1n.net |
 | a.b2bstars.com | w2u4v9e1.ab1n.net |
 | a.b7q9v8z.com | w2u4v9e1.ab1n.net |
@@ -1302,12 +1315,9 @@
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
 | admin.adsession.com | x0xmrxm4.ab1n.net |
-| admin.adxnow.com | x0xmrxm4.ab1n.net |
 | admin.datingclix.com | x0xmrxm4.ab1n.net |
-| admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
-| admin.landingtrk.com | x0xmrxm4.ab1n.net |
 | admin.rocoads.net | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.valuemedia-ltd.com | x0xmrxm4.ab1n.net |

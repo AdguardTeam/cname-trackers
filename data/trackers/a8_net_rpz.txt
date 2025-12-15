@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -57,7 +57,6 @@ a8.bon-quish.jp CNAME .
 a8.bousui-pro.com CNAME .
 a8.brandcosme.com CNAME .
 a8.brandkaimasu.com CNAME .
-a8.bridal-hills.com CNAME .
 a8.buddyup.shop CNAME .
 a8.buvlabo.com CNAME .
 a8.campaign.musclesuit.co.jp CNAME .
@@ -236,7 +235,6 @@ a8.nezumi-kanzentaiji.com CNAME .
 a8.nosh.jp CNAME .
 a8.novicetokyo.com CNAME .
 a8.o-tayori.com CNAME .
-a8.obihiro-butaichi.jp CNAME .
 a8.ocnk.net CNAME .
 a8.okamotogroup.com CNAME .
 a8.olightstore.jp CNAME .

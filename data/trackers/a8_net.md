@@ -60,7 +60,6 @@
 | a8.bousui-pro.com | trck.a8.net |
 | a8.brandcosme.com | trck.a8.net |
 | a8.brandkaimasu.com | trck.a8.net |
-| a8.bridal-hills.com | trck.a8.net |
 | a8.buddyup.shop | trck.a8.net |
 | a8.buvlabo.com | trck.a8.net |
 | a8.campaign.musclesuit.co.jp | trck.a8.net |
@@ -239,7 +238,6 @@
 | a8.nosh.jp | trck.a8.net |
 | a8.novicetokyo.com | trck.a8.net |
 | a8.o-tayori.com | trck.a8.net |
-| a8.obihiro-butaichi.jp | trck.a8.net |
 | a8.ocnk.net | trck.a8.net |
 | a8.okamotogroup.com | trck.a8.net |
 | a8.olightstore.jp | trck.a8.net |

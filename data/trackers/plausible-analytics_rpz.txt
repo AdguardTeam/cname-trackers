@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -103,7 +103,6 @@ meter.bref.sh CNAME .
 metric.methoddev.com CNAME .
 metrics.creit.tech CNAME .
 metrics.earrieta.dev CNAME .
-metrics.recunia.de CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
 munnin.hicsuntdra.co CNAME .
@@ -299,7 +298,6 @@ stat.umsu.de CNAME .
 static.osalta.eu CNAME .
 statistic.jac-systeme.de CNAME .
 statistics.heatbeat.de CNAME .
-statistics.leohoesl.com CNAME .
 statistik.apartments-tirolerhaus.at CNAME .
 statman.sesong.info CNAME .
 stats.69grad.de CNAME .
@@ -665,7 +663,6 @@ stats.principedepaz.gt CNAME .
 stats.processserver101.com CNAME .
 stats.procumeni.cz CNAME .
 stats.prodtype.com CNAME .
-stats.profilehunt.net CNAME .
 stats.profitablesignpricing.com CNAME .
 stats.projectcongress.com CNAME .
 stats.psychotherapieravensburg.de CNAME .

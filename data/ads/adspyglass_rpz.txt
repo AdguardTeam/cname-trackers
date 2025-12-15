@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ $TTL 300
 69741211.clicknplay.to CNAME .
 6cf0e7801e8cd.clicknplay.to CNAME .
 73771m3q.xyz CNAME .
+74d963ww.xyz CNAME .
 7bd3d001ff6.clicknplay.to CNAME .
 7zvhi46y.xyz CNAME .
 858akaman.xyz CNAME .
@@ -232,6 +233,7 @@ ad.empressleak.biz CNAME .
 ad.tubelegion.com CNAME .
 ad.xxam.org CNAME .
 adb.reallifecams.net CNAME .
+adb.voyeur-house.org CNAME .
 addin1.name CNAME .
 adilk.ilikecomix.com CNAME .
 ads.aphex.me CNAME .
@@ -627,6 +629,7 @@ ironyjav09212026.shop CNAME .
 islamonline24.hubhubhub.name CNAME .
 itgb.kiuyrsebgrjythyt.today CNAME .
 ithaca.hubhubhub.name CNAME .
+iu3pprwz.xyz CNAME .
 ix2.deepsexvids.com CNAME .
 izjzyykiyn.club CNAME .
 j.bloblohub.com CNAME .
@@ -653,6 +656,7 @@ js.syosetu.top CNAME .
 js.xemkqxs.com CNAME .
 jsnd.fapnado.xxx CNAME .
 jx3.freepornobook.com CNAME .
+jz8zyg3f.xyz CNAME .
 k.bloblohub.com CNAME .
 k2o2ls46.xyz CNAME .
 key.sexymovie.name CNAME .
@@ -697,6 +701,7 @@ m.x-power.info CNAME .
 m10.hoes.tube CNAME .
 m5r.hoes.tube CNAME .
 m8ix4fqk.xyz CNAME .
+magazine.itabelog.blog CNAME .
 makumva.all-usanomination.com CNAME .
 mamamia.vintageporno.stream CNAME .
 mamruoa.club CNAME .
@@ -796,7 +801,6 @@ p.adsmarch.online CNAME .
 p.aprilads.space CNAME .
 p.bloblohub.com CNAME .
 p.febads.shop CNAME .
-p.janads.shop CNAME .
 p.octoberads.space CNAME .
 p.popunderoctober.store CNAME .
 p.upskirt.tv CNAME .
@@ -888,6 +892,7 @@ rs.picmega.com CNAME .
 rsd.viagrahtabs.shop CNAME .
 rst.pornyhd.com CNAME .
 ruradura.com CNAME .
+rwdb.asianxhub.com CNAME .
 rwdh.asianxhub.com CNAME .
 rwdn.asianxhub.com CNAME .
 rwdr.asianxhub.com CNAME .
@@ -904,7 +909,6 @@ s.freeporncave.com CNAME .
 s.hhyggy.com CNAME .
 s.octoberads.space CNAME .
 s.oralblow.com CNAME .
-s.remonti.org CNAME .
 s.searforsear.online CNAME .
 s.septed.site CNAME .
 s.slideroctober.store CNAME .
@@ -916,7 +920,6 @@ s4.everydayporn.co CNAME .
 s4.everydayporn.com CNAME .
 sadi.woulded.site CNAME .
 sakcerl.ehrydnmdoe.com CNAME .
-sal.easyfreesex.com CNAME .
 sandbox-insight.bloblohub.com CNAME .
 satmon.neekstore.com CNAME .
 saver.icscourierx-press.com CNAME .
@@ -1035,6 +1038,7 @@ vgcustom-ad.xyz CNAME .
 vi1.prettytube.net CNAME .
 vid.prettytube.net CNAME .
 video.dmmjp.cc CNAME .
+video.fc2plus.site CNAME .
 video.missav001.lol CNAME .
 video.streamtape.com CNAME .
 video.tophentaigallery.live CNAME .
@@ -1053,6 +1057,7 @@ w.4kporn.xxx CNAME .
 w.detrols.site CNAME .
 w.freespeech.tube CNAME .
 w.love4porn.com CNAME .
+w1.2ch-d.fun CNAME .
 wblkp4ae.xyz CNAME .
 weather.bloblohub.com CNAME .
 web18781.hubhubhub.name CNAME .
@@ -1155,6 +1160,7 @@ z0000g.yorkvillemarketing.net CNAME .
 z0000g.yvmads.com CNAME .
 zakld.com CNAME .
 zmrzlin.amateurswild.com CNAME .
+zp0o8pii.xyz CNAME .
 zrakos.com CNAME .
 ztg7hqds.xyz CNAME .
 ztvlz.fapnado.xxx CNAME .

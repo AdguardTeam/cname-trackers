@@ -209,7 +209,6 @@
 ||cdntm.firstdirect.com^
 ||cdntm.hangseng.com^
 ||cdntm.hsbc.ae^
-||cdntm.hsbc.ca^
 ||cdntm.hsbc.co.id^
 ||cdntm.hsbc.co.in^
 ||cdntm.hsbc.co.uk^
@@ -265,16 +264,6 @@
 ||common.1win.com^
 ||compliance.mohegansuncasino.com^
 ||condition.applause.com^
-||connect-cert-card.moneynetwork.com^
-||connect-cert-mbd.everywherepaycard.com^
-||connect-cert-myfunds.moneynetwork.com^
-||connect-cert-prepaid.everywherepaycard.com^
-||connect-cert-prepaidcard.moneynetwork.com^
-||connect-cert.account.moneynetwork.com^
-||connect-cert.briopay.com^
-||connect-cert.everywherepaycard.com^
-||connect-cert.premieraccesscard.com^
-||connect-cert.walmart.everywherepaycard.com^
 ||connect.briopay.com^
 ||connect.everywherepaycard.com^
 ||connect.moneynetwork.com^
@@ -472,7 +461,6 @@
 ||content22.citibank.com.hk^
 ||content22.citibank.com.sg^
 ||content22.citibank.com.tw^
-||content22.citibank.com.vn^
 ||content22.citibank.pl^
 ||content22.citibankonline.com^
 ||content22.citicards.com^
@@ -573,6 +561,7 @@
 ||ela1.bankofscotland.co.uk^
 ||elevate.stg.na02.aws.ballys.tech^
 ||enligne.bnc.ca^
+||ep-content.patento.pl^
 ||ep-content.vivigo.pl^
 ||ep.heartland.co.nz^
 ||ep.vystarcu.org^
@@ -1123,7 +1112,6 @@
 ||tblsdp.tonybet.ca^
 ||tbp.tescobank.com^
 ||tcontent.auchantelecom.fr^
-||tcontent.cdiscountmobile.cdiscount.com^
 ||tcontent.nrjmobile.fr^
 ||telem.highlow.com^
 ||telempdf.vepormas.com^

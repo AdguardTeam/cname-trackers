@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765180810862        ; Serial
+           1765785617328        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -165,7 +165,6 @@ refer.acornonline.com CNAME .
 refer.akcpetinsurance.com CNAME .
 refer.allenedmonds.com CNAME .
 refer.amctheatres.com CNAME .
-refer.americaneagle.org CNAME .
 refer.americanmusical.com CNAME .
 refer.amerisleep.com CNAME .
 refer.andieswim.com CNAME .
@@ -303,7 +302,6 @@ refer.lauramercier.com CNAME .
 refer.laylasleep.com CNAME .
 refer.lemonaidhealth.com CNAME .
 refer.lendingclub.com CNAME .
-refer.lendly.com CNAME .
 refer.lighthousecu.org CNAME .
 refer.lightstream.com CNAME .
 refer.littlepassports.com CNAME .
