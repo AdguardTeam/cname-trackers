@@ -4,11 +4,8 @@
 
 * affex.org
     * akipam-com.affex.org
-    * brillen-de.affex.org
     * cdn-elogia-net.affex.org
     * daraz-com.affex.org
-    * home24-de.affex.org
-    * iberostar-com.affex.org
     * jakuli-com.affex.org
     * lafamo-com.affex.org
     * mydays-de.affex.org
@@ -37,7 +34,6 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | r.akipam.com | akipam-com.affex.org |
-| net.brillen.de | brillen-de.affex.org |
 | cdn.net.elogia.net | cdn-elogia-net.affex.org |
 | -084-gls-223-www-9-k-0brasil.net.daraz.com | daraz-com.affex.org |
 | -access-logs-1.net.daraz.com | daraz-com.affex.org |
@@ -4399,6 +4395,7 @@
 | support-cloudfrontcar31.net.daraz.com | daraz-com.affex.org |
 | svc-01-caauthenticate21-10-authenticate-oa-1.net.daraz.com | daraz-com.affex.org |
 | svc.manage.lib-oa-1.net.daraz.com | daraz-com.affex.org |
+| svcgateway.net.daraz.com | daraz-com.affex.org |
 | testdraganddropobjects.net.daraz.com | daraz-com.affex.org |
 | thumbs-partner.net.daraz.com | daraz-com.affex.org |
 | tokenbroker.net.daraz.com | daraz-com.affex.org |
@@ -4584,13 +4581,9 @@
 | zzpdbs3e62zt91c04r.dbsdministrdbstor.net.daraz.com | daraz-com.affex.org |
 | zzpmagento3e62zt91c04r.magentodministrmagentotor.net.daraz.com | daraz-com.affex.org |
 | zzprg3e62zt91c04r.rgdministrrgtor.net.daraz.com | daraz-com.affex.org |
-| 2marketing-docs.net.home24.de | home24-de.affex.org |
-| dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com | iberostar-com.affex.org |
-| g.whatsapp.net.iberostar.com | iberostar-com.affex.org |
 | r.jakuli.com | jakuli-com.affex.org |
 | r.lafamo.com | lafamo-com.affex.org |
 | 2dhmpisq.net.mydays.de | mydays-de.affex.org |
-| 2dollarearrings.net.mydays.de | mydays-de.affex.org |
 | 2fevernote-6-2.net.mydays.de | mydays-de.affex.org |
 | 2fwww1.net.mydays.de | mydays-de.affex.org |
 | atlas.r.akipam.com | tr-akipam-com.affex.org |
@@ -4610,7 +4603,13 @@
 | marketing.net.occhiali24.it | tr-occhiali24-it.affex.org |
 | pluto.r.powuta.com | tr-powuta-com.affex.org |
 | 252fdropbox-2.net.mydays.de | traefik-production.secure-traffic.com |
+| 2dollarearrings.net.mydays.de | traefik-production.secure-traffic.com |
+| 2marketing-docs.net.home24.de | traefik-production.secure-traffic.com |
+| dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com | traefik-production.secure-traffic.com |
 | et-3-0-2.gw1.mia19.alter.net.iberostar.com | traefik-production.secure-traffic.com |
+| g.whatsapp.net.iberostar.com | traefik-production.secure-traffic.com |
+| luna.r.lafamo.com | traefik-production.secure-traffic.com |
+| net.brillen.de | traefik-production.secure-traffic.com |
 | net.home24.at | traefik-production.secure-traffic.com |
 | net.home24.be | traefik-production.secure-traffic.com |
 | net.home24.it | traefik-production.secure-traffic.com |
@@ -4618,3 +4617,4 @@
 | net.jumia.ug | traefik-production.secure-traffic.com |
 | net35.net.jumia.cm | traefik-production.secure-traffic.com |
 | nsm.tr.netsalesmedia.pl | traefik-production.secure-traffic.com |
+| ssl.affiliate.logitravel.com | traefik-production.secure-traffic.com |

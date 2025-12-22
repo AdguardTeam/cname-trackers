@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * edgetag.io
+    * aaakr.customers.edgetag.io
     * aagcd.customers.edgetag.io
     * aajrz.customers.edgetag.io
     * aapud.customers.edgetag.io
@@ -198,7 +199,6 @@
     * darki.customers.edgetag.io
     * davav.customers.edgetag.io
     * dbmgc.customers.edgetag.io
-    * dbpmg.customers.edgetag.io
     * dbqst.customers.edgetag.io
     * dcgej.customers.edgetag.io
     * dcirm.customers.edgetag.io
@@ -319,6 +319,7 @@
     * farhp.customers.edgetag.io
     * fartu.customers.edgetag.io
     * fceaj.customers.edgetag.io
+    * fcfvj.customers.edgetag.io
     * fchst.customers.edgetag.io
     * fcirv.customers.edgetag.io
     * fctqr.customers.edgetag.io
@@ -622,6 +623,7 @@
     * kjqas.customers.edgetag.io
     * kkmjv.customers.edgetag.io
     * kknka.customers.edgetag.io
+    * kkqbi.customers.edgetag.io
     * kktij.customers.edgetag.io
     * klcmq.customers.edgetag.io
     * klesu.customers.edgetag.io
@@ -982,7 +984,6 @@
     * qczgr.customers.edgetag.io
     * qeecl.customers.edgetag.io
     * qelln.customers.edgetag.io
-    * qesrk.customers.edgetag.io
     * qgdgj.customers.edgetag.io
     * qggie.customers.edgetag.io
     * qgzfu.customers.edgetag.io
@@ -1132,7 +1133,6 @@
     * snlpt.customers.edgetag.io
     * snmzj.customers.edgetag.io
     * snoje.customers.edgetag.io
-    * snqss.customers.edgetag.io
     * snvkl.customers.edgetag.io
     * soluz.customers.edgetag.io
     * spcfl.customers.edgetag.io
@@ -1444,9 +1444,12 @@
     * hhwcx.eat.attntags.com
     * hrlmn.eat.attntags.com
     * jmfpr.eat.attntags.com
+    * jttcy.eat.attntags.com
+    * jwlcj.eat.attntags.com
     * kpdgj.eat.attntags.com
     * kwkcb.eat.attntags.com
     * kxdrx.eat.attntags.com
+    * lbvbv.eat.attntags.com
     * lmzyh.eat.attntags.com
     * lpnmb.eat.attntags.com
     * ltrrw.eat.attntags.com
@@ -1460,10 +1463,12 @@
     * ngdjv.eat.attntags.com
     * nhslg.eat.attntags.com
     * nslhy.eat.attntags.com
+    * pbszh.eat.attntags.com
     * pptzq.eat.attntags.com
     * pvrrx.eat.attntags.com
     * pzlkz.eat.attntags.com
     * qhnld.eat.attntags.com
+    * qpsbd.eat.attntags.com
     * rfmqj.eat.attntags.com
     * rkpjy.eat.attntags.com
     * sljhc.eat.attntags.com
@@ -1472,6 +1477,7 @@
     * ssmbl.eat.attntags.com
     * tgqgw.eat.attntags.com
     * tyzvz.eat.attntags.com
+    * vnvws.eat.attntags.com
     * wbksc.eat.attntags.com
     * wcbmp.eat.attntags.com
     * wfbqk.eat.attntags.com
@@ -1500,6 +1506,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| aaakr.abodemoney.com | aaakr.customers.edgetag.io |
 | aagcd.keymaster247.com | aagcd.customers.edgetag.io |
 | aajrz.zzzbears.com | aajrz.customers.edgetag.io |
 | aapud.simmonsfirm.com | aapud.customers.edgetag.io |
@@ -1998,6 +2005,7 @@
 | ubptt.bullybeds.com | customers.xray-superpixel.com |
 | ueedg.maximinfra.in | customers.xray-superpixel.com |
 | ueivh.greenllamaclean.com | customers.xray-superpixel.com |
+| uelqb.impactdogcrates.com | customers.xray-superpixel.com |
 | ufoig.pacagen.com | customers.xray-superpixel.com |
 | uhasf.the-health-watch.com | customers.xray-superpixel.com |
 | uheql.drjimz.com | customers.xray-superpixel.com |
@@ -2050,7 +2058,6 @@
 | darki.sokolovelaw.com | darki.customers.edgetag.io |
 | davav.gentlemantoday.co | davav.customers.edgetag.io |
 | dbmgc.marleylilly.com | dbmgc.customers.edgetag.io |
-| dbpmg.wodify.com | dbpmg.customers.edgetag.io |
 | dbqst.hercasematters.com | dbqst.customers.edgetag.io |
 | dcgej.sleepsophie.com.au | dcgej.customers.edgetag.io |
 | dcirm.calocurb.com | dcirm.customers.edgetag.io |
@@ -2185,6 +2192,7 @@
 | acfth.broadwayinchicago.com | fallback.attntags.com |
 | achhd.theofficeofangelascott.com | fallback.attntags.com |
 | ackzq.beistravel.com | fallback.attntags.com |
+| acouo.hollandcooper.com | fallback.attntags.com |
 | addiv.mooyah.com | fallback.attntags.com |
 | adlgo.nzepouches.com | fallback.attntags.com |
 | adnlb.sprayground.com | fallback.attntags.com |
@@ -2272,6 +2280,7 @@
 | bjias.petitekeep.com | fallback.attntags.com |
 | bjjde.florencebymillsbeauty.com | fallback.attntags.com |
 | bjkoi.incommonbeauty.com | fallback.attntags.com |
+| bjtag.littlespoon.com | fallback.attntags.com |
 | bkufc.meridiangrooming.com | fallback.attntags.com |
 | blmgg.vibeszn.com | fallback.attntags.com |
 | bmcui.crocs.nl | fallback.attntags.com |
@@ -2511,6 +2520,7 @@
 | fnznl.dolcevita.ca | fallback.attntags.com |
 | fogrm.macduggal.com | fallback.attntags.com |
 | frfge.bonobos.com | fallback.attntags.com |
+| frhqq.xeroshoes.com | fallback.attntags.com |
 | frkdu.minibardelivery.com | fallback.attntags.com |
 | frqjv.cannas.net | fallback.attntags.com |
 | frrne.guess.com | fallback.attntags.com |
@@ -2613,6 +2623,7 @@
 | hjprq.larroude.com | fallback.attntags.com |
 | hjzgu.patternbeauty.com | fallback.attntags.com |
 | hlbgo.business-class.com | fallback.attntags.com |
+| hldqt.cosatto.com | fallback.attntags.com |
 | hlpfq.sigmasports.com | fallback.attntags.com |
 | hmdvq.matethelabel.com | fallback.attntags.com |
 | hmfpe.serengetifashions.com | fallback.attntags.com |
@@ -2635,6 +2646,7 @@
 | hugdi.talbots.com | fallback.attntags.com |
 | hujup.hushblankets.com | fallback.attntags.com |
 | hundp.essential-watches.com | fallback.attntags.com |
+| hvkfm.intotheam.com | fallback.attntags.com |
 | hzbvu.fewmoda.com | fallback.attntags.com |
 | hzgla.shopwss.com | fallback.attntags.com |
 | hziob.gooutdoors.co.uk | fallback.attntags.com |
@@ -2855,6 +2867,7 @@
 | lmczu.trailberg.com | fallback.attntags.com |
 | lmeci.stuartweitzman.com | fallback.attntags.com |
 | lodjo.electrifyexpo.com | fallback.attntags.com |
+| lohhp.champion.com | fallback.attntags.com |
 | lontr.mavi.com | fallback.attntags.com |
 | lovlf.perfume.com | fallback.attntags.com |
 | lqabu.olproshop.com | fallback.attntags.com |
@@ -3025,6 +3038,7 @@
 | onnie.roolee.com | fallback.attntags.com |
 | onvas.katespadeoutlet.com | fallback.attntags.com |
 | oorha.blacks.co.uk | fallback.attntags.com |
+| oosmj.swimsuitsforall.com | fallback.attntags.com |
 | opfjj.vivobarefoot.com | fallback.attntags.com |
 | opjqa.wineinsiders.com | fallback.attntags.com |
 | oprjr.shopfavoritedaughter.com | fallback.attntags.com |
@@ -3135,6 +3149,7 @@
 | qbuec.elvtd.com | fallback.attntags.com |
 | qcalq.whirleypopshop.com | fallback.attntags.com |
 | qchoh.lg.com | fallback.attntags.com |
+| qcvji.aliceandolivia.com | fallback.attntags.com |
 | qdhjl.borne.com | fallback.attntags.com |
 | qdqnd.snipesusa.com | fallback.attntags.com |
 | qeigr.luluandgeorgia.com | fallback.attntags.com |
@@ -3163,7 +3178,6 @@
 | qooig.jomajewellery.com | fallback.attntags.com |
 | qoold.furtunaskin.com | fallback.attntags.com |
 | qoqzf.astridandmiyu.com | fallback.attntags.com |
-| qotqa.simbasleep.com | fallback.attntags.com |
 | qpgdg.cheapfood.co.uk | fallback.attntags.com |
 | qphil.philosophy.com | fallback.attntags.com |
 | qpqgb.nordiccatch.com | fallback.attntags.com |
@@ -3288,6 +3302,7 @@
 | stlkh.janeiredale.com | fallback.attntags.com |
 | stpbt.softminkyblankets.com | fallback.attntags.com |
 | suezs.tiffany.it | fallback.attntags.com |
+| svfbc.finesse.us | fallback.attntags.com |
 | svhil.landsend.com | fallback.attntags.com |
 | svjpq.samedelman.ca | fallback.attntags.com |
 | svrrg.regencyfragrances.com | fallback.attntags.com |
@@ -3390,6 +3405,7 @@
 | upsmq.perlcosmetics.com | fallback.attntags.com |
 | uqagg.redlandcotton.com | fallback.attntags.com |
 | uqbcv.defenage.com | fallback.attntags.com |
+| uqbip.supplyhouse.com | fallback.attntags.com |
 | uqimh.catbirdnyc.com | fallback.attntags.com |
 | uqmsj.thrift.plus | fallback.attntags.com |
 | uqnnb.staud.clothing | fallback.attntags.com |
@@ -3609,6 +3625,7 @@
 | farhp.nadaderm.com | farhp.customers.edgetag.io |
 | fartu.healthvape.com | fartu.customers.edgetag.io |
 | fceaj.vrsnscents.com | fceaj.customers.edgetag.io |
+| fcfvj.drinkag1.com | fcfvj.customers.edgetag.io |
 | fchst.thyroidhealthhub.org | fchst.customers.edgetag.io |
 | fcirv.plutopillow.com | fcirv.customers.edgetag.io |
 | fctqr.emuaid.com | fctqr.customers.edgetag.io |
@@ -3877,6 +3894,7 @@
 | jtjed.emango.gr | jtjed.customers.edgetag.io |
 | jtknl.ashanderie.com | jtknl.customers.edgetag.io |
 | jtszc.homefreemusic.com | jtszc.customers.edgetag.io |
+| jttcy.livesans.co.uk | jttcy.eat.attntags.com |
 | jtugc.12thtribe.com | jtugc.customers.edgetag.io |
 | judek.jenny-bird.ca | judek.customers.edgetag.io |
 | juemd.parikart.com | juemd.customers.edgetag.io |
@@ -3889,6 +3907,7 @@
 | jvoaz.beautystat.com | jvoaz.customers.edgetag.io |
 | jvqrs.blackboxmycar.com | jvqrs.customers.edgetag.io |
 | jvsac.georgiemane.com | jvsac.customers.edgetag.io |
+| jwlcj.marketviewliquor.com | jwlcj.eat.attntags.com |
 | kadta.hecostix.com | kadta.customers.edgetag.io |
 | kakvk.poponveneers.com | kakvk.customers.edgetag.io |
 | kamju.cestlavie-newyork.com | kamju.customers.edgetag.io |
@@ -3919,6 +3938,7 @@
 | kjqas.getbrewsy.com | kjqas.customers.edgetag.io |
 | kkmjv.certapet.com | kkmjv.customers.edgetag.io |
 | kknka.tndetoxcenter.com | kknka.customers.edgetag.io |
+| kkqbi.takeyausa.com | kkqbi.customers.edgetag.io |
 | kktij.parkseed.com | kktij.customers.edgetag.io |
 | klcmq.cbdmd.com | klcmq.customers.edgetag.io |
 | klesu.emotive.io | klesu.customers.edgetag.io |
@@ -3969,6 +3989,7 @@
 | lbnku.doggielawn.com | lbnku.customers.edgetag.io |
 | lbrlp.mojosportswearcompany.com | lbrlp.customers.edgetag.io |
 | lbudo.keptcollection.com | lbudo.customers.edgetag.io |
+| lbvbv.withjean.com | lbvbv.eat.attntags.com |
 | lcdpq.spanx.com | lcdpq.customers.edgetag.io |
 | lchhd.wakeupwarrior.com | lchhd.customers.edgetag.io |
 | lcrbz.sterilybrasil.com | lcrbz.customers.edgetag.io |
@@ -4232,6 +4253,7 @@
 | patuv.aroma360.no | patuv.customers.edgetag.io |
 | pbkpf.openfarmpet.ca | pbkpf.customers.edgetag.io |
 | pbreo.sokolovelaw.com | pbreo.customers.edgetag.io |
+| pbszh.sundayriver.com | pbszh.eat.attntags.com |
 | pbttg.laaksonen-korut.fi | pbttg.customers.edgetag.io |
 | pcftn.moonbrew.co | pcftn.customers.edgetag.io |
 | pdaqa.fitmycar.co.nz | pdaqa.customers.edgetag.io |
@@ -4298,7 +4320,6 @@
 | qczgr.keyless-city.com | qczgr.customers.edgetag.io |
 | qeecl.bewegungsmeister.de | qeecl.customers.edgetag.io |
 | qelln.tyentusa.com | qelln.customers.edgetag.io |
-| qesrk.hdbuttercup.com | qesrk.customers.edgetag.io |
 | qgdgj.bugmd.com | qgdgj.customers.edgetag.io |
 | qggie.inovaairpurifiers.com.au | qggie.customers.edgetag.io |
 | qgzfu.tumblerware.com | qgzfu.customers.edgetag.io |
@@ -4322,6 +4343,7 @@
 | qnzma.beforeyouspeakcoffee.com | qnzma.customers.edgetag.io |
 | qogjk.hourraheros.be | qogjk.customers.edgetag.io |
 | qovbv.thesoutherntrapper.com | qovbv.customers.edgetag.io |
+| qpsbd.lksneakers.com.br | qpsbd.eat.attntags.com |
 | qqmhg.drinkag1.com | qqmhg.customers.edgetag.io |
 | qqpmt.heyremmy.com | qqpmt.customers.edgetag.io |
 | qqutq.fotomaster.com | qqutq.customers.edgetag.io |
@@ -4452,7 +4474,6 @@
 | snlpt.carnivoresnax.com | snlpt.customers.edgetag.io |
 | snmzj.blade-city.com | snmzj.customers.edgetag.io |
 | snoje.tierliebhaber.de | snoje.customers.edgetag.io |
-| snqss.refills.com | snqss.customers.edgetag.io |
 | snvkl.bulksupplements.com | snvkl.customers.edgetag.io |
 | soluz.luxskin.co | soluz.customers.edgetag.io |
 | spcfl.belongdesigns.com | spcfl.customers.edgetag.io |
@@ -4637,6 +4658,7 @@
 | vndjz.wearspf.com | vndjz.customers.edgetag.io |
 | vnqtp.ziptowntees.com | vnqtp.customers.edgetag.io |
 | vnufd.mixedupnutbutter.com | vnufd.customers.edgetag.io |
+| vnvws.theirnibs.com | vnvws.eat.attntags.com |
 | voiqe.nursinghomeabusecenter.com | voiqe.customers.edgetag.io |
 | vpike.lockandmortice.com | vpike.customers.edgetag.io |
 | vpkbt.genseebeauty.com | vpkbt.customers.edgetag.io |

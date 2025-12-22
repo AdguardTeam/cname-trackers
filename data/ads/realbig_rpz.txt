@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,6 +73,7 @@ www.mojwprb.ru CNAME .
 www.orbitnotify.com CNAME .
 www.pc-download.ru CNAME .
 www.prbcdn.online CNAME .
+www.procarsharing.store CNAME .
 www.pushrb.pro CNAME .
 www.qatro.ru CNAME .
 www.raelb2.ru CNAME .
@@ -91,7 +92,6 @@ www.rbpark3.ru CNAME .
 www.rbprk91645.ru CNAME .
 www.rekl1.com CNAME .
 www.rlrt.ru CNAME .
-www.siterec.site CNAME .
 www.step555.ru CNAME .
 xxx.extrablocks.ru CNAME .
 zbs.etodomendlyareklamy.ru CNAME .

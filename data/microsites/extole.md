@@ -305,7 +305,6 @@
     * harley.extole.io
     * harryrosen.extole.io
     * havenwellwithin.extole.io
-    * headway.extole.io
     * henri-bendel.extole.io
     * heydayskincare.extole.io
     * heydude.extole.io
@@ -956,7 +955,6 @@
 | refer.harryrosen.com | harryrosen.extole.io |
 | refer.hattiesburgamerican.com | hattiesburgamerican.extole.com |
 | share.havenwellwithin.com | havenwellwithin.extole.io |
-| referaprovider.headway.co | headway.extole.io |
 | refer.henribendel.com | henri-bendel.extole.io |
 | share.heydayskincare.com | heydayskincare.extole.io |
 | share.heydude.com | heydude.extole.io |

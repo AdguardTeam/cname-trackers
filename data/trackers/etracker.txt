@@ -118,6 +118,7 @@
 ||ferthu.seyffer.shop^
 ||go.eitrmsummit.com^
 ||go.kik.de^
+||gruenten.agrar-fachversand.com^
 ||gus.corinnavondermuehlen.de^
 ||insides.honic.eu^
 ||insights.bertelsmann-stiftung.de^

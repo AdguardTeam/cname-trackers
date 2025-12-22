@@ -3,6 +3,7 @@
 ||1bf86f4b.tictoc.ai^
 ||1of1.skipcash.app^
 ||4652415544.balancecredit.com^
+||a574f3c3.raylo.com^
 ||abfrage.etakenya.go.ke^
 ||acdc.toolineo.de^
 ||acsweb-3dr1.dnp-cdms.jp^
@@ -430,6 +431,7 @@
 ||content.vi.gov^
 ||content.westcreekfin.com^
 ||content.wizink.es^
+||content002.bet365.bet.ar^
 ||content002.bet365.bet.br^
 ||content002.bet365.ca^
 ||content002.bet365.com^
@@ -706,6 +708,7 @@
 ||jytrnq.cm-cic.com^
 ||kyc.usend.com^
 ||lab4.lloydsbank.com^
+||lght.loberon.com^
 ||ln.acornfun.com^
 ||ln.cash.app^
 ||ln.cidercasino.com^
@@ -1004,7 +1007,6 @@
 ||service.riverscontent.com^
 ||services-tmx.cofidis.cz^
 ||servicesdp.luckydays.ca^
-||servicesdp.spinaway.ca^
 ||sess.vippreferred.com^
 ||sfp.intuit.com^
 ||sg-payment.cydf.hoyoverse.com^
@@ -1155,7 +1157,6 @@
 ||tm.creditprotect.illion.com.au^
 ||tm.cybersource.com^
 ||tm.defense.dbp.fiservapps.com^
-||tm.espnbet.com^
 ||tm.fanduel.com^
 ||tm.fidelity.asia^
 ||tm.fidelity.ca^

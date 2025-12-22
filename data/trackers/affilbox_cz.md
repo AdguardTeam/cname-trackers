@@ -8,6 +8,7 @@
 
 * c2309.affilbox.cz
 * c4924.affilbox.cz
+* affiliate.elektronicke-vycvikove-obojky.com
 * affiliatesit.cz
 * c7158.affilbox.cz
 * c771.affilbox.cz
@@ -17,6 +18,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| affiliate.nejfotopasti.cz | affiliate.elektronicke-vycvikove-obojky.com |
 | login.affiliatesit.cz | affiliatesit.cz |
 | affil.myface.cz | c2309.affilbox.cz |
 | partner.topforteam.cz | c4670.affilbox.cz |
@@ -231,7 +233,6 @@
 | affiliate.nabytek-forliveshop.cz | cz.affilbox.cz |
 | affiliate.nakladatelstvi-riva.cz | cz.affilbox.cz |
 | affiliate.nalepime.cz | cz.affilbox.cz |
-| affiliate.nejfotopasti.cz | cz.affilbox.cz |
 | affiliate.nethost.cz | cz.affilbox.cz |
 | affiliate.nomind.cz | cz.affilbox.cz |
 | affiliate.novakabelka.cz | cz.affilbox.cz |
@@ -349,7 +350,6 @@
 | my.11teamsports.sk | cz.affilbox.cz |
 | my.fr.top4running.be | cz.affilbox.cz |
 | my.kickz.com | cz.affilbox.cz |
-| my.tint-store.ro | cz.affilbox.cz |
 | my.top4fitness.cz | cz.affilbox.cz |
 | my.top4fitness.de | cz.affilbox.cz |
 | my.top4fitness.fi | cz.affilbox.cz |

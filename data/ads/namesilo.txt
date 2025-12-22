@@ -307,7 +307,6 @@
 ||3416183.notifysrv.com^
 ||3416833.notifysrv.com^
 ||3419733.notifysrv.com^
-||3420743.notifysrv.com^
 ||3420765.notifysrv.com^
 ||3420767.notify6.com^
 ||3420767.notifysrv.com^
@@ -816,9 +815,6 @@
 ||8.notify.bizonads-ssp.com^
 ||_sip._tcp.meet.3393147.notifysrv.com^
 ||_sips._tcp.3323174.notifysrv.com^
-||a.8jfbt5va3r.com^
-||a.adsession.com^
-||a.advantageclicks.net^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
 ||a.cant3am.com^
@@ -828,7 +824,6 @@
 ||a.gentlefieldpattern.com^
 ||a.ku34bh9la09.com^
 ||a.ma3ion.com^
-||a.mikbaken.com^
 ||a.mx.notifysrv.com^
 ||a.n4m5x60.com^
 ||a.ns.notifysrv.com^
@@ -960,6 +955,7 @@
 ||s.ds3zoh.com^
 ||s.ds4de1.com^
 ||s.ds4i8a.com^
+||s.ds4tm6.com^
 ||s.ds4zqa.com^
 ||s.ds6n6c.com^
 ||s.ds7khy.com^
@@ -967,6 +963,7 @@
 ||s.ds8ect.com^
 ||s.ds8fc0.com^
 ||s.ds96gk.com^
+||s.ds9b1n.com^
 ||s.dsa8h7.com^
 ||s.dsajir.com^
 ||s.dsal8i.com^
@@ -1083,7 +1080,6 @@
 ||s.makolper.com^
 ||s.mikbaken.com^
 ||s.n4m5x60.com^
-||s.naffertop.com^
 ||s.native7.com^
 ||s.nidersaw.com^
 ||s.nowsrv.com^
@@ -1158,6 +1154,7 @@
 ||svn.notifysrv.com^
 ||sw.notifysrv.com^
 ||syndication-adblock.exoclick.com^
+||syndication-json.exoclick.com^
 ||syndication.dynsrvtbg.com^
 ||syndication.dynsrvwer.com^
 ||syndication.elink12.com^
@@ -1292,6 +1289,9 @@
 ||www.survey.notifysrv.com^
 ||a.18ramp.com^
 ||a.6hd49jng.com^
+||a.8jfbt5va3r.com^
+||a.adsession.com^
+||a.advantageclicks.net^
 ||a.advertrek.com^
 ||a.allureanews.com^
 ||a.asvsm.com^
@@ -1302,10 +1302,10 @@
 ||a.golhofer.com^
 ||a.hkartg.com^
 ||a.humnert.com^
+||a.mikbaken.com^
 ||a.pinkads.org^
 ||a.r8lnet.com^
 ||a.rocoads.net^
 ||a.santabrowser.com^
 ||a.t5z3w0p.com^
 ||a.traffic-gold.com^
-||syndication-json.exoclick.com^

@@ -68,6 +68,7 @@
     * h-39zuido3.online-metrix.net
     * h-3ch524y7.online-metrix.net
     * h-3egydtt8.online-metrix.net
+    * h-3f6c1fk9.online-metrix.net
     * h-3fb27s7b.online-metrix.net
     * h-3gk2er3j.online-metrix.net
     * h-3pg2vcxz.online-metrix.net
@@ -88,6 +89,7 @@
     * h-4iibpm7t-1.online-metrix.net
     * h-4izfn6dr.online-metrix.net
     * h-4kblllmz.online-metrix.net
+    * h-4q0qaaxj.online-metrix.net
     * h-4qqysdfz.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ruz3ugq2.online-metrix.net
@@ -184,7 +186,6 @@
     * h-8s9j9vgb.online-metrix.net
     * h-8t63q4n4.online-metrix.net
     * h-8uj1s5zr.online-metrix.net
-    * h-8vxymlqf.online-metrix.net
     * h-8wmmckk2.online-metrix.net
     * h-8ydtcbsf.online-metrix.net
     * h-8yt1muyv.online-metrix.net
@@ -459,7 +460,6 @@
     * h-dszu15n8.online-metrix.net
     * h-dubkxo24.online-metrix.net
     * h-dux3ssmw.online-metrix.net
-    * h-dwiy84jk-a.online-metrix.net
     * h-dwiy84jk.online-metrix.net
     * h-dxmw0w7i.online-metrix.net
     * h-dy06hdpq.online-metrix.net
@@ -992,6 +992,7 @@
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | fss.glbank.com | h-3ch524y7.online-metrix.net |
 | xmt.wallet.cat.earlywarning.io | h-3egydtt8.online-metrix.net |
+| lght.loberon.com | h-3f6c1fk9.online-metrix.net |
 | common.1win.com | h-3fb27s7b.online-metrix.net |
 | res.1wcommon.com | h-3fb27s7b.online-metrix.net |
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
@@ -1007,6 +1008,7 @@
 | dmo-services-tmx.cofidis.cz | h-460nu0c9.online-metrix.net |
 | services-tmx.cofidis.cz | h-460nu0c9.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
+| content002.bet365.bet.ar | h-47z24dz9.online-metrix.net |
 | content002.bet365.bet.br | h-47z24dz9.online-metrix.net |
 | content002.bet365.ca | h-47z24dz9.online-metrix.net |
 | content002.bet365.com | h-47z24dz9.online-metrix.net |
@@ -1028,6 +1030,7 @@
 | ep-content.vivigo.pl | h-4iibpm7t-1.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | ep.heartland.co.nz | h-4kblllmz.online-metrix.net |
+| a574f3c3.raylo.com | h-4q0qaaxj.online-metrix.net |
 | content.heidipay.com | h-4qqysdfz.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | dep.gambit29.gameassists.co.uk | h-4ruz3ugq2.online-metrix.net |
@@ -1179,7 +1182,6 @@
 | cdna.monabanq.com | h-8s9j9vgb.online-metrix.net |
 | rba.apata.io | h-8t63q4n4.online-metrix.net |
 | req.secured-content.com | h-8uj1s5zr.online-metrix.net |
-| tm.espnbet.com | h-8vxymlqf.online-metrix.net |
 | thmep.zondacrypto.com | h-8wmmckk2.online-metrix.net |
 | content.myfamliplus.state.co.us | h-8ydtcbsf.online-metrix.net |
 | telempdf.vepormas.com | h-8yt1muyv.online-metrix.net |
@@ -1663,7 +1665,6 @@
 | acdc.toolineo.de | h-dszu15n8.online-metrix.net |
 | xmt.paze.com | h-dubkxo24.online-metrix.net |
 | client.online.sandyspringbank.com | h-dux3ssmw.online-metrix.net |
-| servicesdp.spinaway.ca | h-dwiy84jk-a.online-metrix.net |
 | servicesdp.luckydays.ca | h-dwiy84jk.online-metrix.net |
 | cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
 | rqt-cl-cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |

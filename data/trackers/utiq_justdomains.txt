@@ -325,6 +325,7 @@ utiq.nicematin.net
 utiq.noovomoi.ca
 utiq.nordlittoral.fr
 utiq.nostalgie.fr
+utiq.noticiasdealava.eus
 utiq.notizie.it
 utiq.nrj-play.fr
 utiq.nrj.fr

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -219,7 +219,6 @@ affiliate.montessorikurz.cz CNAME .
 affiliate.nabytek-forliveshop.cz CNAME .
 affiliate.nakladatelstvi-riva.cz CNAME .
 affiliate.nalepime.cz CNAME .
-affiliate.nejfotopasti.cz CNAME .
 affiliate.nethost.cz CNAME .
 affiliate.nomind.cz CNAME .
 affiliate.novakabelka.cz CNAME .
@@ -337,7 +336,6 @@ my.11teamsports.si CNAME .
 my.11teamsports.sk CNAME .
 my.fr.top4running.be CNAME .
 my.kickz.com CNAME .
-my.tint-store.ro CNAME .
 my.top4fitness.cz CNAME .
 my.top4fitness.de CNAME .
 my.top4fitness.fi CNAME .
@@ -981,6 +979,7 @@ www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .
 affiliate.kulturistika.com CNAME .
+affiliate.nejfotopasti.cz CNAME .
 login.affiliatesit.cz CNAME .
 partner.eliteways.cz CNAME .
 partner.janapekna.cz CNAME .

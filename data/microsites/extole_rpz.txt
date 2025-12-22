@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -446,7 +446,6 @@ referafriend.comcast.com CNAME .
 referafriend.directv.com CNAME .
 referafriend.discover.com CNAME .
 referafriend.xfinity.com CNAME .
-referaprovider.headway.co CNAME .
 referavet.petco.com CNAME .
 referral.ammunitiondepot.com CNAME .
 referral.bluehost.com CNAME .

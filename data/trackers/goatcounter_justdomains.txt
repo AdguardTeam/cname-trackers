@@ -39,7 +39,6 @@ dot-com-stats.sladewatkins.net
 gc.acut3.net
 gc.grokhard.com
 gc.hausarzt-zentrum-herne.de
-gc.leadership.garden
 gc.miluchacontraeltabaco.com
 gc.mindenugyved.hu
 gc.noscirep.com
@@ -168,7 +167,6 @@ stats.zl2edh.com
 trackerstats.davidthe.dev
 tracking.undercovermunich.de
 usage.ideasnap.co
-varz.mcyoung.xyz
 vault-stats.sladewatkins.net
 visit.argfuscator.net
 visit.hijacklibs.net

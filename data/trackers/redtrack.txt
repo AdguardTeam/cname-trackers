@@ -280,7 +280,6 @@
 ||ir.impressiverevenue.com^
 ||isl.caminos.click^
 ||jater.rcktrk.com^
-||journey.refills.com^
 ||jp.jajipo.com^
 ||jt.tracks.insiderlegacysecret.com^
 ||jt.tracks.theeconomiclegacy.com^
@@ -471,7 +470,6 @@
 ||rt.nathantop.shop^
 ||rt.sarahssilks.com^
 ||rt.saunatica.com^
-||rt.savemaxauto.com^
 ||rt.suterahome.com^
 ||rt.suterastone.com^
 ||rt.suteratowels.com^
@@ -500,7 +498,6 @@
 ||rtk.trk.betterbenefitsforseniors.com^
 ||rtk.trk.budgetcenterusa.com^
 ||rtk.trk.callforbenefits.com^
-||rtk.trk.careforallnow.com^
 ||rtk.trk.choicehealthnow.com^
 ||rtk.trk.claimseniorbenefitstoday.com^
 ||rtk.trk.coverageforyounow.com^
@@ -515,7 +512,6 @@
 ||rtk.trk.gainyourbenefits.com^
 ||rtk.trk.healthaccessblog.com^
 ||rtk.trk.healthaccesstoday.com^
-||rtk.trk.healthcarechoicehub.com^
 ||rtk.trk.healthplanscoverage.com^
 ||rtk.trk.healthrebatesdaily.com^
 ||rtk.trk.healthvitalityexpenses.com^
@@ -732,7 +728,6 @@
 ||track.mktgthreads.com^
 ||track.mnjsales.com^
 ||track.momoxxiosi.com^
-||track.mrgugu.com^
 ||track.mtraq121om2.com^
 ||track.mtraq127sa.com^
 ||track.mtraq129gr.com^
@@ -744,6 +739,7 @@
 ||track.mtraq136uae2.com^
 ||track.mtraq141uae.com^
 ||track.mtraq143uae.com^
+||track.mybioherb.com^
 ||track.myinsurancerelief.com^
 ||track.myquotehealth.online^
 ||track.newwaytotrade.com^
@@ -978,6 +974,7 @@
 ||trk.trkr.store^
 ||trk.trksky23.com^
 ||trk.trktrackingfbads.click^
+||trk.trktrackingpt.click^
 ||trk.truehealthytoday.com^
 ||trk.trxops.com^
 ||trk.usawalletbreak.com^
@@ -994,7 +991,6 @@
 ||trkmia.novamd.com^
 ||trkmt.getbugmd.com^
 ||trusted.trusted-essentials.com^
-||try.americas-helper.com^
 ||try.surveydose.com^
 ||tt.flowntw.com^
 ||two.betterdomino.com^
@@ -1061,6 +1057,7 @@
 ||att.trk.loveatfirstfight.com^
 ||att.trk.mmawarehouse.com^
 ||att.trk.rtrk.app^
+||att.trk.usebigboom.com.br^
 ||blog.verbraucher-ratgeber.info^
 ||bok.sklepmedic.pl^
 ||ce.adsdomaintracking.com^
@@ -1104,6 +1101,7 @@
 ||insight.alwaysfit.com.br^
 ||insight.apothekenblatt.de^
 ||insight.carla-jewelry.com^
+||insight.cumaskincare.com^
 ||insight.fluff.co^
 ||insight.gelexobel.de^
 ||insight.hoola.com^
@@ -1150,6 +1148,7 @@
 ||red.swissfx.net^
 ||red.veloureuk.com^
 ||redtk.fitbyyou.com^
+||redtrack-2.revguru.io^
 ||redtrack.distacart.com^
 ||redtrack.ecodrive.in.ua^
 ||redtrack.godlike.host^
@@ -1186,6 +1185,7 @@
 ||rtrk.swipey.club^
 ||rtrk.swipey.me^
 ||rtrk.swipeyai.com^
+||rtt.verseo.pl^
 ||rttrk.wyylde.com^
 ||s2s.overgear.com^
 ||sara.buenospa.com^
@@ -1218,7 +1218,6 @@
 ||track.catspros.com^
 ||track.cbdmuay.com^
 ||track.centerforovercoming.com^
-||track.clasesdeeconomia.com^
 ||track.classysculptures.com^
 ||track.cosplayware.com^
 ||track.cufflinkdeals.com^
@@ -1232,6 +1231,7 @@
 ||track.fntrk.org^
 ||track.fradall.com^
 ||track.generationgenius.com^
+||track.gesundheits-welt.net^
 ||track.healthroutine.de^
 ||track.impt.io^
 ||track.imreadyforsummer.com^
@@ -1253,6 +1253,7 @@
 ||track.muaystore.sk^
 ||track.my.ofpfunding.com^
 ||track.northfashionstore.com^
+||track.organicbazar.net^
 ||track.petsummits.com^
 ||track.physiohealth-line.de^
 ||track.ploclicktrack.com^
@@ -1271,8 +1272,10 @@
 ||track.thebirdlovers.com^
 ||track.togetherprice.com^
 ||track.toxicasino.com^
+||track.trackleads.com.au^
 ||track.traktor.fleszbielizna.com^
 ||track.truesource.com.br^
+||track.tusztusz.pl^
 ||track.vbet.bet.br^
 ||track.venitotrack.online^
 ||track.victorybet.ro^
@@ -1301,6 +1304,8 @@
 ||trk.galileofx.com^
 ||trk.garageflooringusa.com^
 ||trk.gardenz-hi.com^
+||trk.juztcard.mx^
+||trk.konner-sohnen.com^
 ||trk.konner-sohnen.com.ua^
 ||trk.lifelab.no^
 ||trk.misnst.xyz^
@@ -1317,6 +1322,7 @@
 ||tt.safeyourlove.shop^
 ||twr.americandiabeteshealthinstitute.com^
 ||unlock.plainbear.co.uk^
+||unlock.ulkeshop.com^
 ||weem.weemco.com^
 ||www.minhalojacsts.com.br^
 ||www.redtrackfan.club^
@@ -1328,7 +1334,6 @@
 ||click.track.nearthecashcorner.com^
 ||fiko.cpm-toohigh.click^
 ||fiko2.skin-squad.click^
-||go.benefitresourceassist.com^
 ||go.instantusabenefits.com^
 ||go.madeeasypolicies.com^
 ||go.taptrk.com^
@@ -1341,9 +1346,10 @@
 ||track.24monetize.com^
 ||track.topsolutions.club^
 ||track.trkbtga.com^
-||trk.acareliefact.org^
 ||trk.saveclever.org^
 ||click.mmotoplay.com^
+||go.benefitresourceassist.com^
 ||track.glukobestpro.net^
 ||track.nativead.be^
 ||track.routes.name^
+||trk.acareliefact.org^

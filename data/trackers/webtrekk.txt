@@ -32,7 +32,6 @@
 ||tracking.tchibo.pl^
 ||tracking.tchibo.sk^
 ||w3.flatex.es^
-||w3.flatex.nl^
 ||wbtrkk.teufelaudio.co.uk^
 ||webts.adac.de^
 ||wtm.interhyp.de^

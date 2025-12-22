@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ blackberry.btc-europe.com CNAME .
 blackberry.suvinil.com.br CNAME .
 collect.aeonbank.co.jp CNAME .
 collect.asics.com CNAME .
+collect.calvinklein.co.uk CNAME .
 collect.kinto-jp.com CNAME .
 collect.mtgec.jp CNAME .
 collect.tommy.com CNAME .
@@ -129,14 +130,14 @@ tags.caixabankpc.com CNAME .
 tags.caixabankresearch.com CNAME .
 tags.calvinklein.co.uk CNAME .
 tags.calvinklein.com CNAME .
-tags.calvinklein.cz CNAME .
 tags.calvinklein.de CNAME .
 tags.calvinklein.dk CNAME .
 tags.calvinklein.es CNAME .
-tags.calvinklein.fr CNAME .
+tags.calvinklein.ie CNAME .
 tags.calvinklein.it CNAME .
 tags.calvinklein.nl CNAME .
-tags.calvinklein.pl CNAME .
+tags.calvinklein.pt CNAME .
+tags.calvinklein.se CNAME .
 tags.cardscout.de CNAME .
 tags.carecredit.com CNAME .
 tags.carecreditprovidercenter.com CNAME .
@@ -186,6 +187,7 @@ tags.kavkazr.com CNAME .
 tags.klove.com CNAME .
 tags.kmart.com.au CNAME .
 tags.krymr.com CNAME .
+tags.lampsplus.com CNAME .
 tags.lumieredevie.com CNAME .
 tags.maghrebvoices.com CNAME .
 tags.mainova.de CNAME .
@@ -204,6 +206,7 @@ tags.netmoms.de CNAME .
 tags.newzealand.com CNAME .
 tags.nutrametrix.com CNAME .
 tags.openbank.us CNAME .
+tags.oportun.com CNAME .
 tags.otezla.com CNAME .
 tags.otezlapro.com CNAME .
 tags.ozodi.org CNAME .
@@ -327,8 +330,8 @@ tccd.douglas.de CNAME .
 tccd.douglas.es CNAME .
 tccd.douglas.it CNAME .
 tccd.douglas.lt CNAME .
-tccd.douglas.nl CNAME .
 tccd.douglas.pl CNAME .
+tccd.douglas.sk CNAME .
 tccd.nocibe.fr CNAME .
 teal.cdt.santander.com.co CNAME .
 teal.openbank.de CNAME .
@@ -382,7 +385,6 @@ tttd.douglas.ch CNAME .
 tttd.douglas.de CNAME .
 tttd.douglas.es CNAME .
 tttd.douglas.hr CNAME .
-tttd.douglas.hu CNAME .
 tttd.douglas.it CNAME .
 tttd.douglas.lt CNAME .
 tttd.douglas.lv CNAME .
@@ -392,9 +394,11 @@ tttd.douglas.pt CNAME .
 tttd.douglas.ro CNAME .
 tttd.douglas.sk CNAME .
 tttd.nocibe.fr CNAME .
-tttd.parfumdreams.ch CNAME .
+tttd.parfumdreams.co.uk CNAME .
 tttd.parfumdreams.de CNAME .
 tttd.parfumdreams.fr CNAME .
+tttd.parfumdreams.nl CNAME .
+tttd.parfumdreams.se CNAME .
 visitor-service.aeonbank.co.jp CNAME .
 visitor-service.ansons.de CNAME .
 visitor-service.fancl.co.jp CNAME .
@@ -422,7 +426,6 @@ collect.calvinklein.at CNAME .
 collect.calvinklein.be CNAME .
 collect.calvinklein.bg CNAME .
 collect.calvinklein.ch CNAME .
-collect.calvinklein.co.uk CNAME .
 collect.calvinklein.com CNAME .
 collect.calvinklein.cz CNAME .
 collect.calvinklein.de CNAME .
@@ -456,10 +459,10 @@ tccd.douglas.ee CNAME .
 tccd.douglas.hr CNAME .
 tccd.douglas.hu CNAME .
 tccd.douglas.lv CNAME .
+tccd.douglas.nl CNAME .
 tccd.douglas.pt CNAME .
 tccd.douglas.ro CNAME .
 tccd.douglas.si CNAME .
-tccd.douglas.sk CNAME .
 tccd.niche-beauty.com CNAME .
 tccd.parfumdreams.de CNAME .
 collect.fancl.co.jp CNAME .
@@ -478,19 +481,18 @@ tags.calvinklein.at CNAME .
 tags.calvinklein.be CNAME .
 tags.calvinklein.bg CNAME .
 tags.calvinklein.ch CNAME .
+tags.calvinklein.cz CNAME .
 tags.calvinklein.ee CNAME .
 tags.calvinklein.fi CNAME .
+tags.calvinklein.fr CNAME .
 tags.calvinklein.hr CNAME .
 tags.calvinklein.hu CNAME .
-tags.calvinklein.ie CNAME .
 tags.calvinklein.lt CNAME .
 tags.calvinklein.lu CNAME .
 tags.calvinklein.lv CNAME .
-tags.calvinklein.pt CNAME .
-tags.calvinklein.se CNAME .
+tags.calvinklein.pl CNAME .
 tags.calvinklein.si CNAME .
 tags.calvinklein.sk CNAME .
-tags.oportun.com CNAME .
 tags.sixpad.jp CNAME .
 tms-tags.sony.jp CNAME .
 tptd.douglas.es CNAME .
@@ -504,19 +506,18 @@ view.peek-cloppenburg.de CNAME .
 view.stylebob.com CNAME .
 tttd.douglas.cz CNAME .
 tttd.douglas.ee CNAME .
+tttd.douglas.hu CNAME .
 tttd.douglas.si CNAME .
 tttd.niche-beauty.com CNAME .
 tttd.parfumdreams.at CNAME .
 tttd.parfumdreams.be CNAME .
-tttd.parfumdreams.co.uk CNAME .
+tttd.parfumdreams.ch CNAME .
 tttd.parfumdreams.cz CNAME .
 tttd.parfumdreams.dk CNAME .
 tttd.parfumdreams.es CNAME .
 tttd.parfumdreams.fi CNAME .
 tttd.parfumdreams.ie CNAME .
 tttd.parfumdreams.it CNAME .
-tttd.parfumdreams.nl CNAME .
 tttd.parfumdreams.pl CNAME .
 tttd.parfumdreams.pt CNAME .
-tttd.parfumdreams.se CNAME .
 view.oportun.com CNAME .

@@ -9,7 +9,6 @@
 * 1und1.vgwort-de.2cnt.net
 * slb-vgwort-de-pool03.vgwort-de.2cnt.net
 * slb-vgwort-de-pool02.vgwort-de.2cnt.net
-* beck.vgwort-de.2cnt.net
 * berliner-kurier.vgwort-de.2cnt.net
 * berliner-zeitung.vgwort-de.2cnt.net
 * bild.vgwort-de.2cnt.net
@@ -30,7 +29,6 @@
 * merkur.vgwort-de.2cnt.net
 * mopo.vgwort-de.2cnt.net
 * n-tv.vgwort-de.2cnt.net
-* nomos.vgwort-de.2cnt.net
 * pl01.prolitteris.2cnt.net
 * rtl.vgwort-de.2cnt.net
 * spiegel.vgwort-de.2cnt.net
@@ -75,7 +73,6 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | 1und1.met.vgwort.de | 1und1.vgwort-de.2cnt.net |
-| beck.met.vgwort.de | beck.vgwort-de.2cnt.net |
 | berliner-kurier.met.vgwort.de | berliner-kurier.vgwort-de.2cnt.net |
 | berliner-zeitung.met.vgwort.de | berliner-zeitung.vgwort-de.2cnt.net |
 | bild.met.vgwort.de | bild.vgwort-de.2cnt.net |
@@ -95,7 +92,6 @@
 | merkur.met.vgwort.de | merkur.vgwort-de.2cnt.net |
 | mopo.met.vgwort.de | mopo.vgwort-de.2cnt.net |
 | n-tv.met.vgwort.de | n-tv.vgwort-de.2cnt.net |
-| nomos.met.vgwort.de | nomos.vgwort-de.2cnt.net |
 | pl01.owen.prolitteris.ch | pl01.prolitteris.2cnt.net |
 | pl02.owen.prolitteris.ch | pl02.prolitteris.2cnt.net |
 | rtl.met.vgwort.de | rtl.vgwort-de.2cnt.net |
@@ -157,7 +153,6 @@
 | wolterskluwer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | abendblatt.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | amica.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
-| beck.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | beck.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | berliner-kurier.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | berliner-zeitung.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -235,6 +230,7 @@
 | vg03.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | vg05.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | vg07.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
+| vg09.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | vg09.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | wiley.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | zeit.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |

@@ -93,5 +93,6 @@
   "mr-in-staging.beginlearning.com": "homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com",
   "mr-in.beginlearning.com": "homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com",
   "mr-in.littlepassports.com": "homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com",
+  "mr.olympics.com": "ioc-prod1.aws.mr-in.com",
   "mr.pinkbike.com": "outside.mr-in.com"
 }

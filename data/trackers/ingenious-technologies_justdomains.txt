@@ -2603,10 +2603,8 @@
 25b3jap28y1jezni.net.daraz.com
 2a6jk46shfyp0lxg.administrators.net.daraz.com
 2dhmpisq.net.mydays.de
-2dollarearrings.net.mydays.de
 2fevernote-6-2.net.mydays.de
 2fwww1.net.mydays.de
-2marketing-docs.net.home24.de
 2mhesk294m2fhou5.docs.net.daraz.com
 2nq7m57at7uxoi9e.administrators.net.daraz.com
 2psagenglegacy.0-030.net.daraz.com
@@ -3354,7 +3352,6 @@ desktop.engineapplication-spring.net.daraz.com
 desktopchd-www.partner.net.daraz.com
 desmtp1ops-ns2.smtp1ismtp1iotech.net.daraz.com
 deutops-ns2.utiutiotech.net.daraz.com
-dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com
 dev-csr41.application.net.daraz.com
 dev.10-marketing.net.daraz.com
 dev1ps-ns2.vivi1tech.net.daraz.com
@@ -3734,7 +3731,6 @@ ftpbejav.assets.net.daraz.com
 ftrain-r-oa-1eya.ttrain-r-oa-1ain.net.daraz.com
 fw-emailvision.email.freya.net.daraz.com
 g.patner.net.daraz.com
-g.whatsapp.net.iberostar.com
 gallery.emailvision.panel.net.daraz.com
 groups-3arketing.net.daraz.com
 groups-zigzagstr.administrators.net.daraz.com
@@ -3956,7 +3952,6 @@ nadmin8.emailviadmin8ion.uadmin8.net.daraz.com
 nca3.mobilecl.bellcaouth.net.daraz.com
 neon.manage.lib-oa-1.net.daraz.com
 neso.r.niwepa.com
-net.brillen.de
 net.daraz.com
 netfrontcar31.net.daraz.com
 news.bejav.net.daraz.com
@@ -4388,6 +4383,7 @@ summer-patner.net.daraz.com
 support-cloudfrontcar31.net.daraz.com
 svc-01-caauthenticate21-10-authenticate-oa-1.net.daraz.com
 svc.manage.lib-oa-1.net.daraz.com
+svcgateway.net.daraz.com
 testdraganddropobjects.net.daraz.com
 thumbs-partner.net.daraz.com
 tokenbroker.net.daraz.com
@@ -4574,7 +4570,12 @@ zzpdbs3e62zt91c04r.dbsdministrdbstor.net.daraz.com
 zzpmagento3e62zt91c04r.magentodministrmagentotor.net.daraz.com
 zzprg3e62zt91c04r.rgdministrrgtor.net.daraz.com
 252fdropbox-2.net.mydays.de
+2dollarearrings.net.mydays.de
+2marketing-docs.net.home24.de
+dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com
 et-3-0-2.gw1.mia19.alter.net.iberostar.com
+g.whatsapp.net.iberostar.com
+net.brillen.de
 net.home24.at
 net.home24.be
 net.home24.it

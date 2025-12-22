@@ -18,6 +18,7 @@
     * blackberry.suvinil.com.br.greylabeldelivery.com
     * collect.aeonbank.co.jp.greylabeldelivery.com
     * collect.asics.com.greylabeldelivery.com
+    * collect.calvinklein.co.uk.greylabeldelivery.com
     * collect.kinto-jp.greylabeldelivery.com
     * collect.mtgec.jp.greylabeldelivery.com
     * collect.tommy.com.greylabeldelivery.com
@@ -121,14 +122,14 @@
     * tags.caixabankresearch.com.greylabeldelivery.com
     * tags.calvinklein.co.uk.greylabeldelivery.com
     * tags.calvinklein.com.greylabeldelivery.com
-    * tags.calvinklein.cz.greylabeldelivery.com
     * tags.calvinklein.de.greylabeldelivery.com
     * tags.calvinklein.dk.greylabeldelivery.com
     * tags.calvinklein.es.greylabeldelivery.com
-    * tags.calvinklein.fr.greylabeldelivery.com
+    * tags.calvinklein.ie.greylabeldelivery.com
     * tags.calvinklein.it.greylabeldelivery.com
     * tags.calvinklein.nl.greylabeldelivery.com
-    * tags.calvinklein.pl.greylabeldelivery.com
+    * tags.calvinklein.pt.greylabeldelivery.com
+    * tags.calvinklein.se.greylabeldelivery.com
     * tags.cardscout.de.greylabeldelivery.com
     * tags.carecredit.com.greylabeldelivery.com
     * tags.carecreditprovidercenter.com.greylabeldelivery.com
@@ -178,6 +179,7 @@
     * tags.klove.com.greylabeldelivery.com
     * tags.kmart.com.au.greylabeldelivery.com
     * tags.krymr.com.greylabeldelivery.com
+    * tags.lampsplus.com.greylabeldelivery.com
     * tags.lumieredevie.com.greylabeldelivery.com
     * tags.maghrebvoices.com.greylabeldelivery.com
     * tags.mainova.de.greylabeldelivery.com
@@ -196,6 +198,7 @@
     * tags.newzealand.com.greylabeldelivery.com
     * tags.nutrametrix.com.greylabeldelivery.com
     * tags.openbank.us.greylabeldelivery.com
+    * tags.oportun.com.greylabeldelivery.com
     * tags.otezla.com.pc-hmt.greylabeldelivery.com
     * tags.otezlapro.com.pc-hmt.greylabeldelivery.com
     * tags.ozodi.org.greylabeldelivery.com
@@ -318,8 +321,8 @@
     * tccd.douglas.es.greylabeldelivery.com
     * tccd.douglas.it.greylabeldelivery.com
     * tccd.douglas.lt.greylabeldelivery.com
-    * tccd.douglas.nl.greylabeldelivery.com
     * tccd.douglas.pl.greylabeldelivery.com
+    * tccd.douglas.sk.greylabeldelivery.com
     * tccd.nocibe.fr.greylabeldelivery.com
     * teal.cdt.santander.com.co.greylabeldelivery.com
     * teal.openbank.de.greylabeldelivery.com
@@ -372,7 +375,6 @@
     * tttd.douglas.de.greylabeldelivery.com
     * tttd.douglas.es.greylabeldelivery.com
     * tttd.douglas.hr.greylabeldelivery.com
-    * tttd.douglas.hu.greylabeldelivery.com
     * tttd.douglas.it.greylabeldelivery.com
     * tttd.douglas.lt.greylabeldelivery.com
     * tttd.douglas.lv.greylabeldelivery.com
@@ -382,9 +384,11 @@
     * tttd.douglas.ro.greylabeldelivery.com
     * tttd.douglas.sk.greylabeldelivery.com
     * tttd.nocibe.fr.greylabeldelivery.com
-    * tttd.parfumdreams.ch.greylabeldelivery.com
+    * tttd.parfumdreams.co.uk.greylabeldelivery.com
     * tttd.parfumdreams.de.greylabeldelivery.com
     * tttd.parfumdreams.fr.greylabeldelivery.com
+    * tttd.parfumdreams.nl.greylabeldelivery.com
+    * tttd.parfumdreams.se.greylabeldelivery.com
     * visitor-service.aeonbank.co.jp.greylabeldelivery.com
     * visitor-service.ansons.de.greylabeldelivery.com
     * visitor-service.fancl.co.jp.greylabeldelivery.com
@@ -446,6 +450,7 @@
 | blackberry.suvinil.com.br | blackberry.suvinil.com.br.greylabeldelivery.com |
 | collect.aeonbank.co.jp | collect.aeonbank.co.jp.greylabeldelivery.com |
 | collect.asics.com | collect.asics.com.greylabeldelivery.com |
+| collect.calvinklein.co.uk | collect.calvinklein.co.uk.greylabeldelivery.com |
 | collect.kinto-jp.com | collect.kinto-jp.greylabeldelivery.com |
 | collect.mtgec.jp | collect.mtgec.jp.greylabeldelivery.com |
 | collect.tommy.com | collect.tommy.com.greylabeldelivery.com |
@@ -635,14 +640,14 @@
 | tags.caixabankresearch.com | tags.caixabankresearch.com.greylabeldelivery.com |
 | tags.calvinklein.co.uk | tags.calvinklein.co.uk.greylabeldelivery.com |
 | tags.calvinklein.com | tags.calvinklein.com.greylabeldelivery.com |
-| tags.calvinklein.cz | tags.calvinklein.cz.greylabeldelivery.com |
 | tags.calvinklein.de | tags.calvinklein.de.greylabeldelivery.com |
 | tags.calvinklein.dk | tags.calvinklein.dk.greylabeldelivery.com |
 | tags.calvinklein.es | tags.calvinklein.es.greylabeldelivery.com |
-| tags.calvinklein.fr | tags.calvinklein.fr.greylabeldelivery.com |
+| tags.calvinklein.ie | tags.calvinklein.ie.greylabeldelivery.com |
 | tags.calvinklein.it | tags.calvinklein.it.greylabeldelivery.com |
 | tags.calvinklein.nl | tags.calvinklein.nl.greylabeldelivery.com |
-| tags.calvinklein.pl | tags.calvinklein.pl.greylabeldelivery.com |
+| tags.calvinklein.pt | tags.calvinklein.pt.greylabeldelivery.com |
+| tags.calvinklein.se | tags.calvinklein.se.greylabeldelivery.com |
 | tags.cardscout.de | tags.cardscout.de.greylabeldelivery.com |
 | tags.carecredit.com | tags.carecredit.com.greylabeldelivery.com |
 | tags.carecreditprovidercenter.com | tags.carecreditprovidercenter.com.greylabeldelivery.com |
@@ -692,6 +697,7 @@
 | tags.klove.com | tags.klove.com.greylabeldelivery.com |
 | tags.kmart.com.au | tags.kmart.com.au.greylabeldelivery.com |
 | tags.krymr.com | tags.krymr.com.greylabeldelivery.com |
+| tags.lampsplus.com | tags.lampsplus.com.greylabeldelivery.com |
 | tags.lumieredevie.com | tags.lumieredevie.com.greylabeldelivery.com |
 | tags.maghrebvoices.com | tags.maghrebvoices.com.greylabeldelivery.com |
 | tags.mainova.de | tags.mainova.de.greylabeldelivery.com |
@@ -710,6 +716,7 @@
 | tags.newzealand.com | tags.newzealand.com.greylabeldelivery.com |
 | tags.nutrametrix.com | tags.nutrametrix.com.greylabeldelivery.com |
 | tags.openbank.us | tags.openbank.us.greylabeldelivery.com |
+| tags.oportun.com | tags.oportun.com.greylabeldelivery.com |
 | tags.otezla.com | tags.otezla.com.pc-hmt.greylabeldelivery.com |
 | tags.otezlapro.com | tags.otezlapro.com.pc-hmt.greylabeldelivery.com |
 | tags.ozodi.org | tags.ozodi.org.greylabeldelivery.com |
@@ -833,8 +840,8 @@
 | tccd.douglas.es | tccd.douglas.es.greylabeldelivery.com |
 | tccd.douglas.it | tccd.douglas.it.greylabeldelivery.com |
 | tccd.douglas.lt | tccd.douglas.lt.greylabeldelivery.com |
-| tccd.douglas.nl | tccd.douglas.nl.greylabeldelivery.com |
 | tccd.douglas.pl | tccd.douglas.pl.greylabeldelivery.com |
+| tccd.douglas.sk | tccd.douglas.sk.greylabeldelivery.com |
 | tccd.nocibe.fr | tccd.nocibe.fr.greylabeldelivery.com |
 | teal.cdt.santander.com.co | teal.cdt.santander.com.co.greylabeldelivery.com |
 | teal.openbank.de | teal.openbank.de.greylabeldelivery.com |
@@ -888,7 +895,6 @@
 | tttd.douglas.de | tttd.douglas.de.greylabeldelivery.com |
 | tttd.douglas.es | tttd.douglas.es.greylabeldelivery.com |
 | tttd.douglas.hr | tttd.douglas.hr.greylabeldelivery.com |
-| tttd.douglas.hu | tttd.douglas.hu.greylabeldelivery.com |
 | tttd.douglas.it | tttd.douglas.it.greylabeldelivery.com |
 | tttd.douglas.lt | tttd.douglas.lt.greylabeldelivery.com |
 | tttd.douglas.lv | tttd.douglas.lv.greylabeldelivery.com |
@@ -898,9 +904,11 @@
 | tttd.douglas.ro | tttd.douglas.ro.greylabeldelivery.com |
 | tttd.douglas.sk | tttd.douglas.sk.greylabeldelivery.com |
 | tttd.nocibe.fr | tttd.nocibe.fr.greylabeldelivery.com |
-| tttd.parfumdreams.ch | tttd.parfumdreams.ch.greylabeldelivery.com |
+| tttd.parfumdreams.co.uk | tttd.parfumdreams.co.uk.greylabeldelivery.com |
 | tttd.parfumdreams.de | tttd.parfumdreams.de.greylabeldelivery.com |
 | tttd.parfumdreams.fr | tttd.parfumdreams.fr.greylabeldelivery.com |
+| tttd.parfumdreams.nl | tttd.parfumdreams.nl.greylabeldelivery.com |
+| tttd.parfumdreams.se | tttd.parfumdreams.se.greylabeldelivery.com |
 | collect.ansons.de | uconnect-alb-greylabel-1511792371.eu-central-1.elb.amazonaws.com |
 | collect.calvinklein.at | uconnect-alb-greylabel-1511792371.eu-central-1.elb.amazonaws.com |
 | collect.calvinklein.be | uconnect-alb-greylabel-1511792371.eu-central-1.elb.amazonaws.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -318,7 +318,6 @@ $TTL 300
 3416183.notifysrv.com CNAME .
 3416833.notifysrv.com CNAME .
 3419733.notifysrv.com CNAME .
-3420743.notifysrv.com CNAME .
 3420765.notifysrv.com CNAME .
 3420767.notify6.com CNAME .
 3420767.notifysrv.com CNAME .
@@ -827,9 +826,6 @@ $TTL 300
 8.notify.bizonads-ssp.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
-a.8jfbt5va3r.com CNAME .
-a.adsession.com CNAME .
-a.advantageclicks.net CNAME .
 a.b2bstars.com CNAME .
 a.b7q9v8z.com CNAME .
 a.cant3am.com CNAME .
@@ -839,7 +835,6 @@ a.eunow4u.com CNAME .
 a.gentlefieldpattern.com CNAME .
 a.ku34bh9la09.com CNAME .
 a.ma3ion.com CNAME .
-a.mikbaken.com CNAME .
 a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
@@ -971,6 +966,7 @@ s.ds3u8n.com CNAME .
 s.ds3zoh.com CNAME .
 s.ds4de1.com CNAME .
 s.ds4i8a.com CNAME .
+s.ds4tm6.com CNAME .
 s.ds4zqa.com CNAME .
 s.ds6n6c.com CNAME .
 s.ds7khy.com CNAME .
@@ -978,6 +974,7 @@ s.ds7o2i.com CNAME .
 s.ds8ect.com CNAME .
 s.ds8fc0.com CNAME .
 s.ds96gk.com CNAME .
+s.ds9b1n.com CNAME .
 s.dsa8h7.com CNAME .
 s.dsajir.com CNAME .
 s.dsal8i.com CNAME .
@@ -1094,7 +1091,6 @@ s.magsrv.com CNAME .
 s.makolper.com CNAME .
 s.mikbaken.com CNAME .
 s.n4m5x60.com CNAME .
-s.naffertop.com CNAME .
 s.native7.com CNAME .
 s.nidersaw.com CNAME .
 s.nowsrv.com CNAME .
@@ -1169,6 +1165,7 @@ sv3.notifysrv.com CNAME .
 svn.notifysrv.com CNAME .
 sw.notifysrv.com CNAME .
 syndication-adblock.exoclick.com CNAME .
+syndication-json.exoclick.com CNAME .
 syndication.dynsrvtbg.com CNAME .
 syndication.dynsrvwer.com CNAME .
 syndication.elink12.com CNAME .
@@ -1303,6 +1300,9 @@ www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 a.18ramp.com CNAME .
 a.6hd49jng.com CNAME .
+a.8jfbt5va3r.com CNAME .
+a.adsession.com CNAME .
+a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
 a.allureanews.com CNAME .
 a.asvsm.com CNAME .
@@ -1313,10 +1313,10 @@ a.gatherstar.io CNAME .
 a.golhofer.com CNAME .
 a.hkartg.com CNAME .
 a.humnert.com CNAME .
+a.mikbaken.com CNAME .
 a.pinkads.org CNAME .
 a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
 a.t5z3w0p.com CNAME .
 a.traffic-gold.com CNAME .
-syndication-json.exoclick.com CNAME .

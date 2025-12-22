@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -129,6 +129,7 @@ eva.institut-sitya.at CNAME .
 ferthu.seyffer.shop CNAME .
 go.eitrmsummit.com CNAME .
 go.kik.de CNAME .
+gruenten.agrar-fachversand.com CNAME .
 gus.corinnavondermuehlen.de CNAME .
 insides.honic.eu CNAME .
 insights.bertelsmann-stiftung.de CNAME .

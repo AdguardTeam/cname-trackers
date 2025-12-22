@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 1bf86f4b.tictoc.ai CNAME .
 1of1.skipcash.app CNAME .
 4652415544.balancecredit.com CNAME .
+a574f3c3.raylo.com CNAME .
 abfrage.etakenya.go.ke CNAME .
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
@@ -441,6 +442,7 @@ content.varetire.org CNAME .
 content.vi.gov CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
+content002.bet365.bet.ar CNAME .
 content002.bet365.bet.br CNAME .
 content002.bet365.ca CNAME .
 content002.bet365.com CNAME .
@@ -717,6 +719,7 @@ jpubs.zodia.io CNAME .
 jytrnq.cm-cic.com CNAME .
 kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
+lght.loberon.com CNAME .
 ln.acornfun.com CNAME .
 ln.cash.app CNAME .
 ln.cidercasino.com CNAME .
@@ -1015,7 +1018,6 @@ security.vanquis.com CNAME .
 service.riverscontent.com CNAME .
 services-tmx.cofidis.cz CNAME .
 servicesdp.luckydays.ca CNAME .
-servicesdp.spinaway.ca CNAME .
 sess.vippreferred.com CNAME .
 sfp.intuit.com CNAME .
 sg-payment.cydf.hoyoverse.com CNAME .
@@ -1166,7 +1168,6 @@ tm.creditprotect.illion.co.nz CNAME .
 tm.creditprotect.illion.com.au CNAME .
 tm.cybersource.com CNAME .
 tm.defense.dbp.fiservapps.com CNAME .
-tm.espnbet.com CNAME .
 tm.fanduel.com CNAME .
 tm.fidelity.asia CNAME .
 tm.fidelity.ca CNAME .

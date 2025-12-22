@@ -62,6 +62,7 @@
 ||www.orbitnotify.com^
 ||www.pc-download.ru^
 ||www.prbcdn.online^
+||www.procarsharing.store^
 ||www.pushrb.pro^
 ||www.qatro.ru^
 ||www.raelb2.ru^
@@ -80,7 +81,6 @@
 ||www.rbprk91645.ru^
 ||www.rekl1.com^
 ||www.rlrt.ru^
-||www.siterec.site^
 ||www.step555.ru^
 ||xxx.extrablocks.ru^
 ||zbs.etodomendlyareklamy.ru^

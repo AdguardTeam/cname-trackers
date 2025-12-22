@@ -28,7 +28,6 @@
 | 0.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 0.www.45564736.xyz | ad-shield.cc |
 | 0.www.46222568.xyz | ad-shield.cc |
-| 0.www.47206262.xyz | ad-shield.cc |
 | 0.www.49709796.xyz | ad-shield.cc |
 | 0.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 0.www.50873vmk3263-7sk.xyz | ad-shield.cc |
@@ -143,7 +142,6 @@
 | 1.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 1.www.45564736.xyz | ad-shield.cc |
 | 1.www.46222568.xyz | ad-shield.cc |
-| 1.www.47206262.xyz | ad-shield.cc |
 | 1.www.49709796.xyz | ad-shield.cc |
 | 1.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 1.www.50873vmk3263-7sk.xyz | ad-shield.cc |
@@ -262,7 +260,6 @@
 | 2.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 2.www.45564736.xyz | ad-shield.cc |
 | 2.www.46222568.xyz | ad-shield.cc |
-| 2.www.47206262.xyz | ad-shield.cc |
 | 2.www.49709796.xyz | ad-shield.cc |
 | 2.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 2.www.50873vmk3263-7sk.xyz | ad-shield.cc |
@@ -376,7 +373,6 @@
 | 3.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 3.www.45564736.xyz | ad-shield.cc |
 | 3.www.46222568.xyz | ad-shield.cc |
-| 3.www.47206262.xyz | ad-shield.cc |
 | 3.www.49709796.xyz | ad-shield.cc |
 | 3.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 3.www.50873vmk3263-7sk.xyz | ad-shield.cc |
@@ -491,7 +487,6 @@
 | 4.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 4.www.45564736.xyz | ad-shield.cc |
 | 4.www.46222568.xyz | ad-shield.cc |
-| 4.www.47206262.xyz | ad-shield.cc |
 | 4.www.49709796.xyz | ad-shield.cc |
 | 4.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 4.www.4tuswl47353p4wl8lsk.xyz | ad-shield.cc |
@@ -608,7 +603,6 @@
 | 5.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 5.www.45564736.xyz | ad-shield.cc |
 | 5.www.46222568.xyz | ad-shield.cc |
-| 5.www.47206262.xyz | ad-shield.cc |
 | 5.www.49709796.xyz | ad-shield.cc |
 | 5.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 5.www.50873vmk3263-7sk.xyz | ad-shield.cc |
@@ -723,7 +717,6 @@
 | 6.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 6.www.45564736.xyz | ad-shield.cc |
 | 6.www.46222568.xyz | ad-shield.cc |
-| 6.www.47206262.xyz | ad-shield.cc |
 | 6.www.49709796.xyz | ad-shield.cc |
 | 6.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 6.www.50873vmk3263-7sk.xyz | ad-shield.cc |
@@ -837,7 +830,6 @@
 | 7.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 7.www.45564736.xyz | ad-shield.cc |
 | 7.www.46222568.xyz | ad-shield.cc |
-| 7.www.47206262.xyz | ad-shield.cc |
 | 7.www.49709796.xyz | ad-shield.cc |
 | 7.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 7.www.50873vmk3263-7sk.xyz | ad-shield.cc |
@@ -953,7 +945,6 @@
 | 8.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 8.www.45564736.xyz | ad-shield.cc |
 | 8.www.46222568.xyz | ad-shield.cc |
-| 8.www.47206262.xyz | ad-shield.cc |
 | 8.www.49709796.xyz | ad-shield.cc |
 | 8.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 8.www.50873vmk3263-7sk.xyz | ad-shield.cc |
@@ -1056,7 +1047,6 @@
 | 9.www.42862874.xyz | ad-shield.cc |
 | 9.www.4547u5qms0m2um3rrum2wuo.xyz | ad-shield.cc |
 | 9.www.45564736.xyz | ad-shield.cc |
-| 9.www.47206262.xyz | ad-shield.cc |
 | 9.www.49709796.xyz | ad-shield.cc |
 | 9.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | 9.www.50873vmk3263-7sk.xyz | ad-shield.cc |

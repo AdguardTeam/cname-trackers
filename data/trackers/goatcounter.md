@@ -96,14 +96,12 @@
     * law-tmchippewa-com.goatcounter.com
     * law-umitribe-org.goatcounter.com
     * lco-nsn-us-open-law.goatcounter.com
-    * leadershipgarden.goatcounter.com
     * linerly.goatcounter.com
     * localhosed.goatcounter.com
     * lspeed.goatcounter.com
     * maik-dev.goatcounter.com
     * maple.goatcounter.com
     * mausoleum.goatcounter.com
-    * mcy.goatcounter.com
     * meestermac.goatcounter.com
     * mele.goatcounter.com
     * merrelldev.goatcounter.com
@@ -272,14 +270,12 @@
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
 | analytics.law.umitribe.org | law-umitribe-org.goatcounter.com |
 | analytics.law.lco-nsn.gov | lco-nsn-us-open-law.goatcounter.com |
-| gc.leadership.garden | leadershipgarden.goatcounter.com |
 | stats.linerly.xyz | linerly.goatcounter.com |
 | stats.svc.lol | localhosed.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |
 | st.mapleranks.com | maple.goatcounter.com |
 | stats.mausoleum.me | mausoleum.goatcounter.com |
-| varz.mcyoung.xyz | mcy.goatcounter.com |
 | api.meestermac.nl | meestermac.goatcounter.com |
 | stats.mele.dev | mele.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ $TTL 300
 356.freeonlinegayporn.com CNAME .
 365.freeonlinegayporn.com CNAME .
 3krujww3z31l4def.bloblohub.com CNAME .
+3u3ymbqj.xyz CNAME .
 444.bussyclub.com CNAME .
 444.bussyhunter.com CNAME .
 450a.feet9.com CNAME .
@@ -202,6 +203,7 @@ a.umbrosadigital.com CNAME .
 a.vidone.net CNAME .
 a.warddogs.com CNAME .
 a.yamcha.xyz CNAME .
+a2gp.diveinthebluesky.biz CNAME .
 a6iemt79.xyz CNAME .
 a9o.youlikeboys.com CNAME .
 aa.429men.com CNAME .
@@ -328,7 +330,9 @@ as.lencdn.com CNAME .
 as.lenkino.adult CNAME .
 as.pomcdn.com CNAME .
 as1.maturexxx.vip CNAME .
+as3.hotasiangirl.xyz CNAME .
 as5.tubesexcity.com CNAME .
+asa.adulttubez.net CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
 asg.animehdl.net CNAME .
@@ -384,6 +388,7 @@ b.seksohub.com CNAME .
 b.tondaka.com CNAME .
 b.xlineker.com CNAME .
 b1.hentaibaka.one CNAME .
+b1xuekes.xyz CNAME .
 b8i2q.gaypornhd.com CNAME .
 b8ms7gkwq7g.crocotube.com CNAME .
 banana.arabtoons.net CNAME .
@@ -464,6 +469,7 @@ cmpsci.hubhubhub.name CNAME .
 cn.hotclips.click CNAME .
 comic.fc2ppvv.info CNAME .
 concession072925.shop CNAME .
+contacts.kakuyomu.life CNAME .
 content.impression-sync.xyz CNAME .
 content.watanabehono.info CNAME .
 conuber.getyoursafelink.com CNAME .
@@ -542,6 +548,7 @@ excuse08062025.shop CNAME .
 ezycsflow.com CNAME .
 f-g-l-j.22yy6.com CNAME .
 f.bloblohub.com CNAME .
+f1dzpr7j.xyz CNAME .
 f5w.prettytube.net CNAME .
 fanza.yoshiclub.xyz CNAME .
 faspc.hubhubhub.name CNAME .
@@ -581,6 +588,7 @@ haraxong.xyz CNAME .
 harbor08062025.shop CNAME .
 hazicu.hothomefuck.com CNAME .
 hegdcrxavrtk.cdnvideo3.com CNAME .
+help.japandigest.info CNAME .
 heyyounow.my CNAME .
 hgcustom-ad.xyz CNAME .
 highway.18manwa.com CNAME .
@@ -738,6 +746,7 @@ n20dj6rv6ru1qewt.analytics.bloblohub.com CNAME .
 nameoaj.xyz CNAME .
 nbjiwgsm.xyz CNAME .
 negligence072925.shop CNAME .
+nesta.dimawusinners.xyz CNAME .
 net.contoscn.com CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
@@ -822,6 +831,7 @@ pops.mayads.store CNAME .
 porn.xxpornvid.com CNAME .
 porn18.me CNAME .
 pornvideos.casa CNAME .
+portal.tastejapan.life CNAME .
 potisje.xyz CNAME .
 powe.asian-xxx-videos.com CNAME .
 power1.bloblohub.com CNAME .
@@ -954,6 +964,7 @@ sktskt.aisfokgqw.online CNAME .
 slit.lewd.rip CNAME .
 smetia.dirtyships.net CNAME .
 sol.kjhbskd.com CNAME .
+sol.tlcgher.com CNAME .
 solo.chinese-sex-tube.com CNAME .
 sp1.freeonlinegayporn.com CNAME .
 spa.arabtoons.net CNAME .
@@ -1034,6 +1045,7 @@ v1.sellbuy.click CNAME .
 v83h6.gaymale.xxx CNAME .
 vd.7vid.net CNAME .
 vergo.ehrydnmdoe.com CNAME .
+vesx.jesjes.xyz CNAME .
 vgcustom-ad.xyz CNAME .
 vi1.prettytube.net CNAME .
 vid.prettytube.net CNAME .

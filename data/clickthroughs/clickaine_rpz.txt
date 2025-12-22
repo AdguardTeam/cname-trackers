@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,6 +30,7 @@ api.xxxbanjo.com CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
+bat27.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.allporncomics.co CNAME .
 c4n.anonimayzer.site CNAME .
@@ -38,8 +39,8 @@ c4n.javfinder.stream CNAME .
 c4n.javhdpro.stream CNAME .
 c4n.myteentgp.com CNAME .
 c4n.natali9.online CNAME .
-c4n.rautemusikfm.de CNAME .
 c4n.shudhdesiporn.com CNAME .
+c4n.suavecitoo.org CNAME .
 c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.xxx8.me CNAME .

@@ -208,7 +208,6 @@
 ||affiliate.nabytek-forliveshop.cz^
 ||affiliate.nakladatelstvi-riva.cz^
 ||affiliate.nalepime.cz^
-||affiliate.nejfotopasti.cz^
 ||affiliate.nethost.cz^
 ||affiliate.nomind.cz^
 ||affiliate.novakabelka.cz^
@@ -326,7 +325,6 @@
 ||my.11teamsports.sk^
 ||my.fr.top4running.be^
 ||my.kickz.com^
-||my.tint-store.ro^
 ||my.top4fitness.cz^
 ||my.top4fitness.de^
 ||my.top4fitness.fi^
@@ -970,6 +968,7 @@
 ||www.partneri.zuzanaondrisova.sk^
 ||affil.myface.cz^
 ||affiliate.kulturistika.com^
+||affiliate.nejfotopasti.cz^
 ||login.affiliatesit.cz^
 ||partner.eliteways.cz^
 ||partner.janapekna.cz^

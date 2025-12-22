@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -319,6 +319,7 @@ nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
 nyt1.biosens-leanature.fr CNAME .
+o35e79f2.eulerian.io CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
 oal2.destinia.co.uk CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,7 +50,6 @@ dot-com-stats.sladewatkins.net CNAME .
 gc.acut3.net CNAME .
 gc.grokhard.com CNAME .
 gc.hausarzt-zentrum-herne.de CNAME .
-gc.leadership.garden CNAME .
 gc.miluchacontraeltabaco.com CNAME .
 gc.mindenugyved.hu CNAME .
 gc.noscirep.com CNAME .
@@ -179,7 +178,6 @@ stats.zl2edh.com CNAME .
 trackerstats.davidthe.dev CNAME .
 tracking.undercovermunich.de CNAME .
 usage.ideasnap.co CNAME .
-varz.mcyoung.xyz CNAME .
 vault-stats.sladewatkins.net CNAME .
 visit.argfuscator.net CNAME .
 visit.hijacklibs.net CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -2614,10 +2614,8 @@ $TTL 300
 25b3jap28y1jezni.net.daraz.com CNAME .
 2a6jk46shfyp0lxg.administrators.net.daraz.com CNAME .
 2dhmpisq.net.mydays.de CNAME .
-2dollarearrings.net.mydays.de CNAME .
 2fevernote-6-2.net.mydays.de CNAME .
 2fwww1.net.mydays.de CNAME .
-2marketing-docs.net.home24.de CNAME .
 2mhesk294m2fhou5.docs.net.daraz.com CNAME .
 2nq7m57at7uxoi9e.administrators.net.daraz.com CNAME .
 2psagenglegacy.0-030.net.daraz.com CNAME .
@@ -3365,7 +3363,6 @@ desktop.engineapplication-spring.net.daraz.com CNAME .
 desktopchd-www.partner.net.daraz.com CNAME .
 desmtp1ops-ns2.smtp1ismtp1iotech.net.daraz.com CNAME .
 deutops-ns2.utiutiotech.net.daraz.com CNAME .
-dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com CNAME .
 dev-csr41.application.net.daraz.com CNAME .
 dev.10-marketing.net.daraz.com CNAME .
 dev1ps-ns2.vivi1tech.net.daraz.com CNAME .
@@ -3745,7 +3742,6 @@ ftpbejav.assets.net.daraz.com CNAME .
 ftrain-r-oa-1eya.ttrain-r-oa-1ain.net.daraz.com CNAME .
 fw-emailvision.email.freya.net.daraz.com CNAME .
 g.patner.net.daraz.com CNAME .
-g.whatsapp.net.iberostar.com CNAME .
 gallery.emailvision.panel.net.daraz.com CNAME .
 groups-3arketing.net.daraz.com CNAME .
 groups-zigzagstr.administrators.net.daraz.com CNAME .
@@ -3967,7 +3963,6 @@ nadmin8.emailviadmin8ion.uadmin8.net.daraz.com CNAME .
 nca3.mobilecl.bellcaouth.net.daraz.com CNAME .
 neon.manage.lib-oa-1.net.daraz.com CNAME .
 neso.r.niwepa.com CNAME .
-net.brillen.de CNAME .
 net.daraz.com CNAME .
 netfrontcar31.net.daraz.com CNAME .
 news.bejav.net.daraz.com CNAME .
@@ -4399,6 +4394,7 @@ summer-patner.net.daraz.com CNAME .
 support-cloudfrontcar31.net.daraz.com CNAME .
 svc-01-caauthenticate21-10-authenticate-oa-1.net.daraz.com CNAME .
 svc.manage.lib-oa-1.net.daraz.com CNAME .
+svcgateway.net.daraz.com CNAME .
 testdraganddropobjects.net.daraz.com CNAME .
 thumbs-partner.net.daraz.com CNAME .
 tokenbroker.net.daraz.com CNAME .
@@ -4585,7 +4581,12 @@ zzpdbs3e62zt91c04r.dbsdministrdbstor.net.daraz.com CNAME .
 zzpmagento3e62zt91c04r.magentodministrmagentotor.net.daraz.com CNAME .
 zzprg3e62zt91c04r.rgdministrrgtor.net.daraz.com CNAME .
 252fdropbox-2.net.mydays.de CNAME .
+2dollarearrings.net.mydays.de CNAME .
+2marketing-docs.net.home24.de CNAME .
+dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com CNAME .
 et-3-0-2.gw1.mia19.alter.net.iberostar.com CNAME .
+g.whatsapp.net.iberostar.com CNAME .
+net.brillen.de CNAME .
 net.home24.at CNAME .
 net.home24.be CNAME .
 net.home24.it CNAME .

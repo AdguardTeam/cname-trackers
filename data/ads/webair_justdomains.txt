@@ -38,6 +38,7 @@ click-eu-v4.expdirclk.com
 click-eu-v4.explodasclksec.com
 click-eu-v4.expmclck.com
 click-eu-v4.expmidclk.com
+click-eu-v4.expmnclick.com
 click-eu-v4.fiddirexol.com
 click-eu-v4.globlemath.com
 click-eu-v4.junclikrmedi.com
@@ -112,6 +113,7 @@ click-v4.explodclikmn.com
 click-v4.explodnmainclck.com
 click-v4.expmclck.com
 click-v4.expmidclk.com
+click-v4.expmnclick.com
 click-v4.expoclknu.com
 click-v4.fiddirexol.com
 click-v4.fidmkrclk.com
@@ -127,6 +129,7 @@ click-v4.mainexdircllk.com
 click-v4.mainexpclkdir.com
 click-v4.mediacpc.com
 click-v4.mkrclkuno.com
+click-v4.plarclck.com
 click-v4.plarimocl.com
 click-v4.plarimoexocli.com
 click-v4.plclick.com
@@ -157,6 +160,7 @@ click.expdirclk.com
 click.explodasclksec.com
 click.expmclck.com
 click.expmidclk.com
+click.expmnclick.com
 click.expoclknu.com
 click.fiddirexol.com
 click.globlemath.com
@@ -170,6 +174,7 @@ click.mainexdircllk.com
 click.mainexpclkdir.com
 click.mediacpc.com
 click.pclk.name
+click.plarclck.com
 click.plarimocl.com
 click.plarimoexocli.com
 click.plarimoplus.com
@@ -1201,6 +1206,7 @@ rtb-useast-v4.appi-fy.ai
 rtb-useast-v4.applixir.com
 rtb-useast-v4.appmonsta.ai
 rtb-useast-v4.aserve1.net
+rtb-useast-v4.blutonic.net
 rtb-useast-v4.chocolateplatform.com
 rtb-useast-v4.clickmi.net
 rtb-useast-v4.coupontic.com
@@ -1591,21 +1597,24 @@ staging.yeesshh.com
 static-rtb2.affinity.net
 static-rtb2.applabs.live
 static-rtb2.branchdsp.io
+static-rtb2.n-data.io
+static-rtb2.newchallenges-dsp.com
 static-rtb2.reachableads.com
 static.adright.co
 static.adsolut.in
-static.afkwa.com
-static.aserve1.net
 static.creativedot.net
 static.displayio.cloud
-static.dynatondata.com
 static.ezmob.com
+static.foremedia.net
+static.fstsrv9.com
 static.openrtb.in
+static.pdn-1.com
 static.pressize.com
 static.pushub.net
 static.qualiclicks.com
+static.ras-trk.com
 static.rtbserve.io
-static.saroadexchange.com
+static.servsserverz.com
 static.smoads.com
 static.srvqck24.com
 static.srvqck26.com
@@ -1636,15 +1645,11 @@ tq-eu.dkswshap-3.online
 tq-eu.eopuzol1.online
 tq-eu.fdkox-b.online
 tq-eu.fdkox-d.online
-tq-eu.foseller-a.online
-tq-eu.foseller-c.online
-tq-eu.foseller-d.online
 tq-eu.grantdk-1.online
 tq-eu.iforcircles-1.online
 tq-eu.iforcircles-2.online
 tq-eu.klmretul.online
 tq-eu.ldnpointer.online
-tq-eu.lensgard-2.online
 tq-eu.minutelight-1.online
 tq-eu.mpds-smart1.online
 tq-eu.mpds-smart3.online
@@ -1666,19 +1671,16 @@ tq.clintlex-d.online
 tq.dkswshap-1.online
 tq.dkswshap-2.online
 tq.dkswshap-3.online
+tq.dmnlks-a.online
 tq.eopuzol1.online
 tq.fdkox-b.online
 tq.fdkox-d.online
 tq.flowldsb.online
-tq.foseller-a.online
-tq.foseller-c.online
-tq.foseller-d.online
 tq.grantdk-1.online
 tq.grantdk-2.online
 tq.iforcircles-1.online
 tq.iforcircles-2.online
 tq.ldnpointer.online
-tq.lensgard-2.online
 tq.minutelight-1.online
 tq.mpds-smart1.online
 tq.mpds-smart3.online
@@ -1835,6 +1837,8 @@ xml-eu-v4.ctrtraffic.com
 xml-eu-v4.dkswshap-1.online
 xml-eu-v4.dkswshap-2.online
 xml-eu-v4.dkswshap-3.online
+xml-eu-v4.dmnlks-a.online
+xml-eu-v4.dmnlks-b.online
 xml-eu-v4.dollopsdigital.com
 xml-eu-v4.domclkitize.com
 xml-eu-v4.edgexml.com
@@ -1849,9 +1853,6 @@ xml-eu-v4.flowldsb.online
 xml-eu-v4.flowldsd.online
 xml-eu-v4.flurryad.com
 xml-eu-v4.fmlabsonline.com
-xml-eu-v4.foseller-a.online
-xml-eu-v4.foseller-c.online
-xml-eu-v4.foseller-d.online
 xml-eu-v4.frequency33media.com
 xml-eu-v4.fstsrv11.com
 xml-eu-v4.fstsrv9.com
@@ -1870,7 +1871,6 @@ xml-eu-v4.kraftads.com
 xml-eu-v4.kunvertads.com
 xml-eu-v4.kvicads.com
 xml-eu-v4.ldnpointer.online
-xml-eu-v4.lensgard-2.online
 xml-eu-v4.logicalmind.online
 xml-eu-v4.mediacpc.com
 xml-eu-v4.medialabs.info
@@ -1992,6 +1992,7 @@ xml-eu.clickmi.net
 xml-eu.clintlex-c.online
 xml-eu.clintlex-d.online
 xml-eu.clixvista.com
+xml-eu.creziamedia.com
 xml-eu.dkswshap-1.online
 xml-eu.dkswshap-2.online
 xml-eu.dkswshap-3.online
@@ -2007,7 +2008,6 @@ xml-eu.flairadscpc.com
 xml-eu.flurryad.com
 xml-eu.fmlabsonline.com
 xml-eu.foremedia.net
-xml-eu.foseller-d.online
 xml-eu.fstsrv11.com
 xml-eu.grantdk-1.online
 xml-eu.h12ads.net
@@ -2135,6 +2135,8 @@ xml-v4.datadrives.ai
 xml-v4.dkswshap-1.online
 xml-v4.dkswshap-2.online
 xml-v4.dkswshap-3.online
+xml-v4.dmnlks-a.online
+xml-v4.dmnlks-b.online
 xml-v4.dollopsdigital.com
 xml-v4.domains-traffic.com
 xml-v4.domclkitize.com
@@ -2152,9 +2154,6 @@ xml-v4.flowldsb.online
 xml-v4.flowldsd.online
 xml-v4.flurryad.com
 xml-v4.fmlabsonline.com
-xml-v4.foseller-a.online
-xml-v4.foseller-c.online
-xml-v4.foseller-d.online
 xml-v4.frequency33media.com
 xml-v4.fstsrv11.com
 xml-v4.fstsrv9.com
@@ -2175,7 +2174,6 @@ xml-v4.kraftads.com
 xml-v4.kunvertads.com
 xml-v4.kvicads.com
 xml-v4.ldnpointer.online
-xml-v4.lensgard-2.online
 xml-v4.logicalmind.online
 xml-v4.mediacpc.com
 xml-v4.medialabs.info
@@ -2211,7 +2209,6 @@ xml-v4.rtxfeed.com
 xml-v4.safesearchguard.com
 xml-v4.saroadexchange.com
 xml-v4.search-house.co
-xml-v4.skycommission.com
 xml-v4.smartadexchange.xyz
 xml-v4.solarad.net
 xml-v4.springtides.xyz
@@ -2324,6 +2321,7 @@ xml.afront.io
 xml.agilitydigitalmedia.com
 xml.aimkweb.com
 xml.ak-tracker.com
+xml.alsbuildfordgove.com
 xml.amazeadx.com
 xml.appmonsta.ai
 xml.asnomoneyand.org
@@ -2382,6 +2380,8 @@ xml.dkswshap-1.online
 xml.dkswshap-2.online
 xml.dkswshap-3.online
 xml.dmakingsilver.com
+xml.dmnlks-a.online
+xml.dmnlks-b.online
 xml.dollopsdigital.com
 xml.domains-traffic.com
 xml.domclkitize.com
@@ -2417,9 +2417,6 @@ xml.flurryad.com
 xml.flyerblaze.com
 xml.fmlabsonline.com
 xml.foremedia.net
-xml.foseller-a.online
-xml.foseller-c.online
-xml.foseller-d.online
 xml.frequency33media.com
 xml.fstsrv10.com
 xml.fstsrv11.com
@@ -2460,7 +2457,6 @@ xml.kilo-bid.com
 xml.kraftads.com
 xml.kunvertads.com
 xml.landingpaged.com
-xml.lensgard-2.online
 xml.leoback.com
 xml.leofback.com
 xml.leoyard.com
@@ -2554,7 +2550,6 @@ xml.sflyingdownthe.com
 xml.shenwhentheau.org
 xml.shieldcheckerservices.com
 xml.showcasead.com
-xml.skycommission.com
 xml.smartadexchange.xyz
 xml.solarad.net
 xml.speroll.com
@@ -2722,6 +2717,7 @@ static.adxpoint.com
 static.adzealous.com
 static.adzestocp.com
 static.adzreach.com
+static.afkwa.com
 static.ak.bonanza.com
 static.altavara.co
 static.altitudemarketing.com
@@ -2734,6 +2730,7 @@ static.applixir.com
 static.appocean.media
 static.arbigo.com
 static.arvardsusyseinpo.com
+static.aserve1.net
 static.audience.media
 static.audiencedevelopers.com
 static.axetechnology.in
@@ -2781,6 +2778,7 @@ static.directrankcl.com
 static.dollopsdigital.com
 static.domains-traffic.com
 static.domitize.com
+static.dynatondata.com
 static.e-volution.ai
 static.epeex.com
 static.eredthechild-bid.com
@@ -2791,11 +2789,9 @@ static.fidmakr.com
 static.finevisit.com
 static.flairadscpc.com
 static.fmlabsonline.com
-static.foremedia.net
 static.frownedand-bid.com
 static.fstsrv10.com
 static.fstsrv11.com
-static.fstsrv9.com
 static.glcsrv.com
 static.globalsun.io
 static.goclickz.net
@@ -2851,7 +2847,6 @@ static.ovewiththem.com
 static.paddlewaver.com
 static.panel-bid.com
 static.pareto21.com
-static.pdn-1.com
 static.pixelpluses.com
 static.plarimoplus.com
 static.popmonetizer.com
@@ -2869,7 +2864,6 @@ static.pyrrhicmechntech.com
 static.qortex.ai
 static.queen-bid.com
 static.rain.ad
-static.ras-trk.com
 static.rastyclick.com
 static.re-media.info
 static.reachableads.com
@@ -2889,6 +2883,7 @@ static.rtxfeed.com
 static.rtxplatform.com
 static.rxnetwork.net
 static.saidndamafrai.org
+static.saroadexchange.com
 static.saturndynamic.pt
 static.search-house.co
 static.sedodna.com
@@ -2897,13 +2892,11 @@ static.serving-hecity.com
 static.serving-lewov.com
 static.serving-nightth.com
 static.serving-sfriends.com
-static.servsserverz.com
 static.sflyingdownthe.com
 static.shall-bid.com
 static.shenwhentheau.org
 static.shook-bid.com
 static.showcasead.com
-static.skycommission.com
 static.solarad.net
 static.srvqck.com
 static.srvqck1.com
@@ -3015,8 +3008,6 @@ static-rtb2.jambojar.com
 static-rtb2.magixengage.com
 static-rtb2.mediarise.io
 static-rtb2.mytrendingstories.com
-static-rtb2.n-data.io
-static-rtb2.newchallenges-dsp.com
 static-rtb2.onenativeads.com
 static-rtb2.programmatics.net
 static-rtb2.push-sense.com

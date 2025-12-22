@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -674,7 +674,6 @@ stats.radicaldata.org CNAME .
 stats.radicitoscane.it CNAME .
 stats.rasulkireev.com CNAME .
 stats.reactician.com CNAME .
-stats.readng.co CNAME .
 stats.referralhero.com CNAME .
 stats.rehaag-immobilien.de CNAME .
 stats.reisemobil.pro CNAME .

@@ -533,7 +533,6 @@
 | startrekk.flaconi.at | flaconi-at.wt-eu02.net |
 | startrekk.flaconi.de | flaconi02.webtrekk.net |
 | w3.flatex.es | flatex-at01.webtrekk.net |
-| w3.flatex.nl | flatex-at01.webtrekk.net |
 | data.goertz.de | goertz-01.wt-eu02.net |
 | hbbtv-track.prosieben.de | hbbtv-track.wt-eu02.net |
 | prophet.heise.de | heise02.webtrekk.net |

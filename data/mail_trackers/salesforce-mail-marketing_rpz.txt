@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1765785617328        ; Serial
+           1766390410187        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -273,6 +273,7 @@ $TTL 300
 13dkim1._domainkey.comcast.com CNAME .
 13dkim1._domainkey.messaging.ultimateears.com CNAME .
 14805.connector-qa1.marketingcloudqaapis.com CNAME .
+1533.editor-qa1.marketingcloudqaapis.com CNAME .
 15920.connector-qa1.marketingcloudqaapis.com CNAME .
 16105.editor-qa1.marketingcloudqaapis.com CNAME .
 16283.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -288,11 +289,11 @@ $TTL 300
 3851.sock-qa1.marketingcloudqaops.com CNAME .
 3917.sfap-qa1.marketingcloudqaops.com CNAME .
 5005.editor-qa1.marketingcloudqaapis.com CNAME .
+5058.sfap-qa1.marketingcloudqaops.com CNAME .
 50dkim1._domainkey.communication.telia.ee CNAME .
 51dkim1._domainkey.communication.talabat.com CNAME .
 51dkim1._domainkey.info-ch.genesis.com CNAME .
 51dkim1._domainkey.info-de.genesis.com CNAME .
-7629.editor-qa1.marketingcloudqaapis.com CNAME .
 7974.sfap-qa1.marketingcloudqaops.com CNAME .
 8410.ftp-qa1.marketingcloudqaops.com CNAME .
 bitbucket.click.s11.sfmc-osl.com CNAME .
@@ -300,6 +301,7 @@ cl.hotels.exactt.net CNAME .
 click-cre.capitalone.com CNAME .
 click-csf.capitalone.com CNAME .
 click-tm.capitalone.com CNAME .
+click.a32.amsidlr.com CNAME .
 click.aaacpmail.com CNAME .
 click.academic.cambridge.org CNAME .
 click.activate.urosario.edu.co CNAME .
@@ -319,8 +321,8 @@ click.americanhartfordg.com CNAME .
 click.apac.burton.com CNAME .
 click.apacsfmc.roche.com CNAME .
 click.apply.gocoastguard.com CNAME .
+click.armanibeautyme.beautynews-me.com CNAME .
 click.aruba.mail.hpe.com CNAME .
-click.autofinance-email.com CNAME .
 click.awremail.com CNAME .
 click.bbcshop.bbc.com CNAME .
 click.bellacormail.com CNAME .
@@ -336,8 +338,8 @@ click.bunnquality.com CNAME .
 click.c.coppel.com CNAME .
 click.c.surveys.usaa.com CNAME .
 click.campaign.compliance4alllearning.com CNAME .
+click.campaign.compliancewebinars.com CNAME .
 click.campaign.gcplearning.com CNAME .
-click.campaign.hrtraininngs.com CNAME .
 click.campaign.ittrainingsonline.com CNAME .
 click.campaign.panelcompliance.com CNAME .
 click.campaign.simplivlearning.co CNAME .
@@ -377,7 +379,6 @@ click.comms.utah.gov CNAME .
 click.comms.vodafone.co.nz CNAME .
 click.communication.arbitron.com CNAME .
 click.communications.abs-cbn.com CNAME .
-click.communications.cala.co.uk CNAME .
 click.communications.careers360.co.in CNAME .
 click.communications.cas.org CNAME .
 click.communications.colostate.edu CNAME .
@@ -388,7 +389,6 @@ click.communications.nuffieldfoundation.org CNAME .
 click.communications.risebroadband.com CNAME .
 click.communications.upsstore.com CNAME .
 click.comunicacao.suhaiseguradora.com CNAME .
-click.comunicacao.valor.com.br CNAME .
 click.comunicaciones.epssanitas.com CNAME .
 click.comunicaciones.gruporecordar.com.co CNAME .
 click.comunicaciones.patrimonionacional.es CNAME .
@@ -401,10 +401,12 @@ click.concierge.luxxu.net CNAME .
 click.concierge.rugsociety.eu CNAME .
 click.conduentbenefits.com CNAME .
 click.connect.mashbir.co.il CNAME .
+click.connect.notification.webmd.com CNAME .
 click.connect.uni.edu CNAME .
 click.connectnotifications.intuit.com CNAME .
 click.conns-email.com CNAME .
 click.consult.clstjean.be CNAME .
+click.contact.alaska.edu CNAME .
 click.contact.disneystore.com CNAME .
 click.contact.ethnikiasfalistiki.gr CNAME .
 click.contact.stores-discount.com CNAME .
@@ -415,6 +417,7 @@ click.contacto.volkswagen.mx CNAME .
 click.contactosuperxtra.com CNAME .
 click.contactvauxhall.co.uk CNAME .
 click.contato.oqvestir.com.br CNAME .
+click.contato.serasa.com.br CNAME .
 click.convoymarketing-email.com CNAME .
 click.corp.hiperbodegapreciouno.com.pe CNAME .
 click.corretores.comunicaamil.com.br CNAME .
@@ -434,6 +437,7 @@ click.customeremails.westernunion.com CNAME .
 click.customernotification.qualcomm.com CNAME .
 click.cwdc.state.co.us CNAME .
 click.cybex-email.com CNAME .
+click.dein-bluemovie.at CNAME .
 click.dein-bluemovie.de CNAME .
 click.deliver.lasership.com CNAME .
 click.delivery.uvarosa.com.br CNAME .
@@ -444,6 +448,7 @@ click.digital.hairtalkusa.com CNAME .
 click.digital.positiva.gov.co CNAME .
 click.dipmail5.baitoru.com CNAME .
 click.directa.buenosaires.gob.ar CNAME .
+click.discover.availity.com CNAME .
 click.discover.nyit.edu CNAME .
 click.divulga.mktsebrae.com.br CNAME .
 click.doctorsonly-email.com CNAME .
@@ -475,10 +480,8 @@ click.e.juiceplus.com CNAME .
 click.e.kathmandu.com.au CNAME .
 click.e.keystart.com.au CNAME .
 click.e.kidspot.com.au CNAME .
-click.e.larocheposay.com.au CNAME .
 click.e.llaollaoapp.com CNAME .
 click.e.lowes.ca CNAME .
-click.e.maccas.com.au CNAME .
 click.e.marketplace.coned.com CNAME .
 click.e.mclarenstore.com CNAME .
 click.e.mediamatters.org CNAME .
@@ -501,6 +504,7 @@ click.e.seagen.com CNAME .
 click.e.spotpetins.com CNAME .
 click.e.stichd.com CNAME .
 click.e.uaeproleague.ae CNAME .
+click.e.us.partycity.com CNAME .
 click.e.woolworthsbabyandtoddlerclub.com.au CNAME .
 click.e.writersstore.com CNAME .
 click.e2.overtons.com CNAME .
@@ -517,7 +521,9 @@ click.em-dreamdinners.com CNAME .
 click.em-sel.sel.sony.com CNAME .
 click.em.activision.com CNAME .
 click.em.assurantcustomerportal.com CNAME .
+click.em.assurantsolutions.ca CNAME .
 click.em.blackburndesign.com CNAME .
+click.em.blizzard.com CNAME .
 click.em.ci-labo.com CNAME .
 click.em.colorfulimages.com CNAME .
 click.em.copilotgear.com CNAME .
@@ -525,6 +531,7 @@ click.em.ct.edu CNAME .
 click.em.currentcatalog.com CNAME .
 click.em.gamestop.com CNAME .
 click.em.guitarhero.com CNAME .
+click.em.kdp.com CNAME .
 click.em.kesslerliving.com CNAME .
 click.em.lillianvernon.com CNAME .
 click.em.middlebyparts.com CNAME .
@@ -538,7 +545,6 @@ click.em.snagajob.com CNAME .
 click.em.terminix.com CNAME .
 click.em.tiendasmass.com.pe CNAME .
 click.em.utdallas.edu CNAME .
-click.em.vitalaire.com.br CNAME .
 click.em.waterpik.com CNAME .
 click.em.writermag.com CNAME .
 click.em2.assurant.com CNAME .
@@ -576,6 +582,7 @@ click.email.aetnasbc.com CNAME .
 click.email.agbirthdaycalendar.com CNAME .
 click.email.aitrainonline.com CNAME .
 click.email.allenedmonds.com CNAME .
+click.email.americastestkitchen.com CNAME .
 click.email.amfamconnect.com CNAME .
 click.email.anico.com CNAME .
 click.email.anthem.com CNAME .
@@ -585,6 +592,7 @@ click.email.attainbyaetna.com CNAME .
 click.email.authorhouse.com CNAME .
 click.email.autoclub.aaa.com CNAME .
 click.email.autoclubsouth.aaa.com CNAME .
+click.email.avalonbay.com CNAME .
 click.email.balboapress.com CNAME .
 click.email.bananarepublic.co.jp CNAME .
 click.email.bankerslife.com CNAME .
@@ -619,13 +627,12 @@ click.email.citibank.com.hk CNAME .
 click.email.citibank.com.sg CNAME .
 click.email.claytonhomes.com CNAME .
 click.email.clubchampiongolf.com CNAME .
-click.email.collecting.com CNAME .
+click.email.collectiblesgroup.com CNAME .
 click.email.coursera.org CNAME .
 click.email.creditfresh.com CNAME .
 click.email.cruisecritic.co.uk CNAME .
 click.email.cruisecritic.com CNAME .
 click.email.ct.hearstdigitalnews.com CNAME .
-click.email.cuponation.com CNAME .
 click.email.davidjones.com.au CNAME .
 click.email.deltadentalnj.com CNAME .
 click.email.dewalt.com.au CNAME .
@@ -685,7 +692,6 @@ click.email.lasvegas.com CNAME .
 click.email.latimes.com CNAME .
 click.email.laurelroad.com CNAME .
 click.email.lawson.jp CNAME .
-click.email.ldschurch.org CNAME .
 click.email.lg-argentina.com CNAME .
 click.email.lifetimefitness.com CNAME .
 click.email.lunii.com CNAME .
@@ -699,6 +705,7 @@ click.email.mcc.org.au CNAME .
 click.email.medicorpinc.com CNAME .
 click.email.merchantcenter.intuit.com CNAME .
 click.email.mercyhealth.com CNAME .
+click.email.microsoftonline.com CNAME .
 click.email.minhaloja.com CNAME .
 click.email.mktagilidade.pt CNAME .
 click.email.moldsoft.com.br CNAME .
@@ -748,8 +755,6 @@ click.email.quickcredit.com CNAME .
 click.email.rccl.com CNAME .
 click.email.reason.org CNAME .
 click.email.remington.com CNAME .
-click.email.researcher-app.com CNAME .
-click.email.rockets.com CNAME .
 click.email.rsrv.fr CNAME .
 click.email.saic.edu CNAME .
 click.email.samc.com CNAME .
@@ -787,7 +792,6 @@ click.email.traininng.com CNAME .
 click.email.uk.westfield.com CNAME .
 click.email.unexpected-shopping.com CNAME .
 click.email.unifi.com.my CNAME .
-click.email.universalpictures.com CNAME .
 click.email.usa.avon.com CNAME .
 click.email.ussoccer.com CNAME .
 click.email.utthc.com CNAME .
@@ -872,7 +876,7 @@ click.fexco-email.com CNAME .
 click.franchisesales.upsstore.com CNAME .
 click.free2move-email.com CNAME .
 click.frl-research.facebookmail.com CNAME .
-click.from.investinggovernance.com CNAME .
+click.ft.money-media.com CNAME .
 click.gavleteater.com CNAME .
 click.gemcore-email.com CNAME .
 click.genetrixtech.org CNAME .
@@ -880,7 +884,6 @@ click.georgiaswarm.us CNAME .
 click.giving.pennstatehealth.psu.edu CNAME .
 click.giving.thon.org CNAME .
 click.globalmarketsresearch.com CNAME .
-click.go.donaldjtrump.com CNAME .
 click.go.evolve.com CNAME .
 click.go.gpwa.com CNAME .
 click.gr.american.edu CNAME .
@@ -953,10 +956,10 @@ click.infos.cinemaspathegaumont.com CNAME .
 click.infos.leaudiledefrance.fr CNAME .
 click.infourbvan.com CNAME .
 click.inside.subbyx.com CNAME .
+click.insider.mastersofthestockmarket.com CNAME .
 click.investcorp-email.com CNAME .
 click.ironworksvenue.tmmsg.com CNAME .
 click.ivarsmail.com CNAME .
-click.ivyexecinsights.com CNAME .
 click.jobs.oreillyauto.com CNAME .
 click.judiciarybenefitscenter.com CNAME .
 click.k12.follett.com CNAME .
@@ -980,12 +983,12 @@ click.m.lakeview.com CNAME .
 click.m.malibuboats.com CNAME .
 click.m.rizap.jp CNAME .
 click.m.valleymusictravel.com CNAME .
+click.m.yourforeclosureupdate.com CNAME .
 click.ma.alba.co.jp CNAME .
 click.ma.daiyak.co.jp CNAME .
 click.ma.fightingroad.co.jp CNAME .
 click.ma.tokyu-bell.jp CNAME .
 click.ma.wellcho.com CNAME .
-click.maersk.com CNAME .
 click.mag.osakagas.co.jp CNAME .
 click.mail-chariotgroup.com CNAME .
 click.mail-faulknertobesure.com CNAME .
@@ -1073,7 +1076,6 @@ click.mail5.spokeo.com CNAME .
 click.mailclubcruzverde.com.co CNAME .
 click.mailer.23andme.com CNAME .
 click.mailer.airmusictech.com CNAME .
-click.mailer.atlassian.com CNAME .
 click.mailer.coventry.com CNAME .
 click.mailer.denondj.com CNAME .
 click.mailer.har.com CNAME .
@@ -1090,6 +1092,7 @@ click.mailing.vfj.co.jp CNAME .
 click.mailingelempleo.com CNAME .
 click.mailingeltiempo.com CNAME .
 click.mailings.ocesa.com.mx CNAME .
+click.mailings.ticketmaster.co.uk CNAME .
 click.mailings.ticketmaster.com.au CNAME .
 click.mailmkt.saopaulomania.com.br CNAME .
 click.mails.autoscout24.at CNAME .
@@ -1107,7 +1110,6 @@ click.marketing.bakerhughes.com CNAME .
 click.marketing.bankcnb.com CNAME .
 click.marketing.canyonviewcu.com CNAME .
 click.marketing.cpt.digicall.co.za CNAME .
-click.marketing.enelx.com CNAME .
 click.marketing.hellolanding.com CNAME .
 click.marketing.hubpay.ae CNAME .
 click.marketing.kws.fr CNAME .
@@ -1156,6 +1158,7 @@ click.member.ga-tech.co.jp CNAME .
 click.memberemail.com CNAME .
 click.members-shoeshow.com CNAME .
 click.memberservices.cerner.com CNAME .
+click.mercadeo.correobancolombia.com CNAME .
 click.mercadeoemaileltiempo.com CNAME .
 click.merzaestheticsbrasil.com CNAME .
 click.message.georgetown.edu CNAME .
@@ -1178,7 +1181,6 @@ click.mkt.porcelanosa.com CNAME .
 click.mkt.quetalcompra.com CNAME .
 click.mkt.unimedbelem.com.br CNAME .
 click.mkt.visual.com.mx CNAME .
-click.mktcld.salesforce.com CNAME .
 click.mktg.drivetime.com CNAME .
 click.mortgage.53.com CNAME .
 click.mortgage.arvest.com CNAME .
@@ -1186,7 +1188,6 @@ click.ms.aboardtheworld.com CNAME .
 click.msg.makuake.co.jp CNAME .
 click.msi-marketing.com CNAME .
 click.msig-insurance.com CNAME .
-click.mta.sony.jp CNAME .
 click.murphyusa-email.com CNAME .
 click.mvp-x.com CNAME .
 click.myoffers.verizonwireless.com CNAME .
@@ -1283,7 +1284,6 @@ click.parlor-email.social CNAME .
 click.part.smartinvestmenttoday.com CNAME .
 click.partner.doordash.com CNAME .
 click.partner.nianticlabs.com CNAME .
-click.partners.collinsongroup.com CNAME .
 click.pcmail.uhcsr.com CNAME .
 click.photoemail.walgreens.com CNAME .
 click.pkf.uk CNAME .
@@ -1318,7 +1318,6 @@ click.proven.yourinvestmentor.com CNAME .
 click.ptsolutionsinfo.com CNAME .
 click.publicidadmarcas.com CNAME .
 click.pwcdubai.com CNAME .
-click.qb.800bookkeeping.com CNAME .
 click.radioooooo.com CNAME .
 click.rag-bone-email.com CNAME .
 click.ram-email.com CNAME .
@@ -1352,7 +1351,6 @@ click.reply.wvlcorp.com CNAME .
 click.respond.imshealth.com CNAME .
 click.response2.bestbuy.com CNAME .
 click.rewardpoints.53.com CNAME .
-click.rewardzonecerts2.bestbuy.com CNAME .
 click.rnareset-email.com CNAME .
 click.ro.mercedes-benz.eu CNAME .
 click.rocventures-email.com CNAME .
@@ -1370,11 +1368,13 @@ click.sandstonecare-email.com CNAME .
 click.saude.unimedbh.com.br CNAME .
 click.sbsemails.com.py CNAME .
 click.sc.hks.harvard.edu CNAME .
+click.search.realtystore.com CNAME .
 click.seatdemexico.com CNAME .
 click.seekmedicareservices.com CNAME .
 click.seiumemberbenefits.com CNAME .
 click.sej.co.jp CNAME .
 click.selectshops-email.ca CNAME .
+click.seller.ebay.com CNAME .
 click.send.grammarly.com CNAME .
 click.send.krewards.com CNAME .
 click.send.therecoveryvillage.com CNAME .
@@ -1382,7 +1382,6 @@ click.sender.jeuneafriquemediagroup.com CNAME .
 click.service-nestle.com.tw CNAME .
 click.service-obdesign.com.tw CNAME .
 click.service-shop.mancity.com CNAME .
-click.service.gamgee.store CNAME .
 click.service.zurich.de CNAME .
 click.services.maxwellmed.com CNAME .
 click.services.total.be CNAME .
@@ -1411,7 +1410,7 @@ click.shop.ballarddesigns.com CNAME .
 click.shop.lids.com CNAME .
 click.signup.ezeefiber.com CNAME .
 click.sipag.com.br CNAME .
-click.skill.compliyer.com CNAME .
+click.sir.smartinvestmentroadmap.com CNAME .
 click.skill.myknowledgespot.com CNAME .
 click.skills.myknowledgehut.com CNAME .
 click.sleepcountrycanada.com CNAME .
@@ -1430,7 +1429,6 @@ click.starlike-email.com.tw CNAME .
 click.steamboat.uwyo.edu CNAME .
 click.stockholmsmassan-email.se CNAME .
 click.stockmarketsresearch.com CNAME .
-click.storesportivi.com CNAME .
 click.storm.melbournestorm.com.au CNAME .
 click.stripes.tigerair.com CNAME .
 click.stt-lg.com CNAME .
@@ -1466,7 +1464,6 @@ click.theseattleschool.info CNAME .
 click.thessebelfast.net CNAME .
 click.threeins.com CNAME .
 click.ticketmaster.tmmsg.com CNAME .
-click.ticketsnow-email.com CNAME .
 click.tlcnotifications.com CNAME .
 click.tmclient.ticketmaster.com CNAME .
 click.topgear.bbc.com CNAME .
@@ -1514,6 +1511,7 @@ click.usabasketball-email.com CNAME .
 click.uschinab.org CNAME .
 click.usincomereports.com CNAME .
 click.utmb.world CNAME .
+click.v25.eautodlr.com CNAME .
 click.vanderbilt-email.com CNAME .
 click.vantrumpreport-email.com CNAME .
 click.varkaudenteatteri.info CNAME .
@@ -1533,7 +1531,6 @@ click.web.bluenile.com CNAME .
 click.web.dominos.at CNAME .
 click.web.dominospizza.pt CNAME .
 click.webinar.planurevents.com CNAME .
-click.welcome-email.asurion.com CNAME .
 click.welcome.coca-cola.com CNAME .
 click.welcome.customersbank.com CNAME .
 click.welcome.pointloma.edu CNAME .
@@ -1560,7 +1557,6 @@ click.your.theinvestmentspath.com CNAME .
 click.yourvoice.53.com CNAME .
 click.zen-place.jp CNAME .
 click.zero4.granarolo.it CNAME .
-cloud.20240609-1.qa1s3.sfmc-tlsprovisioningqa.com CNAME .
 cloud.acpnycommunications.com CNAME .
 cloud.activate.urosario.edu.co CNAME .
 cloud.acumed.marketing CNAME .
@@ -1604,7 +1600,6 @@ cloud.commercialtire-email.com CNAME .
 cloud.comms.brightspeed.com CNAME .
 cloud.comms.c21.com CNAME .
 cloud.comms.dhs.arkansas.gov CNAME .
-cloud.comms.gocardless.com CNAME .
 cloud.comms.paysafe.com CNAME .
 cloud.comms.rapidratings.com CNAME .
 cloud.comms.victorywealth.com CNAME .
@@ -1613,7 +1608,6 @@ cloud.communications.brightspeed.com CNAME .
 cloud.communications.sunnova.com CNAME .
 cloud.communications.upsstore.com CNAME .
 cloud.communications.wetpaintgroup.com CNAME .
-cloud.communities.citigroup.com CNAME .
 cloud.comunicaciones-suraim.com CNAME .
 cloud.comunicaciones.epssura.com CNAME .
 cloud.comunicaciones.patrimonionacional.es CNAME .
@@ -1650,7 +1644,6 @@ cloud.drtavel-email.com CNAME .
 cloud.dunhamssports-email.com CNAME .
 cloud.e-accutitle.com CNAME .
 cloud.e-lincolnuniversity.com CNAME .
-cloud.e-mail.sorteonline.com.br CNAME .
 cloud.e-ruved.com CNAME .
 cloud.e.amaysim.com.au CNAME .
 cloud.e.arlo.com CNAME .
@@ -1681,13 +1674,11 @@ cloud.e.pcinsurance.ca CNAME .
 cloud.e.planlend.com.au CNAME .
 cloud.e.seasonsretirement.com CNAME .
 cloud.e.themrggroup.com CNAME .
-cloud.e.united.com CNAME .
 cloud.e.vascogroup.com CNAME .
 cloud.easternct-email.com CNAME .
 cloud.ebroadcast.iata.org CNAME .
 cloud.ec.melinda.com.br CNAME .
 cloud.ecole-rubika-edu.com CNAME .
-cloud.eg.hotwire.com CNAME .
 cloud.eg.wotif.com CNAME .
 cloud.em-commercial.keurig.com CNAME .
 cloud.em-krispykreme.com.mx CNAME .
@@ -1904,6 +1895,7 @@ cloud.info.s-pankki.fi CNAME .
 cloud.info.slec.org.sg CNAME .
 cloud.info.unitymutual.co.uk CNAME .
 cloud.info.vwgroup.se CNAME .
+cloud.info2.ebay.com CNAME .
 cloud.infourbvan.com CNAME .
 cloud.inside.subbyx.com CNAME .
 cloud.insider.team.shop CNAME .
@@ -2131,7 +2123,6 @@ cloud.send.marriott.com CNAME .
 cloud.seniormarketingadvisors.com CNAME .
 cloud.service-shop.mancity.com CNAME .
 cloud.service.ace.co.uk CNAME .
-cloud.service.gamgee.store CNAME .
 cloud.service.studio.co.uk CNAME .
 cloud.servicing.bankofamerica.com CNAME .
 cloud.sf.laplinkemail.com CNAME .
@@ -2206,18 +2197,17 @@ cloud.workplace-research.facebookmail.com CNAME .
 cloud.wundermanthompson-demo.com CNAME .
 cloud.yesnetwork-info.com CNAME .
 cloud.zoko-marketing.co.il CNAME .
-cloudpg.email.vimeo.com CNAME .
 comms.scdhhs.gov CNAME .
 content.nextgenclubs.com.au CNAME .
 contest.marks.com CNAME .
 coreid3.click.s11.sfmc-osl.com CNAME .
+corp.falabella.com CNAME .
 cp1rameshqa1s1.cp-sap.sfmc-contentqa.com CNAME .
 dev.news.generali.de CNAME .
 direct.vodafone.com.au CNAME .
 e.cincinnati.com CNAME .
 e.floridatoday.com CNAME .
 e.guampdn.com CNAME .
-e.visaliatimesdelta.com CNAME .
 eastus2-10.cloud.s11.sfmc-osl.com CNAME .
 email-courriel.stg-transactions.canadapost-postescanada.ca CNAME .
 email.argusleader.com CNAME .
@@ -2278,7 +2268,6 @@ out-globalid3.click.s11.sfmc-osl.com CNAME .
 page.e.moneris.com CNAME .
 page.email.ally.com CNAME .
 page.email.marykay.com CNAME .
-page.email.vimeo.com CNAME .
 pages-cardcommunication.capitalone.com CNAME .
 pages-csf.capitalone.com CNAME .
 pages-wam.capitalone.com CNAME .
@@ -2513,7 +2502,6 @@ pages.e.johndeere.com CNAME .
 pages.e.kaspick.com CNAME .
 pages.e.kerastase.ae CNAME .
 pages.e.kiehls.co.nz CNAME .
-pages.e.ktvu.com CNAME .
 pages.e.legalzoom.com CNAME .
 pages.e.lifetouch.com CNAME .
 pages.e.loblaws.ca CNAME .
@@ -2579,10 +2567,8 @@ pages.edm.cba.com.au CNAME .
 pages.edm.colonialfirststate.com.au CNAME .
 pages.edm.theage.com.au CNAME .
 pages.ee.delta.com CNAME .
-pages.eg.cheaptickets.com CNAME .
 pages.eg.ebookers.com CNAME .
 pages.eg.orbitz.com CNAME .
-pages.eg.wotif.com CNAME .
 pages.egmkt.lge.com CNAME .
 pages.elcompanies.com CNAME .
 pages.em-commercial.keurig.com CNAME .
@@ -2763,13 +2749,11 @@ pages.email.pistons.com CNAME .
 pages.email.planetfitness.com CNAME .
 pages.email.popular.com CNAME .
 pages.email.portdebarcelona.cat CNAME .
-pages.email.practicefusion.com CNAME .
 pages.email.precisionnutrition.com CNAME .
 pages.email.pv.aaa.com CNAME .
 pages.email.repsol.com CNAME .
 pages.email.rockets.com CNAME .
 pages.email.s-kanava.fi CNAME .
-pages.email.s-pankki.fi CNAME .
 pages.email.schneiderjobs.com CNAME .
 pages.email.schwab.com CNAME .
 pages.email.seek.com CNAME .
@@ -2850,10 +2834,8 @@ pages.engage.cee.novartis.com CNAME .
 pages.engage.novartis.com CNAME .
 pages.engage.virginia.edu CNAME .
 pages.erewards.marks.com CNAME .
-pages.esp.foxnation.com CNAME .
 pages.esp.foxnews.com CNAME .
 pages.et.cardpointe.com CNAME .
-pages.et.cheaptickets.com CNAME .
 pages.et.dickies.com CNAME .
 pages.et.orbitz.com CNAME .
 pages.et.usaa.com CNAME .
@@ -2950,7 +2932,6 @@ pages.info.beko.com.tr CNAME .
 pages.info.berkley.com CNAME .
 pages.info.centauro.com.br CNAME .
 pages.info.dhl-usa.com CNAME .
-pages.info.email.practicefusion.com CNAME .
 pages.info.fanbox.cc CNAME .
 pages.info.financescout24.de CNAME .
 pages.info.fiskars.com CNAME .
@@ -2972,7 +2953,6 @@ pages.info.naviance.com CNAME .
 pages.info.pixiv.net CNAME .
 pages.info.polestar.com CNAME .
 pages.info.rewire.to CNAME .
-pages.info.s-pankki.fi CNAME .
 pages.info.slec.org.sg CNAME .
 pages.info.tuenti.ec CNAME .
 pages.info.ucb.com CNAME .
@@ -3002,7 +2982,6 @@ pages.life.corebridgefinancial.com CNAME .
 pages.lilly-email.com CNAME .
 pages.link.chefsplate.com CNAME .
 pages.link.everyplate.com CNAME .
-pages.link.everyplate.com.au CNAME .
 pages.link.factor75.com CNAME .
 pages.link.goodchop.com CNAME .
 pages.link.greenchef.co.uk CNAME .
@@ -3016,7 +2995,6 @@ pages.link.upstart.com CNAME .
 pages.link.youfoodz.com CNAME .
 pages.littleocmulgeelodge-email.com CNAME .
 pages.livingwell-email.com CNAME .
-pages.loans.latitudefinancial.com.au CNAME .
 pages.loreal-my.com CNAME .
 pages.lottery.ohio.gov CNAME .
 pages.lovewellness-email.com CNAME .
@@ -3027,7 +3005,6 @@ pages.m.bomgaars.com CNAME .
 pages.m.catfinancial.com CNAME .
 pages.m.dmsgovernance.com CNAME .
 pages.m.lexisnexis.co.uk CNAME .
-pages.m.solarturbines.com CNAME .
 pages.maersk.com CNAME .
 pages.maga-supporters.com CNAME .
 pages.magazine.jtb.co.jp CNAME .
@@ -3093,7 +3070,6 @@ pages.mail.parcel.dhl.nl CNAME .
 pages.mail.petcarerx.com CNAME .
 pages.mail.quicken.com CNAME .
 pages.mail.sbtpg.com CNAME .
-pages.mail.schwab.com CNAME .
 pages.mail.service.optus.com.au CNAME .
 pages.mail.skinceuticals.ca CNAME .
 pages.mail.smunch.co CNAME .
@@ -3162,7 +3138,6 @@ pages.mc.reverb.com CNAME .
 pages.mc.siriusxm.ca CNAME .
 pages.mc.siriusxm.com CNAME .
 pages.mc.uberfreight.com CNAME .
-pages.mc.whatnot.com CNAME .
 pages.mc.xi.co.kr CNAME .
 pages.mch.chase.com CNAME .
 pages.mcloud.immoverkauf24.de CNAME .
@@ -3184,9 +3159,7 @@ pages.metrounitedway-email.org CNAME .
 pages.mi.kering.com CNAME .
 pages.mkt.boavistaservicos.com.br CNAME .
 pages.mkt.cesco.co.kr CNAME .
-pages.mkt.grab.com CNAME .
 pages.mkt.imagin.com CNAME .
-pages.mktg1.paypal.com CNAME .
 pages.mobeetravel-email.com CNAME .
 pages.mon-club.totalenergies.fr CNAME .
 pages.montefiorecmo.com CNAME .
@@ -3235,11 +3208,10 @@ pages.news.daraz.lk CNAME .
 pages.news.daraz.pk CNAME .
 pages.news.ean.org CNAME .
 pages.news.eatoye.pk CNAME .
-pages.news.email.ikea.com CNAME .
+pages.news.epicgames.com CNAME .
 pages.news.gatorade.com CNAME .
 pages.news.homegate.ch CNAME .
 pages.news.hoteltonight.com CNAME .
-pages.news.infotainment.siriusxm.com CNAME .
 pages.news.intermarche.com CNAME .
 pages.news.invisalign.com CNAME .
 pages.news.kerastase.com.eg CNAME .
@@ -3253,7 +3225,6 @@ pages.news.lorealprofessionnel.id CNAME .
 pages.news.lorealsalonshop.com.my CNAME .
 pages.news.mini.de CNAME .
 pages.news.niumba.com CNAME .
-pages.news.porsche.com CNAME .
 pages.news.purina.com CNAME .
 pages.news.skinceuticals.sg CNAME .
 pages.news.supercard.ch CNAME .
@@ -3280,7 +3251,6 @@ pages.newsolx.com.br CNAME .
 pages.nexo.com CNAME .
 pages.nl.lumimart.ch CNAME .
 pages.nl.tmz.com CNAME .
-pages.nl.toofab.com CNAME .
 pages.no.abbvie.com CNAME .
 pages.nothingbundtcakes-email.com CNAME .
 pages.notices.cvs.com CNAME .
@@ -3294,12 +3264,12 @@ pages.notifications.nuance.com CNAME .
 pages.notifications.secure.coles.com.au CNAME .
 pages.notificationstest.att-mail.com CNAME .
 pages.notify.equifax.com CNAME .
+pages.novidades.serasa.com.br CNAME .
 pages.nutribalance-email.com CNAME .
 pages.nutrition.ifit.com CNAME .
 pages.nva.target.com CNAME .
 pages.nvgaming.nvidia.com CNAME .
 pages.ocrm1.pearson.com CNAME .
-pages.odexperience.walmart.com CNAME .
 pages.offers.caseys.com CNAME .
 pages.offers.meredith.com CNAME .
 pages.offers.neteller.com CNAME .
@@ -3412,7 +3382,6 @@ pages.salvationarmytx.org CNAME .
 pages.samkt.lge.com CNAME .
 pages.sandbox-epicx.roche.com CNAME .
 pages.scotteq-email.com CNAME .
-pages.se.abbvie.com CNAME .
 pages.se.sportsenginestudio.com CNAME .
 pages.sea.foodpanda.com CNAME .
 pages.seabournpartners.seabourn.com CNAME .
@@ -3463,7 +3432,6 @@ pages.simplify.vivint.com CNAME .
 pages.sinfultradess.com CNAME .
 pages.smartusa-email.com CNAME .
 pages.smcemail.zynga.com CNAME .
-pages.smile.colgate.com CNAME .
 pages.smtp-mkt.travel.rakuten.co.jp CNAME .
 pages.softwaresubscription2.bestbuy.com CNAME .
 pages.solutions.canadapost-postescanada.ca CNAME .
@@ -3643,7 +3611,6 @@ pub.em-hmrboston.com CNAME .
 pub.em.assurantcustomerportal.com CNAME .
 pub.em.battle.net CNAME .
 pub.em.blizzard.com CNAME .
-pub.em.bmw.ca CNAME .
 pub.em.keurig.com CNAME .
 pub.em.target.com CNAME .
 pub.em.underarmour.com CNAME .
@@ -3685,7 +3652,6 @@ pub.foundationone.roche.com CNAME .
 pub.georgetbagbylodge-email.com CNAME .
 pub.hotelmanager.trivago.com CNAME .
 pub.id.supercard.ch CNAME .
-pub.ie.abbvie.com CNAME .
 pub.info-gwynniebee.com CNAME .
 pub.info.lazada.com CNAME .
 pub.inmovement-email.com CNAME .
@@ -3804,7 +3770,6 @@ streaming.view.s11.sfmc-osl.com CNAME .
 sz2n9jn1ryr1jyek.cloud.s11.sfmc-osl.com CNAME .
 taskid3.click.s11.sfmc-osl.com CNAME .
 tl-2h6sp5fd1tb0tqwp9n3b62ljy.click-sap.sfmc-marketing.com CNAME .
-tl-82dv9b9q28cxtmft3yb9cq6g1.click-sap.sfmc-marketing.com CNAME .
 tl-l3mgy48qr785fkqyjngh464w1.click-sap.sfmc-marketing.com CNAME .
 tl-l579mlsq35nn5vdd4wx3n-9q4.click-sap.sfmc-marketing.com CNAME .
 tl-yy0yfbdjt1h7cp-738n73mdn4.view-sap.sfmc-marketing.com CNAME .
@@ -3812,21 +3777,15 @@ tl03lncpszx6pxxlhjhmlftz70w4.view-sap.sfmc-marketing.com CNAME .
 tl08rf2zf70l7-2--g851b9hp1wy.view-sap.sfmc-marketing.com CNAME .
 tl0cnzlrv-nyh1d6zqyy8nd1h7nq.view-sap.sfmc-marketing.com CNAME .
 tl0lrq1057k473mh56z3z3fr32mq.view-sap.sfmc-marketing.com CNAME .
-tl0s2xs581pwxp-zvxwld-khp2xm.click-sap.sfmc-marketing.com CNAME .
 tl0wzv4n1pl6x465ssd61ddb9dry.click-sap.sfmc-marketing.com CNAME .
 tl0x5ltzqkj9d8jy8zlyshptmzp4.view-sap.sfmc-marketing.com CNAME .
 tl0xvwhr1hfxg1yf-8tdp-j4kc41.click-sap.sfmc-marketing.com CNAME .
 tl1gfm6-xt-bnhddbxt2815cbvl4.click-sap.sfmc-marketing.com CNAME .
-tl1jjhr20w4x8pqkn33m5y84-q84.click-sap.sfmc-marketing.com CNAME .
-tl1l5h12w42k4-klflqr4x7x6l6m.view-sap.sfmc-marketing.com CNAME .
 tl1ls1z--lpnsccgfvks1nv1wn71.click-sap.sfmc-marketing.com CNAME .
-tl1r0sk6s36-r043w2ngzld6jfvy.click-sap.sfmc-marketing.com CNAME .
-tl22jqd67dtwq9fc6bkv546ch4f4.click-sap.sfmc-marketing.com CNAME .
 tl2ckfmb9nldsn6k4rypt9g16tz8.view-sap.sfmc-marketing.com CNAME .
 tl2dmj4y7-1l7z6wpsk61-14nzhy.click-sap.sfmc-marketing.com CNAME .
 tl2w-gvh2p-zq22v80dsms6qjp2q.view-sap.sfmc-marketing.com CNAME .
 tl2w3hv8j9w1mp4y2l1mx91y9770.view-sap.sfmc-marketing.com CNAME .
-tl2zcln48g-3thj4tjmrz5yxft38.click-sap.sfmc-marketing.com CNAME .
 tl304fmk0cvxx-00hbkjm6qyktd4.click-sap.sfmc-marketing.com CNAME .
 tl391nm5wbhdl0fz9-r0pmhs0z4m.view-sap.sfmc-marketing.com CNAME .
 tl3ncrr8c5-m0r6g0qmdr3-rjsd1.cp-sap.sfmc-content.com CNAME .
@@ -3843,14 +3802,10 @@ tl4jq4qb61nrb8wkzt-1fc5n5vr1.view-sap.sfmc-marketing.com CNAME .
 tl5-f-j5k6r79nbdfl-1z659n171.click-sap.sfmc-marketing.com CNAME .
 tl52rvs46n0v731z6n4xn-8frty0.view-sap.sfmc-marketing.com CNAME .
 tl57zy3wtjqlj3f9tn7gtxfv7y70.click-sap.sfmc-marketing.com CNAME .
-tl638cy8p99m--rvd99360m-xrky.click-sap.sfmc-marketing.com CNAME .
 tl65v2mp543y19w85jd0wsz-3r7m.click-sap.sfmc-marketing.com CNAME .
-tl66bp41wlyfkmbdjcjz62blsm40.cp-sap.sfmc-content.com CNAME .
 tl6ml9-7tm9yn330q7g0jgfmx2zy.click-sap.sfmc-marketing.com CNAME .
-tl6mzjyv83rzklkz7crs5jw1sqb0.click-sap.sfmc-marketing.com CNAME .
 tl6pdrmz2ls4635wqh7dr7htxg31.view-sap.sfmc-marketing.com CNAME .
 tl6t8vjqh7c5b4gsms23v345kyt0.view-sap.sfmc-marketing.com CNAME .
-tl6xyttvr8sfmszfzj4m0q86qtf4.cp-sap.sfmc-content.com CNAME .
 tl76cvk9c0t778-3lt2kbzl13x4m.click-sap.sfmc-marketing.com CNAME .
 tl78y5t-j73s-qy1m02ymsjnh440.click-sap.sfmc-marketing.com CNAME .
 tl7dx2gn0wvqd7zsl78009-hj2lm.click-sap.sfmc-marketing.com CNAME .
@@ -3870,39 +3825,32 @@ tlbp-k1yl0x1c-dsxz603g239jf8.cp-sap.sfmc-contentqa.com CNAME .
 tlchbl69rsvng7w1tlrw9xkljy21.cp-sap.sfmc-content.com CNAME .
 tlcqfd5jwn67g8--b18msmfr9hp1.click-sap.sfmc-marketing.com CNAME .
 tlcxkh5fv3lcw8lzjctrq-xjqxz1.view-sap.sfmc-marketing.com CNAME .
-tlczvsmqf9gx5v7w9n6xy44xs1p4.click-sap.sfmc-marketing.com CNAME .
 tld38qszfl601x3gb-5-6vhg6j00.view-sap.sfmc-marketing.com CNAME .
 tld3qvfkxg17hw1bkrxjsd31-388.click-sap.sfmc-marketing.com CNAME .
 tld7nrz5lg6pdr8kbbk6ll0ygk4m.click-sap.sfmc-marketing.com CNAME .
 tldd15-8vtvyymgp974n89g4chhq.click-sap.sfmc-marketing.com CNAME .
-tldg244k3r1l3fqhrm9p11jgzs7y.click-sap.sfmc-marketing.com CNAME .
 tldly90wf-rxxb835hs7cfn5xw9m.click-sap.sfmc-marketing.com CNAME .
 tlf2cz-xw519hrmjl43zq1lst450.click-sap.sfmc-marketing.com CNAME .
 tlf72q1z7-m2pyqchdd4k20k-zw4.click-sap.sfmc-marketing.com CNAME .
-tlf7z2-z8bzqk6hjcq81phf7-9p0.view-sap.sfmc-marketing.com CNAME .
 tlfdxn90kgw6n40z6df6n8s9mz-q.click-sap.sfmc-marketing.com CNAME .
 tlfjd5fmpwwq6j40bddhjwscnzn0.view-sap.sfmc-marketing.com CNAME .
 tlg4wc-ql29p78j3mdvrdkftdgh1.view-sap.sfmc-marketing.com CNAME .
 tlgc6vt4rvjrj0pz47ljj2hw86mq.click-sap.sfmc-marketing.com CNAME .
 tlgcgv1cz8cv2v16htmnz1mt9w-4.cp-sap.sfmc-content.com CNAME .
 tlgv08l6dcs6bqbdt0g32nbw30wy.view-sap.sfmc-marketing.com CNAME .
-tlgwjrkk7wd86804rpbq015nld94.click-sap.sfmc-marketing.com CNAME .
 tlh0b2gxmjqvwwlhw3c44nm2fc0q.view-sap.sfmc-marketing.com CNAME .
 tlh6xh--ql2n5qnx-2j4m5hs5pc4.click-sap.sfmc-marketing.com CNAME .
 tlh8bjgj766q70956mvk2-ymrqn1.view-sap.sfmc-marketing.com CNAME .
 tlhsbh94dz904-676-6vcd33q478.click-sap.sfmc-marketing.com CNAME .
 tlhx2yk9nl3d0mf7d81q2th9hdkm.view-sap.sfmc-marketing.com CNAME .
 tlj1hj3-xy049fcg7cc7hy7ntdrq.click-sap.sfmc-marketing.com CNAME .
-tlj3ddlm9bj-srtnt2tvhxcpgbp4.view-sap.sfmc-marketing.com CNAME .
 tlj90t2b29j0c9s5y34wlwf5jf24.click-sap.sfmc-marketing.com CNAME .
 tljfrg832wvdsxyqkytc602c1kc0.view-sap.sfmc-marketing.com CNAME .
-tljnylk9fldm0-jr93612h9d5xj8.click-sap.sfmc-marketing.com CNAME .
 tljskwr-8csm4r7hzx6fdjq3m974.click-sap.sfmc-marketing.com CNAME .
 tljybtj270tq8zlk28wrbl67xk4q.click-sap.sfmc-marketing.com CNAME .
 tlk5rfgqrxm7hkfb8j0r-ct7mg-1.cp-sap.sfmc-content.com CNAME .
 tlkcvt9qlzljnbjkx8dpsl5r7vc4.click-sap.sfmc-marketing.com CNAME .
 tlkln2wd1cnh0l8f8-lxswxg-851.view-sap.sfmc-marketing.com CNAME .
-tlkmm-3xy0lzcj3nf035d9dl00r1.click-sap.sfmc-marketing.com CNAME .
 tlkt1p9dpzt573zv3jf11s-lhkk1.click-sap.sfmc-marketing.com CNAME .
 tll5fyx9t-12t4ksp7y854d7x3p8.click-sap.sfmc-marketing.com CNAME .
 tllbb87nwm3bzl-n9mrfgh0ypvyq.click-sap.sfmc-marketing.com CNAME .
@@ -3910,64 +3858,47 @@ tlljkghslk97jrhqy4yrfnb7794y.view-sap.sfmc-marketing.com CNAME .
 tllrtmj4xbz4rf4w7wl0b1j0csc1.click-sap.sfmc-marketing.com CNAME .
 tllv-z9b99j0pym416c6ch12ksg4.view-sap.sfmc-marketing.com CNAME .
 tlm5jq6n46pfv8l6y9p3jk0pmr34.view-sap.sfmc-marketing.com CNAME .
-tlm9cfwv27w3fn9cnjcy71g0k3-q.click-sap.sfmc-marketing.com CNAME .
 tlmbnc2yvlp1fbrl4l11lhynzkm0.click-sap.sfmc-marketing.com CNAME .
 tlmjzn13gw5x9tc9vjhb19pd-z0q.click-sap.sfmc-marketing.com CNAME .
 tlmrhjvqlkj6v97rwp4ds--8gr7q.click-sap.sfmc-marketing.com CNAME .
-tlmv17hr-qnqh31nrzfkq8snhyf8.view-sap.sfmc-marketing.com CNAME .
 tlmvp2h5753wqfpx4w5wvcmjn0x0.cp-sap.sfmc-content.com CNAME .
 tln0gc-fd0528s500wqhhljxpy40.view-sap.sfmc-marketing.com CNAME .
 tln1-kyt88czbvwz7vct3v3s9-wm.click-sap.sfmc-marketing.com CNAME .
 tln5rqtm6yr9fl-p2kvxy2f7bn7q.cp-sap.sfmc-content.com CNAME .
 tlnhl-xspp4wkwwcb-gvwy-j5rw0.click-sap.sfmc-marketing.com CNAME .
-tlnlvfl1ndgl2s9jpt9nwlbmkzy4.click-sap.sfmc-marketing.com CNAME .
 tlnpnzyw7jpxsztztft4wblbcvly.click-sap.sfmc-marketing.com CNAME .
-tlnt9sm8s-7w9yj4rghk5dvdftnm.view-sap.sfmc-marketing.com CNAME .
 tlntwqrsrsc74v0b2ldg4yycy710.click-sap.sfmc-marketing.com CNAME .
 tlnwjr0vf3ysf-rrd2mwlttbstb4.view-sap.sfmc-marketing.com CNAME .
 tlnx5m-5ryhc3drpdr3j73kxdpn4.view-sap.sfmc-marketing.com CNAME .
 tlnyb2wxv4h4kfz4lhnng3jjw3h0.click-sap.sfmc-marketing.com CNAME .
 tlph6g44b9jk5cq4978l9svcjwdm.click-sap.sfmc-marketing.com CNAME .
 tlphb7939hn2mb24kd9hrtcghgfy.view-sap.sfmc-marketing.com CNAME .
-tlpn9q-zzx25r6lh9s67v1v57yry.click-sap.sfmc-marketing.com CNAME .
-tlpw9l6fj5fmld4mq64n327m2-74.click-sap.sfmc-marketing.com CNAME .
 tlpykv-y7dq8xm044mj1h25cjkb1.click-sap.sfmc-marketing.com CNAME .
 tlq0d5jn0xn63h0zjqyywj1lwwl4.cp-sap.sfmc-content.com CNAME .
-tlq1d3k4d1dp5q-2k0lh0z0ynb7y.click-sap.sfmc-marketing.com CNAME .
 tlq299qw6td4wmhm20nbc7dqnj60.view-sap.sfmc-marketing.com CNAME .
 tlq3vd0f4r0w6-pnrlh3tpwkbtx0.click-sap.sfmc-marketing.com CNAME .
 tlq3ybr67gpds22yk238dbs5vyp1.click-sap.sfmc-marketing.com CNAME .
 tlq9qv7f-yzfw2dhj026s1hp2dpm.cp-sap.sfmc-content.com CNAME .
 tlqfj96t940j18szc572rmm9gfxy.view-sap.sfmc-marketing.com CNAME .
-tlqks95bth477vdlmfr70tqg9f00.view-sap.sfmc-marketing.com CNAME .
 tlqnrmz6fmcz29kfc5r80cn0b60q.view-sap.sfmc-marketing.com CNAME .
-tlqp38zxr8zp9-hncxd2xj7rp0f0.view-sap.sfmc-marketing.com CNAME .
 tlr144jw2-mk0b42z4lf4n92dgyy.cp-sap.sfmc-content.com CNAME .
 tlr1tvylsdmx-8pblks3v2p9jj08.cp-sap.sfmc-content.com CNAME .
 tlr2nlfcdrjm14j5j3903p4d7rpm.click-sap.sfmc-marketing.com CNAME .
 tlrb9ywshxmr4byr61cy0s7fn9p1.view-sap.sfmc-marketing.com CNAME .
-tlrd6tbl5r7p20ltdfq1827vzf64.click-sap.sfmc-marketing.com CNAME .
-tlrpl0m-xm698r00nqn5-k-5hb24.view-sap.sfmc-marketing.com CNAME .
 tlrrlgfgn9rmbxn3126hrw33dmq4.view-sap.sfmc-marketing.com CNAME .
 tlrtp71qxbw9byjxhkt7xm5glg6y.view-sap.sfmc-marketing.com CNAME .
 tlrwrbgck541v8xfpll73jwt3kf4.view-sap.sfmc-marketing.com CNAME .
 tls2qmzwm9s6gb9xs7prgtk1m-b1.click-sap.sfmc-marketing.com CNAME .
-tls68trtw5vhbh20hb5sjp7kgc34.click-sap.sfmc-marketing.com CNAME .
 tlsgp9bph8s-nmhywvs4fv5m79l1.click-sap.sfmc-marketing.com CNAME .
-tlsw0lvrwmyqd9m23b00tz97y74y.click-sap.sfmc-marketing.com CNAME .
 tlt4--3qh9m61pd59tp51vqp1wk8.click-sap.sfmc-marketing.com CNAME .
-tltb5-cg515l4b79wlp4zk7s1gv4.click-sap.sfmc-marketing.com CNAME .
 tltc76kktxnmmdbzdt0ylq90hl5q.cp-sap.sfmc-contentqa.com CNAME .
 tltdqzstz5702r7-wg038dt22r-m.cp-sap.sfmc-contentqa.com CNAME .
 tltfr81pmlhpjhy62mf363j8p774.click-sap.sfmc-marketing.com CNAME .
-tltxj5qdx-8mppgj5qd78w0ypf44.click-sap.sfmc-marketing.com CNAME .
 tltynlr-v59tttr9kjsq4t8y708y.click-sap.sfmc-marketing.com CNAME .
-tlv73g60nc83twv0cf51tpp4qbq4.click-sap.sfmc-marketing.com CNAME .
 tlvgx-vjz25ng1drnbvbtkk4tcwm.click-sap.sfmc-marketing.com CNAME .
 tlvm-tnc7wr1fhj4m0nmsncz-c44.click-sap.sfmc-marketing.com CNAME .
 tlvrgyvskgd7wcf-ym-r49vktfq0.click-sap.sfmc-marketing.com CNAME .
 tlvrvz6kf10h9pw215dzch-9-9j0.click-sap.sfmc-marketing.com CNAME .
-tlw57p0ys3mx060hfqs3zxkqdwx4.click-sap.sfmc-marketing.com CNAME .
 tlw5ydyzggt0w68y6jq1s7h67fr4.click-sap.sfmc-marketing.com CNAME .
 tlw8x4mgkl4vc40qc-bc180q2zv1.click-sap.sfmc-marketing.com CNAME .
 tlwcqxdqwzlsp4mhbj4kzd8sy878.click-sap.sfmc-marketing.com CNAME .
@@ -3975,7 +3906,6 @@ tlwgsjjy2cvlm598p96vlgd3z4s4.view-sap.sfmc-marketing.com CNAME .
 tlwk7ldl1-prstyh869wt0rlz3tm.view-sap.sfmc-marketing.com CNAME .
 tlwpbp478wvj-q1xn253jy4hgvj0.click-sap.sfmc-marketing.com CNAME .
 tlwy36vkb-6mmyf3073-0zpzqht1.view-sap.sfmc-marketing.com CNAME .
-tlx-xd1qb-wdv8dfs2lyt195rfp8.cp-sap.sfmc-content.com CNAME .
 tlx47n566nkb9kpyq3cljlfpjdn1.view-sap.sfmc-marketing.com CNAME .
 tlx5xrx9ldjzqg6n3pyjkf5bkd10.click-sap.sfmc-marketing.com CNAME .
 tlxbvp0rmwpwqqtlhbj-x4hsq2t8.click-sap.sfmc-marketing.com CNAME .
@@ -4104,7 +4034,6 @@ view.candy.itmtatest.org CNAME .
 view.canondigital.com.br CNAME .
 view.capitalonlineauctionsmail.com CNAME .
 view.care.comcast.com CNAME .
-view.care.orbitz.com CNAME .
 view.careerbuilder-email.com CNAME .
 view.carlife.goo-net.com CNAME .
 view.cbsconnect.paramount.com CNAME .
@@ -4411,7 +4340,6 @@ view.edm.theage.com.au CNAME .
 view.edu.cpaacademy.org CNAME .
 view.education.dispatchhealth.com CNAME .
 view.efamilydollar.com CNAME .
-view.eg.wotif.com CNAME .
 view.egencia-email.com CNAME .
 view.elcompanies.com CNAME .
 view.elite.points.com CNAME .
@@ -4606,7 +4534,6 @@ view.email.citi.com.ph CNAME .
 view.email.citibank.com.hk CNAME .
 view.email.citibank.com.sg CNAME .
 view.email.clubchampiongolf.com CNAME .
-view.email.collecting.com CNAME .
 view.email.comfortwindows.com CNAME .
 view.email.conveyancing.com.au CNAME .
 view.email.corcoran.com CNAME .
@@ -4765,7 +4692,6 @@ view.email.oklahoma.aaa.com CNAME .
 view.email.onduo.com CNAME .
 view.email.onlok.org CNAME .
 view.email.opentable.co.uk CNAME .
-view.email.opentable.com.au CNAME .
 view.email.opentable.de CNAME .
 view.email.oporto.com.au CNAME .
 view.email.origamiowl.com CNAME .
@@ -4857,7 +4783,6 @@ view.email.uk.westfield.com CNAME .
 view.email.universalpictures.co.uk CNAME .
 view.email.usa.avon.com CNAME .
 view.email.ussoccer.com CNAME .
-view.email.vakantiediscounter.nl CNAME .
 view.email.vans.com CNAME .
 view.email.vegas.com CNAME .
 view.email.velizy2.fr.westfield.com CNAME .
@@ -4955,7 +4880,6 @@ view.encova-email.com CNAME .
 view.energieberatung.team CNAME .
 view.energypluscompany-email.com CNAME .
 view.enews-bjupress.com CNAME .
-view.enews.telekom.de CNAME .
 view.enews.wkcda.hk CNAME .
 view.engage-oyorooms.com CNAME .
 view.engage-upsmychoicedeals.com CNAME .
@@ -5039,7 +4963,6 @@ view.gcsr.bankofamerica.com CNAME .
 view.georgetbagbylodge-email.com CNAME .
 view.gghson.com CNAME .
 view.ginovus-email.com CNAME .
-view.giorgioarmanibeauty-usa.com CNAME .
 view.givainc-email.com CNAME .
 view.gleneagleinec.com CNAME .
 view.global.dkms.org CNAME .
@@ -5397,7 +5320,6 @@ view.mail.mazda.ca CNAME .
 view.mail.msdanz.com CNAME .
 view.mail.msdp.cn CNAME .
 view.mail.myfirstinternetbank.com CNAME .
-view.mail.nintendo-europe.com CNAME .
 view.mail.nyxcosmetics.co CNAME .
 view.mail.oddset.de CNAME .
 view.mail.omron-healthcare.com CNAME .
@@ -5437,7 +5359,6 @@ view.mailer.denondj.com CNAME .
 view.mailer.denonpro.com CNAME .
 view.mailer.eprintfast.com CNAME .
 view.mailer.fideliscare.org CNAME .
-view.mailer.hoteltonight.com CNAME .
 view.mailer.marantzpro.com CNAME .
 view.mailer.ranecommercial.com CNAME .
 view.mailer.sgcarmart.com CNAME .
@@ -5603,7 +5524,6 @@ view.mkt.sotreq.com.br CNAME .
 view.mktcld.salesforce.com CNAME .
 view.mktg.drivetime.com CNAME .
 view.mktg.finstro.com CNAME .
-view.mktg1.paypal.com CNAME .
 view.mktgc.salesforce.com CNAME .
 view.mktgmtdcanada.ca CNAME .
 view.mktmarathonkids.org CNAME .
@@ -5935,7 +5855,6 @@ view.s11.deeplinking.sfmctest.com CNAME .
 view.s11.sfmc-osl.com CNAME .
 view.s11.sfmctest.com CNAME .
 view.s12.deeplinking.sfmctest.com CNAME .
-view.s12.sfmctest.com CNAME .
 view.s13.sfmctest.com CNAME .
 view.s2.glambox.com.br CNAME .
 view.s2.qa2.sfmctest.com CNAME .
@@ -5990,7 +5909,6 @@ view.seniormarketingadvisors.com CNAME .
 view.service-shop.mancity.com CNAME .
 view.service.att-mail.com CNAME .
 view.service.cglms.com CNAME .
-view.service.gamgee.store CNAME .
 view.service.marketingphc.com CNAME .
 view.service.marksandspencer.com CNAME .
 view.service.wellingtonairport.co.nz CNAME .
@@ -6026,7 +5944,6 @@ view.sfmc-itmta.com CNAME .
 view.sfmc-osl.com CNAME .
 view.sfmc-staging.upstart.com CNAME .
 view.sfmc-test-de.msd.com CNAME .
-view.sfmc-test-es.msd.com CNAME .
 view.sfmc-test-euram.msd.com CNAME .
 view.sfmc-test-fr.msd.com CNAME .
 view.sfmc-test-it.msd.com CNAME .
@@ -6345,13 +6262,13 @@ wwwstg.click.s11.sfmc-osl.com CNAME .
 yelp28ouuwj7prjr.cloud.s11.sfmc-osl.com CNAME .
 zdactzl96snkye37.click.s11.sfmc-osl.com CNAME .
 zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com CNAME .
-click.a32.amsidlr.com CNAME .
 click.a33.asburydlr.com CNAME .
 click.a34.asburymrk.com CNAME .
 click.acronis.email CNAME .
 click.airasthelpdesk.org CNAME .
 click.airfrance.klm-corporatetravel-email.com CNAME .
 click.autobus.motordlr.com CNAME .
+click.autofinance-email.com CNAME .
 click.automobility.motordlr.com CNAME .
 click.autos.myhonda.com.br CNAME .
 click.buggy.motordlr.com CNAME .
@@ -6370,9 +6287,9 @@ click.combustion.motordlr.com CNAME .
 click.comercial-infoglobo.com.br CNAME .
 click.communication.ruelala.com CNAME .
 click.communications.trustpower.co.nz CNAME .
+click.comunicacao.valor.com.br CNAME .
 click.comunicaciones.libertyseguros.com CNAME .
 click.connect.autovin.com CNAME .
-click.contact.alaska.edu CNAME .
 click.copeakcommunications.state.co.us CNAME .
 click.crankshaft.motordlr.com CNAME .
 click.customer.cp-daihatsu.jp CNAME .
@@ -6381,7 +6298,6 @@ click.deutscheawm.db.com CNAME .
 click.deutschebankwm.db.com CNAME .
 click.diesel.motordlr.com CNAME .
 click.digital.bankleumi.co.il CNAME .
-click.discover.availity.com CNAME .
 click.e-vanguard.com.au CNAME .
 click.e.aldoshoes.com CNAME .
 click.e.asu.edu CNAME .
@@ -6389,6 +6305,7 @@ click.e.carnet.vw.com CNAME .
 click.e.cda.nl CNAME .
 click.e.foxtel.com.au CNAME .
 click.e.gifts.com CNAME .
+click.e.larocheposay.com.au CNAME .
 click.e.libertytravel.com CNAME .
 click.e.lorealprofessionnel.com.au CNAME .
 click.e.msmode.com CNAME .
@@ -6416,7 +6333,7 @@ click.email.churchofjesuschrist.org CNAME .
 click.email.collaw.com CNAME .
 click.email.comeuntochrist.org CNAME .
 click.email.compassdigital.io CNAME .
-click.email.discountcode.dailymail.co.uk CNAME .
+click.email.cuponation.com CNAME .
 click.email.eveonline.com CNAME .
 click.email.finlandiavodka.com CNAME .
 click.email.gutscheine.focus.de CNAME .
@@ -6427,6 +6344,7 @@ click.email.just-eat.com CNAME .
 click.email.just-eat.fr CNAME .
 click.email.kfc.fr CNAME .
 click.email.kortingscode.nl CNAME .
+click.email.ldschurch.org CNAME .
 click.email.lomadee.com CNAME .
 click.email.lrp.com.tw CNAME .
 click.email.maxi-cosi.com CNAME .
@@ -6437,6 +6355,7 @@ click.email.psychiatry.org CNAME .
 click.email.pvhba.com CNAME .
 click.email.radins.com CNAME .
 click.email.reserve1870.com CNAME .
+click.email.rockets.com CNAME .
 click.email.shopwithgolf.com CNAME .
 click.email.tego.fr CNAME .
 click.email.travelhq.com CNAME .
@@ -6458,6 +6377,7 @@ click.f36.fdautodealer.com CNAME .
 click.f37.fdautodealer.com CNAME .
 click.f38.fdautodealer.com CNAME .
 click.f39.fdautodealer.com CNAME .
+click.f40.fdautodealer.com CNAME .
 click.flywheel.motordlr.com CNAME .
 click.fourcycle.motordlr.com CNAME .
 click.freestyleprovider.abbott.us CNAME .
@@ -6482,7 +6402,6 @@ click.list.lonelyplanet.com CNAME .
 click.lottery.ohio.gov CNAME .
 click.m.mexicoasistencia.com.mx CNAME .
 click.m.mos.jp CNAME .
-click.m.yourforeclosureupdate.com CNAME .
 click.m30.mileonedlr.com CNAME .
 click.mag.bluenote.co.jp CNAME .
 click.magneto.motordlr.com CNAME .
@@ -6502,6 +6421,7 @@ click.mail.nbcnews.com CNAME .
 click.mail.nintendo-europe.com CNAME .
 click.mail.nyxcosmetics.co CNAME .
 click.mail.pflege.de CNAME .
+click.mail.playstation.com.cn CNAME .
 click.mail.tommy.com CNAME .
 click.mail.uwcsea.edu.sg CNAME .
 click.mail.wizsolucoes.com.br CNAME .
@@ -6531,6 +6451,7 @@ click.motivafuels.com CNAME .
 click.motorcab.motordlr.com CNAME .
 click.motorcar.motordlr.com CNAME .
 click.motorwagen.motordlr.com CNAME .
+click.mta.sony.jp CNAME .
 click.n.bodynature.fr CNAME .
 click.news.daraz.com CNAME .
 click.news.homegate.ch CNAME .
@@ -6541,7 +6462,6 @@ click.news.loggi.com CNAME .
 click.news.lorealprofessionnel.id CNAME .
 click.news.lorealsalonshop.co.in CNAME .
 click.news.moneyhouse.ch CNAME .
-click.news.nestle.com CNAME .
 click.news.netpincer.hu CNAME .
 click.news.swift.com.br CNAME .
 click.newsfromted.com CNAME .
@@ -6566,7 +6486,6 @@ click.rotary.motordlr.com CNAME .
 click.salesforce.thaiunion.com CNAME .
 click.savoymiami-email.com CNAME .
 click.sea.foodpanda.com CNAME .
-click.search.realtystore.com CNAME .
 click.search.rentbeforeowning.com CNAME .
 click.send.ohsu.edu CNAME .
 click.service.wellingtonairport.co.nz CNAME .
@@ -6576,7 +6495,6 @@ click.services.total.com.do CNAME .
 click.services.total.mg CNAME .
 click.services.total.sn CNAME .
 click.services.totaloil.com.ph CNAME .
-click.sfmc-test-uk.msd.com CNAME .
 click.sfmc.haventreebank.com CNAME .
 click.sfmcmail.indochino.com CNAME .
 click.sfwateroutreach.org CNAME .
@@ -6594,7 +6512,6 @@ click.unitedwaychattanooga-email.com CNAME .
 click.unitedwaydm-email.org CNAME .
 click.uwci.online CNAME .
 click.uwstemail.com CNAME .
-click.v25.eautodlr.com CNAME .
 click.v26.eautodlr.com CNAME .
 click.verabradleyemail.com CNAME .
 click.vivo.sf.celulardireto.com.br CNAME .
@@ -6606,8 +6523,6 @@ tllqy8wy-tph-ns7pltq6pxr71x4.click-sap.sfmc-marketing.com CNAME .
 tlxx4sblp54ww1tntll6pxp489zm.click-sap.sfmc-marketing.com CNAME .
 click.contato.chamanopx.com CNAME .
 click.edm.samsonite.com.au CNAME .
-click.f40.fdautodealer.com CNAME .
-click.mail.playstation.com.cn CNAME .
 click.partnernewsemail.xerox.com CNAME .
 click.turbi.news CNAME .
 click.whs.questdiagnostics.com CNAME .
