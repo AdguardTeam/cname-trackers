@@ -261,6 +261,7 @@
 13dkim1._domainkey.advancement.mcgill.ca
 13dkim1._domainkey.comcast.com
 13dkim1._domainkey.messaging.ultimateears.com
+14229.sock-qa1.marketingcloudqaops.com
 14805.connector-qa1.marketingcloudqaapis.com
 1533.editor-qa1.marketingcloudqaapis.com
 15920.connector-qa1.marketingcloudqaapis.com
@@ -270,10 +271,17 @@
 16986.sfap-qa1.marketingcloudqaops.com
 17367.sock-qa1.marketingcloudqaops.com
 200608._domainkey.news.kiehls.com.my
+22555.sfap-qa1.marketingcloudqaops.com
+22838.ftp-qa1.marketingcloudqaops.com
+23162.editor-qa1.marketingcloudqaapis.com
 25882.ftp-qa1.marketingcloudqaops.com
+26369.editor-qa1.marketingcloudqaapis.com
+26549.sock-qa1.marketingcloudqaops.com
 27935.connector-qa1.marketingcloudqaapis.com
 30083.editor-qa1.marketingcloudqaapis.com
 30619.ftp-qa1.marketingcloudqaops.com
+32251.ftp-qa1.marketingcloudqaops.com
+32716.editor-qa1.marketingcloudqaapis.com
 3815.sock-qa1.marketingcloudqaops.com
 3851.sock-qa1.marketingcloudqaops.com
 3917.sfap-qa1.marketingcloudqaops.com
@@ -283,6 +291,7 @@
 51dkim1._domainkey.communication.talabat.com
 51dkim1._domainkey.info-ch.genesis.com
 51dkim1._domainkey.info-de.genesis.com
+7001.sock-qa1.marketingcloudqaops.com
 7974.sfap-qa1.marketingcloudqaops.com
 8410.ftp-qa1.marketingcloudqaops.com
 bitbucket.click.s11.sfmc-osl.com
@@ -290,7 +299,6 @@ cl.hotels.exactt.net
 click-cre.capitalone.com
 click-csf.capitalone.com
 click-tm.capitalone.com
-click.a32.amsidlr.com
 click.aaacpmail.com
 click.academic.cambridge.org
 click.activate.urosario.edu.co
@@ -345,6 +353,7 @@ click.care.comcast.com
 click.careers.enterprisemobility.com
 click.cbsconnect.paramount.com
 click.cc.casio.info
+click.ccg.nintendo.net
 click.champion-america-email.com
 click.chghealthcaresupport.com
 click.ciee-ipm.org.br
@@ -367,6 +376,7 @@ click.comms.kiwiplates.nz
 click.comms.utah.gov
 click.comms.vodafone.co.nz
 click.communication.arbitron.com
+click.communication.ruelala.com
 click.communications.abs-cbn.com
 click.communications.careers360.co.in
 click.communications.cas.org
@@ -376,7 +386,9 @@ click.communications.intuit.net
 click.communications.nortonway.com
 click.communications.nuffieldfoundation.org
 click.communications.risebroadband.com
+click.communications.sunnova.com
 click.communications.upsstore.com
+click.company.angieslist.com
 click.comunicacao.suhaiseguradora.com
 click.comunicaciones.epssanitas.com
 click.comunicaciones.gruporecordar.com.co
@@ -395,7 +407,6 @@ click.connect.uni.edu
 click.connectnotifications.intuit.com
 click.conns-email.com
 click.consult.clstjean.be
-click.contact.alaska.edu
 click.contact.disneystore.com
 click.contact.ethnikiasfalistiki.gr
 click.contact.stores-discount.com
@@ -430,6 +441,7 @@ click.dein-bluemovie.at
 click.dein-bluemovie.de
 click.deliver.lasership.com
 click.delivery.uvarosa.com.br
+click.dev-dexcom-email.com
 click.dev-uat-email.enterprise.com
 click.digest.marketdominancenews.com
 click.digital.bv.com.br
@@ -437,7 +449,6 @@ click.digital.hairtalkusa.com
 click.digital.positiva.gov.co
 click.dipmail5.baitoru.com
 click.directa.buenosaires.gob.ar
-click.discover.availity.com
 click.discover.nyit.edu
 click.divulga.mktsebrae.com.br
 click.doctorsonly-email.com
@@ -559,7 +570,6 @@ click.email-sap.pgcc.edu
 click.email-seabags.com
 click.email-skccom.com
 click.email-slidesgo.com
-click.email-sparetimesportsclubs.com
 click.email-sperotherapeutics.com
 click.email-surprise.katespade.com
 click.email-tlclasik.ca
@@ -672,7 +682,6 @@ click.email.instinctpetfood.com
 click.email.intercaretherapy.com
 click.email.joracredit.com
 click.email.jornada.allianz.com.br
-click.email.kasmo.co
 click.email.king.com
 click.email.lablab.cl
 click.email.lakrewards-news.com
@@ -683,6 +692,7 @@ click.email.laurelroad.com
 click.email.lawson.jp
 click.email.lg-argentina.com
 click.email.lifetimefitness.com
+click.email.locationshawaii.com
 click.email.lunii.com
 click.email.lysol.com
 click.email.manhunt.net
@@ -719,7 +729,6 @@ click.email.nwohio.aaa.com
 click.email.nycers.org
 click.email.oka.com
 click.email.onduo.com
-click.email.oporto.com.au
 click.email.optumrx.com
 click.email.pamperedchef.com
 click.email.partridgepublishing.com
@@ -741,6 +750,7 @@ click.email.propp.io
 click.email.purduepharma.com
 click.email.pyramidhc.com
 click.email.quickcredit.com
+click.email.raileurope.fr
 click.email.rccl.com
 click.email.reason.org
 click.email.remington.com
@@ -774,6 +784,7 @@ click.email.tandon.nyu.edu
 click.email.tcmevents.org
 click.email.telepass.com
 click.email.theralogix.com
+click.email.thinkcapital.com
 click.email.ticketera.com
 click.email.ticketmaster.it
 click.email.ticketweb.com
@@ -834,6 +845,7 @@ click.enews.popcap.com
 click.enews.tinyprints.com
 click.enews.weddingpaperdivas.com
 click.engage.absa.africa
+click.engage.minecraft.net
 click.engage.virginia.edu
 click.envios.buscape.com.br
 click.epost.minstoradag.se
@@ -888,6 +900,7 @@ click.hello.cpap.com
 click.hello.justeattakeaway.com
 click.hello.knotel.com
 click.hello.rustica.fr
+click.hg-email.com
 click.hifk.tmmsg.com
 click.hob.net.br
 click.homedepotemail.com
@@ -903,6 +916,7 @@ click.improvementscatalog-email.com
 click.in.tridentindia.com
 click.inbox.bissell.ca
 click.info.ambetterhealth.com
+click.info.birchwood.ca
 click.info.bkportugal.pt
 click.info.callmewine.com
 click.info.cashback.net
@@ -920,7 +934,6 @@ click.info.hikaritv.net
 click.info.icex.es
 click.info.imadeya.co.jp
 click.info.kiausa.com
-click.info.laboratoires-genevrier.com
 click.info.leoandgo.com
 click.info.livenation.fr
 click.info.mcdonalds.com.ph
@@ -972,7 +985,6 @@ click.m.lakeview.com
 click.m.malibuboats.com
 click.m.rizap.jp
 click.m.valleymusictravel.com
-click.m.yourforeclosureupdate.com
 click.ma.alba.co.jp
 click.ma.daiyak.co.jp
 click.ma.fightingroad.co.jp
@@ -989,6 +1001,7 @@ click.mail-pensionmark.com
 click.mail-planetwin365.com
 click.mail-westsystem.com
 click.mail.360onlineprint.com
+click.mail.aig.com
 click.mail.ajga.org
 click.mail.alltricks.com
 click.mail.almustafatrust.org
@@ -1037,6 +1050,7 @@ click.mail.one-insurance.com
 click.mail.onedrive.com
 click.mail.p1fcu.org
 click.mail.presentelearning.com
+click.mail.renttheroo.com
 click.mail.rj.org
 click.mail.saveamerica45.com
 click.mail.shacombank.com.hk
@@ -1144,8 +1158,8 @@ click.mcloud.pikolinos.com
 click.media.mydigitalmoney.com
 click.medicare.bcbsm.com
 click.member.ga-tech.co.jp
-click.memberemail.com
 click.members-shoeshow.com
+click.members.angieslist.com
 click.memberservices.cerner.com
 click.mercadeo.correobancolombia.com
 click.mercadeoemaileltiempo.com
@@ -1173,6 +1187,8 @@ click.mkt.visual.com.mx
 click.mktg.drivetime.com
 click.mortgage.53.com
 click.mortgage.arvest.com
+click.motorcab.motordlr.com
+click.motorcar.motordlr.com
 click.ms.aboardtheworld.com
 click.msg.makuake.co.jp
 click.msi-marketing.com
@@ -1187,7 +1203,6 @@ click.na.burton.com
 click.nanaco-net.jp
 click.neopostcommunications.com
 click.new.joracredit.com
-click.news-rakuten.fr
 click.news.activtrades.info
 click.news.alfursan-online.com
 click.news.amedigital.com
@@ -1243,6 +1258,7 @@ click.notices.eyeappts.com
 click.notificacion.movistar.cl
 click.notifications.bavarian-nordic.com
 click.notifications.directbiller.com
+click.notifications.directvgo.com
 click.notifications.dsny.nyc.gov
 click.notifications.email.chargepoint.com
 click.notify.email.nscorp.com
@@ -1251,9 +1267,7 @@ click.novidades.skinlaser.com.br
 click.now.paycargo.com
 click.now.sevenhaventrade.com
 click.nyhedsbrev.nytsyn.dk
-click.o-bank.com.tw
 click.oaicamp.com
-click.odexperience.wal-mart.com
 click.official.nike.com
 click.official.thebar.com
 click.olive-email.com
@@ -1357,7 +1371,6 @@ click.sandstonecare-email.com
 click.saude.unimedbh.com.br
 click.sbsemails.com.py
 click.sc.hks.harvard.edu
-click.search.realtystore.com
 click.seatdemexico.com
 click.seekmedicareservices.com
 click.seiumemberbenefits.com
@@ -1464,6 +1477,7 @@ click.tracker.securethemails.com
 click.tracking2.geeksquad.com
 click.tradelater.telustradein.com
 click.traemand.co
+click.transactions.westernunion.com
 click.travelglo-email.com
 click.triple9digital-email.com
 click.tripplite.com
@@ -2279,6 +2293,7 @@ pages.alpitourworld-digital.com
 pages.amicalolafallslodge-email.com
 pages.amq.mq.edu.au
 pages.anbtx-email.com
+pages.angieslist.com
 pages.anthem-email.com
 pages.ap.abbott.com
 pages.apac.foodpanda.com
@@ -2319,6 +2334,7 @@ pages.botanicalinterests-email.com
 pages.brandshop-email.att-mail.com
 pages.brasstownvalley-email.com
 pages.breakingmarketalert.com
+pages.brightnest.angieslist.com
 pages.brokernews.chubbinsurance.ca
 pages.businessloans.americanexpress.com
 pages.c.alumni.umich.edu
@@ -2337,6 +2353,7 @@ pages.cbrecommunications.com
 pages.ccb.citi.com
 pages.ccg.nintendo.net
 pages.cchemail.com
+pages.cciio-spidr.cms.gov
 pages.cdp.bankofamerica.com
 pages.cee.foodpanda.com
 pages.chargeplus.totalenergies.es
@@ -2466,6 +2483,7 @@ pages.e.fox29.com
 pages.e.fox2detroit.com
 pages.e.fox4news.com
 pages.e.fox5atlanta.com
+pages.e.fox5dc.com
 pages.e.fox5ny.com
 pages.e.fox7austin.com
 pages.e.fox9.com
@@ -2536,6 +2554,7 @@ pages.e.vakantiediscounter.nl
 pages.e.virginmedia.com
 pages.e.watchstation.com
 pages.e.wellness.walgreens.com
+pages.e.westernunion.com
 pages.e.worldvision.or.kr
 pages.e.yelp.com
 pages.e.youfoodz.com
@@ -2564,6 +2583,7 @@ pages.em-commercial.keurig.com
 pages.em-sel.sel.sony.com
 pages.em.activision.com
 pages.em.ashleyfurniture.com
+pages.em.battle.net
 pages.em.bmwgroup.ca
 pages.em.cat.com
 pages.em.cengage.com
@@ -2753,7 +2773,6 @@ pages.email.skinbetter.com
 pages.email.skype.com
 pages.email.smh.com.au
 pages.email.southpa.aaa.com
-pages.email.subito.it
 pages.email.sunflowerhealthplan.com
 pages.email.surface.com
 pages.email.suunto.com
@@ -2803,6 +2822,7 @@ pages.emails.key.com
 pages.emails.mancity.com
 pages.emails.nationalgridus.com
 pages.emails.norton.com
+pages.emails.orange-business.com
 pages.emails.priceline.com
 pages.emails.shopee.com
 pages.emails.tgifridays.co.uk
@@ -3149,6 +3169,7 @@ pages.mi.kering.com
 pages.mkt.boavistaservicos.com.br
 pages.mkt.cesco.co.kr
 pages.mkt.imagin.com
+pages.mktg1.paypal.com
 pages.mobeetravel-email.com
 pages.mon-club.totalenergies.fr
 pages.montefiorecmo.com
@@ -3615,6 +3636,7 @@ pub.email.decathlon.be
 pub.email.decathlon.co.uk
 pub.email.decathlon.es
 pub.email.decathlon.it
+pub.email.decathlon.pl
 pub.email.housetrip.com
 pub.email.iconfitness.com
 pub.email.just-eat.com
@@ -3623,7 +3645,6 @@ pub.email.qobuz.com
 pub.email.rockets.com
 pub.email.tcfbank.com
 pub.email.tesla.com
-pub.email.wealthsimple.com
 pub.email.websterbank.com
 pub.email.wheeloffortune.com
 pub.email1.harristeeter.com
@@ -3637,6 +3658,7 @@ pub.es.abbvie.com
 pub.et-sandbox.com
 pub.et.usaa.com
 pub.eu-email.patagonia.com
+pub.exhibitorrelations.spe.sony.com
 pub.foundationone.roche.com
 pub.georgetbagbylodge-email.com
 pub.hotelmanager.trivago.com
@@ -3646,7 +3668,6 @@ pub.info.lazada.com
 pub.inmovement-email.com
 pub.jacwestcc-email.com
 pub.kpfprepaid.usbank.com
-pub.ma.cainz.co.jp
 pub.mail.23andme.com
 pub.mail.fleetfeet.com
 pub.mail.lider.cl
@@ -3672,10 +3693,12 @@ pub.patagoniaprovisions-email.com
 pub.personalloans.discover.com
 pub.personalwealthmanagement.citi.com
 pub.photoemail.walgreens.com
+pub.press.trivago.com
 pub.produv.abbvie.com
 pub.proonc.abbvie.com
 pub.prouvm.abbvie.com
 pub.q3testing.s8.sfmctest.com
+pub.r.onstar.com
 pub.ranurseeducator.com
 pub.rimsmail.tr.mufg.jp
 pub.rosedalecountryclub-email.com
@@ -3790,6 +3813,7 @@ tl4h9st01g8s7q648pmg1285sw60.click-sap.sfmc-marketing.com
 tl4jq4qb61nrb8wkzt-1fc5n5vr1.view-sap.sfmc-marketing.com
 tl5-f-j5k6r79nbdfl-1z659n171.click-sap.sfmc-marketing.com
 tl52rvs46n0v731z6n4xn-8frty0.view-sap.sfmc-marketing.com
+tl567hwm-4gyqyb7b86fknt1-6n0.click-sap.sfmc-marketing.com
 tl57zy3wtjqlj3f9tn7gtxfv7y70.click-sap.sfmc-marketing.com
 tl65v2mp543y19w85jd0wsz-3r7m.click-sap.sfmc-marketing.com
 tl6ml9-7tm9yn330q7g0jgfmx2zy.click-sap.sfmc-marketing.com
@@ -3863,7 +3887,6 @@ tlnyb2wxv4h4kfz4lhnng3jjw3h0.click-sap.sfmc-marketing.com
 tlph6g44b9jk5cq4978l9svcjwdm.click-sap.sfmc-marketing.com
 tlphb7939hn2mb24kd9hrtcghgfy.view-sap.sfmc-marketing.com
 tlpykv-y7dq8xm044mj1h25cjkb1.click-sap.sfmc-marketing.com
-tlq0d5jn0xn63h0zjqyywj1lwwl4.cp-sap.sfmc-content.com
 tlq299qw6td4wmhm20nbc7dqnj60.view-sap.sfmc-marketing.com
 tlq3vd0f4r0w6-pnrlh3tpwkbtx0.click-sap.sfmc-marketing.com
 tlq3ybr67gpds22yk238dbs5vyp1.click-sap.sfmc-marketing.com
@@ -4067,7 +4090,6 @@ view.commu.scbprotect.co.th
 view.communicate.westpac.com.au
 view.communication.connections.be
 view.communication.geocaching.com
-view.communications.bmv.in.gov
 view.communications.cas.org
 view.communications.gitam.edu
 view.communications.intuit.net
@@ -4608,7 +4630,6 @@ view.email.internationalsos.com
 view.email.joefresh.com
 view.email.joracredit.com
 view.email.just-eat.fr
-view.email.kasmo.co
 view.email.kay.com
 view.email.kayoutlet.com
 view.email.kfc.fr
@@ -4823,7 +4844,6 @@ view.emailpacificdermatology.com
 view.emailpontosmultiplus.com.br
 view.emailrue21.com
 view.emails.air-cosmos.com
-view.emails.allegromedical.com
 view.emails.alsco.com
 view.emails.bbc.com
 view.emails.bigw.com.au
@@ -5372,7 +5392,6 @@ view.mails.autoscout24.at
 view.mails.autoscout24.be
 view.mails.autoscout24.es
 view.mails.autoscout24.fr
-view.mails.autoscout24.it
 view.mails.autoscout24.nl
 view.mails.glenans.asso.fr
 view.mailsf.coinpayments.net
@@ -6251,6 +6270,7 @@ wwwstg.click.s11.sfmc-osl.com
 yelp28ouuwj7prjr.cloud.s11.sfmc-osl.com
 zdactzl96snkye37.click.s11.sfmc-osl.com
 zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com
+click.a32.amsidlr.com
 click.a33.asburydlr.com
 click.a34.asburymrk.com
 click.acronis.email
@@ -6267,18 +6287,17 @@ click.campanhas.kinoplex.com.br
 click.camshaft.motordlr.com
 click.carriage.motordlr.com
 click.cbhscorporatehealthfund.com.au
-click.ccg.nintendo.net
 click.cciio-spidr.cms.gov
 click.chainpump.motordlr.com
 click.cloud.fi.edu
 click.cm.lohaco.jp
 click.combustion.motordlr.com
 click.comercial-infoglobo.com.br
-click.communication.ruelala.com
 click.communications.trustpower.co.nz
 click.comunicacao.valor.com.br
 click.comunicaciones.libertyseguros.com
 click.connect.autovin.com
+click.contact.alaska.edu
 click.copeakcommunications.state.co.us
 click.crankshaft.motordlr.com
 click.customer.cp-daihatsu.jp
@@ -6287,6 +6306,7 @@ click.deutscheawm.db.com
 click.deutschebankwm.db.com
 click.diesel.motordlr.com
 click.digital.bankleumi.co.il
+click.discover.availity.com
 click.e-vanguard.com.au
 click.e.aldoshoes.com
 click.e.asu.edu
@@ -6339,6 +6359,7 @@ click.email.lrp.com.tw
 click.email.maxi-cosi.com
 click.email.nau.edu
 click.email.opentable.de
+click.email.oporto.com.au
 click.email.pcplus.ca
 click.email.psychiatry.org
 click.email.pvhba.com
@@ -6375,7 +6396,6 @@ click.grocery.winsightmedia.com
 click.grupoliberty.libertyseguros.es
 click.h33.hendrickdlr.com
 click.hbhospitality-email.com
-click.hg-email.com
 click.homestarfc-connect.com
 click.imoveis.zapimoveis.com.br
 click.induction.motordlr.com
@@ -6384,13 +6404,13 @@ click.info.johnson.ca
 click.info.lavalier.com
 click.info.lazada.com
 click.info.toyota-arena.com
-click.informa.zurich.es
 click.jacwestcc-email.com
 click.lilly-email.com
 click.list.lonelyplanet.com
 click.lottery.ohio.gov
 click.m.mexicoasistencia.com.mx
 click.m.mos.jp
+click.m.yourforeclosureupdate.com
 click.m30.mileonedlr.com
 click.mag.bluenote.co.jp
 click.magneto.motordlr.com
@@ -6437,11 +6457,10 @@ click.mktmail.totvs.com.br
 click.mm.narscosmetics.jp
 click.morning7.theskimm.com
 click.motivafuels.com
-click.motorcab.motordlr.com
-click.motorcar.motordlr.com
 click.motorwagen.motordlr.com
 click.mta.sony.jp
 click.n.bodynature.fr
+click.news-rakuten.fr
 click.news.daraz.com
 click.news.homegate.ch
 click.news.kfzteile24.de
@@ -6461,6 +6480,7 @@ click.newsletter.meadjohnson.asia
 click.newsletter.on-running.com
 click.nl.lumimart.ch
 click.nva.target.com
+click.o-bank.com.tw
 click.oncologymail.novartis.com
 click.personalhealth.philips.com
 click.peru.pluz.pe
@@ -6475,6 +6495,7 @@ click.rotary.motordlr.com
 click.salesforce.thaiunion.com
 click.savoymiami-email.com
 click.sea.foodpanda.com
+click.search.realtystore.com
 click.search.rentbeforeowning.com
 click.send.ohsu.edu
 click.service.wellingtonairport.co.nz

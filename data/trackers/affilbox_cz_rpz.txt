@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -151,7 +151,6 @@ affiliate.easyproject.cz CNAME .
 affiliate.easyredmine.com CNAME .
 affiliate.easysoftware.com CNAME .
 affiliate.ehotel.cz CNAME .
-affiliate.elektronicke-vycvikove-obojky.com CNAME .
 affiliate.elektronickeobojkypropsy.cz CNAME .
 affiliate.elisdesign.cz CNAME .
 affiliate.elitedate.eu CNAME .
@@ -355,7 +354,6 @@ my.top4football.es CNAME .
 my.top4football.fi CNAME .
 my.top4football.hu CNAME .
 my.top4football.ie CNAME .
-my.top4run.cz CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
@@ -979,7 +977,6 @@ www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .
 affiliate.kulturistika.com CNAME .
-affiliate.nejfotopasti.cz CNAME .
 login.affiliatesit.cz CNAME .
 partner.eliteways.cz CNAME .
 partner.janapekna.cz CNAME .

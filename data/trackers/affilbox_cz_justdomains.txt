@@ -140,7 +140,6 @@ affiliate.easyproject.cz
 affiliate.easyredmine.com
 affiliate.easysoftware.com
 affiliate.ehotel.cz
-affiliate.elektronicke-vycvikove-obojky.com
 affiliate.elektronickeobojkypropsy.cz
 affiliate.elisdesign.cz
 affiliate.elitedate.eu
@@ -344,7 +343,6 @@ my.top4football.es
 my.top4football.fi
 my.top4football.hu
 my.top4football.ie
-my.top4run.cz
 my.top4running.at
 my.top4running.be
 my.top4running.bg
@@ -968,7 +966,6 @@ www.partner.hubatacernoska.cz
 www.partneri.zuzanaondrisova.sk
 affil.myface.cz
 affiliate.kulturistika.com
-affiliate.nejfotopasti.cz
 login.affiliatesit.cz
 partner.eliteways.cz
 partner.janapekna.cz

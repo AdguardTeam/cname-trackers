@@ -47,7 +47,6 @@
 ||aiqx.travismathew.com^
 ||aiqx.wheeloffortune.com^
 ||aiqx.www.ghostbusters.com^
-||anx-new.learnwithhomer.com^
 ||anx.learnwithhomer.com^
 ||events-meta-events.outsideonline.com^
 ||meta-events.athletereg.com^
@@ -91,6 +90,7 @@
 ||mr.olympics.com^
 ||mr.pinkbike.com^
 ||anx-new.beginlearning.com^
+||anx-new.learnwithhomer.com^
 ||anx-new.littlepassports.com^
 ||mr-in.beginlearning.com^
 ||mr-in.littlepassports.com^

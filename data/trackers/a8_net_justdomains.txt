@@ -100,7 +100,6 @@ a8.eonet.jp
 a8.eonet.ne.jp
 a8.epauler.co.jp
 a8.epo.info
-a8.erasutamo.onlinestaff.jp
 a8.everest.ac
 a8.evertrust-inc.com
 a8.exam-katekyo.com
@@ -341,7 +340,6 @@ a8.webist-cri.com
 a8.wemotion.co.jp
 a8.wifi-fami.com
 a8.wifi-tokyo-rentalshop.com
-a8.wifi.erasutamo.onlinestaff.jp
 a8.willcloud.jp
 a8.williesenglish.jp
 a8.wimax-broad.jp
@@ -422,7 +420,6 @@ a8clk.birai-cm.com
 a8clk.biz-communication.jp
 a8clk.bizworkers.jp
 a8clk.blastmail.jp
-a8clk.booking.jetfi.jp
 a8clk.bresmile.jp
 a8clk.bungeisha.co.jp
 a8clk.buy-master.com
@@ -1166,7 +1163,6 @@ a8cv.raycop.co.jp
 a8cv.rayel.co.jp
 a8cv.rehome-navi.com
 a8cv.renoveru.jp
-a8cv.repairman.jp
 a8cv.repitte.jp
 a8cv.reservation.matching-photo.com
 a8cv.reserve.victoria.tokyo.jp
@@ -1288,7 +1284,6 @@ a8cv.wake.fun
 a8cv.waterserver.co.jp
 a8cv.web-planners.net
 a8cv.wedding.mynavi.jp
-a8cv.wellcrew.net
 a8cv.whynot.jp
 a8cv.will-agaclinic.com
 a8cv.will-gocon.net
@@ -1301,7 +1296,6 @@ a8cv.world-goods.online
 a8cv.worx.jp
 a8cv.www.bedstyle.jp
 a8cv.www.bigability.co.jp
-a8cv.www.bitlock.jp
 a8cv.www.chara-ani.com
 a8cv.www.club-sincerite.co.jp
 a8cv.www.covearth.co.jp

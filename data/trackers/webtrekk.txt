@@ -107,7 +107,6 @@
 ||img.foodspring.be^
 ||img.foodspring.ch^
 ||img.foodspring.co.uk^
-||img.foodspring.cz^
 ||img.foodspring.de^
 ||img.foodspring.dk^
 ||img.foodspring.es^

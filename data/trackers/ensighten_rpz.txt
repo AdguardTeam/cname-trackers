@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -124,7 +124,6 @@ assets1.vero.com.au CNAME .
 attribution.batesfootwear.com CNAME .
 attribution.grasshoppers.com CNAME .
 attribution.hushpuppies.com CNAME .
-attribution.keds.com CNAME .
 attribution.lebara.com CNAME .
 attribution.lendopolis.com CNAME .
 attribution.sperry.com CNAME .
@@ -296,7 +295,6 @@ p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
-privacy-digital.diip.co.uk CNAME .
 privacy-digital.infracapital.co.uk CNAME .
 privacy-digital.mandg.com CNAME .
 privacy-digital.pru.co.uk CNAME .
@@ -360,6 +358,7 @@ sst.homegoods.com CNAME .
 sst.integration.project4.com CNAME .
 sst.johnlewis.com CNAME .
 sst.marshalls.com CNAME .
+sst.mycard.com.au CNAME .
 sst.nab.com.au CNAME .
 sst.one.audi CNAME .
 sst.subzero-wolf.com CNAME .

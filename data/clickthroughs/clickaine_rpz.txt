@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,7 +26,6 @@ adsv.cki.name CNAME .
 api.hugemedia.cz CNAME .
 api.ngamgaixinh.art CNAME .
 api.rtnews.pro CNAME .
-api.xxxbanjo.com CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .

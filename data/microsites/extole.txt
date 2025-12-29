@@ -42,7 +42,6 @@
 ||refer.fivestars.com^
 ||refer.foodkick.com^
 ||refer.fuzebox.com^
-||refer.gevalia.com^
 ||refer.gotoassist.com^
 ||refer.gotomeeting.com^
 ||refer.gotowebinar.com^
@@ -120,6 +119,7 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
+||em5231.mail.propertyperks.xfinity.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -167,7 +167,6 @@
 ||refer.awscloud.com^
 ||refer.ballarddesigns.com^
 ||refer.bananarepublic.com^
-||refer.bareminerals.uk^
 ||refer.barharbor.bank^
 ||refer.barnandwillow.com^
 ||refer.batesfootwear.com^
@@ -275,7 +274,6 @@
 ||refer.jonesservices.com^
 ||refer.juicepress.com^
 ||refer.jusbyjulie.com^
-||refer.keds.com^
 ||refer.kerastase-usa.com^
 ||refer.knixteen.ca^
 ||refer.knixteen.com^
@@ -284,7 +282,6 @@
 ||refer.laroche-posay.us^
 ||refer.lasenza.ca^
 ||refer.lasenza.com^
-||refer.last-stitch.com^
 ||refer.lastcall.com^
 ||refer.latexforless.com^
 ||refer.lauramercier.com^
@@ -378,7 +375,6 @@
 ||refer.striderite.com^
 ||refer.styleitforwardreward.ca^
 ||refer.styleitforwardreward.com^
-||refer.sugarandjade.com^
 ||refer.sundancevacations.com^
 ||refer.swansonvitamins.com^
 ||refer.take5oilchange.com^
@@ -776,7 +772,6 @@
 ||em4367.raf-studentloans.discover.com^
 ||em4504.mail.raf.xfinity.com^
 ||em5230.rewards.dailypay.com^
-||em5231.mail.propertyperks.xfinity.com^
 ||em5807.turbotax.refer.intuit.com^
 ||em7147.love.suncoastcreditunion.com^
 ||em767.forgetrust.com^

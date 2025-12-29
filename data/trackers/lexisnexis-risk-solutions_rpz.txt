@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -265,6 +265,8 @@ check3.tiaa.org CNAME .
 checkout-df.lululemon.com CNAME .
 checkout.walz.de CNAME .
 cib.currency.lloydsbank.com CNAME .
+cim-idc-cdn.account.bcbsil.com CNAME .
+cim-idc-cdn.account.bcbstx.com CNAME .
 claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
 client.online.sandyspringbank.com CNAME .
@@ -748,6 +750,7 @@ log.creditreport.co.uk CNAME .
 log.open.investorsbank.com CNAME .
 log.scanmypost.co.uk CNAME .
 login-verification.dol.ct.gov CNAME .
+login.eevee.prd-mettle.co.uk CNAME .
 login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
 loyaltyprogram.latamairlines.com CNAME .

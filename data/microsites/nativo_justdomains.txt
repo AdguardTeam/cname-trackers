@@ -42,7 +42,6 @@ sponsor.syracuse.com
 1f499c823a.f941d843f8.com
 21634aa7ae.2ba0f6361c.com
 24f89c62f4.c4dfcacaa9.com
-26e5cdfa54.ebfe416c5c.com
 27064b2d7e.fb8fb174cf.com
 276cf6ad14.3b3e638ac2.com
 278697bd35.ad291d4da0.com
@@ -52,6 +51,7 @@ sponsor.syracuse.com
 2dbc658dbe.8888b3ac06.com
 2e1aaa5ac9.3e1b245c19.com
 2f32381512.3d19359f22.com
+30937441a9.a1b1d711f0.com
 30fc682ad6.b06203e1c9.com
 3296eca09c.f175d7449e.com
 33200a86d4.c4e0aa36db.com
@@ -87,7 +87,6 @@ sponsor.syracuse.com
 43b71a0471.b18244c6c3.com
 447c339ed2.da7a60f765.com
 45524b3eed.7460d80586.com
-45c8960dbf.0c6be7f968.com
 462c268c7c.4cd79ce97b.com
 471a6f102f.bab3105053.com
 480c17630f.631195e0d8.com
@@ -121,12 +120,9 @@ sponsor.syracuse.com
 60d27b4251.8ce997f25e.com
 621ffb6675.1b9e934cbd.com
 624db12064.84bce4ac2c.com
-62508028aa.b6b2d31f7e.com
 62e6e53c95.5fe1b3e7d5.com
-63d8c6c172.c7b4215ccd.com
 65a1f4997b.9fe538916e.com
 662795d63c.45f467a9d4.com
-66a2d4c1ad.193ab8f364.com
 66b978fced.59767b8571.com
 66f064c408.8455251186.com
 67f70ab742.0551acf6ed.com
@@ -158,6 +154,7 @@ sponsor.syracuse.com
 834f30b090.9832d75ae3.com
 8591b47c8b.aada35c15f.com
 8655437872.1f1d9a652e.com
+86c6dd5578.0fcf105177.com
 8922d8bced.2bd77addac.com
 8b77d90e45.1b60887cd1.com
 8c40fb9c8e.e61f59ebf7.com
@@ -216,7 +213,6 @@ ba594324dd.0ca5b8dbfd.com
 baba8a23e6.59a1c2d82c.com
 bb07cba429.99a3cb9eab.com
 bb43ce031a.ef42245b5e.com
-bc17f0a6b0.491ad1417d.com
 bd4afc201d.a9a878a4a2.com
 bd5a04cfd5.2e4d034bab.com
 be8d232c28.7a37d4e31f.com
@@ -294,7 +290,6 @@ f82e465fc3.538d99dc8d.com
 f847dacf54.c3ee303367.com
 f8938ba05c.2ec5aba168.com
 f8e5667895.88102fb3ae.com
-fa949fbb94.2daa3302bc.com
 fa9dc0e7bb.f587cad87f.com
 fbbe4ece23.92540760ee.com
 fe5071dde0.7c5734761f.com

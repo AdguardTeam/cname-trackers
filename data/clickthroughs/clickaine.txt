@@ -15,7 +15,6 @@
 ||api.hugemedia.cz^
 ||api.ngamgaixinh.art^
 ||api.rtnews.pro^
-||api.xxxbanjo.com^
 ||app.rtnews.pro^
 ||asg.javhoho.com^
 ||asg.pienude.com^

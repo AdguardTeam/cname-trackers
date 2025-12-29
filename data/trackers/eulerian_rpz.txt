@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,7 +17,6 @@ $TTL 300
 1ctc.sfr.fr CNAME .
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
-3esm.consubebe.es CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -109,7 +108,6 @@ ea.camping-and-co.com CNAME .
 ea.carrefour.com CNAME .
 ea.carrefour.fr CNAME .
 ea.castorama.fr CNAME .
-ea.catimini-boutique.com CNAME .
 ea.catimini.com CNAME .
 ea.ciblo.net CNAME .
 ea.coffrefortplus.com CNAME .
@@ -211,7 +209,6 @@ eulerian.eveiletjeux.com CNAME .
 eulerian.homebox-suisse.ch CNAME .
 eulerian.look-voyages.fr CNAME .
 eulerian.maison-facile.com CNAME .
-eulerian.malakoffmederic.com CNAME .
 eulerian.mathon.fr CNAME .
 eulerian.monoprix.fr CNAME .
 eulerian.oxybul.com CNAME .
@@ -250,7 +247,6 @@ fsz1.francoisesaget.be CNAME .
 fsz1.francoisesaget.com CNAME .
 fzb5.laboratoire-giphar.fr CNAME .
 fze8.carrefour-banque.fr CNAME .
-fzu4.bysidecar.com CNAME .
 g1be.swisslife-direct.fr CNAME .
 gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .

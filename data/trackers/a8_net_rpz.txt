@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -111,7 +111,6 @@ a8.eonet.jp CNAME .
 a8.eonet.ne.jp CNAME .
 a8.epauler.co.jp CNAME .
 a8.epo.info CNAME .
-a8.erasutamo.onlinestaff.jp CNAME .
 a8.everest.ac CNAME .
 a8.evertrust-inc.com CNAME .
 a8.exam-katekyo.com CNAME .
@@ -352,7 +351,6 @@ a8.webist-cri.com CNAME .
 a8.wemotion.co.jp CNAME .
 a8.wifi-fami.com CNAME .
 a8.wifi-tokyo-rentalshop.com CNAME .
-a8.wifi.erasutamo.onlinestaff.jp CNAME .
 a8.willcloud.jp CNAME .
 a8.williesenglish.jp CNAME .
 a8.wimax-broad.jp CNAME .
@@ -433,7 +431,6 @@ a8clk.birai-cm.com CNAME .
 a8clk.biz-communication.jp CNAME .
 a8clk.bizworkers.jp CNAME .
 a8clk.blastmail.jp CNAME .
-a8clk.booking.jetfi.jp CNAME .
 a8clk.bresmile.jp CNAME .
 a8clk.bungeisha.co.jp CNAME .
 a8clk.buy-master.com CNAME .
@@ -1177,7 +1174,6 @@ a8cv.raycop.co.jp CNAME .
 a8cv.rayel.co.jp CNAME .
 a8cv.rehome-navi.com CNAME .
 a8cv.renoveru.jp CNAME .
-a8cv.repairman.jp CNAME .
 a8cv.repitte.jp CNAME .
 a8cv.reservation.matching-photo.com CNAME .
 a8cv.reserve.victoria.tokyo.jp CNAME .
@@ -1299,7 +1295,6 @@ a8cv.wake.fun CNAME .
 a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
-a8cv.wellcrew.net CNAME .
 a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
@@ -1312,7 +1307,6 @@ a8cv.world-goods.online CNAME .
 a8cv.worx.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
 a8cv.www.bigability.co.jp CNAME .
-a8cv.www.bitlock.jp CNAME .
 a8cv.www.chara-ani.com CNAME .
 a8cv.www.club-sincerite.co.jp CNAME .
 a8cv.www.covearth.co.jp CNAME .

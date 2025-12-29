@@ -119,6 +119,7 @@ l.harpersbazaar.fr
 l.hautanjou.fr
 l.heidi.news
 l.herault-tribune.com
+l.herstory-media.com
 l.humanite.fr
 l.ici.fr
 l.ideat.fr
@@ -250,6 +251,7 @@ l.supersoluce.com
 l.telestar.fr
 l.tendanceouest.com
 l.terrafemina.com
+l.testsdeproduits.fr
 l.tf1.fr
 l.tf1info.fr
 l.theafricareport.com

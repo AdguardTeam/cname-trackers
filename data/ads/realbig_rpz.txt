@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,7 +27,6 @@ downnora.me CNAME .
 ecomedtorg.ru CNAME .
 elpushnot.com CNAME .
 fft.delovoemesto.ru CNAME .
-gaz-help.ru CNAME .
 he.zymorico.ru CNAME .
 m3.repka.online CNAME .
 media.olmiweb.com CNAME .
@@ -67,8 +66,6 @@ workerhome.click CNAME .
 www.5738.ru CNAME .
 www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .
-www.fasder12.ru CNAME .
-www.fasder12.store CNAME .
 www.mojwprb.ru CNAME .
 www.orbitnotify.com CNAME .
 www.pc-download.ru CNAME .

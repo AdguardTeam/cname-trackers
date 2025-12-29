@@ -254,6 +254,8 @@
 ||checkout-df.lululemon.com^
 ||checkout.walz.de^
 ||cib.currency.lloydsbank.com^
+||cim-idc-cdn.account.bcbsil.com^
+||cim-idc-cdn.account.bcbstx.com^
 ||claimant.vec.virginia.gov^
 ||clear.wallapop.com^
 ||client.online.sandyspringbank.com^
@@ -737,6 +739,7 @@
 ||log.open.investorsbank.com^
 ||log.scanmypost.co.uk^
 ||login-verification.dol.ct.gov^
+||login.eevee.prd-mettle.co.uk^
 ||login.eki-net.com^
 ||loyaltyprogram.latam.com^
 ||loyaltyprogram.latamairlines.com^

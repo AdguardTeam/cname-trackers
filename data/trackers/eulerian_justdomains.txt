@@ -6,7 +6,6 @@
 1ctc.sfr.fr
 2efj.economies.cheque-dejeuner.com
 2efj.up.coop
-3esm.consubebe.es
 66jo.societegenerale.fr
 6pal.consobaby.com
 6swu.cpa-france.org
@@ -98,7 +97,6 @@ ea.camping-and-co.com
 ea.carrefour.com
 ea.carrefour.fr
 ea.castorama.fr
-ea.catimini-boutique.com
 ea.catimini.com
 ea.ciblo.net
 ea.coffrefortplus.com
@@ -200,7 +198,6 @@ eulerian.eveiletjeux.com
 eulerian.homebox-suisse.ch
 eulerian.look-voyages.fr
 eulerian.maison-facile.com
-eulerian.malakoffmederic.com
 eulerian.mathon.fr
 eulerian.monoprix.fr
 eulerian.oxybul.com
@@ -239,7 +236,6 @@ fsz1.francoisesaget.be
 fsz1.francoisesaget.com
 fzb5.laboratoire-giphar.fr
 fze8.carrefour-banque.fr
-fzu4.bysidecar.com
 g1be.swisslife-direct.fr
 gdm1.toner.fr
 gf7t.cheques-cadeaux-culturels.fr

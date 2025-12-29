@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -72,7 +72,6 @@ cdn.arcstudiopro.com CNAME .
 channelwatcher.panda.tech CNAME .
 cheese.guac.live CNAME .
 churro.noteapps.info CNAME .
-collect.realignedtechnologies.com CNAME .
 counter.cropvid.com CNAME .
 counter.proxycrawl.com CNAME .
 counter.subtitlebee.com CNAME .
@@ -179,7 +178,6 @@ plausible.ejs.dev CNAME .
 plausible.eurostocks.nl CNAME .
 plausible.exploreandcreate.com CNAME .
 plausible.external.sine.foundation CNAME .
-plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
 plausible.flowcv.io CNAME .
 plausible.giveatip.io CNAME .
@@ -528,7 +526,6 @@ stats.jjude.com CNAME .
 stats.joaopedro.dev CNAME .
 stats.jsbible.com CNAME .
 stats.jun-etan.com CNAME .
-stats.justinwilliams.ca CNAME .
 stats.kaladyaudiology.com CNAME .
 stats.keirwhitaker.com CNAME .
 stats.kendix.org CNAME .

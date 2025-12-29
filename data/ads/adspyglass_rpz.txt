@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -256,6 +256,7 @@ adsxtits.pro CNAME .
 adxhand1.name CNAME .
 adzilla1.name CNAME .
 aeym37jp.xyz CNAME .
+affiliate.journeyjp.live CNAME .
 ajjac.club CNAME .
 akarakas.com CNAME .
 akm3w.pleasedonotblockme.com CNAME .
@@ -269,7 +270,6 @@ analytics.bloblohub.com CNAME .
 anmq6by5.xyz CNAME .
 antiadblock.info CNAME .
 anun.comicsarmy.com CNAME .
-aopapp.com CNAME .
 apgate.hubhubhub.name CNAME .
 api.adultsclips.com CNAME .
 api.bluerunningshadow.com CNAME .
@@ -329,7 +329,6 @@ as.hobby.porn CNAME .
 as.lencdn.com CNAME .
 as.lenkino.adult CNAME .
 as.pomcdn.com CNAME .
-as1.maturexxx.vip CNAME .
 as3.hotasiangirl.xyz CNAME .
 as5.tubesexcity.com CNAME .
 asa.adulttubez.net CNAME .
@@ -556,7 +555,6 @@ fdf.awefweegfxwergexw.icu CNAME .
 fgn.preders.site CNAME .
 file.iporngay.com CNAME .
 floatjav09212026.shop CNAME .
-foorcdn.com CNAME .
 forumjav09212026.shop CNAME .
 fuckers.nieuws.xxx CNAME .
 fuwn782kk.alphaporno.com CNAME .
@@ -564,10 +562,10 @@ fx9.freepornoboss.com CNAME .
 g.bloblohub.com CNAME .
 ga.tubepork.com CNAME .
 ga.xxxhd.icu CNAME .
+ga.xxxmilf.vip CNAME .
 gallery.stailaus.fi CNAME .
 garage08062025.shop CNAME .
 gay.everydayporn.co CNAME .
-gay.trkpop.click CNAME .
 gdg4yih5.xyz CNAME .
 gff660fg.xyz CNAME .
 ghtry.amateurswild.com CNAME .
@@ -670,8 +668,6 @@ k2o2ls46.xyz CNAME .
 key.sexymovie.name CNAME .
 ki.solujav.my CNAME .
 kimmy.faduz.xyz CNAME .
-kinktsy.com CNAME .
-kkat.hgesqwfqw.online CNAME .
 kliqz.com CNAME .
 kneeljav09212026.shop CNAME .
 knockjav09212026.shop CNAME .
@@ -721,6 +717,7 @@ maximumdecimus.clicknplay.to CNAME .
 maxx1.a.pleasedonotblockme.com CNAME .
 maxx1.pleasedonotblockme.com CNAME .
 maxx2.a.pleasedonotblockme.com CNAME .
+media.animenippon.cc CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 mengozia.xyz CNAME .
@@ -801,7 +798,6 @@ okoloss.com CNAME .
 one.iugbhsu.com CNAME .
 ontherightwithme.com CNAME .
 ooawsxkdrm.club CNAME .
-opopop.oplaksik.online CNAME .
 opus.sexyxxx.biz CNAME .
 oquaysx.club CNAME .
 ox8.topsexhdvideos.com CNAME .
@@ -928,6 +924,7 @@ s1sentablya.teenfuckhd.com CNAME .
 s2.everydaygayporn.com CNAME .
 s4.everydayporn.co CNAME .
 s4.everydayporn.com CNAME .
+s7227wuo.xyz CNAME .
 sadi.woulded.site CNAME .
 sakcerl.ehrydnmdoe.com CNAME .
 sandbox-insight.bloblohub.com CNAME .
@@ -976,6 +973,7 @@ srv.biigo.xyz CNAME .
 ssp.asiaflix.net CNAME .
 st.asiaxbit.com CNAME .
 stacy.hubhubhub.name CNAME .
+staklo.funlinks.xyz CNAME .
 static.accountkits.xyz CNAME .
 static.cloud-suites.xyz CNAME .
 static.content-sync.xyz CNAME .
@@ -983,6 +981,7 @@ static.fbcdn.xyz CNAME .
 static.javxxx.me CNAME .
 staticz.hotpornfile.org CNAME .
 storage.lulu-row1.com CNAME .
+store.nipponmall.online CNAME .
 stream.youxxjav.xyz CNAME .
 streamhg05032026.shop CNAME .
 stuff.wikiporno.org CNAME .
@@ -1029,7 +1028,9 @@ tuaos.xyz CNAME .
 two.iugbhsu.com CNAME .
 u1zga.letsporn.com CNAME .
 u3o1uncq.xyz CNAME .
+u655vlo5.xyz CNAME .
 uacabilqlgpw.cdnvideo3.com CNAME .
+uh5p93ia.xyz CNAME .
 ui.videojav.com CNAME .
 ujlxkxgfl3.creativelandings.xyz CNAME .
 uk.boffinsoft.com CNAME .
@@ -1038,6 +1039,7 @@ unicorn.bloblohub.com CNAME .
 unifieddataconnect.click CNAME .
 unpin.hothomefuck.com CNAME .
 unpydqpidsfb.cdnvideo3.com CNAME .
+up.nextfunup.com CNAME .
 upperoh.hubhubhub.name CNAME .
 us-west-1.cdn1cloudflare.xyz CNAME .
 v.xvds.tv CNAME .
@@ -1079,6 +1081,7 @@ wicory.com CNAME .
 winter05032026.shop CNAME .
 wn4wztsx.xyz CNAME .
 wn6x136h.xyz CNAME .
+wortige.xyz CNAME .
 wv.vyoning.cfd CNAME .
 ww.sphinxtube.com CNAME .
 www.akasztofa.com CNAME .
@@ -1173,10 +1176,8 @@ z0000g.yvmads.com CNAME .
 zakld.com CNAME .
 zmrzlin.amateurswild.com CNAME .
 zp0o8pii.xyz CNAME .
-zrakos.com CNAME .
 ztg7hqds.xyz CNAME .
 ztvlz.fapnado.xxx CNAME .
-zudvl.com CNAME .
 zv.7vid.net CNAME .
 hotadultcontent.com CNAME .
 hotadultvids.com CNAME .

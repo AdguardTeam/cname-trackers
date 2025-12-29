@@ -63,7 +63,6 @@
     * gwyers.goatcounter.com
     * hadejkde.goatcounter.com
     * haseebmajid.goatcounter.com
-    * hausarzt-zentrum-herne.goatcounter.com
     * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
     * ideasnap.goatcounter.com
@@ -236,7 +235,6 @@
 | stats.gwyer.net | gwyers.goatcounter.com |
 | stats.hadejkde.cz | hadejkde.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
-| gc.hausarzt-zentrum-herne.de | hausarzt-zentrum-herne.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | usage.ideasnap.co | ideasnap.goatcounter.com |

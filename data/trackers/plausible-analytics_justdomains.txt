@@ -61,7 +61,6 @@ cdn.arcstudiopro.com
 channelwatcher.panda.tech
 cheese.guac.live
 churro.noteapps.info
-collect.realignedtechnologies.com
 counter.cropvid.com
 counter.proxycrawl.com
 counter.subtitlebee.com
@@ -168,7 +167,6 @@ plausible.ejs.dev
 plausible.eurostocks.nl
 plausible.exploreandcreate.com
 plausible.external.sine.foundation
-plausible.f1laps.com
 plausible.factly.in
 plausible.flowcv.io
 plausible.giveatip.io
@@ -517,7 +515,6 @@ stats.jjude.com
 stats.joaopedro.dev
 stats.jsbible.com
 stats.jun-etan.com
-stats.justinwilliams.ca
 stats.kaladyaudiology.com
 stats.keirwhitaker.com
 stats.kendix.org

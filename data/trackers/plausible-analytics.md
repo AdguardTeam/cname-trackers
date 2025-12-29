@@ -73,7 +73,6 @@
 | channelwatcher.panda.tech | custom.plausible.io |
 | cheese.guac.live | custom.plausible.io |
 | churro.noteapps.info | custom.plausible.io |
-| collect.realignedtechnologies.com | custom.plausible.io |
 | counter.cropvid.com | custom.plausible.io |
 | counter.proxycrawl.com | custom.plausible.io |
 | counter.subtitlebee.com | custom.plausible.io |
@@ -180,7 +179,6 @@
 | plausible.eurostocks.nl | custom.plausible.io |
 | plausible.exploreandcreate.com | custom.plausible.io |
 | plausible.external.sine.foundation | custom.plausible.io |
-| plausible.f1laps.com | custom.plausible.io |
 | plausible.factly.in | custom.plausible.io |
 | plausible.flowcv.io | custom.plausible.io |
 | plausible.giveatip.io | custom.plausible.io |
@@ -529,7 +527,6 @@
 | stats.joaopedro.dev | custom.plausible.io |
 | stats.jsbible.com | custom.plausible.io |
 | stats.jun-etan.com | custom.plausible.io |
-| stats.justinwilliams.ca | custom.plausible.io |
 | stats.kaladyaudiology.com | custom.plausible.io |
 | stats.keirwhitaker.com | custom.plausible.io |
 | stats.kendix.org | custom.plausible.io |

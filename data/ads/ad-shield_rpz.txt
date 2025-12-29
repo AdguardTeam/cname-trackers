@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1141,7 +1141,6 @@ $TTL 300
 9.www.yippeewhenever.com CNAME .
 9.www.yumhusk.com CNAME .
 www.00404850.xyz CNAME .
-www.02085170.xyz CNAME .
 www.02952346.xyz CNAME .
 www.06969451.xyz CNAME .
 www.07327127.xyz CNAME .
@@ -1176,7 +1175,6 @@ www.5k71-k-t51u8q91otp3.xyz CNAME .
 www.5wo4spwppk7n0wvrn.xyz CNAME .
 www.60576949.xyz CNAME .
 www.62241240.xyz CNAME .
-www.62842068.xyz CNAME .
 www.64786087.xyz CNAME .
 www.661kkm40uu6srww1mvso.xyz CNAME .
 www.69799884.xyz CNAME .

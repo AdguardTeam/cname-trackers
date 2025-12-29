@@ -1138,7 +1138,6 @@
 | 9.www.yippeewhenever.com | ad-shield.cc |
 | 9.www.yumhusk.com | ad-shield.cc |
 | www.00404850.xyz | ad-shield.cc |
-| www.02085170.xyz | ad-shield.cc |
 | www.02952346.xyz | ad-shield.cc |
 | www.06969451.xyz | ad-shield.cc |
 | www.07327127.xyz | ad-shield.cc |
@@ -1173,7 +1172,6 @@
 | www.5wo4spwppk7n0wvrn.xyz | ad-shield.cc |
 | www.60576949.xyz | ad-shield.cc |
 | www.62241240.xyz | ad-shield.cc |
-| www.62842068.xyz | ad-shield.cc |
 | www.64786087.xyz | ad-shield.cc |
 | www.661kkm40uu6srww1mvso.xyz | ad-shield.cc |
 | www.69799884.xyz | ad-shield.cc |

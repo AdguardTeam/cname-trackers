@@ -3,9 +3,7 @@
 ## Disguised trackers list
 
 * dataunlocker.com
-    * pmbkvlupohcz.ddns.dataunlocker.com
     * smartproxy.dataunlocker.com
-    * y4e04gql5o1b.ddns.dataunlocker.com
 * monopoly-drain.ga
 * friendly-community.tk
 
@@ -13,7 +11,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| dsoxjxin5jji.controlconceptsusa.com | pmbkvlupohcz.ddns.dataunlocker.com |
 | 11b6n4ty2x3.taxliencode.com | smartproxy.dataunlocker.com |
 | 13js1lbtbj3.sparkloop.app | smartproxy.dataunlocker.com |
 | 16i6nuuc2ej.koelewijn.nl | smartproxy.dataunlocker.com |
@@ -45,7 +42,6 @@
 | 48z7wyjdsywu.www.revistaferramental.com.br | smartproxy.dataunlocker.com |
 | 4jaehnfqizyx.controlconceptsusa.com | smartproxy.dataunlocker.com |
 | 5mc92su06suu.www.abhijith.page | smartproxy.dataunlocker.com |
-| 5oovx2t8rl04.thebarrecollective.co | smartproxy.dataunlocker.com |
 | 5zb0xuoeglfx.cit-dev.stylumia.com | smartproxy.dataunlocker.com |
 | 6fzt17pkr6a1de5.kvest.ee | smartproxy.dataunlocker.com |
 | 6kflczrtc901.app.wefar.dev | smartproxy.dataunlocker.com |
@@ -137,9 +133,7 @@
 | wiar9wff0ma9.ping.t3.gg | smartproxy.dataunlocker.com |
 | xlvvy4msxr.coolinastore.com | smartproxy.dataunlocker.com |
 | y4e04gql5o1b.www.nookgaming.com | smartproxy.dataunlocker.com |
-| y4e04gql5o1b.www.nookgaming.com | smartproxy.dataunlocker.com |
 | yrjpgjv35y9x.salud-masculina.info | smartproxy.dataunlocker.com |
 | ysrrzgku6tar.us.themoneytizer.com | smartproxy.dataunlocker.com |
 | z3617cz9ep.fitness.tappbrothers.com | smartproxy.dataunlocker.com |
 | zkmhhr1fr79z.dictionary.basabali.org | smartproxy.dataunlocker.com |
-| y4e04gql5o1b.www.nookgaming.com | y4e04gql5o1b.ddns.dataunlocker.com |

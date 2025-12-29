@@ -15,7 +15,6 @@
 ||ab.betterbutter.in^
 ||abc.blogtheglowup.com^
 ||abc.brianmorganinstitute.com^
-||aca.circlepolicy.com^
 ||acaa.findmyprices.com^
 ||adatrack.trytrack.dev^
 ||admin.healthinsurancesolutions.org^
@@ -30,17 +29,14 @@
 ||ak.maneasiestways.com^
 ||ak.youbetterhealthy.com^
 ||alpha.bestloan.ai^
-||alpwclk.alphatonicworks.site^
 ||amavik.site^
 ||ambassador.godthefatherapparel.com^
-||analytics.prolongpenetration.men^
 ||api.acquirewithus.com^
 ||apply.allusadeals.com^
 ||apply.catalystfitnessflorida.com^
 ||articles.autodiscountfinders.com^
 ||articles.livewithsavings.com^
 ||articles.seniorsavingscollective.com^
-||atoso.alphatonicoffers.online^
 ||att.click.herbalsnlife.com^
 ||att.ladmvie.com^
 ||att.rt.prosperity-trends.com^
@@ -154,7 +150,6 @@
 ||gate.adgtrk.com^
 ||gateway.adgtrk.com^
 ||get-supreme-greens-capsules.vitasupreme.com^
-||get.topadultdeals.com^
 ||get.trackclicker.com^
 ||glxrik.site^
 ||glxrina.site^
@@ -268,7 +263,6 @@
 ||i.thinkclearly.uk^
 ||icarusrt.earthyselect.com^
 ||icarusrt.moonwlkr.com^
-||ikawo.ikariajuiceworks.site^
 ||imap.adgtrk.com^
 ||imgtrx.trk.agency^
 ||ims.brodeos.com^
@@ -298,7 +292,6 @@
 ||lddebten0.assuranceaxis.com^
 ||learn.pocketstashed.com^
 ||link.bestwinners.xyz^
-||link.kimovl.com^
 ||link.wealthoftrade.com^
 ||littlelilistore.rdtrke.com^
 ||ln.strongdudes.com^
@@ -321,22 +314,17 @@
 ||lr.renewyouvitality.com^
 ||lr.sciaticnervehealth.com^
 ||lr.vigorouslyman.com^
-||lu9xve2c97l898gjjxv4.ballercap.com^
 ||lu9xve2c97l898gjjxv4.bigglobaltravel.com^
 ||lu9xve2c97l898gjjxv4.brain-sharper.com^
 ||lu9xve2c97l898gjjxv4.bridesblush.com^
-||lu9xve2c97l898gjjxv4.carterfive.com^
 ||lu9xve2c97l898gjjxv4.drivepedia.com^
-||lu9xve2c97l898gjjxv4.fabcrunch.com^
 ||lu9xve2c97l898gjjxv4.housecultures.com^
 ||lu9xve2c97l898gjjxv4.instantlymodern.com^
 ||lu9xve2c97l898gjjxv4.noteabley.com^
 ||lu9xve2c97l898gjjxv4.notfries.com^
 ||lu9xve2c97l898gjjxv4.pensandpatron.com^
 ||lu9xve2c97l898gjjxv4.pinkpossible.com^
-||lu9xve2c97l898gjjxv4.simplyurbans.com^
 ||lu9xve2c97l898gjjxv4.sneakertoast.com^
-||lu9xve2c97l898gjjxv4.spellrock.com^
 ||lu9xve2c97l898gjjxv4.sportinal.com^
 ||lu9xve2c97l898gjjxv4.thefashionball.com^
 ||mail.rtdyotrck.com^
@@ -397,7 +385,6 @@
 ||r.comparisonadviser.com^
 ||r1.start.finalefaminewarrior.com^
 ||r1.start.yourfinancialdollars.com^
-||rboss.redboostonlineshop.site^
 ||rbptt.com^
 ||rd.americansavingsapps.com^
 ||rd.autoservicesdomain.com^
@@ -470,6 +457,7 @@
 ||rt.nathantop.shop^
 ||rt.sarahssilks.com^
 ||rt.saunatica.com^
+||rt.savemaxauto.com^
 ||rt.suterahome.com^
 ||rt.suterastone.com^
 ||rt.suteratowels.com^
@@ -503,6 +491,7 @@
 ||rtk.trk.coverageforyounow.com^
 ||rtk.trk.coveragereviewer.com^
 ||rtk.trk.cuttingcostsdaily.com^
+||rtk.trk.discovermybenefits.com^
 ||rtk.trk.easycoveragenow.com^
 ||rtk.trk.easyexpensecoverage.com^
 ||rtk.trk.easyfinalplan.com^
@@ -1030,7 +1019,6 @@
 ||www.eyecarebeautytips.com^
 ||www.glxrina.site^
 ||www.glxta.site^
-||www.gtadtrk.com^
 ||www.linkaroozy.com^
 ||www.moneyclutchtrack.com^
 ||www.rbptt.com^
@@ -1062,7 +1050,6 @@
 ||bok.sklepmedic.pl^
 ||ce.adsdomaintracking.com^
 ||cf.wolfclicktrack.com^
-||click.track700.com^
 ||cnn.healthtrailsource.com^
 ||cwtrk.cushiow.com^
 ||dashboard.beardcareclub.com^
@@ -1104,6 +1091,7 @@
 ||insight.cumaskincare.com^
 ||insight.fluff.co^
 ||insight.gelexobel.de^
+||insight.ghallasgoth.com^
 ||insight.hoola.com^
 ||insight.iguanasmoke.com^
 ||insight.only-grams.de^
@@ -1112,6 +1100,7 @@
 ||insight.vinnea.no^
 ||insight.vinnea.se^
 ||insights.cadense.com^
+||jaytk.ecosproutify.com^
 ||km.adsdomaintracking.com^
 ||krt.trickovy.cz^
 ||krt.trickovy.sk^
@@ -1148,7 +1137,6 @@
 ||red.swissfx.net^
 ||red.veloureuk.com^
 ||redtk.fitbyyou.com^
-||redtrack-2.revguru.io^
 ||redtrack.distacart.com^
 ||redtrack.ecodrive.in.ua^
 ||redtrack.godlike.host^
@@ -1165,7 +1153,6 @@
 ||rt.sultanofstyle.de^
 ||rt.vbet.nl^
 ||rt.wagnific.com^
-||rt2.afiliadosniper.com^
 ||rtattr.skyup.aero^
 ||rtk.dailymentips.com^
 ||rtk.larsonjewelers.com^
@@ -1204,6 +1191,7 @@
 ||t.t.luselle.com^
 ||t.t.novadoll.com^
 ||the7daygenius.com^
+||tk.vitacarenutrition.com^
 ||tr.love-repair-coaching.de^
 ||track.adaptoras.gr^
 ||track.animebee.com^
@@ -1218,6 +1206,7 @@
 ||track.catspros.com^
 ||track.cbdmuay.com^
 ||track.centerforovercoming.com^
+||track.clasesdeeconomia.com^
 ||track.classysculptures.com^
 ||track.cosplayware.com^
 ||track.cufflinkdeals.com^
@@ -1232,6 +1221,7 @@
 ||track.fradall.com^
 ||track.generationgenius.com^
 ||track.gesundheits-welt.net^
+||track.guateexpressgt.com^
 ||track.healthroutine.de^
 ||track.impt.io^
 ||track.imreadyforsummer.com^
@@ -1272,7 +1262,6 @@
 ||track.thebirdlovers.com^
 ||track.togetherprice.com^
 ||track.toxicasino.com^
-||track.trackleads.com.au^
 ||track.traktor.fleszbielizna.com^
 ||track.truesource.com.br^
 ||track.tusztusz.pl^
@@ -1284,7 +1273,6 @@
 ||track.weflatables.com^
 ||track.westore24.com^
 ||track1.embrogift.com^
-||track1.mystichot.com^
 ||tracking.alertadivida.online^
 ||tracking.markets4you.online^
 ||tracking.positivesparks.com^
@@ -1300,6 +1288,7 @@
 ||trk.anotar.app^
 ||trk.banskbrasil.com^
 ||trk.benu.bg^
+||trk.curalise.com^
 ||trk.ecowaterspa.com^
 ||trk.galileofx.com^
 ||trk.garageflooringusa.com^
@@ -1325,15 +1314,14 @@
 ||unlock.ulkeshop.com^
 ||weem.weemco.com^
 ||www.minhalojacsts.com.br^
-||www.redtrackfan.club^
 ||wyw.dailylockstips.com^
 ||wyw.gesundheitsfrderung.com^
 ||aleksa.mtxbreak.click^
 ||and.roasrocknroll.click^
 ||click.track.joyfulretirementsecrets.com^
-||click.track.nearthecashcorner.com^
 ||fiko.cpm-toohigh.click^
 ||fiko2.skin-squad.click^
+||go.benefitresourceassist.com^
 ||go.instantusabenefits.com^
 ||go.madeeasypolicies.com^
 ||go.taptrk.com^
@@ -1344,12 +1332,12 @@
 ||rt.policyfamilyquote.com^
 ||tr.track-myleads.com^
 ||track.24monetize.com^
+||track.nativead.be^
 ||track.topsolutions.club^
-||track.trkbtga.com^
 ||trk.saveclever.org^
 ||click.mmotoplay.com^
-||go.benefitresourceassist.com^
+||click.track.nearthecashcorner.com^
 ||track.glukobestpro.net^
-||track.nativead.be^
 ||track.routes.name^
+||track.trkbtga.com^
 ||trk.acareliefact.org^

@@ -113,7 +113,6 @@
 ||attribution.batesfootwear.com^
 ||attribution.grasshoppers.com^
 ||attribution.hushpuppies.com^
-||attribution.keds.com^
 ||attribution.lebara.com^
 ||attribution.lendopolis.com^
 ||attribution.sperry.com^
@@ -285,7 +284,6 @@
 ||p.pulse.lexus.com^
 ||p.pulse.toyota.com^
 ||pfa.levexis.com^
-||privacy-digital.diip.co.uk^
 ||privacy-digital.infracapital.co.uk^
 ||privacy-digital.mandg.com^
 ||privacy-digital.pru.co.uk^
@@ -349,6 +347,7 @@
 ||sst.integration.project4.com^
 ||sst.johnlewis.com^
 ||sst.marshalls.com^
+||sst.mycard.com.au^
 ||sst.nab.com.au^
 ||sst.one.audi^
 ||sst.subzero-wolf.com^

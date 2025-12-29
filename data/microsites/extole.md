@@ -35,7 +35,6 @@
     * fivestars.extole.com
     * freshdirect.extole.com
     * fuzebox-ssl.extole.com
-    * gevalia.extole.com
     * ggu-ssl.extole.com
     * gotoassist.extole.com
     * gotomeeting.extole.com
@@ -150,7 +149,6 @@
     * aveda.extole.io
     * ballarddesigns.extole.io
     * banana-republic.extole.io
-    * baremineralsuk.extole.io
     * barharbor.extole.io
     * barnandwillow.extole.io
     * barnes-and-noble-college.extole.io
@@ -344,7 +342,6 @@
     * juicepress.extole.io
     * jusbyjulie.extole.io
     * juvlabs.extole.io
-    * keds.extole.io
     * kerastase-usa.extole.io
     * knixteen.extole.io
     * kotn.extole.io
@@ -354,7 +351,6 @@
     * lab-series.extole.io
     * lane-bryant.extole.io
     * lasenza.extole.io
-    * last-stitch.extole.io
     * lastcall.extole.io
     * laura-mercier.extole.io
     * layla-sleep.extole.io
@@ -588,6 +584,7 @@
     * wombat.extole.io
     * wrangler.extole.io
     * wsecu.extole.io
+    * xfinity.em.extole.io
     * xfinity.extole.io
     * yotoplay.extole.io
     * zenbusiness.extole.io
@@ -663,7 +660,6 @@
 | refer.backcountry.com | backcountry.extole.com |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
 | refer.bananarepublic.com | banana-republic.extole.io |
-| refer.bareminerals.uk | baremineralsuk.extole.io |
 | refer.barenecessities.com | barenecessities.extole.com |
 | refer.barharbor.bank | barharbor.extole.io |
 | refer.barnandwillow.com | barnandwillow.extole.io |
@@ -925,7 +921,6 @@
 | refer.garnethill.com | garnethill.extole.io |
 | gift.getfreed.ai | getfreed.extole.io |
 | share.getsetup.io | getsetup.extole.io |
-| refer.gevalia.com | gevalia.extole.com |
 | share.ggu.edu | ggu-ssl.extole.com |
 | refer.martinsfoods.com | giant-martins.extole.io |
 | refer.giantfood.com | giantfood.extole.io |
@@ -1004,7 +999,6 @@
 | refer.julep.com | julep.extole.com |
 | refer.jusbyjulie.com | jusbyjulie.extole.io |
 | share.juvlabs.com | juvlabs.extole.io |
-| refer.keds.com | keds.extole.io |
 | refer.kerastase-usa.com | kerastase-usa.extole.io |
 | friends.keurig.com | keurig-ssl.extole.com |
 | friends.keurig.ca | keurigca.extole.com |
@@ -1020,7 +1014,6 @@
 | refer.lanebryant.com | lane-bryant.extole.io |
 | refer.lasenza.ca | lasenza.extole.io |
 | refer.lasenza.com | lasenza.extole.io |
-| refer.last-stitch.com | last-stitch.extole.io |
 | refer.lastcall.com | lastcall.extole.io |
 | refer.lauramercier.com | laura-mercier.extole.io |
 | refer.laylasleep.com | layla-sleep.extole.io |
@@ -1277,7 +1270,6 @@
 | share.texastrustcu.org | texastrustcu.extole.io |
 | refer.childrensplace.com | the-childrens-place.extole.io |
 | refer.gymboree.com | the-childrens-place.extole.io |
-| refer.sugarandjade.com | the-childrens-place.extole.io |
 | refer.thecompanystore.com | the-company-store.extole.io |
 | refer.theinside.com | the-inside.extole.io |
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
@@ -1380,6 +1372,7 @@
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
 | share.wsecu.org | wsecu.extole.io |
+| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |

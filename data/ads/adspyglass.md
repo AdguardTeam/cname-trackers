@@ -257,6 +257,7 @@
 | adxhand1.name | 0i0i0i0.com |
 | adzilla1.name | 0i0i0i0.com |
 | aeym37jp.xyz | 0i0i0i0.com |
+| affiliate.journeyjp.live | 0i0i0i0.com |
 | ajjac.club | 0i0i0i0.com |
 | akarakas.com | 0i0i0i0.com |
 | akm3w.pleasedonotblockme.com | 0i0i0i0.com |
@@ -270,7 +271,6 @@
 | anmq6by5.xyz | 0i0i0i0.com |
 | antiadblock.info | 0i0i0i0.com |
 | anun.comicsarmy.com | 0i0i0i0.com |
-| aopapp.com | 0i0i0i0.com |
 | apgate.hubhubhub.name | 0i0i0i0.com |
 | api.adultsclips.com | 0i0i0i0.com |
 | api.bluerunningshadow.com | 0i0i0i0.com |
@@ -330,7 +330,6 @@
 | as.lencdn.com | 0i0i0i0.com |
 | as.lenkino.adult | 0i0i0i0.com |
 | as.pomcdn.com | 0i0i0i0.com |
-| as1.maturexxx.vip | 0i0i0i0.com |
 | as3.hotasiangirl.xyz | 0i0i0i0.com |
 | as5.tubesexcity.com | 0i0i0i0.com |
 | asa.adulttubez.net | 0i0i0i0.com |
@@ -557,7 +556,6 @@
 | fgn.preders.site | 0i0i0i0.com |
 | file.iporngay.com | 0i0i0i0.com |
 | floatjav09212026.shop | 0i0i0i0.com |
-| foorcdn.com | 0i0i0i0.com |
 | forumjav09212026.shop | 0i0i0i0.com |
 | fuckers.nieuws.xxx | 0i0i0i0.com |
 | fuwn782kk.alphaporno.com | 0i0i0i0.com |
@@ -565,10 +563,10 @@
 | g.bloblohub.com | 0i0i0i0.com |
 | ga.tubepork.com | 0i0i0i0.com |
 | ga.xxxhd.icu | 0i0i0i0.com |
+| ga.xxxmilf.vip | 0i0i0i0.com |
 | gallery.stailaus.fi | 0i0i0i0.com |
 | garage08062025.shop | 0i0i0i0.com |
 | gay.everydayporn.co | 0i0i0i0.com |
-| gay.trkpop.click | 0i0i0i0.com |
 | gdg4yih5.xyz | 0i0i0i0.com |
 | gff660fg.xyz | 0i0i0i0.com |
 | ghtry.amateurswild.com | 0i0i0i0.com |
@@ -669,8 +667,6 @@
 | key.sexymovie.name | 0i0i0i0.com |
 | ki.solujav.my | 0i0i0i0.com |
 | kimmy.faduz.xyz | 0i0i0i0.com |
-| kinktsy.com | 0i0i0i0.com |
-| kkat.hgesqwfqw.online | 0i0i0i0.com |
 | kliqz.com | 0i0i0i0.com |
 | kneeljav09212026.shop | 0i0i0i0.com |
 | knockjav09212026.shop | 0i0i0i0.com |
@@ -719,6 +715,7 @@
 | maxx1.a.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx1.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx2.a.pleasedonotblockme.com | 0i0i0i0.com |
+| media.animenippon.cc | 0i0i0i0.com |
 | mediacdn.x1hub.com | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
 | mengozia.xyz | 0i0i0i0.com |
@@ -799,7 +796,6 @@
 | one.iugbhsu.com | 0i0i0i0.com |
 | ontherightwithme.com | 0i0i0i0.com |
 | ooawsxkdrm.club | 0i0i0i0.com |
-| opopop.oplaksik.online | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | oquaysx.club | 0i0i0i0.com |
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
@@ -926,6 +922,7 @@
 | s2.everydaygayporn.com | 0i0i0i0.com |
 | s4.everydayporn.co | 0i0i0i0.com |
 | s4.everydayporn.com | 0i0i0i0.com |
+| s7227wuo.xyz | 0i0i0i0.com |
 | sadi.woulded.site | 0i0i0i0.com |
 | sakcerl.ehrydnmdoe.com | 0i0i0i0.com |
 | sandbox-insight.bloblohub.com | 0i0i0i0.com |
@@ -974,6 +971,7 @@
 | ssp.asiaflix.net | 0i0i0i0.com |
 | st.asiaxbit.com | 0i0i0i0.com |
 | stacy.hubhubhub.name | 0i0i0i0.com |
+| staklo.funlinks.xyz | 0i0i0i0.com |
 | static.accountkits.xyz | 0i0i0i0.com |
 | static.cloud-suites.xyz | 0i0i0i0.com |
 | static.content-sync.xyz | 0i0i0i0.com |
@@ -981,6 +979,7 @@
 | static.javxxx.me | 0i0i0i0.com |
 | staticz.hotpornfile.org | 0i0i0i0.com |
 | storage.lulu-row1.com | 0i0i0i0.com |
+| store.nipponmall.online | 0i0i0i0.com |
 | stream.youxxjav.xyz | 0i0i0i0.com |
 | streamhg05032026.shop | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
@@ -1027,7 +1026,9 @@
 | two.iugbhsu.com | 0i0i0i0.com |
 | u1zga.letsporn.com | 0i0i0i0.com |
 | u3o1uncq.xyz | 0i0i0i0.com |
+| u655vlo5.xyz | 0i0i0i0.com |
 | uacabilqlgpw.cdnvideo3.com | 0i0i0i0.com |
+| uh5p93ia.xyz | 0i0i0i0.com |
 | ui.videojav.com | 0i0i0i0.com |
 | ujlxkxgfl3.creativelandings.xyz | 0i0i0i0.com |
 | uk.boffinsoft.com | 0i0i0i0.com |
@@ -1036,6 +1037,7 @@
 | unifieddataconnect.click | 0i0i0i0.com |
 | unpin.hothomefuck.com | 0i0i0i0.com |
 | unpydqpidsfb.cdnvideo3.com | 0i0i0i0.com |
+| up.nextfunup.com | 0i0i0i0.com |
 | upperoh.hubhubhub.name | 0i0i0i0.com |
 | us-west-1.cdn1cloudflare.xyz | 0i0i0i0.com |
 | v.xvds.tv | 0i0i0i0.com |
@@ -1077,6 +1079,7 @@
 | winter05032026.shop | 0i0i0i0.com |
 | wn4wztsx.xyz | 0i0i0i0.com |
 | wn6x136h.xyz | 0i0i0i0.com |
+| wortige.xyz | 0i0i0i0.com |
 | wv.vyoning.cfd | 0i0i0i0.com |
 | ww.sphinxtube.com | 0i0i0i0.com |
 | www.akasztofa.com | 0i0i0i0.com |
@@ -1170,10 +1173,8 @@
 | zakld.com | 0i0i0i0.com |
 | zmrzlin.amateurswild.com | 0i0i0i0.com |
 | zp0o8pii.xyz | 0i0i0i0.com |
-| zrakos.com | 0i0i0i0.com |
 | ztg7hqds.xyz | 0i0i0i0.com |
 | ztvlz.fapnado.xxx | 0i0i0i0.com |
-| zudvl.com | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | adsxtits.com | u50.0i0i0i0.com |
 | adsxtits.pro | u50.0i0i0i0.com |

@@ -11,11 +11,9 @@
     * ec-prod.piwik.pro
     * eib.piwik.pro
     * ferreroanalytics.piwik.pro
-    * fitchconnect.piwik.pro
     * ind.piwik.pro
     * jetu.piwik.pro
     * masterworks.piwik.pro
-    * multipharma.piwik.pro
     * opanalytics.piwik.pro
     * pp-koop-p-euw.piwik.pro
     * pp-public-p-aea.piwik.pro
@@ -23,7 +21,6 @@
     * pp-public-p-gwc.piwik.pro
     * pp-public-p-use.piwik.pro
     * public-p-swe2.piwik.pro
-    * rechtspraak.piwik.pro
     * rijksoverheid.piwik.pro
     * rvo.piwik.pro
     * sozialversicherung.piwik.pro
@@ -35,6 +32,7 @@
     * uwv.piwik.pro
     * wavelz.piwik.pro
     * witglobal.piwik.pro
+    * zwilling.piwik.pro
 
 ## Cloaking domains
 
@@ -48,12 +46,10 @@
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
 | piwik.eib.org | eib.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
-| purple.fitchconnect.com | fitchconnect.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
 | wa.mybookie.ag | jetu.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
-| mphdd.multipharma.be | multipharma.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | tagmanager.becop.nl | pp-koop-p-euw.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
@@ -79,11 +75,9 @@
 | piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
 | polpharmaanalytics.pl | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
-| purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
-| statistiek.rechtspraak.nl | pp-public-p-euw.piwik.pro |
 | statistiek.rechtspraak.nl | pp-public-p-euw.piwik.pro |
 | statistiek.rvo.nl | pp-public-p-euw.piwik.pro |
 | statistieken.ns-epublisher.com | pp-public-p-euw.piwik.pro |
@@ -114,18 +108,14 @@
 | gmn.gloo.com | pp-public-p-use.piwik.pro |
 | site-analytics.iop.ohio.gov | pp-public-p-use.piwik.pro |
 | mphdd.multipharma.be | public-p-swe2.piwik.pro |
-| mphdd.multipharma.be | public-p-swe2.piwik.pro |
 | stats.manz.at | public-p-swe2.piwik.pro |
-| statistiek.rechtspraak.nl | rechtspraak.piwik.pro |
 | statistiek.rijksoverheid.nl | rijksoverheid.piwik.pro |
 | statistiek.rvo.nl | rvo.piwik.pro |
 | analysis.sozialversicherung.at | sozialversicherung.piwik.pro |
 | analytics.dx.ohio.gov | stateofohio.piwik.pro |
-| site-analytics.iop.ohio.gov | stateofohio.piwik.pro |
 | logfiles.storck.com | storck.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
-| t-pan.triodos.com | triodos.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
@@ -135,3 +125,4 @@
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |
 | analytics.witglobal.net | witglobal.piwik.pro |
+| p.zwilling.com | zwilling.piwik.pro |

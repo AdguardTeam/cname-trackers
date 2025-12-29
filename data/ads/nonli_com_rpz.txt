@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -130,6 +130,7 @@ l.harpersbazaar.fr CNAME .
 l.hautanjou.fr CNAME .
 l.heidi.news CNAME .
 l.herault-tribune.com CNAME .
+l.herstory-media.com CNAME .
 l.humanite.fr CNAME .
 l.ici.fr CNAME .
 l.ideat.fr CNAME .
@@ -261,6 +262,7 @@ l.supersoluce.com CNAME .
 l.telestar.fr CNAME .
 l.tendanceouest.com CNAME .
 l.terrafemina.com CNAME .
+l.testsdeproduits.fr CNAME .
 l.tf1.fr CNAME .
 l.tf1info.fr CNAME .
 l.theafricareport.com CNAME .

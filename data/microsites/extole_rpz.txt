@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -53,7 +53,6 @@ refer.dnj.com CNAME .
 refer.fivestars.com CNAME .
 refer.foodkick.com CNAME .
 refer.fuzebox.com CNAME .
-refer.gevalia.com CNAME .
 refer.gotoassist.com CNAME .
 refer.gotomeeting.com CNAME .
 refer.gotowebinar.com CNAME .
@@ -131,6 +130,7 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em5231.mail.propertyperks.xfinity.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -178,7 +178,6 @@ refer.aveda.com CNAME .
 refer.awscloud.com CNAME .
 refer.ballarddesigns.com CNAME .
 refer.bananarepublic.com CNAME .
-refer.bareminerals.uk CNAME .
 refer.barharbor.bank CNAME .
 refer.barnandwillow.com CNAME .
 refer.batesfootwear.com CNAME .
@@ -286,7 +285,6 @@ refer.joinform.com CNAME .
 refer.jonesservices.com CNAME .
 refer.juicepress.com CNAME .
 refer.jusbyjulie.com CNAME .
-refer.keds.com CNAME .
 refer.kerastase-usa.com CNAME .
 refer.knixteen.ca CNAME .
 refer.knixteen.com CNAME .
@@ -295,7 +293,6 @@ refer.lanebryant.com CNAME .
 refer.laroche-posay.us CNAME .
 refer.lasenza.ca CNAME .
 refer.lasenza.com CNAME .
-refer.last-stitch.com CNAME .
 refer.lastcall.com CNAME .
 refer.latexforless.com CNAME .
 refer.lauramercier.com CNAME .
@@ -389,7 +386,6 @@ refer.stopandshop.com CNAME .
 refer.striderite.com CNAME .
 refer.styleitforwardreward.ca CNAME .
 refer.styleitforwardreward.com CNAME .
-refer.sugarandjade.com CNAME .
 refer.sundancevacations.com CNAME .
 refer.swansonvitamins.com CNAME .
 refer.take5oilchange.com CNAME .
@@ -787,7 +783,6 @@ em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
 em5230.rewards.dailypay.com CNAME .
-em5231.mail.propertyperks.xfinity.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .

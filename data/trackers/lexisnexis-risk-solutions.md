@@ -53,6 +53,7 @@
     * h-2qfdtlmr.online-metrix.net
     * h-2ql3c6py.online-metrix.net
     * h-2uk5c4md.online-metrix.net
+    * h-2xb5ezda.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
     * h-2yf5pvfu.online-metrix.net
     * h-2zc9zvoy.online-metrix.net
@@ -93,6 +94,7 @@
     * h-4qqysdfz.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ruz3ugq2.online-metrix.net
+    * h-4s287pmn.online-metrix.net
     * h-4saxfla9.online-metrix.net
     * h-4tsqmrdx.online-metrix.net
     * h-4ulk5mz4.online-metrix.net
@@ -977,6 +979,8 @@
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | hunt.elcorteingles.es | h-2uk5c4md.online-metrix.net |
+| cim-idc-cdn.account.bcbsil.com | h-2xb5ezda.online-metrix.net |
+| cim-idc-cdn.account.bcbstx.com | h-2xb5ezda.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | validacion.rayo.com.co | h-2yf5pvfu.online-metrix.net |
 | regstat.pokerstars.com | h-2zc9zvoy.online-metrix.net |
@@ -1034,6 +1038,7 @@
 | content.heidipay.com | h-4qqysdfz.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | dep.gambit29.gameassists.co.uk | h-4ruz3ugq2.online-metrix.net |
+| login.eevee.prd-mettle.co.uk | h-4s287pmn.online-metrix.net |
 | cnt.faktoria.pl | h-4saxfla9.online-metrix.net |
 | tmx.fincombank.com | h-4tsqmrdx.online-metrix.net |
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |

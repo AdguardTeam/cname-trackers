@@ -147,6 +147,7 @@
 | l.harpersbazaar.fr | tls.non.li |
 | l.hautanjou.fr | tls.non.li |
 | l.herault-tribune.com | tls.non.li |
+| l.herstory-media.com | tls.non.li |
 | l.humanite.fr | tls.non.li |
 | l.ici.fr | tls.non.li |
 | l.ideat.fr | tls.non.li |
@@ -273,6 +274,7 @@
 | l.telestar.fr | tls.non.li |
 | l.tendanceouest.com | tls.non.li |
 | l.terrafemina.com | tls.non.li |
+| l.testsdeproduits.fr | tls.non.li |
 | l.tf1.fr | tls.non.li |
 | l.tf1info.fr | tls.non.li |
 | l.theafricareport.com | tls.non.li |

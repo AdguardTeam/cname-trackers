@@ -131,11 +131,13 @@
 ||meter.rhinobag.de^
 ||metrics.bauwerk.de^
 ||metrics.cannamedical.com^
+||metrics.catchandkeep.de^
 ||metrics.einfachiso.de^
 ||metrics.energetix.tv^
 ||metrics.go-jugendreisen.de^
 ||metrics.greatvita.de^
 ||metrics.leimer.de^
+||metrics.mammutmarsch.de^
 ||metrics.meineversicherungswelt.de^
 ||metrics.moderade.com^
 ||metrics.muehle-glashuette.de^
@@ -161,6 +163,7 @@
 ||show.gruppedrei.com^
 ||sltracking.sonderlote.de^
 ||src.vector.com^
+||sst.cannapoli.de^
 ||sst.grasrezept-vergleich.de^
 ||stat.beetfreunde.de^
 ||statistics.bergland.de^
@@ -260,6 +263,7 @@
 ||webcontr.distrebution.com^
 ||webcontr.domondo.fr^
 ||webcontr.domondo.it^
+||webcontr.domondo.pl^
 ||webcontr.epig-media.de^
 ||webcontr.fsj-digital-bw.de^
 ||webcontr.genius.tv^
@@ -310,7 +314,6 @@
 ||webstats.arbeitskleidung-expert.de^
 ||webstats.hutdirekt.de^
 ||webstats.kawentsmann.de^
-||websy.skillyofficial.com^
 ||webtr.codearchitekten.de^
 ||webtr.dachser.com^
 ||webtrack.lotto-thueringen.de^

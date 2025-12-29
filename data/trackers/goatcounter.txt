@@ -38,7 +38,6 @@
 ||dot-com-stats.sladewatkins.net^
 ||gc.acut3.net^
 ||gc.grokhard.com^
-||gc.hausarzt-zentrum-herne.de^
 ||gc.miluchacontraeltabaco.com^
 ||gc.mindenugyved.hu^
 ||gc.noscirep.com^

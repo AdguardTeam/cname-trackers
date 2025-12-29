@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -118,7 +118,6 @@ img.foodspring.at CNAME .
 img.foodspring.be CNAME .
 img.foodspring.ch CNAME .
 img.foodspring.co.uk CNAME .
-img.foodspring.cz CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
 img.foodspring.es CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766390410187        ; Serial
+           1766995208959        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,11 +142,13 @@ met.hanser-literaturverlage.de CNAME .
 meter.rhinobag.de CNAME .
 metrics.bauwerk.de CNAME .
 metrics.cannamedical.com CNAME .
+metrics.catchandkeep.de CNAME .
 metrics.einfachiso.de CNAME .
 metrics.energetix.tv CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.greatvita.de CNAME .
 metrics.leimer.de CNAME .
+metrics.mammutmarsch.de CNAME .
 metrics.meineversicherungswelt.de CNAME .
 metrics.moderade.com CNAME .
 metrics.muehle-glashuette.de CNAME .
@@ -172,6 +174,7 @@ salzburg.semsea.at CNAME .
 show.gruppedrei.com CNAME .
 sltracking.sonderlote.de CNAME .
 src.vector.com CNAME .
+sst.cannapoli.de CNAME .
 sst.grasrezept-vergleich.de CNAME .
 stat.beetfreunde.de CNAME .
 statistics.bergland.de CNAME .
@@ -271,6 +274,7 @@ webcontr.crazy-heels.com CNAME .
 webcontr.distrebution.com CNAME .
 webcontr.domondo.fr CNAME .
 webcontr.domondo.it CNAME .
+webcontr.domondo.pl CNAME .
 webcontr.epig-media.de CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.genius.tv CNAME .
@@ -321,7 +325,6 @@ webctrl.dalimed.de CNAME .
 webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
-websy.skillyofficial.com CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
 webtrack.lotto-thueringen.de CNAME .

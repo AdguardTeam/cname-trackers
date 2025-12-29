@@ -8,7 +8,6 @@
 
 * c2309.affilbox.cz
 * c4924.affilbox.cz
-* affiliate.elektronicke-vycvikove-obojky.com
 * affiliatesit.cz
 * c7158.affilbox.cz
 * c771.affilbox.cz
@@ -18,7 +17,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| affiliate.nejfotopasti.cz | affiliate.elektronicke-vycvikove-obojky.com |
 | login.affiliatesit.cz | affiliatesit.cz |
 | affil.myface.cz | c2309.affilbox.cz |
 | partner.topforteam.cz | c4670.affilbox.cz |
@@ -165,7 +163,6 @@
 | affiliate.easyredmine.com | cz.affilbox.cz |
 | affiliate.easysoftware.com | cz.affilbox.cz |
 | affiliate.ehotel.cz | cz.affilbox.cz |
-| affiliate.elektronicke-vycvikove-obojky.com | cz.affilbox.cz |
 | affiliate.elektronickeobojkypropsy.cz | cz.affilbox.cz |
 | affiliate.elisdesign.cz | cz.affilbox.cz |
 | affiliate.elitedate.eu | cz.affilbox.cz |
@@ -369,7 +366,6 @@
 | my.top4football.fi | cz.affilbox.cz |
 | my.top4football.hu | cz.affilbox.cz |
 | my.top4football.ie | cz.affilbox.cz |
-| my.top4run.cz | cz.affilbox.cz |
 | my.top4running.at | cz.affilbox.cz |
 | my.top4running.be | cz.affilbox.cz |
 | my.top4running.bg | cz.affilbox.cz |
