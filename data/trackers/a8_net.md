@@ -135,7 +135,6 @@
 | a8.geo-online.co.jp | trck.a8.net |
 | a8.global-mobility-service.com | trck.a8.net |
 | a8.gme.co.jp | trck.a8.net |
-| a8.gofood.jp | trck.a8.net |
 | a8.golfland.co.jp | trck.a8.net |
 | a8.gtm.co.jp | trck.a8.net |
 | a8.guardian-mp.aerial-p.com | trck.a8.net |
@@ -1442,7 +1441,6 @@
 | affa8.hikkoshi-master.com | trck.a8.net |
 | afficv.lettuce.co.jp | trck.a8.net |
 | affiliate.couleur-labo.com | trck.a8.net |
-| affiliate.dietician-family.jp | trck.a8.net |
 | affiliate.htb-energy.co.jp | trck.a8.net |
 | affiliate.k-uno.co.jp | trck.a8.net |
 | affiliate.kgcshop.jp | trck.a8.net |

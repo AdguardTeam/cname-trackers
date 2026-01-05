@@ -960,8 +960,10 @@ rmetrix.superbid.net
 rmscheck.sbifxt.co.jp
 rqt-cdna.paymentncb.cofidis.fr
 rqt-cl-cdna.ecommerce.cofidis.it
+rs.pay.com
 rsx.afterpay.com
 rt.wisecartapp.com
+rtp.mypos.com
 rttm.uniondigitalbank.co
 rttm.uniondigitalbank.io
 rvw.connection.com

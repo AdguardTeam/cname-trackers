@@ -6,18 +6,16 @@
     * cdn-elogia-net.affex.org
     * daraz-com.affex.org
     * jakuli-com.affex.org
+    * jumia-ug.affex.org
     * lafamo-com.affex.org
-    * mydays-de.affex.org
     * tr-akipam-com.affex.org
     * tr-brillen-de.affex.org
     * tr-daraz-com-bd.affex.org
     * tr-daraz-lk.affex.org
     * tr-daraz-pk.affex.org
-    * tr-elogia-net.affex.org
     * tr-gafas-es.affex.org
     * tr-idealo-partner-com.affex.org
     * tr-jakuli-com.affex.org
-    * tr-jumia-ci.affex.org
     * tr-lafamo-com.affex.org
     * tr-logitravel-com.affex.org
     * tr-netsalesmedia-pl.affex.org
@@ -3688,6 +3686,7 @@
 | fexample.allseason.net.daraz.com | daraz-com.affex.org |
 | filea.ns.egovision.net.daraz.com | daraz-com.affex.org |
 | files.mgmt.partner.net.daraz.com | daraz-com.affex.org |
+| freya.net.daraz.com | daraz-com.affex.org |
 | frontpage-mobilecl.net.daraz.com | daraz-com.affex.org |
 | frontprdage-prdartner.net.daraz.com | daraz-com.affex.org |
 | frraganfrfrropobjects.net.daraz.com | daraz-com.affex.org |
@@ -3704,6 +3703,7 @@
 | health.net.daraz.com | daraz-com.affex.org |
 | hercules.docs.net.daraz.com | daraz-com.affex.org |
 | hermes.emailvision.net.daraz.com | daraz-com.affex.org |
+| hinet.net.daraz.com | daraz-com.affex.org |
 | ht-123pago.docs.net.daraz.com | daraz-com.affex.org |
 | hw-bejav.assets.net.daraz.com | daraz-com.affex.org |
 | img1-ebs.10-marketing.net.daraz.com | daraz-com.affex.org |
@@ -4104,6 +4104,7 @@
 | stage-ugportal1buketstaging.net.daraz.com | daraz-com.affex.org |
 | stage-ugportalstaging-ort.net.daraz.com | daraz-com.affex.org |
 | stage-volksschulbildung-staging.naruspot.net.daraz.com | daraz-com.affex.org |
+| stage.123seks.net.daraz.com | daraz-com.affex.org |
 | stage.123seksabgsex.net.daraz.com | daraz-com.affex.org |
 | stage.abgsex.livedooryugioh-anime-staging.net.daraz.com | daraz-com.affex.org |
 | stage.abgsexattikos.net.daraz.com | daraz-com.affex.org |
@@ -4355,6 +4356,7 @@
 | zenpad.ysr.net.daraz.com | daraz-com.affex.org |
 | zerommd.stageidm.net.daraz.com | daraz-com.affex.org |
 | zestaging-stagekatmoviehd.net.daraz.com | daraz-com.affex.org |
+| zetc6lsssuoo5pr8.emailvision.authenticate.net.daraz.com | daraz-com.affex.org |
 | zeynepharikalardiyarinda-stage-stage-bollyshare.net.daraz.com | daraz-com.affex.org |
 | zeynepharikalardiyarinda.staging-srv.net.daraz.com | daraz-com.affex.org |
 | zigzagstr.administrators-k1push.net.daraz.com | daraz-com.affex.org |
@@ -4415,18 +4417,16 @@
 | zzpmagento3e62zt91c04r.magentodministrmagentotor.net.daraz.com | daraz-com.affex.org |
 | zzprg3e62zt91c04r.rgdministrrgtor.net.daraz.com | daraz-com.affex.org |
 | r.jakuli.com | jakuli-com.affex.org |
+| net.jumia.ug | jumia-ug.affex.org |
 | r.lafamo.com | lafamo-com.affex.org |
-| 2fevernote-6-2.net.mydays.de | mydays-de.affex.org |
 | atlas.r.akipam.com | tr-akipam-com.affex.org |
 | marketing.net.brillen.de | tr-brillen-de.affex.org |
 | marketing.net.daraz.com.bd | tr-daraz-com-bd.affex.org |
 | marketing.net.daraz.lk | tr-daraz-lk.affex.org |
 | marketing.net.daraz.pk | tr-daraz-pk.affex.org |
-| marketing.net.elogia.net | tr-elogia-net.affex.org |
 | marketing.net.gafas.es | tr-gafas-es.affex.org |
 | marketing.net.idealo-partner.com | tr-idealo-partner-com.affex.org |
 | janus.r.jakuli.com | tr-jakuli-com.affex.org |
-| marketing.net.jumia.ci | tr-jumia-ci.affex.org |
 | luna.r.lafamo.com | tr-lafamo-com.affex.org |
 | ssl.affiliate.logitravel.com | tr-logitravel-com.affex.org |
 | marketing.tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
@@ -4436,18 +4436,21 @@
 | 252fdropbox-2.net.mydays.de | traefik-production.secure-traffic.com |
 | 2dhmpisq.net.mydays.de | traefik-production.secure-traffic.com |
 | 2dollarearrings.net.mydays.de | traefik-production.secure-traffic.com |
+| 2fevernote-6-2.net.mydays.de | traefik-production.secure-traffic.com |
 | 2marketing-docs.net.home24.de | traefik-production.secure-traffic.com |
 | dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com | traefik-production.secure-traffic.com |
 | et-3-0-2.gw1.mia19.alter.net.iberostar.com | traefik-production.secure-traffic.com |
 | g.whatsapp.net.iberostar.com | traefik-production.secure-traffic.com |
 | janus.r.jakuli.com | traefik-production.secure-traffic.com |
 | luna.r.lafamo.com | traefik-production.secure-traffic.com |
+| marketing.net.elogia.net | traefik-production.secure-traffic.com |
+| marketing.net.jumia.ci | traefik-production.secure-traffic.com |
+| neso.r.niwepa.com | traefik-production.secure-traffic.com |
 | net.brillen.de | traefik-production.secure-traffic.com |
 | net.home24.at | traefik-production.secure-traffic.com |
 | net.home24.be | traefik-production.secure-traffic.com |
 | net.home24.it | traefik-production.secure-traffic.com |
 | net.jumia.ma | traefik-production.secure-traffic.com |
-| net.jumia.ug | traefik-production.secure-traffic.com |
 | net35.net.jumia.cm | traefik-production.secure-traffic.com |
 | nsm.tr.netsalesmedia.pl | traefik-production.secure-traffic.com |
 | pluto.r.powuta.com | traefik-production.secure-traffic.com |

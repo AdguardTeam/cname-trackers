@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -110,7 +110,6 @@ numbers.monthlyphotos.com CNAME .
 nums.upscale.app CNAME .
 p.classroombookings.com CNAME .
 p.ejs.dev CNAME .
-p.fairspot.host CNAME .
 p.iforge.app CNAME .
 p.logbox.io CNAME .
 p.marqueplace.com CNAME .
@@ -161,7 +160,6 @@ plausible.app.kdojang.com CNAME .
 plausible.app.tlschedule.com CNAME .
 plausible.as207960.net CNAME .
 plausible.bablab.com CNAME .
-plausible.bacanalia.net CNAME .
 plausible.beanti.me CNAME .
 plausible.benscarblog.com CNAME .
 plausible.bostad.shop CNAME .
@@ -447,7 +445,6 @@ stats.faluninfo.mk CNAME .
 stats.faluninfo.rs CNAME .
 stats.faluninfo.si CNAME .
 stats.fastbackward.app CNAME .
-stats.felipesere.com CNAME .
 stats.filejuggler.com CNAME .
 stats.finalrabiesgeneration.org CNAME .
 stats.findvax.us CNAME .

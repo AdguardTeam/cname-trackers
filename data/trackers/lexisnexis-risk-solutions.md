@@ -37,6 +37,7 @@
     * h-22vdduyk.online-metrix.net
     * h-248kh53w.online-metrix.net
     * h-27l2wggf.online-metrix.net
+    * h-29860obi.online-metrix.net
     * h-2cctnc2e.online-metrix.net
     * h-2dehands.online-metrix.net
     * h-2ememain.online-metrix.net
@@ -566,6 +567,7 @@
     * h-k8vif92e-menards.online-metrix.net
     * h-k8vif92e-mo.online-metrix.net
     * h-k8vif92e-pa.online-metrix.net
+    * h-k8vif92e-pay.online-metrix.net
     * h-k8vif92e-pr.online-metrix.net
     * h-k8vif92e-si.online-metrix.net
     * h-k8vif92e-stc.online-metrix.net
@@ -951,6 +953,7 @@
 | ghisa.subito.it | h-22vdduyk.online-metrix.net |
 | aegis.miio.mx | h-248kh53w.online-metrix.net |
 | rmscheck.sbifxt.co.jp | h-27l2wggf.online-metrix.net |
+| rtp.mypos.com | h-29860obi.online-metrix.net |
 | protection.bt.com | h-2cctnc2e.online-metrix.net |
 | protection.ee.co.uk | h-2cctnc2e.online-metrix.net |
 | faas.2dehands.be | h-2dehands.online-metrix.net |
@@ -1857,6 +1860,7 @@
 | c.menards.com | h-k8vif92e-menards.online-metrix.net |
 | mobile.du.ae | h-k8vif92e-mo.online-metrix.net |
 | verify.philippineairlines.com | h-k8vif92e-pa.online-metrix.net |
+| rs.pay.com | h-k8vif92e-pay.online-metrix.net |
 | cdncy.providentmetals.com | h-k8vif92e-pr.online-metrix.net |
 | cdncy.silver.com | h-k8vif92e-si.online-metrix.net |
 | advertize.stcbank.com.sa | h-k8vif92e-stc.online-metrix.net |

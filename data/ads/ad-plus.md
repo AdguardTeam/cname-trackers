@@ -27,6 +27,7 @@
 | adserving.menatech.net | serving.stat-rock.com |
 | cdn33.protagcdn.com | serving.stat-rock.com |
 | player.urdupoint.com | serving.stat-rock.com |
+| serving.datawrkz.com | serving.stat-rock.com |
 | serving.grapemedia.cz | serving.stat-rock.com |
 | serving.greeter.lat | serving.stat-rock.com |
 | serving.laimroll.ru | serving.stat-rock.com |

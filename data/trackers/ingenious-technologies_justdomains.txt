@@ -2577,7 +2577,6 @@
 210.dcsportal.0-01-lib-oa-1-cf23region.net.daraz.com
 24c6y06yxmetccjz.partner-pay.net.daraz.com
 2a6jk46shfyp0lxg.administrators.net.daraz.com
-2fevernote-6-2.net.mydays.de
 2mhesk294m2fhou5.docs.net.daraz.com
 2nq7m57at7uxoi9e.administrators.net.daraz.com
 2psagenglegacy.0-030.net.daraz.com
@@ -3657,6 +3656,7 @@ febwww.rgsdocker.net.daraz.com
 fexample.allseason.net.daraz.com
 filea.ns.egovision.net.daraz.com
 files.mgmt.partner.net.daraz.com
+freya.net.daraz.com
 frontpage-mobilecl.net.daraz.com
 frontprdage-prdartner.net.daraz.com
 frraganfrfrropobjects.net.daraz.com
@@ -3673,6 +3673,7 @@ h-adashxocsnewnautilus12345proxy3.net.daraz.com
 health.net.daraz.com
 hercules.docs.net.daraz.com
 hermes.emailvision.net.daraz.com
+hinet.net.daraz.com
 ht-123pago.docs.net.daraz.com
 hw-bejav.assets.net.daraz.com
 img1-ebs.10-marketing.net.daraz.com
@@ -3773,10 +3774,8 @@ marketing.net.brillen.de
 marketing.net.daraz.com.bd
 marketing.net.daraz.lk
 marketing.net.daraz.pk
-marketing.net.elogia.net
 marketing.net.gafas.es
 marketing.net.idealo-partner.com
-marketing.net.jumia.ci
 marketing.net.occhiali24.it
 marketing.spyder-api-prod.net.daraz.com
 marketing.tngwstage.net.daraz.com
@@ -3864,6 +3863,7 @@ nca3.mobilecl.bellcaouth.net.daraz.com
 neon.manage.lib-oa-1.net.daraz.com
 neso.r.niwepa.com
 net.daraz.com
+net.jumia.ug
 netfrontcar31.net.daraz.com
 news.bejav.net.daraz.com
 ngateway.emailvigatewayion.ugateway.net.daraz.com
@@ -4090,6 +4090,7 @@ stage-ugportal-zerommd.net.daraz.com
 stage-ugportal1buketstaging.net.daraz.com
 stage-ugportalstaging-ort.net.daraz.com
 stage-volksschulbildung-staging.naruspot.net.daraz.com
+stage.123seks.net.daraz.com
 stage.123seksabgsex.net.daraz.com
 stage.abgsex.livedooryugioh-anime-staging.net.daraz.com
 stage.abgsexattikos.net.daraz.com
@@ -4341,6 +4342,7 @@ zeitschrift-ugportal.net.daraz.com
 zenpad.ysr.net.daraz.com
 zerommd.stageidm.net.daraz.com
 zestaging-stagekatmoviehd.net.daraz.com
+zetc6lsssuoo5pr8.emailvision.authenticate.net.daraz.com
 zeynepharikalardiyarinda-stage-stage-bollyshare.net.daraz.com
 zeynepharikalardiyarinda.staging-srv.net.daraz.com
 zigzagstr.administrators-k1push.net.daraz.com
@@ -4403,16 +4405,18 @@ zzprg3e62zt91c04r.rgdministrrgtor.net.daraz.com
 252fdropbox-2.net.mydays.de
 2dhmpisq.net.mydays.de
 2dollarearrings.net.mydays.de
+2fevernote-6-2.net.mydays.de
 2marketing-docs.net.home24.de
 dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com
 et-3-0-2.gw1.mia19.alter.net.iberostar.com
 g.whatsapp.net.iberostar.com
+marketing.net.elogia.net
+marketing.net.jumia.ci
 net.brillen.de
 net.home24.at
 net.home24.be
 net.home24.it
 net.jumia.ma
-net.jumia.ug
 net35.net.jumia.cm
 nsm.tr.netsalesmedia.pl
 r.akipam.com

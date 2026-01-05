@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -384,6 +384,7 @@ data-341c3a0fe0.apps.iocnt.de CNAME .
 data-3452ec2236.caravaning.de CNAME .
 data-34565915dd.firmenwissen.com CNAME .
 data-34565915dd.firmenwissen.de CNAME .
+data-34c9d32b77.apps.iocnt.de CNAME .
 data-353c1c8501.falstaff.com CNAME .
 data-35b9638d7b.bibdia-hosts.de CNAME .
 data-35b9638d7b.bibdia-mobil.de CNAME .
@@ -413,6 +414,7 @@ data-39822b659f.oberhessische-zeitung.de CNAME .
 data-39822b659f.rhein-liebe.de CNAME .
 data-39822b659f.vrm-immo.de CNAME .
 data-39822b659f.vrm-jobs.de CNAME .
+data-39822b659f.vrm-trauer.de CNAME .
 data-39db8b138f.apps.iocnt.de CNAME .
 data-39f71aefaf.prisma.de CNAME .
 data-3aee2d871a.hgtv.com CNAME .
@@ -523,6 +525,7 @@ data-48d3085f82.hildesheimer-allgemeine.de CNAME .
 data-48fd46a412.digitalphoto.de CNAME .
 data-494b3b236f.goslarsche.de CNAME .
 data-497ecca600.erft-kurier.de CNAME .
+data-497ecca600.fupa.net CNAME .
 data-497ecca600.ga.de CNAME .
 data-497ecca600.moneyspecial.de CNAME .
 data-497ecca600.rp-online-dating.de CNAME .
@@ -541,6 +544,7 @@ data-4b48d22435.kommune21.de CNAME .
 data-4c63bfe8f2.apps.iocnt.de CNAME .
 data-4cb57634de.apps.iocnt.de CNAME .
 data-4cc3ddd1b2.puls24.at CNAME .
+data-4ce33a993b.radiohochstift.de CNAME .
 data-4ce33a993b.radiohochstifthilft.de CNAME .
 data-4cf73e282f.fleischwirtschaft.de CNAME .
 data-4d32f71c16.stadtbuecherei-nuertingen.de CNAME .
@@ -610,9 +614,11 @@ data-5d848783f7.spiegel.de CNAME .
 data-5d9e07c784.stadt-und-werk.de CNAME .
 data-5e25716aa5.apps.iocnt.de CNAME .
 data-5e8d192b40.liga3-online.de CNAME .
+data-5ec2d41a8f.radiowestfalica.de CNAME .
 data-5f31cc5b45.apps.iocnt.de CNAME .
 data-5f4e914553.apps.iocnt.de CNAME .
 data-5f67d653dd.si-shk.de CNAME .
+data-5f7ebd9560.apps.iocnt.de CNAME .
 data-5fdd0f6a02.salzburg24.at CNAME .
 data-605b7fe247.babyclub.de CNAME .
 data-6078195ae2.apps.iocnt.de CNAME .
@@ -652,6 +658,7 @@ data-614d3891ff.academics.ch CNAME .
 data-614d3891ff.academics.com CNAME .
 data-614d3891ff.academics.de CNAME .
 data-614d3891ff.weltkunst.de CNAME .
+data-614d3891ff.zeit.de CNAME .
 data-615a2eced5.grazer.at CNAME .
 data-62688b6a00.apps.iocnt.de CNAME .
 data-62e8b40b12.apps.iocnt.de CNAME .
@@ -666,6 +673,7 @@ data-63ef19fa52.apps.iocnt.de CNAME .
 data-6416365902.sbz-online.de CNAME .
 data-6463194ae5.fitbook.de CNAME .
 data-650d8068ef.ka-news.de CNAME .
+data-658024863f.industriemagazin.at CNAME .
 data-663387616d.echo24.de CNAME .
 data-663387616d.idcdn.de CNAME .
 data-664e19af6d.11freunde.de CNAME .
@@ -903,6 +911,7 @@ data-8d1d4989b8.weinheim.de CNAME .
 data-8d3bec589f.schwaebische.de CNAME .
 data-8d4563cf4e.gesundheitstrends.com CNAME .
 data-8d5185014c.apps.iocnt.de CNAME .
+data-8d9711db79.gusto.at CNAME .
 data-8e0cc612e5.lighting-jobs.de CNAME .
 data-8e2d0c548f.apps.iocnt.de CNAME .
 data-8ec206415a.ag-sdd.de CNAME .
@@ -917,6 +926,7 @@ data-8fc521096f.monat.at CNAME .
 data-90725c51d9.gn-online.de CNAME .
 data-90d810b1e7.bbradio.de CNAME .
 data-917f6e673e.apps.iocnt.de CNAME .
+data-91d77b307e.apps.iocnt.de CNAME .
 data-91f69542bd.radiolippe.de CNAME .
 data-924def9ef0.apps.iocnt.de CNAME .
 data-9265b7c6dd.computer-automation.de CNAME .
@@ -959,6 +969,7 @@ data-96d64cb150.wohnverdient.de CNAME .
 data-97304cc18d.medienzentrum-biberach.de CNAME .
 data-975521d9ad.horizont.net CNAME .
 data-97d159685e.gemeinsam-gedenken.de CNAME .
+data-97d159685e.szbz.de CNAME .
 data-98b5a11c9b.radiolippe.de CNAME .
 data-99329e3cb2.bilanz.de CNAME .
 data-99329e3cb2.metal-hammer.de CNAME .
@@ -986,11 +997,6 @@ data-9bc4e9c585.deraktionaer.tv CNAME .
 data-9c12ed8b3c.echtemamas.de CNAME .
 data-9cea99829d.apps.iocnt.de CNAME .
 data-9d5c2cfc8c.baustoff-partner.de CNAME .
-data-9d5ca866eb.baunetz-architekten.de CNAME .
-data-9d5ca866eb.baunetz-campus.de CNAME .
-data-9d5ca866eb.baunetz-id.de CNAME .
-data-9d5ca866eb.baunetz.de CNAME .
-data-9d5ca866eb.baunetzwissen.de CNAME .
 data-9dc3fcd9b4.chip.de CNAME .
 data-9dc3fcd9b4.fitforfun.de CNAME .
 data-9dc3fcd9b4.mylife.de CNAME .
@@ -1052,6 +1058,7 @@ data-a1ce08382f.sat1gold.de CNAME .
 data-a1d02ca68b.diekaelte.de CNAME .
 data-a21143b1fe.apps.iocnt.de CNAME .
 data-a2557095eb.wilhelmshaven.de CNAME .
+data-a25b878079.deutsche-apotheker-zeitung.de CNAME .
 data-a29bc6fa2d.noen.at CNAME .
 data-a2a13b1828.all-in.de CNAME .
 data-a2c8256a75.jobhamster.de CNAME .
@@ -1093,9 +1100,11 @@ data-a85b10211f.rhein-neckar-zeitung.com CNAME .
 data-a85b10211f.rhein-neckar-zeitung.de CNAME .
 data-a85b10211f.rhein-neckar-zeitung.net CNAME .
 data-a85b10211f.rhein-neckar-zeitung.org CNAME .
+data-a85b10211f.rnz.de CNAME .
 data-a85b10211f.rnz.info CNAME .
 data-a91b4f801d.rhoenundsaalepost.de CNAME .
 data-a91b4f801d.rhoenundstreubote.de CNAME .
+data-a938ff636c.radioguetersloh.de CNAME .
 data-a938ff636c.radiogueterslohhilft.de CNAME .
 data-a98482617b.holidaycheck.at CNAME .
 data-a98482617b.holidaycheck.de CNAME .
@@ -1104,6 +1113,7 @@ data-a98482617b.holidaycheck.nl CNAME .
 data-a98482617b.holidaycheck.pl CNAME .
 data-a9b566d4a7.k.at CNAME .
 data-a9dcbfdd12.noz.de CNAME .
+data-aa4a1f6eab.apps.iocnt.de CNAME .
 data-aa67ab16ab.form-werkzeug.de CNAME .
 data-aa70fe4f08.jam.fm CNAME .
 data-aac883f83b.offiziellecharts.de CNAME .
@@ -1260,6 +1270,7 @@ data-be23d0c7b8.apps.iocnt.de CNAME .
 data-be4fd7bada.vn.at CNAME .
 data-be6a291101.com-magazin.de CNAME .
 data-be7aa39ed4.apps.iocnt.de CNAME .
+data-be8e6a7af1.bvz.at CNAME .
 data-be9b6161bf.aponet.de CNAME .
 data-bf49d28783.apps.iocnt.de CNAME .
 data-bff71da19f.apps.iocnt.de CNAME .
@@ -1759,6 +1770,7 @@ data-f59db3288b.merkurtz.de CNAME .
 data-f59db3288b.nextg.tv CNAME .
 data-f59db3288b.oberhessische-zeitung.de CNAME .
 data-f59db3288b.op-online.de CNAME .
+data-f59db3288b.ovb-online.de CNAME .
 data-f59db3288b.rosenheim24.de CNAME .
 data-f59db3288b.ruhr24.de CNAME .
 data-f59db3288b.sauerlandkurier.de CNAME .

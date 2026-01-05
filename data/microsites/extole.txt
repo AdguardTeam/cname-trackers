@@ -119,7 +119,6 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em5231.mail.propertyperks.xfinity.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -772,6 +771,7 @@
 ||em4367.raf-studentloans.discover.com^
 ||em4504.mail.raf.xfinity.com^
 ||em5230.rewards.dailypay.com^
+||em5231.mail.propertyperks.xfinity.com^
 ||em5807.turbotax.refer.intuit.com^
 ||em7147.love.suncoastcreditunion.com^
 ||em767.forgetrust.com^

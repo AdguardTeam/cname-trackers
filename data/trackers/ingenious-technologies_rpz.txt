@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -2588,7 +2588,6 @@ $TTL 300
 210.dcsportal.0-01-lib-oa-1-cf23region.net.daraz.com CNAME .
 24c6y06yxmetccjz.partner-pay.net.daraz.com CNAME .
 2a6jk46shfyp0lxg.administrators.net.daraz.com CNAME .
-2fevernote-6-2.net.mydays.de CNAME .
 2mhesk294m2fhou5.docs.net.daraz.com CNAME .
 2nq7m57at7uxoi9e.administrators.net.daraz.com CNAME .
 2psagenglegacy.0-030.net.daraz.com CNAME .
@@ -3668,6 +3667,7 @@ febwww.rgsdocker.net.daraz.com CNAME .
 fexample.allseason.net.daraz.com CNAME .
 filea.ns.egovision.net.daraz.com CNAME .
 files.mgmt.partner.net.daraz.com CNAME .
+freya.net.daraz.com CNAME .
 frontpage-mobilecl.net.daraz.com CNAME .
 frontprdage-prdartner.net.daraz.com CNAME .
 frraganfrfrropobjects.net.daraz.com CNAME .
@@ -3684,6 +3684,7 @@ h-adashxocsnewnautilus12345proxy3.net.daraz.com CNAME .
 health.net.daraz.com CNAME .
 hercules.docs.net.daraz.com CNAME .
 hermes.emailvision.net.daraz.com CNAME .
+hinet.net.daraz.com CNAME .
 ht-123pago.docs.net.daraz.com CNAME .
 hw-bejav.assets.net.daraz.com CNAME .
 img1-ebs.10-marketing.net.daraz.com CNAME .
@@ -3784,10 +3785,8 @@ marketing.net.brillen.de CNAME .
 marketing.net.daraz.com.bd CNAME .
 marketing.net.daraz.lk CNAME .
 marketing.net.daraz.pk CNAME .
-marketing.net.elogia.net CNAME .
 marketing.net.gafas.es CNAME .
 marketing.net.idealo-partner.com CNAME .
-marketing.net.jumia.ci CNAME .
 marketing.net.occhiali24.it CNAME .
 marketing.spyder-api-prod.net.daraz.com CNAME .
 marketing.tngwstage.net.daraz.com CNAME .
@@ -3875,6 +3874,7 @@ nca3.mobilecl.bellcaouth.net.daraz.com CNAME .
 neon.manage.lib-oa-1.net.daraz.com CNAME .
 neso.r.niwepa.com CNAME .
 net.daraz.com CNAME .
+net.jumia.ug CNAME .
 netfrontcar31.net.daraz.com CNAME .
 news.bejav.net.daraz.com CNAME .
 ngateway.emailvigatewayion.ugateway.net.daraz.com CNAME .
@@ -4101,6 +4101,7 @@ stage-ugportal-zerommd.net.daraz.com CNAME .
 stage-ugportal1buketstaging.net.daraz.com CNAME .
 stage-ugportalstaging-ort.net.daraz.com CNAME .
 stage-volksschulbildung-staging.naruspot.net.daraz.com CNAME .
+stage.123seks.net.daraz.com CNAME .
 stage.123seksabgsex.net.daraz.com CNAME .
 stage.abgsex.livedooryugioh-anime-staging.net.daraz.com CNAME .
 stage.abgsexattikos.net.daraz.com CNAME .
@@ -4352,6 +4353,7 @@ zeitschrift-ugportal.net.daraz.com CNAME .
 zenpad.ysr.net.daraz.com CNAME .
 zerommd.stageidm.net.daraz.com CNAME .
 zestaging-stagekatmoviehd.net.daraz.com CNAME .
+zetc6lsssuoo5pr8.emailvision.authenticate.net.daraz.com CNAME .
 zeynepharikalardiyarinda-stage-stage-bollyshare.net.daraz.com CNAME .
 zeynepharikalardiyarinda.staging-srv.net.daraz.com CNAME .
 zigzagstr.administrators-k1push.net.daraz.com CNAME .
@@ -4414,16 +4416,18 @@ zzprg3e62zt91c04r.rgdministrrgtor.net.daraz.com CNAME .
 252fdropbox-2.net.mydays.de CNAME .
 2dhmpisq.net.mydays.de CNAME .
 2dollarearrings.net.mydays.de CNAME .
+2fevernote-6-2.net.mydays.de CNAME .
 2marketing-docs.net.home24.de CNAME .
 dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com CNAME .
 et-3-0-2.gw1.mia19.alter.net.iberostar.com CNAME .
 g.whatsapp.net.iberostar.com CNAME .
+marketing.net.elogia.net CNAME .
+marketing.net.jumia.ci CNAME .
 net.brillen.de CNAME .
 net.home24.at CNAME .
 net.home24.be CNAME .
 net.home24.it CNAME .
 net.jumia.ma CNAME .
-net.jumia.ug CNAME .
 net35.net.jumia.cm CNAME .
 nsm.tr.netsalesmedia.pl CNAME .
 r.akipam.com CNAME .

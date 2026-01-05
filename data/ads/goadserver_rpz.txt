@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,25 +11,25 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-ad.slimspots.com CNAME .
 display.digitalclickstime.com CNAME .
 ff.charmduo.site CNAME .
+go.adxoclick.com CNAME .
 go.aoalmfwinbsstec23.com CNAME .
 go.bigbang.solutions CNAME .
 go.delmovip.com CNAME .
 go.digitalclickstime.com CNAME .
 go.go-srv.com CNAME .
 go.goaserv.com CNAME .
+go.goasrv.com CNAME .
 go.gosrv.cl CNAME .
 go.gsrv.dev CNAME .
-go.redgifs.com CNAME .
 go.static-srv.com CNAME .
 go.tbllzon.com CNAME .
 go1.3mre.work CNAME .
-go1.a2ure.work CNAME .
 go1.nolvadex.top CNAME .
 go1.reacheffecti.work CNAME .
 go1.reachsrv.com CNAME .
+go1.spre.work CNAME .
 go1.trakit12.com CNAME .
 go1.trakit13.com CNAME .
 go1.trakit19.com CNAME .
@@ -40,28 +40,27 @@ go1.trakit25.com CNAME .
 go1.trakit26.com CNAME .
 go1.trakit27.com CNAME .
 go1.trakit30.com CNAME .
-go1.yare.work CNAME .
 go2.toplineads.com CNAME .
 go2.trafficbull.com CNAME .
 gw.blacked.com CNAME .
-gw.deeper.com CNAME .
+gw.blackedraw.com CNAME .
 gw.madcheddar.net CNAME .
 gw.tushy.com CNAME .
-gw.tushyraw.com CNAME .
 gw.vixen.com CNAME .
+gw.vixenplus.com CNAME .
 its.fusrv.com CNAME .
 its.pasrv.com CNAME .
 its.tbpot.com CNAME .
-live.amplifo.com CNAME .
 live.quixova.com CNAME .
-live.qwirlz.com CNAME .
 live.trmzum.com CNAME .
 live.trudigo.com CNAME .
 live.zrmtrm.com CNAME .
+service.zingtraffic.com CNAME .
 16x9tv.goaserv.com CNAME .
 3okasheyat.go-srv.com CNAME .
 acessonline.goasrv.com CNAME .
 acpo.go-srv.com CNAME .
+ad.slimspots.com CNAME .
 ad.srvupads.com CNAME .
 ads.coinads.click CNAME .
 adserver.asiantb.com CNAME .
@@ -87,11 +86,10 @@ ff.trakerton.com CNAME .
 gg.luli7.com CNAME .
 gilemovie.go-srv.com CNAME .
 go.23aoalmfwinbsstec.com CNAME .
-go.adxoclick.com CNAME .
 go.bidvance.com CNAME .
-go.goasrv.com CNAME .
 go.novirtb.com CNAME .
 go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com CNAME .
+go.redgifs.com CNAME .
 go.svradv.com CNAME .
 go.tbllad.com CNAME .
 go.tbllem.com CNAME .
@@ -100,6 +98,7 @@ go.tbllrej.com CNAME .
 go.trafficbull.com CNAME .
 go.trcklnk.com CNAME .
 go.vidspass.com CNAME .
+go1.a2ure.work CNAME .
 go1.atre.work CNAME .
 go1.bgunit.com CNAME .
 go1.bhunif.com CNAME .
@@ -113,7 +112,6 @@ go1.rssr.work CNAME .
 go1.sildenafi.beauty CNAME .
 go1.sluttycam.work CNAME .
 go1.sovagg.biz CNAME .
-go1.spre.work CNAME .
 go1.tjre.work CNAME .
 go1.trakit14.com CNAME .
 go1.trakit15.com CNAME .
@@ -123,15 +121,18 @@ go1.trakit18.com CNAME .
 go1.trakit20.com CNAME .
 go1.trakit21.com CNAME .
 go1.were.work CNAME .
+go1.yare.work CNAME .
 groupalia.go-srv.com CNAME .
-gw.blackedraw.com CNAME .
+gw.deeper.com CNAME .
 gw.milfy.com CNAME .
 gw.slayed.com CNAME .
-gw.vixenplus.com CNAME .
+gw.tushyraw.com CNAME .
 gw.wifey.com CNAME .
 iquangcaogoogle.go-srv.com CNAME .
 jantest.goaserv.com CNAME .
 krisna-dokumentasi.go-srv.com CNAME .
+live.amplifo.com CNAME .
+live.qwirlz.com CNAME .
 mosi-sms.go-srv.com CNAME .
 mylinuxtoday.go-srv.com CNAME .
 pagesfaq.go-srv.com CNAME .
@@ -143,7 +144,6 @@ registro.go-srv.com CNAME .
 rtb.prnteen.com CNAME .
 rtb.zingtraffic.com CNAME .
 sbb103.go-srv.com CNAME .
-service.zingtraffic.com CNAME .
 siguientepagina.go-srv.com CNAME .
 smtp3.go-srv.com CNAME .
 sportsphotographytechniques.go-srv.com CNAME .

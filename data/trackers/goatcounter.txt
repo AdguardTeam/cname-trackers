@@ -53,7 +53,6 @@
 ||goat.skeetstats.xyz^
 ||goat.tailspace.net^
 ||goat.twoistoomany.com^
-||goat1.nhimmeo.cf^
 ||goatcounter.blu3id.uk^
 ||goatcounter.codinggrace.com^
 ||goatcounter.eventgeek.ie^
@@ -129,7 +128,6 @@
 ||stats.lspeed.org^
 ||stats.matteocroce.it^
 ||stats.mausoleum.me^
-||stats.mele.dev^
 ||stats.merrell.dev^
 ||stats.msol.io^
 ||stats.ngdangtu.com^
@@ -141,7 +139,6 @@
 ||stats.pamcarter.net^
 ||stats.r18.dev^
 ||stats.raycordlegends.com^
-||stats.riccardomurachelli.it^
 ||stats.risanne.nl^
 ||stats.rocketgoboom.lol^
 ||stats.ryanchmelir.com^
@@ -154,7 +151,6 @@
 ||stats.timothechau.vet^
 ||stats.tinkerer.tools^
 ||stats.trainsley69.me^
-||stats.tramax.com.ar^
 ||stats.transactional.blog^
 ||stats.umcconnell.net^
 ||stats.uygar.sh^

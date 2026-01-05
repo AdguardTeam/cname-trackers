@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1213,7 +1213,6 @@ tr.xleads.digital CNAME .
 tr.zojh.espmp-aluk.net CNAME .
 tr1.bp06.net CNAME .
 tr1.bp09.net CNAME .
-tr1.bp26.net CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.lr001.net CNAME .
 tr1.lr002.net CNAME .
@@ -1244,3 +1243,4 @@ s.gemy.fr CNAME .
 s.np6.com CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
+tr1.bp26.net CNAME .

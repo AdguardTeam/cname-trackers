@@ -18,7 +18,6 @@
 | api.findenkaereste.dk | api.wecantrack.com |
 | api.nettjek24.dk | api.wecantrack.com |
 | mat.moneyatlas.com | api.wecantrack.com |
-| track.moneyatlas.com | api.wecantrack.com |
 | w.revenuegeeks.com | api.wecantrack.com |
 | wct.compari.se | api.wecantrack.com |
 | wct.coolgadgetsinsider.com | api.wecantrack.com |

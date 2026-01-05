@@ -111,7 +111,6 @@
 | nums.upscale.app | custom.plausible.io |
 | p.classroombookings.com | custom.plausible.io |
 | p.ejs.dev | custom.plausible.io |
-| p.fairspot.host | custom.plausible.io |
 | p.iforge.app | custom.plausible.io |
 | p.logbox.io | custom.plausible.io |
 | p.marqueplace.com | custom.plausible.io |
@@ -162,7 +161,6 @@
 | plausible.app.tlschedule.com | custom.plausible.io |
 | plausible.as207960.net | custom.plausible.io |
 | plausible.bablab.com | custom.plausible.io |
-| plausible.bacanalia.net | custom.plausible.io |
 | plausible.beanti.me | custom.plausible.io |
 | plausible.benscarblog.com | custom.plausible.io |
 | plausible.bostad.shop | custom.plausible.io |
@@ -448,7 +446,6 @@
 | stats.faluninfo.rs | custom.plausible.io |
 | stats.faluninfo.si | custom.plausible.io |
 | stats.fastbackward.app | custom.plausible.io |
-| stats.felipesere.com | custom.plausible.io |
 | stats.filejuggler.com | custom.plausible.io |
 | stats.finalrabiesgeneration.org | custom.plausible.io |
 | stats.findvax.us | custom.plausible.io |

@@ -121,7 +121,6 @@
 ||a8.geo-online.co.jp^
 ||a8.global-mobility-service.com^
 ||a8.gme.co.jp^
-||a8.gofood.jp^
 ||a8.golfland.co.jp^
 ||a8.gtm.co.jp^
 ||a8.guardian-mp.aerial-p.com^
@@ -1429,7 +1428,6 @@
 ||affa8.hikkoshi-master.com^
 ||afficv.lettuce.co.jp^
 ||affiliate.couleur-labo.com^
-||affiliate.dietician-family.jp^
 ||affiliate.htb-energy.co.jp^
 ||affiliate.k-uno.co.jp^
 ||affiliate.kgcshop.jp^

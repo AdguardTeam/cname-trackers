@@ -36,7 +36,6 @@
 8147563.1954.bk.com
 8147563.thekingdom.bk.com
 8147563.your-way.bk.com
-9544702.kazooby.com
 9735476.sender.skyscanner.com
 9735476.sender.skyscanner.net
 9735476.test.skyscanner.net
@@ -233,6 +232,7 @@ b.research.t-mobile.com
 b.your.rewardsemail.dominos.ca
 b21.ifly.southwest.com
 b30.stagert.southwest.com
+bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 blinks.zeemail.in
 bnc.autopass.xyz
 bnc.thetimes.com
@@ -248,6 +248,7 @@ br.eml.walgreens.com
 br.links.kodakmoments.com
 br.potato1.influitive.com
 bran.sightdots.com
+branch-consumer.hipages.com.au
 branch.livenation.com
 branch.pgatour-mail.com
 branch.wawa.com
@@ -279,6 +280,7 @@ clickmail.stubhub.com
 clickpath.anz.com
 clickpathnp.anz.com
 clicks-ca.wendys.com
+clicks.burgerking.co.uk
 clicks.fabletics.co.uk
 clicks.fabletics.com
 clicks.fabletics.fr
@@ -288,6 +290,7 @@ clicks.justfab.fr
 clicks.kfc.co.uk
 clicks.mail.noodles.com
 clicks.metronautapp.com
+clicks.mintmobile.com
 clicks.news.cwtv.com
 clicks.point.app
 clicks.rakuten.ca
@@ -296,6 +299,8 @@ clicks.rakuten.com
 clicks.rebates.jp
 clicks.savagex.co.uk
 clicks.savagex.com
+clicks.savagex.de
+clicks.savagex.es
 clicks.savagex.fr
 clicks.shakeshack.com
 clicks.stadiumgoods.com
@@ -336,11 +341,14 @@ elinks.dice.com
 em.getsimpleprints.com
 em.touchtunes.com
 email-activecampaign.keylyst.com
+email-clicks.vts.com
 email-sailthru.branch.io
+email-staging.goodrx.com
 email-test.dmcperforma.com.br
 email-yesmail.branch.rocks
 email.clearscore.co.za
 email.clearscore.com
+email.clearscore.com.au
 email.dmcperforma.com.br
 email.everyonesocial.bostonscientific.com
 email.everyonesocial.coupa.com
@@ -351,6 +359,7 @@ email.everyonesocial.unity.com
 email.firstam.com
 email.fretello.com
 email.luminpdf.com
+email.member.theknot.com
 email.mg.everyonesocial.com
 email.mg.repuzzlic.com
 email.msg.navyfederal.org
@@ -393,6 +402,7 @@ link.busbud.com
 link.cheerz.com
 link.clickipo.com
 link.clicks.mailings.bleacherreport.com
+link.drivescore.com
 link.e.blog.myfitnesspal.com
 link.email.almosafer.com
 link.email.myfitnesspal.com
@@ -405,6 +415,7 @@ link.hello-sg.circles.life
 link.hello.soothe.com
 link.hey.mypostcard.com
 link.im.intermiles.com
+link.info.myfitnesspal.com
 link.jimmybrings.com.au
 link.kingsnews.whopper.co.za
 link.lpm.surkus.com
@@ -436,6 +447,7 @@ link.yourway.burgerking.ca
 linker.lyrahealth.com
 linker.prerelease.lyrahealth.com
 linker.staging.lyrahealth.com
+links-anz.afterpay.com
 links-na.afterpay.com
 links-uk.clearpay.co.uk
 links.alerts.forhims.com
@@ -530,12 +542,14 @@ mobile-deeplink.clearme.com
 monster.branch.rocks
 news.tracking.laredoute.be
 news.tracking.laredoute.ch
+news.tracking.laredoute.co.uk
 news.tracking.laredoute.com
 news.tracking.laredoute.de
 news.tracking.laredoute.es
 news.tracking.laredoute.fr
 news.tracking.laredoute.nl
 news.tracking.laredoute.pt
+nl.sssports.com
 nl.underarmour.ae
 notice.hoopladigital.com
 pbm-email.rightwayhealthcare.com
@@ -641,7 +655,6 @@ url3092.onepay.com
 url3129.smallbatchlearning.com
 url363.james.tantawy.app
 url3630.newsletter.experience-muse.com
-url3981.kazooby.com
 url412.snavare.tantawy.app
 url4324.affirm-stage.ca
 url4324.affirm.ca
@@ -1136,6 +1149,7 @@ app.puma.com
 app.puneeatouts.in
 app.qa.flykitt.com
 app.qa.skip.dating
+app.raneen.com
 app.realbricks.com
 app.realnewsnow.com
 app.realtyonegroup.com
@@ -1164,6 +1178,7 @@ app.skip.dating
 app.skydo.cloud
 app.snbla.com
 app.soultime.com
+app.stage.alle.com
 app.sunstone.in
 app.superquick.in
 app.swari.in
@@ -1233,6 +1248,7 @@ applink.eriba.app
 applink.flightbridge.com
 applink.flipboard.com
 applink.go.com.mt
+applink.hellobacsi.com
 applink.hightail.com
 applink.hk01.com
 applink.laika.it
@@ -1489,6 +1505,7 @@ dl.popclub.co
 dl.purplle.com
 dl.right2vote.in
 dl.rivafashion.com
+dl.spotangels.com
 dl.test.fluent.care
 dl.thebeat.co
 dl.tryactive.app
@@ -1837,6 +1854,7 @@ invite.thehabit.app
 invite.trueteams.co
 invite.tyb-demo.xyz
 invite.tyb.xyz
+invite.urpay.sa
 invite.wizzy.app
 invitechamp.carselonadaily.com
 invites.friendo.cash
@@ -2140,6 +2158,7 @@ link.ila.me
 link.indogold.id
 link.infinitcare.co
 link.inoxmovies.com
+link.instabridge.com
 link.instnt.com
 link.int.deepcloud.swiss
 link.ionage.app
@@ -2267,7 +2286,6 @@ link.pylon.nl
 link.qa.heal.com
 link.qtimeweb.com
 link.quicktakes.io
-link.quik.gg
 link.qumata.com
 link.radiotunes.com
 link.reel-t.com
@@ -2304,7 +2322,6 @@ link.sensemetrics.com
 link.setyawan.dev
 link.sevencooks.com
 link.sheeriz.com
-link.shengcekeji.com
 link.shilladfs.com
 link.shopium.app
 link.shoptranthienly.vn
@@ -2337,7 +2354,6 @@ link.sporfie.com
 link.sporthub.io
 link.sportsbaazi.com
 link.sportyeah.com
-link.spoter.photo
 link.sprive.com
 link.sstdy.in
 link.staffme.fr
@@ -2402,6 +2418,7 @@ link.tutorbin.com
 link.tutorbin.in
 link.tv.cbs.com
 link.uat.exotrails.com
+link.uat.nowjobs.dev
 link.ujama.co
 link.unaide.fr
 link.unibuddy.co
@@ -3066,6 +3083,7 @@ saltsabar.openapp.link
 satori.loanzify.app
 savvikos.openapp.link
 say-staging.thnks.com
+sbc-app-links.specialized.com
 scan.playsight.com
 scanner-link.covve.com
 scheduling.qualifi.hr

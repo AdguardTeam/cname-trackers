@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,7 +29,6 @@ api.rtnews.pro CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
-bat27.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.allporncomics.co CNAME .
 c4n.anonimayzer.site CNAME .
@@ -100,7 +99,6 @@ s2.rtnews.pro CNAME .
 s3.rtnews.pro CNAME .
 s4.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
-snow.snowdayonline.xyz CNAME .
 ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
 taco.sexreels.net CNAME .

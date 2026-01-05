@@ -80,6 +80,7 @@
 ||al.pripstokyo.com^
 ||al.pro-p1.jp^
 ||al.rayell.jp^
+||al.rinenna.jp^
 ||al.route-2.net^
 ||al.ruban-de-chouchou.jp^
 ||al.saifuku-knit.jp^

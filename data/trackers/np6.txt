@@ -1202,7 +1202,6 @@
 ||tr.zojh.espmp-aluk.net^
 ||tr1.bp06.net^
 ||tr1.bp09.net^
-||tr1.bp26.net^
 ||tr1.citroen-ipsos.com^
 ||tr1.lr001.net^
 ||tr1.lr002.net^
@@ -1233,3 +1232,4 @@
 ||s.np6.com^
 ||www.lgch.mp^
 ||tr.communication.jardindacclimatation.fr^
+||tr1.bp26.net^

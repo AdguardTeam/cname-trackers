@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,7 +18,6 @@ api.eltjek24.dk CNAME .
 api.findenkaereste.dk CNAME .
 api.nettjek24.dk CNAME .
 mat.moneyatlas.com CNAME .
-track.moneyatlas.com CNAME .
 w.revenuegeeks.com CNAME .
 w.vpnalert.com CNAME .
 wct.compari.se CNAME .

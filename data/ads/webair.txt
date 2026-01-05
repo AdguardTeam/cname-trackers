@@ -429,7 +429,6 @@
 ||filter-eu.tenxads.com^
 ||filter-eu.thenetwork18.com^
 ||filter-eu.topdealad.com^
-||filter-eu.topsolutionsmedia.com^
 ||filter-eu.trackifyy.com^
 ||filter-eu.trafficmoose.com^
 ||filter-eu.tri.media^
@@ -441,6 +440,7 @@
 ||filter-eu.xmlwolf.com^
 ||filter-eu.zaimads.com^
 ||filter-eu.zentrixads.com^
+||filter-eu.zenvuedigital.com^
 ||filter.3mads.com^
 ||filter.80xmedia.com^
 ||filter.a1.0network.com^
@@ -645,7 +645,6 @@
 ||filter.thetrafficboss.com^
 ||filter.thing02.com^
 ||filter.topdealad.com^
-||filter.topsolutionsmedia.com^
 ||filter.trackifyy.com^
 ||filter.trafficmoose.com^
 ||filter.tri.media^
@@ -1478,6 +1477,7 @@
 ||rtb-uswest.qortex.ai^
 ||rtb-uswest.rankortbdirect.com^
 ||rtb-uswest.revrtb.com^
+||rtb-uswest.rnkclkres.com^
 ||rtb-uswest.rtb.vokut.com^
 ||rtb-uswest.rtbadzesto.com^
 ||rtb-uswest.rtbfactory.com^
@@ -1571,6 +1571,7 @@
 ||rtb2-uswest.demandzoo.com^
 ||rtb2-uswest.e-volution.ai^
 ||rtb2-uswest.jambojar.com^
+||rtb2-uswest.kremsondigital.com^
 ||rtb2-uswest.mediarise.io^
 ||rtb2-uswest.n-data.io^
 ||rtb2-uswest.newchallenges-dsp.com^
@@ -1598,32 +1599,31 @@
 ||sm-rtb-useast.zmdvideo.com^
 ||staging.yeesshh.com^
 ||static-rtb2.affinity.net^
-||static-rtb2.afkwa.com^
 ||static-rtb2.branchdsp.io^
 ||static-rtb2.convergeselect.net^
 ||static-rtb2.newchallenges-dsp.com^
 ||static-rtb2.reachableads.com^
-||static.152media.cloud^
 ||static.adright.co^
-||static.adsolut.in^
+||static.afkwa.com^
+||static.amplifai.it.com^
 ||static.aserve1.net^
 ||static.creativedot.net^
-||static.creativethingsdoneright.top^
 ||static.displayio.cloud^
 ||static.domitize.com^
-||static.ezmob.com^
-||static.foremedia.net^
+||static.fstsrv9.com^
 ||static.openrtb.in^
+||static.pdn-1.com^
+||static.pressize.com^
 ||static.pushub.net^
 ||static.qualiclicks.com^
 ||static.rtbserve.io^
-||static.saroadexchange.com^
+||static.saturndynamic.pt^
+||static.showcasead.com^
 ||static.smoads.com^
 ||static.srvqck24.com^
 ||static.srvqck26.com^
 ||static.theardent.group^
-||static.vistarsagency.com^
-||static.ymidydlesswales.com^
+||static.yhisladyloveheh.org^
 ||sub-eu-v4.adzgame.com^
 ||sub-eu.adzgame.com^
 ||sub-v4.adzgame.com^
@@ -1639,6 +1639,7 @@
 ||tq-eu.bluodpa-a.online^
 ||tq-eu.bluodpa-c.online^
 ||tq-eu.bluodpa-d.online^
+||tq-eu.bocdos-3.online^
 ||tq-eu.bomdukop-1.online^
 ||tq-eu.bomdukop-2.online^
 ||tq-eu.bomdukop-3.online^
@@ -1814,6 +1815,7 @@
 ||xml-eu-v4.bluodpa-b.online^
 ||xml-eu-v4.bluodpa-c.online^
 ||xml-eu-v4.bluodpa-d.online^
+||xml-eu-v4.bocdos-3.online^
 ||xml-eu-v4.boffoadsfeeds.com^
 ||xml-eu-v4.bomdukop-1.online^
 ||xml-eu-v4.bomdukop-2.online^
@@ -1980,6 +1982,7 @@
 ||xml-eu.bluodpa-b.online^
 ||xml-eu.bluodpa-c.online^
 ||xml-eu.bluodpa-d.online^
+||xml-eu.bocdos-3.online^
 ||xml-eu.bomdukop-1.online^
 ||xml-eu.bomdukop-2.online^
 ||xml-eu.bomdukop-3.online^
@@ -2045,6 +2048,7 @@
 ||xml-eu.srvqck21.com^
 ||xml-eu.srvqck23.com^
 ||xml-eu.srvqck25.com^
+||xml-eu.srvqck27.com^
 ||xml-eu.srvqck7.com^
 ||xml-eu.srvqck8.com^
 ||xml-eu.srvqck9.com^
@@ -2053,7 +2057,6 @@
 ||xml-eu.techdoor.com^
 ||xml-eu.thenetwork18.com^
 ||xml-eu.topdealad.com^
-||xml-eu.topsolutionsmedia.com^
 ||xml-eu.trackifyy.com^
 ||xml-eu.trafficmoose.com^
 ||xml-eu.tri.media^
@@ -2092,6 +2095,7 @@
 ||xml-v4.afkwa.com^
 ||xml-v4.afront.io^
 ||xml-v4.agilitydigitalmedia.com^
+||xml-v4.amplifai.it.com^
 ||xml-v4.appmonsta.ai^
 ||xml-v4.audienceye.com^
 ||xml-v4.barcelona-backlinks.es^
@@ -2106,6 +2110,8 @@
 ||xml-v4.bluodpa-b.online^
 ||xml-v4.bluodpa-c.online^
 ||xml-v4.bluodpa-d.online^
+||xml-v4.bocdos-2.online^
+||xml-v4.bocdos-3.online^
 ||xml-v4.boffoadsfeeds.com^
 ||xml-v4.bomdukop-1.online^
 ||xml-v4.bomdukop-2.online^
@@ -2247,7 +2253,6 @@
 ||xml-v4.tri.media^
 ||xml-v4.tropintech.com^
 ||xml-v4.uclpointer.online^
-||xml-v4.vudhartb.com^
 ||xml-v4.webfindi.com^
 ||xml-v4.webmedrtb.com^
 ||xml-v4.webmedxml.com^
@@ -2344,6 +2349,7 @@
 ||xml.bluodpa-a.online^
 ||xml.bluodpa-c.online^
 ||xml.bluodpa-d.online^
+||xml.bocdos-3.online^
 ||xml.boffoads.com^
 ||xml.boffoadsfeeds.com^
 ||xml.bomdukop-1.online^
@@ -2398,6 +2404,7 @@
 ||xml.explorads.com^
 ||xml.expplatdirect.com^
 ||xml.expresfee.com^
+||xml.extraordukinarilyh.com^
 ||xml.eyandfarto.org^
 ||xml.ezmob.com^
 ||xml.fast-bid.com^
@@ -2592,7 +2599,6 @@
 ||xml.tionhesaidnd.org^
 ||xml.topclickpick.com^
 ||xml.topdealad.com^
-||xml.topsolutionsmedia.com^
 ||xml.toro-bid.com^
 ||xml.trackifyy.com^
 ||xml.trafficmoose.com^
@@ -2662,6 +2668,7 @@
 ||static-rtb.vespymedia.com^
 ||static-xml.vespymedia.com^
 ||static.100conversions.com^
+||static.152media.cloud^
 ||static.9versemedia.com^
 ||static.a1.0network.com^
 ||static.acertb.com^
@@ -2700,6 +2707,7 @@
 ||static.adscholars.com^
 ||static.adsfloow.net^
 ||static.adsimilate.com^
+||static.adsolut.in^
 ||static.adsupplyexchange.com^
 ||static.adtapmedia.com^
 ||static.advertruth.com^
@@ -2711,7 +2719,6 @@
 ||static.adzealous.com^
 ||static.adzestocp.com^
 ||static.adzreach.com^
-||static.afkwa.com^
 ||static.ak.bonanza.com^
 ||static.altavara.co^
 ||static.altitudemarketing.com^
@@ -2754,6 +2761,7 @@
 ||static.coupontic.com^
 ||static.cpmvibes.com^
 ||static.cranberryads.com^
+||static.creativethingsdoneright.top^
 ||static.critic.media^
 ||static.ctrtraffic.com^
 ||static.cue7ven.com^
@@ -2775,15 +2783,16 @@
 ||static.eredthechild-bid.com^
 ||static.explorads.com^
 ||static.extvlabs.com^
+||static.ezmob.com^
 ||static.felixads.com^
 ||static.fidmakr.com^
 ||static.finevisit.com^
 ||static.flairadscpc.com^
 ||static.fmlabsonline.com^
+||static.foremedia.net^
 ||static.frownedand-bid.com^
 ||static.fstsrv10.com^
 ||static.fstsrv11.com^
-||static.fstsrv9.com^
 ||static.glcsrv.com^
 ||static.globalsun.io^
 ||static.goclickz.net^
@@ -2839,14 +2848,12 @@
 ||static.paddlewaver.com^
 ||static.panel-bid.com^
 ||static.pareto21.com^
-||static.pdn-1.com^
 ||static.pixelpluses.com^
 ||static.plarimoplus.com^
 ||static.popmonetizer.com^
 ||static.popviking.com^
 ||static.position-bid.com^
 ||static.prertbdir.com^
-||static.pressize.com^
 ||static.pressizeteam.com^
 ||static.prime-bid.com^
 ||static.prince-bid.com^
@@ -2878,7 +2885,7 @@
 ||static.rtxplatform.com^
 ||static.rxnetwork.net^
 ||static.saidndamafrai.org^
-||static.saturndynamic.pt^
+||static.saroadexchange.com^
 ||static.search-house.co^
 ||static.sedodna.com^
 ||static.see-bid.com^
@@ -2891,7 +2898,6 @@
 ||static.shall-bid.com^
 ||static.shenwhentheau.org^
 ||static.shook-bid.com^
-||static.showcasead.com^
 ||static.solarad.net^
 ||static.srvqck.com^
 ||static.srvqck1.com^
@@ -2947,6 +2953,7 @@
 ||static.verwasquitefu.org^
 ||static.vewith-bid.com^
 ||static.vexa-bid.com^
+||static.vistarsagency.com^
 ||static.voisetech.com^
 ||static.wawayftertheyh.org^
 ||static.webfindi.com^
@@ -2963,8 +2970,8 @@
 ||static.xmlwolf.com^
 ||static.xrtb.io^
 ||static.xyconversation.org^
-||static.yhisladyloveheh.org^
 ||static.yieldradius.io^
+||static.ymidydlesswales.com^
 ||static.yrelationsan.org^
 ||static.zaimads.com^
 ||static.zentrixads.com^
@@ -2981,6 +2988,7 @@
 ||static-rtb2.adpix.online^
 ||static-rtb2.adpluto.com^
 ||static-rtb2.advantagedsp.com^
+||static-rtb2.afkwa.com^
 ||static-rtb2.africonverse.com^
 ||static-rtb2.ak.bonanza.com^
 ||static-rtb2.applabs.live^
@@ -2994,7 +3002,6 @@
 ||static-rtb2.ecomviper.com^
 ||static-rtb2.extvlabs.com^
 ||static-rtb2.foremedia.net^
-||static-rtb2.globalwingspan.com^
 ||static-rtb2.goleftmedia.com^
 ||static-rtb2.gravityadnetwork.io^
 ||static-rtb2.jambojar.com^

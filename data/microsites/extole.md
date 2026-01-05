@@ -584,7 +584,6 @@
     * wombat.extole.io
     * wrangler.extole.io
     * wsecu.extole.io
-    * xfinity.em.extole.io
     * xfinity.extole.io
     * yotoplay.extole.io
     * zenbusiness.extole.io
@@ -1372,7 +1371,6 @@
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
 | share.wsecu.org | wsecu.extole.io |
-| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |

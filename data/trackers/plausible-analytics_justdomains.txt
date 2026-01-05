@@ -99,7 +99,6 @@ numbers.monthlyphotos.com
 nums.upscale.app
 p.classroombookings.com
 p.ejs.dev
-p.fairspot.host
 p.iforge.app
 p.logbox.io
 p.marqueplace.com
@@ -150,7 +149,6 @@ plausible.app.kdojang.com
 plausible.app.tlschedule.com
 plausible.as207960.net
 plausible.bablab.com
-plausible.bacanalia.net
 plausible.beanti.me
 plausible.benscarblog.com
 plausible.bostad.shop
@@ -436,7 +434,6 @@ stats.faluninfo.mk
 stats.faluninfo.rs
 stats.faluninfo.si
 stats.fastbackward.app
-stats.felipesere.com
 stats.filejuggler.com
 stats.finalrabiesgeneration.org
 stats.findvax.us

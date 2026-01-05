@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -91,6 +91,7 @@ al.pierrotshop.jp CNAME .
 al.pripstokyo.com CNAME .
 al.pro-p1.jp CNAME .
 al.rayell.jp CNAME .
+al.rinenna.jp CNAME .
 al.route-2.net CNAME .
 al.ruban-de-chouchou.jp CNAME .
 al.saifuku-knit.jp CNAME .

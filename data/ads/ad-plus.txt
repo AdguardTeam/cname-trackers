@@ -15,6 +15,7 @@
 ||dashboard.xqubemedia.com^
 ||player.resonance.pk^
 ||player.urdupoint.com^
+||serving.datawrkz.com^
 ||serving.grapemedia.cz^
 ||serving.greeter.lat^
 ||serving.laimroll.ru^

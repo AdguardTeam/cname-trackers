@@ -6,7 +6,6 @@
     * amsterdam.piwik.pro
     * aumago.piwik.pro
     * czgroep.piwik.pro
-    * dealerspike-prod.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
     * eib.piwik.pro
@@ -21,13 +20,14 @@
     * pp-public-p-gwc.piwik.pro
     * pp-public-p-use.piwik.pro
     * public-p-swe2.piwik.pro
+    * rechtspraak.piwik.pro
     * rijksoverheid.piwik.pro
     * rvo.piwik.pro
     * sozialversicherung.piwik.pro
     * stateofohio.piwik.pro
-    * storck.piwik.pro
     * tigital.piwik.pro
     * triodos.piwik.pro
+    * tweedekamer.piwik.pro
     * uninstalled.piwik.pro
     * uwv.piwik.pro
     * wavelz.piwik.pro
@@ -40,8 +40,8 @@
 | ---- | ---- |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
+| tagadmin.aumago.com | aumago.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
-| stats.dealerspike.com | dealerspike-prod.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
 | piwik.eib.org | eib.piwik.pro |
@@ -76,8 +76,10 @@
 | polpharmaanalytics.pl | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
+| pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
 | statistics.ind.nl | pp-public-p-euw.piwik.pro |
+| statistiek.rechtspraak.nl | pp-public-p-euw.piwik.pro |
 | statistiek.rechtspraak.nl | pp-public-p-euw.piwik.pro |
 | statistiek.rvo.nl | pp-public-p-euw.piwik.pro |
 | statistieken.ns-epublisher.com | pp-public-p-euw.piwik.pro |
@@ -109,13 +111,16 @@
 | site-analytics.iop.ohio.gov | pp-public-p-use.piwik.pro |
 | mphdd.multipharma.be | public-p-swe2.piwik.pro |
 | stats.manz.at | public-p-swe2.piwik.pro |
+| statistiek.rechtspraak.nl | rechtspraak.piwik.pro |
 | statistiek.rijksoverheid.nl | rijksoverheid.piwik.pro |
 | statistiek.rvo.nl | rvo.piwik.pro |
 | analysis.sozialversicherung.at | sozialversicherung.piwik.pro |
 | analytics.dx.ohio.gov | stateofohio.piwik.pro |
-| logfiles.storck.com | storck.piwik.pro |
+| site-analytics.iop.ohio.gov | stateofohio.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
+| t-pan.triodos.com | triodos.piwik.pro |
+| pwk.tweedekamer.nl | tweedekamer.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |

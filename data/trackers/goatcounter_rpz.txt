@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -64,7 +64,6 @@ goat.neverhill.net CNAME .
 goat.skeetstats.xyz CNAME .
 goat.tailspace.net CNAME .
 goat.twoistoomany.com CNAME .
-goat1.nhimmeo.cf CNAME .
 goatcounter.blu3id.uk CNAME .
 goatcounter.codinggrace.com CNAME .
 goatcounter.eventgeek.ie CNAME .
@@ -140,7 +139,6 @@ stats.linerly.xyz CNAME .
 stats.lspeed.org CNAME .
 stats.matteocroce.it CNAME .
 stats.mausoleum.me CNAME .
-stats.mele.dev CNAME .
 stats.merrell.dev CNAME .
 stats.msol.io CNAME .
 stats.ngdangtu.com CNAME .
@@ -152,7 +150,6 @@ stats.palaisdesfetes.eu CNAME .
 stats.pamcarter.net CNAME .
 stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .
-stats.riccardomurachelli.it CNAME .
 stats.risanne.nl CNAME .
 stats.rocketgoboom.lol CNAME .
 stats.ryanchmelir.com CNAME .
@@ -165,7 +162,6 @@ stats.tdurand.com CNAME .
 stats.timothechau.vet CNAME .
 stats.tinkerer.tools CNAME .
 stats.trainsley69.me CNAME .
-stats.tramax.com.ar CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,7 +73,6 @@ www.prbcdn.online CNAME .
 www.procarsharing.store CNAME .
 www.pushrb.pro CNAME .
 www.qatro.ru CNAME .
-www.raelb2.ru CNAME .
 www.rbdomain.ru CNAME .
 www.rbmcnf.pro CNAME .
 www.rbp-gen1.site CNAME .
@@ -87,6 +86,7 @@ www.rbpark1.website CNAME .
 www.rbpark2.ru CNAME .
 www.rbpark3.ru CNAME .
 www.rbprk91645.ru CNAME .
+www.realbi5.ru CNAME .
 www.rekl1.com CNAME .
 www.rlrt.ru CNAME .
 www.step555.ru CNAME .

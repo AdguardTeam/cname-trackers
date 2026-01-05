@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -971,8 +971,10 @@ rmetrix.superbid.net CNAME .
 rmscheck.sbifxt.co.jp CNAME .
 rqt-cdna.paymentncb.cofidis.fr CNAME .
 rqt-cl-cdna.ecommerce.cofidis.it CNAME .
+rs.pay.com CNAME .
 rsx.afterpay.com CNAME .
 rt.wisecartapp.com CNAME .
+rtp.mypos.com CNAME .
 rttm.uniondigitalbank.co CNAME .
 rttm.uniondigitalbank.io CNAME .
 rvw.connection.com CNAME .

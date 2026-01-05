@@ -9,6 +9,7 @@
 * form.bp01.net
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
+* tr1.bp06.net
 
 ## Cloaking domains
 
@@ -27,6 +28,7 @@
 | s.gemy.fr | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
+| tr1.bp26.net | tr1.bp06.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
@@ -1229,7 +1231,6 @@
 | tr.zojh.espmp-aluk.net | tracking.bp01.net |
 | tr1.bp06.net | tracking.bp01.net |
 | tr1.bp09.net | tracking.bp01.net |
-| tr1.bp26.net | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.lr001.net | tracking.bp01.net |
 | tr1.lr002.net | tracking.bp01.net |

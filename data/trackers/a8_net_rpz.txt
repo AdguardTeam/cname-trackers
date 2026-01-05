@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -132,7 +132,6 @@ a8.gensenwedding.jp CNAME .
 a8.geo-online.co.jp CNAME .
 a8.global-mobility-service.com CNAME .
 a8.gme.co.jp CNAME .
-a8.gofood.jp CNAME .
 a8.golfland.co.jp CNAME .
 a8.gtm.co.jp CNAME .
 a8.guardian-mp.aerial-p.com CNAME .
@@ -1440,7 +1439,6 @@ aff.carefromtoday.com CNAME .
 affa8.hikkoshi-master.com CNAME .
 afficv.lettuce.co.jp CNAME .
 affiliate.couleur-labo.com CNAME .
-affiliate.dietician-family.jp CNAME .
 affiliate.htb-energy.co.jp CNAME .
 affiliate.k-uno.co.jp CNAME .
 affiliate.kgcshop.jp CNAME .

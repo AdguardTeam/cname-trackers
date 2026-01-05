@@ -4,7 +4,6 @@
 ||003c4786c3.fee9cd19e4.com^
 ||017ac254b5.200729a311.com^
 ||02833a52b8.9d611c2d8a.com^
-||02e1861931.35e5a40cf1.com^
 ||039ff33996.ba2448462a.com^
 ||040f090395.b76d324ae6.com^
 ||0446b5647b.61847b1398.com^
@@ -104,6 +103,7 @@
 ||4fcf35f493.079e158914.com^
 ||5001bc8756.6ef14e40a9.com^
 ||51a66f8059.ce0a43500c.com^
+||5222715cac.ad3177d7af.com^
 ||52f79b55a7.93febf18c6.com^
 ||52fd9f7fa7.e65303ab96.com^
 ||536a1baec3.b594cb3a32.com^
@@ -117,7 +117,6 @@
 ||5e0c677015.717d165445.com^
 ||60537d5324.94ea40fd7b.com^
 ||60cedb9d45.c959924432.com^
-||60d27b4251.8ce997f25e.com^
 ||621ffb6675.1b9e934cbd.com^
 ||624db12064.84bce4ac2c.com^
 ||62e6e53c95.5fe1b3e7d5.com^
@@ -147,7 +146,6 @@
 ||7b04ae1dbf.bb1b9b8ea2.com^
 ||7b26070d7b.68d48e2725.com^
 ||7c9edd89e2.5fbc7e29cd.com^
-||7efa876ad4.d0abc3646f.com^
 ||7fbe7b63e4.abfd9d8ecc.com^
 ||8139917f5a.342ef7c20e.com^
 ||8309b4c5f6.602e6a55fb.com^
@@ -226,6 +224,7 @@
 ||c2a0609d8f.92d31be64a.com^
 ||c3dc092e5d.e365275045.com^
 ||c42d357c54.8d310a6a39.com^
+||c45dcfd6d0.d6c001d60e.com^
 ||c56b030151.fe17ba9b40.com^
 ||c6a4712ab6.91562f6de0.com^
 ||c8fbd6515f.9fe0bb9836.com^
@@ -258,7 +257,6 @@
 ||e13f2982ee.4302118d1a.com^
 ||e2c6b3d8b9.0c5351790d.com^
 ||e39b870a84.d59419bbc9.com^
-||e495ca26f4.3322885ad1.com^
 ||e4f2928e49.0c289f53bc.com^
 ||e50dc6ad27.ca7d0bd322.com^
 ||e6499697e6.d97d3231b2.com^
@@ -269,7 +267,6 @@
 ||eb3b8e52b4.cfbfc6fdd4.com^
 ||ecc5d408df.18e6f131f9.com^
 ||ecc8bbe06b.85c09cb0ed.com^
-||ed29a8f5c3.7d99fa5a16.com^
 ||ed8cd90429.edc0ff6308.com^
 ||ee5a001075.b0d7f51bf7.com^
 ||ef16276d05.22a008da69.com^
@@ -284,11 +281,9 @@
 ||f476f3ffa9.eb1536c76c.com^
 ||f61f3c327f.55b6be9d8f.com^
 ||f66b42fd48.a568e472d6.com^
-||f74e368347.ec754d917d.com^
 ||f750ee9153.c016784ae0.com^
 ||f82e465fc3.538d99dc8d.com^
 ||f847dacf54.c3ee303367.com^
-||f8938ba05c.2ec5aba168.com^
 ||f8e5667895.88102fb3ae.com^
 ||fa9dc0e7bb.f587cad87f.com^
 ||fbbe4ece23.92540760ee.com^
@@ -301,7 +296,6 @@
 ||i.selecttopoff.com^
 ||i.statelinear.com^
 ||share.ntv.io^
-||shared.sponsoredcontent.com^
 ||a135.fox23.com^
 ||a135.wftv.com^
 ||a135.wpxi.com^
@@ -354,6 +348,7 @@
 ||pressdemocrat.share.ntv.io^
 ||sanduskyregister.share.ntv.io^
 ||saveur.share.ntv.io^
+||shared.sponsoredcontent.com^
 ||si.share.ntv.io^
 ||silive.share.ntv.io^
 ||smosh.share.ntv.io^

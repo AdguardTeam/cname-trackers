@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1766995208959        ; Serial
+           1767600008788        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -167,7 +167,6 @@ mytrd.orion.at CNAME .
 node.juve.de CNAME .
 pse.gabor.com CNAME .
 ric.arrive-im-herzogpark.de CNAME .
-ric.contur-muenchen.de CNAME .
 ric.riedel-immobilien.de CNAME .
 ric.seeleben-starnbergersee.de CNAME .
 salzburg.semsea.at CNAME .
@@ -325,6 +324,7 @@ webctrl.dalimed.de CNAME .
 webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
+webstt0011.onofficeom.com CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
 webtrack.lotto-thueringen.de CNAME .

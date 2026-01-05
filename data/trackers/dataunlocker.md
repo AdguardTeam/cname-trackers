@@ -4,6 +4,7 @@
 
 * dataunlocker.com
     * smartproxy.dataunlocker.com
+    * yipdcyfffizy.ddns.dataunlocker.com
 * monopoly-drain.ga
 * friendly-community.tk
 
@@ -137,3 +138,4 @@
 | ysrrzgku6tar.us.themoneytizer.com | smartproxy.dataunlocker.com |
 | z3617cz9ep.fitness.tappbrothers.com | smartproxy.dataunlocker.com |
 | zkmhhr1fr79z.dictionary.basabali.org | smartproxy.dataunlocker.com |
+| 9uim1pc4ej4n.ru.themoneytizer.com | yipdcyfffizy.ddns.dataunlocker.com |

@@ -102,7 +102,6 @@
     * maple.goatcounter.com
     * mausoleum.goatcounter.com
     * meestermac.goatcounter.com
-    * mele.goatcounter.com
     * merrelldev.goatcounter.com
     * mindenugyved.goatcounter.com
     * mine.goatcounter.com
@@ -110,7 +109,6 @@
     * msol.goatcounter.com
     * neverhill.goatcounter.com
     * ngdangtu.goatcounter.com
-    * nhimmeo.goatcounter.com
     * niravraval.goatcounter.com
     * noscirep.goatcounter.com
     * novi.goatcounter.com
@@ -122,9 +120,7 @@
     * psiyum.goatcounter.com
     * qrdate.goatcounter.com
     * r18.goatcounter.com
-    * radiomax.goatcounter.com
     * repath-studio.goatcounter.com
-    * riccardomurachelli.goatcounter.com
     * riggraz.goatcounter.com
     * risanne.goatcounter.com
     * rocketgoboom.goatcounter.com
@@ -275,7 +271,6 @@
 | st.mapleranks.com | maple.goatcounter.com |
 | stats.mausoleum.me | mausoleum.goatcounter.com |
 | api.meestermac.nl | meestermac.goatcounter.com |
-| stats.mele.dev | mele.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
 | analytics.brandsistency.com | mine.goatcounter.com |
@@ -286,7 +281,6 @@
 | stats.msol.io | msol.goatcounter.com |
 | goat.neverhill.net | neverhill.goatcounter.com |
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
-| goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
 | stats.niravraval.com | niravraval.goatcounter.com |
 | gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
@@ -298,9 +292,7 @@
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
 | stats.r18.dev | r18.goatcounter.com |
-| stats.tramax.com.ar | radiomax.goatcounter.com |
 | analytics.repath.studio | repath-studio.goatcounter.com |
-| stats.riccardomurachelli.it | riccardomurachelli.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.risanne.nl | risanne.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
