@@ -48,6 +48,7 @@
 ||estats.globus.de^
 ||et.akademie-handel.de^
 ||et.alphalas.com^
+||et.asb-academy.ch^
 ||et.bleibwacker.com^
 ||et.corpuls.hospital^
 ||et.corpuls.world^
@@ -56,6 +57,7 @@
 ||et.electronic4you.de^
 ||et.electronic4you.hr^
 ||et.electronic4you.si^
+||et.equiva.com^
 ||et.go-kmu.de^
 ||et.goal-based.investments^
 ||et.immobilien-strobl.de^
@@ -119,6 +121,7 @@
 ||go.eitrmsummit.com^
 ||go.kik.de^
 ||gruenten.agrar-fachversand.com^
+||gruenten.wahl-agri.it^
 ||gus.corinnavondermuehlen.de^
 ||insides.honic.eu^
 ||insights.bertelsmann-stiftung.de^
@@ -127,6 +130,7 @@
 ||lolly.needforsweet.de^
 ||maschine.bengs-modellbau.de^
 ||mensch.ekd.de^
+||met.hanser-kundencenter.de^
 ||met.hanser-literaturverlage.de^
 ||meter.rhinobag.de^
 ||metrics.bauwerk.de^
@@ -136,6 +140,8 @@
 ||metrics.energetix.tv^
 ||metrics.go-jugendreisen.de^
 ||metrics.greatvita.de^
+||metrics.gutskueche.de^
+||metrics.iqcheck24.de^
 ||metrics.leimer.de^
 ||metrics.mammutmarsch.de^
 ||metrics.meineversicherungswelt.de^
@@ -153,6 +159,9 @@
 ||monitoring.medizinbedarf.eu^
 ||monitoring.paw-wow.de^
 ||mytrd.orion.at^
+||node.azur-online.de^
+||node.juve-patent.com^
+||node.juve-steuermarkt.de^
 ||node.juve.de^
 ||pse.gabor.com^
 ||ric.arrive-im-herzogpark.de^
@@ -177,6 +186,7 @@
 ||stats.eliveshop.de^
 ||stats.folienmarkt.de^
 ||stats.hilscher.com^
+||stats.hotel-haus-norderney.de^
 ||stats.inselloft-norderney.de^
 ||stats.kaerntnerjobs.at^
 ||stats.krauss-gmbh.com^
@@ -216,6 +226,7 @@
 ||tracking.anthonys.at^
 ||tracking.chio.hu^
 ||tracking.gruener-soelden.com^
+||tracking.lanxess.com^
 ||tracking.mediengewerk.de^
 ||tracking.ostsee-resort-dampland.de^
 ||tracking.terrassenhof.de^
@@ -223,6 +234,7 @@
 ||trkker.wearelean.com^
 ||trkkr.bugatti-media.com^
 ||trkkr.bugatti-newsroom.com^
+||trx01.ffg.at^
 ||uezeus.ueberbit.de^
 ||umerf.fernerblick.at^
 ||umerf.reisprinzen.de^
@@ -243,6 +255,7 @@
 ||wctr.scaleup-fulfillment.de^
 ||wctr.sus-architekten-muenster.de^
 ||wctr.vitanova-kliniken.de^
+||wd.classicseller.de^
 ||web.satiata-med.de^
 ||web.sihl-direct.de^
 ||webanalytics.pwc.fr^
@@ -260,18 +273,21 @@
 ||webcontr.chiptuning.com^
 ||webcontr.crazy-heels.com^
 ||webcontr.distrebution.com^
+||webcontr.domondo.es^
 ||webcontr.domondo.fr^
 ||webcontr.domondo.it^
 ||webcontr.domondo.pl^
 ||webcontr.epig-media.de^
 ||webcontr.fsj-digital-bw.de^
 ||webcontr.genius.tv^
+||webcontr.haferloewe.de^
 ||webcontr.holzgestein.com^
 ||webcontr.ib-kc.de^
 ||webcontr.in-akustik.de^
 ||webcontr.jalousiescout.at^
 ||webcontr.jalousiescout.de^
 ||webcontr.kabelschuhe-shop.de^
+||webcontr.kindergartenbedarf-haidig.de^
 ||webcontr.kitchen-concept.de^
 ||webcontr.kontor4.de^
 ||webcontr.l.de^
@@ -287,6 +303,7 @@
 ||webcontr.parax.de^
 ||webcontr.patrick-wentzel.de^
 ||webcontr.pedalbox.com^
+||webcontr.pegasus-actuators.com^
 ||webcontr.reisprinzen.de^
 ||webcontr.rheinenergie.com^
 ||webcontr.rollytoys.de^
@@ -313,9 +330,14 @@
 ||webstats.arbeitskleidung-expert.de^
 ||webstats.hutdirekt.de^
 ||webstats.kawentsmann.de^
+||webstt0004.onofficeom.com^
 ||webstt0011.onofficeom.com^
+||webstt0016.onofficeom.com^
+||webstt0019.onofficeom.com^
+||webstt0020.onofficeom.com^
 ||webtr.codearchitekten.de^
 ||webtr.dachser.com^
+||webtr.regisafe.de^
 ||webtrack.lotto-thueringen.de^
 ||weco.gasteo.de^
 ||weco.ilon.de^
@@ -325,6 +347,7 @@
 ||www2.faxverteiler.com^
 ||www3.faxsuite.de^
 ||yogi.snuffland.de^
+||zahlenbitte.jmwiarda.de^
 ||esub.akkusys.de^
 ||et.juskys.de^
 ||stats.ekd.de^

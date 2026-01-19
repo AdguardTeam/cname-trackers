@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -322,7 +322,6 @@ ebistoppan5.kyowahakko-bio-healthcare.jp CNAME .
 ebistoppan6.kyowahakko-bio-campaign3.com CNAME .
 ebisu.saison-am.co.jp CNAME .
 emc.dr-stick.shop CNAME .
-euglism.euglenaone.jp CNAME .
 frontierconsul02.tsunagaru-office.com CNAME .
 greenjapan-cname.green-japan.com CNAME .
 hokkaidobank.rapi.jp CNAME .

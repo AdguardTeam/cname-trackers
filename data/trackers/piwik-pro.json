@@ -22,10 +22,12 @@
   "inzicht.cz.nl": "pp-public-p-euw.piwik.pro",
   "logfiles.storck.com": "pp-public-p-gwc.piwik.pro",
   "mphdd.multipharma.be": "public-p-swe2.piwik.pro",
+  "p-k.kuka.com": "pp-public-p-euw.piwik.pro",
   "p-pan.triodos.com": "pp-public-p-euw.piwik.pro",
   "p.zwilling.com": "pp-public-p-gwc.piwik.pro",
   "piwik.com-online.com": "pp-public-p-gwc.piwik.pro",
   "piwik.eib.org": "pp-public-p-euw.piwik.pro",
+  "piwik.eif.org": "pp-public-p-euw.piwik.pro",
   "piwik.slotsparadise.com": "pp-public-p-euw.piwik.pro",
   "piwik.twyzle.com": "uninstalled.piwik.pro",
   "piwik.vegasaces.com": "pp-public-p-euw.piwik.pro",
@@ -49,9 +51,9 @@
   "tag2.uwv.nl": "pp-public-p-euw.piwik.pro",
   "tagadmin.aumago.com": "pp-public-p-gwc.piwik.pro",
   "tagmanager.becop.nl": "pp-koop-p-euw.piwik.pro",
-  "wa.love2play.com": "pp-public-p-gwc.piwik.pro",
-  "wa.mybookie.ag": "pp-public-p-gwc.piwik.pro",
-  "wa.xbet.ag": "pp-public-p-gwc.piwik.pro",
+  "wa.love2play.com": "uninstalled.piwik.pro",
+  "wa.mybookie.ag": "uninstalled.piwik.pro",
   "webanalytics.helen.fi": "pp-public-p-euw.piwik.pro",
-  "www.webanalytics.europa.eu": "ec-prod-infra.piwik.pro"
+  "www.webanalytics.europa.eu": "ec-prod-infra.piwik.pro",
+  "www.webengage.ae": "pp-public-p-uan.piwik.pro"
 }

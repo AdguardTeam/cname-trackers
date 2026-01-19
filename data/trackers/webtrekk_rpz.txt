@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -85,6 +85,7 @@ data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
 data.news.juventus.com CNAME .
+data.newsletter.iqstudentaccommodation.com CNAME .
 data.obermain.de CNAME .
 data.vdi-wissensforum.de CNAME .
 data.velivery.com CNAME .
@@ -306,6 +307,7 @@ web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
+web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.absurdbeauty.com CNAME .
 web.news.bottegaverde.com CNAME .
@@ -402,4 +404,3 @@ wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
 www.a.jaz-hotel.com CNAME .
-web.marketing.jellybelly.com CNAME .

@@ -6,6 +6,7 @@
 1ctc.sfr.fr
 2efj.economies.cheque-dejeuner.com
 2efj.up.coop
+3esm.consubebe.es
 66jo.societegenerale.fr
 6pal.consobaby.com
 6swu.cpa-france.org
@@ -46,12 +47,12 @@ ar.allrun.fr
 ar.i-run.fr
 axb4.vivabox.it
 azg1.emalu-store.com
+b1n.carabins.umontreal.ca
 bch8.destinia.co
 bdj5.terrassesmontecarlosbm.com
 bft5.destinia.fr
 bja2.destinia.cz
 bk.brookeo.fr
-blog.tagcentral.fr
 bn.voyage-prive.com
 bpe2.destinia.co.il
 bum7.bymycar.fr
@@ -76,7 +77,6 @@ cyf9.destinia.cl
 d62e9cfa.eulerian.io
 da85edd2.eulerian.io
 de48cadb.eulerian.io
-deut1.fdj.fr
 deut2.fdj.fr
 deut3.fdj.fr
 dko.vente-unique.nl
@@ -169,6 +169,7 @@ ea.voyage-prive.co.uk
 ea.voyage-prive.es
 ea.voyage-prive.it
 ea.warnerbros.fr
+eat9.thebeat925.ca
 eb.mistermenuiserie.com
 ef.futuroscope.com
 ef.futuroscope.mobi
@@ -176,12 +177,9 @@ efbdcd3b.eulerian.io
 eit3.destinia.nl
 ek8.voyage-prive.com
 elr.sfr.fr
-erdev5.eulerian.io
-erdev7.eulerian.io
 ert5.rmcsport.tv
 et.futuroscope.com
 et.sncf.com
-et1.eulerian.io
 eule1.pmu.fr
 eule3.pmu.fr
 eule4.pmu.fr
@@ -197,6 +195,7 @@ eulerian.eveiletjeux.com
 eulerian.homebox-suisse.ch
 eulerian.look-voyages.fr
 eulerian.maison-facile.com
+eulerian.malakoffmederic.com
 eulerian.mathon.fr
 eulerian.monoprix.fr
 eulerian.oxybul.com
@@ -250,6 +249,7 @@ hbo5.concours-pass.com
 hby7.destinia.it
 hde1.repentignychevrolet.com
 hgf4.zanzicar.fr
+hk2d.tourismemauricie.com
 idg1.idgarages.com
 igc0.destinia.at
 inv3te.oui.sncf
@@ -264,6 +264,7 @@ jhm3.ifgexecutive.com
 jo2f.cheque-cadhoc.fr
 kep6.destinia.ie
 kwsjy9.oui.sncf
+l2i.qualityinnlevis.com
 lbc.lesbonscommerces.fr
 leo1.leon-de-bruxelles.fr
 let1.devialet.com
@@ -301,6 +302,7 @@ ni8.lafuma.com
 nlf6.vente-unique.pl
 nmu3.destinia.be
 noa0.compteczam.fr
+nqsm.medicus.ca
 nrg.red-by-sfr.fr
 nyt1.biosens-leanature.fr
 o35e79f2.eulerian.io
@@ -388,6 +390,7 @@ t.locasun.co.uk
 t.locasun.fr
 t.pmu.fr
 t.voyages-sncf.com
+t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tdf1.easyviaggio.com
@@ -430,7 +433,6 @@ wlp3.aegon.es
 wnd2.destinia.cat
 wph2.destinia.us
 wqs4.destinia.pt
-www.admanager.fr
 www.attribution-day.com
 www.attributionday.com
 www.dataholics.tech
@@ -438,6 +440,7 @@ www.eulerian.ch
 www.eulerian.cloud
 www.fasttrack.fr
 www.fasttracker.fr
+www.mis.tourisme-montreal.org
 xay5o.toscane-boutique.fr
 xjq5.belambra.be
 xoq.pmubrasil.com.br
@@ -459,21 +462,15 @@ zsi7.destinia.do
 zum7cc.oui.sncf
 zyq2.destinia.sk
 5fm.985fm.ca
-b1n.carabins.umontreal.ca
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
 d0f.le-dauphin.com
 d2u.dauphinquebec.com
-eat9.thebeat925.ca
 erb.tremblant.ca
-hk2d.tourismemauricie.com
-l2i.qualityinnlevis.com
 nym5c.bonlook.com
 rwl.tremblant.ca
 ry0.rythmefm.com
 su1.les-suites.ca
-t0y.toyota.ca
-www.mis.tourisme-montreal.org
 yio.tremblant.ca
 ea.mnt.fr
 gi7a.structube.com

@@ -21,6 +21,7 @@ serving.greeter.lat
 serving.laimroll.ru
 serving.lookverin.com
 serving.mmmedia-group.com
+serving.omegalive.com.cy
 serving.platformance.io
 serving.profitsence.com
 serving.srmg.com

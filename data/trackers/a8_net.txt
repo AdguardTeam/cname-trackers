@@ -26,6 +26,7 @@
 ||a8.aniera.jp^
 ||a8.anipos.com^
 ||a8.aphex-group.com^
+||a8.application2.jtca2020.or.jp^
 ||a8.arrrt-shop.com^
 ||a8.asdf.co.jp^
 ||a8.au-hikarinet.com^
@@ -415,7 +416,6 @@
 ||a8clk.bikeman.jp^
 ||a8clk.biken-mall.com^
 ||a8clk.biomarche.jp^
-||a8clk.birai-cm.com^
 ||a8clk.biz-communication.jp^
 ||a8clk.bizworkers.jp^
 ||a8clk.blastmail.jp^
@@ -1295,6 +1295,7 @@
 ||a8cv.worx.jp^
 ||a8cv.www.bedstyle.jp^
 ||a8cv.www.bigability.co.jp^
+||a8cv.www.bitlock.jp^
 ||a8cv.www.chara-ani.com^
 ||a8cv.www.club-sincerite.co.jp^
 ||a8cv.www.covearth.co.jp^
@@ -1469,7 +1470,6 @@
 ||cv.belta-shop.jp^
 ||cv.betrading.jp^
 ||cv.bloomeelife.com^
-||cv.cante-gym.com^
 ||cv.classmall.jp^
 ||cv.codecamp.jp^
 ||cv.colleize.com^
@@ -1565,7 +1565,6 @@
 ||sub.turningpoint.work^
 ||summary.bookoffonline.co.jp^
 ||sync-a8.cocolocala.jp^
-||t6g.futurizm.jp^
 ||tag.minimaid.co.jp^
 ||test.shigoto-web.com^
 ||test.zeus-wifi.jp^

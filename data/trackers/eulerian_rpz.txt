@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ $TTL 300
 1ctc.sfr.fr CNAME .
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
+3esm.consubebe.es CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -57,12 +58,12 @@ ar.allrun.fr CNAME .
 ar.i-run.fr CNAME .
 axb4.vivabox.it CNAME .
 azg1.emalu-store.com CNAME .
+b1n.carabins.umontreal.ca CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
 bja2.destinia.cz CNAME .
 bk.brookeo.fr CNAME .
-blog.tagcentral.fr CNAME .
 bn.voyage-prive.com CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
@@ -87,7 +88,6 @@ cyf9.destinia.cl CNAME .
 d62e9cfa.eulerian.io CNAME .
 da85edd2.eulerian.io CNAME .
 de48cadb.eulerian.io CNAME .
-deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
 deut3.fdj.fr CNAME .
 dko.vente-unique.nl CNAME .
@@ -180,6 +180,7 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
+eat9.thebeat925.ca CNAME .
 eb.mistermenuiserie.com CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -187,12 +188,9 @@ efbdcd3b.eulerian.io CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
-erdev5.eulerian.io CNAME .
-erdev7.eulerian.io CNAME .
 ert5.rmcsport.tv CNAME .
 et.futuroscope.com CNAME .
 et.sncf.com CNAME .
-et1.eulerian.io CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
 eule4.pmu.fr CNAME .
@@ -208,6 +206,7 @@ eulerian.eveiletjeux.com CNAME .
 eulerian.homebox-suisse.ch CNAME .
 eulerian.look-voyages.fr CNAME .
 eulerian.maison-facile.com CNAME .
+eulerian.malakoffmederic.com CNAME .
 eulerian.mathon.fr CNAME .
 eulerian.monoprix.fr CNAME .
 eulerian.oxybul.com CNAME .
@@ -261,6 +260,7 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 hde1.repentignychevrolet.com CNAME .
 hgf4.zanzicar.fr CNAME .
+hk2d.tourismemauricie.com CNAME .
 idg1.idgarages.com CNAME .
 igc0.destinia.at CNAME .
 inv3te.oui.sncf CNAME .
@@ -275,6 +275,7 @@ jhm3.ifgexecutive.com CNAME .
 jo2f.cheque-cadhoc.fr CNAME .
 kep6.destinia.ie CNAME .
 kwsjy9.oui.sncf CNAME .
+l2i.qualityinnlevis.com CNAME .
 lbc.lesbonscommerces.fr CNAME .
 leo1.leon-de-bruxelles.fr CNAME .
 let1.devialet.com CNAME .
@@ -312,6 +313,7 @@ ni8.lafuma.com CNAME .
 nlf6.vente-unique.pl CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
+nqsm.medicus.ca CNAME .
 nrg.red-by-sfr.fr CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o35e79f2.eulerian.io CNAME .
@@ -399,6 +401,7 @@ t.locasun.co.uk CNAME .
 t.locasun.fr CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
+t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -441,7 +444,6 @@ wlp3.aegon.es CNAME .
 wnd2.destinia.cat CNAME .
 wph2.destinia.us CNAME .
 wqs4.destinia.pt CNAME .
-www.admanager.fr CNAME .
 www.attribution-day.com CNAME .
 www.attributionday.com CNAME .
 www.dataholics.tech CNAME .
@@ -449,6 +451,7 @@ www.eulerian.ch CNAME .
 www.eulerian.cloud CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
+www.mis.tourisme-montreal.org CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
 xoq.pmubrasil.com.br CNAME .
@@ -470,21 +473,15 @@ zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 5fm.985fm.ca CNAME .
-b1n.carabins.umontreal.ca CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
 d2u.dauphinquebec.com CNAME .
-eat9.thebeat925.ca CNAME .
 erb.tremblant.ca CNAME .
-hk2d.tourismemauricie.com CNAME .
-l2i.qualityinnlevis.com CNAME .
 nym5c.bonlook.com CNAME .
 rwl.tremblant.ca CNAME .
 ry0.rythmefm.com CNAME .
 su1.les-suites.ca CNAME .
-t0y.toyota.ca CNAME .
-www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .

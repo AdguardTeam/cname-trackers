@@ -95,6 +95,7 @@
     * law-tmchippewa-com.goatcounter.com
     * law-umitribe-org.goatcounter.com
     * lco-nsn-us-open-law.goatcounter.com
+    * lena-binkowski.goatcounter.com
     * linerly.goatcounter.com
     * localhosed.goatcounter.com
     * lspeed.goatcounter.com
@@ -135,6 +136,7 @@
     * skeetstats.goatcounter.com
     * slade.goatcounter.com
     * storydragon.goatcounter.com
+    * studiodeerenberg.goatcounter.com
     * szorty.goatcounter.com
     * tailspace.goatcounter.com
     * tbx.goatcounter.com
@@ -264,6 +266,7 @@
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
 | analytics.law.umitribe.org | law-umitribe-org.goatcounter.com |
 | analytics.law.lco-nsn.gov | lco-nsn-us-open-law.goatcounter.com |
+| stats.lena-binkowski.de | lena-binkowski.goatcounter.com |
 | stats.linerly.xyz | linerly.goatcounter.com |
 | stats.svc.lol | localhosed.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
@@ -307,6 +310,7 @@
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
 | dot-com-stats.sladewatkins.net | slade.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
+| stats.studiodeerenberg.nl | studiodeerenberg.goatcounter.com |
 | stats.szorty.space | szorty.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
 | gc.tbx.at | tbx.goatcounter.com |

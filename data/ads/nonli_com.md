@@ -104,6 +104,7 @@
 | l.dzfoot.com | tls.non.li |
 | l.e-sante.fr | tls.non.li |
 | l.easyvoyage.com | tls.non.li |
+| l.echo-des-tribunes.com | tls.non.li |
 | l.echoancenis.fr | tls.non.li |
 | l.echoduberry.fr | tls.non.li |
 | l.eclypsia.com | tls.non.li |
@@ -196,6 +197,7 @@
 | l.lequotidiendelart.com | tls.non.li |
 | l.lesnumeriques.com | tls.non.li |
 | l.lest-eclair.fr | tls.non.li |
+| l.letarnlibre.com | tls.non.li |
 | l.letemps.ch | tls.non.li |
 | l.leveil.fr | tls.non.li |
 | l.lexpress.fr | tls.non.li |
@@ -203,6 +205,7 @@
 | l.liberation-champagne.fr | tls.non.li |
 | l.lindependant.fr | tls.non.li |
 | l.linfoauquotidien.com | tls.non.li |
+| l.linsoliteauquotidien.com | tls.non.li |
 | l.lunion.fr | tls.non.li |
 | l.lyonne.fr | tls.non.li |
 | l.madmoizelle.com | tls.non.li |
@@ -257,9 +260,11 @@
 | l.reporterre.net | tls.non.li |
 | l.revue21.fr | tls.non.li |
 | l.rmc.fr | tls.non.li |
+| l.rmcbfmplay.com | tls.non.li |
 | l.rmcsport.fr | tls.non.li |
 | l.roole.fr | tls.non.li |
 | l.rtl.fr | tls.non.li |
+| l.rue89lyon.fr | tls.non.li |
 | l.rue89strasbourg.com | tls.non.li |
 | l.rugbyrama.fr | tls.non.li |
 | l.science-et-vie.com | tls.non.li |

@@ -113,6 +113,7 @@
     * 487143832382979.wt-eu02.net
     * 489164258023327.wt-eu02.net
     * 492778793747615.wt-eu02.net
+    * 495967780350059.wt-eu02.net
     * 516595732855224.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 545460378195639.wt-eu02.net
@@ -145,6 +146,7 @@
     * 709114798683263.wt-eu02.net
     * 724547646438858.wt-eu02.net
     * 725569110638965.wt-eu02.net
+    * 727194796592392.wt-eu02.net
     * 728252369996325.wt-eu02.net
     * 729347163621496.wt-eu02.net
     * 734297997850272.wt-eu02.net
@@ -368,6 +370,7 @@
 | web.news.coccinelle.com | 487143832382979.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
 | web.news.absurdbeauty.com | 492778793747615.wt-eu02.net |
+| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | web2.updates.ditano.com | 516595732855224.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
@@ -402,6 +405,7 @@
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |
 | web.campaign.miriade.com | 724547646438858.wt-eu02.net |
 | web.mailing.morawa.at | 725569110638965.wt-eu02.net |
+| data.newsletter.iqstudentaccommodation.com | 727194796592392.wt-eu02.net |
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
 | web.info.varelotteriet.dk | 734297997850272.wt-eu02.net |

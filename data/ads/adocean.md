@@ -16,7 +16,6 @@
     * rs.adocean.pl
     * tvn.adocean.pl
     * tvp.adocean.pl
-    * webgroundbg.adocean.pl
 
 ## Cloaking domains
 
@@ -58,4 +57,3 @@
 | ocean.gigatron.rs | rs.adocean.pl |
 | recontent.services.tvn.pl | tvn.adocean.pl |
 | ads.tvp.pl | tvp.adocean.pl |
-| a.actualno.com | webgroundbg.adocean.pl |

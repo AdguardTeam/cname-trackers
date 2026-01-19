@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ a8.andethic.com CNAME .
 a8.aniera.jp CNAME .
 a8.anipos.com CNAME .
 a8.aphex-group.com CNAME .
+a8.application2.jtca2020.or.jp CNAME .
 a8.arrrt-shop.com CNAME .
 a8.asdf.co.jp CNAME .
 a8.au-hikarinet.com CNAME .
@@ -426,7 +427,6 @@ a8clk.beyondborders.jp CNAME .
 a8clk.bikeman.jp CNAME .
 a8clk.biken-mall.com CNAME .
 a8clk.biomarche.jp CNAME .
-a8clk.birai-cm.com CNAME .
 a8clk.biz-communication.jp CNAME .
 a8clk.bizworkers.jp CNAME .
 a8clk.blastmail.jp CNAME .
@@ -1306,6 +1306,7 @@ a8cv.world-goods.online CNAME .
 a8cv.worx.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
 a8cv.www.bigability.co.jp CNAME .
+a8cv.www.bitlock.jp CNAME .
 a8cv.www.chara-ani.com CNAME .
 a8cv.www.club-sincerite.co.jp CNAME .
 a8cv.www.covearth.co.jp CNAME .
@@ -1480,7 +1481,6 @@ cv.bc-force.com CNAME .
 cv.belta-shop.jp CNAME .
 cv.betrading.jp CNAME .
 cv.bloomeelife.com CNAME .
-cv.cante-gym.com CNAME .
 cv.classmall.jp CNAME .
 cv.codecamp.jp CNAME .
 cv.colleize.com CNAME .
@@ -1576,7 +1576,6 @@ sub.ecd.bookoffonline.co.jp CNAME .
 sub.turningpoint.work CNAME .
 summary.bookoffonline.co.jp CNAME .
 sync-a8.cocolocala.jp CNAME .
-t6g.futurizm.jp CNAME .
 tag.minimaid.co.jp CNAME .
 test.shigoto-web.com CNAME .
 test.zeus-wifi.jp CNAME .

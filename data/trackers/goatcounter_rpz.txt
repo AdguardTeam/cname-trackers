@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -135,6 +135,7 @@ stats.konfou.xyz CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
 stats.kwanok.me CNAME .
+stats.lena-binkowski.de CNAME .
 stats.linerly.xyz CNAME .
 stats.lspeed.org CNAME .
 stats.matteocroce.it CNAME .
@@ -156,6 +157,7 @@ stats.ryanchmelir.com CNAME .
 stats.sebastianzehner.com CNAME .
 stats.semipol.de CNAME .
 stats.shurimp.com CNAME .
+stats.studiodeerenberg.nl CNAME .
 stats.svc.lol CNAME .
 stats.szorty.space CNAME .
 stats.tdurand.com CNAME .

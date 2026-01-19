@@ -124,6 +124,7 @@ stats.konfou.xyz
 stats.ksmets.be
 stats.ksr.onl
 stats.kwanok.me
+stats.lena-binkowski.de
 stats.linerly.xyz
 stats.lspeed.org
 stats.matteocroce.it
@@ -145,6 +146,7 @@ stats.ryanchmelir.com
 stats.sebastianzehner.com
 stats.semipol.de
 stats.shurimp.com
+stats.studiodeerenberg.nl
 stats.svc.lol
 stats.szorty.space
 stats.tdurand.com

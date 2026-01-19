@@ -75,6 +75,7 @@ l.dordognelibre.fr
 l.dzfoot.com
 l.e-sante.fr
 l.easyvoyage.com
+l.echo-des-tribunes.com
 l.echoancenis.fr
 l.echoduberry.fr
 l.eclypsia.com
@@ -169,6 +170,7 @@ l.lequipe.fr
 l.lequotidiendelart.com
 l.lesnumeriques.com
 l.lest-eclair.fr
+l.letarnlibre.com
 l.letemps.ch
 l.leveil.fr
 l.lexpress.fr
@@ -176,6 +178,7 @@ l.lhebdoduvendredi.com
 l.liberation-champagne.fr
 l.lindependant.fr
 l.linfoauquotidien.com
+l.linsoliteauquotidien.com
 l.lunion.fr
 l.lyonne.fr
 l.madmoizelle.com
@@ -234,9 +237,11 @@ l.radiofrance.fr
 l.reporterre.net
 l.revue21.fr
 l.rmc.fr
+l.rmcbfmplay.com
 l.rmcsport.fr
 l.roole.fr
 l.rtl.fr
+l.rue89lyon.fr
 l.rue89strasbourg.com
 l.rugbyrama.fr
 l.science-et-vie.com

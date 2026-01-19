@@ -5,6 +5,8 @@
 4652415544.balancecredit.com
 a574f3c3.raylo.com
 abfrage.etakenya.go.ke
+account.ezpassoh.com
+accountm.myflfamilies.com
 acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 adprtm53.cardgold.it
@@ -119,6 +121,7 @@ appscore.credilike.me
 argospay-tmx-content.argos.co.uk
 asanalytics.booking.com
 assessment.nj.betmgm.com
+asset.nomura.co.jp
 assets.harlandclarke.com
 assets.signup.ifxpayments.com
 assets.werally.co
@@ -255,12 +258,13 @@ checkout-df.lululemon.com
 checkout.walz.de
 cib.currency.lloydsbank.com
 cim-idc-cdn.account.bcbsil.com
+cim-idc-cdn.account.bcbsnm.com
 cim-idc-cdn.account.bcbstx.com
 claimant.vec.virginia.gov
 clear.wallapop.com
-client.online.sandyspringbank.com
 clovergo.june-testing.firstdata.com
 cmprofile.cards.citidirect.com
+cnt.dllpayment.com
 cnt.faktoria.pl
 cnt.patpat.com
 cnt.redotpay.net
@@ -290,12 +294,14 @@ content.atmosphere.ca
 content.b-social.io
 content.backend-capital.com
 content.bank-abc.com
+content.bank.ikano
 content.bankoncit.com
 content.benefitsaccess.org
 content.berluti.com
 content.biggerbooks.com
 content.billdomain.com
 content.billsupport.com
+content.bnl.it
 content.bnpparibas.net
 content.byabcd.com
 content.canadiantire.ca
@@ -567,6 +573,7 @@ elevate.stg.na02.aws.ballys.tech
 enligne.bnc.ca
 ep-content.patento.pl
 ep-content.vivigo.pl
+ep-content.viviraty.pl
 ep.heartland.co.nz
 ep.vystarcu.org
 eps.uprova.com
@@ -1012,6 +1019,7 @@ security.vanquis.com
 service.riverscontent.com
 services-tmx.cofidis.cz
 servicesdp.luckydays.ca
+servicesdp.spinaway.ca
 sess.vippreferred.com
 sfp.intuit.com
 sg-payment.cydf.hoyoverse.com
@@ -1149,6 +1157,7 @@ tm.betano.bg
 tm.betano.ca
 tm.betano.co
 tm.betano.com
+tm.betano.com.gh
 tm.betano.cz
 tm.betano.de
 tm.betano.dk
@@ -1198,6 +1207,7 @@ tm.summit-services.ca
 tm.tbcbank.uz
 tm.tbcbusiness.uz
 tm.telecharge.com
+tm.thescore.bet
 tm.uship.com
 tm.verify.illion.com.au
 tmcdn.7sultanscasino.com
@@ -1296,6 +1306,7 @@ uafms.ocbc.com
 uat.cmprofile.cards.citidirect.com
 ucfs.sendpro360.pitneybowes.com
 ucfs.sendpro360.pitneycloud.com
+ucfs.shipping360.pitneybowes.com
 ufp.intuit.com
 uldfp.srilankan.com
 umst.mobile.de

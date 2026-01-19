@@ -119,6 +119,7 @@ console.walaplusadserver.com
 coreads-static.cambridge.org
 coreads.cambridge.org
 creatives.goldseek.com
+delivery.ads.fantasanremo.com
 display.lawbulletin.com
 etnomedia-static.reviveservers.com
 images.addurance.com
@@ -212,6 +213,7 @@ server.ad.logic.viasat.io
 static.ad.logic-prod.viasat.io
 static.ad.logic-test.viasat.io
 static.ad.logic.viasat.io
+static.ads.fantasanremo.com
 static.ahk.de
 static.ammoland.com
 static.aqua-adserver.com

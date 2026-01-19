@@ -113,7 +113,6 @@
     * 2-10.extole.io
     * 2ndswing.extole.io
     * 3riversfcu.extole.io
-    * 4wheelparts.extole.io
     * aaaeagles.extole.io
     * abacusnext.extole.io
     * acornonline.extole.io
@@ -177,6 +176,7 @@
     * bulova.extole.io
     * bumble-and-bumble-uk.extole.io
     * bumble-and-bumble.extole.io
+    * burpee.extole.io
     * burts-bees.extole.io
     * buttah-skin.extole.io
     * c-spire.extole.io
@@ -224,6 +224,7 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -233,7 +234,6 @@
     * desert-financial.extole.io
     * directv.extole.io
     * discountschoolsupply.extole.io
-    * discover-bank.extole.io
     * discover-digital-servicing.extole.io
     * discover-student-loan.extole.io
     * dolls-kill.extole.io
@@ -276,6 +276,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
@@ -340,6 +341,7 @@
     * joinform.extole.io
     * jonesservices.extole.io
     * juicepress.extole.io
+    * jukeboxprint.extole.io
     * jusbyjulie.extole.io
     * juvlabs.extole.io
     * kerastase-usa.extole.io
@@ -369,6 +371,7 @@
     * lull.extole.io
     * lumen-optical.extole.io
     * lumen.extole.io
+    * luminasolar.extole.io
     * lumos-fiber.extole.io
     * mac-cosmetics.extole.io
     * madison-reed.extole.io
@@ -384,6 +387,7 @@
     * midlandusa.extole.io
     * minted.extole.io
     * mondetta.extole.io
+    * moneybase-sandbox.extole.io
     * moneybase.extole.io
     * msgcu.extole.io
     * mtntough.extole.io
@@ -534,6 +538,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -584,6 +589,7 @@
     * wombat.extole.io
     * wrangler.extole.io
     * wsecu.extole.io
+    * xfinity.em.extole.io
     * xfinity.extole.io
     * yotoplay.extole.io
     * zenbusiness.extole.io
@@ -606,7 +612,6 @@
 | refer.2-10.com | 2-10.extole.io |
 | refer.2ndswing.com | 2ndswing.extole.io |
 | share.3riversfcu.org | 3riversfcu.extole.io |
-| share.4wheelparts.com | 4wheelparts.extole.io |
 | share.cluballiance.aaa.com | aaaeagles.extole.io |
 | refer.abacusnext.com | abacusnext.extole.io |
 | refer.acornonline.com | acornonline.extole.io |
@@ -706,6 +711,7 @@
 | share.refer-bumbleandbumble.co.uk | bumble-and-bumble-uk.extole.io |
 | refer.bumbleandbumble.com | bumble-and-bumble.extole.io |
 | share.refer-bumbleandbumble.com | bumble-and-bumble.extole.io |
+| share.burpee.com | burpee.extole.io |
 | refer.burtsbees.com | burts-bees.extole.io |
 | share.buttahskin.com | buttah-skin.extole.io |
 | refer.cspire.com | c-spire.extole.io |
@@ -772,6 +778,7 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -783,7 +790,6 @@
 | share.desertfinancial.com | desert-financial.extole.io |
 | referafriend.directv.com | directv.extole.io |
 | share.discountschoolsupply.com | discountschoolsupply.extole.io |
-| referafriend.discover.com | discover-bank.extole.io |
 | acq.discover.com | discover-digital-servicing.extole.io |
 | acq.discovercard.com | discover-digital-servicing.extole.io |
 | friend.discover.com | discover-student-loan.extole.io |
@@ -833,7 +839,9 @@
 | www.rob2.extoleu.com | extoleu.extole.io |
 | refer.familysavingscu.com | familysavingscu.extole.io |
 | share.fastbridgefiber.com | fastbridgefiber.extole.io |
+| refer.baddie.health | fellahealth.extole.io |
 | refer.boltpharmacy.co.uk | fellahealth.extole.io |
+| refer.fellahealth.co.uk | fellahealth.extole.io |
 | refer.fellahealth.com | fellahealth.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
@@ -846,6 +854,7 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
 | internalreferral.freshworks.com | freshworks.extole.io |
@@ -995,6 +1004,7 @@
 | refer.netrinc.com | jonesservices.extole.io |
 | refer.juicepress.com | juicepress.extole.io |
 | share.juicepress.com | juicepress.extole.io |
+| refer.jukeboxprint.com | jukeboxprint.extole.io |
 | refer.julep.com | julep.extole.com |
 | refer.jusbyjulie.com | jusbyjulie.extole.io |
 | share.juvlabs.com | juvlabs.extole.io |
@@ -1041,6 +1051,7 @@
 | refer.quantumfiber.com | lumen.extole.io |
 | referrals.lumen.com | lumen.extole.io |
 | score.lumen.com | lumen.extole.io |
+| refer.luminasolar.com | luminasolar.extole.io |
 | refer.lumosfiber.com | lumos-fiber.extole.io |
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.refer-maccosmetics.jp | mac-cosmetics.extole.io |
@@ -1064,6 +1075,7 @@
 | refer.styleitforwardreward.ca | mondetta.extole.io |
 | refer.styleitforwardreward.com | mondetta.extole.io |
 | www.styleitforwardreward.com | mondetta.extole.io |
+| stgreferral.moneybase.com | moneybase-sandbox.extole.io |
 | referral.moneybase.com | moneybase.extole.io |
 | refer.montgomeryadvertiser.com | montgomeryadvertiser.extole.com |
 | refer.moo.com | moo.extole.com |
@@ -1274,6 +1286,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1371,6 +1384,8 @@
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
 | share.wsecu.org | wsecu.extole.io |
+| em4504.mail.raf.xfinity.com | xfinity.em.extole.io |
+| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |

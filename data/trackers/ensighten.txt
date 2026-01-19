@@ -3,6 +3,7 @@
 ||activate.aami.com.au^
 ||activate.anntaylor.com^
 ||activate.apia.com.au^
+||activate.aurorabeaconnews.com^
 ||activate.baltimoresun.com^
 ||activate.bingle.com.au^
 ||activate.capitalgazette.com^
@@ -318,6 +319,7 @@
 ||privacy.travelodge.co.uk^
 ||privacy.umiloans.com.au^
 ||privacy.uwm.com^
+||privacy.wilsonelser.com^
 ||privacy.zoll.com^
 ||privacyconsentmgmt.storable.com^
 ||privacymps.merchantprocessorsolutions.com^

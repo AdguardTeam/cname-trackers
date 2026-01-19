@@ -50,6 +50,8 @@
     * faithlife-delivery.aquaplatform.com
     * famag-delivery.aquaplatform.com
     * famag-static.aquaplatform.com
+    * fsr-cdn.aquaplatform.com
+    * fsr-delivery.aquaplatform.com
     * geenstijl-console.aquaplatform.com
     * geenstijl-delivery.aquaplatform.com
     * geenstijl-static.aquaplatform.com
@@ -231,6 +233,8 @@
 | adserver.fa-mag.com | famag-delivery.aquaplatform.com |
 | www.adserver.fa-mag.com | famag-delivery.aquaplatform.com |
 | static.fa-mag.com | famag-static.aquaplatform.com |
+| static.ads.fantasanremo.com | fsr-cdn.aquaplatform.com |
+| delivery.ads.fantasanremo.com | fsr-delivery.aquaplatform.com |
 | adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
 | www.adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
 | lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |

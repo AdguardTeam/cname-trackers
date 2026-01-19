@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -130,6 +130,7 @@ console.walaplusadserver.com CNAME .
 coreads-static.cambridge.org CNAME .
 coreads.cambridge.org CNAME .
 creatives.goldseek.com CNAME .
+delivery.ads.fantasanremo.com CNAME .
 display.lawbulletin.com CNAME .
 etnomedia-static.reviveservers.com CNAME .
 images.addurance.com CNAME .
@@ -223,6 +224,7 @@ server.ad.logic.viasat.io CNAME .
 static.ad.logic-prod.viasat.io CNAME .
 static.ad.logic-test.viasat.io CNAME .
 static.ad.logic.viasat.io CNAME .
+static.ads.fantasanremo.com CNAME .
 static.ahk.de CNAME .
 static.ammoland.com CNAME .
 static.aqua-adserver.com CNAME .

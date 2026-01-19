@@ -1,6 +1,5 @@
 #
 # Company name: Adocean
-a.actualno.com
 ad.santa.lv
 ado.icorp.ro
 ads.tvp.pl

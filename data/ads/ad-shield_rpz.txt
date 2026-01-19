@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1150,15 +1150,11 @@ $TTL 300
 9.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 9.www.yippeewhenever.com CNAME .
 9.www.yumhusk.com CNAME .
-www.00404850.xyz CNAME .
 www.02952346.xyz CNAME .
-www.06969451.xyz CNAME .
-www.07327127.xyz CNAME .
 www.07443488.xyz CNAME .
 www.08256602.xyz CNAME .
 www.09284291.xyz CNAME .
 www.0ul1wlo58s-vu69us-r1u.xyz CNAME .
-www.11006451.xyz CNAME .
 www.13554359.xyz CNAME .
 www.14170678.xyz CNAME .
 www.14381834.xyz CNAME .
@@ -1169,7 +1165,7 @@ www.19706903.xyz CNAME .
 www.29662166.xyz CNAME .
 www.2wu0m0ms098w7148.xyz CNAME .
 www.33109166.xyz CNAME .
-www.35452888.xyz CNAME .
+www.37243211.xyz CNAME .
 www.38167473.xyz CNAME .
 www.425kmk7n9wn21pwvl18.xyz CNAME .
 www.42862874.xyz CNAME .
@@ -1191,19 +1187,16 @@ www.64786087.xyz CNAME .
 www.661kkm40uu6srww1mvso.xyz CNAME .
 www.69799884.xyz CNAME .
 www.72891504.xyz CNAME .
-www.73568955.xyz CNAME .
 www.74099753.xyz CNAME .
 www.74759411.xyz CNAME .
 www.75114620.xyz CNAME .
 www.75264920.xyz CNAME .
-www.78161013.xyz CNAME .
 www.78554661.xyz CNAME .
 www.78587924.xyz CNAME .
 www.79391192.xyz CNAME .
 www.79582961.xyz CNAME .
 www.79870085.xyz CNAME .
 www.80582834.xyz CNAME .
-www.84055600.xyz CNAME .
 www.84302764.xyz CNAME .
 www.85132058.xyz CNAME .
 www.86165466.xyz CNAME .

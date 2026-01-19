@@ -8,7 +8,6 @@
     * tk-abt-com.wizaly.com
     * tk-agrizone-net.wizaly.com
     * tk-aircaraibes-com.wizaly.com
-    * tk-alexandermcqueen-com.wizaly.com
     * tk-apprentis-auteuil-com.wizaly.com
     * tk-assurland-com.wizaly.com
     * tk-atol-fr.wizaly.com
@@ -24,7 +23,6 @@
     * tk-engie-com.wizaly.com
     * tk-etam-com.wizaly.com
     * tk-evaneos-fr.wizaly.com
-    * tk-france-abonnements-fr.wizaly.com
     * tk-frenchbee-com.wizaly.com
     * tk-gustaveroussy-fr.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
@@ -84,7 +82,6 @@
 | tk.abt.com | tk-abt-com.wizaly.com |
 | tk.agrizone.net | tk-agrizone-net.wizaly.com |
 | tk.aircaraibes.com | tk-aircaraibes-com.wizaly.com |
-| tk.alexandermcqueen.com | tk-alexandermcqueen-com.wizaly.com |
 | tk.apprentis-auteuil.org | tk-apprentis-auteuil-com.wizaly.com |
 | tk.assurland.com | tk-assurland-com.wizaly.com |
 | tk.assurlandpro.com | tk-assurland-com.wizaly.com |
@@ -107,7 +104,6 @@
 | tk.evaneos.fr | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.it | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.nl | tk-evaneos-fr.wizaly.com |
-| tk.france-abonnements.fr | tk-france-abonnements-fr.wizaly.com |
 | tk.frenchbee.com | tk-frenchbee-com.wizaly.com |
 | tk.gustaveroussy.fr | tk-gustaveroussy-fr.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |

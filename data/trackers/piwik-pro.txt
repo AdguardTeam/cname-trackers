@@ -23,10 +23,12 @@
 ||inzicht.cz.nl^
 ||logfiles.storck.com^
 ||mphdd.multipharma.be^
+||p-k.kuka.com^
 ||p-pan.triodos.com^
 ||p.zwilling.com^
 ||piwik.com-online.com^
 ||piwik.eib.org^
+||piwik.eif.org^
 ||piwik.slotsparadise.com^
 ||piwik.twyzle.com^
 ||piwik.vegasaces.com^
@@ -52,6 +54,6 @@
 ||tagmanager.becop.nl^
 ||wa.love2play.com^
 ||wa.mybookie.ag^
-||wa.xbet.ag^
 ||webanalytics.helen.fi^
 ||www.webanalytics.europa.eu^
+||www.webengage.ae^

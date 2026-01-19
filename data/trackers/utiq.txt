@@ -98,6 +98,7 @@
 ||utiq.cuisineactuelle.fr^
 ||utiq.dacia.fr^
 ||utiq.dasgelbeblatt.de^
+||utiq.deia.eus^
 ||utiq.derwesten.de^
 ||utiq.desired.de^
 ||utiq.dev.stern.de^
@@ -326,6 +327,8 @@
 ||utiq.nordlittoral.fr^
 ||utiq.nostalgie.fr^
 ||utiq.noticiasdealava.eus^
+||utiq.noticiasdegipuzkoa.eus^
+||utiq.noticiasdenavarra.com^
 ||utiq.notizie.it^
 ||utiq.nrj-play.fr^
 ||utiq.nrj.fr^

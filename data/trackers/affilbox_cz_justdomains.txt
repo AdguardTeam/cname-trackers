@@ -37,7 +37,6 @@ affil.gastrofans.cz
 affil.hifimarket.cz
 affil.hobbytec.cz
 affil.jobsik.cz
-affil.knihazenasnov.sk
 affil.kralovstvi-tiande.cz
 affil.lesgoodies.com
 affil.litinove-nadobi.cz
@@ -276,6 +275,7 @@ ambassadors.guideandgrow.com
 box.kryptotrejder.sk
 champions.betubetu.com
 collab.zdravetricko.cz
+cooperation.mitochondriak.com
 cryptonow.algomoneo.com
 dbsaysnba4ygmwav.algomoneo.com
 devaff.bitcoinzmenaren.sk
@@ -288,12 +288,10 @@ doporuc.promujdomov.cz
 doporuc.slevomat.cz
 doporucim.zjistitcenu.cz
 equilist.raj-ohlavek.cz
-hcaffil.mironet.cz
 hcbox.antiradary.net
 hcbox.bikemax.cz
 hcbox.fitness-zone.cz
 hcbox.itcomplet.sk
-hcbox.mironet.cz
 hcbox.tesla-electronics.eu
 hcbox.tlamka.cz
 hcbox.verapostele.sk
@@ -336,13 +334,13 @@ my.top4fitness.it
 my.top4fitness.pl
 my.top4fitness.pt
 my.top4fitness.ro
-my.top4fitness.si
 my.top4fitness.sk
 my.top4football.de
 my.top4football.es
 my.top4football.fi
 my.top4football.hu
 my.top4football.ie
+my.top4football.ro
 my.top4running.at
 my.top4running.be
 my.top4running.bg
@@ -417,7 +415,6 @@ partner.affiliateark.com
 partner.airbobags.com
 partner.alesio.cz
 partner.amonit.sk
-partner.amonitsro.sk
 partner.anabix.cz
 partner.andelskasluzba.cz
 partner.antihacker.cz
@@ -433,7 +430,6 @@ partner.barefootsaltic.cz
 partner.barnaby.cz
 partner.bazaroveregaly.cz
 partner.bed4dogs.com
-partner.bentech.eu
 partner.bepor.eu
 partner.bilynabytek.cz
 partner.bio-nechty.sk
@@ -533,7 +529,6 @@ partner.farbe.cz
 partner.ferratum.cz
 partner.finstyle.cz
 partner.firmin.cz
-partner.forcell.cz
 partner.forexrebel.net
 partner.forkys.store
 partner.fotoposta.sk
@@ -542,8 +537,8 @@ partner.gaymegastore.eu
 partner.gel-gun.cz
 partner.gingershot.cz
 partner.giulieta.shop
-partner.goelite.club
 partner.gokids.cz
+partner.golden-life.cz
 partner.gr7.cz
 partner.grandstyl.cz
 partner.gurufinance.cz
@@ -603,7 +598,6 @@ partner.lorooro.com
 partner.lovella.cz
 partner.ltx.cz
 partner.luckyalvin.cz
-partner.ludream.eu
 partner.lyzelyze.cz
 partner.majtki.cz
 partner.malujpodlecisel.cz
@@ -619,6 +613,7 @@ partner.mhsexshop.com
 partner.minikoioi.cz
 partner.minikoioi.sk
 partner.misinacokolada.cz
+partner.mizerman.cz
 partner.mojeluha.cz
 partner.momcare.cz
 partner.momcare.sk
@@ -670,6 +665,7 @@ partner.pletemesi.cz
 partner.plotmarket.sk
 partner.plotshop.sk
 partner.pod7kilo.cz
+partner.poporostem.cz
 partner.porovnejsito.cz
 partner.pozitivnerozpravky.sk
 partner.ppb-pohary.cz
@@ -736,6 +732,7 @@ partner.umio.eu
 partner.unuo.de
 partner.vataonline.cz
 partner.vffoto.com
+partner.vifungi.cz
 partner.virulent.cz
 partner.vivabeauty.cz
 partner.vladimirekart.cz
@@ -827,7 +824,6 @@ partneri.legalni-konopi.cz
 partneri.levne-barvy-laky.cz
 partneri.liborcinka.cz
 partneri.lightway.cz
-partneri.londonstore.cz
 partneri.lucie-konigova.cz
 partneri.majstervposteli.sk
 partneri.manazujmehravo.sk
@@ -961,7 +957,6 @@ tracking.pleddu.com
 udrzitelny-nakup.mydlia.cz
 udrzitelny-nakup.tierraverde.cz
 vydelavejtesnami.pg.cz
-www.affilbox.mironet.cz
 www.partner.hubatacernoska.cz
 www.partneri.zuzanaondrisova.sk
 affil.myface.cz

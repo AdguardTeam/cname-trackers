@@ -272,7 +272,6 @@ sp.soniccares.com
 sp.spaceomatic.fr
 sp.wvoil.com
 st.anastasija.lt
-st.picshuffle.com
 st.preciousamber.com
 st.tulastudio.se
 st.turnou.com
@@ -694,7 +693,6 @@ stats.shareup.app
 stats.shepherd.com
 stats.shh.io
 stats.shiftx.com
-stats.shobokshy.com
 stats.simplinetworks.com
 stats.sirdata.com
 stats.ski.com
@@ -725,7 +723,6 @@ stats.teenranch.com
 stats.tekin.co.uk
 stats.textprotocol.org
 stats.thecapablecollective.com
-stats.theiere-tasse.com
 stats.thelandofar.be
 stats.thenewradiance.com
 stats.thingsthatkeepmeupatnight.dev

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,7 +48,6 @@ affil.gastrofans.cz CNAME .
 affil.hifimarket.cz CNAME .
 affil.hobbytec.cz CNAME .
 affil.jobsik.cz CNAME .
-affil.knihazenasnov.sk CNAME .
 affil.kralovstvi-tiande.cz CNAME .
 affil.lesgoodies.com CNAME .
 affil.litinove-nadobi.cz CNAME .
@@ -287,6 +286,7 @@ ambassadors.guideandgrow.com CNAME .
 box.kryptotrejder.sk CNAME .
 champions.betubetu.com CNAME .
 collab.zdravetricko.cz CNAME .
+cooperation.mitochondriak.com CNAME .
 cryptonow.algomoneo.com CNAME .
 dbsaysnba4ygmwav.algomoneo.com CNAME .
 devaff.bitcoinzmenaren.sk CNAME .
@@ -299,12 +299,10 @@ doporuc.promujdomov.cz CNAME .
 doporuc.slevomat.cz CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
-hcaffil.mironet.cz CNAME .
 hcbox.antiradary.net CNAME .
 hcbox.bikemax.cz CNAME .
 hcbox.fitness-zone.cz CNAME .
 hcbox.itcomplet.sk CNAME .
-hcbox.mironet.cz CNAME .
 hcbox.tesla-electronics.eu CNAME .
 hcbox.tlamka.cz CNAME .
 hcbox.verapostele.sk CNAME .
@@ -347,13 +345,13 @@ my.top4fitness.it CNAME .
 my.top4fitness.pl CNAME .
 my.top4fitness.pt CNAME .
 my.top4fitness.ro CNAME .
-my.top4fitness.si CNAME .
 my.top4fitness.sk CNAME .
 my.top4football.de CNAME .
 my.top4football.es CNAME .
 my.top4football.fi CNAME .
 my.top4football.hu CNAME .
 my.top4football.ie CNAME .
+my.top4football.ro CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
@@ -428,7 +426,6 @@ partner.affiliateark.com CNAME .
 partner.airbobags.com CNAME .
 partner.alesio.cz CNAME .
 partner.amonit.sk CNAME .
-partner.amonitsro.sk CNAME .
 partner.anabix.cz CNAME .
 partner.andelskasluzba.cz CNAME .
 partner.antihacker.cz CNAME .
@@ -444,7 +441,6 @@ partner.barefootsaltic.cz CNAME .
 partner.barnaby.cz CNAME .
 partner.bazaroveregaly.cz CNAME .
 partner.bed4dogs.com CNAME .
-partner.bentech.eu CNAME .
 partner.bepor.eu CNAME .
 partner.bilynabytek.cz CNAME .
 partner.bio-nechty.sk CNAME .
@@ -544,7 +540,6 @@ partner.farbe.cz CNAME .
 partner.ferratum.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
-partner.forcell.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.forkys.store CNAME .
 partner.fotoposta.sk CNAME .
@@ -553,8 +548,8 @@ partner.gaymegastore.eu CNAME .
 partner.gel-gun.cz CNAME .
 partner.gingershot.cz CNAME .
 partner.giulieta.shop CNAME .
-partner.goelite.club CNAME .
 partner.gokids.cz CNAME .
+partner.golden-life.cz CNAME .
 partner.gr7.cz CNAME .
 partner.grandstyl.cz CNAME .
 partner.gurufinance.cz CNAME .
@@ -614,7 +609,6 @@ partner.lorooro.com CNAME .
 partner.lovella.cz CNAME .
 partner.ltx.cz CNAME .
 partner.luckyalvin.cz CNAME .
-partner.ludream.eu CNAME .
 partner.lyzelyze.cz CNAME .
 partner.majtki.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
@@ -630,6 +624,7 @@ partner.mhsexshop.com CNAME .
 partner.minikoioi.cz CNAME .
 partner.minikoioi.sk CNAME .
 partner.misinacokolada.cz CNAME .
+partner.mizerman.cz CNAME .
 partner.mojeluha.cz CNAME .
 partner.momcare.cz CNAME .
 partner.momcare.sk CNAME .
@@ -681,6 +676,7 @@ partner.pletemesi.cz CNAME .
 partner.plotmarket.sk CNAME .
 partner.plotshop.sk CNAME .
 partner.pod7kilo.cz CNAME .
+partner.poporostem.cz CNAME .
 partner.porovnejsito.cz CNAME .
 partner.pozitivnerozpravky.sk CNAME .
 partner.ppb-pohary.cz CNAME .
@@ -747,6 +743,7 @@ partner.umio.eu CNAME .
 partner.unuo.de CNAME .
 partner.vataonline.cz CNAME .
 partner.vffoto.com CNAME .
+partner.vifungi.cz CNAME .
 partner.virulent.cz CNAME .
 partner.vivabeauty.cz CNAME .
 partner.vladimirekart.cz CNAME .
@@ -838,7 +835,6 @@ partneri.legalni-konopi.cz CNAME .
 partneri.levne-barvy-laky.cz CNAME .
 partneri.liborcinka.cz CNAME .
 partneri.lightway.cz CNAME .
-partneri.londonstore.cz CNAME .
 partneri.lucie-konigova.cz CNAME .
 partneri.majstervposteli.sk CNAME .
 partneri.manazujmehravo.sk CNAME .
@@ -972,7 +968,6 @@ tracking.pleddu.com CNAME .
 udrzitelny-nakup.mydlia.cz CNAME .
 udrzitelny-nakup.tierraverde.cz CNAME .
 vydelavejtesnami.pg.cz CNAME .
-www.affilbox.mironet.cz CNAME .
 www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -745,7 +745,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 100003147.collect.igodigital.com CNAME .
 100003215.collect.igodigital.com CNAME .
 100003216.collect.igodigital.com CNAME .
-100003229.collect.igodigital.com CNAME .
 100003270.collect.igodigital.com CNAME .
 100003273.collect.igodigital.com CNAME .
 100003282.collect.igodigital.com CNAME .
@@ -1350,20 +1349,16 @@ www.mobirix.com CNAME .
 newsan-ads.vidaahub.com CNAME .
 nm-mb-snowplow.nearmap.com CNAME .
 origin-ad-manager.teads.com CNAME .
-p.buawop.cloud CNAME .
 p.faspox.com CNAME .
 p.ftwpcn.com CNAME .
-p.hhmako.cloud CNAME .
 p.juslxp.com CNAME .
 p.karpatzi.com CNAME .
 p.npcta.xyz CNAME .
-p.poder.cloud CNAME .
 p.ptomw.com CNAME .
 p.pukt.cloud CNAME .
 p.rukanw.com CNAME .
 p.xbcpcn.com CNAME .
 ponk.pro CNAME .
-td.bhnnop.com CNAME .
 x.njnxhh.xyz CNAME .
 partner.versemedia.net CNAME .
 versemedia.net CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ cdskjrg.giliarto.com CNAME .
 cpsmbor.ensorings.com CNAME .
 czirtyk.sugarmesmooth.com CNAME .
 edczrfj.veneera.com CNAME .
+gkgqgih.plantsinabox.com.au CNAME .
 gofqpma.kimkimblehair.com CNAME .
 gpillsg.genxrefined.com CNAME .
 gslclvw.lackorecouture.com CNAME .
@@ -30,12 +31,14 @@ lumhdco.mykitsch.com CNAME .
 msnpurf.themjewelersny.com CNAME .
 pmpbzjp.everydaydose.com CNAME .
 qqguqdw.veneera.nl CNAME .
+qqlvgpl.saberspro.com CNAME .
 rmxmtsg.wowe.me CNAME .
 rulrdow.solawave.co CNAME .
 rwlywoe.keepnaturewild.com CNAME .
 tzfgzgo.quickservicepanama.com CNAME .
 uaxfwsb.smallflower.com CNAME .
 ucscaik.gardencup.com CNAME .
+ufhmebi.terendesigns.com CNAME .
 ujyloty.kingofchristmas.com CNAME .
 untrhhc.veneera.co.uk CNAME .
 uqnnvhk.ericjavits.com CNAME .

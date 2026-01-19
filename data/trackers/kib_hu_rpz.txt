@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -67,6 +67,7 @@ adat.szuperinfo.hu CNAME .
 adat.teol.hu CNAME .
 adat.tion.ro CNAME .
 adat.travelo.hu CNAME .
+adat.tunderszepek.hu CNAME .
 adat.ujneplap.hu CNAME .
 adat.vaol.hu CNAME .
 adat.varpalotaiujsag.hu CNAME .

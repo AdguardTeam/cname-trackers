@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -262,6 +262,7 @@ tr.communication.boursobank.info CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
 tr.communication.eminente.com CNAME .
+tr.communication.enkiapp.io CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
 tr.communication.hennessy.com CNAME .
 tr.communication.hybrigenics.com CNAME .
@@ -360,6 +361,7 @@ tr.dogstrust.org.uk CNAME .
 tr.donateur.afm-telethon.fr CNAME .
 tr.dossier-assurance.maaf.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
+tr.e-mail.axa.fr CNAME .
 tr.e-travaux.info CNAME .
 tr.e.entreprise-pm.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
@@ -589,6 +591,7 @@ tr.infos.afpa.fr CNAME .
 tr.infos.allianz-trade.com CNAME .
 tr.infos.ariase.com CNAME .
 tr.infos.boursobank.info CNAME .
+tr.infos.bpaura.banquepopulaire.fr CNAME .
 tr.infos.enerplus-bordeaux.fr CNAME .
 tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
@@ -668,7 +671,6 @@ tr.mailing.associationici.fr CNAME .
 tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
-tr.mailing.opinionrelate.com CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
 tr.mailperf.ngt-services.com CNAME .
@@ -1078,6 +1080,7 @@ tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.security.perfectstay.com CNAME .
 tr.send.kinvent.com CNAME .
 tr.service-client.mhdfrance.fr CNAME .
+tr.service-clients.monoprix.fr CNAME .
 tr.service.linxea.com CNAME .
 tr.serviceclient.adagcaladoise.fr CNAME .
 tr.serviceclient.bf-depannage.fr CNAME .
@@ -1213,6 +1216,7 @@ tr.xleads.digital CNAME .
 tr.zojh.espmp-aluk.net CNAME .
 tr1.bp06.net CNAME .
 tr1.bp09.net CNAME .
+tr1.bp26.net CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.lr001.net CNAME .
 tr1.lr002.net CNAME .
@@ -1238,9 +1242,8 @@ f1.mperf.com CNAME .
 f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
-www.bfc-mp.caisse-epargne.fr CNAME .
 s.gemy.fr CNAME .
 s.np6.com CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
-tr1.bp26.net CNAME .
+www.bfc-mp.caisse-epargne.fr CNAME .

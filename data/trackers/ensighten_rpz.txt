@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 activate.aami.com.au CNAME .
 activate.anntaylor.com CNAME .
 activate.apia.com.au CNAME .
+activate.aurorabeaconnews.com CNAME .
 activate.baltimoresun.com CNAME .
 activate.bingle.com.au CNAME .
 activate.capitalgazette.com CNAME .
@@ -329,6 +330,7 @@ privacy.sekuremerchants.com CNAME .
 privacy.travelodge.co.uk CNAME .
 privacy.umiloans.com.au CNAME .
 privacy.uwm.com CNAME .
+privacy.wilsonelser.com CNAME .
 privacy.zoll.com CNAME .
 privacyconsentmgmt.storable.com CNAME .
 privacymps.merchantprocessorsolutions.com CNAME .

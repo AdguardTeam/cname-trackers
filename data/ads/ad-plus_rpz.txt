@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ serving.greeter.lat CNAME .
 serving.laimroll.ru CNAME .
 serving.lookverin.com CNAME .
 serving.mmmedia-group.com CNAME .
+serving.omegalive.com.cy CNAME .
 serving.platformance.io CNAME .
 serving.profitsence.com CNAME .
 serving.srmg.com CNAME .

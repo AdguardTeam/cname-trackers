@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,8 @@ $TTL 300
 4652415544.balancecredit.com CNAME .
 a574f3c3.raylo.com CNAME .
 abfrage.etakenya.go.ke CNAME .
+account.ezpassoh.com CNAME .
+accountm.myflfamilies.com CNAME .
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 adprtm53.cardgold.it CNAME .
@@ -130,6 +132,7 @@ appscore.credilike.me CNAME .
 argospay-tmx-content.argos.co.uk CNAME .
 asanalytics.booking.com CNAME .
 assessment.nj.betmgm.com CNAME .
+asset.nomura.co.jp CNAME .
 assets.harlandclarke.com CNAME .
 assets.signup.ifxpayments.com CNAME .
 assets.werally.co CNAME .
@@ -266,12 +269,13 @@ checkout-df.lululemon.com CNAME .
 checkout.walz.de CNAME .
 cib.currency.lloydsbank.com CNAME .
 cim-idc-cdn.account.bcbsil.com CNAME .
+cim-idc-cdn.account.bcbsnm.com CNAME .
 cim-idc-cdn.account.bcbstx.com CNAME .
 claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
-client.online.sandyspringbank.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
+cnt.dllpayment.com CNAME .
 cnt.faktoria.pl CNAME .
 cnt.patpat.com CNAME .
 cnt.redotpay.net CNAME .
@@ -301,12 +305,14 @@ content.atmosphere.ca CNAME .
 content.b-social.io CNAME .
 content.backend-capital.com CNAME .
 content.bank-abc.com CNAME .
+content.bank.ikano CNAME .
 content.bankoncit.com CNAME .
 content.benefitsaccess.org CNAME .
 content.berluti.com CNAME .
 content.biggerbooks.com CNAME .
 content.billdomain.com CNAME .
 content.billsupport.com CNAME .
+content.bnl.it CNAME .
 content.bnpparibas.net CNAME .
 content.byabcd.com CNAME .
 content.canadiantire.ca CNAME .
@@ -578,6 +584,7 @@ elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
 ep-content.patento.pl CNAME .
 ep-content.vivigo.pl CNAME .
+ep-content.viviraty.pl CNAME .
 ep.heartland.co.nz CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
@@ -1023,6 +1030,7 @@ security.vanquis.com CNAME .
 service.riverscontent.com CNAME .
 services-tmx.cofidis.cz CNAME .
 servicesdp.luckydays.ca CNAME .
+servicesdp.spinaway.ca CNAME .
 sess.vippreferred.com CNAME .
 sfp.intuit.com CNAME .
 sg-payment.cydf.hoyoverse.com CNAME .
@@ -1160,6 +1168,7 @@ tm.betano.bg CNAME .
 tm.betano.ca CNAME .
 tm.betano.co CNAME .
 tm.betano.com CNAME .
+tm.betano.com.gh CNAME .
 tm.betano.cz CNAME .
 tm.betano.de CNAME .
 tm.betano.dk CNAME .
@@ -1209,6 +1218,7 @@ tm.summit-services.ca CNAME .
 tm.tbcbank.uz CNAME .
 tm.tbcbusiness.uz CNAME .
 tm.telecharge.com CNAME .
+tm.thescore.bet CNAME .
 tm.uship.com CNAME .
 tm.verify.illion.com.au CNAME .
 tmcdn.7sultanscasino.com CNAME .
@@ -1307,6 +1317,7 @@ uafms.ocbc.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
 ucfs.sendpro360.pitneybowes.com CNAME .
 ucfs.sendpro360.pitneycloud.com CNAME .
+ucfs.shipping360.pitneybowes.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .

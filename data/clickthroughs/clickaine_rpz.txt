@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,6 +71,7 @@ ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dfx.xtapes.porn CNAME .
 drt.cliomovies.com CNAME .
+excavajo9.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 get.xclick24.com CNAME .

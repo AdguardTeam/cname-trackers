@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,6 +59,7 @@ estat.edel-kraut.de CNAME .
 estats.globus.de CNAME .
 et.akademie-handel.de CNAME .
 et.alphalas.com CNAME .
+et.asb-academy.ch CNAME .
 et.bleibwacker.com CNAME .
 et.corpuls.hospital CNAME .
 et.corpuls.world CNAME .
@@ -67,6 +68,7 @@ et.electronic4you.at CNAME .
 et.electronic4you.de CNAME .
 et.electronic4you.hr CNAME .
 et.electronic4you.si CNAME .
+et.equiva.com CNAME .
 et.go-kmu.de CNAME .
 et.goal-based.investments CNAME .
 et.immobilien-strobl.de CNAME .
@@ -130,6 +132,7 @@ ferthu.seyffer.shop CNAME .
 go.eitrmsummit.com CNAME .
 go.kik.de CNAME .
 gruenten.agrar-fachversand.com CNAME .
+gruenten.wahl-agri.it CNAME .
 gus.corinnavondermuehlen.de CNAME .
 insides.honic.eu CNAME .
 insights.bertelsmann-stiftung.de CNAME .
@@ -138,6 +141,7 @@ knowlege.pepeprint.de CNAME .
 lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
+met.hanser-kundencenter.de CNAME .
 met.hanser-literaturverlage.de CNAME .
 meter.rhinobag.de CNAME .
 metrics.bauwerk.de CNAME .
@@ -147,6 +151,8 @@ metrics.einfachiso.de CNAME .
 metrics.energetix.tv CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.greatvita.de CNAME .
+metrics.gutskueche.de CNAME .
+metrics.iqcheck24.de CNAME .
 metrics.leimer.de CNAME .
 metrics.mammutmarsch.de CNAME .
 metrics.meineversicherungswelt.de CNAME .
@@ -164,6 +170,9 @@ mktg.activemind.legal CNAME .
 monitoring.medizinbedarf.eu CNAME .
 monitoring.paw-wow.de CNAME .
 mytrd.orion.at CNAME .
+node.azur-online.de CNAME .
+node.juve-patent.com CNAME .
+node.juve-steuermarkt.de CNAME .
 node.juve.de CNAME .
 pse.gabor.com CNAME .
 ric.arrive-im-herzogpark.de CNAME .
@@ -188,6 +197,7 @@ stats.die-bibel.de CNAME .
 stats.eliveshop.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.hilscher.com CNAME .
+stats.hotel-haus-norderney.de CNAME .
 stats.inselloft-norderney.de CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.krauss-gmbh.com CNAME .
@@ -227,6 +237,7 @@ tracking.360products.de CNAME .
 tracking.anthonys.at CNAME .
 tracking.chio.hu CNAME .
 tracking.gruener-soelden.com CNAME .
+tracking.lanxess.com CNAME .
 tracking.mediengewerk.de CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
 tracking.terrassenhof.de CNAME .
@@ -234,6 +245,7 @@ tracking.walserart.at CNAME .
 trkker.wearelean.com CNAME .
 trkkr.bugatti-media.com CNAME .
 trkkr.bugatti-newsroom.com CNAME .
+trx01.ffg.at CNAME .
 uezeus.ueberbit.de CNAME .
 umerf.fernerblick.at CNAME .
 umerf.reisprinzen.de CNAME .
@@ -254,6 +266,7 @@ wctr.satzdruck.com CNAME .
 wctr.scaleup-fulfillment.de CNAME .
 wctr.sus-architekten-muenster.de CNAME .
 wctr.vitanova-kliniken.de CNAME .
+wd.classicseller.de CNAME .
 web.satiata-med.de CNAME .
 web.sihl-direct.de CNAME .
 webanalytics.pwc.fr CNAME .
@@ -271,18 +284,21 @@ webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
 webcontr.crazy-heels.com CNAME .
 webcontr.distrebution.com CNAME .
+webcontr.domondo.es CNAME .
 webcontr.domondo.fr CNAME .
 webcontr.domondo.it CNAME .
 webcontr.domondo.pl CNAME .
 webcontr.epig-media.de CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.genius.tv CNAME .
+webcontr.haferloewe.de CNAME .
 webcontr.holzgestein.com CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.in-akustik.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.jalousiescout.de CNAME .
 webcontr.kabelschuhe-shop.de CNAME .
+webcontr.kindergartenbedarf-haidig.de CNAME .
 webcontr.kitchen-concept.de CNAME .
 webcontr.kontor4.de CNAME .
 webcontr.l.de CNAME .
@@ -298,6 +314,7 @@ webcontr.naturschutzcenter.de CNAME .
 webcontr.parax.de CNAME .
 webcontr.patrick-wentzel.de CNAME .
 webcontr.pedalbox.com CNAME .
+webcontr.pegasus-actuators.com CNAME .
 webcontr.reisprinzen.de CNAME .
 webcontr.rheinenergie.com CNAME .
 webcontr.rollytoys.de CNAME .
@@ -324,9 +341,14 @@ webctrl.dalimed.de CNAME .
 webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
+webstt0004.onofficeom.com CNAME .
 webstt0011.onofficeom.com CNAME .
+webstt0016.onofficeom.com CNAME .
+webstt0019.onofficeom.com CNAME .
+webstt0020.onofficeom.com CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
+webtr.regisafe.de CNAME .
 webtrack.lotto-thueringen.de CNAME .
 weco.gasteo.de CNAME .
 weco.ilon.de CNAME .
@@ -336,6 +358,7 @@ wurst.leffis.de CNAME .
 www2.faxverteiler.com CNAME .
 www3.faxsuite.de CNAME .
 yogi.snuffland.de CNAME .
+zahlenbitte.jmwiarda.de CNAME .
 esub.akkusys.de CNAME .
 et.juskys.de CNAME .
 stats.ekd.de CNAME .

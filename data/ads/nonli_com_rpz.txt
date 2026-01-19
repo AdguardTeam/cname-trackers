@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ l.dordognelibre.fr CNAME .
 l.dzfoot.com CNAME .
 l.e-sante.fr CNAME .
 l.easyvoyage.com CNAME .
+l.echo-des-tribunes.com CNAME .
 l.echoancenis.fr CNAME .
 l.echoduberry.fr CNAME .
 l.eclypsia.com CNAME .
@@ -180,6 +181,7 @@ l.lequipe.fr CNAME .
 l.lequotidiendelart.com CNAME .
 l.lesnumeriques.com CNAME .
 l.lest-eclair.fr CNAME .
+l.letarnlibre.com CNAME .
 l.letemps.ch CNAME .
 l.leveil.fr CNAME .
 l.lexpress.fr CNAME .
@@ -187,6 +189,7 @@ l.lhebdoduvendredi.com CNAME .
 l.liberation-champagne.fr CNAME .
 l.lindependant.fr CNAME .
 l.linfoauquotidien.com CNAME .
+l.linsoliteauquotidien.com CNAME .
 l.lunion.fr CNAME .
 l.lyonne.fr CNAME .
 l.madmoizelle.com CNAME .
@@ -245,9 +248,11 @@ l.radiofrance.fr CNAME .
 l.reporterre.net CNAME .
 l.revue21.fr CNAME .
 l.rmc.fr CNAME .
+l.rmcbfmplay.com CNAME .
 l.rmcsport.fr CNAME .
 l.roole.fr CNAME .
 l.rtl.fr CNAME .
+l.rue89lyon.fr CNAME .
 l.rue89strasbourg.com CNAME .
 l.rugbyrama.fr CNAME .
 l.science-et-vie.com CNAME .

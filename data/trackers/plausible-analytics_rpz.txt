@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -283,7 +283,6 @@ sp.soniccares.com CNAME .
 sp.spaceomatic.fr CNAME .
 sp.wvoil.com CNAME .
 st.anastasija.lt CNAME .
-st.picshuffle.com CNAME .
 st.preciousamber.com CNAME .
 st.tulastudio.se CNAME .
 st.turnou.com CNAME .
@@ -705,7 +704,6 @@ stats.shareup.app CNAME .
 stats.shepherd.com CNAME .
 stats.shh.io CNAME .
 stats.shiftx.com CNAME .
-stats.shobokshy.com CNAME .
 stats.simplinetworks.com CNAME .
 stats.sirdata.com CNAME .
 stats.ski.com CNAME .
@@ -736,7 +734,6 @@ stats.teenranch.com CNAME .
 stats.tekin.co.uk CNAME .
 stats.textprotocol.org CNAME .
 stats.thecapablecollective.com CNAME .
-stats.theiere-tasse.com CNAME .
 stats.thelandofar.be CNAME .
 stats.thenewradiance.com CNAME .
 stats.thingsthatkeepmeupatnight.dev CNAME .

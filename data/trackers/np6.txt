@@ -251,6 +251,7 @@
 ||tr.communication.boursorama.info^
 ||tr.communication.cgaaer.fr^
 ||tr.communication.eminente.com^
+||tr.communication.enkiapp.io^
 ||tr.communication.harmonie-mutuelle.fr^
 ||tr.communication.hennessy.com^
 ||tr.communication.hybrigenics.com^
@@ -349,6 +350,7 @@
 ||tr.donateur.afm-telethon.fr^
 ||tr.dossier-assurance.maaf.fr^
 ||tr.drh-holding.lvmh.fr^
+||tr.e-mail.axa.fr^
 ||tr.e-travaux.info^
 ||tr.e.entreprise-pm.fr^
 ||tr.e.entreprise-pm.net^
@@ -578,6 +580,7 @@
 ||tr.infos.allianz-trade.com^
 ||tr.infos.ariase.com^
 ||tr.infos.boursobank.info^
+||tr.infos.bpaura.banquepopulaire.fr^
 ||tr.infos.enerplus-bordeaux.fr^
 ||tr.infos.fongecifcentre.com^
 ||tr.infos.gazdebordeaux.fr^
@@ -657,7 +660,6 @@
 ||tr.mailing.heliades.fr^
 ||tr.mailing.laredoute.fr^
 ||tr.mailing.lvmhappening.com^
-||tr.mailing.opinionrelate.com^
 ||tr.mailmp.macif.net^
 ||tr.mailperf.institut-de-la-protection-sociale.fr^
 ||tr.mailperf.ngt-services.com^
@@ -1067,6 +1069,7 @@
 ||tr.security.perfectstay.com^
 ||tr.send.kinvent.com^
 ||tr.service-client.mhdfrance.fr^
+||tr.service-clients.monoprix.fr^
 ||tr.service.linxea.com^
 ||tr.serviceclient.adagcaladoise.fr^
 ||tr.serviceclient.bf-depannage.fr^
@@ -1202,6 +1205,7 @@
 ||tr.zojh.espmp-aluk.net^
 ||tr1.bp06.net^
 ||tr1.bp09.net^
+||tr1.bp26.net^
 ||tr1.citroen-ipsos.com^
 ||tr1.lr001.net^
 ||tr1.lr002.net^
@@ -1227,9 +1231,8 @@
 ||f1.np6.com^
 ||infojeux.paris.fr^
 ||lbv5.mperf.com^
-||www.bfc-mp.caisse-epargne.fr^
 ||s.gemy.fr^
 ||s.np6.com^
 ||www.lgch.mp^
 ||tr.communication.jardindacclimatation.fr^
-||tr1.bp26.net^
+||www.bfc-mp.caisse-epargne.fr^

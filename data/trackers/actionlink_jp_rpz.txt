@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ al.atelierofsleep.com CNAME .
 al.babyrenta.com CNAME .
 al.ballon.jp CNAME .
 al.bath-ec.com CNAME .
+al.beaufort.jp CNAME .
 al.beautycelbest.net CNAME .
 al.blvck.jp CNAME .
 al.bulk.co.jp CNAME .
@@ -56,6 +57,7 @@ al.gokokumai.co.jp CNAME .
 al.gold-japan.jp CNAME .
 al.hamari-health.jp CNAME .
 al.happysun-hinode.com CNAME .
+al.ibizabeauty.net CNAME .
 al.ichikawa-sk.shop CNAME .
 al.japan-ballpark.com CNAME .
 al.jtb-gift.com CNAME .
@@ -95,6 +97,7 @@ al.rinenna.jp CNAME .
 al.route-2.net CNAME .
 al.ruban-de-chouchou.jp CNAME .
 al.saifuku-knit.jp CNAME .
+al.sakyou.co.jp CNAME .
 al.santelabo.jp CNAME .
 al.sanwaweb.com CNAME .
 al.seleb.co.jp CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,10 +34,12 @@ gmn.gloo.com CNAME .
 inzicht.cz.nl CNAME .
 logfiles.storck.com CNAME .
 mphdd.multipharma.be CNAME .
+p-k.kuka.com CNAME .
 p-pan.triodos.com CNAME .
 p.zwilling.com CNAME .
 piwik.com-online.com CNAME .
 piwik.eib.org CNAME .
+piwik.eif.org CNAME .
 piwik.slotsparadise.com CNAME .
 piwik.twyzle.com CNAME .
 piwik.vegasaces.com CNAME .
@@ -63,6 +65,6 @@ tagadmin.aumago.com CNAME .
 tagmanager.becop.nl CNAME .
 wa.love2play.com CNAME .
 wa.mybookie.ag CNAME .
-wa.xbet.ag CNAME .
 webanalytics.helen.fi CNAME .
 www.webanalytics.europa.eu CNAME .
+www.webengage.ae CNAME .

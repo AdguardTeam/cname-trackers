@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -53,9 +53,7 @@ $TTL 300
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
 8ue4rp6yxyis.www.tapmyback.com CNAME .
 8vwxqg.tapin.gg CNAME .
-8wozkl2r32jb.mitarbeiter-schmiede.de CNAME .
 9b5gjkrnw71r.it.themoneytizer.com CNAME .
-9endbwsya7vw.app.polymerdev.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9l3cr6dvk2kb.adaptive.marketing CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
@@ -63,7 +61,6 @@ $TTL 300
 ac9kpxbans1l.staging.unstoppabledomains.com CNAME .
 am3s622gcd6m.tt.live CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
-b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .

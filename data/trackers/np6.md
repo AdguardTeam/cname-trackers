@@ -9,13 +9,14 @@
 * form.bp01.net
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
-* tr1.bp06.net
+* f1.mailperformance.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
+| www.bfc-mp.caisse-epargne.fr | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
@@ -24,11 +25,9 @@
 | f1.np6.com | form.bp01.net |
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
-| www.bfc-mp.caisse-epargne.fr | form.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
-| tr1.bp26.net | tr1.bp06.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
@@ -280,6 +279,7 @@
 | tr.communication.boursorama.info | tracking.bp01.net |
 | tr.communication.cgaaer.fr | tracking.bp01.net |
 | tr.communication.eminente.com | tracking.bp01.net |
+| tr.communication.enkiapp.io | tracking.bp01.net |
 | tr.communication.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.communication.hennessy.com | tracking.bp01.net |
 | tr.communication.hybrigenics.com | tracking.bp01.net |
@@ -378,6 +378,7 @@
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
 | tr.dossier-assurance.maaf.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
+| tr.e-mail.axa.fr | tracking.bp01.net |
 | tr.e-travaux.info | tracking.bp01.net |
 | tr.e.entreprise-pm.fr | tracking.bp01.net |
 | tr.e.entreprise-pm.net | tracking.bp01.net |
@@ -607,6 +608,7 @@
 | tr.infos.allianz-trade.com | tracking.bp01.net |
 | tr.infos.ariase.com | tracking.bp01.net |
 | tr.infos.boursobank.info | tracking.bp01.net |
+| tr.infos.bpaura.banquepopulaire.fr | tracking.bp01.net |
 | tr.infos.enerplus-bordeaux.fr | tracking.bp01.net |
 | tr.infos.fongecifcentre.com | tracking.bp01.net |
 | tr.infos.gazdebordeaux.fr | tracking.bp01.net |
@@ -686,7 +688,6 @@
 | tr.mailing.heliades.fr | tracking.bp01.net |
 | tr.mailing.laredoute.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
-| tr.mailing.opinionrelate.com | tracking.bp01.net |
 | tr.mailmp.macif.net | tracking.bp01.net |
 | tr.mailperf.institut-de-la-protection-sociale.fr | tracking.bp01.net |
 | tr.mailperf.ngt-services.com | tracking.bp01.net |
@@ -1096,6 +1097,7 @@
 | tr.security.perfectstay.com | tracking.bp01.net |
 | tr.send.kinvent.com | tracking.bp01.net |
 | tr.service-client.mhdfrance.fr | tracking.bp01.net |
+| tr.service-clients.monoprix.fr | tracking.bp01.net |
 | tr.service.linxea.com | tracking.bp01.net |
 | tr.serviceclient.adagcaladoise.fr | tracking.bp01.net |
 | tr.serviceclient.bf-depannage.fr | tracking.bp01.net |
@@ -1231,6 +1233,7 @@
 | tr.zojh.espmp-aluk.net | tracking.bp01.net |
 | tr1.bp06.net | tracking.bp01.net |
 | tr1.bp09.net | tracking.bp01.net |
+| tr1.bp26.net | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.lr001.net | tracking.bp01.net |
 | tr1.lr002.net | tracking.bp01.net |

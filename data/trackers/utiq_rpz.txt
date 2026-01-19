@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1767600008788        ; Serial
+           1768809651265        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -109,6 +109,7 @@ utiq.cuerpomente.com CNAME .
 utiq.cuisineactuelle.fr CNAME .
 utiq.dacia.fr CNAME .
 utiq.dasgelbeblatt.de CNAME .
+utiq.deia.eus CNAME .
 utiq.derwesten.de CNAME .
 utiq.desired.de CNAME .
 utiq.dev.stern.de CNAME .
@@ -337,6 +338,8 @@ utiq.noovomoi.ca CNAME .
 utiq.nordlittoral.fr CNAME .
 utiq.nostalgie.fr CNAME .
 utiq.noticiasdealava.eus CNAME .
+utiq.noticiasdegipuzkoa.eus CNAME .
+utiq.noticiasdenavarra.com CNAME .
 utiq.notizie.it CNAME .
 utiq.nrj-play.fr CNAME .
 utiq.nrj.fr CNAME .

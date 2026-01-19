@@ -1,7 +1,6 @@
 #
 # Company name: Nativo
 sponsor.syracuse.com
-003c4786c3.fee9cd19e4.com
 017ac254b5.200729a311.com
 02833a52b8.9d611c2d8a.com
 039ff33996.ba2448462a.com
@@ -45,10 +44,10 @@ sponsor.syracuse.com
 276cf6ad14.3b3e638ac2.com
 278697bd35.ad291d4da0.com
 27caae0237.5a8b835ce5.com
+2830fe954a.d88b2835c6.com
 2ae1e74240.c29013edc2.com
 2ce242283a.3aa2de320e.com
 2dbc658dbe.8888b3ac06.com
-2e1aaa5ac9.3e1b245c19.com
 2f32381512.3d19359f22.com
 30937441a9.a1b1d711f0.com
 30fc682ad6.b06203e1c9.com
@@ -70,7 +69,6 @@ sponsor.syracuse.com
 3b694d57dc.ff1232f5f3.com
 3bd0eb632a.ea87707b92.com
 3c0bb1b6ad.25ed3d6f24.com
-3c12cce224.c4db8f5827.com
 3d1a273a3c.697a3aa509.com
 3d940b49cb.84969d4e51.com
 3e4a3a850b.0d9539106a.com
@@ -81,7 +79,6 @@ sponsor.syracuse.com
 40b9a96edf.3a6a721b13.com
 423c61dd04.d0d5d6db3b.com
 42be5b600b.fcac6f9c91.com
-430e6749c9.4a93064ed9.com
 4345b902be.9655b68ff3.com
 43b71a0471.b18244c6c3.com
 447c339ed2.da7a60f765.com
@@ -94,7 +91,6 @@ sponsor.syracuse.com
 48d25a1156.0b8c767b16.com
 49c90e13b2.c813dd7e93.com
 4a7fe038cf.e48e29ca2b.com
-4ada3756e4.390c1c46b8.com
 4c13387070.150791bf69.com
 4c4de38271.768e7f3194.com
 4dd7d27406.cb0b6ebc92.com
@@ -114,7 +110,9 @@ sponsor.syracuse.com
 578b7ee575.12b1804241.com
 58d245d6b5.be429dd00e.com
 5a9bbbbeae.c3b1912666.com
+5b34009f2b.063aa27de4.com
 5e0c677015.717d165445.com
+5f79ab9313.43af78f329.com
 60537d5324.94ea40fd7b.com
 60cedb9d45.c959924432.com
 621ffb6675.1b9e934cbd.com
@@ -129,11 +127,10 @@ sponsor.syracuse.com
 69c337174c.601a4993f0.com
 6a568c2959.efdbdc0d8b.com
 6ab107ca36.cee332cc1f.com
-6cdc3602a0.58932d3f4c.com
+6c3e8d1b9d.091629bcab.com
 6e7966fcaf.db8a63af00.com
 6ef8637b9b.d473cd71cf.com
 6f6934efb4.481516ca1d.com
-7085182c30.525fa10cfc.com
 710ab98253.6764a4b67d.com
 725452b440.c8be05e5a0.com
 731e976020.6070316d66.com
@@ -143,6 +140,7 @@ sponsor.syracuse.com
 7885c8b33a.ac28816960.com
 78f77febd4.b49170aaa3.com
 7a0be63e38.dcdf9bb185.com
+7a62e2a0be.296119ddcc.com
 7b04ae1dbf.bb1b9b8ea2.com
 7b26070d7b.68d48e2725.com
 7c9edd89e2.5fbc7e29cd.com
@@ -170,7 +168,6 @@ sponsor.syracuse.com
 9db0eb07b5.8a53b29c07.com
 9efb89fc1b.0a7baba6f0.com
 9f08848380.7b624d2bdd.com
-a0282a73c1.af46d70a67.com
 a0cbd0e58a.f88565c7fb.com
 a0ebca87d0.0c39e4a106.com
 a2d4bf2605.2042be5d8c.com
@@ -194,7 +191,6 @@ ae935e371b.f015b4d44a.com
 af26280486.a1057123f0.com
 af62ccc4c8.153c349024.com
 afe125baef.7762dc22a5.com
-b0834b036a.d5193824f5.com
 b2279fe066.be3413a996.com
 b255043e2e.3b15e41dab.com
 b2e1e98122.f56d15fadf.com
@@ -211,20 +207,19 @@ ba594324dd.0ca5b8dbfd.com
 baba8a23e6.59a1c2d82c.com
 bb07cba429.99a3cb9eab.com
 bb43ce031a.ef42245b5e.com
-bd4afc201d.a9a878a4a2.com
 bd5a04cfd5.2e4d034bab.com
 be8d232c28.7a37d4e31f.com
 beb0ad5bff.c9df1be7cc.com
 bf38c78f71.4c1d9ff598.com
-bf69292cc9.71f3eb2dc9.com
 bfc49acc80.363644db24.com
+c0f23fd4ca.63c69150fd.com
 c1bc8643b5.dc3f10eee9.com
 c21c977b97.693085b049.com
 c22366265d.8d46e91bf0.com
-c2a0609d8f.92d31be64a.com
 c3dc092e5d.e365275045.com
 c42d357c54.8d310a6a39.com
 c45dcfd6d0.d6c001d60e.com
+c4c9ec633e.de974961de.com
 c56b030151.fe17ba9b40.com
 c6a4712ab6.91562f6de0.com
 c8fbd6515f.9fe0bb9836.com
@@ -257,8 +252,8 @@ e1008d4eed.e8564333b8.com
 e13f2982ee.4302118d1a.com
 e2c6b3d8b9.0c5351790d.com
 e39b870a84.d59419bbc9.com
+e417585e69.a3c60bb775.com
 e4f2928e49.0c289f53bc.com
-e50dc6ad27.ca7d0bd322.com
 e6499697e6.d97d3231b2.com
 e6e3e5bd74.3ae7054c01.com
 e791351c80.680642cdf3.com
@@ -271,7 +266,6 @@ ed8cd90429.edc0ff6308.com
 ee5a001075.b0d7f51bf7.com
 ef16276d05.22a008da69.com
 ef4fd13e78.bb2d37b777.com
-ef506fa44f.580fbe2c4e.com
 ef5222325b.8d0ec41186.com
 ef8ce6a0d6.1043b01a5a.com
 f0627cfb3a.695029d74f.com
@@ -295,7 +289,9 @@ i.allnestinfinite.com
 i.laketrend.com
 i.selecttopoff.com
 i.statelinear.com
+mlive.share.ntv.io
 share.ntv.io
+shared.sponsoredcontent.com
 a135.fox23.com
 a135.wftv.com
 a135.wpxi.com
@@ -335,7 +331,6 @@ littlethings.share.ntv.io
 menshealth.share.ntv.io
 mercurynews.share.ntv.io
 miamiherald.share.ntv.io
-mlive.share.ntv.io
 mundohispanico.share.ntv.io
 nativomobileapps.share.ntv.io
 newsweek.share.ntv.io
@@ -348,7 +343,6 @@ post-gazette.share.ntv.io
 pressdemocrat.share.ntv.io
 sanduskyregister.share.ntv.io
 saveur.share.ntv.io
-shared.sponsoredcontent.com
 si.share.ntv.io
 silive.share.ntv.io
 smosh.share.ntv.io
