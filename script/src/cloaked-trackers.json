@@ -235,6 +235,13 @@
             "fathomdns.com"
         ]
     },
+	{
+		"company_name": "Galaksion",
+		"type": "ad",
+		"domains": [
+			"beixisys.com"
+		]
+	},
     {
         "company_name": "GENIEE",
         "type": "tracker",
