@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,7 +44,6 @@ l.nassy.jp CNAME .
 l.naturum.ne.jp CNAME .
 l.niiblo.jp CNAME .
 l.noramba.net CNAME .
-l.osakazine.net CNAME .
 l.otemo-yan.net CNAME .
 l.sagafan.jp CNAME .
 l.sapolog.com CNAME .

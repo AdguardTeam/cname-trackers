@@ -253,7 +253,6 @@
 | a8.pcnext.shop | trck.a8.net |
 | a8.pcwrap.com | trck.a8.net |
 | a8.personalfile.tech | trck.a8.net |
-| a8.petfood.mtflat.co.jp | trck.a8.net |
 | a8.pikaichi.co.jp | trck.a8.net |
 | a8.pla-cole.wedding | trck.a8.net |
 | a8.pocket-m.jp | trck.a8.net |
@@ -297,7 +296,6 @@
 | a8.sibody.tw | trck.a8.net |
 | a8.skr-labo.jp | trck.a8.net |
 | a8.smart-onepage.com | trck.a8.net |
-| a8.smp.shanon.co.jp | trck.a8.net |
 | a8.soelu.com | trck.a8.net |
 | a8.softbank-hikari.jp | trck.a8.net |
 | a8.sommelier.gift | trck.a8.net |
@@ -343,6 +341,7 @@
 | a8.uokura-hakata.com | trck.a8.net |
 | a8.uridoki.net | trck.a8.net |
 | a8.uzuz-college.jp | trck.a8.net |
+| a8.v-2-h.com | trck.a8.net |
 | a8.vector-park.jp | trck.a8.net |
 | a8.vinew.jp | trck.a8.net |
 | a8.virus-gekitai.com | trck.a8.net |
@@ -998,6 +997,7 @@
 | a8cv.ieagent.jp | trck.a8.net |
 | a8cv.iekoma.com | trck.a8.net |
 | a8cv.ieyasu.est.group | trck.a8.net |
+| a8cv.ihin-kizuna.com | trck.a8.net |
 | a8cv.iikyujin.net | trck.a8.net |
 | a8cv.ikapula.com | trck.a8.net |
 | a8cv.info.atgp.jp | trck.a8.net |
@@ -1270,7 +1270,6 @@
 | a8cv.tmix.jp | trck.a8.net |
 | a8cv.tokei-syuri.jp | trck.a8.net |
 | a8cv.toko-navi.com | trck.a8.net |
-| a8cv.tokutoku-battery.com | trck.a8.net |
 | a8cv.tokyo-dive.com | trck.a8.net |
 | a8cv.tokyo-indoorgolf.com | trck.a8.net |
 | a8cv.tokyogas.bocco.me | trck.a8.net |
@@ -1296,7 +1295,6 @@
 | a8cv.waterserver.co.jp | trck.a8.net |
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
-| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.withcode.tech | trck.a8.net |

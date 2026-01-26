@@ -5,10 +5,15 @@
 * trackwilltrk.com
     * r.trackwilltrk.com
 
+### Rarely active trackers
+
+* 548260.parkingcrew.net
+
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| t.trecktr.com | 548260.parkingcrew.net |
 | r.biotrck.com | r.trackwilltrk.com |
 | r.flatlong.shop | r.trackwilltrk.com |
 | r.maintoast.com | r.trackwilltrk.com |
@@ -44,7 +49,6 @@
 | t.trackpulse.uno | r.trackwilltrk.com |
 | t.traxtrck.online | r.trackwilltrk.com |
 | t.trcktr.com | r.trackwilltrk.com |
-| t.trecktr.com | r.trackwilltrk.com |
 | t.trkav.name | r.trackwilltrk.com |
 | t.vpntrck.com | r.trackwilltrk.com |
 | t.wintrck.com | r.trackwilltrk.com |

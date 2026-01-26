@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -226,6 +226,7 @@ dcf.espn.com.pe CNAME .
 dcf.espnqa.com CNAME .
 dcfdata.espn.com CNAME .
 ddc.statefarm.com CNAME .
+dtm.worldmarket.com CNAME .
 eb.trbas.com CNAME .
 emetrics.eastwestbank.com CNAME .
 ens.bote.ch CNAME .
@@ -417,6 +418,7 @@ tms.securid.com CNAME .
 tms.suzukibusinesscloud-qa.com CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
+tmsnabtrade.nab.com.au CNAME .
 tracking-sst.clicksafety.com CNAME .
 uat1-dc.pagoda.com CNAME .
 uat1-dc.peoplesjewellers.com CNAME .

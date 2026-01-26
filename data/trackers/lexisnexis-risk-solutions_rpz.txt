@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,10 +31,12 @@ advertize.stcbank.com.sa CNAME .
 aegis.miio.mx CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
+afm.alphatick.com.au CNAME .
 afm.asiacngw.com CNAME .
 afm.cnthevtmarkets.com CNAME .
 afm.cnvtglobal.com CNAME .
 afm.crointech.io CNAME .
+afm.gcnvtmarkets.com CNAME .
 afm.hoiltech.info CNAME .
 afm.infinox.com CNAME .
 afm.monetaindonesia.com CNAME .
@@ -78,6 +80,7 @@ afm.vantagetradings.com CNAME .
 afm.vnvtglobal.com CNAME .
 afm.vnvtmarkets.com CNAME .
 afm.vtdigitalad.com CNAME .
+afm.vtforex-cn.com CNAME .
 afm.vtg-mkt-apac.com CNAME .
 afm.vtg-mkt.com CNAME .
 afm.vtg-mkts.com CNAME .
@@ -269,6 +272,7 @@ checkout-df.lululemon.com CNAME .
 checkout.walz.de CNAME .
 cib.currency.lloydsbank.com CNAME .
 cim-idc-cdn.account.bcbsil.com CNAME .
+cim-idc-cdn.account.bcbsmt.com CNAME .
 cim-idc-cdn.account.bcbsnm.com CNAME .
 cim-idc-cdn.account.bcbstx.com CNAME .
 claimant.vec.virginia.gov CNAME .
@@ -286,6 +290,7 @@ connect.briopay.com CNAME .
 connect.everywherepaycard.com CNAME .
 connect.moneynetwork.com CNAME .
 connect.premieraccesscard.com CNAME .
+connect.solspark.com CNAME .
 consortium.adib.ae CNAME .
 contendvc.cnouyi.pizza CNAME .
 content-48.cnb.com CNAME .
@@ -422,6 +427,7 @@ content.readiness.familyprepaiddebit.com CNAME .
 content.readiness.paycardsolutions.com CNAME .
 content.realquest.com CNAME .
 content.reisource.com CNAME .
+content.rendimento.com.br CNAME .
 content.rias.co.uk CNAME .
 content.royalairmaroc.com CNAME .
 content.royalvegascasino.ca CNAME .
@@ -445,6 +451,7 @@ content.tfbank.de CNAME .
 content.tfbank.es CNAME .
 content.tfbank.it CNAME .
 content.thebankoflondon.com CNAME .
+content.uionline.dlt.ri.gov CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
 content.vi.gov CNAME .
@@ -535,6 +542,7 @@ detect.clearme.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
 device-fingerprint.pay1.checkout.worldline-solutions.com CNAME .
 device-fingerprint.pay2.checkout.worldline-solutions.com CNAME .
+device-id.orientalbank.com CNAME .
 device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
 device.messa.org CNAME .
@@ -738,6 +746,7 @@ ln.lavishluck.net CNAME .
 ln.meudigio.com.br CNAME .
 ln.moonprizecasino.com CNAME .
 ln.spinsorcery.net CNAME .
+ln.tangluck.com CNAME .
 ln.zenmerge.club CNAME .
 lnc.mo.gov CNAME .
 lncdn.aspire.com CNAME .
@@ -782,6 +791,7 @@ meox.allianceonline.com.my CNAME .
 metrix.ancestry.com CNAME .
 metrix.motosport.com CNAME .
 metrix.us.ovhcloud.com CNAME .
+mnconnect.fiservapis.com CNAME .
 mnt.sbisec.co.jp CNAME .
 mobile-content-f.autozone.com CNAME .
 mobile-content.pumb.ua CNAME .
@@ -1175,6 +1185,7 @@ tm.betano.dk CNAME .
 tm.betano.ng CNAME .
 tm.cbd.ae CNAME .
 tm.clearcover.com CNAME .
+tm.computeruniverse.net CNAME .
 tm.cox.com CNAME .
 tm.creditcheck.illion.co.nz CNAME .
 tm.creditcheck.illion.com.au CNAME .
@@ -1367,7 +1378,6 @@ wildcard.humm.ie CNAME .
 wkvjee5b.paviliononline.io CNAME .
 wp.kroger.com CNAME .
 wptm.worldvision.org CNAME .
-wptmpreprod.worldvision.org CNAME .
 ww3.fundingstream.com CNAME .
 ww3.marlincapitalsolutions.com CNAME .
 ww3.peacsolutions.com CNAME .

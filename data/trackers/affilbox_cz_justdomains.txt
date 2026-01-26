@@ -16,6 +16,7 @@ affil.aniball.cz
 affil.atan.cz
 affil.audioteka.cz
 affil.avenatura.sk
+affil.bavleg.cz
 affil.bitdef.cz
 affil.blaire.cz
 affil.bruderland.cz
@@ -88,7 +89,6 @@ affilbox.andreashop.sk
 affilbox.delibarry.com
 affilbox.doglog.cz
 affilbox.gurufinance.cz
-affilbox.imediafile.com
 affilbox.kronikazivota.cz
 affilbox.kronikazivota.sk
 affilbox.kvaskovanie.sk
@@ -248,7 +248,6 @@ affiliate.t6power.cz
 affiliate.tajomstvozenskejprosperity.sk
 affiliate.terarijni-potreby.cz
 affiliate.topol.io
-affiliate.trikator.cz
 affiliate.ucetni-portal.cz
 affiliate.uncaria.cz
 affiliate.unicare.sk
@@ -327,9 +326,7 @@ my.top4fitness.de
 my.top4fitness.fi
 my.top4fitness.fr
 my.top4fitness.gr
-my.top4fitness.hr
 my.top4fitness.hu
-my.top4fitness.ie
 my.top4fitness.it
 my.top4fitness.pl
 my.top4fitness.pt
@@ -339,7 +336,6 @@ my.top4football.de
 my.top4football.es
 my.top4football.fi
 my.top4football.hu
-my.top4football.ie
 my.top4football.ro
 my.top4running.at
 my.top4running.be
@@ -410,6 +406,7 @@ partener.aeriumshop.ro
 partner-affilbox.telly.cz
 partner.2din.cz
 partner.aerium.sk
+partner.aeriumshop.pl
 partner.affilbox.com
 partner.affiliateark.com
 partner.airbobags.com
@@ -551,6 +548,7 @@ partner.hrax.cz
 partner.hubnu.online
 partner.hunter.games
 partner.hurom.cz
+partner.idealninajemce.cz
 partner.idoklad.cz
 partner.ilprimo.sk
 partner.intelligentfood.cz
@@ -814,6 +812,7 @@ partneri.jazykovedarky.cz
 partneri.jazykyodpiky.cz
 partneri.jipos.cz
 partneri.jrc.cz
+partneri.kadernictvi.cz
 partneri.keramika-dum.cz
 partneri.kerasek.cz
 partneri.konverzacniklub.cz
@@ -948,7 +947,6 @@ spoluprace.nordictelecom.cz
 spoluprace.obchod-setrilek.cz
 spoluprace.potravinyarax.cz
 spoluprace.prostor8.cz
-spoluprace.sexito.cz
 spoluprace.sikland.cz
 spoluprace.skolnitriko.cz
 spoluprace.terrapotheka.cz

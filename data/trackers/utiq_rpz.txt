@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,7 +58,6 @@ utiq.apotheken-umschau.de CNAME .
 utiq.applesfera.com CNAME .
 utiq.ariva.de CNAME .
 utiq.arquitecturaydiseno.es CNAME .
-utiq.atf-tagmanager.de CNAME .
 utiq.aufeminin.com CNAME .
 utiq.autobild.de CNAME .
 utiq.autofrage.net CNAME .
@@ -214,6 +213,7 @@ utiq.informacion.es CNAME .
 utiq.infosalus.com CNAME .
 utiq.ingame.de CNAME .
 utiq.ingolstadt-today.de CNAME .
+utiq.insideevs.de CNAME .
 utiq.inspirational.es CNAME .
 utiq.instyle.es CNAME .
 utiq.ippen.media CNAME .
@@ -259,6 +259,7 @@ utiq.le10sport.com CNAME .
 utiq.lebenindeutschland.eu CNAME .
 utiq.leberry.fr CNAME .
 utiq.lechorepublicain.fr CNAME .
+utiq.lechorepublicain.fr.cdn.cloudflare.net CNAME .
 utiq.leckerschmecker.me CNAME .
 utiq.lecturas.com CNAME .
 utiq.lefigaro.fr CNAME .
@@ -317,6 +318,7 @@ utiq.monacomatin.mc CNAME .
 utiq.mopo.de CNAME .
 utiq.moto.it CNAME .
 utiq.motor-talk.de CNAME .
+utiq.motor1.com CNAME .
 utiq.motorimagazine.it CNAME .
 utiq.motorradfrage.net CNAME .
 utiq.motorsport-total.com CNAME .

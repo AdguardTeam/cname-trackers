@@ -33,7 +33,6 @@
 ||l.naturum.ne.jp^
 ||l.niiblo.jp^
 ||l.noramba.net^
-||l.osakazine.net^
 ||l.otemo-yan.net^
 ||l.sagafan.jp^
 ||l.sapolog.com^

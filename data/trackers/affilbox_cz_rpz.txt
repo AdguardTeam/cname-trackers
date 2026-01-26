@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ affil.aniball.cz CNAME .
 affil.atan.cz CNAME .
 affil.audioteka.cz CNAME .
 affil.avenatura.sk CNAME .
+affil.bavleg.cz CNAME .
 affil.bitdef.cz CNAME .
 affil.blaire.cz CNAME .
 affil.bruderland.cz CNAME .
@@ -99,7 +100,6 @@ affilbox.andreashop.sk CNAME .
 affilbox.delibarry.com CNAME .
 affilbox.doglog.cz CNAME .
 affilbox.gurufinance.cz CNAME .
-affilbox.imediafile.com CNAME .
 affilbox.kronikazivota.cz CNAME .
 affilbox.kronikazivota.sk CNAME .
 affilbox.kvaskovanie.sk CNAME .
@@ -259,7 +259,6 @@ affiliate.t6power.cz CNAME .
 affiliate.tajomstvozenskejprosperity.sk CNAME .
 affiliate.terarijni-potreby.cz CNAME .
 affiliate.topol.io CNAME .
-affiliate.trikator.cz CNAME .
 affiliate.ucetni-portal.cz CNAME .
 affiliate.uncaria.cz CNAME .
 affiliate.unicare.sk CNAME .
@@ -338,9 +337,7 @@ my.top4fitness.de CNAME .
 my.top4fitness.fi CNAME .
 my.top4fitness.fr CNAME .
 my.top4fitness.gr CNAME .
-my.top4fitness.hr CNAME .
 my.top4fitness.hu CNAME .
-my.top4fitness.ie CNAME .
 my.top4fitness.it CNAME .
 my.top4fitness.pl CNAME .
 my.top4fitness.pt CNAME .
@@ -350,7 +347,6 @@ my.top4football.de CNAME .
 my.top4football.es CNAME .
 my.top4football.fi CNAME .
 my.top4football.hu CNAME .
-my.top4football.ie CNAME .
 my.top4football.ro CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
@@ -421,6 +417,7 @@ partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
 partner.2din.cz CNAME .
 partner.aerium.sk CNAME .
+partner.aeriumshop.pl CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
 partner.airbobags.com CNAME .
@@ -562,6 +559,7 @@ partner.hrax.cz CNAME .
 partner.hubnu.online CNAME .
 partner.hunter.games CNAME .
 partner.hurom.cz CNAME .
+partner.idealninajemce.cz CNAME .
 partner.idoklad.cz CNAME .
 partner.ilprimo.sk CNAME .
 partner.intelligentfood.cz CNAME .
@@ -825,6 +823,7 @@ partneri.jazykovedarky.cz CNAME .
 partneri.jazykyodpiky.cz CNAME .
 partneri.jipos.cz CNAME .
 partneri.jrc.cz CNAME .
+partneri.kadernictvi.cz CNAME .
 partneri.keramika-dum.cz CNAME .
 partneri.kerasek.cz CNAME .
 partneri.konverzacniklub.cz CNAME .
@@ -959,7 +958,6 @@ spoluprace.nordictelecom.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
 spoluprace.prostor8.cz CNAME .
-spoluprace.sexito.cz CNAME .
 spoluprace.sikland.cz CNAME .
 spoluprace.skolnitriko.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .

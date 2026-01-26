@@ -60,6 +60,7 @@
 ||et.equiva.com^
 ||et.go-kmu.de^
 ||et.goal-based.investments^
+||et.hv-bayern.de^
 ||et.immobilien-strobl.de^
 ||et.lavita.com^
 ||et.lerche-werbemittel.de^
@@ -121,11 +122,18 @@
 ||go.eitrmsummit.com^
 ||go.kik.de^
 ||gruenten.agrar-fachversand.com^
+||gruenten.wahl-agrar.at^
+||gruenten.wahl-agri.fr^
 ||gruenten.wahl-agri.it^
+||gruenten.wahl-equestre.fr^
+||gruenten.wahl-equi.it^
+||gruenten.wahl-reitsport.at^
+||gruenten.wahl-reitsport.com^
 ||gus.corinnavondermuehlen.de^
 ||insides.honic.eu^
 ||insights.bertelsmann-stiftung.de^
 ||js.edingershops.de^
+||knowlege.kuechenrueckwand.store^
 ||knowlege.pepeprint.de^
 ||lolly.needforsweet.de^
 ||maschine.bengs-modellbau.de^
@@ -136,11 +144,13 @@
 ||metrics.bauwerk.de^
 ||metrics.cannamedical.com^
 ||metrics.catchandkeep.de^
+||metrics.cnag.de^
 ||metrics.einfachiso.de^
 ||metrics.energetix.tv^
 ||metrics.go-jugendreisen.de^
 ||metrics.greatvita.de^
 ||metrics.gutskueche.de^
+||metrics.heulnichtrum.de^
 ||metrics.iqcheck24.de^
 ||metrics.leimer.de^
 ||metrics.mammutmarsch.de^
@@ -148,6 +158,8 @@
 ||metrics.moderade.com^
 ||metrics.muehle-glashuette.de^
 ||metrics.ostseeresort-damp.de^
+||metrics.soelring-hof.de^
+||metrics.stadtwerke-hamm.de^
 ||metrics.stilvol.de^
 ||metrics.thegoodshit.store^
 ||metrics.thomasipunkt.de^
@@ -167,6 +179,7 @@
 ||ric.arrive-im-herzogpark.de^
 ||ric.riedel-immobilien.de^
 ||ric.seeleben-starnbergersee.de^
+||salzburg.pankart.dev^
 ||salzburg.semsea.at^
 ||show.gruppedrei.com^
 ||sltracking.sonderlote.de^
@@ -196,6 +209,7 @@
 ||stats.pilz.com^
 ||stats.rumundco.de^
 ||stats.salzburgerjobs.at^
+||stats.seesteg-norderney.de^
 ||stats.steirerjobs.at^
 ||stats.suedtirolerjobs.it^
 ||stats.tirolerjobs.at^
@@ -218,12 +232,14 @@
 ||track.dictum-handwerksgalerie.de^
 ||track.dictum-shop.de^
 ||track.karlstorz.com^
+||track.kautel.de^
 ||track.richtig-schaerfen.de^
 ||track.schlaffabrik.com^
 ||track.thegundogaffair.com^
 ||tracker.bkk24.de^
 ||tracking.360products.de^
 ||tracking.anthonys.at^
+||tracking.belkaw.de^
 ||tracking.chio.hu^
 ||tracking.gruener-soelden.com^
 ||tracking.lanxess.com^
@@ -263,6 +279,7 @@
 ||webcon.se-legal.de^
 ||webcontr.4pace.com^
 ||webcontr.aquarius-prolife.com^
+||webcontr.aulairenicus.de^
 ||webcontr.barcodescanner.de^
 ||webcontr.baulogistik-online.de^
 ||webcontr.bertibuch.de^
@@ -323,6 +340,7 @@
 ||webcontr.verpoorten.de^
 ||webcontr.vetter-pharma.com^
 ||webcontr.wgv.de^
+||webcontr.wnxe.de^
 ||webcontr.wolkenlosundheiter.de^
 ||webcontr.yourfashionplace.de^
 ||webcontrol.brenners-altholz.at^
@@ -335,6 +353,7 @@
 ||webstt0016.onofficeom.com^
 ||webstt0019.onofficeom.com^
 ||webstt0020.onofficeom.com^
+||webstt0022.onofficeom.com^
 ||webtr.codearchitekten.de^
 ||webtr.dachser.com^
 ||webtr.regisafe.de^

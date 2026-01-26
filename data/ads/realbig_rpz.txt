@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -35,11 +35,13 @@ my.rb2psh.ru CNAME .
 newrotatormarch23.bid CNAME .
 news.unsere-news.ru CNAME .
 nservw.net CNAME .
+owmedia.rabbit.click CNAME .
 p.netork.ru CNAME .
 par.moyslovar.ru CNAME .
 park.realbig.media CNAME .
 park.wpcodes.org CNAME .
 po.zolivexo.ru CNAME .
+push.rabbit.click CNAME .
 rb.crimeagc.com CNAME .
 rb.mnogodiva.ru CNAME .
 rb.slova-accordy.ru CNAME .
@@ -62,7 +64,6 @@ www.5738.ru CNAME .
 www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .
 www.fasder12.ru CNAME .
-www.mojwprb.ru CNAME .
 www.orbitnotify.com CNAME .
 www.pc-download.ru CNAME .
 www.prbcdn.online CNAME .

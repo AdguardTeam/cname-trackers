@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,20 +13,14 @@ $TTL 300
 
 ad.slimspots.com CNAME .
 ad.srvupads.com CNAME .
-ads.coinads.click CNAME .
 cdn.goasrv.com CNAME .
 display.digitalclickstime.com CNAME .
 ff.avacharms.top CNAME .
 ff.buspar.click CNAME .
 ff.charmduo.site CNAME .
-ff.dreamdates.online CNAME .
-ff.nolvade.top CNAME .
 ff.sweetconnect.site CNAME .
-ff.trakerton.com CNAME .
-gg.luli7.com CNAME .
-go.adxoclick.com CNAME .
+ff.trimox.buzz CNAME .
 go.aoalmfwinbsstec23.com CNAME .
-go.bidvance.com CNAME .
 go.bigbang.solutions CNAME .
 go.delmovip.com CNAME .
 go.digitalclickstime.com CNAME .
@@ -36,32 +30,18 @@ go.goasrv.com CNAME .
 go.gosrv.cl CNAME .
 go.gsrv.dev CNAME .
 go.novirtb.com CNAME .
-go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com CNAME .
 go.redgifs.com CNAME .
 go.static-srv.com CNAME .
+go.tbllprem.com CNAME .
 go.tbllzon.com CNAME .
 go1.3mre.work CNAME .
 go1.a2ure.work CNAME .
-go1.atre.work CNAME .
-go1.bhunif.com CNAME .
-go1.ccre.work CNAME .
-go1.lire.work CNAME .
 go1.nolvadex.top CNAME .
-go1.orenwiki.top CNAME .
 go1.reacheffecti.work CNAME .
 go1.reachsrv.com CNAME .
-go1.rssr.work CNAME .
-go1.sildenafi.beauty CNAME .
-go1.spre.work CNAME .
 go1.tbllad.com CNAME .
 go1.trakit12.com CNAME .
-go1.trakit13.com CNAME .
-go1.trakit14.com CNAME .
-go1.trakit15.com CNAME .
-go1.trakit17.com CNAME .
-go1.trakit18.com CNAME .
 go1.trakit19.com CNAME .
-go1.trakit21.com CNAME .
 go1.trakit22.com CNAME .
 go1.trakit23.com CNAME .
 go1.trakit24.com CNAME .
@@ -69,7 +49,6 @@ go1.trakit25.com CNAME .
 go1.trakit26.com CNAME .
 go1.trakit27.com CNAME .
 go1.trakit30.com CNAME .
-go1.were.work CNAME .
 go1.yare.work CNAME .
 go2.toplineads.com CNAME .
 go2.trafficbull.com CNAME .
@@ -94,12 +73,31 @@ live.trmzum.com CNAME .
 live.trudigo.com CNAME .
 live.zrmtrm.com CNAME .
 pl.tbllem.com CNAME .
+up.tbllem.com CNAME .
+www.goasrv.com CNAME .
+ads.coinads.click CNAME .
+ff.dreamdates.online CNAME .
+ff.nolvade.top CNAME .
+ff.trakerton.com CNAME .
+gg.luli7.com CNAME .
+go.adxoclick.com CNAME .
+go.bidvance.com CNAME .
+go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com CNAME .
+go1.atre.work CNAME .
+go1.bhunif.com CNAME .
+go1.ccre.work CNAME .
+go1.lire.work CNAME .
+go1.orenwiki.top CNAME .
+go1.rssr.work CNAME .
+go1.sildenafi.beauty CNAME .
+go1.spre.work CNAME .
+go1.trakit17.com CNAME .
+go1.trakit18.com CNAME .
+go1.trakit21.com CNAME .
+go1.were.work CNAME .
 rtb.prnteen.com CNAME .
-rtb.zingtraffic.com CNAME .
-service.zingtraffic.com CNAME .
 ssp.nontonfilm.xyz CNAME .
 supply.hornylust.com CNAME .
-up.tbllem.com CNAME .
 zz.shat1.com CNAME .
 app.noviclick.com CNAME .
 data.goasrv.com CNAME .

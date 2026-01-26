@@ -1,0 +1,81 @@
+;
+; Company name: Galaksion
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1769414419388        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+1x.x7zczyxetfnui36eh1ng.cyou CNAME .
+24bli9y6q3.t3xfoqgb9mtincqxwnww4.cyou CNAME .
+2phw59.ernwzlhjf24vt79nix4f7h.cfd CNAME .
+2q.ixfuiirowe8go9qw6z77ff3mz4.cyou CNAME .
+2qg46e973pwz.ef3eu33z8leijf7i.cyou CNAME .
+2u3ggp839i.5xf7eebgmv2j8bxxryc.cyou CNAME .
+2u4qp6x9qnwb.x45ucfyi4zhtwej3m.cyou CNAME .
+35r4mml34o9jw2z45zhm8q64.ftvlin4kulfkznn.cfd CNAME .
+3golr.2vgrth1no4e5xwjvv4jte93t5iw9i.cyou CNAME .
+4y4.keiph9chhq2q5wo71.cfd CNAME .
+5485xwgzuy.u6reeq2hcp14boegipe.cfd CNAME .
+5fthgyr3m.vqrl12rqhthjwl.cyou CNAME .
+5tf8v3rv.ohtwiqwhxovjlqi8fcb.cfd CNAME .
+6.qtcmxpiyne933ct3293986heg6vwwrj7z.cfd CNAME .
+62gbv157r.lvpk5yn1jkmx6o273ej1ihh85vuz.cfd CNAME .
+62rto8qfv.k62ey3mkjxq5xoxo55nyuz9vwztj.cfd CNAME .
+6jk7ffqjjrz1.zfk5joitxrcqcw5h6uje.cfd CNAME .
+8gy3.gwl6z5nor21v8wuvw3.cfd CNAME .
+8xw.j1f1v41vzj57gp5iyh44632.cfd CNAME .
+94lbhfbqz548hqpurbn3b.eglzh9hj9j62my.cyou CNAME .
+9t44lffrhi4h74zn.n6in8ytttwelrrv6o.cfd CNAME .
+9x2w5wbnnx.2kgve7iey32qjo45w392kzrp.cfd CNAME .
+b8.tzkiqtq489j9mgbui2rz.cfd CNAME .
+c5omwkx.vycoot78e1i1hw5ktnyhvu.cfd CNAME .
+c8mp5.588w66g4rp22tbrqvuf81j4q8.cfd CNAME .
+epghe6t1o86p8.e3hn1ghc27jl2l2tcu9y1.cfd CNAME .
+g.hor58o9ooh6zqh3zljgg7.cfd CNAME .
+g7bi96qck.4b246mtpc5q6x5632r9.cfd CNAME .
+hi6h5r463.tzxjxouw8on8r8rm3pf54.cyou CNAME .
+hofz3w3t.vn5qgl5qrwpzm3knr6lcu8hy.cfd CNAME .
+hyfj9k3reow.jwvr9qyyi8mw2oh9tvb87y5.cfd CNAME .
+ig1z6h4t74wplcuvo1zwk61f.13f75y9m2v21nu.cfd CNAME .
+k23cg79637uxc.2iu881k6yootob2zq15p.cfd CNAME .
+kkhln83q5ge.3tn9czz7qmog33whf5.cfd CNAME .
+kpxxmmq7qm.1f7845oic111hxqbrl4x.cfd CNAME .
+kq79rf9mh7gu.29gfb9ctz2fkon77k8.cfd CNAME .
+kucjg5k48iyx4p3j.v6xxkggvzc1wzkk.cyou CNAME .
+ll1j2ce7gq7orkz9olz.wbt9e9egqw6yq86ju2.cfd CNAME .
+m8mu8hkvqg.jxupm8484pk6qx.cyou CNAME .
+n4t6v6krp.337oubpfzjluuyi4fv7u26.cfd CNAME .
+ot.b421thken5xglvupopxly15q6p6y16397br.cfd CNAME .
+qb.5ufjktil58hct6638p8yb.cyou CNAME .
+qi838ufug9.w4yb7hw3tnor3c.cfd CNAME .
+qogkroxz3.4m5cc9r6j8wqk1mw7.cyou CNAME .
+retvrtlig.2hpq6j4wt79ouw6wtcc5wr.cfd CNAME .
+rrwxp1u51g5h.tjoizboxb7o2l4jnhnj6y6.cfd CNAME .
+t.lcm6x8i6rowq6r.cfd CNAME .
+t3eq.9iw6l5qyp6tbikq.cfd CNAME .
+u7xq3kz.94ihw1ex4xotkrj1i3flv.cfd CNAME .
+umhf.hql237ec5nhptgyfkxj.cfd CNAME .
+uqo6.qlfyxty3cipth18v1vfg.cfd CNAME .
+v5gfu7hgt97r.ty3qlv3kvekfheq9pm3nmbj.cyou CNAME .
+w.tlywufv7lynzx5.cfd CNAME .
+w.u1prv1ibivtx2f.cfd CNAME .
+woo2vlcbqoo54nonhhzfgjnwjf.hc1y4vgklee75t.cyou CNAME .
+x.e9qr84kwo46lzr5pcb.cfd CNAME .
+x.i4l2jjn4hhq17frcp9o.cfd CNAME .
+x.wt9bi8nywgw3l2ot66nb6k.cfd CNAME .
+x698.4vci8kxg42cg8hnewmeo5u.cfd CNAME .
+x9ffnup.15b6ivr9tzt92juqkvq.cyou CNAME .
+xf.w2le1o66k351rkzm8.cfd CNAME .
+xw3hpqol9.t8vi3guzt3rc7o.cyou CNAME .
+y.rkcmtcu6p4rxivyojj65hwpniyhwu.cfd CNAME .
+y4c71nr9ftptflo5pm.e8l82rej9reu64o.cyou CNAME .
+yf.rhlcjw869uyh139lr9ob334vz.cfd CNAME .
+yv3q5c28j.cxcuzgyhi48i7wurlhgfiv.cyou CNAME .
+yvof4m5mtbbpejj8r.814j8o6piv3gpf.cyou CNAME .
+zqmcw.qmwmq6c5zvxpmyzehn6tl9nft2ltorn7u.cfd CNAME .

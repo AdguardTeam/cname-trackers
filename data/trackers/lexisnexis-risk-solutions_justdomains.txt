@@ -20,10 +20,12 @@ advertize.stcbank.com.sa
 aegis.miio.mx
 af.mobile.free.fr
 afm.alphatick.com
+afm.alphatick.com.au
 afm.asiacngw.com
 afm.cnthevtmarkets.com
 afm.cnvtglobal.com
 afm.crointech.io
+afm.gcnvtmarkets.com
 afm.hoiltech.info
 afm.infinox.com
 afm.monetaindonesia.com
@@ -67,6 +69,7 @@ afm.vantagetradings.com
 afm.vnvtglobal.com
 afm.vnvtmarkets.com
 afm.vtdigitalad.com
+afm.vtforex-cn.com
 afm.vtg-mkt-apac.com
 afm.vtg-mkt.com
 afm.vtg-mkts.com
@@ -258,6 +261,7 @@ checkout-df.lululemon.com
 checkout.walz.de
 cib.currency.lloydsbank.com
 cim-idc-cdn.account.bcbsil.com
+cim-idc-cdn.account.bcbsmt.com
 cim-idc-cdn.account.bcbsnm.com
 cim-idc-cdn.account.bcbstx.com
 claimant.vec.virginia.gov
@@ -275,6 +279,7 @@ connect.briopay.com
 connect.everywherepaycard.com
 connect.moneynetwork.com
 connect.premieraccesscard.com
+connect.solspark.com
 consortium.adib.ae
 contendvc.cnouyi.pizza
 content-48.cnb.com
@@ -411,6 +416,7 @@ content.readiness.familyprepaiddebit.com
 content.readiness.paycardsolutions.com
 content.realquest.com
 content.reisource.com
+content.rendimento.com.br
 content.rias.co.uk
 content.royalairmaroc.com
 content.royalvegascasino.ca
@@ -434,6 +440,7 @@ content.tfbank.de
 content.tfbank.es
 content.tfbank.it
 content.thebankoflondon.com
+content.uionline.dlt.ri.gov
 content.usps.com
 content.varetire.org
 content.vi.gov
@@ -524,6 +531,7 @@ detect.clearme.com
 dev-rmscheck.sbifxt.co.jp
 device-fingerprint.pay1.checkout.worldline-solutions.com
 device-fingerprint.pay2.checkout.worldline-solutions.com
+device-id.orientalbank.com
 device-profile.jeniusbank.com
 device.invoice2go.com
 device.messa.org
@@ -727,6 +735,7 @@ ln.lavishluck.net
 ln.meudigio.com.br
 ln.moonprizecasino.com
 ln.spinsorcery.net
+ln.tangluck.com
 ln.zenmerge.club
 lnc.mo.gov
 lncdn.aspire.com
@@ -771,6 +780,7 @@ meox.allianceonline.com.my
 metrix.ancestry.com
 metrix.motosport.com
 metrix.us.ovhcloud.com
+mnconnect.fiservapis.com
 mnt.sbisec.co.jp
 mobile-content-f.autozone.com
 mobile-content.pumb.ua
@@ -1164,6 +1174,7 @@ tm.betano.dk
 tm.betano.ng
 tm.cbd.ae
 tm.clearcover.com
+tm.computeruniverse.net
 tm.cox.com
 tm.creditcheck.illion.co.nz
 tm.creditcheck.illion.com.au
@@ -1356,7 +1367,6 @@ wildcard.humm.ie
 wkvjee5b.paviliononline.io
 wp.kroger.com
 wptm.worldvision.org
-wptmpreprod.worldvision.org
 ww3.fundingstream.com
 ww3.marlincapitalsolutions.com
 ww3.peacsolutions.com

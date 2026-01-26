@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -106,7 +106,6 @@ console.faithlifeads.com CNAME .
 console.falconstudios.com CNAME .
 console.goldseek.com CNAME .
 console.greenspring.com CNAME .
-console.healthcarescene.com CNAME .
 console.hour-media.com CNAME .
 console.imagineobx.com CNAME .
 console.informingnews.com CNAME .
@@ -293,7 +292,6 @@ www.console.biohandel.de CNAME .
 www.console.ceramicartsnetwork.org CNAME .
 www.console.cincinnatimagazine.com CNAME .
 www.console.falconstudios.com CNAME .
-www.console.healthcarescene.com CNAME .
 www.console.leightonbroadcasting.com CNAME .
 www.console.livingmagonline.com CNAME .
 www.console.myadsmyanmar.com CNAME .
@@ -330,7 +328,6 @@ www.static.ad.logic-test.viasat.io CNAME .
 www.static.ad.logic.viasat.io CNAME .
 www.static.engineeringnews.co.za CNAME .
 www.static.everythingnevada.com CNAME .
-www.static.healthcarescene.com CNAME .
 www.static.imagineobx.com CNAME .
 www.static.insideradverts.com CNAME .
 www.static.livingmagonline.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,5 +11,5 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-sptrack.mailer.humblebundle.com CNAME .
 trcksp.cordial.io CNAME .
+sptrack.mailer.humblebundle.com CNAME .

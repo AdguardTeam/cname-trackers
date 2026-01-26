@@ -52,7 +52,6 @@
 | utiq.applesfera.com | frontend.prod.utiq-aws.net |
 | utiq.ariva.de | frontend.prod.utiq-aws.net |
 | utiq.arquitecturaydiseno.es | frontend.prod.utiq-aws.net |
-| utiq.atf-tagmanager.de | frontend.prod.utiq-aws.net |
 | utiq.aufeminin.com | frontend.prod.utiq-aws.net |
 | utiq.autobild.de | frontend.prod.utiq-aws.net |
 | utiq.autofrage.net | frontend.prod.utiq-aws.net |
@@ -208,6 +207,7 @@
 | utiq.infosalus.com | frontend.prod.utiq-aws.net |
 | utiq.ingame.de | frontend.prod.utiq-aws.net |
 | utiq.ingolstadt-today.de | frontend.prod.utiq-aws.net |
+| utiq.insideevs.de | frontend.prod.utiq-aws.net |
 | utiq.inspirational.es | frontend.prod.utiq-aws.net |
 | utiq.instyle.es | frontend.prod.utiq-aws.net |
 | utiq.ippen.media | frontend.prod.utiq-aws.net |
@@ -253,6 +253,7 @@
 | utiq.lebenindeutschland.eu | frontend.prod.utiq-aws.net |
 | utiq.leberry.fr | frontend.prod.utiq-aws.net |
 | utiq.lechorepublicain.fr | frontend.prod.utiq-aws.net |
+| utiq.lechorepublicain.fr.cdn.cloudflare.net | frontend.prod.utiq-aws.net |
 | utiq.leckerschmecker.me | frontend.prod.utiq-aws.net |
 | utiq.lecturas.com | frontend.prod.utiq-aws.net |
 | utiq.lefigaro.fr | frontend.prod.utiq-aws.net |
@@ -311,6 +312,7 @@
 | utiq.mopo.de | frontend.prod.utiq-aws.net |
 | utiq.moto.it | frontend.prod.utiq-aws.net |
 | utiq.motor-talk.de | frontend.prod.utiq-aws.net |
+| utiq.motor1.com | frontend.prod.utiq-aws.net |
 | utiq.motorimagazine.it | frontend.prod.utiq-aws.net |
 | utiq.motorradfrage.net | frontend.prod.utiq-aws.net |
 | utiq.motorsport-total.com | frontend.prod.utiq-aws.net |

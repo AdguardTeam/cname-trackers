@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -306,7 +306,6 @@ tr.corporate.moethennessy.com CNAME .
 tr.courriel.conexvous.com CNAME .
 tr.courriel.ganassurances.fr CNAME .
 tr.courriel.mae.fr CNAME .
-tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
 tr.courrier.larepubliquedespyrenees.fr CNAME .
 tr.courrier.sudouest.fr CNAME .
@@ -476,6 +475,7 @@ tr.gestion.liberation.fr CNAME .
 tr.gestion.loisirs-finance.fr CNAME .
 tr.gestion.norrsken.fr CNAME .
 tr.gestion.sygmabnpparibas-pf.com CNAME .
+tr.gestion.volvocarfinance.fr CNAME .
 tr.global-insights.moethennessy.com CNAME .
 tr.globalmedia.moethennessy.com CNAME .
 tr.gplus.espmp-nifr.net CNAME .
@@ -560,7 +560,6 @@ tr.info.projeo-finance.fr CNAME .
 tr.info.rebond-bpifrance.fr CNAME .
 tr.info.reunica.com CNAME .
 tr.info.rouen.aeroport.fr CNAME .
-tr.info.rouen.cci.fr CNAME .
 tr.info.snpden.net CNAME .
 tr.info.svp.com CNAME .
 tr.info.valcenis.com CNAME .
@@ -880,7 +879,6 @@ tr.news.monvoyant.fr CNAME .
 tr.news.mperformance.fr CNAME .
 tr.news.np6.com CNAME .
 tr.news.onetoonemba.com CNAME .
-tr.news.ouestnormandie.cci.fr CNAME .
 tr.news.parisinfo.com CNAME .
 tr.news.perfectstay.com CNAME .
 tr.news.perl.fr CNAME .
@@ -889,7 +887,6 @@ tr.news.pointfranchise.co.uk CNAME .
 tr.news.prosfora-mou.gr CNAME .
 tr.news.receiveyourquote.co.uk CNAME .
 tr.news.retailglobalsolutions.com CNAME .
-tr.news.seine-estuaire.cci.fr CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.solocalms.fr CNAME .
@@ -1242,8 +1239,9 @@ f1.mperf.com CNAME .
 f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
+www.bfc-mp.caisse-epargne.fr CNAME .
 s.gemy.fr CNAME .
+s.lgch.mp CNAME .
 s.np6.com CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
-www.bfc-mp.caisse-epargne.fr CNAME .

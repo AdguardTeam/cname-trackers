@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -250,7 +250,6 @@ a8.parcys.com CNAME .
 a8.pcnext.shop CNAME .
 a8.pcwrap.com CNAME .
 a8.personalfile.tech CNAME .
-a8.petfood.mtflat.co.jp CNAME .
 a8.pikaichi.co.jp CNAME .
 a8.pla-cole.wedding CNAME .
 a8.pocket-m.jp CNAME .
@@ -294,7 +293,6 @@ a8.shukatsu-note.com CNAME .
 a8.sibody.tw CNAME .
 a8.skr-labo.jp CNAME .
 a8.smart-onepage.com CNAME .
-a8.smp.shanon.co.jp CNAME .
 a8.soelu.com CNAME .
 a8.softbank-hikari.jp CNAME .
 a8.sommelier.gift CNAME .
@@ -340,6 +338,7 @@ a8.unicoffee.tech CNAME .
 a8.uokura-hakata.com CNAME .
 a8.uridoki.net CNAME .
 a8.uzuz-college.jp CNAME .
+a8.v-2-h.com CNAME .
 a8.vector-park.jp CNAME .
 a8.vinew.jp CNAME .
 a8.virus-gekitai.com CNAME .
@@ -996,6 +995,7 @@ a8cv.icoi.style CNAME .
 a8cv.ieagent.jp CNAME .
 a8cv.iekoma.com CNAME .
 a8cv.ieyasu.est.group CNAME .
+a8cv.ihin-kizuna.com CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.ikapula.com CNAME .
 a8cv.info.atgp.jp CNAME .
@@ -1268,7 +1268,6 @@ a8cv.tintle.net CNAME .
 a8cv.tmix.jp CNAME .
 a8cv.tokei-syuri.jp CNAME .
 a8cv.toko-navi.com CNAME .
-a8cv.tokutoku-battery.com CNAME .
 a8cv.tokyo-dive.com CNAME .
 a8cv.tokyo-indoorgolf.com CNAME .
 a8cv.tokyogas.bocco.me CNAME .
@@ -1294,7 +1293,6 @@ a8cv.wake.fun CNAME .
 a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
-a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.withcode.tech CNAME .

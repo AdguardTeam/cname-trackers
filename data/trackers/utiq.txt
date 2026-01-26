@@ -47,7 +47,6 @@
 ||utiq.applesfera.com^
 ||utiq.ariva.de^
 ||utiq.arquitecturaydiseno.es^
-||utiq.atf-tagmanager.de^
 ||utiq.aufeminin.com^
 ||utiq.autobild.de^
 ||utiq.autofrage.net^
@@ -203,6 +202,7 @@
 ||utiq.infosalus.com^
 ||utiq.ingame.de^
 ||utiq.ingolstadt-today.de^
+||utiq.insideevs.de^
 ||utiq.inspirational.es^
 ||utiq.instyle.es^
 ||utiq.ippen.media^
@@ -248,6 +248,7 @@
 ||utiq.lebenindeutschland.eu^
 ||utiq.leberry.fr^
 ||utiq.lechorepublicain.fr^
+||utiq.lechorepublicain.fr.cdn.cloudflare.net^
 ||utiq.leckerschmecker.me^
 ||utiq.lecturas.com^
 ||utiq.lefigaro.fr^
@@ -306,6 +307,7 @@
 ||utiq.mopo.de^
 ||utiq.moto.it^
 ||utiq.motor-talk.de^
+||utiq.motor1.com^
 ||utiq.motorimagazine.it^
 ||utiq.motorradfrage.net^
 ||utiq.motorsport-total.com^

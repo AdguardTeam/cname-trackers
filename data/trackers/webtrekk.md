@@ -18,10 +18,7 @@
     * img01.webtrekk.net
     * ingnl04.webtrekk.net
     * interhyp02.webtrekk.net
-    * kfw-05.webtrekk.net
-    * kfw-06.webtrekk.net
     * kfw-07.webtrekk.net
-    * kfw04.webtrekk.net
     * kiomi-com01.webtrekk.net
     * netcologne-01.webtrekk.net
     * obi-com01.webtrekk.net
@@ -174,6 +171,7 @@
     * 820632509849778.wt-eu02.net
     * 823532764568303.wt-eu02.net
     * 835623675026119.wt-eu02.net
+    * 839624012661796.wt-eu02.net
     * 841439655073636.wt-eu02.net
     * 842359050480299.wt-eu02.net
     * 849036415619964.wt-eu02.net
@@ -443,6 +441,7 @@
 | mit.dws.de | 823532764568303.wt-eu02.net |
 | web.info.bodybuildingwarehouse.co.uk | 835623675026119.wt-eu02.net |
 | web.info.bodybuildingwarehouse.com | 835623675026119.wt-eu02.net |
+| web.news.eataly.net | 839624012661796.wt-eu02.net |
 | web.news.paganistore.com | 841439655073636.wt-eu02.net |
 | web.redazione.italiaoggi.it | 842359050480299.wt-eu02.net |
 | web.redazione.milanofinanza.it | 842359050480299.wt-eu02.net |
@@ -574,10 +573,7 @@
 | wtm.interhyp.de | interhyp02.webtrekk.net |
 | data.charles-colby.com | janvanderstorm-01.wt-eu02.net |
 | data.janvanderstorm.de | janvanderstorm-01.wt-eu02.net |
-| image.deginvest.de | kfw-05.webtrekk.net |
-| image.kfw-ipex-bank.de | kfw-06.webtrekk.net |
 | image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
-| image.kfw.de | kfw04.webtrekk.net |
 | track.kiomi.com | kiomi-com01.webtrekk.net |
 | wttd.madeleine-fashion.be | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-fashion.nl | madeleineprod01.wt-eu02.net |

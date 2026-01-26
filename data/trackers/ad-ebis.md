@@ -107,7 +107,6 @@
     * 427cbec2-ygtehjuq.cname.ebis.ne.jp
     * 435017b6-hcwlnnyg.cname.ebis.ne.jp
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
-    * 454c6615-hd5f4dhg.cname.ebis.ne.jp
     * 458694f3-6pwt4nrz.cname.ebis.ne.jp
     * 4625f83e-ua37naea.cname.ebis.ne.jp
     * 469a5e48-scxitlgt.cname.ebis.ne.jp
@@ -227,6 +226,7 @@
     * a1f251c6-iksdytmu.cname.ebis.ne.jp
     * a210b17a-hwsehbyq.cname.ebis.ne.jp
     * a24bb2f5-q4vseaye.cname.ebis.ne.jp
+    * a2f5fc0f-57g0kijx.cname.ebis.ne.jp
     * a30db63a-h0sqxtcz.cname.ebis.ne.jp
     * a32c8a4f-h0sqxtcz.cname.ebis.ne.jp
     * a39324ce-fgpe2gow.cname.ebis.ne.jp
@@ -469,7 +469,6 @@
 | adebis.curilla.jp | 427cbec2-ygtehjuq.cname.ebis.ne.jp |
 | adebis.kose.co.jp | 435017b6-hcwlnnyg.cname.ebis.ne.jp |
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |
-| tracking.nokai.jp | 454c6615-hd5f4dhg.cname.ebis.ne.jp |
 | ebis.yumeyakata.com | 458694f3-6pwt4nrz.cname.ebis.ne.jp |
 | cmass.massmedian.co.jp | 4625f83e-ua37naea.cname.ebis.ne.jp |
 | cs0008sbeda.enzyme-supply.com | 469a5e48-scxitlgt.cname.ebis.ne.jp |
@@ -589,6 +588,7 @@
 | test-ad.lucia-c.com | a1f251c6-iksdytmu.cname.ebis.ne.jp |
 | ad.kddi-fs.com | a210b17a-hwsehbyq.cname.ebis.ne.jp |
 | ebis.radishbo-ya.co.jp | a24bb2f5-q4vseaye.cname.ebis.ne.jp |
+| cdn01.sanko.ac.jp | a2f5fc0f-57g0kijx.cname.ebis.ne.jp |
 | adtrack.maisonlexia.com | a30db63a-h0sqxtcz.cname.ebis.ne.jp |
 | adtrack.alchemy-web.jp | a32c8a4f-h0sqxtcz.cname.ebis.ne.jp |
 | adex.naruko333.jp | a39324ce-fgpe2gow.cname.ebis.ne.jp |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -118,7 +118,6 @@ l.futura-sciences.com CNAME .
 l.gala.fr CNAME .
 l.gamekult.com CNAME .
 l.gamepro.de CNAME .
-l.gamesider.com CNAME .
 l.gamestar.de CNAME .
 l.genevasolutions.news CNAME .
 l.gentside.com CNAME .

@@ -1,9 +1,6 @@
 #
 # Company name: Webtrekk
-image.deginvest.de
 image.kfw-entwicklungsbank.de
-image.kfw-ipex-bank.de
-image.kfw.de
 img.buch.ch
 mon.ingservices.nl
 now.peek-cloppenburg.de
@@ -302,6 +299,7 @@ web.news.absurdbeauty.com
 web.news.bottegaverde.com
 web.news.boxeurdesrues.com
 web.news.coccinelle.com
+web.news.eataly.net
 web.news.eprice.it
 web.news.gnv.it
 web.news.kasanova.com

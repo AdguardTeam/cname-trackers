@@ -239,7 +239,6 @@
 ||a8.pcnext.shop^
 ||a8.pcwrap.com^
 ||a8.personalfile.tech^
-||a8.petfood.mtflat.co.jp^
 ||a8.pikaichi.co.jp^
 ||a8.pla-cole.wedding^
 ||a8.pocket-m.jp^
@@ -283,7 +282,6 @@
 ||a8.sibody.tw^
 ||a8.skr-labo.jp^
 ||a8.smart-onepage.com^
-||a8.smp.shanon.co.jp^
 ||a8.soelu.com^
 ||a8.softbank-hikari.jp^
 ||a8.sommelier.gift^
@@ -329,6 +327,7 @@
 ||a8.uokura-hakata.com^
 ||a8.uridoki.net^
 ||a8.uzuz-college.jp^
+||a8.v-2-h.com^
 ||a8.vector-park.jp^
 ||a8.vinew.jp^
 ||a8.virus-gekitai.com^
@@ -985,6 +984,7 @@
 ||a8cv.ieagent.jp^
 ||a8cv.iekoma.com^
 ||a8cv.ieyasu.est.group^
+||a8cv.ihin-kizuna.com^
 ||a8cv.iikyujin.net^
 ||a8cv.ikapula.com^
 ||a8cv.info.atgp.jp^
@@ -1257,7 +1257,6 @@
 ||a8cv.tmix.jp^
 ||a8cv.tokei-syuri.jp^
 ||a8cv.toko-navi.com^
-||a8cv.tokutoku-battery.com^
 ||a8cv.tokyo-dive.com^
 ||a8cv.tokyo-indoorgolf.com^
 ||a8cv.tokyogas.bocco.me^
@@ -1283,7 +1282,6 @@
 ||a8cv.waterserver.co.jp^
 ||a8cv.web-planners.net^
 ||a8cv.wedding.mynavi.jp^
-||a8cv.whynot.jp^
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.withcode.tech^

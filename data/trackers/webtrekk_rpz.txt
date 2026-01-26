@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,10 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-image.deginvest.de CNAME .
 image.kfw-entwicklungsbank.de CNAME .
-image.kfw-ipex-bank.de CNAME .
-image.kfw.de CNAME .
 img.buch.ch CNAME .
 mon.ingservices.nl CNAME .
 now.peek-cloppenburg.de CNAME .
@@ -313,6 +310,7 @@ web.news.absurdbeauty.com CNAME .
 web.news.bottegaverde.com CNAME .
 web.news.boxeurdesrues.com CNAME .
 web.news.coccinelle.com CNAME .
+web.news.eataly.net CNAME .
 web.news.eprice.it CNAME .
 web.news.gnv.it CNAME .
 web.news.kasanova.com CNAME .

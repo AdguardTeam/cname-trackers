@@ -95,7 +95,6 @@ console.faithlifeads.com
 console.falconstudios.com
 console.goldseek.com
 console.greenspring.com
-console.healthcarescene.com
 console.hour-media.com
 console.imagineobx.com
 console.informingnews.com
@@ -282,7 +281,6 @@ www.console.biohandel.de
 www.console.ceramicartsnetwork.org
 www.console.cincinnatimagazine.com
 www.console.falconstudios.com
-www.console.healthcarescene.com
 www.console.leightonbroadcasting.com
 www.console.livingmagonline.com
 www.console.myadsmyanmar.com
@@ -319,7 +317,6 @@ www.static.ad.logic-test.viasat.io
 www.static.ad.logic.viasat.io
 www.static.engineeringnews.co.za
 www.static.everythingnevada.com
-www.static.healthcarescene.com
 www.static.imagineobx.com
 www.static.insideradverts.com
 www.static.livingmagonline.com

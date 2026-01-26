@@ -116,5 +116,6 @@
 ||al.yamachu.net^
 ||al.yobomedical.clinic^
 ||al.yokumoku.jp^
+||al.yslabo.net^
 ||al.zenjirou.jp^
 ||m.aclk.jp^

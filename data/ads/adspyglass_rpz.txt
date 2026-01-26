@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,8 +54,10 @@ $TTL 300
 8dk5q9tp.xyz CNAME .
 8nximzje.xyz CNAME .
 8tip5whk.xyz CNAME .
+8yqqgn5g.xyz CNAME .
 95bfbe548450b30c.clicknplay.to CNAME .
 96ed2s9r.xyz CNAME .
+9wdjf9va.xyz CNAME .
 a.1film.to CNAME .
 a.ablat.site CNAME .
 a.abolt.xyz CNAME .
@@ -72,6 +74,7 @@ a.ardont.xyz CNAME .
 a.arkox.site CNAME .
 a.atakcdn.art CNAME .
 a.atrem.site CNAME .
+a.baloe.xyz CNAME .
 a.bdsmz.tube CNAME .
 a.bedont.xyz CNAME .
 a.betterincome.cc CNAME .
@@ -87,6 +90,7 @@ a.brene.site CNAME .
 a.btrem.site CNAME .
 a.ceget.xyz CNAME .
 a.celai.site CNAME .
+a.celoe.xyz CNAME .
 a.cidont.xyz CNAME .
 a.cigore.xyz CNAME .
 a.cilon.site CNAME .
@@ -186,6 +190,7 @@ a.reissue2871.xyz CNAME .
 a.rule34.porn CNAME .
 a.sharki.online CNAME .
 a.shemale99.com CNAME .
+a.stailisyti.space CNAME .
 a.staticport.com CNAME .
 a.suptube.com CNAME .
 a.swime.online CNAME .
@@ -220,6 +225,7 @@ ab.lesbianbliss.com CNAME .
 ab.pchat.com CNAME .
 ab.rule34.porn CNAME .
 ab.thepornstar.com CNAME .
+ab427mcx.xyz CNAME .
 abc.cda-hd.co CNAME .
 abz.latelust.site CNAME .
 ac.4wank.com CNAME .
@@ -371,6 +377,7 @@ b.cinvetica.com CNAME .
 b.comihon.com CNAME .
 b.defcdn.cloud CNAME .
 b.filexan.com CNAME .
+b.gupload.xyz CNAME .
 b.harehop.com CNAME .
 b.hubhubhub.name CNAME .
 b.januarytubs.store CNAME .
@@ -416,8 +423,6 @@ bzcdn.fin.ovh CNAME .
 c.bloblohub.com CNAME .
 c021b14e0782ad7ef6d74.clicknplay.to CNAME .
 c22x1.xcdn.ovh CNAME .
-c3s.bionestraff.pro CNAME .
-c6s.bionestraff.pro CNAME .
 c8y.crazyporn.xxx CNAME .
 ca.429men.com CNAME .
 ca.4wank.com CNAME .
@@ -542,7 +547,6 @@ f5w.prettytube.net CNAME .
 fanza.yoshiclub.xyz CNAME .
 faspc.hubhubhub.name CNAME .
 fdf.awefweegfxwergexw.icu CNAME .
-fgn.preders.site CNAME .
 file.iporngay.com CNAME .
 floatjav09212026.shop CNAME .
 forumjav09212026.shop CNAME .
@@ -553,7 +557,6 @@ g.bloblohub.com CNAME .
 ga.tubepork.com CNAME .
 ga.xxxhd.icu CNAME .
 ga.xxxmilf.vip CNAME .
-gallery.stailaus.fi CNAME .
 garage08062025.shop CNAME .
 gay.everydayporn.co CNAME .
 gdg4yih5.xyz CNAME .
@@ -632,6 +635,7 @@ j.bloblohub.com CNAME .
 ja.misav.sbs CNAME .
 je4y15ji.xyz CNAME .
 jg43iqqd.xyz CNAME .
+jkc0idkv.xyz CNAME .
 jo.429men.com CNAME .
 jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
@@ -702,7 +706,6 @@ mamruoa.club CNAME .
 mangrao.club CNAME .
 mangraox.my CNAME .
 maoeoa.xyz CNAME .
-materiaali.stailaus.fi CNAME .
 maximumdecimus.clicknplay.to CNAME .
 maxx1.a.pleasedonotblockme.com CNAME .
 maxx1.pleasedonotblockme.com CNAME .
@@ -806,6 +809,7 @@ pangake.club CNAME .
 paraos.my CNAME .
 parkurl.com CNAME .
 patcans.club CNAME .
+pho.heo69.name CNAME .
 photos.kiyonosaki.info CNAME .
 pickard.hubhubhub.name CNAME .
 pihu.xxxpornhd.pro CNAME .

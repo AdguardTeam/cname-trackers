@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -165,6 +165,7 @@ c.lypo-c.shop CNAME .
 campaign-direct.eisai.jp CNAME .
 campaign-direct.kouketsuatsu-health.xyz CNAME .
 ccc.aqualink.tokyo CNAME .
+cdn01.sanko.ac.jp CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .
 cname-ade.hankoya.com CNAME .
@@ -356,7 +357,6 @@ test-ad.mens-lucia.com CNAME .
 tracking.axis-kobetsu.jp CNAME .
 tracking.axis.onl CNAME .
 tracking.mysurance.co.jp CNAME .
-tracking.nokai.jp CNAME .
 tracking.stad-gakusyu.jp CNAME .
 tracking.wao-corp.com CNAME .
 tracking.wao.ne.jp CNAME .

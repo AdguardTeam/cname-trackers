@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,7 +13,6 @@ $TTL 300
 
 anal.sataniskwijt.be CNAME .
 analytics.applycreatures.com CNAME .
-analytics.astuto.io CNAME .
 analytics.brandsistency.com CNAME .
 analytics.code.dccouncil.gov CNAME .
 analytics.codes.baltimorecity.gov CNAME .
@@ -25,7 +24,6 @@ analytics.law.badriver-nsn.gov CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.law.lco-nsn.gov CNAME .
 analytics.law.mohican.com CNAME .
-analytics.law.sanipueblo.org CNAME .
 analytics.law.tmchippewa.com CNAME .
 analytics.law.umitribe.org CNAME .
 analytics.leespace.co CNAME .
@@ -61,7 +59,6 @@ goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
 goat.gavv.in CNAME .
 goat.neverhill.net CNAME .
-goat.skeetstats.xyz CNAME .
 goat.tailspace.net CNAME .
 goat.twoistoomany.com CNAME .
 goatcounter.blu3id.uk CNAME .

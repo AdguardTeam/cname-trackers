@@ -154,6 +154,7 @@
 ||campaign-direct.eisai.jp^
 ||campaign-direct.kouketsuatsu-health.xyz^
 ||ccc.aqualink.tokyo^
+||cdn01.sanko.ac.jp^
 ||cmass.massmedian.co.jp^
 ||cname-ade.gom-in.com^
 ||cname-ade.hankoya.com^
@@ -345,7 +346,6 @@
 ||tracking.axis-kobetsu.jp^
 ||tracking.axis.onl^
 ||tracking.mysurance.co.jp^
-||tracking.nokai.jp^
 ||tracking.stad-gakusyu.jp^
 ||tracking.wao-corp.com^
 ||tracking.wao.ne.jp^

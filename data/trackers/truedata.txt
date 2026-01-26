@@ -7,6 +7,7 @@
 ||td.countryliving.com^
 ||td.deepsync.com^
 ||td.delish.com^
+||td.eatwsk.com^
 ||td.elle.com^
 ||td.elledecor.com^
 ||td.esquire.com^

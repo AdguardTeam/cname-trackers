@@ -16,7 +16,6 @@
     * argfuscator.goatcounter.com
     * artero.goatcounter.com
     * artur.goatcounter.com
-    * astuto.goatcounter.com
     * benjaminmorris.goatcounter.com
     * beyondthesprawl.goatcounter.com
     * bkvn.goatcounter.com
@@ -91,7 +90,6 @@
     * law-badriver-nsn-gov.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
-    * law-sanipueblo-org.goatcounter.com
     * law-tmchippewa-com.goatcounter.com
     * law-umitribe-org.goatcounter.com
     * lco-nsn-us-open-law.goatcounter.com
@@ -133,7 +131,6 @@
     * sebastianzehner.goatcounter.com
     * semipol.goatcounter.com
     * shu.goatcounter.com
-    * skeetstats.goatcounter.com
     * slade.goatcounter.com
     * storydragon.goatcounter.com
     * studiodeerenberg.goatcounter.com
@@ -185,7 +182,6 @@
 | visit.argfuscator.net | argfuscator.goatcounter.com |
 | stats.artero.dev | artero.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
-| analytics.astuto.io | astuto.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
 | stats.beyondthesprawl.com | beyondthesprawl.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
@@ -262,7 +258,6 @@
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | cityofsanmateo.analytics.open.law | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
-| analytics.law.sanipueblo.org | law-sanipueblo-org.goatcounter.com |
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
 | analytics.law.umitribe.org | law-umitribe-org.goatcounter.com |
 | analytics.law.lco-nsn.gov | lco-nsn-us-open-law.goatcounter.com |
@@ -307,7 +302,6 @@
 | stats.sebastianzehner.com | sebastianzehner.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
 | stats.shurimp.com | shu.goatcounter.com |
-| goat.skeetstats.xyz | skeetstats.goatcounter.com |
 | dot-com-stats.sladewatkins.net | slade.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | stats.studiodeerenberg.nl | studiodeerenberg.goatcounter.com |

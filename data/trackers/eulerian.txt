@@ -37,6 +37,7 @@
 ||a7e.monnierfreres.de^
 ||a8ht.hipp.fr^
 ||ab.oney.es^
+||ae35oceb.eulerian.io^
 ||al.futuroscope.com^
 ||ali8.alinea.fr^
 ||am.belambra.co.uk^
@@ -47,7 +48,6 @@
 ||ar.i-run.fr^
 ||axb4.vivabox.it^
 ||azg1.emalu-store.com^
-||b1n.carabins.umontreal.ca^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -96,6 +96,7 @@
 ||ea.carrefour.com^
 ||ea.carrefour.fr^
 ||ea.castorama.fr^
+||ea.catimini-boutique.com^
 ||ea.catimini.com^
 ||ea.ciblo.net^
 ||ea.coffrefortplus.com^
@@ -106,6 +107,7 @@
 ||ea.ecotour.com^
 ||ea.elstarprevention.com^
 ||ea.evaway.com^
+||ea.fleurancenature.com^
 ||ea.fleurancenature.fr^
 ||ea.francoisesaget.be^
 ||ea.francoisesaget.com^
@@ -124,7 +126,6 @@
 ||ea.kauf-unique.at^
 ||ea.kauf-unique.de^
 ||ea.kidiliz.com^
-||ea.labelhabitation.com^
 ||ea.lafrancedunordausud.fr^
 ||ea.laredoute.pt^
 ||ea.leskidunordausud.fr^
@@ -169,7 +170,6 @@
 ||ea.voyage-prive.es^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
-||eat9.thebeat925.ca^
 ||eb.mistermenuiserie.com^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -177,6 +177,7 @@
 ||eit3.destinia.nl^
 ||ek8.voyage-prive.com^
 ||elr.sfr.fr^
+||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.futuroscope.com^
 ||et.sncf.com^
@@ -228,6 +229,7 @@
 ||fe.futuroscope.com^
 ||fkwc.sfr.fr^
 ||fl5dpe.oui.sncf^
+||flmb.cheapcaribbean.com^
 ||fma7.aegon.es^
 ||fpb8.esce.fr^
 ||fsz1.francoisesaget.be^
@@ -249,7 +251,7 @@
 ||hby7.destinia.it^
 ||hde1.repentignychevrolet.com^
 ||hgf4.zanzicar.fr^
-||hk2d.tourismemauricie.com^
+||hsae.beachbound.com^
 ||idg1.idgarages.com^
 ||igc0.destinia.at^
 ||inv3te.oui.sncf^
@@ -264,7 +266,6 @@
 ||jo2f.cheque-cadhoc.fr^
 ||kep6.destinia.ie^
 ||kwsjy9.oui.sncf^
-||l2i.qualityinnlevis.com^
 ||lbc.lesbonscommerces.fr^
 ||leo1.leon-de-bruxelles.fr^
 ||let1.devialet.com^
@@ -289,6 +290,7 @@
 ||mla3.societegenerale.fr^
 ||mm.melia.com^
 ||mmz3.beinsports.com^
+||mp5.multi-prets.com^
 ||mre6.destinia.ma^
 ||msz3.destinia.cn^
 ||mud4.destinia.com.eg^
@@ -304,6 +306,7 @@
 ||noa0.compteczam.fr^
 ||nqsm.medicus.ca^
 ||nrg.red-by-sfr.fr^
+||nym5c.bonlook.com^
 ||nyt1.biosens-leanature.fr^
 ||o35e79f2.eulerian.io^
 ||o68c.sfr.fr^
@@ -364,6 +367,7 @@
 ||ri.mistermenuiserie.com^
 ||rjg2.destinia.ly^
 ||rmp4.destinia.uy^
+||rqnn.funjet.com^
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
@@ -390,7 +394,6 @@
 ||t.locasun.fr^
 ||t.pmu.fr^
 ||t.voyages-sncf.com^
-||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tdf1.easyviaggio.com^
@@ -425,7 +428,6 @@
 ||vgo.vegaoo.pt^
 ||vgo.vegaoopro.com^
 ||vnl1.voyage-prive.nl^
-||vpf4.euskaltelofertas.com^
 ||vpl.voyage-prive.pl^
 ||vry9.destinia.com^
 ||why3.inseec.education^
@@ -442,6 +444,7 @@
 ||www.fasttracker.fr^
 ||www.mis.tourisme-montreal.org^
 ||xay5o.toscane-boutique.fr^
+||xifj.applevacations.com^
 ||xjq5.belambra.be^
 ||xoq.pmubrasil.com.br^
 ||xy33.smallable.com^
@@ -462,15 +465,18 @@
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
 ||5fm.985fm.ca^
+||b1n.carabins.umontreal.ca^
 ||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
 ||d0f.le-dauphin.com^
 ||d2u.dauphinquebec.com^
-||erb.tremblant.ca^
-||nym5c.bonlook.com^
+||eat9.thebeat925.ca^
+||hk2d.tourismemauricie.com^
+||l2i.qualityinnlevis.com^
 ||rwl.tremblant.ca^
 ||ry0.rythmefm.com^
 ||su1.les-suites.ca^
+||t0y.toyota.ca^
 ||yio.tremblant.ca^
 ||ea.mnt.fr^
 ||gi7a.structube.com^

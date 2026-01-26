@@ -59,7 +59,6 @@
     * goldseek-console.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
     * goldseek-static.aquaplatform.com
-    * hcs-console.aquaplatform.com
     * hcs-delivery.aquaplatform.com
     * hcs-static.aquaplatform.com
     * hourmedia-console.aquaplatform.com
@@ -251,11 +250,8 @@
 | creatives.goldseek.com | goldseek-static.aquaplatform.com |
 | images.goldseek.com | goldseek-static.aquaplatform.com |
 | www.creatives.goldseek.com | goldseek-static.aquaplatform.com |
-| console.healthcarescene.com | hcs-console.aquaplatform.com |
-| www.console.healthcarescene.com | hcs-console.aquaplatform.com |
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
 | static.healthcarescene.com | hcs-static.aquaplatform.com |
-| www.static.healthcarescene.com | hcs-static.aquaplatform.com |
 | console.cincinnatimagazine.com | hourmedia-console.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
 | console.hour-media.com | hourmedia-console.aquaplatform.com |

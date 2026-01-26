@@ -15,6 +15,7 @@
 | td.countryliving.com | e.truedata.co |
 | td.deepsync.com | e.truedata.co |
 | td.delish.com | e.truedata.co |
+| td.eatwsk.com | e.truedata.co |
 | td.elle.com | e.truedata.co |
 | td.elledecor.com | e.truedata.co |
 | td.esquire.com | e.truedata.co |

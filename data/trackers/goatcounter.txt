@@ -2,7 +2,6 @@
 ! Company name: GoatCounter
 ||anal.sataniskwijt.be^
 ||analytics.applycreatures.com^
-||analytics.astuto.io^
 ||analytics.brandsistency.com^
 ||analytics.code.dccouncil.gov^
 ||analytics.codes.baltimorecity.gov^
@@ -14,7 +13,6 @@
 ||analytics.law.cityofsanmateo.org^
 ||analytics.law.lco-nsn.gov^
 ||analytics.law.mohican.com^
-||analytics.law.sanipueblo.org^
 ||analytics.law.tmchippewa.com^
 ||analytics.law.umitribe.org^
 ||analytics.leespace.co^
@@ -50,7 +48,6 @@
 ||goat.dheinemann.com^
 ||goat.gavv.in^
 ||goat.neverhill.net^
-||goat.skeetstats.xyz^
 ||goat.tailspace.net^
 ||goat.twoistoomany.com^
 ||goatcounter.blu3id.uk^

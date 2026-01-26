@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -130,11 +130,11 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em2287.theory.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em767.forgetrust.com CNAME .
-em7952.dailypay.com CNAME .
+em8928.em.petco.com CNAME .
+em9523.walmartmoneycard.com CNAME .
+emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -287,6 +287,7 @@ refer.jewelersmutual.com CNAME .
 refer.jiffynewark.com CNAME .
 refer.joann.com CNAME .
 refer.join1440.com CNAME .
+refer.joindelilah.com CNAME .
 refer.joinform.com CNAME .
 refer.jonesservices.com CNAME .
 refer.juicepress.com CNAME .
@@ -602,7 +603,6 @@ share.iqfiber.com CNAME .
 share.iteach.net CNAME .
 share.jacksonsun.com CNAME .
 share.jellybelly.com CNAME .
-share.jhfcu.org CNAME .
 share.jsonline.com CNAME .
 share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
@@ -647,6 +647,7 @@ share.nymcu.org CNAME .
 share.obagi.com CNAME .
 share.oklahomacentral.org CNAME .
 share.olivegarden.com CNAME .
+share.ollie.com CNAME .
 share.ollocard.com CNAME .
 share.onenevada.org CNAME .
 share.openenglish.com CNAME .
@@ -784,21 +785,22 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
+xtl2._domainkey.notifications.acorns.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em2279.referral.quickbooks.co.uk CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
+em7952.dailypay.com CNAME .
 em8031.soundcloud.com CNAME .
 em8561.go2bank.com CNAME .
 em8642.notifications.acorns.com CNAME .
-em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
-em9523.walmartmoneycard.com CNAME .
-emxxxx.rent.app CNAME .
 xtl._domainkey.dailypay.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
@@ -816,7 +818,6 @@ xtl2._domainkey.dailypay.com CNAME .
 xtl2._domainkey.forgetrust.com CNAME .
 xtl2._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl2._domainkey.mail.raf.xfinity.com CNAME .
-xtl2._domainkey.notifications.acorns.com CNAME .
 xtl2._domainkey.refer.starbucks.com CNAME .
 xtl2._domainkey.referral.moneybase.com CNAME .
 xtl2._domainkey.rewards.dailypay.com CNAME .

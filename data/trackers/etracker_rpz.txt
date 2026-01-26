@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,6 +71,7 @@ et.electronic4you.si CNAME .
 et.equiva.com CNAME .
 et.go-kmu.de CNAME .
 et.goal-based.investments CNAME .
+et.hv-bayern.de CNAME .
 et.immobilien-strobl.de CNAME .
 et.lavita.com CNAME .
 et.lerche-werbemittel.de CNAME .
@@ -132,11 +133,18 @@ ferthu.seyffer.shop CNAME .
 go.eitrmsummit.com CNAME .
 go.kik.de CNAME .
 gruenten.agrar-fachversand.com CNAME .
+gruenten.wahl-agrar.at CNAME .
+gruenten.wahl-agri.fr CNAME .
 gruenten.wahl-agri.it CNAME .
+gruenten.wahl-equestre.fr CNAME .
+gruenten.wahl-equi.it CNAME .
+gruenten.wahl-reitsport.at CNAME .
+gruenten.wahl-reitsport.com CNAME .
 gus.corinnavondermuehlen.de CNAME .
 insides.honic.eu CNAME .
 insights.bertelsmann-stiftung.de CNAME .
 js.edingershops.de CNAME .
+knowlege.kuechenrueckwand.store CNAME .
 knowlege.pepeprint.de CNAME .
 lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
@@ -147,11 +155,13 @@ meter.rhinobag.de CNAME .
 metrics.bauwerk.de CNAME .
 metrics.cannamedical.com CNAME .
 metrics.catchandkeep.de CNAME .
+metrics.cnag.de CNAME .
 metrics.einfachiso.de CNAME .
 metrics.energetix.tv CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.greatvita.de CNAME .
 metrics.gutskueche.de CNAME .
+metrics.heulnichtrum.de CNAME .
 metrics.iqcheck24.de CNAME .
 metrics.leimer.de CNAME .
 metrics.mammutmarsch.de CNAME .
@@ -159,6 +169,8 @@ metrics.meineversicherungswelt.de CNAME .
 metrics.moderade.com CNAME .
 metrics.muehle-glashuette.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
+metrics.soelring-hof.de CNAME .
+metrics.stadtwerke-hamm.de CNAME .
 metrics.stilvol.de CNAME .
 metrics.thegoodshit.store CNAME .
 metrics.thomasipunkt.de CNAME .
@@ -178,6 +190,7 @@ pse.gabor.com CNAME .
 ric.arrive-im-herzogpark.de CNAME .
 ric.riedel-immobilien.de CNAME .
 ric.seeleben-starnbergersee.de CNAME .
+salzburg.pankart.dev CNAME .
 salzburg.semsea.at CNAME .
 show.gruppedrei.com CNAME .
 sltracking.sonderlote.de CNAME .
@@ -207,6 +220,7 @@ stats.oberoejobs.at CNAME .
 stats.pilz.com CNAME .
 stats.rumundco.de CNAME .
 stats.salzburgerjobs.at CNAME .
+stats.seesteg-norderney.de CNAME .
 stats.steirerjobs.at CNAME .
 stats.suedtirolerjobs.it CNAME .
 stats.tirolerjobs.at CNAME .
@@ -229,12 +243,14 @@ track.dictum-gartenwerkzeug.de CNAME .
 track.dictum-handwerksgalerie.de CNAME .
 track.dictum-shop.de CNAME .
 track.karlstorz.com CNAME .
+track.kautel.de CNAME .
 track.richtig-schaerfen.de CNAME .
 track.schlaffabrik.com CNAME .
 track.thegundogaffair.com CNAME .
 tracker.bkk24.de CNAME .
 tracking.360products.de CNAME .
 tracking.anthonys.at CNAME .
+tracking.belkaw.de CNAME .
 tracking.chio.hu CNAME .
 tracking.gruener-soelden.com CNAME .
 tracking.lanxess.com CNAME .
@@ -274,6 +290,7 @@ webaus.dw-shop.de CNAME .
 webcon.se-legal.de CNAME .
 webcontr.4pace.com CNAME .
 webcontr.aquarius-prolife.com CNAME .
+webcontr.aulairenicus.de CNAME .
 webcontr.barcodescanner.de CNAME .
 webcontr.baulogistik-online.de CNAME .
 webcontr.bertibuch.de CNAME .
@@ -334,6 +351,7 @@ webcontr.verpoorten-shop.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .
 webcontr.wgv.de CNAME .
+webcontr.wnxe.de CNAME .
 webcontr.wolkenlosundheiter.de CNAME .
 webcontr.yourfashionplace.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
@@ -346,6 +364,7 @@ webstt0011.onofficeom.com CNAME .
 webstt0016.onofficeom.com CNAME .
 webstt0019.onofficeom.com CNAME .
 webstt0020.onofficeom.com CNAME .
+webstt0022.onofficeom.com CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
 webtr.regisafe.de CNAME .

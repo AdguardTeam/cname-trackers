@@ -215,6 +215,7 @@
 ||dcf.espnqa.com^
 ||dcfdata.espn.com^
 ||ddc.statefarm.com^
+||dtm.worldmarket.com^
 ||eb.trbas.com^
 ||emetrics.eastwestbank.com^
 ||ens.bote.ch^
@@ -406,6 +407,7 @@
 ||tms.suzukibusinesscloud-qa.com^
 ||tms.virginatlantic.com^
 ||tmsgi.lv.com^
+||tmsnabtrade.nab.com.au^
 ||tracking-sst.clicksafety.com^
 ||uat1-dc.pagoda.com^
 ||uat1-dc.peoplesjewellers.com^

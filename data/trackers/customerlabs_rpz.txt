@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1768809651265        ; Serial
+           1769414419388        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 amtvgfz.veneera.de CNAME .
 bbznqba.boxgenie.com CNAME .
 bewsgxy.solidandstriped.com CNAME .
+bmdffai.zerowastestore.com CNAME .
 bpftoyh.chamelo.com CNAME .
 bzljqlx.elietahari.com CNAME .
 cdskjrg.giliarto.com CNAME .
@@ -24,6 +25,7 @@ gkgqgih.plantsinabox.com.au CNAME .
 gofqpma.kimkimblehair.com CNAME .
 gpillsg.genxrefined.com CNAME .
 gslclvw.lackorecouture.com CNAME .
+hhzsiav.earthhero.com CNAME .
 hnvrprl.getmainelobster.com CNAME .
 ijgtudf.kozii.com CNAME .
 kpdignp.trumerholz.com CNAME .
@@ -35,6 +37,7 @@ qqlvgpl.saberspro.com CNAME .
 rmxmtsg.wowe.me CNAME .
 rulrdow.solawave.co CNAME .
 rwlywoe.keepnaturewild.com CNAME .
+tlaoauh.topshelfgolf.com CNAME .
 tzfgzgo.quickservicepanama.com CNAME .
 uaxfwsb.smallflower.com CNAME .
 ucscaik.gardencup.com CNAME .

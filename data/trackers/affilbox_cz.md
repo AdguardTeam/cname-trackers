@@ -39,6 +39,7 @@
 | affil.atan.cz | cz.affilbox.cz |
 | affil.audioteka.cz | cz.affilbox.cz |
 | affil.avenatura.sk | cz.affilbox.cz |
+| affil.bavleg.cz | cz.affilbox.cz |
 | affil.bitdef.cz | cz.affilbox.cz |
 | affil.blaire.cz | cz.affilbox.cz |
 | affil.bruderland.cz | cz.affilbox.cz |
@@ -111,7 +112,6 @@
 | affilbox.delibarry.com | cz.affilbox.cz |
 | affilbox.doglog.cz | cz.affilbox.cz |
 | affilbox.gurufinance.cz | cz.affilbox.cz |
-| affilbox.imediafile.com | cz.affilbox.cz |
 | affilbox.kronikazivota.cz | cz.affilbox.cz |
 | affilbox.kronikazivota.sk | cz.affilbox.cz |
 | affilbox.kvaskovanie.sk | cz.affilbox.cz |
@@ -271,7 +271,6 @@
 | affiliate.tajomstvozenskejprosperity.sk | cz.affilbox.cz |
 | affiliate.terarijni-potreby.cz | cz.affilbox.cz |
 | affiliate.topol.io | cz.affilbox.cz |
-| affiliate.trikator.cz | cz.affilbox.cz |
 | affiliate.ucetni-portal.cz | cz.affilbox.cz |
 | affiliate.uncaria.cz | cz.affilbox.cz |
 | affiliate.unicare.sk | cz.affilbox.cz |
@@ -350,9 +349,7 @@
 | my.top4fitness.fi | cz.affilbox.cz |
 | my.top4fitness.fr | cz.affilbox.cz |
 | my.top4fitness.gr | cz.affilbox.cz |
-| my.top4fitness.hr | cz.affilbox.cz |
 | my.top4fitness.hu | cz.affilbox.cz |
-| my.top4fitness.ie | cz.affilbox.cz |
 | my.top4fitness.it | cz.affilbox.cz |
 | my.top4fitness.pl | cz.affilbox.cz |
 | my.top4fitness.pt | cz.affilbox.cz |
@@ -362,7 +359,6 @@
 | my.top4football.es | cz.affilbox.cz |
 | my.top4football.fi | cz.affilbox.cz |
 | my.top4football.hu | cz.affilbox.cz |
-| my.top4football.ie | cz.affilbox.cz |
 | my.top4football.ro | cz.affilbox.cz |
 | my.top4running.at | cz.affilbox.cz |
 | my.top4running.be | cz.affilbox.cz |
@@ -433,6 +429,7 @@
 | partner-affilbox.telly.cz | cz.affilbox.cz |
 | partner.2din.cz | cz.affilbox.cz |
 | partner.aerium.sk | cz.affilbox.cz |
+| partner.aeriumshop.pl | cz.affilbox.cz |
 | partner.affilbox.com | cz.affilbox.cz |
 | partner.affiliateark.com | cz.affilbox.cz |
 | partner.airbobags.com | cz.affilbox.cz |
@@ -574,6 +571,7 @@
 | partner.hubnu.online | cz.affilbox.cz |
 | partner.hunter.games | cz.affilbox.cz |
 | partner.hurom.cz | cz.affilbox.cz |
+| partner.idealninajemce.cz | cz.affilbox.cz |
 | partner.idoklad.cz | cz.affilbox.cz |
 | partner.ilprimo.sk | cz.affilbox.cz |
 | partner.intelligentfood.cz | cz.affilbox.cz |
@@ -837,6 +835,7 @@
 | partneri.jazykyodpiky.cz | cz.affilbox.cz |
 | partneri.jipos.cz | cz.affilbox.cz |
 | partneri.jrc.cz | cz.affilbox.cz |
+| partneri.kadernictvi.cz | cz.affilbox.cz |
 | partneri.keramika-dum.cz | cz.affilbox.cz |
 | partneri.kerasek.cz | cz.affilbox.cz |
 | partneri.konverzacniklub.cz | cz.affilbox.cz |
@@ -971,7 +970,6 @@
 | spoluprace.obchod-setrilek.cz | cz.affilbox.cz |
 | spoluprace.potravinyarax.cz | cz.affilbox.cz |
 | spoluprace.prostor8.cz | cz.affilbox.cz |
-| spoluprace.sexito.cz | cz.affilbox.cz |
 | spoluprace.sikland.cz | cz.affilbox.cz |
 | spoluprace.skolnitriko.cz | cz.affilbox.cz |
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |

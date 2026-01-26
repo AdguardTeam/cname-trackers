@@ -295,7 +295,6 @@ tr.corporate.moethennessy.com
 tr.courriel.conexvous.com
 tr.courriel.ganassurances.fr
 tr.courriel.mae.fr
-tr.courriel.ouestnormandie.cci.fr
 tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr
 tr.courrier.sudouest.fr
@@ -465,6 +464,7 @@ tr.gestion.liberation.fr
 tr.gestion.loisirs-finance.fr
 tr.gestion.norrsken.fr
 tr.gestion.sygmabnpparibas-pf.com
+tr.gestion.volvocarfinance.fr
 tr.global-insights.moethennessy.com
 tr.globalmedia.moethennessy.com
 tr.gplus.espmp-nifr.net
@@ -549,7 +549,6 @@ tr.info.projeo-finance.fr
 tr.info.rebond-bpifrance.fr
 tr.info.reunica.com
 tr.info.rouen.aeroport.fr
-tr.info.rouen.cci.fr
 tr.info.snpden.net
 tr.info.svp.com
 tr.info.valcenis.com
@@ -869,7 +868,6 @@ tr.news.monvoyant.fr
 tr.news.mperformance.fr
 tr.news.np6.com
 tr.news.onetoonemba.com
-tr.news.ouestnormandie.cci.fr
 tr.news.parisinfo.com
 tr.news.perfectstay.com
 tr.news.perl.fr
@@ -878,7 +876,6 @@ tr.news.pointfranchise.co.uk
 tr.news.prosfora-mou.gr
 tr.news.receiveyourquote.co.uk
 tr.news.retailglobalsolutions.com
-tr.news.seine-estuaire.cci.fr
 tr.news.smartdeals-transavia-fr.com
 tr.news.smartdealstransavia-fr.com
 tr.news.solocalms.fr
@@ -1231,8 +1228,9 @@ f1.mperf.com
 f1.np6.com
 infojeux.paris.fr
 lbv5.mperf.com
+www.bfc-mp.caisse-epargne.fr
 s.gemy.fr
+s.lgch.mp
 s.np6.com
 www.lgch.mp
 tr.communication.jardindacclimatation.fr
-www.bfc-mp.caisse-epargne.fr

@@ -35,7 +35,7 @@ t.sptrck.com
 t.trackpulse.uno
 t.traxtrck.online
 t.trcktr.com
-t.trecktr.com
 t.trkav.name
 t.vpntrck.com
 t.wintrck.com
+t.trecktr.com

@@ -9,14 +9,12 @@
 * form.bp01.net
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
-* f1.mailperformance.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | tr.communication.jardindacclimatation.fr | 145656177.group0.sites.hscoscdn-eu1.net |
-| www.bfc-mp.caisse-epargne.fr | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.demo.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
@@ -25,7 +23,9 @@
 | f1.np6.com | form.bp01.net |
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
+| www.bfc-mp.caisse-epargne.fr | form.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
+| s.lgch.mp | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
@@ -323,7 +323,6 @@
 | tr.courriel.conexvous.com | tracking.bp01.net |
 | tr.courriel.ganassurances.fr | tracking.bp01.net |
 | tr.courriel.mae.fr | tracking.bp01.net |
-| tr.courriel.ouestnormandie.cci.fr | tracking.bp01.net |
 | tr.courrier.charentelibre.fr | tracking.bp01.net |
 | tr.courrier.larepubliquedespyrenees.fr | tracking.bp01.net |
 | tr.courrier.sudouest.fr | tracking.bp01.net |
@@ -493,6 +492,7 @@
 | tr.gestion.loisirs-finance.fr | tracking.bp01.net |
 | tr.gestion.norrsken.fr | tracking.bp01.net |
 | tr.gestion.sygmabnpparibas-pf.com | tracking.bp01.net |
+| tr.gestion.volvocarfinance.fr | tracking.bp01.net |
 | tr.global-insights.moethennessy.com | tracking.bp01.net |
 | tr.globalmedia.moethennessy.com | tracking.bp01.net |
 | tr.gplus.espmp-nifr.net | tracking.bp01.net |
@@ -577,7 +577,6 @@
 | tr.info.rebond-bpifrance.fr | tracking.bp01.net |
 | tr.info.reunica.com | tracking.bp01.net |
 | tr.info.rouen.aeroport.fr | tracking.bp01.net |
-| tr.info.rouen.cci.fr | tracking.bp01.net |
 | tr.info.snpden.net | tracking.bp01.net |
 | tr.info.svp.com | tracking.bp01.net |
 | tr.info.valcenis.com | tracking.bp01.net |
@@ -897,7 +896,6 @@
 | tr.news.mperformance.fr | tracking.bp01.net |
 | tr.news.np6.com | tracking.bp01.net |
 | tr.news.onetoonemba.com | tracking.bp01.net |
-| tr.news.ouestnormandie.cci.fr | tracking.bp01.net |
 | tr.news.parisinfo.com | tracking.bp01.net |
 | tr.news.perfectstay.com | tracking.bp01.net |
 | tr.news.perl.fr | tracking.bp01.net |
@@ -906,7 +904,6 @@
 | tr.news.prosfora-mou.gr | tracking.bp01.net |
 | tr.news.receiveyourquote.co.uk | tracking.bp01.net |
 | tr.news.retailglobalsolutions.com | tracking.bp01.net |
-| tr.news.seine-estuaire.cci.fr | tracking.bp01.net |
 | tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
 | tr.news.solocalms.fr | tracking.bp01.net |

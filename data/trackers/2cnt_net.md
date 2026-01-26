@@ -38,6 +38,7 @@
 * rtl.vgwort-de.2cnt.net
 * spiegel.vgwort-de.2cnt.net
 * springer.vgwort-de.2cnt.net
+* ssl-berliner-zeitung.vgwort-de.2cnt.net
 * ssl-econa.vgwort-de.2cnt.net
 * ssl-focus.vgwort-de.2cnt.net
 * ssl-golem.vgwort-de.2cnt.net
@@ -74,6 +75,7 @@
 * waz.vgwort-de.2cnt.net
 * welt.vgwort-de.2cnt.net
 * wiley.vgwort-de.2cnt.net
+* wolterskluwer.vgwort-de.2cnt.net
 * zeit.vgwort-de.2cnt.net
 
 ## Cloaking domains
@@ -246,6 +248,7 @@
 | zeit.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | spiegel.vgwort-de.2cnt.net |
 | springer.met.vgwort.de | springer.vgwort-de.2cnt.net |
+| ssl-berliner-zeitung.met.vgwort.de | ssl-berliner-zeitung.vgwort-de.2cnt.net |
 | ssl-econa.met.vgwort.de | ssl-econa.vgwort-de.2cnt.net |
 | ssl-focus.met.vgwort.de | ssl-focus.vgwort-de.2cnt.net |
 | ssl-golem.met.vgwort.de | ssl-golem.vgwort-de.2cnt.net |
@@ -281,4 +284,5 @@
 | waz.met.vgwort.de | waz.vgwort-de.2cnt.net |
 | welt.met.vgwort.de | welt.vgwort-de.2cnt.net |
 | wiley.met.vgwort.de | wiley.vgwort-de.2cnt.net |
+| wolterskluwer.met.vgwort.de | wolterskluwer.vgwort-de.2cnt.net |
 | zeit.met.vgwort.de | zeit.vgwort-de.2cnt.net |

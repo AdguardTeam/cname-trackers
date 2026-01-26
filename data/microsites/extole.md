@@ -224,7 +224,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -276,7 +275,6 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
-    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
@@ -335,7 +333,6 @@
     * iteach.extole.io
     * jellybelly.extole.io
     * jewelersmutual.extole.io
-    * jhfcu.extole.io
     * joann.extole.io
     * join1440.extole.io
     * joinform.extole.io
@@ -404,6 +401,7 @@
     * newtonbaby.extole.io
     * nfhs-network.extole.io
     * ngfcu.extole.io
+    * notifications.acorns.xtl2.extole.io
     * nutribullet.extole.io
     * nuts.extole.io
     * nymcu.extole.io
@@ -411,6 +409,7 @@
     * oklahomacentral.extole.io
     * olehenriksen.extole.io
     * olivegarden.extole.io
+    * ollie.extole.io
     * ollocard.extole.io
     * onenevada.extole.io
     * onxmaps.extole.io
@@ -431,6 +430,7 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -464,6 +464,7 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
+    * rent.em.extole.io
     * rentapp.extole.io
     * resume-now.extole.io
     * reveneer.extole.io
@@ -538,7 +539,6 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
-    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -576,6 +576,7 @@
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
     * wagwalking.extole.io
+    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
@@ -778,7 +779,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -843,6 +843,7 @@
 | refer.boltpharmacy.co.uk | fellahealth.extole.io |
 | refer.fellahealth.co.uk | fellahealth.extole.io |
 | refer.fellahealth.com | fellahealth.extole.io |
+| refer.joindelilah.com | fellahealth.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
 | refer.firstaidbeauty.com | first-aid-beauty.extole.io |
@@ -854,7 +855,6 @@
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
-| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
 | internalreferral.freshworks.com | freshworks.extole.io |
@@ -995,7 +995,6 @@
 | refer.jacksonsun.com | jacksonsun.extole.com |
 | share.jellybelly.com | jellybelly.extole.io |
 | refer.jewelersmutual.com | jewelersmutual.extole.io |
-| share.jhfcu.org | jhfcu.extole.io |
 | refer.joann.com | joann.extole.io |
 | refer.johnson.ca | johnson.extole.com |
 | refer.join1440.com | join1440.extole.io |
@@ -1096,6 +1095,7 @@
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | share.ngfcu.us | ngfcu.extole.io |
+| xtl2._domainkey.notifications.acorns.com | notifications.acorns.xtl2.extole.io |
 | share.nutribullet.com | nutribullet.extole.io |
 | share.nuts.com | nuts.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
@@ -1105,6 +1105,7 @@
 | share.oklahomacentral.org | oklahomacentral.extole.io |
 | refer.olehenriksen.com | olehenriksen.extole.io |
 | share.olivegarden.com | olivegarden.extole.io |
+| share.ollie.com | ollie.extole.io |
 | share.ollocard.com | ollocard.extole.io |
 | share.onenevada.org | onenevada.extole.io |
 | refer.onxmaps.com | onxmaps.extole.io |
@@ -1137,6 +1138,7 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1186,6 +1188,7 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
+| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | refer.resume-now.com | resume-now.extole.io |
 | share.reveneer.io | reveneer.extole.io |
@@ -1286,7 +1289,6 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
-| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1322,7 +1324,6 @@
 | em4367.raf-studentloans.discover.com | u82658.wl159.sendgrid.net |
 | em4504.mail.raf.xfinity.com | u82658.wl159.sendgrid.net |
 | em5230.rewards.dailypay.com | u82658.wl159.sendgrid.net |
-| em5231.mail.propertyperks.xfinity.com | u82658.wl159.sendgrid.net |
 | em5807.turbotax.refer.intuit.com | u82658.wl159.sendgrid.net |
 | em7147.love.suncoastcreditunion.com | u82658.wl159.sendgrid.net |
 | em767.forgetrust.com | u82658.wl159.sendgrid.net |
@@ -1330,10 +1331,8 @@
 | em8031.soundcloud.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
 | em8642.notifications.acorns.com | u82658.wl159.sendgrid.net |
-| em8928.em.petco.com | u82658.wl159.sendgrid.net |
 | em924.refer.starbucks.com | u82658.wl159.sendgrid.net |
 | em9347.shareus.viktor-rolf.com | u82658.wl159.sendgrid.net |
-| em9523.walmartmoneycard.com | u82658.wl159.sendgrid.net |
 | emxxxx.rent.app | u82658.wl159.sendgrid.net |
 | refer.udemy.com | udemy.extole.io |
 | refer.ulta.com | ulta.extole.com |
@@ -1365,6 +1364,7 @@
 | refer.vonage.com | vonage.extole.com |
 | share.vonage.com | vonagebusiness.extole.io |
 | share.wagwalking.com | wagwalking.extole.io |
+| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
@@ -1408,7 +1408,6 @@
 | xtl2._domainkey.forgetrust.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | xtl2._domainkey.mail.propertyperks.xfinity.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | xtl2._domainkey.mail.raf.xfinity.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
-| xtl2._domainkey.notifications.acorns.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | xtl2._domainkey.refer.starbucks.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | xtl2._domainkey.referral.moneybase.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
 | xtl2._domainkey.rewards.dailypay.com | xtl2.domainkey.u82658.wl159.sendgrid.net |
