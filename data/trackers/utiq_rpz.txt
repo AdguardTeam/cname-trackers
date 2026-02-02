@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -298,6 +298,7 @@ utiq.mappyrecette.com CNAME .
 utiq.marca.com CNAME .
 utiq.mariefrance.fr CNAME .
 utiq.marmiton.org CNAME .
+utiq.maz-online.de CNAME .
 utiq.meine-anzeigenzeitung.de CNAME .
 utiq.mejorconectados.com CNAME .
 utiq.melty.fr CNAME .
@@ -356,6 +357,7 @@ utiq.ozap.com CNAME .
 utiq.palladiumhotelgroup.com CNAME .
 utiq.paris-normandie.fr CNAME .
 utiq.paroledemamans.com CNAME .
+utiq.paz-online.de CNAME .
 utiq.pcgames.de CNAME .
 utiq.pcgameshardware.de CNAME .
 utiq.petbook-magazine.com CNAME .
@@ -375,6 +377,7 @@ utiq.purepeople.com CNAME .
 utiq.rac1.cat CNAME .
 utiq.regio7.cat CNAME .
 utiq.reisefrage.net CNAME .
+utiq.reisereporter.de CNAME .
 utiq.renault.fr CNAME .
 utiq.renew.auto CNAME .
 utiq.rireetchansons.fr CNAME .
@@ -393,6 +396,7 @@ utiq.semana.es CNAME .
 utiq.sensacine.com CNAME .
 utiq.serienjunkies.de CNAME .
 utiq.sevilla.abc.es CNAME .
+utiq.siegener-zeitung.de CNAME .
 utiq.soester-anzeiger.de CNAME .
 utiq.sofinco.fr CNAME .
 utiq.speakup.es CNAME .

@@ -414,7 +414,6 @@ tr.emailing.studiocanal.com
 tr.emailing.tvcaraibes.tv
 tr.emailing.uda.fr
 tr.emailium.fr
-tr.emails-fdj.fr
 tr.emc.moethennessy.com
 tr.enedis-infos.fr
 tr.enews.customsolutions.fr

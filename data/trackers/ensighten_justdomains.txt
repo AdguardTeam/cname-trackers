@@ -140,6 +140,7 @@ cmp.myvolkswagen.be
 cmp.myway.be
 cmp.porsche.be
 cmp.seat.be
+cmp.seatfinance.be
 cmp.skoda.be
 cmp.vdfin.be
 cmp.volkswagen.be
@@ -203,6 +204,7 @@ dc.volkswagen.com.ar
 dc.volkswagen.com.au
 dc.volkswagen.de
 dc.volkswagen.ie
+dc.volkswagen.no
 dc.volkswagen.pl
 dc.vw.co.za
 dc.vw.com

@@ -17,6 +17,7 @@ analytics.law.tmchippewa.com
 analytics.law.umitribe.org
 analytics.leespace.co
 analytics.popov.link
+analytics.regs.maryland.gov
 analytics.repath.studio
 analytics.riggraz.dev
 analytics.sanmateo.ca.us.dev.openlawlibrary.us
@@ -135,6 +136,7 @@ stats.opensurge2d.org
 stats.otbivnoe.ru
 stats.palaisdesfetes.eu
 stats.pamcarter.net
+stats.pvme.omg.lol
 stats.r18.dev
 stats.raycordlegends.com
 stats.risanne.nl
@@ -164,5 +166,6 @@ usage.ideasnap.co
 vault-stats.sladewatkins.net
 visit.argfuscator.net
 visit.hijacklibs.net
+visits.iloveuobgold.com
 webstats.maik.dev
 www.stats.spflow.com

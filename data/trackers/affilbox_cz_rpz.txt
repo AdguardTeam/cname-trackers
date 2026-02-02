@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -346,6 +346,7 @@ my.top4fitness.sk CNAME .
 my.top4football.de CNAME .
 my.top4football.es CNAME .
 my.top4football.fi CNAME .
+my.top4football.fr CNAME .
 my.top4football.hu CNAME .
 my.top4football.ro CNAME .
 my.top4running.at CNAME .
@@ -762,6 +763,7 @@ partner.xbx.cz CNAME .
 partner.xm.cz CNAME .
 partner.yummy.sk CNAME .
 partner.zdravi.online CNAME .
+partner.zenlu.eu CNAME .
 partner.ziskamdobroupraci.cz CNAME .
 partner.zkontrolujsiauto.cz CNAME .
 partner.zombeek.cz CNAME .
@@ -912,6 +914,7 @@ partners.lawofattraction.cz CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
 partners.spiritradar.com CNAME .
+partnerzy.styrcon.pl CNAME .
 plus.mameradivlasy.cz CNAME .
 promo.smskouc.cz CNAME .
 promo.vyzkousejhizero.cz CNAME .

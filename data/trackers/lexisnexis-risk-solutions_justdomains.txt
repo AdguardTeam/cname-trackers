@@ -264,6 +264,7 @@ cim-idc-cdn.account.bcbsil.com
 cim-idc-cdn.account.bcbsmt.com
 cim-idc-cdn.account.bcbsnm.com
 cim-idc-cdn.account.bcbstx.com
+cim-idc-cdn.account.wellontarget.com
 claimant.vec.virginia.gov
 clear.wallapop.com
 clovergo.june-testing.firstdata.com
@@ -349,6 +350,7 @@ content.gapcanada.ca
 content.gapfactory.ca
 content.gapfactory.com
 content.gaptechol.com
+content.govidentityportal.lexisnexisrisk.com
 content.happybank.com
 content.heidipay.com
 content.hellobank.fr
@@ -394,6 +396,7 @@ content.nu.com.mx
 content.nubank.com.br
 content.numobile.com.au
 content.nycers.org
+content.oaken.com
 content.ofx.com
 content.olympus.ao.com
 content.orixbank.co.jp
@@ -559,6 +562,7 @@ digitalidentity.compass.it
 dii.bankaust.com.au
 directinfo.ib.mizuhobank.co.jp
 dm-prod-visapay.m2pfintech.com
+dm-visapay.m2pfintech.com
 dmo-services-tmx.cofidis.cz
 dol-reemployme-js01.maine.gov
 donor.cafamerica.org
@@ -1138,7 +1142,6 @@ tblsdp.tonybet.ca
 tbp.tescobank.com
 tcontent.auchantelecom.fr
 tcontent.nrjmobile.fr
-telem.highlow.com
 telempdf.vepormas.com
 tfet.fltreasurehunt.gov
 tfp.intuit.com
@@ -1180,6 +1183,7 @@ tm.creditcheck.illion.co.nz
 tm.creditcheck.illion.com.au
 tm.creditprotect.illion.co.nz
 tm.creditprotect.illion.com.au
+tm.cyberport.de
 tm.cybersource.com
 tm.defense.dbp.fiservapps.com
 tm.fanduel.com
@@ -1278,6 +1282,7 @@ tmx.carhistory.com.au
 tmx.cdn-btsg.com
 tmx.efsllc.com
 tmx.esfp.c1.vanguard.com
+tmx.esft.c1.vanguard.com
 tmx.fincombank.com
 tmx.gotobilling.com
 tmx.idp.eu.safenetid.com
@@ -1367,6 +1372,7 @@ wildcard.humm.ie
 wkvjee5b.paviliononline.io
 wp.kroger.com
 wptm.worldvision.org
+wptmpreprod.worldvision.org
 ww3.fundingstream.com
 ww3.marlincapitalsolutions.com
 ww3.peacsolutions.com

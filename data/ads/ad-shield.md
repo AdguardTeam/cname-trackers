@@ -4,11 +4,19 @@
 
 * ad-shield.cc
 
+### Rarely active trackers
+
+* 08256602.xyz
+* 60576949.xyz
+
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| www.08256602.xyz | 08256602.xyz |
+| www.60576949.xyz | 60576949.xyz |
 | 0.www.02952346.xyz | ad-shield.cc |
+| 0.www.07443488.xyz | ad-shield.cc |
 | 0.www.08256602.xyz | ad-shield.cc |
 | 0.www.09284291.xyz | ad-shield.cc |
 | 0.www.0ul1wlo58s-vu69us-r1u.xyz | ad-shield.cc |
@@ -31,6 +39,7 @@
 | 0.www.46222568.xyz | ad-shield.cc |
 | 0.www.49709796.xyz | ad-shield.cc |
 | 0.www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
+| 0.www.4tuswl47353p4wl8lsk.xyz | ad-shield.cc |
 | 0.www.50873vmk3263-7sk.xyz | ad-shield.cc |
 | 0.www.53469662.xyz | ad-shield.cc |
 | 0.www.57473094.xyz | ad-shield.cc |
@@ -110,11 +119,14 @@
 | 0.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 0.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
 | 0.www.softlyacrossany.com | ad-shield.cc |
+| 0.www.som4okn1qku1r9p0ul.xyz | ad-shield.cc |
 | 0.www.squeakyscofffar.com | ad-shield.cc |
 | 0.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
+| 0.www.u46r7owvv48861t67m0q388.xyz | ad-shield.cc |
 | 0.www.unfortunatelyafter.com | ad-shield.cc |
 | 0.www.untostakejiggle.com | ad-shield.cc |
 | 0.www.uprightfondly.com | ad-shield.cc |
+| 0.www.us7-snkvsrwk1k1p2.xyz | ad-shield.cc |
 | 0.www.uselesslyswiftprovided.com | ad-shield.cc |
 | 0.www.w9l4tr4013tn5mo27t0w.xyz | ad-shield.cc |
 | 0.www.whoseabacus.com | ad-shield.cc |
@@ -174,6 +186,7 @@
 | 1.www.89296649.xyz | ad-shield.cc |
 | 1.www.89598890.xyz | ad-shield.cc |
 | 1.www.8vtqw0551lo45wwtro.xyz | ad-shield.cc |
+| 1.www.92331k2n45l2uov70.xyz | ad-shield.cc |
 | 1.www.94444717.xyz | ad-shield.cc |
 | 1.www.94782806.xyz | ad-shield.cc |
 | 1.www.95597529.xyz | ad-shield.cc |
@@ -1096,6 +1109,7 @@
 | 9.www.89296649.xyz | ad-shield.cc |
 | 9.www.89598890.xyz | ad-shield.cc |
 | 9.www.8vtqw0551lo45wwtro.xyz | ad-shield.cc |
+| 9.www.92331k2n45l2uov70.xyz | ad-shield.cc |
 | 9.www.94444717.xyz | ad-shield.cc |
 | 9.www.94782806.xyz | ad-shield.cc |
 | 9.www.95597529.xyz | ad-shield.cc |
@@ -1157,7 +1171,7 @@
 | 9.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 9.www.yippeewhenever.com | ad-shield.cc |
 | 9.www.yumhusk.com | ad-shield.cc |
-| www.08256602.xyz | ad-shield.cc |
+| www.0ko5s9l5mn93n7pq.xyz | ad-shield.cc |
 | www.0ul1wlo58s-vu69us-r1u.xyz | ad-shield.cc |
 | www.19706903.xyz | ad-shield.cc |
 | www.2wu0m0ms098w7148.xyz | ad-shield.cc |
@@ -1171,7 +1185,6 @@
 | www.58686728.xyz | ad-shield.cc |
 | www.5k71-k-t51u8q91otp3.xyz | ad-shield.cc |
 | www.5wo4spwppk7n0wvrn.xyz | ad-shield.cc |
-| www.60576949.xyz | ad-shield.cc |
 | www.64786087.xyz | ad-shield.cc |
 | www.661kkm40uu6srww1mvso.xyz | ad-shield.cc |
 | www.78587924.xyz | ad-shield.cc |

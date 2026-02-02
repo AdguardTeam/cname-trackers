@@ -66,6 +66,7 @@
     * howwtf.goatcounter.com
     * ideasnap.goatcounter.com
     * ignatuque.goatcounter.com
+    * iloveuobgold.goatcounter.com
     * irishbornchinese.goatcounter.com
     * irisphotos.goatcounter.com
     * isaacfreund.goatcounter.com
@@ -222,6 +223,7 @@
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | stats.ghostiam.dev | ghostiam.goatcounter.com |
 | analytics.code.dccouncil.gov | goatcounter.com |
+| analytics.regs.maryland.gov | goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | stats.brendanhanke.com | gradient.goatcounter.com |
@@ -233,6 +235,7 @@
 | stats.how.wtf | howwtf.goatcounter.com |
 | usage.ideasnap.co | ideasnap.goatcounter.com |
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
+| visits.iloveuobgold.com | iloveuobgold.goatcounter.com |
 | goatcounter.irishbornchinese.com | irishbornchinese.goatcounter.com |
 | ping.irisphotos.app | irisphotos.goatcounter.com |
 | stats.isaacfreund.com | isaacfreund.goatcounter.com |
@@ -274,6 +277,7 @@
 | analytics.brandsistency.com | mine.goatcounter.com |
 | goatcounter.repozitor.com | mine.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
+| stats.pvme.omg.lol | mine.goatcounter.com |
 | stats.raycordlegends.com | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |

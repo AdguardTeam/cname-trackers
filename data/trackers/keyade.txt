@@ -4,6 +4,7 @@
 ||clk.ubi.com^
 ||k.brandalley.es^
 ||k.brandalley.fr^
+||k.calledelregalo.es^
 ||k.flynas.com^
 ||k.hofmann.es^
 ||k.laredoute.ch^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 0.www.02952346.xyz CNAME .
+0.www.07443488.xyz CNAME .
 0.www.08256602.xyz CNAME .
 0.www.09284291.xyz CNAME .
 0.www.0ul1wlo58s-vu69us-r1u.xyz CNAME .
@@ -34,6 +35,7 @@ $TTL 300
 0.www.46222568.xyz CNAME .
 0.www.49709796.xyz CNAME .
 0.www.4tr3sopq592o7svp1q6mn3.xyz CNAME .
+0.www.4tuswl47353p4wl8lsk.xyz CNAME .
 0.www.50873vmk3263-7sk.xyz CNAME .
 0.www.53469662.xyz CNAME .
 0.www.57473094.xyz CNAME .
@@ -113,11 +115,14 @@ $TTL 300
 0.www.sn2rrlv57qpss5w-qk8llu.xyz CNAME .
 0.www.sneakyangrilypromptlyupon.com CNAME .
 0.www.softlyacrossany.com CNAME .
+0.www.som4okn1qku1r9p0ul.xyz CNAME .
 0.www.squeakyscofffar.com CNAME .
 0.www.ts28ll0tk23t2n9pl0n327.xyz CNAME .
+0.www.u46r7owvv48861t67m0q388.xyz CNAME .
 0.www.unfortunatelyafter.com CNAME .
 0.www.untostakejiggle.com CNAME .
 0.www.uprightfondly.com CNAME .
+0.www.us7-snkvsrwk1k1p2.xyz CNAME .
 0.www.uselesslyswiftprovided.com CNAME .
 0.www.w9l4tr4013tn5mo27t0w.xyz CNAME .
 0.www.whoseabacus.com CNAME .
@@ -177,6 +182,7 @@ $TTL 300
 1.www.89296649.xyz CNAME .
 1.www.89598890.xyz CNAME .
 1.www.8vtqw0551lo45wwtro.xyz CNAME .
+1.www.92331k2n45l2uov70.xyz CNAME .
 1.www.94444717.xyz CNAME .
 1.www.94782806.xyz CNAME .
 1.www.95597529.xyz CNAME .
@@ -1099,6 +1105,7 @@ $TTL 300
 9.www.89296649.xyz CNAME .
 9.www.89598890.xyz CNAME .
 9.www.8vtqw0551lo45wwtro.xyz CNAME .
+9.www.92331k2n45l2uov70.xyz CNAME .
 9.www.94444717.xyz CNAME .
 9.www.94782806.xyz CNAME .
 9.www.95597529.xyz CNAME .
@@ -1160,7 +1167,7 @@ $TTL 300
 9.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 9.www.yippeewhenever.com CNAME .
 9.www.yumhusk.com CNAME .
-www.08256602.xyz CNAME .
+www.0ko5s9l5mn93n7pq.xyz CNAME .
 www.0ul1wlo58s-vu69us-r1u.xyz CNAME .
 www.19706903.xyz CNAME .
 www.2wu0m0ms098w7148.xyz CNAME .
@@ -1174,7 +1181,6 @@ www.53469662.xyz CNAME .
 www.58686728.xyz CNAME .
 www.5k71-k-t51u8q91otp3.xyz CNAME .
 www.5wo4spwppk7n0wvrn.xyz CNAME .
-www.60576949.xyz CNAME .
 www.64786087.xyz CNAME .
 www.661kkm40uu6srww1mvso.xyz CNAME .
 www.78587924.xyz CNAME .
@@ -1243,3 +1249,5 @@ www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 www.yippeewhenever.com CNAME .
 www.yuckbleaklyphooeywhen.com CNAME .
 www.yumhusk.com CNAME .
+www.08256602.xyz CNAME .
+www.60576949.xyz CNAME .

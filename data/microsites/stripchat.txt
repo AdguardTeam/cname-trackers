@@ -212,6 +212,7 @@
 ||ar.stripchat.global^
 ||ar.stripchat.io^
 ||ar.stripchat.ooo^
+||ar.stripchat.org^
 ||ar.stripchat.porn^
 ||ar.stripchat.vision^
 ||ar.stripchat.webcam^
@@ -341,8 +342,10 @@
 ||bn.stripchat.ooo^
 ||bn.stripchat.webcam^
 ||bn.stripchatgirls.com^
+||bn.strp.chat^
 ||bn.superchat.live^
 ||bn.superchatlive.com^
+||bn.tklivechat.com^
 ||bn.xham.live^
 ||bn.xhamsterlive.info^
 ||bn.xhlive.cam^
@@ -373,6 +376,7 @@
 ||br.sexygirlspics.live^
 ||br.shemale.show^
 ||br.spankbanglive.com^
+||br.strip-chat.club^
 ||br.stripchat.be^
 ||br.stripchat.beeg.com^
 ||br.stripchat.cam^
@@ -382,6 +386,7 @@
 ||br.stripchat.porn^
 ||br.stripchat.webcam^
 ||br.stripchatgirls.com^
+||br.stripchats.io^
 ||br.superchat.live^
 ||br.superchatlive.com^
 ||br.tiktits.com^
@@ -439,7 +444,9 @@
 ||creative.camsplanetlive.com^
 ||creative.celebjihad.live^
 ||creative.chiccams.com^
+||creative.drtuberlive.com^
 ||creative.hot-india.com^
+||creative.hotzcam.com^
 ||creative.live.javmix.tv^
 ||creative.live7mm.tv^
 ||creative.myavlive.com^
@@ -483,12 +490,15 @@
 ||cs.xhlive.net^
 ||cs.xmates.com^
 ||cycling.sexfortokens.com^
+||cz.stripchat.global^
+||d.xham.live^
 ||da.hotzcam.com^
 ||da.mycamtv.com^
 ||da.omg.adult^
 ||da.spankbanglive.com^
 ||da.stripchat.dk^
 ||da.stripchat.global^
+||da.stripchatgirls.com^
 ||da.xham.live^
 ||da.xhlive.cam^
 ||da.xhlive.net^
@@ -519,6 +529,7 @@
 ||de.stripchat.be^
 ||de.stripchat.beeg.com^
 ||de.stripchat.global^
+||de.stripchat.ooo^
 ||de.stripchat.org^
 ||de.stripchat.porn^
 ||de.stripchat.webcam^
@@ -530,6 +541,7 @@
 ||de.superchatlive.com^
 ||de.tiktits.com^
 ||de.tklivechat.com^
+||de.us.stripchat.global^
 ||de.xham.live^
 ||de.xhlive.cam^
 ||de.xhlive.net^
@@ -551,22 +563,27 @@
 ||el.celebjihad.live^
 ||el.hot-india.com^
 ||el.hotzcam.com^
+||el.instantfapcams.com^
 ||el.kinkscams.com^
 ||el.myavlive.com^
 ||el.mycamtv.com^
 ||el.nsfwlivechat.com^
 ||el.nudescam18.com^
 ||el.omg.adult^
+||el.sexchatters.com^
 ||el.sexfortokens.com^
 ||el.sexygirlspics.live^
 ||el.shemale.show^
 ||el.spankbanglive.com^
 ||el.stripchat.beeg.com^
 ||el.stripchat.global^
+||el.stripchat.lgbt^
 ||el.stripchat.ooo^
 ||el.stripchatlive.com^
+||el.superchat.live^
 ||el.superchatlive.com^
 ||el.tiktits.com^
+||el.tranny.show^
 ||el.xham.live^
 ||el.xhlive.cam^
 ||el.xhlive.net^
@@ -581,6 +598,7 @@
 ||en.tiktits.com^
 ||en.xham.live^
 ||enattendant-2012.xhamsterlive.info^
+||es.assets.tiktits.com^
 ||es.aznudelive.com^
 ||es.boyfriend.show^
 ||es.cambaddies.com^
@@ -607,6 +625,7 @@
 ||es.stripchat.beeg.com^
 ||es.stripchat.cam^
 ||es.stripchat.global^
+||es.stripchat.io^
 ||es.stripchat.ooo^
 ||es.stripchat.org^
 ||es.stripchat.porn^
@@ -660,8 +679,10 @@
 ||fr.drtuberlive.com^
 ||fr.hot-india.com^
 ||fr.hotzcam.com^
+||fr.instantfapcams.com^
 ||fr.live.javmix.tv^
 ||fr.liveandsexy.cam^
+||fr.livecamlovetr.com^
 ||fr.motherlesslive.com^
 ||fr.myavlive.com^
 ||fr.mycamtv.com^
@@ -679,6 +700,7 @@
 ||fr.stripchat.be^
 ||fr.stripchat.beeg.com^
 ||fr.stripchat.cam^
+||fr.stripchat.direct^
 ||fr.stripchat.global^
 ||fr.stripchat.ooo^
 ||fr.stripchat.org^
@@ -687,6 +709,7 @@
 ||fr.stripchatgirls.com^
 ||fr.stripchatlive.com^
 ||fr.stripchats.global^
+||fr.stripchats.io^
 ||fr.superchat.live^
 ||fr.superchatlive.com^
 ||fr.tiktits.com^
@@ -712,8 +735,12 @@
 ||go.aaaa.stripchat.beeg.com^
 ||go.aaaa.superchat.live^
 ||go.aznudelive.com^
+||go.bbbb.hot-india.com^
+||go.bbbb.stripchat.beeg.com^
 ||go.bbbb.stripchat.global^
 ||go.bn.hot-india.com^
+||go.bn.sexchatters.com^
+||go.bn.stripchat.global^
 ||go.bn.stripchatgirls.com^
 ||go.bn.xham.live^
 ||go.boyfriend.show^
@@ -731,6 +758,7 @@
 ||go.freestrip.chat^
 ||go.hot-india.com^
 ||go.hotzcam.com^
+||go.hr.cambaddies.com^
 ||go.id.aznudelive.com^
 ||go.id.boyfriend.show^
 ||go.id.cambaddies.com^
@@ -740,6 +768,7 @@
 ||go.id.myavlive.com^
 ||go.id.omg.adult^
 ||go.id.porndudecams.com^
+||go.id.rarecams.com^
 ||go.id.sexchatters.com^
 ||go.id.sexfortokens.com^
 ||go.id.shemale.show^
@@ -753,16 +782,21 @@
 ||go.id.tranny.show^
 ||go.id.xham.live^
 ||go.id.xhlive.cam^
+||go.instantfapcams.com^
+||go.live.herecams.com^
 ||go.live.javmix.tv^
 ||go.live7mm.tv^
 ||go.liveandsexy.cam^
 ||go.motherlesslive.com^
 ||go.ms.boyfriend.show^
 ||go.ms.cambaddies.com^
+||go.ms.hotzcam.com^
 ||go.ms.myavlive.com^
 ||go.ms.omg.adult^
 ||go.ms.sexchatters.com^
+||go.ms.spankbanglive.com^
 ||go.ms.stripchat.global^
+||go.ms.tiktits.com^
 ||go.ms.tranny.show^
 ||go.ms.xham.live^
 ||go.myavlive.com^
@@ -770,6 +804,7 @@
 ||go.nsfwlivechat.com^
 ||go.nudescam18.com^
 ||go.omg.adult^
+||go.online.videosdetravestis.net^
 ||go.perfectgirls.live^
 ||go.porndudecams.com^
 ||go.rarecams.com^
@@ -779,6 +814,8 @@
 ||go.sexygirlspics.live^
 ||go.shemale.show^
 ||go.showtime-cams.live^
+||go.sk.drtuberlive.com^
+||go.sk.xham.live^
 ||go.spankbanglive.com^
 ||go.strip-chat.club^
 ||go.stripchat.be^
@@ -802,6 +839,7 @@
 ||go.superchat.live^
 ||go.superchatlive.com^
 ||go.th.boyfriend.show^
+||go.th.cambaddies.com^
 ||go.th.myavlive.com^
 ||go.th.omg.adult^
 ||go.th.sexchatters.com^
@@ -812,6 +850,7 @@
 ||go.tiktits.com^
 ||go.tklivechat.com^
 ||go.tranny.show^
+||go.ua.cambaddies.com^
 ||go.ua.stripchat.io^
 ||go.vi.boyfriend.show^
 ||go.vi.cambaddies.com^
@@ -828,11 +867,14 @@
 ||go.vi.stripchats.io^
 ||go.vi.superchat.live^
 ||go.vi.tklivechat.com^
+||go.vi.xham.live^
 ||go.xham.live^
 ||go.xhamsterlive.info^
 ||go.xhlive.cam^
 ||go.xhlive.net^
 ||go.xhlive.org^
+||go.xmates.com^
+||go.zt.boyfriend.show^
 ||go.zt.cambaddies.com^
 ||go.zt.hotzcam.com^
 ||go.zt.myavlive.com^
@@ -845,6 +887,7 @@
 ||go.zt.stripchats.io^
 ||go.zt.xham.live^
 ||gr.stripchat.beeg.com^
+||gr.superchat.live^
 ||hansjtruth.chiccams.com^
 ||help.hotzcam.com^
 ||hermes.tklivechat.com^
@@ -853,6 +896,7 @@
 ||housekeep.stripchatgirls.com^
 ||hr.aznudelive.com^
 ||hr.boyfriend.show^
+||hr.cambaddies.com^
 ||hr.celebjihad.live^
 ||hr.hot-india.com^
 ||hr.mycamtv.com^
@@ -860,16 +904,20 @@
 ||hr.shemale.show^
 ||hr.stripchat.global^
 ||hr.stripchatgirls.com^
+||hr.superchatlive.com^
 ||hr.xham.live^
 ||hr.xhlive.cam^
 ||hr.xhlive.net^
 ||hu.aznudelive.com^
 ||hu.boyfriend.show^
+||hu.cambaddies.com^
 ||hu.camsplanetlive.com^
 ||hu.celebjihad.live^
+||hu.freestrip.chat^
 ||hu.hot-india.com^
 ||hu.hotzcam.com^
 ||hu.instantfapcams.com^
+||hu.live.javmix.tv^
 ||hu.mycamtv.com^
 ||hu.nsfwlivechat.com^
 ||hu.omg.adult^
@@ -877,6 +925,7 @@
 ||hu.shemale.show^
 ||hu.spankbanglive.com^
 ||hu.stripchat.global^
+||hu.stripchat.ooo^
 ||hu.stripchatlive.com^
 ||hu.superchatlive.com^
 ||hu.xham.live^
@@ -891,6 +940,7 @@
 ||id.camsplanetlive.com^
 ||id.celebjihad.live^
 ||id.colsex.com^
+||id.d.xham.live^
 ||id.drtuberlive.com^
 ||id.hot-india.com^
 ||id.hotzcam.com^
@@ -950,6 +1000,7 @@
 ||it.mycamtv.com^
 ||it.nsfwlivechat.com^
 ||it.omg.adult^
+||it.porndudecams.com^
 ||it.sexchatters.com^
 ||it.sexfortokens.com^
 ||it.sexygirlspics.live^
@@ -958,6 +1009,7 @@
 ||it.stripchat.beeg.com^
 ||it.stripchat.global^
 ||it.stripchat.org^
+||it.stripchat.porn^
 ||it.stripchat.webcam^
 ||it.stripchatgirls.com^
 ||it.stripchatlive.com^
@@ -999,6 +1051,7 @@
 ||ja.stripchat.webcam^
 ||ja.stripchatgirls.com^
 ||ja.stripchatlive.com^
+||ja.stripchats.io^
 ||ja.superchat.live^
 ||ja.superchatlive.com^
 ||ja.tiktits.com^
@@ -1006,6 +1059,7 @@
 ||ja.xham.live^
 ||ja.xhlive.cam^
 ||ja.xhlive.net^
+||ja.xmates.com^
 ||japanvisitor.stripchats.io^
 ||jp.xham.live^
 ||jp.xhlive.cam^
@@ -1033,6 +1087,7 @@
 ||ko.sexfortokens.com^
 ||ko.shemale.show^
 ||ko.spankbanglive.com^
+||ko.stripchat.beeg.com^
 ||ko.stripchat.cam^
 ||ko.stripchat.global^
 ||ko.stripchat.io^
@@ -1143,6 +1198,7 @@
 ||ms.stripchatgirls.com^
 ||ms.superchat.live^
 ||ms.superchatlive.com^
+||ms.tiktits.com^
 ||ms.tklivechat.com^
 ||ms.tranny.show^
 ||ms.xham.live^
@@ -1191,8 +1247,10 @@
 ||nl.stripchat.ooo^
 ||nl.stripchat.org^
 ||nl.stripchatgirls.com^
+||nl.stripchatlive.com^
 ||nl.superchat.live^
 ||nl.superchatlive.com^
+||nl.tiktits.com^
 ||nl.tranny.show^
 ||nl.xham.live^
 ||nl.xhlive.cam^
@@ -1214,6 +1272,8 @@
 ||no.stripchat.global^
 ||no.stripchatgirls.com^
 ||no.stripchats.io^
+||no.superchat.live^
+||no.superchatlive.com^
 ||no.tklivechat.com^
 ||no.xham.live^
 ||no.xhlive.cam^
@@ -1271,6 +1331,7 @@
 ||pinefeather.chiccams.com^
 ||pipeckaya-vozmozhnost.hot-india.com^
 ||pixelbrett.myavlive.com^
+||pl.assets.tiktits.com^
 ||pl.aznudelive.com^
 ||pl.boyfriend.show^
 ||pl.cambaddies.com^
@@ -1294,6 +1355,7 @@
 ||pl.stripchat.be^
 ||pl.stripchat.beeg.com^
 ||pl.stripchat.global^
+||pl.stripchat.porn^
 ||pl.stripchat.webcam^
 ||pl.stripchatgirls.com^
 ||pl.superchat.live^
@@ -1351,6 +1413,7 @@
 ||pt.nudescam18.com^
 ||pt.omg.adult^
 ||pt.sexfortokens.com^
+||pt.sexygirlspics.live^
 ||pt.shemale.show^
 ||pt.spankbanglive.com^
 ||pt.strip-chat.club^
@@ -1398,6 +1461,8 @@
 ||ro.camsplanetlive.com^
 ||ro.celebjihad.live^
 ||ro.drtuberlive.com^
+||ro.freestrip.chat^
+||ro.hot-india.com^
 ||ro.live7mm.tv^
 ||ro.liveandsexy.cam^
 ||ro.myavlive.com^
@@ -1410,11 +1475,13 @@
 ||ro.spankbanglive.com^
 ||ro.stripchat.beeg.com^
 ||ro.stripchat.global^
+||ro.stripchat.ooo^
 ||ro.stripchat.org^
 ||ro.stripchatgirls.com^
 ||ro.stripchats.io^
 ||ro.strp.chat^
 ||ro.superchat.live^
+||ro.superchatlive.com^
 ||ro.tiktits.com^
 ||ro.tklivechat.com^
 ||ro.tranny.show^
@@ -1536,6 +1603,7 @@
 ||sk.boyfriend.show^
 ||sk.cambaddies.com^
 ||sk.celebjihad.live^
+||sk.drtuberlive.com^
 ||sk.hot-india.com^
 ||sk.mycamtv.com^
 ||sk.nsfwlivechat.com^
@@ -1546,6 +1614,7 @@
 ||sk.stripchat.global^
 ||sk.stripchat.webcam^
 ||sk.stripchatgirls.com^
+||sk.superchatlive.com^
 ||sk.xham.live^
 ||sk.xhamsterlive.info^
 ||sk.xhlive.cam^
@@ -1602,6 +1671,7 @@
 ||stealthsurvival.chiccams.com^
 ||stores.xhamsterlive.info^
 ||stripchat.beeg.com^
+||stripchat.lgbt^
 ||stripchat2.com^
 ||stripxlive.com^
 ||studiof.stripchats.io^
@@ -1639,6 +1709,7 @@
 ||sv.stripchat.ooo^
 ||sv.stripchat.webcam^
 ||sv.stripchats.io^
+||sv.strp.chat^
 ||sv.superchat.live^
 ||sv.superchatlive.com^
 ||sv.xham.live^
@@ -1679,9 +1750,11 @@
 ||th.shemale.show^
 ||th.spankbanglive.com^
 ||th.stripchat.global^
+||th.stripchat.ooo^
 ||th.stripchat.org^
 ||th.stripchatgirls.com^
 ||th.stripchats.io^
+||th.strp.chat^
 ||th.superchat.live^
 ||th.superchatlive.com^
 ||th.tklivechat.com^
@@ -1730,6 +1803,7 @@
 ||tr.myavlive.com^
 ||tr.mycamtv.com^
 ||tr.nsfwlivechat.com^
+||tr.nudescam18.com^
 ||tr.omg.adult^
 ||tr.perfectgirls.live^
 ||tr.porndudecams.com^
@@ -1800,12 +1874,14 @@
 ||ua.myavlive.com^
 ||ua.mycamtv.com^
 ||ua.omg.adult^
+||ua.sexchatters.com^
 ||ua.sexfortokens.com^
 ||ua.shemale.show^
 ||ua.spankbanglive.com^
 ||ua.strip-chat.club^
 ||ua.stripchat.global^
 ||ua.stripchat.io^
+||ua.stripchat.org^
 ||ua.stripchat.webcam^
 ||ua.stripchatgirls.com^
 ||ua.stripchats.global^
@@ -1833,6 +1909,7 @@
 ||uranus.superchat.live^
 ||urdeadsexy.superchat.live^
 ||us.myavlive.com^
+||us.stripchat.global^
 ||user-140.superchatlive.com^
 ||user-80.chiccams.com^
 ||user176.omg.adult^
@@ -1862,6 +1939,7 @@
 ||vi.drtuberlive.com^
 ||vi.hot-india.com^
 ||vi.hotzcam.com^
+||vi.live.herecams.com^
 ||vi.live.javmix.tv^
 ||vi.liveandsexy.cam^
 ||vi.myavlive.com^
@@ -1887,6 +1965,7 @@
 ||vi.strp.chat^
 ||vi.superchat.live^
 ||vi.superchatlive.com^
+||vi.tiktits.com^
 ||vi.tklivechat.com^
 ||vi.xham.live^
 ||vi.xhlive.cam^
@@ -2243,6 +2322,7 @@
 ||zh.xham.live^
 ||zh.xhlive.cam^
 ||zh.xhlive.net^
+||zh.xhlive.org^
 ||zh.xmates.com^
 ||zhounder.superchat.live^
 ||zn.stripchatgirls.com^
@@ -2294,6 +2374,7 @@
 ||trk.email.supportlivecam.com^
 ||trk.email.xlivesex.com^
 ||trk.nononutnovember.com^
+||trk.notify.xhamsterlive.com^
 ||trk.notify.xlivesex.com^
 ||trk.sender.xhamsterlive.com^
 ||trk.sender.xlivesex.com^

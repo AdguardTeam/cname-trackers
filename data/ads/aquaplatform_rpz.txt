@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -172,6 +172,7 @@ rtvutrecht-static.reviveservers.com CNAME .
 serve.faithlifeads.com CNAME .
 servedby-thinkresult.revive-adserver.net CNAME .
 servedby.adbility-media.com CNAME .
+servedby.addurance.com CNAME .
 servedby.ammoland.com CNAME .
 servedby.aqua-adserver.com CNAME .
 servedby.atlantamagazine.com CNAME .
@@ -185,7 +186,6 @@ servedby.everythingcolorado.com CNAME .
 servedby.everythingnevada.com CNAME .
 servedby.geminipub.com CNAME .
 servedby.greenspring.com CNAME .
-servedby.healthcarescene.com CNAME .
 servedby.hlipublishing.com CNAME .
 servedby.hollandhortimedia.nl CNAME .
 servedby.hour-media.com CNAME .
@@ -236,7 +236,6 @@ static.environmentalleader.com CNAME .
 static.everythingcolorado.com CNAME .
 static.everythingnevada.com CNAME .
 static.fa-mag.com CNAME .
-static.healthcarescene.com CNAME .
 static.hollandhortimedia.nl CNAME .
 static.i-bidder.com CNAME .
 static.imagineobx.com CNAME .

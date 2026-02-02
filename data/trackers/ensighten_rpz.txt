@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -151,6 +151,7 @@ cmp.myvolkswagen.be CNAME .
 cmp.myway.be CNAME .
 cmp.porsche.be CNAME .
 cmp.seat.be CNAME .
+cmp.seatfinance.be CNAME .
 cmp.skoda.be CNAME .
 cmp.vdfin.be CNAME .
 cmp.volkswagen.be CNAME .
@@ -214,6 +215,7 @@ dc.volkswagen.com.ar CNAME .
 dc.volkswagen.com.au CNAME .
 dc.volkswagen.de CNAME .
 dc.volkswagen.ie CNAME .
+dc.volkswagen.no CNAME .
 dc.volkswagen.pl CNAME .
 dc.vw.co.za CNAME .
 dc.vw.com CNAME .

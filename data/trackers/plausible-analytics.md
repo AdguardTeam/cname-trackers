@@ -505,7 +505,6 @@
 | stats.intheloop.dev | custom.plausible.io |
 | stats.intothebox.org | custom.plausible.io |
 | stats.ipadhire.co.nz | custom.plausible.io |
-| stats.isabelsommerfeld.com | custom.plausible.io |
 | stats.iscc-system.org | custom.plausible.io |
 | stats.isthispoisonivy.website | custom.plausible.io |
 | stats.ivs.rocks | custom.plausible.io |
@@ -628,7 +627,6 @@
 | stats.passwordyeti.com | custom.plausible.io |
 | stats.pasteapp.io | custom.plausible.io |
 | stats.pastorwagner.com | custom.plausible.io |
-| stats.patrickl.am | custom.plausible.io |
 | stats.patriot.win | custom.plausible.io |
 | stats.paulronge.se | custom.plausible.io |
 | stats.paysagistes.pro | custom.plausible.io |
@@ -744,6 +742,7 @@
 | stats.turisme.nu | custom.plausible.io |
 | stats.twhl.xyz | custom.plausible.io |
 | stats.unka.space | custom.plausible.io |
+| stats.urbanfinn.com | custom.plausible.io |
 | stats.useeffect.dev | custom.plausible.io |
 | stats.v4.agirpourlenvironnement.org | custom.plausible.io |
 | stats.vali-pod.io | custom.plausible.io |
@@ -751,6 +750,7 @@
 | stats.vegamuze.be | custom.plausible.io |
 | stats.vican.me | custom.plausible.io |
 | stats.vinkkaa.fi | custom.plausible.io |
+| stats.visions.ch | custom.plausible.io |
 | stats.voltimum.com | custom.plausible.io |
 | stats.wafflemeido.art | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
@@ -762,10 +762,13 @@
 | stats.xactcode.com | custom.plausible.io |
 | stats.xrechnung.app | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
+| statstest.upti.pro | custom.plausible.io |
+| statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |
 | stts.emplution.com | custom.plausible.io |
 | stts.swisshranalytics.ch | custom.plausible.io |
 | taylor.gladspring.com | custom.plausible.io |
 | tics.seeker.gg | custom.plausible.io |
+| tics.techdirt.com | custom.plausible.io |
 | tipstats.onepagelove.com | custom.plausible.io |
 | track.slickinbox.com | custom.plausible.io |
 | views.ericcapella.com | custom.plausible.io |

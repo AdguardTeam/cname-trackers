@@ -287,6 +287,7 @@
 ||utiq.marca.com^
 ||utiq.mariefrance.fr^
 ||utiq.marmiton.org^
+||utiq.maz-online.de^
 ||utiq.meine-anzeigenzeitung.de^
 ||utiq.mejorconectados.com^
 ||utiq.melty.fr^
@@ -345,6 +346,7 @@
 ||utiq.palladiumhotelgroup.com^
 ||utiq.paris-normandie.fr^
 ||utiq.paroledemamans.com^
+||utiq.paz-online.de^
 ||utiq.pcgames.de^
 ||utiq.pcgameshardware.de^
 ||utiq.petbook-magazine.com^
@@ -364,6 +366,7 @@
 ||utiq.rac1.cat^
 ||utiq.regio7.cat^
 ||utiq.reisefrage.net^
+||utiq.reisereporter.de^
 ||utiq.renault.fr^
 ||utiq.renew.auto^
 ||utiq.rireetchansons.fr^
@@ -382,6 +385,7 @@
 ||utiq.sensacine.com^
 ||utiq.serienjunkies.de^
 ||utiq.sevilla.abc.es^
+||utiq.siegener-zeitung.de^
 ||utiq.soester-anzeiger.de^
 ||utiq.sofinco.fr^
 ||utiq.speakup.es^

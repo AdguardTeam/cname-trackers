@@ -59,8 +59,6 @@
     * goldseek-console.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
     * goldseek-static.aquaplatform.com
-    * hcs-delivery.aquaplatform.com
-    * hcs-static.aquaplatform.com
     * hourmedia-console.aquaplatform.com
     * hourmedia-delivery.aquaplatform.com
     * hourmedia-static.aquaplatform.com
@@ -90,6 +88,7 @@
     * midtc5-delivery.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
     * mondiale-static.aquaplatform.com
+    * myadsmyanmar-console.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
     * myadsmyanmar-static.aquaplatform.com
     * ngtu-static.aquaplatform.com
@@ -202,6 +201,7 @@
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
 | console.myadsmyanmar.com | console.aquaplatform.com |
+| console.myadsmyanmar.com | console.aquaplatform.com |
 | console.walaplusadserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
 | www.console.myadsmyanmar.com | console.aquaplatform.com |
@@ -250,8 +250,6 @@
 | creatives.goldseek.com | goldseek-static.aquaplatform.com |
 | images.goldseek.com | goldseek-static.aquaplatform.com |
 | www.creatives.goldseek.com | goldseek-static.aquaplatform.com |
-| servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
-| static.healthcarescene.com | hcs-static.aquaplatform.com |
 | console.cincinnatimagazine.com | hourmedia-console.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
 | console.hour-media.com | hourmedia-console.aquaplatform.com |
@@ -303,6 +301,7 @@
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | static.mondiale.co.uk | mondiale-static.aquaplatform.com |
+| console.myadsmyanmar.com | myadsmyanmar-console.aquaplatform.com |
 | servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
 | cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
 | static.notgoingtouni.co.uk | ngtu-static.aquaplatform.com |
@@ -359,6 +358,7 @@
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | questico-ads.reviveservers.com | platformiq-del.aquaplatform.com |
+| servedby.addurance.com | platformiq-del.aquaplatform.com |
 | servedby.hlipublishing.com | platformiq-del.aquaplatform.com |
 | servedby.hollandhortimedia.nl | platformiq-del.aquaplatform.com |
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |

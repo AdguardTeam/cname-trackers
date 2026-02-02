@@ -2,6 +2,7 @@
 # Company name: Webtrekk
 image.kfw-entwicklungsbank.de
 img.buch.ch
+img.salem-net.de
 mon.ingservices.nl
 now.peek-cloppenburg.de
 ot.obi.com
@@ -62,6 +63,7 @@ data.email.riverford.co.uk
 data.engelhorn.com
 data.engelhorn.de
 data.goertz.de
+data.iberojet.es
 data.inbank.it
 data.janvanderstorm.de
 data.kulturkaufhaus.de
@@ -74,7 +76,6 @@ data.news.juventus.com
 data.newsletter.iqstudentaccommodation.com
 data.obermain.de
 data.vdi-wissensforum.de
-data.velivery.com
 data.volksfreund.de
 data.westlotto.de
 daten.union-investment.de
@@ -105,6 +106,7 @@ img.foodspring.at
 img.foodspring.be
 img.foodspring.ch
 img.foodspring.co.uk
+img.foodspring.com
 img.foodspring.de
 img.foodspring.dk
 img.foodspring.es
@@ -113,6 +115,7 @@ img.foodspring.fr
 img.foodspring.hr
 img.foodspring.it
 img.foodspring.nl
+img.foodspring.pl
 img.foodspring.se
 img.sparkasse-koelnbonn.de
 info.allango.net
@@ -276,6 +279,7 @@ web.info.xerjoff.com
 web.info.yeppon.it
 web.jana-shoes.com
 web.mail.koganpage.com
+web.mail.nordiq.dk
 web.mail.parmalat.it
 web.mail.proximaati.com
 web.mailing.morawa.at

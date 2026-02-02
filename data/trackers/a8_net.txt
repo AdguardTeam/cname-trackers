@@ -510,6 +510,7 @@
 ||a8clk.hags-ec.com^
 ||a8clk.hikakaku.com^
 ||a8clk.hikarinobe.com^
+||a8clk.hoiku-hiroba.com^
 ||a8clk.hoiku.fine.me^
 ||a8clk.hoken-minaoshi-lab.jp^
 ||a8clk.hokennews.jp^
@@ -563,6 +564,7 @@
 ||a8clk.meister-coating.com^
 ||a8clk.mens-mr.jp^
 ||a8clk.mens-rinx.jp^
+||a8clk.mens-svenson.net^
 ||a8clk.menter.jp^
 ||a8clk.merry.duskin-hozumi.co.jp^
 ||a8clk.miidas.jp^
@@ -659,6 +661,7 @@
 ||a8clk.smart-keiri.com^
 ||a8clk.smartmethod.rarejob.com^
 ||a8clk.smile-zemi.jp^
+||a8clk.sougi.294p.com^
 ||a8clk.sp.move-ebike.co.jp^
 ||a8clk.staff.mynavi.jp^
 ||a8clk.star-mall.net^
@@ -786,6 +789,7 @@
 ||a8cv.ama-create.com^
 ||a8cv.amiami.jp^
 ||a8cv.anapnet.com^
+||a8cv.androsophybaby.com^
 ||a8cv.ans-ec.shop^
 ||a8cv.antiaging-eshop.com^
 ||a8cv.aplod.jp^
@@ -905,6 +909,7 @@
 ||a8cv.egmkt.co.jp^
 ||a8cv.eikajapan.com^
 ||a8cv.ekamo.com^
+||a8cv.elabo-shop.jp^
 ||a8cv.emma-sleep-japan.com^
 ||a8cv.encounter2017.jp^
 ||a8cv.english-bootcamp.com^
@@ -944,6 +949,8 @@
 ||a8cv.gakuen.omobic.com^
 ||a8cv.gb-chat.com^
 ||a8cv.gbset.jp^
+||a8cv.giftpad.jp^
+||a8cv.giftto.jp^
 ||a8cv.gigabaito.com^
 ||a8cv.global-dive.jp^
 ||a8cv.global-link-seminar.com^
@@ -965,6 +972,7 @@
 ||a8cv.hariti.shop^
 ||a8cv.heybit.io^
 ||a8cv.hi-tailor.jp^
+||a8cv.highclassmoney.net^
 ||a8cv.hikari-mega.com^
 ||a8cv.hoken-laundry.com^
 ||a8cv.holo-bell.com^
@@ -1004,7 +1012,6 @@
 ||a8cv.jemmy.co.jp^
 ||a8cv.jiyuujinn.com^
 ||a8cv.join-tech.jp^
-||a8cv.jokyonext.jp^
 ||a8cv.joy-karaokerental.com^
 ||a8cv.jp-shop.kiwabi.com^
 ||a8cv.jp.metrocityworld.com^
@@ -1150,6 +1157,7 @@
 ||a8cv.pro.omobic.com^
 ||a8cv.pururu.work^
 ||a8cv.pxdt-store.com^
+||a8cv.qole.com^
 ||a8cv.quattrocart.com^
 ||a8cv.queenbee.co.jp^
 ||a8cv.quick-management.jp^
@@ -1297,6 +1305,7 @@
 ||a8cv.www.chara-ani.com^
 ||a8cv.www.club-sincerite.co.jp^
 ||a8cv.www.covearth.co.jp^
+||a8cv.www.crassone.jp^
 ||a8cv.www.iropuri.com^
 ||a8cv.www.mogecheck.jp^
 ||a8cv.www.pascaljp.com^
@@ -1354,6 +1363,7 @@
 ||a8net.gset.co.jp^
 ||a8net.hassyadai.com^
 ||a8net.kitamura-print.com^
+||a8net.mirastore.jp^
 ||a8net.pg-learning.net^
 ||a8netcv.crebiq.com^
 ||a8nikibi.ike-sunshine.co.jp^
@@ -1436,6 +1446,7 @@
 ||affiliate.tripact.jp^
 ||afi.biyou.web-marketing.ai^
 ||afi.iino.life^
+||afi.iryou.web-marketing.ai^
 ||afi.school.web-marketing.ai^
 ||afi.sougou.web-marketing.ai^
 ||afi.ssl.gmobb.jp^
@@ -1494,6 +1505,7 @@
 ||cv.loca-site.com^
 ||cv.mamaikuko.jp^
 ||cv.meo.tryhatch.co.jp^
+||cv.min-kurumaya.com^
 ||cv.mupla-ab3.com^
 ||cv.my-lancul.com^
 ||cv.nell.life^

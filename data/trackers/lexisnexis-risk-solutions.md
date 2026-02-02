@@ -31,6 +31,7 @@
     * h-1qbwo7fx.online-metrix.net
     * h-1qeo60mk.online-metrix.net
     * h-1qpcog32.online-metrix.net
+    * h-1qumyhx6.online-metrix.net
     * h-1rvzo2et.online-metrix.net
     * h-1v2qttg8.online-metrix.net
     * h-1vjjer2n.online-metrix.net
@@ -164,7 +165,6 @@
     * h-7kcny31f.online-metrix.net
     * h-7lw52x9e.online-metrix.net
     * h-7npzzdc5.online-metrix.net
-    * h-7nwhwds3.online-metrix.net
     * h-7oasgdq6.online-metrix.net
     * h-7p277rpe.online-metrix.net
     * h-7prfpfvh.online-metrix.net
@@ -220,6 +220,7 @@
     * h-9ivuwf8u.online-metrix.net
     * h-9kqz9786.online-metrix.net
     * h-9mjqz0ev.online-metrix.net
+    * h-9o7bi4n9.online-metrix.net
     * h-9qdsfc38.online-metrix.net
     * h-9qyzb2en.online-metrix.net
     * h-9t5j16he.online-metrix.net
@@ -335,6 +336,7 @@
     * h-brightlending.online-metrix.net
     * h-bscelhtc.online-metrix.net
     * h-bsdbdv1g-1.online-metrix.net
+    * h-bsdbdv1g.online-metrix.net
     * h-bt.online-metrix.net
     * h-btcmgcxc.online-metrix.net
     * h-btw63imp.online-metrix.net
@@ -576,6 +578,7 @@
     * h-k8vif92e-helz.online-metrix.net
     * h-k8vif92e-jm.online-metrix.net
     * h-k8vif92e-lulu.online-metrix.net
+    * h-k8vif92e-m2pfintech.online-metrix.net
     * h-k8vif92e-menards.online-metrix.net
     * h-k8vif92e-mo.online-metrix.net
     * h-k8vif92e-pa.online-metrix.net
@@ -958,6 +961,7 @@
 | prod-westccu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-wings.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
+| content.oaken.com | h-1qumyhx6.online-metrix.net |
 | cdn-lntmps.mintmobile.com | h-1rvzo2et.online-metrix.net |
 | cdn-lntmps.ultramobile.com | h-1rvzo2et.online-metrix.net |
 | prod-tmx.cofidis.hu | h-1v2qttg8.online-metrix.net |
@@ -1000,6 +1004,7 @@
 | cim-idc-cdn.account.bcbsmt.com | h-2xb5ezda.online-metrix.net |
 | cim-idc-cdn.account.bcbsnm.com | h-2xb5ezda.online-metrix.net |
 | cim-idc-cdn.account.bcbstx.com | h-2xb5ezda.online-metrix.net |
+| cim-idc-cdn.account.wellontarget.com | h-2xb5ezda.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | validacion.rayo.com.co | h-2yf5pvfu.online-metrix.net |
 | regstat.pokerstars.com | h-2zc9zvoy.online-metrix.net |
@@ -1152,7 +1157,6 @@
 | tm.republicfinance.com | h-7kcny31f.online-metrix.net |
 | af.mobile.free.fr | h-7lw52x9e.online-metrix.net |
 | dol-reemployme-js01.maine.gov | h-7npzzdc5.online-metrix.net |
-| telem.highlow.com | h-7nwhwds3.online-metrix.net |
 | tmcdn.betway.ca | h-7oasgdq6.online-metrix.net |
 | tmcdn.betway.com | h-7oasgdq6.online-metrix.net |
 | tmcdn.betway.de | h-7oasgdq6.online-metrix.net |
@@ -1336,6 +1340,7 @@
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
 | verify.ib.ge | h-9mjqz0ev.online-metrix.net |
+| content.govidentityportal.lexisnexisrisk.com | h-9o7bi4n9.online-metrix.net |
 | verify.paywithpoli.com | h-9qdsfc38.online-metrix.net |
 | cnt.redotpay.net | h-9qyzb2en.online-metrix.net |
 | tm.flowbirdapp.com | h-9t5j16he.online-metrix.net |
@@ -1498,6 +1503,7 @@
 | contentservices.brightlending.com | h-brightlending.online-metrix.net |
 | verification.ndtco.com | h-bscelhtc.online-metrix.net |
 | tm.computeruniverse.net | h-bsdbdv1g-1.online-metrix.net |
+| tm.cyberport.de | h-bsdbdv1g.online-metrix.net |
 | cdn1.thm.panoramainvestor.com.au | h-bt.online-metrix.net |
 | tags.s-dati.com | h-btcmgcxc.online-metrix.net |
 | adprtm53.cardgold.it | h-btw63imp.online-metrix.net |
@@ -1722,6 +1728,7 @@
 | fingerprint.fool.com | h-e0j3u9ji-fool.online-metrix.net |
 | shield.legalzoom.com | h-e0j3u9ji-legalzoom.online-metrix.net |
 | wptm.worldvision.org | h-e0j3u9ji-wptm.online-metrix.net |
+| wptmpreprod.worldvision.org | h-e0j3u9ji-wptm.online-metrix.net |
 | fdts.kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
 | src.ebay-us.com | h-ebay.online-metrix.net |
 | content.ecampus.com | h-ecampus.online-metrix.net |
@@ -1889,6 +1896,7 @@
 | payments.helzberg.com | h-k8vif92e-helz.online-metrix.net |
 | cdncy.jmbullion.com | h-k8vif92e-jm.online-metrix.net |
 | checkout-df.lululemon.com | h-k8vif92e-lulu.online-metrix.net |
+| dm-visapay.m2pfintech.com | h-k8vif92e-m2pfintech.online-metrix.net |
 | c.menards.com | h-k8vif92e-menards.online-metrix.net |
 | mobile.du.ae | h-k8vif92e-mo.online-metrix.net |
 | verify.philippineairlines.com | h-k8vif92e-pa.online-metrix.net |
@@ -2168,6 +2176,7 @@
 | xfp.intuit.com | h-v60nf4oj-xfp.online-metrix.net |
 | zfp.intuit.com | h-v60nf4oj-zfp.online-metrix.net |
 | tmx.esfp.c1.vanguard.com | h-vanguard.online-metrix.net |
+| tmx.esft.c1.vanguard.com | h-vanguard.online-metrix.net |
 | auth.vedacheck.com.au | h-vedacheck.online-metrix.net |
 | tsaian.verizonwireless.com | h-verizon.online-metrix.net |
 | tmx.vinci-autoroutes.com | h-vinci-autoroutes.online-metrix.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,6 +50,7 @@ ade.deskstyle.info CNAME .
 ade.hirose-fx.co.jp CNAME .
 ade.hirose-fx.jp CNAME .
 ade.jfx.co.jp CNAME .
+adebi.hataractive.jp CNAME .
 adebis-52667624.wowma.jp CNAME .
 adebis-bkan.vbest.jp CNAME .
 adebis-catstreet.trunk-hotel.com CNAME .
@@ -127,6 +128,7 @@ adebis.thd-web.jp CNAME .
 adebis.theclinic.jp CNAME .
 adebis.tipness.co.jp CNAME .
 adebis.tohshin.co.jp CNAME .
+adebis.toku-navi-wedding.jp CNAME .
 adebis.tokyuhotels.co.jp CNAME .
 adebis.toushi-up.com CNAME .
 adebis.toushiman.com CNAME .
@@ -165,6 +167,7 @@ c.lypo-c.shop CNAME .
 campaign-direct.eisai.jp CNAME .
 campaign-direct.kouketsuatsu-health.xyz CNAME .
 ccc.aqualink.tokyo CNAME .
+cdn00.sanko.ac.jp CNAME .
 cdn01.sanko.ac.jp CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .

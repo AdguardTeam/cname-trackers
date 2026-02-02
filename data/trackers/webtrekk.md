@@ -22,6 +22,7 @@
     * kiomi-com01.webtrekk.net
     * netcologne-01.webtrekk.net
     * obi-com01.webtrekk.net
+    * salem02.webtrekk.net
     * springergmbh01.webtrekk.net
     * tchibo01.webtrekk.net
     * tchibo02.webtrekk.net
@@ -83,11 +84,11 @@
     * 339874301969258.wt-eu02.net
     * 344809598492039.wt-eu02.net
     * 350258498646185.wt-eu02.net
-    * 350452854671016.wt-eu02.net
     * 366003812072969.wt-eu02.net
     * 367128732629814.wt-eu02.net
     * 367171131378433.wt-eu02.net
     * 368352020330673.wt-eu02.net
+    * 373787793332343.wt-eu02.net
     * 378118469332445.wt-eu02.net
     * 390993738581837.wt-eu02.net
     * 412666916963576.wt-eu02.net
@@ -177,6 +178,7 @@
     * 849036415619964.wt-eu02.net
     * 849715076759606.wt-eu02.net
     * 855939625646783.wt-eu02.net
+    * 864229213109397.wt-eu02.net
     * 865411762489824.wt-eu02.net
     * 867677716718589.wt-eu02.net
     * 876354769224974.wt-eu02.net
@@ -328,7 +330,6 @@
 | web.email.superga.co.uk | 339874301969258.wt-eu02.net |
 | info.junior-deutsch.ch | 344809598492039.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
-| data.velivery.com | 350452854671016.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
 | web.tummytox.at | 366003812072969.wt-eu02.net |
 | web.tummytox.cz | 366003812072969.wt-eu02.net |
@@ -341,6 +342,7 @@
 | data.mediaworld.it | 367128732629814.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | web.ideaautorepair.com | 368352020330673.wt-eu02.net |
+| web.mail.nordiq.dk | 373787793332343.wt-eu02.net |
 | web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
 | website-usage.b2bendix.com | 390993738581837.wt-eu02.net |
 | mff.fairconstruction.com | 412666916963576.wt-eu02.net |
@@ -448,6 +450,7 @@
 | web.bankofscotland.de | 849036415619964.wt-eu02.net |
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | web.pondenhome-mail.com | 855939625646783.wt-eu02.net |
+| data.iberojet.es | 864229213109397.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
 | wt.generalibewegtdeutschland.de | 865411762489824.wt-eu02.net |
 | startrekk.flaconi.se | 867677716718589.wt-eu02.net |
@@ -545,6 +548,7 @@
 | img.foodspring.be | img-foodspring01.wt-eu02.net |
 | img.foodspring.ch | img-foodspring01.wt-eu02.net |
 | img.foodspring.co.uk | img-foodspring01.wt-eu02.net |
+| img.foodspring.com | img-foodspring01.wt-eu02.net |
 | img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
 | img.foodspring.es | img-foodspring01.wt-eu02.net |
@@ -553,6 +557,7 @@
 | img.foodspring.hr | img-foodspring01.wt-eu02.net |
 | img.foodspring.it | img-foodspring01.wt-eu02.net |
 | img.foodspring.nl | img-foodspring01.wt-eu02.net |
+| img.foodspring.pl | img-foodspring01.wt-eu02.net |
 | img.foodspring.se | img-foodspring01.wt-eu02.net |
 | img.sparkasse-koelnbonn.de | img-sparkasse-koelnbonn.wt-eu02.net |
 | scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
@@ -611,6 +616,7 @@
 | ot.obi.com | obi-com01.webtrekk.net |
 | on.dextra.ch | on-dextra.wt-eu02.net |
 | hbbtv-track.prosiebensat1puls4.com | prosiebensat1puls4.wt-eu02.net |
+| img.salem-net.de | salem02.webtrekk.net |
 | trail-001.schleich-s.com | schleich-trail001.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
 | proditor.sparda.de | sparda01.wt-eu02.net |

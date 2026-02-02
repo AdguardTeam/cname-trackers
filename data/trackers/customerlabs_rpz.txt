@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,9 +34,11 @@ msnpurf.themjewelersny.com CNAME .
 pmpbzjp.everydaydose.com CNAME .
 qqguqdw.veneera.nl CNAME .
 qqlvgpl.saberspro.com CNAME .
+qroyrbh.veneera.fr CNAME .
 rmxmtsg.wowe.me CNAME .
 rulrdow.solawave.co CNAME .
 rwlywoe.keepnaturewild.com CNAME .
+tbwzcos.retreatmentbotanics.com CNAME .
 tlaoauh.topshelfgolf.com CNAME .
 tzfgzgo.quickservicepanama.com CNAME .
 uaxfwsb.smallflower.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ analysis-test.sozialversicherung.at CNAME .
 analysis.sozialversicherung.at CNAME .
 analytics.akvo.org CNAME .
 analytics.arz.at CNAME .
+analytics.digiplace.site CNAME .
 analytics.dx.ohio.gov CNAME .
 analytics.effectory.com CNAME .
 analytics.ferrero.com CNAME .
@@ -55,6 +56,7 @@ statistiek.rechtspraak.nl CNAME .
 statistiek.rijksoverheid.nl CNAME .
 statistiek.rvo.nl CNAME .
 statistieken.ns-epublisher.com CNAME .
+stats.arinet.com CNAME .
 stats.dealerspike.com CNAME .
 stats.manz.at CNAME .
 stats.netdriven.com CNAME .

@@ -14,7 +14,6 @@
     * ana-tv5unis-ca-cddc.at-o.net
     * arrietty-nrj-fr-cddc.at-o.net
     * at-badische-zeitung-de-cddc.at-o.net
-    * at-cddc-actu-juridique-fr-cddc.at-o.net
     * ati-sazka-cz-cddc.at-o.net
     * ati-sazkahry-sk-cddc.at-o.net
     * aud-banque-france-fr-cddc.at-o.net
@@ -114,7 +113,6 @@
 | ana.tv5unis.ca | ana-tv5unis-ca-cddc.at-o.net |
 | arrietty.nrj.fr | arrietty-nrj-fr-cddc.at-o.net |
 | at.badische-zeitung.de | at-badische-zeitung-de-cddc.at-o.net |
-| at-cddc.actu-juridique.fr | at-cddc-actu-juridique-fr-cddc.at-o.net |
 | ati.sazka.cz | ati-sazka-cz-cddc.at-o.net |
 | ati.sazkahry.sk | ati-sazkahry-sk-cddc.at-o.net |
 | aud.banque-france.fr | aud-banque-france-fr-cddc.at-o.net |

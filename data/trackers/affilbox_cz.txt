@@ -335,6 +335,7 @@
 ||my.top4football.de^
 ||my.top4football.es^
 ||my.top4football.fi^
+||my.top4football.fr^
 ||my.top4football.hu^
 ||my.top4football.ro^
 ||my.top4running.at^
@@ -751,6 +752,7 @@
 ||partner.xm.cz^
 ||partner.yummy.sk^
 ||partner.zdravi.online^
+||partner.zenlu.eu^
 ||partner.ziskamdobroupraci.cz^
 ||partner.zkontrolujsiauto.cz^
 ||partner.zombeek.cz^
@@ -901,6 +903,7 @@
 ||partners.pocitarna.cz^
 ||partners.puravidashop.cz^
 ||partners.spiritradar.com^
+||partnerzy.styrcon.pl^
 ||plus.mameradivlasy.cz^
 ||promo.smskouc.cz^
 ||promo.vyzkousejhizero.cz^

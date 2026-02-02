@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ atrdb.laeckerli-huus.ch CNAME .
 auszeichnungen.pokale-nrw.de CNAME .
 betterdata.kruu.com CNAME .
 bmkt.bernhardtmoden.de CNAME .
+cet.hiermitherz.de CNAME .
 cet.ximpl.digital CNAME .
 click.easycosmetic.at CNAME .
 click.easycosmetic.be CNAME .
@@ -42,6 +43,7 @@ data.diekuechedirekt.de CNAME .
 data.drhauschka.de CNAME .
 data.fitx.de CNAME .
 data.moebel-style.de CNAME .
+data.moebelnavi.de CNAME .
 data.runners-kitchen.com CNAME .
 data.soristudios.de CNAME .
 data.uk.kutchenhaus.com CNAME .
@@ -190,6 +192,7 @@ pse.gabor.com CNAME .
 ric.arrive-im-herzogpark.de CNAME .
 ric.riedel-immobilien.de CNAME .
 ric.seeleben-starnbergersee.de CNAME .
+s.hamburg.de CNAME .
 salzburg.pankart.dev CNAME .
 salzburg.semsea.at CNAME .
 show.gruppedrei.com CNAME .
@@ -197,6 +200,7 @@ sltracking.sonderlote.de CNAME .
 src.vector.com CNAME .
 sst.cannapoli.de CNAME .
 sst.grasrezept-vergleich.de CNAME .
+st1.mg-prime.com CNAME .
 stat.beetfreunde.de CNAME .
 statistics.bergland.de CNAME .
 statistics.finkhof.de CNAME .
@@ -214,6 +218,8 @@ stats.hotel-haus-norderney.de CNAME .
 stats.inselloft-norderney.de CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.krauss-gmbh.com CNAME .
+stats.landgasthaus.de CNAME .
+stats.milchbar-norderney.de CNAME .
 stats.mopo.de CNAME .
 stats.no-cosmetics.de CNAME .
 stats.oberoejobs.at CNAME .
@@ -252,9 +258,11 @@ tracking.360products.de CNAME .
 tracking.anthonys.at CNAME .
 tracking.belkaw.de CNAME .
 tracking.chio.hu CNAME .
+tracking.formaxx.de CNAME .
 tracking.gruener-soelden.com CNAME .
 tracking.lanxess.com CNAME .
 tracking.mediengewerk.de CNAME .
+tracking.mopo.de CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
 tracking.terrassenhof.de CNAME .
 tracking.walserart.at CNAME .
@@ -283,6 +291,7 @@ wctr.scaleup-fulfillment.de CNAME .
 wctr.sus-architekten-muenster.de CNAME .
 wctr.vitanova-kliniken.de CNAME .
 wd.classicseller.de CNAME .
+web-monitor.labor-limbach-hannover.de CNAME .
 web.satiata-med.de CNAME .
 web.sihl-direct.de CNAME .
 webanalytics.pwc.fr CNAME .
@@ -293,6 +302,7 @@ webcontr.aquarius-prolife.com CNAME .
 webcontr.aulairenicus.de CNAME .
 webcontr.barcodescanner.de CNAME .
 webcontr.baulogistik-online.de CNAME .
+webcontr.beautyavenue.de CNAME .
 webcontr.bertibuch.de CNAME .
 webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .
@@ -360,10 +370,12 @@ webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
 webstt0004.onofficeom.com CNAME .
+webstt0009.onofficeom.com CNAME .
 webstt0011.onofficeom.com CNAME .
 webstt0016.onofficeom.com CNAME .
 webstt0019.onofficeom.com CNAME .
 webstt0020.onofficeom.com CNAME .
+webstt0021.onofficeom.com CNAME .
 webstt0022.onofficeom.com CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
@@ -376,6 +388,7 @@ wurst.hausschlachtebedarf.de CNAME .
 wurst.leffis.de CNAME .
 www2.faxverteiler.com CNAME .
 www3.faxsuite.de CNAME .
+www4.faxsuite.de CNAME .
 yogi.snuffland.de CNAME .
 zahlenbitte.jmwiarda.de CNAME .
 esub.akkusys.de CNAME .

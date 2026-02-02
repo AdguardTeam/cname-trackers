@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,6 +52,7 @@ refer.dna.ancestry.com CNAME .
 refer.dnj.com CNAME .
 refer.fivestars.com CNAME .
 refer.foodkick.com CNAME .
+refer.freshly.com CNAME .
 refer.fuzebox.com CNAME .
 refer.gotoassist.com CNAME .
 refer.gotomeeting.com CNAME .
@@ -94,7 +95,6 @@ refer.talbots.com CNAME .
 refer.tassimodirect.com CNAME .
 refer.tennessean.com CNAME .
 refer.theleafchronicle.com CNAME .
-refer.timberland.com CNAME .
 refer.tommiecopper.com CNAME .
 refer.turbotax.intuit.com CNAME .
 refer.ukforex.co.uk CNAME .
@@ -130,10 +130,13 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em2287.theory.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
+em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em8928.em.petco.com CNAME .
-em9523.walmartmoneycard.com CNAME .
+em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
+em8642.notifications.acorns.com CNAME .
 emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -150,6 +153,7 @@ izoncl2caorfnn6o.extoleu.com CNAME .
 jessica-test-numero-dos.extoleu.com CNAME .
 kenn.extoleu.com CNAME .
 love.columbiacu.org CNAME .
+loyalty.glowbar.com CNAME .
 my.kotn.com CNAME .
 offers.wecu.com CNAME .
 pals.petco.com CNAME .
@@ -358,7 +362,6 @@ refer.psecu.com CNAME .
 refer.pureformulas.com CNAME .
 refer.pureology.com CNAME .
 refer.pvdparking.com CNAME .
-refer.quantumfiber.com CNAME .
 refer.quickbooks.ca CNAME .
 refer.quickbooks.co.uk CNAME .
 refer.quickstart.com CNAME .
@@ -785,22 +788,18 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl2._domainkey.notifications.acorns.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em2279.referral.quickbooks.co.uk CNAME .
-em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em5230.rewards.dailypay.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
-em7952.dailypay.com CNAME .
 em8031.soundcloud.com CNAME .
-em8561.go2bank.com CNAME .
-em8642.notifications.acorns.com CNAME .
+em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
+em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.dailypay.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
@@ -818,6 +817,7 @@ xtl2._domainkey.dailypay.com CNAME .
 xtl2._domainkey.forgetrust.com CNAME .
 xtl2._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl2._domainkey.mail.raf.xfinity.com CNAME .
+xtl2._domainkey.notifications.acorns.com CNAME .
 xtl2._domainkey.refer.starbucks.com CNAME .
 xtl2._domainkey.referral.moneybase.com CNAME .
 xtl2._domainkey.rewards.dailypay.com CNAME .

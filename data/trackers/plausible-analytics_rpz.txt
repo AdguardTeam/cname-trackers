@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -504,7 +504,6 @@ stats.interruptor.pt CNAME .
 stats.intheloop.dev CNAME .
 stats.intothebox.org CNAME .
 stats.ipadhire.co.nz CNAME .
-stats.isabelsommerfeld.com CNAME .
 stats.iscc-system.org CNAME .
 stats.isthispoisonivy.website CNAME .
 stats.ivs.rocks CNAME .
@@ -627,7 +626,6 @@ stats.parrot.dev CNAME .
 stats.passwordyeti.com CNAME .
 stats.pasteapp.io CNAME .
 stats.pastorwagner.com CNAME .
-stats.patrickl.am CNAME .
 stats.patriot.win CNAME .
 stats.paulronge.se CNAME .
 stats.paysagistes.pro CNAME .
@@ -743,6 +741,7 @@ stats.trypricelist.com CNAME .
 stats.turisme.nu CNAME .
 stats.twhl.xyz CNAME .
 stats.unka.space CNAME .
+stats.urbanfinn.com CNAME .
 stats.useeffect.dev CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
 stats.vali-pod.io CNAME .
@@ -750,6 +749,7 @@ stats.vdsnow.ru CNAME .
 stats.vegamuze.be CNAME .
 stats.vican.me CNAME .
 stats.vinkkaa.fi CNAME .
+stats.visions.ch CNAME .
 stats.voltimum.com CNAME .
 stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
@@ -761,10 +761,13 @@ stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
 stats.xrechnung.app CNAME .
 stats.zimri.net CNAME .
+statstest.upti.pro CNAME .
+statystyki.ekspertyzy-szkolenia.pl CNAME .
 stts.emplution.com CNAME .
 stts.swisshranalytics.ch CNAME .
 taylor.gladspring.com CNAME .
 tics.seeker.gg CNAME .
+tics.techdirt.com CNAME .
 tipstats.onepagelove.com CNAME .
 track.slickinbox.com CNAME .
 views.ericcapella.com CNAME .

@@ -493,7 +493,6 @@
 ||stats.intheloop.dev^
 ||stats.intothebox.org^
 ||stats.ipadhire.co.nz^
-||stats.isabelsommerfeld.com^
 ||stats.iscc-system.org^
 ||stats.isthispoisonivy.website^
 ||stats.ivs.rocks^
@@ -616,7 +615,6 @@
 ||stats.passwordyeti.com^
 ||stats.pasteapp.io^
 ||stats.pastorwagner.com^
-||stats.patrickl.am^
 ||stats.patriot.win^
 ||stats.paulronge.se^
 ||stats.paysagistes.pro^
@@ -732,6 +730,7 @@
 ||stats.turisme.nu^
 ||stats.twhl.xyz^
 ||stats.unka.space^
+||stats.urbanfinn.com^
 ||stats.useeffect.dev^
 ||stats.v4.agirpourlenvironnement.org^
 ||stats.vali-pod.io^
@@ -739,6 +738,7 @@
 ||stats.vegamuze.be^
 ||stats.vican.me^
 ||stats.vinkkaa.fi^
+||stats.visions.ch^
 ||stats.voltimum.com^
 ||stats.wafflemeido.art^
 ||stats.walkiees.co.uk^
@@ -750,10 +750,13 @@
 ||stats.xactcode.com^
 ||stats.xrechnung.app^
 ||stats.zimri.net^
+||statstest.upti.pro^
+||statystyki.ekspertyzy-szkolenia.pl^
 ||stts.emplution.com^
 ||stts.swisshranalytics.ch^
 ||taylor.gladspring.com^
 ||tics.seeker.gg^
+||tics.techdirt.com^
 ||tipstats.onepagelove.com^
 ||track.slickinbox.com^
 ||views.ericcapella.com^

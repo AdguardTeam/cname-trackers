@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -275,6 +275,7 @@ cim-idc-cdn.account.bcbsil.com CNAME .
 cim-idc-cdn.account.bcbsmt.com CNAME .
 cim-idc-cdn.account.bcbsnm.com CNAME .
 cim-idc-cdn.account.bcbstx.com CNAME .
+cim-idc-cdn.account.wellontarget.com CNAME .
 claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
@@ -360,6 +361,7 @@ content.gapcanada.ca CNAME .
 content.gapfactory.ca CNAME .
 content.gapfactory.com CNAME .
 content.gaptechol.com CNAME .
+content.govidentityportal.lexisnexisrisk.com CNAME .
 content.happybank.com CNAME .
 content.heidipay.com CNAME .
 content.hellobank.fr CNAME .
@@ -405,6 +407,7 @@ content.nu.com.mx CNAME .
 content.nubank.com.br CNAME .
 content.numobile.com.au CNAME .
 content.nycers.org CNAME .
+content.oaken.com CNAME .
 content.ofx.com CNAME .
 content.olympus.ao.com CNAME .
 content.orixbank.co.jp CNAME .
@@ -570,6 +573,7 @@ digitalidentity.compass.it CNAME .
 dii.bankaust.com.au CNAME .
 directinfo.ib.mizuhobank.co.jp CNAME .
 dm-prod-visapay.m2pfintech.com CNAME .
+dm-visapay.m2pfintech.com CNAME .
 dmo-services-tmx.cofidis.cz CNAME .
 dol-reemployme-js01.maine.gov CNAME .
 donor.cafamerica.org CNAME .
@@ -1149,7 +1153,6 @@ tblsdp.tonybet.ca CNAME .
 tbp.tescobank.com CNAME .
 tcontent.auchantelecom.fr CNAME .
 tcontent.nrjmobile.fr CNAME .
-telem.highlow.com CNAME .
 telempdf.vepormas.com CNAME .
 tfet.fltreasurehunt.gov CNAME .
 tfp.intuit.com CNAME .
@@ -1191,6 +1194,7 @@ tm.creditcheck.illion.co.nz CNAME .
 tm.creditcheck.illion.com.au CNAME .
 tm.creditprotect.illion.co.nz CNAME .
 tm.creditprotect.illion.com.au CNAME .
+tm.cyberport.de CNAME .
 tm.cybersource.com CNAME .
 tm.defense.dbp.fiservapps.com CNAME .
 tm.fanduel.com CNAME .
@@ -1289,6 +1293,7 @@ tmx.carhistory.com.au CNAME .
 tmx.cdn-btsg.com CNAME .
 tmx.efsllc.com CNAME .
 tmx.esfp.c1.vanguard.com CNAME .
+tmx.esft.c1.vanguard.com CNAME .
 tmx.fincombank.com CNAME .
 tmx.gotobilling.com CNAME .
 tmx.idp.eu.safenetid.com CNAME .
@@ -1378,6 +1383,7 @@ wildcard.humm.ie CNAME .
 wkvjee5b.paviliononline.io CNAME .
 wp.kroger.com CNAME .
 wptm.worldvision.org CNAME .
+wptmpreprod.worldvision.org CNAME .
 ww3.fundingstream.com CNAME .
 ww3.marlincapitalsolutions.com CNAME .
 ww3.peacsolutions.com CNAME .

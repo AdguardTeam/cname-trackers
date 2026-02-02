@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 image.kfw-entwicklungsbank.de CNAME .
 img.buch.ch CNAME .
+img.salem-net.de CNAME .
 mon.ingservices.nl CNAME .
 now.peek-cloppenburg.de CNAME .
 ot.obi.com CNAME .
@@ -73,6 +74,7 @@ data.email.riverford.co.uk CNAME .
 data.engelhorn.com CNAME .
 data.engelhorn.de CNAME .
 data.goertz.de CNAME .
+data.iberojet.es CNAME .
 data.inbank.it CNAME .
 data.janvanderstorm.de CNAME .
 data.kulturkaufhaus.de CNAME .
@@ -85,7 +87,6 @@ data.news.juventus.com CNAME .
 data.newsletter.iqstudentaccommodation.com CNAME .
 data.obermain.de CNAME .
 data.vdi-wissensforum.de CNAME .
-data.velivery.com CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
@@ -116,6 +117,7 @@ img.foodspring.at CNAME .
 img.foodspring.be CNAME .
 img.foodspring.ch CNAME .
 img.foodspring.co.uk CNAME .
+img.foodspring.com CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
 img.foodspring.es CNAME .
@@ -124,6 +126,7 @@ img.foodspring.fr CNAME .
 img.foodspring.hr CNAME .
 img.foodspring.it CNAME .
 img.foodspring.nl CNAME .
+img.foodspring.pl CNAME .
 img.foodspring.se CNAME .
 img.sparkasse-koelnbonn.de CNAME .
 info.allango.net CNAME .
@@ -287,6 +290,7 @@ web.info.xerjoff.com CNAME .
 web.info.yeppon.it CNAME .
 web.jana-shoes.com CNAME .
 web.mail.koganpage.com CNAME .
+web.mail.nordiq.dk CNAME .
 web.mail.parmalat.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mailing.morawa.at CNAME .

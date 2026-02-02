@@ -161,6 +161,7 @@
 ||serve.faithlifeads.com^
 ||servedby-thinkresult.revive-adserver.net^
 ||servedby.adbility-media.com^
+||servedby.addurance.com^
 ||servedby.ammoland.com^
 ||servedby.aqua-adserver.com^
 ||servedby.atlantamagazine.com^
@@ -174,7 +175,6 @@
 ||servedby.everythingnevada.com^
 ||servedby.geminipub.com^
 ||servedby.greenspring.com^
-||servedby.healthcarescene.com^
 ||servedby.hlipublishing.com^
 ||servedby.hollandhortimedia.nl^
 ||servedby.hour-media.com^
@@ -225,7 +225,6 @@
 ||static.everythingcolorado.com^
 ||static.everythingnevada.com^
 ||static.fa-mag.com^
-||static.healthcarescene.com^
 ||static.hollandhortimedia.nl^
 ||static.i-bidder.com^
 ||static.imagineobx.com^

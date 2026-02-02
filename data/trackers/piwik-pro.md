@@ -6,11 +6,13 @@
     * adnoc.piwik.pro
     * akvo.piwik.pro
     * amsterdam.piwik.pro
+    * ari.piwik.pro
     * aumago.piwik.pro
     * betus.piwik.pro
     * com-on.piwik.pro
     * czgroep.piwik.pro
     * dealerspike-prod.piwik.pro
+    * dorier-group.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
     * effectory.piwik.pro
@@ -33,6 +35,7 @@
     * pp-public-p-gwc.piwik.pro
     * pp-public-p-uan.piwik.pro
     * pp-public-p-use.piwik.pro
+    * public-p-swe.piwik.pro
     * public-p-swe2.piwik.pro
     * rechtspraak.piwik.pro
     * relayto.piwik.pro
@@ -60,13 +63,14 @@
 | www.webengage.ae | adnoc.piwik.pro |
 | analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
+| stats.arinet.com | ari.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
-| piwik.slotsparadise.com | betus.piwik.pro |
 | piwik.vegasaces.com | betus.piwik.pro |
 | piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
+| analytics.digiplace.site | dorier-group.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
 | analytics.effectory.com | effectory.piwik.pro |
@@ -112,7 +116,6 @@
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
-| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
@@ -155,6 +158,7 @@
 | epiphany.masterworks.digital | pp-public-p-use.piwik.pro |
 | gmn.gloo.com | pp-public-p-use.piwik.pro |
 | site-analytics.iop.ohio.gov | pp-public-p-use.piwik.pro |
+| analytics.digiplace.site | public-p-swe.piwik.pro |
 | mphdd.multipharma.be | public-p-swe2.piwik.pro |
 | mphdd.multipharma.be | public-p-swe2.piwik.pro |
 | stats.manz.at | public-p-swe2.piwik.pro |
@@ -174,6 +178,7 @@
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
+| stats.arinet.com | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |
 | wa.love2play.com | uninstalled.piwik.pro |

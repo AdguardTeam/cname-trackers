@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1769414419388        ; Serial
+           1770019226196        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ analytics.law.tmchippewa.com CNAME .
 analytics.law.umitribe.org CNAME .
 analytics.leespace.co CNAME .
 analytics.popov.link CNAME .
+analytics.regs.maryland.gov CNAME .
 analytics.repath.studio CNAME .
 analytics.riggraz.dev CNAME .
 analytics.sanmateo.ca.us.dev.openlawlibrary.us CNAME .
@@ -146,6 +147,7 @@ stats.opensurge2d.org CNAME .
 stats.otbivnoe.ru CNAME .
 stats.palaisdesfetes.eu CNAME .
 stats.pamcarter.net CNAME .
+stats.pvme.omg.lol CNAME .
 stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .
 stats.risanne.nl CNAME .
@@ -175,5 +177,6 @@ usage.ideasnap.co CNAME .
 vault-stats.sladewatkins.net CNAME .
 visit.argfuscator.net CNAME .
 visit.hijacklibs.net CNAME .
+visits.iloveuobgold.com CNAME .
 webstats.maik.dev CNAME .
 www.stats.spflow.com CNAME .

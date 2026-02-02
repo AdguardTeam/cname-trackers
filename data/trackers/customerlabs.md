@@ -26,9 +26,11 @@
     * pmpbzjp.customers.1p-data.co
     * qqguqdw.customers.1p-data.co
     * qqlvgpl.customers.1p-data.co
+    * qroyrbh.customers.1p-data.co
     * rmxmtsg.customers.1p-data.co
     * rulrdow.customers.1p-data.co
     * rwlywoe.customers.1p-data.co
+    * tbwzcos.customers.1p-data.co
     * tlaoauh.customers.1p-data.co
     * tzfgzgo.customers.1p-data.co
     * uaxfwsb.customers.1p-data.co
@@ -69,9 +71,11 @@
 | pmpbzjp.everydaydose.com | pmpbzjp.customers.1p-data.co |
 | qqguqdw.veneera.nl | qqguqdw.customers.1p-data.co |
 | qqlvgpl.saberspro.com | qqlvgpl.customers.1p-data.co |
+| qroyrbh.veneera.fr | qroyrbh.customers.1p-data.co |
 | rmxmtsg.wowe.me | rmxmtsg.customers.1p-data.co |
 | rulrdow.solawave.co | rulrdow.customers.1p-data.co |
 | rwlywoe.keepnaturewild.com | rwlywoe.customers.1p-data.co |
+| tbwzcos.retreatmentbotanics.com | tbwzcos.customers.1p-data.co |
 | tlaoauh.topshelfgolf.com | tlaoauh.customers.1p-data.co |
 | tzfgzgo.quickservicepanama.com | tzfgzgo.customers.1p-data.co |
 | uaxfwsb.smallflower.com | uaxfwsb.customers.1p-data.co |

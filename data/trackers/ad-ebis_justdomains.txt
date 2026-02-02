@@ -39,6 +39,7 @@ ade.deskstyle.info
 ade.hirose-fx.co.jp
 ade.hirose-fx.jp
 ade.jfx.co.jp
+adebi.hataractive.jp
 adebis-52667624.wowma.jp
 adebis-bkan.vbest.jp
 adebis-catstreet.trunk-hotel.com
@@ -116,6 +117,7 @@ adebis.thd-web.jp
 adebis.theclinic.jp
 adebis.tipness.co.jp
 adebis.tohshin.co.jp
+adebis.toku-navi-wedding.jp
 adebis.tokyuhotels.co.jp
 adebis.toushi-up.com
 adebis.toushiman.com
@@ -154,6 +156,7 @@ c.lypo-c.shop
 campaign-direct.eisai.jp
 campaign-direct.kouketsuatsu-health.xyz
 ccc.aqualink.tokyo
+cdn00.sanko.ac.jp
 cdn01.sanko.ac.jp
 cmass.massmedian.co.jp
 cname-ade.gom-in.com

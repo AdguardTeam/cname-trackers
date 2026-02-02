@@ -6,6 +6,7 @@
 ||analysis.sozialversicherung.at^
 ||analytics.akvo.org^
 ||analytics.arz.at^
+||analytics.digiplace.site^
 ||analytics.dx.ohio.gov^
 ||analytics.effectory.com^
 ||analytics.ferrero.com^
@@ -44,6 +45,7 @@
 ||statistiek.rijksoverheid.nl^
 ||statistiek.rvo.nl^
 ||statistieken.ns-epublisher.com^
+||stats.arinet.com^
 ||stats.dealerspike.com^
 ||stats.manz.at^
 ||stats.netdriven.com^

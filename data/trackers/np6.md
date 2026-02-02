@@ -442,7 +442,6 @@
 | tr.emailing.tvcaraibes.tv | tracking.bp01.net |
 | tr.emailing.uda.fr | tracking.bp01.net |
 | tr.emailium.fr | tracking.bp01.net |
-| tr.emails-fdj.fr | tracking.bp01.net |
 | tr.emc.moethennessy.com | tracking.bp01.net |
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.enews.customsolutions.fr | tracking.bp01.net |
