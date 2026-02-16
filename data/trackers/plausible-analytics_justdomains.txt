@@ -10,13 +10,13 @@ analytics.adam.page
 analytics.andrewsmith.com.au
 analytics.arunraghavan.net
 analytics.betterplaces.nl
+analytics.certifriedit.com
 analytics.churchthemes.com
 analytics.codeforscience.org
 analytics.codeskulptor.org
 analytics.eikko.ai
 analytics.ericafischerphotography.com
 analytics.gamedatacrunch.com
-analytics.geekyminds.net
 analytics.hambleden-capital.com
 analytics.hiome.com
 analytics.lifestyledemocracy.com
@@ -93,7 +93,6 @@ metrics.creit.tech
 metrics.earrieta.dev
 momotaro.craigmod.com
 momotaro.walkkumano.com
-munnin.hicsuntdra.co
 numbers.coolconfetti.com
 numbers.monthlyphotos.com
 nums.upscale.app
@@ -179,7 +178,6 @@ plausible.joinself.com
 plausible.k6sbw.net
 plausible.kabaret.no
 plausible.kdojang.com
-plausible.kundenportal.io
 plausible.lesbianromantic.com
 plausible.logicboard.com
 plausible.marker12.org
@@ -284,7 +282,6 @@ statistic.jac-systeme.de
 statistics.heatbeat.de
 statistik.apartments-tirolerhaus.at
 statman.sesong.info
-stats.69grad.de
 stats.acadevor.com
 stats.achtsame-yonimassage.de
 stats.activityvault.io
@@ -459,7 +456,6 @@ stats.glyphs.fyi
 stats.goldsguide.com
 stats.gounified.com
 stats.gras-system.org
-stats.gravitaswins.com
 stats.greatlakesdesign.co
 stats.groupconsent.eu
 stats.gslc.utah.edu
@@ -537,7 +533,6 @@ stats.leavetrackapp.com
 stats.lefthoek.com
 stats.legendofnom.com
 stats.leoloso.com
-stats.levinowska.com
 stats.lica.at
 stats.lik.fr
 stats.limitlessnetworks.eu
@@ -573,7 +568,6 @@ stats.missionmet.com
 stats.missionrabies.com
 stats.moco-comics.com
 stats.mostlycoding.com.au
-stats.motorcyclepartsireland.ie
 stats.mrtnvh.com
 stats.multiplelenses.com
 stats.multiply.cloud
@@ -598,7 +592,6 @@ stats.obokat.se
 stats.odysseeseine.org
 stats.officefoosball.com
 stats.ohmysmtp.com
-stats.oldtinroof.com
 stats.oliveoil.pro
 stats.onepagelove.com
 stats.orbitalhealth.co
@@ -664,7 +657,6 @@ stats.reto.tv
 stats.retroware.com
 stats.rideinpeace.ie
 stats.rightourhistoryhawaii.com
-stats.robotika.ax
 stats.rocketvalidator.com
 stats.roderickduenas.com
 stats.ruhrfestspiele.de
@@ -693,7 +685,6 @@ stats.shiftx.com
 stats.simplinetworks.com
 stats.sirdata.com
 stats.ski.com
-stats.socialeurope.eu
 stats.southswindon-pc.gov.uk
 stats.sparkloop.app
 stats.spreadtheworld.net
@@ -712,16 +703,13 @@ stats.suenicholls.com
 stats.suniboy.com
 stats.suominaikidoacademy.com
 stats.sushibyte.io
-stats.svemir.co
 stats.symbiofest.cz
 stats.tax-venture.de
 stats.teamdetails.com
 stats.tekin.co.uk
 stats.thecapablecollective.com
 stats.thingsthatkeepmeupatnight.dev
-stats.thomasbandt.com
 stats.tijdschrift.zenleven.nl
-stats.tl8.io
 stats.tomorrowacademy.org
 stats.training.fit
 stats.trimbles.ie
@@ -745,6 +733,8 @@ stats.walkiees.co.uk
 stats.warrantynowvoid.com
 stats.websnap.app
 stats.world.hey.com
+stats.wvsindia.org
+stats.wwdcscholars.com
 stats.www.agirpourlenvironnement.org
 stats.wymanmobilenotary.com
 stats.xactcode.com

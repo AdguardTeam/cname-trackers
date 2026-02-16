@@ -136,9 +136,11 @@ stats.opensurge2d.org
 stats.otbivnoe.ru
 stats.palaisdesfetes.eu
 stats.pamcarter.net
+stats.pttrn.io
 stats.pvme.omg.lol
 stats.r18.dev
 stats.raycordlegends.com
+stats.rezhajul.io
 stats.risanne.nl
 stats.rocketgoboom.lol
 stats.ryanchmelir.com

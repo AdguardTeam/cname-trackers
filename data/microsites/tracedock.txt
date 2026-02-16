@@ -12,10 +12,8 @@
 ||0t5pq-e6w16.ads.tremorhub.com^
 ||0t5pq-krt0d.ads.tremorhub.com^
 ||1dfkn-9cdv6.ads.tremorhub.com^
-||2onby-9776p.ads.tremorhub.com^
 ||2onby-xqooy.ads.tremorhub.com^
 ||4hllz-0dtva.ads.tremorhub.com^
-||4hllz-s9lrg.ads.tremorhub.com^
 ||5nbh3-uouba.ads.tremorhub.com^
 ||6lioc-40gtx.ads.tremorhub.com^
 ||6lioc-ftrbi.ads.tremorhub.com^
@@ -34,7 +32,6 @@
 ||j5en0-pll05.ads.tremorhub.com^
 ||kiiu4.ads.tremorhub.com^
 ||ktk7k-zvz05.ads.tremorhub.com^
-||ln3sc-x0hjd.ads.tremorhub.com^
 ||m7hdh-2damu.ads.tremorhub.com^
 ||p4dt2-hr9oj.ads.tremorhub.com^
 ||pc031-edgup.ads.tremorhub.com^
@@ -1077,7 +1074,6 @@
 ||7304587.collect.igodigital.com^
 ||7306408.collect.igodigital.com^
 ||7306662.collect.igodigital.com^
-||7309485.collect.igodigital.com^
 ||7315920.collect.igodigital.com^
 ||7316235.collect.igodigital.com^
 ||7316446.collect.igodigital.com^
@@ -1120,7 +1116,6 @@
 ||510006363.collect.igodigital.com^
 ||536001766.collect.igodigital.com^
 ||536002285.collect.igodigital.com^
-||536002447.collect.igodigital.com^
 ||536003066.collect.igodigital.com^
 ||536003361.collect.igodigital.com^
 ||536003807.collect.igodigital.com^
@@ -1136,7 +1131,6 @@
 ||ku3v7v2o10w0ptv9.internal.pov.acceldatasolutions.net^
 ||p0fbv39qttz2vpk0.internal.pov.acceldatasolutions.net^
 ||poc.internal.pov.acceldatasolutions.net^
-||ad-car-api.fastview.co.kr^
 ||ad-events-dub11.g.flashtalking.com^
 ||ad-events-lhr11.g.flashtalking.com^
 ||ad-heros.com^
@@ -1275,7 +1269,6 @@
 ||kr-ad-dcsn.aws.tving.com^
 ||log.gomlab.com^
 ||logger.unsplash.com^
-||metrics-api.librato.com^
 ||mobile-appdyn.absa.africa^
 ||vodacom.eum-appdynamics.com^
 ||mobirix.com^

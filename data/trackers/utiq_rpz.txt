@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -221,6 +221,8 @@ utiq.jakala.es CNAME .
 utiq.jamesonwhiskey.com CNAME .
 utiq.jdelhommeau.fr CNAME .
 utiq.jeuxvideo.com CNAME .
+utiq.journaldesfemmes.fr CNAME .
+utiq.journaldunet.com CNAME .
 utiq.jux.news CNAME .
 utiq.kino.de CNAME .
 utiq.kreis-anzeiger.de CNAME .
@@ -364,6 +366,7 @@ utiq.petbook-magazine.com CNAME .
 utiq.petbook.de CNAME .
 utiq.petitbleu.fr CNAME .
 utiq.petitfute.com CNAME .
+utiq.phonandroid.com CNAME .
 utiq.pleinevie.fr CNAME .
 utiq.pnp.de CNAME .
 utiq.poprosa.com CNAME .

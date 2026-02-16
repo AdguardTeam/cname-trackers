@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -241,7 +241,6 @@ ens.radiopilatus.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.thurgauerzeitung.ch CNAME .
 ens.toggenburgertagblatt.ch CNAME .
-ens.trauerportal-ostschweiz.ch CNAME .
 ens.urnerzeitung.ch CNAME .
 ens.wilerzeitung.ch CNAME .
 ens.zugerzeitung.ch CNAME .
@@ -312,6 +311,7 @@ privacy.amstel.nl CNAME .
 privacy.blade.app CNAME .
 privacy.buyersedge.com.au CNAME .
 privacy.easyjet.com CNAME .
+privacy.eazle.at CNAME .
 privacy.gemfinance.co.nz CNAME .
 privacy.gemvisa.co.nz CNAME .
 privacy.gemvisa.com.au CNAME .

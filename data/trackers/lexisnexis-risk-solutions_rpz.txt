@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,7 +27,6 @@ adprtm53.gebuhrenfrei.com CNAME .
 adprtm53.goldkarte.at CNAME .
 adprtm53.kartegold.de CNAME .
 adprtm53.xn--gebhrenfrei-vhb.de CNAME .
-advertize.stcbank.com.sa CNAME .
 aegis.miio.mx CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
@@ -274,7 +273,9 @@ cib.currency.lloydsbank.com CNAME .
 cim-idc-cdn.account.bcbsil.com CNAME .
 cim-idc-cdn.account.bcbsmt.com CNAME .
 cim-idc-cdn.account.bcbsnm.com CNAME .
+cim-idc-cdn.account.bcbsok.com CNAME .
 cim-idc-cdn.account.bcbstx.com CNAME .
+cim-idc-cdn.account.test.bcbsok.com CNAME .
 cim-idc-cdn.account.wellontarget.com CNAME .
 claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
@@ -318,7 +319,6 @@ content.berluti.com CNAME .
 content.biggerbooks.com CNAME .
 content.billdomain.com CNAME .
 content.billsupport.com CNAME .
-content.bnl.it CNAME .
 content.bnpparibas.net CNAME .
 content.byabcd.com CNAME .
 content.canadiantire.ca CNAME .
@@ -335,6 +335,7 @@ content.covantagecu.org CNAME .
 content.ctfs.com CNAME .
 content.digital-credit.app CNAME .
 content.digital.citbank.com CNAME .
+content.directauto.com CNAME .
 content.discover.com CNAME .
 content.discovercard.com CNAME .
 content.dstv.com CNAME .
@@ -393,10 +394,12 @@ content.moni.com.ar CNAME .
 content.my100bank.com CNAME .
 content.mycno.com CNAME .
 content.myfamliplus.state.co.us CNAME .
+content.myfloridaprepaid.com CNAME .
 content.myonlyid.com CNAME .
 content.mypersi.idaho.gov CNAME .
 content.mywisely.com CNAME .
 content.name.com CNAME .
+content.nationalgeneral.com CNAME .
 content.nebraska.gov CNAME .
 content.netcredit.pl CNAME .
 content.nhrs.org CNAME .
@@ -488,7 +491,6 @@ content22.citi.com CNAME .
 content22.citibank.ae CNAME .
 content22.citibank.co.id CNAME .
 content22.citibank.com CNAME .
-content22.citibank.com.au CNAME .
 content22.citibank.com.hk CNAME .
 content22.citibank.com.sg CNAME .
 content22.citibank.com.tw CNAME .
@@ -607,7 +609,9 @@ ext.sofinco.fr CNAME .
 faas.2dehands.be CNAME .
 faas.2ememain.be CNAME .
 faas.marktplaats.nl CNAME .
+fccontent.suitsmecard.com CNAME .
 fd-tm.upgrade.com CNAME .
+fd.luminor.me CNAME .
 fdts.kleinanzeigen.de CNAME .
 fingerprint.fool.com CNAME .
 fms-dev.citysavings.net.ph CNAME .
@@ -785,6 +789,7 @@ ltxup.sumup.io CNAME .
 ltxup.sumupstore.com CNAME .
 m-profiling.cibc.com CNAME .
 m-profiling.simplii.com CNAME .
+m.meine-bankid.de CNAME .
 m.vnforapps.com CNAME .
 matrix.cpg.org CNAME .
 mbrstat.mywoodmen.org CNAME .
@@ -911,6 +916,7 @@ prod-selco.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcupa.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcutx.chaperone.lumindigitalhosting.com CNAME .
+prod-sierracentral-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-sperofin.chaperone.lumindigitalhosting.com CNAME .
 prod-statedept.chaperone.lumindigitalhosting.com CNAME .
 prod-summit.chaperone.lumindigitalhosting.com CNAME .
@@ -1046,6 +1052,7 @@ services-tmx.cofidis.cz CNAME .
 servicesdp.luckydays.ca CNAME .
 servicesdp.spinaway.ca CNAME .
 sess.vippreferred.com CNAME .
+session.fhlb.com CNAME .
 sfp.intuit.com CNAME .
 sg-payment.cydf.hoyoverse.com CNAME .
 shield.boostbusiness.my CNAME .

@@ -210,6 +210,8 @@
 ||utiq.jamesonwhiskey.com^
 ||utiq.jdelhommeau.fr^
 ||utiq.jeuxvideo.com^
+||utiq.journaldesfemmes.fr^
+||utiq.journaldunet.com^
 ||utiq.jux.news^
 ||utiq.kino.de^
 ||utiq.kreis-anzeiger.de^
@@ -353,6 +355,7 @@
 ||utiq.petbook.de^
 ||utiq.petitbleu.fr^
 ||utiq.petitfute.com^
+||utiq.phonandroid.com^
 ||utiq.pleinevie.fr^
 ||utiq.pnp.de^
 ||utiq.poprosa.com^

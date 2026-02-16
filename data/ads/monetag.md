@@ -9,7 +9,6 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | 1frq.com | amaerodactylon.com |
-| 1fxt.com | amaerodactylon.com |
 | 2ddq.com | amaerodactylon.com |
 | 2dgg.com | amaerodactylon.com |
 | 536i.com | amaerodactylon.com |

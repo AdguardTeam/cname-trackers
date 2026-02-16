@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,7 +50,6 @@ refer.divvybikes.com CNAME .
 refer.dna.ancestry.co.uk CNAME .
 refer.dna.ancestry.com CNAME .
 refer.dnj.com CNAME .
-refer.fivestars.com CNAME .
 refer.foodkick.com CNAME .
 refer.freshly.com CNAME .
 refer.fuzebox.com CNAME .
@@ -131,13 +130,12 @@ businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em2287.theory.com CNAME .
-em4504.mail.raf.xfinity.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em7952.dailypay.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
 em8561.go2bank.com CNAME .
 em8642.notifications.acorns.com CNAME .
-emxxxx.rent.app CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -147,10 +145,12 @@ get.lull.com CNAME .
 gift.getfreed.ai CNAME .
 go.joinsizigi.com CNAME .
 groomrefer.petco.com CNAME .
+indique-um-amigo.hostgator.com.br CNAME .
 internalreferral.freshworks.com CNAME .
 invite.soundcloud.com CNAME .
 izoncl2caorfnn6o.extoleu.com CNAME .
 jessica-test-numero-dos.extoleu.com CNAME .
+jumpstart.boltpharmacy.co.uk CNAME .
 kenn.extoleu.com CNAME .
 love.columbiacu.org CNAME .
 loyalty.glowbar.com CNAME .
@@ -220,6 +220,7 @@ refer.childrensplace.com CNAME .
 refer.cinemark.com CNAME .
 refer.citizenwatch.com CNAME .
 refer.clarksusa.com CNAME .
+refer.clearpathgps.com CNAME .
 refer.colemancanada.ca CNAME .
 refer.comfortzoneskin.com CNAME .
 refer.communityfirstfl.org CNAME .
@@ -288,7 +289,6 @@ refer.issaonline.com CNAME .
 refer.itbed.com CNAME .
 refer.itcu.org CNAME .
 refer.jewelersmutual.com CNAME .
-refer.jiffynewark.com CNAME .
 refer.joann.com CNAME .
 refer.join1440.com CNAME .
 refer.joindelilah.com CNAME .
@@ -380,6 +380,7 @@ refer.saatvamattress.com CNAME .
 refer.samedelman.com CNAME .
 refer.saucony.com CNAME .
 refer.seabourn.com CNAME .
+refer.servicebridge.com CNAME .
 refer.sharetodoist.com CNAME .
 refer.sharkclean.com CNAME .
 refer.sharkninja.com CNAME .
@@ -399,6 +400,7 @@ refer.striderite.com CNAME .
 refer.styleitforwardreward.ca CNAME .
 refer.styleitforwardreward.com CNAME .
 refer.sundancevacations.com CNAME .
+refer.supplylife.com CNAME .
 refer.swansonvitamins.com CNAME .
 refer.take5oilchange.com CNAME .
 refer.tatcha.co.uk CNAME .
@@ -409,7 +411,6 @@ refer.teladoc.com CNAME .
 refer.teladochealth.com CNAME .
 refer.thecompanystore.com CNAME .
 refer.theinside.com CNAME .
-refer.themvpkc.com CNAME .
 refer.thepopcornfactory.com CNAME .
 refer.thesculptsociety.com CNAME .
 refer.thewildest.com CNAME .
@@ -725,6 +726,7 @@ share.sstack.com CNAME .
 share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
 share.stargazette.com CNAME .
+share.starone.org CNAME .
 share.statesmanjournal.com CNAME .
 share.stiltzlifts.com CNAME .
 share.stockpile.com CNAME .
@@ -792,14 +794,15 @@ em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em2279.referral.quickbooks.co.uk CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em4504.mail.raf.xfinity.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
-em767.forgetrust.com CNAME .
+em7952.dailypay.com CNAME .
 em8031.soundcloud.com CNAME .
 em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
 em9523.walmartmoneycard.com CNAME .
+emxxxx.rent.app CNAME .
 xtl._domainkey.dailypay.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .

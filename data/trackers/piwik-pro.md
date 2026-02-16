@@ -6,13 +6,11 @@
     * adnoc.piwik.pro
     * akvo.piwik.pro
     * amsterdam.piwik.pro
-    * ari.piwik.pro
     * aumago.piwik.pro
     * betus.piwik.pro
     * com-on.piwik.pro
     * czgroep.piwik.pro
     * dealerspike-prod.piwik.pro
-    * dorier-group.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
     * effectory.piwik.pro
@@ -22,10 +20,12 @@
     * fjordtravel.piwik.pro
     * helen.piwik.pro
     * ind.piwik.pro
-    * jetu.piwik.pro
+    * kela.piwik.pro
+    * kuka.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
+    * netdriven.piwik.pro
     * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * polpharma.piwik.pro
@@ -63,14 +63,13 @@
 | www.webengage.ae | adnoc.piwik.pro |
 | analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
-| stats.arinet.com | ari.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
+| piwik.slotsparadise.com | betus.piwik.pro |
 | piwik.vegasaces.com | betus.piwik.pro |
 | piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
-| analytics.digiplace.site | dorier-group.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
 | analytics.effectory.com | effectory.piwik.pro |
@@ -82,11 +81,13 @@
 | fpt.gofjords.com | fjordtravel.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
-| wa.mybookie.ag | jetu.piwik.pro |
+| stat.kela.fi | kela.piwik.pro |
+| p-k.kuka.com | kuka.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
+| stats.netdriven.com | netdriven.piwik.pro |
 | statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | polpharmaanalytics.pl | polpharma.piwik.pro |
@@ -110,11 +111,13 @@
 | inzicht.cz.nl | pp-public-p-euw.piwik.pro |
 | inzicht.cz.nl | pp-public-p-euw.piwik.pro |
 | p-k.kuka.com | pp-public-p-euw.piwik.pro |
+| p-k.kuka.com | pp-public-p-euw.piwik.pro |
 | p-pan.triodos.com | pp-public-p-euw.piwik.pro |
 | p-pan.triodos.com | pp-public-p-euw.piwik.pro |
 | piwik.eib.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
+| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
@@ -178,12 +181,11 @@
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
+| stat.kela.fi | uninstalled.piwik.pro |
 | stats.arinet.com | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |
 | wa.love2play.com | uninstalled.piwik.pro |
-| wa.mybookie.ag | uninstalled.piwik.pro |
-| wa.mybookie.ag | uninstalled.piwik.pro |
 | a.uwhealth.org | uwhealth.piwik.pro |
 | tag2.uwv.nl | uwv.piwik.pro |
 | piwikpro.vodafone.com | vodafonedotcom.piwik.pro |

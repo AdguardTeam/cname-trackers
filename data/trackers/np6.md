@@ -417,7 +417,6 @@
 | tr.email.wtwco.com | tracking.bp01.net |
 | tr.emailatia.fr | tracking.bp01.net |
 | tr.emailing-wishesfactory.com | tracking.bp01.net |
-| tr.emailing.agencereference.com | tracking.bp01.net |
 | tr.emailing.canalbox.com | tracking.bp01.net |
 | tr.emailing.canalplay.com | tracking.bp01.net |
 | tr.emailing.canalplus-afrique.com | tracking.bp01.net |
@@ -971,7 +970,6 @@
 | tr.newsletters.rmcbfm.com | tracking.bp01.net |
 | tr.newsmarketing.allopneus.com | tracking.bp01.net |
 | tr.nl.2wls.net | tracking.bp01.net |
-| tr.nl.ardennes.cci.fr | tracking.bp01.net |
 | tr.nl.mondo-shop.fr | tracking.bp01.net |
 | tr.nl.myvipmag.fr | tracking.bp01.net |
 | tr.nl.services-sncf.com | tracking.bp01.net |

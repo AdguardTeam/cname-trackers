@@ -20,6 +20,7 @@
     * 099c079b-kdytzguc.cname.ebis.ne.jp
     * 099c079b-vmcsnsvr.cname.ebis.ne.jp
     * 0b234824-7numcmxw.cname.ebis.ne.jp
+    * 0b4d2cbe-y5fxrixi.cname.ebis.ne.jp
     * 0c693a00-fbzwhcnp.cname.ebis.ne.jp
     * 0cd5dd46-3fyehbqu.cname.ebis.ne.jp
     * 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp
@@ -385,6 +386,7 @@
 | adebis-rikon.vbest.jp | 099c079b-kdytzguc.cname.ebis.ne.jp |
 | adebis-saimu.vbest.jp | 099c079b-vmcsnsvr.cname.ebis.ne.jp |
 | adebis.ferret-one.com | 0b234824-7numcmxw.cname.ebis.ne.jp |
+| ebis.ihistory.site | 0b4d2cbe-y5fxrixi.cname.ebis.ne.jp |
 | cname-ade.original-calendar.com | 0c693a00-fbzwhcnp.cname.ebis.ne.jp |
 | adebiscname.auone.jp | 0cd5dd46-3fyehbqu.cname.ebis.ne.jp |
 | ad-ebis.bookpass.auone.jp | 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp |

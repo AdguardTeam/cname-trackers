@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 amtvgfz.veneera.de CNAME .
+aqmmvgv.yellowleafhammocks.com CNAME .
 bbznqba.boxgenie.com CNAME .
 bewsgxy.solidandstriped.com CNAME .
 bmdffai.zerowastestore.com CNAME .
@@ -40,10 +41,10 @@ rulrdow.solawave.co CNAME .
 rwlywoe.keepnaturewild.com CNAME .
 tbwzcos.retreatmentbotanics.com CNAME .
 tlaoauh.topshelfgolf.com CNAME .
-tzfgzgo.quickservicepanama.com CNAME .
 uaxfwsb.smallflower.com CNAME .
 ucscaik.gardencup.com CNAME .
 ufhmebi.terendesigns.com CNAME .
+ugkupyk.lifeblud.co CNAME .
 ujyloty.kingofchristmas.com CNAME .
 untrhhc.veneera.co.uk CNAME .
 uqnnvhk.ericjavits.com CNAME .

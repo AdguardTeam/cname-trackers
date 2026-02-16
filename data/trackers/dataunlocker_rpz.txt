@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,7 +30,6 @@ $TTL 300
 1xwkhcsp3s5.vqsave.ommasign.com CNAME .
 21fhq0t574p.talentkit.io CNAME .
 21udflra4wd.app-dev.cainthus.com CNAME .
-23t63tvyxz.marketingtornado.ca CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
 2e718yf5jypb.test.digitalsurge.io CNAME .
@@ -68,7 +67,6 @@ cl3ywestv3b5.ru.themoneytizer.com CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
-dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .

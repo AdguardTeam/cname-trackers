@@ -389,7 +389,6 @@ tr.email.voyagesleclerc.com
 tr.email.wtwco.com
 tr.emailatia.fr
 tr.emailing-wishesfactory.com
-tr.emailing.agencereference.com
 tr.emailing.canalbox.com
 tr.emailing.canalplay.com
 tr.emailing.canalplus-afrique.com
@@ -943,7 +942,6 @@ tr.newsletters.odalys-vacances.com
 tr.newsletters.rmcbfm.com
 tr.newsmarketing.allopneus.com
 tr.nl.2wls.net
-tr.nl.ardennes.cci.fr
 tr.nl.mondo-shop.fr
 tr.nl.myvipmag.fr
 tr.nl.services-sncf.com

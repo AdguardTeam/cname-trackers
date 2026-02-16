@@ -264,6 +264,7 @@
 | www.servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
+| banners.atlantamagazine.com | hourmedia-static.aquaplatform.com |
 | banners.cincinnatimagazine.com | hourmedia-static.aquaplatform.com |
 | banners.geminipub.com | hourmedia-static.aquaplatform.com |
 | images.hour-media.com | hourmedia-static.aquaplatform.com |

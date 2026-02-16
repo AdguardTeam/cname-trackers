@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -400,7 +400,6 @@ tr.email.voyagesleclerc.com CNAME .
 tr.email.wtwco.com CNAME .
 tr.emailatia.fr CNAME .
 tr.emailing-wishesfactory.com CNAME .
-tr.emailing.agencereference.com CNAME .
 tr.emailing.canalbox.com CNAME .
 tr.emailing.canalplay.com CNAME .
 tr.emailing.canalplus-afrique.com CNAME .
@@ -954,7 +953,6 @@ tr.newsletters.odalys-vacances.com CNAME .
 tr.newsletters.rmcbfm.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
 tr.nl.2wls.net CNAME .
-tr.nl.ardennes.cci.fr CNAME .
 tr.nl.mondo-shop.fr CNAME .
 tr.nl.myvipmag.fr CNAME .
 tr.nl.services-sncf.com CNAME .

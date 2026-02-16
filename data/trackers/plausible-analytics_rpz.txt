@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,13 +21,13 @@ analytics.adam.page CNAME .
 analytics.andrewsmith.com.au CNAME .
 analytics.arunraghavan.net CNAME .
 analytics.betterplaces.nl CNAME .
+analytics.certifriedit.com CNAME .
 analytics.churchthemes.com CNAME .
 analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
 analytics.eikko.ai CNAME .
 analytics.ericafischerphotography.com CNAME .
 analytics.gamedatacrunch.com CNAME .
-analytics.geekyminds.net CNAME .
 analytics.hambleden-capital.com CNAME .
 analytics.hiome.com CNAME .
 analytics.lifestyledemocracy.com CNAME .
@@ -104,7 +104,6 @@ metrics.creit.tech CNAME .
 metrics.earrieta.dev CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
-munnin.hicsuntdra.co CNAME .
 numbers.coolconfetti.com CNAME .
 numbers.monthlyphotos.com CNAME .
 nums.upscale.app CNAME .
@@ -190,7 +189,6 @@ plausible.joinself.com CNAME .
 plausible.k6sbw.net CNAME .
 plausible.kabaret.no CNAME .
 plausible.kdojang.com CNAME .
-plausible.kundenportal.io CNAME .
 plausible.lesbianromantic.com CNAME .
 plausible.logicboard.com CNAME .
 plausible.marker12.org CNAME .
@@ -295,7 +293,6 @@ statistic.jac-systeme.de CNAME .
 statistics.heatbeat.de CNAME .
 statistik.apartments-tirolerhaus.at CNAME .
 statman.sesong.info CNAME .
-stats.69grad.de CNAME .
 stats.acadevor.com CNAME .
 stats.achtsame-yonimassage.de CNAME .
 stats.activityvault.io CNAME .
@@ -470,7 +467,6 @@ stats.glyphs.fyi CNAME .
 stats.goldsguide.com CNAME .
 stats.gounified.com CNAME .
 stats.gras-system.org CNAME .
-stats.gravitaswins.com CNAME .
 stats.greatlakesdesign.co CNAME .
 stats.groupconsent.eu CNAME .
 stats.gslc.utah.edu CNAME .
@@ -548,7 +544,6 @@ stats.leavetrackapp.com CNAME .
 stats.lefthoek.com CNAME .
 stats.legendofnom.com CNAME .
 stats.leoloso.com CNAME .
-stats.levinowska.com CNAME .
 stats.lica.at CNAME .
 stats.lik.fr CNAME .
 stats.limitlessnetworks.eu CNAME .
@@ -584,7 +579,6 @@ stats.missionmet.com CNAME .
 stats.missionrabies.com CNAME .
 stats.moco-comics.com CNAME .
 stats.mostlycoding.com.au CNAME .
-stats.motorcyclepartsireland.ie CNAME .
 stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
 stats.multiply.cloud CNAME .
@@ -609,7 +603,6 @@ stats.obokat.se CNAME .
 stats.odysseeseine.org CNAME .
 stats.officefoosball.com CNAME .
 stats.ohmysmtp.com CNAME .
-stats.oldtinroof.com CNAME .
 stats.oliveoil.pro CNAME .
 stats.onepagelove.com CNAME .
 stats.orbitalhealth.co CNAME .
@@ -675,7 +668,6 @@ stats.reto.tv CNAME .
 stats.retroware.com CNAME .
 stats.rideinpeace.ie CNAME .
 stats.rightourhistoryhawaii.com CNAME .
-stats.robotika.ax CNAME .
 stats.rocketvalidator.com CNAME .
 stats.roderickduenas.com CNAME .
 stats.ruhrfestspiele.de CNAME .
@@ -704,7 +696,6 @@ stats.shiftx.com CNAME .
 stats.simplinetworks.com CNAME .
 stats.sirdata.com CNAME .
 stats.ski.com CNAME .
-stats.socialeurope.eu CNAME .
 stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
 stats.spreadtheworld.net CNAME .
@@ -723,16 +714,13 @@ stats.suenicholls.com CNAME .
 stats.suniboy.com CNAME .
 stats.suominaikidoacademy.com CNAME .
 stats.sushibyte.io CNAME .
-stats.svemir.co CNAME .
 stats.symbiofest.cz CNAME .
 stats.tax-venture.de CNAME .
 stats.teamdetails.com CNAME .
 stats.tekin.co.uk CNAME .
 stats.thecapablecollective.com CNAME .
 stats.thingsthatkeepmeupatnight.dev CNAME .
-stats.thomasbandt.com CNAME .
 stats.tijdschrift.zenleven.nl CNAME .
-stats.tl8.io CNAME .
 stats.tomorrowacademy.org CNAME .
 stats.training.fit CNAME .
 stats.trimbles.ie CNAME .
@@ -756,6 +744,8 @@ stats.walkiees.co.uk CNAME .
 stats.warrantynowvoid.com CNAME .
 stats.websnap.app CNAME .
 stats.world.hey.com CNAME .
+stats.wvsindia.org CNAME .
+stats.wwdcscholars.com CNAME .
 stats.www.agirpourlenvironnement.org CNAME .
 stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .

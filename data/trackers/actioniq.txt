@@ -48,6 +48,7 @@
 ||aiqx.wheeloffortune.com^
 ||aiqx.www.ghostbusters.com^
 ||anx-new.learnwithhomer.com^
+||anx-new.littlepassports.com^
 ||anx-staging.learnwithhomer.com^
 ||anx.learnwithhomer.com^
 ||events-meta-events.outsideonline.com^

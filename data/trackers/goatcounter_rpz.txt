@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -147,9 +147,11 @@ stats.opensurge2d.org CNAME .
 stats.otbivnoe.ru CNAME .
 stats.palaisdesfetes.eu CNAME .
 stats.pamcarter.net CNAME .
+stats.pttrn.io CNAME .
 stats.pvme.omg.lol CNAME .
 stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .
+stats.rezhajul.io CNAME .
 stats.risanne.nl CNAME .
 stats.rocketgoboom.lol CNAME .
 stats.ryanchmelir.com CNAME .

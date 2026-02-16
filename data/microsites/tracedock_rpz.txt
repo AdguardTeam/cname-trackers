@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,10 +22,8 @@ drive-agent.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmedi
 0t5pq-e6w16.ads.tremorhub.com CNAME .
 0t5pq-krt0d.ads.tremorhub.com CNAME .
 1dfkn-9cdv6.ads.tremorhub.com CNAME .
-2onby-9776p.ads.tremorhub.com CNAME .
 2onby-xqooy.ads.tremorhub.com CNAME .
 4hllz-0dtva.ads.tremorhub.com CNAME .
-4hllz-s9lrg.ads.tremorhub.com CNAME .
 5nbh3-uouba.ads.tremorhub.com CNAME .
 6lioc-40gtx.ads.tremorhub.com CNAME .
 6lioc-ftrbi.ads.tremorhub.com CNAME .
@@ -44,7 +42,6 @@ j5en0-2ybeb.ads.tremorhub.com CNAME .
 j5en0-pll05.ads.tremorhub.com CNAME .
 kiiu4.ads.tremorhub.com CNAME .
 ktk7k-zvz05.ads.tremorhub.com CNAME .
-ln3sc-x0hjd.ads.tremorhub.com CNAME .
 m7hdh-2damu.ads.tremorhub.com CNAME .
 p4dt2-hr9oj.ads.tremorhub.com CNAME .
 pc031-edgup.ads.tremorhub.com CNAME .
@@ -1087,7 +1084,6 @@ zuq4ewnr6dvlghn-c.adktrack34.xyz CNAME .
 7304587.collect.igodigital.com CNAME .
 7306408.collect.igodigital.com CNAME .
 7306662.collect.igodigital.com CNAME .
-7309485.collect.igodigital.com CNAME .
 7315920.collect.igodigital.com CNAME .
 7316235.collect.igodigital.com CNAME .
 7316446.collect.igodigital.com CNAME .
@@ -1130,7 +1126,6 @@ therealreal.collect.igodigital.com CNAME .
 510006363.collect.igodigital.com CNAME .
 536001766.collect.igodigital.com CNAME .
 536002285.collect.igodigital.com CNAME .
-536002447.collect.igodigital.com CNAME .
 536003066.collect.igodigital.com CNAME .
 536003361.collect.igodigital.com CNAME .
 536003807.collect.igodigital.com CNAME .
@@ -1146,7 +1141,6 @@ be7wjd7htvadmddj.internal.pov.acceldatasolutions.net CNAME .
 ku3v7v2o10w0ptv9.internal.pov.acceldatasolutions.net CNAME .
 p0fbv39qttz2vpk0.internal.pov.acceldatasolutions.net CNAME .
 poc.internal.pov.acceldatasolutions.net CNAME .
-ad-car-api.fastview.co.kr CNAME .
 ad-events-dub11.g.flashtalking.com CNAME .
 ad-events-lhr11.g.flashtalking.com CNAME .
 ad-heros.com CNAME .
@@ -1285,7 +1279,6 @@ jwplayer.eb.tremorhub.com CNAME .
 kr-ad-dcsn.aws.tving.com CNAME .
 log.gomlab.com CNAME .
 logger.unsplash.com CNAME .
-metrics-api.librato.com CNAME .
 mobile-appdyn.absa.africa CNAME .
 vodacom.eum-appdynamics.com CNAME .
 mobirix.com CNAME .

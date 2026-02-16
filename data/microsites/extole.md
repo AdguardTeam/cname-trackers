@@ -32,7 +32,6 @@
     * divvybikes.extole.com
     * dnj.extole.com
     * ebags.extole.com
-    * fivestars.extole.com
     * freshdirect.extole.com
     * freshly.extole.com
     * fuzebox-ssl.extole.com
@@ -224,7 +223,6 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
-    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -276,6 +274,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
@@ -316,6 +315,7 @@
     * honeypacks.extole.io
     * honorcu.extole.io
     * horizonfitness.extole.io
+    * hostgatorbr.extole.io
     * hotwire.extole.io
     * hsn.extole.io
     * hush.extole.io
@@ -466,7 +466,6 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
     * resume-now.extole.io
     * reveneer.extole.io
@@ -515,6 +514,7 @@
     * sstack.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
+    * starone.extole.io
     * steelseries.extole.io
     * stiltzlifts.extole.io
     * stockpile.extole.io
@@ -524,9 +524,11 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * suncoastcreditunion.em.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
     * suneast.extole.io
+    * supplylife.extole.io
     * swansonvitamins.extole.io
     * swordhealth.extole.io
     * t-mobile-fiber.extole.io
@@ -782,7 +784,6 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
-| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -843,6 +844,7 @@
 | www.rob2.extoleu.com | extoleu.extole.io |
 | refer.familysavingscu.com | familysavingscu.extole.io |
 | share.fastbridgefiber.com | fastbridgefiber.extole.io |
+| jumpstart.boltpharmacy.co.uk | fellahealth.extole.io |
 | refer.baddie.health | fellahealth.extole.io |
 | refer.boltpharmacy.co.uk | fellahealth.extole.io |
 | refer.fellahealth.co.uk | fellahealth.extole.io |
@@ -857,8 +859,8 @@
 | share.firstleaf.club | firstleaf.extole.io |
 | share.firstleaf.com | firstleaf.extole.io |
 | share.fitnessconnection.com | fitnessconnection.extole.io |
-| refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
@@ -950,7 +952,9 @@
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
 | refer.gotowebinar.com | gotowebinar.extole.com |
+| refer.clearpathgps.com | gpsinsight.extole.io |
 | refer.gpsinsight.com | gpsinsight.extole.io |
+| refer.servicebridge.com | gpsinsight.extole.io |
 | refer.titangps.com | gpsinsight.extole.io |
 | share.granitegaragefloors.com | granitegaragefloors.extole.io |
 | share.greenlight.com | greenlightcard.extole.io |
@@ -977,6 +981,7 @@
 | refer.honorcu.com | honorcu.extole.io |
 | refer.horizonfitness.marketing | horizonfitness.extole.io |
 | referral.hostgator.com | hostgator.extole.com |
+| indique-um-amigo.hostgator.com.br | hostgatorbr.extole.io |
 | share.hotwire.com | hotwire.extole.io |
 | refer.hsn.com | hsn.extole.io |
 | refer.hushpuppies.com | hush.extole.io |
@@ -1169,7 +1174,6 @@
 | share-uk.princess.com | princessuk.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
-| refer.jiffynewark.com | propark.extole.io |
 | refer.pvdparking.com | propark.extole.io |
 | refer.psecu.com | psecu.extole.io |
 | refer.purchasingpower.com | purchasingpower.extole.com |
@@ -1193,7 +1197,6 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | refer.resume-now.com | resume-now.extole.io |
 | share.reveneer.io | reveneer.extole.io |
@@ -1260,6 +1263,7 @@
 | refer.staples.com | staples.extole.com |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
+| share.starone.org | starone.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
 | share.stiltzlifts.com | stiltzlifts.extole.io |
 | share.stockpile.com | stockpile.extole.io |
@@ -1269,9 +1273,11 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | share.suneast.org | suneast.extole.io |
+| refer.supplylife.com | supplylife.extole.io |
 | refer.swansonvitamins.com | swansonvitamins.extole.io |
 | share.swordhealth.com | swordhealth.extole.io |
 | share-fiber.t-mobile.com | t-mobile-fiber.extole.io |
@@ -1326,18 +1332,15 @@
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |
 | em225.codecademy.com | u82658.wl159.sendgrid.net |
 | em2279.referral.quickbooks.co.uk | u82658.wl159.sendgrid.net |
-| em2287.theory.com | u82658.wl159.sendgrid.net |
 | em4367.raf-studentloans.discover.com | u82658.wl159.sendgrid.net |
 | em4504.mail.raf.xfinity.com | u82658.wl159.sendgrid.net |
 | em5230.rewards.dailypay.com | u82658.wl159.sendgrid.net |
-| em5231.mail.propertyperks.xfinity.com | u82658.wl159.sendgrid.net |
 | em5807.turbotax.refer.intuit.com | u82658.wl159.sendgrid.net |
 | em7147.love.suncoastcreditunion.com | u82658.wl159.sendgrid.net |
 | em767.forgetrust.com | u82658.wl159.sendgrid.net |
 | em7952.dailypay.com | u82658.wl159.sendgrid.net |
 | em8031.soundcloud.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
-| em8642.notifications.acorns.com | u82658.wl159.sendgrid.net |
 | em8928.em.petco.com | u82658.wl159.sendgrid.net |
 | em924.refer.starbucks.com | u82658.wl159.sendgrid.net |
 | em9347.shareus.viktor-rolf.com | u82658.wl159.sendgrid.net |
@@ -1376,7 +1379,6 @@
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
-| refer.themvpkc.com | wearesouthwind.extole.io |
 | www.trevoce.com | web-tool-qa.lb.extole.com |
 | refer.webs.com | webs.extole.com |
 | offers.wecu.com | wecu.extole.io |
@@ -1392,7 +1394,6 @@
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
 | share.wsecu.org | wsecu.extole.io |
-| em4504.mail.raf.xfinity.com | xfinity.em.extole.io |
 | em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |

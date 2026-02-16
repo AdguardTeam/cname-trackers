@@ -16,7 +16,6 @@
 ||adprtm53.goldkarte.at^
 ||adprtm53.kartegold.de^
 ||adprtm53.xn--gebhrenfrei-vhb.de^
-||advertize.stcbank.com.sa^
 ||aegis.miio.mx^
 ||af.mobile.free.fr^
 ||afm.alphatick.com^
@@ -263,7 +262,9 @@
 ||cim-idc-cdn.account.bcbsil.com^
 ||cim-idc-cdn.account.bcbsmt.com^
 ||cim-idc-cdn.account.bcbsnm.com^
+||cim-idc-cdn.account.bcbsok.com^
 ||cim-idc-cdn.account.bcbstx.com^
+||cim-idc-cdn.account.test.bcbsok.com^
 ||cim-idc-cdn.account.wellontarget.com^
 ||claimant.vec.virginia.gov^
 ||clear.wallapop.com^
@@ -307,7 +308,6 @@
 ||content.biggerbooks.com^
 ||content.billdomain.com^
 ||content.billsupport.com^
-||content.bnl.it^
 ||content.bnpparibas.net^
 ||content.byabcd.com^
 ||content.canadiantire.ca^
@@ -324,6 +324,7 @@
 ||content.ctfs.com^
 ||content.digital-credit.app^
 ||content.digital.citbank.com^
+||content.directauto.com^
 ||content.discover.com^
 ||content.discovercard.com^
 ||content.dstv.com^
@@ -382,10 +383,12 @@
 ||content.my100bank.com^
 ||content.mycno.com^
 ||content.myfamliplus.state.co.us^
+||content.myfloridaprepaid.com^
 ||content.myonlyid.com^
 ||content.mypersi.idaho.gov^
 ||content.mywisely.com^
 ||content.name.com^
+||content.nationalgeneral.com^
 ||content.nebraska.gov^
 ||content.netcredit.pl^
 ||content.nhrs.org^
@@ -477,7 +480,6 @@
 ||content22.citibank.ae^
 ||content22.citibank.co.id^
 ||content22.citibank.com^
-||content22.citibank.com.au^
 ||content22.citibank.com.hk^
 ||content22.citibank.com.sg^
 ||content22.citibank.com.tw^
@@ -596,7 +598,9 @@
 ||faas.2dehands.be^
 ||faas.2ememain.be^
 ||faas.marktplaats.nl^
+||fccontent.suitsmecard.com^
 ||fd-tm.upgrade.com^
+||fd.luminor.me^
 ||fdts.kleinanzeigen.de^
 ||fingerprint.fool.com^
 ||fms-dev.citysavings.net.ph^
@@ -774,6 +778,7 @@
 ||ltxup.sumupstore.com^
 ||m-profiling.cibc.com^
 ||m-profiling.simplii.com^
+||m.meine-bankid.de^
 ||m.vnforapps.com^
 ||matrix.cpg.org^
 ||mbrstat.mywoodmen.org^
@@ -900,6 +905,7 @@
 ||prod-sesloc.chaperone.lumindigitalhosting.com^
 ||prod-sfcupa.chaperone.lumindigitalhosting.com^
 ||prod-sfcutx.chaperone.lumindigitalhosting.com^
+||prod-sierracentral-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-sperofin.chaperone.lumindigitalhosting.com^
 ||prod-statedept.chaperone.lumindigitalhosting.com^
 ||prod-summit.chaperone.lumindigitalhosting.com^
@@ -1035,6 +1041,7 @@
 ||servicesdp.luckydays.ca^
 ||servicesdp.spinaway.ca^
 ||sess.vippreferred.com^
+||session.fhlb.com^
 ||sfp.intuit.com^
 ||sg-payment.cydf.hoyoverse.com^
 ||shield.boostbusiness.my^

@@ -230,7 +230,6 @@ ens.radiopilatus.ch
 ens.tagblatt.ch
 ens.thurgauerzeitung.ch
 ens.toggenburgertagblatt.ch
-ens.trauerportal-ostschweiz.ch
 ens.urnerzeitung.ch
 ens.wilerzeitung.ch
 ens.zugerzeitung.ch
@@ -301,6 +300,7 @@ privacy.amstel.nl
 privacy.blade.app
 privacy.buyersedge.com.au
 privacy.easyjet.com
+privacy.eazle.at
 privacy.gemfinance.co.nz
 privacy.gemvisa.co.nz
 privacy.gemvisa.com.au

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -413,6 +413,7 @@ my.weplayvolleyball.ro CNAME .
 my.weplayvolleyball.si CNAME .
 my.weplayvolleyball.sk CNAME .
 objevuj.amazingplaces.cz CNAME .
+odporuc.shopiam4u.sk CNAME .
 online.pdfknihovna.cz CNAME .
 partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
@@ -614,7 +615,6 @@ partner.malujpodlecisel.cz CNAME .
 partner.marspom.cz CNAME .
 partner.martinafallerova.cz CNAME .
 partner.martinreznicek.cz CNAME .
-partner.massivo.cz CNAME .
 partner.mbytshop.cz CNAME .
 partner.medela.cz CNAME .
 partner.memolingo.cz CNAME .
@@ -683,6 +683,7 @@ partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .
 partner.premiove-matrace.cz CNAME .
 partner.prodejniakademie.cz CNAME .
+partner.prohrejeme.cz CNAME .
 partner.prosperity-vision.com CNAME .
 partner.prosperk.cz CNAME .
 partner.psidetektiv.cz CNAME .

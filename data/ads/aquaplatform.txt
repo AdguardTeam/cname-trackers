@@ -55,6 +55,7 @@
 ||api.adbility-media.com^
 ||api.aqua-adserver.com^
 ||api.metrike.com^
+||banners.atlantamagazine.com^
 ||banners.cincinnatimagazine.com^
 ||banners.geminipub.com^
 ||banners.leightonbroadcasting.com^

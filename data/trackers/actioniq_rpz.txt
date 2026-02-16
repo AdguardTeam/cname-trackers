@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,6 +59,7 @@ aiqx.travismathew.com CNAME .
 aiqx.wheeloffortune.com CNAME .
 aiqx.www.ghostbusters.com CNAME .
 anx-new.learnwithhomer.com CNAME .
+anx-new.littlepassports.com CNAME .
 anx-staging.learnwithhomer.com CNAME .
 anx.learnwithhomer.com CNAME .
 events-meta-events.outsideonline.com CNAME .

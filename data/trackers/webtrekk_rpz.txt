@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -270,6 +270,7 @@ web.email.mishimoto.eu CNAME .
 web.email.parkcameras.com CNAME .
 web.email.pizzaexpress.com CNAME .
 web.email.sebago.co.uk CNAME .
+web.email.sergiorossi.com CNAME .
 web.email.superga.co.uk CNAME .
 web.email.topfarmacia.it CNAME .
 web.email.turtlebay.co.uk CNAME .
@@ -288,7 +289,6 @@ web.info.teamwarrior.com CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.xerjoff.com CNAME .
 web.info.yeppon.it CNAME .
-web.jana-shoes.com CNAME .
 web.mail.koganpage.com CNAME .
 web.mail.nordiq.dk CNAME .
 web.mail.parmalat.it CNAME .
@@ -335,6 +335,7 @@ web.post.toast.co.uk CNAME .
 web.powgen.es CNAME .
 web.redazione.italiaoggi.it CNAME .
 web.redazione.milanofinanza.it CNAME .
+web.sensilab.at CNAME .
 web.sensilab.com CNAME .
 web.sensilab.cz CNAME .
 web.sensilab.de CNAME .
@@ -355,7 +356,6 @@ web.sidsavage.com CNAME .
 web.slimjoy.es CNAME .
 web.slimjoy.sk CNAME .
 web.solesource.com CNAME .
-web.tamaris.com CNAME .
 web.tummy-tox.com CNAME .
 web.tummytox.at CNAME .
 web.tummytox.cz CNAME .

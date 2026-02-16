@@ -215,6 +215,8 @@
 | utiq.jamesonwhiskey.com | frontend.prod.utiq-aws.net |
 | utiq.jdelhommeau.fr | frontend.prod.utiq-aws.net |
 | utiq.jeuxvideo.com | frontend.prod.utiq-aws.net |
+| utiq.journaldesfemmes.fr | frontend.prod.utiq-aws.net |
+| utiq.journaldunet.com | frontend.prod.utiq-aws.net |
 | utiq.jux.news | frontend.prod.utiq-aws.net |
 | utiq.kino.de | frontend.prod.utiq-aws.net |
 | utiq.kreis-anzeiger.de | frontend.prod.utiq-aws.net |
@@ -358,6 +360,7 @@
 | utiq.petbook.de | frontend.prod.utiq-aws.net |
 | utiq.petitbleu.fr | frontend.prod.utiq-aws.net |
 | utiq.petitfute.com | frontend.prod.utiq-aws.net |
+| utiq.phonandroid.com | frontend.prod.utiq-aws.net |
 | utiq.pleinevie.fr | frontend.prod.utiq-aws.net |
 | utiq.pnp.de | frontend.prod.utiq-aws.net |
 | utiq.poprosa.com | frontend.prod.utiq-aws.net |

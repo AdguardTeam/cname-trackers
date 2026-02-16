@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -747,6 +747,7 @@ a8clk.www.oms.energy-itsol.com CNAME .
 a8clk.www.rebo-success.co.jp CNAME .
 a8clk.www.solar-partners.jp CNAME .
 a8clk.www.solarmonitorlp.energy-itsol.com CNAME .
+a8clk.www.street-academy.com CNAME .
 a8clk.www.uz.team CNAME .
 a8clk.www.workport.co.jp CNAME .
 a8clk.www.xebiocard.co.jp CNAME .
@@ -851,7 +852,6 @@ a8cv.carryonmall.com CNAME .
 a8cv.cart.bi-su.jp CNAME .
 a8cv.cart.minorie-shop.com CNAME .
 a8cv.cart3.toku-talk.com CNAME .
-a8cv.cast-er.com CNAME .
 a8cv.celav.net CNAME .
 a8cv.cellbic.net CNAME .
 a8cv.chefbox.jp CNAME .
@@ -968,7 +968,6 @@ a8cv.global-link-seminar.com CNAME .
 a8cv.glocalnet.jp CNAME .
 a8cv.glow-clinic.com CNAME .
 a8cv.goods-station.jp CNAME .
-a8cv.goqoo.me CNAME .
 a8cv.grace-grace.info CNAME .
 a8cv.grassbeaute.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
@@ -1043,7 +1042,6 @@ a8cv.kidsmoneyschool.net CNAME .
 a8cv.king-makura.com CNAME .
 a8cv.kk-orange.jp CNAME .
 a8cv.kkmatsusho.jp CNAME .
-a8cv.kn-waterserver.com CNAME .
 a8cv.kobe38.com CNAME .
 a8cv.kosodatemoney.com CNAME .
 a8cv.kstarselect.com CNAME .
@@ -1081,7 +1079,6 @@ a8cv.maenomery.jp CNAME .
 a8cv.magniflexk.com CNAME .
 a8cv.mai.dk-lab.jp CNAME .
 a8cv.mamarket.co.jp CNAME .
-a8cv.mansiontech.com CNAME .
 a8cv.mashumaro-bra.com CNAME .
 a8cv.mbb-inc.com CNAME .
 a8cv.mcc-lazer-hr.com CNAME .
@@ -1101,7 +1098,6 @@ a8cv.modescape.com CNAME .
 a8cv.mogecheck.jp CNAME .
 a8cv.momiji-tantei.com CNAME .
 a8cv.mova-creator-school.com CNAME .
-a8cv.ms-toushiguide.jp CNAME .
 a8cv.mura.ne.jp CNAME .
 a8cv.my-arrow.co.jp CNAME .
 a8cv.mygol.jp CNAME .
@@ -1202,7 +1198,6 @@ a8cv.santasan.net CNAME .
 a8cv.saraschool.net CNAME .
 a8cv.scheeme.com CNAME .
 a8cv.scom-f.jp CNAME .
-a8cv.scuu.jp CNAME .
 a8cv.se-navi.jp CNAME .
 a8cv.second-hand.jp CNAME .
 a8cv.secure.sakura.ad.jp CNAME .

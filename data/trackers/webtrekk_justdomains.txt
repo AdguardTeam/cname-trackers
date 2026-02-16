@@ -259,6 +259,7 @@ web.email.mishimoto.eu
 web.email.parkcameras.com
 web.email.pizzaexpress.com
 web.email.sebago.co.uk
+web.email.sergiorossi.com
 web.email.superga.co.uk
 web.email.topfarmacia.it
 web.email.turtlebay.co.uk
@@ -277,7 +278,6 @@ web.info.teamwarrior.com
 web.info.varelotteriet.dk
 web.info.xerjoff.com
 web.info.yeppon.it
-web.jana-shoes.com
 web.mail.koganpage.com
 web.mail.nordiq.dk
 web.mail.parmalat.it
@@ -324,6 +324,7 @@ web.post.toast.co.uk
 web.powgen.es
 web.redazione.italiaoggi.it
 web.redazione.milanofinanza.it
+web.sensilab.at
 web.sensilab.com
 web.sensilab.cz
 web.sensilab.de
@@ -344,7 +345,6 @@ web.sidsavage.com
 web.slimjoy.es
 web.slimjoy.sk
 web.solesource.com
-web.tamaris.com
 web.tummy-tox.com
 web.tummytox.at
 web.tummytox.cz

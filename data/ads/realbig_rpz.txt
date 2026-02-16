@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ park.realbig.media CNAME .
 park.wpcodes.org CNAME .
 po.zolivexo.ru CNAME .
 push.rabbit.click CNAME .
+pushche.rabbit.click CNAME .
 rb.crimeagc.com CNAME .
 rb.mnogodiva.ru CNAME .
 rb.slova-accordy.ru CNAME .
@@ -64,8 +65,8 @@ www.5738.ru CNAME .
 www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .
 www.fasder12.ru CNAME .
+www.iskustvenny-intellekt.ru CNAME .
 www.orbitnotify.com CNAME .
-www.pc-download.ru CNAME .
 www.prbcdn.online CNAME .
 www.procarsharing.store CNAME .
 www.pushrb.pro CNAME .

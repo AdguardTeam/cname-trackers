@@ -14,6 +14,7 @@
     * ana-tv5unis-ca-cddc.at-o.net
     * arrietty-nrj-fr-cddc.at-o.net
     * at-badische-zeitung-de-cddc.at-o.net
+    * ati-allwyn-cz-cddc.at-o.net
     * ati-sazka-cz-cddc.at-o.net
     * ati-sazkahry-sk-cddc.at-o.net
     * aud-banque-france-fr-cddc.at-o.net
@@ -22,6 +23,7 @@
     * buf-lemonde-fr-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
     * chihiro-nostalgie-fr-cddc.at-o.net
+    * clavecin-taokids-com-cddc.at-o.net
     * col-casa-it-cddc.at-o.net
     * col-idealista-com-cddc.at-o.net
     * col-idealista-it-cddc.at-o.net
@@ -113,6 +115,7 @@
 | ana.tv5unis.ca | ana-tv5unis-ca-cddc.at-o.net |
 | arrietty.nrj.fr | arrietty-nrj-fr-cddc.at-o.net |
 | at.badische-zeitung.de | at-badische-zeitung-de-cddc.at-o.net |
+| ati.allwyn.cz | ati-allwyn-cz-cddc.at-o.net |
 | ati.sazka.cz | ati-sazka-cz-cddc.at-o.net |
 | ati.sazkahry.sk | ati-sazkahry-sk-cddc.at-o.net |
 | aud.banque-france.fr | aud-banque-france-fr-cddc.at-o.net |
@@ -121,6 +124,7 @@
 | buf.lemonde.fr | buf-lemonde-fr-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
 | chihiro.nostalgie.fr | chihiro-nostalgie-fr-cddc.at-o.net |
+| clavecin.taokids.com | clavecin-taokids-com-cddc.at-o.net |
 | col.casa.it | col-casa-it-cddc.at-o.net |
 | col.idealista.com | col-idealista-com-cddc.at-o.net |
 | col.idealista.it | col-idealista-it-cddc.at-o.net |

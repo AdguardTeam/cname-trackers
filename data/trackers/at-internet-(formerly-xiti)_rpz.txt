@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ ana.tv5unis.ca CNAME .
 arrietty.nrj.fr CNAME .
 at.badische-zeitung.de CNAME .
 ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
+ati.allwyn.cz CNAME .
 ati.sazka.cz CNAME .
 ati.sazkahry.sk CNAME .
 aud.banque-france.fr CNAME .
@@ -31,6 +32,7 @@ avp.labanquepostale.fr CNAME .
 buf.lemonde.fr CNAME .
 c0012.brsimg.com CNAME .
 chihiro.nostalgie.fr CNAME .
+clavecin.taokids.com CNAME .
 col.casa.it CNAME .
 col.idealista.com CNAME .
 col.idealista.it CNAME .

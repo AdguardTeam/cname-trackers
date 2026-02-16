@@ -736,6 +736,7 @@ a8clk.www.oms.energy-itsol.com
 a8clk.www.rebo-success.co.jp
 a8clk.www.solar-partners.jp
 a8clk.www.solarmonitorlp.energy-itsol.com
+a8clk.www.street-academy.com
 a8clk.www.uz.team
 a8clk.www.workport.co.jp
 a8clk.www.xebiocard.co.jp
@@ -840,7 +841,6 @@ a8cv.carryonmall.com
 a8cv.cart.bi-su.jp
 a8cv.cart.minorie-shop.com
 a8cv.cart3.toku-talk.com
-a8cv.cast-er.com
 a8cv.celav.net
 a8cv.cellbic.net
 a8cv.chefbox.jp
@@ -957,7 +957,6 @@ a8cv.global-link-seminar.com
 a8cv.glocalnet.jp
 a8cv.glow-clinic.com
 a8cv.goods-station.jp
-a8cv.goqoo.me
 a8cv.grace-grace.info
 a8cv.grassbeaute.jp
 a8cv.greed-island.ne.jp
@@ -1032,7 +1031,6 @@ a8cv.kidsmoneyschool.net
 a8cv.king-makura.com
 a8cv.kk-orange.jp
 a8cv.kkmatsusho.jp
-a8cv.kn-waterserver.com
 a8cv.kobe38.com
 a8cv.kosodatemoney.com
 a8cv.kstarselect.com
@@ -1070,7 +1068,6 @@ a8cv.maenomery.jp
 a8cv.magniflexk.com
 a8cv.mai.dk-lab.jp
 a8cv.mamarket.co.jp
-a8cv.mansiontech.com
 a8cv.mashumaro-bra.com
 a8cv.mbb-inc.com
 a8cv.mcc-lazer-hr.com
@@ -1090,7 +1087,6 @@ a8cv.modescape.com
 a8cv.mogecheck.jp
 a8cv.momiji-tantei.com
 a8cv.mova-creator-school.com
-a8cv.ms-toushiguide.jp
 a8cv.mura.ne.jp
 a8cv.my-arrow.co.jp
 a8cv.mygol.jp
@@ -1191,7 +1187,6 @@ a8cv.santasan.net
 a8cv.saraschool.net
 a8cv.scheeme.com
 a8cv.scom-f.jp
-a8cv.scuu.jp
 a8cv.se-navi.jp
 a8cv.second-hand.jp
 a8cv.secure.sakura.ad.jp

@@ -402,6 +402,7 @@
 ||my.weplayvolleyball.si^
 ||my.weplayvolleyball.sk^
 ||objevuj.amazingplaces.cz^
+||odporuc.shopiam4u.sk^
 ||online.pdfknihovna.cz^
 ||partener.aeriumshop.ro^
 ||partner-affilbox.telly.cz^
@@ -603,7 +604,6 @@
 ||partner.marspom.cz^
 ||partner.martinafallerova.cz^
 ||partner.martinreznicek.cz^
-||partner.massivo.cz^
 ||partner.mbytshop.cz^
 ||partner.medela.cz^
 ||partner.memolingo.cz^
@@ -672,6 +672,7 @@
 ||partner.pravopisne.cz^
 ||partner.premiove-matrace.cz^
 ||partner.prodejniakademie.cz^
+||partner.prohrejeme.cz^
 ||partner.prosperity-vision.com^
 ||partner.prosperk.cz^
 ||partner.psidetektiv.cz^

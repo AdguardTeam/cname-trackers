@@ -118,9 +118,11 @@
     * palaisdesfetes.goatcounter.com
     * pamcarter.goatcounter.com
     * psiyum.goatcounter.com
+    * pttrn.goatcounter.com
     * qrdate.goatcounter.com
     * r18.goatcounter.com
     * repath-studio.goatcounter.com
+    * rezha.goatcounter.com
     * riggraz.goatcounter.com
     * risanne.goatcounter.com
     * rocketgoboom.goatcounter.com
@@ -292,9 +294,11 @@
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
 | stats.pamcarter.net | pamcarter.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
+| stats.pttrn.io | pttrn.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
 | stats.r18.dev | r18.goatcounter.com |
 | analytics.repath.studio | repath-studio.goatcounter.com |
+| stats.rezhajul.io | rezha.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.risanne.nl | risanne.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |

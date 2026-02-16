@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,7 +17,6 @@ analytics.freiraumakustik.de CNAME .
 analytics.gerstacker-weinkellerei.de CNAME .
 analytics.kist-escherich.com CNAME .
 analytics.meygeneralbau.de CNAME .
-analytics.monobloc.de CNAME .
 assets.telefonanlage-shop.de CNAME .
 atrdb.laeckerli-huus.ch CNAME .
 auszeichnungen.pokale-nrw.de CNAME .
@@ -116,8 +115,10 @@ etdomain.dorothee-schumacher.com CNAME .
 etr.casanovacoaching.de CNAME .
 etr.cosee.biz CNAME .
 etr.green-planet-energy.de CNAME .
+etr.pallax.io CNAME .
 etrac.lodenwalker.com CNAME .
 etrac.tita.at CNAME .
+etrack.it4med.at CNAME .
 etracker.alex-gross.com CNAME .
 etracker.cjd.de CNAME .
 etracker.limbachgruppe.com CNAME .
@@ -151,8 +152,10 @@ knowlege.pepeprint.de CNAME .
 lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
+met.hanser-automotive.de CNAME .
 met.hanser-kundencenter.de CNAME .
 met.hanser-literaturverlage.de CNAME .
+met.kunststoffe.de CNAME .
 meter.rhinobag.de CNAME .
 metrics.bauwerk.de CNAME .
 metrics.cannamedical.com CNAME .
@@ -160,6 +163,7 @@ metrics.catchandkeep.de CNAME .
 metrics.cnag.de CNAME .
 metrics.einfachiso.de CNAME .
 metrics.energetix.tv CNAME .
+metrics.eurosonic.de CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.greatvita.de CNAME .
 metrics.gutskueche.de CNAME .
@@ -171,6 +175,7 @@ metrics.meineversicherungswelt.de CNAME .
 metrics.moderade.com CNAME .
 metrics.muehle-glashuette.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
+metrics.park.aero CNAME .
 metrics.soelring-hof.de CNAME .
 metrics.stadtwerke-hamm.de CNAME .
 metrics.stilvol.de CNAME .
@@ -195,6 +200,7 @@ ric.seeleben-starnbergersee.de CNAME .
 s.hamburg.de CNAME .
 salzburg.pankart.dev CNAME .
 salzburg.semsea.at CNAME .
+sf.schufa.de CNAME .
 show.gruppedrei.com CNAME .
 sltracking.sonderlote.de CNAME .
 src.vector.com CNAME .
@@ -264,6 +270,7 @@ tracking.lanxess.com CNAME .
 tracking.mediengewerk.de CNAME .
 tracking.mopo.de CNAME .
 tracking.ostsee-resort-dampland.de CNAME .
+tracking.sonnasita.at CNAME .
 tracking.terrassenhof.de CNAME .
 tracking.walserart.at CNAME .
 trkker.wearelean.com CNAME .
@@ -286,6 +293,7 @@ wctr.maschinenprofi.de CNAME .
 wctr.menkenunddrees.de CNAME .
 wctr.mm-germany.com CNAME .
 wctr.moenninghoff.net CNAME .
+wctr.rechtsanwalt-berufsunfaehigkeit.com CNAME .
 wctr.satzdruck.com CNAME .
 wctr.scaleup-fulfillment.de CNAME .
 wctr.sus-architekten-muenster.de CNAME .
@@ -297,6 +305,8 @@ web.sihl-direct.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcon.se-legal.de CNAME .
+webcontr-erbe.mein-erbe-tut-gutes.de CNAME .
+webcontr-magazin.mein-erbe-tut-gutes.de CNAME .
 webcontr.4pace.com CNAME .
 webcontr.aquarius-prolife.com CNAME .
 webcontr.aulairenicus.de CNAME .
@@ -372,11 +382,14 @@ webstats.kawentsmann.de CNAME .
 webstt0004.onofficeom.com CNAME .
 webstt0009.onofficeom.com CNAME .
 webstt0011.onofficeom.com CNAME .
+webstt0012.onofficeom.com CNAME .
+webstt0015.onofficeom.com CNAME .
 webstt0016.onofficeom.com CNAME .
 webstt0019.onofficeom.com CNAME .
 webstt0020.onofficeom.com CNAME .
 webstt0021.onofficeom.com CNAME .
 webstt0022.onofficeom.com CNAME .
+websy.skillyofficial.com CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
 webtr.regisafe.de CNAME .
@@ -386,6 +399,7 @@ weco.ilon.de CNAME .
 wt.leitz.org CNAME .
 wurst.hausschlachtebedarf.de CNAME .
 wurst.leffis.de CNAME .
+www.statistik.as-handmade.de CNAME .
 www2.faxverteiler.com CNAME .
 www3.faxsuite.de CNAME .
 www4.faxsuite.de CNAME .

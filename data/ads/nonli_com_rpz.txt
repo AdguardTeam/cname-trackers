@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1770019226196        ; Serial
+           1771228879729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ l.africaintelligence.com CNAME .
 l.africaintelligence.fr CNAME .
 l.africanews.com CNAME .
 l.africaradio.com CNAME .
+l.air-cosmos.com CNAME .
 l.aisnenouvelle.fr CNAME .
 l.allocine.fr CNAME .
 l.alternatives-economiques.fr CNAME .
@@ -70,6 +71,7 @@ l.centrepresseaveyron.fr CNAME .
 l.challenges.fr CNAME .
 l.charentelibre.fr CNAME .
 l.chartsinfrance.net CNAME .
+l.citoyens.com CNAME .
 l.closermag.fr CNAME .
 l.cnetfrance.fr CNAME .
 l.compradiccion.com CNAME .
@@ -183,6 +185,7 @@ l.lest-eclair.fr CNAME .
 l.letarnlibre.com CNAME .
 l.letemps.ch CNAME .
 l.leveil.fr CNAME .
+l.lexpress.eu CNAME .
 l.lexpress.fr CNAME .
 l.lhebdoduvendredi.com CNAME .
 l.liberation-champagne.fr CNAME .

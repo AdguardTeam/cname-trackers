@@ -1181,7 +1181,6 @@
 | www.4tr3sopq592o7svp1q6mn3.xyz | ad-shield.cc |
 | www.4tuswl47353p4wl8lsk.xyz | ad-shield.cc |
 | www.50873vmk3263-7sk.xyz | ad-shield.cc |
-| www.53469662.xyz | ad-shield.cc |
 | www.58686728.xyz | ad-shield.cc |
 | www.5k71-k-t51u8q91otp3.xyz | ad-shield.cc |
 | www.5wo4spwppk7n0wvrn.xyz | ad-shield.cc |

@@ -58,6 +58,7 @@
 | mr-in.beginlearning.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
 | mr-in.littlepassports.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
 | anx-new.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
+| anx-new.littlepassports.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | mr-in.beginlearning.com | homer-prod1.aws-us-east-1.mr-in.com |
 | mr-in.littlepassports.com | homer-prod1.aws-us-east-1.mr-in.com |
