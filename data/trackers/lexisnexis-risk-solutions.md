@@ -160,7 +160,6 @@
     * h-76ussz09.online-metrix.net
     * h-7aid6tml.online-metrix.net
     * h-7bugohi5.online-metrix.net
-    * h-7g11ytc6.online-metrix.net
     * h-7gmzrj2o.online-metrix.net
     * h-7ih7ebik.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
@@ -214,6 +213,7 @@
     * h-96ch0zc2.online-metrix.net
     * h-96clh8g7.online-metrix.net
     * h-96eziru5.online-metrix.net
+    * h-97a2qrzs.online-metrix.net
     * h-97sdcyug.online-metrix.net
     * h-98oju8tz.online-metrix.net
     * h-9biwblyw.online-metrix.net
@@ -382,7 +382,6 @@
     * h-cesikaps.online-metrix.net
     * h-ceurt9zj.online-metrix.net
     * h-cfi32dc4.online-metrix.net
-    * h-cgfjrfto.online-metrix.net
     * h-cgvf1sqx.online-metrix.net
     * h-ch968hx6.online-metrix.net
     * h-charter.online-metrix.net
@@ -465,7 +464,6 @@
     * h-dhgate.online-metrix.net
     * h-dhpay.online-metrix.net
     * h-digitalcredit.online-metrix.net
-    * h-digitecgalaxusag.online-metrix.net
     * h-discover.online-metrix.net
     * h-disney.online-metrix.net
     * h-dnp-cdms.online-metrix.net
@@ -836,6 +834,7 @@
     * h-werally.online-metrix.net
     * h-westcreek.online-metrix.net
     * h-westpac.online-metrix.net
+    * h-wh2hgf17-3.online-metrix.net
     * h-wh2hgf17.online-metrix.net
     * h-williamhill.online-metrix.net
     * h-wisconsindwd.online-metrix.net
@@ -1155,7 +1154,6 @@
 | analyze.central1.cc | h-76ussz09.online-metrix.net |
 | apps.shift.com.au | h-7aid6tml.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
-| business.streetshares.com | h-7g11ytc6.online-metrix.net |
 | content.thebankoflondon.com | h-7gmzrj2o.online-metrix.net |
 | analytics.m10payments.com | h-7ih7ebik.online-metrix.net |
 | content.jackpotcity.ca | h-7ij9mii1-a.online-metrix.net |
@@ -1200,6 +1198,7 @@
 | info.betway.ng | h-7v30y901.online-metrix.net |
 | info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
 | info.jackpotcity.co.za | h-7v30y901.online-metrix.net |
+| info.jackpotcitycasino.co.tz | h-7v30y901.online-metrix.net |
 | info.jackpotcitycasino.mw | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
 | tm.tbcbusiness.uz | h-7xy7wvmp.online-metrix.net |
@@ -1221,6 +1220,7 @@
 | ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
 | rct.ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
 | ext.creditpartner.fr | h-8j0oqkrb-2.online-metrix.net |
+| rct.ext.creditpartner.fr | h-8j0oqkrb-2.online-metrix.net |
 | afs.wearemp.com | h-8la63gsu.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
 | tmuat.kotak.com | h-8ms1wsqq.online-metrix.net |
@@ -1319,6 +1319,7 @@
 | afm.vtmarketsweb.com | h-96eziru5.online-metrix.net |
 | afm.vtmgcn.com | h-96eziru5.online-metrix.net |
 | afm.vtmindo.com | h-96eziru5.online-metrix.net |
+| tstep.iti4dmv.dev | h-97a2qrzs.online-metrix.net |
 | check.jaja.finance | h-97sdcyug.online-metrix.net |
 | tmcdn.7sultanscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.alljackpotscasino.com | h-98oju8tz.online-metrix.net |
@@ -1593,7 +1594,6 @@
 | device.invoice2go.com | h-ceurt9zj.online-metrix.net |
 | dp.barclaycardus.com | h-cfi32dc4.online-metrix.net |
 | dp.barclaysus.com | h-cfi32dc4.online-metrix.net |
-| content.nebraska.gov | h-cgfjrfto.online-metrix.net |
 | content2.paywerk.co | h-cgvf1sqx.online-metrix.net |
 | neo.cdx-bankislam.com | h-ch968hx6.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
@@ -1703,7 +1703,6 @@
 | cybs.dhgate.com | h-dhgate.online-metrix.net |
 | cybs.dhpay.com | h-dhpay.online-metrix.net |
 | content.digital-credit.app | h-digitalcredit.online-metrix.net |
-| creditcheck.digitecgalaxus.ch | h-digitecgalaxusag.online-metrix.net |
 | content.discover.com | h-discover.online-metrix.net |
 | content.discovercard.com | h-discover.online-metrix.net |
 | fp.disney.go.com | h-disney.online-metrix.net |
@@ -2214,6 +2213,7 @@
 | cdn1.thm.banksa.com.au | h-westpac.online-metrix.net |
 | cdn1.thm.stgeorge.com.au | h-westpac.online-metrix.net |
 | cdn1.thm.westpac.com.au | h-westpac.online-metrix.net |
+| ls-dp.or.thelotter.us | h-wh2hgf17-3.online-metrix.net |
 | dpcontent.locationsmart.net | h-wh2hgf17.online-metrix.net |
 | t.us.williamhill.com | h-williamhill.online-metrix.net |
 | content.dwd.wisconsin.gov | h-wisconsindwd.online-metrix.net |

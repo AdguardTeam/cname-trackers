@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -424,6 +424,7 @@ partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
 partner.airbobags.com CNAME .
 partner.alesio.cz CNAME .
+partner.ammu.cz CNAME .
 partner.amonit.sk CNAME .
 partner.anabix.cz CNAME .
 partner.andelskasluzba.cz CNAME .
@@ -648,6 +649,7 @@ partner.ne-io.com CNAME .
 partner.nejlepsi-darecky.cz CNAME .
 partner.neotax.eu CNAME .
 partner.neviditelnepradlo.cz CNAME .
+partner.nextprobio.cz CNAME .
 partner.nextwood.cz CNAME .
 partner.oblicejovajoga.cz CNAME .
 partner.obojky.cz CNAME .
@@ -718,7 +720,6 @@ partner.smoothiekniha.sk CNAME .
 partner.spodni-pradlo-rekova.cz CNAME .
 partner.spokojenypes.cz CNAME .
 partner.spopo.cz CNAME .
-partner.sporthangar.cz CNAME .
 partner.stavario.com CNAME .
 partner.strendem.cz CNAME .
 partner.stromkyonline.cz CNAME .

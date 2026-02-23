@@ -413,6 +413,7 @@ partner.affilbox.com
 partner.affiliateark.com
 partner.airbobags.com
 partner.alesio.cz
+partner.ammu.cz
 partner.amonit.sk
 partner.anabix.cz
 partner.andelskasluzba.cz
@@ -637,6 +638,7 @@ partner.ne-io.com
 partner.nejlepsi-darecky.cz
 partner.neotax.eu
 partner.neviditelnepradlo.cz
+partner.nextprobio.cz
 partner.nextwood.cz
 partner.oblicejovajoga.cz
 partner.obojky.cz
@@ -707,7 +709,6 @@ partner.smoothiekniha.sk
 partner.spodni-pradlo-rekova.cz
 partner.spokojenypes.cz
 partner.spopo.cz
-partner.sporthangar.cz
 partner.stavario.com
 partner.strendem.cz
 partner.stromkyonline.cz

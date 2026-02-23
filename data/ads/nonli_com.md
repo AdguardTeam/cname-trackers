@@ -315,6 +315,7 @@
 | server1.h24.news | tls.non.li |
 | smtp.mail.h24.news | tls.non.li |
 | smtp2.h24.news | tls.non.li |
+| uk.h24.news | tls.non.li |
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |
 | www.h24.news | tls.non.li |

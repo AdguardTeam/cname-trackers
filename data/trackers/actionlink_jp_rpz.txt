@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,6 +45,7 @@ al.engei.net CNAME .
 al.entresquare.com CNAME .
 al.epoi-jp.com CNAME .
 al.everlifegroup.jp CNAME .
+al.evicolle.com CNAME .
 al.f-kayama.com CNAME .
 al.fafa-shop.com CNAME .
 al.fakui.jp CNAME .

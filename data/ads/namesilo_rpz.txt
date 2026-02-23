@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -236,6 +236,7 @@ $TTL 300
 3307828.notify6.com CNAME .
 3307896.notify6.com CNAME .
 3307896.notifysrv.com CNAME .
+3310238.notify6.com CNAME .
 3310238.notifysrv.com CNAME .
 3310584.notify6.com CNAME .
 3310586.notify6.com CNAME .
@@ -396,6 +397,7 @@ $TTL 300
 3621331.notifysrv.com CNAME .
 3629687.notify6.com CNAME .
 3629687.notifysrv.com CNAME .
+3629693.notifysrv.com CNAME .
 3629895.notifysrv.com CNAME .
 3631057.notify6.com CNAME .
 3632607.notifysrv.com CNAME .
@@ -565,6 +567,7 @@ $TTL 300
 4179930.notify6.com CNAME .
 4182036.notify6.com CNAME .
 4188246.notify6.com CNAME .
+4189332.notify6.com CNAME .
 4189336.notify6.com CNAME .
 4191292.notify6.com CNAME .
 4195738.notify6.com CNAME .
@@ -683,17 +686,17 @@ $TTL 300
 5769422.notify6.com CNAME .
 8.notify.bizonads-ssp.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
-a.18ramp.com CNAME .
+a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
+a.advertrek.com CNAME .
+a.asvsm.com CNAME .
 a.b2bstars.com CNAME .
 a.b7q9v8z.com CNAME .
-a.brilmaver.com CNAME .
 a.cant3am.com CNAME .
 a.chmsrv.com CNAME .
 a.crme7srv.com CNAME .
 a.eunow4u.com CNAME .
 a.gentlefieldpattern.com CNAME .
-a.humnert.com CNAME .
 a.klico.link CNAME .
 a.ku34bh9la09.com CNAME .
 a.ma3ion.com CNAME .
@@ -704,6 +707,8 @@ a.ns.notifysrv.com CNAME .
 a.pinkads.org CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
+a.r8lnet.com CNAME .
+a.santabrowser.com CNAME .
 a.tf4srv.com CNAME .
 a.traffic-gold.com CNAME .
 a.vws4brkfst.com CNAME .
@@ -876,6 +881,8 @@ s.dspijb.com CNAME .
 s.dspzhi.com CNAME .
 s.dsq93g.com CNAME .
 s.dsqvkn.com CNAME .
+s.dsr577.com CNAME .
+s.dsr9gv.com CNAME .
 s.dst3hq.com CNAME .
 s.dst82e.com CNAME .
 s.dsuntq.com CNAME .
@@ -936,6 +943,7 @@ s.elns12.com CNAME .
 s.elns2a.com CNAME .
 s.elns4a.com CNAME .
 s.elns4b.com CNAME .
+s.elns4c.com CNAME .
 s.elnz02.com CNAME .
 s.elnz03.com CNAME .
 s.elnz11.com CNAME .
@@ -948,6 +956,7 @@ s.exv6.com CNAME .
 s.flirtads.net CNAME .
 s.gentlefieldpattern.com CNAME .
 s.golhofer.com CNAME .
+s.happyleafmotion.com CNAME .
 s.hkartg.com CNAME .
 s.huispol.com CNAME .
 s.humnert.com CNAME .
@@ -966,6 +975,7 @@ s.mikbaken.com CNAME .
 s.n4m5x60.com CNAME .
 s.native7.com CNAME .
 s.nidersaw.com CNAME .
+s.nowsrv.com CNAME .
 s.nuismak.com CNAME .
 s.opoxv.com CNAME .
 s.opti-digital.com CNAME .
@@ -1122,6 +1132,7 @@ www.3475335.notify6.com CNAME .
 www.3493551.notify6.com CNAME .
 www.3501655.notify6.com CNAME .
 www.3505119.notify6.com CNAME .
+www.3544647.notify6.com CNAME .
 www.3572295.notify6.com CNAME .
 www.3587729.notify6.com CNAME .
 www.3588831.notify6.com CNAME .
@@ -1150,10 +1161,12 @@ www.4086498.notify6.com CNAME .
 www.4130286.notify6.com CNAME .
 www.4131834.notify6.com CNAME .
 www.4133026.notify6.com CNAME .
+www.4133596.notify6.com CNAME .
 www.4143324.notify6.com CNAME .
 www.4146994.notify6.com CNAME .
 www.4152316.notify6.com CNAME .
 www.4177784.notify6.com CNAME .
+www.4189332.notify6.com CNAME .
 www.4194382.notify6.com CNAME .
 www.4195388.notify6.com CNAME .
 www.4211854.notify6.com CNAME .
@@ -1171,16 +1184,14 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
+a.18ramp.com CNAME .
 a.6hd49jng.com CNAME .
 a.8jfbt5va3r.com CNAME .
-a.adsession.com CNAME .
-a.advertrek.com CNAME .
 a.allureanews.com CNAME .
-a.asvsm.com CNAME .
+a.brilmaver.com CNAME .
 a.etology.com CNAME .
 a.golhofer.com CNAME .
 a.hkartg.com CNAME .
-a.r8lnet.com CNAME .
+a.humnert.com CNAME .
 a.rocoads.net CNAME .
-a.santabrowser.com CNAME .
 a.t5z3w0p.com CNAME .

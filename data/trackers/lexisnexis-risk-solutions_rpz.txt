@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -152,7 +152,6 @@ bifpt.pepperfinance.es CNAME .
 bkt-prod.sbishinseibank.co.jp CNAME .
 black-cat.crypto.com CNAME .
 bland.starone.org CNAME .
-business.streetshares.com CNAME .
 c.menards.com CNAME .
 catalyst.mashreq.com CNAME .
 caveo.boost-my.com CNAME .
@@ -400,7 +399,6 @@ content.mypersi.idaho.gov CNAME .
 content.mywisely.com CNAME .
 content.name.com CNAME .
 content.nationalgeneral.com CNAME .
-content.nebraska.gov CNAME .
 content.netcredit.pl CNAME .
 content.nhrs.org CNAME .
 content.norwegianlab.com CNAME .
@@ -519,7 +517,6 @@ contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
 cookiemonster.calcas.com CNAME .
 creditapp.rogersbank.com CNAME .
-creditcheck.digitecgalaxus.ch CNAME .
 crmg-fraudmgmt.bayad.com CNAME .
 css.slots.io CNAME .
 csservice.aircanada.com CNAME .
@@ -731,6 +728,7 @@ info.betway.mw CNAME .
 info.betway.ng CNAME .
 info.betwaypartnersafrica.com CNAME .
 info.jackpotcity.co.za CNAME .
+info.jackpotcitycasino.co.tz CNAME .
 info.jackpotcitycasino.mw CNAME .
 insights.hastingsdirectloans.com CNAME .
 intl.payu.in CNAME .
@@ -780,6 +778,7 @@ loyaltyprogram.latam.com CNAME .
 loyaltyprogram.latamairlines.com CNAME .
 ls-dp.nj.thelotter.us CNAME .
 ls-dp.ny.thelotter.us CNAME .
+ls-dp.or.thelotter.us CNAME .
 lsdp.lotto.com CNAME .
 lspr.luckycasino.ca CNAME .
 lsprof.comeon.com CNAME .
@@ -972,6 +971,7 @@ rba.onehealthcareid.com CNAME .
 rba.optumgovid.com CNAME .
 rba.optumid.com CNAME .
 rbawis.pocketcard.co.jp CNAME .
+rct.ext.creditpartner.fr CNAME .
 rct.ext.sofinco.fr CNAME .
 rebatecontent.finance.delaware.gov CNAME .
 regstat.betfair.bet.br CNAME .
@@ -1331,6 +1331,7 @@ trust.wgiftcard.com CNAME .
 ts04358.picpay.com CNAME .
 tsaian.verizonwireless.com CNAME .
 tst-cdna.paymentncb.cofidis.fr CNAME .
+tstep.iti4dmv.dev CNAME .
 tulips.metrobankonline.co.uk CNAME .
 tx.n11.com CNAME .
 tx.suncoastcreditunion.com CNAME .

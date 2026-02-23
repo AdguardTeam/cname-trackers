@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,7 +71,6 @@ dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 fkupm8697t19.eyevolution.de CNAME .
-hht8m6w8mnug.quine.sh CNAME .
 htahii1lpt4u.boxoffice.adventuretix.com CNAME .
 ia84berzxy7v.de.themoneytizer.com CNAME .
 ilkk97e98lvg.www.sidsplumbing.ie CNAME .
@@ -89,7 +88,6 @@ m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .
 my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com CNAME .
-n367tqpdxce0.quine.sh CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nq3ghu0vy2qo.www.ryaktive.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .

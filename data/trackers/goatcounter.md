@@ -87,6 +87,7 @@
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
     * kwanok.goatcounter.com
+    * kyiv.goatcounter.com
     * landing-forest-school.goatcounter.com
     * law-badriver-nsn-gov.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
@@ -117,6 +118,7 @@
     * otbivnoe.goatcounter.com
     * palaisdesfetes.goatcounter.com
     * pamcarter.goatcounter.com
+    * philippdubach.goatcounter.com
     * psiyum.goatcounter.com
     * pttrn.goatcounter.com
     * qrdate.goatcounter.com
@@ -164,6 +166,7 @@
     * whatacools.goatcounter.com
     * ybbond.goatcounter.com
     * ygoprint.goatcounter.com
+    * yunseo.goatcounter.com
     * zbahn.goatcounter.com
     * zgoat.goatcounter.com
     * zl2edh.goatcounter.com
@@ -258,6 +261,7 @@
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
 | stats.kwanok.me | kwanok.goatcounter.com |
+| stats.realestate.kyiv.ua | kyiv.goatcounter.com |
 | stats.forest-school.am | landing-forest-school.goatcounter.com |
 | analytics.law.badriver-nsn.gov | law-badriver-nsn-gov.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
@@ -293,6 +297,7 @@
 | stats.otbivnoe.ru | otbivnoe.goatcounter.com |
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
 | stats.pamcarter.net | pamcarter.goatcounter.com |
+| stats.philippdubach.com | philippdubach.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | stats.pttrn.io | pttrn.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
@@ -340,6 +345,7 @@
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
 | science.ygoprint.org | ygoprint.goatcounter.com |
+| stats.yunseo.kim | yunseo.goatcounter.com |
 | stats.zbahn.de | zbahn.goatcounter.com |
 | stats.zgo.at | zgoat.goatcounter.com |
 | stats.zl2edh.com | zl2edh.goatcounter.com |

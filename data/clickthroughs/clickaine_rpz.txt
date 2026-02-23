@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,7 +29,7 @@ api.rtnews.pro CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
-bat28.gimmeporn.xyz CNAME .
+bat29.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.allporncomics.co CNAME .
 c4n.anonimayzer.site CNAME .
@@ -93,7 +93,6 @@ orange.arabtoons.net CNAME .
 p.porn0hd.online CNAME .
 p.russ-porno.net CNAME .
 ps1.reallifecam.to CNAME .
-ps2.camcaps.to CNAME .
 reg.ancensored.com CNAME .
 s1.rtnews.pro CNAME .
 s2.rtnews.pro CNAME .

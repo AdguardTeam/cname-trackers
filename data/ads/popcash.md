@@ -265,6 +265,7 @@
 | catfish.phuclh.com | deprecated-custom-domains.b-cdn.net |
 | catfish.pressure.cooking | deprecated-custom-domains.b-cdn.net |
 | catfish.sofatido.ch | deprecated-custom-domains.b-cdn.net |
+| catshark.janetalexandersson.com | deprecated-custom-domains.b-cdn.net |
 | catshark.jimmyaldape.dev | deprecated-custom-domains.b-cdn.net |
 | cattle.apisyouwonthate.com | deprecated-custom-domains.b-cdn.net |
 | cattle.driftbot.io | deprecated-custom-domains.b-cdn.net |
@@ -592,7 +593,6 @@
 | lynx.inovo.io | deprecated-custom-domains.b-cdn.net |
 | lynx.lumy.network | deprecated-custom-domains.b-cdn.net |
 | lynx.microl.ink | deprecated-custom-domains.b-cdn.net |
-| lynx.pascivite.com | deprecated-custom-domains.b-cdn.net |
 | lynx.sbstjn.com | deprecated-custom-domains.b-cdn.net |
 | lynx.simpleparish.com | deprecated-custom-domains.b-cdn.net |
 | macaw.ianmitchell.dev | deprecated-custom-domains.b-cdn.net |
@@ -787,6 +787,7 @@
 | sailfish.youracademycommunity.com | deprecated-custom-domains.b-cdn.net |
 | salamander.augmentedmind.io | deprecated-custom-domains.b-cdn.net |
 | salamander.showandtelldata.com | deprecated-custom-domains.b-cdn.net |
+| salamander.yourownpay.com | deprecated-custom-domains.b-cdn.net |
 | salmon.cedricreeves.com | deprecated-custom-domains.b-cdn.net |
 | salmon.thespiritualpsychologist.co.uk | deprecated-custom-domains.b-cdn.net |
 | sawfish.black-forest-digital.de | deprecated-custom-domains.b-cdn.net |
@@ -826,6 +827,7 @@
 | sparrow.workingincontent.com | deprecated-custom-domains.b-cdn.net |
 | spermwhale.rowansimpson.com | deprecated-custom-domains.b-cdn.net |
 | spider.capricciocolumbus.org | deprecated-custom-domains.b-cdn.net |
+| spider.hoomie.online | deprecated-custom-domains.b-cdn.net |
 | spider.scottw.com | deprecated-custom-domains.b-cdn.net |
 | spider.storiesofchang.com | deprecated-custom-domains.b-cdn.net |
 | squid.adart.cc | deprecated-custom-domains.b-cdn.net |
@@ -1049,6 +1051,7 @@
 | cdn.iople.com | popcashjs.b-cdn.net |
 | cdn.isgost.com | popcashjs.b-cdn.net |
 | cdn.jandaqwe.com | popcashjs.b-cdn.net |
+| cdn.japw.cloud | popcashjs.b-cdn.net |
 | cdn.jbtul.com | popcashjs.b-cdn.net |
 | cdn.jeckear.com | popcashjs.b-cdn.net |
 | cdn.jhkfd.com | popcashjs.b-cdn.net |
@@ -1095,6 +1098,7 @@
 | cdn.quagfa.com | popcashjs.b-cdn.net |
 | cdn.rapolok.com | popcashjs.b-cdn.net |
 | cdn.rausfml.com | popcashjs.b-cdn.net |
+| cdn.rawqel.com | popcashjs.b-cdn.net |
 | cdn.rgrd.xyz | popcashjs.b-cdn.net |
 | cdn.roemoss.com | popcashjs.b-cdn.net |
 | cdn.rofant.com | popcashjs.b-cdn.net |

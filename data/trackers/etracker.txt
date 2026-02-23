@@ -9,6 +9,7 @@
 ||assets.telefonanlage-shop.de^
 ||atrdb.laeckerli-huus.ch^
 ||auszeichnungen.pokale-nrw.de^
+||bb.novafon.com^
 ||betterdata.kruu.com^
 ||bmkt.bernhardtmoden.de^
 ||cet.hiermitherz.de^
@@ -86,6 +87,7 @@
 ||et.louis.pt^
 ||et.louis.se^
 ||et.majdic.at^
+||et.medialis.one^
 ||et.nrwbank.de^
 ||et.ocean-pharma.de^
 ||et.pns24.de^
@@ -136,10 +138,12 @@
 ||insides.honic.eu^
 ||insights.bertelsmann-stiftung.de^
 ||js.edingershops.de^
+||knowlege.duschrueckwand.com^
 ||knowlege.kuechenrueckwand.store^
 ||knowlege.pepeprint.de^
 ||lolly.needforsweet.de^
 ||maschine.bengs-modellbau.de^
+||matrix.heimundgarten24.de^
 ||mensch.ekd.de^
 ||met.hanser-automotive.de^
 ||met.hanser-kundencenter.de^
@@ -208,6 +212,7 @@
 ||stats.die-bibel.de^
 ||stats.eliveshop.de^
 ||stats.folienmarkt.de^
+||stats.haus-am-meer-norderney.de^
 ||stats.hilscher.com^
 ||stats.hotel-haus-norderney.de^
 ||stats.inselloft-norderney.de^
@@ -255,6 +260,7 @@
 ||tracking.chio.hu^
 ||tracking.formaxx.de^
 ||tracking.gruener-soelden.com^
+||tracking.holter.at^
 ||tracking.lanxess.com^
 ||tracking.mediengewerk.de^
 ||tracking.mopo.de^
@@ -356,6 +362,7 @@
 ||webcontr.synvia.de^
 ||webcontr.taxando.de^
 ||webcontr.thechefsstories.de^
+||webcontr.tuul.zone^
 ||webcontr.verpoorten-shop.de^
 ||webcontr.verpoorten.de^
 ||webcontr.vetter-pharma.com^

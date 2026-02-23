@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,7 +27,6 @@ analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
 analytics.eikko.ai CNAME .
 analytics.ericafischerphotography.com CNAME .
-analytics.gamedatacrunch.com CNAME .
 analytics.hambleden-capital.com CNAME .
 analytics.hiome.com CNAME .
 analytics.lifestyledemocracy.com CNAME .
@@ -467,6 +466,7 @@ stats.glyphs.fyi CNAME .
 stats.goldsguide.com CNAME .
 stats.gounified.com CNAME .
 stats.gras-system.org CNAME .
+stats.gravitaswins.com CNAME .
 stats.greatlakesdesign.co CNAME .
 stats.groupconsent.eu CNAME .
 stats.gslc.utah.edu CNAME .
@@ -717,18 +717,32 @@ stats.sushibyte.io CNAME .
 stats.symbiofest.cz CNAME .
 stats.tax-venture.de CNAME .
 stats.teamdetails.com CNAME .
+stats.teenranch.com CNAME .
 stats.tekin.co.uk CNAME .
 stats.thecapablecollective.com CNAME .
+stats.thelandofar.be CNAME .
+stats.thenewradiance.com CNAME .
 stats.thingsthatkeepmeupatnight.dev CNAME .
 stats.tijdschrift.zenleven.nl CNAME .
+stats.timkhoury.com CNAME .
+stats.timmo.immo CNAME .
+stats.tms-development.com CNAME .
+stats.tms-development.de CNAME .
+stats.tms-institut.de CNAME .
+stats.tnc.sc CNAME .
+stats.toiletmap.org.uk CNAME .
 stats.tomorrowacademy.org CNAME .
 stats.training.fit CNAME .
+stats.trenntoi.de CNAME .
+stats.tresor.one CNAME .
 stats.trimbles.ie CNAME .
 stats.trussed.dev CNAME .
 stats.trypricelist.com CNAME .
+stats.tubecalculator.co.uk CNAME .
 stats.turisme.nu CNAME .
 stats.twhl.xyz CNAME .
 stats.unka.space CNAME .
+stats.unusualtourist.com CNAME .
 stats.urbanfinn.com CNAME .
 stats.useeffect.dev CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
@@ -743,27 +757,40 @@ stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
 stats.warrantynowvoid.com CNAME .
 stats.websnap.app CNAME .
+stats.wecodeni.com CNAME .
 stats.world.hey.com CNAME .
+stats.wvs.org.uk CNAME .
 stats.wvsindia.org CNAME .
 stats.wwdcscholars.com CNAME .
 stats.www.agirpourlenvironnement.org CNAME .
 stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
+stats.xn--antnio-dxa.pt CNAME .
 stats.xrechnung.app CNAME .
 stats.zimri.net CNAME .
 statstest.upti.pro CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
+sts.authramp.com CNAME .
+sts.eliasjarzombek.com CNAME .
+sts.tour-europe.org CNAME .
 stts.emplution.com CNAME .
 stts.swisshranalytics.ch CNAME .
 taylor.gladspring.com CNAME .
+tics.cortex.gg CNAME .
 tics.seeker.gg CNAME .
 tics.techdirt.com CNAME .
 tipstats.onepagelove.com CNAME .
+tock.weg.plus CNAME .
 track.slickinbox.com CNAME .
+traffic.taktikal.is CNAME .
+triton.companyegg.com CNAME .
+usage.growthbook.io CNAME .
+varys.asongofzandc.xyz CNAME .
 views.ericcapella.com CNAME .
 views.sikerlogistics.com CNAME .
 views.sikerproducts.com CNAME .
 views.wioks.com CNAME .
+visitorcenter.ioafw.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.asadis.net CNAME .
 visitors.gigianddavid.com CNAME .

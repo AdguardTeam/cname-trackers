@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -315,6 +315,7 @@ social.terre-net-occasions.fr CNAME .
 static.nonli.com CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .
+uk.h24.news CNAME .
 www.20min.fr CNAME .
 www.altereco.media CNAME .
 www.h24.news CNAME .

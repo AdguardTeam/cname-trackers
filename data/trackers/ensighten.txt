@@ -213,7 +213,6 @@
 ||dc.zalesoutlet.com^
 ||dcf.espn.com^
 ||dcf.espn.com.do^
-||dcf.espn.com.pe^
 ||dcf.espnqa.com^
 ||dcfdata.espn.com^
 ||ddc.statefarm.com^
@@ -226,7 +225,6 @@
 ||ens.nidwaldnerzeitung.ch^
 ||ens.nzzmediasolutions.ch^
 ||ens.obwaldnerzeitung.ch^
-||ens.radiopilatus.ch^
 ||ens.tagblatt.ch^
 ||ens.thurgauerzeitung.ch^
 ||ens.toggenburgertagblatt.ch^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,7 +48,6 @@ tr.agefiseminaires.com CNAME .
 tr.alex.espmp-agfr.net CNAME .
 tr.allianz-trade.com CNAME .
 tr.animation.lexpress.fr CNAME .
-tr.animation.micromania.fr CNAME .
 tr.animations.bfmtv.com CNAME .
 tr.animations.rmcbfm.com CNAME .
 tr.apac.coms.moethennessy.com CNAME .
@@ -361,6 +360,7 @@ tr.donateur.afm-telethon.fr CNAME .
 tr.dossier-assurance.maaf.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
 tr.e-mail.axa.fr CNAME .
+tr.e-mail.axabanque.fr CNAME .
 tr.e-travaux.info CNAME .
 tr.e.entreprise-pm.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
@@ -371,7 +371,6 @@ tr.eazybuy-communication.moethennessy.com CNAME .
 tr.ebusiness.moethennessy.com CNAME .
 tr.ecolab-france.fr CNAME .
 tr.ecologie-shop.espmp-agfr.net CNAME .
-tr.elections.mnt.fr CNAME .
 tr.elections.simplivote.fr CNAME .
 tr.em.cdiscount-pro.com CNAME .
 tr.em.cdiscountpro.com CNAME .
@@ -429,6 +428,7 @@ tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
 tr.enquetes.actionlogement.fr CNAME .
 tr.entreprise-pro.info CNAME .
+tr.entreprise.axa.fr CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.eqs.cpam67.net CNAME .
 tr.ere.emailing.bnpparibas CNAME .
@@ -440,7 +440,6 @@ tr.eulerhermes.com CNAME .
 tr.europe.moethennessy.com CNAME .
 tr.evenements.inpi.fr CNAME .
 tr.events-europa-organisation.com CNAME .
-tr.events.rmcbfm.com CNAME .
 tr.expresofferte.be CNAME .
 tr.fg3p.espmp-cufr.net CNAME .
 tr.fidal.pro CNAME .
@@ -588,7 +587,6 @@ tr.infos.afpa.fr CNAME .
 tr.infos.allianz-trade.com CNAME .
 tr.infos.ariase.com CNAME .
 tr.infos.boursobank.info CNAME .
-tr.infos.bpaura.banquepopulaire.fr CNAME .
 tr.infos.enerplus-bordeaux.fr CNAME .
 tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
@@ -691,6 +689,7 @@ tr.media.harmonie-sante.fr CNAME .
 tr.melhores-propostas.pt CNAME .
 tr.membres.boursobank.info CNAME .
 tr.membres.boursorama.info CNAME .
+tr.mep.enkiapp.io CNAME .
 tr.mes-bonsplans.be CNAME .
 tr.mes-prestataires.fr CNAME .
 tr.message.maaf.fr CNAME .
@@ -758,8 +757,6 @@ tr.news-ingerop.com CNAME .
 tr.news-longchamp.com CNAME .
 tr.news.a-t.fr CNAME .
 tr.news.a2micile.com CNAME .
-tr.news.accessmastertour.com CNAME .
-tr.news.accessmbatour.com CNAME .
 tr.news.ailleurs.com CNAME .
 tr.news.alcyon.com CNAME .
 tr.news.alinea.com CNAME .
@@ -811,6 +808,7 @@ tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
 tr.news.editions-lva.fr CNAME .
 tr.news.ekosport-rent.fr CNAME .
+tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
 tr.news.eureden.com CNAME .
 tr.news.eurodatatv.com CNAME .
@@ -876,7 +874,6 @@ tr.news.mon-horoscope.info CNAME .
 tr.news.monvoyant.fr CNAME .
 tr.news.mperformance.fr CNAME .
 tr.news.np6.com CNAME .
-tr.news.onetoonemba.com CNAME .
 tr.news.parisinfo.com CNAME .
 tr.news.perfectstay.com CNAME .
 tr.news.perl.fr CNAME .
@@ -894,7 +891,7 @@ tr.news.supercasino.fr CNAME .
 tr.news.teklifim.pro CNAME .
 tr.news.tf1licences.com CNAME .
 tr.news.thelist-emirates.fr CNAME .
-tr.news.toocampmail.com CNAME .
+tr.news.themedtechforum.eu CNAME .
 tr.news.toute-la-franchise.com CNAME .
 tr.news.triskalia.fr CNAME .
 tr.news.vetharmonie.fr CNAME .

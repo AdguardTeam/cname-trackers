@@ -26,7 +26,7 @@
 | app.rtnews.pro | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
-| bat28.gimmeporn.xyz | api.clickaine.com |
+| bat29.gimmeporn.xyz | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.allporncomics.co | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
@@ -90,7 +90,6 @@
 | p.porn0hd.online | api.clickaine.com |
 | p.russ-porno.net | api.clickaine.com |
 | ps1.reallifecam.to | api.clickaine.com |
-| ps2.camcaps.to | api.clickaine.com |
 | reg.ancensored.com | api.clickaine.com |
 | s1.rtnews.pro | api.clickaine.com |
 | s2.rtnews.pro | api.clickaine.com |

@@ -436,6 +436,7 @@
 | partner.affiliateark.com | cz.affilbox.cz |
 | partner.airbobags.com | cz.affilbox.cz |
 | partner.alesio.cz | cz.affilbox.cz |
+| partner.ammu.cz | cz.affilbox.cz |
 | partner.amonit.sk | cz.affilbox.cz |
 | partner.anabix.cz | cz.affilbox.cz |
 | partner.andelskasluzba.cz | cz.affilbox.cz |
@@ -660,6 +661,7 @@
 | partner.nejlepsi-darecky.cz | cz.affilbox.cz |
 | partner.neotax.eu | cz.affilbox.cz |
 | partner.neviditelnepradlo.cz | cz.affilbox.cz |
+| partner.nextprobio.cz | cz.affilbox.cz |
 | partner.nextwood.cz | cz.affilbox.cz |
 | partner.oblicejovajoga.cz | cz.affilbox.cz |
 | partner.obojky.cz | cz.affilbox.cz |
@@ -730,7 +732,6 @@
 | partner.spodni-pradlo-rekova.cz | cz.affilbox.cz |
 | partner.spokojenypes.cz | cz.affilbox.cz |
 | partner.spopo.cz | cz.affilbox.cz |
-| partner.sporthangar.cz | cz.affilbox.cz |
 | partner.stavario.com | cz.affilbox.cz |
 | partner.strendem.cz | cz.affilbox.cz |
 | partner.stromkyonline.cz | cz.affilbox.cz |

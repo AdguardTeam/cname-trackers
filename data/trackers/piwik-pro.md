@@ -20,7 +20,6 @@
     * fjordtravel.piwik.pro
     * helen.piwik.pro
     * ind.piwik.pro
-    * kela.piwik.pro
     * kuka.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
@@ -66,7 +65,6 @@
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
 | piwik.slotsparadise.com | betus.piwik.pro |
-| piwik.vegasaces.com | betus.piwik.pro |
 | piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
@@ -81,7 +79,6 @@
 | fpt.gofjords.com | fjordtravel.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
-| stat.kela.fi | kela.piwik.pro |
 | p-k.kuka.com | kuka.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
@@ -119,7 +116,6 @@
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
-| piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
 | piwikpro.vodafone.com | pp-public-p-euw.piwik.pro |
@@ -180,7 +176,6 @@
 | piwik.twyzle.com | twyzle-prod.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
-| stat.kela.fi | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
 | stats.arinet.com | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |

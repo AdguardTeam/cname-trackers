@@ -96,6 +96,7 @@
     * 3ba7c801-gwbfzy7a.cname.ebis.ne.jp
     * 3c39ea6e-px3cltrd.cname.ebis.ne.jp
     * 3c40b540-dfevquvl.cname.ebis.ne.jp
+    * 3cb1911b-0wyvvyxg.cname.ebis.ne.jp
     * 3d5c1a79-fbw7r35c.cname.ebis.ne.jp
     * 3dbeaa41-scxitlgt.cname.ebis.ne.jp
     * 3dc67a07-t3v80e0l.cname.ebis.ne.jp
@@ -462,6 +463,7 @@
 | adebis.kirin.co.jp | 3ba7c801-gwbfzy7a.cname.ebis.ne.jp |
 | ebis202001.joyfit.jp | 3c39ea6e-px3cltrd.cname.ebis.ne.jp |
 | ebis.rabo.cat | 3c40b540-dfevquvl.cname.ebis.ne.jp |
+| adebis.andamonogatari.jp | 3cb1911b-0wyvvyxg.cname.ebis.ne.jp |
 | adebis.palatinose.jp | 3d5c1a79-fbw7r35c.cname.ebis.ne.jp |
 | cs1979sbeda.customguide-build.net | 3dbeaa41-scxitlgt.cname.ebis.ne.jp |
 | adebis.bathclin.jp | 3dc67a07-t3v80e0l.cname.ebis.ne.jp |

@@ -225,6 +225,7 @@
 ||3307828.notify6.com^
 ||3307896.notify6.com^
 ||3307896.notifysrv.com^
+||3310238.notify6.com^
 ||3310238.notifysrv.com^
 ||3310584.notify6.com^
 ||3310586.notify6.com^
@@ -385,6 +386,7 @@
 ||3621331.notifysrv.com^
 ||3629687.notify6.com^
 ||3629687.notifysrv.com^
+||3629693.notifysrv.com^
 ||3629895.notifysrv.com^
 ||3631057.notify6.com^
 ||3632607.notifysrv.com^
@@ -554,6 +556,7 @@
 ||4179930.notify6.com^
 ||4182036.notify6.com^
 ||4188246.notify6.com^
+||4189332.notify6.com^
 ||4189336.notify6.com^
 ||4191292.notify6.com^
 ||4195738.notify6.com^
@@ -672,17 +675,17 @@
 ||5769422.notify6.com^
 ||8.notify.bizonads-ssp.com^
 ||_sips._tcp.3323174.notifysrv.com^
-||a.18ramp.com^
+||a.adsession.com^
 ||a.advantageclicks.net^
+||a.advertrek.com^
+||a.asvsm.com^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
-||a.brilmaver.com^
 ||a.cant3am.com^
 ||a.chmsrv.com^
 ||a.crme7srv.com^
 ||a.eunow4u.com^
 ||a.gentlefieldpattern.com^
-||a.humnert.com^
 ||a.klico.link^
 ||a.ku34bh9la09.com^
 ||a.ma3ion.com^
@@ -693,6 +696,8 @@
 ||a.pinkads.org^
 ||a.playa.to^
 ||a.q88z1s3.com^
+||a.r8lnet.com^
+||a.santabrowser.com^
 ||a.tf4srv.com^
 ||a.traffic-gold.com^
 ||a.vws4brkfst.com^
@@ -865,6 +870,8 @@
 ||s.dspzhi.com^
 ||s.dsq93g.com^
 ||s.dsqvkn.com^
+||s.dsr577.com^
+||s.dsr9gv.com^
 ||s.dst3hq.com^
 ||s.dst82e.com^
 ||s.dsuntq.com^
@@ -925,6 +932,7 @@
 ||s.elns2a.com^
 ||s.elns4a.com^
 ||s.elns4b.com^
+||s.elns4c.com^
 ||s.elnz02.com^
 ||s.elnz03.com^
 ||s.elnz11.com^
@@ -937,6 +945,7 @@
 ||s.flirtads.net^
 ||s.gentlefieldpattern.com^
 ||s.golhofer.com^
+||s.happyleafmotion.com^
 ||s.hkartg.com^
 ||s.huispol.com^
 ||s.humnert.com^
@@ -955,6 +964,7 @@
 ||s.n4m5x60.com^
 ||s.native7.com^
 ||s.nidersaw.com^
+||s.nowsrv.com^
 ||s.nuismak.com^
 ||s.opoxv.com^
 ||s.opti-digital.com^
@@ -1111,6 +1121,7 @@
 ||www.3493551.notify6.com^
 ||www.3501655.notify6.com^
 ||www.3505119.notify6.com^
+||www.3544647.notify6.com^
 ||www.3572295.notify6.com^
 ||www.3587729.notify6.com^
 ||www.3588831.notify6.com^
@@ -1139,10 +1150,12 @@
 ||www.4130286.notify6.com^
 ||www.4131834.notify6.com^
 ||www.4133026.notify6.com^
+||www.4133596.notify6.com^
 ||www.4143324.notify6.com^
 ||www.4146994.notify6.com^
 ||www.4152316.notify6.com^
 ||www.4177784.notify6.com^
+||www.4189332.notify6.com^
 ||www.4194382.notify6.com^
 ||www.4195388.notify6.com^
 ||www.4211854.notify6.com^
@@ -1160,16 +1173,14 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
+||a.18ramp.com^
 ||a.6hd49jng.com^
 ||a.8jfbt5va3r.com^
-||a.adsession.com^
-||a.advertrek.com^
 ||a.allureanews.com^
-||a.asvsm.com^
+||a.brilmaver.com^
 ||a.etology.com^
 ||a.golhofer.com^
 ||a.hkartg.com^
-||a.r8lnet.com^
+||a.humnert.com^
 ||a.rocoads.net^
-||a.santabrowser.com^
 ||a.t5z3w0p.com^

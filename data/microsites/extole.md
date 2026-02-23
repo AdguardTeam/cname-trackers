@@ -274,7 +274,6 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
-    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
@@ -293,7 +292,6 @@
     * globalknowledge.extole.io
     * glowbar.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * gpsinsight.extole.io
     * granitegaragefloors.extole.io
@@ -336,6 +334,7 @@
     * iteach.extole.io
     * jellybelly.extole.io
     * jewelersmutual.extole.io
+    * jhfcu.extole.io
     * joann.extole.io
     * join1440.extole.io
     * joinform.extole.io
@@ -455,6 +454,7 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
+    * quickbooks.em.extole.io
     * quickbooks.extole.io
     * quickbooksintuituk.extole.io
     * quickstart.extole.io
@@ -466,6 +466,7 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
+    * rent.em.extole.io
     * rentapp.extole.io
     * resume-now.extole.io
     * reveneer.extole.io
@@ -524,7 +525,6 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
-    * suncoastcreditunion.em.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
     * suneast.extole.io
@@ -559,6 +559,7 @@
     * travelzoo.extole.io
     * truwest.extole.io
     * turbotax.extole.io
+    * turbotax.xtl.extole.io
     * turbotaxdemo.extole.io
     * tweglobal.extole.io
     * twisthair.extole.io
@@ -860,7 +861,6 @@
 | share.firstleaf.com | firstleaf.extole.io |
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.forddrive.com | forddrive.extole.io |
-| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
@@ -947,7 +947,6 @@
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | loyalty.glowbar.com | glowbar.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1007,6 +1006,7 @@
 | refer.jacksonsun.com | jacksonsun.extole.com |
 | share.jellybelly.com | jellybelly.extole.io |
 | refer.jewelersmutual.com | jewelersmutual.extole.io |
+| share.jhfcu.org | jhfcu.extole.io |
 | refer.joann.com | joann.extole.io |
 | refer.johnson.ca | johnson.extole.com |
 | refer.join1440.com | join1440.extole.io |
@@ -1183,6 +1183,7 @@
 | recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
+| em2279.referral.quickbooks.co.uk | quickbooks.em.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
 | referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
@@ -1197,6 +1198,7 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
+| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | refer.resume-now.com | resume-now.extole.io |
 | share.reveneer.io | reveneer.extole.io |
@@ -1273,7 +1275,6 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
-| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | share.suneast.org | suneast.extole.io |
@@ -1321,6 +1322,7 @@
 | refer.truwest.org | truwest.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
 | refer.intuit.com | turbotax.extole.io |
+| xtl._domainkey.turbotax.refer.intuit.com | turbotax.xtl.extole.io |
 | prepod.refer.intuit.com | turbotaxdemo.extole.io |
 | share.beringer.com | tweglobal.extole.io |
 | share.bvwines.com | tweglobal.extole.io |
@@ -1332,20 +1334,22 @@
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |
 | em225.codecademy.com | u82658.wl159.sendgrid.net |
 | em2279.referral.quickbooks.co.uk | u82658.wl159.sendgrid.net |
+| em2287.theory.com | u82658.wl159.sendgrid.net |
 | em4367.raf-studentloans.discover.com | u82658.wl159.sendgrid.net |
 | em4504.mail.raf.xfinity.com | u82658.wl159.sendgrid.net |
 | em5230.rewards.dailypay.com | u82658.wl159.sendgrid.net |
+| em5231.mail.propertyperks.xfinity.com | u82658.wl159.sendgrid.net |
 | em5807.turbotax.refer.intuit.com | u82658.wl159.sendgrid.net |
 | em7147.love.suncoastcreditunion.com | u82658.wl159.sendgrid.net |
 | em767.forgetrust.com | u82658.wl159.sendgrid.net |
 | em7952.dailypay.com | u82658.wl159.sendgrid.net |
 | em8031.soundcloud.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
+| em8642.notifications.acorns.com | u82658.wl159.sendgrid.net |
 | em8928.em.petco.com | u82658.wl159.sendgrid.net |
 | em924.refer.starbucks.com | u82658.wl159.sendgrid.net |
 | em9347.shareus.viktor-rolf.com | u82658.wl159.sendgrid.net |
 | em9523.walmartmoneycard.com | u82658.wl159.sendgrid.net |
-| emxxxx.rent.app | u82658.wl159.sendgrid.net |
 | refer.udemy.com | udemy.extole.io |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
@@ -1410,7 +1414,6 @@
 | xtl._domainkey.shareus.viktor-rolf.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.soundcloud.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.theory.com | xtl.domainkey.u82658.wl159.sendgrid.net |
-| xtl._domainkey.turbotax.refer.intuit.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.walmartmoneycard.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.zoom.us | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl2._domainkey.dailypay.com | xtl2.domainkey.u82658.wl159.sendgrid.net |

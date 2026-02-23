@@ -141,7 +141,6 @@
 ||bkt-prod.sbishinseibank.co.jp^
 ||black-cat.crypto.com^
 ||bland.starone.org^
-||business.streetshares.com^
 ||c.menards.com^
 ||catalyst.mashreq.com^
 ||caveo.boost-my.com^
@@ -389,7 +388,6 @@
 ||content.mywisely.com^
 ||content.name.com^
 ||content.nationalgeneral.com^
-||content.nebraska.gov^
 ||content.netcredit.pl^
 ||content.nhrs.org^
 ||content.norwegianlab.com^
@@ -508,7 +506,6 @@
 ||contentservices.clearairlending.com^
 ||cookiemonster.calcas.com^
 ||creditapp.rogersbank.com^
-||creditcheck.digitecgalaxus.ch^
 ||crmg-fraudmgmt.bayad.com^
 ||css.slots.io^
 ||csservice.aircanada.com^
@@ -720,6 +717,7 @@
 ||info.betway.ng^
 ||info.betwaypartnersafrica.com^
 ||info.jackpotcity.co.za^
+||info.jackpotcitycasino.co.tz^
 ||info.jackpotcitycasino.mw^
 ||insights.hastingsdirectloans.com^
 ||intl.payu.in^
@@ -769,6 +767,7 @@
 ||loyaltyprogram.latamairlines.com^
 ||ls-dp.nj.thelotter.us^
 ||ls-dp.ny.thelotter.us^
+||ls-dp.or.thelotter.us^
 ||lsdp.lotto.com^
 ||lspr.luckycasino.ca^
 ||lsprof.comeon.com^
@@ -961,6 +960,7 @@
 ||rba.optumgovid.com^
 ||rba.optumid.com^
 ||rbawis.pocketcard.co.jp^
+||rct.ext.creditpartner.fr^
 ||rct.ext.sofinco.fr^
 ||rebatecontent.finance.delaware.gov^
 ||regstat.betfair.bet.br^
@@ -1320,6 +1320,7 @@
 ||ts04358.picpay.com^
 ||tsaian.verizonwireless.com^
 ||tst-cdna.paymentncb.cofidis.fr^
+||tstep.iti4dmv.dev^
 ||tulips.metrobankonline.co.uk^
 ||tx.n11.com^
 ||tx.suncoastcreditunion.com^

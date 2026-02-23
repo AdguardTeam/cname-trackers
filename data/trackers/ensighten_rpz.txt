@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -224,7 +224,6 @@ dc.zales.com CNAME .
 dc.zalesoutlet.com CNAME .
 dcf.espn.com CNAME .
 dcf.espn.com.do CNAME .
-dcf.espn.com.pe CNAME .
 dcf.espnqa.com CNAME .
 dcfdata.espn.com CNAME .
 ddc.statefarm.com CNAME .
@@ -237,7 +236,6 @@ ens.moneyhouse.ch CNAME .
 ens.nidwaldnerzeitung.ch CNAME .
 ens.nzzmediasolutions.ch CNAME .
 ens.obwaldnerzeitung.ch CNAME .
-ens.radiopilatus.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.thurgauerzeitung.ch CNAME .
 ens.toggenburgertagblatt.ch CNAME .

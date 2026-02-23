@@ -92,6 +92,7 @@
 | utiq.cnetfrance.fr | frontend.prod.utiq-aws.net |
 | utiq.codebuild.ovh | frontend.prod.utiq-aws.net |
 | utiq.come-on.de | frontend.prod.utiq-aws.net |
+| utiq.commentcamarche.net | frontend.prod.utiq-aws.net |
 | utiq.compradiccion.com | frontend.prod.utiq-aws.net |
 | utiq.computerbild.de | frontend.prod.utiq-aws.net |
 | utiq.computerfrage.net | frontend.prod.utiq-aws.net |
@@ -277,6 +278,8 @@
 | utiq.lidl.de | frontend.prod.utiq-aws.net |
 | utiq.lidl.pl | frontend.prod.utiq-aws.net |
 | utiq.lindependant.fr | frontend.prod.utiq-aws.net |
+| utiq.linternaute.com | frontend.prod.utiq-aws.net |
+| utiq.linternaute.fr | frontend.prod.utiq-aws.net |
 | utiq.listisima.com | frontend.prod.utiq-aws.net |
 | utiq.lne.es | frontend.prod.utiq-aws.net |
 | utiq.lunion.fr | frontend.prod.utiq-aws.net |
@@ -319,11 +322,13 @@
 | utiq.motorimagazine.it | frontend.prod.utiq-aws.net |
 | utiq.motorradfrage.net | frontend.prod.utiq-aws.net |
 | utiq.motorsport-total.com | frontend.prod.utiq-aws.net |
+| utiq.motorsport.com | frontend.prod.utiq-aws.net |
 | utiq.movistar.es | frontend.prod.utiq-aws.net |
 | utiq.mundoxiaomi.com | frontend.prod.utiq-aws.net |
 | utiq.myhomebook.de | frontend.prod.utiq-aws.net |
 | utiq.n-tv.de | frontend.prod.utiq-aws.net |
 | utiq.nationalgeographic.com.es | frontend.prod.utiq-aws.net |
+| utiq.ndz.de | frontend.prod.utiq-aws.net |
 | utiq.neonmag.fr | frontend.prod.utiq-aws.net |
 | utiq.netmums.com | frontend.prod.utiq-aws.net |
 | utiq.news.bayern | frontend.prod.utiq-aws.net |

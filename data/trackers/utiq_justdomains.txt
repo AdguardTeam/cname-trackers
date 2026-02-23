@@ -87,6 +87,7 @@ utiq.closermag.fr
 utiq.cnetfrance.fr
 utiq.codebuild.ovh
 utiq.come-on.de
+utiq.commentcamarche.net
 utiq.compradiccion.com
 utiq.computerbild.de
 utiq.computerfrage.net
@@ -272,6 +273,8 @@ utiq.liberation-champagne.fr
 utiq.lidl.de
 utiq.lidl.pl
 utiq.lindependant.fr
+utiq.linternaute.com
+utiq.linternaute.fr
 utiq.listisima.com
 utiq.lne.es
 utiq.lunion.fr
@@ -314,11 +317,13 @@ utiq.motor1.com
 utiq.motorimagazine.it
 utiq.motorradfrage.net
 utiq.motorsport-total.com
+utiq.motorsport.com
 utiq.movistar.es
 utiq.mundoxiaomi.com
 utiq.myhomebook.de
 utiq.n-tv.de
 utiq.nationalgeographic.com.es
+utiq.ndz.de
 utiq.neonmag.fr
 utiq.netmums.com
 utiq.news.bayern

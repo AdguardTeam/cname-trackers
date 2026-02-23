@@ -47,6 +47,7 @@ adv.consulcesi.it
 adv.unionesarda.it
 advertising.goldseek.com
 adwin.geenstijl.nl
+adztech-console.reviveservers.com
 adztech-delivery.reviveservers.com
 adztech-images.reviveservers.com
 api.ad.logic-prod.viasat.io

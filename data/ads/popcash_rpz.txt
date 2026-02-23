@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,6 +73,7 @@ cdn.ianjumb.com CNAME .
 cdn.iople.com CNAME .
 cdn.isgost.com CNAME .
 cdn.jandaqwe.com CNAME .
+cdn.japw.cloud CNAME .
 cdn.jbtul.com CNAME .
 cdn.jeckear.com CNAME .
 cdn.jhkfd.com CNAME .
@@ -119,6 +120,7 @@ cdn.qgerr.com CNAME .
 cdn.quagfa.com CNAME .
 cdn.rapolok.com CNAME .
 cdn.rausfml.com CNAME .
+cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
 cdn.roemoss.com CNAME .
 cdn.rofant.com CNAME .
@@ -309,6 +311,7 @@ cat.thisminute.app CNAME .
 catfish.phuclh.com CNAME .
 catfish.pressure.cooking CNAME .
 catfish.sofatido.ch CNAME .
+catshark.janetalexandersson.com CNAME .
 catshark.jimmyaldape.dev CNAME .
 cattle.apisyouwonthate.com CNAME .
 cattle.driftbot.io CNAME .
@@ -636,7 +639,6 @@ louse.sigle.io CNAME .
 lynx.inovo.io CNAME .
 lynx.lumy.network CNAME .
 lynx.microl.ink CNAME .
-lynx.pascivite.com CNAME .
 lynx.sbstjn.com CNAME .
 lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
@@ -831,6 +833,7 @@ sailfish.the-psychedelicatessen.com CNAME .
 sailfish.youracademycommunity.com CNAME .
 salamander.augmentedmind.io CNAME .
 salamander.showandtelldata.com CNAME .
+salamander.yourownpay.com CNAME .
 salmon.cedricreeves.com CNAME .
 salmon.thespiritualpsychologist.co.uk CNAME .
 sawfish.black-forest-digital.de CNAME .
@@ -870,6 +873,7 @@ sparrow.uitvaartzorg-vanraemdonck.be CNAME .
 sparrow.workingincontent.com CNAME .
 spermwhale.rowansimpson.com CNAME .
 spider.capricciocolumbus.org CNAME .
+spider.hoomie.online CNAME .
 spider.scottw.com CNAME .
 spider.storiesofchang.com CNAME .
 squid.adart.cc CNAME .

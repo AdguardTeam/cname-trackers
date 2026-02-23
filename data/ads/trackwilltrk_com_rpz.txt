@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771228879729        ; Serial
+           1771833627034        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,4 +49,3 @@ t.trcktr.com CNAME .
 t.trkav.name CNAME .
 t.vpntrck.com CNAME .
 t.wintrck.com CNAME .
-t.trecktr.com CNAME .
