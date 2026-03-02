@@ -123,7 +123,6 @@
 | pa.opqr.co | custom.plausible.io |
 | ping.naturadapt.com | custom.plausible.io |
 | ping.resoluteoil.com | custom.plausible.io |
-| pl.1feed.app | custom.plausible.io |
 | pl.astro-akatemia.fi | custom.plausible.io |
 | pl.astro.fi | custom.plausible.io |
 | pl.carbon-tab.ethan.link | custom.plausible.io |
@@ -186,7 +185,6 @@
 | plausible.hopecanebay.com | custom.plausible.io |
 | plausible.ionicelements.dev | custom.plausible.io |
 | plausible.joinself.com | custom.plausible.io |
-| plausible.k6sbw.net | custom.plausible.io |
 | plausible.kabaret.no | custom.plausible.io |
 | plausible.kdojang.com | custom.plausible.io |
 | plausible.lesbianromantic.com | custom.plausible.io |
@@ -216,7 +214,6 @@
 | plausible.thefutureoftheworkplacebook.com | custom.plausible.io |
 | plausible.tlschedule.com | custom.plausible.io |
 | plausible.treelightsoftware.com | custom.plausible.io |
-| plausible.urbanekuensteruhr.de | custom.plausible.io |
 | plausible.veszelovszki.com | custom.plausible.io |
 | plausible.wordstamped.com | custom.plausible.io |
 | plausible.yalepaprika.com | custom.plausible.io |
@@ -393,7 +390,6 @@
 | stats.deja-lu.de | custom.plausible.io |
 | stats.depends-on-the-definition.com | custom.plausible.io |
 | stats.develop.wwdcscholars.com | custom.plausible.io |
-| stats.devenet.info | custom.plausible.io |
 | stats.devetkomentara.net | custom.plausible.io |
 | stats.devrain.io | custom.plausible.io |
 | stats.devskills.co | custom.plausible.io |
@@ -795,6 +791,7 @@
 | visitorcenter.srwild.com | custom.plausible.io |
 | visitors.asadis.net | custom.plausible.io |
 | visitors.gigianddavid.com | custom.plausible.io |
+| vitals.cgddrd.me | custom.plausible.io |
 | we-love-privacy.humane.club | custom.plausible.io |
 | webstats.bijenpatel.com | custom.plausible.io |
 | yolo.philipbjorge.com | custom.plausible.io |

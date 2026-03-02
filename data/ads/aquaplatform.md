@@ -81,6 +81,7 @@
     * mequoda-console.aquaplatform.com
     * mequoda-delivery.aquaplatform.com
     * mequoda-static.aquaplatform.com
+    * midtc-static.aquaplatform.com
     * midtc1-delivery.aquaplatform.com
     * midtc2-delivery.aquaplatform.com
     * midtc3-delivery.aquaplatform.com
@@ -293,6 +294,7 @@
 | console.mequoda.com | mequoda-console.aquaplatform.com |
 | ox.mequoda.com | mequoda-delivery.aquaplatform.com |
 | cdn.mequoda.com | mequoda-static.aquaplatform.com |
+| adamsads-static.midtc.com | midtc-static.aquaplatform.com |
 | tlads.midtc.com | midtc1-delivery.aquaplatform.com |
 | championads.midtc.com | midtc2-delivery.aquaplatform.com |
 | pawads.midtc.com | midtc3-delivery.aquaplatform.com |
@@ -353,6 +355,7 @@
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
 | adztech-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | brandmovers-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
+| edgeadserver-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | marriagetrac-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |
@@ -376,6 +379,7 @@
 | adconsole.proxibid.com | proxibid-console.aquaplatform.com |
 | adconsole.the-saleroom.com | proxibid-console.aquaplatform.com |
 | www.adconsole.proxibid.com | proxibid-console.aquaplatform.com |
+| www.adconsole.the-saleroom.com | proxibid-console.aquaplatform.com |
 | ads.bidspotter.co.uk | proxibid-delivery.aquaplatform.com |
 | ads.i-bidder.com | proxibid-delivery.aquaplatform.com |
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |

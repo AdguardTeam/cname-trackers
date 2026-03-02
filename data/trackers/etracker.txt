@@ -124,6 +124,7 @@
 ||ettcc.steute.com^
 ||eva.institut-sitya.at^
 ||ferthu.seyffer.shop^
+||foodstats.eurofins.de^
 ||go.eitrmsummit.com^
 ||go.kik.de^
 ||gruenten.agrar-fachversand.com^
@@ -219,6 +220,7 @@
 ||stats.kaerntnerjobs.at^
 ||stats.krauss-gmbh.com^
 ||stats.landgasthaus.de^
+||stats.marienhoehe-norderney.de^
 ||stats.milchbar-norderney.de^
 ||stats.mopo.de^
 ||stats.no-cosmetics.de^
@@ -294,7 +296,6 @@
 ||wctr.sus-architekten-muenster.de^
 ||wctr.vitanova-kliniken.de^
 ||wd.classicseller.de^
-||web-monitor.labor-limbach-hannover.de^
 ||web.satiata-med.de^
 ||web.sihl-direct.de^
 ||webanalytics.pwc.fr^
@@ -375,6 +376,7 @@
 ||webstats.arbeitskleidung-expert.de^
 ||webstats.hutdirekt.de^
 ||webstats.kawentsmann.de^
+||webstt0002.onofficeom.com^
 ||webstt0004.onofficeom.com^
 ||webstt0009.onofficeom.com^
 ||webstt0011.onofficeom.com^

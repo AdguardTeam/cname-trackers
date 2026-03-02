@@ -80,6 +80,7 @@
 ||stats.artero.dev^
 ||stats.artur-rodrigues.com^
 ||stats.benjaminmorris.com^
+||stats.bestasciitable.com^
 ||stats.beyondthesprawl.com^
 ||stats.boredkevin.com^
 ||stats.boringproxy.io^
@@ -141,6 +142,7 @@
 ||stats.pvme.omg.lol^
 ||stats.r18.dev^
 ||stats.raycordlegends.com^
+||stats.realestate.if.ua^
 ||stats.realestate.kyiv.ua^
 ||stats.rezhajul.io^
 ||stats.risanne.nl^

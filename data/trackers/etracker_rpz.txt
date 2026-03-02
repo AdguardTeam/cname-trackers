@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -135,6 +135,7 @@ ettcc.steute-meditec.com CNAME .
 ettcc.steute.com CNAME .
 eva.institut-sitya.at CNAME .
 ferthu.seyffer.shop CNAME .
+foodstats.eurofins.de CNAME .
 go.eitrmsummit.com CNAME .
 go.kik.de CNAME .
 gruenten.agrar-fachversand.com CNAME .
@@ -230,6 +231,7 @@ stats.inselloft-norderney.de CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.krauss-gmbh.com CNAME .
 stats.landgasthaus.de CNAME .
+stats.marienhoehe-norderney.de CNAME .
 stats.milchbar-norderney.de CNAME .
 stats.mopo.de CNAME .
 stats.no-cosmetics.de CNAME .
@@ -305,7 +307,6 @@ wctr.scaleup-fulfillment.de CNAME .
 wctr.sus-architekten-muenster.de CNAME .
 wctr.vitanova-kliniken.de CNAME .
 wd.classicseller.de CNAME .
-web-monitor.labor-limbach-hannover.de CNAME .
 web.satiata-med.de CNAME .
 web.sihl-direct.de CNAME .
 webanalytics.pwc.fr CNAME .
@@ -386,6 +387,7 @@ webctrl.dalimed.de CNAME .
 webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
+webstt0002.onofficeom.com CNAME .
 webstt0004.onofficeom.com CNAME .
 webstt0009.onofficeom.com CNAME .
 webstt0011.onofficeom.com CNAME .

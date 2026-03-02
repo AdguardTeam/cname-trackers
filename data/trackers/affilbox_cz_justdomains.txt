@@ -138,7 +138,6 @@ affiliate.easyproject.com
 affiliate.easyproject.cz
 affiliate.easyredmine.com
 affiliate.easysoftware.com
-affiliate.ehotel.cz
 affiliate.elektronickeobojkypropsy.cz
 affiliate.elisdesign.cz
 affiliate.elitedate.eu
@@ -161,7 +160,6 @@ affiliate.fotopasti-bunaty.cz
 affiliate.geoweb.easy.cz
 affiliate.golfplan.org
 affiliate.growmarket.cz
-affiliate.hanibal.cz
 affiliate.herbadent.cz
 affiliate.hokr.eu
 affiliate.ihrelinsen.at
@@ -246,6 +244,7 @@ affiliate.svarecky-obchod.cz
 affiliate.svetbot.cz
 affiliate.t6power.cz
 affiliate.tajomstvozenskejprosperity.sk
+affiliate.talkey.com
 affiliate.terarijni-potreby.cz
 affiliate.topol.io
 affiliate.ucetni-portal.cz
@@ -330,7 +329,6 @@ my.top4fitness.hu
 my.top4fitness.it
 my.top4fitness.pl
 my.top4fitness.pt
-my.top4fitness.ro
 my.top4fitness.sk
 my.top4football.de
 my.top4football.es
@@ -933,6 +931,7 @@ spoluprace.aretacni-pripravky.cz
 spoluprace.bafoo.cz
 spoluprace.blackkale.cz
 spoluprace.cistapohoda.cz
+spoluprace.congrady.eu
 spoluprace.eroticstore.cz
 spoluprace.fotozde.cz
 spoluprace.galaxy.cz
@@ -940,6 +939,7 @@ spoluprace.gprooms.eu
 spoluprace.h2world.store
 spoluprace.hyla.cz
 spoluprace.imagemakersforyou.cz
+spoluprace.inkahome.cz
 spoluprace.janitaurbanova.cz
 spoluprace.kabefarben.cz
 spoluprace.luxusnipradlo.cz

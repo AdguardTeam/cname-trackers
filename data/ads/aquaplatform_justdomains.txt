@@ -1,5 +1,6 @@
 #
 # Company name: Aquaplatform
+adamsads-static.midtc.com
 adamsads.midtc.com
 adconsole.bidspotter.co.uk
 adconsole.eva.live
@@ -122,6 +123,7 @@ coreads.cambridge.org
 creatives.goldseek.com
 delivery.ads.fantasanremo.com
 display.lawbulletin.com
+edgeadserver-delivery.reviveservers.com
 etnomedia-static.reviveservers.com
 images.addurance.com
 images.cavalier-romand.ch
@@ -258,6 +260,7 @@ treehouse.wwoz.org
 veenmedia-ads.reviveservers.com
 webtool-delivery.reviveservers.com
 www.adconsole.proxibid.com
+www.adconsole.the-saleroom.com
 www.adimages.infotorg.se
 www.ads.environmentalleader.com
 www.ads.proxibid.com

@@ -6,7 +6,6 @@ a8-affiliate.kase3535.com
 a8-cv.lean-body.jp
 a8-hoiku.mama-9jin.com
 a8-itp.qoo10.jp
-a8-kouten.kouten.work
 a8-mamacareer.mama-9jin.com
 a8-per-sonal.per-sonal.co.jp
 a8-printing.ink-revolution.com
@@ -91,6 +90,7 @@ a8.dymtech.jp
 a8.earth-shiho.com
 a8.earthwater-cayenne.com
 a8.efax.co.jp
+a8.eigoba.com
 a8.eigox.jp
 a8.elife.clinic
 a8.emeao.jp
@@ -351,7 +351,6 @@ a8.www.melonbooks.co.jp
 a8.www.nicosuma.com
 a8.www.retrospect.co.jp
 a8.www.seesaa.co.jp
-a8.www.suaoki.jp
 a8.xn--38jf6c4pa86a1dv833cexrb.com
 a8.xn--google-873exa8m6161dbbyb.net
 a8.xn--y8jd4aybzqd.jp
@@ -425,7 +424,6 @@ a8clk.buyking.club
 a8clk.camerakaitori.jp
 a8clk.campaigns.kaitori-premium.jp
 a8clk.campaigns.speed-kaitori.jp
-a8clk.car-auc.jp
 a8clk.car-mo.jp
 a8clk.carbattery110.com
 a8clk.career.prismy.jp
@@ -506,7 +504,6 @@ a8clk.golf-kace.com
 a8clk.grandg.com
 a8clk.grirose.jp
 a8clk.gurutas.jp
-a8clk.guruyaku.jp
 a8clk.hags-ec.com
 a8clk.hikakaku.com
 a8clk.hikarinobe.com
@@ -1500,7 +1497,6 @@ cv.liability.jp
 cv.loca-site.com
 cv.mamaikuko.jp
 cv.meo.tryhatch.co.jp
-cv.min-kurumaya.com
 cv.mupla-ab3.com
 cv.my-lancul.com
 cv.nell.life

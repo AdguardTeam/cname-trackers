@@ -576,6 +576,7 @@
 ||tr.infos.allianz-trade.com^
 ||tr.infos.ariase.com^
 ||tr.infos.boursobank.info^
+||tr.infos.bpaura.banquepopulaire.fr^
 ||tr.infos.enerplus-bordeaux.fr^
 ||tr.infos.fongecifcentre.com^
 ||tr.infos.gazdebordeaux.fr^
@@ -650,7 +651,6 @@
 ||tr.mail.vo3000.com^
 ||tr.mail1.macif.fr^
 ||tr.mail306.com^
-||tr.mailatia.com^
 ||tr.mailing.associationici.fr^
 ||tr.mailing.heliades.fr^
 ||tr.mailing.laredoute.fr^
@@ -1007,9 +1007,7 @@
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro-renov.be^
 ||tr.pro.myhomeflowercampings.com^
-||tr.pro.odalys-campus.com^
 ||tr.pro.odalys-vacances.com^
-||tr.pro.residencehappysenior.fr^
 ||tr.pro.sgit.net^
 ||tr.programme-voyageur-sncf.com^
 ||tr.projet.cotemaison.fr^

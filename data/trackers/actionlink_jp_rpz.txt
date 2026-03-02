@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -39,6 +39,7 @@ al.combinationmeal.com CNAME .
 al.directishii.net CNAME .
 al.dmjegao.com CNAME .
 al.dressherself.com CNAME .
+al.e-cha.co.jp CNAME .
 al.eaphi.co.jp CNAME .
 al.elekit-store.com CNAME .
 al.engei.net CNAME .

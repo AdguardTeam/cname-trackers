@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,12 +24,12 @@ tagcommander.laredoute.ch CNAME .
 tagcommander.laredoute.de CNAME .
 tagcommander.laredoute.pt CNAME .
 tagcommander.laredoute.ru CNAME .
-tc.europcar.com CNAME .
 tc.europcar.com.au CNAME .
-tc.europcar.de CNAME .
-tcdata.fnac.com CNAME .
 configure.adlermode.com CNAME .
 data.decathlon.it CNAME .
 data.e-immobilier.credit-agricole.fr CNAME .
 tag.boulanger.fr CNAME .
+tc.europcar.com CNAME .
+tc.europcar.de CNAME .
 tc.europcar.es CNAME .
+tcdata.fnac.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -78,6 +78,7 @@ l.compradiccion.com CNAME .
 l.contexte.com CNAME .
 l.courrier-picard.fr CNAME .
 l.cuisineactuelle.fr CNAME .
+l.cuisinezauquotidien.com CNAME .
 l.dailysports.fr CNAME .
 l.diapasonmag.fr CNAME .
 l.directoalpaladar.com CNAME .
@@ -189,6 +190,7 @@ l.lexpress.eu CNAME .
 l.lexpress.fr CNAME .
 l.lhebdoduvendredi.com CNAME .
 l.liberation-champagne.fr CNAME .
+l.liberation.fr CNAME .
 l.lindependant.fr CNAME .
 l.linfoauquotidien.com CNAME .
 l.linsoliteauquotidien.com CNAME .
@@ -263,6 +265,7 @@ l.sensacine.com CNAME .
 l.sensacine.com.mx CNAME .
 l.sportauto.fr CNAME .
 l.sports.fr CNAME .
+l.stampa-paese.com CNAME .
 l.sudinfo.be CNAME .
 l.sudouest.fr CNAME .
 l.supersoluce.com CNAME .

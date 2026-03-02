@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+adamsads-static.midtc.com CNAME .
 adamsads.midtc.com CNAME .
 adconsole.bidspotter.co.uk CNAME .
 adconsole.eva.live CNAME .
@@ -133,6 +134,7 @@ coreads.cambridge.org CNAME .
 creatives.goldseek.com CNAME .
 delivery.ads.fantasanremo.com CNAME .
 display.lawbulletin.com CNAME .
+edgeadserver-delivery.reviveservers.com CNAME .
 etnomedia-static.reviveservers.com CNAME .
 images.addurance.com CNAME .
 images.cavalier-romand.ch CNAME .
@@ -269,6 +271,7 @@ treehouse.wwoz.org CNAME .
 veenmedia-ads.reviveservers.com CNAME .
 webtool-delivery.reviveservers.com CNAME .
 www.adconsole.proxibid.com CNAME .
+www.adconsole.the-saleroom.com CNAME .
 www.adimages.infotorg.se CNAME .
 www.ads.environmentalleader.com CNAME .
 www.ads.proxibid.com CNAME .

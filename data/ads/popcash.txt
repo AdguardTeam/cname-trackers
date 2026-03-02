@@ -710,7 +710,6 @@
 ||owl.gregwolanski.com^
 ||owl.gymme.nl^
 ||owl.heidipay.com^
-||owl.indigenoushiphopawards.com^
 ||owl.sentrydiscord.dev^
 ||ox.first-law.com^
 ||ox.ines-papert.de^
@@ -800,7 +799,6 @@
 ||reindeer.iainbroome.com^
 ||reindeer.pablomaceda.com^
 ||reptile.o-lit.fr^
-||reptile.sat.trading^
 ||rhinoceros.codeagain.com^
 ||rhinoceros.krieger.io^
 ||rhinoceros.valeriaborgese.it^
@@ -821,6 +819,7 @@
 ||sailfish.the-psychedelicatessen.com^
 ||sailfish.youracademycommunity.com^
 ||salamander.augmentedmind.io^
+||salamander.gimbal.st^
 ||salamander.showandtelldata.com^
 ||salamander.yourownpay.com^
 ||salmon.cedricreeves.com^
@@ -896,7 +895,6 @@
 ||swordfish.mattpreston.io^
 ||swordtail.hnh.digital^
 ||swordtail.rockface.io^
-||swordtail.thocstock.com^
 ||t0ikowg7jg.serverlesslaravelcourse.com^
 ||tahr.componentsui.com^
 ||tahr.happydev.fm^
@@ -904,7 +902,6 @@
 ||takin.cors.digital^
 ||takin.revolana.fr^
 ||tapir.albertaguardtraining.ca^
-||tapir.lindahlstudios.com^
 ||tarantula.emotionalbaking.com^
 ||tarantula.searchbox.tech^
 ||tarantula.tuxedo.media^
@@ -1017,6 +1014,7 @@
 ||community.richlandsource.com^
 ||connected.ashrae.org^
 ||connected.county10.com^
+||daily.abasto.com^
 ||daily.schoolsweek.co.uk^
 ||daily.thezebra.org^
 ||daily.yubanet.com^
@@ -1072,6 +1070,7 @@
 ||assets.diagomics.com^
 ||bcdn.cpmstar.com^
 ||cache.myth.dev^
+||cdn.myth.dev^
 ||cdn-b.notsy.io^
 ||cdn.admatic.com.tr^
 ||cdn.adsninja.ca^

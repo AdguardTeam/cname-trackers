@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,6 +45,7 @@ tk.airfrance.es CNAME .
 tk.airfrance.fi CNAME .
 tk.airfrance.fr CNAME .
 tk.airfrance.ga CNAME .
+tk.airfrance.ge CNAME .
 tk.airfrance.gf CNAME .
 tk.airfrance.gp CNAME .
 tk.airfrance.gr CNAME .

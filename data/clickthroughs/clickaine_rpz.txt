@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ a3.arabsex1.com CNAME .
 a3.hotpornfile.org CNAME .
 a4.hotpornfile.org CNAME .
 aabclkane.bachelorarchive.com CNAME .
+add.luffy.my.id CNAME .
 ads.imgdesu.art CNAME .
 ads.luffy.my.id CNAME .
 adsv.cki.name CNAME .
@@ -48,7 +49,6 @@ cc.histoires-de-sexe-gratuites.com CNAME .
 cc.histoires-de-sexe.club CNAME .
 cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
-cc.sexgeschichten-kostenlos.com CNAME .
 cc.sexgeschichten-xxx.com CNAME .
 cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
@@ -71,7 +71,6 @@ ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dfx.xtapes.porn CNAME .
 drt.cliomovies.com CNAME .
-excavajo11.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 get.xclick24.com CNAME .

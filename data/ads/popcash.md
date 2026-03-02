@@ -54,6 +54,7 @@
 | community.richlandsource.com | bs-adserver.b-cdn.net |
 | connected.ashrae.org | bs-adserver.b-cdn.net |
 | connected.county10.com | bs-adserver.b-cdn.net |
+| daily.abasto.com | bs-adserver.b-cdn.net |
 | daily.schoolsweek.co.uk | bs-adserver.b-cdn.net |
 | daily.thezebra.org | bs-adserver.b-cdn.net |
 | daily.yubanet.com | bs-adserver.b-cdn.net |
@@ -675,7 +676,6 @@
 | owl.gregwolanski.com | deprecated-custom-domains.b-cdn.net |
 | owl.gymme.nl | deprecated-custom-domains.b-cdn.net |
 | owl.heidipay.com | deprecated-custom-domains.b-cdn.net |
-| owl.indigenoushiphopawards.com | deprecated-custom-domains.b-cdn.net |
 | owl.sentrydiscord.dev | deprecated-custom-domains.b-cdn.net |
 | ox.first-law.com | deprecated-custom-domains.b-cdn.net |
 | ox.ines-papert.de | deprecated-custom-domains.b-cdn.net |
@@ -765,7 +765,6 @@
 | reindeer.iainbroome.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.pablomaceda.com | deprecated-custom-domains.b-cdn.net |
 | reptile.o-lit.fr | deprecated-custom-domains.b-cdn.net |
-| reptile.sat.trading | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.codeagain.com | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.krieger.io | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.valeriaborgese.it | deprecated-custom-domains.b-cdn.net |
@@ -786,6 +785,7 @@
 | sailfish.the-psychedelicatessen.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.youracademycommunity.com | deprecated-custom-domains.b-cdn.net |
 | salamander.augmentedmind.io | deprecated-custom-domains.b-cdn.net |
+| salamander.gimbal.st | deprecated-custom-domains.b-cdn.net |
 | salamander.showandtelldata.com | deprecated-custom-domains.b-cdn.net |
 | salamander.yourownpay.com | deprecated-custom-domains.b-cdn.net |
 | salmon.cedricreeves.com | deprecated-custom-domains.b-cdn.net |
@@ -861,7 +861,6 @@
 | swordfish.mattpreston.io | deprecated-custom-domains.b-cdn.net |
 | swordtail.hnh.digital | deprecated-custom-domains.b-cdn.net |
 | swordtail.rockface.io | deprecated-custom-domains.b-cdn.net |
-| swordtail.thocstock.com | deprecated-custom-domains.b-cdn.net |
 | t0ikowg7jg.serverlesslaravelcourse.com | deprecated-custom-domains.b-cdn.net |
 | tahr.componentsui.com | deprecated-custom-domains.b-cdn.net |
 | tahr.happydev.fm | deprecated-custom-domains.b-cdn.net |
@@ -869,7 +868,6 @@
 | takin.cors.digital | deprecated-custom-domains.b-cdn.net |
 | takin.revolana.fr | deprecated-custom-domains.b-cdn.net |
 | tapir.albertaguardtraining.ca | deprecated-custom-domains.b-cdn.net |
-| tapir.lindahlstudios.com | deprecated-custom-domains.b-cdn.net |
 | tarantula.emotionalbaking.com | deprecated-custom-domains.b-cdn.net |
 | tarantula.searchbox.tech | deprecated-custom-domains.b-cdn.net |
 | tarantula.tuxedo.media | deprecated-custom-domains.b-cdn.net |
@@ -988,6 +986,7 @@
 | icon.eu.twrmnd.com | impressions-ico-eu.b-cdn.net |
 | matomo-cdn-bunny.ramsalt.com | matomo.b-cdn.net |
 | cache.myth.dev | mythdev.b-cdn.net |
+| cdn.myth.dev | mythdev.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -98,6 +98,7 @@ utiq.closermag.fr CNAME .
 utiq.cnetfrance.fr CNAME .
 utiq.codebuild.ovh CNAME .
 utiq.come-on.de CNAME .
+utiq.commentcamarche.com CNAME .
 utiq.commentcamarche.net CNAME .
 utiq.compradiccion.com CNAME .
 utiq.computerbild.de CNAME .
@@ -131,6 +132,7 @@ utiq.duden.de CNAME .
 utiq.dzfoot.com CNAME .
 utiq.easyvoyage.com CNAME .
 utiq.eatbetter.de CNAME .
+utiq.edcom.fr CNAME .
 utiq.einbuergerungstest-online.de CNAME .
 utiq.einbuergerungstest-online.eu CNAME .
 utiq.einfach-tasty.de CNAME .
@@ -144,6 +146,7 @@ utiq.eldia.es CNAME .
 utiq.eldiario.es CNAME .
 utiq.eldiariomontanes.es CNAME .
 utiq.eleconomista.es CNAME .
+utiq.elespanol.com CNAME .
 utiq.elmueble.com CNAME .
 utiq.elmundo.es CNAME .
 utiq.elnacional.cat CNAME .
@@ -274,6 +277,7 @@ utiq.lemessager.fr CNAME .
 utiq.leonoticias.com CNAME .
 utiq.lepopulaire.fr CNAME .
 utiq.lepopulaire.fr.cdn.cloudflare.net CNAME .
+utiq.lesmobiles.com CNAME .
 utiq.lesnumeriques.com CNAME .
 utiq.lest-eclair.fr CNAME .
 utiq.letelegramme.fr CNAME .

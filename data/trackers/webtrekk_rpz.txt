@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -265,7 +265,6 @@ web.email.amplifiedclothing.com CNAME .
 web.email.bricocenter.it CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.mishimoto.co.uk CNAME .
-web.email.mishimoto.com CNAME .
 web.email.mishimoto.eu CNAME .
 web.email.parkcameras.com CNAME .
 web.email.pizzaexpress.com CNAME .

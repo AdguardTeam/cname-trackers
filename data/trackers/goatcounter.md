@@ -17,6 +17,7 @@
     * artero.goatcounter.com
     * artur.goatcounter.com
     * benjaminmorris.goatcounter.com
+    * bestasciitable.goatcounter.com
     * beyondthesprawl.goatcounter.com
     * bkvn.goatcounter.com
     * blog-lewsion.goatcounter.com
@@ -123,6 +124,7 @@
     * pttrn.goatcounter.com
     * qrdate.goatcounter.com
     * r18.goatcounter.com
+    * reifua.goatcounter.com
     * repath-studio.goatcounter.com
     * rezha.goatcounter.com
     * riggraz.goatcounter.com
@@ -189,6 +191,7 @@
 | stats.artero.dev | artero.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
+| stats.bestasciitable.com | bestasciitable.goatcounter.com |
 | stats.beyondthesprawl.com | beyondthesprawl.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
 | stats-blog.lewsion.com | blog-lewsion.goatcounter.com |
@@ -302,6 +305,7 @@
 | stats.pttrn.io | pttrn.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
 | stats.r18.dev | r18.goatcounter.com |
+| stats.realestate.if.ua | reifua.goatcounter.com |
 | analytics.repath.studio | repath-studio.goatcounter.com |
 | stats.rezhajul.io | rezha.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |

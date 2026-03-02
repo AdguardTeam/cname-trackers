@@ -92,6 +92,7 @@
 | utiq.cnetfrance.fr | frontend.prod.utiq-aws.net |
 | utiq.codebuild.ovh | frontend.prod.utiq-aws.net |
 | utiq.come-on.de | frontend.prod.utiq-aws.net |
+| utiq.commentcamarche.com | frontend.prod.utiq-aws.net |
 | utiq.commentcamarche.net | frontend.prod.utiq-aws.net |
 | utiq.compradiccion.com | frontend.prod.utiq-aws.net |
 | utiq.computerbild.de | frontend.prod.utiq-aws.net |
@@ -125,6 +126,7 @@
 | utiq.dzfoot.com | frontend.prod.utiq-aws.net |
 | utiq.easyvoyage.com | frontend.prod.utiq-aws.net |
 | utiq.eatbetter.de | frontend.prod.utiq-aws.net |
+| utiq.edcom.fr | frontend.prod.utiq-aws.net |
 | utiq.einbuergerungstest-online.de | frontend.prod.utiq-aws.net |
 | utiq.einbuergerungstest-online.eu | frontend.prod.utiq-aws.net |
 | utiq.einfach-tasty.de | frontend.prod.utiq-aws.net |
@@ -138,6 +140,7 @@
 | utiq.eldiario.es | frontend.prod.utiq-aws.net |
 | utiq.eldiariomontanes.es | frontend.prod.utiq-aws.net |
 | utiq.eleconomista.es | frontend.prod.utiq-aws.net |
+| utiq.elespanol.com | frontend.prod.utiq-aws.net |
 | utiq.elmueble.com | frontend.prod.utiq-aws.net |
 | utiq.elmundo.es | frontend.prod.utiq-aws.net |
 | utiq.elnacional.cat | frontend.prod.utiq-aws.net |
@@ -268,6 +271,7 @@
 | utiq.leonoticias.com | frontend.prod.utiq-aws.net |
 | utiq.lepopulaire.fr | frontend.prod.utiq-aws.net |
 | utiq.lepopulaire.fr.cdn.cloudflare.net | frontend.prod.utiq-aws.net |
+| utiq.lesmobiles.com | frontend.prod.utiq-aws.net |
 | utiq.lesnumeriques.com | frontend.prod.utiq-aws.net |
 | utiq.lest-eclair.fr | frontend.prod.utiq-aws.net |
 | utiq.letelegramme.fr | frontend.prod.utiq-aws.net |

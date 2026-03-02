@@ -111,7 +111,6 @@
 ||pa.opqr.co^
 ||ping.naturadapt.com^
 ||ping.resoluteoil.com^
-||pl.1feed.app^
 ||pl.astro-akatemia.fi^
 ||pl.astro.fi^
 ||pl.carbon-tab.ethan.link^
@@ -174,7 +173,6 @@
 ||plausible.hopecanebay.com^
 ||plausible.ionicelements.dev^
 ||plausible.joinself.com^
-||plausible.k6sbw.net^
 ||plausible.kabaret.no^
 ||plausible.kdojang.com^
 ||plausible.lesbianromantic.com^
@@ -204,7 +202,6 @@
 ||plausible.thefutureoftheworkplacebook.com^
 ||plausible.tlschedule.com^
 ||plausible.treelightsoftware.com^
-||plausible.urbanekuensteruhr.de^
 ||plausible.veszelovszki.com^
 ||plausible.wordstamped.com^
 ||plausible.yalepaprika.com^
@@ -381,7 +378,6 @@
 ||stats.deja-lu.de^
 ||stats.depends-on-the-definition.com^
 ||stats.develop.wwdcscholars.com^
-||stats.devenet.info^
 ||stats.devetkomentara.net^
 ||stats.devrain.io^
 ||stats.devskills.co^
@@ -783,6 +779,7 @@
 ||visitorcenter.srwild.com^
 ||visitors.asadis.net^
 ||visitors.gigianddavid.com^
+||vitals.cgddrd.me^
 ||we-love-privacy.humane.club^
 ||webstats.bijenpatel.com^
 ||yolo.philipbjorge.com^

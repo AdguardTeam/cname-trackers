@@ -37,6 +37,7 @@ afm.puprime.online
 afm.startrader.asia
 afm.startrader.com
 afm.startrader.live
+afm.startrader.online
 afm.startrader.plus
 afm.startraderasia.com
 afm.startraderfr.com
@@ -49,9 +50,11 @@ afm.startraders58.com
 afm.startradervn.net
 afm.sthub.cc
 afm.strmarketing.net
+afm.strpro.me
 afm.ultima-markets.com
 afm.ultimamarkets.asia
 afm.ultimamarkets.com
+afm.ultimamarkets.net
 afm.ultimamarketsglobal.com
 afm.ultimamkts.com
 afm.umtradings.com
@@ -263,6 +266,7 @@ cim-idc-cdn.account.bcbsmt.com
 cim-idc-cdn.account.bcbsnm.com
 cim-idc-cdn.account.bcbsok.com
 cim-idc-cdn.account.bcbstx.com
+cim-idc-cdn.account.hcsc.net
 cim-idc-cdn.account.test.bcbsok.com
 cim-idc-cdn.account.wellontarget.com
 claimant.vec.virginia.gov
@@ -718,6 +722,7 @@ info.betway.ng
 info.betwaypartnersafrica.com
 info.jackpotcity.co.za
 info.jackpotcitycasino.co.tz
+info.jackpotcitycasino.com.gh
 info.jackpotcitycasino.mw
 insights.hastingsdirectloans.com
 intl.payu.in
@@ -769,6 +774,7 @@ ls-dp.nj.thelotter.us
 ls-dp.ny.thelotter.us
 ls-dp.or.thelotter.us
 lsdp.lotto.com
+lsdpdp.luckxpress.com
 lspr.luckycasino.ca
 lsprof.comeon.com
 lsr22.dzing.finance
@@ -1064,6 +1070,7 @@ srv.squaretrade.es
 srv.squaretrade.eu
 srv.squaretrade.fi
 srv.squaretrade.hu
+srv.squaretrade.lu
 srv.squaretrade.nl
 srv.squaretrade.no
 srv.squaretrade.pt
@@ -1090,6 +1097,7 @@ t.aldi-mobile.ch
 t.chmobile.ch
 t.lebara.ch
 t.liberty.com.au
+t.openbankpay.com
 t.sunrise.ch
 t.us.williamhill.com
 t.wepay.com
@@ -1331,6 +1339,7 @@ uat.cmprofile.cards.citidirect.com
 ucfs.sendpro360.pitneybowes.com
 ucfs.sendpro360.pitneycloud.com
 ucfs.shipping360.pitneybowes.com
+ufc.vanguardinvestor.co.uk
 ufp.intuit.com
 uldfp.srilankan.com
 umst.mobile.de

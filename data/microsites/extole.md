@@ -142,6 +142,7 @@
     * at-a-glance.extole.io
     * athleta.extole.io
     * atlasbars.extole.io
+    * att.extole.io
     * aveda-ca.extole.io
     * aveda-uk.extole.io
     * aveda.extole.io
@@ -403,7 +404,6 @@
     * newtonbaby.extole.io
     * nfhs-network.extole.io
     * ngfcu.extole.io
-    * notifications.acorns.em.extole.io
     * nutribullet.extole.io
     * nuts.extole.io
     * nymcu.extole.io
@@ -466,12 +466,10 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * rent.em.extole.io
     * rentapp.extole.io
     * resume-now.extole.io
     * reveneer.extole.io
     * revzilla.extole.io
-    * rewards-dailypay.em.extole.io
     * riley-rose.extole.io
     * rio-grande-credit-union.extole.io
     * robertmondaviwinery.extole.io
@@ -513,6 +511,7 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * starone.extole.io
@@ -544,7 +543,6 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
-    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -559,7 +557,6 @@
     * travelzoo.extole.io
     * truwest.extole.io
     * turbotax.extole.io
-    * turbotax.xtl.extole.io
     * turbotaxdemo.extole.io
     * tweglobal.extole.io
     * twisthair.extole.io
@@ -664,6 +661,7 @@
 | refer.athleta.com | athleta.extole.io |
 | refer.athletawell.com | athleta.extole.io |
 | share.atlasbars.com | atlasbars.extole.io |
+| refer.quantumfiber.com | att.extole.io |
 | share.refer-aveda.ca | aveda-ca.extole.io |
 | share.refer-aveda.co.uk | aveda-uk.extole.io |
 | refer.aveda.com | aveda.extole.io |
@@ -1106,7 +1104,6 @@
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | share.ngfcu.us | ngfcu.extole.io |
-| em8642.notifications.acorns.com | notifications.acorns.em.extole.io |
 | share.nutribullet.com | nutribullet.extole.io |
 | share.nuts.com | nuts.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
@@ -1198,12 +1195,10 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| emxxxx.rent.app | rent.em.extole.io |
 | refer.rent.app | rentapp.extole.io |
 | refer.resume-now.com | resume-now.extole.io |
 | share.reveneer.io | reveneer.extole.io |
 | refer.revzilla.com | revzilla.extole.io |
-| em5230.rewards.dailypay.com | rewards-dailypay.em.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
 | share.riograndecu.org | rio-grande-credit-union.extole.io |
 | refer.roadrunnersports.com | roadrunnersports-ssl.extole.com |
@@ -1263,6 +1258,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.starone.org | starone.extole.io |
@@ -1302,7 +1298,6 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
-| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1322,7 +1317,6 @@
 | refer.truwest.org | truwest.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
 | refer.intuit.com | turbotax.extole.io |
-| xtl._domainkey.turbotax.refer.intuit.com | turbotax.xtl.extole.io |
 | prepod.refer.intuit.com | turbotaxdemo.extole.io |
 | share.beringer.com | tweglobal.extole.io |
 | share.bvwines.com | tweglobal.extole.io |
@@ -1350,6 +1344,7 @@
 | em924.refer.starbucks.com | u82658.wl159.sendgrid.net |
 | em9347.shareus.viktor-rolf.com | u82658.wl159.sendgrid.net |
 | em9523.walmartmoneycard.com | u82658.wl159.sendgrid.net |
+| emxxxx.rent.app | u82658.wl159.sendgrid.net |
 | refer.udemy.com | udemy.extole.io |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
@@ -1398,7 +1393,7 @@
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
 | share.wsecu.org | wsecu.extole.io |
-| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
+| em4504.mail.raf.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |
@@ -1414,6 +1409,7 @@
 | xtl._domainkey.shareus.viktor-rolf.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.soundcloud.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.theory.com | xtl.domainkey.u82658.wl159.sendgrid.net |
+| xtl._domainkey.turbotax.refer.intuit.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.walmartmoneycard.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.zoom.us | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl2._domainkey.dailypay.com | xtl2.domainkey.u82658.wl159.sendgrid.net |

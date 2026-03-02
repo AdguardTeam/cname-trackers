@@ -60,6 +60,10 @@ mefo1.zdf.de
 mkt.usz.ch
 montpalatin.handicap.fr
 pear.youzful-by-ca.fr
+pfhub.petitfute.co.uk
+pfhub.petitfute.com
+pfhub.petitfute.de
+pfhub.petitfute.es
 pilau.oddo-bhf.com
 ponyo.cheriefm.fr
 protys.protys.fr
@@ -83,6 +87,7 @@ ressources.usine-digitale.com
 ressources.usine-nouvelle.com
 rsc.lepoint.fr
 sheeta.nrj-play.fr
+srza.sarenza.com
 st1.lg.avendrealouer.fr
 stiwa.test.de
 strawberry.basf.ca

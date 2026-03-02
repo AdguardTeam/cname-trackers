@@ -69,6 +69,7 @@
     * h-32rts1pk.online-metrix.net
     * h-3375wwy7.online-metrix.net
     * h-34mvnza6-2.online-metrix.net
+    * h-34mvnza6-luckxpress.online-metrix.net
     * h-35y9sib5-2.online-metrix.net
     * h-35y9sib5.online-metrix.net
     * h-383psqtv.online-metrix.net
@@ -210,6 +211,7 @@
     * h-92cpkbn2.online-metrix.net
     * h-92z7am36.online-metrix.net
     * h-94b5bk32.online-metrix.net
+    * h-95wu5ag1.online-metrix.net
     * h-96ch0zc2.online-metrix.net
     * h-96clh8g7.online-metrix.net
     * h-96eziru5.online-metrix.net
@@ -890,6 +892,7 @@
 | cnt.dllpayment.com | h-1l9wdiww.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
 | fulfillment-ups.squareup.com | h-1lsdhefu.online-metrix.net |
+| t.openbankpay.com | h-1ngztxrl.online-metrix.net |
 | t.zinia.com | h-1ngztxrl.online-metrix.net |
 | content.nycers.org | h-1qbwo7fx.online-metrix.net |
 | prod-acutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1013,6 +1016,7 @@
 | cim-idc-cdn.account.bcbsnm.com | h-2xb5ezda.online-metrix.net |
 | cim-idc-cdn.account.bcbsok.com | h-2xb5ezda.online-metrix.net |
 | cim-idc-cdn.account.bcbstx.com | h-2xb5ezda.online-metrix.net |
+| cim-idc-cdn.account.hcsc.net | h-2xb5ezda.online-metrix.net |
 | cim-idc-cdn.account.wellontarget.com | h-2xb5ezda.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | validacion.rayo.com.co | h-2yf5pvfu.online-metrix.net |
@@ -1023,6 +1027,7 @@
 | secure.freshbooks.com | h-32rts1pk.online-metrix.net |
 | login-verification.dol.ct.gov | h-3375wwy7.online-metrix.net |
 | d0796fef.monkeyspins.com | h-34mvnza6-2.online-metrix.net |
+| lsdpdp.luckxpress.com | h-34mvnza6-luckxpress.online-metrix.net |
 | id.charge-auth.com | h-35y9sib5-2.online-metrix.net |
 | id.solidgate.com | h-35y9sib5.online-metrix.net |
 | session.fhlb.com | h-383psqtv.online-metrix.net |
@@ -1199,6 +1204,7 @@
 | info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
 | info.jackpotcity.co.za | h-7v30y901.online-metrix.net |
 | info.jackpotcitycasino.co.tz | h-7v30y901.online-metrix.net |
+| info.jackpotcitycasino.com.gh | h-7v30y901.online-metrix.net |
 | info.jackpotcitycasino.mw | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
 | tm.tbcbusiness.uz | h-7xy7wvmp.online-metrix.net |
@@ -1244,6 +1250,7 @@
 | regstat.skycasino.com | h-94b5bk32.online-metrix.net |
 | regstat.skypoker.com | h-94b5bk32.online-metrix.net |
 | regstat.skyvegas.com | h-94b5bk32.online-metrix.net |
+| ufc.vanguardinvestor.co.uk | h-95wu5ag1.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | afm.alphatick.com | h-96eziru5.online-metrix.net |
@@ -1265,6 +1272,7 @@
 | afm.startrader.asia | h-96eziru5.online-metrix.net |
 | afm.startrader.com | h-96eziru5.online-metrix.net |
 | afm.startrader.live | h-96eziru5.online-metrix.net |
+| afm.startrader.online | h-96eziru5.online-metrix.net |
 | afm.startrader.plus | h-96eziru5.online-metrix.net |
 | afm.startraderasia.com | h-96eziru5.online-metrix.net |
 | afm.startraderfr.com | h-96eziru5.online-metrix.net |
@@ -1277,9 +1285,11 @@
 | afm.startradervn.net | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
 | afm.strmarketing.net | h-96eziru5.online-metrix.net |
+| afm.strpro.me | h-96eziru5.online-metrix.net |
 | afm.ultima-markets.com | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.asia | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.com | h-96eziru5.online-metrix.net |
+| afm.ultimamarkets.net | h-96eziru5.online-metrix.net |
 | afm.ultimamarketsglobal.com | h-96eziru5.online-metrix.net |
 | afm.ultimamkts.com | h-96eziru5.online-metrix.net |
 | afm.umtradings.com | h-96eziru5.online-metrix.net |
@@ -1461,6 +1471,7 @@
 | srv.squaretrade.eu | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.fi | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.hu | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.lu | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.nl | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.no | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.pt | h-b6te0xmf.online-metrix.net |

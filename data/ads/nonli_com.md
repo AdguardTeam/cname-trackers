@@ -96,6 +96,7 @@
 | l.contexte.com | tls.non.li |
 | l.courrier-picard.fr | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
+| l.cuisinezauquotidien.com | tls.non.li |
 | l.dailysports.fr | tls.non.li |
 | l.diapasonmag.fr | tls.non.li |
 | l.directoalpaladar.com | tls.non.li |
@@ -205,6 +206,7 @@
 | l.lexpress.fr | tls.non.li |
 | l.lhebdoduvendredi.com | tls.non.li |
 | l.liberation-champagne.fr | tls.non.li |
+| l.liberation.fr | tls.non.li |
 | l.lindependant.fr | tls.non.li |
 | l.linfoauquotidien.com | tls.non.li |
 | l.linsoliteauquotidien.com | tls.non.li |
@@ -275,6 +277,7 @@
 | l.sensacine.com.mx | tls.non.li |
 | l.sportauto.fr | tls.non.li |
 | l.sports.fr | tls.non.li |
+| l.stampa-paese.com | tls.non.li |
 | l.sudinfo.be | tls.non.li |
 | l.sudouest.fr | tls.non.li |
 | l.supersoluce.com | tls.non.li |

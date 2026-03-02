@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,6 +71,10 @@ mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 montpalatin.handicap.fr CNAME .
 pear.youzful-by-ca.fr CNAME .
+pfhub.petitfute.co.uk CNAME .
+pfhub.petitfute.com CNAME .
+pfhub.petitfute.de CNAME .
+pfhub.petitfute.es CNAME .
 pilau.oddo-bhf.com CNAME .
 ponyo.cheriefm.fr CNAME .
 protys.protys.fr CNAME .
@@ -94,6 +98,7 @@ ressources.usine-digitale.com CNAME .
 ressources.usine-nouvelle.com CNAME .
 rsc.lepoint.fr CNAME .
 sheeta.nrj-play.fr CNAME .
+srza.sarenza.com CNAME .
 st1.lg.avendrealouer.fr CNAME .
 stiwa.test.de CNAME .
 strawberry.basf.ca CNAME .

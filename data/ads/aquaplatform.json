@@ -1,4 +1,5 @@
 {
+  "adamsads-static.midtc.com": "midtc-static.aquaplatform.com",
   "adamsads.midtc.com": "midtc4-delivery.aquaplatform.com",
   "adconsole.bidspotter.co.uk": "proxibid-console.aquaplatform.com",
   "adconsole.eva.live": "revivehosted-console.aquaplatform.com",
@@ -121,6 +122,7 @@
   "creatives.goldseek.com": "goldseek-static.aquaplatform.com",
   "delivery.ads.fantasanremo.com": "fsr-delivery.aquaplatform.com",
   "display.lawbulletin.com": "lawbulletin-delivery.aquaplatform.com",
+  "edgeadserver-delivery.reviveservers.com": "platformiq-del.aquaplatform.com",
   "etnomedia-static.reviveservers.com": "platformiq-cdn.aquaplatform.com",
   "images.addurance.com": "platformiq-cdn.aquaplatform.com",
   "images.cavalier-romand.ch": "romand-static.aquaplatform.com",
@@ -257,6 +259,7 @@
   "veenmedia-ads.reviveservers.com": "platformiq-del.aquaplatform.com",
   "webtool-delivery.reviveservers.com": "platformiq-del.aquaplatform.com",
   "www.adconsole.proxibid.com": "proxibid-console.aquaplatform.com",
+  "www.adconsole.the-saleroom.com": "proxibid-console.aquaplatform.com",
   "www.adimages.infotorg.se": "platformiq-cdn.aquaplatform.com",
   "www.ads.environmentalleader.com": "el-delivery.aquaplatform.com",
   "www.ads.proxibid.com": "proxibid-delivery.aquaplatform.com",

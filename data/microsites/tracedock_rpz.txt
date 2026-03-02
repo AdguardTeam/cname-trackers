@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,8 +11,6 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-agent.ap1.devel1ess.oohmediaomseooohmedialient.ap1.devel1ess-core.status-oohmediaomseooohmediaessseops.ap1.devel1ess.devel1ess-enoohmediarypted.devel1ess.oohmediaomseooohmediaessseops.devel1ess.onfluence-lab.agent.ap1.datadoghq.com CNAME .
-drive-agent.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediaessprofiles.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediaessprofiles.datadoghq.comproduction.agent.ap1.datadoghq.com CNAME .
 0.ads.tremorhub.com CNAME .
 031kr-72z7z.ads.tremorhub.com CNAME .
 031kr-rwlpf.ads.tremorhub.com CNAME .
@@ -638,22 +636,16 @@ z5xjpv2gdo3atep-c.adktrack11.xyz CNAME .
 100001577.collect.igodigital.com CNAME .
 100001623.collect.igodigital.com CNAME .
 100001625.collect.igodigital.com CNAME .
-100001734.collect.igodigital.com CNAME .
 100001960.collect.igodigital.com CNAME .
-100002008.collect.igodigital.com CNAME .
 100002017.collect.igodigital.com CNAME .
 100002040.collect.igodigital.com CNAME .
 100002105.collect.igodigital.com CNAME .
 100002111.collect.igodigital.com CNAME .
 100002114.collect.igodigital.com CNAME .
 100002141.collect.igodigital.com CNAME .
-100002287.collect.igodigital.com CNAME .
 100002307.collect.igodigital.com CNAME .
 100002413.collect.igodigital.com CNAME .
-100002416.collect.igodigital.com CNAME .
-100002507.collect.igodigital.com CNAME .
 100002515.collect.igodigital.com CNAME .
-100002576.collect.igodigital.com CNAME .
 100002656.collect.igodigital.com CNAME .
 100002715.collect.igodigital.com CNAME .
 100002718.collect.igodigital.com CNAME .
@@ -665,12 +657,8 @@ z5xjpv2gdo3atep-c.adktrack11.xyz CNAME .
 100003000.collect.igodigital.com CNAME .
 100003037.collect.igodigital.com CNAME .
 100003063.collect.igodigital.com CNAME .
-100003081.collect.igodigital.com CNAME .
-100003086.collect.igodigital.com CNAME .
-100003089.collect.igodigital.com CNAME .
 100003141.collect.igodigital.com CNAME .
 100003147.collect.igodigital.com CNAME .
-100003215.collect.igodigital.com CNAME .
 100003216.collect.igodigital.com CNAME .
 100003270.collect.igodigital.com CNAME .
 100003273.collect.igodigital.com CNAME .
@@ -946,6 +934,16 @@ z5xjpv2gdo3atep-c.adktrack11.xyz CNAME .
 8200011.collect.igodigital.com CNAME .
 perryellis.collect.igodigital.com CNAME .
 therealreal.collect.igodigital.com CNAME .
+100001734.collect.igodigital.com CNAME .
+100002008.collect.igodigital.com CNAME .
+100002287.collect.igodigital.com CNAME .
+100002416.collect.igodigital.com CNAME .
+100002507.collect.igodigital.com CNAME .
+100002576.collect.igodigital.com CNAME .
+100003081.collect.igodigital.com CNAME .
+100003086.collect.igodigital.com CNAME .
+100003089.collect.igodigital.com CNAME .
+100003215.collect.igodigital.com CNAME .
 100002077.collect.igodigital.com CNAME .
 100003302.collect.igodigital.com CNAME .
 100009050.collect.igodigital.com CNAME .
@@ -998,6 +996,8 @@ mads.shfinx.com CNAME .
 t-ads.tttieplxuh.com CNAME .
 ui-mkt-api.mangacoin.net CNAME .
 ui-mkt-api.mxlaand.com CNAME .
+agent.ap1.devel1ess.oohmediaomseooohmedialient.ap1.devel1ess-core.status-oohmediaomseooohmediaessseops.ap1.devel1ess.devel1ess-enoohmediarypted.devel1ess.oohmediaomseooohmediaessseops.devel1ess.onfluence-lab.agent.ap1.datadoghq.com CNAME .
+drive-agent.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediaessprofiles.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediaessprofiles.datadoghq.comproduction.agent.ap1.datadoghq.com CNAME .
 analytics-ari-nfl.yinzcam.com CNAME .
 analytics-atx-mls.yinzcam.com CNAME .
 analytics-bkn-nba.yinzcam.com CNAME .

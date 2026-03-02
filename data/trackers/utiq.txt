@@ -87,6 +87,7 @@
 ||utiq.cnetfrance.fr^
 ||utiq.codebuild.ovh^
 ||utiq.come-on.de^
+||utiq.commentcamarche.com^
 ||utiq.commentcamarche.net^
 ||utiq.compradiccion.com^
 ||utiq.computerbild.de^
@@ -120,6 +121,7 @@
 ||utiq.dzfoot.com^
 ||utiq.easyvoyage.com^
 ||utiq.eatbetter.de^
+||utiq.edcom.fr^
 ||utiq.einbuergerungstest-online.de^
 ||utiq.einbuergerungstest-online.eu^
 ||utiq.einfach-tasty.de^
@@ -133,6 +135,7 @@
 ||utiq.eldiario.es^
 ||utiq.eldiariomontanes.es^
 ||utiq.eleconomista.es^
+||utiq.elespanol.com^
 ||utiq.elmueble.com^
 ||utiq.elmundo.es^
 ||utiq.elnacional.cat^
@@ -263,6 +266,7 @@
 ||utiq.leonoticias.com^
 ||utiq.lepopulaire.fr^
 ||utiq.lepopulaire.fr.cdn.cloudflare.net^
+||utiq.lesmobiles.com^
 ||utiq.lesnumeriques.com^
 ||utiq.lest-eclair.fr^
 ||utiq.letelegramme.fr^

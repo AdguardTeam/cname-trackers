@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ afm.puprime.online CNAME .
 afm.startrader.asia CNAME .
 afm.startrader.com CNAME .
 afm.startrader.live CNAME .
+afm.startrader.online CNAME .
 afm.startrader.plus CNAME .
 afm.startraderasia.com CNAME .
 afm.startraderfr.com CNAME .
@@ -60,9 +61,11 @@ afm.startraders58.com CNAME .
 afm.startradervn.net CNAME .
 afm.sthub.cc CNAME .
 afm.strmarketing.net CNAME .
+afm.strpro.me CNAME .
 afm.ultima-markets.com CNAME .
 afm.ultimamarkets.asia CNAME .
 afm.ultimamarkets.com CNAME .
+afm.ultimamarkets.net CNAME .
 afm.ultimamarketsglobal.com CNAME .
 afm.ultimamkts.com CNAME .
 afm.umtradings.com CNAME .
@@ -274,6 +277,7 @@ cim-idc-cdn.account.bcbsmt.com CNAME .
 cim-idc-cdn.account.bcbsnm.com CNAME .
 cim-idc-cdn.account.bcbsok.com CNAME .
 cim-idc-cdn.account.bcbstx.com CNAME .
+cim-idc-cdn.account.hcsc.net CNAME .
 cim-idc-cdn.account.test.bcbsok.com CNAME .
 cim-idc-cdn.account.wellontarget.com CNAME .
 claimant.vec.virginia.gov CNAME .
@@ -729,6 +733,7 @@ info.betway.ng CNAME .
 info.betwaypartnersafrica.com CNAME .
 info.jackpotcity.co.za CNAME .
 info.jackpotcitycasino.co.tz CNAME .
+info.jackpotcitycasino.com.gh CNAME .
 info.jackpotcitycasino.mw CNAME .
 insights.hastingsdirectloans.com CNAME .
 intl.payu.in CNAME .
@@ -780,6 +785,7 @@ ls-dp.nj.thelotter.us CNAME .
 ls-dp.ny.thelotter.us CNAME .
 ls-dp.or.thelotter.us CNAME .
 lsdp.lotto.com CNAME .
+lsdpdp.luckxpress.com CNAME .
 lspr.luckycasino.ca CNAME .
 lsprof.comeon.com CNAME .
 lsr22.dzing.finance CNAME .
@@ -1075,6 +1081,7 @@ srv.squaretrade.es CNAME .
 srv.squaretrade.eu CNAME .
 srv.squaretrade.fi CNAME .
 srv.squaretrade.hu CNAME .
+srv.squaretrade.lu CNAME .
 srv.squaretrade.nl CNAME .
 srv.squaretrade.no CNAME .
 srv.squaretrade.pt CNAME .
@@ -1101,6 +1108,7 @@ t.aldi-mobile.ch CNAME .
 t.chmobile.ch CNAME .
 t.lebara.ch CNAME .
 t.liberty.com.au CNAME .
+t.openbankpay.com CNAME .
 t.sunrise.ch CNAME .
 t.us.williamhill.com CNAME .
 t.wepay.com CNAME .
@@ -1342,6 +1350,7 @@ uat.cmprofile.cards.citidirect.com CNAME .
 ucfs.sendpro360.pitneybowes.com CNAME .
 ucfs.sendpro360.pitneycloud.com CNAME .
 ucfs.shipping360.pitneybowes.com CNAME .
+ufc.vanguardinvestor.co.uk CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .

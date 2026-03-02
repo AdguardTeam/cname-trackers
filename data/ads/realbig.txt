@@ -32,7 +32,6 @@
 ||push.rabbit.click^
 ||pushche.rabbit.click^
 ||rb.crimeagc.com^
-||rb.mnogodiva.ru^
 ||rb.slova-accordy.ru^
 ||rb.umspecrek.ru^
 ||rbfour.bid^
@@ -54,7 +53,6 @@
 ||www.androidstores.ru^
 ||www.fasder12.ru^
 ||www.iskustvenny-intellekt.ru^
-||www.orbitnotify.com^
 ||www.prbcdn.online^
 ||www.procarsharing.store^
 ||www.pushrb.pro^

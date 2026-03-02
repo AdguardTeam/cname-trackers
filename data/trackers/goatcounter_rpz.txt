@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -91,6 +91,7 @@ stats.apitman.com CNAME .
 stats.artero.dev CNAME .
 stats.artur-rodrigues.com CNAME .
 stats.benjaminmorris.com CNAME .
+stats.bestasciitable.com CNAME .
 stats.beyondthesprawl.com CNAME .
 stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
@@ -152,6 +153,7 @@ stats.pttrn.io CNAME .
 stats.pvme.omg.lol CNAME .
 stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .
+stats.realestate.if.ua CNAME .
 stats.realestate.kyiv.ua CNAME .
 stats.rezhajul.io CNAME .
 stats.risanne.nl CNAME .

@@ -17,6 +17,7 @@
 | a3.hotpornfile.org | api.clickaine.com |
 | a4.hotpornfile.org | api.clickaine.com |
 | aabclkane.bachelorarchive.com | api.clickaine.com |
+| add.luffy.my.id | api.clickaine.com |
 | ads.imgdesu.art | api.clickaine.com |
 | ads.luffy.my.id | api.clickaine.com |
 | adsv.cki.name | api.clickaine.com |
@@ -45,7 +46,6 @@
 | cc.histoires-de-sexe.club | api.clickaine.com |
 | cc.relatoseroticos-gratis.com | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
-| cc.sexgeschichten-kostenlos.com | api.clickaine.com |
 | cc.sexgeschichten-xxx.com | api.clickaine.com |
 | cc2.camcaps.io | api.clickaine.com |
 | cdn1.memojav.com | api.clickaine.com |
@@ -68,7 +68,6 @@
 | ddd.sexstories69.com | api.clickaine.com |
 | dfx.xtapes.porn | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
-| excavajo11.gimmeporn.xyz | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
 | get.xclick24.com | api.clickaine.com |

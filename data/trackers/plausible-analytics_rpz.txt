@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -122,7 +122,6 @@ pa-stats.encore.dev CNAME .
 pa.opqr.co CNAME .
 ping.naturadapt.com CNAME .
 ping.resoluteoil.com CNAME .
-pl.1feed.app CNAME .
 pl.astro-akatemia.fi CNAME .
 pl.astro.fi CNAME .
 pl.carbon-tab.ethan.link CNAME .
@@ -185,7 +184,6 @@ plausible.holderbaum-academy.de CNAME .
 plausible.hopecanebay.com CNAME .
 plausible.ionicelements.dev CNAME .
 plausible.joinself.com CNAME .
-plausible.k6sbw.net CNAME .
 plausible.kabaret.no CNAME .
 plausible.kdojang.com CNAME .
 plausible.lesbianromantic.com CNAME .
@@ -215,7 +213,6 @@ plausible.tac.dappstar.io CNAME .
 plausible.thefutureoftheworkplacebook.com CNAME .
 plausible.tlschedule.com CNAME .
 plausible.treelightsoftware.com CNAME .
-plausible.urbanekuensteruhr.de CNAME .
 plausible.veszelovszki.com CNAME .
 plausible.wordstamped.com CNAME .
 plausible.yalepaprika.com CNAME .
@@ -392,7 +389,6 @@ stats.deerpark.app CNAME .
 stats.deja-lu.de CNAME .
 stats.depends-on-the-definition.com CNAME .
 stats.develop.wwdcscholars.com CNAME .
-stats.devenet.info CNAME .
 stats.devetkomentara.net CNAME .
 stats.devrain.io CNAME .
 stats.devskills.co CNAME .
@@ -794,6 +790,7 @@ visitorcenter.ioafw.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.asadis.net CNAME .
 visitors.gigianddavid.com CNAME .
+vitals.cgddrd.me CNAME .
 we-love-privacy.humane.club CNAME .
 webstats.bijenpatel.com CNAME .
 yolo.philipbjorge.com CNAME .

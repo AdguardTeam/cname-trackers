@@ -26,9 +26,11 @@
 | ad-serving.iocreate.cloud | serving.stat-rock.com |
 | adserving.menatech.net | serving.stat-rock.com |
 | cdn33.protagcdn.com | serving.stat-rock.com |
+| player.collectiveaudience.co | serving.stat-rock.com |
 | player.urdupoint.com | serving.stat-rock.com |
 | serving.ausdoc.com.au | serving.stat-rock.com |
 | serving.datawrkz.com | serving.stat-rock.com |
+| serving.felixads.com | serving.stat-rock.com |
 | serving.grapemedia.cz | serving.stat-rock.com |
 | serving.greeter.lat | serving.stat-rock.com |
 | serving.laimroll.ru | serving.stat-rock.com |

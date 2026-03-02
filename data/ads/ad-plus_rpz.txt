@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,10 +24,12 @@ dashboard.entravision.com CNAME .
 dashboard.grapemedia.cz CNAME .
 dashboard.viewtraff.com CNAME .
 dashboard.xqubemedia.com CNAME .
+player.collectiveaudience.co CNAME .
 player.resonance.pk CNAME .
 player.urdupoint.com CNAME .
 serving.ausdoc.com.au CNAME .
 serving.datawrkz.com CNAME .
+serving.felixads.com CNAME .
 serving.grapemedia.cz CNAME .
 serving.greeter.lat CNAME .
 serving.laimroll.ru CNAME .

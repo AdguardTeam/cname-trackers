@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ a.weareknitters.dk CNAME .
 a.weareknitters.es CNAME .
 a.weareknitters.fr CNAME .
 a.weareknitters.it CNAME .
+a.weareknitters.nl CNAME .
 a.weareknitters.no CNAME .
 a.weareknitters.pl CNAME .
 a.weareknitters.se CNAME .
@@ -54,6 +55,7 @@ ar.allrun.fr CNAME .
 ar.i-run.fr CNAME .
 avlr.pincettemtl.com CNAME .
 axb4.vivabox.it CNAME .
+b1n.carabins.umontreal.ca CNAME .
 ba6b45do.eulerian.io CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
@@ -85,6 +87,7 @@ ct.creditec.fr CNAME .
 ct5m.citadium.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
+d2u.dauphinquebec.com CNAME .
 d62e9cfa.eulerian.io CNAME .
 da85edd2.eulerian.io CNAME .
 de48cadb.eulerian.io CNAME .
@@ -109,6 +112,7 @@ ea.camping-and-co.com CNAME .
 ea.carrefour.com CNAME .
 ea.castorama.fr CNAME .
 ea.catimini-boutique.com CNAME .
+ea.catimini.com CNAME .
 ea.ciblo.net CNAME .
 ea.coffrefortplus.com CNAME .
 ea.dcshoes-europe.com CNAME .
@@ -121,6 +125,7 @@ ea.evaway.com CNAME .
 ea.fleurancenature.com CNAME .
 ea.fleurancenature.fr CNAME .
 ea.francoisesaget.be CNAME .
+ea.francoisesaget.com CNAME .
 ea.greenweez.co.uk CNAME .
 ea.greenweez.com CNAME .
 ea.greenweez.de CNAME .
@@ -186,12 +191,10 @@ efbdcd3b.eulerian.io CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 erdi.vacations.united.com CNAME .
 ert5.rmcsport.tv CNAME .
 et.futuroscope.com CNAME .
 et.sncf.com CNAME .
-et1.eulerian.io CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
 eule4.pmu.fr CNAME .
@@ -254,6 +257,7 @@ fvmw.maggieoakes.com CNAME .
 fzb5.laboratoire-giphar.fr CNAME .
 fze8.carrefour-banque.fr CNAME .
 g1be.swisslife-direct.fr CNAME .
+gc72o423.eulerian.io CNAME .
 gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
@@ -269,6 +273,7 @@ hby7.destinia.it CNAME .
 hcbh4bah.eulerian.io CNAME .
 hde1.repentignychevrolet.com CNAME .
 hgf4.zanzicar.fr CNAME .
+hk2d.tourismemauricie.com CNAME .
 hsae.beachbound.com CNAME .
 idg1.idgarages.com CNAME .
 igc0.destinia.at CNAME .
@@ -297,6 +302,7 @@ lwh1.carrefour-banque.fr CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
 m3ds.subarumetropolitain.com CNAME .
+mail.eulerian.io CNAME .
 mi.miliboo.be CNAME .
 mi.miliboo.ch CNAME .
 mi.miliboo.co.uk CNAME .
@@ -324,6 +330,7 @@ nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nqsm.medicus.ca CNAME .
 nrg.red-by-sfr.fr CNAME .
+nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o35e79f2.eulerian.io CNAME .
 o68c.sfr.fr CNAME .
@@ -356,6 +363,7 @@ pda7.placedesarts.com CNAME .
 pgt1.voyage-prive.es CNAME .
 piq4.inseec.education CNAME .
 pjh7.us.chantelle.com CNAME .
+pk1u.melanielyne.com CNAME .
 pkc5.hardrockhoteltenerife.com CNAME .
 pm.pmu.fr CNAME .
 po.ponant.com CNAME .
@@ -390,6 +398,7 @@ rmp4.destinia.uy CNAME .
 rqnn.funjet.com CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
+ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
 sa.skoda.fr CNAME .
@@ -408,12 +417,12 @@ sr.mistermenuiserie.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
-su1.les-suites.ca CNAME .
 sxbj.gasparmtl.com CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.fr CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
+t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -454,6 +463,7 @@ vnl1.voyage-prive.nl CNAME .
 vpl.voyage-prive.pl CNAME .
 vry9.destinia.com CNAME .
 wbfb.espacevieuxport.com CNAME .
+whof.spawilliamgray.com CNAME .
 wlp3.aegon.es CNAME .
 wnd2.destinia.cat CNAME .
 wph2.destinia.us CNAME .
@@ -488,19 +498,14 @@ zrw1.destinia.jp CNAME .
 zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 5fm.985fm.ca CNAME .
-b1n.carabins.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
-d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
-hk2d.tourismemauricie.com CNAME .
+erb.tremblant.ca CNAME .
 l2i.qualityinnlevis.com CNAME .
 nym5c.bonlook.com CNAME .
 rwl.tremblant.ca CNAME .
-ry0.rythmefm.com CNAME .
-t0y.toyota.ca CNAME .
+su1.les-suites.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
-nym5c.laura.ca CNAME .
-pk1u.melanielyne.com CNAME .

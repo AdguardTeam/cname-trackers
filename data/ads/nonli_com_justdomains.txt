@@ -67,6 +67,7 @@ l.compradiccion.com
 l.contexte.com
 l.courrier-picard.fr
 l.cuisineactuelle.fr
+l.cuisinezauquotidien.com
 l.dailysports.fr
 l.diapasonmag.fr
 l.directoalpaladar.com
@@ -178,6 +179,7 @@ l.lexpress.eu
 l.lexpress.fr
 l.lhebdoduvendredi.com
 l.liberation-champagne.fr
+l.liberation.fr
 l.lindependant.fr
 l.linfoauquotidien.com
 l.linsoliteauquotidien.com
@@ -252,6 +254,7 @@ l.sensacine.com
 l.sensacine.com.mx
 l.sportauto.fr
 l.sports.fr
+l.stampa-paese.com
 l.sudinfo.be
 l.sudouest.fr
 l.supersoluce.com

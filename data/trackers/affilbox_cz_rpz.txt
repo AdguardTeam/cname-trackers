@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -149,7 +149,6 @@ affiliate.easyproject.com CNAME .
 affiliate.easyproject.cz CNAME .
 affiliate.easyredmine.com CNAME .
 affiliate.easysoftware.com CNAME .
-affiliate.ehotel.cz CNAME .
 affiliate.elektronickeobojkypropsy.cz CNAME .
 affiliate.elisdesign.cz CNAME .
 affiliate.elitedate.eu CNAME .
@@ -172,7 +171,6 @@ affiliate.fotopasti-bunaty.cz CNAME .
 affiliate.geoweb.easy.cz CNAME .
 affiliate.golfplan.org CNAME .
 affiliate.growmarket.cz CNAME .
-affiliate.hanibal.cz CNAME .
 affiliate.herbadent.cz CNAME .
 affiliate.hokr.eu CNAME .
 affiliate.ihrelinsen.at CNAME .
@@ -257,6 +255,7 @@ affiliate.svarecky-obchod.cz CNAME .
 affiliate.svetbot.cz CNAME .
 affiliate.t6power.cz CNAME .
 affiliate.tajomstvozenskejprosperity.sk CNAME .
+affiliate.talkey.com CNAME .
 affiliate.terarijni-potreby.cz CNAME .
 affiliate.topol.io CNAME .
 affiliate.ucetni-portal.cz CNAME .
@@ -341,7 +340,6 @@ my.top4fitness.hu CNAME .
 my.top4fitness.it CNAME .
 my.top4fitness.pl CNAME .
 my.top4fitness.pt CNAME .
-my.top4fitness.ro CNAME .
 my.top4fitness.sk CNAME .
 my.top4football.de CNAME .
 my.top4football.es CNAME .
@@ -944,6 +942,7 @@ spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .
 spoluprace.cistapohoda.cz CNAME .
+spoluprace.congrady.eu CNAME .
 spoluprace.eroticstore.cz CNAME .
 spoluprace.fotozde.cz CNAME .
 spoluprace.galaxy.cz CNAME .
@@ -951,6 +950,7 @@ spoluprace.gprooms.eu CNAME .
 spoluprace.h2world.store CNAME .
 spoluprace.hyla.cz CNAME .
 spoluprace.imagemakersforyou.cz CNAME .
+spoluprace.inkahome.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .
 spoluprace.kabefarben.cz CNAME .
 spoluprace.luxusnipradlo.cz CNAME .

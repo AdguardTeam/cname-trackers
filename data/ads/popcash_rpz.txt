@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -721,7 +721,6 @@ otter.preferredequineonline.com CNAME .
 owl.gregwolanski.com CNAME .
 owl.gymme.nl CNAME .
 owl.heidipay.com CNAME .
-owl.indigenoushiphopawards.com CNAME .
 owl.sentrydiscord.dev CNAME .
 ox.first-law.com CNAME .
 ox.ines-papert.de CNAME .
@@ -811,7 +810,6 @@ reindeer.cablemod.com CNAME .
 reindeer.iainbroome.com CNAME .
 reindeer.pablomaceda.com CNAME .
 reptile.o-lit.fr CNAME .
-reptile.sat.trading CNAME .
 rhinoceros.codeagain.com CNAME .
 rhinoceros.krieger.io CNAME .
 rhinoceros.valeriaborgese.it CNAME .
@@ -832,6 +830,7 @@ sailfish.kentcdodds.com CNAME .
 sailfish.the-psychedelicatessen.com CNAME .
 sailfish.youracademycommunity.com CNAME .
 salamander.augmentedmind.io CNAME .
+salamander.gimbal.st CNAME .
 salamander.showandtelldata.com CNAME .
 salamander.yourownpay.com CNAME .
 salmon.cedricreeves.com CNAME .
@@ -907,7 +906,6 @@ swordfish.lorem.industries CNAME .
 swordfish.mattpreston.io CNAME .
 swordtail.hnh.digital CNAME .
 swordtail.rockface.io CNAME .
-swordtail.thocstock.com CNAME .
 t0ikowg7jg.serverlesslaravelcourse.com CNAME .
 tahr.componentsui.com CNAME .
 tahr.happydev.fm CNAME .
@@ -915,7 +913,6 @@ tahr.rasen.dev CNAME .
 takin.cors.digital CNAME .
 takin.revolana.fr CNAME .
 tapir.albertaguardtraining.ca CNAME .
-tapir.lindahlstudios.com CNAME .
 tarantula.emotionalbaking.com CNAME .
 tarantula.searchbox.tech CNAME .
 tarantula.tuxedo.media CNAME .
@@ -1028,6 +1025,7 @@ community.noozhawk.com CNAME .
 community.richlandsource.com CNAME .
 connected.ashrae.org CNAME .
 connected.county10.com CNAME .
+daily.abasto.com CNAME .
 daily.schoolsweek.co.uk CNAME .
 daily.thezebra.org CNAME .
 daily.yubanet.com CNAME .
@@ -1083,6 +1081,7 @@ adserve.bongocdn.com CNAME .
 assets.diagomics.com CNAME .
 bcdn.cpmstar.com CNAME .
 cache.myth.dev CNAME .
+cdn.myth.dev CNAME .
 cdn-b.notsy.io CNAME .
 cdn.admatic.com.tr CNAME .
 cdn.adsninja.ca CNAME .

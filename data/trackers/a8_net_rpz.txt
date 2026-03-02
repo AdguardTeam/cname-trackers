@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,7 +17,6 @@ a8-affiliate.kase3535.com CNAME .
 a8-cv.lean-body.jp CNAME .
 a8-hoiku.mama-9jin.com CNAME .
 a8-itp.qoo10.jp CNAME .
-a8-kouten.kouten.work CNAME .
 a8-mamacareer.mama-9jin.com CNAME .
 a8-per-sonal.per-sonal.co.jp CNAME .
 a8-printing.ink-revolution.com CNAME .
@@ -102,6 +101,7 @@ a8.dymtech.jp CNAME .
 a8.earth-shiho.com CNAME .
 a8.earthwater-cayenne.com CNAME .
 a8.efax.co.jp CNAME .
+a8.eigoba.com CNAME .
 a8.eigox.jp CNAME .
 a8.elife.clinic CNAME .
 a8.emeao.jp CNAME .
@@ -362,7 +362,6 @@ a8.www.melonbooks.co.jp CNAME .
 a8.www.nicosuma.com CNAME .
 a8.www.retrospect.co.jp CNAME .
 a8.www.seesaa.co.jp CNAME .
-a8.www.suaoki.jp CNAME .
 a8.xn--38jf6c4pa86a1dv833cexrb.com CNAME .
 a8.xn--google-873exa8m6161dbbyb.net CNAME .
 a8.xn--y8jd4aybzqd.jp CNAME .
@@ -436,7 +435,6 @@ a8clk.buyking.club CNAME .
 a8clk.camerakaitori.jp CNAME .
 a8clk.campaigns.kaitori-premium.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
-a8clk.car-auc.jp CNAME .
 a8clk.car-mo.jp CNAME .
 a8clk.carbattery110.com CNAME .
 a8clk.career.prismy.jp CNAME .
@@ -517,7 +515,6 @@ a8clk.golf-kace.com CNAME .
 a8clk.grandg.com CNAME .
 a8clk.grirose.jp CNAME .
 a8clk.gurutas.jp CNAME .
-a8clk.guruyaku.jp CNAME .
 a8clk.hags-ec.com CNAME .
 a8clk.hikakaku.com CNAME .
 a8clk.hikarinobe.com CNAME .
@@ -1511,7 +1508,6 @@ cv.liability.jp CNAME .
 cv.loca-site.com CNAME .
 cv.mamaikuko.jp CNAME .
 cv.meo.tryhatch.co.jp CNAME .
-cv.min-kurumaya.com CNAME .
 cv.mupla-ab3.com CNAME .
 cv.my-lancul.com CNAME .
 cv.nell.life CNAME .

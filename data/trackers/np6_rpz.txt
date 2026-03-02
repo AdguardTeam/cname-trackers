@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1771833627034        ; Serial
+           1772438427296        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -587,6 +587,7 @@ tr.infos.afpa.fr CNAME .
 tr.infos.allianz-trade.com CNAME .
 tr.infos.ariase.com CNAME .
 tr.infos.boursobank.info CNAME .
+tr.infos.bpaura.banquepopulaire.fr CNAME .
 tr.infos.enerplus-bordeaux.fr CNAME .
 tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
@@ -661,7 +662,6 @@ tr.mail.vipmag.fr CNAME .
 tr.mail.vo3000.com CNAME .
 tr.mail1.macif.fr CNAME .
 tr.mail306.com CNAME .
-tr.mailatia.com CNAME .
 tr.mailing.associationici.fr CNAME .
 tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
@@ -1018,9 +1018,7 @@ tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
 tr.pro.myhomeflowercampings.com CNAME .
-tr.pro.odalys-campus.com CNAME .
 tr.pro.odalys-vacances.com CNAME .
-tr.pro.residencehappysenior.fr CNAME .
 tr.pro.sgit.net CNAME .
 tr.programme-voyageur-sncf.com CNAME .
 tr.projet.cotemaison.fr CNAME .

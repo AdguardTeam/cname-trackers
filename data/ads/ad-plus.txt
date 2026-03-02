@@ -13,10 +13,12 @@
 ||dashboard.grapemedia.cz^
 ||dashboard.viewtraff.com^
 ||dashboard.xqubemedia.com^
+||player.collectiveaudience.co^
 ||player.resonance.pk^
 ||player.urdupoint.com^
 ||serving.ausdoc.com.au^
 ||serving.datawrkz.com^
+||serving.felixads.com^
 ||serving.grapemedia.cz^
 ||serving.greeter.lat^
 ||serving.laimroll.ru^
