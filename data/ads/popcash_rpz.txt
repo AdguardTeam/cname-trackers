@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -404,7 +404,6 @@ dormouse.consentkit.com CNAME .
 dove.hoku.nz CNAME .
 dragon.codemakes.art CNAME .
 dragon.sh2.com CNAME .
-dragonfly.filmmakerfreedom.com CNAME .
 dragonfly.jala-one.com CNAME .
 eagle.roarfilm.com.au CNAME .
 earthworm.creatifmediagroup.com CNAME .
@@ -445,7 +444,6 @@ felidae.top10partnersuche.ch CNAME .
 ferret.ecvan.io CNAME .
 ferret.firstprogressivechurch.org CNAME .
 ferret.helpspace.com CNAME .
-ferret.itsf.red CNAME .
 ferret.jesper.hk CNAME .
 ferret.linksoftwarellc.com CNAME .
 finch.koronasporing.no CNAME .
@@ -627,7 +625,6 @@ llama.growthinkers.nl CNAME .
 llama.lobbly.com CNAME .
 llama.mallardbay.com CNAME .
 llama.whatcha.io CNAME .
-lobster.justunderwear.com CNAME .
 locust.ausrebellion.earth CNAME .
 loon.analogjoe.com CNAME .
 loon.davidalindahl.com CNAME .
@@ -680,6 +677,7 @@ mongoose.scrumgenius.com CNAME .
 mongoose.thechocolatelife.com CNAME .
 monkey.colinjohnston.com CNAME .
 monkey.compulsivo.co CNAME .
+monkey.tschira-jugendakademie.info CNAME .
 moose.octo.app CNAME .
 mosquito.birbs.art CNAME .
 mosquito.iamamandaperez.com CNAME .
@@ -802,7 +800,6 @@ quokka.joshuawood.net CNAME .
 rabbit.kilowatt.media CNAME .
 rabbit.radicalxchange.org CNAME .
 rabbit.upwardhomes.net CNAME .
-raccoon.jaronheard.com CNAME .
 rat.einfachlebenforum.com CNAME .
 raven.konquadrat.de CNAME .
 raven.omamao.ch CNAME .
@@ -835,7 +832,6 @@ salamander.showandtelldata.com CNAME .
 salamander.yourownpay.com CNAME .
 salmon.cedricreeves.com CNAME .
 salmon.thespiritualpsychologist.co.uk CNAME .
-sawfish.black-forest-digital.de CNAME .
 sawfish.hxd-lab.de CNAME .
 sawfish.loqbooq.app CNAME .
 scallop.esolia.pro CNAME .
@@ -861,7 +857,6 @@ silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
 skunk.gameworkersolidarity.com CNAME .
 smelt.allenpike.com CNAME .
-snake.cybmed.com CNAME .
 snipe.mfaber.at CNAME .
 snipe.mizzuu.co CNAME .
 sole.bkosmetik.com CNAME .
@@ -1048,6 +1043,7 @@ partners.nationalmortgageprofessional.com CNAME .
 partners.seetheworld.com CNAME .
 pnq.babcoxmediainc.com CNAME .
 promote.melangeandco.com CNAME .
+regulation.401kspecialistmag.com CNAME .
 saucon-sponsors.streetinteractive.com CNAME .
 sponsor-v2.lebtown.com CNAME .
 sponsor.styleblueprint.com CNAME .

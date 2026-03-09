@@ -1,5 +1,6 @@
 !
 ! Company name: Nativo
+||img.nativo.net^
 ||sponsor.syracuse.com^
 ||02833a52b8.9d611c2d8a.com^
 ||02be7d30e6.9a7322562f.com^
@@ -27,6 +28,7 @@
 ||1307da803f.88d3a9a9a1.com^
 ||13f4601147.efdfb38a2a.com^
 ||1433114dbc.ff862f99b4.com^
+||1449ebcaa9.72a56b83fa.com^
 ||159663d491.6c0b4b072f.com^
 ||15ea0bd197.76359a95dd.com^
 ||164e5eb57e.0f89c3c813.com^
@@ -45,6 +47,7 @@
 ||21e8141917.ab0a9de01a.com^
 ||234a1f86b6.abff735bc7.com^
 ||24f89c62f4.c4dfcacaa9.com^
+||2581cb88ce.4c570726a2.com^
 ||26e2befc23.f90d7e6784.com^
 ||27064b2d7e.fb8fb174cf.com^
 ||2724e26421.82c47d94b9.com^
@@ -156,12 +159,14 @@
 ||7b26070d7b.68d48e2725.com^
 ||7c9edd89e2.5fbc7e29cd.com^
 ||8139917f5a.342ef7c20e.com^
+||815b286d12.11cf8895af.com^
 ||81899edb69.1187617028.com^
 ||8291702486.ebdb7bb99d.com^
 ||8309b4c5f6.602e6a55fb.com^
 ||834f30b090.9832d75ae3.com^
 ||8591b47c8b.aada35c15f.com^
 ||86c6dd5578.0fcf105177.com^
+||875ba27c4b.12f929026a.com^
 ||8922d8bced.2bd77addac.com^
 ||8b77d90e45.1b60887cd1.com^
 ||8c40fb9c8e.e61f59ebf7.com^
@@ -214,6 +219,7 @@
 ||b711cf9cb3.d38d17ece3.com^
 ||b731055a61.20f70ba20b.com^
 ||b7d69916a8.425410f96b.com^
+||b81b9a2218.4a1bd5bf84.com^
 ||b895c86c17.ab8c7b1863.com^
 ||b8f7473cd2.91548aee74.com^
 ||b9d9e136c0.0c45fdeae9.com^
@@ -307,6 +313,7 @@
 ||f8e5667895.88102fb3ae.com^
 ||f8fc930e2a.ed68f500d5.com^
 ||fa9dc0e7bb.f587cad87f.com^
+||faaf31ea05.c2660feaf9.com^
 ||fbbe4ece23.92540760ee.com^
 ||fd31eec1f2.463675d6f9.com^
 ||fe5071dde0.7c5734761f.com^
@@ -314,17 +321,17 @@
 ||ff7318f0b1.122cafc086.com^
 ||i.alllinear.com^
 ||i.allnestinfinite.com^
+||i.bowintelligence.com^
 ||i.laketrend.com^
 ||i.selecttopoff.com^
 ||i.statelinear.com^
-||bossip.share.ntv.io^
-||mlive.share.ntv.io^
-||share.ntv.io^
-||shared.sponsoredcontent.com^
 ||a135.fox23.com^
 ||a135.wftv.com^
 ||a135.wpxi.com^
 ||a135.wsbtv.com^
+||menshealth.share.ntv.io^
+||share.ntv.io^
+||shared.sponsoredcontent.com^
 ||a135.wsoctv.com^
 ||a235.aleteia.org^
 ||a614.al.com^
@@ -336,6 +343,7 @@
 ||a614.syracuse.com^
 ||ajc.share.ntv.io^
 ||al.share.ntv.io^
+||bossip.share.ntv.io^
 ||c.ntv.io^
 ||chicagotribune.share.ntv.io^
 ||chron.share.ntv.io^
@@ -358,9 +366,9 @@
 ||justapinch.share.ntv.io^
 ||kcci.share.ntv.io^
 ||littlethings.share.ntv.io^
-||menshealth.share.ntv.io^
 ||mercurynews.share.ntv.io^
 ||miamiherald.share.ntv.io^
+||mlive.share.ntv.io^
 ||mundohispanico.share.ntv.io^
 ||nativomobileapps.share.ntv.io^
 ||newsweek.share.ntv.io^
@@ -396,7 +404,6 @@
 ||a235.htvnativeadsolutions.com^
 ||a235.lmtonline.com^
 ||a235.mrt.com^
-||a235.myjournalcourier.com^
 ||a235.myplainview.com^
 ||a235.mysanantonio.com^
 ||a235.nhregister.com^
@@ -406,6 +413,4 @@
 ||a235.stamfordadvocate.com^
 ||a235.thehour.com^
 ||a235.theintelligencer.com^
-||a235.thetelegraph.com^
 ||a235.timesunion.com^
-||img.nativo.net^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -115,7 +115,6 @@ adebis.report.clinic CNAME .
 adebis.reruju.com CNAME .
 adebis.rishiria-furel.com CNAME .
 adebis.s-toushi.jp CNAME .
-adebis.saison-pocket.com CNAME .
 adebis.satori.marketing CNAME .
 adebis.sbishinseibank.co.jp CNAME .
 adebis.sbpayment.jp CNAME .
@@ -264,6 +263,7 @@ ebis.glico-direct.jp CNAME .
 ebis.gokusen-ichiba.com CNAME .
 ebis.goldcrest.co.jp CNAME .
 ebis.housekeeping.or.jp CNAME .
+ebis.ihistory.cloud CNAME .
 ebis.ihistory.site CNAME .
 ebis.j-l-m.co.jp CNAME .
 ebis.jinzai-business.com CNAME .

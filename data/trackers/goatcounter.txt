@@ -2,7 +2,6 @@
 ! Company name: GoatCounter
 ||anal.sataniskwijt.be^
 ||analytics.applycreatures.com^
-||analytics.brandsistency.com^
 ||analytics.code.dccouncil.gov^
 ||analytics.codes.baltimorecity.gov^
 ||analytics.demo.plateau.ng.open.law^
@@ -56,6 +55,7 @@
 ||goatcounter.eventgeek.ie^
 ||goatcounter.gamecraft.it^
 ||goatcounter.irishbornchinese.com^
+||goatcounter.neocode24.com^
 ||goatcounter.repozitor.com^
 ||goatcounter.thedave.dev^
 ||goatcounter.thedave.me^
@@ -83,7 +83,6 @@
 ||stats.bestasciitable.com^
 ||stats.beyondthesprawl.com^
 ||stats.boredkevin.com^
-||stats.boringproxy.io^
 ||stats.brandontoner.ca^
 ||stats.brendanhanke.com^
 ||stats.cassie.omg.lol^

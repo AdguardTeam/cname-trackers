@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -633,6 +633,7 @@ a8clk.radianne.jp CNAME .
 a8clk.rakurakuseisan.jp CNAME .
 a8clk.rarejob.com CNAME .
 a8clk.rdlp.jp CNAME .
+a8clk.realestateworks.jp CNAME .
 a8clk.recycle-net.jp CNAME .
 a8clk.rei-book.com CNAME .
 a8clk.rental.geo-online.co.jp CNAME .
@@ -659,7 +660,6 @@ a8clk.shop.oishiiplus.com CNAME .
 a8clk.shop.saraya.com CNAME .
 a8clk.shop.sunsorit.co.jp CNAME .
 a8clk.shop.tanita.co.jp CNAME .
-a8clk.sikatoru.com CNAME .
 a8clk.siro.duskin-hozumi.co.jp CNAME .
 a8clk.sirtuinbooster.net CNAME .
 a8clk.sixcore.ne.jp CNAME .

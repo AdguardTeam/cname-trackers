@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -56,6 +56,7 @@ e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
 eck.brettspieleck.de CNAME .
 ecm.agravis.de CNAME .
+ed.mittwald.de CNAME .
 em.mittwald.de CNAME .
 estat.edel-kraut.de CNAME .
 estats.globus.de CNAME .
@@ -134,6 +135,7 @@ ettcc.steute-leantec.com CNAME .
 ettcc.steute-meditec.com CNAME .
 ettcc.steute.com CNAME .
 eva.institut-sitya.at CNAME .
+ew.mittwald.de CNAME .
 ferthu.seyffer.shop CNAME .
 foodstats.eurofins.de CNAME .
 go.eitrmsummit.com CNAME .
@@ -252,7 +254,6 @@ stgstats.die-bibel.de CNAME .
 sun.solar-haus.de CNAME .
 system.affiliate-marketing-hamburg.de CNAME .
 system.j5media.de CNAME .
-t.canngo.express CNAME .
 tr.hundesportladen.de CNAME .
 tr.mey-wasserschaden.de CNAME .
 tr.zuhause-finder.com CNAME .
@@ -264,9 +265,9 @@ track.dictum-shop.de CNAME .
 track.karlstorz.com CNAME .
 track.kautel.de CNAME .
 track.richtig-schaerfen.de CNAME .
-track.schlaffabrik.com CNAME .
 track.thegundogaffair.com CNAME .
 tracker.bkk24.de CNAME .
+tracker.fellowdigitals.com CNAME .
 tracking.360products.de CNAME .
 tracking.anthonys.at CNAME .
 tracking.belkaw.de CNAME .
@@ -307,6 +308,7 @@ wctr.scaleup-fulfillment.de CNAME .
 wctr.sus-architekten-muenster.de CNAME .
 wctr.vitanova-kliniken.de CNAME .
 wd.classicseller.de CNAME .
+web-monitor.labor-limbach-hannover.de CNAME .
 web.satiata-med.de CNAME .
 web.sihl-direct.de CNAME .
 webanalytics.pwc.fr CNAME .
@@ -345,6 +347,7 @@ webcontr.kabelschuhe-shop.de CNAME .
 webcontr.kindergartenbedarf-haidig.de CNAME .
 webcontr.kitchen-concept.de CNAME .
 webcontr.kontor4.de CNAME .
+webcontr.kues-selm.de CNAME .
 webcontr.l.de CNAME .
 webcontr.leisure.one CNAME .
 webcontr.lhbl.de CNAME .
@@ -356,7 +359,6 @@ webcontr.luxentu.de CNAME .
 webcontr.mea-living.de CNAME .
 webcontr.naturschutzcenter.de CNAME .
 webcontr.parax.de CNAME .
-webcontr.patrick-wentzel.de CNAME .
 webcontr.pedalbox.com CNAME .
 webcontr.pegasus-actuators.com CNAME .
 webcontr.reisprinzen.de CNAME .
@@ -399,6 +401,7 @@ webstt0020.onofficeom.com CNAME .
 webstt0021.onofficeom.com CNAME .
 webstt0022.onofficeom.com CNAME .
 websy.skillyofficial.com CNAME .
+webtr.cc-egov.de CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
 webtr.regisafe.de CNAME .

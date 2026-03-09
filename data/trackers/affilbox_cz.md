@@ -273,7 +273,6 @@
 | affiliate.ucetni-portal.cz | cz.affilbox.cz |
 | affiliate.uncaria.cz | cz.affilbox.cz |
 | affiliate.unicare.sk | cz.affilbox.cz |
-| affiliate.urbanstore.sk | cz.affilbox.cz |
 | affiliate.vasecocky.cz | cz.affilbox.cz |
 | affiliate.vasesosovky.sk | cz.affilbox.cz |
 | affiliate.velebny.cz | cz.affilbox.cz |
@@ -322,7 +321,6 @@
 | isicpartner.mamechut.cz | cz.affilbox.cz |
 | kaocko.swaglift.com | cz.affilbox.cz |
 | money.mioweb.cz | cz.affilbox.cz |
-| my.11team-sports.hu | cz.affilbox.cz |
 | my.11teamsports.bg | cz.affilbox.cz |
 | my.11teamsports.com | cz.affilbox.cz |
 | my.11teamsports.cz | cz.affilbox.cz |
@@ -405,6 +403,7 @@
 | my.weplayhandball.gr | cz.affilbox.cz |
 | my.weplayhandball.hu | cz.affilbox.cz |
 | my.weplayhandball.it | cz.affilbox.cz |
+| my.weplayhandball.lt | cz.affilbox.cz |
 | my.weplayhandball.nl | cz.affilbox.cz |
 | my.weplayhandball.ro | cz.affilbox.cz |
 | my.weplayhandball.si | cz.affilbox.cz |
@@ -429,6 +428,8 @@
 | partner-affilbox.telly.cz | cz.affilbox.cz |
 | partner.2din.cz | cz.affilbox.cz |
 | partner.aerium.sk | cz.affilbox.cz |
+| partner.aeriumshop.hr | cz.affilbox.cz |
+| partner.aeriumshop.nl | cz.affilbox.cz |
 | partner.aeriumshop.pl | cz.affilbox.cz |
 | partner.affilbox.com | cz.affilbox.cz |
 | partner.affiliateark.com | cz.affilbox.cz |
@@ -720,6 +721,7 @@
 | partner.simplymix.com | cz.affilbox.cz |
 | partner.skinnygirls.cz | cz.affilbox.cz |
 | partner.skiresort.cz | cz.affilbox.cz |
+| partner.skolanejpoznani.cz | cz.affilbox.cz |
 | partner.skolske-tasky.sk | cz.affilbox.cz |
 | partner.sladkemameni.com | cz.affilbox.cz |
 | partner.sladkyklub.cz | cz.affilbox.cz |
@@ -914,7 +916,6 @@
 | partneri.yoggspiration.cz | cz.affilbox.cz |
 | partneri.zaprovizi.cz | cz.affilbox.cz |
 | partneri.zburnik.cz | cz.affilbox.cz |
-| partneri.zdravy-zivotny-styl.sk | cz.affilbox.cz |
 | partneri.zdravykram.cz | cz.affilbox.cz |
 | partneri.zhubnichytre.cz | cz.affilbox.cz |
 | partners.almaf.cz | cz.affilbox.cz |
@@ -957,6 +958,7 @@
 | spoluprace.congrady.eu | cz.affilbox.cz |
 | spoluprace.eroticstore.cz | cz.affilbox.cz |
 | spoluprace.fotozde.cz | cz.affilbox.cz |
+| spoluprace.frike.cz | cz.affilbox.cz |
 | spoluprace.galaxy.cz | cz.affilbox.cz |
 | spoluprace.gprooms.eu | cz.affilbox.cz |
 | spoluprace.h2world.store | cz.affilbox.cz |

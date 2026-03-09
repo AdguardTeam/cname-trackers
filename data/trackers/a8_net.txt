@@ -622,6 +622,7 @@
 ||a8clk.rakurakuseisan.jp^
 ||a8clk.rarejob.com^
 ||a8clk.rdlp.jp^
+||a8clk.realestateworks.jp^
 ||a8clk.recycle-net.jp^
 ||a8clk.rei-book.com^
 ||a8clk.rental.geo-online.co.jp^
@@ -648,7 +649,6 @@
 ||a8clk.shop.saraya.com^
 ||a8clk.shop.sunsorit.co.jp^
 ||a8clk.shop.tanita.co.jp^
-||a8clk.sikatoru.com^
 ||a8clk.siro.duskin-hozumi.co.jp^
 ||a8clk.sirtuinbooster.net^
 ||a8clk.sixcore.ne.jp^

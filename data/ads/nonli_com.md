@@ -28,6 +28,7 @@
 | social.agrodistribution.fr | non.li |
 | social.eleveur-laitier.fr | non.li |
 | social.lafranceagricole.fr | non.li |
+| social.latoque.fr | non.li |
 | social.terre-net-occasions.fr | non.li |
 | static.nonli.com | non.li |
 | sur.laprovence.com | non.li |

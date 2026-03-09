@@ -53,6 +53,7 @@
   "collect.tommy.com": "uconnect-alb-greylabel-1511792371.eu-central-1.elb.amazonaws.com",
   "connect.afterpay.com": "uconnect-alb-greylabel-688203775.us-east-1.elb.amazonaws.com",
   "csd.kvik.be": "csd.kvik.be.greylabeldelivery.com",
+  "csd.kvik.com": "csd.kvik.com.greylabeldelivery.com",
   "csd.kvik.de": "csd.kvik.de.greylabeldelivery.com",
   "csd.kvik.dk": "csd.kvik.dk.greylabeldelivery.com",
   "csd.kvik.es": "csd.kvik.es.greylabeldelivery.com",

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,7 +13,6 @@ $TTL 300
 
 anal.sataniskwijt.be CNAME .
 analytics.applycreatures.com CNAME .
-analytics.brandsistency.com CNAME .
 analytics.code.dccouncil.gov CNAME .
 analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
@@ -67,6 +66,7 @@ goatcounter.codinggrace.com CNAME .
 goatcounter.eventgeek.ie CNAME .
 goatcounter.gamecraft.it CNAME .
 goatcounter.irishbornchinese.com CNAME .
+goatcounter.neocode24.com CNAME .
 goatcounter.repozitor.com CNAME .
 goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
@@ -94,7 +94,6 @@ stats.benjaminmorris.com CNAME .
 stats.bestasciitable.com CNAME .
 stats.beyondthesprawl.com CNAME .
 stats.boredkevin.com CNAME .
-stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .
 stats.brendanhanke.com CNAME .
 stats.cassie.omg.lol CNAME .

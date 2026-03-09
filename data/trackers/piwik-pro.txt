@@ -35,7 +35,6 @@
 ||piwik.vegasaces.com^
 ||piwikpro.vodafone.com^
 ||polpharmaanalytics.pl^
-||ptm.wuerth.de^
 ||purple.fitchconnect.com^
 ||pwk.tweedekamer.nl^
 ||site-analytics.iop.ohio.gov^

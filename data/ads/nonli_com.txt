@@ -303,6 +303,7 @@
 ||social.agrodistribution.fr^
 ||social.eleveur-laitier.fr^
 ||social.lafranceagricole.fr^
+||social.latoque.fr^
 ||social.terre-net-occasions.fr^
 ||static.nonli.com^
 ||sur.corsematin.com^

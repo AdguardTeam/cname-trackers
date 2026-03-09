@@ -393,7 +393,6 @@ dormouse.consentkit.com
 dove.hoku.nz
 dragon.codemakes.art
 dragon.sh2.com
-dragonfly.filmmakerfreedom.com
 dragonfly.jala-one.com
 eagle.roarfilm.com.au
 earthworm.creatifmediagroup.com
@@ -434,7 +433,6 @@ felidae.top10partnersuche.ch
 ferret.ecvan.io
 ferret.firstprogressivechurch.org
 ferret.helpspace.com
-ferret.itsf.red
 ferret.jesper.hk
 ferret.linksoftwarellc.com
 finch.koronasporing.no
@@ -616,7 +614,6 @@ llama.growthinkers.nl
 llama.lobbly.com
 llama.mallardbay.com
 llama.whatcha.io
-lobster.justunderwear.com
 locust.ausrebellion.earth
 loon.analogjoe.com
 loon.davidalindahl.com
@@ -669,6 +666,7 @@ mongoose.scrumgenius.com
 mongoose.thechocolatelife.com
 monkey.colinjohnston.com
 monkey.compulsivo.co
+monkey.tschira-jugendakademie.info
 moose.octo.app
 mosquito.birbs.art
 mosquito.iamamandaperez.com
@@ -791,7 +789,6 @@ quokka.joshuawood.net
 rabbit.kilowatt.media
 rabbit.radicalxchange.org
 rabbit.upwardhomes.net
-raccoon.jaronheard.com
 rat.einfachlebenforum.com
 raven.konquadrat.de
 raven.omamao.ch
@@ -824,7 +821,6 @@ salamander.showandtelldata.com
 salamander.yourownpay.com
 salmon.cedricreeves.com
 salmon.thespiritualpsychologist.co.uk
-sawfish.black-forest-digital.de
 sawfish.hxd-lab.de
 sawfish.loqbooq.app
 scallop.esolia.pro
@@ -850,7 +846,6 @@ silverfish.djordjevanjek.com
 skink.asorman.io
 skunk.gameworkersolidarity.com
 smelt.allenpike.com
-snake.cybmed.com
 snipe.mfaber.at
 snipe.mizzuu.co
 sole.bkosmetik.com
@@ -1037,6 +1032,7 @@ partners.nationalmortgageprofessional.com
 partners.seetheworld.com
 pnq.babcoxmediainc.com
 promote.melangeandco.com
+regulation.401kspecialistmag.com
 saucon-sponsors.streetinteractive.com
 sponsor-v2.lebtown.com
 sponsor.styleblueprint.com

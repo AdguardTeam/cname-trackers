@@ -13,6 +13,7 @@
 ||data-00db6fbb05.yachtrevue.at^
 ||data-0142dcfbcf.yacht.de^
 ||data-0186141170.apps.iocnt.de^
+||data-01a19c0522.apps.iocnt.de^
 ||data-01bd19c0b0.nq-online.de^
 ||data-01c47ceea9.wienerin.at^
 ||data-01d50fd151.versicherungsjournal.de^
@@ -36,6 +37,7 @@
 ||data-043610b415.erft-kurier.de^
 ||data-043610b415.fupa.net^
 ||data-043610b415.ga.de^
+||data-043610b415.kamelle.de^
 ||data-043610b415.news-trier.de^
 ||data-043610b415.rp-online.de^
 ||data-043610b415.saarbruecker-zeitung.de^
@@ -85,6 +87,7 @@
 ||data-0e160b5dfc.apps.iocnt.de^
 ||data-0e1ca78ad4.rw-textilservice.de^
 ||data-0e36719dec.hasepost.de^
+||data-0e6bbb5192.lmscloud.net^
 ||data-0e974e9c43.mt.de^
 ||data-0ecbed3a92.lebexund.jetzt^
 ||data-0f1d215994.apps.iocnt.de^
@@ -166,6 +169,7 @@
 ||data-1842699cc4.t-online.de^
 ||data-1842699cc4.telefonbuch.de^
 ||data-1842699cc4.vebidoo.de^
+||data-1865901ce0.schoener-wohnen-kollektion.de^
 ||data-1865901ce0.schoener-wohnen.de^
 ||data-189b3ff7e9.apps.iocnt.de^
 ||data-190087bcf9.augsburger-allgemeine.de^
@@ -186,12 +190,14 @@
 ||data-1b32532ce1.blick.de^
 ||data-1b32532ce1.erzgebirge.de^
 ||data-1b32532ce1.freiepresse.de^
+||data-1b32532ce1.vogtland.de^
 ||data-1b488c21c4.apps.iocnt.de^
 ||data-1b8b21e54b.speedweek.com^
 ||data-1b8b21e54b.speedweek.eu^
 ||data-1b9c592a39.einfachkochen.de^
 ||data-1ba1afb625.leinfelden-echterdingen.de^
 ||data-1bc9d87af9.ahgz.de^
+||data-1be5adcd69.apps.iocnt.de^
 ||data-1c0a3d83e3.transfermarkt.be^
 ||data-1c0a3d83e3.transfermarkt.co.in^
 ||data-1c0a3d83e3.transfermarkt.co.uk^
@@ -336,6 +342,7 @@
 ||data-3839bfef3b.diesteirerin.at^
 ||data-389b910202.moenchengladbach.de^
 ||data-38a6e3d7f2.domradio.de^
+||data-397bf6a16b.stadtbibliothek-bielefeld.de^
 ||data-39822b659f.allgemeine-zeitung.de^
 ||data-39822b659f.buerstaedter-zeitung.de^
 ||data-39822b659f.fupa.net^
@@ -384,6 +391,7 @@
 ||data-3e886ae3e6.zaubertopf.de^
 ||data-3eff3aac07.kino-zeit.de^
 ||data-3f0062caa0.elektro.net^
+||data-3f9c4f5eb9.automotive.at^
 ||data-3fb5262fad.unsersalzburg.at^
 ||data-40370dcf13.emsdettenervolkszeitung.de^
 ||data-40370dcf13.ev-online.de^
@@ -455,6 +463,7 @@
 ||data-47ee1b0882.kino-wolfhagen.de^
 ||data-47ee1b0882.kinobleicherode.de^
 ||data-47ee1b0882.kinokorbach.de^
+||data-47ee1b0882.kinowelt-online.de^
 ||data-47ee1b0882.kuki-landau.de^
 ||data-47ee1b0882.lichtspiele-grosshabersdorf.de^
 ||data-47ee1b0882.lindenkino-wusterhausen.de^
@@ -543,6 +552,7 @@
 ||data-545e23e607.kosmo.at^
 ||data-5492b7d422.azubis.de^
 ||data-5492b7d422.fupa.net^
+||data-5492b7d422.mz-jobs.de^
 ||data-5492b7d422.rblive.de^
 ||data-5492b7d422.sao.de^
 ||data-54a2358d26.apps.iocnt.de^
@@ -568,6 +578,7 @@
 ||data-597aebc8e1.daznservices.com^
 ||data-59a3f7fb00.ksta.de^
 ||data-5a078ffbef.wb-immo.net^
+||data-5a078ffbef.wb-jobs.de^
 ||data-5a078ffbef.wb-trauer.de^
 ||data-5a078ffbef.westfalen-blatt.de^
 ||data-5a2bbd7d77.apps.iocnt.de^
@@ -652,6 +663,7 @@
 ||data-661a70098f.muehlacker-tagblatt.de^
 ||data-663387616d.echo24.de^
 ||data-663387616d.idcdn.de^
+||data-664e19af6d.11freunde.de^
 ||data-66584305d5.mainpost.de^
 ||data-678db07fc3.apps.iocnt.de^
 ||data-67e5b22ff5.apps.iocnt.de^
@@ -765,7 +777,6 @@
 ||data-7c0fd2a117.pz-news.de^
 ||data-7c4521058c.apps.iocnt.de^
 ||data-7de4e2b45e.zfk.de^
-||data-7e2df9796b.marktundmittelstand.de^
 ||data-7e3ab64dc5.brandeins.de^
 ||data-7e48679b06.fleischerei.de^
 ||data-7e634b10b2.prosieben.de^
@@ -1120,6 +1131,7 @@
 ||data-ae99031d75.mittelbayerische-trauer.de^
 ||data-ae99031d75.mittelbayerische.de^
 ||data-aebdc1adf0.elle.de^
+||data-aec7b6c8e0.apps.iocnt.de^
 ||data-af2292b12d.eatbetter.de^
 ||data-af44ba1484.apps.iocnt.de^
 ||data-af9a061aaf.deraktionaer.de^
@@ -1238,6 +1250,7 @@
 ||data-c14a6b9c37.motorradonline.de^
 ||data-c1e9638016.vgn.at^
 ||data-c26a0f6abd.smarthouse-pro.de^
+||data-c2cfe04d43.formel1.de^
 ||data-c2d348ce9c.cellesche-zeitung.de^
 ||data-c308939a15.cafe-future.net^
 ||data-c308939a15.food-service.de^
@@ -1254,6 +1267,7 @@
 ||data-c53e1346fa.gamestar-premium.de^
 ||data-c53e1346fa.gamestar.de^
 ||data-c53e1346fa.ninotaku.de^
+||data-c53e1346fa.pietsmiet.de^
 ||data-c53e1346fa.xboxdynasty.de^
 ||data-c5740f79ff.bbv-net.de^
 ||data-c5740f79ff.dattelner-morgenpost.de^
@@ -1327,6 +1341,7 @@
 ||data-cf56e4da9b.motorradonline.de^
 ||data-cf8fd9b799.integrale-planung.net^
 ||data-cf8fd9b799.klimajournal.com^
+||data-cf8fd9b799.sanitaerjournal.de^
 ||data-cf8fd9b799.shk-at-work.de^
 ||data-cf8fd9b799.tga-contentbase.de^
 ||data-cfdfd62451.apps.iocnt.de^
@@ -1350,6 +1365,7 @@
 ||data-d4db30a18b.ga-online.de^
 ||data-d4db30a18b.on-online.de^
 ||data-d4db30a18b.oz-online.de^
+||data-d4db30a18b.zgo.de^
 ||data-d4dfa4bc2c.weather.com^
 ||data-d50538de89.5min.at^
 ||data-d53414767b.apps.iocnt.de^
@@ -1385,6 +1401,7 @@
 ||data-dadec85743.baeko-magazin.de^
 ||data-dae559c4b7.ejz.de^
 ||data-db0ecef264.trafikantenzeitung.at^
+||data-db3e9abc5d.muensterschezeitung.de^
 ||data-db94e113ef.apps.iocnt.de^
 ||data-db9a1c2da1.konstanz.de^
 ||data-dbeb5d461a.fnweb.de^
@@ -1751,6 +1768,7 @@
 ||data-fa59f9f6b5.einbecker-kinos.de^
 ||data-fa59f9f6b5.filmcenter-dillingen.de^
 ||data-fa59f9f6b5.filmpalast-sulingen.de^
+||data-fa59f9f6b5.ge-kinos.de^
 ||data-fa59f9f6b5.groebenlichtspiele.de^
 ||data-fa59f9f6b5.haveltorkino.de^
 ||data-fa59f9f6b5.kino-bad-salzuflen.de^

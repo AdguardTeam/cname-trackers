@@ -18,6 +18,8 @@
 | r.smttrck.com | r.trackwilltrk.com |
 | r.spininitial.tech | r.trackwilltrk.com |
 | r.spttrck.com | r.trackwilltrk.com |
+| r.tracklume1.space | r.trackwilltrk.com |
+| r.veltrix1.space | r.trackwilltrk.com |
 | r.wholehall.com | r.trackwilltrk.com |
 | t.asiantrk.name | r.trackwilltrk.com |
 | t.clearmaptrck.store | r.trackwilltrk.com |

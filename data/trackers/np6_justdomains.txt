@@ -621,7 +621,6 @@ tr.leads.direct
 tr.legrandjeu.boulanger.com
 tr.lesmarques.envie-de-bien-manger.com
 tr.lettre.dechets-infos.com
-tr.lettre.durbanparticipations.com
 tr.lettre.helianthal.fr
 tr.lettre.lecho-circulaire.com
 tr.leyravaud.devisdirect.com

@@ -115,6 +115,7 @@
     * aaaeagles.extole.io
     * abacusnext.extole.io
     * acornonline.extole.io
+    * activations.extole.io
     * advanceamerica.extole.io
     * adventurecu.extole.io
     * affinityfcu.extole.io
@@ -293,6 +294,7 @@
     * globalknowledge.extole.io
     * glowbar.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * gpsinsight.extole.io
     * granitegaragefloors.extole.io
@@ -345,6 +347,7 @@
     * jusbyjulie.extole.io
     * juvlabs.extole.io
     * kerastase-usa.extole.io
+    * kin.extole.io
     * knixteen.extole.io
     * kotn.extole.io
     * kumon.extole.io
@@ -454,7 +457,6 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
-    * quickbooks.em.extole.io
     * quickbooks.extole.io
     * quickbooksintuituk.extole.io
     * quickstart.extole.io
@@ -543,6 +545,7 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -619,6 +622,7 @@
 | share.cluballiance.aaa.com | aaaeagles.extole.io |
 | refer.abacusnext.com | abacusnext.extole.io |
 | refer.acornonline.com | acornonline.extole.io |
+| share.activations.com | activations.extole.io |
 | share.advanceamerica.net | advanceamerica.extole.io |
 | share.adventurecu.org | adventurecu.extole.io |
 | share.aeropostale.com | aeropostale.extole.com |
@@ -945,6 +949,7 @@
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | loyalty.glowbar.com | glowbar.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1021,6 +1026,7 @@
 | friends.keurig.com | keurig-ssl.extole.com |
 | friends.keurig.ca | keurigca.extole.com |
 | amis.keurig.ca | keurigfr.extole.com |
+| share.kin.com | kin.extole.io |
 | refer.knixteen.ca | knixteen.extole.io |
 | refer.knixteen.com | knixteen.extole.io |
 | my.kotn.com | kotn.extole.io |
@@ -1180,7 +1186,6 @@
 | recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
-| em2279.referral.quickbooks.co.uk | quickbooks.em.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
 | referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
@@ -1298,6 +1303,7 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |

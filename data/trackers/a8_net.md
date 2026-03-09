@@ -636,6 +636,7 @@
 | a8clk.rakurakuseisan.jp | trck.a8.net |
 | a8clk.rarejob.com | trck.a8.net |
 | a8clk.rdlp.jp | trck.a8.net |
+| a8clk.realestateworks.jp | trck.a8.net |
 | a8clk.recycle-net.jp | trck.a8.net |
 | a8clk.rei-book.com | trck.a8.net |
 | a8clk.rental.geo-online.co.jp | trck.a8.net |
@@ -662,7 +663,6 @@
 | a8clk.shop.saraya.com | trck.a8.net |
 | a8clk.shop.sunsorit.co.jp | trck.a8.net |
 | a8clk.shop.tanita.co.jp | trck.a8.net |
-| a8clk.sikatoru.com | trck.a8.net |
 | a8clk.siro.duskin-hozumi.co.jp | trck.a8.net |
 | a8clk.sirtuinbooster.net | trck.a8.net |
 | a8clk.sixcore.ne.jp | trck.a8.net |

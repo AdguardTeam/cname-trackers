@@ -3,7 +3,9 @@
 ||data.decathlon.co.uk^
 ||data.decathlon.es^
 ||data.decathlon.fr^
+||data.decathlon.it^
 ||data.decathlon.pl^
+||data.e-immobilier.credit-agricole.fr^
 ||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
@@ -15,8 +17,6 @@
 ||tagcommander.laredoute.ru^
 ||tc.europcar.com.au^
 ||configure.adlermode.com^
-||data.decathlon.it^
-||data.e-immobilier.credit-agricole.fr^
 ||tag.boulanger.fr^
 ||tc.europcar.com^
 ||tc.europcar.de^

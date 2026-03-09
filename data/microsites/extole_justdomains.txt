@@ -118,8 +118,9 @@ acq.discovercard.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em2279.referral.quickbooks.co.uk
+em2287.theory.com
 em4504.mail.raf.xfinity.com
+em8561.go2bank.com
 em924.refer.starbucks.com
 externalreferral.freshworks.com
 friend.discover.com
@@ -460,6 +461,7 @@ share-fiber.t-mobile.com
 share-uk.princess.com
 share-us.viktor-rolf.com
 share.3riversfcu.org
+share.activations.com
 share.advanceamerica.net
 share.adventurecu.org
 share.affinityfcu.com
@@ -597,6 +599,7 @@ share.jhfcu.org
 share.jsonline.com
 share.juicepress.com
 share.juvlabs.com
+share.kin.com
 share.kitsapsun.com
 share.knoxnews.com
 share.kumon.com
@@ -779,7 +782,7 @@ www.rob2.extoleu.com
 www.styleitforwardreward.com
 em1476.princesscruises.com
 em225.codecademy.com
-em2287.theory.com
+em2279.referral.quickbooks.co.uk
 em4367.raf-studentloans.discover.com
 em5230.rewards.dailypay.com
 em5231.mail.propertyperks.xfinity.com
@@ -788,7 +791,6 @@ em7147.love.suncoastcreditunion.com
 em767.forgetrust.com
 em7952.dailypay.com
 em8031.soundcloud.com
-em8561.go2bank.com
 em8642.notifications.acorns.com
 em8928.em.petco.com
 em9347.shareus.viktor-rolf.com

@@ -23,7 +23,6 @@
     * blog-lewsion.goatcounter.com
     * blooper.goatcounter.com
     * blu3id-uk.goatcounter.com
-    * boringproxy-io.goatcounter.com
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
     * cassie.goatcounter.com
@@ -109,6 +108,7 @@
     * mine.goatcounter.com
     * mlcet.goatcounter.com
     * msol.goatcounter.com
+    * neocode24.goatcounter.com
     * neverhill.goatcounter.com
     * ngdangtu.goatcounter.com
     * niravraval.goatcounter.com
@@ -197,7 +197,6 @@
 | stats-blog.lewsion.com | blog-lewsion.goatcounter.com |
 | stats.hdyar.com | blooper.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
-| stats.boringproxy.io | boringproxy-io.goatcounter.com |
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
@@ -283,13 +282,13 @@
 | api.meestermac.nl | meestermac.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
-| analytics.brandsistency.com | mine.goatcounter.com |
 | goatcounter.repozitor.com | mine.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
 | stats.pvme.omg.lol | mine.goatcounter.com |
 | stats.raycordlegends.com | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
+| goatcounter.neocode24.com | neocode24.goatcounter.com |
 | goat.neverhill.net | neverhill.goatcounter.com |
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
 | stats.niravraval.com | niravraval.goatcounter.com |

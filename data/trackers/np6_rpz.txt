@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -632,7 +632,6 @@ tr.leads.direct CNAME .
 tr.legrandjeu.boulanger.com CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.lettre.dechets-infos.com CNAME .
-tr.lettre.durbanparticipations.com CNAME .
 tr.lettre.helianthal.fr CNAME .
 tr.lettre.lecho-circulaire.com CNAME .
 tr.leyravaud.devisdirect.com CNAME .

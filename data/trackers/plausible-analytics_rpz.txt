@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -296,7 +296,6 @@ stats.adlperformance.es CNAME .
 stats.aikidowaza.com CNAME .
 stats.albert-kropp-gmbh.de CNAME .
 stats.alibhai.co CNAME .
-stats.alleaktien.de CNAME .
 stats.alocreativa.com CNAME .
 stats.am.ai CNAME .
 stats.amaeya.media CNAME .
@@ -567,7 +566,6 @@ stats.matthiasloibl.com CNAME .
 stats.maximaconsulting.xyz CNAME .
 stats.mein-futterlexikon.org CNAME .
 stats.memberdrive.org CNAME .
-stats.mesenvies.fr CNAME .
 stats.metamorphium.com CNAME .
 stats.michaeloliver.dev CNAME .
 stats.mindhive.ca CNAME .

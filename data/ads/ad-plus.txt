@@ -11,6 +11,7 @@
 ||dashboard.digita.media^
 ||dashboard.entravision.com^
 ||dashboard.grapemedia.cz^
+||dashboard.lookverin.com^
 ||dashboard.viewtraff.com^
 ||dashboard.xqubemedia.com^
 ||player.collectiveaudience.co^

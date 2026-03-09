@@ -146,6 +146,7 @@ cmp.vdfin.be
 cmp.volkswagen.be
 cookieconsent.kornferry.com
 cookies.jll-mena.com
+cookies.jll.be
 cookies.jll.ca
 cookies.jll.ch
 cookies.jll.cl
@@ -227,7 +228,6 @@ ens.nzzmediasolutions.ch
 ens.obwaldnerzeitung.ch
 ens.tagblatt.ch
 ens.thurgauerzeitung.ch
-ens.toggenburgertagblatt.ch
 ens.urnerzeitung.ch
 ens.wilerzeitung.ch
 ens.zugerzeitung.ch

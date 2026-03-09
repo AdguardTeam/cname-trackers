@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -129,8 +129,9 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
+em2287.theory.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
+em8561.go2bank.com CNAME .
 em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -471,6 +472,7 @@ share-fiber.t-mobile.com CNAME .
 share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
 share.3riversfcu.org CNAME .
+share.activations.com CNAME .
 share.advanceamerica.net CNAME .
 share.adventurecu.org CNAME .
 share.affinityfcu.com CNAME .
@@ -608,6 +610,7 @@ share.jhfcu.org CNAME .
 share.jsonline.com CNAME .
 share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
+share.kin.com CNAME .
 share.kitsapsun.com CNAME .
 share.knoxnews.com CNAME .
 share.kumon.com CNAME .
@@ -790,7 +793,7 @@ www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
-em2287.theory.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
@@ -799,7 +802,6 @@ em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
 em8031.soundcloud.com CNAME .
-em8561.go2bank.com CNAME .
 em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .

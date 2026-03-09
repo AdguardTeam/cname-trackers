@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -261,7 +261,6 @@ affiliate.topol.io CNAME .
 affiliate.ucetni-portal.cz CNAME .
 affiliate.uncaria.cz CNAME .
 affiliate.unicare.sk CNAME .
-affiliate.urbanstore.sk CNAME .
 affiliate.vasecocky.cz CNAME .
 affiliate.vasesosovky.sk CNAME .
 affiliate.velebny.cz CNAME .
@@ -310,7 +309,6 @@ isic.kopirkaostrava.cz CNAME .
 isicpartner.mamechut.cz CNAME .
 kaocko.swaglift.com CNAME .
 money.mioweb.cz CNAME .
-my.11team-sports.hu CNAME .
 my.11teamsports.bg CNAME .
 my.11teamsports.com CNAME .
 my.11teamsports.cz CNAME .
@@ -393,6 +391,7 @@ my.weplayhandball.fr CNAME .
 my.weplayhandball.gr CNAME .
 my.weplayhandball.hu CNAME .
 my.weplayhandball.it CNAME .
+my.weplayhandball.lt CNAME .
 my.weplayhandball.nl CNAME .
 my.weplayhandball.ro CNAME .
 my.weplayhandball.si CNAME .
@@ -417,6 +416,8 @@ partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
 partner.2din.cz CNAME .
 partner.aerium.sk CNAME .
+partner.aeriumshop.hr CNAME .
+partner.aeriumshop.nl CNAME .
 partner.aeriumshop.pl CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
@@ -708,6 +709,7 @@ partner.simdatamax.com CNAME .
 partner.simplymix.com CNAME .
 partner.skinnygirls.cz CNAME .
 partner.skiresort.cz CNAME .
+partner.skolanejpoznani.cz CNAME .
 partner.skolske-tasky.sk CNAME .
 partner.sladkemameni.com CNAME .
 partner.sladkyklub.cz CNAME .
@@ -902,7 +904,6 @@ partneri.worldee.com CNAME .
 partneri.yoggspiration.cz CNAME .
 partneri.zaprovizi.cz CNAME .
 partneri.zburnik.cz CNAME .
-partneri.zdravy-zivotny-styl.sk CNAME .
 partneri.zdravykram.cz CNAME .
 partneri.zhubnichytre.cz CNAME .
 partners.almaf.cz CNAME .
@@ -945,6 +946,7 @@ spoluprace.cistapohoda.cz CNAME .
 spoluprace.congrady.eu CNAME .
 spoluprace.eroticstore.cz CNAME .
 spoluprace.fotozde.cz CNAME .
+spoluprace.frike.cz CNAME .
 spoluprace.galaxy.cz CNAME .
 spoluprace.gprooms.eu CNAME .
 spoluprace.h2world.store CNAME .

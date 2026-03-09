@@ -250,7 +250,6 @@ affiliate.topol.io
 affiliate.ucetni-portal.cz
 affiliate.uncaria.cz
 affiliate.unicare.sk
-affiliate.urbanstore.sk
 affiliate.vasecocky.cz
 affiliate.vasesosovky.sk
 affiliate.velebny.cz
@@ -299,7 +298,6 @@ isic.kopirkaostrava.cz
 isicpartner.mamechut.cz
 kaocko.swaglift.com
 money.mioweb.cz
-my.11team-sports.hu
 my.11teamsports.bg
 my.11teamsports.com
 my.11teamsports.cz
@@ -382,6 +380,7 @@ my.weplayhandball.fr
 my.weplayhandball.gr
 my.weplayhandball.hu
 my.weplayhandball.it
+my.weplayhandball.lt
 my.weplayhandball.nl
 my.weplayhandball.ro
 my.weplayhandball.si
@@ -406,6 +405,8 @@ partener.aeriumshop.ro
 partner-affilbox.telly.cz
 partner.2din.cz
 partner.aerium.sk
+partner.aeriumshop.hr
+partner.aeriumshop.nl
 partner.aeriumshop.pl
 partner.affilbox.com
 partner.affiliateark.com
@@ -697,6 +698,7 @@ partner.simdatamax.com
 partner.simplymix.com
 partner.skinnygirls.cz
 partner.skiresort.cz
+partner.skolanejpoznani.cz
 partner.skolske-tasky.sk
 partner.sladkemameni.com
 partner.sladkyklub.cz
@@ -891,7 +893,6 @@ partneri.worldee.com
 partneri.yoggspiration.cz
 partneri.zaprovizi.cz
 partneri.zburnik.cz
-partneri.zdravy-zivotny-styl.sk
 partneri.zdravykram.cz
 partneri.zhubnichytre.cz
 partners.almaf.cz
@@ -934,6 +935,7 @@ spoluprace.cistapohoda.cz
 spoluprace.congrady.eu
 spoluprace.eroticstore.cz
 spoluprace.fotozde.cz
+spoluprace.frike.cz
 spoluprace.galaxy.cz
 spoluprace.gprooms.eu
 spoluprace.h2world.store

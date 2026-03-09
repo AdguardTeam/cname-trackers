@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,7 +36,6 @@ wct.softonic.nl CNAME .
 wct.softonic.pl CNAME .
 wct.softonic.ru CNAME .
 wct.softonic.se CNAME .
-wctsub.hostingcheck24.de CNAME .
 wctsub.start24.nl CNAME .
 www.1mreview.com CNAME .
 www.empowermychild.com CNAME .

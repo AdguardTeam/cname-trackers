@@ -77,6 +77,7 @@
 | partners.seetheworld.com | bs-adserver.b-cdn.net |
 | pnq.babcoxmediainc.com | bs-adserver.b-cdn.net |
 | promote.melangeandco.com | bs-adserver.b-cdn.net |
+| regulation.401kspecialistmag.com | bs-adserver.b-cdn.net |
 | saucon-sponsors.streetinteractive.com | bs-adserver.b-cdn.net |
 | sponsor-v2.lebtown.com | bs-adserver.b-cdn.net |
 | sponsor.styleblueprint.com | bs-adserver.b-cdn.net |
@@ -359,7 +360,6 @@
 | dove.hoku.nz | deprecated-custom-domains.b-cdn.net |
 | dragon.codemakes.art | deprecated-custom-domains.b-cdn.net |
 | dragon.sh2.com | deprecated-custom-domains.b-cdn.net |
-| dragonfly.filmmakerfreedom.com | deprecated-custom-domains.b-cdn.net |
 | dragonfly.jala-one.com | deprecated-custom-domains.b-cdn.net |
 | eagle.roarfilm.com.au | deprecated-custom-domains.b-cdn.net |
 | earthworm.creatifmediagroup.com | deprecated-custom-domains.b-cdn.net |
@@ -400,7 +400,6 @@
 | ferret.ecvan.io | deprecated-custom-domains.b-cdn.net |
 | ferret.firstprogressivechurch.org | deprecated-custom-domains.b-cdn.net |
 | ferret.helpspace.com | deprecated-custom-domains.b-cdn.net |
-| ferret.itsf.red | deprecated-custom-domains.b-cdn.net |
 | ferret.jesper.hk | deprecated-custom-domains.b-cdn.net |
 | ferret.linksoftwarellc.com | deprecated-custom-domains.b-cdn.net |
 | finch.koronasporing.no | deprecated-custom-domains.b-cdn.net |
@@ -582,7 +581,6 @@
 | llama.lobbly.com | deprecated-custom-domains.b-cdn.net |
 | llama.mallardbay.com | deprecated-custom-domains.b-cdn.net |
 | llama.whatcha.io | deprecated-custom-domains.b-cdn.net |
-| lobster.justunderwear.com | deprecated-custom-domains.b-cdn.net |
 | locust.ausrebellion.earth | deprecated-custom-domains.b-cdn.net |
 | loon.analogjoe.com | deprecated-custom-domains.b-cdn.net |
 | loon.davidalindahl.com | deprecated-custom-domains.b-cdn.net |
@@ -635,6 +633,7 @@
 | mongoose.thechocolatelife.com | deprecated-custom-domains.b-cdn.net |
 | monkey.colinjohnston.com | deprecated-custom-domains.b-cdn.net |
 | monkey.compulsivo.co | deprecated-custom-domains.b-cdn.net |
+| monkey.tschira-jugendakademie.info | deprecated-custom-domains.b-cdn.net |
 | moose.octo.app | deprecated-custom-domains.b-cdn.net |
 | mosquito.birbs.art | deprecated-custom-domains.b-cdn.net |
 | mosquito.iamamandaperez.com | deprecated-custom-domains.b-cdn.net |
@@ -757,7 +756,6 @@
 | rabbit.kilowatt.media | deprecated-custom-domains.b-cdn.net |
 | rabbit.radicalxchange.org | deprecated-custom-domains.b-cdn.net |
 | rabbit.upwardhomes.net | deprecated-custom-domains.b-cdn.net |
-| raccoon.jaronheard.com | deprecated-custom-domains.b-cdn.net |
 | rat.einfachlebenforum.com | deprecated-custom-domains.b-cdn.net |
 | raven.konquadrat.de | deprecated-custom-domains.b-cdn.net |
 | raven.omamao.ch | deprecated-custom-domains.b-cdn.net |
@@ -790,7 +788,6 @@
 | salamander.yourownpay.com | deprecated-custom-domains.b-cdn.net |
 | salmon.cedricreeves.com | deprecated-custom-domains.b-cdn.net |
 | salmon.thespiritualpsychologist.co.uk | deprecated-custom-domains.b-cdn.net |
-| sawfish.black-forest-digital.de | deprecated-custom-domains.b-cdn.net |
 | sawfish.hxd-lab.de | deprecated-custom-domains.b-cdn.net |
 | sawfish.loqbooq.app | deprecated-custom-domains.b-cdn.net |
 | scallop.esolia.pro | deprecated-custom-domains.b-cdn.net |
@@ -816,7 +813,6 @@
 | skink.asorman.io | deprecated-custom-domains.b-cdn.net |
 | skunk.gameworkersolidarity.com | deprecated-custom-domains.b-cdn.net |
 | smelt.allenpike.com | deprecated-custom-domains.b-cdn.net |
-| snake.cybmed.com | deprecated-custom-domains.b-cdn.net |
 | snipe.mfaber.at | deprecated-custom-domains.b-cdn.net |
 | snipe.mizzuu.co | deprecated-custom-domains.b-cdn.net |
 | sole.bkosmetik.com | deprecated-custom-domains.b-cdn.net |

@@ -45,6 +45,7 @@
 ||e.preisapo.de^
 ||eck.brettspieleck.de^
 ||ecm.agravis.de^
+||ed.mittwald.de^
 ||em.mittwald.de^
 ||estat.edel-kraut.de^
 ||estats.globus.de^
@@ -123,6 +124,7 @@
 ||ettcc.steute-meditec.com^
 ||ettcc.steute.com^
 ||eva.institut-sitya.at^
+||ew.mittwald.de^
 ||ferthu.seyffer.shop^
 ||foodstats.eurofins.de^
 ||go.eitrmsummit.com^
@@ -241,7 +243,6 @@
 ||sun.solar-haus.de^
 ||system.affiliate-marketing-hamburg.de^
 ||system.j5media.de^
-||t.canngo.express^
 ||tr.hundesportladen.de^
 ||tr.mey-wasserschaden.de^
 ||tr.zuhause-finder.com^
@@ -253,9 +254,9 @@
 ||track.karlstorz.com^
 ||track.kautel.de^
 ||track.richtig-schaerfen.de^
-||track.schlaffabrik.com^
 ||track.thegundogaffair.com^
 ||tracker.bkk24.de^
+||tracker.fellowdigitals.com^
 ||tracking.360products.de^
 ||tracking.anthonys.at^
 ||tracking.belkaw.de^
@@ -296,6 +297,7 @@
 ||wctr.sus-architekten-muenster.de^
 ||wctr.vitanova-kliniken.de^
 ||wd.classicseller.de^
+||web-monitor.labor-limbach-hannover.de^
 ||web.satiata-med.de^
 ||web.sihl-direct.de^
 ||webanalytics.pwc.fr^
@@ -334,6 +336,7 @@
 ||webcontr.kindergartenbedarf-haidig.de^
 ||webcontr.kitchen-concept.de^
 ||webcontr.kontor4.de^
+||webcontr.kues-selm.de^
 ||webcontr.l.de^
 ||webcontr.leisure.one^
 ||webcontr.lhbl.de^
@@ -345,7 +348,6 @@
 ||webcontr.mea-living.de^
 ||webcontr.naturschutzcenter.de^
 ||webcontr.parax.de^
-||webcontr.patrick-wentzel.de^
 ||webcontr.pedalbox.com^
 ||webcontr.pegasus-actuators.com^
 ||webcontr.reisprinzen.de^
@@ -388,6 +390,7 @@
 ||webstt0021.onofficeom.com^
 ||webstt0022.onofficeom.com^
 ||websy.skillyofficial.com^
+||webtr.cc-egov.de^
 ||webtr.codearchitekten.de^
 ||webtr.dachser.com^
 ||webtr.regisafe.de^

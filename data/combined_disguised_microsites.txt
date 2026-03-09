@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME disguised microsites list
 ! Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-! TimeUpdated: 2026-03-02T08:00:27+00:00
+! TimeUpdated: 2026-03-09T08:00:56+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 ||0-13-9-crs.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediadrsprofildr.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediadrsprofildr.datadoghq.oohmediaomprooohmediadrspage.agent.ap1.datadoghq.com^
@@ -119,7 +119,6 @@
 ||100003435.collect.igodigital.com^
 ||100003461.collect.igodigital.com^
 ||100003465.collect.igodigital.com^
-||100003500.collect.igodigital.com^
 ||100003504.collect.igodigital.com^
 ||100003628.collect.igodigital.com^
 ||100003685.collect.igodigital.com^
@@ -140,7 +139,6 @@
 ||100005424.collect.igodigital.com^
 ||100005530.collect.igodigital.com^
 ||100005670.collect.igodigital.com^
-||100005671.collect.igodigital.com^
 ||100006427.collect.igodigital.com^
 ||100007073.collect.igodigital.com^
 ||100007233.collect.igodigital.com^
@@ -254,6 +252,7 @@
 ||1347888.collect.igodigital.com^
 ||13f4601147.efdfb38a2a.com^
 ||1433114dbc.ff862f99b4.com^
+||1449ebcaa9.72a56b83fa.com^
 ||145.net-31.172.chiccams.com^
 ||149.static.stripchat.webcam^
 ||14bpm-sousa.omg.adult^
@@ -292,6 +291,7 @@
 ||242.net-31.172.stripchatgirls.com^
 ||243.static.freestrip.chat^
 ||24f89c62f4.c4dfcacaa9.com^
+||2581cb88ce.4c570726a2.com^
 ||25irzdhpxh1mumo-p.unenoteunjour.fr^
 ||26e2befc23.f90d7e6784.com^
 ||27-media.cambaddies.com^
@@ -416,7 +416,6 @@
 ||514008420.collect.igodigital.com^
 ||514009702.collect.igodigital.com^
 ||514009935.collect.igodigital.com^
-||514013685.collect.igodigital.com^
 ||514021787.collect.igodigital.com^
 ||514023043.collect.igodigital.com^
 ||514023214.collect.igodigital.com^
@@ -433,7 +432,6 @@
 ||515010833.collect.igodigital.com^
 ||515010852.collect.igodigital.com^
 ||515011050.collect.igodigital.com^
-||515011129.collect.igodigital.com^
 ||518000635.collect.igodigital.com^
 ||518000955.collect.igodigital.com^
 ||518000969.collect.igodigital.com^
@@ -626,6 +624,7 @@
 ||7veerrc2ubwimhl-c.adktrack34.xyz^
 ||8.net-31.172.stripchats.io^
 ||8139917f5a.342ef7c20e.com^
+||815b286d12.11cf8895af.com^
 ||81899edb69.1187617028.com^
 ||8200011.collect.igodigital.com^
 ||8291702486.ebdb7bb99d.com^
@@ -634,6 +633,7 @@
 ||84sxwz5hecqmt2p-c.unenoteunjour.fr^
 ||8591b47c8b.aada35c15f.com^
 ||86c6dd5578.0fcf105177.com^
+||875ba27c4b.12f929026a.com^
 ||8922d8bced.2bd77addac.com^
 ||8ajtdrzxr6jbnly-c.adkoffre.fr^
 ||8b77d90e45.1b60887cd1.com^
@@ -695,7 +695,6 @@
 ||a235.htvnativeadsolutions.com^
 ||a235.lmtonline.com^
 ||a235.mrt.com^
-||a235.myjournalcourier.com^
 ||a235.myplainview.com^
 ||a235.mysanantonio.com^
 ||a235.nhregister.com^
@@ -705,7 +704,6 @@
 ||a235.stamfordadvocate.com^
 ||a235.thehour.com^
 ||a235.theintelligencer.com^
-||a235.thetelegraph.com^
 ||a235.timesunion.com^
 ||a2d4bf2605.2042be5d8c.com^
 ||a2rhoet1piz5nd9-p.adktrack44.xyz^
@@ -842,6 +840,7 @@
 ||ahima.coniferhealth.com^
 ||ai.mist.com^
 ||ai.thermo.com^
+||ai.thermofisher.com^
 ||aidc.barcodesgroup.com^
 ||aiet6ned2lxp48b-p.adktrack34.xyz^
 ||airs.adpinfo.com^
@@ -1050,6 +1049,7 @@
 ||app.advertisingsolutions.att-mail.com^
 ||app.agribusiness.53.com^
 ||app.appone.link^
+||app.appstatesports.com^
 ||app.arizonawildcats.com^
 ||app.arkansasrazorbacks.com^
 ||app.arts.kent.edu^
@@ -1178,6 +1178,7 @@
 ||app.godrakebulldogs.com^
 ||app.goduke.com^
 ||app.goduquesne.com^
+||app.gofrogs.com^
 ||app.gogriz.com^
 ||app.goguecenter.auburn.edu^
 ||app.goheels.com^
@@ -1294,7 +1295,6 @@
 ||app.miamiredhawks.com^
 ||app.mjec.ca^
 ||app.mk.westernunion.com^
-||app.mktg.genesys.com^
 ||app.mktg.novell.com^
 ||app.mogosme.com^
 ||app.msubobcats.com^
@@ -1591,6 +1591,7 @@
 ||ask.antalis.dk^
 ||ask.antalis.ee^
 ||ask.antalis.es^
+||ask.antalis.fi^
 ||ask.antalis.fr^
 ||ask.antalis.hu^
 ||ask.antalis.ie^
@@ -1675,6 +1676,7 @@
 ||b731055a61.20f70ba20b.com^
 ||b7d69916a8.425410f96b.com^
 ||b7ooagmievxajkf-p.akming.xyz^
+||b81b9a2218.4a1bd5bf84.com^
 ||b895c86c17.ab8c7b1863.com^
 ||b8f7473cd2.91548aee74.com^
 ||b9d9e136c0.0c45fdeae9.com^
@@ -1694,6 +1696,7 @@
 ||bbbb.hot-india.com^
 ||bbbb.mycamtv.com^
 ||bbbb.omg.adult^
+||bbbb.spankbanglive.com^
 ||bbbb.stripchat.beeg.com^
 ||bbbb.stripchat.global^
 ||bbbb.superchat.live^
@@ -1786,6 +1789,8 @@
 ||br.sexygirlspics.live^
 ||br.shemale.show^
 ||br.spankbanglive.com^
+||br.stripchat.beeg.com^
+||br.stripchat.direct^
 ||br.stripchat.global^
 ||br.stripchat.ooo^
 ||br.stripchat.porn^
@@ -1919,11 +1924,14 @@
 ||cgrqmzwrkunofsd-p.adkoffer.fr^
 ||cguke-6qxzm.ads.tremorhub.com^
 ||ch.contact.alphabet.com^
+||ch.superchat.live^
 ||channel.cummins.com^
+||channelportal.netsuite.com^
 ||channelusa.samsung.com^
 ||chat.forddirectdealers.com^
 ||check.frbservices.org^
 ||chicagotribune.share.ntv.io^
+||children.universityhealth.com^
 ||chl.xhlive.cam^
 ||choose.adelaide.edu.au^
 ||chron.share.ntv.io^
@@ -1939,6 +1947,7 @@
 ||click.rollouki.com^
 ||clicks.adsvigor.com^
 ||client.trustaff.com^
+||clients.aon.com^
 ||clients.hermes-investment.com^
 ||clients.rainkingonline.com^
 ||cloud.beauty.avon.com^
@@ -1960,6 +1969,7 @@
 ||collector.moreamora.com.br^
 ||college.marketingcube.com.au^
 ||comatsu.myavlive.com^
+||comet.stripchat.global^
 ||commercial.equifax.com^
 ||comms.cigna.co.uk^
 ||comms.cigna.com.hk^
@@ -2031,9 +2041,9 @@
 ||connect.care.lcmchealth.org^
 ||connect.care.muschealth.org^
 ||connect.care.orthovirginia.com^
+||connect.care.pennstatehealth.org^
 ||connect.care.sheppardpratt.org^
 ||connect.care.wakemed.org^
-||connect.caringcrowd.org^
 ||connect.carrier.com.ph^
 ||connect.chamberlain.edu^
 ||connect.chapman.com^
@@ -2158,6 +2168,7 @@
 ||creative.shemale.show^
 ||creative.showtime-cams.live^
 ||creative.stripchat.global^
+||creative.superchatlive.com^
 ||creative.tklivechat.com^
 ||creative.tranny.show^
 ||crm.ironmountain.com^
@@ -2167,7 +2178,6 @@
 ||cs.boyfriend.show^
 ||cs.cambaddies.com^
 ||cs.celebjihad.live^
-||cs.coopeservidores.fi.cr^
 ||cs.hot-india.com^
 ||cs.hot.net.il^
 ||cs.livecamlovetr.com^
@@ -2176,14 +2186,18 @@
 ||cs.nexttv.co.il^
 ||cs.nsfwlivechat.com^
 ||cs.omg.adult^
+||cs.sexygirlspics.live^
 ||cs.shemale.show^
 ||cs.spankbanglive.com^
 ||cs.stripchat.beeg.com^
 ||cs.stripchat.global^
+||cs.stripchat.ooo^
+||cs.stripchatgirls.com^
 ||cs.superchatlive.com^
 ||cs.tiktits.com^
 ||cs.xham.live^
 ||cs.xhlive.net^
+||cs.xhlive.org^
 ||csoonline.share.ntv.io^
 ||ctc.wolterskluwer.com^
 ||ctelqtracking.wolterskluwer.com^
@@ -2192,8 +2206,10 @@
 ||cupra.euroshop.com.pe^
 ||custom.dowjones.com^
 ||customer-engagement.verintsystemsinc.com^
+||customerexperience.verintsystemsinc.com^
 ||customerjourney.mba.org^
 ||customers-capitalbank-jo-877029.p06.elqsandbox.com^
+||customerservice.invacare.eu.com^
 ||cwb1f5j0veeizul-c.adklink.fr^
 ||cx.quadient.com^
 ||cxzkoorbq1jvyxe-p.adktrack34.xyz^
@@ -2218,6 +2234,7 @@
 ||d6e02e7cd8.7a22a10c2e.com^
 ||d9eoyijbkjrxyl5-p.linkomo.fr^
 ||da.aznudelive.com^
+||da.boyfriend.show^
 ||da.hotzcam.com^
 ||da.mycamtv.com^
 ||da.omg.adult^
@@ -2226,6 +2243,7 @@
 ||da.stripchat.global^
 ||da.stripchatgirls.com^
 ||da.superchatlive.com^
+||da.tiktits.com^
 ||da.xham.live^
 ||da.xhlive.net^
 ||da72088eb8.e424766a73.com^
@@ -2261,6 +2279,7 @@
 ||de.hotzcam.com^
 ||de.myavlive.com^
 ||de.mycamtv.com^
+||de.mywd.com^
 ||de.nsfwlivechat.com^
 ||de.omg.adult^
 ||de.porndudecams.com^
@@ -2277,10 +2296,12 @@
 ||de.stripchat.porn^
 ||de.stripchat.webcam^
 ||de.stripchatgirls.com^
+||de.strp.chat^
 ||de.superchat.live^
 ||de.superchatlive.com^
 ||de.tiktits.com^
 ||de.tklivechat.com^
+||de.tranny.show^
 ||de.us.stripchat.global^
 ||de.verintsystemsinc.com^
 ||de.xham.live^
@@ -2312,7 +2333,9 @@
 ||dfnsq3taix07qel-p.unenoteunjour.fr^
 ||dg.champion-compressors.com^
 ||dg.compair.com^
+||dg.dgx-communications.com^
 ||dg.irco.com^
+||dg.its-ats.com^
 ||dg.ptl.irco.com^
 ||dh2wdr1cbypqogn-c.adkclicker.fr^
 ||dh2wdr1cbypqogn-p.adkclicker.fr^
@@ -2333,6 +2356,7 @@
 ||dialogue.mazda.eu^
 ||dialogue.mazda.fr^
 ||dialogue.mazda.gr^
+||dialogue.mazda.hr^
 ||dialogue.mazda.hu^
 ||dialogue.mazda.ie^
 ||dialogue.mazda.it^
@@ -2468,6 +2492,7 @@
 ||efficiency.nl.visma.com^
 ||efficiency.visma.com^
 ||efficiency.visma.dk^
+||efficiency.visma.fi^
 ||efficiency.visma.se^
 ||efficiency.vismaspcs.se^
 ||efimu2wfbbnszqt-p.adktrack34.xyz^
@@ -2492,7 +2517,10 @@
 ||el.stripchat.global^
 ||el.stripchat.ooo^
 ||el.stripchat.webcam^
+||el.stripchatgirls.com^
+||el.stripchatlive.com^
 ||el.strp.chat^
+||el.superchat.live^
 ||el.superchatlive.com^
 ||el.tiktits.com^
 ||el.tklivechat.com^
@@ -2543,6 +2571,7 @@
 ||eloqua.saiganeshk.com^
 ||eloqua.soprasteria.co.uk^
 ||eloqua.syslog-ng.com^
+||eloqua.undergraduateexam.in^
 ||eloqua.upstreamintel.com^
 ||eloquaimages.e.abb.com^
 ||eloquatrack.kistler.com^
@@ -2622,6 +2651,7 @@
 ||elqtrk.cn.morningstar.com^
 ||elqtrk.cummins.com^
 ||elqtrk.hk.morningstar.com^
+||elqtrk.ibbotson.co.jp^
 ||elqtrk.morningstar.ca^
 ||elqtrk.morningstar.com^
 ||elqtrk.morningstar.com.au^
@@ -2833,6 +2863,7 @@
 ||engage.3mpolska.pl^
 ||engage.3msafety.co.kr^
 ||engage.3mschweiz.ch^
+||engage.3mslovensko.sk^
 ||engage.3msuisse.ch^
 ||engage.3msuomi.fi^
 ||engage.3msverige.se^
@@ -2847,8 +2878,6 @@
 ||engage.jlclive.com^
 ||engage.marketone.com^
 ||engage.neogen.com^
-||engage.nuance.co.uk^
-||engage.nuance.fr^
 ||engage.richardsonrfpd.com^
 ||engage.ricoh.co.za^
 ||engage.ricoh.lu^
@@ -2883,6 +2912,7 @@
 ||es.drtuberlive.com^
 ||es.hot-india.com^
 ||es.hotzcam.com^
+||es.motherlesslive.com^
 ||es.myavlive.com^
 ||es.mycamtv.com^
 ||es.nsfwlivechat.com^
@@ -2890,11 +2920,13 @@
 ||es.omg.adult^
 ||es.porndudecams.com^
 ||es.rarecams.com^
+||es.sc7.com^
 ||es.secure.sonosite.com^
 ||es.sexchatters.com^
 ||es.sexfortokens.com^
 ||es.sexygirlspics.live^
 ||es.shemale.show^
+||es.showtime-cams.livees.showtime-cams.live^
 ||es.spankbanglive.com^
 ||es.strip-chat.club^
 ||es.stripchat.beeg.com^
@@ -2907,6 +2939,7 @@
 ||es.stripchat.webcam^
 ||es.stripchatgirls.com^
 ||es.stripchats.global^
+||es.stripchats.io^
 ||es.superchat.live^
 ||es.superchatlive.com^
 ||es.tiktits.com^
@@ -2933,6 +2966,7 @@
 ||event.aieverythingabudhabi.com^
 ||event.aieverythingegypt.com^
 ||event.chiesiusa.com^
+||event.gitex-india.com^
 ||event.gitexeurope.com^
 ||event.gitexfuturehealth.com^
 ||event.gitexnigeria.ng^
@@ -3001,6 +3035,10 @@
 ||explore.revenera.com^
 ||explore.sunriseseniorliving.com^
 ||explore.waldenu.edu^
+||ext.ko.stripchat.org^
+||ext.xham.live^
+||extensions.stripchat.org^
+||extensions.xham.live^
 ||externalreferral.freshworks.com^
 ||eyad0iv4riycnbj-c.adktrack85.xyz^
 ||eyewio9ck0uj5j4-p.recettedubonheur.fr^
@@ -3025,6 +3063,7 @@
 ||f8fc930e2a.ed68f500d5.com^
 ||f97obe6pjhyt5ne-c.linkomo.fr^
 ||fa9dc0e7bb.f587cad87f.com^
+||faaf31ea05.c2660feaf9.com^
 ||factory.redbull.racing^
 ||facturacion.xham.live^
 ||faithinthenews.share.ntv.io^
@@ -3134,6 +3173,7 @@
 ||fpc.ciel.com^
 ||fpc.gartner.com^
 ||fpc.golubcapital.com^
+||fpc.goproposal.com^
 ||fpc.immattersacp.org^
 ||fpc.inventory-planner.com^
 ||fpc.inxinternational.com^
@@ -3159,6 +3199,7 @@
 ||fr.hot-india.com^
 ||fr.hotzcam.com^
 ||fr.instantfapcams.com^
+||fr.motherlesslive.com^
 ||fr.myavlive.com^
 ||fr.mycamtv.com^
 ||fr.nsfwlivechat.com^
@@ -3220,6 +3261,7 @@
 ||ga5hw7cfb9lzpi0-p.adkclicker.fr^
 ||gabbie.extoleu.com^
 ||gajg8ehfy42veqb-p.adktrack32.xyz^
+||gate.stripchat.global^
 ||gateway.aimia.com^
 ||gayety.share.ntv.io^
 ||gb.click.finning.com^
@@ -3240,6 +3282,7 @@
 ||get.ukg.co.uk^
 ||get.ukg.com.au^
 ||get.ukg.de^
+||get.ukg.es^
 ||get.ukg.fr^
 ||get.ukg.in^
 ||get.ukg.mx^
@@ -3267,6 +3310,7 @@
 ||go-stage.oracle.com^
 ||go-vmware.broadcom.com^
 ||go.aaaa.stripchat.beeg.com^
+||go.aaaa.superchat.live^
 ||go.abcam.com^
 ||go.abqisotopes.com^
 ||go.accredible.com^
@@ -3408,6 +3452,7 @@
 ||go.rochesterknighthawks.com^
 ||go.rohrer.com^
 ||go.sabres.com^
+||go.sc7.com^
 ||go.securitymsp.cisco.com^
 ||go.services.klint-consulting.com^
 ||go.sexchatters.com^
@@ -3451,6 +3496,7 @@
 ||go.tuev.cn^
 ||go.tuv.com^
 ||go.ubm-events.com^
+||go.ultimatesoftware.com^
 ||go.vi.stripchat.io^
 ||go.vi.stripchat.ooo^
 ||go.vi.stripchats.io^
@@ -3477,6 +3523,7 @@
 ||gpcsfao8jrxnazt-c.adkclicker.fr^
 ||gr-business.vodafone.com^
 ||gr-go.experian.com^
+||gr.stripchat.global^
 ||grandhaventribune.share.ntv.io^
 ||groomrefer.petco.com^
 ||groups.heatexperience.com^
@@ -3537,14 +3584,17 @@
 ||hr.aznudelive.com^
 ||hr.boyfriend.show^
 ||hr.hotzcam.com^
+||hr.live7mm.tv^
 ||hr.myavlive.com^
 ||hr.mycamtv.com^
 ||hr.omg.adult^
 ||hr.shemale.show^
 ||hr.stripchat.global^
+||hr.stripchatgirls.com^
 ||hr.tiktits.com^
 ||hr.xham.live^
 ||hr.xhlive.net^
+||hr.xhlive.org^
 ||hskfxl7ijano8nl-p.adkclicker.fr^
 ||hsntnchoe0exqwv-p.adkclicker.fr^
 ||htblueaprqz4sd2-p.adkoffer.fr^
@@ -3569,6 +3619,7 @@
 ||i-ready.curriculumassociates.com^
 ||i.alllinear.com^
 ||i.allnestinfinite.com^
+||i.bowintelligence.com^
 ||i.laketrend.com^
 ||i.selecttopoff.com^
 ||i.statelinear.com^
@@ -3617,7 +3668,9 @@
 ||id.stripchat.webcam^
 ||id.stripchatgirls.com^
 ||id.stripchatlive.com^
+||id.stripchats.global^
 ||id.stripchats.io^
+||id.strp.chat^
 ||id.superchat.live^
 ||id.superchatlive.com^
 ||id.tiktits.com^
@@ -3723,7 +3776,6 @@
 ||images.dubaiholding.ae^
 ||images.e-insight.autovistagroup.com^
 ||images.e-mail.deloittecomunicacao.com.br^
-||images.e.aquent.com^
 ||images.e.bengals.com^
 ||images.e.brother.com^
 ||images.e.bulls.com^
@@ -3749,6 +3801,7 @@
 ||images.edm.sangfor.cn^
 ||images.education.ifebp.org^
 ||images.efficiency.nl.visma.com^
+||images.efficiency.visma.se^
 ||images.eloqua.fredhutch.org^
 ||images.em.email-prudential.com^
 ||images.em.groupon.com^
@@ -3868,7 +3921,6 @@
 ||images.info.tupperware.be^
 ||images.info.tupperware.de^
 ||images.info.tupperware.pt^
-||images.info.tycosimplexgrinnell.com^
 ||images.info.veritas.com^
 ||images.info.visma.com^
 ||images.info.walibi.nl^
@@ -3883,6 +3935,7 @@
 ||images.inport.princess.com^
 ||images.insight.extrahop.com^
 ||images.insight.intrado.com^
+||images.institutional-news.amundi.com^
 ||images.insurance.leavitt.com^
 ||images.interact.jll.com^
 ||images.internalcomms.ntt.com^
@@ -4060,6 +4113,7 @@
 ||images.stanleyhealthcare.sbdinc.com^
 ||images.tableau.com^
 ||images.tr-mail.bsh-group.com^
+||images.ubmamgevents.com^
 ||images.uhealthsystem.miami.edu^
 ||images.ultipro.ultimatesoftware.com^
 ||images.uni.une.edu.au^
@@ -4110,9 +4164,11 @@
 ||info.asce.org^
 ||info.assets.reuters.com^
 ||info.authorize.net^
+||info.avalara.com^
 ||info.avaya.com^
 ||info.avtecinc.com^
 ||info.bankintelligence.fiserv.com^
+||info.banpronicaragua.com.ni^
 ||info.banrural.com.gt^
 ||info.bendigokangan.edu.au^
 ||info.box.net^
@@ -4151,6 +4207,7 @@
 ||info.fxcm-chinese.com^
 ||info.go.apprenticeshipcommunity.com.au^
 ||info.go.lorainccc.edu^
+||info.gsm.org^
 ||info.gtc.net.gt^
 ||info.harte-hanks.com^
 ||info.hila-leumit.co.il^
@@ -4227,13 +4284,14 @@
 ||info.wkf.fr^
 ||info.wolterskluwer.de^
 ||info.wondoor.com^
+||info1.thermofisher.com^
 ||info1.thermoscientific.com^
 ||info10.4thoughtmarketing.com^
 ||info3.thermofisher.com^
 ||infobio.ozyme.fr^
 ||infopromerica.promerica.fi.cr^
+||inform.arctera.io^
 ||inform.cigna.com^
-||inform.janssenpro.eu^
 ||inform.solventum.com^
 ||informatique.ricoh.fr^
 ||infoworld.share.ntv.io^
@@ -4268,7 +4326,6 @@
 ||insurance.leads360.com^
 ||insurance.velocify.com^
 ||insure.amsservices.com^
-||insure.vertafore.com^
 ||intel-trk.informa.com^
 ||intel-trk.lloydslistintelligence.com^
 ||intel-trk.primalpictures.com^
@@ -4300,6 +4357,7 @@
 ||it.cambaddies.com^
 ||it.celebjihad.live^
 ||it.contact.alphabet.com^
+||it.darmowesexkamerki.com^
 ||it.drtuberlive.com^
 ||it.hot-india.com^
 ||it.liveandsexy.cam^
@@ -4362,7 +4420,9 @@
 ||ja.rarecams.com^
 ||ja.sc7.com^
 ||ja.sexchatters.com^
+||ja.shemale.show^
 ||ja.spankbanglive.com^
+||ja.stripchat.beeg.com^
 ||ja.stripchat.global^
 ||ja.stripchat.org^
 ||ja.stripchat.porn^
@@ -4376,6 +4436,7 @@
 ||ja.xham.live^
 ||ja.xhlive.cam^
 ||ja.xhlive.net^
+||ja.xhlive.org^
 ||ja.xmates.com^
 ||jbbcvrkupaigy6f-p.adktrack30.xyz^
 ||jessica-test-numero-dos.extoleu.com^
@@ -4409,6 +4470,8 @@
 ||join.stratfor.com^
 ||join02.informamarkets.com^
 ||jp-go.experian.com^
+||jp.stripchat.global^
+||jp.stripchatgirls.com^
 ||jppwvduk8hfzv3g-p.linkomo.fr^
 ||jprfocxofunqjpt-p.linkomo.fr^
 ||jpz2etvkhnzdcox-p.linkomo.fr^
@@ -4456,6 +4519,7 @@
 ||ko.celebjihad.live^
 ||ko.colsex.com^
 ||ko.drtuberlive.com^
+||ko.extensions.stripchat.org^
 ||ko.hotzcam.com^
 ||ko.live7mm.tv^
 ||ko.myavlive.com^
@@ -4463,6 +4527,7 @@
 ||ko.omg.adult^
 ||ko.rarecams.com^
 ||ko.sexchatters.com^
+||ko.sexygirlspics.live^
 ||ko.shemale.show^
 ||ko.spankbanglive.com^
 ||ko.stripchat.global^
@@ -4538,6 +4603,7 @@
 ||landingfrance.americanexpress.com^
 ||landingpage.mail.unia.ch^
 ||landingpages.siemens-healthineers.com^
+||landings.omegacrmconsulting.com^
 ||lantern.connect.o2.co.uk^
 ||lantern.fortinet.com^
 ||lantern7.wealth.mandg.com^
@@ -4659,7 +4725,6 @@
 ||lp.connect.garnethealth.org^
 ||lp.connectedcare.wkhs.com^
 ||lp.deloittecomunicacao.com.br^
-||lp.dynabook.com^
 ||lp.education.kenschool.jp^
 ||lp.embarcadero.com^
 ||lp.flytour.com.br^
@@ -4674,6 +4739,7 @@
 ||lp.labcorp.com^
 ||lp.lamy-immobilier.fr^
 ||lp.lesarcs-peiseyvallandry.com^
+||lp.ma.marketing-campus.jp^
 ||lp.mkt-email.samsungsds.com^
 ||lp.nexity.fr^
 ||lp.northwestern.nm.org^
@@ -4765,6 +4831,7 @@
 ||mail.dolce-gusto.ua^
 ||mail.dolce-gusto.us^
 ||mail.stripchatgirls.com^
+||mail.stripchatnow.com^
 ||mail.xham.live^
 ||mailgate.hot-india.com^
 ||mailhost.fapsite.live^
@@ -4780,6 +4847,7 @@
 ||marketing-ap.mitsubishi-copper.com^
 ||marketing-ap.mmc.co.jp^
 ||marketing-automation.amadeus.com^
+||marketing-tracking.thomsonreuters.com^
 ||marketing.adaptiveplanning.com^
 ||marketing.agora.io^
 ||marketing.alliant.com^
@@ -4796,6 +4864,7 @@
 ||marketing.golubcapital.com^
 ||marketing.ianywhere.com^
 ||marketing.naf.no^
+||marketing.omeir.com^
 ||marketing.overheaddoor.com^
 ||marketing.psentertainment.com^
 ||marketing.sonac.biz^
@@ -4862,6 +4931,7 @@
 ||mjoqcdsvptsulwr-c.adktrack34.xyz^
 ||mkg.colfondos.co^
 ||mkt.consultdss.com^
+||mkt.fundacionbolivardavivienda.org^
 ||mkt.maestrapro.com^
 ||mkt.ocq.com.br^
 ||mkt.vettaquimica.com.br^
@@ -4910,6 +4980,7 @@
 ||ms.shemale.show^
 ||ms.spankbanglive.com^
 ||ms.stripchat.global^
+||ms.stripchat.io^
 ||ms.stripchat.ooo^
 ||ms.stripchat.org^
 ||ms.stripchat.webcam^
@@ -4972,6 +5043,7 @@
 ||nationalaccounts.adp.com^
 ||nationalbusinessawards.ubm-events.com^
 ||nativomobileapps.share.ntv.io^
+||nb.stripchat.global^
 ||ndi.nuance.com^
 ||networkingexchange.att.com^
 ||networks.balluff.com^
@@ -5010,9 +5082,11 @@
 ||nl.cambaddies.com^
 ||nl.camsplanetlive.com^
 ||nl.celebjihad.live^
+||nl.colsex.com^
 ||nl.contact.alphabet.com^
 ||nl.drtuberlive.com^
 ||nl.hot-india.com^
+||nl.hotzcam.com^
 ||nl.live7mm.tv^
 ||nl.myavlive.com^
 ||nl.mycamtv.com^
@@ -5030,6 +5104,7 @@
 ||nl.stripchat.ooo^
 ||nl.stripchat.org^
 ||nl.stripchat.vision^
+||nl.stripchat.webcam^
 ||nl.stripchatgirls.com^
 ||nl.stripchatlive.com^
 ||nl.stripchats.global^
@@ -5051,13 +5126,16 @@
 ||no.aznudelive.com^
 ||no.boyfriend.show^
 ||no.celebjihad.live^
+||no.colsex.com^
 ||no.drtuberlive.com^
 ||no.hot-india.com^
 ||no.hotzcam.com^
 ||no.kinkscams.com^
 ||no.livecamlovetr.com^
 ||no.myavlive.com^
+||no.nsfwlivechat.com^
 ||no.omg.adult^
+||no.sexfortokens.com^
 ||no.shemale.show^
 ||no.spankbanglive.com^
 ||no.stripchat.beeg.com^
@@ -5218,6 +5296,7 @@
 ||pages.omdia.informa.com^
 ||pages.pharmaintelligence.informa.com^
 ||pages.response.terex.com^
+||pages.robinsonheli.com^
 ||pages.sailgp.com^
 ||pages.siemens-info.com^
 ||pages.siemens.com^
@@ -5260,6 +5339,7 @@
 ||penembak-tepat.superchat.live^
 ||perryellis.collect.igodigital.com^
 ||pescaenamerica.cambaddies.com^
+||pesquisas.lp.deloittecomunicacao.com.br^
 ||petcha.share.ntv.io^
 ||peterschiffchannel.stripchat.global^
 ||pezoh8d4xr3vlkw-p.adktrack44.xyz^
@@ -5286,6 +5366,7 @@
 ||pl.chiccams.com^
 ||pl.contact.alphabet.com^
 ||pl.hotzcam.com^
+||pl.instantfapcams.com^
 ||pl.liveandsexy.cam^
 ||pl.myavlive.com^
 ||pl.mycamtv.com^
@@ -5334,7 +5415,6 @@
 ||pop3.stripchat.vision^
 ||pop3.tklivechat.com^
 ||pornscorts.xham.live^
-||porsche.nabooda-auto.com^
 ||porseo.stripchats.io^
 ||portabledishwasher.stripchat.org^
 ||portal7.superchatlive.com^
@@ -5399,6 +5479,7 @@
 ||profiling.ruukki.com^
 ||programmes-skema.skema-bs.fr^
 ||programmes-skema.skema.edu^
+||programs.ironmountain.com^
 ||programs.mellanox.com^
 ||promo.batesville.com^
 ||promo.yahoo-mbga.jp^
@@ -5438,6 +5519,7 @@
 ||pt.nsfwlivechat.com^
 ||pt.nudescam18.com^
 ||pt.omg.adult^
+||pt.porndudecams.com^
 ||pt.sexfortokens.com^
 ||pt.sexygirlspics.live^
 ||pt.shemale.show^
@@ -5987,6 +6069,7 @@
 ||response.kadient.com^
 ||response.littletikescommercial.com^
 ||response.miracle-recreation.com^
+||response.playworld.com^
 ||response.quest.com^
 ||response.retailchoice.com^
 ||response.reversepartner.genworth.com^
@@ -6026,6 +6109,7 @@
 ||ro.celebjihad.live^
 ||ro.drtuberlive.com^
 ||ro.hot-india.com^
+||ro.instantfapcams.com^
 ||ro.liveandsexy.cam^
 ||ro.myavlive.com^
 ||ro.mycamtv.com^
@@ -6140,6 +6224,7 @@
 ||s.eur.cemex.com^
 ||s.info.cemexgo.com^
 ||s.infomx.cemexgo.com^
+||s.internomx.cemex.com^
 ||s.latam.cemex.com^
 ||s.marketing.us.cemex.com^
 ||s.omg.adult^
@@ -6302,6 +6387,7 @@
 ||share-uk.princess.com^
 ||share-us.viktor-rolf.com^
 ||share.3riversfcu.org^
+||share.activations.com^
 ||share.advanceamerica.net^
 ||share.adventurecu.org^
 ||share.aeropostale.com^
@@ -6442,6 +6528,7 @@
 ||share.jsonline.com^
 ||share.juicepress.com^
 ||share.juvlabs.com^
+||share.kin.com^
 ||share.kitsapsun.com^
 ||share.knoxnews.com^
 ||share.kumon.com^
@@ -6845,6 +6932,7 @@
 ||subscribe.adpinfo.com^
 ||subscribe.dnv.com^
 ||subscribe.veracity.com^
+||subscribetest.veracity.com^
 ||subscription.coface.com^
 ||subscription.events.byui.edu^
 ||subscription.grenke.de^
@@ -6876,6 +6964,7 @@
 ||suunta.visma.fi^
 ||sv.aznudelive.com^
 ||sv.boyfriend.show^
+||sv.celebjihad.live^
 ||sv.drtuberlive.com^
 ||sv.hotzcam.com^
 ||sv.instantfapcams.com^
@@ -6886,6 +6975,7 @@
 ||sv.nsfwlivechat.com^
 ||sv.omg.adult^
 ||sv.rarecams.com^
+||sv.sexchatters.com^
 ||sv.sexfortokens.com^
 ||sv.sexygirlspics.live^
 ||sv.shemale.show^
@@ -6896,6 +6986,7 @@
 ||sv.stripchat.webcam^
 ||sv.stripchats.io^
 ||sv.superchat.live^
+||sv.tiktits.com^
 ||sv.xham.live^
 ||sv.xhlive.net^
 ||sv3xokxcshn6feu-p.adktrack34.xyz^
@@ -6903,6 +6994,7 @@
 ||sw.broadcom.com^
 ||sw.celebjihad.live^
 ||sw.drtuberlive.com^
+||sw.stripchat.global^
 ||sw9bcharp0p4sen-p.clickomo.fr^
 ||swcxid1mzvtmtl6-p.adktrack30.xyz^
 ||sweeps.la-z-boy.com^
@@ -7075,6 +7167,7 @@
 ||t.libertyfirstcreditunionarena.com^
 ||t.libertyflames.com^
 ||t.linde-gas.com^
+||t.linde-gas.dk^
 ||t.linde-gas.ee^
 ||t.linde-gas.fi^
 ||t.linde-gas.lt^
@@ -7206,7 +7299,6 @@
 ||team-t-adventures.cambaddies.com^
 ||team.elq.coles.com.au^
 ||teammate.arclogics.com^
-||tech.finalto.com^
 ||tech.sangfor.com^
 ||tech.softchoice.com^
 ||techgifts.tradeshow.globalsources.com^
@@ -7347,6 +7439,7 @@
 ||tr.stripchat.be^
 ||tr.stripchat.beeg.com^
 ||tr.stripchat.direct^
+||tr.stripchat.dk^
 ||tr.stripchat.global^
 ||tr.stripchat.io^
 ||tr.stripchat.lgbt^
@@ -7419,6 +7512,7 @@
 ||track.e.batesville.com^
 ||track.education.intostudy.com^
 ||track.education.kenschool.jp^
+||track.enterpriseconnect.com^
 ||track.estoneworks.com^
 ||track.exeterisc.com^
 ||track.financialfairness.org.uk^
@@ -7467,6 +7561,7 @@
 ||track.muellerinc.com^
 ||track.murray-intl.co.uk^
 ||track.myclipstone.com^
+||track.nclisc.com^
 ||track.newdawn-trust.co.uk^
 ||track.oadstrack.com^
 ||track.postkodlotteriet.se^
@@ -7498,6 +7593,7 @@
 ||tracking-sandbox.eloq.soa.org^
 ||tracking-sandbox.vodafone.co.uk^
 ||tracking.aapa.org^
+||tracking.aberdeenplc.com^
 ||tracking.abraservice.com^
 ||tracking.abrdn.com^
 ||tracking.acceptance.industrial.omron.eu^
@@ -7536,6 +7632,7 @@
 ||tracking.bnpparibas.fr^
 ||tracking.bnppre.fr^
 ||tracking.bonelli.com^
+||tracking.brady.be^
 ||tracking.brady.co.uk^
 ||tracking.brady.com.tr^
 ||tracking.brady.de^
@@ -7604,7 +7701,6 @@
 ||tracking.e.pepsicopartners.com^
 ||tracking.eaglestrategies.com^
 ||tracking.efficiency.visma.com^
-||tracking.eg.janssenmedicalcloud.me^
 ||tracking.eloq.soa.org^
 ||tracking.eloqua.homeimprovementleads.com^
 ||tracking.eloqua.modernize.com^
@@ -7648,6 +7744,7 @@
 ||tracking.go.mge.com^
 ||tracking.go.onshape.com^
 ||tracking.go.provident.bank^
+||tracking.go.thermofisher.com^
 ||tracking.go.toyobo-global.com^
 ||tracking.go.toyobo-mc.jp^
 ||tracking.go.toyobo.co.jp^
@@ -7678,31 +7775,6 @@
 ||tracking.innovamarketinsights.com^
 ||tracking.insead.edu^
 ||tracking.insperity.com^
-||tracking.janssenmed.hu^
-||tracking.janssenmed.ro^
-||tracking.janssenmed.si^
-||tracking.janssenmed.sk^
-||tracking.janssenmedicalcloud.at^
-||tracking.janssenmedicalcloud.be^
-||tracking.janssenmedicalcloud.co.uk^
-||tracking.janssenmedicalcloud.com^
-||tracking.janssenmedicalcloud.cz^
-||tracking.janssenmedicalcloud.de^
-||tracking.janssenmedicalcloud.dk^
-||tracking.janssenmedicalcloud.ee^
-||tracking.janssenmedicalcloud.eu^
-||tracking.janssenmedicalcloud.gr^
-||tracking.janssenmedicalcloud.hr^
-||tracking.janssenmedicalcloud.ie^
-||tracking.janssenmedicalcloud.it^
-||tracking.janssenmedicalcloud.lt^
-||tracking.janssenmedicalcloud.nl^
-||tracking.janssenmedicalcloud.pl^
-||tracking.janssenmedicalcloud.pt^
-||tracking.janssenmedicalcloud.ro^
-||tracking.janssenmedicalcloud.se^
-||tracking.janssenmedicalcloud.sk^
-||tracking.janssenos.com^
 ||tracking.justine.co.za^
 ||tracking.kalypso.com^
 ||tracking.kegerator.com^
@@ -7718,13 +7790,11 @@
 ||tracking.lonnogpersonalabc.visma.no^
 ||tracking.lseg.com^
 ||tracking.luminishealth.org^
-||tracking.ma.janssenmedicalcloud.me^
 ||tracking.mail.ti.com^
 ||tracking.mail.ti.com.cn^
 ||tracking.marketing.frequentis.com^
 ||tracking.marketone.com^
 ||tracking.mathworks.com^
-||tracking.medicalcloud.janssen.com.tr^
 ||tracking.mizuhogroup.com^
 ||tracking.mkt-email.samsungsds.com^
 ||tracking.mob.psafe.com^
@@ -7780,6 +7850,7 @@
 ||tracking.relationshipone.com^
 ||tracking.response.terex.com^
 ||tracking.rinoebastel.com^
+||tracking.risk.lexisnexis.co.jp^
 ||tracking.risk.lexisnexis.co.uk^
 ||tracking.risk.lexisnexis.com^
 ||tracking.risk.lexisnexis.com.br^
@@ -7802,6 +7873,7 @@
 ||tracking.seton.es^
 ||tracking.seton.fr^
 ||tracking.seton.it^
+||tracking.seysara.com^
 ||tracking.signals.fr^
 ||tracking.simpleaccess.com^
 ||tracking.smartbusiness.samsung.com^
@@ -7923,6 +7995,7 @@
 ||trck.dp.intuit.com^
 ||trck.e.atradius.com^
 ||trck.e.help.newporthealthcare.com^
+||trck.e.help.prairie-care.com^
 ||trck.e.maxcyte.com^
 ||trck.e.retail.alliant.com^
 ||trck.employerservices.experian.com^
@@ -7978,12 +8051,14 @@
 ||trck.news.webyog.com^
 ||trck.news.wherescape.com^
 ||trck.newsletter.uol.com.br^
+||trck.newsletter.uolparamarcas.uol.com.br^
 ||trck.ps.experian.com^
 ||trck.relacionamento.uol.com.br^
 ||trck.revvity.com^
 ||trck.ricoh-europe.com^
 ||trck.ricoh.be^
 ||trck.ricoh.co.uk^
+||trck.ricoh.co.za^
 ||trck.ricoh.de^
 ||trck.ricoh.nl^
 ||trck.ricoh.pl^
@@ -8007,6 +8082,7 @@
 ||trk.aeroenginesusa.com^
 ||trk.afcom.com^
 ||trk.aibusiness.com^
+||trk.airborn.com^
 ||trk.aircharterguide.com^
 ||trk.airchecklab.com^
 ||trk.airdimensions.com^
@@ -8087,10 +8163,14 @@
 ||trk.e.mailchimp.com^
 ||trk.e.stripcash.com^
 ||trk.e.supportlivecam.com^
+||trk.e.xhamsterlive.com^
+||trk.e.xlivesex.com^
 ||trk.elmlea.com^
 ||trk.elmorietschle.com^
 ||trk.elq.mcphersonoil.com^
+||trk.email.stripcash.com^
 ||trk.email.supportlivecam.com^
+||trk.email.xhamsterlive.com^
 ||trk.email.xlivesex.com^
 ||trk.emcowheaton.com^
 ||trk.encore-can.com^
@@ -8122,6 +8202,7 @@
 ||trk.floraspread.com.au^
 ||trk.food-management.com^
 ||trk.fpc.laerdal.com^
+||trk.friulair.com^
 ||trk.futureelectronics.cn^
 ||trk.futureelectronics.com^
 ||trk.galencollege.edu^
@@ -8130,6 +8211,7 @@
 ||trk.gardnerdenver.com^
 ||trk.gardnerdenver.com.cn^
 ||trk.gdconf.com^
+||trk.gdcvault.com^
 ||trk.go.fhlbny.com^
 ||trk.goshenhealth.com^
 ||trk.greenbuildexpo.com^
@@ -8166,6 +8248,7 @@
 ||trk.kansashealthsystem.com^
 ||trk.kirbybuilt.com^
 ||trk.laetta.com^
+||trk.latta.se^
 ||trk.leapeast.com^
 ||trk.lightreading.com^
 ||trk.living.chartwell.com^
@@ -8177,14 +8260,17 @@
 ||trk.mailchimp.com^
 ||trk.maximus-solution.com^
 ||trk.md-kinney.com^
+||trk.mdmwest.com^
 ||trk.mercedes-benz-trucks.com^
 ||trk.metronet.com^
 ||trk.metronetbusiness.com^
 ||trk.microsyringes.com^
 ||trk.midamericanenergy.com^
 ||trk.milda.se^
+||trk.miltonroy.com^
 ||trk.miltonroy.com.cn^
 ||trk.mktg.nec.com^
+||trk.mojeciasto.pl^
 ||trk.money2020middleeast.com^
 ||trk.mppumps.com^
 ||trk.mycare.maimo.org^
@@ -8202,6 +8288,7 @@
 ||trk.nrn.com^
 ||trk.oma.dk^
 ||trk.onegiantleap.com^
+||trk.oxywise.com^
 ||trk.packagingdigest.com^
 ||trk.peceniejeradost.sk^
 ||trk.pecenijeradost.cz^
@@ -8210,6 +8297,7 @@
 ||trk.planta.be^
 ||trk.planta.pt^
 ||trk.plantafin.fr^
+||trk.plasticstoday.com^
 ||trk.powerdms.com^
 ||trk.prnewswire.co.uk^
 ||trk.prnewswire.com^
@@ -8240,7 +8328,9 @@
 ||trk.secure.mazda.com.au^
 ||trk.seepex.com^
 ||trk.send.waoo.dk^
+||trk.sender.cammodeling.org^
 ||trk.sender.stripchat.global^
+||trk.sender.supportlivecam.com^
 ||trk.sender.xhamsterlive.com^
 ||trk.sender.xlivesex.com^
 ||trk.share.healthc2u.com^
@@ -8248,6 +8338,7 @@
 ||trk.solution.desjardins.com^
 ||trk.sourcingatmagic.com^
 ||trk.spsglobal.com^
+||trk.stripchat.email^
 ||trk.supermarketnews.com^
 ||trk.tbivision.com^
 ||trk.technomic.com^
@@ -8272,6 +8363,7 @@
 ||trk.violife.com^
 ||trk.violifefoods.com^
 ||trk.violifeprofessional.com^
+||trk.vitam.al^
 ||trk.vitam.gr^
 ||trk.vodafone.com.tr^
 ||trk.vulcanmaterials.com^
@@ -8430,6 +8522,7 @@
 ||ua.mycamtv.com^
 ||ua.nsfwlivechat.com^
 ||ua.omg.adult^
+||ua.platform.stripchat-lgbtq.com^
 ||ua.sexchatters.com^
 ||ua.sexfortokens.com^
 ||ua.shemale.show^
@@ -8451,6 +8544,7 @@
 ||ua.xhamsterlive.info^
 ||ua.xhlive.cam^
 ||ua.xhlive.net^
+||ua.xhlive.org^
 ||uappforandroid.boyfriend.show^
 ||ucaas.avaya.com^
 ||udfs.stripchat.webcam^
@@ -8544,6 +8638,7 @@
 ||vi.nsfwlivechat.com^
 ||vi.omg.adult^
 ||vi.porndudecams.com^
+||vi.sexfortokens.com^
 ||vi.sexygirlspics.live^
 ||vi.shemale.show^
 ||vi.spankbanglive.com^
@@ -8563,6 +8658,7 @@
 ||vi.superchatlive.com^
 ||vi.tiktits.com^
 ||vi.tklivechat.com^
+||vi.tranny.show^
 ||vi.tvi.tklivechat.com^
 ||vi.xham.live^
 ||vi.xhlive.cam^
@@ -8591,6 +8687,7 @@
 ||visit.adelaide.edu.au^
 ||visit.atea.fi^
 ||visit.donateblood.com.au^
+||visit.go.tuev.cn^
 ||visit.go.tuv.com^
 ||visit.lifeblood.com.au^
 ||visit.tafensw.edu.au^
@@ -8623,6 +8720,7 @@
 ||vr.nsfwlivechat.com^
 ||vr.omg.adult^
 ||vr.porndudecams.com^
+||vr.sexchatters.com^
 ||vr.sexfortokens.com^
 ||vr.shemale.show^
 ||vr.spankbanglive.com^
@@ -8686,6 +8784,7 @@
 ||web.xmates.com^
 ||web144.chiccams.com^
 ||web4.xham.live^
+||web7.perkinelmer.com^
 ||webanalytics-eu-prd.fpfis.tech.ec.europa.eu^
 ||webinars.att.com^
 ||webinars.cigna.com^
@@ -8804,9 +8903,11 @@
 ||www.adktrack84.xyz^
 ||www.adpinfo.com^
 ||www.aeedee.com^
+||www.almirallhcp.com^
 ||www.ame.stripchat.webcam^
 ||www.aonunited.com^
 ||www.ar.nudescam18.com^
+||www.ar.stripchats.ioar.stripchats.io^
 ||www.archiver.tklivechat.com^
 ||www.armolipid.com.ru^
 ||www.assine.strp.chat^
@@ -8831,6 +8932,7 @@
 ||www.connect.api.almirall.com^
 ||www.creative.boyfriend.show^
 ||www.creative.myavlive.com^
+||www.creditpromo.com^
 ||www.crmlin.unenoteunjour.fr^
 ||www.cruise.xhlive.cam^
 ||www.cruises.boyfriend.show^
@@ -8840,6 +8942,7 @@
 ||www.de.celebjihad.live^
 ||www.de.drtuberlive.com^
 ||www.de.hotzcam.com^
+||www.de.showtime-cams.live^
 ||www.dwnoajagq1fnztr-c.messageperso.fr^
 ||www.efficiency.visma.com^
 ||www.el.sexchatters.com^
@@ -8848,11 +8951,13 @@
 ||www.epargnez.adp.ca^
 ||www.epipenexpiryservice.com^
 ||www.eroscam.ch^
+||www.es.showtime-cams.live^
 ||www.eu.viatrisconnect.com^
 ||www.extoleu.com^
 ||www.fordprotectplans.com^
 ||www.fr.colsex.com^
 ||www.fr.rarecams.com^
+||www.fr.stripchats.globalfr.stripchats.global^
 ||www.fr.stripchats.io^
 ||www.gaylordhotelsnews.com^
 ||www.get.ukg.com^
@@ -8865,6 +8970,7 @@
 ||www.hu.stripchat.global^
 ||www.id.hotzcam.com^
 ||www.id.xham.live^
+||www.id.xhlive.cam^
 ||www.infineon-community.com^
 ||www.info.avalara.com^
 ||www.info.redhat.com^
@@ -8882,6 +8988,7 @@
 ||www.lps-info.arval.com^
 ||www.ma-catinfo.com^
 ||www.maria.stripchat.global^
+||www.marketing.dunnhumby.com^
 ||www.medtronicsolutions.com^
 ||www.mkt.uvg.edu.gt^
 ||www.mobirix.com^
@@ -8895,6 +9002,9 @@
 ||www.myvehicle.eaton.com^
 ||www.netforum.strp.chat^
 ||www.networkingexchange.att.com^
+||www.newscatalanaoccidente.com^
+||www.newsgrupocatalanaoccidente.com^
+||www.no.shemale.show^
 ||www.node2.boyfriend.show^
 ||www.nq-mobile.com^
 ||www.nsfwlivechat.com^
@@ -8923,6 +9033,7 @@
 ||www.response.tandberg.nl^
 ||www.rghqhc3w7w2dvkz-c.clead.xyz^
 ||www.rnfowsuita3ueb4-c.adktrack47.xyz^
+||www.ro.nsfwlivechat.com^
 ||www.ro.rarecams.com^
 ||www.rob.extoleu.com^
 ||www.rob2.extoleu.com^
@@ -8955,11 +9066,14 @@
 ||www.styleitforwardreward.com^
 ||www.superchat.live^
 ||www.superchatlive.com^
+||www.sv.hotzcam.com^
 ||www.sz.stripchatgirls.com^
 ||www.tck020.xyz^
 ||www.tdsip.com^
 ||www.thalesgroup-events.com^
 ||www.tiktits.com^
+||www.tr.stripchats.global^
+||www.tr.tranny.show^
 ||www.tracking.adp.ch^
 ||www.tracking.adp.co.uk^
 ||www.tracking.dunnhumby.com^
@@ -8975,6 +9089,7 @@
 ||www.viatrisneuropathicpain.co.uk^
 ||www.viatrisvantage.com.au^
 ||www.vr.stripchats.io^
+||www.webinars.att.com^
 ||www.whennotsharingiscaring.com^
 ||www.xenon.xhlive.cam^
 ||www.xham.live^
@@ -9001,7 +9116,6 @@
 ||wwww.celebjihad.live^
 ||wwww.superchat.live^
 ||wxk8hign3oj6qko-p.akming.xyz^
-||x.njnxhh.xyz^
 ||x142.xham.live^
 ||x207.stripchats.io^
 ||x3d92kl8umj0drc-p.tck020.xyz^
@@ -9062,7 +9176,6 @@
 ||ynoh0xxv9uqlc4k-p.adkoffer.fr^
 ||your.mapandmarket.ptvgroup.com^
 ||your.visum.ptvgroup.com^
-||yourporsche.nabooda-auto.com^
 ||yourporscheimg.nabooda-auto.com^
 ||youtubejpblog.myavlive.com^
 ||ypibzgxrmqzen9r-p.adktrack34.xyz^
@@ -9085,10 +9198,12 @@
 ||zh.hot-india.com^
 ||zh.hotzcam.com^
 ||zh.instantfapcams.com^
+||zh.live.herecams.com^
 ||zh.live7mm.tv^
 ||zh.login.myavlive.com^
 ||zh.myavlive.com^
 ||zh.mycamtv.com^
+||zh.nsfwlivechat.com^
 ||zh.omg.adult^
 ||zh.online.videosdetravestis.net^
 ||zh.porndudecams.com^
@@ -9100,9 +9215,11 @@
 ||zh.strip-chat.club^
 ||zh.stripchat.beeg.com^
 ||zh.stripchat.global^
+||zh.stripchat.io^
 ||zh.stripchat.ooo^
 ||zh.stripchat.org^
 ||zh.stripchat.porn^
+||zh.stripchat.vision^
 ||zh.stripchat.webcam^
 ||zh.stripchatgirls.com^
 ||zh.stripchatlive.com^
@@ -9134,6 +9251,7 @@
 ||zt.shemale.show^
 ||zt.spankbanglive.com^
 ||zt.stripchat.global^
+||zt.stripchat.ooo^
 ||zt.stripchat.org^
 ||zt.stripchat.webcam^
 ||zt.stripchatgirls.com^

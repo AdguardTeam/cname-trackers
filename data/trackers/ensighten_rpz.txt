@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -157,6 +157,7 @@ cmp.vdfin.be CNAME .
 cmp.volkswagen.be CNAME .
 cookieconsent.kornferry.com CNAME .
 cookies.jll-mena.com CNAME .
+cookies.jll.be CNAME .
 cookies.jll.ca CNAME .
 cookies.jll.ch CNAME .
 cookies.jll.cl CNAME .
@@ -238,7 +239,6 @@ ens.nzzmediasolutions.ch CNAME .
 ens.obwaldnerzeitung.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.thurgauerzeitung.ch CNAME .
-ens.toggenburgertagblatt.ch CNAME .
 ens.urnerzeitung.ch CNAME .
 ens.wilerzeitung.ch CNAME .
 ens.zugerzeitung.ch CNAME .

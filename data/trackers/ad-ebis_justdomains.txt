@@ -104,7 +104,6 @@ adebis.report.clinic
 adebis.reruju.com
 adebis.rishiria-furel.com
 adebis.s-toushi.jp
-adebis.saison-pocket.com
 adebis.satori.marketing
 adebis.sbishinseibank.co.jp
 adebis.sbpayment.jp
@@ -253,6 +252,7 @@ ebis.glico-direct.jp
 ebis.gokusen-ichiba.com
 ebis.goldcrest.co.jp
 ebis.housekeeping.or.jp
+ebis.ihistory.cloud
 ebis.ihistory.site
 ebis.j-l-m.co.jp
 ebis.jinzai-business.com

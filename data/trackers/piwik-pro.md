@@ -21,10 +21,12 @@
     * fjordtravel.piwik.pro
     * helen.piwik.pro
     * ind.piwik.pro
+    * jetu.piwik.pro
     * kuka.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
+    * netdriven.piwik.pro
     * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * polpharma.piwik.pro
@@ -43,6 +45,7 @@
     * sozialversicherung.piwik.pro
     * stateofohio.piwik.pro
     * storck.piwik.pro
+    * svc-test.piwik.pro
     * tigital.piwik.pro
     * triodos.piwik.pro
     * tweedekamer.piwik.pro
@@ -65,6 +68,7 @@
 | stats.arinet.com | ari.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
+| piwik.slotsparadise.com | betus.piwik.pro |
 | piwik.vegasaces.com | betus.piwik.pro |
 | piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
@@ -79,11 +83,13 @@
 | fpt.gofjords.com | fjordtravel.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
+| wa.love2play.com | jetu.piwik.pro |
 | p-k.kuka.com | kuka.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
+| stats.netdriven.com | netdriven.piwik.pro |
 | statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | polpharmaanalytics.pl | polpharma.piwik.pro |
@@ -112,6 +118,7 @@
 | piwik.eib.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
+| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
@@ -142,8 +149,6 @@
 | logfiles.storck.com | pp-public-p-gwc.piwik.pro |
 | p.zwilling.com | pp-public-p-gwc.piwik.pro |
 | piwik.com-online.com | pp-public-p-gwc.piwik.pro |
-| ptm.wuerth.de | pp-public-p-gwc.piwik.pro |
-| ptm.wuerth.de | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tagadmin.aumago.com | pp-public-p-gwc.piwik.pro |
@@ -168,6 +173,7 @@
 | analytics.dx.ohio.gov | stateofohio.piwik.pro |
 | site-analytics.iop.ohio.gov | stateofohio.piwik.pro |
 | logfiles.storck.com | storck.piwik.pro |
+| analysis-test.sozialversicherung.at | svc-test.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
@@ -187,5 +193,4 @@
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |
 | analytics.witglobal.net | witglobal.piwik.pro |
-| ptm.wuerth.de | witglobal.piwik.pro |
 | p.zwilling.com | zwilling.piwik.pro |

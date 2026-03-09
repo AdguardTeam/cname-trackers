@@ -47,7 +47,7 @@ aiqx.travismathew.co.uk
 aiqx.travismathew.com
 aiqx.wheeloffortune.com
 aiqx.www.ghostbusters.com
-anx-new.learnwithhomer.com
+anx-staging.learnwithhomer.com
 anx.learnwithhomer.com
 events-meta-events.outsideonline.com
 meta-events.athletereg.com
@@ -93,5 +93,5 @@ mr-in.beginlearning.com
 mr-in.littlepassports.com
 mr.olympics.com
 mr.pinkbike.com
+anx-new.learnwithhomer.com
 anx-new.littlepassports.com
-anx-staging.learnwithhomer.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -62,6 +62,7 @@ afm.startradervn.net CNAME .
 afm.sthub.cc CNAME .
 afm.strmarketing.net CNAME .
 afm.strpro.me CNAME .
+afm.thestarmkt.com CNAME .
 afm.ultima-markets.com CNAME .
 afm.ultimamarkets.asia CNAME .
 afm.ultimamarkets.com CNAME .
@@ -138,6 +139,7 @@ argospay-tmx-content.argos.co.uk CNAME .
 asanalytics.booking.com CNAME .
 assessment.nj.betmgm.com CNAME .
 asset.nomura.co.jp CNAME .
+asset.uat.gt-starmf.jp CNAME .
 assets.harlandclarke.com CNAME .
 assets.signup.ifxpayments.com CNAME .
 assets.werally.co CNAME .
@@ -284,6 +286,7 @@ claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
+cnt.aeonbank.com.my CNAME .
 cnt.dllpayment.com CNAME .
 cnt.faktoria.pl CNAME .
 cnt.patpat.com CNAME .
@@ -553,6 +556,7 @@ device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
 device.messa.org CNAME .
 device.register.greenlight.com CNAME .
+deviceauth.dmv.ca.gov CNAME .
 devicecontent.icuracao.com CNAME .
 devices.yondercard.com CNAME .
 df.fragrancex.com CNAME .
@@ -614,6 +618,7 @@ fccontent.suitsmecard.com CNAME .
 fd-tm.upgrade.com CNAME .
 fd.luminor.me CNAME .
 fdts.kleinanzeigen.de CNAME .
+fingate.wingie.com CNAME .
 fingerprint.fool.com CNAME .
 fms-dev.citysavings.net.ph CNAME .
 fms.perahub.com.ph CNAME .
@@ -638,7 +643,6 @@ fp.simplybe.co.uk CNAME .
 fp.ubagroup.com CNAME .
 fp.ups.com CNAME .
 fpcn.bpsgameserver.com CNAME .
-fpmobile.uplift-platform.com CNAME .
 fps.lascana.nl CNAME .
 fps.otto.nl CNAME .
 fpt.norton.com CNAME .
@@ -832,7 +836,6 @@ online-security.unionbankph.com CNAME .
 online.nbc.ca CNAME .
 onlineapplications.anz.com CNAME .
 onlinemetrix.liverpool.com.mx CNAME .
-ons.tickets.com CNAME .
 optm.optus.com.au CNAME .
 osn-cirrus.cas.org CNAME .
 p8bbv1.fiservapps.com CNAME .
@@ -877,6 +880,7 @@ prod-ascuaz.chaperone.lumindigitalhosting.com CNAME .
 prod-baxter.chaperone.lumindigitalhosting.com CNAME .
 prod-berne.chaperone.lumindigitalhosting.com CNAME .
 prod-blucurrent.chaperone.lumindigitalhosting.com CNAME .
+prod-cabrillo-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-cardinal.chaperone.lumindigitalhosting.com CNAME .
 prod-ccuil.chaperone.lumindigitalhosting.com CNAME .
 prod-cfcuwi.chaperone.lumindigitalhosting.com CNAME .
@@ -1126,6 +1130,7 @@ tag.findmassmoney.gov CNAME .
 tag.findyourunclaimedproperty.com CNAME .
 tag.icash.illinoistreasurer.gov CNAME .
 tag.maineunclaimedproperty.gov CNAME .
+tag.missingmoney.ks.gov CNAME .
 tag.mycash.utah.gov CNAME .
 tag.ucp.dor.wa.gov CNAME .
 tag.unclaimed.nccash.gov CNAME .
@@ -1168,6 +1173,7 @@ tblsdp.tonybet.ca CNAME .
 tbp.tescobank.com CNAME .
 tcontent.auchantelecom.fr CNAME .
 tcontent.nrjmobile.fr CNAME .
+telem.astro.space CNAME .
 telempdf.vepormas.com CNAME .
 tfet.fltreasurehunt.gov CNAME .
 tfp.intuit.com CNAME .
@@ -1205,10 +1211,6 @@ tm.cbd.ae CNAME .
 tm.clearcover.com CNAME .
 tm.computeruniverse.net CNAME .
 tm.cox.com CNAME .
-tm.creditcheck.illion.co.nz CNAME .
-tm.creditcheck.illion.com.au CNAME .
-tm.creditprotect.illion.co.nz CNAME .
-tm.creditprotect.illion.com.au CNAME .
 tm.cyberport.de CNAME .
 tm.cybersource.com CNAME .
 tm.defense.dbp.fiservapps.com CNAME .
@@ -1250,7 +1252,6 @@ tm.tbcbusiness.uz CNAME .
 tm.telecharge.com CNAME .
 tm.thescore.bet CNAME .
 tm.uship.com CNAME .
-tm.verify.illion.com.au CNAME .
 tmcdn.7sultanscasino.com CNAME .
 tmcdn.alljackpotscasino.com CNAME .
 tmcdn.allslotscasino.com CNAME .

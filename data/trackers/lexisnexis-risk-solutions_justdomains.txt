@@ -51,6 +51,7 @@ afm.startradervn.net
 afm.sthub.cc
 afm.strmarketing.net
 afm.strpro.me
+afm.thestarmkt.com
 afm.ultima-markets.com
 afm.ultimamarkets.asia
 afm.ultimamarkets.com
@@ -127,6 +128,7 @@ argospay-tmx-content.argos.co.uk
 asanalytics.booking.com
 assessment.nj.betmgm.com
 asset.nomura.co.jp
+asset.uat.gt-starmf.jp
 assets.harlandclarke.com
 assets.signup.ifxpayments.com
 assets.werally.co
@@ -273,6 +275,7 @@ claimant.vec.virginia.gov
 clear.wallapop.com
 clovergo.june-testing.firstdata.com
 cmprofile.cards.citidirect.com
+cnt.aeonbank.com.my
 cnt.dllpayment.com
 cnt.faktoria.pl
 cnt.patpat.com
@@ -542,6 +545,7 @@ device-profile.jeniusbank.com
 device.invoice2go.com
 device.messa.org
 device.register.greenlight.com
+deviceauth.dmv.ca.gov
 devicecontent.icuracao.com
 devices.yondercard.com
 df.fragrancex.com
@@ -603,6 +607,7 @@ fccontent.suitsmecard.com
 fd-tm.upgrade.com
 fd.luminor.me
 fdts.kleinanzeigen.de
+fingate.wingie.com
 fingerprint.fool.com
 fms-dev.citysavings.net.ph
 fms.perahub.com.ph
@@ -627,7 +632,6 @@ fp.simplybe.co.uk
 fp.ubagroup.com
 fp.ups.com
 fpcn.bpsgameserver.com
-fpmobile.uplift-platform.com
 fps.lascana.nl
 fps.otto.nl
 fpt.norton.com
@@ -821,7 +825,6 @@ online-security.unionbankph.com
 online.nbc.ca
 onlineapplications.anz.com
 onlinemetrix.liverpool.com.mx
-ons.tickets.com
 optm.optus.com.au
 osn-cirrus.cas.org
 p8bbv1.fiservapps.com
@@ -866,6 +869,7 @@ prod-ascuaz.chaperone.lumindigitalhosting.com
 prod-baxter.chaperone.lumindigitalhosting.com
 prod-berne.chaperone.lumindigitalhosting.com
 prod-blucurrent.chaperone.lumindigitalhosting.com
+prod-cabrillo-mercury2023.chaperone.lumindigitalhosting.com
 prod-cardinal.chaperone.lumindigitalhosting.com
 prod-ccuil.chaperone.lumindigitalhosting.com
 prod-cfcuwi.chaperone.lumindigitalhosting.com
@@ -1115,6 +1119,7 @@ tag.findmassmoney.gov
 tag.findyourunclaimedproperty.com
 tag.icash.illinoistreasurer.gov
 tag.maineunclaimedproperty.gov
+tag.missingmoney.ks.gov
 tag.mycash.utah.gov
 tag.ucp.dor.wa.gov
 tag.unclaimed.nccash.gov
@@ -1157,6 +1162,7 @@ tblsdp.tonybet.ca
 tbp.tescobank.com
 tcontent.auchantelecom.fr
 tcontent.nrjmobile.fr
+telem.astro.space
 telempdf.vepormas.com
 tfet.fltreasurehunt.gov
 tfp.intuit.com
@@ -1194,10 +1200,6 @@ tm.cbd.ae
 tm.clearcover.com
 tm.computeruniverse.net
 tm.cox.com
-tm.creditcheck.illion.co.nz
-tm.creditcheck.illion.com.au
-tm.creditprotect.illion.co.nz
-tm.creditprotect.illion.com.au
 tm.cyberport.de
 tm.cybersource.com
 tm.defense.dbp.fiservapps.com
@@ -1239,7 +1241,6 @@ tm.tbcbusiness.uz
 tm.telecharge.com
 tm.thescore.bet
 tm.uship.com
-tm.verify.illion.com.au
 tmcdn.7sultanscasino.com
 tmcdn.alljackpotscasino.com
 tmcdn.allslotscasino.com

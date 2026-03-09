@@ -42,7 +42,6 @@
 | c4n.thefreejapaneseporn.com | api.clickaine.com |
 | c4n.xxx8.me | api.clickaine.com |
 | ca.infomix.best | api.clickaine.com |
-| cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
 | cc.histoires-de-sexe.club | api.clickaine.com |
 | cc.relatoseroticos-gratis.com | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
@@ -64,6 +63,7 @@
 | clknrtrg.pro | api.clickaine.com |
 | cn4.animehdl.net | api.clickaine.com |
 | cza4wopwcvdiq6sg.brandnewapp.pro | api.clickaine.com |
+| dashww.hotscopes.net | api.clickaine.com |
 | ddd.contoseroticoscnn.com | api.clickaine.com |
 | ddd.sexstories69.com | api.clickaine.com |
 | dfx.xtapes.porn | api.clickaine.com |

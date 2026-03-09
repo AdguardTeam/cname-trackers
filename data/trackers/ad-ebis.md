@@ -168,7 +168,6 @@
     * 72a0097c-scxitlgt.cname.ebis.ne.jp
     * 730fac49-ezdvkv2x.cname.ebis.ne.jp
     * 73b08207-acrymmnj.cname.ebis.ne.jp
-    * 74583186-mvysh92x.cname.ebis.ne.jp
     * 7480e75d-vhd4fq1g.cname.ebis.ne.jp
     * 748da21f-kuqpafku.cname.ebis.ne.jp
     * 764e38c5-th0o4wui.cname.ebis.ne.jp
@@ -268,6 +267,7 @@
     * b69bfde6-esqb2ypb.cname.ebis.ne.jp
     * b8c55ecd-zx8ipvjj.cname.ebis.ne.jp
     * b91cdac9-llbfadyx.cname.ebis.ne.jp
+    * b980a01b-y5fxrixi.cname.ebis.ne.jp
     * b9919944-fbw7r35c.cname.ebis.ne.jp
     * b9f16cb4-srrg93nh.cname.ebis.ne.jp
     * ba862930-6pusefyf.cname.ebis.ne.jp
@@ -535,7 +535,6 @@
 | cs0008sbeda.uricacid-lowering.com | 72a0097c-scxitlgt.cname.ebis.ne.jp |
 | ebis.bulk.co.jp | 730fac49-ezdvkv2x.cname.ebis.ne.jp |
 | cname.sokuyaku.jp | 73b08207-acrymmnj.cname.ebis.ne.jp |
-| adebis.saison-pocket.com | 74583186-mvysh92x.cname.ebis.ne.jp |
 | ad.aim-universe.co.jp | 7480e75d-vhd4fq1g.cname.ebis.ne.jp |
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |
 | adebis-catstreet.trunk-hotel.com | 764e38c5-th0o4wui.cname.ebis.ne.jp |
@@ -635,6 +634,7 @@
 | ebis.15jikai.com | b69bfde6-esqb2ypb.cname.ebis.ne.jp |
 | adebis.entetsu.co.jp | b8c55ecd-zx8ipvjj.cname.ebis.ne.jp |
 | ebiscname.j-esthe-yoyaku.com | b91cdac9-llbfadyx.cname.ebis.ne.jp |
+| ebis.ihistory.cloud | b980a01b-y5fxrixi.cname.ebis.ne.jp |
 | adebis.yourmeal.jp | b9919944-fbw7r35c.cname.ebis.ne.jp |
 | greenjapan-cname.green-japan.com | b9f16cb4-srrg93nh.cname.ebis.ne.jp |
 | ebis-tracking.tcb-setagaya.com | ba862930-6pusefyf.cname.ebis.ne.jp |

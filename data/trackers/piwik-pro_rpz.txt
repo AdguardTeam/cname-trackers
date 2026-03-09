@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -46,7 +46,6 @@ piwik.twyzle.com CNAME .
 piwik.vegasaces.com CNAME .
 piwikpro.vodafone.com CNAME .
 polpharmaanalytics.pl CNAME .
-ptm.wuerth.de CNAME .
 purple.fitchconnect.com CNAME .
 pwk.tweedekamer.nl CNAME .
 site-analytics.iop.ohio.gov CNAME .

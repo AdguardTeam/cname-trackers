@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1772438427296        ; Serial
+           1773043256006        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,7 +45,6 @@ c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.xxx8.me CNAME .
 ca.infomix.best CNAME .
-cc.histoires-de-sexe-gratuites.com CNAME .
 cc.histoires-de-sexe.club CNAME .
 cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
@@ -67,6 +66,7 @@ clkn3.apostle.onl CNAME .
 clknrtrg.pro CNAME .
 cn4.animehdl.net CNAME .
 cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
+dashww.hotscopes.net CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dfx.xtapes.porn CNAME .
