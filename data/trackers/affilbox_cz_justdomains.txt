@@ -226,7 +226,6 @@ affiliate.reduccia.cz
 affiliate.reponio.cz
 affiliate.richardstepan.cz
 affiliate.rixo.cz
-affiliate.rustspolecne.cz
 affiliate.sexshop.cz
 affiliate.siko.cz
 affiliate.smarty.cz
@@ -265,7 +264,6 @@ affilpartner.descanti.com
 affilpartneri.affilbusiness.cz
 afill.e-potisk.cz
 ambasador.montessorikurz.cz
-ambasador.rustspolecne.cz
 ambasadorky.zenyzenam.cz
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
@@ -721,6 +719,7 @@ partner.swaglift.com
 partner.sypanycaj.eu
 partner.t-shock.eu
 partner.tahnabranu.cz
+partner.taxomat.cz
 partner.thechillidoctor.cz
 partner.thelisteningworld.com
 partner.tinecostore.cz

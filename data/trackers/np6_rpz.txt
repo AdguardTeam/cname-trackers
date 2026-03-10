@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -427,6 +427,7 @@ tr.emc.moethennessy.com CNAME .
 tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
 tr.enquetes.actionlogement.fr CNAME .
+tr.enquetevrs.fr CNAME .
 tr.entreprise-pro.info CNAME .
 tr.entreprise.axa.fr CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
@@ -786,6 +787,7 @@ tr.news.chezmonveto.com CNAME .
 tr.news.chilican.com CNAME .
 tr.news.cioradio.tv CNAME .
 tr.news.clicochic.com CNAME .
+tr.news.companeo.com CNAME .
 tr.news.companeo.es CNAME .
 tr.news.companeo.ro CNAME .
 tr.news.corsicaferries.com CNAME .
@@ -1231,6 +1233,7 @@ f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
 www.bfc-mp.caisse-epargne.fr CNAME .
+s.allopneus.com CNAME .
 s.gemy.fr CNAME .
 s.lgch.mp CNAME .
 s.np6.com CNAME .

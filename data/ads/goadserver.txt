@@ -2,12 +2,12 @@
 ! Company name: GoAdserver
 ||ad.srvupads.com^
 ||advserver.asiantb.com^
+||az.tbllem.com^
 ||cdn.goasrv.com^
 ||display.digitalclickstime.com^
 ||ff.charmduo.site^
 ||ff.electricoz.life^
 ||ff.finaster.top^
-||ff.heartbeats.space^
 ||ff.nolvade.top^
 ||ff.padelit.click^
 ||ff.rosuirone.digital^
@@ -24,8 +24,8 @@
 ||go.novirtb.com^
 ||go.panotads.com^
 ||go.redgifs.com^
+||go.soobix.com^
 ||go.static-srv.com^
-||go.tbllem.com^
 ||go.tbllprem.com^
 ||go.tbllrej.com^
 ||go.tbllzon.com^
@@ -36,7 +36,6 @@
 ||go1.nolvadex.top^
 ||go1.reacheffecti.work^
 ||go1.reachsrv.com^
-||go1.rssr.work^
 ||go1.sildenafi.beauty^
 ||go1.tbllad.com^
 ||go1.tjre.work^
@@ -74,15 +73,16 @@
 ||live.trmzum.com^
 ||live.trudigo.com^
 ||live.zrmtrm.com^
+||pl.tbllem.com^
 ||up.tbllem.com^
 ||ad.slimspots.com^
 ||ads.coinads.click^
 ||adserver.asiantb.com^
-||az.tbllem.com^
 ||ff.avacharms.top^
 ||ff.buspar.click^
 ||ff.datenest.store^
 ||ff.dreamdates.online^
+||ff.heartbeats.space^
 ||ff.nadache.top^
 ||ff.raposoft.buzz^
 ||ff.sweetconnect.site^
@@ -90,15 +90,16 @@
 ||go.bidvance.com^
 ||go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com^
 ||go.tbllad.com^
+||go.tbllem.com^
 ||go1.bhunif.com^
 ||go1.ccre.work^
 ||go1.lire.work^
 ||go1.orenwiki.top^
+||go1.rssr.work^
 ||go1.spre.work^
 ||go1.traffytrack.digital^
 ||go1.trakit21.com^
 ||live.publyt.com^
-||pl.tbllem.com^
 ||rtb.prnteen.com^
 ||app.noviclick.com^
 ||assets.go-static.info^

@@ -24,6 +24,7 @@
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
+| s.allopneus.com | shortener.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
 | s.lgch.mp | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
@@ -444,6 +445,7 @@
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.enews.customsolutions.fr | tracking.bp01.net |
 | tr.enquetes.actionlogement.fr | tracking.bp01.net |
+| tr.enquetevrs.fr | tracking.bp01.net |
 | tr.entreprise-pro.info | tracking.bp01.net |
 | tr.entreprise.axa.fr | tracking.bp01.net |
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
@@ -803,6 +805,7 @@
 | tr.news.chilican.com | tracking.bp01.net |
 | tr.news.cioradio.tv | tracking.bp01.net |
 | tr.news.clicochic.com | tracking.bp01.net |
+| tr.news.companeo.com | tracking.bp01.net |
 | tr.news.companeo.es | tracking.bp01.net |
 | tr.news.companeo.ro | tracking.bp01.net |
 | tr.news.corsicaferries.com | tracking.bp01.net |

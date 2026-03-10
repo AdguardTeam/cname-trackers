@@ -12,7 +12,6 @@
 ||adat.boon.hu^
 ||adat.borsonline.hu^
 ||adat.bravo.hu^
-||adat.csupasport.hu^
 ||adat.delmagyar.hu^
 ||adat.dietaesfitnesz.hu^
 ||adat.duol.hu^

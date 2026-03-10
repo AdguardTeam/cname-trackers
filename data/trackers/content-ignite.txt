@@ -16,10 +16,9 @@
 ||blackberry.suvinil.com.br^
 ||collect.aeonbank.co.jp^
 ||collect.asics.com^
-||collect.calvinklein.at^
 ||collect.calvinklein.co.uk^
-||collect.calvinklein.cz^
 ||collect.calvinklein.de^
+||collect.calvinklein.dk^
 ||collect.calvinklein.es^
 ||collect.calvinklein.fi^
 ||collect.calvinklein.fr^
@@ -161,6 +160,7 @@
 ||tags.calvinklein.fi^
 ||tags.calvinklein.fr^
 ||tags.calvinklein.hr^
+||tags.calvinklein.hu^
 ||tags.calvinklein.ie^
 ||tags.calvinklein.it^
 ||tags.calvinklein.lt^
@@ -170,7 +170,6 @@
 ||tags.calvinklein.pl^
 ||tags.calvinklein.pt^
 ||tags.calvinklein.se^
-||tags.calvinklein.si^
 ||tags.calvinklein.sk^
 ||tags.cardscout.de^
 ||tags.carecredit.com^
@@ -377,7 +376,6 @@
 ||tccd.douglas.pt^
 ||tccd.douglas.ro^
 ||tccd.douglas.sk^
-||tccd.niche-beauty.com^
 ||tccd.nocibe.fr^
 ||tccd.parfumdreams.de^
 ||teal.cdt.santander.com.co^
@@ -429,7 +427,6 @@
 ||tms.data.hsbc.com^
 ||tms.oracle.com^
 ||tms.tescomobile.com^
-||tptd.douglas.nl^
 ||ts.congstar.de^
 ||ttm.goertz.de^
 ||tttd.douglas.at^
@@ -468,6 +465,7 @@
 ||tttd.parfumdreams.pl^
 ||tttd.parfumdreams.pt^
 ||tttd.parfumdreams.se^
+||view.oportun.com^
 ||view.stylebob.com^
 ||visitor-service.aeonbank.co.jp^
 ||visitor-service.ansons.de^
@@ -491,11 +489,12 @@
 ||www.tags.kmart.com.au^
 ||www.tiq.monash.edu^
 ||collect.ansons.de^
+||collect.calvinklein.at^
 ||collect.calvinklein.be^
 ||collect.calvinklein.bg^
 ||collect.calvinklein.ch^
 ||collect.calvinklein.com^
-||collect.calvinklein.dk^
+||collect.calvinklein.cz^
 ||collect.calvinklein.ee^
 ||collect.calvinklein.hu^
 ||collect.calvinklein.lu^
@@ -508,6 +507,7 @@
 ||pixel.peek-cloppenburg.nl^
 ||tccd.disapo.de^
 ||tccd.douglas.si^
+||tccd.niche-beauty.com^
 ||collect.fancl.co.jp^
 ||collect.kinto-jp.com^
 ||collect.sixpad.jp^
@@ -517,11 +517,12 @@
 ||tags.ansons.de^
 ||tags.peek-cloppenburg.pl^
 ||tags.stylebob.com^
-||tags.calvinklein.hu^
+||tags.calvinklein.si^
 ||tags.sixpad.jp^
 ||tptd.douglas.be^
 ||tptd.douglas.es^
 ||tptd.douglas.lt^
+||tptd.douglas.nl^
 ||tptd.douglas.sk^
 ||tptd.nocibe.fr^
 ||tvtd.douglas.cz^
@@ -532,4 +533,3 @@
 ||view.peek-cloppenburg.at^
 ||view.peek-cloppenburg.de^
 ||tttd.parfumdreams.fi^
-||view.oportun.com^

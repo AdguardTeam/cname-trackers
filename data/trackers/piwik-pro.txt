@@ -55,5 +55,6 @@
 ||tagmanager.becop.nl^
 ||wa.love2play.com^
 ||webanalytics.helen.fi^
+||www.webanalytics-az.acc.fpfis.tech.ec.europa.eu^
 ||www.webanalytics.europa.eu^
 ||www.webengage.ae^

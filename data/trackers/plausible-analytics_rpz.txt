@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -213,6 +213,7 @@ plausible.tac.dappstar.io CNAME .
 plausible.thefutureoftheworkplacebook.com CNAME .
 plausible.tlschedule.com CNAME .
 plausible.treelightsoftware.com CNAME .
+plausible.urbanekuensteruhr.de CNAME .
 plausible.veszelovszki.com CNAME .
 plausible.wordstamped.com CNAME .
 plausible.yalepaprika.com CNAME .
@@ -545,6 +546,7 @@ stats.limitlessnetworks.eu CNAME .
 stats.lippeshirts.de CNAME .
 stats.literacysomerset.org CNAME .
 stats.literaturkreis.online CNAME .
+stats.llia.ms CNAME .
 stats.lmdsp.com CNAME .
 stats.localmetravel.com CNAME .
 stats.ltdhunt.com CNAME .
@@ -735,6 +737,7 @@ stats.trypricelist.com CNAME .
 stats.tubecalculator.co.uk CNAME .
 stats.turisme.nu CNAME .
 stats.twhl.xyz CNAME .
+stats.two19.co CNAME .
 stats.unka.space CNAME .
 stats.unusualtourist.com CNAME .
 stats.urbanfinn.com CNAME .

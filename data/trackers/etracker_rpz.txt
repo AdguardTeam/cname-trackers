@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -163,6 +163,7 @@ met.hanser-automotive.de CNAME .
 met.hanser-kundencenter.de CNAME .
 met.hanser-literaturverlage.de CNAME .
 met.kunststoffe.de CNAME .
+met.werkstatt-betrieb.de CNAME .
 meter.rhinobag.de CNAME .
 metrics.bauwerk.de CNAME .
 metrics.cannamedical.com CNAME .

@@ -416,6 +416,7 @@ tr.emc.moethennessy.com
 tr.enedis-infos.fr
 tr.enews.customsolutions.fr
 tr.enquetes.actionlogement.fr
+tr.enquetevrs.fr
 tr.entreprise-pro.info
 tr.entreprise.axa.fr
 tr.envie-de-bien-manger.espmp-aufr.net
@@ -775,6 +776,7 @@ tr.news.chezmonveto.com
 tr.news.chilican.com
 tr.news.cioradio.tv
 tr.news.clicochic.com
+tr.news.companeo.com
 tr.news.companeo.es
 tr.news.companeo.ro
 tr.news.corsicaferries.com
@@ -1220,6 +1222,7 @@ f1.np6.com
 infojeux.paris.fr
 lbv5.mperf.com
 www.bfc-mp.caisse-epargne.fr
+s.allopneus.com
 s.gemy.fr
 s.lgch.mp
 s.np6.com

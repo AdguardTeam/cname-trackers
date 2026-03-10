@@ -145,6 +145,7 @@ jacilla-static.reviveservers.com
 lalala.geenstijl.nl
 marriagetrac-delivery.reviveservers.com
 media.revive-adserver.com
+media.revive-adserver.net
 media360ads.midtc.com
 nyfa-images.reviveservers.com
 omroepflevoland-static.reviveservers.com

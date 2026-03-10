@@ -169,6 +169,7 @@ utiq.football.fr
 utiq.football365.fr
 utiq.formel1.de
 utiq.fr.de
+utiq.francetv.fr
 utiq.frandroid.com
 utiq.fuehrerscheintest-online.de
 utiq.funandnews.de
@@ -350,6 +351,7 @@ utiq.nrpyrenees.fr
 utiq.numerama.com
 utiq.oberhessische-zeitung.de
 utiq.oktoberfest.bayern
+utiq.ondavasca.com
 utiq.op-online.de
 utiq.orange.es
 utiq.ouest-france.fr

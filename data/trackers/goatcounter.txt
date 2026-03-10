@@ -143,6 +143,7 @@
 ||stats.raycordlegends.com^
 ||stats.realestate.if.ua^
 ||stats.realestate.kyiv.ua^
+||stats.rewindmtv.com^
 ||stats.rezhajul.io^
 ||stats.risanne.nl^
 ||stats.rocketgoboom.lol^
@@ -160,6 +161,7 @@
 ||stats.transactional.blog^
 ||stats.umcconnell.net^
 ||stats.uygar.sh^
+||stats.webmeasurements.org^
 ||stats.whatacools.com^
 ||stats.ybbond.id^
 ||stats.yunseo.kim^

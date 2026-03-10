@@ -305,6 +305,7 @@ social.eleveur-laitier.fr
 social.lafranceagricole.fr
 social.latoque.fr
 social.terre-net-occasions.fr
+social.web-agri.fr
 static.nonli.com
 sur.corsematin.com
 sur.laprovence.com

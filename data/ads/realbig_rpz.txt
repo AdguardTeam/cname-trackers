@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ fft.delovoemesto.ru CNAME .
 he.zymorico.ru CNAME .
 m3.repka.online CNAME .
 media.olmiweb.com CNAME .
+media.rabbit.click CNAME .
 mu.zilovaro.store CNAME .
 my.rb2psh.ru CNAME .
 newrotatormarch23.bid CNAME .

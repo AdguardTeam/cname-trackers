@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -316,6 +316,7 @@ social.eleveur-laitier.fr CNAME .
 social.lafranceagricole.fr CNAME .
 social.latoque.fr CNAME .
 social.terre-net-occasions.fr CNAME .
+social.web-agri.fr CNAME .
 static.nonli.com CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .

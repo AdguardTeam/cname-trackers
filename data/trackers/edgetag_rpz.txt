@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -288,6 +288,7 @@ ebzel.fashionnova.com CNAME .
 eckje.furking.com.au CNAME .
 ecrzm.cusocuts.com CNAME .
 ecsnl.hotelcollection.au CNAME .
+eczip.bee-enriched.eu CNAME .
 edjsl.hierbasorganicas.com.mx CNAME .
 edmcq.naturalmedicine.blog CNAME .
 edugm.bigfrogsupply.com CNAME .
@@ -614,6 +615,7 @@ ivfzv.getneuromd.com CNAME .
 iviea.hotelcollectionofficial.com.br CNAME .
 ivpvb.sunriverhoney.com CNAME .
 izgfa.visitorpixel.com CNAME .
+izgmr.medisave.co.uk CNAME .
 izgve.sokolovelaw.com CNAME .
 jacsg.belaro.ro CNAME .
 jbanv.etrendygo.com CNAME .
@@ -848,6 +850,7 @@ mbuht.presscription.co.uk CNAME .
 mbvqq.rmsbeauty.com CNAME .
 mdemk.sokolovelaw.com CNAME .
 mdhuf.rebelsrefinery.com CNAME .
+mdntu.etrendygo.com CNAME .
 mecio.farmhousefreshgoods.com CNAME .
 mekbm.ullala.ca CNAME .
 melda.koala.com CNAME .
@@ -1291,6 +1294,7 @@ srotn.familygiftsco.com CNAME .
 sruaa.sonsieskin.com CNAME .
 srzei.buypetals.com CNAME .
 ssesh.rileyleisure.com CNAME .
+ssjag.getlean.com.au CNAME .
 ssjfm.cadenlane.com CNAME .
 ssksc.giftsforyounow.com CNAME .
 ssuzg.everythingfor420.com CNAME .
@@ -1504,6 +1508,7 @@ vzmqc.thermajohn.com CNAME .
 vznlp.eberjey.com CNAME .
 vzoco.thursdayboots.com CNAME .
 vzpua.emango.bg CNAME .
+vzuih.montessoribucuresti.ro CNAME .
 zacec.coverfx.com CNAME .
 zajio.ionlayer.com CNAME .
 zamkh.mygardyn.com CNAME .
@@ -1750,6 +1755,7 @@ cbjtv.backcountry.com CNAME .
 cblqq.pearlpop.com CNAME .
 cbpog.gruntstyle.com CNAME .
 cbtks.happysocks.com CNAME .
+cbzhv.sageandpaije.co.uk CNAME .
 ccbsr.awarehousefull.com CNAME .
 ccjep.onehopewine.com CNAME .
 ccllt.fromrebel.ca CNAME .
@@ -2091,6 +2097,7 @@ gtrib.kitandkaboodal.com CNAME .
 gucir.bakerssquare.com CNAME .
 gvggg.shiseido.com CNAME .
 gwddp.iltutto.com.au CNAME .
+gwfyn.ptmassagespringfieldmo.com CNAME .
 gycxh.thingsremembered.com CNAME .
 gzbte.thelipbar.com CNAME .
 haccz.moonglow.com CNAME .
@@ -2176,6 +2183,7 @@ idnqg.dermaclara.com CNAME .
 idopm.progressjj.co.uk CNAME .
 idsfq.katespade.de CNAME .
 idsod.catholic.com CNAME .
+iebld.volcom.com CNAME .
 iegvm.threadwallets.com CNAME .
 iemtz.admsport.com CNAME .
 ieugf.northstyle.com CNAME .
@@ -2515,6 +2523,7 @@ muajg.davidsbridal.com CNAME .
 mugkk.toynk.com CNAME .
 mujjb.babor.com CNAME .
 muqit.untuckit.com CNAME .
+mvbwl.nakedharvestsupplements.com CNAME .
 mvdhd.minnowswim.com CNAME .
 mvmtj.splashblanket.com CNAME .
 mwtyw.mool.fr CNAME .
@@ -2957,6 +2966,7 @@ szdki.shefit.com CNAME .
 szoor.gcfb.com CNAME .
 szsvc.adinaeden.com CNAME .
 tahkc.trixiecosmetics.com CNAME .
+tajsq.fairmont-sonoma.com CNAME .
 tasah.juiceplus.com CNAME .
 taznt.diffwholesale.com CNAME .
 tbbvb.lyleandscott.com CNAME .
@@ -3173,6 +3183,7 @@ vzpma.ultimatetattoosupply.com CNAME .
 vzpxm.cypressmountain.com CNAME .
 vzzun.boxlunch.com CNAME .
 wbksc.tiptop.ca CNAME .
+wbwpr.purple.com CNAME .
 wcbmp.sugarloaf.com CNAME .
 wcgsk.promixnutrition.com CNAME .
 wdyfx.ltliang.com CNAME .
@@ -3194,6 +3205,7 @@ xnpwt.bibado.co.uk CNAME .
 xnvvt.batteryjunction.com CNAME .
 xqlby.jysk.ca CNAME .
 xqyts.tantusinc.com CNAME .
+xvlgs.nyra.com CNAME .
 xzsqs.moshlife.com CNAME .
 ycwzd.lacoste.com CNAME .
 ydlvc.sexplorapr.com CNAME .

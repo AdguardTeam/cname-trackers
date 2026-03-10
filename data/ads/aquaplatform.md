@@ -398,6 +398,7 @@
 | cdn.pinktriangle.ca | ptp-static.aquaplatform.com |
 | adstatic.kozoom.com | reservoir.aquaplatform.com |
 | media.revive-adserver.com | reservoir.aquaplatform.com |
+| media.revive-adserver.net | reservoir.aquaplatform.com |
 | static.aqua-adserver.com | reservoir.aquaplatform.com |
 | static.quirks.com | reservoir.aquaplatform.com |
 | static.walaplusadserver.com | reservoir.aquaplatform.com |

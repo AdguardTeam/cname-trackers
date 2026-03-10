@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -156,6 +156,7 @@ jacilla-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
 marriagetrac-delivery.reviveservers.com CNAME .
 media.revive-adserver.com CNAME .
+media.revive-adserver.net CNAME .
 media360ads.midtc.com CNAME .
 nyfa-images.reviveservers.com CNAME .
 omroepflevoland-static.reviveservers.com CNAME .

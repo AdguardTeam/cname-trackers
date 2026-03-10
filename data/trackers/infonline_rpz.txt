@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -210,6 +210,7 @@ data-1ba1afb625.leinfelden-echterdingen.de CNAME .
 data-1bc9d87af9.ahgz.de CNAME .
 data-1be5adcd69.apps.iocnt.de CNAME .
 data-1c0a3d83e3.transfermarkt.be CNAME .
+data-1c0a3d83e3.transfermarkt.co.id CNAME .
 data-1c0a3d83e3.transfermarkt.co.in CNAME .
 data-1c0a3d83e3.transfermarkt.co.uk CNAME .
 data-1c0a3d83e3.transfermarkt.co.za CNAME .
@@ -449,6 +450,7 @@ data-47ee1b0882.bali-kino.de CNAME .
 data-47ee1b0882.bergedorf-kino.de CNAME .
 data-47ee1b0882.bochumerkinos.de CNAME .
 data-47ee1b0882.burg-theater.de CNAME .
+data-47ee1b0882.capitol-kappeln.de CNAME .
 data-47ee1b0882.capitol-kornwestheim.de CNAME .
 data-47ee1b0882.cinema-prerow.de CNAME .
 data-47ee1b0882.cinexx.de CNAME .
@@ -519,6 +521,7 @@ data-4a5f71b500.highlight-web.de CNAME .
 data-4aed862c71.apps.iocnt.de CNAME .
 data-4b48d22435.kommune21.de CNAME .
 data-4be83b69ca.kka-online.info CNAME .
+data-4c15807c3d.geb-info.de CNAME .
 data-4c21d26235.apps.iocnt.de CNAME .
 data-4c63bfe8f2.apps.iocnt.de CNAME .
 data-4cb57634de.apps.iocnt.de CNAME .
@@ -549,6 +552,7 @@ data-50d39a5d3f.diepresse.com CNAME .
 data-50de2f2b04.focus.de CNAME .
 data-50de2f2b04.netmoms.de CNAME .
 data-512cafb4f7.radiowaf.de CNAME .
+data-512cafb4f7.radiowafhilft.de CNAME .
 data-513a50551b.psychologie-heute.de CNAME .
 data-5164524be6.apps.iocnt.de CNAME .
 data-51c17cab74.aerztezeitung.de CNAME .
@@ -705,6 +709,7 @@ data-6dde45f576.neuepresse.de CNAME .
 data-6dde45f576.oaz-online.de CNAME .
 data-6dde45f576.ovz-online.de CNAME .
 data-6dde45f576.radio.fr CNAME .
+data-6dde45f576.radio.it CNAME .
 data-6dde45f576.radio.pt CNAME .
 data-6dde45f576.reisereporter.de CNAME .
 data-6dde45f576.remszeitung.de CNAME .
@@ -720,6 +725,7 @@ data-6dde45f576.trauer-anzeigen.de CNAME .
 data-6dde45f576.waz-online.de CNAME .
 data-6e2baaf3b9.garten.de CNAME .
 data-6e2baaf3b9.mein-schoener-garten.de CNAME .
+data-6e2d34ec1f.heimatsport.de CNAME .
 data-6e2d34ec1f.pnp.de CNAME .
 data-6e57cba6aa.focus.de CNAME .
 data-6e57cba6aa.netmoms.de CNAME .
@@ -1072,6 +1078,7 @@ data-a69d61e039.bausicherheit-online.de CNAME .
 data-a6a76566fd.apps.iocnt.de CNAME .
 data-a6faa6efe2.insuedthueringen.de CNAME .
 data-a6faa6efe2.thueringen-gedenkt.de CNAME .
+data-a722a6f292.infonline.de CNAME .
 data-a7300e909e.apps.iocnt.de CNAME .
 data-a764ba99aa.das-pta-magazin.de CNAME .
 data-a77fb9b63f.osthessen-news.de CNAME .
@@ -1381,6 +1388,7 @@ data-d4dfa4bc2c.weather.com CNAME .
 data-d50538de89.5min.at CNAME .
 data-d53414767b.apps.iocnt.de CNAME .
 data-d543661da8.oe24.at CNAME .
+data-d5c733accc.infonline.de CNAME .
 data-d5cb47d8e4.radiotop40.de CNAME .
 data-d5d9e85944.textilwirtschaft.de CNAME .
 data-d5efd1b9c0.dzonline.de CNAME .
@@ -1389,6 +1397,7 @@ data-d61ee02db0.pirsch.de CNAME .
 data-d6485d3579.playboy.de CNAME .
 data-d67a03d16c.meintophotel.de CNAME .
 data-d69d9a5415.aachen.de CNAME .
+data-d6b0abd16f.apps.iocnt.de CNAME .
 data-d6e13c60e8.orf.at CNAME .
 data-d708c3c3bc.freizeit.at CNAME .
 data-d7486a3850.nordkurier.de CNAME .
@@ -1735,6 +1744,7 @@ data-f59db3288b.tz.de CNAME .
 data-f59db3288b.usinger-anzeiger.de CNAME .
 data-f59db3288b.volksfest-freising.de CNAME .
 data-f59db3288b.wa.de CNAME .
+data-f59db3288b.wahl.news CNAME .
 data-f59db3288b.wasserburg24.de CNAME .
 data-f59db3288b.webnachrichten.de CNAME .
 data-f59db3288b.werra-rundschau.de CNAME .

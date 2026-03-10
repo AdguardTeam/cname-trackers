@@ -202,6 +202,7 @@ plausible.tac.dappstar.io
 plausible.thefutureoftheworkplacebook.com
 plausible.tlschedule.com
 plausible.treelightsoftware.com
+plausible.urbanekuensteruhr.de
 plausible.veszelovszki.com
 plausible.wordstamped.com
 plausible.yalepaprika.com
@@ -534,6 +535,7 @@ stats.limitlessnetworks.eu
 stats.lippeshirts.de
 stats.literacysomerset.org
 stats.literaturkreis.online
+stats.llia.ms
 stats.lmdsp.com
 stats.localmetravel.com
 stats.ltdhunt.com
@@ -724,6 +726,7 @@ stats.trypricelist.com
 stats.tubecalculator.co.uk
 stats.turisme.nu
 stats.twhl.xyz
+stats.two19.co
 stats.unka.space
 stats.unusualtourist.com
 stats.urbanfinn.com

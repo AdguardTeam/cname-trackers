@@ -9,9 +9,7 @@
     * te-ackermann-ch.oghub.io
     * te-baur-de.oghub.io
     * te-creation-l-de.oghub.io
-    * te-frankonia-at.oghub.io
     * te-frankonia-de.oghub.io
-    * te-heine-at.oghub.io
     * te-heine-ch.oghub.io
     * te-heine-de.oghub.io
     * te-imwalking-de.oghub.io
@@ -39,7 +37,6 @@
     * tp-helline-fr.oghub.io
     * tp-jelmoli-shop-ch.oghub.io
     * tp-limango-de.oghub.io
-    * tp-mytoys-de.oghub.io
     * tp-otto-de.oghub.io
     * tp-ottoversand-at.oghub.io
     * tp-quelle-de.oghub.io
@@ -103,9 +100,7 @@
 | te.ackermann.ch | te-ackermann-ch.oghub.io |
 | te.baur.de | te-baur-de.oghub.io |
 | te.creation-l.de | te-creation-l-de.oghub.io |
-| te.frankonia.at | te-frankonia-at.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
-| te.heine.at | te-heine-at.oghub.io |
 | te.heine.ch | te-heine-ch.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
 | te.imwalking.de | te-imwalking-de.oghub.io |
@@ -182,7 +177,6 @@
 | tp.helline.fr | tp-helline-fr.oghub.io |
 | tp.jelmoli-shop.ch | tp-jelmoli-shop-ch.oghub.io |
 | tp.limango.de | tp-limango-de.oghub.io |
-| tp.mytoys.de | tp-mytoys-de.oghub.io |
 | tp.otto.de | tp-otto-de.oghub.io |
 | tp.ottoversand.at | tp-ottoversand-at.oghub.io |
 | tp.quelle.de | tp-quelle-de.oghub.io |

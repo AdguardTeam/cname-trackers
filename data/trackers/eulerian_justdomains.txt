@@ -9,6 +9,7 @@
 3esm.consubebe.es
 5fm.985fm.ca
 66jo.societegenerale.fr
+6pal.consobaby.com
 6swu.cpa-france.org
 7lbd4.armandthiery.fr
 7mx.eider.com
@@ -25,6 +26,7 @@ a.perfumesclub.pl
 a.perfumesclub.pt
 a.weareknitters.co.uk
 a.weareknitters.com
+a.weareknitters.de
 a.weareknitters.dk
 a.weareknitters.es
 a.weareknitters.fr
@@ -77,7 +79,6 @@ ct.creditec.fr
 ct5m.citadium.com
 cvi6.destinia.qa
 cyf9.destinia.cl
-d2u.dauphinquebec.com
 d62e9cfa.eulerian.io
 da85edd2.eulerian.io
 de48cadb.eulerian.io
@@ -135,7 +136,6 @@ ea.laredoute.pt
 ea.leskidunordausud.fr
 ea.lespagnedunordausud.fr
 ea.megustaescribir.com
-ea.megustaleer.com.pe
 ea.millet-mountain.com
 ea.millet-mountain.de
 ea.millet.fr
@@ -147,6 +147,7 @@ ea.netvox-assurances.com
 ea.odalys-vacances.com
 ea.odalys-vacation-rental.com
 ea.onestep-boutique.com
+ea.online.carrefour.fr
 ea.peugeot-assurance.fr
 ea.placedestendances.com
 ea.poeleaboismaison.com
@@ -291,7 +292,6 @@ lwh1.carrefour-banque.fr
 ly8c.caci-online.fr
 lzuc.sfr.fr
 m3ds.subarumetropolitain.com
-mail.eulerian.io
 mi.miliboo.be
 mi.miliboo.ch
 mi.miliboo.co.uk
@@ -485,6 +485,7 @@ zsi7.destinia.do
 b1n.carabins.umontreal.ca
 c0i.ckoi.com
 d0f.le-dauphin.com
+d2u.dauphinquebec.com
 eat9.thebeat925.ca
 hk2d.tourismemauricie.com
 l2i.qualityinnlevis.com

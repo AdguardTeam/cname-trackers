@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -210,6 +210,7 @@ $TTL 300
 2.www.insteadphooey.com CNAME .
 2.www.ko9t6qv2kt8psullo7pputs.xyz CNAME .
 2.www.kq6mv8mpvs4m10r449nms6.xyz CNAME .
+2.www.m-0-05o17m54w169vk44nk.xyz CNAME .
 2.www.meanwhilenoonslap.com CNAME .
 2.www.midwifemoist.com CNAME .
 2.www.nextbeforefollowerskean.com CNAME .
@@ -333,6 +334,7 @@ $TTL 300
 4.www.64786087.xyz CNAME .
 4.www.78587924.xyz CNAME .
 4.www.84302764.xyz CNAME .
+4.www.8u6r7tu85pqu-8pq9pt9q.xyz CNAME .
 4.www.8vtqw0551lo45wwtro.xyz CNAME .
 4.www.9m-mlvrsosov-qmrl4.xyz CNAME .
 4.www.admonishdecisiveyetnow.com CNAME .
@@ -633,6 +635,7 @@ $TTL 300
 9.www.64786087.xyz CNAME .
 9.www.78587924.xyz CNAME .
 9.www.84302764.xyz CNAME .
+9.www.8u6r7tu85pqu-8pq9pt9q.xyz CNAME .
 9.www.8vtqw0551lo45wwtro.xyz CNAME .
 9.www.92331k2n45l2uov70.xyz CNAME .
 9.www.9m-mlvrsosov-qmrl4.xyz CNAME .

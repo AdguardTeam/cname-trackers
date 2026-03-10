@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -324,6 +324,7 @@ fbb6192a96.ec26bf2191.com CNAME .
 fc98798bca.a431d890c6.com CNAME .
 fd78a71a97.4135375d6a.com CNAME .
 fdf7da59b4.676759a2a4.com CNAME .
+fe43bd577b.06f4422159.com CNAME .
 fe4b0f5775.0b6f7dc9d8.com CNAME .
 ff007d4959.9fcd0e3ecc.com CNAME .
 ff97d1d2da.20590def33.com CNAME .
@@ -517,6 +518,7 @@ ff97d1d2da.20590def33.com CNAME .
 959b021885.cbfb239585.com CNAME .
 95b16b661b.8f05eeda67.com CNAME .
 95b386ec0b.d194f6c2fc.com CNAME .
+963a45e65f.7d909fb540.com CNAME .
 977ae034cf.7c23586009.com CNAME .
 9933284471.f9c42cfe0d.com CNAME .
 99e7945bc5.73fbab0eb4.com CNAME .
@@ -923,6 +925,7 @@ b88a266bee.889dbee9c9.com CNAME .
 b963906293.c5acd666f8.com CNAME .
 b99e4edba7.98cbb83e14.com CNAME .
 b9a4c56c2b.06aa7d6d80.com CNAME .
+b9d802c2ab.f19062be44.com CNAME .
 ba4f24e107.edd41b7f68.com CNAME .
 baff667d7a.7d44c6ba4d.com CNAME .
 bb0e516729.2250c8daae.com CNAME .
@@ -1272,6 +1275,7 @@ thetruth8624.fumblingvacation.pro CNAME .
 thewebthought.fumblingvacation.pro CNAME .
 thewednesdaybaker.lovingforever.pro CNAME .
 theworldinradar.lovingforever.pro CNAME .
+thunderous-dig.comwww.thunderous-dig.com CNAME .
 thyagu7.leftmany.pro CNAME .
 tirta-suryana.fumblingvacation.pro CNAME .
 tobryanyoung.leftmany.pro CNAME .
@@ -1320,6 +1324,7 @@ www.presentfeel.com CNAME .
 www.simple-interview.com CNAME .
 www.sinful-bad.pro CNAME .
 www.tensecross.pro CNAME .
+www.thunderous-dig.com CNAME .
 www.untrueaddition.pro CNAME .
 www.unusual-spot.com CNAME .
 www.unwieldytowel.pro CNAME .

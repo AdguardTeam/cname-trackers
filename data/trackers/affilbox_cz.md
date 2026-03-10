@@ -249,7 +249,6 @@
 | affiliate.reponio.cz | cz.affilbox.cz |
 | affiliate.richardstepan.cz | cz.affilbox.cz |
 | affiliate.rixo.cz | cz.affilbox.cz |
-| affiliate.rustspolecne.cz | cz.affilbox.cz |
 | affiliate.sexshop.cz | cz.affilbox.cz |
 | affiliate.siko.cz | cz.affilbox.cz |
 | affiliate.smarty.cz | cz.affilbox.cz |
@@ -288,7 +287,6 @@
 | affilpartneri.affilbusiness.cz | cz.affilbox.cz |
 | afill.e-potisk.cz | cz.affilbox.cz |
 | ambasador.montessorikurz.cz | cz.affilbox.cz |
-| ambasador.rustspolecne.cz | cz.affilbox.cz |
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
 | ambassadors.guideandgrow.com | cz.affilbox.cz |
@@ -744,6 +742,7 @@
 | partner.sypanycaj.eu | cz.affilbox.cz |
 | partner.t-shock.eu | cz.affilbox.cz |
 | partner.tahnabranu.cz | cz.affilbox.cz |
+| partner.taxomat.cz | cz.affilbox.cz |
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.thelisteningworld.com | cz.affilbox.cz |
 | partner.tinecostore.cz | cz.affilbox.cz |

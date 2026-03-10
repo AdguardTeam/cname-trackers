@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -703,7 +703,6 @@ a8clk.uchinotoypoo.jp CNAME .
 a8clk.unionspo.com CNAME .
 a8clk.ur-s.me CNAME .
 a8clk.uzu.team CNAME .
-a8clk.videocash.tv CNAME .
 a8clk.voice-inc.co.jp CNAME .
 a8clk.waq-online.com CNAME .
 a8clk.web-camp.io CNAME .
@@ -1468,7 +1467,6 @@ clk.wagon-hire.com CNAME .
 clkcv.livede55.com CNAME .
 complete.smilecbd.jp CNAME .
 contact.kdg-yobi.com CNAME .
-cp.cp.twendee.jp CNAME .
 cv-match.sharebase.jp CNAME .
 cv.2jikaikun.com CNAME .
 cv.a-cial.com CNAME .

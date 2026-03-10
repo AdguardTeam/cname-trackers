@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -66,5 +66,6 @@ tagadmin.aumago.com CNAME .
 tagmanager.becop.nl CNAME .
 wa.love2play.com CNAME .
 webanalytics.helen.fi CNAME .
+www.webanalytics-az.acc.fpfis.tech.ec.europa.eu CNAME .
 www.webanalytics.europa.eu CNAME .
 www.webengage.ae CNAME .

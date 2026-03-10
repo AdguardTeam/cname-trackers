@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -180,6 +180,7 @@ utiq.football.fr CNAME .
 utiq.football365.fr CNAME .
 utiq.formel1.de CNAME .
 utiq.fr.de CNAME .
+utiq.francetv.fr CNAME .
 utiq.frandroid.com CNAME .
 utiq.fuehrerscheintest-online.de CNAME .
 utiq.funandnews.de CNAME .
@@ -361,6 +362,7 @@ utiq.nrpyrenees.fr CNAME .
 utiq.numerama.com CNAME .
 utiq.oberhessische-zeitung.de CNAME .
 utiq.oktoberfest.bayern CNAME .
+utiq.ondavasca.com CNAME .
 utiq.op-online.de CNAME .
 utiq.orange.es CNAME .
 utiq.ouest-france.fr CNAME .

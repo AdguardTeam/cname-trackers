@@ -14,6 +14,7 @@
     * dealerspike-prod.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
+    * ec-test-infra.piwik.pro
     * effectory.piwik.pro
     * eib.piwik.pro
     * ferreroanalytics.piwik.pro
@@ -39,7 +40,6 @@
     * public-p-swe.piwik.pro
     * public-p-swe2.piwik.pro
     * rechtspraak.piwik.pro
-    * relayto.piwik.pro
     * rijksoverheid.piwik.pro
     * rvo.piwik.pro
     * sozialversicherung.piwik.pro
@@ -75,6 +75,7 @@
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
+| www.webanalytics-az.acc.fpfis.tech.ec.europa.eu | ec-test-infra.piwik.pro |
 | analytics.effectory.com | effectory.piwik.pro |
 | piwik.eib.org | eib.piwik.pro |
 | piwik.eif.org | eib.piwik.pro |
@@ -166,7 +167,6 @@
 | mphdd.multipharma.be | public-p-swe2.piwik.pro |
 | stats.manz.at | public-p-swe2.piwik.pro |
 | statistiek.rechtspraak.nl | rechtspraak.piwik.pro |
-| a.relayto.com | relayto.piwik.pro |
 | statistiek.rijksoverheid.nl | rijksoverheid.piwik.pro |
 | statistiek.rvo.nl | rvo.piwik.pro |
 | analysis.sozialversicherung.at | sozialversicherung.piwik.pro |

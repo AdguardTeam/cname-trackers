@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -154,6 +154,7 @@ stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .
 stats.realestate.if.ua CNAME .
 stats.realestate.kyiv.ua CNAME .
+stats.rewindmtv.com CNAME .
 stats.rezhajul.io CNAME .
 stats.risanne.nl CNAME .
 stats.rocketgoboom.lol CNAME .
@@ -171,6 +172,7 @@ stats.trainsley69.me CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .
+stats.webmeasurements.org CNAME .
 stats.whatacools.com CNAME .
 stats.ybbond.id CNAME .
 stats.yunseo.kim CNAME .

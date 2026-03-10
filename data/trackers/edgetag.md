@@ -280,6 +280,7 @@
     * eckje.customers.edgetag.io
     * ecrzm.customers.edgetag.io
     * ecsnl.customers.edgetag.io
+    * eczip.customers.edgetag.io
     * edjsl.customers.edgetag.io
     * edmcq.customers.edgetag.io
     * edugm.customers.edgetag.io
@@ -603,6 +604,7 @@
     * iviea.customers.edgetag.io
     * ivpvb.customers.edgetag.io
     * izgfa.customers.edgetag.io
+    * izgmr.customers.edgetag.io
     * izgve.customers.edgetag.io
     * jacsg.customers.edgetag.io
     * jbanv.customers.edgetag.io
@@ -838,6 +840,7 @@
     * mbvqq.customers.edgetag.io
     * mdemk.customers.edgetag.io
     * mdhuf.customers.edgetag.io
+    * mdntu.customers.edgetag.io
     * mecio.customers.edgetag.io
     * mekbm.customers.edgetag.io
     * melda.customers.edgetag.io
@@ -1284,6 +1287,7 @@
     * sruaa.customers.edgetag.io
     * srzei.customers.edgetag.io
     * ssesh.customers.edgetag.io
+    * ssjag.customers.edgetag.io
     * ssjfm.customers.edgetag.io
     * ssksc.customers.edgetag.io
     * ssuzg.customers.edgetag.io
@@ -1496,6 +1500,7 @@
     * vznlp.customers.edgetag.io
     * vzoco.customers.edgetag.io
     * vzpua.customers.edgetag.io
+    * vzuih.customers.edgetag.io
     * zacec.customers.edgetag.io
     * zajio.customers.edgetag.io
     * zamkh.customers.edgetag.io
@@ -1594,6 +1599,7 @@
     * bwnxh.eat.attntags.com
     * bywxp.eat.attntags.com
     * cblqq.eat.attntags.com
+    * cbzhv.eat.attntags.com
     * ccbsr.eat.attntags.com
     * ccwdc.eat.attntags.com
     * ccwtz.eat.attntags.com
@@ -1642,6 +1648,7 @@
     * gqtyh.eat.attntags.com
     * gtfcy.eat.attntags.com
     * gwddp.eat.attntags.com
+    * gwfyn.eat.attntags.com
     * gycxh.eat.attntags.com
     * hbmjq.eat.attntags.com
     * hhwcx.eat.attntags.com
@@ -1699,6 +1706,7 @@
     * mqlpz.eat.attntags.com
     * mrjfw.eat.attntags.com
     * mtrvx.eat.attntags.com
+    * mvbwl.eat.attntags.com
     * mvdhd.eat.attntags.com
     * mvmtj.eat.attntags.com
     * mwtyw.eat.attntags.com
@@ -1772,6 +1780,7 @@
     * vyblc.eat.attntags.com
     * vzpxm.eat.attntags.com
     * wbksc.eat.attntags.com
+    * wbwpr.eat.attntags.com
     * wcbmp.eat.attntags.com
     * wcgsk.eat.attntags.com
     * wfznj.eat.attntags.com
@@ -1791,6 +1800,7 @@
     * xnvvt.eat.attntags.com
     * xqlby.eat.attntags.com
     * xqyts.eat.attntags.com
+    * xvlgs.eat.attntags.com
     * xzsqs.eat.attntags.com
     * ycwzd.eat.attntags.com
     * ydlvc.eat.attntags.com
@@ -1998,6 +2008,7 @@
 | cazbt.immunage.us | cazbt.customers.edgetag.io |
 | cblfn.bodyandbra.com | cblfn.customers.edgetag.io |
 | cblqq.pearlpop.com | cblqq.eat.attntags.com |
+| cbzhv.sageandpaije.co.uk | cbzhv.eat.attntags.com |
 | ccaru.crossoversymmetry.com | ccaru.customers.edgetag.io |
 | ccbsr.awarehousefull.com | ccbsr.eat.attntags.com |
 | ccbuk.judithandcharles.com | ccbuk.customers.edgetag.io |
@@ -2522,6 +2533,7 @@
 | eckje.furking.com.au | eckje.customers.edgetag.io |
 | ecrzm.cusocuts.com | ecrzm.customers.edgetag.io |
 | ecsnl.hotelcollection.au | ecsnl.customers.edgetag.io |
+| eczip.bee-enriched.eu | eczip.customers.edgetag.io |
 | edjsl.hierbasorganicas.com.mx | edjsl.customers.edgetag.io |
 | edmcq.naturalmedicine.blog | edmcq.customers.edgetag.io |
 | edugm.bigfrogsupply.com | edugm.customers.edgetag.io |
@@ -3102,6 +3114,7 @@
 | idopm.progressjj.co.uk | fallback.attntags.com |
 | idsfq.katespade.de | fallback.attntags.com |
 | idsod.catholic.com | fallback.attntags.com |
+| iebld.volcom.com | fallback.attntags.com |
 | iegvm.threadwallets.com | fallback.attntags.com |
 | iemtz.admsport.com | fallback.attntags.com |
 | ieugf.northstyle.com | fallback.attntags.com |
@@ -3783,6 +3796,7 @@
 | szoor.gcfb.com | fallback.attntags.com |
 | szsvc.adinaeden.com | fallback.attntags.com |
 | tahkc.trixiecosmetics.com | fallback.attntags.com |
+| tajsq.fairmont-sonoma.com | fallback.attntags.com |
 | tasah.juiceplus.com | fallback.attntags.com |
 | taznt.diffwholesale.com | fallback.attntags.com |
 | tbbvb.lyleandscott.com | fallback.attntags.com |
@@ -4272,6 +4286,7 @@
 | gvtki.hairfillup.com | gvtki.customers.edgetag.io |
 | gvvbs.springrose.co | gvvbs.customers.edgetag.io |
 | gwddp.iltutto.com.au | gwddp.eat.attntags.com |
+| gwfyn.ptmassagespringfieldmo.com | gwfyn.eat.attntags.com |
 | gycxh.thingsremembered.com | gycxh.eat.attntags.com |
 | gzcfm.petfinn.com | gzcfm.customers.edgetag.io |
 | gzees.theperfumebox.com | gzees.customers.edgetag.io |
@@ -4406,6 +4421,7 @@
 | iviea.hotelcollectionofficial.com.br | iviea.customers.edgetag.io |
 | ivpvb.sunriverhoney.com | ivpvb.customers.edgetag.io |
 | izgfa.visitorpixel.com | izgfa.customers.edgetag.io |
+| izgmr.medisave.co.uk | izgmr.customers.edgetag.io |
 | izgve.sokolovelaw.com | izgve.customers.edgetag.io |
 | jacsg.belaro.ro | jacsg.customers.edgetag.io |
 | jbanv.etrendygo.com | jbanv.customers.edgetag.io |
@@ -4677,6 +4693,7 @@
 | mbvqq.rmsbeauty.com | mbvqq.customers.edgetag.io |
 | mdemk.sokolovelaw.com | mdemk.customers.edgetag.io |
 | mdhuf.rebelsrefinery.com | mdhuf.customers.edgetag.io |
+| mdntu.etrendygo.com | mdntu.customers.edgetag.io |
 | mdrpy.citychic.co.nz | mdrpy.eat.attntags.com |
 | mdxtz.lorex.com | mdxtz.eat.attntags.com |
 | mecio.farmhousefreshgoods.com | mecio.customers.edgetag.io |
@@ -4748,6 +4765,7 @@
 | mueoh.besynchro.com | mueoh.customers.edgetag.io |
 | muopz.petwellnessdirect.com | muopz.customers.edgetag.io |
 | murjz.consumerexaminer.com | murjz.customers.edgetag.io |
+| mvbwl.nakedharvestsupplements.com | mvbwl.eat.attntags.com |
 | mvdhd.minnowswim.com | mvdhd.eat.attntags.com |
 | mvmtj.splashblanket.com | mvmtj.eat.attntags.com |
 | mvvdh.tndetoxcenter.com | mvvdh.customers.edgetag.io |
@@ -5184,6 +5202,7 @@
 | sruaa.sonsieskin.com | sruaa.customers.edgetag.io |
 | srzei.buypetals.com | srzei.customers.edgetag.io |
 | ssesh.rileyleisure.com | ssesh.customers.edgetag.io |
+| ssjag.getlean.com.au | ssjag.customers.edgetag.io |
 | ssjfm.cadenlane.com | ssjfm.customers.edgetag.io |
 | ssksc.giftsforyounow.com | ssksc.customers.edgetag.io |
 | ssmbl.fruttabowls.com | ssmbl.eat.attntags.com |
@@ -5418,7 +5437,9 @@
 | vzoco.thursdayboots.com | vzoco.customers.edgetag.io |
 | vzpua.emango.bg | vzpua.customers.edgetag.io |
 | vzpxm.cypressmountain.com | vzpxm.eat.attntags.com |
+| vzuih.montessoribucuresti.ro | vzuih.customers.edgetag.io |
 | wbksc.tiptop.ca | wbksc.eat.attntags.com |
+| wbwpr.purple.com | wbwpr.eat.attntags.com |
 | wcbmp.sugarloaf.com | wcbmp.eat.attntags.com |
 | wcgsk.promixnutrition.com | wcgsk.eat.attntags.com |
 | wfznj.jillmartin.com | wfznj.eat.attntags.com |
@@ -5438,6 +5459,7 @@
 | xnvvt.batteryjunction.com | xnvvt.eat.attntags.com |
 | xqlby.jysk.ca | xqlby.eat.attntags.com |
 | xqyts.tantusinc.com | xqyts.eat.attntags.com |
+| xvlgs.nyra.com | xvlgs.eat.attntags.com |
 | xzsqs.moshlife.com | xzsqs.eat.attntags.com |
 | ycwzd.lacoste.com | ycwzd.eat.attntags.com |
 | ydlvc.sexplorapr.com | ydlvc.eat.attntags.com |

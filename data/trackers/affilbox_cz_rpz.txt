@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -237,7 +237,6 @@ affiliate.reduccia.cz CNAME .
 affiliate.reponio.cz CNAME .
 affiliate.richardstepan.cz CNAME .
 affiliate.rixo.cz CNAME .
-affiliate.rustspolecne.cz CNAME .
 affiliate.sexshop.cz CNAME .
 affiliate.siko.cz CNAME .
 affiliate.smarty.cz CNAME .
@@ -276,7 +275,6 @@ affilpartner.descanti.com CNAME .
 affilpartneri.affilbusiness.cz CNAME .
 afill.e-potisk.cz CNAME .
 ambasador.montessorikurz.cz CNAME .
-ambasador.rustspolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassadors.childhoodpotential.com CNAME .
 ambassadors.guideandgrow.com CNAME .
@@ -732,6 +730,7 @@ partner.swaglift.com CNAME .
 partner.sypanycaj.eu CNAME .
 partner.t-shock.eu CNAME .
 partner.tahnabranu.cz CNAME .
+partner.taxomat.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.thelisteningworld.com CNAME .
 partner.tinecostore.cz CNAME .

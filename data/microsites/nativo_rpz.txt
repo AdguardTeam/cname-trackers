@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ sponsor.syracuse.com CNAME .
 039ff33996.ba2448462a.com CNAME .
 040f090395.b76d324ae6.com CNAME .
 0446b5647b.61847b1398.com CNAME .
+0537f258d4.97056d3dd4.com CNAME .
 0574dec1ea.121ee98022.com CNAME .
 0597eef174.3b687a4e49.com CNAME .
 05acb9b113.8767252cb9.com CNAME .
@@ -294,6 +295,7 @@ e417585e69.a3c60bb775.com CNAME .
 e4f2928e49.0c289f53bc.com CNAME .
 e56c897319.f347040810.com CNAME .
 e6499697e6.d97d3231b2.com CNAME .
+e6d9e51833.5953bc9ca0.com CNAME .
 e6e3e5bd74.3ae7054c01.com CNAME .
 e791351c80.680642cdf3.com CNAME .
 e7b8fa45d6.c510a0b19c.com CNAME .
@@ -340,10 +342,44 @@ a135.fox23.com CNAME .
 a135.wftv.com CNAME .
 a135.wpxi.com CNAME .
 a135.wsbtv.com CNAME .
+a135.wsoctv.com CNAME .
+a235.greenwichtime.com CNAME .
+acc.miamiherald.share.ntv.io CNAME .
+alicetx.share.ntv.io CNAME .
+beta.theledger.share.ntv.io CNAME .
+blogs.littlethings.share.ntv.io CNAME .
+chicagotribuneatlas.share.ntv.io CNAME .
+cms.nativomobileapps.share.ntv.io CNAME .
+cnn.share.ntv.io CNAME .
+compute-wsbradio.share.ntv.io CNAME .
+dashboard-cnn.share.ntv.io CNAME .
+db-chron.share.ntv.io CNAME .
+fortuneprivate.share.ntv.io CNAME .
+fox25bostonlocal.share.ntv.io CNAME .
+internal.littlethings.share.ntv.io CNAME .
+kcci20.share.ntv.io CNAME .
+ldap-fortune.share.ntv.io CNAME .
+log.fortune.share.ntv.io CNAME .
 menshealth.share.ntv.io CNAME .
+mercurynews-payment.share.ntv.io CNAME .
+motortrend-ads.share.ntv.io CNAME .
+netlify-csoonline.share.ntv.io CNAME .
+pay-hellomagazine.share.ntv.io CNAME .
+pcworld-server.share.ntv.io CNAME .
+pcworld4.share.ntv.io CNAME .
+plugins-si.share.ntv.io CNAME .
+post-gazette2023.share.ntv.io CNAME .
+proxy-ajc.share.ntv.io CNAME .
+proxy.littlethings.share.ntv.io CNAME .
+raw.gayety.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
-a135.wsoctv.com CNAME .
+siliveclient.share.ntv.io CNAME .
+tech.ajc.share.ntv.io CNAME .
+thehill.share.ntv.io CNAME .
+theledger.share.ntv.io CNAME .
+www2.wsbradio.share.ntv.io CNAME .
+a135.htvnativeadsolutions.com CNAME .
 a235.aleteia.org CNAME .
 a614.al.com CNAME .
 a614.masslive.com CNAME .
@@ -359,7 +395,6 @@ c.ntv.io CNAME .
 chicagotribune.share.ntv.io CNAME .
 chron.share.ntv.io CNAME .
 cio.share.ntv.io CNAME .
-cnn.share.ntv.io CNAME .
 computerworld.share.ntv.io CNAME .
 cooktopcove.share.ntv.io CNAME .
 csoonline.share.ntv.io CNAME .
@@ -399,29 +434,24 @@ sonomamag.share.ntv.io CNAME .
 southernkitchen.share.ntv.io CNAME .
 stamfordadvocate.share.ntv.io CNAME .
 tastingtable.share.ntv.io CNAME .
-theledger.share.ntv.io CNAME .
 time.share.ntv.io CNAME .
 travelandleisure.share.ntv.io CNAME .
 usnews.share.ntv.io CNAME .
 wsbradio.share.ntv.io CNAME .
 wvtm13.share.ntv.io CNAME .
 www.share.ntv.io CNAME .
-a135.htvnativeadsolutions.com CNAME .
 a235.beaumontenterprise.com CNAME .
 a235.ctnews.com CNAME .
 a235.gametimect.com CNAME .
 a235.greenstate.com CNAME .
-a235.greenwichtime.com CNAME .
 a235.htvnativeadsolutions.com CNAME .
 a235.lmtonline.com CNAME .
 a235.mrt.com CNAME .
 a235.myplainview.com CNAME .
 a235.mysanantonio.com CNAME .
-a235.nhregister.com CNAME .
 a235.ourmidland.com CNAME .
 a235.registercitizen.com CNAME .
 a235.sfgate.com CNAME .
-a235.stamfordadvocate.com CNAME .
 a235.thehour.com CNAME .
 a235.theintelligencer.com CNAME .
 a235.timesunion.com CNAME .

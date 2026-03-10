@@ -705,7 +705,6 @@
 | a8clk.unionspo.com | trck.a8.net |
 | a8clk.ur-s.me | trck.a8.net |
 | a8clk.uzu.team | trck.a8.net |
-| a8clk.videocash.tv | trck.a8.net |
 | a8clk.voice-inc.co.jp | trck.a8.net |
 | a8clk.waq-online.com | trck.a8.net |
 | a8clk.web-camp.io | trck.a8.net |
@@ -1470,7 +1469,6 @@
 | clkcv.livede55.com | trck.a8.net |
 | complete.smilecbd.jp | trck.a8.net |
 | contact.kdg-yobi.com | trck.a8.net |
-| cp.cp.twendee.jp | trck.a8.net |
 | cv-match.sharebase.jp | trck.a8.net |
 | cv.2jikaikun.com | trck.a8.net |
 | cv.a-cial.com | trck.a8.net |

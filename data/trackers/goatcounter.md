@@ -126,6 +126,7 @@
     * r18.goatcounter.com
     * reifua.goatcounter.com
     * repath-studio.goatcounter.com
+    * rewindmtv.goatcounter.com
     * rezha.goatcounter.com
     * riggraz.goatcounter.com
     * risanne.goatcounter.com
@@ -166,6 +167,7 @@
     * vault.goatcounter.com
     * vpro.goatcounter.com
     * whatacools.goatcounter.com
+    * wy3di4xcbj.goatcounter.com
     * ybbond.goatcounter.com
     * ygoprint.goatcounter.com
     * yunseo.goatcounter.com
@@ -306,6 +308,7 @@
 | stats.r18.dev | r18.goatcounter.com |
 | stats.realestate.if.ua | reifua.goatcounter.com |
 | analytics.repath.studio | repath-studio.goatcounter.com |
+| stats.rewindmtv.com | rewindmtv.goatcounter.com |
 | stats.rezhajul.io | rezha.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.risanne.nl | risanne.goatcounter.com |
@@ -346,6 +349,7 @@
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
+| stats.webmeasurements.org | wy3di4xcbj.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
 | science.ygoprint.org | ygoprint.goatcounter.com |
 | stats.yunseo.kim | yunseo.goatcounter.com |

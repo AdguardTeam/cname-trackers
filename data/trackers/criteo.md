@@ -7,7 +7,6 @@
     * b.dnsdelegation.io
     * c.dnsdelegation.io
     * d.dnsdelegation.io
-    * e.dnsdelegation.io
     * f.dnsdelegation.io
     * g.dnsdelegation.io
     * h.dnsdelegation.io
@@ -27,6 +26,7 @@
     * w.dnsdelegation.io
     * x.dnsdelegation.io
     * y.dnsdelegation.io
+    * z.dnsdelegation.io
 * storetail.io
 
 ## Cloaking domains
@@ -36,14 +36,13 @@
 | alsgaj.chosun.com | a.dnsdelegation.io |
 | alsgaj.sportschosun.com | a.dnsdelegation.io |
 | azuvwa.ceps.io | a.dnsdelegation.io |
+| bbagnw.sedaily.com | b.dnsdelegation.io |
 | boqufs.2nn.jp | b.dnsdelegation.io |
 | bxumze.dispatch.com | b.dnsdelegation.io |
-| bxumze.heraldtribune.com | b.dnsdelegation.io |
 | bxumze.uticaod.com | b.dnsdelegation.io |
 | cjlekm.correiodopovo.com.br | c.dnsdelegation.io |
 | cvhefd.ixbt.com | c.dnsdelegation.io |
 | detnmz.sapling.com | d.dnsdelegation.io |
-| detnmz.techwalla.com | d.dnsdelegation.io |
 | aacjdq.pontoslivelo.com.br | dnsdelegation.io |
 | aadeda.niche-beauty.com | dnsdelegation.io |
 | aajdcp.brand-satei.me | dnsdelegation.io |
@@ -273,6 +272,7 @@
 | ayatyv.mountainsteals.com | dnsdelegation.io |
 | aydtkb.pikabu.ru | dnsdelegation.io |
 | aygccr.eonet.jp | dnsdelegation.io |
+| ayittd.goldmoondnc.com | dnsdelegation.io |
 | ayleaf.petersofkensington.com.au | dnsdelegation.io |
 | azcoct.bikkembergs.com | dnsdelegation.io |
 | azflce.fragrances.bg | dnsdelegation.io |
@@ -526,7 +526,6 @@
 | bxumze.dispatch.com | dnsdelegation.io |
 | bxumze.gadsdentimes.com | dnsdelegation.io |
 | bxumze.heraldtribune.com | dnsdelegation.io |
-| bxumze.heraldtribune.com | dnsdelegation.io |
 | bxumze.jacksonville.com | dnsdelegation.io |
 | bxumze.lajuntatribunedemocrat.com | dnsdelegation.io |
 | bxumze.njherald.com | dnsdelegation.io |
@@ -572,6 +571,7 @@
 | caxofi.lightshopping.com | dnsdelegation.io |
 | caxtsk.russoraffaele.it | dnsdelegation.io |
 | cbfnid.dr-g.co.kr | dnsdelegation.io |
+| cbmvqc.festkompaniet.no | dnsdelegation.io |
 | cbneme.dentalcremer.com.br | dnsdelegation.io |
 | cbnzop.c-c-j.com | dnsdelegation.io |
 | cbofbf.e-bordados.net | dnsdelegation.io |
@@ -625,6 +625,7 @@
 | chnnlk.sinspot.co.kr | dnsdelegation.io |
 | chpspb.bubbleroom.fi | dnsdelegation.io |
 | chrooo.soccerandrugby.com | dnsdelegation.io |
+| cidtsw.prestige-voyages.com | dnsdelegation.io |
 | cihdcr.kasa.co.kr | dnsdelegation.io |
 | cikvwv.dsdamat.com | dnsdelegation.io |
 | cilvph.smartbuyglasses.com | dnsdelegation.io |
@@ -760,11 +761,13 @@
 | cueohf.forumactif.com | dnsdelegation.io |
 | cueohf.forumattivo.com | dnsdelegation.io |
 | cueohf.forumgratuit.be | dnsdelegation.io |
+| cueohf.forumgratuit.org | dnsdelegation.io |
 | cueohf.forumieren.com | dnsdelegation.io |
 | cueohf.forumieren.de | dnsdelegation.io |
 | cueohf.forumotion.com | dnsdelegation.io |
 | cueohf.forumpolish.com | dnsdelegation.io |
 | cueohf.forumpro.fr | dnsdelegation.io |
+| cueohf.forums-actifs.com | dnsdelegation.io |
 | cueohf.forums-actifs.net | dnsdelegation.io |
 | cueohf.forumsactifs.com | dnsdelegation.io |
 | cueohf.hungarianforum.com | dnsdelegation.io |
@@ -946,13 +949,16 @@
 | dpckzt.mesrecettesfaciles.fr | dnsdelegation.io |
 | dptgdj.usagi-online.com | dnsdelegation.io |
 | dptkdh.joinhoney.com | dnsdelegation.io |
+| dpudph.hawooo.com | dnsdelegation.io |
 | dqdwbo.ellamila.com | dnsdelegation.io |
 | dqefxd.kaigoworker.jp | dnsdelegation.io |
 | dqntra.home-to-go.ca | dnsdelegation.io |
 | dqsfil.pikolinos.com | dnsdelegation.io |
 | dquqco.ledakcja.pl | dnsdelegation.io |
 | dqvzvi.ginzabiyou.com | dnsdelegation.io |
+| drnsvp.starcasino.be | dnsdelegation.io |
 | druzja.canmart.co.kr | dnsdelegation.io |
+| drvczg.levtech.jp | dnsdelegation.io |
 | drvive.lamoda.ru | dnsdelegation.io |
 | drxeqq.wishhotels.com.br | dnsdelegation.io |
 | dsdjbj.abracadabra.com.br | dnsdelegation.io |
@@ -1007,7 +1013,6 @@
 | ebeudf.tabirai.net | dnsdelegation.io |
 | ebfudo.underarmour.cl | dnsdelegation.io |
 | ebgagg.depo.ba | dnsdelegation.io |
-| ebgagg.depo.ba | dnsdelegation.io |
 | ebgagg.novi.ba | dnsdelegation.io |
 | ebgagg.pink.rs | dnsdelegation.io |
 | ebhjhw.bonprix.es | dnsdelegation.io |
@@ -1055,6 +1060,7 @@
 | ehavol.consul.com.br | dnsdelegation.io |
 | ehdkzm.ottoversand.at | dnsdelegation.io |
 | ehmnhw.moncoupdepouce.com | dnsdelegation.io |
+| ehnuqh.meilleurtaux.com | dnsdelegation.io |
 | ehrlgb.izlato.sk | dnsdelegation.io |
 | ehwknx.smile-nurse.jp | dnsdelegation.io |
 | eicyds.qoo10.jp | dnsdelegation.io |
@@ -1199,6 +1205,7 @@
 | ezuhbd.industrialdiscount.it | dnsdelegation.io |
 | ezvjys.belezanaweb.com.br | dnsdelegation.io |
 | fahmta.accountingweb.co.uk | dnsdelegation.io |
+| fahmta.arrse.co.uk | dnsdelegation.io |
 | fahmta.citymetric.com | dnsdelegation.io |
 | fahmta.f1i.com | dnsdelegation.io |
 | fahmta.flashbak.com | dnsdelegation.io |
@@ -1227,6 +1234,7 @@
 | fcpszk.telestream.net | dnsdelegation.io |
 | fcrfes.clarktoys.com | dnsdelegation.io |
 | fculcz.joann.com | dnsdelegation.io |
+| fczgnb.hudsonjeans.com | dnsdelegation.io |
 | fdchhx.medipeel.co.kr | dnsdelegation.io |
 | fdgfrr.mothercare.com.kw | dnsdelegation.io |
 | fdhqzb.longkionemedics.com | dnsdelegation.io |
@@ -1272,6 +1280,7 @@
 | fjortk.braun-hamburg.com | dnsdelegation.io |
 | fjqtyu.bethowen.ru | dnsdelegation.io |
 | fjuccm.uktsc.com | dnsdelegation.io |
+| fjxadi.maxi-pieces-50.fr | dnsdelegation.io |
 | fkdaik.lightinthebox.com | dnsdelegation.io |
 | fkeupa.bett1.de | dnsdelegation.io |
 | fkmdky.lifehacker.ru | dnsdelegation.io |
@@ -1281,6 +1290,7 @@
 | flcirh.kuvings.jp | dnsdelegation.io |
 | fldoai.municipal.com | dnsdelegation.io |
 | fljaxb.chalktalksports.com | dnsdelegation.io |
+| flnkmj.hometogo.fr | dnsdelegation.io |
 | flpwto.lohaco.jp | dnsdelegation.io |
 | flvpzm.pexo.cz | dnsdelegation.io |
 | flznib.weblio.jp | dnsdelegation.io |
@@ -1312,6 +1322,7 @@
 | fpvsxs.ropping.tv-asahi.co.jp | dnsdelegation.io |
 | fpxewa.ilmeteo.it | dnsdelegation.io |
 | fqcqnb.dwr.com | dnsdelegation.io |
+| fqkepc.jetcost.com.mx | dnsdelegation.io |
 | fqosmc.yoderleather.com | dnsdelegation.io |
 | fqppgv.cheapoair.com | dnsdelegation.io |
 | fqrghb.hotcircle.net | dnsdelegation.io |
@@ -1365,6 +1376,7 @@
 | frdoki.woodcut.work | dnsdelegation.io |
 | fredlx.skinnypig.xyz | dnsdelegation.io |
 | friwft.vox.pl | dnsdelegation.io |
+| frmebf.fratelligiacomel.it | dnsdelegation.io |
 | frnass.igluski.com | dnsdelegation.io |
 | frqbff.hedleyandbennett.com | dnsdelegation.io |
 | frzbly.cosdlazdrowia.pl | dnsdelegation.io |
@@ -1569,6 +1581,7 @@
 | gsftuy.nutripure.fr | dnsdelegation.io |
 | gsjznb.damondmotorsports.com | dnsdelegation.io |
 | gsmqez.xcite.com | dnsdelegation.io |
+| gsouxd.missetam.nl | dnsdelegation.io |
 | gspjom.3balls.com | dnsdelegation.io |
 | gspqch.cake.jp | dnsdelegation.io |
 | gspvqh.gamaitaly.com.br | dnsdelegation.io |
@@ -1659,6 +1672,7 @@
 | hcjpbc.radaronline.com | dnsdelegation.io |
 | hcjpbc.soapoperadigest.com | dnsdelegation.io |
 | hcjpbc.surfer.com | dnsdelegation.io |
+| hcjpbc.surfer.com | dnsdelegation.io |
 | hcjpbc.usmagazine.com | dnsdelegation.io |
 | hckjsc.kastner-oehler.at | dnsdelegation.io |
 | hcklqa.ichiranstore.com | dnsdelegation.io |
@@ -1733,6 +1747,7 @@
 | hmgnjf.autoscout24.it | dnsdelegation.io |
 | hmjyvj.glamira.it | dnsdelegation.io |
 | hmlvxk.julian-fashion.com | dnsdelegation.io |
+| hmpfja.up-t.jp | dnsdelegation.io |
 | hmsagy.uniecampus.it | dnsdelegation.io |
 | hmvbmf.vidaxl.es | dnsdelegation.io |
 | hmyjoj.5-fifth.com | dnsdelegation.io |
@@ -1750,6 +1765,7 @@
 | hoojts.demmelhuber.net | dnsdelegation.io |
 | hovxns.dehen1920.com | dnsdelegation.io |
 | hpcduz.shoemall.com | dnsdelegation.io |
+| hpeych.tonerpartner.sk | dnsdelegation.io |
 | hphtjv.orellfuessli.ch | dnsdelegation.io |
 | hplrqg.interflora.fr | dnsdelegation.io |
 | hpplap.shabon.com | dnsdelegation.io |
@@ -1770,6 +1786,7 @@
 | hruoxg.5vorflug.de | dnsdelegation.io |
 | hruyiq.auction.co.kr | dnsdelegation.io |
 | hrwgsq.loesdau.de | dnsdelegation.io |
+| hsaxca.americatv.com.pe | dnsdelegation.io |
 | hsfsku.guedo-outillage.fr | dnsdelegation.io |
 | hskywn.raskebriller.no | dnsdelegation.io |
 | hslkll.psychic.de | dnsdelegation.io |
@@ -1785,6 +1802,7 @@
 | htnblk.kansascitysteaks.com | dnsdelegation.io |
 | htqfxh.vuch.cz | dnsdelegation.io |
 | huabfv.jshoe.co.kr | dnsdelegation.io |
+| hubaqq.morganshotelgroup.com | dnsdelegation.io |
 | hubkgy.yves-rocher.sk | dnsdelegation.io |
 | hudhno.jdsports.es | dnsdelegation.io |
 | huechl.paige.com | dnsdelegation.io |
@@ -1860,6 +1878,7 @@
 | idlqzb.puntoscolombia.com | dnsdelegation.io |
 | idndlc.kango-oshigoto.jp | dnsdelegation.io |
 | idqwqm.kkday.com | dnsdelegation.io |
+| ieapgv.abcroisiere.com | dnsdelegation.io |
 | ieeowa.marcjacobsbeauty.com | dnsdelegation.io |
 | iefiop.raizs.com.br | dnsdelegation.io |
 | iegwze.goldcar.es | dnsdelegation.io |
@@ -2052,7 +2071,6 @@
 | jdgtgb.haz.de | dnsdelegation.io |
 | jdgtgb.haz.de | dnsdelegation.io |
 | jdgtgb.hildesheimer-allgemeine.de | dnsdelegation.io |
-| jdgtgb.hildesheimer-allgemeine.de | dnsdelegation.io |
 | jdgtgb.kicker.de | dnsdelegation.io |
 | jdgtgb.kino.de | dnsdelegation.io |
 | jdgtgb.ksta.de | dnsdelegation.io |
@@ -2067,7 +2085,6 @@
 | jdgtgb.ndz.de | dnsdelegation.io |
 | jdgtgb.ndz.de | dnsdelegation.io |
 | jdgtgb.op-marburg.de | dnsdelegation.io |
-| jdgtgb.paz-online.de | dnsdelegation.io |
 | jdgtgb.paz-online.de | dnsdelegation.io |
 | jdgtgb.pcgames.de | dnsdelegation.io |
 | jdgtgb.pcgameshardware.de | dnsdelegation.io |
@@ -2223,6 +2240,7 @@
 | jyuicr.codemonkey.com | dnsdelegation.io |
 | jyumzv.dcshoes.com.br | dnsdelegation.io |
 | jyupgi.eurostarshotels.co.uk | dnsdelegation.io |
+| jyxpae.suncamp.pl | dnsdelegation.io |
 | jyyqzt.sledstore.se | dnsdelegation.io |
 | jyyzvb.careerindex.jp | dnsdelegation.io |
 | jzayvj.enercity.de | dnsdelegation.io |
@@ -2294,6 +2312,7 @@
 | khimxz.shoesforcrews.com | dnsdelegation.io |
 | khiurx.tigerdirect.com | dnsdelegation.io |
 | khvdma.clarins.com.tw | dnsdelegation.io |
+| khzmgk.plumbworld.co.uk | dnsdelegation.io |
 | kiddbs.baby-calendar.jp | dnsdelegation.io |
 | kierwg.enzzo.gr | dnsdelegation.io |
 | kifqnx.ardennes-etape.com | dnsdelegation.io |
@@ -2549,7 +2568,7 @@
 | lpbhnv.nbcbayarea.com | dnsdelegation.io |
 | lpbhnv.nbcboston.com | dnsdelegation.io |
 | lpbhnv.nbcchicago.com | dnsdelegation.io |
-| lpbhnv.nbcchicago.com | dnsdelegation.io |
+| lpbhnv.nbcconnecticut.com | dnsdelegation.io |
 | lpbhnv.nbcconnecticut.com | dnsdelegation.io |
 | lpbhnv.nbcdfw.com | dnsdelegation.io |
 | lpbhnv.nbclosangeles.com | dnsdelegation.io |
@@ -2696,12 +2715,14 @@
 | mcacry.trendhim.it | dnsdelegation.io |
 | mccntp.raen.com | dnsdelegation.io |
 | mccylg.rutlandcycling.com | dnsdelegation.io |
+| mchtna.fashionplus.co.kr | dnsdelegation.io |
 | mckbpe.united-arrows.co.jp | dnsdelegation.io |
 | mckiey.thun.com | dnsdelegation.io |
 | mczpco.darty.com | dnsdelegation.io |
 | mczpcv.sarahmarie.co.kr | dnsdelegation.io |
 | mczqzk.yves-rocher.hu | dnsdelegation.io |
 | mddkxi.touchinsol.com | dnsdelegation.io |
+| mdhhvc.jeep.fr | dnsdelegation.io |
 | mdiyay.vseinstrumenti.ru | dnsdelegation.io |
 | mdokua.shiseido.co.jp | dnsdelegation.io |
 | mdugiz.jdsports.de | dnsdelegation.io |
@@ -2934,6 +2955,7 @@
 | nnhxjd.zielonalazienka.pl | dnsdelegation.io |
 | nnivvr.zimmo.be | dnsdelegation.io |
 | nnkeoi.timarco.com | dnsdelegation.io |
+| nnkkxb.nuts.com | dnsdelegation.io |
 | nnofmj.studiof.com.co | dnsdelegation.io |
 | nnqyed.laredoute.be | dnsdelegation.io |
 | nnsrak.lazurit.com | dnsdelegation.io |
@@ -2946,11 +2968,13 @@
 | noyvyv.bosonshop.com | dnsdelegation.io |
 | npczil.maxandco.com | dnsdelegation.io |
 | npfopn.mix.tokyo | dnsdelegation.io |
+| npgrzv.rikoland.pl | dnsdelegation.io |
 | nplden.legionathletics.com | dnsdelegation.io |
 | npozbs.msccruises.nl | dnsdelegation.io |
 | nprkvj.mall.sk | dnsdelegation.io |
 | npsopu.clearly.ca | dnsdelegation.io |
 | nptkpt.vangraaf.com | dnsdelegation.io |
+| nqacsh.aalborg24.dk | dnsdelegation.io |
 | nqacsh.aalborg24.dk | dnsdelegation.io |
 | nqacsh.business24.dk | dnsdelegation.io |
 | nqacsh.herning24.dk | dnsdelegation.io |
@@ -3022,6 +3046,7 @@
 | nyetae.eyeclinic-tokyo.jp | dnsdelegation.io |
 | nynnde.gandalf.com.pl | dnsdelegation.io |
 | nytjyf.dholic.co.jp | dnsdelegation.io |
+| nyuyiw.linea-storia.co.kr | dnsdelegation.io |
 | nyvknh.compracerta.com.br | dnsdelegation.io |
 | nzmkzl.mytheresa.com | dnsdelegation.io |
 | nzmsgb.atu.de | dnsdelegation.io |
@@ -3044,6 +3069,7 @@
 | obtfhl.bellemaison.jp | dnsdelegation.io |
 | obyuhk.mondoaffariweb.it | dnsdelegation.io |
 | ocjhte.estoque.com.br | dnsdelegation.io |
+| ocmacs.namjestaj.hr | dnsdelegation.io |
 | ocmxbu.hanatour.com | dnsdelegation.io |
 | ocpgll.bannerbuzz.ca | dnsdelegation.io |
 | ocwlhv.ecid.com.br | dnsdelegation.io |
@@ -3080,6 +3106,7 @@
 | oikwky.wa-jp.com | dnsdelegation.io |
 | oiodyx.baldur-garten.de | dnsdelegation.io |
 | oirtwc.juwelo.es | dnsdelegation.io |
+| oisbdb.jukunavi.com | dnsdelegation.io |
 | oitihv.drinks.de | dnsdelegation.io |
 | oivlxj.atakto.pl | dnsdelegation.io |
 | oiwnrl.theory.co.jp | dnsdelegation.io |
@@ -3412,7 +3439,6 @@
 | qdhzgg.premoa.co.jp | dnsdelegation.io |
 | qdicel.marymaxim.com | dnsdelegation.io |
 | qdkaky.rikilovesriki.com | dnsdelegation.io |
-| qdkwaz.laredoute.fr | dnsdelegation.io |
 | qdnxys.cotswoldco.com | dnsdelegation.io |
 | qdolvc.bicicletapegas.ro | dnsdelegation.io |
 | qdqdfp.toitsutest-koukou.com | dnsdelegation.io |
@@ -3493,6 +3519,7 @@
 | qnuwjs.trustedshops.de | dnsdelegation.io |
 | qnuyqu.ubierzsie.com | dnsdelegation.io |
 | qnuzwe.nomanwalksalone.com | dnsdelegation.io |
+| qnwact.colnaghi.com.br | dnsdelegation.io |
 | qnwkbv.bestsecret.nl | dnsdelegation.io |
 | qoairs.scholl-shoes.com | dnsdelegation.io |
 | qohlsl.drawer.fr | dnsdelegation.io |
@@ -3608,6 +3635,7 @@
 | raqwjl.dienthoaigiakho.vn | dnsdelegation.io |
 | raspnd.quadratec.com | dnsdelegation.io |
 | raunou.portobellostreet.es | dnsdelegation.io |
+| rbbgbi.greenline.dk | dnsdelegation.io |
 | rbbgnn.hanshintigers.jp | dnsdelegation.io |
 | rbesql.just4camper.fr | dnsdelegation.io |
 | rbjmfj.dickies.ca | dnsdelegation.io |
@@ -3732,6 +3760,7 @@
 | rqjjdi.bershka.com | dnsdelegation.io |
 | rqkmir.ferragamo.com | dnsdelegation.io |
 | rqkmnr.ifemme.co.kr | dnsdelegation.io |
+| rqroyh.suitable.de | dnsdelegation.io |
 | rqvsws.carreblanc.com | dnsdelegation.io |
 | rqyxdk.myanimelist.net | dnsdelegation.io |
 | rqyxdk.myanimelist.net | dnsdelegation.io |
@@ -3769,6 +3798,7 @@
 | ruwxnw.wyconcosmetics.com | dnsdelegation.io |
 | rvcwmg.torbs.pl | dnsdelegation.io |
 | rverxn.autosphere.fr | dnsdelegation.io |
+| rvhayo.rietveldlicht.nl | dnsdelegation.io |
 | rvhxht.smulderstextiel.nl | dnsdelegation.io |
 | rvhzjg.desivero.com | dnsdelegation.io |
 | rvitam.xenos.nl | dnsdelegation.io |
@@ -3851,7 +3881,6 @@
 | sfgysl.ppomppu.co.kr | dnsdelegation.io |
 | sfgysl.ppomppu.co.kr | dnsdelegation.io |
 | sfgysl.todayplusnews.com | dnsdelegation.io |
-| sfgysl.top-rider.com | dnsdelegation.io |
 | sfgysl.top-rider.com | dnsdelegation.io |
 | sfhgqy.i-sozoku.com | dnsdelegation.io |
 | sfiycb.outerknown.com | dnsdelegation.io |
@@ -3966,6 +3995,7 @@
 | srnmxp.unisportstore.fi | dnsdelegation.io |
 | sroork.mrmarvis.nl | dnsdelegation.io |
 | srratl.mona-mode.at | dnsdelegation.io |
+| srrxiq.wurth.fr | dnsdelegation.io |
 | sscefh.feedingamerica.org | dnsdelegation.io |
 | ssecvu.lindsayshop.com | dnsdelegation.io |
 | ssgamf.stories.com | dnsdelegation.io |
@@ -3985,6 +4015,7 @@
 | sufesj.shop4runners.com | dnsdelegation.io |
 | sufetv.chefuniforms.com | dnsdelegation.io |
 | supvka.colancolan.com | dnsdelegation.io |
+| suqboc.fancl.co.jp | dnsdelegation.io |
 | suxqvc.pinksisly.com | dnsdelegation.io |
 | suydnc.wwf.it | dnsdelegation.io |
 | svdpxj.sipa-automobiles.fr | dnsdelegation.io |
@@ -4017,7 +4048,7 @@
 | sxjfhh.caller.com | dnsdelegation.io |
 | sxjfhh.citizen-times.com | dnsdelegation.io |
 | sxjfhh.clarionledger.com | dnsdelegation.io |
-| sxjfhh.coloradoan.com | dnsdelegation.io |
+| sxjfhh.clarionledger.com | dnsdelegation.io |
 | sxjfhh.coloradoan.com | dnsdelegation.io |
 | sxjfhh.commercialappeal.com | dnsdelegation.io |
 | sxjfhh.courier-journal.com | dnsdelegation.io |
@@ -4080,7 +4111,6 @@
 | sxjfhh.press-citizen.com | dnsdelegation.io |
 | sxjfhh.pressconnects.com | dnsdelegation.io |
 | sxjfhh.pressconnects.com | dnsdelegation.io |
-| sxjfhh.publicopiniononline.com | dnsdelegation.io |
 | sxjfhh.publicopiniononline.com | dnsdelegation.io |
 | sxjfhh.redding.com | dnsdelegation.io |
 | sxjfhh.rgj.com | dnsdelegation.io |
@@ -4160,6 +4190,7 @@
 | tdzxxe.handyservice.de | dnsdelegation.io |
 | teaolg.niedersaechsischer-jobanzeiger.de | dnsdelegation.io |
 | teczbq.amicashop.com | dnsdelegation.io |
+| teijgy.herveleger.com | dnsdelegation.io |
 | telulr.golfgalaxy.com | dnsdelegation.io |
 | tengbt.healthhelper.kr | dnsdelegation.io |
 | tepwxt.bonescoffee.com | dnsdelegation.io |
@@ -4438,7 +4469,6 @@
 | ukzjce.idus.com | dnsdelegation.io |
 | uldtqa.weekendmaxmara.com | dnsdelegation.io |
 | ulerkr.ukrzoloto.ua | dnsdelegation.io |
-| ulinyo.bandito.com.tr | dnsdelegation.io |
 | ultund.misterspex.nl | dnsdelegation.io |
 | ulyfrf.dekruidenbaron.nl | dnsdelegation.io |
 | umazvs.raybiotech.com | dnsdelegation.io |
@@ -4551,6 +4581,7 @@
 | vafysu.ecco-verde.ch | dnsdelegation.io |
 | vahlnd.bogsfootwear.com | dnsdelegation.io |
 | vaieit.seabags.com | dnsdelegation.io |
+| vanqrf.pcrichard.com | dnsdelegation.io |
 | vapxga.sieh-an.de | dnsdelegation.io |
 | vazulp.graniph.com | dnsdelegation.io |
 | vbihcm.alaiyeresorthotel.com | dnsdelegation.io |
@@ -4715,7 +4746,6 @@
 | vuqgzz.fiftyoutlet.com | dnsdelegation.io |
 | vurshz.gregory.jp | dnsdelegation.io |
 | vushgt.motatos.dk | dnsdelegation.io |
-| vuuxsw.lusida.co.kr | dnsdelegation.io |
 | vuypew.ikks.com | dnsdelegation.io |
 | vvaaol.enuygun.com | dnsdelegation.io |
 | vvelrp.thinkshoes.com | dnsdelegation.io |
@@ -4855,6 +4885,7 @@
 | wmizdm.relax-job.com | dnsdelegation.io |
 | wmvroh.sgd.de | dnsdelegation.io |
 | wmxuba.aldoshoes.com | dnsdelegation.io |
+| wnacug.georgiaboot.com | dnsdelegation.io |
 | wncowb.miracle-woman.com | dnsdelegation.io |
 | wnegmu.timberland.nl | dnsdelegation.io |
 | wnfwzx.panpacific.com | dnsdelegation.io |
@@ -4987,6 +5018,7 @@
 | xgefvi.iteshop.com | dnsdelegation.io |
 | xgezbc.tripmasters.com | dnsdelegation.io |
 | xghpzp.medicis-patrimoine.com | dnsdelegation.io |
+| xgjktx.careofcarl.dk | dnsdelegation.io |
 | xglcva.racechip.us | dnsdelegation.io |
 | xgmhoq.lensvision.ch | dnsdelegation.io |
 | xgspzv.troyestore.com | dnsdelegation.io |
@@ -5001,6 +5033,7 @@
 | xhuahy.juwelo.it | dnsdelegation.io |
 | xhwojh.nimikoruni.com | dnsdelegation.io |
 | xhxmhs.ounass.ae | dnsdelegation.io |
+| xiajgy.taisho-beauty.jp | dnsdelegation.io |
 | xibspj.komehyo.jp | dnsdelegation.io |
 | xinfmi.helmonline.de | dnsdelegation.io |
 | xiqvza.dickblick.com | dnsdelegation.io |
@@ -5022,6 +5055,7 @@
 | xkhlbg.premium-mall.com | dnsdelegation.io |
 | xkidkt.edenbrothers.com | dnsdelegation.io |
 | xknhwv.mobile01.com | dnsdelegation.io |
+| xkpxdi.opticauniversitaria.es | dnsdelegation.io |
 | xkvmsr.hair.com | dnsdelegation.io |
 | xkycnx.look-it.jp | dnsdelegation.io |
 | xkzlsm.web-sana.com | dnsdelegation.io |
@@ -5040,6 +5074,7 @@
 | xmqrvx.jewelry-queen-shop.com | dnsdelegation.io |
 | xmwiyb.maje.ru | dnsdelegation.io |
 | xmwkjf.joya.ca | dnsdelegation.io |
+| xmxhyz.markenbaumarkt24.de | dnsdelegation.io |
 | xmyvhu.soxo.pl | dnsdelegation.io |
 | xnbjsc.travelwith.jp | dnsdelegation.io |
 | xncyme.chungsosin.com | dnsdelegation.io |
@@ -5653,17 +5688,14 @@
 | zzqyxd.smartpozyczka.pl | dnsdelegation.io |
 | zzsqqx.shopjapan.co.jp | dnsdelegation.io |
 | zzzfba.thecolvinco.com | dnsdelegation.io |
-| ebgagg.depo.ba | e.dnsdelegation.io |
 | fmqidg.letras.com | f.dnsdelegation.io |
 | fmqidg.letras.mus.br | f.dnsdelegation.io |
 | fmssly.pets4homes.co.uk | f.dnsdelegation.io |
 | frdoki.artmuseum.work | f.dnsdelegation.io |
-| frdoki.beautifullywhitening.work | f.dnsdelegation.io |
 | frdoki.contemporaryart.work | f.dnsdelegation.io |
 | frdoki.content-lump.net | f.dnsdelegation.io |
 | frdoki.estlier.net | f.dnsdelegation.io |
 | frdoki.gamefactory.jp | f.dnsdelegation.io |
-| frdoki.hammering.work | f.dnsdelegation.io |
 | frdoki.nailcolor.work | f.dnsdelegation.io |
 | frdoki.netmile.co.jp | f.dnsdelegation.io |
 | frdoki.pendrawing.work | f.dnsdelegation.io |
@@ -5675,14 +5707,15 @@
 | gmufag.e1.ru | g.dnsdelegation.io |
 | gmufag.marieclaire.ru | g.dnsdelegation.io |
 | gmufag.wday.ru | g.dnsdelegation.io |
-| hcjpbc.intouchweekly.com | h.dnsdelegation.io |
 | hcjpbc.mensjournal.com | h.dnsdelegation.io |
 | hcjpbc.muscleandfitness.com | h.dnsdelegation.io |
 | hcjpbc.okmagazine.com | h.dnsdelegation.io |
 | hcjpbc.radaronline.com | h.dnsdelegation.io |
+| hcjpbc.surfer.com | h.dnsdelegation.io |
 | hcjpbc.usmagazine.com | h.dnsdelegation.io |
 | hearob.klix.ba | h.dnsdelegation.io |
 | hnnuaa.willhaben.at | h.dnsdelegation.io |
+| hsaxca.americatv.com.pe | h.dnsdelegation.io |
 | hvrhgt.the-sun.com | h.dnsdelegation.io |
 | hvrhgt.thescottishsun.co.uk | h.dnsdelegation.io |
 | hvrhgt.thesun.ie | h.dnsdelegation.io |
@@ -5696,14 +5729,12 @@
 | jdgtgb.express.de | j.dnsdelegation.io |
 | jdgtgb.goettinger-tageblatt.de | j.dnsdelegation.io |
 | jdgtgb.haz.de | j.dnsdelegation.io |
-| jdgtgb.hildesheimer-allgemeine.de | j.dnsdelegation.io |
 | jdgtgb.ksta.de | j.dnsdelegation.io |
 | jdgtgb.lvz.de | j.dnsdelegation.io |
 | jdgtgb.mainpost.de | j.dnsdelegation.io |
 | jdgtgb.maz-online.de | j.dnsdelegation.io |
 | jdgtgb.mopo.de | j.dnsdelegation.io |
 | jdgtgb.ndz.de | j.dnsdelegation.io |
-| jdgtgb.paz-online.de | j.dnsdelegation.io |
 | jdgtgb.rnz.de | j.dnsdelegation.io |
 | jdgtgb.rundschau-online.de | j.dnsdelegation.io |
 | jdgtgb.sportbuzzer.de | j.dnsdelegation.io |
@@ -5719,10 +5750,9 @@
 | lcodff.uta-net.com | l.dnsdelegation.io |
 | liosix.mtvuutiset.fi | l.dnsdelegation.io |
 | lkswyr.diredonna.it | l.dnsdelegation.io |
-| lpbhnv.nbcchicago.com | l.dnsdelegation.io |
+| lpbhnv.nbcconnecticut.com | l.dnsdelegation.io |
 | lpbhnv.nbcdfw.com | l.dnsdelegation.io |
 | lpbhnv.nbclosangeles.com | l.dnsdelegation.io |
-| lpbhnv.nbcnewyork.com | l.dnsdelegation.io |
 | lpbhnv.nbcsandiego.com | l.dnsdelegation.io |
 | lpbhnv.nbcwashington.com | l.dnsdelegation.io |
 | lpbhnv.telemundo33.com | l.dnsdelegation.io |
@@ -5733,19 +5763,19 @@
 | lpzxed.em.com.br | l.dnsdelegation.io |
 | mtcvyv.webaslan.com | m.dnsdelegation.io |
 | neaaom.ytn.co.kr | n.dnsdelegation.io |
+| nqacsh.aalborg24.dk | n.dnsdelegation.io |
 | nqacsh.business24.dk | n.dnsdelegation.io |
 | onoztg.ultimate-guitar.com | o.dnsdelegation.io |
-| qgumjp.asiae.co.kr | q.dnsdelegation.io |
 | qgumjp.joins.com | q.dnsdelegation.io |
 | qlqaec.suamusica.com.br | q.dnsdelegation.io |
 | qvzrde.mensagenscomamor.com | q.dnsdelegation.io |
 | qzwktr.world-fusigi.net | q.dnsdelegation.io |
 | rpfkgf.rp-online.de | r.dnsdelegation.io |
 | rpfkgf.saarbruecker-zeitung.de | r.dnsdelegation.io |
+| rpfkgf.volksfreund.de | r.dnsdelegation.io |
 | rqyxdk.myanimelist.net | r.dnsdelegation.io |
 | sfgysl.carguy.kr | s.dnsdelegation.io |
 | sfgysl.ppomppu.co.kr | s.dnsdelegation.io |
-| sfgysl.top-rider.com | s.dnsdelegation.io |
 | sisdtb.climatempo.com.br | s.dnsdelegation.io |
 | slewvr.gp.se | s.dnsdelegation.io |
 | swwcyk.ahaber.com.tr | s.dnsdelegation.io |
@@ -5754,7 +5784,7 @@
 | swwcyk.takvim.com.tr | s.dnsdelegation.io |
 | sxjfhh.app.com | s.dnsdelegation.io |
 | sxjfhh.azcentral.com | s.dnsdelegation.io |
-| sxjfhh.coloradoan.com | s.dnsdelegation.io |
+| sxjfhh.clarionledger.com | s.dnsdelegation.io |
 | sxjfhh.courier-journal.com | s.dnsdelegation.io |
 | sxjfhh.courierpostonline.com | s.dnsdelegation.io |
 | sxjfhh.delawareonline.com | s.dnsdelegation.io |
@@ -5779,12 +5809,13 @@
 | sxjfhh.paris-express.com | s.dnsdelegation.io |
 | sxjfhh.postcrescent.com | s.dnsdelegation.io |
 | sxjfhh.pressconnects.com | s.dnsdelegation.io |
-| sxjfhh.publicopiniononline.com | s.dnsdelegation.io |
 | sxjfhh.rgj.com | s.dnsdelegation.io |
 | sxjfhh.shreveporttimes.com | s.dnsdelegation.io |
+| sxjfhh.statesmanjournal.com | s.dnsdelegation.io |
 | sxjfhh.tallahassee.com | s.dnsdelegation.io |
-| sxjfhh.tennessean.com | s.dnsdelegation.io |
 | sxjfhh.thecalifornian.com | s.dnsdelegation.io |
+| sxjfhh.thenewsstar.com | s.dnsdelegation.io |
+| sxjfhh.thestarpress.com | s.dnsdelegation.io |
 | sxjfhh.thetimesherald.com | s.dnsdelegation.io |
 | sxjfhh.timesrecordnews.com | s.dnsdelegation.io |
 | sxjfhh.usatoday.com | s.dnsdelegation.io |
@@ -5798,8 +5829,6 @@
 | veqvek.ctv.ca | v.dnsdelegation.io |
 | veqvek.ctvnews.ca | v.dnsdelegation.io |
 | veqvek.discovery.ca | v.dnsdelegation.io |
-| veqvek.much.com | v.dnsdelegation.io |
-| veqvek.tsn.ca | v.dnsdelegation.io |
 | vkbvny.chookjenews.kr | v.dnsdelegation.io |
 | vkbvny.ddanzi.com | v.dnsdelegation.io |
 | vkbvny.mediaus.co.kr | v.dnsdelegation.io |
@@ -5815,7 +5844,6 @@
 | wzyjup.patch.com | w.dnsdelegation.io |
 | xrnyhc.dongasisa.com | x.dnsdelegation.io |
 | xrnyhc.itmeca.net | x.dnsdelegation.io |
-| xrnyhc.journalnet.co.kr | x.dnsdelegation.io |
 | xrnyhc.newscastle.co.kr | x.dnsdelegation.io |
 | xrnyhc.newspann.com | x.dnsdelegation.io |
 | xrnyhc.saerailbo.com | x.dnsdelegation.io |
@@ -5823,3 +5851,4 @@
 | yhnwux.cartacapital.com.br | y.dnsdelegation.io |
 | yhnwux.infomoney.com.br | y.dnsdelegation.io |
 | yrrudp.inven.co.kr | y.dnsdelegation.io |
+| zwiucp.ohmynews.com | z.dnsdelegation.io |

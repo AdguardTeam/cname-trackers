@@ -30,6 +30,7 @@
 | social.lafranceagricole.fr | non.li |
 | social.latoque.fr | non.li |
 | social.terre-net-occasions.fr | non.li |
+| social.web-agri.fr | non.li |
 | static.nonli.com | non.li |
 | sur.laprovence.com | non.li |
 | l.laprovence.com | tls-lp-cm.non.li |

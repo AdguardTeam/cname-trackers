@@ -23,6 +23,7 @@
 | ---- | ---- |
 | ad.srvupads.com | ams.goadserver.com |
 | advserver.asiantb.com | ams.goadserver.com |
+| az.tbllem.com | ams.goadserver.com |
 | cdn.goasrv.com | ams.goadserver.com |
 | display.digitalclickstime.com | ams.goadserver.com |
 | ff.charmduo.site | ams.goadserver.com |
@@ -39,6 +40,7 @@
 | go.linkadsnet.com | ams.goadserver.com |
 | go.novirtb.com | ams.goadserver.com |
 | go.redgifs.com | ams.goadserver.com |
+| go.soobix.com | ams.goadserver.com |
 | go.static-srv.com | ams.goadserver.com |
 | go.tbllprem.com | ams.goadserver.com |
 | go.tbllrej.com | ams.goadserver.com |
@@ -50,7 +52,7 @@
 | go1.nolvadex.top | ams.goadserver.com |
 | go1.reacheffecti.work | ams.goadserver.com |
 | go1.reachsrv.com | ams.goadserver.com |
-| go1.rssr.work | ams.goadserver.com |
+| go1.tbllad.com | ams.goadserver.com |
 | go1.trakit19.com | ams.goadserver.com |
 | go1.trakit22.com | ams.goadserver.com |
 | go1.trakit23.com | ams.goadserver.com |
@@ -83,6 +85,7 @@
 | live.trmzum.com | ams.goadserver.com |
 | live.trudigo.com | ams.goadserver.com |
 | live.zrmtrm.com | ams.goadserver.com |
+| pl.tbllem.com | ams.goadserver.com |
 | up.tbllem.com | ams.goadserver.com |
 | st.static-srv.com | data.goadserver.com |
 | ad.srvupads.com | detroit.goadserver.com |
@@ -91,7 +94,6 @@
 | display.digitalclickstime.com | detroit.goadserver.com |
 | ff.charmduo.site | detroit.goadserver.com |
 | ff.finaster.top | detroit.goadserver.com |
-| ff.heartbeats.space | detroit.goadserver.com |
 | ff.nolvade.top | detroit.goadserver.com |
 | ff.padelit.click | detroit.goadserver.com |
 | ff.rosuirone.digital | detroit.goadserver.com |
@@ -109,7 +111,6 @@
 | go.panotads.com | detroit.goadserver.com |
 | go.redgifs.com | detroit.goadserver.com |
 | go.static-srv.com | detroit.goadserver.com |
-| go.tbllem.com | detroit.goadserver.com |
 | go.tbllzon.com | detroit.goadserver.com |
 | go1.3mre.work | detroit.goadserver.com |
 | go1.a2ure.work | detroit.goadserver.com |
@@ -117,6 +118,7 @@
 | go1.reacheffecti.work | detroit.goadserver.com |
 | go1.reachsrv.com | detroit.goadserver.com |
 | go1.sildenafi.beauty | detroit.goadserver.com |
+| go1.tbllad.com | detroit.goadserver.com |
 | go1.tjre.work | detroit.goadserver.com |
 | go1.trakit18.com | detroit.goadserver.com |
 | go1.trakit19.com | detroit.goadserver.com |
@@ -154,7 +156,6 @@
 | up.tbllem.com | detroit.goadserver.com |
 | ad.slimspots.com | dtb.goadserver.com |
 | ad.srvupads.com | dtb.goadserver.com |
-| ad.srvupads.com | dtb.goadserver.com |
 | ads.coinads.click | dtb.goadserver.com |
 | adserver.asiantb.com | dtb.goadserver.com |
 | advserver.asiantb.com | dtb.goadserver.com |
@@ -167,6 +168,8 @@
 | ff.datenest.store | dtb.goadserver.com |
 | ff.dreamdates.online | dtb.goadserver.com |
 | ff.electricoz.life | dtb.goadserver.com |
+| ff.finaster.top | dtb.goadserver.com |
+| ff.heartbeats.space | dtb.goadserver.com |
 | ff.nadache.top | dtb.goadserver.com |
 | ff.nolvade.top | dtb.goadserver.com |
 | ff.padelit.click | dtb.goadserver.com |
@@ -190,6 +193,7 @@
 | go.gosrv.cl | dtb.goadserver.com |
 | go.gosrv.cl | dtb.goadserver.com |
 | go.gsrv.dev | dtb.goadserver.com |
+| go.linkadsnet.com | dtb.goadserver.com |
 | go.novirtb.com | dtb.goadserver.com |
 | go.panotads.com | dtb.goadserver.com |
 | go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com | dtb.goadserver.com |
@@ -197,8 +201,11 @@
 | go.static-srv.com | dtb.goadserver.com |
 | go.static-srv.com | dtb.goadserver.com |
 | go.tbllad.com | dtb.goadserver.com |
+| go.tbllem.com | dtb.goadserver.com |
+| go.tbllprem.com | dtb.goadserver.com |
+| go.tbllrej.com | dtb.goadserver.com |
 | go.tbllzon.com | dtb.goadserver.com |
-| go1.3mre.work | dtb.goadserver.com |
+| go.trcklnk.com | dtb.goadserver.com |
 | go1.3mre.work | dtb.goadserver.com |
 | go1.a2ure.work | dtb.goadserver.com |
 | go1.a2ure.work | dtb.goadserver.com |
@@ -215,7 +222,6 @@
 | go1.rssr.work | dtb.goadserver.com |
 | go1.sildenafi.beauty | dtb.goadserver.com |
 | go1.spre.work | dtb.goadserver.com |
-| go1.tbllad.com | dtb.goadserver.com |
 | go1.tbllad.com | dtb.goadserver.com |
 | go1.tjre.work | dtb.goadserver.com |
 | go1.traffytrack.digital | dtb.goadserver.com |
@@ -234,12 +240,14 @@
 | go1.trakit27.com | dtb.goadserver.com |
 | go1.trakit27.com | dtb.goadserver.com |
 | go1.trakit28.com | dtb.goadserver.com |
+| go1.trakit28.com | dtb.goadserver.com |
 | go1.trakit30.com | dtb.goadserver.com |
 | go1.were.work | dtb.goadserver.com |
 | go1.yare.work | dtb.goadserver.com |
 | go2.toplineads.com | dtb.goadserver.com |
 | go2.toplineads.com | dtb.goadserver.com |
 | go2.trafficbull.com | dtb.goadserver.com |
+| gs.tbllzon.com | dtb.goadserver.com |
 | gs.tbllzon.com | dtb.goadserver.com |
 | gw.blacked.com | dtb.goadserver.com |
 | gw.blackedraw.com | dtb.goadserver.com |
@@ -281,12 +289,12 @@
 | up.tbllem.com | dtb.goadserver.com |
 | ad.srvupads.com | go.goadserver.com |
 | advserver.asiantb.com | go.goadserver.com |
+| az.tbllem.com | go.goadserver.com |
 | cdn.goasrv.com | go.goadserver.com |
 | display.digitalclickstime.com | go.goadserver.com |
 | ff.charmduo.site | go.goadserver.com |
 | ff.electricoz.life | go.goadserver.com |
 | ff.finaster.top | go.goadserver.com |
-| ff.heartbeats.space | go.goadserver.com |
 | ff.nolvade.top | go.goadserver.com |
 | ff.padelit.click | go.goadserver.com |
 | ff.rosuirone.digital | go.goadserver.com |
@@ -303,8 +311,8 @@
 | go.novirtb.com | go.goadserver.com |
 | go.panotads.com | go.goadserver.com |
 | go.redgifs.com | go.goadserver.com |
+| go.soobix.com | go.goadserver.com |
 | go.static-srv.com | go.goadserver.com |
-| go.tbllem.com | go.goadserver.com |
 | go.tbllprem.com | go.goadserver.com |
 | go.tbllrej.com | go.goadserver.com |
 | go.tbllzon.com | go.goadserver.com |
@@ -315,7 +323,6 @@
 | go1.nolvadex.top | go.goadserver.com |
 | go1.reacheffecti.work | go.goadserver.com |
 | go1.reachsrv.com | go.goadserver.com |
-| go1.rssr.work | go.goadserver.com |
 | go1.sildenafi.beauty | go.goadserver.com |
 | go1.tbllad.com | go.goadserver.com |
 | go1.tjre.work | go.goadserver.com |
@@ -353,10 +360,12 @@
 | live.trmzum.com | go.goadserver.com |
 | live.trudigo.com | go.goadserver.com |
 | live.zrmtrm.com | go.goadserver.com |
+| pl.tbllem.com | go.goadserver.com |
 | up.tbllem.com | go.goadserver.com |
 | app.noviclick.com | noviclick.goadserver.com |
 | up.reacheffect.com | reacheffect.goadserver.com |
 | ad.srvupads.com | singapore.goadserver.com |
+| cdn.goasrv.com | singapore.goadserver.com |
 | display.digitalclickstime.com | singapore.goadserver.com |
 | ff.charmduo.site | singapore.goadserver.com |
 | go.aoalmfwinbsstec23.com | singapore.goadserver.com |
@@ -374,14 +383,15 @@
 | go1.3mre.work | singapore.goadserver.com |
 | go1.a2ure.work | singapore.goadserver.com |
 | go1.nolvadex.top | singapore.goadserver.com |
-| go1.reacheffecti.work | singapore.goadserver.com |
 | go1.reachsrv.com | singapore.goadserver.com |
 | go1.trakit19.com | singapore.goadserver.com |
 | go1.trakit22.com | singapore.goadserver.com |
 | go1.trakit24.com | singapore.goadserver.com |
 | go1.trakit25.com | singapore.goadserver.com |
+| go1.trakit27.com | singapore.goadserver.com |
 | go1.trakit28.com | singapore.goadserver.com |
 | go1.trakit30.com | singapore.goadserver.com |
+| go1.yare.work | singapore.goadserver.com |
 | go2.toplineads.com | singapore.goadserver.com |
 | go2.trafficbull.com | singapore.goadserver.com |
 | gs.tbllzon.com | singapore.goadserver.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -62,6 +62,7 @@ image.mdr.de CNAME .
 images.kika.de CNAME .
 insights.biallo.de CNAME .
 insights.sport1.de CNAME .
+iris.reparstores.com CNAME .
 johannes.voith.com CNAME .
 kiki.rireetchansons.fr CNAME .
 lem.nouvelobs.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773043256006        ; Serial
+           1773154494060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ $TTL 300
 3esm.consubebe.es CNAME .
 5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
+6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
 7lbd4.armandthiery.fr CNAME .
 7mx.eider.com CNAME .
@@ -36,6 +37,7 @@ a.perfumesclub.pl CNAME .
 a.perfumesclub.pt CNAME .
 a.weareknitters.co.uk CNAME .
 a.weareknitters.com CNAME .
+a.weareknitters.de CNAME .
 a.weareknitters.dk CNAME .
 a.weareknitters.es CNAME .
 a.weareknitters.fr CNAME .
@@ -88,7 +90,6 @@ ct.creditec.fr CNAME .
 ct5m.citadium.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d2u.dauphinquebec.com CNAME .
 d62e9cfa.eulerian.io CNAME .
 da85edd2.eulerian.io CNAME .
 de48cadb.eulerian.io CNAME .
@@ -146,7 +147,6 @@ ea.laredoute.pt CNAME .
 ea.leskidunordausud.fr CNAME .
 ea.lespagnedunordausud.fr CNAME .
 ea.megustaescribir.com CNAME .
-ea.megustaleer.com.pe CNAME .
 ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
@@ -158,6 +158,7 @@ ea.netvox-assurances.com CNAME .
 ea.odalys-vacances.com CNAME .
 ea.odalys-vacation-rental.com CNAME .
 ea.onestep-boutique.com CNAME .
+ea.online.carrefour.fr CNAME .
 ea.peugeot-assurance.fr CNAME .
 ea.placedestendances.com CNAME .
 ea.poeleaboismaison.com CNAME .
@@ -302,7 +303,6 @@ lwh1.carrefour-banque.fr CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
 m3ds.subarumetropolitain.com CNAME .
-mail.eulerian.io CNAME .
 mi.miliboo.be CNAME .
 mi.miliboo.ch CNAME .
 mi.miliboo.co.uk CNAME .
@@ -496,6 +496,7 @@ zsi7.destinia.do CNAME .
 b1n.carabins.umontreal.ca CNAME .
 c0i.ckoi.com CNAME .
 d0f.le-dauphin.com CNAME .
+d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 l2i.qualityinnlevis.com CNAME .
