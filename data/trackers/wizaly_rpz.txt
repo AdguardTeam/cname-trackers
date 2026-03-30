@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -108,7 +108,6 @@ tk.boutique.programme-tv.net CNAME .
 tk.boutique.voici.fr CNAME .
 tk.bricoprive.com CNAME .
 tk.bullebleue.fr CNAME .
-tk.cadeaux.com CNAME .
 tk.conforama.fr CNAME .
 tk.dietbon.fr CNAME .
 tk.domitys.fr CNAME .
@@ -185,7 +184,6 @@ tk.ultrapremiumdirect.com CNAME .
 tk.undiz.com CNAME .
 tk.verisure.fr CNAME .
 tk.viapresse.com CNAME .
-tk.zenpark.com CNAME .
 tracking-test.esearchvision.com CNAME .
 trackv-test.esearchvision.com CNAME .
 tv-test.esvdigital.com CNAME .

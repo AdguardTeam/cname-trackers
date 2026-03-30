@@ -130,6 +130,7 @@
     * rezha.goatcounter.com
     * riggraz.goatcounter.com
     * risanne.goatcounter.com
+    * robbenbomber.goatcounter.com
     * rocketgoboom.goatcounter.com
     * ruzickap-github-io.goatcounter.com
     * ryanch.goatcounter.com
@@ -312,6 +313,7 @@
 | stats.rezhajul.io | rezha.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.risanne.nl | risanne.goatcounter.com |
+| statistics.wafflzz.xyz | robbenbomber.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
 | stats-ruzickap-github-io.ruzicka.dev | ruzickap-github-io.goatcounter.com |
 | stats.ryanchmelir.com | ryanch.goatcounter.com |

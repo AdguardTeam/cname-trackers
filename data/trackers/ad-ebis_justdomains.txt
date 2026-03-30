@@ -154,7 +154,6 @@ beeline.beeline-tire.co.jp
 c.lypo-c.jp
 c.lypo-c.shop
 campaign-direct.eisai.jp
-campaign-direct.kouketsuatsu-health.xyz
 ccc.aqualink.tokyo
 cdn00.sanko.ac.jp
 cdn01.sanko.ac.jp
@@ -351,6 +350,7 @@ test-ad.mens-lucia.com
 tracking.axis-kobetsu.jp
 tracking.axis.onl
 tracking.mysurance.co.jp
+tracking.nokai.jp
 tracking.stad-gakusyu.jp
 tracking.wao-corp.com
 tracking.wao.ne.jp

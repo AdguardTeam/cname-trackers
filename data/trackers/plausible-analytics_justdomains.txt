@@ -100,7 +100,6 @@ p.ejs.dev
 p.iforge.app
 p.logbox.io
 p.marqueplace.com
-p.meilentrio.de
 p.ryanhalliday.com
 p.versacommerce.de
 p.victoria.dev
@@ -264,7 +263,6 @@ sp.jrklein.com
 sp.notifysonic.com
 sp.pamklein.com
 sp.soniccares.com
-sp.spaceomatic.fr
 sp.wvoil.com
 st.anastasija.lt
 st.preciousamber.com
@@ -762,7 +760,6 @@ sts.tour-europe.org
 stts.emplution.com
 stts.swisshranalytics.ch
 taylor.gladspring.com
-tics.cortex.gg
 tics.seeker.gg
 tics.techdirt.com
 tipstats.onepagelove.com

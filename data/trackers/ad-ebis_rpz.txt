@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -165,7 +165,6 @@ beeline.beeline-tire.co.jp CNAME .
 c.lypo-c.jp CNAME .
 c.lypo-c.shop CNAME .
 campaign-direct.eisai.jp CNAME .
-campaign-direct.kouketsuatsu-health.xyz CNAME .
 ccc.aqualink.tokyo CNAME .
 cdn00.sanko.ac.jp CNAME .
 cdn01.sanko.ac.jp CNAME .
@@ -362,6 +361,7 @@ test-ad.mens-lucia.com CNAME .
 tracking.axis-kobetsu.jp CNAME .
 tracking.axis.onl CNAME .
 tracking.mysurance.co.jp CNAME .
+tracking.nokai.jp CNAME .
 tracking.stad-gakusyu.jp CNAME .
 tracking.wao-corp.com CNAME .
 tracking.wao.ne.jp CNAME .

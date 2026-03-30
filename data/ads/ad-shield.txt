@@ -5,13 +5,14 @@
 ||0.www.19706903.xyz^
 ||0.www.2wu0m0ms098w7148.xyz^
 ||0.www.38167473.xyz^
+||0.www.3l521lt85429q1kn6-r770.xyz^
 ||0.www.425kmk7n9wn21pwvl18.xyz^
 ||0.www.4547u5qms0m2um3rrum2wuo.xyz^
 ||0.www.4tr3sopq592o7svp1q6mn3.xyz^
 ||0.www.4tuswl47353p4wl8lsk.xyz^
 ||0.www.50873vmk3263-7sk.xyz^
-||0.www.53469662.xyz^
 ||0.www.58686728.xyz^
+||0.www.5k71-k-t51u8q91otp3.xyz^
 ||0.www.5wo4spwppk7n0wvrn.xyz^
 ||0.www.64786087.xyz^
 ||0.www.78587924.xyz^
@@ -67,6 +68,7 @@
 ||0.www.softlyacrossany.com^
 ||0.www.som4okn1qku1r9p0ul.xyz^
 ||0.www.squeakyscofffar.com^
+||0.www.swr96usn7k2ktls53sw.xyz^
 ||0.www.ts28ll0tk23t2n9pl0n327.xyz^
 ||0.www.u46r7owvv48861t67m0q388.xyz^
 ||0.www.unfortunatelyafter.com^
@@ -89,7 +91,6 @@
 ||1.www.4547u5qms0m2um3rrum2wuo.xyz^
 ||1.www.4tr3sopq592o7svp1q6mn3.xyz^
 ||1.www.50873vmk3263-7sk.xyz^
-||1.www.53469662.xyz^
 ||1.www.58686728.xyz^
 ||1.www.64786087.xyz^
 ||1.www.78587924.xyz^
@@ -169,7 +170,6 @@
 ||2.www.4547u5qms0m2um3rrum2wuo.xyz^
 ||2.www.4tr3sopq592o7svp1q6mn3.xyz^
 ||2.www.50873vmk3263-7sk.xyz^
-||2.www.53469662.xyz^
 ||2.www.58686728.xyz^
 ||2.www.64786087.xyz^
 ||2.www.78587924.xyz^
@@ -244,7 +244,6 @@
 ||3.www.4547u5qms0m2um3rrum2wuo.xyz^
 ||3.www.4tr3sopq592o7svp1q6mn3.xyz^
 ||3.www.50873vmk3263-7sk.xyz^
-||3.www.53469662.xyz^
 ||3.www.58686728.xyz^
 ||3.www.64786087.xyz^
 ||3.www.78587924.xyz^
@@ -318,7 +317,6 @@
 ||4.www.4tr3sopq592o7svp1q6mn3.xyz^
 ||4.www.4tuswl47353p4wl8lsk.xyz^
 ||4.www.50873vmk3263-7sk.xyz^
-||4.www.53469662.xyz^
 ||4.www.58686728.xyz^
 ||4.www.64786087.xyz^
 ||4.www.78587924.xyz^
@@ -369,6 +367,7 @@
 ||4.www.rundowndeep.com^
 ||4.www.secretvelvety.com^
 ||4.www.shinnyhelpfast.com^
+||4.www.skylinepasttomorrow.com^
 ||4.www.slapswingthrough.com^
 ||4.www.sn2rrlv57qpss5w-qk8llu.xyz^
 ||4.www.sneakyangrilypromptlyupon.com^
@@ -393,7 +392,6 @@
 ||5.www.4547u5qms0m2um3rrum2wuo.xyz^
 ||5.www.4tr3sopq592o7svp1q6mn3.xyz^
 ||5.www.50873vmk3263-7sk.xyz^
-||5.www.53469662.xyz^
 ||5.www.58686728.xyz^
 ||5.www.5wo4spwppk7n0wvrn.xyz^
 ||5.www.64786087.xyz^
@@ -468,7 +466,6 @@
 ||6.www.4547u5qms0m2um3rrum2wuo.xyz^
 ||6.www.4tr3sopq592o7svp1q6mn3.xyz^
 ||6.www.50873vmk3263-7sk.xyz^
-||6.www.53469662.xyz^
 ||6.www.58686728.xyz^
 ||6.www.5wo4spwppk7n0wvrn.xyz^
 ||6.www.64786087.xyz^
@@ -512,8 +509,8 @@
 ||6.www.yumhusk.com^
 ||7.www.19706903.xyz^
 ||7.www.2wu0m0ms098w7148.xyz^
+||7.www.38167473.xyz^
 ||7.www.4tr3sopq592o7svp1q6mn3.xyz^
-||7.www.53469662.xyz^
 ||7.www.58686728.xyz^
 ||7.www.64786087.xyz^
 ||7.www.78587924.xyz^
@@ -550,7 +547,6 @@
 ||8.www.38167473.xyz^
 ||8.www.425kmk7n9wn21pwvl18.xyz^
 ||8.www.4tr3sopq592o7svp1q6mn3.xyz^
-||8.www.53469662.xyz^
 ||8.www.58686728.xyz^
 ||8.www.64786087.xyz^
 ||8.www.78587924.xyz^
@@ -618,7 +614,6 @@
 ||9.www.4547u5qms0m2um3rrum2wuo.xyz^
 ||9.www.4tr3sopq592o7svp1q6mn3.xyz^
 ||9.www.50873vmk3263-7sk.xyz^
-||9.www.53469662.xyz^
 ||9.www.58686728.xyz^
 ||9.www.5wo4spwppk7n0wvrn.xyz^
 ||9.www.64786087.xyz^
@@ -682,12 +677,10 @@
 ||9.www.yippeewhenever.com^
 ||9.www.yumhusk.com^
 ||www.0ko5s9l5mn93n7pq.xyz^
-||www.0ul1wlo58s-vu69us-r1u.xyz^
 ||www.19706903.xyz^
 ||www.2wu0m0ms098w7148.xyz^
 ||www.38167473.xyz^
 ||www.425kmk7n9wn21pwvl18.xyz^
-||www.4547u5qms0m2um3rrum2wuo.xyz^
 ||www.4tr3sopq592o7svp1q6mn3.xyz^
 ||www.4tuswl47353p4wl8lsk.xyz^
 ||www.50873vmk3263-7sk.xyz^
@@ -720,7 +713,6 @@
 ||www.huzzahwhatintently.com^
 ||www.insteadectoderm.com^
 ||www.insteadphooey.com^
-||www.kq6mv8mpvs4m10r449nms6.xyz^
 ||www.m-0-05o17m54w169vk44nk.xyz^
 ||www.meanwhilenoonslap.com^
 ||www.meanwhiletoo.com^
@@ -729,7 +721,6 @@
 ||www.noranglehow.com^
 ||www.norsinceexactlyamongplait.com^
 ||www.nowdickerterraform.com^
-||www.ns2l8nn10rns-6rlr38mp.xyz^
 ||www.nudgesplityowza.com^
 ||www.offendalligatorcoaleven.com^
 ||www.pileevery.com^
@@ -749,7 +740,6 @@
 ||www.sneakyangrilypromptlyupon.com^
 ||www.softlyacrossany.com^
 ||www.squeakyscofffar.com^
-||www.ts28ll0tk23t2n9pl0n327.xyz^
 ||www.u46r7owvv48861t67m0q388.xyz^
 ||www.unfortunatelyafter.com^
 ||www.untostakejiggle.com^
@@ -759,7 +749,6 @@
 ||www.w9l4tr4013tn5mo27t0w.xyz^
 ||www.whoseabacus.com^
 ||www.worthequally.com^
-||www.wqq881m8uwq1k5m-4p7lv7.xyz^
 ||www.yippeewhenever.com^
 ||www.yuckbleaklyphooeywhen.com^
 ||www.yumhusk.com^

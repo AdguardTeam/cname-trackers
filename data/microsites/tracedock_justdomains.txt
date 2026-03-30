@@ -870,7 +870,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz
 7227558.collect.igodigital.com
 7231222.collect.igodigital.com
 7231699.collect.igodigital.com
-7231872.collect.igodigital.com
 7233063.collect.igodigital.com
 7243017.collect.igodigital.com
 7269812.collect.igodigital.com
@@ -913,7 +912,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz
 7304587.collect.igodigital.com
 7306408.collect.igodigital.com
 7306662.collect.igodigital.com
-7315920.collect.igodigital.com
 7316235.collect.igodigital.com
 7316446.collect.igodigital.com
 7322496.collect.igodigital.com
@@ -1106,12 +1104,10 @@ p.juslxp.com
 p.karpatzi.com
 p.npcta.xyz
 p.ptomw.com
-p.pukt.cloud
 p.rukanw.com
 p.xbcpcn.com
 ponk.pro
 partner.versemedia.net
-versemedia.net
 presentationtracking.eu-west-1.internal.dradis.netflix.com
 promo.yahoo-mbga.jp
 r.dochaseadx.com

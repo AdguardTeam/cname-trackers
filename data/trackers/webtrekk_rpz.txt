@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -62,8 +62,6 @@ ctdfm.ilgiornale.it CNAME .
 ctrkd.ilsole24ore.com CNAME .
 da.hornbach.be CNAME .
 data.adlermode.com CNAME .
-data.all-in.de CNAME .
-data.allgaeuer-zeitung.de CNAME .
 data.babista.ch CNAME .
 data.babista.de CNAME .
 data.babista.nl CNAME .
@@ -123,7 +121,6 @@ img.foodspring.dk CNAME .
 img.foodspring.es CNAME .
 img.foodspring.fi CNAME .
 img.foodspring.fr CNAME .
-img.foodspring.hr CNAME .
 img.foodspring.it CNAME .
 img.foodspring.nl CNAME .
 img.foodspring.pl CNAME .

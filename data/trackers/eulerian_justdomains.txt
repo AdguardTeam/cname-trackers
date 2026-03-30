@@ -60,7 +60,7 @@ bn.voyage-prive.com
 bpe2.destinia.co.il
 bum7.bymycar.fr
 bvz5.destinia.com.tr
-c0p.cepsum.umontreal.ca
+c0i.ckoi.com
 c45cc75f.eulerian.io
 c4dv.copinesdevoyage.com
 c4fyt.tremblant.ca
@@ -87,6 +87,7 @@ deut3.fdj.fr
 dgj2.palladiumhotelgroup.com
 dknd.cocottebistro.com
 dko.vente-unique.nl
+doa3a792.eulerian.io
 dv59b.montecarlomeeting.com
 dw0c.sfr.fr
 dw7u.hotelsbarriere.com
@@ -102,7 +103,6 @@ ea.camping-and-co.com
 ea.carrefour.com
 ea.castorama.fr
 ea.catimini-boutique.com
-ea.catimini.com
 ea.ciblo.net
 ea.coffrefortplus.com
 ea.dcshoes-europe.com
@@ -173,6 +173,7 @@ ea.voyage-prive.co.uk
 ea.voyage-prive.es
 ea.voyage-prive.it
 ea.warnerbros.fr
+eat9.thebeat925.ca
 eb.mistermenuiserie.com
 edfaba3a.eulerian.io
 ef.futuroscope.com
@@ -181,7 +182,6 @@ efbdcd3b.eulerian.io
 eit3.destinia.nl
 ek8.voyage-prive.com
 elr.sfr.fr
-erb.tremblant.ca
 erdi.vacations.united.com
 ert5.rmcsport.tv
 et.futuroscope.com
@@ -253,6 +253,7 @@ gdm1.toner.fr
 gf7t.cheques-cadeaux-culturels.fr
 gfn1.ugap.fr
 gfv4.destinia.co.za
+gi7a.structube.com
 gli9.inseec-bs.com
 gnh2.destinia.lv
 grht.perchemtl.com
@@ -303,9 +304,11 @@ mi.miliboo.lu
 mla3.societegenerale.fr
 mm.melia.com
 mmz3.beinsports.com
+mn1.mnbaq.org
 mp5.multi-prets.com
 mre6.destinia.ma
 msz3.destinia.cn
+mt3.maisontheatre.com
 mud4.destinia.com.eg
 mva1.maeva.com
 mwf7.montecarlowellness.com
@@ -319,7 +322,6 @@ nmu3.destinia.be
 noa0.compteczam.fr
 nqsm.medicus.ca
 nrg.red-by-sfr.fr
-nym5c.bonlook.com
 nyt1.biosens-leanature.fr
 o35e79f2.eulerian.io
 o68c.sfr.fr
@@ -386,6 +388,7 @@ rmp4.destinia.uy
 rqnn.funjet.com
 rup5.destinia.ru
 rvz9.destinia.co.ro
+rxzz.metcalfehotel.com
 s4e8.cascades.com
 sa.lesselectionsskoda.fr
 sa.skoda.fr
@@ -404,6 +407,7 @@ sr.mistermenuiserie.com
 srm4.destinia.co.no
 ssrlot.lotoquebec.com
 ssy7.destinia.com.ua
+su1.les-suites.ca
 sxbj.gasparmtl.com
 t.locasun-vp.fr
 t.locasun.fr
@@ -461,7 +465,6 @@ www.eulerian.ch
 www.eulerian.cloud
 www.fasttrack.fr
 www.fasttracker.fr
-www.mis.tourisme-montreal.org
 www.tag-master.fr
 xay5o.toscane-boutique.fr
 xgtv.atuvu.ca
@@ -483,18 +486,18 @@ zrw1.destinia.jp
 zs.voyage-prive.com
 zsi7.destinia.do
 b1n.carabins.umontreal.ca
-c0i.ckoi.com
+c0p.cepsum.umontreal.ca
 d0f.le-dauphin.com
 d2u.dauphinquebec.com
-eat9.thebeat925.ca
+erb.tremblant.ca
 hk2d.tourismemauricie.com
 l2i.qualityinnlevis.com
+nym5c.bonlook.com
 rwl.tremblant.ca
 ry0.rythmefm.com
-su1.les-suites.ca
 t0y.toyota.ca
+www.mis.tourisme-montreal.org
 yio.tremblant.ca
 ea.mnt.fr
-gi7a.structube.com
 nym5c.laura.ca
 pk1u.melanielyne.com

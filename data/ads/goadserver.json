@@ -48,6 +48,7 @@
   "go.tbllprem.com": "dtb.goadserver.com",
   "go.tbllrej.com": "dtb.goadserver.com",
   "go.tbllzon.com": "dtb.goadserver.com",
+  "go.trafficbull.com": "dtb.goadserver.com",
   "go.trcklnk.com": "dtb.goadserver.com",
   "go1.3mre.work": "dtb.goadserver.com",
   "go1.a2ure.work": "dtb.goadserver.com",
@@ -75,11 +76,13 @@
   "go1.trakit26.com": "dtb.goadserver.com",
   "go1.trakit27.com": "dtb.goadserver.com",
   "go1.trakit28.com": "dtb.goadserver.com",
+  "go1.trakit29.com": "dtb.goadserver.com",
   "go1.trakit30.com": "dtb.goadserver.com",
   "go1.were.work": "dtb.goadserver.com",
   "go1.yare.work": "dtb.goadserver.com",
   "go2.toplineads.com": "dtb.goadserver.com",
   "go2.trafficbull.com": "dtb.goadserver.com",
+  "gos.tbllad.com": "dtb.goadserver.com",
   "gs.tbllzon.com": "dtb.goadserver.com",
   "gw.blacked.com": "dtb.goadserver.com",
   "gw.blackedraw.com": "dtb.goadserver.com",
@@ -127,5 +130,6 @@
   "www.easyadscontrol.com": "www.goadserver.com",
   "www.go-srv.com": "www.goadserver.com",
   "www.go-static.info": "static.goadserver.com",
-  "www.static-srv.com": "www.goadserver.com"
+  "www.static-srv.com": "www.goadserver.com",
+  "zz.shat1.com": "dtb.goadserver.com"
 }

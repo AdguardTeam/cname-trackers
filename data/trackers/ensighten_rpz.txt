@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -365,6 +365,9 @@ sst.mycard.com.au CNAME .
 sst.nab.com.au CNAME .
 sst.one.audi CNAME .
 sst.subzero-wolf.com CNAME .
+sst.tescogiftcards.com CNAME .
+sst.tescoinsurance.com CNAME .
+sst.tescotravelmoney.com CNAME .
 sst.tjmaxx.tjx.com CNAME .
 suncorp.activate.ensighten.com CNAME .
 t.hagebau.de CNAME .

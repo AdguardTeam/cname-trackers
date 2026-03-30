@@ -97,7 +97,6 @@
 ||tk.boutique.voici.fr^
 ||tk.bricoprive.com^
 ||tk.bullebleue.fr^
-||tk.cadeaux.com^
 ||tk.conforama.fr^
 ||tk.dietbon.fr^
 ||tk.domitys.fr^
@@ -174,7 +173,6 @@
 ||tk.undiz.com^
 ||tk.verisure.fr^
 ||tk.viapresse.com^
-||tk.zenpark.com^
 ||tracking-test.esearchvision.com^
 ||trackv-test.esearchvision.com^
 ||tv-test.esvdigital.com^

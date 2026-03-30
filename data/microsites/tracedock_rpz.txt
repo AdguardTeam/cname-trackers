@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -880,7 +880,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz CNAME .
 7227558.collect.igodigital.com CNAME .
 7231222.collect.igodigital.com CNAME .
 7231699.collect.igodigital.com CNAME .
-7231872.collect.igodigital.com CNAME .
 7233063.collect.igodigital.com CNAME .
 7243017.collect.igodigital.com CNAME .
 7269812.collect.igodigital.com CNAME .
@@ -923,7 +922,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz CNAME .
 7304587.collect.igodigital.com CNAME .
 7306408.collect.igodigital.com CNAME .
 7306662.collect.igodigital.com CNAME .
-7315920.collect.igodigital.com CNAME .
 7316235.collect.igodigital.com CNAME .
 7316446.collect.igodigital.com CNAME .
 7322496.collect.igodigital.com CNAME .
@@ -1116,12 +1114,10 @@ p.juslxp.com CNAME .
 p.karpatzi.com CNAME .
 p.npcta.xyz CNAME .
 p.ptomw.com CNAME .
-p.pukt.cloud CNAME .
 p.rukanw.com CNAME .
 p.xbcpcn.com CNAME .
 ponk.pro CNAME .
 partner.versemedia.net CNAME .
-versemedia.net CNAME .
 presentationtracking.eu-west-1.internal.dradis.netflix.com CNAME .
 promo.yahoo-mbga.jp CNAME .
 r.dochaseadx.com CNAME .

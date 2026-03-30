@@ -217,11 +217,9 @@
 | bird.webitizevoice.com | deprecated-custom-domains.b-cdn.net |
 | bison.ainslieart.com | deprecated-custom-domains.b-cdn.net |
 | bison.joshhanley.com.au | deprecated-custom-domains.b-cdn.net |
-| bison.streamclocks.com | deprecated-custom-domains.b-cdn.net |
 | bison.stuffmatic.com | deprecated-custom-domains.b-cdn.net |
 | bison.weitweit.at | deprecated-custom-domains.b-cdn.net |
 | blackbird.docstation.co | deprecated-custom-domains.b-cdn.net |
-| blackbird.marcelgil.com | deprecated-custom-domains.b-cdn.net |
 | bluejay.edgesoftware.cloud | deprecated-custom-domains.b-cdn.net |
 | bluejay.fivefold.vc | deprecated-custom-domains.b-cdn.net |
 | bluejay.postmediagroup.com | deprecated-custom-domains.b-cdn.net |
@@ -482,7 +480,6 @@
 | herring.artemis.cloud | deprecated-custom-domains.b-cdn.net |
 | herring.panda.network | deprecated-custom-domains.b-cdn.net |
 | hookworm.campaignzee.com | deprecated-custom-domains.b-cdn.net |
-| hornet.amandaheal.com.au | deprecated-custom-domains.b-cdn.net |
 | hornet.jeffgable.com | deprecated-custom-domains.b-cdn.net |
 | hornet.newburycompanies.com | deprecated-custom-domains.b-cdn.net |
 | hornet.stechstudio.com | deprecated-custom-domains.b-cdn.net |
@@ -500,7 +497,6 @@
 | hoverfly.papercrowns.com | deprecated-custom-domains.b-cdn.net |
 | hoverfly.wholeheartedceremonies.com.au | deprecated-custom-domains.b-cdn.net |
 | hoverfly.winchdesign.cn | deprecated-custom-domains.b-cdn.net |
-| hyena.baseline.is | deprecated-custom-domains.b-cdn.net |
 | hyena.fershad.com | deprecated-custom-domains.b-cdn.net |
 | hyena.kitafund.com | deprecated-custom-domains.b-cdn.net |
 | hyena.m1guelpf.blog | deprecated-custom-domains.b-cdn.net |
@@ -649,7 +645,6 @@
 | narwhal.bounty.studio | deprecated-custom-domains.b-cdn.net |
 | narwhal.quickbudget.xyz | deprecated-custom-domains.b-cdn.net |
 | newt.javier.dev | deprecated-custom-domains.b-cdn.net |
-| newt.jordin.eu | deprecated-custom-domains.b-cdn.net |
 | nf1nknlw.mateforevents.com | deprecated-custom-domains.b-cdn.net |
 | nkydma.newbuild.studio | deprecated-custom-domains.b-cdn.net |
 | ocelot.anthroquiches.fr | deprecated-custom-domains.b-cdn.net |
@@ -659,7 +654,6 @@
 | octopus.clarify.us | deprecated-custom-domains.b-cdn.net |
 | octopus.evobend.com | deprecated-custom-domains.b-cdn.net |
 | octopus.hans-hornberger.de | deprecated-custom-domains.b-cdn.net |
-| octopus.janandsusan.io | deprecated-custom-domains.b-cdn.net |
 | octopus.katrinebrandborg.dk | deprecated-custom-domains.b-cdn.net |
 | opossum.roleup.com | deprecated-custom-domains.b-cdn.net |
 | orangutan.equaliteam.com | deprecated-custom-domains.b-cdn.net |
@@ -761,7 +755,6 @@
 | raven.omamao.ch | deprecated-custom-domains.b-cdn.net |
 | reindeer.cablemod.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.iainbroome.com | deprecated-custom-domains.b-cdn.net |
-| reindeer.pablomaceda.com | deprecated-custom-domains.b-cdn.net |
 | reptile.o-lit.fr | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.codeagain.com | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.krieger.io | deprecated-custom-domains.b-cdn.net |
@@ -804,7 +797,6 @@
 | sheep.peterfowler.com | deprecated-custom-domains.b-cdn.net |
 | sheep.pixair-survey.com | deprecated-custom-domains.b-cdn.net |
 | sheep.vaxstandby.com | deprecated-custom-domains.b-cdn.net |
-| silkworm.bobsmechanicalrepairs.co.uk | deprecated-custom-domains.b-cdn.net |
 | silkworm.boxmood.be | deprecated-custom-domains.b-cdn.net |
 | silkworm.preventingsuicideinsussex.org | deprecated-custom-domains.b-cdn.net |
 | silkworm.waspexpert.com | deprecated-custom-domains.b-cdn.net |
@@ -855,6 +847,7 @@
 | swordfish.joebuhlig.com | deprecated-custom-domains.b-cdn.net |
 | swordfish.lorem.industries | deprecated-custom-domains.b-cdn.net |
 | swordfish.mattpreston.io | deprecated-custom-domains.b-cdn.net |
+| swordfish.thefloofs.com | deprecated-custom-domains.b-cdn.net |
 | swordtail.hnh.digital | deprecated-custom-domains.b-cdn.net |
 | swordtail.rockface.io | deprecated-custom-domains.b-cdn.net |
 | t0ikowg7jg.serverlesslaravelcourse.com | deprecated-custom-domains.b-cdn.net |
@@ -942,7 +935,6 @@
 | wildcat.longviewforecasting.com | deprecated-custom-domains.b-cdn.net |
 | wildcat.restq.co | deprecated-custom-domains.b-cdn.net |
 | wildebeest.quarva.dev | deprecated-custom-domains.b-cdn.net |
-| wildebeest.soft-spoken.dev | deprecated-custom-domains.b-cdn.net |
 | wolf.novel.io | deprecated-custom-domains.b-cdn.net |
 | wolf.samarasousa.com | deprecated-custom-domains.b-cdn.net |
 | wolverine.barac.at | deprecated-custom-domains.b-cdn.net |
@@ -990,7 +982,6 @@
 | cdn.agajx.com | popcashjs.b-cdn.net |
 | cdn.alcatza.com | popcashjs.b-cdn.net |
 | cdn.aliwjo.com | popcashjs.b-cdn.net |
-| cdn.almacz.com | popcashjs.b-cdn.net |
 | cdn.alota.xyz | popcashjs.b-cdn.net |
 | cdn.asce.xyz | popcashjs.b-cdn.net |
 | cdn.asdfix.com | popcashjs.b-cdn.net |
@@ -1046,7 +1037,6 @@
 | cdn.iople.com | popcashjs.b-cdn.net |
 | cdn.isgost.com | popcashjs.b-cdn.net |
 | cdn.jandaqwe.com | popcashjs.b-cdn.net |
-| cdn.japw.cloud | popcashjs.b-cdn.net |
 | cdn.jbtul.com | popcashjs.b-cdn.net |
 | cdn.jeckear.com | popcashjs.b-cdn.net |
 | cdn.jhkfd.com | popcashjs.b-cdn.net |
@@ -1073,7 +1063,6 @@
 | cdn.nelhon.com | popcashjs.b-cdn.net |
 | cdn.nlkli.com | popcashjs.b-cdn.net |
 | cdn.nmkli.com | popcashjs.b-cdn.net |
-| cdn.norymo.com | popcashjs.b-cdn.net |
 | cdn.npcta.xyz | popcashjs.b-cdn.net |
 | cdn.nuqwe.com | popcashjs.b-cdn.net |
 | cdn.orjfun.com | popcashjs.b-cdn.net |
@@ -1093,7 +1082,6 @@
 | cdn.quagfa.com | popcashjs.b-cdn.net |
 | cdn.rapolok.com | popcashjs.b-cdn.net |
 | cdn.rausfml.com | popcashjs.b-cdn.net |
-| cdn.rawqel.com | popcashjs.b-cdn.net |
 | cdn.rgrd.xyz | popcashjs.b-cdn.net |
 | cdn.roemoss.com | popcashjs.b-cdn.net |
 | cdn.rofant.com | popcashjs.b-cdn.net |

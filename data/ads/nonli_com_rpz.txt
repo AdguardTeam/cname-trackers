@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -76,6 +76,7 @@ l.closermag.fr CNAME .
 l.cnetfrance.fr CNAME .
 l.compradiccion.com CNAME .
 l.contexte.com CNAME .
+l.cosmopolitan.fr CNAME .
 l.courrier-picard.fr CNAME .
 l.cuisineactuelle.fr CNAME .
 l.cuisinezauquotidien.com CNAME .
@@ -135,6 +136,7 @@ l.heidi.news CNAME .
 l.herault-tribune.com CNAME .
 l.herstory-media.com CNAME .
 l.humanite.fr CNAME .
+l.iatechauquotidien.com CNAME .
 l.ici.fr CNAME .
 l.ideat.fr CNAME .
 l.intelekto.fr CNAME .
@@ -160,6 +162,7 @@ l.larenaissancehebdo.fr CNAME .
 l.larep.fr CNAME .
 l.larepubliquedespyrenees.fr CNAME .
 l.largus.fr CNAME .
+l.larvf.com CNAME .
 l.lasanteauquotidien.com CNAME .
 l.latribune.fr CNAME .
 l.lavoixdunord.fr CNAME .
@@ -197,8 +200,11 @@ l.linsoliteauquotidien.com CNAME .
 l.lunion.fr CNAME .
 l.lyonne.fr CNAME .
 l.madmoizelle.com CNAME .
+l.magazine-avantages.fr CNAME .
+l.magicmaman.com CNAME .
 l.maison-travaux.fr CNAME .
 l.marianne.net CNAME .
+l.marieclaire.fr CNAME .
 l.mariefrance.fr CNAME .
 l.marmiton.org CNAME .
 l.marsactu.fr CNAME .
@@ -266,6 +272,7 @@ l.sensacine.com.mx CNAME .
 l.sportauto.fr CNAME .
 l.sports.fr CNAME .
 l.stampa-paese.com CNAME .
+l.stylist.fr CNAME .
 l.sudinfo.be CNAME .
 l.sudouest.fr CNAME .
 l.supersoluce.com CNAME .

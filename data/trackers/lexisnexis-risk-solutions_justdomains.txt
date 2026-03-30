@@ -7,7 +7,6 @@ a574f3c3.raylo.com
 abfrage.etakenya.go.ke
 account.ezpassoh.com
 accountm.myflfamilies.com
-acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 adprtm53.cardgold.it
 adprtm53.cartayou.it
@@ -269,6 +268,7 @@ cim-idc-cdn.account.bcbsnm.com
 cim-idc-cdn.account.bcbsok.com
 cim-idc-cdn.account.bcbstx.com
 cim-idc-cdn.account.hcsc.net
+cim-idc-cdn.account.hcsctest.net
 cim-idc-cdn.account.test.bcbsok.com
 cim-idc-cdn.account.wellontarget.com
 claimant.vec.virginia.gov
@@ -511,6 +511,7 @@ contents.healthfirst.org
 contentservices.ascendloans.com
 contentservices.brightlending.com
 contentservices.clearairlending.com
+contentservices.firstlightlending.com
 cookiemonster.calcas.com
 creditapp.rogersbank.com
 crmg-fraudmgmt.bayad.com
@@ -745,7 +746,9 @@ ln.acornfun.com
 ln.cash.app
 ln.cidercasino.com
 ln.coolspinslot.com
+ln.hijackpoker.com
 ln.jackpotgo.club
+ln.kohls.com
 ln.lavishluck.net
 ln.meudigio.com.br
 ln.moonprizecasino.com
@@ -904,6 +907,7 @@ prod-navigator.chaperone.lumindigitalhosting.com
 prod-njfcunj.chaperone.lumindigitalhosting.com
 prod-northland.chaperone.lumindigitalhosting.com
 prod-oneaz.chaperone.lumindigitalhosting.com
+prod-orangeccu-mercury2023.chaperone.lumindigitalhosting.com
 prod-pacservice.chaperone.lumindigitalhosting.com
 prod-pathways.chaperone.lumindigitalhosting.com
 prod-prospera.chaperone.lumindigitalhosting.com
@@ -1291,7 +1295,6 @@ tmuat.kotak.com
 tmx-fpt.credit-agricole.pl
 tmx.additionfi.com
 tmx.americafirst.com
-tmx.banquemanuvie.com
 tmx.bestbuy.com
 tmx.beyondbank.com.au
 tmx.carhistory.com.au
@@ -1342,7 +1345,6 @@ ucfs.sendpro360.pitneycloud.com
 ucfs.shipping360.pitneybowes.com
 ufc.vanguardinvestor.co.uk
 ufp.intuit.com
-uldfp.srilankan.com
 umst.mobile.de
 uscmfm.rbccm.com
 v.ayco.com

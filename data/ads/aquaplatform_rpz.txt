@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,7 +25,6 @@ addurance-delivery.reviveservers.com CNAME .
 adimages.associationheadquarters.com CNAME .
 adimages.eva.live CNAME .
 adimages.infotorg.se CNAME .
-adimages.marriagetrac.com CNAME .
 adimages.rtvdrenthe.nl CNAME .
 adimages.sniffies.com CNAME .
 ads-console.recon.com CNAME .
@@ -48,7 +47,6 @@ adserver.associationheadquarters.com CNAME .
 adserver.fa-mag.com CNAME .
 adserver.infotorg.se CNAME .
 adserver.kozoom.com CNAME .
-adserver.marriagetrac.com CNAME .
 adserver.rtvdrenthe.nl CNAME .
 adserver.rtvutrechtreclame.nl CNAME .
 adserver.sniffies.com CNAME .
@@ -154,7 +152,6 @@ images.xtraa.org CNAME .
 informatm-static.reviveservers.com CNAME .
 jacilla-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
-marriagetrac-delivery.reviveservers.com CNAME .
 media.revive-adserver.com CNAME .
 media.revive-adserver.net CNAME .
 media360ads.midtc.com CNAME .

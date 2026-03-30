@@ -65,6 +65,7 @@
 ||l.cnetfrance.fr^
 ||l.compradiccion.com^
 ||l.contexte.com^
+||l.cosmopolitan.fr^
 ||l.courrier-picard.fr^
 ||l.cuisineactuelle.fr^
 ||l.cuisinezauquotidien.com^
@@ -124,6 +125,7 @@
 ||l.herault-tribune.com^
 ||l.herstory-media.com^
 ||l.humanite.fr^
+||l.iatechauquotidien.com^
 ||l.ici.fr^
 ||l.ideat.fr^
 ||l.intelekto.fr^
@@ -149,6 +151,7 @@
 ||l.larep.fr^
 ||l.larepubliquedespyrenees.fr^
 ||l.largus.fr^
+||l.larvf.com^
 ||l.lasanteauquotidien.com^
 ||l.latribune.fr^
 ||l.lavoixdunord.fr^
@@ -186,8 +189,11 @@
 ||l.lunion.fr^
 ||l.lyonne.fr^
 ||l.madmoizelle.com^
+||l.magazine-avantages.fr^
+||l.magicmaman.com^
 ||l.maison-travaux.fr^
 ||l.marianne.net^
+||l.marieclaire.fr^
 ||l.mariefrance.fr^
 ||l.marmiton.org^
 ||l.marsactu.fr^
@@ -255,6 +261,7 @@
 ||l.sportauto.fr^
 ||l.sports.fr^
 ||l.stampa-paese.com^
+||l.stylist.fr^
 ||l.sudinfo.be^
 ||l.sudouest.fr^
 ||l.supersoluce.com^

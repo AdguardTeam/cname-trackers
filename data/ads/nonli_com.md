@@ -96,6 +96,7 @@
 | l.cnetfrance.fr | tls.non.li |
 | l.compradiccion.com | tls.non.li |
 | l.contexte.com | tls.non.li |
+| l.cosmopolitan.fr | tls.non.li |
 | l.courrier-picard.fr | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
 | l.cuisinezauquotidien.com | tls.non.li |
@@ -154,6 +155,7 @@
 | l.herault-tribune.com | tls.non.li |
 | l.herstory-media.com | tls.non.li |
 | l.humanite.fr | tls.non.li |
+| l.iatechauquotidien.com | tls.non.li |
 | l.ici.fr | tls.non.li |
 | l.ideat.fr | tls.non.li |
 | l.intelekto.fr | tls.non.li |
@@ -178,6 +180,7 @@
 | l.larep.fr | tls.non.li |
 | l.larepubliquedespyrenees.fr | tls.non.li |
 | l.largus.fr | tls.non.li |
+| l.larvf.com | tls.non.li |
 | l.lasanteauquotidien.com | tls.non.li |
 | l.latribune.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |
@@ -215,8 +218,11 @@
 | l.lunion.fr | tls.non.li |
 | l.lyonne.fr | tls.non.li |
 | l.madmoizelle.com | tls.non.li |
+| l.magazine-avantages.fr | tls.non.li |
+| l.magicmaman.com | tls.non.li |
 | l.maison-travaux.fr | tls.non.li |
 | l.marianne.net | tls.non.li |
+| l.marieclaire.fr | tls.non.li |
 | l.mariefrance.fr | tls.non.li |
 | l.marmiton.org | tls.non.li |
 | l.marsactu.fr | tls.non.li |
@@ -280,6 +286,7 @@
 | l.sportauto.fr | tls.non.li |
 | l.sports.fr | tls.non.li |
 | l.stampa-paese.com | tls.non.li |
+| l.stylist.fr | tls.non.li |
 | l.sudinfo.be | tls.non.li |
 | l.sudouest.fr | tls.non.li |
 | l.supersoluce.com | tls.non.li |

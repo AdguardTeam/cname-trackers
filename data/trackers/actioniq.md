@@ -58,13 +58,13 @@
 | anx.learnwithhomer.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
 | mr-in.beginlearning.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
 | mr-in.littlepassports.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
+| anx-new.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | mr-in.beginlearning.com | homer-prod1.aws-us-east-1.mr-in.com |
 | mr-in.littlepassports.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx-staging.learnwithhomer.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
 | mr-in-staging.beginlearning.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
 | anx-staging.learnwithhomer.com | homer-staging1.aws-us-east-1.mr-in.com |
-| mr-in-staging.beginlearning.com | homer-staging1.aws-us-east-1.mr-in.com |
 | mr.olympics.com | ioc-prod1.aws.mr-in.com |
 | accounts-meta-events.outsideonline.com | outside.mr-in.com |
 | events-meta-events.outsideonline.com | outside.mr-in.com |
@@ -113,6 +113,7 @@
 | aiq-in.skechers.es | skechers-prod.actioniq.mr-in.com |
 | aiqx.anyonebutyou.movie | sony-prod.actioniq.mr-in.com |
 | aiqx.ghostbusters.com | sony-prod.actioniq.mr-in.com |
+| aiqx.jeopardy.com | sony-prod.actioniq.mr-in.com |
 | aiqx.madameweb.movie | sony-prod.actioniq.mr-in.com |
 | aiqx.sonypictures.com | sony-prod.actioniq.mr-in.com |
 | aiqx.thanksgiving.movie | sony-prod.actioniq.mr-in.com |

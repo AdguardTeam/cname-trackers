@@ -15,7 +15,6 @@
     * tk-blancheporte-be.wizaly.com
     * tk-blancheporte-fr.wizaly.com
     * tk-bricoprive-com.wizaly.com
-    * tk-cadeaux-com.wizaly.com
     * tk-conforama-fr.wizaly.com
     * tk-dietbon-fr.wizaly.com
     * tk-domitys-fr.wizaly.com
@@ -61,7 +60,6 @@
     * tk-undiz-com.wizaly.com
     * tk-verisure-fr.wizaly.com
     * tk-viapresse-com.wizaly.com
-    * tk-zenpark-com.wizaly.com
     * tk_prismashop_fr.wizaly.com
     * tk_transavia_com.wizaly.com
     * tkairfrance.wizaly.com
@@ -91,7 +89,6 @@
 | tk.blancheporte.be | tk-blancheporte-be.wizaly.com |
 | tk.blancheporte.fr | tk-blancheporte-fr.wizaly.com |
 | tk.bricoprive.com | tk-bricoprive-com.wizaly.com |
-| tk.cadeaux.com | tk-cadeaux-com.wizaly.com |
 | tk.conforama.fr | tk-conforama-fr.wizaly.com |
 | tk.dietbon.fr | tk-dietbon-fr.wizaly.com |
 | tk.domitys.fr | tk-domitys-fr.wizaly.com |
@@ -166,7 +163,6 @@
 | tk.undiz.com | tk-undiz-com.wizaly.com |
 | tk.verisure.fr | tk-verisure-fr.wizaly.com |
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |
-| tk.zenpark.com | tk-zenpark-com.wizaly.com |
 | tk.boutique.caminteresse.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.capital.fr | tk_prismashop_fr.wizaly.com |
 | tk.boutique.cotemaison.fr | tk_prismashop_fr.wizaly.com |

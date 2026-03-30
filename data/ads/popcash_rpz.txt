@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,7 +17,6 @@ cdn.afwpc.com CNAME .
 cdn.agajx.com CNAME .
 cdn.alcatza.com CNAME .
 cdn.aliwjo.com CNAME .
-cdn.almacz.com CNAME .
 cdn.alota.xyz CNAME .
 cdn.asce.xyz CNAME .
 cdn.asdfix.com CNAME .
@@ -73,7 +72,6 @@ cdn.ianjumb.com CNAME .
 cdn.iople.com CNAME .
 cdn.isgost.com CNAME .
 cdn.jandaqwe.com CNAME .
-cdn.japw.cloud CNAME .
 cdn.jbtul.com CNAME .
 cdn.jeckear.com CNAME .
 cdn.jhkfd.com CNAME .
@@ -100,7 +98,6 @@ cdn.nejxdoy.com CNAME .
 cdn.nelhon.com CNAME .
 cdn.nlkli.com CNAME .
 cdn.nmkli.com CNAME .
-cdn.norymo.com CNAME .
 cdn.npcta.xyz CNAME .
 cdn.nuqwe.com CNAME .
 cdn.orjfun.com CNAME .
@@ -120,7 +117,6 @@ cdn.qgerr.com CNAME .
 cdn.quagfa.com CNAME .
 cdn.rapolok.com CNAME .
 cdn.rausfml.com CNAME .
-cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
 cdn.roemoss.com CNAME .
 cdn.rofant.com CNAME .
@@ -261,11 +257,9 @@ bird.recruitkit.com.au CNAME .
 bird.webitizevoice.com CNAME .
 bison.ainslieart.com CNAME .
 bison.joshhanley.com.au CNAME .
-bison.streamclocks.com CNAME .
 bison.stuffmatic.com CNAME .
 bison.weitweit.at CNAME .
 blackbird.docstation.co CNAME .
-blackbird.marcelgil.com CNAME .
 bluejay.edgesoftware.cloud CNAME .
 bluejay.fivefold.vc CNAME .
 bluejay.postmediagroup.com CNAME .
@@ -526,7 +520,6 @@ heron.scarletnoir.co CNAME .
 herring.artemis.cloud CNAME .
 herring.panda.network CNAME .
 hookworm.campaignzee.com CNAME .
-hornet.amandaheal.com.au CNAME .
 hornet.jeffgable.com CNAME .
 hornet.newburycompanies.com CNAME .
 hornet.stechstudio.com CNAME .
@@ -544,7 +537,6 @@ hoverfly.cyberbytesinc.com CNAME .
 hoverfly.papercrowns.com CNAME .
 hoverfly.wholeheartedceremonies.com.au CNAME .
 hoverfly.winchdesign.cn CNAME .
-hyena.baseline.is CNAME .
 hyena.fershad.com CNAME .
 hyena.kitafund.com CNAME .
 hyena.m1guelpf.blog CNAME .
@@ -693,7 +685,6 @@ mule.pricelessai.com CNAME .
 narwhal.bounty.studio CNAME .
 narwhal.quickbudget.xyz CNAME .
 newt.javier.dev CNAME .
-newt.jordin.eu CNAME .
 nf1nknlw.mateforevents.com CNAME .
 nkydma.newbuild.studio CNAME .
 ocelot.anthroquiches.fr CNAME .
@@ -703,7 +694,6 @@ ocelot.sonicumonitoring.com CNAME .
 octopus.clarify.us CNAME .
 octopus.evobend.com CNAME .
 octopus.hans-hornberger.de CNAME .
-octopus.janandsusan.io CNAME .
 octopus.katrinebrandborg.dk CNAME .
 opossum.roleup.com CNAME .
 orangutan.equaliteam.com CNAME .
@@ -805,7 +795,6 @@ raven.konquadrat.de CNAME .
 raven.omamao.ch CNAME .
 reindeer.cablemod.com CNAME .
 reindeer.iainbroome.com CNAME .
-reindeer.pablomaceda.com CNAME .
 reptile.o-lit.fr CNAME .
 rhinoceros.codeagain.com CNAME .
 rhinoceros.krieger.io CNAME .
@@ -848,7 +837,6 @@ sheep.littleboat.digital CNAME .
 sheep.peterfowler.com CNAME .
 sheep.pixair-survey.com CNAME .
 sheep.vaxstandby.com CNAME .
-silkworm.bobsmechanicalrepairs.co.uk CNAME .
 silkworm.boxmood.be CNAME .
 silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.waspexpert.com CNAME .
@@ -899,6 +887,7 @@ swordfish.holzschuhe.at CNAME .
 swordfish.joebuhlig.com CNAME .
 swordfish.lorem.industries CNAME .
 swordfish.mattpreston.io CNAME .
+swordfish.thefloofs.com CNAME .
 swordtail.hnh.digital CNAME .
 swordtail.rockface.io CNAME .
 t0ikowg7jg.serverlesslaravelcourse.com CNAME .
@@ -986,7 +975,6 @@ wildcat.fspy.io CNAME .
 wildcat.longviewforecasting.com CNAME .
 wildcat.restq.co CNAME .
 wildebeest.quarva.dev CNAME .
-wildebeest.soft-spoken.dev CNAME .
 wolf.novel.io CNAME .
 wolf.samarasousa.com CNAME .
 wolverine.barac.at CNAME .

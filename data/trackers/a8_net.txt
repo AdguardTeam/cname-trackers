@@ -252,7 +252,6 @@
 ||a8.refasta.com^
 ||a8.remobiz.jp^
 ||a8.renkindo.com^
-||a8.ricafrosh.com^
 ||a8.ringbell.co.jp^
 ||a8.rinshosiken.com^
 ||a8.route-roller.info^
@@ -540,7 +539,6 @@
 ||a8clk.label-seal-print.com^
 ||a8clk.lasana.co.jp^
 ||a8clk.laundry-out.jp^
-||a8clk.lecinq.medicalnote.jp^
 ||a8clk.lens-1.jp^
 ||a8clk.liberta1.jp^
 ||a8clk.libinc.jp^
@@ -1099,7 +1097,6 @@
 ||a8cv.nichirei.co.jp^
 ||a8cv.nifty.com^
 ||a8cv.nigaoe.graphics.vc^
-||a8cv.nijiun.com^
 ||a8cv.nikugatodoke.com^
 ||a8cv.nippon-olive.co.jp^
 ||a8cv.nipt-clinic.jp^
@@ -1154,7 +1151,6 @@
 ||a8cv.queenbee.co.jp^
 ||a8cv.quick-management.jp^
 ||a8cv.r-maid.com^
-||a8cv.radi-cool.shop^
 ||a8cv.rakumizu.jp^
 ||a8cv.rank-checker.com^
 ||a8cv.rawfood-lohas.com^
@@ -1392,6 +1388,7 @@
 ||acv.auncompany.co.jp^
 ||acv.biglobe-hikari.net^
 ||acv.cmf-hikari.net^
+||acv.freestyle-wifi.jp^
 ||acv.internet-moushikomi.net^
 ||acv.kyushu-internet.com^
 ||acv.mc-doctor.net^
@@ -1580,7 +1577,6 @@
 ||tracking.196189.com^
 ||tracking.lead-plus.jp^
 ||traka8.crypto-mall.org^
-||trc.hajime-asset.com^
 ||trck.aeon.co.jp^
 ||trck.flexnet.co.jp^
 ||trck.frutafrutashop.com^

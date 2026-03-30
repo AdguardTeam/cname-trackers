@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -56,6 +56,7 @@ utiq.allocine.fr CNAME .
 utiq.annalect.es CNAME .
 utiq.apotheken-umschau.de CNAME .
 utiq.applesfera.com CNAME .
+utiq.ariase.com CNAME .
 utiq.ariva.de CNAME .
 utiq.arquitecturaydiseno.es CNAME .
 utiq.aufeminin.com CNAME .
@@ -108,12 +109,15 @@ utiq.corsematin.com CNAME .
 utiq.courrier-picard.fr CNAME .
 utiq.cuerpomente.com CNAME .
 utiq.cuisineactuelle.fr CNAME .
+utiq.cz.de CNAME .
 utiq.dacia.fr CNAME .
 utiq.dasgelbeblatt.de CNAME .
+utiq.degrouptest.com CNAME .
 utiq.deia.eus CNAME .
 utiq.derwesten.de CNAME .
 utiq.desired.de CNAME .
 utiq.dev.stern.de CNAME .
+utiq.dewezet.de CNAME .
 utiq.diaridegirona.cat CNAME .
 utiq.diariocordoba.com CNAME .
 utiq.diariodeibiza.es CNAME .
@@ -122,8 +126,10 @@ utiq.diariodemallorca.es CNAME .
 utiq.diariogol.com CNAME .
 utiq.diariosur.es CNAME .
 utiq.diariovasco.com CNAME .
+utiq.dieharke.de CNAME .
 utiq.directoalpaladar.com CNAME .
 utiq.diverto.tv CNAME .
+utiq.dnn.de CNAME .
 utiq.doctissimo.fr CNAME .
 utiq.donaukurier.de CNAME .
 utiq.donnemagazine.it CNAME .
@@ -180,6 +186,7 @@ utiq.football.fr CNAME .
 utiq.football365.fr CNAME .
 utiq.formel1.de CNAME .
 utiq.fr.de CNAME .
+utiq.france.tv CNAME .
 utiq.francetv.fr CNAME .
 utiq.frandroid.com CNAME .
 utiq.fuehrerscheintest-online.de CNAME .
@@ -195,6 +202,8 @@ utiq.gesundheitsfrage.net CNAME .
 utiq.gfk.com CNAME .
 utiq.giessener-allgemeine.de CNAME .
 utiq.giga.de CNAME .
+utiq.gnz.de CNAME .
+utiq.goettinger-tageblatt.de CNAME .
 utiq.grazia.fr CNAME .
 utiq.groupmintelligence.com CNAME .
 utiq.gutefrage.net CNAME .
@@ -203,6 +212,7 @@ utiq.hallo-muenchen.de CNAME .
 utiq.hanauer.de CNAME .
 utiq.handelsblatt.com CNAME .
 utiq.harpersbazaar.fr CNAME .
+utiq.haz.de CNAME .
 utiq.hbrfrance.fr CNAME .
 utiq.heftig.de CNAME .
 utiq.heimatsport.de CNAME .
@@ -211,6 +221,9 @@ utiq.helpster.de CNAME .
 utiq.hersfelder-zeitung.de CNAME .
 utiq.hna.de CNAME .
 utiq.hola.com CNAME .
+utiq.holidaycheck.at CNAME .
+utiq.holidaycheck.ch CNAME .
+utiq.holidaycheck.de CNAME .
 utiq.hoy.es CNAME .
 utiq.huelva24.com CNAME .
 utiq.ideal.es CNAME .
@@ -230,6 +243,7 @@ utiq.journaldesfemmes.fr CNAME .
 utiq.journaldunet.com CNAME .
 utiq.jux.news CNAME .
 utiq.kino.de CNAME .
+utiq.kn-online.de CNAME .
 utiq.kreis-anzeiger.de CNAME .
 utiq.kreisbote.de CNAME .
 utiq.kreiszeitung.de CNAME .
@@ -242,6 +256,7 @@ utiq.ladepeche.fr CNAME .
 utiq.lagacetadesalamanca.es CNAME .
 utiq.lamontagne.fr CNAME .
 utiq.lamontagne.fr.cdn.cloudflare.net CNAME .
+utiq.landeszeitung.de CNAME .
 utiq.landtiere.de CNAME .
 utiq.lanouvellerepublique.fr CNAME .
 utiq.laopinioncoruna.es CNAME .
@@ -292,8 +307,10 @@ utiq.lindependant.fr CNAME .
 utiq.linternaute.com CNAME .
 utiq.linternaute.fr CNAME .
 utiq.listisima.com CNAME .
+utiq.ln-online.de CNAME .
 utiq.lne.es CNAME .
 utiq.lunion.fr CNAME .
+utiq.lvz.de CNAME .
 utiq.lyonne.fr CNAME .
 utiq.madmoizelle.com CNAME .
 utiq.maennerseite.net CNAME .
@@ -342,6 +359,7 @@ utiq.nationalgeographic.com.es CNAME .
 utiq.ndz.de CNAME .
 utiq.neonmag.fr CNAME .
 utiq.netmums.com CNAME .
+utiq.neuepresse.de CNAME .
 utiq.news.bayern CNAME .
 utiq.news38.de CNAME .
 utiq.newshub.co.uk CNAME .
@@ -363,8 +381,10 @@ utiq.numerama.com CNAME .
 utiq.oberhessische-zeitung.de CNAME .
 utiq.oktoberfest.bayern CNAME .
 utiq.ondavasca.com CNAME .
+utiq.op-marburg.de CNAME .
 utiq.op-online.de CNAME .
 utiq.orange.es CNAME .
+utiq.ostsee-zeitung.de CNAME .
 utiq.ouest-france.fr CNAME .
 utiq.ozap.com CNAME .
 utiq.palladiumhotelgroup.com CNAME .
@@ -392,16 +412,20 @@ utiq.rac1.cat CNAME .
 utiq.regio7.cat CNAME .
 utiq.reisefrage.net CNAME .
 utiq.reisereporter.de CNAME .
+utiq.remszeitung.de CNAME .
 utiq.renault.fr CNAME .
 utiq.renew.auto CNAME .
+utiq.rga.de CNAME .
 utiq.rireetchansons.fr CNAME .
 utiq.rmcbfmplay.com CNAME .
+utiq.rnd.de CNAME .
 utiq.rtl.de CNAME .
 utiq.rtl.fr CNAME .
 utiq.rtl2.fr CNAME .
 utiq.rugbyrama.fr CNAME .
 utiq.ruhr24.de CNAME .
 utiq.sabervivirtv.com CNAME .
+utiq.saechsische.de CNAME .
 utiq.salamancahoy.es CNAME .
 utiq.sauerlandkurier.de CNAME .
 utiq.schlager.de CNAME .
@@ -411,14 +435,17 @@ utiq.sensacine.com CNAME .
 utiq.serienjunkies.de CNAME .
 utiq.sevilla.abc.es CNAME .
 utiq.siegener-zeitung.de CNAME .
+utiq.sn-online.de CNAME .
 utiq.soester-anzeiger.de CNAME .
 utiq.sofinco.fr CNAME .
+utiq.solinger-tageblatt.de CNAME .
 utiq.speakup.es CNAME .
 utiq.speisekarte.de CNAME .
 utiq.spektrum.de CNAME .
 utiq.spiegel.de CNAME .
 utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
+utiq.sportbuzzer.de CNAME .
 utiq.sportlerfrage.net CNAME .
 utiq.sports.fr CNAME .
 utiq.stage.stern.de CNAME .
@@ -432,8 +459,10 @@ utiq.stylebook.de CNAME .
 utiq.sudouest.fr CNAME .
 utiq.sueddeutsche.de CNAME .
 utiq.superdeporte.es CNAME .
+utiq.szlz.de CNAME .
 utiq.t-online.de CNAME .
 utiq.tagesspiegel.de CNAME .
+utiq.tah.de CNAME .
 utiq.tatort-fans.de CNAME .
 utiq.techbook.de CNAME .
 utiq.telefonica.com CNAME .
@@ -451,6 +480,7 @@ utiq.tim.it CNAME .
 utiq.tnrnews.es CNAME .
 utiq.todoalicante.es CNAME .
 utiq.topsante.com CNAME .
+utiq.torgauerzeitung.de CNAME .
 utiq.traum-deutung.de CNAME .
 utiq.travelbook.de CNAME .
 utiq.trendencias.com CNAME .
@@ -474,6 +504,7 @@ utiq.voici.fr CNAME .
 utiq.volksfest-freising.de CNAME .
 utiq.wa.de CNAME .
 utiq.watson.de CNAME .
+utiq.waz-online.de CNAME .
 utiq.webedia.io CNAME .
 utiq.webnachrichten.de CNAME .
 utiq.welt-ctv.com CNAME .

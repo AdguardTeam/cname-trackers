@@ -703,7 +703,6 @@
 | p.karpatzi.com | adserver-2084671375.us-east-1.elb.amazonaws.com |
 | p.npcta.xyz | adserver-2084671375.us-east-1.elb.amazonaws.com |
 | p.ptomw.com | adserver-2084671375.us-east-1.elb.amazonaws.com |
-| p.pukt.cloud | adserver-2084671375.us-east-1.elb.amazonaws.com |
 | p.rukanw.com | adserver-2084671375.us-east-1.elb.amazonaws.com |
 | p.xbcpcn.com | adserver-2084671375.us-east-1.elb.amazonaws.com |
 | ponk.pro | adserver-2084671375.us-east-1.elb.amazonaws.com |
@@ -1049,7 +1048,6 @@
 | 7227558.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7231222.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7231699.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 7231872.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7233063.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7243017.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7269812.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -1092,7 +1090,6 @@
 | 7304587.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7306408.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7306662.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 7315920.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7316235.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7316446.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7322496.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -1166,7 +1163,6 @@
 | isc-tracking.eventim.tech | tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com |
 | isi-tracking.eventim.com | tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com |
 | partner.versemedia.net | tracking-1183106232.ap-southeast-1.elb.amazonaws.com |
-| versemedia.net | tracking-1183106232.ap-southeast-1.elb.amazonaws.com |
 | tracking.mob.psafe.com | tracking-us-2012427168.us-east-1.elb.amazonaws.com |
 | webanalytics-eu-prd.fpfis.tech.ec.europa.eu | webanalytics-291277692.eu-central-1.elb.amazonaws.com |
 | 0.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |

@@ -18,8 +18,6 @@ analytics.witglobal.net
 dap.amsterdam.nl
 dnsbl.test.tag.aumago.com
 epiphany.masterworks.digital
-fpt.fjordtravel.no
-fpt.gofjords.com
 gmn.gloo.com
 inzicht.cz.nl
 logfiles.storck.com
@@ -33,7 +31,6 @@ piwik.eif.org
 piwik.slotsparadise.com
 piwik.twyzle.com
 piwik.vegasaces.com
-piwikpro.vodafone.com
 polpharmaanalytics.pl
 purple.fitchconnect.com
 pwk.tweedekamer.nl

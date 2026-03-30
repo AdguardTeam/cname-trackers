@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,9 +22,7 @@ $TTL 300
 1bw7etm93lf.www.woodbrass.com CNAME .
 1ddbsf9ac5v.vendorportal.bestseller.com CNAME .
 1eusy6.boxoffice.adventuretix.com CNAME .
-1hb4jkt1u2d.probemas.com CNAME .
 1j2n061x3td.www.digi.no CNAME .
-1k5vz1ejbcx.staging.probemas.com CNAME .
 1p3293dngsv.dodofacile.fr CNAME .
 1vyt1eguj27.ommasign.com CNAME .
 1xwkhcsp3s5.vqsave.ommasign.com CNAME .

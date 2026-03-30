@@ -577,6 +577,7 @@
 | tr.info.reunica.com | tracking.bp01.net |
 | tr.info.rouen.aeroport.fr | tracking.bp01.net |
 | tr.info.snpden.net | tracking.bp01.net |
+| tr.info.solidarm.fr | tracking.bp01.net |
 | tr.info.svp.com | tracking.bp01.net |
 | tr.info.valcenis.com | tracking.bp01.net |
 | tr.info.valfrejus.com | tracking.bp01.net |
@@ -626,7 +627,6 @@
 | tr.italia.plimsoll.it | tracking.bp01.net |
 | tr.jend.espmp-pofr.net | tracking.bp01.net |
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
-| tr.jevote.macif.fr | tracking.bp01.net |
 | tr.jevote.simplivote.fr | tracking.bp01.net |
 | tr.jevoteenligne.fr | tracking.bp01.net |
 | tr.jimb.espmp-cufr.net | tracking.bp01.net |

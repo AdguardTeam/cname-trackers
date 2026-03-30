@@ -52,6 +52,7 @@ estats.globus.de
 et.akademie-handel.de
 et.alphalas.com
 et.asb-academy.ch
+et.asx.eu
 et.bleibwacker.com
 et.corpuls.hospital
 et.corpuls.world
@@ -147,6 +148,7 @@ knowlege.pepeprint.de
 lolly.needforsweet.de
 maschine.bengs-modellbau.de
 matrix.heimundgarten24.de
+me.golfclub-bruchsal.de
 mensch.ekd.de
 met.hanser-automotive.de
 met.hanser-kundencenter.de
@@ -312,7 +314,6 @@ webcontr.aulairenicus.de
 webcontr.barcodescanner.de
 webcontr.baulogistik-online.de
 webcontr.beautyavenue.de
-webcontr.bertibuch.de
 webcontr.bet-at-home.com
 webcontr.bet-at-home.de
 webcontr.caso-design.de
@@ -347,12 +348,14 @@ webcontr.lmz-bw.de
 webcontr.lotto-hh.de
 webcontr.luxentu.de
 webcontr.mea-living.de
+webcontr.momenture.de
 webcontr.naturschutzcenter.de
 webcontr.parax.de
 webcontr.pedalbox.com
 webcontr.pegasus-actuators.com
 webcontr.reisprinzen.de
 webcontr.rheinenergie.com
+webcontr.roewa.com
 webcontr.rollytoys.de
 webcontr.ryzon.net
 webcontr.scandtrack.com

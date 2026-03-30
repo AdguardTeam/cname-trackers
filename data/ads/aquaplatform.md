@@ -89,6 +89,7 @@
     * midtc5-delivery.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
     * mondiale-static.aquaplatform.com
+    * myadsmyanmar-console.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
     * myadsmyanmar-static.aquaplatform.com
     * ngtu-static.aquaplatform.com
@@ -202,6 +203,7 @@
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
 | console.myadsmyanmar.com | console.aquaplatform.com |
+| console.myadsmyanmar.com | console.aquaplatform.com |
 | console.walaplusadserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
 | www.console.myadsmyanmar.com | console.aquaplatform.com |
@@ -303,6 +305,7 @@
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | static.mondiale.co.uk | mondiale-static.aquaplatform.com |
+| console.myadsmyanmar.com | myadsmyanmar-console.aquaplatform.com |
 | servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
 | cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
 | static.notgoingtouni.co.uk | ngtu-static.aquaplatform.com |
@@ -326,7 +329,6 @@
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
 | adimages.infotorg.se | platformiq-cdn.aquaplatform.com |
-| adimages.marriagetrac.com | platformiq-cdn.aquaplatform.com |
 | adimages.rtvdrenthe.nl | platformiq-cdn.aquaplatform.com |
 | adztech-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
@@ -350,13 +352,11 @@
 | adztech-console.reviveservers.com | platformiq-cons.aquaplatform.com |
 | addurance-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
-| adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvdrenthe.nl | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
 | adztech-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | brandmovers-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | edgeadserver-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
-| marriagetrac-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |

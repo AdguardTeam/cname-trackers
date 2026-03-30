@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -111,7 +111,6 @@ p.ejs.dev CNAME .
 p.iforge.app CNAME .
 p.logbox.io CNAME .
 p.marqueplace.com CNAME .
-p.meilentrio.de CNAME .
 p.ryanhalliday.com CNAME .
 p.versacommerce.de CNAME .
 p.victoria.dev CNAME .
@@ -275,7 +274,6 @@ sp.jrklein.com CNAME .
 sp.notifysonic.com CNAME .
 sp.pamklein.com CNAME .
 sp.soniccares.com CNAME .
-sp.spaceomatic.fr CNAME .
 sp.wvoil.com CNAME .
 st.anastasija.lt CNAME .
 st.preciousamber.com CNAME .
@@ -773,7 +771,6 @@ sts.tour-europe.org CNAME .
 stts.emplution.com CNAME .
 stts.swisshranalytics.ch CNAME .
 taylor.gladspring.com CNAME .
-tics.cortex.gg CNAME .
 tics.seeker.gg CNAME .
 tics.techdirt.com CNAME .
 tipstats.onepagelove.com CNAME .

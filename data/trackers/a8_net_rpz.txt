@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -263,7 +263,6 @@ a8.recmount-plus.com CNAME .
 a8.refasta.com CNAME .
 a8.remobiz.jp CNAME .
 a8.renkindo.com CNAME .
-a8.ricafrosh.com CNAME .
 a8.ringbell.co.jp CNAME .
 a8.rinshosiken.com CNAME .
 a8.route-roller.info CNAME .
@@ -551,7 +550,6 @@ a8clk.komochikon.jp CNAME .
 a8clk.label-seal-print.com CNAME .
 a8clk.lasana.co.jp CNAME .
 a8clk.laundry-out.jp CNAME .
-a8clk.lecinq.medicalnote.jp CNAME .
 a8clk.lens-1.jp CNAME .
 a8clk.liberta1.jp CNAME .
 a8clk.libinc.jp CNAME .
@@ -1110,7 +1108,6 @@ a8cv.next1-one.jp CNAME .
 a8cv.nichirei.co.jp CNAME .
 a8cv.nifty.com CNAME .
 a8cv.nigaoe.graphics.vc CNAME .
-a8cv.nijiun.com CNAME .
 a8cv.nikugatodoke.com CNAME .
 a8cv.nippon-olive.co.jp CNAME .
 a8cv.nipt-clinic.jp CNAME .
@@ -1165,7 +1162,6 @@ a8cv.quattrocart.com CNAME .
 a8cv.queenbee.co.jp CNAME .
 a8cv.quick-management.jp CNAME .
 a8cv.r-maid.com CNAME .
-a8cv.radi-cool.shop CNAME .
 a8cv.rakumizu.jp CNAME .
 a8cv.rank-checker.com CNAME .
 a8cv.rawfood-lohas.com CNAME .
@@ -1403,6 +1399,7 @@ acv.aun-softbank-hikari.com CNAME .
 acv.auncompany.co.jp CNAME .
 acv.biglobe-hikari.net CNAME .
 acv.cmf-hikari.net CNAME .
+acv.freestyle-wifi.jp CNAME .
 acv.internet-moushikomi.net CNAME .
 acv.kyushu-internet.com CNAME .
 acv.mc-doctor.net CNAME .
@@ -1591,7 +1588,6 @@ track.xmarketech.com CNAME .
 tracking.196189.com CNAME .
 tracking.lead-plus.jp CNAME .
 traka8.crypto-mall.org CNAME .
-trc.hajime-asset.com CNAME .
 trck.aeon.co.jp CNAME .
 trck.flexnet.co.jp CNAME .
 trck.frutafrutashop.com CNAME .

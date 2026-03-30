@@ -287,6 +287,7 @@ hcbox.antiradary.net
 hcbox.bikemax.cz
 hcbox.fitness-zone.cz
 hcbox.itcomplet.sk
+hcbox.mironet.cz
 hcbox.tesla-electronics.eu
 hcbox.tlamka.cz
 hcbox.verapostele.sk
@@ -321,7 +322,6 @@ my.top4fitness.de
 my.top4fitness.fi
 my.top4fitness.fr
 my.top4fitness.gr
-my.top4fitness.hu
 my.top4fitness.it
 my.top4fitness.pl
 my.top4fitness.pt
@@ -467,7 +467,6 @@ partner.chytranemovitost.cz
 partner.chytrydopravce.cz
 partner.city-game-prague.cz
 partner.cleanee.cz
-partner.cleverfood.eu
 partner.cocochoco-keratin.cz
 partner.cokoladovnajanek.cz
 partner.colosseumticket.cz
@@ -567,6 +566,7 @@ partner.kafista.cz
 partner.kasparci.eu
 partner.ketomix.sk
 partner.kidtown.cz
+partner.koffkain-sniff.cz
 partner.kokiskashop.cz
 partner.kokiskashop.sk
 partner.kominy-bokra.cz
@@ -706,9 +706,6 @@ partner.smiling-baby.cz
 partner.smoothiekniha.sk
 partner.spodni-pradlo-rekova.cz
 partner.spokojenypes.cz
-partner.spopo.cz
-partner.stavario.com
-partner.strendem.cz
 partner.stromkyonline.cz
 partner.summermyles.cz
 partner.susmevem.com
@@ -719,6 +716,7 @@ partner.swaglift.com
 partner.sypanycaj.eu
 partner.t-shock.eu
 partner.tahnabranu.cz
+partner.tattoomania.cz
 partner.taxomat.cz
 partner.thechillidoctor.cz
 partner.thelisteningworld.com
@@ -892,7 +890,6 @@ partneri.worldee.com
 partneri.yoggspiration.cz
 partneri.zaprovizi.cz
 partneri.zburnik.cz
-partneri.zdravykram.cz
 partneri.zhubnichytre.cz
 partners.almaf.cz
 partners.bonyacademy.com
@@ -904,6 +901,7 @@ partners.pocitarna.cz
 partners.puravidashop.cz
 partners.spiritradar.com
 partnerzy.styrcon.pl
+plus.bezvavlasy.cz
 plus.mameradivlasy.cz
 promo.smskouc.cz
 promo.vyzkousejhizero.cz
@@ -920,7 +918,6 @@ provize.wugi.cz
 provize.zazitkovelety.cz
 provizia.mimulo.sk
 proviznisystem.kanclir.cz
-royalfamily.royalchaga.sk
 special.kvetinyexpres.cz
 splatky.aquatrend.sk
 spolu.kuskakaa.cz

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,6 +63,7 @@ estats.globus.de CNAME .
 et.akademie-handel.de CNAME .
 et.alphalas.com CNAME .
 et.asb-academy.ch CNAME .
+et.asx.eu CNAME .
 et.bleibwacker.com CNAME .
 et.corpuls.hospital CNAME .
 et.corpuls.world CNAME .
@@ -158,6 +159,7 @@ knowlege.pepeprint.de CNAME .
 lolly.needforsweet.de CNAME .
 maschine.bengs-modellbau.de CNAME .
 matrix.heimundgarten24.de CNAME .
+me.golfclub-bruchsal.de CNAME .
 mensch.ekd.de CNAME .
 met.hanser-automotive.de CNAME .
 met.hanser-kundencenter.de CNAME .
@@ -323,7 +325,6 @@ webcontr.aulairenicus.de CNAME .
 webcontr.barcodescanner.de CNAME .
 webcontr.baulogistik-online.de CNAME .
 webcontr.beautyavenue.de CNAME .
-webcontr.bertibuch.de CNAME .
 webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .
 webcontr.caso-design.de CNAME .
@@ -358,12 +359,14 @@ webcontr.lmz-bw.de CNAME .
 webcontr.lotto-hh.de CNAME .
 webcontr.luxentu.de CNAME .
 webcontr.mea-living.de CNAME .
+webcontr.momenture.de CNAME .
 webcontr.naturschutzcenter.de CNAME .
 webcontr.parax.de CNAME .
 webcontr.pedalbox.com CNAME .
 webcontr.pegasus-actuators.com CNAME .
 webcontr.reisprinzen.de CNAME .
 webcontr.rheinenergie.com CNAME .
+webcontr.roewa.com CNAME .
 webcontr.rollytoys.de CNAME .
 webcontr.ryzon.net CNAME .
 webcontr.scandtrack.com CNAME .

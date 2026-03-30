@@ -548,6 +548,7 @@ tr.info.rebond-bpifrance.fr
 tr.info.reunica.com
 tr.info.rouen.aeroport.fr
 tr.info.snpden.net
+tr.info.solidarm.fr
 tr.info.svp.com
 tr.info.valcenis.com
 tr.info.valfrejus.com
@@ -597,7 +598,6 @@ tr.it4brands-com.moethennessy.com
 tr.italia.plimsoll.it
 tr.jend.espmp-pofr.net
 tr.jesuis.enformedelotus.com
-tr.jevote.macif.fr
 tr.jevote.simplivote.fr
 tr.jevoteenligne.fr
 tr.jimb.espmp-cufr.net

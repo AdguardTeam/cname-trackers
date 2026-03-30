@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,7 +18,6 @@ a574f3c3.raylo.com CNAME .
 abfrage.etakenya.go.ke CNAME .
 account.ezpassoh.com CNAME .
 accountm.myflfamilies.com CNAME .
-acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 adprtm53.cardgold.it CNAME .
 adprtm53.cartayou.it CNAME .
@@ -280,6 +279,7 @@ cim-idc-cdn.account.bcbsnm.com CNAME .
 cim-idc-cdn.account.bcbsok.com CNAME .
 cim-idc-cdn.account.bcbstx.com CNAME .
 cim-idc-cdn.account.hcsc.net CNAME .
+cim-idc-cdn.account.hcsctest.net CNAME .
 cim-idc-cdn.account.test.bcbsok.com CNAME .
 cim-idc-cdn.account.wellontarget.com CNAME .
 claimant.vec.virginia.gov CNAME .
@@ -522,6 +522,7 @@ contents.healthfirst.org CNAME .
 contentservices.ascendloans.com CNAME .
 contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
+contentservices.firstlightlending.com CNAME .
 cookiemonster.calcas.com CNAME .
 creditapp.rogersbank.com CNAME .
 crmg-fraudmgmt.bayad.com CNAME .
@@ -756,7 +757,9 @@ ln.acornfun.com CNAME .
 ln.cash.app CNAME .
 ln.cidercasino.com CNAME .
 ln.coolspinslot.com CNAME .
+ln.hijackpoker.com CNAME .
 ln.jackpotgo.club CNAME .
+ln.kohls.com CNAME .
 ln.lavishluck.net CNAME .
 ln.meudigio.com.br CNAME .
 ln.moonprizecasino.com CNAME .
@@ -915,6 +918,7 @@ prod-navigator.chaperone.lumindigitalhosting.com CNAME .
 prod-njfcunj.chaperone.lumindigitalhosting.com CNAME .
 prod-northland.chaperone.lumindigitalhosting.com CNAME .
 prod-oneaz.chaperone.lumindigitalhosting.com CNAME .
+prod-orangeccu-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-pacservice.chaperone.lumindigitalhosting.com CNAME .
 prod-pathways.chaperone.lumindigitalhosting.com CNAME .
 prod-prospera.chaperone.lumindigitalhosting.com CNAME .
@@ -1302,7 +1306,6 @@ tmuat.kotak.com CNAME .
 tmx-fpt.credit-agricole.pl CNAME .
 tmx.additionfi.com CNAME .
 tmx.americafirst.com CNAME .
-tmx.banquemanuvie.com CNAME .
 tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .
 tmx.carhistory.com.au CNAME .
@@ -1353,7 +1356,6 @@ ucfs.sendpro360.pitneycloud.com CNAME .
 ucfs.shipping360.pitneybowes.com CNAME .
 ufc.vanguardinvestor.co.uk CNAME .
 ufp.intuit.com CNAME .
-uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .
 uscmfm.rbccm.com CNAME .
 v.ayco.com CNAME .

@@ -285,9 +285,7 @@
     * garnethill.extole.io
     * getfreed.extole.io
     * getsetup.extole.io
-    * giant-martins.extole.io
     * giantfood.extole.io
-    * giantfoodstores.extole.io
     * giftya.extole.io
     * giorgioarmanibeauty-usa.extole.io
     * glamglow.extole.io
@@ -457,6 +455,7 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
+    * quickbooks.em.extole.io
     * quickbooks.extole.io
     * quickbooksintuituk.extole.io
     * quickstart.extole.io
@@ -525,6 +524,7 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * suncoastcreditunion.em.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
     * suneast.extole.io
@@ -544,7 +544,6 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * thegeneral.extole.io
-    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -938,9 +937,7 @@
 | gift.getfreed.ai | getfreed.extole.io |
 | share.getsetup.io | getsetup.extole.io |
 | share.ggu.edu | ggu-ssl.extole.com |
-| refer.martinsfoods.com | giant-martins.extole.io |
 | refer.giantfood.com | giantfood.extole.io |
-| refer.giantfoodstores.com | giantfoodstores.extole.io |
 | share.giftya.com | giftya.extole.io |
 | share.giorgioarmanibeauty-usa.com | giorgioarmanibeauty-usa.extole.io |
 | refer.glamglow.com | glamglow.extole.io |
@@ -1185,6 +1182,7 @@
 | recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
+| em2279.referral.quickbooks.co.uk | quickbooks.em.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
 | referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
@@ -1274,6 +1272,7 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | share.suneast.org | suneast.extole.io |
@@ -1301,7 +1300,6 @@
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
-| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1397,7 +1395,6 @@
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
 | share.wsecu.org | wsecu.extole.io |
-| em4504.mail.raf.xfinity.com | xfinity.em.extole.io |
 | em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |

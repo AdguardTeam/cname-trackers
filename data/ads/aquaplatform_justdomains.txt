@@ -14,7 +14,6 @@ addurance-delivery.reviveservers.com
 adimages.associationheadquarters.com
 adimages.eva.live
 adimages.infotorg.se
-adimages.marriagetrac.com
 adimages.rtvdrenthe.nl
 adimages.sniffies.com
 ads-console.recon.com
@@ -37,7 +36,6 @@ adserver.associationheadquarters.com
 adserver.fa-mag.com
 adserver.infotorg.se
 adserver.kozoom.com
-adserver.marriagetrac.com
 adserver.rtvdrenthe.nl
 adserver.rtvutrechtreclame.nl
 adserver.sniffies.com
@@ -143,7 +141,6 @@ images.xtraa.org
 informatm-static.reviveservers.com
 jacilla-static.reviveservers.com
 lalala.geenstijl.nl
-marriagetrac-delivery.reviveservers.com
 media.revive-adserver.com
 media.revive-adserver.net
 media360ads.midtc.com

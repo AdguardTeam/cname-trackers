@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,7 +17,6 @@ a.resr.ru CNAME .
 a.ridd.ru CNAME .
 a.yandd.site CNAME .
 ad.choicy.org CNAME .
-ads.wattpadru.ru CNAME .
 any.realbig.media CNAME .
 bo.zymorico.store CNAME .
 cdn.zamunda.ru CNAME .
@@ -43,7 +42,6 @@ park.wpcodes.org CNAME .
 po.zolivexo.ru CNAME .
 push.rabbit.click CNAME .
 pushche.rabbit.click CNAME .
-rb.crimeagc.com CNAME .
 rb.slova-accordy.ru CNAME .
 rb.umspecrek.ru CNAME .
 rbfour.bid CNAME .
@@ -59,7 +57,6 @@ rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .
 tuesdaysale.bid CNAME .
 vi.zolivexo.store CNAME .
-workerhome.click CNAME .
 www.5738.ru CNAME .
 www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .
@@ -68,7 +65,6 @@ www.iskustvenny-intellekt.ru CNAME .
 www.prbcdn.online CNAME .
 www.procarsharing.store CNAME .
 www.pushrb.pro CNAME .
-www.qatro.ru CNAME .
 www.rbdomain.ru CNAME .
 www.rbmcnf.pro CNAME .
 www.rbp-gen1.site CNAME .
@@ -78,13 +74,11 @@ www.rbp2.site CNAME .
 www.rbp3.ru CNAME .
 www.rbp63841.ru CNAME .
 www.rbpark1.site CNAME .
-www.rbpark1.website CNAME .
 www.rbpark2.ru CNAME .
 www.rbpark3.ru CNAME .
 www.rbprk91645.ru CNAME .
 www.realbi5.ru CNAME .
 www.rekl1.com CNAME .
 www.rlrt.ru CNAME .
-www.step555.ru CNAME .
 xxx.extrablocks.ru CNAME .
 zbs.etodomendlyareklamy.ru CNAME .

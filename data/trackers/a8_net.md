@@ -266,7 +266,6 @@
 | a8.refasta.com | trck.a8.net |
 | a8.remobiz.jp | trck.a8.net |
 | a8.renkindo.com | trck.a8.net |
-| a8.ricafrosh.com | trck.a8.net |
 | a8.ringbell.co.jp | trck.a8.net |
 | a8.rinshosiken.com | trck.a8.net |
 | a8.route-roller.info | trck.a8.net |
@@ -554,7 +553,6 @@
 | a8clk.label-seal-print.com | trck.a8.net |
 | a8clk.lasana.co.jp | trck.a8.net |
 | a8clk.laundry-out.jp | trck.a8.net |
-| a8clk.lecinq.medicalnote.jp | trck.a8.net |
 | a8clk.lens-1.jp | trck.a8.net |
 | a8clk.liberta1.jp | trck.a8.net |
 | a8clk.libinc.jp | trck.a8.net |
@@ -1112,7 +1110,6 @@
 | a8cv.nichirei.co.jp | trck.a8.net |
 | a8cv.nifty.com | trck.a8.net |
 | a8cv.nigaoe.graphics.vc | trck.a8.net |
-| a8cv.nijiun.com | trck.a8.net |
 | a8cv.nikugatodoke.com | trck.a8.net |
 | a8cv.nippon-olive.co.jp | trck.a8.net |
 | a8cv.nipt-clinic.jp | trck.a8.net |
@@ -1167,7 +1164,6 @@
 | a8cv.queenbee.co.jp | trck.a8.net |
 | a8cv.quick-management.jp | trck.a8.net |
 | a8cv.r-maid.com | trck.a8.net |
-| a8cv.radi-cool.shop | trck.a8.net |
 | a8cv.rakumizu.jp | trck.a8.net |
 | a8cv.rank-checker.com | trck.a8.net |
 | a8cv.rawfood-lohas.com | trck.a8.net |
@@ -1405,6 +1401,7 @@
 | acv.auncompany.co.jp | trck.a8.net |
 | acv.biglobe-hikari.net | trck.a8.net |
 | acv.cmf-hikari.net | trck.a8.net |
+| acv.freestyle-wifi.jp | trck.a8.net |
 | acv.internet-moushikomi.net | trck.a8.net |
 | acv.kyushu-internet.com | trck.a8.net |
 | acv.mc-doctor.net | trck.a8.net |
@@ -1591,7 +1588,6 @@
 | tracking.196189.com | trck.a8.net |
 | tracking.lead-plus.jp | trck.a8.net |
 | traka8.crypto-mall.org | trck.a8.net |
-| trc.hajime-asset.com | trck.a8.net |
 | trck.aeon.co.jp | trck.a8.net |
 | trck.flexnet.co.jp | trck.a8.net |
 | trck.frutafrutashop.com | trck.a8.net |

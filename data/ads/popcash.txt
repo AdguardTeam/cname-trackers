@@ -6,7 +6,6 @@
 ||cdn.agajx.com^
 ||cdn.alcatza.com^
 ||cdn.aliwjo.com^
-||cdn.almacz.com^
 ||cdn.alota.xyz^
 ||cdn.asce.xyz^
 ||cdn.asdfix.com^
@@ -62,7 +61,6 @@
 ||cdn.iople.com^
 ||cdn.isgost.com^
 ||cdn.jandaqwe.com^
-||cdn.japw.cloud^
 ||cdn.jbtul.com^
 ||cdn.jeckear.com^
 ||cdn.jhkfd.com^
@@ -89,7 +87,6 @@
 ||cdn.nelhon.com^
 ||cdn.nlkli.com^
 ||cdn.nmkli.com^
-||cdn.norymo.com^
 ||cdn.npcta.xyz^
 ||cdn.nuqwe.com^
 ||cdn.orjfun.com^
@@ -109,7 +106,6 @@
 ||cdn.quagfa.com^
 ||cdn.rapolok.com^
 ||cdn.rausfml.com^
-||cdn.rawqel.com^
 ||cdn.rgrd.xyz^
 ||cdn.roemoss.com^
 ||cdn.rofant.com^
@@ -250,11 +246,9 @@
 ||bird.webitizevoice.com^
 ||bison.ainslieart.com^
 ||bison.joshhanley.com.au^
-||bison.streamclocks.com^
 ||bison.stuffmatic.com^
 ||bison.weitweit.at^
 ||blackbird.docstation.co^
-||blackbird.marcelgil.com^
 ||bluejay.edgesoftware.cloud^
 ||bluejay.fivefold.vc^
 ||bluejay.postmediagroup.com^
@@ -515,7 +509,6 @@
 ||herring.artemis.cloud^
 ||herring.panda.network^
 ||hookworm.campaignzee.com^
-||hornet.amandaheal.com.au^
 ||hornet.jeffgable.com^
 ||hornet.newburycompanies.com^
 ||hornet.stechstudio.com^
@@ -533,7 +526,6 @@
 ||hoverfly.papercrowns.com^
 ||hoverfly.wholeheartedceremonies.com.au^
 ||hoverfly.winchdesign.cn^
-||hyena.baseline.is^
 ||hyena.fershad.com^
 ||hyena.kitafund.com^
 ||hyena.m1guelpf.blog^
@@ -682,7 +674,6 @@
 ||narwhal.bounty.studio^
 ||narwhal.quickbudget.xyz^
 ||newt.javier.dev^
-||newt.jordin.eu^
 ||nf1nknlw.mateforevents.com^
 ||nkydma.newbuild.studio^
 ||ocelot.anthroquiches.fr^
@@ -692,7 +683,6 @@
 ||octopus.clarify.us^
 ||octopus.evobend.com^
 ||octopus.hans-hornberger.de^
-||octopus.janandsusan.io^
 ||octopus.katrinebrandborg.dk^
 ||opossum.roleup.com^
 ||orangutan.equaliteam.com^
@@ -794,7 +784,6 @@
 ||raven.omamao.ch^
 ||reindeer.cablemod.com^
 ||reindeer.iainbroome.com^
-||reindeer.pablomaceda.com^
 ||reptile.o-lit.fr^
 ||rhinoceros.codeagain.com^
 ||rhinoceros.krieger.io^
@@ -837,7 +826,6 @@
 ||sheep.peterfowler.com^
 ||sheep.pixair-survey.com^
 ||sheep.vaxstandby.com^
-||silkworm.bobsmechanicalrepairs.co.uk^
 ||silkworm.boxmood.be^
 ||silkworm.preventingsuicideinsussex.org^
 ||silkworm.waspexpert.com^
@@ -888,6 +876,7 @@
 ||swordfish.joebuhlig.com^
 ||swordfish.lorem.industries^
 ||swordfish.mattpreston.io^
+||swordfish.thefloofs.com^
 ||swordtail.hnh.digital^
 ||swordtail.rockface.io^
 ||t0ikowg7jg.serverlesslaravelcourse.com^
@@ -975,7 +964,6 @@
 ||wildcat.longviewforecasting.com^
 ||wildcat.restq.co^
 ||wildebeest.quarva.dev^
-||wildebeest.soft-spoken.dev^
 ||wolf.novel.io^
 ||wolf.samarasousa.com^
 ||wolverine.barac.at^

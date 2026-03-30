@@ -114,7 +114,6 @@
     * 492778793747615.wt-eu02.net
     * 495967780350059.wt-eu02.net
     * 516595732855224.wt-eu02.net
-    * 517717528680725.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
     * 572457300660290.wt-eu02.net
@@ -373,8 +372,6 @@
 | web.news.absurdbeauty.com | 492778793747615.wt-eu02.net |
 | web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | web2.updates.ditano.com | 516595732855224.wt-eu02.net |
-| data.all-in.de | 517717528680725.wt-eu02.net |
-| data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
 | web.info.xerjoff.com | 572457300660290.wt-eu02.net |
@@ -553,7 +550,6 @@
 | img.foodspring.es | img-foodspring01.wt-eu02.net |
 | img.foodspring.fi | img-foodspring01.wt-eu02.net |
 | img.foodspring.fr | img-foodspring01.wt-eu02.net |
-| img.foodspring.hr | img-foodspring01.wt-eu02.net |
 | img.foodspring.it | img-foodspring01.wt-eu02.net |
 | img.foodspring.nl | img-foodspring01.wt-eu02.net |
 | img.foodspring.pl | img-foodspring01.wt-eu02.net |

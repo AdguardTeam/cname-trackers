@@ -51,8 +51,6 @@ ctdfm.ilgiornale.it
 ctrkd.ilsole24ore.com
 da.hornbach.be
 data.adlermode.com
-data.all-in.de
-data.allgaeuer-zeitung.de
 data.babista.ch
 data.babista.de
 data.babista.nl
@@ -112,7 +110,6 @@ img.foodspring.dk
 img.foodspring.es
 img.foodspring.fi
 img.foodspring.fr
-img.foodspring.hr
 img.foodspring.it
 img.foodspring.nl
 img.foodspring.pl

@@ -256,6 +256,7 @@
 ||3328388.notifysrv.com^
 ||3328396.notifysrv.com^
 ||3328404.notifysrv.com^
+||3329496.notify6.com^
 ||3329496.notifysrv.com^
 ||3329724.notifysrv.com^
 ||3334828.notify6.com^
@@ -268,6 +269,7 @@
 ||3345712.notifysrv.com^
 ||3347188.notifysrv.com^
 ||3347192.notifysrv.com^
+||3348428.notify6.com^
 ||3348428.notifysrv.com^
 ||3349680.notify6.com^
 ||3351068.notify6.com^
@@ -384,6 +386,7 @@
 ||3585013.notifysrv.com^
 ||3587729.notify6.com^
 ||3587729.notifysrv.com^
+||3587731.notify6.com^
 ||3587731.notifysrv.com^
 ||3587733.notifysrv.com^
 ||3587799.notifysrv.com^
@@ -715,26 +718,26 @@
 ||5769422.notify6.com^
 ||8.notify.bizonads-ssp.com^
 ||_sips._tcp.3323174.notifysrv.com^
+||a.18ramp.com^
 ||a.6hd49jng.com^
 ||a.advantageclicks.net^
+||a.allureanews.com^
 ||a.b2bstars.com^
 ||a.b7q9v8z.com^
-||a.brilmaver.com^
 ||a.cant3am.com^
 ||a.chmsrv.com^
 ||a.crme7srv.com^
 ||a.eunow4u.com^
 ||a.gentlefieldpattern.com^
-||a.golhofer.com^
 ||a.happyleafmotion.com^
 ||a.ma3ion.com^
-||a.mikbaken.com^
 ||a.mx.notifysrv.com^
 ||a.n4m5x60.com^
 ||a.ns.notifysrv.com^
 ||a.pinkads.org^
 ||a.playa.to^
 ||a.q88z1s3.com^
+||a.santabrowser.com^
 ||a.tf4srv.com^
 ||a.traffic-gold.com^
 ||a.vws4brkfst.com^
@@ -760,7 +763,6 @@
 ||aphrodite.notifysrv.com^
 ||api.adxnow.com^
 ||api.eunow4u.com^
-||api.getblaze.app^
 ||api.tf4srv.com^
 ||api.trafficfactory.com^
 ||api.valuemedia-ltd.com^
@@ -866,6 +868,7 @@
 ||s.dsa8h7.com^
 ||s.dsajir.com^
 ||s.dsal8i.com^
+||s.dsamfe.com^
 ||s.dsauvy.com^
 ||s.dsbdlb.com^
 ||s.dsblk8.com^
@@ -905,6 +908,7 @@
 ||s.dspijb.com^
 ||s.dspzhi.com^
 ||s.dsq93g.com^
+||s.dsqqnt.com^
 ||s.dsqvkn.com^
 ||s.dsr577.com^
 ||s.dsr9gv.com^
@@ -914,6 +918,8 @@
 ||s.dsse6w.com^
 ||s.dst3hq.com^
 ||s.dst82e.com^
+||s.dstha9.com^
+||s.dsukwb.com^
 ||s.dsuntq.com^
 ||s.dsvfk5.com^
 ||s.dsw3rw.com^
@@ -923,6 +929,7 @@
 ||s.dsxsdn.com^
 ||s.dsydxg.com^
 ||s.dsytup.com^
+||s.dszjza.com^
 ||s.eaalink.com^
 ||s.ecwlink.com^
 ||s.elink2b.com^
@@ -932,6 +939,7 @@
 ||s.eln14e.com^
 ||s.eln16e.com^
 ||s.eln32a.com^
+||s.eln33b.com^
 ||s.eln3ax.com^
 ||s.eln7dc.com^
 ||s.elna1v.com^
@@ -962,6 +970,7 @@
 ||s.elnn20.com^
 ||s.elnn22.com^
 ||s.elnn26.com^
+||s.elnnap.com^
 ||s.elnp11.com^
 ||s.elnp12.com^
 ||s.elnp13.com^
@@ -984,7 +993,6 @@
 ||s.exv6.com^
 ||s.flirtads.net^
 ||s.gentlefieldpattern.com^
-||s.golhofer.com^
 ||s.happyleafmotion.com^
 ||s.hkartg.com^
 ||s.huispol.com^
@@ -1145,6 +1153,7 @@
 ||www.3346174.notify6.com^
 ||www.3351072.notifysrv.com^
 ||www.3352256.notify6.com^
+||www.3357356.notify6.com^
 ||www.3389741.notify6.com^
 ||www.3398315.notify6.com^
 ||www.3404165.notify6.com^
@@ -1213,16 +1222,15 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
-||a.18ramp.com^
 ||a.adsession.com^
 ||a.advertrek.com^
-||a.allureanews.com^
 ||a.asvsm.com^
+||a.brilmaver.com^
 ||a.etology.com^
 ||a.hkartg.com^
 ||a.humnert.com^
 ||a.klico.link^
+||a.mikbaken.com^
 ||a.r8lnet.com^
 ||a.rocoads.net^
-||a.santabrowser.com^
 ||a.t5z3w0p.com^

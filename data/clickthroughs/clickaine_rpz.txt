@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,7 +30,8 @@ api.rtnews.pro CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
-bat29.gimmeporn.xyz CNAME .
+bat31.gimmeporn.xyz CNAME .
+block.18tube.me CNAME .
 c0n.tubestash.com CNAME .
 c4n.allporncomics.co CNAME .
 c4n.anonimayzer.site CNAME .
@@ -38,7 +39,6 @@ c4n.asianpinay.com CNAME .
 c4n.javfinder.stream CNAME .
 c4n.javhdpro.stream CNAME .
 c4n.myteentgp.com CNAME .
-c4n.natali9.online CNAME .
 c4n.shudhdesiporn.com CNAME .
 c4n.suavecitoo.org CNAME .
 c4n.swift4claim.com CNAME .
@@ -71,7 +71,6 @@ ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dfx.xtapes.porn CNAME .
 drt.cliomovies.com CNAME .
-excavajo12.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 get.xclick24.com CNAME .
@@ -86,7 +85,7 @@ hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
 jpnj.hotpornfile.org CNAME .
 m.brandnewapp.pro CNAME .
-n.porno-all.top CNAME .
+n.russ-porno.net CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .

@@ -310,6 +310,7 @@
 | hcbox.bikemax.cz | cz.affilbox.cz |
 | hcbox.fitness-zone.cz | cz.affilbox.cz |
 | hcbox.itcomplet.sk | cz.affilbox.cz |
+| hcbox.mironet.cz | cz.affilbox.cz |
 | hcbox.tesla-electronics.eu | cz.affilbox.cz |
 | hcbox.tlamka.cz | cz.affilbox.cz |
 | hcbox.verapostele.sk | cz.affilbox.cz |
@@ -344,7 +345,6 @@
 | my.top4fitness.fi | cz.affilbox.cz |
 | my.top4fitness.fr | cz.affilbox.cz |
 | my.top4fitness.gr | cz.affilbox.cz |
-| my.top4fitness.hu | cz.affilbox.cz |
 | my.top4fitness.it | cz.affilbox.cz |
 | my.top4fitness.pl | cz.affilbox.cz |
 | my.top4fitness.pt | cz.affilbox.cz |
@@ -490,7 +490,6 @@
 | partner.chytrydopravce.cz | cz.affilbox.cz |
 | partner.city-game-prague.cz | cz.affilbox.cz |
 | partner.cleanee.cz | cz.affilbox.cz |
-| partner.cleverfood.eu | cz.affilbox.cz |
 | partner.cocochoco-keratin.cz | cz.affilbox.cz |
 | partner.cokoladovnajanek.cz | cz.affilbox.cz |
 | partner.colosseumticket.cz | cz.affilbox.cz |
@@ -590,6 +589,7 @@
 | partner.kasparci.eu | cz.affilbox.cz |
 | partner.ketomix.sk | cz.affilbox.cz |
 | partner.kidtown.cz | cz.affilbox.cz |
+| partner.koffkain-sniff.cz | cz.affilbox.cz |
 | partner.kokiskashop.cz | cz.affilbox.cz |
 | partner.kokiskashop.sk | cz.affilbox.cz |
 | partner.kominy-bokra.cz | cz.affilbox.cz |
@@ -729,9 +729,6 @@
 | partner.smoothiekniha.sk | cz.affilbox.cz |
 | partner.spodni-pradlo-rekova.cz | cz.affilbox.cz |
 | partner.spokojenypes.cz | cz.affilbox.cz |
-| partner.spopo.cz | cz.affilbox.cz |
-| partner.stavario.com | cz.affilbox.cz |
-| partner.strendem.cz | cz.affilbox.cz |
 | partner.stromkyonline.cz | cz.affilbox.cz |
 | partner.summermyles.cz | cz.affilbox.cz |
 | partner.susmevem.com | cz.affilbox.cz |
@@ -742,6 +739,7 @@
 | partner.sypanycaj.eu | cz.affilbox.cz |
 | partner.t-shock.eu | cz.affilbox.cz |
 | partner.tahnabranu.cz | cz.affilbox.cz |
+| partner.tattoomania.cz | cz.affilbox.cz |
 | partner.taxomat.cz | cz.affilbox.cz |
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.thelisteningworld.com | cz.affilbox.cz |
@@ -915,7 +913,6 @@
 | partneri.yoggspiration.cz | cz.affilbox.cz |
 | partneri.zaprovizi.cz | cz.affilbox.cz |
 | partneri.zburnik.cz | cz.affilbox.cz |
-| partneri.zdravykram.cz | cz.affilbox.cz |
 | partneri.zhubnichytre.cz | cz.affilbox.cz |
 | partners.almaf.cz | cz.affilbox.cz |
 | partners.bonyacademy.com | cz.affilbox.cz |
@@ -927,6 +924,7 @@
 | partners.puravidashop.cz | cz.affilbox.cz |
 | partners.spiritradar.com | cz.affilbox.cz |
 | partnerzy.styrcon.pl | cz.affilbox.cz |
+| plus.bezvavlasy.cz | cz.affilbox.cz |
 | plus.mameradivlasy.cz | cz.affilbox.cz |
 | promo.smskouc.cz | cz.affilbox.cz |
 | promo.vyzkousejhizero.cz | cz.affilbox.cz |
@@ -943,7 +941,6 @@
 | provize.zazitkovelety.cz | cz.affilbox.cz |
 | provizia.mimulo.sk | cz.affilbox.cz |
 | proviznisystem.kanclir.cz | cz.affilbox.cz |
-| royalfamily.royalchaga.sk | cz.affilbox.cz |
 | special.kvetinyexpres.cz | cz.affilbox.cz |
 | splatky.aquatrend.sk | cz.affilbox.cz |
 | spolu.kuskakaa.cz | cz.affilbox.cz |

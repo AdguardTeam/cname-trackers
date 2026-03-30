@@ -354,6 +354,9 @@
 ||sst.nab.com.au^
 ||sst.one.audi^
 ||sst.subzero-wolf.com^
+||sst.tescogiftcards.com^
+||sst.tescoinsurance.com^
+||sst.tescotravelmoney.com^
 ||sst.tjmaxx.tjx.com^
 ||suncorp.activate.ensighten.com^
 ||t.hagebau.de^

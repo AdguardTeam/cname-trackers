@@ -112,7 +112,6 @@
 | p.iforge.app | custom.plausible.io |
 | p.logbox.io | custom.plausible.io |
 | p.marqueplace.com | custom.plausible.io |
-| p.meilentrio.de | custom.plausible.io |
 | p.ryanhalliday.com | custom.plausible.io |
 | p.versacommerce.de | custom.plausible.io |
 | p.victoria.dev | custom.plausible.io |
@@ -276,7 +275,6 @@
 | sp.notifysonic.com | custom.plausible.io |
 | sp.pamklein.com | custom.plausible.io |
 | sp.soniccares.com | custom.plausible.io |
-| sp.spaceomatic.fr | custom.plausible.io |
 | sp.wvoil.com | custom.plausible.io |
 | st.anastasija.lt | custom.plausible.io |
 | st.preciousamber.com | custom.plausible.io |
@@ -774,7 +772,6 @@
 | stts.emplution.com | custom.plausible.io |
 | stts.swisshranalytics.ch | custom.plausible.io |
 | taylor.gladspring.com | custom.plausible.io |
-| tics.cortex.gg | custom.plausible.io |
 | tics.seeker.gg | custom.plausible.io |
 | tics.techdirt.com | custom.plausible.io |
 | tipstats.onepagelove.com | custom.plausible.io |

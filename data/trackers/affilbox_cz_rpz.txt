@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -298,6 +298,7 @@ hcbox.antiradary.net CNAME .
 hcbox.bikemax.cz CNAME .
 hcbox.fitness-zone.cz CNAME .
 hcbox.itcomplet.sk CNAME .
+hcbox.mironet.cz CNAME .
 hcbox.tesla-electronics.eu CNAME .
 hcbox.tlamka.cz CNAME .
 hcbox.verapostele.sk CNAME .
@@ -332,7 +333,6 @@ my.top4fitness.de CNAME .
 my.top4fitness.fi CNAME .
 my.top4fitness.fr CNAME .
 my.top4fitness.gr CNAME .
-my.top4fitness.hu CNAME .
 my.top4fitness.it CNAME .
 my.top4fitness.pl CNAME .
 my.top4fitness.pt CNAME .
@@ -478,7 +478,6 @@ partner.chytranemovitost.cz CNAME .
 partner.chytrydopravce.cz CNAME .
 partner.city-game-prague.cz CNAME .
 partner.cleanee.cz CNAME .
-partner.cleverfood.eu CNAME .
 partner.cocochoco-keratin.cz CNAME .
 partner.cokoladovnajanek.cz CNAME .
 partner.colosseumticket.cz CNAME .
@@ -578,6 +577,7 @@ partner.kafista.cz CNAME .
 partner.kasparci.eu CNAME .
 partner.ketomix.sk CNAME .
 partner.kidtown.cz CNAME .
+partner.koffkain-sniff.cz CNAME .
 partner.kokiskashop.cz CNAME .
 partner.kokiskashop.sk CNAME .
 partner.kominy-bokra.cz CNAME .
@@ -717,9 +717,6 @@ partner.smiling-baby.cz CNAME .
 partner.smoothiekniha.sk CNAME .
 partner.spodni-pradlo-rekova.cz CNAME .
 partner.spokojenypes.cz CNAME .
-partner.spopo.cz CNAME .
-partner.stavario.com CNAME .
-partner.strendem.cz CNAME .
 partner.stromkyonline.cz CNAME .
 partner.summermyles.cz CNAME .
 partner.susmevem.com CNAME .
@@ -730,6 +727,7 @@ partner.swaglift.com CNAME .
 partner.sypanycaj.eu CNAME .
 partner.t-shock.eu CNAME .
 partner.tahnabranu.cz CNAME .
+partner.tattoomania.cz CNAME .
 partner.taxomat.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.thelisteningworld.com CNAME .
@@ -903,7 +901,6 @@ partneri.worldee.com CNAME .
 partneri.yoggspiration.cz CNAME .
 partneri.zaprovizi.cz CNAME .
 partneri.zburnik.cz CNAME .
-partneri.zdravykram.cz CNAME .
 partneri.zhubnichytre.cz CNAME .
 partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
@@ -915,6 +912,7 @@ partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
 partners.spiritradar.com CNAME .
 partnerzy.styrcon.pl CNAME .
+plus.bezvavlasy.cz CNAME .
 plus.mameradivlasy.cz CNAME .
 promo.smskouc.cz CNAME .
 promo.vyzkousejhizero.cz CNAME .
@@ -931,7 +929,6 @@ provize.wugi.cz CNAME .
 provize.zazitkovelety.cz CNAME .
 provizia.mimulo.sk CNAME .
 proviznisystem.kanclir.cz CNAME .
-royalfamily.royalchaga.sk CNAME .
 special.kvetinyexpres.cz CNAME .
 splatky.aquatrend.sk CNAME .
 spolu.kuskakaa.cz CNAME .

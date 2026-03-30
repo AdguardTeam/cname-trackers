@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,8 +29,6 @@ analytics.witglobal.net CNAME .
 dap.amsterdam.nl CNAME .
 dnsbl.test.tag.aumago.com CNAME .
 epiphany.masterworks.digital CNAME .
-fpt.fjordtravel.no CNAME .
-fpt.gofjords.com CNAME .
 gmn.gloo.com CNAME .
 inzicht.cz.nl CNAME .
 logfiles.storck.com CNAME .
@@ -44,7 +42,6 @@ piwik.eif.org CNAME .
 piwik.slotsparadise.com CNAME .
 piwik.twyzle.com CNAME .
 piwik.vegasaces.com CNAME .
-piwikpro.vodafone.com CNAME .
 polpharmaanalytics.pl CNAME .
 purple.fitchconnect.com CNAME .
 pwk.tweedekamer.nl CNAME .

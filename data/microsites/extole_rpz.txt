@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1773154494060        ; Serial
+           1774857630741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -129,9 +129,9 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em2287.theory.com CNAME .
-em4504.mail.raf.xfinity.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -257,7 +257,6 @@ refer.gapcanada.ca CNAME .
 refer.gardenoflife.com CNAME .
 refer.garnethill.com CNAME .
 refer.giantfood.com CNAME .
-refer.giantfoodstores.com CNAME .
 refer.glamglow.com CNAME .
 refer.globalknowledge.com CNAME .
 refer.gnc.com CNAME .
@@ -319,7 +318,6 @@ refer.luminasolar.com CNAME .
 refer.lumosfiber.com CNAME .
 refer.madison-reed.com CNAME .
 refer.marinerfinance.com CNAME .
-refer.martinsfoods.com CNAME .
 refer.merrell.com CNAME .
 refer.midlandsb.com CNAME .
 refer.minted.com CNAME .
@@ -793,11 +791,11 @@ www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
+em2287.theory.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em4504.mail.raf.xfinity.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
 em8031.soundcloud.com CNAME .

@@ -69,6 +69,7 @@ science.ygoprint.org
 st.mapleranks.com
 statgarden.florinesueur.fr
 statistic.elkobraas.com
+statistics.wafflzz.xyz
 stats-blog.lewsion.com
 stats-ruzickap-github-io.ruzicka.dev
 stats.45rpm.ch

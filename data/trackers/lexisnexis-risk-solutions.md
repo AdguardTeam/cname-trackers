@@ -11,6 +11,7 @@
     * h-11b6fun8cno.online-metrix.net
     * h-11qvvm7d.online-metrix.net
     * h-12jodw87.online-metrix.net
+    * h-12za07tg.online-metrix.net
     * h-1382cmqz.online-metrix.net
     * h-15dxj0k6.online-metrix.net
     * h-16vzjy52.online-metrix.net
@@ -222,6 +223,7 @@
     * h-97a2qrzs.online-metrix.net
     * h-97sdcyug.online-metrix.net
     * h-98oju8tz.online-metrix.net
+    * h-9b36g8gw.online-metrix.net
     * h-9biwblyw.online-metrix.net
     * h-9bkavv7r.online-metrix.net
     * h-9f85se8g-pav.online-metrix.net
@@ -245,6 +247,7 @@
     * h-a5j4qgb0.online-metrix.net
     * h-a5yvxncp.online-metrix.net
     * h-a6up3qco.online-metrix.net
+    * h-a95tl04l.online-metrix.net
     * h-a9ndqgz3.online-metrix.net
     * h-a9vkgbg7-2.online-metrix.net
     * h-a9vkgbg7.online-metrix.net
@@ -485,7 +488,6 @@
     * h-dsa7i4o8.online-metrix.net
     * h-dst402ij.online-metrix.net
     * h-dstssc.online-metrix.net
-    * h-dszu15n8.online-metrix.net
     * h-dubkxo24.online-metrix.net
     * h-dwiy84jk-a.online-metrix.net
     * h-dwiy84jk.online-metrix.net
@@ -601,7 +603,6 @@
     * h-k8vif92e.goto.online-metrix.net
     * h-k8vif92e.online-metrix.net
     * h-k8vif92e.qat.online-metrix.net
-    * h-k8vif92e.sri3.online-metrix.net
     * h-k8vif92e.ytgate.online-metrix.net
     * h-kelmar-ak.online-metrix.net
     * h-kelmar-argov.online-metrix.net
@@ -880,6 +881,7 @@
 | content.mycno.com | h-11b6fun8cno.online-metrix.net |
 | content.myfloridaprepaid.com | h-11qvvm7d.online-metrix.net |
 | cdna.tiranabank.al | h-12jodw87.online-metrix.net |
+| contentservices.firstlightlending.com | h-12za07tg.online-metrix.net |
 | rmetrix.superbid.net | h-1382cmqz.online-metrix.net |
 | lnday.sinclair.edu | h-15dxj0k6.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
@@ -947,6 +949,7 @@
 | prod-njfcunj.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-northland.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-oneaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-orangeccu-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-pacservice.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-pathways.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-prospera.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1012,7 +1015,6 @@
 | fp.marisota.co.uk | h-2n067wr9.online-metrix.net |
 | fp.premierman.com | h-2n067wr9.online-metrix.net |
 | fp.simplybe.co.uk | h-2n067wr9.online-metrix.net |
-| tmx.banquemanuvie.com | h-2odx9gtz.online-metrix.net |
 | tmx.manulifebank.com | h-2odx9gtz.online-metrix.net |
 | content-dt.crepassplus.com | h-2pd5ywft.online-metrix.net |
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
@@ -1146,6 +1148,7 @@
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
 | tblsdp.staging.tonybet.ca | h-6mlhprq2-a.online-metrix.net |
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
+| cim-idc-cdn.account.hcsctest.net | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbsok.com | h-6ne0huru.online-metrix.net |
 | myuw5.nj.gov | h-6r2adsk3.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
@@ -1365,6 +1368,7 @@
 | tmcdn.spingalaxy.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spinpalace.com | h-98oju8tz.online-metrix.net |
 | tmcdn.vegaspalmscasino.com | h-98oju8tz.online-metrix.net |
+| ln.kohls.com | h-9b36g8gw.online-metrix.net |
 | metrix.ancestry.com | h-9biwblyw.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | wkvjee5b.paviliononline.io | h-9f85se8g-pav.online-metrix.net |
@@ -1389,6 +1393,7 @@
 | ebcontent.mcbankny.com | h-a5j4qgb0.online-metrix.net |
 | ssl.payjustnow.com | h-a5yvxncp.online-metrix.net |
 | content.rendimento.com.br | h-a6up3qco.online-metrix.net |
+| ln.hijackpoker.com | h-a95tl04l.online-metrix.net |
 | fms.perahub.com.ph | h-a9ndqgz3.online-metrix.net |
 | tcontent.auchantelecom.fr | h-a9vkgbg7-2.online-metrix.net |
 | tcontent.nrjmobile.fr | h-a9vkgbg7.online-metrix.net |
@@ -1742,7 +1747,6 @@
 | dp.lottogo.com | h-dst402ij.online-metrix.net |
 | lspr.luckycasino.ca | h-dst402ij.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
-| acdc.toolineo.de | h-dszu15n8.online-metrix.net |
 | xmt.paze.com | h-dubkxo24.online-metrix.net |
 | servicesdp.spinaway.ca | h-dwiy84jk-a.online-metrix.net |
 | servicesdp.luckydays.ca | h-dwiy84jk.online-metrix.net |
@@ -1939,7 +1943,6 @@
 | cdn-east.purchase.goto.com | h-k8vif92e.goto.online-metrix.net |
 | cybersource.shoplineapp.com | h-k8vif92e.online-metrix.net |
 | qrimages.qatarairways.com | h-k8vif92e.qat.online-metrix.net |
-| uldfp.srilankan.com | h-k8vif92e.sri3.online-metrix.net |
 | t.yt-guard.com | h-k8vif92e.ytgate.online-metrix.net |
 | tag.unclaimedproperty.alaska.gov | h-kelmar-ak.online-metrix.net |
 | tag.claimitar.gov | h-kelmar-argov.online-metrix.net |
