@@ -19,9 +19,12 @@ aegis.miio.mx
 af.mobile.free.fr
 afm.alphatick.com
 afm.alphatick.com.au
+afm.asiacngw.co
 afm.asiacngw.com
 afm.cnthevtmarkets.com
 afm.cnvtglobal.com
+afm.cnvtmarketsgroup.com
+afm.croin.cloud
 afm.crointech.io
 afm.gcnvtmarkets.com
 afm.hoiltech.info
@@ -29,10 +32,13 @@ afm.infinox.com
 afm.monetaindonesia.com
 afm.monetamarkets.com
 afm.monetamarketsit.com
+afm.monetamarketsvn.com
 afm.monetaturkey.com
+afm.mystarmarket.com
 afm.pu-prime.com
 afm.puprime.com
 afm.puprime.online
+afm.startrader-china.com
 afm.startrader.asia
 afm.startrader.com
 afm.startrader.live
@@ -51,12 +57,15 @@ afm.sthub.cc
 afm.strmarketing.net
 afm.strpro.me
 afm.thestarmkt.com
+afm.thestarpro.com
+afm.thevantagemarkets.com
 afm.ultima-markets.com
 afm.ultimamarkets.asia
 afm.ultimamarkets.com
 afm.ultimamarkets.net
 afm.ultimamarketsglobal.com
 afm.ultimamkts.com
+afm.ultimarketshk.hk
 afm.umtradings.com
 afm.umultima.hk
 afm.vantage-markets-apac.com
@@ -78,6 +87,7 @@ afm.vtg-mkts.com
 afm.vtglobalchn.com
 afm.vtglobalcn.com
 afm.vtglobalgroup.com
+afm.vtglobalvn.com
 afm.vtmarkets.co
 afm.vtmarkets.com
 afm.vtmarkets.net
@@ -196,6 +206,7 @@ cdna.moncofidispro.fr
 cdna.paiement.cofidis.fr
 cdna.paymentncb.cofidis.es
 cdna.paymentncb.cofidis.fr
+cdna.retail.cofidis.es
 cdna.rqt-cl-paiement.cofidis.fr
 cdna.rqt-paiement.cofidis.fr
 cdna.tiranabank.al
@@ -270,6 +281,7 @@ cim-idc-cdn.account.bcbstx.com
 cim-idc-cdn.account.hcsc.net
 cim-idc-cdn.account.hcsctest.net
 cim-idc-cdn.account.test.bcbsok.com
+cim-idc-cdn.account.test.bcbstx.com
 cim-idc-cdn.account.wellontarget.com
 claimant.vec.virginia.gov
 clear.wallapop.com
@@ -628,6 +640,7 @@ fp.jacamo.co.uk
 fp.jdwilliams.co.uk
 fp.joyobank.chance.co.jp
 fp.marisota.co.uk
+fp.nypti.org
 fp.premierman.com
 fp.simplybe.co.uk
 fp.ubagroup.com
@@ -1245,6 +1258,7 @@ tm.tbcbusiness.uz
 tm.telecharge.com
 tm.thescore.bet
 tm.uship.com
+tm4.debsdemo.com
 tmcdn.7sultanscasino.com
 tmcdn.alljackpotscasino.com
 tmcdn.allslotscasino.com
@@ -1401,6 +1415,7 @@ www.cdna.cofidis.be
 www.content.bnpparibas.net
 www.content.connexion-mabanque.bnpparibas
 www.content.espace-client.hellobank.fr
+www.content.hellobank.fr
 www.content.mabanque.bnpparibas
 www.content.mabanqueprivee.bnpparibas
 www.content.mabanquepro.bnpparibas

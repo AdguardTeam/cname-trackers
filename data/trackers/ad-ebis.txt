@@ -243,7 +243,6 @@
 ||ebis.coyori.com^
 ||ebis.cp.claudia.co.jp^
 ||ebis.delis.co.jp^
-||ebis.eiyoushi-tensyoku.com^
 ||ebis.forcas.com^
 ||ebis.funai-finance.com^
 ||ebis.funaisoken.co.jp^

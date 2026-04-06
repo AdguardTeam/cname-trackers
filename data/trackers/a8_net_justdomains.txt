@@ -246,6 +246,7 @@ a8.polyglots.net
 a8.princess-jp.com
 a8.print-netsquare.com
 a8.projectee.online
+a8.propertyplus.jp
 a8.pykespeak.jp
 a8.rank-quest.jp
 a8.recmount-plus.com
@@ -362,6 +363,7 @@ a8.yuzen-official.com
 a8.zen-camps.com
 a8.zeroku.jp
 a8.zipan.jp
+a8.zwiesel-glas.co.jp
 a8.zzz-land.com
 a802.xn--38jf6c4pa86a1dv833cexrb.com
 a803.xn--38jf6c4pa86a1dv833cexrb.com
@@ -424,7 +426,6 @@ a8clk.camerakaitori.jp
 a8clk.campaigns.kaitori-premium.jp
 a8clk.campaigns.speed-kaitori.jp
 a8clk.car-mo.jp
-a8clk.carbattery110.com
 a8clk.career.prismy.jp
 a8clk.carenessapp.lifekarte.com
 a8clk.cart.amahada.com
@@ -785,7 +786,6 @@ a8cv.ama-create.com
 a8cv.amiami.jp
 a8cv.anapnet.com
 a8cv.androsophybaby.com
-a8cv.ans-ec.shop
 a8cv.antiaging-eshop.com
 a8cv.aplod.jp
 a8cv.aquasilver.co.jp
@@ -1451,7 +1451,6 @@ clk.glam-print.com
 clk.liberty-e.com
 clk.wagon-hire.com
 clkcv.livede55.com
-complete.smilecbd.jp
 contact.kdg-yobi.com
 cv-match.sharebase.jp
 cv.2jikaikun.com

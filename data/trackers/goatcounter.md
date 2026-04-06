@@ -25,6 +25,7 @@
     * blu3id-uk.goatcounter.com
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
+    * burningbutter.goatcounter.com
     * cassie.goatcounter.com
     * celerry.goatcounter.com
     * certidiritti.goatcounter.com
@@ -98,6 +99,7 @@
     * lena-binkowski.goatcounter.com
     * linerly.goatcounter.com
     * localhosed.goatcounter.com
+    * low-quality-transcripts.goatcounter.com
     * lspeed.goatcounter.com
     * maik-dev.goatcounter.com
     * maple.goatcounter.com
@@ -108,7 +110,6 @@
     * mine.goatcounter.com
     * mlcet.goatcounter.com
     * msol.goatcounter.com
-    * neocode24.goatcounter.com
     * neverhill.goatcounter.com
     * ngdangtu.goatcounter.com
     * niravraval.goatcounter.com
@@ -153,6 +154,7 @@
     * thedave-photos.goatcounter.com
     * timothechauvet.goatcounter.com
     * tinkerertools.goatcounter.com
+    * tnrdigital.goatcounter.com
     * tomatomtl.goatcounter.com
     * trainsley69.goatcounter.com
     * transactionalblog.goatcounter.com
@@ -202,6 +204,7 @@
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
+| tracking.burningbutter.com | burningbutter.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
 | stats.certidiritti.org | certidiritti.goatcounter.com |
@@ -278,6 +281,7 @@
 | stats.lena-binkowski.de | lena-binkowski.goatcounter.com |
 | stats.linerly.xyz | linerly.goatcounter.com |
 | stats.svc.lol | localhosed.goatcounter.com |
+| stats.issues.cooking | low-quality-transcripts.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |
 | st.mapleranks.com | maple.goatcounter.com |
@@ -291,7 +295,6 @@
 | stats.raycordlegends.com | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
-| goatcounter.neocode24.com | neocode24.goatcounter.com |
 | goat.neverhill.net | neverhill.goatcounter.com |
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
 | stats.niravraval.com | niravraval.goatcounter.com |
@@ -336,6 +339,7 @@
 | goatcounter.thedave.photos | thedave-photos.goatcounter.com |
 | stats.timothechau.vet | timothechauvet.goatcounter.com |
 | stats.tinkerer.tools | tinkerertools.goatcounter.com |
+| stats.lakeloui.se | tnrdigital.goatcounter.com |
 | analytics.tomatomtl.com | tomatomtl.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
 | stats.transactional.blog | transactionalblog.goatcounter.com |

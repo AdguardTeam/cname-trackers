@@ -4,10 +4,8 @@
 
 * piwik.pro
     * adnoc.piwik.pro
-    * akvo.piwik.pro
     * amsterdam.piwik.pro
     * aumago.piwik.pro
-    * betus.piwik.pro
     * czgroep.piwik.pro
     * dealerspike-prod.piwik.pro
     * ec-prod-infra.piwik.pro
@@ -18,13 +16,12 @@
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
     * helen.piwik.pro
+    * hogeschool.piwik.pro
     * ind.piwik.pro
-    * kela.piwik.pro
     * kuka.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
-    * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * polpharma.piwik.pro
     * pp-koop-p-euw.piwik.pro
@@ -58,12 +55,9 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | www.webengage.ae | adnoc.piwik.pro |
-| analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
-| piwik.slotsparadise.com | betus.piwik.pro |
-| piwik.vegasaces.com | betus.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
@@ -75,14 +69,13 @@
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
+| analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
-| stat.kela.fi | kela.piwik.pro |
 | p-k.kuka.com | kuka.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
-| statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | polpharmaanalytics.pl | polpharma.piwik.pro |
 | tagmanager.becop.nl | pp-koop-p-euw.piwik.pro |
@@ -94,6 +87,7 @@
 | analytics.akvo.org | pp-public-p-euw.piwik.pro |
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
+| analytics.hr.nl | pp-public-p-euw.piwik.pro |
 | analytics.hr.nl | pp-public-p-euw.piwik.pro |
 | analytics.webanalytics.op.europa.eu | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
@@ -108,8 +102,6 @@
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
-| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
-| piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | polpharmaanalytics.pl | pp-public-p-euw.piwik.pro |
 | polpharmaanalytics.pl | pp-public-p-euw.piwik.pro |
@@ -167,7 +159,6 @@
 | piwik.twyzle.com | twyzle-prod.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
-| stat.kela.fi | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
 | stats.arinet.com | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |

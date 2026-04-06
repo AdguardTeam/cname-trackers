@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,7 @@ r.flatlong.shop CNAME .
 r.fluxora1.space CNAME .
 r.maintoast.com CNAME .
 r.maintrck.com CNAME .
+r.nexoraid1.space CNAME .
 r.scraperib.com CNAME .
 r.silvertrck.com CNAME .
 r.smttrck.com CNAME .
@@ -48,6 +49,8 @@ t.snaptrckr.fun CNAME .
 t.sptrck.com CNAME .
 t.trackora.space CNAME .
 t.trackpulse.uno CNAME .
+t.traklume.space CNAME .
+t.trckforge.site CNAME .
 t.trcktr.com CNAME .
 t.trkav.name CNAME .
 t.vpntrck.com CNAME .

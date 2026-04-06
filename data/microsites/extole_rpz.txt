@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -129,9 +129,13 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
+em225.codecademy.com CNAME .
+em2287.theory.com CNAME .
+em4504.mail.raf.xfinity.com CNAME .
+em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
+em767.forgetrust.com CNAME .
+em7952.dailypay.com CNAME .
 em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -514,6 +518,7 @@ share.burpee.com CNAME .
 share.buttahskin.com CNAME .
 share.bvwines.com CNAME .
 share.caller.com CNAME .
+share.candyinbulk.com CNAME .
 share.carparts.com CNAME .
 share.cefaly.com CNAME .
 share.ceifx.com CNAME .
@@ -736,6 +741,7 @@ share.suffolkcu.org CNAME .
 share.sundaysfordogs.com CNAME .
 share.suneast.org CNAME .
 share.swordhealth.com CNAME .
+share.swyftfiber.com CNAME .
 share.tallahassee.com CNAME .
 share.tauntongazette.com CNAME .
 share.tcpalm.com CNAME .
@@ -790,14 +796,10 @@ www.rob.extoleu.com CNAME .
 www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
-em225.codecademy.com CNAME .
-em2287.theory.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em4504.mail.raf.xfinity.com CNAME .
-em5230.rewards.dailypay.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
-em767.forgetrust.com CNAME .
-em7952.dailypay.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em8031.soundcloud.com CNAME .
 em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .

@@ -200,6 +200,7 @@
 | utiq.goettinger-tageblatt.de | frontend.prod.utiq-aws.net |
 | utiq.grazia.fr | frontend.prod.utiq-aws.net |
 | utiq.groupmintelligence.com | frontend.prod.utiq-aws.net |
+| utiq.gumtree.com | frontend.prod.utiq-aws.net |
 | utiq.gutefrage.net | frontend.prod.utiq-aws.net |
 | utiq.hallo-eltern.de | frontend.prod.utiq-aws.net |
 | utiq.hallo-muenchen.de | frontend.prod.utiq-aws.net |
@@ -374,6 +375,7 @@
 | utiq.numerama.com | frontend.prod.utiq-aws.net |
 | utiq.oberhessische-zeitung.de | frontend.prod.utiq-aws.net |
 | utiq.oktoberfest.bayern | frontend.prod.utiq-aws.net |
+| utiq.olivemagazine.com | frontend.prod.utiq-aws.net |
 | utiq.ondavasca.com | frontend.prod.utiq-aws.net |
 | utiq.op-marburg.de | frontend.prod.utiq-aws.net |
 | utiq.op-online.de | frontend.prod.utiq-aws.net |

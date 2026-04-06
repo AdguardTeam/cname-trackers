@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ analytics.meygeneralbau.de CNAME .
 assets.telefonanlage-shop.de CNAME .
 atrdb.laeckerli-huus.ch CNAME .
 auszeichnungen.pokale-nrw.de CNAME .
+b54.bude54.de CNAME .
 bb.novafon.com CNAME .
 betterdata.kruu.com CNAME .
 bmkt.bernhardtmoden.de CNAME .
@@ -165,6 +166,7 @@ met.hanser-automotive.de CNAME .
 met.hanser-kundencenter.de CNAME .
 met.hanser-literaturverlage.de CNAME .
 met.kunststoffe.de CNAME .
+met.qz-online.de CNAME .
 met.werkstatt-betrieb.de CNAME .
 meter.rhinobag.de CNAME .
 metrics.bauwerk.de CNAME .
@@ -208,10 +210,13 @@ ric.arrive-im-herzogpark.de CNAME .
 ric.riedel-immobilien.de CNAME .
 ric.seeleben-starnbergersee.de CNAME .
 s.hamburg.de CNAME .
+s.lotto-hessen.de CNAME .
 salzburg.pankart.dev CNAME .
 salzburg.semsea.at CNAME .
+server.cargocover.de CNAME .
 sf.schufa.de CNAME .
 show.gruppedrei.com CNAME .
+sitetrack.jawx.de CNAME .
 sltracking.sonderlote.de CNAME .
 src.vector.com CNAME .
 sst.cannapoli.de CNAME .
@@ -317,6 +322,7 @@ web.sihl-direct.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcon.se-legal.de CNAME .
+webcont.zorge.com CNAME .
 webcontr-erbe.mein-erbe-tut-gutes.de CNAME .
 webcontr-magazin.mein-erbe-tut-gutes.de CNAME .
 webcontr.4pace.com CNAME .
@@ -346,6 +352,7 @@ webcontr.in-akustik.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.jalousiescout.de CNAME .
 webcontr.kabelschuhe-shop.de CNAME .
+webcontr.karbenopenair.de CNAME .
 webcontr.kindergartenbedarf-haidig.de CNAME .
 webcontr.kitchen-concept.de CNAME .
 webcontr.kontor4.de CNAME .
@@ -370,6 +377,7 @@ webcontr.roewa.com CNAME .
 webcontr.rollytoys.de CNAME .
 webcontr.ryzon.net CNAME .
 webcontr.scandtrack.com CNAME .
+webcontr.selecta-matratzen.com CNAME .
 webcontr.shirtlabor.de CNAME .
 webcontr.sienagarden.de CNAME .
 webcontr.solipac.de CNAME .
@@ -390,6 +398,7 @@ webcontr.wolkenlosundheiter.de CNAME .
 webcontr.yourfashionplace.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
+webdat.mai-estate.com CNAME .
 webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
@@ -400,6 +409,7 @@ webstt0011.onofficeom.com CNAME .
 webstt0012.onofficeom.com CNAME .
 webstt0015.onofficeom.com CNAME .
 webstt0016.onofficeom.com CNAME .
+webstt0017.onofficeom.com CNAME .
 webstt0019.onofficeom.com CNAME .
 webstt0020.onofficeom.com CNAME .
 webstt0021.onofficeom.com CNAME .

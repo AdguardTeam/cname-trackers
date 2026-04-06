@@ -320,7 +320,6 @@ my.kickz.com
 my.top4fitness.cz
 my.top4fitness.de
 my.top4fitness.fi
-my.top4fitness.fr
 my.top4fitness.gr
 my.top4fitness.it
 my.top4fitness.pl
@@ -380,6 +379,7 @@ my.weplayhandball.hu
 my.weplayhandball.it
 my.weplayhandball.lt
 my.weplayhandball.nl
+my.weplayhandball.pl
 my.weplayhandball.ro
 my.weplayhandball.si
 my.weplayhandball.sk
@@ -447,7 +447,6 @@ partner.brillbird.cz
 partner.burzazive.cz
 partner.bydlimekrasne.cz
 partner.cakemarket.eu
-partner.calita.cz
 partner.candy.cz
 partner.caskrmeni.cz
 partner.cbdcko.cz
@@ -677,7 +676,6 @@ partner.prosperk.cz
 partner.psidetektiv.cz
 partner.pureharmony.cz
 partner.resinstudio.cz
-partner.respelen.cz
 partner.root.cz
 partner.rozhladna.sk
 partner.roztouzeny.cz
@@ -837,7 +835,6 @@ partneri.mrblast.eu
 partneri.muzeslepe.cz
 partneri.mydlatamara.sk
 partneri.nabytek-natali.cz
-partneri.naenergie.cz
 partneri.natu.cz
 partneri.nutricbistro.cz
 partneri.onlinejazyky.cz

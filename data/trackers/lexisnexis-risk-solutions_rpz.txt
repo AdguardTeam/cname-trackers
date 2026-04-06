@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,9 +30,12 @@ aegis.miio.mx CNAME .
 af.mobile.free.fr CNAME .
 afm.alphatick.com CNAME .
 afm.alphatick.com.au CNAME .
+afm.asiacngw.co CNAME .
 afm.asiacngw.com CNAME .
 afm.cnthevtmarkets.com CNAME .
 afm.cnvtglobal.com CNAME .
+afm.cnvtmarketsgroup.com CNAME .
+afm.croin.cloud CNAME .
 afm.crointech.io CNAME .
 afm.gcnvtmarkets.com CNAME .
 afm.hoiltech.info CNAME .
@@ -40,10 +43,13 @@ afm.infinox.com CNAME .
 afm.monetaindonesia.com CNAME .
 afm.monetamarkets.com CNAME .
 afm.monetamarketsit.com CNAME .
+afm.monetamarketsvn.com CNAME .
 afm.monetaturkey.com CNAME .
+afm.mystarmarket.com CNAME .
 afm.pu-prime.com CNAME .
 afm.puprime.com CNAME .
 afm.puprime.online CNAME .
+afm.startrader-china.com CNAME .
 afm.startrader.asia CNAME .
 afm.startrader.com CNAME .
 afm.startrader.live CNAME .
@@ -62,12 +68,15 @@ afm.sthub.cc CNAME .
 afm.strmarketing.net CNAME .
 afm.strpro.me CNAME .
 afm.thestarmkt.com CNAME .
+afm.thestarpro.com CNAME .
+afm.thevantagemarkets.com CNAME .
 afm.ultima-markets.com CNAME .
 afm.ultimamarkets.asia CNAME .
 afm.ultimamarkets.com CNAME .
 afm.ultimamarkets.net CNAME .
 afm.ultimamarketsglobal.com CNAME .
 afm.ultimamkts.com CNAME .
+afm.ultimarketshk.hk CNAME .
 afm.umtradings.com CNAME .
 afm.umultima.hk CNAME .
 afm.vantage-markets-apac.com CNAME .
@@ -89,6 +98,7 @@ afm.vtg-mkts.com CNAME .
 afm.vtglobalchn.com CNAME .
 afm.vtglobalcn.com CNAME .
 afm.vtglobalgroup.com CNAME .
+afm.vtglobalvn.com CNAME .
 afm.vtmarkets.co CNAME .
 afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
@@ -207,6 +217,7 @@ cdna.moncofidispro.fr CNAME .
 cdna.paiement.cofidis.fr CNAME .
 cdna.paymentncb.cofidis.es CNAME .
 cdna.paymentncb.cofidis.fr CNAME .
+cdna.retail.cofidis.es CNAME .
 cdna.rqt-cl-paiement.cofidis.fr CNAME .
 cdna.rqt-paiement.cofidis.fr CNAME .
 cdna.tiranabank.al CNAME .
@@ -281,6 +292,7 @@ cim-idc-cdn.account.bcbstx.com CNAME .
 cim-idc-cdn.account.hcsc.net CNAME .
 cim-idc-cdn.account.hcsctest.net CNAME .
 cim-idc-cdn.account.test.bcbsok.com CNAME .
+cim-idc-cdn.account.test.bcbstx.com CNAME .
 cim-idc-cdn.account.wellontarget.com CNAME .
 claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
@@ -639,6 +651,7 @@ fp.jacamo.co.uk CNAME .
 fp.jdwilliams.co.uk CNAME .
 fp.joyobank.chance.co.jp CNAME .
 fp.marisota.co.uk CNAME .
+fp.nypti.org CNAME .
 fp.premierman.com CNAME .
 fp.simplybe.co.uk CNAME .
 fp.ubagroup.com CNAME .
@@ -1256,6 +1269,7 @@ tm.tbcbusiness.uz CNAME .
 tm.telecharge.com CNAME .
 tm.thescore.bet CNAME .
 tm.uship.com CNAME .
+tm4.debsdemo.com CNAME .
 tmcdn.7sultanscasino.com CNAME .
 tmcdn.alljackpotscasino.com CNAME .
 tmcdn.allslotscasino.com CNAME .
@@ -1412,6 +1426,7 @@ www.cdna.cofidis.be CNAME .
 www.content.bnpparibas.net CNAME .
 www.content.connexion-mabanque.bnpparibas CNAME .
 www.content.espace-client.hellobank.fr CNAME .
+www.content.hellobank.fr CNAME .
 www.content.mabanque.bnpparibas CNAME .
 www.content.mabanqueprivee.bnpparibas CNAME .
 www.content.mabanquepro.bnpparibas CNAME .

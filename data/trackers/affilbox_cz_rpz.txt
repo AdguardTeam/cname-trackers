@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -331,7 +331,6 @@ my.kickz.com CNAME .
 my.top4fitness.cz CNAME .
 my.top4fitness.de CNAME .
 my.top4fitness.fi CNAME .
-my.top4fitness.fr CNAME .
 my.top4fitness.gr CNAME .
 my.top4fitness.it CNAME .
 my.top4fitness.pl CNAME .
@@ -391,6 +390,7 @@ my.weplayhandball.hu CNAME .
 my.weplayhandball.it CNAME .
 my.weplayhandball.lt CNAME .
 my.weplayhandball.nl CNAME .
+my.weplayhandball.pl CNAME .
 my.weplayhandball.ro CNAME .
 my.weplayhandball.si CNAME .
 my.weplayhandball.sk CNAME .
@@ -458,7 +458,6 @@ partner.brillbird.cz CNAME .
 partner.burzazive.cz CNAME .
 partner.bydlimekrasne.cz CNAME .
 partner.cakemarket.eu CNAME .
-partner.calita.cz CNAME .
 partner.candy.cz CNAME .
 partner.caskrmeni.cz CNAME .
 partner.cbdcko.cz CNAME .
@@ -688,7 +687,6 @@ partner.prosperk.cz CNAME .
 partner.psidetektiv.cz CNAME .
 partner.pureharmony.cz CNAME .
 partner.resinstudio.cz CNAME .
-partner.respelen.cz CNAME .
 partner.root.cz CNAME .
 partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
@@ -848,7 +846,6 @@ partneri.mrblast.eu CNAME .
 partneri.muzeslepe.cz CNAME .
 partneri.mydlatamara.sk CNAME .
 partneri.nabytek-natali.cz CNAME .
-partneri.naenergie.cz CNAME .
 partneri.natu.cz CNAME .
 partneri.nutricbistro.cz CNAME .
 partneri.onlinejazyky.cz CNAME .

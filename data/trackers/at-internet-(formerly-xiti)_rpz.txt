@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ d.santemagazine.fr CNAME .
 da.freo.nl CNAME .
 da.maif.fr CNAME .
 da.rabobank.nl CNAME .
+data.lelivrescolaire.fr CNAME .
 dfr.deloitte.com CNAME .
 digitalninjas.vattenfall.nl CNAME .
 dimensions.mappy.com CNAME .

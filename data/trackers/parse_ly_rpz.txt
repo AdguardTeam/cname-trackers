@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,10 +19,12 @@ fpa-cdn.arstechnica.com CNAME .
 fpa-cdn.atozsports.com CNAME .
 fpa-cdn.decrypt.co CNAME .
 fpa-cdn.newsweek.com CNAME .
+fpa-cdn.rollingstone.com CNAME .
 fpa-cdn.slate.com CNAME .
 fpa-events.adweek.com CNAME .
 fpa-events.arstechnica.com CNAME .
 fpa-events.atozsports.com CNAME .
 fpa-events.decrypt.co CNAME .
 fpa-events.newsweek.com CNAME .
+fpa-events.rollingstone.com CNAME .
 fpa-events.slate.com CNAME .

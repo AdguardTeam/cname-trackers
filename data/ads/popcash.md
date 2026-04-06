@@ -458,7 +458,6 @@
 | guppy.ausowned.com.au | deprecated-custom-domains.b-cdn.net |
 | guppy.ironmic.fm | deprecated-custom-domains.b-cdn.net |
 | guppy.omana.me | deprecated-custom-domains.b-cdn.net |
-| haddock.jeffreyknox.dev | deprecated-custom-domains.b-cdn.net |
 | haddock.simgenie.app | deprecated-custom-domains.b-cdn.net |
 | halibut.codehooks.io | deprecated-custom-domains.b-cdn.net |
 | halibut.jimruegolfinstruction.com | deprecated-custom-domains.b-cdn.net |
@@ -857,7 +856,6 @@
 | takin.cors.digital | deprecated-custom-domains.b-cdn.net |
 | takin.revolana.fr | deprecated-custom-domains.b-cdn.net |
 | tapir.albertaguardtraining.ca | deprecated-custom-domains.b-cdn.net |
-| tarantula.emotionalbaking.com | deprecated-custom-domains.b-cdn.net |
 | tarantula.searchbox.tech | deprecated-custom-domains.b-cdn.net |
 | tarantula.tuxedo.media | deprecated-custom-domains.b-cdn.net |
 | tarsier.emitremmus.com | deprecated-custom-domains.b-cdn.net |
@@ -1029,6 +1027,7 @@
 | cdn.gpcrn.com | popcashjs.b-cdn.net |
 | cdn.hhjow.com | popcashjs.b-cdn.net |
 | cdn.hhmako.cloud | popcashjs.b-cdn.net |
+| cdn.hhmop.cloud | popcashjs.b-cdn.net |
 | cdn.hjklq.com | popcashjs.b-cdn.net |
 | cdn.holenhw.com | popcashjs.b-cdn.net |
 | cdn.hqwa.xyz | popcashjs.b-cdn.net |

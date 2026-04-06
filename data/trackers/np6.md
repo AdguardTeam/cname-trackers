@@ -66,6 +66,7 @@
 | tr.alex.espmp-agfr.net | tracking.bp01.net |
 | tr.allianz-trade.com | tracking.bp01.net |
 | tr.animation.lexpress.fr | tracking.bp01.net |
+| tr.animation.micromania.fr | tracking.bp01.net |
 | tr.animations.bfmtv.com | tracking.bp01.net |
 | tr.animations.rmcbfm.com | tracking.bp01.net |
 | tr.apac.coms.moethennessy.com | tracking.bp01.net |
@@ -321,7 +322,6 @@
 | tr.contrats.domofinance.fr | tracking.bp01.net |
 | tr.corporate.moethennessy.com | tracking.bp01.net |
 | tr.courriel.conexvous.com | tracking.bp01.net |
-| tr.courriel.ganassurances.fr | tracking.bp01.net |
 | tr.courriel.mae.fr | tracking.bp01.net |
 | tr.courrier.charentelibre.fr | tracking.bp01.net |
 | tr.courrier.larepubliquedespyrenees.fr | tracking.bp01.net |

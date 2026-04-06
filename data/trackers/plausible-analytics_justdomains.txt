@@ -34,7 +34,6 @@ analytics.sixfigureswine.com
 analytics.teamcovenant.com
 analytics.thegroupbuyexperiment.com
 analytics.top10-charts.com
-analytics.trust.page
 analytics.uxmetrics.com
 analytics.valheimgamer.com
 analytics.wayland.app
@@ -42,6 +41,7 @@ analytics.whostheboss.co.uk
 analytics.whotargets.me
 analytics.winter.ink
 analytics.xiloc.net
+analytics.yourfitkitchen.nl
 analytics.zenleven.nl
 antitracking.owncast.online
 api.digitalpiloten.org

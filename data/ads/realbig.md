@@ -8,7 +8,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| 1.xcfaprb0325.ru | park.realbig.online |
 | a.rb-ya.ru | park.realbig.online |
 | a.resr.ru | park.realbig.online |
 | a.ridd.ru | park.realbig.online |
@@ -54,6 +53,7 @@
 | servw.bid | park.realbig.online |
 | tuesdaysale.bid | park.realbig.online |
 | vi.zolivexo.store | park.realbig.online |
+| workerhome.click | park.realbig.online |
 | www.5738.ru | park.realbig.online |
 | www.allworldinfo5.ru | park.realbig.online |
 | www.androidstores.ru | park.realbig.online |

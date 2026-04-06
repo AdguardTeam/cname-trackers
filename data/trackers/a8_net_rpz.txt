@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -257,6 +257,7 @@ a8.polyglots.net CNAME .
 a8.princess-jp.com CNAME .
 a8.print-netsquare.com CNAME .
 a8.projectee.online CNAME .
+a8.propertyplus.jp CNAME .
 a8.pykespeak.jp CNAME .
 a8.rank-quest.jp CNAME .
 a8.recmount-plus.com CNAME .
@@ -373,6 +374,7 @@ a8.yuzen-official.com CNAME .
 a8.zen-camps.com CNAME .
 a8.zeroku.jp CNAME .
 a8.zipan.jp CNAME .
+a8.zwiesel-glas.co.jp CNAME .
 a8.zzz-land.com CNAME .
 a802.xn--38jf6c4pa86a1dv833cexrb.com CNAME .
 a803.xn--38jf6c4pa86a1dv833cexrb.com CNAME .
@@ -435,7 +437,6 @@ a8clk.camerakaitori.jp CNAME .
 a8clk.campaigns.kaitori-premium.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
 a8clk.car-mo.jp CNAME .
-a8clk.carbattery110.com CNAME .
 a8clk.career.prismy.jp CNAME .
 a8clk.carenessapp.lifekarte.com CNAME .
 a8clk.cart.amahada.com CNAME .
@@ -796,7 +797,6 @@ a8cv.ama-create.com CNAME .
 a8cv.amiami.jp CNAME .
 a8cv.anapnet.com CNAME .
 a8cv.androsophybaby.com CNAME .
-a8cv.ans-ec.shop CNAME .
 a8cv.antiaging-eshop.com CNAME .
 a8cv.aplod.jp CNAME .
 a8cv.aquasilver.co.jp CNAME .
@@ -1462,7 +1462,6 @@ clk.glam-print.com CNAME .
 clk.liberty-e.com CNAME .
 clk.wagon-hire.com CNAME .
 clkcv.livede55.com CNAME .
-complete.smilecbd.jp CNAME .
 contact.kdg-yobi.com CNAME .
 cv-match.sharebase.jp CNAME .
 cv.2jikaikun.com CNAME .

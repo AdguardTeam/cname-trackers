@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ tr.agefiseminaires.com CNAME .
 tr.alex.espmp-agfr.net CNAME .
 tr.allianz-trade.com CNAME .
 tr.animation.lexpress.fr CNAME .
+tr.animation.micromania.fr CNAME .
 tr.animations.bfmtv.com CNAME .
 tr.animations.rmcbfm.com CNAME .
 tr.apac.coms.moethennessy.com CNAME .
@@ -303,7 +304,6 @@ tr.contrats.cofinoga.fr CNAME .
 tr.contrats.domofinance.fr CNAME .
 tr.corporate.moethennessy.com CNAME .
 tr.courriel.conexvous.com CNAME .
-tr.courriel.ganassurances.fr CNAME .
 tr.courriel.mae.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
 tr.courrier.larepubliquedespyrenees.fr CNAME .

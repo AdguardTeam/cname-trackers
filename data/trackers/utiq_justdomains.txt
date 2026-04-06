@@ -195,6 +195,7 @@ utiq.gnz.de
 utiq.goettinger-tageblatt.de
 utiq.grazia.fr
 utiq.groupmintelligence.com
+utiq.gumtree.com
 utiq.gutefrage.net
 utiq.hallo-eltern.de
 utiq.hallo-muenchen.de
@@ -369,6 +370,7 @@ utiq.nrpyrenees.fr
 utiq.numerama.com
 utiq.oberhessische-zeitung.de
 utiq.oktoberfest.bayern
+utiq.olivemagazine.com
 utiq.ondavasca.com
 utiq.op-marburg.de
 utiq.op-online.de

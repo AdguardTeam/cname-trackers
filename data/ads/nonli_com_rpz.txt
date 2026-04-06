@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+1.lagazettefrance.fr CNAME .
 at.h24.news CNAME .
 barracuda.h24.news CNAME .
 c.leparisien.fr CNAME .

@@ -55,7 +55,6 @@
 ||goatcounter.eventgeek.ie^
 ||goatcounter.gamecraft.it^
 ||goatcounter.irishbornchinese.com^
-||goatcounter.neocode24.com^
 ||goatcounter.repozitor.com^
 ||goatcounter.thedave.dev^
 ||goatcounter.thedave.me^
@@ -109,6 +108,7 @@
 ||stats.how.wtf^
 ||stats.ignatuque.xyz^
 ||stats.isaacfreund.com^
+||stats.issues.cooking^
 ||stats.jakebailey.dev^
 ||stats.jamesgwyer.com^
 ||stats.jasm1nii.xyz^
@@ -123,6 +123,7 @@
 ||stats.ksmets.be^
 ||stats.ksr.onl^
 ||stats.kwanok.me^
+||stats.lakeloui.se^
 ||stats.lena-binkowski.de^
 ||stats.linerly.xyz^
 ||stats.lspeed.org^
@@ -170,6 +171,7 @@
 ||stats.zgo.at^
 ||stats.zl2edh.com^
 ||trackerstats.davidthe.dev^
+||tracking.burningbutter.com^
 ||tracking.undercovermunich.de^
 ||usage.ideasnap.co^
 ||vault-stats.sladewatkins.net^

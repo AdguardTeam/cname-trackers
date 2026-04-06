@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ ijgtudf.kozii.com CNAME .
 kpdignp.trumerholz.com CNAME .
 lumhdco.mykitsch.com CNAME .
 msnpurf.themjewelersny.com CNAME .
+nahrnly.tuningsupply.com CNAME .
 pmpbzjp.everydaydose.com CNAME .
 qqguqdw.veneera.nl CNAME .
 qroyrbh.veneera.fr CNAME .
@@ -46,6 +47,5 @@ ujyloty.kingofchristmas.com CNAME .
 untrhhc.veneera.co.uk CNAME .
 uqnnvhk.ericjavits.com CNAME .
 wioaavu.enkay.com CNAME .
-wpdlphr.khoj.city CNAME .
 xjoipse.vivarawpets.com CNAME .
 xqvsjtz.danielleguiziony.com CNAME .

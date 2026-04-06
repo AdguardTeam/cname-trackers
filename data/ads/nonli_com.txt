@@ -1,5 +1,6 @@
 !
 ! Company name: nonli.com
+||1.lagazettefrance.fr^
 ||at.h24.news^
 ||barracuda.h24.news^
 ||c.leparisien.fr^

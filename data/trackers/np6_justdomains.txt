@@ -37,6 +37,7 @@ tr.agefiseminaires.com
 tr.alex.espmp-agfr.net
 tr.allianz-trade.com
 tr.animation.lexpress.fr
+tr.animation.micromania.fr
 tr.animations.bfmtv.com
 tr.animations.rmcbfm.com
 tr.apac.coms.moethennessy.com
@@ -292,7 +293,6 @@ tr.contrats.cofinoga.fr
 tr.contrats.domofinance.fr
 tr.corporate.moethennessy.com
 tr.courriel.conexvous.com
-tr.courriel.ganassurances.fr
 tr.courriel.mae.fr
 tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr

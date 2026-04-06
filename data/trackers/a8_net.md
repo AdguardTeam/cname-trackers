@@ -260,6 +260,7 @@
 | a8.princess-jp.com | trck.a8.net |
 | a8.print-netsquare.com | trck.a8.net |
 | a8.projectee.online | trck.a8.net |
+| a8.propertyplus.jp | trck.a8.net |
 | a8.pykespeak.jp | trck.a8.net |
 | a8.rank-quest.jp | trck.a8.net |
 | a8.recmount-plus.com | trck.a8.net |
@@ -376,6 +377,7 @@
 | a8.zen-camps.com | trck.a8.net |
 | a8.zeroku.jp | trck.a8.net |
 | a8.zipan.jp | trck.a8.net |
+| a8.zwiesel-glas.co.jp | trck.a8.net |
 | a8.zzz-land.com | trck.a8.net |
 | a802.xn--38jf6c4pa86a1dv833cexrb.com | trck.a8.net |
 | a803.xn--38jf6c4pa86a1dv833cexrb.com | trck.a8.net |
@@ -438,7 +440,6 @@
 | a8clk.campaigns.kaitori-premium.jp | trck.a8.net |
 | a8clk.campaigns.speed-kaitori.jp | trck.a8.net |
 | a8clk.car-mo.jp | trck.a8.net |
-| a8clk.carbattery110.com | trck.a8.net |
 | a8clk.career.prismy.jp | trck.a8.net |
 | a8clk.carenessapp.lifekarte.com | trck.a8.net |
 | a8clk.cart.amahada.com | trck.a8.net |
@@ -798,7 +799,6 @@
 | a8cv.amiami.jp | trck.a8.net |
 | a8cv.anapnet.com | trck.a8.net |
 | a8cv.androsophybaby.com | trck.a8.net |
-| a8cv.ans-ec.shop | trck.a8.net |
 | a8cv.antiaging-eshop.com | trck.a8.net |
 | a8cv.aplod.jp | trck.a8.net |
 | a8cv.aquasilver.co.jp | trck.a8.net |
@@ -1464,7 +1464,6 @@
 | clk.liberty-e.com | trck.a8.net |
 | clk.wagon-hire.com | trck.a8.net |
 | clkcv.livede55.com | trck.a8.net |
-| complete.smilecbd.jp | trck.a8.net |
 | contact.kdg-yobi.com | trck.a8.net |
 | cv-match.sharebase.jp | trck.a8.net |
 | cv.2jikaikun.com | trck.a8.net |

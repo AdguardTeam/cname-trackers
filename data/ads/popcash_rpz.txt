@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -64,6 +64,7 @@ cdn.gocolow.com CNAME .
 cdn.gpcrn.com CNAME .
 cdn.hhjow.com CNAME .
 cdn.hhmako.cloud CNAME .
+cdn.hhmop.cloud CNAME .
 cdn.hjklq.com CNAME .
 cdn.holenhw.com CNAME .
 cdn.hqwa.xyz CNAME .
@@ -498,7 +499,6 @@ guineapig.themenaffin.de CNAME .
 guppy.ausowned.com.au CNAME .
 guppy.ironmic.fm CNAME .
 guppy.omana.me CNAME .
-haddock.jeffreyknox.dev CNAME .
 haddock.simgenie.app CNAME .
 halibut.codehooks.io CNAME .
 halibut.jimruegolfinstruction.com CNAME .
@@ -897,7 +897,6 @@ tahr.rasen.dev CNAME .
 takin.cors.digital CNAME .
 takin.revolana.fr CNAME .
 tapir.albertaguardtraining.ca CNAME .
-tarantula.emotionalbaking.com CNAME .
 tarantula.searchbox.tech CNAME .
 tarantula.tuxedo.media CNAME .
 tarsier.emitremmus.com CNAME .

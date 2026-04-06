@@ -5,6 +5,7 @@
 ||r.fluxora1.space^
 ||r.maintoast.com^
 ||r.maintrck.com^
+||r.nexoraid1.space^
 ||r.scraperib.com^
 ||r.silvertrck.com^
 ||r.smttrck.com^
@@ -37,6 +38,8 @@
 ||t.sptrck.com^
 ||t.trackora.space^
 ||t.trackpulse.uno^
+||t.traklume.space^
+||t.trckforge.site^
 ||t.trcktr.com^
 ||t.trkav.name^
 ||t.vpntrck.com^

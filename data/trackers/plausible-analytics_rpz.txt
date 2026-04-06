@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,7 +45,6 @@ analytics.sixfigureswine.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.thegroupbuyexperiment.com CNAME .
 analytics.top10-charts.com CNAME .
-analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
 analytics.wayland.app CNAME .
@@ -53,6 +52,7 @@ analytics.whostheboss.co.uk CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
 analytics.xiloc.net CNAME .
+analytics.yourfitkitchen.nl CNAME .
 analytics.zenleven.nl CNAME .
 antitracking.owncast.online CNAME .
 api.digitalpiloten.org CNAME .

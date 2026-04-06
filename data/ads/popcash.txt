@@ -53,6 +53,7 @@
 ||cdn.gpcrn.com^
 ||cdn.hhjow.com^
 ||cdn.hhmako.cloud^
+||cdn.hhmop.cloud^
 ||cdn.hjklq.com^
 ||cdn.holenhw.com^
 ||cdn.hqwa.xyz^
@@ -487,7 +488,6 @@
 ||guppy.ausowned.com.au^
 ||guppy.ironmic.fm^
 ||guppy.omana.me^
-||haddock.jeffreyknox.dev^
 ||haddock.simgenie.app^
 ||halibut.codehooks.io^
 ||halibut.jimruegolfinstruction.com^
@@ -886,7 +886,6 @@
 ||takin.cors.digital^
 ||takin.revolana.fr^
 ||tapir.albertaguardtraining.ca^
-||tarantula.emotionalbaking.com^
 ||tarantula.searchbox.tech^
 ||tarantula.tuxedo.media^
 ||tarsier.emitremmus.com^

@@ -46,7 +46,6 @@
 | analytics.teamcovenant.com | custom.plausible.io |
 | analytics.thegroupbuyexperiment.com | custom.plausible.io |
 | analytics.top10-charts.com | custom.plausible.io |
-| analytics.trust.page | custom.plausible.io |
 | analytics.uxmetrics.com | custom.plausible.io |
 | analytics.valheimgamer.com | custom.plausible.io |
 | analytics.wayland.app | custom.plausible.io |
@@ -54,6 +53,7 @@
 | analytics.whotargets.me | custom.plausible.io |
 | analytics.winter.ink | custom.plausible.io |
 | analytics.xiloc.net | custom.plausible.io |
+| analytics.yourfitkitchen.nl | custom.plausible.io |
 | analytics.zenleven.nl | custom.plausible.io |
 | antitracking.owncast.online | custom.plausible.io |
 | api.digitalpiloten.org | custom.plausible.io |

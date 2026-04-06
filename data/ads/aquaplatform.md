@@ -89,7 +89,6 @@
     * midtc5-delivery.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
     * mondiale-static.aquaplatform.com
-    * myadsmyanmar-console.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
     * myadsmyanmar-static.aquaplatform.com
     * ngtu-static.aquaplatform.com
@@ -203,7 +202,6 @@
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
 | console.myadsmyanmar.com | console.aquaplatform.com |
-| console.myadsmyanmar.com | console.aquaplatform.com |
 | console.walaplusadserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
 | www.console.myadsmyanmar.com | console.aquaplatform.com |
@@ -305,7 +303,6 @@
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | static.mondiale.co.uk | mondiale-static.aquaplatform.com |
-| console.myadsmyanmar.com | myadsmyanmar-console.aquaplatform.com |
 | servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
 | cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
 | static.notgoingtouni.co.uk | ngtu-static.aquaplatform.com |

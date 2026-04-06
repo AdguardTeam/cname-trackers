@@ -343,7 +343,6 @@
 | my.top4fitness.cz | cz.affilbox.cz |
 | my.top4fitness.de | cz.affilbox.cz |
 | my.top4fitness.fi | cz.affilbox.cz |
-| my.top4fitness.fr | cz.affilbox.cz |
 | my.top4fitness.gr | cz.affilbox.cz |
 | my.top4fitness.it | cz.affilbox.cz |
 | my.top4fitness.pl | cz.affilbox.cz |
@@ -403,6 +402,7 @@
 | my.weplayhandball.it | cz.affilbox.cz |
 | my.weplayhandball.lt | cz.affilbox.cz |
 | my.weplayhandball.nl | cz.affilbox.cz |
+| my.weplayhandball.pl | cz.affilbox.cz |
 | my.weplayhandball.ro | cz.affilbox.cz |
 | my.weplayhandball.si | cz.affilbox.cz |
 | my.weplayhandball.sk | cz.affilbox.cz |
@@ -470,7 +470,6 @@
 | partner.burzazive.cz | cz.affilbox.cz |
 | partner.bydlimekrasne.cz | cz.affilbox.cz |
 | partner.cakemarket.eu | cz.affilbox.cz |
-| partner.calita.cz | cz.affilbox.cz |
 | partner.candy.cz | cz.affilbox.cz |
 | partner.caskrmeni.cz | cz.affilbox.cz |
 | partner.cbdcko.cz | cz.affilbox.cz |
@@ -700,7 +699,6 @@
 | partner.psidetektiv.cz | cz.affilbox.cz |
 | partner.pureharmony.cz | cz.affilbox.cz |
 | partner.resinstudio.cz | cz.affilbox.cz |
-| partner.respelen.cz | cz.affilbox.cz |
 | partner.root.cz | cz.affilbox.cz |
 | partner.rozhladna.sk | cz.affilbox.cz |
 | partner.roztouzeny.cz | cz.affilbox.cz |
@@ -860,7 +858,6 @@
 | partneri.muzeslepe.cz | cz.affilbox.cz |
 | partneri.mydlatamara.sk | cz.affilbox.cz |
 | partneri.nabytek-natali.cz | cz.affilbox.cz |
-| partneri.naenergie.cz | cz.affilbox.cz |
 | partneri.natu.cz | cz.affilbox.cz |
 | partneri.nutricbistro.cz | cz.affilbox.cz |
 | partneri.onlinejazyky.cz | cz.affilbox.cz |

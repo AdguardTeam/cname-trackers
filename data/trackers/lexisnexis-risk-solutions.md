@@ -17,7 +17,7 @@
     * h-16vzjy52.online-metrix.net
     * h-1d2p5fdt.online-metrix.net
     * h-1dham01c.online-metrix.net
-    * h-1dwgke3d.online-metrix.net
+    * h-1dwgke3d-1.online-metrix.net
     * h-1fezyu0r.online-metrix.net
     * h-1fv7mrgq-4.online-metrix.net
     * h-1fv7mrgq.online-metrix.net
@@ -466,6 +466,7 @@
     * h-dailylook.online-metrix.net
     * h-dazn.online-metrix.net
     * h-ddqvf3r9.online-metrix.net
+    * h-debsdemo.online-metrix.net
     * h-dell.online-metrix.net
     * h-delrebate.online-metrix.net
     * h-dghzbk34.online-metrix.net
@@ -689,6 +690,7 @@
     * h-nttresonant.online-metrix.net
     * h-nttresonantstg.online-metrix.net
     * h-nubank.online-metrix.net
+    * h-nypti.online-metrix.net
     * h-o5k4f14q.online-metrix.net
     * h-ocbc.online-metrix.net
     * h-ocbcbank.online-metrix.net
@@ -887,7 +889,7 @@
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | content.sb.lt | h-1d2p5fdt.online-metrix.net |
 | transactionrisk.cashfree.com | h-1dham01c.online-metrix.net |
-| fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
+| fp.ubagroup.com | h-1dwgke3d-1.online-metrix.net |
 | elevate.stg.na02.aws.ballys.tech | h-1fezyu0r.online-metrix.net |
 | tag.unclaimed.nccash.gov | h-1fv7mrgq-4.online-metrix.net |
 | tag.missingmoney.ks.gov | h-1fv7mrgq.online-metrix.net |
@@ -1150,6 +1152,7 @@
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | cim-idc-cdn.account.hcsctest.net | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbsok.com | h-6ne0huru.online-metrix.net |
+| cim-idc-cdn.account.test.bcbstx.com | h-6ne0huru.online-metrix.net |
 | myuw5.nj.gov | h-6r2adsk3.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | content.norwegianlab.com | h-6t5eekm8.online-metrix.net |
@@ -1267,9 +1270,12 @@
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | afm.alphatick.com | h-96eziru5.online-metrix.net |
 | afm.alphatick.com.au | h-96eziru5.online-metrix.net |
+| afm.asiacngw.co | h-96eziru5.online-metrix.net |
 | afm.asiacngw.com | h-96eziru5.online-metrix.net |
 | afm.cnthevtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.cnvtglobal.com | h-96eziru5.online-metrix.net |
+| afm.cnvtmarketsgroup.com | h-96eziru5.online-metrix.net |
+| afm.croin.cloud | h-96eziru5.online-metrix.net |
 | afm.crointech.io | h-96eziru5.online-metrix.net |
 | afm.gcnvtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.hoiltech.info | h-96eziru5.online-metrix.net |
@@ -1277,10 +1283,13 @@
 | afm.monetaindonesia.com | h-96eziru5.online-metrix.net |
 | afm.monetamarkets.com | h-96eziru5.online-metrix.net |
 | afm.monetamarketsit.com | h-96eziru5.online-metrix.net |
+| afm.monetamarketsvn.com | h-96eziru5.online-metrix.net |
 | afm.monetaturkey.com | h-96eziru5.online-metrix.net |
+| afm.mystarmarket.com | h-96eziru5.online-metrix.net |
 | afm.pu-prime.com | h-96eziru5.online-metrix.net |
 | afm.puprime.com | h-96eziru5.online-metrix.net |
 | afm.puprime.online | h-96eziru5.online-metrix.net |
+| afm.startrader-china.com | h-96eziru5.online-metrix.net |
 | afm.startrader.asia | h-96eziru5.online-metrix.net |
 | afm.startrader.com | h-96eziru5.online-metrix.net |
 | afm.startrader.live | h-96eziru5.online-metrix.net |
@@ -1299,12 +1308,15 @@
 | afm.strmarketing.net | h-96eziru5.online-metrix.net |
 | afm.strpro.me | h-96eziru5.online-metrix.net |
 | afm.thestarmkt.com | h-96eziru5.online-metrix.net |
+| afm.thestarpro.com | h-96eziru5.online-metrix.net |
+| afm.thevantagemarkets.com | h-96eziru5.online-metrix.net |
 | afm.ultima-markets.com | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.asia | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.com | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.net | h-96eziru5.online-metrix.net |
 | afm.ultimamarketsglobal.com | h-96eziru5.online-metrix.net |
 | afm.ultimamkts.com | h-96eziru5.online-metrix.net |
+| afm.ultimarketshk.hk | h-96eziru5.online-metrix.net |
 | afm.umtradings.com | h-96eziru5.online-metrix.net |
 | afm.umultima.hk | h-96eziru5.online-metrix.net |
 | afm.vantage-markets-apac.com | h-96eziru5.online-metrix.net |
@@ -1326,6 +1338,7 @@
 | afm.vtglobalchn.com | h-96eziru5.online-metrix.net |
 | afm.vtglobalcn.com | h-96eziru5.online-metrix.net |
 | afm.vtglobalgroup.com | h-96eziru5.online-metrix.net |
+| afm.vtglobalvn.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.co | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
@@ -1603,6 +1616,7 @@
 | www.content.bnpparibas.net | h-cco37scf.online-metrix.net |
 | www.content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
+| www.content.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.mabanqueprivee.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
@@ -1666,6 +1680,7 @@
 | cdna.cofidis.es | h-cofidis-es.online-metrix.net |
 | cdna.cofidisonline.cofidis.es | h-cofidis-es.online-metrix.net |
 | cdna.paymentncb.cofidis.es | h-cofidis-es.online-metrix.net |
+| cdna.retail.cofidis.es | h-cofidis-es.online-metrix.net |
 | cdna.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.cofidisforyou.fr | h-cofidis-payment.online-metrix.net |
 | cdna.moncofidispro.fr | h-cofidis-payment.online-metrix.net |
@@ -1722,6 +1737,7 @@
 | connect.premieraccesscard.com | h-ddqvf3r9.online-metrix.net |
 | connect.solspark.com | h-ddqvf3r9.online-metrix.net |
 | mnconnect.fiservapis.com | h-ddqvf3r9.online-metrix.net |
+| tm4.debsdemo.com | h-debsdemo.online-metrix.net |
 | stats.dell.com | h-dell.online-metrix.net |
 | rebatecontent.finance.delaware.gov | h-delrebate.online-metrix.net |
 | mobilecontent.networks.prod.p0.phx-infra.com | h-dghzbk34.online-metrix.net |
@@ -2032,6 +2048,7 @@
 | sec.login.mail.goo.ne.jp | h-nttresonant.online-metrix.net |
 | sec.lin101.mail.goo.ne.jp | h-nttresonantstg.online-metrix.net |
 | content.nubank.com.br | h-nubank.online-metrix.net |
+| fp.nypti.org | h-nypti.online-metrix.net |
 | tx.n11.com | h-o5k4f14q.online-metrix.net |
 | pafms.ocbc.com | h-ocbc.online-metrix.net |
 | uafms.ocbc.com | h-ocbcbank.online-metrix.net |

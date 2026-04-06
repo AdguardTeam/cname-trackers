@@ -36,6 +36,7 @@
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
+| 1.lagazettefrance.fr | tls.non.li |
 | at.h24.news | tls.non.li |
 | barracuda.h24.news | tls.non.li |
 | de.h24.news | tls.non.li |

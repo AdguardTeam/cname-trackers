@@ -14,6 +14,7 @@
 | r.fluxora1.space | r.trackwilltrk.com |
 | r.maintoast.com | r.trackwilltrk.com |
 | r.maintrck.com | r.trackwilltrk.com |
+| r.nexoraid1.space | r.trackwilltrk.com |
 | r.scraperib.com | r.trackwilltrk.com |
 | r.silvertrck.com | r.trackwilltrk.com |
 | r.smttrck.com | r.trackwilltrk.com |
@@ -46,6 +47,8 @@
 | t.sptrck.com | r.trackwilltrk.com |
 | t.trackora.space | r.trackwilltrk.com |
 | t.trackpulse.uno | r.trackwilltrk.com |
+| t.traklume.space | r.trackwilltrk.com |
+| t.trckforge.site | r.trackwilltrk.com |
 | t.trcktr.com | r.trackwilltrk.com |
 | t.trkav.name | r.trackwilltrk.com |
 | t.vpntrck.com | r.trackwilltrk.com |

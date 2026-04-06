@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1774857630741        ; Serial
+           1775462432647        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -206,6 +206,7 @@ utiq.gnz.de CNAME .
 utiq.goettinger-tageblatt.de CNAME .
 utiq.grazia.fr CNAME .
 utiq.groupmintelligence.com CNAME .
+utiq.gumtree.com CNAME .
 utiq.gutefrage.net CNAME .
 utiq.hallo-eltern.de CNAME .
 utiq.hallo-muenchen.de CNAME .
@@ -380,6 +381,7 @@ utiq.nrpyrenees.fr CNAME .
 utiq.numerama.com CNAME .
 utiq.oberhessische-zeitung.de CNAME .
 utiq.oktoberfest.bayern CNAME .
+utiq.olivemagazine.com CNAME .
 utiq.ondavasca.com CNAME .
 utiq.op-marburg.de CNAME .
 utiq.op-online.de CNAME .

@@ -39,6 +39,7 @@
     * da-freo-nl-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
     * da-rabobank-nl-cddc.at-o.net
+    * data-lelivrescolaire-fr-cddc.at-o.net
     * dfr-deloitte-com-cddc.at-o.net
     * digitalninjas-vattenfall-nl-cddc.at-o.net
     * dimensions-mappy-com-cddc.at-o.net
@@ -146,6 +147,7 @@
 | da.freo.nl | da-freo-nl-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
 | da.rabobank.nl | da-rabobank-nl-cddc.at-o.net |
+| data.lelivrescolaire.fr | data-lelivrescolaire-fr-cddc.at-o.net |
 | dfr.deloitte.com | dfr-deloitte-com-cddc.at-o.net |
 | digitalninjas.vattenfall.nl | digitalninjas-vattenfall-nl-cddc.at-o.net |
 | dimensions.mappy.com | dimensions-mappy-com-cddc.at-o.net |
