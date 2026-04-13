@@ -287,6 +287,7 @@
 | affilpartneri.affilbusiness.cz | cz.affilbox.cz |
 | afill.e-potisk.cz | cz.affilbox.cz |
 | ambasador.montessorikurz.cz | cz.affilbox.cz |
+| ambasador.montessorispolecne.cz | cz.affilbox.cz |
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
 | ambassadors.guideandgrow.com | cz.affilbox.cz |
@@ -303,6 +304,7 @@
 | doporuc.krmimkvalitne.cz | cz.affilbox.cz |
 | doporuc.necojakocola.cz | cz.affilbox.cz |
 | doporuc.promujdomov.cz | cz.affilbox.cz |
+| doporuc.shopiam4u.cz | cz.affilbox.cz |
 | doporuc.slevomat.cz | cz.affilbox.cz |
 | doporucim.zjistitcenu.cz | cz.affilbox.cz |
 | equilist.raj-ohlavek.cz | cz.affilbox.cz |
@@ -353,7 +355,6 @@
 | my.top4football.fi | cz.affilbox.cz |
 | my.top4football.fr | cz.affilbox.cz |
 | my.top4football.hu | cz.affilbox.cz |
-| my.top4football.ro | cz.affilbox.cz |
 | my.top4running.at | cz.affilbox.cz |
 | my.top4running.be | cz.affilbox.cz |
 | my.top4running.bg | cz.affilbox.cz |
@@ -416,6 +417,7 @@
 | my.weplayvolleyball.hu | cz.affilbox.cz |
 | my.weplayvolleyball.it | cz.affilbox.cz |
 | my.weplayvolleyball.lt | cz.affilbox.cz |
+| my.weplayvolleyball.pl | cz.affilbox.cz |
 | my.weplayvolleyball.ro | cz.affilbox.cz |
 | my.weplayvolleyball.si | cz.affilbox.cz |
 | my.weplayvolleyball.sk | cz.affilbox.cz |
@@ -542,6 +544,7 @@
 | partner.expresmenu.cz | cz.affilbox.cz |
 | partner.expresmenu.pl | cz.affilbox.cz |
 | partner.expresmenu.sk | cz.affilbox.cz |
+| partner.fabulo.cz | cz.affilbox.cz |
 | partner.fabulo.sk | cz.affilbox.cz |
 | partner.farbe.cz | cz.affilbox.cz |
 | partner.ferratum.cz | cz.affilbox.cz |
@@ -555,6 +558,7 @@
 | partner.gel-gun.cz | cz.affilbox.cz |
 | partner.gingershot.cz | cz.affilbox.cz |
 | partner.giulieta.shop | cz.affilbox.cz |
+| partner.gloe.cz | cz.affilbox.cz |
 | partner.gokids.cz | cz.affilbox.cz |
 | partner.golden-life.cz | cz.affilbox.cz |
 | partner.gr7.cz | cz.affilbox.cz |
@@ -619,6 +623,7 @@
 | partner.ltx.cz | cz.affilbox.cz |
 | partner.luckyalvin.cz | cz.affilbox.cz |
 | partner.lyzelyze.cz | cz.affilbox.cz |
+| partner.mailocator.cz | cz.affilbox.cz |
 | partner.majtki.cz | cz.affilbox.cz |
 | partner.malujpodlecisel.cz | cz.affilbox.cz |
 | partner.marspom.cz | cz.affilbox.cz |
@@ -691,6 +696,7 @@
 | partner.ppb-pohary.cz | cz.affilbox.cz |
 | partner.pradoch.cz | cz.affilbox.cz |
 | partner.pravopisne.cz | cz.affilbox.cz |
+| partner.premavita.sk | cz.affilbox.cz |
 | partner.premiove-matrace.cz | cz.affilbox.cz |
 | partner.prodejniakademie.cz | cz.affilbox.cz |
 | partner.prohrejeme.cz | cz.affilbox.cz |
@@ -857,6 +863,7 @@
 | partneri.mrblast.eu | cz.affilbox.cz |
 | partneri.muzeslepe.cz | cz.affilbox.cz |
 | partneri.mydlatamara.sk | cz.affilbox.cz |
+| partneri.myrentia.com | cz.affilbox.cz |
 | partneri.nabytek-natali.cz | cz.affilbox.cz |
 | partneri.natu.cz | cz.affilbox.cz |
 | partneri.nutricbistro.cz | cz.affilbox.cz |
@@ -962,6 +969,7 @@
 | spoluprace.kabefarben.cz | cz.affilbox.cz |
 | spoluprace.luxusnipradlo.cz | cz.affilbox.cz |
 | spoluprace.m-soft.cz | cz.affilbox.cz |
+| spoluprace.m99.cz | cz.affilbox.cz |
 | spoluprace.majka-shop.cz | cz.affilbox.cz |
 | spoluprace.megalu.cz | cz.affilbox.cz |
 | spoluprace.mentorkalucie.cz | cz.affilbox.cz |

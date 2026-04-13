@@ -254,7 +254,6 @@
 | cardinal.zenting.app | deprecated-custom-domains.b-cdn.net |
 | caribou.mcgregorpublishing.com | deprecated-custom-domains.b-cdn.net |
 | carp.amespacios.com | deprecated-custom-domains.b-cdn.net |
-| carp.pbncontent.com | deprecated-custom-domains.b-cdn.net |
 | carp.spotonevent.no | deprecated-custom-domains.b-cdn.net |
 | cat.beunitedinchrist.com | deprecated-custom-domains.b-cdn.net |
 | cat.gfx.io | deprecated-custom-domains.b-cdn.net |
@@ -587,7 +586,6 @@
 | lynx.inovo.io | deprecated-custom-domains.b-cdn.net |
 | lynx.lumy.network | deprecated-custom-domains.b-cdn.net |
 | lynx.microl.ink | deprecated-custom-domains.b-cdn.net |
-| lynx.sbstjn.com | deprecated-custom-domains.b-cdn.net |
 | lynx.simpleparish.com | deprecated-custom-domains.b-cdn.net |
 | macaw.ianmitchell.dev | deprecated-custom-domains.b-cdn.net |
 | mackerel.passiveincome.io | deprecated-custom-domains.b-cdn.net |
@@ -833,7 +831,6 @@
 | stork.notlessbutbetter.com | deprecated-custom-domains.b-cdn.net |
 | sturgeon.patentfamily.com | deprecated-custom-domains.b-cdn.net |
 | swallow.pelias.io | deprecated-custom-domains.b-cdn.net |
-| swan.turbonav.com | deprecated-custom-domains.b-cdn.net |
 | swan.visualma.com | deprecated-custom-domains.b-cdn.net |
 | swift.avenue.so | deprecated-custom-domains.b-cdn.net |
 | swift.ciudadanob.com | deprecated-custom-domains.b-cdn.net |
@@ -940,7 +937,6 @@
 | wombat.buildrtech.com | deprecated-custom-domains.b-cdn.net |
 | wombat.modinfinity.com | deprecated-custom-domains.b-cdn.net |
 | wombat.tigil.fr | deprecated-custom-domains.b-cdn.net |
-| woodpecker.binario11.de | deprecated-custom-domains.b-cdn.net |
 | woodpecker.ember.ly | deprecated-custom-domains.b-cdn.net |
 | woodpecker.mikehalliday.com | deprecated-custom-domains.b-cdn.net |
 | worm.communitytrustproject.org | deprecated-custom-domains.b-cdn.net |

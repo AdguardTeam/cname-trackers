@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -275,6 +275,7 @@ affilpartner.descanti.com CNAME .
 affilpartneri.affilbusiness.cz CNAME .
 afill.e-potisk.cz CNAME .
 ambasador.montessorikurz.cz CNAME .
+ambasador.montessorispolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassadors.childhoodpotential.com CNAME .
 ambassadors.guideandgrow.com CNAME .
@@ -291,6 +292,7 @@ doporuc.konferenceryba.cz CNAME .
 doporuc.krmimkvalitne.cz CNAME .
 doporuc.necojakocola.cz CNAME .
 doporuc.promujdomov.cz CNAME .
+doporuc.shopiam4u.cz CNAME .
 doporuc.slevomat.cz CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
@@ -341,7 +343,6 @@ my.top4football.es CNAME .
 my.top4football.fi CNAME .
 my.top4football.fr CNAME .
 my.top4football.hu CNAME .
-my.top4football.ro CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
@@ -404,6 +405,7 @@ my.weplayvolleyball.gr CNAME .
 my.weplayvolleyball.hu CNAME .
 my.weplayvolleyball.it CNAME .
 my.weplayvolleyball.lt CNAME .
+my.weplayvolleyball.pl CNAME .
 my.weplayvolleyball.ro CNAME .
 my.weplayvolleyball.si CNAME .
 my.weplayvolleyball.sk CNAME .
@@ -530,6 +532,7 @@ partner.expresmenu.com CNAME .
 partner.expresmenu.cz CNAME .
 partner.expresmenu.pl CNAME .
 partner.expresmenu.sk CNAME .
+partner.fabulo.cz CNAME .
 partner.fabulo.sk CNAME .
 partner.farbe.cz CNAME .
 partner.ferratum.cz CNAME .
@@ -543,6 +546,7 @@ partner.gaymegastore.eu CNAME .
 partner.gel-gun.cz CNAME .
 partner.gingershot.cz CNAME .
 partner.giulieta.shop CNAME .
+partner.gloe.cz CNAME .
 partner.gokids.cz CNAME .
 partner.golden-life.cz CNAME .
 partner.gr7.cz CNAME .
@@ -607,6 +611,7 @@ partner.lovella.cz CNAME .
 partner.ltx.cz CNAME .
 partner.luckyalvin.cz CNAME .
 partner.lyzelyze.cz CNAME .
+partner.mailocator.cz CNAME .
 partner.majtki.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
 partner.marspom.cz CNAME .
@@ -679,6 +684,7 @@ partner.pozitivnerozpravky.sk CNAME .
 partner.ppb-pohary.cz CNAME .
 partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .
+partner.premavita.sk CNAME .
 partner.premiove-matrace.cz CNAME .
 partner.prodejniakademie.cz CNAME .
 partner.prohrejeme.cz CNAME .
@@ -845,6 +851,7 @@ partneri.monikakorinkova.cz CNAME .
 partneri.mrblast.eu CNAME .
 partneri.muzeslepe.cz CNAME .
 partneri.mydlatamara.sk CNAME .
+partneri.myrentia.com CNAME .
 partneri.nabytek-natali.cz CNAME .
 partneri.natu.cz CNAME .
 partneri.nutricbistro.cz CNAME .
@@ -950,6 +957,7 @@ spoluprace.janitaurbanova.cz CNAME .
 spoluprace.kabefarben.cz CNAME .
 spoluprace.luxusnipradlo.cz CNAME .
 spoluprace.m-soft.cz CNAME .
+spoluprace.m99.cz CNAME .
 spoluprace.majka-shop.cz CNAME .
 spoluprace.megalu.cz CNAME .
 spoluprace.mentorkalucie.cz CNAME .

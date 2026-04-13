@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ $TTL 300
 0.www.5k71-k-t51u8q91otp3.xyz CNAME .
 0.www.5wo4spwppk7n0wvrn.xyz CNAME .
 0.www.64786087.xyz CNAME .
+0.www.661kkm40uu6srww1mvso.xyz CNAME .
 0.www.78587924.xyz CNAME .
 0.www.84302764.xyz CNAME .
 0.www.8vtqw0551lo45wwtro.xyz CNAME .
@@ -518,6 +519,7 @@ $TTL 300
 6.www.r033o0p37qr4v914m06om.xyz CNAME .
 6.www.rundowndeep.com CNAME .
 6.www.sn2rrlv57qpss5w-qk8llu.xyz CNAME .
+6.www.softlyacrossany.com CNAME .
 6.www.uprightfondly.com CNAME .
 6.www.wqq881m8uwq1k5m-4p7lv7.xyz CNAME .
 6.www.yumhusk.com CNAME .
@@ -536,6 +538,7 @@ $TTL 300
 7.www.evenyumbroadlywitharmoire.com CNAME .
 7.www.foldyahoolestorderly.com CNAME .
 7.www.goshoverfeed.com CNAME .
+7.www.insteadphooey.com CNAME .
 7.www.meanwhiletoo.com CNAME .
 7.www.noranglehow.com CNAME .
 7.www.norsinceexactlyamongplait.com CNAME .
@@ -548,10 +551,12 @@ $TTL 300
 7.www.righteouslyyumaugmentnext.com CNAME .
 7.www.rl1u0wknm1onstp8395too.xyz CNAME .
 7.www.rogerouch.com CNAME .
+7.www.secretvelvety.com CNAME .
 7.www.shinnyhelpfast.com CNAME .
 7.www.slapswingthrough.com CNAME .
 7.www.sn2rrlv57qpss5w-qk8llu.xyz CNAME .
 7.www.sneakyangrilypromptlyupon.com CNAME .
+7.www.softlyacrossany.com CNAME .
 7.www.ts28ll0tk23t2n9pl0n327.xyz CNAME .
 7.www.unfortunatelyafter.com CNAME .
 7.www.untostakejiggle.com CNAME .
@@ -662,6 +667,7 @@ $TTL 300
 9.www.meanwhilenoonslap.com CNAME .
 9.www.midwifemoist.com CNAME .
 9.www.noranglehow.com CNAME .
+9.www.norsinceexactlyamongplait.com CNAME .
 9.www.nowdickerterraform.com CNAME .
 9.www.ns2l8nn10rns-6rlr38mp.xyz CNAME .
 9.www.nudgesplityowza.com CNAME .
@@ -678,6 +684,7 @@ $TTL 300
 9.www.shinnyhelpfast.com CNAME .
 9.www.slapswingthrough.com CNAME .
 9.www.sn2rrlv57qpss5w-qk8llu.xyz CNAME .
+9.www.sneakyangrilypromptlyupon.com CNAME .
 9.www.softlyacrossany.com CNAME .
 9.www.squeakyscofffar.com CNAME .
 9.www.ts28ll0tk23t2n9pl0n327.xyz CNAME .

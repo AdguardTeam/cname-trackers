@@ -36,9 +36,9 @@
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
-| 1.lagazettefrance.fr | tls.non.li |
 | at.h24.news | tls.non.li |
 | barracuda.h24.news | tls.non.li |
+| br.h24.news | tls.non.li |
 | de.h24.news | tls.non.li |
 | flow-prod.h24.news | tls.non.li |
 | go.3ds.com | tls.non.li |
@@ -56,6 +56,7 @@
 | it.h24.news | tls.non.li |
 | l.20minutes.fr | tls.non.li |
 | l.3djuegos.com | tls.non.li |
+| l.3djuegos.com.mx | tls.non.li |
 | l.3djuegos.lat | tls.non.li |
 | l.750g.com | tls.non.li |
 | l.academiedugout.fr | tls.non.li |
@@ -172,6 +173,7 @@
 | l.lacremedugaming.fr | tls.non.li |
 | l.ladepeche.fr | tls.non.li |
 | l.ladepechedubassin.fr | tls.non.li |
+| l.lagazettefrance.fr | tls.non.li |
 | l.lalettre.fr | tls.non.li |
 | l.lamanchelibre.fr | tls.non.li |
 | l.lamontagne.fr | tls.non.li |

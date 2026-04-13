@@ -210,7 +210,6 @@
     * 997311968670029.wt-eu02.net
     * airbusgroup-de01.wt-eu02.net
     * aktionrsbank01.wt-eu02.net
-    * analytics-myhermes.wt-eu02.net
     * berlinonline-02.wt-eu02.net
     * blume2000.wt-eu02.net
     * corporate-benefits.wt-eu02.net
@@ -488,8 +487,6 @@
 | webts.adac.de | adac02.webtrekk.net |
 | pix.airbusgroup.com | airbusgroup-de01.wt-eu02.net |
 | w3.aktionaersbank.de | aktionrsbank01.wt-eu02.net |
-| analytics.hermesworld.com | analytics-myhermes.wt-eu02.net |
-| analytics.myhermes.de | analytics-myhermes.wt-eu02.net |
 | pixel.augsburger-allgemeine.de | augsburgerallgemeine01.webtrekk.net |
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
 | trk.blume2000.de | blume2000.wt-eu02.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -437,6 +437,7 @@ stats.fastbackward.app CNAME .
 stats.filejuggler.com CNAME .
 stats.finalrabiesgeneration.org CNAME .
 stats.findvax.us CNAME .
+stats.flightformation.com CNAME .
 stats.flightsphere.com CNAME .
 stats.flowphantom.com CNAME .
 stats.footwork.co CNAME .
@@ -748,7 +749,6 @@ stats.vican.me CNAME .
 stats.vinkkaa.fi CNAME .
 stats.visions.ch CNAME .
 stats.voltimum.com CNAME .
-stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
 stats.warrantynowvoid.com CNAME .
 stats.websnap.app CNAME .

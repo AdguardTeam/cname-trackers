@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,6 +73,7 @@ al.kimonomodern.com CNAME .
 al.kosei.com CNAME .
 al.maikon.jp CNAME .
 al.marukajozo-shop.jp CNAME .
+al.masuyone.com CNAME .
 al.megumistory.jp CNAME .
 al.mikegray.jp CNAME .
 al.mitsubachi-note.com CNAME .

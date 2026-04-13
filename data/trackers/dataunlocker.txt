@@ -17,6 +17,7 @@
 ||1xwkhcsp3s5.vqsave.ommasign.com^
 ||21fhq0t574p.talentkit.io^
 ||21udflra4wd.app-dev.cainthus.com^
+||24rpe6zlfi5.app.aporia.com^
 ||2829i2p88jx.www.csaladinet.hu^
 ||2aa6f9qgrh9.acc.evservice.nl^
 ||2e718yf5jypb.test.digitalsurge.io^
@@ -40,7 +41,6 @@
 ||8vwxqg.tapin.gg^
 ||9b5gjkrnw71r.it.themoneytizer.com^
 ||9kkjfywjz50v.www.eventus.io^
-||9l3cr6dvk2kb.adaptive.marketing^
 ||9uim1pc4ej4n.ru.themoneytizer.com^
 ||9ywl0cwf7e37m5yi.tapin.gg^
 ||ac9kpxbans1l.staging.unstoppabledomains.com^
@@ -64,7 +64,6 @@
 ||ivrnfvlcgubm.www.cefirates.com^
 ||iwl2d7pa4yx1.www.logology.co^
 ||ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com^
-||jc917x3.adaptive.marketing^
 ||kn81kivjwwc7.www.logology.co^
 ||li3k4d70ig52.resourceya.com^
 ||lj5s1u8ct5vz.app.chatpay.dev^

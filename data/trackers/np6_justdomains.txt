@@ -40,6 +40,7 @@ tr.animation.lexpress.fr
 tr.animation.micromania.fr
 tr.animations.bfmtv.com
 tr.animations.rmcbfm.com
+tr.anses.fr
 tr.apac.coms.moethennessy.com
 tr.apac.legal.moethennessy.com
 tr.apou032.espmp-agfr.net
@@ -240,6 +241,7 @@ tr.com.santiane.fr
 tr.com.sfr.fr
 tr.combca.fr
 tr.commande.location.boulanger.com
+tr.commande.lokeo.fr
 tr.commercial.boursobank.info
 tr.communaute.caradisiac.com
 tr.communautes-mediametrie.fr
@@ -266,6 +268,7 @@ tr.communication.numericable.fr
 tr.communication.offresb2b.fr
 tr.communication.rmcbfm.com
 tr.communication.top-office.com
+tr.communications.chapsvision.com
 tr.companeo-news.co.uk
 tr.comunicacao.younited-credit.com
 tr.comunicazione.younited-credit.com
@@ -515,6 +518,7 @@ tr.info.easyvoyage.co.uk
 tr.info.easyvoyage.com
 tr.info.easyvoyage.de
 tr.info.ecole-de-savignac.com
+tr.info.flexico.fr
 tr.info.fulli.com
 tr.info.galian.fr
 tr.info.grapp-hennessy.com
@@ -651,7 +655,6 @@ tr.mail.vipmag.fr
 tr.mail.vo3000.com
 tr.mail1.macif.fr
 tr.mail306.com
-tr.mailing.associationici.fr
 tr.mailing.heliades.fr
 tr.mailing.laredoute.fr
 tr.mailing.lvmhappening.com
@@ -1008,6 +1011,7 @@ tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro-renov.be
 tr.pro.myhomeflowercampings.com
+tr.pro.odalys-campus.com
 tr.pro.odalys-vacances.com
 tr.pro.sgit.net
 tr.programme-voyageur-sncf.com
@@ -1044,7 +1048,6 @@ tr.relation.uneo.fr
 tr.renowizze.be
 tr.republicains-info.org
 tr.rh.auchan.com
-tr.rnrmc.org.uk
 tr.route-solutiondata.fr
 tr.roxi02e.espmp-agfr.net
 tr.safrancom-esp.net
@@ -1226,5 +1229,6 @@ s.allopneus.com
 s.gemy.fr
 s.lgch.mp
 s.np6.com
+sms.imaprotect.com
 www.lgch.mp
 tr.communication.jardindacclimatation.fr

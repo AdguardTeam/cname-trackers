@@ -75,6 +75,7 @@
 ||agility.tcm.com^
 ||agility.tntdrama.com^
 ||agility.trutv.com^
+||agility.unaturalhistoryseries.com^
 ||agility.veryfunnyspots.com^
 ||analytics.amica.com^
 ||analytics.athome.com^
@@ -287,6 +288,7 @@
 ||pfa.levexis.com^
 ||privacy-digital.infracapital.co.uk^
 ||privacy-digital.mandg.com^
+||privacy-digital.mandgadvice.com^
 ||privacy-digital.pru.co.uk^
 ||privacy-digital.pruadviser.co.uk^
 ||privacy-digital.pruretire.co.uk^

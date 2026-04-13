@@ -101,7 +101,6 @@
 ||a8.eonet.ne.jp^
 ||a8.epauler.co.jp^
 ||a8.epo.info^
-||a8.everest.ac^
 ||a8.evertrust-inc.com^
 ||a8.exam-katekyo.com^
 ||a8.exetime.jp^
@@ -950,6 +949,7 @@
 ||a8cv.global-link-seminar.com^
 ||a8cv.glocalnet.jp^
 ||a8cv.glow-clinic.com^
+||a8cv.gmo-connect.com^
 ||a8cv.goods-station.jp^
 ||a8cv.grace-grace.info^
 ||a8cv.grassbeaute.jp^
@@ -1506,7 +1506,6 @@
 ||cv.stella-s.com^
 ||cv.subscription-store.com^
 ||cv.sumaho-hoken.jp^
-||cv.sunny-store-cart.com^
 ||cv.taskar.online^
 ||cv.tenjin.cc^
 ||cv.theatreacademy.info^

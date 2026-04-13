@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -53,7 +53,6 @@ l.tec29.com CNAME .
 l.tencho.cc CNAME .
 l.tenkomori.tv CNAME .
 l.thd-web.jp CNAME .
-l.ti-da.net CNAME .
 l.toushiikusei.net CNAME .
 l.toyamaru.com CNAME .
 l.tsukuba.ch CNAME .

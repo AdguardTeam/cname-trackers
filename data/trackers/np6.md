@@ -28,6 +28,7 @@
 | s.gemy.fr | shortener.bp01.net |
 | s.lgch.mp | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
+| sms.imaprotect.com | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
@@ -69,6 +70,7 @@
 | tr.animation.micromania.fr | tracking.bp01.net |
 | tr.animations.bfmtv.com | tracking.bp01.net |
 | tr.animations.rmcbfm.com | tracking.bp01.net |
+| tr.anses.fr | tracking.bp01.net |
 | tr.apac.coms.moethennessy.com | tracking.bp01.net |
 | tr.apac.legal.moethennessy.com | tracking.bp01.net |
 | tr.apou032.espmp-agfr.net | tracking.bp01.net |
@@ -269,6 +271,7 @@
 | tr.com.sfr.fr | tracking.bp01.net |
 | tr.combca.fr | tracking.bp01.net |
 | tr.commande.location.boulanger.com | tracking.bp01.net |
+| tr.commande.lokeo.fr | tracking.bp01.net |
 | tr.commercial.boursobank.info | tracking.bp01.net |
 | tr.communaute.caradisiac.com | tracking.bp01.net |
 | tr.communautes-mediametrie.fr | tracking.bp01.net |
@@ -295,6 +298,7 @@
 | tr.communication.offresb2b.fr | tracking.bp01.net |
 | tr.communication.rmcbfm.com | tracking.bp01.net |
 | tr.communication.top-office.com | tracking.bp01.net |
+| tr.communications.chapsvision.com | tracking.bp01.net |
 | tr.companeo-news.co.uk | tracking.bp01.net |
 | tr.comunicacao.younited-credit.com | tracking.bp01.net |
 | tr.comunicazione.younited-credit.com | tracking.bp01.net |
@@ -544,6 +548,7 @@
 | tr.info.easyvoyage.com | tracking.bp01.net |
 | tr.info.easyvoyage.de | tracking.bp01.net |
 | tr.info.ecole-de-savignac.com | tracking.bp01.net |
+| tr.info.flexico.fr | tracking.bp01.net |
 | tr.info.fulli.com | tracking.bp01.net |
 | tr.info.galian.fr | tracking.bp01.net |
 | tr.info.grapp-hennessy.com | tracking.bp01.net |
@@ -680,7 +685,6 @@
 | tr.mail.vo3000.com | tracking.bp01.net |
 | tr.mail1.macif.fr | tracking.bp01.net |
 | tr.mail306.com | tracking.bp01.net |
-| tr.mailing.associationici.fr | tracking.bp01.net |
 | tr.mailing.heliades.fr | tracking.bp01.net |
 | tr.mailing.laredoute.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
@@ -1037,6 +1041,7 @@
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
 | tr.pro-renov.be | tracking.bp01.net |
 | tr.pro.myhomeflowercampings.com | tracking.bp01.net |
+| tr.pro.odalys-campus.com | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
 | tr.pro.sgit.net | tracking.bp01.net |
 | tr.programme-voyageur-sncf.com | tracking.bp01.net |
@@ -1073,7 +1078,6 @@
 | tr.renowizze.be | tracking.bp01.net |
 | tr.republicains-info.org | tracking.bp01.net |
 | tr.rh.auchan.com | tracking.bp01.net |
-| tr.rnrmc.org.uk | tracking.bp01.net |
 | tr.route-solutiondata.fr | tracking.bp01.net |
 | tr.roxi02e.espmp-agfr.net | tracking.bp01.net |
 | tr.safrancom-esp.net | tracking.bp01.net |

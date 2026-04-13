@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 anal.sataniskwijt.be CNAME .
 analytics.applycreatures.com CNAME .
+analytics.carnelian.cc CNAME .
 analytics.code.dccouncil.gov CNAME .
 analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
@@ -44,6 +45,7 @@ count.andreabrandi.com CNAME .
 count.kealper.com CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
+da-stats.sladewatkins.net CNAME .
 dot-com-stats.sladewatkins.net CNAME .
 gc.acut3.net CNAME .
 gc.grokhard.com CNAME .
@@ -70,6 +72,7 @@ goatcounter.repozitor.com CNAME .
 goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
 goatcounter.thedave.photos CNAME .
+goatstats.fiesta.plus CNAME .
 gtcntr.enamya.me CNAME .
 moo.geopogs.party CNAME .
 novi.webnovi.eu CNAME .
@@ -88,6 +91,7 @@ stats.abdodaoud.com CNAME .
 stats.afirmacijas.lv CNAME .
 stats.alextecplayz.com CNAME .
 stats.apitman.com CNAME .
+stats.arredofrigo.net CNAME .
 stats.artero.dev CNAME .
 stats.artur-rodrigues.com CNAME .
 stats.benjaminmorris.com CNAME .
@@ -102,10 +106,14 @@ stats.certidiritti.org CNAME .
 stats.cloudflex.team CNAME .
 stats.cloudnativebitcoin.org CNAME .
 stats.coderscompass.org CNAME .
+stats.contractor-prep.com CNAME .
+stats.cormier.co CNAME .
 stats.crosshair.dev CNAME .
+stats.cynicalsignals.com CNAME .
 stats.dalinwilliams.com CNAME .
 stats.davidjuhasz.dev CNAME .
 stats.defiscitoyens.org CNAME .
+stats.docs.semio-tech.com CNAME .
 stats.eithel.org CNAME .
 stats.fieald.com CNAME .
 stats.forest-school.am CNAME .
@@ -116,12 +124,14 @@ stats.hadejkde.cz CNAME .
 stats.haseebmajid.dev CNAME .
 stats.hdyar.com CNAME .
 stats.hedy.dev CNAME .
+stats.homecompanion.io CNAME .
 stats.how.wtf CNAME .
 stats.ignatuque.xyz CNAME .
 stats.isaacfreund.com CNAME .
 stats.issues.cooking CNAME .
 stats.jakebailey.dev CNAME .
 stats.jamesgwyer.com CNAME .
+stats.janmr.com CNAME .
 stats.jasm1nii.xyz CNAME .
 stats.jessesquires.com CNAME .
 stats.jmmr.dev CNAME .
@@ -138,6 +148,7 @@ stats.lakeloui.se CNAME .
 stats.lena-binkowski.de CNAME .
 stats.linerly.xyz CNAME .
 stats.lspeed.org CNAME .
+stats.manakin.fi CNAME .
 stats.matteocroce.it CNAME .
 stats.mausoleum.me CNAME .
 stats.merrell.dev CNAME .
@@ -149,7 +160,9 @@ stats.opensurge2d.org CNAME .
 stats.otbivnoe.ru CNAME .
 stats.palaisdesfetes.eu CNAME .
 stats.pamcarter.net CNAME .
+stats.paperarrow.com CNAME .
 stats.philippdubach.com CNAME .
+stats.programmershideaway.dev CNAME .
 stats.pttrn.io CNAME .
 stats.pvme.omg.lol CNAME .
 stats.r18.dev CNAME .

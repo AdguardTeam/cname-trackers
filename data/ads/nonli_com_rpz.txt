@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,9 +11,9 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-1.lagazettefrance.fr CNAME .
 at.h24.news CNAME .
 barracuda.h24.news CNAME .
+br.h24.news CNAME .
 c.leparisien.fr CNAME .
 de.h24.news CNAME .
 flow-prod.h24.news CNAME .
@@ -33,6 +33,7 @@ in.h24.news CNAME .
 it.h24.news CNAME .
 l.20minutes.fr CNAME .
 l.3djuegos.com CNAME .
+l.3djuegos.com.mx CNAME .
 l.3djuegos.lat CNAME .
 l.750g.com CNAME .
 l.academiedugout.fr CNAME .
@@ -153,6 +154,7 @@ l.la-croix.com CNAME .
 l.lacremedugaming.fr CNAME .
 l.ladepeche.fr CNAME .
 l.ladepechedubassin.fr CNAME .
+l.lagazettefrance.fr CNAME .
 l.lalettre.fr CNAME .
 l.lamanchelibre.fr CNAME .
 l.lamontagne.fr CNAME .

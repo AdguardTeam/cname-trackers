@@ -233,6 +233,7 @@
 | www.adserver.fa-mag.com | famag-delivery.aquaplatform.com |
 | static.fa-mag.com | famag-static.aquaplatform.com |
 | static.ads.fantasanremo.com | fsr-cdn.aquaplatform.com |
+| delivery.ads.fantagiroditalia.it | fsr-delivery.aquaplatform.com |
 | delivery.ads.fantasanremo.com | fsr-delivery.aquaplatform.com |
 | adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
 | www.adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
@@ -354,6 +355,7 @@
 | adztech-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | brandmovers-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | edgeadserver-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
+| growthtrac-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |

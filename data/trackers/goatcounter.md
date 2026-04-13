@@ -14,6 +14,7 @@
     * apitman_com.goatcounter.com
     * applycreatures.goatcounter.com
     * argfuscator.goatcounter.com
+    * arredofrigo.goatcounter.com
     * artero.goatcounter.com
     * artur.goatcounter.com
     * benjaminmorris.goatcounter.com
@@ -33,9 +34,13 @@
     * coderscompass.goatcounter.com
     * codes-baltimorecity-gov.goatcounter.com
     * codinggrace.goatcounter.com
+    * contractor-prep.goatcounter.com
+    * cormier.goatcounter.com
     * corner.goatcounter.com
     * crosshair.goatcounter.com
+    * cynsig.goatcounter.com
     * d8a.goatcounter.com
+    * daapl.goatcounter.com
     * dailies.goatcounter.com
     * dalinwilliams.goatcounter.com
     * dannynullzwo.goatcounter.com
@@ -50,6 +55,7 @@
     * enamya.goatcounter.com
     * eventgeek.goatcounter.com
     * fieald.goatcounter.com
+    * fiestaplus.goatcounter.com
     * fiquipedia.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
@@ -64,6 +70,7 @@
     * hadejkde.goatcounter.com
     * haseebmajid.goatcounter.com
     * hijacklibs.goatcounter.com
+    * homecompanion.goatcounter.com
     * howwtf.goatcounter.com
     * ideasnap.goatcounter.com
     * ignatuque.goatcounter.com
@@ -73,6 +80,7 @@
     * isaacfreund.goatcounter.com
     * jakebailey.goatcounter.com
     * jam.goatcounter.com
+    * janmr.goatcounter.com
     * jasmineamalia.goatcounter.com
     * jmmr-dev.goatcounter.com
     * johanneswienke.goatcounter.com
@@ -102,6 +110,7 @@
     * low-quality-transcripts.goatcounter.com
     * lspeed.goatcounter.com
     * maik-dev.goatcounter.com
+    * manakin.goatcounter.com
     * maple.goatcounter.com
     * mausoleum.goatcounter.com
     * meestermac.goatcounter.com
@@ -120,7 +129,9 @@
     * otbivnoe.goatcounter.com
     * palaisdesfetes.goatcounter.com
     * pamcarter.goatcounter.com
+    * paperarrow.goatcounter.com
     * philippdubach.goatcounter.com
+    * programmershideaway.goatcounter.com
     * psiyum.goatcounter.com
     * pttrn.goatcounter.com
     * qrdate.goatcounter.com
@@ -139,6 +150,7 @@
     * sanmateo-ca-us-open-law.goatcounter.com
     * satanisk.goatcounter.com
     * sebastianzehner.goatcounter.com
+    * semio.goatcounter.com
     * semipol.goatcounter.com
     * shu.goatcounter.com
     * slade.goatcounter.com
@@ -193,6 +205,7 @@
 | stats.apitman.com | apitman_com.goatcounter.com |
 | analytics.applycreatures.com | applycreatures.goatcounter.com |
 | visit.argfuscator.net | argfuscator.goatcounter.com |
+| stats.arredofrigo.net | arredofrigo.goatcounter.com |
 | stats.artero.dev | artero.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
@@ -212,9 +225,13 @@
 | stats.coderscompass.org | coderscompass.goatcounter.com |
 | analytics.codes.baltimorecity.gov | codes-baltimorecity-gov.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
+| stats.contractor-prep.com | contractor-prep.goatcounter.com |
+| stats.cormier.co | cormier.goatcounter.com |
 | corner-stats.sladewatkins.net | corner.goatcounter.com |
 | stats.crosshair.dev | crosshair.goatcounter.com |
+| stats.cynicalsignals.com | cynsig.goatcounter.com |
 | go.d8a.org | d8a.goatcounter.com |
+| da-stats.sladewatkins.net | daapl.goatcounter.com |
 | trackerstats.davidthe.dev | dailies.goatcounter.com |
 | stats.dalinwilliams.com | dalinwilliams.goatcounter.com |
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
@@ -229,6 +246,7 @@
 | gtcntr.enamya.me | enamya.goatcounter.com |
 | goatcounter.eventgeek.ie | eventgeek.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
+| goatstats.fiesta.plus | fiestaplus.goatcounter.com |
 | analytics.fiquipedia.es | fiquipedia.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
@@ -245,6 +263,7 @@
 | stats.hadejkde.cz | hadejkde.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
+| stats.homecompanion.io | homecompanion.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | usage.ideasnap.co | ideasnap.goatcounter.com |
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
@@ -254,6 +273,7 @@
 | stats.isaacfreund.com | isaacfreund.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
 | stats.jamesgwyer.com | jam.goatcounter.com |
+| stats.janmr.com | janmr.goatcounter.com |
 | stats.jasm1nii.xyz | jasmineamalia.goatcounter.com |
 | stats.jmmr.dev | jmmr-dev.goatcounter.com |
 | stats.johanneswienke.de | johanneswienke.goatcounter.com |
@@ -284,11 +304,13 @@
 | stats.issues.cooking | low-quality-transcripts.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |
+| stats.manakin.fi | manakin.goatcounter.com |
 | st.mapleranks.com | maple.goatcounter.com |
 | stats.mausoleum.me | mausoleum.goatcounter.com |
 | api.meestermac.nl | meestermac.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
+| analytics.carnelian.cc | mine.goatcounter.com |
 | goatcounter.repozitor.com | mine.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
 | stats.pvme.omg.lol | mine.goatcounter.com |
@@ -305,7 +327,9 @@
 | stats.otbivnoe.ru | otbivnoe.goatcounter.com |
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
 | stats.pamcarter.net | pamcarter.goatcounter.com |
+| stats.paperarrow.com | paperarrow.goatcounter.com |
 | stats.philippdubach.com | philippdubach.goatcounter.com |
+| stats.programmershideaway.dev | programmershideaway.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | stats.pttrn.io | pttrn.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
@@ -324,6 +348,7 @@
 | analytics.sanmateo.ca.us.open.law | sanmateo-ca-us-open-law.goatcounter.com |
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.sebastianzehner.com | sebastianzehner.goatcounter.com |
+| stats.docs.semio-tech.com | semio.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
 | stats.shurimp.com | shu.goatcounter.com |
 | dot-com-stats.sladewatkins.net | slade.goatcounter.com |

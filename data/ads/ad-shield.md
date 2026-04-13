@@ -28,6 +28,7 @@
 | 0.www.5k71-k-t51u8q91otp3.xyz | ad-shield.cc |
 | 0.www.5wo4spwppk7n0wvrn.xyz | ad-shield.cc |
 | 0.www.64786087.xyz | ad-shield.cc |
+| 0.www.661kkm40uu6srww1mvso.xyz | ad-shield.cc |
 | 0.www.78587924.xyz | ad-shield.cc |
 | 0.www.84302764.xyz | ad-shield.cc |
 | 0.www.8vtqw0551lo45wwtro.xyz | ad-shield.cc |
@@ -520,6 +521,7 @@
 | 6.www.r033o0p37qr4v914m06om.xyz | ad-shield.cc |
 | 6.www.rundowndeep.com | ad-shield.cc |
 | 6.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
+| 6.www.softlyacrossany.com | ad-shield.cc |
 | 6.www.uprightfondly.com | ad-shield.cc |
 | 6.www.wqq881m8uwq1k5m-4p7lv7.xyz | ad-shield.cc |
 | 6.www.yumhusk.com | ad-shield.cc |
@@ -538,6 +540,7 @@
 | 7.www.evenyumbroadlywitharmoire.com | ad-shield.cc |
 | 7.www.foldyahoolestorderly.com | ad-shield.cc |
 | 7.www.goshoverfeed.com | ad-shield.cc |
+| 7.www.insteadphooey.com | ad-shield.cc |
 | 7.www.meanwhiletoo.com | ad-shield.cc |
 | 7.www.noranglehow.com | ad-shield.cc |
 | 7.www.norsinceexactlyamongplait.com | ad-shield.cc |
@@ -550,10 +553,12 @@
 | 7.www.righteouslyyumaugmentnext.com | ad-shield.cc |
 | 7.www.rl1u0wknm1onstp8395too.xyz | ad-shield.cc |
 | 7.www.rogerouch.com | ad-shield.cc |
+| 7.www.secretvelvety.com | ad-shield.cc |
 | 7.www.shinnyhelpfast.com | ad-shield.cc |
 | 7.www.slapswingthrough.com | ad-shield.cc |
 | 7.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
 | 7.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
+| 7.www.softlyacrossany.com | ad-shield.cc |
 | 7.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |
 | 7.www.unfortunatelyafter.com | ad-shield.cc |
 | 7.www.untostakejiggle.com | ad-shield.cc |
@@ -664,6 +669,7 @@
 | 9.www.meanwhilenoonslap.com | ad-shield.cc |
 | 9.www.midwifemoist.com | ad-shield.cc |
 | 9.www.noranglehow.com | ad-shield.cc |
+| 9.www.norsinceexactlyamongplait.com | ad-shield.cc |
 | 9.www.nowdickerterraform.com | ad-shield.cc |
 | 9.www.ns2l8nn10rns-6rlr38mp.xyz | ad-shield.cc |
 | 9.www.nudgesplityowza.com | ad-shield.cc |
@@ -680,6 +686,7 @@
 | 9.www.shinnyhelpfast.com | ad-shield.cc |
 | 9.www.slapswingthrough.com | ad-shield.cc |
 | 9.www.sn2rrlv57qpss5w-qk8llu.xyz | ad-shield.cc |
+| 9.www.sneakyangrilypromptlyupon.com | ad-shield.cc |
 | 9.www.softlyacrossany.com | ad-shield.cc |
 | 9.www.squeakyscofffar.com | ad-shield.cc |
 | 9.www.ts28ll0tk23t2n9pl0n327.xyz | ad-shield.cc |

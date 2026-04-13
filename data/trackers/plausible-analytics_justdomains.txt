@@ -426,6 +426,7 @@ stats.fastbackward.app
 stats.filejuggler.com
 stats.finalrabiesgeneration.org
 stats.findvax.us
+stats.flightformation.com
 stats.flightsphere.com
 stats.flowphantom.com
 stats.footwork.co
@@ -737,7 +738,6 @@ stats.vican.me
 stats.vinkkaa.fi
 stats.visions.ch
 stats.voltimum.com
-stats.wafflemeido.art
 stats.walkiees.co.uk
 stats.warrantynowvoid.com
 stats.websnap.app

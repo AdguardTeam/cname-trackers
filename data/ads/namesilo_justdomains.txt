@@ -438,6 +438,7 @@
 3662967.notifysrv.com
 3667313.notifysrv.com
 3668783.notifysrv.com
+3668785.notifysrv.com
 3668787.notifysrv.com
 3668789.notify6.com
 3668791.notify6.com
@@ -537,6 +538,7 @@
 3944978.notify6.com
 3944980.notify6.com
 3945010.notify6.com
+3946136.notify6.com
 3946234.notify6.com
 3946240.notify6.com
 3946250.notify6.com
@@ -584,6 +586,7 @@
 4104214.notify6.com
 4106200.notify6.com
 4130286.notify6.com
+4131834.notify6.com
 4144426.notify6.com
 4146994.notify6.com
 4149128.notify6.com
@@ -729,21 +732,16 @@
 8.notify.bizonads-ssp.com
 _sips._tcp.3323174.notifysrv.com
 a.18ramp.com
-a.6hd49jng.com
-a.adsession.com
 a.advantageclicks.net
-a.asvsm.com
 a.b2bstars.com
 a.b7q9v8z.com
 a.cant3am.com
 a.chmsrv.com
 a.crme7srv.com
-a.etology.com
 a.eunow4u.com
 a.flirtads.net
 a.gentlefieldpattern.com
 a.happyleafmotion.com
-a.hkartg.com
 a.ma3ion.com
 a.mikbaken.com
 a.mx.notifysrv.com
@@ -754,6 +752,7 @@ a.playa.to
 a.q88z1s3.com
 a.rocoads.net
 a.tf4srv.com
+a.traffic-gold.com
 a.vws4brkfst.com
 a.worldstarlinker.com
 abc.notifysrv.com
@@ -842,6 +841,7 @@ rtb.allureanews.com
 rtb.eunow4u.com
 rtb.exoclick.com
 rtb.nowsrv.com
+rtb.nuismak.com
 rtb.optidigital.com
 rtb.recoilnetwork.com
 rtb.traffic-gold.com
@@ -904,6 +904,7 @@ s.dseoa0.com
 s.dsesj1.com
 s.dsetx3.com
 s.dsgc99.com
+s.dsgqie.com
 s.dshfwa.com
 s.dshh37.com
 s.dship2.com
@@ -938,6 +939,7 @@ s.dst3hq.com
 s.dst82e.com
 s.dstha9.com
 s.dsukwb.com
+s.dsungx.com
 s.dsuntq.com
 s.dsvfk5.com
 s.dsw3rw.com
@@ -961,7 +963,6 @@ s.eln33b.com
 s.eln3ax.com
 s.eln7dc.com
 s.elna1v.com
-s.elna1w.com
 s.elna1x.com
 s.elnb20.com
 s.elnb21.com
@@ -1056,6 +1057,8 @@ s.wlink1.com
 s.wlink2.com
 s.worldstarlinker.com
 s.x47b2v9.com
+s.xtds1.com
+s.zline0.com
 s.zlink0.com
 s.zlink1.com
 s.zlink2.com
@@ -1127,6 +1130,7 @@ syndication.linkfryn.com
 syndication.linkwitt.com
 syndication.realsrv.com
 syndication.whibd.com
+syndication.whibm.com
 syndication.whibp.com
 syndication0.exoclick.com
 tap.notifysrv.com
@@ -1240,12 +1244,16 @@ www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
 www.survey.notifysrv.com
+a.6hd49jng.com
+a.adsession.com
 a.advertrek.com
 a.allureanews.com
+a.asvsm.com
 a.brilmaver.com
+a.etology.com
+a.hkartg.com
 a.humnert.com
 a.klico.link
 a.r8lnet.com
 a.santabrowser.com
 a.t5z3w0p.com
-a.traffic-gold.com

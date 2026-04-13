@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -115,6 +115,7 @@ afm.vtmarketsvn.com CNAME .
 afm.vtmarketsweb.com CNAME .
 afm.vtmgcn.com CNAME .
 afm.vtmindo.com CNAME .
+afr.jogajunto.bet.br CNAME .
 afs.wearemp.com CNAME .
 analytics.amrcollection.com CNAME .
 analytics.beachbound.com CNAME .
@@ -188,6 +189,7 @@ cdn.alliantcreditunion.com CNAME .
 cdn.bambusystems.com CNAME .
 cdn.coastcapitalsavings.com CNAME .
 cdn.gusto.com CNAME .
+cdn1.dol.state.nj.us CNAME .
 cdn1.f-cdn.com CNAME .
 cdn1.onecalldirect.co.uk CNAME .
 cdn1.skrill.com CNAME .
@@ -200,6 +202,7 @@ cdn1.thm.westpac.com.au CNAME .
 cdn17.citizensbank.com CNAME .
 cdn2.intercambioexpress.com CNAME .
 cdn2.moneycorp.com CNAME .
+cdn2.services.fordmoney.co.uk CNAME .
 cdn3.littlecaesars.com CNAME .
 cdn3.moneycorp.com CNAME .
 cdna-paymentncb.cofidis.be CNAME .
@@ -541,6 +544,7 @@ crmg-fraudmgmt.bayad.com CNAME .
 css.slots.io CNAME .
 csservice.aircanada.com CNAME .
 cstm.gumtree.com CNAME .
+cust.landg.com CNAME .
 customer.homedepot.com CNAME .
 customercenter-img04.auto-owners.com CNAME .
 custprof.t-mobile.com CNAME .
@@ -911,6 +915,7 @@ prod-dexsta.chaperone.lumindigitalhosting.com CNAME .
 prod-ffcuin.chaperone.lumindigitalhosting.com CNAME .
 prod-firstmark.chaperone.lumindigitalhosting.com CNAME .
 prod-fortcomm-mercury2023.chaperone.lumindigitalhosting.com CNAME .
+prod-freedom-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-frontier.chaperone.lumindigitalhosting.com CNAME .
 prod-fsfcutn.chaperone.lumindigitalhosting.com CNAME .
 prod-hfcuvt.chaperone.lumindigitalhosting.com CNAME .

@@ -17,6 +17,7 @@
 | dtpen.mno.link | frontend.prod.utiq-aws.net |
 | esca.mno.link | frontend.prod.utiq-aws.net |
 | fakexa-post.mno.link | frontend.prod.utiq-aws.net |
+| fakexa.mno.link | frontend.prod.utiq-aws.net |
 | freefr-fixed.mno.link | frontend.prod.utiq-aws.net |
 | mgntat.mno.link | frontend.prod.utiq-aws.net |
 | o2de.mno.link | frontend.prod.utiq-aws.net |
@@ -181,6 +182,7 @@
 | utiq.formel1.de | frontend.prod.utiq-aws.net |
 | utiq.fr.de | frontend.prod.utiq-aws.net |
 | utiq.france.tv | frontend.prod.utiq-aws.net |
+| utiq.francetv-preprod.fr | frontend.prod.utiq-aws.net |
 | utiq.francetv.fr | frontend.prod.utiq-aws.net |
 | utiq.frandroid.com | frontend.prod.utiq-aws.net |
 | utiq.fuehrerscheintest-online.de | frontend.prod.utiq-aws.net |
@@ -201,6 +203,7 @@
 | utiq.grazia.fr | frontend.prod.utiq-aws.net |
 | utiq.groupmintelligence.com | frontend.prod.utiq-aws.net |
 | utiq.gumtree.com | frontend.prod.utiq-aws.net |
+| utiq.gumtree.io | frontend.prod.utiq-aws.net |
 | utiq.gutefrage.net | frontend.prod.utiq-aws.net |
 | utiq.hallo-eltern.de | frontend.prod.utiq-aws.net |
 | utiq.hallo-muenchen.de | frontend.prod.utiq-aws.net |
@@ -431,6 +434,7 @@
 | utiq.serienjunkies.de | frontend.prod.utiq-aws.net |
 | utiq.sevilla.abc.es | frontend.prod.utiq-aws.net |
 | utiq.siegener-zeitung.de | frontend.prod.utiq-aws.net |
+| utiq.sk-gaming.games | frontend.prod.utiq-aws.net |
 | utiq.sn-online.de | frontend.prod.utiq-aws.net |
 | utiq.soester-anzeiger.de | frontend.prod.utiq-aws.net |
 | utiq.sofinco.fr | frontend.prod.utiq-aws.net |
@@ -532,6 +536,7 @@
 | orangefr-test.mno.link | frontend.test.utiq-aws.net |
 | utiq-test.utest1.work | frontend.test.utiq-aws.net |
 | utiq-test.utest3.work | frontend.test.utiq-aws.net |
+| utiq.one.utest1.work | frontend.test.utiq-aws.net |
 | utiq.utest2.work | frontend.test.utiq-aws.net |
 | utiq.utest3.work | frontend.test.utiq-aws.net |
 | vfdemsp.mno.link | frontend.test.utiq-aws.net |

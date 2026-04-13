@@ -24,6 +24,7 @@
     * lumhdco.customers.1p-data.co
     * msnpurf.customers.1p-data.co
     * nahrnly.customers.1p-data.co
+    * otbybdd.customers.1p-data.co
     * pmpbzjp.customers.1p-data.co
     * qqguqdw.customers.1p-data.co
     * qroyrbh.customers.1p-data.co
@@ -67,6 +68,7 @@
 | lumhdco.mykitsch.com | lumhdco.customers.1p-data.co |
 | msnpurf.themjewelersny.com | msnpurf.customers.1p-data.co |
 | nahrnly.tuningsupply.com | nahrnly.customers.1p-data.co |
+| otbybdd.petitplaya.com | otbybdd.customers.1p-data.co |
 | pmpbzjp.everydaydose.com | pmpbzjp.customers.1p-data.co |
 | qqguqdw.veneera.nl | qqguqdw.customers.1p-data.co |
 | qroyrbh.veneera.fr | qroyrbh.customers.1p-data.co |

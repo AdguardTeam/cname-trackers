@@ -9,6 +9,7 @@
 ### Rarely active trackers
 
 * u52.aabdmn.com
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -79,11 +80,11 @@
 | a.ahort.xyz | 0i0i0i0.com |
 | a.allopurinolzyloprim.shop | 0i0i0i0.com |
 | a.alont.xyz | 0i0i0i0.com |
-| a.ambie.site | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.aramb.site | 0i0i0i0.com |
 | a.arbadah.com | 0i0i0i0.com |
 | a.ardont.xyz | 0i0i0i0.com |
+| a.aribo.xyz | 0i0i0i0.com |
 | a.atakcdn.art | 0i0i0i0.com |
 | a.atrem.site | 0i0i0i0.com |
 | a.baloe.xyz | 0i0i0i0.com |
@@ -99,14 +100,12 @@
 | a.bramb.site | 0i0i0i0.com |
 | a.brebo.xyz | 0i0i0i0.com |
 | a.breka.fit | 0i0i0i0.com |
-| a.brene.site | 0i0i0i0.com |
 | a.btrem.site | 0i0i0i0.com |
 | a.ceget.xyz | 0i0i0i0.com |
 | a.celit.xyz | 0i0i0i0.com |
 | a.celoe.xyz | 0i0i0i0.com |
 | a.cidont.xyz | 0i0i0i0.com |
 | a.cigore.xyz | 0i0i0i0.com |
-| a.cilon.site | 0i0i0i0.com |
 | a.cingo.sbs | 0i0i0i0.com |
 | a.clickintact.com | 0i0i0i0.com |
 | a.cramb.site | 0i0i0i0.com |
@@ -122,14 +121,12 @@
 | a.dipi.online | 0i0i0i0.com |
 | a.dramb.site | 0i0i0i0.com |
 | a.drato.xyz | 0i0i0i0.com |
-| a.drem.site | 0i0i0i0.com |
 | a.dremp.xyz | 0i0i0i0.com |
 | a.drient.xyz | 0i0i0i0.com |
 | a.dtrem.site | 0i0i0i0.com |
 | a.egori.xyz | 0i0i0i0.com |
 | a.eiget.xyz | 0i0i0i0.com |
 | a.elbep.xyz | 0i0i0i0.com |
-| a.eniza.site | 0i0i0i0.com |
 | a.enlor.xyz | 0i0i0i0.com |
 | a.epito.xyz | 0i0i0i0.com |
 | a.eramb.site | 0i0i0i0.com |
@@ -148,13 +145,10 @@
 | a.frodo.space | 0i0i0i0.com |
 | a.ftrem.site | 0i0i0i0.com |
 | a.fuget.xyz | 0i0i0i0.com |
-| a.fynil.site | 0i0i0i0.com |
 | a.gebir.xyz | 0i0i0i0.com |
 | a.gegori.xyz | 0i0i0i0.com |
 | a.gelor.xyz | 0i0i0i0.com |
 | a.ghuet.xyz | 0i0i0i0.com |
-| a.gimea.site | 0i0i0i0.com |
-| a.gimet.site | 0i0i0i0.com |
 | a.gixto.xyz | 0i0i0i0.com |
 | a.gogoga.xyz | 0i0i0i0.com |
 | a.gramb.site | 0i0i0i0.com |
@@ -167,13 +161,11 @@
 | a.hilar.xyz | 0i0i0i0.com |
 | a.holimsishoe.click | 0i0i0i0.com |
 | a.hramb.site | 0i0i0i0.com |
-| a.hreso.site | 0i0i0i0.com |
 | a.hrient.xyz | 0i0i0i0.com |
 | a.htrem.site | 0i0i0i0.com |
 | a.hubhubhub.name | 0i0i0i0.com |
 | a.hugit.xyz | 0i0i0i0.com |
 | a.humto.xyz | 0i0i0i0.com |
-| a.hupot.site | 0i0i0i0.com |
 | a.inato.xyz | 0i0i0i0.com |
 | a.ingant.xyz | 0i0i0i0.com |
 | a.inlar.xyz | 0i0i0i0.com |
@@ -181,13 +173,11 @@
 | a.iramb.site | 0i0i0i0.com |
 | a.irenk.xyz | 0i0i0i0.com |
 | a.itren.site | 0i0i0i0.com |
-| a.itrex.site | 0i0i0i0.com |
 | a.izoga.xyz | 0i0i0i0.com |
 | a.jenoga.xyz | 0i0i0i0.com |
 | a.jilar.xyz | 0i0i0i0.com |
 | a.jirot.xyz | 0i0i0i0.com |
 | a.jogent.xyz | 0i0i0i0.com |
-| a.jopel.site | 0i0i0i0.com |
 | a.jramb.site | 0i0i0i0.com |
 | a.jtren.site | 0i0i0i0.com |
 | a.jumto.xyz | 0i0i0i0.com |
@@ -260,6 +250,7 @@
 | ad.empressleak.biz | 0i0i0i0.com |
 | ad.tubelegion.com | 0i0i0i0.com |
 | ad.xxam.org | 0i0i0i0.com |
+| ad2.freeasianmovies.cam | 0i0i0i0.com |
 | ad7.cuteasianvideos.store | 0i0i0i0.com |
 | ad8.hottestasians.pics | 0i0i0i0.com |
 | adb.reallifecams.net | 0i0i0i0.com |
@@ -526,6 +517,7 @@
 | e.bloblohub.com | 0i0i0i0.com |
 | e.seksohub.com | 0i0i0i0.com |
 | e.sexbule.xxx | 0i0i0i0.com |
+| e0d7lwti.xyz | 0i0i0i0.com |
 | earnvids05032026.shop | 0i0i0i0.com |
 | ebd.cda-hd.cc | 0i0i0i0.com |
 | ebd.cda-hd.co | 0i0i0i0.com |
@@ -727,6 +719,7 @@
 | mediacdn.x1hub.com | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
 | mestierediscrivere.hubhubhub.name | 0i0i0i0.com |
+| mezir1nm.xyz | 0i0i0i0.com |
 | mficlyxgvfsp.cdnvideo3.com | 0i0i0i0.com |
 | mgbkt9eckr.xn--mgbkt9eckr.net | 0i0i0i0.com |
 | mgtb.ifuckedyourgf.com | 0i0i0i0.com |
@@ -805,7 +798,6 @@
 | okoloss.com | 0i0i0i0.com |
 | onsen.japanstartup.info | 0i0i0i0.com |
 | ontherightwithme.com | 0i0i0i0.com |
-| ontj.com | 0i0i0i0.com |
 | ooawsxkdrm.club | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | oquaysx.club | 0i0i0i0.com |
@@ -875,7 +867,6 @@
 | qa.pleasedonotblockme.com | 0i0i0i0.com |
 | qa.xxmvideos.club | 0i0i0i0.com |
 | qmogjaezcv.club | 0i0i0i0.com |
-| qoqv.com | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
 | qpwvok0l.xyz | 0i0i0i0.com |
 | qr08uw9e.xyz | 0i0i0i0.com |
@@ -1030,6 +1021,7 @@
 | ts.sopornvideos.com | 0i0i0i0.com |
 | tssyakir.xyz | 0i0i0i0.com |
 | tt.wl-cornholio.com | 0i0i0i0.com |
+| txoswd4i.xyz | 0i0i0i0.com |
 | u1zga.letsporn.com | 0i0i0i0.com |
 | u3o1uncq.xyz | 0i0i0i0.com |
 | u51o6pqk.xyz | 0i0i0i0.com |
@@ -1175,6 +1167,7 @@
 | yaanom.tentenhunukwa.space | 0i0i0i0.com |
 | yd2oq9bo.xyz | 0i0i0i0.com |
 | yqohoxwuyu.club | 0i0i0i0.com |
+| yqxyktrd.xyz | 0i0i0i0.com |
 | ytlsppuzpf.club | 0i0i0i0.com |
 | yut4is9b.xyz | 0i0i0i0.com |
 | yzwtg89j.xyz | 0i0i0i0.com |
@@ -1192,6 +1185,7 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | www.go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | now.plsgotoasg.com | u52.aabdmn.com |
+| qoqv.com | u53.hypnorat.com |
 | adspyglass.8qw.ru | u57.muzikguide.com |
 | hotadultcontent.com | u57.muzikguide.com |
 | hotadultvids.com | u57.muzikguide.com |

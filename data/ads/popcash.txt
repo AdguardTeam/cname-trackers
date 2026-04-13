@@ -284,7 +284,6 @@
 ||cardinal.zenting.app^
 ||caribou.mcgregorpublishing.com^
 ||carp.amespacios.com^
-||carp.pbncontent.com^
 ||carp.spotonevent.no^
 ||cat.beunitedinchrist.com^
 ||cat.gfx.io^
@@ -617,7 +616,6 @@
 ||lynx.inovo.io^
 ||lynx.lumy.network^
 ||lynx.microl.ink^
-||lynx.sbstjn.com^
 ||lynx.simpleparish.com^
 ||macaw.ianmitchell.dev^
 ||mackerel.passiveincome.io^
@@ -863,7 +861,6 @@
 ||stork.notlessbutbetter.com^
 ||sturgeon.patentfamily.com^
 ||swallow.pelias.io^
-||swan.turbonav.com^
 ||swan.visualma.com^
 ||swift.avenue.so^
 ||swift.ciudadanob.com^
@@ -970,7 +967,6 @@
 ||wombat.buildrtech.com^
 ||wombat.modinfinity.com^
 ||wombat.tigil.fr^
-||woodpecker.binario11.de^
 ||woodpecker.ember.ly^
 ||woodpecker.mikehalliday.com^
 ||worm.communitytrustproject.org^

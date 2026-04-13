@@ -2,6 +2,7 @@
 # Company name: GoatCounter
 anal.sataniskwijt.be
 analytics.applycreatures.com
+analytics.carnelian.cc
 analytics.code.dccouncil.gov
 analytics.codes.baltimorecity.gov
 analytics.demo.plateau.ng.open.law
@@ -33,6 +34,7 @@ count.andreabrandi.com
 count.kealper.com
 count.vidsrc.pro
 counter.storydragon.nl
+da-stats.sladewatkins.net
 dot-com-stats.sladewatkins.net
 gc.acut3.net
 gc.grokhard.com
@@ -59,6 +61,7 @@ goatcounter.repozitor.com
 goatcounter.thedave.dev
 goatcounter.thedave.me
 goatcounter.thedave.photos
+goatstats.fiesta.plus
 gtcntr.enamya.me
 moo.geopogs.party
 novi.webnovi.eu
@@ -77,6 +80,7 @@ stats.abdodaoud.com
 stats.afirmacijas.lv
 stats.alextecplayz.com
 stats.apitman.com
+stats.arredofrigo.net
 stats.artero.dev
 stats.artur-rodrigues.com
 stats.benjaminmorris.com
@@ -91,10 +95,14 @@ stats.certidiritti.org
 stats.cloudflex.team
 stats.cloudnativebitcoin.org
 stats.coderscompass.org
+stats.contractor-prep.com
+stats.cormier.co
 stats.crosshair.dev
+stats.cynicalsignals.com
 stats.dalinwilliams.com
 stats.davidjuhasz.dev
 stats.defiscitoyens.org
+stats.docs.semio-tech.com
 stats.eithel.org
 stats.fieald.com
 stats.forest-school.am
@@ -105,12 +113,14 @@ stats.hadejkde.cz
 stats.haseebmajid.dev
 stats.hdyar.com
 stats.hedy.dev
+stats.homecompanion.io
 stats.how.wtf
 stats.ignatuque.xyz
 stats.isaacfreund.com
 stats.issues.cooking
 stats.jakebailey.dev
 stats.jamesgwyer.com
+stats.janmr.com
 stats.jasm1nii.xyz
 stats.jessesquires.com
 stats.jmmr.dev
@@ -127,6 +137,7 @@ stats.lakeloui.se
 stats.lena-binkowski.de
 stats.linerly.xyz
 stats.lspeed.org
+stats.manakin.fi
 stats.matteocroce.it
 stats.mausoleum.me
 stats.merrell.dev
@@ -138,7 +149,9 @@ stats.opensurge2d.org
 stats.otbivnoe.ru
 stats.palaisdesfetes.eu
 stats.pamcarter.net
+stats.paperarrow.com
 stats.philippdubach.com
+stats.programmershideaway.dev
 stats.pttrn.io
 stats.pvme.omg.lol
 stats.r18.dev

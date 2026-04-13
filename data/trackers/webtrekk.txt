@@ -38,8 +38,6 @@
 ||a.jaz-hotel.com^
 ||a.maxxhotel.com^
 ||a.zleep.com^
-||analytics.hermesworld.com^
-||analytics.myhermes.de^
 ||app03.ikk-classic.de^
 ||ctd.cucchiaio.it^
 ||ctd.domusweb.it^

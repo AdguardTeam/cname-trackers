@@ -168,7 +168,6 @@
     * 72a0097c-scxitlgt.cname.ebis.ne.jp
     * 730fac49-ezdvkv2x.cname.ebis.ne.jp
     * 73b08207-acrymmnj.cname.ebis.ne.jp
-    * 7480e75d-vhd4fq1g.cname.ebis.ne.jp
     * 748da21f-kuqpafku.cname.ebis.ne.jp
     * 764e38c5-th0o4wui.cname.ebis.ne.jp
     * 7700f733-gwbfzy7a.cname.ebis.ne.jp
@@ -534,7 +533,6 @@
 | cs0008sbeda.uricacid-lowering.com | 72a0097c-scxitlgt.cname.ebis.ne.jp |
 | ebis.bulk.co.jp | 730fac49-ezdvkv2x.cname.ebis.ne.jp |
 | cname.sokuyaku.jp | 73b08207-acrymmnj.cname.ebis.ne.jp |
-| ad.aim-universe.co.jp | 7480e75d-vhd4fq1g.cname.ebis.ne.jp |
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |
 | adebis-catstreet.trunk-hotel.com | 764e38c5-th0o4wui.cname.ebis.ne.jp |
 | ebistoppan2.10nengenki.com | 7700f733-gwbfzy7a.cname.ebis.ne.jp |

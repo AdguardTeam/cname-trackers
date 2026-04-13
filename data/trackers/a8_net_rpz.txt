@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -112,7 +112,6 @@ a8.eonet.jp CNAME .
 a8.eonet.ne.jp CNAME .
 a8.epauler.co.jp CNAME .
 a8.epo.info CNAME .
-a8.everest.ac CNAME .
 a8.evertrust-inc.com CNAME .
 a8.exam-katekyo.com CNAME .
 a8.exetime.jp CNAME .
@@ -961,6 +960,7 @@ a8cv.global-dive.jp CNAME .
 a8cv.global-link-seminar.com CNAME .
 a8cv.glocalnet.jp CNAME .
 a8cv.glow-clinic.com CNAME .
+a8cv.gmo-connect.com CNAME .
 a8cv.goods-station.jp CNAME .
 a8cv.grace-grace.info CNAME .
 a8cv.grassbeaute.jp CNAME .
@@ -1517,7 +1517,6 @@ cv.smakon.jp CNAME .
 cv.stella-s.com CNAME .
 cv.subscription-store.com CNAME .
 cv.sumaho-hoken.jp CNAME .
-cv.sunny-store-cart.com CNAME .
 cv.taskar.online CNAME .
 cv.tenjin.cc CNAME .
 cv.theatreacademy.info CNAME .

@@ -8,6 +8,7 @@
 ||esca-test.mno.link^
 ||esca.mno.link^
 ||fakexa-post.mno.link^
+||fakexa.mno.link^
 ||freefr-fixed.mno.link^
 ||logger-test.mno.link^
 ||mgntat.mno.link^
@@ -176,6 +177,7 @@
 ||utiq.formel1.de^
 ||utiq.fr.de^
 ||utiq.france.tv^
+||utiq.francetv-preprod.fr^
 ||utiq.francetv.fr^
 ||utiq.frandroid.com^
 ||utiq.fuehrerscheintest-online.de^
@@ -196,6 +198,7 @@
 ||utiq.grazia.fr^
 ||utiq.groupmintelligence.com^
 ||utiq.gumtree.com^
+||utiq.gumtree.io^
 ||utiq.gutefrage.net^
 ||utiq.hallo-eltern.de^
 ||utiq.hallo-muenchen.de^
@@ -372,6 +375,7 @@
 ||utiq.oktoberfest.bayern^
 ||utiq.olivemagazine.com^
 ||utiq.ondavasca.com^
+||utiq.one.utest1.work^
 ||utiq.op-marburg.de^
 ||utiq.op-online.de^
 ||utiq.orange.es^
@@ -426,6 +430,7 @@
 ||utiq.serienjunkies.de^
 ||utiq.sevilla.abc.es^
 ||utiq.siegener-zeitung.de^
+||utiq.sk-gaming.games^
 ||utiq.sn-online.de^
 ||utiq.soester-anzeiger.de^
 ||utiq.sofinco.fr^

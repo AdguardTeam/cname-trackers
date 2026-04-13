@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ kpdignp.trumerholz.com CNAME .
 lumhdco.mykitsch.com CNAME .
 msnpurf.themjewelersny.com CNAME .
 nahrnly.tuningsupply.com CNAME .
+otbybdd.petitplaya.com CNAME .
 pmpbzjp.everydaydose.com CNAME .
 qqguqdw.veneera.nl CNAME .
 qroyrbh.veneera.fr CNAME .

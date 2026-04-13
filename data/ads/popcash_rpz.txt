@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -295,7 +295,6 @@ cardinal.newman.is CNAME .
 cardinal.zenting.app CNAME .
 caribou.mcgregorpublishing.com CNAME .
 carp.amespacios.com CNAME .
-carp.pbncontent.com CNAME .
 carp.spotonevent.no CNAME .
 cat.beunitedinchrist.com CNAME .
 cat.gfx.io CNAME .
@@ -628,7 +627,6 @@ louse.sigle.io CNAME .
 lynx.inovo.io CNAME .
 lynx.lumy.network CNAME .
 lynx.microl.ink CNAME .
-lynx.sbstjn.com CNAME .
 lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
 mackerel.passiveincome.io CNAME .
@@ -874,7 +872,6 @@ stork.ibite.company CNAME .
 stork.notlessbutbetter.com CNAME .
 sturgeon.patentfamily.com CNAME .
 swallow.pelias.io CNAME .
-swan.turbonav.com CNAME .
 swan.visualma.com CNAME .
 swift.avenue.so CNAME .
 swift.ciudadanob.com CNAME .
@@ -981,7 +978,6 @@ wolverine.prsaccreditation.com CNAME .
 wombat.buildrtech.com CNAME .
 wombat.modinfinity.com CNAME .
 wombat.tigil.fr CNAME .
-woodpecker.binario11.de CNAME .
 woodpecker.ember.ly CNAME .
 woodpecker.mikehalliday.com CNAME .
 worm.communitytrustproject.org CNAME .

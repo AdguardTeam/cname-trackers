@@ -264,6 +264,7 @@ affilpartner.descanti.com
 affilpartneri.affilbusiness.cz
 afill.e-potisk.cz
 ambasador.montessorikurz.cz
+ambasador.montessorispolecne.cz
 ambasadorky.zenyzenam.cz
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
@@ -280,6 +281,7 @@ doporuc.konferenceryba.cz
 doporuc.krmimkvalitne.cz
 doporuc.necojakocola.cz
 doporuc.promujdomov.cz
+doporuc.shopiam4u.cz
 doporuc.slevomat.cz
 doporucim.zjistitcenu.cz
 equilist.raj-ohlavek.cz
@@ -330,7 +332,6 @@ my.top4football.es
 my.top4football.fi
 my.top4football.fr
 my.top4football.hu
-my.top4football.ro
 my.top4running.at
 my.top4running.be
 my.top4running.bg
@@ -393,6 +394,7 @@ my.weplayvolleyball.gr
 my.weplayvolleyball.hu
 my.weplayvolleyball.it
 my.weplayvolleyball.lt
+my.weplayvolleyball.pl
 my.weplayvolleyball.ro
 my.weplayvolleyball.si
 my.weplayvolleyball.sk
@@ -519,6 +521,7 @@ partner.expresmenu.com
 partner.expresmenu.cz
 partner.expresmenu.pl
 partner.expresmenu.sk
+partner.fabulo.cz
 partner.fabulo.sk
 partner.farbe.cz
 partner.ferratum.cz
@@ -532,6 +535,7 @@ partner.gaymegastore.eu
 partner.gel-gun.cz
 partner.gingershot.cz
 partner.giulieta.shop
+partner.gloe.cz
 partner.gokids.cz
 partner.golden-life.cz
 partner.gr7.cz
@@ -596,6 +600,7 @@ partner.lovella.cz
 partner.ltx.cz
 partner.luckyalvin.cz
 partner.lyzelyze.cz
+partner.mailocator.cz
 partner.majtki.cz
 partner.malujpodlecisel.cz
 partner.marspom.cz
@@ -668,6 +673,7 @@ partner.pozitivnerozpravky.sk
 partner.ppb-pohary.cz
 partner.pradoch.cz
 partner.pravopisne.cz
+partner.premavita.sk
 partner.premiove-matrace.cz
 partner.prodejniakademie.cz
 partner.prohrejeme.cz
@@ -834,6 +840,7 @@ partneri.monikakorinkova.cz
 partneri.mrblast.eu
 partneri.muzeslepe.cz
 partneri.mydlatamara.sk
+partneri.myrentia.com
 partneri.nabytek-natali.cz
 partneri.natu.cz
 partneri.nutricbistro.cz
@@ -939,6 +946,7 @@ spoluprace.janitaurbanova.cz
 spoluprace.kabefarben.cz
 spoluprace.luxusnipradlo.cz
 spoluprace.m-soft.cz
+spoluprace.m99.cz
 spoluprace.majka-shop.cz
 spoluprace.megalu.cz
 spoluprace.mentorkalucie.cz

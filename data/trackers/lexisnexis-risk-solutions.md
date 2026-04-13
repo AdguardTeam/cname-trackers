@@ -89,6 +89,7 @@
     * h-3u2bmrkg.online-metrix.net
     * h-3wqki6ra.online-metrix.net
     * h-3xgulmxb.online-metrix.net
+    * h-3y5tvhdw.online-metrix.net
     * h-3z5dc3wi.online-metrix.net
     * h-3zlt5rop.online-metrix.net
     * h-40347ghm.online-metrix.net
@@ -185,6 +186,7 @@
     * h-7xy7wvmp.online-metrix.net
     * h-7yh412tv.online-metrix.net
     * h-84sv8qof.online-metrix.net
+    * h-855iprp2.online-metrix.net
     * h-87rxrdob.online-metrix.net
     * h-884tnrtj.online-metrix.net
     * h-88r8fbe3.online-metrix.net
@@ -195,6 +197,7 @@
     * h-8e0pj0s9.online-metrix.net
     * h-8em5ysu2.online-metrix.net
     * h-8hqbv9ql.online-metrix.net
+    * h-8i420rz5.online-metrix.net
     * h-8j0oqkrb-1.online-metrix.net
     * h-8j0oqkrb-2.online-metrix.net
     * h-8la63gsu.online-metrix.net
@@ -424,6 +427,7 @@
     * h-clearcover.online-metrix.net
     * h-cloudwalk.online-metrix.net
     * h-clubpremier.online-metrix.net
+    * h-cm1yqrkq3.online-metrix.net
     * h-cm889fny.online-metrix.net
     * h-cofidis-be.online-metrix.net
     * h-cofidis-es.online-metrix.net
@@ -931,6 +935,7 @@
 | prod-ffcuin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-firstmark.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-fortcomm-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-freedom-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-frontier.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-fsfcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-hfcuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1056,6 +1061,7 @@
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
 | accountm.myflfamilies.com | h-3wqki6ra.online-metrix.net |
 | device-id.orientalbank.com | h-3xgulmxb.online-metrix.net |
+| cust.landg.com | h-3y5tvhdw.online-metrix.net |
 | event.evtm.53.com | h-3z5dc3wi.online-metrix.net |
 | shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
 | diff3.orange.es | h-40347ghm.online-metrix.net |
@@ -1226,6 +1232,7 @@
 | ltxup.sumup.com | h-84sv8qof.online-metrix.net |
 | ltxup.sumup.io | h-84sv8qof.online-metrix.net |
 | ltxup.sumupstore.com | h-84sv8qof.online-metrix.net |
+| afr.jogajunto.bet.br | h-855iprp2.online-metrix.net |
 | tm.production.eu1.tmfp.klarna.net | h-87rxrdob.online-metrix.net |
 | tmfp.klarna.com | h-87rxrdob.online-metrix.net |
 | phyon.visit-x.net | h-884tnrtj.online-metrix.net |
@@ -1237,6 +1244,7 @@
 | 1bf86f4b.tictoc.ai | h-8e0pj0s9.online-metrix.net |
 | dtrust.atratopago.com | h-8em5ysu2.online-metrix.net |
 | online-security.unionbankph.com | h-8hqbv9ql.online-metrix.net |
+| cdn1.dol.state.nj.us | h-8i420rz5.online-metrix.net |
 | ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
 | rct.ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
 | ext.creditpartner.fr | h-8j0oqkrb-2.online-metrix.net |
@@ -1674,6 +1682,7 @@
 | tm.clearcover.com | h-clearcover.online-metrix.net |
 | authorizer-data.infinitepay.io | h-cloudwalk.online-metrix.net |
 | content.clubpremier.com | h-clubpremier.online-metrix.net |
+| cdn2.services.fordmoney.co.uk | h-cm1yqrkq3.online-metrix.net |
 | validators.ifpsoyyo.co | h-cm889fny.online-metrix.net |
 | cdna-paymentncb.cofidis.be | h-cofidis-be.online-metrix.net |
 | www.cdna.cofidis.be | h-cofidis-be.online-metrix.net |

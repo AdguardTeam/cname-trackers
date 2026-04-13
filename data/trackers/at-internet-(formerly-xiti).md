@@ -15,6 +15,7 @@
     * arrietty-nrj-fr-cddc.at-o.net
     * at-badische-zeitung-de-cddc.at-o.net
     * ati-allwyn-cz-cddc.at-o.net
+    * ati-allwynfts-cz-cddc.at-o.net
     * ati-sazka-cz-cddc.at-o.net
     * ati-sazkahry-sk-cddc.at-o.net
     * aud-banque-france-fr-cddc.at-o.net
@@ -23,6 +24,7 @@
     * buf-lemonde-fr-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
     * chihiro-nostalgie-fr-cddc.at-o.net
+    * clavecin-taokids-be-cddc.at-o.net
     * clavecin-taokids-com-cddc.at-o.net
     * col-casa-it-cddc.at-o.net
     * col-idealista-com-cddc.at-o.net
@@ -63,6 +65,7 @@
     * mefo1-zdf-de-cddc.at-o.net
     * mkt-usz-ch-cddc.at-o.net
     * montpalatin-handicap-fr-cddc.at-o.net
+    * pa-parcasterix-fr-cddc.at-o.net
     * pear-youzful-by-ca-fr-cddc.at-o.net
     * pfhub-petitfute-co-uk-cddc.at-o.net
     * pfhub-petitfute-com-cddc.at-o.net
@@ -123,6 +126,7 @@
 | arrietty.nrj.fr | arrietty-nrj-fr-cddc.at-o.net |
 | at.badische-zeitung.de | at-badische-zeitung-de-cddc.at-o.net |
 | ati.allwyn.cz | ati-allwyn-cz-cddc.at-o.net |
+| ati.allwynfts.cz | ati-allwynfts-cz-cddc.at-o.net |
 | ati.sazka.cz | ati-sazka-cz-cddc.at-o.net |
 | ati.sazkahry.sk | ati-sazkahry-sk-cddc.at-o.net |
 | aud.banque-france.fr | aud-banque-france-fr-cddc.at-o.net |
@@ -131,6 +135,7 @@
 | buf.lemonde.fr | buf-lemonde-fr-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
 | chihiro.nostalgie.fr | chihiro-nostalgie-fr-cddc.at-o.net |
+| clavecin.taokids.be | clavecin-taokids-be-cddc.at-o.net |
 | clavecin.taokids.com | clavecin-taokids-com-cddc.at-o.net |
 | col.casa.it | col-casa-it-cddc.at-o.net |
 | col.idealista.com | col-idealista-com-cddc.at-o.net |
@@ -171,6 +176,7 @@
 | mefo1.zdf.de | mefo1-zdf-de-cddc.at-o.net |
 | mkt.usz.ch | mkt-usz-ch-cddc.at-o.net |
 | montpalatin.handicap.fr | montpalatin-handicap-fr-cddc.at-o.net |
+| pa.parcasterix.fr | pa-parcasterix-fr-cddc.at-o.net |
 | pear.youzful-by-ca.fr | pear-youzful-by-ca-fr-cddc.at-o.net |
 | pfhub.petitfute.co.uk | pfhub-petitfute-co-uk-cddc.at-o.net |
 | pfhub.petitfute.com | pfhub-petitfute-com-cddc.at-o.net |

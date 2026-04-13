@@ -438,6 +438,7 @@
 | stats.filejuggler.com | custom.plausible.io |
 | stats.finalrabiesgeneration.org | custom.plausible.io |
 | stats.findvax.us | custom.plausible.io |
+| stats.flightformation.com | custom.plausible.io |
 | stats.flightsphere.com | custom.plausible.io |
 | stats.flowphantom.com | custom.plausible.io |
 | stats.footwork.co | custom.plausible.io |
@@ -749,7 +750,6 @@
 | stats.vinkkaa.fi | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |
 | stats.voltimum.com | custom.plausible.io |
-| stats.wafflemeido.art | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
 | stats.warrantynowvoid.com | custom.plausible.io |
 | stats.websnap.app | custom.plausible.io |

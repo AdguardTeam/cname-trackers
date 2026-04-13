@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -151,6 +151,7 @@ gruenten.wahl-equi.it CNAME .
 gruenten.wahl-reitsport.at CNAME .
 gruenten.wahl-reitsport.com CNAME .
 gus.corinnavondermuehlen.de CNAME .
+gus.ihlenfeldt.de CNAME .
 insides.honic.eu CNAME .
 insights.bertelsmann-stiftung.de CNAME .
 js.edingershops.de CNAME .
@@ -195,6 +196,7 @@ metrics.thegoodshit.store CNAME .
 metrics.thomasipunkt.de CNAME .
 metrics.treudelberg-resort.com CNAME .
 metrics.ultra-med.de CNAME .
+metrics.vorreiter-hotels.com CNAME .
 metrics.walter-cmp.de CNAME .
 metrics.zaun-star.com CNAME .
 mktg.activemind.legal CNAME .
@@ -367,6 +369,7 @@ webcontr.lotto-hh.de CNAME .
 webcontr.luxentu.de CNAME .
 webcontr.mea-living.de CNAME .
 webcontr.momenture.de CNAME .
+webcontr.my.schako.com CNAME .
 webcontr.naturschutzcenter.de CNAME .
 webcontr.parax.de CNAME .
 webcontr.pedalbox.com CNAME .
@@ -404,9 +407,11 @@ webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
 webstt0002.onofficeom.com CNAME .
 webstt0004.onofficeom.com CNAME .
+webstt0007.onofficeom.com CNAME .
 webstt0009.onofficeom.com CNAME .
 webstt0011.onofficeom.com CNAME .
 webstt0012.onofficeom.com CNAME .
+webstt0014.onofficeom.com CNAME .
 webstt0015.onofficeom.com CNAME .
 webstt0016.onofficeom.com CNAME .
 webstt0017.onofficeom.com CNAME .
@@ -414,6 +419,7 @@ webstt0019.onofficeom.com CNAME .
 webstt0020.onofficeom.com CNAME .
 webstt0021.onofficeom.com CNAME .
 webstt0022.onofficeom.com CNAME .
+webstt0027.onofficeom.com CNAME .
 websy.skillyofficial.com CNAME .
 webtr.cc-egov.de CNAME .
 webtr.codearchitekten.de CNAME .

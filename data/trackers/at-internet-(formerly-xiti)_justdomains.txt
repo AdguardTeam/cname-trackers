@@ -13,6 +13,7 @@ arrietty.nrj.fr
 at.badische-zeitung.de
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
 ati.allwyn.cz
+ati.allwynfts.cz
 ati.sazka.cz
 ati.sazkahry.sk
 aud.banque-france.fr
@@ -21,6 +22,7 @@ avp.labanquepostale.fr
 buf.lemonde.fr
 c0012.brsimg.com
 chihiro.nostalgie.fr
+clavecin.taokids.be
 clavecin.taokids.com
 col.casa.it
 col.idealista.com
@@ -61,6 +63,7 @@ leo.play.tv
 mefo1.zdf.de
 mkt.usz.ch
 montpalatin.handicap.fr
+pa.parcasterix.fr
 pear.youzful-by-ca.fr
 pfhub.petitfute.co.uk
 pfhub.petitfute.com

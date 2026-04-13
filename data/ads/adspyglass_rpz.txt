@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -76,11 +76,11 @@ a.agort.xyz CNAME .
 a.ahort.xyz CNAME .
 a.allopurinolzyloprim.shop CNAME .
 a.alont.xyz CNAME .
-a.ambie.site CNAME .
 a.antiadxxxspy.com CNAME .
 a.aramb.site CNAME .
 a.arbadah.com CNAME .
 a.ardont.xyz CNAME .
+a.aribo.xyz CNAME .
 a.atakcdn.art CNAME .
 a.atrem.site CNAME .
 a.baloe.xyz CNAME .
@@ -96,14 +96,12 @@ a.boyjackpot.com CNAME .
 a.bramb.site CNAME .
 a.brebo.xyz CNAME .
 a.breka.fit CNAME .
-a.brene.site CNAME .
 a.btrem.site CNAME .
 a.ceget.xyz CNAME .
 a.celit.xyz CNAME .
 a.celoe.xyz CNAME .
 a.cidont.xyz CNAME .
 a.cigore.xyz CNAME .
-a.cilon.site CNAME .
 a.cingo.sbs CNAME .
 a.clickintact.com CNAME .
 a.cramb.site CNAME .
@@ -119,14 +117,12 @@ a.diloe.xyz CNAME .
 a.dipi.online CNAME .
 a.dramb.site CNAME .
 a.drato.xyz CNAME .
-a.drem.site CNAME .
 a.dremp.xyz CNAME .
 a.drient.xyz CNAME .
 a.dtrem.site CNAME .
 a.egori.xyz CNAME .
 a.eiget.xyz CNAME .
 a.elbep.xyz CNAME .
-a.eniza.site CNAME .
 a.enlor.xyz CNAME .
 a.epito.xyz CNAME .
 a.eramb.site CNAME .
@@ -145,13 +141,10 @@ a.frezeporn.site CNAME .
 a.frodo.space CNAME .
 a.ftrem.site CNAME .
 a.fuget.xyz CNAME .
-a.fynil.site CNAME .
 a.gebir.xyz CNAME .
 a.gegori.xyz CNAME .
 a.gelor.xyz CNAME .
 a.ghuet.xyz CNAME .
-a.gimea.site CNAME .
-a.gimet.site CNAME .
 a.gixto.xyz CNAME .
 a.gogoga.xyz CNAME .
 a.gramb.site CNAME .
@@ -164,13 +157,11 @@ a.helib.xyz CNAME .
 a.hilar.xyz CNAME .
 a.holimsishoe.click CNAME .
 a.hramb.site CNAME .
-a.hreso.site CNAME .
 a.hrient.xyz CNAME .
 a.htrem.site CNAME .
 a.hubhubhub.name CNAME .
 a.hugit.xyz CNAME .
 a.humto.xyz CNAME .
-a.hupot.site CNAME .
 a.inato.xyz CNAME .
 a.ingant.xyz CNAME .
 a.inlar.xyz CNAME .
@@ -178,13 +169,11 @@ a.inpit.xyz CNAME .
 a.iramb.site CNAME .
 a.irenk.xyz CNAME .
 a.itren.site CNAME .
-a.itrex.site CNAME .
 a.izoga.xyz CNAME .
 a.jenoga.xyz CNAME .
 a.jilar.xyz CNAME .
 a.jirot.xyz CNAME .
 a.jogent.xyz CNAME .
-a.jopel.site CNAME .
 a.jramb.site CNAME .
 a.jtren.site CNAME .
 a.jumto.xyz CNAME .
@@ -257,6 +246,7 @@ ad.animeitaly.tv CNAME .
 ad.empressleak.biz CNAME .
 ad.tubelegion.com CNAME .
 ad.xxam.org CNAME .
+ad2.freeasianmovies.cam CNAME .
 ad7.cuteasianvideos.store CNAME .
 ad8.hottestasians.pics CNAME .
 adb.reallifecams.net CNAME .
@@ -525,6 +515,7 @@ dzqtn.lesbianbliss.com CNAME .
 e.bloblohub.com CNAME .
 e.seksohub.com CNAME .
 e.sexbule.xxx CNAME .
+e0d7lwti.xyz CNAME .
 earnvids05032026.shop CNAME .
 ebd.cda-hd.cc CNAME .
 ebd.cda-hd.co CNAME .
@@ -729,6 +720,7 @@ media.tia-tanaka.blog CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 mestierediscrivere.hubhubhub.name CNAME .
+mezir1nm.xyz CNAME .
 mficlyxgvfsp.cdnvideo3.com CNAME .
 mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
 mgtb.ifuckedyourgf.com CNAME .
@@ -807,7 +799,6 @@ ok.transhero.com CNAME .
 okoloss.com CNAME .
 onsen.japanstartup.info CNAME .
 ontherightwithme.com CNAME .
-ontj.com CNAME .
 ooawsxkdrm.club CNAME .
 opus.sexyxxx.biz CNAME .
 oquaysx.club CNAME .
@@ -877,7 +868,6 @@ qa.hdclips.fun CNAME .
 qa.pleasedonotblockme.com CNAME .
 qa.xxmvideos.club CNAME .
 qmogjaezcv.club CNAME .
-qoqv.com CNAME .
 qovua60gue.tubewolf.com CNAME .
 qpwvok0l.xyz CNAME .
 qr08uw9e.xyz CNAME .
@@ -1032,6 +1022,7 @@ tron.bbw-porn-video.com CNAME .
 ts.sopornvideos.com CNAME .
 tssyakir.xyz CNAME .
 tt.wl-cornholio.com CNAME .
+txoswd4i.xyz CNAME .
 u1zga.letsporn.com CNAME .
 u3o1uncq.xyz CNAME .
 u51o6pqk.xyz CNAME .
@@ -1178,6 +1169,7 @@ y6zqw.boyspornpics.com CNAME .
 yaanom.tentenhunukwa.space CNAME .
 yd2oq9bo.xyz CNAME .
 yqohoxwuyu.club CNAME .
+yqxyktrd.xyz CNAME .
 ytlsppuzpf.club CNAME .
 yut4is9b.xyz CNAME .
 yzwtg89j.xyz CNAME .
@@ -1199,3 +1191,4 @@ store4porn.com CNAME .
 topsexmovs.com CNAME .
 video.cdnako.com CNAME .
 now.plsgotoasg.com CNAME .
+qoqv.com CNAME .

@@ -140,6 +140,7 @@ gruenten.wahl-equi.it
 gruenten.wahl-reitsport.at
 gruenten.wahl-reitsport.com
 gus.corinnavondermuehlen.de
+gus.ihlenfeldt.de
 insides.honic.eu
 insights.bertelsmann-stiftung.de
 js.edingershops.de
@@ -184,6 +185,7 @@ metrics.thegoodshit.store
 metrics.thomasipunkt.de
 metrics.treudelberg-resort.com
 metrics.ultra-med.de
+metrics.vorreiter-hotels.com
 metrics.walter-cmp.de
 metrics.zaun-star.com
 mktg.activemind.legal
@@ -356,6 +358,7 @@ webcontr.lotto-hh.de
 webcontr.luxentu.de
 webcontr.mea-living.de
 webcontr.momenture.de
+webcontr.my.schako.com
 webcontr.naturschutzcenter.de
 webcontr.parax.de
 webcontr.pedalbox.com
@@ -393,9 +396,11 @@ webstats.hutdirekt.de
 webstats.kawentsmann.de
 webstt0002.onofficeom.com
 webstt0004.onofficeom.com
+webstt0007.onofficeom.com
 webstt0009.onofficeom.com
 webstt0011.onofficeom.com
 webstt0012.onofficeom.com
+webstt0014.onofficeom.com
 webstt0015.onofficeom.com
 webstt0016.onofficeom.com
 webstt0017.onofficeom.com
@@ -403,6 +408,7 @@ webstt0019.onofficeom.com
 webstt0020.onofficeom.com
 webstt0021.onofficeom.com
 webstt0022.onofficeom.com
+webstt0027.onofficeom.com
 websy.skillyofficial.com
 webtr.cc-egov.de
 webtr.codearchitekten.de

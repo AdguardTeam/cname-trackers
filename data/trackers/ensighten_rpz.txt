@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ agility.tbs.tv CNAME .
 agility.tcm.com CNAME .
 agility.tntdrama.com CNAME .
 agility.trutv.com CNAME .
+agility.unaturalhistoryseries.com CNAME .
 agility.veryfunnyspots.com CNAME .
 analytics.amica.com CNAME .
 analytics.athome.com CNAME .
@@ -298,6 +299,7 @@ p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
 privacy-digital.infracapital.co.uk CNAME .
 privacy-digital.mandg.com CNAME .
+privacy-digital.mandgadvice.com CNAME .
 privacy-digital.pru.co.uk CNAME .
 privacy-digital.pruadviser.co.uk CNAME .
 privacy-digital.pruretire.co.uk CNAME .

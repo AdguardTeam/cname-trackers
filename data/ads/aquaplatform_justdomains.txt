@@ -119,10 +119,12 @@ console.walaplusadserver.com
 coreads-static.cambridge.org
 coreads.cambridge.org
 creatives.goldseek.com
+delivery.ads.fantagiroditalia.it
 delivery.ads.fantasanremo.com
 display.lawbulletin.com
 edgeadserver-delivery.reviveservers.com
 etnomedia-static.reviveservers.com
+growthtrac-delivery.reviveservers.com
 images.addurance.com
 images.cavalier-romand.ch
 images.cricketworld.com

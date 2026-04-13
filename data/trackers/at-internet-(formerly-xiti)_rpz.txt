@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ arrietty.nrj.fr CNAME .
 at.badische-zeitung.de CNAME .
 ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
 ati.allwyn.cz CNAME .
+ati.allwynfts.cz CNAME .
 ati.sazka.cz CNAME .
 ati.sazkahry.sk CNAME .
 aud.banque-france.fr CNAME .
@@ -32,6 +33,7 @@ avp.labanquepostale.fr CNAME .
 buf.lemonde.fr CNAME .
 c0012.brsimg.com CNAME .
 chihiro.nostalgie.fr CNAME .
+clavecin.taokids.be CNAME .
 clavecin.taokids.com CNAME .
 col.casa.it CNAME .
 col.idealista.com CNAME .
@@ -72,6 +74,7 @@ leo.play.tv CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 montpalatin.handicap.fr CNAME .
+pa.parcasterix.fr CNAME .
 pear.youzful-by-ca.fr CNAME .
 pfhub.petitfute.co.uk CNAME .
 pfhub.petitfute.com CNAME .

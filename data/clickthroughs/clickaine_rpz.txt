@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,7 +31,7 @@ api.rtnews.pro CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
-bat31.gimmeporn.xyz CNAME .
+bat32.gimmeporn.xyz CNAME .
 block.18tube.me CNAME .
 c0n.tubestash.com CNAME .
 c4n.allporncomics.co CNAME .
@@ -49,6 +49,7 @@ ca.infomix.best CNAME .
 cc.histoires-de-sexe.club CNAME .
 cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
+cc.sexgeschichten-klub.com CNAME .
 cc.sexgeschichten-xxx.com CNAME .
 cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
@@ -72,7 +73,6 @@ ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dfx.xtapes.porn CNAME .
 drt.cliomovies.com CNAME .
-excavajo13.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 get.xclick24.com CNAME .
@@ -86,6 +86,7 @@ hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
 jpnj.hotpornfile.org CNAME .
+lunar.infinitybet.win CNAME .
 m.brandnewapp.pro CNAME .
 n.russ-porno.net CNAME .
 net.fuckxstream.com CNAME .

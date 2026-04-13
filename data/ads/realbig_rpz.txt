@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1775462432647        ; Serial
+           1776067234442        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -51,9 +51,9 @@ rbparks.sskarta.ru CNAME .
 rbthre.work CNAME .
 rdv.naruto-base.tv CNAME .
 real.delovoemesto.ru CNAME .
-real.dvanadva.ru CNAME .
 rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .
+spush.olmiweb.com CNAME .
 tuesdaysale.bid CNAME .
 vi.zolivexo.store CNAME .
 workerhome.click CNAME .
@@ -62,7 +62,6 @@ www.allworldinfo5.ru CNAME .
 www.androidstores.ru CNAME .
 www.fasder12.ru CNAME .
 www.iskustvenny-intellekt.ru CNAME .
-www.prbcdn.online CNAME .
 www.procarsharing.store CNAME .
 www.pushrb.pro CNAME .
 www.rbdomain.ru CNAME .

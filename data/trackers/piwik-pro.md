@@ -4,6 +4,7 @@
 
 * piwik.pro
     * adnoc.piwik.pro
+    * akvo.piwik.pro
     * amsterdam.piwik.pro
     * aumago.piwik.pro
     * czgroep.piwik.pro
@@ -16,12 +17,13 @@
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
     * helen.piwik.pro
-    * hogeschool.piwik.pro
     * ind.piwik.pro
+    * koop.piwik.pro
     * kuka.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
+    * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * polpharma.piwik.pro
     * pp-koop-p-euw.piwik.pro
@@ -55,6 +57,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | www.webengage.ae | adnoc.piwik.pro |
+| analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
@@ -69,15 +72,17 @@
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
-| analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
+| tagmanager.becop.nl | koop.piwik.pro |
 | p-k.kuka.com | kuka.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
+| statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | polpharmaanalytics.pl | polpharma.piwik.pro |
+| tagmanager.becop.nl | pp-koop-p-euw.piwik.pro |
 | tagmanager.becop.nl | pp-koop-p-euw.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
@@ -87,7 +92,6 @@
 | analytics.akvo.org | pp-public-p-euw.piwik.pro |
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
-| analytics.hr.nl | pp-public-p-euw.piwik.pro |
 | analytics.hr.nl | pp-public-p-euw.piwik.pro |
 | analytics.webanalytics.op.europa.eu | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
