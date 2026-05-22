@@ -1,0 +1,25 @@
+# Version control
+.git
+.gitignore
+
+# Not needed inside Docker
+bamboo-specs/
+assets/
+LICENSE
+README.md
+Dockerfile
+.dockerignore
+
+# Dependencies (installed fresh in deps stage)
+script/node_modules/
+
+# Temp/backup directory used by the script at runtime
+script/temp/
+
+# Logs
+*.log
+
+# IDE and OS files
+.idea
+.vscode
+.DS_Store
