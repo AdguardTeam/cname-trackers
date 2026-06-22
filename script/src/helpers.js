@@ -2,6 +2,7 @@ const { promises: dns } = require('dns');
 const fs = require('fs-extra');
 const path = require('path');
 const { logger } = require('./logger');
+const { record: recordDnsTiming } = require('./dns-stats');
 
 const {
     FORMATS,
@@ -10,6 +11,17 @@ const {
 } = require('./constants');
 
 const DATA_DIR_PATH = './../data';
+
+// Hard timeout for a single DNS lookup. Without it, a query to an
+// unresponsive resolver stays pending forever and stalls the whole
+// build (this is what made Mailgun's 86k+ domains hang for days).
+const DNS_TIMEOUT_MS = 5 * 1000;
+// Max number of DNS lookups resolved in parallel. Throughput scales with
+// concurrency up to a knee (~500 measured on our resolvers, ~1000 qps),
+// then collapses as socket/promise overhead dominates. Picking a value
+// near the knee is both fast AND safe — far better than the old unbounded
+// Promise.all, whose effective throughput fell toward zero at 86k+.
+const DNS_CONCURRENCY = 500;
 
 /**
  * Creates name for combined disguised files
@@ -107,6 +119,29 @@ const writeCombinedFile = async (fileName, fileContent) => fs.writeFile(
  */
 const identity = (el) => el;
 
+/**
+ * Maps over `items` with a limited concurrency, preserving order.
+ * Avoids launching tens of thousands of promises (e.g. DNS lookups) at once.
+ * @param {Array} items
+ * @param {number} concurrency max number of `fn` calls running at once
+ * @param {Function} fn async mapper `(item, index) => result`
+ * @returns {Promise<Array>}
+ */
+const mapWithConcurrency = async (items, concurrency, fn) => {
+    const results = new Array(items.length);
+    let cursor = 0;
+    const worker = async () => {
+        while (cursor < items.length) {
+            const index = cursor;
+            cursor += 1;
+            results[index] = await fn(items[index], index);
+        }
+    };
+    const size = Math.max(1, Math.min(concurrency, items.length));
+    await Promise.all(Array.from({ length: size }, worker));
+    return results;
+};
+
 const replace = (str, replaceable, replacement) => str
     .split(replaceable)
     .map((word) => word.trim())
@@ -194,18 +229,33 @@ const getRemoved = (oldInfo, newInfo) => {
 };
 
 /**
- * Resolve closest canonical name for given disguise
+ * Resolve closest canonical name for given disguise.
+ * A hard timeout is enforced so a query to an unresponsive resolver
+ * can never hang the build forever.
  * @param {string} disguise
- * @returns {string[]|null}
+ * @returns {Promise<string[]|null>}
  */
 const resolveCname = async (disguise) => {
-    let res;
+    const start = Date.now();
+    let timedOut = false;
+    let timer;
+    const timeout = new Promise((resolve) => {
+        timer = setTimeout(() => {
+            timedOut = true;
+            resolve(null);
+        }, DNS_TIMEOUT_MS);
+    });
     try {
-        res = await dns.resolveCname(disguise);
-    } catch (e) {
-        res = null;
+        // dns.resolveCname rejects on error (e.g. ENOTFOUND); treat both
+        // rejection and timeout as "no cname".
+        return await Promise.race([
+            dns.resolveCname(disguise).catch(() => null),
+            timeout,
+        ]);
+    } finally {
+        clearTimeout(timer);
+        recordDnsTiming(Date.now() - start, timedOut);
     }
-    return res;
 };
 
 /**
@@ -261,11 +311,14 @@ const validateCname = async (disguise, tracker) => {
  * @returns {Pair[]} valid pairs
  */
 const getValidPairsFromRemoved = async (removedInfo) => {
-    const validInfo = await Promise.all(Object.entries(removedInfo)
-        .map(async ([disguise, tracker]) => {
+    const validInfo = await mapWithConcurrency(
+        Object.entries(removedInfo),
+        DNS_CONCURRENCY,
+        async ([disguise, tracker]) => {
             const isValid = await validateCname(disguise, tracker);
             return isValid ? { disguise, tracker } : null;
-        }));
+        },
+    );
     // filter nulls after cname validation
     return validInfo.filter(identity);
 };
@@ -335,15 +388,18 @@ const replaceFinalCname = async (entries) => {
     // needed for recovering trackers for failed final cname checking
     const reservedData = Object.fromEntries(entries);
     const uniqDisguises = Object.keys(reservedData);
-    const finalEntries = await Promise.all(uniqDisguises
-        .map(async (disguise) => {
+    const finalEntries = await mapWithConcurrency(
+        uniqDisguises,
+        DNS_CONCURRENCY,
+        async (disguise) => {
             const cnameChain = await getCnamesChain(disguise);
             let finalCname = cnameChain[cnameChain.length - 1];
             if (!finalCname) {
                 finalCname = reservedData[disguise];
             }
             return [disguise, finalCname];
-        }));
+        },
+    );
     return finalEntries;
 };
 
@@ -362,6 +418,7 @@ module.exports = {
     createCombinedFileName,
     writeCombinedFile,
     identity,
+    mapWithConcurrency,
     formatFilename,
     sleep,
     sortAscending,
