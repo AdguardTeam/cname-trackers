@@ -26,12 +26,18 @@ let totalTimeouts = 0;
 const record = (elapsedMs, timedOut = false) => {
     count += 1;
     totalMs += elapsedMs;
-    if (elapsedMs > maxMs) maxMs = elapsedMs;
-    if (timedOut) timeouts += 1;
+    if (elapsedMs > maxMs) {
+        maxMs = elapsedMs;
+    }
+    if (timedOut) {
+        timeouts += 1;
+    }
 
     totalCount += 1;
     totalTotalMs += elapsedMs;
-    if (timedOut) totalTimeouts += 1;
+    if (timedOut) {
+        totalTimeouts += 1;
+    }
 };
 
 /** Reset per-phase counters (e.g. at the start of each company). */
