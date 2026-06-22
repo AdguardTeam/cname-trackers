@@ -1,22 +1,26 @@
-// Lightweight DNS timing instrumentation for the build.
+// DNS timing instrumentation for helpers.resolveCname.
 //
-// Wraps the lowest-level CNAME resolver (helpers.resolveCname) to count
-// lookups, accumulate wall-clock time, track the slowest lookup, and count
-// timeouts. That's enough to derive effective qps in CI and decide whether
-// DNS_CONCURRENCY / DNS_TIMEOUT_MS need tuning for the CI resolver.
+// qps  = count / phaseWallMs  — true end-to-end throughput (use to tune DNS_CONCURRENCY).
+// avgMs = mean per-lookup latency — resolver health; climbs past the throughput knee.
+// cumulativeMs = SUM of per-lookup latencies (NOT wall-clock); do not derive throughput from it.
 //
-// Per-phase counters are resettable (per company); grand totals accumulate
-// across the whole build.
+// Per-phase counters reset per company; grand totals span the whole build.
+// reset() and summarize() are paired per phase; summarize() folds phase
+// wall-clock into the grand total.
 
-let count = 0;
-let totalMs = 0;
-let maxMs = 0;
-let timeouts = 0;
+const makeCounter = () => ({
+    count: 0,
+    cumulativeMs: 0, // sum of per-lookup latencies (NOT wall-clock)
+    maxMs: 0,
+    timeouts: 0,
+});
+
+const phase = makeCounter();
+let phaseStartedAt = Date.now();
 
 // grand totals across the whole build (never reset)
-let totalCount = 0;
-let totalTotalMs = 0;
-let totalTimeouts = 0;
+const grand = makeCounter();
+let grandWallMs = 0;
 
 /**
  * Record one resolved (or timed-out) lookup.
@@ -24,44 +28,52 @@ let totalTimeouts = 0;
  * @param {boolean} [timedOut=false] whether it hit the hard timeout
  */
 const record = (elapsedMs, timedOut = false) => {
-    count += 1;
-    totalMs += elapsedMs;
-    if (elapsedMs > maxMs) {
-        maxMs = elapsedMs;
-    }
-    if (timedOut) {
-        timeouts += 1;
-    }
-
-    totalCount += 1;
-    totalTotalMs += elapsedMs;
-    if (timedOut) {
-        totalTimeouts += 1;
+    for (const c of [phase, grand]) {
+        c.count += 1;
+        c.cumulativeMs += elapsedMs;
+        if (elapsedMs > c.maxMs) {
+            c.maxMs = elapsedMs;
+        }
+        if (timedOut) {
+            c.timeouts += 1;
+        }
     }
 };
 
 /** Reset per-phase counters (e.g. at the start of each company). */
 const reset = () => {
-    count = 0;
-    totalMs = 0;
-    maxMs = 0;
-    timeouts = 0;
+    phase.count = 0;
+    phase.cumulativeMs = 0;
+    phase.maxMs = 0;
+    phase.timeouts = 0;
+    phaseStartedAt = Date.now();
 };
 
-/** @returns {{count:number,totalMs:number,maxMs:number,timeouts:number,qps:number}} */
-const summarize = () => ({
-    count,
-    totalMs: Math.round(totalMs),
-    maxMs: Math.round(maxMs),
-    timeouts,
-    qps: totalMs > 0 ? Math.round((count / totalMs) * 1000) : 0,
-});
+/**
+ * @returns {{count:number,wallMs:number,cumulativeMs:number,maxMs:number,timeouts:number,qps:number,avgMs:number}}
+ */
+const summarize = () => {
+    const wallMs = Date.now() - phaseStartedAt;
+    grandWallMs += wallMs;
+    return {
+        count: phase.count,
+        wallMs,
+        cumulativeMs: Math.round(phase.cumulativeMs),
+        maxMs: Math.round(phase.maxMs),
+        timeouts: phase.timeouts,
+        qps: wallMs > 0 ? Math.round((phase.count / wallMs) * 1000) : 0,
+        avgMs: phase.count > 0 ? Math.round(phase.cumulativeMs / phase.count) : 0,
+    };
+};
 
-/** @returns {{count:number,totalMs:number,timeouts:number}} */
+/**
+ * @returns {{count:number,wallMs:number,timeouts:number,qps:number}}
+ */
 const grandTotal = () => ({
-    count: totalCount,
-    totalMs: Math.round(totalTotalMs),
-    timeouts: totalTimeouts,
+    count: grand.count,
+    wallMs: grandWallMs,
+    timeouts: grand.timeouts,
+    qps: grandWallMs > 0 ? Math.round((grand.count / grandWallMs) * 1000) : 0,
 });
 
 module.exports = {

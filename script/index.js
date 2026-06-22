@@ -87,8 +87,10 @@ const main = async () => {
 
         logger.info(`Fetching for tracker: ${companyName}`);
 
-        // fetching tracker domains in parallel (concurrency-limited).
-        // results order is preserved; failed fetches become null and are dropped.
+        // fetching tracker domains in parallel (concurrency-limited); order
+        // preserved, failed fetches become null and are dropped. Plain log
+        // lines instead of ora spinners — they don't render in CI and would
+        // garble across parallel fetches.
         const fetchedResults = await mapWithConcurrency(
             domains,
             FETCH_CONCURRENCY,
@@ -99,7 +101,7 @@ const main = async () => {
                     logger.success(`  - Successfully fetched trackers for domain: ${domain}`);
                     return domainInfo;
                 } catch (e) {
-                    logger.error(`  - Failed to fetch trackers for domain: ${domain}`);
+                    logger.error(`  - Failed to fetch trackers for domain: ${domain}`, e?.message);
                     return null;
                 }
             },
@@ -129,9 +131,11 @@ const main = async () => {
 
                 spinner.succeed(`${companyName} data successfully merged and stashed`);
 
-                // DNS timing for this company (helps tune DNS_CONCURRENCY / DNS_TIMEOUT_MS in CI)
+                // DNS timing for this company (tune DNS_CONCURRENCY / DNS_TIMEOUT_MS in CI).
+                // qps = true wall-clock throughput; avg = per-lookup latency (climbs past the knee);
+                // max ≈ DNS_TIMEOUT_MS signals timeouts.
                 const dnsStats = summarizeDnsStats();
-                logger.info(`  DNS: ${dnsStats.count} lookups in ${dnsStats.totalMs}ms (~${dnsStats.qps} qps, max ${dnsStats.maxMs}ms, ${dnsStats.timeouts} timeouts)`);
+                logger.info(`  DNS: ${dnsStats.count} lookups in ${dnsStats.wallMs}ms wall (~${dnsStats.qps} qps, avg ${dnsStats.avgMs}ms, max ${dnsStats.maxMs}ms, ${dnsStats.timeouts} timeouts)`);
 
                 // create directory
                 await fs.ensureDir(dirPath);
@@ -224,7 +228,7 @@ const main = async () => {
     }
 
     const dnsGrand = dnsGrandTotal();
-    logger.info(`Total DNS: ${dnsGrand.count} lookups in ${dnsGrand.totalMs}ms, ${dnsGrand.timeouts} timeouts`);
+    logger.info(`Total DNS: ${dnsGrand.count} lookups in ${dnsGrand.wallMs}ms wall (~${dnsGrand.qps} qps, ${dnsGrand.timeouts} timeouts)`);
 };
 
 main()

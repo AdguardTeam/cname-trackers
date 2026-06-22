@@ -10,18 +10,13 @@ const {
     MAX_RPZ_RULE_LENGTH,
 } = require('./constants');
 
-const DATA_DIR_PATH = './../data';
+// DNS knobs live in config.js (env-overridable) so CI can retune them.
+const {
+    DNS_TIMEOUT_MS,
+    DNS_CONCURRENCY,
+} = require('../config');
 
-// Hard timeout for a single DNS lookup. Without it, a query to an
-// unresponsive resolver stays pending forever and stalls the whole
-// build (this is what made Mailgun's 86k+ domains hang for days).
-const DNS_TIMEOUT_MS = 5 * 1000;
-// Max number of DNS lookups resolved in parallel. Throughput scales with
-// concurrency up to a knee (~500 measured on our resolvers, ~1000 qps),
-// then collapses as socket/promise overhead dominates. Picking a value
-// near the knee is both fast AND safe — far better than the old unbounded
-// Promise.all, whose effective throughput fell toward zero at 86k+.
-const DNS_CONCURRENCY = 500;
+const DATA_DIR_PATH = './../data';
 
 /**
  * Creates name for combined disguised files
@@ -230,8 +225,16 @@ const getRemoved = (oldInfo, newInfo) => {
 
 /**
  * Resolve closest canonical name for given disguise.
- * A hard timeout is enforced so a query to an unresponsive resolver
- * can never hang the build forever.
+ * Hard DNS_TIMEOUT_MS via Promise.race so an unresponsive resolver can't hang
+ * the build; null on timeout/error.
+ *
+ * Notes:
+ *   - Records timing into the dns-stats singleton (couples resolver to
+ *     instrumentation, but counts every lookup incl. retries/chain hops).
+ *   - The dns.resolveCname promise is NOT cancelled on timeout (no c-ares
+ *     API); it lingers and is swallowed by .catch. If timeouts climb, lower
+ *     DNS_CONCURRENCY.
+ *
  * @param {string} disguise
  * @returns {Promise<string[]|null>}
  */
@@ -258,24 +261,32 @@ const resolveCname = async (disguise) => {
     }
 };
 
+// Retry delay (distinct from config's fetch RETRY_TIMOUT_MS). resolveCname
+// returns null on error OR timeout, so this retries timeouts too — worst case
+// per unresponsive path: 2*DNS_TIMEOUT_MS + DNS_RETRY_DELAY_MS.
+const DNS_RETRY_DELAY_MS = 3 * 1000;
+
 /**
- * Resolves cname with one retry if something went wrong at first time
+ * Resolves cname with one retry if something went wrong at first time.
  * @param {string} disguise
- * @returns {string[]|null}
+ * @returns {Promise<string[]|null>}
  */
 const resolveCnameWithRetry = async (disguise) => {
-    const RETRY_TIMOUT_MS = 3 * 1000;
     let res = await resolveCname(disguise);
-    // if cname resolving failed, check it one more time
+    // if cname resolving failed (or timed out), check it one more time
     if (res === null) {
-        await sleep(RETRY_TIMOUT_MS);
+        await sleep(DNS_RETRY_DELAY_MS);
         res = await resolveCname(disguise);
     }
     return res;
 };
 
 /**
- * Recursively gets the chain of cnames for given disguise
+ * Recursively gets the chain of cnames for given disguise.
+ * No cycle/depth guard (pre-existing): a CNAME cycle (A->B->A) would recurse
+ * unbounded, and the per-lookup timeout doesn't stop a fast-cycling chain.
+ * Add a visited-set if resolvers ever return cycles.
+ *
  * @param {string} disguise
  * @param {Array} [acc=[]]
  * @returns {string[]} cname chain
