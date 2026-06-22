@@ -15,7 +15,7 @@ const makeRequestToApi = async (domain, oid) => {
         requestUrl.searchParams.append('oid', oid);
     }
 
-    return axios.get(requestUrl.toString());
+    return axios.get(requestUrl.toString(), { timeout: 30000 });
 };
 
 const getOid = (url) => {
