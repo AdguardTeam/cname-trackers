@@ -1,0 +1,52 @@
+name: Build
+
+on:
+  push:
+    branches: [master]
+    paths-ignore:
+      - data/**
+  schedule:
+    - cron: '0 11 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: filters-cname-trackers
+
+jobs:
+  build:
+    name: Build cname trackers
+    runs-on: [team-filters]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          ref: master
+
+      - name: Build cname trackers data
+        run: |
+          set -e -x
+          exec 2>&1
+
+          export DOCKER_BUILDKIT=1
+
+          docker build \
+            --file Dockerfile \
+            --progress plain \
+            --target build-output \
+            --output type=local,dest=output \
+            .
+
+          cp -r output/data/. data/
+          rm -rf output
+
+      - name: Push updates to master
+        uses: AdGuardSoftwareLimited/actions/actions/protected-push@master
+        with:
+          repository: ${{ github.repository }}
+          branch: master
+          commit-message: Periodic update
+          files: data
