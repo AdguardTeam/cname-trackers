@@ -1,6 +1,5 @@
 #
 # Company name: NP6
-emailing.casden.banquepopulaire.fr
 epm.mailperformance.com
 mailtracking.tf1.com
 mailtracking.tfou.com
@@ -114,6 +113,7 @@ tr.asp10fx.espmp-cufr.net
 tr.asp10fy.espmp-agfr.net
 tr.asp10ga.espmp-nifr.net
 tr.asp10ge.espmp-nifr.net
+tr.asp10gg.espmp-cufr.net
 tr.asp10h2.espmp-nifr.net
 tr.asp10hc.espmp-aufr.net
 tr.asp10hf.espmp-pofr.net
@@ -267,7 +267,6 @@ tr.communication.np6.com
 tr.communication.numericable.fr
 tr.communication.offresb2b.fr
 tr.communication.rmcbfm.com
-tr.communication.top-office.com
 tr.communications.chapsvision.com
 tr.companeo-news.co.uk
 tr.comunicacao.younited-credit.com
@@ -416,7 +415,6 @@ tr.emailing.tvcaraibes.tv
 tr.emailing.uda.fr
 tr.emailium.fr
 tr.emc.moethennessy.com
-tr.enedis-infos.fr
 tr.enews.customsolutions.fr
 tr.enquetes.actionlogement.fr
 tr.enquetevrs.fr
@@ -427,6 +425,7 @@ tr.eqs.cpam67.net
 tr.ere.emailing.bnpparibas
 tr.espmp-agfr.net
 tr.estatesandwines.moethennessy.com
+tr.etravaux.com
 tr.etravauxpro.fr
 tr.etude.sncd.org
 tr.eulerhermes.com
@@ -533,7 +532,6 @@ tr.info.mango-mobilites.fr
 tr.info.mango-mobilitesbyaprr.fr
 tr.info.mavoiturecash.fr
 tr.info.maxis-gbn.com
-tr.info.mcgarrybowen.com
 tr.info.mdbp.fr
 tr.info.mercialys.com
 tr.info.mobibam.com
@@ -656,7 +654,6 @@ tr.mail.vo3000.com
 tr.mail1.macif.fr
 tr.mail306.com
 tr.mailing.heliades.fr
-tr.mailing.laredoute.fr
 tr.mailing.lvmhappening.com
 tr.mailmp.macif.net
 tr.mailperf.institut-de-la-protection-sociale.fr
@@ -669,7 +666,6 @@ tr.marg02n.espmp-agfr.net
 tr.marketing.bordeauxgironde.cci.fr
 tr.marketing.comparadordeprestamos.es
 tr.marketing.fulli.com
-tr.marketing.tennaxia.com
 tr.marketing.younited-credit.com
 tr.marketing.younited-credit.es
 tr.marketing.younited-credit.pt
@@ -681,7 +677,6 @@ tr.media.harmonie-sante.fr
 tr.melhores-propostas.pt
 tr.membres.boursobank.info
 tr.membres.boursorama.info
-tr.mep.enkiapp.io
 tr.mes-bonsplans.be
 tr.mes-prestataires.fr
 tr.message.maaf.fr
@@ -775,7 +770,6 @@ tr.news.cenpac.fr
 tr.news.ceoradio.tv
 tr.news.cforadio.tv
 tr.news.chapsvision.com
-tr.news.chezmonveto.com
 tr.news.chilican.com
 tr.news.cioradio.tv
 tr.news.clicochic.com
@@ -793,19 +787,16 @@ tr.news.devisdirect.be
 tr.news.devisdirect.com
 tr.news.digitpjms.fr
 tr.news.directeo.fr
-tr.news.drveto.com
 tr.news.easybook.fr
 tr.news.easyviaggio.com
 tr.news.easyvoyage.co.uk
 tr.news.easyvoyage.com
 tr.news.easyvoyage.de
-tr.news.editions-lva.fr
 tr.news.ekosport-rent.fr
 tr.news.enkiapp.io
 tr.news.entreprise-pm.com
 tr.news.eureden.com
 tr.news.eurodatatv.com
-tr.news.exclu.fr
 tr.news.extenso-telecom.com
 tr.news.externis.com
 tr.news.extrabook.com
@@ -850,7 +841,6 @@ tr.news.lalettredelexpansion.com
 tr.news.latribunebordeaux.fr
 tr.news.leclubtravel.fr
 tr.news.lemans.org
-tr.news.lentillesmoinscheres.com
 tr.news.lentimenocare.it
 tr.news.libranoo.com
 tr.news.linxea.com
@@ -933,7 +923,6 @@ tr.newsletter.np6.com
 tr.newsletter.np6.fr
 tr.newsletter.opcoep.fr
 tr.newsletter.photoservice.com
-tr.newsletter.phyto.com
 tr.newsletter.plurielmedia.com
 tr.newsletter.veuveclicquot.com
 tr.newsletter.younited-credit.com
@@ -990,7 +979,6 @@ tr.partenaire.groupe-vyv.fr
 tr.partenaire.manageo.info
 tr.partners.younited-credit.it
 tr.payment.lvmh.com
-tr.paysanbreton.com
 tr.perv.espmp-agfr.net
 tr.phjk.espmp-nifr.net
 tr.pipa.espmp-aufr.net
@@ -1013,6 +1001,7 @@ tr.pro-renov.be
 tr.pro.myhomeflowercampings.com
 tr.pro.odalys-campus.com
 tr.pro.odalys-vacances.com
+tr.pro.residencehappysenior.fr
 tr.pro.sgit.net
 tr.programme-voyageur-sncf.com
 tr.projet.cotemaison.fr
@@ -1021,7 +1010,6 @@ tr.promotion.lexpress.fr
 tr.prosfores-companeo.gr
 tr.prosfores-etairias.gr
 tr.ps.espmp-agfr.net
-tr.psaparts.com
 tr.publicisdrugstore.espmp-agfr.net
 tr.qualite.groupama.com
 tr.qualite.groupebarriere.com
@@ -1088,7 +1076,6 @@ tr.sgjk.espmp-aufr.net
 tr.silvera-contact.fr
 tr.skin.espmp-agfr.net
 tr.smtp1.email-mediapost.fr
-tr.solendi.com
 tr.solocal.espmp-aufr.net
 tr.solution.uneo.fr
 tr.sopr.espmp-agfr.net

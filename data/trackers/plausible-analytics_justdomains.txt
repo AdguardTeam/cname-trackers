@@ -34,7 +34,6 @@ analytics.sixfigureswine.com
 analytics.teamcovenant.com
 analytics.thegroupbuyexperiment.com
 analytics.top10-charts.com
-analytics.uxmetrics.com
 analytics.valheimgamer.com
 analytics.wayland.app
 analytics.whostheboss.co.uk
@@ -112,14 +111,11 @@ ping.naturadapt.com
 ping.resoluteoil.com
 pl.astro-akatemia.fi
 pl.astro.fi
-pl.carbon-tab.ethan.link
 pl.codetheweb.blog
-pl.ethan.link
 pl.fashmoms.com
 pl.getfamealy.com
 pl.hackathon-makers.com
 pl.hitthefrontpage.com
-pl.kanbanmail.app
 pl.kis-nagy.art
 pl.maya-astro.fi
 pl.mynorthstarapp.com
@@ -202,13 +198,11 @@ plausible.thefutureoftheworkplacebook.com
 plausible.tlschedule.com
 plausible.treelightsoftware.com
 plausible.urbanekuensteruhr.de
-plausible.veszelovszki.com
 plausible.wordstamped.com
 plausible.yalepaprika.com
 plausible.zest.dev
 plausible.zorin.com
 pls.ambue.com
-pls.skycastle.dev
 plsbl-staging.edison.se
 plsbl.edison.se
 plsbl.martinkriegeskorte.de
@@ -295,11 +289,9 @@ stats.artisansfiables.fr
 stats.artistchristinacarmel.com
 stats.ase.edu.au
 stats.asmodee.net
-stats.astrr.ru
 stats.asymptotic.io
 stats.auto-dombrowski.de
 stats.bananatimer.com
-stats.bcdtravel.com
 stats.beanr.coffee
 stats.beatricew.com
 stats.bedler.dk
@@ -363,7 +355,6 @@ stats.curbnumberpro.com
 stats.curtiscummings.me
 stats.cymbiant.co.uk
 stats.dailyposter.com
-stats.danestevens.dev
 stats.danielwolf.photography
 stats.danner-landschaftsbau.at
 stats.dashbit.co
@@ -389,8 +380,6 @@ stats.donal.us
 stats.dotnetos.org
 stats.dotplan.io
 stats.doublejones.com
-stats.dreher-dreher.eu
-stats.drsaavedra.mx
 stats.dt-esthetique.ch
 stats.duetcode.io
 stats.earlygame.com
@@ -428,13 +417,11 @@ stats.finalrabiesgeneration.org
 stats.findvax.us
 stats.flightformation.com
 stats.flightsphere.com
-stats.flowphantom.com
 stats.footwork.co
 stats.foxyapps.co
 stats.frantic.im
 stats.frenlo.com
 stats.fs4c.org
-stats.fsvdr.me
 stats.fundimmo.com
 stats.fungus.computer
 stats.galeb.org
@@ -451,7 +438,6 @@ stats.goldsguide.com
 stats.gounified.com
 stats.gras-system.org
 stats.gravitaswins.com
-stats.greatlakesdesign.co
 stats.groupconsent.eu
 stats.gslc.utah.edu
 stats.guersanguillaume.com
@@ -478,7 +464,6 @@ stats.infoboard.de
 stats.ingenerator.com
 stats.innoforge.com.au
 stats.innoq.com
-stats.instabudget.app
 stats.interactjs.io
 stats.interruptor.pt
 stats.intheloop.dev
@@ -494,12 +479,9 @@ stats.jamhouse.app
 stats.jansix.at
 stats.jasonludden.dev
 stats.jdheyburn.co.uk
-stats.jeremygreenawalt.com
 stats.jerickson.net
-stats.jhsheridan.com
 stats.jjude.com
 stats.joaopedro.dev
-stats.jsbible.com
 stats.jun-etan.com
 stats.kaladyaudiology.com
 stats.keirwhitaker.com
@@ -515,7 +497,6 @@ stats.koerner-logopaedie.de
 stats.kongressen.com
 stats.krauss.io
 stats.kryptoslogic.com
-stats.ks-labs.de
 stats.kyushoku2050.org
 stats.labibli.com
 stats.lastfm.matthiasloibl.com
@@ -544,10 +525,7 @@ stats.macosicons.com
 stats.madethis.gallery
 stats.maferland.com
 stats.magarantie5ans.fr
-stats.mailphantom.io
-stats.maklerupdate.de
 stats.malte-bartels.de
-stats.martinbetz.eu
 stats.martyntaylor.com
 stats.mashword.com
 stats.mastermeup.com
@@ -599,9 +577,7 @@ stats.ownpath.xyz
 stats.owre.se
 stats.paramountperformance.net
 stats.parqet.com
-stats.parrot.dev
 stats.passwordyeti.com
-stats.pasteapp.io
 stats.pastorwagner.com
 stats.patriot.win
 stats.paulronge.se
@@ -621,13 +597,10 @@ stats.poesieundgenuss.com
 stats.pointflottant.com
 stats.polekatfitness.com
 stats.portalmonitor.io
-stats.postcollectors.com
 stats.poweringpastcoal.org
 stats.practicepl.us
-stats.pri.org
 stats.pricewell.io
 stats.principedepaz.gt
-stats.processserver101.com
 stats.procumeni.cz
 stats.prodtype.com
 stats.profitablesignpricing.com
@@ -637,7 +610,6 @@ stats.pubfind.io
 stats.qbitstore.nl
 stats.qovery.com
 stats.quicksilvercre.com
-stats.radicaldata.org
 stats.radicitoscane.it
 stats.rasulkireev.com
 stats.reactician.com
@@ -658,7 +630,6 @@ stats.ruhrfestspiele.de
 stats.rymawby.com
 stats.s-zt.at
 stats.sakurasky.com
-stats.sapnininkas.com
 stats.sascha-theobald.de
 stats.savoirplus-risquermoins.net
 stats.scalesql.com
@@ -668,7 +639,6 @@ stats.screenwavemedia.com
 stats.seanbailey.dev
 stats.sebastiandombrowski.de
 stats.selectam.io
-stats.sendngnt.com
 stats.seriouscircus.com
 stats.servicedesignjobs.com
 stats.seva.rocks
@@ -695,7 +665,6 @@ stats.strawberry.rocks
 stats.studypages.com
 stats.sublimesecurity.com
 stats.suenicholls.com
-stats.suniboy.com
 stats.suominaikidoacademy.com
 stats.sushibyte.io
 stats.symbiofest.cz
@@ -750,13 +719,11 @@ stats.www.agirpourlenvironnement.org
 stats.wymanmobilenotary.com
 stats.xactcode.com
 stats.xn--antnio-dxa.pt
-stats.xrechnung.app
 stats.zimri.net
 statstest.upti.pro
 statystyki.ekspertyzy-szkolenia.pl
 sts.authramp.com
 sts.eliasjarzombek.com
-sts.tour-europe.org
 stts.emplution.com
 stts.swisshranalytics.ch
 taylor.gladspring.com

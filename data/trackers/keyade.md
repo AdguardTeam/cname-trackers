@@ -21,8 +21,10 @@
 | k.flynas.com | k.keyade.com |
 | k.hofmann.es | k.keyade.com |
 | k.laredoute.ch | k.keyade.com |
+| k.laredoute.co.uk | k.keyade.com |
 | k.laredoute.com | k.keyade.com |
 | k.laredoute.es | k.keyade.com |
+| k.laredoute.it | k.keyade.com |
 | k.laredoute.pt | k.keyade.com |
 | k.laredoute.ru | k.keyade.com |
 | k.laredoute.se | k.keyade.com |

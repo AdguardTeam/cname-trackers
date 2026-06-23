@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,7 @@ barracuda.h24.news CNAME .
 br.h24.news CNAME .
 c.leparisien.fr CNAME .
 de.h24.news CNAME .
+ec.h24.news CNAME .
 flow-prod.h24.news CNAME .
 go.3ds.com CNAME .
 go.france24.com CNAME .
@@ -38,12 +39,14 @@ l.3djuegos.lat CNAME .
 l.750g.com CNAME .
 l.academiedugout.fr CNAME .
 l.actu.fr CNAME .
+l.actus.meteocity.com CNAME .
 l.adorocinema.com CNAME .
 l.africabusinessplus.com CNAME .
 l.africaintelligence.com CNAME .
 l.africaintelligence.fr CNAME .
 l.africanews.com CNAME .
 l.africaradio.com CNAME .
+l.afrik-foot.com CNAME .
 l.air-cosmos.com CNAME .
 l.aisnenouvelle.fr CNAME .
 l.allocine.fr CNAME .
@@ -53,6 +56,7 @@ l.argentauquotidien.com CNAME .
 l.astucesauquotidien.com CNAME .
 l.aufeminin.com CNAME .
 l.aujourdhui.fr CNAME .
+l.auposte.media CNAME .
 l.auto-moto.com CNAME .
 l.autojournal.fr CNAME .
 l.automobile-magazine.fr CNAME .
@@ -68,6 +72,7 @@ l.bon-esprit.fr CNAME .
 l.bourseinside.fr CNAME .
 l.caminteresse.fr CNAME .
 l.capital.fr CNAME .
+l.carenews.com CNAME .
 l.centre-presse.fr CNAME .
 l.centrepresseaveyron.fr CNAME .
 l.challenges.fr CNAME .
@@ -75,14 +80,18 @@ l.charentelibre.fr CNAME .
 l.chartsinfrance.net CNAME .
 l.citoyens.com CNAME .
 l.closermag.fr CNAME .
-l.cnetfrance.fr CNAME .
+l.clubic.com CNAME .
 l.compradiccion.com CNAME .
 l.contexte.com CNAME .
 l.cosmopolitan.fr CNAME .
+l.cotemaison.fr CNAME .
 l.courrier-picard.fr CNAME .
+l.croq-kilos.com CNAME .
 l.cuisineactuelle.fr CNAME .
+l.cuisineaz.com CNAME .
 l.cuisinezauquotidien.com CNAME .
 l.dailysports.fr CNAME .
+l.deco.fr CNAME .
 l.diapasonmag.fr CNAME .
 l.directoalpaladar.com CNAME .
 l.directoalpaladar.com.mx CNAME .
@@ -113,6 +122,7 @@ l.foot-national.com CNAME .
 l.foot01.com CNAME .
 l.football.fr CNAME .
 l.football365.fr CNAME .
+l.fourchette-et-bikini.fr CNAME .
 l.franceantilles.fr CNAME .
 l.francebleu.fr CNAME .
 l.franceculture.fr CNAME .
@@ -124,6 +134,7 @@ l.futura-sciences.com CNAME .
 l.gala.fr CNAME .
 l.gamekult.com CNAME .
 l.gamepro.de CNAME .
+l.gamesider.com CNAME .
 l.gamestar.de CNAME .
 l.genevasolutions.news CNAME .
 l.gentside.com CNAME .
@@ -177,6 +188,7 @@ l.lechorepublicain.fr CNAME .
 l.lecourriercauchois.fr CNAME .
 l.lecourrierdelamayenne.fr CNAME .
 l.lefigaro.fr CNAME .
+l.legorafi.fr CNAME .
 l.lejdc.fr CNAME .
 l.lejournaldelamaison.fr CNAME .
 l.lejournaldici.com CNAME .
@@ -191,6 +203,7 @@ l.lesnumeriques.com CNAME .
 l.lest-eclair.fr CNAME .
 l.letarnlibre.com CNAME .
 l.letemps.ch CNAME .
+l.letrot.com CNAME .
 l.leveil.fr CNAME .
 l.lexpress.eu CNAME .
 l.lexpress.fr CNAME .
@@ -225,10 +238,12 @@ l.motorpasion.com CNAME .
 l.motorpasion.com.mx CNAME .
 l.mouv.fr CNAME .
 l.moviepilot.de CNAME .
+l.mrfixitstips.co.uk CNAME .
 l.neonmag.fr CNAME .
 l.netmums.com CNAME .
 l.nextplz.fr CNAME .
 l.nicematin.com CNAME .
+l.nordlittoral.fr CNAME .
 l.notretemps.com CNAME .
 l.nrpyrenees.fr CNAME .
 l.numerama.com CNAME .
@@ -274,6 +289,7 @@ l.sensacine.com CNAME .
 l.sensacine.com.mx CNAME .
 l.sportauto.fr CNAME .
 l.sports.fr CNAME .
+l.sportsmole.co.uk CNAME .
 l.stampa-paese.com CNAME .
 l.stylist.fr CNAME .
 l.sudinfo.be CNAME .
@@ -287,14 +303,18 @@ l.tf1.fr CNAME .
 l.tf1info.fr CNAME .
 l.theafricareport.com CNAME .
 l.thegoodlife.fr CNAME .
+l.topmercato.com CNAME .
 l.topmusic.fr CNAME .
 l.topsante.com CNAME .
 l.touteleurope.eu CNAME .
 l.traxmag.com CNAME .
 l.trendencias.com CNAME .
+l.tribuca.net CNAME .
 l.tudogostoso.com.br CNAME .
+l.turbo.fr CNAME .
 l.tvauquotidien.com CNAME .
 l.uppercutmma.com CNAME .
+l.valeursactuelles.com CNAME .
 l.varmatin.com CNAME .
 l.vert.eco CNAME .
 l.viepratique.fr CNAME .

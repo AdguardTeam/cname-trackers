@@ -117,6 +117,7 @@
     * 516595732855224.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
+    * 550183676530729.wt-eu02.net
     * 572457300660290.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
@@ -133,7 +134,6 @@
     * 642216731269756.wt-eu02.net
     * 645617463084043.wt-eu02.net
     * 654069251471705.wt-eu02.net
-    * 657801072187647.wt-eu02.net
     * 666882163750646.wt-eu02.net
     * 667035493029158.wt-eu02.net
     * 669154114435717.wt-eu02.net
@@ -163,7 +163,6 @@
     * 769396664005295.wt-eu02.net
     * 778835614863159.wt-eu02.net
     * 786480128044234.wt-eu02.net
-    * 790635424156780.wt-eu02.net
     * 792100555808051.wt-eu02.net
     * 792207084509163.wt-eu02.net
     * 795078683620107.wt-eu02.net
@@ -202,7 +201,6 @@
     * 969665527401678.wt-eu02.net
     * 982429105360946.wt-eu02.net
     * 984899049181491.wt-eu02.net
-    * 987593120374077.wt-eu02.net
     * 988195797407130.wt-eu02.net
     * 988523091244829.wt-eu02.net
     * 989502084988358.wt-eu02.net
@@ -239,7 +237,6 @@
     * prosiebensat1puls4.wt-eu02.net
     * schleich-trail001.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
-    * sparda01.wt-eu02.net
     * tipp24-de01.wt-eu02.net
     * tr.computeruniverse.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
@@ -375,6 +372,7 @@
 | web2.updates.ditano.com | 516595732855224.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
+| web.email.lafarmacia.it | 550183676530729.wt-eu02.net |
 | web.info.xerjoff.com | 572457300660290.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
@@ -391,7 +389,6 @@
 | mapp.peacocks.co.uk | 642216731269756.wt-eu02.net |
 | data.news.juventus.com | 645617463084043.wt-eu02.net |
 | info.deltapublishing.co.uk | 654069251471705.wt-eu02.net |
-| web.slimjoy.es | 657801072187647.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | web.mapp.edenred.it | 667035493029158.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
@@ -428,7 +425,6 @@
 | ctd.montagna.tv | 778835614863159.wt-eu02.net |
 | ctd.quattroruote.it | 778835614863159.wt-eu02.net |
 | web.mail.koganpage.com | 786480128044234.wt-eu02.net |
-| web.communications.amouage.com | 790635424156780.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.post.toa.st | 792207084509163.wt-eu02.net |
 | web.post.toast.co.uk | 792207084509163.wt-eu02.net |
@@ -478,7 +474,6 @@
 | def.bayer04.de | 969665527401678.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | startrekk.flaconi.cz | 984899049181491.wt-eu02.net |
-| web.info.teamwarrior.com | 987593120374077.wt-eu02.net |
 | ctrkd.ilsole24ore.com | 988195797407130.wt-eu02.net |
 | web.email.topfarmacia.it | 988523091244829.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
@@ -613,7 +608,6 @@
 | img.salem-net.de | salem02.webtrekk.net |
 | trail-001.schleich-s.com | schleich-trail001.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
-| proditor.sparda.de | sparda01.wt-eu02.net |
 | www7.springer.com | springergmbh01.webtrekk.net |
 | tracking.shop.hunter.easynet.de | tchibo01.webtrekk.net |
 | tracking.tchibo.ch | tchibo02.webtrekk.net |
@@ -635,7 +629,6 @@
 | wa.quarks.de | wa-wdr.wt-eu02.net |
 | wa.wdr.de | wa-wdr.wt-eu02.net |
 | wa.wdrmaus.de | wa-wdr.wt-eu02.net |
-| wt.ara.ad | wt-ara.wt-eu02.net |
 | wt.ara.cat | wt-ara.wt-eu02.net |
 | wt.arabalears.cat | wt-ara.wt-eu02.net |
 | web.marketing.jellybelly.com | wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com |

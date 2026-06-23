@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,8 +11,6 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-t-test.esvdigital.com CNAME .
-t.wiz.meilleurtaux.com CNAME .
 tk.abt.com CNAME .
 tk.agrizone.net CNAME .
 tk.aircaraibes.com CNAME .
@@ -131,7 +129,6 @@ tk.hypnia.nl CNAME .
 tk.illicado.com CNAME .
 tk.interflora.dk CNAME .
 tk.interflora.es CNAME .
-tk.interflora.fr CNAME .
 tk.interflora.it CNAME .
 tk.jim-joe.fr CNAME .
 tk.kidsaround.com CNAME .
@@ -184,9 +181,6 @@ tk.ultrapremiumdirect.com CNAME .
 tk.undiz.com CNAME .
 tk.verisure.fr CNAME .
 tk.viapresse.com CNAME .
-tracking-test.esearchvision.com CNAME .
-trackv-test.esearchvision.com CNAME .
-tv-test.esvdigital.com CNAME .
 twiz.wizaly.fr CNAME .
 wiz.sncf-connect.com CNAME .
 wz.allianz.fr CNAME .

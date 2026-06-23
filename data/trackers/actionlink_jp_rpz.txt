@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,6 +61,7 @@ al.hamari-health.jp CNAME .
 al.happysun-hinode.com CNAME .
 al.ibizabeauty.net CNAME .
 al.ichikawa-sk.shop CNAME .
+al.ishida-watch.com CNAME .
 al.japan-ballpark.com CNAME .
 al.jtb-gift.com CNAME .
 al.junior-onlineshop.jp CNAME .
@@ -80,6 +81,7 @@ al.mitsubachi-note.com CNAME .
 al.mizunoes.com CNAME .
 al.morigaku.jp CNAME .
 al.nademachi.com CNAME .
+al.nagasawa-shop.jp CNAME .
 al.nakayamashouten.com CNAME .
 al.naniwayaseika.co.jp CNAME .
 al.nawa-store.jp CNAME .
@@ -96,6 +98,7 @@ al.peak-blue.com CNAME .
 al.pierrotshop.jp CNAME .
 al.pripstokyo.com CNAME .
 al.pro-p1.jp CNAME .
+al.queenclassico.com CNAME .
 al.rayell.jp CNAME .
 al.rinenna.jp CNAME .
 al.route-2.net CNAME .
@@ -109,6 +112,7 @@ al.selif.jp CNAME .
 al.shiffon-online.jp CNAME .
 al.shinfulife.com CNAME .
 al.shop-hotelgrandphenix.com CNAME .
+al.softbankselection.jp CNAME .
 al.sotouba.net CNAME .
 al.sourcenext.com CNAME .
 al.stamps-co.com CNAME .
@@ -118,6 +122,7 @@ al.tanabesports.com CNAME .
 al.tenhoru.jp CNAME .
 al.titivate.jp CNAME .
 al.tokimeku-otoriyose.jp CNAME .
+al.tsukurucover.jp CNAME .
 al.tsukurupajama.jp CNAME .
 al.ttandco.com CNAME .
 al.ur-s.me CNAME .
@@ -131,6 +136,7 @@ al.www.kijoan.com CNAME .
 al.yamachu.net CNAME .
 al.yamashiro.biz CNAME .
 al.yobomedical.clinic CNAME .
+al.yokumoku.co.jp CNAME .
 al.yokumoku.jp CNAME .
 al.yslabo.net CNAME .
 al.zenjirou.jp CNAME .

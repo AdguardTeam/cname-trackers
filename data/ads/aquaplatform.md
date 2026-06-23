@@ -6,7 +6,6 @@
     * adaptigo-console.aquaplatform.com
     * adaptigo-delivery.aquaplatform.com
     * adaptigo-static.aquaplatform.com
-    * adbility-api.aquaplatform.com
     * adbility-console.aquaplatform.com
     * adbility-delivery.aquaplatform.com
     * ahk-delivery.aquaplatform.com
@@ -48,7 +47,6 @@
     * el-static.aquaplatform.com
     * faithlife-console.aquaplatform.com
     * faithlife-delivery.aquaplatform.com
-    * famag-delivery.aquaplatform.com
     * famag-static.aquaplatform.com
     * fsr-cdn.aquaplatform.com
     * fsr-delivery.aquaplatform.com
@@ -59,6 +57,7 @@
     * goldseek-console.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
     * goldseek-static.aquaplatform.com
+    * hcs-delivery.aquaplatform.com
     * hourmedia-console.aquaplatform.com
     * hourmedia-delivery.aquaplatform.com
     * hourmedia-static.aquaplatform.com
@@ -153,8 +152,6 @@
 | by.addrecipes.com | adaptigo-delivery.aquaplatform.com |
 | cdn.conservativestar.com | adaptigo-static.aquaplatform.com |
 | cdn.headlinesmart.com | adaptigo-static.aquaplatform.com |
-| api.adbility-media.com | adbility-api.aquaplatform.com |
-| www.api.adbility-media.com | adbility-api.aquaplatform.com |
 | console.adbility-media.com | adbility-console.aquaplatform.com |
 | servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
 | revive.ahk.de | ahk-delivery.aquaplatform.com |
@@ -201,10 +198,8 @@
 | api.aqua-adserver.com | console.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
-| console.myadsmyanmar.com | console.aquaplatform.com |
 | console.walaplusadserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
-| www.console.myadsmyanmar.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
 | console.engineeringnews.co.za | creamer-console.aquaplatform.com |
@@ -229,8 +224,6 @@
 | static.environmentalleader.com | el-static.aquaplatform.com |
 | console.faithlifeads.com | faithlife-console.aquaplatform.com |
 | serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
-| adserver.fa-mag.com | famag-delivery.aquaplatform.com |
-| www.adserver.fa-mag.com | famag-delivery.aquaplatform.com |
 | static.fa-mag.com | famag-static.aquaplatform.com |
 | static.ads.fantasanremo.com | fsr-cdn.aquaplatform.com |
 | delivery.ads.fantagiroditalia.it | fsr-delivery.aquaplatform.com |
@@ -243,6 +236,7 @@
 | www.stommeplaatjes.geenstijl.nl | geenstijl-static.aquaplatform.com |
 | adserver.kozoom.com | geodelivery.aquaplatform.com |
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
+| servedby.filmamo.com | geodelivery.aquaplatform.com |
 | servedby.quirks.com | geodelivery.aquaplatform.com |
 | servedby.walaplusadserver.com | geodelivery.aquaplatform.com |
 | www.servedby.quirks.com | geodelivery.aquaplatform.com |
@@ -251,6 +245,7 @@
 | creatives.goldseek.com | goldseek-static.aquaplatform.com |
 | images.goldseek.com | goldseek-static.aquaplatform.com |
 | www.creatives.goldseek.com | goldseek-static.aquaplatform.com |
+| servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
 | console.cincinnatimagazine.com | hourmedia-console.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
 | console.hour-media.com | hourmedia-console.aquaplatform.com |
@@ -341,6 +336,7 @@
 | jacilla-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | nyfa-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | omroepflevoland-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
+| omroepwest-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | rtvutrecht-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
@@ -402,7 +398,6 @@
 | static.quirks.com | reservoir.aquaplatform.com |
 | static.walaplusadserver.com | reservoir.aquaplatform.com |
 | www.cdn.metrike.com | reservoir.aquaplatform.com |
-| adconsole.eva.live | revivehosted-console.aquaplatform.com |
 | adconsole.sniffies.com | revivehosted-console.aquaplatform.com |
 | console.cricketworld.com | revivehosted-console.aquaplatform.com |
 | console.falconstudios.com | revivehosted-console.aquaplatform.com |
@@ -416,7 +411,6 @@
 | servedby.revive-adserver.net | revivehosted-delivery.aquaplatform.com |
 | servedby.thinkresult.in | revivehosted-delivery.aquaplatform.com |
 | www.adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
-| adimages.eva.live | revivehosted-static.aquaplatform.com |
 | adimages.sniffies.com | revivehosted-static.aquaplatform.com |
 | cdn.revive-adserver.net | revivehosted-static.aquaplatform.com |
 | images.cricketworld.com | revivehosted-static.aquaplatform.com |

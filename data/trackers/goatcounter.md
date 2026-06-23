@@ -8,7 +8,6 @@
     * abdodaoud.goatcounter.com
     * abdoughnut.goatcounter.com
     * acut3.goatcounter.com
-    * afirmation.goatcounter.com
     * alextecplayz.goatcounter.com
     * andreabrandi.goatcounter.com
     * apitman_com.goatcounter.com
@@ -32,7 +31,6 @@
     * certidiritti.goatcounter.com
     * cloudnativebitcoin.goatcounter.com
     * coderscompass.goatcounter.com
-    * codes-baltimorecity-gov.goatcounter.com
     * codinggrace.goatcounter.com
     * contractor-prep.goatcounter.com
     * cormier.goatcounter.com
@@ -44,8 +42,8 @@
     * dailies.goatcounter.com
     * dalinwilliams.goatcounter.com
     * dannynullzwo.goatcounter.com
+    * datawranglerai.goatcounter.com
     * davidjuhasz.goatcounter.com
-    * defi.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
     * digitaleyes.goatcounter.com
@@ -76,16 +74,15 @@
     * ignatuque.goatcounter.com
     * iloveuobgold.goatcounter.com
     * irishbornchinese.goatcounter.com
-    * irisphotos.goatcounter.com
     * isaacfreund.goatcounter.com
     * jakebailey.goatcounter.com
-    * jam.goatcounter.com
     * janmr.goatcounter.com
     * jasmineamalia.goatcounter.com
     * jmmr-dev.goatcounter.com
     * johanneswienke.goatcounter.com
     * jojonas.goatcounter.com
     * jsq.goatcounter.com
+    * justasimpleapp.goatcounter.com
     * k94.goatcounter.com
     * kai.goatcounter.com
     * kc-ie.goatcounter.com
@@ -127,10 +124,9 @@
     * ooo.goatcounter.com
     * opensurge.goatcounter.com
     * otbivnoe.goatcounter.com
-    * palaisdesfetes.goatcounter.com
     * pamcarter.goatcounter.com
     * paperarrow.goatcounter.com
-    * philippdubach.goatcounter.com
+    * pi4li.goatcounter.com
     * programmershideaway.goatcounter.com
     * psiyum.goatcounter.com
     * pttrn.goatcounter.com
@@ -142,7 +138,6 @@
     * rezha.goatcounter.com
     * riggraz.goatcounter.com
     * risanne.goatcounter.com
-    * robbenbomber.goatcounter.com
     * rocketgoboom.goatcounter.com
     * ruzickap-github-io.goatcounter.com
     * ryanch.goatcounter.com
@@ -152,7 +147,6 @@
     * sebastianzehner.goatcounter.com
     * semio.goatcounter.com
     * semipol.goatcounter.com
-    * shu.goatcounter.com
     * slade.goatcounter.com
     * storydragon.goatcounter.com
     * studiodeerenberg.goatcounter.com
@@ -161,6 +155,7 @@
     * tbx.goatcounter.com
     * tdurand.goatcounter.com
     * teknoraver.goatcounter.com
+    * terokarvinen.goatcounter.com
     * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
     * thedave-photos.goatcounter.com
@@ -168,6 +163,7 @@
     * tinkerertools.goatcounter.com
     * tnrdigital.goatcounter.com
     * tomatomtl.goatcounter.com
+    * toughersports.goatcounter.com
     * trainsley69.goatcounter.com
     * transactionalblog.goatcounter.com
     * trool.goatcounter.com
@@ -199,7 +195,6 @@
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.abdo.wtf | abdoughnut.goatcounter.com |
 | gc.acut3.net | acut3.goatcounter.com |
-| stats.afirmacijas.lv | afirmation.goatcounter.com |
 | stats.alextecplayz.com | alextecplayz.goatcounter.com |
 | count.andreabrandi.com | andreabrandi.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
@@ -223,7 +218,6 @@
 | stats.certidiritti.org | certidiritti.goatcounter.com |
 | stats.cloudnativebitcoin.org | cloudnativebitcoin.goatcounter.com |
 | stats.coderscompass.org | coderscompass.goatcounter.com |
-| analytics.codes.baltimorecity.gov | codes-baltimorecity-gov.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
 | stats.contractor-prep.com | contractor-prep.goatcounter.com |
 | stats.cormier.co | cormier.goatcounter.com |
@@ -235,8 +229,8 @@
 | trackerstats.davidthe.dev | dailies.goatcounter.com |
 | stats.dalinwilliams.com | dalinwilliams.goatcounter.com |
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
+| stats.jameswolman.dev | datawranglerai.goatcounter.com |
 | stats.davidjuhasz.dev | davidjuhasz.goatcounter.com |
-| stats.defiscitoyens.org | defi.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
 | analytics.digitaleyes.ai | digitaleyes.goatcounter.com |
@@ -254,6 +248,7 @@
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | stats.ghostiam.dev | ghostiam.goatcounter.com |
 | analytics.code.dccouncil.gov | goatcounter.com |
+| analytics.codes.baltimorecity.gov | goatcounter.com |
 | analytics.regs.maryland.gov | goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
@@ -269,16 +264,15 @@
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
 | visits.iloveuobgold.com | iloveuobgold.goatcounter.com |
 | goatcounter.irishbornchinese.com | irishbornchinese.goatcounter.com |
-| ping.irisphotos.app | irisphotos.goatcounter.com |
 | stats.isaacfreund.com | isaacfreund.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
-| stats.jamesgwyer.com | jam.goatcounter.com |
 | stats.janmr.com | janmr.goatcounter.com |
 | stats.jasm1nii.xyz | jasmineamalia.goatcounter.com |
 | stats.jmmr.dev | jmmr-dev.goatcounter.com |
 | stats.johanneswienke.de | johanneswienke.goatcounter.com |
 | stats.jonaslieb.de | jojonas.goatcounter.com |
 | stats.jessesquires.com | jsq.goatcounter.com |
+| stats.justasimple.app | justasimpleapp.goatcounter.com |
 | stats.k94.ch | k94.goatcounter.com |
 | analytics.kubasta.net | kai.goatcounter.com |
 | stats.kc.ie | kc-ie.goatcounter.com |
@@ -325,10 +319,9 @@
 | goat.dabric.xyz | ooo.goatcounter.com |
 | stats.opensurge2d.org | opensurge.goatcounter.com |
 | stats.otbivnoe.ru | otbivnoe.goatcounter.com |
-| stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
 | stats.pamcarter.net | pamcarter.goatcounter.com |
 | stats.paperarrow.com | paperarrow.goatcounter.com |
-| stats.philippdubach.com | philippdubach.goatcounter.com |
+| stats.pi4li.net | pi4li.goatcounter.com |
 | stats.programmershideaway.dev | programmershideaway.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | stats.pttrn.io | pttrn.goatcounter.com |
@@ -340,7 +333,6 @@
 | stats.rezhajul.io | rezha.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.risanne.nl | risanne.goatcounter.com |
-| statistics.wafflzz.xyz | robbenbomber.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
 | stats-ruzickap-github-io.ruzicka.dev | ruzickap-github-io.goatcounter.com |
 | stats.ryanchmelir.com | ryanch.goatcounter.com |
@@ -350,7 +342,6 @@
 | stats.sebastianzehner.com | sebastianzehner.goatcounter.com |
 | stats.docs.semio-tech.com | semio.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
-| stats.shurimp.com | shu.goatcounter.com |
 | dot-com-stats.sladewatkins.net | slade.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | stats.studiodeerenberg.nl | studiodeerenberg.goatcounter.com |
@@ -359,6 +350,7 @@
 | gc.tbx.at | tbx.goatcounter.com |
 | stats.tdurand.com | tdurand.goatcounter.com |
 | stats.matteocroce.it | teknoraver.goatcounter.com |
+| tik.terokarvinen.com | terokarvinen.goatcounter.com |
 | goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
 | goatcounter.thedave.photos | thedave-photos.goatcounter.com |
@@ -366,6 +358,7 @@
 | stats.tinkerer.tools | tinkerertools.goatcounter.com |
 | stats.lakeloui.se | tnrdigital.goatcounter.com |
 | analytics.tomatomtl.com | tomatomtl.goatcounter.com |
+| stats.toughersports.org | toughersports.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
 | stats.transactional.blog | transactionalblog.goatcounter.com |
 | moo.geopogs.party | trool.goatcounter.com |

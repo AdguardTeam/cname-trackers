@@ -706,15 +706,12 @@
 ||100008009.collect.igodigital.com^
 ||100008018.collect.igodigital.com^
 ||100008126.collect.igodigital.com^
-||100008130.collect.igodigital.com^
 ||100008223.collect.igodigital.com^
 ||100008224.collect.igodigital.com^
 ||100008236.collect.igodigital.com^
 ||100008271.collect.igodigital.com^
-||100008390.collect.igodigital.com^
 ||100008468.collect.igodigital.com^
 ||100008481.collect.igodigital.com^
-||100008506.collect.igodigital.com^
 ||100008651.collect.igodigital.com^
 ||100008681.collect.igodigital.com^
 ||100008801.collect.igodigital.com^
@@ -799,7 +796,6 @@
 ||514009702.collect.igodigital.com^
 ||514009935.collect.igodigital.com^
 ||514021787.collect.igodigital.com^
-||514023043.collect.igodigital.com^
 ||514023214.collect.igodigital.com^
 ||514025538.collect.igodigital.com^
 ||514027809.collect.igodigital.com^
@@ -811,9 +807,7 @@
 ||515008369.collect.igodigital.com^
 ||515008558.collect.igodigital.com^
 ||515010815.collect.igodigital.com^
-||515010833.collect.igodigital.com^
 ||515010852.collect.igodigital.com^
-||515011050.collect.igodigital.com^
 ||518000635.collect.igodigital.com^
 ||518000955.collect.igodigital.com^
 ||518000969.collect.igodigital.com^
@@ -843,7 +837,6 @@
 ||546002667.collect.igodigital.com^
 ||546002682.collect.igodigital.com^
 ||546003271.collect.igodigital.com^
-||546004197.collect.igodigital.com^
 ||546008639.collect.igodigital.com^
 ||546011740.collect.igodigital.com^
 ||6165092.collect.igodigital.com^
@@ -892,14 +885,12 @@
 ||7295188.collect.igodigital.com^
 ||7295370.collect.igodigital.com^
 ||7295600.collect.igodigital.com^
-||7295740.collect.igodigital.com^
 ||7296028.collect.igodigital.com^
 ||7296112.collect.igodigital.com^
 ||7296119.collect.igodigital.com^
 ||7296650.collect.igodigital.com^
 ||7296665.collect.igodigital.com^
 ||7296810.collect.igodigital.com^
-||7297186.collect.igodigital.com^
 ||7297790.collect.igodigital.com^
 ||7297803.collect.igodigital.com^
 ||7298601.collect.igodigital.com^
@@ -1095,7 +1086,6 @@
 ||vodacom.eum-appdynamics.com^
 ||mobirix.com^
 ||www.mobirix.com^
-||newsan-ads.vidaahub.com^
 ||nm-mb-snowplow.nearmap.com^
 ||origin-ad-manager.teads.com^
 ||p.faspox.com^

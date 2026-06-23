@@ -3,7 +3,6 @@
 ## Disguised trackers list
 
 * wizaly.com
-    * t-test.wizaly.com
     * t.wizaly.com
     * tk-abt-com.wizaly.com
     * tk-agrizone-net.wizaly.com
@@ -29,7 +28,6 @@
     * tk-illicado-com.wizaly.com
     * tk-interflora-dk.wizaly.com
     * tk-interflora-es.wizaly.com
-    * tk-interflora-fr.wizaly.com
     * tk-interflora-it.wizaly.com
     * tk-kidsaround-com.wizaly.com
     * tk-kitchendiet-fr.wizaly.com
@@ -65,17 +63,12 @@
     * tkairfrance.wizaly.com
     * tklolivierfr.wizaly.com
     * tkmsccruisescom.wizaly.com
-    * wiz_meilleurtaux_com.wizaly.com
     * wz-allianz-fr.wizaly.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| t-test.esvdigital.com | t-test.wizaly.com |
-| tracking-test.esearchvision.com | t-test.wizaly.com |
-| trackv-test.esearchvision.com | t-test.wizaly.com |
-| tv-test.esvdigital.com | t-test.wizaly.com |
 | twiz.wizaly.fr | t.wizaly.com |
 | tk.abt.com | tk-abt-com.wizaly.com |
 | tk.agrizone.net | tk-agrizone-net.wizaly.com |
@@ -112,7 +105,6 @@
 | tk.illicado.com | tk-illicado-com.wizaly.com |
 | tk.interflora.dk | tk-interflora-dk.wizaly.com |
 | tk.interflora.es | tk-interflora-es.wizaly.com |
-| tk.interflora.fr | tk-interflora-fr.wizaly.com |
 | tk.interflora.it | tk-interflora-it.wizaly.com |
 | tk.billieblush.com | tk-kidsaround-com.wizaly.com |
 | tk.kidsaround.com | tk-kidsaround-com.wizaly.com |
@@ -249,5 +241,4 @@
 | tk.airfrance.vn | tkairfrance.wizaly.com |
 | tk.lolivier.fr | tklolivierfr.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |
-| t.wiz.meilleurtaux.com | wiz_meilleurtaux_com.wizaly.com |
 | wz.allianz.fr | wz-allianz-fr.wizaly.com |

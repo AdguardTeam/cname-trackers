@@ -39,6 +39,7 @@ utiq.3djuegosguias.com
 utiq.3djuegospc.com
 utiq.750g.com
 utiq.abc.es
+utiq.absolutradio.de
 utiq.actu.fr
 utiq.actu.net
 utiq.aisnenouvelle.fr
@@ -68,6 +69,7 @@ utiq.brokser-heiratsmarkt.de
 utiq.buffed.de
 utiq.bunte.de
 utiq.burgosconecta.es
+utiq.business.it
 utiq.buzzfeed.at
 utiq.buzzfeed.de
 utiq.bw24.de
@@ -86,7 +88,6 @@ utiq.cheriefm.fr
 utiq.chip.de
 utiq.clara.es
 utiq.closermag.fr
-utiq.cnetfrance.fr
 utiq.codebuild.ovh
 utiq.come-on.de
 utiq.commentcamarche.com
@@ -143,6 +144,7 @@ utiq.eldiario.es
 utiq.eldiariomontanes.es
 utiq.eleconomista.es
 utiq.elespanol.com
+utiq.elle.de
 utiq.elmueble.com
 utiq.elmundo.es
 utiq.elnacional.cat
@@ -156,6 +158,7 @@ utiq.emporda.info
 utiq.entrenous.fr
 utiq.epe.es
 utiq.espinof.com
+utiq.esquire.de
 utiq.europapress.es
 utiq.europapress.tv
 utiq.eventfinder.at
@@ -180,6 +183,7 @@ utiq.france.tv
 utiq.francetv-preprod.fr
 utiq.francetv.fr
 utiq.frandroid.com
+utiq.freundin.de
 utiq.fuehrerscheintest-online.de
 utiq.funandnews.de
 utiq.funradio.fr
@@ -204,6 +208,7 @@ utiq.hallo-eltern.de
 utiq.hallo-muenchen.de
 utiq.hanauer.de
 utiq.handelsblatt.com
+utiq.harpersbazaar.de
 utiq.harpersbazaar.fr
 utiq.haz.de
 utiq.hbrfrance.fr
@@ -226,6 +231,7 @@ utiq.ingame.de
 utiq.ingolstadt-today.de
 utiq.insideevs.de
 utiq.inspirational.es
+utiq.instyle.de
 utiq.instyle.es
 utiq.ippen.media
 utiq.jakala.es
@@ -273,12 +279,12 @@ utiq.le-pays.fr.cdn.cloudflare.net
 utiq.le10sport.com
 utiq.lebenindeutschland.eu
 utiq.leberry.fr
+utiq.leboncoin.fr
 utiq.lechorepublicain.fr
 utiq.lechorepublicain.fr.cdn.cloudflare.net
 utiq.leckerschmecker.me
 utiq.lecturas.com
 utiq.lefigaro.fr
-utiq.leganerd.com
 utiq.lejdc.fr
 utiq.lejdc.fr.cdn.cloudflare.net
 utiq.lejournaldelamaison.fr
@@ -404,6 +410,16 @@ utiq.publisher-demo.media
 utiq.purebreak.com
 utiq.purepeople.com
 utiq.rac1.cat
+utiq.radio.at
+utiq.radio.de
+utiq.radio.dk
+utiq.radio.es
+utiq.radio.fr
+utiq.radio.it
+utiq.radio.net
+utiq.radio.pl
+utiq.radio.pt
+utiq.radio.se
 utiq.regio7.cat
 utiq.reisefrage.net
 utiq.reisereporter.de
@@ -482,6 +498,7 @@ utiq.travelbook.de
 utiq.trendencias.com
 utiq.tuobenessere.it
 utiq.tvspielfilm.de
+utiq.tvtoday.de
 utiq.tz.de
 utiq.usinger-anzeiger.de
 utiq.utest1-prod.work

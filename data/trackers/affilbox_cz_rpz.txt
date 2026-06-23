@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 abox.simpleshop.cz CNAME .
 aff.faircredit.cz CNAME .
 aff.pujckajonatan.cz CNAME .
-aff.realwoman.sk CNAME .
 aff.teshop.cz CNAME .
 aff.teticka.cz CNAME .
 aff.winkey.cz CNAME .
@@ -78,9 +77,7 @@ affil.stastnavovztahu.sk CNAME .
 affil.supervykon.cz CNAME .
 affil.svepomoci.cz CNAME .
 affil.svj-info.cz CNAME .
-affil.swisstoner.cz CNAME .
 affil.tadytuto.cz CNAME .
-affil.trikator.cz CNAME .
 affil.triko4u.cz CNAME .
 affil.unuo.cz CNAME .
 affil.unuo.sk CNAME .
@@ -103,7 +100,6 @@ affilbox.gurufinance.cz CNAME .
 affilbox.kronikazivota.cz CNAME .
 affilbox.kronikazivota.sk CNAME .
 affilbox.kvaskovanie.sk CNAME .
-affilbox.rondopartner.cz CNAME .
 affilbox.stygremvkleci.cz CNAME .
 affilbox.tikoki.com CNAME .
 affilbox.zdravedesiate.sk CNAME .
@@ -174,7 +170,6 @@ affiliate.growmarket.cz CNAME .
 affiliate.herbadent.cz CNAME .
 affiliate.hokr.eu CNAME .
 affiliate.ihrelinsen.at CNAME .
-affiliate.inkytattoo.cz CNAME .
 affiliate.innone.cz CNAME .
 affiliate.isetos.cz CNAME .
 affiliate.ispace.cz CNAME .
@@ -212,7 +207,6 @@ affiliate.mobilonline.sk CNAME .
 affiliate.mojemincovna.cz CNAME .
 affiliate.montessorihracky.cz CNAME .
 affiliate.montessorikurz.cz CNAME .
-affiliate.nabytek-forliveshop.cz CNAME .
 affiliate.nakladatelstvi-riva.cz CNAME .
 affiliate.nalepime.cz CNAME .
 affiliate.nethost.cz CNAME .
@@ -244,11 +238,9 @@ affiliate.smsticket.cz CNAME .
 affiliate.socialni-site-specialista.cz CNAME .
 affiliate.socialsprinters.cz CNAME .
 affiliate.soscredit.cz CNAME .
-affiliate.sperkin.cz CNAME .
 affiliate.sportinator.cz CNAME .
 affiliate.stanislavamrazkova.cz CNAME .
 affiliate.stibio.cz CNAME .
-affiliate.stips.cz CNAME .
 affiliate.studio51.team CNAME .
 affiliate.svarecky-obchod.cz CNAME .
 affiliate.svetbot.cz CNAME .
@@ -283,6 +275,7 @@ box.kryptotrejder.sk CNAME .
 champions.betubetu.com CNAME .
 collab.zdravetricko.cz CNAME .
 cooperation.mitochondriak.com CNAME .
+cooperation.mitochondriak.sk CNAME .
 cryptonow.algomoneo.com CNAME .
 dbsaysnba4ygmwav.algomoneo.com CNAME .
 devaff.bitcoinzmenaren.sk CNAME .
@@ -312,6 +305,7 @@ kaocko.swaglift.com CNAME .
 money.mioweb.cz CNAME .
 my.11teamsports.bg CNAME .
 my.11teamsports.com CNAME .
+my.11teamsports.cy CNAME .
 my.11teamsports.cz CNAME .
 my.11teamsports.dk CNAME .
 my.11teamsports.ee CNAME .
@@ -332,17 +326,8 @@ my.fr.top4running.be CNAME .
 my.kickz.com CNAME .
 my.top4fitness.cz CNAME .
 my.top4fitness.de CNAME .
-my.top4fitness.fi CNAME .
 my.top4fitness.gr CNAME .
-my.top4fitness.it CNAME .
-my.top4fitness.pl CNAME .
-my.top4fitness.pt CNAME .
 my.top4fitness.sk CNAME .
-my.top4football.de CNAME .
-my.top4football.es CNAME .
-my.top4football.fi CNAME .
-my.top4football.fr CNAME .
-my.top4football.hu CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
@@ -450,13 +435,13 @@ partner.bitcoinzmenaren.sk CNAME .
 partner.bloominds.cz CNAME .
 partner.bohempia.com CNAME .
 partner.bomtonbeauty.cz CNAME .
-partner.bontonck.cz CNAME .
 partner.bonyplus.cz CNAME .
 partner.booktook.cz CNAME .
 partner.brawolife.cz CNAME .
 partner.breakout.cz CNAME .
 partner.brilianty.cz CNAME .
 partner.brillbird.cz CNAME .
+partner.buka.cz CNAME .
 partner.burzazive.cz CNAME .
 partner.bydlimekrasne.cz CNAME .
 partner.cakemarket.eu CNAME .
@@ -513,7 +498,6 @@ partner.domoveda.cz CNAME .
 partner.doplnse.cz CNAME .
 partner.dr-nek.cz CNAME .
 partner.dressibly.cz CNAME .
-partner.drfit.cz CNAME .
 partner.dripit.cz CNAME .
 partner.dynamikabohatstvi.cz CNAME .
 partner.eandilek.cz CNAME .
@@ -522,7 +506,6 @@ partner.econea.cz CNAME .
 partner.edutu.cz CNAME .
 partner.elektrostech.cz CNAME .
 partner.energiezivota.com CNAME .
-partner.epravo.cz CNAME .
 partner.eshop-gyorsan.hu CNAME .
 partner.eshop-rodas.cz CNAME .
 partner.evolutionhub.cz CNAME .
@@ -539,7 +522,6 @@ partner.ferratum.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
 partner.forexrebel.net CNAME .
-partner.forkys.store CNAME .
 partner.fotoposta.sk CNAME .
 partner.gaymegastore.cz CNAME .
 partner.gaymegastore.eu CNAME .
@@ -557,7 +539,6 @@ partner.hegesztok-bolt.hu CNAME .
 partner.hizeromop.com CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
-partner.hrax.cz CNAME .
 partner.hubnu.online CNAME .
 partner.hunter.games CNAME .
 partner.hurom.cz CNAME .
@@ -578,6 +559,7 @@ partner.jillylenau.cz CNAME .
 partner.jipos.sk CNAME .
 partner.kafista.cz CNAME .
 partner.kasparci.eu CNAME .
+partner.ketomix.cz CNAME .
 partner.ketomix.sk CNAME .
 partner.kidtown.cz CNAME .
 partner.koffkain-sniff.cz CNAME .
@@ -607,14 +589,12 @@ partner.lifelinediag.cz CNAME .
 partner.ligsuniversity.cz CNAME .
 partner.listy-profily.sk CNAME .
 partner.lorooro.com CNAME .
-partner.lovella.cz CNAME .
 partner.ltx.cz CNAME .
 partner.luckyalvin.cz CNAME .
 partner.lyzelyze.cz CNAME .
 partner.mailocator.cz CNAME .
 partner.majtki.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
-partner.marspom.cz CNAME .
 partner.martinafallerova.cz CNAME .
 partner.martinreznicek.cz CNAME .
 partner.mbytshop.cz CNAME .
@@ -623,7 +603,6 @@ partner.memolingo.cz CNAME .
 partner.metagram.sk CNAME .
 partner.mhsexshop.com CNAME .
 partner.minikoioi.cz CNAME .
-partner.minikoioi.sk CNAME .
 partner.misinacokolada.cz CNAME .
 partner.mizerman.cz CNAME .
 partner.mojeluha.cz CNAME .
@@ -663,7 +642,6 @@ partner.olivum.cz CNAME .
 partner.olo.cz CNAME .
 partner.omorfia.care CNAME .
 partner.onlinepriznani.cz CNAME .
-partner.onlinepriznanie.sk CNAME .
 partner.organikk.cz CNAME .
 partner.oriclo.cz CNAME .
 partner.ozogan.cz CNAME .
@@ -686,6 +664,7 @@ partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .
 partner.premavita.sk CNAME .
 partner.premiove-matrace.cz CNAME .
+partner.probione.com CNAME .
 partner.prodejniakademie.cz CNAME .
 partner.prohrejeme.cz CNAME .
 partner.prosperity-vision.com CNAME .
@@ -693,6 +672,7 @@ partner.prosperk.cz CNAME .
 partner.psidetektiv.cz CNAME .
 partner.pureharmony.cz CNAME .
 partner.resinstudio.cz CNAME .
+partner.rixo.sk CNAME .
 partner.root.cz CNAME .
 partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
@@ -730,7 +710,6 @@ partner.svetruzi.cz CNAME .
 partner.swaglift.com CNAME .
 partner.sypanycaj.eu CNAME .
 partner.t-shock.eu CNAME .
-partner.tahnabranu.cz CNAME .
 partner.tattoomania.cz CNAME .
 partner.taxomat.cz CNAME .
 partner.thechillidoctor.cz CNAME .
@@ -758,6 +737,7 @@ partner.webrebel.sk CNAME .
 partner.webskicak.cz CNAME .
 partner.wellmall.cz CNAME .
 partner.wellmall.sk CNAME .
+partner.wellnessdarky.cz CNAME .
 partner.whoopdedoo.cz CNAME .
 partner.whoopdedoo.love CNAME .
 partner.whoopdedoo.me CNAME .
@@ -775,7 +755,6 @@ partner.zooshopik.cz CNAME .
 partner.zvaracky-obchod.sk CNAME .
 partnerek.aerium.hu CNAME .
 partneri.affiliatevyzva.cz CNAME .
-partneri.akodlhsiezit.sk CNAME .
 partneri.alchemistr.cz CNAME .
 partneri.alepiacz.cz CNAME .
 partneri.anglictinarychlo.sk CNAME .
@@ -796,9 +775,7 @@ partneri.cestovatelskyobchod.cz CNAME .
 partneri.chytraopicka.cz CNAME .
 partneri.chytrykvetinac.cz CNAME .
 partneri.cvicenie-strava.sk CNAME .
-partneri.dietavkrabicce.cz CNAME .
 partneri.dluhopisomat.cz CNAME .
-partneri.dobre-knihy.cz CNAME .
 partneri.dusansoucek.cz CNAME .
 partneri.easylingo.cz CNAME .
 partneri.ecstatic.cz CNAME .
@@ -851,7 +828,6 @@ partneri.monikakorinkova.cz CNAME .
 partneri.mrblast.eu CNAME .
 partneri.muzeslepe.cz CNAME .
 partneri.mydlatamara.sk CNAME .
-partneri.myrentia.com CNAME .
 partneri.nabytek-natali.cz CNAME .
 partneri.natu.cz CNAME .
 partneri.nutricbistro.cz CNAME .
@@ -878,12 +854,11 @@ partneri.samudia.cz CNAME .
 partneri.serafinbyliny.cz CNAME .
 partneri.sexshop.cz CNAME .
 partneri.silaprozivot.com CNAME .
+partneri.smartemailing.cz CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .
 partneri.somsamasebou.sk CNAME .
-partneri.sportfotbal.cz CNAME .
 partneri.sportmentor.cz CNAME .
 partneri.stastnamysl.cz CNAME .
-partneri.sterixretro.cz CNAME .
 partneri.supportbox.cz CNAME .
 partneri.svetfitness.cz CNAME .
 partneri.sviicka.cz CNAME .
@@ -904,11 +879,9 @@ partneri.webmeeting.cz CNAME .
 partneri.worldee.com CNAME .
 partneri.yoggspiration.cz CNAME .
 partneri.zaprovizi.cz CNAME .
-partneri.zburnik.cz CNAME .
 partneri.zhubnichytre.cz CNAME .
 partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
-partners.elitecoaching.cz CNAME .
 partners.gingles.co CNAME .
 partners.henrysmusic.com CNAME .
 partners.lawofattraction.cz CNAME .
@@ -970,6 +943,7 @@ spoluprace.sikland.cz CNAME .
 spoluprace.skolnitriko.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
+spoluprace.vivobarefoot.cz CNAME .
 tracking.pleddu.com CNAME .
 udrzitelny-nakup.mydlia.cz CNAME .
 udrzitelny-nakup.tierraverde.cz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,7 +11,6 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-emailing.casden.banquepopulaire.fr CNAME .
 epm.mailperformance.com CNAME .
 mailtracking.tf1.com CNAME .
 mailtracking.tfou.com CNAME .
@@ -125,6 +124,7 @@ tr.asp10fx.espmp-cufr.net CNAME .
 tr.asp10fy.espmp-agfr.net CNAME .
 tr.asp10ga.espmp-nifr.net CNAME .
 tr.asp10ge.espmp-nifr.net CNAME .
+tr.asp10gg.espmp-cufr.net CNAME .
 tr.asp10h2.espmp-nifr.net CNAME .
 tr.asp10hc.espmp-aufr.net CNAME .
 tr.asp10hf.espmp-pofr.net CNAME .
@@ -278,7 +278,6 @@ tr.communication.np6.com CNAME .
 tr.communication.numericable.fr CNAME .
 tr.communication.offresb2b.fr CNAME .
 tr.communication.rmcbfm.com CNAME .
-tr.communication.top-office.com CNAME .
 tr.communications.chapsvision.com CNAME .
 tr.companeo-news.co.uk CNAME .
 tr.comunicacao.younited-credit.com CNAME .
@@ -427,7 +426,6 @@ tr.emailing.tvcaraibes.tv CNAME .
 tr.emailing.uda.fr CNAME .
 tr.emailium.fr CNAME .
 tr.emc.moethennessy.com CNAME .
-tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
 tr.enquetes.actionlogement.fr CNAME .
 tr.enquetevrs.fr CNAME .
@@ -438,6 +436,7 @@ tr.eqs.cpam67.net CNAME .
 tr.ere.emailing.bnpparibas CNAME .
 tr.espmp-agfr.net CNAME .
 tr.estatesandwines.moethennessy.com CNAME .
+tr.etravaux.com CNAME .
 tr.etravauxpro.fr CNAME .
 tr.etude.sncd.org CNAME .
 tr.eulerhermes.com CNAME .
@@ -544,7 +543,6 @@ tr.info.mango-mobilites.fr CNAME .
 tr.info.mango-mobilitesbyaprr.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
 tr.info.maxis-gbn.com CNAME .
-tr.info.mcgarrybowen.com CNAME .
 tr.info.mdbp.fr CNAME .
 tr.info.mercialys.com CNAME .
 tr.info.mobibam.com CNAME .
@@ -667,7 +665,6 @@ tr.mail.vo3000.com CNAME .
 tr.mail1.macif.fr CNAME .
 tr.mail306.com CNAME .
 tr.mailing.heliades.fr CNAME .
-tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
@@ -680,7 +677,6 @@ tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.bordeauxgironde.cci.fr CNAME .
 tr.marketing.comparadordeprestamos.es CNAME .
 tr.marketing.fulli.com CNAME .
-tr.marketing.tennaxia.com CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.marketing.younited-credit.es CNAME .
 tr.marketing.younited-credit.pt CNAME .
@@ -692,7 +688,6 @@ tr.media.harmonie-sante.fr CNAME .
 tr.melhores-propostas.pt CNAME .
 tr.membres.boursobank.info CNAME .
 tr.membres.boursorama.info CNAME .
-tr.mep.enkiapp.io CNAME .
 tr.mes-bonsplans.be CNAME .
 tr.mes-prestataires.fr CNAME .
 tr.message.maaf.fr CNAME .
@@ -786,7 +781,6 @@ tr.news.cenpac.fr CNAME .
 tr.news.ceoradio.tv CNAME .
 tr.news.cforadio.tv CNAME .
 tr.news.chapsvision.com CNAME .
-tr.news.chezmonveto.com CNAME .
 tr.news.chilican.com CNAME .
 tr.news.cioradio.tv CNAME .
 tr.news.clicochic.com CNAME .
@@ -804,19 +798,16 @@ tr.news.devisdirect.be CNAME .
 tr.news.devisdirect.com CNAME .
 tr.news.digitpjms.fr CNAME .
 tr.news.directeo.fr CNAME .
-tr.news.drveto.com CNAME .
 tr.news.easybook.fr CNAME .
 tr.news.easyviaggio.com CNAME .
 tr.news.easyvoyage.co.uk CNAME .
 tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
-tr.news.editions-lva.fr CNAME .
 tr.news.ekosport-rent.fr CNAME .
 tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
 tr.news.eureden.com CNAME .
 tr.news.eurodatatv.com CNAME .
-tr.news.exclu.fr CNAME .
 tr.news.extenso-telecom.com CNAME .
 tr.news.externis.com CNAME .
 tr.news.extrabook.com CNAME .
@@ -861,7 +852,6 @@ tr.news.lalettredelexpansion.com CNAME .
 tr.news.latribunebordeaux.fr CNAME .
 tr.news.leclubtravel.fr CNAME .
 tr.news.lemans.org CNAME .
-tr.news.lentillesmoinscheres.com CNAME .
 tr.news.lentimenocare.it CNAME .
 tr.news.libranoo.com CNAME .
 tr.news.linxea.com CNAME .
@@ -944,7 +934,6 @@ tr.newsletter.np6.com CNAME .
 tr.newsletter.np6.fr CNAME .
 tr.newsletter.opcoep.fr CNAME .
 tr.newsletter.photoservice.com CNAME .
-tr.newsletter.phyto.com CNAME .
 tr.newsletter.plurielmedia.com CNAME .
 tr.newsletter.veuveclicquot.com CNAME .
 tr.newsletter.younited-credit.com CNAME .
@@ -1001,7 +990,6 @@ tr.partenaire.groupe-vyv.fr CNAME .
 tr.partenaire.manageo.info CNAME .
 tr.partners.younited-credit.it CNAME .
 tr.payment.lvmh.com CNAME .
-tr.paysanbreton.com CNAME .
 tr.perv.espmp-agfr.net CNAME .
 tr.phjk.espmp-nifr.net CNAME .
 tr.pipa.espmp-aufr.net CNAME .
@@ -1024,6 +1012,7 @@ tr.pro-renov.be CNAME .
 tr.pro.myhomeflowercampings.com CNAME .
 tr.pro.odalys-campus.com CNAME .
 tr.pro.odalys-vacances.com CNAME .
+tr.pro.residencehappysenior.fr CNAME .
 tr.pro.sgit.net CNAME .
 tr.programme-voyageur-sncf.com CNAME .
 tr.projet.cotemaison.fr CNAME .
@@ -1032,7 +1021,6 @@ tr.promotion.lexpress.fr CNAME .
 tr.prosfores-companeo.gr CNAME .
 tr.prosfores-etairias.gr CNAME .
 tr.ps.espmp-agfr.net CNAME .
-tr.psaparts.com CNAME .
 tr.publicisdrugstore.espmp-agfr.net CNAME .
 tr.qualite.groupama.com CNAME .
 tr.qualite.groupebarriere.com CNAME .
@@ -1099,7 +1087,6 @@ tr.sgjk.espmp-aufr.net CNAME .
 tr.silvera-contact.fr CNAME .
 tr.skin.espmp-agfr.net CNAME .
 tr.smtp1.email-mediapost.fr CNAME .
-tr.solendi.com CNAME .
 tr.solocal.espmp-aufr.net CNAME .
 tr.solution.uneo.fr CNAME .
 tr.sopr.espmp-agfr.net CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,6 +22,7 @@ ee.sportacentrs.com CNAME .
 icorpado.9am.ro CNAME .
 icorpado.kudika.ro CNAME .
 icorpado.urbo.ro CNAME .
+icorpado.wall-street.ro CNAME .
 ipla.hit.stat24.com CNAME .
 ocean.gigatron.rs CNAME .
 recontent.services.tvn.pl CNAME .

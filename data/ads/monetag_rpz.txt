@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,13 +11,8 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-1frq.com CNAME .
-536i.com CNAME .
 d70i.com CNAME .
-dxlis.com CNAME .
-gx2d.com CNAME .
 jup9.com CNAME .
 ldy5.com CNAME .
-vav4.com CNAME .
 yovcb.com CNAME .
 yzwtz.com CNAME .

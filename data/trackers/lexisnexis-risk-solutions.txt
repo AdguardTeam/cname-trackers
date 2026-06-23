@@ -112,7 +112,7 @@
 ||analytics.cheapcaribbean.com^
 ||analytics.dreamsresorts.com^
 ||analytics.funjet.com^
-||analytics.m10payments.com^
+||analytics.inteflow.com.au^
 ||analytics.nowresorts.com^
 ||analytics.southwestvacations.com^
 ||analytics.sunscaperesorts.com^
@@ -157,6 +157,7 @@
 ||black-cat.crypto.com^
 ||bland.starone.org^
 ||c.menards.com^
+||cache2.warriortrading.com^
 ||catalyst.mashreq.com^
 ||caveo.boost-my.com^
 ||cbcdn.bankofscotland.co.uk^
@@ -232,6 +233,7 @@
 ||cdntm.firstdirect.com^
 ||cdntm.hangseng.com^
 ||cdntm.hsbc.ae^
+||cdntm.hsbc.bm^
 ||cdntm.hsbc.co.id^
 ||cdntm.hsbc.co.in^
 ||cdntm.hsbc.co.uk^
@@ -241,6 +243,7 @@
 ||cdntm.hsbc.com.mx^
 ||cdntm.hsbc.com.my^
 ||cdntm.hsbc.com.ph^
+||cdntm.hsbc.com.qa^
 ||cdntm.hsbc.com.sg^
 ||cdntm.hsbc.com.tw^
 ||cdntm.hsbc.com.vn^
@@ -287,7 +290,6 @@
 ||cim-idc-cdn.account.test.bcbstx.com^
 ||cim-idc-cdn.account.wellontarget.com^
 ||claimant.vec.virginia.gov^
-||clear.wallapop.com^
 ||clovergo.june-testing.firstdata.com^
 ||cmprofile.cards.citidirect.com^
 ||cnt.aeonbank.com.my^
@@ -329,6 +331,7 @@
 ||content.biggerbooks.com^
 ||content.billdomain.com^
 ||content.billsupport.com^
+||content.bnl.it^
 ||content.bnpparibas.net^
 ||content.byabcd.com^
 ||content.canadiantire.ca^
@@ -350,7 +353,6 @@
 ||content.discovercard.com^
 ||content.dstv.com^
 ||content.dwd.wisconsin.gov^
-||content.ea.com^
 ||content.ebanking-services.com^
 ||content.ecampus.com^
 ||content.egyptair.com^
@@ -366,13 +368,16 @@
 ||content.floa.com^
 ||content.floridarentals.com^
 ||content.frs.fl.gov^
+||content.fswebchw.com^
 ||content.gap.co.jp^
 ||content.gap.com^
 ||content.gapcanada.ca^
 ||content.gapfactory.ca^
 ||content.gapfactory.com^
 ||content.gaptechol.com^
+||content.goodsamrvinsurance.com^
 ||content.govidentityportal.lexisnexisrisk.com^
+||content.happen.com^
 ||content.happybank.com^
 ||content.heidipay.com^
 ||content.hellobank.fr^
@@ -423,11 +428,13 @@
 ||content.ofx.com^
 ||content.olympus.ao.com^
 ||content.orixbank.co.jp^
+||content.otpinternetbanking.md^
 ||content.parcelaja.pt^
 ||content.partycity.ca^
 ||content.paycardsolutions.com^
 ||content.paydala.com^
 ||content.paysend.com^
+||content.pcfinancial.ca^
 ||content.pefcu.com^
 ||content.personifyfinancial.com^
 ||content.pledg.co^
@@ -441,10 +448,8 @@
 ||content.readiness.familyprepaiddebit.com^
 ||content.readiness.paycardsolutions.com^
 ||content.realquest.com^
-||content.reisource.com^
 ||content.rendimento.com.br^
 ||content.rias.co.uk^
-||content.royalairmaroc.com^
 ||content.royalvegascasino.ca^
 ||content.rubyfortune.ca^
 ||content.rubyfortunecasino.ca^
@@ -482,15 +487,16 @@
 ||content002.bet365.dk^
 ||content002.bet365.ee^
 ||content002.bet365.es^
+||content002.bet365.fr^
 ||content002.bet365.gr^
 ||content002.bet365.it^
 ||content002.bet365.nl^
 ||content002.bet365.pe^
 ||content002.bet365.rs^
+||content1.esdiac.com^
 ||content1.esdiacapi.com^
 ||content1.reprisefinancial.com^
 ||content2.instacart.com^
-||content2.paywerk.co^
 ||content21.snapfinance.com^
 ||content22.accountonline.com^
 ||content22.bancanet.banamex.com^
@@ -527,9 +533,11 @@
 ||contentservices.brightlending.com^
 ||contentservices.clearairlending.com^
 ||contentservices.firstlightlending.com^
+||continuum.ford.com^
 ||cookiemonster.calcas.com^
 ||creditapp.rogersbank.com^
 ||crmg-fraudmgmt.bayad.com^
+||cs.allegro.pl^
 ||css.slots.io^
 ||csservice.aircanada.com^
 ||cstm.gumtree.com^
@@ -580,6 +588,8 @@
 ||did.koempf24.de^
 ||diff3.jazztel.com^
 ||diff3.orange.es^
+||diff4.masmovil.es^
+||diff4.yoigo.com^
 ||digitalid-qa.santanderbank.com^
 ||digitalid.santanderbank.com^
 ||digitalidentity.compass.it^
@@ -603,6 +613,7 @@
 ||dtrust.atratopago.com^
 ||dvc0271.play.jackpocket.com^
 ||ebcontent.mcbankny.com^
+||ecomm.thegiftcardshop.com^
 ||edge.privacy.com.br^
 ||ela1.bankofscotland.co.uk^
 ||elevate.stg.na02.aws.ballys.tech^
@@ -671,6 +682,7 @@
 ||hint-tmdp.opendoor.com^
 ||hooru.regence.com^
 ||hunt.elcorteingles.es^
+||id-check.boostmobile.com^
 ||id.charge-auth.com^
 ||id.latitudefinancial.com^
 ||id.solidgate.com^
@@ -758,7 +770,9 @@
 ||jytrnq.cm-cic.com^
 ||kyc.usend.com^
 ||lab4.lloydsbank.com^
+||lexis.ourtrip.com.br^
 ||lght.loberon.com^
+||line.bd.com^
 ||ln.acornfun.com^
 ||ln.cash.app^
 ||ln.cidercasino.com^
@@ -815,6 +829,7 @@
 ||membership-device.secured-igaming-services.com^
 ||meox.alliancebizsmart.com.my^
 ||meox.allianceonline.com.my^
+||metrics.boatsgroup.com^
 ||metrix.ancestry.com^
 ||metrix.motosport.com^
 ||metrix.us.ovhcloud.com^
@@ -869,7 +884,6 @@
 ||plr.scb-payments.net^
 ||pn1927.coutts.com^
 ||pn1927.couttscrowndependencies.com^
-||pn1927.natwestplus.com^
 ||pngtm.paragonbank.co.uk^
 ||portal-fp-idev.qa.threatmetrix.com^
 ||portal-fp-qa1.qa.threatmetrix.com^
@@ -910,6 +924,7 @@
 ||prod-hfcuvt.chaperone.lumindigitalhosting.com^
 ||prod-hsfcuhi.chaperone.lumindigitalhosting.com^
 ||prod-humantx.chaperone.lumindigitalhosting.com^
+||prod-ihmvcu-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-imcu.chaperone.lumindigitalhosting.com^
 ||prod-interracu.chaperone.lumindigitalhosting.com^
 ||prod-jaxfcufl.chaperone.lumindigitalhosting.com^
@@ -1063,7 +1078,6 @@
 ||secure.jumia.sn^
 ||secure.jumia.ug^
 ||secure.meine.santander.de^
-||secure.zando.co.za^
 ||secure3.segpay.com^
 ||securecheckout.halloweencostumes.com^
 ||secured.netflix.com^
@@ -1080,6 +1094,7 @@
 ||shield.legalzoom.com^
 ||skw.eve.account.sony.com^
 ||solstice.ibotta.com^
+||spp.noxauth.com^
 ||sptbb.pilates.com^
 ||src.ebay-us.com^
 ||src0.myvoffice.com^
@@ -1196,7 +1211,6 @@
 ||threatmetrix.lendingclub.com^
 ||thrm-scrq-0001.crypterium.com^
 ||tm-analytics.bluevine.com^
-||tm-eps.neutrino.nu^
 ||tm-out.cardinalcommerce.com^
 ||tm.acehardware.com^
 ||tm.barclays.co.uk^
@@ -1426,6 +1440,7 @@
 ||www.content.mabanquepro.bnpparibas^
 ||www.content.prev-espace-client.hellobank.fr^
 ||www.content.prev.connexion-mabanque.bnpparibas^
+||www.df.thumbtack.com^
 ||xfp.intuit.com^
 ||xmt.paze.com^
 ||xmt.wallet.cat.earlywarning.io^

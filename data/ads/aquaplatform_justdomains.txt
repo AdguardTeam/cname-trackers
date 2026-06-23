@@ -3,7 +3,6 @@
 adamsads-static.midtc.com
 adamsads.midtc.com
 adconsole.bidspotter.co.uk
-adconsole.eva.live
 adconsole.i-bidder.com
 adconsole.kozoom.com
 adconsole.lot-tissimo.com
@@ -12,7 +11,6 @@ adconsole.sniffies.com
 adconsole.the-saleroom.com
 addurance-delivery.reviveservers.com
 adimages.associationheadquarters.com
-adimages.eva.live
 adimages.infotorg.se
 adimages.rtvdrenthe.nl
 adimages.sniffies.com
@@ -33,7 +31,6 @@ ads.worldofshowjumping.com
 ads.xtra.ca
 adserv1.mannixmarketing.com
 adserver.associationheadquarters.com
-adserver.fa-mag.com
 adserver.infotorg.se
 adserver.kozoom.com
 adserver.rtvdrenthe.nl
@@ -52,7 +49,6 @@ adztech-images.reviveservers.com
 api.ad.logic-prod.viasat.io
 api.ad.logic-test.viasat.io
 api.ad.logic.viasat.io
-api.adbility-media.com
 api.aqua-adserver.com
 api.metrike.com
 banners.atlantamagazine.com
@@ -107,7 +103,6 @@ console.mannixmarketing.com
 console.medlabmag.com
 console.mequoda.com
 console.miningweekly.com
-console.myadsmyanmar.com
 console.pinktriangle.ca
 console.polity.org.za
 console.postandparcel.info
@@ -148,6 +143,7 @@ media.revive-adserver.net
 media360ads.midtc.com
 nyfa-images.reviveservers.com
 omroepflevoland-static.reviveservers.com
+omroepwest-images.reviveservers.com
 omropfryslan-delivery.reviveservers.com
 openx.mondiale.co.uk
 opx.webtool.net
@@ -177,8 +173,10 @@ servedby.cricketworld.com
 servedby.engineeringnews.co.za
 servedby.everythingcolorado.com
 servedby.everythingnevada.com
+servedby.filmamo.com
 servedby.geminipub.com
 servedby.greenspring.com
+servedby.healthcarescene.com
 servedby.hlipublishing.com
 servedby.hollandhortimedia.nl
 servedby.hour-media.com
@@ -264,14 +262,12 @@ www.adconsole.the-saleroom.com
 www.adimages.infotorg.se
 www.ads.environmentalleader.com
 www.ads.proxibid.com
-www.adserver.fa-mag.com
 www.adserver.sniffies.com
 www.adserver.sonicplug.com
 www.adwin.geenstijl.nl
 www.api.ad.logic-prod.viasat.io
 www.api.ad.logic-test.viasat.io
 www.api.ad.logic.viasat.io
-www.api.adbility-media.com
 www.api.metrike.com
 www.cdn-adv.unionesarda.it
 www.cdn.adspmg.com
@@ -287,7 +283,6 @@ www.console.cincinnatimagazine.com
 www.console.falconstudios.com
 www.console.leightonbroadcasting.com
 www.console.livingmagonline.com
-www.console.myadsmyanmar.com
 www.console.pinktriangle.ca
 www.console.schrotundkorn.de
 www.coreads-console.cambridge.org

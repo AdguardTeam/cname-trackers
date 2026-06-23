@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,12 +50,14 @@ d.santemagazine.fr CNAME .
 da.freo.nl CNAME .
 da.maif.fr CNAME .
 da.rabobank.nl CNAME .
+dadi.gandi.net CNAME .
 data.lelivrescolaire.fr CNAME .
 dfr.deloitte.com CNAME .
 digitalninjas.vattenfall.nl CNAME .
 dimensions.mappy.com CNAME .
 epwa.europarl.europa.eu CNAME .
 fabryczna.viessmann.pl CNAME .
+gerland.ol.fr CNAME .
 hal.courrierinternational.com CNAME .
 hd.pe.fr CNAME .
 hmg.handelsblatt.com CNAME .
@@ -74,12 +76,31 @@ leo.play.tv CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 montpalatin.handicap.fr CNAME .
+orchestre.macif.fr CNAME .
+pa.belantis.de CNAME .
+pa.bellewaerde.be CNAME .
+pa.familypark.at CNAME .
+pa.franceminiature.fr CNAME .
+pa.futuroscope.com CNAME .
+pa.grevin-paris.com CNAME .
+pa.lesarcs-peiseyvallandry.com CNAME .
 pa.parcasterix.fr CNAME .
+pa.serrechevalier-pass.com CNAME .
+pa.skipass-grand-massif.com CNAME .
+pa.skipass-laplagne.com CNAME .
+pa.walibi.be CNAME .
+pa.walibi.fr CNAME .
+pa.walibi.nl CNAME .
 pear.youzful-by-ca.fr CNAME .
+pfhub.petitfute.cn CNAME .
 pfhub.petitfute.co.uk CNAME .
 pfhub.petitfute.com CNAME .
 pfhub.petitfute.de CNAME .
 pfhub.petitfute.es CNAME .
+piatra.clickandboat.com CNAME .
+piatra.nautal.com CNAME .
+piatra.oceans-evasion.com CNAME .
+piatra.scansail.com CNAME .
 pilau.oddo-bhf.com CNAME .
 ponyo.cheriefm.fr CNAME .
 protys.protys.fr CNAME .
@@ -87,7 +108,6 @@ res.elle.fr CNAME .
 res.femina.fr CNAME .
 res.franc-tireur.fr CNAME .
 res.marianne.net CNAME .
-res.programme-television.org CNAME .
 res.public.fr CNAME .
 res.t18.fr CNAME .
 ressources.argusassurance.com CNAME .
@@ -102,9 +122,11 @@ ressources.promoneuve.fr CNAME .
 ressources.usine-digitale.com CNAME .
 ressources.usine-nouvelle.com CNAME .
 rsc.lepoint.fr CNAME .
+sedweba.carglass.fr CNAME .
 sheeta.nrj-play.fr CNAME .
 srza.sarenza.com CNAME .
 st1.lg.avendrealouer.fr CNAME .
+statizein.lecanardenchaine.fr CNAME .
 stiwa.test.de CNAME .
 strawberry.basf.ca CNAME .
 strawberry.basf.com CNAME .
@@ -115,6 +137,7 @@ tm.urssaf.org CNAME .
 tse.telerama.fr CNAME .
 waati.quechoisir.org CNAME .
 wareneingang.edeka.de CNAME .
+wvvw.zoa.media CNAME .
 www.strawberry.basf.com CNAME .
 zelten.fritz-berger.de CNAME .
 zug.sbb.ch CNAME .

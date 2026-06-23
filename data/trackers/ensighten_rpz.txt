@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -127,13 +127,11 @@ attribution.batesfootwear.com CNAME .
 attribution.grasshoppers.com CNAME .
 attribution.hushpuppies.com CNAME .
 attribution.lebara.com CNAME .
-attribution.lendopolis.com CNAME .
 attribution.sperry.com CNAME .
 attribution.tescomobile.com CNAME .
 attribution.theworks.co.uk CNAME .
 attribution.tmlewinshirts.eu CNAME .
 businessmetrics.syf.com CNAME .
-cm.quest.com CNAME .
 cmp.audi.be CNAME .
 cmp.audifinance.be CNAME .
 cmp.cupra.be CNAME .
@@ -216,6 +214,7 @@ dc.volkswagen.com CNAME .
 dc.volkswagen.com.ar CNAME .
 dc.volkswagen.com.au CNAME .
 dc.volkswagen.de CNAME .
+dc.volkswagen.es CNAME .
 dc.volkswagen.ie CNAME .
 dc.volkswagen.no CNAME .
 dc.volkswagen.pl CNAME .
@@ -227,11 +226,13 @@ dc.zalesoutlet.com CNAME .
 dcf.espn.com CNAME .
 dcf.espn.com.do CNAME .
 dcf.espnqa.com CNAME .
+dcf.espnsb.co.uk CNAME .
 dcfdata.espn.com CNAME .
 ddc.statefarm.com CNAME .
 dtm.worldmarket.com CNAME .
 eb.trbas.com CNAME .
 emetrics.eastwestbank.com CNAME .
+ens.appenzellerzeitung.ch CNAME .
 ens.bote.ch CNAME .
 ens.luzernerzeitung.ch CNAME .
 ens.moneyhouse.ch CNAME .
@@ -290,6 +291,7 @@ nexus.virginholidays.co.uk CNAME .
 ntms-test.coles.com.au CNAME .
 ntms-test.creditcards.money.qantas.com CNAME .
 ntms-test.koganmoney.com.au CNAME .
+ntms.boq.com.au CNAME .
 ntms.coles.com.au CNAME .
 ntms.creditcards.money.qantas.com CNAME .
 ntms.koganmoney.com.au CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 1qrsumhcuudhkt4c.brandnewapp.pro CNAME .
 39236100.lotre.io CNAME .
 7qi2.fowebsiqa.shop CNAME .
+8qi3.fowebsiqa.shop CNAME .
 a1.arabsex1.com CNAME .
 a2.arabsex1.com CNAME .
 a2.hotpornfile.org CNAME .
@@ -31,9 +32,10 @@ api.rtnews.pro CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
-bat32.gimmeporn.xyz CNAME .
+bat36.gimmeporn.xyz CNAME .
 block.18tube.me CNAME .
 c0n.tubestash.com CNAME .
+c4n.85xvideo.com CNAME .
 c4n.allporncomics.co CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.asianpinay.com CNAME .
@@ -58,7 +60,6 @@ ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
 click.alexabyte.site CNAME .
 click.freepopnews.skin CNAME .
-clickc4n.pornharlot.net CNAME .
 clk.slutcam.org CNAME .
 clka.bondagevalley.cc CNAME .
 clkn.apostle.onl CNAME .
@@ -71,7 +72,6 @@ cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
 dashww.hotscopes.net CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
-dfx.xtapes.porn CNAME .
 drt.cliomovies.com CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
@@ -92,7 +92,6 @@ n.russ-porno.net CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
-p.porn0hd.online CNAME .
 p.russ-porno.net CNAME .
 ps1.reallifecam.to CNAME .
 reg.ancensored.com CNAME .
@@ -103,7 +102,6 @@ s4.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
 ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
-taco.sexreels.net CNAME .
 v040419.badjojo.com CNAME .
 web5603.brandnewapp.pro CNAME .
 wp.brandnewapp.pro CNAME .
@@ -114,6 +112,8 @@ www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
 www.telford.brandnewapp.pro CNAME .
 www.web5603.brandnewapp.pro CNAME .
+www.wp.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
+xn--icn-hn0a.brandnewapp.pro CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

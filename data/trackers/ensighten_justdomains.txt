@@ -116,13 +116,11 @@ attribution.batesfootwear.com
 attribution.grasshoppers.com
 attribution.hushpuppies.com
 attribution.lebara.com
-attribution.lendopolis.com
 attribution.sperry.com
 attribution.tescomobile.com
 attribution.theworks.co.uk
 attribution.tmlewinshirts.eu
 businessmetrics.syf.com
-cm.quest.com
 cmp.audi.be
 cmp.audifinance.be
 cmp.cupra.be
@@ -205,6 +203,7 @@ dc.volkswagen.com
 dc.volkswagen.com.ar
 dc.volkswagen.com.au
 dc.volkswagen.de
+dc.volkswagen.es
 dc.volkswagen.ie
 dc.volkswagen.no
 dc.volkswagen.pl
@@ -216,11 +215,13 @@ dc.zalesoutlet.com
 dcf.espn.com
 dcf.espn.com.do
 dcf.espnqa.com
+dcf.espnsb.co.uk
 dcfdata.espn.com
 ddc.statefarm.com
 dtm.worldmarket.com
 eb.trbas.com
 emetrics.eastwestbank.com
+ens.appenzellerzeitung.ch
 ens.bote.ch
 ens.luzernerzeitung.ch
 ens.moneyhouse.ch
@@ -279,6 +280,7 @@ nexus.virginholidays.co.uk
 ntms-test.coles.com.au
 ntms-test.creditcards.money.qantas.com
 ntms-test.koganmoney.com.au
+ntms.boq.com.au
 ntms.coles.com.au
 ntms.creditcards.money.qantas.com
 ntms.koganmoney.com.au

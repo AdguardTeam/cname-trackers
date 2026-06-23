@@ -45,6 +45,7 @@
 | icorpado.9am.ro | icorpro.adocean.pl |
 | icorpado.kudika.ro | icorpro.adocean.pl |
 | icorpado.urbo.ro | icorpro.adocean.pl |
+| icorpado.wall-street.ro | icorpro.adocean.pl |
 | content.ingbank.pl | ing.adocean.pl |
 | serveris.lnk.lt | lt.adocean.pl |
 | ad.santa.lv | lv.adocean.pl |

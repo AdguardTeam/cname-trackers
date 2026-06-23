@@ -11,6 +11,7 @@
 | 1qrsumhcuudhkt4c.brandnewapp.pro | api.clickaine.com |
 | 39236100.lotre.io | api.clickaine.com |
 | 7qi2.fowebsiqa.shop | api.clickaine.com |
+| 8qi3.fowebsiqa.shop | api.clickaine.com |
 | a1.arabsex1.com | api.clickaine.com |
 | a2.arabsex1.com | api.clickaine.com |
 | a2.hotpornfile.org | api.clickaine.com |
@@ -28,9 +29,10 @@
 | app.rtnews.pro | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
-| bat32.gimmeporn.xyz | api.clickaine.com |
+| bat36.gimmeporn.xyz | api.clickaine.com |
 | block.18tube.me | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
+| c4n.85xvideo.com | api.clickaine.com |
 | c4n.allporncomics.co | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
@@ -55,7 +57,6 @@
 | cl.sexstories-all.com | api.clickaine.com |
 | click.alexabyte.site | api.clickaine.com |
 | click.freepopnews.skin | api.clickaine.com |
-| clickc4n.pornharlot.net | api.clickaine.com |
 | clk.slutcam.org | api.clickaine.com |
 | clka.bondagevalley.cc | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
@@ -68,7 +69,6 @@
 | dashww.hotscopes.net | api.clickaine.com |
 | ddd.contoseroticoscnn.com | api.clickaine.com |
 | ddd.sexstories69.com | api.clickaine.com |
-| dfx.xtapes.porn | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
@@ -89,7 +89,6 @@
 | net.fuckxstream.com | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
 | orange.arabtoons.net | api.clickaine.com |
-| p.porn0hd.online | api.clickaine.com |
 | p.russ-porno.net | api.clickaine.com |
 | ps1.reallifecam.to | api.clickaine.com |
 | reg.ancensored.com | api.clickaine.com |
@@ -100,7 +99,6 @@
 | s5.rtnews.pro | api.clickaine.com |
 | ssp.lbanez.net | api.clickaine.com |
 | station54k.brandnewapp.pro | api.clickaine.com |
-| taco.sexreels.net | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
 | web5603.brandnewapp.pro | api.clickaine.com |
 | wp.brandnewapp.pro | api.clickaine.com |
@@ -111,6 +109,8 @@
 | www.station54k.brandnewapp.pro | api.clickaine.com |
 | www.telford.brandnewapp.pro | api.clickaine.com |
 | www.web5603.brandnewapp.pro | api.clickaine.com |
+| www.wp.brandnewapp.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
+| xn--icn-hn0a.brandnewapp.pro | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

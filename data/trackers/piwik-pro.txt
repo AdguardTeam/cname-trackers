@@ -15,15 +15,18 @@
 ||analytics.wavelz.com^
 ||analytics.webanalytics.op.europa.eu^
 ||analytics.witglobal.net^
+||d.hypovbg.at^
 ||dap.amsterdam.nl^
 ||dnsbl.test.tag.aumago.com^
 ||epiphany.masterworks.digital^
+||fse.piwikpro.pl^
 ||gmn.gloo.com^
 ||inzicht.cz.nl^
 ||logfiles.storck.com^
 ||mphdd.multipharma.be^
 ||p-k.kuka.com^
 ||p-pan.triodos.com^
+||p.klett.de^
 ||p.zwilling.com^
 ||piwik.com-online.com^
 ||piwik.eib.org^
@@ -31,7 +34,6 @@
 ||piwik.slotsparadise.com^
 ||piwik.twyzle.com^
 ||piwik.vegasaces.com^
-||polpharmaanalytics.pl^
 ||purple.fitchconnect.com^
 ||pwk.tweedekamer.nl^
 ||site-analytics.iop.ohio.gov^
@@ -50,7 +52,6 @@
 ||tag2.uwv.nl^
 ||tagadmin.aumago.com^
 ||tagmanager.becop.nl^
-||wa.love2play.com^
 ||webanalytics.helen.fi^
 ||www.webanalytics-az.acc.fpfis.tech.ec.europa.eu^
 ||www.webanalytics.europa.eu^

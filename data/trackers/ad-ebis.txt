@@ -21,9 +21,11 @@
 ||ad-ebis.mynavi-job20s.jp^
 ||ad-ebis.toysub.jp^
 ||ad.320320.net^
+||ad.aim-universe.co.jp^
 ||ad.aucfan.com^
 ||ad.aucview.com^
 ||ad.autorace.jp^
+||ad.cene.tokyo^
 ||ad.hoikushibank.com^
 ||ad.kddi-fs.com^
 ||ad.omotenashi.work^
@@ -57,7 +59,6 @@
 ||adebis.bathclin.jp^
 ||adebis.bbb-life.jp^
 ||adebis.beautiful-voyager.com^
-||adebis.blackboard60s.com^
 ||adebis.chojyu.com^
 ||adebis.curilla.jp^
 ||adebis.daiwahouse.co.jp^
@@ -242,6 +243,7 @@
 ||ebis.coyori.com^
 ||ebis.cp.claudia.co.jp^
 ||ebis.delis.co.jp^
+||ebis.eiyoushi-tensyoku.com^
 ||ebis.forcas.com^
 ||ebis.funai-finance.com^
 ||ebis.funaisoken.co.jp^
@@ -345,9 +347,11 @@
 ||sinceregarden.sincere-garden.jp^
 ||test-ad.lucia-c.com^
 ||test-ad.mens-lucia.com^
+||track.kure-shinkin.jp^
 ||tracking.axis-kobetsu.jp^
 ||tracking.axis.onl^
 ||tracking.mysurance.co.jp^
+||tracking.nokai-pre.jp^
 ||tracking.nokai.jp^
 ||tracking.stad-gakusyu.jp^
 ||tracking.wao-corp.com^

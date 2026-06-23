@@ -26,7 +26,6 @@
     * compexusa.extole.com
     * criquetshirts.extole.com
     * crystallight-ssl.extole.com
-    * custudentloans.extole.com
     * d.extole.com
     * discover.extole.com
     * divvybikes.extole.com
@@ -45,7 +44,6 @@
     * hattiesburgamerican.extole.com
     * hostgator.extole.com
     * indochino.extole.com
-    * integrativenutrition-ssl.extole.com
     * intuit-accountants.extole.com
     * iop.extole.com
     * jacksonsun.extole.com
@@ -79,8 +77,6 @@
     * qalo.extole.com
     * referxoom.extole.com
     * roadrunnersports-ssl.extole.com
-    * sage-ssl.extole.com
-    * sageca-ssl.extole.com
     * seniorhelpers.extole.com
     * sharefile-ssl.extole.com
     * shoesforcrews-ssl.extole.com
@@ -113,6 +109,7 @@
     * 2ndswing.extole.io
     * 3riversfcu.extole.io
     * aaaeagles.extole.io
+    * aarp.extole.io
     * abacusnext.extole.io
     * acornonline.extole.io
     * activations.extole.io
@@ -187,13 +184,10 @@
     * candyinbulk.extole.io
     * canvas.extole.io
     * carpartscom.extole.io
-    * catfootwear.extole.io
     * cefaly.extole.io
     * ceifx.extole.io
     * cellcom.extole.io
     * centier.extole.io
-    * chacos.extole.io
-    * chamberlain.extole.io
     * chance-davis-test.extole.io
     * cheaper-than-dirt.extole.io
     * cheaptickets.extole.io
@@ -210,6 +204,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
     * comfortzoneskin.extole.io
@@ -226,6 +221,7 @@
     * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.em.extole.io
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
@@ -241,6 +237,7 @@
     * drunkelephant.extole.io
     * ds-laboratories.extole.io
     * dutch.extole.io
+    * dyson-fr.extole.io
     * ea.extole.io
     * earlybirdbooks.extole.io
     * edelmanfinancial.extole.io
@@ -262,7 +259,6 @@
     * ets.extole.io
     * everlywell.extole.io
     * evine.extole.io
-    * evite.extole.io
     * experian.extole.io
     * extoleu.extole.io
     * familysavingscu.extole.io
@@ -277,13 +273,11 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
-    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
     * gannett.extole.io
     * gap-canada.extole.io
-    * gardenoflife.extole.io
     * garnethill.extole.io
     * getfreed.extole.io
     * getsetup.extole.io
@@ -294,7 +288,6 @@
     * globalknowledge.extole.io
     * glowbar.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * gpsinsight.extole.io
     * granitegaragefloors.extole.io
@@ -312,7 +305,6 @@
     * hill-city.extole.io
     * hollandamerica.extole.io
     * homedepot.extole.io
-    * honcker.extole.io
     * honeypacks.extole.io
     * honorcu.extole.io
     * horizonfitness.extole.io
@@ -348,7 +340,6 @@
     * juvlabs.extole.io
     * kerastase-usa.extole.io
     * kin.extole.io
-    * knixteen.extole.io
     * kotn.extole.io
     * kumon.extole.io
     * la-mariette.extole.io
@@ -384,14 +375,12 @@
     * mascaro.extole.io
     * medely.extole.io
     * meriwest.extole.io
-    * merrell.extole.io
     * metlife.extole.io
     * midlandsb.extole.io
     * midlandusa.extole.io
     * minted.extole.io
     * mondetta.extole.io
     * moneybase-sandbox.extole.io
-    * moneybase.extole.io
     * msgcu.extole.io
     * mtntough.extole.io
     * mycarpe.extole.io
@@ -407,7 +396,6 @@
     * newtonbaby.extole.io
     * nfhs-network.extole.io
     * ngfcu.extole.io
-    * notifications.acorns.em.extole.io
     * nutribullet.extole.io
     * nuts.extole.io
     * nymcu.extole.io
@@ -516,7 +504,6 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * starone.extole.io
@@ -529,6 +516,7 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * suncoastcreditunion.em.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
     * suneast.extole.io
@@ -547,7 +535,9 @@
     * the-childrens-place.extole.io
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
+    * thecompanystore.extole.io
     * thegeneral.extole.io
+    * theory.em.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -561,6 +551,7 @@
     * trafalgar.extole.io
     * travelzoo.extole.io
     * truwest.extole.io
+    * turbotax.em.extole.io
     * turbotax.extole.io
     * turbotaxdemo.extole.io
     * tweglobal.extole.io
@@ -576,7 +567,9 @@
     * unison.extole.io
     * united.extole.io
     * urbanmop.extole.io
+    * usalliance.extole.io
     * useagle.extole.io
+    * ussfcu.extole.io
     * uvacreditunion.extole.io
     * vayasleep.extole.io
     * verizon.extole.io
@@ -585,6 +578,7 @@
     * virginvoyages.extole.io
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
+    * wagwalking.em.extole.io
     * wagwalking.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
@@ -595,7 +589,6 @@
     * whitehouseblackmarket.extole.io
     * wine.extole.io
     * wisdompanel.extole.io
-    * wolverine.extole.io
     * wombat.extole.io
     * wrangler.extole.io
     * wsecu.extole.io
@@ -623,6 +616,7 @@
 | refer.2ndswing.com | 2ndswing.extole.io |
 | share.3riversfcu.org | 3riversfcu.extole.io |
 | share.cluballiance.aaa.com | aaaeagles.extole.io |
+| share.aarp.org | aarp.extole.io |
 | refer.abacusnext.com | abacusnext.extole.io |
 | refer.acornonline.com | acornonline.extole.io |
 | share.activations.com | activations.extole.io |
@@ -735,14 +729,11 @@
 | refer.canvas.org | canvas.extole.io |
 | refer.carbonite.com | carbonite-ssl.extole.com |
 | share.carparts.com | carpartscom.extole.io |
-| refer.catfootwear.com | catfootwear.extole.io |
 | share.cefaly.com | cefaly.extole.io |
 | share.ceifx.com | ceifx.extole.io |
 | share.cellcom.ca | cellcom.extole.io |
 | www.refercentier.com | centier.extole.com |
 | refer.centier.com | centier.extole.io |
-| refer.chacos.com | chacos.extole.io |
-| share.myq.com | chamberlain.extole.io |
 | refer.chancedavis.net | chance-davis-test.extole.io |
 | share.cheaperthandirt.net | cheaper-than-dirt.extole.io |
 | refer.cheaptickets.com | cheaptickets.extole.io |
@@ -763,6 +754,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
 | share.columbiacu.org | columbiacu.extole.io |
@@ -782,7 +774,6 @@
 | refer.crystallight.com | crystallight-ssl.extole.com |
 | refer.cunard.com | cunard.extole.io |
 | share.cunard.com | cunard.extole.io |
-| refer.custudentloans.org | custudentloans.extole.com |
 | refer-photo.cvs.com | cvs.extole.io |
 | share.cwbank.com | cwbank.extole.io |
 | share.motivefinancial.com | cwbank.extole.io |
@@ -791,6 +782,7 @@
 | refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
@@ -814,6 +806,7 @@
 | referral.drunkelephant.com | drunkelephant.extole.io |
 | share.dslaboratories.com | ds-laboratories.extole.io |
 | share.dutch.com | dutch.extole.io |
+| parrainage.dyson.fr | dyson-fr.extole.io |
 | refer.ea.com | ea.extole.io |
 | share.earlybirdbooks.com | earlybirdbooks.extole.io |
 | friend.ebags.com | ebags.extole.com |
@@ -836,7 +829,6 @@
 | share.ets.org | ets.extole.io |
 | refer.everlywell.com | everlywell.extole.io |
 | share.evine.com | evine.extole.io |
-| refer.evite.com | evite.extole.io |
 | refer1.experian.com | experian.extole.io |
 | earn-and-refer.extoleu.com | extoleu.extole.io |
 | gabbie.extoleu.com | extoleu.extole.io |
@@ -867,7 +859,6 @@
 | share.firstleaf.com | firstleaf.extole.io |
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.forddrive.com | forddrive.extole.io |
-| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
@@ -940,7 +931,6 @@
 | share.usatoday.com | gannett.extole.io |
 | share.vcstar.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
-| refer.gardenoflife.com | gardenoflife.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
 | gift.getfreed.ai | getfreed.extole.io |
 | share.getsetup.io | getsetup.extole.io |
@@ -953,7 +943,6 @@
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | loyalty.glowbar.com | glowbar.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -982,7 +971,6 @@
 | refer.hillcity.gap.com | hill-city.extole.io |
 | refer.hollandamerica.com | hollandamerica.extole.io |
 | refer.homedepot.com | homedepot.extole.io |
-| refer.honcker.com | honcker.extole.io |
 | share.honeypacks.com | honeypacks.extole.io |
 | refer.honorcu.com | honorcu.extole.io |
 | refer.horizonfitness.marketing | horizonfitness.extole.io |
@@ -1001,7 +989,6 @@
 | share.inkpixi.com | inkpixi.extole.io |
 | refer.inmotionhosting.com | inmotionhosting.extole.io |
 | share.installamerica.com | installamerica.extole.io |
-| refer.integrativenutrition.com | integrativenutrition-ssl.extole.com |
 | refer.accountants.intuit.com | intuit-accountants.extole.com |
 | refer.payroll.intuit.com | iop.extole.com |
 | share.iqfiber.com | iqfiber.extole.io |
@@ -1031,8 +1018,6 @@
 | friends.keurig.ca | keurigca.extole.com |
 | amis.keurig.ca | keurigfr.extole.com |
 | share.kin.com | kin.extole.io |
-| refer.knixteen.ca | knixteen.extole.io |
-| refer.knixteen.com | knixteen.extole.io |
 | my.kotn.com | kotn.extole.io |
 | share.kumon.com | kumon.extole.io |
 | share.la-mariette.com | la-mariette.extole.io |
@@ -1082,7 +1067,6 @@
 | refer.prettyballerinas.es | mascaro.extole.io |
 | share.medely.com | medely.extole.io |
 | share.meriwest.com | meriwest.extole.io |
-| refer.merrell.com | merrell.extole.io |
 | share.legalplans.com | metlife.extole.io |
 | refer.midlandsb.com | midlandsb.extole.io |
 | share.midlandusa.com | midlandusa.extole.io |
@@ -1094,12 +1078,12 @@
 | refer.styleitforwardreward.com | mondetta.extole.io |
 | www.styleitforwardreward.com | mondetta.extole.io |
 | stgreferral.moneybase.com | moneybase-sandbox.extole.io |
-| referral.moneybase.com | moneybase.extole.io |
 | refer.montgomeryadvertiser.com | montgomeryadvertiser.extole.com |
 | refer.moo.com | moo.extole.com |
 | refer.msgcu.org | msgcu.extole.io |
 | share.mtntough.com | mtntough.extole.io |
 | share.mycarpe.com | mycarpe.extole.io |
+| share.adelfibanking.com | mycccu.extole.io |
 | share.mycccu.com | mycccu.extole.io |
 | share.mycomputercareer.edu | mycomputercareer.extole.io |
 | refer.myheritagedna.com | myheritage.extole.io |
@@ -1114,7 +1098,6 @@
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | share.ngfcu.us | ngfcu.extole.io |
-| em8642.notifications.acorns.com | notifications.acorns.em.extole.io |
 | share.nutribullet.com | nutribullet.extole.io |
 | share.nuts.com | nuts.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
@@ -1229,8 +1212,6 @@
 | refer.saatvamattress.com | saatvamattress.extole.io |
 | refer.zenhaven.com | saatvamattress.extole.io |
 | share.safecu.org | safecu.extole.io |
-| refer.sage.com | sage-ssl.extole.com |
-| share.na.sage.com | sageca-ssl.extole.com |
 | share.saintjanebeauty.com | saintjanebeauty.extole.io |
 | share.salalcu.org | salalcu.extole.io |
 | www.referessentials.com | salesforce-essentials.extole.io |
@@ -1270,7 +1251,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.starone.org | starone.extole.io |
@@ -1283,6 +1263,7 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | share.suneast.org | suneast.extole.io |
@@ -1308,8 +1289,10 @@
 | refer.gymboree.com | the-childrens-place.extole.io |
 | refer.theinside.com | the-inside.extole.io |
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
+| refer.thecompanystore.com | thecompanystore.extole.io |
 | share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
+| em2287.theory.com | theory.em.extole.io |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
@@ -1328,6 +1311,7 @@
 | share.travelzoo.com | travelzoo.extole.io |
 | refer.truwest.org | truwest.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
+| em5807.turbotax.refer.intuit.com | turbotax.em.extole.io |
 | refer.intuit.com | turbotax.extole.io |
 | prepod.refer.intuit.com | turbotaxdemo.extole.io |
 | share.beringer.com | tweglobal.extole.io |
@@ -1373,7 +1357,9 @@
 | share.united.net | united.extole.io |
 | refer.urbandaddy.com | urbandaddyperks.extole.com |
 | share.urbanmop.ca | urbanmop.extole.io |
+| share.usalliance.org | usalliance.extole.io |
 | share.useagle.org | useagle.extole.io |
+| refer.ussfcu.org | ussfcu.extole.io |
 | friends.uvacreditunion.org | uvacreditunion.extole.io |
 | refer.vayasleep.com | vayasleep.extole.io |
 | refer.verabradley.com | verabradley.extole.com |
@@ -1387,6 +1373,7 @@
 | refer.volcom.com | volcom.extole.com |
 | refer.vonage.com | vonage.extole.com |
 | share.vonage.com | vonagebusiness.extole.io |
+| em3007.wagwalking.com | wagwalking.em.extole.io |
 | share.wagwalking.com | wagwalking.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
@@ -1401,12 +1388,12 @@
 | share.wimp.no | wimp.extole.com |
 | refer.wine.com | wine.extole.io |
 | share.wisdompanel.com | wisdompanel.extole.io |
-| refer.wolverine.com | wolverine.extole.io |
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
 | share.wsecu.org | wsecu.extole.io |
 | em4504.mail.raf.xfinity.com | xfinity.em.extole.io |
+| em5231.mail.propertyperks.xfinity.com | xfinity.em.extole.io |
 | propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |

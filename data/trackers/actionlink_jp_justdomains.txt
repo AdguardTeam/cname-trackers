@@ -50,6 +50,7 @@ al.hamari-health.jp
 al.happysun-hinode.com
 al.ibizabeauty.net
 al.ichikawa-sk.shop
+al.ishida-watch.com
 al.japan-ballpark.com
 al.jtb-gift.com
 al.junior-onlineshop.jp
@@ -69,6 +70,7 @@ al.mitsubachi-note.com
 al.mizunoes.com
 al.morigaku.jp
 al.nademachi.com
+al.nagasawa-shop.jp
 al.nakayamashouten.com
 al.naniwayaseika.co.jp
 al.nawa-store.jp
@@ -85,6 +87,7 @@ al.peak-blue.com
 al.pierrotshop.jp
 al.pripstokyo.com
 al.pro-p1.jp
+al.queenclassico.com
 al.rayell.jp
 al.rinenna.jp
 al.route-2.net
@@ -98,6 +101,7 @@ al.selif.jp
 al.shiffon-online.jp
 al.shinfulife.com
 al.shop-hotelgrandphenix.com
+al.softbankselection.jp
 al.sotouba.net
 al.sourcenext.com
 al.stamps-co.com
@@ -107,6 +111,7 @@ al.tanabesports.com
 al.tenhoru.jp
 al.titivate.jp
 al.tokimeku-otoriyose.jp
+al.tsukurucover.jp
 al.tsukurupajama.jp
 al.ttandco.com
 al.ur-s.me
@@ -120,6 +125,7 @@ al.www.kijoan.com
 al.yamachu.net
 al.yamashiro.biz
 al.yobomedical.clinic
+al.yokumoku.co.jp
 al.yokumoku.jp
 al.yslabo.net
 al.zenjirou.jp

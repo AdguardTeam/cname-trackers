@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,38 +15,14 @@ a.callawaygolf.com CNAME .
 a.callawaygolfpreowned.com CNAME .
 a.ogio.com CNAME .
 accounts-meta-events.outsideonline.com CNAME .
-aiq-in.autoweek.com CNAME .
-aiq-in.bestproducts.com CNAME .
-aiq-in.bicycling.com CNAME .
-aiq-in.caranddriver.com CNAME .
-aiq-in.cosmopolitan.com CNAME .
-aiq-in.countryliving.com CNAME .
 aiq-in.delish.com CNAME .
-aiq-in.elle.com CNAME .
-aiq-in.elledecor.com CNAME .
-aiq-in.esquire.com CNAME .
-aiq-in.goodhousekeeping.com CNAME .
 aiq-in.harborfreight.com CNAME .
-aiq-in.harpersbazaar.com CNAME .
-aiq-in.housebeautiful.com CNAME .
-aiq-in.menshealth.com CNAME .
-aiq-in.oprahdaily.com CNAME .
-aiq-in.popularmechanics.com CNAME .
-aiq-in.prevention.com CNAME .
-aiq-in.redbookmag.com CNAME .
-aiq-in.roadandtrack.com CNAME .
-aiq-in.runnersworld.com CNAME .
-aiq-in.seventeen.com CNAME .
 aiq-in.skechers.ca CNAME .
 aiq-in.skechers.co.uk CNAME .
 aiq-in.skechers.de CNAME .
 aiq-in.skechers.es CNAME .
-aiq-in.thepioneerwoman.com CNAME .
 aiq-in.townandcountrymag.com CNAME .
 aiq-in.vacations.united.com CNAME .
-aiq-in.veranda.com CNAME .
-aiq-in.womansday.com CNAME .
-aiq-in.womenshealthmag.com CNAME .
 aiqx.anyonebutyou.movie CNAME .
 aiqx.ghostbusters.com CNAME .
 aiqx.jeopardy.com CNAME .
@@ -101,9 +77,9 @@ meta-events.vegetariantimes.com CNAME .
 meta-events.velonews.com CNAME .
 meta-events.womensrunning.com CNAME .
 meta-events.yellowstonepark.com CNAME .
+mr-in-staging.beginlearning.com CNAME .
 mr-in.beginlearning.com CNAME .
-mr-in.littlepassports.com CNAME .
 mr.olympics.com CNAME .
 mr.pinkbike.com CNAME .
 anx-new.littlepassports.com CNAME .
-mr-in-staging.beginlearning.com CNAME .
+mr-in.littlepassports.com CNAME .

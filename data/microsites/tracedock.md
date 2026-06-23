@@ -66,7 +66,6 @@
 * snowplow-collector-load-balancer-156346584.us-east-1.elb.amazonaws.com
 * collector-proxy-alb-1167645830.eu-central-1.elb.amazonaws.com
 * mobirix-alb-245345665.us-west-2.elb.amazonaws.com
-* ad-apigateway-ext-1951628128.us-west-2.elb.amazonaws.com
 * nm-mb-collector-lb-2118323421.ap-southeast-2.elb.amazonaws.com
 * ad-manager-apps-alb-1621110004.eu-west-1.elb.amazonaws.com
 * adserver-2084671375.us-east-1.elb.amazonaws.com
@@ -92,7 +91,6 @@
 | ---- | ---- |
 | api.ariadirect.com | ad-al-apilo-160ykgavw0ib-1586165360.us-west-2.elb.amazonaws.com |
 | click.mobi-meta.com | ad-api-1016939889.us-west-2.elb.amazonaws.com |
-| newsan-ads.vidaahub.com | ad-apigateway-ext-1951628128.us-west-2.elb.amazonaws.com |
 | brexc.valuecommerce.com | ad-dal-prd-1056964492.ap-northeast-1.elb.amazonaws.com |
 | bidus.metaxads.com | ad-dsp-1062506415.us-east-1.elb.amazonaws.com |
 | promo.yahoo-mbga.jp | ad-elb-1376322547.ap-northeast-1.elb.amazonaws.com |
@@ -884,15 +882,12 @@
 | 100008009.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008018.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008126.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 100008130.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008223.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008224.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008236.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008271.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 100008390.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008468.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008481.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 100008506.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008651.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008681.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100008801.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -977,7 +972,6 @@
 | 514009702.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514009935.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514021787.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 514023043.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514023214.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514025538.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 514027809.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -989,9 +983,7 @@
 | 515008369.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 515008558.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 515010815.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 515010833.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 515010852.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 515011050.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 518000635.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 518000955.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 518000969.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -1021,7 +1013,6 @@
 | 546002667.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 546002682.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 546003271.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 546004197.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 546008639.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 546011740.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 6165092.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -1070,14 +1061,12 @@
 | 7295188.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7295370.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7295600.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 7295740.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7296028.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7296112.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7296119.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7296650.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7296665.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7296810.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 7297186.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7297790.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7297803.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7298601.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |

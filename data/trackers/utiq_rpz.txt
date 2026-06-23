@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,6 +50,7 @@ utiq.3djuegosguias.com CNAME .
 utiq.3djuegospc.com CNAME .
 utiq.750g.com CNAME .
 utiq.abc.es CNAME .
+utiq.absolutradio.de CNAME .
 utiq.actu.fr CNAME .
 utiq.actu.net CNAME .
 utiq.aisnenouvelle.fr CNAME .
@@ -79,6 +80,7 @@ utiq.brokser-heiratsmarkt.de CNAME .
 utiq.buffed.de CNAME .
 utiq.bunte.de CNAME .
 utiq.burgosconecta.es CNAME .
+utiq.business.it CNAME .
 utiq.buzzfeed.at CNAME .
 utiq.buzzfeed.de CNAME .
 utiq.bw24.de CNAME .
@@ -97,7 +99,6 @@ utiq.cheriefm.fr CNAME .
 utiq.chip.de CNAME .
 utiq.clara.es CNAME .
 utiq.closermag.fr CNAME .
-utiq.cnetfrance.fr CNAME .
 utiq.codebuild.ovh CNAME .
 utiq.come-on.de CNAME .
 utiq.commentcamarche.com CNAME .
@@ -154,6 +155,7 @@ utiq.eldiario.es CNAME .
 utiq.eldiariomontanes.es CNAME .
 utiq.eleconomista.es CNAME .
 utiq.elespanol.com CNAME .
+utiq.elle.de CNAME .
 utiq.elmueble.com CNAME .
 utiq.elmundo.es CNAME .
 utiq.elnacional.cat CNAME .
@@ -167,6 +169,7 @@ utiq.emporda.info CNAME .
 utiq.entrenous.fr CNAME .
 utiq.epe.es CNAME .
 utiq.espinof.com CNAME .
+utiq.esquire.de CNAME .
 utiq.europapress.es CNAME .
 utiq.europapress.tv CNAME .
 utiq.eventfinder.at CNAME .
@@ -191,6 +194,7 @@ utiq.france.tv CNAME .
 utiq.francetv-preprod.fr CNAME .
 utiq.francetv.fr CNAME .
 utiq.frandroid.com CNAME .
+utiq.freundin.de CNAME .
 utiq.fuehrerscheintest-online.de CNAME .
 utiq.funandnews.de CNAME .
 utiq.funradio.fr CNAME .
@@ -215,6 +219,7 @@ utiq.hallo-eltern.de CNAME .
 utiq.hallo-muenchen.de CNAME .
 utiq.hanauer.de CNAME .
 utiq.handelsblatt.com CNAME .
+utiq.harpersbazaar.de CNAME .
 utiq.harpersbazaar.fr CNAME .
 utiq.haz.de CNAME .
 utiq.hbrfrance.fr CNAME .
@@ -237,6 +242,7 @@ utiq.ingame.de CNAME .
 utiq.ingolstadt-today.de CNAME .
 utiq.insideevs.de CNAME .
 utiq.inspirational.es CNAME .
+utiq.instyle.de CNAME .
 utiq.instyle.es CNAME .
 utiq.ippen.media CNAME .
 utiq.jakala.es CNAME .
@@ -284,12 +290,12 @@ utiq.le-pays.fr.cdn.cloudflare.net CNAME .
 utiq.le10sport.com CNAME .
 utiq.lebenindeutschland.eu CNAME .
 utiq.leberry.fr CNAME .
+utiq.leboncoin.fr CNAME .
 utiq.lechorepublicain.fr CNAME .
 utiq.lechorepublicain.fr.cdn.cloudflare.net CNAME .
 utiq.leckerschmecker.me CNAME .
 utiq.lecturas.com CNAME .
 utiq.lefigaro.fr CNAME .
-utiq.leganerd.com CNAME .
 utiq.lejdc.fr CNAME .
 utiq.lejdc.fr.cdn.cloudflare.net CNAME .
 utiq.lejournaldelamaison.fr CNAME .
@@ -415,6 +421,16 @@ utiq.publisher-demo.media CNAME .
 utiq.purebreak.com CNAME .
 utiq.purepeople.com CNAME .
 utiq.rac1.cat CNAME .
+utiq.radio.at CNAME .
+utiq.radio.de CNAME .
+utiq.radio.dk CNAME .
+utiq.radio.es CNAME .
+utiq.radio.fr CNAME .
+utiq.radio.it CNAME .
+utiq.radio.net CNAME .
+utiq.radio.pl CNAME .
+utiq.radio.pt CNAME .
+utiq.radio.se CNAME .
 utiq.regio7.cat CNAME .
 utiq.reisefrage.net CNAME .
 utiq.reisereporter.de CNAME .
@@ -493,6 +509,7 @@ utiq.travelbook.de CNAME .
 utiq.trendencias.com CNAME .
 utiq.tuobenessere.it CNAME .
 utiq.tvspielfilm.de CNAME .
+utiq.tvtoday.de CNAME .
 utiq.tz.de CNAME .
 utiq.usinger-anzeiger.de CNAME .
 utiq.utest1-prod.work CNAME .

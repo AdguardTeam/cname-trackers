@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * 1p-data.co
+    * amedjvl.customers.1p-data.co
     * amtvgfz.customers.1p-data.co
     * aqmmvgv.customers.1p-data.co
     * bbznqba.customers.1p-data.co
@@ -17,7 +18,6 @@
     * gkgqgih.customers.1p-data.co
     * gofqpma.customers.1p-data.co
     * gslclvw.customers.1p-data.co
-    * hhzsiav.customers.1p-data.co
     * hnvrprl.customers.1p-data.co
     * ijgtudf.customers.1p-data.co
     * kpdignp.customers.1p-data.co
@@ -28,7 +28,6 @@
     * pmpbzjp.customers.1p-data.co
     * qqguqdw.customers.1p-data.co
     * qroyrbh.customers.1p-data.co
-    * rmxmtsg.customers.1p-data.co
     * rulrdow.customers.1p-data.co
     * rwlywoe.customers.1p-data.co
     * tbwzcos.customers.1p-data.co
@@ -47,6 +46,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| amedjvl.dpp-shop.com | amedjvl.customers.1p-data.co |
 | amtvgfz.veneera.de | amtvgfz.customers.1p-data.co |
 | aqmmvgv.yellowleafhammocks.com | aqmmvgv.customers.1p-data.co |
 | bbznqba.boxgenie.com | bbznqba.customers.1p-data.co |
@@ -61,7 +61,6 @@
 | gkgqgih.plantsinabox.com.au | gkgqgih.customers.1p-data.co |
 | gofqpma.kimkimblehair.com | gofqpma.customers.1p-data.co |
 | gslclvw.lackorecouture.com | gslclvw.customers.1p-data.co |
-| hhzsiav.earthhero.com | hhzsiav.customers.1p-data.co |
 | hnvrprl.getmainelobster.com | hnvrprl.customers.1p-data.co |
 | ijgtudf.kozii.com | ijgtudf.customers.1p-data.co |
 | kpdignp.trumerholz.com | kpdignp.customers.1p-data.co |
@@ -72,7 +71,6 @@
 | pmpbzjp.everydaydose.com | pmpbzjp.customers.1p-data.co |
 | qqguqdw.veneera.nl | qqguqdw.customers.1p-data.co |
 | qroyrbh.veneera.fr | qroyrbh.customers.1p-data.co |
-| rmxmtsg.wowe.me | rmxmtsg.customers.1p-data.co |
 | rulrdow.solawave.co | rulrdow.customers.1p-data.co |
 | rwlywoe.keepnaturewild.com | rwlywoe.customers.1p-data.co |
 | tbwzcos.retreatmentbotanics.com | tbwzcos.customers.1p-data.co |

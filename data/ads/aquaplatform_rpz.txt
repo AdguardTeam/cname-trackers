@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 adamsads-static.midtc.com CNAME .
 adamsads.midtc.com CNAME .
 adconsole.bidspotter.co.uk CNAME .
-adconsole.eva.live CNAME .
 adconsole.i-bidder.com CNAME .
 adconsole.kozoom.com CNAME .
 adconsole.lot-tissimo.com CNAME .
@@ -23,7 +22,6 @@ adconsole.sniffies.com CNAME .
 adconsole.the-saleroom.com CNAME .
 addurance-delivery.reviveservers.com CNAME .
 adimages.associationheadquarters.com CNAME .
-adimages.eva.live CNAME .
 adimages.infotorg.se CNAME .
 adimages.rtvdrenthe.nl CNAME .
 adimages.sniffies.com CNAME .
@@ -44,7 +42,6 @@ ads.worldofshowjumping.com CNAME .
 ads.xtra.ca CNAME .
 adserv1.mannixmarketing.com CNAME .
 adserver.associationheadquarters.com CNAME .
-adserver.fa-mag.com CNAME .
 adserver.infotorg.se CNAME .
 adserver.kozoom.com CNAME .
 adserver.rtvdrenthe.nl CNAME .
@@ -63,7 +60,6 @@ adztech-images.reviveservers.com CNAME .
 api.ad.logic-prod.viasat.io CNAME .
 api.ad.logic-test.viasat.io CNAME .
 api.ad.logic.viasat.io CNAME .
-api.adbility-media.com CNAME .
 api.aqua-adserver.com CNAME .
 api.metrike.com CNAME .
 banners.atlantamagazine.com CNAME .
@@ -118,7 +114,6 @@ console.mannixmarketing.com CNAME .
 console.medlabmag.com CNAME .
 console.mequoda.com CNAME .
 console.miningweekly.com CNAME .
-console.myadsmyanmar.com CNAME .
 console.pinktriangle.ca CNAME .
 console.polity.org.za CNAME .
 console.postandparcel.info CNAME .
@@ -159,6 +154,7 @@ media.revive-adserver.net CNAME .
 media360ads.midtc.com CNAME .
 nyfa-images.reviveservers.com CNAME .
 omroepflevoland-static.reviveservers.com CNAME .
+omroepwest-images.reviveservers.com CNAME .
 omropfryslan-delivery.reviveservers.com CNAME .
 openx.mondiale.co.uk CNAME .
 opx.webtool.net CNAME .
@@ -188,8 +184,10 @@ servedby.cricketworld.com CNAME .
 servedby.engineeringnews.co.za CNAME .
 servedby.everythingcolorado.com CNAME .
 servedby.everythingnevada.com CNAME .
+servedby.filmamo.com CNAME .
 servedby.geminipub.com CNAME .
 servedby.greenspring.com CNAME .
+servedby.healthcarescene.com CNAME .
 servedby.hlipublishing.com CNAME .
 servedby.hollandhortimedia.nl CNAME .
 servedby.hour-media.com CNAME .
@@ -275,14 +273,12 @@ www.adconsole.the-saleroom.com CNAME .
 www.adimages.infotorg.se CNAME .
 www.ads.environmentalleader.com CNAME .
 www.ads.proxibid.com CNAME .
-www.adserver.fa-mag.com CNAME .
 www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
 www.adwin.geenstijl.nl CNAME .
 www.api.ad.logic-prod.viasat.io CNAME .
 www.api.ad.logic-test.viasat.io CNAME .
 www.api.ad.logic.viasat.io CNAME .
-www.api.adbility-media.com CNAME .
 www.api.metrike.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
 www.cdn.adspmg.com CNAME .
@@ -298,7 +294,6 @@ www.console.cincinnatimagazine.com CNAME .
 www.console.falconstudios.com CNAME .
 www.console.leightonbroadcasting.com CNAME .
 www.console.livingmagonline.com CNAME .
-www.console.myadsmyanmar.com CNAME .
 www.console.pinktriangle.ca CNAME .
 www.console.schrotundkorn.de CNAME .
 www.coreads-console.cambridge.org CNAME .

@@ -162,7 +162,6 @@
 ||ot.obi.sk^
 ||pix.airbusgroup.com^
 ||pix.telekom.com^
-||proditor.sparda.de^
 ||prophet.heise-academy.de^
 ||scout.alpinetrek.co.uk^
 ||scout.alpiniste.fr^
@@ -237,7 +236,6 @@
 ||web.campaign.v73.it^
 ||web.capriceshoes.com^
 ||web.collisionservices.com^
-||web.communications.amouage.com^
 ||web.comunicaciones.toysrus.pt^
 ||web.comunicazioni.iol.it^
 ||web.diebayerische.de^
@@ -249,6 +247,7 @@
 ||web.email.bricocenter.it^
 ||web.email.espares.co.uk^
 ||web.email.farrow-ball.com^
+||web.email.lafarmacia.it^
 ||web.email.mishimoto.co.uk^
 ||web.email.mishimoto.eu^
 ||web.email.parkcameras.com^
@@ -269,7 +268,6 @@
 ||web.info.bonprix.es^
 ||web.info.bonprix.fi^
 ||web.info.paginegialle.it^
-||web.info.teamwarrior.com^
 ||web.info.varelotteriet.dk^
 ||web.info.xerjoff.com^
 ||web.info.yeppon.it^
@@ -337,7 +335,6 @@
 ||web.sensilab.si^
 ||web.sensilab.sk^
 ||web.sidsavage.com^
-||web.slimjoy.es^
 ||web.solesource.com^
 ||web.tummy-tox.com^
 ||web.tummytox.at^
@@ -364,7 +361,6 @@
 ||webt.eu.teac-audio.com^
 ||webt.pure-audio.com^
 ||webt.store.okmilo.com^
-||wt.ara.ad^
 ||wt.ara.cat^
 ||wt.arabalears.cat^
 ||wt.dialog-leben.at^

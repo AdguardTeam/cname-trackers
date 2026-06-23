@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+amedjvl.dpp-shop.com CNAME .
 amtvgfz.veneera.de CNAME .
 aqmmvgv.yellowleafhammocks.com CNAME .
 bbznqba.boxgenie.com CNAME .
@@ -25,7 +26,6 @@ edczrfj.veneera.com CNAME .
 gkgqgih.plantsinabox.com.au CNAME .
 gofqpma.kimkimblehair.com CNAME .
 gslclvw.lackorecouture.com CNAME .
-hhzsiav.earthhero.com CNAME .
 hnvrprl.getmainelobster.com CNAME .
 ijgtudf.kozii.com CNAME .
 kpdignp.trumerholz.com CNAME .
@@ -36,7 +36,6 @@ otbybdd.petitplaya.com CNAME .
 pmpbzjp.everydaydose.com CNAME .
 qqguqdw.veneera.nl CNAME .
 qroyrbh.veneera.fr CNAME .
-rmxmtsg.wowe.me CNAME .
 rulrdow.solawave.co CNAME .
 rwlywoe.keepnaturewild.com CNAME .
 tbwzcos.retreatmentbotanics.com CNAME .

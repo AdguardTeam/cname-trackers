@@ -1,7 +1,5 @@
 !
 ! Company name: Wizaly
-||t-test.esvdigital.com^
-||t.wiz.meilleurtaux.com^
 ||tk.abt.com^
 ||tk.agrizone.net^
 ||tk.aircaraibes.com^
@@ -120,7 +118,6 @@
 ||tk.illicado.com^
 ||tk.interflora.dk^
 ||tk.interflora.es^
-||tk.interflora.fr^
 ||tk.interflora.it^
 ||tk.jim-joe.fr^
 ||tk.kidsaround.com^
@@ -173,9 +170,6 @@
 ||tk.undiz.com^
 ||tk.verisure.fr^
 ||tk.viapresse.com^
-||tracking-test.esearchvision.com^
-||trackv-test.esearchvision.com^
-||tv-test.esvdigital.com^
 ||twiz.wizaly.fr^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,9 +32,11 @@ ad-ebis.bookpass.auone.jp CNAME .
 ad-ebis.mynavi-job20s.jp CNAME .
 ad-ebis.toysub.jp CNAME .
 ad.320320.net CNAME .
+ad.aim-universe.co.jp CNAME .
 ad.aucfan.com CNAME .
 ad.aucview.com CNAME .
 ad.autorace.jp CNAME .
+ad.cene.tokyo CNAME .
 ad.hoikushibank.com CNAME .
 ad.kddi-fs.com CNAME .
 ad.omotenashi.work CNAME .
@@ -68,7 +70,6 @@ adebis.angfa-store.jp CNAME .
 adebis.bathclin.jp CNAME .
 adebis.bbb-life.jp CNAME .
 adebis.beautiful-voyager.com CNAME .
-adebis.blackboard60s.com CNAME .
 adebis.chojyu.com CNAME .
 adebis.curilla.jp CNAME .
 adebis.daiwahouse.co.jp CNAME .
@@ -253,6 +254,7 @@ ebis.ce-parfait.com CNAME .
 ebis.coyori.com CNAME .
 ebis.cp.claudia.co.jp CNAME .
 ebis.delis.co.jp CNAME .
+ebis.eiyoushi-tensyoku.com CNAME .
 ebis.forcas.com CNAME .
 ebis.funai-finance.com CNAME .
 ebis.funaisoken.co.jp CNAME .
@@ -356,9 +358,11 @@ sep02.hinagiku-life.jp CNAME .
 sinceregarden.sincere-garden.jp CNAME .
 test-ad.lucia-c.com CNAME .
 test-ad.mens-lucia.com CNAME .
+track.kure-shinkin.jp CNAME .
 tracking.axis-kobetsu.jp CNAME .
 tracking.axis.onl CNAME .
 tracking.mysurance.co.jp CNAME .
+tracking.nokai-pre.jp CNAME .
 tracking.nokai.jp CNAME .
 tracking.stad-gakusyu.jp CNAME .
 tracking.wao-corp.com CNAME .

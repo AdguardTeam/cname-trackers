@@ -17,7 +17,6 @@
 ### Rarely active trackers
 
 * homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com
-* homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com
 * a8a28268bd692db77.awsglobalaccelerator.com
 
 ## Cloaking domains
@@ -26,32 +25,8 @@
 | ---- | ---- |
 | mr.olympics.com | a8a28268bd692db77.awsglobalaccelerator.com |
 | aiq-in.vacations.united.com | alg-prod.actioniq.mr-in.com |
-| aiq-in.autoweek.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.bestproducts.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.bicycling.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.caranddriver.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.cosmopolitan.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.countryliving.com | hearst-prod.actioniq.mr-in.com |
 | aiq-in.delish.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.elle.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.elledecor.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.esquire.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.goodhousekeeping.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.harpersbazaar.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.housebeautiful.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.menshealth.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.oprahdaily.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.popularmechanics.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.prevention.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.redbookmag.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.roadandtrack.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.runnersworld.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.seventeen.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.thepioneerwoman.com | hearst-prod.actioniq.mr-in.com |
 | aiq-in.townandcountrymag.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.veranda.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.womansday.com | hearst-prod.actioniq.mr-in.com |
-| aiq-in.womenshealthmag.com | hearst-prod.actioniq.mr-in.com |
 | aiq-in.harborfreight.com | hft-prod.actioniq.mr-in.com |
 | anx-new.learnwithhomer.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
 | anx-new.littlepassports.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
@@ -61,10 +36,8 @@
 | anx-new.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | mr-in.beginlearning.com | homer-prod1.aws-us-east-1.mr-in.com |
-| mr-in.littlepassports.com | homer-prod1.aws-us-east-1.mr-in.com |
-| anx-staging.learnwithhomer.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
-| mr-in-staging.beginlearning.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
 | anx-staging.learnwithhomer.com | homer-staging1.aws-us-east-1.mr-in.com |
+| mr-in-staging.beginlearning.com | homer-staging1.aws-us-east-1.mr-in.com |
 | mr.olympics.com | ioc-prod1.aws.mr-in.com |
 | accounts-meta-events.outsideonline.com | outside.mr-in.com |
 | events-meta-events.outsideonline.com | outside.mr-in.com |

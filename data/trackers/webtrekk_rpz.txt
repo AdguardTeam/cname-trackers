@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -173,7 +173,6 @@ ot.obi.si CNAME .
 ot.obi.sk CNAME .
 pix.airbusgroup.com CNAME .
 pix.telekom.com CNAME .
-proditor.sparda.de CNAME .
 prophet.heise-academy.de CNAME .
 scout.alpinetrek.co.uk CNAME .
 scout.alpiniste.fr CNAME .
@@ -248,7 +247,6 @@ web.campaign.miriade.com CNAME .
 web.campaign.v73.it CNAME .
 web.capriceshoes.com CNAME .
 web.collisionservices.com CNAME .
-web.communications.amouage.com CNAME .
 web.comunicaciones.toysrus.pt CNAME .
 web.comunicazioni.iol.it CNAME .
 web.diebayerische.de CNAME .
@@ -260,6 +258,7 @@ web.email.amplifiedclothing.com CNAME .
 web.email.bricocenter.it CNAME .
 web.email.espares.co.uk CNAME .
 web.email.farrow-ball.com CNAME .
+web.email.lafarmacia.it CNAME .
 web.email.mishimoto.co.uk CNAME .
 web.email.mishimoto.eu CNAME .
 web.email.parkcameras.com CNAME .
@@ -280,7 +279,6 @@ web.info.bodybuildingwarehouse.com CNAME .
 web.info.bonprix.es CNAME .
 web.info.bonprix.fi CNAME .
 web.info.paginegialle.it CNAME .
-web.info.teamwarrior.com CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.xerjoff.com CNAME .
 web.info.yeppon.it CNAME .
@@ -348,7 +346,6 @@ web.sensilab.se CNAME .
 web.sensilab.si CNAME .
 web.sensilab.sk CNAME .
 web.sidsavage.com CNAME .
-web.slimjoy.es CNAME .
 web.solesource.com CNAME .
 web.tummy-tox.com CNAME .
 web.tummytox.at CNAME .
@@ -375,7 +372,6 @@ webt.eleonto.com CNAME .
 webt.eu.teac-audio.com CNAME .
 webt.pure-audio.com CNAME .
 webt.store.okmilo.com CNAME .
-wt.ara.ad CNAME .
 wt.ara.cat CNAME .
 wt.arabalears.cat CNAME .
 wt.dialog-leben.at CNAME .

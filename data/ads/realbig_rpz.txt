@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1776067234442        ; Serial
+           1782212720795        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,62 +17,49 @@ a.ridd.ru CNAME .
 a.yandd.site CNAME .
 ad.choicy.org CNAME .
 any.realbig.media CNAME .
-bo.zymorico.store CNAME .
 cdn.zamunda.ru CNAME .
-da.zilovaro.ru CNAME .
 dlyarecnew.me CNAME .
 downnora.me CNAME .
 elpushnot.com CNAME .
 fft.delovoemesto.ru CNAME .
-he.zymorico.ru CNAME .
 m3.repka.online CNAME .
 media.olmiweb.com CNAME .
 media.rabbit.click CNAME .
-mu.zilovaro.store CNAME .
 my.rb2psh.ru CNAME .
 newrotatormarch23.bid CNAME .
 news.unsere-news.ru CNAME .
 nservw.net CNAME .
 owmedia.rabbit.click CNAME .
+owpush.rabbit.click CNAME .
 p.netork.ru CNAME .
 par.moyslovar.ru CNAME .
 park.realbig.media CNAME .
 park.wpcodes.org CNAME .
-po.zolivexo.ru CNAME .
 push.rabbit.click CNAME .
 pushche.rabbit.click CNAME .
-rb.slova-accordy.ru CNAME .
 rb.umspecrek.ru CNAME .
 rbfour.bid CNAME .
 rbig.pcyk.ru CNAME .
 rbm.tbmods.ru CNAME .
-rbone.link CNAME .
-rbparks.sskarta.ru CNAME .
 rbthre.work CNAME .
 rdv.naruto-base.tv CNAME .
 real.delovoemesto.ru CNAME .
 rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .
 spush.olmiweb.com CNAME .
-tuesdaysale.bid CNAME .
-vi.zolivexo.store CNAME .
 workerhome.click CNAME .
 www.5738.ru CNAME .
 www.allworldinfo5.ru CNAME .
-www.androidstores.ru CNAME .
 www.fasder12.ru CNAME .
 www.iskustvenny-intellekt.ru CNAME .
 www.procarsharing.store CNAME .
-www.pushrb.pro CNAME .
 www.rbdomain.ru CNAME .
-www.rbmcnf.pro CNAME .
 www.rbp-gen1.site CNAME .
 www.rbp1.ru CNAME .
 www.rbp2.ru CNAME .
 www.rbp2.site CNAME .
 www.rbp3.ru CNAME .
 www.rbp63841.ru CNAME .
-www.rbpark1.site CNAME .
 www.rbpark2.ru CNAME .
 www.rbpark3.ru CNAME .
 www.rbprk91645.ru CNAME .
