@@ -8,6 +8,7 @@ const {
     formatFilename,
     sortMergedInfo,
     stashInfoPairs,
+    mapWithConcurrency,
 } = require('./src/helpers');
 
 const {
@@ -21,6 +22,7 @@ const {
     DATA_DIR,
     BACKUP_DATA_DIR,
     CLOAKED_TRACKERS_FILE,
+    FETCH_CONCURRENCY,
 } = require('./config');
 
 const { buildDesc } = require('./src/build-desc');
@@ -29,6 +31,11 @@ const { updateCombined } = require('./src/update-combined');
 const { mergeDomainsInfo } = require('./src/merge-info');
 const { fetchTrackers } = require('./src/fetch-trackers');
 const { getOldData } = require('./src/get-old-data');
+const {
+    reset: resetDnsStats,
+    summarize: summarizeDnsStats,
+    grandTotal: dnsGrandTotal,
+} = require('./src/dns-stats');
 
 const dataDir = path.resolve(__dirname, DATA_DIR);
 const backupDir = path.resolve(__dirname, BACKUP_DATA_DIR);
@@ -80,21 +87,28 @@ const main = async () => {
 
         logger.info(`Fetching for tracker: ${companyName}`);
 
-        // a variable to record fetched trackers
-        const domainsInfo = [];
+        // fetching tracker domains in parallel (concurrency-limited); order
+        // preserved, failed fetches become null and are dropped. Plain log
+        // lines instead of ora spinners — they don't render in CI and would
+        // garble across parallel fetches.
+        const fetchedResults = await mapWithConcurrency(
+            domains,
+            FETCH_CONCURRENCY,
+            async (domain) => {
+                logger.info(`  - Fetching trackers for domain: ${domain}`);
+                try {
+                    const domainInfo = await fetchTrackers(domain);
+                    logger.success(`  - Successfully fetched trackers for domain: ${domain}`);
+                    return domainInfo;
+                } catch (e) {
+                    logger.error(`  - Failed to fetch trackers for domain: ${domain}`, e?.message);
+                    return null;
+                }
+            },
+        );
 
-        // fetching tracker domains and record in domainsInfo array
-        for (let j = 0; j < domains.length; j += 1) {
-            const domain = domains[j];
-            const spinner = ora({ indent: 2 }).start(`Fetching trackers for domain: ${domain}`);
-            try {
-                const domainInfo = await fetchTrackers(domain);
-                spinner.succeed(`Successfully fetched trackers for domain: ${domain}`);
-                domainsInfo.push(domainInfo);
-            } catch (e) {
-                spinner.fail(`Failed to fetch trackers for domain: ${domain}`);
-            }
-        }
+        // keep only successful fetches, drop failed ones
+        const domainsInfo = fetchedResults.filter((d) => d);
 
         try {
             // formats the company name
@@ -111,10 +125,17 @@ const main = async () => {
 
             try {
                 // merge and stash old domains info with fetched domains info
+                resetDnsStats();
                 mergedDomainInfoPairs = await mergeDomainsInfo(oldInfo, domainsInfo);
                 const stashedInfo = await stashInfoPairs(mergedDomainInfoPairs);
 
                 spinner.succeed(`${companyName} data successfully merged and stashed`);
+
+                // DNS timing for this company (tune DNS_CONCURRENCY / DNS_TIMEOUT_MS in CI).
+                // qps = true wall-clock throughput; avg = per-lookup latency (climbs past the knee);
+                // max ≈ DNS_TIMEOUT_MS signals timeouts.
+                const dnsStats = summarizeDnsStats();
+                logger.info(`  DNS: ${dnsStats.count} lookups in ${dnsStats.wallMs}ms wall (~${dnsStats.qps} qps, avg ${dnsStats.avgMs}ms, max ${dnsStats.maxMs}ms, ${dnsStats.timeouts} timeouts)`);
 
                 // create directory
                 await fs.ensureDir(dirPath);
@@ -205,6 +226,9 @@ const main = async () => {
         spinner.fail('Failed to update combined files');
         logger.error(e);
     }
+
+    const dnsGrand = dnsGrandTotal();
+    logger.info(`Total DNS: ${dnsGrand.count} lookups in ${dnsGrand.wallMs}ms wall (~${dnsGrand.qps} qps, ${dnsGrand.timeouts} timeouts)`);
 };
 
 main()

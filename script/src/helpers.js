@@ -2,12 +2,19 @@ const { promises: dns } = require('dns');
 const fs = require('fs-extra');
 const path = require('path');
 const { logger } = require('./logger');
+const { record: recordDnsTiming } = require('./dns-stats');
 
 const {
     FORMATS,
     COMBINED_RULES_FILE_NAME_BASE,
     MAX_RPZ_RULE_LENGTH,
 } = require('./constants');
+
+// DNS knobs live in config.js (env-overridable) so CI can retune them.
+const {
+    DNS_TIMEOUT_MS,
+    DNS_CONCURRENCY,
+} = require('../config');
 
 const DATA_DIR_PATH = './../data';
 
@@ -107,6 +114,29 @@ const writeCombinedFile = async (fileName, fileContent) => fs.writeFile(
  */
 const identity = (el) => el;
 
+/**
+ * Maps over `items` with a limited concurrency, preserving order.
+ * Avoids launching tens of thousands of promises (e.g. DNS lookups) at once.
+ * @param {Array} items
+ * @param {number} concurrency max number of `fn` calls running at once
+ * @param {Function} fn async mapper `(item, index) => result`
+ * @returns {Promise<Array>}
+ */
+const mapWithConcurrency = async (items, concurrency, fn) => {
+    const results = new Array(items.length);
+    let cursor = 0;
+    const worker = async () => {
+        while (cursor < items.length) {
+            const index = cursor;
+            cursor += 1;
+            results[index] = await fn(items[index], index);
+        }
+    };
+    const size = Math.max(1, Math.min(concurrency, items.length));
+    await Promise.all(Array.from({ length: size }, worker));
+    return results;
+};
+
 const replace = (str, replaceable, replacement) => str
     .split(replaceable)
     .map((word) => word.trim())
@@ -194,38 +224,69 @@ const getRemoved = (oldInfo, newInfo) => {
 };
 
 /**
- * Resolve closest canonical name for given disguise
+ * Resolve closest canonical name for given disguise.
+ * Hard DNS_TIMEOUT_MS via Promise.race so an unresponsive resolver can't hang
+ * the build; null on timeout/error.
+ *
+ * Notes:
+ *   - Records timing into the dns-stats singleton (couples resolver to
+ *     instrumentation, but counts every lookup incl. retries/chain hops).
+ *   - The dns.resolveCname promise is NOT cancelled on timeout (no c-ares
+ *     API); it lingers and is swallowed by .catch. If timeouts climb, lower
+ *     DNS_CONCURRENCY.
+ *
  * @param {string} disguise
- * @returns {string[]|null}
+ * @returns {Promise<string[]|null>}
  */
 const resolveCname = async (disguise) => {
-    let res;
+    const start = Date.now();
+    let timedOut = false;
+    let timer;
+    const timeout = new Promise((resolve) => {
+        timer = setTimeout(() => {
+            timedOut = true;
+            resolve(null);
+        }, DNS_TIMEOUT_MS);
+    });
     try {
-        res = await dns.resolveCname(disguise);
-    } catch (e) {
-        res = null;
+        // dns.resolveCname rejects on error (e.g. ENOTFOUND); treat both
+        // rejection and timeout as "no cname".
+        return await Promise.race([
+            dns.resolveCname(disguise).catch(() => null),
+            timeout,
+        ]);
+    } finally {
+        clearTimeout(timer);
+        recordDnsTiming(Date.now() - start, timedOut);
     }
-    return res;
 };
 
+// Retry delay (distinct from config's fetch RETRY_TIMOUT_MS). resolveCname
+// returns null on error OR timeout, so this retries timeouts too — worst case
+// per unresponsive path: 2*DNS_TIMEOUT_MS + DNS_RETRY_DELAY_MS.
+const DNS_RETRY_DELAY_MS = 3 * 1000;
+
 /**
- * Resolves cname with one retry if something went wrong at first time
+ * Resolves cname with one retry if something went wrong at first time.
  * @param {string} disguise
- * @returns {string[]|null}
+ * @returns {Promise<string[]|null>}
  */
 const resolveCnameWithRetry = async (disguise) => {
-    const RETRY_TIMOUT_MS = 3 * 1000;
     let res = await resolveCname(disguise);
-    // if cname resolving failed, check it one more time
+    // if cname resolving failed (or timed out), check it one more time
     if (res === null) {
-        await sleep(RETRY_TIMOUT_MS);
+        await sleep(DNS_RETRY_DELAY_MS);
         res = await resolveCname(disguise);
     }
     return res;
 };
 
 /**
- * Recursively gets the chain of cnames for given disguise
+ * Recursively gets the chain of cnames for given disguise.
+ * No cycle/depth guard (pre-existing): a CNAME cycle (A->B->A) would recurse
+ * unbounded, and the per-lookup timeout doesn't stop a fast-cycling chain.
+ * Add a visited-set if resolvers ever return cycles.
+ *
  * @param {string} disguise
  * @param {Array} [acc=[]]
  * @returns {string[]} cname chain
@@ -261,11 +322,14 @@ const validateCname = async (disguise, tracker) => {
  * @returns {Pair[]} valid pairs
  */
 const getValidPairsFromRemoved = async (removedInfo) => {
-    const validInfo = await Promise.all(Object.entries(removedInfo)
-        .map(async ([disguise, tracker]) => {
+    const validInfo = await mapWithConcurrency(
+        Object.entries(removedInfo),
+        DNS_CONCURRENCY,
+        async ([disguise, tracker]) => {
             const isValid = await validateCname(disguise, tracker);
             return isValid ? { disguise, tracker } : null;
-        }));
+        },
+    );
     // filter nulls after cname validation
     return validInfo.filter(identity);
 };
@@ -335,15 +399,18 @@ const replaceFinalCname = async (entries) => {
     // needed for recovering trackers for failed final cname checking
     const reservedData = Object.fromEntries(entries);
     const uniqDisguises = Object.keys(reservedData);
-    const finalEntries = await Promise.all(uniqDisguises
-        .map(async (disguise) => {
+    const finalEntries = await mapWithConcurrency(
+        uniqDisguises,
+        DNS_CONCURRENCY,
+        async (disguise) => {
             const cnameChain = await getCnamesChain(disguise);
             let finalCname = cnameChain[cnameChain.length - 1];
             if (!finalCname) {
                 finalCname = reservedData[disguise];
             }
             return [disguise, finalCname];
-        }));
+        },
+    );
     return finalEntries;
 };
 
@@ -362,6 +429,7 @@ module.exports = {
     createCombinedFileName,
     writeCombinedFile,
     identity,
+    mapWithConcurrency,
     formatFilename,
     sleep,
     sortAscending,
