@@ -68,8 +68,10 @@ const main = async () => {
     // length of an object with trackers
     const trackersLength = cloakingTrackers.length;
 
-    // variable for store combined data objects
-    const rawCombinedData = {};
+    // Processed company types (plural). Combined files are rebuilt from the
+    // per-company JSON files on disk later — nothing is kept in memory across the
+    // fetch loop. AG-54208.
+    const companyTypes = new Set();
 
     // recording of combined tracker data in directories according to the relevant type
     for (let i = 0; i < trackersLength; i += 1) {
@@ -146,12 +148,9 @@ const main = async () => {
                     JSON.stringify(stashedInfo, null, 2),
                 );
 
-                // save stashed data to combined data object to save it later.
-                // note: `companyType` here is an actual type from the config
-                rawCombinedData[companyTypePlural] = {
-                    ...rawCombinedData[companyTypePlural],
-                    ...stashedInfo,
-                };
+                // Remember this type so combined files are rebuilt from the
+                // per-company JSON files on disk (no in-memory accumulation).
+                companyTypes.add(companyTypePlural);
             } catch (e) {
                 spinner.fail(`Failed to merge and stash data for ${companyName}`);
             }
@@ -220,7 +219,7 @@ const main = async () => {
 
     const spinner = ora({ indent: 2 }).start('Updating combined files');
     try {
-        await updateCombined(rawCombinedData);
+        await updateCombined([...companyTypes]);
         spinner.succeed('Successfully updated combined files');
     } catch (e) {
         spinner.fail('Failed to update combined files');

@@ -27,6 +27,11 @@ COPY data/ ./data/
 # Copy script source files
 COPY script/ ./script/
 
+# Safety net: the combined-file build now streams per-company JSON from disk
+# instead of accumulating everything in memory, but keep a generous
+# heap ceiling against future data growth. AG-54208.
+ENV NODE_OPTIONS=--max-old-space-size=4096
+
 RUN cd script && yarn start
 
 # ============================================================================

@@ -16,6 +16,14 @@ module.exports = {
         }],
         'no-console': 'off',
         'import/no-extraneous-dependencies': 'off',
+        // Node 22 supports the `node:` protocol for built-in modules
+        // (e.g. `require('node:test')`); eslint-plugin-import 2.x can't resolve
+        // them, so ignore the `node:` scheme in resolution checks.
+        'import/no-unresolved': ['error', {
+            commonjs: true,
+            caseSensitive: true,
+            ignore: ['^node:'],
+        }],
         'max-len': ['error', {
             code: 120,
             comments: 120,

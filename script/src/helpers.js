@@ -98,12 +98,15 @@ const composeRuleWithNewline = {
 };
 
 /**
- * Writes `fileContent` to `fileName` in library root directory
+ * Writes `fileContent` to `fileName` in the data directory.
  * @param {string} fileName property of FORMATS object for required file
  * @param {object} fileContent writeable data
+ * @param {string} [dataDirPath=DATA_DIR_PATH] directory to write into
+ *   (defaults to the build data dir; overridable for tests)
+ * @returns {Promise<void>}
  */
-const writeCombinedFile = async (fileName, fileContent) => fs.writeFile(
-    path.resolve(DATA_DIR_PATH, fileName),
+const writeCombinedFile = async (fileName, fileContent, dataDirPath = DATA_DIR_PATH) => fs.writeFile(
+    path.resolve(dataDirPath, fileName),
     fileContent,
 );
 
@@ -427,6 +430,7 @@ const stashInfoPairs = async (pairs) => {
 module.exports = {
     composeRuleWithNewline,
     createCombinedFileName,
+    DATA_DIR_PATH,
     writeCombinedFile,
     identity,
     mapWithConcurrency,
