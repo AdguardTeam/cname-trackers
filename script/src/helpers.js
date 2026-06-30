@@ -132,6 +132,7 @@ const mapWithConcurrency = async (items, concurrency, fn) => {
         while (cursor < items.length) {
             const index = cursor;
             cursor += 1;
+            // eslint-disable-next-line no-await-in-loop
             results[index] = await fn(items[index], index);
         }
     };

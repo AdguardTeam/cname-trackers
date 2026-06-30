@@ -137,6 +137,7 @@ const main = async () => {
                 // qps = true wall-clock throughput; avg = per-lookup latency (climbs past the knee);
                 // max ≈ DNS_TIMEOUT_MS signals timeouts.
                 const dnsStats = summarizeDnsStats();
+                // eslint-disable-next-line max-len
                 logger.info(`  DNS: ${dnsStats.count} lookups in ${dnsStats.wallMs}ms wall (~${dnsStats.qps} qps, avg ${dnsStats.avgMs}ms, max ${dnsStats.maxMs}ms, ${dnsStats.timeouts} timeouts)`);
 
                 // create directory
@@ -227,6 +228,7 @@ const main = async () => {
     }
 
     const dnsGrand = dnsGrandTotal();
+    // eslint-disable-next-line max-len
     logger.info(`Total DNS: ${dnsGrand.count} lookups in ${dnsGrand.wallMs}ms wall (~${dnsGrand.qps} qps, ${dnsGrand.timeouts} timeouts)`);
 };
 

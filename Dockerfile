@@ -14,6 +14,19 @@ COPY script/package.json script/yarn.lock ./script/
 RUN cd script && yarn install --frozen-lockfile
 
 # ============================================================================
+# Stage: test-output
+# Lints and tests the script in CI (.github/workflows/ci.yml) via
+# `docker build --target test-output .`. Does not need the data/ directory;
+# node_modules come from the deps stage.
+# ============================================================================
+FROM deps AS test-output
+
+# Copy script source files (node_modules already present from deps)
+COPY script/ ./script/
+
+RUN cd script && yarn lint && yarn test
+
+# ============================================================================
 # Stage: build
 # Copies existing data/ (needed for merge logic) and runs the script.
 # The script reads from ../data (= /cname-trackers/data/) and writes back
