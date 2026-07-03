@@ -28,7 +28,6 @@ jobs:
       - name: Lint and test via Docker
         run: |
           set -e -x
-          exec 2>&1
 
           export DOCKER_BUILDKIT=1
 
