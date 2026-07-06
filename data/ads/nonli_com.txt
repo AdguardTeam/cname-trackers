@@ -72,6 +72,7 @@
 ||l.clubic.com^
 ||l.compradiccion.com^
 ||l.contexte.com^
+||l.coop-medias.org^
 ||l.cosmopolitan.fr^
 ||l.cotemaison.fr^
 ||l.courrier-picard.fr^
@@ -111,6 +112,7 @@
 ||l.foot01.com^
 ||l.football.fr^
 ||l.football365.fr^
+||l.footballgroundguide.com^
 ||l.fourchette-et-bikini.fr^
 ||l.franceantilles.fr^
 ||l.francebleu.fr^
@@ -239,6 +241,7 @@
 ||l.ohmymag.co.uk^
 ||l.ohmymag.com^
 ||l.ohmymag.de^
+||l.on-tenk.com^
 ||l.onzemondial.com^
 ||l.ouest-france.fr^
 ||l.ouifm.fr^
@@ -247,6 +250,7 @@
 ||l.paris-normandie.fr^
 ||l.paris-turf.com^
 ||l.paroledemamans.com^
+||l.passeportsante.net^
 ||l.peaches.fr^
 ||l.peopleauquotidien.com^
 ||l.petitbleu.fr^
@@ -339,6 +343,7 @@
 ||static.nonli.com^
 ||sur.corsematin.com^
 ||sur.laprovence.com^
+||u.ie.h24.news^
 ||uk.h24.news^
 ||www.20min.fr^
 ||www.altereco.media^

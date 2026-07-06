@@ -332,7 +332,6 @@ content.biggerbooks.com
 content.billdomain.com
 content.billsupport.com
 content.bnl.it
-content.bnpparibas.net
 content.byabcd.com
 content.canadiantire.ca
 content.certifid.com
@@ -356,6 +355,7 @@ content.dwd.wisconsin.gov
 content.ebanking-services.com
 content.ecampus.com
 content.egyptair.com
+content.energbank.com
 content.espace-client.hellobank.fr
 content.etransfer.interac.ca
 content.evisa.mofa.go.jp
@@ -1177,7 +1177,6 @@ tags.emirates.com
 tags.eq.iombank.com
 tags.eq.natwestinternational.com
 tags.eq.rbsinternational.com
-tags.greenfeatheronline.com
 tags.ipp-services.eu
 tags.natwest.com
 tags.nwolb.com
@@ -1285,6 +1284,7 @@ tmcdn.betway.ca
 tmcdn.betway.com
 tmcdn.betway.de
 tmcdn.betway.es
+tmcdn.betway.ie
 tmcdn.betway.mx
 tmcdn.betwayarabia.com
 tmcdn.betwayarabia1.com
@@ -1431,7 +1431,6 @@ ww3.marlincapitalsolutions.com
 ww3.peacsolutions.com
 ww9.lloydsbank.com
 www.cdna.cofidis.be
-www.content.bnpparibas.net
 www.content.connexion-mabanque.bnpparibas
 www.content.espace-client.hellobank.fr
 www.content.hellobank.fr

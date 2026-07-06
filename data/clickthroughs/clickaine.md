@@ -30,12 +30,12 @@
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
 | bat36.gimmeporn.xyz | api.clickaine.com |
-| block.18tube.me | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.85xvideo.com | api.clickaine.com |
 | c4n.allporncomics.co | api.clickaine.com |
 | c4n.anonimayzer.site | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
+| c4n.camgirlprivates.net | api.clickaine.com |
 | c4n.javfinder.stream | api.clickaine.com |
 | c4n.javhdpro.stream | api.clickaine.com |
 | c4n.myteentgp.com | api.clickaine.com |
@@ -72,8 +72,10 @@
 | drt.cliomovies.com | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
+| fotos.brandnewapp.pro | api.clickaine.com |
 | get.xclick24.com | api.clickaine.com |
 | go.lize.bid | api.clickaine.com |
+| grow.brandnewapp.pro | api.clickaine.com |
 | hostmaster.brandnewapp.pro | api.clickaine.com |
 | hostmaster.rtnews.pro | api.clickaine.com |
 | hruk.afguk.top | api.clickaine.com |
@@ -101,6 +103,7 @@
 | station54k.brandnewapp.pro | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
 | web5603.brandnewapp.pro | api.clickaine.com |
+| webmail.brandnewapp.pro | api.clickaine.com |
 | wp.brandnewapp.pro | api.clickaine.com |
 | www.brandnewapp.pro | api.clickaine.com |
 | www.daws4-3.brandnewapp.pro | api.clickaine.com |
@@ -111,6 +114,7 @@
 | www.web5603.brandnewapp.pro | api.clickaine.com |
 | www.wp.brandnewapp.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
-| xn--icn-hn0a.brandnewapp.pro | api.clickaine.com |
+| yandex.31vaktiamp.pp.ua | api.clickaine.com |
+| z37.web.core.brandnewapp.pro | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

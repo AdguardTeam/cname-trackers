@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,7 @@ $TTL 300
 16ao.mathon.fr CNAME .
 1bva.sg.fr CNAME .
 3esm.consubebe.es CNAME .
+5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -67,11 +68,13 @@ bdli.jacopomtl.com CNAME .
 bft5.destinia.fr CNAME .
 bja2.destinia.cz CNAME .
 bk.brookeo.fr CNAME .
+bm22.baronmag.com CNAME .
 bn.voyage-prive.com CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c45cc75f.eulerian.io CNAME .
 c4dv.copinesdevoyage.com CNAME .
 c4fyt.tremblant.ca CNAME .
@@ -100,7 +103,6 @@ deut2.fdj.fr CNAME .
 deut3.fdj.fr CNAME .
 dgj2.palladiumhotelgroup.com CNAME .
 dknd.cocottebistro.com CNAME .
-dko.vente-unique.nl CNAME .
 doa3a792.eulerian.io CNAME .
 dp1.duceppe.com CNAME .
 dv59b.montecarlomeeting.com CNAME .
@@ -122,7 +124,6 @@ ea.ciblo.net CNAME .
 ea.coffrefortplus.com CNAME .
 ea.dcshoes-europe.com CNAME .
 ea.devred.com CNAME .
-ea.diamant-unique.com CNAME .
 ea.easyvoyage.com CNAME .
 ea.ecotour.com CNAME .
 ea.elstarprevention.com CNAME .
@@ -142,8 +143,6 @@ ea.histoiredor.com CNAME .
 ea.hofmann.es CNAME .
 ea.hofmann.pt CNAME .
 ea.igraal.com CNAME .
-ea.kauf-unique.at CNAME .
-ea.kauf-unique.de CNAME .
 ea.kidiliz.com CNAME .
 ea.lafrancedunordausud.fr CNAME .
 ea.laredoute.pt CNAME .
@@ -177,18 +176,14 @@ ea.tool-fitness.com CNAME .
 ea.topsante.com CNAME .
 ea.toscane-boutique.fr CNAME .
 ea.venta-del-diablo.com CNAME .
-ea.venta-unica.com CNAME .
-ea.vente-unique.be CNAME .
-ea.vente-unique.ch CNAME .
-ea.vente-unique.com CNAME .
-ea.vente-unique.lu CNAME .
 ea.vivus.es CNAME .
 ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
 eb.mistermenuiserie.com CNAME .
+ed2.ledq.qc.ca CNAME .
+ed7e8cec.eulerian.io CNAME .
 edfaba3a.eulerian.io CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -271,10 +266,8 @@ gnh2.destinia.lv CNAME .
 grht.perchemtl.com CNAME .
 gsg9.carrefour-banque.fr CNAME .
 gt1.grandtheatre.qc.ca CNAME .
-guq9.vente-unique.it CNAME .
 hby7.destinia.it CNAME .
 hcbh4bah.eulerian.io CNAME .
-hde1.repentignychevrolet.com CNAME .
 hgf4.zanzicar.fr CNAME .
 hsae.beachbound.com CNAME .
 idg1.idgarages.com CNAME .
@@ -292,7 +285,6 @@ jfp6.destinia.de CNAME .
 jj2.festivalquebecjazzenjuin.com CNAME .
 kep6.destinia.ie CNAME .
 kwsjy9.oui.sncf CNAME .
-l2i.qualityinnlevis.com CNAME .
 lbc.lesbonscommerces.fr CNAME .
 lbu3.labibleurbaine.com CNAME .
 lca3.lecanalauditif.ca CNAME .
@@ -333,7 +325,6 @@ ne.futuroscope.com CNAME .
 net1.netski.com CNAME .
 netc.sfr.fr CNAME .
 ni8.lafuma.com CNAME .
-nlf6.vente-unique.pl CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nqsm.medicus.ca CNAME .
@@ -442,13 +433,13 @@ tdf1.easyviaggio.com CNAME .
 tdf1.easyvoyage.co.uk CNAME .
 tdf1.easyvoyage.com CNAME .
 tdf1.easyvoyage.de CNAME .
-tdf1.vente-unique.pt CNAME .
 tdf1.vivabox.fr CNAME .
 tdp1.vivabox.es CNAME .
 tds1.vivabox.be CNAME .
 th4.tohu.ca CNAME .
 tnm9.tnm.qc.ca CNAME .
 tnz3.carrefour-banque.fr CNAME .
+tools.erdev2.eulerian.io CNAME .
 tr.pmu.fr CNAME .
 tuhy.loftsduvieuxport.com CNAME .
 txv0.destinia.hu CNAME .
@@ -472,6 +463,7 @@ vfo4.carrefour-banque.fr CNAME .
 vgo.vegaoo.com CNAME .
 vgo.vegaoopro.com CNAME .
 vnl1.voyage-prive.nl CNAME .
+vp3.concertsvoxpopuli.com CNAME .
 vpl.voyage-prive.pl CNAME .
 wbfb.espacevieuxport.com CNAME .
 whof.spawilliamgray.com CNAME .
@@ -488,11 +480,11 @@ www.eulerian.cloud CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
 www.tag-master.fr CNAME .
+www.tagmaster.fr CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xgtv.atuvu.ca CNAME .
 xifj.applevacations.com CNAME .
 xjq5.belambra.be CNAME .
-xoq.pmubrasil.com.br CNAME .
 xya4.groupefsc.com CNAME .
 yf5.voyage-prive.at CNAME .
 yoc.younited-credit.com CNAME .
@@ -508,11 +500,11 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
-5fm.985fm.ca CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
+eat9.thebeat925.ca CNAME .
 erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
+l2i.qualityinnlevis.com CNAME .
 rwl.tremblant.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,7 +21,6 @@ mat.moneyatlas.com CNAME .
 w.revenuegeeks.com CNAME .
 w.vpnalert.com CNAME .
 wct.compari.se CNAME .
-wct.coolgadgetsinsider.com CNAME .
 wct.filehippo.com CNAME .
 wct.softonic-ar.com CNAME .
 wct.softonic-id.com CNAME .
@@ -36,6 +35,7 @@ wct.softonic.nl CNAME .
 wct.softonic.pl CNAME .
 wct.softonic.ru CNAME .
 wct.softonic.se CNAME .
+wctsub.hostingcheck24.de CNAME .
 wctsub.start24.nl CNAME .
 www.1mreview.com CNAME .
 www.empowermychild.com CNAME .

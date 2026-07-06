@@ -230,6 +230,7 @@ ens.nzzmediasolutions.ch
 ens.obwaldnerzeitung.ch
 ens.tagblatt.ch
 ens.thurgauerzeitung.ch
+ens.toggenburgertagblatt.ch
 ens.urnerzeitung.ch
 ens.wilerzeitung.ch
 ens.zugerzeitung.ch

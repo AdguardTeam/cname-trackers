@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -355,7 +355,6 @@ rank.xn--q9js3lht3ch8cv8a227v79jxl6ewya3lo91swn7c.com CNAME .
 sem.tkc-biyou.jp CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .
-sinceregarden.sincere-garden.jp CNAME .
 test-ad.lucia-c.com CNAME .
 test-ad.mens-lucia.com CNAME .
 track.kure-shinkin.jp CNAME .

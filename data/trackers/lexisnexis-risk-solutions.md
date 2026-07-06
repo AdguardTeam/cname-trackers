@@ -106,6 +106,7 @@
     * h-4iibpm7t-1.online-metrix.net
     * h-4izfn6dr.online-metrix.net
     * h-4kblllmz.online-metrix.net
+    * h-4ltmsi3g.online-metrix.net
     * h-4q0qaaxj.online-metrix.net
     * h-4qqysdfz.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
@@ -253,7 +254,6 @@
     * h-9tnufjvn.online-metrix.net
     * h-9wtp561i.online-metrix.net
     * h-9yw99lm5.online-metrix.net
-    * h-9zzsit89.online-metrix.net
     * h-a4nx1etl.online-metrix.net
     * h-a4s32zk0.online-metrix.net
     * h-a5j4qgb0.online-metrix.net
@@ -1107,6 +1107,7 @@
 | ep-content.viviraty.pl | h-4iibpm7t-1.online-metrix.net |
 | identidaddigital.credicomer.com.sv | h-4izfn6dr.online-metrix.net |
 | ep.heartland.co.nz | h-4kblllmz.online-metrix.net |
+| content.energbank.com | h-4ltmsi3g.online-metrix.net |
 | a574f3c3.raylo.com | h-4q0qaaxj.online-metrix.net |
 | content.heidipay.com | h-4qqysdfz.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
@@ -1217,6 +1218,7 @@
 | tmcdn.betway.com | h-7oasgdq6.online-metrix.net |
 | tmcdn.betway.de | h-7oasgdq6.online-metrix.net |
 | tmcdn.betway.es | h-7oasgdq6.online-metrix.net |
+| tmcdn.betway.ie | h-7oasgdq6.online-metrix.net |
 | tmcdn.betway.mx | h-7oasgdq6.online-metrix.net |
 | tmcdn.betwayarabia.com | h-7oasgdq6.online-metrix.net |
 | tmcdn.betwayarabia1.com | h-7oasgdq6.online-metrix.net |
@@ -1427,7 +1429,6 @@
 | cookiemonster.calcas.com | h-9tnufjvn.online-metrix.net |
 | devices.yondercard.com | h-9wtp561i.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
-| tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
 | content.rias.co.uk | h-a4s32zk0.online-metrix.net |
@@ -1634,7 +1635,6 @@
 | osn-cirrus.cas.org | h-cas.online-metrix.net |
 | content.b-social.io | h-cb9r8vh8.online-metrix.net |
 | tm.cbd.ae | h-cbd.online-metrix.net |
-| content.bnpparibas.net | h-cco37scf.online-metrix.net |
 | content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.hellobank.fr | h-cco37scf.online-metrix.net |
@@ -1643,7 +1643,6 @@
 | content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
-| www.content.bnpparibas.net | h-cco37scf.online-metrix.net |
 | www.content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.hellobank.fr | h-cco37scf.online-metrix.net |

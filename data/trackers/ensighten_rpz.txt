@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -241,6 +241,7 @@ ens.nzzmediasolutions.ch CNAME .
 ens.obwaldnerzeitung.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.thurgauerzeitung.ch CNAME .
+ens.toggenburgertagblatt.ch CNAME .
 ens.urnerzeitung.ch CNAME .
 ens.wilerzeitung.ch CNAME .
 ens.zugerzeitung.ch CNAME .

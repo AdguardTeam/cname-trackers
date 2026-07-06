@@ -98,6 +98,7 @@
 ||stats.cynicalsignals.com^
 ||stats.dalinwilliams.com^
 ||stats.davidjuhasz.dev^
+||stats.degrandi.dev^
 ||stats.docs.semio-tech.com^
 ||stats.eithel.org^
 ||stats.fieald.com^
@@ -109,6 +110,7 @@
 ||stats.haseebmajid.dev^
 ||stats.hdyar.com^
 ||stats.hedy.dev^
+||stats.hinduismdebunked.com^
 ||stats.homecompanion.io^
 ||stats.how.wtf^
 ||stats.ignatuque.xyz^
@@ -138,6 +140,7 @@
 ||stats.matteocroce.it^
 ||stats.mausoleum.me^
 ||stats.merrell.dev^
+||stats.mmn.ca^
 ||stats.msol.io^
 ||stats.ngdangtu.com^
 ||stats.niravraval.com^
@@ -147,6 +150,7 @@
 ||stats.pamcarter.net^
 ||stats.paperarrow.com^
 ||stats.pi4li.net^
+||stats.plugin-docs.mstrhakr.com^
 ||stats.programmershideaway.dev^
 ||stats.pttrn.io^
 ||stats.pvme.omg.lol^
@@ -182,11 +186,13 @@
 ||tik.terokarvinen.com^
 ||trackerstats.davidthe.dev^
 ||tracking.burningbutter.com^
+||tracking.functional-cms.com^
 ||tracking.undercovermunich.de^
 ||usage.ideasnap.co^
 ||vault-stats.sladewatkins.net^
 ||visit.argfuscator.net^
 ||visit.hijacklibs.net^
 ||visits.iloveuobgold.com^
+||website-stats.sladew.org^
 ||webstats.maik.dev^
 ||www.stats.spflow.com^

@@ -84,6 +84,7 @@
 ||tr.asp10ap.espmp-nifr.net^
 ||tr.asp10ar.espmp-cufr.net^
 ||tr.asp10b1.espmp-nifr.net^
+||tr.asp10b2.espmp-nifr.net^
 ||tr.asp10b3.espmp-agfr.net^
 ||tr.asp10bq.espmp-nifr.net^
 ||tr.asp10bs.espmp-aufr.net^
@@ -351,7 +352,6 @@
 ||tr.dossier-assurance.maaf.fr^
 ||tr.drh-holding.lvmh.fr^
 ||tr.e-mail.axa.fr^
-||tr.e-mail.axabanque.fr^
 ||tr.e-travaux.info^
 ||tr.e.entreprise-pm.fr^
 ||tr.e.entreprise-pm.net^
@@ -571,6 +571,7 @@
 ||tr.information.lacollection-airfrance.fr^
 ||tr.information.leclubtravel.fr^
 ||tr.information.perfectstay.com^
+||tr.information.regardbtp-es.com^
 ||tr.information.smartdeals-transavia-fr.com^
 ||tr.information.thelist-emirates.fr^
 ||tr.informations.harmonie-mutuelle.fr^
@@ -888,6 +889,7 @@
 ||tr.news.voyamar.fr^
 ||tr.news.vraaguwofferte.be^
 ||tr.news.vraaguwofferte.com^
+||tr.news.xxl.fr^
 ||tr.news.younited-coach.com^
 ||tr.news.younited-credit.com^
 ||tr.news2pjms.fr^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -271,6 +271,7 @@ ambasador.montessorispolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassadors.childhoodpotential.com CNAME .
 ambassadors.guideandgrow.com CNAME .
+analytics.algomoneo.com CNAME .
 box.kryptotrejder.sk CNAME .
 champions.betubetu.com CNAME .
 collab.zdravetricko.cz CNAME .
@@ -333,6 +334,7 @@ my.top4running.be CNAME .
 my.top4running.bg CNAME .
 my.top4running.ch CNAME .
 my.top4running.com CNAME .
+my.top4running.cy CNAME .
 my.top4running.cz CNAME .
 my.top4running.de CNAME .
 my.top4running.dk CNAME .
@@ -431,6 +433,7 @@ partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
 partner.biomag.cz CNAME .
 partner.birne.com CNAME .
+partner.bitcoinmat.org CNAME .
 partner.bitcoinzmenaren.sk CNAME .
 partner.bloominds.cz CNAME .
 partner.bohempia.com CNAME .
@@ -539,7 +542,6 @@ partner.hegesztok-bolt.hu CNAME .
 partner.hizeromop.com CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
-partner.hubnu.online CNAME .
 partner.hunter.games CNAME .
 partner.hurom.cz CNAME .
 partner.idealninajemce.cz CNAME .
@@ -561,6 +563,7 @@ partner.kafista.cz CNAME .
 partner.kasparci.eu CNAME .
 partner.ketomix.cz CNAME .
 partner.ketomix.sk CNAME .
+partner.khm.cz CNAME .
 partner.kidtown.cz CNAME .
 partner.koffkain-sniff.cz CNAME .
 partner.kokiskashop.cz CNAME .
@@ -597,6 +600,7 @@ partner.majtki.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
 partner.martinafallerova.cz CNAME .
 partner.martinreznicek.cz CNAME .
+partner.massivo.cz CNAME .
 partner.mbytshop.cz CNAME .
 partner.medela.cz CNAME .
 partner.memolingo.cz CNAME .
@@ -674,7 +678,6 @@ partner.pureharmony.cz CNAME .
 partner.resinstudio.cz CNAME .
 partner.rixo.sk CNAME .
 partner.root.cz CNAME .
-partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
 partner.ruzovyslon.cz CNAME .
 partner.salibandy.shop CNAME .
@@ -781,7 +784,6 @@ partneri.easylingo.cz CNAME .
 partneri.ecstatic.cz CNAME .
 partneri.edibles.eu CNAME .
 partneri.eduway.cz CNAME .
-partneri.epiderma.cz CNAME .
 partneri.eshop.freli.cz CNAME .
 partneri.eshop.jarkamatuskova.cz CNAME .
 partneri.espressoenglish.cz CNAME .
@@ -912,6 +914,7 @@ spolu.kuskakaa.cz CNAME .
 spoluhraci.decathlon.cz CNAME .
 spolupraca.aretacia-rozvodov.sk CNAME .
 spolupraca.easylight.sk CNAME .
+spolupraca.vivobarefoot.sk CNAME .
 spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .

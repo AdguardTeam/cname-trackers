@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -39,6 +39,7 @@ $TTL 300
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
 4jaehnfqizyx.controlconceptsusa.com CNAME .
 5mc92su06suu.www.abhijith.page CNAME .
+5oovx2t8rl04.thebarrecollective.co CNAME .
 5zb0xuoeglfx.cit-dev.stylumia.com CNAME .
 6fzt17pkr6a1de5.kvest.ee CNAME .
 6kflczrtc901.app.wefar.dev CNAME .
@@ -121,6 +122,7 @@ wayyaj8t094u.www.kodalia.com CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
+yiy05u9hu5o2.app.tapmyback.com CNAME .
 yrjpgjv35y9x.salud-masculina.info CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .
 z3617cz9ep.fitness.tappbrothers.com CNAME .

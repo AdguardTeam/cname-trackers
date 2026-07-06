@@ -44,6 +44,7 @@
     * dannynullzwo.goatcounter.com
     * datawranglerai.goatcounter.com
     * davidjuhasz.goatcounter.com
+    * degrandi.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
     * digitaleyes.goatcounter.com
@@ -55,6 +56,7 @@
     * fieald.goatcounter.com
     * fiestaplus.goatcounter.com
     * fiquipedia.goatcounter.com
+    * functionalcms.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
     * gcls001239028.goatcounter.com
@@ -68,6 +70,7 @@
     * hadejkde.goatcounter.com
     * haseebmajid.goatcounter.com
     * hijacklibs.goatcounter.com
+    * hinduismdebunked.goatcounter.com
     * homecompanion.goatcounter.com
     * howwtf.goatcounter.com
     * ideasnap.goatcounter.com
@@ -115,6 +118,7 @@
     * mindenugyved.goatcounter.com
     * mine.goatcounter.com
     * mlcet.goatcounter.com
+    * mmn.goatcounter.com
     * msol.goatcounter.com
     * neverhill.goatcounter.com
     * ngdangtu.goatcounter.com
@@ -127,6 +131,7 @@
     * pamcarter.goatcounter.com
     * paperarrow.goatcounter.com
     * pi4li.goatcounter.com
+    * plugin-docs.goatcounter.com
     * programmershideaway.goatcounter.com
     * psiyum.goatcounter.com
     * pttrn.goatcounter.com
@@ -231,6 +236,7 @@
 | stats.nullzwo.dev | dannynullzwo.goatcounter.com |
 | stats.jameswolman.dev | datawranglerai.goatcounter.com |
 | stats.davidjuhasz.dev | davidjuhasz.goatcounter.com |
+| stats.degrandi.dev | degrandi.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
 | analytics.digitaleyes.ai | digitaleyes.goatcounter.com |
@@ -242,6 +248,7 @@
 | stats.fieald.com | fieald.goatcounter.com |
 | goatstats.fiesta.plus | fiestaplus.goatcounter.com |
 | analytics.fiquipedia.es | fiquipedia.goatcounter.com |
+| tracking.functional-cms.com | functionalcms.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
 | analytics.leespace.co | gcls001239028.goatcounter.com |
@@ -258,6 +265,7 @@
 | stats.hadejkde.cz | hadejkde.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
+| stats.hinduismdebunked.com | hinduismdebunked.goatcounter.com |
 | stats.homecompanion.io | homecompanion.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | usage.ideasnap.co | ideasnap.goatcounter.com |
@@ -310,6 +318,7 @@
 | stats.pvme.omg.lol | mine.goatcounter.com |
 | stats.raycordlegends.com | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
+| stats.mmn.ca | mmn.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
 | goat.neverhill.net | neverhill.goatcounter.com |
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
@@ -322,6 +331,7 @@
 | stats.pamcarter.net | pamcarter.goatcounter.com |
 | stats.paperarrow.com | paperarrow.goatcounter.com |
 | stats.pi4li.net | pi4li.goatcounter.com |
+| stats.plugin-docs.mstrhakr.com | plugin-docs.goatcounter.com |
 | stats.programmershideaway.dev | programmershideaway.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | stats.pttrn.io | pttrn.goatcounter.com |
@@ -343,6 +353,7 @@
 | stats.docs.semio-tech.com | semio.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
 | dot-com-stats.sladewatkins.net | slade.goatcounter.com |
+| website-stats.sladew.org | slade.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | stats.studiodeerenberg.nl | studiodeerenberg.goatcounter.com |
 | stats.szorty.space | szorty.goatcounter.com |

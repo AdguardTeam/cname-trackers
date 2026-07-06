@@ -283,6 +283,7 @@
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
 | ambassadors.guideandgrow.com | cz.affilbox.cz |
+| analytics.algomoneo.com | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | champions.betubetu.com | cz.affilbox.cz |
 | collab.zdravetricko.cz | cz.affilbox.cz |
@@ -345,6 +346,7 @@
 | my.top4running.bg | cz.affilbox.cz |
 | my.top4running.ch | cz.affilbox.cz |
 | my.top4running.com | cz.affilbox.cz |
+| my.top4running.cy | cz.affilbox.cz |
 | my.top4running.cz | cz.affilbox.cz |
 | my.top4running.de | cz.affilbox.cz |
 | my.top4running.dk | cz.affilbox.cz |
@@ -443,6 +445,7 @@
 | partner.bio-nehty.cz | cz.affilbox.cz |
 | partner.biomag.cz | cz.affilbox.cz |
 | partner.birne.com | cz.affilbox.cz |
+| partner.bitcoinmat.org | cz.affilbox.cz |
 | partner.bitcoinzmenaren.sk | cz.affilbox.cz |
 | partner.bloominds.cz | cz.affilbox.cz |
 | partner.bohempia.com | cz.affilbox.cz |
@@ -551,7 +554,6 @@
 | partner.hizeromop.com | cz.affilbox.cz |
 | partner.hodinarstvi.cz | cz.affilbox.cz |
 | partner.hoska-tour.cz | cz.affilbox.cz |
-| partner.hubnu.online | cz.affilbox.cz |
 | partner.hunter.games | cz.affilbox.cz |
 | partner.hurom.cz | cz.affilbox.cz |
 | partner.idealninajemce.cz | cz.affilbox.cz |
@@ -573,6 +575,7 @@
 | partner.kasparci.eu | cz.affilbox.cz |
 | partner.ketomix.cz | cz.affilbox.cz |
 | partner.ketomix.sk | cz.affilbox.cz |
+| partner.khm.cz | cz.affilbox.cz |
 | partner.kidtown.cz | cz.affilbox.cz |
 | partner.koffkain-sniff.cz | cz.affilbox.cz |
 | partner.kokiskashop.cz | cz.affilbox.cz |
@@ -609,6 +612,7 @@
 | partner.malujpodlecisel.cz | cz.affilbox.cz |
 | partner.martinafallerova.cz | cz.affilbox.cz |
 | partner.martinreznicek.cz | cz.affilbox.cz |
+| partner.massivo.cz | cz.affilbox.cz |
 | partner.mbytshop.cz | cz.affilbox.cz |
 | partner.medela.cz | cz.affilbox.cz |
 | partner.memolingo.cz | cz.affilbox.cz |
@@ -686,7 +690,6 @@
 | partner.resinstudio.cz | cz.affilbox.cz |
 | partner.rixo.sk | cz.affilbox.cz |
 | partner.root.cz | cz.affilbox.cz |
-| partner.rozhladna.sk | cz.affilbox.cz |
 | partner.roztouzeny.cz | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
 | partner.salibandy.shop | cz.affilbox.cz |
@@ -793,7 +796,6 @@
 | partneri.ecstatic.cz | cz.affilbox.cz |
 | partneri.edibles.eu | cz.affilbox.cz |
 | partneri.eduway.cz | cz.affilbox.cz |
-| partneri.epiderma.cz | cz.affilbox.cz |
 | partneri.eshop.freli.cz | cz.affilbox.cz |
 | partneri.eshop.jarkamatuskova.cz | cz.affilbox.cz |
 | partneri.espressoenglish.cz | cz.affilbox.cz |
@@ -924,6 +926,7 @@
 | spoluhraci.decathlon.cz | cz.affilbox.cz |
 | spolupraca.aretacia-rozvodov.sk | cz.affilbox.cz |
 | spolupraca.easylight.sk | cz.affilbox.cz |
+| spolupraca.vivobarefoot.sk | cz.affilbox.cz |
 | spoluprace.aretacni-pripravky.cz | cz.affilbox.cz |
 | spoluprace.bafoo.cz | cz.affilbox.cz |
 | spoluprace.blackkale.cz | cz.affilbox.cz |

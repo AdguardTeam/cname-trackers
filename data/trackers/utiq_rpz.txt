@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -402,6 +402,7 @@ utiq.ozap.com CNAME .
 utiq.palladiumhotelgroup.com CNAME .
 utiq.paris-normandie.fr CNAME .
 utiq.paroledemamans.com CNAME .
+utiq.paruvendu.fr CNAME .
 utiq.paz-online.de CNAME .
 utiq.pcgames.de CNAME .
 utiq.pcgameshardware.de CNAME .
@@ -519,7 +520,6 @@ utiq.utest3-prod.work CNAME .
 utiq.utest3.work CNAME .
 utiq.utopia.de CNAME .
 utiq.varmatin.com CNAME .
-utiq.verisure.fr CNAME .
 utiq.viaggiamo.it CNAME .
 utiq.viaoccitanie.tv CNAME .
 utiq.vidaextra.com CNAME .
@@ -555,7 +555,6 @@ vfde-fixed6.mno.link CNAME .
 vfdemsp.mno.link CNAME .
 vfes.mno.link CNAME .
 vfesmsp.mno.link CNAME .
-vfit.mno.link CNAME .
 vfuk.mno.link CNAME .
 vmo2uk.mno.link CNAME .
 yesss-a1at.mno.link CNAME .

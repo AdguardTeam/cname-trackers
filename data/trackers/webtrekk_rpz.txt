@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -367,6 +367,7 @@ webmet.creditreform.de CNAME .
 webmet.crefotrust.de CNAME .
 website-usage.b2bendix.com CNAME .
 website-usage.knorr-bremse.com CNAME .
+website-usage.merak-hvac.com CNAME .
 webt.aqipa.com CNAME .
 webt.eleonto.com CNAME .
 webt.eu.teac-audio.com CNAME .

@@ -77,6 +77,9 @@ pa.parcasterix.fr
 pa.serrechevalier-pass.com
 pa.skipass-grand-massif.com
 pa.skipass-laplagne.com
+pa.skipass-lesmenuires.com
+pa.skipass-meribel.com
+pa.skipass-pralognan.com
 pa.walibi.be
 pa.walibi.fr
 pa.walibi.nl

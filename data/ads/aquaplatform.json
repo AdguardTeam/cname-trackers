@@ -1,4 +1,5 @@
 {
+  "ad-api.mannixmarketing.com": "mannix-api.aquaplatform.com",
   "adamsads-static.midtc.com": "midtc-static.aquaplatform.com",
   "adamsads.midtc.com": "midtc4-delivery.aquaplatform.com",
   "adconsole.bidspotter.co.uk": "proxibid-console.aquaplatform.com",
@@ -313,6 +314,7 @@
   "www.static.ad.logic-prod.viasat.io": "viasat-static.aquaplatform.com",
   "www.static.ad.logic-test.viasat.io": "viasat-static.aquaplatform.com",
   "www.static.ad.logic.viasat.io": "viasat-static.aquaplatform.com",
+  "www.static.consulcesi.it": "consulcesi-static.aquaplatform.com",
   "www.static.engineeringnews.co.za": "creamer-static.aquaplatform.com",
   "www.static.everythingnevada.com": "oneboat-static.aquaplatform.com",
   "www.static.imagineobx.com": "oneboat-static.aquaplatform.com",

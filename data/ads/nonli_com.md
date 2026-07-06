@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * non.li
+    * l.non.li
     * tls-lp-cm.non.li
     * tls-rfi.non.li
     * tls.non.li
@@ -11,6 +12,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| c.leparisien.fr | l.non.li |
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |
@@ -103,6 +105,7 @@
 | l.clubic.com | tls.non.li |
 | l.compradiccion.com | tls.non.li |
 | l.contexte.com | tls.non.li |
+| l.coop-medias.org | tls.non.li |
 | l.cosmopolitan.fr | tls.non.li |
 | l.cotemaison.fr | tls.non.li |
 | l.courrier-picard.fr | tls.non.li |
@@ -142,6 +145,7 @@
 | l.foot01.com | tls.non.li |
 | l.football.fr | tls.non.li |
 | l.football365.fr | tls.non.li |
+| l.footballgroundguide.com | tls.non.li |
 | l.fourchette-et-bikini.fr | tls.non.li |
 | l.franceantilles.fr | tls.non.li |
 | l.francebleu.fr | tls.non.li |
@@ -266,12 +270,14 @@
 | l.ohmymag.co.uk | tls.non.li |
 | l.ohmymag.com | tls.non.li |
 | l.ohmymag.de | tls.non.li |
+| l.on-tenk.com | tls.non.li |
 | l.onzemondial.com | tls.non.li |
 | l.ouest-france.fr | tls.non.li |
 | l.ozap.com | tls.non.li |
 | l.paris-jetequitte.com | tls.non.li |
 | l.paris-normandie.fr | tls.non.li |
 | l.paroledemamans.com | tls.non.li |
+| l.passeportsante.net | tls.non.li |
 | l.peaches.fr | tls.non.li |
 | l.peopleauquotidien.com | tls.non.li |
 | l.petitbleu.fr | tls.non.li |
@@ -350,6 +356,7 @@
 | server1.h24.news | tls.non.li |
 | smtp.mail.h24.news | tls.non.li |
 | smtp2.h24.news | tls.non.li |
+| u.ie.h24.news | tls.non.li |
 | uk.h24.news | tls.non.li |
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |

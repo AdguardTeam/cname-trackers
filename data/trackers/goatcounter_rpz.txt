@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -109,6 +109,7 @@ stats.crosshair.dev CNAME .
 stats.cynicalsignals.com CNAME .
 stats.dalinwilliams.com CNAME .
 stats.davidjuhasz.dev CNAME .
+stats.degrandi.dev CNAME .
 stats.docs.semio-tech.com CNAME .
 stats.eithel.org CNAME .
 stats.fieald.com CNAME .
@@ -120,6 +121,7 @@ stats.hadejkde.cz CNAME .
 stats.haseebmajid.dev CNAME .
 stats.hdyar.com CNAME .
 stats.hedy.dev CNAME .
+stats.hinduismdebunked.com CNAME .
 stats.homecompanion.io CNAME .
 stats.how.wtf CNAME .
 stats.ignatuque.xyz CNAME .
@@ -149,6 +151,7 @@ stats.manakin.fi CNAME .
 stats.matteocroce.it CNAME .
 stats.mausoleum.me CNAME .
 stats.merrell.dev CNAME .
+stats.mmn.ca CNAME .
 stats.msol.io CNAME .
 stats.ngdangtu.com CNAME .
 stats.niravraval.com CNAME .
@@ -158,6 +161,7 @@ stats.otbivnoe.ru CNAME .
 stats.pamcarter.net CNAME .
 stats.paperarrow.com CNAME .
 stats.pi4li.net CNAME .
+stats.plugin-docs.mstrhakr.com CNAME .
 stats.programmershideaway.dev CNAME .
 stats.pttrn.io CNAME .
 stats.pvme.omg.lol CNAME .
@@ -193,11 +197,13 @@ stats.zl2edh.com CNAME .
 tik.terokarvinen.com CNAME .
 trackerstats.davidthe.dev CNAME .
 tracking.burningbutter.com CNAME .
+tracking.functional-cms.com CNAME .
 tracking.undercovermunich.de CNAME .
 usage.ideasnap.co CNAME .
 vault-stats.sladewatkins.net CNAME .
 visit.argfuscator.net CNAME .
 visit.hijacklibs.net CNAME .
 visits.iloveuobgold.com CNAME .
+website-stats.sladew.org CNAME .
 webstats.maik.dev CNAME .
 www.stats.spflow.com CNAME .

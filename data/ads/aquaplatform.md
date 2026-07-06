@@ -74,6 +74,7 @@
     * livingmag-static.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
     * localmatchmaker-static.aquaplatform.com
+    * mannix-api.aquaplatform.com
     * mannix-console.aquaplatform.com
     * mannix-delivery.aquaplatform.com
     * mannix-static.aquaplatform.com
@@ -202,6 +203,7 @@
 | www.api.metrike.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
+| www.static.consulcesi.it | consulcesi-static.aquaplatform.com |
 | console.engineeringnews.co.za | creamer-console.aquaplatform.com |
 | console.miningweekly.com | creamer-console.aquaplatform.com |
 | console.polity.org.za | creamer-console.aquaplatform.com |
@@ -283,6 +285,7 @@
 | www.static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
+| ad-api.mannixmarketing.com | mannix-api.aquaplatform.com |
 | console.mannixmarketing.com | mannix-console.aquaplatform.com |
 | adserv1.mannixmarketing.com | mannix-delivery.aquaplatform.com |
 | servedby.mannixmarketing.com | mannix-delivery.aquaplatform.com |
