@@ -21,6 +21,16 @@ const {
 
 const ORIGINALS_FILE_NAME = './cloaked-trackers.json';
 
+/**
+ * Updates the combined original trackers file for the specified rule types.
+ *
+ * Reads a JSON file containing original tracker data, processes it for each
+ * specified rule type, and writes the combined results to a file.
+ *
+ * @param {...string} ruleTypes The rule types for which the combined trackers
+ *   should be updated. Each should correspond to a key in FORMATS.ORIGINALS.
+ * @throws {Error} If an unknown rule type is provided.
+ */
 const updateCombinedOriginals = async (...ruleTypes) => {
     const originalTrackersContent = await fs.readFile(path.resolve(__dirname, ORIGINALS_FILE_NAME));
     const originalTrackers = JSON.parse(originalTrackersContent);
