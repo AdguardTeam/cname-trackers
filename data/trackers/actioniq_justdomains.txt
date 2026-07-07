@@ -58,7 +58,6 @@ meta-events.runreg.com
 meta-events.skimag.com
 meta-events.skireg.com
 meta-events.thenaturx.com
-meta-events.trailforks.com
 meta-events.trailrunnermag.com
 meta-events.triathlete.com
 meta-events.trireg.com
@@ -68,7 +67,7 @@ meta-events.womensrunning.com
 meta-events.yellowstonepark.com
 mr-in-staging.beginlearning.com
 mr-in.beginlearning.com
+mr-in.littlepassports.com
 mr.olympics.com
 mr.pinkbike.com
 anx-new.littlepassports.com
-mr-in.littlepassports.com

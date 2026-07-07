@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,7 +26,6 @@ analytics.churchthemes.com CNAME .
 analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
 analytics.eikko.ai CNAME .
-analytics.ericafischerphotography.com CNAME .
 analytics.hambleden-capital.com CNAME .
 analytics.hiome.com CNAME .
 analytics.lifestyledemocracy.com CNAME .
@@ -317,7 +316,6 @@ stats.bimbase.nl CNAME .
 stats.bitpost.app CNAME .
 stats.blackbird-automotive.com CNAME .
 stats.blackblog.cz CNAME .
-stats.blockleviton.com CNAME .
 stats.blog.catholicluv.com CNAME .
 stats.blog.codingmilitia.com CNAME .
 stats.blog.merckx.fr CNAME .
@@ -327,7 +325,6 @@ stats.bloke.blog CNAME .
 stats.bmxdevils.be CNAME .
 stats.book-rec.com CNAME .
 stats.booncon.com CNAME .
-stats.bostonedtech.org CNAME .
 stats.breathly.app CNAME .
 stats.brennholzauktion.com CNAME .
 stats.briskoda.net CNAME .
@@ -362,7 +359,6 @@ stats.cremashop.eu CNAME .
 stats.cremashop.se CNAME .
 stats.crewebo.de CNAME .
 stats.crypdit.com CNAME .
-stats.curbnumberpro.com CNAME .
 stats.curtiscummings.me CNAME .
 stats.cymbiant.co.uk CNAME .
 stats.dailyposter.com CNAME .
@@ -532,7 +528,6 @@ stats.localmetravel.com CNAME .
 stats.ltdhunt.com CNAME .
 stats.lussoveloce.com CNAME .
 stats.lyricall.cz CNAME .
-stats.macosicons.com CNAME .
 stats.madethis.gallery CNAME .
 stats.maferland.com CNAME .
 stats.magarantie5ans.fr CNAME .
@@ -714,7 +709,6 @@ stats.v4.agirpourlenvironnement.org CNAME .
 stats.vali-pod.io CNAME .
 stats.vdsnow.ru CNAME .
 stats.vegamuze.be CNAME .
-stats.vican.me CNAME .
 stats.vinkkaa.fi CNAME .
 stats.visions.ch CNAME .
 stats.voltimum.com CNAME .
@@ -738,7 +732,6 @@ sts.eliasjarzombek.com CNAME .
 stts.emplution.com CNAME .
 stts.swisshranalytics.ch CNAME .
 taylor.gladspring.com CNAME .
-tics.seeker.gg CNAME .
 tics.techdirt.com CNAME .
 tipstats.onepagelove.com CNAME .
 tock.weg.plus CNAME .

@@ -27,7 +27,6 @@
 | analytics.codeforscience.org | custom.plausible.io |
 | analytics.codeskulptor.org | custom.plausible.io |
 | analytics.eikko.ai | custom.plausible.io |
-| analytics.ericafischerphotography.com | custom.plausible.io |
 | analytics.hambleden-capital.com | custom.plausible.io |
 | analytics.hiome.com | custom.plausible.io |
 | analytics.lifestyledemocracy.com | custom.plausible.io |
@@ -318,7 +317,6 @@
 | stats.bitpost.app | custom.plausible.io |
 | stats.blackbird-automotive.com | custom.plausible.io |
 | stats.blackblog.cz | custom.plausible.io |
-| stats.blockleviton.com | custom.plausible.io |
 | stats.blog.catholicluv.com | custom.plausible.io |
 | stats.blog.codingmilitia.com | custom.plausible.io |
 | stats.blog.merckx.fr | custom.plausible.io |
@@ -328,7 +326,6 @@
 | stats.bmxdevils.be | custom.plausible.io |
 | stats.book-rec.com | custom.plausible.io |
 | stats.booncon.com | custom.plausible.io |
-| stats.bostonedtech.org | custom.plausible.io |
 | stats.breathly.app | custom.plausible.io |
 | stats.brennholzauktion.com | custom.plausible.io |
 | stats.briskoda.net | custom.plausible.io |
@@ -363,7 +360,6 @@
 | stats.cremashop.se | custom.plausible.io |
 | stats.crewebo.de | custom.plausible.io |
 | stats.crypdit.com | custom.plausible.io |
-| stats.curbnumberpro.com | custom.plausible.io |
 | stats.curtiscummings.me | custom.plausible.io |
 | stats.cymbiant.co.uk | custom.plausible.io |
 | stats.dailyposter.com | custom.plausible.io |
@@ -533,7 +529,6 @@
 | stats.ltdhunt.com | custom.plausible.io |
 | stats.lussoveloce.com | custom.plausible.io |
 | stats.lyricall.cz | custom.plausible.io |
-| stats.macosicons.com | custom.plausible.io |
 | stats.madethis.gallery | custom.plausible.io |
 | stats.maferland.com | custom.plausible.io |
 | stats.magarantie5ans.fr | custom.plausible.io |
@@ -715,7 +710,6 @@
 | stats.vali-pod.io | custom.plausible.io |
 | stats.vdsnow.ru | custom.plausible.io |
 | stats.vegamuze.be | custom.plausible.io |
-| stats.vican.me | custom.plausible.io |
 | stats.vinkkaa.fi | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |
 | stats.voltimum.com | custom.plausible.io |
@@ -739,7 +733,6 @@
 | stts.emplution.com | custom.plausible.io |
 | stts.swisshranalytics.ch | custom.plausible.io |
 | taylor.gladspring.com | custom.plausible.io |
-| tics.seeker.gg | custom.plausible.io |
 | tics.techdirt.com | custom.plausible.io |
 | tipstats.onepagelove.com | custom.plausible.io |
 | tock.weg.plus | custom.plausible.io |

@@ -1,5 +1,6 @@
 !
 ! Company name: Aquaplatform
+||ad-api.mannixmarketing.com^
 ||adamsads-static.midtc.com^
 ||adamsads.midtc.com^
 ||adconsole.bidspotter.co.uk^
@@ -314,6 +315,7 @@
 ||www.static.ad.logic-prod.viasat.io^
 ||www.static.ad.logic-test.viasat.io^
 ||www.static.ad.logic.viasat.io^
+||www.static.consulcesi.it^
 ||www.static.engineeringnews.co.za^
 ||www.static.everythingnevada.com^
 ||www.static.imagineobx.com^

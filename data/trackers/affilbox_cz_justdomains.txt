@@ -260,6 +260,7 @@ ambasador.montessorispolecne.cz
 ambasadorky.zenyzenam.cz
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
+analytics.algomoneo.com
 box.kryptotrejder.sk
 champions.betubetu.com
 collab.zdravetricko.cz
@@ -322,6 +323,7 @@ my.top4running.be
 my.top4running.bg
 my.top4running.ch
 my.top4running.com
+my.top4running.cy
 my.top4running.cz
 my.top4running.de
 my.top4running.dk
@@ -420,6 +422,7 @@ partner.bio-nechty.sk
 partner.bio-nehty.cz
 partner.biomag.cz
 partner.birne.com
+partner.bitcoinmat.org
 partner.bitcoinzmenaren.sk
 partner.bloominds.cz
 partner.bohempia.com
@@ -528,7 +531,6 @@ partner.hegesztok-bolt.hu
 partner.hizeromop.com
 partner.hodinarstvi.cz
 partner.hoska-tour.cz
-partner.hubnu.online
 partner.hunter.games
 partner.hurom.cz
 partner.idealninajemce.cz
@@ -550,6 +552,7 @@ partner.kafista.cz
 partner.kasparci.eu
 partner.ketomix.cz
 partner.ketomix.sk
+partner.khm.cz
 partner.kidtown.cz
 partner.koffkain-sniff.cz
 partner.kokiskashop.cz
@@ -586,6 +589,7 @@ partner.majtki.cz
 partner.malujpodlecisel.cz
 partner.martinafallerova.cz
 partner.martinreznicek.cz
+partner.massivo.cz
 partner.mbytshop.cz
 partner.medela.cz
 partner.memolingo.cz
@@ -663,7 +667,6 @@ partner.pureharmony.cz
 partner.resinstudio.cz
 partner.rixo.sk
 partner.root.cz
-partner.rozhladna.sk
 partner.roztouzeny.cz
 partner.ruzovyslon.cz
 partner.salibandy.shop
@@ -770,7 +773,6 @@ partneri.easylingo.cz
 partneri.ecstatic.cz
 partneri.edibles.eu
 partneri.eduway.cz
-partneri.epiderma.cz
 partneri.eshop.freli.cz
 partneri.eshop.jarkamatuskova.cz
 partneri.espressoenglish.cz
@@ -901,6 +903,7 @@ spolu.kuskakaa.cz
 spoluhraci.decathlon.cz
 spolupraca.aretacia-rozvodov.sk
 spolupraca.easylight.sk
+spolupraca.vivobarefoot.sk
 spoluprace.aretacni-pripravky.cz
 spoluprace.bafoo.cz
 spoluprace.blackkale.cz

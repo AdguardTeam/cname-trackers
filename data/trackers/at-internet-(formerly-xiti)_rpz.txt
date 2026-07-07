@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -88,6 +88,9 @@ pa.parcasterix.fr CNAME .
 pa.serrechevalier-pass.com CNAME .
 pa.skipass-grand-massif.com CNAME .
 pa.skipass-laplagne.com CNAME .
+pa.skipass-lesmenuires.com CNAME .
+pa.skipass-meribel.com CNAME .
+pa.skipass-pralognan.com CNAME .
 pa.walibi.be CNAME .
 pa.walibi.fr CNAME .
 pa.walibi.nl CNAME .

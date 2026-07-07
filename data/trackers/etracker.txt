@@ -100,6 +100,9 @@
 ||et.pns24.de^
 ||et.schindlerparent.de^
 ||et.sectornord.de^
+||et.smartlabarchitects.com^
+||et.spirularin-hf.de^
+||et.spirularin-muster.de^
 ||et.university-of-labour.de^
 ||et.vbvorpommern.de^
 ||et.xenbyte.com^
@@ -107,6 +110,7 @@
 ||etd.kramer-online.com^
 ||etd.mannvital.de^
 ||etd.progesteron.de^
+||etd.testogel.de^
 ||etd.wackerneusongroup.com^
 ||etd.wechseljahre-verstehen.de^
 ||etd.weidemann.com^
@@ -126,6 +130,7 @@
 ||etracker.riess-gruppe.de^
 ||etracker.seoversiert.de^
 ||ets.verivox.com^
+||ett26.ostkueste.com^
 ||ettcc.steute-controltec.com^
 ||ettcc.steute-leantec.com^
 ||ettcc.steute-meditec.com^
@@ -176,6 +181,7 @@
 ||metrics.go-jugendreisen.de^
 ||metrics.greatvita.de^
 ||metrics.gutskueche.de^
+||metrics.gutsteinbach.de^
 ||metrics.heulnichtrum.de^
 ||metrics.iqcheck24.de^
 ||metrics.leimer.de^
@@ -211,7 +217,6 @@
 ||s.lotto-hessen.de^
 ||s.materna.de^
 ||salzburg.semsea.at^
-||server.cargocover.de^
 ||sf.schufa.de^
 ||show.gruppedrei.com^
 ||sitetrack.jawx.de^
@@ -261,6 +266,7 @@
 ||system.affiliate-marketing-hamburg.de^
 ||system.j5media.de^
 ||tr.hundesportladen.de^
+||tr.jesusmygoal.com^
 ||tr.mey-wasserschaden.de^
 ||tr.zuhause-finder.com^
 ||track.bauwirtschaft-bw.de^
@@ -283,6 +289,7 @@
 ||tracking.gruener-soelden.com^
 ||tracking.holter.at^
 ||tracking.lanxess.com^
+||tracking.lotto-sh.de^
 ||tracking.lotto-sh.dev^
 ||tracking.mediengewerk.de^
 ||tracking.mopo.de^
@@ -291,6 +298,8 @@
 ||tracking.sonnasita.at^
 ||tracking.terrassenhof.de^
 ||tracking.walserart.at^
+||trckng.handysecure.de^
+||trckng.jahresreiseversicherung.org^
 ||trckng.travelsecure.de^
 ||trckng.wuerzburger.com^
 ||trckngrchnr.travelsecure.de^
@@ -301,6 +310,8 @@
 ||uezeus.ueberbit.de^
 ||umerf.fernerblick.at^
 ||umerf.reisprinzen.de^
+||vault.derby.de^
+||vault.graeub-shop.ch^
 ||vault.hoeveler.com^
 ||vault.raiffeisen-bio-brennstoffe.de^
 ||vault.raiffeisenmarkt.de^
@@ -321,6 +332,7 @@
 ||wctr.scaleup-fulfillment.de^
 ||wctr.sus-architekten-muenster.de^
 ||wctr.vitanova-kliniken.de^
+||wctr.westermann-lettershop.de^
 ||wd.classicseller.de^
 ||web-monitor.labor-limbach-hannover.de^
 ||web-monitor.labor-limbach-lehrte.de^
@@ -334,6 +346,7 @@
 ||webcont.zorge.com^
 ||webcontr-erbe.mein-erbe-tut-gutes.de^
 ||webcontr-magazin.mein-erbe-tut-gutes.de^
+||webcontr.4fighter.com^
 ||webcontr.4pace.com^
 ||webcontr.aquarius-prolife.com^
 ||webcontr.aulairenicus.de^
@@ -342,6 +355,7 @@
 ||webcontr.beautyavenue.de^
 ||webcontr.bet-at-home.com^
 ||webcontr.bet-at-home.de^
+||webcontr.bonbonladenundfeines.de^
 ||webcontr.caso-design.de^
 ||webcontr.chairgo.de^
 ||webcontr.chiptuning.com^
@@ -378,6 +392,7 @@
 ||webcontr.luxentu.de^
 ||webcontr.madena.de^
 ||webcontr.mea-living.de^
+||webcontr.meindienstrad.services^
 ||webcontr.momenture.de^
 ||webcontr.my.schako.com^
 ||webcontr.naturschutzcenter.de^
@@ -430,6 +445,7 @@
 ||webstt0015.onofficeom.com^
 ||webstt0016.onofficeom.com^
 ||webstt0017.onofficeom.com^
+||webstt0018.onofficeom.com^
 ||webstt0019.onofficeom.com^
 ||webstt0020.onofficeom.com^
 ||webstt0021.onofficeom.com^
@@ -439,9 +455,13 @@
 ||webstt0032.onofficeom.com^
 ||webstt0037.onofficeom.com^
 ||webstt0038.onofficeom.com^
+||webstt0042.onofficeom.com^
+||webstt0050.onofficeom.com^
 ||webstt0056.onofficeom.com^
+||webstt0057.onofficeom.com^
 ||webstt0059.onofficeom.com^
 ||webstt0060.onofficeom.com^
+||webstt0071.onofficeom.com^
 ||websy.skillyofficial.com^
 ||webtr.cc-egov.de^
 ||webtr.codearchitekten.de^
@@ -456,6 +476,7 @@
 ||www.statistik.as-handmade.de^
 ||www2.faxverteiler.com^
 ||www3.faxsuite.de^
+||www3.faxverteiler.com^
 ||www4.faxsuite.de^
 ||yogi.snuffland.de^
 ||zahlenbitte.jmwiarda.de^

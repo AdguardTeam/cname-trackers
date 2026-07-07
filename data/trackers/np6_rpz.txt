@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -95,6 +95,7 @@ tr.asp10aj.espmp-aufr.net CNAME .
 tr.asp10ap.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10b1.espmp-nifr.net CNAME .
+tr.asp10b2.espmp-nifr.net CNAME .
 tr.asp10b3.espmp-agfr.net CNAME .
 tr.asp10bq.espmp-nifr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
@@ -362,7 +363,6 @@ tr.donateur.afm-telethon.fr CNAME .
 tr.dossier-assurance.maaf.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
 tr.e-mail.axa.fr CNAME .
-tr.e-mail.axabanque.fr CNAME .
 tr.e-travaux.info CNAME .
 tr.e.entreprise-pm.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
@@ -582,6 +582,7 @@ tr.information.lacollection-airfrance.de CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
 tr.information.leclubtravel.fr CNAME .
 tr.information.perfectstay.com CNAME .
+tr.information.regardbtp-es.com CNAME .
 tr.information.smartdeals-transavia-fr.com CNAME .
 tr.information.thelist-emirates.fr CNAME .
 tr.informations.harmonie-mutuelle.fr CNAME .
@@ -899,6 +900,7 @@ tr.news.voyagesleclerc.com CNAME .
 tr.news.voyamar.fr CNAME .
 tr.news.vraaguwofferte.be CNAME .
 tr.news.vraaguwofferte.com CNAME .
+tr.news.xxl.fr CNAME .
 tr.news.younited-coach.com CNAME .
 tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .

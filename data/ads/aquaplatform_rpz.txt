@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+ad-api.mannixmarketing.com CNAME .
 adamsads-static.midtc.com CNAME .
 adamsads.midtc.com CNAME .
 adconsole.bidspotter.co.uk CNAME .
@@ -325,6 +326,7 @@ www.server.ad.logic.viasat.io CNAME .
 www.static.ad.logic-prod.viasat.io CNAME .
 www.static.ad.logic-test.viasat.io CNAME .
 www.static.ad.logic.viasat.io CNAME .
+www.static.consulcesi.it CNAME .
 www.static.engineeringnews.co.za CNAME .
 www.static.everythingnevada.com CNAME .
 www.static.imagineobx.com CNAME .

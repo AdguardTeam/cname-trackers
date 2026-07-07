@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -125,16 +125,16 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
 em2287.theory.com CNAME .
 em3007.wagwalking.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em5807.turbotax.refer.intuit.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
 em7952.dailypay.com CNAME .
+em8561.go2bank.com CNAME .
+em9129.lightstream.com CNAME .
+em9290.carparts.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -239,7 +239,6 @@ refer.ecoterrabeds.com CNAME .
 refer.edelmanfinancial.com CNAME .
 refer.embracepetinsurance.com CNAME .
 refer.empiretoday.com CNAME .
-refer.endy.com CNAME .
 refer.eset.com CNAME .
 refer.etrade.net CNAME .
 refer.everlywell.com CNAME .
@@ -322,6 +321,7 @@ refer.msgcu.org CNAME .
 refer.myassettag.com CNAME .
 refer.myheritagedna.com CNAME .
 refer.myob.com CNAME .
+refer.myoccu.org CNAME .
 refer.myparkingsign.com CNAME .
 refer.narscosmetics.com CNAME .
 refer.naturalizer.com CNAME .
@@ -614,7 +614,6 @@ share.kumon.com CNAME .
 share.la-mariette.com CNAME .
 share.lansingstatejournal.com CNAME .
 share.learnersedge.com CNAME .
-share.legalplans.com CNAME .
 share.levi.com CNAME .
 share.lifedna.com CNAME .
 share.livongo.com CNAME .
@@ -770,6 +769,7 @@ share.useagle.org CNAME .
 share.vcstar.com CNAME .
 share.virginvoyages.com CNAME .
 share.vonage.com CNAME .
+share.waggonershomeservices.com CNAME .
 share.wagwalking.com CNAME .
 share.walmartmoneycard.com CNAME .
 share.whiparound.com CNAME .
@@ -779,6 +779,7 @@ share.wsecu.org CNAME .
 share.zenbusiness.com CNAME .
 shareflightpass.alaskaair.com CNAME .
 stgreferral.moneybase.com CNAME .
+surrogatereferral.growinggenerations.com CNAME .
 ufsmdjkg1zhzcx9i.extoleu.com CNAME .
 www.extoleu.com CNAME .
 www.parrainage-quickbooks.fr CNAME .
@@ -790,10 +791,12 @@ www.rob.extoleu.com CNAME .
 www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em5807.turbotax.refer.intuit.com CNAME .
 em767.forgetrust.com CNAME .
 em8031.soundcloud.com CNAME .
-em8561.go2bank.com CNAME .
 em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
@@ -825,4 +828,5 @@ xtl2._domainkey.shareus.viktor-rolf.com CNAME .
 xtl2._domainkey.soundcloud.com CNAME .
 xtl2._domainkey.theory.com CNAME .
 xtl2._domainkey.walmartmoneycard.com CNAME .
+refer.endy.com CNAME .
 sftp.extole.com CNAME .

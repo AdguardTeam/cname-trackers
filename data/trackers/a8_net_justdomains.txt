@@ -167,7 +167,6 @@ a8.kekkon.kuraveil.jp
 a8.kimonomachi.co.jp
 a8.kinkaimasu.jp
 a8.kinkennet.jp
-a8.kinnikushokudo-ec.jp
 a8.kireisalone.style
 a8.kireiyu.com
 a8.kizuna-link.jp
@@ -196,6 +195,7 @@ a8.mamacosme.co.jp
 a8.mamaworks.jp
 a8.manara.jp
 a8.mar-cari.jp
+a8.midori-zc.co.jp
 a8.migi-agari.co.jp
 a8.migxl.com
 a8.minion-wifi.com
@@ -224,6 +224,7 @@ a8.ocnk.net
 a8.okamotogroup.com
 a8.olightstore.jp
 a8.onamae.com
+a8.one-drop.me
 a8.onecoinenglish.com
 a8.onenova.jp
 a8.online-yomikakisoroban.com
@@ -306,6 +307,7 @@ a8.thg.co.jp
 a8.thidastone.com
 a8.tokihana.net
 a8.tokyo-hills-clinic.com
+a8.tomo.life
 a8.tone.ne.jp
 a8.toraiz.jp
 a8.tour-sys.com
@@ -368,6 +370,7 @@ a8aspconv.xn--auso-net-h53gmnzi.com
 a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com
 a8atcomsme.mellife.jp
 a8clic.alcosystem.co.jp
+a8click.aw-anotherworks.com
 a8click.daini2.co.jp
 a8click.uzuz.jp
 a8click.you-up.com
@@ -524,6 +527,7 @@ a8clk.kaitori.kind.co.jp
 a8clk.kaitoriyasan.group
 a8clk.kake-barai.com
 a8clk.kihada.jp
+a8clk.kimera.jp
 a8clk.komochikon.jp
 a8clk.label-seal-print.com
 a8clk.lasana.co.jp
@@ -770,6 +774,7 @@ a8cv.anapnet.com
 a8cv.androsophybaby.com
 a8cv.antiaging-eshop.com
 a8cv.aplod.jp
+a8cv.app.beteam-diet.com
 a8cv.aquasilver.co.jp
 a8cv.aruci.jp
 a8cv.assign-inc.com
@@ -1066,7 +1071,6 @@ a8cv.nagatani-shop.com
 a8cv.naire-seisakusho.jp
 a8cv.naradenryoku.co.jp
 a8cv.naris-online.jp
-a8cv.natulahonpo.com
 a8cv.naturaltech.jp
 a8cv.naturebreath-store.com
 a8cv.nd-clinic.net
@@ -1117,6 +1121,7 @@ a8cv.pigeon-fw.com
 a8cv.pilates-k.jp
 a8cv.pocket-sommelier.com
 a8cv.postcoffee.co
+a8cv.postprime.com
 a8cv.pre-sana.com
 a8cv.presence.jp
 a8cv.print-gakufu.com
@@ -1222,6 +1227,7 @@ a8cv.t-bang.jp
 a8cv.t-gaia.co.jp
 a8cv.taiko-direct.jp
 a8cv.taisyokudaiko.jp
+a8cv.takamitsu-gakki.com
 a8cv.tamago-repeat.com
 a8cv.taxi-qjin.com
 a8cv.techkidsschool.jp
@@ -1310,7 +1316,6 @@ a8cv2.vapelog.jp
 a8cventry.uqwimax.jp
 a8cvhoiku.kidsmate.jp
 a8cvt.care-wing.jp
-a8cvtrack.sincere-garden.jp
 a8cvtrack.tokai.jp
 a8dev.hikarinet-s.com
 a8dns.webcircle.co.jp
@@ -1441,6 +1446,7 @@ cv.bc-force.com
 cv.belta-shop.jp
 cv.betrading.jp
 cv.bloomeelife.com
+cv.cart.naturath.jp
 cv.classmall.jp
 cv.codecamp.jp
 cv.colleize.com
@@ -1531,6 +1537,7 @@ smn.dankore.jp
 sokutei.car2828.jp
 st-a8.tscubic.com
 storea8tracking.alc.co.jp
+sub.andhabit.com
 sub.booksdream-mypage.com
 sub.ecd.bookoffonline.co.jp
 sub.turningpoint.work

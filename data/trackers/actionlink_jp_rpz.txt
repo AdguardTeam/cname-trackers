@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ al.andgo-pj.com CNAME .
 al.andmel.jp CNAME .
 al.andyell2.com CNAME .
 al.apros.co.jp CNAME .
+al.aromafrance.co.jp CNAME .
 al.atelierofsleep.com CNAME .
 al.babyrenta.com CNAME .
 al.ballon.jp CNAME .

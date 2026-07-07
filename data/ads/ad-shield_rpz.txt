@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,67 +12,13 @@ $TTL 300
 @    IN   NS    localhost.
 
 0.www.38167473.xyz CNAME .
-0.www.dwelllestcatch.com CNAME .
-0.www.garroteoutlying.com CNAME .
-0.www.norsinceexactlyamongplait.com CNAME .
-0.www.pileevery.com CNAME .
-0.www.unfortunatelyafter.com CNAME .
-0.www.untostakejiggle.com CNAME .
 1.www.38167473.xyz CNAME .
-1.www.dwelllestcatch.com CNAME .
-1.www.garroteoutlying.com CNAME .
-1.www.norsinceexactlyamongplait.com CNAME .
-1.www.pileevery.com CNAME .
-1.www.unfortunatelyafter.com CNAME .
-1.www.untostakejiggle.com CNAME .
 2.www.38167473.xyz CNAME .
-2.www.dwelllestcatch.com CNAME .
-2.www.garroteoutlying.com CNAME .
-2.www.norsinceexactlyamongplait.com CNAME .
-2.www.pileevery.com CNAME .
-2.www.unfortunatelyafter.com CNAME .
-2.www.untostakejiggle.com CNAME .
 3.www.38167473.xyz CNAME .
-3.www.dwelllestcatch.com CNAME .
-3.www.garroteoutlying.com CNAME .
-3.www.norsinceexactlyamongplait.com CNAME .
-3.www.pileevery.com CNAME .
-3.www.unfortunatelyafter.com CNAME .
-3.www.untostakejiggle.com CNAME .
 4.www.38167473.xyz CNAME .
-4.www.dwelllestcatch.com CNAME .
-4.www.garroteoutlying.com CNAME .
-4.www.norsinceexactlyamongplait.com CNAME .
-4.www.pileevery.com CNAME .
-4.www.unfortunatelyafter.com CNAME .
-4.www.untostakejiggle.com CNAME .
 5.www.38167473.xyz CNAME .
-5.www.dwelllestcatch.com CNAME .
-5.www.garroteoutlying.com CNAME .
-5.www.norsinceexactlyamongplait.com CNAME .
-5.www.pileevery.com CNAME .
-5.www.unfortunatelyafter.com CNAME .
-5.www.untostakejiggle.com CNAME .
 6.www.38167473.xyz CNAME .
-6.www.garroteoutlying.com CNAME .
-6.www.norsinceexactlyamongplait.com CNAME .
-6.www.pileevery.com CNAME .
 7.www.38167473.xyz CNAME .
-7.www.norsinceexactlyamongplait.com CNAME .
-7.www.pileevery.com CNAME .
-7.www.unfortunatelyafter.com CNAME .
-7.www.untostakejiggle.com CNAME .
 8.www.38167473.xyz CNAME .
-8.www.dwelllestcatch.com CNAME .
-8.www.garroteoutlying.com CNAME .
-8.www.pileevery.com CNAME .
-8.www.unfortunatelyafter.com CNAME .
-8.www.untostakejiggle.com CNAME .
 9.www.38167473.xyz CNAME .
-9.www.dwelllestcatch.com CNAME .
-9.www.garroteoutlying.com CNAME .
-9.www.norsinceexactlyamongplait.com CNAME .
-9.www.pileevery.com CNAME .
-9.www.unfortunatelyafter.com CNAME .
-9.www.untostakejiggle.com CNAME .
 www.38167473.xyz CNAME .

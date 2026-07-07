@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -83,6 +83,7 @@ l.closermag.fr CNAME .
 l.clubic.com CNAME .
 l.compradiccion.com CNAME .
 l.contexte.com CNAME .
+l.coop-medias.org CNAME .
 l.cosmopolitan.fr CNAME .
 l.cotemaison.fr CNAME .
 l.courrier-picard.fr CNAME .
@@ -122,6 +123,7 @@ l.foot-national.com CNAME .
 l.foot01.com CNAME .
 l.football.fr CNAME .
 l.football365.fr CNAME .
+l.footballgroundguide.com CNAME .
 l.fourchette-et-bikini.fr CNAME .
 l.franceantilles.fr CNAME .
 l.francebleu.fr CNAME .
@@ -250,6 +252,7 @@ l.numerama.com CNAME .
 l.ohmymag.co.uk CNAME .
 l.ohmymag.com CNAME .
 l.ohmymag.de CNAME .
+l.on-tenk.com CNAME .
 l.onzemondial.com CNAME .
 l.ouest-france.fr CNAME .
 l.ouifm.fr CNAME .
@@ -258,6 +261,7 @@ l.paris-jetequitte.com CNAME .
 l.paris-normandie.fr CNAME .
 l.paris-turf.com CNAME .
 l.paroledemamans.com CNAME .
+l.passeportsante.net CNAME .
 l.peaches.fr CNAME .
 l.peopleauquotidien.com CNAME .
 l.petitbleu.fr CNAME .
@@ -350,6 +354,7 @@ social.web-agri.fr CNAME .
 static.nonli.com CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .
+u.ie.h24.news CNAME .
 uk.h24.news CNAME .
 www.20min.fr CNAME .
 www.altereco.media CNAME .

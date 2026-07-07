@@ -222,8 +222,8 @@
 ||bear.modulr.design^
 ||beaver.bluebunnypaper.com^
 ||beaver.brush.ninja^
+||beaver.livechatlabs.com^
 ||bee.andreawhitmer.com^
-||bee.farmaciavdg.com^
 ||bee.jbkmobiledj.com^
 ||bee.shelveholidays.co.uk^
 ||beetle.enlacepermanente.es^
@@ -289,7 +289,6 @@
 ||cattle.mes-renovateurs.com^
 ||cattle.musikschule-bregenzerwald.at^
 ||cattle.spiral11.com^
-||cattle.weiss-bregenz.at^
 ||centipede.davimug.com^
 ||centipede.roasted.dev^
 ||cephalopod.ospreys.net^
@@ -312,6 +311,7 @@
 ||chinchilla.68keys.io^
 ||chipmunk.sqltoapi.com^
 ||clam.mglaman.dev^
+||clownfish.elihorne.com^
 ||clownfish.onvard.de^
 ||clownfish.philipkiely.com^
 ||clownfish.wrestlingiq.com^
@@ -336,10 +336,12 @@
 ||crane.maggsgroup.com^
 ||crawdad.craiga.id.au^
 ||crawdad.dillonerhardt.com^
+||crawdad.impacttk.com^
 ||crayfish.fansubbing.com^
 ||crayfish.portbanecottagelochtay.co.uk^
 ||crayfish.spotlessconcepts.com^
 ||crocodile.rapid-sale.co.uk^
+||crow.centresustains.com^
 ||crow.claudiakeil.de^
 ||crow.gim.technology^
 ||crow.themarbleking.com^
@@ -504,6 +506,7 @@
 ||hoverfly.papercrowns.com^
 ||hoverfly.wholeheartedceremonies.com.au^
 ||hoverfly.winchdesign.cn^
+||hyena.baseline.is^
 ||hyena.fershad.com^
 ||hyena.kitafund.com^
 ||hyena.m1guelpf.blog^
@@ -513,6 +516,7 @@
 ||iguana.delbaoliveira.com^
 ||iguana.indigospot.com^
 ||ijogkae.churchserviceplanner.co.uk^
+||impala.kenleyar.ai^
 ||impala.vnv.nl^
 ||ipgeaif.blairmacintyre.me^
 ||jackal.jakerunzer.com^
@@ -534,7 +538,6 @@
 ||kite.zaahir.ca^
 ||kiwi.coreyodonnell.tech^
 ||kiwi.emilkowal.ski^
-||kiwi.halostats.app^
 ||kiwi.mcan.sh^
 ||kiwi.railway.app^
 ||koala.getslopes.com^
@@ -595,6 +598,7 @@
 ||lynx.inovo.io^
 ||lynx.lumy.network^
 ||lynx.microl.ink^
+||lynx.pascivite.com^
 ||lynx.simpleparish.com^
 ||macaw.ianmitchell.dev^
 ||mackerel.passiveincome.io^
@@ -694,9 +698,7 @@
 ||parrot.alookwithin.ca^
 ||parrot.lovably.com^
 ||parrotfish.thenping.me^
-||parrotfish.wilderworld.com^
 ||peafowl.prod.fyi^
-||peafowl.projectstrackt.dev^
 ||penguin.craftpeak.io^
 ||penguin.revolana.com^
 ||perch.luckydiff.com^
@@ -706,6 +708,7 @@
 ||pig.curtisherbert.com^
 ||pig.nigano.com^
 ||pig.notion.chat^
+||pigeon.ashlean.com^
 ||pigeon.thankyuu.com^
 ||pinniped.quarantinecup.live^
 ||pinniped.resist.bot^
@@ -749,15 +752,17 @@
 ||quail.trueglowbylaura.com^
 ||quelea.llresearch.dev^
 ||quokka.bulkbuyhosting.com^
-||quokka.curbnumberpro.com^
 ||quokka.joshuawood.net^
 ||rabbit.kilowatt.media^
 ||rabbit.radicalxchange.org^
 ||rabbit.upwardhomes.net^
+||raccoon.alexanderssonlaw.com^
+||raccoon.jaronheard.com^
 ||raven.konquadrat.de^
 ||raven.omamao.ch^
 ||reindeer.cablemod.com^
 ||reindeer.iainbroome.com^
+||reptile.delopoulos.gr^
 ||reptile.o-lit.fr^
 ||rhinoceros.codeagain.com^
 ||rhinoceros.krieger.io^
@@ -794,15 +799,18 @@
 ||seahorse.dexterityvisuals.com^
 ||shark.rockyourlife.de^
 ||sheep.littleboat.digital^
+||sheep.macka.com.au^
 ||sheep.peterfowler.com^
 ||sheep.pixair-survey.com^
 ||sheep.vaxstandby.com^
 ||silkworm.boxmood.be^
+||silkworm.margrietprinssen.nl^
 ||silkworm.preventingsuicideinsussex.org^
 ||silkworm.waspexpert.com^
 ||silkworm.westwoodmbc.org^
 ||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
+||skink.magnastar.net^
 ||skunk.gameworkersolidarity.com^
 ||smelt.allenpike.com^
 ||snipe.mfaber.at^
@@ -832,6 +840,7 @@
 ||stork.ibite.company^
 ||stork.notlessbutbetter.com^
 ||sturgeon.patentfamily.com^
+||sturgeon.petjeaf.net^
 ||swallow.pelias.io^
 ||swan.visualma.com^
 ||swift.avenue.so^
@@ -882,7 +891,6 @@
 ||treefrog.mii-chi.app^
 ||treefrog.walkingwithdaddy.com^
 ||trout.openfpl.com^
-||trout.travelmassive.com^
 ||tuna.ajaymantri.com^
 ||tuna.purplespider.com^
 ||turkey.tella.tv^
@@ -924,6 +932,7 @@
 ||whippet.miniforetak.no^
 ||whitefish.antonopoulos-stores.gr^
 ||whitefish.autharmor.com^
+||whitefish.johnsandtaylor.com^
 ||whitefish.kenku.fm^
 ||wildcat.fspy.io^
 ||wildcat.longviewforecasting.com^
@@ -943,6 +952,7 @@
 ||y5qhzz3q.designdetails.fm^
 ||yak.auclantis.com^
 ||yak.gregsullivan.com^
+||yak.juicydevils.gr^
 ||ads.cdn.bndlapi.com^
 ||ads.djc.com^
 ||allnews.chestertelegraph.org^
@@ -1046,7 +1056,6 @@
 ||icon.eu.mndsrv.com^
 ||icon.eu.nwmnd.com^
 ||icon.eu.ofmndx.com^
-||icon.eu.pamndl.com^
 ||icon.eu.plmndw.com^
 ||icon.eu.ptmnd.com^
 ||icon.eu.rfxmnd.com^

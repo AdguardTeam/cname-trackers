@@ -15,7 +15,6 @@ analytics.churchthemes.com
 analytics.codeforscience.org
 analytics.codeskulptor.org
 analytics.eikko.ai
-analytics.ericafischerphotography.com
 analytics.hambleden-capital.com
 analytics.hiome.com
 analytics.lifestyledemocracy.com
@@ -306,7 +305,6 @@ stats.bimbase.nl
 stats.bitpost.app
 stats.blackbird-automotive.com
 stats.blackblog.cz
-stats.blockleviton.com
 stats.blog.catholicluv.com
 stats.blog.codingmilitia.com
 stats.blog.merckx.fr
@@ -316,7 +314,6 @@ stats.bloke.blog
 stats.bmxdevils.be
 stats.book-rec.com
 stats.booncon.com
-stats.bostonedtech.org
 stats.breathly.app
 stats.brennholzauktion.com
 stats.briskoda.net
@@ -351,7 +348,6 @@ stats.cremashop.eu
 stats.cremashop.se
 stats.crewebo.de
 stats.crypdit.com
-stats.curbnumberpro.com
 stats.curtiscummings.me
 stats.cymbiant.co.uk
 stats.dailyposter.com
@@ -521,7 +517,6 @@ stats.localmetravel.com
 stats.ltdhunt.com
 stats.lussoveloce.com
 stats.lyricall.cz
-stats.macosicons.com
 stats.madethis.gallery
 stats.maferland.com
 stats.magarantie5ans.fr
@@ -703,7 +698,6 @@ stats.v4.agirpourlenvironnement.org
 stats.vali-pod.io
 stats.vdsnow.ru
 stats.vegamuze.be
-stats.vican.me
 stats.vinkkaa.fi
 stats.visions.ch
 stats.voltimum.com
@@ -727,7 +721,6 @@ sts.eliasjarzombek.com
 stts.emplution.com
 stts.swisshranalytics.ch
 taylor.gladspring.com
-tics.seeker.gg
 tics.techdirt.com
 tipstats.onepagelove.com
 tock.weg.plus

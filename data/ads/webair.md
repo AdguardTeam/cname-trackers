@@ -44,6 +44,7 @@
     * 9versemedia.xml-eu-v4.ak-is2.net
     * 9versemedia.xml-v4.ak-is2.net
     * 9versemedia.xs.ak-is2.net
+    * acedigitalads.fs.ak-is2.net
     * acedigitalads.rtb-eu-v4.ak-is2.net
     * acedigitalads.xml-eu-v4.ak-is2.net
     * acedigitalads.xml-v4.ak-is2.net
@@ -90,6 +91,8 @@
     * adcannyads.xs.ak-is2.net
     * adconclave.xml.ak-is2.net
     * adconclave.xs.ak-is2.net
+    * adconflux.rtb-eu-v4.ak-is2.net
+    * adconflux.rtb-eu.ak-is2.net
     * adconverge.fs.ak-is2.net
     * adconverge.xml-v4.ak-is2.net
     * adcountymedia.rtb-eu.ak-is2.net
@@ -171,6 +174,7 @@
     * admida.ui.ak-is2.net
     * admida.xml-eu.ak-is2.net
     * admida.xml.ak-is2.net
+    * admidadsp.xs.ak-is2.net
     * admidainsight.xs.ak-is2.net
     * admozartppc.xs.ak-is2.net
     * adnexusmarketing.rtb-useast-v4.ak-is2.net
@@ -189,13 +193,18 @@
     * adoptim.ui.ak-is2.net
     * adoptimix.fs-eu.ak-is2.net
     * adoptimix.fs.ak-is2.net
+    * adoptimix.rtb-apac-v4.ak-is2.net
     * adoptimix.rtb-eu-v4.ak-is2.net
     * adoptimix.rtb-eu.ak-is2.net
+    * adoptimix.rtb-useast-v4.ak-is2.net
+    * adoptimix.rtb-useast.ak-is2.net
     * adoptimix.xml-eu-v4.ak-is2.net
     * adoptimix.xml-eu.ak-is2.net
     * adoptimix.xml-v4.ak-is2.net
     * adoptimix.xml.ak-is2.net
     * adora.fs.ak-is2.net
+    * adora.rtb-eu-v4.ak-is2.net
+    * adora.rtb-eu.ak-is2.net
     * adora.xml-eu-v4.ak-is2.net
     * adora.xml-eu.ak-is2.net
     * adora.xml-v4.ak-is2.net
@@ -204,7 +213,6 @@
     * adpalladium.ui.ak-is2.net
     * adpalladium.xml.ak-is2.net
     * adpix.rtb-as-useast.ak-is2.net
-    * adpix.rtb-xs.ak-is2.net
     * adpluto.cpm.ak-is2.net
     * adpluto.rtb-apac-v4.ak-is2.net
     * adpluto.rtb-eu-v4.ak-is2.net
@@ -246,6 +254,7 @@
     * adsailor.ui.ak-is2.net
     * adsailor.xml-eu.ak-is2.net
     * adsailor.xml.ak-is2.net
+    * adsailor.xs.ak-is2.net
     * adscholars.fs-eu.ak-is2.net
     * adscholars.fs.ak-is2.net
     * adscholars.rtb-apac-v4.ak-is2.net
@@ -255,6 +264,7 @@
     * adscholars.xml-eu-v4.ak-is2.net
     * adscholars.xml-v4.ak-is2.net
     * adscholars.xml.ak-is2.net
+    * adscholars.xs.ak-is2.net
     * adsfloow.fs-eu.ak-is2.net
     * adsfloow.fs.ak-is2.net
     * adsfloow.rtb-eu-v4.ak-is2.net
@@ -399,6 +409,7 @@
     * adzinx.ui.ak-is2.net
     * affinity.click-apac.ak-is2.net
     * affinity.click-eu.ak-is2.net
+    * affinity.click-uswest.ak-is2.net
     * affinity.rtb-apac-v4.ak-is2.net
     * affinity.rtb-apac.ak-is2.net
     * affinity.rtb-as-apac.ak-is2.net
@@ -416,6 +427,7 @@
     * affinity.xs.ak-is2.net
     * africonverse.click-useast.ak-is2.net
     * africonverse.rtb-as-useast.ak-is2.net
+    * africonverse.rtb-xs.ak-is2.net
     * africonverse.win-useast.ak-is2.net
     * afront.io.fs.ak-is2.net
     * afront.io.xml-v4.ak-is2.net
@@ -428,17 +440,18 @@
     * agilitydigitalmedia.xml-eu-v4.ak-is2.net
     * agilitydigitalmedia.xml-v4.ak-is2.net
     * agilitydigitalmedia.xml.ak-is2.net
-    * agilitydigitalmedia.xs.ak-is2.net
     * altitudemarketing.xs.ak-is2.net
     * amplifai.rtb-as-useast.ak-is2.net
     * amplifai.xml-v4.ak-is2.net
     * amplifai.xml.ak-is2.net
     * amplifai.xs.ak-is2.net
     * ampx.rtb-as-useast.ak-is2.net
+    * amtechads.ui.ak-is2.net
     * amtechads.xml-v4.ak-is2.net
     * andbeyond.cpm.ak-is2.net
     * andbeyond.rtb-eu.ak-is2.net
     * andbeyond.rtb-useast.ak-is2.net
+    * andbeyond.rtb-uswest.ak-is2.net
     * andbeyond.xs.ak-is2.net
     * anyclip-media.rtb-useast.ak-is2.net
     * app-shake.aui.ak-is2.net
@@ -453,7 +466,6 @@
     * applabs.rtb-ui.ak-is2.net
     * applabs.rtb-xs.ak-is2.net
     * applabs.win-uswest.ak-is2.net
-    * applixir.cpm.ak-is2.net
     * applixir.rtb-useast-v4.ak-is2.net
     * applixir.xs.ak-is2.net
     * appmonsta.fs-eu.ak-is2.net
@@ -465,6 +477,7 @@
     * appmonsta.rtb-eu-v4.ak-is2.net
     * appmonsta.rtb-eu.ak-is2.net
     * appmonsta.rtb-useast-v4.ak-is2.net
+    * appmonsta.win-apac.ak-is2.net
     * appmonsta.win-uswest.ak-is2.net
     * appmonsta.xml-eu-v4.ak-is2.net
     * appmonsta.xml-v4.ak-is2.net
@@ -474,7 +487,7 @@
     * appocean.rtb-eu.ak-is2.net
     * appocean.rtb-useast.ak-is2.net
     * appocean.rtb-uswest.ak-is2.net
-    * arbigo.cpm.ak-is2.net
+    * appocean.xs.ak-is2.net
     * arbigo.rtb-useast.ak-is2.net
     * aserve1.cpm.ak-is2.net
     * aserve1.rtb-apac-v4.ak-is2.net
@@ -487,7 +500,6 @@
     * aserve1.rtb-uswest.ak-is2.net
     * aserve1.xs.ak-is2.net
     * assemblyexchange.rtb-as-useast.ak-is2.net
-    * assemblyexchange.rtb-xs.ak-is2.net
     * assemblyexchange.win-useast.ak-is2.net
     * atunwadigital.cpm.ak-is2.net
     * audience.xs.ak-is2.net
@@ -499,6 +511,7 @@
     * audienceye.xml-eu.ak-is2.net
     * audienceye.xml-v4.ak-is2.net
     * audienceye.xml.ak-is2.net
+    * audienceye.xs.ak-is2.net
     * axiombid.fs-eu.ak-is2.net
     * axiombid.fs.ak-is2.net
     * axiombid.rtb-apac-v4.ak-is2.net
@@ -508,6 +521,7 @@
     * axiombid.rtb-useast.ak-is2.net
     * axiombid.rtb-uswest-v4.ak-is2.net
     * axiombid.xml-eu-v4.ak-is2.net
+    * axiombid.xml-eu.ak-is2.net
     * axiombid.xml-v4.ak-is2.net
     * axiombid.xml.ak-is2.net
     * babanetwork.fs.ak-is2.net
@@ -519,6 +533,7 @@
     * barcelona-backlinks.xs.ak-is2.net
     * bat-ads.rtb-uswest.ak-is2.net
     * bat-ads.ui.ak-is2.net
+    * bat-ads.xs.ak-is2.net
     * bcm.cpm.ak-is2.net
     * bcm.rtb-apac.ak-is2.net
     * bcm.rtb-eu.ak-is2.net
@@ -571,6 +586,7 @@
     * blastmedia.rtb-eu.ak-is2.net
     * blastmedia.rtb-useast-v4.ak-is2.net
     * blastmedia.rtb-useast.ak-is2.net
+    * blastmedia.rtb-uswest-v4.ak-is2.net
     * blastmedia.xml-eu-v4.ak-is2.net
     * blastmedia.xml-eu.ak-is2.net
     * blastmedia.xml-v4.ak-is2.net
@@ -596,6 +612,7 @@
     * boffoads.rtb-apac.ak-is2.net
     * boffoads.rtb-eu.ak-is2.net
     * boffoads.rtb-useast.ak-is2.net
+    * boffoads.rtb-uswest.ak-is2.net
     * boffoads.ui.ak-is2.net
     * boffoads.xml-eu-v4.ak-is2.net
     * boffoads.xml-eu.ak-is2.net
@@ -607,7 +624,6 @@
     * boldthrives.xml-eu.ak-is2.net
     * boldthrives.xml-v4.ak-is2.net
     * boldthrives.xml.ak-is2.net
-    * bonanza.rtb-xs.ak-is2.net
     * bonanza.xs.ak-is2.net
     * branchdiscovery.rtb-apac-v4.ak-is2.net
     * branchdiscovery.rtb-eu-v4.ak-is2.net
@@ -618,7 +634,6 @@
     * branchdsp.rtb-ui.ak-is2.net
     * branchdsp.rtb-xs.ak-is2.net
     * branchdsp.win-apac.ak-is2.net
-    * brightmountainads.cpm.ak-is2.net
     * brightmountainads.rtb-eu.ak-is2.net
     * bvsrv.wp.ak-is2.net
     * bvsrv.xml.ak-is2.net
@@ -629,6 +644,8 @@
     * cachegorilla.xml-eu-v4.ak-is2.net
     * cachegorilla.xml-v4.ak-is2.net
     * cachegorilla.xml.ak-is2.net
+    * cashlelo.fs.ak-is2.net
+    * cashlelo.xml-eu-v4.ak-is2.net
     * cashlelo.xml-v4.ak-is2.net
     * cashlelo.xml.ak-is2.net
     * catapultx.cpm.ak-is2.net
@@ -681,6 +698,7 @@
     * clicktoring.fs.ak-is2.net
     * clicktoring.ui.ak-is2.net
     * clicktoring.xml.ak-is2.net
+    * clickvoraads.xml-v4.ak-is2.net
     * clixcrafts.fs-eu.ak-is2.net
     * clixcrafts.fs.ak-is2.net
     * clixcrafts.ui.ak-is2.net
@@ -741,6 +759,7 @@
     * coupontic.xml-v4.ak-is2.net
     * coupontic.xml.ak-is2.net
     * cpmme.cpm.ak-is2.net
+    * cpmme.rtb-apac-v4.ak-is2.net
     * cpmme.rtb-eu-v4.ak-is2.net
     * cpmme.rtb-eu.ak-is2.net
     * cpmme.rtb-useast-v4.ak-is2.net
@@ -817,9 +836,7 @@
     * didna.rtb-useast-v4.ak-is2.net
     * didna.rtb-useast.ak-is2.net
     * didna.rtb-uswest-v4.ak-is2.net
-    * didna.xs.ak-is2.net
     * digidayin.xs.ak-is2.net
-    * displayio.cpm.ak-is2.net
     * displayio.rtb-apac.ak-is2.net
     * displayio.rtb-eu.ak-is2.net
     * displayio.rtb-useast.ak-is2.net
@@ -915,7 +932,6 @@
     * explorads.xml-eu.ak-is2.net
     * explorads.xml-v4.ak-is2.net
     * explorads.xml.ak-is2.net
-    * extvlabs.rtb-xs.ak-is2.net
     * eyandfarto.xml.ak-is2.net
     * ezmob.aui.ak-is2.net
     * ezmob.cpm.ak-is2.net
@@ -936,6 +952,8 @@
     * ezmob.xs.ak-is2.net
     * fastbid.xml.ak-is2.net
     * fastbid.xs.ak-is2.net
+    * feedad.rtb-as-eu.ak-is2.net
+    * feedad.rtb-ui.ak-is2.net
     * felixads.cpm.ak-is2.net
     * felixads.fs-eu.ak-is2.net
     * felixads.fs.ak-is2.net
@@ -947,7 +965,6 @@
     * fidgiant.xs.ak-is2.net
     * fidmakr.xml-v4.ak-is2.net
     * finevisit.xml.ak-is2.net
-    * finevisit.xs.ak-is2.net
     * flairads.fs.ak-is2.net
     * flairads.rtb-apac.ak-is2.net
     * flairads.rtb-eu.ak-is2.net
@@ -975,7 +992,6 @@
     * fmlabsonline.xml-v4.ak-is2.net
     * fmlabsonline.xml.ak-is2.net
     * fmlabsonline.xs.ak-is2.net
-    * foremedia.cpm.ak-is2.net
     * foremedia.fs-eu.ak-is2.net
     * foremedia.fs.ak-is2.net
     * foremedia.rtb-apac.ak-is2.net
@@ -996,12 +1012,14 @@
     * freevpnplanet.rtb-uswest.ak-is2.net
     * freevpnplanet.xml-v4.ak-is2.net
     * freevpnplanet.xml.ak-is2.net
+    * freevpnplanet.xs.ak-is2.net
     * frequency.fs-eu.ak-is2.net
     * frequency.fs.ak-is2.net
     * frequency.rtb-apac-v4.ak-is2.net
     * frequency.rtb-eu-v4.ak-is2.net
     * frequency.rtb-eu.ak-is2.net
     * frequency.rtb-useast-v4.ak-is2.net
+    * frequency.rtb-uswest-v4.ak-is2.net
     * frequency.xml-eu-v4.ak-is2.net
     * frequency.xml-eu.ak-is2.net
     * frequency.xml-v4.ak-is2.net
@@ -1030,6 +1048,7 @@
     * goclickz.xml-eu-v4.ak-is2.net
     * goclickz.xml-v4.ak-is2.net
     * goclickz.xml.ak-is2.net
+    * goclickz.xs.ak-is2.net
     * goodgamer.xs.ak-is2.net
     * gravityadnetwork.rtb-as-apac.ak-is2.net
     * greedygame.rtb-useast-v4.ak-is2.net
@@ -1076,8 +1095,10 @@
     * icyads.fs.ak-is2.net
     * icyads.ui.ak-is2.net
     * icyads.xml.ak-is2.net
+    * idcactivate.rtb-as-useast.ak-is2.net
     * imprexis.rtb-useast.ak-is2.net
     * imprexis.rtb-uswest.ak-is2.net
+    * imprexis.xs.ak-is2.net
     * indeedtheriverw.xml.ak-is2.net
     * infinety.cpm.ak-is2.net
     * infinety.xs.ak-is2.net
@@ -1096,9 +1117,11 @@
     * infinity-info.xml-v4.ak-is2.net
     * infinity-info.xml.ak-is2.net
     * infinityexplorers.cpm.ak-is2.net
+    * infinityexplorers.rtb-apac-v4.ak-is2.net
     * infinityexplorers.rtb-eu-v4.ak-is2.net
     * infinityexplorers.rtb-useast-v4.ak-is2.net
     * infinityexplorers.rtb-useast.ak-is2.net
+    * infinityexplorers.rtb-uswest-v4.ak-is2.net
     * ingdowntheriv.xml.ak-is2.net
     * ingdowntheriv.xs.ak-is2.net
     * insightadz.fs-eu.ak-is2.net
@@ -1112,6 +1135,7 @@
     * intellectscoop.fs-eu.ak-is2.net
     * intellectscoop.rtb-apac.ak-is2.net
     * intellectscoop.rtb-useast.ak-is2.net
+    * intellectscoop.xml-v4.ak-is2.net
     * intellectscoop.xml.ak-is2.net
     * ionsandinde.xml.ak-is2.net
     * iresandalarger.xs.ak-is2.net
@@ -1129,16 +1153,13 @@
     * jambojar.rtb-eu-v4.ak-is2.net
     * jambojar.rtb-useast-v4.ak-is2.net
     * jambojar.rtb-uswest-v4.ak-is2.net
-    * jambojar.rtb-xs.ak-is2.net
     * jambojar.win-apac.ak-is2.net
     * jambojar.win-useast.ak-is2.net
     * jambojar.win-uswest.ak-is2.net
     * jambojar.xml.ak-is2.net
-    * jambojar.xs.ak-is2.net
     * jotterads.aui.ak-is2.net
     * jotterads.fs.ak-is2.net
     * jotterads.ui.ak-is2.net
-    * jotterads.xs.ak-is2.net
     * keenkale.rtb-uswest.ak-is2.net
     * keenkale.ui.ak-is2.net
     * kigoras.rtb-apac-v4.ak-is2.net
@@ -1163,6 +1184,7 @@
     * kremsondigital.cpm.ak-is2.net
     * kremsondigital.rtb-as-uswest.ak-is2.net
     * kremsondigital.rtb-uswest.ak-is2.net
+    * kremsondigital.xs.ak-is2.net
     * kunvertads.fs-eu.ak-is2.net
     * kunvertads.fs.ak-is2.net
     * kunvertads.rtb-apac-v4.ak-is2.net
@@ -1186,6 +1208,10 @@
     * leoyard.xml-v4.ak-is2.net
     * leoyard.xml-v6.ak-is2.net
     * leoyard.xml.ak-is2.net
+    * liftmyads.fs-eu.ak-is2.net
+    * liftmyads.rtb-eu-v4.ak-is2.net
+    * liftmyads.rtb-useast-v4.ak-is2.net
+    * liftmyads.rtb-useast.ak-is2.net
     * liftmyads.xml-eu-v4.ak-is2.net
     * liftmyads.xml-v4.ak-is2.net
     * livinads.fs.ak-is2.net
@@ -1204,6 +1230,7 @@
     * lowsshehasnom.xml.ak-is2.net
     * lthroughthesum.xml.ak-is2.net
     * lumobid.xml.ak-is2.net
+    * madebid.xs.ak-is2.net
     * madopi.rtb-useast.ak-is2.net
     * madopi.rtb-xs.ak-is2.net
     * magixengage.rtb-xs.ak-is2.net
@@ -1215,7 +1242,6 @@
     * mediacpc.xml-eu.ak-is2.net
     * mediacpc.xml-v4.ak-is2.net
     * mediacpc.xml.ak-is2.net
-    * mediahubserver.cpm.ak-is2.net
     * mediahubserver.rtb-useast.ak-is2.net
     * mediarise.click-eu.ak-is2.net
     * mediarise.click-useast.ak-is2.net
@@ -1252,11 +1278,15 @@
     * mobidick.rtb-as-apac.ak-is2.net
     * mobidick.rtb-as-eu.ak-is2.net
     * mobidick.rtb-as-useast.ak-is2.net
+    * mobidick.rtb-as-uswest.ak-is2.net
     * mobidick.rtb-eu-v4.ak-is2.net
     * mobidick.rtb-eu.ak-is2.net
     * mobidick.rtb-useast-v4.ak-is2.net
+    * mobidick.rtb-uswest-v4.ak-is2.net
     * mobidick.rtb-xs.ak-is2.net
+    * mobidick.win-apac.ak-is2.net
     * mobidick.win-eu.ak-is2.net
+    * mobidick.win-uswest.ak-is2.net
     * mobipromote.cpm.ak-is2.net
     * mobipromote.fs-eu.ak-is2.net
     * mobipromote.fs.ak-is2.net
@@ -1270,6 +1300,7 @@
     * mobra.xml.ak-is2.net
     * mobuppsrtb.fs-eu.ak-is2.net
     * mobuppsrtb.fs.ak-is2.net
+    * mobuppsrtb.rtb-apac-v4.ak-is2.net
     * mobuppsrtb.rtb-eu-v4.ak-is2.net
     * mobuppsrtb.rtb-eu.ak-is2.net
     * mobuppsrtb.rtb-useast-v4.ak-is2.net
@@ -1290,15 +1321,11 @@
     * mrgrprf.xml-v4.ak-is2.net
     * myadcampaigns.fs.ak-is2.net
     * myadcampaigns.xml.ak-is2.net
-    * myadcampaigns.xs.ak-is2.net
     * mybestclick.fs.ak-is2.net
     * mybestclick.xml.ak-is2.net
     * mymedia.fs.ak-is2.net
     * mymedia.ui.ak-is2.net
     * mymedia.xml.ak-is2.net
-    * myrax.rtb-apac-v4.ak-is2.net
-    * myrax.rtb-eu-v4.ak-is2.net
-    * myrax.rtb-useast-v4.ak-is2.net
     * mytrendingstories.rtb-xs.ak-is2.net
     * mywaymedia.fs-eu.ak-is2.net
     * mywaymedia.fs.ak-is2.net
@@ -1316,6 +1343,7 @@
     * nasrev.rtb-useast-v4.ak-is2.net
     * nasrev.rtb-useast.ak-is2.net
     * nasrev.ui.ak-is2.net
+    * nasrev.xs.ak-is2.net
     * nativeads.aui.ak-is2.net
     * nativeads.click-useast.ak-is2.net
     * nativeads.rtb-as-eu.ak-is2.net
@@ -1329,8 +1357,6 @@
     * nativeadsfeed.rtb.ak-is2.net
     * nativeadsfeed.xml.ak-is2.net
     * nativeadsfeed.xs.ak-is2.net
-    * nebulaads.rtb-useast-v4.ak-is2.net
-    * nebulaads.xs.ak-is2.net
     * newchallenges-dsp.click-apac.ak-is2.net
     * newchallenges-dsp.click-useast.ak-is2.net
     * newchallenges-dsp.rtb-as-apac.ak-is2.net
@@ -1350,14 +1376,15 @@
     * nexrtb.xml-v4.ak-is2.net
     * nexrtb.xml.ak-is2.net
     * nexsouk.rtb-as-useast.ak-is2.net
-    * nexsouk.rtb-xs.ak-is2.net
     * novabid.xml.ak-is2.net
     * oherbuttheds.xs.ak-is2.net
     * omnijay.rtb-uswest.ak-is2.net
     * omnijay.ui.ak-is2.net
+    * onelyandbegan.xml.ak-is2.net
     * onelyandbegan.xs.ak-is2.net
     * onenativeads.click-apac.ak-is2.net
     * onenativeads.rtb-as-apac.ak-is2.net
+    * onenativeads.rtb-xs.ak-is2.net
     * online-adnetwork.fs.ak-is2.net
     * online-adnetwork.ui.ak-is2.net
     * oppamedia.cpm.ak-is2.net
@@ -1374,8 +1401,8 @@
     * outpush.fs-eu.ak-is2.net
     * outpush.xml-eu.ak-is2.net
     * ovewiththem.xml.ak-is2.net
-    * ovewiththem.xs.ak-is2.net
     * paddlewaver.xml-v4.ak-is2.net
+    * paddlewaver.xs.ak-is2.net
     * pareto21.rtb-uswest.ak-is2.net
     * pareto21.xs.ak-is2.net
     * pathfather.xml.ak-is2.net
@@ -1464,6 +1491,7 @@
     * pubsfusion.fs-eu.ak-is2.net
     * pubsfusion.fs.ak-is2.net
     * pubsfusion.rtb-eu.ak-is2.net
+    * pubsfusion.rtb-useast-v4.ak-is2.net
     * pubsfusion.rtb-uswest-v4.ak-is2.net
     * pubsfusion.xml-eu-v4.ak-is2.net
     * pubsfusion.xml-v4.ak-is2.net
@@ -1549,7 +1577,6 @@
     * readywind.fs.ak-is2.net
     * readywind.rtb-useast.ak-is2.net
     * readywind.xml.ak-is2.net
-    * realtime-bid.xs.ak-is2.net
     * regalrisemedia.fs-eu.ak-is2.net
     * regalrisemedia.fs.ak-is2.net
     * regalrisemedia.ui.ak-is2.net
@@ -1594,6 +1621,7 @@
     * revrtb.ui.ak-is2.net
     * revrtb.wp.ak-is2.net
     * revrtb.xml.ak-is2.net
+    * rewesbeginnywea.xs.ak-is2.net
     * ripamatic.fs-eu.ak-is2.net
     * ripamatic.fs.ak-is2.net
     * ripamatic.xml-eu-v4.ak-is2.net
@@ -1638,17 +1666,18 @@
     * rtbplatform.ui.ak-is2.net
     * rtbserve.xs.ak-is2.net
     * rtbsmartadexchange.rtb-useast-v4.ak-is2.net
-    * rtbsmartadexchange.xs.ak-is2.net
     * rtbthebidex.rtb-eu-v4.ak-is2.net
     * rtbthebidex.rtb-useast-v4.ak-is2.net
+    * rtbthebidex.ui.ak-is2.net
     * rtbthemediapoint.rtb-eu-v4.ak-is2.net
     * rtbthemediapoint.rtb-eu.ak-is2.net
     * rtbthemediapoint.rtb-useast-v4.ak-is2.net
     * rtbthemediapoint.rtb-useast.ak-is2.net
-    * rtbthemediapoint.xs.ak-is2.net
-    * rtbwire.cpm.ak-is2.net
+    * rtbthemediapoint.ui.ak-is2.net
     * rtbwire.ui.ak-is2.net
     * rtbwire.xs.ak-is2.net
+    * rtbyield.rtb-eu-v4.ak-is2.net
+    * rtbyield.rtb-eu.ak-is2.net
     * rtheyhadgone.xml.ak-is2.net
     * rtxfeed.fs-eu.ak-is2.net
     * rtxfeed.fs.ak-is2.net
@@ -1664,6 +1693,7 @@
     * santaads.rtb-eu-v4.ak-is2.net
     * santaads.rtb-eu.ak-is2.net
     * santaads.rtb-useast-v4.ak-is2.net
+    * santaads.rtb-uswest-v4.ak-is2.net
     * santaads.xml-v4.ak-is2.net
     * santaads.xml.ak-is2.net
     * santaads.xs.ak-is2.net
@@ -1688,7 +1718,6 @@
     * semp.xml.ak-is2.net
     * sflyingdownthe.xml.ak-is2.net
     * sflyingdownthe.xs.ak-is2.net
-    * shenwhentheau.xs.ak-is2.net
     * showcasead.aui.ak-is2.net
     * showcasead.fs.ak-is2.net
     * showcasead.rtb-uswest.ak-is2.net
@@ -1702,6 +1731,7 @@
     * stringads.rtb-useast.ak-is2.net
     * strongkeyword.ui.ak-is2.net
     * strongkeyword.xml-v4.ak-is2.net
+    * strongmetrics.cpm.ak-is2.net
     * strongmetrics.rtb-apac-v4.ak-is2.net
     * strongmetrics.rtb-eu-v4.ak-is2.net
     * strongmetrics.rtb-useast-v4.ak-is2.net
@@ -1732,7 +1762,6 @@
     * techdoor.xml-eu.ak-is2.net
     * techdoor.xml-v4.ak-is2.net
     * techdoor.xml.ak-is2.net
-    * techdoor.xs.ak-is2.net
     * tenxads.fs-eu.ak-is2.net
     * tenxads.fs.ak-is2.net
     * tenxads.rtb-eu-v4.ak-is2.net
@@ -1752,7 +1781,6 @@
     * teriflicmedia.xml-v4.ak-is2.net
     * theardent.cpm.ak-is2.net
     * theardent.xs.ak-is2.net
-    * thecdn.cpm.ak-is2.net
     * thecdn.rtb-as-eu.ak-is2.net
     * thenetwork18.fs-eu.ak-is2.net
     * thenetwork18.fs.ak-is2.net
@@ -1785,10 +1813,12 @@
     * topsolutionsmedia.fs.ak-is2.net
     * topsolutionsmedia.rtb-eu-v4.ak-is2.net
     * topsolutionsmedia.rtb-eu.ak-is2.net
+    * topsolutionsmedia.rtb-useast-v4.ak-is2.net
     * topsolutionsmedia.xml-eu-v4.ak-is2.net
     * topsolutionsmedia.xml-eu.ak-is2.net
     * topsolutionsmedia.xml-v4.ak-is2.net
     * topsolutionsmedia.xml.ak-is2.net
+    * torobid.xs.ak-is2.net
     * trackifyy.fs-eu.ak-is2.net
     * trackifyy.fs.ak-is2.net
     * trackifyy.rtb-apac-v4.ak-is2.net
@@ -1817,6 +1847,7 @@
     * trafficmoose.xml-v4.ak-is2.net
     * trafficmoose.xml.ak-is2.net
     * trafficsupplier.aui.ak-is2.net
+    * trafficsupplier.cpm.ak-is2.net
     * trafficsupplier.fs.ak-is2.net
     * trafficsupplier.rtb-apac.ak-is2.net
     * trafficsupplier.rtb-eu.ak-is2.net
@@ -1835,10 +1866,9 @@
     * trimedia.xml-eu-v4.ak-is2.net
     * trimedia.xml-v4.ak-is2.net
     * trimedia.xml.ak-is2.net
-    * trimedia.xs.ak-is2.net
     * trinytymedia.ui.ak-is2.net
-    * trinytymedia.xs.ak-is2.net
     * tris.cpm.ak-is2.net
+    * tris.xs.ak-is2.net
     * tropintech.fs.ak-is2.net
     * tropintech.xml-v4.ak-is2.net
     * tshipanditlasted.xs.ak-is2.net
@@ -1854,7 +1884,6 @@
     * unibots.rtb-useast.ak-is2.net
     * unibots.rtb-uswest.ak-is2.net
     * unibots.ui.ak-is2.net
-    * unibots.xs.ak-is2.net
     * upperseeker.fs-eu.ak-is2.net
     * upperseeker.fs.ak-is2.net
     * upperseeker.rtb-eu.ak-is2.net
@@ -1870,13 +1899,15 @@
     * userwave.fs.ak-is2.net
     * userwave.xml.ak-is2.net
     * userwave.xs.ak-is2.net
+    * utaonforhaving.xs.ak-is2.net
     * valueklicks.fs.ak-is2.net
     * valueklicks.xml.ak-is2.net
+    * vapa.xml-eu-v4.ak-is2.net
     * vapa.xml-v4.ak-is2.net
+    * vashoot.cpm.ak-is2.net
     * vashoot.fs.ak-is2.net
     * vashoot.rtb.ak-is2.net
     * vashoot.xml.ak-is2.net
-    * vashoot.xs.ak-is2.net
     * verafterabigyel.xml.ak-is2.net
     * vertoz.fs.ak-is2.net
     * vertoz.rtb-apac-v4.ak-is2.net
@@ -1888,9 +1919,7 @@
     * vertoz.ui.ak-is2.net
     * vertoz.xml-eu.ak-is2.net
     * vertoz.xml.ak-is2.net
-    * vertoz.xs.ak-is2.net
     * verwasquitefu.xml.ak-is2.net
-    * vespymedia.cpm.ak-is2.net
     * vespymedia.fs-eu.ak-is2.net
     * vespymedia.fs.ak-is2.net
     * vespymedia.rtb-eu.ak-is2.net
@@ -1900,7 +1929,9 @@
     * vespymedia.xml-eu.ak-is2.net
     * vespymedia.xml.ak-is2.net
     * vespymedia.xs.ak-is2.net
+    * vexabid.xml.ak-is2.net
     * videowalldirect.cpm.ak-is2.net
+    * visionpeakmedia.fs-eu.ak-is2.net
     * visionpeakmedia.fs.ak-is2.net
     * visionpeakmedia.rtb-apac-v4.ak-is2.net
     * visionpeakmedia.rtb-eu-v4.ak-is2.net
@@ -1974,7 +2005,6 @@
     * winkleads.xml-eu.ak-is2.net
     * winkleads.xml-v4.ak-is2.net
     * winkleads.xml.ak-is2.net
-    * winkleads.xs.ak-is2.net
     * wondenthaitings.xs.ak-is2.net
     * xapads.aui.ak-is2.net
     * xapads.cpm.ak-is2.net
@@ -2012,6 +2042,7 @@
     * xmlppc.xml-eu-v4.ak-is2.net
     * xmlppc.xml-v4.ak-is2.net
     * xmlppc.xml.ak-is2.net
+    * xmlppc.xs.ak-is2.net
     * xmlsmartadexchange.fs-eu.ak-is2.net
     * xmlsmartadexchange.fs.ak-is2.net
     * xmlsmartadexchange.xml-eu-v4.ak-is2.net
@@ -2020,7 +2051,9 @@
     * xmlsmartadexchange.xs.ak-is2.net
     * xmlthebidex.fs-eu.ak-is2.net
     * xmlthebidex.fs.ak-is2.net
+    * xmlthebidex.xml-eu-v4.ak-is2.net
     * xmlthebidex.xml-v4.ak-is2.net
+    * xmlthemediapoint.ui.ak-is2.net
     * xmlthemediapoint.xs.ak-is2.net
     * xmlwiz.fs.ak-is2.net
     * xmlwiz.xml.ak-is2.net
@@ -2029,6 +2062,8 @@
     * xmlwolf.xml-eu-v4.ak-is2.net
     * xmlwolf.xml-v4.ak-is2.net
     * xmlwolf.xml.ak-is2.net
+    * xtendad.fs.ak-is2.net
+    * xtendad.xml.ak-is2.net
     * xyconversation.xml.ak-is2.net
     * xyconversation.xs.ak-is2.net
     * yeesshh.aui.ak-is2.net
@@ -2042,9 +2077,11 @@
     * yhisladyloveheh.xml.ak-is2.net
     * yieldoz.fs-eu.ak-is2.net
     * yieldoz.fs.ak-is2.net
+    * yieldoz.rtb-apac-v4.ak-is2.net
     * yieldoz.rtb-eu-v4.ak-is2.net
     * yieldoz.rtb-eu.ak-is2.net
     * yieldoz.rtb-useast-v4.ak-is2.net
+    * yieldoz.rtb-useast.ak-is2.net
     * yieldoz.xml-v4.ak-is2.net
     * yieldoz.xml.ak-is2.net
     * yieldradius.fs.ak-is2.net
@@ -2115,6 +2152,7 @@
 | cpm.adbite.com | 1.cpm.ak-is2.net |
 | cpm.adbite.com | 1.cpm.ak-is2.net |
 | cpm.adjux.com | 1.cpm.ak-is2.net |
+| cpm.adjux.com | 1.cpm.ak-is2.net |
 | cpm.adlive.io | 1.cpm.ak-is2.net |
 | cpm.admeridianopenrtb.com | 1.cpm.ak-is2.net |
 | cpm.adpluto.com | 1.cpm.ak-is2.net |
@@ -2125,10 +2163,8 @@
 | cpm.andbeyond.media | 1.cpm.ak-is2.net |
 | cpm.andbeyond.media | 1.cpm.ak-is2.net |
 | cpm.applixir.com | 1.cpm.ak-is2.net |
-| cpm.applixir.com | 1.cpm.ak-is2.net |
 | cpm.appocean.media | 1.cpm.ak-is2.net |
 | cpm.appocean.media | 1.cpm.ak-is2.net |
-| cpm.arbigo.com | 1.cpm.ak-is2.net |
 | cpm.arbigo.com | 1.cpm.ak-is2.net |
 | cpm.aserve1.net | 1.cpm.ak-is2.net |
 | cpm.atunwadigital.com | 1.cpm.ak-is2.net |
@@ -2137,7 +2173,6 @@
 | cpm.bidmyqps.xyz | 1.cpm.ak-is2.net |
 | cpm.blutonic.net | 1.cpm.ak-is2.net |
 | cpm.boffoadsapi.com | 1.cpm.ak-is2.net |
-| cpm.brightmountainads.com | 1.cpm.ak-is2.net |
 | cpm.brightmountainads.com | 1.cpm.ak-is2.net |
 | cpm.chaoticinteractions.com | 1.cpm.ak-is2.net |
 | cpm.chaoticinteractions.com | 1.cpm.ak-is2.net |
@@ -2160,7 +2195,6 @@
 | cpm.ezmob.com | 1.cpm.ak-is2.net |
 | cpm.felixads.com | 1.cpm.ak-is2.net |
 | cpm.fmlabsonline.com | 1.cpm.ak-is2.net |
-| cpm.foremedia.net | 1.cpm.ak-is2.net |
 | cpm.foremedia.net | 1.cpm.ak-is2.net |
 | cpm.geoadserver.com | 1.cpm.ak-is2.net |
 | cpm.globalsun.io | 1.cpm.ak-is2.net |
@@ -2201,6 +2235,7 @@
 | cpm.smoads.com | 1.cpm.ak-is2.net |
 | cpm.smoads.com | 1.cpm.ak-is2.net |
 | cpm.strongmetrics.io | 1.cpm.ak-is2.net |
+| cpm.strongmetrics.io | 1.cpm.ak-is2.net |
 | cpm.theardent.group | 1.cpm.ak-is2.net |
 | cpm.theardent.group | 1.cpm.ak-is2.net |
 | cpm.thecdn.site | 1.cpm.ak-is2.net |
@@ -2210,7 +2245,7 @@
 | cpm.upremium.asia | 1.cpm.ak-is2.net |
 | cpm.userwave.com | 1.cpm.ak-is2.net |
 | cpm.vashoot.com | 1.cpm.ak-is2.net |
-| cpm.vespymedia.com | 1.cpm.ak-is2.net |
+| cpm.vashoot.com | 1.cpm.ak-is2.net |
 | cpm.vespymedia.com | 1.cpm.ak-is2.net |
 | cpm.videowalldirect.com | 1.cpm.ak-is2.net |
 | cpm.videowalldirect.com | 1.cpm.ak-is2.net |
@@ -2276,6 +2311,7 @@
 | static-rtb2.assemblyexchange.com | a1499.dscg2.akamai.net |
 | static-rtb2.branchdsp.io | a1499.dscg2.akamai.net |
 | static-rtb2.convergeselect.net | a1499.dscg2.akamai.net |
+| static-rtb2.delivrdsp.ai | a1499.dscg2.akamai.net |
 | static-rtb2.demandzoo.com | a1499.dscg2.akamai.net |
 | static-rtb2.e-volution.ai | a1499.dscg2.akamai.net |
 | static-rtb2.extvlabs.com | a1499.dscg2.akamai.net |
@@ -2335,6 +2371,7 @@
 | static.adxfactory.com | a550.dscg2.akamai.net |
 | static.adxnexus.com | a550.dscg2.akamai.net |
 | static.afkwa.com | a550.dscg2.akamai.net |
+| static.agilitydigitalmedia.com | a550.dscg2.akamai.net |
 | static.ak.bonanza.com | a550.dscg2.akamai.net |
 | static.altitudemarketing.com | a550.dscg2.akamai.net |
 | static.amplifai.it.com | a550.dscg2.akamai.net |
@@ -2411,8 +2448,8 @@
 | static.moola.network | a550.dscg2.akamai.net |
 | static.myadcampaigns.com | a550.dscg2.akamai.net |
 | static.nasrev.com | a550.dscg2.akamai.net |
-| static.nebulaads.com | a550.dscg2.akamai.net |
 | static.newchallenges-rtb.com | a550.dscg2.akamai.net |
+| static.oherbuttheds.com | a550.dscg2.akamai.net |
 | static.onelyandbegan.org | a550.dscg2.akamai.net |
 | static.openrtb.in | a550.dscg2.akamai.net |
 | static.otigainareputao.com | a550.dscg2.akamai.net |
@@ -2435,6 +2472,7 @@
 | static.ranydwouldmak.com | a550.dscg2.akamai.net |
 | static.re-media.info | a550.dscg2.akamai.net |
 | static.reachableads.com | a550.dscg2.akamai.net |
+| static.realtime-bid.com | a550.dscg2.akamai.net |
 | static.reklama.network | a550.dscg2.akamai.net |
 | static.rewesbeginnywea.com | a550.dscg2.akamai.net |
 | static.rocoads.com | a550.dscg2.akamai.net |
@@ -2454,8 +2492,6 @@
 | static.smartadexchange.xyz | a550.dscg2.akamai.net |
 | static.smoads.com | a550.dscg2.akamai.net |
 | static.srvqck2.com | a550.dscg2.akamai.net |
-| static.srvqck20.com | a550.dscg2.akamai.net |
-| static.srvqck21.com | a550.dscg2.akamai.net |
 | static.srvqck24.com | a550.dscg2.akamai.net |
 | static.srvqck26.com | a550.dscg2.akamai.net |
 | static.srvqck27.com | a550.dscg2.akamai.net |
@@ -2466,6 +2502,7 @@
 | static.tatueoftheappyr.com | a550.dscg2.akamai.net |
 | static.techdoor.com | a550.dscg2.akamai.net |
 | static.theardent.group | a550.dscg2.akamai.net |
+| static.themediapoint.net | a550.dscg2.akamai.net |
 | static.themediapoint.xyz | a550.dscg2.akamai.net |
 | static.thetrafficbid.com | a550.dscg2.akamai.net |
 | static.time-bid.com | a550.dscg2.akamai.net |
@@ -2479,6 +2516,7 @@
 | static.ukworektobedirec.com | a550.dscg2.akamai.net |
 | static.ultrads.net | a550.dscg2.akamai.net |
 | static.unibots.in | a550.dscg2.akamai.net |
+| static.userwave.com | a550.dscg2.akamai.net |
 | static.utaonforhaving.com | a550.dscg2.akamai.net |
 | static.uzlifat.com | a550.dscg2.akamai.net |
 | static.vashoot.com | a550.dscg2.akamai.net |
@@ -2499,6 +2537,7 @@
 | static1.andbeyond.media | a550.dscg2.akamai.net |
 | staticrtb.trackifyy.com | a550.dscg2.akamai.net |
 | xmlstatic.pubsfusion.com | a550.dscg2.akamai.net |
+| filter.acedigitalads.com | acedigitalads.fs.ak-is2.net |
 | rtb-eu-v4.acedigitalads.com | acedigitalads.rtb-eu-v4.ak-is2.net |
 | xml-eu-v4.acedigitalads.com | acedigitalads.xml-eu-v4.ak-is2.net |
 | xml-v4.acedigitalads.com | acedigitalads.xml-v4.ak-is2.net |
@@ -2567,7 +2606,6 @@
 | static.eredthechild-bid.com | ad-maven.xs.ak-is2.net |
 | static.frownedand-bid.com | ad-maven.xs.ak-is2.net |
 | static.masterfr-bid.com | ad-maven.xs.ak-is2.net |
-| static.maticalm-bid.com | ad-maven.xs.ak-is2.net |
 | static.servsserverz.com | ad-maven.xs.ak-is2.net |
 | static.ad2click.in | ad2click.xs.ak-is2.net |
 | rtb-apac.adapace.com | adapace.rtb-apac.ak-is2.net |
@@ -2597,6 +2635,8 @@
 | static.adcannyads.com | adcannyads.xs.ak-is2.net |
 | xml.adconclave.com | adconclave.xml.ak-is2.net |
 | static.adconclave.com | adconclave.xs.ak-is2.net |
+| rtb-eu-v4.adconflux.com | adconflux.rtb-eu-v4.ak-is2.net |
+| rtb-eu.adconflux.com | adconflux.rtb-eu.ak-is2.net |
 | filter.adconverge.com | adconverge.fs.ak-is2.net |
 | xml-v4.adconverge.com | adconverge.xml-v4.ak-is2.net |
 | rtb-eu.adcountymedia.com | adcountymedia.rtb-eu.ak-is2.net |
@@ -2685,6 +2725,7 @@
 | partners.admidadsp.com | admida.ui.ak-is2.net |
 | xml-eu.admidainsight.com | admida.xml-eu.ak-is2.net |
 | xml.admidainsight.com | admida.xml.ak-is2.net |
+| static.admidadsp.com | admidadsp.xs.ak-is2.net |
 | static.admidainsight.com | admidainsight.xs.ak-is2.net |
 | static.admozartppc.com | admozartppc.xs.ak-is2.net |
 | rtb-useast-v4.adnexusmarketing.com | adnexusmarketing.rtb-useast-v4.ak-is2.net |
@@ -2706,13 +2747,18 @@
 | members.adoptim.com | adoptim.ui.ak-is2.net |
 | filter-eu.adoptimix.com | adoptimix.fs-eu.ak-is2.net |
 | filter.adoptimix.com | adoptimix.fs.ak-is2.net |
+| rtb-apac-v4.adoptimix.com | adoptimix.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4.adoptimix.com | adoptimix.rtb-eu-v4.ak-is2.net |
 | rtb-eu.adoptimix.com | adoptimix.rtb-eu.ak-is2.net |
+| rtb-useast-v4.adoptimix.com | adoptimix.rtb-useast-v4.ak-is2.net |
+| rtb-useast.adoptimix.com | adoptimix.rtb-useast.ak-is2.net |
 | xml-eu-v4.adoptimix.com | adoptimix.xml-eu-v4.ak-is2.net |
 | xml-eu.adoptimix.com | adoptimix.xml-eu.ak-is2.net |
 | xml-v4.adoptimix.com | adoptimix.xml-v4.ak-is2.net |
 | xml.adoptimix.com | adoptimix.xml.ak-is2.net |
 | filter.adora.network | adora.fs.ak-is2.net |
+| rtb-eu-v4.adora.network | adora.rtb-eu-v4.ak-is2.net |
+| rtb-eu.adora.network | adora.rtb-eu.ak-is2.net |
 | xml-eu-v4.adora.network | adora.xml-eu-v4.ak-is2.net |
 | xml-eu.adora.network | adora.xml-eu.ak-is2.net |
 | xml-v4.adora.network | adora.xml-v4.ak-is2.net |
@@ -2722,7 +2768,6 @@
 | xml.adpalladium.com | adpalladium.xml.ak-is2.net |
 | xmlads.adpalladium.com | adpalladium.xml.ak-is2.net |
 | rtb2-useast.adpix.online | adpix.rtb-as-useast.ak-is2.net |
-| static-rtb2.adpix.online | adpix.rtb-xs.ak-is2.net |
 | cpm.adpluto.com | adpluto.cpm.ak-is2.net |
 | rtb-apac-v4.adpluto.com | adpluto.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4.adpluto.com | adpluto.rtb-eu-v4.ak-is2.net |
@@ -2746,8 +2791,6 @@
 | filter-eu.fstsrv9.com | adright.fs-eu.ak-is2.net |
 | filter-eu.srvqck.com | adright.fs-eu.ak-is2.net |
 | filter-eu.srvqck2.com | adright.fs-eu.ak-is2.net |
-| filter-eu.srvqck21.com | adright.fs-eu.ak-is2.net |
-| filter-eu.srvqck23.com | adright.fs-eu.ak-is2.net |
 | filter-eu.srvqck25.com | adright.fs-eu.ak-is2.net |
 | filter-eu.srvqck27.com | adright.fs-eu.ak-is2.net |
 | filter-eu.srvqck3.com | adright.fs-eu.ak-is2.net |
@@ -2757,36 +2800,27 @@
 | filter.srvqck.com | adright.fs.ak-is2.net |
 | filter.srvqck1.com | adright.fs.ak-is2.net |
 | filter.srvqck2.com | adright.fs.ak-is2.net |
-| filter.srvqck21.com | adright.fs.ak-is2.net |
-| filter.srvqck23.com | adright.fs.ak-is2.net |
 | filter.srvqck25.com | adright.fs.ak-is2.net |
 | filter.srvqck27.com | adright.fs.ak-is2.net |
 | filter.srvqck3.com | adright.fs.ak-is2.net |
 | login.adright.com | adright.ui.ak-is2.net |
 | push.adright.co | adright.wp.ak-is2.net |
-| xml-eu-v4.srvqck21.com | adright.xml-eu-v4.ak-is2.net |
-| xml-eu-v4.srvqck23.com | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.srvqck25.com | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.srvqck27.com | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.srvqck3.com | adright.xml-eu-v4.ak-is2.net |
 | xml-eu.adright.co | adright.xml-eu.ak-is2.net |
-| xml-eu.srvqck21.com | adright.xml-eu.ak-is2.net |
-| xml-eu.srvqck23.com | adright.xml-eu.ak-is2.net |
 | xml-eu.srvqck25.com | adright.xml-eu.ak-is2.net |
 | xml-eu.srvqck27.com | adright.xml-eu.ak-is2.net |
+| xml-eu.srvqk1.com | adright.xml-eu.ak-is2.net |
 | xml-v4.fstsrv9.com | adright.xml-v4.ak-is2.net |
 | xml-v4.srvqck1.com | adright.xml-v4.ak-is2.net |
-| xml-v4.srvqck21.com | adright.xml-v4.ak-is2.net |
-| xml-v4.srvqck23.com | adright.xml-v4.ak-is2.net |
 | xml-v4.srvqck25.com | adright.xml-v4.ak-is2.net |
 | xml-v4.srvqck27.com | adright.xml-v4.ak-is2.net |
 | xml-v4.srvqck3.com | adright.xml-v4.ak-is2.net |
 | filter.popunder.bid | adright.xml.ak-is2.net |
 | xml.fstsrv9.com | adright.xml.ak-is2.net |
 | xml.srvqck.com | adright.xml.ak-is2.net |
-| xml.srvqck21.com | adright.xml.ak-is2.net |
-| xml.srvqck22.com | adright.xml.ak-is2.net |
-| xml.srvqck23.com | adright.xml.ak-is2.net |
+| xml.srvqck1.com | adright.xml.ak-is2.net |
 | xml.srvqck24.com | adright.xml.ak-is2.net |
 | xml.srvqck25.com | adright.xml.ak-is2.net |
 | xml.srvqck26.com | adright.xml.ak-is2.net |
@@ -2797,9 +2831,7 @@
 | static.adright.co | adright.xs.ak-is2.net |
 | static.fstsrv9.com | adright.xs.ak-is2.net |
 | static.srvqck2.com | adright.xs.ak-is2.net |
-| static.srvqck20.com | adright.xs.ak-is2.net |
 | static.srvqck24.com | adright.xs.ak-is2.net |
-| static.srvqck26.com | adright.xs.ak-is2.net |
 | static.srvqck27.com | adright.xs.ak-is2.net |
 | static.srvqk.com | adright.xs.ak-is2.net |
 | xml-v4.glcsrv.com | adrightglc.xml-v4.ak-is2.net |
@@ -2815,6 +2847,7 @@
 | login.adsailor.com | adsailor.ui.ak-is2.net |
 | xml-eu.adsailor.com | adsailor.xml-eu.ak-is2.net |
 | xml.adsailor.com | adsailor.xml.ak-is2.net |
+| static.adsailor.com | adsailor.xs.ak-is2.net |
 | filter-eu.adscholars.com | adscholars.fs-eu.ak-is2.net |
 | filter.adscholars.com | adscholars.fs.ak-is2.net |
 | rtb-apac-v4.adscholars.com | adscholars.rtb-apac-v4.ak-is2.net |
@@ -2824,6 +2857,7 @@
 | xml-eu-v4.adscholars.com | adscholars.xml-eu-v4.ak-is2.net |
 | xml-v4.adscholars.com | adscholars.xml-v4.ak-is2.net |
 | xml.adscholars.com | adscholars.xml.ak-is2.net |
+| static.adscholars.com | adscholars.xs.ak-is2.net |
 | filter-eu.adsfloow.net | adsfloow.fs-eu.ak-is2.net |
 | filter.adsfloow.net | adsfloow.fs.ak-is2.net |
 | rtb-eu-v4.adsfloow.net | adsfloow.rtb-eu-v4.ak-is2.net |
@@ -2899,13 +2933,13 @@
 | tq-eu.grantdk-1.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.gtmxso-c.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.hillflippush.info | adventurefeeds.fs-eu.ak-is2.net |
+| tq-eu.hintcore-grid.info | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.icdsoap-1.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.icdsoap-2.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.incs-xa.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.ldnpointer.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.optargone-3.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.sdausa.online | adventurefeeds.fs-eu.ak-is2.net |
-| tq-eu.starvalue-3.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.sttsxplc.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.svdva-g.online | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.trabinec.online | adventurefeeds.fs-eu.ak-is2.net |
@@ -2939,11 +2973,14 @@
 | tq.drivefund-hub.online | adventurefeeds.fs.ak-is2.net |
 | tq.flowldsb.online | adventurefeeds.fs.ak-is2.net |
 | tq.flowldsd.online | adventurefeeds.fs.ak-is2.net |
+| tq.gain-bee.pro | adventurefeeds.fs.ak-is2.net |
 | tq.grantdk-1.online | adventurefeeds.fs.ak-is2.net |
 | tq.grantdk-2.online | adventurefeeds.fs.ak-is2.net |
 | tq.hillflippush.info | adventurefeeds.fs.ak-is2.net |
+| tq.hintcore-grid.info | adventurefeeds.fs.ak-is2.net |
 | tq.icdsoap-3.online | adventurefeeds.fs.ak-is2.net |
 | tq.icdsoap-4.online | adventurefeeds.fs.ak-is2.net |
+| tq.incs-xc.online | adventurefeeds.fs.ak-is2.net |
 | tq.incs-xd.online | adventurefeeds.fs.ak-is2.net |
 | tq.jasminreader.online | adventurefeeds.fs.ak-is2.net |
 | tq.ldnpointer.online | adventurefeeds.fs.ak-is2.net |
@@ -2953,8 +2990,8 @@
 | tq.optargone-3.online | adventurefeeds.fs.ak-is2.net |
 | tq.sdausa.online | adventurefeeds.fs.ak-is2.net |
 | tq.sharkcold-box.online | adventurefeeds.fs.ak-is2.net |
+| tq.sour9268.info | adventurefeeds.fs.ak-is2.net |
 | tq.spaceshop-hq.online | adventurefeeds.fs.ak-is2.net |
-| tq.starvalue-4.online | adventurefeeds.fs.ak-is2.net |
 | tq.sttsxplc.online | adventurefeeds.fs.ak-is2.net |
 | tq.svdva-e.online | adventurefeeds.fs.ak-is2.net |
 | tq.svdva-f.online | adventurefeeds.fs.ak-is2.net |
@@ -3006,14 +3043,19 @@
 | xml-eu-v4.edit-blaster.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.extractmalls.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.fdkox-c.online | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.fdkox-d.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.flowldsc.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.flowldsd.online | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.gain-bee.pro | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.gainyellow-pro.online | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.goalvision-box.pro | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.grantdk-1.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.grantdk-2.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.gtmxso-b.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.gtmxso-c.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.gtmxso-v.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.hillflippush.info | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.hintcore-grid.info | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.icdsoap-1.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.icdsoap-2.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.icdsoap-3.online | adventurefeeds.xml-eu-v4.ak-is2.net |
@@ -3023,11 +3065,13 @@
 | xml-eu-v4.incs-xd.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.jasminreader.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.ldnpointer.online | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.leaf-logical.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.lightbaking.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.look-beyond.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.madefromsteel.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.markwind-link.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.microashmetric.info | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.moonpink-shop.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.orbitmacro-site.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.pathloud-hq.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.quiet-071b.info | adventurefeeds.xml-eu-v4.ak-is2.net |
@@ -3035,14 +3079,17 @@
 | xml-eu-v4.sdausa.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.sdxsad.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.sharkcold-box.online | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.sour9268.info | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.spaceshop-hq.online | adventurefeeds.xml-eu-v4.ak-is2.net |
-| xml-eu-v4.starvalue-3.online | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.starpine-box.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.sttsxplc.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.svdva-e.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.svdva-f.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.svdva-g.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.synccasheagle.pro | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.trabinec.online | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.turn-d3fe.pro | adventurefeeds.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.ultrahq-place.info | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.valleyspace.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.vlcosa.online | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.xasedformed-a.online | adventurefeeds.xml-eu-v4.ak-is2.net |
@@ -3071,9 +3118,11 @@
 | xml-eu.cnsiap.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.dorsedformed-e.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.dove-node.info | adventurefeeds.xml-eu.ak-is2.net |
+| xml-eu.edit-review.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.flowldsc.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.gtmxso-c.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.hillflippush.info | adventurefeeds.xml-eu.ak-is2.net |
+| xml-eu.hintcore-grid.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.hypercast-shop.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.icdsoap-1.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.icdsoap-2.online | adventurefeeds.xml-eu.ak-is2.net |
@@ -3083,6 +3132,8 @@
 | xml-eu.incs-xc.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.incs-xd.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.jasminreader.online | adventurefeeds.xml-eu.ak-is2.net |
+| xml-eu.leaf-logical.online | adventurefeeds.xml-eu.ak-is2.net |
+| xml-eu.madefromsteel.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.microashmetric.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.quiet-071b.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.sdausa.online | adventurefeeds.xml-eu.ak-is2.net |
@@ -3094,6 +3145,8 @@
 | xml-eu.svdva-f.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.svdva-g.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.trabinec.online | adventurefeeds.xml-eu.ak-is2.net |
+| xml-eu.turn-d3fe.pro | adventurefeeds.xml-eu.ak-is2.net |
+| xml-eu.ultrahq-place.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.valleyspace.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.veiwers-ships.online | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.vlcosa.online | adventurefeeds.xml-eu.ak-is2.net |
@@ -3148,13 +3201,18 @@
 | xml-v4.fdkox-b.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.fdkox-c.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.fdkox-d.online | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.flowldsb.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.flowldsd.online | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.gain-bee.pro | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.gainyellow-pro.online | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.goalvision-box.pro | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.grantdk-1.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.grantdk-2.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.gtmxso-b.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.gtmxso-c.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.gtmxso-v.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.hillflippush.info | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.hintcore-grid.info | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.hypercast-shop.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.icdsoap-1.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.icdsoap-2.online | adventurefeeds.xml-v4.ak-is2.net |
@@ -3165,6 +3223,7 @@
 | xml-v4.incs-xd.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.jasminreader.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.ldnpointer.online | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.leaf-logical.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.lightbaking.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.look-beyond.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.madefromsteel.online | adventurefeeds.xml-v4.ak-is2.net |
@@ -3179,23 +3238,27 @@
 | xml-v4.orbitmacro-site.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.pathloud-hq.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.quiet-071b.info | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.rainleaf-base.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.rockblack-room.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.salehawk-shop.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.sdausa.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.sdxsad.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.segment-art.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.sharkcold-box.online | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.sour9268.info | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.spaceshop-hq.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.starpine-box.online | adventurefeeds.xml-v4.ak-is2.net |
-| xml-v4.starvalue-4.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.sttsxplc.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.svdva-e.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.svdva-f.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.svdva-g.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.synccasheagle.pro | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.trabinec.online | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.turn-d3fe.pro | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.uclpointer.online | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.ultrahq-place.info | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.valleyspace.online | adventurefeeds.xml-v4.ak-is2.net |
+| xml-v4.veiwers-ships.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.vlcosa.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.xasedformed-a.online | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.xasedformed-b.online | adventurefeeds.xml-v4.ak-is2.net |
@@ -3227,6 +3290,7 @@
 | xml.clintlex-c.online | adventurefeeds.xml.ak-is2.net |
 | xml.clintlex-d.online | adventurefeeds.xml.ak-is2.net |
 | xml.cnsiap.online | adventurefeeds.xml.ak-is2.net |
+| xml.cyberpull-place.online | adventurefeeds.xml.ak-is2.net |
 | xml.dmnlks-c.online | adventurefeeds.xml.ak-is2.net |
 | xml.dmnlks-d.online | adventurefeeds.xml.ak-is2.net |
 | xml.dorsedformed-d.online | adventurefeeds.xml.ak-is2.net |
@@ -3234,10 +3298,13 @@
 | xml.dove-node.info | adventurefeeds.xml.ak-is2.net |
 | xml.flowldsb.online | adventurefeeds.xml.ak-is2.net |
 | xml.flowldsd.online | adventurefeeds.xml.ak-is2.net |
+| xml.gain-bee.pro | adventurefeeds.xml.ak-is2.net |
+| xml.goalvision-box.pro | adventurefeeds.xml.ak-is2.net |
 | xml.grantdk-1.online | adventurefeeds.xml.ak-is2.net |
 | xml.grantdk-2.online | adventurefeeds.xml.ak-is2.net |
 | xml.gtmxso-c.online | adventurefeeds.xml.ak-is2.net |
 | xml.hillflippush.info | adventurefeeds.xml.ak-is2.net |
+| xml.hintcore-grid.info | adventurefeeds.xml.ak-is2.net |
 | xml.icdsoap-1.online | adventurefeeds.xml.ak-is2.net |
 | xml.icdsoap-2.online | adventurefeeds.xml.ak-is2.net |
 | xml.icdsoap-3.online | adventurefeeds.xml.ak-is2.net |
@@ -3255,6 +3322,8 @@
 | xml.svdva-e.online | adventurefeeds.xml.ak-is2.net |
 | xml.svdva-g.online | adventurefeeds.xml.ak-is2.net |
 | xml.trabinec.online | adventurefeeds.xml.ak-is2.net |
+| xml.turn-d3fe.pro | adventurefeeds.xml.ak-is2.net |
+| xml.ultrahq-place.info | adventurefeeds.xml.ak-is2.net |
 | xml.vlcosa.online | adventurefeeds.xml.ak-is2.net |
 | xml.xasedformed-a.online | adventurefeeds.xml.ak-is2.net |
 | xml.xasedformed-b.online | adventurefeeds.xml.ak-is2.net |
@@ -3342,6 +3411,7 @@
 | login.adzinx.com | adzinx.ui.ak-is2.net |
 | click-rtb2-apac.affinity.net | affinity.click-apac.ak-is2.net |
 | click-rtb2-eu.affinity.net | affinity.click-eu.ak-is2.net |
+| click-rtb2-uswest.affinity.net | affinity.click-uswest.ak-is2.net |
 | rtb-apac-v4.affinity.net | affinity.rtb-apac-v4.ak-is2.net |
 | rtb-apac.affinity.net | affinity.rtb-apac.ak-is2.net |
 | rtb2-apac.affinity.net | affinity.rtb-as-apac.ak-is2.net |
@@ -3359,6 +3429,7 @@
 | adk-static.affinity.net | affinity.xs.ak-is2.net |
 | click-rtb2-useast.africonverse.com | africonverse.click-useast.ak-is2.net |
 | rtb2-useast.africonverse.com | africonverse.rtb-as-useast.ak-is2.net |
+| static-rtb2.africonverse.com | africonverse.rtb-xs.ak-is2.net |
 | win-rtb2-useast.africonverse.com | africonverse.win-useast.ak-is2.net |
 | filter.afront.io | afront.io.fs.ak-is2.net |
 | filter.inptr.com | afront.io.fs.ak-is2.net |
@@ -3373,23 +3444,23 @@
 | xml-eu-v4.agilitydigitalmedia.com | agilitydigitalmedia.xml-eu-v4.ak-is2.net |
 | xml-v4.agilitydigitalmedia.com | agilitydigitalmedia.xml-v4.ak-is2.net |
 | xml.agilitydigitalmedia.com | agilitydigitalmedia.xml.ak-is2.net |
-| static.agilitydigitalmedia.com | agilitydigitalmedia.xs.ak-is2.net |
 | static.altitudemarketing.com | altitudemarketing.xs.ak-is2.net |
 | rtb2-useast.amplifai.it.com | amplifai.rtb-as-useast.ak-is2.net |
 | xml-v4.amplifai.it.com | amplifai.xml-v4.ak-is2.net |
 | xml.amplifai.it.com | amplifai.xml.ak-is2.net |
 | static.amplifai.it.com | amplifai.xs.ak-is2.net |
 | rtb2-useast.ampx.io | ampx.rtb-as-useast.ak-is2.net |
+| login.amtechads.com | amtechads.ui.ak-is2.net |
 | xml-v4.amtechads.com | amtechads.xml-v4.ak-is2.net |
 | cpm.andbeyond.media | andbeyond.cpm.ak-is2.net |
 | rtb-eu.andbeyond.media | andbeyond.rtb-eu.ak-is2.net |
 | rtb-useast.andbeyond.media | andbeyond.rtb-useast.ak-is2.net |
+| rtb-uswest.andbeyond.media | andbeyond.rtb-uswest.ak-is2.net |
 | static1.andbeyond.media | andbeyond.xs.ak-is2.net |
 | rtb-useast.anyclip-media.com | anyclip-media.rtb-useast.ak-is2.net |
 | advertisers.app-shake.com | app-shake.aui.ak-is2.net |
 | ak-tracker.com | app-shake.xml.ak-is2.net |
 | xml.ak-tracker.com | app-shake.xml.ak-is2.net |
-| static.app-shake.com | app-shake.xs.ak-is2.net |
 | static.creativethingsdoneright.top | app-shake.xs.ak-is2.net |
 | click-rtb2-apac.applabs.live | applabs.click-apac.ak-is2.net |
 | click-rtb2-useast.applabs.live | applabs.click-useast.ak-is2.net |
@@ -3400,7 +3471,6 @@
 | dsp.applabs.live | applabs.rtb-ui.ak-is2.net |
 | static-rtb2.applabs.live | applabs.rtb-xs.ak-is2.net |
 | win-rtb2-uswest.applabs.live | applabs.win-uswest.ak-is2.net |
-| cpm.applixir.com | applixir.cpm.ak-is2.net |
 | rtb-useast-v4.applixir.com | applixir.rtb-useast-v4.ak-is2.net |
 | static.applixir.com | applixir.xs.ak-is2.net |
 | filter-eu.appmonsta.ai | appmonsta.fs-eu.ak-is2.net |
@@ -3412,6 +3482,7 @@
 | rtb-eu-v4.appmonsta.ai | appmonsta.rtb-eu-v4.ak-is2.net |
 | rtb-eu.appmonsta.ai | appmonsta.rtb-eu.ak-is2.net |
 | rtb-useast-v4.appmonsta.ai | appmonsta.rtb-useast-v4.ak-is2.net |
+| win-rtb2-apac.appmonsta.ai | appmonsta.win-apac.ak-is2.net |
 | win-rtb2-uswest.appmonsta.ai | appmonsta.win-uswest.ak-is2.net |
 | xml-eu-v4.appmonsta.ai | appmonsta.xml-eu-v4.ak-is2.net |
 | xml-v4.appmonsta.ai | appmonsta.xml-v4.ak-is2.net |
@@ -3421,7 +3492,7 @@
 | rtb-eu.appocean.media | appocean.rtb-eu.ak-is2.net |
 | rtb-useast.appocean.media | appocean.rtb-useast.ak-is2.net |
 | rtb-uswest.appocean.media | appocean.rtb-uswest.ak-is2.net |
-| cpm.arbigo.com | arbigo.cpm.ak-is2.net |
+| static.appocean.media | appocean.xs.ak-is2.net |
 | rtb-useast.arbigo.com | arbigo.rtb-useast.ak-is2.net |
 | cpm.aserve1.net | aserve1.cpm.ak-is2.net |
 | rtb-apac-v4.aserve1.net | aserve1.rtb-apac-v4.ak-is2.net |
@@ -3434,7 +3505,6 @@
 | rtb-uswest.aserve1.net | aserve1.rtb-uswest.ak-is2.net |
 | static.aserve1.net | aserve1.xs.ak-is2.net |
 | rtb2-useast.assemblyexchange.com | assemblyexchange.rtb-as-useast.ak-is2.net |
-| static-rtb2.assemblyexchange.com | assemblyexchange.rtb-xs.ak-is2.net |
 | win-rtb2-useast.assemblyexchange.com | assemblyexchange.win-useast.ak-is2.net |
 | cpm.atunwadigital.com | atunwadigital.cpm.ak-is2.net |
 | static.audience.media | audience.xs.ak-is2.net |
@@ -3446,6 +3516,7 @@
 | xml-eu.audienceye.com | audienceye.xml-eu.ak-is2.net |
 | xml-v4.audienceye.com | audienceye.xml-v4.ak-is2.net |
 | xml.audienceye.com | audienceye.xml.ak-is2.net |
+| static.audienceye.com | audienceye.xs.ak-is2.net |
 | filter-eu.axiombid.com | axiombid.fs-eu.ak-is2.net |
 | filter.axiombid.com | axiombid.fs.ak-is2.net |
 | rtb-apac-v4.axiombid.com | axiombid.rtb-apac-v4.ak-is2.net |
@@ -3455,6 +3526,7 @@
 | rtb-useast.axiombid.com | axiombid.rtb-useast.ak-is2.net |
 | rtb-uswest-v4.axiombid.com | axiombid.rtb-uswest-v4.ak-is2.net |
 | xml-eu-v4.axiombid.com | axiombid.xml-eu-v4.ak-is2.net |
+| xml-eu.axiombid.com | axiombid.xml-eu.ak-is2.net |
 | xml-v4.axiombid.com | axiombid.xml-v4.ak-is2.net |
 | xml.axiombid.com | axiombid.xml.ak-is2.net |
 | filter.babanetwork.net | babanetwork.fs.ak-is2.net |
@@ -3466,6 +3538,7 @@
 | static.barcelona-backlinks.es | barcelona-backlinks.xs.ak-is2.net |
 | rtb-uswest.bat-ads.com | bat-ads.rtb-uswest.ak-is2.net |
 | login.bat-ads.com | bat-ads.ui.ak-is2.net |
+| static.bat-ads.com | bat-ads.xs.ak-is2.net |
 | serve.datacygnal.io | bcm.cpm.ak-is2.net |
 | apac.datacygnal.io | bcm.rtb-apac.ak-is2.net |
 | eu.datacygnal.io | bcm.rtb-eu.ak-is2.net |
@@ -3525,6 +3598,7 @@
 | rtb-eu.blastmedia.site | blastmedia.rtb-eu.ak-is2.net |
 | rtb-useast-v4.blastmedia.site | blastmedia.rtb-useast-v4.ak-is2.net |
 | rtb-useast.blastmedia.site | blastmedia.rtb-useast.ak-is2.net |
+| rtb-uswest-v4.blastmedia.site | blastmedia.rtb-uswest-v4.ak-is2.net |
 | xml-eu-v4.blasti.download | blastmedia.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.blastmedia.site | blastmedia.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.creziamedia.com | blastmedia.xml-eu-v4.ak-is2.net |
@@ -3558,6 +3632,7 @@
 | rtb-apac.boffoadsapi.com | boffoads.rtb-apac.ak-is2.net |
 | rtb-eu.boffoadsapi.com | boffoads.rtb-eu.ak-is2.net |
 | rtb-useast.boffoadsapi.com | boffoads.rtb-useast.ak-is2.net |
+| rtb-uswest.boffoadsapi.com | boffoads.rtb-uswest.ak-is2.net |
 | search.boffoads.com | boffoads.ui.ak-is2.net |
 | xml-eu-v4.boffoadsfeeds.com | boffoads.xml-eu-v4.ak-is2.net |
 | xml-eu.boffoadsfeeds.com | boffoads.xml-eu.ak-is2.net |
@@ -3570,7 +3645,6 @@
 | xml-eu.boldthrives.com | boldthrives.xml-eu.ak-is2.net |
 | xml-v4.boldthrives.com | boldthrives.xml-v4.ak-is2.net |
 | xml.boldthrives.com | boldthrives.xml.ak-is2.net |
-| static-rtb2.ak.bonanza.com | bonanza.rtb-xs.ak-is2.net |
 | static.ak.bonanza.com | bonanza.xs.ak-is2.net |
 | rtb-apac-v4-cosmos.branchdiscovery.io | branchdiscovery.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4-cosmos.branchdiscovery.io | branchdiscovery.rtb-eu-v4.ak-is2.net |
@@ -3581,7 +3655,6 @@
 | dsp.branch.io | branchdsp.rtb-ui.ak-is2.net |
 | static-rtb2.branchdsp.io | branchdsp.rtb-xs.ak-is2.net |
 | win-dsp.branchdsp.io | branchdsp.win-apac.ak-is2.net |
-| cpm.brightmountainads.com | brightmountainads.cpm.ak-is2.net |
 | rtb-eu.brightmountainads.com | brightmountainads.rtb-eu.ak-is2.net |
 | push.bvsrv.com | bvsrv.wp.ak-is2.net |
 | serv.bvsrv.com | bvsrv.xml.ak-is2.net |
@@ -3592,6 +3665,8 @@
 | xml-eu-v4.cachegorilla.com | cachegorilla.xml-eu-v4.ak-is2.net |
 | xml-v4.cachegorilla.com | cachegorilla.xml-v4.ak-is2.net |
 | xml.cachegorilla.com | cachegorilla.xml.ak-is2.net |
+| filter.cashlelo.com | cashlelo.fs.ak-is2.net |
+| xml-eu-v4.cashlelo.com | cashlelo.xml-eu-v4.ak-is2.net |
 | xml-v4.cashlelo.com | cashlelo.xml-v4.ak-is2.net |
 | xml.cashlelo.com | cashlelo.xml.ak-is2.net |
 | cpm.qortex.ai | catapultx.cpm.ak-is2.net |
@@ -3646,6 +3721,7 @@
 | filter.clicktoring.com | clicktoring.fs.ak-is2.net |
 | login.clicktoring.com | clicktoring.ui.ak-is2.net |
 | xml.clicktoring.com | clicktoring.xml.ak-is2.net |
+| xml-v4.clickvoraads.com | clickvoraads.xml-v4.ak-is2.net |
 | filter-eu.clixcrafts.com | clixcrafts.fs-eu.ak-is2.net |
 | filter.clixcrafts.com | clixcrafts.fs.ak-is2.net |
 | login.clixcrafts.com | clixcrafts.ui.ak-is2.net |
@@ -3711,6 +3787,7 @@
 | xml-v4.coupontic.com | coupontic.xml-v4.ak-is2.net |
 | xml.coupontic.com | coupontic.xml.ak-is2.net |
 | cpm.cpmme.com | cpmme.cpm.ak-is2.net |
+| rtb-apac-v4.cpmme.com | cpmme.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4.cpmme.com | cpmme.rtb-eu-v4.ak-is2.net |
 | rtb-eu.cpmme.com | cpmme.rtb-eu.ak-is2.net |
 | rtb-useast-v4.cpmme.com | cpmme.rtb-useast-v4.ak-is2.net |
@@ -3788,9 +3865,7 @@
 | rtb-useast-v4.didna.io | didna.rtb-useast-v4.ak-is2.net |
 | rtb-useast.didna.io | didna.rtb-useast.ak-is2.net |
 | rtb-uswest-v4.didna.io | didna.rtb-uswest-v4.ak-is2.net |
-| static.didna.io | didna.xs.ak-is2.net |
 | static.digiadglobal.com | digidayin.xs.ak-is2.net |
-| cpm.displayio.cloud | displayio.cpm.ak-is2.net |
 | rtb-apac.displayio.cloud | displayio.rtb-apac.ak-is2.net |
 | rtb-eu.displayio.cloud | displayio.rtb-eu.ak-is2.net |
 | rtb-useast.displayio.cloud | displayio.rtb-useast.ak-is2.net |
@@ -3900,14 +3975,12 @@
 | click-eu-v4.expdirclk.com | explorads.xml-eu-v4.ak-is2.net |
 | click-eu-v4.explodasclksec.com | explorads.xml-eu-v4.ak-is2.net |
 | click-eu-v4.expmclck.com | explorads.xml-eu-v4.ak-is2.net |
-| click-eu-v4.expmidclk.com | explorads.xml-eu-v4.ak-is2.net |
 | click-eu-v4.expmnclick.com | explorads.xml-eu-v4.ak-is2.net |
 | click-eu-v4.fiddirexol.com | explorads.xml-eu-v4.ak-is2.net |
 | click-eu-v4.mainexclkdir.com | explorads.xml-eu-v4.ak-is2.net |
 | click-eu-v4.mainexdircllk.com | explorads.xml-eu-v4.ak-is2.net |
 | click-eu-v4.mainexpclkdir.com | explorads.xml-eu-v4.ak-is2.net |
 | click-eu.celxkpdir.com | explorads.xml-eu.ak-is2.net |
-| click-eu.exmainclck.com | explorads.xml-eu.ak-is2.net |
 | click-eu.exmainclckback.com | explorads.xml-eu.ak-is2.net |
 | click-eu.explodasclksec.com | explorads.xml-eu.ak-is2.net |
 | click-eu.fiddirexol.com | explorads.xml-eu.ak-is2.net |
@@ -3928,7 +4001,6 @@
 | click-v4.explodclikmn.com | explorads.xml-v4.ak-is2.net |
 | click-v4.explodnmainclck.com | explorads.xml-v4.ak-is2.net |
 | click-v4.expmclck.com | explorads.xml-v4.ak-is2.net |
-| click-v4.expmidclk.com | explorads.xml-v4.ak-is2.net |
 | click-v4.expmnclick.com | explorads.xml-v4.ak-is2.net |
 | click-v4.expoclknu.com | explorads.xml-v4.ak-is2.net |
 | click-v4.fiddirexol.com | explorads.xml-v4.ak-is2.net |
@@ -3954,7 +4026,6 @@
 | click.expdirclk.com | explorads.xml.ak-is2.net |
 | click.explodasclksec.com | explorads.xml.ak-is2.net |
 | click.expmclck.com | explorads.xml.ak-is2.net |
-| click.expmidclk.com | explorads.xml.ak-is2.net |
 | click.expmnclick.com | explorads.xml.ak-is2.net |
 | click.expoclknu.com | explorads.xml.ak-is2.net |
 | click.fiddirexol.com | explorads.xml.ak-is2.net |
@@ -3967,7 +4038,6 @@
 | xml.explorads.com | explorads.xml.ak-is2.net |
 | xml.expplatdirect.com | explorads.xml.ak-is2.net |
 | xml.yolkdirxl.com | explorads.xml.ak-is2.net |
-| static-rtb2.extvlabs.com | extvlabs.rtb-xs.ak-is2.net |
 | xml.eyandfarto.org | eyandfarto.xml.ak-is2.net |
 | dash.ezmob.com | ezmob.aui.ak-is2.net |
 | cpm.ezmob.com | ezmob.cpm.ak-is2.net |
@@ -3993,6 +4063,8 @@
 | static.qualiclicks.com | ezmob.xs.ak-is2.net |
 | xml.fast-bid.com | fastbid.xml.ak-is2.net |
 | static.fast-bid.com | fastbid.xs.ak-is2.net |
+| rtb2-eu.dsp.feedad.com | feedad.rtb-as-eu.ak-is2.net |
+| dsp.feedad.com | feedad.rtb-ui.ak-is2.net |
 | cpm.felixads.com | felixads.cpm.ak-is2.net |
 | filter-eu.felixads.com | felixads.fs-eu.ak-is2.net |
 | filter.felixads.com | felixads.fs.ak-is2.net |
@@ -4005,7 +4077,6 @@
 | click-v4.mkrclkuno.com | fidmakr.xml-v4.ak-is2.net |
 | click-v4.rpdmkrclk.com | fidmakr.xml-v4.ak-is2.net |
 | xml.finevisit.com | finevisit.xml.ak-is2.net |
-| static.finevisit.com | finevisit.xs.ak-is2.net |
 | filter.flairadscpc.com | flairads.fs.ak-is2.net |
 | rtb-apac.rtbflairads.com | flairads.rtb-apac.ak-is2.net |
 | rtb-eu.rtbflairads.com | flairads.rtb-eu.ak-is2.net |
@@ -4036,7 +4107,6 @@
 | xml-v4.fmlabsonline.com | fmlabsonline.xml-v4.ak-is2.net |
 | xml.fmlabsonline.com | fmlabsonline.xml.ak-is2.net |
 | static.fmlabsonline.com | fmlabsonline.xs.ak-is2.net |
-| cpm.foremedia.net | foremedia.cpm.ak-is2.net |
 | filter-eu.foremedia.net | foremedia.fs-eu.ak-is2.net |
 | filter.foremedia.net | foremedia.fs.ak-is2.net |
 | rtb-apac.foremedia.net | foremedia.rtb-apac.ak-is2.net |
@@ -4057,12 +4127,14 @@
 | rtb-uswest.freevpnplanet.com | freevpnplanet.rtb-uswest.ak-is2.net |
 | xml-v4.freevpnplanet.com | freevpnplanet.xml-v4.ak-is2.net |
 | xml.freevpnplanet.com | freevpnplanet.xml.ak-is2.net |
+| static.freevpnplanet.com | freevpnplanet.xs.ak-is2.net |
 | filter-eu.frequency33media.com | frequency.fs-eu.ak-is2.net |
 | filter.frequency33media.com | frequency.fs.ak-is2.net |
 | rtb-apac-v4.frequency33media.com | frequency.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4.frequency33media.com | frequency.rtb-eu-v4.ak-is2.net |
 | rtb-eu.frequency33media.com | frequency.rtb-eu.ak-is2.net |
 | rtb-useast-v4.frequency33media.com | frequency.rtb-useast-v4.ak-is2.net |
+| rtb-uswest-v4.frequency33media.com | frequency.rtb-uswest-v4.ak-is2.net |
 | xml-eu-v4.frequency33media.com | frequency.xml-eu-v4.ak-is2.net |
 | xml-eu.frequency33media.com | frequency.xml-eu.ak-is2.net |
 | xml-v4.frequency33media.com | frequency.xml-v4.ak-is2.net |
@@ -4070,12 +4142,14 @@
 | rtb2-useast.gammae.com | gammae.rtb-as-useast.ak-is2.net |
 | cpm.geoadserver.com | geoadserver.cpm.ak-is2.net |
 | xml.getruncathoomes.com | getruncathoomes.xml.ak-is2.net |
-| filter.clicknestvector.xyz | giantpanda.fs.ak-is2.net |
 | filter.giantpanda.media | giantpanda.fs.ak-is2.net |
+| filter.metricdriftlane.xyz | giantpanda.fs.ak-is2.net |
 | xml-v4.clicknestvector.xyz | giantpanda.xml-v4.ak-is2.net |
 | xml-v4.giantpanda.media | giantpanda.xml-v4.ak-is2.net |
+| xml-v4.metricdriftlane.xyz | giantpanda.xml-v4.ak-is2.net |
 | xml.clicknestvector.xyz | giantpanda.xml.ak-is2.net |
 | xml.giantpanda.media | giantpanda.xml.ak-is2.net |
+| xml.metricdriftlane.xyz | giantpanda.xml.ak-is2.net |
 | cpm.globalsun.io | globalsun.cpm.ak-is2.net |
 | static.globalsun.io | globalsun.xs.ak-is2.net |
 | filter-eu.globlemath.com | globlemath.fs-eu.ak-is2.net |
@@ -4094,6 +4168,7 @@
 | xml-eu-v4.goclickz.net | goclickz.xml-eu-v4.ak-is2.net |
 | xml-v4.goclickz.net | goclickz.xml-v4.ak-is2.net |
 | xml.goclickz.net | goclickz.xml.ak-is2.net |
+| static.goclickz.net | goclickz.xs.ak-is2.net |
 | static.goodgamer.gg | goodgamer.xs.ak-is2.net |
 | rtb2-apac.gravityadnetwork.io | gravityadnetwork.rtb-as-apac.ak-is2.net |
 | rtb-useast-v4.greedygame.com | greedygame.rtb-useast-v4.ak-is2.net |
@@ -4140,8 +4215,10 @@
 | filter.icyads.com | icyads.fs.ak-is2.net |
 | login.icyads.com | icyads.ui.ak-is2.net |
 | xml.icyads.com | icyads.xml.ak-is2.net |
+| rtb2-useast.idcactivate.com | idcactivate.rtb-as-useast.ak-is2.net |
 | rtb-useast.imprexis.biz | imprexis.rtb-useast.ak-is2.net |
 | rtb-uswest.imprexis.biz | imprexis.rtb-uswest.ak-is2.net |
+| static.imprexis.biz | imprexis.xs.ak-is2.net |
 | xml.indeedtheriverw.org | indeedtheriverw.xml.ak-is2.net |
 | cpm.infinety.hu | infinety.cpm.ak-is2.net |
 | static.infinety.hu | infinety.xs.ak-is2.net |
@@ -4160,9 +4237,11 @@
 | xml-v4.infinity-info.com | infinity-info.xml-v4.ak-is2.net |
 | xml.infinity-info.com | infinity-info.xml.ak-is2.net |
 | cpm.infinityexplorers.com | infinityexplorers.cpm.ak-is2.net |
+| rtb-apac-v4.infinityexplorers.com | infinityexplorers.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4.infinityexplorers.com | infinityexplorers.rtb-eu-v4.ak-is2.net |
 | rtb-useast-v4.infinityexplorers.com | infinityexplorers.rtb-useast-v4.ak-is2.net |
 | rtb-useast.infinityexplorers.com | infinityexplorers.rtb-useast.ak-is2.net |
+| rtb-uswest-v4.infinityexplorers.com | infinityexplorers.rtb-uswest-v4.ak-is2.net |
 | xml.ingdowntheriv.com | ingdowntheriv.xml.ak-is2.net |
 | static.ingdowntheriv.com | ingdowntheriv.xs.ak-is2.net |
 | filter-eu.insightadz.com | insightadz.fs-eu.ak-is2.net |
@@ -4176,6 +4255,7 @@
 | filter-eu.intellectscoop.com | intellectscoop.fs-eu.ak-is2.net |
 | rtb-apac.intellectscoop.com | intellectscoop.rtb-apac.ak-is2.net |
 | rtb-useast.intellectscoop.com | intellectscoop.rtb-useast.ak-is2.net |
+| xml-v4.intellectscoop.com | intellectscoop.xml-v4.ak-is2.net |
 | xml.intellectscoop.com | intellectscoop.xml.ak-is2.net |
 | xml.ionsandinde.org | ionsandinde.xml.ak-is2.net |
 | static.iresandalarger.com | iresandalarger.xs.ak-is2.net |
@@ -4193,16 +4273,13 @@
 | rtb-eu-v4.jambojar.com | jambojar.rtb-eu-v4.ak-is2.net |
 | rtb-useast-v4.jambojar.com | jambojar.rtb-useast-v4.ak-is2.net |
 | rtb-uswest-v4.jambojar.com | jambojar.rtb-uswest-v4.ak-is2.net |
-| static-rtb2.jambojar.com | jambojar.rtb-xs.ak-is2.net |
 | win-rtb2-apac.jambojar.com | jambojar.win-apac.ak-is2.net |
 | win-rtb2-useast.jambojar.com | jambojar.win-useast.ak-is2.net |
 | win-rtb2-uswest.jambojar.com | jambojar.win-uswest.ak-is2.net |
 | xml.jambojar.com | jambojar.xml.ak-is2.net |
-| static.jambojar.com | jambojar.xs.ak-is2.net |
 | traffic.jotterads.com | jotterads.aui.ak-is2.net |
 | filter.jotterads.com | jotterads.fs.ak-is2.net |
 | login.jotterads.com | jotterads.ui.ak-is2.net |
-| static.jotterads.com | jotterads.xs.ak-is2.net |
 | rtb-uswest.keenkale.com | keenkale.rtb-uswest.ak-is2.net |
 | login.keenkale.com | keenkale.ui.ak-is2.net |
 | rtb-apac-v4.kigoras.com | kigoras.rtb-apac-v4.ak-is2.net |
@@ -4227,6 +4304,7 @@
 | cpm.kremsondigital.com | kremsondigital.cpm.ak-is2.net |
 | rtb2-uswest.kremsondigital.com | kremsondigital.rtb-as-uswest.ak-is2.net |
 | rtb-uswest.kremsondigital.com | kremsondigital.rtb-uswest.ak-is2.net |
+| static.kremsondigital.com | kremsondigital.xs.ak-is2.net |
 | filter-eu.kunvertads.com | kunvertads.fs-eu.ak-is2.net |
 | filter.kunvertads.com | kunvertads.fs.ak-is2.net |
 | rtb-apac-v4.kunvertads.com | kunvertads.rtb-apac-v4.ak-is2.net |
@@ -4268,6 +4346,10 @@
 | xml.leofback.com | leoyard.xml.ak-is2.net |
 | xml.leoyard.com | leoyard.xml.ak-is2.net |
 | xml.yojnxl.com | leoyard.xml.ak-is2.net |
+| filter-eu.liftmyads.com | liftmyads.fs-eu.ak-is2.net |
+| rtb-eu-v4.liftmyads.com | liftmyads.rtb-eu-v4.ak-is2.net |
+| rtb-useast-v4.liftmyads.com | liftmyads.rtb-useast-v4.ak-is2.net |
+| rtb-useast.liftmyads.com | liftmyads.rtb-useast.ak-is2.net |
 | xml-eu-v4.liftmyads.com | liftmyads.xml-eu-v4.ak-is2.net |
 | xml-v4.liftmyads.com | liftmyads.xml-v4.ak-is2.net |
 | filter.livinads.com | livinads.fs.ak-is2.net |
@@ -4293,6 +4375,7 @@
 | xml.lowsshehasnom.org | lowsshehasnom.xml.ak-is2.net |
 | xml.lthroughthesum.org | lthroughthesum.xml.ak-is2.net |
 | xml.lumo-bid.com | lumobid.xml.ak-is2.net |
+| static.made-bid.com | madebid.xs.ak-is2.net |
 | rtb-useast.mybiddertop.xyz | madopi.rtb-useast.ak-is2.net |
 | static-rtb2.madopi.com | madopi.rtb-xs.ak-is2.net |
 | static-rtb2.magixengage.com | magixengage.rtb-xs.ak-is2.net |
@@ -4307,7 +4390,6 @@
 | xml-v4.mediacpc.com | mediacpc.xml-v4.ak-is2.net |
 | click.mediacpc.com | mediacpc.xml.ak-is2.net |
 | xml.mediacpc.com | mediacpc.xml.ak-is2.net |
-| cpm.mediahubserver.com | mediahubserver.cpm.ak-is2.net |
 | rtb-useast.mediahubserver.com | mediahubserver.rtb-useast.ak-is2.net |
 | click-rtb2-eu.mediarise.io | mediarise.click-eu.ak-is2.net |
 | click-rtb2-useast.mediarise.io | mediarise.click-useast.ak-is2.net |
@@ -4345,11 +4427,15 @@
 | rtb2-apac.mobidick.xyz | mobidick.rtb-as-apac.ak-is2.net |
 | rtb2-eu.mobidick.xyz | mobidick.rtb-as-eu.ak-is2.net |
 | rtb2-useast.mobidick.xyz | mobidick.rtb-as-useast.ak-is2.net |
+| rtb2-uswest.mobidick.xyz | mobidick.rtb-as-uswest.ak-is2.net |
 | rtb-eu-v4.mobidick.xyz | mobidick.rtb-eu-v4.ak-is2.net |
 | rtb-eu.mobidick.xyz | mobidick.rtb-eu.ak-is2.net |
 | rtb-useast-v4.mobidick.xyz | mobidick.rtb-useast-v4.ak-is2.net |
+| rtb-uswest-v4.mobidick.xyz | mobidick.rtb-uswest-v4.ak-is2.net |
 | static-rtb2.mobidick.xyz | mobidick.rtb-xs.ak-is2.net |
+| win-rtb2-apac.mobidick.xyz | mobidick.win-apac.ak-is2.net |
 | win-rtb2-eu.mobidick.xyz | mobidick.win-eu.ak-is2.net |
+| win-rtb2-uswest.mobidick.xyz | mobidick.win-uswest.ak-is2.net |
 | cpm.mobipromote.com | mobipromote.cpm.ak-is2.net |
 | filter-eu.mobipromote.com | mobipromote.fs-eu.ak-is2.net |
 | filter.mobipromote.com | mobipromote.fs.ak-is2.net |
@@ -4364,6 +4450,7 @@
 | filter-eu.webmedxml.com | mobuppsrtb.fs-eu.ak-is2.net |
 | filter.mobuppsrtb.com | mobuppsrtb.fs.ak-is2.net |
 | filter.webmedxml.com | mobuppsrtb.fs.ak-is2.net |
+| rtb-apac-v4.webmedxml.com | mobuppsrtb.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4.webmedxml.com | mobuppsrtb.rtb-eu-v4.ak-is2.net |
 | rtb-eu.mobuppsrtb.com | mobuppsrtb.rtb-eu.ak-is2.net |
 | rtb-eu.webmedxml.com | mobuppsrtb.rtb-eu.ak-is2.net |
@@ -4393,7 +4480,6 @@
 | xml-v4.mrgrprf.biz | mrgrprf.xml-v4.ak-is2.net |
 | filter.myadcampaigns.com | myadcampaigns.fs.ak-is2.net |
 | xml.myadcampaigns.com | myadcampaigns.xml.ak-is2.net |
-| static.myadcampaigns.com | myadcampaigns.xs.ak-is2.net |
 | adkfilter.mybestclick.net | mybestclick.fs.ak-is2.net |
 | filter.adkmbc.com | mybestclick.fs.ak-is2.net |
 | adk.mybestclick.net | mybestclick.xml.ak-is2.net |
@@ -4401,9 +4487,6 @@
 | filter.mymedia.club | mymedia.fs.ak-is2.net |
 | login.mymedia.club | mymedia.ui.ak-is2.net |
 | xml.mymedia.club | mymedia.xml.ak-is2.net |
-| rtb-apac-v4.myrax.co | myrax.rtb-apac-v4.ak-is2.net |
-| rtb-eu-v4.myrax.co | myrax.rtb-eu-v4.ak-is2.net |
-| rtb-useast-v4.myrax.co | myrax.rtb-useast-v4.ak-is2.net |
 | static-rtb2.mytrendingstories.com | mytrendingstories.rtb-xs.ak-is2.net |
 | filter-eu.mywaymedia.co | mywaymedia.fs-eu.ak-is2.net |
 | filter.mywaymedia.co | mywaymedia.fs.ak-is2.net |
@@ -4421,6 +4504,7 @@
 | rtb-useast-v4.nasrev.com | nasrev.rtb-useast-v4.ak-is2.net |
 | rtb-useast.nasrev.com | nasrev.rtb-useast.ak-is2.net |
 | login.nasrev.com | nasrev.ui.ak-is2.net |
+| static.nasrev.com | nasrev.xs.ak-is2.net |
 | pushpop.nativeads.com | nativeads.aui.ak-is2.net |
 | click-dsp-east.nativeads.com | nativeads.click-useast.ak-is2.net |
 | dsp-eu.nativeads.com | nativeads.rtb-as-eu.ak-is2.net |
@@ -4435,9 +4519,6 @@
 | rtb.nativeads.com | nativeadsfeed.rtb.ak-is2.net |
 | akxml.nativeadsfeed.com | nativeadsfeed.xml.ak-is2.net |
 | akcdn.nativeadsfeed.com | nativeadsfeed.xs.ak-is2.net |
-| static.analytics.nativeads.com | nativeadsfeed.xs.ak-is2.net |
-| rtb-useast-v4.nebulaads.com | nebulaads.rtb-useast-v4.ak-is2.net |
-| static.nebulaads.com | nebulaads.xs.ak-is2.net |
 | click-rtb2-apac.newchallenges-dsp.com | newchallenges-dsp.click-apac.ak-is2.net |
 | click-rtb2-useast.newchallenges-dsp.com | newchallenges-dsp.click-useast.ak-is2.net |
 | rtb2-apac.newchallenges-dsp.com | newchallenges-dsp.rtb-as-apac.ak-is2.net |
@@ -4457,14 +4538,15 @@
 | xml-v4.nexrtb.com | nexrtb.xml-v4.ak-is2.net |
 | xml.nexrtb.com | nexrtb.xml.ak-is2.net |
 | rtb2-useast.nexsouk.com | nexsouk.rtb-as-useast.ak-is2.net |
-| static-rtb2.nexsouk.com | nexsouk.rtb-xs.ak-is2.net |
 | xml.nova-bid.com | novabid.xml.ak-is2.net |
 | static.oherbuttheds.com | oherbuttheds.xs.ak-is2.net |
 | rtb-uswest.omnijay.com | omnijay.rtb-uswest.ak-is2.net |
 | login.omnijay.com | omnijay.ui.ak-is2.net |
+| xml.onelyandbegan.org | onelyandbegan.xml.ak-is2.net |
 | static.onelyandbegan.org | onelyandbegan.xs.ak-is2.net |
 | click-rtb2-apac.onenativeads.com | onenativeads.click-apac.ak-is2.net |
 | rtb2-apac.onenativeads.com | onenativeads.rtb-as-apac.ak-is2.net |
+| static-rtb2.onenativeads.com | onenativeads.rtb-xs.ak-is2.net |
 | filter.online-adnetwork.com | online-adnetwork.fs.ak-is2.net |
 | www.online-adnetwork.com | online-adnetwork.ui.ak-is2.net |
 | cpm.oppa.media | oppamedia.cpm.ak-is2.net |
@@ -4481,8 +4563,8 @@
 | filter-eu.outpush.net | outpush.fs-eu.ak-is2.net |
 | xml-eu.outpush.net | outpush.xml-eu.ak-is2.net |
 | xml.ovewiththem.com | ovewiththem.xml.ak-is2.net |
-| static.ovewiththem.com | ovewiththem.xs.ak-is2.net |
 | xml-v4.paddlewaver.com | paddlewaver.xml-v4.ak-is2.net |
+| static.paddlewaver.com | paddlewaver.xs.ak-is2.net |
 | rtb-uswest.pareto21.com | pareto21.rtb-uswest.ak-is2.net |
 | static.pareto21.com | pareto21.xs.ak-is2.net |
 | xml.pathfather.com | pathfather.xml.ak-is2.net |
@@ -4556,6 +4638,7 @@
 | self.pressize.com | pressize.aui.ak-is2.net |
 | cpm.pressize.com | pressize.cpm.ak-is2.net |
 | filter-eu.pressize.com | pressize.fs-eu.ak-is2.net |
+| filter-eu.torchbrowser.com | pressize.fs-eu.ak-is2.net |
 | filter.pressize.com | pressize.fs.ak-is2.net |
 | filter.torchbrowser.com | pressize.fs.ak-is2.net |
 | live.casualreadings.com | pressize.fs.ak-is2.net |
@@ -4613,6 +4696,7 @@
 | filter-eu.pubsfusion.com | pubsfusion.fs-eu.ak-is2.net |
 | filter.pubsfusion.com | pubsfusion.fs.ak-is2.net |
 | rtb-eu.pubsfusion.com | pubsfusion.rtb-eu.ak-is2.net |
+| rtb-useast-v4.pubsfusion.com | pubsfusion.rtb-useast-v4.ak-is2.net |
 | rtb-uswest-v4.pubsfusion.com | pubsfusion.rtb-uswest-v4.ak-is2.net |
 | xml-eu-v4.pubsfusion.com | pubsfusion.xml-eu-v4.ak-is2.net |
 | xml-v4.pubsfusion.com | pubsfusion.xml-v4.ak-is2.net |
@@ -4687,6 +4771,7 @@
 | xml-v4.rain.ad | rain.xml-v4.ak-is2.net |
 | static.rain.ad | rain.xs.ak-is2.net |
 | cpm.rankortbdirect.com | rankorate.cpm.ak-is2.net |
+| filter.directrankcl.com | rankorate.fs.ak-is2.net |
 | filter.rankcldirect.com | rankorate.fs.ak-is2.net |
 | rtb-apac-v4.rnkclkres.com | rankorate.rtb-apac-v4.ak-is2.net |
 | rtb-apac.rnkclkres.com | rankorate.rtb-apac.ak-is2.net |
@@ -4725,7 +4810,6 @@
 | filter.readywind.media | readywind.fs.ak-is2.net |
 | rtb-useast.readywind.media | readywind.rtb-useast.ak-is2.net |
 | xml.readywind.media | readywind.xml.ak-is2.net |
-| static.realtime-bid.com | realtime-bid.xs.ak-is2.net |
 | filter-eu.regalrisemedia.com | regalrisemedia.fs-eu.ak-is2.net |
 | filter.regalrisemedia.com | regalrisemedia.fs.ak-is2.net |
 | login.regalrisemedia.com | regalrisemedia.ui.ak-is2.net |
@@ -4772,6 +4856,7 @@
 | push.revrtb.com | revrtb.wp.ak-is2.net |
 | xml.revrtb.com | revrtb.xml.ak-is2.net |
 | xml.revrtb.net | revrtb.xml.ak-is2.net |
+| static.rewesbeginnywea.com | rewesbeginnywea.xs.ak-is2.net |
 | filter-eu.ripamatic.com | ripamatic.fs-eu.ak-is2.net |
 | filter.ripamatic.com | ripamatic.fs.ak-is2.net |
 | xml-eu-v4.ripamatic.com | ripamatic.xml-eu-v4.ak-is2.net |
@@ -4818,17 +4903,18 @@
 | dsp.rtbplatform.net | rtbplatform.ui.ak-is2.net |
 | static.rtbserve.io | rtbserve.xs.ak-is2.net |
 | rtb-useast-v4.smartadexchange.net | rtbsmartadexchange.rtb-useast-v4.ak-is2.net |
-| static.smartadexchange.net | rtbsmartadexchange.xs.ak-is2.net |
 | rtb-eu-v4.thebidex.com | rtbthebidex.rtb-eu-v4.ak-is2.net |
 | rtb-useast-v4.thebidex.com | rtbthebidex.rtb-useast-v4.ak-is2.net |
+| www.thebidex.com | rtbthebidex.ui.ak-is2.net |
 | rtb-eu-v4.themediapoint.net | rtbthemediapoint.rtb-eu-v4.ak-is2.net |
 | rtb-eu.themediapoint.net | rtbthemediapoint.rtb-eu.ak-is2.net |
 | rtb-useast-v4.themediapoint.net | rtbthemediapoint.rtb-useast-v4.ak-is2.net |
 | rtb-useast.themediapoint.net | rtbthemediapoint.rtb-useast.ak-is2.net |
-| static.themediapoint.net | rtbthemediapoint.xs.ak-is2.net |
-| cpm.rtbwire.com | rtbwire.cpm.ak-is2.net |
+| www.themediapoint.net | rtbthemediapoint.ui.ak-is2.net |
 | login.rtbwire.com | rtbwire.ui.ak-is2.net |
 | static.rtbwire.com | rtbwire.xs.ak-is2.net |
+| rtb-eu-v4.rtbyield.com | rtbyield.rtb-eu-v4.ak-is2.net |
+| rtb-eu.rtbyield.com | rtbyield.rtb-eu.ak-is2.net |
 | xml.rtheyhadgone.org | rtheyhadgone.xml.ak-is2.net |
 | filter-eu.rtxfeed.com | rtxfeed.fs-eu.ak-is2.net |
 | filter.rtxfeed.com | rtxfeed.fs.ak-is2.net |
@@ -4846,6 +4932,7 @@
 | rtb-eu-v4.santaads.com | santaads.rtb-eu-v4.ak-is2.net |
 | rtb-eu.santaads.com | santaads.rtb-eu.ak-is2.net |
 | rtb-useast-v4.santaads.com | santaads.rtb-useast-v4.ak-is2.net |
+| rtb-uswest-v4.santaads.com | santaads.rtb-uswest-v4.ak-is2.net |
 | xml-v4.santaads.com | santaads.xml-v4.ak-is2.net |
 | xml.santaads.com | santaads.xml.ak-is2.net |
 | static.santaads.com | santaads.xs.ak-is2.net |
@@ -4870,7 +4957,6 @@
 | search.semp.net | semp.xml.ak-is2.net |
 | xml.sflyingdownthe.com | sflyingdownthe.xml.ak-is2.net |
 | static.sflyingdownthe.com | sflyingdownthe.xs.ak-is2.net |
-| static.shenwhentheau.org | shenwhentheau.xs.ak-is2.net |
 | platform.showcasead.com | showcasead.aui.ak-is2.net |
 | filter.showcasead.com | showcasead.fs.ak-is2.net |
 | rtb-uswest.showcasead.com | showcasead.rtb-uswest.ak-is2.net |
@@ -4884,6 +4970,7 @@
 | rtb-useast.stringads.com | stringads.rtb-useast.ak-is2.net |
 | login.strongkeyword.com | strongkeyword.ui.ak-is2.net |
 | xml-v4.strongkeyword.com | strongkeyword.xml-v4.ak-is2.net |
+| cpm.strongmetrics.io | strongmetrics.cpm.ak-is2.net |
 | rtb-apac-v4.strongmetrics.io | strongmetrics.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4.strongmetrics.io | strongmetrics.rtb-eu-v4.ak-is2.net |
 | rtb-useast-v4.strongmetrics.io | strongmetrics.rtb-useast-v4.ak-is2.net |
@@ -4914,7 +5001,6 @@
 | xml-eu.techdoor.com | techdoor.xml-eu.ak-is2.net |
 | xml-v4.techdoor.com | techdoor.xml-v4.ak-is2.net |
 | xml.techdoor.com | techdoor.xml.ak-is2.net |
-| static.techdoor.com | techdoor.xs.ak-is2.net |
 | filter-eu.tenxads.com | tenxads.fs-eu.ak-is2.net |
 | filter.tenxads.com | tenxads.fs.ak-is2.net |
 | rtb-eu-v4.tenxads.com | tenxads.rtb-eu-v4.ak-is2.net |
@@ -4934,7 +5020,6 @@
 | xml-v4.teriflicmedia.com | teriflicmedia.xml-v4.ak-is2.net |
 | cpm.theardent.group | theardent.cpm.ak-is2.net |
 | static.theardent.group | theardent.xs.ak-is2.net |
-| cpm.thecdn.site | thecdn.cpm.ak-is2.net |
 | rtb2-eu.thecdn.site | thecdn.rtb-as-eu.ak-is2.net |
 | filter-eu.thenetwork18.com | thenetwork18.fs-eu.ak-is2.net |
 | filter.thenetwork18.com | thenetwork18.fs.ak-is2.net |
@@ -4973,10 +5058,12 @@
 | filter.topsolutionsmedia.com | topsolutionsmedia.fs.ak-is2.net |
 | rtb-eu-v4.topsolutionsmedia.com | topsolutionsmedia.rtb-eu-v4.ak-is2.net |
 | rtb-eu.topsolutionsmedia.com | topsolutionsmedia.rtb-eu.ak-is2.net |
+| rtb-useast-v4.topsolutionsmedia.com | topsolutionsmedia.rtb-useast-v4.ak-is2.net |
 | xml-eu-v4.topsolutionsmedia.com | topsolutionsmedia.xml-eu-v4.ak-is2.net |
 | xml-eu.topsolutionsmedia.com | topsolutionsmedia.xml-eu.ak-is2.net |
 | xml-v4.topsolutionsmedia.com | topsolutionsmedia.xml-v4.ak-is2.net |
 | xml.topsolutionsmedia.com | topsolutionsmedia.xml.ak-is2.net |
+| static.toro-bid.com | torobid.xs.ak-is2.net |
 | filter-eu.trackifyy.com | trackifyy.fs-eu.ak-is2.net |
 | filter.trackifyy.com | trackifyy.fs.ak-is2.net |
 | rtb-apac-v4.trackifyy.com | trackifyy.rtb-apac-v4.ak-is2.net |
@@ -5007,6 +5094,7 @@
 | xml-v4.trafficmoose.com | trafficmoose.xml-v4.ak-is2.net |
 | xml.trafficmoose.com | trafficmoose.xml.ak-is2.net |
 | dashboard.adjux.com | trafficsupplier.aui.ak-is2.net |
+| cpm.adjux.com | trafficsupplier.cpm.ak-is2.net |
 | filter.adjux.com | trafficsupplier.fs.ak-is2.net |
 | rtb-apac.adjux.com | trafficsupplier.rtb-apac.ak-is2.net |
 | rtb-eu.adjux.com | trafficsupplier.rtb-eu.ak-is2.net |
@@ -5025,10 +5113,9 @@
 | xml-eu-v4.tri.media | trimedia.xml-eu-v4.ak-is2.net |
 | xml-v4.tri.media | trimedia.xml-v4.ak-is2.net |
 | xml.tri.media | trimedia.xml.ak-is2.net |
-| static.tri.media | trimedia.xs.ak-is2.net |
 | login.trinytymedia.com | trinytymedia.ui.ak-is2.net |
-| static.trinytymedia.com | trinytymedia.xs.ak-is2.net |
 | cpm.tris.com | tris.cpm.ak-is2.net |
+| static.tris.com | tris.xs.ak-is2.net |
 | filter.tropintech.com | tropintech.fs.ak-is2.net |
 | xml-v4.tropintech.com | tropintech.xml-v4.ak-is2.net |
 | static.tshipanditlasted.org | tshipanditlasted.xs.ak-is2.net |
@@ -5044,7 +5131,6 @@
 | rtb-useast.unibots.in | unibots.rtb-useast.ak-is2.net |
 | rtb-uswest.unibots.in | unibots.rtb-uswest.ak-is2.net |
 | login.unibots.in | unibots.ui.ak-is2.net |
-| static.unibots.in | unibots.xs.ak-is2.net |
 | filter-eu.saturndynamic.pt | upperseeker.fs-eu.ak-is2.net |
 | filter.saturndynamic.pt | upperseeker.fs.ak-is2.net |
 | rtb-eu.saturndynamic.pt | upperseeker.rtb-eu.ak-is2.net |
@@ -5061,13 +5147,15 @@
 | xml.audiencedevelopers.com | userwave.xml.ak-is2.net |
 | xml.userwave.com | userwave.xml.ak-is2.net |
 | static.userwave.com | userwave.xs.ak-is2.net |
+| static.utaonforhaving.com | utaonforhaving.xs.ak-is2.net |
 | filter.valueklicks.com | valueklicks.fs.ak-is2.net |
 | xml.valueklicks.com | valueklicks.xml.ak-is2.net |
+| xml-eu-v4.vapa.co.in | vapa.xml-eu-v4.ak-is2.net |
 | xml-v4.vapa.co.in | vapa.xml-v4.ak-is2.net |
+| cpm.vashoot.com | vashoot.cpm.ak-is2.net |
 | filter.vashoot.com | vashoot.fs.ak-is2.net |
 | rtb2.vashoot.com | vashoot.rtb.ak-is2.net |
 | xml.vashoot.com | vashoot.xml.ak-is2.net |
-| static.vashoot.com | vashoot.xs.ak-is2.net |
 | xml.verafterabigyel.com | verafterabigyel.xml.ak-is2.net |
 | filter.admozartppc.com | vertoz.fs.ak-is2.net |
 | filter.admozartxml.com | vertoz.fs.ak-is2.net |
@@ -5083,9 +5171,7 @@
 | xml-eu.admozartxml.com | vertoz.xml-eu.ak-is2.net |
 | xml.admozartppc.com | vertoz.xml.ak-is2.net |
 | xml.admozartxml.com | vertoz.xml.ak-is2.net |
-| static.admozartexchange.com | vertoz.xs.ak-is2.net |
 | xml.verwasquitefu.org | verwasquitefu.xml.ak-is2.net |
-| cpm.vespymedia.com | vespymedia.cpm.ak-is2.net |
 | filter-eu.vespymedia.com | vespymedia.fs-eu.ak-is2.net |
 | jfilter.vespymedia.com | vespymedia.fs.ak-is2.net |
 | rtb-eu.vespymedia.com | vespymedia.rtb-eu.ak-is2.net |
@@ -5094,9 +5180,10 @@
 | login.vespymedia.com | vespymedia.ui.ak-is2.net |
 | xml-eu.vespymedia.com | vespymedia.xml-eu.ak-is2.net |
 | xml.vespymedia.com | vespymedia.xml.ak-is2.net |
-| static-rtb.vespymedia.com | vespymedia.xs.ak-is2.net |
 | static-xml.vespymedia.com | vespymedia.xs.ak-is2.net |
+| xml.vexa-bid.com | vexabid.xml.ak-is2.net |
 | cpm.videowalldirect.com | videowalldirect.cpm.ak-is2.net |
+| filter-eu.visionpeakmedia.com | visionpeakmedia.fs-eu.ak-is2.net |
 | filter.visionpeakmedia.com | visionpeakmedia.fs.ak-is2.net |
 | rtb-apac-v4.visionpeakmedia.com | visionpeakmedia.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4.visionpeakmedia.com | visionpeakmedia.rtb-eu-v4.ak-is2.net |
@@ -5188,7 +5275,6 @@
 | xml-eu.winkleads.com | winkleads.xml-eu.ak-is2.net |
 | xml-v4.winkleads.com | winkleads.xml-v4.ak-is2.net |
 | xml.winkleads.com | winkleads.xml.ak-is2.net |
-| static.winkleads.com | winkleads.xs.ak-is2.net |
 | static.wondenthaitings.com | wondenthaitings.xs.ak-is2.net |
 | dsp.brandlabs.ai | xapads.aui.ak-is2.net |
 | dsp.xapads.com | xapads.aui.ak-is2.net |
@@ -5240,6 +5326,7 @@
 | xml-eu-v4.xmlppc.net | xmlppc.xml-eu-v4.ak-is2.net |
 | xml-v4.xmlppc.net | xmlppc.xml-v4.ak-is2.net |
 | xml.xmlppc.net | xmlppc.xml.ak-is2.net |
+| static.xmlppc.net | xmlppc.xs.ak-is2.net |
 | filter-eu.smartadexchange.xyz | xmlsmartadexchange.fs-eu.ak-is2.net |
 | filter.smartadexchange.xyz | xmlsmartadexchange.fs.ak-is2.net |
 | xml-eu-v4.smartadexchange.xyz | xmlsmartadexchange.xml-eu-v4.ak-is2.net |
@@ -5248,7 +5335,9 @@
 | static.smartadexchange.xyz | xmlsmartadexchange.xs.ak-is2.net |
 | filter-eu.thebidex.net | xmlthebidex.fs-eu.ak-is2.net |
 | filter.thebidex.net | xmlthebidex.fs.ak-is2.net |
+| xml-eu-v4.thebidex.net | xmlthebidex.xml-eu-v4.ak-is2.net |
 | xml-v4.thebidex.net | xmlthebidex.xml-v4.ak-is2.net |
+| www.themediapoint.xyz | xmlthemediapoint.ui.ak-is2.net |
 | static.themediapoint.xyz | xmlthemediapoint.xs.ak-is2.net |
 | filter.xmlwiz.com | xmlwiz.fs.ak-is2.net |
 | xml.xmlwiz.com | xmlwiz.xml.ak-is2.net |
@@ -5257,6 +5346,8 @@
 | xml-eu-v4.xmlwolf.com | xmlwolf.xml-eu-v4.ak-is2.net |
 | xml-v4.xmlwolf.com | xmlwolf.xml-v4.ak-is2.net |
 | xml.xmlwolf.com | xmlwolf.xml.ak-is2.net |
+| filter.xtendad.com | xtendad.fs.ak-is2.net |
+| xml.xtendad.com | xtendad.xml.ak-is2.net |
 | xml.xyconversation.org | xyconversation.xml.ak-is2.net |
 | static.xyconversation.org | xyconversation.xs.ak-is2.net |
 | dsp.yeesshh.com | yeesshh.aui.ak-is2.net |
@@ -5272,6 +5363,7 @@
 | xml-eu-v4.oceanfall.xyz | yeesshh.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.springtides.xyz | yeesshh.xml-eu-v4.ak-is2.net |
 | xml-eu.newbluetrue.xyz | yeesshh.xml-eu.ak-is2.net |
+| xml-eu.wideblue.xyz | yeesshh.xml-eu.ak-is2.net |
 | go-v4.savethereef.xyz | yeesshh.xml-v4.ak-is2.net |
 | go-v4.splashandsunshine.com | yeesshh.xml-v4.ak-is2.net |
 | redir-v4.widebluetrue.xyz | yeesshh.xml-v4.ak-is2.net |
@@ -5308,9 +5400,11 @@
 | xml.yhisladyloveheh.org | yhisladyloveheh.xml.ak-is2.net |
 | filter-eu.yieldoz.com | yieldoz.fs-eu.ak-is2.net |
 | filter.yieldoz.com | yieldoz.fs.ak-is2.net |
+| rtb-apac-v4.yieldoz.com | yieldoz.rtb-apac-v4.ak-is2.net |
 | rtb-eu-v4.yieldoz.com | yieldoz.rtb-eu-v4.ak-is2.net |
 | rtb-eu.yieldoz.com | yieldoz.rtb-eu.ak-is2.net |
 | rtb-useast-v4.yieldoz.com | yieldoz.rtb-useast-v4.ak-is2.net |
+| rtb-useast.yieldoz.com | yieldoz.rtb-useast.ak-is2.net |
 | xml-v4.yieldoz.com | yieldoz.xml-v4.ak-is2.net |
 | xml.yieldoz.com | yieldoz.xml.ak-is2.net |
 | filter.yieldradius.io | yieldradius.fs.ak-is2.net |

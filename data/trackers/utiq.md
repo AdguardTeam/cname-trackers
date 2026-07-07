@@ -395,6 +395,7 @@
 | utiq.palladiumhotelgroup.com | frontend.prod.utiq-aws.net |
 | utiq.paris-normandie.fr | frontend.prod.utiq-aws.net |
 | utiq.paroledemamans.com | frontend.prod.utiq-aws.net |
+| utiq.paruvendu.fr | frontend.prod.utiq-aws.net |
 | utiq.paz-online.de | frontend.prod.utiq-aws.net |
 | utiq.pcgames.de | frontend.prod.utiq-aws.net |
 | utiq.pcgameshardware.de | frontend.prod.utiq-aws.net |
@@ -510,7 +511,6 @@
 | utiq.utest3-prod.work | frontend.prod.utiq-aws.net |
 | utiq.utopia.de | frontend.prod.utiq-aws.net |
 | utiq.varmatin.com | frontend.prod.utiq-aws.net |
-| utiq.verisure.fr | frontend.prod.utiq-aws.net |
 | utiq.viaggiamo.it | frontend.prod.utiq-aws.net |
 | utiq.viaoccitanie.tv | frontend.prod.utiq-aws.net |
 | utiq.vidaextra.com | frontend.prod.utiq-aws.net |
@@ -543,7 +543,6 @@
 | utiq.zeit.de | frontend.prod.utiq-aws.net |
 | vfde-fixed.mno.link | frontend.prod.utiq-aws.net |
 | vfes.mno.link | frontend.prod.utiq-aws.net |
-| vfit.mno.link | frontend.prod.utiq-aws.net |
 | vfuk.mno.link | frontend.prod.utiq-aws.net |
 | yesss-a1at.mno.link | frontend.prod.utiq-aws.net |
 | bgtfr-test.mno.link | frontend.test.utiq-aws.net |

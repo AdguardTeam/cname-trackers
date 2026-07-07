@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -343,7 +343,6 @@ content.biggerbooks.com CNAME .
 content.billdomain.com CNAME .
 content.billsupport.com CNAME .
 content.bnl.it CNAME .
-content.bnpparibas.net CNAME .
 content.byabcd.com CNAME .
 content.canadiantire.ca CNAME .
 content.certifid.com CNAME .
@@ -367,6 +366,7 @@ content.dwd.wisconsin.gov CNAME .
 content.ebanking-services.com CNAME .
 content.ecampus.com CNAME .
 content.egyptair.com CNAME .
+content.energbank.com CNAME .
 content.espace-client.hellobank.fr CNAME .
 content.etransfer.interac.ca CNAME .
 content.evisa.mofa.go.jp CNAME .
@@ -1188,7 +1188,6 @@ tags.emirates.com CNAME .
 tags.eq.iombank.com CNAME .
 tags.eq.natwestinternational.com CNAME .
 tags.eq.rbsinternational.com CNAME .
-tags.greenfeatheronline.com CNAME .
 tags.ipp-services.eu CNAME .
 tags.natwest.com CNAME .
 tags.nwolb.com CNAME .
@@ -1296,6 +1295,7 @@ tmcdn.betway.ca CNAME .
 tmcdn.betway.com CNAME .
 tmcdn.betway.de CNAME .
 tmcdn.betway.es CNAME .
+tmcdn.betway.ie CNAME .
 tmcdn.betway.mx CNAME .
 tmcdn.betwayarabia.com CNAME .
 tmcdn.betwayarabia1.com CNAME .
@@ -1442,7 +1442,6 @@ ww3.marlincapitalsolutions.com CNAME .
 ww3.peacsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
-www.content.bnpparibas.net CNAME .
 www.content.connexion-mabanque.bnpparibas CNAME .
 www.content.espace-client.hellobank.fr CNAME .
 www.content.hellobank.fr CNAME .

@@ -391,6 +391,7 @@ utiq.ozap.com
 utiq.palladiumhotelgroup.com
 utiq.paris-normandie.fr
 utiq.paroledemamans.com
+utiq.paruvendu.fr
 utiq.paz-online.de
 utiq.pcgames.de
 utiq.pcgameshardware.de
@@ -508,7 +509,6 @@ utiq.utest3-prod.work
 utiq.utest3.work
 utiq.utopia.de
 utiq.varmatin.com
-utiq.verisure.fr
 utiq.viaggiamo.it
 utiq.viaoccitanie.tv
 utiq.vidaextra.com
@@ -544,7 +544,6 @@ vfde-fixed6.mno.link
 vfdemsp.mno.link
 vfes.mno.link
 vfesmsp.mno.link
-vfit.mno.link
 vfuk.mno.link
 vmo2uk.mno.link
 yesss-a1at.mno.link

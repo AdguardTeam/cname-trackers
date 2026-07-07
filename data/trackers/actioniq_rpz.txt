@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1782212720795        ; Serial
+           1783345563180        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -69,7 +69,6 @@ meta-events.runreg.com CNAME .
 meta-events.skimag.com CNAME .
 meta-events.skireg.com CNAME .
 meta-events.thenaturx.com CNAME .
-meta-events.trailforks.com CNAME .
 meta-events.trailrunnermag.com CNAME .
 meta-events.triathlete.com CNAME .
 meta-events.trireg.com CNAME .
@@ -79,7 +78,7 @@ meta-events.womensrunning.com CNAME .
 meta-events.yellowstonepark.com CNAME .
 mr-in-staging.beginlearning.com CNAME .
 mr-in.beginlearning.com CNAME .
+mr-in.littlepassports.com CNAME .
 mr.olympics.com CNAME .
 mr.pinkbike.com CNAME .
 anx-new.littlepassports.com CNAME .
-mr-in.littlepassports.com CNAME .
