@@ -1,0 +1,38 @@
+name: CI
+
+description: Lints and tests the script on pull requests and pushes to master.
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+    paths-ignore:
+      - data/**
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-cname-trackers-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Lint and test
+    runs-on: [team-filters]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Lint and test via Docker
+        run: |
+          set -e -x
+
+          export DOCKER_BUILDKIT=1
+
+          docker build \
+            --file Dockerfile \
+            --progress plain \
+            --target test-output \
+            .

@@ -28,6 +28,7 @@ let grandWallMs = 0;
  * @param {boolean} [timedOut=false] whether it hit the hard timeout
  */
 const record = (elapsedMs, timedOut = false) => {
+    // eslint-disable-next-line no-restricted-syntax
     for (const c of [phase, grand]) {
         c.count += 1;
         c.cumulativeMs += elapsedMs;

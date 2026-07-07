@@ -11,8 +11,10 @@ const FETCH_CONCURRENCY = Number(process.env.FETCH_CONCURRENCY) || 5;
 
 // DNS CNAME knobs (src/helpers.js). Env-overridable; tune via dns-stats CI
 // output (qps / avg latency / timeouts).
-const DNS_TIMEOUT_MS = Number(process.env.DNS_TIMEOUT_MS) || (5 * 1000); // per-lookup hard timeout; without it an unresponsive resolver hangs the build
-const DNS_CONCURRENCY = Number(process.env.DNS_CONCURRENCY) || 500; // parallel lookups; ~500 is the throughput knee (~1000 qps), past it qps collapses
+// per-lookup hard timeout; without it an unresponsive resolver hangs the build
+const DNS_TIMEOUT_MS = Number(process.env.DNS_TIMEOUT_MS) || (5 * 1000);
+// parallel lookups; ~500 is the throughput knee (~1000 qps), past it qps collapses
+const DNS_CONCURRENCY = Number(process.env.DNS_CONCURRENCY) || 500;
 
 module.exports = {
     BACKUP_DATA_DIR,
