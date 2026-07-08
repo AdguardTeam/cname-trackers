@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -276,9 +276,11 @@ box.kryptotrejder.sk CNAME .
 champions.betubetu.com CNAME .
 collab.zdravetricko.cz CNAME .
 cooperation.mitochondriak.com CNAME .
+cooperation.mitochondriak.pl CNAME .
 cooperation.mitochondriak.sk CNAME .
 cryptonow.algomoneo.com CNAME .
 dbsaysnba4ygmwav.algomoneo.com CNAME .
+demo.affilbox.com CNAME .
 devaff.bitcoinzmenaren.sk CNAME .
 doporuc.hopsej.cz CNAME .
 doporuc.kingray.sk CNAME .
@@ -470,6 +472,7 @@ partner.cleanee.cz CNAME .
 partner.cocochoco-keratin.cz CNAME .
 partner.cokoladovnajanek.cz CNAME .
 partner.colosseumticket.cz CNAME .
+partner.colosseumticket.sk CNAME .
 partner.colway.cz CNAME .
 partner.comeflexoffice.cz CNAME .
 partner.crewmaldives.com CNAME .
@@ -523,7 +526,6 @@ partner.fabulo.sk CNAME .
 partner.farbe.cz CNAME .
 partner.ferratum.cz CNAME .
 partner.finstyle.cz CNAME .
-partner.firmin.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.fotoposta.sk CNAME .
 partner.gaymegastore.cz CNAME .
@@ -603,6 +605,7 @@ partner.martinreznicek.cz CNAME .
 partner.massivo.cz CNAME .
 partner.mbytshop.cz CNAME .
 partner.medela.cz CNAME .
+partner.medela.sk CNAME .
 partner.memolingo.cz CNAME .
 partner.metagram.sk CNAME .
 partner.mhsexshop.com CNAME .
@@ -677,6 +680,7 @@ partner.psidetektiv.cz CNAME .
 partner.pureharmony.cz CNAME .
 partner.resinstudio.cz CNAME .
 partner.rixo.sk CNAME .
+partner.robotworld.sk CNAME .
 partner.root.cz CNAME .
 partner.roztouzeny.cz CNAME .
 partner.ruzovyslon.cz CNAME .
@@ -685,6 +689,7 @@ partner.sambalshop.cz CNAME .
 partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
+partner.sculpturepainting.eu CNAME .
 partner.semor.cz CNAME .
 partner.sevio.cz CNAME .
 partner.sexshop51.cz CNAME .

@@ -334,6 +334,7 @@
 | tr.creative.hennessy.com | tracking.bp01.net |
 | tr.crm.intersportbypitte.com | tracking.bp01.net |
 | tr.crtl.espmp-aufr.net | tracking.bp01.net |
+| tr.cupra-fs-email.fr | tracking.bp01.net |
 | tr.customer-solutions.np6.com | tracking.bp01.net |
 | tr.customersurvey.geodis.com | tracking.bp01.net |
 | tr.cyberarchi.info | tracking.bp01.net |
@@ -382,6 +383,7 @@
 | tr.dossier-assurance.maaf.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
 | tr.e-mail.axa.fr | tracking.bp01.net |
+| tr.e-mail.axabanque.fr | tracking.bp01.net |
 | tr.e-travaux.info | tracking.bp01.net |
 | tr.e.entreprise-pm.fr | tracking.bp01.net |
 | tr.e.entreprise-pm.net | tracking.bp01.net |
@@ -728,6 +730,7 @@
 | tr.mktg.np6.com | tracking.bp01.net |
 | tr.ml-expo.usinenouvelle.com | tracking.bp01.net |
 | tr.ml.batiproduits.com | tracking.bp01.net |
+| tr.ml.equip-garage.fr | tracking.bp01.net |
 | tr.mm.infopro-digital.com | tracking.bp01.net |
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
 | tr.mnpd.espmp-agfr.net | tracking.bp01.net |
@@ -943,6 +946,7 @@
 | tr.newsletter.erenumerique.fr | tracking.bp01.net |
 | tr.newsletter.glenmorangie.co.uk | tracking.bp01.net |
 | tr.newsletter.huilesdolive.fr | tracking.bp01.net |
+| tr.newsletter.lafrancaisedescircuits.com | tracking.bp01.net |
 | tr.newsletter.leocare.eu | tracking.bp01.net |
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
 | tr.newsletter.lokeo.fr | tracking.bp01.net |

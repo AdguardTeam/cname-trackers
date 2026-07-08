@@ -199,6 +199,7 @@ data-189b3ff7e9.apps.iocnt.de
 data-190087bcf9.augsburger-allgemeine.de
 data-190087bcf9.fupa.net
 data-190087bcf9.intersana.de
+data-191b2429e8.quiz.de
 data-191b2429e8.rtl-hd.de
 data-191b2429e8.rtl.at
 data-191b2429e8.rtl.de
@@ -674,6 +675,7 @@ data-5492b7d422.sao.de
 data-54a2358d26.apps.iocnt.de
 data-54f7652a27.manager-magazin.de
 data-552667226c.apps.iocnt.de
+data-557fc65a33.coachingz.one
 data-557fc65a33.womenshealth.de
 data-5587ca71ff.bauhandwerk.de
 data-5598eaf2a3.apps.iocnt.de
@@ -772,6 +774,7 @@ data-60d896f23d.dnn.de
 data-60d896f23d.doebelner-allgemeine.de
 data-60d896f23d.eichsfelder-tageblatt.de
 data-60d896f23d.gnz.de
+data-60d896f23d.goettinger-tageblatt.de
 data-60d896f23d.haz.de
 data-60d896f23d.kieler-nachrichten.de
 data-60d896f23d.kn-online.de
@@ -990,6 +993,7 @@ data-7fb07b8d65.tab.de
 data-7fbde6a274.ticket24.at
 data-804560170e.leichtathletik.de
 data-8053aabdac.integrale-planung.net
+data-8059fc7d1b.apps.iocnt.de
 data-8062208042.apps.iocnt.de
 data-80b4928c00.procontra-online.de
 data-80b614ee0f.apps.iocnt.de
@@ -1307,6 +1311,7 @@ data-a7deba18e8.religionen-entdecken.de
 data-a7deba18e8.taufspruch.de
 data-a7deba18e8.trauervers.de
 data-a7deba18e8.trauspruch.de
+data-a7deba18e8.yeet.de
 data-a8074561d8.apps.iocnt.de
 data-a842dac709.apps.iocnt.de
 data-a85b10211f.rhein-neckar-zeitung.com
@@ -1391,6 +1396,7 @@ data-afd30fa9a3.apps.iocnt.de
 data-b0980db7ec.wiwo.de
 data-b0fd716f10.auto-medienportal.net
 data-b182afd830.it-times.de
+data-b19475ee82.focus.de
 data-b19475ee82.weather.com
 data-b19f3371de.songtexte.com
 data-b1ae357847.apps.iocnt.de
@@ -1428,6 +1434,7 @@ data-b7d0b4217b.autoscout24.ro
 data-b7d0b4217b.autoscout24.ru
 data-b7d0b4217b.autoscout24.se
 data-b7d20b3e3b.apps.iocnt.de
+data-b7fc5261e7.spreeradio.de
 data-b80f3dd5d8.rhein-neckar-zeitung.biz
 data-b80f3dd5d8.rhein-neckar-zeitung.com
 data-b80f3dd5d8.rhein-neckar-zeitung.de
@@ -1715,6 +1722,7 @@ data-deb04a4388.wb-trauer.de
 data-deb04a4388.westfalen-blatt.de
 data-deb04a4388.westfalen-blatt2.de
 data-deb04a4388.westfalenblatt.de
+data-ded8e2c5ce.tga-fachplaner.de
 data-df5a2bcc30.aerzteblatt.de
 data-df5a2bcc30.schaffrath-digital.de
 data-e0448d0e4a.herz-fuer-tiere.de
@@ -1726,6 +1734,7 @@ data-e16c65ad3c.antennevorarlberg.at
 data-e1f099aeb5.apps.iocnt.de
 data-e208ca4264.uci-kinowelt.de
 data-e25e89b95d.it-daily.net
+data-e28d5b2f77.wetter.live
 data-e337e2a6a8.kuechenplaner-magazin.de
 data-e337e2a6a8.xn--kchenplaner-magazin-59b.de
 data-e392d35d53.kino-zeit.de
@@ -1738,6 +1747,7 @@ data-e47ac57521.lokal26.de
 data-e4997adf31.bilanz.de
 data-e4997adf31.welt.de
 data-e4cfccd10c.freundin.de
+data-e4dc2eea88.kochbar.de
 data-e54efb31a3.aachen-gedenkt.de
 data-e54efb31a3.aachener-nachrichten.de
 data-e54efb31a3.aachener-zeitung.de
@@ -1951,6 +1961,7 @@ data-fa59f9f6b5.movieplexx.de
 data-fa59f9f6b5.neue-filmbuehne.de
 data-fa59f9f6b5.ostseekino-kuehlungsborn.de
 data-fa59f9f6b5.saarfilm.net
+data-fa59f9f6b5.uc-kino-ruegen.de
 data-fa59f9f6b5.wied-scala.de
 data-fa59f9f6b5.zinema-city.de
 data-faf3e659f2.apps.iocnt.de

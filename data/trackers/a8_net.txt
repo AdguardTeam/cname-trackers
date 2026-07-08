@@ -811,6 +811,7 @@
 ||a8cv.bugsfarm.jp^
 ||a8cv.bulk.co.jp^
 ||a8cv.busbookmark.jp^
+||a8cv.buysell-hunt.jp^
 ||a8cv.c-hikari.biz^
 ||a8cv.ca-rent.jp^
 ||a8cv.cacom.jp^
@@ -1091,7 +1092,6 @@
 ||a8cv.off-site.jp^
 ||a8cv.ogaland.com^
 ||a8cv.oisix.com^
-||a8cv.omakase-cyber-mimamori.net^
 ||a8cv.omni7.jp^
 ||a8cv.omobic.com^
 ||a8cv.omtogether.jp^

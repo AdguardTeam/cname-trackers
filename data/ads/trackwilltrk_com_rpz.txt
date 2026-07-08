@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,6 +41,7 @@ t.instrck.com CNAME .
 t.javhd-trk.com CNAME .
 t.leadtrck.space CNAME .
 t.loantrck.com CNAME .
+t.marktrck.space CNAME .
 t.maxtrck.shop CNAME .
 t.metrivo.website CNAME .
 t.nettrck.store CNAME .
@@ -48,10 +49,13 @@ t.pathtrck.website CNAME .
 t.peaktrck.uno CNAME .
 t.plantrck.space CNAME .
 t.primtrck.fun CNAME .
+t.proclicktrck.shop CNAME .
 t.quanttrck.space CNAME .
 t.rallytrck.website CNAME .
+t.scouttrck.site CNAME .
 t.snaptrckr.fun CNAME .
 t.sptrck.com CNAME .
+t.steptrck.site CNAME .
 t.tracknexa.space CNAME .
 t.trackora.space CNAME .
 t.trackpulse.uno CNAME .

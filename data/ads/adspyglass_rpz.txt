@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ $TTL 300
 4k.fanza18r.online CNAME .
 4k6.4kporn.xxx CNAME .
 4tdmwljd.xyz CNAME .
+4xh3.lhdyq.site CNAME .
 527tollv.xyz CNAME .
 5475feaab.clicknplay.to CNAME .
 58745.clicknplay.to CNAME .
@@ -606,6 +607,7 @@ integration-insight.bloblohub.com CNAME .
 intimatediary.com CNAME .
 io.fapnado.xxx CNAME .
 io.fapnow.xxx CNAME .
+ioruwh09.xyz CNAME .
 ip176-194.bloblohub.com CNAME .
 ironyjav09212026.shop CNAME .
 islamonline24.hubhubhub.name CNAME .
@@ -747,6 +749,7 @@ notonthebedsheets.com CNAME .
 npbvqqkpuele.cdnvideo3.com CNAME .
 nsl.ruidhs.cfd CNAME .
 nssvtq4w.xyz CNAME .
+nv87o64o.xyz CNAME .
 nx7.hdxxxclips.com CNAME .
 o.48tube.com CNAME .
 o.octoberads.space CNAME .
@@ -934,6 +937,7 @@ srv.biigo.xyz CNAME .
 ssp.asiaflix.net CNAME .
 st.asiaxbit.com CNAME .
 stacy.hubhubhub.name CNAME .
+stage.bloblohub.com CNAME .
 static.bucketflare.xyz CNAME .
 static.cloud-suites.xyz CNAME .
 static.content-sync.xyz CNAME .
@@ -1049,6 +1053,7 @@ www.bigboy.monster CNAME .
 www.bloblohub.com CNAME .
 www.blyger.hubhubhub.name CNAME .
 www.budlite.hubhubhub.name CNAME .
+www.c.bloblohub.com CNAME .
 www.cephei-b.com CNAME .
 www.cmpsci.hubhubhub.name CNAME .
 www.creta.hubhubhub.name CNAME .
@@ -1115,7 +1120,6 @@ xzqw.4wank.com CNAME .
 y.crazyporn.xxx CNAME .
 y.sphinxtube.com CNAME .
 y2ehvxgs.xyz CNAME .
-y6zqw.boyspornpics.com CNAME .
 y7bo6nwk.xyz CNAME .
 yaanom.tentenhunukwa.space CNAME .
 yegprnemph.creativelandings.xyz CNAME .

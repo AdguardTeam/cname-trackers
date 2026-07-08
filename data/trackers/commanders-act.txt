@@ -5,6 +5,7 @@
 ||data.decathlon.fr^
 ||data.decathlon.it^
 ||data.decathlon.pl^
+||data.e-immobilier.credit-agricole.fr^
 ||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
@@ -20,7 +21,6 @@
 ||tc.europcar.com^
 ||tc.europcar.com.au^
 ||tc.europcar.de^
-||configure.adlermode.com^
-||data.e-immobilier.credit-agricole.fr^
 ||tc.europcar.es^
 ||tcdata.fnac.com^
+||configure.adlermode.com^

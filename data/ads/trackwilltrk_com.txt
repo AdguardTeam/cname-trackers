@@ -30,6 +30,7 @@
 ||t.javhd-trk.com^
 ||t.leadtrck.space^
 ||t.loantrck.com^
+||t.marktrck.space^
 ||t.maxtrck.shop^
 ||t.metrivo.website^
 ||t.nettrck.store^
@@ -37,10 +38,13 @@
 ||t.peaktrck.uno^
 ||t.plantrck.space^
 ||t.primtrck.fun^
+||t.proclicktrck.shop^
 ||t.quanttrck.space^
 ||t.rallytrck.website^
+||t.scouttrck.site^
 ||t.snaptrckr.fun^
 ||t.sptrck.com^
+||t.steptrck.site^
 ||t.tracknexa.space^
 ||t.trackora.space^
 ||t.trackpulse.uno^

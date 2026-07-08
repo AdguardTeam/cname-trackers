@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -362,6 +362,7 @@ $TTL 300
 3493753.notifysrv.com CNAME .
 3498081.notifysrv.com CNAME .
 3501655.notify6.com CNAME .
+3505119.notify6.com CNAME .
 3505127.notify6.com CNAME .
 3505141.notify6.com CNAME .
 3505883.notifysrv.com CNAME .
@@ -619,6 +620,7 @@ $TTL 300
 4130286.notify6.com CNAME .
 4131834.notify6.com CNAME .
 4144426.notify6.com CNAME .
+4146746.notify6.com CNAME .
 4146994.notify6.com CNAME .
 4149128.notify6.com CNAME .
 4149216.notify6.com CNAME .
@@ -650,6 +652,7 @@ $TTL 300
 4211854.notify6.com CNAME .
 4212982.notify6.com CNAME .
 4214522.notify6.com CNAME .
+4220540.notify6.com CNAME .
 4229036.notify6.com CNAME .
 4231374.notify6.com CNAME .
 4255510.notify6.com CNAME .
@@ -783,10 +786,12 @@ a.brilmaver.com CNAME .
 a.cant3am.com CNAME .
 a.chmsrv.com CNAME .
 a.crme7srv.com CNAME .
+a.etology.com CNAME .
 a.eunow4u.com CNAME .
-a.flirtads.net CNAME .
 a.gentlefieldpattern.com CNAME .
 a.happyleafmotion.com CNAME .
+a.hkartg.com CNAME .
+a.humnert.com CNAME .
 a.klico.link CNAME .
 a.ma3ion.com CNAME .
 a.mikbaken.com CNAME .
@@ -796,6 +801,7 @@ a.ns.notifysrv.com CNAME .
 a.pinkads.org CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
+a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
 a.t5z3w0p.com CNAME .
 a.tf4srv.com CNAME .
@@ -825,6 +831,7 @@ andy.notifysrv.com CNAME .
 aphrodite.notifysrv.com CNAME .
 api.adxnow.com CNAME .
 api.eunow4u.com CNAME .
+api.klico.co CNAME .
 api.tf4srv.com CNAME .
 api.trafficfactory.com CNAME .
 api.valuemedia-ltd.com CNAME .
@@ -1249,6 +1256,7 @@ www.4465254.notify6.com CNAME .
 www.5wh.co.zw3459455.notify6.com CNAME .
 www.8.notify.bizonads-ssp.com CNAME .
 www.android.notifysrv.com CNAME .
+www.az6a8nmuz5vbrgd2.exasrv.com CNAME .
 www.exaapi.com CNAME .
 www.exasrv.com CNAME .
 www.feedback.notifysrv.com CNAME .
@@ -1261,8 +1269,5 @@ www.voltcp.3323174.notifysrv.com CNAME .
 zooplus.it3440403.notify6.com CNAME .
 zooplus.it3524339.notify6.com CNAME .
 zooplus.it4060008.notify6.com CNAME .
-a.etology.com CNAME .
-a.hkartg.com CNAME .
-a.humnert.com CNAME .
-a.r8lnet.com CNAME .
+a.flirtads.net CNAME .
 a.santabrowser.com CNAME .

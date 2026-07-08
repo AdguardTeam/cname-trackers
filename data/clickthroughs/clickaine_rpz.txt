@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -107,6 +107,7 @@ station54k.brandnewapp.pro CNAME .
 v040419.badjojo.com CNAME .
 web5603.brandnewapp.pro CNAME .
 webmail.brandnewapp.pro CNAME .
+wl0nmmdg95w6.s4.rtnews.pro CNAME .
 wp.brandnewapp.pro CNAME .
 www.brandnewapp.pro CNAME .
 www.daws4-3.brandnewapp.pro CNAME .

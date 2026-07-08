@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -822,6 +822,7 @@ a8cv.brush-up.jp CNAME .
 a8cv.bugsfarm.jp CNAME .
 a8cv.bulk.co.jp CNAME .
 a8cv.busbookmark.jp CNAME .
+a8cv.buysell-hunt.jp CNAME .
 a8cv.c-hikari.biz CNAME .
 a8cv.ca-rent.jp CNAME .
 a8cv.cacom.jp CNAME .
@@ -1102,7 +1103,6 @@ a8cv.ococorozashi.com CNAME .
 a8cv.off-site.jp CNAME .
 a8cv.ogaland.com CNAME .
 a8cv.oisix.com CNAME .
-a8cv.omakase-cyber-mimamori.net CNAME .
 a8cv.omni7.jp CNAME .
 a8cv.omobic.com CNAME .
 a8cv.omtogether.jp CNAME .

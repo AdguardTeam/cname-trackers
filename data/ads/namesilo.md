@@ -15,6 +15,7 @@
 ### Rarely active trackers
 
 * 1208818836.rsc.cdn77.org
+* viwbpyx6.ad1n.net
 
 ## Cloaking domains
 
@@ -26,6 +27,7 @@
 | a.advantageclicks.net | 1208818836.rsc.cdn77.org |
 | a.advertrek.com | 1208818836.rsc.cdn77.org |
 | a.allureanews.com | 1208818836.rsc.cdn77.org |
+| a.am7srv.com | 1208818836.rsc.cdn77.org |
 | a.asvsm.com | 1208818836.rsc.cdn77.org |
 | a.b2bstars.com | 1208818836.rsc.cdn77.org |
 | a.b7q9v8z.com | 1208818836.rsc.cdn77.org |
@@ -418,6 +420,7 @@
 | 3493753.notifysrv.com | tk6if76q.ab1n.net |
 | 3498081.notifysrv.com | tk6if76q.ab1n.net |
 | 3501655.notify6.com | tk6if76q.ab1n.net |
+| 3505119.notify6.com | tk6if76q.ab1n.net |
 | 3505127.notify6.com | tk6if76q.ab1n.net |
 | 3505141.notify6.com | tk6if76q.ab1n.net |
 | 3505883.notifysrv.com | tk6if76q.ab1n.net |
@@ -675,6 +678,7 @@
 | 4130286.notify6.com | tk6if76q.ab1n.net |
 | 4131834.notify6.com | tk6if76q.ab1n.net |
 | 4144426.notify6.com | tk6if76q.ab1n.net |
+| 4146746.notify6.com | tk6if76q.ab1n.net |
 | 4146994.notify6.com | tk6if76q.ab1n.net |
 | 4149128.notify6.com | tk6if76q.ab1n.net |
 | 4149216.notify6.com | tk6if76q.ab1n.net |
@@ -706,6 +710,7 @@
 | 4211854.notify6.com | tk6if76q.ab1n.net |
 | 4212982.notify6.com | tk6if76q.ab1n.net |
 | 4214522.notify6.com | tk6if76q.ab1n.net |
+| 4220540.notify6.com | tk6if76q.ab1n.net |
 | 4229036.notify6.com | tk6if76q.ab1n.net |
 | 4231374.notify6.com | tk6if76q.ab1n.net |
 | 4255510.notify6.com | tk6if76q.ab1n.net |
@@ -1230,6 +1235,7 @@
 | www.5wh.co.zw3459455.notify6.com | tk6if76q.ab1n.net |
 | www.8.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | www.android.notifysrv.com | tk6if76q.ab1n.net |
+| www.az6a8nmuz5vbrgd2.exasrv.com | tk6if76q.ab1n.net |
 | www.exasrv.com | tk6if76q.ab1n.net |
 | www.feedback.notifysrv.com | tk6if76q.ab1n.net |
 | www.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
@@ -1244,11 +1250,16 @@
 | s.allureanews.com | tk6if76r.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
 | admin.adsession.com | v3j9t5q9.ab1n.net |
+| admin.adxnow.com | v3j9t5q9.ab1n.net |
 | admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
+| admin.landingtrk.com | v3j9t5q9.ab1n.net |
 | admin.rocoads.net | v3j9t5q9.ab1n.net |
 | admin.traf-gold.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
+| admin.vrumeads.com | v3j9t5q9.ab1n.net |
+| s.dsjbna.com | viwbpyx6.ad1n.net |
+| s.dsqqnt.com | viwbpyx6.ad1n.net |
 | a.18ramp.com | w2u4v9e1.ab1n.net |
 | a.6hd49jng.com | w2u4v9e1.ab1n.net |
 | a.adsession.com | w2u4v9e1.ab1n.net |
@@ -1263,10 +1274,12 @@
 | a.cant3am.com | w2u4v9e1.ab1n.net |
 | a.chmsrv.com | w2u4v9e1.ab1n.net |
 | a.crme7srv.com | w2u4v9e1.ab1n.net |
+| a.etology.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
-| a.flirtads.net | w2u4v9e1.ab1n.net |
 | a.gentlefieldpattern.com | w2u4v9e1.ab1n.net |
 | a.happyleafmotion.com | w2u4v9e1.ab1n.net |
+| a.hkartg.com | w2u4v9e1.ab1n.net |
+| a.humnert.com | w2u4v9e1.ab1n.net |
 | a.klico.link | w2u4v9e1.ab1n.net |
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.mikbaken.com | w2u4v9e1.ab1n.net |
@@ -1274,6 +1287,7 @@
 | a.pinkads.org | w2u4v9e1.ab1n.net |
 | a.playa.to | w2u4v9e1.ab1n.net |
 | a.q88z1s3.com | w2u4v9e1.ab1n.net |
+| a.r8lnet.com | w2u4v9e1.ab1n.net |
 | a.rocoads.net | w2u4v9e1.ab1n.net |
 | a.t5z3w0p.com | w2u4v9e1.ab1n.net |
 | a.tf4srv.com | w2u4v9e1.ab1n.net |
@@ -1296,9 +1310,11 @@
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.vrumeads.com | x0xmrxm4.ab1n.net |
+| admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | adrepository.opoxv.com | x0xmrxm4.ab1n.net |
 | api.adxnow.com | x0xmrxm4.ab1n.net |
 | api.eunow4u.com | x0xmrxm4.ab1n.net |
+| api.klico.co | x0xmrxm4.ab1n.net |
 | api.tf4srv.com | x0xmrxm4.ab1n.net |
 | api.valuemedia-ltd.com | x0xmrxm4.ab1n.net |
 | api.vrumeads.com | x0xmrxm4.ab1n.net |

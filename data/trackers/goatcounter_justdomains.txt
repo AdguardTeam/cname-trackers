@@ -13,6 +13,7 @@ analytics.law.badriver-nsn.gov
 analytics.law.cityofsanmateo.org
 analytics.law.lco-nsn.gov
 analytics.law.mohican.com
+analytics.law.sanipueblo.org
 analytics.law.tmchippewa.com
 analytics.law.umitribe.org
 analytics.leespace.co
@@ -43,6 +44,7 @@ gc.mindenugyved.hu
 gc.noscirep.com
 gc.sanyamkapoor.com
 gc.securitydungeon.sk
+gc.suivi-enfant.max-sens-conseil.fr
 gc.tbx.at
 github.gpuzelenograd.cloudns.be
 go.d8a.org
@@ -56,6 +58,7 @@ goatcounter.blu3id.uk
 goatcounter.codinggrace.com
 goatcounter.eventgeek.ie
 goatcounter.gamecraft.it
+goatcounter.gumarapus.com
 goatcounter.irishbornchinese.com
 goatcounter.repozitor.com
 goatcounter.thedave.dev
@@ -80,12 +83,13 @@ stats.apitman.com
 stats.arredofrigo.net
 stats.artero.dev
 stats.artur-rodrigues.com
+stats.azeroths-most-wanted.eu.org
 stats.benjaminmorris.com
 stats.bestasciitable.com
 stats.beyondthesprawl.com
-stats.boredkevin.com
 stats.brandontoner.ca
 stats.brendanhanke.com
+stats.carlomega.it
 stats.cassie.omg.lol
 stats.celerry.com
 stats.certidiritti.org
@@ -99,9 +103,12 @@ stats.cynicalsignals.com
 stats.dalinwilliams.com
 stats.davidjuhasz.dev
 stats.degrandi.dev
+stats.denatlahi.se
 stats.docs.semio-tech.com
+stats.dwermke.com
 stats.eithel.org
 stats.fieald.com
+stats.fischr.org
 stats.forest-school.am
 stats.ghostiam.dev
 stats.gopikrishna.dev
@@ -114,6 +121,7 @@ stats.hinduismdebunked.com
 stats.homecompanion.io
 stats.how.wtf
 stats.ignatuque.xyz
+stats.interactiveprimer.com
 stats.isaacfreund.com
 stats.issues.cooking
 stats.jakebailey.dev

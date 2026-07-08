@@ -15,6 +15,7 @@
     * h-1382cmqz.online-metrix.net
     * h-15dxj0k6.online-metrix.net
     * h-16vzjy52.online-metrix.net
+    * h-1ca9a0d8.online-metrix.net
     * h-1d2p5fdt.online-metrix.net
     * h-1dham01c.online-metrix.net
     * h-1dwgke3d-1.online-metrix.net
@@ -170,7 +171,9 @@
     * h-6y7oe1nl.online-metrix.net
     * h-71i2mvka.online-metrix.net
     * h-73e8orvb.online-metrix.net
+    * h-748xxcci-1.online-metrix.net
     * h-748xxcci.online-metrix.net
+    * h-75h6hbtl.online-metrix.net
     * h-76s5kqie.online-metrix.net
     * h-76ussz09.online-metrix.net
     * h-7aid6tml.online-metrix.net
@@ -436,9 +439,9 @@
     * h-citizenscommercial.online-metrix.net
     * h-cjwi5pjh.online-metrix.net
     * h-clearcover.online-metrix.net
-    * h-cloudwalk.online-metrix.net
     * h-clubpremier.online-metrix.net
     * h-cm1yqrkq3.online-metrix.net
+    * h-cm1yqrkq6.online-metrix.net
     * h-cm889fny.online-metrix.net
     * h-cofidis-be.online-metrix.net
     * h-cofidis-es.online-metrix.net
@@ -487,6 +490,7 @@
     * h-delrebate.online-metrix.net
     * h-dghzbk34.online-metrix.net
     * h-dgzuja78.online-metrix.net
+    * h-dh7f0l28.online-metrix.net
     * h-dhbv8axx.online-metrix.net
     * h-dhgate.online-metrix.net
     * h-dhpay.online-metrix.net
@@ -900,6 +904,7 @@
 | rmetrix.superbid.net | h-1382cmqz.online-metrix.net |
 | lnday.sinclair.edu | h-15dxj0k6.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
+| content.bangkokabayan.com | h-1ca9a0d8.online-metrix.net |
 | content.sb.lt | h-1d2p5fdt.online-metrix.net |
 | transactionrisk.cashfree.com | h-1dham01c.online-metrix.net |
 | fp.ubagroup.com | h-1dwgke3d-1.online-metrix.net |
@@ -1194,7 +1199,9 @@
 | assets.harlandclarke.com | h-71i2mvka.online-metrix.net |
 | tmcontent.zoom.com | h-73e8orvb.online-metrix.net |
 | tmcontent.zoom.us | h-73e8orvb.online-metrix.net |
+| analytics.tpg.com.au | h-748xxcci-1.online-metrix.net |
 | analytics.vodafone.com.au | h-748xxcci.online-metrix.net |
+| poirot.chase.com | h-75h6hbtl.online-metrix.net |
 | cdna.kspers.gov | h-76s5kqie.online-metrix.net |
 | analyze.central1.cc | h-76ussz09.online-metrix.net |
 | apps.shift.com.au | h-7aid6tml.online-metrix.net |
@@ -1246,6 +1253,7 @@
 | info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
 | info.jackpotcity.co.za | h-7v30y901.online-metrix.net |
 | info.jackpotcitycasino.co.tz | h-7v30y901.online-metrix.net |
+| info.jackpotcitycasino.co.zm | h-7v30y901.online-metrix.net |
 | info.jackpotcitycasino.com.gh | h-7v30y901.online-metrix.net |
 | info.jackpotcitycasino.mw | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
@@ -1549,6 +1557,7 @@
 | identity.blueprintportal.com | h-bcbsak.online-metrix.net |
 | edge.privacy.com.br | h-bczdnqy9.online-metrix.net |
 | tm.beachbody.com | h-beachbody.online-metrix.net |
+| tm.shakeology.com | h-beachbody.online-metrix.net |
 | tm.benevity.org | h-benevity.online-metrix.net |
 | content.berluti.com | h-berluti.online-metrix.net |
 | tmx.bestbuy.com | h-bestbuy.online-metrix.net |
@@ -1701,9 +1710,9 @@
 | cdn17.citizensbank.com | h-citizenscommercial.online-metrix.net |
 | idhtm.bb.com.br | h-cjwi5pjh.online-metrix.net |
 | tm.clearcover.com | h-clearcover.online-metrix.net |
-| authorizer-data.infinitepay.io | h-cloudwalk.online-metrix.net |
 | content.clubpremier.com | h-clubpremier.online-metrix.net |
 | cdn2.services.fordmoney.co.uk | h-cm1yqrkq3.online-metrix.net |
+| cdn2.services.newcastle.co.uk | h-cm1yqrkq6.online-metrix.net |
 | validators.ifpsoyyo.co | h-cm889fny.online-metrix.net |
 | cdna-paymentncb.cofidis.be | h-cofidis-be.online-metrix.net |
 | www.cdna.cofidis.be | h-cofidis-be.online-metrix.net |
@@ -1773,6 +1782,7 @@
 | rebatecontent.finance.delaware.gov | h-delrebate.online-metrix.net |
 | mobilecontent.networks.prod.p0.phx-infra.com | h-dghzbk34.online-metrix.net |
 | bank.bnpl.c24.de | h-dgzuja78.online-metrix.net |
+| business.cebuanalhuillier.com | h-dh7f0l28.online-metrix.net |
 | img.getkansasbenefits.gov | h-dhbv8axx.online-metrix.net |
 | cybs.dhgate.com | h-dhgate.online-metrix.net |
 | cybs.dhpay.com | h-dhpay.online-metrix.net |
@@ -2303,6 +2313,7 @@
 | tmx.efsllc.com | h-wrightexpress.online-metrix.net |
 | tmx.prod.efsllc.com | h-wrightexpress.online-metrix.net |
 | tmx.tchek.com | h-wrightexpress.online-metrix.net |
+| tmx.wexonline.com | h-wrightexpress.online-metrix.net |
 | valcontent.securustech.net | h-wxwt2znm.online-metrix.net |
 | tooling.ynap.biz | h-ynap.biz.online-metrix.net |
 | w3.amegybank.com | h-zions.online-metrix.net |
@@ -2330,6 +2341,7 @@
 | metrix.motosport.com | h.online-metrix.net |
 | om.pgw.fcbarcelona.com | h.online-metrix.net |
 | payrisk-tmx.didiglobal.com | h.online-metrix.net |
+| tmx-profiling.healthsafe-id.com | h.online-metrix.net |
 | portal-fp-qa1.qa.threatmetrix.com | qa1-h.online-metrix.net |
 | invalid-qa2.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qa2.qa.threatmetrix.com | qa2-h.online-metrix.net |

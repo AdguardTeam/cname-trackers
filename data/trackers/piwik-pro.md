@@ -6,9 +6,9 @@
     * adnoc.piwik.pro
     * akvo.piwik.pro
     * amsterdam.piwik.pro
-    * ari.piwik.pro
     * aumago.piwik.pro
     * betus.piwik.pro
+    * ch-equans.piwik.pro
     * czgroep.piwik.pro
     * dealerspike-prod.piwik.pro
     * ec-prod-infra.piwik.pro
@@ -20,10 +20,10 @@
     * fitchconnect.piwik.pro
     * helen.piwik.pro
     * ind.piwik.pro
-    * kela.piwik.pro
     * klett.piwik.pro
     * koop.piwik.pro
     * kuka.piwik.pro
+    * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
     * netdriven.piwik.pro
@@ -63,11 +63,10 @@
 | www.webengage.ae | adnoc.piwik.pro |
 | analytics.akvo.org | akvo.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
-| stats.arinet.com | ari.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
 | piwik.slotsparadise.com | betus.piwik.pro |
-| piwik.vegasaces.com | betus.piwik.pro |
+| metrics.equans.ch | ch-equans.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
@@ -75,15 +74,14 @@
 | www.webanalytics-az.acc.fpfis.tech.ec.europa.eu | ec-test-infra.piwik.pro |
 | analytics.effectory.com | effectory.piwik.pro |
 | piwik.eib.org | eib.piwik.pro |
-| piwik.eif.org | eib.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
-| stat.kela.fi | kela.piwik.pro |
 | p.klett.de | klett.piwik.pro |
 | tagmanager.becop.nl | koop.piwik.pro |
 | p-k.kuka.com | kuka.piwik.pro |
+| stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
@@ -112,10 +110,8 @@
 | p-pan.triodos.com | pp-public-p-euw.piwik.pro |
 | piwik.eib.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
-| piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
-| piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
@@ -137,6 +133,7 @@
 | analytics.witglobal.net | pp-public-p-gwc.piwik.pro |
 | analytics.witglobal.net | pp-public-p-gwc.piwik.pro |
 | d.hypovbg.at | pp-public-p-gwc.piwik.pro |
+| d.hypovbg.at | pp-public-p-gwc.piwik.pro |
 | dnsbl.test.tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | logfiles.storck.com | pp-public-p-gwc.piwik.pro |
 | p.klett.de | pp-public-p-gwc.piwik.pro |
@@ -144,6 +141,7 @@
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | tagadmin.aumago.com | pp-public-p-gwc.piwik.pro |
+| metrics.equans.ch | pp-public-p-sweb.piwik.pro |
 | mphdd.multipharma.be | pp-public-p-sweb.piwik.pro |
 | mphdd.multipharma.be | pp-public-p-sweb.piwik.pro |
 | stats.manz.at | pp-public-p-sweb.piwik.pro |
@@ -168,6 +166,7 @@
 | logfiles.storck.com | storck.piwik.pro |
 | analysis-test.sozialversicherung.at | svc-test.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
+| d.hypovbg.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
 | pwk.tweedekamer.nl | tweedekamer.piwik.pro |
@@ -176,8 +175,6 @@
 | fse.piwikpro.pl | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
-| stat.kela.fi | uninstalled.piwik.pro |
-| stats.arinet.com | uninstalled.piwik.pro |
 | stats.arinet.com | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ clavecin.taokids.be CNAME .
 clavecin.taokids.com CNAME .
 col.casa.it CNAME .
 col.idealista.com CNAME .
+col.idealista.fr CNAME .
 col.idealista.it CNAME .
 col.idealista.pt CNAME .
 col.rentalia.com CNAME .
@@ -91,6 +92,7 @@ pa.skipass-laplagne.com CNAME .
 pa.skipass-lesmenuires.com CNAME .
 pa.skipass-meribel.com CNAME .
 pa.skipass-pralognan.com CNAME .
+pa.valdisere.ski CNAME .
 pa.walibi.be CNAME .
 pa.walibi.fr CNAME .
 pa.walibi.nl CNAME .

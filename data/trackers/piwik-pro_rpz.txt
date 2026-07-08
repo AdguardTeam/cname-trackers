@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,6 +34,7 @@ fse.piwikpro.pl CNAME .
 gmn.gloo.com CNAME .
 inzicht.cz.nl CNAME .
 logfiles.storck.com CNAME .
+metrics.equans.ch CNAME .
 mphdd.multipharma.be CNAME .
 p-k.kuka.com CNAME .
 p-pan.triodos.com CNAME .

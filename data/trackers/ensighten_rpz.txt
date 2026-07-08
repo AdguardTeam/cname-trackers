@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -300,6 +300,7 @@ p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
+privacy-digital.diip.co.uk CNAME .
 privacy-digital.infracapital.co.uk CNAME .
 privacy-digital.mandg.com CNAME .
 privacy-digital.mandgadvice.com CNAME .

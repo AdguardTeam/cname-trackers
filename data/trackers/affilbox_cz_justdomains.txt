@@ -265,9 +265,11 @@ box.kryptotrejder.sk
 champions.betubetu.com
 collab.zdravetricko.cz
 cooperation.mitochondriak.com
+cooperation.mitochondriak.pl
 cooperation.mitochondriak.sk
 cryptonow.algomoneo.com
 dbsaysnba4ygmwav.algomoneo.com
+demo.affilbox.com
 devaff.bitcoinzmenaren.sk
 doporuc.hopsej.cz
 doporuc.kingray.sk
@@ -459,6 +461,7 @@ partner.cleanee.cz
 partner.cocochoco-keratin.cz
 partner.cokoladovnajanek.cz
 partner.colosseumticket.cz
+partner.colosseumticket.sk
 partner.colway.cz
 partner.comeflexoffice.cz
 partner.crewmaldives.com
@@ -512,7 +515,6 @@ partner.fabulo.sk
 partner.farbe.cz
 partner.ferratum.cz
 partner.finstyle.cz
-partner.firmin.cz
 partner.forexrebel.net
 partner.fotoposta.sk
 partner.gaymegastore.cz
@@ -592,6 +594,7 @@ partner.martinreznicek.cz
 partner.massivo.cz
 partner.mbytshop.cz
 partner.medela.cz
+partner.medela.sk
 partner.memolingo.cz
 partner.metagram.sk
 partner.mhsexshop.com
@@ -666,6 +669,7 @@ partner.psidetektiv.cz
 partner.pureharmony.cz
 partner.resinstudio.cz
 partner.rixo.sk
+partner.robotworld.sk
 partner.root.cz
 partner.roztouzeny.cz
 partner.ruzovyslon.cz
@@ -674,6 +678,7 @@ partner.sambalshop.cz
 partner.santao.cz
 partner.scilearn.cz
 partner.scootshop.cz
+partner.sculpturepainting.eu
 partner.semor.cz
 partner.sevio.cz
 partner.sexshop51.cz

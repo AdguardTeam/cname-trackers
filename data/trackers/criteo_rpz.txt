@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -222,6 +222,7 @@ asssyy.icook.hk CNAME .
 assvbx.dearanna.co.kr CNAME .
 asvsuv.direct-running.fr CNAME .
 aswcat.allezloto.pl CNAME .
+asxjmh.ippolita.com CNAME .
 asxmfj.myintent.org CNAME .
 asxxlo.interflora.es CNAME .
 atblqu.rondorff.co.uk CNAME .
@@ -345,6 +346,7 @@ bdfrpz.pastbook.com CNAME .
 bdickh.globalgolf.com CNAME .
 bdkuth.smartbuyglasses.co.uk CNAME .
 bdmwjo.maremare-store.com CNAME .
+bdmxmu.kangolkids.co.kr CNAME .
 bdncut.pa-man.shop CNAME .
 bdokkq.themodernback.com CNAME .
 bdooev.4fit.ro CNAME .
@@ -683,6 +685,7 @@ chrooo.soccerandrugby.com CNAME .
 chyomb.vertbaudet.pt CNAME .
 cidtsw.prestige-voyages.com CNAME .
 cihdcr.kasa.co.kr CNAME .
+ciivtz.usinebureau.com CNAME .
 cikvwv.dsdamat.com CNAME .
 cilvph.smartbuyglasses.com CNAME .
 cixrak.5159289.jp CNAME .
@@ -844,9 +847,12 @@ cueohf.bulgarianforum.net CNAME .
 cueohf.foroactivo.com CNAME .
 cueohf.foroactivo.mx CNAME .
 cueohf.foroes.org CNAME .
+cueohf.forosactivos.net CNAME .
 cueohf.forum-canada.net CNAME .
 cueohf.forum-les-agrinautes.com CNAME .
 cueohf.forumactif.com CNAME .
+cueohf.forumactif.fr CNAME .
+cueohf.forumactif.org CNAME .
 cueohf.forumattivo.com CNAME .
 cueohf.forumattivo.it CNAME .
 cueohf.forumgratuit.be CNAME .
@@ -877,6 +883,7 @@ cuftub.myspirit.com.br CNAME .
 cupcbn.otrium.de CNAME .
 cupqkf.laimprentacg.com CNAME .
 cuqkju.under70.kr CNAME .
+curyhi.chuo-besthome.co.jp CNAME .
 curzuy.erfurter-jobanzeiger.de CNAME .
 cuwtqn.doseofcolors.com CNAME .
 cvclso.fust.ch CNAME .
@@ -902,6 +909,7 @@ cwyqok.svetrovnatek.cz CNAME .
 cxalid.turtlebeach.com CNAME .
 cxasci.sprzedajemy.pl CNAME .
 cxaurg.raycop.co.kr CNAME .
+cxcwhu.wantedind.com CNAME .
 cxdxgb.campanile.com CNAME .
 cxeugu.nationaltoolwarehouse.com CNAME .
 cxjuqd.floriosport.it CNAME .
@@ -941,6 +949,7 @@ dasych.drmartypets.com CNAME .
 daujvq.cme-kaigojob.com CNAME .
 daynkw.architecturaldepot.com CNAME .
 dayyfq.rapidonline.com CNAME .
+dazdmx.cobra.fr CNAME .
 dbdidv.lillianvernon.com CNAME .
 dbdkyh.jogunshop.com CNAME .
 dbhbgz.suitableshop.nl CNAME .
@@ -1102,6 +1111,7 @@ dolmxo.workport.co.jp CNAME .
 dopljl.noleggiosemplice.it CNAME .
 doqgzc.smartphoto.fi CNAME .
 doswwi.caringlasses.com CNAME .
+dpckzt.cuisine-etudiant.fr CNAME .
 dpckzt.mesrecettesfaciles.fr CNAME .
 dpovcw.the-body-shop.co.jp CNAME .
 dptgdj.usagi-online.com CNAME .
@@ -1172,6 +1182,7 @@ dzforp.buscape.com.br CNAME .
 dzjhok.teufelaudio.at CNAME .
 dzkygl.ullapopken.nl CNAME .
 dznhlb.thezam.co.kr CNAME .
+dzsevh.voyage-prive.com CNAME .
 dzszbb.homes.co.jp CNAME .
 dztatn.soulberry.jp CNAME .
 dzuijy.additionelle.com CNAME .
@@ -1231,6 +1242,7 @@ eennme.vidaxl.sk CNAME .
 eeoldm.onitsukatiger.com CNAME .
 eepxyp.dogu.pet CNAME .
 eerhrn.ellotte.com CNAME .
+eerlre.lacoste.es CNAME .
 eesexz.butyraj.pl CNAME .
 eetzod.bemol.com.br CNAME .
 eewdrt.fashiontofigure.com CNAME .
@@ -1326,6 +1338,7 @@ eniobs.moncler.com CNAME .
 enlvxl.sichime.com CNAME .
 enlyom.neonail.pl CNAME .
 enmlvg.plusdental.at CNAME .
+eofjtw.jjshouse.se CNAME .
 eofwfj.ria.com CNAME .
 eogflx.bodyluv.kr CNAME .
 eogkyj.aquascutum.jp CNAME .
@@ -1757,6 +1770,7 @@ gcwubi.happypancake.nl CNAME .
 gcwubi.happypancake.se CNAME .
 gcxiyx.inspireuplift.com CNAME .
 gczudi.iddental.co.kr CNAME .
+gdfkrt.cartorionobrasil.com.br CNAME .
 gdfsrd.itslighting.kr CNAME .
 gdjvkd.tenshoku.mynavi.jp CNAME .
 gdnewx.nzbembalagens.com.br CNAME .
@@ -1808,6 +1822,7 @@ ghwvib.azenco.es CNAME .
 ghzbut.fineart.no CNAME .
 giajam.xlmoto.nl CNAME .
 giiuxm.partioaitta.fi CNAME .
+gikpnm.medmartonline.com CNAME .
 gimuci.psychobunny.jp CNAME .
 giojhm.finya.de CNAME .
 givjdd.tilelife.co.jp CNAME .
@@ -1952,6 +1967,7 @@ gvsxuu.farmasi.sk CNAME .
 gvxnff.soulara.com.au CNAME .
 gvyyri.major-auto.ru CNAME .
 gwdsyh.toyotacenter.ru CNAME .
+gweqyd.fitadium.com CNAME .
 gwguyh.edreams.es CNAME .
 gwizal.yumbutter.com CNAME .
 gwqtum.philips.de CNAME .
@@ -2006,9 +2022,11 @@ hauzdj.quellogiusto.it CNAME .
 haxddr.crocieraonline.com CNAME .
 haxdym.min-breeder.com CNAME .
 hazawl.veke.fi CNAME .
+hazgyj.netahsilat.com CNAME .
 hbaazk.bukalapak.com CNAME .
 hbahrd.yogibo.jp CNAME .
 hblnqr.blackwidowpro.com CNAME .
+hboaop.harpreplacement.com CNAME .
 hbrhkr.photosi.com CNAME .
 hbszmh.essenza.ng CNAME .
 hbxiol.numberingwebsite.com CNAME .
@@ -2032,6 +2050,7 @@ hcklqa.ichiranstore.com CNAME .
 hclspy.gourmetencasa-tcm.com CNAME .
 hcmhqb.radpowerbikes.ca CNAME .
 hcnjaf.lavinia.es CNAME .
+hcpeqg.dare2b.ie CNAME .
 hcsmec.decathlon.pt CNAME .
 hczvwi.soldejaneiro.com CNAME .
 hdicsm.autoscout24.be CNAME .
@@ -2059,6 +2078,7 @@ hfmphs.loccitane.com CNAME .
 hfoghh.inter.it CNAME .
 hfolmr.office-com.jp CNAME .
 hfpwcx.supermercadosmas.com CNAME .
+hfsevu.simonds.com.au CNAME .
 hftccw.mrso.jp CNAME .
 hftzrg.123pneus.be CNAME .
 hgazlt.bonjoursagan.com CNAME .
@@ -2121,6 +2141,7 @@ hmeoda.restplatzboerse.ch CNAME .
 hmeqvp.essencemakeup.com CNAME .
 hmfnaj.notino.bg CNAME .
 hmgnjf.autoscout24.it CNAME .
+hmgwwe.web2carz.com CNAME .
 hmjyvj.glamira.it CNAME .
 hmlvxk.julian-fashion.com CNAME .
 hmpfja.up-t.jp CNAME .
@@ -2226,6 +2247,7 @@ hvteqk.snowleader.com CNAME .
 hvuihu.undiz.com CNAME .
 hvxymx.tui.pl CNAME .
 hwbjer.jjunheating.com CNAME .
+hwbjkd.skygate.co.jp CNAME .
 hwcias.medpets.be CNAME .
 hwoqqv.namjacloset.com CNAME .
 hwqdvz.cruises.com CNAME .
@@ -2428,6 +2450,7 @@ ipummv.pharao24.de CNAME .
 ipuqsk.mistral.com.br CNAME .
 ipyjxs.chowsangsang.com CNAME .
 iqbjqv.airarabia.com CNAME .
+iqcntw.kaitoriouji.jp CNAME .
 iqjrfm.housfy.com CNAME .
 iqjwrk.crocodile.co.jp CNAME .
 iqlhlp.ab-in-den-urlaub.ch CNAME .
@@ -2536,6 +2559,7 @@ jbwgha.luvp-planet.com CNAME .
 jcaqvl.twinset.com CNAME .
 jcblar.floridarentals.com CNAME .
 jcimgi.bestcuckoo.co.kr CNAME .
+jclari.idgarages.com CNAME .
 jcnedb.naracamicie.jp CNAME .
 jcplzp.lancel.com CNAME .
 jcpyyh.laredoute.es CNAME .
@@ -2902,6 +2926,7 @@ kkznoe.autouncle.it CNAME .
 kkznoe.autouncle.nl CNAME .
 kkzpde.aboutyou.lt CNAME .
 klavjn.niawigs.com CNAME .
+klcpof.lojasbecker.com CNAME .
 kldtop.spartoo.pl CNAME .
 klfutm.missamara.com.au CNAME .
 klhxyi.costakreuzfahrten.ch CNAME .
@@ -3103,6 +3128,7 @@ lfxdqs.mamasandpapas.ae CNAME .
 lfyqsi.erborian.com CNAME .
 lgbdxo.azazie.com CNAME .
 lghsws.europcar.com.au CNAME .
+lgsljm.snakeriverfarms.com CNAME .
 lgvgtl.terrashop.de CNAME .
 lgxtao.aheads.co.kr CNAME .
 lgylib.dg-home.ru CNAME .
@@ -3171,7 +3197,9 @@ lntsyq.cloture-et-jardin.fr CNAME .
 lntvby.banggood.com CNAME .
 lnvguu.lifood.jp CNAME .
 lnxfgm.party-calendar.net CNAME .
+lnzlvr.notosiki.co.jp CNAME .
 loclne.24shop.by CNAME .
+lodlww.carcon.co.jp CNAME .
 loewxm.psg.fr CNAME .
 lognxc.needen.fr CNAME .
 lohrex.livinn.lt CNAME .
@@ -3222,6 +3250,7 @@ lpzxed.uai.com.br CNAME .
 lpzxed.vrum.com.br CNAME .
 lqbinr.locker-room.co.kr CNAME .
 lqdeyv.thepopcornfactory.com CNAME .
+lqfuim.emco.cz CNAME .
 lqiwjf.hannun.com CNAME .
 lqopyc.beermachines.ru CNAME .
 lqpvvd.naadam.co CNAME .
@@ -3236,6 +3265,7 @@ lreust.joshinweb.jp CNAME .
 lrfctq.wordans.co.uk CNAME .
 lrfect.bradelisny.com CNAME .
 lrhyty.weeronline.nl CNAME .
+lrjjly.rockler.com CNAME .
 lrjnbf.sabon.co.jp CNAME .
 lrmxfo.torgoen.com CNAME .
 lrqzzi.ela.com.co CNAME .
@@ -3538,10 +3568,12 @@ muxrpr.mrgreen.com CNAME .
 mvfqmt.herbdoc.com CNAME .
 mvgteg.primecables.ca CNAME .
 mvjkbj.inazumanews2.com CNAME .
+mvpcwx.celkom.cz CNAME .
 mwaldd.laudius.nl CNAME .
 mwbhkv.plasico.bg CNAME .
 mwbilx.pisos.com CNAME .
 mwtluf.fashionette.com CNAME .
+mwvutw.toctocviajes.com CNAME .
 mwxema.galerieslafayette.com CNAME .
 mxbtgc.brightage.jp CNAME .
 mxdzxd.mister-auto.com CNAME .
@@ -3568,6 +3600,7 @@ mznoqk.happy-car.kr CNAME .
 mzpqgz.internet-homeandgarden.com CNAME .
 mzwkss.chiccoshop.com CNAME .
 mzwkss.chiccousa.com CNAME .
+mzxhkx.burlington.de CNAME .
 mzxlyq.aboutsome.co.kr CNAME .
 nabflj.kibuc.com CNAME .
 nadtos.on24.fi CNAME .
@@ -3597,6 +3630,7 @@ ndjosf.weareknitters.de CNAME .
 ndqdxm.thehyundai.com CNAME .
 ndroyp.gettingpersonal.co.uk CNAME .
 ndsiop.sportcourt.ru CNAME .
+ndsosf.rent2ownusa.com CNAME .
 ndylmk.elysiumhealth.com CNAME .
 neaaom.ytn.co.kr CNAME .
 neaddh.seniority.in CNAME .
@@ -3634,6 +3668,7 @@ nhzbyr.checkmyfares.com CNAME .
 nhzrlz.nieuwnieuw.com CNAME .
 nialuk.dorifurniture.co.kr CNAME .
 nigxvo.johnnybigg.com.au CNAME .
+niioyd.swiftdirectblinds.co.uk CNAME .
 ninzey.epdesignlab.com CNAME .
 nirdjz.revolveclothing.com.au CNAME .
 nitliy.topticketshop.nl CNAME .
@@ -3663,6 +3698,7 @@ nlvnht.miror.jp CNAME .
 nmbian.zipdoc.co.kr CNAME .
 nmcyyk.as-eweb.com CNAME .
 nmemld.bestusedtires.com CNAME .
+nmfues.1800baskets.com CNAME .
 nmhdzc.alterego-design.be CNAME .
 nmiodk.promiflash.de CNAME .
 nmkehi.msccrociere.it CNAME .
@@ -3784,6 +3820,7 @@ nxovay.fo-online.jp CNAME .
 nxpuap.job-con.jp CNAME .
 nxtlyn.fitloja.com.br CNAME .
 nxuxcr.smartbuyglasses.co.za CNAME .
+nxvcoc.tatayab.com CNAME .
 nxwniq.aboutyou.ie CNAME .
 nyafsn.ledakcia.sk CNAME .
 nybfae.face-factory.com CNAME .
@@ -3971,6 +4008,7 @@ otapnh.minirodini.com CNAME .
 otdaft.hotelcareer.de CNAME .
 othisf.tagomago.pl CNAME .
 othvwz.thelittlegreenbag.be CNAME .
+otioqs.srcasino.es CNAME .
 otkhyc.bueromarkt-ag.de CNAME .
 otoekb.gameware.at CNAME .
 otonpc.vigoshop.de CNAME .
@@ -3989,6 +4027,7 @@ ouujbg.farmaspeed.it CNAME .
 ovbxpk.nabytek-bogart.cz CNAME .
 ovmrti.sassyclassy.de CNAME .
 ovrsso.gemo.fr CNAME .
+ovvrlo.parfym.se CNAME .
 ovzxhc.meritocracy.is CNAME .
 owawms.entrereves.co.kr CNAME .
 owhnky.tranbi.com CNAME .
@@ -4082,6 +4121,7 @@ pgugfm.bevilles.com.au CNAME .
 pgvqla.lagerhaus.no CNAME .
 phaymg.color4care.dk CNAME .
 phbnix.rocelec.com CNAME .
+phbxqo.travelstay.com CNAME .
 phcnvk.schalke04.de CNAME .
 phczhg.johnjohndenim.com.br CNAME .
 phgnxd.nike.com.br CNAME .
@@ -4116,6 +4156,7 @@ pjoxcw.rosewe.com CNAME .
 pjtshn.floraprima.de CNAME .
 pjtvpz.teufelaudio.fr CNAME .
 pjtxmd.epool.ru CNAME .
+pkdimy.shoptime.com.br CNAME .
 pkdntb.emploi-pro.fr CNAME .
 pkhevp.suplinx.com CNAME .
 pkiawn.konvy.com CNAME .
@@ -4177,11 +4218,13 @@ pqcixi.sparco-official.com CNAME .
 pqdlno.winecountrygiftbaskets.com CNAME .
 pqfnuy.haikanbuhin.com CNAME .
 pqghqs.eastcl.com CNAME .
+pqglor.forkwell.com CNAME .
 pqiicj.misterspex.se CNAME .
 pqlcpm.kindoh.co.kr CNAME .
 pqlmae.lamaisonduchocolat.co.jp CNAME .
 pqmbxd.betersport.nl CNAME .
 pqrede.fiatprofessional.com CNAME .
+pqrnxj.alonashechter.com CNAME .
 prcoug.ledpanelgrosshandel.de CNAME .
 prhhqo.vintagevoyage.ru CNAME .
 prkvlr.camper.com CNAME .
@@ -4191,7 +4234,6 @@ prsntv.thetomhope.com CNAME .
 prvizg.shurgard.be CNAME .
 przucu.elkjop.no CNAME .
 psbiaf.converse.com CNAME .
-pscfsj.casadabebida.com.br CNAME .
 psfcnf.ochsnersport.ch CNAME .
 psidbv.cms-constructeur.fr CNAME .
 pspqlm.rndsystems.com CNAME .
@@ -4216,6 +4258,7 @@ pumlmb.netcologne.de CNAME .
 pvcxrt.globehunters.com.au CNAME .
 pvfbav.sportler.com CNAME .
 pvlbcw.glamira.ro CNAME .
+pvoheg.bubbleroom.se CNAME .
 pvrugd.nieruchomosci-online.pl CNAME .
 pwfwng.doncarlosresort.com CNAME .
 pwirmg.supernurse.co.jp CNAME .
@@ -4305,6 +4348,7 @@ qerpks.rollei.de CNAME .
 qeutai.99streetshop.com CNAME .
 qewlqw.paston.es CNAME .
 qexbcx.olx.kz CNAME .
+qeypmf.eminza.nl CNAME .
 qezfer.motelamiio.com CNAME .
 qfbles.elefant.ro CNAME .
 qfcxpa.dreamcloudsleep.com CNAME .
@@ -4374,6 +4418,7 @@ qlspmy.xlmoto.be CNAME .
 qlsszi.lululemon.co.nz CNAME .
 qlunam.lodi.es CNAME .
 qlvftg.officeiten.jp CNAME .
+qmcwpi.naturitas.es CNAME .
 qmdbfv.grautecnico.com.br CNAME .
 qmgwny.autobarn.com.au CNAME .
 qmgzkb.dedoles.sk CNAME .
@@ -4441,6 +4486,7 @@ qsahny.smartbuyglasses.dk CNAME .
 qsboxk.cosmomarket.gr CNAME .
 qsdvpw.green-bubble.com CNAME .
 qseqvo.a1securitycameras.com CNAME .
+qsjpzo.margotelena.com CNAME .
 qsjqow.charingworth.com CNAME .
 qskuub.elganovember.com CNAME .
 qslcuo.rockdenim.fi CNAME .
@@ -4640,6 +4686,7 @@ rmbehm.junjewelry.com CNAME .
 rmdvca.belvilla.de CNAME .
 rmlocp.kurapital.net CNAME .
 rmmibq.hyfresh.co.kr CNAME .
+rmrqmg.goaxil.com CNAME .
 rmsbkw.green-acres.be CNAME .
 rmvrpc.habi-unni.com CNAME .
 rmwjwj.virginiahayward.com CNAME .
@@ -4699,6 +4746,7 @@ rrznha.lanvin-en-bleu.com CNAME .
 rsaard.en-tea.com CNAME .
 rsbvse.puregreen.pl CNAME .
 rscrca.elfadistrelec.pl CNAME .
+rscwxy.skintifique.me CNAME .
 rsewys.lavor.com CNAME .
 rshqmo.aekki.com CNAME .
 rsinqg.homelux.hu CNAME .
@@ -4717,6 +4765,7 @@ rtogcb.upromania.ro CNAME .
 rtpmqv.smakon.jp CNAME .
 rtrsda.intermodann.ru CNAME .
 rttkpr.bidolubaski.com CNAME .
+rttptu.manutan.it CNAME .
 rtwvcb.kissmyketo.com CNAME .
 rtxfpe.trtltravel.com CNAME .
 rtxlni.doclasse.com CNAME .
@@ -4819,6 +4868,7 @@ seyjzx.jeanpatrique.com CNAME .
 sfajfu.boulanger.com CNAME .
 sfbpok.theluxurycloset.com CNAME .
 sfbtvc.donghobaothanh.vn CNAME .
+sfcbsh.mmlafleur.com CNAME .
 sfcnhm.hyundaihmall.com CNAME .
 sffctn.bimago.it CNAME .
 sffsgi.miele.com.tr CNAME .
@@ -4904,6 +4954,7 @@ smgolg.ddenne.com CNAME .
 smhcyf.ely-sia.net CNAME .
 smhuqk.youngexplorers.com CNAME .
 smjydg.cartersoshkosh.ca CNAME .
+smkynb.skr.de CNAME .
 smmmkl.hoff.ru CNAME .
 smnnij.gate-to-the-games.de CNAME .
 smqzbr.proozy.com CNAME .
@@ -4955,6 +5006,7 @@ sqripu.selsey.pl CNAME .
 sqsftt.loi.nl CNAME .
 sqtivj.vidaxl.hr CNAME .
 sqwgwm.infocasas.com.uy CNAME .
+srabwu.wordans.es CNAME .
 srdupf.wortimmo.lu CNAME .
 srgwny.bodycheck-shop.de CNAME .
 srhfdx.amerii.com CNAME .
@@ -4973,6 +5025,7 @@ ssjqkt.ekosport.it CNAME .
 sspkbf.ragtag.jp CNAME .
 ssqilo.bodytimero.com CNAME .
 ssqwkl.belabef.com CNAME .
+ssrrad.markrydenbackpack.com CNAME .
 ssuork.sixt.at CNAME .
 ssushe.kennethcole.com CNAME .
 ssvtez.thelovery.co CNAME .
@@ -5063,6 +5116,7 @@ sxjfhh.montgomeryadvertiser.com CNAME .
 sxjfhh.mycentraljersey.com CNAME .
 sxjfhh.naplesnews.com CNAME .
 sxjfhh.newarkadvocate.com CNAME .
+sxjfhh.news-leader.com CNAME .
 sxjfhh.news-press.com CNAME .
 sxjfhh.newsleader.com CNAME .
 sxjfhh.northjersey.com CNAME .
@@ -5148,6 +5202,7 @@ tbihvt.pickawood.com CNAME .
 tbjasp.cyrillus.de CNAME .
 tbknig.ecc.jp CNAME .
 tbmgyz.centerparcs.de CNAME .
+tbpqwn.thestones.co.kr CNAME .
 tbsrfz.shifter.shop CNAME .
 tbsyaf.vtutor.com CNAME .
 tbvjrd.gocase.com.br CNAME .
@@ -5170,6 +5225,7 @@ tdiaep.guardian.in CNAME .
 tdjvod.chevignon.com.co CNAME .
 tdxqjr.tessuti.co.uk CNAME .
 tdzjab.alo-organic.com CNAME .
+tdzosv.bett1.pl CNAME .
 tdzxxe.handyservice.de CNAME .
 teaolg.niedersaechsischer-jobanzeiger.de CNAME .
 teczbq.amicashop.com CNAME .
@@ -5185,6 +5241,7 @@ tewisg.monster.fi CNAME .
 teyvmb.moniquelhuillier.com CNAME .
 tfcwiz.helenejw.com CNAME .
 tfdtpa.dot-st.com CNAME .
+tfgcnv.dermae.com CNAME .
 tfiksp.d-rw.com CNAME .
 tfoydw.topvintage.be CNAME .
 tfoyfx.dukefotografia.com CNAME .
@@ -5857,6 +5914,7 @@ vvrbtw.martinexshop.com CNAME .
 vvzpjd.fioulreduc.com CNAME .
 vwakpz.vidri.com.sv CNAME .
 vwbbpe.aircaraibes.com CNAME .
+vwexrk.englishhome.com.tr CNAME .
 vwiind.beautyforever.com CNAME .
 vwjaeh.jamar.com CNAME .
 vwmqoz.msccruises.co.uk CNAME .
@@ -5878,6 +5936,7 @@ vyanda.bonparfumeur.com CNAME .
 vybbem.mk.ru CNAME .
 vybbem.womanhit.ru CNAME .
 vybkhr.careerjunction.co.za CNAME .
+vybkvv.punktfranchise.de CNAME .
 vyebov.entrenet.jp CNAME .
 vyeysj.foto-mundus.de CNAME .
 vyhuuq.flexioffices.co.uk CNAME .
@@ -6150,6 +6209,7 @@ xalkkk.drunensruiterhuis.nl CNAME .
 xaqprd.gardenbenches.com CNAME .
 xbaxfy.minrevi.jp CNAME .
 xbgbod.scandinavianoutdoor.se CNAME .
+xbicdq.form.bar CNAME .
 xbleox.merryat.com CNAME .
 xbmady.daimaru-matsuzakaya.jp CNAME .
 xbshje.smartbag.com.br CNAME .
@@ -6479,6 +6539,7 @@ yezztf.pinkelephant.co.kr CNAME .
 yfaygn.natureetdecouvertes.com CNAME .
 yfclaf.dsw.ca CNAME .
 yfclfx.ifriko.pl CNAME .
+yfedxj.dangelicoguitars.com CNAME .
 yfenys.prenatal.com CNAME .
 yfepff.raymourflanigan.com CNAME .
 yfopaf.imwalking.de CNAME .
@@ -6820,6 +6881,7 @@ zigpdx.ltbjeans.com CNAME .
 zikazx.bouwmaat.nl CNAME .
 zilhvf.hesperide.com CNAME .
 zilmwz.gsm55.it CNAME .
+zimjmw.hidaily.co.kr CNAME .
 zioczk.thermarest.com CNAME .
 ziqrso.24mx.no CNAME .
 zitcrd.aimerfeel.jp CNAME .

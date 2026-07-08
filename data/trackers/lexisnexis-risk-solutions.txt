@@ -116,6 +116,7 @@
 ||analytics.nowresorts.com^
 ||analytics.southwestvacations.com^
 ||analytics.sunscaperesorts.com^
+||analytics.tpg.com.au^
 ||analytics.triseptsolutions.com^
 ||analytics.vaxvacationaccess.com^
 ||analytics.vodafone.com.au^
@@ -147,7 +148,6 @@
 ||aucrdtfrd.revolut.com^
 ||auth.vedacheck.com.au^
 ||auth2.corelogic.asia^
-||authorizer-data.infinitepay.io^
 ||backend.pin-up.dev^
 ||bank.bnpl.c24.de^
 ||banque.banque-casino.fr^
@@ -156,6 +156,7 @@
 ||bkt-prod.sbishinseibank.co.jp^
 ||black-cat.crypto.com^
 ||bland.starone.org^
+||business.cebuanalhuillier.com^
 ||c.menards.com^
 ||cache2.warriortrading.com^
 ||catalyst.mashreq.com^
@@ -193,6 +194,7 @@
 ||cdn2.intercambioexpress.com^
 ||cdn2.moneycorp.com^
 ||cdn2.services.fordmoney.co.uk^
+||cdn2.services.newcastle.co.uk^
 ||cdn3.littlecaesars.com^
 ||cdn3.moneycorp.com^
 ||cdna-paymentncb.cofidis.be^
@@ -323,6 +325,7 @@
 ||content.atmosphere.ca^
 ||content.b-social.io^
 ||content.backend-capital.com^
+||content.bangkokabayan.com^
 ||content.bank-abc.com^
 ||content.bank.ikano^
 ||content.bankoncit.com^
@@ -756,6 +759,7 @@
 ||info.betwaypartnersafrica.com^
 ||info.jackpotcity.co.za^
 ||info.jackpotcitycasino.co.tz^
+||info.jackpotcitycasino.co.zm^
 ||info.jackpotcitycasino.com.gh^
 ||info.jackpotcitycasino.mw^
 ||insights.hastingsdirectloans.com^
@@ -885,6 +889,7 @@
 ||pn1927.coutts.com^
 ||pn1927.couttscrowndependencies.com^
 ||pngtm.paragonbank.co.uk^
+||poirot.chase.com^
 ||portal-fp-idev.qa.threatmetrix.com^
 ||portal-fp-qa1.qa.threatmetrix.com^
 ||portal-fp-qa2.qa.threatmetrix.com^
@@ -1260,6 +1265,7 @@
 ||tm.regionstest.com^
 ||tm.republicfinance.com^
 ||tm.rsa-claims.co.uk^
+||tm.shakeology.com^
 ||tm.stats.fashionforhome.de^
 ||tm.stats.home24.at^
 ||tm.stats.home24.be^
@@ -1326,6 +1332,7 @@
 ||tmt.houzz.com^
 ||tmuat.kotak.com^
 ||tmx-fpt.credit-agricole.pl^
+||tmx-profiling.healthsafe-id.com^
 ||tmx.additionfi.com^
 ||tmx.americafirst.com^
 ||tmx.bestbuy.com^
@@ -1353,6 +1360,7 @@
 ||tmx.tdbank.com^
 ||tmx.uptodate.com^
 ||tmx.vinci-autoroutes.com^
+||tmx.wexonline.com^
 ||tmxapi.globalsources.com^
 ||tmximg.draftkings.com^
 ||tmxjs.tokyodisneyresort.jp^

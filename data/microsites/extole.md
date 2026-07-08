@@ -183,7 +183,6 @@
     * caleres.extole.io
     * candyinbulk.extole.io
     * canvas.extole.io
-    * carparts.em.extole.io
     * carpartscom.extole.io
     * cefaly.extole.io
     * ceifx.extole.io
@@ -287,7 +286,6 @@
     * globalknowledge.extole.io
     * glowbar.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * gpsinsight.extole.io
     * granitegaragefloors.extole.io
@@ -305,6 +303,7 @@
     * hicapitalize.extole.io
     * hill-city.extole.io
     * hollandamerica.extole.io
+    * hollandamerica.xtl.extole.io
     * homedepot.extole.io
     * honeypacks.extole.io
     * honorcu.extole.io
@@ -358,7 +357,6 @@
     * lgeccu.extole.io
     * lifedna.extole.io
     * lighthousecu.extole.io
-    * lightstream.em.extole.io
     * lightstream.extole.io
     * little-passports.extole.io
     * livongo.extole.io
@@ -505,6 +503,7 @@
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * starone.extole.io
@@ -517,7 +516,6 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
-    * suncoastcreditunion.em.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
     * suneast.extole.io
@@ -552,6 +550,7 @@
     * trafalgar.extole.io
     * travelzoo.extole.io
     * truwest.extole.io
+    * turbotax.em.extole.io
     * turbotax.extole.io
     * turbotaxdemo.extole.io
     * tweglobal.extole.io
@@ -579,13 +578,14 @@
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
     * waggonershomeservices.extole.io
-    * wagwalking.em.extole.io
     * wagwalking.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
     * wecu.extole.io
     * westerracu.extole.io
+    * westgateresorts.extole.io
+    * westlakedermatology.extole.io
     * whiparound.extole.io
     * whitehouseblackmarket.extole.io
     * wine.extole.io
@@ -730,7 +730,6 @@
 | share.candyinbulk.com | candyinbulk.extole.io |
 | refer.canvas.org | canvas.extole.io |
 | refer.carbonite.com | carbonite-ssl.extole.com |
-| em9290.carparts.com | carparts.em.extole.io |
 | share.carparts.com | carpartscom.extole.io |
 | share.cefaly.com | cefaly.extole.io |
 | share.ceifx.com | ceifx.extole.io |
@@ -945,7 +944,6 @@
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | loyalty.glowbar.com | glowbar.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -974,6 +972,7 @@
 | share.hicapitalize.com | hicapitalize.extole.io |
 | refer.hillcity.gap.com | hill-city.extole.io |
 | refer.hollandamerica.com | hollandamerica.extole.io |
+| xtl._domainkey.hollandamerica.com | hollandamerica.xtl.extole.io |
 | refer.homedepot.com | homedepot.extole.io |
 | share.honeypacks.com | honeypacks.extole.io |
 | refer.honorcu.com | honorcu.extole.io |
@@ -1045,7 +1044,6 @@
 | referral.lgeccu.org | lgeccu.extole.io |
 | share.lifedna.com | lifedna.extole.io |
 | refer.lighthousecu.org | lighthousecu.extole.io |
-| em9129.lightstream.com | lightstream.em.extole.io |
 | refer.lightstream.com | lightstream.extole.io |
 | refer.littlepassports.com | little-passports.extole.io |
 | share.livongo.com | livongo.extole.io |
@@ -1255,6 +1253,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.starone.org | starone.extole.io |
@@ -1267,7 +1266,6 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
-| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | share.suneast.org | suneast.extole.io |
@@ -1315,6 +1313,7 @@
 | share.travelzoo.com | travelzoo.extole.io |
 | refer.truwest.org | truwest.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
+| em5807.turbotax.refer.intuit.com | turbotax.em.extole.io |
 | refer.intuit.com | turbotax.extole.io |
 | prepod.refer.intuit.com | turbotaxdemo.extole.io |
 | share.beringer.com | tweglobal.extole.io |
@@ -1341,7 +1340,9 @@
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
 | em8642.notifications.acorns.com | u82658.wl159.sendgrid.net |
 | em8928.em.petco.com | u82658.wl159.sendgrid.net |
+| em9129.lightstream.com | u82658.wl159.sendgrid.net |
 | em924.refer.starbucks.com | u82658.wl159.sendgrid.net |
+| em9290.carparts.com | u82658.wl159.sendgrid.net |
 | em9347.shareus.viktor-rolf.com | u82658.wl159.sendgrid.net |
 | em9523.walmartmoneycard.com | u82658.wl159.sendgrid.net |
 | emxxxx.rent.app | u82658.wl159.sendgrid.net |
@@ -1378,7 +1379,6 @@
 | refer.vonage.com | vonage.extole.com |
 | share.vonage.com | vonagebusiness.extole.io |
 | share.waggonershomeservices.com | waggonershomeservices.extole.io |
-| em3007.wagwalking.com | wagwalking.em.extole.io |
 | share.wagwalking.com | wagwalking.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
@@ -1387,6 +1387,9 @@
 | refer.webs.com | webs.extole.com |
 | offers.wecu.com | wecu.extole.io |
 | refer.westerracu.com | westerracu.extole.io |
+| share.westgatereservations.com | westgateresorts.extole.io |
+| share.westgatetravelpartners.com | westgateresorts.extole.io |
+| rewards.westlakedermatology.com | westlakedermatology.extole.io |
 | refer.wgu.edu | wgu.extole.com |
 | share.whiparound.com | whiparound.extole.io |
 | refer.whitehouseblackmarket.com | whitehouseblackmarket.extole.io |

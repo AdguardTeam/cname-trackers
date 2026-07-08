@@ -136,6 +136,7 @@
 ||l.grazia.it^
 ||l.harpersbazaar.fr^
 ||l.hautanjou.fr^
+||l.hbrfrance.fr^
 ||l.heidi.news^
 ||l.herault-tribune.com^
 ||l.herstory-media.com^

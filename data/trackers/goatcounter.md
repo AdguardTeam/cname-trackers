@@ -5,6 +5,7 @@
 * goatcounter.com
     * 0687.goatcounter.com
     * 45rpm-ch.goatcounter.com
+    * 9ye0b9.goatcounter.com
     * abdodaoud.goatcounter.com
     * abdoughnut.goatcounter.com
     * acut3.goatcounter.com
@@ -19,13 +20,13 @@
     * benjaminmorris.goatcounter.com
     * bestasciitable.goatcounter.com
     * beyondthesprawl.goatcounter.com
-    * bkvn.goatcounter.com
     * blog-lewsion.goatcounter.com
     * blooper.goatcounter.com
     * blu3id-uk.goatcounter.com
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
     * burningbutter.goatcounter.com
+    * carlomega.goatcounter.com
     * cassie.goatcounter.com
     * celerry.goatcounter.com
     * certidiritti.goatcounter.com
@@ -46,6 +47,7 @@
     * davidjuhasz.goatcounter.com
     * degrandi.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
+    * denatlahise.goatcounter.com
     * dheinemann.goatcounter.com
     * digitaleyes.goatcounter.com
     * dungeon.goatcounter.com
@@ -56,6 +58,7 @@
     * fieald.goatcounter.com
     * fiestaplus.goatcounter.com
     * fiquipedia.goatcounter.com
+    * fischr.goatcounter.com
     * functionalcms.goatcounter.com
     * gamecraft.goatcounter.com
     * gavin.goatcounter.com
@@ -66,6 +69,7 @@
     * gpuzelenograd-github.goatcounter.com
     * gradient.goatcounter.com
     * grokhard.goatcounter.com
+    * gumarapus.goatcounter.com
     * gwyers.goatcounter.com
     * hadejkde.goatcounter.com
     * haseebmajid.goatcounter.com
@@ -76,6 +80,7 @@
     * ideasnap.goatcounter.com
     * ignatuque.goatcounter.com
     * iloveuobgold.goatcounter.com
+    * interactiveprimer.goatcounter.com
     * irishbornchinese.goatcounter.com
     * isaacfreund.goatcounter.com
     * jakebailey.goatcounter.com
@@ -125,6 +130,7 @@
     * niravraval.goatcounter.com
     * noscirep.goatcounter.com
     * novi.goatcounter.com
+    * nullbit5.goatcounter.com
     * ooo.goatcounter.com
     * opensurge.goatcounter.com
     * otbivnoe.goatcounter.com
@@ -155,6 +161,7 @@
     * slade.goatcounter.com
     * storydragon.goatcounter.com
     * studiodeerenberg.goatcounter.com
+    * suivi-enfant.goatcounter.com
     * szorty.goatcounter.com
     * tailspace.goatcounter.com
     * tbx.goatcounter.com
@@ -197,6 +204,7 @@
 | ---- | ---- |
 | statgarden.florinesueur.fr | 0687.goatcounter.com |
 | stats.45rpm.ch | 45rpm-ch.goatcounter.com |
+| stats.dwermke.com | 9ye0b9.goatcounter.com |
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.abdo.wtf | abdoughnut.goatcounter.com |
 | gc.acut3.net | acut3.goatcounter.com |
@@ -211,13 +219,13 @@
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
 | stats.bestasciitable.com | bestasciitable.goatcounter.com |
 | stats.beyondthesprawl.com | beyondthesprawl.goatcounter.com |
-| stats.boredkevin.com | bkvn.goatcounter.com |
 | stats-blog.lewsion.com | blog-lewsion.goatcounter.com |
 | stats.hdyar.com | blooper.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
 | tracking.burningbutter.com | burningbutter.goatcounter.com |
+| stats.carlomega.it | carlomega.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
 | stats.certidiritti.org | certidiritti.goatcounter.com |
@@ -238,6 +246,7 @@
 | stats.davidjuhasz.dev | davidjuhasz.goatcounter.com |
 | stats.degrandi.dev | degrandi.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
+| stats.denatlahi.se | denatlahise.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
 | analytics.digitaleyes.ai | digitaleyes.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
@@ -248,6 +257,7 @@
 | stats.fieald.com | fieald.goatcounter.com |
 | goatstats.fiesta.plus | fiestaplus.goatcounter.com |
 | analytics.fiquipedia.es | fiquipedia.goatcounter.com |
+| stats.fischr.org | fischr.goatcounter.com |
 | tracking.functional-cms.com | functionalcms.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | goat.gavv.in | gavin.goatcounter.com |
@@ -256,11 +266,13 @@
 | stats.ghostiam.dev | ghostiam.goatcounter.com |
 | analytics.code.dccouncil.gov | goatcounter.com |
 | analytics.codes.baltimorecity.gov | goatcounter.com |
+| analytics.law.sanipueblo.org | goatcounter.com |
 | analytics.regs.maryland.gov | goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | stats.brendanhanke.com | gradient.goatcounter.com |
 | gc.grokhard.com | grokhard.goatcounter.com |
+| goatcounter.gumarapus.com | gumarapus.goatcounter.com |
 | stats.gwyer.net | gwyers.goatcounter.com |
 | stats.hadejkde.cz | hadejkde.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
@@ -271,6 +283,7 @@
 | usage.ideasnap.co | ideasnap.goatcounter.com |
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
 | visits.iloveuobgold.com | iloveuobgold.goatcounter.com |
+| stats.interactiveprimer.com | interactiveprimer.goatcounter.com |
 | goatcounter.irishbornchinese.com | irishbornchinese.goatcounter.com |
 | stats.isaacfreund.com | isaacfreund.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
@@ -325,6 +338,7 @@
 | stats.niravraval.com | niravraval.goatcounter.com |
 | gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
+| stats.azeroths-most-wanted.eu.org | nullbit5.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |
 | stats.opensurge2d.org | opensurge.goatcounter.com |
 | stats.otbivnoe.ru | otbivnoe.goatcounter.com |
@@ -356,6 +370,7 @@
 | website-stats.sladew.org | slade.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | stats.studiodeerenberg.nl | studiodeerenberg.goatcounter.com |
+| gc.suivi-enfant.max-sens-conseil.fr | suivi-enfant.goatcounter.com |
 | stats.szorty.space | szorty.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
 | gc.tbx.at | tbx.goatcounter.com |

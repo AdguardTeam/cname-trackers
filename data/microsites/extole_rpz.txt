@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -126,15 +126,12 @@ businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em2287.theory.com CNAME .
-em3007.wagwalking.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
+em5807.turbotax.refer.intuit.com CNAME .
 em7952.dailypay.com CNAME .
-em8561.go2bank.com CNAME .
-em9129.lightstream.com CNAME .
-em9290.carparts.com CNAME .
+em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -458,6 +455,7 @@ referral.shiseido.com CNAME .
 referralrewards.brightspeed.com CNAME .
 referrals.lumen.com CNAME .
 reward.first-online.bank CNAME .
+rewards.westlakedermatology.com CNAME .
 rob.extoleu.com CNAME .
 rob2.extoleu.com CNAME .
 score.lumen.com CNAME .
@@ -772,6 +770,8 @@ share.vonage.com CNAME .
 share.waggonershomeservices.com CNAME .
 share.wagwalking.com CNAME .
 share.walmartmoneycard.com CNAME .
+share.westgatereservations.com CNAME .
+share.westgatetravelpartners.com CNAME .
 share.whiparound.com CNAME .
 share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
@@ -790,16 +790,20 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
+xtl._domainkey.hollandamerica.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em2279.referral.quickbooks.co.uk CNAME .
+em3007.wagwalking.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em5807.turbotax.refer.intuit.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
 em8031.soundcloud.com CNAME .
+em8561.go2bank.com CNAME .
 em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
+em9129.lightstream.com CNAME .
+em9290.carparts.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 emxxxx.rent.app CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -315,6 +315,7 @@ tr.crc.henner.com CNAME .
 tr.creative.hennessy.com CNAME .
 tr.crm.intersportbypitte.com CNAME .
 tr.crtl.espmp-aufr.net CNAME .
+tr.cupra-fs-email.fr CNAME .
 tr.customer-solutions.np6.com CNAME .
 tr.customersurvey.geodis.com CNAME .
 tr.cyberarchi.info CNAME .
@@ -363,6 +364,7 @@ tr.donateur.afm-telethon.fr CNAME .
 tr.dossier-assurance.maaf.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
 tr.e-mail.axa.fr CNAME .
+tr.e-mail.axabanque.fr CNAME .
 tr.e-travaux.info CNAME .
 tr.e.entreprise-pm.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
@@ -709,6 +711,7 @@ tr.mika.espmp-nifr.net CNAME .
 tr.mktg.np6.com CNAME .
 tr.ml-expo.usinenouvelle.com CNAME .
 tr.ml.batiproduits.com CNAME .
+tr.ml.equip-garage.fr CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
 tr.mnpd.espmp-agfr.net CNAME .
@@ -924,6 +927,7 @@ tr.newsletter.ecig-privee.fr CNAME .
 tr.newsletter.erenumerique.fr CNAME .
 tr.newsletter.glenmorangie.co.uk CNAME .
 tr.newsletter.huilesdolive.fr CNAME .
+tr.newsletter.lafrancaisedescircuits.com CNAME .
 tr.newsletter.leocare.eu CNAME .
 tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.lokeo.fr CNAME .

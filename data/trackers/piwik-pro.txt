@@ -23,6 +23,7 @@
 ||gmn.gloo.com^
 ||inzicht.cz.nl^
 ||logfiles.storck.com^
+||metrics.equans.ch^
 ||mphdd.multipharma.be^
 ||p-k.kuka.com^
 ||p-pan.triodos.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -127,6 +127,7 @@ analytics.inteflow.com.au CNAME .
 analytics.nowresorts.com CNAME .
 analytics.southwestvacations.com CNAME .
 analytics.sunscaperesorts.com CNAME .
+analytics.tpg.com.au CNAME .
 analytics.triseptsolutions.com CNAME .
 analytics.vaxvacationaccess.com CNAME .
 analytics.vodafone.com.au CNAME .
@@ -158,7 +159,6 @@ aucrdtfrd.revolut.codes CNAME .
 aucrdtfrd.revolut.com CNAME .
 auth.vedacheck.com.au CNAME .
 auth2.corelogic.asia CNAME .
-authorizer-data.infinitepay.io CNAME .
 backend.pin-up.dev CNAME .
 bank.bnpl.c24.de CNAME .
 banque.banque-casino.fr CNAME .
@@ -167,6 +167,7 @@ bifpt.pepperfinance.es CNAME .
 bkt-prod.sbishinseibank.co.jp CNAME .
 black-cat.crypto.com CNAME .
 bland.starone.org CNAME .
+business.cebuanalhuillier.com CNAME .
 c.menards.com CNAME .
 cache2.warriortrading.com CNAME .
 catalyst.mashreq.com CNAME .
@@ -204,6 +205,7 @@ cdn17.citizensbank.com CNAME .
 cdn2.intercambioexpress.com CNAME .
 cdn2.moneycorp.com CNAME .
 cdn2.services.fordmoney.co.uk CNAME .
+cdn2.services.newcastle.co.uk CNAME .
 cdn3.littlecaesars.com CNAME .
 cdn3.moneycorp.com CNAME .
 cdna-paymentncb.cofidis.be CNAME .
@@ -334,6 +336,7 @@ content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
 content.b-social.io CNAME .
 content.backend-capital.com CNAME .
+content.bangkokabayan.com CNAME .
 content.bank-abc.com CNAME .
 content.bank.ikano CNAME .
 content.bankoncit.com CNAME .
@@ -767,6 +770,7 @@ info.betway.ng CNAME .
 info.betwaypartnersafrica.com CNAME .
 info.jackpotcity.co.za CNAME .
 info.jackpotcitycasino.co.tz CNAME .
+info.jackpotcitycasino.co.zm CNAME .
 info.jackpotcitycasino.com.gh CNAME .
 info.jackpotcitycasino.mw CNAME .
 insights.hastingsdirectloans.com CNAME .
@@ -896,6 +900,7 @@ plr.scb-payments.net CNAME .
 pn1927.coutts.com CNAME .
 pn1927.couttscrowndependencies.com CNAME .
 pngtm.paragonbank.co.uk CNAME .
+poirot.chase.com CNAME .
 portal-fp-idev.qa.threatmetrix.com CNAME .
 portal-fp-qa1.qa.threatmetrix.com CNAME .
 portal-fp-qa2.qa.threatmetrix.com CNAME .
@@ -1271,6 +1276,7 @@ tm.regionsqa.com CNAME .
 tm.regionstest.com CNAME .
 tm.republicfinance.com CNAME .
 tm.rsa-claims.co.uk CNAME .
+tm.shakeology.com CNAME .
 tm.stats.fashionforhome.de CNAME .
 tm.stats.home24.at CNAME .
 tm.stats.home24.be CNAME .
@@ -1337,6 +1343,7 @@ tms.paysafe.com CNAME .
 tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .
 tmx-fpt.credit-agricole.pl CNAME .
+tmx-profiling.healthsafe-id.com CNAME .
 tmx.additionfi.com CNAME .
 tmx.americafirst.com CNAME .
 tmx.bestbuy.com CNAME .
@@ -1364,6 +1371,7 @@ tmx.td.com CNAME .
 tmx.tdbank.com CNAME .
 tmx.uptodate.com CNAME .
 tmx.vinci-autoroutes.com CNAME .
+tmx.wexonline.com CNAME .
 tmxapi.globalsources.com CNAME .
 tmximg.draftkings.com CNAME .
 tmxjs.tokyodisneyresort.jp CNAME .

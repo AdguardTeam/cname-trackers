@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ analytics.law.badriver-nsn.gov CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.law.lco-nsn.gov CNAME .
 analytics.law.mohican.com CNAME .
+analytics.law.sanipueblo.org CNAME .
 analytics.law.tmchippewa.com CNAME .
 analytics.law.umitribe.org CNAME .
 analytics.leespace.co CNAME .
@@ -54,6 +55,7 @@ gc.mindenugyved.hu CNAME .
 gc.noscirep.com CNAME .
 gc.sanyamkapoor.com CNAME .
 gc.securitydungeon.sk CNAME .
+gc.suivi-enfant.max-sens-conseil.fr CNAME .
 gc.tbx.at CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
 go.d8a.org CNAME .
@@ -67,6 +69,7 @@ goatcounter.blu3id.uk CNAME .
 goatcounter.codinggrace.com CNAME .
 goatcounter.eventgeek.ie CNAME .
 goatcounter.gamecraft.it CNAME .
+goatcounter.gumarapus.com CNAME .
 goatcounter.irishbornchinese.com CNAME .
 goatcounter.repozitor.com CNAME .
 goatcounter.thedave.dev CNAME .
@@ -91,12 +94,13 @@ stats.apitman.com CNAME .
 stats.arredofrigo.net CNAME .
 stats.artero.dev CNAME .
 stats.artur-rodrigues.com CNAME .
+stats.azeroths-most-wanted.eu.org CNAME .
 stats.benjaminmorris.com CNAME .
 stats.bestasciitable.com CNAME .
 stats.beyondthesprawl.com CNAME .
-stats.boredkevin.com CNAME .
 stats.brandontoner.ca CNAME .
 stats.brendanhanke.com CNAME .
+stats.carlomega.it CNAME .
 stats.cassie.omg.lol CNAME .
 stats.celerry.com CNAME .
 stats.certidiritti.org CNAME .
@@ -110,9 +114,12 @@ stats.cynicalsignals.com CNAME .
 stats.dalinwilliams.com CNAME .
 stats.davidjuhasz.dev CNAME .
 stats.degrandi.dev CNAME .
+stats.denatlahi.se CNAME .
 stats.docs.semio-tech.com CNAME .
+stats.dwermke.com CNAME .
 stats.eithel.org CNAME .
 stats.fieald.com CNAME .
+stats.fischr.org CNAME .
 stats.forest-school.am CNAME .
 stats.ghostiam.dev CNAME .
 stats.gopikrishna.dev CNAME .
@@ -125,6 +132,7 @@ stats.hinduismdebunked.com CNAME .
 stats.homecompanion.io CNAME .
 stats.how.wtf CNAME .
 stats.ignatuque.xyz CNAME .
+stats.interactiveprimer.com CNAME .
 stats.isaacfreund.com CNAME .
 stats.issues.cooking CNAME .
 stats.jakebailey.dev CNAME .

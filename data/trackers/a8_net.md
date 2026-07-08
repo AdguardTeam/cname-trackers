@@ -824,6 +824,7 @@
 | a8cv.bugsfarm.jp | trck.a8.net |
 | a8cv.bulk.co.jp | trck.a8.net |
 | a8cv.busbookmark.jp | trck.a8.net |
+| a8cv.buysell-hunt.jp | trck.a8.net |
 | a8cv.c-hikari.biz | trck.a8.net |
 | a8cv.ca-rent.jp | trck.a8.net |
 | a8cv.cacom.jp | trck.a8.net |
@@ -1104,7 +1105,6 @@
 | a8cv.off-site.jp | trck.a8.net |
 | a8cv.ogaland.com | trck.a8.net |
 | a8cv.oisix.com | trck.a8.net |
-| a8cv.omakase-cyber-mimamori.net | trck.a8.net |
 | a8cv.omni7.jp | trck.a8.net |
 | a8cv.omobic.com | trck.a8.net |
 | a8cv.omtogether.jp | trck.a8.net |

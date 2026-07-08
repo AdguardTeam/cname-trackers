@@ -28,6 +28,7 @@
     * clavecin-taokids-com-cddc.at-o.net
     * col-casa-it-cddc.at-o.net
     * col-idealista-com-cddc.at-o.net
+    * col-idealista-fr-cddc.at-o.net
     * col-idealista-it-cddc.at-o.net
     * col-idealista-pt-cddc.at-o.net
     * col-rentalia-com-cddc.at-o.net
@@ -82,6 +83,7 @@
     * pa-skipass-lesmenuires-com-cddc.at-o.net
     * pa-skipass-meribel-com-cddc.at-o.net
     * pa-skipass-pralognan-com-cddc.at-o.net
+    * pa-valdisere-ski-cddc.at-o.net
     * pa-walibi-be-cddc.at-o.net
     * pa-walibi-fr-cddc.at-o.net
     * pa-walibi-nl-cddc.at-o.net
@@ -165,6 +167,7 @@
 | clavecin.taokids.com | clavecin-taokids-com-cddc.at-o.net |
 | col.casa.it | col-casa-it-cddc.at-o.net |
 | col.idealista.com | col-idealista-com-cddc.at-o.net |
+| col.idealista.fr | col-idealista-fr-cddc.at-o.net |
 | col.idealista.it | col-idealista-it-cddc.at-o.net |
 | col.idealista.pt | col-idealista-pt-cddc.at-o.net |
 | col.rentalia.com | col-rentalia-com-cddc.at-o.net |
@@ -219,6 +222,7 @@
 | pa.skipass-lesmenuires.com | pa-skipass-lesmenuires-com-cddc.at-o.net |
 | pa.skipass-meribel.com | pa-skipass-meribel-com-cddc.at-o.net |
 | pa.skipass-pralognan.com | pa-skipass-pralognan-com-cddc.at-o.net |
+| pa.valdisere.ski | pa-valdisere-ski-cddc.at-o.net |
 | pa.walibi.be | pa-walibi-be-cddc.at-o.net |
 | pa.walibi.fr | pa-walibi-fr-cddc.at-o.net |
 | pa.walibi.nl | pa-walibi-nl-cddc.at-o.net |

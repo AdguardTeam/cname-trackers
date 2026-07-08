@@ -3,7 +3,6 @@
 ## Disguised trackers list
 
 * non.li
-    * l.non.li
     * tls-lp-cm.non.li
     * tls-rfi.non.li
     * tls.non.li
@@ -12,7 +11,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| c.leparisien.fr | l.non.li |
 | c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |
@@ -169,6 +167,7 @@
 | l.grazia.it | tls.non.li |
 | l.harpersbazaar.fr | tls.non.li |
 | l.hautanjou.fr | tls.non.li |
+| l.hbrfrance.fr | tls.non.li |
 | l.herault-tribune.com | tls.non.li |
 | l.herstory-media.com | tls.non.li |
 | l.humanite.fr | tls.non.li |

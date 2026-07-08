@@ -351,6 +351,7 @@
 3493753.notifysrv.com
 3498081.notifysrv.com
 3501655.notify6.com
+3505119.notify6.com
 3505127.notify6.com
 3505141.notify6.com
 3505883.notifysrv.com
@@ -608,6 +609,7 @@
 4130286.notify6.com
 4131834.notify6.com
 4144426.notify6.com
+4146746.notify6.com
 4146994.notify6.com
 4149128.notify6.com
 4149216.notify6.com
@@ -639,6 +641,7 @@
 4211854.notify6.com
 4212982.notify6.com
 4214522.notify6.com
+4220540.notify6.com
 4229036.notify6.com
 4231374.notify6.com
 4255510.notify6.com
@@ -772,10 +775,12 @@ a.brilmaver.com
 a.cant3am.com
 a.chmsrv.com
 a.crme7srv.com
+a.etology.com
 a.eunow4u.com
-a.flirtads.net
 a.gentlefieldpattern.com
 a.happyleafmotion.com
+a.hkartg.com
+a.humnert.com
 a.klico.link
 a.ma3ion.com
 a.mikbaken.com
@@ -785,6 +790,7 @@ a.ns.notifysrv.com
 a.pinkads.org
 a.playa.to
 a.q88z1s3.com
+a.r8lnet.com
 a.rocoads.net
 a.t5z3w0p.com
 a.tf4srv.com
@@ -814,6 +820,7 @@ andy.notifysrv.com
 aphrodite.notifysrv.com
 api.adxnow.com
 api.eunow4u.com
+api.klico.co
 api.tf4srv.com
 api.trafficfactory.com
 api.valuemedia-ltd.com
@@ -1238,6 +1245,7 @@ www.4465254.notify6.com
 www.5wh.co.zw3459455.notify6.com
 www.8.notify.bizonads-ssp.com
 www.android.notifysrv.com
+www.az6a8nmuz5vbrgd2.exasrv.com
 www.exaapi.com
 www.exasrv.com
 www.feedback.notifysrv.com
@@ -1250,8 +1258,5 @@ www.voltcp.3323174.notifysrv.com
 zooplus.it3440403.notify6.com
 zooplus.it3524339.notify6.com
 zooplus.it4060008.notify6.com
-a.etology.com
-a.hkartg.com
-a.humnert.com
-a.r8lnet.com
+a.flirtads.net
 a.santabrowser.com

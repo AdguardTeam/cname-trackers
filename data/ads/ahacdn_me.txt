@@ -40,6 +40,7 @@
 ||201c741203.c40e234db8.com^
 ||203a382a60.403dee4b16.com^
 ||20be5d130c.53ed6897af.com^
+||2320fa53c4.9bce82ca1a.com^
 ||24902ceb80.03850de51d.com^
 ||2518a53ab8.db0a4b4eb7.com^
 ||260abb66a4.841eda195c.com^
@@ -67,6 +68,7 @@
 ||37ccf2671e.95ce9fb0ff.com^
 ||38710f41e0.9334fb3562.com^
 ||3875c07b61.a94a20f718.com^
+||38b1bfa1d3.a8d007d2be.com^
 ||3a4a524048.10f55ab5ed.com^
 ||3a95bf00f8.b7ec509038.com^
 ||3cabf4dbb4.da1b05834d.com^
@@ -97,6 +99,7 @@
 ||4ef55c331f.6dca8ddc4d.com^
 ||4ef8c1bbed.223001ca2c.com^
 ||4f8ebb0eef.603b61d91d.com^
+||4f97ca6908.b0f0e80461.com^
 ||50e57be19a.b0ff04e647.com^
 ||5110f56bf0.c3a36bbaca.com^
 ||512a353952.8fb13633f6.com^
@@ -143,6 +146,7 @@
 ||7b89edc5b7.70eb07b991.com^
 ||7bf7ea4016.134df17ee1.com^
 ||7c37119d9d.2533555ba6.com^
+||7c3c10d20f.48583ed9cf.com^
 ||7e9b8519af.1fd9bb65c7.com^
 ||7f55a5b997.12a2101ae7.com^
 ||80d6a785a7.4f1e5419a2.com^
@@ -174,6 +178,7 @@
 ||97f14f526b.6ad4e650c2.com^
 ||9ad9d37bec.5c2b54416a.com^
 ||9b1050925e.d0efb05e03.com^
+||9d2cfa4318.9d5d98b241.com^
 ||9d3ea2dbe2.5d1c052a11.com^
 ||9da6e47c01.e04ab2ef0e.com^
 ||9db4da6d9f.30c69e6975.com^
@@ -210,7 +215,6 @@
 ||bd1b10270f.96a3783f2f.com^
 ||bf7a65c961.3632ca5b41.com^
 ||bf7e9baa53.bf002bbbbb.com^
-||bfa7591905.0cdf9706af.com^
 ||c058b13b28.deec684fdd.com^
 ||c097bde035.a0d1e378d8.com^
 ||c116639e5d.8f74a52456.com^
@@ -224,6 +228,7 @@
 ||cc513b382d.e8643563e6.com^
 ||ccabd63623.eb99f6e7e0.com^
 ||cdaef97ff5.31ab988f3b.com^
+||d00c559d5d.3de9c07b91.com^
 ||d022c32c2f.ded7094b01.com^
 ||d1d70f1333.600977f9ec.com^
 ||d34d3e1bba.91d02a6a8c.com^
@@ -250,6 +255,7 @@
 ||dfb523f308.25e664eaff.com^
 ||e00511574d.44a9364fea.com^
 ||e0848bb11f.999aae0fa7.com^
+||e0e2731c98.538b2f9b26.com^
 ||e153ef53b0.9f850daa38.com^
 ||e1caef050c.3399beca29.com^
 ||e1fc0ab4de.0014b04291.com^
@@ -348,6 +354,7 @@
 ||21404afb02.8b0e465f3e.com^
 ||23dadea9c3.b60756935f.com^
 ||23dd8de991.8ba30863a3.com^
+||2480ae1a2d.3ba1e5d478.com^
 ||24fc187db5.e25b585b36.com^
 ||2716de5c33.9e1b47e1b9.com^
 ||2761e0b4e7.847ab3dcab.com^
@@ -451,6 +458,7 @@
 ||7b1deec9a7.70de8b3bd7.com^
 ||7b455af0a3.dba1bc1fdf.com^
 ||7c92c1ceff.5394aeb3d4.com^
+||7d2e9d0cd9.5761b6af55.com^
 ||7ea02e2ab2.e55a2001b9.com^
 ||7f4c38698c.6e76b83826.com^
 ||7fc3407df0.3b8e4eb36d.com^
@@ -462,6 +470,7 @@
 ||885d978a23.149b5a6b84.com^
 ||89ec4d544c.2f6dc696ee.com^
 ||8a4ca59e89.9eb0066c79.com^
+||8c72e86e00.d0f9347881.com^
 ||8cd92a765d.c09cc9353f.com^
 ||8dc147513a.b3c8e0896a.com^
 ||8ea4f54913.4e5902f95e.com^
@@ -478,6 +487,7 @@
 ||9933284471.f9c42cfe0d.com^
 ||9ab7345d32.eb5e68dd19.com^
 ||9af74fa453.2f2d60b8b5.com^
+||9b2c408b1e.48727e9a60.com^
 ||9b626af48d.05086715f4.com^
 ||9bd66765d7.0214217ebc.com^
 ||9c8df2f37d.2f44166f35.com^
@@ -514,6 +524,7 @@
 ||b9b64ba7fd.ce4f19e315.com^
 ||bbfdc66be1.a4e04bceda.com^
 ||bc7ce027c6.8330bccb63.com^
+||bce61da3e0.158e65a1db.com^
 ||bd3e812f5b.ff2528e9d8.com^
 ||bd426d463f.10dc04504e.com^
 ||bd5fb645fb.3f8b0b3559.com^
@@ -544,6 +555,7 @@
 ||cfff1708fa.286608243d.com^
 ||d160009bcd.788facb124.com^
 ||d1f157f959.2217ce7adf.com^
+||d3b58478ca.18de296468.com^
 ||d3d98a5fbf.00609c257b.com^
 ||d54561184b.2e68bd0a8b.com^
 ||d894c2ef0e.99e65b5625.com^
@@ -578,6 +590,7 @@
 ||eed9775b19.0246cba9d4.com^
 ||ef03b5101b.f2a31b0912.com^
 ||f1b3ff4e52.22712af0b1.com^
+||f20a941e08.7bd10d8411.com^
 ||f2ae48a2ec.93a72bfca9.com^
 ||f3737ec16b.d57b6d1e63.com^
 ||f373c4c8d6.cda84af905.com^
@@ -591,7 +604,7 @@
 ||fcfa9c85a8.106778d1a7.com^
 ||fd01ce9a02.0012e30263.com^
 ||fd2c05ba60.83c62d9964.com^
-||fdb2023dff.dd268fdaa5.com^
+||fd7c9241c8.3d7b481b4d.com^
 ||fe26835492.91842100df.com^
 ||fe7cc13f95.21f5f01ad3.com^
 ||v2.selecttopoff.com^
@@ -602,9 +615,13 @@
 ||3307347c72.6e694b79b9.com^
 ||43af3542bc.1a0b76c793.com^
 ||44cb3d66c1.34c72d94d3.com^
+||bfa7591905.0cdf9706af.com^
+||d4cc84626a.f29c4af968.com^
+||fdb2023dff.dd268fdaa5.com^
 ||ff413e4e51.b69b92742d.com^
 ||014092798f.3d721db5a7.com^
 ||0160dd12b9.bc48fa9adc.com^
+||01c6000639.48cc0c0e07.com^
 ||01d449a2ad.26e8841da4.com^
 ||0241190085.2b178ee32a.com^
 ||0282ecdaf0.5b4c971817.com^
@@ -631,6 +648,7 @@
 ||1492b67edf.1fa25f6cc1.com^
 ||14b184caf9.459b6951ca.com^
 ||14ef16fec4.47757e9455.com^
+||159e568323.7f777a77a6.com^
 ||1616f15aa8.ff31fdce72.com^
 ||176a7dbbe4.5355b252cf.com^
 ||17f9a9fb6c.e910e94be7.com^
@@ -889,6 +907,7 @@
 ||b0abd8dd4e.7b13d552d3.com^
 ||b1dba49870.c8841fd6e9.com^
 ||b2d73492c8.0924201a0b.com^
+||b4f0e6deb2.3d81a14f6e.com^
 ||b5191b4a15.02e8b93f0e.com^
 ||b65773cc58.7abb9702c4.com^
 ||b8797bc051.38458bd578.com^
@@ -913,7 +932,6 @@
 ||c31945ec5c.7550f3b810.com^
 ||c385be1b58.00427011ae.com^
 ||c418cb406d.5c536d71ba.com^
-||c47eefb591.ff5860d583.com^
 ||c5b45e99bd.f308e80f54.com^
 ||c5fdf44fce.4fee6d013f.com^
 ||c66f3bb5ce.80ee887d8f.com^
@@ -935,7 +953,6 @@
 ||d3abf33f94.98d4403b02.com^
 ||d45d1190e0.61edd03ae1.com^
 ||d4a46e4655.700f312054.com^
-||d4cc84626a.f29c4af968.com^
 ||d5cec34ce9.434fc6fff7.com^
 ||d6048b93b7.09e07385f6.com^
 ||d696ba6704.7ee7484ba9.com^
@@ -1266,6 +1283,7 @@
 ||worldprofit.leftmany.pro^
 ||wpte.lovingforever.pro^
 ||ww5.fumblingvacation.pro^
+||www.ashamed-temperature.com^
 ||www.bewitched-display.pro^
 ||www.bruisedblock.pro^
 ||www.colorful-director.pro^
@@ -1288,6 +1306,7 @@
 ||www.untrueaddition.pro^
 ||www.unwieldytowel.pro^
 ||www.wobblypin.pro^
+||www.ww.deadly-nail.pro^
 ||xeruiz.foolhardywear.pro^
 ||xxpirakazxx1.fumblingvacation.pro^
 ||yahyagan.leftmany.pro^
@@ -1312,19 +1331,22 @@
 ||cdn.02xl.com^
 ||cdn.aucey.com^
 ||cdn.i993.com^
-||cdn.1vag.com^
-||cdn.tubecorp.com^
+||cdn.13dy.com^
 ||cdn.20fm.com^
 ||cdn.33apk.com^
+||cdn.3ckz.com^
 ||cdn.61yes.com^
 ||cdn.710k.com^
 ||cdn.ak2yy.com^
 ||cdn.gv924.com^
+||cdn.tbfos.com^
 ||cdn.tcwrf.com^
 ||cdn.thk4.com^
 ||cdn.wusum.com^
 ||cdn.y2mad.com^
 ||cdn.yxrcr.com^
+||cdn.1vag.com^
+||cdn.tubecorp.com^
 ||cdn.90mm1.com^
 ||cdn.djtig.com^
 ||cdn.kanjp.com^
@@ -1348,6 +1370,9 @@
 ||loc.xtr2020.com^
 ||log.fapder.com^
 ||log.perfecttitspics.com^
+||cdn.ajo77.com^
+||cdn.pmuls.com^
+||cdn.rfitc.com^
 ||cdn.bestadload.com^
 ||cdn.chicagobulls.tv^
 ||cdn.hip-97166b.com^
@@ -1366,8 +1391,6 @@
 ||cdn.s3608.com^
 ||cdn.huosp.com^
 ||static.begolbatan.com^
-||cdn.pmuls.com^
-||cdn.rfitc.com^
 ||dm.pushic.com^
 ||gu7socdn.txxx.com^
 ||js.jnkstff.com^

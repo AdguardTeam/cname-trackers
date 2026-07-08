@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783345563180        ; Serial
+           1783500119286        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,7 +60,6 @@ ar.allrun.fr CNAME .
 ar.i-run.fr CNAME .
 avlr.pincettemtl.com CNAME .
 axb4.vivabox.it CNAME .
-b1n.carabins.umontreal.ca CNAME .
 ba6b45do.eulerian.io CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
@@ -74,7 +73,6 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 c0i.ckoi.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 c45cc75f.eulerian.io CNAME .
 c4dv.copinesdevoyage.com CNAME .
 c4fyt.tremblant.ca CNAME .
@@ -181,6 +179,7 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
+eat9.thebeat925.ca CNAME .
 eb.mistermenuiserie.com CNAME .
 ed2.ledq.qc.ca CNAME .
 ed7e8cec.eulerian.io CNAME .
@@ -260,7 +259,6 @@ gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 gli9.inseec-bs.com CNAME .
 gnh2.destinia.lv CNAME .
 grht.perchemtl.com CNAME .
@@ -362,6 +360,7 @@ pda7.placedesarts.com CNAME .
 pgt1.voyage-prive.es CNAME .
 pi2.pieuvre.ca CNAME .
 piq4.inseec.education CNAME .
+pj9.pauline-julien.com CNAME .
 pkc5.hardrockhoteltenerife.com CNAME .
 pm.pmu.fr CNAME .
 po.ponant.com CNAME .
@@ -411,6 +410,7 @@ sis8.premieremoisson.com CNAME .
 six9e.canal.fr CNAME .
 sk0.monnierfreres.eu CNAME .
 ski1.skiset.com CNAME .
+slm1.leministere.ca CNAME .
 sno1.snowrental.com CNAME .
 snr4.canalplus.com CNAME .
 sr.mistermenuiserie.com CNAME .
@@ -475,6 +475,7 @@ www.attribution-day.com CNAME .
 www.attributionday.com CNAME .
 www.dataholics.fr CNAME .
 www.dataholics.tech CNAME .
+www.erdev5.eulerian.io CNAME .
 www.eulerian.ch CNAME .
 www.eulerian.cloud CNAME .
 www.fasttrack.fr CNAME .
@@ -500,8 +501,9 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
+b1n.carabins.umontreal.ca CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
-eat9.thebeat925.ca CNAME .
 erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 l2i.qualityinnlevis.com CNAME .
@@ -509,4 +511,5 @@ rwl.tremblant.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
+gi7a.structube.com CNAME .
 pk1u.melanielyne.com CNAME .

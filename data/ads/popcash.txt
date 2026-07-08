@@ -71,7 +71,6 @@
 ||cdn.mnhjk.com^
 ||cdn.mnhjkl.com^
 ||cdn.monhax.com^
-||cdn.mopy.cloud^
 ||cdn.mtinsqq.com^
 ||cdn.munilf.com^
 ||cdn.mwrgi.com^
@@ -152,6 +151,7 @@
 ||alligator.remotecyberwork.com^
 ||alpaca.hans-hornberger.com^
 ||alpaca.miidbaby.com^
+||alpaca.pkandc.com^
 ||alpaca.thesocialmedwork.com^
 ||alpaca.wingmantracker.com^
 ||amphibian.pinestc.com^
@@ -278,6 +278,7 @@
 ||catfish.pressure.cooking^
 ||catfish.sofatido.ch^
 ||catshark.janetalexandersson.com^
+||catshark.paullacey.digital^
 ||cattle.apisyouwonthate.com^
 ||cattle.driftbot.io^
 ||cattle.elitecanines.com.au^
@@ -408,6 +409,7 @@
 ||felidae.top10partnersuche.ch^
 ||ferret.3tech.no^
 ||ferret.ecvan.io^
+||ferret.emilkowal.ski^
 ||ferret.firstprogressivechurch.org^
 ||ferret.helpspace.com^
 ||ferret.jesper.hk^
@@ -446,6 +448,7 @@
 ||goat.kunalslab.com^
 ||goat.lymedocs.com^
 ||goat.vrds.app^
+||goldfish.attachmentrepair.com^
 ||goldfish.shingle.fi^
 ||goldfish.untitledspreadsheet.com^
 ||goose.accountsjs.com^
@@ -458,7 +461,6 @@
 ||grouse.i21.co^
 ||grouse.textile.io^
 ||grouse.ultimateballistics.com^
-||guan.domainnamesanity.com^
 ||guan.elfenkueche.at^
 ||guan.lathamcommunications.com^
 ||guanaco.redpixelthemes.com^
@@ -466,6 +468,7 @@
 ||guineapig.espressive.com^
 ||guineapig.themenaffin.de^
 ||guppy.ausowned.com.au^
+||guppy.drvictorarai.com^
 ||guppy.ironmic.fm^
 ||guppy.omana.me^
 ||haddock.jeffreyknox.dev^
@@ -533,7 +536,6 @@
 ||kite.cardneyestate.co.uk^
 ||kite.devin.website^
 ||kite.ibirthdayclub.com^
-||kite.launchcdn.com^
 ||kite.oakes.software^
 ||kite.zaahir.ca^
 ||kiwi.coreyodonnell.tech^
@@ -558,6 +560,7 @@
 ||ladybug.ficabo.com^
 ||ladybug.paulstovell.com^
 ||lamprey.carolcassar.com^
+||lamprey.discoform.com^
 ||lamprey.seagyndavis.com^
 ||landfowl.agoredbuild.com^
 ||landfowl.typegang.com^
@@ -604,7 +607,9 @@
 ||mackerel.passiveincome.io^
 ||magpie.onething.org^
 ||manatee.biodom.bio^
+||manatee.wemaketechsimple.com^
 ||mandrill.castingcollective.net^
+||mandrill.hamptonbeach.live^
 ||mandrill.yellowfruit.co^
 ||marlin.firstline.org^
 ||marmoset.rocketlog.app^
@@ -632,6 +637,7 @@
 ||mole.dansksejlunion.dk^
 ||mole.getfamealy.com^
 ||mole.gostartupco.com^
+||mole.venturini.dev^
 ||mollusk.working.actor^
 ||mongoose.cse-algolia.fr^
 ||mongoose.scrumgenius.com^
@@ -687,10 +693,10 @@
 ||panda.teraskolmio.fi^
 ||panda.unpublished.app^
 ||panther.codyhatfield.me^
-||panther.essentialwellnessyoga.com.au^
 ||panther.familytools.app^
 ||panther.thestocks.im^
 ||panther.tigil.rs^
+||panther.uchijapan.com^
 ||parakeet.jorenvanhocht.be^
 ||parakeet.kenleyar.ai^
 ||parakeet.phantomphone.net^
@@ -698,6 +704,7 @@
 ||parrot.alookwithin.ca^
 ||parrot.lovably.com^
 ||parrotfish.thenping.me^
+||partridge.antonius.me^
 ||peafowl.prod.fyi^
 ||penguin.craftpeak.io^
 ||penguin.revolana.com^
@@ -714,6 +721,7 @@
 ||pinniped.resist.bot^
 ||pinniped.spacecountdown.com^
 ||piranha.jsmobiledev.com^
+||piranha.keenanpayne.com^
 ||piranha.mediumsuite.co.uk^
 ||piranha.minnmyatsoe.com^
 ||planarian.614deals.com^
@@ -871,19 +879,23 @@
 ||termite.queerburners.org^
 ||tern.daffy.org^
 ||tern.xebel.co^
+||tick.builtnoble.dev^
 ||tick.sculch.app^
 ||tick.weg.plus^
+||tiger.aofinance.com.au^
 ||tiger.melissajclark.ca^
 ||tigershark.hasanahmad.ca^
 ||tigershark.integratecolumbus.org^
 ||tigershark.moonpot.com^
 ||tigershark.paavanmagic.com^
 ||tigershark.samwaymire.com^
+||tigershark.vandevliet.me^
 ||tiglon.beyondco.de^
 ||tiglon.davidroessli.com^
 ||toad.ettiennevorster.co.za^
 ||toad.frontendmentor.io^
 ||tortoise.allyinteractive.com^
+||tortoise.cult.st^
 ||tortoise.mdx.one^
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
