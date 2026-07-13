@@ -45,6 +45,7 @@ ctd.dueruote.it
 ctd.edidomus.it
 ctd.montagna.tv
 ctd.quattroruote.it
+ctd.shoped.it
 ctdfm.ilgiornale.it
 ctrkd.ilsole24ore.com
 da.hornbach.be
@@ -277,7 +278,6 @@ web.mail.parmalat.it
 web.mail.proximaati.com
 web.mailing.morawa.at
 web.mailing.storz-bickel.com
-web.mailing.vapormed.com
 web.mapp.docpeter.it
 web.mapp.edenred.it
 web.mapp.ilgiardinodeilibri.it

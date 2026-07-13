@@ -531,6 +531,7 @@
 | koala.hicks.house | deprecated-custom-domains.b-cdn.net |
 | koala.mynestbox.co.uk | deprecated-custom-domains.b-cdn.net |
 | koala.readyfive.io | deprecated-custom-domains.b-cdn.net |
+| koala.spectrum-therapeutics.de | deprecated-custom-domains.b-cdn.net |
 | koi.artsvp.co | deprecated-custom-domains.b-cdn.net |
 | koi.fftf.cat | deprecated-custom-domains.b-cdn.net |
 | koi.filtersource.com | deprecated-custom-domains.b-cdn.net |

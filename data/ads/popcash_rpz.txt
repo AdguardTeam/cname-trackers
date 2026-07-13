@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -557,6 +557,7 @@ koala.getslopes.com CNAME .
 koala.hicks.house CNAME .
 koala.mynestbox.co.uk CNAME .
 koala.readyfive.io CNAME .
+koala.spectrum-therapeutics.de CNAME .
 koi.artsvp.co CNAME .
 koi.fftf.cat CNAME .
 koi.filtersource.com CNAME .

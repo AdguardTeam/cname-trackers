@@ -1,5 +1,6 @@
 #
 # Company name: GoatCounter
+ai4debunk-demo.stats.chuniversiteit.eu
 anal.sataniskwijt.be
 analytics.applycreatures.com
 analytics.carnelian.cc
@@ -15,7 +16,6 @@ analytics.law.lco-nsn.gov
 analytics.law.mohican.com
 analytics.law.sanipueblo.org
 analytics.law.tmchippewa.com
-analytics.law.umitribe.org
 analytics.leespace.co
 analytics.popov.link
 analytics.regs.maryland.gov
@@ -37,6 +37,7 @@ count.vidsrc.pro
 counter.storydragon.nl
 da-stats.sladewatkins.net
 dot-com-stats.sladewatkins.net
+g.beesbuzz.biz
 gc.acut3.net
 gc.grokhard.com
 gc.miluchacontraeltabaco.com
@@ -164,8 +165,9 @@ stats.pttrn.io
 stats.pvme.omg.lol
 stats.r18.dev
 stats.raycordlegends.com
-stats.realestate.if.ua
+stats.realestate.cv.ua
 stats.realestate.kyiv.ua
+stats.realestate.uz.ua
 stats.rewindmtv.com
 stats.rezhajul.io
 stats.risanne.nl
@@ -173,6 +175,7 @@ stats.rocketgoboom.lol
 stats.ryanchmelir.com
 stats.sebastianzehner.com
 stats.semipol.de
+stats.sophia.fish
 stats.studiodeerenberg.nl
 stats.svc.lol
 stats.szorty.space
@@ -184,6 +187,7 @@ stats.trainsley69.me
 stats.transactional.blog
 stats.umcconnell.net
 stats.uygar.sh
+stats.vireocreative.ca
 stats.webmeasurements.org
 stats.whatacools.com
 stats.ybbond.id

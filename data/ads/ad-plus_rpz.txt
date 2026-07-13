@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,7 @@ adserving.menatech.net CNAME .
 cdn.laim.tv CNAME .
 cdn1.digita.media CNAME .
 cdn33.protagcdn.com CNAME .
+dashboard.adopsify.com CNAME .
 dashboard.alcancemg.com CNAME .
 dashboard.andbeyond.media CNAME .
 dashboard.boostads.ru CNAME .
@@ -28,6 +29,7 @@ dashboard.xqubemedia.com CNAME .
 player.collectiveaudience.co CNAME .
 player.resonance.pk CNAME .
 player.urdupoint.com CNAME .
+serving.adopsify.com CNAME .
 serving.ausdoc.com.au CNAME .
 serving.datawrkz.com CNAME .
 serving.felixads.com CNAME .

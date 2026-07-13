@@ -18,4 +18,5 @@
 | 7.www.38167473.xyz | ad-shield.cc |
 | 8.www.38167473.xyz | ad-shield.cc |
 | 9.www.38167473.xyz | ad-shield.cc |
+| host-override.ad-shield.dev | ad-shield.cc |
 | www.38167473.xyz | ad-shield.cc |

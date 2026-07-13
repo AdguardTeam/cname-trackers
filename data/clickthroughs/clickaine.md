@@ -27,6 +27,7 @@
 | api.ngamgaixinh.art | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | app.rtnews.pro | api.clickaine.com |
+| asg.example.com.audioxstory.com | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
 | bat36.gimmeporn.xyz | api.clickaine.com |
@@ -109,6 +110,7 @@
 | www.brandnewapp.pro | api.clickaine.com |
 | www.daws4-3.brandnewapp.pro | api.clickaine.com |
 | www.faq.brandnewapp.pro | api.clickaine.com |
+| www.hapenny.brandnewapp.pro | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
 | www.station54k.brandnewapp.pro | api.clickaine.com |
 | www.telford.brandnewapp.pro | api.clickaine.com |

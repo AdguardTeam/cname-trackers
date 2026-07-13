@@ -49,6 +49,7 @@
 ||t.trackora.space^
 ||t.trackpulse.uno^
 ||t.traklume.space^
+||t.traxivo.uno^
 ||t.trckforge.site^
 ||t.trcktr.com^
 ||t.trkav.name^

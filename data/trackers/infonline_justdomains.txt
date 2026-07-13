@@ -377,8 +377,10 @@ data-34c9d32b77.apps.iocnt.de
 data-353c1c8501.falstaff.com
 data-35b9638d7b.bibdia-mobil.de
 data-366a248b14.film.at
+data-367bcf5bd6.german-retail-blog.com
 data-367bcf5bd6.lebensmittelzeitung.de
 data-367bcf5bd6.lebensmittelzeitung.net
+data-367bcf5bd6.lz-blog.de
 data-367bcf5bd6.lzjobs.de
 data-36851a8aa0.apps.iocnt.de
 data-3698886e7b.manager-magazin.de
@@ -442,6 +444,7 @@ data-3cce760e0e.gq-magazin.de
 data-3cd8fb3825.kicker.de
 data-3d30b366ad.cavallo.de
 data-3d30b366ad.elektrobike-online.com
+data-3d30b366ad.karl.jetzt
 data-3d30b366ad.mountainbike-magazin.de
 data-3d30b366ad.outdoorchannel.de
 data-3d30b366ad.roadbike.de
@@ -591,6 +594,7 @@ data-497ecca600.ga-story.de
 data-497ecca600.ga.de
 data-497ecca600.moneyspecial.de
 data-497ecca600.news-trier.de
+data-497ecca600.rp-online-dating.de
 data-497ecca600.rp-online.de
 data-497ecca600.s4p-iapps.com
 data-497ecca600.saarbruecker-zeitung.de
@@ -842,6 +846,7 @@ data-661a70098f.muehlacker-tagblatt.de
 data-663387616d.idcdn.de
 data-664e19af6d.11freunde.de
 data-66584305d5.mainpost.de
+data-66b7771b69.motorsport.com
 data-66d1660bfe.etailment.de
 data-678db07fc3.apps.iocnt.de
 data-67e5b22ff5.apps.iocnt.de
@@ -976,6 +981,7 @@ data-7b705d0b93.b4bschwaben.de
 data-7bd40aa49e.laendleimmo.at
 data-7c0fd2a117.meinenzkreis.de
 data-7c0fd2a117.pz-news.de
+data-7c0fd2a117.pz-nightlife.de
 data-7c4521058c.apps.iocnt.de
 data-7de4e2b45e.zfk.de
 data-7e3ab64dc5.brandeins.de
@@ -1113,10 +1119,12 @@ data-8ca02b3a5d.versicherungsjournal.de
 data-8cbd29cf98.kabeleins.at
 data-8cc19d99e5.deutsche-handwerks-zeitung.de
 data-8d1d4989b8.weinheim.de
+data-8d2a1cae6d.fondsprofessionell.at
 data-8d3bec589f.schwaebische.de
 data-8d4563cf4e.gesundheitstrends.com
 data-8d5185014c.apps.iocnt.de
 data-8d9711db79.gusto.at
+data-8dffad7d98.photovoltaik.eu
 data-8e0cc612e5.lighting-jobs.de
 data-8e2d0c548f.apps.iocnt.de
 data-8e96b6cfc5.gelbeseiten.de
@@ -1142,6 +1150,7 @@ data-91f69542bd.radiolippe.de
 data-924def9ef0.apps.iocnt.de
 data-9265b7c6dd.computer-automation.de
 data-927768f668.pharmazeutische-zeitung.de
+data-927768f668.schaffrath-neuemedien.de
 data-92cc871c16.glaswelt.de
 data-92cf33b2ed.testfaz.net
 data-93158690b1.moviepilot.de
@@ -1194,6 +1203,7 @@ data-9a1b3ebe02.apps.iocnt.de
 data-9a326ab638.connect.de
 data-9a84c04ecb.meintophotel.de
 data-9aa5e80b66.superillu.de
+data-9ab6c5063f.sat1gold.at
 data-9ab8a13cda.it-business.de
 data-9abcf11034.einfachkochen.de
 data-9ac0797a75.4gamechangers.io
@@ -1247,6 +1257,7 @@ data-a01a8a1ba4.main-spitze.de
 data-a01a8a1ba4.mittelhessen.de
 data-a01a8a1ba4.oberhessische-zeitung.de
 data-a01a8a1ba4.p-stadtkultur.de
+data-a01a8a1ba4.usinger-anzeiger.de
 data-a01a8a1ba4.vrm-immo.de
 data-a01a8a1ba4.vrm-trauer.de
 data-a01a8a1ba4.vrm-wochenblaetter.de
@@ -1402,6 +1413,7 @@ data-b19f3371de.songtexte.com
 data-b1ae357847.apps.iocnt.de
 data-b204b9f978.4players.de
 data-b21e1c06f5.apps.iocnt.de
+data-b261ece11d.wochenblatt.de
 data-b2b62acd29.big-fm.de
 data-b2b62acd29.bigfm.de
 data-b2b62acd29.bigkarriere.de
@@ -1652,6 +1664,7 @@ data-d4dfa4bc2c.weather.com
 data-d50538de89.5min.at
 data-d53414767b.apps.iocnt.de
 data-d543661da8.oe24.at
+data-d5c733accc.infonline.de
 data-d5cb47d8e4.radiotop40.de
 data-d5d9e85944.textilwirtschaft.de
 data-d5efd1b9c0.dzonline.de

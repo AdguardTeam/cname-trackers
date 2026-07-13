@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -160,7 +160,6 @@ plausible.canpoi.com CNAME .
 plausible.conveyal.com CNAME .
 plausible.countingindia.com CNAME .
 plausible.dailytics.com CNAME .
-plausible.dev.logicboard.com CNAME .
 plausible.doctave.com CNAME .
 plausible.easytrak.io CNAME .
 plausible.ejs.dev CNAME .
@@ -181,7 +180,6 @@ plausible.joinself.com CNAME .
 plausible.kabaret.no CNAME .
 plausible.kdojang.com CNAME .
 plausible.lesbianromantic.com CNAME .
-plausible.logicboard.com CNAME .
 plausible.marker12.org CNAME .
 plausible.mattpruitt.com CNAME .
 plausible.mcj.co CNAME .
@@ -340,7 +338,6 @@ stats.catholicluv.com CNAME .
 stats.centralswindonnorth-pc.gov.uk CNAME .
 stats.cfcasts.com CNAME .
 stats.changelog.com CNAME .
-stats.chomp.haus CNAME .
 stats.chronoslabs.net CNAME .
 stats.clavisaurea.xyz CNAME .
 stats.cleverdiabetic.com CNAME .
@@ -518,7 +515,6 @@ stats.legendofnom.com CNAME .
 stats.leoloso.com CNAME .
 stats.lica.at CNAME .
 stats.lik.fr CNAME .
-stats.limitlessnetworks.eu CNAME .
 stats.lippeshirts.de CNAME .
 stats.literacysomerset.org CNAME .
 stats.literaturkreis.online CNAME .
@@ -607,7 +603,6 @@ stats.poweringpastcoal.org CNAME .
 stats.practicepl.us CNAME .
 stats.pricewell.io CNAME .
 stats.principedepaz.gt CNAME .
-stats.procumeni.cz CNAME .
 stats.prodtype.com CNAME .
 stats.profitablesignpricing.com CNAME .
 stats.projectcongress.com CNAME .

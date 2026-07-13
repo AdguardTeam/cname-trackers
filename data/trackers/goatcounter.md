@@ -9,6 +9,7 @@
     * abdodaoud.goatcounter.com
     * abdoughnut.goatcounter.com
     * acut3.goatcounter.com
+    * ai4debunk-demo.goatcounter.com
     * alextecplayz.goatcounter.com
     * andreabrandi.goatcounter.com
     * apitman_com.goatcounter.com
@@ -26,6 +27,7 @@
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
     * burningbutter.goatcounter.com
+    * busybee.goatcounter.com
     * carlomega.goatcounter.com
     * cassie.goatcounter.com
     * celerry.goatcounter.com
@@ -107,7 +109,6 @@
     * law-cityofsanmateo-org.goatcounter.com
     * law-mohican-com.goatcounter.com
     * law-tmchippewa-com.goatcounter.com
-    * law-umitribe-org.goatcounter.com
     * lco-nsn-us-open-law.goatcounter.com
     * lena-binkowski.goatcounter.com
     * linerly.goatcounter.com
@@ -141,10 +142,12 @@
     * programmershideaway.goatcounter.com
     * psiyum.goatcounter.com
     * pttrn.goatcounter.com
+    * pufferfish101007.goatcounter.com
     * qrdate.goatcounter.com
     * r18.goatcounter.com
-    * reifua.goatcounter.com
+    * recvua.goatcounter.com
     * repath-studio.goatcounter.com
+    * reuzua.goatcounter.com
     * rewindmtv.goatcounter.com
     * rezha.goatcounter.com
     * riggraz.goatcounter.com
@@ -188,6 +191,7 @@
     * uygar-dot-sh.goatcounter.com
     * valentineus.goatcounter.com
     * vault.goatcounter.com
+    * vireo.goatcounter.com
     * vpro.goatcounter.com
     * whatacools.goatcounter.com
     * wy3di4xcbj.goatcounter.com
@@ -208,6 +212,7 @@
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.abdo.wtf | abdoughnut.goatcounter.com |
 | gc.acut3.net | acut3.goatcounter.com |
+| ai4debunk-demo.stats.chuniversiteit.eu | ai4debunk-demo.goatcounter.com |
 | stats.alextecplayz.com | alextecplayz.goatcounter.com |
 | count.andreabrandi.com | andreabrandi.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
@@ -225,6 +230,7 @@
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
 | tracking.burningbutter.com | burningbutter.goatcounter.com |
+| g.beesbuzz.biz | busybee.goatcounter.com |
 | stats.carlomega.it | carlomega.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
@@ -311,7 +317,6 @@
 | cityofsanmateo.analytics.open.law | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
-| analytics.law.umitribe.org | law-umitribe-org.goatcounter.com |
 | analytics.law.lco-nsn.gov | lco-nsn-us-open-law.goatcounter.com |
 | stats.lena-binkowski.de | lena-binkowski.goatcounter.com |
 | stats.linerly.xyz | linerly.goatcounter.com |
@@ -349,10 +354,12 @@
 | stats.programmershideaway.dev | programmershideaway.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | stats.pttrn.io | pttrn.goatcounter.com |
+| stats.sophia.fish | pufferfish101007.goatcounter.com |
 | c.qrdate.org | qrdate.goatcounter.com |
 | stats.r18.dev | r18.goatcounter.com |
-| stats.realestate.if.ua | reifua.goatcounter.com |
+| stats.realestate.cv.ua | recvua.goatcounter.com |
 | analytics.repath.studio | repath-studio.goatcounter.com |
+| stats.realestate.uz.ua | reuzua.goatcounter.com |
 | stats.rewindmtv.com | rewindmtv.goatcounter.com |
 | stats.rezhajul.io | rezha.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
@@ -397,6 +404,7 @@
 | stats.uygar.sh | uygar-dot-sh.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
+| stats.vireocreative.ca | vireo.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.webmeasurements.org | wy3di4xcbj.goatcounter.com |

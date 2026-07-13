@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,7 +38,6 @@ a8.anipos.com CNAME .
 a8.aphex-group.com CNAME .
 a8.application2.jtca2020.or.jp CNAME .
 a8.arrrt-shop.com CNAME .
-a8.asdf.co.jp CNAME .
 a8.au-hikarinet.com CNAME .
 a8.avalon-works.com CNAME .
 a8.b-cafe.net CNAME .
@@ -655,9 +654,7 @@ a8clk.skima.jp CNAME .
 a8clk.skynet-c.jp CNAME .
 a8clk.skyoffice.info CNAME .
 a8clk.smart-keiri.com CNAME .
-a8clk.smartmethod.rarejob.com CNAME .
 a8clk.smile-zemi.jp CNAME .
-a8clk.sougi.294p.com CNAME .
 a8clk.sp.move-ebike.co.jp CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .
@@ -693,7 +690,6 @@ a8clk.uzu.team CNAME .
 a8clk.voice-inc.co.jp CNAME .
 a8clk.waq-online.com CNAME .
 a8clk.web-camp.io CNAME .
-a8clk.wedding.294p.com CNAME .
 a8clk.weleda.jp CNAME .
 a8clk.wellness-job.jp CNAME .
 a8clk.wi-ho.net CNAME .

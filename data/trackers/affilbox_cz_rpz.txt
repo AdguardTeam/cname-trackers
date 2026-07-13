@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -276,6 +276,7 @@ box.kryptotrejder.sk CNAME .
 champions.betubetu.com CNAME .
 collab.zdravetricko.cz CNAME .
 cooperation.mitochondriak.com CNAME .
+cooperation.mitochondriak.cz CNAME .
 cooperation.mitochondriak.pl CNAME .
 cooperation.mitochondriak.sk CNAME .
 cryptonow.algomoneo.com CNAME .
@@ -330,7 +331,6 @@ my.kickz.com CNAME .
 my.top4fitness.cz CNAME .
 my.top4fitness.de CNAME .
 my.top4fitness.gr CNAME .
-my.top4fitness.sk CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
@@ -913,6 +913,7 @@ provize.wugi.cz CNAME .
 provize.zazitkovelety.cz CNAME .
 provizia.mimulo.sk CNAME .
 proviznisystem.kanclir.cz CNAME .
+shop.zlatogulden.cz CNAME .
 special.kvetinyexpres.cz CNAME .
 splatky.aquatrend.sk CNAME .
 spolu.kuskakaa.cz CNAME .

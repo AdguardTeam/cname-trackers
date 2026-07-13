@@ -270,6 +270,7 @@
 3338444.notifysrv.com
 3340606.notifysrv.com
 3343302.notifysrv.com
+3343536.notify6.com
 3344832.notifysrv.com
 3344944.notifysrv.com
 3345712.notifysrv.com
@@ -324,6 +325,7 @@
 3440155.notify6.com
 3440155.notifysrv.com
 3440159.notify6.com
+3440403.notify6.com
 3440407.notifysrv.com
 3440409.notifysrv.com
 3440411.notify6.com
@@ -340,6 +342,7 @@
 3464703.notify6.com
 3464703.notifysrv.com
 3466497.notifysrv.com
+3466845.notifysrv.com
 3466857.notifysrv.com
 3466861.notify6.com
 3466861.notifysrv.com
@@ -452,6 +455,7 @@
 3662557.notifysrv.com
 3662593.notifysrv.com
 3662839.notify6.com
+3662845.notify6.com
 3662963.notifysrv.com
 3662967.notify6.com
 3662967.notifysrv.com
@@ -475,6 +479,7 @@
 3714181.notify6.com
 3714181.notifysrv.com
 3715633.notifysrv.com
+3717105.notify6.com
 3717105.notifysrv.com
 3717259.notifysrv.com
 3719901.notify6.com
@@ -488,6 +493,7 @@
 3745191.notifysrv.com
 3752469.notifysrv.com
 3762001.notifysrv.com
+3765051.notify6.com
 3767411.notify6.com
 3768747.notify6.com
 3768747.notifysrv.com
@@ -583,6 +589,7 @@
 3995186.notify6.com
 4.notify.bizonads-ssp.com
 4003022.notify6.com
+4003752.notify6.com
 4004510.notify6.com
 4014230.notify6.com
 4018398.notify6.com
@@ -594,6 +601,7 @@
 4037426.notify6.com
 4037428.notify6.com
 4045406.notify6.com
+4047182.notify6.com
 4048172.notify6.com
 4050740.notify6.com
 4062416.notify6.com
@@ -771,12 +779,11 @@ a.am7srv.com
 a.asvsm.com
 a.b2bstars.com
 a.b7q9v8z.com
-a.brilmaver.com
 a.cant3am.com
 a.chmsrv.com
 a.crme7srv.com
-a.etology.com
 a.eunow4u.com
+a.flirtads.net
 a.gentlefieldpattern.com
 a.happyleafmotion.com
 a.hkartg.com
@@ -792,6 +799,7 @@ a.playa.to
 a.q88z1s3.com
 a.r8lnet.com
 a.rocoads.net
+a.santabrowser.com
 a.t5z3w0p.com
 a.tf4srv.com
 a.traffic-gold.com
@@ -807,6 +815,7 @@ admin.etology.com
 admin.exoclick.com
 admin.gettopple.com
 admin.landingtrk.com
+admin.paradoxgroup.co
 admin.rocoads.net
 admin.traf-gold.com
 admin.traffic-gold.com
@@ -915,6 +924,7 @@ s.chnsrv.com
 s.clearskyrhythm.com
 s.cm9srv.com
 s.crme7srv.com
+s.draqarys.com
 s.ds10lf.com
 s.ds165z.com
 s.ds2beb.com
@@ -1258,5 +1268,5 @@ www.voltcp.3323174.notifysrv.com
 zooplus.it3440403.notify6.com
 zooplus.it3524339.notify6.com
 zooplus.it4060008.notify6.com
-a.flirtads.net
-a.santabrowser.com
+a.brilmaver.com
+a.etology.com

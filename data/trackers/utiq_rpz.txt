@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,6 +71,7 @@ utiq.autoplus.fr CNAME .
 utiq.az-online.de CNAME .
 utiq.berlin-live.de CNAME .
 utiq.bfmtv.com CNAME .
+utiq.bfops.io CNAME .
 utiq.bibamagazine.fr CNAME .
 utiq.bild.de CNAME .
 utiq.bitban.com CNAME .

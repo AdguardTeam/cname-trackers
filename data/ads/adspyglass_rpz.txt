@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -94,6 +94,7 @@ a.boget.xyz CNAME .
 a.boostlo.xyz CNAME .
 a.brebo.xyz CNAME .
 a.breka.fit CNAME .
+a.carolynservice.kro.kr CNAME .
 a.ceget.xyz CNAME .
 a.celeb.st CNAME .
 a.celit.xyz CNAME .
@@ -128,7 +129,6 @@ a.enlor.xyz CNAME .
 a.epito.xyz CNAME .
 a.ergent.xyz CNAME .
 a.fapcat.com CNAME .
-a.fapster.xxx CNAME .
 a.febeb.xyz CNAME .
 a.febto.xyz CNAME .
 a.fegent.xyz CNAME .
@@ -193,7 +193,6 @@ a.myprettyads.one CNAME .
 a.omeotex.com CNAME .
 a.pchat.com CNAME .
 a.pinayviralsexx.com CNAME .
-a.pinoymoviepedia.ru CNAME .
 a.pornchum.com CNAME .
 a.pornhex.com CNAME .
 a.redd.porn CNAME .
@@ -210,6 +209,7 @@ a.trusa.xyz CNAME .
 a.umbrosadigital.com CNAME .
 a.vidone.net CNAME .
 a.yamcha.xyz CNAME .
+a1.uploadx.io CNAME .
 a2gp.diveinthebluesky.biz CNAME .
 a6iemt79.xyz CNAME .
 a9o.youlikeboys.com CNAME .
@@ -278,7 +278,6 @@ api.adultsclips.com CNAME .
 api.shinybirdwhispered.com CNAME .
 api.shubunk.com CNAME .
 app.dlsite123.online CNAME .
-app.eduseio.com CNAME .
 app.phimvu.app CNAME .
 app.yrotary.com CNAME .
 apple.arabtoons.net CNAME .
@@ -303,7 +302,6 @@ arabs.alarbda.com CNAME .
 arabs.alarbda.net CNAME .
 arabs.arab-xn.com CNAME .
 arabs.arabxforum.com CNAME .
-arabs.arabxn.org CNAME .
 arabs.arabxporn.net CNAME .
 arabs.arbada.net CNAME .
 arabs.arbda.org CNAME .
@@ -311,7 +309,6 @@ arabs.nodzway.com CNAME .
 arabs.pornarabi.net CNAME .
 arabs.sexalarbda.com CNAME .
 arabs.sexarbda.com CNAME .
-arabss.arabxn.org CNAME .
 ars.bloblohub.com CNAME .
 as.ebacdn.com CNAME .
 as.ebalovo.adult CNAME .
@@ -333,7 +330,6 @@ asg.irontube.net CNAME .
 asg.laivue.com CNAME .
 asg.likexxxtube.com CNAME .
 asg.mainos.pro CNAME .
-asg.moviesex.org CNAME .
 asg.phukienthoitranggiare.com CNAME .
 asg.poplink.info CNAME .
 asg.pornomoglie.com CNAME .
@@ -374,7 +370,6 @@ b.xlineker.com CNAME .
 b1.hentaibaka.one CNAME .
 b1ll3r11.xyz CNAME .
 b1xuekes.xyz CNAME .
-b8i2q.gaypornhd.com CNAME .
 b8ms7gkwq7g.crocotube.com CNAME .
 banana.arabtoons.net CNAME .
 bancaleafe.xyz CNAME .
@@ -498,7 +493,6 @@ e0d7lwti.xyz CNAME .
 ebd.cda-hd.cc CNAME .
 ebd.cda-hd.co CNAME .
 eco.blendxxx.com CNAME .
-eduseio.com CNAME .
 edzj9b6fjmhw3kt4.production.bloblohub.com CNAME .
 eh3pix0b.xyz CNAME .
 embed.name CNAME .
@@ -562,7 +556,6 @@ gss.rstrix.com CNAME .
 gx0.funfuckmovies.com CNAME .
 gyimie.womaametoto.xyz CNAME .
 h.bloblohub.com CNAME .
-h037n.letsporn.com CNAME .
 h4o565egjgi0v4bz.hubhubhub.name CNAME .
 h66niuy6.xyz CNAME .
 harbor08062025.shop CNAME .
@@ -583,17 +576,6 @@ i-0c8d1bb4c1a648ae1.hubhubhub.name CNAME .
 i.4kporn.xxx CNAME .
 i.bloblohub.com CNAME .
 i.love4porn.com CNAME .
-i.mayoblast.com CNAME .
-i10.mayoblast.com CNAME .
-i11.mayoblast.com CNAME .
-i2.mayoblast.com CNAME .
-i3.mayoblast.com CNAME .
-i4.mayoblast.com CNAME .
-i5.mayoblast.com CNAME .
-i6.mayoblast.com CNAME .
-i7.mayoblast.com CNAME .
-i8.mayoblast.com CNAME .
-i9.mayoblast.com CNAME .
 icahm62q.xyz CNAME .
 idealjav09212026.shop CNAME .
 ignore.hot-bbw-tube.com CNAME .
@@ -640,6 +622,7 @@ js.xemkqxs.com CNAME .
 jsnd.fapnado.xxx CNAME .
 jvc.javboys.online CNAME .
 jx3.freepornobook.com CNAME .
+jxvwyr4l.xyz CNAME .
 jz8zyg3f.xyz CNAME .
 k.bloblohub.com CNAME .
 k5ob0kmh.xyz CNAME .
@@ -924,7 +907,6 @@ sktskt.aisfokgqw.online CNAME .
 slit.lewd.rip CNAME .
 sol.kjhbskd.com CNAME .
 sol.tlcgher.com CNAME .
-solo.chinese-sex-tube.com CNAME .
 sp1.freeonlinegayporn.com CNAME .
 spa.arabtoons.net CNAME .
 spots.sabrinablond.com CNAME .
@@ -935,6 +917,7 @@ spyglass.reklon.net CNAME .
 sqybrgc6.xyz CNAME .
 srv.biigo.xyz CNAME .
 ssp.asiaflix.net CNAME .
+ssp.semuadisini.xyz CNAME .
 st.asiaxbit.com CNAME .
 stacy.hubhubhub.name CNAME .
 stage.bloblohub.com CNAME .
@@ -988,7 +971,6 @@ ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 tum8.vuu3bd53.lol CNAME .
 txoswd4i.xyz CNAME .
-u1zga.letsporn.com CNAME .
 u51o6pqk.xyz CNAME .
 u655vlo5.xyz CNAME .
 uacabilqlgpw.cdnvideo3.com CNAME .
@@ -1104,7 +1086,6 @@ x1-24.fin.ovh CNAME .
 x1-p25d.fin.ovh CNAME .
 x1cdn.fin.ovh CNAME .
 x2sfa.javgg.eu CNAME .
-x9ner.anygay.com CNAME .
 xgquu0bp.xyz CNAME .
 xh1tsu69.xyz CNAME .
 xj9gth5i.xyz CNAME .
@@ -1128,6 +1109,7 @@ ys73fwrg.xyz CNAME .
 yt7ztgi0.xyz CNAME .
 z.oviss.space CNAME .
 z0000g.yorkvillemarketing.net CNAME .
+z5g022gc.xyz CNAME .
 zhqz.transhero.com CNAME .
 zmrzlin.amateurswild.com CNAME .
 zp0o8pii.xyz CNAME .

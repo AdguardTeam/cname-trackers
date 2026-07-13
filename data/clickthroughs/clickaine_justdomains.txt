@@ -19,6 +19,7 @@ api.hugemedia.cz
 api.ngamgaixinh.art
 api.rtnews.pro
 app.rtnews.pro
+asg.example.com.audioxstory.com
 asg.javhoho.com
 asg.pienude.com
 bat36.gimmeporn.xyz
@@ -101,6 +102,7 @@ wp.brandnewapp.pro
 www.brandnewapp.pro
 www.daws4-3.brandnewapp.pro
 www.faq.brandnewapp.pro
+www.hapenny.brandnewapp.pro
 www.rtnews.pro
 www.station54k.brandnewapp.pro
 www.telford.brandnewapp.pro

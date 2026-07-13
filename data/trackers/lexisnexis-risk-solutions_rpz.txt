@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -299,6 +299,7 @@ cim-idc-cdn.account.bcbsok.com CNAME .
 cim-idc-cdn.account.bcbstx.com CNAME .
 cim-idc-cdn.account.hcsc.net CNAME .
 cim-idc-cdn.account.hcsctest.net CNAME .
+cim-idc-cdn.account.test.bcbsil.com CNAME .
 cim-idc-cdn.account.test.bcbsok.com CNAME .
 cim-idc-cdn.account.test.bcbstx.com CNAME .
 cim-idc-cdn.account.wellontarget.com CNAME .
@@ -356,6 +357,7 @@ content.clubpremier.com CNAME .
 content.cofidis.pt CNAME .
 content.conapcg.com CNAME .
 content.connexion-mabanque.bnpparibas CNAME .
+content.connexion.hellobank.fr CNAME .
 content.consumercardaccess.com CNAME .
 content.covantagecu.org CNAME .
 content.ctfs.com CNAME .
@@ -409,6 +411,7 @@ content.koalafi.com CNAME .
 content.kylottery.com CNAME .
 content.lequipeur.com CNAME .
 content.listsource.com CNAME .
+content.lumen.cards CNAME .
 content.lyft.com CNAME .
 content.mabanque.bnpparibas CNAME .
 content.mabanqueprivee.bnpparibas CNAME .
@@ -638,6 +641,7 @@ ep-content.viviraty.pl CNAME .
 ep.heartland.co.nz CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
+ersriln.hroffice.com CNAME .
 eve.playstation.com CNAME .
 event.evtm.53.com CNAME .
 ext.creditpartner.fr CNAME .
@@ -1076,6 +1080,7 @@ sec.login.ocn.ne.jp CNAME .
 sec.login.sdnp.ntt.ocn.ne.jp CNAME .
 sec.mypage.ocn.ne.jp CNAME .
 sec.plala.or.jp CNAME .
+seccheck.technogym.com CNAME .
 secure-collector.zen.com CNAME .
 secure-hub.procreditbank.md CNAME .
 secure-service.id.dbsdigibank.com CNAME .

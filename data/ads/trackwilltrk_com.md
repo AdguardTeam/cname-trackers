@@ -58,6 +58,7 @@
 | t.trackora.space | r.trackwilltrk.com |
 | t.trackpulse.uno | r.trackwilltrk.com |
 | t.traklume.space | r.trackwilltrk.com |
+| t.traxivo.uno | r.trackwilltrk.com |
 | t.trckforge.site | r.trackwilltrk.com |
 | t.trcktr.com | r.trackwilltrk.com |
 | t.trkav.name | r.trackwilltrk.com |

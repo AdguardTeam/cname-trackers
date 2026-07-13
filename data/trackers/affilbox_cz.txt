@@ -265,6 +265,7 @@
 ||champions.betubetu.com^
 ||collab.zdravetricko.cz^
 ||cooperation.mitochondriak.com^
+||cooperation.mitochondriak.cz^
 ||cooperation.mitochondriak.pl^
 ||cooperation.mitochondriak.sk^
 ||cryptonow.algomoneo.com^
@@ -319,7 +320,6 @@
 ||my.top4fitness.cz^
 ||my.top4fitness.de^
 ||my.top4fitness.gr^
-||my.top4fitness.sk^
 ||my.top4running.at^
 ||my.top4running.be^
 ||my.top4running.bg^
@@ -902,6 +902,7 @@
 ||provize.zazitkovelety.cz^
 ||provizia.mimulo.sk^
 ||proviznisystem.kanclir.cz^
+||shop.zlatogulden.cz^
 ||special.kvetinyexpres.cz^
 ||splatky.aquatrend.sk^
 ||spolu.kuskakaa.cz^

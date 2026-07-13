@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -388,8 +388,10 @@ data-34c9d32b77.apps.iocnt.de CNAME .
 data-353c1c8501.falstaff.com CNAME .
 data-35b9638d7b.bibdia-mobil.de CNAME .
 data-366a248b14.film.at CNAME .
+data-367bcf5bd6.german-retail-blog.com CNAME .
 data-367bcf5bd6.lebensmittelzeitung.de CNAME .
 data-367bcf5bd6.lebensmittelzeitung.net CNAME .
+data-367bcf5bd6.lz-blog.de CNAME .
 data-367bcf5bd6.lzjobs.de CNAME .
 data-36851a8aa0.apps.iocnt.de CNAME .
 data-3698886e7b.manager-magazin.de CNAME .
@@ -453,6 +455,7 @@ data-3cce760e0e.gq-magazin.de CNAME .
 data-3cd8fb3825.kicker.de CNAME .
 data-3d30b366ad.cavallo.de CNAME .
 data-3d30b366ad.elektrobike-online.com CNAME .
+data-3d30b366ad.karl.jetzt CNAME .
 data-3d30b366ad.mountainbike-magazin.de CNAME .
 data-3d30b366ad.outdoorchannel.de CNAME .
 data-3d30b366ad.roadbike.de CNAME .
@@ -602,6 +605,7 @@ data-497ecca600.ga-story.de CNAME .
 data-497ecca600.ga.de CNAME .
 data-497ecca600.moneyspecial.de CNAME .
 data-497ecca600.news-trier.de CNAME .
+data-497ecca600.rp-online-dating.de CNAME .
 data-497ecca600.rp-online.de CNAME .
 data-497ecca600.s4p-iapps.com CNAME .
 data-497ecca600.saarbruecker-zeitung.de CNAME .
@@ -853,6 +857,7 @@ data-661a70098f.muehlacker-tagblatt.de CNAME .
 data-663387616d.idcdn.de CNAME .
 data-664e19af6d.11freunde.de CNAME .
 data-66584305d5.mainpost.de CNAME .
+data-66b7771b69.motorsport.com CNAME .
 data-66d1660bfe.etailment.de CNAME .
 data-678db07fc3.apps.iocnt.de CNAME .
 data-67e5b22ff5.apps.iocnt.de CNAME .
@@ -987,6 +992,7 @@ data-7b705d0b93.b4bschwaben.de CNAME .
 data-7bd40aa49e.laendleimmo.at CNAME .
 data-7c0fd2a117.meinenzkreis.de CNAME .
 data-7c0fd2a117.pz-news.de CNAME .
+data-7c0fd2a117.pz-nightlife.de CNAME .
 data-7c4521058c.apps.iocnt.de CNAME .
 data-7de4e2b45e.zfk.de CNAME .
 data-7e3ab64dc5.brandeins.de CNAME .
@@ -1124,10 +1130,12 @@ data-8ca02b3a5d.versicherungsjournal.de CNAME .
 data-8cbd29cf98.kabeleins.at CNAME .
 data-8cc19d99e5.deutsche-handwerks-zeitung.de CNAME .
 data-8d1d4989b8.weinheim.de CNAME .
+data-8d2a1cae6d.fondsprofessionell.at CNAME .
 data-8d3bec589f.schwaebische.de CNAME .
 data-8d4563cf4e.gesundheitstrends.com CNAME .
 data-8d5185014c.apps.iocnt.de CNAME .
 data-8d9711db79.gusto.at CNAME .
+data-8dffad7d98.photovoltaik.eu CNAME .
 data-8e0cc612e5.lighting-jobs.de CNAME .
 data-8e2d0c548f.apps.iocnt.de CNAME .
 data-8e96b6cfc5.gelbeseiten.de CNAME .
@@ -1153,6 +1161,7 @@ data-91f69542bd.radiolippe.de CNAME .
 data-924def9ef0.apps.iocnt.de CNAME .
 data-9265b7c6dd.computer-automation.de CNAME .
 data-927768f668.pharmazeutische-zeitung.de CNAME .
+data-927768f668.schaffrath-neuemedien.de CNAME .
 data-92cc871c16.glaswelt.de CNAME .
 data-92cf33b2ed.testfaz.net CNAME .
 data-93158690b1.moviepilot.de CNAME .
@@ -1205,6 +1214,7 @@ data-9a1b3ebe02.apps.iocnt.de CNAME .
 data-9a326ab638.connect.de CNAME .
 data-9a84c04ecb.meintophotel.de CNAME .
 data-9aa5e80b66.superillu.de CNAME .
+data-9ab6c5063f.sat1gold.at CNAME .
 data-9ab8a13cda.it-business.de CNAME .
 data-9abcf11034.einfachkochen.de CNAME .
 data-9ac0797a75.4gamechangers.io CNAME .
@@ -1258,6 +1268,7 @@ data-a01a8a1ba4.main-spitze.de CNAME .
 data-a01a8a1ba4.mittelhessen.de CNAME .
 data-a01a8a1ba4.oberhessische-zeitung.de CNAME .
 data-a01a8a1ba4.p-stadtkultur.de CNAME .
+data-a01a8a1ba4.usinger-anzeiger.de CNAME .
 data-a01a8a1ba4.vrm-immo.de CNAME .
 data-a01a8a1ba4.vrm-trauer.de CNAME .
 data-a01a8a1ba4.vrm-wochenblaetter.de CNAME .
@@ -1413,6 +1424,7 @@ data-b19f3371de.songtexte.com CNAME .
 data-b1ae357847.apps.iocnt.de CNAME .
 data-b204b9f978.4players.de CNAME .
 data-b21e1c06f5.apps.iocnt.de CNAME .
+data-b261ece11d.wochenblatt.de CNAME .
 data-b2b62acd29.big-fm.de CNAME .
 data-b2b62acd29.bigfm.de CNAME .
 data-b2b62acd29.bigkarriere.de CNAME .
@@ -1663,6 +1675,7 @@ data-d4dfa4bc2c.weather.com CNAME .
 data-d50538de89.5min.at CNAME .
 data-d53414767b.apps.iocnt.de CNAME .
 data-d543661da8.oe24.at CNAME .
+data-d5c733accc.infonline.de CNAME .
 data-d5cb47d8e4.radiotop40.de CNAME .
 data-d5d9e85944.textilwirtschaft.de CNAME .
 data-d5efd1b9c0.dzonline.de CNAME .

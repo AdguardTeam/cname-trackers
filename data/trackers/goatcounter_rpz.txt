@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+ai4debunk-demo.stats.chuniversiteit.eu CNAME .
 anal.sataniskwijt.be CNAME .
 analytics.applycreatures.com CNAME .
 analytics.carnelian.cc CNAME .
@@ -26,7 +27,6 @@ analytics.law.lco-nsn.gov CNAME .
 analytics.law.mohican.com CNAME .
 analytics.law.sanipueblo.org CNAME .
 analytics.law.tmchippewa.com CNAME .
-analytics.law.umitribe.org CNAME .
 analytics.leespace.co CNAME .
 analytics.popov.link CNAME .
 analytics.regs.maryland.gov CNAME .
@@ -48,6 +48,7 @@ count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
 da-stats.sladewatkins.net CNAME .
 dot-com-stats.sladewatkins.net CNAME .
+g.beesbuzz.biz CNAME .
 gc.acut3.net CNAME .
 gc.grokhard.com CNAME .
 gc.miluchacontraeltabaco.com CNAME .
@@ -175,8 +176,9 @@ stats.pttrn.io CNAME .
 stats.pvme.omg.lol CNAME .
 stats.r18.dev CNAME .
 stats.raycordlegends.com CNAME .
-stats.realestate.if.ua CNAME .
+stats.realestate.cv.ua CNAME .
 stats.realestate.kyiv.ua CNAME .
+stats.realestate.uz.ua CNAME .
 stats.rewindmtv.com CNAME .
 stats.rezhajul.io CNAME .
 stats.risanne.nl CNAME .
@@ -184,6 +186,7 @@ stats.rocketgoboom.lol CNAME .
 stats.ryanchmelir.com CNAME .
 stats.sebastianzehner.com CNAME .
 stats.semipol.de CNAME .
+stats.sophia.fish CNAME .
 stats.studiodeerenberg.nl CNAME .
 stats.svc.lol CNAME .
 stats.szorty.space CNAME .
@@ -195,6 +198,7 @@ stats.trainsley69.me CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .
+stats.vireocreative.ca CNAME .
 stats.webmeasurements.org CNAME .
 stats.whatacools.com CNAME .
 stats.ybbond.id CNAME .

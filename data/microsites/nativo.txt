@@ -17,6 +17,7 @@
 ||0dc37bcda5.429d3f5a6e.com^
 ||0e61dd1e55.5b3c937000.com^
 ||0e9c834b61.3090870d4f.com^
+||0f440cfaf8.0e79b1ef71.com^
 ||0fde0a4457.f12cb80710.com^
 ||10aea97792.5475ee0908.com^
 ||10c49e2492.d0c5bb1804.com^
@@ -29,12 +30,12 @@
 ||1449ebcaa9.72a56b83fa.com^
 ||148811c73e.50473284f3.com^
 ||159663d491.6c0b4b072f.com^
+||15d5afdc89.ecc9c1d238.com^
 ||15ea0bd197.76359a95dd.com^
 ||164e5eb57e.0f89c3c813.com^
 ||16c28dba73.985b69c462.com^
 ||171600ef48.769fb58db3.com^
 ||178d1e7acb.f7170e601a.com^
-||181bbda4c2.ce6fc56927.com^
 ||1a8e54b24f.1b0bcb385f.com^
 ||1d131d6f3f.c54cdc1e36.com^
 ||1e9b4d17f9.644b839fb7.com^
@@ -71,6 +72,7 @@
 ||37fde8ca0b.d603b6ccf0.com^
 ||391a029ba5.d7a3bf705b.com^
 ||3a0f411352.3434849c2e.com^
+||3a2c339853.a28bedd7c2.com^
 ||3b1d253452.8ea1272194.com^
 ||3bd0eb632a.ea87707b92.com^
 ||3c0bb1b6ad.25ed3d6f24.com^
@@ -103,7 +105,6 @@
 ||5001bc8756.6ef14e40a9.com^
 ||51a66f8059.ce0a43500c.com^
 ||5222715cac.ad3177d7af.com^
-||52f79b55a7.93febf18c6.com^
 ||53c1445660.c769b6eba3.com^
 ||53e03f377c.e124561f37.com^
 ||55b4ef4629.75db8ff512.com^
@@ -112,6 +113,7 @@
 ||5a9bbbbeae.c3b1912666.com^
 ||5b34009f2b.063aa27de4.com^
 ||5c104da19a.ab7929a6fe.com^
+||5cacb6b8ff.c00da2508c.com^
 ||5cec63d3ec.b1e44f9a11.com^
 ||5e0c677015.717d165445.com^
 ||5e1c960a90.9387e57f6d.com^
@@ -149,7 +151,6 @@
 ||81899edb69.1187617028.com^
 ||8291702486.ebdb7bb99d.com^
 ||82f61fbcce.10e24a78a2.com^
-||8591b47c8b.aada35c15f.com^
 ||86c6dd5578.0fcf105177.com^
 ||86ca236984.3ce66eb3bd.com^
 ||875ba27c4b.12f929026a.com^
@@ -181,7 +182,6 @@
 ||a52f9310d9.56ac0d1497.com^
 ||a536a1e335.52154cdd64.com^
 ||a62d37b1f2.a58b8ec9c6.com^
-||a967080464.0da6b9c880.com^
 ||ab68f17c55.ac94c2b385.com^
 ||ab956dabe0.a5c8f104d5.com^
 ||abf16caac5.5db51045da.com^
@@ -238,6 +238,7 @@
 ||d0f1c915d1.8211cbbdbf.com^
 ||d2c01bd392.c3716cda2f.com^
 ||d3f06f58e4.7751c829ca.com^
+||d42f5a318b.18eb21852c.com^
 ||d4ace898f9.ed24cb4bc7.com^
 ||d4bdc31b7e.99d1f1d37e.com^
 ||d5c308c7c1.a1b0ef3ee9.com^
@@ -260,7 +261,6 @@
 ||e417585e69.a3c60bb775.com^
 ||e56c897319.f347040810.com^
 ||e5b1a70ee4.ef2c5ad467.com^
-||e6499697e6.d97d3231b2.com^
 ||e6894bc749.7e5e89a09d.com^
 ||e6d9e51833.5953bc9ca0.com^
 ||e6e3e5bd74.3ae7054c01.com^
@@ -303,38 +303,45 @@
 ||i.selecttopoff.com^
 ||i.statelinear.com^
 ||a135.wftv.com^
+||a235.registercitizen.com^
+||a614.pennlive.com^
+||adserving.nativo.com^
+||apolloecho.share.ntv.io^
 ||bicycling.share.ntv.io^
-||bossip.share.ntv.io^
 ||c.ntv.io^
-||chef-hellomagazine.share.ntv.io^
 ||chicagotribune.share.ntv.io^
-||chron.share.ntv.io^
-||cooktopcove.share.ntv.io^
-||fox25boston.share.ntv.io^
-||free.share.ntv.io^
-||gayety.share.ntv.io^
-||hotnewhiphop.share.ntv.io^
-||infoworld.share.ntv.io^
-||ja.nativo.net^
-||journalmetro.share.ntv.io^
-||justapinch.share.ntv.io^
+||computerworld.share.ntv.io^
+||cw33.share.ntv.io^
+||entrepreneur.share.ntv.io^
+||euronews.share.ntv.io^
+||faithinthenews.share.ntv.io^
+||foodandwine.share.ntv.io^
+||hellomagazine.share.ntv.io^
+||investopedia.share.ntv.io^
+||k0ntrk2q6ztv8tqa.share.ntv.io^
+||l613jagtn2ew88zb.share.ntv.io^
 ||menshealth.share.ntv.io^
 ||mlive.share.ntv.io^
-||motortrend.share.ntv.io^
 ||mynorthwest.share.ntv.io^
-||nativomobileapps.share.ntv.io^
-||nj.share.ntv.io^
-||petcha.share.ntv.io^
+||newsweek.share.ntv.io^
+||nydailynews.share.ntv.io^
+||orz10qkfdpq48qda.share.ntv.io^
+||pcworld.share.ntv.io^
 ||post-gazette.share.ntv.io^
-||sandiegouniontribune.share.ntv.io^
+||robbreport.share.ntv.io^
+||sanduskyregister.share.ntv.io^
+||saveur.share.ntv.io^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 ||si.share.ntv.io^
-||silive.share.ntv.io^
+||smosh.share.ntv.io^
+||southernkitchen.share.ntv.io^
 ||stamfordadvocate.share.ntv.io^
+||tomcat.share.ntv.io^
 ||usnews.share.ntv.io^
-||v5rv1bmumbq4myfh.share.ntv.io^
+||waow.share.ntv.io^
 ||wsbradio.share.ntv.io^
+||x0ih1b9xgy23e6wl.share.ntv.io^
 ||11-mon-bicycling.share.ntv.io^
 ||11-mon-resolveaccept-shop.share.ntv.io^
 ||11-mon.alt.share.ntv.io^
@@ -615,7 +622,6 @@
 ||a614.mlive.com^
 ||a614.nj.com^
 ||a614.oregonlive.com^
-||a614.pennlive.com^
 ||a614.syracuse.com^
 ||acc.free.share.ntv.io^
 ||acc.miamiherald.share.ntv.io^
@@ -672,7 +678,6 @@
 ||adserveragenda.share.ntv.io^
 ||adserveragendacdn.share.ntv.io^
 ||adserveragendaciohost.share.ntv.io^
-||adserving.nativo.com^
 ||agenda-dev1-data.share.ntv.io^
 ||agenda-guia-dev1.share.ntv.io^
 ||agenda-ids-appsalt.share.ntv.io^
@@ -1584,7 +1589,6 @@
 ||apolloecho-hwavalt.share.ntv.io^
 ||apolloecho-justapinch.share.ntv.io^
 ||apolloecho.11ticket.alt.share.ntv.io^
-||apolloecho.share.ntv.io^
 ||apolloecho.training.share.ntv.io^
 ||apolloechobrasil.auth-resolve.share.ntv.io^
 ||apolloechojustapinch.share.ntv.io^
@@ -1929,6 +1933,7 @@
 ||bossip.netlify-csoonline.share.ntv.io^
 ||bossip.pcworld4.share.ntv.io^
 ||bossip.resolvewesteurope.share.ntv.io^
+||bossip.share.ntv.io^
 ||bossip.sitesbug.share.ntv.io^
 ||bossip.tickets.share.ntv.io^
 ||bossip.twitch.share.ntv.io^
@@ -2120,6 +2125,7 @@
 ||chef-hellomagazine-nydailynews.share.ntv.io^
 ||chef-hellomagazine-stg.cio.share.ntv.io^
 ||chef-hellomagazine.mynorthwest.share.ntv.io^
+||chef-hellomagazine.share.ntv.io^
 ||chef-hellomagazineaddon.share.ntv.io^
 ||chef-hellomagazineavalt-intra.share.ntv.io^
 ||chef-hellomagazinebanner.dev1.share.ntv.io^
@@ -2179,6 +2185,7 @@
 ||chipchick.rss.apolloakali.share.ntv.io^
 ||chipchick.share.ntv.io^
 ||chipchickda-mynorthwest.share.ntv.io^
+||chron.share.ntv.io^
 ||chronos-brasil.auth-resolve.share.ntv.io^
 ||chronos.altad-ora.share.ntv.io^
 ||ci-api3-auth-resolve.share.ntv.io^
@@ -2333,7 +2340,6 @@
 ||compute.avalt.share.ntv.io^
 ||computerworld-fox25bostonlocal.share.ntv.io^
 ||computerworld.nydailynews.share.ntv.io^
-||computerworld.share.ntv.io^
 ||computerworldaddon.share.ntv.io^
 ||computerworldaltad-ora.share.ntv.io^
 ||computerworldapi-docs-resolveaddon.share.ntv.io^
@@ -2380,6 +2386,7 @@
 ||controlmiembrosalt-ann.fortune.share.ntv.io^
 ||controlmynorthwestchimera.share.ntv.io^
 ||controltelewerkappsalt.fortune.share.ntv.io^
+||cooktopcove.share.ntv.io^
 ||cooktopcove.stg.cio.share.ntv.io^
 ||cooktopcoveq8lfij6ggarx0ypw.share.ntv.io^
 ||cooktopcovestg.cio.share.ntv.io^
@@ -2923,7 +2930,6 @@
 ||entrepreneur.origin.share.ntv.io^
 ||entrepreneur.realworldsurvivor.share.ntv.io^
 ||entrepreneur.resolvetest1.share.ntv.io^
-||entrepreneur.share.ntv.io^
 ||entrepreneur.wwwm-instyle.share.ntv.io^
 ||entrepreneur.zimbra.share.ntv.io^
 ||entrepreneurapi-docs-resolvepegasus.share.ntv.io^
@@ -3106,7 +3112,6 @@
 ||faithinthenews.apollo-accept.share.ntv.io^
 ||faithinthenews.id-resolveaccept.share.ntv.io^
 ||faithinthenews.littlethings.share.ntv.io^
-||faithinthenews.share.ntv.io^
 ||faithinthenewsagenda-novell.share.ntv.io^
 ||faithinthenewsforos.share.ntv.io^
 ||faithinthenewssouthernkitchen.share.ntv.io^
@@ -3129,7 +3134,6 @@
 ||firewall.share.ntv.io^
 ||foodandwine-thehill.share.ntv.io^
 ||foodandwine.avalt-intra.share.ntv.io^
-||foodandwine.share.ntv.io^
 ||fortune-ciotest2.share.ntv.io^
 ||fortune-com-edge-drupalapollo.share.ntv.io^
 ||fortune-com-edgeciotest2.share.ntv.io^
@@ -3152,6 +3156,7 @@
 ||foto-avaltbossip.share.ntv.io^
 ||fox25boston-cms0.apollo.share.ntv.io^
 ||fox25boston-dallasnews.share.ntv.io^
+||fox25boston.share.ntv.io^
 ||fox25bostonlocal-api0-alt-ann.share.ntv.io^
 ||fox25bostonlocal-dev1-data.share.ntv.io^
 ||fox25bostonlocal-global.share.ntv.io^
@@ -3194,6 +3199,7 @@
 ||free.iad.share.ntv.io^
 ||free.realworldsurvivor.share.ntv.io^
 ||free.s3.share.ntv.io^
+||free.share.ntv.io^
 ||freeapi-docs-resolvewesteurope.share.ntv.io^
 ||freebsd-api-docs-resolve-l.share.ntv.io^
 ||freebsd-downloads-apollo.share.ntv.io^
@@ -3230,6 +3236,7 @@
 ||gayety-ciotest2.share.ntv.io^
 ||gayety-justapinch.share.ntv.io^
 ||gayety.agendaforum.share.ntv.io^
+||gayety.share.ntv.io^
 ||gayety.stg.cio.share.ntv.io^
 ||gayetyaltad-ora.share.ntv.io^
 ||gayetyauth-resolve.share.ntv.io^
@@ -3389,6 +3396,7 @@
 ||hostingstamfordadvocatew3mynorthwest.share.ntv.io^
 ||hotnewhiphop.da-mynorthwest.share.ntv.io^
 ||hotnewhiphop.netlify-csoonline.share.ntv.io^
+||hotnewhiphop.share.ntv.io^
 ||hotnewhiphopinstyle.share.ntv.io^
 ||hotnewhiphopmynorthwestchimera.share.ntv.io^
 ||hotnewhiphoppcworld4.share.ntv.io^
@@ -3470,6 +3478,7 @@
 ||infoworld-netlify-csoonline.share.ntv.io^
 ||infoworld-nydailynews.share.ntv.io^
 ||infoworld-sql.alt-ann.share.ntv.io^
+||infoworld.share.ntv.io^
 ||infoworld15s1.apollo.share.ntv.io^
 ||infoworldjustapinch.share.ntv.io^
 ||instyle-dev1.share.ntv.io^
@@ -3628,7 +3637,6 @@
 ||intinternal.littlethings.share.ntv.io^
 ||investopedia-downloads-apollo.share.ntv.io^
 ||investopedia.beta.share.ntv.io^
-||investopedia.share.ntv.io^
 ||investopediaapi3-auth-resolve.share.ntv.io^
 ||ipv1-alt-ann.mailbackup.avalt.share.ntv.io^
 ||ipv1-alt-ann.share.ntv.io^
@@ -3640,6 +3648,7 @@
 ||ipv7alt.share.ntv.io^
 ||ipv7altdallasnews.share.ntv.io^
 ||ipv7altmb.11.alt.share.ntv.io^
+||ja.nativo.net^
 ||jboss.agenda.share.ntv.io^
 ||jenkins.apollo.share.ntv.io^
 ||jenkins.share.ntv.io^
@@ -3647,6 +3656,7 @@
 ||jinx-avalt.api3.auth-resolve.share.ntv.io^
 ||jinx-avalt.da-mynorthwest.share.ntv.io^
 ||jinx-avalt.share.ntv.io^
+||journalmetro.share.ntv.io^
 ||journalmetrodrupal-avalt.share.ntv.io^
 ||journalmetrotastingtable.share.ntv.io^
 ||july-15.apollo.share.ntv.io^
@@ -3701,6 +3711,7 @@
 ||justapinch.partner.share.ntv.io^
 ||justapinch.pay.share.ntv.io^
 ||justapinch.polandfortune.share.ntv.io^
+||justapinch.share.ntv.io^
 ||justapinch.simple.share.ntv.io^
 ||justapinch.tickets.share.ntv.io^
 ||justapinch.w3mynorthwest.share.ntv.io^
@@ -4304,6 +4315,7 @@
 ||motortrend-ads.share.ntv.io^
 ||motortrend-ads.stg.cio.share.ntv.io^
 ||motortrend.dev1-data.share.ntv.io^
+||motortrend.share.ntv.io^
 ||motortrendrss.apolloakali.share.ntv.io^
 ||mundohispanico-api-docs-resolveaddon.share.ntv.io^
 ||mundohispanico-entrepreneur.share.ntv.io^
@@ -4443,6 +4455,7 @@
 ||nativomobileapps.promo.share.ntv.io^
 ||nativomobileapps.resolveaddon.share.ntv.io^
 ||nativomobileapps.screenshot.share.ntv.io^
+||nativomobileapps.share.ntv.io^
 ||nativomobileapps.unix-resolveaccept.share.ntv.io^
 ||nativomobileappsalt-ann.share.ntv.io^
 ||nativomobileappsaltroot.share.ntv.io^
@@ -4525,7 +4538,6 @@
 ||newsobserver.share.ntv.io^
 ||newsweek.chef-hellomagazine.share.ntv.io^
 ||newsweek.mail.share.ntv.io^
-||newsweek.share.ntv.io^
 ||nginx.hellomagazine.share.ntv.io^
 ||nginx.mynorthwestprofiles.share.ntv.io^
 ||nieuwsblad-avalt-s1.share.ntv.io^
@@ -4536,6 +4548,7 @@
 ||nieuwsbladaltdeveloper.share.ntv.io^
 ||nieuwsbladlocal.share.ntv.io^
 ||nj.finegardening.com^
+||nj.share.ntv.io^
 ||nodetest1-api-docs-resolve.share.ntv.io^
 ||northamerica-downloads-apollo.share.ntv.io^
 ||northamericasouthernkitchen.share.ntv.io^
@@ -4560,7 +4573,6 @@
 ||nydailynews.library-resolve.share.ntv.io^
 ||nydailynews.origin.share.ntv.io^
 ||nydailynews.proxy-ajc.share.ntv.io^
-||nydailynews.share.ntv.io^
 ||nydailynews.support.share.ntv.io^
 ||nydailynewsadministrators.share.ntv.io^
 ||nydailynewsavaltpreferences.share.ntv.io^
@@ -4727,7 +4739,6 @@
 ||pcworld-thehill.share.ntv.io^
 ||pcworld-triviaboss.share.ntv.io^
 ||pcworld.nativomobileapps.share.ntv.io^
-||pcworld.share.ntv.io^
 ||pcworld4-api-docs-resolvepegasus.share.ntv.io^
 ||pcworld4-avalt-s1.share.ntv.io^
 ||pcworld4-free.share.ntv.io^
@@ -4756,6 +4767,7 @@
 ||personaldefenseworldtech.ajc.share.ntv.io^
 ||petcha-public.share.ntv.io^
 ||petcha-southernkitchen.share.ntv.io^
+||petcha.share.ntv.io^
 ||phillymag-11ticket.alt.share.ntv.io^
 ||phillymag-apollo.share.ntv.io^
 ||phillymag-banner.dev1.share.ntv.io^
@@ -5310,7 +5322,6 @@
 ||restricted-thehill.share.ntv.io^
 ||restrictedagenda-web1.share.ntv.io^
 ||restrictedchicagotribune.share.ntv.io^
-||robbreport.share.ntv.io^
 ||router-15.apollo.share.ntv.io^
 ||router.mynorthwest.share.ntv.io^
 ||router.rss.apolloakali.share.ntv.io^
@@ -5494,6 +5505,7 @@
 ||sandbox-pressdemocrat.share.ntv.io^
 ||sandbox-tastingtable.share.ntv.io^
 ||sandbox.agenda-novell.share.ntv.io^
+||sandiegouniontribune.share.ntv.io^
 ||sanduskyreapper.share.ntv.io^
 ||sanduskyredeployhellomagazineer.share.ntv.io^
 ||sanduskyredevelopersapolloer.share.ntv.io^
@@ -5515,7 +5527,6 @@
 ||sanduskyregister.developer.share.ntv.io^
 ||sanduskyregister.ipv7alt.share.ntv.io^
 ||sanduskyregister.prep-15.share.ntv.io^
-||sanduskyregister.share.ntv.io^
 ||sanduskyregister.static.share.ntv.io^
 ||sanduskyregister.tastingtable.share.ntv.io^
 ||sanduskyregister.tomcat.share.ntv.io^
@@ -5546,7 +5557,6 @@
 ||saveur-api3-auth-resolve.share.ntv.io^
 ||saveur-apollo.share.ntv.io^
 ||saveur.bicycling.share.ntv.io^
-||saveur.share.ntv.io^
 ||sc-downloads.fortune.share.ntv.io^
 ||sc-lib-alt.fortune.share.ntv.io^
 ||sc.avaltsitebuilderfortune.share.ntv.io^
@@ -5599,6 +5609,7 @@
 ||signed-thehill.share.ntv.io^
 ||signup-resolveaccept.share.ntv.io^
 ||signupchicagotribune.share.ntv.io^
+||silive.share.ntv.io^
 ||siliveclient.bicycling.share.ntv.io^
 ||siliveclient.share.ntv.io^
 ||siliveclientdownloads-apollo.share.ntv.io^
@@ -5652,7 +5663,6 @@
 ||skinsapollo-cfg.share.ntv.io^
 ||skinsmiembrosalt-ann.share.ntv.io^
 ||skinsstamfordadvocateforos.share.ntv.io^
-||smosh.share.ntv.io^
 ||sonomamag.share.ntv.io^
 ||sonomamagapollo-accept.share.ntv.io^
 ||sonomamagazure.share.ntv.io^
@@ -5670,7 +5680,6 @@
 ||southernkitchen.dallasnews.share.ntv.io^
 ||southernkitchen.pcworld-server.share.ntv.io^
 ||southernkitchen.resolvepegasus.share.ntv.io^
-||southernkitchen.share.ntv.io^
 ||southernkitchen.skins.share.ntv.io^
 ||southernkitchen.tech.ajc.share.ntv.io^
 ||southernkitchenchronos.share.ntv.io^
@@ -6325,7 +6334,6 @@
 ||time-com-edge.mb.11.alt.share.ntv.io^
 ||time.share.ntv.io^
 ||tomcat.pressdemocrat.share.ntv.io^
-||tomcat.share.ntv.io^
 ||tomcatjustapinch.share.ntv.io^
 ||tomcatpetcha.share.ntv.io^
 ||toolauth-resolve-akali15.apollo.share.ntv.io^
@@ -6443,6 +6451,7 @@
 ||v3.api-docs-resolve-da.share.ntv.io^
 ||v3.api-docs-resolve-l.share.ntv.io^
 ||v3.priv.apolloakali.share.ntv.io^
+||v5rv1bmumbq4myfh.share.ntv.io^
 ||valuewalk-com-edge-downloads-apollo.share.ntv.io^
 ||valuewalk-com-edge-justapinch.share.ntv.io^
 ||valuewalk-com-edge-prep-15.apollo.share.ntv.io^
@@ -6649,7 +6658,6 @@
 ||wwwwapolloakalimiembrosalt-ann.share.ntv.io^
 ||x.auth-resolve.share.ntv.io^
 ||x0ih1b9xgy23e6wl.mynorthwestchimera.share.ntv.io^
-||x0ih1b9xgy23e6wl.share.ntv.io^
 ||x0ih1b9xgy23e6wl.www2.wsbradio.share.ntv.io^
 ||x0ih1b9xgy23e6wlapollo-accept.share.ntv.io^
 ||x0ih1b9xgy23e6wlavalt-intra.share.ntv.io^
@@ -6673,11 +6681,9 @@
 ||a235.htvnativeadsolutions.com^
 ||a235.lmtonline.com^
 ||a235.mrt.com^
-||a235.myplainview.com^
 ||a235.newstimes.com^
 ||a235.nhregister.com^
 ||a235.ourmidland.com^
-||a235.registercitizen.com^
 ||a235.seattlepi.com^
 ||a235.sfgate.com^
 ||a235.stamfordadvocate.com^

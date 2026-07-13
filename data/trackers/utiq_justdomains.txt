@@ -60,6 +60,7 @@ utiq.autoplus.fr
 utiq.az-online.de
 utiq.berlin-live.de
 utiq.bfmtv.com
+utiq.bfops.io
 utiq.bibamagazine.fr
 utiq.bild.de
 utiq.bitban.com

@@ -113,6 +113,7 @@ l.foot01.com
 l.football.fr
 l.football365.fr
 l.footballgroundguide.com
+l.footballwhispers.com
 l.fourchette-et-bikini.fr
 l.franceantilles.fr
 l.francebleu.fr
@@ -313,6 +314,7 @@ l.varmatin.com
 l.vert.eco
 l.viepratique.fr
 l.voici.fr
+l.voyagezauquotidien.com
 l.whatsupdoc-lemag.fr
 l.xataka.com
 l.xataka.com.br

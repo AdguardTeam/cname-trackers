@@ -2,6 +2,7 @@
 # Company name: Adocean
 ad.santa.lv
 ado.icorp.ro
+ads.eurozet.pl
 ads.tvp.pl
 ao.city24.lv
 ao.la.lv

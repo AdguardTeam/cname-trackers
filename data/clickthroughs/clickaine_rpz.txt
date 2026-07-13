@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,6 +30,7 @@ api.hugemedia.cz CNAME .
 api.ngamgaixinh.art CNAME .
 api.rtnews.pro CNAME .
 app.rtnews.pro CNAME .
+asg.example.com.audioxstory.com CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
 bat36.gimmeporn.xyz CNAME .
@@ -112,6 +113,7 @@ wp.brandnewapp.pro CNAME .
 www.brandnewapp.pro CNAME .
 www.daws4-3.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
+www.hapenny.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
 www.telford.brandnewapp.pro CNAME .

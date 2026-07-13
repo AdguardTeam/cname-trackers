@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,8 +11,10 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+4590bertn12.wir-gastfreunde.de CNAME .
 a.trowow.de CNAME .
 analyse.hs-furtwangen.de CNAME .
+analyse.united-cloud.com CNAME .
 analyse.united-hoster.de CNAME .
 analytics.coachy.net CNAME .
 analytics.freiraumakustik.de CNAME .
@@ -52,6 +54,7 @@ data.runners-kitchen.com CNAME .
 data.soristudios.de CNAME .
 data.uk.kutchenhaus.com CNAME .
 defabc.black-label-coffee.de CNAME .
+dev.schmutte.com CNAME .
 dts.suchmeisterei.de CNAME .
 dzt.germany.travel CNAME .
 e.heimat.style CNAME .
@@ -208,6 +211,7 @@ metrics.moderade.com CNAME .
 metrics.muehle-glashuette.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.park.aero CNAME .
+metrics.schroeder-data-solutions.de CNAME .
 metrics.shop.verpackung.de CNAME .
 metrics.soelring-hof.de CNAME .
 metrics.stadtwerke-hamm.de CNAME .
@@ -294,6 +298,7 @@ track.brot-fuer-die-welt.de CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
 track.dictum-handwerksgalerie.de CNAME .
 track.dictum-shop.de CNAME .
+track.global-standards.org CNAME .
 track.karlstorz.com CNAME .
 track.kautel.de CNAME .
 track.richtig-schaerfen.de CNAME .
@@ -318,8 +323,10 @@ tracking.sallys-shop.de CNAME .
 tracking.sonnasita.at CNAME .
 tracking.terrassenhof.de CNAME .
 tracking.walserart.at CNAME .
+tracking.zahnzentrum-kronberg.de CNAME .
 trckng.erntehelfer-versichern.de CNAME .
 trckng.handysecure.de CNAME .
+trckng.ideenverwirklicher-wuerzburger.com CNAME .
 trckng.jahresreiseversicherung.org CNAME .
 trckng.travelsecure.de CNAME .
 trckng.wuerzburger.com CNAME .
@@ -337,6 +344,7 @@ vault.hoeveler.com CNAME .
 vault.livisto-shop.de CNAME .
 vault.raiffeisen-bio-brennstoffe.de CNAME .
 vault.raiffeisenmarkt.de CNAME .
+wa.heimatlinse.de CNAME .
 wa.ostermann.eu CNAME .
 waet.datalogue.de CNAME .
 wbtr.chgmeridian.com CNAME .
@@ -460,6 +468,7 @@ webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
 webstt0002.onofficeom.com CNAME .
+webstt0003.onofficeom.com CNAME .
 webstt0004.onofficeom.com CNAME .
 webstt0007.onofficeom.com CNAME .
 webstt0009.onofficeom.com CNAME .
@@ -475,6 +484,7 @@ webstt0020.onofficeom.com CNAME .
 webstt0021.onofficeom.com CNAME .
 webstt0022.onofficeom.com CNAME .
 webstt0027.onofficeom.com CNAME .
+webstt0028.onofficeom.com CNAME .
 webstt0031.onofficeom.com CNAME .
 webstt0032.onofficeom.com CNAME .
 webstt0037.onofficeom.com CNAME .
@@ -482,6 +492,7 @@ webstt0038.onofficeom.com CNAME .
 webstt0039.onofficeom.com CNAME .
 webstt0041.onofficeom.com CNAME .
 webstt0042.onofficeom.com CNAME .
+webstt0049.onofficeom.com CNAME .
 webstt0050.onofficeom.com CNAME .
 webstt0053.onofficeom.com CNAME .
 webstt0056.onofficeom.com CNAME .
@@ -489,7 +500,9 @@ webstt0057.onofficeom.com CNAME .
 webstt0059.onofficeom.com CNAME .
 webstt0060.onofficeom.com CNAME .
 webstt0068.onofficeom.com CNAME .
+webstt0069.onofficeom.com CNAME .
 webstt0071.onofficeom.com CNAME .
+webstt0073.onofficeom.com CNAME .
 websy.skillyofficial.com CNAME .
 webtr.cc-egov.de CNAME .
 webtr.codearchitekten.de CNAME .

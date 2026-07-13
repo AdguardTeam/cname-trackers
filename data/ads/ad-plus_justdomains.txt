@@ -5,6 +5,7 @@ adserving.menatech.net
 cdn.laim.tv
 cdn1.digita.media
 cdn33.protagcdn.com
+dashboard.adopsify.com
 dashboard.alcancemg.com
 dashboard.andbeyond.media
 dashboard.boostads.ru
@@ -17,6 +18,7 @@ dashboard.xqubemedia.com
 player.collectiveaudience.co
 player.resonance.pk
 player.urdupoint.com
+serving.adopsify.com
 serving.ausdoc.com.au
 serving.datawrkz.com
 serving.felixads.com

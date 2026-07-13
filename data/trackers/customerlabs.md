@@ -39,6 +39,7 @@
     * untrhhc.customers.1p-data.co
     * uqnnvhk.customers.1p-data.co
     * wioaavu.customers.1p-data.co
+    * wvykoqi.customers.1p-data.co
     * xjoipse.customers.1p-data.co
     * xqvsjtz.customers.1p-data.co
 
@@ -82,5 +83,6 @@
 | untrhhc.veneera.co.uk | untrhhc.customers.1p-data.co |
 | uqnnvhk.ericjavits.com | uqnnvhk.customers.1p-data.co |
 | wioaavu.enkay.com | wioaavu.customers.1p-data.co |
+| wvykoqi.kobocandles.com | wvykoqi.customers.1p-data.co |
 | xjoipse.vivarawpets.com | xjoipse.customers.1p-data.co |
 | xqvsjtz.danielleguiziony.com | xqvsjtz.customers.1p-data.co |

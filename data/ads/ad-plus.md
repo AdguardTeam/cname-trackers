@@ -14,6 +14,7 @@
 | cdn.laim.tv | cdn.stat-rock.com |
 | cdn1.digita.media | cdn.stat-rock.com |
 | player.resonance.pk | cdn.stat-rock.com |
+| dashboard.adopsify.com | dashboard.stat-rock.com |
 | dashboard.alcancemg.com | dashboard.stat-rock.com |
 | dashboard.andbeyond.media | dashboard.stat-rock.com |
 | dashboard.boostads.ru | dashboard.stat-rock.com |
@@ -29,6 +30,7 @@
 | cdn33.protagcdn.com | serving.stat-rock.com |
 | player.collectiveaudience.co | serving.stat-rock.com |
 | player.urdupoint.com | serving.stat-rock.com |
+| serving.adopsify.com | serving.stat-rock.com |
 | serving.ausdoc.com.au | serving.stat-rock.com |
 | serving.datawrkz.com | serving.stat-rock.com |
 | serving.felixads.com | serving.stat-rock.com |

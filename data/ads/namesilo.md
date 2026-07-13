@@ -339,6 +339,7 @@
 | 3338444.notifysrv.com | tk6if76q.ab1n.net |
 | 3340606.notifysrv.com | tk6if76q.ab1n.net |
 | 3343302.notifysrv.com | tk6if76q.ab1n.net |
+| 3343536.notify6.com | tk6if76q.ab1n.net |
 | 3344832.notifysrv.com | tk6if76q.ab1n.net |
 | 3344944.notifysrv.com | tk6if76q.ab1n.net |
 | 3345712.notifysrv.com | tk6if76q.ab1n.net |
@@ -393,6 +394,7 @@
 | 3440155.notify6.com | tk6if76q.ab1n.net |
 | 3440155.notifysrv.com | tk6if76q.ab1n.net |
 | 3440159.notify6.com | tk6if76q.ab1n.net |
+| 3440403.notify6.com | tk6if76q.ab1n.net |
 | 3440407.notifysrv.com | tk6if76q.ab1n.net |
 | 3440409.notifysrv.com | tk6if76q.ab1n.net |
 | 3440411.notify6.com | tk6if76q.ab1n.net |
@@ -409,6 +411,7 @@
 | 3464703.notify6.com | tk6if76q.ab1n.net |
 | 3464703.notifysrv.com | tk6if76q.ab1n.net |
 | 3466497.notifysrv.com | tk6if76q.ab1n.net |
+| 3466845.notifysrv.com | tk6if76q.ab1n.net |
 | 3466857.notifysrv.com | tk6if76q.ab1n.net |
 | 3466861.notify6.com | tk6if76q.ab1n.net |
 | 3466861.notifysrv.com | tk6if76q.ab1n.net |
@@ -521,6 +524,7 @@
 | 3662557.notifysrv.com | tk6if76q.ab1n.net |
 | 3662593.notifysrv.com | tk6if76q.ab1n.net |
 | 3662839.notify6.com | tk6if76q.ab1n.net |
+| 3662845.notify6.com | tk6if76q.ab1n.net |
 | 3662963.notifysrv.com | tk6if76q.ab1n.net |
 | 3662967.notify6.com | tk6if76q.ab1n.net |
 | 3662967.notifysrv.com | tk6if76q.ab1n.net |
@@ -544,6 +548,7 @@
 | 3714181.notify6.com | tk6if76q.ab1n.net |
 | 3714181.notifysrv.com | tk6if76q.ab1n.net |
 | 3715633.notifysrv.com | tk6if76q.ab1n.net |
+| 3717105.notify6.com | tk6if76q.ab1n.net |
 | 3717105.notifysrv.com | tk6if76q.ab1n.net |
 | 3717259.notifysrv.com | tk6if76q.ab1n.net |
 | 3719901.notify6.com | tk6if76q.ab1n.net |
@@ -557,6 +562,7 @@
 | 3745191.notifysrv.com | tk6if76q.ab1n.net |
 | 3752469.notifysrv.com | tk6if76q.ab1n.net |
 | 3762001.notifysrv.com | tk6if76q.ab1n.net |
+| 3765051.notify6.com | tk6if76q.ab1n.net |
 | 3767411.notify6.com | tk6if76q.ab1n.net |
 | 3768747.notify6.com | tk6if76q.ab1n.net |
 | 3768747.notifysrv.com | tk6if76q.ab1n.net |
@@ -652,6 +658,7 @@
 | 3995186.notify6.com | tk6if76q.ab1n.net |
 | 4.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | 4003022.notify6.com | tk6if76q.ab1n.net |
+| 4003752.notify6.com | tk6if76q.ab1n.net |
 | 4004510.notify6.com | tk6if76q.ab1n.net |
 | 4014230.notify6.com | tk6if76q.ab1n.net |
 | 4018398.notify6.com | tk6if76q.ab1n.net |
@@ -663,6 +670,7 @@
 | 4037426.notify6.com | tk6if76q.ab1n.net |
 | 4037428.notify6.com | tk6if76q.ab1n.net |
 | 4045406.notify6.com | tk6if76q.ab1n.net |
+| 4047182.notify6.com | tk6if76q.ab1n.net |
 | 4048172.notify6.com | tk6if76q.ab1n.net |
 | 4050740.notify6.com | tk6if76q.ab1n.net |
 | 4062416.notify6.com | tk6if76q.ab1n.net |
@@ -907,6 +915,7 @@
 | s.clearskyrhythm.com | tk6if76q.ab1n.net |
 | s.cm9srv.com | tk6if76q.ab1n.net |
 | s.crme7srv.com | tk6if76q.ab1n.net |
+| s.draqarys.com | tk6if76q.ab1n.net |
 | s.ds10lf.com | tk6if76q.ab1n.net |
 | s.ds165z.com | tk6if76q.ab1n.net |
 | s.ds2beb.com | tk6if76q.ab1n.net |
@@ -1253,7 +1262,7 @@
 | admin.adxnow.com | v3j9t5q9.ab1n.net |
 | admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
-| admin.landingtrk.com | v3j9t5q9.ab1n.net |
+| admin.paradoxgroup.co | v3j9t5q9.ab1n.net |
 | admin.rocoads.net | v3j9t5q9.ab1n.net |
 | admin.traf-gold.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
@@ -1270,12 +1279,11 @@
 | a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.b2bstars.com | w2u4v9e1.ab1n.net |
 | a.b7q9v8z.com | w2u4v9e1.ab1n.net |
-| a.brilmaver.com | w2u4v9e1.ab1n.net |
 | a.cant3am.com | w2u4v9e1.ab1n.net |
 | a.chmsrv.com | w2u4v9e1.ab1n.net |
 | a.crme7srv.com | w2u4v9e1.ab1n.net |
-| a.etology.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
+| a.flirtads.net | w2u4v9e1.ab1n.net |
 | a.gentlefieldpattern.com | w2u4v9e1.ab1n.net |
 | a.happyleafmotion.com | w2u4v9e1.ab1n.net |
 | a.hkartg.com | w2u4v9e1.ab1n.net |
@@ -1289,6 +1297,7 @@
 | a.q88z1s3.com | w2u4v9e1.ab1n.net |
 | a.r8lnet.com | w2u4v9e1.ab1n.net |
 | a.rocoads.net | w2u4v9e1.ab1n.net |
+| a.santabrowser.com | w2u4v9e1.ab1n.net |
 | a.t5z3w0p.com | w2u4v9e1.ab1n.net |
 | a.tf4srv.com | w2u4v9e1.ab1n.net |
 | a.traffic-gold.com | w2u4v9e1.ab1n.net |
@@ -1303,6 +1312,7 @@
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.landingtrk.com | x0xmrxm4.ab1n.net |
+| admin.paradoxgroup.co | x0xmrxm4.ab1n.net |
 | admin.rocoads.net | x0xmrxm4.ab1n.net |
 | admin.rocoads.net | x0xmrxm4.ab1n.net |
 | admin.traf-gold.com | x0xmrxm4.ab1n.net |

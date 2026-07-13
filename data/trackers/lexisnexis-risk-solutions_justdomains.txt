@@ -288,6 +288,7 @@ cim-idc-cdn.account.bcbsok.com
 cim-idc-cdn.account.bcbstx.com
 cim-idc-cdn.account.hcsc.net
 cim-idc-cdn.account.hcsctest.net
+cim-idc-cdn.account.test.bcbsil.com
 cim-idc-cdn.account.test.bcbsok.com
 cim-idc-cdn.account.test.bcbstx.com
 cim-idc-cdn.account.wellontarget.com
@@ -345,6 +346,7 @@ content.clubpremier.com
 content.cofidis.pt
 content.conapcg.com
 content.connexion-mabanque.bnpparibas
+content.connexion.hellobank.fr
 content.consumercardaccess.com
 content.covantagecu.org
 content.ctfs.com
@@ -398,6 +400,7 @@ content.koalafi.com
 content.kylottery.com
 content.lequipeur.com
 content.listsource.com
+content.lumen.cards
 content.lyft.com
 content.mabanque.bnpparibas
 content.mabanqueprivee.bnpparibas
@@ -627,6 +630,7 @@ ep-content.viviraty.pl
 ep.heartland.co.nz
 ep.vystarcu.org
 eps.uprova.com
+ersriln.hroffice.com
 eve.playstation.com
 event.evtm.53.com
 ext.creditpartner.fr
@@ -1065,6 +1069,7 @@ sec.login.ocn.ne.jp
 sec.login.sdnp.ntt.ocn.ne.jp
 sec.mypage.ocn.ne.jp
 sec.plala.or.jp
+seccheck.technogym.com
 secure-collector.zen.com
 secure-hub.procreditbank.md
 secure-service.id.dbsdigibank.com

@@ -56,6 +56,7 @@
     * h-2gssvh01.online-metrix.net
     * h-2hr2ixbz.online-metrix.net
     * h-2i27mb7r.online-metrix.net
+    * h-2j7qo8vb.online-metrix.net
     * h-2lg00mry.online-metrix.net
     * h-2lrwrk15.online-metrix.net
     * h-2n067wr9.online-metrix.net
@@ -76,6 +77,7 @@
     * h-34mvnza6-luckxpress.online-metrix.net
     * h-35y9sib5-2.online-metrix.net
     * h-35y9sib5.online-metrix.net
+    * h-36ret8lb.online-metrix.net
     * h-383psqtv.online-metrix.net
     * h-38g4gg8e.online-metrix.net
     * h-39zuido3.online-metrix.net
@@ -201,6 +203,7 @@
     * h-80e5iaad.online-metrix.net
     * h-84sv8qof.online-metrix.net
     * h-855iprp2.online-metrix.net
+    * h-86m8xdhf.online-metrix.net
     * h-87rxrdob.online-metrix.net
     * h-884tnrtj.online-metrix.net
     * h-88r8fbe3.online-metrix.net
@@ -1028,6 +1031,7 @@
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | img4.cargurus.com | h-2hr2ixbz.online-metrix.net |
 | meox.allianceonline.com.my | h-2i27mb7r.online-metrix.net |
+| ersriln.hroffice.com | h-2j7qo8vb.online-metrix.net |
 | ln.jackpotgo.club | h-2lg00mry.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
 | fp.ambrosewilson.com | h-2n067wr9.online-metrix.net |
@@ -1062,6 +1066,7 @@
 | lsdpdp.luckxpress.com | h-34mvnza6-luckxpress.online-metrix.net |
 | id.charge-auth.com | h-35y9sib5-2.online-metrix.net |
 | id.solidgate.com | h-35y9sib5.online-metrix.net |
+| seccheck.technogym.com | h-36ret8lb.online-metrix.net |
 | session.fhlb.com | h-383psqtv.online-metrix.net |
 | lni.finom.co | h-38g4gg8e.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
@@ -1180,6 +1185,7 @@
 | tblsdp.staging.tonybet.ca | h-6mlhprq2-a.online-metrix.net |
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | cim-idc-cdn.account.hcsctest.net | h-6ne0huru.online-metrix.net |
+| cim-idc-cdn.account.test.bcbsil.com | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbsok.com | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbstx.com | h-6ne0huru.online-metrix.net |
 | myuw5.nj.gov | h-6r2adsk3.online-metrix.net |
@@ -1264,6 +1270,7 @@
 | ltxup.sumup.io | h-84sv8qof.online-metrix.net |
 | ltxup.sumupstore.com | h-84sv8qof.online-metrix.net |
 | afr.jogajunto.bet.br | h-855iprp2.online-metrix.net |
+| content.lumen.cards | h-86m8xdhf.online-metrix.net |
 | tm.production.eu1.tmfp.klarna.net | h-87rxrdob.online-metrix.net |
 | tmfp.klarna.com | h-87rxrdob.online-metrix.net |
 | phyon.visit-x.net | h-884tnrtj.online-metrix.net |
@@ -1645,6 +1652,7 @@
 | content.b-social.io | h-cb9r8vh8.online-metrix.net |
 | tm.cbd.ae | h-cbd.online-metrix.net |
 | content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| content.connexion.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.mabanque.bnpparibas | h-cco37scf.online-metrix.net |

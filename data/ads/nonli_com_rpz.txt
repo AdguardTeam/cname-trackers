@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -124,6 +124,7 @@ l.foot01.com CNAME .
 l.football.fr CNAME .
 l.football365.fr CNAME .
 l.footballgroundguide.com CNAME .
+l.footballwhispers.com CNAME .
 l.fourchette-et-bikini.fr CNAME .
 l.franceantilles.fr CNAME .
 l.francebleu.fr CNAME .
@@ -324,6 +325,7 @@ l.varmatin.com CNAME .
 l.vert.eco CNAME .
 l.viepratique.fr CNAME .
 l.voici.fr CNAME .
+l.voyagezauquotidien.com CNAME .
 l.whatsupdoc-lemag.fr CNAME .
 l.xataka.com CNAME .
 l.xataka.com.br CNAME .

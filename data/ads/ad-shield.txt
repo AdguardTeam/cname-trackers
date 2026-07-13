@@ -10,4 +10,5 @@
 ||7.www.38167473.xyz^
 ||8.www.38167473.xyz^
 ||9.www.38167473.xyz^
+||host-override.ad-shield.dev^
 ||www.38167473.xyz^

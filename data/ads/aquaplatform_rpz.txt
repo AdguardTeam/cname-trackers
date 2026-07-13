@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,6 +32,7 @@ ads.bidspotter.co.uk CNAME .
 ads.cavalier-romand.ch CNAME .
 ads.datateam.co.uk CNAME .
 ads.environmentalleader.com CNAME .
+ads.fnch.ch CNAME .
 ads.i-bidder.com CNAME .
 ads.lot-tissimo.com CNAME .
 ads.postandparcel.info CNAME .
@@ -119,6 +120,7 @@ console.pinktriangle.ca CNAME .
 console.polity.org.za CNAME .
 console.postandparcel.info CNAME .
 console.revive-adserver.net CNAME .
+console.rlnads.net CNAME .
 console.sacommunications.com CNAME .
 console.schrotundkorn.de CNAME .
 console.trackandfieldnews.com CNAME .
@@ -148,6 +150,7 @@ images.swiss-equestrian.ch CNAME .
 images.worldofshowjumping.com CNAME .
 images.xtraa.org CNAME .
 informatm-static.reviveservers.com CNAME .
+infotorg-delivery.reviveservers.com CNAME .
 jacilla-static.reviveservers.com CNAME .
 lalala.geenstijl.nl CNAME .
 media.revive-adserver.com CNAME .
@@ -215,6 +218,7 @@ servedby.reviveservers.com CNAME .
 servedby.rlnads.net CNAME .
 servedby.sacommunications.com CNAME .
 servedby.schrotundkorn.de CNAME .
+servedby.sueddeutsche.de CNAME .
 servedby.tahoe.com CNAME .
 servedby.thinkresult.in CNAME .
 servedby.trackandfieldnews.com CNAME .
@@ -310,6 +314,7 @@ www.lalala.geenstijl.nl CNAME .
 www.revive-static.worldscreen.com CNAME .
 www.revive.ahk.de CNAME .
 www.revive.worldscreen.com CNAME .
+www.servedby.atlantamagazine.com CNAME .
 www.servedby.cincinnatimagazine.com CNAME .
 www.servedby.engineeringnews.co.za CNAME .
 www.servedby.geminipub.com CNAME .

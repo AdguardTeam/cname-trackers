@@ -72,6 +72,7 @@
     * livingmag-console.aquaplatform.com
     * livingmag-delivery.aquaplatform.com
     * livingmag-static.aquaplatform.com
+    * localmatchmaker-console.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
     * localmatchmaker-static.aquaplatform.com
     * mannix-api.aquaplatform.com
@@ -127,6 +128,7 @@
     * sacomm-static.aquaplatform.com
     * sonicplug-delivery.aquaplatform.com
     * sonicplug-static.aquaplatform.com
+    * sueddeutsche-delivery.aquaplatform.com
     * t101-console.aquaplatform.com
     * t101-delivery.aquaplatform.com
     * t101-static.aquaplatform.com
@@ -162,6 +164,7 @@
 | adimages.associationheadquarters.com | ahq-static.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
 | static.ammoland.com | ammoland-static.aquaplatform.com |
+| ads.fnch.ch | artionet-delivery.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
 | ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
 | images.fnch.ch | artionet-static.aquaplatform.com |
@@ -199,6 +202,7 @@
 | api.aqua-adserver.com | console.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
+| console.rlnads.net | console.aquaplatform.com |
 | console.walaplusadserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
@@ -259,6 +263,7 @@
 | servedby.hour-media.com | hourmedia-delivery.aquaplatform.com |
 | servedby.lamag.com | hourmedia-delivery.aquaplatform.com |
 | servedby.palmbeachmedia.com | hourmedia-delivery.aquaplatform.com |
+| www.servedby.atlantamagazine.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
@@ -283,6 +288,7 @@
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | www.static.livingmagonline.com | livingmag-static.aquaplatform.com |
+| console.rlnads.net | localmatchmaker-console.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
 | ad-api.mannixmarketing.com | mannix-api.aquaplatform.com |
@@ -355,6 +361,7 @@
 | brandmovers-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | edgeadserver-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | growthtrac-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
+| infotorg-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
@@ -433,6 +440,7 @@
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | www.adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |
+| servedby.sueddeutsche.de | sueddeutsche-delivery.aquaplatform.com |
 | ads-console.recon.com | t101-console.aquaplatform.com |
 | ads.recon.com | t101-delivery.aquaplatform.com |
 | ads-static.recon.com | t101-static.aquaplatform.com |

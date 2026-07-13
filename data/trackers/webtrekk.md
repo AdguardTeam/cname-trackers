@@ -111,7 +111,6 @@
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 487143832382979.wt-eu02.net
-    * 489164258023327.wt-eu02.net
     * 492778793747615.wt-eu02.net
     * 495967780350059.wt-eu02.net
     * 516595732855224.wt-eu02.net
@@ -367,7 +366,6 @@
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.news.coccinelle.com | 487143832382979.wt-eu02.net |
-| web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
 | web.news.absurdbeauty.com | 492778793747615.wt-eu02.net |
 | web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | web2.updates.ditano.com | 516595732855224.wt-eu02.net |
@@ -425,6 +423,7 @@
 | ctd.edidomus.it | 778835614863159.wt-eu02.net |
 | ctd.montagna.tv | 778835614863159.wt-eu02.net |
 | ctd.quattroruote.it | 778835614863159.wt-eu02.net |
+| ctd.shoped.it | 778835614863159.wt-eu02.net |
 | web.mail.koganpage.com | 786480128044234.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.post.toa.st | 792207084509163.wt-eu02.net |

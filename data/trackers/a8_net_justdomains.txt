@@ -27,7 +27,6 @@ a8.anipos.com
 a8.aphex-group.com
 a8.application2.jtca2020.or.jp
 a8.arrrt-shop.com
-a8.asdf.co.jp
 a8.au-hikarinet.com
 a8.avalon-works.com
 a8.b-cafe.net
@@ -644,9 +643,7 @@ a8clk.skima.jp
 a8clk.skynet-c.jp
 a8clk.skyoffice.info
 a8clk.smart-keiri.com
-a8clk.smartmethod.rarejob.com
 a8clk.smile-zemi.jp
-a8clk.sougi.294p.com
 a8clk.sp.move-ebike.co.jp
 a8clk.staff.mynavi.jp
 a8clk.star-mall.net
@@ -682,7 +679,6 @@ a8clk.uzu.team
 a8clk.voice-inc.co.jp
 a8clk.waq-online.com
 a8clk.web-camp.io
-a8clk.wedding.294p.com
 a8clk.weleda.jp
 a8clk.wellness-job.jp
 a8clk.wi-ho.net

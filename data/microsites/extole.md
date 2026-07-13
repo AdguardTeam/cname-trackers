@@ -279,6 +279,7 @@
     * garnethill.extole.io
     * getfreed.extole.io
     * getsetup.extole.io
+    * gfafcu.extole.io
     * giantfood.extole.io
     * giftya.extole.io
     * giorgioarmanibeauty-usa.extole.io
@@ -303,7 +304,6 @@
     * hicapitalize.extole.io
     * hill-city.extole.io
     * hollandamerica.extole.io
-    * hollandamerica.xtl.extole.io
     * homedepot.extole.io
     * honeypacks.extole.io
     * honorcu.extole.io
@@ -367,6 +367,7 @@
     * lumen.extole.io
     * luminasolar.extole.io
     * lumos-fiber.extole.io
+    * luxoclean.extole.io
     * mac-cosmetics.extole.io
     * madison-reed.extole.io
     * maidpro.extole.io
@@ -516,6 +517,7 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * suncoastcreditunion.em.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
     * suneast.extole.io
@@ -550,7 +552,6 @@
     * trafalgar.extole.io
     * travelzoo.extole.io
     * truwest.extole.io
-    * turbotax.em.extole.io
     * turbotax.extole.io
     * turbotaxdemo.extole.io
     * tweglobal.extole.io
@@ -578,6 +579,7 @@
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
     * waggonershomeservices.extole.io
+    * wagwalking.em.extole.io
     * wagwalking.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
@@ -595,6 +597,7 @@
     * wsecu.extole.io
     * xfinity.em.extole.io
     * xfinity.extole.io
+    * xfinity.xtl.extole.io
     * yotoplay.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
@@ -935,6 +938,7 @@
 | refer.garnethill.com | garnethill.extole.io |
 | gift.getfreed.ai | getfreed.extole.io |
 | share.getsetup.io | getsetup.extole.io |
+| refer.gfafcu.com | gfafcu.extole.io |
 | share.ggu.edu | ggu-ssl.extole.com |
 | refer.giantfood.com | giantfood.extole.io |
 | share.giftya.com | giftya.extole.io |
@@ -972,7 +976,6 @@
 | share.hicapitalize.com | hicapitalize.extole.io |
 | refer.hillcity.gap.com | hill-city.extole.io |
 | refer.hollandamerica.com | hollandamerica.extole.io |
-| xtl._domainkey.hollandamerica.com | hollandamerica.xtl.extole.io |
 | refer.homedepot.com | homedepot.extole.io |
 | share.honeypacks.com | honeypacks.extole.io |
 | refer.honorcu.com | honorcu.extole.io |
@@ -1059,6 +1062,7 @@
 | score.lumen.com | lumen.extole.io |
 | refer.luminasolar.com | luminasolar.extole.io |
 | refer.lumosfiber.com | lumos-fiber.extole.io |
+| share.luxoclean.ca | luxoclean.extole.io |
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.refer-maccosmetics.jp | mac-cosmetics.extole.io |
 | refer.madison-reed.com | madison-reed.extole.io |
@@ -1266,6 +1270,7 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | share.suneast.org | suneast.extole.io |
@@ -1313,7 +1318,6 @@
 | share.travelzoo.com | travelzoo.extole.io |
 | refer.truwest.org | truwest.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
-| em5807.turbotax.refer.intuit.com | turbotax.em.extole.io |
 | refer.intuit.com | turbotax.extole.io |
 | prepod.refer.intuit.com | turbotaxdemo.extole.io |
 | share.beringer.com | tweglobal.extole.io |
@@ -1379,6 +1383,7 @@
 | refer.vonage.com | vonage.extole.com |
 | share.vonage.com | vonagebusiness.extole.io |
 | share.waggonershomeservices.com | waggonershomeservices.extole.io |
+| em3007.wagwalking.com | wagwalking.em.extole.io |
 | share.wagwalking.com | wagwalking.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
@@ -1407,8 +1412,10 @@
 | referafriend.comcast.com | xfinity.extole.io |
 | referafriend.xfinity.com | xfinity.extole.io |
 | www.refer.xfinity.com | xfinity.extole.io |
+| xtl._domainkey.mail.propertyperks.xfinity.com | xfinity.xtl.extole.io |
 | xtl._domainkey.dailypay.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.forgetrust.com | xtl.domainkey.u82658.wl159.sendgrid.net |
+| xtl._domainkey.hollandamerica.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.mail.propertyperks.xfinity.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.mail.raf.xfinity.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.notifications.acorns.com | xtl.domainkey.u82658.wl159.sendgrid.net |

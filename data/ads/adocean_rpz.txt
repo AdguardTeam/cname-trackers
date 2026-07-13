@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783500119286        ; Serial
+           1783944176679        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 ad.santa.lv CNAME .
 ado.icorp.ro CNAME .
+ads.eurozet.pl CNAME .
 ads.tvp.pl CNAME .
 ao.city24.lv CNAME .
 ao.la.lv CNAME .

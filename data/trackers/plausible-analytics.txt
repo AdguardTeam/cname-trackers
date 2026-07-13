@@ -149,7 +149,6 @@
 ||plausible.conveyal.com^
 ||plausible.countingindia.com^
 ||plausible.dailytics.com^
-||plausible.dev.logicboard.com^
 ||plausible.doctave.com^
 ||plausible.easytrak.io^
 ||plausible.ejs.dev^
@@ -170,7 +169,6 @@
 ||plausible.kabaret.no^
 ||plausible.kdojang.com^
 ||plausible.lesbianromantic.com^
-||plausible.logicboard.com^
 ||plausible.marker12.org^
 ||plausible.mattpruitt.com^
 ||plausible.mcj.co^
@@ -329,7 +327,6 @@
 ||stats.centralswindonnorth-pc.gov.uk^
 ||stats.cfcasts.com^
 ||stats.changelog.com^
-||stats.chomp.haus^
 ||stats.chronoslabs.net^
 ||stats.clavisaurea.xyz^
 ||stats.cleverdiabetic.com^
@@ -507,7 +504,6 @@
 ||stats.leoloso.com^
 ||stats.lica.at^
 ||stats.lik.fr^
-||stats.limitlessnetworks.eu^
 ||stats.lippeshirts.de^
 ||stats.literacysomerset.org^
 ||stats.literaturkreis.online^
@@ -596,7 +592,6 @@
 ||stats.practicepl.us^
 ||stats.pricewell.io^
 ||stats.principedepaz.gt^
-||stats.procumeni.cz^
 ||stats.prodtype.com^
 ||stats.profitablesignpricing.com^
 ||stats.projectcongress.com^
