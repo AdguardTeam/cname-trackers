@@ -207,7 +207,6 @@ prism.drivingkyoto.com
 prism.feurer-network.ch
 prism.netherlandlines.com
 prism.pablonouvelle.com
-prism.singapouring.com
 prism.tramclockmunich.com
 prism.villageneva.com
 pstat.akathists.com
@@ -298,7 +297,6 @@ stats.bernardobordadagua.com
 stats.bestservers.co
 stats.beyond-grace.co.uk
 stats.bholmes.dev
-stats.bikeschool.co.za
 stats.bimbase.nl
 stats.bitpost.app
 stats.blackbird-automotive.com

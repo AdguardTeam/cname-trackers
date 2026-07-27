@@ -41,6 +41,7 @@
 ||al.fafa-shop.com^
 ||al.fakui.jp^
 ||al.ffs-online.shop^
+||al.flovis.jp^
 ||al.free-spirits.co.jp^
 ||al.fundokin.co.jp^
 ||al.ganzo.ne.jp^
@@ -107,6 +108,7 @@
 ||al.sourcenext.com^
 ||al.stamps-co.com^
 ||al.store.kyokotsu.jp^
+||al.t-east.jp^
 ||al.talex.co.jp^
 ||al.tanabesports.com^
 ||al.tenhoru.jp^

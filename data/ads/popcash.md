@@ -378,7 +378,6 @@
 | elk.techphotoguy.com | deprecated-custom-domains.b-cdn.net |
 | emu.blitzpower.com | deprecated-custom-domains.b-cdn.net |
 | emu.cortexfutura.com | deprecated-custom-domains.b-cdn.net |
-| emu.motala.no | deprecated-custom-domains.b-cdn.net |
 | emu.pin13.net | deprecated-custom-domains.b-cdn.net |
 | eu.fathomdns.com | deprecated-custom-domains.b-cdn.net |
 | eu.usefathom.com | deprecated-custom-domains.b-cdn.net |
@@ -587,7 +586,6 @@
 | lynx.inovo.io | deprecated-custom-domains.b-cdn.net |
 | lynx.lumy.network | deprecated-custom-domains.b-cdn.net |
 | lynx.microl.ink | deprecated-custom-domains.b-cdn.net |
-| lynx.pascivite.com | deprecated-custom-domains.b-cdn.net |
 | lynx.simpleparish.com | deprecated-custom-domains.b-cdn.net |
 | macaw.ianmitchell.dev | deprecated-custom-domains.b-cdn.net |
 | mackerel.passiveincome.io | deprecated-custom-domains.b-cdn.net |
@@ -662,7 +660,6 @@
 | ostrich.getschools.org | deprecated-custom-domains.b-cdn.net |
 | ostrich.hegic-tokenizer.co | deprecated-custom-domains.b-cdn.net |
 | ostrich.pergaudiaadastra.de | deprecated-custom-domains.b-cdn.net |
-| ostrich.scd-rv.com.au | deprecated-custom-domains.b-cdn.net |
 | otter.emdegmbh.com | deprecated-custom-domains.b-cdn.net |
 | otter.jetting.no | deprecated-custom-domains.b-cdn.net |
 | otter.preferredequineonline.com | deprecated-custom-domains.b-cdn.net |
@@ -1021,7 +1018,6 @@
 | cdn.gpcrn.com | popcashjs.b-cdn.net |
 | cdn.hhjow.com | popcashjs.b-cdn.net |
 | cdn.hhmako.cloud | popcashjs.b-cdn.net |
-| cdn.hhmop.cloud | popcashjs.b-cdn.net |
 | cdn.hjklq.com | popcashjs.b-cdn.net |
 | cdn.holenhw.com | popcashjs.b-cdn.net |
 | cdn.htkcm.com | popcashjs.b-cdn.net |

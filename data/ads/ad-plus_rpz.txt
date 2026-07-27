@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ dashboard.digita.media CNAME .
 dashboard.entravision.com CNAME .
 dashboard.grapemedia.cz CNAME .
 dashboard.lookverin.com CNAME .
+dashboard.srmg.com CNAME .
 dashboard.viewtraff.com CNAME .
 dashboard.xqubemedia.com CNAME .
 player.collectiveaudience.co CNAME .

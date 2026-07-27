@@ -11,7 +11,6 @@ analytics.digitaleyes.ai
 analytics.fiquipedia.es
 analytics.kubasta.net
 analytics.law.badriver-nsn.gov
-analytics.law.cityofsanmateo.org
 analytics.law.lco-nsn.gov
 analytics.law.mohican.com
 analytics.law.sanipueblo.org
@@ -61,6 +60,7 @@ goatcounter.eventgeek.ie
 goatcounter.gamecraft.it
 goatcounter.gumarapus.com
 goatcounter.irishbornchinese.com
+goatcounter.maximilianbenner.com
 goatcounter.repozitor.com
 goatcounter.thedave.dev
 goatcounter.thedave.me
@@ -71,7 +71,6 @@ moo.geopogs.party
 novi.webnovi.eu
 pageviews.unbegames.com
 science.ygoprint.org
-st.mapleranks.com
 statgarden.florinesueur.fr
 statistic.elkobraas.com
 stats-blog.lewsion.com
@@ -97,7 +96,6 @@ stats.certidiritti.org
 stats.cloudflex.team
 stats.cloudnativebitcoin.org
 stats.coderscompass.org
-stats.contractor-prep.com
 stats.cormier.co
 stats.crosshair.dev
 stats.cynicalsignals.com
@@ -150,10 +148,12 @@ stats.matteocroce.it
 stats.mausoleum.me
 stats.merrell.dev
 stats.mmn.ca
+stats.msakg.com
 stats.msol.io
 stats.ngdangtu.com
 stats.niravraval.com
 stats.nullzwo.dev
+stats.oidc-provider.dev
 stats.opensurge2d.org
 stats.otbivnoe.ru
 stats.pamcarter.net
@@ -180,6 +180,7 @@ stats.studiodeerenberg.nl
 stats.svc.lol
 stats.szorty.space
 stats.tdurand.com
+stats.theadnyeusarchive.app
 stats.timothechau.vet
 stats.tinkerer.tools
 stats.toughersports.org
@@ -187,7 +188,6 @@ stats.trainsley69.me
 stats.transactional.blog
 stats.umcconnell.net
 stats.uygar.sh
-stats.vireocreative.ca
 stats.webmeasurements.org
 stats.whatacools.com
 stats.ybbond.id

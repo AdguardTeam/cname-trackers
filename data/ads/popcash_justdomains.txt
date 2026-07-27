@@ -46,7 +46,6 @@ cdn.gitajwl.com
 cdn.gpcrn.com
 cdn.hhjow.com
 cdn.hhmako.cloud
-cdn.hhmop.cloud
 cdn.hjklq.com
 cdn.holenhw.com
 cdn.htkcm.com
@@ -393,7 +392,6 @@ elk.ritterhilgerstuetz.de
 elk.techphotoguy.com
 emu.blitzpower.com
 emu.cortexfutura.com
-emu.motala.no
 emu.pin13.net
 eu.fathomdns.com
 eu.usefathom.com
@@ -602,7 +600,6 @@ louse.sigle.io
 lynx.inovo.io
 lynx.lumy.network
 lynx.microl.ink
-lynx.pascivite.com
 lynx.simpleparish.com
 macaw.ianmitchell.dev
 mackerel.passiveincome.io
@@ -677,7 +674,6 @@ orca.overbold.co
 ostrich.getschools.org
 ostrich.hegic-tokenizer.co
 ostrich.pergaudiaadastra.de
-ostrich.scd-rv.com.au
 otter.emdegmbh.com
 otter.jetting.no
 otter.preferredequineonline.com

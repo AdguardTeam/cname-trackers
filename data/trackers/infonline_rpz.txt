@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -100,7 +100,6 @@ data-0b2c5acddd.echtemamas.de CNAME .
 data-0be38fdd72.eatsmarter.de CNAME .
 data-0c2107a914.profil.at CNAME .
 data-0cc10e3905.werbenundverkaufen.de CNAME .
-data-0cc10e3905.wuv.de CNAME .
 data-0cca9d915f.missmum.at CNAME .
 data-0cf18bcfe3.katholisch.de CNAME .
 data-0d1a0271a9.instyle.de CNAME .
@@ -203,7 +202,6 @@ data-1842699cc4.t-online.de CNAME .
 data-1842699cc4.telefonbuch-erlangen.com CNAME .
 data-1842699cc4.telefonbuch.com CNAME .
 data-1842699cc4.telefonbuch.de CNAME .
-data-1842699cc4.vebidoo.de CNAME .
 data-1865901ce0.schoener-wohnen-kollektion.de CNAME .
 data-1865901ce0.schoener-wohnen.de CNAME .
 data-189b3ff7e9.apps.iocnt.de CNAME .
@@ -251,7 +249,6 @@ data-1c0a3d83e3.transfermarkt.co.za CNAME .
 data-1c0a3d83e3.transfermarkt.com.ar CNAME .
 data-1c0a3d83e3.transfermarkt.com.br CNAME .
 data-1c0a3d83e3.transfermarkt.com.tr CNAME .
-data-1c0a3d83e3.transfermarkt.de CNAME .
 data-1c0a3d83e3.transfermarkt.es CNAME .
 data-1c0a3d83e3.transfermarkt.fr CNAME .
 data-1c0a3d83e3.transfermarkt.it CNAME .
@@ -846,7 +843,6 @@ data-6357c1903a.k-aktuell.de CNAME .
 data-63659a24a7.apps.iocnt.de CNAME .
 data-638190bf02.galileo.tv CNAME .
 data-639ebd97e3.transport-online.de CNAME .
-data-63bbe3ec45.wuv.de CNAME .
 data-63ef19fa52.apps.iocnt.de CNAME .
 data-6416365902.sbz-online.de CNAME .
 data-6463194ae5.fitbook.de CNAME .
@@ -943,7 +939,6 @@ data-70f37c510a.suedkurier.de CNAME .
 data-70f3958feb.bauwelt.de CNAME .
 data-710a86ea68.apps.iocnt.de CNAME .
 data-718a2dc909.tageblatt.de CNAME .
-data-7198dfe960.meduniwien.ac.at CNAME .
 data-71ad7acf77.apps.iocnt.de CNAME .
 data-723489657f.ndz.de CNAME .
 data-7393daff1b.focus-mobility.de CNAME .
@@ -1023,7 +1018,6 @@ data-81547504c8.fupa.net CNAME .
 data-81547504c8.nw.de CNAME .
 data-8173e3f7ee.vodafone.de CNAME .
 data-8251905874.handwerk-magazin.de CNAME .
-data-82ef4b598c.haustierratgeber.de CNAME .
 data-83380557db.fupa.net CNAME .
 data-83380557db.nw.de CNAME .
 data-833e9f9a71.dzonline.de CNAME .
@@ -1053,7 +1047,6 @@ data-84a0f3455d.transfermarkt.co.in CNAME .
 data-84a0f3455d.transfermarkt.co.kr CNAME .
 data-84a0f3455d.transfermarkt.co.uk CNAME .
 data-84a0f3455d.transfermarkt.co.za CNAME .
-data-84a0f3455d.transfermarkt.de CNAME .
 data-84a0f3455d.transfermarkt.es CNAME .
 data-84a0f3455d.transfermarkt.fr CNAME .
 data-84a0f3455d.transfermarkt.it CNAME .
@@ -1410,6 +1403,7 @@ data-af44ba1484.apps.iocnt.de CNAME .
 data-af69d737cf.vision-mobility.de CNAME .
 data-af7593657a.apps.iocnt.de CNAME .
 data-af9a061aaf.deraktionaer.de CNAME .
+data-af9f2765fb.apotheken-umschau.de CNAME .
 data-af9f3dfb33.weltkunst.de CNAME .
 data-af9f3dfb33.zeit.de CNAME .
 data-afa7d79a5a.apps.iocnt.de CNAME .
@@ -1996,6 +1990,8 @@ data-fb37a1e7c3.insuedthueringen.de CNAME .
 data-fb37a1e7c3.kornwestheimer-zeitung.de CNAME .
 data-fb37a1e7c3.kurier.de CNAME .
 data-fb37a1e7c3.lahrer-zeitung.de CNAME .
+data-fb37a1e7c3.leonberger-kreiszeitung.de CNAME .
+data-fb37a1e7c3.marbacher-zeitung.de CNAME .
 data-fb37a1e7c3.mhsdigital.de CNAME .
 data-fb37a1e7c3.np-coburg.de CNAME .
 data-fb37a1e7c3.schwarzwaelder-bote.de CNAME .
@@ -2017,7 +2013,6 @@ data-fbd77ae9c0.np-coburg.de CNAME .
 data-fbef420c7e.apps.iocnt.de CNAME .
 data-fc37ed291d.bruchkoebel.de CNAME .
 data-fc37ed291d.stadtbibliothek-bruchkoebel.de CNAME .
-data-fc6e3104c2.finanztreff.de CNAME .
 data-fc6e3104c2.gatrixx.com CNAME .
 data-fcb7dbed1e.apps.iocnt.de CNAME .
 data-fd399543fe.elektroniknet.de CNAME .

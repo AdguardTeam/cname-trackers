@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,53 +13,6 @@ $TTL 300
 
 agent.ap1.devel1ess.oohmediaomseooohmedialient.ap1.devel1ess-core.status-oohmediaomseooohmediaessseops.ap1.devel1ess.devel1ess-enoohmediarypted.devel1ess.oohmediaomseooohmediaessseops.devel1ess.onfluence-lab.agent.ap1.datadoghq.com CNAME .
 drive-agent.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediaessprofiles.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediaessprofiles.datadoghq.comproduction.agent.ap1.datadoghq.com CNAME .
-0.ads.tremorhub.com CNAME .
-031kr-72z7z.ads.tremorhub.com CNAME .
-031kr-rwlpf.ads.tremorhub.com CNAME .
-031kr-vyvxw.ads.tremorhub.com CNAME .
-0t5pq-37tiq.ads.tremorhub.com CNAME .
-0t5pq-e6w16.ads.tremorhub.com CNAME .
-0t5pq-krt0d.ads.tremorhub.com CNAME .
-1dfkn-9cdv6.ads.tremorhub.com CNAME .
-2onby-xqooy.ads.tremorhub.com CNAME .
-4hllz-0dtva.ads.tremorhub.com CNAME .
-5nbh3-uouba.ads.tremorhub.com CNAME .
-6lioc-40gtx.ads.tremorhub.com CNAME .
-6lioc-ftrbi.ads.tremorhub.com CNAME .
-6psex-fm1gy.ads.tremorhub.com CNAME .
-9l6ha-e14kk.ads.tremorhub.com CNAME .
-ap-southeast-1.eb.tremorhub.com CNAME .
-cguke-6qxzm.ads.tremorhub.com CNAME .
-cpu32-u68p7.ads.tremorhub.com CNAME .
-cpu32-vvlc7.ads.tremorhub.com CNAME .
-dsn4w-sg4t3.ads.tremorhub.com CNAME .
-dzy22-szpxo.ads.tremorhub.com CNAME .
-em1jn-4rwts.ads.tremorhub.com CNAME .
-eq97f-1j0az.ads.tremorhub.com CNAME .
-erf4d-apmlm.ads.tremorhub.com CNAME .
-j5en0-2ybeb.ads.tremorhub.com CNAME .
-j5en0-pll05.ads.tremorhub.com CNAME .
-kiiu4.ads.tremorhub.com CNAME .
-ktk7k-zvz05.ads.tremorhub.com CNAME .
-m7hdh-2damu.ads.tremorhub.com CNAME .
-p4dt2-hr9oj.ads.tremorhub.com CNAME .
-pc031-edgup.ads.tremorhub.com CNAME .
-pc083-aipdx.ads.tremorhub.com CNAME .
-px2ii-de7f6.ads.tremorhub.com CNAME .
-q017o-jh7o1.ads.tremorhub.com CNAME .
-qlj12-52yr6.ads.tremorhub.com CNAME .
-r5rfy-ixl17.ads.tremorhub.com CNAME .
-rrmn0-uag05.ads.tremorhub.com CNAME .
-slckg-2p3vy.ads.tremorhub.com CNAME .
-slckg-lyoc5.ads.tremorhub.com CNAME .
-slckg-qrmhc.ads.tremorhub.com CNAME .
-w6blq-daeum.ads.tremorhub.com CNAME .
-w78o8-u00lp.ads.tremorhub.com CNAME .
-www.6psex-axuft.ads.tremorhub.com CNAME .
-www.p4dt2-980w2.ads.tremorhub.com CNAME .
-www.pc083-ii06c.ads.tremorhub.com CNAME .
-www.q017o-d42by.ads.tremorhub.com CNAME .
-www.regional.ads.tremorhub.com CNAME .
 03rproxjqg5imz2-c.adkclicker.fr CNAME .
 06v1o7d8swcsrkm-p.adkclicker.fr CNAME .
 08gqgjafhndn7ky-p.adkclicker.fr CNAME .
@@ -748,7 +701,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz CNAME .
 100010660.collect.igodigital.com CNAME .
 100010763.collect.igodigital.com CNAME .
 100010777.collect.igodigital.com CNAME .
-100010921.collect.igodigital.com CNAME .
 100011009.collect.igodigital.com CNAME .
 100011086.collect.igodigital.com CNAME .
 100011269.collect.igodigital.com CNAME .
@@ -870,7 +822,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz CNAME .
 7220880.collect.igodigital.com CNAME .
 7222928.collect.igodigital.com CNAME .
 7226716.collect.igodigital.com CNAME .
-7227558.collect.igodigital.com CNAME .
 7231222.collect.igodigital.com CNAME .
 7231699.collect.igodigital.com CNAME .
 7233063.collect.igodigital.com CNAME .
@@ -1070,7 +1021,6 @@ ichnaea-web.us-west-2.internal.dradis.netflix.com CNAME .
 bidus.metaxads.com CNAME .
 bizanalytics.verizonwireless.com CNAME .
 brexc.valuecommerce.com CNAME .
-cache-us-west-2.tremorhub.com CNAME .
 click.mobi-meta.com CNAME .
 collect.rbcroyalbank.com CNAME .
 rbcroyalbank.fp.collect.igodigital.com CNAME .
@@ -1088,7 +1038,6 @@ iaw-events.polarbyte.com CNAME .
 isc-tracking.eventim.com CNAME .
 isc-tracking.eventim.tech CNAME .
 isi-tracking.eventim.com CNAME .
-jwplayer.eb.tremorhub.com CNAME .
 kr-ad-dcsn.aws.tving.com CNAME .
 log.gomlab.com CNAME .
 logger.unsplash.com CNAME .

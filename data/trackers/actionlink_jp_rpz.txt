@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,6 +52,7 @@ al.f-kayama.com CNAME .
 al.fafa-shop.com CNAME .
 al.fakui.jp CNAME .
 al.ffs-online.shop CNAME .
+al.flovis.jp CNAME .
 al.free-spirits.co.jp CNAME .
 al.fundokin.co.jp CNAME .
 al.ganzo.ne.jp CNAME .
@@ -118,6 +119,7 @@ al.sotouba.net CNAME .
 al.sourcenext.com CNAME .
 al.stamps-co.com CNAME .
 al.store.kyokotsu.jp CNAME .
+al.t-east.jp CNAME .
 al.talex.co.jp CNAME .
 al.tanabesports.com CNAME .
 al.tenhoru.jp CNAME .

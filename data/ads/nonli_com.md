@@ -36,12 +36,15 @@
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
+| account.h24.news | tls.non.li |
+| api.h24.news | tls.non.li |
 | at.h24.news | tls.non.li |
 | barracuda.h24.news | tls.non.li |
 | br.h24.news | tls.non.li |
 | de.h24.news | tls.non.li |
 | ec.h24.news | tls.non.li |
 | flow-prod.h24.news | tls.non.li |
+| fr.h24.news | tls.non.li |
 | go.3ds.com | tls.non.li |
 | go.france24.com | tls.non.li |
 | go.lenouveaudetective.com | tls.non.li |
@@ -98,6 +101,7 @@
 | l.challenges.fr | tls.non.li |
 | l.charentelibre.fr | tls.non.li |
 | l.chartsinfrance.net | tls.non.li |
+| l.cheriefm.fr | tls.non.li |
 | l.citoyens.com | tls.non.li |
 | l.closermag.fr | tls.non.li |
 | l.clubic.com | tls.non.li |
@@ -264,7 +268,9 @@
 | l.netmums.com | tls.non.li |
 | l.nextplz.fr | tls.non.li |
 | l.nordlittoral.fr | tls.non.li |
+| l.nostalgie.fr | tls.non.li |
 | l.notretemps.com | tls.non.li |
+| l.nrj.fr | tls.non.li |
 | l.nrpyrenees.fr | tls.non.li |
 | l.numerama.com | tls.non.li |
 | l.ohmymag.co.uk | tls.non.li |
@@ -295,6 +301,7 @@
 | l.radiofrance.fr | tls.non.li |
 | l.reporterre.net | tls.non.li |
 | l.revue21.fr | tls.non.li |
+| l.rireetchansons.fr | tls.non.li |
 | l.rmc.fr | tls.non.li |
 | l.rmcbfmplay.com | tls.non.li |
 | l.rmcsport.fr | tls.non.li |
@@ -355,6 +362,7 @@
 | relay.h24.news | tls.non.li |
 | remote.h24.news | tls.non.li |
 | server1.h24.news | tls.non.li |
+| signup.h24.news | tls.non.li |
 | smtp.mail.h24.news | tls.non.li |
 | smtp2.h24.news | tls.non.li |
 | u.ie.h24.news | tls.non.li |

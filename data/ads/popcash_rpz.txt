@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -57,7 +57,6 @@ cdn.gitajwl.com CNAME .
 cdn.gpcrn.com CNAME .
 cdn.hhjow.com CNAME .
 cdn.hhmako.cloud CNAME .
-cdn.hhmop.cloud CNAME .
 cdn.hjklq.com CNAME .
 cdn.holenhw.com CNAME .
 cdn.htkcm.com CNAME .
@@ -404,7 +403,6 @@ elk.ritterhilgerstuetz.de CNAME .
 elk.techphotoguy.com CNAME .
 emu.blitzpower.com CNAME .
 emu.cortexfutura.com CNAME .
-emu.motala.no CNAME .
 emu.pin13.net CNAME .
 eu.fathomdns.com CNAME .
 eu.usefathom.com CNAME .
@@ -613,7 +611,6 @@ louse.sigle.io CNAME .
 lynx.inovo.io CNAME .
 lynx.lumy.network CNAME .
 lynx.microl.ink CNAME .
-lynx.pascivite.com CNAME .
 lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
 mackerel.passiveincome.io CNAME .
@@ -688,7 +685,6 @@ orca.overbold.co CNAME .
 ostrich.getschools.org CNAME .
 ostrich.hegic-tokenizer.co CNAME .
 ostrich.pergaudiaadastra.de CNAME .
-ostrich.scd-rv.com.au CNAME .
 otter.emdegmbh.com CNAME .
 otter.jetting.no CNAME .
 otter.preferredequineonline.com CNAME .

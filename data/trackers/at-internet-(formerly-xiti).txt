@@ -52,6 +52,7 @@
 ||hd.pe.fr^
 ||hmg.handelsblatt.com^
 ||hmg.wiwo.de^
+||ignis.nn.de^
 ||image.ard.de^
 ||image.mdr.de^
 ||images.kika.de^
@@ -73,7 +74,16 @@
 ||pa.franceminiature.fr^
 ||pa.futuroscope.com^
 ||pa.grevin-paris.com^
+||pa.lamontagne.fr^
+||pa.larep.fr^
+||pa.le-pays.fr^
+||pa.leberry.fr^
+||pa.lechorepublicain.fr^
+||pa.lejdc.fr^
+||pa.lepopulaire.fr^
 ||pa.lesarcs-peiseyvallandry.com^
+||pa.leveil.fr^
+||pa.lyonne.fr^
 ||pa.parcasterix.fr^
 ||pa.serrechevalier-pass.com^
 ||pa.skipass-grand-massif.com^
@@ -125,6 +135,7 @@
 ||strawberry.basf.ca^
 ||strawberry.basf.com^
 ||strawberry.basf.us^
+||test-le.atcloudapp.net^
 ||tja-expiration.pa-cd-dev.com^
 ||tm.urssaf.fr^
 ||tm.urssaf.org^

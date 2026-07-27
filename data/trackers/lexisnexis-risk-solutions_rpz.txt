@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -139,7 +139,6 @@ app.uob.co.th CNAME .
 app.uob.com.my CNAME .
 app.uob.com.sg CNAME .
 app01.cnt.bdo.com.ph CNAME .
-app01.cnt.uat.bdo.com.ph CNAME .
 app392.gerberlife.com CNAME .
 applibs.fglife.com CNAME .
 applicant.rbfcu.org CNAME .
@@ -475,6 +474,7 @@ content.sb.lt CNAME .
 content.sfbli.com CNAME .
 content.sheerid.com CNAME .
 content.shop.post.ch CNAME .
+content.smart-glocal.com CNAME .
 content.solutions-corporate.com CNAME .
 content.spincasino.ca CNAME .
 content.sportchek.ca CNAME .
@@ -992,6 +992,7 @@ prod-wccuri.chaperone.lumindigitalhosting.com CNAME .
 prod-westccu.chaperone.lumindigitalhosting.com CNAME .
 prod-wings.chaperone.lumindigitalhosting.com CNAME .
 prof4rs.cembrapay.ch CNAME .
+profile.iassist.com CNAME .
 profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
@@ -1198,6 +1199,7 @@ tags.emirates.com CNAME .
 tags.eq.iombank.com CNAME .
 tags.eq.natwestinternational.com CNAME .
 tags.eq.rbsinternational.com CNAME .
+tags.greenfeatheronline.com CNAME .
 tags.ipp-services.eu CNAME .
 tags.natwest.com CNAME .
 tags.nwolb.com CNAME .
@@ -1216,6 +1218,7 @@ tags.ulsterbankanytimebanking.co.uk CNAME .
 tags.ulsterbankanytimebanking.ie CNAME .
 tblsdp.staging.tonybet.ca CNAME .
 tblsdp.tonybet.ca CNAME .
+tblsdp.tonybetalberta.ca CNAME .
 tbp.tescobank.com CNAME .
 tcontent.auchantelecom.fr CNAME .
 tcontent.nrjmobile.fr CNAME .

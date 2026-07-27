@@ -503,7 +503,6 @@ a8clk.hoken-minaoshi-lab.jp
 a8clk.hokennews.jp
 a8clk.hom.adebtt.info
 a8clk.home.me.tech-clips.com
-a8clk.hurugicom.jp
 a8clk.ias.il24.net
 a8clk.inakakon.jp
 a8clk.info2.sunbridge.com
@@ -1253,11 +1252,9 @@ a8cv.veggie-toreru.jp
 a8cv.vieon.co.jp
 a8cv.w2solution.co.jp
 a8cv.wakan.shop
-a8cv.wake.fun
 a8cv.waterserver.co.jp
 a8cv.web-planners.net
 a8cv.wedding.mynavi.jp
-a8cv.whynot.jp
 a8cv.will-agaclinic.com
 a8cv.will-gocon.net
 a8cv.withcode.tech
@@ -1292,7 +1289,6 @@ a8cv.yamachiya.co.jp
 a8cv.yamasa-suppon.com
 a8cv.yamato-gp.net
 a8cv.yamatokouso.com
-a8cv.ygm-clinic.or.jp
 a8cv.yogino.jp
 a8cv.yokoyamakaban.com
 a8cv.yoriso.com

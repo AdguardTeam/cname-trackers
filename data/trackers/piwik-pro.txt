@@ -35,6 +35,7 @@
 ||piwik.slotsparadise.com^
 ||piwik.twyzle.com^
 ||piwik.vegasaces.com^
+||piwikpro.amrest.eu^
 ||purple.fitchconnect.com^
 ||pwk.tweedekamer.nl^
 ||site-analytics.iop.ohio.gov^

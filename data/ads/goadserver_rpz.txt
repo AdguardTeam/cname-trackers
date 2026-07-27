@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,28 +11,17 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-ad.slimspots.com CNAME .
 ad.srvupads.com CNAME .
-ads.coinads.click CNAME .
-adserver.asiantb.com CNAME .
-az.tbllem.com CNAME .
 cdn.goasrv.com CNAME .
-ch.tbllem.com CNAME .
 dd.nexvoxi.com CNAME .
 display.digitalclickstime.com CNAME .
-ff.avacharms.top CNAME .
 ff.electricoz.life CNAME .
-ff.finaster.top CNAME .
-ff.greensite.click CNAME .
-ff.nadache.top CNAME .
 ff.nolvade.top CNAME .
+ff.padelit.click CNAME .
 ff.parskhat.best CNAME .
-ff.raposoft.buzz CNAME .
 ff.rosuirone.digital CNAME .
 g2.gsrv.dev CNAME .
-go.23aoalmfwinbsstec.com CNAME .
 go.aoalmfwinbsstec23.com CNAME .
-go.bidvance.com CNAME .
 go.bigbang.solutions CNAME .
 go.clickwhore.com CNAME .
 go.delmovip.com CNAME .
@@ -43,30 +32,21 @@ go.goasrv.com CNAME .
 go.gosrv.cl CNAME .
 go.gsrv.dev CNAME .
 go.linkadsnet.com CNAME .
-go.novirtb.com CNAME .
 go.panotads.com CNAME .
-go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com CNAME .
 go.redgifs.com CNAME .
-go.soobix.com CNAME .
 go.static-srv.com CNAME .
-go.tbllad.com CNAME .
 go.tbllem.com CNAME .
-go.tbllprem.com CNAME .
 go.tbllreg.com CNAME .
-go.tbllrej.com CNAME .
 go.tbllzon.com CNAME .
 go.trafficbull.com CNAME .
 go.trcklnk.com CNAME .
 go1.3mre.work CNAME .
-go1.atre.work CNAME .
 go1.ccre.work CNAME .
-go1.lire.work CNAME .
 go1.reacheffecti.work CNAME .
 go1.reachsrv.com CNAME .
-go1.rssr.work CNAME .
 go1.spre.work CNAME .
 go1.tbllad.com CNAME .
-go1.tjre.work CNAME .
+go1.traffytrack.digital CNAME .
 go1.trakit18.com CNAME .
 go1.trakit19.com CNAME .
 go1.trakit22.com CNAME .
@@ -84,7 +64,6 @@ go1.yare.work CNAME .
 go2.tbllrej.com CNAME .
 go2.toplineads.com CNAME .
 go2.trafficbull.com CNAME .
-gos.tbllad.com CNAME .
 gose.tbllad.com CNAME .
 gs.tbllzon.com CNAME .
 gw.blacked.com CNAME .
@@ -103,7 +82,6 @@ its.pasrv.com CNAME .
 its.tbpot.com CNAME .
 live.amplifo.com CNAME .
 live.applzr.com CNAME .
-live.publyt.com CNAME .
 live.quixova.com CNAME .
 live.trmzum.com CNAME .
 live.trudigo.com CNAME .
@@ -111,11 +89,14 @@ live.zrmtrm.com CNAME .
 pl.tbepc.com CNAME .
 pl.tbllem.com CNAME .
 rtb.prnteen.com CNAME .
-up.tbllem.com CNAME .
+track.clearsky-rhythm.com CNAME .
 vast.aimedads.com CNAME .
-www.flight.goasrv.com CNAME .
-www.gsrv.dev CNAME .
+www.tbllzon.com CNAME .
+ad.slimspots.com CNAME .
+ads.coinads.click CNAME .
 advserver.asiantb.com CNAME .
+az.tbllem.com CNAME .
+ch.tbllem.com CNAME .
 cx.tbllprem.com CNAME .
 disdikjakarta.goasrv.com CNAME .
 disney-xd.en.goasrv.com CNAME .
@@ -124,7 +105,6 @@ dk-da.goasrv.com CNAME .
 dk1.goasrv.com CNAME .
 docker.stat.goaserv.com CNAME .
 doctorditoiu.goaserv.com CNAME .
-doctorloan.goaserv.com CNAME .
 documentation.its.goaserv.com CNAME .
 domreg.goaserv.com CNAME .
 dor.goaserv.com CNAME .
@@ -223,11 +203,14 @@ fem.goasrv.com CNAME .
 feminity.goasrv.com CNAME .
 fenetresur.goasrv.com CNAME .
 fenghuangguoji.goasrv.com CNAME .
+ff.avacharms.top CNAME .
 ff.buspar.click CNAME .
-ff.padelit.click CNAME .
+ff.finaster.top CNAME .
+ff.greensite.click CNAME .
+ff.nadache.top CNAME .
+ff.raposoft.buzz CNAME .
 fgritb.goaserv.com CNAME .
 fgv159.goaserv.com CNAME .
-file125.goaserv.com CNAME .
 file47.goaserv.com CNAME .
 filesishare.goaserv.com CNAME .
 findme.goasrv.com CNAME .
@@ -287,8 +270,19 @@ glazba.goasrv.com CNAME .
 glazurit.goasrv.com CNAME .
 glucofacts.goasrv.com CNAME .
 glutenfreakchef.goaserv.com CNAME .
+go.23aoalmfwinbsstec.com CNAME .
+go.bidvance.com CNAME .
+go.novirtb.com CNAME .
+go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com CNAME .
+go.soobix.com CNAME .
+go.tbllad.com CNAME .
+go.tbllprem.com CNAME .
+go.tbllrej.com CNAME .
 go1.a2ure.work CNAME .
-go1.traffytrack.digital CNAME .
+go1.atre.work CNAME .
+go1.lire.work CNAME .
+go1.rssr.work CNAME .
+go1.tjre.work CNAME .
 godsandfoolishgrandeur.goasrv.com CNAME .
 godstamps.goasrv.com CNAME .
 gofin.goaserv.com CNAME .
@@ -298,6 +292,7 @@ gohan.goasrv.com CNAME .
 gohmert.goasrv.com CNAME .
 goldtradnew5.goasrv.com CNAME .
 gorokuichi.goasrv.com CNAME .
+gos.tbllad.com CNAME .
 gostoso-blog-2010.goaserv.com CNAME .
 gottamp3.goaserv.com CNAME .
 gotujebochce.goasrv.com CNAME .
@@ -332,6 +327,7 @@ gureloto.goaserv.com CNAME .
 gurotranslation.goasrv.com CNAME .
 i89q.az.tbllem.com CNAME .
 jacco.goaserv.com CNAME .
+live.publyt.com CNAME .
 timetrack.goasrv.com CNAME .
 tintic.goaserv.com CNAME .
 tlc6.goaserv.com CNAME .
@@ -358,7 +354,6 @@ transfusions.goaserv.com CNAME .
 transintranet.goaserv.com CNAME .
 traxion.go-srv.com CNAME .
 trcuktrivia.blog.goasrv.com CNAME .
-trek456.goaserv.com CNAME .
 trendekhaza.goaserv.com CNAME .
 tri-c.goasrv.com CNAME .
 troll-bridge.goasrv.com CNAME .
@@ -393,6 +388,7 @@ uncch.pure.goaserv.com CNAME .
 uncle-johns-room.at.goasrv.com CNAME .
 unkqf.goaserv.com CNAME .
 unlimitedskil.blog.goaserv.com CNAME .
+up.tbllem.com CNAME .
 upenn.hosted.goaserv.com CNAME .
 uq.rl.goaserv.com CNAME .
 urad.goasrv.com CNAME .
@@ -512,11 +508,13 @@ www.enm.goasrv.com CNAME .
 www.fara-jaslo.rzeszow.goaserv.com CNAME .
 www.fcat.goasrv.com CNAME .
 www.fernandoagrasso.goaserv.com CNAME .
+www.flight.goasrv.com CNAME .
 www.geoengineering.goasrv.com CNAME .
 www.gf.goaserv.com CNAME .
 www.go.tbllzon.com CNAME .
 www.goaserv.com CNAME .
 www.greenergy.goasrv.com CNAME .
+www.gsrv.dev CNAME .
 www.haryana.goaserv.com CNAME .
 www.hd-wallpaper.goasrv.com CNAME .
 www.hscbusiness.goaserv.com CNAME .
@@ -561,7 +559,6 @@ www.smart.goasrv.com CNAME .
 www.swroch.goaserv.com CNAME .
 www.sz.goasrv.com CNAME .
 www.tbllad.com CNAME .
-www.tbllzon.com CNAME .
 www.thenational.goaserv.com CNAME .
 www.tpcityart.goaserv.com CNAME .
 www.universitas.goaserv.com CNAME .
@@ -588,11 +585,9 @@ xgxy.goaserv.com CNAME .
 xiangganghuangguantouzhuwang.goasrv.com CNAME .
 xianggangliuhecaiguanwang.goasrv.com CNAME .
 xianjinbocaixinyuzenmeyang.goaserv.com CNAME .
-xlinux.goasrv.com CNAME .
 xlkf.goaserv.com CNAME .
 xm6.goasrv.com CNAME .
 xtares.goaserv.com CNAME .
-xup6u600504.goasrv.com CNAME .
 xxmoniquesimsxx.goaserv.com CNAME .
 yakutiya.goaserv.com CNAME .
 yalitchat.goaserv.com CNAME .

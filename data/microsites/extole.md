@@ -8,7 +8,6 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * app.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
@@ -447,6 +446,7 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
+    * quickbooks.em.extole.io
     * quickbooks.extole.io
     * quickbooksintuituk.extole.io
     * quickstart.extole.io
@@ -501,6 +501,7 @@
     * smashbox.extole.io
     * snap-finance.extole.io
     * soma.extole.io
+    * soundcloud.em.extole.io
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
@@ -575,6 +576,7 @@
     * verizon.extole.io
     * vibecreditunion.extole.io
     * viktor-rolf.extole.io
+    * vintedgo.extole.io
     * virginvoyages.extole.io
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
@@ -649,7 +651,6 @@
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
 | refer.andieswim.com | andie-swim.extole.io |
-| refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
@@ -705,10 +706,7 @@
 | share.us.boden.com | boden.extole.io |
 | refer.booksy.com | booksy.extole.io |
 | refer.bose.co.uk | bose.extole.io |
-| refer.bose.com | bose.extole.io |
 | refer.bose.de | bose.extole.io |
-| refer.bose.fr | bose.extole.io |
-| referafriend.bose.com | bose.extole.io |
 | share.bose.ca | bose.extole.io |
 | share.bose.co.nz | bose.extole.io |
 | share.bose.com.au | bose.extole.io |
@@ -784,7 +782,6 @@
 | ilove.volusion.com | d.extole.com |
 | refer-a-friend.trivantis.com | d.extole.com |
 | refer.solarwinds.com | d.extole.com |
-| tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
 | em7952.dailypay.com | dailypay.em.extole.io |
 | share.dailypay.com | dailypay.extole.io |
@@ -1181,6 +1178,7 @@
 | recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
+| em2279.referral.quickbooks.co.uk | quickbooks.em.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
 | referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
@@ -1253,6 +1251,7 @@
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
 | refer.soma.com | soma.extole.io |
+| em8031.soundcloud.com | soundcloud.em.extole.io |
 | invite.soundcloud.com | soundcloud.extole.io |
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
@@ -1376,6 +1375,7 @@
 | refer.vibecreditunion.com | vibecreditunion.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |
 | share.vimeo.com | vimeo.extole.com |
+| share.vintedgo.com | vintedgo.extole.io |
 | share.virginvoyages.com | virginvoyages.extole.io |
 | referral.vistaprint.com | vistaprint-ssl.extole.com |
 | refer.vitaminpacks.com | vitaminpacks.extole.io |

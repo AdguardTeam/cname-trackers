@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,7 +32,6 @@ tr.actiflip.devisdirect.com CNAME .
 tr.activeprospects.info CNAME .
 tr.actu-companeo.com CNAME .
 tr.actu.bricodepot.com CNAME .
-tr.actu.imaprotect.eu CNAME .
 tr.actu.infopro-digital-media.fr CNAME .
 tr.actu.reunica.com CNAME .
 tr.actu.rmcbfmplay.com CNAME .
@@ -364,7 +363,6 @@ tr.donateur.afm-telethon.fr CNAME .
 tr.dossier-assurance.maaf.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
 tr.e-mail.axa.fr CNAME .
-tr.e-mail.axabanque.fr CNAME .
 tr.e-travaux.info CNAME .
 tr.e.entreprise-pm.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
@@ -421,7 +419,6 @@ tr.emailing.cifea-mkg.com CNAME .
 tr.emailing.cnam-paysdelaloire.fr CNAME .
 tr.emailing.coe.int CNAME .
 tr.emailing.cstar.fr CNAME .
-tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
 tr.emailing.studiocanal.com CNAME .
 tr.emailing.tvcaraibes.tv CNAME .
@@ -860,7 +857,6 @@ tr.news.lentimenocare.it CNAME .
 tr.news.libranoo.com CNAME .
 tr.news.linxea.com CNAME .
 tr.news.lisez.com CNAME .
-tr.news.lokapimail.com CNAME .
 tr.news.maisons-du-monde.com CNAME .
 tr.news.manutan-collectivites.fr CNAME .
 tr.news.mdbp.fr CNAME .
@@ -1233,6 +1229,5 @@ s.allopneus.com CNAME .
 s.gemy.fr CNAME .
 s.lgch.mp CNAME .
 s.np6.com CNAME .
-sms.imaprotect.com CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .

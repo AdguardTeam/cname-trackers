@@ -28,7 +28,6 @@
 | s.gemy.fr | shortener.bp01.net |
 | s.lgch.mp | shortener.bp01.net |
 | s.np6.com | shortener.bp01.net |
-| sms.imaprotect.com | shortener.bp01.net |
 | www.lgch.mp | shortener.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
@@ -51,7 +50,6 @@
 | tr.activeprospects.info | tracking.bp01.net |
 | tr.actu-companeo.com | tracking.bp01.net |
 | tr.actu.bricodepot.com | tracking.bp01.net |
-| tr.actu.imaprotect.eu | tracking.bp01.net |
 | tr.actu.infopro-digital-media.fr | tracking.bp01.net |
 | tr.actu.reunica.com | tracking.bp01.net |
 | tr.actu.rmcbfmplay.com | tracking.bp01.net |
@@ -383,7 +381,6 @@
 | tr.dossier-assurance.maaf.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
 | tr.e-mail.axa.fr | tracking.bp01.net |
-| tr.e-mail.axabanque.fr | tracking.bp01.net |
 | tr.e-travaux.info | tracking.bp01.net |
 | tr.e.entreprise-pm.fr | tracking.bp01.net |
 | tr.e.entreprise-pm.net | tracking.bp01.net |
@@ -440,7 +437,6 @@
 | tr.emailing.cnam-paysdelaloire.fr | tracking.bp01.net |
 | tr.emailing.coe.int | tracking.bp01.net |
 | tr.emailing.cstar.fr | tracking.bp01.net |
-| tr.emailing.detours.canal.fr | tracking.bp01.net |
 | tr.emailing.grassavoye.com | tracking.bp01.net |
 | tr.emailing.studiocanal.com | tracking.bp01.net |
 | tr.emailing.tvcaraibes.tv | tracking.bp01.net |
@@ -879,7 +875,6 @@
 | tr.news.libranoo.com | tracking.bp01.net |
 | tr.news.linxea.com | tracking.bp01.net |
 | tr.news.lisez.com | tracking.bp01.net |
-| tr.news.lokapimail.com | tracking.bp01.net |
 | tr.news.maisons-du-monde.com | tracking.bp01.net |
 | tr.news.manutan-collectivites.fr | tracking.bp01.net |
 | tr.news.mdbp.fr | tracking.bp01.net |

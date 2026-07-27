@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,7 +41,6 @@ ads.recon.com CNAME .
 ads.swiss-equestrian.ch CNAME .
 ads.the-saleroom.com CNAME .
 ads.worldofshowjumping.com CNAME .
-ads.xtra.ca CNAME .
 adserv1.mannixmarketing.com CNAME .
 adserver.associationheadquarters.com CNAME .
 adserver.infotorg.se CNAME .
@@ -64,6 +63,7 @@ api.ad.logic-test.viasat.io CNAME .
 api.ad.logic.viasat.io CNAME .
 api.aqua-adserver.com CNAME .
 api.metrike.com CNAME .
+api.revive-adserver.net CNAME .
 banners.atlantamagazine.com CNAME .
 banners.cincinnatimagazine.com CNAME .
 banners.geminipub.com CNAME .
@@ -89,7 +89,9 @@ console.ad.logic-prod.viasat.io CNAME .
 console.ad.logic-test.viasat.io CNAME .
 console.ad.logic.viasat.io CNAME .
 console.adbility-media.com CNAME .
+console.ads.fanta-olimpiadi.com CNAME .
 console.adspmg.com CNAME .
+console.ammoland.com CNAME .
 console.aqua-adserver.com CNAME .
 console.biohandel.de CNAME .
 console.blulab.net CNAME .
@@ -97,6 +99,7 @@ console.cavalier-romand.ch CNAME .
 console.ceramicartsnetwork.org CNAME .
 console.channelvas.com CNAME .
 console.cincinnatimagazine.com CNAME .
+console.conservativestar.com CNAME .
 console.cricketworld.com CNAME .
 console.datateam.co.uk CNAME .
 console.engineeringnews.co.za CNAME .
@@ -110,21 +113,30 @@ console.imagineobx.com CNAME .
 console.informingnews.com CNAME .
 console.insideradverts.com CNAME .
 console.isn.nl CNAME .
+console.khn.nl CNAME .
 console.leightonbroadcasting.com CNAME .
 console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
 console.medlabmag.com CNAME .
 console.mequoda.com CNAME .
 console.miningweekly.com CNAME .
+console.palmbeachmedia.com CNAME .
+console.personare.com.br CNAME .
 console.pinktriangle.ca CNAME .
 console.polity.org.za CNAME .
 console.postandparcel.info CNAME .
+console.pppmag.com CNAME .
 console.revive-adserver.net CNAME .
 console.rlnads.net CNAME .
 console.sacommunications.com CNAME .
 console.schrotundkorn.de CNAME .
+console.sueddeutsche.de CNAME .
+console.swiss-equestrian.ch CNAME .
+console.thedailyhorn.com CNAME .
 console.trackandfieldnews.com CNAME .
+console.unionesarda.it CNAME .
 console.walaplusadserver.com CNAME .
+console.wwoz.org CNAME .
 coreads-static.cambridge.org CNAME .
 coreads.cambridge.org CNAME .
 creatives.goldseek.com CNAME .
@@ -137,6 +149,7 @@ growthtrac-delivery.reviveservers.com CNAME .
 images.addurance.com CNAME .
 images.cavalier-romand.ch CNAME .
 images.cricketworld.com CNAME .
+images.directdisplaymarketing.com CNAME .
 images.etnomedia.nl CNAME .
 images.falconstudios.com CNAME .
 images.fnch.ch CNAME .
@@ -243,6 +256,7 @@ static.environmentalleader.com CNAME .
 static.everythingcolorado.com CNAME .
 static.everythingnevada.com CNAME .
 static.fa-mag.com CNAME .
+static.filmamo.com CNAME .
 static.hollandhortimedia.nl CNAME .
 static.i-bidder.com CNAME .
 static.imagineobx.com CNAME .

@@ -91,6 +91,7 @@
 ||affilbox.kvaskovanie.sk^
 ||affilbox.stygremvkleci.cz^
 ||affilbox.tikoki.com^
+||affilbox.visionbook.sk^
 ||affilbox.zdravedesiate.sk^
 ||affiliate.4fresh.cz^
 ||affiliate.a1m.cz^
@@ -318,7 +319,6 @@
 ||my.fr.top4running.be^
 ||my.kickz.com^
 ||my.top4fitness.cz^
-||my.top4fitness.de^
 ||my.top4fitness.gr^
 ||my.top4running.at^
 ||my.top4running.be^
@@ -332,7 +332,6 @@
 ||my.top4running.es^
 ||my.top4running.fi^
 ||my.top4running.fr^
-||my.top4running.gr^
 ||my.top4running.hr^
 ||my.top4running.hu^
 ||my.top4running.ie^
@@ -398,7 +397,6 @@
 ||partner.aeriumshop.nl^
 ||partner.aeriumshop.pl^
 ||partner.affilbox.com^
-||partner.affiliateark.com^
 ||partner.airbobags.com^
 ||partner.alesio.cz^
 ||partner.ammu.cz^
@@ -409,6 +407,7 @@
 ||partner.artmaster.com^
 ||partner.artmasteracademy.cz^
 ||partner.astaxanthincz.cz^
+||partner.ateliermozaika.cz^
 ||partner.austriaapotheke.sk^
 ||partner.autosarm.cz^
 ||partner.avetour.cz^
@@ -433,6 +432,7 @@
 ||partner.booktook.cz^
 ||partner.brawolife.cz^
 ||partner.breakout.cz^
+||partner.briliantove-sperky.sk^
 ||partner.brilianty.cz^
 ||partner.brillbird.cz^
 ||partner.buka.cz^
@@ -453,7 +453,6 @@
 ||partner.chevronnutrition.cz^
 ||partner.chiashake.cz^
 ||partner.chilimarket.cz^
-||partner.chocolatehill.cz^
 ||partner.chytranemovitost.cz^
 ||partner.chytrydopravce.cz^
 ||partner.city-game-prague.cz^
@@ -464,6 +463,7 @@
 ||partner.colosseumticket.sk^
 ||partner.colway.cz^
 ||partner.comeflexoffice.cz^
+||partner.cookroom.cz^
 ||partner.crewmaldives.com^
 ||partner.cshop.sk^
 ||partner.cukrarskaskola.cz^
@@ -481,6 +481,7 @@
 ||partner.dfprsteny.cz^
 ||partner.digisign.cz^
 ||partner.directalpine.cz^
+||partner.dnformed.cz^
 ||partner.doleo.cz^
 ||partner.dolorescannon.cz^
 ||partner.dolorescannon.sk^
@@ -511,9 +512,11 @@
 ||partner.expresmenu.pl^
 ||partner.expresmenu.sk^
 ||partner.fabulo.cz^
+||partner.fabulo.hu^
 ||partner.fabulo.sk^
 ||partner.farbe.cz^
 ||partner.ferratum.cz^
+||partner.ferwer.cz^
 ||partner.finstyle.cz^
 ||partner.forexrebel.net^
 ||partner.fotoposta.sk^
@@ -525,6 +528,7 @@
 ||partner.gloe.cz^
 ||partner.gokids.cz^
 ||partner.golden-life.cz^
+||partner.goldenyacca.cz^
 ||partner.gr7.cz^
 ||partner.grandstyl.cz^
 ||partner.gurufinance.cz^
@@ -552,15 +556,18 @@
 ||partner.jipos.sk^
 ||partner.kafista.cz^
 ||partner.kasparci.eu^
+||partner.kennyshop.cz^
 ||partner.ketomix.cz^
 ||partner.ketomix.sk^
 ||partner.khm.cz^
 ||partner.kidtown.cz^
+||partner.klecepropsy.cz^
 ||partner.koffkain-sniff.cz^
 ||partner.kokiskashop.cz^
 ||partner.kokiskashop.sk^
 ||partner.kominy-bokra.cz^
 ||partner.korff.sk^
+||partner.kralovstvi-tiande.cz^
 ||partner.krmivo-platinum.cz^
 ||partner.kurzysusmevem.cz^
 ||partner.kutnohorskytolar.cz^
@@ -669,6 +676,7 @@
 ||partner.pureharmony.cz^
 ||partner.resinstudio.cz^
 ||partner.rixo.sk^
+||partner.robotworld.ro^
 ||partner.robotworld.sk^
 ||partner.root.cz^
 ||partner.roztouzeny.cz^
@@ -682,6 +690,7 @@
 ||partner.semor.cz^
 ||partner.sevio.cz^
 ||partner.sexshop51.cz^
+||partner.sexshop51.eu^
 ||partner.sexshop51.sk^
 ||partner.sielbeauty.cz^
 ||partner.simdatamax.com^
@@ -696,8 +705,10 @@
 ||partner.slimpasta.sk^
 ||partner.smiling-baby.cz^
 ||partner.smoothiekniha.sk^
+||partner.spiritradar.com^
 ||partner.spodni-pradlo-rekova.cz^
 ||partner.spokojenypes.cz^
+||partner.srovnavacdluhopisu.cz^
 ||partner.stromkyonline.cz^
 ||partner.summermyles.cz^
 ||partner.susmevem.com^
@@ -709,6 +720,7 @@
 ||partner.t-shock.eu^
 ||partner.tattoomania.cz^
 ||partner.taxomat.cz^
+||partner.terrapotheka.cz^
 ||partner.thechillidoctor.cz^
 ||partner.thelisteningworld.com^
 ||partner.tinecostore.cz^
@@ -718,6 +730,7 @@
 ||partner.truelife.eu^
 ||partner.tyano.cz^
 ||partner.umio.eu^
+||partner.umyem.com^
 ||partner.unuo.de^
 ||partner.vataonline.cz^
 ||partner.vffoto.com^
@@ -742,6 +755,7 @@
 ||partner.xbx.cz^
 ||partner.xm.cz^
 ||partner.yummy.sk^
+||partner.zapper-centrum.cz^
 ||partner.zdravi.online^
 ||partner.zenlu.eu^
 ||partner.ziskamdobroupraci.cz^
@@ -853,6 +867,7 @@
 ||partneri.smartemailing.cz^
 ||partneri.smyslovy-pruzkumnik.cz^
 ||partneri.somsamasebou.sk^
+||partneri.sportfotbal.cz^
 ||partneri.sportmentor.cz^
 ||partneri.stastnamysl.cz^
 ||partneri.supportbox.cz^
@@ -953,4 +968,5 @@
 ||login.affiliatesit.cz^
 ||partner.eliteways.cz^
 ||partner.janapekna.cz^
+||partner.mojalekaren.sk^
 ||partner.topforteam.cz^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,7 +19,6 @@ sponsor.syracuse.com CNAME .
 0537f258d4.97056d3dd4.com CNAME .
 0574dec1ea.121ee98022.com CNAME .
 0597eef174.3b687a4e49.com CNAME .
-073b8b82d8.cc93bb0aee.com CNAME .
 07d69990c8.dbb94182a0.com CNAME .
 0a1bddd9f8.a5f62d01a6.com CNAME .
 0b2cc44e6d.d6e2369989.com CNAME .
@@ -47,6 +46,7 @@ sponsor.syracuse.com CNAME .
 16c28dba73.985b69c462.com CNAME .
 171600ef48.769fb58db3.com CNAME .
 178d1e7acb.f7170e601a.com CNAME .
+194432ef1f.f0dee35014.com CNAME .
 1a8e54b24f.1b0bcb385f.com CNAME .
 1d131d6f3f.c54cdc1e36.com CNAME .
 1e9b4d17f9.644b839fb7.com CNAME .
@@ -82,13 +82,10 @@ sponsor.syracuse.com CNAME .
 360b4e75ff.5faef21d1e.com CNAME .
 37fde8ca0b.d603b6ccf0.com CNAME .
 391a029ba5.d7a3bf705b.com CNAME .
-3a0f411352.3434849c2e.com CNAME .
 3a2c339853.a28bedd7c2.com CNAME .
 3b1d253452.8ea1272194.com CNAME .
 3bd0eb632a.ea87707b92.com CNAME .
-3c0bb1b6ad.25ed3d6f24.com CNAME .
 3ccacb575a.fd9bb9ddf7.com CNAME .
-3d1a273a3c.697a3aa509.com CNAME .
 3e4a3a850b.0d9539106a.com CNAME .
 3f9d5d7286.3ca9dc59cc.com CNAME .
 40b9a96edf.3a6a721b13.com CNAME .
@@ -124,9 +121,9 @@ sponsor.syracuse.com CNAME .
 5a9bbbbeae.c3b1912666.com CNAME .
 5b34009f2b.063aa27de4.com CNAME .
 5c104da19a.ab7929a6fe.com CNAME .
+5ca992e049.120b51a958.com CNAME .
 5cacb6b8ff.c00da2508c.com CNAME .
 5cec63d3ec.b1e44f9a11.com CNAME .
-5e0c677015.717d165445.com CNAME .
 5e1c960a90.9387e57f6d.com CNAME .
 5f79ab9313.43af78f329.com CNAME .
 621ffb6675.1b9e934cbd.com CNAME .
@@ -135,6 +132,7 @@ sponsor.syracuse.com CNAME .
 62e6e53c95.5fe1b3e7d5.com CNAME .
 642d611e79.6b8c9c3232.com CNAME .
 64534a4cde.93a4eac7c4.com CNAME .
+6485c682ad.7db8cf0dcd.com CNAME .
 657ed82b34.ce7609977e.com CNAME .
 66f064c408.8455251186.com CNAME .
 696d24eeec.cea5ceb67a.com CNAME .
@@ -152,21 +150,21 @@ sponsor.syracuse.com CNAME .
 755f2c806b.52d414a22a.com CNAME .
 75faabf820.d4212f8ef4.com CNAME .
 76d1a4b8e7.e84ad03ed3.com CNAME .
-7885c8b33a.ac28816960.com CNAME .
 78f77febd4.b49170aaa3.com CNAME .
 7973b1ed52.0a4ebd39b2.com CNAME .
 7a0be63e38.dcdf9bb185.com CNAME .
 7a62e2a0be.296119ddcc.com CNAME .
-7b26070d7b.68d48e2725.com CNAME .
 815b286d12.11cf8895af.com CNAME .
 81899edb69.1187617028.com CNAME .
 8291702486.ebdb7bb99d.com CNAME .
 82f61fbcce.10e24a78a2.com CNAME .
+8403c7af43.07321ca044.com CNAME .
 86c6dd5578.0fcf105177.com CNAME .
 86ca236984.3ce66eb3bd.com CNAME .
 875ba27c4b.12f929026a.com CNAME .
 8922d8bced.2bd77addac.com CNAME .
 8b62eb3f58.bd6e1d2733.com CNAME .
+8b979ee143.65666ae3c0.com CNAME .
 8eaa274718.5bf58d8ad0.com CNAME .
 8f7191e2c8.91b3e9d043.com CNAME .
 8fc0f88e26.224ff4019d.com CNAME .
@@ -193,6 +191,8 @@ a34ce4695e.3af9d5efab.com CNAME .
 a52f9310d9.56ac0d1497.com CNAME .
 a536a1e335.52154cdd64.com CNAME .
 a62d37b1f2.a58b8ec9c6.com CNAME .
+a6e958ec48.29a97bf0ee.com CNAME .
+aa5ab6f6f3.73a5a39ff0.com CNAME .
 ab68f17c55.ac94c2b385.com CNAME .
 ab956dabe0.a5c8f104d5.com CNAME .
 abf16caac5.5db51045da.com CNAME .
@@ -244,13 +244,13 @@ c92842dbc2.6703136852.com CNAME .
 ca726f00be.d8c9bf3664.com CNAME .
 cb007053b8.9c2ad8eb9d.com CNAME .
 cd295cce13.40ec6e5c0f.com CNAME .
+cd51846d21.0535fcc65e.com CNAME .
 cd8ea0fe7a.9e47574bc6.com CNAME .
 ce962c1e44.b84dd0b7a1.com CNAME .
 d0f1c915d1.8211cbbdbf.com CNAME .
 d2c01bd392.c3716cda2f.com CNAME .
 d3f06f58e4.7751c829ca.com CNAME .
 d42f5a318b.18eb21852c.com CNAME .
-d4ace898f9.ed24cb4bc7.com CNAME .
 d4bdc31b7e.99d1f1d37e.com CNAME .
 d5c308c7c1.a1b0ef3ee9.com CNAME .
 d603ed603c.dff6af78c7.com CNAME .
@@ -260,7 +260,9 @@ d88540c4c0.5db016ba6b.com CNAME .
 da8decc07d.fa389e64bf.com CNAME .
 db973dc1c2.1e98826811.com CNAME .
 dbdbc741db.d9faf05e40.com CNAME .
+de58e91cfa.c8a2ed3bd7.com CNAME .
 df28bb5337.2ba5dbc5be.com CNAME .
+df7fa3a47d.deffb24fe6.com CNAME .
 e0cdb22bb8.be49243583.com CNAME .
 e0eebf5f34.305c6d067e.com CNAME .
 e1008d4eed.e8564333b8.com CNAME .
@@ -279,8 +281,8 @@ e93e162fb5.3952607c60.com CNAME .
 e97750c030.ac61be491a.com CNAME .
 e9d97a2d02.4b6f379d79.com CNAME .
 ea3877b60e.7606b66bee.com CNAME .
+ea46161d54.9213da5a60.com CNAME .
 eb3b8e52b4.cfbfc6fdd4.com CNAME .
-ecc5d408df.18e6f131f9.com CNAME .
 ed8cd90429.edc0ff6308.com CNAME .
 ee5a001075.b0d7f51bf7.com CNAME .
 ef8ce6a0d6.1043b01a5a.com CNAME .
@@ -291,6 +293,7 @@ f264da79ee.e16bc65fd5.com CNAME .
 f2ed4a9926.c463942bb7.com CNAME .
 f38b8fce91.d66cc4f616.com CNAME .
 f476f3ffa9.eb1536c76c.com CNAME .
+f55a10ace0.43abd4fb52.com CNAME .
 f61f3c327f.55b6be9d8f.com CNAME .
 f64920d056.c5ddf53f6b.com CNAME .
 f6ee981697.f63e535f61.com CNAME .
@@ -313,32 +316,31 @@ i.bowintelligence.com CNAME .
 i.laketrend.com CNAME .
 i.selecttopoff.com CNAME .
 i.statelinear.com CNAME .
-a135.wftv.com CNAME .
-a235.registercitizen.com CNAME .
-a614.pennlive.com CNAME .
+a135.fox25boston.com CNAME .
 adserving.nativo.com CNAME .
-apolloecho.share.ntv.io CNAME .
-bicycling.share.ntv.io CNAME .
+ajc.share.ntv.io CNAME .
+bossip.share.ntv.io CNAME .
 c.ntv.io CNAME .
-chicagotribune.share.ntv.io CNAME .
+cnn.share.ntv.io CNAME .
 computerworld.share.ntv.io CNAME .
-cw33.share.ntv.io CNAME .
+cooktopcove.share.ntv.io CNAME .
+csoonline.share.ntv.io CNAME .
+downloads-apollo.share.ntv.io CNAME .
 entrepreneur.share.ntv.io CNAME .
-euronews.share.ntv.io CNAME .
 faithinthenews.share.ntv.io CNAME .
-foodandwine.share.ntv.io CNAME .
-hellomagazine.share.ntv.io CNAME .
+infoworld.share.ntv.io CNAME .
 investopedia.share.ntv.io CNAME .
-k0ntrk2q6ztv8tqa.share.ntv.io CNAME .
-l613jagtn2ew88zb.share.ntv.io CNAME .
+kcci.share.ntv.io CNAME .
+littlethings.share.ntv.io CNAME .
 menshealth.share.ntv.io CNAME .
+mercurynews.share.ntv.io CNAME .
 mlive.share.ntv.io CNAME .
-mynorthwest.share.ntv.io CNAME .
+motortrend.share.ntv.io CNAME .
+muninavalt.share.ntv.io CNAME .
 newsweek.share.ntv.io CNAME .
+nj.share.ntv.io CNAME .
 nydailynews.share.ntv.io CNAME .
-orz10qkfdpq48qda.share.ntv.io CNAME .
-pcworld.share.ntv.io CNAME .
-post-gazette.share.ntv.io CNAME .
+pillsbury.share.ntv.io CNAME .
 robbreport.share.ntv.io CNAME .
 sanduskyregister.share.ntv.io CNAME .
 saveur.share.ntv.io CNAME .
@@ -346,13 +348,9 @@ share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 si.share.ntv.io CNAME .
 smosh.share.ntv.io CNAME .
-southernkitchen.share.ntv.io CNAME .
-stamfordadvocate.share.ntv.io CNAME .
-tomcat.share.ntv.io CNAME .
-usnews.share.ntv.io CNAME .
-waow.share.ntv.io CNAME .
-wsbradio.share.ntv.io CNAME .
-x0ih1b9xgy23e6wl.share.ntv.io CNAME .
+vle-api-docs-resolve.share.ntv.io CNAME .
+vm.apollo.share.ntv.io CNAME .
+zimbra.resolve.share.ntv.io CNAME .
 11-mon-bicycling.share.ntv.io CNAME .
 11-mon-resolveaccept-shop.share.ntv.io CNAME .
 11-mon.alt.share.ntv.io CNAME .
@@ -623,7 +621,7 @@ x0ih1b9xgy23e6wl.share.ntv.io CNAME .
 7il4wgojxvxsuc4zbanner.dev1.share.ntv.io CNAME .
 7il4wgojxvxsuc4zmobileapps.share.ntv.io CNAME .
 a.auth-resolve.share.ntv.io CNAME .
-a135.fox23.com CNAME .
+a135.wftv.com CNAME .
 a135.wpxi.com CNAME .
 a135.wsbtv.com CNAME .
 a135.wsoctv.com CNAME .
@@ -633,6 +631,7 @@ a614.masslive.com CNAME .
 a614.mlive.com CNAME .
 a614.nj.com CNAME .
 a614.oregonlive.com CNAME .
+a614.pennlive.com CNAME .
 a614.syracuse.com CNAME .
 acc.free.share.ntv.io CNAME .
 acc.miamiherald.share.ntv.io CNAME .
@@ -760,7 +759,6 @@ agendaforum.share.ntv.io CNAME .
 agendaforum4.share.ntv.io CNAME .
 agendaforumavalt-s1.share.ntv.io CNAME .
 agendafree.share.ntv.io CNAME .
-ajc.share.ntv.io CNAME .
 akali15-15s1.apollo.share.ntv.io CNAME .
 akali15-cms.apollo.share.ntv.io CNAME .
 akali15-corporate-bug.apollo.share.ntv.io CNAME .
@@ -1600,6 +1598,7 @@ apolloakalitrstamfordadvocateforos.share.ntv.io CNAME .
 apolloecho-hwavalt.share.ntv.io CNAME .
 apolloecho-justapinch.share.ntv.io CNAME .
 apolloecho.11ticket.alt.share.ntv.io CNAME .
+apolloecho.share.ntv.io CNAME .
 apolloecho.training.share.ntv.io CNAME .
 apolloechobrasil.auth-resolve.share.ntv.io CNAME .
 apolloechojustapinch.share.ntv.io CNAME .
@@ -1876,6 +1875,7 @@ bicycling.firewall.share.ntv.io CNAME .
 bicycling.foto-avalt.share.ntv.io CNAME .
 bicycling.frontpage.share.ntv.io CNAME .
 bicycling.search.share.ntv.io CNAME .
+bicycling.share.ntv.io CNAME .
 bicycling.staff.share.ntv.io CNAME .
 bicycling.stage.share.ntv.io CNAME .
 bicycling.testing1.dev1.share.ntv.io CNAME .
@@ -1944,7 +1944,6 @@ bossip.mercurynews-payment.share.ntv.io CNAME .
 bossip.netlify-csoonline.share.ntv.io CNAME .
 bossip.pcworld4.share.ntv.io CNAME .
 bossip.resolvewesteurope.share.ntv.io CNAME .
-bossip.share.ntv.io CNAME .
 bossip.sitesbug.share.ntv.io CNAME .
 bossip.tickets.share.ntv.io CNAME .
 bossip.twitch.share.ntv.io CNAME .
@@ -2164,6 +2163,7 @@ chicagotribune.elastic.share.ntv.io CNAME .
 chicagotribune.muninavalt.share.ntv.io CNAME .
 chicagotribune.resolveaddon.share.ntv.io CNAME .
 chicagotribune.sanduskyregister.share.ntv.io CNAME .
+chicagotribune.share.ntv.io CNAME .
 chicagotribune.simple-cf-stage-factinate-com-edge.share.ntv.io CNAME .
 chicagotribune.team.share.ntv.io CNAME .
 chicagotribune.testbed.share.ntv.io CNAME .
@@ -2334,7 +2334,6 @@ cms0net.apollo.share.ntv.io CNAME .
 cms0newsweek.apollo.share.ntv.io CNAME .
 cmstesting1.dev1.share.ntv.io CNAME .
 cnalt.share.ntv.io CNAME .
-cnn.share.ntv.io CNAME .
 columbiatribune-direct11.alt.share.ntv.io CNAME .
 columbiatribune.share.ntv.io CNAME .
 columbiatribuneapollo-accept.share.ntv.io CNAME .
@@ -2397,7 +2396,6 @@ controlaccept-shop.share.ntv.io CNAME .
 controlmiembrosalt-ann.fortune.share.ntv.io CNAME .
 controlmynorthwestchimera.share.ntv.io CNAME .
 controltelewerkappsalt.fortune.share.ntv.io CNAME .
-cooktopcove.share.ntv.io CNAME .
 cooktopcove.stg.cio.share.ntv.io CNAME .
 cooktopcoveq8lfij6ggarx0ypw.share.ntv.io CNAME .
 cooktopcovestg.cio.share.ntv.io CNAME .
@@ -2424,7 +2422,6 @@ csoonline-mynorthwest.share.ntv.io CNAME .
 csoonline-resolve-chronos.share.ntv.io CNAME .
 csoonline-sanduskyregister.share.ntv.io CNAME .
 csoonline.members.share.ntv.io CNAME .
-csoonline.share.ntv.io CNAME .
 csoonline.tastingtable.share.ntv.io CNAME .
 cultivatedknowledge.mynorthwestchimera.share.ntv.io CNAME .
 customers-prep-15.apollo.share.ntv.io CNAME .
@@ -2435,6 +2432,7 @@ customersdirect11.alt.share.ntv.io CNAME .
 customersnativomobileapps.share.ntv.io CNAME .
 cvs-sanduskyregister.share.ntv.io CNAME .
 cvsdirect11.alt.share.ntv.io CNAME .
+cw33.share.ntv.io CNAME .
 d-mynorthwest.share.ntv.io CNAME .
 da-5ai0bo7finkmd1gc.share.ntv.io CNAME .
 da-accept.share.ntv.io CNAME .
@@ -2785,7 +2783,6 @@ downloads-apollo.examples.share.ntv.io CNAME .
 downloads-apollo.hosting.share.ntv.io CNAME .
 downloads-apollo.novell.share.ntv.io CNAME .
 downloads-apollo.p536wfttcz3s8pv1.share.ntv.io CNAME .
-downloads-apollo.share.ntv.io CNAME .
 downloads-apollo.system.share.ntv.io CNAME .
 downloads-apollo.testing1.share.ntv.io CNAME .
 downloads-apollo.thehill.share.ntv.io CNAME .
@@ -2954,6 +2951,7 @@ entrepreneurresolveacceptsun.share.ntv.io CNAME .
 entrepreneurstage2.share.ntv.io CNAME .
 entrepreneurvaluewalk-com-edge.share.ntv.io CNAME .
 entrepreneurvcyvca431c5nqzco.share.ntv.io CNAME .
+euronews.share.ntv.io CNAME .
 europe-akali15.apollo.share.ntv.io CNAME .
 europe-apollo.share.ntv.io CNAME .
 europe-dev1-data.share.ntv.io CNAME .
@@ -3145,6 +3143,7 @@ firewall.avalt.share.ntv.io CNAME .
 firewall.share.ntv.io CNAME .
 foodandwine-thehill.share.ntv.io CNAME .
 foodandwine.avalt-intra.share.ntv.io CNAME .
+foodandwine.share.ntv.io CNAME .
 fortune-ciotest2.share.ntv.io CNAME .
 fortune-com-edge-drupalapollo.share.ntv.io CNAME .
 fortune-com-edgeciotest2.share.ntv.io CNAME .
@@ -3331,6 +3330,7 @@ hellomagazine.login.share.ntv.io CNAME .
 hellomagazine.miamiherald.share.ntv.io CNAME .
 hellomagazine.public.share.ntv.io CNAME .
 hellomagazine.resolvedescargas.share.ntv.io CNAME .
+hellomagazine.share.ntv.io CNAME .
 hellomagazine.staff.share.ntv.io CNAME .
 hellomagazine.usnews.share.ntv.io CNAME .
 hellomagazine.vistaresolveaccept.share.ntv.io CNAME .
@@ -3489,7 +3489,6 @@ infoworld-log.fortune.share.ntv.io CNAME .
 infoworld-netlify-csoonline.share.ntv.io CNAME .
 infoworld-nydailynews.share.ntv.io CNAME .
 infoworld-sql.alt-ann.share.ntv.io CNAME .
-infoworld.share.ntv.io CNAME .
 infoworld15s1.apollo.share.ntv.io CNAME .
 infoworldjustapinch.share.ntv.io CNAME .
 instyle-dev1.share.ntv.io CNAME .
@@ -3744,12 +3743,13 @@ justapinchsignup-resolveaccept.share.ntv.io CNAME .
 justapinchtunnel.share.ntv.io CNAME .
 justapinchvpn.share.ntv.io CNAME .
 justapinchw3.share.ntv.io CNAME .
-kcci.share.ntv.io CNAME .
+k0ntrk2q6ztv8tqa.share.ntv.io CNAME .
 kcci20-agenda-novell.share.ntv.io CNAME .
 kcci20.api-docs-resolvestage3.share.ntv.io CNAME .
 kcci20.share.ntv.io CNAME .
 kcci20tastingtable.share.ntv.io CNAME .
 ketv.share.ntv.io CNAME .
+l613jagtn2ew88zb.share.ntv.io CNAME .
 la.devs.share.ntv.io CNAME .
 la.mxhellomagazineresolveaccept.share.ntv.io CNAME .
 la.mynorthwest.share.ntv.io CNAME .
@@ -3866,7 +3866,6 @@ littlethings.altdeveloper.share.ntv.io CNAME .
 littlethings.id-resolveaccept.share.ntv.io CNAME .
 littlethings.nydailynews.share.ntv.io CNAME .
 littlethings.post-gazette.share.ntv.io CNAME .
-littlethings.share.ntv.io CNAME .
 littlethingsapollo-accept.share.ntv.io CNAME .
 live.dev1-guia-dev1.share.ntv.io CNAME .
 live.dev1-mailadmin-instyle.share.ntv.io CNAME .
@@ -4232,7 +4231,6 @@ mercurynews-payment-server.share.ntv.io CNAME .
 mercurynews-payment.api-docs-resolveaddon.share.ntv.io CNAME .
 mercurynews-payment.share.ntv.io CNAME .
 mercurynews-paymentdev1-data.share.ntv.io CNAME .
-mercurynews.share.ntv.io CNAME .
 mercurynewschimera.share.ntv.io CNAME .
 metrics.netlify-csoonline.share.ntv.io CNAME .
 miamiherald-hotnewhiphop.share.ntv.io CNAME .
@@ -4326,7 +4324,6 @@ motortrend-ads.nydailynews.share.ntv.io CNAME .
 motortrend-ads.share.ntv.io CNAME .
 motortrend-ads.stg.cio.share.ntv.io CNAME .
 motortrend.dev1-data.share.ntv.io CNAME .
-motortrend.share.ntv.io CNAME .
 motortrendrss.apolloakali.share.ntv.io CNAME .
 mundohispanico-api-docs-resolveaddon.share.ntv.io CNAME .
 mundohispanico-entrepreneur.share.ntv.io CNAME .
@@ -4340,7 +4337,6 @@ muninavalt-bicycling.share.ntv.io CNAME .
 muninavalt.api3-auth-resolve.share.ntv.io CNAME .
 muninavalt.auth-resolve.share.ntv.io CNAME .
 muninavalt.bossip.share.ntv.io CNAME .
-muninavalt.share.ntv.io CNAME .
 muninavalt.stamfordadvocateforos.share.ntv.io CNAME .
 muninavalt.www2.wsbradio.share.ntv.io CNAME .
 muninavaltbackup.avalt.share.ntv.io CNAME .
@@ -4391,6 +4387,7 @@ mynorthwest.cionewsgroups.share.ntv.io CNAME .
 mynorthwest.gallery.share.ntv.io CNAME .
 mynorthwest.git.share.ntv.io CNAME .
 mynorthwest.qa-edge.share.ntv.io CNAME .
+mynorthwest.share.ntv.io CNAME .
 mynorthwestappsaltmysql.share.ntv.io CNAME .
 mynorthwestchicagotribuneatlas.share.ntv.io CNAME .
 mynorthwestchimera-aws.share.ntv.io CNAME .
@@ -4559,7 +4556,6 @@ nieuwsblad.sql.alt-ann.share.ntv.io CNAME .
 nieuwsbladaltdeveloper.share.ntv.io CNAME .
 nieuwsbladlocal.share.ntv.io CNAME .
 nj.finegardening.com CNAME .
-nj.share.ntv.io CNAME .
 nodetest1-api-docs-resolve.share.ntv.io CNAME .
 northamerica-downloads-apollo.share.ntv.io CNAME .
 northamericasouthernkitchen.share.ntv.io CNAME .
@@ -4651,6 +4647,7 @@ origin.fox25bostonlocal.share.ntv.io CNAME .
 origin.prep-15.apollo.share.ntv.io CNAME .
 originbossip.share.ntv.io CNAME .
 originlibrary-resolve.share.ntv.io CNAME .
+orz10qkfdpq48qda.share.ntv.io CNAME .
 p536wfttcz3s8pv1-columbiatribune.share.ntv.io CNAME .
 p536wfttcz3s8pv1-container-resolveaccept.share.ntv.io CNAME .
 p536wfttcz3s8pv1.api-docs-resolve-da.share.ntv.io CNAME .
@@ -4750,6 +4747,7 @@ pcworld-tastingtable.share.ntv.io CNAME .
 pcworld-thehill.share.ntv.io CNAME .
 pcworld-triviaboss.share.ntv.io CNAME .
 pcworld.nativomobileapps.share.ntv.io CNAME .
+pcworld.share.ntv.io CNAME .
 pcworld4-api-docs-resolvepegasus.share.ntv.io CNAME .
 pcworld4-avalt-s1.share.ntv.io CNAME .
 pcworld4-free.share.ntv.io CNAME .
@@ -4812,7 +4810,6 @@ php.mynorthwestchimera.share.ntv.io CNAME .
 php.share.ntv.io CNAME .
 phpdirect11.alt.share.ntv.io CNAME .
 phplibrary-resolve.share.ntv.io CNAME .
-pillsbury.share.ntv.io CNAME .
 plugins-csoonline.share.ntv.io CNAME .
 plugins-dev1-data.share.ntv.io CNAME .
 plugins-direct11.alt.share.ntv.io CNAME .
@@ -4835,6 +4832,7 @@ post-gazette-instyle.share.ntv.io CNAME .
 post-gazette-internal.littlethings.share.ntv.io CNAME .
 post-gazette-www2.wsbradio.share.ntv.io CNAME .
 post-gazette.hellomagazine.share.ntv.io CNAME .
+post-gazette.share.ntv.io CNAME .
 post-gazette2023-api-docs-resolve-da.share.ntv.io CNAME .
 post-gazette2023-entrepreneur.share.ntv.io CNAME .
 post-gazette2023-tastingtable.share.ntv.io CNAME .
@@ -5691,6 +5689,7 @@ southernkitchen.cloud-alt-ann.share.ntv.io CNAME .
 southernkitchen.dallasnews.share.ntv.io CNAME .
 southernkitchen.pcworld-server.share.ntv.io CNAME .
 southernkitchen.resolvepegasus.share.ntv.io CNAME .
+southernkitchen.share.ntv.io CNAME .
 southernkitchen.skins.share.ntv.io CNAME .
 southernkitchen.tech.ajc.share.ntv.io CNAME .
 southernkitchenchronos.share.ntv.io CNAME .
@@ -5851,6 +5850,7 @@ stamfordadvocate-mon-bossip.share.ntv.io CNAME .
 stamfordadvocate-mon-internal.littlethings.share.ntv.io CNAME .
 stamfordadvocate-mon.share.ntv.io CNAME .
 stamfordadvocate-moninternal.littlethings.share.ntv.io CNAME .
+stamfordadvocate.share.ntv.io CNAME .
 stamfordadvocate.sql.alt-ann.share.ntv.io CNAME .
 stamfordadvocatealtad-ora.share.ntv.io CNAME .
 stamfordadvocateapi2.share.ntv.io CNAME .
@@ -6345,6 +6345,7 @@ time-com-edge.library-resolve.share.ntv.io CNAME .
 time-com-edge.mb.11.alt.share.ntv.io CNAME .
 time.share.ntv.io CNAME .
 tomcat.pressdemocrat.share.ntv.io CNAME .
+tomcat.share.ntv.io CNAME .
 tomcatjustapinch.share.ntv.io CNAME .
 tomcatpetcha.share.ntv.io CNAME .
 toolauth-resolve-akali15.apollo.share.ntv.io CNAME .
@@ -6446,6 +6447,7 @@ us.justapinch.share.ntv.io CNAME .
 us.share.ntv.io CNAME .
 us3u8dt24mcz155vrr.share.ntv.io CNAME .
 usnews.15s1.apollo.share.ntv.io CNAME .
+usnews.share.ntv.io CNAME .
 v.api-docs-resolve-da.share.ntv.io CNAME .
 v.api-docs-resolveaddon.share.ntv.io CNAME .
 v.da-mynorthwest.share.ntv.io CNAME .
@@ -6494,11 +6496,9 @@ vistaresolveaccept-dev1.share.ntv.io CNAME .
 vistaresolveaccept.share.ntv.io CNAME .
 vistaresolveacceptmiembrosalt-ann.share.ntv.io CNAME .
 vle-api-docs-resolve.mailbackup.avalt.share.ntv.io CNAME .
-vle-api-docs-resolve.share.ntv.io CNAME .
 vle-api-docs-resolveapi3.auth-resolve.share.ntv.io CNAME .
 vle-api-docs-resolvedallasnews.share.ntv.io CNAME .
 vle-api-docs-resolvesql.alt-ann.share.ntv.io CNAME .
-vm.apollo.share.ntv.io CNAME .
 vpcworld-server.share.ntv.io CNAME .
 vpn-tpe.api-docs-resolve.share.ntv.io CNAME .
 vpn.bicycling.share.ntv.io CNAME .
@@ -6517,6 +6517,7 @@ w6-stamfordadvocate-agenda-novell.share.ntv.io CNAME .
 w6-stamfordadvocate.mailbackup.avalt.share.ntv.io CNAME .
 w6-stamfordadvocate.rss.apolloakali.share.ntv.io CNAME .
 w6-stamfordadvocate.share.ntv.io CNAME .
+waow.share.ntv.io CNAME .
 web.fox25bostonlocal.share.ntv.io CNAME .
 web1apollo-cfg.share.ntv.io CNAME .
 web1fortune-rss.apolloakali.share.ntv.io CNAME .
@@ -6554,6 +6555,7 @@ wsbradio-api3.auth-resolve.share.ntv.io CNAME .
 wsbradio-chicagotribune.share.ntv.io CNAME .
 wsbradio-stamfordadvocateforos.share.ntv.io CNAME .
 wsbradio.akali15.apollo.share.ntv.io CNAME .
+wsbradio.share.ntv.io CNAME .
 wsbradioevent.apolloakali.share.ntv.io CNAME .
 wsbradiohellomagazine.share.ntv.io CNAME .
 wsusmynorthwest-justapinch.share.ntv.io CNAME .
@@ -6669,6 +6671,7 @@ wwwwapolloakali.share.ntv.io CNAME .
 wwwwapolloakalimiembrosalt-ann.share.ntv.io CNAME .
 x.auth-resolve.share.ntv.io CNAME .
 x0ih1b9xgy23e6wl.mynorthwestchimera.share.ntv.io CNAME .
+x0ih1b9xgy23e6wl.share.ntv.io CNAME .
 x0ih1b9xgy23e6wl.www2.wsbradio.share.ntv.io CNAME .
 x0ih1b9xgy23e6wlapollo-accept.share.ntv.io CNAME .
 x0ih1b9xgy23e6wlavalt-intra.share.ntv.io CNAME .
@@ -6680,24 +6683,21 @@ y0siciqzxr0b5lh9.netlify-csoonline.share.ntv.io CNAME .
 y0siciqzxr0b5lh9.share.ntv.io CNAME .
 z.apolloakali.share.ntv.io CNAME .
 zimbra-free.share.ntv.io CNAME .
-zimbra.resolve.share.ntv.io CNAME .
 zimbra.share.ntv.io CNAME .
 zimbrainstylecorp.share.ntv.io CNAME .
 zimbraphoenix.15.apollo.share.ntv.io CNAME .
 a135.htvnativeadsolutions.com CNAME .
-a235.chron.com CNAME .
 a235.ctnews.com CNAME .
 a235.ctpost.com CNAME .
 a235.greenwichtime.com CNAME .
 a235.htvnativeadsolutions.com CNAME .
-a235.lmtonline.com CNAME .
 a235.mrt.com CNAME .
 a235.newstimes.com CNAME .
 a235.nhregister.com CNAME .
 a235.ourmidland.com CNAME .
+a235.registercitizen.com CNAME .
 a235.seattlepi.com CNAME .
 a235.sfgate.com CNAME .
 a235.stamfordadvocate.com CNAME .
 a235.theintelligencer.com CNAME .
-a235.thetelegraph.com CNAME .
 a235.timesunion.com CNAME .

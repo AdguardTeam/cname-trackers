@@ -22,6 +22,7 @@
 | dashboard.entravision.com | dashboard.stat-rock.com |
 | dashboard.grapemedia.cz | dashboard.stat-rock.com |
 | dashboard.lookverin.com | dashboard.stat-rock.com |
+| dashboard.srmg.com | dashboard.stat-rock.com |
 | dashboard.viewtraff.com | dashboard.stat-rock.com |
 | dashboard.xqubemedia.com | dashboard.stat-rock.com |
 | video.waardex.com | dashboard.stat-rock.com |

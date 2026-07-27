@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -514,7 +514,6 @@ a8clk.hoken-minaoshi-lab.jp CNAME .
 a8clk.hokennews.jp CNAME .
 a8clk.hom.adebtt.info CNAME .
 a8clk.home.me.tech-clips.com CNAME .
-a8clk.hurugicom.jp CNAME .
 a8clk.ias.il24.net CNAME .
 a8clk.inakakon.jp CNAME .
 a8clk.info2.sunbridge.com CNAME .
@@ -1264,11 +1263,9 @@ a8cv.veggie-toreru.jp CNAME .
 a8cv.vieon.co.jp CNAME .
 a8cv.w2solution.co.jp CNAME .
 a8cv.wakan.shop CNAME .
-a8cv.wake.fun CNAME .
 a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
-a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.withcode.tech CNAME .
@@ -1303,7 +1300,6 @@ a8cv.yamachiya.co.jp CNAME .
 a8cv.yamasa-suppon.com CNAME .
 a8cv.yamato-gp.net CNAME .
 a8cv.yamatokouso.com CNAME .
-a8cv.ygm-clinic.or.jp CNAME .
 a8cv.yogino.jp CNAME .
 a8cv.yokoyamakaban.com CNAME .
 a8cv.yoriso.com CNAME .

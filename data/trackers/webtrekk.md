@@ -112,7 +112,6 @@
     * 484879729086450.wt-eu02.net
     * 487143832382979.wt-eu02.net
     * 492778793747615.wt-eu02.net
-    * 495967780350059.wt-eu02.net
     * 516595732855224.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
@@ -198,7 +197,6 @@
     * 961613221867173.wt-eu02.net
     * 964869656656022.wt-eu02.net
     * 968210881135258.wt-eu02.net
-    * 969665527401678.wt-eu02.net
     * 982429105360946.wt-eu02.net
     * 984899049181491.wt-eu02.net
     * 988195797407130.wt-eu02.net
@@ -231,7 +229,6 @@
     * mainpost01.wt-eu02.net
     * medion01.wt-eu02.net
     * mytoys02.wt-eu02.net
-    * netze-bw01.wt-eu02.net
     * obi-all.wt-eu02.net
     * on-dextra.wt-eu02.net
     * prosiebensat1puls4.wt-eu02.net
@@ -367,7 +364,6 @@
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.news.coccinelle.com | 487143832382979.wt-eu02.net |
 | web.news.absurdbeauty.com | 492778793747615.wt-eu02.net |
-| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | web2.updates.ditano.com | 516595732855224.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
@@ -472,7 +468,6 @@
 | web.engagetest.swaindestinations.com | 961613221867173.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |
 | startrekk.flaconi.fi | 968210881135258.wt-eu02.net |
-| def.bayer04.de | 969665527401678.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | startrekk.flaconi.cz | 984899049181491.wt-eu02.net |
 | ctrkd.ilsole24ore.com | 988195797407130.wt-eu02.net |
@@ -589,7 +584,6 @@
 | waaf1.alditalk.de | medion01.wt-eu02.net |
 | web.mytoys.de | mytoys02.wt-eu02.net |
 | tracking.netcologne.de | netcologne-01.webtrekk.net |
-| wt.netze-bw.de | netze-bw01.wt-eu02.net |
 | ot.obi-baumarkt.ch | obi-all.wt-eu02.net |
 | ot.obi-brico.ch | obi-all.wt-eu02.net |
 | ot.obi-italia.it | obi-all.wt-eu02.net |

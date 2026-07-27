@@ -1,5 +1,7 @@
 #
 # Company name: nonli.com
+account.h24.news
+api.h24.news
 at.h24.news
 barracuda.h24.news
 br.h24.news
@@ -7,6 +9,7 @@ c.leparisien.fr
 de.h24.news
 ec.h24.news
 flow-prod.h24.news
+fr.h24.news
 go.3ds.com
 go.france24.com
 go.lenouveaudetective.com
@@ -67,6 +70,7 @@ l.centrepresseaveyron.fr
 l.challenges.fr
 l.charentelibre.fr
 l.chartsinfrance.net
+l.cheriefm.fr
 l.citoyens.com
 l.closermag.fr
 l.clubic.com
@@ -237,7 +241,9 @@ l.netmums.com
 l.nextplz.fr
 l.nicematin.com
 l.nordlittoral.fr
+l.nostalgie.fr
 l.notretemps.com
+l.nrj.fr
 l.nrpyrenees.fr
 l.numerama.com
 l.ohmymag.co.uk
@@ -270,6 +276,7 @@ l.quinzemondial.com
 l.radiofrance.fr
 l.reporterre.net
 l.revue21.fr
+l.rireetchansons.fr
 l.rmc.fr
 l.rmcbfmplay.com
 l.rmcsport.fr
@@ -335,6 +342,7 @@ prod-4.moarty.com
 relay.h24.news
 remote.h24.news
 server1.h24.news
+signup.h24.news
 smtp.mail.h24.news
 smtp2.h24.news
 social.agrodistribution.fr

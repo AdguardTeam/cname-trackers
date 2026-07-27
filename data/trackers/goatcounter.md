@@ -35,7 +35,6 @@
     * cloudnativebitcoin.goatcounter.com
     * coderscompass.goatcounter.com
     * codinggrace.goatcounter.com
-    * contractor-prep.goatcounter.com
     * cormier.goatcounter.com
     * corner.goatcounter.com
     * crosshair.goatcounter.com
@@ -117,14 +116,15 @@
     * lspeed.goatcounter.com
     * maik-dev.goatcounter.com
     * manakin.goatcounter.com
-    * maple.goatcounter.com
     * mausoleum.goatcounter.com
+    * maxbenner.goatcounter.com
     * meestermac.goatcounter.com
     * merrelldev.goatcounter.com
     * mindenugyved.goatcounter.com
     * mine.goatcounter.com
     * mlcet.goatcounter.com
     * mmn.goatcounter.com
+    * msa.goatcounter.com
     * msol.goatcounter.com
     * neverhill.goatcounter.com
     * ngdangtu.goatcounter.com
@@ -132,6 +132,7 @@
     * noscirep.goatcounter.com
     * novi.goatcounter.com
     * nullbit5.goatcounter.com
+    * oidc-provider.goatcounter.com
     * ooo.goatcounter.com
     * opensurge.goatcounter.com
     * otbivnoe.goatcounter.com
@@ -171,6 +172,7 @@
     * tdurand.goatcounter.com
     * teknoraver.goatcounter.com
     * terokarvinen.goatcounter.com
+    * theadnyeusarchive.goatcounter.com
     * thedave-dev.goatcounter.com
     * thedave-me.goatcounter.com
     * thedave-photos.goatcounter.com
@@ -191,7 +193,6 @@
     * uygar-dot-sh.goatcounter.com
     * valentineus.goatcounter.com
     * vault.goatcounter.com
-    * vireo.goatcounter.com
     * vpro.goatcounter.com
     * whatacools.goatcounter.com
     * wy3di4xcbj.goatcounter.com
@@ -238,7 +239,6 @@
 | stats.cloudnativebitcoin.org | cloudnativebitcoin.goatcounter.com |
 | stats.coderscompass.org | coderscompass.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
-| stats.contractor-prep.com | contractor-prep.goatcounter.com |
 | stats.cormier.co | cormier.goatcounter.com |
 | corner-stats.sladewatkins.net | corner.goatcounter.com |
 | stats.crosshair.dev | crosshair.goatcounter.com |
@@ -313,7 +313,6 @@
 | stats.realestate.kyiv.ua | kyiv.goatcounter.com |
 | stats.forest-school.am | landing-forest-school.goatcounter.com |
 | analytics.law.badriver-nsn.gov | law-badriver-nsn-gov.goatcounter.com |
-| analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | cityofsanmateo.analytics.open.law | law-cityofsanmateo-org.goatcounter.com |
 | analytics.law.mohican.com | law-mohican-com.goatcounter.com |
 | analytics.law.tmchippewa.com | law-tmchippewa-com.goatcounter.com |
@@ -325,8 +324,8 @@
 | stats.lspeed.org | lspeed.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |
 | stats.manakin.fi | manakin.goatcounter.com |
-| st.mapleranks.com | maple.goatcounter.com |
 | stats.mausoleum.me | mausoleum.goatcounter.com |
+| goatcounter.maximilianbenner.com | maxbenner.goatcounter.com |
 | api.meestermac.nl | meestermac.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
@@ -337,6 +336,7 @@
 | stats.raycordlegends.com | mine.goatcounter.com |
 | gc.miluchacontraeltabaco.com | mlcet.goatcounter.com |
 | stats.mmn.ca | mmn.goatcounter.com |
+| stats.msakg.com | msa.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
 | goat.neverhill.net | neverhill.goatcounter.com |
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
@@ -344,6 +344,7 @@
 | gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
 | stats.azeroths-most-wanted.eu.org | nullbit5.goatcounter.com |
+| stats.oidc-provider.dev | oidc-provider.goatcounter.com |
 | goat.dabric.xyz | ooo.goatcounter.com |
 | stats.opensurge2d.org | opensurge.goatcounter.com |
 | stats.otbivnoe.ru | otbivnoe.goatcounter.com |
@@ -384,6 +385,7 @@
 | stats.tdurand.com | tdurand.goatcounter.com |
 | stats.matteocroce.it | teknoraver.goatcounter.com |
 | tik.terokarvinen.com | terokarvinen.goatcounter.com |
+| stats.theadnyeusarchive.app | theadnyeusarchive.goatcounter.com |
 | goatcounter.thedave.dev | thedave-dev.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
 | goatcounter.thedave.photos | thedave-photos.goatcounter.com |
@@ -404,7 +406,6 @@
 | stats.uygar.sh | uygar-dot-sh.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
-| stats.vireocreative.ca | vireo.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.webmeasurements.org | wy3di4xcbj.goatcounter.com |

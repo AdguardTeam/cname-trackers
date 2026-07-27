@@ -131,6 +131,7 @@
     * h-5nflpypv.online-metrix.net
     * h-5pjetc2s.online-metrix.net
     * h-5pxao9h8.online-metrix.net
+    * h-5qhrqr7c.online-metrix.net
     * h-5rsqem15.online-metrix.net
     * h-5sc89hft.online-metrix.net
     * h-5tjn91kn.online-metrix.net
@@ -154,9 +155,11 @@
     * h-6fg6rcgd.online-metrix.net
     * h-6i24djkv.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
+    * h-6mlhprq2-1.online-metrix.net
     * h-6mlhprq2-a.online-metrix.net
     * h-6mlhprq2.online-metrix.net
     * h-6ne0huru.online-metrix.net
+    * h-6qkm7rnw.online-metrix.net
     * h-6r2adsk3.online-metrix.net
     * h-6rj18la4.online-metrix.net
     * h-6rmmfyu6-2.online-metrix.net
@@ -260,6 +263,7 @@
     * h-9tnufjvn.online-metrix.net
     * h-9wtp561i.online-metrix.net
     * h-9yw99lm5.online-metrix.net
+    * h-9zzsit89.online-metrix.net
     * h-a4nx1etl.online-metrix.net
     * h-a4s32zk0.online-metrix.net
     * h-a5j4qgb0.online-metrix.net
@@ -377,7 +381,6 @@
     * h-btw63imp.online-metrix.net
     * h-budget-mobile.online-metrix.net
     * h-bur3hlrb.online-metrix.net
-    * h-bur3hlrb1.online-metrix.net
     * h-buyfun.online-metrix.net
     * h-bw1fkozp.online-metrix.net
     * h-bw1uup65.online-metrix.net
@@ -1158,6 +1161,7 @@
 | secure.jumia.ma | h-5pxao9h8.online-metrix.net |
 | secure.jumia.sn | h-5pxao9h8.online-metrix.net |
 | secure.jumia.ug | h-5pxao9h8.online-metrix.net |
+| content.smart-glocal.com | h-5qhrqr7c.online-metrix.net |
 | content.fig.ca | h-5rsqem15.online-metrix.net |
 | netinf.curemd.com | h-5sc89hft.online-metrix.net |
 | content.nu.com.mx | h-5tjn91kn.online-metrix.net |
@@ -1182,12 +1186,14 @@
 | provider-services.openbank.mx | h-6fg6rcgd.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
+| tblsdp.tonybetalberta.ca | h-6mlhprq2-1.online-metrix.net |
 | tblsdp.staging.tonybet.ca | h-6mlhprq2-a.online-metrix.net |
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | cim-idc-cdn.account.hcsctest.net | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbsil.com | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbsok.com | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbstx.com | h-6ne0huru.online-metrix.net |
+| profile.iassist.com | h-6qkm7rnw.online-metrix.net |
 | myuw5.nj.gov | h-6r2adsk3.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | ecomm.thegiftcardshop.com | h-6rmmfyu6-2.online-metrix.net |
@@ -1444,6 +1450,7 @@
 | cookiemonster.calcas.com | h-9tnufjvn.online-metrix.net |
 | devices.yondercard.com | h-9wtp561i.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
+| tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
 | content.rias.co.uk | h-a4s32zk0.online-metrix.net |
@@ -1616,7 +1623,6 @@
 | adprtm53.xn--gebhrenfrei-vhb.de | h-btw63imp.online-metrix.net |
 | dfp.s-budget-mobile.at | h-budget-mobile.online-metrix.net |
 | app01.cnt.bdo.com.ph | h-bur3hlrb.online-metrix.net |
-| app01.cnt.uat.bdo.com.ph | h-bur3hlrb1.online-metrix.net |
 | securecheckout.halloweencostumes.com | h-buyfun.online-metrix.net |
 | tmxjs.tokyodisneyresort.jp | h-bw1fkozp.online-metrix.net |
 | content-48.cnb.com | h-bw1uup65.online-metrix.net |

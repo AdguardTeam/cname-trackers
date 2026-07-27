@@ -21,7 +21,6 @@
 ||tr.activeprospects.info^
 ||tr.actu-companeo.com^
 ||tr.actu.bricodepot.com^
-||tr.actu.imaprotect.eu^
 ||tr.actu.infopro-digital-media.fr^
 ||tr.actu.reunica.com^
 ||tr.actu.rmcbfmplay.com^
@@ -353,7 +352,6 @@
 ||tr.dossier-assurance.maaf.fr^
 ||tr.drh-holding.lvmh.fr^
 ||tr.e-mail.axa.fr^
-||tr.e-mail.axabanque.fr^
 ||tr.e-travaux.info^
 ||tr.e.entreprise-pm.fr^
 ||tr.e.entreprise-pm.net^
@@ -410,7 +408,6 @@
 ||tr.emailing.cnam-paysdelaloire.fr^
 ||tr.emailing.coe.int^
 ||tr.emailing.cstar.fr^
-||tr.emailing.detours.canal.fr^
 ||tr.emailing.grassavoye.com^
 ||tr.emailing.studiocanal.com^
 ||tr.emailing.tvcaraibes.tv^
@@ -849,7 +846,6 @@
 ||tr.news.libranoo.com^
 ||tr.news.linxea.com^
 ||tr.news.lisez.com^
-||tr.news.lokapimail.com^
 ||tr.news.maisons-du-monde.com^
 ||tr.news.manutan-collectivites.fr^
 ||tr.news.mdbp.fr^
@@ -1222,6 +1218,5 @@
 ||s.gemy.fr^
 ||s.lgch.mp^
 ||s.np6.com^
-||sms.imaprotect.com^
 ||www.lgch.mp^
 ||tr.communication.jardindacclimatation.fr^

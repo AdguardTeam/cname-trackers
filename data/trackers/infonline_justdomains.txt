@@ -89,7 +89,6 @@ data-0b2c5acddd.echtemamas.de
 data-0be38fdd72.eatsmarter.de
 data-0c2107a914.profil.at
 data-0cc10e3905.werbenundverkaufen.de
-data-0cc10e3905.wuv.de
 data-0cca9d915f.missmum.at
 data-0cf18bcfe3.katholisch.de
 data-0d1a0271a9.instyle.de
@@ -192,7 +191,6 @@ data-1842699cc4.t-online.de
 data-1842699cc4.telefonbuch-erlangen.com
 data-1842699cc4.telefonbuch.com
 data-1842699cc4.telefonbuch.de
-data-1842699cc4.vebidoo.de
 data-1865901ce0.schoener-wohnen-kollektion.de
 data-1865901ce0.schoener-wohnen.de
 data-189b3ff7e9.apps.iocnt.de
@@ -240,7 +238,6 @@ data-1c0a3d83e3.transfermarkt.co.za
 data-1c0a3d83e3.transfermarkt.com.ar
 data-1c0a3d83e3.transfermarkt.com.br
 data-1c0a3d83e3.transfermarkt.com.tr
-data-1c0a3d83e3.transfermarkt.de
 data-1c0a3d83e3.transfermarkt.es
 data-1c0a3d83e3.transfermarkt.fr
 data-1c0a3d83e3.transfermarkt.it
@@ -835,7 +832,6 @@ data-6357c1903a.k-aktuell.de
 data-63659a24a7.apps.iocnt.de
 data-638190bf02.galileo.tv
 data-639ebd97e3.transport-online.de
-data-63bbe3ec45.wuv.de
 data-63ef19fa52.apps.iocnt.de
 data-6416365902.sbz-online.de
 data-6463194ae5.fitbook.de
@@ -932,7 +928,6 @@ data-70f37c510a.suedkurier.de
 data-70f3958feb.bauwelt.de
 data-710a86ea68.apps.iocnt.de
 data-718a2dc909.tageblatt.de
-data-7198dfe960.meduniwien.ac.at
 data-71ad7acf77.apps.iocnt.de
 data-723489657f.ndz.de
 data-7393daff1b.focus-mobility.de
@@ -1012,7 +1007,6 @@ data-81547504c8.fupa.net
 data-81547504c8.nw.de
 data-8173e3f7ee.vodafone.de
 data-8251905874.handwerk-magazin.de
-data-82ef4b598c.haustierratgeber.de
 data-83380557db.fupa.net
 data-83380557db.nw.de
 data-833e9f9a71.dzonline.de
@@ -1042,7 +1036,6 @@ data-84a0f3455d.transfermarkt.co.in
 data-84a0f3455d.transfermarkt.co.kr
 data-84a0f3455d.transfermarkt.co.uk
 data-84a0f3455d.transfermarkt.co.za
-data-84a0f3455d.transfermarkt.de
 data-84a0f3455d.transfermarkt.es
 data-84a0f3455d.transfermarkt.fr
 data-84a0f3455d.transfermarkt.it
@@ -1399,6 +1392,7 @@ data-af44ba1484.apps.iocnt.de
 data-af69d737cf.vision-mobility.de
 data-af7593657a.apps.iocnt.de
 data-af9a061aaf.deraktionaer.de
+data-af9f2765fb.apotheken-umschau.de
 data-af9f3dfb33.weltkunst.de
 data-af9f3dfb33.zeit.de
 data-afa7d79a5a.apps.iocnt.de
@@ -1985,6 +1979,8 @@ data-fb37a1e7c3.insuedthueringen.de
 data-fb37a1e7c3.kornwestheimer-zeitung.de
 data-fb37a1e7c3.kurier.de
 data-fb37a1e7c3.lahrer-zeitung.de
+data-fb37a1e7c3.leonberger-kreiszeitung.de
+data-fb37a1e7c3.marbacher-zeitung.de
 data-fb37a1e7c3.mhsdigital.de
 data-fb37a1e7c3.np-coburg.de
 data-fb37a1e7c3.schwarzwaelder-bote.de
@@ -2006,7 +2002,6 @@ data-fbd77ae9c0.np-coburg.de
 data-fbef420c7e.apps.iocnt.de
 data-fc37ed291d.bruchkoebel.de
 data-fc37ed291d.stadtbibliothek-bruchkoebel.de
-data-fc6e3104c2.finanztreff.de
 data-fc6e3104c2.gatrixx.com
 data-fcb7dbed1e.apps.iocnt.de
 data-fd399543fe.elektroniknet.de

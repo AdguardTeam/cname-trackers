@@ -517,7 +517,6 @@
 | a8clk.hokennews.jp | trck.a8.net |
 | a8clk.hom.adebtt.info | trck.a8.net |
 | a8clk.home.me.tech-clips.com | trck.a8.net |
-| a8clk.hurugicom.jp | trck.a8.net |
 | a8clk.ias.il24.net | trck.a8.net |
 | a8clk.inakakon.jp | trck.a8.net |
 | a8clk.info2.sunbridge.com | trck.a8.net |
@@ -1266,11 +1265,9 @@
 | a8cv.vieon.co.jp | trck.a8.net |
 | a8cv.w2solution.co.jp | trck.a8.net |
 | a8cv.wakan.shop | trck.a8.net |
-| a8cv.wake.fun | trck.a8.net |
 | a8cv.waterserver.co.jp | trck.a8.net |
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
-| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.withcode.tech | trck.a8.net |
@@ -1305,7 +1302,6 @@
 | a8cv.yamasa-suppon.com | trck.a8.net |
 | a8cv.yamato-gp.net | trck.a8.net |
 | a8cv.yamatokouso.com | trck.a8.net |
-| a8cv.ygm-clinic.or.jp | trck.a8.net |
 | a8cv.yogino.jp | trck.a8.net |
 | a8cv.yokoyamakaban.com | trck.a8.net |
 | a8cv.yoriso.com | trck.a8.net |

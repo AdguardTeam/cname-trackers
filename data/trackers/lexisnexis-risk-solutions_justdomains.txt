@@ -128,7 +128,6 @@ app.uob.co.th
 app.uob.com.my
 app.uob.com.sg
 app01.cnt.bdo.com.ph
-app01.cnt.uat.bdo.com.ph
 app392.gerberlife.com
 applibs.fglife.com
 applicant.rbfcu.org
@@ -464,6 +463,7 @@ content.sb.lt
 content.sfbli.com
 content.sheerid.com
 content.shop.post.ch
+content.smart-glocal.com
 content.solutions-corporate.com
 content.spincasino.ca
 content.sportchek.ca
@@ -981,6 +981,7 @@ prod-wccuri.chaperone.lumindigitalhosting.com
 prod-westccu.chaperone.lumindigitalhosting.com
 prod-wings.chaperone.lumindigitalhosting.com
 prof4rs.cembrapay.ch
+profile.iassist.com
 profiling.cmo.cibc.com
 profiling.digitalbusiness.cibc.com
 profiling.qacitizensbankonline.com
@@ -1187,6 +1188,7 @@ tags.emirates.com
 tags.eq.iombank.com
 tags.eq.natwestinternational.com
 tags.eq.rbsinternational.com
+tags.greenfeatheronline.com
 tags.ipp-services.eu
 tags.natwest.com
 tags.nwolb.com
@@ -1205,6 +1207,7 @@ tags.ulsterbankanytimebanking.co.uk
 tags.ulsterbankanytimebanking.ie
 tblsdp.staging.tonybet.ca
 tblsdp.tonybet.ca
+tblsdp.tonybetalberta.ca
 tbp.tescobank.com
 tcontent.auchantelecom.fr
 tcontent.nrjmobile.fr

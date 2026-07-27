@@ -16,7 +16,6 @@
 
 ### Rarely active trackers
 
-* homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com
 * a8a28268bd692db77.awsglobalaccelerator.com
 
 ## Cloaking domains
@@ -28,11 +27,6 @@
 | aiq-in.delish.com | hearst-prod.actioniq.mr-in.com |
 | aiq-in.townandcountrymag.com | hearst-prod.actioniq.mr-in.com |
 | aiq-in.harborfreight.com | hft-prod.actioniq.mr-in.com |
-| anx-new.learnwithhomer.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
-| anx-new.littlepassports.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
-| anx.learnwithhomer.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
-| mr-in.beginlearning.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
-| mr-in.littlepassports.com | homer-p1-ingress-app-green-4ef3867bbb6ae012.elb.us-east-1.amazonaws.com |
 | anx-new.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx-new.littlepassports.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |

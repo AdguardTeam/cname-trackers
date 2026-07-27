@@ -10,7 +10,6 @@
 ### Rarely active trackers
 
 * l4-metrics-agent-public-s0-d5246a188c35bb66.elb.ap-northeast-1.amazonaws.com
-* wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com
 * adktracking-1671721947.eu-west-3.elb.amazonaws.com
 * nova-collector-1192479543.us-east-1.elb.amazonaws.com
 * tau-collector-2141062151.eu-west-1.elb.amazonaws.com
@@ -45,7 +44,6 @@
 * ad-dsp-1062506415.us-east-1.elb.amazonaws.com
 * dualstack.vzw-analytics-elb-640016604.us-west-2.elb.amazonaws.com
 * ad-dal-prd-1056964492.ap-northeast-1.elb.amazonaws.com
-* ads-2005279979.us-west-2.elb.amazonaws.com
 * ad-api-1016939889.us-west-2.elb.amazonaws.com
 * muon-collector-kube-1510719261.ca-central-1.elb.amazonaws.com
 * snowplow-collector-ew1-prod-628314044.eu-west-1.elb.amazonaws.com
@@ -60,7 +58,6 @@
 * event-collector-lb-478759435.us-east-1.elb.amazonaws.com
 * prebid-collector-lb-321145981.eu-west-1.elb.amazonaws.com
 * tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com
-* ads-411442584.us-east-1.elb.amazonaws.com
 * prod-nlb-ad-decision-ex-f66f351d1a85e853.elb.ap-northeast-2.amazonaws.com
 * gomlab-log-17054681.us-east-1.elb.amazonaws.com
 * snowplow-collector-load-balancer-156346584.us-east-1.elb.amazonaws.com
@@ -690,8 +687,6 @@
 | t-ads.tttieplxuh.com | ads-1821218336.ap-southeast-1.elb.amazonaws.com |
 | ui-mkt-api.mangacoin.net | ads-1821218336.ap-southeast-1.elb.amazonaws.com |
 | ui-mkt-api.mxlaand.com | ads-1821218336.ap-southeast-1.elb.amazonaws.com |
-| cache-us-west-2.tremorhub.com | ads-2005279979.us-west-2.elb.amazonaws.com |
-| jwplayer.eb.tremorhub.com | ads-411442584.us-east-1.elb.amazonaws.com |
 | ads.its-newid.net | ads-alb-seoul-newid-384848694.ap-northeast-2.elb.amazonaws.com |
 | write.production.ads.db.yotpo.com | ads.cuffxrs8rato.us-east-1.rds.amazonaws.com |
 | write.production.widgets-manager.db.yotpo.com | ads.cuffxrs8rato.us-east-1.rds.amazonaws.com |
@@ -914,7 +909,6 @@
 | 100010660.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100010763.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100010777.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 100010921.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100011009.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100011086.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 100011269.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -1036,7 +1030,6 @@
 | 7220880.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7222928.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7226716.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
-| 7227558.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7231222.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7231699.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
 | 7233063.collect.igodigital.com | nova-collector-1192479543.us-east-1.elb.amazonaws.com |
@@ -1154,51 +1147,4 @@
 | partner.versemedia.net | tracking-1183106232.ap-southeast-1.elb.amazonaws.com |
 | tracking.mob.psafe.com | tracking-us-2012427168.us-east-1.elb.amazonaws.com |
 | webanalytics-eu-prd.fpfis.tech.ec.europa.eu | webanalytics-291277692.eu-central-1.elb.amazonaws.com |
-| 0.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 031kr-72z7z.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 031kr-rwlpf.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 031kr-vyvxw.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 0t5pq-37tiq.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 0t5pq-e6w16.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 0t5pq-krt0d.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 1dfkn-9cdv6.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 2onby-xqooy.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 4hllz-0dtva.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 5nbh3-uouba.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 6lioc-40gtx.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 6lioc-ftrbi.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 6psex-fm1gy.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| 9l6ha-e14kk.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| ap-southeast-1.eb.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| cguke-6qxzm.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| cpu32-u68p7.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| cpu32-vvlc7.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| dsn4w-sg4t3.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| dzy22-szpxo.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| em1jn-4rwts.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| eq97f-1j0az.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| erf4d-apmlm.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| j5en0-2ybeb.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| j5en0-pll05.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| kiiu4.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| ktk7k-zvz05.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| m7hdh-2damu.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| p4dt2-hr9oj.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| pc031-edgup.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| pc083-aipdx.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| px2ii-de7f6.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| q017o-jh7o1.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| qlj12-52yr6.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| r5rfy-ixl17.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| rrmn0-uag05.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| slckg-2p3vy.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| slckg-lyoc5.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| slckg-qrmhc.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| w6blq-daeum.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| w78o8-u00lp.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| www.6psex-axuft.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| www.p4dt2-980w2.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| www.pc083-ii06c.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| www.q017o-d42by.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
-| www.regional.ads.tremorhub.com | wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com |
 | snowplow.wral.com | wral-snowplow-collector-1139283751.us-east-1.elb.amazonaws.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+324zerb3.gaststaettenunterrichtung-bw.de CNAME .
 4590bertn12.wir-gastfreunde.de CNAME .
 a.trowow.de CNAME .
 analyse.hs-furtwangen.de CNAME .
@@ -197,6 +198,7 @@ metrics.einfachiso.de CNAME .
 metrics.eltric.com CNAME .
 metrics.energetix.tv CNAME .
 metrics.eurosonic.de CNAME .
+metrics.ewv-hamm-netz.de CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.greatvita.de CNAME .
 metrics.gutskueche.de CNAME .
@@ -204,6 +206,7 @@ metrics.gutsteinbach.de CNAME .
 metrics.heulnichtrum.de CNAME .
 metrics.ibis-styles-nagold.com CNAME .
 metrics.iqcheck24.de CNAME .
+metrics.konapp.de CNAME .
 metrics.leimer.de CNAME .
 metrics.mammutmarsch.de CNAME .
 metrics.meineversicherungswelt.de CNAME .
@@ -346,14 +349,12 @@ vault.raiffeisen-bio-brennstoffe.de CNAME .
 vault.raiffeisenmarkt.de CNAME .
 wa.heimatlinse.de CNAME .
 wa.ostermann.eu CNAME .
-waet.datalogue.de CNAME .
 wbtr.chgmeridian.com CNAME .
 wctr.aures.ag CNAME .
 wctr.bodenverkauf.de CNAME .
 wctr.hoeping.de CNAME .
 wctr.khk-karlsruhe.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
-wctr.maschinenprofi.de CNAME .
 wctr.menkenunddrees.de CNAME .
 wctr.mm-germany.com CNAME .
 wctr.moenninghoff.net CNAME .
@@ -405,6 +406,7 @@ webcontr.haferloewe.de CNAME .
 webcontr.holzgestein.com CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.in-akustik.de CNAME .
+webcontr.institut-fuer-achtsamkeit.de CNAME .
 webcontr.jalousiescout.at CNAME .
 webcontr.jalousiescout.de CNAME .
 webcontr.kabelschuhe-shop.de CNAME .
@@ -456,11 +458,12 @@ webcontr.verpoorten-shop.de CNAME .
 webcontr.verpoorten.de CNAME .
 webcontr.vetter-pharma.com CNAME .
 webcontr.vov.eu CNAME .
+webcontr.wemag-metall.de CNAME .
 webcontr.wemag.de CNAME .
+webcontr.werbewulf.de CNAME .
 webcontr.wgv.de CNAME .
 webcontr.wnxe.de CNAME .
 webcontr.wolkenlosundheiter.de CNAME .
-webcontr.yourfashionplace.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
 webdat.mai-estate.com CNAME .
@@ -470,6 +473,7 @@ webstats.kawentsmann.de CNAME .
 webstt0002.onofficeom.com CNAME .
 webstt0003.onofficeom.com CNAME .
 webstt0004.onofficeom.com CNAME .
+webstt0005.onofficeom.com CNAME .
 webstt0007.onofficeom.com CNAME .
 webstt0009.onofficeom.com CNAME .
 webstt0011.onofficeom.com CNAME .
@@ -483,10 +487,12 @@ webstt0019.onofficeom.com CNAME .
 webstt0020.onofficeom.com CNAME .
 webstt0021.onofficeom.com CNAME .
 webstt0022.onofficeom.com CNAME .
+webstt0024.onofficeom.com CNAME .
 webstt0027.onofficeom.com CNAME .
 webstt0028.onofficeom.com CNAME .
 webstt0031.onofficeom.com CNAME .
 webstt0032.onofficeom.com CNAME .
+webstt0035.onofficeom.com CNAME .
 webstt0037.onofficeom.com CNAME .
 webstt0038.onofficeom.com CNAME .
 webstt0039.onofficeom.com CNAME .
@@ -503,10 +509,12 @@ webstt0068.onofficeom.com CNAME .
 webstt0069.onofficeom.com CNAME .
 webstt0071.onofficeom.com CNAME .
 webstt0073.onofficeom.com CNAME .
+webstt0078.onofficeom.com CNAME .
 websy.skillyofficial.com CNAME .
 webtr.cc-egov.de CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
+webtr.elearning-cc-egov.de CNAME .
 webtr.regisafe.de CNAME .
 webtrack.lotto-thueringen.de CNAME .
 weco.gasteo.de CNAME .

@@ -11,7 +11,6 @@
 | a.rb-ya.ru | park.realbig.online |
 | a.resr.ru | park.realbig.online |
 | a.ridd.ru | park.realbig.online |
-| a.yandd.site | park.realbig.online |
 | ad.choicy.org | park.realbig.online |
 | any.realbig.media | park.realbig.online |
 | cdn.zamunda.ru | park.realbig.online |

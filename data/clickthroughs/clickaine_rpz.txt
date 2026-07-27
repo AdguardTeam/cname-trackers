@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,10 +30,8 @@ api.hugemedia.cz CNAME .
 api.ngamgaixinh.art CNAME .
 api.rtnews.pro CNAME .
 app.rtnews.pro CNAME .
-asg.example.com.audioxstory.com CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
-bat36.gimmeporn.xyz CNAME .
 c0n.tubestash.com CNAME .
 c4n.85xvideo.com CNAME .
 c4n.allporncomics.co CNAME .
@@ -74,6 +72,7 @@ dashww.hotscopes.net CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 drt.cliomovies.com CNAME .
+excavajo16.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 fotos.brandnewapp.pro CNAME .
@@ -103,6 +102,7 @@ s2.rtnews.pro CNAME .
 s3.rtnews.pro CNAME .
 s4.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
+scripts.xxxsexcams.net CNAME .
 ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
 v040419.badjojo.com CNAME .

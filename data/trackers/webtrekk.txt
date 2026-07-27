@@ -76,7 +76,6 @@
 ||data.volksfreund.de^
 ||data.westlotto.de^
 ||daten.union-investment.de^
-||def.bayer04.de^
 ||ed.emp-online.ch^
 ||ed.emp-online.com^
 ||ed.emp-online.es^
@@ -290,7 +289,6 @@
 ||web.mapp.whiteaway.no^
 ||web.mapp.whiteaway.se^
 ||web.marcotozzi.com^
-||web.marketing.jellybelly.com^
 ||web.mytoys.de^
 ||web.news.absurdbeauty.com^
 ||web.news.bottegaverde.com^
@@ -370,7 +368,6 @@
 ||wt.generali.de^
 ||wt.generalibewegtdeutschland.de^
 ||wt.generalihealthsolutions.de^
-||wt.netze-bw.de^
 ||wttd.douglas.at^
 ||wttd.douglas.ch^
 ||wttd.douglas.de^
@@ -386,3 +383,4 @@
 ||wttd.madeleine.fr^
 ||wttd.madeleine.gr^
 ||www.a.jaz-hotel.com^
+||web.marketing.jellybelly.com^

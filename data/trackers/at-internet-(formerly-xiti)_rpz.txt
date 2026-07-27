@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,6 +63,7 @@ hal.courrierinternational.com CNAME .
 hd.pe.fr CNAME .
 hmg.handelsblatt.com CNAME .
 hmg.wiwo.de CNAME .
+ignis.nn.de CNAME .
 image.ard.de CNAME .
 image.mdr.de CNAME .
 images.kika.de CNAME .
@@ -84,7 +85,16 @@ pa.familypark.at CNAME .
 pa.franceminiature.fr CNAME .
 pa.futuroscope.com CNAME .
 pa.grevin-paris.com CNAME .
+pa.lamontagne.fr CNAME .
+pa.larep.fr CNAME .
+pa.le-pays.fr CNAME .
+pa.leberry.fr CNAME .
+pa.lechorepublicain.fr CNAME .
+pa.lejdc.fr CNAME .
+pa.lepopulaire.fr CNAME .
 pa.lesarcs-peiseyvallandry.com CNAME .
+pa.leveil.fr CNAME .
+pa.lyonne.fr CNAME .
 pa.parcasterix.fr CNAME .
 pa.serrechevalier-pass.com CNAME .
 pa.skipass-grand-massif.com CNAME .
@@ -136,6 +146,7 @@ stiwa.test.de CNAME .
 strawberry.basf.ca CNAME .
 strawberry.basf.com CNAME .
 strawberry.basf.us CNAME .
+test-le.atcloudapp.net CNAME .
 tja-expiration.pa-cd-dev.com CNAME .
 tm.urssaf.fr CNAME .
 tm.urssaf.org CNAME .

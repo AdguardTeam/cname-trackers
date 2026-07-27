@@ -12,6 +12,7 @@
     * bpftoyh.customers.1p-data.co
     * bzljqlx.customers.1p-data.co
     * cdskjrg.customers.1p-data.co
+    * cgcutav.customers.1p-data.co
     * cpsmbor.customers.1p-data.co
     * czirtyk.customers.1p-data.co
     * edczrfj.customers.1p-data.co
@@ -56,6 +57,7 @@
 | bpftoyh.chamelo.com | bpftoyh.customers.1p-data.co |
 | bzljqlx.elietahari.com | bzljqlx.customers.1p-data.co |
 | cdskjrg.giliarto.com | cdskjrg.customers.1p-data.co |
+| cgcutav.kitaskin.com | cgcutav.customers.1p-data.co |
 | cpsmbor.ensorings.com | cpsmbor.customers.1p-data.co |
 | czirtyk.sugarmesmooth.com | czirtyk.customers.1p-data.co |
 | edczrfj.veneera.com | edczrfj.customers.1p-data.co |

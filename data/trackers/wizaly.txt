@@ -93,7 +93,6 @@
 ||tk.boutique.hbrfrance.fr^
 ||tk.boutique.programme-tv.net^
 ||tk.boutique.voici.fr^
-||tk.bricoprive.com^
 ||tk.bullebleue.fr^
 ||tk.conforama.fr^
 ||tk.dietbon.fr^

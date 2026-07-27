@@ -13,7 +13,6 @@
     * tk-biovea-com.wizaly.com
     * tk-blancheporte-be.wizaly.com
     * tk-blancheporte-fr.wizaly.com
-    * tk-bricoprive-com.wizaly.com
     * tk-conforama-fr.wizaly.com
     * tk-dietbon-fr.wizaly.com
     * tk-domitys-fr.wizaly.com
@@ -81,7 +80,6 @@
 | tk.biovea.com | tk-biovea-com.wizaly.com |
 | tk.blancheporte.be | tk-blancheporte-be.wizaly.com |
 | tk.blancheporte.fr | tk-blancheporte-fr.wizaly.com |
-| tk.bricoprive.com | tk-bricoprive-com.wizaly.com |
 | tk.conforama.fr | tk-conforama-fr.wizaly.com |
 | tk.dietbon.fr | tk-dietbon-fr.wizaly.com |
 | tk.domitys.fr | tk-domitys-fr.wizaly.com |

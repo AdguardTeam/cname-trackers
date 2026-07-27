@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -87,7 +87,6 @@ data.vdi-wissensforum.de CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
-def.bayer04.de CNAME .
 ed.emp-online.ch CNAME .
 ed.emp-online.com CNAME .
 ed.emp-online.es CNAME .
@@ -301,7 +300,6 @@ web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
-web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.absurdbeauty.com CNAME .
 web.news.bottegaverde.com CNAME .
@@ -381,7 +379,6 @@ wt.envivas.de CNAME .
 wt.generali.de CNAME .
 wt.generalibewegtdeutschland.de CNAME .
 wt.generalihealthsolutions.de CNAME .
-wt.netze-bw.de CNAME .
 wttd.douglas.at CNAME .
 wttd.douglas.ch CNAME .
 wttd.douglas.de CNAME .
@@ -397,3 +394,4 @@ wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
 www.a.jaz-hotel.com CNAME .
+web.marketing.jellybelly.com CNAME .

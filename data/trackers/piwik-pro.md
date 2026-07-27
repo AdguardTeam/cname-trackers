@@ -5,8 +5,8 @@
 * piwik.pro
     * adnoc.piwik.pro
     * akvo.piwik.pro
+    * amrest.piwik.pro
     * amsterdam.piwik.pro
-    * ari.piwik.pro
     * aumago.piwik.pro
     * betus.piwik.pro
     * ch-equans.piwik.pro
@@ -24,11 +24,12 @@
     * hogeschool.piwik.pro
     * ind.piwik.pro
     * klett.piwik.pro
+    * koop.piwik.pro
     * kuka.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
-    * netdriven.piwik.pro
+    * ns-epublisher.piwik.pro
     * opanalytics.piwik.pro
     * pp-koop-p-euw.piwik.pro
     * pp-public-p-aea.piwik.pro
@@ -48,6 +49,7 @@
     * tigital.piwik.pro
     * triodos.piwik.pro
     * tweedekamer.piwik.pro
+    * twyzle-prod.piwik.pro
     * uninstalled.piwik.pro
     * uwhealth.piwik.pro
     * uwv.piwik.pro
@@ -61,10 +63,10 @@
 | ---- | ---- |
 | www.webengage.ae | adnoc.piwik.pro |
 | analytics.akvo.org | akvo.piwik.pro |
+| piwikpro.amrest.eu | amrest.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
-| stats.arinet.com | ari.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
-| tagadmin.aumago.com | aumago.piwik.pro |
+| piwik.slotsparadise.com | betus.piwik.pro |
 | piwik.vegasaces.com | betus.piwik.pro |
 | metrics.equans.ch | ch-equans.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
@@ -82,13 +84,15 @@
 | analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
 | p.klett.de | klett.piwik.pro |
+| tagmanager.becop.nl | koop.piwik.pro |
 | p-k.kuka.com | kuka.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
-| stats.netdriven.com | netdriven.piwik.pro |
+| statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
+| tagmanager.becop.nl | pp-koop-p-euw.piwik.pro |
 | tagmanager.becop.nl | pp-koop-p-euw.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
@@ -113,8 +117,10 @@
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
+| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
+| piwikpro.amrest.eu | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | pwk.tweedekamer.nl | pp-public-p-euw.piwik.pro |
@@ -170,11 +176,11 @@
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
 | pwk.tweedekamer.nl | tweedekamer.piwik.pro |
+| piwik.twyzle.com | twyzle-prod.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | fse.piwikpro.pl | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
-| stats.arinet.com | uninstalled.piwik.pro |
 | stats.arinet.com | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |

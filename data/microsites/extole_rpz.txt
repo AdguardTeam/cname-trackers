@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,7 +27,6 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
-refer.aol.com CNAME .
 refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
@@ -116,7 +115,6 @@ share.tenmarks.com CNAME .
 share.vimeo.com CNAME .
 share.wimp.no CNAME .
 share.worldmarket.com CNAME .
-tellapal.register.com CNAME .
 tellapal.web.com CNAME .
 www.refercentier.com CNAME .
 www.trevoce.com CNAME .
@@ -125,6 +123,7 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
 em2287.theory.com CNAME .
 em3007.wagwalking.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
@@ -132,6 +131,7 @@ em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
 em7952.dailypay.com CNAME .
+em8031.soundcloud.com CNAME .
 em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -194,9 +194,7 @@ refer.belkin.com CNAME .
 refer.boltpharmacy.co.uk CNAME .
 refer.booksy.com CNAME .
 refer.bose.co.uk CNAME .
-refer.bose.com CNAME .
 refer.bose.de CNAME .
-refer.bose.fr CNAME .
 refer.brightspeed.com CNAME .
 refer.bulova.com CNAME .
 refer.bumbleandbumble.com CNAME .
@@ -441,7 +439,6 @@ refer1.dollskill.com CNAME .
 refer1.experian.com CNAME .
 referabusiness.verizon.com CNAME .
 referacct.quickbooks.intuit.co.uk CNAME .
-referafriend.bose.com CNAME .
 referafriend.comcast.com CNAME .
 referafriend.directv.com CNAME .
 referafriend.xfinity.com CNAME .
@@ -768,6 +765,7 @@ share.usalliance.org CNAME .
 share.usatoday.com CNAME .
 share.useagle.org CNAME .
 share.vcstar.com CNAME .
+share.vintedgo.com CNAME .
 share.virginvoyages.com CNAME .
 share.vonage.com CNAME .
 share.waggonershomeservices.com CNAME .
@@ -796,11 +794,9 @@ www.styleitforwardreward.com CNAME .
 xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
 em767.forgetrust.com CNAME .
-em8031.soundcloud.com CNAME .
 em8561.go2bank.com CNAME .
 em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .

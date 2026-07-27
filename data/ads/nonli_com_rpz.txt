@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1783944176679        ; Serial
+           1785153874885        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,8 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+account.h24.news CNAME .
+api.h24.news CNAME .
 at.h24.news CNAME .
 barracuda.h24.news CNAME .
 br.h24.news CNAME .
@@ -18,6 +20,7 @@ c.leparisien.fr CNAME .
 de.h24.news CNAME .
 ec.h24.news CNAME .
 flow-prod.h24.news CNAME .
+fr.h24.news CNAME .
 go.3ds.com CNAME .
 go.france24.com CNAME .
 go.lenouveaudetective.com CNAME .
@@ -78,6 +81,7 @@ l.centrepresseaveyron.fr CNAME .
 l.challenges.fr CNAME .
 l.charentelibre.fr CNAME .
 l.chartsinfrance.net CNAME .
+l.cheriefm.fr CNAME .
 l.citoyens.com CNAME .
 l.closermag.fr CNAME .
 l.clubic.com CNAME .
@@ -248,7 +252,9 @@ l.netmums.com CNAME .
 l.nextplz.fr CNAME .
 l.nicematin.com CNAME .
 l.nordlittoral.fr CNAME .
+l.nostalgie.fr CNAME .
 l.notretemps.com CNAME .
+l.nrj.fr CNAME .
 l.nrpyrenees.fr CNAME .
 l.numerama.com CNAME .
 l.ohmymag.co.uk CNAME .
@@ -281,6 +287,7 @@ l.quinzemondial.com CNAME .
 l.radiofrance.fr CNAME .
 l.reporterre.net CNAME .
 l.revue21.fr CNAME .
+l.rireetchansons.fr CNAME .
 l.rmc.fr CNAME .
 l.rmcbfmplay.com CNAME .
 l.rmcsport.fr CNAME .
@@ -346,6 +353,7 @@ prod-4.moarty.com CNAME .
 relay.h24.news CNAME .
 remote.h24.news CNAME .
 server1.h24.news CNAME .
+signup.h24.news CNAME .
 smtp.mail.h24.news CNAME .
 smtp2.h24.news CNAME .
 social.agrodistribution.fr CNAME .
