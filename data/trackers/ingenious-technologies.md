@@ -7,43 +7,51 @@
     * anwalt-de.affex.org
     * belboon-com.affex.org
     * brillen-de.affex.org
-    * carrefour-es.affex.org
     * cdn-elogia-net.affex.org
+    * daraz-com-bd.affex.org
     * daraz-com.affex.org
+    * depauli-com.affex.org
     * dz-jumia-com.affex.org
     * easyjet-com.affex.org
     * elogia-net.affex.org
+    * home24-at.affex.org
+    * home24-be.affex.org
     * home24-com.affex.org
     * home24-de.affex.org
+    * iberia-com.affex.org
     * iberostar-com.affex.org
     * idealo-partner-com.affex.org
     * jakuli-com.affex.org
-    * jockey-de.affex.org
     * jumia-ci.affex.org
     * jumia-cm.affex.org
     * jumia-co-ke.affex.org
     * jumia-co-tz.affex.org
     * jumia-com-gh.affex.org
     * jumia-com.affex.org
-    * jumia-ma.affex.org
     * jumia-sn.affex.org
     * jumia-ug.affex.org
     * lafamo-com.affex.org
     * logitravel-com.affex.org
     * mydays-de.affex.org
+    * netsalesmedia-pl.affex.org
+    * niwepa-com.affex.org
+    * shop-com-mm.affex.org
     * tr-akipam-com.affex.org
-    * tr-brillen-com.affex.org
+    * tr-beate-uhse-movie-com.affex.org
     * tr-brillen-de.affex.org
     * tr-brillen-pl.affex.org
-    * tr-focus-versicherung.affex.org
+    * tr-daraz-com-bd.affex.org
+    * tr-daraz-com.affex.org
     * tr-gafas-es.affex.org
+    * tr-home24-ch.affex.org
     * tr-home24-de.affex.org
     * tr-home24-fr.affex.org
     * tr-home24-it.affex.org
     * tr-home24-nl.affex.org
     * tr-idealo-partner-com.affex.org
     * tr-jakuli-com.affex.org
-    * tr-jumia-com-eg.affex.org
+    * tr-jumia-co-ke.affex.org
+    * tr-jumia-com-gh.affex.org
     * tr-lafamo-com.affex.org
     * tr-logitravel-com.affex.org
     * tr-netsalesmedia-pl.affex.org
@@ -51,7 +59,7 @@
     * tr-occhiali24-it.affex.org
     * tr-penny-de.affex.org
     * tr-powuta-com.affex.org
-    * tradeers-de.affex.org
+    * tr-zooroyal-at.affex.org
     * zooroyal-de.affex.org
 
 ### Rarely active trackers
@@ -63,29 +71,28 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | r.akipam.com | akipam-com.affex.org |
-| ai.net.anwalt.de | anwalt-de.affex.org |
-| amahami.net.anwalt.de | anwalt-de.affex.org |
-| anaconda.net.anwalt.de | anwalt-de.affex.org |
-| blackjack.net.anwalt.de | anwalt-de.affex.org |
+| belanger.net.anwalt.de | anwalt-de.affex.org |
+| birnbaum.net.anwalt.de | anwalt-de.affex.org |
 | bruny.net.anwalt.de | anwalt-de.affex.org |
-| mholland.net.anwalt.de | anwalt-de.affex.org |
-| mohamed.net.anwalt.de | anwalt-de.affex.org |
-| neoncsr21.net.anwalt.de | anwalt-de.affex.org |
+| bundlelagi.net.anwalt.de | anwalt-de.affex.org |
+| cast.net.anwalt.de | anwalt-de.affex.org |
+| chikswhipsnkicks.net.anwalt.de | anwalt-de.affex.org |
+| clients.net.anwalt.de | anwalt-de.affex.org |
+| fulmar.net.anwalt.de | anwalt-de.affex.org |
+| mellamanjorge.net.anwalt.de | anwalt-de.affex.org |
 | samia.net.anwalt.de | anwalt-de.affex.org |
-| thialfi.net.anwalt.de | anwalt-de.affex.org |
 | thumbs.net.anwalt.de | anwalt-de.affex.org |
 | tirandoalmedio.net.anwalt.de | anwalt-de.affex.org |
 | twistairclub.net.anwalt.de | anwalt-de.affex.org |
 | tyumen.net.anwalt.de | anwalt-de.affex.org |
-| valdes.net.anwalt.de | anwalt-de.affex.org |
-| vl037.net.anwalt.de | anwalt-de.affex.org |
+| vd-test.net.anwalt.de | anwalt-de.affex.org |
 | wasteland.net.anwalt.de | anwalt-de.affex.org |
+| www.csr31.net.anwalt.de | anwalt-de.affex.org |
 | partner.service.belboon.com | belboon-com.affex.org |
 | ui.service.belboon.com | belboon-com.affex.org |
-| img.net.brillen.de | brillen-de.affex.org |
 | net.brillen.de | brillen-de.affex.org |
-| net.carrefour.es | carrefour-es.affex.org |
 | cdn.net.elogia.net | cdn-elogia-net.affex.org |
+| net.daraz.com.bd | daraz-com-bd.affex.org |
 | -084-gls-223-www-9-k-0brasil.net.daraz.com | daraz-com.affex.org |
 | -access-logs-1.net.daraz.com | daraz-com.affex.org |
 | -access-logs-3apropmdeizy9vjf.net.daraz.com | daraz-com.affex.org |
@@ -966,6 +973,7 @@
 | 00-bootstpatneradmin1ap.net.daraz.com | daraz-com.affex.org |
 | 00-bootstpawebtneweb-n-switch-bms-sellewebap.net.daraz.com | daraz-com.affex.org |
 | 00-bootstproxyap.net.daraz.com | daraz-com.affex.org |
+| 00-bootstraadministratorlocalhost.0-030.net.daraz.com | daraz-com.affex.org |
 | 00-bootstrabeta.net.daraz.com | daraz-com.affex.org |
 | 00-bootstraboard.net.daraz.com | daraz-com.affex.org |
 | 00-bootstrafaq.net.daraz.com | daraz-com.affex.org |
@@ -1157,6 +1165,7 @@
 | 00-bootstrap.pre-connected.net.daraz.com | daraz-com.affex.org |
 | 00-bootstrap.pre-pull-drzlive.net.daraz.com | daraz-com.affex.org |
 | 00-bootstrap.pre-rg-sg.net.daraz.com | daraz-com.affex.org |
+| 00-bootstrap.review.net.daraz.com | daraz-com.affex.org |
 | 00-bootstrap.sjc12.net.daraz.com | daraz-com.affex.org |
 | 00-bootstrap.static.net.daraz.com | daraz-com.affex.org |
 | 00-bootstrap.tngwstage.net.daraz.com | daraz-com.affex.org |
@@ -4248,6 +4257,7 @@
 | 01-lib-oa-1-administrators-csr40.edge.net.daraz.com | daraz-com.affex.org |
 | 01-lib-oa-1-administrators-csr40.elasticns1.net.daraz.com | daraz-com.affex.org |
 | 01-lib-oa-1-administrators-csr40.fb.net.daraz.com | daraz-com.affex.org |
+| 01-lib-oa-1-administrators-csr40.food.net.daraz.com | daraz-com.affex.org |
 | 01-lib-oa-1-administrators-csr40.frontpage.net.daraz.com | daraz-com.affex.org |
 | 01-lib-oa-1-administrators-csr40.hotspot.net.daraz.com | daraz-com.affex.org |
 | 01-lib-oa-1-administrators-csr40.kubemarketing.net.daraz.com | daraz-com.affex.org |
@@ -5547,6 +5557,7 @@
 | 043ns11ector-keele-nnw-leis-mc-leis.net.daraz.com | daraz-com.affex.org |
 | 043ns11ingress.patner.net.daraz.com | daraz-com.affex.org |
 | 043ns11p043ns11che.lib-ht-1.net.daraz.com | daraz-com.affex.org |
+| 043ns11partner-assets.0-030.net.daraz.com | daraz-com.affex.org |
 | 043ns11prod.net.daraz.com | daraz-com.affex.org |
 | 043web7-www-1.net.daraz.com | daraz-com.affex.org |
 | 044-wildcard-matching.net.daraz.com | daraz-com.affex.org |
@@ -8126,6 +8137,7 @@
 | 6-keele-nnw-leis-mc-leis.net.daraz.com | daraz-com.affex.org |
 | 6-patner.net.daraz.com | daraz-com.affex.org |
 | 6.www.partner.net.daraz.com | daraz-com.affex.org |
+| 60.net.daraz.com | daraz-com.affex.org |
 | 60q206suzjw85ads.net.daraz.com | daraz-com.affex.org |
 | 612-926-4075.net.daraz.com | daraz-com.affex.org |
 | 61drop.net.daraz.com | daraz-com.affex.org |
@@ -16813,6 +16825,7 @@
 | csr4pop3.application.net.daraz.com | daraz-com.affex.org |
 | csr4prod.application.net.daraz.com | daraz-com.affex.org |
 | csr4stat.application.net.daraz.com | daraz-com.affex.org |
+| csr4vpn.application.net.daraz.com | daraz-com.affex.org |
 | csrinternals2.net.daraz.com | daraz-com.affex.org |
 | cstaging-stagingparmakla.net.daraz.com | daraz-com.affex.org |
 | cstatslib-ht-1r13.bucket.net.daraz.com | daraz-com.affex.org |
@@ -37311,6 +37324,7 @@
 | resetpartner.net.daraz.com | daraz-com.affex.org |
 | resftpricted-r-ht-2.net.daraz.com | daraz-com.affex.org |
 | restrictbejav.assets.net.daraz.com | daraz-com.affex.org |
+| restricted-r-ht-2-00-bootstrap.net.daraz.com | daraz-com.affex.org |
 | restricted-r-ht-2-01.net.daraz.com | daraz-com.affex.org |
 | restricted-r-ht-2-api.net.daraz.com | daraz-com.affex.org |
 | restricted-r-ht-2-apisellerpackaging.net.daraz.com | daraz-com.affex.org |
@@ -37390,6 +37404,7 @@
 | s1006-zigzagstr.net.daraz.com | daraz-com.affex.org |
 | s3-dmz-us-west-2.net.daraz.com | daraz-com.affex.org |
 | s3.net.daraz.com | daraz-com.affex.org |
+| s3.ns3.cl-cisco-capwap-authentication.bellsouth.net.daraz.com | daraz-com.affex.org |
 | s3.ns3.cl.bellsoguh.net.daraz.com | daraz-com.affex.org |
 | s3ops-ns2.viviotech.net.daraz.com | daraz-com.affex.org |
 | s4do47z65vxe5wpv.10-marketing.net.daraz.com | daraz-com.affex.org |
@@ -43275,6 +43290,7 @@
 | vonatmagazin-staging.javhihi.net.daraz.com | daraz-com.affex.org |
 | vorgn-w-htgb-a.net.daraz.com | daraz-com.affex.org |
 | vortex-cdn.net.daraz.com | daraz-com.affex.org |
+| vortex-csr41.application.net.daraz.com | daraz-com.affex.org |
 | vortex-drzlive.net.daraz.com | daraz-com.affex.org |
 | vortex-stagecisco-capwap-controller.net.daraz.com | daraz-com.affex.org |
 | vortex-winter.net.daraz.com | daraz-com.affex.org |
@@ -52392,7 +52408,8 @@
 | zzpa3e62zt91c04rvod.administrator.net.daraz.com | daraz-com.affex.org |
 | zzpa3e6doitruyzt91c04r.administrator.net.daraz.com | daraz-com.affex.org |
 | zzv2.net.daraz.com | daraz-com.affex.org |
-| ip.net.dz.jumia.com | dz-jumia-com.affex.org |
+| net.depauli.com | depauli-com.affex.org |
+| mobile.net.dz.jumia.com | dz-jumia-com.affex.org |
 | 0.net.easyjet.com | easyjet-com.affex.org |
 | 14.net.easyjet.com | easyjet-com.affex.org |
 | 144.net.easyjet.com | easyjet-com.affex.org |
@@ -52449,36 +52466,50 @@
 | trpkktzakr.easyjet.com.cpanel.net.easyjet.com | easyjet-com.affex.org |
 | us.ssh.csr21.net.easyjet.com | easyjet-com.affex.org |
 | net.elogia.net | elogia-net.affex.org |
-| img.net.home24.com | home24-com.affex.org |
-| car21.net.home24.de | home24-de.affex.org |
-| akv2-br-cdn.kwai.net.iberostar.com | iberostar-com.affex.org |
+| net.home24.at | home24-at.affex.org |
+| net.home24.be | home24-be.affex.org |
+| net.home24.com | home24-com.affex.org |
+| csr11.net.home24.de | home24-de.affex.org |
+| net.iberia.com | iberia-com.affex.org |
+| api.apiok.net.iberostar.com | iberostar-com.affex.org |
+| appfloor.appcpi.net.iberostar.com | iberostar-com.affex.org |
 | atl-b24-link.ip.twelve99.net.iberostar.com | iberostar-com.affex.org |
-| bolt-gcdn.sc-cdn.net.iberostar.com | iberostar-com.affex.org |
-| dns-tunnel-check.googlezip.net.iberostar.com | iberostar-com.affex.org |
-| g-fallback.whatsapp.net.iberostar.com | iberostar-com.affex.org |
-| g.whatsapp.net.iberostar.com | iberostar-com.affex.org |
-| ipv4-cs.intsig.net.iberostar.com | iberostar-com.affex.org |
+| aws-br-cdn.kwai.net.iberostar.com | iberostar-com.affex.org |
+| cisco-capwap-controller.net.iberostar.com | iberostar-com.affex.org |
+| dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com | iberostar-com.affex.org |
+| dpm.demdex.net.iberostar.com | iberostar-com.affex.org |
+| fbcdn.net.iberostar.com | iberostar-com.affex.org |
+| find.api.micloud.xiaomi.net.iberostar.com | iberostar-com.affex.org |
+| g-br-cdn.kwai.net.iberostar.com | iberostar-com.affex.org |
+| ipv4-c006-mid001-telmex-isp.1.oca.nflxvideo.net.iberostar.com | iberostar-com.affex.org |
 | jkanime.net.iberostar.com | iberostar-com.affex.org |
+| lib-oa-9.net.iberostar.com | iberostar-com.affex.org |
+| mmg.whatsapp.net.iberostar.com | iberostar-com.affex.org |
 | p16-tiktokcdn-com.akamaized.net.iberostar.com | iberostar-com.affex.org |
-| report.appmetrica.yandex.net.iberostar.com | iberostar-com.affex.org |
-| tx-pro-pull.kwai.net.iberostar.com | iberostar-com.affex.org |
-| us.appbackupapi.micloud.xiaomi.net.iberostar.com | iberostar-com.affex.org |
+| stats.g.doubleclick.net.iberostar.com | iberostar-com.affex.org |
+| tx-br-cdn.kwai.net.iberostar.com | iberostar-com.affex.org |
 | us.micardapi.micloud.xiaomi.net.iberostar.com | iberostar-com.affex.org |
-| ws-br-cdn.kwai.net.iberostar.com | iberostar-com.affex.org |
+| us.noteapi.micloud.xiaomi.net.iberostar.com | iberostar-com.affex.org |
+| ws-pro-pull.kwai.net.iberostar.com | iberostar-com.affex.org |
+| www.appassets.androidplatform.net.iberostar.com | iberostar-com.affex.org |
 | partner.net.idealo-partner.com | idealo-partner-com.affex.org |
 | r.jakuli.com | jakuli-com.affex.org |
-| net.jockey.de | jockey-de.affex.org |
+| cppm-kc2.net.jumia.ci | jumia-ci.affex.org |
+| de.net.jumia.ci | jumia-ci.affex.org |
+| net63.net.jumia.ci | jumia-ci.affex.org |
 | t.net.jumia.ci | jumia-ci.affex.org |
-| u.net.jumia.ci | jumia-ci.affex.org |
 | insurrection.actionfrancaise.net.scribel.net.jumia.cm | jumia-cm.affex.org |
+| poller.net.jumia.cm | jumia-cm.affex.org |
 | 125.net.jumia.co.ke | jumia-co-ke.affex.org |
-| 68-175.net.jumia.co.ke | jumia-co-ke.affex.org |
-| ca.net.jumia.co.ke | jumia-co-ke.affex.org |
-| family.net.jumia.co.ke | jumia-co-ke.affex.org |
+| en.ikmemergent.net.jumia.co.ke | jumia-co-ke.affex.org |
+| rbcore-wlc-3.net.jumia.co.ke | jumia-co-ke.affex.org |
 | web.net.jumia.co.ke | jumia-co-ke.affex.org |
+| dclnxirp001cou.net.jumia.co.tz | jumia-co-tz.affex.org |
 | phpmyadmin.toolmonger.net.jumia.co.tz | jumia-co-tz.affex.org |
-| dc01p-net-sslvpn0-ra.net.jumia.com.gh | jumia-com-gh.affex.org |
-| stereofixers.net.jumia.com.gh | jumia-com-gh.affex.org |
+| api-shrek.net.jumia.com.gh | jumia-com-gh.affex.org |
+| bdtheque.net.jumia.com.gh | jumia-com-gh.affex.org |
+| chomp-staging-pay.net.jumia.com.gh | jumia-com-gh.affex.org |
+| eniac.net.jumia.com.gh | jumia-com-gh.affex.org |
 | agriprecision.net.jumia.com | jumia-com.affex.org |
 | api-bill-dev-services.net.jumia.com | jumia-com.affex.org |
 | api-dev0-pay.net.jumia.com | jumia-com.affex.org |
@@ -52493,46 +52524,55 @@
 | purchaseportalpreprod.net.jumia.com | jumia-com.affex.org |
 | static-dev1-pay.net.jumia.com | jumia-com.affex.org |
 | zendesk2.net.jumia.com | jumia-com.affex.org |
-| dev.net.jumia.ma | jumia-ma.affex.org |
-| 2.net.jumia.sn | jumia-sn.affex.org |
-| frosty-staging-pay.net.jumia.ug | jumia-ug.affex.org |
+| cn.net.jumia.sn | jumia-sn.affex.org |
+| arch.net.jumia.ug | jumia-ug.affex.org |
+| gea-exchange-03.net.jumia.ug | jumia-ug.affex.org |
 | nbcxa65t001z.net.jumia.ug | jumia-ug.affex.org |
 | update.net.jumia.ug | jumia-ug.affex.org |
+| us.net.jumia.ug | jumia-ug.affex.org |
+| www.nil-egypte.net.jumia.ug | jumia-ug.affex.org |
 | r.lafamo.com | lafamo-com.affex.org |
+| api.affiliate.logitravel.com | logitravel-com.affex.org |
 | back.affiliate.logitravel.com | logitravel-com.affex.org |
 | media.affiliate.logitravel.com | logitravel-com.affex.org |
-| www.affiliate.logitravel.com | logitravel-com.affex.org |
-| dst05lp2.net.mydays.de | mydays-de.affex.org |
-| vidfiles.net.mydays.de | mydays-de.affex.org |
+| mcfeely.net.mydays.de | mydays-de.affex.org |
+| mhbhwilson1.net.mydays.de | mydays-de.affex.org |
 | wpe-client02-vm4.net.mydays.de | mydays-de.affex.org |
+| partner.system.netsalesmedia.pl | netsalesmedia-pl.affex.org |
+| marketing.r.niwepa.com | niwepa-com.affex.org |
+| net.shop.com.mm | shop-com-mm.affex.org |
 | atlas.r.akipam.com | tr-akipam-com.affex.org |
-| marketing.net.brillen.com | tr-brillen-com.affex.org |
+| marketing.net.beate-uhse-movie.com | tr-beate-uhse-movie-com.affex.org |
 | marketing.net.brillen.de | tr-brillen-de.affex.org |
 | brillen.demarketing.net.brillen.pl | tr-brillen-pl.affex.org |
 | marketing.net.brillen.pl | tr-brillen-pl.affex.org |
-| marketing.net.focus.versicherung | tr-focus-versicherung.affex.org |
+| marketing.net.daraz.com.bd | tr-daraz-com-bd.affex.org |
+| marketing.net.daraz.com | tr-daraz-com.affex.org |
 | marketing.net.gafas.es | tr-gafas-es.affex.org |
+| marketing.net.home24.ch | tr-home24-ch.affex.org |
 | marketing.net.home24.de | tr-home24-de.affex.org |
 | marketing.net.home24.fr | tr-home24-fr.affex.org |
 | marketing.net.home24.it | tr-home24-it.affex.org |
 | marketing.net.home24.nl | tr-home24-nl.affex.org |
 | marketing.net.idealo-partner.com | tr-idealo-partner-com.affex.org |
 | janus.r.jakuli.com | tr-jakuli-com.affex.org |
-| marketing.net.jumia.com.eg | tr-jumia-com-eg.affex.org |
+| marketing.net.jumia.co.ke | tr-jumia-co-ke.affex.org |
+| marketing.net.jumia.com.gh | tr-jumia-com-gh.affex.org |
 | luna.r.lafamo.com | tr-lafamo-com.affex.org |
 | ssl.affiliate.logitravel.com | tr-logitravel-com.affex.org |
+| dnsbl.test.marketing.tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
 | marketing.tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
 | nsm.tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
 | tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
 | neso.r.niwepa.com | tr-niwepa-com.affex.org |
 | marketing.net.occhiali24.it | tr-occhiali24-it.affex.org |
-| pny.net.penny.de | tr-penny-de.affex.org |
+| winter.net.penny.de | tr-penny-de.affex.org |
 | pluto.r.powuta.com | tr-powuta-com.affex.org |
-| net.tradeers.de | tradeers-de.affex.org |
-| www.net.tradeers.de | tradeers-de.affex.org |
+| marketing.net.zooroyal.at | tr-zooroyal-at.affex.org |
 | 01knar6bpj1ntn7vgxjfstsdpr.net.carrefour.es | traefik-production.secure-traffic.com |
 | 125.net.jumia.co.ke | traefik-production.secure-traffic.com |
 | 176.net.jumia.ma | traefik-production.secure-traffic.com |
+| 2.net.jumia.sn | traefik-production.secure-traffic.com |
 | 3210zyxw.net.shop.com.mm | traefik-production.secure-traffic.com |
 | 63-217-112-145.static.pccwglobal.net.iberostar.com | traefik-production.secure-traffic.com |
 | 68-175.net.jumia.co.ke | traefik-production.secure-traffic.com |
@@ -52595,10 +52635,12 @@
 | csr21-ids.net.anwalt.de | traefik-production.secure-traffic.com |
 | csr21.net.home24.de | traefik-production.secure-traffic.com |
 | csr31test1.net.anwalt.de | traefik-production.secure-traffic.com |
+| csr80.net.zooroyal.de | traefik-production.secure-traffic.com |
 | cust01-cucm-sub-07-cl6.int.net.jumia.ug | traefik-production.secure-traffic.com |
 | dc01p-net-sslvpn0-ra.net.jumia.com.gh | traefik-production.secure-traffic.com |
 | dclnxirp001cou.net.jumia.co.tz | traefik-production.secure-traffic.com |
 | dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com | traefik-production.secure-traffic.com |
+| dev.net.jumia.ma | traefik-production.secure-traffic.com |
 | disney.net.mydays.de | traefik-production.secure-traffic.com |
 | dit.whatsapp.net.iberostar.com | traefik-production.secure-traffic.com |
 | dls-b23-link.ip.twelve99.net.iberostar.com | traefik-production.secure-traffic.com |
@@ -52651,6 +52693,7 @@
 | externalapi.r.jakuli.com | traefik-production.secure-traffic.com |
 | exto69iay0p.r.jakuli.com | traefik-production.secure-traffic.com |
 | family.net.dz.jumia.com | traefik-production.secure-traffic.com |
+| family.net.jumia.co.ke | traefik-production.secure-traffic.com |
 | fbcdn.net.iberostar.com | traefik-production.secure-traffic.com |
 | feature-fix.net.mydays.de | traefik-production.secure-traffic.com |
 | find.api.micloud.xiaomi.net.iberostar.com | traefik-production.secure-traffic.com |
@@ -52667,6 +52710,7 @@
 | frontpagelucene.net.contorion.de | traefik-production.secure-traffic.com |
 | frontpagemarketing.net.home24.de | traefik-production.secure-traffic.com |
 | frontpagewww.r.jakuli.com | traefik-production.secure-traffic.com |
+| frosty-staging-pay.net.jumia.ug | traefik-production.secure-traffic.com |
 | fse.net.anwalt.de | traefik-production.secure-traffic.com |
 | ftwnwght.net.anwalt.de | traefik-production.secure-traffic.com |
 | fulmar.net.anwalt.de | traefik-production.secure-traffic.com |
@@ -52709,6 +52753,7 @@
 | ig.cubegroup.pl | traefik-production.secure-traffic.com |
 | img.affiliate.logitravel.com | traefik-production.secure-traffic.com |
 | img.net.brillen.de | traefik-production.secure-traffic.com |
+| img.net.home24.com | traefik-production.secure-traffic.com |
 | img.service.belboon.com | traefik-production.secure-traffic.com |
 | img.system.netsalesmedia.pl | traefik-production.secure-traffic.com |
 | info.net.jumia.co.ke | traefik-production.secure-traffic.com |
@@ -53011,6 +53056,7 @@
 | tx-pro-pull.kwai.net.iberostar.com | traefik-production.secure-traffic.com |
 | txv2-br-cdn.kwai.net.iberostar.com | traefik-production.secure-traffic.com |
 | tyumen.net.anwalt.de | traefik-production.secure-traffic.com |
+| u.net.jumia.ci | traefik-production.secure-traffic.com |
 | uauline.net.mydays.de | traefik-production.secure-traffic.com |
 | uh6-chef.net.rewe.de | traefik-production.secure-traffic.com |
 | uh6.sentinel.net.rewe.de | traefik-production.secure-traffic.com |
@@ -53144,4 +53190,4 @@
 | zoomscs81tg.net.mydays.de | traefik-production.secure-traffic.com |
 | zoomtr33mmr.net.mydays.de | traefik-production.secure-traffic.com |
 | zpft7f2fwnmarket.net.mydays.de | traefik-production.secure-traffic.com |
-| csr80.net.zooroyal.de | zooroyal-de.affex.org |
+| net.zooroyal.de | zooroyal-de.affex.org |

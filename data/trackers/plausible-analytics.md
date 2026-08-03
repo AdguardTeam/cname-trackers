@@ -142,7 +142,6 @@
 | plauplauplau.app.budg.co | custom.plausible.io |
 | plauplauplau.budg.co | custom.plausible.io |
 | plaus.outpost.pub | custom.plausible.io |
-| plaus.pentserv.com | custom.plausible.io |
 | plausdj2ajskljzx0ikwkiasible.ethics.info | custom.plausible.io |
 | plausible-stats.tangodelta.media | custom.plausible.io |
 | plausible.adreform.com | custom.plausible.io |
@@ -581,7 +580,6 @@
 | stats.passwordyeti.com | custom.plausible.io |
 | stats.pastorwagner.com | custom.plausible.io |
 | stats.patriot.win | custom.plausible.io |
-| stats.paulronge.se | custom.plausible.io |
 | stats.paysagistes.pro | custom.plausible.io |
 | stats.pebkac.io | custom.plausible.io |
 | stats.pendleratlas.de | custom.plausible.io |

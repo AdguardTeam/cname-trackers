@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -139,6 +139,7 @@ app.uob.co.th CNAME .
 app.uob.com.my CNAME .
 app.uob.com.sg CNAME .
 app01.cnt.bdo.com.ph CNAME .
+app01.cnt.uat.bdo.com.ph CNAME .
 app392.gerberlife.com CNAME .
 applibs.fglife.com CNAME .
 applicant.rbfcu.org CNAME .
@@ -789,6 +790,7 @@ jpubs.zodia.io CNAME .
 jytrnq.cm-cic.com CNAME .
 kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
+lexengine.kamet.mx CNAME .
 lexis.ourtrip.com.br CNAME .
 lght.loberon.com CNAME .
 line.bd.com CNAME .
@@ -957,12 +959,14 @@ prod-lfcuva.chaperone.lumindigitalhosting.com CNAME .
 prod-michedcu.chaperone.lumindigitalhosting.com CNAME .
 prod-mscuct.chaperone.lumindigitalhosting.com CNAME .
 prod-navigator.chaperone.lumindigitalhosting.com CNAME .
+prod-neighbors-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-njfcunj.chaperone.lumindigitalhosting.com CNAME .
 prod-northland.chaperone.lumindigitalhosting.com CNAME .
 prod-oneaz.chaperone.lumindigitalhosting.com CNAME .
 prod-orangeccu-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-pacservice.chaperone.lumindigitalhosting.com CNAME .
 prod-pathways.chaperone.lumindigitalhosting.com CNAME .
+prod-pointbreeze-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-prospera.chaperone.lumindigitalhosting.com CNAME .
 prod-redcanoe.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .

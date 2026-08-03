@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -294,6 +294,7 @@ www.ads.environmentalleader.com CNAME .
 www.ads.proxibid.com CNAME .
 www.adserver.sniffies.com CNAME .
 www.adserver.sonicplug.com CNAME .
+www.adv.consulcesi.it CNAME .
 www.adwin.geenstijl.nl CNAME .
 www.api.ad.logic-prod.viasat.io CNAME .
 www.api.ad.logic-test.viasat.io CNAME .

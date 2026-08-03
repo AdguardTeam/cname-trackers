@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -311,22 +311,13 @@ money.mioweb.cz CNAME .
 my.11teamsports.bg CNAME .
 my.11teamsports.com CNAME .
 my.11teamsports.cy CNAME .
-my.11teamsports.cz CNAME .
 my.11teamsports.dk CNAME .
 my.11teamsports.ee CNAME .
-my.11teamsports.es CNAME .
 my.11teamsports.fi CNAME .
-my.11teamsports.gr CNAME .
 my.11teamsports.hr CNAME .
-my.11teamsports.hu CNAME .
-my.11teamsports.ie CNAME .
 my.11teamsports.lt CNAME .
-my.11teamsports.pl CNAME .
-my.11teamsports.pt CNAME .
-my.11teamsports.ro CNAME .
 my.11teamsports.se CNAME .
 my.11teamsports.si CNAME .
-my.11teamsports.sk CNAME .
 my.fr.top4running.be CNAME .
 my.kickz.com CNAME .
 my.top4fitness.cz CNAME .
@@ -334,42 +325,31 @@ my.top4fitness.gr CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
-my.top4running.ch CNAME .
 my.top4running.com CNAME .
 my.top4running.cy CNAME .
-my.top4running.cz CNAME .
-my.top4running.de CNAME .
 my.top4running.dk CNAME .
-my.top4running.es CNAME .
 my.top4running.fi CNAME .
-my.top4running.fr CNAME .
 my.top4running.hr CNAME .
 my.top4running.hu CNAME .
 my.top4running.ie CNAME .
-my.top4running.it CNAME .
 my.top4running.nl CNAME .
 my.top4running.pl CNAME .
 my.top4running.pt CNAME .
 my.top4running.ro CNAME .
 my.top4running.se CNAME .
 my.top4running.si CNAME .
-my.top4running.sk CNAME .
-my.top4sport.cz CNAME .
 my.top4sport.hu CNAME .
 my.top4sport.ro CNAME .
 my.volleybaldirect.nl CNAME .
 my.weplaybasketball.bg CNAME .
-my.weplaybasketball.cz CNAME .
 my.weplaybasketball.de CNAME .
 my.weplaybasketball.ee CNAME .
 my.weplaybasketball.gr CNAME .
 my.weplaybasketball.hu CNAME .
 my.weplaybasketball.ro CNAME .
 my.weplaybasketball.si CNAME .
-my.weplaybasketball.sk CNAME .
 my.weplayhandball.bg CNAME .
 my.weplayhandball.ch CNAME .
-my.weplayhandball.cz CNAME .
 my.weplayhandball.de CNAME .
 my.weplayhandball.es CNAME .
 my.weplayhandball.eu CNAME .
@@ -382,10 +362,8 @@ my.weplayhandball.nl CNAME .
 my.weplayhandball.pl CNAME .
 my.weplayhandball.ro CNAME .
 my.weplayhandball.si CNAME .
-my.weplayhandball.sk CNAME .
 my.weplayvolleyball.bg CNAME .
 my.weplayvolleyball.ch CNAME .
-my.weplayvolleyball.cz CNAME .
 my.weplayvolleyball.de CNAME .
 my.weplayvolleyball.es CNAME .
 my.weplayvolleyball.fr CNAME .
@@ -396,7 +374,6 @@ my.weplayvolleyball.lt CNAME .
 my.weplayvolleyball.pl CNAME .
 my.weplayvolleyball.ro CNAME .
 my.weplayvolleyball.si CNAME .
-my.weplayvolleyball.sk CNAME .
 objevuj.amazingplaces.cz CNAME .
 odporuc.shopiam4u.sk CNAME .
 online.pdfknihovna.cz CNAME .
@@ -594,7 +571,6 @@ partner.lekarna.cz CNAME .
 partner.lemurak.cz CNAME .
 partner.lenkahomeopatie.cz CNAME .
 partner.levanduloveudoli.cz CNAME .
-partner.levanduloveudolie.sk CNAME .
 partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
 partner.lifelinediag.cz CNAME .
@@ -966,6 +942,7 @@ spoluprace.prostor8.cz CNAME .
 spoluprace.sikland.cz CNAME .
 spoluprace.skolnitriko.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
+spoluprace.tibabu.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
 spoluprace.vivobarefoot.cz CNAME .
 tracking.pleddu.com CNAME .

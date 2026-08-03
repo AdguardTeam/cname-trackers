@@ -299,7 +299,6 @@
 ||cheetah.stolenboats.info^
 ||cheetah.zeh.co.il^
 ||chickadee.mikebifulco.com^
-||chickadee.och.dev^
 ||chickadee.serverlessfirst.com^
 ||chicken.alpla.info^
 ||chicken.clerklabs.com^
@@ -310,13 +309,13 @@
 ||chimpanzee.designerdailyreport.com^
 ||chinchilla.68keys.io^
 ||chipmunk.sqltoapi.com^
+||cicada.getgust.com^
 ||clam.mglaman.dev^
 ||clownfish.elihorne.com^
 ||clownfish.onvard.de^
 ||clownfish.philipkiely.com^
 ||clownfish.wrestlingiq.com^
 ||cockroach.head4work.com.au^
-||cockroach.no.mortgage^
 ||cod.governmentaladvisory.com^
 ||cod.onemanandhisblog.com^
 ||cod.serverlesslaravelcourse.com^
@@ -415,7 +414,6 @@
 ||finch.market.xyz^
 ||firefly.jamesbrowne.me^
 ||fish.muted.io^
-||fish.trampoline.cx^
 ||fjikgr.dennmart.com^
 ||flamingo.abihome.de^
 ||flamingo.podcast.taxi^
@@ -558,7 +556,6 @@
 ||ks42zt.spec.fm^
 ||ladybug.ficabo.com^
 ||ladybug.paulstovell.com^
-||lamprey.carolcassar.com^
 ||lamprey.discoform.com^
 ||lamprey.seagyndavis.com^
 ||landfowl.agoredbuild.com^
@@ -743,7 +740,6 @@
 ||prawn.lionsmouth.digital^
 ||primate.logology.co^
 ||primate.oleggera.com^
-||primate.philipithomas.com^
 ||primate.productcolors.com^
 ||ptarmigan.codebycorey.com^
 ||ptarmigan.goudieworks.co^
@@ -850,7 +846,6 @@
 ||swan.visualma.com^
 ||swift.avenue.so^
 ||swift.ciudadanob.com^
-||swift.jos.ht^
 ||swift.radio12.org^
 ||swift.vanuitjehuis.nl^
 ||swordfish.elvietanny.com^

@@ -130,7 +130,6 @@ plau.devitjobs.us
 plauplauplau.app.budg.co
 plauplauplau.budg.co
 plaus.outpost.pub
-plaus.pentserv.com
 plausdj2ajskljzx0ikwkiasible.ethics.info
 plausible-stats.tangodelta.media
 plausible.adreform.com
@@ -569,7 +568,6 @@ stats.parqet.com
 stats.passwordyeti.com
 stats.pastorwagner.com
 stats.patriot.win
-stats.paulronge.se
 stats.paysagistes.pro
 stats.pebkac.io
 stats.pendleratlas.de

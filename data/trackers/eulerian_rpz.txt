@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,7 +50,6 @@ ac1.amphitheatrecogeco.com CNAME .
 ae35oceb.eulerian.io CNAME .
 agzx.terrassewilliamgray.com CNAME .
 al.futuroscope.com CNAME .
-ali8.alinea.fr CNAME .
 am.belambra.co.uk CNAME .
 am.belambra.com CNAME .
 anz7.allianz-voyage.fr CNAME .
@@ -73,6 +72,8 @@ bn.voyage-prive.com CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
+c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c45cc75f.eulerian.io CNAME .
 c4dv.copinesdevoyage.com CNAME .
 c4fyt.tremblant.ca CNAME .
@@ -93,8 +94,11 @@ csv4.ebs-paris.fr CNAME .
 ct.creditec.fr CNAME .
 ct5m.citadium.com CNAME .
 ct6.chansontadoussac.com CNAME .
+ctr5.culture3r.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
+d0f.le-dauphin.com CNAME .
+d2u.dauphinquebec.com CNAME .
 d62e9cfa.eulerian.io CNAME .
 da85edd2.eulerian.io CNAME .
 de48cadb.eulerian.io CNAME .
@@ -102,6 +106,7 @@ deut2.fdj.fr CNAME .
 deut3.fdj.fr CNAME .
 dgj2.palladiumhotelgroup.com CNAME .
 dknd.cocottebistro.com CNAME .
+dlc9.destinia.ae CNAME .
 doa3a792.eulerian.io CNAME .
 dp1.duceppe.com CNAME .
 dv59b.montecarlomeeting.com CNAME .
@@ -193,6 +198,7 @@ ek8.voyage-prive.com CNAME .
 erdev3.eulerian.io CNAME .
 erdi.vacations.united.com CNAME .
 ert5.rmcsport.tv CNAME .
+esd5.espacestdenis.com CNAME .
 et.futuroscope.com CNAME .
 et.sncf.com CNAME .
 etca.evenementstremblant.ca CNAME .
@@ -201,8 +207,6 @@ eule3.pmu.fr CNAME .
 eule4.pmu.fr CNAME .
 eule5.pmu.fr CNAME .
 euler.pmu.fr CNAME .
-eulerian.alinea.fr CNAME .
-eulerian.astro-way.com CNAME .
 eulerian.belambra.be CNAME .
 eulerian.belambra.fr CNAME .
 eulerian.canal-plus.com CNAME .
@@ -248,6 +252,7 @@ fe.futuroscope.com CNAME .
 fl5dpe.oui.sncf CNAME .
 flmb.cheapcaribbean.com CNAME .
 fma7.aegon.es CNAME .
+fnc2.nouveaucinema.ca CNAME .
 fpb8.esce.fr CNAME .
 fsz1.francoisesaget.be CNAME .
 fsz1.francoisesaget.com CNAME .
@@ -268,9 +273,9 @@ grht.perchemtl.com CNAME .
 gsg9.carrefour-banque.fr CNAME .
 gt1.grandtheatre.qc.ca CNAME .
 hby7.destinia.it CNAME .
+hc8bb6oa.eulerian.io CNAME .
 hcbh4bah.eulerian.io CNAME .
 hgf4.zanzicar.fr CNAME .
-hk2d.tourismemauricie.com CNAME .
 hsae.beachbound.com CNAME .
 idg1.idgarages.com CNAME .
 igc0.destinia.at CNAME .
@@ -408,6 +413,7 @@ sa.skoda.fr CNAME .
 sa.skodafabia.fr CNAME .
 sa.skodasuperb.fr CNAME .
 sd.securitasdirect.fr CNAME .
+sd7.salledesilets.com CNAME .
 se.mistermenuiserie.com CNAME .
 sfp7.eco-conscient.com CNAME .
 sis8.premieremoisson.com CNAME .
@@ -422,7 +428,6 @@ ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
 st2.sat.qc.ca CNAME .
 st9.sorstu.ca CNAME .
-su1.les-suites.ca CNAME .
 sxbj.gasparmtl.com CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.fr CNAME .
@@ -505,13 +510,11 @@ zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 5fm.985fm.ca CNAME .
-c0i.ckoi.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
-d0f.le-dauphin.com CNAME .
-d2u.dauphinquebec.com CNAME .
 erb.tremblant.ca CNAME .
+hk2d.tourismemauricie.com CNAME .
 l2i.qualityinnlevis.com CNAME .
 rwl.tremblant.ca CNAME .
+su1.les-suites.ca CNAME .
 t0y.toyota.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .

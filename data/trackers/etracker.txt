@@ -16,6 +16,7 @@
 ||atrdb.laeckerli-huus.ch^
 ||auszeichnungen.pokale-nrw.de^
 ||b54.bude54.de^
+||b5n234m92.dehoga-campus.de^
 ||bb.novafon.com^
 ||betterdata.kruu.com^
 ||bmkt.bernhardtmoden.de^
@@ -71,6 +72,7 @@
 ||et.electronic4you.hr^
 ||et.electronic4you.si^
 ||et.equiva.com^
+||et.evita-energie.de^
 ||et.go-kmu.de^
 ||et.goal-based.investments^
 ||et.hv-bayern.de^
@@ -108,6 +110,7 @@
 ||et.smartlabarchitects.com^
 ||et.spirularin-hf.de^
 ||et.spirularin-muster.de^
+||et.trendvoice.ai^
 ||et.university-of-labour.de^
 ||et.vbvorpommern.de^
 ||et.xenbyte.com^
@@ -331,6 +334,7 @@
 ||umerf.fernerblick.at^
 ||umerf.reisprinzen.de^
 ||vault.derby.de^
+||vault.derbymed.eu^
 ||vault.graeub-shop.ch^
 ||vault.hoeveler.com^
 ||vault.livisto-shop.de^
@@ -344,6 +348,7 @@
 ||wctr.hoeping.de^
 ||wctr.khk-karlsruhe.de^
 ||wctr.kunststoff-schachtabdeckungen.com^
+||wctr.maschinenprofi.de^
 ||wctr.menkenunddrees.de^
 ||wctr.mm-germany.com^
 ||wctr.moenninghoff.net^
@@ -371,6 +376,7 @@
 ||webcontr.aquarius-prolife.com^
 ||webcontr.aulairenicus.de^
 ||webcontr.barcodescanner.de^
+||webcontr.barvour.com^
 ||webcontr.baulogistik-online.de^
 ||webcontr.beautyavenue.de^
 ||webcontr.bet-at-home.com^
@@ -379,6 +385,7 @@
 ||webcontr.caso-design.de^
 ||webcontr.chairgo.de^
 ||webcontr.chiptuning.com^
+||webcontr.coolinato.de^
 ||webcontr.crazy-heels.com^
 ||webcontr.derzweig.de^
 ||webcontr.distrebution.com^
@@ -389,6 +396,7 @@
 ||webcontr.epig-media.de^
 ||webcontr.fsj-digital-bw.de^
 ||webcontr.garp.de^
+||webcontr.garten-von-ehren.de^
 ||webcontr.genius.tv^
 ||webcontr.goodbean.coffee^
 ||webcontr.haferloewe.de^
@@ -405,6 +413,7 @@
 ||webcontr.kontor4.de^
 ||webcontr.kues-selm.de^
 ||webcontr.l.de^
+||webcontr.labelup.io^
 ||webcontr.leisure.one^
 ||webcontr.lhbl.de^
 ||webcontr.lindy.com^

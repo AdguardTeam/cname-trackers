@@ -747,8 +747,6 @@
 ||tr.news.a2micile.com^
 ||tr.news.ailleurs.com^
 ||tr.news.alcyon.com^
-||tr.news.alinea.com^
-||tr.news.alinea.fr^
 ||tr.news.allopneus.com^
 ||tr.news.apotamox.com^
 ||tr.news.aramisauto.com^
@@ -1043,7 +1041,6 @@
 ||tr.safrancom-esp.net^
 ||tr.sash.espmp-aufr.net^
 ||tr.sash02g.espmp-nifr.net^
-||tr.satisfaction.alinea.com^
 ||tr.satisfaction.groupe-pv-cp.com^
 ||tr.satisfaction.villagesnature.com^
 ||tr.schj.espmp-aufr.net^
@@ -1068,7 +1065,6 @@
 ||tr.serviceclient.younited-coach.com^
 ||tr.serviceclient.younited-credit.com^
 ||tr.servicerisque.bforbank.com^
-||tr.services.alinea.com^
 ||tr.services.caradisiac.com^
 ||tr.servicesclients.canalplus.ch^
 ||tr.servicesclients.canalplus.fr^

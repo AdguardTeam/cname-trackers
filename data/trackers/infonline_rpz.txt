@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 0186141170.apps.iocnt.de CNAME .
 39db8b138f.apps.iocnt.de CNAME .
 5bf0fdacd2.apps.iocnt.de CNAME .
-acksrc.chip.de CNAME .
 at_w_atexxpressdata-c3a3188a23.exxpress.at CNAME .
 c4b720ded1.apps.iocnt.de CNAME .
 data-0034231193.apps.iocnt.de CNAME .
@@ -664,6 +663,7 @@ data-50c00d5d12.techbook.de CNAME .
 data-50d39a5d3f.diepresse.com CNAME .
 data-50de2f2b04.focus.de CNAME .
 data-50de2f2b04.netmoms.de CNAME .
+data-512cafb4f7.addradio.de CNAME .
 data-512cafb4f7.radiowaf.de CNAME .
 data-512cafb4f7.radiowafhilft.de CNAME .
 data-513a50551b.psychologie-heute.de CNAME .
@@ -1678,6 +1678,7 @@ data-d61ee02db0.pirsch.de CNAME .
 data-d6484416fd.maclife.de CNAME .
 data-d6485d3579.playboy.de CNAME .
 data-d67a03d16c.meintophotel.de CNAME .
+data-d687fc47c0.11freunde.de CNAME .
 data-d69d9a5415.aachen.de CNAME .
 data-d6b0abd16f.apps.iocnt.de CNAME .
 data-d6e13c60e8.orf.at CNAME .
@@ -2071,4 +2072,5 @@ vote.apps.iocnt.de CNAME .
 www.apps.iocnt.de CNAME .
 www2.dk-online.de CNAME .
 xnasldata-63224ea7ba.apps.iocnt.de CNAME .
+acksrc.chip.de CNAME .
 source-66584305d5.mainpost.de CNAME .

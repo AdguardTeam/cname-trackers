@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -121,18 +121,15 @@ www.trevoce.com CNAME .
 acq.discover.com CNAME .
 acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
+circleofjoy.circlesurrogacy.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
 em2287.theory.com CNAME .
 em3007.wagwalking.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
-em7147.love.suncoastcreditunion.com CNAME .
 em7952.dailypay.com CNAME .
-em8031.soundcloud.com CNAME .
-em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -255,6 +252,7 @@ refer.giantfood.com CNAME .
 refer.glamglow.com CNAME .
 refer.globalknowledge.com CNAME .
 refer.gnc.com CNAME .
+refer.golden1.com CNAME .
 refer.gopetplan.ca CNAME .
 refer.gopetplan.com CNAME .
 refer.gpsinsight.com CNAME .
@@ -408,6 +406,7 @@ refer.tomorrowsleep.com CNAME .
 refer.tous.com CNAME .
 refer.truwest.org CNAME .
 refer.twisthair.com CNAME .
+refer.txu.com CNAME .
 refer.udemy.com CNAME .
 refer.underarmour.co.uk CNAME .
 refer.underarmour.de CNAME .
@@ -552,7 +551,6 @@ share.empireaccess.com CNAME .
 share.ent.com CNAME .
 share.enterprisenews.com CNAME .
 share.enzocustom.com CNAME .
-share.esteelauder.co.kr CNAME .
 share.esteelauder.com.tw CNAME .
 share.ets.org CNAME .
 share.evine.com CNAME .
@@ -681,7 +679,6 @@ share.refer-cliniquekorea.co.kr CNAME .
 share.refer-darphin.com CNAME .
 share.refer-darphin.fr CNAME .
 share.refer-esteelauder.ca CNAME .
-share.refer-esteelauder.com.hk CNAME .
 share.refer-esteelauder.jp CNAME .
 share.refer-glamglow.com CNAME .
 share.refer-maccosmetics.ca CNAME .
@@ -723,7 +720,6 @@ share.stargazette.com CNAME .
 share.starone.org CNAME .
 share.statesmanjournal.com CNAME .
 share.stiltzlifts.com CNAME .
-share.stockpile.com CNAME .
 share.stopagingnow.com CNAME .
 share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
@@ -791,16 +787,19 @@ www.referquickbooks.com CNAME .
 www.rob.extoleu.com CNAME .
 www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
+em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
+em8031.soundcloud.com CNAME .
 em8561.go2bank.com CNAME .
 em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
 em9129.lightstream.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9290.carparts.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
 em9523.walmartmoneycard.com CNAME .
@@ -808,6 +807,7 @@ emxxxx.rent.app CNAME .
 xtl._domainkey.dailypay.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.hollandamerica.com CNAME .
+xtl._domainkey.mail.propertyperks.xfinity.com CNAME .
 xtl._domainkey.mail.raf.xfinity.com CNAME .
 xtl._domainkey.notifications.acorns.com CNAME .
 xtl._domainkey.referral.quickbooks.co.uk CNAME .

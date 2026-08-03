@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ assets.telefonanlage-shop.de CNAME .
 atrdb.laeckerli-huus.ch CNAME .
 auszeichnungen.pokale-nrw.de CNAME .
 b54.bude54.de CNAME .
+b5n234m92.dehoga-campus.de CNAME .
 bb.novafon.com CNAME .
 betterdata.kruu.com CNAME .
 bmkt.bernhardtmoden.de CNAME .
@@ -82,6 +83,7 @@ et.electronic4you.de CNAME .
 et.electronic4you.hr CNAME .
 et.electronic4you.si CNAME .
 et.equiva.com CNAME .
+et.evita-energie.de CNAME .
 et.go-kmu.de CNAME .
 et.goal-based.investments CNAME .
 et.hv-bayern.de CNAME .
@@ -119,6 +121,7 @@ et.sectornord.de CNAME .
 et.smartlabarchitects.com CNAME .
 et.spirularin-hf.de CNAME .
 et.spirularin-muster.de CNAME .
+et.trendvoice.ai CNAME .
 et.university-of-labour.de CNAME .
 et.vbvorpommern.de CNAME .
 et.xenbyte.com CNAME .
@@ -342,6 +345,7 @@ uezeus.ueberbit.de CNAME .
 umerf.fernerblick.at CNAME .
 umerf.reisprinzen.de CNAME .
 vault.derby.de CNAME .
+vault.derbymed.eu CNAME .
 vault.graeub-shop.ch CNAME .
 vault.hoeveler.com CNAME .
 vault.livisto-shop.de CNAME .
@@ -355,6 +359,7 @@ wctr.bodenverkauf.de CNAME .
 wctr.hoeping.de CNAME .
 wctr.khk-karlsruhe.de CNAME .
 wctr.kunststoff-schachtabdeckungen.com CNAME .
+wctr.maschinenprofi.de CNAME .
 wctr.menkenunddrees.de CNAME .
 wctr.mm-germany.com CNAME .
 wctr.moenninghoff.net CNAME .
@@ -382,6 +387,7 @@ webcontr.4pace.com CNAME .
 webcontr.aquarius-prolife.com CNAME .
 webcontr.aulairenicus.de CNAME .
 webcontr.barcodescanner.de CNAME .
+webcontr.barvour.com CNAME .
 webcontr.baulogistik-online.de CNAME .
 webcontr.beautyavenue.de CNAME .
 webcontr.bet-at-home.com CNAME .
@@ -390,6 +396,7 @@ webcontr.bonbonladenundfeines.de CNAME .
 webcontr.caso-design.de CNAME .
 webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
+webcontr.coolinato.de CNAME .
 webcontr.crazy-heels.com CNAME .
 webcontr.derzweig.de CNAME .
 webcontr.distrebution.com CNAME .
@@ -400,6 +407,7 @@ webcontr.domondo.pl CNAME .
 webcontr.epig-media.de CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.garp.de CNAME .
+webcontr.garten-von-ehren.de CNAME .
 webcontr.genius.tv CNAME .
 webcontr.goodbean.coffee CNAME .
 webcontr.haferloewe.de CNAME .
@@ -416,6 +424,7 @@ webcontr.kitchen-concept.de CNAME .
 webcontr.kontor4.de CNAME .
 webcontr.kues-selm.de CNAME .
 webcontr.l.de CNAME .
+webcontr.labelup.io CNAME .
 webcontr.leisure.one CNAME .
 webcontr.lhbl.de CNAME .
 webcontr.lindy.com CNAME .

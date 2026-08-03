@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,7 +52,6 @@ a8.biglobe.openplat.jp CNAME .
 a8.biz.ne.jp CNAME .
 a8.biziphone.com CNAME .
 a8.boco.co.jp CNAME .
-a8.bon-quish.jp CNAME .
 a8.bousui-pro.com CNAME .
 a8.brandcosme.com CNAME .
 a8.brandkaimasu.com CNAME .
@@ -63,7 +62,6 @@ a8.careecen-shukatsu-agent.com CNAME .
 a8.careerpark.jp CNAME .
 a8.casie.jp CNAME .
 a8.cbd-oil.jp CNAME .
-a8.cbdfx.jp CNAME .
 a8.centarc.com CNAME .
 a8.chat-lady.jp CNAME .
 a8.choole.jp CNAME .
@@ -84,6 +82,7 @@ a8.cyclemarket.jp CNAME .
 a8.cypris-online.jp CNAME .
 a8.daredemomobile.com CNAME .
 a8.de-limmo.jp CNAME .
+a8.deep2031.com CNAME .
 a8.denki-koji.work CNAME .
 a8.denki-tatsujin.com CNAME .
 a8.denki.dokoyorimo.jp CNAME .
@@ -340,7 +339,6 @@ a8.vtuber.sexy CNAME .
 a8.watero.pet CNAME .
 a8.web-hikari.net CNAME .
 a8.webdeki.com CNAME .
-a8.webist-cri.com CNAME .
 a8.wemotion.co.jp CNAME .
 a8.wifi-fami.com CNAME .
 a8.wifi-tokyo-rentalshop.com CNAME .
@@ -962,7 +960,6 @@ a8cv.hoken-laundry.com CNAME .
 a8cv.holo-bell.com CNAME .
 a8cv.homepage296.com CNAME .
 a8cv.honeys-onlineshop.com CNAME .
-a8cv.hoppin-garage.com CNAME .
 a8cv.hor.jp CNAME .
 a8cv.hotyoga-loive.com CNAME .
 a8cv.houjin-keitai.com CNAME .
@@ -1000,7 +997,6 @@ a8cv.joy-karaokerental.com CNAME .
 a8cv.jp-shop.kiwabi.com CNAME .
 a8cv.jp.metrocityworld.com CNAME .
 a8cv.jp.redodopower.com CNAME .
-a8cv.k-ikiiki.jp CNAME .
 a8cv.kagoya.jp CNAME .
 a8cv.kaimonoform.com CNAME .
 a8cv.kaiteki.gr.jp CNAME .
@@ -1090,7 +1086,6 @@ a8cv.nikugatodoke.com CNAME .
 a8cv.nippon-olive.co.jp CNAME .
 a8cv.nipt-clinic.jp CNAME .
 a8cv.nittei-group-alliance.com CNAME .
-a8cv.norikae-cashback.com CNAME .
 a8cv.o-juku.com CNAME .
 a8cv.o-ken.com CNAME .
 a8cv.oceanprincess.jp CNAME .

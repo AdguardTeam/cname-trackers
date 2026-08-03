@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -310,7 +310,6 @@ cheetah.songrender.com CNAME .
 cheetah.stolenboats.info CNAME .
 cheetah.zeh.co.il CNAME .
 chickadee.mikebifulco.com CNAME .
-chickadee.och.dev CNAME .
 chickadee.serverlessfirst.com CNAME .
 chicken.alpla.info CNAME .
 chicken.clerklabs.com CNAME .
@@ -321,13 +320,13 @@ chicken.zwei.haus CNAME .
 chimpanzee.designerdailyreport.com CNAME .
 chinchilla.68keys.io CNAME .
 chipmunk.sqltoapi.com CNAME .
+cicada.getgust.com CNAME .
 clam.mglaman.dev CNAME .
 clownfish.elihorne.com CNAME .
 clownfish.onvard.de CNAME .
 clownfish.philipkiely.com CNAME .
 clownfish.wrestlingiq.com CNAME .
 cockroach.head4work.com.au CNAME .
-cockroach.no.mortgage CNAME .
 cod.governmentaladvisory.com CNAME .
 cod.onemanandhisblog.com CNAME .
 cod.serverlesslaravelcourse.com CNAME .
@@ -426,7 +425,6 @@ ferret.linksoftwarellc.com CNAME .
 finch.market.xyz CNAME .
 firefly.jamesbrowne.me CNAME .
 fish.muted.io CNAME .
-fish.trampoline.cx CNAME .
 fjikgr.dennmart.com CNAME .
 flamingo.abihome.de CNAME .
 flamingo.podcast.taxi CNAME .
@@ -569,7 +567,6 @@ krill.swiss-uke.ch CNAME .
 ks42zt.spec.fm CNAME .
 ladybug.ficabo.com CNAME .
 ladybug.paulstovell.com CNAME .
-lamprey.carolcassar.com CNAME .
 lamprey.discoform.com CNAME .
 lamprey.seagyndavis.com CNAME .
 landfowl.agoredbuild.com CNAME .
@@ -754,7 +751,6 @@ prairiedog.xview.us CNAME .
 prawn.lionsmouth.digital CNAME .
 primate.logology.co CNAME .
 primate.oleggera.com CNAME .
-primate.philipithomas.com CNAME .
 primate.productcolors.com CNAME .
 ptarmigan.codebycorey.com CNAME .
 ptarmigan.goudieworks.co CNAME .
@@ -861,7 +857,6 @@ swallow.pelias.io CNAME .
 swan.visualma.com CNAME .
 swift.avenue.so CNAME .
 swift.ciudadanob.com CNAME .
-swift.jos.ht CNAME .
 swift.radio12.org CNAME .
 swift.vanuitjehuis.nl CNAME .
 swordfish.elvietanny.com CNAME .

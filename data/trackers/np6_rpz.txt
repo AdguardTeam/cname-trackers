@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -758,8 +758,6 @@ tr.news.a-t.fr CNAME .
 tr.news.a2micile.com CNAME .
 tr.news.ailleurs.com CNAME .
 tr.news.alcyon.com CNAME .
-tr.news.alinea.com CNAME .
-tr.news.alinea.fr CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.apotamox.com CNAME .
 tr.news.aramisauto.com CNAME .
@@ -1054,7 +1052,6 @@ tr.roxi02e.espmp-agfr.net CNAME .
 tr.safrancom-esp.net CNAME .
 tr.sash.espmp-aufr.net CNAME .
 tr.sash02g.espmp-nifr.net CNAME .
-tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.satisfaction.villagesnature.com CNAME .
 tr.schj.espmp-aufr.net CNAME .
@@ -1079,7 +1076,6 @@ tr.serviceclient.thermogaz.fr CNAME .
 tr.serviceclient.younited-coach.com CNAME .
 tr.serviceclient.younited-credit.com CNAME .
 tr.servicerisque.bforbank.com CNAME .
-tr.services.alinea.com CNAME .
 tr.services.caradisiac.com CNAME .
 tr.servicesclients.canalplus.ch CNAME .
 tr.servicesclients.canalplus.fr CNAME .

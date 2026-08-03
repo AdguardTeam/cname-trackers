@@ -194,6 +194,7 @@
     * chicos.extole.io
     * chicosofftherack.extole.io
     * cinemark.extole.io
+    * circlesurrogacy.extole.io
     * citizen.extole.io
     * cityfurniture.extole.io
     * clarksusa.extole.io
@@ -248,9 +249,7 @@
     * enzocustom.extole.io
     * eset.extole.io
     * estee-lauder-ca.extole.io
-    * esteelauder-kr.extole.io
     * esteelauder.extole.io
-    * esteelauderhk.extole.io
     * esteelauderjp.extole.io
     * etrade.extole.io
     * ets.extole.io
@@ -287,6 +286,7 @@
     * glowbar.extole.io
     * gnc.extole.io
     * go2bank.extole.io
+    * golden1.extole.io
     * gpsinsight.extole.io
     * granitegaragefloors.extole.io
     * greenlightcard.extole.io
@@ -446,7 +446,6 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
-    * quickbooks.em.extole.io
     * quickbooks.extole.io
     * quickbooksintuituk.extole.io
     * quickstart.extole.io
@@ -501,24 +500,20 @@
     * smashbox.extole.io
     * snap-finance.extole.io
     * soma.extole.io
-    * soundcloud.em.extole.io
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * starone.extole.io
     * steelseries.extole.io
     * stiltzlifts.extole.io
-    * stockpile.extole.io
     * stop-and-shop.extole.io
     * stopagingnow.extole.io
     * stride-rite.extole.io
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
-    * suncoastcreditunion.em.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
     * suneast.extole.io
@@ -557,6 +552,7 @@
     * turbotaxdemo.extole.io
     * tweglobal.extole.io
     * twisthair.extole.io
+    * txu.extole.io
     * udemy.extole.io
     * unchartedsociety.extole.io
     * under-armour-1.extole.io
@@ -599,7 +595,6 @@
     * wsecu.extole.io
     * xfinity.em.extole.io
     * xfinity.extole.io
-    * xfinity.xtl.extole.io
     * yotoplay.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
@@ -745,6 +740,7 @@
 | refer.chicosofftherack.com | chicosofftherack.extole.io |
 | chubclub.chubbiesshorts.com | chubbies.extole.com |
 | refer.cinemark.com | cinemark.extole.io |
+| circleofjoy.circlesurrogacy.com | circlesurrogacy.extole.io |
 | refer.citizen-times.com | citizen-times.extole.com |
 | refer.citizenwatch.com | citizen.extole.io |
 | share.cityfurniture.com | cityfurniture.extole.io |
@@ -822,9 +818,7 @@
 | share.enzocustom.com | enzocustom.extole.io |
 | refer.eset.com | eset.extole.io |
 | share.refer-esteelauder.ca | estee-lauder-ca.extole.io |
-| share.esteelauder.co.kr | esteelauder-kr.extole.io |
 | share.esteelauder.com.tw | esteelauder.extole.io |
-| share.refer-esteelauder.com.hk | esteelauderhk.extole.io |
 | share.refer-esteelauder.jp | esteelauderjp.extole.io |
 | refer.etrade.net | etrade.extole.io |
 | share.ets.org | ets.extole.io |
@@ -946,6 +940,7 @@
 | loyalty.glowbar.com | glowbar.extole.io |
 | refer.gnc.com | gnc.extole.io |
 | share.go2bank.com | go2bank.extole.io |
+| refer.golden1.com | golden1.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
 | refer.gotowebinar.com | gotowebinar.extole.com |
@@ -1178,7 +1173,6 @@
 | recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
-| em2279.referral.quickbooks.co.uk | quickbooks.em.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
 | referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
@@ -1251,25 +1245,21 @@
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
 | refer.soma.com | soma.extole.io |
-| em8031.soundcloud.com | soundcloud.em.extole.io |
 | invite.soundcloud.com | soundcloud.extole.io |
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.starone.org | starone.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
 | share.stiltzlifts.com | stiltzlifts.extole.io |
-| share.stockpile.com | stockpile.extole.io |
 | refer.stopandshop.com | stop-and-shop.extole.io |
 | share.stopagingnow.com | stopagingnow.extole.io |
 | refer.striderite.com | stride-rite.extole.io |
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
-| em7147.love.suncoastcreditunion.com | suncoastcreditunion.em.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | share.suneast.org | suneast.extole.io |
@@ -1326,6 +1316,7 @@
 | share.thewineshop.com | tweglobal.extole.io |
 | share.treasurywineevent.com | tweglobal.extole.io |
 | refer.twisthair.com | twisthair.extole.io |
+| refer.txu.com | txu.extole.io |
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |
 | em225.codecademy.com | u82658.wl159.sendgrid.net |
 | em2279.referral.quickbooks.co.uk | u82658.wl159.sendgrid.net |
@@ -1412,7 +1403,6 @@
 | referafriend.comcast.com | xfinity.extole.io |
 | referafriend.xfinity.com | xfinity.extole.io |
 | www.refer.xfinity.com | xfinity.extole.io |
-| xtl._domainkey.mail.propertyperks.xfinity.com | xfinity.xtl.extole.io |
 | xtl._domainkey.dailypay.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.forgetrust.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | xtl._domainkey.hollandamerica.com | xtl.domainkey.u82658.wl159.sendgrid.net |

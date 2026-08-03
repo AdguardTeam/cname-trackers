@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,11 +12,17 @@ $TTL 300
 @    IN   NS    localhost.
 
 account.h24.news CNAME .
+admin.h24.news CNAME .
 api.h24.news CNAME .
+app.h24.news CNAME .
+apps.h24.news CNAME .
 at.h24.news CNAME .
 barracuda.h24.news CNAME .
 br.h24.news CNAME .
 c.leparisien.fr CNAME .
+client.h24.news CNAME .
+cms.h24.news CNAME .
+customer.h24.news CNAME .
 de.h24.news CNAME .
 ec.h24.news CNAME .
 flow-prod.h24.news CNAME .
@@ -31,9 +37,11 @@ go.publicsenat.fr CNAME .
 go.rfi.fr CNAME .
 go.saveurs-magazine.fr CNAME .
 go.solidworks.com CNAME .
+gossip.h24.news CNAME .
 hn.h24.news CNAME .
 ie.h24.news CNAME .
 in.h24.news CNAME .
+intranet.h24.news CNAME .
 it.h24.news CNAME .
 l.20minutes.fr CNAME .
 l.3djuegos.com CNAME .
@@ -78,6 +86,7 @@ l.capital.fr CNAME .
 l.carenews.com CNAME .
 l.centre-presse.fr CNAME .
 l.centrepresseaveyron.fr CNAME .
+l.cestquilaboss.com CNAME .
 l.challenges.fr CNAME .
 l.charentelibre.fr CNAME .
 l.chartsinfrance.net CNAME .
@@ -339,13 +348,19 @@ l.xataka.com.br CNAME .
 l.xataka.com.mx CNAME .
 l.xatakamovil.com CNAME .
 l.zdnet.fr CNAME .
+login.h24.news CNAME .
 mail10.h24.news CNAME .
 mail11.h24.news CNAME .
+manage.h24.news CNAME .
+mobile.h24.news CNAME .
 mx3.h24.news CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
+panel.h24.news CNAME .
+partners.h24.news CNAME .
 poc.warnerbros.fr CNAME .
 pop.h24.news CNAME .
+portal.h24.news CNAME .
 prod-0.moarty.com CNAME .
 prod-1.moarty.com CNAME .
 prod-3.moarty.com CNAME .
@@ -362,6 +377,7 @@ social.lafranceagricole.fr CNAME .
 social.latoque.fr CNAME .
 social.terre-net-occasions.fr CNAME .
 social.web-agri.fr CNAME .
+sso.h24.news CNAME .
 static.nonli.com CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .

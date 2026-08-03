@@ -166,6 +166,7 @@
     * storydragon.goatcounter.com
     * studiodeerenberg.goatcounter.com
     * suivi-enfant.goatcounter.com
+    * swimblueprint.goatcounter.com
     * szorty.goatcounter.com
     * tailspace.goatcounter.com
     * tbx.goatcounter.com
@@ -195,6 +196,7 @@
     * vault.goatcounter.com
     * vpro.goatcounter.com
     * whatacools.goatcounter.com
+    * wts.goatcounter.com
     * wy3di4xcbj.goatcounter.com
     * ybbond.goatcounter.com
     * ygoprint.goatcounter.com
@@ -272,6 +274,7 @@
 | stats.ghostiam.dev | ghostiam.goatcounter.com |
 | analytics.code.dccouncil.gov | goatcounter.com |
 | analytics.codes.baltimorecity.gov | goatcounter.com |
+| analytics.law.cityofsanmateo.org | goatcounter.com |
 | analytics.law.sanipueblo.org | goatcounter.com |
 | analytics.regs.maryland.gov | goatcounter.com |
 | stats.gopikrishna.dev | gopikrishna.goatcounter.com |
@@ -379,6 +382,7 @@
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | stats.studiodeerenberg.nl | studiodeerenberg.goatcounter.com |
 | gc.suivi-enfant.max-sens-conseil.fr | suivi-enfant.goatcounter.com |
+| stats.swimblueprint.com | swimblueprint.goatcounter.com |
 | stats.szorty.space | szorty.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
 | gc.tbx.at | tbx.goatcounter.com |
@@ -408,6 +412,7 @@
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
+| stats.waytosmile.fr | wts.goatcounter.com |
 | stats.webmeasurements.org | wy3di4xcbj.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
 | science.ygoprint.org | ygoprint.goatcounter.com |

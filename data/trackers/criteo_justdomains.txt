@@ -126,7 +126,6 @@ akkieh.yumeyakata.com
 aknzmq.divvino.com.br
 akpiug.rarecarat.com
 akplvs.raja.fr
-akrsks.maaarket.rs
 akspdp.materialkitchen.com
 akwiqx.jdsports.be
 akxmxr.lazzulijoias.com.br
@@ -185,6 +184,7 @@ api.velpa.pl
 aplobv.xexymix.com
 app.velpa.pl
 appgax.optica-optima.com
+apps.velpa.pl
 appvua.jetcost.nl
 apqcjj.celford.com
 apqmxf.curama.jp
@@ -488,7 +488,6 @@ bqtxcs.bellacoastaldecor.com
 bqvndd.ifood.com.br
 brajqk.ineedamobile.com
 brgrwd.dansko.com
-brhwsg.makingnew.co.kr
 brhxtc.dxl.com
 briexp.traningspartner.se
 brjjkd.calzedonia.com
@@ -686,6 +685,7 @@ cihdcr.kasa.co.kr
 ciivtz.usinebureau.com
 cikvwv.dsdamat.com
 cilvph.smartbuyglasses.com
+cimmzr.koleimports.com
 cixrak.5159289.jp
 cizzvi.beldona.com
 cjbdme.conquer.org
@@ -774,6 +774,7 @@ coyizl.embracon.com.br
 cpazhw.kitapkoala.com
 cpbain.activatedyou.com
 cpbwzu.currentbody.fr
+cpghsl.renoveru.jp
 cpgjmp.wideshop.pl
 cpjjgf.handsherb.co.kr
 cpksvl.clarksusa.com
@@ -808,7 +809,6 @@ cratky.moonpod.co
 crbyyl.forebelle.com
 crdlyn.farmaline.nl
 crfvnt.easylunettes.fr
-criteo.gap.ae
 criteo.topchaleur.com
 crm.velpa.pl
 cruiok.cavage.com.br
@@ -826,6 +826,7 @@ csghyg.reginaclinic.jp
 cspmkl.gruppal.com
 csusgd.lazybee.co.kr
 csymrm.24mx.fr
+ctfeug.bynco.com
 ctiegx.kagu-wakuwaku.com
 ctjfdn.sandals.com
 ctlayn.talbots.com
@@ -863,6 +864,7 @@ cueohf.forumgaming.fr
 cueohf.forumgratuit.be
 cueohf.forumgratuit.ch
 cueohf.forumgratuit.org
+cueohf.forumgreek.com
 cueohf.forumieren.com
 cueohf.forumieren.de
 cueohf.forumotion.com
@@ -878,6 +880,7 @@ cueohf.kanak.fr
 cueohf.keuf.net
 cueohf.metabricoleur.com
 cueohf.motards.net
+cueohf.orizzontescuolaforum.net
 cueohf.pit-lane.biz
 cueohf.rasage-traditionnel.com
 cueohf.superforum.fr
@@ -945,6 +948,7 @@ cztexz.nucash.nl
 cztxjk.forallgifts.com
 czvdlp.hgregoire.com
 czxewl.kumobeauty.com
+daaryn.svetla.sk
 dadmhz.hor.jp
 dafvng.sunrefre.jp
 dajdnm.splits59.com
@@ -952,6 +956,7 @@ dalnaz.alechrzest.pl
 dashboard.velpa.pl
 dasych.drmartypets.com
 daujvq.cme-kaigojob.com
+dauvwl.cottonink.co.id
 daynkw.architecturaldepot.com
 dayyfq.rapidonline.com
 dazdmx.cobra.fr
@@ -1111,7 +1116,6 @@ dnuhjo.proworldinc.com
 dnxcok.pentik.com
 doabqu.s3.com.tw
 doagpm.promart.pe
-doclec.supersmart.com
 docyjy.ryderwear.com
 dokkga.osakichair.com
 dokxpl.wwbw.com
@@ -1583,6 +1587,7 @@ fkxlsc.fenix-store.com
 flbuhz.justlease.be
 flcirh.kuvings.jp
 fldoai.municipal.com
+fliuws.altimetry.com
 fljaxb.chalktalksports.com
 flnkmj.hometogo.fr
 flpwto.lohaco.jp
@@ -1859,6 +1864,7 @@ gklxsr.bettyroad.co.jp
 gkopqp.coccodrillo.eu
 gksqdt.reitmans.com
 gktrlv.oryany.co.kr
+gkxaay.tontarellishop.com
 gkxeea.ssamitbeauty.com
 gkxkvp.tumi.co.jp
 glbgox.djoser.de
@@ -1868,6 +1874,7 @@ glxdlf.tickets.ua
 glyyfm.hansungmall.net
 glzsji.nordman.ru
 gmdcft.vsemayki.ru
+gmitmd.heatholders.com
 gmljko.ie-erabi.net
 gmpcyv.svinando.com
 gmqipb.degrey.co.kr
@@ -2071,6 +2078,8 @@ hdicsm.autoscout24.be
 hditsv.ragenjewels.com
 hdjyhh.heartpercent.co.kr
 hdluzy.safarilounge.jp
+hdmhca.mobiletopup.co.uk
+hdmory.bestwestern.it
 hdnagl.womensecret.com
 hdxdhu.zumnorde.de
 hdzupx.bonprix-wa.be
@@ -2557,6 +2566,7 @@ iyvzqt.agabangmall.com
 izbwce.secretoutlet.com.br
 izegag.shop24direct.de
 izremx.dentalplans.com
+izzksf.quraz.com
 izzyaa.week9.kr
 jagnqc.annevaughandesigns.com
 jahmwv.not4u.kr
@@ -2621,7 +2631,6 @@ jdgtgb.pcgameshardware.de
 jdgtgb.rnz.de
 jdgtgb.rundschau-online.de
 jdgtgb.sn-online.de
-jdgtgb.spielaffe.de
 jdgtgb.spieletipps.de
 jdgtgb.sportbuzzer.de
 jdgtgb.stylevamp.de
@@ -2725,6 +2734,7 @@ jpoaih.theyufit.co.kr
 jppeqz.ishin.jp
 jprbql.jdsports.fr
 jptobh.network.com.tr
+jptsxj.7esthe.com
 jpwfkn.besthotels.es
 jpwfrl.mona.de
 jqguzn.pnxdesign.co.kr
@@ -3136,7 +3146,6 @@ lefkvi.sanpou-s.net
 lekfso.hitohana.tokyo
 lekven.jetcost.co.uk
 lenpmh.francoisesaget.com
-lexvek.gap.ae
 leynqj.newport.se
 lezntf.heydudeshoesusa.com
 lfapbe.quiksilver.co.jp
@@ -3187,6 +3196,7 @@ ljzxdu.largus.fr
 lkcxde.miliboo.de
 lkgsvg.pranahaus.de
 lkhrtf.beveragefactory.com
+lkiqkq.mumzworld.com
 lkjcem.cna.com.br
 lkluoz.saraceniwines.com
 lkmsvs.gsm55.de
@@ -3292,6 +3302,8 @@ lrehgz.orix.co.jp
 lreust.joshinweb.jp
 lrfctq.wordans.co.uk
 lrfect.bradelisny.com
+lrhyty.meteovista.be
+lrhyty.weeronline.nl
 lrjjly.rockler.com
 lrjnbf.sabon.co.jp
 lrmxfo.torgoen.com
@@ -3345,6 +3357,7 @@ luzfpa.dltviaggi.it
 lvbdml.avantajosul.ro
 lvdpyp.easy-gliss.com
 lvdtzm.grange.co.uk
+lvhyhm.kobayashi.co.jp
 lvidqa.unisportstore.de
 lvivsu.peterhahn.de
 lvohyk.bookingcar.su
@@ -3622,6 +3635,7 @@ mxxqru.alinda.sk
 myakiu.trendhim.ch
 myatpe.mebelaero.ru
 mybjjg.vlan.be
+mydeze.croisierenet.com
 myecmz.gruener.at
 myhzhu.chicme.com
 mylkmk.biyougeka.com
@@ -3631,6 +3645,7 @@ mzenug.z-dama.ru
 mzenze.linio.com.co
 mzgpfa.brics.it
 mzgsui.rapunzelofsweden.com
+mzjucv.cocopanda.dk
 mzldzb.crocs.pl
 mznoqk.happy-car.kr
 mzwkss.chiccoshop.com
@@ -3759,6 +3774,7 @@ nntgna.dmm.com
 nnvoia.closetworld.com
 nnvqzl.franklinsports.com
 nnxpgn.b-loan.jp
+nnzoub.vauzen.com
 noacqq.joamom.co.kr
 nocvob.yellohvillage.fr
 nogxjk.dackonline.se
@@ -3972,7 +3988,6 @@ ojvxtz.junonline.jp
 ojwebb.vivaaerobus.com
 okatis.tubchairs.com
 okhwxl.rnainc.jp
-oklewp.bekker.kz
 okqqix.karitoke.jp
 oksiqv.styletread.com.au
 oktagv.immobilienscout24.at
@@ -3993,6 +4008,7 @@ olziko.maxmara.com
 omcshw.pharmasi.it
 omfoom.thepoolfactory.com
 omftdc.morijuku.com
+omieuz.razer.ru
 omjtca.emlakjet.com
 omvzcq.vidaxl.be
 omxodt.shredoptics.com
@@ -4463,7 +4479,6 @@ qktnee.fribikeshop.dk
 qkxzdm.stellenanzeigen.de
 qldvnj.purepara.com
 qleamb.climbing247.se
-qllxvh.shopstyle.com
 qlmfpj.laura.ca
 qloevv.wikicasa.it
 qlqaec.suamusica.com.br
@@ -4581,6 +4596,7 @@ qvzrde.mensagenscomamor.com
 qwfuug.phoneclick.it
 qwgngn.yapp.li
 qwpcoi.uaf.com.hk
+qwtvtf.smiggle.co.nz
 qwylpm.teljoy.co.za
 qxauwo.sportisimo.ro
 qxdjfb.astoreo.cz
@@ -4691,6 +4707,7 @@ rfmfrg.yamap.com
 rfmpav.kimonoichiba.com
 rfsquk.medicaresavingslab.com
 rgcatr.7scents.hu
+rgdjfb.avh-outdoor.nl
 rgecga.piary.jp
 rgeyyp.backmarket.at
 rghpjl.tsuchiya-kaban.jp
@@ -4719,6 +4736,7 @@ riwnmh.novasol.co.uk
 rizgma.tom-tailor.ch
 rjabqj.armitron.com
 rjbvma.alicesgarden.fr
+rjemqt.comprecar.com.br
 rjgglf.ncchomelearning.co.uk
 rjgsjm.gigameubel.nl
 rjilbs.intermediair.nl
@@ -4780,7 +4798,6 @@ rplgqy.actionaid.it
 rpnvib.estilos.com.pe
 rpowjd.segyerodental.com
 rpozzl.happy-size.de
-rpsctx.chamilia.com
 rpwnse.bagborroworsteal.com
 rpwuwb.lamparayluz.es
 rqbdyk.evo.com
@@ -5210,6 +5227,7 @@ sxjfhh.tcpalm.com
 sxjfhh.tennessean.com
 sxjfhh.thanksgiving.com
 sxjfhh.thecalifornian.com
+sxjfhh.thedailyjournal.com
 sxjfhh.theleafchronicle.com
 sxjfhh.thenews-messenger.com
 sxjfhh.thenewsstar.com
@@ -5322,7 +5340,6 @@ tftjgl.brice.fr
 tftkzr.happy-size.at
 tfugvz.latamy.pl
 tfunqc.domonet.jp
-tfuodg.memolife.de
 tfvdft.colmar.it
 tfwloy.perene.fr
 tfydgf.parfumcenter.hu
@@ -5338,7 +5355,6 @@ tgsdiw.dedoles.de
 tgtgzo.otelz.com
 tgwusl.cruisesonly.com
 tgzkar.sawyertwain.com
-tgzouu.intersporttwinsport.nl
 thaqyl.mediamarkt.nl
 thfpnn.leben-style.jp
 thhesw.tre.it
@@ -5647,7 +5663,6 @@ umccle.traktorpool.hu
 umcicv.europcar.com
 umdlbn.globetrotter.de
 umdpva.gakumado.mynavi.jp
-umfszv.m-style.co.kr
 umhyck.belvilla.com
 umiaob.kireibiz.jp
 umlvbe.rucipello.com
@@ -5791,6 +5806,7 @@ vcacra.dieti-natura.es
 vcegpu.libas.com.tr
 vcejxz.interiors.fr
 vcnfxg.propertycloud.mu
+vcoufi.as-1.co.jp
 vctzdx.mundoalfombra.com
 vcxtkb.myomee.com
 vcypfn.readers.com
@@ -5825,6 +5841,7 @@ veqvek.discovery.ca
 veqvek.much.com
 veqvek.space.ca
 veqvek.thebeaverton.com
+veqvek.theloop.ca
 veqvek.tsn.ca
 veumpy.shooos.sk
 veutax.atlasformen.ru
@@ -5984,6 +6001,7 @@ vurshz.gregory.jp
 vushgt.motatos.dk
 vusiin.rosacha.com.br
 vuypew.ikks.com
+vuzkbh.jshealthvitamins.com
 vvaaol.enuygun.com
 vvcufx.colombo.com.br
 vvelrp.thinkshoes.com
@@ -6238,6 +6256,7 @@ wucnlk.demeterfragrance.com
 wucvvh.surpricenow.com
 wufsqg.petrolindustries.com
 wuhhgk.glamira.com
+wukbuj.jazeerapaints.com
 wuncqh.cooksongold.com
 wunqlc.anayi.com
 wurzfs.motherhood.com
@@ -6315,6 +6334,7 @@ xdeiaf.elleshop.jp
 xdfgxy.savethechildren.it
 xdkwsh.farmacialoreto.it
 xdsblm.ullapopken.de
+xdtzrx.lemonilo.com
 xdvdrg.globalindustrial.com
 xdxcre.dentiluv.com
 xdyitg.globalindustrial.ca
@@ -6509,6 +6529,7 @@ xvkhez.swiatkwiatow.pl
 xvteew.lacoste.jp
 xvvvhu.ullapopken.ch
 xvyxgy.stz.com.br
+xwhymy.caco.com.tw
 xwoeoc.rietveldlicht.be
 xwpoxv.birdies.com
 xwpzlz.gemimarket.it
@@ -6582,6 +6603,7 @@ ybgsyd.osharewalker.co.jp
 ybirtu.erikli.com.tr
 ybqsgz.surfmall.co.kr
 ybswii.swarovski.com
+ybvfdu.pngadgil.com
 ybzcmz.momoshop.com.tw
 ycdlnm.deal.by
 ycembr.net-a-porter.com
@@ -6629,6 +6651,7 @@ yfclaf.dsw.ca
 yfclfx.ifriko.pl
 yfedxj.dangelicoguitars.com
 yfenys.prenatal.com
+yfeonl.royalenfield.com
 yfepff.raymourflanigan.com
 yfopaf.imwalking.de
 yfpvmd.reed.co.uk

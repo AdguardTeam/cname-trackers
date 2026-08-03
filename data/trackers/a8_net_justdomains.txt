@@ -41,7 +41,6 @@ a8.biglobe.openplat.jp
 a8.biz.ne.jp
 a8.biziphone.com
 a8.boco.co.jp
-a8.bon-quish.jp
 a8.bousui-pro.com
 a8.brandcosme.com
 a8.brandkaimasu.com
@@ -52,7 +51,6 @@ a8.careecen-shukatsu-agent.com
 a8.careerpark.jp
 a8.casie.jp
 a8.cbd-oil.jp
-a8.cbdfx.jp
 a8.centarc.com
 a8.chat-lady.jp
 a8.choole.jp
@@ -73,6 +71,7 @@ a8.cyclemarket.jp
 a8.cypris-online.jp
 a8.daredemomobile.com
 a8.de-limmo.jp
+a8.deep2031.com
 a8.denki-koji.work
 a8.denki-tatsujin.com
 a8.denki.dokoyorimo.jp
@@ -329,7 +328,6 @@ a8.vtuber.sexy
 a8.watero.pet
 a8.web-hikari.net
 a8.webdeki.com
-a8.webist-cri.com
 a8.wemotion.co.jp
 a8.wifi-fami.com
 a8.wifi-tokyo-rentalshop.com
@@ -951,7 +949,6 @@ a8cv.hoken-laundry.com
 a8cv.holo-bell.com
 a8cv.homepage296.com
 a8cv.honeys-onlineshop.com
-a8cv.hoppin-garage.com
 a8cv.hor.jp
 a8cv.hotyoga-loive.com
 a8cv.houjin-keitai.com
@@ -989,7 +986,6 @@ a8cv.joy-karaokerental.com
 a8cv.jp-shop.kiwabi.com
 a8cv.jp.metrocityworld.com
 a8cv.jp.redodopower.com
-a8cv.k-ikiiki.jp
 a8cv.kagoya.jp
 a8cv.kaimonoform.com
 a8cv.kaiteki.gr.jp
@@ -1079,7 +1075,6 @@ a8cv.nikugatodoke.com
 a8cv.nippon-olive.co.jp
 a8cv.nipt-clinic.jp
 a8cv.nittei-group-alliance.com
-a8cv.norikae-cashback.com
 a8cv.o-juku.com
 a8cv.o-ken.com
 a8cv.oceanprincess.jp

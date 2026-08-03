@@ -1,11 +1,17 @@
 #
 # Company name: nonli.com
 account.h24.news
+admin.h24.news
 api.h24.news
+app.h24.news
+apps.h24.news
 at.h24.news
 barracuda.h24.news
 br.h24.news
 c.leparisien.fr
+client.h24.news
+cms.h24.news
+customer.h24.news
 de.h24.news
 ec.h24.news
 flow-prod.h24.news
@@ -20,9 +26,11 @@ go.publicsenat.fr
 go.rfi.fr
 go.saveurs-magazine.fr
 go.solidworks.com
+gossip.h24.news
 hn.h24.news
 ie.h24.news
 in.h24.news
+intranet.h24.news
 it.h24.news
 l.20minutes.fr
 l.3djuegos.com
@@ -67,6 +75,7 @@ l.capital.fr
 l.carenews.com
 l.centre-presse.fr
 l.centrepresseaveyron.fr
+l.cestquilaboss.com
 l.challenges.fr
 l.charentelibre.fr
 l.chartsinfrance.net
@@ -328,13 +337,19 @@ l.xataka.com.br
 l.xataka.com.mx
 l.xatakamovil.com
 l.zdnet.fr
+login.h24.news
 mail10.h24.news
 mail11.h24.news
+manage.h24.news
+mobile.h24.news
 mx3.h24.news
 nr.lanouvellerepublique.fr
 on.qobuz.com
+panel.h24.news
+partners.h24.news
 poc.warnerbros.fr
 pop.h24.news
+portal.h24.news
 prod-0.moarty.com
 prod-1.moarty.com
 prod-3.moarty.com
@@ -351,6 +366,7 @@ social.lafranceagricole.fr
 social.latoque.fr
 social.terre-net-occasions.fr
 social.web-agri.fr
+sso.h24.news
 static.nonli.com
 sur.corsematin.com
 sur.laprovence.com

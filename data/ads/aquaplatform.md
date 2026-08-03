@@ -102,7 +102,6 @@
     * oneboat-static.aquaplatform.com
     * pamplin-console.aquaplatform.com
     * pamplin-static.aquaplatform.com
-    * personare-console.aquaplatform.com
     * personare-delivery.aquaplatform.com
     * personare-static.aquaplatform.com
     * platformiq-cdn.aquaplatform.com
@@ -219,6 +218,7 @@
 | console.walaplusadserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
+| www.adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
 | www.static.consulcesi.it | consulcesi-static.aquaplatform.com |
 | console.engineeringnews.co.za | creamer-console.aquaplatform.com |
@@ -344,7 +344,6 @@
 | www.console.adspmg.com | pamplin-console.aquaplatform.com |
 | cdn.adspmg.com | pamplin-static.aquaplatform.com |
 | www.cdn.adspmg.com | pamplin-static.aquaplatform.com |
-| console.personare.com.br | personare-console.aquaplatform.com |
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
 | adimages.infotorg.se | platformiq-cdn.aquaplatform.com |

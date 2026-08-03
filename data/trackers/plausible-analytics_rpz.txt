@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -141,7 +141,6 @@ plau.devitjobs.us CNAME .
 plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
 plaus.outpost.pub CNAME .
-plaus.pentserv.com CNAME .
 plausdj2ajskljzx0ikwkiasible.ethics.info CNAME .
 plausible-stats.tangodelta.media CNAME .
 plausible.adreform.com CNAME .
@@ -580,7 +579,6 @@ stats.parqet.com CNAME .
 stats.passwordyeti.com CNAME .
 stats.pastorwagner.com CNAME .
 stats.patriot.win CNAME .
-stats.paulronge.se CNAME .
 stats.paysagistes.pro CNAME .
 stats.pebkac.io CNAME .
 stats.pendleratlas.de CNAME .

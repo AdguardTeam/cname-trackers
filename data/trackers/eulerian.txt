@@ -39,7 +39,6 @@
 ||ae35oceb.eulerian.io^
 ||agzx.terrassewilliamgray.com^
 ||al.futuroscope.com^
-||ali8.alinea.fr^
 ||am.belambra.co.uk^
 ||am.belambra.com^
 ||anz7.allianz-voyage.fr^
@@ -62,6 +61,8 @@
 ||bpe2.destinia.co.il^
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
+||c0i.ckoi.com^
+||c0p.cepsum.umontreal.ca^
 ||c45cc75f.eulerian.io^
 ||c4dv.copinesdevoyage.com^
 ||c4fyt.tremblant.ca^
@@ -82,8 +83,11 @@
 ||ct.creditec.fr^
 ||ct5m.citadium.com^
 ||ct6.chansontadoussac.com^
+||ctr5.culture3r.com^
 ||cvi6.destinia.qa^
 ||cyf9.destinia.cl^
+||d0f.le-dauphin.com^
+||d2u.dauphinquebec.com^
 ||d62e9cfa.eulerian.io^
 ||da85edd2.eulerian.io^
 ||de48cadb.eulerian.io^
@@ -91,6 +95,7 @@
 ||deut3.fdj.fr^
 ||dgj2.palladiumhotelgroup.com^
 ||dknd.cocottebistro.com^
+||dlc9.destinia.ae^
 ||doa3a792.eulerian.io^
 ||dp1.duceppe.com^
 ||dv59b.montecarlomeeting.com^
@@ -182,6 +187,7 @@
 ||erdev3.eulerian.io^
 ||erdi.vacations.united.com^
 ||ert5.rmcsport.tv^
+||esd5.espacestdenis.com^
 ||et.futuroscope.com^
 ||et.sncf.com^
 ||etca.evenementstremblant.ca^
@@ -190,8 +196,6 @@
 ||eule4.pmu.fr^
 ||eule5.pmu.fr^
 ||euler.pmu.fr^
-||eulerian.alinea.fr^
-||eulerian.astro-way.com^
 ||eulerian.belambra.be^
 ||eulerian.belambra.fr^
 ||eulerian.canal-plus.com^
@@ -237,6 +241,7 @@
 ||fl5dpe.oui.sncf^
 ||flmb.cheapcaribbean.com^
 ||fma7.aegon.es^
+||fnc2.nouveaucinema.ca^
 ||fpb8.esce.fr^
 ||fsz1.francoisesaget.be^
 ||fsz1.francoisesaget.com^
@@ -257,9 +262,9 @@
 ||gsg9.carrefour-banque.fr^
 ||gt1.grandtheatre.qc.ca^
 ||hby7.destinia.it^
+||hc8bb6oa.eulerian.io^
 ||hcbh4bah.eulerian.io^
 ||hgf4.zanzicar.fr^
-||hk2d.tourismemauricie.com^
 ||hsae.beachbound.com^
 ||idg1.idgarages.com^
 ||igc0.destinia.at^
@@ -397,6 +402,7 @@
 ||sa.skodafabia.fr^
 ||sa.skodasuperb.fr^
 ||sd.securitasdirect.fr^
+||sd7.salledesilets.com^
 ||se.mistermenuiserie.com^
 ||sfp7.eco-conscient.com^
 ||sis8.premieremoisson.com^
@@ -411,7 +417,6 @@
 ||ssy7.destinia.com.ua^
 ||st2.sat.qc.ca^
 ||st9.sorstu.ca^
-||su1.les-suites.ca^
 ||sxbj.gasparmtl.com^
 ||t.locasun-vp.fr^
 ||t.locasun.fr^
@@ -494,13 +499,11 @@
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
 ||5fm.985fm.ca^
-||c0i.ckoi.com^
-||c0p.cepsum.umontreal.ca^
-||d0f.le-dauphin.com^
-||d2u.dauphinquebec.com^
 ||erb.tremblant.ca^
+||hk2d.tourismemauricie.com^
 ||l2i.qualityinnlevis.com^
 ||rwl.tremblant.ca^
+||su1.les-suites.ca^
 ||t0y.toyota.ca^
 ||www.mis.tourisme-montreal.org^
 ||yio.tremblant.ca^

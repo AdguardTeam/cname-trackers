@@ -11,6 +11,7 @@ analytics.digitaleyes.ai
 analytics.fiquipedia.es
 analytics.kubasta.net
 analytics.law.badriver-nsn.gov
+analytics.law.cityofsanmateo.org
 analytics.law.lco-nsn.gov
 analytics.law.mohican.com
 analytics.law.sanipueblo.org
@@ -178,6 +179,7 @@ stats.semipol.de
 stats.sophia.fish
 stats.studiodeerenberg.nl
 stats.svc.lol
+stats.swimblueprint.com
 stats.szorty.space
 stats.tdurand.com
 stats.theadnyeusarchive.app
@@ -188,6 +190,7 @@ stats.trainsley69.me
 stats.transactional.blog
 stats.umcconnell.net
 stats.uygar.sh
+stats.waytosmile.fr
 stats.webmeasurements.org
 stats.whatacools.com
 stats.ybbond.id

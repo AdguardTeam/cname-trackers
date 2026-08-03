@@ -128,6 +128,7 @@
 ||app.uob.com.my^
 ||app.uob.com.sg^
 ||app01.cnt.bdo.com.ph^
+||app01.cnt.uat.bdo.com.ph^
 ||app392.gerberlife.com^
 ||applibs.fglife.com^
 ||applicant.rbfcu.org^
@@ -778,6 +779,7 @@
 ||jytrnq.cm-cic.com^
 ||kyc.usend.com^
 ||lab4.lloydsbank.com^
+||lexengine.kamet.mx^
 ||lexis.ourtrip.com.br^
 ||lght.loberon.com^
 ||line.bd.com^
@@ -946,12 +948,14 @@
 ||prod-michedcu.chaperone.lumindigitalhosting.com^
 ||prod-mscuct.chaperone.lumindigitalhosting.com^
 ||prod-navigator.chaperone.lumindigitalhosting.com^
+||prod-neighbors-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-njfcunj.chaperone.lumindigitalhosting.com^
 ||prod-northland.chaperone.lumindigitalhosting.com^
 ||prod-oneaz.chaperone.lumindigitalhosting.com^
 ||prod-orangeccu-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-pacservice.chaperone.lumindigitalhosting.com^
 ||prod-pathways.chaperone.lumindigitalhosting.com^
+||prod-pointbreeze-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-prospera.chaperone.lumindigitalhosting.com^
 ||prod-redcanoe.chaperone.lumindigitalhosting.com^
 ||prod-redwood.chaperone.lumindigitalhosting.com^

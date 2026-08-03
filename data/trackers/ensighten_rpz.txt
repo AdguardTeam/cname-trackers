@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -296,6 +296,7 @@ ntms.boq.com.au CNAME .
 ntms.coles.com.au CNAME .
 ntms.creditcards.money.qantas.com CNAME .
 ntms.koganmoney.com.au CNAME .
+ntms.virginmoney.com.au CNAME .
 p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .

@@ -13,7 +13,6 @@
 | a.ridd.ru | park.realbig.online |
 | ad.choicy.org | park.realbig.online |
 | any.realbig.media | park.realbig.online |
-| cdn.zamunda.ru | park.realbig.online |
 | dlyarecnew.me | park.realbig.online |
 | downnora.me | park.realbig.online |
 | elpushnot.com | park.realbig.online |

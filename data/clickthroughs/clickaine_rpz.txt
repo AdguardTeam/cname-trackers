@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -90,6 +90,7 @@ icn.brandnewapp.pro CNAME .
 jpnj.hotpornfile.org CNAME .
 lunar.infinitybet.win CNAME .
 m.brandnewapp.pro CNAME .
+mnch.brandnewapp.pro CNAME .
 n.russ-porno.net CNAME .
 net.fuckxstream.com CNAME .
 omg.house.porn CNAME .

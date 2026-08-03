@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785153874885        ; Serial
+           1785758740617        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -212,6 +212,7 @@ $TTL 300
 3278638.notify6.com CNAME .
 3281804.notifysrv.com CNAME .
 3282004.notifysrv.com CNAME .
+3282174.notifysrv.com CNAME .
 3283088.notifysrv.com CNAME .
 3283090.notify6.com CNAME .
 3285792.notifysrv.com CNAME .
@@ -235,6 +236,7 @@ $TTL 300
 3302404.notify6.com CNAME .
 3304350.notifysrv.com CNAME .
 3304354.notify6.com CNAME .
+3304354.notifysrv.com CNAME .
 3307240.notifysrv.com CNAME .
 3307754.notifysrv.com CNAME .
 3307792.notifysrv.com CNAME .
@@ -357,7 +359,9 @@ $TTL 300
 3466857.notifysrv.com CNAME .
 3466861.notify6.com CNAME .
 3466861.notifysrv.com CNAME .
+3466863.notifysrv.com CNAME .
 3474937.notify6.com CNAME .
+3475335.notify6.com CNAME .
 3476453.notifysrv.com CNAME .
 3477325.notify6.com CNAME .
 3483067.notifysrv.com CNAME .
@@ -431,6 +435,7 @@ $TTL 300
 3587799.notifysrv.com CNAME .
 3588135.notify6.com CNAME .
 3588587.notify6.com CNAME .
+3588589.notify6.com CNAME .
 3588591.notifysrv.com CNAME .
 3588593.notifysrv.com CNAME .
 3588599.notifysrv.com CNAME .
@@ -785,6 +790,8 @@ $TTL 300
 8.notify.bizonads-ssp.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
+a.6hd49jng.com CNAME .
+a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
 a.am7srv.com CNAME .
 a.asvsm.com CNAME .
@@ -793,31 +800,39 @@ a.b7q9v8z.com CNAME .
 a.cant3am.com CNAME .
 a.chmsrv.com CNAME .
 a.crme7srv.com CNAME .
+a.etology.com CNAME .
 a.eunow4u.com CNAME .
+a.flirtads.net CNAME .
 a.gentlefieldpattern.com CNAME .
 a.happyleafmotion.com CNAME .
+a.klico.link CNAME .
 a.ma3ion.com CNAME .
+a.mikbaken.com CNAME .
 a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.pinkads.org CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
+a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
+a.t5z3w0p.com CNAME .
 a.tf4srv.com CNAME .
 a.vws4brkfst.com CNAME .
-a.worldstarlinker.com CNAME .
 abc.notifysrv.com CNAME .
 accept.notifysrv.com CNAME .
 access.notifysrv.com CNAME .
 accounting.notifysrv.com CNAME .
 admin.adsession.com CNAME .
+admin.advertrek.com CNAME .
 admin.adxnow.com CNAME .
 admin.etology.com CNAME .
 admin.exoclick.com CNAME .
 admin.gettopple.com CNAME .
 admin.landingtrk.com CNAME .
+admin.notify6.com CNAME .
 admin.paradoxgroup.co CNAME .
+admin.pinkads.org CNAME .
 admin.rocoads.net CNAME .
 admin.traf-gold.com CNAME .
 admin.traffic-gold.com CNAME .
@@ -844,6 +859,7 @@ autoconfig.directory.notifysrv.com CNAME .
 az6a8nmuz5vbrgd2.exasrv.com CNAME .
 click.advertrek.com CNAME .
 client.notify6.com CNAME .
+crm.notify6.com CNAME .
 delivery.gettopple.com CNAME .
 elb.cryptohosting.euolx.pl-pay.surf4623404.notify6.com CNAME .
 engine.gettopple.com CNAME .
@@ -872,6 +888,7 @@ import.notifysrv.com CNAME .
 india.notifysrv.com CNAME .
 indonesia.notifysrv.com CNAME .
 internal.notifysrv.com CNAME .
+intranet.notifysrv.com CNAME .
 james.notifysrv.com CNAME .
 jzduxkeumwnrfp6x.exasrv.com CNAME .
 kiev.notifysrv.com CNAME .
@@ -920,7 +937,6 @@ s.asvsm.com CNAME .
 s.b2bstars.com CNAME .
 s.b7q9v8z.com CNAME .
 s.bizonads-ssp.com CNAME .
-s.brilmaver.com CNAME .
 s.cant3am.com CNAME .
 s.chmsrv.com CNAME .
 s.chnsrv.com CNAME .
@@ -1021,10 +1037,10 @@ s.eunow4u.com CNAME .
 s.exoqarys.com CNAME .
 s.exv6.com CNAME .
 s.flirtads.net CNAME .
+s.flirtads.xyz CNAME .
 s.gentlefieldpattern.com CNAME .
 s.happyleafmotion.com CNAME .
 s.hkartg.com CNAME .
-s.huispol.com CNAME .
 s.humnert.com CNAME .
 s.jummnert.com CNAME .
 s.kafaseju.com CNAME .
@@ -1272,18 +1288,10 @@ www.voltcp.3323174.notifysrv.com CNAME .
 zooplus.it3440403.notify6.com CNAME .
 zooplus.it3524339.notify6.com CNAME .
 zooplus.it4060008.notify6.com CNAME .
-a.6hd49jng.com CNAME .
-a.adsession.com CNAME .
 a.advertrek.com CNAME .
 a.allureanews.com CNAME .
-a.brilmaver.com CNAME .
-a.etology.com CNAME .
-a.flirtads.net CNAME .
 a.hkartg.com CNAME .
 a.humnert.com CNAME .
-a.klico.link CNAME .
-a.mikbaken.com CNAME .
 a.r8lnet.com CNAME .
-a.rocoads.net CNAME .
-a.t5z3w0p.com CNAME .
 a.traffic-gold.com CNAME .
+a.worldstarlinker.com CNAME .

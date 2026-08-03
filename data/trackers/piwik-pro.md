@@ -7,12 +7,11 @@
     * akvo.piwik.pro
     * amrest.piwik.pro
     * amsterdam.piwik.pro
+    * ari.piwik.pro
     * aumago.piwik.pro
-    * betus.piwik.pro
     * ch-equans.piwik.pro
     * czgroep.piwik.pro
     * dealerspike-prod.piwik.pro
-    * dorier-group.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
     * ec-test-infra.piwik.pro
@@ -49,9 +48,7 @@
     * tigital.piwik.pro
     * triodos.piwik.pro
     * tweedekamer.piwik.pro
-    * twyzle-prod.piwik.pro
     * uninstalled.piwik.pro
-    * uwhealth.piwik.pro
     * uwv.piwik.pro
     * wavelz.piwik.pro
     * witglobal.piwik.pro
@@ -65,13 +62,11 @@
 | analytics.akvo.org | akvo.piwik.pro |
 | piwikpro.amrest.eu | amrest.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
+| stats.arinet.com | ari.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
-| piwik.slotsparadise.com | betus.piwik.pro |
-| piwik.vegasaces.com | betus.piwik.pro |
 | metrics.equans.ch | ch-equans.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | stats.dealerspike.com | dealerspike-prod.piwik.pro |
-| analytics.digiplace.site | dorier-group.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
 | www.webanalytics-az.acc.fpfis.tech.ec.europa.eu | ec-test-infra.piwik.pro |
@@ -117,9 +112,8 @@
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
-| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
-| piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
+| piwikpro.amrest.eu | pp-public-p-euw.piwik.pro |
 | piwikpro.amrest.eu | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
 | purple.fitchconnect.com | pp-public-p-euw.piwik.pro |
@@ -155,13 +149,11 @@
 | www.webengage.ae | pp-public-p-uan.piwik.pro |
 | www.webengage.ae | pp-public-p-uan.piwik.pro |
 | a.uwhealth.org | pp-public-p-use.piwik.pro |
-| a.uwhealth.org | pp-public-p-use.piwik.pro |
 | analytics.dx.ohio.gov | pp-public-p-use.piwik.pro |
 | analytics.dx.ohio.gov | pp-public-p-use.piwik.pro |
 | epiphany.masterworks.digital | pp-public-p-use.piwik.pro |
 | gmn.gloo.com | pp-public-p-use.piwik.pro |
 | site-analytics.iop.ohio.gov | pp-public-p-use.piwik.pro |
-| analytics.digiplace.site | public-p-swe.piwik.pro |
 | analytics.digiplace.site | public-p-swe.piwik.pro |
 | piwik.com-online.com | public-p-swe.piwik.pro |
 | statistiek.rechtspraak.nl | rechtspraak.piwik.pro |
@@ -176,15 +168,14 @@
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
 | pwk.tweedekamer.nl | tweedekamer.piwik.pro |
-| piwik.twyzle.com | twyzle-prod.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | fse.piwikpro.pl | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
 | stats.arinet.com | uninstalled.piwik.pro |
+| stats.arinet.com | uninstalled.piwik.pro |
 | stats.dealerspike.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |
-| a.uwhealth.org | uwhealth.piwik.pro |
 | tag2.uwv.nl | uwv.piwik.pro |
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |

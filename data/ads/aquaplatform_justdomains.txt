@@ -283,6 +283,7 @@ www.ads.environmentalleader.com
 www.ads.proxibid.com
 www.adserver.sniffies.com
 www.adserver.sonicplug.com
+www.adv.consulcesi.it
 www.adwin.geenstijl.nl
 www.api.ad.logic-prod.viasat.io
 www.api.ad.logic-test.viasat.io

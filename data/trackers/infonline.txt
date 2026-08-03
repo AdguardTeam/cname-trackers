@@ -3,7 +3,6 @@
 ||0186141170.apps.iocnt.de^
 ||39db8b138f.apps.iocnt.de^
 ||5bf0fdacd2.apps.iocnt.de^
-||acksrc.chip.de^
 ||at_w_atexxpressdata-c3a3188a23.exxpress.at^
 ||c4b720ded1.apps.iocnt.de^
 ||data-0034231193.apps.iocnt.de^
@@ -653,6 +652,7 @@
 ||data-50d39a5d3f.diepresse.com^
 ||data-50de2f2b04.focus.de^
 ||data-50de2f2b04.netmoms.de^
+||data-512cafb4f7.addradio.de^
 ||data-512cafb4f7.radiowaf.de^
 ||data-512cafb4f7.radiowafhilft.de^
 ||data-513a50551b.psychologie-heute.de^
@@ -1667,6 +1667,7 @@
 ||data-d6484416fd.maclife.de^
 ||data-d6485d3579.playboy.de^
 ||data-d67a03d16c.meintophotel.de^
+||data-d687fc47c0.11freunde.de^
 ||data-d69d9a5415.aachen.de^
 ||data-d6b0abd16f.apps.iocnt.de^
 ||data-d6e13c60e8.orf.at^
@@ -2060,4 +2061,5 @@
 ||www.apps.iocnt.de^
 ||www2.dk-online.de^
 ||xnasldata-63224ea7ba.apps.iocnt.de^
+||acksrc.chip.de^
 ||source-66584305d5.mainpost.de^
