@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,6 +20,7 @@ at.h24.news CNAME .
 barracuda.h24.news CNAME .
 br.h24.news CNAME .
 c.leparisien.fr CNAME .
+central.us.h24.news CNAME .
 client.h24.news CNAME .
 cms.h24.news CNAME .
 customer.h24.news CNAME .
@@ -38,6 +39,7 @@ go.rfi.fr CNAME .
 go.saveurs-magazine.fr CNAME .
 go.solidworks.com CNAME .
 gossip.h24.news CNAME .
+gt.h24.news CNAME .
 hn.h24.news CNAME .
 ie.h24.news CNAME .
 in.h24.news CNAME .
@@ -159,6 +161,7 @@ l.geo.fr CNAME .
 l.glitz.paris CNAME .
 l.grazia.fr CNAME .
 l.grazia.it CNAME .
+l.graziamagazine.com CNAME .
 l.harpersbazaar.fr CNAME .
 l.hautanjou.fr CNAME .
 l.hbrfrance.fr CNAME .
@@ -189,6 +192,7 @@ l.lamontagne.fr CNAME .
 l.lanouvellerepublique.fr CNAME .
 l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
+l.larenaissanceduloiretcher.fr CNAME .
 l.larenaissancehebdo.fr CNAME .
 l.larep.fr CNAME .
 l.larepubliquedespyrenees.fr CNAME .
@@ -196,6 +200,7 @@ l.largus.fr CNAME .
 l.larvf.com CNAME .
 l.lasanteauquotidien.com CNAME .
 l.latribune.fr CNAME .
+l.laviecorrezienne.fr CNAME .
 l.lavoixdunord.fr CNAME .
 l.le-pays.fr CNAME .
 l.le10sport.com CNAME .
@@ -348,6 +353,7 @@ l.xataka.com.br CNAME .
 l.xataka.com.mx CNAME .
 l.xatakamovil.com CNAME .
 l.zdnet.fr CNAME .
+login.ch-fr.h24.news CNAME .
 login.h24.news CNAME .
 mail10.h24.news CNAME .
 mail11.h24.news CNAME .
@@ -358,6 +364,7 @@ nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
 panel.h24.news CNAME .
 partners.h24.news CNAME .
+pe.h24.news CNAME .
 poc.warnerbros.fr CNAME .
 pop.h24.news CNAME .
 portal.h24.news CNAME .

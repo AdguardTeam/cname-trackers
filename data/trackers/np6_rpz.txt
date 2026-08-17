@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1221,9 +1221,11 @@ f1.np6.com CNAME .
 infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
 www.bfc-mp.caisse-epargne.fr CNAME .
+m.uneo.fr CNAME .
 s.allopneus.com CNAME .
 s.gemy.fr CNAME .
 s.lgch.mp CNAME .
 s.np6.com CNAME .
 www.lgch.mp CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
+www.jeu.heliades.fr CNAME .

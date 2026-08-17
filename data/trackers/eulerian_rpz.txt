@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,10 +41,12 @@ a.weareknitters.nl CNAME .
 a.weareknitters.no CNAME .
 a.weareknitters.pl CNAME .
 a.weareknitters.se CNAME .
+a6a59bao.eulerian.io CNAME .
 a7e.monnierfreres.de CNAME .
 a856e4fc.eulerian.io CNAME .
 a8ht.hipp.fr CNAME .
 a9ecbdaf.eulerian.io CNAME .
+aaob99d5.eulerian.io CNAME .
 ab.oney.es CNAME .
 ac1.amphitheatrecogeco.com CNAME .
 ae35oceb.eulerian.io CNAME .
@@ -57,9 +59,9 @@ aod4.societegenerale.fr CNAME .
 aoea4eo8.eulerian.io CNAME .
 ar.allrun.fr CNAME .
 ar.i-run.fr CNAME .
+ar1.atchoumrock.com CNAME .
 avlr.pincettemtl.com CNAME .
 axb4.vivabox.it CNAME .
-b1n.carabins.umontreal.ca CNAME .
 ba6b45do.eulerian.io CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
@@ -72,8 +74,6 @@ bn.voyage-prive.com CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
-c0i.ckoi.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 c45cc75f.eulerian.io CNAME .
 c4dv.copinesdevoyage.com CNAME .
 c4fyt.tremblant.ca CNAME .
@@ -97,9 +97,8 @@ ct6.chansontadoussac.com CNAME .
 ctr5.culture3r.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d0f.le-dauphin.com CNAME .
-d2u.dauphinquebec.com CNAME .
 d62e9cfa.eulerian.io CNAME .
+da3.delicesdautomne.com CNAME .
 da85edd2.eulerian.io CNAME .
 de48cadb.eulerian.io CNAME .
 deut2.fdj.fr CNAME .
@@ -185,8 +184,6 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
-eb.mistermenuiserie.com CNAME .
 ed2.ledq.qc.ca CNAME .
 ed7e8cec.eulerian.io CNAME .
 edfaba3a.eulerian.io CNAME .
@@ -195,7 +192,11 @@ ef.futuroscope.mobi CNAME .
 efbdcd3b.eulerian.io CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
+erdev-next.eulerian.io CNAME .
+erdev1.eulerian.io CNAME .
 erdev3.eulerian.io CNAME .
+erdev4.eulerian.io CNAME .
+erdev7.eulerian.io CNAME .
 erdi.vacations.united.com CNAME .
 ert5.rmcsport.tv CNAME .
 esd5.espacestdenis.com CNAME .
@@ -266,7 +267,6 @@ gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 gli9.inseec-bs.com CNAME .
 gnh2.destinia.lv CNAME .
 grht.perchemtl.com CNAME .
@@ -338,7 +338,6 @@ nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nqsm.medicus.ca CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.bonlook.com CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o35e79f2.eulerian.io CNAME .
 o69cab6a.eulerian.io CNAME .
@@ -381,7 +380,6 @@ prx6.destinia.ch CNAME .
 ps.pmu.fr CNAME .
 pu.pretunique.fr CNAME .
 pv.partenaires-verisure.fr CNAME .
-pw.mistermenuiserie.com CNAME .
 qal0.destinia.gr CNAME .
 qbl4.ecetech.fr CNAME .
 qgic.aubergeduvieuxport.com CNAME .
@@ -399,14 +397,12 @@ r4nds.absorba.com CNAME .
 rce.iperceptions.com CNAME .
 rdc.rachatdecredit.net CNAME .
 rh1a.granions.fr CNAME .
-ri.mistermenuiserie.com CNAME .
 rjg2.destinia.ly CNAME .
 rmp4.destinia.uy CNAME .
 rqnn.funjet.com CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
 rxzz.metcalfehotel.com CNAME .
-ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
 sa.skoda.fr CNAME .
@@ -414,7 +410,6 @@ sa.skodafabia.fr CNAME .
 sa.skodasuperb.fr CNAME .
 sd.securitasdirect.fr CNAME .
 sd7.salledesilets.com CNAME .
-se.mistermenuiserie.com CNAME .
 sfp7.eco-conscient.com CNAME .
 sis8.premieremoisson.com CNAME .
 sk0.monnierfreres.eu CNAME .
@@ -422,7 +417,6 @@ ski1.skiset.com CNAME .
 slm1.leministere.ca CNAME .
 sno1.snowrental.com CNAME .
 snr4.canalplus.com CNAME .
-sr.mistermenuiserie.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
@@ -510,14 +504,23 @@ zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 5fm.985fm.ca CNAME .
+b1n.carabins.umontreal.ca CNAME .
+c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
+d0f.le-dauphin.com CNAME .
+d2u.dauphinquebec.com CNAME .
+eat9.thebeat925.ca CNAME .
 erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 l2i.qualityinnlevis.com CNAME .
+nym5c.bonlook.com CNAME .
 rwl.tremblant.ca CNAME .
+ry0.rythmefm.com CNAME .
 su1.les-suites.ca CNAME .
 t0y.toyota.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
+gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .
 pk1u.melanielyne.com CNAME .

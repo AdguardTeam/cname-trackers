@@ -352,6 +352,7 @@
     * learnersedge.extole.io
     * lemonaidhealth.extole.io
     * lending-club.extole.io
+    * lendly.extole.io
     * levi.extole.io
     * lgeccu.extole.io
     * lifedna.extole.io
@@ -399,7 +400,6 @@
     * nutribullet.extole.io
     * nuts.extole.io
     * nymcu.extole.io
-    * obagi.extole.io
     * oklahomacentral.extole.io
     * olehenriksen.extole.io
     * olivegarden.extole.io
@@ -500,6 +500,7 @@
     * smashbox.extole.io
     * snap-finance.extole.io
     * soma.extole.io
+    * soundcloud.em.extole.io
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
@@ -1032,6 +1033,7 @@
 | share.learnersedge.com | learnersedge.extole.io |
 | refer.lemonaidhealth.com | lemonaidhealth.extole.io |
 | refer.lendingclub.com | lending-club.extole.io |
+| refer.lendly.com | lendly.extole.io |
 | share.levi.com | levi.extole.io |
 | share.s1.levi-site.com | levi.extole.io |
 | share.s3.levi-site.com | levi.extole.io |
@@ -1101,7 +1103,6 @@
 | share.nuts.com | nuts.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
 | share.nymcu.org | nymcu.extole.io |
-| share.obagi.com | obagi.extole.io |
 | refer.offset.com | offset.extole.com |
 | share.oklahomacentral.org | oklahomacentral.extole.io |
 | refer.olehenriksen.com | olehenriksen.extole.io |
@@ -1245,6 +1246,7 @@
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
 | refer.soma.com | soma.extole.io |
+| em8031.soundcloud.com | soundcloud.em.extole.io |
 | invite.soundcloud.com | soundcloud.extole.io |
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |

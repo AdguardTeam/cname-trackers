@@ -20,6 +20,7 @@ analytics.leespace.co
 analytics.popov.link
 analytics.regs.maryland.gov
 analytics.repath.studio
+analytics.reticulated.net
 analytics.riggraz.dev
 analytics.sanmateo.ca.us.dev.openlawlibrary.us
 analytics.sanmateo.ca.us.open.law
@@ -38,6 +39,7 @@ counter.storydragon.nl
 da-stats.sladewatkins.net
 dot-com-stats.sladewatkins.net
 g.beesbuzz.biz
+g.sockpuppet.band
 gc.acut3.net
 gc.grokhard.com
 gc.miluchacontraeltabaco.com
@@ -51,17 +53,21 @@ github.gpuzelenograd.cloudns.be
 go.d8a.org
 goat.dabric.xyz
 goat.dheinemann.com
+goat.fpmelb.org
 goat.gavv.in
+goat.invisibledragonltd.com
 goat.neverhill.net
 goat.tailspace.net
 goat.twoistoomany.com
 goatcounter.blu3id.uk
 goatcounter.codinggrace.com
+goatcounter.corebyte.me
 goatcounter.eventgeek.ie
 goatcounter.gamecraft.it
 goatcounter.gumarapus.com
 goatcounter.irishbornchinese.com
 goatcounter.maximilianbenner.com
+goatcounter.multilumix.com
 goatcounter.repozitor.com
 goatcounter.thedave.dev
 goatcounter.thedave.me
@@ -96,6 +102,7 @@ stats.celerry.com
 stats.certidiritti.org
 stats.cloudflex.team
 stats.cloudnativebitcoin.org
+stats.coderjoe.net
 stats.coderscompass.org
 stats.cormier.co
 stats.crosshair.dev
@@ -134,6 +141,7 @@ stats.johanneswienke.de
 stats.jonaslieb.de
 stats.justasimple.app
 stats.k94.ch
+stats.kalanera.gr
 stats.kc.ie
 stats.kev.bar
 stats.konfou.xyz
@@ -144,6 +152,7 @@ stats.lakeloui.se
 stats.lena-binkowski.de
 stats.linerly.xyz
 stats.lspeed.org
+stats.maikroservice.com
 stats.manakin.fi
 stats.matteocroce.it
 stats.mausoleum.me
@@ -190,6 +199,7 @@ stats.trainsley69.me
 stats.transactional.blog
 stats.umcconnell.net
 stats.uygar.sh
+stats.vamsi-alluri.me
 stats.waytosmile.fr
 stats.webmeasurements.org
 stats.whatacools.com

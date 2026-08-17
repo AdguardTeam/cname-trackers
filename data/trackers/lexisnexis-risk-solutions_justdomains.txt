@@ -180,6 +180,7 @@ cdn.alliantcreditunion.com
 cdn.bambusystems.com
 cdn.coastcapitalsavings.com
 cdn.gusto.com
+cdn1.dol.nj.gov
 cdn1.dol.state.nj.us
 cdn1.f-cdn.com
 cdn1.onecalldirect.co.uk
@@ -311,8 +312,8 @@ connect.solspark.com
 consortium.adib.ae
 contendvc.cnouyi.pizza
 content-48.cnb.com
+content-cdn.multimoney.com.mx
 content-dt.crepassplus.com
-content-static.emiratesnbd.com
 content-tix.topi.eu
 content-uk.fundingcircle.com
 content.affinityfcu.com
@@ -347,6 +348,8 @@ content.cofidis.pt
 content.conapcg.com
 content.connexion-mabanque.bnpparibas
 content.connexion.hellobank.fr
+content.connexion.mabanque.bnpparibas
+content.connexion.monespace.hellobank.fr
 content.consumercardaccess.com
 content.covantagecu.org
 content.ctfs.com
@@ -448,6 +451,7 @@ content.pnbank.com.au
 content.presentment.com
 content.prev-espace-client.hellobank.fr
 content.prev.connexion-mabanque.bnpparibas
+content.prev.connexion.monespace.bnpparibas
 content.qudosbank.com.au
 content.quicken.com
 content.readiness.consumercardaccess.com
@@ -456,6 +460,7 @@ content.readiness.paycardsolutions.com
 content.realquest.com
 content.rendimento.com.br
 content.rias.co.uk
+content.royalvegas.ca
 content.royalvegascasino.ca
 content.rubyfortune.ca
 content.rubyfortunecasino.ca
@@ -481,6 +486,7 @@ content.thebankoflondon.com
 content.uionline.dlt.ri.gov
 content.usps.com
 content.varetire.org
+content.vb24.md
 content.vi.gov
 content.westcreekfin.com
 content.wizink.es
@@ -540,6 +546,7 @@ contentservices.ascendloans.com
 contentservices.brightlending.com
 contentservices.clearairlending.com
 contentservices.firstlightlending.com
+contentservices.trulend.com
 continuum.ford.com
 cookiemonster.calcas.com
 creditapp.rogersbank.com
@@ -572,6 +579,7 @@ detect.clearme.com
 dev-rmscheck.sbifxt.co.jp
 device-fingerprint.pay1.checkout.worldline-solutions.com
 device-fingerprint.pay2.checkout.worldline-solutions.com
+device-fingerprint.pay2.preprod.checkout.worldline-solutions.com
 device-id.orientalbank.com
 device-profile.jeniusbank.com
 device.invoice2go.com
@@ -616,7 +624,6 @@ dpcontent.locationsmart.net
 dpf.authorize.net
 drfdisvc.walmart.com
 dt.extrakarte.com
-dt.payla.io
 dtrust.atratopago.com
 dvc0271.play.jackpocket.com
 ebcontent.mcbankny.com
@@ -784,6 +791,7 @@ lexis.ourtrip.com.br
 lght.loberon.com
 line.bd.com
 ln.acornfun.com
+ln.betboom.com
 ln.cash.app
 ln.cidercasino.com
 ln.coolspinslot.com
@@ -1082,7 +1090,6 @@ secure.freshbooks.com
 secure.idbank.it
 secure.jumia.ci
 secure.jumia.co.ke
-secure.jumia.co.za
 secure.jumia.com.dz
 secure.jumia.com.eg
 secure.jumia.com.gh
@@ -1142,7 +1149,6 @@ static.yg-cdn.io
 static2.gumtree.com.au
 stats.badoostats.com
 stats.dell.com
-sub-a.crossmeetz.com
 subcontent.galeria.de
 sunshine.lillypulitzer.com
 svc.bangkokbank.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ analytics.leespace.co CNAME .
 analytics.popov.link CNAME .
 analytics.regs.maryland.gov CNAME .
 analytics.repath.studio CNAME .
+analytics.reticulated.net CNAME .
 analytics.riggraz.dev CNAME .
 analytics.sanmateo.ca.us.dev.openlawlibrary.us CNAME .
 analytics.sanmateo.ca.us.open.law CNAME .
@@ -49,6 +50,7 @@ counter.storydragon.nl CNAME .
 da-stats.sladewatkins.net CNAME .
 dot-com-stats.sladewatkins.net CNAME .
 g.beesbuzz.biz CNAME .
+g.sockpuppet.band CNAME .
 gc.acut3.net CNAME .
 gc.grokhard.com CNAME .
 gc.miluchacontraeltabaco.com CNAME .
@@ -62,17 +64,21 @@ github.gpuzelenograd.cloudns.be CNAME .
 go.d8a.org CNAME .
 goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
+goat.fpmelb.org CNAME .
 goat.gavv.in CNAME .
+goat.invisibledragonltd.com CNAME .
 goat.neverhill.net CNAME .
 goat.tailspace.net CNAME .
 goat.twoistoomany.com CNAME .
 goatcounter.blu3id.uk CNAME .
 goatcounter.codinggrace.com CNAME .
+goatcounter.corebyte.me CNAME .
 goatcounter.eventgeek.ie CNAME .
 goatcounter.gamecraft.it CNAME .
 goatcounter.gumarapus.com CNAME .
 goatcounter.irishbornchinese.com CNAME .
 goatcounter.maximilianbenner.com CNAME .
+goatcounter.multilumix.com CNAME .
 goatcounter.repozitor.com CNAME .
 goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
@@ -107,6 +113,7 @@ stats.celerry.com CNAME .
 stats.certidiritti.org CNAME .
 stats.cloudflex.team CNAME .
 stats.cloudnativebitcoin.org CNAME .
+stats.coderjoe.net CNAME .
 stats.coderscompass.org CNAME .
 stats.cormier.co CNAME .
 stats.crosshair.dev CNAME .
@@ -145,6 +152,7 @@ stats.johanneswienke.de CNAME .
 stats.jonaslieb.de CNAME .
 stats.justasimple.app CNAME .
 stats.k94.ch CNAME .
+stats.kalanera.gr CNAME .
 stats.kc.ie CNAME .
 stats.kev.bar CNAME .
 stats.konfou.xyz CNAME .
@@ -155,6 +163,7 @@ stats.lakeloui.se CNAME .
 stats.lena-binkowski.de CNAME .
 stats.linerly.xyz CNAME .
 stats.lspeed.org CNAME .
+stats.maikroservice.com CNAME .
 stats.manakin.fi CNAME .
 stats.matteocroce.it CNAME .
 stats.mausoleum.me CNAME .
@@ -201,6 +210,7 @@ stats.trainsley69.me CNAME .
 stats.transactional.blog CNAME .
 stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .
+stats.vamsi-alluri.me CNAME .
 stats.waytosmile.fr CNAME .
 stats.webmeasurements.org CNAME .
 stats.whatacools.com CNAME .

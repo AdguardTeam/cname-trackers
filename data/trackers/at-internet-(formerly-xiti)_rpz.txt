@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -115,7 +115,9 @@ pfhub.petitfute.es CNAME .
 piatra.clickandboat.com CNAME .
 piatra.nautal.com CNAME .
 piatra.oceans-evasion.com CNAME .
+piatra.oceans-evasion.dev CNAME .
 piatra.scansail.com CNAME .
+piatra.scansail.dev CNAME .
 pilau.oddo-bhf.com CNAME .
 ponyo.cheriefm.fr CNAME .
 protys.protys.fr CNAME .

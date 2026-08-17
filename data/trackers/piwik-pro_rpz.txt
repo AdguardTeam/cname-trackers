@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ dap.amsterdam.nl CNAME .
 dnsbl.test.tag.aumago.com CNAME .
 epiphany.masterworks.digital CNAME .
 fse.piwikpro.pl CNAME .
+game.tag.aumago.com CNAME .
 gmn.gloo.com CNAME .
 inzicht.cz.nl CNAME .
 logfiles.storck.com CNAME .

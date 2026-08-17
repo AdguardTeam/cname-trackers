@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,14 +25,12 @@ media.olmiweb.com CNAME .
 media.rabbit.click CNAME .
 my.rb2psh.ru CNAME .
 newrotatormarch23.bid CNAME .
-news.unsere-news.ru CNAME .
 nservw.net CNAME .
 owmedia.rabbit.click CNAME .
 owpush.rabbit.click CNAME .
 p.netork.ru CNAME .
 par.moyslovar.ru CNAME .
 park.realbig.media CNAME .
-park.wpcodes.org CNAME .
 push.rabbit.click CNAME .
 pushche.rabbit.click CNAME .
 rb.umspecrek.ru CNAME .

@@ -7,15 +7,14 @@
 ### Rarely active trackers
 
 * customer2.etracker.com
-* customer-test.etracker.com
 * hg0n5n.smoxycdn.net
+* customer-test.etracker.com
 * etracker.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| stage2023.signalize.com | customer-test.etracker.com |
 | www-test.etracker.de | customer-test.etracker.com |
 | 324zerb3.gaststaettenunterrichtung-bw.de | customer.etracker.com |
 | 4590bertn12.wir-gastfreunde.de | customer.etracker.com |
@@ -178,6 +177,7 @@
 | gruenten.wahl-reitsport.at | customer.etracker.com |
 | gruenten.wahl-reitsport.ch | customer.etracker.com |
 | gruenten.wahl-reitsport.com | customer.etracker.com |
+| gtm.dje.de | customer.etracker.com |
 | gus.corinnavondermuehlen.de | customer.etracker.com |
 | gus.ihlenfeldt.de | customer.etracker.com |
 | insides.honic.eu | customer.etracker.com |
@@ -217,13 +217,13 @@
 | metrics.iqcheck24.de | customer.etracker.com |
 | metrics.konapp.de | customer.etracker.com |
 | metrics.leimer.de | customer.etracker.com |
-| metrics.mammutmarsch.de | customer.etracker.com |
 | metrics.meineversicherungswelt.de | customer.etracker.com |
 | metrics.moderade.com | customer.etracker.com |
 | metrics.muehle-glashuette.de | customer.etracker.com |
 | metrics.ostseeresort-damp.de | customer.etracker.com |
 | metrics.park.aero | customer.etracker.com |
 | metrics.schroeder-data-solutions.de | customer.etracker.com |
+| metrics.senior-bett.de | customer.etracker.com |
 | metrics.shop.verpackung.de | customer.etracker.com |
 | metrics.soelring-hof.de | customer.etracker.com |
 | metrics.stadtwerke-hamm.de | customer.etracker.com |
@@ -275,6 +275,7 @@
 | stats.folienmarkt.de | customer.etracker.com |
 | stats.haus-am-meer-norderney.de | customer.etracker.com |
 | stats.hilscher.com | customer.etracker.com |
+| stats.hotel-aquamarin-norderney.de | customer.etracker.com |
 | stats.hotel-haus-norderney.de | customer.etracker.com |
 | stats.inselloft-norderney.de | customer.etracker.com |
 | stats.kaerntnerjobs.at | customer.etracker.com |
@@ -390,6 +391,7 @@
 | webcontr-magazin.mein-erbe-tut-gutes.de | customer.etracker.com |
 | webcontr.4fighter.com | customer.etracker.com |
 | webcontr.4pace.com | customer.etracker.com |
+| webcontr.algamar.de | customer.etracker.com |
 | webcontr.aquarius-prolife.com | customer.etracker.com |
 | webcontr.aulairenicus.de | customer.etracker.com |
 | webcontr.barcodescanner.de | customer.etracker.com |
@@ -479,6 +481,7 @@
 | webcontr.wgv.de | customer.etracker.com |
 | webcontr.wnxe.de | customer.etracker.com |
 | webcontr.wolkenlosundheiter.de | customer.etracker.com |
+| webcontr.yourfashionplace.de | customer.etracker.com |
 | webcontrol.brenners-altholz.at | customer.etracker.com |
 | webctrl.dalimed.de | customer.etracker.com |
 | webdat.mai-estate.com | customer.etracker.com |
@@ -505,8 +508,10 @@
 | webstt0024.onofficeom.com | customer.etracker.com |
 | webstt0027.onofficeom.com | customer.etracker.com |
 | webstt0028.onofficeom.com | customer.etracker.com |
+| webstt0029.onofficeom.com | customer.etracker.com |
 | webstt0031.onofficeom.com | customer.etracker.com |
 | webstt0032.onofficeom.com | customer.etracker.com |
+| webstt0033.onofficeom.com | customer.etracker.com |
 | webstt0035.onofficeom.com | customer.etracker.com |
 | webstt0037.onofficeom.com | customer.etracker.com |
 | webstt0038.onofficeom.com | customer.etracker.com |
@@ -524,12 +529,14 @@
 | webstt0069.onofficeom.com | customer.etracker.com |
 | webstt0071.onofficeom.com | customer.etracker.com |
 | webstt0073.onofficeom.com | customer.etracker.com |
+| webstt0077.onofficeom.com | customer.etracker.com |
 | webstt0078.onofficeom.com | customer.etracker.com |
 | websy.skillyofficial.com | customer.etracker.com |
 | webtr.cc-egov.de | customer.etracker.com |
 | webtr.codearchitekten.de | customer.etracker.com |
 | webtr.dachser.com | customer.etracker.com |
 | webtr.elearning-cc-egov.de | customer.etracker.com |
+| webtr.pdv.de | customer.etracker.com |
 | webtr.regisafe.de | customer.etracker.com |
 | webtrack.lotto-thueringen.de | customer.etracker.com |
 | weco.gasteo.de | customer.etracker.com |

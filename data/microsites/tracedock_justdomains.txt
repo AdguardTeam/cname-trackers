@@ -766,7 +766,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz
 518002086.collect.igodigital.com
 518003117.collect.igodigital.com
 518004450.collect.igodigital.com
-518004463.collect.igodigital.com
 518004687.collect.igodigital.com
 518005082.collect.igodigital.com
 518006701.collect.igodigital.com
@@ -842,7 +841,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz
 7296650.collect.igodigital.com
 7296665.collect.igodigital.com
 7296810.collect.igodigital.com
-7297790.collect.igodigital.com
 7297803.collect.igodigital.com
 7298601.collect.igodigital.com
 7299776.collect.igodigital.com
@@ -861,8 +859,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz
 7323617.collect.igodigital.com
 7326325.collect.igodigital.com
 7326801.collect.igodigital.com
-7326847.collect.igodigital.com
-7326848.collect.igodigital.com
 7328429.collect.igodigital.com
 7328781.collect.igodigital.com
 7329370.collect.igodigital.com
@@ -992,7 +988,6 @@ analytics-wol-fa.yinzcam.com
 analytics-wso-ten.yinzcam.com
 analytics.5milesapp.com
 analytics.airtv.net
-analytics.sling.com
 analytics2.airtv.net
 analytics.amwell.systems
 analytics.angelone.in

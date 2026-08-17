@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -109,7 +109,6 @@ affiliate.a1m.cz CNAME .
 affiliate.activeczech.com CNAME .
 affiliate.agatinsvet.cz CNAME .
 affiliate.akademia-online-podnikatela.sk CNAME .
-affiliate.alchymiezeny.cz CNAME .
 affiliate.alexandrajohn.com CNAME .
 affiliate.alexandrajohn.cz CNAME .
 affiliate.altatrading.cz CNAME .
@@ -303,21 +302,30 @@ hcbox.tesla-electronics.eu CNAME .
 hcbox.tlamka.cz CNAME .
 hcbox.verapostele.sk CNAME .
 hcbox1.warriorboat.sk CNAME .
-isic.dentalweb.cz CNAME .
 isic.kopirkaostrava.cz CNAME .
 isicpartner.mamechut.cz CNAME .
 kaocko.swaglift.com CNAME .
+m.algomoneo.com CNAME .
 money.mioweb.cz CNAME .
 my.11teamsports.bg CNAME .
 my.11teamsports.com CNAME .
 my.11teamsports.cy CNAME .
+my.11teamsports.cz CNAME .
 my.11teamsports.dk CNAME .
 my.11teamsports.ee CNAME .
+my.11teamsports.es CNAME .
 my.11teamsports.fi CNAME .
+my.11teamsports.gr CNAME .
 my.11teamsports.hr CNAME .
+my.11teamsports.hu CNAME .
+my.11teamsports.ie CNAME .
 my.11teamsports.lt CNAME .
+my.11teamsports.pl CNAME .
+my.11teamsports.pt CNAME .
+my.11teamsports.ro CNAME .
 my.11teamsports.se CNAME .
 my.11teamsports.si CNAME .
+my.11teamsports.sk CNAME .
 my.fr.top4running.be CNAME .
 my.kickz.com CNAME .
 my.top4fitness.cz CNAME .
@@ -325,31 +333,42 @@ my.top4fitness.gr CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
+my.top4running.ch CNAME .
 my.top4running.com CNAME .
 my.top4running.cy CNAME .
+my.top4running.cz CNAME .
+my.top4running.de CNAME .
 my.top4running.dk CNAME .
+my.top4running.es CNAME .
 my.top4running.fi CNAME .
+my.top4running.fr CNAME .
+my.top4running.gr CNAME .
 my.top4running.hr CNAME .
 my.top4running.hu CNAME .
 my.top4running.ie CNAME .
+my.top4running.it CNAME .
 my.top4running.nl CNAME .
 my.top4running.pl CNAME .
 my.top4running.pt CNAME .
 my.top4running.ro CNAME .
 my.top4running.se CNAME .
 my.top4running.si CNAME .
+my.top4running.sk CNAME .
 my.top4sport.hu CNAME .
 my.top4sport.ro CNAME .
 my.volleybaldirect.nl CNAME .
 my.weplaybasketball.bg CNAME .
+my.weplaybasketball.cz CNAME .
 my.weplaybasketball.de CNAME .
 my.weplaybasketball.ee CNAME .
 my.weplaybasketball.gr CNAME .
 my.weplaybasketball.hu CNAME .
+my.weplaybasketball.lv CNAME .
 my.weplaybasketball.ro CNAME .
 my.weplaybasketball.si CNAME .
 my.weplayhandball.bg CNAME .
 my.weplayhandball.ch CNAME .
+my.weplayhandball.cz CNAME .
 my.weplayhandball.de CNAME .
 my.weplayhandball.es CNAME .
 my.weplayhandball.eu CNAME .
@@ -399,6 +418,7 @@ partner.ateliermozaika.cz CNAME .
 partner.austriaapotheke.sk CNAME .
 partner.autosarm.cz CNAME .
 partner.avetour.cz CNAME .
+partner.babypatent.cz CNAME .
 partner.babypatent.sk CNAME .
 partner.babysigns.cz CNAME .
 partner.barefootsaltic.cz CNAME .
@@ -426,6 +446,7 @@ partner.brillbird.cz CNAME .
 partner.buka.cz CNAME .
 partner.burzazive.cz CNAME .
 partner.bydlimekrasne.cz CNAME .
+partner.bylinkovysvet.com CNAME .
 partner.cakemarket.eu CNAME .
 partner.candy.cz CNAME .
 partner.caskrmeni.cz CNAME .
@@ -457,6 +478,7 @@ partner.cshop.sk CNAME .
 partner.cukrarskaskola.cz CNAME .
 partner.cukrarskyklub.cz CNAME .
 partner.cukraszvilag.hu CNAME .
+partner.danfil.co.uk CNAME .
 partner.danfil.cz CNAME .
 partner.darabags.com CNAME .
 partner.darinapetrakova.cz CNAME .
@@ -485,6 +507,7 @@ partner.dressibly.cz CNAME .
 partner.dripit.cz CNAME .
 partner.dynamikabohatstvi.cz CNAME .
 partner.eandilek.cz CNAME .
+partner.ebyliny.cz CNAME .
 partner.ecomail.cz CNAME .
 partner.econea.cz CNAME .
 partner.edutu.cz CNAME .
@@ -505,6 +528,7 @@ partner.fabulo.sk CNAME .
 partner.farbe.cz CNAME .
 partner.ferratum.cz CNAME .
 partner.ferwer.cz CNAME .
+partner.filtracniset.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.fotoposta.sk CNAME .
@@ -565,6 +589,7 @@ partner.lamax-electronics.com CNAME .
 partner.lascero.cz CNAME .
 partner.lascivni.cz CNAME .
 partner.lauben.com CNAME .
+partner.leadingtechnologies.cz CNAME .
 partner.legalni-konopi.cz CNAME .
 partner.lehatkapropsy.cz CNAME .
 partner.lekarna.cz CNAME .
@@ -583,9 +608,9 @@ partner.lyzelyze.cz CNAME .
 partner.mailocator.cz CNAME .
 partner.majtki.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
+partner.marketingacademy.sk CNAME .
 partner.martinafallerova.cz CNAME .
 partner.martinreznicek.cz CNAME .
-partner.massivo.cz CNAME .
 partner.mbytshop.cz CNAME .
 partner.medela.cz CNAME .
 partner.medela.sk CNAME .
@@ -663,6 +688,7 @@ partner.psidetektiv.cz CNAME .
 partner.pureharmony.cz CNAME .
 partner.resinstudio.cz CNAME .
 partner.rixo.sk CNAME .
+partner.roboticky-vysavac.cz CNAME .
 partner.robotworld.ro CNAME .
 partner.robotworld.sk CNAME .
 partner.root.cz CNAME .
@@ -671,6 +697,7 @@ partner.ruzovyslon.cz CNAME .
 partner.salibandy.shop CNAME .
 partner.sambalshop.cz CNAME .
 partner.santao.cz CNAME .
+partner.scentics.cz CNAME .
 partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
 partner.sculpturepainting.eu CNAME .
@@ -882,6 +909,7 @@ partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
 partners.gingles.co CNAME .
 partners.henrysmusic.com CNAME .
+partners.klubinin.cz CNAME .
 partners.lawofattraction.cz CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
@@ -922,7 +950,6 @@ spoluprace.fotozde.cz CNAME .
 spoluprace.frike.cz CNAME .
 spoluprace.galaxy.cz CNAME .
 spoluprace.gprooms.eu CNAME .
-spoluprace.h2world.store CNAME .
 spoluprace.hyla.cz CNAME .
 spoluprace.imagemakersforyou.cz CNAME .
 spoluprace.inkahome.cz CNAME .

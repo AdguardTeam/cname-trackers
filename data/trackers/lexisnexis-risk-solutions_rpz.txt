@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -191,6 +191,7 @@ cdn.alliantcreditunion.com CNAME .
 cdn.bambusystems.com CNAME .
 cdn.coastcapitalsavings.com CNAME .
 cdn.gusto.com CNAME .
+cdn1.dol.nj.gov CNAME .
 cdn1.dol.state.nj.us CNAME .
 cdn1.f-cdn.com CNAME .
 cdn1.onecalldirect.co.uk CNAME .
@@ -322,8 +323,8 @@ connect.solspark.com CNAME .
 consortium.adib.ae CNAME .
 contendvc.cnouyi.pizza CNAME .
 content-48.cnb.com CNAME .
+content-cdn.multimoney.com.mx CNAME .
 content-dt.crepassplus.com CNAME .
-content-static.emiratesnbd.com CNAME .
 content-tix.topi.eu CNAME .
 content-uk.fundingcircle.com CNAME .
 content.affinityfcu.com CNAME .
@@ -358,6 +359,8 @@ content.cofidis.pt CNAME .
 content.conapcg.com CNAME .
 content.connexion-mabanque.bnpparibas CNAME .
 content.connexion.hellobank.fr CNAME .
+content.connexion.mabanque.bnpparibas CNAME .
+content.connexion.monespace.hellobank.fr CNAME .
 content.consumercardaccess.com CNAME .
 content.covantagecu.org CNAME .
 content.ctfs.com CNAME .
@@ -459,6 +462,7 @@ content.pnbank.com.au CNAME .
 content.presentment.com CNAME .
 content.prev-espace-client.hellobank.fr CNAME .
 content.prev.connexion-mabanque.bnpparibas CNAME .
+content.prev.connexion.monespace.bnpparibas CNAME .
 content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
 content.readiness.consumercardaccess.com CNAME .
@@ -467,6 +471,7 @@ content.readiness.paycardsolutions.com CNAME .
 content.realquest.com CNAME .
 content.rendimento.com.br CNAME .
 content.rias.co.uk CNAME .
+content.royalvegas.ca CNAME .
 content.royalvegascasino.ca CNAME .
 content.rubyfortune.ca CNAME .
 content.rubyfortunecasino.ca CNAME .
@@ -492,6 +497,7 @@ content.thebankoflondon.com CNAME .
 content.uionline.dlt.ri.gov CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
+content.vb24.md CNAME .
 content.vi.gov CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
@@ -551,6 +557,7 @@ contentservices.ascendloans.com CNAME .
 contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
 contentservices.firstlightlending.com CNAME .
+contentservices.trulend.com CNAME .
 continuum.ford.com CNAME .
 cookiemonster.calcas.com CNAME .
 creditapp.rogersbank.com CNAME .
@@ -583,6 +590,7 @@ detect.clearme.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
 device-fingerprint.pay1.checkout.worldline-solutions.com CNAME .
 device-fingerprint.pay2.checkout.worldline-solutions.com CNAME .
+device-fingerprint.pay2.preprod.checkout.worldline-solutions.com CNAME .
 device-id.orientalbank.com CNAME .
 device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
@@ -627,7 +635,6 @@ dpcontent.locationsmart.net CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dt.extrakarte.com CNAME .
-dt.payla.io CNAME .
 dtrust.atratopago.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
 ebcontent.mcbankny.com CNAME .
@@ -795,6 +802,7 @@ lexis.ourtrip.com.br CNAME .
 lght.loberon.com CNAME .
 line.bd.com CNAME .
 ln.acornfun.com CNAME .
+ln.betboom.com CNAME .
 ln.cash.app CNAME .
 ln.cidercasino.com CNAME .
 ln.coolspinslot.com CNAME .
@@ -1093,7 +1101,6 @@ secure.freshbooks.com CNAME .
 secure.idbank.it CNAME .
 secure.jumia.ci CNAME .
 secure.jumia.co.ke CNAME .
-secure.jumia.co.za CNAME .
 secure.jumia.com.dz CNAME .
 secure.jumia.com.eg CNAME .
 secure.jumia.com.gh CNAME .
@@ -1153,7 +1160,6 @@ static.yg-cdn.io CNAME .
 static2.gumtree.com.au CNAME .
 stats.badoostats.com CNAME .
 stats.dell.com CNAME .
-sub-a.crossmeetz.com CNAME .
 subcontent.galeria.de CNAME .
 sunshine.lillypulitzer.com CNAME .
 svc.bangkokbank.com CNAME .

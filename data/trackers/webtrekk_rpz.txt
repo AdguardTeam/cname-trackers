@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -245,7 +245,6 @@ web.bankofscotland.de CNAME .
 web.campaign.jaked.com CNAME .
 web.campaign.miriade.com CNAME .
 web.campaign.v73.it CNAME .
-web.capriceshoes.com CNAME .
 web.collisionservices.com CNAME .
 web.comunicaciones.toysrus.pt CNAME .
 web.comunicazioni.iol.it CNAME .
@@ -287,7 +286,6 @@ web.mail.nordiq.dk CNAME .
 web.mail.parmalat.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mailing.morawa.at CNAME .
-web.mailing.storz-bickel.com CNAME .
 web.mapp.docpeter.it CNAME .
 web.mapp.edenred.it CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .
@@ -299,7 +297,6 @@ web.mapp.tretti.se CNAME .
 web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
-web.marcotozzi.com CNAME .
 web.mytoys.de CNAME .
 web.news.absurdbeauty.com CNAME .
 web.news.bottegaverde.com CNAME .

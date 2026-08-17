@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -39,6 +39,7 @@ qqguqdw.veneera.nl CNAME .
 qroyrbh.veneera.fr CNAME .
 rulrdow.solawave.co CNAME .
 rwlywoe.keepnaturewild.com CNAME .
+sffqoyx.bescher.com.au CNAME .
 tbwzcos.retreatmentbotanics.com CNAME .
 uaxfwsb.smallflower.com CNAME .
 ucscaik.gardencup.com CNAME .

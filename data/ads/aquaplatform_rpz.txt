@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -93,6 +93,7 @@ console.ads.fanta-olimpiadi.com CNAME .
 console.adspmg.com CNAME .
 console.ammoland.com CNAME .
 console.aqua-adserver.com CNAME .
+console.atlantamagazine.com CNAME .
 console.biohandel.de CNAME .
 console.blulab.net CNAME .
 console.cavalier-romand.ch CNAME .
@@ -100,6 +101,7 @@ console.ceramicartsnetwork.org CNAME .
 console.channelvas.com CNAME .
 console.cincinnatimagazine.com CNAME .
 console.conservativestar.com CNAME .
+console.consulcesi.it CNAME .
 console.cricketworld.com CNAME .
 console.datateam.co.uk CNAME .
 console.engineeringnews.co.za CNAME .
@@ -121,7 +123,6 @@ console.medlabmag.com CNAME .
 console.mequoda.com CNAME .
 console.miningweekly.com CNAME .
 console.palmbeachmedia.com CNAME .
-console.personare.com.br CNAME .
 console.pinktriangle.ca CNAME .
 console.polity.org.za CNAME .
 console.postandparcel.info CNAME .
@@ -146,6 +147,7 @@ display.lawbulletin.com CNAME .
 edgeadserver-delivery.reviveservers.com CNAME .
 etnomedia-static.reviveservers.com CNAME .
 growthtrac-delivery.reviveservers.com CNAME .
+hlipublishing-static.reviveservers.com CNAME .
 images.addurance.com CNAME .
 images.cavalier-romand.ch CNAME .
 images.cricketworld.com CNAME .
@@ -154,6 +156,7 @@ images.etnomedia.nl CNAME .
 images.falconstudios.com CNAME .
 images.fnch.ch CNAME .
 images.goldseek.com CNAME .
+images.hlipublishing.com CNAME .
 images.hour-media.com CNAME .
 images.informatm.com CNAME .
 images.mannenmedia.nl CNAME .

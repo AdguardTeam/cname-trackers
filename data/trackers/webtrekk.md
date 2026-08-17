@@ -71,13 +71,11 @@
     * 301407277754972.wt-eu02.net
     * 302571338326011.wt-eu02.net
     * 302631813489498.wt-eu02.net
-    * 306539831205028.wt-eu02.net
     * 306840111891766.wt-eu02.net
     * 307902509027183.wt-eu02.net
     * 310695274957699.wt-eu02.net
     * 312310057961150.wt-eu02.net
     * 314490691071763.wt-eu02.net
-    * 318590743478915.wt-eu02.net
     * 324225834397336.wt-eu02.net
     * 326021631118392.wt-eu02.net
     * 329712103760415.wt-eu02.net
@@ -303,8 +301,6 @@
 | web.campaign.v73.it | 302571338326011.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
-| web.capriceshoes.com | 306539831205028.wt-eu02.net |
-| web.marcotozzi.com | 306539831205028.wt-eu02.net |
 | web.e.panmacmillan.com | 306840111891766.wt-eu02.net |
 | a.hrewards.com | 307902509027183.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
@@ -314,7 +310,6 @@
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
 | web.mail.parmalat.it | 312310057961150.wt-eu02.net |
 | startrekk.flaconi.it | 314490691071763.wt-eu02.net |
-| web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
 | info.genialklick.ch | 324225834397336.wt-eu02.net |
 | web.info.paginegialle.it | 326021631118392.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |

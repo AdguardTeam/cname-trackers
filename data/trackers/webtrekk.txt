@@ -234,7 +234,6 @@
 ||web.campaign.jaked.com^
 ||web.campaign.miriade.com^
 ||web.campaign.v73.it^
-||web.capriceshoes.com^
 ||web.collisionservices.com^
 ||web.comunicaciones.toysrus.pt^
 ||web.comunicazioni.iol.it^
@@ -276,7 +275,6 @@
 ||web.mail.parmalat.it^
 ||web.mail.proximaati.com^
 ||web.mailing.morawa.at^
-||web.mailing.storz-bickel.com^
 ||web.mapp.docpeter.it^
 ||web.mapp.edenred.it^
 ||web.mapp.ilgiardinodeilibri.it^
@@ -288,7 +286,6 @@
 ||web.mapp.whiteaway.com^
 ||web.mapp.whiteaway.no^
 ||web.mapp.whiteaway.se^
-||web.marcotozzi.com^
 ||web.mytoys.de^
 ||web.news.absurdbeauty.com^
 ||web.news.bottegaverde.com^

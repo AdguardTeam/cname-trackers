@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -90,6 +90,7 @@ al.nawa-store.jp CNAME .
 al.neckar.jp CNAME .
 al.nobunaga-toys.com CNAME .
 al.noemie.jp CNAME .
+al.nogizaka46shop.com CNAME .
 al.office-com.jp CNAME .
 al.onedogs.jp CNAME .
 al.outfitter-lab.com CNAME .

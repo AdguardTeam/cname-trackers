@@ -9,6 +9,7 @@
 * form.bp01.net
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
+* forms.bp01.net
 
 ## Cloaking domains
 
@@ -24,6 +25,8 @@
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
+| www.jeu.heliades.fr | forms.bp01.net |
+| m.uneo.fr | shortener.bp01.net |
 | s.allopneus.com | shortener.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
 | s.lgch.mp | shortener.bp01.net |

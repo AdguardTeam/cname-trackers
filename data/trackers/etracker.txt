@@ -161,6 +161,7 @@
 ||gruenten.wahl-reitsport.at^
 ||gruenten.wahl-reitsport.ch^
 ||gruenten.wahl-reitsport.com^
+||gtm.dje.de^
 ||gus.corinnavondermuehlen.de^
 ||gus.ihlenfeldt.de^
 ||insides.honic.eu^
@@ -200,13 +201,13 @@
 ||metrics.iqcheck24.de^
 ||metrics.konapp.de^
 ||metrics.leimer.de^
-||metrics.mammutmarsch.de^
 ||metrics.meineversicherungswelt.de^
 ||metrics.moderade.com^
 ||metrics.muehle-glashuette.de^
 ||metrics.ostseeresort-damp.de^
 ||metrics.park.aero^
 ||metrics.schroeder-data-solutions.de^
+||metrics.senior-bett.de^
 ||metrics.shop.verpackung.de^
 ||metrics.soelring-hof.de^
 ||metrics.stadtwerke-hamm.de^
@@ -258,6 +259,7 @@
 ||stats.folienmarkt.de^
 ||stats.haus-am-meer-norderney.de^
 ||stats.hilscher.com^
+||stats.hotel-aquamarin-norderney.de^
 ||stats.hotel-haus-norderney.de^
 ||stats.inselloft-norderney.de^
 ||stats.kaerntnerjobs.at^
@@ -373,6 +375,7 @@
 ||webcontr-magazin.mein-erbe-tut-gutes.de^
 ||webcontr.4fighter.com^
 ||webcontr.4pace.com^
+||webcontr.algamar.de^
 ||webcontr.aquarius-prolife.com^
 ||webcontr.aulairenicus.de^
 ||webcontr.barcodescanner.de^
@@ -462,6 +465,7 @@
 ||webcontr.wgv.de^
 ||webcontr.wnxe.de^
 ||webcontr.wolkenlosundheiter.de^
+||webcontr.yourfashionplace.de^
 ||webcontrol.brenners-altholz.at^
 ||webctrl.dalimed.de^
 ||webdat.mai-estate.com^
@@ -488,8 +492,10 @@
 ||webstt0024.onofficeom.com^
 ||webstt0027.onofficeom.com^
 ||webstt0028.onofficeom.com^
+||webstt0029.onofficeom.com^
 ||webstt0031.onofficeom.com^
 ||webstt0032.onofficeom.com^
+||webstt0033.onofficeom.com^
 ||webstt0035.onofficeom.com^
 ||webstt0037.onofficeom.com^
 ||webstt0038.onofficeom.com^
@@ -507,12 +513,14 @@
 ||webstt0069.onofficeom.com^
 ||webstt0071.onofficeom.com^
 ||webstt0073.onofficeom.com^
+||webstt0077.onofficeom.com^
 ||webstt0078.onofficeom.com^
 ||websy.skillyofficial.com^
 ||webtr.cc-egov.de^
 ||webtr.codearchitekten.de^
 ||webtr.dachser.com^
 ||webtr.elearning-cc-egov.de^
+||webtr.pdv.de^
 ||webtr.regisafe.de^
 ||webtrack.lotto-thueringen.de^
 ||weco.gasteo.de^
@@ -531,7 +539,6 @@
 ||et.juskys.de^
 ||stats.ekd.de^
 ||stats.mm-germany.com^
-||stage2023.signalize.com^
-||www-test.etracker.de^
 ||tr7593.pollin.de^
+||www-test.etracker.de^
 ||www.visitormotion.com^

@@ -20,6 +20,7 @@
 ||dnsbl.test.tag.aumago.com^
 ||epiphany.masterworks.digital^
 ||fse.piwikpro.pl^
+||game.tag.aumago.com^
 ||gmn.gloo.com^
 ||inzicht.cz.nl^
 ||logfiles.storck.com^

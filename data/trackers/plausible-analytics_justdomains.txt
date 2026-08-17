@@ -80,7 +80,6 @@ insights.affilimate.com
 jinx.skullctf.com
 kaladyaudiology.ericksonbuilt.com
 l.lilyzhou.com
-lkj23jlkajsa.realestate.help
 loggychops.paulsmith.site
 lytics.findairpods.com
 marsupial.roleup.com
@@ -144,7 +143,6 @@ plausible.benscarblog.com
 plausible.bostad.shop
 plausible.buildfirst.tech
 plausible.campwire.com
-plausible.canpoi.com
 plausible.conveyal.com
 plausible.countingindia.com
 plausible.dailytics.com
@@ -479,7 +477,6 @@ stats.kendix.org
 stats.kensho.com
 stats.kettlebellbundle.com
 stats.kevlatus.de
-stats.klaussteinke.com
 stats.klj-consult.com
 stats.kod.ru
 stats.koehrer.de
@@ -668,7 +665,6 @@ stats.timmo.immo
 stats.tms-development.com
 stats.tms-development.de
 stats.tms-institut.de
-stats.tnc.sc
 stats.toiletmap.org.uk
 stats.tomorrowacademy.org
 stats.training.fit

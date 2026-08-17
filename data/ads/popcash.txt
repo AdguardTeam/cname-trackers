@@ -260,7 +260,6 @@
 ||canidae.fidum.uk^
 ||capybara.civicsoftwarefoundation.org^
 ||capybara.randyhamiltonelectric.com^
-||cardinal.businessfirstonline.co.uk^
 ||cardinal.genx.be^
 ||cardinal.krisenchat.de^
 ||cardinal.newman.is^
@@ -272,7 +271,6 @@
 ||cat.gfx.io^
 ||cat.laravel-news.com^
 ||cat.mattr.global^
-||cat.sprucely.net^
 ||catfish.phuclh.com^
 ||catfish.pressure.cooking^
 ||catfish.sofatido.ch^
@@ -429,7 +427,6 @@
 ||gamefowl.nonprofit.foundation^
 ||gayal.guter-plan.at^
 ||gayal.maxmasnick.com^
-||gayal.stockshouse.co^
 ||gazelle.editorclub.com^
 ||gazelle.laurenagray.com^
 ||gecko.rrrelax.app^
@@ -577,7 +574,6 @@
 ||leopon.jmk.wtf^
 ||leopon.luckycasts.com^
 ||leopon.originalmineral.com^
-||limpet.eddiehinkle.com^
 ||limpet.pioneerlandscapingllc.com^
 ||limpet.yago.dev^
 ||lion.lastfrontiermagazine.com^
@@ -657,7 +653,6 @@
 ||nf1nknlw.mateforevents.com^
 ||nkydma.newbuild.studio^
 ||ocelot.anthroquiches.fr^
-||ocelot.goinpaces.com^
 ||ocelot.pixlwebs.nl^
 ||ocelot.sonicumonitoring.com^
 ||octopus.clarify.us^
@@ -697,7 +692,6 @@
 ||parakeet.quotetweet.com^
 ||parrot.alookwithin.ca^
 ||parrot.lovably.com^
-||parrotfish.thenping.me^
 ||partridge.antonius.me^
 ||peafowl.prod.fyi^
 ||penguin.craftpeak.io^
@@ -887,7 +881,6 @@
 ||toad.ettiennevorster.co.za^
 ||toad.frontendmentor.io^
 ||tortoise.allyinteractive.com^
-||tortoise.cult.st^
 ||tortoise.mdx.one^
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
@@ -957,6 +950,8 @@
 ||yak.auclantis.com^
 ||yak.gregsullivan.com^
 ||yak.juicydevils.gr^
+||a.th.gl^
+||ads.adsvtm.com^
 ||ads.cdn.bndlapi.com^
 ||ads.djc.com^
 ||allnews.chestertelegraph.org^
@@ -1072,6 +1067,7 @@
 ||mp2y3.sm20j.xyz^
 ||msrvt.net^
 ||ompe2.7u6h8.xyz^
+||pa.firefox.com^
 ||sp.lenspk.com^
 ||sp.theladyshop.pk^
 ||ss.mndsrv.com^
@@ -1081,5 +1077,4 @@
 ||stat.guidebot.org^
 ||stats.yootheme.com^
 ||thirty-good.lugg.com^
-||tltcxs.awohkn.com^
 ||video.adsninja.ca^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -91,7 +91,6 @@ insights.affilimate.com CNAME .
 jinx.skullctf.com CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
 l.lilyzhou.com CNAME .
-lkj23jlkajsa.realestate.help CNAME .
 loggychops.paulsmith.site CNAME .
 lytics.findairpods.com CNAME .
 marsupial.roleup.com CNAME .
@@ -155,7 +154,6 @@ plausible.benscarblog.com CNAME .
 plausible.bostad.shop CNAME .
 plausible.buildfirst.tech CNAME .
 plausible.campwire.com CNAME .
-plausible.canpoi.com CNAME .
 plausible.conveyal.com CNAME .
 plausible.countingindia.com CNAME .
 plausible.dailytics.com CNAME .
@@ -490,7 +488,6 @@ stats.kendix.org CNAME .
 stats.kensho.com CNAME .
 stats.kettlebellbundle.com CNAME .
 stats.kevlatus.de CNAME .
-stats.klaussteinke.com CNAME .
 stats.klj-consult.com CNAME .
 stats.kod.ru CNAME .
 stats.koehrer.de CNAME .
@@ -679,7 +676,6 @@ stats.timmo.immo CNAME .
 stats.tms-development.com CNAME .
 stats.tms-development.de CNAME .
 stats.tms-institut.de CNAME .
-stats.tnc.sc CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.tomorrowacademy.org CNAME .
 stats.training.fit CNAME .

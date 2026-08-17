@@ -13,6 +13,7 @@ dashboard.digita.media
 dashboard.entravision.com
 dashboard.grapemedia.cz
 dashboard.lookverin.com
+dashboard.regiealfa.com
 dashboard.srmg.com
 dashboard.viewtraff.com
 dashboard.xqubemedia.com

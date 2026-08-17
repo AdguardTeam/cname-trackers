@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -664,7 +664,6 @@ a8clk.suguchoku.jp CNAME .
 a8clk.sumafuri.jp CNAME .
 a8clk.supreme-noi.jp CNAME .
 a8clk.sure-i.co.jp CNAME .
-a8clk.sweethomefloripa.com CNAME .
 a8clk.t-fic.co.jp CNAME .
 a8clk.t-tree.net CNAME .
 a8clk.taisho-beauty.jp CNAME .
@@ -1066,7 +1065,6 @@ a8cv.moderno-zing.com CNAME .
 a8cv.modescape.com CNAME .
 a8cv.mogecheck.jp CNAME .
 a8cv.momiji-tantei.com CNAME .
-a8cv.mova-creator-school.com CNAME .
 a8cv.mura.ne.jp CNAME .
 a8cv.my-arrow.co.jp CNAME .
 a8cv.mygol.jp CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -237,30 +237,6 @@ data-1ba1afb625.leinfelden-echterdingen.de CNAME .
 data-1bc9d87af9.ahgz.de CNAME .
 data-1bc9d87af9.ahgzimmo.de CNAME .
 data-1be5adcd69.apps.iocnt.de CNAME .
-data-1c0a3d83e3.transfermarkt.ae CNAME .
-data-1c0a3d83e3.transfermarkt.at CNAME .
-data-1c0a3d83e3.transfermarkt.be CNAME .
-data-1c0a3d83e3.transfermarkt.ch CNAME .
-data-1c0a3d83e3.transfermarkt.co.id CNAME .
-data-1c0a3d83e3.transfermarkt.co.in CNAME .
-data-1c0a3d83e3.transfermarkt.co.uk CNAME .
-data-1c0a3d83e3.transfermarkt.co.za CNAME .
-data-1c0a3d83e3.transfermarkt.com.ar CNAME .
-data-1c0a3d83e3.transfermarkt.com.br CNAME .
-data-1c0a3d83e3.transfermarkt.com.tr CNAME .
-data-1c0a3d83e3.transfermarkt.es CNAME .
-data-1c0a3d83e3.transfermarkt.fr CNAME .
-data-1c0a3d83e3.transfermarkt.it CNAME .
-data-1c0a3d83e3.transfermarkt.jp CNAME .
-data-1c0a3d83e3.transfermarkt.mx CNAME .
-data-1c0a3d83e3.transfermarkt.my CNAME .
-data-1c0a3d83e3.transfermarkt.nl CNAME .
-data-1c0a3d83e3.transfermarkt.pe CNAME .
-data-1c0a3d83e3.transfermarkt.pl CNAME .
-data-1c0a3d83e3.transfermarkt.pt CNAME .
-data-1c0a3d83e3.transfermarkt.ru CNAME .
-data-1c0a3d83e3.transfermarkt.us CNAME .
-data-1c0a3d83e3.transfermarkt.world CNAME .
 data-1c70f16ae2.newsflix.at CNAME .
 data-1c9505e4f1.digitalphoto.de CNAME .
 data-1caddf134b.move-online.de CNAME .
@@ -764,6 +740,7 @@ data-5ce6ecf8d0.nbi.de CNAME .
 data-5d2679d281.skysportaustria.at CNAME .
 data-5d848783f7.spiegel.de CNAME .
 data-5d9e07c784.stadt-und-werk.de CNAME .
+data-5df529b78e.hotelbau.de CNAME .
 data-5e25716aa5.apps.iocnt.de CNAME .
 data-5e5ac4ec65.menshealth-personaltrainer.com CNAME .
 data-5e5ac4ec65.menshealth.de CNAME .
@@ -1038,28 +1015,6 @@ data-8468e8ebc5.laola1.at CNAME .
 data-849004cc69.radio-regenbogen.de CNAME .
 data-849004cc69.regenbogen.de CNAME .
 data-84926a5f67.energie-und-management.de CNAME .
-data-84a0f3455d.transfermarkt.at CNAME .
-data-84a0f3455d.transfermarkt.be CNAME .
-data-84a0f3455d.transfermarkt.ch CNAME .
-data-84a0f3455d.transfermarkt.co CNAME .
-data-84a0f3455d.transfermarkt.co.id CNAME .
-data-84a0f3455d.transfermarkt.co.in CNAME .
-data-84a0f3455d.transfermarkt.co.kr CNAME .
-data-84a0f3455d.transfermarkt.co.uk CNAME .
-data-84a0f3455d.transfermarkt.co.za CNAME .
-data-84a0f3455d.transfermarkt.es CNAME .
-data-84a0f3455d.transfermarkt.fr CNAME .
-data-84a0f3455d.transfermarkt.it CNAME .
-data-84a0f3455d.transfermarkt.jp CNAME .
-data-84a0f3455d.transfermarkt.mx CNAME .
-data-84a0f3455d.transfermarkt.my CNAME .
-data-84a0f3455d.transfermarkt.nl CNAME .
-data-84a0f3455d.transfermarkt.pe CNAME .
-data-84a0f3455d.transfermarkt.pl CNAME .
-data-84a0f3455d.transfermarkt.pt CNAME .
-data-84a0f3455d.transfermarkt.ru CNAME .
-data-84a0f3455d.transfermarkt.us CNAME .
-data-84a0f3455d.transfermarkt.world CNAME .
 data-84bc7eaa45.kabelmail.de CNAME .
 data-84bc7eaa45.vodafone.de CNAME .
 data-84bc7eaa45.vodafonemail.de CNAME .
@@ -1428,6 +1383,7 @@ data-b35e28a5a5.springermedizin.de CNAME .
 data-b36bfba069.apps.iocnt.de CNAME .
 data-b389eff81a.business-punk.com CNAME .
 data-b38a38e422.apps.iocnt.de CNAME .
+data-b43b9c64e3.winbiap.net CNAME .
 data-b4d5de22d2.auto-motor-und-sport.de CNAME .
 data-b4d5de22d2.mehr-tanken.de CNAME .
 data-b4df3518e0.haustec.de CNAME .
@@ -1885,7 +1841,6 @@ data-f1e447fbcf.merkur.de CNAME .
 data-f1e447fbcf.trauer.nrw CNAME .
 data-f23d588bea.hamburg.de CNAME .
 data-f25fa5345b.xn--sterreich-z7a.at CNAME .
-data-f27acaf339.haustechnikdialog.de CNAME .
 data-f2fef0ab45.rhoenundsaalepost.de CNAME .
 data-f2fef0ab45.rhoenundstreubote.de CNAME .
 data-f35c83b71a.ots.at CNAME .
@@ -1926,7 +1881,6 @@ data-f6693670bf.sn.at CNAME .
 data-f690045316.sicht-sonnenschutz.com CNAME .
 data-f6d2ad6f1b.t3n.de CNAME .
 data-f722634d33.haller-kreisblatt.de CNAME .
-data-f7a0168660.versicherungsbote.de CNAME .
 data-f7c9c12653.sachsen-fernsehen.de CNAME .
 data-f8861a495c.shk-at-work.de CNAME .
 data-f8f10caff9.apps.iocnt.de CNAME .
@@ -2060,6 +2014,7 @@ data-nl.medical-design.news CNAME .
 data-nl.smarterworld.de CNAME .
 data-nl.tageskarte.io CNAME .
 eia.apps.iocnt.de CNAME .
+fwd.apps.iocnt.de CNAME .
 member.oewa.at CNAME .
 pool1.ioam.de CNAME .
 pool2.ioam.de CNAME .

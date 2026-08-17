@@ -44,6 +44,7 @@
 | at.h24.news | tls.non.li |
 | barracuda.h24.news | tls.non.li |
 | br.h24.news | tls.non.li |
+| central.us.h24.news | tls.non.li |
 | client.h24.news | tls.non.li |
 | cms.h24.news | tls.non.li |
 | customer.h24.news | tls.non.li |
@@ -61,6 +62,7 @@
 | go.saveurs-magazine.fr | tls.non.li |
 | go.solidworks.com | tls.non.li |
 | gossip.h24.news | tls.non.li |
+| gt.h24.news | tls.non.li |
 | hn.h24.news | tls.non.li |
 | ie.h24.news | tls.non.li |
 | in.h24.news | tls.non.li |
@@ -179,6 +181,7 @@
 | l.glitz.paris | tls.non.li |
 | l.grazia.fr | tls.non.li |
 | l.grazia.it | tls.non.li |
+| l.graziamagazine.com | tls.non.li |
 | l.harpersbazaar.fr | tls.non.li |
 | l.hautanjou.fr | tls.non.li |
 | l.hbrfrance.fr | tls.non.li |
@@ -207,6 +210,7 @@
 | l.lamontagne.fr | tls.non.li |
 | l.lanouvellerepublique.fr | tls.non.li |
 | l.lardennais.fr | tls.non.li |
+| l.larenaissanceduloiretcher.fr | tls.non.li |
 | l.larenaissancehebdo.fr | tls.non.li |
 | l.larep.fr | tls.non.li |
 | l.larepubliquedespyrenees.fr | tls.non.li |
@@ -214,6 +218,7 @@
 | l.larvf.com | tls.non.li |
 | l.lasanteauquotidien.com | tls.non.li |
 | l.latribune.fr | tls.non.li |
+| l.laviecorrezienne.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |
 | l.le-pays.fr | tls.non.li |
 | l.le10sport.com | tls.non.li |
@@ -360,6 +365,7 @@
 | l.xataka.com.mx | tls.non.li |
 | l.xatakamovil.com | tls.non.li |
 | l.zdnet.fr | tls.non.li |
+| login.ch-fr.h24.news | tls.non.li |
 | login.h24.news | tls.non.li |
 | mail10.h24.news | tls.non.li |
 | mail11.h24.news | tls.non.li |
@@ -368,6 +374,7 @@
 | mx3.h24.news | tls.non.li |
 | panel.h24.news | tls.non.li |
 | partners.h24.news | tls.non.li |
+| pe.h24.news | tls.non.li |
 | pop.h24.news | tls.non.li |
 | portal.h24.news | tls.non.li |
 | prod-0.moarty.com | tls.non.li |

@@ -653,7 +653,6 @@
 ||a8clk.sumafuri.jp^
 ||a8clk.supreme-noi.jp^
 ||a8clk.sure-i.co.jp^
-||a8clk.sweethomefloripa.com^
 ||a8clk.t-fic.co.jp^
 ||a8clk.t-tree.net^
 ||a8clk.taisho-beauty.jp^
@@ -1055,7 +1054,6 @@
 ||a8cv.modescape.com^
 ||a8cv.mogecheck.jp^
 ||a8cv.momiji-tantei.com^
-||a8cv.mova-creator-school.com^
 ||a8cv.mura.ne.jp^
 ||a8cv.my-arrow.co.jp^
 ||a8cv.mygol.jp^

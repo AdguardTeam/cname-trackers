@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,16 +15,11 @@ prod.nitrosniffer.ottogroup.io CNAME .
 sniffer.nitro-production.otto.boreus.de CNAME .
 sniffer.nitro-test-extern.otto.boreus.de CNAME .
 te.ackermann.ch CNAME .
-te.ambria.de CNAME .
 te.baur.de CNAME .
-te.creation-l.de CNAME .
 te.frankonia.at CNAME .
 te.frankonia.com CNAME .
 te.frankonia.de CNAME .
 te.frankoniamoda.ch CNAME .
-te.heine-shop.nl CNAME .
-te.heine.at CNAME .
-te.heine.ch CNAME .
 te.heine.de CNAME .
 te.helline.fr CNAME .
 te.imwalking.de CNAME .
@@ -40,20 +35,11 @@ te.otto.de CNAME .
 te.ottoversand.at CNAME .
 te.quelle.de CNAME .
 te.sheego.de CNAME .
-te.sieh-an.at CNAME .
-te.sieh-an.ch CNAME .
 te.sieh-an.de CNAME .
 te.universal.at CNAME .
-te.waeschepur.de CNAME .
-te.witt-international.cz CNAME .
-te.witt-international.nl CNAME .
-te.witt-international.sk CNAME .
 te.witt-weiden.at CNAME .
-te.witt-weiden.ch CNAME .
 te.witt-weiden.de CNAME .
 te.yomonda.de CNAME .
-te.your-look-for-less.nl CNAME .
-te.your-look-for-less.se CNAME .
 test-extern.nitrosniffer.ottogroup.io CNAME .
 tp.ackermann.ch CNAME .
 tp.ambria.de CNAME .

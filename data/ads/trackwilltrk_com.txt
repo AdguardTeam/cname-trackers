@@ -14,10 +14,8 @@
 ||r.tracklume1.space^
 ||r.veltrix1.space^
 ||r.wholehall.com^
-||t.adtrckr.uno^
 ||t.asiantrk.name^
 ||t.clickscope.fun^
-||t.coretrck.site^
 ||t.coretrck.uno^
 ||t.drifttrck.store^
 ||t.fasttrck.tech^
@@ -25,10 +23,7 @@
 ||t.fluxmetric.website^
 ||t.fluxtrck.site^
 ||t.gridtrck.tech^
-||t.hittrck.space^
-||t.instrck.com^
 ||t.javhd-trk.com^
-||t.leadtrck.space^
 ||t.loantrck.com^
 ||t.marktrck.space^
 ||t.maxtrck.shop^
@@ -38,7 +33,6 @@
 ||t.peaktrck.uno^
 ||t.plantrck.space^
 ||t.primtrck.fun^
-||t.proclicktrck.shop^
 ||t.quanttrck.space^
 ||t.rallytrck.website^
 ||t.ranktrck.uno^
@@ -48,11 +42,9 @@
 ||t.steptrck.site^
 ||t.tracknexa.space^
 ||t.trackora.space^
-||t.trackpulse.uno^
 ||t.traklume.space^
 ||t.traxivo.uno^
 ||t.trckforge.site^
 ||t.trcktr.com^
 ||t.trkav.name^
-||t.vpntrck.com^
 ||t.wintrck.com^

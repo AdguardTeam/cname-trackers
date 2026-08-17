@@ -104,7 +104,9 @@
 ||piatra.clickandboat.com^
 ||piatra.nautal.com^
 ||piatra.oceans-evasion.com^
+||piatra.oceans-evasion.dev^
 ||piatra.scansail.com^
+||piatra.scansail.dev^
 ||pilau.oddo-bhf.com^
 ||ponyo.cheriefm.fr^
 ||protys.protys.fr^

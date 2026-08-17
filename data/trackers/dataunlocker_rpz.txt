@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,7 +20,6 @@ $TTL 300
 1bpmtrvkqkj.pettoonies.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
 1ddbsf9ac5v.vendorportal.bestseller.com CNAME .
-1eusy6.boxoffice.adventuretix.com CNAME .
 1j2n061x3td.www.digi.no CNAME .
 1p3293dngsv.dodofacile.fr CNAME .
 1vyt1eguj27.ommasign.com CNAME .
@@ -69,7 +68,6 @@ dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 fkupm8697t19.eyevolution.de CNAME .
-htahii1lpt4u.boxoffice.adventuretix.com CNAME .
 ia84berzxy7v.de.themoneytizer.com CNAME .
 ilkk97e98lvg.www.sidsplumbing.ie CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
@@ -87,7 +85,6 @@ mteme7li1d6r.vertexmarketingagency.com CNAME .
 my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nq3ghu0vy2qo.www.ryaktive.com CNAME .
-nqyuel589fq5.esgrounding.com CNAME .
 ns3w1qrlbk4s.tip.etip-staging.etip.io CNAME .
 o3gxzoewxl1x.cp.zomro.com CNAME .
 otx23nu6rzon.prep.toppers.com CNAME .
@@ -105,7 +102,6 @@ soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .
 swaljol72dgv.controlconceptsusa.com CNAME .
 sxwxswg8z1xe.www.arnowebtv.com CNAME .
-t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 ti3av8k3ikwm.resume.gerardbosch.xyz CNAME .
 tnincvf1d1jl.de.themoneytizer.com CNAME .
 tutbc1.www.tapmyback.com CNAME .

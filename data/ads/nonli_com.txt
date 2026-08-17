@@ -9,6 +9,7 @@
 ||barracuda.h24.news^
 ||br.h24.news^
 ||c.leparisien.fr^
+||central.us.h24.news^
 ||client.h24.news^
 ||cms.h24.news^
 ||customer.h24.news^
@@ -27,6 +28,7 @@
 ||go.saveurs-magazine.fr^
 ||go.solidworks.com^
 ||gossip.h24.news^
+||gt.h24.news^
 ||hn.h24.news^
 ||ie.h24.news^
 ||in.h24.news^
@@ -148,6 +150,7 @@
 ||l.glitz.paris^
 ||l.grazia.fr^
 ||l.grazia.it^
+||l.graziamagazine.com^
 ||l.harpersbazaar.fr^
 ||l.hautanjou.fr^
 ||l.hbrfrance.fr^
@@ -178,6 +181,7 @@
 ||l.lanouvellerepublique.fr^
 ||l.laprovence.com^
 ||l.lardennais.fr^
+||l.larenaissanceduloiretcher.fr^
 ||l.larenaissancehebdo.fr^
 ||l.larep.fr^
 ||l.larepubliquedespyrenees.fr^
@@ -185,6 +189,7 @@
 ||l.larvf.com^
 ||l.lasanteauquotidien.com^
 ||l.latribune.fr^
+||l.laviecorrezienne.fr^
 ||l.lavoixdunord.fr^
 ||l.le-pays.fr^
 ||l.le10sport.com^
@@ -337,6 +342,7 @@
 ||l.xataka.com.mx^
 ||l.xatakamovil.com^
 ||l.zdnet.fr^
+||login.ch-fr.h24.news^
 ||login.h24.news^
 ||mail10.h24.news^
 ||mail11.h24.news^
@@ -347,6 +353,7 @@
 ||on.qobuz.com^
 ||panel.h24.news^
 ||partners.h24.news^
+||pe.h24.news^
 ||poc.warnerbros.fr^
 ||pop.h24.news^
 ||portal.h24.news^

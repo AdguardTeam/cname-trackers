@@ -35,6 +35,7 @@
 | c4n.anonimayzer.site | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
 | c4n.camgirlprivates.net | api.clickaine.com |
+| c4n.giaythethaonuhcm.com | api.clickaine.com |
 | c4n.javfinder.stream | api.clickaine.com |
 | c4n.javhdpro.stream | api.clickaine.com |
 | c4n.myteentgp.com | api.clickaine.com |
@@ -42,6 +43,7 @@
 | c4n.suavecitoo.org | api.clickaine.com |
 | c4n.swift4claim.com | api.clickaine.com |
 | c4n.thefreejapaneseporn.com | api.clickaine.com |
+| c4n.worldnewsguru.us | api.clickaine.com |
 | c4n.xxx8.me | api.clickaine.com |
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe.club | api.clickaine.com |
@@ -52,10 +54,12 @@
 | cc2.camcaps.io | api.clickaine.com |
 | cdn1.memojav.com | api.clickaine.com |
 | cdn1.xvideohub.top | api.clickaine.com |
+| central.s1.rtnews.pro | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
 | cl.sexstories-all.com | api.clickaine.com |
 | click.alexabyte.site | api.clickaine.com |
 | click.freepopnews.skin | api.clickaine.com |
+| click.localnews.click | api.clickaine.com |
 | clk.slutcam.org | api.clickaine.com |
 | clka.bondagevalley.cc | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
@@ -63,6 +67,7 @@
 | clkn2.apostle.onl | api.clickaine.com |
 | clkn3.apostle.onl | api.clickaine.com |
 | clknrtrg.pro | api.clickaine.com |
+| cms2.brandnewapp.pro | api.clickaine.com |
 | cn4.animehdl.net | api.clickaine.com |
 | cza4wopwcvdiq6sg.brandnewapp.pro | api.clickaine.com |
 | dashww.hotscopes.net | api.clickaine.com |
@@ -85,11 +90,12 @@
 | hruk.prikupok.icu | api.clickaine.com |
 | icn.brandnewapp.pro | api.clickaine.com |
 | jpnj.hotpornfile.org | api.clickaine.com |
+| knowledge.brandnewapp.pro | api.clickaine.com |
+| license.brandnewapp.pro | api.clickaine.com |
 | lunar.infinitybet.win | api.clickaine.com |
 | m.brandnewapp.pro | api.clickaine.com |
 | mnch.brandnewapp.pro | api.clickaine.com |
 | n.russ-porno.net | api.clickaine.com |
-| net.fuckxstream.com | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
 | orange.arabtoons.net | api.clickaine.com |
 | p.russ-porno.net | api.clickaine.com |

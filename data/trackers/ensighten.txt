@@ -183,7 +183,6 @@
 ||cookies.jll.ru^
 ||cookies.jllsweden.se^
 ||cookies.joneslanglasalle.co.jp^
-||cookies.joneslanglasalle.com.cn^
 ||cookies.joneslanglasalle.com.vn^
 ||cookies.us.jll.com^
 ||csp.prod.saga.co.uk^

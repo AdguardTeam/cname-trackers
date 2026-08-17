@@ -16,6 +16,7 @@
     * h-15dxj0k6.online-metrix.net
     * h-16vzjy52.online-metrix.net
     * h-1ca9a0d8.online-metrix.net
+    * h-1cpemctf.online-metrix.net
     * h-1d2p5fdt.online-metrix.net
     * h-1dham01c.online-metrix.net
     * h-1dwgke3d-1.online-metrix.net
@@ -127,6 +128,7 @@
     * h-5g2d9cmc.online-metrix.net
     * h-5g3kt0kj.online-metrix.net
     * h-5h8i3ud8.online-metrix.net
+    * h-5mhbw0m7.online-metrix.net
     * h-5nex4pgp.online-metrix.net
     * h-5nflpypv.online-metrix.net
     * h-5pjetc2s.online-metrix.net
@@ -205,6 +207,7 @@
     * h-7xy7wvmp.online-metrix.net
     * h-7yh412tv.online-metrix.net
     * h-80e5iaad.online-metrix.net
+    * h-80eyqe5f.online-metrix.net
     * h-84sv8qof.online-metrix.net
     * h-855iprp2.online-metrix.net
     * h-86m8xdhf.online-metrix.net
@@ -213,7 +216,6 @@
     * h-88r8fbe3.online-metrix.net
     * h-88zeyq1n.online-metrix.net
     * h-8b6zz5ug.online-metrix.net
-    * h-8dq3dkfj.online-metrix.net
     * h-8dvdxqz5.online-metrix.net
     * h-8e0pj0s9.online-metrix.net
     * h-8em5ysu2.online-metrix.net
@@ -265,6 +267,7 @@
     * h-9wtp561i.online-metrix.net
     * h-9yw99lm5.online-metrix.net
     * h-9zzsit89.online-metrix.net
+    * h-a3pwgjtt.online-metrix.net
     * h-a4nx1etl.online-metrix.net
     * h-a4s32zk0.online-metrix.net
     * h-a5j4qgb0.online-metrix.net
@@ -282,7 +285,6 @@
     * h-af1jjj0t.online-metrix.net
     * h-afterpay.online-metrix.net
     * h-ag4c1wpy.online-metrix.net
-    * h-agxcazcm.online-metrix.net
     * h-ahpv7hxn.online-metrix.net
     * h-ai4j8x4g.online-metrix.net
     * h-aircanada.online-metrix.net
@@ -709,7 +711,6 @@
     * h-njea5xb8.online-metrix.net
     * h-norton.online-metrix.net
     * h-nowfinance.online-metrix.net
-    * h-nssolutions.online-metrix.net
     * h-nttdocomo.online-metrix.net
     * h-ntthikaritv.online-metrix.net
     * h-nttplala.online-metrix.net
@@ -912,6 +913,7 @@
 | lnday.sinclair.edu | h-15dxj0k6.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | content.bangkokabayan.com | h-1ca9a0d8.online-metrix.net |
+| content-cdn.multimoney.com.mx | h-1cpemctf.online-metrix.net |
 | content.sb.lt | h-1d2p5fdt.online-metrix.net |
 | transactionrisk.cashfree.com | h-1dham01c.online-metrix.net |
 | fp.ubagroup.com | h-1dwgke3d-1.online-metrix.net |
@@ -1149,12 +1151,12 @@
 | cfaxq.streetscape.com | h-5h8i3ud8.online-metrix.net |
 | cfaxq1.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | cfaxq2.fidelity.com | h-5h8i3ud8.online-metrix.net |
+| ln.betboom.com | h-5mhbw0m7.online-metrix.net |
 | identity.myblueprint.arkansasbluecross.com | h-5nex4pgp.online-metrix.net |
 | abfrage.etakenya.go.ke | h-5nflpypv.online-metrix.net |
 | metrics.boatsgroup.com | h-5pjetc2s.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.ke | h-5pxao9h8.online-metrix.net |
-| secure.jumia.co.za | h-5pxao9h8.online-metrix.net |
 | secure.jumia.com.dz | h-5pxao9h8.online-metrix.net |
 | secure.jumia.com.eg | h-5pxao9h8.online-metrix.net |
 | secure.jumia.com.gh | h-5pxao9h8.online-metrix.net |
@@ -1227,6 +1229,7 @@
 | content.thebankoflondon.com | h-7gmzrj2o.online-metrix.net |
 | content.jackpotcity.ca | h-7ij9mii1-a.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
+| content.royalvegas.ca | h-7ij9mii1-a.online-metrix.net |
 | content.royalvegascasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.rubyfortune.ca | h-7ij9mii1-a.online-metrix.net |
 | content.rubyfortunecasino.ca | h-7ij9mii1-a.online-metrix.net |
@@ -1276,6 +1279,7 @@
 | tm.tbcbusiness.uz | h-7xy7wvmp.online-metrix.net |
 | sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
 | line.bd.com | h-80e5iaad.online-metrix.net |
+| content.vb24.md | h-80eyqe5f.online-metrix.net |
 | ltxup.sumup.com | h-84sv8qof.online-metrix.net |
 | ltxup.sumup.io | h-84sv8qof.online-metrix.net |
 | ltxup.sumupstore.com | h-84sv8qof.online-metrix.net |
@@ -1287,11 +1291,11 @@
 | identity.hcu.coop | h-88r8fbe3.online-metrix.net |
 | zrn.payglocal.com | h-88zeyq1n.online-metrix.net |
 | subcontent.galeria.de | h-8b6zz5ug.online-metrix.net |
-| content-static.emiratesnbd.com | h-8dq3dkfj.online-metrix.net |
 | secure.meine.santander.de | h-8dvdxqz5.online-metrix.net |
 | 1bf86f4b.tictoc.ai | h-8e0pj0s9.online-metrix.net |
 | dtrust.atratopago.com | h-8em5ysu2.online-metrix.net |
 | online-security.unionbankph.com | h-8hqbv9ql.online-metrix.net |
+| cdn1.dol.nj.gov | h-8i420rz5.online-metrix.net |
 | cdn1.dol.state.nj.us | h-8i420rz5.online-metrix.net |
 | ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
 | rct.ext.sofinco.fr | h-8j0oqkrb-1.online-metrix.net |
@@ -1455,6 +1459,7 @@
 | devices.yondercard.com | h-9wtp561i.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
+| contentservices.trulend.com | h-a3pwgjtt.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
 | content.rias.co.uk | h-a4s32zk0.online-metrix.net |
@@ -1477,7 +1482,6 @@
 | auth2.corelogic.asia | h-af1jjj0t.online-metrix.net |
 | rsx.afterpay.com | h-afterpay.online-metrix.net |
 | lsr22.dzing.finance | h-ag4c1wpy.online-metrix.net |
-| dt.payla.io | h-agxcazcm.online-metrix.net |
 | lnc.mo.gov | h-ahpv7hxn.online-metrix.net |
 | content.mypersi.idaho.gov | h-ai4j8x4g.online-metrix.net |
 | csservice.aircanada.com | h-aircanada.online-metrix.net |
@@ -1664,6 +1668,8 @@
 | tm.cbd.ae | h-cbd.online-metrix.net |
 | content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | content.connexion.hellobank.fr | h-cco37scf.online-metrix.net |
+| content.connexion.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| content.connexion.monespace.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
@@ -1671,6 +1677,7 @@
 | content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| content.prev.connexion.monespace.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.hellobank.fr | h-cco37scf.online-metrix.net |
@@ -2018,6 +2025,7 @@
 | fingate.wingie.com | h-k8vif92e-wingie.online-metrix.net |
 | device-fingerprint.pay1.checkout.worldline-solutions.com | h-k8vif92e-worldline.online-metrix.net |
 | device-fingerprint.pay2.checkout.worldline-solutions.com | h-k8vif92e-worldline.online-metrix.net |
+| device-fingerprint.pay2.preprod.checkout.worldline-solutions.com | h-k8vif92e-worldline.online-metrix.net |
 | cdn-east.purchase.goto.com | h-k8vif92e.goto.online-metrix.net |
 | cybersource.shoplineapp.com | h-k8vif92e.online-metrix.net |
 | qrimages.qatarairways.com | h-k8vif92e.qat.online-metrix.net |
@@ -2103,7 +2111,6 @@
 | img.tmxcyber.com | h-njea5xb8.online-metrix.net |
 | fpt.norton.com | h-norton.online-metrix.net |
 | tm.nowfinance.com.au | h-nowfinance.online-metrix.net |
-| sub-a.crossmeetz.com | h-nssolutions.online-metrix.net |
 | rba.cfg.smt.docomo.ne.jp | h-nttdocomo.online-metrix.net |
 | sec.hikaritv.net | h-ntthikaritv.online-metrix.net |
 | sec.plala.or.jp | h-nttplala.online-metrix.net |

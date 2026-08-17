@@ -82,6 +82,7 @@
 ||console.adspmg.com^
 ||console.ammoland.com^
 ||console.aqua-adserver.com^
+||console.atlantamagazine.com^
 ||console.biohandel.de^
 ||console.blulab.net^
 ||console.cavalier-romand.ch^
@@ -89,6 +90,7 @@
 ||console.channelvas.com^
 ||console.cincinnatimagazine.com^
 ||console.conservativestar.com^
+||console.consulcesi.it^
 ||console.cricketworld.com^
 ||console.datateam.co.uk^
 ||console.engineeringnews.co.za^
@@ -110,7 +112,6 @@
 ||console.mequoda.com^
 ||console.miningweekly.com^
 ||console.palmbeachmedia.com^
-||console.personare.com.br^
 ||console.pinktriangle.ca^
 ||console.polity.org.za^
 ||console.postandparcel.info^
@@ -135,6 +136,7 @@
 ||edgeadserver-delivery.reviveservers.com^
 ||etnomedia-static.reviveservers.com^
 ||growthtrac-delivery.reviveservers.com^
+||hlipublishing-static.reviveservers.com^
 ||images.addurance.com^
 ||images.cavalier-romand.ch^
 ||images.cricketworld.com^
@@ -143,6 +145,7 @@
 ||images.falconstudios.com^
 ||images.fnch.ch^
 ||images.goldseek.com^
+||images.hlipublishing.com^
 ||images.hour-media.com^
 ||images.informatm.com^
 ||images.mannenmedia.nl^

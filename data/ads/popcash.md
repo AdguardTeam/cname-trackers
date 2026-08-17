@@ -7,6 +7,8 @@
 ### Rarely active trackers
 
 * deprecated-custom-domains.b-cdn.net
+* thgl-analytics.b-cdn.net
+* adss.b-cdn.net
 * ads-bndlapi.b-cdn.net
 * bs-adserver.b-cdn.net
 * video-ad.b-cdn.net
@@ -34,12 +36,12 @@
 | video.adsninja.ca | adsninja.b-cdn.net |
 | cdn.adsninja.ca | adsninjacdn.b-cdn.net |
 | cdn.sentinelp.com | adsninjacdn.b-cdn.net |
+| ads.adsvtm.com | adss.b-cdn.net |
 | cdn.affiliatable.io | affiliatable1.b-cdn.net |
 | stat.guidebot.org | analytics-s6kcy.b-cdn.net |
 | cdn-analytics.sprkly.me | analytics-sprkly.b-cdn.net |
 | mp2y3.sm20j.xyz | app-file.b-cdn.net |
 | ompe2.7u6h8.xyz | app-file.b-cdn.net |
-| tltcxs.awohkn.com | app-file.b-cdn.net |
 | contact-gloss-production.accelerator.net | b-cdn.net |
 | assets.diagomics.com | bannieres.b-cdn.net |
 | creative-bunny.bidease.com | bidease.b-cdn.net |
@@ -246,7 +248,6 @@
 | canidae.fidum.uk | deprecated-custom-domains.b-cdn.net |
 | capybara.civicsoftwarefoundation.org | deprecated-custom-domains.b-cdn.net |
 | capybara.randyhamiltonelectric.com | deprecated-custom-domains.b-cdn.net |
-| cardinal.businessfirstonline.co.uk | deprecated-custom-domains.b-cdn.net |
 | cardinal.genx.be | deprecated-custom-domains.b-cdn.net |
 | cardinal.krisenchat.de | deprecated-custom-domains.b-cdn.net |
 | cardinal.newman.is | deprecated-custom-domains.b-cdn.net |
@@ -258,7 +259,6 @@
 | cat.gfx.io | deprecated-custom-domains.b-cdn.net |
 | cat.laravel-news.com | deprecated-custom-domains.b-cdn.net |
 | cat.mattr.global | deprecated-custom-domains.b-cdn.net |
-| cat.sprucely.net | deprecated-custom-domains.b-cdn.net |
 | catfish.phuclh.com | deprecated-custom-domains.b-cdn.net |
 | catfish.pressure.cooking | deprecated-custom-domains.b-cdn.net |
 | catfish.sofatido.ch | deprecated-custom-domains.b-cdn.net |
@@ -415,7 +415,6 @@
 | gamefowl.nonprofit.foundation | deprecated-custom-domains.b-cdn.net |
 | gayal.guter-plan.at | deprecated-custom-domains.b-cdn.net |
 | gayal.maxmasnick.com | deprecated-custom-domains.b-cdn.net |
-| gayal.stockshouse.co | deprecated-custom-domains.b-cdn.net |
 | gazelle.editorclub.com | deprecated-custom-domains.b-cdn.net |
 | gazelle.laurenagray.com | deprecated-custom-domains.b-cdn.net |
 | gecko.rrrelax.app | deprecated-custom-domains.b-cdn.net |
@@ -563,7 +562,6 @@
 | leopon.jmk.wtf | deprecated-custom-domains.b-cdn.net |
 | leopon.luckycasts.com | deprecated-custom-domains.b-cdn.net |
 | leopon.originalmineral.com | deprecated-custom-domains.b-cdn.net |
-| limpet.eddiehinkle.com | deprecated-custom-domains.b-cdn.net |
 | limpet.pioneerlandscapingllc.com | deprecated-custom-domains.b-cdn.net |
 | limpet.yago.dev | deprecated-custom-domains.b-cdn.net |
 | lion.lastfrontiermagazine.com | deprecated-custom-domains.b-cdn.net |
@@ -643,7 +641,6 @@
 | nf1nknlw.mateforevents.com | deprecated-custom-domains.b-cdn.net |
 | nkydma.newbuild.studio | deprecated-custom-domains.b-cdn.net |
 | ocelot.anthroquiches.fr | deprecated-custom-domains.b-cdn.net |
-| ocelot.goinpaces.com | deprecated-custom-domains.b-cdn.net |
 | ocelot.pixlwebs.nl | deprecated-custom-domains.b-cdn.net |
 | ocelot.sonicumonitoring.com | deprecated-custom-domains.b-cdn.net |
 | octopus.clarify.us | deprecated-custom-domains.b-cdn.net |
@@ -683,7 +680,6 @@
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
 | parrot.alookwithin.ca | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
-| parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | partridge.antonius.me | deprecated-custom-domains.b-cdn.net |
 | peafowl.prod.fyi | deprecated-custom-domains.b-cdn.net |
 | penguin.craftpeak.io | deprecated-custom-domains.b-cdn.net |
@@ -873,7 +869,6 @@
 | toad.ettiennevorster.co.za | deprecated-custom-domains.b-cdn.net |
 | toad.frontendmentor.io | deprecated-custom-domains.b-cdn.net |
 | tortoise.allyinteractive.com | deprecated-custom-domains.b-cdn.net |
-| tortoise.cult.st | deprecated-custom-domains.b-cdn.net |
 | tortoise.mdx.one | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
@@ -964,6 +959,7 @@
 | matomo-cdn-bunny.ramsalt.com | matomo.b-cdn.net |
 | metrics.aspose.com | metrics-aspose-com.b-cdn.net |
 | metrics.groupdocs.com | metrics-groupdocs-com.b-cdn.net |
+| pa.firefox.com | mozilla-analytics.b-cdn.net |
 | cache.myth.dev | mythdev.b-cdn.net |
 | cdn.myth.dev | mythdev.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
@@ -1105,6 +1101,7 @@
 | ss.mrmnd.com | ss-mndsrv.b-cdn.net |
 | ss.nwemnd.com | ss-mndsrv.b-cdn.net |
 | ss.nwmnd.com | ss-mndsrv.b-cdn.net |
+| a.th.gl | thgl-analytics.b-cdn.net |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.stoic-media.com | unibotscdn.b-cdn.net |
 | cdn.unibotscdn.com | unibotscdn.b-cdn.net |

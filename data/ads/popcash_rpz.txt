@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -271,7 +271,6 @@ canidae.collectingsocialphoto.org CNAME .
 canidae.fidum.uk CNAME .
 capybara.civicsoftwarefoundation.org CNAME .
 capybara.randyhamiltonelectric.com CNAME .
-cardinal.businessfirstonline.co.uk CNAME .
 cardinal.genx.be CNAME .
 cardinal.krisenchat.de CNAME .
 cardinal.newman.is CNAME .
@@ -283,7 +282,6 @@ cat.beunitedinchrist.com CNAME .
 cat.gfx.io CNAME .
 cat.laravel-news.com CNAME .
 cat.mattr.global CNAME .
-cat.sprucely.net CNAME .
 catfish.phuclh.com CNAME .
 catfish.pressure.cooking CNAME .
 catfish.sofatido.ch CNAME .
@@ -440,7 +438,6 @@ gamefowl.karlsutt.com CNAME .
 gamefowl.nonprofit.foundation CNAME .
 gayal.guter-plan.at CNAME .
 gayal.maxmasnick.com CNAME .
-gayal.stockshouse.co CNAME .
 gazelle.editorclub.com CNAME .
 gazelle.laurenagray.com CNAME .
 gecko.rrrelax.app CNAME .
@@ -588,7 +585,6 @@ leopard.understandit.se CNAME .
 leopon.jmk.wtf CNAME .
 leopon.luckycasts.com CNAME .
 leopon.originalmineral.com CNAME .
-limpet.eddiehinkle.com CNAME .
 limpet.pioneerlandscapingllc.com CNAME .
 limpet.yago.dev CNAME .
 lion.lastfrontiermagazine.com CNAME .
@@ -668,7 +664,6 @@ newt.javier.dev CNAME .
 nf1nknlw.mateforevents.com CNAME .
 nkydma.newbuild.studio CNAME .
 ocelot.anthroquiches.fr CNAME .
-ocelot.goinpaces.com CNAME .
 ocelot.pixlwebs.nl CNAME .
 ocelot.sonicumonitoring.com CNAME .
 octopus.clarify.us CNAME .
@@ -708,7 +703,6 @@ parakeet.phantomphone.net CNAME .
 parakeet.quotetweet.com CNAME .
 parrot.alookwithin.ca CNAME .
 parrot.lovably.com CNAME .
-parrotfish.thenping.me CNAME .
 partridge.antonius.me CNAME .
 peafowl.prod.fyi CNAME .
 penguin.craftpeak.io CNAME .
@@ -898,7 +892,6 @@ tiglon.davidroessli.com CNAME .
 toad.ettiennevorster.co.za CNAME .
 toad.frontendmentor.io CNAME .
 tortoise.allyinteractive.com CNAME .
-tortoise.cult.st CNAME .
 tortoise.mdx.one CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
@@ -968,6 +961,8 @@ y5qhzz3q.designdetails.fm CNAME .
 yak.auclantis.com CNAME .
 yak.gregsullivan.com CNAME .
 yak.juicydevils.gr CNAME .
+a.th.gl CNAME .
+ads.adsvtm.com CNAME .
 ads.cdn.bndlapi.com CNAME .
 ads.djc.com CNAME .
 allnews.chestertelegraph.org CNAME .
@@ -1083,6 +1078,7 @@ metrics.groupdocs.com CNAME .
 mp2y3.sm20j.xyz CNAME .
 msrvt.net CNAME .
 ompe2.7u6h8.xyz CNAME .
+pa.firefox.com CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .
 ss.mndsrv.com CNAME .
@@ -1092,5 +1088,4 @@ ss.nwmnd.com CNAME .
 stat.guidebot.org CNAME .
 stats.yootheme.com CNAME .
 thirty-good.lugg.com CNAME .
-tltcxs.awohkn.com CNAME .
 video.adsninja.ca CNAME .

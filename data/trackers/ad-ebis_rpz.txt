@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,9 +37,7 @@ ad.aucfan.com CNAME .
 ad.aucview.com CNAME .
 ad.autorace.jp CNAME .
 ad.cene.tokyo CNAME .
-ad.hoikushibank.com CNAME .
 ad.kddi-fs.com CNAME .
-ad.omotenashi.work CNAME .
 ad.ordersuit.info CNAME .
 ad.takasu.co.jp CNAME .
 ad.tempstaff.co.jp CNAME .
@@ -229,11 +227,15 @@ ebis-tracking.tcb-esaka.com CNAME .
 ebis-tracking.tcb-fukuoka.com CNAME .
 ebis-tracking.tcb-fukushima.com CNAME .
 ebis-tracking.tcb-ginza.com CNAME .
+ebis-tracking.tcb-hamamatsu.com CNAME .
+ebis-tracking.tcb-ikebukuro.com CNAME .
 ebis-tracking.tcb-koriyama.com CNAME .
+ebis-tracking.tcb-kyoto.net CNAME .
 ebis-tracking.tcb-mito.com CNAME .
 ebis-tracking.tcb-nakano.com CNAME .
 ebis-tracking.tcb-recruit.com CNAME .
 ebis-tracking.tcb-sakai.com CNAME .
+ebis-tracking.tcb-sendai.com CNAME .
 ebis-tracking.tcb-setagaya.com CNAME .
 ebis-tracking.tcb-shibuya.com CNAME .
 ebis-tracking.tcb-shinjuku.com CNAME .
@@ -263,6 +265,7 @@ ebis.gokusen-ichiba.com CNAME .
 ebis.goldcrest.co.jp CNAME .
 ebis.housekeeping.or.jp CNAME .
 ebis.ihistory.cloud CNAME .
+ebis.ihistory.inc CNAME .
 ebis.ihistory.site CNAME .
 ebis.j-l-m.co.jp CNAME .
 ebis.jinzai-business.com CNAME .
@@ -323,6 +326,7 @@ ebisstore.tamagokichi.com CNAME .
 ebistoppan1.kyowahakko-bio-campaign-1.com CNAME .
 ebistoppan2.10nengenki.com CNAME .
 ebistoppan3.ornithine.jp CNAME .
+ebistoppan4.velox-nobooster.com CNAME .
 ebistoppan5.kyowahakko-bio-healthcare.jp CNAME .
 ebistoppan6.kyowahakko-bio-campaign3.com CNAME .
 ebisu.saison-am.co.jp CNAME .

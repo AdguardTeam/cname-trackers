@@ -54,6 +54,7 @@ adat.szon.hu
 adat.szuperinfo.hu
 adat.teol.hu
 adat.tion.ro
+adat.tolnainepujsag.hu
 adat.travelo.hu
 adat.tunderszepek.hu
 adat.ujneplap.hu

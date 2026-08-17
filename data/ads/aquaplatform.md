@@ -36,6 +36,7 @@
     * channelvas-console.aquaplatform.com
     * channelvas-delivery.aquaplatform.com
     * console.aquaplatform.com
+    * consulcesi-console.aquaplatform.com
     * consulcesi-delivery.aquaplatform.com
     * consulcesi-static.aquaplatform.com
     * creamer-console.aquaplatform.com
@@ -213,10 +214,10 @@
 | api.aqua-adserver.com | console.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
-| console.personare.com.br | console.aquaplatform.com |
 | console.rlnads.net | console.aquaplatform.com |
 | console.walaplusadserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
+| console.consulcesi.it | consulcesi-console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | www.adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
@@ -267,6 +268,7 @@
 | images.goldseek.com | goldseek-static.aquaplatform.com |
 | www.creatives.goldseek.com | goldseek-static.aquaplatform.com |
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
+| console.atlantamagazine.com | hourmedia-console.aquaplatform.com |
 | console.cincinnatimagazine.com | hourmedia-console.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
 | console.hour-media.com | hourmedia-console.aquaplatform.com |
@@ -351,8 +353,10 @@
 | adztech-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | etnomedia-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
+| hlipublishing-static.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | images.addurance.com | platformiq-cdn.aquaplatform.com |
 | images.etnomedia.nl | platformiq-cdn.aquaplatform.com |
+| images.hlipublishing.com | platformiq-cdn.aquaplatform.com |
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
 | images.mannenmedia.nl | platformiq-cdn.aquaplatform.com |
 | images.proxena-adserver.com | platformiq-cdn.aquaplatform.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -172,6 +172,7 @@ gruenten.wahl-equi.it CNAME .
 gruenten.wahl-reitsport.at CNAME .
 gruenten.wahl-reitsport.ch CNAME .
 gruenten.wahl-reitsport.com CNAME .
+gtm.dje.de CNAME .
 gus.corinnavondermuehlen.de CNAME .
 gus.ihlenfeldt.de CNAME .
 insides.honic.eu CNAME .
@@ -211,13 +212,13 @@ metrics.ibis-styles-nagold.com CNAME .
 metrics.iqcheck24.de CNAME .
 metrics.konapp.de CNAME .
 metrics.leimer.de CNAME .
-metrics.mammutmarsch.de CNAME .
 metrics.meineversicherungswelt.de CNAME .
 metrics.moderade.com CNAME .
 metrics.muehle-glashuette.de CNAME .
 metrics.ostseeresort-damp.de CNAME .
 metrics.park.aero CNAME .
 metrics.schroeder-data-solutions.de CNAME .
+metrics.senior-bett.de CNAME .
 metrics.shop.verpackung.de CNAME .
 metrics.soelring-hof.de CNAME .
 metrics.stadtwerke-hamm.de CNAME .
@@ -269,6 +270,7 @@ stats.eliveshop.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.haus-am-meer-norderney.de CNAME .
 stats.hilscher.com CNAME .
+stats.hotel-aquamarin-norderney.de CNAME .
 stats.hotel-haus-norderney.de CNAME .
 stats.inselloft-norderney.de CNAME .
 stats.kaerntnerjobs.at CNAME .
@@ -384,6 +386,7 @@ webcontr-erbe.mein-erbe-tut-gutes.de CNAME .
 webcontr-magazin.mein-erbe-tut-gutes.de CNAME .
 webcontr.4fighter.com CNAME .
 webcontr.4pace.com CNAME .
+webcontr.algamar.de CNAME .
 webcontr.aquarius-prolife.com CNAME .
 webcontr.aulairenicus.de CNAME .
 webcontr.barcodescanner.de CNAME .
@@ -473,6 +476,7 @@ webcontr.werbewulf.de CNAME .
 webcontr.wgv.de CNAME .
 webcontr.wnxe.de CNAME .
 webcontr.wolkenlosundheiter.de CNAME .
+webcontr.yourfashionplace.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
 webdat.mai-estate.com CNAME .
@@ -499,8 +503,10 @@ webstt0022.onofficeom.com CNAME .
 webstt0024.onofficeom.com CNAME .
 webstt0027.onofficeom.com CNAME .
 webstt0028.onofficeom.com CNAME .
+webstt0029.onofficeom.com CNAME .
 webstt0031.onofficeom.com CNAME .
 webstt0032.onofficeom.com CNAME .
+webstt0033.onofficeom.com CNAME .
 webstt0035.onofficeom.com CNAME .
 webstt0037.onofficeom.com CNAME .
 webstt0038.onofficeom.com CNAME .
@@ -518,12 +524,14 @@ webstt0068.onofficeom.com CNAME .
 webstt0069.onofficeom.com CNAME .
 webstt0071.onofficeom.com CNAME .
 webstt0073.onofficeom.com CNAME .
+webstt0077.onofficeom.com CNAME .
 webstt0078.onofficeom.com CNAME .
 websy.skillyofficial.com CNAME .
 webtr.cc-egov.de CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
 webtr.elearning-cc-egov.de CNAME .
+webtr.pdv.de CNAME .
 webtr.regisafe.de CNAME .
 webtrack.lotto-thueringen.de CNAME .
 weco.gasteo.de CNAME .
@@ -542,7 +550,6 @@ esub.akkusys.de CNAME .
 et.juskys.de CNAME .
 stats.ekd.de CNAME .
 stats.mm-germany.com CNAME .
-stage2023.signalize.com CNAME .
-www-test.etracker.de CNAME .
 tr7593.pollin.de CNAME .
+www-test.etracker.de CNAME .
 www.visitormotion.com CNAME .

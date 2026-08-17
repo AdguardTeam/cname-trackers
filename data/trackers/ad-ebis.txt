@@ -26,9 +26,7 @@
 ||ad.aucview.com^
 ||ad.autorace.jp^
 ||ad.cene.tokyo^
-||ad.hoikushibank.com^
 ||ad.kddi-fs.com^
-||ad.omotenashi.work^
 ||ad.ordersuit.info^
 ||ad.takasu.co.jp^
 ||ad.tempstaff.co.jp^
@@ -218,11 +216,15 @@
 ||ebis-tracking.tcb-fukuoka.com^
 ||ebis-tracking.tcb-fukushima.com^
 ||ebis-tracking.tcb-ginza.com^
+||ebis-tracking.tcb-hamamatsu.com^
+||ebis-tracking.tcb-ikebukuro.com^
 ||ebis-tracking.tcb-koriyama.com^
+||ebis-tracking.tcb-kyoto.net^
 ||ebis-tracking.tcb-mito.com^
 ||ebis-tracking.tcb-nakano.com^
 ||ebis-tracking.tcb-recruit.com^
 ||ebis-tracking.tcb-sakai.com^
+||ebis-tracking.tcb-sendai.com^
 ||ebis-tracking.tcb-setagaya.com^
 ||ebis-tracking.tcb-shibuya.com^
 ||ebis-tracking.tcb-shinjuku.com^
@@ -252,6 +254,7 @@
 ||ebis.goldcrest.co.jp^
 ||ebis.housekeeping.or.jp^
 ||ebis.ihistory.cloud^
+||ebis.ihistory.inc^
 ||ebis.ihistory.site^
 ||ebis.j-l-m.co.jp^
 ||ebis.jinzai-business.com^
@@ -312,6 +315,7 @@
 ||ebistoppan1.kyowahakko-bio-campaign-1.com^
 ||ebistoppan2.10nengenki.com^
 ||ebistoppan3.ornithine.jp^
+||ebistoppan4.velox-nobooster.com^
 ||ebistoppan5.kyowahakko-bio-healthcare.jp^
 ||ebistoppan6.kyowahakko-bio-campaign3.com^
 ||ebisu.saison-am.co.jp^

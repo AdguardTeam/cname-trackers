@@ -457,7 +457,6 @@ utiq.speakup.es
 utiq.speisekarte.de
 utiq.spektrum.de
 utiq.spiegel.de
-utiq.spielaffe.de
 utiq.sport.es
 utiq.sportbuzzer.de
 utiq.sportlerfrage.net

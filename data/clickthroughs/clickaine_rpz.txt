@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ c4n.allporncomics.co CNAME .
 c4n.anonimayzer.site CNAME .
 c4n.asianpinay.com CNAME .
 c4n.camgirlprivates.net CNAME .
+c4n.giaythethaonuhcm.com CNAME .
 c4n.javfinder.stream CNAME .
 c4n.javhdpro.stream CNAME .
 c4n.myteentgp.com CNAME .
@@ -45,6 +46,7 @@ c4n.shudhdesiporn.com CNAME .
 c4n.suavecitoo.org CNAME .
 c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
+c4n.worldnewsguru.us CNAME .
 c4n.xxx8.me CNAME .
 ca.infomix.best CNAME .
 cc.histoires-de-sexe.club CNAME .
@@ -55,10 +57,12 @@ cc.sexgeschichten-xxx.com CNAME .
 cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
 cdn1.xvideohub.top CNAME .
+central.s1.rtnews.pro CNAME .
 ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
 click.alexabyte.site CNAME .
 click.freepopnews.skin CNAME .
+click.localnews.click CNAME .
 clk.slutcam.org CNAME .
 clka.bondagevalley.cc CNAME .
 clkn.apostle.onl CNAME .
@@ -66,6 +70,7 @@ clkn.moviesinspector.com CNAME .
 clkn2.apostle.onl CNAME .
 clkn3.apostle.onl CNAME .
 clknrtrg.pro CNAME .
+cms2.brandnewapp.pro CNAME .
 cn4.animehdl.net CNAME .
 cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
 dashww.hotscopes.net CNAME .
@@ -88,11 +93,12 @@ hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
 jpnj.hotpornfile.org CNAME .
+knowledge.brandnewapp.pro CNAME .
+license.brandnewapp.pro CNAME .
 lunar.infinitybet.win CNAME .
 m.brandnewapp.pro CNAME .
 mnch.brandnewapp.pro CNAME .
 n.russ-porno.net CNAME .
-net.fuckxstream.com CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
 p.russ-porno.net CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1785758740617        ; Serial
+           1786964899408        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -468,7 +468,6 @@ utiq.speakup.es CNAME .
 utiq.speisekarte.de CNAME .
 utiq.spektrum.de CNAME .
 utiq.spiegel.de CNAME .
-utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
 utiq.sportbuzzer.de CNAME .
 utiq.sportlerfrage.net CNAME .

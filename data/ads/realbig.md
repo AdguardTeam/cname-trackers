@@ -22,14 +22,12 @@
 | media.rabbit.click | park.realbig.online |
 | my.rb2psh.ru | park.realbig.online |
 | newrotatormarch23.bid | park.realbig.online |
-| news.unsere-news.ru | park.realbig.online |
 | nservw.net | park.realbig.online |
 | owmedia.rabbit.click | park.realbig.online |
 | owpush.rabbit.click | park.realbig.online |
 | p.netork.ru | park.realbig.online |
 | par.moyslovar.ru | park.realbig.online |
 | park.realbig.media | park.realbig.online |
-| park.wpcodes.org | park.realbig.online |
 | push.rabbit.click | park.realbig.online |
 | pushche.rabbit.click | park.realbig.online |
 | rb.umspecrek.ru | park.realbig.online |
