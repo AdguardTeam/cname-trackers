@@ -1,12 +1,5 @@
 [
     {
-        "company_name": "affilbox.cz",
-        "type": "tracker",
-        "domains": [
-            "cz.affilbox.cz"
-        ]
-    },
-    {
         "company_name": "2cnt.net",
         "type": "tracker",
         "domains": [
@@ -21,10 +14,11 @@
         ]
     },
     {
-        "company_name": "Actionlink.jp",
+        "company_name": "Act-On",
         "type": "tracker",
         "domains": [
-            "mm.actionlink.jp"
+            "actonservice.com",
+            "actonsoftware.com"
         ]
     },
     {
@@ -32,6 +26,13 @@
         "type": "tracker",
         "domains": [
             "mr-in.com"
+        ]
+    },
+    {
+        "company_name": "Actionlink.jp",
+        "type": "tracker",
+        "domains": [
+            "mm.actionlink.jp"
         ]
     },
     {
@@ -63,33 +64,10 @@
         ]
     },
     {
-        "company_name": "AdSpyglass",
+        "company_name": "ad1n.net",
         "type": "ad",
         "domains": [
-            "0i0i0i0.com",
-            "u57.muzikguide.com"
-        ]
-    },
-    {
-        "company_name": "ads2.bid",
-        "type": "ad",
-        "domains": [
-            "ads.bid"
-        ]
-    },
-    {
-        "company_name": "AT Internet (formerly XiTi)",
-        "type": "tracker",
-        "domains": [
-            "at-o.net"
-        ]
-    },
-    {
-        "company_name": "Act-On",
-        "type": "tracker",
-        "domains": [
-            "actonservice.com",
-            "actonsoftware.com"
+            "ad1n.net"
         ]
     },
     {
@@ -103,24 +81,53 @@
         ]
     },
     {
-		"company_name": "Adocean",
-		"type": "ad",
-		"domains": [
-			"adocean.pl"
-		]
-	},
-	{
-		"company_name": "Aquaplatform",
-		"type": "ad",
-		"domains": [
-			"aquaplatform.com"
-		]
-	},
+        "company_name": "Adocean",
+        "type": "ad",
+        "domains": [
+            "adocean.pl"
+        ]
+    },
+    {
+        "company_name": "ads2.bid",
+        "type": "ad",
+        "domains": [
+            "ads.bid"
+        ]
+    },
+    {
+        "company_name": "AdSpyglass",
+        "type": "ad",
+        "domains": [
+            "0i0i0i0.com",
+            "u57.muzikguide.com"
+        ]
+    },
+    {
+        "company_name": "affilbox.cz",
+        "type": "tracker",
+        "domains": [
+            "cz.affilbox.cz"
+        ]
+    },
     {
         "company_name": "ahacdn.me",
         "type": "ad",
         "domains": [
             "cdn18685953.ahacdn.me"
+        ]
+    },
+    {
+        "company_name": "Aquaplatform",
+        "type": "ad",
+        "domains": [
+            "aquaplatform.com"
+        ]
+    },
+    {
+        "company_name": "AT Internet (formerly XiTi)",
+        "type": "tracker",
+        "domains": [
+            "at-o.net"
         ]
     },
     {
@@ -167,17 +174,17 @@
         ]
     },
     {
-        "company_name": "CustomerLabs",
-        "type": "tracker",
-        "domains": [
-            "1p-data.co"
-        ]
-    },
-    {
         "company_name": "customer.io",
         "type": "mail_tracker",
         "domains": [
             "e.customeriomail.com"
+        ]
+    },
+    {
+        "company_name": "CustomerLabs",
+        "type": "tracker",
+        "domains": [
+            "1p-data.co"
         ]
     },
     {
@@ -235,13 +242,13 @@
             "fathomdns.com"
         ]
     },
-	{
-		"company_name": "Galaksion",
-		"type": "ad",
-		"domains": [
-			"beixisys.com"
-		]
-	},
+    {
+        "company_name": "Galaksion",
+        "type": "ad",
+        "domains": [
+            "beixisys.com"
+        ]
+    },
     {
         "company_name": "GENIEE",
         "type": "tracker",
@@ -257,17 +264,17 @@
         ]
     },
     {
-        "company_name": "GoatCounter",
-        "type": "tracker",
-        "domains": [
-            "goatcounter.com"
-        ]
-    },
-    {
         "company_name": "GoAdserver",
         "type": "ad",
         "domains": [
             "go.goadserver.com"
+        ]
+    },
+    {
+        "company_name": "GoatCounter",
+        "type": "tracker",
+        "domains": [
+            "goatcounter.com"
         ]
     },
     {
@@ -292,17 +299,17 @@
         ]
     },
     {
-        "company_name": "kib.hu",
-        "type": "tracker",
-        "domains": [
-            "kib.hu"
-        ]
-    },
-    {
         "company_name": "Keyade",
         "type": "tracker",
         "domains": [
             "k.keyade.com"
+        ]
+    },
+    {
+        "company_name": "kib.hu",
+        "type": "tracker",
+        "domains": [
+            "kib.hu"
         ]
     },
     {
@@ -334,17 +341,17 @@
         ]
     },
     {
-        "company_name": "Monetag",
-        "type": "ad",
-        "domains": [
-            "amaerodactylon.com"
-        ]
-    },
-    {
         "company_name": "midnightlotusgrove.com",
         "type": "ad",
         "domains": [
             "midnightlotusgrove.com"
+        ]
+    },
+    {
+        "company_name": "Monetag",
+        "type": "ad",
+        "domains": [
+            "amaerodactylon.com"
         ]
     },
     {
@@ -364,12 +371,12 @@
         ]
     },
     {
-		"company_name": "nonli.com",
-		"type": "ad",
-		"domains": [
-			"non.li"
-		]
-	},
+        "company_name": "nonli.com",
+        "type": "ad",
+        "domains": [
+            "non.li"
+        ]
+    },
     {
         "company_name": "NP6",
         "type": "tracker",
@@ -502,18 +509,18 @@
         ]
     },
     {
+        "company_name": "Webair",
+        "type": "ad",
+        "domains": [
+            "ak-is2.net"
+        ]
+    },
+    {
         "company_name": "Webtrekk",
         "type": "tracker",
         "domains": [
             "webtrekk.net",
             "wt-eu02.net"
-        ]
-    },
-    {
-        "company_name": "Webair",
-        "type": "ad",
-        "domains": [
-            "ak-is2.net"
         ]
     },
     {
@@ -530,5 +537,4 @@
             "wizaly.com"
         ]
     }
-
 ]
