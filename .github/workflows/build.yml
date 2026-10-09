@@ -11,22 +11,39 @@ on:
 
 permissions:
   contents: read
-  id-token: write
 
 concurrency:
   group: filters-cname-trackers
 
+env:
+  # The build matrix below repeats the shard count: matrix values cannot
+  # reference env, so `matrix.shard` must list exactly this many shards.
+  SHARD_COUNT: 6
+  # Prefix of the per-shard artifact names; the combine job matches it.
+  ARTIFACT_PREFIX: data-shard
+
 jobs:
   build:
-    name: Build cname trackers
+    name: Build shard ${{ matrix.shard }}
     runs-on: [team-filters]
+    # A hung shard must not hold a runner for the 6-hour default.
+    timeout-minutes: 240
+    strategy:
+      # A failed shard must not cancel the others: their artifacts survive into
+      # a re-run, so recovery only re-runs the shards that actually failed.
+      fail-fast: false
+      # Keep the matrix in sync with env.SHARD_COUNT.
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
     steps:
+      # Pin every job to the run's SHA so shards and combine all read the same
+      # data/config even if master moves during the run.
       - name: Checkout
         uses: actions/checkout@v5
         with:
-          ref: master
+          ref: ${{ github.sha }}
 
-      - name: Build cname trackers data
+      - name: Build cname trackers data (shard)
         run: |
           set -e -x
           exec 2>&1
@@ -37,10 +54,111 @@ jobs:
             --file Dockerfile \
             --progress plain \
             --target build-output \
+            --build-arg SHARD_INDEX=${{ matrix.shard }} \
+            --build-arg SHARD_COUNT=${{ env.SHARD_COUNT }} \
             --output type=local,dest=output \
             .
 
-          cp -r output/data/. data/
+      - name: Upload shard data
+        uses: actions/upload-artifact@v4
+        with:
+          # Artifacts are immutable within a run, so a re-run (the normal
+          # recovery path) would collide on a fixed name; scope it by attempt.
+          # The combine job matches the prefix and takes the newest attempt.
+          name: ${{ env.ARTIFACT_PREFIX }}-${{ matrix.shard }}-${{ github.run_attempt }}
+          path: output/data
+          if-no-files-found: error
+          retention-days: 7
+
+  combine:
+    name: Combine shards and push
+    needs: build
+    # Only master may publish: a workflow_dispatch from a branch builds
+    # github.sha (branch code) and would push it to master.
+    if: github.ref == 'refs/heads/master'
+    runs-on: [team-filters]
+    permissions:
+      # The shard jobs only need contents: read; this job lists the run's
+      # artifacts and protected-push authenticates with OIDC.
+      contents: read
+      actions: read
+      id-token: write
+    # A hung combine must not hold a runner for the 6-hour default.
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          # A re-run keeps the original github.sha; if master moved since, the
+          # push is rejected by protected-push (or rolls master back). A stale
+          # run needs a new dispatch, not a re-run.
+          ref: ${{ github.sha }}
+
+      - name: Download shard data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e -x
+          exec 2>&1
+
+          # actions/download-artifact is blocked by the organization's action
+          # policy, so fetch the shard artifacts through the REST API instead.
+          # Artifacts from earlier attempts survive a re-run, so the default
+          # page size of 30 can truncate the list.
+          curl -sSf --retry 3 --retry-all-errors \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts?per_page=100" \
+            -o artifacts.json
+
+          # One pass over the artifact list: for every shard, take the newest
+          # attempt that matches the prefix and write "<shard> <url>" lines.
+          python3 -c "
+          import json, os
+          data = json.load(open('artifacts.json'))
+          prefix = os.environ['ARTIFACT_PREFIX']
+          for shard in range(int(os.environ['SHARD_COUNT'])):
+              artifact_prefix = prefix + '-' + str(shard) + '-'
+              # 're-run failed jobs' bumps the attempt number only for the jobs
+              # it re-runs, so shards that already succeeded keep older names.
+              matches = [a for a in data['artifacts'] if a['name'].startswith(artifact_prefix)]
+              assert matches, 'artifact ' + artifact_prefix + '* not found'
+              newest = max(matches, key=lambda a: int(a['name'][len(artifact_prefix):]))
+              assert not newest['expired'], 'artifact ' + newest['name'] + ' expired; dispatch a new run'
+              print(shard, newest['archive_download_url'])
+          " > shard-urls.txt
+
+          mkdir -p shard-data
+          while read -r shard artifact_url; do
+            curl -sSLf --retry 3 --retry-all-errors \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              "$artifact_url" -o "shard-$shard.zip"
+            python3 -m zipfile -e "shard-$shard.zip" shard-data
+            rm -f "shard-$shard.zip"
+          done < shard-urls.txt
+
+          ls shard-data
+
+      - name: Rebuild combined files
+        run: |
+          set -e -x
+          exec 2>&1
+
+          export DOCKER_BUILDKIT=1
+
+          # Overlay fresh per-company files onto the checked-out data/.
+          cp -r shard-data/. data/
+
+          docker build \
+            --file Dockerfile \
+            --progress plain \
+            --target combine-output \
+            --output type=local,dest=output \
+            .
+
+          # Replace data/ with the combine output: a plain cp overlay would
+          # leave the __part-* files that the combine stage deleted.
+          rm -rf data
+          mv output/data data
           rm -rf output
 
       - name: Push updates to master

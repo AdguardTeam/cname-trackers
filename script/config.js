@@ -9,6 +9,10 @@ const MAX_RETRIES_COUNT = 40; // 20 minutes
 // against API rate limits — if CI fails on fetches, lower via env first.
 const FETCH_CONCURRENCY = Number(process.env.FETCH_CONCURRENCY) || 5;
 
+// Shard selection (src/shard.js validates both values). Only an unset or empty
+// SHARD_COUNT defaults to 1; a malformed value must fail the build.
+const { SHARD_COUNT, SHARD_INDEX } = process.env;
+
 // DNS CNAME knobs (src/helpers.js). Env-overridable; tune via dns-stats CI
 // output (qps / avg latency / timeouts).
 // per-lookup hard timeout; without it an unresponsive resolver hangs the build
@@ -23,6 +27,8 @@ module.exports = {
     RETRY_TIMOUT_MS,
     MAX_RETRIES_COUNT,
     FETCH_CONCURRENCY,
+    SHARD_COUNT,
+    SHARD_INDEX,
     DNS_TIMEOUT_MS,
     DNS_CONCURRENCY,
 };

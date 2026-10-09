@@ -159,6 +159,13 @@ const formatFilename = (companyName) => {
     return lowerDashed;
 };
 
+/**
+ * Plural form of a company type, used for type directories and combined files.
+ * @param {string} companyType singular type from cloaked-trackers.json
+ * @returns {string}
+ */
+const pluralizeCompanyType = (companyType) => `${companyType}s`;
+
 const sleep = (timeout) => new Promise((resolve) => {
     setTimeout(resolve, timeout);
 });
@@ -436,6 +443,7 @@ module.exports = {
     identity,
     mapWithConcurrency,
     formatFilename,
+    pluralizeCompanyType,
     sleep,
     sortAscending,
     isFileExisting,

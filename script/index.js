@@ -6,31 +6,32 @@ const { logger } = require('./src/logger');
 
 const {
     formatFilename,
-    sortMergedInfo,
+    pluralizeCompanyType,
     stashInfoPairs,
     mapWithConcurrency,
 } = require('./src/helpers');
-
-const {
-    JSON_FILE_EXTENSION,
-    RULES_FILE_EXTENSION,
-    HOSTS_RULES_FILE_NAME_ENDING,
-    RPZ_RULES_FILE_NAME_ENDING,
-} = require('./src/constants');
 
 const {
     DATA_DIR,
     BACKUP_DATA_DIR,
     CLOAKED_TRACKERS_FILE,
     FETCH_CONCURRENCY,
+    SHARD_COUNT,
+    SHARD_INDEX,
 } = require('./config');
 
-const { buildDesc } = require('./src/build-desc');
-const { buildRules } = require('./src/build-rules');
-const { updateCombined } = require('./src/update-combined');
 const { mergeDomainsInfo } = require('./src/merge-info');
 const { fetchTrackers } = require('./src/fetch-trackers');
 const { getOldData } = require('./src/get-old-data');
+const {
+    getShardUnits,
+    resolveShardCount,
+    resolveShardIndex,
+    filterOldInfoByBucket,
+    filterDomainsInfoByBucket,
+} = require('./src/shard');
+const { writeCompanyOutputs, writePartialOutputs } = require('./src/company-outputs');
+const { combineData } = require('./src/combine');
 const {
     reset: resetDnsStats,
     summarize: summarizeDnsStats,
@@ -40,7 +41,25 @@ const {
 const dataDir = path.resolve(__dirname, DATA_DIR);
 const backupDir = path.resolve(__dirname, BACKUP_DATA_DIR);
 
+// combine-only mode: the CI combine job has already assembled the shard
+// outputs into data/; rebuild split-company and combined files only.
+const COMBINE_ONLY = process.argv.includes('--combine-only');
+
 const main = async () => {
+    // read the config JSON file with trackers description
+    const cloakingTrackersContent = await fs.readFile(
+        path.resolve(__dirname, CLOAKED_TRACKERS_FILE),
+    );
+
+    // parse to js object
+    const cloakingTrackers = JSON.parse(cloakingTrackersContent);
+
+    if (COMBINE_ONLY) {
+        await combineData(cloakingTrackers, dataDir);
+        logger.success('Successfully updated combined files');
+        return;
+    }
+
     // get all directory names from the data folder
     const allDataDirNames = await fs.readdir(dataDir, { withFileTypes: true });
 
@@ -55,39 +74,44 @@ const main = async () => {
     if (doesBackupDirExist) {
         await fs.remove(backupDir);
     }
-    fs.move(dataDir, backupDir);
+    await fs.move(dataDir, backupDir);
 
-    // read the config JSON file with trackers description
-    const cloakingTrackersContent = await fs.readFile(
-        path.resolve(__dirname, CLOAKED_TRACKERS_FILE),
-    );
+    const shardCount = resolveShardCount(SHARD_COUNT);
+    const shardIndex = resolveShardIndex(SHARD_INDEX, shardCount);
 
-    // parse to js object
-    const cloakingTrackers = JSON.parse(cloakingTrackersContent);
+    // Work units are whole trackers, or hash buckets of oversized trackers.
+    // Every shard computes the same assignment from the same config and data;
+    // a single-job run is shard 0 of 1.
+    const units = getShardUnits(cloakingTrackers, oldRawData, shardIndex, shardCount);
 
-    // length of an object with trackers
-    const trackersLength = cloakingTrackers.length;
+    // number of work units assigned to this shard
+    const trackersLength = units.length;
 
-    // Processed company types (plural). Combined files are rebuilt from the
-    // per-company JSON files on disk later — nothing is kept in memory across the
-    // fetch loop. AG-54208.
-    const companyTypes = new Set();
+    if (shardCount > 1) {
+        logger.info(`Shard ${shardIndex}/${shardCount}: processing ${trackersLength} work units`);
+    }
+
+    // Failed work units. A failed unit's files are missing from the shard
+    // artifact, so combine would keep the previous copies from the checkout and
+    // publish them in a green run. The build must fail instead.
+    let failedUnits = 0;
 
     // recording of combined tracker data in directories according to the relevant type
     for (let i = 0; i < trackersLength; i += 1) {
-        // deconstruct the object into company name, domains, type and assign
-        const { company_name: companyName, domains, type: companyType } = cloakingTrackers[i];
+        const {
+            tracker: { company_name: companyName, domains, type: companyType },
+            bucketIndex,
+            bucketCount,
+        } = units[i];
 
         // plural form of company type for folder name and combined tracker file names
         // in cloaked-trackers.json - "type: ad"
         // in the data directory - folder "ads"
         // combined tracker file name - "combined_disguised_ads.txt"
-        const companyTypePlural = `${companyType}s`;
+        const companyTypePlural = pluralizeCompanyType(companyType);
+        const partLabel = bucketCount > 1 ? ` (part ${bucketIndex + 1}/${bucketCount})` : '';
 
-        // path for directory with companyType name
-        const dirPath = path.resolve(__dirname, DATA_DIR, companyTypePlural);
-
-        logger.info(`Fetching for tracker: ${companyName}`);
+        logger.info(`Fetching for tracker: ${companyName}${partLabel}`);
 
         // fetching tracker domains in parallel (concurrency-limited); order
         // preserved, failed fetches become null and are dropped. Plain log
@@ -110,7 +134,12 @@ const main = async () => {
         );
 
         // keep only successful fetches, drop failed ones
-        const domainsInfo = fetchedResults.filter((d) => d);
+        const successfulFetches = fetchedResults.filter((d) => d);
+
+        // for split trackers only this bucket's disguises are processed
+        const domainsInfo = bucketCount > 1
+            ? filterDomainsInfoByBucket(successfulFetches, bucketIndex, bucketCount)
+            : successfulFetches;
 
         try {
             // formats the company name
@@ -120,16 +149,20 @@ const main = async () => {
 
             // writes data about the tracker from the oldRawData object
             // to the variable oldInfo, if there is such information
-            const oldInfo = oldRawData[companyFileName] ?? {};
+            const oldInfoRaw = oldRawData[companyFileName] ?? {};
+            const oldInfo = bucketCount > 1
+                ? filterOldInfoByBucket(oldInfoRaw, bucketIndex, bucketCount)
+                : oldInfoRaw;
 
             // a variable that stores the combined old and fetched tracker data
             let mergedDomainInfoPairs;
+            let stashedInfo;
 
             try {
                 // merge and stash old domains info with fetched domains info
                 resetDnsStats();
                 mergedDomainInfoPairs = await mergeDomainsInfo(oldInfo, domainsInfo);
-                const stashedInfo = await stashInfoPairs(mergedDomainInfoPairs);
+                stashedInfo = await stashInfoPairs(mergedDomainInfoPairs);
 
                 spinner.succeed(`${companyName} data successfully merged and stashed`);
 
@@ -139,92 +172,55 @@ const main = async () => {
                 const dnsStats = summarizeDnsStats();
                 // eslint-disable-next-line max-len
                 logger.info(`  DNS: ${dnsStats.count} lookups in ${dnsStats.wallMs}ms wall (~${dnsStats.qps} qps, avg ${dnsStats.avgMs}ms, max ${dnsStats.maxMs}ms, ${dnsStats.timeouts} timeouts)`);
-
-                // create directory
-                await fs.ensureDir(dirPath);
-
-                // create json file
-                await fs.writeFile(
-                    path.resolve(__dirname, DATA_DIR, companyTypePlural, `${companyFileName}.${JSON_FILE_EXTENSION}`),
-                    JSON.stringify(stashedInfo, null, 2),
-                );
-
-                // Remember this type so combined files are rebuilt from the
-                // per-company JSON files on disk (no in-memory accumulation).
-                companyTypes.add(companyTypePlural);
             } catch (e) {
                 spinner.fail(`Failed to merge and stash data for ${companyName}`);
             }
 
-            const trackersInfoItems = sortMergedInfo(mergedDomainInfoPairs, domains);
-            const trackersData = {
-                companyName,
-                trackersInfoItems,
-            };
-
-            // create string for md file
-            const descString = await buildDesc(trackersData, domains);
-
-            // create md file
-            await fs.writeFile(path.resolve(
-                __dirname,
-                DATA_DIR,
-                companyTypePlural,
-                `${companyFileName}.md`,
-            ),
-            descString);
-
-            // create strings in other formats
-            const {
-                baseRulesString, hostsRulesString, rpzRulesString,
-            } = await buildRules(trackersData);
-
-            // write files to directories
-            await fs.writeFile(
-                path.resolve(
-                    __dirname,
-                    DATA_DIR,
+            if (bucketCount > 1) {
+                // partial output; sibling buckets are merged by the combine job
+                await writePartialOutputs({
+                    dataDirPath: dataDir,
                     companyTypePlural,
-                    `${companyFileName}.${RULES_FILE_EXTENSION}`,
-                ),
-                baseRulesString,
-            );
-            await fs.writeFile(
-                path.resolve(
-                    __dirname,
-                    DATA_DIR,
+                    companyFileName,
+                    bucketIndex,
+                    bucketCount,
+                    mergedPairs: mergedDomainInfoPairs,
+                    stashedInfo,
+                });
+            } else {
+                await writeCompanyOutputs({
+                    dataDirPath: dataDir,
                     companyTypePlural,
-                    `${companyFileName}${HOSTS_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`,
-                ),
-                hostsRulesString,
-            );
-            await fs.writeFile(
-                path.resolve(
-                    __dirname,
-                    DATA_DIR,
-                    companyTypePlural,
-                    `${companyFileName}${RPZ_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`,
-                ),
-                rpzRulesString,
-            );
+                    companyFileName,
+                    companyName,
+                    domains,
+                    mergedPairs: mergedDomainInfoPairs,
+                    stashedInfo,
+                });
+            }
 
             const doneNumStr = i === trackersLength - 1 ? '100%' : `~${Math.round(((i + 1) / trackersLength) * 100)}%`;
-            logger.success(`Successfully fetched for tracker: ${companyName}, ${doneNumStr} done`);
+            logger.success(`Successfully fetched for tracker: ${companyName}${partLabel}, ${doneNumStr} done`);
         } catch (e) {
-            // restore data directory from temp directory
-            await fs.move(backupDir, dataDir);
+            failedUnits += 1;
             logger.error(`Failed to fetch for tracker: ${companyName}`);
             logger.error(e);
         }
     }
 
-    const spinner = ora({ indent: 2 }).start('Updating combined files');
-    try {
-        await updateCombined([...companyTypes]);
-        spinner.succeed('Successfully updated combined files');
-    } catch (e) {
-        spinner.fail('Failed to update combined files');
-        logger.error(e);
+    // Fail the shard when any unit failed: its files are absent from the
+    // artifact, and a green combine would publish the previous copies.
+    if (failedUnits > 0) {
+        throw new Error(`${failedUnits} of ${trackersLength} work units failed`);
+    }
+
+    // Shard builds skip combined files: the combine job rebuilds them once all
+    // shard outputs are assembled. A single-job run is shard 0 of 1 and uses
+    // the same output path as the combine job.
+    if (shardCount === 1) {
+        const spinner = ora({ indent: 2 }).start('Combining outputs');
+        await combineData(cloakingTrackers, dataDir);
+        spinner.succeed('Successfully combined outputs');
     }
 
     const dnsGrand = dnsGrandTotal();
@@ -234,6 +230,8 @@ const main = async () => {
 
 main()
     .then(async () => {
+        // fs.remove on a missing path is a no-op: combine-only mode never
+        // creates the backup directory.
         await fs.remove(backupDir);
         logger.success('Successfully finished building cloaked trackers');
         process.exit(0);

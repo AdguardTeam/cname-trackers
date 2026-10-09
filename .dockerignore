@@ -3,7 +3,6 @@
 .gitignore
 
 # Not needed inside Docker
-bamboo-specs/
 assets/
 LICENSE
 README.md
@@ -23,3 +22,7 @@ script/temp/
 .idea
 .vscode
 .DS_Store
+
+# CI-only shard artifacts and extracted build output
+shard-data/
+output/

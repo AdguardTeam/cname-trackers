@@ -29,14 +29,16 @@ const ORIGINALS_FILE_NAME = './cloaked-trackers.json';
  *
  * @param {string[]} ruleTypes The rule types for which the combined trackers
  * should be updated. Each should correspond to a key in FORMATS.ORIGINALS.
+ * @param {string} [dataDirPath=DATA_DIR_PATH] directory to write into
+ *   (defaults to the build data dir; overridable for tests)
  *
  * @throws {Error} If an unknown rule type is provided.
  */
-const updateCombinedOriginals = async (...ruleTypes) => {
+const updateCombinedOriginals = async (ruleTypes, dataDirPath = DATA_DIR_PATH) => {
     const originalTrackersContent = await fs.readFile(path.resolve(__dirname, ORIGINALS_FILE_NAME));
     const originalTrackers = JSON.parse(originalTrackersContent);
 
-    ruleTypes.forEach(async (ruleType) => {
+    await Promise.all(ruleTypes.map(async (ruleType) => {
         const originalData = FORMATS.ORIGINALS[ruleType];
         if (!originalData) {
             throw new Error(`Unknown type: ${ruleType}`);
@@ -50,8 +52,8 @@ const updateCombinedOriginals = async (...ruleTypes) => {
                     originalTrackersCombinedChunks += composeRuleWithNewline[ruleType](domain);
                 });
             });
-        await writeCombinedFile(originalData.combinedFileName, originalTrackersCombinedChunks);
-    });
+        await writeCombinedFile(originalData.combinedFileName, originalTrackersCombinedChunks, dataDirPath);
+    }));
 };
 
 /**
@@ -77,7 +79,11 @@ const updateCombinedDisguises = async (companyTypes, dataDirPath = DATA_DIR_PATH
                 .filter((file) => file.endsWith(`.${JSON_FILE_EXTENSION}`))
                 .sort(); // deterministic merge order for reproducible output
         } catch (e) {
-            // No companies of this type succeeded (dir missing) — nothing to combine.
+            // A missing type directory means no companies of this type succeeded;
+            // any other error (EACCES, EMFILE) must not silently skip the combine.
+            if (e.code !== 'ENOENT') {
+                throw e;
+            }
             return;
         }
 
@@ -142,7 +148,7 @@ const updateCombinedDisguises = async (companyTypes, dataDirPath = DATA_DIR_PATH
  * @param {string} dataDirPath Data directory to read from / write to.
  */
 const updateCombined = async (companyTypes, dataDirPath = DATA_DIR_PATH) => Promise.all([
-    updateCombinedOriginals(FORMATS.BASE.type, FORMATS.HOSTS.type),
+    updateCombinedOriginals([FORMATS.BASE.type, FORMATS.HOSTS.type], dataDirPath),
     updateCombinedDisguises(companyTypes, dataDirPath),
 ]);
 
