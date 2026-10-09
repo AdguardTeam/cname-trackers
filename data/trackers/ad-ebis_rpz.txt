@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791546675426        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -122,7 +122,6 @@ adebis.shopserve.jp CNAME .
 adebis.shupita.com CNAME .
 adebis.shupita.jp CNAME .
 adebis.sokamocka.com CNAME .
-adebis.thd-web.jp CNAME .
 adebis.theclinic.jp CNAME .
 adebis.tipness.co.jp CNAME .
 adebis.tohshin.co.jp CNAME .
@@ -206,6 +205,7 @@ cs1470sbeda.schoolasp.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
 cs1979sbeda.customguide-build.net CNAME .
 cs1979sbeda.residence-customize.com CNAME .
+cs2087sbeda.aspex.co.jp CNAME .
 cs2087sbeda.haken-kanri.net CNAME .
 cs2087sbeda.manage-tempstaffing.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
@@ -286,7 +286,6 @@ ebis.n-pri.jp CNAME .
 ebis.nomu-silica.jp CNAME .
 ebis.onamae.com CNAME .
 ebis.palclair.jp CNAME .
-ebis.rabo.cat CNAME .
 ebis.radishbo-ya.co.jp CNAME .
 ebis.randstad.co.jp CNAME .
 ebis.re-shop.jp CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791552043211        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,7 +11,6 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-a.relayto.com CNAME .
 a.uwhealth.org CNAME .
 analysis-test.sozialversicherung.at CNAME .
 analysis.sozialversicherung.at CNAME .
@@ -26,19 +25,23 @@ analytics.ravelz.com CNAME .
 analytics.wavelz.com CNAME .
 analytics.webanalytics.op.europa.eu CNAME .
 analytics.witglobal.net CNAME .
+d.hypobank.ch CNAME .
 d.hypovbg.at CNAME .
 dap.amsterdam.nl CNAME .
+dgm.imaway.fr CNAME .
 dnsbl.test.tag.aumago.com CNAME .
 epiphany.masterworks.digital CNAME .
 fse.piwikpro.pl CNAME .
 game.tag.aumago.com CNAME .
 gmn.gloo.com CNAME .
+intranetstats.tennet.eu CNAME .
 inzicht.cz.nl CNAME .
 logfiles.storck.com CNAME .
 metrics.equans.ch CNAME .
 mphdd.multipharma.be CNAME .
 p-k.kuka.com CNAME .
 p-pan.triodos.com CNAME .
+p.klett-vorschau.de CNAME .
 p.klett.de CNAME .
 p.zwilling.com CNAME .
 piwik.com-online.com CNAME .
@@ -58,14 +61,13 @@ statistiek.rijksoverheid.nl CNAME .
 statistiek.rvo.nl CNAME .
 statistieken.ns-epublisher.com CNAME .
 stats.arinet.com CNAME .
-stats.dealerspike.com CNAME .
 stats.manz.at CNAME .
 stats.netdriven.com CNAME .
 t-pan.triodos.com CNAME .
 tag.aumago.com CNAME .
 tag2.uwv.nl CNAME .
 tagadmin.aumago.com CNAME .
-tagmanager.becop.nl CNAME .
+tracking.we-online.com CNAME .
 webanalytics.helen.fi CNAME .
 www.webanalytics-az.acc.fpfis.tech.ec.europa.eu CNAME .
 www.webanalytics.europa.eu CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791547149073        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,6 +63,9 @@ hal.courrierinternational.com CNAME .
 hd.pe.fr CNAME .
 hmg.handelsblatt.com CNAME .
 hmg.wiwo.de CNAME .
+ignis.kicker.at CNAME .
+ignis.kicker.ch CNAME .
+ignis.kicker.de CNAME .
 ignis.nn.de CNAME .
 image.ard.de CNAME .
 image.mdr.de CNAME .
@@ -78,6 +81,7 @@ leo.play.tv CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 montpalatin.handicap.fr CNAME .
+musique.puydufou.com CNAME .
 orchestre.macif.fr CNAME .
 pa.belantis.de CNAME .
 pa.bellewaerde.be CNAME .

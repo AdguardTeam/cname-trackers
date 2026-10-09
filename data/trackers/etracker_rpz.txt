@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791547149073        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -62,7 +62,9 @@ dzt.germany.travel CNAME .
 e.heimat.style CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
+e.pflegecampus.de CNAME .
 e.preisapo.de CNAME .
+e.vector.com CNAME .
 eck.brettspieleck.de CNAME .
 ecm.agravis.de CNAME .
 ect.ensmann.com CNAME .
@@ -72,7 +74,6 @@ estat.edel-kraut.de CNAME .
 estats.globus.de CNAME .
 et.akademie-handel.de CNAME .
 et.alphalas.com CNAME .
-et.asb-academy.ch CNAME .
 et.asx.eu CNAME .
 et.bleibwacker.com CNAME .
 et.corpuls.hospital CNAME .
@@ -203,6 +204,7 @@ metrics.eltric.com CNAME .
 metrics.energetix.tv CNAME .
 metrics.eurosonic.de CNAME .
 metrics.ewv-hamm-netz.de CNAME .
+metrics.fkur.com CNAME .
 metrics.go-jugendreisen.de CNAME .
 metrics.greatvita.de CNAME .
 metrics.gutskueche.de CNAME .
@@ -212,6 +214,7 @@ metrics.ibis-styles-nagold.com CNAME .
 metrics.iqcheck24.de CNAME .
 metrics.konapp.de CNAME .
 metrics.leimer.de CNAME .
+metrics.maiss.de CNAME .
 metrics.meineversicherungswelt.de CNAME .
 metrics.moderade.com CNAME .
 metrics.muehle-glashuette.de CNAME .
@@ -220,9 +223,11 @@ metrics.park.aero CNAME .
 metrics.schroeder-data-solutions.de CNAME .
 metrics.senior-bett.de CNAME .
 metrics.shop.verpackung.de CNAME .
+metrics.soellund.farm CNAME .
 metrics.soelring-hof.de CNAME .
 metrics.stadtwerke-hamm.de CNAME .
 metrics.stilvol.de CNAME .
+metrics.taw.de CNAME .
 metrics.terra-saar.com CNAME .
 metrics.thegoodshit.store CNAME .
 metrics.thomasipunkt.de CNAME .
@@ -248,6 +253,7 @@ s.hamburg.de CNAME .
 s.lotto-hessen.de CNAME .
 s.materna.de CNAME .
 salzburg.semsea.at CNAME .
+services.rotho.com CNAME .
 sf.schufa.de CNAME .
 show.gruppedrei.com CNAME .
 sitetrack.jawx.de CNAME .
@@ -294,12 +300,14 @@ stats.vorarlbergerjobs.at CNAME .
 stats.wasserfilteroase.de CNAME .
 stats.wienerjobs.at CNAME .
 stgstats.die-bibel.de CNAME .
+stream.joe-nimble.com CNAME .
 sun.solar-haus.de CNAME .
 system.affiliate-marketing-hamburg.de CNAME .
 system.j5media.de CNAME .
 tr.hundesportladen.de CNAME .
 tr.jesusmygoal.com CNAME .
 tr.mey-wasserschaden.de CNAME .
+tr.meygeneralbau.de CNAME .
 tr.zuhause-finder.com CNAME .
 track.bauwirtschaft-bw.de CNAME .
 track.brot-fuer-die-welt.de CNAME .
@@ -354,7 +362,6 @@ vault.livisto-shop.de CNAME .
 vault.raiffeisen-bio-brennstoffe.de CNAME .
 vault.raiffeisenmarkt.de CNAME .
 wa.heimatlinse.de CNAME .
-wa.ostermann.eu CNAME .
 wbtr.chgmeridian.com CNAME .
 wctr.aures.ag CNAME .
 wctr.bodenverkauf.de CNAME .
@@ -407,6 +414,7 @@ webcontr.domondo.es CNAME .
 webcontr.domondo.fr CNAME .
 webcontr.domondo.it CNAME .
 webcontr.domondo.pl CNAME .
+webcontr.emperordivers.com CNAME .
 webcontr.epig-media.de CNAME .
 webcontr.fsj-digital-bw.de CNAME .
 webcontr.garp.de CNAME .
@@ -415,6 +423,7 @@ webcontr.genius.tv CNAME .
 webcontr.goodbean.coffee CNAME .
 webcontr.haferloewe.de CNAME .
 webcontr.holzgestein.com CNAME .
+webcontr.horsch.com CNAME .
 webcontr.ib-kc.de CNAME .
 webcontr.in-akustik.de CNAME .
 webcontr.institut-fuer-achtsamkeit.de CNAME .
@@ -434,6 +443,7 @@ webcontr.lindy.com CNAME .
 webcontr.lindy.de CNAME .
 webcontr.lmz-bw.de CNAME .
 webcontr.lotto-hh.de CNAME .
+webcontr.luftwassertechnik.de CNAME .
 webcontr.luxentu.de CNAME .
 webcontr.madena.de CNAME .
 webcontr.mea-living.de CNAME .
@@ -446,6 +456,7 @@ webcontr.pedalbox.com CNAME .
 webcontr.pegasus-actuators.com CNAME .
 webcontr.prokon.energy CNAME .
 webcontr.reisprinzen.de CNAME .
+webcontr.renovaid.de CNAME .
 webcontr.rheinenergie.com CNAME .
 webcontr.roewa.com CNAME .
 webcontr.rollytoys.de CNAME .
@@ -483,12 +494,14 @@ webdat.mai-estate.com CNAME .
 webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
+webstats.unibrand.de CNAME .
 webstt0002.onofficeom.com CNAME .
 webstt0003.onofficeom.com CNAME .
 webstt0004.onofficeom.com CNAME .
 webstt0005.onofficeom.com CNAME .
 webstt0007.onofficeom.com CNAME .
 webstt0009.onofficeom.com CNAME .
+webstt0010.onofficeom.com CNAME .
 webstt0011.onofficeom.com CNAME .
 webstt0012.onofficeom.com CNAME .
 webstt0014.onofficeom.com CNAME .
@@ -500,6 +513,7 @@ webstt0019.onofficeom.com CNAME .
 webstt0020.onofficeom.com CNAME .
 webstt0021.onofficeom.com CNAME .
 webstt0022.onofficeom.com CNAME .
+webstt0023.onofficeom.com CNAME .
 webstt0024.onofficeom.com CNAME .
 webstt0027.onofficeom.com CNAME .
 webstt0028.onofficeom.com CNAME .
@@ -513,6 +527,7 @@ webstt0038.onofficeom.com CNAME .
 webstt0039.onofficeom.com CNAME .
 webstt0041.onofficeom.com CNAME .
 webstt0042.onofficeom.com CNAME .
+webstt0046.onofficeom.com CNAME .
 webstt0049.onofficeom.com CNAME .
 webstt0050.onofficeom.com CNAME .
 webstt0053.onofficeom.com CNAME .
@@ -520,12 +535,17 @@ webstt0056.onofficeom.com CNAME .
 webstt0057.onofficeom.com CNAME .
 webstt0059.onofficeom.com CNAME .
 webstt0060.onofficeom.com CNAME .
+webstt0067.onofficeom.com CNAME .
 webstt0068.onofficeom.com CNAME .
 webstt0069.onofficeom.com CNAME .
 webstt0071.onofficeom.com CNAME .
 webstt0073.onofficeom.com CNAME .
 webstt0077.onofficeom.com CNAME .
 webstt0078.onofficeom.com CNAME .
+webstt0079.onofficeom.com CNAME .
+webstt0090.onofficeom.com CNAME .
+webstt0102.onofficeom.com CNAME .
+webstt0111.onofficeom.com CNAME .
 websy.skillyofficial.com CNAME .
 webtr.cc-egov.de CNAME .
 webtr.codearchitekten.de CNAME .

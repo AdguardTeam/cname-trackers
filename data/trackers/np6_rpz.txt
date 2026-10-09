@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791547149073        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -169,7 +169,6 @@ tr.bern.espmp-nifr.net CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
 tr.bizzquotes.co.uk CNAME .
 tr.bobo.espmp-cufr.net CNAME .
-tr.bodet.devisdirect.com CNAME .
 tr.boletim.companeo.pt CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
 tr.bourse-expert.secure.lcl.fr CNAME .
@@ -264,7 +263,7 @@ tr.communication.boursobank.info CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
 tr.communication.eminente.com CNAME .
-tr.communication.enkiapp.io CNAME .
+tr.communication.francemutuelle.fr CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
 tr.communication.hennessy.com CNAME .
 tr.communication.hybrigenics.com CNAME .
@@ -453,7 +452,6 @@ tr.fortuneo.com CNAME .
 tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
-tr.fts.francetravail.fr CNAME .
 tr.futuramedia.fr CNAME .
 tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
@@ -558,10 +556,10 @@ tr.info.pretflashtpe-bpifrance.fr CNAME .
 tr.info.projeo-finance.fr CNAME .
 tr.info.rebond-bpifrance.fr CNAME .
 tr.info.reunica.com CNAME .
-tr.info.rouen.aeroport.fr CNAME .
 tr.info.snpden.net CNAME .
 tr.info.solidarm.fr CNAME .
 tr.info.svp.com CNAME .
+tr.info.tourismecreuse.espmp-aufr.net CNAME .
 tr.info.valcenis.com CNAME .
 tr.info.valfrejus.com CNAME .
 tr.info.vip-mag.co.uk CNAME .
@@ -593,7 +591,6 @@ tr.infos.ariase.com CNAME .
 tr.infos.boursobank.info CNAME .
 tr.infos.bpaura.banquepopulaire.fr CNAME .
 tr.infos.enerplus-bordeaux.fr CNAME .
-tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
 tr.infos.lacarte.demenagez-moi.com CNAME .
 tr.infos.lettre-resiliation.com CNAME .
@@ -765,7 +762,6 @@ tr.news.assuragency.net CNAME .
 tr.news.beaugrenelle-paris.com CNAME .
 tr.news.bruneau.fr CNAME .
 tr.news.btob-pro.nl CNAME .
-tr.news.business-deal.co.uk CNAME .
 tr.news.c-media.fr CNAME .
 tr.news.camping-vagues-oceanes.com CNAME .
 tr.news.capfun.com CNAME .
@@ -794,7 +790,6 @@ tr.news.crystal-partenaires.com CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
 tr.news.deshotelsetdesiles.com CNAME .
 tr.news.devisdirect.be CNAME .
-tr.news.devisdirect.com CNAME .
 tr.news.digitpjms.fr CNAME .
 tr.news.directeo.fr CNAME .
 tr.news.easybook.fr CNAME .
@@ -803,7 +798,6 @@ tr.news.easyvoyage.co.uk CNAME .
 tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
 tr.news.ekosport-rent.fr CNAME .
-tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
 tr.news.eureden.com CNAME .
 tr.news.eurodatatv.com CNAME .
@@ -871,7 +865,6 @@ tr.news.perfectstay.com CNAME .
 tr.news.perl.fr CNAME .
 tr.news.pl.bata-esp.com CNAME .
 tr.news.pointfranchise.co.uk CNAME .
-tr.news.prosfora-mou.gr CNAME .
 tr.news.receiveyourquote.co.uk CNAME .
 tr.news.retailglobalsolutions.com CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
@@ -880,7 +873,6 @@ tr.news.solocalms.fr CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.sunelia.com CNAME .
 tr.news.supercasino.fr CNAME .
-tr.news.teklifim.pro CNAME .
 tr.news.tf1licences.com CNAME .
 tr.news.thelist-emirates.fr CNAME .
 tr.news.themedtechforum.eu CNAME .
@@ -968,7 +960,6 @@ tr.oferta-firmy.pl CNAME .
 tr.ofertas-companeo.es CNAME .
 tr.offer-companeo.co.uk CNAME .
 tr.offerta-companeo.com CNAME .
-tr.offerte.migliorifornitori.it CNAME .
 tr.offre-btob.fr CNAME .
 tr.offre-companeo.com CNAME .
 tr.offre.devisdirect.com CNAME .
@@ -996,7 +987,6 @@ tr.pipa.espmp-aufr.net CNAME .
 tr.pixe.espmp-cufr.net CNAME .
 tr.pm.pelhammedia.com CNAME .
 tr.poker.np6.com CNAME .
-tr.pole-emploi-services.com CNAME .
 tr.pole-emploi.info CNAME .
 tr.policyexpert.info CNAME .
 tr.politicoevents.eu CNAME .
@@ -1007,7 +997,6 @@ tr.pourvous.paris.fr CNAME .
 tr.preferenza.unaoffertaalgiorno.com CNAME .
 tr.presupuesto-b2b.es CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
-tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
 tr.pro.myhomeflowercampings.com CNAME .
 tr.pro.odalys-campus.com CNAME .
@@ -1046,7 +1035,6 @@ tr.relation-mediametrie.fr CNAME .
 tr.relation.uneo.fr CNAME .
 tr.renowizze.be CNAME .
 tr.republicains-info.org CNAME .
-tr.rh.auchan.com CNAME .
 tr.route-solutiondata.fr CNAME .
 tr.roxi02e.espmp-agfr.net CNAME .
 tr.safrancom-esp.net CNAME .
@@ -1056,6 +1044,7 @@ tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.satisfaction.villagesnature.com CNAME .
 tr.schj.espmp-aufr.net CNAME .
 tr.seat-fs-email.fr CNAME .
+tr.secondaire.emails-voxaly.com CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.security.perfectstay.com CNAME .
 tr.send.kinvent.com CNAME .

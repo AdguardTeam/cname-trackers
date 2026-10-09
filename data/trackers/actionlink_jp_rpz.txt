@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791549882515        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,6 +61,7 @@ al.gokokumai.co.jp CNAME .
 al.gold-japan.jp CNAME .
 al.hamari-health.jp CNAME .
 al.happysun-hinode.com CNAME .
+al.hinna-official.jp CNAME .
 al.ibizabeauty.net CNAME .
 al.ichikawa-sk.shop CNAME .
 al.ishida-watch.com CNAME .
@@ -68,6 +69,7 @@ al.japan-ballpark.com CNAME .
 al.jtb-gift.com CNAME .
 al.junior-onlineshop.jp CNAME .
 al.kagukuro.com CNAME .
+al.kamotudo.com CNAME .
 al.katakana-net.com CNAME .
 al.kawashima-ya.jp CNAME .
 al.kbwine.com CNAME .
@@ -102,7 +104,6 @@ al.pierrotshop.jp CNAME .
 al.pripstokyo.com CNAME .
 al.pro-p1.jp CNAME .
 al.queenclassico.com CNAME .
-al.rayell.jp CNAME .
 al.rinenna.jp CNAME .
 al.route-2.net CNAME .
 al.ruban-de-chouchou.jp CNAME .
@@ -115,6 +116,7 @@ al.selif.jp CNAME .
 al.shiffon-online.jp CNAME .
 al.shinfulife.com CNAME .
 al.shop-hotelgrandphenix.com CNAME .
+al.sl-creations.store CNAME .
 al.softbankselection.jp CNAME .
 al.sotouba.net CNAME .
 al.sourcenext.com CNAME .

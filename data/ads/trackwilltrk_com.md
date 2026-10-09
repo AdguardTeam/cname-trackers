@@ -24,6 +24,7 @@
 | r.veltrix1.space | r.trackwilltrk.com |
 | r.wholehall.com | r.trackwilltrk.com |
 | t.asiantrk.name | r.trackwilltrk.com |
+| t.boldtrck.fun | r.trackwilltrk.com |
 | t.clickscope.fun | r.trackwilltrk.com |
 | t.coretrck.uno | r.trackwilltrk.com |
 | t.drifttrck.store | r.trackwilltrk.com |
@@ -45,7 +46,6 @@
 | t.quanttrck.space | r.trackwilltrk.com |
 | t.rallytrck.website | r.trackwilltrk.com |
 | t.ranktrck.uno | r.trackwilltrk.com |
-| t.scouttrck.site | r.trackwilltrk.com |
 | t.snaptrckr.fun | r.trackwilltrk.com |
 | t.sptrck.com | r.trackwilltrk.com |
 | t.steptrck.site | r.trackwilltrk.com |

@@ -44,6 +44,8 @@
 | at.h24.news | tls.non.li |
 | barracuda.h24.news | tls.non.li |
 | br.h24.news | tls.non.li |
+| buy.h24.news | tls.non.li |
+| ca-fr.h24.news | tls.non.li |
 | central.us.h24.news | tls.non.li |
 | client.h24.news | tls.non.li |
 | cms.h24.news | tls.non.li |
@@ -52,6 +54,7 @@
 | ec.h24.news | tls.non.li |
 | flow-prod.h24.news | tls.non.li |
 | fr.h24.news | tls.non.li |
+| genai.h24.news | tls.non.li |
 | go.3ds.com | tls.non.li |
 | go.france24.com | tls.non.li |
 | go.lenouveaudetective.com | tls.non.li |
@@ -69,7 +72,6 @@
 | intranet.h24.news | tls.non.li |
 | it.h24.news | tls.non.li |
 | l.20minutes.fr | tls.non.li |
-| l.3djuegos.com | tls.non.li |
 | l.3djuegos.com.mx | tls.non.li |
 | l.3djuegos.lat | tls.non.li |
 | l.750g.com | tls.non.li |
@@ -121,7 +123,9 @@
 | l.coop-medias.org | tls.non.li |
 | l.cosmopolitan.fr | tls.non.li |
 | l.cotemaison.fr | tls.non.li |
+| l.courrier-francais.com | tls.non.li |
 | l.courrier-picard.fr | tls.non.li |
+| l.courrierdegironde.fr | tls.non.li |
 | l.croq-kilos.com | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
 | l.cuisineaz.com | tls.non.li |
@@ -129,7 +133,6 @@
 | l.dailysports.fr | tls.non.li |
 | l.deco.fr | tls.non.li |
 | l.diapasonmag.fr | tls.non.li |
-| l.directoalpaladar.com | tls.non.li |
 | l.directoalpaladar.com.mx | tls.non.li |
 | l.diverto.tv | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
@@ -148,7 +151,6 @@
 | l.enfemenino.com | tls.non.li |
 | l.entrenous.fr | tls.non.li |
 | l.equidia.fr | tls.non.li |
-| l.espinof.com | tls.non.li |
 | l.euronews.com | tls.non.li |
 | l.familiscope.fr | tls.non.li |
 | l.femmeactuelle.fr | tls.non.li |
@@ -184,13 +186,16 @@
 | l.graziamagazine.com | tls.non.li |
 | l.harpersbazaar.fr | tls.non.li |
 | l.hautanjou.fr | tls.non.li |
+| l.hautesaintonge.fr | tls.non.li |
 | l.hbrfrance.fr | tls.non.li |
 | l.herault-tribune.com | tls.non.li |
 | l.herstory-media.com | tls.non.li |
+| l.horizonactu.fr | tls.non.li |
 | l.humanite.fr | tls.non.li |
 | l.iatechauquotidien.com | tls.non.li |
 | l.ici.fr | tls.non.li |
 | l.ideat.fr | tls.non.li |
+| l.information-dentaire.fr | tls.non.li |
 | l.intelekto.fr | tls.non.li |
 | l.intelligenceonline.com | tls.non.li |
 | l.intelligenceonline.fr | tls.non.li |
@@ -208,6 +213,7 @@
 | l.lalettre.fr | tls.non.li |
 | l.lamanchelibre.fr | tls.non.li |
 | l.lamontagne.fr | tls.non.li |
+| l.langerienlibre.fr | tls.non.li |
 | l.lanouvellerepublique.fr | tls.non.li |
 | l.lardennais.fr | tls.non.li |
 | l.larenaissanceduloiretcher.fr | tls.non.li |
@@ -220,9 +226,11 @@
 | l.latribune.fr | tls.non.li |
 | l.laviecorrezienne.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |
+| l.le-littoral.com | tls.non.li |
 | l.le-pays.fr | tls.non.li |
 | l.le10sport.com | tls.non.li |
 | l.leberry.fr | tls.non.li |
+| l.lecanardenchaine.fr | tls.non.li |
 | l.lechasseurfrancais.com | tls.non.li |
 | l.lechorepublicain.fr | tls.non.li |
 | l.lecourriercauchois.fr | tls.non.li |
@@ -232,8 +240,10 @@
 | l.lejdc.fr | tls.non.li |
 | l.lejournaldelamaison.fr | tls.non.li |
 | l.lejournaldici.com | tls.non.li |
+| l.lejournaldumedoc.fr | tls.non.li |
 | l.lemagauquotidien.com | tls.non.li |
 | l.lemoniteurdespharmacies.fr | tls.non.li |
+| l.lensois.com | tls.non.li |
 | l.leparisien.fr | tls.non.li |
 | l.lepoint.fr | tls.non.li |
 | l.lepopulaire.fr | tls.non.li |
@@ -247,6 +257,7 @@
 | l.leveil.fr | tls.non.li |
 | l.lexpress.eu | tls.non.li |
 | l.lexpress.fr | tls.non.li |
+| l.lhebdo17.fr | tls.non.li |
 | l.lhebdoduvendredi.com | tls.non.li |
 | l.liberation-champagne.fr | tls.non.li |
 | l.liberation.fr | tls.non.li |
@@ -254,6 +265,7 @@
 | l.linfoauquotidien.com | tls.non.li |
 | l.linsoliteauquotidien.com | tls.non.li |
 | l.lunion.fr | tls.non.li |
+| l.lyondecideurs.com | tls.non.li |
 | l.lyonne.fr | tls.non.li |
 | l.madmoizelle.com | tls.non.li |
 | l.magazine-avantages.fr | tls.non.li |
@@ -273,7 +285,6 @@
 | l.minhavida.com.br | tls.non.li |
 | l.modesettravaux.fr | tls.non.li |
 | l.moselle.tv | tls.non.li |
-| l.motorpasion.com | tls.non.li |
 | l.motorpasion.com.mx | tls.non.li |
 | l.mouv.fr | tls.non.li |
 | l.moviepilot.de | tls.non.li |
@@ -301,6 +312,7 @@
 | l.peaches.fr | tls.non.li |
 | l.peopleauquotidien.com | tls.non.li |
 | l.petitbleu.fr | tls.non.li |
+| l.pharedere.com | tls.non.li |
 | l.plaisirauquotidien.com | tls.non.li |
 | l.planet.fr | tls.non.li |
 | l.pleinevie.fr | tls.non.li |
@@ -313,11 +325,13 @@
 | l.purepeople.com.br | tls.non.li |
 | l.quinzemondial.com | tls.non.li |
 | l.radiofrance.fr | tls.non.li |
+| l.renaissancelochoise.com | tls.non.li |
 | l.reporterre.net | tls.non.li |
 | l.revue21.fr | tls.non.li |
 | l.rireetchansons.fr | tls.non.li |
 | l.rmc.fr | tls.non.li |
 | l.rmcbfmplay.com | tls.non.li |
+| l.rmcplus.fr | tls.non.li |
 | l.rmcsport.fr | tls.non.li |
 | l.roole.fr | tls.non.li |
 | l.rtl.fr | tls.non.li |
@@ -326,6 +340,7 @@
 | l.rugbyrama.fr | tls.non.li |
 | l.science-et-vie.com | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
+| l.semeur.com | tls.non.li |
 | l.sensacine.com | tls.non.li |
 | l.sensacine.com.mx | tls.non.li |
 | l.sportauto.fr | tls.non.li |
@@ -347,9 +362,10 @@
 | l.topmercato.com | tls.non.li |
 | l.topmusic.fr | tls.non.li |
 | l.topsante.com | tls.non.li |
+| l.toulouscope.fr | tls.non.li |
 | l.touteleurope.eu | tls.non.li |
-| l.trendencias.com | tls.non.li |
 | l.tribuca.net | tls.non.li |
+| l.tribunedelyon.fr | tls.non.li |
 | l.tudogostoso.com.br | tls.non.li |
 | l.turbo.fr | tls.non.li |
 | l.tvauquotidien.com | tls.non.li |
@@ -360,7 +376,6 @@
 | l.voici.fr | tls.non.li |
 | l.voyagezauquotidien.com | tls.non.li |
 | l.whatsupdoc-lemag.fr | tls.non.li |
-| l.xataka.com | tls.non.li |
 | l.xataka.com.br | tls.non.li |
 | l.xataka.com.mx | tls.non.li |
 | l.xatakamovil.com | tls.non.li |
@@ -388,8 +403,10 @@
 | smtp.mail.h24.news | tls.non.li |
 | smtp2.h24.news | tls.non.li |
 | sso.h24.news | tls.non.li |
+| tools.h24.news | tls.non.li |
 | u.ie.h24.news | tls.non.li |
 | uk.h24.news | tls.non.li |
+| uy.h24.news | tls.non.li |
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |
 | www.h24.news | tls.non.li |

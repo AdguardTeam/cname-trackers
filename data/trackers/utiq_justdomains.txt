@@ -76,6 +76,7 @@ utiq.buzzfeed.de
 utiq.bw24.de
 utiq.bz-berlin.de
 utiq.c7c12669-b77b-4cff-8b74-0aceec09c0c7.com
+utiq.caffeinamagazine.it
 utiq.caminteresse.fr
 utiq.canarias7.es
 utiq.capital.fr
@@ -134,6 +135,7 @@ utiq.edcom.fr
 utiq.einbuergerungstest-online.de
 utiq.einbuergerungstest-online.eu
 utiq.einfach-tasty.de
+utiq.einfachbacken.de
 utiq.einfachkochen.de
 utiq.einfachschoen.me
 utiq.elcomercio.es
@@ -171,6 +173,7 @@ utiq.farodevigo.es
 utiq.faz.net
 utiq.fehmarn24.de
 utiq.femmeactuelle.fr
+utiq.finanz.de
 utiq.finanzfrage.net
 utiq.fitbook.de
 utiq.fnp.de
@@ -185,6 +188,7 @@ utiq.francetv-preprod.fr
 utiq.francetv.fr
 utiq.frandroid.com
 utiq.freundin.de
+utiq.ftv-preprod.fr
 utiq.fuehrerscheintest-online.de
 utiq.funandnews.de
 utiq.funradio.fr
@@ -318,6 +322,7 @@ utiq.mahou.es
 utiq.mail.de
 utiq.maison-travaux.fr
 utiq.mallorcazeitung.es
+utiq.malteskitchen.de
 utiq.manager-magazin.de
 utiq.manga-viewer.com
 utiq.mappy.com
@@ -326,6 +331,7 @@ utiq.marca.com
 utiq.mariefrance.fr
 utiq.marmiton.org
 utiq.maz-online.de
+utiq.mein-schoener-garten.de
 utiq.meine-anzeigenzeitung.de
 utiq.mejorconectados.com
 utiq.melty.fr
@@ -431,6 +437,7 @@ utiq.renew.auto
 utiq.rga.de
 utiq.rireetchansons.fr
 utiq.rmcbfmplay.com
+utiq.rmcplus.fr
 utiq.rnd.de
 utiq.rtl.de
 utiq.rtl.fr
@@ -500,6 +507,7 @@ utiq.trendencias.com
 utiq.tuobenessere.it
 utiq.tvspielfilm.de
 utiq.tvtoday.de
+utiq.tvzap.it
 utiq.tz.de
 utiq.usinger-anzeiger.de
 utiq.utest1-prod.work

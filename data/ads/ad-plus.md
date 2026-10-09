@@ -17,7 +17,6 @@
 | dashboard.adopsify.com | dashboard.stat-rock.com |
 | dashboard.alcancemg.com | dashboard.stat-rock.com |
 | dashboard.andbeyond.media | dashboard.stat-rock.com |
-| dashboard.boostads.ru | dashboard.stat-rock.com |
 | dashboard.digita.media | dashboard.stat-rock.com |
 | dashboard.entravision.com | dashboard.stat-rock.com |
 | dashboard.grapemedia.cz | dashboard.stat-rock.com |
@@ -33,11 +32,11 @@
 | player.collectiveaudience.co | serving.stat-rock.com |
 | player.urdupoint.com | serving.stat-rock.com |
 | serving.adopsify.com | serving.stat-rock.com |
+| serving.alcancemg.com | serving.stat-rock.com |
 | serving.ausdoc.com.au | serving.stat-rock.com |
 | serving.datawrkz.com | serving.stat-rock.com |
 | serving.felixads.com | serving.stat-rock.com |
 | serving.grapemedia.cz | serving.stat-rock.com |
-| serving.greeter.lat | serving.stat-rock.com |
 | serving.laimroll.ru | serving.stat-rock.com |
 | serving.lookverin.com | serving.stat-rock.com |
 | serving.mmmedia-group.com | serving.stat-rock.com |

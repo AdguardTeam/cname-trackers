@@ -129,6 +129,7 @@
 ||cmp.dieterengroup.com^
 ||cmp.dieterenmobilitycompany.be^
 ||cmp.mamobilitezen.be^
+||cmp.mespneusete.be^
 ||cmp.mespneushiver.be^
 ||cmp.microlino.be^
 ||cmp.mijnwinterbanden.be^
@@ -203,6 +204,7 @@
 ||dc.volkswagen.com.au^
 ||dc.volkswagen.de^
 ||dc.volkswagen.es^
+||dc.volkswagen.fr^
 ||dc.volkswagen.ie^
 ||dc.volkswagen.no^
 ||dc.volkswagen.pl^
@@ -213,6 +215,7 @@
 ||dc.zalesoutlet.com^
 ||dcf.espn.com^
 ||dcf.espn.com.do^
+||dcf.espn.com.pe^
 ||dcf.espnqa.com^
 ||dcf.espnsb.co.uk^
 ||dcfdata.espn.com^
@@ -259,9 +262,6 @@
 ||fidelity.activate.ensighten.com^
 ||gst.pulse.buyatoyota.com^
 ||gst.pulse.toyota.com^
-||ims.tescoinsurance.com^
-||ims2.tescotravelmoney.com^
-||ims3.tescogiftcards.com^
 ||latimes.activate.ensighten.com^
 ||letsencrypt.data.ensighten.com^
 ||measure.ensighten.com^
@@ -293,6 +293,8 @@
 ||privacy-digital.infracapital.co.uk^
 ||privacy-digital.mandg.com^
 ||privacy-digital.mandgadvice.com^
+||privacy-digital.mandginvestments.com^
+||privacy-digital.mandgplatform.com^
 ||privacy-digital.pru.co.uk^
 ||privacy-digital.pruadviser.co.uk^
 ||privacy-digital.pruretire.co.uk^
@@ -349,7 +351,6 @@
 ||securemetrics.mysynchrony.com^
 ||securemetrics.syf.com^
 ||securemetrics.synchronybusiness.com^
-||service-ens.sueddeutsche.de^
 ||smt.jcpenney.com^
 ||sst.dell.com^
 ||sst.homegoods.com^
@@ -393,7 +394,6 @@
 ||tam.volkswagen.com^
 ||tdi.cartoonnetwork.com^
 ||tea.tescobank.com^
-||tea2.tescobank.com^
 ||test3-dc.jared.com^
 ||test3-dc.kay.com^
 ||test3-dc.kayoutlet.com^
@@ -412,6 +412,7 @@
 ||tms.nabmarginlending.com.au^
 ||tms.nabtrade.com.au^
 ||tms.nationaltrust.org.uk^
+||tms.rsa.com^
 ||tms.securid.com^
 ||tms.suzukibusinesscloud-qa.com^
 ||tms.virginatlantic.com^

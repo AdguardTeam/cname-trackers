@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791549122371        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ api.ngamgaixinh.art CNAME .
 api.rtnews.pro CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
+asg.oneptp.com CNAME .
 asg.pienude.com CNAME .
 c0n.tubestash.com CNAME .
 c4n.85xvideo.com CNAME .
@@ -45,7 +46,6 @@ c4n.myteentgp.com CNAME .
 c4n.shudhdesiporn.com CNAME .
 c4n.suavecitoo.org CNAME .
 c4n.swift4claim.com CNAME .
-c4n.thefreejapaneseporn.com CNAME .
 c4n.worldnewsguru.us CNAME .
 c4n.xxx8.me CNAME .
 ca.infomix.best CNAME .
@@ -54,9 +54,7 @@ cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
 cc.sexgeschichten-klub.com CNAME .
 cc.sexgeschichten-xxx.com CNAME .
-cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
-cdn1.xvideohub.top CNAME .
 central.s1.rtnews.pro CNAME .
 ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
@@ -72,17 +70,19 @@ clkn3.apostle.onl CNAME .
 clknrtrg.pro CNAME .
 cms2.brandnewapp.pro CNAME .
 cn4.animehdl.net CNAME .
+cvk.supklik.com CNAME .
 cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
 dashww.hotscopes.net CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 drt.cliomovies.com CNAME .
-excavajo16.gimmeporn.xyz CNAME .
+excavajo52.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 fotos.brandnewapp.pro CNAME .
 get.xclick24.com CNAME .
 go.lize.bid CNAME .
+go2.lize.bid CNAME .
 grow.brandnewapp.pro CNAME .
 hostmaster.brandnewapp.pro CNAME .
 hostmaster.rtnews.pro CNAME .
@@ -100,16 +100,15 @@ m.brandnewapp.pro CNAME .
 mnch.brandnewapp.pro CNAME .
 n.russ-porno.net CNAME .
 omg.house.porn CNAME .
-orange.arabtoons.net CNAME .
 p.russ-porno.net CNAME .
 ps1.reallifecam.to CNAME .
+ps2.camcaps.to CNAME .
 reg.ancensored.com CNAME .
 s1.rtnews.pro CNAME .
 s2.rtnews.pro CNAME .
 s3.rtnews.pro CNAME .
 s4.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
-scripts.xxxsexcams.net CNAME .
 ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
 v040419.badjojo.com CNAME .

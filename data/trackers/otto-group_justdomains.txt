@@ -5,10 +5,13 @@ sniffer.nitro-production.otto.boreus.de
 sniffer.nitro-test-extern.otto.boreus.de
 te.ackermann.ch
 te.baur.de
-te.frankonia.at
+te.creation-l.de
 te.frankonia.com
 te.frankonia.de
 te.frankoniamoda.ch
+te.heine-shop.nl
+te.heine.at
+te.heine.ch
 te.heine.de
 te.helline.fr
 te.imwalking.de
@@ -17,6 +20,7 @@ te.lascana.at
 te.lascana.ch
 te.limango.de
 te.mirapodo.de
+te.myhermes.de
 te.mytoys.de
 te.nitro-production.otto.boreus.de
 te.nitro-test-extern.otto.boreus.de
@@ -24,11 +28,16 @@ te.otto.de
 te.ottoversand.at
 te.quelle.de
 te.sheego.de
+te.sieh-an.at
 te.sieh-an.de
 te.universal.at
+te.waeschepur.de
+te.witt-international.cz
 te.witt-weiden.at
+te.witt-weiden.ch
 te.witt-weiden.de
 te.yomonda.de
+te.your-look-for-less.nl
 test-extern.nitrosniffer.ottogroup.io
 tp.ackermann.ch
 tp.ambria.de
@@ -49,6 +58,7 @@ tp.lascana.at
 tp.lascana.ch
 tp.limango.de
 tp.mirapodo.de
+tp.myhermes.de
 tp.mytoys.de
 tp.otto.de
 tp.ottoversand.at

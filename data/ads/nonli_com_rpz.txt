@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791552913843        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,7 +19,9 @@ apps.h24.news CNAME .
 at.h24.news CNAME .
 barracuda.h24.news CNAME .
 br.h24.news CNAME .
+buy.h24.news CNAME .
 c.leparisien.fr CNAME .
+ca-fr.h24.news CNAME .
 central.us.h24.news CNAME .
 client.h24.news CNAME .
 cms.h24.news CNAME .
@@ -28,6 +30,7 @@ de.h24.news CNAME .
 ec.h24.news CNAME .
 flow-prod.h24.news CNAME .
 fr.h24.news CNAME .
+genai.h24.news CNAME .
 go.3ds.com CNAME .
 go.france24.com CNAME .
 go.lenouveaudetective.com CNAME .
@@ -46,7 +49,6 @@ in.h24.news CNAME .
 intranet.h24.news CNAME .
 it.h24.news CNAME .
 l.20minutes.fr CNAME .
-l.3djuegos.com CNAME .
 l.3djuegos.com.mx CNAME .
 l.3djuegos.lat CNAME .
 l.750g.com CNAME .
@@ -101,7 +103,9 @@ l.contexte.com CNAME .
 l.coop-medias.org CNAME .
 l.cosmopolitan.fr CNAME .
 l.cotemaison.fr CNAME .
+l.courrier-francais.com CNAME .
 l.courrier-picard.fr CNAME .
+l.courrierdegironde.fr CNAME .
 l.croq-kilos.com CNAME .
 l.cuisineactuelle.fr CNAME .
 l.cuisineaz.com CNAME .
@@ -109,7 +113,6 @@ l.cuisinezauquotidien.com CNAME .
 l.dailysports.fr CNAME .
 l.deco.fr CNAME .
 l.diapasonmag.fr CNAME .
-l.directoalpaladar.com CNAME .
 l.directoalpaladar.com.mx CNAME .
 l.diverto.tv CNAME .
 l.doctissimo.fr CNAME .
@@ -128,7 +131,6 @@ l.enfant.com CNAME .
 l.enfemenino.com CNAME .
 l.entrenous.fr CNAME .
 l.equidia.fr CNAME .
-l.espinof.com CNAME .
 l.euronews.com CNAME .
 l.familiscope.fr CNAME .
 l.femmeactuelle.fr CNAME .
@@ -164,14 +166,17 @@ l.grazia.it CNAME .
 l.graziamagazine.com CNAME .
 l.harpersbazaar.fr CNAME .
 l.hautanjou.fr CNAME .
+l.hautesaintonge.fr CNAME .
 l.hbrfrance.fr CNAME .
 l.heidi.news CNAME .
 l.herault-tribune.com CNAME .
 l.herstory-media.com CNAME .
+l.horizonactu.fr CNAME .
 l.humanite.fr CNAME .
 l.iatechauquotidien.com CNAME .
 l.ici.fr CNAME .
 l.ideat.fr CNAME .
+l.information-dentaire.fr CNAME .
 l.intelekto.fr CNAME .
 l.intelligenceonline.com CNAME .
 l.intelligenceonline.fr CNAME .
@@ -189,6 +194,7 @@ l.lagazettefrance.fr CNAME .
 l.lalettre.fr CNAME .
 l.lamanchelibre.fr CNAME .
 l.lamontagne.fr CNAME .
+l.langerienlibre.fr CNAME .
 l.lanouvellerepublique.fr CNAME .
 l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
@@ -202,9 +208,11 @@ l.lasanteauquotidien.com CNAME .
 l.latribune.fr CNAME .
 l.laviecorrezienne.fr CNAME .
 l.lavoixdunord.fr CNAME .
+l.le-littoral.com CNAME .
 l.le-pays.fr CNAME .
 l.le10sport.com CNAME .
 l.leberry.fr CNAME .
+l.lecanardenchaine.fr CNAME .
 l.lechasseurfrancais.com CNAME .
 l.lechorepublicain.fr CNAME .
 l.lecourriercauchois.fr CNAME .
@@ -214,8 +222,10 @@ l.legorafi.fr CNAME .
 l.lejdc.fr CNAME .
 l.lejournaldelamaison.fr CNAME .
 l.lejournaldici.com CNAME .
+l.lejournaldumedoc.fr CNAME .
 l.lemagauquotidien.com CNAME .
 l.lemoniteurdespharmacies.fr CNAME .
+l.lensois.com CNAME .
 l.leparisien.fr CNAME .
 l.lepoint.fr CNAME .
 l.lepopulaire.fr CNAME .
@@ -229,6 +239,7 @@ l.letrot.com CNAME .
 l.leveil.fr CNAME .
 l.lexpress.eu CNAME .
 l.lexpress.fr CNAME .
+l.lhebdo17.fr CNAME .
 l.lhebdoduvendredi.com CNAME .
 l.liberation-champagne.fr CNAME .
 l.liberation.fr CNAME .
@@ -236,6 +247,7 @@ l.lindependant.fr CNAME .
 l.linfoauquotidien.com CNAME .
 l.linsoliteauquotidien.com CNAME .
 l.lunion.fr CNAME .
+l.lyondecideurs.com CNAME .
 l.lyonne.fr CNAME .
 l.madmoizelle.com CNAME .
 l.magazine-avantages.fr CNAME .
@@ -256,7 +268,6 @@ l.minhavida.com.br CNAME .
 l.modesettravaux.fr CNAME .
 l.monacomatin.mc CNAME .
 l.moselle.tv CNAME .
-l.motorpasion.com CNAME .
 l.motorpasion.com.mx CNAME .
 l.mouv.fr CNAME .
 l.moviepilot.de CNAME .
@@ -287,6 +298,7 @@ l.passeportsante.net CNAME .
 l.peaches.fr CNAME .
 l.peopleauquotidien.com CNAME .
 l.petitbleu.fr CNAME .
+l.pharedere.com CNAME .
 l.plaisirauquotidien.com CNAME .
 l.planet.fr CNAME .
 l.pleinevie.fr CNAME .
@@ -299,11 +311,13 @@ l.purepeople.com CNAME .
 l.purepeople.com.br CNAME .
 l.quinzemondial.com CNAME .
 l.radiofrance.fr CNAME .
+l.renaissancelochoise.com CNAME .
 l.reporterre.net CNAME .
 l.revue21.fr CNAME .
 l.rireetchansons.fr CNAME .
 l.rmc.fr CNAME .
 l.rmcbfmplay.com CNAME .
+l.rmcplus.fr CNAME .
 l.rmcsport.fr CNAME .
 l.roole.fr CNAME .
 l.rtl.fr CNAME .
@@ -312,6 +326,7 @@ l.rue89strasbourg.com CNAME .
 l.rugbyrama.fr CNAME .
 l.science-et-vie.com CNAME .
 l.sciencesetavenir.fr CNAME .
+l.semeur.com CNAME .
 l.sensacine.com CNAME .
 l.sensacine.com.mx CNAME .
 l.sportauto.fr CNAME .
@@ -333,10 +348,11 @@ l.thegoodlife.fr CNAME .
 l.topmercato.com CNAME .
 l.topmusic.fr CNAME .
 l.topsante.com CNAME .
+l.toulouscope.fr CNAME .
 l.touteleurope.eu CNAME .
 l.traxmag.com CNAME .
-l.trendencias.com CNAME .
 l.tribuca.net CNAME .
+l.tribunedelyon.fr CNAME .
 l.tudogostoso.com.br CNAME .
 l.turbo.fr CNAME .
 l.tvauquotidien.com CNAME .
@@ -348,7 +364,6 @@ l.viepratique.fr CNAME .
 l.voici.fr CNAME .
 l.voyagezauquotidien.com CNAME .
 l.whatsupdoc-lemag.fr CNAME .
-l.xataka.com CNAME .
 l.xataka.com.br CNAME .
 l.xataka.com.mx CNAME .
 l.xatakamovil.com CNAME .
@@ -388,8 +403,10 @@ sso.h24.news CNAME .
 static.nonli.com CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .
+tools.h24.news CNAME .
 u.ie.h24.news CNAME .
 uk.h24.news CNAME .
+uy.h24.news CNAME .
 www.20min.fr CNAME .
 www.altereco.media CNAME .
 www.h24.news CNAME .

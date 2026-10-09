@@ -1,8 +1,8 @@
 !
 ! Company name: GoatCounter
-||ai4debunk-demo.stats.chuniversiteit.eu^
 ||anal.sataniskwijt.be^
 ||analytics.applycreatures.com^
+||analytics.boxunix.com^
 ||analytics.carnelian.cc^
 ||analytics.code.dccouncil.gov^
 ||analytics.codes.baltimorecity.gov^
@@ -17,6 +17,7 @@
 ||analytics.law.sanipueblo.org^
 ||analytics.law.tmchippewa.com^
 ||analytics.leespace.co^
+||analytics.openlawlib.org^
 ||analytics.popov.link^
 ||analytics.regs.maryland.gov^
 ||analytics.repath.studio^
@@ -25,6 +26,8 @@
 ||analytics.sanmateo.ca.us.dev.openlawlibrary.us^
 ||analytics.sanmateo.ca.us.open.law^
 ||analytics.tomatomtl.com^
+||analytics.wendoverds.org.uk^
+||analytics.wendovertrust.org^
 ||analytics.yofbrc.com^
 ||api.meestermac.nl^
 ||argus.umarbutler.com^
@@ -46,6 +49,7 @@
 ||gc.mindenugyved.hu^
 ||gc.noscirep.com^
 ||gc.sanyamkapoor.com^
+||gc.sapienzastudents.net^
 ||gc.securitydungeon.sk^
 ||gc.suivi-enfant.max-sens-conseil.fr^
 ||gc.tbx.at^
@@ -54,7 +58,6 @@
 ||goat.dabric.xyz^
 ||goat.dheinemann.com^
 ||goat.fpmelb.org^
-||goat.gavv.in^
 ||goat.invisibledragonltd.com^
 ||goat.neverhill.net^
 ||goat.tailspace.net^
@@ -67,7 +70,6 @@
 ||goatcounter.gumarapus.com^
 ||goatcounter.irishbornchinese.com^
 ||goatcounter.maximilianbenner.com^
-||goatcounter.multilumix.com^
 ||goatcounter.repozitor.com^
 ||goatcounter.thedave.dev^
 ||goatcounter.thedave.me^
@@ -87,21 +89,23 @@
 ||stats.abdodaoud.com^
 ||stats.alextecplayz.com^
 ||stats.apitman.com^
+||stats.applizi.com^
 ||stats.arredofrigo.net^
 ||stats.artero.dev^
 ||stats.artur-rodrigues.com^
 ||stats.azeroths-most-wanted.eu.org^
+||stats.beadhive.ai^
 ||stats.benjaminmorris.com^
 ||stats.bestasciitable.com^
 ||stats.beyondthesprawl.com^
 ||stats.brandontoner.ca^
 ||stats.brendanhanke.com^
+||stats.calculusmadeeasy.org.ua^
 ||stats.carlomega.it^
 ||stats.cassie.omg.lol^
 ||stats.celerry.com^
 ||stats.certidiritti.org^
 ||stats.cloudflex.team^
-||stats.cloudnativebitcoin.org^
 ||stats.coderjoe.net^
 ||stats.coderscompass.org^
 ||stats.cormier.co^
@@ -141,7 +145,6 @@
 ||stats.jonaslieb.de^
 ||stats.justasimple.app^
 ||stats.k94.ch^
-||stats.kalanera.gr^
 ||stats.kc.ie^
 ||stats.kev.bar^
 ||stats.konfou.xyz^
@@ -186,11 +189,14 @@
 ||stats.sebastianzehner.com^
 ||stats.semipol.de^
 ||stats.sophia.fish^
+||stats.soundboardio.com^
+||stats.stegzero.com^
 ||stats.studiodeerenberg.nl^
 ||stats.svc.lol^
 ||stats.swimblueprint.com^
 ||stats.szorty.space^
 ||stats.tdurand.com^
+||stats.textstat.org^
 ||stats.theadnyeusarchive.app^
 ||stats.timothechau.vet^
 ||stats.tinkerer.tools^

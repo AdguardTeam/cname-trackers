@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791549122371        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,18 +13,61 @@ $TTL 300
 
 fpa-api.adweek.com CNAME .
 fpa-api.arstechnica.com CNAME .
+fpa-api.golfdigest.com CNAME .
+fpa-api.sportstravelmagazine.com CNAME .
+fpa-api.thecityreporter.nyc CNAME .
 fpa-cdn.adweek.com CNAME .
 fpa-cdn.amontalenti.com CNAME .
+fpa-cdn.apollo-magazine.com CNAME .
 fpa-cdn.arstechnica.com CNAME .
 fpa-cdn.atozsports.com CNAME .
+fpa-cdn.centralmaine.com CNAME .
+fpa-cdn.chronicle.com CNAME .
+fpa-cdn.dailymemphian.com CNAME .
 fpa-cdn.decrypt.co CNAME .
+fpa-cdn.golfdigest.com CNAME .
+fpa-cdn.heyalma.com CNAME .
+fpa-cdn.hip2keto.com CNAME .
+fpa-cdn.hip2save.com CNAME .
+fpa-cdn.jta.org CNAME .
+fpa-cdn.kveller.com CNAME .
+fpa-cdn.missionlocal.org CNAME .
+fpa-cdn.myjewishlearning.com CNAME .
+fpa-cdn.newsday.com CNAME .
 fpa-cdn.newsweek.com CNAME .
+fpa-cdn.olympic.ca CNAME .
+fpa-cdn.polksports.com CNAME .
+fpa-cdn.pressherald.com CNAME .
+fpa-cdn.prideofdetroit.com CNAME .
 fpa-cdn.rollingstone.com CNAME .
 fpa-cdn.slate.com CNAME .
+fpa-cdn.spectator.com.au CNAME .
+fpa-cdn.tampabay28.com CNAME .
+fpa-cdn.thetrace.org CNAME .
 fpa-events.adweek.com CNAME .
+fpa-events.apollo-magazine.com CNAME .
 fpa-events.arstechnica.com CNAME .
 fpa-events.atozsports.com CNAME .
+fpa-events.centralmaine.com CNAME .
+fpa-events.chronicle.com CNAME .
+fpa-events.dailymemphian.com CNAME .
 fpa-events.decrypt.co CNAME .
+fpa-events.golfdigest.com CNAME .
+fpa-events.heyalma.com CNAME .
+fpa-events.hip2keto.com CNAME .
+fpa-events.hip2save.com CNAME .
+fpa-events.jta.org CNAME .
+fpa-events.kveller.com CNAME .
+fpa-events.missionlocal.org CNAME .
+fpa-events.myjewishlearning.com CNAME .
+fpa-events.newsday.com CNAME .
 fpa-events.newsweek.com CNAME .
+fpa-events.olympic.ca CNAME .
+fpa-events.pressherald.com CNAME .
+fpa-events.prideofdetroit.com CNAME .
 fpa-events.rollingstone.com CNAME .
 fpa-events.slate.com CNAME .
+fpa-events.spectator.com.au CNAME .
+fpa-events.sunjournal.com CNAME .
+fpa-events.tampabay28.com CNAME .
+fpa-events.thetrace.org CNAME .

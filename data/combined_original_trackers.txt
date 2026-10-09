@@ -1,11 +1,8 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2026-08-17T11:08:19+00:00
+! TimeUpdated: 2026-10-09T14:25:18+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
-!
-! Company: affilbox.cz
-||cz.affilbox.cz^
 !
 ! Company: 2cnt.net
 ||pl02.prolitteris.2cnt.net^
@@ -13,11 +10,15 @@
 ! Company: A8.net
 ||a8.net^
 !
-! Company: Actionlink.jp
-||mm.actionlink.jp^
+! Company: Act-On
+||actonservice.com^
+||actonsoftware.com^
 !
 ! Company: ActionIQ
 ||mr-in.com^
+!
+! Company: Actionlink.jp
+||mm.actionlink.jp^
 !
 ! Company: ACWEB Inc.
 ||acweb.clog.jp^
@@ -31,19 +32,8 @@
 ! Company: Ad-Shield
 ||ad-shield.cc^
 !
-! Company: AdSpyglass
-||0i0i0i0.com^
-||u57.muzikguide.com^
-!
-! Company: ads2.bid
-||ads.bid^
-!
-! Company: AT Internet (formerly XiTi)
-||at-o.net^
-!
-! Company: Act-On
-||actonservice.com^
-||actonsoftware.com^
+! Company: ad1n.net
+||ad1n.net^
 !
 ! Company: Adobe Experience Cloud (formerly Omniture)
 ||2o7.net^
@@ -54,11 +44,24 @@
 ! Company: Adocean
 ||adocean.pl^
 !
-! Company: Aquaplatform
-||aquaplatform.com^
+! Company: ads2.bid
+||ads.bid^
+!
+! Company: AdSpyglass
+||0i0i0i0.com^
+||u57.muzikguide.com^
+!
+! Company: affilbox.cz
+||cz.affilbox.cz^
 !
 ! Company: ahacdn.me
 ||cdn18685953.ahacdn.me^
+!
+! Company: Aquaplatform
+||aquaplatform.com^
+!
+! Company: AT Internet (formerly XiTi)
+||at-o.net^
 !
 ! Company: Branch.io
 ||thirdparty.bnc.lt^
@@ -79,11 +82,11 @@
 ||dnsdelegation.io^
 ||storetail.io^
 !
-! Company: CustomerLabs
-||1p-data.co^
-!
 ! Company: customer.io
 ||e.customeriomail.com^
+!
+! Company: CustomerLabs
+||1p-data.co^
 !
 ! Company: DataUnlocker
 ||dataunlocker.com^
@@ -121,11 +124,11 @@
 ! Company: GMO Internet Group
 ||ad-cloud.jp^
 !
-! Company: GoatCounter
-||goatcounter.com^
-!
 ! Company: GoAdserver
 ||go.goadserver.com^
+!
+! Company: GoatCounter
+||goatcounter.com^
 !
 ! Company: heleric.com
 ||heleric.com^
@@ -136,11 +139,11 @@
 ! Company: Ingenious Technologies
 ||affex.org^
 !
-! Company: kib.hu
-||kib.hu^
-!
 ! Company: Keyade
 ||k.keyade.com^
+!
+! Company: kib.hu
+||kib.hu^
 !
 ! Company: Lead Forensics
 ||ghochv3eng.trafficmanager.net^
@@ -154,11 +157,11 @@
 ! Company: Mailgun
 ||mailgun.org^
 !
-! Company: Monetag
-||amaerodactylon.com^
-!
 ! Company: midnightlotusgrove.com
 ||midnightlotusgrove.com^
+!
+! Company: Monetag
+||amaerodactylon.com^
 !
 ! Company: NameSilo
 ||ab1n.net^
@@ -230,12 +233,12 @@
 ! Company: Utiq
 ||utiq-aws.net^
 !
+! Company: Webair
+||ak-is2.net^
+!
 ! Company: Webtrekk
 ||webtrekk.net^
 ||wt-eu02.net^
-!
-! Company: Webair
-||ak-is2.net^
 !
 ! Company: Wecantrack
 ||wecantrack.com^

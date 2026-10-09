@@ -1,6 +1,5 @@
 !
 ! Company name: Piwik PRO
-||a.relayto.com^
 ||a.uwhealth.org^
 ||analysis-test.sozialversicherung.at^
 ||analysis.sozialversicherung.at^
@@ -15,19 +14,23 @@
 ||analytics.wavelz.com^
 ||analytics.webanalytics.op.europa.eu^
 ||analytics.witglobal.net^
+||d.hypobank.ch^
 ||d.hypovbg.at^
 ||dap.amsterdam.nl^
+||dgm.imaway.fr^
 ||dnsbl.test.tag.aumago.com^
 ||epiphany.masterworks.digital^
 ||fse.piwikpro.pl^
 ||game.tag.aumago.com^
 ||gmn.gloo.com^
+||intranetstats.tennet.eu^
 ||inzicht.cz.nl^
 ||logfiles.storck.com^
 ||metrics.equans.ch^
 ||mphdd.multipharma.be^
 ||p-k.kuka.com^
 ||p-pan.triodos.com^
+||p.klett-vorschau.de^
 ||p.klett.de^
 ||p.zwilling.com^
 ||piwik.com-online.com^
@@ -47,14 +50,13 @@
 ||statistiek.rvo.nl^
 ||statistieken.ns-epublisher.com^
 ||stats.arinet.com^
-||stats.dealerspike.com^
 ||stats.manz.at^
 ||stats.netdriven.com^
 ||t-pan.triodos.com^
 ||tag.aumago.com^
 ||tag2.uwv.nl^
 ||tagadmin.aumago.com^
-||tagmanager.becop.nl^
+||tracking.we-online.com^
 ||webanalytics.helen.fi^
 ||www.webanalytics-az.acc.fpfis.tech.ec.europa.eu^
 ||www.webanalytics.europa.eu^

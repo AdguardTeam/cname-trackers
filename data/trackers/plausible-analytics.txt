@@ -82,7 +82,6 @@
 ||l.lilyzhou.com^
 ||loggychops.paulsmith.site^
 ||lytics.findairpods.com^
-||marsupial.roleup.com^
 ||meter.bref.sh^
 ||metric.methoddev.com^
 ||metrics.creit.tech^
@@ -96,7 +95,6 @@
 ||p.ejs.dev^
 ||p.iforge.app^
 ||p.logbox.io^
-||p.marqueplace.com^
 ||p.ryanhalliday.com^
 ||p.versacommerce.de^
 ||p.victoria.dev^
@@ -201,7 +199,6 @@
 ||plsbl.edison.se^
 ||plsbl.martinkriegeskorte.de^
 ||prism.drivingkyoto.com^
-||prism.feurer-network.ch^
 ||prism.netherlandlines.com^
 ||prism.pablonouvelle.com^
 ||prism.tramclockmunich.com^
@@ -236,7 +233,6 @@
 ||s.testingreactjs.com^
 ||s.useeffectbyexample.com^
 ||s.vejenerhverv.dk^
-||s.vucko.co^
 ||sats.mailbrew.com^
 ||see.wasteorshare.com^
 ||server.japanbyrivercruise.com^
@@ -291,11 +287,9 @@
 ||stats.belic.si^
 ||stats.benui.ca^
 ||stats.bernardobordadagua.com^
-||stats.bestservers.co^
 ||stats.beyond-grace.co.uk^
 ||stats.bholmes.dev^
 ||stats.bimbase.nl^
-||stats.bitpost.app^
 ||stats.blackbird-automotive.com^
 ||stats.blackblog.cz^
 ||stats.blog.catholicluv.com^
@@ -315,8 +309,6 @@
 ||stats.bungeefit.co.uk^
 ||stats.byma.com.br^
 ||stats.byterocket.dev^
-||stats.carrot2.org^
-||stats.carrotsearch.com^
 ||stats.cassidyjames.com^
 ||stats.catholicluv.com^
 ||stats.centralswindonnorth-pc.gov.uk^
@@ -352,7 +344,6 @@
 ||stats.dbx.ai^
 ||stats.declanbyrd.co.uk^
 ||stats.deerpark.app^
-||stats.deja-lu.de^
 ||stats.depends-on-the-definition.com^
 ||stats.develop.wwdcscholars.com^
 ||stats.devetkomentara.net^
@@ -417,12 +408,10 @@
 ||stats.geekish.dev^
 ||stats.geobox.app^
 ||stats.gesund-vital-lebensfreude.com^
-||stats.getdoks.org^
 ||stats.getsponsy.com^
 ||stats.ghinda.com^
 ||stats.glassmountains.co.uk^
 ||stats.glyphs.fyi^
-||stats.goldsguide.com^
 ||stats.gounified.com^
 ||stats.gras-system.org^
 ||stats.gravitaswins.com^
@@ -485,7 +474,6 @@
 ||stats.krauss.io^
 ||stats.kryptoslogic.com^
 ||stats.kyushoku2050.org^
-||stats.labibli.com^
 ||stats.lastfm.matthiasloibl.com^
 ||stats.latehours.net^
 ||stats.lauracpa.ca^
@@ -494,13 +482,11 @@
 ||stats.learnlinux.tv^
 ||stats.leavetrackapp.com^
 ||stats.lefthoek.com^
-||stats.legendofnom.com^
 ||stats.leoloso.com^
 ||stats.lica.at^
 ||stats.lik.fr^
 ||stats.lippeshirts.de^
 ||stats.literacysomerset.org^
-||stats.literaturkreis.online^
 ||stats.llia.ms^
 ||stats.lmdsp.com^
 ||stats.localmetravel.com^
@@ -518,11 +504,9 @@
 ||stats.matthiasloibl.com^
 ||stats.maximaconsulting.xyz^
 ||stats.mein-futterlexikon.org^
-||stats.memberdrive.org^
 ||stats.metamorphium.com^
 ||stats.michaeloliver.dev^
 ||stats.mindhive.ca^
-||stats.missionmet.com^
 ||stats.missionrabies.com^
 ||stats.moco-comics.com^
 ||stats.mostlycoding.com.au^
@@ -580,7 +564,6 @@
 ||stats.poesieundgenuss.com^
 ||stats.pointflottant.com^
 ||stats.polekatfitness.com^
-||stats.portalmonitor.io^
 ||stats.poweringpastcoal.org^
 ||stats.practicepl.us^
 ||stats.pricewell.io^
@@ -622,13 +605,11 @@
 ||stats.seanbailey.dev^
 ||stats.sebastiandombrowski.de^
 ||stats.selectam.io^
-||stats.seriouscircus.com^
 ||stats.servicedesignjobs.com^
 ||stats.seva.rocks^
 ||stats.shapeless.dev^
 ||stats.shareup.app^
 ||stats.shepherd.com^
-||stats.shh.io^
 ||stats.shiftx.com^
 ||stats.simplinetworks.com^
 ||stats.sirdata.com^
@@ -662,7 +643,6 @@
 ||stats.tijdschrift.zenleven.nl^
 ||stats.timkhoury.com^
 ||stats.timmo.immo^
-||stats.tms-development.com^
 ||stats.tms-development.de^
 ||stats.tms-institut.de^
 ||stats.toiletmap.org.uk^
@@ -683,7 +663,6 @@
 ||stats.useeffect.dev^
 ||stats.v4.agirpourlenvironnement.org^
 ||stats.vali-pod.io^
-||stats.vdsnow.ru^
 ||stats.vegamuze.be^
 ||stats.vinkkaa.fi^
 ||stats.visions.ch^
@@ -701,7 +680,6 @@
 ||stats.xactcode.com^
 ||stats.xn--antnio-dxa.pt^
 ||stats.zimri.net^
-||statstest.upti.pro^
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||sts.authramp.com^
 ||sts.eliasjarzombek.com^

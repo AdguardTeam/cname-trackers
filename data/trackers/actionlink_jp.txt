@@ -50,6 +50,7 @@
 ||al.gold-japan.jp^
 ||al.hamari-health.jp^
 ||al.happysun-hinode.com^
+||al.hinna-official.jp^
 ||al.ibizabeauty.net^
 ||al.ichikawa-sk.shop^
 ||al.ishida-watch.com^
@@ -57,6 +58,7 @@
 ||al.jtb-gift.com^
 ||al.junior-onlineshop.jp^
 ||al.kagukuro.com^
+||al.kamotudo.com^
 ||al.katakana-net.com^
 ||al.kawashima-ya.jp^
 ||al.kbwine.com^
@@ -91,7 +93,6 @@
 ||al.pripstokyo.com^
 ||al.pro-p1.jp^
 ||al.queenclassico.com^
-||al.rayell.jp^
 ||al.rinenna.jp^
 ||al.route-2.net^
 ||al.ruban-de-chouchou.jp^
@@ -104,6 +105,7 @@
 ||al.shiffon-online.jp^
 ||al.shinfulife.com^
 ||al.shop-hotelgrandphenix.com^
+||al.sl-creations.store^
 ||al.softbankselection.jp^
 ||al.sotouba.net^
 ||al.sourcenext.com^

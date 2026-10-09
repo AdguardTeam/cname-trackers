@@ -78,6 +78,7 @@
     * livingmag-console.aquaplatform.com
     * livingmag-delivery.aquaplatform.com
     * livingmag-static.aquaplatform.com
+    * localmatchmaker-console.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
     * localmatchmaker-static.aquaplatform.com
     * mannix-api.aquaplatform.com
@@ -101,8 +102,6 @@
     * oneboat-console.aquaplatform.com
     * oneboat-delivery.aquaplatform.com
     * oneboat-static.aquaplatform.com
-    * pamplin-console.aquaplatform.com
-    * pamplin-static.aquaplatform.com
     * personare-delivery.aquaplatform.com
     * personare-static.aquaplatform.com
     * platformiq-cdn.aquaplatform.com
@@ -133,11 +132,7 @@
     * sacomm-static.aquaplatform.com
     * sonicplug-delivery.aquaplatform.com
     * sonicplug-static.aquaplatform.com
-    * sueddeutsche-console.aquaplatform.com
-    * sueddeutsche-delivery.aquaplatform.com
-    * t101-console.aquaplatform.com
-    * t101-delivery.aquaplatform.com
-    * t101-static.aquaplatform.com
+    * tecklabs-delivery.aquaplatform.com
     * tfn-console.aquaplatform.com
     * tfn-delivery.aquaplatform.com
     * tfn-static.aquaplatform.com
@@ -251,6 +246,7 @@
 | delivery.ads.fantagiroditalia.it | fsr-delivery.aquaplatform.com |
 | delivery.ads.fantasanremo.com | fsr-delivery.aquaplatform.com |
 | adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
+| reviveapi.geenstijl.nl | geenstijl-console.aquaplatform.com |
 | www.adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
 | lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
 | www.lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
@@ -288,6 +284,7 @@
 | banners.atlantamagazine.com | hourmedia-static.aquaplatform.com |
 | banners.cincinnatimagazine.com | hourmedia-static.aquaplatform.com |
 | banners.geminipub.com | hourmedia-static.aquaplatform.com |
+| banners.greenspring.com | hourmedia-static.aquaplatform.com |
 | images.hour-media.com | hourmedia-static.aquaplatform.com |
 | www.images.hour-media.com | hourmedia-static.aquaplatform.com |
 | console.insideradverts.com | im-console.aquaplatform.com |
@@ -307,6 +304,7 @@
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | www.static.livingmagonline.com | livingmag-static.aquaplatform.com |
+| console.rlnads.net | localmatchmaker-console.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
 | ad-api.mannixmarketing.com | mannix-api.aquaplatform.com |
@@ -342,10 +340,6 @@
 | www.static.everythingnevada.com | oneboat-static.aquaplatform.com |
 | www.static.imagineobx.com | oneboat-static.aquaplatform.com |
 | www.static.tahoe.com | oneboat-static.aquaplatform.com |
-| console.adspmg.com | pamplin-console.aquaplatform.com |
-| www.console.adspmg.com | pamplin-console.aquaplatform.com |
-| cdn.adspmg.com | pamplin-static.aquaplatform.com |
-| www.cdn.adspmg.com | pamplin-static.aquaplatform.com |
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
 | adimages.infotorg.se | platformiq-cdn.aquaplatform.com |
@@ -417,6 +411,7 @@
 | www.static.the-saleroom.com | proxibid-static.aquaplatform.com |
 | console.pinktriangle.ca | ptp-console.aquaplatform.com |
 | www.console.pinktriangle.ca | ptp-console.aquaplatform.com |
+| ads.xtra.ca | ptp-delivery.aquaplatform.com |
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
 | www.servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
 | cdn.pinktriangle.ca | ptp-static.aquaplatform.com |
@@ -462,11 +457,7 @@
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | www.adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |
-| console.sueddeutsche.de | sueddeutsche-console.aquaplatform.com |
-| servedby.sueddeutsche.de | sueddeutsche-delivery.aquaplatform.com |
-| ads-console.recon.com | t101-console.aquaplatform.com |
-| ads.recon.com | t101-delivery.aquaplatform.com |
-| ads-static.recon.com | t101-static.aquaplatform.com |
+| servedby.teck.com.br | tecklabs-delivery.aquaplatform.com |
 | console.trackandfieldnews.com | tfn-console.aquaplatform.com |
 | servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | www.servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |

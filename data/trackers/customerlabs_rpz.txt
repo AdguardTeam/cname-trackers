@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791546675426        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ gkgqgih.plantsinabox.com.au CNAME .
 gofqpma.kimkimblehair.com CNAME .
 gslclvw.lackorecouture.com CNAME .
 hnvrprl.getmainelobster.com CNAME .
+hodhvai.goodbodyclinic.com CNAME .
 ijgtudf.kozii.com CNAME .
 kpdignp.trumerholz.com CNAME .
 lumhdco.mykitsch.com CNAME .

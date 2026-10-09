@@ -1,5 +1,6 @@
 #
 # Company name: Criteo
+2fa.velpa.pl
 aacjdq.pontoslivelo.com.br
 aadeda.niche-beauty.com
 aafpgw.hickies.fr
@@ -241,6 +242,7 @@ aupezm.faballey.com
 aupxil.milar.es
 auqvva.insektenstop.net
 ausclh.castlery.com
+authsmtp.velpa.pl
 autspe.notino.hr
 auwdff.dyfashion.ro
 auwfjo.danetti.com
@@ -308,7 +310,6 @@ baiwvs.bike-angebot.de
 banopz.superkancl.cz
 basuey.toyscenter.it
 baycwn.cornilleau.com
-bazlny.homepal.it
 bbagnw.sedaily.com
 bbampd.yves-rocher.nl
 bbbihe.vertbaudet.es
@@ -363,7 +364,6 @@ bfntkv.icon.co.cr
 bfvlgp.appstory.co.kr
 bfxszq.miliboo.com
 bfycxv.atlasformen.nl
-bfypuy.istanbulhomes.net
 bfzikn.l-wine.ru
 bgakgj.smartbuyglasses.nl
 bgaycm.exvital-shop.de
@@ -520,7 +520,6 @@ btrepg.bochumer-jobanzeiger.de
 bttmkj.diesel.com
 btvsvu.empasa.de
 buasmk.earthshoes.com
-budejo.taihoshop.jp
 budibu.saksfifthavenue.com
 bugdsm.buffalo-boots.com
 bugjyl.jkattire.co.uk
@@ -593,10 +592,8 @@ bysbpc.teufelaudio.nl
 bysfnu.bodeboca.com
 byuwzr.amanacapital.com
 byxcbk.ipekevi.com
-bzaxgk.ecctur.com
 bzcuta.titleboxing.com
 bzfzlj.blackrouge.co.kr
-bzjdax.benricho.org
 bzlold.machi.to
 bznbiv.tejidoslav.com
 bznjet.paprcuts.fr
@@ -641,6 +638,7 @@ cdfhpj.automobile.it
 cditah.aidershop.com
 cdjhcf.hometogo.es
 cdlcli.sortmund.pl
+cdn1.velpa.pl
 cdpbvm.treenikauppa.fi
 cduxqw.afrika-safari.dk
 cdwlxi.cadremploi.fr
@@ -669,6 +667,7 @@ cgowmb.bonitahouse.co.kr
 cgqfsc.gemmyo.com
 cgqkhc.trendyol.com
 cgsisl.owllabs.com
+checks.velpa.pl
 chgvlw.eider.com
 chgwwj.klimate.nl
 chjoua.badblood.co.kr
@@ -700,6 +699,7 @@ cjlenw.icasei.com.br
 cjnbqe.glamira.com.mx
 cjpeiq.rmgbuyukbeden.com
 cjqrjj.dekorbizden.com
+cjrhml.snipes.ch
 cjudex.fittinglab.co.kr
 cjulor.marimekko.jp
 cjwtfp.esimsar.com
@@ -781,7 +781,6 @@ cpgjmp.wideshop.pl
 cpjjgf.handsherb.co.kr
 cpksvl.clarksusa.com
 cploms.hipicon.com
-cppjwb.dobrain.co
 cpqfaw.briovitamin.com
 cpwrbr.blindsgalore.com
 cpzylv.jetcost.co.za
@@ -849,6 +848,7 @@ cueohf.actieforum.com
 cueohf.actifforum.com
 cueohf.activo.mx
 cueohf.aktiv-forum.com
+cueohf.bachandbachettefans.net
 cueohf.bazzart.org
 cueohf.bulgarianforum.net
 cueohf.foroactivo.com
@@ -887,7 +887,6 @@ cueohf.pit-lane.biz
 cueohf.rasage-traditionnel.com
 cueohf.superforum.fr
 cueohf.swedishforum.net
-cufjou.ambarexpress.com
 cufroa.aboutyou.be
 cuftub.myspirit.com.br
 cupcbn.otrium.de
@@ -911,6 +910,7 @@ cwffsc.winemust.com
 cwgesk.metalshop.cz
 cwgwgo.ecanta.com.tr
 cwnlia.parfumdo.com
+cwobhn.34heritage.com
 cwolgn.hamocell.com
 cwpaib.goboony.co.uk
 cwynjf.metalshop.de
@@ -959,7 +959,6 @@ dalnaz.alechrzest.pl
 dashboard.velpa.pl
 dasych.drmartypets.com
 daujvq.cme-kaigojob.com
-dauvwl.cottonink.co.id
 daynkw.architecturaldepot.com
 dayyfq.rapidonline.com
 dazdmx.cobra.fr
@@ -1024,7 +1023,6 @@ dffpxg.targus.com
 dfhs.vuahanghieu.com
 dfigxb.underarmour.com.mx
 dfitgc.yamamay.com
-dfllqi.esprit.com.co
 dfuman.kasaideia.com.br
 dgaxzn.samma3a.com
 dgbftl.luckyvitamin.com
@@ -1117,6 +1115,7 @@ dnltkp.lampeetlumiere.fr
 dnuhjo.proworldinc.com
 dnxcok.pentik.com
 doabqu.s3.com.tw
+doagpm.promart.pe
 docyjy.ryderwear.com
 dokkga.osakichair.com
 dokxpl.wwbw.com
@@ -1210,7 +1209,6 @@ e7a5b5e6-9c27-42ce-ad41-71c0dd885339.random.velpa.pl
 eagsur.sobarroso.pt
 eailmq.lounge-b.co.kr
 eakaih.creditas.com
-eakwza.bipicar.com
 eapsqp.golvshop.se
 eatjav.ekosport.fr
 eatmgo.stylenoriter.co.kr
@@ -1223,8 +1221,6 @@ ebgagg.pink.rs
 ebhjhw.bonprix.es
 ebirzw.expe.fr
 ebmcdb.hunet.co.kr
-ebmhpt.sneakscloud.com
-ebnpqi.carrefourlocation.fr
 ebpdjt.style--plus.jp
 ebrbrw.gulliver-wear.com
 ebreid.garneroarredamenti.com
@@ -1258,7 +1254,6 @@ edzmna.pdp.com
 eecfrq.edreams.de
 eennme.vidaxl.sk
 eeoldm.onitsukatiger.com
-eepxyp.dogu.pet
 eerhrn.ellotte.com
 eerlre.lacoste.es
 eesexz.butyraj.pl
@@ -1355,7 +1350,6 @@ endljp.sinoptik.bg
 endljp.vesti.bg
 endljp.ziuaconstanta.ro
 endsxb.barleycorn.it
-enihga.precissolar.com
 eniobs.moncler.com
 enlvxl.sichime.com
 enlyom.neonail.pl
@@ -1370,7 +1364,6 @@ eokdol.flaconi.at
 eokzre.jd-sports.com.au
 eolguh.rorobell.com
 eolvci.olx.ro
-eonmxd.urban-research.jp
 eoocpp.fujiidaimaru.co.jp
 eowpmq.vinoseleccion.com
 eoxagi.badshop.se
@@ -1396,7 +1389,6 @@ esdstz.raydel.co.kr
 esfuhb.osohshiki.jp
 esgqye.trendhim.ca
 esocgd.beltegoed.nl
-esofco.gsmbutik.ru
 esptap.ykshouse.com.tw
 esqjac.costakreuzfahrten.de
 esqxrp.bonprix-fl.be
@@ -1417,7 +1409,6 @@ etscju.mens-rize.com
 etwovr.underarmour.eu
 etznkn.ec-store.net
 etzqwj.canevas.com
-eubynl.baby-sweets.de
 euhrzv.rugstudio.com
 eukvqv.mitchellstores.com
 euqsfp.belluna.jp
@@ -1558,7 +1549,6 @@ fgjfwz.legami.com
 fgkwup.peterhahn.fr
 fglrgt.ruggable.com
 fgmaal.u-canshop.jp
-fgosob.unhcr.it
 fgqxcz.thehipstore.co.uk
 fhdnds.mrmarvis.com
 fhhxfi.lowermydentalbills.com
@@ -1584,7 +1574,6 @@ fizopp.duluthtrading.com
 fjakau.innonature.eu
 fjbwjb.amoils.com
 fjdzgn.paulfredrick.com
-fjemeg.drim.es
 fjgvhc.moondreamwebstore.de
 fjighz.armaniexchange.com
 fjkjaj.peterhahn.nl
@@ -1599,7 +1588,6 @@ fkmdky.lifehacker.ru
 fkmzox.teinei.co.jp
 fksngj.bonnyread.com.tw
 fkxlsc.fenix-store.com
-flbuhz.justlease.be
 flcirh.kuvings.jp
 fldoai.municipal.com
 fliuws.altimetry.com
@@ -1624,7 +1612,6 @@ fngwdl.allheart.com
 fnlvhy.wowma.jp
 fnmrsj.technitoit.com
 fnmvok.aaaradiatory.cz
-fnnxhg.qpsolutions.net
 fnoamj.onsetfitness.com.br
 fnoqgg.roninwear.com
 fnwcuo.bite.lt
@@ -1736,7 +1723,6 @@ fuzaeg.secretcollagen.com
 fuzrct.gutteridge.com
 fuzrxc.aboutyou.nl
 fvcxvb.ardanewline.com
-fvrnal.pirmassaukstas.lt
 fvvyjd.jtv.com
 fwkwtw.amorossa.com
 fwpugy.savilerowco.com
@@ -1744,7 +1730,6 @@ fwsgvo.takami-labo.com
 fxfezg.bodylab24.de
 fxfomm.tegeldepot.nl
 fxgkhf.ponroy.com
-fxjgmw.catran.com.br
 fxkpnx.mobabiji.jp
 fxlnal.bonajour.com
 fxlpux.nakedcashmere.com
@@ -1917,7 +1902,6 @@ gnkvyn.freeportstore.com
 gnlobj.precolandia.com.br
 gnnkrz.josbank.com
 gnowkn.keessmit.nl
-gnozmx.locasun.fr
 gnqgnn.bbongbra.co.kr
 gnrmty.eurovaistine.lt
 gnshwf.room-park.ru
@@ -1949,10 +1933,10 @@ gpzhcc.lapeyre.fr
 gqhfjr.sizeofficial.es
 gqhlrr.fragrancedirect.co.uk
 gqjppj.rentcafe.com
+gqjppj.rentcafe.com.cdn.cloudflare.net
 gqjrfv.autodoc.fi
 gqlaur.currentcatalog.com
 gqmuky.kaigonohonne.com
-gqnous.klingel.be
 gqqgsp.tervis.com
 gqqxum.mannys.com.au
 gqraqz.e-domizil.de
@@ -2005,7 +1989,6 @@ gvsxuu.farmasi.sk
 gvxnff.soulara.com.au
 gvyyri.major-auto.ru
 gwdsyh.toyotacenter.ru
-gweqyd.fitadium.com
 gwguyh.edreams.es
 gwizal.yumbutter.com
 gwqtum.philips.de
@@ -2174,7 +2157,6 @@ hlqpie.waves.com
 hlreoc.gonuldensevenler.com
 hltckl.vendulalondon.com
 hlygsp.modivo.ro
-hlyraq.lastikpabuc.com
 hmakpa.saksoff5th.com
 hmbkqo.shoppingntmall.com
 hmcltd.rajapack.at
@@ -2249,7 +2231,6 @@ hsaxca.americatv.com.pe
 hsaxca.canaln.pe
 hsfsku.guedo-outillage.fr
 hskywn.raskebriller.no
-hslkll.psychic.de
 hslkll.verkehrsuebungsplatz-info.de
 hspqur.happy-size.ch
 hsprzf.shinhwaworld.com
@@ -2364,7 +2345,6 @@ idianw.warmteservice.nl
 idlqzb.puntoscolombia.com
 idndlc.kango-oshigoto.jp
 idqwqm.kkday.com
-idwxyc.rosettastone.de
 ieapgv.abcroisiere.com
 ieeowa.marcjacobsbeauty.com
 iefiop.raizs.com.br
@@ -2404,7 +2384,6 @@ ihfwer.aboutyou.com
 ihgfdc.miu-star.com.tw
 ihhwrq.peyrouse-hair-shop.com
 ihnbqe.shane.co.jp
-ihntrr.lojasalvat.com.br
 ihpyig.hometogo.ch
 ihtmci.aignermunich.de
 ihtnxu.tannergoods.com
@@ -2445,11 +2424,13 @@ ilepwo.bonprix.at
 ilfmju.right-on.co.jp
 iliovc.looknone.co.kr
 iljdyu.orteka.ru
+iljfnr.vhmall.net
+illppi.kibuba.hr
 ilnfdq.cybozu.co.jp
 ilqnef.whipbunny.jp
-ilsxbd.rockymountainatvmc.com
 iltcaf.immobilienscout24.de
 ilvqos.lyst.es
+imap2.velpa.pl
 imaqdk.labombilla.fr
 imbhdu.housedo.co.jp
 imfbyg.rosaski.com
@@ -2484,7 +2465,6 @@ ioqjqu.lativ.com.tw
 iorltr.klingel.nl
 ioxqdp.leatherology.com
 ipcfgw.pieces.com
-ipddim.baya.gr
 ipdmlm.yoriso.com
 iphufr.circleline.com
 ipijfe.cuponatic.com.pe
@@ -2536,9 +2516,9 @@ itkdlu.howrse.no
 itkdlu.howrse.se
 itkdlu.howrse.si
 itkdlu.howrse.sk
+itkdlu.lowadi.com
 itmmgk.ilgufo.com
 itznub.gap.co.uk
-iuaqfp.aetem.co.kr
 iuffrp.promdressshop.com
 iuhvtj.mcdrogerie.ch
 iujcwb.sklep15230.shoparena.pl
@@ -2589,8 +2569,6 @@ iyvzqt.agabangmall.com
 izbwce.secretoutlet.com.br
 izegag.shop24direct.de
 izremx.dentalplans.com
-iztniq.motionrc.eu
-izzksf.quraz.com
 izzyaa.week9.kr
 jagnqc.annevaughandesigns.com
 jahmwv.not4u.kr
@@ -2622,7 +2600,6 @@ jcyyxq.joker-ev.jp
 jdbjhd.saniweb.nl
 jdfvsw.viniphile.fr
 jdgtgb.4players.de
-jdgtgb.aachener-nachrichten.de
 jdgtgb.autoguru.de
 jdgtgb.buffed.de
 jdgtgb.cellesche-zeitung.de
@@ -2671,7 +2648,6 @@ jdgtgb.weser-kurier.de
 jdhreo.fitdance.com
 jdiicp.ezup.com
 jdpami.elfadistrelec.dk
-jdqykf.bensimonseoul.co.kr
 jdsbyb.webmd.com
 jduvha.lamartina.com
 jdzmqj.thousandtrails.com
@@ -2689,6 +2665,7 @@ jgigvs.tractive.com
 jgnsrz.bannerbuzz.com.au
 jgnxty.revivalrugs.com
 jgwmbo.h2opurificadores.com.br
+jgytve.kagome.co.jp
 jgyugc.mp.com.tr
 jgzhsu.caterer.com
 jhbami.hervecuisine.com
@@ -2769,8 +2746,8 @@ jptsxj.7esthe.com
 jpwfkn.besthotels.es
 jpwfrl.mona.de
 jqguzn.pnxdesign.co.kr
+jqltgi.promofarma.com
 jqlzwb.bauhaus.fi
-jqmlfp.us-mattress.com
 jqsouo.gourmetcaree.jp
 jqsrmm.sousou.co.jp
 jquliu.tiamokorea.com
@@ -2893,7 +2870,6 @@ kbzjmu.helvetictours.ch
 kcgser.azialo.com
 kchomo.tennis.com.co
 kcnqur.guante.cl
-kcoljf.ilsanghabo.com
 kcrymn.castellmaq.com.br
 kctnuy.downsizing.com.au
 kctwqu.vypredaj-zlavy.sk
@@ -2932,7 +2908,6 @@ kfueop.lojaprohall.com.br
 kfzfze.moncollierprenom.com
 kfzrga.harrisseeds.com
 kgbokc.masrefacciones.mx
-kgguwk.jeep.com.tr
 kglduw.lifesum.co.kr
 kgmmfk.galcomi.jp
 kgqxzw.blue-tomato.com
@@ -3021,6 +2996,7 @@ knapia.weightwatchers.com
 knaqsn.okuta.com
 kndtax.footway.fi
 kngkxk.around101.com
+knhccb.revivalanimal.com
 knjybs.luminis-films.com
 knlqeu.jewlr.com
 knopnf.asambeauty.com
@@ -3049,6 +3025,7 @@ kqmhog.tbmmarket.ru
 kqoelg.ultrafootball.com
 kqscrl.bonprix.nl
 kqvtez.watt24.com
+kqyrdq.klarstein.sk
 kqzbph.zerohedge.com
 krfxvi.iconbydesign.com.au
 krhkmt.offroadstore.it
@@ -3068,6 +3045,7 @@ ktdcoy.lyst.it
 ktgzmn.lcdwandhalter.de
 kthjuw.lyst.com.au
 ktkuxm.norsan.de
+ktndqk.oriba.com.br
 ktoahv.ivet.rs
 ktocpw.silabg.com
 ktrjrp.trendhim.co.nz
@@ -3162,7 +3140,6 @@ lcwodl.bleulibellule.com
 lcztnn.asics-trading.co.jp
 ldcheg.glamira.pt
 ldckmk.divarese.com.tr
-ldgxsr.locasun-vp.fr
 ldhteg.mooihorloge.nl
 ldinry.drinks.ch
 ldocal.sonchek.com
@@ -3189,7 +3166,6 @@ lfbowp.talisa.com
 lfcbvf.viata.fr
 lfercl.tcb-beauty.net
 lfhoyk.daydreamer.co.kr
-lfkesv.seeplaces.com
 lfmhcb.sefamerve.com
 lfpfpl.andar.co.kr
 lfqyah.pureformulas.com
@@ -3328,7 +3304,6 @@ lqiwjf.hannun.com
 lqopyc.beermachines.ru
 lqpvvd.naadam.co
 lqpzdi.coppel.com
-lqsowt.mona-mode.fr
 lqvfkk.sosyopix.com
 lqxjrk.fbs.com
 lravwm.spa.cz
@@ -3345,6 +3320,7 @@ lrmxfo.torgoen.com
 lrnopx.fackelmann.de
 lrqzzi.ela.com.co
 lrrjgo.comfortlab.co.kr
+lrryom.24mx.nl
 lrtjvd.wordans.com
 lsbeim.mediamart.vn
 lsgrpe.rodeodrive.co.jp
@@ -3368,6 +3344,7 @@ ltripg.marti.mx
 ltsveh.wetteronline.at
 ltsveh.wetteronline.ch
 ltsveh.wetteronline.de
+lttusg.rolarola.com
 ltvfrs.toymiso.com
 ltwpkf.livwatches.com
 ltxsfq.legero.com
@@ -3406,7 +3383,6 @@ lwmnyf.modivo.hu
 lwozzk.legacy.com
 lwusnt.yogibo.kr
 lxckra.lottemart.com
-lxlvyb.bauarte.com.br
 lxmnrl.eobuv.sk
 lxoemc.buonissimo.it
 lxoemc.dilei.it
@@ -3456,6 +3432,7 @@ lzwxzz.chintaistyle.jp
 maaiuh.tomorrowland.co.jp
 mail1.velpa.pl
 mail3.velpa.pl
+mailer.velpa.pl
 majdmw.gigasport.at
 makbti.bandofboats.com
 manage.velpa.pl
@@ -3464,7 +3441,6 @@ market.bellelily.com
 market.fairyseason.com
 matytt.tone.ne.jp
 maxtat.55truck.com
-mbbhij.mi-home.pl
 mbeiax.lojarafarillo.com.br
 mbelia.underarmour.co.uk
 mbeoxt.perfumesclub.pt
@@ -3591,9 +3567,12 @@ mokmof.bricksmasons.com
 monfzx.pioro.co
 mosvnx.livup.com.br
 movdrl.agriconomie.com
+mpcyzg.dogpre.com
+mpfzxm.carsmartnow.com
 mpggcd.geliebtes-zuhause.de
 mpglie.apartmentguide.com
 mpgtft.zoobeauval.com
+mphlrt.snipes.at
 mpjtif.viabovag.nl
 mpoviu.edenly.com
 mpqpsq.homesmiths.ae
@@ -3751,7 +3730,6 @@ nfzetr.shop.bestseller.com
 ngaffn.itokin.net
 ngazee.novostroy-m.ru
 ngcafm.vinhofacil.com.br
-ngcbjq.frecuento.com
 ngdhuv.annonces-caravaning.com
 ngghll.me.co.kr
 ngueja.2ememain.be
@@ -3768,7 +3746,6 @@ nigxvo.johnnybigg.com.au
 niioyd.swiftdirectblinds.co.uk
 ninzey.epdesignlab.com
 nirdjz.revolveclothing.com.au
-nitliy.topticketshop.nl
 njbrwf.pilatesshop.it
 njcchu.flowercampings.com
 njfuqt.fraenkischer-jobanzeiger.de
@@ -3838,7 +3815,6 @@ nqacsh.herning24.dk
 nqacsh.mandesiden.dk
 nqacsh.men24.dk
 nqacsh.odense24.dk
-nqacsh.politirapporten.dk
 nqacsh.vejle24.dk
 nqacsh.viborg24.dk
 nqcbgz.cocopanda.se
@@ -3910,6 +3886,7 @@ nwfkjx.gadventures.com
 nwkcdv.pandapiac.hu
 nwlnml.megaknihy.sk
 nwnois.seculus.com.br
+nwtrih.ticket.com.br
 nwvupz.cljoias.com.br
 nwwucx.palemoba.com
 nwxbws.oxygenconcentrator.shop
@@ -3982,6 +3959,7 @@ oesxlp.atlasformen.co.uk
 oewnwk.dimehouse.de
 oexcmv.concent.co.jp
 ofdhec.e-butsudan.com
+ofjvfg.wittchenshop.de
 ofkdoq.teetee.eu
 ofkqiy.knowfashionstyle.com
 ofojho.timecenter.com.br
@@ -3994,6 +3972,7 @@ ogcsvq.sourcenext.com
 ognjrx.whosgirl.co.kr
 ognunn.chavesnamao.com.br
 ogpdwe.livin24.com
+ogscis.vitacup.com
 ogukky.canadagoose.jp
 ogwzby.peek-und-cloppenburg.de
 ogzbpc.doctipharma.fr
@@ -4050,6 +4029,7 @@ omfoom.thepoolfactory.com
 omftdc.morijuku.com
 omieuz.razer.ru
 omjtca.emlakjet.com
+omoxcl.aosom.com
 omvzcq.vidaxl.be
 omxodt.shredoptics.com
 oncahh.boxlunch.com
@@ -4064,7 +4044,6 @@ onupnu.edreams.com.au
 onxjax.agjeans.com
 onxpca.aramon.com
 onzloa.classically.co.kr
-ooafsb.hourraheros.fr
 ooascm.ashild.se
 oocrzh.byojet.com
 ooopym.younited-credit.com
@@ -4174,6 +4153,7 @@ pangrg.debeugelknaller.nl
 papemz.rcwilley.com
 paqqlk.motatos.de
 pardko.pricerunner.com
+password.velpa.pl
 paupud.meillandrichardier.com
 paxtrz.dreamplacehotels.com
 payqjd.subito.it
@@ -4217,7 +4197,6 @@ pfmram.slamjam.com
 pfulof.dickiesworkwear.com
 pfuyhr.schutz.com.br
 pgduet.nnnthree.com
-pgeaka.istanbulhomes.ru
 pgedqw.bolf.ro
 pgkxhq.jamesallen.com
 pgugfm.bevilles.com.au
@@ -4260,6 +4239,7 @@ pjoxcw.rosewe.com
 pjtshn.floraprima.de
 pjtvpz.teufelaudio.fr
 pjtxmd.epool.ru
+pjxjbs.krueger-dirndl.at
 pkdimy.shoptime.com.br
 pkdntb.emploi-pro.fr
 pkhevp.suplinx.com
@@ -4306,6 +4286,7 @@ polhvf.bootbarn.com
 pop3.velpa.pl
 porqhi.topictravel.nl
 portal.velpa.pl
+postmaster.velpa.pl
 povtbi.automovilesalhambra.es
 ppdovk.home24.ch
 ppgcmv.yamamotoyama.co.jp
@@ -4335,6 +4316,7 @@ prcoug.ledpanelgrosshandel.de
 prhhqo.vintagevoyage.ru
 prkvlr.camper.com
 prnzxf.glamira.se
+promotion.velpa.pl
 prsnia.lilienthal.berlin
 prsntv.thetomhope.com
 prvizg.shurgard.be
@@ -4387,8 +4369,6 @@ pxmzlk.redfin.com
 pxnmeo.mugsyjeans.com
 pxvlcc.crocs.fr
 pxxhbz.apamanshop.com
-pymekx.suche-preise.de
-pymekx.toppriser.dk
 pymoqb.ied.it
 pynnrd.mollini.com.au
 pyonbq.rakurakumeisai.jp
@@ -4615,7 +4595,6 @@ qugedj.paprika-shopping.nl
 qugkzc.babyonlinewholesale.com
 quhdnr.musiciansfriend.com
 qumhzv.calmamall.com
-qursbq.berceaumagique.com
 qutsgp.calif.cc
 quuure.arubaito-ex.jp
 quyerj.northstyle.com
@@ -4632,7 +4611,6 @@ qvsfrk.stephane-christian.com
 qvwaan.bellalunatoys.com
 qvwick.mister-auto.de
 qvzbdw.johngreed.com
-qvznqz.mekster.se
 qvzrde.eusemfronteiras.com.br
 qvzrde.mensagenscomamor.com
 qwfuug.phoneclick.it
@@ -4644,7 +4622,6 @@ qxauwo.sportisimo.ro
 qxdjfb.astoreo.cz
 qxerzu.dona-d.com
 qxgfdq.maiutazas.hu
-qxibrn.enviedefraise.fr
 qxkous.sweet-mommy.com
 qxnuan.noo-paris.com
 qxsfaj.caloo.jp
@@ -4663,10 +4640,8 @@ qyvnic.footshop.cz
 qywjep.miniinthebox.com
 qyysqs.color4care.no
 qzcxtm.mango.com
-qzdwez.websurfshop.com.br
 qzfrzp.bewooden.cz
 qzfxcf.coastal.com
-qzlufa.hoorayheroes.co.uk
 qzosds.gabalnara.com
 qzouog.demar3.co.kr
 qzppzo.debbiemeyer.co.kr
@@ -4690,7 +4665,6 @@ rbesql.just4camper.fr
 rbncmx.chopperexchange.com
 rbnvpy.klingel.at
 rbrzcu.green-acres.gr
-rbtwsd.fitnessfood.com
 rbtypn.futunatura.hr
 rcbsrm.fivefoxes.co.jp
 rccnyh.airportrentalcars.com
@@ -4718,13 +4692,13 @@ reaonq.xn--hdks770u8f0a8dvzft.net
 reblyi.sklepkawa.pl
 reeokx.reima.com
 reeyzk.momq.co.kr
-refveq.reviskorea.co.kr
 refwkk.cas.sk
 refwkk.mojewypieki.com
 refwkk.omnicalculator.com
 refwkk.topky.sk
 refwkk.zoznam.sk
 refytq.camp-fire.jp
+reijhx.budgetheating.com
 rejhxn.pamono.co.uk
 relay.velpa.pl
 reltrd.peteralexander.com.au
@@ -4742,7 +4716,6 @@ rfcpqf.luvlit.jp
 rfdxas.zackacademy.com
 rffsds.fsastore.com
 rfidxf.minnavnehalskaede.dk
-rfjrih.skinceuticals.com
 rflbhv.3ple.jp
 rflrlt.divano.ru
 rfmfrg.yamap.com
@@ -4768,7 +4741,6 @@ rhxkij.vstyle.vn
 rhybey.gap.co.jp
 ridmvd.dazzystore.com
 riluwt.voxcinemas.com
-rimwtv.theclassictshirt.com
 rimxqx.slickdeals.net
 riovdv.mustit.co.kr
 ripzey.carrieres-publiques.com
@@ -4784,7 +4756,6 @@ rjgsjm.gigameubel.nl
 rjilbs.intermediair.nl
 rjjynf.showcase-tv.com
 rjlhoi.torch.id
-rjrapm.baconbox.co
 rjsgoj.senobiru-shop.jp
 rjsouj.clubd.co.jp
 rkazse.infirmiere.co.jp
@@ -4949,7 +4920,6 @@ sbeqti.koaj.co
 sbgrle.etagi.com
 sbjhct.starshiners.ro
 sbjpsx.musthaving.co.kr
-sblokx.prom.ua
 sbmwgj.vidaxl.hu
 sbnwjf.marymaxim.ca
 sbpzeq.lululemon.com.au
@@ -4959,6 +4929,7 @@ sbyneh.dailymail.co.uk
 sbyneh.mailonlinephotos.com
 scdcem.hedinbil.se
 scedla.dietbon.fr
+scevoo.alinda.hu
 scfhwp.ski-express.com
 scjlpq.navitime.co.jp
 sckxod.apostrophes.kr
@@ -5056,7 +5027,6 @@ skbnfa.filorga.com
 skfgxk.decorativeceilingtiles.net
 skmcwz.haselmode.co.kr
 skppwc.billabong.com.br
-skpxim.namly.se
 skueel.ozernyi-gatne.com.ua
 skvnlg.unisportstore.at
 skxbbj.clasic.jp
@@ -5068,7 +5038,6 @@ slepix.kingofwear.com
 slewvr.gp.se
 slfmlh.ostsee-jobanzeiger.de
 slxacy.europcar.fi
-smbzbm.skymilescruises.com
 smdgll.polar.com
 smfmjq.kulig.pl
 smgolg.ddenne.com
@@ -5109,6 +5078,7 @@ sorxyx.vi.nl
 soubej.larebajavirtual.com
 soxnwz.lg.com
 soxofo.concursosnobrasil.com.br
+spam.velpa.pl
 spenvp.gate.shop
 spigte.shopee.tw
 spjysa.only.com
@@ -5137,7 +5107,6 @@ srmdvb.ekohealth.com
 srnmxp.unisportstore.fi
 sroork.mrmarvis.nl
 srovwj.simfer.com.tr
-srratl.mona-mode.at
 srrxiq.wurth.fr
 sscefh.feedingamerica.org
 ssecvu.lindsayshop.com
@@ -5161,6 +5130,7 @@ stktkt.profizelt24.de
 stkuwc.hvacdirect.com
 stliom.vidaxl.cz
 storage.velpa.pl
+store.velpa.pl
 stuekv.domondo.pl
 sufesj.shop4runners.com
 sufetv.chefuniforms.com
@@ -5292,6 +5262,7 @@ sxmxpm.nectarsleep.com
 sxqdun.neogence.com.tw
 sxvkhq.downlights.co.uk
 sxyemx.micollarconnombre.com
+sydcxk.epipla1.gr
 syemld.xlmoto.it
 syfwnf.society6.com
 syghlz.nijobs.com
@@ -5364,11 +5335,13 @@ teaolg.niedersaechsischer-jobanzeiger.de
 teczbq.amicashop.com
 teijgy.herveleger.com
 telulr.golfgalaxy.com
+templates.velpa.pl
 tengbt.healthhelper.kr
 tepwxt.bonescoffee.com
 teqeft.allegromedical.com
 teraes.hgreg.com
 terdzl.ohmyglasses.jp
+terxqt.bolderman.nl
 tevjso.konesso.pl
 tevzas.autoscout24.fr
 tewisg.monster.fi
@@ -5504,6 +5477,7 @@ tszisd.beliani.pt
 tteikk.saintmaniero.com
 ttfpil.2dehands.be
 ttfqcx.catfootwear.com
+ttmmpe.loberon.nl
 ttmuvo.croisieres.fr
 ttnnuo.racing-planet.de
 ttyihp.ochkov.net
@@ -5514,14 +5488,12 @@ tufcum.margaretha.se
 tugngs.tui.com
 tuhzmt.medicareenrollment.com
 tunfen.hotping.co.kr
-tuvevx.agent-sana.com
 tuykfa.ivrose.com
 tvaniz.tooles.pl
 tvbafy.phoneppu.com
 tvcoag.brw.pl
 tveyut.justaway.com
 tvkfms.nta.co.jp
-tvnwpb.ni.dk
 tvnwpj.utensileriaonline.it
 tvuaeb.taqi.com.br
 tvutso.menbur.com
@@ -5648,7 +5620,6 @@ uglwov.logic-immo.com
 ugqlsv.tutete.com
 ugvbua.optykaworld.pl
 ugwsvh.eurorelogios.com.br
-ugzarn.potterybarn.com.sa
 ugzbsu.klimaworld.com
 uhdwwe.gcmgames.com.br
 uhenqb.manning.com
@@ -5702,10 +5673,10 @@ ulidoo.montblanc.com
 ultund.misterspex.nl
 ulyfrf.dekruidenbaron.nl
 umazvs.raybiotech.com
-umccle.traktorpool.hu
 umcicv.europcar.com
 umdlbn.globetrotter.de
 umdpva.gakumado.mynavi.jp
+umewjp.chanti.no
 umhyck.belvilla.com
 umiaob.kireibiz.jp
 umlvbe.rucipello.com
@@ -5776,7 +5747,6 @@ uuhejd.snipes.es
 uulmai.mackenzieltd.com
 uunczm.lescon.com.tr
 uunwaq.lampenundleuchten.de
-uurykr.pizzahut.com.mx
 uurzdr.global-style.jp
 uutdjp.brooks.co.jp
 uuucbm.kontramarka.de
@@ -6090,7 +6060,6 @@ vyykdr.renogy.com
 vzcfqp.unibet.fr
 vzeyba.shopee.co.id
 vzhjnw.officedepot.com
-vzlogd.doctorpoint.it
 vzuxpl.cmgroup-ziko.com
 vzvswc.savagex.co.uk
 vzyahn.legalvision.fr
@@ -6230,7 +6199,6 @@ wnegmu.timberland.nl
 wnfwzx.panpacific.com
 wngyjr.sportservice.pl
 wnhmnh.styx-underwear.cz
-wniwtd.laurakent.fr
 wnlhmz.cimaco.com.mx
 wnnsrb.sister-ann.com
 wnozpl.escarpe.it
@@ -6269,6 +6237,7 @@ wrjxoy.mnt.fr
 wrkbha.lyst.de
 wrlnvt.pepita.hu
 wrqymc.myjoliecandle.es
+wrrvti.motorparks.co.uk
 wrugwj.bakerross.de
 wrwqxy.victoriaemerson.com
 wrztsf.dasique.co.kr
@@ -6302,7 +6271,6 @@ wuhhgk.glamira.com
 wukbuj.jazeerapaints.com
 wuncqh.cooksongold.com
 wunqlc.anayi.com
-wurzfs.motherhood.com
 wuxhiy.wenz.at
 wvbcoi.tui.ch
 wvlirb.lexoffice.de
@@ -6318,6 +6286,7 @@ wwnscv.myspringfield.com
 wwokkf.laredoute.ru
 wwrupv.tannico.it
 www.my-baby.co.il
+www1.velpa.pl
 wwzdid.adzuna.de
 wxaaqr.plusdental.de
 wxbaal.ecosa.com.hk
@@ -6385,7 +6354,6 @@ xebtux.neweracap.com.au
 xejpzk.fram.fr
 xekjzy.rinascente.it
 xevyld.harimpetfood.com
-xewihp.bayut.com
 xficbl.my-auction.co.jp
 xfnams.undone.co.jp
 xfobuc.serenaandlily.com
@@ -6507,7 +6475,6 @@ xrnyhc.allmanmulsang.com
 xrnyhc.alltype.co.kr
 xrnyhc.bgeilbo.com
 xrnyhc.booyongnews.com
-xrnyhc.cookinto.com
 xrnyhc.daezak.com
 xrnyhc.danet365.com
 xrnyhc.dongasisa.com
@@ -6526,10 +6493,8 @@ xrnyhc.ohpet.net
 xrnyhc.saerailbo.com
 xrnyhc.ssen24.com
 xrnyhc.sunmanilbo.com
-xrnyhc.timeadd.net
 xrsbwd.eurobuty.com.pl
 xrujmo.wallpaper-it.com
-xruulc.some-place.co.kr
 xrvppx.nagem.com.br
 xrxybn.kotofey-shop.ru
 xscmzs.tenki.jp
@@ -6652,6 +6617,7 @@ ychqww.aboutyou.lv
 yciorh.chaty-chalupy-dds.cz
 ycjhuh.stripe-club.com
 ycjxzf.footway.no
+yctxsv.office-discount.at
 ycxbtm.caffeborboneonline.it
 ycyzpk.easycash.fr
 ydbcct.nikigolf.jp
@@ -6661,7 +6627,6 @@ ydccky.direnc.net
 ydcksa.certideal.com
 yddtah.takingshape.com
 ydeyxx.glamira.ch
-ydjrew.fairplay142.com
 ydoirr.janvanderstorm.de
 ydosfw.filippa-k.com
 ydtzzw.bernabeudigital.com
@@ -6748,6 +6713,7 @@ yjxssk.apartments.com
 yjxssk.qa3.apartments.com
 ykdium.profishop.nl
 ykfrpx.kapten-son.com
+ykfsxw.engie.it
 ykhqhe.domain.com.au
 ykktwv.titivate.jp
 yklgge.oc.hu
@@ -6779,9 +6745,7 @@ ymhxgl.belluna-gourmet.com
 ymixqb.nationalgeographic.com
 ymjnws.billigvvs.dk
 ymqnky.bagaggio.com.br
-ymrckx.damaon.co.kr
 ymrtre.scandinavianoutdoor.fi
-ymuiig.smaaart.fr
 ymuoyc.capriche.es
 ymvikp.estadao.com.br
 ymviwl.just4camper.de
@@ -6850,6 +6814,7 @@ ytixci.kodin1.com
 ytouvy.arezzo.com.br
 ytwtxi.beautybio.com
 ytxpnx.shokunosoyokaze.com
+ytzjwq.eskcare.com
 yudedj.canadianprotein.com
 yueqal.glassesusa.com
 yujmyt.theiconic.co.nz
@@ -7153,8 +7118,8 @@ ztmixw.golfplus.fr
 ztnyzi.caudalie.com
 ztpdcg.stroilioro.com
 ztqnls.lojasrenner.com.br
+ztrkgt.bathwaredirect.com.au
 zttsbn.eqi.com.br
-zudicy.guatafac.es
 zudver.matsmart.se
 zuoiig.noreve.com
 zuqjug.nutrabay.com

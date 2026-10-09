@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791549122371        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,7 +19,6 @@ cdn33.protagcdn.com CNAME .
 dashboard.adopsify.com CNAME .
 dashboard.alcancemg.com CNAME .
 dashboard.andbeyond.media CNAME .
-dashboard.boostads.ru CNAME .
 dashboard.digita.media CNAME .
 dashboard.entravision.com CNAME .
 dashboard.grapemedia.cz CNAME .
@@ -32,11 +31,11 @@ player.collectiveaudience.co CNAME .
 player.resonance.pk CNAME .
 player.urdupoint.com CNAME .
 serving.adopsify.com CNAME .
+serving.alcancemg.com CNAME .
 serving.ausdoc.com.au CNAME .
 serving.datawrkz.com CNAME .
 serving.felixads.com CNAME .
 serving.grapemedia.cz CNAME .
-serving.greeter.lat CNAME .
 serving.laimroll.ru CNAME .
 serving.lookverin.com CNAME .
 serving.mmmedia-group.com CNAME .

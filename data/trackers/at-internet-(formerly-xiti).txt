@@ -52,6 +52,9 @@
 ||hd.pe.fr^
 ||hmg.handelsblatt.com^
 ||hmg.wiwo.de^
+||ignis.kicker.at^
+||ignis.kicker.ch^
+||ignis.kicker.de^
 ||ignis.nn.de^
 ||image.ard.de^
 ||image.mdr.de^
@@ -67,6 +70,7 @@
 ||mefo1.zdf.de^
 ||mkt.usz.ch^
 ||montpalatin.handicap.fr^
+||musique.puydufou.com^
 ||orchestre.macif.fr^
 ||pa.belantis.de^
 ||pa.bellewaerde.be^

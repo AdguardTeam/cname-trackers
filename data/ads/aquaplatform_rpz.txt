@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791549122371        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,8 +26,6 @@ adimages.associationheadquarters.com CNAME .
 adimages.infotorg.se CNAME .
 adimages.rtvdrenthe.nl CNAME .
 adimages.sniffies.com CNAME .
-ads-console.recon.com CNAME .
-ads-static.recon.com CNAME .
 ads.bidspotter.co.uk CNAME .
 ads.cavalier-romand.ch CNAME .
 ads.datateam.co.uk CNAME .
@@ -37,10 +35,10 @@ ads.i-bidder.com CNAME .
 ads.lot-tissimo.com CNAME .
 ads.postandparcel.info CNAME .
 ads.proxibid.com CNAME .
-ads.recon.com CNAME .
 ads.swiss-equestrian.ch CNAME .
 ads.the-saleroom.com CNAME .
 ads.worldofshowjumping.com CNAME .
+ads.xtra.ca CNAME .
 adserv1.mannixmarketing.com CNAME .
 adserver.associationheadquarters.com CNAME .
 adserver.infotorg.se CNAME .
@@ -67,12 +65,12 @@ api.revive-adserver.net CNAME .
 banners.atlantamagazine.com CNAME .
 banners.cincinnatimagazine.com CNAME .
 banners.geminipub.com CNAME .
+banners.greenspring.com CNAME .
 banners.leightonbroadcasting.com CNAME .
 brandmovers-delivery.reviveservers.com CNAME .
 by.addrecipes.com CNAME .
 cdn-adv.unionesarda.it CNAME .
 cdn-thinkresult.revive-adserver.net CNAME .
-cdn.adspmg.com CNAME .
 cdn.conservativestar.com CNAME .
 cdn.datateam.co.uk CNAME .
 cdn.headlinesmart.com CNAME .
@@ -90,7 +88,6 @@ console.ad.logic-test.viasat.io CNAME .
 console.ad.logic.viasat.io CNAME .
 console.adbility-media.com CNAME .
 console.ads.fanta-olimpiadi.com CNAME .
-console.adspmg.com CNAME .
 console.ammoland.com CNAME .
 console.aqua-adserver.com CNAME .
 console.atlantamagazine.com CNAME .
@@ -131,7 +128,6 @@ console.revive-adserver.net CNAME .
 console.rlnads.net CNAME .
 console.sacommunications.com CNAME .
 console.schrotundkorn.de CNAME .
-console.sueddeutsche.de CNAME .
 console.swiss-equestrian.ch CNAME .
 console.thedailyhorn.com CNAME .
 console.trackandfieldnews.com CNAME .
@@ -188,6 +184,7 @@ revive-console.worldscreen.com CNAME .
 revive-static.worldscreen.com CNAME .
 revive.ahk.de CNAME .
 revive.worldscreen.com CNAME .
+reviveapi.geenstijl.nl CNAME .
 rtvutrecht-static.reviveservers.com CNAME .
 serve.faithlifeads.com CNAME .
 servedby-thinkresult.revive-adserver.net CNAME .
@@ -234,8 +231,8 @@ servedby.reviveservers.com CNAME .
 servedby.rlnads.net CNAME .
 servedby.sacommunications.com CNAME .
 servedby.schrotundkorn.de CNAME .
-servedby.sueddeutsche.de CNAME .
 servedby.tahoe.com CNAME .
+servedby.teck.com.br CNAME .
 servedby.thinkresult.in CNAME .
 servedby.trackandfieldnews.com CNAME .
 servedby.walaplusadserver.com CNAME .
@@ -304,13 +301,11 @@ www.api.ad.logic-test.viasat.io CNAME .
 www.api.ad.logic.viasat.io CNAME .
 www.api.metrike.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
-www.cdn.adspmg.com CNAME .
 www.cdn.datateam.co.uk CNAME .
 www.cdn.metrike.com CNAME .
 www.console.ad.logic-prod.viasat.io CNAME .
 www.console.ad.logic-test.viasat.io CNAME .
 www.console.ad.logic.viasat.io CNAME .
-www.console.adspmg.com CNAME .
 www.console.biohandel.de CNAME .
 www.console.ceramicartsnetwork.org CNAME .
 www.console.cincinnatimagazine.com CNAME .

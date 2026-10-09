@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791552913843        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,9 +11,9 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-ai4debunk-demo.stats.chuniversiteit.eu CNAME .
 anal.sataniskwijt.be CNAME .
 analytics.applycreatures.com CNAME .
+analytics.boxunix.com CNAME .
 analytics.carnelian.cc CNAME .
 analytics.code.dccouncil.gov CNAME .
 analytics.codes.baltimorecity.gov CNAME .
@@ -28,6 +28,7 @@ analytics.law.mohican.com CNAME .
 analytics.law.sanipueblo.org CNAME .
 analytics.law.tmchippewa.com CNAME .
 analytics.leespace.co CNAME .
+analytics.openlawlib.org CNAME .
 analytics.popov.link CNAME .
 analytics.regs.maryland.gov CNAME .
 analytics.repath.studio CNAME .
@@ -36,6 +37,8 @@ analytics.riggraz.dev CNAME .
 analytics.sanmateo.ca.us.dev.openlawlibrary.us CNAME .
 analytics.sanmateo.ca.us.open.law CNAME .
 analytics.tomatomtl.com CNAME .
+analytics.wendoverds.org.uk CNAME .
+analytics.wendovertrust.org CNAME .
 analytics.yofbrc.com CNAME .
 api.meestermac.nl CNAME .
 argus.umarbutler.com CNAME .
@@ -57,6 +60,7 @@ gc.miluchacontraeltabaco.com CNAME .
 gc.mindenugyved.hu CNAME .
 gc.noscirep.com CNAME .
 gc.sanyamkapoor.com CNAME .
+gc.sapienzastudents.net CNAME .
 gc.securitydungeon.sk CNAME .
 gc.suivi-enfant.max-sens-conseil.fr CNAME .
 gc.tbx.at CNAME .
@@ -65,7 +69,6 @@ go.d8a.org CNAME .
 goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
 goat.fpmelb.org CNAME .
-goat.gavv.in CNAME .
 goat.invisibledragonltd.com CNAME .
 goat.neverhill.net CNAME .
 goat.tailspace.net CNAME .
@@ -78,7 +81,6 @@ goatcounter.gamecraft.it CNAME .
 goatcounter.gumarapus.com CNAME .
 goatcounter.irishbornchinese.com CNAME .
 goatcounter.maximilianbenner.com CNAME .
-goatcounter.multilumix.com CNAME .
 goatcounter.repozitor.com CNAME .
 goatcounter.thedave.dev CNAME .
 goatcounter.thedave.me CNAME .
@@ -98,21 +100,23 @@ stats.abdo.wtf CNAME .
 stats.abdodaoud.com CNAME .
 stats.alextecplayz.com CNAME .
 stats.apitman.com CNAME .
+stats.applizi.com CNAME .
 stats.arredofrigo.net CNAME .
 stats.artero.dev CNAME .
 stats.artur-rodrigues.com CNAME .
 stats.azeroths-most-wanted.eu.org CNAME .
+stats.beadhive.ai CNAME .
 stats.benjaminmorris.com CNAME .
 stats.bestasciitable.com CNAME .
 stats.beyondthesprawl.com CNAME .
 stats.brandontoner.ca CNAME .
 stats.brendanhanke.com CNAME .
+stats.calculusmadeeasy.org.ua CNAME .
 stats.carlomega.it CNAME .
 stats.cassie.omg.lol CNAME .
 stats.celerry.com CNAME .
 stats.certidiritti.org CNAME .
 stats.cloudflex.team CNAME .
-stats.cloudnativebitcoin.org CNAME .
 stats.coderjoe.net CNAME .
 stats.coderscompass.org CNAME .
 stats.cormier.co CNAME .
@@ -152,7 +156,6 @@ stats.johanneswienke.de CNAME .
 stats.jonaslieb.de CNAME .
 stats.justasimple.app CNAME .
 stats.k94.ch CNAME .
-stats.kalanera.gr CNAME .
 stats.kc.ie CNAME .
 stats.kev.bar CNAME .
 stats.konfou.xyz CNAME .
@@ -197,11 +200,14 @@ stats.ryanchmelir.com CNAME .
 stats.sebastianzehner.com CNAME .
 stats.semipol.de CNAME .
 stats.sophia.fish CNAME .
+stats.soundboardio.com CNAME .
+stats.stegzero.com CNAME .
 stats.studiodeerenberg.nl CNAME .
 stats.svc.lol CNAME .
 stats.swimblueprint.com CNAME .
 stats.szorty.space CNAME .
 stats.tdurand.com CNAME .
+stats.textstat.org CNAME .
 stats.theadnyeusarchive.app CNAME .
 stats.timothechau.vet CNAME .
 stats.tinkerer.tools CNAME .

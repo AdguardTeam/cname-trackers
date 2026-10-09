@@ -4,7 +4,6 @@
 
 * tagcommander.com
     * redirect271.tagcommander.com
-    * redirect28.tagcommander.com
     * redirect341.tagcommander.com
     * redirect342.tagcommander.com
     * redirect343.tagcommander.com
@@ -19,6 +18,7 @@
     * redirect523.tagcommander.com
     * redirect621.tagcommander.com
     * redirect622.tagcommander.com
+    * redirect837.tagcommander.com
     * redirect891.tagcommander.com
     * ypg.tagcommander.com
 
@@ -43,7 +43,6 @@
 | tc.europcar.es | ct-phoenix-proxy-it-prod-v6-44d1f2230a55cb76.elb.eu-west-3.amazonaws.com |
 | tcdata.fnac.com | ct-phoenix-proxy-it-prod-v6-44d1f2230a55cb76.elb.eu-west-3.amazonaws.com |
 | data.decathlon.fr | redirect271.tagcommander.com |
-| tcdata.fnac.com | redirect28.tagcommander.com |
 | data.decathlon.es | redirect341.tagcommander.com |
 | data.decathlon.co.uk | redirect342.tagcommander.com |
 | data.decathlon.it | redirect343.tagcommander.com |
@@ -58,5 +57,6 @@
 | tagcommander.laredoute.pt | redirect523.tagcommander.com |
 | tagcommander.laredoute.ru | redirect621.tagcommander.com |
 | data.ubi.com | redirect622.tagcommander.com |
+| configure.adlermode.com | redirect837.tagcommander.com |
 | data.wptag.net | redirect891.tagcommander.com |
 | logger.yp.ca | ypg.tagcommander.com |

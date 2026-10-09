@@ -105,7 +105,6 @@
 ||afm.vtmgcn.com^
 ||afm.vtmindo.com^
 ||afr.jogajunto.bet.br^
-||afs.wearemp.com^
 ||analytics.amrcollection.com^
 ||analytics.beachbound.com^
 ||analytics.breathlessresorts.com^
@@ -113,6 +112,7 @@
 ||analytics.dreamsresorts.com^
 ||analytics.funjet.com^
 ||analytics.inteflow.com.au^
+||analytics.lebara.com.au^
 ||analytics.nowresorts.com^
 ||analytics.southwestvacations.com^
 ||analytics.sunscaperesorts.com^
@@ -146,6 +146,7 @@
 ||assets2.ihg.com^
 ||aucrdtfrd.revolut.codes^
 ||aucrdtfrd.revolut.com^
+||auth.schwabbank.com^
 ||auth.vedacheck.com.au^
 ||auth2.corelogic.asia^
 ||backend.pin-up.dev^
@@ -166,9 +167,11 @@
 ||ccf.prod.fedex.com^
 ||cda.thecardservicescenter.com^
 ||cdle-prof.clouduim.cdle.state.co.us^
+||cdn-a.telus.com^
 ||cdn-content.bmtx.com^
 ||cdn-east.purchase.goto.com^
 ||cdn-f.gr4vy.com^
+||cdn-idig.hotmart.com^
 ||cdn-ln.ozk.com^
 ||cdn-lntmps.mintmobile.com^
 ||cdn-lntmps.ultramobile.com^
@@ -199,6 +202,7 @@
 ||cdn3.littlecaesars.com^
 ||cdn3.moneycorp.com^
 ||cdna-paymentncb.cofidis.be^
+||cdna.cic.fr^
 ||cdna.cofidis.es^
 ||cdna.cofidis.fr^
 ||cdna.cofidisforyou.fr^
@@ -228,6 +232,9 @@
 ||cdnfp.lexisnexisrisk.com^
 ||cdnfp.lexisnexisrisk.eu^
 ||cdnm.sts.pl^
+||cdnpb.ib.luminor.lt^
+||cdnpb.ib.luminor.lv^
+||cdnpb.luminor.ee^
 ||cdns.moneyplace.com.au^
 ||cdnt.duobank.com^
 ||cdnt.walmartrewards.ca^
@@ -236,6 +243,7 @@
 ||cdntm.firstdirect.com^
 ||cdntm.hangseng.com^
 ||cdntm.hsbc.ae^
+||cdntm.hsbc.bank.in^
 ||cdntm.hsbc.bm^
 ||cdntm.hsbc.co.id^
 ||cdntm.hsbc.co.in^
@@ -269,6 +277,7 @@
 ||cfaxq2.fidelity.com^
 ||ch.drs.wa.gov^
 ||channel.rakbankonline.ae^
+||check-app.core.basa.com.br^
 ||check.fashionid.de^
 ||check.jaja.finance^
 ||check2.bankofscotland.co.uk^
@@ -297,6 +306,7 @@
 ||clovergo.june-testing.firstdata.com^
 ||cmprofile.cards.citidirect.com^
 ||cnt.aeonbank.com.my^
+||cnt.cebuanalhuillierbank.com^
 ||cnt.dllpayment.com^
 ||cnt.faktoria.pl^
 ||cnt.patpat.com^
@@ -311,13 +321,14 @@
 ||connect.solspark.com^
 ||consortium.adib.ae^
 ||contendvc.cnouyi.pizza^
+||content-1.citbankapp.cit.com^
 ||content-48.cnb.com^
+||content-a.finchoice.mobi^
 ||content-cdn.multimoney.com.mx^
 ||content-dt.crepassplus.com^
 ||content-tix.topi.eu^
 ||content-uk.fundingcircle.com^
 ||content.affinityfcu.com^
-||content.ageas.co.uk^
 ||content.allstate.com^
 ||content.alterna.ca^
 ||content.alternabank.ca^
@@ -340,6 +351,7 @@
 ||content.byabcd.com^
 ||content.canadiantire.ca^
 ||content.certifid.com^
+||content.chinabank.ph^
 ||content.citadele.lv^
 ||content.citbankapp.cit.com^
 ||content.citizensbankonline.com^
@@ -389,6 +401,7 @@
 ||content.happybank.com^
 ||content.heidipay.com^
 ||content.hellobank.fr^
+||content.hellobankpro.fr^
 ||content.ibanking-services.com^
 ||content.id.elsevier.com^
 ||content.iddataweb.com^
@@ -459,7 +472,6 @@
 ||content.readiness.paycardsolutions.com^
 ||content.realquest.com^
 ||content.rendimento.com.br^
-||content.rias.co.uk^
 ||content.royalvegas.ca^
 ||content.royalvegascasino.ca^
 ||content.rubyfortune.ca^
@@ -536,6 +548,7 @@
 ||content4c.iberia.com^
 ||content55.getupgraded.com^
 ||content9.lendingtree.com^
+||contentdna.pemco.com^
 ||contentfd.directcapital.com^
 ||contentimage.fretebras.com.br^
 ||contentinfo.tcdrs.org^
@@ -543,6 +556,7 @@
 ||contentneworks.nebraska.gov^
 ||contents.healthfirst.org^
 ||contentservices.ascendloans.com^
+||contentservices.breezeloans.com^
 ||contentservices.brightlending.com^
 ||contentservices.clearairlending.com^
 ||contentservices.firstlightlending.com^
@@ -550,6 +564,7 @@
 ||continuum.ford.com^
 ||cookiemonster.calcas.com^
 ||creditapp.rogersbank.com^
+||crmg-fraudmgmt-stg.bayad.com^
 ||crmg-fraudmgmt.bayad.com^
 ||cs.allegro.pl^
 ||css.slots.io^
@@ -578,6 +593,7 @@
 ||detect.clearme.com^
 ||dev-rmscheck.sbifxt.co.jp^
 ||device-fingerprint.pay1.checkout.worldline-solutions.com^
+||device-fingerprint.pay1.preprod.checkout.worldline-solutions.com^
 ||device-fingerprint.pay2.checkout.worldline-solutions.com^
 ||device-fingerprint.pay2.preprod.checkout.worldline-solutions.com^
 ||device-id.orientalbank.com^
@@ -614,7 +630,6 @@
 ||dm-visapay.m2pfintech.com^
 ||dmo-services-tmx.cofidis.cz^
 ||dol-reemployme-js01.maine.gov^
-||donor.cafamerica.org^
 ||dp.barclaycardus.com^
 ||dp.barclaysus.com^
 ||dp.lottogo.ca^
@@ -629,6 +644,8 @@
 ||ebcontent.mcbankny.com^
 ||ecomm.thegiftcardshop.com^
 ||edge.privacy.com.br^
+||edge.snappibank.com^
+||edge2.lavaslots.com^
 ||ela1.bankofscotland.co.uk^
 ||elevate.stg.na02.aws.ballys.tech^
 ||enligne.bnc.ca^
@@ -672,6 +689,7 @@
 ||fp.marisota.co.uk^
 ||fp.nypti.org^
 ||fp.premierman.com^
+||fp.salamair.com^
 ||fp.simplybe.co.uk^
 ||fp.ubagroup.com^
 ||fp.ups.com^
@@ -756,6 +774,7 @@
 ||imgl2.hardrockcasino.com^
 ||imgs.cdn-btsg.com^
 ||imgs.signifyd.com^
+||imgtemplate.cembra.ch^
 ||info.betway.bg^
 ||info.betway.co.ke^
 ||info.betway.co.mz^
@@ -799,6 +818,7 @@
 ||ln.jackpotgo.club^
 ||ln.kohls.com^
 ||ln.lavishluck.net^
+||ln.luckymoney.vip^
 ||ln.meudigio.com.br^
 ||ln.moonprizecasino.com^
 ||ln.spinsorcery.net^
@@ -934,13 +954,17 @@
 ||prod-cstonefcu.chaperone.lumindigitalhosting.com^
 ||prod-dccuva.chaperone.lumindigitalhosting.com^
 ||prod-dexsta.chaperone.lumindigitalhosting.com^
+||prod-elements-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-ffcuin.chaperone.lumindigitalhosting.com^
+||prod-figfcu-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-firstmark.chaperone.lumindigitalhosting.com^
 ||prod-fortcomm-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-freedom-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-frontier.chaperone.lumindigitalhosting.com^
 ||prod-fsfcutn.chaperone.lumindigitalhosting.com^
+||prod-granitestate-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-hfcuvt.chaperone.lumindigitalhosting.com^
+||prod-hicomm-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-hsfcuhi.chaperone.lumindigitalhosting.com^
 ||prod-humantx.chaperone.lumindigitalhosting.com^
 ||prod-ihmvcu-mercury2023.chaperone.lumindigitalhosting.com^
@@ -953,6 +977,7 @@
 ||prod-lafcuca.chaperone.lumindigitalhosting.com^
 ||prod-latino.chaperone.lumindigitalhosting.com^
 ||prod-lfcuva.chaperone.lumindigitalhosting.com^
+||prod-maps-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-michedcu.chaperone.lumindigitalhosting.com^
 ||prod-mscuct.chaperone.lumindigitalhosting.com^
 ||prod-navigator.chaperone.lumindigitalhosting.com^
@@ -996,6 +1021,7 @@
 ||profile.iassist.com^
 ||profiling.cmo.cibc.com^
 ||profiling.digitalbusiness.cibc.com^
+||profiling.horizonblue.com^
 ||profiling.qacitizensbankonline.com^
 ||protection.bt.com^
 ||protection.ee.co.uk^
@@ -1003,6 +1029,7 @@
 ||ptm.creditas.com^
 ||public-check3-at.test.tiaa-cref.org^
 ||public-check3-at.test.tiaa.org^
+||px.islandsbanki.is^
 ||qfp.intuit.com^
 ||qrimages.qatarairways.com^
 ||query.capitalontap.com^
@@ -1223,6 +1250,7 @@
 ||tcontent.nrjmobile.fr^
 ||telem.astro.space^
 ||telempdf.vepormas.com^
+||tfet.claimyourcashfl.gov^
 ||tfet.fltreasurehunt.gov^
 ||tfp.intuit.com^
 ||th.barclays.co.uk^
@@ -1231,10 +1259,8 @@
 ||thm12.visa.com^
 ||thmep.zondacrypto.com^
 ||threatmetrix.lendingclub.com^
-||thrm-scrq-0001.crypterium.com^
 ||tm-analytics.bluevine.com^
 ||tm-out.cardinalcommerce.com^
-||tm.acehardware.com^
 ||tm.barclays.co.uk^
 ||tm.barstoolsportsbook.com^
 ||tm.bcc.kz^
@@ -1347,6 +1373,7 @@
 ||tmfp.klarna.com^
 ||tmi.my529.org^
 ||tms.paysafe.com^
+||tmsmb.cbd.ae^
 ||tmt.houzz.com^
 ||tmuat.kotak.com^
 ||tmx-fpt.credit-agricole.pl^
@@ -1437,6 +1464,7 @@
 ||w3.nbarizona.com^
 ||w3.nsbank.com^
 ||w3.providerpay.com^
+||w3.tcbnw.com^
 ||w3.tcboregon.com^
 ||w3.tcbwa.com^
 ||w3.vectrabank.com^
@@ -1446,10 +1474,10 @@
 ||west-eu-0156743.medirect.be^
 ||west-eu-0156743.medirect.com.mt^
 ||west-eu-0156743.medirect.nl^
+||wfhkjoppuwjtiryafrnb.tiendanube.com^
 ||wfp.intuit.com^
 ||wildcard.humm.ie^
 ||wkvjee5b.paviliononline.io^
-||wp.kroger.com^
 ||wptm.worldvision.org^
 ||wptmpreprod.worldvision.org^
 ||ww3.fundingstream.com^

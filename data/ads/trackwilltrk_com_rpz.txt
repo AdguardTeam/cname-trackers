@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791547149073        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ r.tracklume1.space CNAME .
 r.veltrix1.space CNAME .
 r.wholehall.com CNAME .
 t.asiantrk.name CNAME .
+t.boldtrck.fun CNAME .
 t.clickscope.fun CNAME .
 t.coretrck.uno CNAME .
 t.drifttrck.store CNAME .
@@ -47,7 +48,6 @@ t.primtrck.fun CNAME .
 t.quanttrck.space CNAME .
 t.rallytrck.website CNAME .
 t.ranktrck.uno CNAME .
-t.scouttrck.site CNAME .
 t.snaptrckr.fun CNAME .
 t.sptrck.com CNAME .
 t.steptrck.site CNAME .

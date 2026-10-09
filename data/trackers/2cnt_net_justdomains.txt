@@ -25,6 +25,7 @@ vg03.met.vgwort.de
 vg05.met.vgwort.de
 vg07.met.vgwort.de
 vg09.met.vgwort.de
+waz.met.vgwort.de
 wiley.met.vgwort.de
 zeit.met.vgwort.de
 abendblatt.met.vgwort.de
@@ -33,6 +34,7 @@ beck.met.vgwort.de
 berliner-kurier.met.vgwort.de
 berliner-zeitung.met.vgwort.de
 brigitte.met.vgwort.de
+burda-forward.met.vgwort.de
 geo.met.vgwort.de
 hanser.met.vgwort.de
 heise.met.vgwort.de
@@ -41,6 +43,7 @@ hogrefe.met.vgwort.de
 huffpost.met.vgwort.de
 manager.met.vgwort.de
 mzweb.met.vgwort.de
+n-tv.met.vgwort.de
 nomos.met.vgwort.de
 rp-online.met.vgwort.de
 spiegel.met.vgwort.de
@@ -70,7 +73,6 @@ vogel.met.vgwort.de
 weka.met.vgwort.de
 bild.met.vgwort.de
 bm.met.vgwort.de
-burda-forward.met.vgwort.de
 chip.met.vgwort.de
 degruyter.met.vgwort.de
 econa.met.vgwort.de
@@ -84,7 +86,6 @@ idgmagazine.met.vgwort.de
 juris.met.vgwort.de
 kohlhammer.met.vgwort.de
 mopo.met.vgwort.de
-n-tv.met.vgwort.de
 rtl.met.vgwort.de
 springer.met.vgwort.de
 ssl-chip.met.vgwort.de
@@ -93,11 +94,9 @@ ssl-gala.met.vgwort.de
 ssl-idgbusiness.met.vgwort.de
 ssl-idgmagazine.met.vgwort.de
 ssl-mopo.met.vgwort.de
-ssl-n-tv.met.vgwort.de
 ssl-springer.met.vgwort.de
 ssl-stern.met.vgwort.de
 ssl-teltarif.met.vgwort.de
-ssl-waz.met.vgwort.de
 ssl-welt.met.vgwort.de
 ssl-wolterskluwer.met.vgwort.de
 stern.met.vgwort.de
@@ -106,7 +105,6 @@ teltarif.met.vgwort.de
 vg00.met.vgwort.de
 vg08.met.vgwort.de
 vision.met.vgwort.de
-waz.met.vgwort.de
 welt.met.vgwort.de
 wolterskluwer.met.vgwort.de
 pl01.owen.prolitteris.ch

@@ -15,8 +15,6 @@
 ||adimages.infotorg.se^
 ||adimages.rtvdrenthe.nl^
 ||adimages.sniffies.com^
-||ads-console.recon.com^
-||ads-static.recon.com^
 ||ads.bidspotter.co.uk^
 ||ads.cavalier-romand.ch^
 ||ads.datateam.co.uk^
@@ -26,10 +24,10 @@
 ||ads.lot-tissimo.com^
 ||ads.postandparcel.info^
 ||ads.proxibid.com^
-||ads.recon.com^
 ||ads.swiss-equestrian.ch^
 ||ads.the-saleroom.com^
 ||ads.worldofshowjumping.com^
+||ads.xtra.ca^
 ||adserv1.mannixmarketing.com^
 ||adserver.associationheadquarters.com^
 ||adserver.infotorg.se^
@@ -56,12 +54,12 @@
 ||banners.atlantamagazine.com^
 ||banners.cincinnatimagazine.com^
 ||banners.geminipub.com^
+||banners.greenspring.com^
 ||banners.leightonbroadcasting.com^
 ||brandmovers-delivery.reviveservers.com^
 ||by.addrecipes.com^
 ||cdn-adv.unionesarda.it^
 ||cdn-thinkresult.revive-adserver.net^
-||cdn.adspmg.com^
 ||cdn.conservativestar.com^
 ||cdn.datateam.co.uk^
 ||cdn.headlinesmart.com^
@@ -79,7 +77,6 @@
 ||console.ad.logic.viasat.io^
 ||console.adbility-media.com^
 ||console.ads.fanta-olimpiadi.com^
-||console.adspmg.com^
 ||console.ammoland.com^
 ||console.aqua-adserver.com^
 ||console.atlantamagazine.com^
@@ -120,7 +117,6 @@
 ||console.rlnads.net^
 ||console.sacommunications.com^
 ||console.schrotundkorn.de^
-||console.sueddeutsche.de^
 ||console.swiss-equestrian.ch^
 ||console.thedailyhorn.com^
 ||console.trackandfieldnews.com^
@@ -177,6 +173,7 @@
 ||revive-static.worldscreen.com^
 ||revive.ahk.de^
 ||revive.worldscreen.com^
+||reviveapi.geenstijl.nl^
 ||rtvutrecht-static.reviveservers.com^
 ||serve.faithlifeads.com^
 ||servedby-thinkresult.revive-adserver.net^
@@ -223,8 +220,8 @@
 ||servedby.rlnads.net^
 ||servedby.sacommunications.com^
 ||servedby.schrotundkorn.de^
-||servedby.sueddeutsche.de^
 ||servedby.tahoe.com^
+||servedby.teck.com.br^
 ||servedby.thinkresult.in^
 ||servedby.trackandfieldnews.com^
 ||servedby.walaplusadserver.com^
@@ -293,13 +290,11 @@
 ||www.api.ad.logic.viasat.io^
 ||www.api.metrike.com^
 ||www.cdn-adv.unionesarda.it^
-||www.cdn.adspmg.com^
 ||www.cdn.datateam.co.uk^
 ||www.cdn.metrike.com^
 ||www.console.ad.logic-prod.viasat.io^
 ||www.console.ad.logic-test.viasat.io^
 ||www.console.ad.logic.viasat.io^
-||www.console.adspmg.com^
 ||www.console.biohandel.de^
 ||www.console.ceramicartsnetwork.org^
 ||www.console.cincinnatimagazine.com^

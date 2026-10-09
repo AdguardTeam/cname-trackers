@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791552913843        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,15 +11,4 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-0.www.38167473.xyz CNAME .
-1.www.38167473.xyz CNAME .
-2.www.38167473.xyz CNAME .
-3.www.38167473.xyz CNAME .
-4.www.38167473.xyz CNAME .
-5.www.38167473.xyz CNAME .
-6.www.38167473.xyz CNAME .
-7.www.38167473.xyz CNAME .
-8.www.38167473.xyz CNAME .
-9.www.38167473.xyz CNAME .
 host-override.ad-shield.dev CNAME .
-www.38167473.xyz CNAME .

@@ -75,7 +75,6 @@
 ||affil.webareal.cz^
 ||affil.webzisk.cz^
 ||affil.xgdpr.cz^
-||affil.zaslat.cz^
 ||affil.zdravetricko.cz^
 ||affil.zenskecykly.cz^
 ||affilate.maximin.cz^
@@ -84,7 +83,6 @@
 ||affilbox.25hodin.cz^
 ||affilbox.andreashop.sk^
 ||affilbox.delibarry.com^
-||affilbox.doglog.cz^
 ||affilbox.gurufinance.cz^
 ||affilbox.kronikazivota.cz^
 ||affilbox.kronikazivota.sk^
@@ -105,6 +103,7 @@
 ||affiliate.ambitv.cz^
 ||affiliate.appleking.cz^
 ||affiliate.applemix.cz^
+||affiliate.atomer.com^
 ||affiliate.atomer.cz^
 ||affiliate.batteryshop.cz^
 ||affiliate.bikeplan.org^
@@ -150,6 +149,7 @@
 ||affiliate.f-p-g.cz^
 ||affiliate.faceyogainstitute.eu^
 ||affiliate.fapi.cz^
+||affiliate.ferratum.cz^
 ||affiliate.fightstuff.cz^
 ||affiliate.fotbalpartner.cz^
 ||affiliate.fotopasti-bunaty.cz^
@@ -182,7 +182,6 @@
 ||affiliate.lentiamo.it^
 ||affiliate.lentiamo.nl^
 ||affiliate.lentiamo.se^
-||affiliate.levnoshop.cz^
 ||affiliate.levsalonu.cz^
 ||affiliate.lg-store.cz^
 ||affiliate.licit.cz^
@@ -221,16 +220,15 @@
 ||affiliate.richardstepan.cz^
 ||affiliate.rixo.cz^
 ||affiliate.sexshop.cz^
-||affiliate.siko.cz^
 ||affiliate.smarty.cz^
 ||affiliate.smsticket.cz^
 ||affiliate.socialni-site-specialista.cz^
 ||affiliate.socialsprinters.cz^
 ||affiliate.soscredit.cz^
 ||affiliate.sportinator.cz^
-||affiliate.stanislavamrazkova.cz^
 ||affiliate.stibio.cz^
 ||affiliate.studio51.team^
+||affiliate.susene-maso.cz^
 ||affiliate.svarecky-obchod.cz^
 ||affiliate.svetbot.cz^
 ||affiliate.t6power.cz^
@@ -245,8 +243,6 @@
 ||affiliate.vasesosovky.sk^
 ||affiliate.velebny.cz^
 ||affiliate.vox.cz^
-||affiliate.wugi.cz^
-||affiliate.xbx.cz^
 ||affiliate.zdraviafitness.cz^
 ||affiliate.zdravykos.cz^
 ||affiliate.zhubnichytre.cz^
@@ -279,7 +275,6 @@
 ||doporuc.necojakocola.cz^
 ||doporuc.promujdomov.cz^
 ||doporuc.shopiam4u.cz^
-||doporuc.slevomat.cz^
 ||doporucim.zjistitcenu.cz^
 ||equilist.raj-ohlavek.cz^
 ||hcbox.antiradary.net^
@@ -343,6 +338,7 @@
 ||my.top4running.se^
 ||my.top4running.si^
 ||my.top4running.sk^
+||my.top4sport.cz^
 ||my.top4sport.hu^
 ||my.top4sport.ro^
 ||my.volleybaldirect.nl^
@@ -370,8 +366,10 @@
 ||my.weplayhandball.pl^
 ||my.weplayhandball.ro^
 ||my.weplayhandball.si^
+||my.weplayhandball.sk^
 ||my.weplayvolleyball.bg^
 ||my.weplayvolleyball.ch^
+||my.weplayvolleyball.cz^
 ||my.weplayvolleyball.de^
 ||my.weplayvolleyball.es^
 ||my.weplayvolleyball.fr^
@@ -382,6 +380,7 @@
 ||my.weplayvolleyball.pl^
 ||my.weplayvolleyball.ro^
 ||my.weplayvolleyball.si^
+||my.weplayvolleyball.sk^
 ||objevuj.amazingplaces.cz^
 ||odporuc.shopiam4u.sk^
 ||online.pdfknihovna.cz^
@@ -407,6 +406,7 @@
 ||partner.austriaapotheke.sk^
 ||partner.autosarm.cz^
 ||partner.avetour.cz^
+||partner.b3da.cz^
 ||partner.babypatent.cz^
 ||partner.babypatent.sk^
 ||partner.babysigns.cz^
@@ -427,11 +427,9 @@
 ||partner.bomtonbeauty.cz^
 ||partner.bonyplus.cz^
 ||partner.booktook.cz^
-||partner.brawolife.cz^
 ||partner.breakout.cz^
 ||partner.briliantove-sperky.sk^
 ||partner.brilianty.cz^
-||partner.brillbird.cz^
 ||partner.buka.cz^
 ||partner.burzazive.cz^
 ||partner.bydlimekrasne.cz^
@@ -481,7 +479,6 @@
 ||partner.digisign.cz^
 ||partner.directalpine.cz^
 ||partner.dnformed.cz^
-||partner.doleo.cz^
 ||partner.dolorescannon.cz^
 ||partner.dolorescannon.sk^
 ||partner.domaca-pivoteka.sk^
@@ -490,7 +487,6 @@
 ||partner.domalep.cz^
 ||partner.dometa.cz^
 ||partner.domoveda.cz^
-||partner.doplnse.cz^
 ||partner.dr-nek.cz^
 ||partner.dressibly.cz^
 ||partner.dripit.cz^
@@ -499,11 +495,14 @@
 ||partner.ebyliny.cz^
 ||partner.ecomail.cz^
 ||partner.econea.cz^
+||partner.edu-partners.cz^
+||partner.edu4fun.cz^
 ||partner.edutu.cz^
 ||partner.elektrostech.cz^
 ||partner.energiezivota.com^
 ||partner.eshop-gyorsan.hu^
 ||partner.eshop-rodas.cz^
+||partner.essenz-austria.sk^
 ||partner.evolutionhub.cz^
 ||partner.excaliburshop.com^
 ||partner.exitshop.cz^
@@ -527,12 +526,14 @@
 ||partner.gingershot.cz^
 ||partner.giulieta.shop^
 ||partner.gloe.cz^
+||partner.gobuprint.cz^
 ||partner.gokids.cz^
 ||partner.golden-life.cz^
 ||partner.goldenyacca.cz^
 ||partner.gr7.cz^
 ||partner.grandstyl.cz^
 ||partner.gurufinance.cz^
+||partner.hanamoneam.com^
 ||partner.happy-power.cz^
 ||partner.hegesztok-bolt.hu^
 ||partner.hizeromop.com^
@@ -544,7 +545,7 @@
 ||partner.idoklad.cz^
 ||partner.ilprimo.sk^
 ||partner.intelligentfood.cz^
-||partner.investinslovakia.eu^
+||partner.investmen.cz^
 ||partner.iodesign.cz^
 ||partner.italier.cz^
 ||partner.izlato24.cz^
@@ -593,13 +594,14 @@
 ||partner.lorooro.com^
 ||partner.ltx.cz^
 ||partner.luckyalvin.cz^
-||partner.lyzelyze.cz^
 ||partner.mailocator.cz^
 ||partner.majtki.cz^
 ||partner.malujpodlecisel.cz^
 ||partner.marketingacademy.sk^
 ||partner.martinafallerova.cz^
 ||partner.martinreznicek.cz^
+||partner.massada.cz^
+||partner.massada.sk^
 ||partner.mbytshop.cz^
 ||partner.medela.cz^
 ||partner.medela.sk^
@@ -631,7 +633,6 @@
 ||partner.naturinka.cz^
 ||partner.ne-io.com^
 ||partner.nejlepsi-darecky.cz^
-||partner.neotax.eu^
 ||partner.neviditelnepradlo.cz^
 ||partner.nextprobio.cz^
 ||partner.nextwood.cz^
@@ -645,7 +646,6 @@
 ||partner.olivum.cz^
 ||partner.olo.cz^
 ||partner.omorfia.care^
-||partner.onlinepriznani.cz^
 ||partner.organikk.cz^
 ||partner.oriclo.cz^
 ||partner.ozogan.cz^
@@ -678,10 +678,12 @@
 ||partner.resinstudio.cz^
 ||partner.rixo.sk^
 ||partner.roboticky-vysavac.cz^
+||partner.roboticky-vysavac.sk^
 ||partner.robotworld.ro^
 ||partner.robotworld.sk^
 ||partner.root.cz^
 ||partner.roztouzeny.cz^
+||partner.rozvoj-osobny.sk^
 ||partner.ruzovyslon.cz^
 ||partner.salibandy.shop^
 ||partner.sambalshop.cz^
@@ -711,6 +713,7 @@
 ||partner.spiritradar.com^
 ||partner.spodni-pradlo-rekova.cz^
 ||partner.spokojenypes.cz^
+||partner.sporthangar.cz^
 ||partner.srovnavacdluhopisu.cz^
 ||partner.stromkyonline.cz^
 ||partner.summermyles.cz^
@@ -738,11 +741,13 @@
 ||partner.vataonline.cz^
 ||partner.vffoto.com^
 ||partner.vifungi.cz^
+||partner.vione.cz^
 ||partner.virulent.cz^
 ||partner.vivabeauty.cz^
 ||partner.vladimirekart.cz^
 ||partner.volne-reality.cz^
 ||partner.vunnie.cz^
+||partner.vyprodejskladu.com^
 ||partner.webareal.cz^
 ||partner.webareal.sk^
 ||partner.webovkysusmevem.cz^
@@ -754,8 +759,6 @@
 ||partner.whoopdedoo.cz^
 ||partner.whoopdedoo.love^
 ||partner.whoopdedoo.me^
-||partner.wugi.cz^
-||partner.xbx.cz^
 ||partner.xm.cz^
 ||partner.yummy.sk^
 ||partner.zapper-centrum.cz^
@@ -780,6 +783,7 @@
 ||partneri.bestargroup.cz^
 ||partneri.bigon.sk^
 ||partneri.biorganica.cz^
+||partneri.bonmoto.cz^
 ||partneri.bornature.cz^
 ||partneri.cannor.cz^
 ||partneri.cbdkonopi.cz^
@@ -811,6 +815,7 @@
 ||partneri.heavytamper.cz^
 ||partneri.hopsaj.sk^
 ||partneri.incacollagen.eu^
+||partneri.interiery.cz^
 ||partneri.intimfitness.cz^
 ||partneri.jakofenix.cz^
 ||partneri.jazykovavyzva.cz^
@@ -832,6 +837,7 @@
 ||partneri.lucie-konigova.cz^
 ||partneri.majstervposteli.sk^
 ||partneri.manazujmehravo.sk^
+||partneri.mariorozensky.cz^
 ||partneri.mebline.cz^
 ||partneri.metodajih.cz^
 ||partneri.minshop.cz^
@@ -898,11 +904,11 @@
 ||partners.bonyacademy.com^
 ||partners.gingles.co^
 ||partners.henrysmusic.com^
-||partners.klubinin.cz^
 ||partners.lawofattraction.cz^
 ||partners.pocitarna.cz^
 ||partners.puravidashop.cz^
 ||partners.spiritradar.com^
+||partners.zlatoproradost.cz^
 ||partnerzy.styrcon.pl^
 ||plus.bezvavlasy.cz^
 ||plus.mameradivlasy.cz^
@@ -917,8 +923,6 @@
 ||provize.radynacestu.cz^
 ||provize.snubni-prsten.cz^
 ||provize.vybavenifitness.cz^
-||provize.wugi.cz^
-||provize.zazitkovelety.cz^
 ||provizia.mimulo.sk^
 ||proviznisystem.kanclir.cz^
 ||shop.zlatogulden.cz^
@@ -961,7 +965,6 @@
 ||spoluprace.tibabu.cz^
 ||spoluprace.vcelarstvi-domovina.cz^
 ||spoluprace.vivobarefoot.cz^
-||tracking.pleddu.com^
 ||udrzitelny-nakup.mydlia.cz^
 ||udrzitelny-nakup.tierraverde.cz^
 ||vydelavejtesnami.pg.cz^

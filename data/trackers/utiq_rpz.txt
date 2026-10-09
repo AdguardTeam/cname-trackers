@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791549882515        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -87,6 +87,7 @@ utiq.buzzfeed.de CNAME .
 utiq.bw24.de CNAME .
 utiq.bz-berlin.de CNAME .
 utiq.c7c12669-b77b-4cff-8b74-0aceec09c0c7.com CNAME .
+utiq.caffeinamagazine.it CNAME .
 utiq.caminteresse.fr CNAME .
 utiq.canarias7.es CNAME .
 utiq.capital.fr CNAME .
@@ -145,6 +146,7 @@ utiq.edcom.fr CNAME .
 utiq.einbuergerungstest-online.de CNAME .
 utiq.einbuergerungstest-online.eu CNAME .
 utiq.einfach-tasty.de CNAME .
+utiq.einfachbacken.de CNAME .
 utiq.einfachkochen.de CNAME .
 utiq.einfachschoen.me CNAME .
 utiq.elcomercio.es CNAME .
@@ -182,6 +184,7 @@ utiq.farodevigo.es CNAME .
 utiq.faz.net CNAME .
 utiq.fehmarn24.de CNAME .
 utiq.femmeactuelle.fr CNAME .
+utiq.finanz.de CNAME .
 utiq.finanzfrage.net CNAME .
 utiq.fitbook.de CNAME .
 utiq.fnp.de CNAME .
@@ -196,6 +199,7 @@ utiq.francetv-preprod.fr CNAME .
 utiq.francetv.fr CNAME .
 utiq.frandroid.com CNAME .
 utiq.freundin.de CNAME .
+utiq.ftv-preprod.fr CNAME .
 utiq.fuehrerscheintest-online.de CNAME .
 utiq.funandnews.de CNAME .
 utiq.funradio.fr CNAME .
@@ -329,6 +333,7 @@ utiq.mahou.es CNAME .
 utiq.mail.de CNAME .
 utiq.maison-travaux.fr CNAME .
 utiq.mallorcazeitung.es CNAME .
+utiq.malteskitchen.de CNAME .
 utiq.manager-magazin.de CNAME .
 utiq.manga-viewer.com CNAME .
 utiq.mappy.com CNAME .
@@ -337,6 +342,7 @@ utiq.marca.com CNAME .
 utiq.mariefrance.fr CNAME .
 utiq.marmiton.org CNAME .
 utiq.maz-online.de CNAME .
+utiq.mein-schoener-garten.de CNAME .
 utiq.meine-anzeigenzeitung.de CNAME .
 utiq.mejorconectados.com CNAME .
 utiq.melty.fr CNAME .
@@ -442,6 +448,7 @@ utiq.renew.auto CNAME .
 utiq.rga.de CNAME .
 utiq.rireetchansons.fr CNAME .
 utiq.rmcbfmplay.com CNAME .
+utiq.rmcplus.fr CNAME .
 utiq.rnd.de CNAME .
 utiq.rtl.de CNAME .
 utiq.rtl.fr CNAME .
@@ -511,6 +518,7 @@ utiq.trendencias.com CNAME .
 utiq.tuobenessere.it CNAME .
 utiq.tvspielfilm.de CNAME .
 utiq.tvtoday.de CNAME .
+utiq.tvzap.it CNAME .
 utiq.tz.de CNAME .
 utiq.usinger-anzeiger.de CNAME .
 utiq.utest1-prod.work CNAME .

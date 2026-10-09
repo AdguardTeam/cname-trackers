@@ -1,12 +1,8 @@
 !
 ! Company name: RealBig
 ||a.rb-ya.ru^
-||a.resr.ru^
-||a.ridd.ru^
 ||ad.choicy.org^
 ||any.realbig.media^
-||dlyarecnew.me^
-||downnora.me^
 ||elpushnot.com^
 ||fft.delovoemesto.ru^
 ||m3.repka.online^
@@ -33,16 +29,11 @@
 ||servw.bid^
 ||spush.olmiweb.com^
 ||workerhome.click^
-||www.5738.ru^
-||www.allworldinfo5.ru^
 ||www.fasder12.ru^
 ||www.iskustvenny-intellekt.ru^
-||www.procarsharing.store^
-||www.rbdomain.ru^
 ||www.rbp-gen1.site^
 ||www.rbp1.ru^
 ||www.rbp2.ru^
-||www.rbp2.site^
 ||www.rbp3.ru^
 ||www.rbp63841.ru^
 ||www.rbpark2.ru^

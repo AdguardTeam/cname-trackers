@@ -15,6 +15,7 @@ r.tracklume1.space
 r.veltrix1.space
 r.wholehall.com
 t.asiantrk.name
+t.boldtrck.fun
 t.clickscope.fun
 t.coretrck.uno
 t.drifttrck.store
@@ -36,7 +37,6 @@ t.primtrck.fun
 t.quanttrck.space
 t.rallytrck.website
 t.ranktrck.uno
-t.scouttrck.site
 t.snaptrckr.fun
 t.sptrck.com
 t.steptrck.site

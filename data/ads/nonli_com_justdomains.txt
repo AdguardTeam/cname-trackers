@@ -8,7 +8,9 @@ apps.h24.news
 at.h24.news
 barracuda.h24.news
 br.h24.news
+buy.h24.news
 c.leparisien.fr
+ca-fr.h24.news
 central.us.h24.news
 client.h24.news
 cms.h24.news
@@ -17,6 +19,7 @@ de.h24.news
 ec.h24.news
 flow-prod.h24.news
 fr.h24.news
+genai.h24.news
 go.3ds.com
 go.france24.com
 go.lenouveaudetective.com
@@ -35,7 +38,6 @@ in.h24.news
 intranet.h24.news
 it.h24.news
 l.20minutes.fr
-l.3djuegos.com
 l.3djuegos.com.mx
 l.3djuegos.lat
 l.750g.com
@@ -90,7 +92,9 @@ l.contexte.com
 l.coop-medias.org
 l.cosmopolitan.fr
 l.cotemaison.fr
+l.courrier-francais.com
 l.courrier-picard.fr
+l.courrierdegironde.fr
 l.croq-kilos.com
 l.cuisineactuelle.fr
 l.cuisineaz.com
@@ -98,7 +102,6 @@ l.cuisinezauquotidien.com
 l.dailysports.fr
 l.deco.fr
 l.diapasonmag.fr
-l.directoalpaladar.com
 l.directoalpaladar.com.mx
 l.diverto.tv
 l.doctissimo.fr
@@ -117,7 +120,6 @@ l.enfant.com
 l.enfemenino.com
 l.entrenous.fr
 l.equidia.fr
-l.espinof.com
 l.euronews.com
 l.familiscope.fr
 l.femmeactuelle.fr
@@ -153,14 +155,17 @@ l.grazia.it
 l.graziamagazine.com
 l.harpersbazaar.fr
 l.hautanjou.fr
+l.hautesaintonge.fr
 l.hbrfrance.fr
 l.heidi.news
 l.herault-tribune.com
 l.herstory-media.com
+l.horizonactu.fr
 l.humanite.fr
 l.iatechauquotidien.com
 l.ici.fr
 l.ideat.fr
+l.information-dentaire.fr
 l.intelekto.fr
 l.intelligenceonline.com
 l.intelligenceonline.fr
@@ -178,6 +183,7 @@ l.lagazettefrance.fr
 l.lalettre.fr
 l.lamanchelibre.fr
 l.lamontagne.fr
+l.langerienlibre.fr
 l.lanouvellerepublique.fr
 l.laprovence.com
 l.lardennais.fr
@@ -191,9 +197,11 @@ l.lasanteauquotidien.com
 l.latribune.fr
 l.laviecorrezienne.fr
 l.lavoixdunord.fr
+l.le-littoral.com
 l.le-pays.fr
 l.le10sport.com
 l.leberry.fr
+l.lecanardenchaine.fr
 l.lechasseurfrancais.com
 l.lechorepublicain.fr
 l.lecourriercauchois.fr
@@ -203,8 +211,10 @@ l.legorafi.fr
 l.lejdc.fr
 l.lejournaldelamaison.fr
 l.lejournaldici.com
+l.lejournaldumedoc.fr
 l.lemagauquotidien.com
 l.lemoniteurdespharmacies.fr
+l.lensois.com
 l.leparisien.fr
 l.lepoint.fr
 l.lepopulaire.fr
@@ -218,6 +228,7 @@ l.letrot.com
 l.leveil.fr
 l.lexpress.eu
 l.lexpress.fr
+l.lhebdo17.fr
 l.lhebdoduvendredi.com
 l.liberation-champagne.fr
 l.liberation.fr
@@ -225,6 +236,7 @@ l.lindependant.fr
 l.linfoauquotidien.com
 l.linsoliteauquotidien.com
 l.lunion.fr
+l.lyondecideurs.com
 l.lyonne.fr
 l.madmoizelle.com
 l.magazine-avantages.fr
@@ -245,7 +257,6 @@ l.minhavida.com.br
 l.modesettravaux.fr
 l.monacomatin.mc
 l.moselle.tv
-l.motorpasion.com
 l.motorpasion.com.mx
 l.mouv.fr
 l.moviepilot.de
@@ -276,6 +287,7 @@ l.passeportsante.net
 l.peaches.fr
 l.peopleauquotidien.com
 l.petitbleu.fr
+l.pharedere.com
 l.plaisirauquotidien.com
 l.planet.fr
 l.pleinevie.fr
@@ -288,11 +300,13 @@ l.purepeople.com
 l.purepeople.com.br
 l.quinzemondial.com
 l.radiofrance.fr
+l.renaissancelochoise.com
 l.reporterre.net
 l.revue21.fr
 l.rireetchansons.fr
 l.rmc.fr
 l.rmcbfmplay.com
+l.rmcplus.fr
 l.rmcsport.fr
 l.roole.fr
 l.rtl.fr
@@ -301,6 +315,7 @@ l.rue89strasbourg.com
 l.rugbyrama.fr
 l.science-et-vie.com
 l.sciencesetavenir.fr
+l.semeur.com
 l.sensacine.com
 l.sensacine.com.mx
 l.sportauto.fr
@@ -322,10 +337,11 @@ l.thegoodlife.fr
 l.topmercato.com
 l.topmusic.fr
 l.topsante.com
+l.toulouscope.fr
 l.touteleurope.eu
 l.traxmag.com
-l.trendencias.com
 l.tribuca.net
+l.tribunedelyon.fr
 l.tudogostoso.com.br
 l.turbo.fr
 l.tvauquotidien.com
@@ -337,7 +353,6 @@ l.viepratique.fr
 l.voici.fr
 l.voyagezauquotidien.com
 l.whatsupdoc-lemag.fr
-l.xataka.com
 l.xataka.com.br
 l.xataka.com.mx
 l.xatakamovil.com
@@ -377,8 +392,10 @@ sso.h24.news
 static.nonli.com
 sur.corsematin.com
 sur.laprovence.com
+tools.h24.news
 u.ie.h24.news
 uk.h24.news
+uy.h24.news
 www.20min.fr
 www.altereco.media
 www.h24.news

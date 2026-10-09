@@ -5,21 +5,64 @@
 * parsely.com
     * fpa-api-adweek-com.parsely.com
     * fpa-api-arstechnica-com.parsely.com
+    * fpa-api-golfdigest-com.parsely.com
+    * fpa-api-sportstravelmagazine-com.parsely.com
+    * fpa-api-thecityreporter-nyc.parsely.com
     * fpa-cdn-adweek-com.parsely.com
     * fpa-cdn-amontalenti-com.parsely.com
+    * fpa-cdn-apollo-magazine-com.parsely.com
     * fpa-cdn-arstechnica-com.parsely.com
     * fpa-cdn-atozsports-com.parsely.com
+    * fpa-cdn-centralmaine-com.parsely.com
+    * fpa-cdn-chronicle-com.parsely.com
+    * fpa-cdn-dailymemphian-com.parsely.com
     * fpa-cdn-decrypt-co.parsely.com
+    * fpa-cdn-golfdigest-com.parsely.com
+    * fpa-cdn-heyalma-com.parsely.com
+    * fpa-cdn-hip2keto-com.parsely.com
+    * fpa-cdn-hip2save-com.parsely.com
+    * fpa-cdn-jta-org.parsely.com
+    * fpa-cdn-kveller-com.parsely.com
+    * fpa-cdn-missionlocal-org.parsely.com
+    * fpa-cdn-myjewishlearning-com.parsely.com
+    * fpa-cdn-newsday-com.parsely.com
     * fpa-cdn-newsweek-com.parsely.com
+    * fpa-cdn-olympic-ca.parsely.com
+    * fpa-cdn-polksports-com.parsely.com
+    * fpa-cdn-pressherald-com.parsely.com
+    * fpa-cdn-prideofdetroit-com.parsely.com
     * fpa-cdn-rollingstone-com.parsely.com
     * fpa-cdn-slate-com.parsely.com
+    * fpa-cdn-spectator-com-au.parsely.com
+    * fpa-cdn-tampabay28-com.parsely.com
+    * fpa-cdn-thetrace-org.parsely.com
     * fpa-events-adweek-com.parsely.com
+    * fpa-events-apollo-magazine-com.parsely.com
     * fpa-events-arstechnica-com.parsely.com
     * fpa-events-atozsports-com.parsely.com
+    * fpa-events-centralmaine-com.parsely.com
+    * fpa-events-chronicle-com.parsely.com
+    * fpa-events-dailymemphian-com.parsely.com
     * fpa-events-decrypt-co.parsely.com
+    * fpa-events-golfdigest-com.parsely.com
+    * fpa-events-heyalma-com.parsely.com
+    * fpa-events-hip2keto-com.parsely.com
+    * fpa-events-hip2save-com.parsely.com
+    * fpa-events-jta-org.parsely.com
+    * fpa-events-kveller-com.parsely.com
+    * fpa-events-missionlocal-org.parsely.com
+    * fpa-events-myjewishlearning-com.parsely.com
+    * fpa-events-newsday-com.parsely.com
     * fpa-events-newsweek-com.parsely.com
+    * fpa-events-olympic-ca.parsely.com
+    * fpa-events-pressherald-com.parsely.com
+    * fpa-events-prideofdetroit-com.parsely.com
     * fpa-events-rollingstone-com.parsely.com
     * fpa-events-slate-com.parsely.com
+    * fpa-events-spectator-com-au.parsely.com
+    * fpa-events-sunjournal-com.parsely.com
+    * fpa-events-tampabay28-com.parsely.com
+    * fpa-events-thetrace-org.parsely.com
 
 ## Cloaking domains
 
@@ -27,18 +70,61 @@
 | ---- | ---- |
 | fpa-api.adweek.com | fpa-api-adweek-com.parsely.com |
 | fpa-api.arstechnica.com | fpa-api-arstechnica-com.parsely.com |
+| fpa-api.golfdigest.com | fpa-api-golfdigest-com.parsely.com |
+| fpa-api.sportstravelmagazine.com | fpa-api-sportstravelmagazine-com.parsely.com |
+| fpa-api.thecityreporter.nyc | fpa-api-thecityreporter-nyc.parsely.com |
 | fpa-cdn.adweek.com | fpa-cdn-adweek-com.parsely.com |
 | fpa-cdn.amontalenti.com | fpa-cdn-amontalenti-com.parsely.com |
+| fpa-cdn.apollo-magazine.com | fpa-cdn-apollo-magazine-com.parsely.com |
 | fpa-cdn.arstechnica.com | fpa-cdn-arstechnica-com.parsely.com |
 | fpa-cdn.atozsports.com | fpa-cdn-atozsports-com.parsely.com |
+| fpa-cdn.centralmaine.com | fpa-cdn-centralmaine-com.parsely.com |
+| fpa-cdn.chronicle.com | fpa-cdn-chronicle-com.parsely.com |
+| fpa-cdn.dailymemphian.com | fpa-cdn-dailymemphian-com.parsely.com |
 | fpa-cdn.decrypt.co | fpa-cdn-decrypt-co.parsely.com |
+| fpa-cdn.golfdigest.com | fpa-cdn-golfdigest-com.parsely.com |
+| fpa-cdn.heyalma.com | fpa-cdn-heyalma-com.parsely.com |
+| fpa-cdn.hip2keto.com | fpa-cdn-hip2keto-com.parsely.com |
+| fpa-cdn.hip2save.com | fpa-cdn-hip2save-com.parsely.com |
+| fpa-cdn.jta.org | fpa-cdn-jta-org.parsely.com |
+| fpa-cdn.kveller.com | fpa-cdn-kveller-com.parsely.com |
+| fpa-cdn.missionlocal.org | fpa-cdn-missionlocal-org.parsely.com |
+| fpa-cdn.myjewishlearning.com | fpa-cdn-myjewishlearning-com.parsely.com |
+| fpa-cdn.newsday.com | fpa-cdn-newsday-com.parsely.com |
 | fpa-cdn.newsweek.com | fpa-cdn-newsweek-com.parsely.com |
+| fpa-cdn.olympic.ca | fpa-cdn-olympic-ca.parsely.com |
+| fpa-cdn.polksports.com | fpa-cdn-polksports-com.parsely.com |
+| fpa-cdn.pressherald.com | fpa-cdn-pressherald-com.parsely.com |
+| fpa-cdn.prideofdetroit.com | fpa-cdn-prideofdetroit-com.parsely.com |
 | fpa-cdn.rollingstone.com | fpa-cdn-rollingstone-com.parsely.com |
 | fpa-cdn.slate.com | fpa-cdn-slate-com.parsely.com |
+| fpa-cdn.spectator.com.au | fpa-cdn-spectator-com-au.parsely.com |
+| fpa-cdn.tampabay28.com | fpa-cdn-tampabay28-com.parsely.com |
+| fpa-cdn.thetrace.org | fpa-cdn-thetrace-org.parsely.com |
 | fpa-events.adweek.com | fpa-events-adweek-com.parsely.com |
+| fpa-events.apollo-magazine.com | fpa-events-apollo-magazine-com.parsely.com |
 | fpa-events.arstechnica.com | fpa-events-arstechnica-com.parsely.com |
 | fpa-events.atozsports.com | fpa-events-atozsports-com.parsely.com |
+| fpa-events.centralmaine.com | fpa-events-centralmaine-com.parsely.com |
+| fpa-events.chronicle.com | fpa-events-chronicle-com.parsely.com |
+| fpa-events.dailymemphian.com | fpa-events-dailymemphian-com.parsely.com |
 | fpa-events.decrypt.co | fpa-events-decrypt-co.parsely.com |
+| fpa-events.golfdigest.com | fpa-events-golfdigest-com.parsely.com |
+| fpa-events.heyalma.com | fpa-events-heyalma-com.parsely.com |
+| fpa-events.hip2keto.com | fpa-events-hip2keto-com.parsely.com |
+| fpa-events.hip2save.com | fpa-events-hip2save-com.parsely.com |
+| fpa-events.jta.org | fpa-events-jta-org.parsely.com |
+| fpa-events.kveller.com | fpa-events-kveller-com.parsely.com |
+| fpa-events.missionlocal.org | fpa-events-missionlocal-org.parsely.com |
+| fpa-events.myjewishlearning.com | fpa-events-myjewishlearning-com.parsely.com |
+| fpa-events.newsday.com | fpa-events-newsday-com.parsely.com |
 | fpa-events.newsweek.com | fpa-events-newsweek-com.parsely.com |
+| fpa-events.olympic.ca | fpa-events-olympic-ca.parsely.com |
+| fpa-events.pressherald.com | fpa-events-pressherald-com.parsely.com |
+| fpa-events.prideofdetroit.com | fpa-events-prideofdetroit-com.parsely.com |
 | fpa-events.rollingstone.com | fpa-events-rollingstone-com.parsely.com |
 | fpa-events.slate.com | fpa-events-slate-com.parsely.com |
+| fpa-events.spectator.com.au | fpa-events-spectator-com-au.parsely.com |
+| fpa-events.sunjournal.com | fpa-events-sunjournal-com.parsely.com |
+| fpa-events.tampabay28.com | fpa-events-tampabay28-com.parsely.com |
+| fpa-events.thetrace.org | fpa-events-thetrace-org.parsely.com |

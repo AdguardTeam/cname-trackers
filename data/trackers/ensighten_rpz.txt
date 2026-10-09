@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791549882515        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,6 +140,7 @@ cmp.dieterencenters.be CNAME .
 cmp.dieterengroup.com CNAME .
 cmp.dieterenmobilitycompany.be CNAME .
 cmp.mamobilitezen.be CNAME .
+cmp.mespneusete.be CNAME .
 cmp.mespneushiver.be CNAME .
 cmp.microlino.be CNAME .
 cmp.mijnwinterbanden.be CNAME .
@@ -214,6 +215,7 @@ dc.volkswagen.com.ar CNAME .
 dc.volkswagen.com.au CNAME .
 dc.volkswagen.de CNAME .
 dc.volkswagen.es CNAME .
+dc.volkswagen.fr CNAME .
 dc.volkswagen.ie CNAME .
 dc.volkswagen.no CNAME .
 dc.volkswagen.pl CNAME .
@@ -224,6 +226,7 @@ dc.zales.com CNAME .
 dc.zalesoutlet.com CNAME .
 dcf.espn.com CNAME .
 dcf.espn.com.do CNAME .
+dcf.espn.com.pe CNAME .
 dcf.espnqa.com CNAME .
 dcf.espnsb.co.uk CNAME .
 dcfdata.espn.com CNAME .
@@ -270,9 +273,6 @@ fctms.fidelitycharitable.org CNAME .
 fidelity.activate.ensighten.com CNAME .
 gst.pulse.buyatoyota.com CNAME .
 gst.pulse.toyota.com CNAME .
-ims.tescoinsurance.com CNAME .
-ims2.tescotravelmoney.com CNAME .
-ims3.tescogiftcards.com CNAME .
 latimes.activate.ensighten.com CNAME .
 letsencrypt.data.ensighten.com CNAME .
 measure.ensighten.com CNAME .
@@ -304,6 +304,8 @@ privacy-digital.diip.co.uk CNAME .
 privacy-digital.infracapital.co.uk CNAME .
 privacy-digital.mandg.com CNAME .
 privacy-digital.mandgadvice.com CNAME .
+privacy-digital.mandginvestments.com CNAME .
+privacy-digital.mandgplatform.com CNAME .
 privacy-digital.pru.co.uk CNAME .
 privacy-digital.pruadviser.co.uk CNAME .
 privacy-digital.pruretire.co.uk CNAME .
@@ -360,7 +362,6 @@ securemetrics.carecredit.com CNAME .
 securemetrics.mysynchrony.com CNAME .
 securemetrics.syf.com CNAME .
 securemetrics.synchronybusiness.com CNAME .
-service-ens.sueddeutsche.de CNAME .
 smt.jcpenney.com CNAME .
 sst.dell.com CNAME .
 sst.homegoods.com CNAME .
@@ -404,7 +405,6 @@ tags.wyndhamhotels.com CNAME .
 tam.volkswagen.com CNAME .
 tdi.cartoonnetwork.com CNAME .
 tea.tescobank.com CNAME .
-tea2.tescobank.com CNAME .
 test3-dc.jared.com CNAME .
 test3-dc.kay.com CNAME .
 test3-dc.kayoutlet.com CNAME .
@@ -423,6 +423,7 @@ tms.nab.com.au CNAME .
 tms.nabmarginlending.com.au CNAME .
 tms.nabtrade.com.au CNAME .
 tms.nationaltrust.org.uk CNAME .
+tms.rsa.com CNAME .
 tms.securid.com CNAME .
 tms.suzukibusinesscloud-qa.com CNAME .
 tms.virginatlantic.com CNAME .

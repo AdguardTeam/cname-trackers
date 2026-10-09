@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791552913843        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -116,7 +116,6 @@ afm.vtmarketsweb.com CNAME .
 afm.vtmgcn.com CNAME .
 afm.vtmindo.com CNAME .
 afr.jogajunto.bet.br CNAME .
-afs.wearemp.com CNAME .
 analytics.amrcollection.com CNAME .
 analytics.beachbound.com CNAME .
 analytics.breathlessresorts.com CNAME .
@@ -124,6 +123,7 @@ analytics.cheapcaribbean.com CNAME .
 analytics.dreamsresorts.com CNAME .
 analytics.funjet.com CNAME .
 analytics.inteflow.com.au CNAME .
+analytics.lebara.com.au CNAME .
 analytics.nowresorts.com CNAME .
 analytics.southwestvacations.com CNAME .
 analytics.sunscaperesorts.com CNAME .
@@ -157,6 +157,7 @@ assets.werally.co CNAME .
 assets2.ihg.com CNAME .
 aucrdtfrd.revolut.codes CNAME .
 aucrdtfrd.revolut.com CNAME .
+auth.schwabbank.com CNAME .
 auth.vedacheck.com.au CNAME .
 auth2.corelogic.asia CNAME .
 backend.pin-up.dev CNAME .
@@ -177,9 +178,11 @@ cbcdn.lloydsbank.com CNAME .
 ccf.prod.fedex.com CNAME .
 cda.thecardservicescenter.com CNAME .
 cdle-prof.clouduim.cdle.state.co.us CNAME .
+cdn-a.telus.com CNAME .
 cdn-content.bmtx.com CNAME .
 cdn-east.purchase.goto.com CNAME .
 cdn-f.gr4vy.com CNAME .
+cdn-idig.hotmart.com CNAME .
 cdn-ln.ozk.com CNAME .
 cdn-lntmps.mintmobile.com CNAME .
 cdn-lntmps.ultramobile.com CNAME .
@@ -210,6 +213,7 @@ cdn2.services.newcastle.co.uk CNAME .
 cdn3.littlecaesars.com CNAME .
 cdn3.moneycorp.com CNAME .
 cdna-paymentncb.cofidis.be CNAME .
+cdna.cic.fr CNAME .
 cdna.cofidis.es CNAME .
 cdna.cofidis.fr CNAME .
 cdna.cofidisforyou.fr CNAME .
@@ -239,6 +243,9 @@ cdnfp.accurint.com CNAME .
 cdnfp.lexisnexisrisk.com CNAME .
 cdnfp.lexisnexisrisk.eu CNAME .
 cdnm.sts.pl CNAME .
+cdnpb.ib.luminor.lt CNAME .
+cdnpb.ib.luminor.lv CNAME .
+cdnpb.luminor.ee CNAME .
 cdns.moneyplace.com.au CNAME .
 cdnt.duobank.com CNAME .
 cdnt.walmartrewards.ca CNAME .
@@ -247,6 +254,7 @@ cdntm.expat.hsbc.com CNAME .
 cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
 cdntm.hsbc.ae CNAME .
+cdntm.hsbc.bank.in CNAME .
 cdntm.hsbc.bm CNAME .
 cdntm.hsbc.co.id CNAME .
 cdntm.hsbc.co.in CNAME .
@@ -280,6 +288,7 @@ cfaxq1.fidelity.com CNAME .
 cfaxq2.fidelity.com CNAME .
 ch.drs.wa.gov CNAME .
 channel.rakbankonline.ae CNAME .
+check-app.core.basa.com.br CNAME .
 check.fashionid.de CNAME .
 check.jaja.finance CNAME .
 check2.bankofscotland.co.uk CNAME .
@@ -308,6 +317,7 @@ claimant.vec.virginia.gov CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
 cnt.aeonbank.com.my CNAME .
+cnt.cebuanalhuillierbank.com CNAME .
 cnt.dllpayment.com CNAME .
 cnt.faktoria.pl CNAME .
 cnt.patpat.com CNAME .
@@ -322,13 +332,14 @@ connect.premieraccesscard.com CNAME .
 connect.solspark.com CNAME .
 consortium.adib.ae CNAME .
 contendvc.cnouyi.pizza CNAME .
+content-1.citbankapp.cit.com CNAME .
 content-48.cnb.com CNAME .
+content-a.finchoice.mobi CNAME .
 content-cdn.multimoney.com.mx CNAME .
 content-dt.crepassplus.com CNAME .
 content-tix.topi.eu CNAME .
 content-uk.fundingcircle.com CNAME .
 content.affinityfcu.com CNAME .
-content.ageas.co.uk CNAME .
 content.allstate.com CNAME .
 content.alterna.ca CNAME .
 content.alternabank.ca CNAME .
@@ -351,6 +362,7 @@ content.bnl.it CNAME .
 content.byabcd.com CNAME .
 content.canadiantire.ca CNAME .
 content.certifid.com CNAME .
+content.chinabank.ph CNAME .
 content.citadele.lv CNAME .
 content.citbankapp.cit.com CNAME .
 content.citizensbankonline.com CNAME .
@@ -400,6 +412,7 @@ content.happen.com CNAME .
 content.happybank.com CNAME .
 content.heidipay.com CNAME .
 content.hellobank.fr CNAME .
+content.hellobankpro.fr CNAME .
 content.ibanking-services.com CNAME .
 content.id.elsevier.com CNAME .
 content.iddataweb.com CNAME .
@@ -470,7 +483,6 @@ content.readiness.familyprepaiddebit.com CNAME .
 content.readiness.paycardsolutions.com CNAME .
 content.realquest.com CNAME .
 content.rendimento.com.br CNAME .
-content.rias.co.uk CNAME .
 content.royalvegas.ca CNAME .
 content.royalvegascasino.ca CNAME .
 content.rubyfortune.ca CNAME .
@@ -547,6 +559,7 @@ content3.risk.lexisnexis.com CNAME .
 content4c.iberia.com CNAME .
 content55.getupgraded.com CNAME .
 content9.lendingtree.com CNAME .
+contentdna.pemco.com CNAME .
 contentfd.directcapital.com CNAME .
 contentimage.fretebras.com.br CNAME .
 contentinfo.tcdrs.org CNAME .
@@ -554,6 +567,7 @@ contentmx.okcoin.com CNAME .
 contentneworks.nebraska.gov CNAME .
 contents.healthfirst.org CNAME .
 contentservices.ascendloans.com CNAME .
+contentservices.breezeloans.com CNAME .
 contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
 contentservices.firstlightlending.com CNAME .
@@ -561,6 +575,7 @@ contentservices.trulend.com CNAME .
 continuum.ford.com CNAME .
 cookiemonster.calcas.com CNAME .
 creditapp.rogersbank.com CNAME .
+crmg-fraudmgmt-stg.bayad.com CNAME .
 crmg-fraudmgmt.bayad.com CNAME .
 cs.allegro.pl CNAME .
 css.slots.io CNAME .
@@ -589,6 +604,7 @@ dept.provantage.com CNAME .
 detect.clearme.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
 device-fingerprint.pay1.checkout.worldline-solutions.com CNAME .
+device-fingerprint.pay1.preprod.checkout.worldline-solutions.com CNAME .
 device-fingerprint.pay2.checkout.worldline-solutions.com CNAME .
 device-fingerprint.pay2.preprod.checkout.worldline-solutions.com CNAME .
 device-id.orientalbank.com CNAME .
@@ -625,7 +641,6 @@ dm-prod-visapay.m2pfintech.com CNAME .
 dm-visapay.m2pfintech.com CNAME .
 dmo-services-tmx.cofidis.cz CNAME .
 dol-reemployme-js01.maine.gov CNAME .
-donor.cafamerica.org CNAME .
 dp.barclaycardus.com CNAME .
 dp.barclaysus.com CNAME .
 dp.lottogo.ca CNAME .
@@ -640,6 +655,8 @@ dvc0271.play.jackpocket.com CNAME .
 ebcontent.mcbankny.com CNAME .
 ecomm.thegiftcardshop.com CNAME .
 edge.privacy.com.br CNAME .
+edge.snappibank.com CNAME .
+edge2.lavaslots.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
 elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
@@ -683,6 +700,7 @@ fp.joyobank.chance.co.jp CNAME .
 fp.marisota.co.uk CNAME .
 fp.nypti.org CNAME .
 fp.premierman.com CNAME .
+fp.salamair.com CNAME .
 fp.simplybe.co.uk CNAME .
 fp.ubagroup.com CNAME .
 fp.ups.com CNAME .
@@ -767,6 +785,7 @@ imgcdn.genworth.com CNAME .
 imgl2.hardrockcasino.com CNAME .
 imgs.cdn-btsg.com CNAME .
 imgs.signifyd.com CNAME .
+imgtemplate.cembra.ch CNAME .
 info.betway.bg CNAME .
 info.betway.co.ke CNAME .
 info.betway.co.mz CNAME .
@@ -810,6 +829,7 @@ ln.hijackpoker.com CNAME .
 ln.jackpotgo.club CNAME .
 ln.kohls.com CNAME .
 ln.lavishluck.net CNAME .
+ln.luckymoney.vip CNAME .
 ln.meudigio.com.br CNAME .
 ln.moonprizecasino.com CNAME .
 ln.spinsorcery.net CNAME .
@@ -945,13 +965,17 @@ prod-consumers.chaperone.lumindigitalhosting.com CNAME .
 prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-dccuva.chaperone.lumindigitalhosting.com CNAME .
 prod-dexsta.chaperone.lumindigitalhosting.com CNAME .
+prod-elements-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-ffcuin.chaperone.lumindigitalhosting.com CNAME .
+prod-figfcu-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-firstmark.chaperone.lumindigitalhosting.com CNAME .
 prod-fortcomm-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-freedom-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-frontier.chaperone.lumindigitalhosting.com CNAME .
 prod-fsfcutn.chaperone.lumindigitalhosting.com CNAME .
+prod-granitestate-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-hfcuvt.chaperone.lumindigitalhosting.com CNAME .
+prod-hicomm-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-hsfcuhi.chaperone.lumindigitalhosting.com CNAME .
 prod-humantx.chaperone.lumindigitalhosting.com CNAME .
 prod-ihmvcu-mercury2023.chaperone.lumindigitalhosting.com CNAME .
@@ -964,6 +988,7 @@ prod-kirtland.chaperone.lumindigitalhosting.com CNAME .
 prod-lafcuca.chaperone.lumindigitalhosting.com CNAME .
 prod-latino.chaperone.lumindigitalhosting.com CNAME .
 prod-lfcuva.chaperone.lumindigitalhosting.com CNAME .
+prod-maps-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-michedcu.chaperone.lumindigitalhosting.com CNAME .
 prod-mscuct.chaperone.lumindigitalhosting.com CNAME .
 prod-navigator.chaperone.lumindigitalhosting.com CNAME .
@@ -1007,6 +1032,7 @@ prof4rs.cembrapay.ch CNAME .
 profile.iassist.com CNAME .
 profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
+profiling.horizonblue.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
 protection.bt.com CNAME .
 protection.ee.co.uk CNAME .
@@ -1014,6 +1040,7 @@ provider-services.openbank.mx CNAME .
 ptm.creditas.com CNAME .
 public-check3-at.test.tiaa-cref.org CNAME .
 public-check3-at.test.tiaa.org CNAME .
+px.islandsbanki.is CNAME .
 qfp.intuit.com CNAME .
 qrimages.qatarairways.com CNAME .
 query.capitalontap.com CNAME .
@@ -1234,6 +1261,7 @@ tcontent.auchantelecom.fr CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.astro.space CNAME .
 telempdf.vepormas.com CNAME .
+tfet.claimyourcashfl.gov CNAME .
 tfet.fltreasurehunt.gov CNAME .
 tfp.intuit.com CNAME .
 th.barclays.co.uk CNAME .
@@ -1242,10 +1270,8 @@ thm.visa.com CNAME .
 thm12.visa.com CNAME .
 thmep.zondacrypto.com CNAME .
 threatmetrix.lendingclub.com CNAME .
-thrm-scrq-0001.crypterium.com CNAME .
 tm-analytics.bluevine.com CNAME .
 tm-out.cardinalcommerce.com CNAME .
-tm.acehardware.com CNAME .
 tm.barclays.co.uk CNAME .
 tm.barstoolsportsbook.com CNAME .
 tm.bcc.kz CNAME .
@@ -1358,6 +1384,7 @@ tmcontent.zoom.us CNAME .
 tmfp.klarna.com CNAME .
 tmi.my529.org CNAME .
 tms.paysafe.com CNAME .
+tmsmb.cbd.ae CNAME .
 tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .
 tmx-fpt.credit-agricole.pl CNAME .
@@ -1448,6 +1475,7 @@ w3.calbanktrust.com CNAME .
 w3.nbarizona.com CNAME .
 w3.nsbank.com CNAME .
 w3.providerpay.com CNAME .
+w3.tcbnw.com CNAME .
 w3.tcboregon.com CNAME .
 w3.tcbwa.com CNAME .
 w3.vectrabank.com CNAME .
@@ -1457,10 +1485,10 @@ webftm.sterbc.com CNAME .
 west-eu-0156743.medirect.be CNAME .
 west-eu-0156743.medirect.com.mt CNAME .
 west-eu-0156743.medirect.nl CNAME .
+wfhkjoppuwjtiryafrnb.tiendanube.com CNAME .
 wfp.intuit.com CNAME .
 wildcard.humm.ie CNAME .
 wkvjee5b.paviliononline.io CNAME .
-wp.kroger.com CNAME .
 wptm.worldvision.org CNAME .
 wptmpreprod.worldvision.org CNAME .
 ww3.fundingstream.com CNAME .

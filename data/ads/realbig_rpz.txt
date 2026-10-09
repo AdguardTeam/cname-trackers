@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791552913843        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,12 +12,8 @@ $TTL 300
 @    IN   NS    localhost.
 
 a.rb-ya.ru CNAME .
-a.resr.ru CNAME .
-a.ridd.ru CNAME .
 ad.choicy.org CNAME .
 any.realbig.media CNAME .
-dlyarecnew.me CNAME .
-downnora.me CNAME .
 elpushnot.com CNAME .
 fft.delovoemesto.ru CNAME .
 m3.repka.online CNAME .
@@ -44,16 +40,11 @@ rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .
 spush.olmiweb.com CNAME .
 workerhome.click CNAME .
-www.5738.ru CNAME .
-www.allworldinfo5.ru CNAME .
 www.fasder12.ru CNAME .
 www.iskustvenny-intellekt.ru CNAME .
-www.procarsharing.store CNAME .
-www.rbdomain.ru CNAME .
 www.rbp-gen1.site CNAME .
 www.rbp1.ru CNAME .
 www.rbp2.ru CNAME .
-www.rbp2.site CNAME .
 www.rbp3.ru CNAME .
 www.rbp63841.ru CNAME .
 www.rbpark2.ru CNAME .

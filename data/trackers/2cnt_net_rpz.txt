@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1786964899408        ; Serial
+           1791552043211        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ vg03.met.vgwort.de CNAME .
 vg05.met.vgwort.de CNAME .
 vg07.met.vgwort.de CNAME .
 vg09.met.vgwort.de CNAME .
+waz.met.vgwort.de CNAME .
 wiley.met.vgwort.de CNAME .
 zeit.met.vgwort.de CNAME .
 abendblatt.met.vgwort.de CNAME .
@@ -44,6 +45,7 @@ beck.met.vgwort.de CNAME .
 berliner-kurier.met.vgwort.de CNAME .
 berliner-zeitung.met.vgwort.de CNAME .
 brigitte.met.vgwort.de CNAME .
+burda-forward.met.vgwort.de CNAME .
 geo.met.vgwort.de CNAME .
 hanser.met.vgwort.de CNAME .
 heise.met.vgwort.de CNAME .
@@ -52,6 +54,7 @@ hogrefe.met.vgwort.de CNAME .
 huffpost.met.vgwort.de CNAME .
 manager.met.vgwort.de CNAME .
 mzweb.met.vgwort.de CNAME .
+n-tv.met.vgwort.de CNAME .
 nomos.met.vgwort.de CNAME .
 rp-online.met.vgwort.de CNAME .
 spiegel.met.vgwort.de CNAME .
@@ -81,7 +84,6 @@ vogel.met.vgwort.de CNAME .
 weka.met.vgwort.de CNAME .
 bild.met.vgwort.de CNAME .
 bm.met.vgwort.de CNAME .
-burda-forward.met.vgwort.de CNAME .
 chip.met.vgwort.de CNAME .
 degruyter.met.vgwort.de CNAME .
 econa.met.vgwort.de CNAME .
@@ -95,7 +97,6 @@ idgmagazine.met.vgwort.de CNAME .
 juris.met.vgwort.de CNAME .
 kohlhammer.met.vgwort.de CNAME .
 mopo.met.vgwort.de CNAME .
-n-tv.met.vgwort.de CNAME .
 rtl.met.vgwort.de CNAME .
 springer.met.vgwort.de CNAME .
 ssl-chip.met.vgwort.de CNAME .
@@ -104,11 +105,9 @@ ssl-gala.met.vgwort.de CNAME .
 ssl-idgbusiness.met.vgwort.de CNAME .
 ssl-idgmagazine.met.vgwort.de CNAME .
 ssl-mopo.met.vgwort.de CNAME .
-ssl-n-tv.met.vgwort.de CNAME .
 ssl-springer.met.vgwort.de CNAME .
 ssl-stern.met.vgwort.de CNAME .
 ssl-teltarif.met.vgwort.de CNAME .
-ssl-waz.met.vgwort.de CNAME .
 ssl-welt.met.vgwort.de CNAME .
 ssl-wolterskluwer.met.vgwort.de CNAME .
 stern.met.vgwort.de CNAME .
@@ -117,7 +116,6 @@ teltarif.met.vgwort.de CNAME .
 vg00.met.vgwort.de CNAME .
 vg08.met.vgwort.de CNAME .
 vision.met.vgwort.de CNAME .
-waz.met.vgwort.de CNAME .
 welt.met.vgwort.de CNAME .
 wolterskluwer.met.vgwort.de CNAME .
 pl01.owen.prolitteris.ch CNAME .
