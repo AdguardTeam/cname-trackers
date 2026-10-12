@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791549122371        ; Serial
+           1791803560435        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ fpa-cdn.myjewishlearning.com CNAME .
 fpa-cdn.newsday.com CNAME .
 fpa-cdn.newsweek.com CNAME .
 fpa-cdn.olympic.ca CNAME .
+fpa-cdn.olympique.ca CNAME .
 fpa-cdn.polksports.com CNAME .
 fpa-cdn.pressherald.com CNAME .
 fpa-cdn.prideofdetroit.com CNAME .
@@ -43,6 +44,7 @@ fpa-cdn.rollingstone.com CNAME .
 fpa-cdn.slate.com CNAME .
 fpa-cdn.spectator.com.au CNAME .
 fpa-cdn.tampabay28.com CNAME .
+fpa-cdn.thedailybeast.com CNAME .
 fpa-cdn.thetrace.org CNAME .
 fpa-events.adweek.com CNAME .
 fpa-events.apollo-magazine.com CNAME .
@@ -63,6 +65,7 @@ fpa-events.myjewishlearning.com CNAME .
 fpa-events.newsday.com CNAME .
 fpa-events.newsweek.com CNAME .
 fpa-events.olympic.ca CNAME .
+fpa-events.olympique.ca CNAME .
 fpa-events.pressherald.com CNAME .
 fpa-events.prideofdetroit.com CNAME .
 fpa-events.rollingstone.com CNAME .
@@ -70,4 +73,5 @@ fpa-events.slate.com CNAME .
 fpa-events.spectator.com.au CNAME .
 fpa-events.sunjournal.com CNAME .
 fpa-events.tampabay28.com CNAME .
+fpa-events.thedailybeast.com CNAME .
 fpa-events.thetrace.org CNAME .

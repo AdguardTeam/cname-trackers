@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791547149073        ; Serial
+           1791803553806        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 abox.simpleshop.cz CNAME .
 aff.faircredit.cz CNAME .
 aff.pujckajonatan.cz CNAME .
+aff.realwoman.sk CNAME .
 aff.teshop.cz CNAME .
 aff.teticka.cz CNAME .
 aff.winkey.cz CNAME .
@@ -265,12 +266,14 @@ afill.e-potisk.cz CNAME .
 ambasador.montessorikurz.cz CNAME .
 ambasador.montessorispolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
+ambassadors.childhoodpotential.club CNAME .
 ambassadors.childhoodpotential.com CNAME .
 ambassadors.guideandgrow.com CNAME .
 analytics.algomoneo.com CNAME .
 box.kryptotrejder.sk CNAME .
 champions.betubetu.com CNAME .
 collab.zdravetricko.cz CNAME .
+connect.algomoneo.com CNAME .
 cooperation.mitochondriak.com CNAME .
 cooperation.mitochondriak.cz CNAME .
 cooperation.mitochondriak.pl CNAME .
@@ -286,6 +289,7 @@ doporuc.krmimkvalitne.cz CNAME .
 doporuc.necojakocola.cz CNAME .
 doporuc.promujdomov.cz CNAME .
 doporuc.shopiam4u.cz CNAME .
+doporuc.slevomat.group CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
 hcbox.antiradary.net CNAME .
@@ -534,6 +538,7 @@ partner.fotoposta.sk CNAME .
 partner.gaymegastore.cz CNAME .
 partner.gaymegastore.eu CNAME .
 partner.gel-gun.cz CNAME .
+partner.generatorvodiku.cz CNAME .
 partner.gingershot.cz CNAME .
 partner.giulieta.shop CNAME .
 partner.gloe.cz CNAME .
@@ -693,6 +698,7 @@ partner.roboticky-vysavac.sk CNAME .
 partner.robotworld.ro CNAME .
 partner.robotworld.sk CNAME .
 partner.root.cz CNAME .
+partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
 partner.rozvoj-osobny.sk CNAME .
 partner.ruzovyslon.cz CNAME .
@@ -786,7 +792,6 @@ partneri.affiliatevyzva.cz CNAME .
 partneri.alchemistr.cz CNAME .
 partneri.alepiacz.cz CNAME .
 partneri.anglictinarychlo.sk CNAME .
-partneri.appkee.cz CNAME .
 partneri.arouska.cz CNAME .
 partneri.artisan.cz CNAME .
 partneri.autoprofishop.cz CNAME .
@@ -869,6 +874,7 @@ partneri.palmknihy.cz CNAME .
 partneri.piercing.cz CNAME .
 partneri.piratecbd.cz CNAME .
 partneri.plantobesto.com CNAME .
+partneri.podnikaveduse.cz CNAME .
 partneri.portske.cz CNAME .
 partneri.prectime.cz CNAME .
 partneri.proficredit.cz CNAME .
@@ -911,6 +917,7 @@ partneri.worldee.com CNAME .
 partneri.yoggspiration.cz CNAME .
 partneri.zaprovizi.cz CNAME .
 partneri.zhubnichytre.cz CNAME .
+partneri.zijchytre.cz CNAME .
 partners.almaf.cz CNAME .
 partners.bonyacademy.com CNAME .
 partners.gingles.co CNAME .
@@ -988,3 +995,4 @@ partner.eliteways.cz CNAME .
 partner.janapekna.cz CNAME .
 partner.mojalekaren.sk CNAME .
 partner.topforteam.cz CNAME .
+partneri.appkee.cz CNAME .

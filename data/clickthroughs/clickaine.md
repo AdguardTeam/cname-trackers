@@ -47,10 +47,12 @@
 | c4n.xxx8.me | api.clickaine.com |
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe.club | api.clickaine.com |
+| cc.opowiadaniaerotyczne-darmowo.pl | api.clickaine.com |
 | cc.relatoseroticos-gratis.com | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
 | cc.sexgeschichten-klub.com | api.clickaine.com |
 | cc.sexgeschichten-xxx.com | api.clickaine.com |
+| cc.sexstories-xxx.com | api.clickaine.com |
 | cdn1.memojav.com | api.clickaine.com |
 | central.s1.rtnews.pro | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
@@ -81,6 +83,7 @@
 | go.lize.bid | api.clickaine.com |
 | go2.lize.bid | api.clickaine.com |
 | grow.brandnewapp.pro | api.clickaine.com |
+| hapenny.brandnewapp.pro | api.clickaine.com |
 | hostmaster.brandnewapp.pro | api.clickaine.com |
 | hostmaster.rtnews.pro | api.clickaine.com |
 | hruk.afguk.top | api.clickaine.com |
@@ -109,10 +112,13 @@
 | ssp.lbanez.net | api.clickaine.com |
 | station54k.brandnewapp.pro | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
+| v2.brandnewapp.pro | api.clickaine.com |
 | web5603.brandnewapp.pro | api.clickaine.com |
 | webmail.brandnewapp.pro | api.clickaine.com |
 | wl0nmmdg95w6.s4.rtnews.pro | api.clickaine.com |
 | wp.brandnewapp.pro | api.clickaine.com |
+| www.api.rtnews.pro | api.clickaine.com |
+| www.app.rtnews.pro | api.clickaine.com |
 | www.brandnewapp.pro | api.clickaine.com |
 | www.daws4-3.brandnewapp.pro | api.clickaine.com |
 | www.faq.brandnewapp.pro | api.clickaine.com |

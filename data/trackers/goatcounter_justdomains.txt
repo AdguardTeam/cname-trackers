@@ -29,6 +29,7 @@ analytics.tomatomtl.com
 analytics.wendoverds.org.uk
 analytics.wendovertrust.org
 analytics.yofbrc.com
+andylytics.amhoyt.com
 api.meestermac.nl
 argus.umarbutler.com
 c.qrdate.org
@@ -37,7 +38,7 @@ contacapre.bortox.it
 corner-stats.sladewatkins.net
 count.andreabrandi.com
 count.kealper.com
-count.vidsrc.pro
+counter.shens.world
 counter.storydragon.nl
 da-stats.sladewatkins.net
 dot-com-stats.sladewatkins.net
@@ -87,7 +88,9 @@ stats-ruzickap-github-io.ruzicka.dev
 stats.45rpm.ch
 stats.abdo.wtf
 stats.abdodaoud.com
+stats.adaliaworks.com
 stats.alextecplayz.com
+stats.alxwrd.co.uk
 stats.apitman.com
 stats.applizi.com
 stats.arredofrigo.net
@@ -105,6 +108,7 @@ stats.carlomega.it
 stats.cassie.omg.lol
 stats.celerry.com
 stats.certidiritti.org
+stats.chuniversiteit.nl
 stats.cloudflex.team
 stats.coderjoe.net
 stats.coderscompass.org
@@ -125,6 +129,7 @@ stats.ghostiam.dev
 stats.gopikrishna.dev
 stats.gwyer.net
 stats.hadejkde.cz
+stats.hanji.sxzz.moe
 stats.haseebmajid.dev
 stats.hdyar.com
 stats.hedy.dev
@@ -209,6 +214,7 @@ stats.vamsi-alluri.me
 stats.waytosmile.fr
 stats.webmeasurements.org
 stats.whatacools.com
+stats.wjmallard.net
 stats.ybbond.id
 stats.yunseo.kim
 stats.zbahn.de

@@ -14,7 +14,6 @@
 ||owmedia.rabbit.click^
 ||owpush.rabbit.click^
 ||p.netork.ru^
-||par.moyslovar.ru^
 ||park.realbig.media^
 ||push.rabbit.click^
 ||pushche.rabbit.click^

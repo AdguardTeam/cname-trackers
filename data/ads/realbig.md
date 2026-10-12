@@ -22,7 +22,6 @@
 | owmedia.rabbit.click | park.realbig.online |
 | owpush.rabbit.click | park.realbig.online |
 | p.netork.ru | park.realbig.online |
-| par.moyslovar.ru | park.realbig.online |
 | park.realbig.media | park.realbig.online |
 | push.rabbit.click | park.realbig.online |
 | pushche.rabbit.click | park.realbig.online |

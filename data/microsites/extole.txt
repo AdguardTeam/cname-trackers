@@ -40,6 +40,7 @@
 ||refer.foodkick.com^
 ||refer.freshly.com^
 ||refer.fuzebox.com^
+||refer.gevalia.com^
 ||refer.gotoassist.com^
 ||refer.gotomeeting.com^
 ||refer.gotowebinar.com^
@@ -120,7 +121,7 @@
 ||em5230.rewards.dailypay.com^
 ||em5231.mail.propertyperks.xfinity.com^
 ||em7952.dailypay.com^
-||em924.refer.starbucks.com^
+||em8031.soundcloud.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -141,6 +142,7 @@
 ||loyalty.glowbar.com^
 ||my.kotn.com^
 ||offers.wecu.com^
+||owncloud.extoleu.com^
 ||pals.petco.com^
 ||parrainage.dyson.fr^
 ||prepod.refer.intuit.com^
@@ -158,6 +160,7 @@
 ||refer.akcpetinsurance.com^
 ||refer.allenedmonds.com^
 ||refer.amctheatres.com^
+||refer.americaneagle.org^
 ||refer.americanmusical.com^
 ||refer.amerisleep.com^
 ||refer.andieswim.com^
@@ -172,6 +175,7 @@
 ||refer.baddie.health^
 ||refer.ballarddesigns.com^
 ||refer.bananarepublic.com^
+||refer.bareminerals.uk^
 ||refer.barharbor.bank^
 ||refer.barnandwillow.com^
 ||refer.batesfootwear.com^
@@ -300,6 +304,7 @@
 ||refer.marinerfinance.com^
 ||refer.midlandsb.com^
 ||refer.minted.com^
+||refer.mission.com^
 ||refer.mpgsport.ca^
 ||refer.mpgsport.com^
 ||refer.msgcu.org^
@@ -448,6 +453,7 @@
 ||rob.extoleu.com^
 ||rob2.extoleu.com^
 ||score.lumen.com^
+||sftp.extole.com^
 ||share-fiber.t-mobile.com^
 ||share-uk.princess.com^
 ||share-us.viktor-rolf.com^
@@ -656,6 +662,7 @@
 ||share.openenglish.com.tr^
 ||share.openenglish.es^
 ||share.opploans.com^
+||share.optimal-selection.com^
 ||share.origins.com^
 ||share.palmbeachpost.com^
 ||share.partsvu.com^
@@ -808,11 +815,11 @@
 ||em5807.turbotax.refer.intuit.com^
 ||em7147.love.suncoastcreditunion.com^
 ||em767.forgetrust.com^
-||em8031.soundcloud.com^
 ||em8561.go2bank.com^
 ||em8642.notifications.acorns.com^
 ||em8928.em.petco.com^
 ||em9129.lightstream.com^
+||em924.refer.starbucks.com^
 ||em9290.carparts.com^
 ||em9347.shareus.viktor-rolf.com^
 ||em9523.walmartmoneycard.com^
@@ -844,4 +851,3 @@
 ||xtl2._domainkey.theory.com^
 ||xtl2._domainkey.walmartmoneycard.com^
 ||refer.endy.com^
-||sftp.extole.com^

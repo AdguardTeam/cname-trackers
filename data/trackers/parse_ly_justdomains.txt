@@ -25,6 +25,7 @@ fpa-cdn.myjewishlearning.com
 fpa-cdn.newsday.com
 fpa-cdn.newsweek.com
 fpa-cdn.olympic.ca
+fpa-cdn.olympique.ca
 fpa-cdn.polksports.com
 fpa-cdn.pressherald.com
 fpa-cdn.prideofdetroit.com
@@ -32,6 +33,7 @@ fpa-cdn.rollingstone.com
 fpa-cdn.slate.com
 fpa-cdn.spectator.com.au
 fpa-cdn.tampabay28.com
+fpa-cdn.thedailybeast.com
 fpa-cdn.thetrace.org
 fpa-events.adweek.com
 fpa-events.apollo-magazine.com
@@ -52,6 +54,7 @@ fpa-events.myjewishlearning.com
 fpa-events.newsday.com
 fpa-events.newsweek.com
 fpa-events.olympic.ca
+fpa-events.olympique.ca
 fpa-events.pressherald.com
 fpa-events.prideofdetroit.com
 fpa-events.rollingstone.com
@@ -59,4 +62,5 @@ fpa-events.slate.com
 fpa-events.spectator.com.au
 fpa-events.sunjournal.com
 fpa-events.tampabay28.com
+fpa-events.thedailybeast.com
 fpa-events.thetrace.org

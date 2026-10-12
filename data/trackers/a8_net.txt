@@ -622,14 +622,12 @@
 ||a8clk.shokutakubin.com^
 ||a8clk.shop.echigofuton.jp^
 ||a8clk.shop.kitamura.jp^
-||a8clk.shop.oishiiplus.com^
 ||a8clk.shop.saraya.com^
 ||a8clk.shop.sunsorit.co.jp^
 ||a8clk.shop.tanita.co.jp^
 ||a8clk.siro.duskin-hozumi.co.jp^
 ||a8clk.sirtuinbooster.net^
 ||a8clk.sixcore.ne.jp^
-||a8clk.skima.jp^
 ||a8clk.skynet-c.jp^
 ||a8clk.skyoffice.info^
 ||a8clk.smart-keiri.com^
@@ -940,6 +938,7 @@
 ||a8cv.holo-bell.com^
 ||a8cv.homepage296.com^
 ||a8cv.honeys-onlineshop.com^
+||a8cv.hoppin-garage.com^
 ||a8cv.hor.jp^
 ||a8cv.hotyoga-loive.com^
 ||a8cv.houjin-keitai.com^

@@ -163,6 +163,7 @@ admin.campirates.com
 admin.celebjihad.live
 admin.colsex.com
 admin.drtuberlive.com
+admin.fikfapcams.com
 admin.hot-india.com
 admin.hotzcam.com
 admin.instantfapcams.com
@@ -264,6 +265,7 @@ amothersluv.chiccams.com
 amradebtv.chiccams.com
 amsi.boyfriend.show
 amylleblanc.xhamsterlive.info
+analytics.cambaddies.com
 anaxbaec.cambaddies.com
 andraji.myavlive.com
 androiddevel.myavlive.com
@@ -277,11 +279,14 @@ anxietydisorderssymptoms.cambaddies.com
 aojvojmovie.myavlive.com
 apasxolisi.omg.adult
 api-dev.boyfriend.show
+api-dev.heelscamroom.com
+api-dev.sexchatters.com
 api.aznudelive.com
 api.boyfriend.show
 api.cambaddies.com
 api.colsex.com
 api.drtuberlive.com
+api.fikfapcams.com
 api.hot-india.com
 api.hotzcam.com
 api.instantfapcams.com
@@ -360,11 +365,16 @@ app.xhlive.net
 app.xhlive.org
 app1.myavlive.com
 app2-ownercenter-pp.spankbanglive.com
+app2.chiccams.com
+app2.colsex.com
+app2.hotzcam.com
 apps.campirates.com
+apps.hotliveporn.com
 apps.mycamtv.com
 apps.porndudecams.com
 apps.sc8.com
 apps.shemale.show
+apps.spankbanglive.com
 apps.stripchat.ooo
 apps.strp.chat
 apps.tklivechat.com
@@ -431,6 +441,9 @@ archbishop-cranmer.xhamsterlive.info
 architechnophilia.cambaddies.com
 areyoumynosymother.cambaddies.com
 areyoumynosymother.hot-india.com
+argo.aznudelive.com
+argo.kinkscams.com
+argo.rarecams.com
 argyle.spankbanglive.com
 arif-bloggers.xhamsterlive.info
 arivatecs.myavlive.com
@@ -476,6 +489,7 @@ auth.campirates.com
 auth.camsplanetlive.com
 auth.celebjihad.live
 auth.drtuberlive.com
+auth.fikfapcams.com
 auth.hot-india.com
 auth.hotzcam.com
 auth.live7mm.tv
@@ -504,8 +518,10 @@ auto1.boyfriend.show
 autoconfig.xham.live
 autodiscover.xham.live
 backend.aznudelive.com
+backend.camsplanetlive.com
 backend.xhamsterlive.info
 backoffice.boyfriend.show
+backoffice.drtuberlive.com
 backoffice.hot-india.com
 backoffice.jerkandsquirtcam.com
 backoffice.omg.adult
@@ -515,7 +531,9 @@ backoffice.spankbanglive.com
 backoffice.strp.chat
 backoffice.tranny.show
 backoffice.xmates.com
+backup.fikfapcams.com
 backup.showtime-cams.live
+backup.spankbanglive.com
 bbbb.cambaddies.com
 bbbb.celebjihad.live
 bbbb.hot-india.com
@@ -580,9 +598,11 @@ bn.perfectgirls.live
 bn.sc7.com
 bn.sc8.com
 bn.sexchatters.com
+bn.sexfortokens.com
 bn.shemale.show
 bn.spankbanglive.com
 bn.strip-chat.club
+bn.stripchat.beeg.com
 bn.stripchat.dk
 bn.stripchat.io
 bn.stripchat.ooo
@@ -592,6 +612,7 @@ bn.xham.live
 bn.xhlive.cam
 bn.xhlive.net
 bn.xhlive.org
+board.86cams.com
 bohexim.myavlive.com
 bohusbioalli132.myavlive.com
 bot.boyfriend.show
@@ -616,9 +637,11 @@ br.camsplanetlive.com
 br.celebjihad.live
 br.colsex.com
 br.colsex.combr.colsex.com
+br.darmowesexkamerki.com
 br.drtuberlive.com
 br.fikfapcams.com
 br.hot-india.com
+br.hotliveporn.com
 br.hotzcam.com
 br.instantfapcams.com
 br.live7mm.tv
@@ -651,6 +674,7 @@ br.xham.live
 br.xhlive.cam
 br.xhlive.net
 br.xhlive.org
+br.xmates.com
 brituvvmts14.myavlive.com
 bst-07443225-900b-4e8a-b30a-9563591e72f2-0.myavlive.com
 bst-0d537508-c1c2-4f98-8bd0-82ab5fb01079.myavlive.com
@@ -820,6 +844,8 @@ cache.xhcam.live
 cacti-pl.stripchat.beeg.com
 calc02fcoha.myavlive.com
 calculejuros.myavlive.com
+calendar.sexfortokens.com
+calendar.xhlive.cam
 calgaryrealestate.myavlive.com
 campaigns.fikfapcams.com
 campaigns.tiktits.com
@@ -915,10 +941,12 @@ cccc.spankbanglive.com
 cccc.stripchat.beeg.com
 cccc.strp.chat
 cccc.tklivechat.com
+cccc.xmates.com
 ccccdisable.stripchat.beeg.com
 ccccdrop.stripchat.beeg.com
 ccccmeta.stripchat.beeg.com
 ccl.xham.live
+cd.hotliveporn.com
 cdfsmtp.myavlive.com
 cdiweb-01.myavlive.com
 cdms-lab.myavlive.com
@@ -926,8 +954,11 @@ cdn-lb.myavlive.com
 cdn-node-uk01.myavlive.com
 cdn.cccc.hot-india.com
 cdn.hot-india.com
+cdn.porndudecams.com
+cdn.sexchatters.com
 cdn.sw.omg.adult
 cdn.xham.live
+cdn.xmates.com
 cdn1.aznudelive.com
 cdn1.boyfriend.show
 cdn1.cambaddies.com
@@ -967,7 +998,9 @@ chapter08.stripchat.beeg.com
 chargeurs.myavlive.com
 chartjs-api.myavlive.com
 chase-acceleration.myavlive.com
+chat.fikfapcams.com
 chat.test.nudescam18.com
+chat.xmates.com
 chatbot.cambaddies.com
 chatbot.celebjihad.live
 chatbot.drtuberlive.com
@@ -1148,6 +1181,7 @@ cms.xhlive.org
 cn-zh.stripchat.beeg.com
 cn.bbbb.kinkscams.com
 cn.cz.strp.chat
+cn.fikfapcams.com
 cn.xham.live
 coactive.myavlive.com
 code18.myavlive.com
@@ -1166,6 +1200,7 @@ concord-stage.myavlive.com
 confederation.myavlive.com
 confereexpy-nce-2-mchd-imp.myavlive.com
 conference-jp.stripchat.beeg.com
+conference.hotzcam.com
 conferencefr.stripchat.beeg.com
 conferences.sexfortokens.com
 confident-ritchie.myavlive.com
@@ -1176,6 +1211,7 @@ confusion660drive.myavlive.com
 conn-i-026f47bd2238ff943-us-east-1.myavlive.com
 connacher-dev13ca9922bdea87ec5devpos.myavlive.com
 connect.eronite.chat
+connect.sctestwl.com
 console.aznudelive.com
 console.boyfriend.show
 console.cambaddies.com
@@ -1245,6 +1281,7 @@ content.spankbanglive.com
 content.stripchats.global
 content.tklivechat.com
 content.xham.live
+control.livecamlovetr.com
 conversations.aznudelive.com
 conversations.boyfriend.show
 conversations.celebjihad.live
@@ -1262,6 +1299,7 @@ conversations.tiktits.com
 conversations.xham.live
 coracaodeportugal.myavlive.com
 coreb2c-test-internal-elr.myavlive.com
+corp.spankbanglive.com
 coupon.aznudelive.com
 coupon.boyfriend.show
 coupon.celebjihad.live
@@ -1300,9 +1338,11 @@ creative.showtime-cams.live
 creative.strp.chat
 creative.tklivechat.com
 creative.tranny.show
+creative.wonderboobs.live
 creative.xham.live
 creative.xhlive.cam
 creative.xhlive.org
+creative.xmates.com
 creativebiblioteca.stripchat.beeg.com
 crew.celebjihad.live
 crewportal-stg.myavlive.com
@@ -1327,6 +1367,7 @@ crm.spankbanglive.com
 crm.strip-chat.club
 crm.stripchat.io
 crm.stripchat.ooo
+crm.stripchat.social
 crm.strp.chat
 crm.tiktits.com
 crm.tklivechat.com
@@ -1358,11 +1399,13 @@ cs.perfectgirls.live
 cs.porndudecams.com
 cs.sc7.com
 cs.sc8.com
+cs.sexchatters.com
 cs.sexfortokens.com
 cs.sexygirlspics.live
 cs.shemale.show
 cs.spankbanglive.com
 cs.stripchat.beeg.com
+cs.stripchat.directcs.stripchat.direct
 cs.stripchat.ooo
 cs.strp.chat
 cs.tiktits.com
@@ -1370,6 +1413,7 @@ cs.tranny.show
 cs.xham.live
 cs.xhlive.net
 cs.xhlive.org
+cs.xmates.com
 csam2.myavlive.com
 csapplications.stripchat.beeg.com
 ct7slcmra0101.myavlive.com
@@ -1398,6 +1442,9 @@ customer.tranny.show
 customer.xham.live
 customer.xhlive.cam
 customer.xhlive.org
+cz.boyfriend.show
+cz.tiktits.com
+cz.xmates.com
 czhelp.stripchat.beeg.com
 d-251240.myavlive.com
 d1a58d13ccbbad6f47d6b51261a50272.myavlive.com
@@ -1420,6 +1467,7 @@ da.spankbanglive.com
 da.tiktits.com
 da.xham.live
 da.xhlive.net
+da.xmates.com
 dac.xham.live
 dai-prime.myavlive.com
 daojia-sz.myavlive.com
@@ -1456,17 +1504,20 @@ dashboard.tranny.show
 dashboard.xham.live
 dashboard.xhlive.cam
 dashboard.xhlive.net
+database.omg.adult
 database.tranny.show
 de.86cams.com
 de.aznudelive.com
 de.boyfriend.show
 de.cambaddies.com
+de.camsplanetlive.com
 de.celebjihad.live
 de.darmowesexkamerki.com
 de.drtuberlive.com
 de.eronite.chat
 de.fikfapcams.com
 de.hot-india.com
+de.hotliveporn.com
 de.hotzcam.com
 de.instantfapcams.com
 de.liveandsexy.cam
@@ -1475,6 +1526,7 @@ de.myavlive.com
 de.mycamtv.com
 de.nsfwlivechat.com
 de.omg.adult
+de.perfectgirls.live
 de.porndudecams.com
 de.sc7.com
 de.sc8.com
@@ -1484,11 +1536,13 @@ de.sexygirlspics.live
 de.shemale.show
 de.showtime-cams.live
 de.spankbanglive.com
+de.strip-chat.club
 de.stripchat.beeg.com
 de.stripchat.dk
 de.stripchat.io
 de.stripchat.ooo
 de.stripchat.porn
+de.stripchat2.com
 de.stripchats.global
 de.stripxlive.com
 de.strp.chat
@@ -1500,6 +1554,7 @@ de.xhamsterlive.info
 de.xhlive.cam
 de.xhlive.net
 de.xhlive.org
+de.xmates.com
 deals.aznudelive.com
 deals.boyfriend.show
 deals.celebjihad.live
@@ -1530,19 +1585,25 @@ demo3.xham.live
 demob-chat.myavlive.com
 demostrationbbbb.stripchat.beeg.com
 deploy.myavlive.com
+deploy.stripchat.news
 deploy.stripchat.porn
 depo.go.stripchat.beeg.com
 detwitch.stripchat.beeg.com
 deu-stg.myavlive.com
+dev-api.myavlive.com
 dev-apigw-2-pdun.myavlive.com
 dev-asicentral-01d12280f235250fc7devaos.myavlive.com
 dev-auto-3837f7fb9925fa78b5devecom.myavlive.com
 dev-curator-server-us-east-1.myavlive.com
+dev.campirates.com
 dev.sc7.com
 dev1-createch18c1fd939f02c1e5devpos.myavlive.com
 dev2.fikfapcams.com
+dev3.cambaddies.com
 dev3.xmates.com
 devcloud-259a5974.myavlive.com
+devel.live7mm.tv
+devel.nudescam18.com
 developer.chiccams.com
 developer.fikfapcams.com
 developer.hot-india.com
@@ -1602,7 +1663,9 @@ dm.sexfortokens.com
 dns91150.myavlive.com
 dnsbl.test.cambaddies.com
 dnsbl.test.creative.myavlive.com
+dnsbl.test.go.celebjihad.live
 dnsbl.test.go.stripchat.beeg.com
+doc.boyfriend.show
 docservice.myavlive.com
 doctor.boyfriend.show
 documentation.aznudelive.com
@@ -1741,6 +1804,7 @@ ecornell.myavlive.com
 ecpcw6kbaaa0h32.myavlive.com
 ecstg.myavlive.com
 eczane.myavlive.com
+edge.myavlive.com
 edge.stripchat.company
 edge2uk02.myavlive.com
 edificioenlanzamiento.myavlive.com
@@ -1759,21 +1823,25 @@ el.assets.tiktits.com
 el.aznudelive.com
 el.boyfriend.show
 el.cambaddies.com
+el.camsplanetlive.com
 el.celebjihad.live
 el.drtuberlive.com
 el.fikfapcams.com
 el.hot-india.com
 el.hotliveporn.com
 el.hotzcam.com
+el.instantfapcams.com
 el.kinkscams.com
 el.myavlive.com
 el.mycamtv.com
 el.nsfwlivechat.com
 el.omg.adult
 el.perfectgirls.live
+el.rarecams.com
 el.sc7.com
 el.sc8.com
 el.sexchatters.com
+el.sexfortokens.com
 el.sexygirlspics.live
 el.shemale.show
 el.showtime-cams.live
@@ -1786,10 +1854,13 @@ el.strp.chat
 el.tiktits.com
 el.tklivechat.com
 el.tranny.show
+el.wonderboobs.live
 el.xham.live
 el.xhlive.net
 el.xhlive.org
 elastic-mestorf.myavlive.com
+elastic.spankbanglive.com
+elastic.tiktits.com
 elastic.xhlive.net
 elasticbeanstalktr.stripchat.beeg.com
 electrodomesticos.myavlive.com
@@ -1895,6 +1966,7 @@ es.colsex.com
 es.drtuberlive.com
 es.fikfapcams.com
 es.hot-india.com
+es.hotliveporn.com
 es.hotzcam.com
 es.instantfapcams.com
 es.live7mm.tv
@@ -1964,8 +2036,10 @@ euwcz.stripchat.beeg.com
 euwe.www.stripchat.beeg.com
 euwxtassspaks04-b76d0c9d.myavlive.com
 evault01.myavlive.com
+event.drtuberlive.com
 events-public.myavlive.com
 events.aznudelive.com
+events.camsplanetlive.com
 evergloam.myavlive.com
 ewbhelmregistry.myavlive.com
 ewsint-stld.myavlive.com
@@ -2067,6 +2141,8 @@ features.strp.chat
 features.tiktits.com
 features.xham.live
 feed.omg.adult
+feedback.camsplanetlive.com
+feedback.porndudecams.com
 feedback.ru.stripchat.beeg.com
 feedbackel.stripchat.beeg.com
 fefed277a69dc966f266f9cd96aa49d7.myavlive.com
@@ -2138,7 +2214,9 @@ forms.ja.omg.adult
 forms.m3.go.xham.live
 forms.nl.stripchat.lgbt
 forms.no.omg.adult
+forms.primetime-cams.me
 forms.pt.strp.chat
+forum.porndudecams.com
 foundry-dxb.myavlive.com
 foundry-iad.myavlive.com
 fr.86cams.com
@@ -2157,6 +2235,7 @@ fr.hotliveporn.com
 fr.hotzcam.com
 fr.instantfapcams.com
 fr.live7mm.tv
+fr.livecamlovetr.com
 fr.myavlive.com
 fr.mycamtv.com
 fr.nsfwlivechat.com
@@ -2254,6 +2333,8 @@ gatereview.stripchat.beeg.com
 gateway.bbbb.stripchat.beeg.com
 gateway.bl.go.xham.live
 gateway.camsplanetlive.com
+gateway.porndudecams.com
+gateway.xhlive.org
 gcloud.xhlive.cam
 gcws-prod-bd3-005.myavlive.com
 gda011.myavlive.com
@@ -2303,6 +2384,8 @@ ghsyapi.myavlive.com
 gi-portal-prod-dns-45dca729.myavlive.com
 gidle.myavlive.com
 git-pull.myavlive.com
+git.xmates.com
+gitlab.boyfriend.show
 gitlabvideo.stripchat.beeg.com
 gitn.myavlive.com
 gitosserveris.myavlive.com
@@ -2357,7 +2440,6 @@ go.live.herecams.com
 go.live7mm.tv
 go.liveandsexy.cam
 go.livecamlovetr.com
-go.livesextape.com
 go.ms.sexchatters.com
 go.myavlive.com
 go.mycamtv.com
@@ -2422,6 +2504,7 @@ gr-en.stripchat.beeg.com
 gr-hera.stripchat.beeg.com
 gr-prod-svg.myavlive.com
 gr.asana.stripchat.beeg.com
+gr.celebjihad.live
 gr.dbuser.stripchat.beeg.com
 gr.drtuberlive.com
 gr.fikfapcams.com
@@ -2565,6 +2648,7 @@ hobsigmonrealty.myavlive.com
 holx-bsh-de-ua-aks-poc2-f3e67543.myavlive.com
 holzgroupsas.myavlive.com
 home.creative.celebjihad.live
+home.drtuberlive.com
 home.el.celebjihad.live
 home.instantfapcams.com
 home.perfectgirls.live
@@ -2637,6 +2721,7 @@ hu.cambaddies.com
 hu.camsplanetlive.com
 hu.celebjihad.live
 hu.drtuberlive.com
+hu.fikfapcams.com
 hu.hot-india.com
 hu.hotliveporn.com
 hu.hotzcam.com
@@ -2669,6 +2754,7 @@ hu.xhlive.net
 hu5giij5p8aewqm4.myavlive.com
 hub.aznudelive.com
 hub.camsplanetlive.com
+hub.fikfapcams.com
 hub.stripchat.ooo
 hucommunity.stripchat.beeg.com
 hueuw.stripchat.beeg.com
@@ -2817,6 +2903,8 @@ integrations.stripchats.global
 integrations.xham.live
 integrations.xhamsterlive.info
 intempo.myavlive.com
+internal.omg.adult
+internal.tiktits.com
 intranet.aznudelive.com
 intranet.boyfriend.show
 intranet.cambaddies.com
@@ -2871,6 +2959,7 @@ it.darmowesexkamerki.com
 it.drtuberlive.com
 it.fikfapcams.com
 it.hot-india.com
+it.hotliveporn.com
 it.hotzcam.com
 it.instantfapcams.com
 it.ita.stripchat.ooo
@@ -2900,6 +2989,7 @@ it.xham.live
 it.xhlive.net
 it.xhlive.netit.xhlive.net
 it.xhlive.org
+it.xmates.com
 ita.myavlive.com
 ita.strip-chat.club
 ita.stripchat.ooo
@@ -2920,6 +3010,7 @@ ja.colsex.com
 ja.drtuberlive.com
 ja.fikfapcams.com
 ja.hot-india.com
+ja.hotliveporn.com
 ja.hotzcam.com
 ja.instantfapcams.com
 ja.kinkscams.com
@@ -2948,6 +3039,7 @@ ja.tiktits.com
 ja.tklivechat.com
 ja.tranny.show
 ja.xham.live
+ja.xhamsterlive.info
 ja.xhlive.cam
 ja.xhlive.net
 ja.xhlive.org
@@ -2986,6 +3078,7 @@ jira-secure-dev.myavlive.com
 jobs.strip-chat.club
 journals.aznudelive.com
 journals.strp.chat
+jp.cambaddies.com
 jp.colsex.com
 jp.drtuberlive.com
 jp.gilford.stripchat.beeg.com
@@ -3004,12 +3097,16 @@ k8s-prod-eastus2-4-dns-93fddaf6.myavlive.com
 k8s-test-9fe4009b.myavlive.com
 k8s.testtest.go.xham.live
 kaltura.xham.live
+kanban.86cams.com
+kanban.sctestwl.com
 kanobr.myavlive.com
 kaptix.myavlive.com
 karaganev.myavlive.com
 kartun.myavlive.com
 kb.tiktits.com
 kcuthbert.myavlive.com
+keycloak.86cams.com
+keycloak.hotliveporn.com
 kez1ndacstdqqqp4.myavlive.com
 kgbrnet.myavlive.com
 kibana.cambaddies.com
@@ -3203,6 +3300,7 @@ llm.sexygirlspics.live
 llm.xham.live
 localhost.cambaddies.com
 localhost.nsfwlivechat.com
+log.stripchat.town
 login.aznudelive.com
 login.cambaddies.com
 login.camsplanetlive.com
@@ -3231,6 +3329,9 @@ login.xham.live
 login.xhlive.cam
 login.xhlive.net
 login.xhlive.org
+logs.colsex.com
+logs.hotzcam.com
+logs.nsfwlivechat.com
 loopback-it.stripchat.beeg.com
 lovetofollowboys.myavlive.com
 loyalty.boyfriend.show
@@ -3255,6 +3356,8 @@ m.xham.live
 maayaulagam-4u.myavlive.com
 macdonaldhotelsloyalty.myavlive.com
 machinestore-uat.myavlive.com
+magento.hornygirls.chat
+magento.tiktits.com
 mail-v6.myavlive.com
 mail.chiccams.com
 mail.go.cambaddies.com
@@ -3299,6 +3402,9 @@ manage.xham.live
 manage.xhlive.cam
 manage.xhlive.net
 manage.xhlive.org
+manage.xmates.com
+manager.colsex.com
+manager.tiktits.com
 mark2.sexfortokens.com
 max-west2.myavlive.com
 mbc.boyfriend.show
@@ -3331,10 +3437,12 @@ member.stripchat.porn
 member.tklivechat.com
 member.xham.live
 member.xhlive.net
+members.cambaddies.com
 members.sexfortokens.com
 members.spankbanglive.com
 members.stripchat.be
 members.stripchat2.com
+members.tiktits.com
 members.xhlive.org
 merrillcspmf.myavlive.com
 mes.xhlive.cam
@@ -3366,6 +3474,7 @@ messenger.stripchat.lgbt
 messenger.stripchat.ooo
 messenger.stripchats.global
 messenger.xham.live
+metabase.br.cambaddies.com
 metienestucontento.myavlive.com
 mfa.aznudelive.com
 mfa.boyfriend.show
@@ -3396,6 +3505,7 @@ mobile.cambaddies.com
 mobile.colsex.com
 mobile.drtuberlive.com
 mobile.hot-india.com
+mobile.myavlive.com
 mobile.porndudecams.com
 mobile.rarecams.com
 mobile.sexygirlspics.live
@@ -3505,6 +3615,7 @@ ndorms-test.myavlive.com
 netmail-de.stripchat.beeg.com
 network-ip-nb.stripchat.beeg.com
 new.spankbanglive.com
+new.xmates.com
 newkinofilms.cambaddies.com
 news.boyfriend.show
 news.celebjihad.live
@@ -3517,6 +3628,7 @@ news.stripchats.global
 news.tranny.show
 news.xham.live
 newstylishfashion.chiccams.com
+nextcloud.aznudelive.com
 nextcloud.tiktits.com
 nextcloud.xhlive.org
 ng-app.myavlive.com
@@ -3743,6 +3855,7 @@ offers.porndudecams.com
 offers.strp.chat
 offers.tranny.show
 offers.xham.live
+office.cambaddies.com
 ohred.chiccams.com
 oip.xhlive.cam
 old.aznudelive.com
@@ -3754,6 +3867,7 @@ old.nsfwlivechat.com
 old.omg.adult
 old.spankbanglive.com
 ondemand.sexfortokens.com
+online.aznudelive.com
 online.stripchat.be
 onlineadmin.myavlive.com
 onlinearchive.myavlive.com
@@ -3829,6 +3943,7 @@ ov-oplader.myavlive.com
 ovid.xhlive.cam
 owa-cz.stripchat.beeg.com
 owa-mochila.myavlive.com
+owncloud.xhamsterlive.info
 owncloud01.xhlive.org
 p50977dfc.myavlive.com
 packages.cambaddies.com
@@ -3966,6 +4081,7 @@ pensiontracing.myavlive.com
 personaavenue.myavlive.com
 pescaenamerica.cambaddies.com
 pflege.xham.live
+pgadmin.xhamsterlive.info
 phpbb.boyfriend.show
 phpmyadmin-tr.stripchat.beeg.com
 phpmyadmin.boyfriend.show
@@ -4015,6 +4131,7 @@ pl.camsplanetlive.com
 pl.celebjihad.live
 pl.chiccams.com
 pl.drtuberlive.com
+pl.fikfapcams.com
 pl.hotzcam.com
 pl.instantfapcams.com
 pl.kinkscams.com
@@ -4053,7 +4170,9 @@ pl.xmates.com
 pl14.myavlive.com
 planning.celebjihad.live
 plans.tiktits.com
+platform.spankbanglive.com
 platform.stripchat-lgbtq.com
+platform.stripchat-vr.com
 platform.tiktits.com
 playground.boyfriend.show
 playground.celebjihad.live
@@ -4183,6 +4302,7 @@ privacy.stripchat.vision
 privacy.strp.chat
 privacy.xhlive.cam
 prod.api.strp.chat
+prod.drtuberlive.com
 prodaem.chiccams.com
 product.boyfriend.show
 product.cambaddies.com
@@ -4196,6 +4316,8 @@ product.spankbanglive.com
 product.strp.chat
 product.xham.live
 productdevelop.cambaddies.com
+production.sexchatters.com
+production.tiktits.com
 products.aznudelive.com
 products.cambaddies.com
 products.celebjihad.live
@@ -4227,7 +4349,15 @@ profile.tiktits.com
 profile.tranny.show
 profile.xhlive.cam
 project.showtime-cams.live
+project.tiktits.com
+projects.cambaddies.com
+projects.tiktits.com
 prometheus.sctestwl.com
+prometheus.xmates.com
+promo.aznudelive.com
+promo.cambaddies.com
+promo.sc7.com
+promo.tiktits.com
 promotion.camsplanetlive.com
 promotion.celebjihad.live
 promotion.fikfapcams.com
@@ -4242,6 +4372,7 @@ promotion.xhamsterlive.info
 promotion.xhlive.cam
 proskore.xhamsterlive.info
 protein174.cambaddies.com
+proxy.nudescam18.com
 pt.aznudelive.com
 pt.boyfriend.show
 pt.cambaddies.com
@@ -4251,6 +4382,7 @@ pt.colsex.com
 pt.drtuberlive.com
 pt.fikfapcams.com
 pt.hot-india.com
+pt.hotliveporn.com
 pt.hotzcam.com
 pt.instantfapcams.com
 pt.livecamlovetr.com
@@ -4286,6 +4418,7 @@ pt.xhlive.org
 puteshestvui.xham.live
 qa.boyfriend.show
 qa.cambaddies.com
+qa.camsplanetlive.com
 qa.celebjihad.live
 qa.drtuberlive.com
 qa.hot-india.com
@@ -4296,12 +4429,14 @@ qa.myavlive.com
 qa.mycamtv.com
 qa.omg.adult
 qa.prime-time-cams-show.me
+qa.sexchatters.com
 qa.sexfortokens.com
 qa.shemale.show
 qa.spankbanglive.com
 qa.stripchat.ooo
 qa.tiktits.com
 qa.tklivechat.com
+qa.xhlive.org
 qm20.xhlive.cam
 quasituttogratis-guadagna.boyfriend.show
 qufcqiapbtc5c25k.xhamsterlive.info
@@ -4310,7 +4445,9 @@ r38.xhlive.cam
 radugacentr.xham.live
 radyo.chiccams.com
 raps.strp.chat
+redirect.chiccams.com
 redirect.xhlive.net
+redmine.xmates.com
 reference.aznudelive.com
 reference.cambaddies.com
 reference.hot-india.com
@@ -4376,6 +4513,7 @@ releases.strip-chat.club
 releases.stripchat.ooo
 releases.tranny.show
 remote.hot-india.com
+remote.sexfortokens.com
 remote.strip-chat.club
 remote.stripchats.global
 remote.xhlive.cam
@@ -4602,6 +4740,7 @@ saml.sexygirlspics.live
 saml.shemale.show
 saml.tiktits.com
 saml.tranny.show
+sandbox.hot-india.com
 santacruz.xhlive.cam
 sarnasolitaires.omg.adult
 satyapaul.cambaddies.com
@@ -4661,6 +4800,8 @@ secure.tklivechat.com
 secure.xham.live
 secure.xhamsterlive.info
 send.tklivechat.com
+sentry.camsplanetlive.com
+sentry.xmates.com
 server.hot-india.com
 server.tklivechat.com
 serveris.omg.adult
@@ -4739,6 +4880,7 @@ shipping.spankbanglive.com
 shipping.tiktits.com
 shipping.xham.live
 shipping.xhlive.cam
+shop.myavlive.com
 showcase.cambaddies.com
 showcase.celebjihad.live
 showcase.drtuberlive.com
@@ -4805,7 +4947,10 @@ simplecpp.cambaddies.com
 simplexworldnews.shemale.show
 sip.vc.xhlive.cam
 sipsipgist.myavlive.com
+site.hotliveporn.com
+site.xmates.com
 site8.boyfriend.show
+sites.hot-india.com
 sites.sexfortokens.com
 sizehd.cambaddies.com
 sk.aznudelive.com
@@ -4814,6 +4959,7 @@ sk.cambaddies.com
 sk.celebjihad.live
 sk.drtuberlive.com
 sk.hot-india.com
+sk.hotliveporn.com
 sk.hotzcam.com
 sk.myavlive.com
 sk.mycamtv.com
@@ -4857,6 +5003,7 @@ solutions.mycamtv.com
 solutions.sexygirlspics.live
 solutions.spankbanglive.com
 solutions.xham.live
+sonar.xmates.com
 soundcloud.cambaddies.com
 soundcloud.hot-india.com
 souvr2.xhamsterlive.info
@@ -4917,6 +5064,7 @@ sso.sexygirlspics.live
 sso.shemale.show
 sso.spankbanglive.com
 sso.strip-chat.club
+sso.stripchat.dk
 sso.stripchat.io
 sso.stripchat.lgbt
 sso.stripchat.ooo
@@ -4928,6 +5076,7 @@ sso.xham.live
 sso.xhlive.cam
 sso.xhlive.org
 staff1.chiccams.com
+stage2.sctestwl.com
 staging.aznudelive.com
 staging.boyfriend.show
 staging.cambaddies.com
@@ -4952,6 +5101,10 @@ staging.xham.live
 staging.xhamsterlive.info
 staging.xhlive.net
 staging.xhlive.org
+staging1.hotzcam.com
+staging1.sexfortokens.com
+staging2.hot-india.com
+staging3.fikfapcams.com
 start.boyfriend.show
 start.drtuberlive.com
 start.hot-india.com
@@ -4982,6 +5135,9 @@ stats.hot-india.com
 stats.instantfapcams.com
 stats.porndudecams.com
 stats.spankbanglive.com
+status.hotzcam.com
+stg.heelscamroom.com
+stg.nsfwlivechat.com
 stg.xhamsterlive.info
 storage.aznudelive.com
 storage.boyfriend.show
@@ -5173,6 +5329,7 @@ terms.shemale.show
 terms.spankbanglive.com
 terms.tranny.show
 terms.xham.live
+test2.spankbanglive.com
 testdevelocidadcomcel.xhamsterlive.info
 testing.aznudelive.com
 testing.boyfriend.show
@@ -5269,8 +5426,12 @@ tokens.rarecams.com
 tokens.sexygirlspics.live
 tokens.xham.live
 tokens.xhlive.net
+tools.cambaddies.com
 tools.de.omg.adult
 tools.fr.drtuberlive.com
+tools.rarecams.com
+tools.sexfortokens.com
+tools.xhlive.org
 tour.cambaddies.com
 tour.celebjihad.live
 tour.drtuberlive.com
@@ -5389,6 +5550,7 @@ tranquilit2.myavlive.com
 transactions.boyfriend.show
 transactions.cambaddies.com
 transactions.camsplanetlive.com
+transactions.celebjihad.live
 transactions.hot-india.com
 transactions.omg.adult
 transactions.spankbanglive.com
@@ -5680,6 +5842,7 @@ v1.tklivechat.com
 v1.xham.live
 v117.tklivechat.com
 v2-www.stripchat.beeg.com
+v2.chiccams.com
 v2.live7mm.tv
 v220201165982134187.myavlive.com
 v2202107152246157745.myavlive.com
@@ -5689,6 +5852,8 @@ vacc2.myavlive.com
 vakansii.hot-india.com
 vastersolf144.myavlive.com
 vaude.myavlive.com
+vault.colsex.com
+vault.sexchatters.com
 vault01.shemale.show
 vault25.myavlive.com
 vdglaw.myavlive.com
@@ -5716,6 +5881,7 @@ vi.cambaddies.com
 vi.camsplanetlive.com
 vi.celebjihad.live
 vi.drtuberlive.com
+vi.fikfapcams.com
 vi.hot-india.com
 vi.hotzcam.com
 vi.live.herecams.com
@@ -5904,6 +6070,7 @@ wallet.stripchats.global
 wallet.tranny.show
 wallpaper.go.xham.live
 wanttowatchdocs.chiccams.com
+wap.spankbanglive.com
 wasserbettbedarf1.myavlive.com
 watch.boyfriend.show
 watch.cambaddies.com
@@ -5920,7 +6087,9 @@ watch.tklivechat.com
 watchpacquiaovsmarquez3liveonline1.cambaddies.com
 waugi-lg.myavlive.com
 web-empresa.omg.adult
+web.hot-india.com
 web.xmates.com
+web02.sexchatters.com
 web144.chiccams.com
 web17.go.myavlive.com
 web2.cambaddies.com
@@ -5969,6 +6138,7 @@ webmail.myavlive.com
 webmail.mycamtv.com
 webmail.nsfwlivechat.com
 webmail.old.camsplanetlive.com
+webmail.omg.adult
 webmail.perfectgirls.live
 webmail.sexfortokens.com
 webmail.stripchat.direct
@@ -6020,6 +6190,8 @@ wizardly-pasteur.myavlive.com
 wonderfulkaku.boyfriend.show
 workdeena.myavlive.com
 workshopvacs.myavlive.com
+workspace.cambaddies.com
+workspace.hotliveporn.com
 workspace.showtime-cams.live
 workspace.stripchat.be
 worldtradeavi.boyfriend.show
@@ -6052,20 +6224,26 @@ www.cambaddies.com
 www.cams-showtime.live
 www.camsplanetlive.com
 www.celebjihad.live
+www.chiccams.com
+www.chiccams.comwww.chiccams.com
 www.creative.boyfriend.show
 www.creative.myavlive.com
 www.creative.rarecams.com
+www.creative.sexchatters.comcreative.sexchatters.com
 www.cruise.xhlive.cam
 www.cruises.boyfriend.show
 www.cs.hotzcam.comcs.hotzcam.com
 www.cs.rarecams.com
+www.cs.sexchatters.com
 www.cs.stripchat.direct
+www.cs.stripchat.directcs.stripchat.direct
 www.da.hotzcam.com
 www.database.stripchat.beeg.com
 www.de.celebjihad.live
 www.de.drtuberlive.com
 www.de.hotzcam.com
 www.de.nsfwlivechat.com
+www.de.shemale.show
 www.de.showtime-cams.live
 www.de.stripchat2.com
 www.de.xhlive.net
@@ -6110,6 +6288,7 @@ www.jira.omg.adult
 www.kinkscams.com
 www.ko.cambaddies.com
 www.live7mm.tv
+www.liveandsexy.cam
 www.lms.myavlive.com
 www.ms.hotzcam.comms.hotzcam.com
 www.ms.xhlive.camms.xhlive.cam
@@ -6136,6 +6315,7 @@ www.pt.shemale.show
 www.pt.xhlive.net
 www.quebec.chiccams.com
 www.rarecams.com
+www.ro.boyfriend.show
 www.ro.nsfwlivechat.com
 www.ro.rarecams.com
 www.rt.stripchat2.comrt.stripchat2.com
@@ -6169,6 +6349,7 @@ www.sv.hotzcam.com
 www.tiktits.com
 www.tr.hotliveporn.com
 www.tr.live7mm.tv
+www.tr.sctestwl.com
 www.tr.stripchats.global
 www.tr.tranny.show
 www.tr.xhamsterlive.infotr.xhamsterlive.info
@@ -6190,6 +6371,7 @@ www.xhlive.net
 www.xmates.com
 www.zh.boyfriend.show
 www.zh.hotzcam.com
+www.zh.live7mm.tv
 www.zh.spankbanglive.com
 www.zh.stripchat.direct
 www.zh.stripchats.global
@@ -6198,6 +6380,7 @@ www.zt.colsex.com
 www.zt.sexchatters.comzt.sexchatters.com
 www.zt.stripchat.direct
 www.zt.xhlive.cam
+www2.aznudelive.com
 www2a.myavlive.com
 www3281up.myavlive.com
 www4264up.myavlive.com
@@ -6356,6 +6539,7 @@ zh.camsplanetlive.com
 zh.celebjihad.live
 zh.chiccams.com
 zh.colsex.com
+zh.darmowesexkamerki.com
 zh.drtuberlive.com
 zh.extensions.myavlive.com
 zh.fikfapcams.com
@@ -6438,9 +6622,11 @@ zt.liveandsexy.cam
 zt.myavlive.com
 zt.mycamtv.com
 zt.omg.adult
+zt.perfectgirls.live
 zt.porndudecams.com
 zt.sc7.com
 zt.sc8.com
+zt.sexchatters.com
 zt.sexfortokens.com
 zt.sexygirlspics.live
 zt.shemale.show
@@ -6465,6 +6651,7 @@ zyxel.heelscamroom.com
 ar.livesextape.com
 eff6743c-caa4-48bb-ab72-f3a43bf81e0e.random.livesextape.com
 fr.livesextape.com
+go.livesextape.com
 tr.livesextape.com
 www.livesextape.com
 zh.livesextape.com

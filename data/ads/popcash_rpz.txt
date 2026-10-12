@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791552043211        ; Serial
+           1791806551628        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -35,6 +35,7 @@ cdn.cjlph.com CNAME .
 cdn.clbaf.com CNAME .
 cdn.crsope.com CNAME .
 cdn.cryjun.com CNAME .
+cdn.danwosd.cloud CNAME .
 cdn.dawplm.com CNAME .
 cdn.decpo.xyz CNAME .
 cdn.delutza.com CNAME .
@@ -94,6 +95,7 @@ cdn.npcta.xyz CNAME .
 cdn.nuqwe.com CNAME .
 cdn.orjfun.com CNAME .
 cdn.paluinho.cloud CNAME .
+cdn.paqod.com CNAME .
 cdn.pctv.xyz CNAME .
 cdn.pfiuyt.com CNAME .
 cdn.piuyt.com CNAME .
@@ -113,6 +115,7 @@ cdn.rofant.com CNAME .
 cdn.rqwel.com CNAME .
 cdn.rtyufo.com CNAME .
 cdn.sblhp.com CNAME .
+cdn.sepyok.com CNAME .
 cdn.spnut.com CNAME .
 cdn.sslph.com CNAME .
 cdn.syinga.com CNAME .
@@ -1060,4 +1063,5 @@ ss.nwmnd.com CNAME .
 stat.guidebot.org CNAME .
 stats.yootheme.com CNAME .
 thirty-good.lugg.com CNAME .
+ua.daito.io CNAME .
 video.adsninja.ca CNAME .

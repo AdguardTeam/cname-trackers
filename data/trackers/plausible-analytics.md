@@ -239,7 +239,6 @@
 | s.nerdfulmind.com | custom.plausible.io |
 | s.pjh.is | custom.plausible.io |
 | s.repguard.uk | custom.plausible.io |
-| s.saucisson-rebellion.fr | custom.plausible.io |
 | s.sporks.space | custom.plausible.io |
 | s.stgeorgeafc.com.au | custom.plausible.io |
 | s.testingreactjs.com | custom.plausible.io |

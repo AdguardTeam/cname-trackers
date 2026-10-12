@@ -51,6 +51,7 @@
     * el-static.aquaplatform.com
     * faithlife-console.aquaplatform.com
     * faithlife-delivery.aquaplatform.com
+    * famag-console.aquaplatform.com
     * famag-static.aquaplatform.com
     * fsr-cdn.aquaplatform.com
     * fsr-console.aquaplatform.com
@@ -78,7 +79,6 @@
     * livingmag-console.aquaplatform.com
     * livingmag-delivery.aquaplatform.com
     * livingmag-static.aquaplatform.com
-    * localmatchmaker-console.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
     * localmatchmaker-static.aquaplatform.com
     * mannix-api.aquaplatform.com
@@ -94,6 +94,7 @@
     * midtc3-delivery.aquaplatform.com
     * midtc4-delivery.aquaplatform.com
     * midtc5-delivery.aquaplatform.com
+    * mondiale-console.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
     * mondiale-static.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
@@ -170,7 +171,9 @@
 | console.ammoland.com | ammoland-console.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
 | static.ammoland.com | ammoland-static.aquaplatform.com |
+| console.fnch.ch | artionet-console.aquaplatform.com |
 | console.swiss-equestrian.ch | artionet-console.aquaplatform.com |
+| console.worldofshowjumping.com | artionet-console.aquaplatform.com |
 | ads.fnch.ch | artionet-delivery.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
 | ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
@@ -240,7 +243,9 @@
 | static.environmentalleader.com | el-static.aquaplatform.com |
 | console.faithlifeads.com | faithlife-console.aquaplatform.com |
 | serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
+| console.fa-mag.com | famag-console.aquaplatform.com |
 | static.fa-mag.com | famag-static.aquaplatform.com |
+| static.ads.fanta-olimpiadi.com | fsr-cdn.aquaplatform.com |
 | static.ads.fantasanremo.com | fsr-cdn.aquaplatform.com |
 | console.ads.fanta-olimpiadi.com | fsr-console.aquaplatform.com |
 | delivery.ads.fantagiroditalia.it | fsr-delivery.aquaplatform.com |
@@ -266,6 +271,7 @@
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
 | console.atlantamagazine.com | hourmedia-console.aquaplatform.com |
 | console.cincinnatimagazine.com | hourmedia-console.aquaplatform.com |
+| console.geminipub.com | hourmedia-console.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
 | console.hour-media.com | hourmedia-console.aquaplatform.com |
 | console.palmbeachmedia.com | hourmedia-console.aquaplatform.com |
@@ -304,7 +310,6 @@
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | www.static.livingmagonline.com | livingmag-static.aquaplatform.com |
-| console.rlnads.net | localmatchmaker-console.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
 | ad-api.mannixmarketing.com | mannix-api.aquaplatform.com |
@@ -321,6 +326,7 @@
 | pawads.midtc.com | midtc3-delivery.aquaplatform.com |
 | adamsads.midtc.com | midtc4-delivery.aquaplatform.com |
 | media360ads.midtc.com | midtc5-delivery.aquaplatform.com |
+| console.mondiale.co.uk | mondiale-console.aquaplatform.com |
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | static.mondiale.co.uk | mondiale-static.aquaplatform.com |
@@ -328,6 +334,7 @@
 | cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
 | static.notgoingtouni.co.uk | ngtu-static.aquaplatform.com |
 | console.everythingcolorado.com | oneboat-console.aquaplatform.com |
+| console.everythingnevada.com | oneboat-console.aquaplatform.com |
 | console.imagineobx.com | oneboat-console.aquaplatform.com |
 | servedby.everythingcolorado.com | oneboat-delivery.aquaplatform.com |
 | servedby.everythingnevada.com | oneboat-delivery.aquaplatform.com |
@@ -457,7 +464,7 @@
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | www.adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |
-| servedby.teck.com.br | tecklabs-delivery.aquaplatform.com |
+| revive.teck.com.br | tecklabs-delivery.aquaplatform.com |
 | console.trackandfieldnews.com | tfn-console.aquaplatform.com |
 | servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | www.servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |

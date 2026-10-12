@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME disguised microsites list
 # Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-# TimeUpdated: 2026-10-09T14:25:18+00:00
+# TimeUpdated: 2026-10-12T13:36:26+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 00mql4.xham.live
@@ -682,9 +682,9 @@
 2yrdfyaqqjlb3hw-p.adktrack53.xyz
 30937441a9.a1b1d711f0.com
 30cirt2vjxlboqm-p.adktrack53.xyz
+315a1ba2e7.1467d51363.com
 3296eca09c.f175d7449e.com
 32f511eaba.232f8b7804.com
-339e1113be.4f8ba4d7e8.com
 348cfad01d.c95bc8cfca.com
 35dac4b975.7c2af3d205.com
 360b4e75ff.5faef21d1e.com
@@ -1002,13 +1002,12 @@ a193.chiccams.com
 a235.aleteia.org
 a235.ctnews.com
 a235.ctpost.com
+a235.gametimect.com
 a235.htvnativeadsolutions.com
 a235.lmtonline.com
 a235.mrt.com
-a235.newstimes.com
 a235.nhregister.com
 a235.ourmidland.com
-a235.registercitizen.com
 a235.sfgate.com
 a235.timesunion.com
 a2rhoet1piz5nd9-p.adktrack44.xyz
@@ -1219,6 +1218,7 @@ addon-hellomagazineoperation.share.ntv.io
 addon-hellomagazineresolveaccept.share.ntv.io
 addon-hellomagazinevmware.share.ntv.io
 addon.share.ntv.io
+addons-api-docs-resolveacceptacc.15.apollo.share.ntv.io
 addons-apolloakaliaccess.avalt.share.ntv.io
 addons-apps.avalt.share.ntv.io
 addons-ftp4.avalt.share.ntv.io
@@ -1279,6 +1279,7 @@ admin-staticalt-ann.share.ntv.io
 admin-staticalt-anntastingtable.share.ntv.io
 admin-staticresolveaccept.share.ntv.io
 admin-statictastingtable.share.ntv.io
+admin.apolloakali.share.ntv.io
 admin.aznudelive.com
 admin.boyfriend.show
 admin.cambaddies.com
@@ -1287,6 +1288,7 @@ admin.celebjihad.live
 admin.colsex.com
 admin.darnelgroup.com
 admin.drtuberlive.com
+admin.fikfapcams.com
 admin.hot-india.com
 admin.hotzcam.com
 admin.instantfapcams.com
@@ -1337,6 +1339,7 @@ admin2-alt-ann.nj.share.ntv.io
 admin4-alt-ann-2019.altad.share.ntv.io
 administrator-api-docs-resolve.share.ntv.io
 administrator-direct11.alt.share.ntv.io
+administrator-faithinthenews.share.ntv.io
 administrator-proxy.littlethings.share.ntv.io
 administrator.justapinch.share.ntv.io
 administratorav.21.auth-resolveann.share.ntv.io
@@ -1769,6 +1772,7 @@ alt-anning1.dev1.share.ntv.io
 alt-annoceania.share.ntv.io
 alt-annproxy.littlethings.share.ntv.io
 alt-annsample.share.ntv.io
+alt-anntrac.share.ntv.io
 alt-anntv.share.ntv.io
 alt-anntwitch.share.ntv.io
 alt-apollo-book.share.ntv.io
@@ -1845,6 +1849,7 @@ altadfinancemailbackup.avalt.share.ntv.io
 altadmsoid.share.ntv.io
 altadpage.share.ntv.io
 altadpruebas.share.ntv.io
+altadv0.share.ntv.io
 altalex.wolterskluwer.com
 altalpha.share.ntv.io
 altapi-docs-resolvewesteurope.share.ntv.io
@@ -2048,6 +2053,7 @@ analytics.airtv.net
 analytics.amwell.systems
 analytics.angelone.in
 analytics.apollo-accept.share.ntv.io
+analytics.cambaddies.com
 analytics.flexpay.io
 analytics.globality.com
 analytics.hello.axaxl.com
@@ -2137,6 +2143,8 @@ api-api-docs-resolveopenbsd.share.ntv.io
 api-api-docs-resolvesc.share.ntv.io
 api-api-docs-resolvesupport.share.ntv.io
 api-dev.boyfriend.show
+api-dev.heelscamroom.com
+api-dev.sexchatters.com
 api-docs-11track-l.share.ntv.io
 api-docs-altad-ora.share.ntv.io
 api-docs-apache.share.ntv.io
@@ -2381,6 +2389,7 @@ api.boyfriend.show
 api.cambaddies.com
 api.colsex.com
 api.drtuberlive.com
+api.fikfapcams.com
 api.hot-india.com
 api.hotzcam.com
 api.instantfapcams.com
@@ -2427,6 +2436,7 @@ api0altad-help.share.ntv.io
 api0altad-staff.share.ntv.io
 api0altad-test-qa-edge.share.ntv.io
 api0altad.cnn.share.ntv.io
+api0altad19.altad.share.ntv.io
 api0altadengima.share.ntv.io
 api0altadglobal.share.ntv.io
 api0altadipv5.share.ntv.io
@@ -2671,6 +2681,7 @@ apm.strp.chat
 apm.tklivechat.com
 apm.tranny.show
 apm.xhlive.org
+apnews.share.ntv.io
 apollo-accept-11ticket.share.ntv.io
 apollo-accept-agenda-web1.share.ntv.io
 apollo-accept-auth-resolvefeedback.share.ntv.io
@@ -2810,6 +2821,7 @@ apollo-updatetech.ajc.share.ntv.io
 apollo.api3.auth-resolve.share.ntv.io
 apollo.apollo-accept.share.ntv.io
 apollo.boyfriend.show
+apollo.dev1mail.share.ntv.io
 apollo.tech.ajc.share.ntv.io
 apollo15s1.apollo.share.ntv.io
 apolloakali-6.apolloakali.share.ntv.io
@@ -3181,6 +3193,7 @@ app.markkinointi.aller.fi
 app.massmutualcenter.com
 app.meangreensports.com
 app.merchant.bankofamerica.com
+app.metrotix.com
 app.mgoblue.com
 app.miamiredhawks.com
 app.mjec.ca
@@ -3381,11 +3394,15 @@ app.xhlive.cam
 app.xhlive.net
 app.xhlive.org
 app.xtreamarena.com
+app.yalebulldogs.com
 app.your.csc.com
 app.your.level3.com
 app.zmail.zionsbank.com
 app1.myavlive.com
 app2-ownercenter-pp.spankbanglive.com
+app2.chiccams.com
+app2.colsex.com
+app2.hotzcam.com
 appapache-auth.altad.share.ntv.io
 appapache-celtra.altad.share.ntv.io
 appapache-devel.altad.share.ntv.io
@@ -3424,6 +3441,7 @@ apps-ipv5.apolloakali.share.ntv.io
 apps.campirates.com
 apps.cx.motivcx.com
 apps.go.hobsons.com
+apps.hotliveporn.com
 apps.imaginecommunications.com
 apps.info.convio.com
 apps.info.digidesign.com
@@ -3432,6 +3450,7 @@ apps.porndudecams.com
 apps.sc8.com
 apps.shemale.show
 apps.software.netsimplicity.com
+apps.spankbanglive.com
 apps.stripchat.ooo
 apps.strp.chat
 apps.tklivechat.com
@@ -3577,6 +3596,9 @@ archived.first.eloqua.extrahop.com
 archived.learn.eloqua.extrahop.com
 areyoumynosymother.cambaddies.com
 areyoumynosymother.hot-india.com
+argo.aznudelive.com
+argo.kinkscams.com
+argo.rarecams.com
 argyle.spankbanglive.com
 arif-bloggers.xhamsterlive.info
 arivatecs.myavlive.com
@@ -3782,6 +3804,7 @@ auth.campirates.com
 auth.camsplanetlive.com
 auth.celebjihad.live
 auth.drtuberlive.com
+auth.fikfapcams.com
 auth.hot-india.com
 auth.hotzcam.com
 auth.live7mm.tv
@@ -3834,6 +3857,7 @@ automobilemag.share.ntv.io
 automobilemagapi3-auth-resolve.share.ntv.io
 automobilemagcontrol.fortune.share.ntv.io
 automotive-business.vodafone.com
+automotive.kangan.edu.au
 av-bsd.21.auth-resolveann.share.ntv.io
 av-cas.21.auth-resolveann.share.ntv.io
 av-d.21.auth-resolveann.share.ntv.io
@@ -3998,6 +4022,7 @@ b62d39f45b.5432d3dec4.com
 b711cf9cb3.d38d17ece3.com
 b7ooagmievxajkf-p.akming.xyz
 b81b9a2218.4a1bd5bf84.com
+b85752dc92.14c9b8ef90.com
 b8674cced7.9553b817da.com
 b89qk7rktxi64102-agenda-novell.share.ntv.io
 b89qk7rktxi64102-preview.share.ntv.io
@@ -4009,18 +4034,19 @@ b99f491c18.2f6236ba47.com
 b9c25f0a62.6232aa429a.com
 b9d9e136c0.0c45fdeae9.com
 ba7d131e6c.c217557361.com
-baba8a23e6.59a1c2d82c.com
 backend-csoonline.share.ntv.io
 backend.addons.15.apollo.share.ntv.io
 backend.agendaapi-api-docs-resolve.share.ntv.io
 backend.apollo-accept.share.ntv.io
 backend.aznudelive.com
+backend.camsplanetlive.com
 backend.mailbackup.avalt.share.ntv.io
 backend.xhamsterlive.info
 backendjustapinch.share.ntv.io
 backendmynorthwest.share.ntv.io
 backendthehill.share.ntv.io
 backoffice.boyfriend.show
+backoffice.drtuberlive.com
 backoffice.hot-india.com
 backoffice.jerkandsquirtcam.com
 backoffice.omg.adult
@@ -4030,7 +4056,9 @@ backoffice.spankbanglive.com
 backoffice.strp.chat
 backoffice.tranny.show
 backoffice.xmates.com
+backup.fikfapcams.com
 backup.showtime-cams.live
+backup.spankbanglive.com
 backuplanding.ubm-events.com
 backups-16menshealth.share.ntv.io
 backups-19-bugs.altad.share.ntv.io
@@ -4049,6 +4077,7 @@ backups-19ldap.altad.share.ntv.io
 backups-19oa.altad.share.ntv.io
 backups-19priv.altad.share.ntv.io
 backups-19promotion.altad.share.ntv.io
+backups-19webconf.altad.share.ntv.io
 backups-19weblog.altad.share.ntv.io
 backups-21.fortune.share.ntv.io
 backups-21dev1.share.ntv.io
@@ -4278,6 +4307,7 @@ bloomberg-alp-edge.auth-resolve.share.ntv.io
 bloomberg-alp-edge.sql.alt-ann.share.ntv.io
 bloomberg-alp-edgewordpress-alt-ann.share.ntv.io
 bloomberg-api3.auth-resolve.share.ntv.io
+bloomberg-chron.share.ntv.io
 bloomberg.agenda-novell.share.ntv.io
 bloomberg.banner.dev1.share.ntv.io
 blue-pages.levelblue.com
@@ -4297,9 +4327,11 @@ bn.perfectgirls.live
 bn.sc7.com
 bn.sc8.com
 bn.sexchatters.com
+bn.sexfortokens.com
 bn.shemale.show
 bn.spankbanglive.com
 bn.strip-chat.club
+bn.stripchat.beeg.com
 bn.stripchat.dk
 bn.stripchat.io
 bn.stripchat.ooo
@@ -4316,6 +4348,7 @@ board-instyle-stamfordadvocateforos.share.ntv.io
 board-instyle.share.ntv.io
 board-instyleapi3-auth-resolve.share.ntv.io
 board-instylemiembrosalt-ann.share.ntv.io
+board.86cams.com
 boardmotortrend.share.ntv.io
 boards-dev1.share.ntv.io
 boardsource.aon.com
@@ -4327,6 +4360,7 @@ bossip-addons.15.apollo.share.ntv.io
 bossip-alt-gallery.share.ntv.io
 bossip-altdeveloper.share.ntv.io
 bossip-bug-brand.share.ntv.io
+bossip-corp.share.ntv.io
 bossip-facebookavalt.share.ntv.io
 bossip-finance.share.ntv.io
 bossip-investopedia.share.ntv.io
@@ -4410,9 +4444,11 @@ br.camsplanetlive.com
 br.celebjihad.live
 br.colsex.com
 br.colsex.combr.colsex.com
+br.darmowesexkamerki.com
 br.drtuberlive.com
 br.fikfapcams.com
 br.hot-india.com
+br.hotliveporn.com
 br.hotzcam.com
 br.instantfapcams.com
 br.live7mm.tv
@@ -4445,6 +4481,7 @@ br.xham.live
 br.xhlive.cam
 br.xhlive.net
 br.xhlive.org
+br.xmates.com
 branchout.pegs.com
 brand-resolve-da.share.ntv.io
 brand.adp.ca
@@ -4774,6 +4811,7 @@ by.mywd.com
 bywmfadnqpatnt1-c.adktrack35.xyz
 bz4pvfbknszm8hd-p.adkoffer.fr
 c-dev1.share.ntv.io
+c.mktg.genesys.com
 c.ntv.io
 c0349eb0-28fb-48be-b636-b866060fb0a1.random.live7mm.tv
 c049225918ebb8959cf673f2c288d268.myavlive.com
@@ -4825,6 +4863,8 @@ cajkeuowcioldrz-c.unenoteunjour.fr
 cal.apollo-addon.share.ntv.io
 calc02fcoha.myavlive.com
 calculejuros.myavlive.com
+calendar.sexfortokens.com
+calendar.xhlive.cam
 calendarconf.19.altad.share.ntv.io
 calgaryrealestate.myavlive.com
 calibration.ni.com
@@ -4985,11 +5025,13 @@ cccc.spankbanglive.com
 cccc.stripchat.beeg.com
 cccc.strp.chat
 cccc.tklivechat.com
+cccc.xmates.com
 ccccdisable.stripchat.beeg.com
 ccccdrop.stripchat.beeg.com
 ccccmeta.stripchat.beeg.com
 ccl.xham.live
 cd.chemistanddruggist.co.uk
+cd.hotliveporn.com
 cd51846d21.0535fcc65e.com
 cd8ea0fe7a.9e47574bc6.com
 cdfsmtp.myavlive.com
@@ -5004,9 +5046,12 @@ cdn.avalt-s1.share.ntv.io
 cdn.cccc.hot-india.com
 cdn.designs.21.auth-resolveann.share.ntv.io
 cdn.hot-india.com
+cdn.porndudecams.com
+cdn.sexchatters.com
 cdn.share.ntv.io
 cdn.sw.omg.adult
 cdn.xham.live
+cdn.xmates.com
 cdn1.aznudelive.com
 cdn1.boyfriend.show
 cdn1.cambaddies.com
@@ -5096,8 +5141,10 @@ chasethetrend.tech.ajc.share.ntv.io
 chasethetrendavalt-s1.share.ntv.io
 chasethetrendthehill.share.ntv.io
 chat-stamfordadvocate.share.ntv.io
+chat.fikfapcams.com
 chat.forddirectdealers.com
 chat.test.nudescam18.com
+chat.xmates.com
 chat2019.altad.share.ntv.io
 chatbot.cambaddies.com
 chatbot.celebjihad.live
@@ -5345,6 +5392,7 @@ citytouch.myavlive.com
 ciudadbloggerpruebas4.xhamsterlive.info
 ckdo.cambaddies.com
 cko.boatshowdubai.com
+cko.futureblockchainsummit.com
 cko.gisec.ae
 cko.integrateme.com
 cko.ism-me.com
@@ -5585,6 +5633,7 @@ cn-zh.stripchat.beeg.com
 cn.adpinfo.com
 cn.bbbb.kinkscams.com
 cn.cz.strp.chat
+cn.fikfapcams.com
 cn.mywd.com
 cn.secure.sonosite.com
 cn.xham.live
@@ -5676,6 +5725,7 @@ communications.wherescape.com
 communications.wpcarey.com
 community.fusesource.com
 compliance.coniferhealth.com
+compollo-avalt-s1.share.ntv.io
 compute-alumni.share.ntv.io
 compute-resolveaddon.share.ntv.io
 compute-tech.ajc.share.ntv.io
@@ -5711,6 +5761,7 @@ computerworldyhellomagazine7.share.ntv.io
 computestamfordadvocate.share.ntv.io
 comtelitalia.alcatel-lucent.com
 comunicacion.usj.es
+comunicacioncorporativa.moctezuma.com.mx
 comunicaciones.pymas.com.co
 comunicazioni.bancamediolanum.it
 concord-stage.myavlive.com
@@ -5724,6 +5775,7 @@ confederation.myavlive.com
 confereexpy-nce-2-mchd-imp.myavlive.com
 conference-jp.stripchat.beeg.com
 conference.all-energy.com.au
+conference.hotzcam.com
 conferencefr.stripchat.beeg.com
 conferences.cigna.com
 conferences.sexfortokens.com
@@ -5754,6 +5806,7 @@ connect.adelaideuni.edu.au
 connect.albawani.net
 connect.arkadin.com
 connect.aucmed.edu
+connect.care.baptist-health.org
 connect.care.brgeneral.org
 connect.care.christushealth.org
 connect.care.eehealth.org
@@ -5762,6 +5815,7 @@ connect.care.lcmchealth.org
 connect.care.muschealth.org
 connect.care.orthovirginia.com
 connect.care.pennstatehealth.org
+connect.care.sheppardpratt.org
 connect.care.wakemed.org
 connect.carrier.com.ph
 connect.chamberlain.edu
@@ -5787,6 +5841,7 @@ connect.mmgnetgroup.com
 connect.montagehealth.org
 connect.mycwt.com
 connect.news.evergreenhealth.com
+connect.sctestwl.com
 connect.senecapolytechnic.ca
 connect.singlex.com
 connect.telstrawholesale.com
@@ -5895,6 +5950,7 @@ containeradmin1-alt-ann.share.ntv.io
 containerapi3-auth-resolve.share.ntv.io
 containerprep-15.apollo.share.ntv.io
 content-fr.stripchat.beeg.com
+content-kcci.share.ntv.io
 content.aircell.com
 content.aznudelive.com
 content.bazaarvoice.com
@@ -5943,6 +5999,7 @@ control.fortunefortuneprivate.share.ntv.io
 control.justapinch.share.ntv.io
 control.justapinchfortune.share.ntv.io
 control.lib-alt-fortune.share.ntv.io
+control.livecamlovetr.com
 control.production.fortune.share.ntv.io
 control.scm.fortune.share.ntv.io
 control.server.fortune.share.ntv.io
@@ -5954,6 +6011,8 @@ controlmynorthwestchimera.share.ntv.io
 controlpanel-altad.share.ntv.io
 controltelewerkappsalt.fortune.share.ntv.io
 convention.interfaceflor.com
+conversation-app.alcatel-lucent.com
+conversation-images.al-enterprise.com
 conversations.aznudelive.com
 conversations.boyfriend.show
 conversations.celebjihad.live
@@ -5996,6 +6055,7 @@ core.bossip.share.ntv.io
 coreb2c-test-internal-elr.myavlive.com
 corp-altad.share.ntv.io
 corp.dev0.api-api-docs-resolve.share.ntv.io
+corp.spankbanglive.com
 corporate-bicycling.share.ntv.io
 corporate-bug-15s1.apollo.share.ntv.io
 corporate-bug-kcci.share.ntv.io
@@ -6026,6 +6086,7 @@ cortellisconnections.thomsonreuters.com
 costefficiencies.ironmountain.com
 cotztf1w3byeuvs-p.adkplan.fr
 council.ironmountain.com
+countdown.emser.com
 coupon.aznudelive.com
 coupon.boyfriend.show
 coupon.celebjihad.live
@@ -6073,9 +6134,11 @@ creative.showtime-cams.live
 creative.strp.chat
 creative.tklivechat.com
 creative.tranny.show
+creative.wonderboobs.live
 creative.xham.live
 creative.xhlive.cam
 creative.xhlive.org
+creative.xmates.com
 creativebiblioteca.stripchat.beeg.com
 crew.celebjihad.live
 crewportal-stg.myavlive.com
@@ -6103,6 +6166,7 @@ crm.spankbanglive.com
 crm.strip-chat.club
 crm.stripchat.io
 crm.stripchat.ooo
+crm.stripchat.social
 crm.strp.chat
 crm.tiktits.com
 crm.tklivechat.com
@@ -6139,11 +6203,13 @@ cs.perfectgirls.live
 cs.porndudecams.com
 cs.sc7.com
 cs.sc8.com
+cs.sexchatters.com
 cs.sexfortokens.com
 cs.sexygirlspics.live
 cs.shemale.show
 cs.spankbanglive.com
 cs.stripchat.beeg.com
+cs.stripchat.directcs.stripchat.direct
 cs.stripchat.ooo
 cs.strp.chat
 cs.tiktits.com
@@ -6151,9 +6217,11 @@ cs.tranny.show
 cs.xham.live
 cs.xhlive.net
 cs.xhlive.org
+cs.xmates.com
 csam2.myavlive.com
 csapplications.stripchat.beeg.com
 csoonline-alt-ann.share.ntv.io
+csoonline-api-docs-resolve.share.ntv.io
 csoonline-ciotest2.share.ntv.io
 csoonline-demon.share.ntv.io
 csoonline-ja.share.ntv.io
@@ -6234,6 +6302,9 @@ cz-business.vodafone.com
 cz-cz.siemensplmevents.com
 cz-go.experian.com
 cz-mktg.vodafone.com
+cz.boyfriend.show
+cz.tiktits.com
+cz.xmates.com
 czhelp.stripchat.beeg.com
 d-251240.myavlive.com
 d-alt-ann.share.ntv.io
@@ -6300,6 +6371,7 @@ da.spankbanglive.com
 da.tiktits.com
 da.xham.live
 da.xhlive.net
+da.xmates.com
 da9lqe5twg3arin-p.linkomo.fr
 dac.xham.live
 dacor.samsungusa.com
@@ -6391,6 +6463,7 @@ data.avalt-intra.share.ntv.io
 data.guardianbikes.com
 data.hlgoak7s6qdymrme.share.ntv.io
 dataagenda-novell.share.ntv.io
+database.omg.adult
 database.tranny.show
 datai.theice.com
 datainternal.littlethings.share.ntv.io
@@ -6453,6 +6526,7 @@ de.86cams.com
 de.aznudelive.com
 de.boyfriend.show
 de.cambaddies.com
+de.camsplanetlive.com
 de.celebjihad.live
 de.contact.alphabet.com
 de.darmowesexkamerki.com
@@ -6460,6 +6534,7 @@ de.drtuberlive.com
 de.eronite.chat
 de.fikfapcams.com
 de.hot-india.com
+de.hotliveporn.com
 de.hotzcam.com
 de.instantfapcams.com
 de.liveandsexy.cam
@@ -6469,6 +6544,7 @@ de.mycamtv.com
 de.mywd.com
 de.nsfwlivechat.com
 de.omg.adult
+de.perfectgirls.live
 de.porndudecams.com
 de.sc7.com
 de.sc8.com
@@ -6479,11 +6555,13 @@ de.sexygirlspics.live
 de.shemale.show
 de.showtime-cams.live
 de.spankbanglive.com
+de.strip-chat.club
 de.stripchat.beeg.com
 de.stripchat.dk
 de.stripchat.io
 de.stripchat.ooo
 de.stripchat.porn
+de.stripchat2.com
 de.stripchats.global
 de.stripxlive.com
 de.strp.chat
@@ -6495,6 +6573,7 @@ de.xhamsterlive.info
 de.xhlive.cam
 de.xhlive.net
 de.xhlive.org
+de.xmates.com
 de58e91cfa.c8a2ed3bd7.com
 deals.aznudelive.com
 deals.boyfriend.show
@@ -6510,6 +6589,7 @@ deals.stripchats.global
 deals.tiktits.com
 deals.tklivechat.com
 deals.xham.live
+decorex.ubm-events.com
 decstamfordadvocate.beta.theledger.share.ntv.io
 decstamfordadvocate.share.ntv.io
 decstamfordadvocateaccounting.share.ntv.io
@@ -6585,6 +6665,7 @@ deploy-mynorthwestlocal.share.ntv.io
 deploy-sonomamag.share.ntv.io
 deploy.myavlive.com
 deploy.robbreport.share.ntv.io
+deploy.stripchat.news
 deploy.stripchat.porn
 deploy11ticket.alt.share.ntv.io
 deployapi3.auth-resolve.share.ntv.io
@@ -6614,6 +6695,7 @@ details.pella.com
 detwitch.stripchat.beeg.com
 deu-stg.myavlive.com
 dev-altdeveloper.share.ntv.io
+dev-api.myavlive.com
 dev-apigw-2-pdun.myavlive.com
 dev-asicentral-01d12280f235250fc7devaos.myavlive.com
 dev-auto-3837f7fb9925fa78b5devecom.myavlive.com
@@ -6622,6 +6704,7 @@ dev-edge-southernkitchen.share.ntv.io
 dev-plan.intel.com
 dev-promo.yahoo-mbga.jp
 dev-tracking.babycenter.com
+dev.campirates.com
 dev.marketing.championhomes.com
 dev.marketing.skylinehomes.com
 dev.sc7.com
@@ -6737,12 +6820,15 @@ dev2-api-docs-resolve.share.ntv.io
 dev2-atlas.19.altad.share.ntv.io
 dev2.fikfapcams.com
 dev3.api-docs-resolveaccept.share.ntv.io
+dev3.cambaddies.com
 dev3.xmates.com
 dev4-simple-cf-bloomberg-alp-edge.avalt.share.ntv.io
 dev4.avalt-simple-cf-teslarati-com-v3-edge.share.ntv.io
 dev4.avalt.pay-hellomagazine.share.ntv.io
 dev4.avalt.share.ntv.io
 devcloud-259a5974.myavlive.com
+devel.live7mm.tv
+devel.nudescam18.com
 developer-avalt-s1.share.ntv.io
 developer.alt-ann.mailadmin.share.ntv.io
 developer.alt-ann.share.ntv.io
@@ -7022,8 +7108,10 @@ dns.apps.apolloakali.share.ntv.io
 dns91150.myavlive.com
 dnsbl.test.cambaddies.com
 dnsbl.test.creative.myavlive.com
+dnsbl.test.go.celebjihad.live
 dnsbl.test.go.stripchat.beeg.com
 doc-addonsaccount.15.apollo.share.ntv.io
+doc.boyfriend.show
 docagenda.21.auth-resolveann.share.ntv.io
 docbossip.share.ntv.io
 docker-apollo-accept.share.ntv.io
@@ -7283,7 +7371,6 @@ e019ad47-16e9-4eed-94c3-67fad7deb43d.myavlive.com
 e019bc648533e013c1678800a0eef4e2.myavlive.com
 e022327d400e0fd6df4e02315adcbf03.myavlive.com
 e067d0592ae78013a47c92e66f431e98.myavlive.com
-e0cdb22bb8.be49243583.com
 e1008d4eed.e8564333b8.com
 e13464d51adcaf426292da665c32ac4a.myavlive.com
 e1c.curtisswrightds.com
@@ -7410,6 +7497,7 @@ ed1.comcastbiz.com
 ed8cd90429.edc0ff6308.com
 edge-apollo-addon.share.ntv.io
 edge.event.apolloakali.share.ntv.io
+edge.myavlive.com
 edge.ricoh-europe.com
 edge.stripchat.company
 edge2uk02.myavlive.com
@@ -7452,6 +7540,7 @@ ees.employerservices.experian.com
 ef852f058cd8c7c1f26b41f6e189568c.myavlive.com
 eff6743c-caa4-48bb-ab72-f3a43bf81e0e.random.livesextape.com
 efimu2wfbbnszqt-p.adktrack34.xyz
+eformsonboarding.globalbanking.wolterskluwer.com
 ehd6xj9keftozia-p.adkoffer.fr
 ehjezdemo.myavlive.com
 ehjtrkcyiewnj5w-c.bonnelectureatous.fr
@@ -7469,21 +7558,25 @@ el.assets.tiktits.com
 el.aznudelive.com
 el.boyfriend.show
 el.cambaddies.com
+el.camsplanetlive.com
 el.celebjihad.live
 el.drtuberlive.com
 el.fikfapcams.com
 el.hot-india.com
 el.hotliveporn.com
 el.hotzcam.com
+el.instantfapcams.com
 el.kinkscams.com
 el.myavlive.com
 el.mycamtv.com
 el.nsfwlivechat.com
 el.omg.adult
 el.perfectgirls.live
+el.rarecams.com
 el.sc7.com
 el.sc8.com
 el.sexchatters.com
+el.sexfortokens.com
 el.sexygirlspics.live
 el.shemale.show
 el.showtime-cams.live
@@ -7496,11 +7589,14 @@ el.strp.chat
 el.tiktits.com
 el.tklivechat.com
 el.tranny.show
+el.wonderboobs.live
 el.xham.live
 el.xhlive.net
 el.xhlive.org
 elastic-mestorf.myavlive.com
 elastic.dallasnews.share.ntv.io
+elastic.spankbanglive.com
+elastic.tiktits.com
 elastic.xhlive.net
 elasticbeanstalk-apolloakali.share.ntv.io
 elasticbeanstalk-free.share.ntv.io
@@ -7575,6 +7671,7 @@ eloqua.radware.com
 eloqua.renesas.com
 eloqua.roundcause.com
 eloqua.soprasteria.co.uk
+eloqua.star-semicon.com
 eloqua.syslog-ng.com
 eloqua.undergraduateexam.in
 eloqua.upstreamintel.com
@@ -7810,6 +7907,7 @@ email-cm.jllsweden.se
 email-cm.joneslanglasalle.co.jp
 email-cm.joneslanglasalle.com.vn
 email-cm.stage-in.jll.com
+email-cm.stage-jp.jll.com
 email-em.jll-mena.com
 email-em.jll.ch
 email-em.jll.co.il
@@ -8126,6 +8224,7 @@ es.colsex.com
 es.drtuberlive.com
 es.fikfapcams.com
 es.hot-india.com
+es.hotliveporn.com
 es.hotzcam.com
 es.instantfapcams.com
 es.live7mm.tv
@@ -8305,6 +8404,7 @@ event.chronosapolloakali.share.ntv.io
 event.clientapolloakali.share.ntv.io
 event.clients-cioapolloakali.share.ntv.io
 event.controlakali.share.ntv.io
+event.drtuberlive.com
 event.edge2-apolloakali.share.ntv.io
 event.elasticbeanstalkapolloakali.share.ntv.io
 event.engineeringapolloakali.share.ntv.io
@@ -8399,6 +8499,7 @@ events.avaya.com
 events.axa-im.com
 events.aznudelive.com
 events.bendigotafe.edu.au
+events.camsplanetlive.com
 events.careallies.com
 events.centex.com
 events.cigna.com
@@ -8413,6 +8514,7 @@ events.glory-global.com
 events.golubcapital.com
 events.icmi.com
 events.kangan.edu.au
+events.la-z-boy.com
 events.lexmark.com
 events.marketingcube.com.au
 events.mbrl.ae
@@ -8487,6 +8589,7 @@ exchange-rates-qa.myavlive.com
 exchange.nms.go.xham.live
 exchczvp.myavlive.com
 execgroup.convio.com
+exhibit.decorex.com
 exhibit.firex.co.uk
 exhibit.kbb.co.uk
 exhibit.safety-health-expo.co.uk
@@ -8593,6 +8696,7 @@ f91ddd8816.5bdafc039a.com
 f97obe6pjhyt5ne-c.linkomo.fr
 fa-ca-dyn.myavlive.com
 fa3a1036b3.a594065edc.com
+fa74b03a0b.a0b499a4b1.com
 fa76e198650238aa83163460e6115102.myavlive.com
 fa8aea96ff.ff3cde1515.com
 fa9e3d5f1714dfa15834c550a9853628.myavlive.com
@@ -8684,7 +8788,9 @@ fec5af27be.e36c33c4d2.com
 fedexfield.redskins.com
 feed.omg.adult
 feedback.agenda.21.auth-resolveann.share.ntv.io
+feedback.camsplanetlive.com
 feedback.nslsc-csnpe.ca
+feedback.porndudecams.com
 feedback.ru.stripchat.beeg.com
 feedbackel.stripchat.beeg.com
 feeds-12.conf.19.altad.share.ntv.io
@@ -8762,6 +8868,7 @@ firemax111.myavlive.com
 firewall-downloads-apollo.share.ntv.io
 firewall.avalt.share.ntv.io
 firewall.share.ntv.io
+firex.ubm-events.com
 firstfloorfilms.myavlive.com
 firstlight.myavlive.com
 firstmonieagent.myavlive.com
@@ -8799,15 +8906,18 @@ foodandwine.avalt-intra.share.ntv.io
 foodandwine.share.ntv.io
 foodandwinesupport.share.ntv.io
 foodbrochure.advancedtech.com
+footwear.ubmfashion.com
 form.fusesource.com
 form.harvardbusiness.org
 form.ict-toshiba.jp
+form.info-morimoto-real.jp
 form.promerica.com.do
 form.vocalink.com
 forms-emea.lenovo.com
 forms-udv.myavlive.com
 forms.anthology.com
 forms.apolloakaliakamai.share.ntv.io
+forms.arabhealthonline.com
 forms.axa-im.com
 forms.b.oncourselearning.com
 forms.bankersalmanac.com
@@ -8837,6 +8947,7 @@ forms.hu.omg.adult
 forms.icis.com
 forms.infor.com
 forms.irdeto.com
+forms.ittv.net
 forms.ja.omg.adult
 forms.juniper.net
 forms.lenovo.com
@@ -8851,6 +8962,7 @@ forms.pentonmarketingservices.com
 forms.personneltoday.com
 forms.powerint.com
 forms.poweritpro.com
+forms.primetime-cams.me
 forms.progress.com
 forms.pt.strp.chat
 forms.seton.com
@@ -8917,6 +9029,7 @@ fortunev2.share.ntv.io
 fortunewin35.share.ntv.io
 fortunewsus.share.ntv.io
 forum.imap5d-appsalt.share.ntv.io
+forum.porndudecams.com
 foto-avalt.share.ntv.io
 foto-avaltbossip.share.ntv.io
 foundry-dxb.myavlive.com
@@ -9000,6 +9113,7 @@ fr.hotliveporn.com
 fr.hotzcam.com
 fr.instantfapcams.com
 fr.live7mm.tv
+fr.livecamlovetr.com
 fr.livesextape.com
 fr.myavlive.com
 fr.mycamtv.com
@@ -9158,6 +9272,7 @@ g1snmyhq80dzyvt-p.bonnelectureatous.fr
 g1wuonezmbp4hta-p.adkclicker.fr
 g2wtzjf1kdneqiy-p.clickomo.fr
 g43w0bnaoxexst9u.myavlive.com
+g47zrfi2ti15gxcb.share.ntv.io
 g4oi1cb0gspwr7j-p.adkclicker.fr
 g57.myavlive.com
 g6mhybf9erbljjri.share.ntv.io
@@ -9194,7 +9309,9 @@ gateway.aimia.com
 gateway.bbbb.stripchat.beeg.com
 gateway.bl.go.xham.live
 gateway.camsplanetlive.com
+gateway.porndudecams.com
 gateway.share.ntv.io
+gateway.xhlive.org
 gatewayfortune-agenda-novell.share.ntv.io
 gatewayfortune.share.ntv.io
 gatewayfortune.tech.ajc.share.ntv.io
@@ -9324,6 +9441,7 @@ git-apollo.share.ntv.io
 git-instyle.share.ntv.io
 git-pull.myavlive.com
 git.pressdemocrat.share.ntv.io
+git.xmates.com
 gitbicycling.share.ntv.io
 gitbrasil.auth-resolve.share.ntv.io
 github.share.ntv.io
@@ -9333,6 +9451,7 @@ githubauth-resolve.share.ntv.io
 githubauth-resolveann.share.ntv.io
 githubdownloads-apollo.share.ntv.io
 gitlab-auth-resolve.share.ntv.io
+gitlab.boyfriend.show
 gitlab.pcworld-server.share.ntv.io
 gitlab.share.ntv.io
 gitlabciotest2.share.ntv.io
@@ -9343,6 +9462,7 @@ gitlabvideo.stripchat.beeg.com
 gitn.myavlive.com
 gitosserveris.myavlive.com
 gitp.myavlive.com
+give.mcw-fhf.org
 gizmovr.strp.chat
 gkhsvl51x0fjduq-p.adktrack30.xyz
 gkvi9j3x4qdbmff-p.adkclicker.fr
@@ -9439,6 +9559,7 @@ go.cyberdefense.cisco.com
 go.da.xham.live
 go.darmowesexkamerki.com
 go.dceoinfo.illinois.gov
+go.direxion.com
 go.dmseconnect.dellmed.utexas.edu
 go.dp.intuit.com
 go.drtuberlive.com
@@ -9458,6 +9579,7 @@ go.engage.alcoaconnection.com
 go.engage.randsim.com
 go.engineeringim.com
 go.engineeringmkts.com
+go.enterprisecenter.com
 go.eronite.chat
 go.estoneworks.com
 go.event.eset.com
@@ -9510,6 +9632,7 @@ go.info.verifi.com
 go.informhcp.the-health-minute.com
 go.infos.belantis.de
 go.insinkerator.emerson.com
+go.inst.rjinvestmentmanagement.com
 go.instantfapcams.com
 go.int.vsp.com
 go.integraoptics.com
@@ -9634,6 +9757,7 @@ go.tuev.cn
 go.tuv.com
 go.ubm-events.com
 go.ubmamg-media.com
+go.ubmfashion.com
 go.ukg.com
 go.ultimatesoftware.com
 go.vi.stripchat.io
@@ -9687,6 +9811,7 @@ gr-go.experian.com
 gr-hera.stripchat.beeg.com
 gr-prod-svg.myavlive.com
 gr.asana.stripchat.beeg.com
+gr.celebjihad.live
 gr.dbuser.stripchat.beeg.com
 gr.drtuberlive.com
 gr.fikfapcams.com
@@ -9738,6 +9863,7 @@ graphql.stripchats.global
 graphql.tiktits.com
 graphql.tranny.show
 graphql.xham.live
+greencarreports.share.ntv.io
 grno.stripchat.beeg.com
 grock.myavlive.com
 groomrefer.petco.com
@@ -9958,6 +10084,7 @@ helpdesk.xhlive.net
 helpdrupal-avalt.share.ntv.io
 helphellomagazine.share.ntv.io
 heracles-br-10.myavlive.com
+heracles-littlethings.share.ntv.io
 heraeuropeaccept.share.ntv.io
 heralibraryaccept.share.ntv.io
 heraresolveaccept-apollolabs.share.ntv.io
@@ -10020,6 +10147,7 @@ holyrood.totalpolitics.com
 holzgroupsas.myavlive.com
 home-littlethings.share.ntv.io
 home.creative.celebjihad.live
+home.drtuberlive.com
 home.edm.globalsources.com
 home.el.celebjihad.live
 home.instantfapcams.com
@@ -10146,6 +10274,7 @@ hu.cambaddies.com
 hu.camsplanetlive.com
 hu.celebjihad.live
 hu.drtuberlive.com
+hu.fikfapcams.com
 hu.hot-india.com
 hu.hotliveporn.com
 hu.hotzcam.com
@@ -10178,6 +10307,7 @@ hu.xhlive.net
 hu5giij5p8aewqm4.myavlive.com
 hub.aznudelive.com
 hub.camsplanetlive.com
+hub.fikfapcams.com
 hub.stripchat.ooo
 hucommunity.stripchat.beeg.com
 hueuw.stripchat.beeg.com
@@ -10200,6 +10330,7 @@ hwcdnapi3.auth-resolve.share.ntv.io
 hwcdnfolders.21.auth-resolveann.share.ntv.io
 hwcdnsql.alt-ann.share.ntv.io
 hybrid1115.myavlive.com
+hydsecure.eaton.com
 hyland-onbase-app.myavlive.com
 hyokuni.myavlive.com
 hyperactivity.myavlive.com
@@ -10223,6 +10354,7 @@ i.alllinear.com
 i.allnestinfinite.com
 i.backups-19.altad.share.ntv.io
 i.bowintelligence.com
+i.chamberlain.edu
 i.electronicspecifier.com
 i.laketrend.com
 i.selecttopoff.com
@@ -10282,6 +10414,7 @@ id.live7mm.tv
 id.liveandsexy.cam
 id.myavlive.com
 id.mycamtv.com
+id.mywd.com
 id.nsfwlivechat.com
 id.omg.adult
 id.porndudecams.com
@@ -10465,6 +10598,7 @@ images.e.bengals.com
 images.e.brother.com
 images.e.bulls.com
 images.e.chiefs.com
+images.e.compactaprint.com.br
 images.e.congressionalfcu.org
 images.e.dolphins.com
 images.e.environicsanalytics.com
@@ -10688,10 +10822,7 @@ images.mail.discover.clarivate.com
 images.mail.dolce-gusto.de
 images.mail.tena.de
 images.mail01.learn.internationalsos.com
-images.mailaway.abritel.fr
-images.mailaway.fewo-direkt.de
 images.mailaway.homeaway.com
-images.mailaway.vrbo.com
 images.mailinfo.clarivate.com
 images.mailing.morningstar.com
 images.marketing-de.sage.com
@@ -10997,6 +11128,7 @@ info.cargoexpreso.com
 info.cegbu.oraclecloud.com
 info.cellmedicine.com
 info.chiesiusa.com
+info.clarin.com
 info.clarivate.com
 info.clarivate.jp
 info.clevelandbrowns.com
@@ -11019,6 +11151,7 @@ info.engage.3m.com
 info.engage.solventum.com
 info.entega.de
 info.enterpriseconnect.com
+info.eworks.edu.au
 info.explore.wsp.com
 info.extrahop.com
 info.fdbhealth.com
@@ -11027,6 +11160,8 @@ info.floridagators.com
 info.forms.messe-muenchen.de
 info.frbcommunications.org
 info.frbservices.org
+info.frontgrade.com
+info.gamedeveloper.com
 info.global-demand02.nec.com
 info.go.lorainccc.edu
 info.gostanford.com
@@ -11076,7 +11211,9 @@ info.protiviti.com.cn
 info.protiviti.es
 info.protiviti.org
 info.protiviti.sg
+info.protiviticg.org
 info.protiviticonsulting.ca
+info.protiviticonsultinggroup.com
 info.questoraclecommunity.org
 info.quova.com
 info.raymondcorp.com
@@ -11084,6 +11221,7 @@ info.raymondsci.com
 info.rcgt.com
 info.refinitiv.com
 info.relationshipone.com
+info.response.sagaftra.org
 info.restek.com
 info.reutersagency.com
 info.revvity.cn
@@ -11365,6 +11503,7 @@ internal.moneywise-edge-littlethings.share.ntv.io
 internal.monitoringdev1.littlethings.share.ntv.io
 internal.novell.littlethings.share.ntv.io
 internal.novelllittlethings.share.ntv.io
+internal.omg.adult
 internal.orglittlethings.share.ntv.io
 internal.preview.littlethings.share.ntv.io
 internal.qa-admin.share.ntv.io
@@ -11383,6 +11522,7 @@ internal.sitesbug-littlethings.share.ntv.io
 internal.stagelittlethings.share.ntv.io
 internal.stamfordadvocate.littlethings.share.ntv.io
 internal.teslaratilittlethings.share.ntv.io
+internal.tiktits.com
 internal.tunnellittlethings.share.ntv.io
 internal.v.share.ntv.io
 internal.w3.littlethings.share.ntv.io
@@ -11513,6 +11653,7 @@ it.darmowesexkamerki.com
 it.drtuberlive.com
 it.fikfapcams.com
 it.hot-india.com
+it.hotliveporn.com
 it.hotzcam.com
 it.instantfapcams.com
 it.ita.stripchat.ooo
@@ -11542,6 +11683,7 @@ it.xham.live
 it.xhlive.net
 it.xhlive.netit.xhlive.net
 it.xhlive.org
+it.xmates.com
 ita.myavlive.com
 ita.strip-chat.club
 ita.stripchat.ooo
@@ -11585,6 +11727,7 @@ ja.colsex.com
 ja.drtuberlive.com
 ja.fikfapcams.com
 ja.hot-india.com
+ja.hotliveporn.com
 ja.hotzcam.com
 ja.instantfapcams.com
 ja.kinkscams.com
@@ -11614,6 +11757,7 @@ ja.tiktits.com
 ja.tklivechat.com
 ja.tranny.show
 ja.xham.live
+ja.xhamsterlive.info
 ja.xhlive.cam
 ja.xhlive.net
 ja.xhlive.org
@@ -11713,6 +11857,7 @@ journals.aznudelive.com
 journals.strp.chat
 jp-2.apache.altad.share.ntv.io
 jp-go.experian.com
+jp.cambaddies.com
 jp.colsex.com
 jp.drtuberlive.com
 jp.gilford.stripchat.beeg.com
@@ -11843,6 +11988,8 @@ kampanjat.atea.fi
 kampanje.info.estatenyheter.no
 kampanjer.yxvisa.no
 kamvlaqien2fhwc-p.adktrack44.xyz
+kanban.86cams.com
+kanban.sctestwl.com
 kanobr.myavlive.com
 kaptix.myavlive.com
 karaganev.myavlive.com
@@ -11863,6 +12010,8 @@ kenn.extoleu.com
 kerberos.designs.21.auth-resolveann.share.ntv.io
 kerberosresolveaccept.share.ntv.io
 ketv.share.ntv.io
+keycloak.86cams.com
+keycloak.hotliveporn.com
 kez1ndacstdqqqp4.myavlive.com
 kf6uzcswycroi47-p.adktrack34.xyz
 kgbrnet.myavlive.com
@@ -11966,6 +12115,7 @@ kxolnpif7ctbvwq-p.adkclicker.fr
 kyc.altosandes.com.pe
 kyl4mteza7rl2ox-p.recettedubonheur.fr
 kytrrzpb2ej36kd-c.adktrack11.xyz
+kz.mywd.com
 kzdveja5w2m3ivg-c.adkclicker.fr
 kzgqd7nrpjhgs86-p.adkclicker.fr
 kzosaxruv89p7bl-p.adkoffer.fr
@@ -12331,6 +12481,7 @@ links.email.bm-solutions.co.uk
 links.email.hx-intermediaries.co.uk
 links.emails-sharedealing.co.uk
 links.emails.birminghammidshires.co.uk
+links.emails.international.lloydsbank.com
 links.global.protiviti.com
 links.go.shoretel.com
 links.insurance.lloydsbank.com
@@ -12507,6 +12658,7 @@ log.stage2fortune.share.ntv.io
 log.stamfordadvocate-financefortune.share.ntv.io
 log.stamfordadvocate-mon.fortune.share.ntv.io
 log.staticalt-fortune.share.ntv.io
+log.stripchat.town
 log.test-fortune.share.ntv.io
 log.thebrainypenny.fortune.share.ntv.io
 log.tsaltad.fortune.share.ntv.io
@@ -12558,6 +12710,9 @@ logon-resolveaccept.share.ntv.io
 logonmynorthwest.share.ntv.io
 logrouter.fortune.share.ntv.io
 logs-apolloakali-node.share.ntv.io
+logs.colsex.com
+logs.hotzcam.com
+logs.nsfwlivechat.com
 loopback-it.stripchat.beeg.com
 lou8fwgyrfgdt3e-p.adkclicker.fr
 love-appapache.altad.share.ntv.io
@@ -12635,6 +12790,7 @@ lp.smartbusiness.samsung.com
 lp.solutions.cegos.it
 lp.sophos.com
 lp.strayer.edu
+lp.supremapoker.com.br
 lp.svenskapostkodlotteriet.se
 lp.thalesgroup.com
 lp.thecoloradorapids.com
@@ -12644,6 +12800,7 @@ lp.tix.lehigh.edu
 lp.totalpolitics.com
 lp.ultraedit.com
 lp.valdisere.ski
+lp.wholetomato.com
 lp3.dentsplysirona.com
 lpcntuepekjfm1q-p.adktrack30.xyz
 lps-info.arval.com
@@ -12697,6 +12854,8 @@ mads.shfinx.com
 magento-auth-resolveann-admin1.share.ntv.io
 magento.auth-resolve.share.ntv.io
 magento.auth-resolveann.share.ntv.io
+magento.hornygirls.chat
+magento.tiktits.com
 mail-alt-apollo.share.ntv.io
 mail-dev0.api-api-docs-resolve.share.ntv.io
 mail-v6.myavlive.com
@@ -12905,11 +13064,14 @@ manage.xham.live
 manage.xhlive.cam
 manage.xhlive.net
 manage.xhlive.org
+manage.xmates.com
 manage12.conf.19.altad.share.ntv.io
 managedaccounts.nvenergy.com
 managedaccounts.pacificpower.net
 managedaccounts.rockymountainpower.net
 manager-tsaltad.share.ntv.io
+manager.colsex.com
+manager.tiktits.com
 managerdev0.api-api-docs-resolve.share.ntv.io
 mantis-api-docs-resolvestage3.share.ntv.io
 mantis-wsbradio.alt-ann.share.ntv.io
@@ -12959,6 +13121,7 @@ marketing.spcapitaliq.com
 marketing.tandemdiabetes.com
 marketing.test.insead.edu
 marketing.uwmedicine.org
+marketing2.direxionshares.com
 marketing2.invacare.eu.com
 marketingforms.jdpa.com
 marketingmynorthwest-agenda-novell.share.ntv.io
@@ -13205,6 +13368,7 @@ members.appsaltgist.share.ntv.io
 members.b89qk7rktxi64102-appsalt.share.ntv.io
 members.board-instyle-appsalt.share.ntv.io
 members.bug-frontpageappsalt.share.ntv.io
+members.cambaddies.com
 members.data.appsalt.share.ntv.io
 members.heraresolveaccept.share.ntv.io
 members.instyle-tunnel.appsalt.share.ntv.io
@@ -13217,6 +13381,7 @@ members.spankbanglive.com
 members.stg.cio.share.ntv.io
 members.stripchat.be
 members.stripchat2.com
+members.tiktits.com
 members.v.share.ntv.io
 members.valuewalk-com-edge.appsalt.share.ntv.io
 members.xhlive.org
@@ -13293,6 +13458,7 @@ messenger.stripchat.lgbt
 messenger.stripchat.ooo
 messenger.stripchats.global
 messenger.xham.live
+metabase.br.cambaddies.com
 metienestucontento.myavlive.com
 metrics-go.experian.com
 metrics-now.experian.com
@@ -13330,9 +13496,11 @@ micro.workplaceinvesting.fidelity.com
 microdemo.relationshipone.com
 microlearning.att.com
 microsite.citrix.com
+microsite.infoscale.com
 microsite.pbs.org
 microsite.pembertonam.com
 microsite.standardandpoors.com
+microsite.tibco.com
 microsite2.dylansnoddon.com
 microsite3.dylansnoddon.com
 miembros-robbreport.share.ntv.io
@@ -13451,6 +13619,7 @@ mobile.cambaddies.com
 mobile.colsex.com
 mobile.drtuberlive.com
 mobile.hot-india.com
+mobile.myavlive.com
 mobile.porndudecams.com
 mobile.rarecams.com
 mobile.sexygirlspics.live
@@ -13485,6 +13654,7 @@ monbug.share.ntv.io
 moneywise-edge-brasil.auth-resolve.share.ntv.io
 moneywise-edge.api3.auth-resolve.share.ntv.io
 moneywise-edge.avalt-s1.share.ntv.io
+moneywise-edge.share.ntv.io
 moneywise-edge.stg.cio.share.ntv.io
 moneywise-edgeinstyle.share.ntv.io
 moneywise-edgejustapinch.share.ntv.io
@@ -13505,6 +13675,7 @@ monitoring.strp.chat
 monitoring.tklivechat.com
 monitoring.tranny.show
 monitoringapolloakaliakamai.share.ntv.io
+monitoringauth-resolveann-admin1.share.ntv.io
 monitoringdev1-lwpb5xvrp2o9zrqy.share.ntv.io
 monitoringdev1-sample-dev1.share.ntv.io
 monitoringdev1.chasethetrend.share.ntv.io
@@ -13668,6 +13839,7 @@ myakamairesolveaccept-diana.share.ntv.io
 myevents.thalesgroup.com
 myfeed.thalesgroup.com
 myfiltration.eaton.com
+myfuture.futureelectronics.cn
 myfuture.futureelectronics.com
 myhealth.ssmhealth.com
 myinfo.borland.com
@@ -13941,13 +14113,16 @@ new-alt.developer.share.ntv.io
 new-alt.share.ntv.io
 new-alttastingtable.share.ntv.io
 new.spankbanglive.com
+new.xmates.com
 newkinofilms.cambaddies.com
 news.batimat.com
 news.boyfriend.show
 news.campaign.reedexpo.de
 news.cannesyachtingfestival.com
 news.celebjihad.live
+news.comic-con-paris.com
 news.dbschenker.com
+news.ehonline.eu
 news.equipbaie.com
 news.expoprotection-securite.com
 news.expoprotection.com
@@ -13998,6 +14173,7 @@ newsweek.image.api-docs-resolve.share.ntv.io
 newsweek.mail.share.ntv.io
 newsweek.share.ntv.io
 newsweekceros.share.ntv.io
+nextcloud.aznudelive.com
 nextcloud.tiktits.com
 nextcloud.xhlive.org
 nfmhgrc9udojalp-p.kmotrack.xyz
@@ -14034,6 +14210,7 @@ nj-descargas.share.ntv.io
 nj-engine.share.ntv.io
 nj-engineering.share.ntv.io
 nj-google.share.ntv.io
+nj-reports.share.ntv.io
 nj-staging.share.ntv.io
 nj-storage.share.ntv.io
 nj-work.share.ntv.io
@@ -14160,6 +14337,7 @@ no.xhlive.net
 no3qvsbzkfwrop6-p.recettedubonheur.fr
 noc-21.auth-resolveann.share.ntv.io
 noc-affiliate.apolloakali.share.ntv.io
+noc-apolloakaliaccess.share.ntv.io
 noc.addons.avalt.share.ntv.io
 noc.auth-resolveann.share.ntv.io
 nodetest1-api-docs-resolve.share.ntv.io
@@ -14256,6 +14434,7 @@ nzfbe16aqht4kow-p.adkplan.fr
 o-instyle.share.ntv.io
 o.ads.altad.share.ntv.io
 o0hfkvr93m6mfwz-p.adktrack34.xyz
+o15.share.ntv.io
 o6zdfbcpupz2alv-c.akming.xyz
 oa.11.alt.share.ntv.io
 oa.aznudelive.com
@@ -14361,6 +14540,7 @@ offers.tranny.show
 offers.vovici.com
 offers.wecu.com
 offers.xham.live
+office.cambaddies.com
 officemenshealth.share.ntv.io
 oh0hpztfifcxmt9-p.adkoffer.fr
 oha6edrjkkuvhb0-c.adktrack35.xyz
@@ -14412,6 +14592,7 @@ online-avalt.share.ntv.io
 online-cfg.share.ntv.io
 online-downloads-apollo.share.ntv.io
 online-mt-com-455208869.p06.elqsandbox.com
+online.aznudelive.com
 online.cio-tampabay.share.ntv.io
 online.cio.api-docs-resolve.share.ntv.io
 online.cio.share.ntv.io
@@ -14603,6 +14784,8 @@ ovid.xhlive.cam
 owa-cz.stripchat.beeg.com
 owa-mochila.myavlive.com
 owaaltad.share.ntv.io
+owncloud.extoleu.com
+owncloud.xhamsterlive.info
 owncloud01.xhlive.org
 owycnls3jhmr60u-p.bonnelectureatous.fr
 ox-alt-apollo.share.ntv.io
@@ -15011,6 +15194,7 @@ pezoh8d4xr3vlkw-p.adktrack44.xyz
 pf6tjxbzsl0mjhu-c.adkclicker.fr
 pf6tjxbzsl0mjhu-p.adkclicker.fr
 pflege.xham.live
+pgadmin.xhamsterlive.info
 pgs.aviationweek.com
 pgs.centreforaviation.com
 pgs.farmprogress.com
@@ -15078,6 +15262,7 @@ phpmyadmin.xhlive.cam
 pic-a-u500-3.myavlive.com
 piev8qqht6nsjlu-p.adkoffer.fr
 pillsbury.share.ntv.io
+pilotonline.share.ntv.io
 pinefeather.chiccams.com
 ping.celebjihad.live
 ping.drtuberlive.com
@@ -15116,6 +15301,7 @@ pl.celebjihad.live
 pl.chiccams.com
 pl.contact.alphabet.com
 pl.drtuberlive.com
+pl.fikfapcams.com
 pl.hotzcam.com
 pl.instantfapcams.com
 pl.kinkscams.com
@@ -15155,7 +15341,9 @@ pl14.myavlive.com
 pladdons.avalt.share.ntv.io
 planning.celebjihad.live
 plans.tiktits.com
+platform.spankbanglive.com
 platform.stripchat-lgbtq.com
+platform.stripchat-vr.com
 platform.tiktits.com
 playbook.convio.com
 playground.boyfriend.show
@@ -15279,6 +15467,7 @@ post.hellomagazineagenda-apollo.share.ntv.io
 post.hot-india.com
 post.wwwoldapollo.share.ntv.io
 posta.tklivechat.com
+postapps.apolloakali.share.ntv.io
 postbulletin.share.ntv.io
 postgres-auth-resolveann-admin1.share.ntv.io
 postgresql-instyle.share.ntv.io
@@ -15614,6 +15803,7 @@ prod-agendaapi-api-docs-resolve.share.ntv.io
 prod-chicagotribune.share.ntv.io
 prod-resolvestage3.share.ntv.io
 prod.api.strp.chat
+prod.drtuberlive.com
 prod.pcworld-server.share.ntv.io
 prod.q8lfij6ggarx0ypw.share.ntv.io
 prod.tracking.refinitiv.com
@@ -15637,6 +15827,8 @@ production-library-resolve.share.ntv.io
 production-tech.ajc.share.ntv.io
 production.control.fortune.share.ntv.io
 production.downloads-apollo.share.ntv.io
+production.sexchatters.com
+production.tiktits.com
 productionpcworld-server.share.ntv.io
 productionprinting.ricoh.co.uk
 productionprinting.ricoh.ie
@@ -15707,11 +15899,19 @@ programmes-skema.skema.edu
 programs.ironmountain.com
 programs.mellanox.com
 project.showtime-cams.live
+project.tiktits.com
 projectav.21.auth-resolveann.share.ntv.io
+projects.cambaddies.com
+projects.tiktits.com
 prometheus.sctestwl.com
+prometheus.xmates.com
 promo-api3-auth-resolve.share.ntv.io
 promo-fox25bostonlocal.share.ntv.io
+promo.aznudelive.com
 promo.batesville.com
+promo.cambaddies.com
+promo.sc7.com
+promo.tiktits.com
 promo.yahoo-mbga.jp
 promos.thermoscientific.com
 promos.zinli.com
@@ -15735,7 +15935,6 @@ promotion2.bug.share.ntv.io
 promotions.batesville.com
 promotions.centex.com
 promotions.eq.delwebb.com
-promotions.hot.net.il
 promotions.kangan.edu.au
 promotions.la-z-boy.com
 promotions.thermofisher.com
@@ -15762,6 +15961,7 @@ proxy.littlethings-ipv7alt.share.ntv.io
 proxy.littlethings.share.ntv.io
 proxy.littlethingsora-instyle.share.ntv.io
 proxy.littlethingstest1.share.ntv.io
+proxy.nudescam18.com
 proxy.qa-s.11.alt.share.ntv.io
 proxy.www2.wsbradio.share.ntv.io
 proxydesigns.21.auth-resolveann.share.ntv.io
@@ -15782,6 +15982,7 @@ pt.colsex.com
 pt.drtuberlive.com
 pt.fikfapcams.com
 pt.hot-india.com
+pt.hotliveporn.com
 pt.hotzcam.com
 pt.instantfapcams.com
 pt.livecamlovetr.com
@@ -15861,6 +16062,7 @@ qa-s.11.alt.share.ntv.io
 qa-s.11.guia-dev1-alt.share.ntv.io
 qa.boyfriend.show
 qa.cambaddies.com
+qa.camsplanetlive.com
 qa.celebjihad.live
 qa.drtuberlive.com
 qa.hot-india.com
@@ -15871,12 +16073,14 @@ qa.myavlive.com
 qa.mycamtv.com
 qa.omg.adult
 qa.prime-time-cams-show.me
+qa.sexchatters.com
 qa.sexfortokens.com
 qa.shemale.show
 qa.spankbanglive.com
 qa.stripchat.ooo
 qa.tiktits.com
 qa.tklivechat.com
+qa.xhlive.org
 qa2019.altad.share.ntv.io
 qago.qiagen.com
 qdotzofuwlg1fse-c.adkoffer.fr
@@ -15982,6 +16186,7 @@ redir.share.ntv.io
 redirapi-docs-resolvestage3.share.ntv.io
 redirapollo-cfg.share.ntv.io
 redirapolloakali.share.ntv.io
+redirect.chiccams.com
 redirect.xhlive.net
 redirectalt-da-mynorthwest.share.ntv.io
 redirectalt-dev1-data.share.ntv.io
@@ -16010,6 +16215,7 @@ redmine-alt-apollo.share.ntv.io
 redmine.2.bug.share.ntv.io
 redmine.akamairesolveaccept.share.ntv.io
 redmine.hellomagazine.share.ntv.io
+redmine.xmates.com
 redwingforbusiness.redwingsafety.com
 refer-a-friend.trivantis.com
 refer-au.princess.com
@@ -16025,6 +16231,7 @@ refer.akcpetinsurance.com
 refer.allenedmonds.com
 refer.amctheatres.com
 refer.american-giant.com
+refer.americaneagle.org
 refer.americanexpress.com
 refer.americanmusical.com
 refer.amerisleep.com
@@ -16043,6 +16250,7 @@ refer.backcountry.com
 refer.baddie.health
 refer.ballarddesigns.com
 refer.bananarepublic.com
+refer.bareminerals.uk
 refer.barenecessities.com
 refer.barharbor.bank
 refer.barnandwillow.com
@@ -16131,6 +16339,7 @@ refer.fuzebox.com
 refer.gainbridge.io
 refer.gapcanada.ca
 refer.garnethill.com
+refer.gevalia.com
 refer.gfafcu.com
 refer.giantfood.com
 refer.glamglow.com
@@ -16207,6 +16416,7 @@ refer.madison-reed.com
 refer.marinerfinance.com
 refer.midlandsb.com
 refer.minted.com
+refer.mission.com
 refer.montgomeryadvertiser.com
 refer.moo.com
 refer.mpgsport.ca
@@ -16519,6 +16729,7 @@ remote.mynorthwest.share.ntv.io
 remote.mynorthwesthelp.share.ntv.io
 remote.resolveaddonmynorthwest.share.ntv.io
 remote.sandbox.mynorthwest.share.ntv.io
+remote.sexfortokens.com
 remote.strip-chat.club
 remote.stripchats.global
 remote.wwwoldmynorthwest.share.ntv.io
@@ -16573,6 +16784,7 @@ repository-stg.cio.share.ntv.io
 repository-thehill.share.ntv.io
 repository-tpe.api-docs-resolve.share.ntv.io
 repository.bossip.share.ntv.io
+repositorydesigns.21.auth-resolveann.share.ntv.io
 repositorythehill.share.ntv.io
 request.verisign.com
 requests.boyfriend.show
@@ -16678,6 +16890,7 @@ resolveaccept.staticalt.stamfordadvocate.share.ntv.io
 resolveaccept.west-edgestamfordadvocate.share.ntv.io
 resolveaccept11ticket.alt.share.ntv.io
 resolveacceptacc-akamairesolveaccept-diana.share.ntv.io
+resolveacceptacc11.alt.share.ntv.io
 resolveacceptaccalt.share.ntv.io
 resolveacceptaccapollo.share.ntv.io
 resolveacceptapps.apolloakali.share.ntv.io
@@ -16847,11 +17060,13 @@ response.retailchoice.com
 response.reversepartner.genworth.com
 response.sonosite.com
 response.sonosite.es
+response.sonosite.fr
 response.sonosite.it
 response.stepstone.com
 response.tandberg.nl
 response.totaljobs.com
 response.usnursing.com
+response.visualsonics.com
 response.wbresearch.com
 response.xactware.com
 response2.buydomains.com
@@ -17235,6 +17450,7 @@ runo.myavlive.com
 rwlyhz2xkwafedv-c.adktrack34.xyz
 rxdevfrance.reedexpo.fr
 s.clientes.construrama.com
+s.comm.cemex.com
 s.comms.cemex.com
 s.corporate.cemex.com
 s.eur.cemex.com
@@ -17318,6 +17534,7 @@ sandbox-pressdemocrat.share.ntv.io
 sandbox-tastingtable.share.ntv.io
 sandbox.agenda-novell.share.ntv.io
 sandbox.akamairesolveaccept-diana.share.ntv.io
+sandbox.hot-india.com
 sandboxsectrk.veracity.com
 sandiegouniontribune.share.ntv.io
 sanduskyreapper.share.ntv.io
@@ -17411,6 +17628,7 @@ scm.share.ntv.io
 scming1.dev1.share.ntv.io
 score.lumen.com
 screenshot-justapinch.share.ntv.io
+screenshot.share.ntv.io
 screenshotchimera.share.ntv.io
 scrw8cy7gezo1fi-p.adktrack53.xyz
 sdk.camsplanetlive.com
@@ -17561,6 +17779,8 @@ send.mad-infeed.jp
 send.tklivechat.com
 sendmoney.americanexpress.co.uk
 sentiment.icis.com
+sentry.camsplanetlive.com
+sentry.xmates.com
 seo.resolveaccept.share.ntv.io
 sept.2.apache.altad.share.ntv.io
 sept.domains-apollo.share.ntv.io
@@ -17874,6 +18094,7 @@ share.openenglish.com.br
 share.openenglish.com.tr
 share.openenglish.es
 share.opploans.com
+share.optimal-selection.com
 share.origins.com
 share.palmbeachpost.com
 share.partsvu.com
@@ -18037,6 +18258,7 @@ shipping.tiktits.com
 shipping.xham.live
 shipping.xhlive.cam
 shop-alt-ann.share.ntv.io
+shop.myavlive.com
 shopbug.share.ntv.io
 show.decorex.com
 show.kbb.co.uk
@@ -18054,6 +18276,7 @@ showcase.tklivechat.com
 showcase.tranny.show
 shows.anticipate-event.com
 shows.anticipate-london.com
+si-www.share.ntv.io
 si.share.ntv.io
 sichasethetrend-com-edge.share.ntv.io
 signed-db-chron.share.ntv.io
@@ -18126,6 +18349,7 @@ siliveclientdownloads-apollo.share.ntv.io
 simple-agenda-novell.share.ntv.io
 simple-avalt-s1.share.ntv.io
 simple-bugrepos.share.ntv.io
+simple-cf-bloomberg-alp-edge.miamiherald.share.ntv.io
 simple-cf-chipchick-com-edge.api-docs-resolveaddon.share.ntv.io
 simple-cf-chipchick-com-edge.downloads-apollo.share.ntv.io
 simple-cf-chipchick-com-edgechimera.share.ntv.io
@@ -18190,9 +18414,11 @@ site.comunicaciones.iesa.es
 site.cx.anb.com.sa
 site.cx.anb.sa
 site.firstnet.com
+site.hotliveporn.com
 site.infosysbpm.com
 site.tdk.cn
 site.tdk.com
+site.xmates.com
 site8.boyfriend.show
 sitebuilder-apps.apolloakali.share.ntv.io
 sitebuilder.agenda.share.ntv.io
@@ -18200,6 +18426,7 @@ sitebuildercnn.share.ntv.io
 sites-cio.share.ntv.io
 sites.campaignmgr.cisco.com
 sites.groo.co.il
+sites.hot-india.com
 sites.sexfortokens.com
 sites.siemens.com
 sitesbug-dev1.share.ntv.io
@@ -18214,6 +18441,7 @@ sk.cambaddies.com
 sk.celebjihad.live
 sk.drtuberlive.com
 sk.hot-india.com
+sk.hotliveporn.com
 sk.hotzcam.com
 sk.myavlive.com
 sk.mycamtv.com
@@ -18243,6 +18471,7 @@ skinscio.share.ntv.io
 skinsmiembrosalt-ann.share.ntv.io
 skinsstamfordadvocateforos.share.ntv.io
 slave.21.auth-resolveann.share.ntv.io
+sleep.ubm-events.com
 slzr4vf0xeqeo8k-p.bonnelectureatous.fr
 sm01.tklivechat.com
 smallbusiness.adpinfo.com
@@ -18329,6 +18558,7 @@ solutions.vasque.com
 solutions.visaacceptance.com
 solutions.xham.live
 solutions2.risk.lexisnexis.com
+sonar.xmates.com
 sonomamag.listshellomagazine.share.ntv.io
 sonomamag.share.ntv.io
 sonomamagapollo-accept.share.ntv.io
@@ -18404,6 +18634,7 @@ speech.xhlive.cam
 speech.xhlive.org
 spnfm3j0vyx7bey-c.adkclicker.fr
 sponsor.syracuse.com
+sport-atlas.19.altad.share.ntv.io
 sportsagendaapi-api-docs-resolve.share.ntv.io
 spring.addon-hellomagazine.share.ntv.io
 spring.addons.15.apollo.share.ntv.io
@@ -18469,6 +18700,7 @@ sql.alt-annscm.share.ntv.io
 sql.alt-annstaging.share.ntv.io
 sql.alt-anntest.share.ntv.io
 sql.api-docs-resolve-l.share.ntv.io
+sql.api-docs-resolve.share.ntv.io
 sql.apollo-qa-edge.alt-ann.share.ntv.io
 sql.apollo-qa-edge.share.ntv.io
 sql.apolloakalitr.alt-ann.share.ntv.io
@@ -18564,6 +18796,7 @@ sso.sexygirlspics.live
 sso.shemale.show
 sso.spankbanglive.com
 sso.strip-chat.club
+sso.stripchat.dk
 sso.stripchat.io
 sso.stripchat.lgbt
 sso.stripchat.ooo
@@ -18599,6 +18832,7 @@ stage2.agenda-novell.share.ntv.io
 stage2.dallasnews.share.ntv.io
 stage2.nativomobileapps.share.ntv.io
 stage2.sanduskyregister.share.ntv.io
+stage2.sctestwl.com
 stage2.wordpress-alt-ann.share.ntv.io
 stage2altdeveloper.share.ntv.io
 stage3.cio.share.ntv.io
@@ -18642,6 +18876,10 @@ staging.xham.live
 staging.xhamsterlive.info
 staging.xhlive.net
 staging.xhlive.org
+staging1.hotzcam.com
+staging1.sexfortokens.com
+staging2.hot-india.com
+staging3.fikfapcams.com
 stagingcomputerworld.share.ntv.io
 staginghellomagazine.share.ntv.io
 stagingtech.ajc.share.ntv.io
@@ -18665,6 +18903,7 @@ stamfordadvocate-moninternal.littlethings.share.ntv.io
 stamfordadvocate-pc.share.ntv.io
 stamfordadvocate-stat.share.ntv.io
 stamfordadvocate-test.share.ntv.io
+stamfordadvocate-tracker.share.ntv.io
 stamfordadvocate-win30.share.ntv.io
 stamfordadvocate.assets.share.ntv.io
 stamfordadvocate.share.ntv.io
@@ -18826,6 +19065,7 @@ stats.porndudecams.com
 stats.saverglass.com
 stats.sgs.com
 stats.spankbanglive.com
+status.hotzcam.com
 stem.cellmedicine.com
 stg-api3.auth-resolve.share.ntv.io
 stg-appsaltvi.cio.share.ntv.io
@@ -18867,10 +19107,12 @@ stg.cultivatedknowledge.cio.share.ntv.io
 stg.devops-cio.share.ntv.io
 stg.domains-apollo.share.ntv.io
 stg.emea.cio.share.ntv.io
+stg.heelscamroom.com
 stg.legacy-cio.share.ntv.io
 stg.logincio.share.ntv.io
 stg.mynorthwestprofilescio.share.ntv.io
 stg.nativocio.share.ntv.io
+stg.nsfwlivechat.com
 stg.qa-admin-cio.share.ntv.io
 stg.radioauthcio.share.ntv.io
 stg.regioncio-cio.share.ntv.io
@@ -19770,6 +20012,7 @@ test1.vip-mynorthwest.share.ntv.io
 test2.apolloakaliakamai.share.ntv.io
 test2.resolveaccept.share.ntv.io
 test2.share.ntv.io
+test2.spankbanglive.com
 test2auth-avalt-s1.share.ntv.io
 test2auth-ecommerceresolveaccept.share.ntv.io
 test2auth-polandfortune.share.ntv.io
@@ -20082,14 +20325,18 @@ tools.alt-ann.bicycling.share.ntv.io
 tools.alt-ann.share.ntv.io
 tools.alt-ann.theledger.share.ntv.io
 tools.auth-resolve-alt-ann.share.ntv.io
+tools.cambaddies.com
 tools.de.omg.adult
 tools.domains-apollo.share.ntv.io
 tools.fr.drtuberlive.com
 tools.mynorthwestchimera.share.ntv.io
+tools.rarecams.com
 tools.ricoh.ch
 tools.ricoh.co.uk
 tools.ricoh.de
 tools.ricoh.ie
+tools.sexfortokens.com
+tools.xhlive.org
 tour.cambaddies.com
 tour.celebjihad.live
 tour.drtuberlive.com
@@ -20104,6 +20351,7 @@ tour.stripchats.global
 tour.tklivechat.com
 tour.tranny.show
 towahosan.myavlive.com
+townhall.share.ntv.io
 tp7hpkfmkdbore15.myavlive.com
 tpe-akali15.apollo.share.ntv.io
 tpe-bossip.share.ntv.io
@@ -20233,7 +20481,6 @@ track.clarin.com
 track.clubcar.com
 track.cornerstonebuildingbrands.com
 track.datacenterworld.com
-track.deloitte.com
 track.deltek.com
 track.drewintl.com
 track.drtuberlive.com
@@ -20320,11 +20567,13 @@ track.updates.labcorp.com
 track.us.comms.pwc.com
 track.waldenu.edu
 track.xhlive.cam
+tracker.avalt.share.ntv.io
 tracker.boredpanda.com
 tracker.decomworld.com
 tracker.eft.com
 tracker.ethicalcorp.com
 tracker.eyeforpharma.com
+tracker.eyefortravel.com
 tracker.impactconf.com
 tracker.incite-group.com
 tracker.insurancenexus.com
@@ -20522,7 +20771,6 @@ tracking.health.tmcaz.com
 tracking.hello.global.ntt
 tracking.hibu.com
 tracking.hiscox.com
-tracking.hot.net.il
 tracking.idcardgroup.com
 tracking.idsuperstore.com
 tracking.idwholesaler.com
@@ -20806,6 +21054,7 @@ tranquilit2.myavlive.com
 transactions.boyfriend.show
 transactions.cambaddies.com
 transactions.camsplanetlive.com
+transactions.celebjihad.live
 transactions.hot-india.com
 transactions.omg.adult
 transactions.spankbanglive.com
@@ -20844,6 +21093,7 @@ trck.benefits.alliant.com
 trck.com-sit.dell.com
 trck.comms.watlow.com
 trck.communications.fredhutch.org
+trck.connect.mantracgroup.com
 trck.connect.ricoh-europe.com
 trck.contact.valdisere.ski
 trck.copeland.com
@@ -21285,9 +21535,11 @@ trk.planta.be
 trk.planta.pt
 trk.plantafin.fr
 trk.plasticstoday.com
+trk.pneumaticproducts.com
 trk.powderandbulkshow.com
 trk.powderandbulksolids.com
 trk.powerdms.com
+trk.premieresanantonioshow.com
 trk.prnewswire.co.uk
 trk.prnewswire.com
 trk.pro-activ.com
@@ -21416,6 +21668,7 @@ trkcmb.business.hsbc.com.vn
 trkcmb.business.hsbc.es
 trkcmb.business.hsbc.fr
 trkcmb.business.hsbc.ie
+trkcmb.business.hsbc.lk
 trkcmb.business.hsbc.nl
 trkcmb.business.hsbc.pl
 trkcmb.business.hsbc.uk
@@ -21607,6 +21860,7 @@ uk.realestate.bnpparibas
 uk.secure.sonosite.com
 uk5srgi8anjuwdb-p.adktrack30.xyz
 ukauth-resolveann.share.ntv.io
+ukf0f6axedgfmhsk.share.ntv.io
 ukhodevappgateway.myavlive.com
 ukraine2026.xham.live
 uksb-lpd.myavlive.com
@@ -21699,6 +21953,7 @@ urban-smiles-dental-knzvbpkzdn.myavlive.com
 urbanaunty.share.ntv.io
 us-go.experian.com
 us-now.experian.com
+us-west-2.infoworld.share.ntv.io
 us-west-2.s27.go.xham.live
 us-west8750.myavlive.com
 us.justapinch.share.ntv.io
@@ -21817,6 +22072,7 @@ v2-computerworld.share.ntv.io
 v2-decstamfordadvocate.share.ntv.io
 v2-hellomagazine.share.ntv.io
 v2-www.stripchat.beeg.com
+v2.chiccams.com
 v2.live7mm.tv
 v2.share.ntv.io
 v220201165982134187.myavlive.com
@@ -21856,6 +22112,8 @@ valuewalkrss.apolloakali.share.ntv.io
 varian.unenoteunjour.fr
 vastersolf144.myavlive.com
 vaude.myavlive.com
+vault.colsex.com
+vault.sexchatters.com
 vault01.shemale.show
 vault25.myavlive.com
 vbivezkdjseidag-p.adktrack30.xyz
@@ -21895,6 +22153,7 @@ vi.cambaddies.com
 vi.camsplanetlive.com
 vi.celebjihad.live
 vi.drtuberlive.com
+vi.fikfapcams.com
 vi.hot-india.com
 vi.hotzcam.com
 vi.live.herecams.com
@@ -22198,6 +22457,7 @@ waow.share.ntv.io
 wap-bossip.share.ntv.io
 wap.apache.altad.share.ntv.io
 wap.robbreport.share.ntv.io
+wap.spankbanglive.com
 wasserbettbedarf1.myavlive.com
 watch.boyfriend.show
 watch.cambaddies.com
@@ -22233,6 +22493,7 @@ web.fox25bostonlocal.share.ntv.io
 web.health.memorialcare.org
 web.healthcare.northbay.org
 web.healthnews.thechristhospital.com
+web.hot-india.com
 web.houstontexans.com
 web.houstontexansluxe.com
 web.info.aspirus.org
@@ -22251,6 +22512,7 @@ web.orionpharma.com
 web.xmates.com
 web0-stamfordadvocate.share.ntv.io
 web0.avalt.share.ntv.io
+web02.sexchatters.com
 web144.chiccams.com
 web17.go.myavlive.com
 web1api-docs-resolveaccept.share.ntv.io
@@ -22338,6 +22600,7 @@ webmail.myavlive.com
 webmail.mycamtv.com
 webmail.nsfwlivechat.com
 webmail.old.camsplanetlive.com
+webmail.omg.adult
 webmail.perfectgirls.live
 webmail.sexfortokens.com
 webmail.stripchat.direct
@@ -22356,6 +22619,7 @@ website-security.rapidssl.com
 website-security.thawte.com
 website-wordpress.myavlive.com
 websites.boyfriend.show
+webstats-apolloakaliaccess.share.ntv.io
 webstore-21.auth-resolveann.share.ntv.io
 webstorefortune.share.ntv.io
 webtracking.aucmed.edu
@@ -22439,6 +22703,7 @@ win-dev0.api-api-docs-resolve.share.ntv.io
 win29-cio.share.ntv.io
 win31.apolloakali.share.ntv.io
 win31api-docs-resolveaccept.share.ntv.io
+win32.robbreport.share.ntv.io
 win32altad.share.ntv.io
 win33dev1.share.ntv.io
 win34-auth-resolveann-admin1.share.ntv.io
@@ -22499,6 +22764,8 @@ workplace.ricoh.it
 workplacesolutions.inform.equifax.com
 workshop.stronde.com
 workshopvacs.myavlive.com
+workspace.cambaddies.com
+workspace.hotliveporn.com
 workspace.showtime-cams.live
 workspace.stripchat.be
 world.discoverylandco.com
@@ -22598,6 +22865,7 @@ www.aeedee.com
 www.ajc.share.ntv.io
 www.aldarcommunications.com
 www.almirallhcp.com
+www.altad.share.ntv.io
 www.aonunited.com
 www.ar.hotzcam.comar.hotzcam.com
 www.ar.nudescam18.com
@@ -22619,6 +22887,8 @@ www.cams-showtime.live
 www.camsplanetlive.com
 www.celebjihad.live
 www.cf.labanquepostale.fr
+www.chiccams.com
+www.chiccams.comwww.chiccams.com
 www.chronischepancreatitis.nl
 www.ciscopowerofpartnership.com
 www.clickadk.fr
@@ -22631,13 +22901,16 @@ www.connect.api.almirall.com
 www.creative.boyfriend.show
 www.creative.myavlive.com
 www.creative.rarecams.com
+www.creative.sexchatters.comcreative.sexchatters.com
 www.creditpromo.com
 www.crmlin.unenoteunjour.fr
 www.cruise.xhlive.cam
 www.cruises.boyfriend.show
 www.cs.hotzcam.comcs.hotzcam.com
 www.cs.rarecams.com
+www.cs.sexchatters.com
 www.cs.stripchat.direct
+www.cs.stripchat.directcs.stripchat.direct
 www.csobug-brand.share.ntv.io
 www.csoonline.share.ntv.io
 www.da.hotzcam.com
@@ -22647,6 +22920,7 @@ www.de.celebjihad.live
 www.de.drtuberlive.com
 www.de.hotzcam.com
 www.de.nsfwlivechat.com
+www.de.shemale.show
 www.de.showtime-cams.live
 www.de.stripchat2.com
 www.de.xhlive.net
@@ -22724,6 +22998,7 @@ www.ko.cambaddies.com
 www.ktrack.xyz
 www.landingpage.info.moncontratgarantie.com
 www.live7mm.tv
+www.liveandsexy.cam
 www.livesextape.com
 www.lms.myavlive.com
 www.longterminvestmentsolutions.com
@@ -22797,6 +23072,7 @@ www.response.tandberg.nl
 www.revolutionaryreveos.com
 www.rghqhc3w7w2dvkz-c.clead.xyz
 www.rnfowsuita3ueb4-c.adktrack47.xyz
+www.ro.boyfriend.show
 www.ro.nsfwlivechat.com
 www.ro.rarecams.com
 www.rob.extoleu.com
@@ -22847,6 +23123,7 @@ www.thalesgroup-events.com
 www.tiktits.com
 www.tr.hotliveporn.com
 www.tr.live7mm.tv
+www.tr.sctestwl.com
 www.tr.stripchats.global
 www.tr.tranny.show
 www.tr.xhamsterlive.infotr.xhamsterlive.info
@@ -22885,6 +23162,7 @@ www.yourplanprovisions.com
 www.zakelijk.cz.nl
 www.zh.boyfriend.show
 www.zh.hotzcam.com
+www.zh.live7mm.tv
 www.zh.spankbanglive.com
 www.zh.stripchat.direct
 www.zh.stripchats.global
@@ -22916,6 +23194,7 @@ www2.americawsbradio.share.ntv.io
 www2.apolloakali-node.share.ntv.io
 www2.appsaltcms1wsbradio.share.ntv.io
 www2.automobilemag.wsbradio.share.ntv.io
+www2.aznudelive.com
 www2.board-instyle.wsbradio.share.ntv.io
 www2.bossip-wsbradio.share.ntv.io
 www2.brand.share.ntv.io
@@ -22928,6 +23207,7 @@ www2.dev.share.ntv.io
 www2.development-wsbradio.share.ntv.io
 www2.entrepreneur-wsbradio.share.ntv.io
 www2.eventswsbradio.share.ntv.io
+www2.faithinthenews.share.ntv.io
 www2.festo.com
 www2.firsttechfed.com
 www2.ghcpiwsbradio.share.ntv.io
@@ -23277,6 +23557,7 @@ zh.camsplanetlive.com
 zh.celebjihad.live
 zh.chiccams.com
 zh.colsex.com
+zh.darmowesexkamerki.com
 zh.drtuberlive.com
 zh.extensions.myavlive.com
 zh.fikfapcams.com
@@ -23366,9 +23647,11 @@ zt.liveandsexy.cam
 zt.myavlive.com
 zt.mycamtv.com
 zt.omg.adult
+zt.perfectgirls.live
 zt.porndudecams.com
 zt.sc7.com
 zt.sc8.com
+zt.sexchatters.com
 zt.sexfortokens.com
 zt.sexygirlspics.live
 zt.shemale.show

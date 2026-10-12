@@ -13,12 +13,14 @@
 * c771.affilbox.cz
 * c1776.affilbox.cz
 * c4670.affilbox.cz
+* appkee.cz
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | login.affiliatesit.cz | affiliatesit.cz |
+| partneri.appkee.cz | appkee.cz |
 | partner.mojalekaren.sk | c1776.affilbox.cz |
 | affil.myface.cz | c2309.affilbox.cz |
 | partner.topforteam.cz | c4670.affilbox.cz |
@@ -28,6 +30,7 @@
 | abox.simpleshop.cz | cz.affilbox.cz |
 | aff.faircredit.cz | cz.affilbox.cz |
 | aff.pujckajonatan.cz | cz.affilbox.cz |
+| aff.realwoman.sk | cz.affilbox.cz |
 | aff.teshop.cz | cz.affilbox.cz |
 | aff.teticka.cz | cz.affilbox.cz |
 | aff.winkey.cz | cz.affilbox.cz |
@@ -279,12 +282,14 @@
 | ambasador.montessorikurz.cz | cz.affilbox.cz |
 | ambasador.montessorispolecne.cz | cz.affilbox.cz |
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
+| ambassadors.childhoodpotential.club | cz.affilbox.cz |
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
 | ambassadors.guideandgrow.com | cz.affilbox.cz |
 | analytics.algomoneo.com | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | champions.betubetu.com | cz.affilbox.cz |
 | collab.zdravetricko.cz | cz.affilbox.cz |
+| connect.algomoneo.com | cz.affilbox.cz |
 | cooperation.mitochondriak.com | cz.affilbox.cz |
 | cooperation.mitochondriak.cz | cz.affilbox.cz |
 | cooperation.mitochondriak.pl | cz.affilbox.cz |
@@ -300,6 +305,7 @@
 | doporuc.necojakocola.cz | cz.affilbox.cz |
 | doporuc.promujdomov.cz | cz.affilbox.cz |
 | doporuc.shopiam4u.cz | cz.affilbox.cz |
+| doporuc.slevomat.group | cz.affilbox.cz |
 | doporucim.zjistitcenu.cz | cz.affilbox.cz |
 | equilist.raj-ohlavek.cz | cz.affilbox.cz |
 | hcbox.antiradary.net | cz.affilbox.cz |
@@ -548,6 +554,7 @@
 | partner.gaymegastore.cz | cz.affilbox.cz |
 | partner.gaymegastore.eu | cz.affilbox.cz |
 | partner.gel-gun.cz | cz.affilbox.cz |
+| partner.generatorvodiku.cz | cz.affilbox.cz |
 | partner.gingershot.cz | cz.affilbox.cz |
 | partner.giulieta.shop | cz.affilbox.cz |
 | partner.gloe.cz | cz.affilbox.cz |
@@ -707,6 +714,7 @@
 | partner.robotworld.ro | cz.affilbox.cz |
 | partner.robotworld.sk | cz.affilbox.cz |
 | partner.root.cz | cz.affilbox.cz |
+| partner.rozhladna.sk | cz.affilbox.cz |
 | partner.roztouzeny.cz | cz.affilbox.cz |
 | partner.rozvoj-osobny.sk | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
@@ -800,7 +808,6 @@
 | partneri.alchemistr.cz | cz.affilbox.cz |
 | partneri.alepiacz.cz | cz.affilbox.cz |
 | partneri.anglictinarychlo.sk | cz.affilbox.cz |
-| partneri.appkee.cz | cz.affilbox.cz |
 | partneri.arouska.cz | cz.affilbox.cz |
 | partneri.artisan.cz | cz.affilbox.cz |
 | partneri.autoprofishop.cz | cz.affilbox.cz |
@@ -883,6 +890,7 @@
 | partneri.piercing.cz | cz.affilbox.cz |
 | partneri.piratecbd.cz | cz.affilbox.cz |
 | partneri.plantobesto.com | cz.affilbox.cz |
+| partneri.podnikaveduse.cz | cz.affilbox.cz |
 | partneri.portske.cz | cz.affilbox.cz |
 | partneri.prectime.cz | cz.affilbox.cz |
 | partneri.proficredit.cz | cz.affilbox.cz |
@@ -925,6 +933,7 @@
 | partneri.yoggspiration.cz | cz.affilbox.cz |
 | partneri.zaprovizi.cz | cz.affilbox.cz |
 | partneri.zhubnichytre.cz | cz.affilbox.cz |
+| partneri.zijchytre.cz | cz.affilbox.cz |
 | partners.almaf.cz | cz.affilbox.cz |
 | partners.bonyacademy.com | cz.affilbox.cz |
 | partners.gingles.co | cz.affilbox.cz |

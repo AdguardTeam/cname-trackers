@@ -29,6 +29,7 @@
 ||beta.morningstar.com^
 ||cftrk.novuna.co.uk^
 ||cko.boatshowdubai.com^
+||cko.futureblockchainsummit.com^
 ||cko.gisec.ae^
 ||cko.integrateme.com^
 ||cko.ism-me.com^
@@ -59,6 +60,7 @@
 ||eloqua.liberty.edu^
 ||eloqua.questpublicsector.com^
 ||eloqua.radware.com^
+||eloqua.star-semicon.com^
 ||eloquatrack.kistler.com^
 ||elq-ic01.allthingsinsights.com^
 ||elq-ic01.ebdgroup.com^
@@ -120,6 +122,7 @@
 ||eviewonline.certinal.com^
 ||firstpartycookie.gettyimages.com^
 ||firstpartycookie.istockphoto.com^
+||forms.arabhealthonline.com^
 ||fpc.acphospitalist.org^
 ||fpc.acpjournals.org^
 ||fpc.acponline.org^
@@ -757,6 +760,7 @@
 ||trck.com-sit.dell.com^
 ||trck.comms.watlow.com^
 ||trck.communications.fredhutch.org^
+||trck.connect.mantracgroup.com^
 ||trck.connect.ricoh-europe.com^
 ||trck.contact.valdisere.ski^
 ||trck.dp.intuit.com^
@@ -1061,6 +1065,8 @@
 ||trk.planta.be^
 ||trk.planta.pt^
 ||trk.plantafin.fr^
+||trk.pneumaticproducts.com^
+||trk.premieresanantonioshow.com^
 ||trk.prnewswire.co.uk^
 ||trk.prnewswire.com^
 ||trk.pro-activ.com^
@@ -1161,6 +1167,7 @@
 ||trkcmb.business.hsbc.es^
 ||trkcmb.business.hsbc.fr^
 ||trkcmb.business.hsbc.ie^
+||trkcmb.business.hsbc.lk^
 ||trkcmb.business.hsbc.nl^
 ||trkcmb.business.hsbc.pl^
 ||trkcmb.business.hsbc.uk^
@@ -1320,7 +1327,9 @@
 ||response.abrdn.com^
 ||response.sonosite.com^
 ||response.sonosite.es^
+||response.sonosite.fr^
 ||response.sonosite.it^
+||response.visualsonics.com^
 ||rs.adpinfo.com^
 ||ru.secure.sonosite.com^
 ||s205119.aon.com^
@@ -1507,7 +1516,6 @@
 ||app.now.nowtv.com^
 ||app.online.microfocus.com^
 ||app.payments-response.americanexpress.co.uk^
-||app.payments.53.com^
 ||app.post.vertafore.com^
 ||app.profile.purina.com^
 ||app.pultegroup.com^
@@ -1612,6 +1620,7 @@
 ||content.mcgladrey.com^
 ||content.rackspace.co.uk^
 ||convention.interfaceflor.com^
+||conversation-app.alcatel-lucent.com^
 ||coop.vmware.com^
 ||corporatemrguide.americanexpress.de^
 ||cortellisconnections.thomsonreuters.com^
@@ -1695,6 +1704,7 @@
 ||forms.flightglobal.com^
 ||forms.infor.com^
 ||forms.irdeto.com^
+||forms.ittv.net^
 ||forms.lenovo.com^
 ||forms.mcgladrey.com^
 ||forms.nexsan.com^
@@ -1733,6 +1743,7 @@
 ||hptechnology.arrow.com^
 ||i-ready.curriculumassociates.com^
 ||ibmtechnology.arrow.com^
+||id.mywd.com^
 ||images.connect.mandiant.com^
 ||images.tableau.com^
 ||images.tableausoftware.com^
@@ -1765,7 +1776,9 @@
 ||info.protiviti.es^
 ||info.protiviti.org^
 ||info.protiviti.sg^
+||info.protiviticg.org^
 ||info.protiviticonsulting.ca^
+||info.protiviticonsultinggroup.com^
 ||info.quova.com^
 ||info.thecolonialcenter.com^
 ||info.transcontinental-printing.com^
@@ -1788,6 +1801,7 @@
 ||justsayyes.infor.com^
 ||ko-kr.siemensplmevents.com^
 ||kunde.danskespil.dk^
+||kz.mywd.com^
 ||la.idgenterprise.com^
 ||labs.verticurl.com^
 ||leadmanagement.leads360.com^
@@ -2060,6 +2074,7 @@
 ||catracking.cubiq.com^
 ||catracking.finning.com^
 ||connect.care.pennstatehealth.org^
+||connect.care.sheppardpratt.org^
 ||connect.chapman.com^
 ||connect.info.halifaxhealthnews.org^
 ||connect.link.boone.health^
@@ -2080,6 +2095,7 @@
 ||go.enautics.com^
 ||go.int.vsp.com^
 ||health.atlanticgeneral.org^
+||info.clarin.com^
 ||lp.info.jeffersonhealth.org^
 ||marketing.omeir.com^
 ||microlearning.att.com^
@@ -2158,6 +2174,7 @@
 ||latam.thomsonreuters.com^
 ||lets.go.mcknightsnetwork.com^
 ||mails.coloplast.com^
+||microsite.tibco.com^
 ||mkt.consultdss.com^
 ||partnerwith.us.streetbond.com^
 ||preferences.oakstreethealth.com^
@@ -2182,6 +2199,7 @@
 ||cenmedia.acspubs.org^
 ||connect.acspubs.org^
 ||devtracking.risk.lexisnexis.com^
+||eformsonboarding.globalbanking.wolterskluwer.com^
 ||eloqua.acspubs.org^
 ||forms.anthology.com^
 ||forms.blackboard.com^
@@ -2199,6 +2217,7 @@
 ||iot.informaengage.com^
 ||library.acspubs.org^
 ||marketing.alliant.com^
+||myfuture.futureelectronics.cn^
 ||myfuture.futureelectronics.com^
 ||now.fintechfutures.com^
 ||now.informamail01.com^
@@ -2249,6 +2268,7 @@
 ||ble.ubm-licensing.com^
 ||childrensclub.ubmfashion.com^
 ||connect.care.muschealth.org^
+||connect.care.orthovirginia.com^
 ||connect.mmgnetgroup.com^
 ||contacto.gtc.com.gt^
 ||content.hydraulicsproducts.com^
@@ -2258,10 +2278,13 @@
 ||event.gulfood360kenya.com^
 ||experience.phenomenex.com^
 ||expo.ubm-licensing.com^
+||footwear.ubmfashion.com^
 ||go.healthgrades.com^
+||go.inst.rjinvestmentmanagement.com^
 ||gwm.admc-me.com^
 ||haval.admc-me.com^
 ||health.care.mclaren.org^
+||hydsecure.eaton.com^
 ||info.gtc.net.gt^
 ||inspire.ubmfashion.com^
 ||investments.virtus.com^
@@ -2423,6 +2446,7 @@
 ||economicadvantage.midamerican.com^
 ||elqact.gartner.com^
 ||elqtrack.kubotausa.com^
+||events.la-z-boy.com^
 ||go-elqau.oracle.com^
 ||go.dceoinfo.illinois.gov^
 ||go.engage.alcoaconnection.com^
@@ -2552,6 +2576,7 @@
 ||images.care.tgh.org^
 ||images.cargomarketing.email.aa.com^
 ||images.carte-gr.total.fr^
+||images.cartermachinery.com^
 ||images.checkpoint.thomsonreuters.biz^
 ||images.chef-lavan.tnuva.co.il^
 ||images.cloud.secure-24.com^
@@ -2691,6 +2716,7 @@
 ||images.go.dentsplysirona.com^
 ||images.go.diverseeducation.com^
 ||images.go.elementfleet.com^
+||images.go.eyeconic.com^
 ||images.go.fastweb.it^
 ||images.go.hardware.group^
 ||images.go.hulft.com^
@@ -3000,22 +3026,19 @@
 ||img.n.nasdaq.com^
 ||img.newsletter.mazda.co.jp^
 ||img.omcprimary.outsourcing.co.jp^
+||img.partnermktg.symantec.com^
 ||img.pwc.ie^
 ||img.response.digicert.com^
 ||img.website-security.symantec.com^
+||imgict.dwtcmarketing.com^
 ||imginfo.insource.co.jp^
 ||obrazy.dlabiznesu.pracuj.pl^
 ||response.quest.com^
 ||yourporscheimg.nabooda-auto.com^
 ||zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com^
-||images.cartermachinery.com^
+||conversation-images.al-enterprise.com^
+||images.e.compactaprint.com.br^
 ||images.e.congressionalfcu.org^
-||images.go.eyeconic.com^
-||images.mailaway.abritel.fr^
-||images.mailaway.fewo-direkt.de^
-||images.mailaway.vrbo.com^
-||img.partnermktg.symantec.com^
-||imgict.dwtcmarketing.com^
 ||admin.darnelgroup.com^
 ||archived.first.eloqua.extrahop.com^
 ||archived.learn.eloqua.extrahop.com^
@@ -3053,6 +3076,7 @@
 ||it-business.vodafone.com^
 ||learn.amllp.com^
 ||learn.armanino.com^
+||lp.supremapoker.com.br^
 ||marketing.business.vodafone.co.uk^
 ||mt-business.vodafone.com^
 ||oiat.dow.com^
@@ -3286,6 +3310,7 @@
 ||go.comres.emerson.com^
 ||go.insinkerator.emerson.com^
 ||go.licensingexpo.com^
+||go.ubmfashion.com^
 ||info.burriswindows.com^
 ||info.commercial.keurig.com^
 ||insights.prophet.com^
@@ -3529,9 +3554,11 @@
 ||app.ohiobobcats.com^
 ||app.pittsburghpanthers.com^
 ||app.playhousesquare.org^
+||app.ppacri.org^
 ||app.thevetsri.com^
 ||app.troytrojans.com^
 ||app.utahstateaggies.com^
+||app.yalebulldogs.com^
 ||athl.lsusports.net^
 ||b2binfo.canon-europe.com^
 ||bldr.mkt.samsung.com^
@@ -3579,6 +3606,7 @@
 ||tracker.decomworld.com^
 ||tracker.eft.com^
 ||tracker.eyeforpharma.com^
+||tracker.eyefortravel.com^
 ||tracker.impactconf.com^
 ||tracker.incite-group.com^
 ||tracker.insurancenexus.com^
@@ -3959,6 +3987,7 @@
 ||business.pismo.io^
 ||business.tink.com^
 ||business.visa.com^
+||c.mktg.genesys.com^
 ||care.mercycare.org^
 ||connect.eamc.org^
 ||connect.healthcare.northbay.org^
@@ -3979,6 +4008,7 @@
 ||go.ps.experian.com^
 ||go.techdata.cmimediagroup.com^
 ||info.go.lorainccc.edu^
+||info.response.sagaftra.org^
 ||lakerspreferences.gleague.nba.com^
 ||lakerspreferences.nba.com^
 ||lp.deloittecomunicacao.com.br^
@@ -3987,6 +4017,8 @@
 ||mktg.darlingii.ca^
 ||news.batimat.com^
 ||news.cannesyachtingfestival.com^
+||news.comic-con-paris.com^
+||news.ehonline.eu^
 ||news.equipbaie.com^
 ||news.expoprotection-securite.com^
 ||news.expoprotection.com^
@@ -4010,7 +4042,6 @@
 ||preferences.la-lakers.com^
 ||preferences.lakersgaming.com^
 ||preferences.sb-lakers.com^
-||promotions.hot.net.il^
 ||review.teradata.com^
 ||rxdevfrance.reedexpo.fr^
 ||sales.hot.net.il^
@@ -4019,7 +4050,6 @@
 ||tkelq.genesys.com^
 ||tracking.go.lorainccc.edu^
 ||tracking.go.onshape.com^
-||tracking.hot.net.il^
 ||tracking.lorainccc.edu^
 ||tracking.mail.ti.com^
 ||tracking.mail.ti.com.cn^
@@ -4228,7 +4258,9 @@
 ||campaignresources.motorolasolutions.com^
 ||campaigns.kenschool.jp^
 ||clients.aon.com^
+||connect.care.baptist-health.org^
 ||connect.care.brgeneral.org^
+||countdown.emser.com^
 ||drugtest.questdiagnostics.com^
 ||eloqua.eafit.edu.co^
 ||elq.mh.mercuryhealthcare.com^
@@ -4370,6 +4402,7 @@
 ||app.hailstate.com^
 ||app.jmusports.com^
 ||app.libertyfirstcreditunionarena.com^
+||app.metrotix.com^
 ||app.navysports.com^
 ||app.okcciviccenter.com^
 ||app.siusalukis.com^
@@ -4517,6 +4550,7 @@
 ||landing.georgeson.com^
 ||landings.omegacrmconsulting.com^
 ||lets.go.mmm-online.com^
+||microsite.infoscale.com^
 ||nurse.fastaff.com^
 ||nurse.trustaff.com^
 ||onecloud.avaya.com^
@@ -4569,6 +4603,7 @@
 ||go.securitymsp.cisco.com^
 ||info.cargoexpreso.com^
 ||info.fdbhealth.com^
+||info.frontgrade.com^
 ||info.thecustomerlink.be^
 ||info.uconnhuskies.com^
 ||inform.cigna.com^
@@ -4861,16 +4896,19 @@
 ||forms.direxionshares.com^
 ||forms.progress.com^
 ||gn.informaengage.com^
+||go.direxion.com^
 ||go.fishbowlsolutions.com^
 ||images.marketing.richardsonrfpd.com^
 ||info.authorize.net^
 ||info.clarivate.com^
 ||info.clarivate.jp^
 ||info.digitaltveurope.com^
+||info.gamedeveloper.com^
 ||landing.rasi.com^
 ||lp.go.toyobo.co.jp^
 ||lp.response.deloitte.com^
 ||ma.toyobo.co.jp^
+||marketing2.direxionshares.com^
 ||medtronicsolutions.medtronic.com^
 ||pages.info.anaheimducks.com^
 ||pages.info.hondacenter.com^
@@ -4915,7 +4953,7 @@
 ||www.lowvolatilitysolutions.com^
 ||www.medtronicsolutions.com^
 ||www.muni360.com^
-||app.ppacri.org^
+||app.payments.53.com^
 ||app.response.siemens-info.com^
 ||at.contact.alphabet.com^
 ||be.contact.alphabet.com^
@@ -5016,6 +5054,7 @@
 ||discover.streamly.video^
 ||enrol.cud.ac.ae^
 ||events.glory-global.com^
+||exhibit.decorex.com^
 ||exhibit.firex.co.uk^
 ||exhibit.kbb.co.uk^
 ||exhibit.safety-health-expo.co.uk^
@@ -5092,6 +5131,7 @@
 ||direct.colfondos.co^
 ||eloqua.renesas.com^
 ||email-cm.stage-in.jll.com^
+||email-cm.stage-jp.jll.com^
 ||events.golubcapital.com^
 ||fpc.gartner.com^
 ||gb.click.finning.com^
@@ -5109,6 +5149,7 @@
 ||mkg.colfondos.co^
 ||response.idt.com^
 ||response.ingrammicrocloud.com^
+||s.comm.cemex.com^
 ||s.marketing.us.cemex.com^
 ||secure3.centralparknyc.org^
 ||solutions.adp.com^
@@ -5158,6 +5199,7 @@
 ||go.vitalitybrasil.com^
 ||httr.redskins.com^
 ||hvac.solutions.jci.com^
+||i.chamberlain.edu^
 ||info.adtalem.com^
 ||info.afcom.com^
 ||info.chiesiusa.com^
@@ -5222,12 +5264,32 @@
 ||tracking.utas.edu.au^
 ||visit.adelaide.edu.au^
 ||visit.tafensw.edu.au^
+||automotive.kangan.edu.au^
+||connect.adelaideuni.edu.au^
+||contact.lesmills.com^
+||contact.samsungsds.com^
+||education.bendigotafe.edu.au^
+||events.bendigotafe.edu.au^
+||events.kangan.edu.au^
+||events.vetassess.com.au^
+||form.ict-toshiba.jp^
+||go5.global.toshiba^
+||info.bendigokangan.edu.au^
+||info.bendigotafe.edu.au^
+||info.eworks.edu.au^
+||info.kangan.edu.au^
+||lp.mkt-email.samsungsds.com^
+||online.hnoexpo.com^
+||promotions.kangan.edu.au^
+||realeducation.kangan.edu.au^
+||tracking.mkt-email.samsungsds.com^
 ||backuplanding.ubm-events.com^
 ||comms.cigna.co.uk^
 ||comms.cigna.com.hk^
 ||comms.cigna.com.sg^
 ||comms.cigna.es^
 ||comms.cignaglobalhealth.com^
+||decorex.ubm-events.com^
 ||download.dnv.com^
 ||elq.ricoh-europe.com^
 ||energy.eneco.be^
@@ -5242,6 +5304,7 @@
 ||engage.ricoh.pl^
 ||engage.ricoh.pt^
 ||eu.cignaglobalhealth.com^
+||firex.ubm-events.com^
 ||go.cf.labanquepostale.fr^
 ||go.send.waoo.dk^
 ||go.ubm-events.com^
@@ -5262,6 +5325,7 @@
 ||links.email.hx-intermediaries.co.uk^
 ||links.emails-sharedealing.co.uk^
 ||links.emails.birminghammidshires.co.uk^
+||links.emails.international.lloydsbank.com^
 ||links.insurance.lloydsbank.com^
 ||links.lexautolease.co.uk^
 ||links.npsemails.mbna.co.uk^
@@ -5279,6 +5343,7 @@
 ||show.tissueworld.com^
 ||shows.anticipate-event.com^
 ||shows.anticipate-london.com^
+||sleep.ubm-events.com^
 ||subscribe.dnv.com^
 ||tracking.marketing.frequentis.com^
 ||tracks1.ferrari.com^
@@ -5361,6 +5426,7 @@
 ||fpc.utexas.edu^
 ||go.ali-cle.org^
 ||go.billsmafia.com^
+||go.enterprisecenter.com^
 ||go.himssconference.com^
 ||go.join.himssconference.com^
 ||go.psentertainment.com^
@@ -5448,6 +5514,7 @@
 ||communications.lansa.com^
 ||communications.sencha.com^
 ||communications.ultraedit.com^
+||comunicacioncorporativa.moctezuma.com.mx^
 ||content.eaton.com^
 ||engage.marketone.com^
 ||events.lexmark.com^
@@ -5464,6 +5531,7 @@
 ||get.ukg.in^
 ||get.ukg.mx^
 ||get.ukg.nl^
+||give.mcw-fhf.org^
 ||go.email.santotomas.cl^
 ||go.fairviewmicrowave.com^
 ||go.fhlbny.com^
@@ -5485,6 +5553,7 @@
 ||lp.fusioncharts.com^
 ||lp.news.filestack.com^
 ||lp.ultraedit.com^
+||lp.wholetomato.com^
 ||metricsinfoqac.edc.ca^
 ||mkg.info.ionanalytics.com^
 ||myfiltration.eaton.com^
@@ -5574,26 +5643,8 @@
 ||web.care.wakemed.org^
 ||web.health.memorialcare.org^
 ||welcome.e.chiefs.com^
-||connect.adelaideuni.edu.au^
-||contact.lesmills.com^
-||contact.samsungsds.com^
-||education.bendigotafe.edu.au^
-||events.bendigotafe.edu.au^
-||events.kangan.edu.au^
-||events.vetassess.com.au^
-||form.ict-toshiba.jp^
-||go5.global.toshiba^
-||info.bendigokangan.edu.au^
-||info.bendigotafe.edu.au^
-||info.kangan.edu.au^
-||lp.mkt-email.samsungsds.com^
-||online.hnoexpo.com^
-||promotions.kangan.edu.au^
-||realeducation.kangan.edu.au^
-||tracking.mkt-email.samsungsds.com^
 ||connect.albawani.net^
 ||connect.groupamana.com^
-||connect.care.orthovirginia.com^
 ||demo.elqpod.relationshipone.com^
 ||future.uwindsor.ca^
 ||learn.uwindsor.ca^
@@ -5616,6 +5667,10 @@
 ||my.unisq.edu.au^
 ||www1.kawasaki-motors.com^
 ||esales.ycc.sa^
+||form.info-morimoto-real.jp^
+||marketing-ap.mitsubishi-copper.com^
+||marketing-ap.mmc.co.jp^
+||sms.anu.edu.au^
 ||go-stage.oracle.com^
 ||go.canadalifecentre.ca^
 ||go.moosehockey.com^
@@ -5643,10 +5698,6 @@
 ||team.elq.coles.com.au^
 ||www.viatrisvantage.com.au^
 ||ltam2.secureforms.mcafee.com^
-||marketing-ap.mitsubishi-copper.com^
-||marketing-ap.mmc.co.jp^
-||sms.anu.edu.au^
-||track.deloitte.com^
 ||microsite2.dylansnoddon.com^
 ||microsite3.dylansnoddon.com^
 ||workshop.stronde.com^

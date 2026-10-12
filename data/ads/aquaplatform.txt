@@ -92,8 +92,12 @@
 ||console.datateam.co.uk^
 ||console.engineeringnews.co.za^
 ||console.everythingcolorado.com^
+||console.everythingnevada.com^
+||console.fa-mag.com^
 ||console.faithlifeads.com^
 ||console.falconstudios.com^
+||console.fnch.ch^
+||console.geminipub.com^
 ||console.goldseek.com^
 ||console.greenspring.com^
 ||console.hour-media.com^
@@ -108,6 +112,7 @@
 ||console.medlabmag.com^
 ||console.mequoda.com^
 ||console.miningweekly.com^
+||console.mondiale.co.uk^
 ||console.palmbeachmedia.com^
 ||console.pinktriangle.ca^
 ||console.polity.org.za^
@@ -122,6 +127,7 @@
 ||console.trackandfieldnews.com^
 ||console.unionesarda.it^
 ||console.walaplusadserver.com^
+||console.worldofshowjumping.com^
 ||console.wwoz.org^
 ||coreads-static.cambridge.org^
 ||coreads.cambridge.org^
@@ -172,6 +178,7 @@
 ||revive-console.worldscreen.com^
 ||revive-static.worldscreen.com^
 ||revive.ahk.de^
+||revive.teck.com.br^
 ||revive.worldscreen.com^
 ||reviveapi.geenstijl.nl^
 ||rtvutrecht-static.reviveservers.com^
@@ -221,7 +228,6 @@
 ||servedby.sacommunications.com^
 ||servedby.schrotundkorn.de^
 ||servedby.tahoe.com^
-||servedby.teck.com.br^
 ||servedby.thinkresult.in^
 ||servedby.trackandfieldnews.com^
 ||servedby.walaplusadserver.com^
@@ -232,6 +238,7 @@
 ||static.ad.logic-prod.viasat.io^
 ||static.ad.logic-test.viasat.io^
 ||static.ad.logic.viasat.io^
+||static.ads.fanta-olimpiadi.com^
 ||static.ads.fantasanremo.com^
 ||static.ahk.de^
 ||static.ammoland.com^

@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME disguised ads list
 # Description: The list of unique ads domains that disguise the real trackers by using CNAME records.
-# TimeUpdated: 2026-10-09T14:25:18+00:00
+# TimeUpdated: 2026-10-12T13:36:26+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 *.exaapi.com
@@ -22,6 +22,7 @@
 02b38ee0a0.fa79b54337.com
 03111beda1.28cb84740b.com
 035bebe184.c02a1b8438.com
+03be2bbfe2.be09b02191.com
 03f8e481e5.119dbc9238.com
 03h6fpes.xyz
 0488531c4b.777ebfeef8.com
@@ -36,8 +37,10 @@
 06b36b4508.5813e74b18.com
 06df67950b.cd2ef10dae.com
 08aa393741.700d5deaa5.com
+09492f25c7.5475a282b8.com
 0991cfa662.2aa502e2fe.com
 09af1fca04.9e11ec3a56.com
+09fa0ed0b8.223f211e77.com
 0a186254d0.cf25ba90cc.com
 0a18ad853c.a77d59b9bb.com
 0a2bdfc424.0e176a58eb.com
@@ -49,6 +52,7 @@
 0bfba78cbf.95625cabb9.com
 0c35bb1b81.030363cc95.com
 0c43ec936e.d1e223a9f2.com
+0c5ed0eaf6.48f0bc78f9.com
 0c6bdc3ecc.cfabf1ef11.com
 0cf874fc22.444eccc264.com
 0d007b9ed4.e091049a84.com
@@ -65,6 +69,7 @@
 0i.sh-cdn.com
 1.b6y1umem7u4794h1.cfd
 1.ccriff5fggzexg95.cyou
+1.czkcwjtgn8tcf8lr.cyou
 1.elv49pbe2hxqpxuu.cyou
 1.lx8boenb9n95ncvgjq.cyou
 1.w41fttvhkpti2e42mtvv.cyou
@@ -104,10 +109,10 @@
 1718ced2e5.9c6d95b6b3.com
 176a7dbbe4.5355b252cf.com
 178d4a7678.11b5e84fb9.com
-17f9a9fb6c.e910e94be7.com
 17mjq.gci4htc7y58on2btb1i.cyou
 18cfe73bfa.800482112b.com
 194e1b9846.06f864e06a.com
+194ko.i57eokfjiwoqxzlmetc.cyou
 1978fa25f3.9715e7fea4.com
 197f058bb4.99ad29e111.com
 19c1cd4c61.9a8f641701.com
@@ -136,6 +141,7 @@
 1cc66b6166.352396e005.com
 1cv9wms6.xyz
 1d204d7192.ea32481d6e.com
+1d7179cda7.9b82388aa0.com
 1d7e60f18a.33cd95e164.com
 1e88ea0e55.540484935e.com
 1e8c293107.cf20334dc1.com
@@ -148,11 +154,15 @@
 1g.8un3nbur69v8vvnn.cyou
 1i1.badbunnytheelf.online
 1irx.kor54ifwhyrug2.cyou
+1k.fn3qzvrbvemon9bl4.cyou
 1no.yooeiiqrbwm86x61.cyou
+1onlt.cli1x4kbjw9j3op.cfd
 1pb6rq.7937mkij8nh2yl.cyou
 1px8.8w5v8jtixyirpe1p.cfd
 1t5agapb.xyz
+1ti8n22.8o9jjl21flk8hj.cyou
 1v.5vfk9hllh6jbkiylrlu.cyou
+1wm.lvc9zoqon2ytx7tqj3.cyou
 1x.ov6r1om1wf6eby55ky7j.cyou
 1x6arks9.xyz
 1z.x2yf75rzmg8w6mxt73it.cyou
@@ -187,6 +197,7 @@
 25kkp.ymnu59pw4f96yo1ie2cv2ixwj2.cyou
 25serve.yourporngod.com
 260abb66a4.841eda195c.com
+2694316985.2c6ee0a58a.com
 26c700aea2.6840122afa.com
 2716de5c33.9e1b47e1b9.com
 27330e2525.44cd912290.com
@@ -206,6 +217,7 @@
 298b7856d1.ea0e8330c0.com
 29b0156692.e2d8db7931.com
 29df74a3db.ccb836bd09.com
+29pt.7ipjpgy1nz4bzqx4y9q4r45cz4jy.cyou
 2a4e06fbcf.daa9425b1e.com
 2abfe135a9.16c1717207.com
 2b294985f3.900f3c4717.com
@@ -220,6 +232,7 @@
 2cnkcfgbxh.m4ytiolyp22po5t.cfd
 2d07e10523.f77b54ef34.com
 2db1107507.0d9063412c.com
+2e0257fad3.858dfdc554.com
 2e8d093357.3bcfbe6fbf.com
 2ed7b22f43.94f7a76774.com
 2ee044ee1d.e0800cb704.com
@@ -231,12 +244,14 @@
 2hvtrw.84nzhjc7pen7hr6murjr.cyou
 2jc.cqmor2el7p44ypwnq8yhk7q.cyou
 2n5kjrq32x68w.kklnlohzmvhu2k.cyou
+2t9t.84wovp3lloxn7pnmiezj6hncn.cyou
 2v247j25p15kw.wu5fyol71lmrpftq.cyou
 2v378cds.xyz
 2vfpjcpy351cwug.63xr7vjq6v9xhp.cyou
 2wygltrjq1.h79xho6zgijze24hv94.cyou
 2x.kzzubknnwbtix7g22mkewimpn6gc.cfd
 2ykz4plj.xyz
+3.km7ru2n2jhtfjurotvho91ulyl4gk1121v.cfd
 3082420b7f.eeb201e6da.com
 30b2635297.960021c71c.com
 30d48a7af1.5852e7a452.com
@@ -537,6 +552,7 @@
 33dd9e9342.84e867f7b4.com
 33e575cb57.a02e31b105.com
 33ewu7kr.xyz
+33he4tb58lyxpmruzvxj3x2yx.x8v3hc324z7514.cyou
 33serve.bussyhunter.com
 3400453.notifysrv.com
 3404041.notifysrv.com
@@ -605,6 +621,7 @@
 3501655.notify6.com
 3505119.notify6.com
 3505127.notify6.com
+3505139.notify6.com
 3505141.notify6.com
 3505883.notifysrv.com
 3505935.notify6.com
@@ -647,9 +664,11 @@
 3570741.notifysrv.com
 3572273.notify6.com
 3572273.notifysrv.com
+3572277.notify6.com
 3572277.notifysrv.com
 3572279.notifysrv.com
 3572283.notifysrv.com
+3572285.notifysrv.com
 3572291.notify6.com
 3572299.notify6.com
 3572299.notifysrv.com
@@ -660,6 +679,7 @@
 3580293.notifysrv.com
 3580393.notifysrv.com
 3584069.notifysrv.com
+3584913.notifysrv.com
 3585013.notifysrv.com
 3585133.notifysrv.com
 3585435.notify6.com
@@ -782,6 +802,7 @@
 37c4c6c01f.7136e19c50.com
 37ccf2671e.95ce9fb0ff.com
 37d5a84293.cc38229b6c.com
+38.53z8qvgw8894he7znoert74jn3v1t1flji1jhk.cfd
 3803de1393.59d4336924.com
 3815573.notify6.com
 3815579.notify6.com
@@ -849,6 +870,7 @@
 3943940.notify6.com
 3944044.notify6.com
 3944974.notify6.com
+3944976.notify6.com
 3944978.notify6.com
 3944980.notify6.com
 3945010.notify6.com
@@ -894,6 +916,7 @@
 3cabf4dbb4.da1b05834d.com
 3cae66b6fb.fa7e69f2d7.com
 3cd1290174.3d6a6c3707.com
+3cvwj7t.7oghv2hogb283eu1gzqp7bzt7j.cyou
 3da400e3ed.1f2c6ca393.com
 3db2df98c2.a42a39a7d7.com
 3deb5cf44b.62a53367c9.com
@@ -911,19 +934,23 @@
 3krujww3z31l4def.bloblohub.com
 3m3vmyfg5ew8.8x3hooqfp5hme63yviqpece.cyou
 3mnh.ln5n7gu14yikp189jgpjvok42nqk32x.cyou
+3o4e6g3jc.6p7l2omwl3bqki4ynglcxelnmw8.cyou
 3puucoqgycfv.bk5o4ik1ul55r5h3bc8fhukz.cfd
 3r54cb.kx2xpzbw2235ui6rjylhkflgn37i86.cyou
 3rvt28fkv5.p4ncioik78e5nuc8cjkr4m4m14.cyou
 3rw0usds.xyz
 3u3ymbqj.xyz
+3wvn3zttj9jjr2t223b17y.75bg8nhzf4kngjg.cfd
 3x49w6.15mxqionfmjc6jowlk1rvbfj25f44vfg.cyou
 3y1r1wu8qqguznl.hy1jf5i4nkymqfnm3tqqg7u.cyou
 4.9kcut8werch6hbker1yub.cfd
+4.9orrhu9wxt9qv3fie5txy.cyou
 4.btqz5ehvpub65t.cfd
 4.e3p4txk8xk2gi5.cyou
 4.gukj8k9h8oxi44c.cyou
 4.kbghzv63rtjnzx3m.cyou
 4.luue6en2mkihm6zk.cyou
+4.n8mqz1u273he3piu.cyou
 4.notify.bizonads-ssp.com
 4.xipgfr3juc49mcipo7r.cfd
 4003022.notify6.com
@@ -944,11 +971,13 @@
 4048172.notify6.com
 4050544.notify6.com
 4050740.notify6.com
+4057d69faf.ccb14e7844.com
 4061366.notify6.com
 4062416.notify6.com
 4068860.notify6.com
 4069896.notify6.com
 4069900.notify6.com
+4086498.notify6.com
 4093690.notify6.com
 4096386.notify6.com
 4097564.notify6.com
@@ -960,6 +989,7 @@
 4106200.notify6.com
 4130286.notify6.com
 4131834.notify6.com
+4133596.notify6.com
 4144426.notify6.com
 4146746.notify6.com
 4146994.notify6.com
@@ -1038,10 +1068,13 @@
 4454624.notify6.com
 4455804.notify6.com
 4465254.notify6.com
+446bcd4967.8e296d5096.com
 4470554.notify6.com
 4496664.notify6.com
+4499ee878f.009f45b51c.com
 44b6d66394.a2e5b82fea.com
 44ca9aad2f.0fa6d5f434.com
+44e6d6204f.38d940fee0.com
 44eb6b73d7.dc036be5b9.com
 450a.feet9.com
 4517e0132e.634f8fb116.com
@@ -1126,6 +1159,7 @@
 4a953a3361.33fd1ab248.com
 4b6e658780.900f44159b.com
 4b92e31a63.ac674aa453.com
+4bd36e6f9b.c6f5e532ff.com
 4c4710bfc9.23f30d7ca1.com
 4c9409e306.0c2bddd1f6.com
 4dad720668.44216f3fdf.com
@@ -1142,16 +1176,17 @@
 4fde272183.ed49f13aad.com
 4fvk99z4.xyz
 4j.eu5v4zpuyxnr55.cfd
-4k.2zxg8qlei23bc8h.cfd
 4k.fanza18r.online
 4l.vlgtgclmpk95tbf.cyou
 4mp.xewp5et8izo2eq.cyou
 4nn.uyy3t41kzm36j6.cyou
+4r78.mpptrmrlqkn2pq.cyou
 4tdmwljd.xyz
 4v55.jkc86po2u6ynzwb.cfd
 4xh3.lhdyq.site
 4y5k4.4mkej28ikgux28n.cyou
 5.1tb588z5f5o1bwjp6ok9ym29r7i.cyou
+5.3pohpyurxxirl1mqtzj1mj2p1ftj.cfd
 5.5tvcz6ovxvxxptj71te9ipl7hggw.cyou
 5.ey7rgvrtk4x4zhi8ju6v2u.cyou
 5.grb24e28ovlqn5e8m3wohjr.cyou
@@ -1162,6 +1197,7 @@
 507340f398.730fcb332f.com
 5077248.notify6.com
 5083da2b5a.38a6848c49.com
+50c084a730.af9bb5da67.com
 50e57be19a.b0ff04e647.com
 50eaa1d8d4.2d86bbe43f.com
 5111734.notify6.com
@@ -1198,7 +1234,6 @@
 5551554.notify6.com
 5571074.notify6.com
 5617898.notify6.com
-5636bc7886.02672653a1.com
 5658264.notify6.com
 565ddd0acd.4c4a520279.com
 56752871e9.50e7f2cef8.com
@@ -1247,6 +1282,7 @@
 5c8e66a693.57fe705a09.com
 5d39b57493.302396f6ae.com
 5d7c9e20e7.87a24216ce.com
+5d8b19b64a.642596c296.com
 5e56217cd5.396d8aaa17.com
 5eb7c33741.4c469d624d.com
 5fd0b51dd6.5183078ff8.com
@@ -1261,7 +1297,9 @@
 5qryjrx3.xyz
 5rgh87i44.zo5etlmx5mzx7wxcw.cyou
 5stars.yeesshh.com
+5tgkx4vff.qe1zwooolvi6tozubf.cyou
 5tzveee.xxvkyrb388nnn5mwq9cb.cyou
+5ul19k.emcv4fcvxbefc7ve9wgfq.cfd
 5v61.hb72kvmlnbjjxu3zogjbw52.cyou
 5ykkruv3c75.qxif497o6q61e2nep.cyou
 6003ed4af4.947e33602e.com
@@ -1279,6 +1317,7 @@
 62a09202c3.8537b5712c.com
 6366d69e41.6a3c31f670.com
 63dcf0124c.86c67c238d.com
+6424ae2542.d6803eed52.com
 6446fb7d55.98ab3242f8.com
 64898181df.d1f6bb22dc.com
 64c32c9616.49a15e8b76.com
@@ -1288,9 +1327,12 @@
 65a86a933f.2601e2d1ea.com
 65cf722599.2759c90491.com
 66780e33a6.6227bf19ed.com
+669d2b25db.90ecb198f0.com
 677.nfnt9g8bq8phgkf9ox91m4v9uewko6uu5gl.cyou
 67a120c980.8f17d89ec7.com
+67bu6n1xpg38vtk141.1xulomppkrwcr8zni6yz.cfd
 67xotm74h.px3rq7e9jhtm25e3yrv34xkr3233j.cyou
+682f18b1ec.5249857ceb.com
 689ee63ccc.439f4b8c75.com
 68a8b43f0d.ca06ef821c.com
 6969.javher.com
@@ -1304,10 +1346,12 @@
 6a8dca7508.43429a7552.com
 6a931224fb.48c5089fa7.com
 6a9b8cfc0d.ded198a06d.com
+6aafb03a0e.c4f59ba59b.com
 6aec26cade.917d078238.com
 6b35e006cb.99892220ca.com
 6b387ccb0e.ff35f7a0b5.com
 6b73ee69e0.dea21aeefc.com
+6b899f30bf.08d59ed715.com
 6buueioe.xyz
 6c5ca44ad4.d6fc2de2ee.com
 6c71340b42.4b0541a1c9.com
@@ -1329,6 +1373,7 @@
 6g8q73f.g8f4zc4jqfitu4uzib8vbrtzh.cyou
 6gxvxg.f66kb169q66x7xqkl6y26ycnug.cyou
 6gz2kik2u1.exht7oz1w15zjkrxolfctr.cyou
+6hrcl.rh2yexwirpw7guh1h6fy3e2twn8.cfd
 6hre3.3yvfmvymxemboxpq1b8vlo291uc.cyou
 6ihxf34nnqw2cc.52gj1bci36yw83ibhu.cyou
 6jm3ujowjxpg63hx.7lp3hrzqwzryni94.cyou
@@ -1344,6 +1389,7 @@
 6xmgu8ocyqj9ujfv8vbqv.y6c6518mol6ye73.cyou
 6z6a2i0u.xyz
 7.65on65gofrvc3wcj2yh.cfd
+7.pohmg9cfe3yier7.cyou
 7.wveylhgybnc2679f.cyou
 7.ybjje1965kf5nxzbg.cyou
 7021678b65.6d1e5b5068.com
@@ -1361,6 +1407,7 @@
 7301711620.8f0fc8c940.com
 737d5238dc.680e6a23f1.com
 743f.whypjpt2p4p9gc7.cyou
+747.95g9qp282fj9bxrp.cfd
 7492d39127.1857db6b77.com
 74a54ccd8d.56ac3c29f3.com
 74d963ww.xyz
@@ -1379,8 +1426,10 @@
 7740d27054.f8c00ef6a5.com
 7755961173.17ce57fe70.com
 78.72h1i16uzmbkvpn2e5.cfd
+7857f29d64.a04fd7399b.com
 7860e98a2d.8d43622b2b.com
 7879499271.3258994ce4.com
+78ab84f8b0.468923686d.com
 78ded777d1.57703b28d4.com
 78f930e289.19b48064cd.com
 7910b95864.bc2268747f.com
@@ -1388,6 +1437,7 @@
 7987ca87e2.28a0578796.com
 79b476a32f.85a30cce17.com
 79dda0a04a.06e6611fca.com
+79w2.gekjuixgvzywv8nl.cyou
 7a0bb92c6b.0c174010e1.com
 7a1d2e7b26.a0948db4ee.com
 7a3a49d449.637e3634c5.com
@@ -1427,6 +1477,7 @@
 7tm.nuibkb6t38m1k5.cyou
 7wm.iq28131hrcygj2.cyou
 7wrxo2xh.iriscreative.co
+7y5x.tl17lhvvhnpvig.cyou
 8.l9kqpv4hpbn5l7hpqck9t3.cyou
 8.notify.bizonads-ssp.com
 8.t56w3jk3hu3gvj27ee1eo9oy.cfd
@@ -1454,6 +1505,7 @@
 869944397f.51c3ffbef9.com
 86b1d5df81.21b95312a1.com
 86eed1e4bf.baf3838b31.com
+86tfl.3yg1jumo1xthkez6vgo6665.cyou
 8707c7e689.dec0c1a14f.com
 883cfbe09c.6d30803f5f.com
 887d5f7b0d.57f6508c2d.com
@@ -1491,11 +1543,13 @@
 8l7cvl.g1vhnrmz59qk5ij4f.cyou
 8m9.8xb3njrjigxhge9q9mp2.cfd
 8mv.jf7y5erhc86g62ozvlbj.cyou
+8nqp2.ur5tyhny69q53nntcz.cyou
 8t968n3q7.6lilx8mohgkbqegl.cfd
 8wp91cpf.xyz
 8xykxu7.jfgrpuy5f326nlcovcg.cyou
 8yqqgn5g.xyz
 8zft.bv7mt8ifmomphr8yxkv7g1.cyou
+8zt4vk.7qehbnzceqi1wqzcnkib.cyou
 9.f2kif7rht23wkr6kwqftuw99m1u7.cyou
 90390e7e02.02e4a0ea60.com
 905127b34f.b40d52efb7.com
@@ -1534,6 +1588,7 @@
 9831bd21d7.8f998710bd.com
 984aea54f6.c8aae076f1.com
 98a61a11f5.1ebda33434.com
+98c70985fa.e6b1cbefe5.com
 98kuyjnohfr2f9.2zqq8yne1r3nv4g954vnik.cyou
 9933284471.f9c42cfe0d.com
 99923c5e44.6341e249b2.com
@@ -1574,7 +1629,9 @@
 9kz9cttz76.antonsten.com
 9lwl6rsk.xyz
 9nxp54lhhoez.vbnji2n837hiogntp6t.cfd
+9ohyhwyt4qrh.etzej1fu6q755opovuwz.cyou
 9pmufxiivog3mn.l9f7pjkhkcn2x21fet.cfd
+9pnu8ukg386fjxc8.5wk6gvt164hxbuep.cfd
 9wdjf9va.xyz
 9wmy9.iqjh32nrfhguxpucqo4ro7hr9vyg.cyou
 9xpkghf.8vu8uth3yp3r545ki1q7g1ytuq2.cfd
@@ -1708,6 +1765,7 @@ a.kerot.xyz
 a.ketar.xyz
 a.klico.link
 a.letsjerk.tv
+a.likestar.cc
 a.luckygoon.cc
 a.ma3ion.com
 a.maple-sky.com
@@ -1781,8 +1839,8 @@ a7225d1b53.9db168b3bd.com
 a73c1d6c00.039858f297.com
 a74036e70e.8e1fb7aeb7.com
 a82e6920a2.47cb693fa6.com
+a8ae79b04a.0175a3229c.com
 a8c77dd89e.2dfdea8c5a.com
-a9489d718e.6b8381c695.com
 a9780eb84d.a065b8f217.com
 a97f7fb23a.9da190a7d9.com
 a9ad63bf38.c2b92903fa.com
@@ -1798,6 +1856,7 @@ aa85d4d6e6.37b3eaaf9a.com
 aa9f0bdc1e.e4577d6fef.com
 aab.faperoni.com
 aab.taboohome.com
+aab.z030z.com
 aab1.z030z.com
 aab2.z030z.com
 aabb.faperoni.com
@@ -1963,7 +2022,6 @@ ajs.laketrend.com
 ajs.selecttopoff.com
 ajs.statelinear.com
 ak-tracker.com
-ak.hidingsdorr.qpon
 ak.wabsteruncrude.qpon
 akarakas.com
 akcdn.nativeadsfeed.com
@@ -1988,7 +2046,6 @@ amphibian.studionimbus.nl
 amphibian.tboa.club
 amplify.madison365.com
 ams.lustytube.net
-an.glaverinsea.shop
 anaconda.venturearc.io
 anaconda.webitizeicts.com
 anaconda.zephyrus.gg
@@ -2035,6 +2092,7 @@ aphid.polarcop.com
 aphid.smartjournal.no
 aphid.thyself.me
 aphrodite.notifysrv.com
+api-dev.bloblohub.com
 api.ad.logic-prod.viasat.io
 api.ad.logic-test.viasat.io
 api.ad.logic.viasat.io
@@ -2153,7 +2211,6 @@ at.h24.news
 atk.pxointr.com
 atrium.notifysrv.com
 autoconfig.directory.notifysrv.com
-av.leewanocimum.qpon
 av.sharktube.net
 avemariaas.vmrcommunications.com
 avkz.63gd2s.lol
@@ -2166,6 +2223,7 @@ azlej8cdm.pragmaticwebsecurity.com
 b.72ckgctit6mngwqbbo2ln.cyou
 b.bloblohub.com
 b.comihon.com
+b.f9jpibcv6ytoh8.cyou
 b.filexan.com
 b.find-me-girl.com
 b.fz6g5l9v8kmnrq.cfd
@@ -2189,7 +2247,7 @@ b0bd111ef3.794bbcc998.com
 b0f150be47.96e7bee058.com
 b1.hentaibaka.one
 b14yu2.k12hmfttvyyc1v.cyou
-b17936d699.8af0229830.com
+b171c74cd5.d8efadf928.com
 b1f51f1561.79fb811d53.com
 b1ll3r11.xyz
 b1xuekes.xyz
@@ -2324,6 +2382,7 @@ bn.adasgxsp.cc
 bn.asgadmp.cc
 bn.asgadsts.cc
 bnrs.shemrec.cc
+bo.h24.news
 bo.nicklesgamily.qpon
 boa.auaesthetics.com
 boar.hopehollow.com
@@ -2392,7 +2451,6 @@ bullen.goasrv.com
 bulletinsretard.goaserv.com
 bullyingsinfronteras.goasrv.com
 bulten.goaserv.com
-bulten.goasrv.com
 bundle.ppass.xyz
 burclar12.goaserv.com
 bursa.conxxx.pro
@@ -2442,9 +2500,9 @@ c317acaa11.28dafd89fb.com
 c31945ec5c.7550f3b810.com
 c385be1b58.00427011ae.com
 c418cb406d.5c536d71ba.com
+c48278fffa.fbe7024bc6.com
 c4d5dfcd25.d58ad0184a.com
 c51f5526ee.555cee77d3.com
-c521ffeb96.d4020f5f0f.com
 c5a6d83ee1.2872921869.com
 c5b0df73df.d594f004f4.com
 c5c1f92a70.4ad4ba0610.com
@@ -2452,11 +2510,13 @@ c637.jgnr1mtuwez8o6viwu9mb89o6u.cyou
 c644f5ccf1.4373ab4d71.com
 c664bf1250.b677b1ad62.com
 c7249753ab.392f4e9ce8.com
+c73942c497.ec37d6572b.com
 c79bf78725.a27fac55e0.com
 c7e527aef9.69b31e7623.com
 c8.kv83hpmznqxitetm5fvgit69oolf.cyou
 c80cc4bf23.69c3736082.com
 c84483ab65.bd8cfb84ab.com
+c8gi8hrlp.p6c8ggg8lu8r8o7ynijbp.cfd
 c8y.crazyporn.xxx
 c92a8a2de1.a0d3dd0c89.com
 c93f3f936a.b636cce57e.com
@@ -2481,6 +2541,7 @@ caceres.go-static.info
 cache.myth.dev
 cache.picxxxhub.com
 cache.thetbull.com
+cadc0f0d3d.8dc76b41b6.com
 cahnrs.goaserv.com
 calbaptist.goaserv.com
 calculadora-cientifica-pro.goasrv.com
@@ -2581,6 +2642,7 @@ ccf8c55f34.63794fc885.com
 ccfebb7661.38b75d2c1e.com
 cd.bloblohub.com
 cd03a8c790.f247dab479.com
+cd2a2e582c.0e091251b2.com
 cd607a72c0.7277af1ba3.com
 cdaef97ff5.31ab988f3b.com
 cdigital.goaserv.com
@@ -2640,6 +2702,7 @@ cdn.cloudvideosa.com
 cdn.conservativestar.com
 cdn.crsope.com
 cdn.cryjun.com
+cdn.danwosd.cloud
 cdn.datateam.co.uk
 cdn.dawplm.com
 cdn.decpo.xyz
@@ -2718,6 +2781,7 @@ cdn.nuqwe.com
 cdn.oo-t.com
 cdn.orjfun.com
 cdn.paluinho.cloud
+cdn.paqod.com
 cdn.pctv.xyz
 cdn.personare.com.br
 cdn.pfiuyt.com
@@ -2747,6 +2811,7 @@ cdn.rqwel.com
 cdn.rtyufo.com
 cdn.sblhp.com
 cdn.sentinelp.com
+cdn.sepyok.com
 cdn.shrtfly.vip
 cdn.sphinxtube.com
 cdn.spnut.com
@@ -2805,6 +2870,7 @@ cdnjs.contentsprinter.xyz
 cdnjs.elastic-sync.xyz
 ce5cfafc74.3c1d2ad9d8.com
 ceb.f53kzx5xr214nbhz4uoh.cfd
+ceda5a0ae1.7f853d11fc.com
 centipede.davimug.com
 centraali.goaserv.com
 central.us.h24.news
@@ -2828,6 +2894,8 @@ cgf6tm44.mlm51ezrwbo2beq9.cyou
 cgi.city.goasrv.com
 cguv93.xhuytw3pl9cn6vvizk.cyou
 cgw46pe4.xyz
+ch-fr.h24.news
+ch.harbbabools.cyou
 ch.tbllem.com
 championads.midtc.com
 charles85.goaserv.com
@@ -2934,6 +3002,7 @@ click-eu.explodasclksec.com
 click-eu.fiddirexol.com
 click-eu.globlemath.com
 click-eu.jundclikrmdi.com
+click-eu.junexclkmid.com
 click-eu.mediacpc.com
 click-eu.pclk.name
 click-eu.plarimocl.com
@@ -3097,7 +3166,6 @@ clo1p7jd.xyz
 clone.goaserv.com
 cloud9games2.goasrv.com
 cloudinsky70009.tian.go-static.info
-cloudli.goaserv.com
 clover7-webnote.goasrv.com
 clownfish.elihorne.com
 clownfish.onvard.de
@@ -3138,6 +3206,7 @@ concession072925.shop
 condor.oskarthoren.com
 condor.stadttunnel-feldkirch.at
 confetti.moodle.go-static.info
+confluence.goaserv.com
 conhecendoseumicro.goaserv.com
 conky.goaserv.com
 connect.adsolut.in
@@ -3164,9 +3233,13 @@ console.cricketworld.com
 console.datateam.co.uk
 console.engineeringnews.co.za
 console.everythingcolorado.com
+console.everythingnevada.com
+console.fa-mag.com
 console.faithlifeads.com
 console.falconstudios.com
 console.flairads.com
+console.fnch.ch
+console.geminipub.com
 console.goldseek.com
 console.greenspring.com
 console.hour-media.com
@@ -3181,6 +3254,7 @@ console.mannixmarketing.com
 console.medlabmag.com
 console.mequoda.com
 console.miningweekly.com
+console.mondiale.co.uk
 console.palmbeachmedia.com
 console.pinktriangle.ca
 console.polity.org.za
@@ -3195,6 +3269,7 @@ console.thedailyhorn.com
 console.trackandfieldnews.com
 console.unionesarda.it
 console.walaplusadserver.com
+console.worldofshowjumping.com
 console.wwoz.org
 construnormas.goaserv.com
 contact-gloss-production.accelerator.net
@@ -3219,6 +3294,7 @@ cordier2.goasrv.com
 coreads-static.cambridge.org
 coreads.cambridge.org
 corelab.go-static.info
+corp.bloblohub.com
 corporate.go-static.info
 cougar.augmentedmindapp.com
 cougar.wzulfikar.com
@@ -3231,6 +3307,7 @@ coyote.txet.ch
 cp.josedeechegaray.madrid.educa.goaserv.com
 cpanel.hubhubhub.name
 cpm.152media.cloud
+cpm.adapace.com
 cpm.adbite.com
 cpm.adjux.com
 cpm.adlive.io
@@ -3299,6 +3376,7 @@ cpm.strongmetrics.io
 cpm.theardent.group
 cpm.thecdn.site
 cpm.tris.com
+cpm.tyroo.com
 cpm.unibots.in
 cpm.upremium.asia
 cpm.userwave.com
@@ -3316,6 +3394,7 @@ cpv.popxml.com
 cpvfeed.50onred.com
 cqef4bcg0644637nvpg0.3442145.notifysrv.com
 cqf.ftrqzvz16iyr23ur7jt5kbc.cyou
+cqg7mr.9wtnrxobew17ot9jlcil.cyou
 crab.dunkeldbutchers.co.uk
 crack928322.goaserv.com
 crane.auctic.com
@@ -3361,7 +3440,6 @@ cx.tbllprem.com
 cx6.lastxxxmovies.com
 cygwin.goasrv.com
 cyhz131.goasrv.com
-cz.deirdrethelium.cyou
 cz.jorramcark.cfd
 d.bloblohub.com
 d.love4porn.com
@@ -3380,15 +3458,14 @@ d3519c2997.e4b475144c.com
 d3abf33f94.98d4403b02.com
 d3b58478ca.18de296468.com
 d45d1190e0.61edd03ae1.com
+d49fd393df.0cc9ed5f1c.com
 d4a46e4655.700f312054.com
-d54561184b.2e68bd0a8b.com
 d55b071143.03c4e4cc73.com
 d56d9b6ada.6863edcf06.com
 d5b4014b13.989d4c4ec9.com
 d5cec34ce9.434fc6fff7.com
 d5fe66f0c2.88c75a2494.com
 d6048b93b7.09e07385f6.com
-d696ba6704.7ee7484ba9.com
 d6f37ffb47.19626fc3d0.com
 d70i.com
 d715febe20.43df81ab37.com
@@ -3445,6 +3522,7 @@ dc608237a3.d97e3715f9.com
 dc7fe69926.99f7022009.com
 dc8d554c41.99ddb6ad48.com
 dca-ems.hubhubhub.name
+dcb01979d0.9876632bab.com
 dcb33ef688.6e7e9acff5.com
 dcb8e7e514.2e0828e7d8.com
 dcloud2-sng.go-static.info
@@ -3470,6 +3548,7 @@ deployment-umbrella.goasrv.com
 depotstatustool.go-static.info
 dersvekuran.goasrv.com
 detallefacturas.go-static.info
+dev-api.bloblohub.com
 dev-reporting.bloblohub.com
 dev.bloblohub.com
 dev.runtimeflow.net
@@ -3514,6 +3593,7 @@ dm.pushic.com
 dnsbl.test.g2.gsrv.dev
 dntcl.qualaroo.com
 dnus40re.xyz
+doc.bloblohub.com
 docker.stat.goaserv.com
 doctorditoiu.goaserv.com
 documentation.its.goaserv.com
@@ -3539,6 +3619,7 @@ dormouse.consentkit.com
 dormy-inn.partner.go-static.info
 dot.goasrv.com
 dove.hoku.nz
+dovom-1.goaserv.com
 dowithcafe.goaserv.com
 download-accelerator-plus.goasrv.com
 downloadnewtamilsongs.goasrv.com
@@ -3582,6 +3663,7 @@ dsp.splad.co
 dsp.xapads.com
 dsp.xaprio.net
 dsp.yeesshh.com
+dt.socceragitate.qpon
 dtlt.go-static.info
 du.lamsterhila.qpon
 duanqz.goaserv.com
@@ -3608,7 +3690,6 @@ duqiuzuigaopeilv.goasrv.com
 dust.xxx-video-indian.com
 duyduyfx.goaserv.com
 dvac.goaserv.com
-dw.greablehulas.qpon
 dwdy7xir.xyz
 dx7.sosporntube.com
 dxb.goasrv.com
@@ -3617,10 +3698,12 @@ e-uprava.go-static.info
 e.blitz.bg
 e.bloblohub.com
 e.buqnocco62uwbnvxho7r6z8r1f5g41.cyou
+e.cekp9j31krnh4ff2frx4n6ncgbupc7.cyou
 e.fe.go-static.info
 e.seksohub.com
 e.sexbule.xxx
 e0.goaserv.com
+e00deb1d36.fae0c69b5a.com
 e0848bb11f.999aae0fa7.com
 e0d7lwti.xyz
 e0dc0c0e85.e8853962d1.com
@@ -3629,6 +3712,7 @@ e10737322a.2837e2d3e4.com
 e112b99b94.573df7c52b.com
 e148546655.6a80d8df82.com
 e1caef050c.3399beca29.com
+e1h5pn.b182z39mu43o4wujttoxlq2hmct9ub.cfd
 e1nfgit1p9xlfcv9f.5l6t4nzgfvyo2ty3yk1.cyou
 e226.go-static.info
 e22e08d77a.b8d682e30f.com
@@ -3636,6 +3720,7 @@ e243.goasrv.com
 e2a0595802.291cf7aa0b.com
 e2f1f1a158.20a5d573f6.com
 e2sqc.go-static.info
+e2yhui1yef5yljttfq94.xq6q1k6v73yogegb3.cyou
 e3860e0e4d.a4a2f41d76.com
 e3olg3z5wvz8m73qj3rw.5ktg114unuupk8xin.cyou
 e400d5270d.d58bdec688.com
@@ -3657,6 +3742,7 @@ e70cf1a72d.5c0ddac6e3.com
 e8.xu95z5e87w5vl4vtozhervozqfbe3qj2v8b7.cyou
 e8.xv5w8wipiry424qu8ppt58hcj3nv6f64pw7z.cfd
 e828f444c4.6143e5d2b7.com
+e84fl29jrmg38.xn9qob2pmzhcnrouylwe4b8q7.cyou
 e89348ozhucyjfxwgiffpqfk.r5htv1lygz5crk.cyou
 e8936cae54.1233130091.com
 e8d8869195.dbb6251066.com
@@ -3682,6 +3768,7 @@ eb6908f715.fae299940f.com
 eb76d0ea12.7cbb97f2a8.com
 ebd.cda-hd.cc
 ebd.cda-hd.co
+ebe.goaserv.com
 ebed4abbf3.7b47a1c321.com
 ebvu.ywcbkw6wxtg6o8tlhbzlkbxnzy3.cfd
 ec.h24.news
@@ -3740,7 +3827,6 @@ eiqe.go-static.info
 eiraoi.goaserv.com
 eisaku.goaserv.com
 eixodoleitorcrateus.goaserv.com
-ej.bleepedwite.cfd
 ejemplosplanificaciones2011.go-static.info
 ek.moodiermenial.qpon
 elb.cryptohosting.euolx.pl-pay.surf4623404.notify6.com
@@ -3785,6 +3871,7 @@ en.bistredmccoy.cyou
 en.elowriderst.com
 en.goaserv.com
 en.jobs.goasrv.com
+en.turnwaywhoop.qpon
 enchantevent.com3199023.notify6.com
 endosig.go-static.info
 energycode.go-static.info
@@ -3849,6 +3936,7 @@ estadio97.goaserv.com
 estetika-indonesia.goaserv.com
 esxi02.goasrv.com
 et.cyaninekamala.shop
+et.hangsflee.cfd
 etab.goasrv.com
 etax.tax.goasrv.com
 etnomedia-static.reviveservers.com
@@ -3866,6 +3954,7 @@ euroservice.goaserv.com
 euz8m.74n1nr5lwgfgk1ghk2fi88cjq15cpq.cyou
 evabra.goasrv.com
 evaeleven.blogs.goasrv.com
+event.tbllem.com
 ever123.goaserv.com
 evil.infinitybet.win
 ew.avinemazut.cyou
@@ -3946,16 +4035,20 @@ f62c9db37f.dae19a0c6f.com
 f65qplod.xyz
 f6b558fb61.8a4f3c8d93.com
 f6c8374b9b.4c81b78eca.com
+f6ct.197rgkikn2bphow8.cfd
 f6e8ky.mh3ubx2riqvmu6.cyou
 f7585aaf6e.650927ca6a.com
 f7f5a59e50.eff8a530f3.com
 f83bac9c05.c18f3ffc23.com
 f83cu.tzj1kcm1z8vg3bn.cyou
+f8444f5604.9c69fe7c20.com
 f84b63c140.dfba7a73ff.com
 f86h4.4gk37ghcl85g1pv.cfd
 f8cd219954.2b91f59493.com
+f8ghh.b26pmm66c91hbjr.cfd
 f99bdfc4fc.64c4541a92.com
 f9e79f670c.000491b06a.com
+f9p.jgo4xb8cpimc4tz5i.cfd
 fa-eniwa.goasrv.com
 fa618f17f4.f3e1df5eea.com
 fabd274910.7abdc2aae1.com
@@ -3989,6 +4082,7 @@ fbtzjkxme.tx142ccf5vlmpnvkby3ey4b7xk2w93.cfd
 fc-rohoznik.goaserv.com
 fc4867e93e.e1e8869b08.com
 fcfa9c85a8.106778d1a7.com
+fcm5kum7vbo.2pjcu7277jkcx67orn1qqkn6kelc.cyou
 fd01ce9a02.0012e30263.com
 fd02872655.05b9daf35c.com
 fd2bc44936.973e5a5a22.com
@@ -4017,6 +4111,7 @@ feilvbinditu.goaserv.com
 feilvbinhaomenwangshangyule.go-static.info
 feilvbintaiyangcheng88mcs.go-static.info
 feilvbintaiyangchengguanfangwangzhi.go-static.info
+feilvbintaiyangchengqiusai.goaserv.com
 feilvbinwangshangzhenrenyouxi.goaserv.com
 feinamay.goasrv.com
 feiraosaojoaose.goaserv.com
@@ -4058,10 +4153,10 @@ ffis.goasrv.com
 ffjh.goaserv.com
 ffsfred.go-static.info
 fft.delovoemesto.ru
-fg.ainhumdon.qpon
 fgosimulator.go-static.info
 fgritb.goaserv.com
 fgv159.goaserv.com
+fgwgw.429men.com
 fhsy5atr.xyz
 fhu1vzay.xyz
 file.iporngay.com
@@ -4084,6 +4179,7 @@ filter-eu.adglister.com
 filter-eu.adjux.com
 filter-eu.adlunar.com
 filter-eu.admidainsight.com
+filter-eu.adnexusmarketing.com
 filter-eu.adokutcontextual.com
 filter-eu.adoperatorx.com
 filter-eu.adoptimix.com
@@ -4122,6 +4218,7 @@ filter-eu.boffoadsfeeds.com
 filter-eu.boldthrives.com
 filter-eu.cachegorilla.com
 filter-eu.cashlelo.com
+filter-eu.cerineas.com
 filter-eu.clearbidtechnologies.com
 filter-eu.clickmi.net
 filter-eu.clickvoraads.com
@@ -4350,6 +4447,7 @@ filter.frequency33media.com
 filter.fstsrv9.com
 filter.giantpanda.media
 filter.globlemath.com
+filter.goclickz.net
 filter.high-on-ads.com
 filter.highsea.fun
 filter.hotmaracas.fun
@@ -4459,6 +4557,7 @@ filter.valueklicks.com
 filter.vapa.co.in
 filter.vashoot.com
 filter.visionpeakmedia.com
+filter.vokut.com
 filter.webmedxml.com
 filter.winkleads.com
 filter.xmlads.com
@@ -4481,7 +4580,6 @@ filter.zorbitads.com
 filter1.adop.co
 filter3.danarimedia.com
 filteradkernel.adsimilate.com
-findme.goasrv.com
 fineart.go-static.info
 finetune32.go-static.info
 fingersdancing14.goaserv.com
@@ -4546,6 +4644,7 @@ fowl.teamyap.app
 fox.visionaudiovisual.com
 fp.ploceglider.cfd
 fp.uxi9f4pxvmvzhf.cyou
+fr.bloblohub.com
 fr.h24.news
 francebienvenue1.goaserv.com
 frankies-pizza-maplevalley.go-static.info
@@ -4602,6 +4701,7 @@ g1piastow.go-static.info
 g2-member-qa4.copart.goasrv.com
 g2.gsrv.dev
 g2007.go-static.info
+g28ri3nji.8kwmh8h5myqkf951t5.cfd
 g4connect.goasrv.com
 g4cstudentchallenge.goaserv.com
 g4o5lr9yyrv.i994zc74pxrc9uhx.cfd
@@ -4713,6 +4813,7 @@ gift.notifysrv.com
 gil8.3rl7272l84w17jvogj.cyou
 giraffe.viatorci.com
 gitbelgaum.goasrv.com
+gitlab.bloblohub.com
 gj.btwk1tpcrl8o3g8lbfhf.cyou
 gj7.hyv9me7oi765pxzuhy6.cyou
 glade.go-static.info
@@ -4815,6 +4916,7 @@ go2.toplineads.com
 go2.trafficbull.com
 goalousius.go-static.info
 goamplify.goasrv.com
+goas.mature.nl
 goat.kunalslab.com
 goat.lymedocs.com
 goat.vrds.app
@@ -4837,6 +4939,7 @@ goldtradnew5.goasrv.com
 goose.accountsjs.com
 goose.markerchase.com
 goose.surfboardpayments.com
+gopeebw.p7pcjz29wf84h3ukz.cyou
 gopher.mina.ca
 gorilla.celcyon.com
 gorilla.hakai.org
@@ -4873,6 +4976,7 @@ graycity312.goasrv.com
 graysreadinggroup.go-static.info
 grc-x.go-static.info
 great.xxxbanglavideo.com
+green.endpoint2532.com
 greenlight-val.looksmart.com
 greenmetric.goaserv.com
 greenskyoutside.goaserv.com
@@ -4963,6 +5067,7 @@ h20168.www2.go-static.info
 h2pbjf.2wn4bycie4tznq44mf396xojlrl5f.cfd
 h3f1fccgc.wlj9l6yziu8etr2euq1ktqv9q8.cyou
 h4o565egjgi0v4bz.hubhubhub.name
+h4pf6c4t.1zjyvwco2f6iy6jbl6v7b176xnc.cyou
 h5pk7qlzw.qo74uhvibbqvzoyqg4xn2x1rgq.cyou
 h66niuy6.xyz
 h6molxiof99wbx7bje1ui.5wpumbu8c81hhvn.cyou
@@ -4977,6 +5082,7 @@ halibut.codehooks.io
 halibut.jimruegolfinstruction.com
 halibut.phytype.com
 hamster.consentkit.io
+harbor.notify6.com
 hare.felix-schmid.de
 hare.startupbootcamp.com.au
 harmony.goasrv.com
@@ -5027,6 +5133,7 @@ herring.artemis.cloud
 herring.panda.network
 herschel.esac.goasrv.com
 hfwf3q.h4crrebc1mn9tlccmi96zjm.cfd
+hguv.hn3h5lwzrbwi82kwegwjnc2iw6.cfd
 hh.acetarysil.qpon
 hh.posoleexempli.cyou
 hi.desylunfeel.cfd
@@ -5127,6 +5234,7 @@ hrqecm0d.xyz
 hs.hentaislayer.net
 hs5nhe45.xyz
 hssoe.go-static.info
+ht.tottienomarch.shop
 ht858.ckrcbzh7mo5t1m14n9m5qlqt7fte.cyou
 htcgcwfh.xyz
 htmfiles.goasrv.com
@@ -5153,6 +5261,7 @@ hw.6ihuxf4e7o9zw3ibl3ggtkm81twjkiq.cyou
 hwkj4ohnfekvux664ex.y5etgevy2wkx91.cyou
 hx1.tubepornbase.com
 hx9t83vx.xyz
+hxz87m.7t2j56vcv4zi8q395jnp8mv3mxl4.cfd
 hybird.notifysrv.com
 hyena.baseline.is
 hyena.fershad.com
@@ -5161,6 +5270,7 @@ hyena.m1guelpf.blog
 hyena.wearegray.co
 hyper-dragon-ball-z.en.goasrv.com
 hyundai.notifysrv.com
+hzckfr472tn.bk4q9cfvzummpuqk1x7q9yn.cyou
 hzru7559kovfhj8ilmq8.r1hy7kmzoivnh8.cfd
 i-0c8d1bb4c1a648ae1.hubhubhub.name
 i.bloblohub.com
@@ -5173,7 +5283,9 @@ i.vroltizj8zwmr4.cyou
 i.vt53jx61iuu89l.cyou
 i.w1umtr8tlbl8zh.cyou
 i.x2kb9bp7pgmt16e.cyou
+i.x8n814nj3x28oni.cyou
 i.zwihqle6r4bz7ek.cyou
+i2m.bpj9qt97jk87c6.cyou
 i5e.19gzjg6grxxpty.cyou
 i5ixiwch2f.themakersmob.com
 i83.mp5wyw11hyuzx82.cyou
@@ -5182,7 +5294,6 @@ iaf.goaserv.com
 ibo.6il4mhir5wk7t6fgvybie4o9p559exj2ix.cyou
 ibt.goaserv.com
 ic-cz.goasrv.com
-ic.goateedgoondie.cfd
 icahm62q.xyz
 icanhas.go-static.info
 icc.soho.goasrv.com
@@ -5215,6 +5326,7 @@ ict.notifysrv.com
 idprotect.go-static.info
 idptest.goaserv.com
 ids355.go-static.info
+ie.exurbunamply.qpon
 ie.goasrv.com
 ie.h24.news
 ie3.goasrv.com
@@ -5311,6 +5423,7 @@ intimatediary.com
 intranet-etu.go-static.info
 intranet.h24.news
 intranet.notifysrv.com
+intranet.tbllem.com
 inventory-useast.rtbanalytica.com
 investigations.go-static.info
 io.anselmohioan.cyou
@@ -5325,7 +5438,6 @@ ipla.hit.stat24.com
 ipverifier.additionalmedia.com
 iq.pettedalodia.cfd
 iq.whoopeddepeche.shop
-iqby7nfmrxcxp3253l1cjgrvho.byl73zv9pvtj76.cfd
 ircp.anmv.go-static.info
 irite7h7fqjoxww3y1rbkhnu.pn7k319fqyufmr2t.cyou
 iron-man-3.id.goasrv.com
@@ -5340,7 +5452,6 @@ isoftnetworks.goaserv.com
 isuterpilih.goasrv.com
 isventoaureoconfirmed.goasrv.com
 it.h24.news
-it.hoppochangar.shop
 it3524339.notify6.com
 it47.go-static.info
 itechvision.goaserv.com
@@ -5365,7 +5476,6 @@ iy.cxtkctckl2qzv2.cyou
 iy.plagoselienor.cfd
 iz.8tevgb2z2t2pf9.cyou
 iz.goasrv.com
-iz.hvenb4rt9pqjum.cfd
 iz.lonersbultow.qpon
 iz.rivaledunpoled.shop
 iz.shrikesanopias.cyou
@@ -5376,6 +5486,7 @@ j.3i14731otmefimmxbotnpgvi.cyou
 j.bloblohub.com
 j.ckixtul6tb65cv2hje.cfd
 j.jikx3jh7vfx3mfy1pk5.cyou
+j.k9vg9jt8b29gkvh4ermc.cyou
 j.kfy6nw3vlrcp9ieybe7r.cyou
 j198zh.r6jbcwwtk47kxnuocx.cyou
 j1x.eir8wxft8vcw7gq7hn9w4.cyou
@@ -5449,13 +5560,14 @@ johnlee1947.goasrv.com
 jomlm.ym7reenipl9xngnyp.cfd
 jordan.qunis.ru
 jordan.zcdn.click
-josietgirllovesblackmen.goasrv.com
 journ.goasrv.com
 journalwise.goasrv.com
+joyce.notifysrv.com
 jp.hillscodger.qpon
 jp57510117.php.goaserv.com
 jqu5.tj9rrm4fwyb7r3jvmo.cyou
 jr.canopidkaf.shop
+jrozc69o.xyz
 js.allporncomic.com
 js.allporncomix.com
 js.cabnnr.com
@@ -5494,6 +5606,7 @@ jssdk.juneworewyjyna.com
 jssdk.koxuwurutihugi.com
 jssdk.modusygunaciro.com
 jssdk.runative-syndicate.com
+jssdk.sixapypyfynela.com
 jssdk.tsyndicate.com
 jssdk.tubexazimebeze.com
 jt.canteenalvite.cfd
@@ -5502,7 +5615,6 @@ jtrn.tn4xfihlp3i8r89vmr8.cyou
 jtugc2zr.pph3iku3f7injll.cyou
 ju.bo1iyp73z387o91neu29u.cyou
 ju.pipeagepory.cfd
-jukilo-meet-greet-monterrey.goasrv.com
 jun-odyssey.at.goaserv.com
 junhaoqipai.goaserv.com
 junhaoqipai.goasrv.com
@@ -5515,6 +5627,7 @@ jxny.bkwzt6zfx1xg9h1e85pu.cyou
 jxvwyr4l.xyz
 jz8zyg3f.xyz
 jzduxkeumwnrfp6x.exasrv.com
+jzo.bb1fm9cu612nz6ro4654h.cyou
 k.33p3v9fte86o99kl9gqf7wnb7eu3v85u.cfd
 k.bloblohub.com
 k.j1ewk1l6obggtm125fqm1bo7qlm.cyou
@@ -5548,9 +5661,8 @@ kcpg.goaserv.com
 kenwgjb2r.nwtgecmgxcwkbrpt36.cyou
 key.sexymovie.name
 kezeodsnx.go-static.info
-kf.cavallaholl.cyou
 kgt628.5qg9etryc95zhuvtxpuqiq.cyou
-kh.motiflegua.qpon
+kh.24o1jktvmep57tc2pkzpfqbz92.cyou
 ki.raconsvermont.qpon
 kiev.notifysrv.com
 kimchipat.goaserv.com
@@ -5646,8 +5758,8 @@ kwi18ah9r60yjb70.notify6.com
 kwkmtmk.blog52.goaserv.com
 kx4.firstsexfilm.com
 kxlay45a.xyz
-kxqyohcymolp.45z5vr7tzn95693xbnu8.cfd
 ky.jammybuboes.cfd
+kz.u3o866ggbl9q4t3x5qmqbxu4j5jfwy.cyou
 l.20minutes.fr
 l.2yo36cjnbrknnk.cyou
 l.3djuegos.com.mx
@@ -5727,6 +5839,7 @@ l.dzfoot.com
 l.e-sante.fr
 l.easyvoyage.com
 l.echo-des-tribunes.com
+l.echo-ouest.fr
 l.echoancenis.fr
 l.echoduberry.fr
 l.eclypsia.com
@@ -5767,6 +5880,7 @@ l.gentside.com
 l.gentside.de
 l.geo.fr
 l.glitz.paris
+l.grainsdesel.com
 l.grazia.fr
 l.grazia.it
 l.graziamagazine.com
@@ -6011,10 +6125,12 @@ latteczyespresso.go-static.info
 latuacardpremi.goaserv.com
 laundry.go-static.info
 law.notifysrv.com
+lcbfk.4wank.com
 lcgs.goaserv.com
 lchamps-plaisants.go-static.info
 lcurn1bc22nmet8.lll98g9ok2oymzifu89b.cyou
 ldy5.com
+le.toisondarbs.cfd
 leads.uptownleads.com
 learnsharewithdp.go-static.info
 leash080227.shop
@@ -6102,6 +6218,7 @@ livenerddierepeat.go-static.info
 liveon.goasrv.com
 liverpoollifestyles.goasrv.com
 lixir.wargers.org
+lk.15qqrbprohihpyznwmuy2387whfq8n4gnr1.cfd
 lkul3e65jn4j.41tfhpv43yc97vcnwmb4t9qgy.cyou
 ll.spiderycankers.cyou
 ll1fl3fygr1y7rblgb2.82luxu4ocgiixbq1lu.cyou
@@ -6236,6 +6353,7 @@ login.konnectads.com
 login.kraftads.com
 login.kunvertads.com
 login.leoback.com
+login.marsnative.com
 login.mediacpc.com
 login.mediataggus.com
 login.mobavenue.com
@@ -6338,10 +6456,10 @@ lphakobune.blog66.goaserv.com
 lphmt.go-static.info
 lpkedungpane.goaserv.com
 lpkmyttasonnytarakan.goaserv.com
-lq.velouteentonic.cfd
 lq3icz5yuze.kh347ew9knnjzncjjllr3gekrxn.cyou
 lr.caulisspacing.cfd
 lrl56jv4vnnn2bnl3321.k16qbmbpj5luxo54we.cyou
+lsn.hqbang.com
 ltes.goaserv.com
 lu.v7gilco6oipt7y3ec5ybkpn6t55cf7zwy41zt.cyou
 lu2vbbjz4tmmm8.6ygo1wvgfe6f5gg57mr3ggcq4.cyou
@@ -6385,6 +6503,8 @@ m15lfn2.yoezt24g81751tn.cyou
 m3.repka.online
 m3h.k23lriyz4y9ujhme6l31.cyou
 m5r.hoes.tube
+m8.iu65v9f18fgifekcv1p3gg.cyou
+m8he1clmo.47g8quyf3m2izku.cfd
 m8o.l6b4wi1rnpv3twymtjp85.cfd
 ma-swampscott.goaserv.com
 mac4.goaserv.com
@@ -6446,7 +6566,6 @@ matomo-cdn-bunny.ramsalt.com
 mawu.azigiheadquarters.xyz
 max44rm.pl3432573.notify6.com
 maximumdecimus.clicknplay.to
-mb.logepanoan.shop
 mc.bqx13piq2iitk12.cfd
 mdd18ho6.xyz
 mdl.sedis.goasrv.com
@@ -6528,6 +6647,7 @@ mobac.goaserv.com
 mobdro.fr.goasrv.com
 mobile-chat.goaserv.com
 mobile.h24.news
+mobile.tbllem.com
 mobilidadefuncional.goasrv.com
 mobitest.goaserv.com
 modernisethemes.goasrv.com
@@ -6563,8 +6683,8 @@ mp2y3.sm20j.xyz
 mp3plaza.hu.goasrv.com
 mp7.goasrv.com
 mpnz.3lp5jbwp4ep5oh9x.cfd
+mpp.go-static.info
 mq.u2th3xx9uhb18i8ij9.cyou
-ms.tiniestseethes.cfd
 msdef.goasrv.com
 msoken.go-static.info
 mspeduardoramirez.goasrv.com
@@ -6574,7 +6694,6 @@ mt.avellinfo.sbs
 mule.caddyserver.com
 mule.pricelessai.com
 munch.tian.go-static.info
-mv.amyloncarvy.cyou
 mvwz12g.ck28b4tzqbbgw1.cfd
 mx.g6phvtykhwqukf3qr7g6.cyou
 mx.gallaupcoil.cfd
@@ -6611,6 +6730,7 @@ n4x2yq3gxp1vqpeej.41e23q892bwpqg.cyou
 n5eburo7gn.ir8ofm5xbnwjg1ybzk76h.cyou
 n62vgkvmecgpiw.mj35ntghqhg8rzvro3.cyou
 n82bkk8zou53xc5.lc6y1ex4oxp8fkoz1.cyou
+n8zbm4t8ujr.6nzhw9kn5948ztnx2nlju.cfd
 n9kjrulfg9w.uy2h2i6m84cv495t4erlr.cfd
 n9q6xn.rmm74xelm3r3wk1ckg8fkj84k8.cyou
 na.nawpush.com
@@ -6640,6 +6760,7 @@ news.coveringkaty.com
 news.jennydanny.com
 news.setokanna.online
 newt.javier.dev
+nextcloud.bloblohub.com
 nf1nknlw.mateforevents.com
 nfs8nsaf.xyz
 nhf1oe587v3l.w1ptgymrqpkqq1.cyou
@@ -6694,6 +6815,7 @@ nservw.net
 nssvtq4w.xyz
 nt2q.fe826y85mh1p2le43l1i2vjww.cyou
 ntk.faptor.com
+nugeo.goaserv.com
 nv87o64o.xyz
 nvjk.faptor.com
 nx.lawedfractur.qpon
@@ -6712,7 +6834,10 @@ o0o.bezbs8xygl.xyz
 o2l8k6vpnq1xxf8kvolg.c6ynyryg999jri3q2it.cyou
 o368sxdu.xyz
 o3xle.5u6lwmylofptpqofwgbu8p8kt1tp4w7ewl.cyou
+o4.2kvhrgxfor4bir5hbi2wt6qrhf2jp9e6pfcnm.cyou
+o4.nxi7iwgzie55u8zzcfn3mt9bjefw67o6bnevj.cfd
 o45u8m8gh.i554zgpgl3wpwmy452ymxltyo4xb3o.cyou
+o4bk.yl5t41964nw9v2gmc9i82w9xihweozouvi4.cfd
 o5.uklbxk74ck8898ii2rgj83crbt19l234z3jfk.cyou
 o5jz24jq.7gfhy999j6gefoorqgkrxt8w49lizgv.cyou
 o6wltu3huuzzi.ygftwzvjpy3576wtn731ecgc4gi.cyou
@@ -6735,6 +6860,7 @@ octopus.hans-hornberger.de
 octopus.katrinebrandborg.dk
 odieuxconnard.goasrv.com
 odusplus-ss.goaserv.com
+oe.acmaeamakutas.cfd
 oe.dreyntebon.qpon
 of.erniefilaree.shop
 of.herbertacheer.qpon
@@ -6808,7 +6934,6 @@ otter.emdegmbh.com
 otter.jetting.no
 otter.preferredequineonline.com
 ou.keltykabalas.qpon
-ou9m2e2f4hhc.8hw49hipgurimmzrcv8qh6r1e.cfd
 ourtown.toledoparent.com
 ourtown.westportjournal.com
 ouzhoubeiyoumeiyoujijun.goaserv.com
@@ -6853,6 +6978,7 @@ p4lc17i.j77bwf9ghq491f.cyou
 p5r6bvm.ll51v9eyyi2npo.cyou
 p6n0g0ia.xyz
 p6p5.ej8ngv9zu2x7vb56bq.cyou
+p9c.rt4l1zoucxkbc9f2lpz.cyou
 p9rxtik2.2qiqu4i14i24m4.cfd
 pa.firefox.com
 pa5xjc.m1guelpf.me
@@ -6872,6 +6998,7 @@ panda.unpublished.app
 panel.ad-maven.com
 panel.adop.co
 panel.adsaro.com
+panel.adtryx.com
 panel.bcnmonetize.com
 panel.h24.news
 panther.codyhatfield.me
@@ -6879,7 +7006,6 @@ panther.familytools.app
 panther.thestocks.im
 panther.tigil.rs
 panther.uchijapan.com
-par.moyslovar.ru
 parakeet.jorenvanhocht.be
 parakeet.kenleyar.ai
 parakeet.phantomphone.net
@@ -6979,6 +7105,7 @@ player.collectiveaudience.co
 player.resonance.pk
 player.urdupoint.com
 pmcfarsi1.go-static.info
+pml.ewqv6zcjlnw3hw.cfd
 pn.goaserv.com
 pncabopulmo.go-static.info
 pnpjceawvmeu.cdnvideo3.com
@@ -7035,12 +7162,14 @@ prod-3.moarty.com
 prod-4.moarty.com
 prod.bloblohub.com
 production-.bloblohub.com
+production.go-static.info
 profile.everydayporn.com
 proll.shemrec.cc
 promote.melangeandco.com
 proxena-images.reviveservers.com
 proxena-secure.reviveservers.com
 prsogokfqspc.cdnvideo3.com
+psaqzhkc.xyz
 pt.desi69.cyou
 pt.momclips.cyou
 ptarmigan.codebycorey.com
@@ -7058,10 +7187,12 @@ puma.islingtonmecc.org.uk
 pundr.shemrec.cc
 purp.sukaporn.com
 push.adright.co
+push.adventurefeeds.com
 push.bvsrv.com
 push.cerineas.com
 push.contentsrch.com
 push.domitize.com
+push.icyads.com
 push.mywebqsearch.com
 push.newsvot.com
 push.pushub.net
@@ -7082,6 +7213,7 @@ python.casuallyprivate.com
 python.jukejuke.app
 pyx.lhgy2oeyyucmx9luh.cyou
 pz27.blvomohbmlx4egru.cyou
+pzr.fapnado.xxx
 q.11ghqextfougerengtx5gyueby4.cyou
 q.n3pk6l8xunyeqteqtr9voqkj.cyou
 q.tubetruck.com
@@ -7100,20 +7232,25 @@ qa.ingravefennels.qpon
 qa.xxmvideos.club
 qb.jamboyscripts.cfd
 qcmc.xklierukbx7yzbq7ev7.cfd
+qdnpv.fapnow.xxx
 qe.k5pl3cz4qub6ymv663vl3.cyou
-qehr.vkj9mko5efuminb135m.cfd
+qgn.transhero.com
 qgo3pp.5vpgg1pvvgiev3qgc5.cyou
 qhmeo.r5xctuccxf25fk18ffu.cyou
 qhq5.qyexjolwpv6wvgbet5wp.cfd
+qi.498iy4qguu1j8lruq5bto3.cyou
 qjh.h6gy3iw2mfz2cuv9mcxm9.cyou
 qk4tcrctw8.j1ug7kxjx8jozzo.cyou
 ql.cvciz8ityuz4g99ybionlol.cyou
 qlp.czfhou822nye2zwuotpoxm.cyou
 qooohwwd.xyz
 qoqh.com
+qoqv.com
 qovua60gue.tubewolf.com
 qr08uw9e.xyz
 qrcx.euwmv6ero56jxry2pivkr5.cyou
+qrug7wxyjzu.iuki5wuouqvpvcp.cyou
+qs.nasialsomaten.cfd
 quail.trueglowbylaura.com
 quelea.llresearch.dev
 questico-ads.reviveservers.com
@@ -7150,7 +7287,6 @@ r1kt4liwxr71.892qownplzgvfkcwzlvtb8ez.cfd
 r6m5lqwgjvtbjzoleirl3t.q1mb27ixttgn9jpq.cyou
 r8l.c6z68f48gklgru273uqh6owi42qpv9ijxkb.cyou
 r9efr.pf95ewyr24qqtgx2zn1r67n8u7hju5l44.cyou
-r9t5efxwbz.vuh47jtxyrx66ue74c9h98yjhjih.cfd
 ra.agnesmooing.cfd
 ra.spockshraf.cfd
 rabbit.kilowatt.media
@@ -7172,6 +7308,7 @@ re.trueingbeshag.cyou
 real.delovoemesto.ru
 recontent.services.tvn.pl
 redefine.hit.stat24.com
+redir-v4.tidalspring.xyz
 redir-v4.widebluetrue.xyz
 redir.bluesandals.xyz
 redir.bluespringcoast.com
@@ -7200,6 +7337,7 @@ results.uservalidate.co.uk
 revive-console.worldscreen.com
 revive-static.worldscreen.com
 revive.ahk.de
+revive.teck.com.br
 revive.worldscreen.com
 reviveapi.geenstijl.nl
 rf.deisticdonging.cyou
@@ -7212,6 +7350,7 @@ rirz5ubzbbghoyfb.i1fqn4bnkh37ywbx.cfd
 rjk9vfk85efl.4cnfwgmc5eifbrnq291p.cyou
 rjle49325v7qi.v6342gycmzrxcpri1kf.cyou
 rlk4y8.un22yjchcln2cvp4tpwwyic97b5.cyou
+rmq.lesbianbliss.com
 rnb4bxd0.xyz
 roadrunner.ausmv.com.au
 rocket08062025.shop
@@ -7329,6 +7468,7 @@ rtb-apac.prertbdir.com
 rtb-apac.pushub.net
 rtb-apac.rnkclkres.com
 rtb-apac.rtbadzesto.com
+rtb-apac.rtbdemand.com
 rtb-apac.rtbflairads.com
 rtb-apac.rtbplatform.net
 rtb-apac.rtbserve.io
@@ -7393,6 +7533,7 @@ rtb-eu-v4.pixelpluses.com
 rtb-eu-v4.prertbdir.com
 rtb-eu-v4.pshb.me
 rtb-eu-v4.pteamrtbdir.com
+rtb-eu-v4.pubsfusion.com
 rtb-eu-v4.push-sense.com
 rtb-eu-v4.pushub.net
 rtb-eu-v4.relevanceads.com
@@ -7810,6 +7951,7 @@ rtb-uswest.adokutrtb.com
 rtb-uswest.adsolut.in
 rtb-uswest.adventurefeeds.com
 rtb-uswest.advlistings.com
+rtb-uswest.adxfactory.com
 rtb-uswest.adzgame.com
 rtb-uswest.affinity.net
 rtb-uswest.andbeyond.media
@@ -7970,6 +8112,7 @@ rtb2.vashoot.com
 rtbstatic.clickmi.net
 rtslxo3a.xyz
 rtvutrecht-static.reviveservers.com
+run.go-track.net
 ruradura.com
 rveuy6j1.776447822241qk4yjjkrj4mrh1z.cfd
 rvzfh.5x8j9lzn1v1min9nhzclmiuztqu11m.cyou
@@ -7986,14 +8129,17 @@ rz56vu65.q1bpm4qck5wqbx8nfgekz8kv81fk.cyou
 rzbjehkgfkpuv8zhr1j.fmkqwuw1v2ynmbgkt.cyou
 s.18ramp.com
 s.6hd49jng.com
+s.a4truck.com
 s.adnflow.com
 s.adsession.com
 s.advantageclicks.net
 s.advertrek.com
 s.afxwa.com
 s.allureanews.com
+s.am7srv.com
 s.asvsm.com
 s.awryau.com
+s.azebzuomgb.com
 s.b2bstars.com
 s.b7q9v8z.com
 s.bdkscuti.com
@@ -8012,6 +8158,7 @@ s.cm9srv.com
 s.cnevlso.com
 s.colliderporn.club
 s.crme7srv.com
+s.ctgxakoxvb.com
 s.ctlsmzvtfq.com
 s.cvivxd.com
 s.czjsxim.com
@@ -8029,12 +8176,14 @@ s.ds9b1n.com
 s.ds9yxj.com
 s.dsaaxf.com
 s.dsabva.com
+s.dsagsl.com
 s.dsajrx.com
 s.dsamfe.com
 s.dsapgq.com
 s.dsarmt.com
 s.dsatrd.com
 s.dsauvy.com
+s.dsaxgy.com
 s.dsaywi.com
 s.dsazfk.com
 s.dsbajr.com
@@ -8050,6 +8199,7 @@ s.dsbpgj.com
 s.dsbpwl.com
 s.dsbtfg.com
 s.dsbuiu.com
+s.dsbuzs.com
 s.dsc5yj.com
 s.dsccgm.com
 s.dscenn.com
@@ -8061,6 +8211,8 @@ s.dscsky.com
 s.dscsqe.com
 s.dsctja.com
 s.dscykd.com
+s.dsdaji.com
+s.dsdbdt.com
 s.dsdend.com
 s.dsdgtf.com
 s.dsdjcu.com
@@ -8074,6 +8226,7 @@ s.dsefow.com
 s.dsehdh.com
 s.dseisg.com
 s.dsekhf.com
+s.dsekhn.com
 s.dserdo.com
 s.dserju.com
 s.dsesj1.com
@@ -8088,6 +8241,7 @@ s.dsfsfp.com
 s.dsftcd.com
 s.dsfzqo.com
 s.dsgdef.com
+s.dsgeln.com
 s.dsgnbu.com
 s.dsgnjf.com
 s.dsgqie.com
@@ -8107,9 +8261,11 @@ s.dsicxo.com
 s.dsidas.com
 s.dsiill.com
 s.dsilbm.com
+s.dsimnq.com
 s.dsivor.com
 s.dsixzz.com
 s.dsjbna.com
+s.dsjejt.com
 s.dsjggm.com
 s.dsjmjv.com
 s.dsjtel.com
@@ -8124,28 +8280,42 @@ s.dskylp.com
 s.dslcdd.com
 s.dslebb.com
 s.dsljfr.com
+s.dslmoz.com
 s.dslniz.com
 s.dslqpa.com
 s.dslrix.com
 s.dslrph.com
 s.dslvji.com
+s.dslxrh.com
 s.dsmaed.com
+s.dsmbdi.com
 s.dsmcfq.com
 s.dsmcnw.com
 s.dsmgww.com
 s.dsmhru.com
+s.dsmmzo.com
 s.dsmwju.com
+s.dsmzof.com
 s.dsnbwt.com
+s.dsnbym.com
+s.dsndcg.com
+s.dsneim.com
 s.dsngwj.com
 s.dsnhfu.com
 s.dsnhpm.com
 s.dsnhsz.com
+s.dsnkjw.com
 s.dsnsjj.com
 s.dsnucs.com
 s.dsnyzy.com
 s.dsogdr.com
 s.dsojyi.com
 s.dsomii.com
+s.dsopwk.com
+s.dsoryt.com
+s.dsoxih.com
+s.dspasv.com
+s.dspbyt.com
 s.dspjrt.com
 s.dsprpu.com
 s.dspyzx.com
@@ -8158,6 +8328,7 @@ s.dsqnnx.com
 s.dsqokj.com
 s.dsqqez.com
 s.dsqqnt.com
+s.dsqrig.com
 s.dsqxrp.com
 s.dsqyla.com
 s.dsr577.com
@@ -8167,27 +8338,33 @@ s.dsrddz.com
 s.dsrdyw.com
 s.dsreb7.com
 s.dsrej7.com
+s.dsrgva.com
 s.dsrkxg.com
 s.dsrodv.com
 s.dsruaa.com
+s.dsrznm.com
 s.dss29f.com
 s.dsse6w.com
 s.dssiaj.com
 s.dsspbw.com
 s.dstdff.com
+s.dstfrx.com
 s.dstha9.com
 s.dstinb.com
+s.dstpwgogbw.com
 s.dsttcr.com
 s.dsttpi.com
 s.dsucet.com
 s.dsuhyg.com
 s.dsujvd.com
 s.dsukwb.com
+s.dsungi.com
 s.dsungx.com
 s.dsvhko.com
 s.dsvjgw.com
 s.dsvkxa.com
 s.dsvosm.com
+s.dsvtrq.com
 s.dsvxfq.com
 s.dswbir.com
 s.dswdwe.com
@@ -8199,14 +8376,18 @@ s.dswyio.com
 s.dsxguh.com
 s.dsxilh.com
 s.dsxpzd.com
+s.dsxsyt.com
 s.dsxtea.com
 s.dsxwbg.com
+s.dsyatr.com
 s.dsybif.com
 s.dsydvb.com
 s.dsyfrh.com
 s.dsyhha.com
+s.dsyqua.com
 s.dsysuf.com
 s.dsyypg.com
+s.dsyyte.com
 s.dszdcm.com
 s.dszjza.com
 s.dszkfk.com
@@ -8219,9 +8400,11 @@ s.dszqzq.com
 s.dszred.com
 s.dszres.com
 s.dszutx.com
+s.dszxic.com
 s.dtbwgh.com
 s.dtbxnc.com
 s.dtcggx.com
+s.dteifi.com
 s.dtexgc.com
 s.dtfmto.com
 s.dtftps.com
@@ -8242,6 +8425,7 @@ s.eaalink.com
 s.ecsvor.com
 s.ecwlink.com
 s.ecyklqrkcz.com
+s.efryqqbee.com
 s.ekhsvsp.com
 s.elhclr.com
 s.elink2b.com
@@ -8350,11 +8534,13 @@ s.linkv3c.com
 s.linkw2c.com
 s.linkw2e.com
 s.linkw2g.com
+s.lkdykbudv.com
 s.ltarebldw.com
 s.luoxpdawva.com
 s.lwlcflypc.com
 s.ma3ion.com
 s.magsrv.com
+s.mangoporn.site
 s.mdlx8srv.com
 s.mikbaken.com
 s.mvvtyyqmpm.com
@@ -8362,6 +8548,7 @@ s.n4m5x60.com
 s.native7.com
 s.ndgibjk.com
 s.nekgbv.com
+s.nouezbrn.com
 s.nowsrv.com
 s.noyyrlvrby.com
 s.nuismak.com
@@ -8380,6 +8567,7 @@ s.orbsrv.com
 s.orckdewf.com
 s.owemcnw.com
 s.oyluepai.com
+s.pehvwzyx.com
 s.pemsrv.com
 s.pinkads.org
 s.playa.to
@@ -8390,6 +8578,7 @@ s.pyyokibh.com
 s.q88z1s3.com
 s.qhjgwwok.com
 s.qhyftzqknm.com
+s.qlkmasrw.com
 s.qmapdnf.com
 s.qsiwng.com
 s.qzdqta.com
@@ -8399,9 +8588,12 @@ s.relax-sex.me
 s.rocoads.net
 s.rordunpewz.com
 s.rw360x.com
+s.sanllvixm.com
 s.scmfdhzvvw.com
 s.sflryh.com
 s.simpletonearrival.com
+s.sjmhrsauof.com
+s.skiqyd.com
 s.smartfloralab.com
 s.smazuntm.com
 s.ssafzpcia.com
@@ -8420,6 +8612,7 @@ s.ultratube.cc
 s.usfduc.com
 s.ustivofcu.com
 s.uyepkdfmrt.com
+s.vcqzjs.com
 s.vdxaxf.com
 s.vhkjhflp.com
 s.vipdube.com
@@ -8428,10 +8621,13 @@ s.vlink6.com
 s.vmgcueznn.com
 s.vubmzx.com
 s.vws4brkfst.com
+s.vxxjhaug.com
+s.wdymemj.com
 s.wihwzfypz.com
 s.wintqcf.com
 s.wlink1.com
 s.wlink2.com
+s.wnhdrgxqh.com
 s.x47b2v9.com
 s.xansrv.com
 s.xdxmaz.com
@@ -8440,10 +8636,12 @@ s.xlink3.com
 s.xlqtqzm.com
 s.xtds1.com
 s.xtds3.com
+s.xxmwlprw.com
 s.ycyxddmy.com
 s.ygdwvwept.com
 s.yhslqeecgm.com
 s.yjuxuvcryc.com
+s.zfurfq.com
 s.zline0.com
 s.zline3.com
 s.zlink0.com
@@ -8571,7 +8769,6 @@ servedby.rlnads.net
 servedby.sacommunications.com
 servedby.schrotundkorn.de
 servedby.tahoe.com
-servedby.teck.com.br
 servedby.thinkresult.in
 servedby.trackandfieldnews.com
 servedby.walaplusadserver.com
@@ -8803,9 +9000,11 @@ static.adokutcontextual.com
 static.adokutrtb.com
 static.adop.co
 static.adoperatorx.com
+static.adora.network
 static.adpluto.com
 static.adright.co
 static.adright.com
+static.ads.fanta-olimpiadi.com
 static.ads.fantasanremo.com
 static.adsailor.com
 static.adscholars.com
@@ -8827,6 +9026,7 @@ static.altitudemarketing.com
 static.ammoland.com
 static.amplifai.it.com
 static.analytics.nativeads.com
+static.apexnative.com
 static.app-shake.com
 static.appbroda.com
 static.applixir.com
@@ -8842,6 +9042,7 @@ static.bappaads.com
 static.barcelona-backlinks.es
 static.bat-ads.com
 static.begolbatan.com
+static.bidderads.com
 static.bidmyads.com
 static.bidmyadz.com
 static.bidmyqps.xyz
@@ -8856,6 +9057,7 @@ static.ceramicartsnetwork.org
 static.chaoticinteractions.com
 static.clears-bid.com
 static.clickmi.net
+static.clickvoraads.com
 static.clixvista.com
 static.cloud-suites.xyz
 static.consulcesi.it
@@ -8871,6 +9073,7 @@ static.danarimedia.com
 static.datacygnal.io
 static.dataverixa.com
 static.degpeg.com
+static.delivrdsp.ai
 static.delmovip.com
 static.didna.io
 static.digiadglobal.com
@@ -8902,6 +9105,7 @@ static.filmamo.com
 static.fmlabsonline.com
 static.foremedia.net
 static.freevpnplanet.com
+static.frequency33media.com
 static.fstsrv9.com
 static.galsoillyoucom.com
 static.glcsrv.com
@@ -8943,6 +9147,7 @@ static.lowsshehasnom.org
 static.lthroughthesum.org
 static.made-bid.com
 static.mannixmarketing.com
+static.mediacpc.com
 static.mediahubserver.com
 static.mediaxchange.co
 static.miningweekly.com
@@ -8990,6 +9195,7 @@ static.re-media.info
 static.reachableads.com
 static.reacheffecti.work
 static.realtime-bid.com
+static.regalrisemedia.com
 static.reklama.network
 static.reload.ad
 static.rocoads.com
@@ -9011,6 +9217,7 @@ static.showcasead.com
 static.smartadexchange.net
 static.smartadexchange.xyz
 static.smoads.com
+static.solarad.net
 static.sonicplug.com
 static.srvqck2.com
 static.srvqk.com
@@ -9061,16 +9268,21 @@ static.wxadserve.xyz
 static.xmlfusion.com
 static.xmlking.com
 static.xmlppc.net
+static.xmlwolf.com
 static.xyconversation.org
+static.yhisladyloveheh.org
 static.yieldradius.io
 static.yinthespringas.com
+static.yrelationsan.org
 static.zentrixads.com
 static.zeusadx.com
 static.zorka.agency
 static1.andbeyond.media
+static1.viewdeos.com
 staticrtb.trackifyy.com
 staticz.hotpornfile.org
 statistics.notifysrv.com
+stats.arabtoons.net
 stats.hprofits.com
 stats.yootheme.com
 stingray.communityally.org
@@ -9177,6 +9389,7 @@ syndication.whibp.com
 syndication0.exoclick.com
 szpyqrgh.xyz
 t.3kpe67e6picnqfpzpp.cyou
+t.92b94jt6icqlrxmoipg.cfd
 t.asiantrk.name
 t.boldtrck.fun
 t.clickscope.fun
@@ -9226,6 +9439,7 @@ t1w.pfqg753un1ekhnf.cyou
 t2y.ou8uyc7rocu3l1q6.cfd
 t6xe9.zn5k27612f97gjm.cfd
 t83my.m6l9ih1x259pzcv.cyou
+t8puii.5jwju4p3gpo4q9.cyou
 t97.nudevista.com
 t98.nudevista.com
 t99.nudevista.com
@@ -9266,11 +9480,11 @@ tgp.notifysrv.com
 th.tubetruck.com
 thassos.clicknplay.to
 thbfylh8zkfuf.nu7c57gn2hhlkooucvx5wr8l15z.cyou
+thcyurtm1icvw2ij.tbw31tlklby2kin11r2p8x4b.cyou
 thesis08062025.shop
 thirty-good.lugg.com
 thoughtful072925.shop
 ti.q8vfjfhk8htwl58lyugqebxhy1nbrnpctzmc8f.cyou
-ti.rewarmastor.shop
 tick.builtnoble.dev
 tick.sculch.app
 tick.weg.plus
@@ -9340,6 +9554,7 @@ toye44404.goasrv.com
 tp.hit.stat24.com
 tpaletterecords.goaserv.com
 tpd3rcrj.xyz
+tq-apac.klmretul.online
 tq-eu.aasedformed-b.online
 tq-eu.aasedformed-c.online
 tq-eu.aasedformed-d.online
@@ -9350,6 +9565,7 @@ tq-eu.basedformed-c.online
 tq-eu.bocdos-4.online
 tq-eu.bodsxplc.online
 tq-eu.cjhdc.online
+tq-eu.cloudpod-2260.info
 tq-eu.cnsiap.online
 tq-eu.corespin-lab.online
 tq-eu.dorsedformed-c.online
@@ -9391,10 +9607,12 @@ tq.auraspeedmicro.online
 tq.basedformed-b.online
 tq.basedformed-c.online
 tq.basedformed-d.online
+tq.blackgalaxyflame.online
 tq.bocdos-2.online
 tq.bocdos-3.online
 tq.bocdos-4.online
 tq.chusdc.online
+tq.cloudpod-2260.info
 tq.cnsiap.online
 tq.coinlionstar.info
 tq.corespin-lab.online
@@ -9405,6 +9623,8 @@ tq.dorsedformed-a.online
 tq.dorsedformed-b.online
 tq.dove-node.info
 tq.drivefund-hub.online
+tq.dropmoonrock.online
+tq.edit-blaster.online
 tq.flowldsb.online
 tq.flowldsd.online
 tq.foxbookbound.online
@@ -9415,6 +9635,7 @@ tq.gridcode-shop.online
 tq.heavy-smart.online
 tq.hillflippush.info
 tq.hintcore-grid.info
+tq.i5w8iy9x8j1ubk.cyou
 tq.icdsoap-3.online
 tq.icdsoap-4.online
 tq.incs-xc.online
@@ -9491,6 +9712,7 @@ tsukatuku131.blog.goaserv.com
 tsumami-gui.go-static.info
 tsumuri.goaserv.com
 tsunps.goasrv.com
+ttt.cqzrlquec45klq.cfd
 ttz.nrywfw6ikuvy8w.cyou
 tugaruya1.goaserv.com
 tugasnyamuknakal.goaserv.com
@@ -9523,24 +9745,27 @@ tww.i3m6rpp11xici8.cyou
 tx.z7wh2imrvz2t43fm.cyou
 txoswd4i.xyz
 ty.mudlarksises.cfd
+tz.mvfnu25fmn2ttqxg.cyou
 tzj.bq9tqqerhiz5vyt.cyou
 tzorg.go-static.info
 tzui.tian.goasrv.com
 u.ie.h24.news
 u.xok948muj7lymojkgiew84ry1.cyou
 u1.i9qhu26p57h35ziegw74mg1b.cyou
+u2zbq2.o3b4vj8j4ubecrvk91h3b.cyou
 u36j.ewu3fxoln2jjgzb531pq1kq.cfd
+u5.k1xw3m4v2mnjml7jiq7z1utu2.cyou
 u5.y42izyewz9t2j74fe1bkiw9nw.cyou
 u51o6pqk.xyz
 u655vlo5.xyz
 u6ev4n.m43ly4u7yfq4yx1kg1tnf2.cfd
 u7itz75z.izzjgbob9tpor325jgyv.cyou
+ua.daito.io
 ua.shikosharply.shop
 ua.vosgianmudroom.cyou
 uacabilqlgpw.cdnvideo3.com
 uat.bloblohub.com
 uauvamoscasar.goaserv.com
-ub.affiedlastre.cyou
 ubagutobr.go-static.info
 ubbcluj.go-static.info
 uc5gbql.c1qoyyyjlnkx4h.cyou
@@ -9558,7 +9783,6 @@ uhealthplan.go-static.info
 ui.videojav.com
 ui2web4.apps.goasrv.com
 uicomputer.goasrv.com
-uj.o9yt5w6t7x3z2vtncjn9.cfd
 uj.otp2yym5to9qhqu66qn2.cyou
 ujlxkxgfl3.creativelandings.xyz
 ujpcgbe9.xyz
@@ -9604,6 +9828,7 @@ uq.rl.goaserv.com
 uqqyzmje.oy26yg62epge4hxl.cyou
 urad.goasrv.com
 uranau.go-static.info
+uryiu.jjxhwow75cehgr7yhe4.cfd
 us-west-2.compute.goasrv.com
 us.dogm.goasrv.com
 us.goaserv.com
@@ -9622,7 +9847,6 @@ usfstpete.goaserv.com
 usinnc.goasrv.com
 uswest.datacygnal.io
 utuwakaede.goasrv.com
-uu.hurraysunrived.cyou
 uuk6x.33euh37v49itgkymlumm.cyou
 uus.go-static.info
 uwcrt6rp.1rh91f73pk18qtzgu.cfd
@@ -9672,13 +9896,14 @@ vermeillerose.goasrv.com
 vermonkonline.goasrv.com
 verscsokor.go-static.info
 vesx.jesjes.xyz
+vf.pegtopsassary.cyou
 vfok989.jjpvr1co1gmpfwn1zkwx1h.cyou
 vg.lyciumbaho.qpon
 vgqnyyxv.xyz
 vhfjkm5.eynijmqlgbgpehencc1k114.cyou
-vi.camatacrozer.qpon
 vi.ghostonline.goaserv.com
 vi1.prettytube.net
+vi6uwfhnw9.jqw4kn6hm82cq132hw35.cyou
 viaszbaba.go-static.info
 vicuna.casa-moebel.at
 vicuna.equity.no
@@ -9712,7 +9937,6 @@ vitezamea.go-static.info
 vivien640215.go-static.info
 vivirmasymejor.goaserv.com
 vjs.selecttopoff.com
-vk.derfsquares.qpon
 vl45xz19vt1toghq.kvzz68l2rppz93n.cyou
 vlfw.g39gwvvv8em9jbb4735ftvywc8k.cyou
 vm.questeracetum.cyou
@@ -9755,10 +9979,12 @@ vsv-val.looksmart.com
 vsx.hotpornfile.org
 vt.w5kz4y9gn3j52t2w4myuh55yhqf5cgv.cyou
 vtfishandwildlife.go-static.info
+vtikzn3p3cbe6.ptoixcq2qn6puqe5vjfb.cfd
 vtipy.goasrv.com
 vtroger.go-static.info
 vtsa.edm.goasrv.com
 vtzhocf.48xei59gwjfvf1766orq5ix9gz.cyou
+vu.arranthijacks.qpon
 vulture.bettershore.com
 vulture.lagosdesaliencia.com
 vuwjv7sjvg7.zedporn.com
@@ -9772,17 +9998,19 @@ vy9fwpl1.xyz
 vye6nglp4h.iz8no92l5vfg6w5x19ccpplu.cyou
 vyu2huggnl4rtx542gmn.2cwe28w3qm4gbo.cyou
 vz.7vid.net
+w.1ecjbovmygj6ph8.cfd
 w.5irl66qb4cuv86l1.cyou
 w.freespeech.tube
 w.love4porn.com
 w.t7xtyw5cwbejmb.cyou
 w.tubymn9xqj776q.cyou
 w.ugzz11wbwjugkv.cyou
+w.uv67mbujg7itg2.cyou
+w.wcllterimm88e9.cyou
 w0973320589.go-static.info
 w1.2ch-d.fun
 w124.goaserv.com
 w4.ctps.go-static.info
-w8c.hy2qvo4qfomw3rx.cfd
 wa.presignhuarizo.cfd
 wadabulldog.goaserv.com
 wadainocomic.goasrv.com
@@ -9820,6 +10048,9 @@ wawa82956.blog.goaserv.com
 wawashahab.goasrv.com
 waxperts.goasrv.com
 ways.go-static.info
+wb.b7ftghx2py1qzfu45iqe5o2q583mqk5lp6n.cyou
+wb.onflowmayfair.cyou
+wb2.rgvh8uvn9t11jupkn8y7oiu1pzwun9mtwt.cyou
 wb3nh.xpex769p5rt2e3hv8r2ur3ehrjxqqik6.cyou
 wblkp4ae.xyz
 wbq5pzt.pi559hyp7l1i67tll1ehmej81vrxtk.cyou
@@ -9839,6 +10070,7 @@ webhotel.go-static.info
 webhotel.goasrv.com
 webmail.ibt.goaserv.com
 webmail.rochester.goaserv.com
+webmail.tbllem.com
 weborder5.goasrv.com
 webportal.goasrv.com
 webpush.adjux.com
@@ -10046,6 +10278,7 @@ www.4455804.notify6.com
 www.4465254.notify6.com
 www.5wh.co.zw3459455.notify6.com
 www.8.notify.bizonads-ssp.com
+www.a.tbadni.com
 www.adconsole.proxibid.com
 www.adconsole.the-saleroom.com
 www.adimages.infotorg.se
@@ -10074,7 +10307,6 @@ www.artcake.goaserv.com
 www.atlas-3ib.com
 www.az6a8nmuz5vbrgd2.exasrv.com
 www.b.hubhubhub.name
-www.bancaleafe.xyz
 www.bidvance.com
 www.bigboy.monster
 www.bloblohub.com
@@ -10150,6 +10382,7 @@ www.goaserv.com
 www.greenergy.goasrv.com
 www.gsrv.dev
 www.h24.news
+www.h4o565egjgi0v4bz.hubhubhub.name
 www.haryana.goaserv.com
 www.hd-wallpaper.goasrv.com
 www.hrm.go-static.info
@@ -10186,6 +10419,7 @@ www.mestierediscrivere.hubhubhub.name
 www.mhpolice.go-static.info
 www.miat.goaserv.com
 www.midwestern.goasrv.com
+www.misty-president.com
 www.moarty.com
 www.mpp.go-static.info
 www.mred.go-static.info
@@ -10259,6 +10493,7 @@ www.servizitelevideo.goasrv.com
 www.setimodia.hubhubhub.name
 www.sgp.goasrv.com
 www.smart.goasrv.com
+www.smartadexchange.xyz
 www.stacy.hubhubhub.name
 www.static.ad.logic-prod.viasat.io
 www.static.ad.logic-test.viasat.io
@@ -10341,6 +10576,7 @@ x5hw82.3kfymtch6e1x7c8pxtr.cyou
 x5x.uxf6gkki26h8hx8p49885e.cyou
 x64.go-static.info
 x7h.i3j1zw3x458btnfe86nlj69.cyou
+x8pngknmmcn.klzf3q7xrolpel2.cyou
 x8y8awcr.xyz
 x9lxz5bz.i9czfiyk9rrylbw48l.cyou
 x9mig9p2t.1xjqnc1qtn2ct1ghh.cyou
@@ -10350,6 +10586,7 @@ xb.angiamarrers.cyou
 xbiu.ec34ot4zmfwem8t.cfd
 xcvn.goaserv.com
 xe.almucestabira.shop
+xg4zw7.zuhrn4xjhyq5wm.cyou
 xghpo.2ppghrgnk4qb6lv.cyou
 xgn7p6.6wemoccmovpt6v.cyou
 xgquu0bp.xyz
@@ -10411,6 +10648,7 @@ xml-eu-v4.adxcircle.com
 xml-eu-v4.adxpoint.com
 xml-eu-v4.adzgame.com
 xml-eu-v4.agilitydigitalmedia.com
+xml-eu-v4.amazeadx.com
 xml-eu-v4.antflip-portal.info
 xml-eu-v4.appmonsta.ai
 xml-eu-v4.ashflame-core.info
@@ -10455,6 +10693,7 @@ xml-eu-v4.clixcrafts.com
 xml-eu-v4.clixforads.com
 xml-eu-v4.clixvista.com
 xml-eu-v4.clkfst.com
+xml-eu-v4.cloudpod-2260.info
 xml-eu-v4.cnsiap.online
 xml-eu-v4.corespin-lab.online
 xml-eu-v4.cornfirdge.online
@@ -10488,6 +10727,7 @@ xml-eu-v4.flowldsc.online
 xml-eu-v4.flowldsd.online
 xml-eu-v4.flurryad.com
 xml-eu-v4.fmlabsonline.com
+xml-eu-v4.fox-sync.pro
 xml-eu-v4.foxbookbound.online
 xml-eu-v4.frequency33media.com
 xml-eu-v4.fstsrv9.com
@@ -10558,6 +10798,7 @@ xml-eu-v4.pubsfusion.com
 xml-eu-v4.pullexpertwalk.online
 xml-eu-v4.pushub.net
 xml-eu-v4.qualiclicks.com
+xml-eu-v4.quantum1020.online
 xml-eu-v4.quiet-071b.info
 xml-eu-v4.re-media.info
 xml-eu-v4.regalrisemedia.com
@@ -10566,6 +10807,7 @@ xml-eu-v4.revantagex.com
 xml-eu-v4.ripamatic.com
 xml-eu-v4.riseskydove.online
 xml-eu-v4.rocoads.com
+xml-eu-v4.rollcore.online
 xml-eu-v4.route-code.online
 xml-eu-v4.rtbmedweb.com
 xml-eu-v4.salehawk-shop.online
@@ -10600,6 +10842,7 @@ xml-eu-v4.techmintrain.online
 xml-eu-v4.tenxads.com
 xml-eu-v4.teriflicmedia.com
 xml-eu-v4.thebidex.net
+xml-eu-v4.theflowads.com
 xml-eu-v4.thenetwork18.com
 xml-eu-v4.tigerlab.online
 xml-eu-v4.topsolutionsmedia.com
@@ -10647,6 +10890,7 @@ xml-eu.adflyer.media
 xml-eu.adjux.com
 xml-eu.admidainsight.com
 xml-eu.admozartxml.com
+xml-eu.adnexusmarketing.com
 xml-eu.adokutcontextual.com
 xml-eu.adoperatorx.com
 xml-eu.adoptimix.com
@@ -10678,6 +10922,7 @@ xml-eu.basedformed-b.online
 xml-eu.basedformed-c.online
 xml-eu.benrif-solutions.com
 xml-eu.bid4advertising.com
+xml-eu.blackgalaxyflame.online
 xml-eu.blasti.download
 xml-eu.blastmedia.site
 xml-eu.blockfirstjump.pro
@@ -10695,8 +10940,10 @@ xml-eu.cjhdc.online
 xml-eu.clearbidtechnologies.com
 xml-eu.clickmi.net
 xml-eu.clixcrafts.com
+xml-eu.clixforads.com
 xml-eu.clixvista.com
 xml-eu.clkfst.com
+xml-eu.cloudpod-2260.info
 xml-eu.cnsiap.online
 xml-eu.corespin-lab.online
 xml-eu.coupontic.com
@@ -10761,7 +11008,10 @@ xml-eu.optumads.com
 xml-eu.outpush.net
 xml-eu.pathloud-hq.online
 xml-eu.pink-quantum.pro
+xml-eu.plansmart-portal.online
+xml-eu.pmrockzenithdive.info
 xml-eu.pops.gg
+xml-eu.popviking.com
 xml-eu.powermesh-web.online
 xml-eu.programmaticnexus.com
 xml-eu.proxywood-box.online
@@ -10889,6 +11139,7 @@ xml-v4.benrif-solutions.com
 xml-v4.bid4advertising.com
 xml-v4.bidargo.com
 xml-v4.bidderads.com
+xml-v4.blackgalaxyflame.online
 xml-v4.blasti.download
 xml-v4.blastmedia.site
 xml-v4.blitzspectra.com
@@ -10917,6 +11168,7 @@ xml-v4.clixcrafts.com
 xml-v4.clixforads.com
 xml-v4.clixvista.com
 xml-v4.clkfst.com
+xml-v4.cloudpod-2260.info
 xml-v4.cnsiap.online
 xml-v4.convertap.com
 xml-v4.coremove-deck.online
@@ -10956,6 +11208,7 @@ xml-v4.ezmob.com
 xml-v4.fallcoin-deck.info
 xml-v4.fallice-desk.info
 xml-v4.felixads.com
+xml-v4.flow-mark.online
 xml-v4.flowldsb.online
 xml-v4.flowldsd.online
 xml-v4.flurryad.com
@@ -11033,6 +11286,7 @@ xml-v4.orbitmacro-site.online
 xml-v4.paddlewaver.com
 xml-v4.pathloud-hq.online
 xml-v4.pink-quantum.pro
+xml-v4.plansmart-portal.online
 xml-v4.pmrockzenithdive.info
 xml-v4.pops.gg
 xml-v4.popviking.com
@@ -11063,6 +11317,7 @@ xml-v4.rocoads.com
 xml-v4.rocotraff.xyz
 xml-v4.rollcore.online
 xml-v4.route-code.online
+xml-v4.routead.com
 xml-v4.rtbmedweb.com
 xml-v4.rtbyield.com
 xml-v4.rtxfeed.com
@@ -11090,6 +11345,7 @@ xml-v4.srvqk3.com
 xml-v4.stackblue-shop.info
 xml-v4.starmarkbid.pro
 xml-v4.starpine-box.online
+xml-v4.stepzenith-core.info
 xml-v4.stormplace.online
 xml-v4.strongkeyword.com
 xml-v4.strongmetrics.io
@@ -11161,6 +11417,7 @@ xml.aasedformed-c.online
 xml.aasedformed-d.online
 xml.acertb.com
 xml.ad-maven.com
+xml.adbite.com
 xml.adcannyxml.com
 xml.adconclave.com
 xml.additionalmedia.com
@@ -11264,6 +11521,7 @@ xml.clixforads.com
 xml.clixportal.com
 xml.clixvista.com
 xml.clixwells.com
+xml.cloudpod-2260.info
 xml.cnsiap.online
 xml.comeawaywith.com
 xml.conxstream.com
@@ -11277,6 +11535,7 @@ xml.ctrtraffic.com
 xml.cyberpull-place.online
 xml.dataverixa.com
 xml.dbegantotireo.org
+xml.deepoceandrop.biz
 xml.dlserve.ai
 xml.dmakingsilver.com
 xml.dmnlks-c.online
@@ -11320,6 +11579,7 @@ xml.frequency33media.com
 xml.fstsrv9.com
 xml.gain-bee.pro
 xml.gainyellow-pro.online
+xml.galaxyideafirst.online
 xml.galsoillyoucom.com
 xml.getruncathoomes.com
 xml.giantpanda.media
@@ -11379,6 +11639,7 @@ xml.looksmartppc.com
 xml.lowsshehasnom.org
 xml.lthroughthesum.org
 xml.lumo-bid.com
+xml.masterstorm-shop.pro
 xml.mediacpc.com
 xml.mediataggus.com
 xml.mediaxchange.co
@@ -11415,6 +11676,7 @@ xml.pdn-2.com
 xml.pdn-eu.com
 xml.pink-quantum.pro
 xml.plarimoplus.com
+xml.pmrockzenithdive.info
 xml.popmonetizer.com
 xml.popmonetizer.net
 xml.poprtb.com
@@ -11427,6 +11689,7 @@ xml.powermesh-web.online
 xml.pressize.com
 xml.prime-bid.com
 xml.programmaticnexus.com
+xml.proxywood-box.online
 xml.pubsfusion.com
 xml.pullexpertwalk.online
 xml.purestreamads.com
@@ -11446,6 +11709,7 @@ xml.relevanceads.com
 xml.revrtb.com
 xml.revrtb.net
 xml.ripamatic.com
+xml.riseskydove.online
 xml.rollcore.online
 xml.route-code.online
 xml.rtbdemand.com
@@ -11499,6 +11763,7 @@ xml.thetrafficboss.com
 xml.thing02.com
 xml.tigerlab.online
 xml.topclickpick.com
+xml.topdealad.com
 xml.topsolutionsmedia.com
 xml.trabinec.online
 xml.trackifyy.com
@@ -11515,6 +11780,7 @@ xml.userwave.com
 xml.valueklicks.com
 xml.vashoot.com
 xml.verafterabigyel.com
+xml.vertex-moon.online
 xml.verwasquitefu.org
 xml.vespymedia.com
 xml.vewith-bid.com
@@ -11573,7 +11839,6 @@ xmlv4.mobuppsrtb.com
 xmlv4.reklama.network
 xmlv6.aimkweb.com
 xmrqo.2y2z3bpqp1trkh9k.cyou
-xn--3225689-o06c.notifysrv.com
 xn--q1a.bloblohub.com
 xn.gombeencistron.cyou
 xo.lucilecrined.rest
@@ -11605,12 +11870,12 @@ y.ex7ql1xjyfhmp6wk7klkv1tot6.cyou
 y.sphinxtube.com
 y2ehvxgs.xyz
 y2vfr9mzx7wxqlxvfu.3jgyicowryr7kcm.cyou
+y3nouy9uobo.g3owuqu9y613jxqffj73o6.cyou
 y4.97env3zux49c22i1i65tkw1tjnbq2yi.cyou
 y4.o2v2nj7l366i9ihty6oq2ofrixm1fly.cyou
 y4jcyejire.t91ozbe2q1y32b43b1hqp3q.cyou
 y5qhzz3q.designdetails.fm
 y7bo6nwk.xyz
-y7r9gyztbl44pffj.kzeqmlxnqft8f1x66k.cfd
 y8y6itup4huv.cctp68zu4b3oxrofl74z9g.cyou
 y9cotr68yqemkhg.2ivv5h3p4uqc4pu8yv2.cfd
 yaanom.tentenhunukwa.space
@@ -11638,10 +11903,12 @@ yannpachi1956.goasrv.com
 yaoigallery.goasrv.com
 yasai-shippai.goasrv.com
 yazhouweiyihefabocai.goasrv.com
+yb.bucketsnumine.qpon
 ybc.poyobfz1i6kpgxcv6t92ux32.cyou
 yc.bedcordaguilt.cfd
 ychk4uf7rp.96frpqxyo29998hrz.cyou
 ye.5xvvhxvjr5wrerq9mp969bcqw.cyou
+ye.yl5j7o2wwezxlipbbmbt3b3t9.cfd
 yeager0621yuki.goasrv.com
 yearbook4goiemployees.go-static.info
 yearbook4goiemployees.goasrv.com
@@ -11652,6 +11919,7 @@ yellowrabbit.goasrv.com
 yeoli-thm.go-static.info
 yeomanchang.goaserv.com
 yescrowd.go-static.info
+yg9jyvl.3y8phttozu2o6yink4y5f.cyou
 yguzman.goaserv.com
 yhliao915.goasrv.com
 yhome.goaserv.com
@@ -11765,6 +12033,7 @@ ze64otp66op18hlmkc.x7gtfvzwxtq4ew5h6.cyou
 zealousgls.goaserv.com
 zeddekoodeta.go-static.info
 zelda17.goaserv.com
+zen.nuvorel.xyz
 zenbuddhist.goaserv.com
 zenmatefeedback.goaserv.com
 zenmezaiaomenduqiu.goasrv.com
@@ -11825,6 +12094,7 @@ zhuge.goaserv.com
 zhunquedepankoufenxi.goaserv.com
 zi5o63t.el6hzguwug35zv8iy27u6b6tgjky9.cyou
 zinf6569t3zzqv17nqh.clphr5jgwogwu4rzr.cyou
+zk3sx5zw.xyz
 zk7bgg5hv92lw.7gq8uw43vt97ii542rxz3on1.cyou
 zkpay.goaserv.com
 zkpw8.w9qp1ul2kyomrmjbe9twjzw11fmfil18.cyou
@@ -11845,6 +12115,7 @@ zooplus.it4060008.notify6.com
 zorgverzekering.goasrv.com
 zp0o8pii.xyz
 zq9lh2mouyohjt54f588ci8.2ik13mvpmnnjtm6.cyou
+zre3u5.r3cm882yhur7pchyluz2vrmhxzgil4mv.cyou
 zs.wincedartars.cyou
 zsme.goasrv.com
 zsnemsova.goasrv.com
@@ -11864,6 +12135,7 @@ zuikuaihuangguanzhengwangkaihu.go-static.info
 zuixinzuqiusaishishipin.goaserv.com
 zulidoodles.go-static.info
 zunptttqzjyr.f7t75ekbtq6mcm4f84h8t6u4fkm.cyou
+zur.nomarax.com
 zv.7vid.net
 zvtzux6nq1le.pr9hpg9h173eremy8p5q9o29w7r.cyou
 zxcqwe.goasrv.com

@@ -9,7 +9,9 @@
     * abdodaoud.goatcounter.com
     * abdoughnut.goatcounter.com
     * acut3.goatcounter.com
+    * adaliaworks.goatcounter.com
     * alextecplayz.goatcounter.com
+    * alxwrd.goatcounter.com
     * andreabrandi.goatcounter.com
     * apitman_com.goatcounter.com
     * applizi.goatcounter.com
@@ -35,6 +37,7 @@
     * cassie.goatcounter.com
     * celerry.goatcounter.com
     * certidiritti.goatcounter.com
+    * chuniversiteit.goatcounter.com
     * coderjoe-net.goatcounter.com
     * coderscompass.goatcounter.com
     * codinggrace.goatcounter.com
@@ -77,10 +80,12 @@
     * gumarapus.goatcounter.com
     * gwyers.goatcounter.com
     * hadejkde.goatcounter.com
+    * hanji.goatcounter.com
     * haseebmajid.goatcounter.com
     * hijacklibs.goatcounter.com
     * hinduismdebunked.goatcounter.com
     * homecompanion.goatcounter.com
+    * host.goatcounter.com
     * howwtf.goatcounter.com
     * ideasnap.goatcounter.com
     * ignatuque.goatcounter.com
@@ -206,8 +211,9 @@
     * valentineus.goatcounter.com
     * vamsialluri.goatcounter.com
     * vault.goatcounter.com
-    * vpro.goatcounter.com
     * whatacools.goatcounter.com
+    * wjmallard.goatcounter.com
+    * worldwideshen.goatcounter.com
     * wts.goatcounter.com
     * wy3di4xcbj.goatcounter.com
     * ybbond.goatcounter.com
@@ -227,7 +233,9 @@
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.abdo.wtf | abdoughnut.goatcounter.com |
 | gc.acut3.net | acut3.goatcounter.com |
+| stats.adaliaworks.com | adaliaworks.goatcounter.com |
 | stats.alextecplayz.com | alextecplayz.goatcounter.com |
+| stats.alxwrd.co.uk | alxwrd.goatcounter.com |
 | count.andreabrandi.com | andreabrandi.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
 | stats.applizi.com | applizi.goatcounter.com |
@@ -253,6 +261,7 @@
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
 | stats.certidiritti.org | certidiritti.goatcounter.com |
+| stats.chuniversiteit.nl | chuniversiteit.goatcounter.com |
 | stats.coderjoe.net | coderjoe-net.goatcounter.com |
 | stats.coderscompass.org | coderscompass.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
@@ -301,10 +310,12 @@
 | goatcounter.gumarapus.com | gumarapus.goatcounter.com |
 | stats.gwyer.net | gwyers.goatcounter.com |
 | stats.hadejkde.cz | hadejkde.goatcounter.com |
+| stats.hanji.sxzz.moe | hanji.goatcounter.com |
 | stats.haseebmajid.dev | haseebmajid.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.hinduismdebunked.com | hinduismdebunked.goatcounter.com |
 | stats.homecompanion.io | homecompanion.goatcounter.com |
+| andylytics.amhoyt.com | host.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | usage.ideasnap.co | ideasnap.goatcounter.com |
 | stats.ignatuque.xyz | ignatuque.goatcounter.com |
@@ -438,8 +449,9 @@
 | analytics.popov.link | valentineus.goatcounter.com |
 | stats.vamsi-alluri.me | vamsialluri.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
-| count.vidsrc.pro | vpro.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
+| stats.wjmallard.net | wjmallard.goatcounter.com |
+| counter.shens.world | worldwideshen.goatcounter.com |
 | stats.waytosmile.fr | wts.goatcounter.com |
 | stats.webmeasurements.org | wy3di4xcbj.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |

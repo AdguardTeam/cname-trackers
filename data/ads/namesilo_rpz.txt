@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791546675426        ; Serial
+           1791803560435        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -373,6 +373,7 @@ $TTL 300
 3501655.notify6.com CNAME .
 3505119.notify6.com CNAME .
 3505127.notify6.com CNAME .
+3505139.notify6.com CNAME .
 3505141.notify6.com CNAME .
 3505883.notifysrv.com CNAME .
 3505935.notify6.com CNAME .
@@ -413,9 +414,11 @@ $TTL 300
 3570741.notifysrv.com CNAME .
 3572273.notify6.com CNAME .
 3572273.notifysrv.com CNAME .
+3572277.notify6.com CNAME .
 3572277.notifysrv.com CNAME .
 3572279.notifysrv.com CNAME .
 3572283.notifysrv.com CNAME .
+3572285.notifysrv.com CNAME .
 3572291.notify6.com CNAME .
 3572299.notify6.com CNAME .
 3572299.notifysrv.com CNAME .
@@ -426,6 +429,7 @@ $TTL 300
 3580293.notifysrv.com CNAME .
 3580393.notifysrv.com CNAME .
 3584069.notifysrv.com CNAME .
+3584913.notifysrv.com CNAME .
 3585013.notifysrv.com CNAME .
 3585133.notifysrv.com CNAME .
 3585435.notify6.com CNAME .
@@ -583,6 +587,7 @@ $TTL 300
 3943940.notify6.com CNAME .
 3944044.notify6.com CNAME .
 3944974.notify6.com CNAME .
+3944976.notify6.com CNAME .
 3944978.notify6.com CNAME .
 3944980.notify6.com CNAME .
 3945010.notify6.com CNAME .
@@ -633,6 +638,7 @@ $TTL 300
 4068860.notify6.com CNAME .
 4069896.notify6.com CNAME .
 4069900.notify6.com CNAME .
+4086498.notify6.com CNAME .
 4093690.notify6.com CNAME .
 4096386.notify6.com CNAME .
 4097564.notify6.com CNAME .
@@ -641,6 +647,7 @@ $TTL 300
 4106200.notify6.com CNAME .
 4130286.notify6.com CNAME .
 4131834.notify6.com CNAME .
+4133596.notify6.com CNAME .
 4144426.notify6.com CNAME .
 4146746.notify6.com CNAME .
 4146994.notify6.com CNAME .
@@ -798,7 +805,7 @@ $TTL 300
 8.notify.bizonads-ssp.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
-a.adsession.com CNAME .
+a.6hd49jng.com CNAME .
 a.advantageclicks.net CNAME .
 a.allureanews.com CNAME .
 a.am7srv.com CNAME .
@@ -809,6 +816,7 @@ a.chmsrv.com CNAME .
 a.crme7srv.com CNAME .
 a.etology.com CNAME .
 a.eunow4u.com CNAME .
+a.flirtads.net CNAME .
 a.gentlefieldpattern.com CNAME .
 a.happyleafmotion.com CNAME .
 a.klico.link CNAME .
@@ -820,9 +828,7 @@ a.ns.notifysrv.com CNAME .
 a.pinkads.org CNAME .
 a.playa.to CNAME .
 a.smartfloralab.com CNAME .
-a.t5z3w0p.com CNAME .
 a.tf4srv.com CNAME .
-a.traffic-gold.com CNAME .
 a.vws4brkfst.com CNAME .
 abc.notifysrv.com CNAME .
 accept.notifysrv.com CNAME .
@@ -899,6 +905,7 @@ glass.notifysrv.com CNAME .
 global.notifysrv.com CNAME .
 gsa.notifysrv.com CNAME .
 gzs.notifysrv.com CNAME .
+harbor.notify6.com CNAME .
 hashfaster.com3710069.notifysrv.com CNAME .
 hathor.notifysrv.com CNAME .
 hostkarma.notifysrv.com CNAME .
@@ -913,6 +920,7 @@ internal.notifysrv.com CNAME .
 intranet.notifysrv.com CNAME .
 it3524339.notify6.com CNAME .
 james.notifysrv.com CNAME .
+joyce.notifysrv.com CNAME .
 jzduxkeumwnrfp6x.exasrv.com CNAME .
 kiev.notifysrv.com CNAME .
 kwi18ah9r60yjb70.notify6.com CNAME .
@@ -961,12 +969,14 @@ rtb.traffic-gold.com CNAME .
 rtb.trafficfactory.com CNAME .
 s.18ramp.com CNAME .
 s.6hd49jng.com CNAME .
+s.a4truck.com CNAME .
 s.adnflow.com CNAME .
 s.adsession.com CNAME .
 s.advantageclicks.net CNAME .
 s.advertrek.com CNAME .
 s.afxwa.com CNAME .
 s.allureanews.com CNAME .
+s.am7srv.com CNAME .
 s.asvsm.com CNAME .
 s.b2bstars.com CNAME .
 s.b7q9v8z.com CNAME .
@@ -1323,16 +1333,16 @@ www.notifysrv.com CNAME .
 www.packsitracks.com3419733.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 www.voltcp.3323174.notifysrv.com CNAME .
-xn--3225689-o06c.notifysrv.com CNAME .
 zooplus.it3440403.notify6.com CNAME .
 zooplus.it3524339.notify6.com CNAME .
 zooplus.it4060008.notify6.com CNAME .
-a.6hd49jng.com CNAME .
+a.adsession.com CNAME .
 a.advertrek.com CNAME .
 a.asvsm.com CNAME .
-a.flirtads.net CNAME .
 a.humnert.com CNAME .
 a.q88z1s3.com CNAME .
 a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
+a.t5z3w0p.com CNAME .
+a.traffic-gold.com CNAME .

@@ -28,6 +28,7 @@
     * fpa-cdn-newsday-com.parsely.com
     * fpa-cdn-newsweek-com.parsely.com
     * fpa-cdn-olympic-ca.parsely.com
+    * fpa-cdn-olympique-ca.parsely.com
     * fpa-cdn-polksports-com.parsely.com
     * fpa-cdn-pressherald-com.parsely.com
     * fpa-cdn-prideofdetroit-com.parsely.com
@@ -35,6 +36,7 @@
     * fpa-cdn-slate-com.parsely.com
     * fpa-cdn-spectator-com-au.parsely.com
     * fpa-cdn-tampabay28-com.parsely.com
+    * fpa-cdn-thedailybeast-com.parsely.com
     * fpa-cdn-thetrace-org.parsely.com
     * fpa-events-adweek-com.parsely.com
     * fpa-events-apollo-magazine-com.parsely.com
@@ -55,6 +57,7 @@
     * fpa-events-newsday-com.parsely.com
     * fpa-events-newsweek-com.parsely.com
     * fpa-events-olympic-ca.parsely.com
+    * fpa-events-olympique-ca.parsely.com
     * fpa-events-pressherald-com.parsely.com
     * fpa-events-prideofdetroit-com.parsely.com
     * fpa-events-rollingstone-com.parsely.com
@@ -62,6 +65,7 @@
     * fpa-events-spectator-com-au.parsely.com
     * fpa-events-sunjournal-com.parsely.com
     * fpa-events-tampabay28-com.parsely.com
+    * fpa-events-thedailybeast-com.parsely.com
     * fpa-events-thetrace-org.parsely.com
 
 ## Cloaking domains
@@ -93,6 +97,7 @@
 | fpa-cdn.newsday.com | fpa-cdn-newsday-com.parsely.com |
 | fpa-cdn.newsweek.com | fpa-cdn-newsweek-com.parsely.com |
 | fpa-cdn.olympic.ca | fpa-cdn-olympic-ca.parsely.com |
+| fpa-cdn.olympique.ca | fpa-cdn-olympique-ca.parsely.com |
 | fpa-cdn.polksports.com | fpa-cdn-polksports-com.parsely.com |
 | fpa-cdn.pressherald.com | fpa-cdn-pressherald-com.parsely.com |
 | fpa-cdn.prideofdetroit.com | fpa-cdn-prideofdetroit-com.parsely.com |
@@ -100,6 +105,7 @@
 | fpa-cdn.slate.com | fpa-cdn-slate-com.parsely.com |
 | fpa-cdn.spectator.com.au | fpa-cdn-spectator-com-au.parsely.com |
 | fpa-cdn.tampabay28.com | fpa-cdn-tampabay28-com.parsely.com |
+| fpa-cdn.thedailybeast.com | fpa-cdn-thedailybeast-com.parsely.com |
 | fpa-cdn.thetrace.org | fpa-cdn-thetrace-org.parsely.com |
 | fpa-events.adweek.com | fpa-events-adweek-com.parsely.com |
 | fpa-events.apollo-magazine.com | fpa-events-apollo-magazine-com.parsely.com |
@@ -120,6 +126,7 @@
 | fpa-events.newsday.com | fpa-events-newsday-com.parsely.com |
 | fpa-events.newsweek.com | fpa-events-newsweek-com.parsely.com |
 | fpa-events.olympic.ca | fpa-events-olympic-ca.parsely.com |
+| fpa-events.olympique.ca | fpa-events-olympique-ca.parsely.com |
 | fpa-events.pressherald.com | fpa-events-pressherald-com.parsely.com |
 | fpa-events.prideofdetroit.com | fpa-events-prideofdetroit-com.parsely.com |
 | fpa-events.rollingstone.com | fpa-events-rollingstone-com.parsely.com |
@@ -127,4 +134,5 @@
 | fpa-events.spectator.com.au | fpa-events-spectator-com-au.parsely.com |
 | fpa-events.sunjournal.com | fpa-events-sunjournal-com.parsely.com |
 | fpa-events.tampabay28.com | fpa-events-tampabay28-com.parsely.com |
+| fpa-events.thedailybeast.com | fpa-events-thedailybeast-com.parsely.com |
 | fpa-events.thetrace.org | fpa-events-thetrace-org.parsely.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791552913843        ; Serial
+           1791803553806        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -312,6 +312,7 @@ cim-idc-cdn.account.hcsctest.net CNAME .
 cim-idc-cdn.account.test.bcbsil.com CNAME .
 cim-idc-cdn.account.test.bcbsok.com CNAME .
 cim-idc-cdn.account.test.bcbstx.com CNAME .
+cim-idc-cdn.account.test.healthspring.com CNAME .
 cim-idc-cdn.account.wellontarget.com CNAME .
 claimant.vec.virginia.gov CNAME .
 clovergo.june-testing.firstdata.com CNAME .
@@ -592,6 +593,7 @@ cybs.dhpay.com CNAME .
 d.mlcdn.com.br CNAME .
 d0796fef.monkeyspins.com CNAME .
 d3tracking.rbc.com CNAME .
+daotm-1.firstcitizens.com CNAME .
 daotm.firstcitizens.com CNAME .
 ddata.huntingtonbank.com CNAME .
 ddc-test.worldpay.com CNAME .
@@ -657,6 +659,7 @@ ecomm.thegiftcardshop.com CNAME .
 edge.privacy.com.br CNAME .
 edge.snappibank.com CNAME .
 edge2.lavaslots.com CNAME .
+edge2.luxiprize.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
 elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
@@ -787,6 +790,7 @@ imgs.cdn-btsg.com CNAME .
 imgs.signifyd.com CNAME .
 imgtemplate.cembra.ch CNAME .
 info.betway.bg CNAME .
+info.betway.cm CNAME .
 info.betway.co.ke CNAME .
 info.betway.co.mz CNAME .
 info.betway.co.tz CNAME .
@@ -810,6 +814,7 @@ intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
 invalid-qa2.threatmetrix.com CNAME .
 irmp.caa.com CNAME .
+ivaacontent.ers.ga.gov CNAME .
 jj203.equitablebank.ca CNAME .
 jplspr.jackpot.com CNAME .
 jpubs.zodia.io CNAME .
@@ -964,6 +969,7 @@ prod-commonwealth.chaperone.lumindigitalhosting.com CNAME .
 prod-consumers.chaperone.lumindigitalhosting.com CNAME .
 prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-dccuva.chaperone.lumindigitalhosting.com CNAME .
+prod-demo.chaperone.lumindigitalhosting.com CNAME .
 prod-dexsta.chaperone.lumindigitalhosting.com CNAME .
 prod-elements-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-ffcuin.chaperone.lumindigitalhosting.com CNAME .
@@ -1066,6 +1072,7 @@ rba.login.mahix.org CNAME .
 rba.onehealthcareid.com CNAME .
 rba.optumgovid.com CNAME .
 rba.optumid.com CNAME .
+rba.ve.m.cfg.smt.docomo.ne.jp CNAME .
 rbawis.pocketcard.co.jp CNAME .
 rct.ext.creditpartner.fr CNAME .
 rct.ext.sofinco.fr CNAME .
@@ -1108,6 +1115,7 @@ sc.liveme.com CNAME .
 scdn.missionlane.com CNAME .
 scontent.aquacard.co.uk CNAME .
 scontent.bip.credit CNAME .
+scontent.blackhorseflexpay.co.uk CNAME .
 scontent.fluid.co.uk CNAME .
 scontent.marbles.com CNAME .
 scontent.newdaycards.com CNAME .
@@ -1249,6 +1257,7 @@ tags.rbs.co.uk CNAME .
 tags.rbsdigital.com CNAME .
 tags.rbsidigital.com CNAME .
 tags.s-dati.com CNAME .
+tags.sandbox.onlinebankingtest.iombank.com CNAME .
 tags.sandbox.onlinebankingtest.natwestinternational.com CNAME .
 tags.ulsterbank.co.uk CNAME .
 tags.ulsterbankanytimebanking.co.uk CNAME .

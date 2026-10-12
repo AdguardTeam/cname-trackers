@@ -3,6 +3,7 @@
 ||abox.simpleshop.cz^
 ||aff.faircredit.cz^
 ||aff.pujckajonatan.cz^
+||aff.realwoman.sk^
 ||aff.teshop.cz^
 ||aff.teticka.cz^
 ||aff.winkey.cz^
@@ -254,12 +255,14 @@
 ||ambasador.montessorikurz.cz^
 ||ambasador.montessorispolecne.cz^
 ||ambasadorky.zenyzenam.cz^
+||ambassadors.childhoodpotential.club^
 ||ambassadors.childhoodpotential.com^
 ||ambassadors.guideandgrow.com^
 ||analytics.algomoneo.com^
 ||box.kryptotrejder.sk^
 ||champions.betubetu.com^
 ||collab.zdravetricko.cz^
+||connect.algomoneo.com^
 ||cooperation.mitochondriak.com^
 ||cooperation.mitochondriak.cz^
 ||cooperation.mitochondriak.pl^
@@ -275,6 +278,7 @@
 ||doporuc.necojakocola.cz^
 ||doporuc.promujdomov.cz^
 ||doporuc.shopiam4u.cz^
+||doporuc.slevomat.group^
 ||doporucim.zjistitcenu.cz^
 ||equilist.raj-ohlavek.cz^
 ||hcbox.antiradary.net^
@@ -523,6 +527,7 @@
 ||partner.gaymegastore.cz^
 ||partner.gaymegastore.eu^
 ||partner.gel-gun.cz^
+||partner.generatorvodiku.cz^
 ||partner.gingershot.cz^
 ||partner.giulieta.shop^
 ||partner.gloe.cz^
@@ -682,6 +687,7 @@
 ||partner.robotworld.ro^
 ||partner.robotworld.sk^
 ||partner.root.cz^
+||partner.rozhladna.sk^
 ||partner.roztouzeny.cz^
 ||partner.rozvoj-osobny.sk^
 ||partner.ruzovyslon.cz^
@@ -775,7 +781,6 @@
 ||partneri.alchemistr.cz^
 ||partneri.alepiacz.cz^
 ||partneri.anglictinarychlo.sk^
-||partneri.appkee.cz^
 ||partneri.arouska.cz^
 ||partneri.artisan.cz^
 ||partneri.autoprofishop.cz^
@@ -858,6 +863,7 @@
 ||partneri.piercing.cz^
 ||partneri.piratecbd.cz^
 ||partneri.plantobesto.com^
+||partneri.podnikaveduse.cz^
 ||partneri.portske.cz^
 ||partneri.prectime.cz^
 ||partneri.proficredit.cz^
@@ -900,6 +906,7 @@
 ||partneri.yoggspiration.cz^
 ||partneri.zaprovizi.cz^
 ||partneri.zhubnichytre.cz^
+||partneri.zijchytre.cz^
 ||partners.almaf.cz^
 ||partners.bonyacademy.com^
 ||partners.gingles.co^
@@ -977,3 +984,4 @@
 ||partner.janapekna.cz^
 ||partner.mojalekaren.sk^
 ||partner.topforteam.cz^
+||partneri.appkee.cz^

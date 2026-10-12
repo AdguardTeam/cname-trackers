@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791552913843        ; Serial
+           1791803553806        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,11 +18,13 @@ app.h24.news CNAME .
 apps.h24.news CNAME .
 at.h24.news CNAME .
 barracuda.h24.news CNAME .
+bo.h24.news CNAME .
 br.h24.news CNAME .
 buy.h24.news CNAME .
 c.leparisien.fr CNAME .
 ca-fr.h24.news CNAME .
 central.us.h24.news CNAME .
+ch-fr.h24.news CNAME .
 client.h24.news CNAME .
 cms.h24.news CNAME .
 customer.h24.news CNAME .
@@ -121,6 +123,7 @@ l.dzfoot.com CNAME .
 l.e-sante.fr CNAME .
 l.easyvoyage.com CNAME .
 l.echo-des-tribunes.com CNAME .
+l.echo-ouest.fr CNAME .
 l.echoancenis.fr CNAME .
 l.echoduberry.fr CNAME .
 l.eclypsia.com CNAME .
@@ -161,6 +164,7 @@ l.gentside.com CNAME .
 l.gentside.de CNAME .
 l.geo.fr CNAME .
 l.glitz.paris CNAME .
+l.grainsdesel.com CNAME .
 l.grazia.fr CNAME .
 l.grazia.it CNAME .
 l.graziamagazine.com CNAME .

@@ -301,6 +301,7 @@ cim-idc-cdn.account.hcsctest.net
 cim-idc-cdn.account.test.bcbsil.com
 cim-idc-cdn.account.test.bcbsok.com
 cim-idc-cdn.account.test.bcbstx.com
+cim-idc-cdn.account.test.healthspring.com
 cim-idc-cdn.account.wellontarget.com
 claimant.vec.virginia.gov
 clovergo.june-testing.firstdata.com
@@ -581,6 +582,7 @@ cybs.dhpay.com
 d.mlcdn.com.br
 d0796fef.monkeyspins.com
 d3tracking.rbc.com
+daotm-1.firstcitizens.com
 daotm.firstcitizens.com
 ddata.huntingtonbank.com
 ddc-test.worldpay.com
@@ -646,6 +648,7 @@ ecomm.thegiftcardshop.com
 edge.privacy.com.br
 edge.snappibank.com
 edge2.lavaslots.com
+edge2.luxiprize.com
 ela1.bankofscotland.co.uk
 elevate.stg.na02.aws.ballys.tech
 enligne.bnc.ca
@@ -776,6 +779,7 @@ imgs.cdn-btsg.com
 imgs.signifyd.com
 imgtemplate.cembra.ch
 info.betway.bg
+info.betway.cm
 info.betway.co.ke
 info.betway.co.mz
 info.betway.co.tz
@@ -799,6 +803,7 @@ intlsdpntrca.nitrocasino.ca
 intm.amwager.com
 invalid-qa2.threatmetrix.com
 irmp.caa.com
+ivaacontent.ers.ga.gov
 jj203.equitablebank.ca
 jplspr.jackpot.com
 jpubs.zodia.io
@@ -953,6 +958,7 @@ prod-commonwealth.chaperone.lumindigitalhosting.com
 prod-consumers.chaperone.lumindigitalhosting.com
 prod-cstonefcu.chaperone.lumindigitalhosting.com
 prod-dccuva.chaperone.lumindigitalhosting.com
+prod-demo.chaperone.lumindigitalhosting.com
 prod-dexsta.chaperone.lumindigitalhosting.com
 prod-elements-mercury2023.chaperone.lumindigitalhosting.com
 prod-ffcuin.chaperone.lumindigitalhosting.com
@@ -1055,6 +1061,7 @@ rba.login.mahix.org
 rba.onehealthcareid.com
 rba.optumgovid.com
 rba.optumid.com
+rba.ve.m.cfg.smt.docomo.ne.jp
 rbawis.pocketcard.co.jp
 rct.ext.creditpartner.fr
 rct.ext.sofinco.fr
@@ -1097,6 +1104,7 @@ sc.liveme.com
 scdn.missionlane.com
 scontent.aquacard.co.uk
 scontent.bip.credit
+scontent.blackhorseflexpay.co.uk
 scontent.fluid.co.uk
 scontent.marbles.com
 scontent.newdaycards.com
@@ -1238,6 +1246,7 @@ tags.rbs.co.uk
 tags.rbsdigital.com
 tags.rbsidigital.com
 tags.s-dati.com
+tags.sandbox.onlinebankingtest.iombank.com
 tags.sandbox.onlinebankingtest.natwestinternational.com
 tags.ulsterbank.co.uk
 tags.ulsterbankanytimebanking.co.uk

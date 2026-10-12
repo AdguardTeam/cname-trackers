@@ -151,4 +151,5 @@
 ||wvvw.zoa.media^
 ||www.strawberry.basf.com^
 ||zelten.fritz-berger.de^
+||zorfa.freiepresse.de^
 ||zug.sbb.ch^

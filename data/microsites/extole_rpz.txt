@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791546675426        ; Serial
+           1791806551628        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -51,6 +51,7 @@ refer.dnj.com CNAME .
 refer.foodkick.com CNAME .
 refer.freshly.com CNAME .
 refer.fuzebox.com CNAME .
+refer.gevalia.com CNAME .
 refer.gotoassist.com CNAME .
 refer.gotomeeting.com CNAME .
 refer.gotowebinar.com CNAME .
@@ -131,7 +132,7 @@ em4504.mail.raf.xfinity.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
 em7952.dailypay.com CNAME .
-em924.refer.starbucks.com CNAME .
+em8031.soundcloud.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -152,6 +153,7 @@ love.columbiacu.org CNAME .
 loyalty.glowbar.com CNAME .
 my.kotn.com CNAME .
 offers.wecu.com CNAME .
+owncloud.extoleu.com CNAME .
 pals.petco.com CNAME .
 parrainage.dyson.fr CNAME .
 prepod.refer.intuit.com CNAME .
@@ -169,6 +171,7 @@ refer.acornonline.com CNAME .
 refer.akcpetinsurance.com CNAME .
 refer.allenedmonds.com CNAME .
 refer.amctheatres.com CNAME .
+refer.americaneagle.org CNAME .
 refer.americanmusical.com CNAME .
 refer.amerisleep.com CNAME .
 refer.andieswim.com CNAME .
@@ -183,6 +186,7 @@ refer.awscloud.com CNAME .
 refer.baddie.health CNAME .
 refer.ballarddesigns.com CNAME .
 refer.bananarepublic.com CNAME .
+refer.bareminerals.uk CNAME .
 refer.barharbor.bank CNAME .
 refer.barnandwillow.com CNAME .
 refer.batesfootwear.com CNAME .
@@ -311,6 +315,7 @@ refer.madison-reed.com CNAME .
 refer.marinerfinance.com CNAME .
 refer.midlandsb.com CNAME .
 refer.minted.com CNAME .
+refer.mission.com CNAME .
 refer.mpgsport.ca CNAME .
 refer.mpgsport.com CNAME .
 refer.msgcu.org CNAME .
@@ -459,6 +464,7 @@ rewards.westlakedermatology.com CNAME .
 rob.extoleu.com CNAME .
 rob2.extoleu.com CNAME .
 score.lumen.com CNAME .
+sftp.extole.com CNAME .
 share-fiber.t-mobile.com CNAME .
 share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
@@ -667,6 +673,7 @@ share.openenglish.com.br CNAME .
 share.openenglish.com.tr CNAME .
 share.openenglish.es CNAME .
 share.opploans.com CNAME .
+share.optimal-selection.com CNAME .
 share.origins.com CNAME .
 share.palmbeachpost.com CNAME .
 share.partsvu.com CNAME .
@@ -819,11 +826,11 @@ em4367.raf-studentloans.discover.com CNAME .
 em5807.turbotax.refer.intuit.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
 em767.forgetrust.com CNAME .
-em8031.soundcloud.com CNAME .
 em8561.go2bank.com CNAME .
 em8642.notifications.acorns.com CNAME .
 em8928.em.petco.com CNAME .
 em9129.lightstream.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9290.carparts.com CNAME .
 em9347.shareus.viktor-rolf.com CNAME .
 em9523.walmartmoneycard.com CNAME .
@@ -855,4 +862,3 @@ xtl2._domainkey.soundcloud.com CNAME .
 xtl2._domainkey.theory.com CNAME .
 xtl2._domainkey.walmartmoneycard.com CNAME .
 refer.endy.com CNAME .
-sftp.extole.com CNAME .

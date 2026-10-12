@@ -607,6 +607,7 @@ tr.kang.espmp-cufr.net
 tr.kedf.espmp-nifr.net
 tr.klse.espmp-agfr.net
 tr.kommunikation.younited-credit.com
+tr.kontakt.canal-plus.com
 tr.kontakt.younited-credit.com
 tr.kpfc.espmp-nifr.net
 tr.kpyn.espmp-cufr.net
@@ -761,6 +762,7 @@ tr.news.casinomax.fr
 tr.news.cci-puydedome.com
 tr.news.cdiscount.com
 tr.news.cdiscountpro.com
+tr.news.celine.fr
 tr.news.cenpac.fr
 tr.news.ceoradio.tv
 tr.news.cforadio.tv
@@ -1022,6 +1024,7 @@ tr.redaction.leguidedupouvoir.fr
 tr.reglementaire.emailing.bnpparibas
 tr.relation-mediametrie.fr
 tr.relation.uneo.fr
+tr.remboursements.mnt.fr
 tr.renowizze.be
 tr.republicains-info.org
 tr.route-solutiondata.fr

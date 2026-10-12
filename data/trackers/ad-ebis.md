@@ -59,6 +59,7 @@
     * 1ee09796-6pusefyf.cname.ebis.ne.jp
     * 1f0f30ec-fbw7r35c.cname.ebis.ne.jp
     * 208eff79-6pusefyf.cname.ebis.ne.jp
+    * 21c2f86a-9ztgpdfy.cname.ebis.ne.jp
     * 2298f196-sz3ynfbf.cname.ebis.ne.jp
     * 26349a15-esqb2ypb.cname.ebis.ne.jp
     * 267222ab-t3ucd5yy.cname.ebis.ne.jp
@@ -430,6 +431,7 @@
 | ebis-tracking.tcb-kyoto.net | 1ee09796-6pusefyf.cname.ebis.ne.jp |
 | adebis.muscledeli.co.jp | 1f0f30ec-fbw7r35c.cname.ebis.ne.jp |
 | ebis-tracking.tcb-nakano.com | 208eff79-6pusefyf.cname.ebis.ne.jp |
+| c.cbdselect.shop | 21c2f86a-9ztgpdfy.cname.ebis.ne.jp |
 | ebis.wanomiraika.com | 2298f196-sz3ynfbf.cname.ebis.ne.jp |
 | ebis.smakon.jp | 26349a15-esqb2ypb.cname.ebis.ne.jp |
 | ebiscname.english-native.net | 267222ab-t3ucd5yy.cname.ebis.ne.jp |

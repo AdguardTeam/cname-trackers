@@ -9,7 +9,6 @@
 * form.bp01.net
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
-* forms.bp01.net
 * web-ro.np6.com
 
 ## Cloaking domains
@@ -26,7 +25,6 @@
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
-| www.jeu.heliades.fr | forms.bp01.net |
 | m.uneo.fr | shortener.bp01.net |
 | s.allopneus.com | shortener.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
@@ -640,6 +638,7 @@
 | tr.kedf.espmp-nifr.net | tracking.bp01.net |
 | tr.klse.espmp-agfr.net | tracking.bp01.net |
 | tr.kommunikation.younited-credit.com | tracking.bp01.net |
+| tr.kontakt.canal-plus.com | tracking.bp01.net |
 | tr.kontakt.younited-credit.com | tracking.bp01.net |
 | tr.kpfc.espmp-nifr.net | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
@@ -794,6 +793,7 @@
 | tr.news.cci-puydedome.com | tracking.bp01.net |
 | tr.news.cdiscount.com | tracking.bp01.net |
 | tr.news.cdiscountpro.com | tracking.bp01.net |
+| tr.news.celine.fr | tracking.bp01.net |
 | tr.news.cenpac.fr | tracking.bp01.net |
 | tr.news.ceoradio.tv | tracking.bp01.net |
 | tr.news.cforadio.tv | tracking.bp01.net |
@@ -1055,6 +1055,7 @@
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
 | tr.relation-mediametrie.fr | tracking.bp01.net |
 | tr.relation.uneo.fr | tracking.bp01.net |
+| tr.remboursements.mnt.fr | tracking.bp01.net |
 | tr.renowizze.be | tracking.bp01.net |
 | tr.republicains-info.org | tracking.bp01.net |
 | tr.route-solutiondata.fr | tracking.bp01.net |

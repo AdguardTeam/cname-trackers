@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791552913843        ; Serial
+           1791803560435        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ analytics.tomatomtl.com CNAME .
 analytics.wendoverds.org.uk CNAME .
 analytics.wendovertrust.org CNAME .
 analytics.yofbrc.com CNAME .
+andylytics.amhoyt.com CNAME .
 api.meestermac.nl CNAME .
 argus.umarbutler.com CNAME .
 c.qrdate.org CNAME .
@@ -48,7 +49,7 @@ contacapre.bortox.it CNAME .
 corner-stats.sladewatkins.net CNAME .
 count.andreabrandi.com CNAME .
 count.kealper.com CNAME .
-count.vidsrc.pro CNAME .
+counter.shens.world CNAME .
 counter.storydragon.nl CNAME .
 da-stats.sladewatkins.net CNAME .
 dot-com-stats.sladewatkins.net CNAME .
@@ -98,7 +99,9 @@ stats-ruzickap-github-io.ruzicka.dev CNAME .
 stats.45rpm.ch CNAME .
 stats.abdo.wtf CNAME .
 stats.abdodaoud.com CNAME .
+stats.adaliaworks.com CNAME .
 stats.alextecplayz.com CNAME .
+stats.alxwrd.co.uk CNAME .
 stats.apitman.com CNAME .
 stats.applizi.com CNAME .
 stats.arredofrigo.net CNAME .
@@ -116,6 +119,7 @@ stats.carlomega.it CNAME .
 stats.cassie.omg.lol CNAME .
 stats.celerry.com CNAME .
 stats.certidiritti.org CNAME .
+stats.chuniversiteit.nl CNAME .
 stats.cloudflex.team CNAME .
 stats.coderjoe.net CNAME .
 stats.coderscompass.org CNAME .
@@ -136,6 +140,7 @@ stats.ghostiam.dev CNAME .
 stats.gopikrishna.dev CNAME .
 stats.gwyer.net CNAME .
 stats.hadejkde.cz CNAME .
+stats.hanji.sxzz.moe CNAME .
 stats.haseebmajid.dev CNAME .
 stats.hdyar.com CNAME .
 stats.hedy.dev CNAME .
@@ -220,6 +225,7 @@ stats.vamsi-alluri.me CNAME .
 stats.waytosmile.fr CNAME .
 stats.webmeasurements.org CNAME .
 stats.whatacools.com CNAME .
+stats.wjmallard.net CNAME .
 stats.ybbond.id CNAME .
 stats.yunseo.kim CNAME .
 stats.zbahn.de CNAME .

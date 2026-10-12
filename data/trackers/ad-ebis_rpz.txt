@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791546675426        ; Serial
+           1791809010955        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -159,6 +159,7 @@ analytics.pcnext.shop CNAME .
 axjfkc.kobayashi.co.jp CNAME .
 bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
+c.cbdselect.shop CNAME .
 c.lypo-c.jp CNAME .
 c.lypo-c.shop CNAME .
 campaign-direct.eisai.jp CNAME .

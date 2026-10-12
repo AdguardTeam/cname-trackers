@@ -3,6 +3,7 @@
 0sbm.consobaby.co.uk
 16ao.mathon.fr
 1bva.sg.fr
+5fm.985fm.ca
 6pal.consobaby.com
 6swu.cpa-france.org
 7lbd4.armandthiery.fr
@@ -63,8 +64,6 @@ bpe2.destinia.co.il
 brv0.bravomusique.com
 bum7.bymycar.fr
 bvz5.destinia.com.tr
-c0i.ckoi.com
-c0p.cepsum.umontreal.ca
 c45cc75f.eulerian.io
 c4dv.copinesdevoyage.com
 c4fyt.tremblant.ca
@@ -91,8 +90,6 @@ ct6.chansontadoussac.com
 ctr5.culture3r.com
 cvi6.destinia.qa
 cyf9.destinia.cl
-d0f.le-dauphin.com
-d2u.dauphinquebec.com
 d62e9cfa.eulerian.io
 da3.delicesdautomne.com
 da85edd2.eulerian.io
@@ -181,6 +178,7 @@ ea.voyage-prive.co.uk
 ea.voyage-prive.es
 ea.voyage-prive.it
 ea.warnerbros.fr
+eat9.thebeat925.ca
 ecorp.eulerian.io
 ed2.ledq.qc.ca
 ed7e8cec.eulerian.io
@@ -190,7 +188,6 @@ ef.futuroscope.mobi
 efbdcd3b.eulerian.io
 eit3.destinia.nl
 ek8.voyage-prive.com
-erb.tremblant.ca
 erdev-next.eulerian.io
 erdev1.eulerian.io
 erdev3.eulerian.io
@@ -240,6 +237,7 @@ f2.voyage-prive.com
 f2f89od5.eulerian.io
 f8c8o45a.eulerian.io
 f925caf3.eulerian.io
+fa9dcdaf.eulerian.io
 fal2.carrefour-banque.fr
 fbu8.hoteldeparismontecarlo.com
 fbu8.hotelhermitagemontecarlo.com
@@ -305,7 +303,9 @@ lf5.lefestif.ca
 lio8.destinia.com.pa
 livv.vieuxportsteakhouse.com
 ljb0.assuronline.com
+lm5.le-monastere.ca
 lp.to-lipton.com
+lr1.larotonde.qc.ca
 lrp7.carrefour-banque.fr
 lsv5.belambra.fr
 ltm6.destinia.se
@@ -340,6 +340,7 @@ nmu3.destinia.be
 noa0.compteczam.fr
 nqsm.medicus.ca
 nrg.red-by-sfr.fr
+nym5c.laura.ca
 nyt1.biosens-leanature.fr
 o35e79f2.eulerian.io
 o69cab6a.eulerian.io
@@ -373,11 +374,13 @@ piq4.inseec.education
 pj9.pauline-julien.com
 pkc5.hardrockhoteltenerife.com
 pm.pmu.fr
+pm9.popmontreal.com
 po.ponant.com
 pol3.cheque-domicile.fr
 pp.promocionesfarma.com
 ppp7.destinia.kr
 pqn7.cheque-dejeuner.fr
+prod.eulerian.io
 prx6.destinia.ch
 ps.pmu.fr
 pu.pretunique.fr
@@ -405,8 +408,8 @@ rmp4.destinia.uy
 rqnn.funjet.com
 rup5.destinia.ru
 rvz9.destinia.co.ro
+rwl.tremblant.ca
 rxzz.metcalfehotel.com
-ry0.rythmefm.com
 s4e8.cascades.com
 sa.lesselectionsskoda.fr
 sa.skoda.fr
@@ -422,6 +425,7 @@ slm1.leministere.ca
 sno1.snowrental.com
 snr4.canalplus.com
 srm4.destinia.co.no
+sso.eulerian.io
 ssrlot.lotoquebec.com
 ssy7.destinia.com.ua
 st2.sat.qc.ca
@@ -496,7 +500,6 @@ xjq5.belambra.be
 xya4.groupefsc.com
 yacq.carletto-ottawa.com
 yf5.voyage-prive.at
-yio.tremblant.ca
 yoc.younited-credit.com
 ysl3.destinia.ec
 yyi7.consobaby.de
@@ -510,14 +513,17 @@ zs.voyage-prive.com
 zsi7.destinia.do
 zum7cc.oui.sncf
 zyq2.destinia.sk
-5fm.985fm.ca
-eat9.thebeat925.ca
+c0i.ckoi.com
+c0p.cepsum.umontreal.ca
+d0f.le-dauphin.com
+d2u.dauphinquebec.com
+erb.tremblant.ca
 hk2d.tourismemauricie.com
 l2i.qualityinnlevis.com
 nym5c.bonlook.com
-rwl.tremblant.ca
+ry0.rythmefm.com
 su1.les-suites.ca
+yio.tremblant.ca
 ea.mnt.fr
 gi7a.structube.com
-nym5c.laura.ca
 pk1u.melanielyne.com

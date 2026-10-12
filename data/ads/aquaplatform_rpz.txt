@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791549122371        ; Serial
+           1791809781708        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -103,8 +103,12 @@ console.cricketworld.com CNAME .
 console.datateam.co.uk CNAME .
 console.engineeringnews.co.za CNAME .
 console.everythingcolorado.com CNAME .
+console.everythingnevada.com CNAME .
+console.fa-mag.com CNAME .
 console.faithlifeads.com CNAME .
 console.falconstudios.com CNAME .
+console.fnch.ch CNAME .
+console.geminipub.com CNAME .
 console.goldseek.com CNAME .
 console.greenspring.com CNAME .
 console.hour-media.com CNAME .
@@ -119,6 +123,7 @@ console.mannixmarketing.com CNAME .
 console.medlabmag.com CNAME .
 console.mequoda.com CNAME .
 console.miningweekly.com CNAME .
+console.mondiale.co.uk CNAME .
 console.palmbeachmedia.com CNAME .
 console.pinktriangle.ca CNAME .
 console.polity.org.za CNAME .
@@ -133,6 +138,7 @@ console.thedailyhorn.com CNAME .
 console.trackandfieldnews.com CNAME .
 console.unionesarda.it CNAME .
 console.walaplusadserver.com CNAME .
+console.worldofshowjumping.com CNAME .
 console.wwoz.org CNAME .
 coreads-static.cambridge.org CNAME .
 coreads.cambridge.org CNAME .
@@ -183,6 +189,7 @@ questico-ads.reviveservers.com CNAME .
 revive-console.worldscreen.com CNAME .
 revive-static.worldscreen.com CNAME .
 revive.ahk.de CNAME .
+revive.teck.com.br CNAME .
 revive.worldscreen.com CNAME .
 reviveapi.geenstijl.nl CNAME .
 rtvutrecht-static.reviveservers.com CNAME .
@@ -232,7 +239,6 @@ servedby.rlnads.net CNAME .
 servedby.sacommunications.com CNAME .
 servedby.schrotundkorn.de CNAME .
 servedby.tahoe.com CNAME .
-servedby.teck.com.br CNAME .
 servedby.thinkresult.in CNAME .
 servedby.trackandfieldnews.com CNAME .
 servedby.walaplusadserver.com CNAME .
@@ -243,6 +249,7 @@ server.ad.logic.viasat.io CNAME .
 static.ad.logic-prod.viasat.io CNAME .
 static.ad.logic-test.viasat.io CNAME .
 static.ad.logic.viasat.io CNAME .
+static.ads.fanta-olimpiadi.com CNAME .
 static.ads.fantasanremo.com CNAME .
 static.ahk.de CNAME .
 static.ammoland.com CNAME .

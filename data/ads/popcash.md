@@ -958,6 +958,7 @@
 | cdn.clbaf.com | popcashjs.b-cdn.net |
 | cdn.crsope.com | popcashjs.b-cdn.net |
 | cdn.cryjun.com | popcashjs.b-cdn.net |
+| cdn.danwosd.cloud | popcashjs.b-cdn.net |
 | cdn.dawplm.com | popcashjs.b-cdn.net |
 | cdn.decpo.xyz | popcashjs.b-cdn.net |
 | cdn.delutza.com | popcashjs.b-cdn.net |
@@ -1017,6 +1018,7 @@
 | cdn.nuqwe.com | popcashjs.b-cdn.net |
 | cdn.orjfun.com | popcashjs.b-cdn.net |
 | cdn.paluinho.cloud | popcashjs.b-cdn.net |
+| cdn.paqod.com | popcashjs.b-cdn.net |
 | cdn.pctv.xyz | popcashjs.b-cdn.net |
 | cdn.pfiuyt.com | popcashjs.b-cdn.net |
 | cdn.piuyt.com | popcashjs.b-cdn.net |
@@ -1036,6 +1038,7 @@
 | cdn.rqwel.com | popcashjs.b-cdn.net |
 | cdn.rtyufo.com | popcashjs.b-cdn.net |
 | cdn.sblhp.com | popcashjs.b-cdn.net |
+| cdn.sepyok.com | popcashjs.b-cdn.net |
 | cdn.spnut.com | popcashjs.b-cdn.net |
 | cdn.sslph.com | popcashjs.b-cdn.net |
 | cdn.syinga.com | popcashjs.b-cdn.net |
@@ -1064,6 +1067,7 @@
 | cdn.zkcvb.com | popcashjs.b-cdn.net |
 | cdn.zxclan.com | popcashjs.b-cdn.net |
 | cdn.shrtfly.vip | popupads.b-cdn.net |
+| ua.daito.io | prd-global-cdn-daito-umami.b-cdn.net |
 | cdn-b.notsy.io | prebid.b-cdn.net |
 | dntcl.qualaroo.com | qualdnt.b-cdn.net |
 | sp.lenspk.com | spixel.b-cdn.net |

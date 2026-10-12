@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791547149073        ; Serial
+           1791809781708        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -136,6 +136,7 @@ etd.wackerneusongroup.com CNAME .
 etd.wechseljahre-verstehen.de CNAME .
 etd.weidemann.com CNAME .
 etdomain.dorothee-schumacher.com CNAME .
+etitp.snaic.ai CNAME .
 etr.casanovacoaching.de CNAME .
 etr.cosee.biz CNAME .
 etr.green-planet-energy.de CNAME .
@@ -182,6 +183,7 @@ js.edingershops.de CNAME .
 kkavde.agravis.de CNAME .
 link.vhs-gl.de CNAME .
 lolly.needforsweet.de CNAME .
+m.denk-qme.com CNAME .
 maschine.bengs-modellbau.de CNAME .
 matrix.heimundgarten24.de CNAME .
 me.golfclub-bruchsal.de CNAME .
@@ -304,6 +306,7 @@ stream.joe-nimble.com CNAME .
 sun.solar-haus.de CNAME .
 system.affiliate-marketing-hamburg.de CNAME .
 system.j5media.de CNAME .
+t.haw-weiterbildung.de CNAME .
 tr.hundesportladen.de CNAME .
 tr.jesusmygoal.com CNAME .
 tr.mey-wasserschaden.de CNAME .
@@ -521,6 +524,7 @@ webstt0029.onofficeom.com CNAME .
 webstt0031.onofficeom.com CNAME .
 webstt0032.onofficeom.com CNAME .
 webstt0033.onofficeom.com CNAME .
+webstt0034.onofficeom.com CNAME .
 webstt0035.onofficeom.com CNAME .
 webstt0037.onofficeom.com CNAME .
 webstt0038.onofficeom.com CNAME .
@@ -528,13 +532,16 @@ webstt0039.onofficeom.com CNAME .
 webstt0041.onofficeom.com CNAME .
 webstt0042.onofficeom.com CNAME .
 webstt0046.onofficeom.com CNAME .
+webstt0048.onofficeom.com CNAME .
 webstt0049.onofficeom.com CNAME .
 webstt0050.onofficeom.com CNAME .
+webstt0052.onofficeom.com CNAME .
 webstt0053.onofficeom.com CNAME .
 webstt0056.onofficeom.com CNAME .
 webstt0057.onofficeom.com CNAME .
 webstt0059.onofficeom.com CNAME .
 webstt0060.onofficeom.com CNAME .
+webstt0063.onofficeom.com CNAME .
 webstt0067.onofficeom.com CNAME .
 webstt0068.onofficeom.com CNAME .
 webstt0069.onofficeom.com CNAME .
@@ -543,8 +550,10 @@ webstt0073.onofficeom.com CNAME .
 webstt0077.onofficeom.com CNAME .
 webstt0078.onofficeom.com CNAME .
 webstt0079.onofficeom.com CNAME .
+webstt0083.onofficeom.com CNAME .
 webstt0090.onofficeom.com CNAME .
 webstt0102.onofficeom.com CNAME .
+webstt0103.onofficeom.com CNAME .
 webstt0111.onofficeom.com CNAME .
 websy.skillyofficial.com CNAME .
 webtr.cc-egov.de CNAME .

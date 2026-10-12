@@ -227,7 +227,6 @@
 ||s.nerdfulmind.com^
 ||s.pjh.is^
 ||s.repguard.uk^
-||s.saucisson-rebellion.fr^
 ||s.sporks.space^
 ||s.stgeorgeafc.com.au^
 ||s.testingreactjs.com^

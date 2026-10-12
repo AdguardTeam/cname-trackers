@@ -33,6 +33,7 @@
     * freshdirect.extole.com
     * freshly.extole.com
     * fuzebox-ssl.extole.com
+    * gevalia.extole.com
     * ggu-ssl.extole.com
     * gotoassist.extole.com
     * gotomeeting.extole.com
@@ -123,6 +124,7 @@
     * altra.extole.io
     * amazon-web-services.extole.io
     * amcstubs.extole.io
+    * americaneagle.extole.io
     * americanmusical.extole.io
     * amerisleep.extole.io
     * ammunition-depot.extole.io
@@ -144,6 +146,7 @@
     * aveda.extole.io
     * ballarddesigns.extole.io
     * banana-republic.extole.io
+    * baremineralsuk.extole.io
     * barharbor.extole.io
     * barnandwillow.extole.io
     * barnes-and-noble-college.extole.io
@@ -377,6 +380,7 @@
     * midlandsb.extole.io
     * midlandusa.extole.io
     * minted.extole.io
+    * mission.extole.io
     * mondetta.extole.io
     * moneybase-sandbox.extole.io
     * msgcu.extole.io
@@ -482,6 +486,7 @@
     * savers.extole.io
     * seabourn.extole.io
     * sesamecare.extole.io
+    * sftp.extole.io
     * shark-clean.extole.io
     * sharkninja.extole.io
     * shibumishade.extole.io
@@ -501,10 +506,10 @@
     * smashbox.extole.io
     * snap-finance.extole.io
     * soma.extole.io
+    * soundcloud.em.extole.io
     * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * starone.extole.io
@@ -640,6 +645,7 @@
 | refer.awscloud.com | amazon-web-services.extole.io |
 | refer.amctheatres.com | amcstubs.extole.io |
 | refer.american-giant.com | american-giant.extole.com |
+| refer.americaneagle.org | americaneagle.extole.io |
 | refer.americanexpress.com | americanexpress.extole.com |
 | refer.americanmusical.com | americanmusical.extole.io |
 | refer.amerisleep.com | amerisleep.extole.io |
@@ -672,6 +678,7 @@
 | refer.backcountry.com | backcountry.extole.com |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
 | refer.bananarepublic.com | banana-republic.extole.io |
+| refer.bareminerals.uk | baremineralsuk.extole.io |
 | refer.barenecessities.com | barenecessities.extole.com |
 | refer.barharbor.bank | barharbor.extole.io |
 | refer.barnandwillow.com | barnandwillow.extole.io |
@@ -831,6 +838,7 @@
 | izoncl2caorfnn6o.extoleu.com | extoleu.extole.io |
 | jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
 | kenn.extoleu.com | extoleu.extole.io |
+| owncloud.extoleu.com | extoleu.extole.io |
 | rob.extoleu.com | extoleu.extole.io |
 | rob2.extoleu.com | extoleu.extole.io |
 | ufsmdjkg1zhzcx9i.extoleu.com | extoleu.extole.io |
@@ -953,6 +961,7 @@
 | share.gc.com | gc.extole.io |
 | gift.getfreed.ai | getfreed.extole.io |
 | share.getsetup.io | getsetup.extole.io |
+| refer.gevalia.com | gevalia.extole.com |
 | refer.gfafcu.com | gfafcu.extole.io |
 | share.ggu.edu | ggu-ssl.extole.com |
 | refer.giantfood.com | giantfood.extole.io |
@@ -1094,6 +1103,7 @@
 | refer.midlandsb.com | midlandsb.extole.io |
 | share.midlandusa.com | midlandusa.extole.io |
 | refer.minted.com | minted.extole.io |
+| refer.mission.com | mission.extole.io |
 | share.mlb.tv | mlbtv.extole.com |
 | refer.mpgsport.ca | mondetta.extole.io |
 | refer.mpgsport.com | mondetta.extole.io |
@@ -1246,6 +1256,7 @@
 | refer.seabourn.com | seabourn.extole.io |
 | refer.seniorhelpers.com | seniorhelpers.extole.com |
 | share.sesamecare.com | sesamecare.extole.io |
+| sftp.extole.com | sftp.extole.io |
 | friend.sharefile.com | sharefile-ssl.extole.com |
 | refer.sharkclean.com | shark-clean.extole.io |
 | refer.sharkninja.com | sharkninja.extole.io |
@@ -1272,11 +1283,11 @@
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
 | refer.soma.com | soma.extole.io |
+| em8031.soundcloud.com | soundcloud.em.extole.io |
 | invite.soundcloud.com | soundcloud.extole.io |
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.starone.org | starone.extole.io |
@@ -1419,6 +1430,7 @@
 | refer.whitehouseblackmarket.com | whitehouseblackmarket.extole.io |
 | share.wimp.no | wimp.extole.com |
 | refer.wine.com | wine.extole.io |
+| share.optimal-selection.com | wisdompanel.extole.io |
 | share.wisdompanel.com | wisdompanel.extole.io |
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |

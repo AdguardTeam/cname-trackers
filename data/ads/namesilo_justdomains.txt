@@ -362,6 +362,7 @@
 3501655.notify6.com
 3505119.notify6.com
 3505127.notify6.com
+3505139.notify6.com
 3505141.notify6.com
 3505883.notifysrv.com
 3505935.notify6.com
@@ -402,9 +403,11 @@
 3570741.notifysrv.com
 3572273.notify6.com
 3572273.notifysrv.com
+3572277.notify6.com
 3572277.notifysrv.com
 3572279.notifysrv.com
 3572283.notifysrv.com
+3572285.notifysrv.com
 3572291.notify6.com
 3572299.notify6.com
 3572299.notifysrv.com
@@ -415,6 +418,7 @@
 3580293.notifysrv.com
 3580393.notifysrv.com
 3584069.notifysrv.com
+3584913.notifysrv.com
 3585013.notifysrv.com
 3585133.notifysrv.com
 3585435.notify6.com
@@ -572,6 +576,7 @@
 3943940.notify6.com
 3944044.notify6.com
 3944974.notify6.com
+3944976.notify6.com
 3944978.notify6.com
 3944980.notify6.com
 3945010.notify6.com
@@ -622,6 +627,7 @@
 4068860.notify6.com
 4069896.notify6.com
 4069900.notify6.com
+4086498.notify6.com
 4093690.notify6.com
 4096386.notify6.com
 4097564.notify6.com
@@ -630,6 +636,7 @@
 4106200.notify6.com
 4130286.notify6.com
 4131834.notify6.com
+4133596.notify6.com
 4144426.notify6.com
 4146746.notify6.com
 4146994.notify6.com
@@ -787,7 +794,7 @@
 8.notify.bizonads-ssp.com
 _sips._tcp.3323174.notifysrv.com
 a.18ramp.com
-a.adsession.com
+a.6hd49jng.com
 a.advantageclicks.net
 a.allureanews.com
 a.am7srv.com
@@ -798,6 +805,7 @@ a.chmsrv.com
 a.crme7srv.com
 a.etology.com
 a.eunow4u.com
+a.flirtads.net
 a.gentlefieldpattern.com
 a.happyleafmotion.com
 a.klico.link
@@ -809,9 +817,7 @@ a.ns.notifysrv.com
 a.pinkads.org
 a.playa.to
 a.smartfloralab.com
-a.t5z3w0p.com
 a.tf4srv.com
-a.traffic-gold.com
 a.vws4brkfst.com
 abc.notifysrv.com
 accept.notifysrv.com
@@ -888,6 +894,7 @@ glass.notifysrv.com
 global.notifysrv.com
 gsa.notifysrv.com
 gzs.notifysrv.com
+harbor.notify6.com
 hashfaster.com3710069.notifysrv.com
 hathor.notifysrv.com
 hostkarma.notifysrv.com
@@ -902,6 +909,7 @@ internal.notifysrv.com
 intranet.notifysrv.com
 it3524339.notify6.com
 james.notifysrv.com
+joyce.notifysrv.com
 jzduxkeumwnrfp6x.exasrv.com
 kiev.notifysrv.com
 kwi18ah9r60yjb70.notify6.com
@@ -950,12 +958,14 @@ rtb.traffic-gold.com
 rtb.trafficfactory.com
 s.18ramp.com
 s.6hd49jng.com
+s.a4truck.com
 s.adnflow.com
 s.adsession.com
 s.advantageclicks.net
 s.advertrek.com
 s.afxwa.com
 s.allureanews.com
+s.am7srv.com
 s.asvsm.com
 s.b2bstars.com
 s.b7q9v8z.com
@@ -1312,16 +1322,16 @@ www.notifysrv.com
 www.packsitracks.com3419733.notifysrv.com
 www.survey.notifysrv.com
 www.voltcp.3323174.notifysrv.com
-xn--3225689-o06c.notifysrv.com
 zooplus.it3440403.notify6.com
 zooplus.it3524339.notify6.com
 zooplus.it4060008.notify6.com
-a.6hd49jng.com
+a.adsession.com
 a.advertrek.com
 a.asvsm.com
-a.flirtads.net
 a.humnert.com
 a.q88z1s3.com
 a.r8lnet.com
 a.rocoads.net
 a.santabrowser.com
+a.t5z3w0p.com
+a.traffic-gold.com

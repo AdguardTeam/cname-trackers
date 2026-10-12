@@ -7,11 +7,13 @@
 ||apps.h24.news^
 ||at.h24.news^
 ||barracuda.h24.news^
+||bo.h24.news^
 ||br.h24.news^
 ||buy.h24.news^
 ||c.leparisien.fr^
 ||ca-fr.h24.news^
 ||central.us.h24.news^
+||ch-fr.h24.news^
 ||client.h24.news^
 ||cms.h24.news^
 ||customer.h24.news^
@@ -110,6 +112,7 @@
 ||l.e-sante.fr^
 ||l.easyvoyage.com^
 ||l.echo-des-tribunes.com^
+||l.echo-ouest.fr^
 ||l.echoancenis.fr^
 ||l.echoduberry.fr^
 ||l.eclypsia.com^
@@ -150,6 +153,7 @@
 ||l.gentside.de^
 ||l.geo.fr^
 ||l.glitz.paris^
+||l.grainsdesel.com^
 ||l.grazia.fr^
 ||l.grazia.it^
 ||l.graziamagazine.com^

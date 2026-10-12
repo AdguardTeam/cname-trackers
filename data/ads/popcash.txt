@@ -24,6 +24,7 @@
 ||cdn.clbaf.com^
 ||cdn.crsope.com^
 ||cdn.cryjun.com^
+||cdn.danwosd.cloud^
 ||cdn.dawplm.com^
 ||cdn.decpo.xyz^
 ||cdn.delutza.com^
@@ -83,6 +84,7 @@
 ||cdn.nuqwe.com^
 ||cdn.orjfun.com^
 ||cdn.paluinho.cloud^
+||cdn.paqod.com^
 ||cdn.pctv.xyz^
 ||cdn.pfiuyt.com^
 ||cdn.piuyt.com^
@@ -102,6 +104,7 @@
 ||cdn.rqwel.com^
 ||cdn.rtyufo.com^
 ||cdn.sblhp.com^
+||cdn.sepyok.com^
 ||cdn.spnut.com^
 ||cdn.sslph.com^
 ||cdn.syinga.com^
@@ -1049,4 +1052,5 @@
 ||stat.guidebot.org^
 ||stats.yootheme.com^
 ||thirty-good.lugg.com^
+||ua.daito.io^
 ||video.adsninja.ca^

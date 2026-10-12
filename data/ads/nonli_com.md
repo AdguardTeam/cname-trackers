@@ -43,10 +43,12 @@
 | apps.h24.news | tls.non.li |
 | at.h24.news | tls.non.li |
 | barracuda.h24.news | tls.non.li |
+| bo.h24.news | tls.non.li |
 | br.h24.news | tls.non.li |
 | buy.h24.news | tls.non.li |
 | ca-fr.h24.news | tls.non.li |
 | central.us.h24.news | tls.non.li |
+| ch-fr.h24.news | tls.non.li |
 | client.h24.news | tls.non.li |
 | cms.h24.news | tls.non.li |
 | customer.h24.news | tls.non.li |
@@ -141,6 +143,7 @@
 | l.e-sante.fr | tls.non.li |
 | l.easyvoyage.com | tls.non.li |
 | l.echo-des-tribunes.com | tls.non.li |
+| l.echo-ouest.fr | tls.non.li |
 | l.echoancenis.fr | tls.non.li |
 | l.echoduberry.fr | tls.non.li |
 | l.eclypsia.com | tls.non.li |
@@ -181,6 +184,7 @@
 | l.gentside.de | tls.non.li |
 | l.geo.fr | tls.non.li |
 | l.glitz.paris | tls.non.li |
+| l.grainsdesel.com | tls.non.li |
 | l.grazia.fr | tls.non.li |
 | l.grazia.it | tls.non.li |
 | l.graziamagazine.com | tls.non.li |

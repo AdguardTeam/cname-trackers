@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791552043211        ; Serial
+           1791806046514        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -238,7 +238,6 @@ s.maxrozen.com CNAME .
 s.nerdfulmind.com CNAME .
 s.pjh.is CNAME .
 s.repguard.uk CNAME .
-s.saucisson-rebellion.fr CNAME .
 s.sporks.space CNAME .
 s.stgeorgeafc.com.au CNAME .
 s.testingreactjs.com CNAME .

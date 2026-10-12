@@ -152,6 +152,7 @@
     * wareneingang-edeka-de-cddc.at-o.net
     * wvvw-zoa-media-cddc.at-o.net
     * zelten-fritz-berger-de-cddc.at-o.net
+    * zorfa-freiepresse-de-cddc.at-o.net
     * zug-sbb-ch-cddc.at-o.net
 
 ## Cloaking domains
@@ -309,4 +310,5 @@
 | wareneingang.edeka.de | wareneingang-edeka-de-cddc.at-o.net |
 | wvvw.zoa.media | wvvw-zoa-media-cddc.at-o.net |
 | zelten.fritz-berger.de | zelten-fritz-berger-de-cddc.at-o.net |
+| zorfa.freiepresse.de | zorfa-freiepresse-de-cddc.at-o.net |
 | zug.sbb.ch | zug-sbb-ch-cddc.at-o.net |

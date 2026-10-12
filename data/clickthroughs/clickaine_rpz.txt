@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791549122371        ; Serial
+           1791806046514        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,10 +50,12 @@ c4n.worldnewsguru.us CNAME .
 c4n.xxx8.me CNAME .
 ca.infomix.best CNAME .
 cc.histoires-de-sexe.club CNAME .
+cc.opowiadaniaerotyczne-darmowo.pl CNAME .
 cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
 cc.sexgeschichten-klub.com CNAME .
 cc.sexgeschichten-xxx.com CNAME .
+cc.sexstories-xxx.com CNAME .
 cdn1.memojav.com CNAME .
 central.s1.rtnews.pro CNAME .
 ck.zzipps.com CNAME .
@@ -84,6 +86,7 @@ get.xclick24.com CNAME .
 go.lize.bid CNAME .
 go2.lize.bid CNAME .
 grow.brandnewapp.pro CNAME .
+hapenny.brandnewapp.pro CNAME .
 hostmaster.brandnewapp.pro CNAME .
 hostmaster.rtnews.pro CNAME .
 hruk.afguk.top CNAME .
@@ -112,10 +115,13 @@ s5.rtnews.pro CNAME .
 ssp.lbanez.net CNAME .
 station54k.brandnewapp.pro CNAME .
 v040419.badjojo.com CNAME .
+v2.brandnewapp.pro CNAME .
 web5603.brandnewapp.pro CNAME .
 webmail.brandnewapp.pro CNAME .
 wl0nmmdg95w6.s4.rtnews.pro CNAME .
 wp.brandnewapp.pro CNAME .
+www.api.rtnews.pro CNAME .
+www.app.rtnews.pro CNAME .
 www.brandnewapp.pro CNAME .
 www.daws4-3.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
