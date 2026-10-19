@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791806551628        ; Serial
+           1792414101648        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -223,6 +223,7 @@ $TTL 300
 10523.sock-qa1.marketingcloudqaops.com CNAME .
 10525.sock-qa1.marketingcloudqaops.com CNAME .
 10542.sock-qa1.marketingcloudqaops.com CNAME .
+10546.connector-qa1.marketingcloudqaapis.com CNAME .
 10546.sock-qa1.marketingcloudqaops.com CNAME .
 1055.connector-qa1.marketingcloudqaapis.com CNAME .
 1055.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -234,8 +235,11 @@ $TTL 300
 10567.sock-qa1.marketingcloudqaops.com CNAME .
 10569.sfap-qa1.marketingcloudqaops.com CNAME .
 10577.editor-qa1.marketingcloudqaapis.com CNAME .
+10577.ftp-qa1.marketingcloudqaops.com CNAME .
 1059.editor-qa1.marketingcloudqaapis.com CNAME .
+10592.connector-qa1.marketingcloudqaapis.com CNAME .
 10592.editor-qa1.marketingcloudqaapis.com CNAME .
+10592.sfap-qa1.marketingcloudqaops.com CNAME .
 10600.connector-qa1.marketingcloudqaapis.com CNAME .
 10603.connector-qa1.marketingcloudqaapis.com CNAME .
 10603.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -249,6 +253,7 @@ $TTL 300
 1063.sock-qa1.marketingcloudqaops.com CNAME .
 10649.connector-qa1.marketingcloudqaapis.com CNAME .
 10649.sock-qa1.marketingcloudqaops.com CNAME .
+10655.connector-qa1.marketingcloudqaapis.com CNAME .
 10655.ftp-qa1.marketingcloudqaops.com CNAME .
 10659.connector-qa1.marketingcloudqaapis.com CNAME .
 10659.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -284,6 +289,7 @@ $TTL 300
 10870.sfap-qa1.marketingcloudqaops.com CNAME .
 10872.ftp-qa1.marketingcloudqaops.com CNAME .
 10872.sfap-qa1.marketingcloudqaops.com CNAME .
+10882.sock-qa1.marketingcloudqaops.com CNAME .
 10895.connector-qa1.marketingcloudqaapis.com CNAME .
 10895.ftp-qa1.marketingcloudqaops.com CNAME .
 10895.sock-qa1.marketingcloudqaops.com CNAME .
@@ -317,8 +323,10 @@ $TTL 300
 11018.sock-qa1.marketingcloudqaops.com CNAME .
 11046.connector-qa1.marketingcloudqaapis.com CNAME .
 11055.connector-qa1.marketingcloudqaapis.com CNAME .
+11077.sock-qa1.marketingcloudqaops.com CNAME .
 1110.editor-qa1.marketingcloudqaapis.com CNAME .
 11114.connector-qa1.marketingcloudqaapis.com CNAME .
+11114.editor-qa1.marketingcloudqaapis.com CNAME .
 11134.editor-qa1.marketingcloudqaapis.com CNAME .
 11134.sfap-qa1.marketingcloudqaops.com CNAME .
 11134.sock-qa1.marketingcloudqaops.com CNAME .
@@ -335,15 +343,18 @@ $TTL 300
 11247.sfap-qa1.marketingcloudqaops.com CNAME .
 11252.connector-qa1.marketingcloudqaapis.com CNAME .
 11260.sfap-qa1.marketingcloudqaops.com CNAME .
+11260.sock-qa1.marketingcloudqaops.com CNAME .
 11279.ftp-qa1.marketingcloudqaops.com CNAME .
 11279.sfap-qa1.marketingcloudqaops.com CNAME .
 1128.editor-qa1.marketingcloudqaapis.com CNAME .
 1128.sock-qa1.marketingcloudqaops.com CNAME .
 11283.ftp-qa1.marketingcloudqaops.com CNAME .
+11286.ftp-qa1.marketingcloudqaops.com CNAME .
 11292.editor-qa1.marketingcloudqaapis.com CNAME .
 11292.sfap-qa1.marketingcloudqaops.com CNAME .
 11292.sock-qa1.marketingcloudqaops.com CNAME .
 1130.editor-qa1.marketingcloudqaapis.com CNAME .
+1130.sfap-qa1.marketingcloudqaops.com CNAME .
 11303.editor-qa1.marketingcloudqaapis.com CNAME .
 11307.editor-qa1.marketingcloudqaapis.com CNAME .
 11309.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -364,6 +375,7 @@ $TTL 300
 11434.connector-qa1.marketingcloudqaapis.com CNAME .
 11434.sock-qa1.marketingcloudqaops.com CNAME .
 11445.connector-qa1.marketingcloudqaapis.com CNAME .
+11445.editor-qa1.marketingcloudqaapis.com CNAME .
 11445.ftp-qa1.marketingcloudqaops.com CNAME .
 11445.sfap-qa1.marketingcloudqaops.com CNAME .
 1145.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -383,6 +395,7 @@ $TTL 300
 11479.sock-qa1.marketingcloudqaops.com CNAME .
 11483.editor-qa1.marketingcloudqaapis.com CNAME .
 11486.editor-qa1.marketingcloudqaapis.com CNAME .
+11495.connector-qa1.marketingcloudqaapis.com CNAME .
 11498.connector-qa1.marketingcloudqaapis.com CNAME .
 11498.editor-qa1.marketingcloudqaapis.com CNAME .
 115.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -396,6 +409,7 @@ $TTL 300
 1157.editor-qa1.marketingcloudqaapis.com CNAME .
 1157.sfap-qa1.marketingcloudqaops.com CNAME .
 1158.editor-qa1.marketingcloudqaapis.com CNAME .
+11584.editor-qa1.marketingcloudqaapis.com CNAME .
 11588.connector-qa1.marketingcloudqaapis.com CNAME .
 11588.editor-qa1.marketingcloudqaapis.com CNAME .
 11588.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -420,6 +434,7 @@ $TTL 300
 11674.editor-qa1.marketingcloudqaapis.com CNAME .
 11675.editor-qa1.marketingcloudqaapis.com CNAME .
 117.editor-qa1.marketingcloudqaapis.com CNAME .
+117.ftp-qa1.marketingcloudqaops.com CNAME .
 11708.ftp-qa1.marketingcloudqaops.com CNAME .
 11708.sock-qa1.marketingcloudqaops.com CNAME .
 11714.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -441,6 +456,7 @@ $TTL 300
 11853.ftp-qa1.marketingcloudqaops.com CNAME .
 11858.connector-qa1.marketingcloudqaapis.com CNAME .
 11858.editor-qa1.marketingcloudqaapis.com CNAME .
+11858.ftp-qa1.marketingcloudqaops.com CNAME .
 1186.editor-qa1.marketingcloudqaapis.com CNAME .
 1186.sfap-qa1.marketingcloudqaops.com CNAME .
 11880.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -476,8 +492,10 @@ $TTL 300
 12063.connector-qa1.marketingcloudqaapis.com CNAME .
 12063.editor-qa1.marketingcloudqaapis.com CNAME .
 12063.sfap-qa1.marketingcloudqaops.com CNAME .
+121.editor-qa1.marketingcloudqaapis.com CNAME .
 121.sfap-qa1.marketingcloudqaops.com CNAME .
 12110.editor-qa1.marketingcloudqaapis.com CNAME .
+12112.connector-qa1.marketingcloudqaapis.com CNAME .
 12112.editor-qa1.marketingcloudqaapis.com CNAME .
 1217.sfap-qa1.marketingcloudqaops.com CNAME .
 1218.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -490,12 +508,15 @@ $TTL 300
 12207.connector-qa1.marketingcloudqaapis.com CNAME .
 12207.editor-qa1.marketingcloudqaapis.com CNAME .
 12209.ftp-qa1.marketingcloudqaops.com CNAME .
+12209.sock-qa1.marketingcloudqaops.com CNAME .
 1222.sfap-qa1.marketingcloudqaops.com CNAME .
 12234.editor-qa1.marketingcloudqaapis.com CNAME .
 12234.ftp-qa1.marketingcloudqaops.com CNAME .
 12234.sock-qa1.marketingcloudqaops.com CNAME .
 12241.editor-qa1.marketingcloudqaapis.com CNAME .
+12241.ftp-qa1.marketingcloudqaops.com CNAME .
 12251.editor-qa1.marketingcloudqaapis.com CNAME .
+12254.ftp-qa1.marketingcloudqaops.com CNAME .
 1226.editor-qa1.marketingcloudqaapis.com CNAME .
 1226.sock-qa1.marketingcloudqaops.com CNAME .
 12263.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -518,12 +539,15 @@ $TTL 300
 12355.sock-qa1.marketingcloudqaops.com CNAME .
 12356.connector-qa1.marketingcloudqaapis.com CNAME .
 12356.editor-qa1.marketingcloudqaapis.com CNAME .
+12362.sock-qa1.marketingcloudqaops.com CNAME .
+12367.ftp-qa1.marketingcloudqaops.com CNAME .
 12367.sock-qa1.marketingcloudqaops.com CNAME .
 1237.connector-qa1.marketingcloudqaapis.com CNAME .
 1237.ftp-qa1.marketingcloudqaops.com CNAME .
 12382.connector-qa1.marketingcloudqaapis.com CNAME .
 12396.sock-qa1.marketingcloudqaops.com CNAME .
 12407.connector-qa1.marketingcloudqaapis.com CNAME .
+12407.editor-qa1.marketingcloudqaapis.com CNAME .
 12415.editor-qa1.marketingcloudqaapis.com CNAME .
 1243.connector-qa1.marketingcloudqaapis.com CNAME .
 1243.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -544,9 +568,11 @@ $TTL 300
 12670.sfap-qa1.marketingcloudqaops.com CNAME .
 12680.ftp-qa1.marketingcloudqaops.com CNAME .
 12680.sock-qa1.marketingcloudqaops.com CNAME .
+12686.connector-qa1.marketingcloudqaapis.com CNAME .
 12686.editor-qa1.marketingcloudqaapis.com CNAME .
 12693.editor-qa1.marketingcloudqaapis.com CNAME .
 12706.editor-qa1.marketingcloudqaapis.com CNAME .
+12706.ftp-qa1.marketingcloudqaops.com CNAME .
 12709.sfap-qa1.marketingcloudqaops.com CNAME .
 12709.sock-qa1.marketingcloudqaops.com CNAME .
 12752.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -564,9 +590,11 @@ $TTL 300
 12802.connector-qa1.marketingcloudqaapis.com CNAME .
 12802.sock-qa1.marketingcloudqaops.com CNAME .
 12804.editor-qa1.marketingcloudqaapis.com CNAME .
+12807.sfap-qa1.marketingcloudqaops.com CNAME .
 12810.editor-qa1.marketingcloudqaapis.com CNAME .
 12833.editor-qa1.marketingcloudqaapis.com CNAME .
 12835.sock-qa1.marketingcloudqaops.com CNAME .
+12855.connector-qa1.marketingcloudqaapis.com CNAME .
 12855.editor-qa1.marketingcloudqaapis.com CNAME .
 12856.editor-qa1.marketingcloudqaapis.com CNAME .
 12856.sock-qa1.marketingcloudqaops.com CNAME .
@@ -575,7 +603,10 @@ $TTL 300
 12876.connector-qa1.marketingcloudqaapis.com CNAME .
 12878.editor-qa1.marketingcloudqaapis.com CNAME .
 12879.editor-qa1.marketingcloudqaapis.com CNAME .
+12909.sfap-qa1.marketingcloudqaops.com CNAME .
+12909.sock-qa1.marketingcloudqaops.com CNAME .
 12940.editor-qa1.marketingcloudqaapis.com CNAME .
+12940.sock-qa1.marketingcloudqaops.com CNAME .
 12943.ftp-qa1.marketingcloudqaops.com CNAME .
 12969.editor-qa1.marketingcloudqaapis.com CNAME .
 12983.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -646,6 +677,7 @@ $TTL 300
 13477.editor-qa1.marketingcloudqaapis.com CNAME .
 1348.connector-qa1.marketingcloudqaapis.com CNAME .
 1348.ftp-qa1.marketingcloudqaops.com CNAME .
+13480.sock-qa1.marketingcloudqaops.com CNAME .
 13487.editor-qa1.marketingcloudqaapis.com CNAME .
 1350.editor-qa1.marketingcloudqaapis.com CNAME .
 1350.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -667,13 +699,17 @@ $TTL 300
 13657.editor-qa1.marketingcloudqaapis.com CNAME .
 13672.editor-qa1.marketingcloudqaapis.com CNAME .
 13674.editor-qa1.marketingcloudqaapis.com CNAME .
+13687.editor-qa1.marketingcloudqaapis.com CNAME .
 13710.editor-qa1.marketingcloudqaapis.com CNAME .
 13728.editor-qa1.marketingcloudqaapis.com CNAME .
+13728.ftp-qa1.marketingcloudqaops.com CNAME .
 13729.sfap-qa1.marketingcloudqaops.com CNAME .
 13740.sock-qa1.marketingcloudqaops.com CNAME .
+13743.connector-qa1.marketingcloudqaapis.com CNAME .
 13743.editor-qa1.marketingcloudqaapis.com CNAME .
 13744.editor-qa1.marketingcloudqaapis.com CNAME .
 1376.connector-qa1.marketingcloudqaapis.com CNAME .
+1376.sock-qa1.marketingcloudqaops.com CNAME .
 13762.connector-qa1.marketingcloudqaapis.com CNAME .
 13770.editor-qa1.marketingcloudqaapis.com CNAME .
 13777.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -683,26 +719,32 @@ $TTL 300
 1380.editor-qa1.marketingcloudqaapis.com CNAME .
 13802.editor-qa1.marketingcloudqaapis.com CNAME .
 13802.sfap-qa1.marketingcloudqaops.com CNAME .
+13811.sfap-qa1.marketingcloudqaops.com CNAME .
 13813.editor-qa1.marketingcloudqaapis.com CNAME .
 13813.sock-qa1.marketingcloudqaops.com CNAME .
 13818.editor-qa1.marketingcloudqaapis.com CNAME .
 1383.connector-qa1.marketingcloudqaapis.com CNAME .
 1383.sfap-qa1.marketingcloudqaops.com CNAME .
+13839.connector-qa1.marketingcloudqaapis.com CNAME .
 13841.editor-qa1.marketingcloudqaapis.com CNAME .
+13841.sfap-qa1.marketingcloudqaops.com CNAME .
 13843.sfap-qa1.marketingcloudqaops.com CNAME .
 13845.editor-qa1.marketingcloudqaapis.com CNAME .
 13851.editor-qa1.marketingcloudqaapis.com CNAME .
 13870.editor-qa1.marketingcloudqaapis.com CNAME .
 13876.editor-qa1.marketingcloudqaapis.com CNAME .
+13887.editor-qa1.marketingcloudqaapis.com CNAME .
 1389.ftp-qa1.marketingcloudqaops.com CNAME .
 1389.sfap-qa1.marketingcloudqaops.com CNAME .
 13903.editor-qa1.marketingcloudqaapis.com CNAME .
 13917.sock-qa1.marketingcloudqaops.com CNAME .
 13920.editor-qa1.marketingcloudqaapis.com CNAME .
+13943.sock-qa1.marketingcloudqaops.com CNAME .
 13954.editor-qa1.marketingcloudqaapis.com CNAME .
 13954.sock-qa1.marketingcloudqaops.com CNAME .
 13961.ftp-qa1.marketingcloudqaops.com CNAME .
 13977.connector-qa1.marketingcloudqaapis.com CNAME .
+13997.editor-qa1.marketingcloudqaapis.com CNAME .
 13dkim1._domainkey.advancement.mcgill.ca CNAME .
 13dkim1._domainkey.comcast.com CNAME .
 13dkim1._domainkey.homes.penfed.org CNAME .
@@ -713,8 +755,10 @@ $TTL 300
 13dkim1._domainkey.notification.penfed.org CNAME .
 14.connector-qa1.marketingcloudqaapis.com CNAME .
 14.editor-qa1.marketingcloudqaapis.com CNAME .
+14.ftp-qa1.marketingcloudqaops.com CNAME .
 14.sfap-qa1.marketingcloudqaops.com CNAME .
 14.sock-qa1.marketingcloudqaops.com CNAME .
+14.view-qa1.sfmc-marketingqa.com CNAME .
 14010.connector-qa1.marketingcloudqaapis.com CNAME .
 14014.editor-qa1.marketingcloudqaapis.com CNAME .
 14014.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -746,7 +790,9 @@ $TTL 300
 14331.ftp-qa1.marketingcloudqaops.com CNAME .
 14333.editor-qa1.marketingcloudqaapis.com CNAME .
 1434.editor-qa1.marketingcloudqaapis.com CNAME .
+14350.editor-qa1.marketingcloudqaapis.com CNAME .
 14351.sock-qa1.marketingcloudqaops.com CNAME .
+14357.connector-qa1.marketingcloudqaapis.com CNAME .
 14357.editor-qa1.marketingcloudqaapis.com CNAME .
 14367.ftp-qa1.marketingcloudqaops.com CNAME .
 14367.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -767,6 +813,7 @@ $TTL 300
 14445.sock-qa1.marketingcloudqaops.com CNAME .
 14455.editor-qa1.marketingcloudqaapis.com CNAME .
 1446.sock-qa1.marketingcloudqaops.com CNAME .
+14466.sock-qa1.marketingcloudqaops.com CNAME .
 14470.editor-qa1.marketingcloudqaapis.com CNAME .
 14497.connector-qa1.marketingcloudqaapis.com CNAME .
 14497.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -779,12 +826,18 @@ $TTL 300
 14568.editor-qa1.marketingcloudqaapis.com CNAME .
 1457.sock-qa1.marketingcloudqaops.com CNAME .
 14576.sfap-qa1.marketingcloudqaops.com CNAME .
+1458.sock-qa1.marketingcloudqaops.com CNAME .
 14587.editor-qa1.marketingcloudqaapis.com CNAME .
 14596.editor-qa1.marketingcloudqaapis.com CNAME .
 14596.sock-qa1.marketingcloudqaops.com CNAME .
 14599.editor-qa1.marketingcloudqaapis.com CNAME .
 146.editor-qa1.marketingcloudqaapis.com CNAME .
 146.sfap-qa1.marketingcloudqaops.com CNAME .
+1460.ftp-qa1.marketingcloudqaops.com CNAME .
+14636.connector-qa1.marketingcloudqaapis.com CNAME .
+14636.editor-qa1.marketingcloudqaapis.com CNAME .
+14636.sfap-qa1.marketingcloudqaops.com CNAME .
+14651.editor-qa1.marketingcloudqaapis.com CNAME .
 14658.editor-qa1.marketingcloudqaapis.com CNAME .
 14688.editor-qa1.marketingcloudqaapis.com CNAME .
 14722.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -797,6 +850,7 @@ $TTL 300
 14805.connector-qa1.marketingcloudqaapis.com CNAME .
 14828.editor-qa1.marketingcloudqaapis.com CNAME .
 14846.editor-qa1.marketingcloudqaapis.com CNAME .
+14884.connector-qa1.marketingcloudqaapis.com CNAME .
 14886.ftp-qa1.marketingcloudqaops.com CNAME .
 14895.connector-qa1.marketingcloudqaapis.com CNAME .
 14895.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -811,6 +865,7 @@ $TTL 300
 14938.editor-qa1.marketingcloudqaapis.com CNAME .
 14946.connector-qa1.marketingcloudqaapis.com CNAME .
 14958.editor-qa1.marketingcloudqaapis.com CNAME .
+14959.ftp-qa1.marketingcloudqaops.com CNAME .
 14968.editor-qa1.marketingcloudqaapis.com CNAME .
 15.connector-qa1.marketingcloudqaapis.com CNAME .
 15.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -823,6 +878,7 @@ $TTL 300
 15060.connector-qa1.marketingcloudqaapis.com CNAME .
 15062.ftp-qa1.marketingcloudqaops.com CNAME .
 15065.editor-qa1.marketingcloudqaapis.com CNAME .
+15090.connector-qa1.marketingcloudqaapis.com CNAME .
 15101.editor-qa1.marketingcloudqaapis.com CNAME .
 15106.editor-qa1.marketingcloudqaapis.com CNAME .
 15128.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -846,10 +902,13 @@ $TTL 300
 1533.editor-qa1.marketingcloudqaapis.com CNAME .
 1533.sock-qa1.marketingcloudqaops.com CNAME .
 15335.editor-qa1.marketingcloudqaapis.com CNAME .
+15335.sfap-qa1.marketingcloudqaops.com CNAME .
 15345.editor-qa1.marketingcloudqaapis.com CNAME .
 15345.sfap-qa1.marketingcloudqaops.com CNAME .
+15361.editor-qa1.marketingcloudqaapis.com CNAME .
 15376.sock-qa1.marketingcloudqaops.com CNAME .
 15392.connector-qa1.marketingcloudqaapis.com CNAME .
+15424.connector-qa1.marketingcloudqaapis.com CNAME .
 15435.editor-qa1.marketingcloudqaapis.com CNAME .
 15443.ftp-qa1.marketingcloudqaops.com CNAME .
 15444.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -863,6 +922,7 @@ $TTL 300
 1549.sfap-qa1.marketingcloudqaops.com CNAME .
 15503.ftp-qa1.marketingcloudqaops.com CNAME .
 15505.sock-qa1.marketingcloudqaops.com CNAME .
+15527.editor-qa1.marketingcloudqaapis.com CNAME .
 15527.ftp-qa1.marketingcloudqaops.com CNAME .
 15527.sfap-qa1.marketingcloudqaops.com CNAME .
 15539.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -878,6 +938,8 @@ $TTL 300
 15569.ftp-qa1.marketingcloudqaops.com CNAME .
 15569.sfap-qa1.marketingcloudqaops.com CNAME .
 15569.sock-qa1.marketingcloudqaops.com CNAME .
+15571.connector-qa1.marketingcloudqaapis.com CNAME .
+15602.editor-qa1.marketingcloudqaapis.com CNAME .
 15602.sfap-qa1.marketingcloudqaops.com CNAME .
 15607.ftp-qa1.marketingcloudqaops.com CNAME .
 15627.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -888,15 +950,19 @@ $TTL 300
 15653.editor-qa1.marketingcloudqaapis.com CNAME .
 1566.connector-qa1.marketingcloudqaapis.com CNAME .
 1566.ftp-qa1.marketingcloudqaops.com CNAME .
+1567.connector-qa1.marketingcloudqaapis.com CNAME .
+15675.connector-qa1.marketingcloudqaapis.com CNAME .
 15675.editor-qa1.marketingcloudqaapis.com CNAME .
 15683.sock-qa1.marketingcloudqaops.com CNAME .
 15684.editor-qa1.marketingcloudqaapis.com CNAME .
 15684.ftp-qa1.marketingcloudqaops.com CNAME .
 15689.editor-qa1.marketingcloudqaapis.com CNAME .
 15695.sfap-qa1.marketingcloudqaops.com CNAME .
+15716.sfap-qa1.marketingcloudqaops.com CNAME .
 15730.editor-qa1.marketingcloudqaapis.com CNAME .
 15740.editor-qa1.marketingcloudqaapis.com CNAME .
 15740.sfap-qa1.marketingcloudqaops.com CNAME .
+15749.sfap-qa1.marketingcloudqaops.com CNAME .
 15775.editor-qa1.marketingcloudqaapis.com CNAME .
 15820.sfap-qa1.marketingcloudqaops.com CNAME .
 15837.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -912,12 +978,14 @@ $TTL 300
 15928.sock-qa1.marketingcloudqaops.com CNAME .
 15937.connector-qa1.marketingcloudqaapis.com CNAME .
 15937.editor-qa1.marketingcloudqaapis.com CNAME .
+15950.connector-qa1.marketingcloudqaapis.com CNAME .
 15956.sfap-qa1.marketingcloudqaops.com CNAME .
 15969.editor-qa1.marketingcloudqaapis.com CNAME .
 15969.ftp-qa1.marketingcloudqaops.com CNAME .
 15979.editor-qa1.marketingcloudqaapis.com CNAME .
 1599.ftp-qa1.marketingcloudqaops.com CNAME .
 1599.sfap-qa1.marketingcloudqaops.com CNAME .
+1599.sock-qa1.marketingcloudqaops.com CNAME .
 15991.sfap-qa1.marketingcloudqaops.com CNAME .
 16002.ftp-qa1.marketingcloudqaops.com CNAME .
 16003.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -940,12 +1008,14 @@ $TTL 300
 16190.ftp-qa1.marketingcloudqaops.com CNAME .
 16195.editor-qa1.marketingcloudqaapis.com CNAME .
 16198.connector-qa1.marketingcloudqaapis.com CNAME .
+16198.sfap-qa1.marketingcloudqaops.com CNAME .
 1621.sock-qa1.marketingcloudqaops.com CNAME .
 16219.connector-qa1.marketingcloudqaapis.com CNAME .
 16222.ftp-qa1.marketingcloudqaops.com CNAME .
 16282.connector-qa1.marketingcloudqaapis.com CNAME .
 16297.ftp-qa1.marketingcloudqaops.com CNAME .
 163.editor-qa1.marketingcloudqaapis.com CNAME .
+16317.editor-qa1.marketingcloudqaapis.com CNAME .
 16342.ftp-qa1.marketingcloudqaops.com CNAME .
 16343.editor-qa1.marketingcloudqaapis.com CNAME .
 16360.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -958,6 +1028,7 @@ $TTL 300
 16415.editor-qa1.marketingcloudqaapis.com CNAME .
 16464.connector-qa1.marketingcloudqaapis.com CNAME .
 16464.ftp-qa1.marketingcloudqaops.com CNAME .
+16464.sock-qa1.marketingcloudqaops.com CNAME .
 16479.editor-qa1.marketingcloudqaapis.com CNAME .
 16499.ftp-qa1.marketingcloudqaops.com CNAME .
 16520.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -975,6 +1046,7 @@ $TTL 300
 1667.sfap-qa1.marketingcloudqaops.com CNAME .
 16671.editor-qa1.marketingcloudqaapis.com CNAME .
 16671.sock-qa1.marketingcloudqaops.com CNAME .
+16681.connector-qa1.marketingcloudqaapis.com CNAME .
 16681.sfap-qa1.marketingcloudqaops.com CNAME .
 1679.connector-qa1.marketingcloudqaapis.com CNAME .
 1679.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -989,7 +1061,9 @@ $TTL 300
 16862.editor-qa1.marketingcloudqaapis.com CNAME .
 16887.editor-qa1.marketingcloudqaapis.com CNAME .
 16902.ftp-qa1.marketingcloudqaops.com CNAME .
+16959.sfap-qa1.marketingcloudqaops.com CNAME .
 16961.editor-qa1.marketingcloudqaapis.com CNAME .
+16961.sock-qa1.marketingcloudqaops.com CNAME .
 1697.editor-qa1.marketingcloudqaapis.com CNAME .
 1697.sock-qa1.marketingcloudqaops.com CNAME .
 16977.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1028,7 +1102,9 @@ $TTL 300
 17291.editor-qa1.marketingcloudqaapis.com CNAME .
 17293.editor-qa1.marketingcloudqaapis.com CNAME .
 17302.editor-qa1.marketingcloudqaapis.com CNAME .
+17323.sock-qa1.marketingcloudqaops.com CNAME .
 17327.editor-qa1.marketingcloudqaapis.com CNAME .
+17327.sock-qa1.marketingcloudqaops.com CNAME .
 17334.editor-qa1.marketingcloudqaapis.com CNAME .
 17364.editor-qa1.marketingcloudqaapis.com CNAME .
 17375.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1036,6 +1112,7 @@ $TTL 300
 17420.sock-qa1.marketingcloudqaops.com CNAME .
 17421.editor-qa1.marketingcloudqaapis.com CNAME .
 17422.editor-qa1.marketingcloudqaapis.com CNAME .
+17422.sfap-qa1.marketingcloudqaops.com CNAME .
 1743.sock-qa1.marketingcloudqaops.com CNAME .
 17441.ftp-qa1.marketingcloudqaops.com CNAME .
 17445.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1061,6 +1138,7 @@ $TTL 300
 17763.connector-qa1.marketingcloudqaapis.com CNAME .
 17763.editor-qa1.marketingcloudqaapis.com CNAME .
 17770.editor-qa1.marketingcloudqaapis.com CNAME .
+17770.sfap-qa1.marketingcloudqaops.com CNAME .
 17770.sock-qa1.marketingcloudqaops.com CNAME .
 17774.sfap-qa1.marketingcloudqaops.com CNAME .
 17779.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -1086,6 +1164,7 @@ $TTL 300
 17917.sock-qa1.marketingcloudqaops.com CNAME .
 17951.connector-qa1.marketingcloudqaapis.com CNAME .
 17951.editor-qa1.marketingcloudqaapis.com CNAME .
+17951.sock-qa1.marketingcloudqaops.com CNAME .
 17981.editor-qa1.marketingcloudqaapis.com CNAME .
 17981.sfap-qa1.marketingcloudqaops.com CNAME .
 18057.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -1096,10 +1175,12 @@ $TTL 300
 1812.editor-qa1.marketingcloudqaapis.com CNAME .
 18150.sfap-qa1.marketingcloudqaops.com CNAME .
 18151.editor-qa1.marketingcloudqaapis.com CNAME .
+18159.sfap-qa1.marketingcloudqaops.com CNAME .
 18170.editor-qa1.marketingcloudqaapis.com CNAME .
 18177.sfap-qa1.marketingcloudqaops.com CNAME .
 18201.connector-qa1.marketingcloudqaapis.com CNAME .
 18201.editor-qa1.marketingcloudqaapis.com CNAME .
+18203.connector-qa1.marketingcloudqaapis.com CNAME .
 18215.editor-qa1.marketingcloudqaapis.com CNAME .
 18228.ftp-qa1.marketingcloudqaops.com CNAME .
 18280.sock-qa1.marketingcloudqaops.com CNAME .
@@ -1109,16 +1190,20 @@ $TTL 300
 18320.ftp-qa1.marketingcloudqaops.com CNAME .
 18321.editor-qa1.marketingcloudqaapis.com CNAME .
 1833.editor-qa1.marketingcloudqaapis.com CNAME .
+1833.ftp-qa1.marketingcloudqaops.com CNAME .
 1833.sfap-qa1.marketingcloudqaops.com CNAME .
 18341.connector-qa1.marketingcloudqaapis.com CNAME .
 18341.editor-qa1.marketingcloudqaapis.com CNAME .
 18360.sock-qa1.marketingcloudqaops.com CNAME .
 18378.editor-qa1.marketingcloudqaapis.com CNAME .
 18381.editor-qa1.marketingcloudqaapis.com CNAME .
+18399.connector-qa1.marketingcloudqaapis.com CNAME .
 18399.ftp-qa1.marketingcloudqaops.com CNAME .
 18402.editor-qa1.marketingcloudqaapis.com CNAME .
+18411.sock-qa1.marketingcloudqaops.com CNAME .
 18412.editor-qa1.marketingcloudqaapis.com CNAME .
 18441.editor-qa1.marketingcloudqaapis.com CNAME .
+18446.connector-qa1.marketingcloudqaapis.com CNAME .
 18456.sock-qa1.marketingcloudqaops.com CNAME .
 18468.sfap-qa1.marketingcloudqaops.com CNAME .
 18483.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1146,6 +1231,7 @@ $TTL 300
 18715.editor-qa1.marketingcloudqaapis.com CNAME .
 18715.ftp-qa1.marketingcloudqaops.com CNAME .
 18770.editor-qa1.marketingcloudqaapis.com CNAME .
+18774.sock-qa1.marketingcloudqaops.com CNAME .
 18794.editor-qa1.marketingcloudqaapis.com CNAME .
 18799.sock-qa1.marketingcloudqaops.com CNAME .
 18811.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -1156,6 +1242,7 @@ $TTL 300
 18835.sock-qa1.marketingcloudqaops.com CNAME .
 1888.editor-qa1.marketingcloudqaapis.com CNAME .
 1888.sfap-qa1.marketingcloudqaops.com CNAME .
+18902.editor-qa1.marketingcloudqaapis.com CNAME .
 18936.ftp-qa1.marketingcloudqaops.com CNAME .
 18947.editor-qa1.marketingcloudqaapis.com CNAME .
 18989.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1176,6 +1263,7 @@ $TTL 300
 1912.sfap-qa1.marketingcloudqaops.com CNAME .
 1912.sock-qa1.marketingcloudqaops.com CNAME .
 19123.editor-qa1.marketingcloudqaapis.com CNAME .
+19123.ftp-qa1.marketingcloudqaops.com CNAME .
 19123.sfap-qa1.marketingcloudqaops.com CNAME .
 19138.editor-qa1.marketingcloudqaapis.com CNAME .
 19171.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1185,6 +1273,7 @@ $TTL 300
 19203.editor-qa1.marketingcloudqaapis.com CNAME .
 19205.ftp-qa1.marketingcloudqaops.com CNAME .
 19207.editor-qa1.marketingcloudqaapis.com CNAME .
+19207.sfap-qa1.marketingcloudqaops.com CNAME .
 1924.connector-qa1.marketingcloudqaapis.com CNAME .
 1924.editor-qa1.marketingcloudqaapis.com CNAME .
 1924.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -1193,11 +1282,13 @@ $TTL 300
 19265.editor-qa1.marketingcloudqaapis.com CNAME .
 1927.connector-qa1.marketingcloudqaapis.com CNAME .
 1927.sfap-qa1.marketingcloudqaops.com CNAME .
+19343.editor-qa1.marketingcloudqaapis.com CNAME .
 19430.sock-qa1.marketingcloudqaops.com CNAME .
 1944.editor-qa1.marketingcloudqaapis.com CNAME .
 19483.sfap-qa1.marketingcloudqaops.com CNAME .
 19493.editor-qa1.marketingcloudqaapis.com CNAME .
 19498.sfap-qa1.marketingcloudqaops.com CNAME .
+19513.sock-qa1.marketingcloudqaops.com CNAME .
 19520.sock-qa1.marketingcloudqaops.com CNAME .
 19584.editor-qa1.marketingcloudqaapis.com CNAME .
 19584.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -1205,8 +1296,11 @@ $TTL 300
 19617.editor-qa1.marketingcloudqaapis.com CNAME .
 1963.connector-qa1.marketingcloudqaapis.com CNAME .
 1963.editor-qa1.marketingcloudqaapis.com CNAME .
+1963.sfap-qa1.marketingcloudqaops.com CNAME .
 1963.sock-qa1.marketingcloudqaops.com CNAME .
 19634.sfap-qa1.marketingcloudqaops.com CNAME .
+19674.ftp-qa1.marketingcloudqaops.com CNAME .
+19687.connector-qa1.marketingcloudqaapis.com CNAME .
 19687.ftp-qa1.marketingcloudqaops.com CNAME .
 19719.sfap-qa1.marketingcloudqaops.com CNAME .
 19739.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1217,10 +1311,13 @@ $TTL 300
 19830.sfap-qa1.marketingcloudqaops.com CNAME .
 19831.ftp-qa1.marketingcloudqaops.com CNAME .
 19832.connector-qa1.marketingcloudqaapis.com CNAME .
+19834.sfap-qa1.marketingcloudqaops.com CNAME .
 19835.ftp-qa1.marketingcloudqaops.com CNAME .
 19846.connector-qa1.marketingcloudqaapis.com CNAME .
 19846.editor-qa1.marketingcloudqaapis.com CNAME .
 19851.editor-qa1.marketingcloudqaapis.com CNAME .
+19870.connector-qa1.marketingcloudqaapis.com CNAME .
+19870.editor-qa1.marketingcloudqaapis.com CNAME .
 19870.ftp-qa1.marketingcloudqaops.com CNAME .
 19892.sock-qa1.marketingcloudqaops.com CNAME .
 19907.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1254,6 +1351,7 @@ $TTL 300
 20020.sock-qa1.marketingcloudqaops.com CNAME .
 20020.view-qa1.sfmc-marketingqa.com CNAME .
 20023.connector-qa1.marketingcloudqaapis.com CNAME .
+20025.connector-qa1.marketingcloudqaapis.com CNAME .
 20025.sfap-qa1.marketingcloudqaops.com CNAME .
 20025.sock-qa1.marketingcloudqaops.com CNAME .
 20033.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -1263,10 +1361,12 @@ $TTL 300
 20071.connector-qa1.marketingcloudqaapis.com CNAME .
 2008.connector-qa1.marketingcloudqaapis.com CNAME .
 2008.editor-qa1.marketingcloudqaapis.com CNAME .
+20082.connector-qa1.marketingcloudqaapis.com CNAME .
 20082.editor-qa1.marketingcloudqaapis.com CNAME .
 20082.sfap-qa1.marketingcloudqaops.com CNAME .
 20085.editor-qa1.marketingcloudqaapis.com CNAME .
 20085.sock-qa1.marketingcloudqaops.com CNAME .
+20087.connector-qa1.marketingcloudqaapis.com CNAME .
 20087.editor-qa1.marketingcloudqaapis.com CNAME .
 20087.sfap-qa1.marketingcloudqaops.com CNAME .
 20096.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -1276,6 +1376,7 @@ $TTL 300
 20103.sock-qa1.marketingcloudqaops.com CNAME .
 20107.editor-qa1.marketingcloudqaapis.com CNAME .
 20107.sock-qa1.marketingcloudqaops.com CNAME .
+20113.ftp-qa1.marketingcloudqaops.com CNAME .
 20113.sfap-qa1.marketingcloudqaops.com CNAME .
 20119.editor-qa1.marketingcloudqaapis.com CNAME .
 2012.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -1283,6 +1384,7 @@ $TTL 300
 20151.sfap-qa1.marketingcloudqaops.com CNAME .
 20156.editor-qa1.marketingcloudqaapis.com CNAME .
 20156.ftp-qa1.marketingcloudqaops.com CNAME .
+20156.sfap-qa1.marketingcloudqaops.com CNAME .
 20160.connector-qa1.marketingcloudqaapis.com CNAME .
 20160.editor-qa1.marketingcloudqaapis.com CNAME .
 20160.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -1320,6 +1422,7 @@ $TTL 300
 20298.editor-qa1.marketingcloudqaapis.com CNAME .
 20318.editor-qa1.marketingcloudqaapis.com CNAME .
 20332.connector-qa1.marketingcloudqaapis.com CNAME .
+20332.editor-qa1.marketingcloudqaapis.com CNAME .
 20337.editor-qa1.marketingcloudqaapis.com CNAME .
 20364.editor-qa1.marketingcloudqaapis.com CNAME .
 20365.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -1328,6 +1431,8 @@ $TTL 300
 20389.editor-qa1.marketingcloudqaapis.com CNAME .
 2040.editor-qa1.marketingcloudqaapis.com CNAME .
 2040.sfap-qa1.marketingcloudqaops.com CNAME .
+2041.connector-qa1.marketingcloudqaapis.com CNAME .
+2041.editor-qa1.marketingcloudqaapis.com CNAME .
 20424.connector-qa1.marketingcloudqaapis.com CNAME .
 20424.editor-qa1.marketingcloudqaapis.com CNAME .
 20452.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -1337,6 +1442,7 @@ $TTL 300
 20476.editor-qa1.marketingcloudqaapis.com CNAME .
 20476.ftp-qa1.marketingcloudqaops.com CNAME .
 2050.editor-qa1.marketingcloudqaapis.com CNAME .
+20507.connector-qa1.marketingcloudqaapis.com CNAME .
 20515.connector-qa1.marketingcloudqaapis.com CNAME .
 2053.editor-qa1.marketingcloudqaapis.com CNAME .
 20555.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1348,12 +1454,18 @@ $TTL 300
 20594.sfap-qa1.marketingcloudqaops.com CNAME .
 20594.sock-qa1.marketingcloudqaops.com CNAME .
 20616.editor-qa1.marketingcloudqaapis.com CNAME .
+20616.sock-qa1.marketingcloudqaops.com CNAME .
 20638.editor-qa1.marketingcloudqaapis.com CNAME .
+20644.connector-qa1.marketingcloudqaapis.com CNAME .
+20644.editor-qa1.marketingcloudqaapis.com CNAME .
 20646.sock-qa1.marketingcloudqaops.com CNAME .
+20647.connector-qa1.marketingcloudqaapis.com CNAME .
 20647.editor-qa1.marketingcloudqaapis.com CNAME .
 20656.editor-qa1.marketingcloudqaapis.com CNAME .
+20666.editor-qa1.marketingcloudqaapis.com CNAME .
 20666.sfap-qa1.marketingcloudqaops.com CNAME .
 20682.connector-qa1.marketingcloudqaapis.com CNAME .
+20693.connector-qa1.marketingcloudqaapis.com CNAME .
 20693.editor-qa1.marketingcloudqaapis.com CNAME .
 20747.editor-qa1.marketingcloudqaapis.com CNAME .
 20771.sock-qa1.marketingcloudqaops.com CNAME .
@@ -1388,13 +1500,16 @@ $TTL 300
 21102.editor-qa1.marketingcloudqaapis.com CNAME .
 21111.editor-qa1.marketingcloudqaapis.com CNAME .
 21111.sfap-qa1.marketingcloudqaops.com CNAME .
+21125.sfap-qa1.marketingcloudqaops.com CNAME .
 21128.editor-qa1.marketingcloudqaapis.com CNAME .
 21157.ftp-qa1.marketingcloudqaops.com CNAME .
 21168.sock-qa1.marketingcloudqaops.com CNAME .
 21198.sfap-qa1.marketingcloudqaops.com CNAME .
 21203.editor-qa1.marketingcloudqaapis.com CNAME .
 21209.editor-qa1.marketingcloudqaapis.com CNAME .
+21231.connector-qa1.marketingcloudqaapis.com CNAME .
 21250.sfap-qa1.marketingcloudqaops.com CNAME .
+21250.sock-qa1.marketingcloudqaops.com CNAME .
 21287.editor-qa1.marketingcloudqaapis.com CNAME .
 21313.editor-qa1.marketingcloudqaapis.com CNAME .
 21343.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1402,6 +1517,7 @@ $TTL 300
 21364.sfap-qa1.marketingcloudqaops.com CNAME .
 21366.connector-qa1.marketingcloudqaapis.com CNAME .
 21366.editor-qa1.marketingcloudqaapis.com CNAME .
+21366.ftp-qa1.marketingcloudqaops.com CNAME .
 2139.editor-qa1.marketingcloudqaapis.com CNAME .
 21438.sfap-qa1.marketingcloudqaops.com CNAME .
 21440.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -1413,6 +1529,7 @@ $TTL 300
 21513.editor-qa1.marketingcloudqaapis.com CNAME .
 21531.editor-qa1.marketingcloudqaapis.com CNAME .
 21536.sock-qa1.marketingcloudqaops.com CNAME .
+2154.connector-qa1.marketingcloudqaapis.com CNAME .
 21545.editor-qa1.marketingcloudqaapis.com CNAME .
 21553.editor-qa1.marketingcloudqaapis.com CNAME .
 21553.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -1425,7 +1542,9 @@ $TTL 300
 21630.editor-qa1.marketingcloudqaapis.com CNAME .
 21650.editor-qa1.marketingcloudqaapis.com CNAME .
 21684.editor-qa1.marketingcloudqaapis.com CNAME .
+21725.editor-qa1.marketingcloudqaapis.com CNAME .
 21784.sfap-qa1.marketingcloudqaops.com CNAME .
+21824.view-qa1.sfmc-marketingqa.com CNAME .
 21849.sock-qa1.marketingcloudqaops.com CNAME .
 21873.editor-qa1.marketingcloudqaapis.com CNAME .
 21883.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1434,6 +1553,7 @@ $TTL 300
 21911.sfap-qa1.marketingcloudqaops.com CNAME .
 21914.editor-qa1.marketingcloudqaapis.com CNAME .
 21930.editor-qa1.marketingcloudqaapis.com CNAME .
+21943.connector-qa1.marketingcloudqaapis.com CNAME .
 21946.sfap-qa1.marketingcloudqaops.com CNAME .
 2195.editor-qa1.marketingcloudqaapis.com CNAME .
 2195.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -1442,6 +1562,7 @@ $TTL 300
 22049.editor-qa1.marketingcloudqaapis.com CNAME .
 2205.connector-qa1.marketingcloudqaapis.com CNAME .
 2205.sfap-qa1.marketingcloudqaops.com CNAME .
+22051.connector-qa1.marketingcloudqaapis.com CNAME .
 2206.ftp-qa1.marketingcloudqaops.com CNAME .
 2206.sfap-qa1.marketingcloudqaops.com CNAME .
 2206.sock-qa1.marketingcloudqaops.com CNAME .
@@ -1457,6 +1578,7 @@ $TTL 300
 22162.sock-qa1.marketingcloudqaops.com CNAME .
 22169.connector-qa1.marketingcloudqaapis.com CNAME .
 22169.editor-qa1.marketingcloudqaapis.com CNAME .
+22172.editor-qa1.marketingcloudqaapis.com CNAME .
 22184.editor-qa1.marketingcloudqaapis.com CNAME .
 22186.connector-qa1.marketingcloudqaapis.com CNAME .
 22194.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1475,6 +1597,7 @@ $TTL 300
 2225.sock-qa1.marketingcloudqaops.com CNAME .
 22259.editor-qa1.marketingcloudqaapis.com CNAME .
 2228.connector-qa1.marketingcloudqaapis.com CNAME .
+2228.editor-qa1.marketingcloudqaapis.com CNAME .
 2228.sock-qa1.marketingcloudqaops.com CNAME .
 22292.editor-qa1.marketingcloudqaapis.com CNAME .
 22305.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1482,6 +1605,8 @@ $TTL 300
 2233.connector-qa1.marketingcloudqaapis.com CNAME .
 2233.sfap-qa1.marketingcloudqaops.com CNAME .
 22349.sock-qa1.marketingcloudqaops.com CNAME .
+22351.editor-qa1.marketingcloudqaapis.com CNAME .
+22351.ftp-qa1.marketingcloudqaops.com CNAME .
 2236.connector-qa1.marketingcloudqaapis.com CNAME .
 2236.sock-qa1.marketingcloudqaops.com CNAME .
 22365.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1500,6 +1625,7 @@ $TTL 300
 22503.editor-qa1.marketingcloudqaapis.com CNAME .
 22543.connector-qa1.marketingcloudqaapis.com CNAME .
 22555.editor-qa1.marketingcloudqaapis.com CNAME .
+22555.sock-qa1.marketingcloudqaops.com CNAME .
 22561.connector-qa1.marketingcloudqaapis.com CNAME .
 22585.connector-qa1.marketingcloudqaapis.com CNAME .
 22585.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1524,16 +1650,20 @@ $TTL 300
 22837.sock-qa1.marketingcloudqaops.com CNAME .
 22847.connector-qa1.marketingcloudqaapis.com CNAME .
 22847.editor-qa1.marketingcloudqaapis.com CNAME .
+22887.ftp-qa1.marketingcloudqaops.com CNAME .
 22907.editor-qa1.marketingcloudqaapis.com CNAME .
 22907.sfap-qa1.marketingcloudqaops.com CNAME .
 22912.connector-qa1.marketingcloudqaapis.com CNAME .
 22912.editor-qa1.marketingcloudqaapis.com CNAME .
 22912.sock-qa1.marketingcloudqaops.com CNAME .
 22921.sfap-qa1.marketingcloudqaops.com CNAME .
+22925.editor-qa1.marketingcloudqaapis.com CNAME .
 22925.ftp-qa1.marketingcloudqaops.com CNAME .
 22938.connector-qa1.marketingcloudqaapis.com CNAME .
 22938.editor-qa1.marketingcloudqaapis.com CNAME .
+22938.sfap-qa1.marketingcloudqaops.com CNAME .
 22938.sock-qa1.marketingcloudqaops.com CNAME .
+22949.editor-qa1.marketingcloudqaapis.com CNAME .
 22957.editor-qa1.marketingcloudqaapis.com CNAME .
 22957.ftp-qa1.marketingcloudqaops.com CNAME .
 2296.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -1544,6 +1674,8 @@ $TTL 300
 2301.editor-qa1.marketingcloudqaapis.com CNAME .
 2301.sfap-qa1.marketingcloudqaops.com CNAME .
 23039.connector-qa1.marketingcloudqaapis.com CNAME .
+23074.connector-qa1.marketingcloudqaapis.com CNAME .
+23074.editor-qa1.marketingcloudqaapis.com CNAME .
 23077.sfap-qa1.marketingcloudqaops.com CNAME .
 23080.editor-qa1.marketingcloudqaapis.com CNAME .
 23085.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -1576,6 +1708,7 @@ $TTL 300
 23431.connector-qa1.marketingcloudqaapis.com CNAME .
 23443.sock-qa1.marketingcloudqaops.com CNAME .
 23454.editor-qa1.marketingcloudqaapis.com CNAME .
+23454.sfap-qa1.marketingcloudqaops.com CNAME .
 2348.editor-qa1.marketingcloudqaapis.com CNAME .
 2348.ftp-qa1.marketingcloudqaops.com CNAME .
 2348.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -1585,9 +1718,12 @@ $TTL 300
 2353.editor-qa1.marketingcloudqaapis.com CNAME .
 2353.sfap-qa1.marketingcloudqaops.com CNAME .
 23554.ftp-qa1.marketingcloudqaops.com CNAME .
+23558.connector-qa1.marketingcloudqaapis.com CNAME .
 23558.sock-qa1.marketingcloudqaops.com CNAME .
 23561.sock-qa1.marketingcloudqaops.com CNAME .
+23582.editor-qa1.marketingcloudqaapis.com CNAME .
 23584.editor-qa1.marketingcloudqaapis.com CNAME .
+2360.connector-qa1.marketingcloudqaapis.com CNAME .
 23604.editor-qa1.marketingcloudqaapis.com CNAME .
 23604.sock-qa1.marketingcloudqaops.com CNAME .
 23611.sock-qa1.marketingcloudqaops.com CNAME .
@@ -1636,6 +1772,7 @@ $TTL 300
 23999.editor-qa1.marketingcloudqaapis.com CNAME .
 24.connector-qa1.marketingcloudqaapis.com CNAME .
 24.editor-qa1.marketingcloudqaapis.com CNAME .
+24.ftp-qa1.marketingcloudqaops.com CNAME .
 24.sfap-qa1.marketingcloudqaops.com CNAME .
 24.sock-qa1.marketingcloudqaops.com CNAME .
 2400.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -1651,9 +1788,12 @@ $TTL 300
 24087.editor-qa1.marketingcloudqaapis.com CNAME .
 24092.editor-qa1.marketingcloudqaapis.com CNAME .
 24111.ftp-qa1.marketingcloudqaops.com CNAME .
+24111.sock-qa1.marketingcloudqaops.com CNAME .
 24115.editor-qa1.marketingcloudqaapis.com CNAME .
 24119.editor-qa1.marketingcloudqaapis.com CNAME .
 24119.sock-qa1.marketingcloudqaops.com CNAME .
+24132.sfap-qa1.marketingcloudqaops.com CNAME .
+24144.sock-qa1.marketingcloudqaops.com CNAME .
 24152.sfap-qa1.marketingcloudqaops.com CNAME .
 24153.editor-qa1.marketingcloudqaapis.com CNAME .
 24162.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1683,6 +1823,7 @@ $TTL 300
 24532.sfap-qa1.marketingcloudqaops.com CNAME .
 24549.editor-qa1.marketingcloudqaapis.com CNAME .
 24551.editor-qa1.marketingcloudqaapis.com CNAME .
+24573.sfap-qa1.marketingcloudqaops.com CNAME .
 24583.editor-qa1.marketingcloudqaapis.com CNAME .
 24598.ftp-qa1.marketingcloudqaops.com CNAME .
 246.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -1698,6 +1839,7 @@ $TTL 300
 247.editor-qa1.marketingcloudqaapis.com CNAME .
 24705.editor-qa1.marketingcloudqaapis.com CNAME .
 2471.connector-qa1.marketingcloudqaapis.com CNAME .
+2471.ftp-qa1.marketingcloudqaops.com CNAME .
 2471.sfap-qa1.marketingcloudqaops.com CNAME .
 2471.sock-qa1.marketingcloudqaops.com CNAME .
 24712.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1721,6 +1863,7 @@ $TTL 300
 24957.sock-qa1.marketingcloudqaops.com CNAME .
 24964.sfap-qa1.marketingcloudqaops.com CNAME .
 2500.editor-qa1.marketingcloudqaapis.com CNAME .
+2500.ftp-qa1.marketingcloudqaops.com CNAME .
 2500.sfap-qa1.marketingcloudqaops.com CNAME .
 25002.editor-qa1.marketingcloudqaapis.com CNAME .
 25002.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -1730,6 +1873,7 @@ $TTL 300
 25046.ftp-qa1.marketingcloudqaops.com CNAME .
 25051.connector-qa1.marketingcloudqaapis.com CNAME .
 25052.connector-qa1.marketingcloudqaapis.com CNAME .
+25052.sfap-qa1.marketingcloudqaops.com CNAME .
 25053.ftp-qa1.marketingcloudqaops.com CNAME .
 25060.connector-qa1.marketingcloudqaapis.com CNAME .
 25060.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1750,8 +1894,10 @@ $TTL 300
 25137.editor-qa1.marketingcloudqaapis.com CNAME .
 25138.editor-qa1.marketingcloudqaapis.com CNAME .
 25139.editor-qa1.marketingcloudqaapis.com CNAME .
+25139.ftp-qa1.marketingcloudqaops.com CNAME .
 2515.ftp-qa1.marketingcloudqaops.com CNAME .
 2515.sock-qa1.marketingcloudqaops.com CNAME .
+25197.ftp-qa1.marketingcloudqaops.com CNAME .
 25227.editor-qa1.marketingcloudqaapis.com CNAME .
 25240.sfap-qa1.marketingcloudqaops.com CNAME .
 25245.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -1791,6 +1937,7 @@ $TTL 300
 2556.editor-qa1.marketingcloudqaapis.com CNAME .
 2556.sfap-qa1.marketingcloudqaops.com CNAME .
 2556.sock-qa1.marketingcloudqaops.com CNAME .
+25587.connector-qa1.marketingcloudqaapis.com CNAME .
 25587.editor-qa1.marketingcloudqaapis.com CNAME .
 25587.sfap-qa1.marketingcloudqaops.com CNAME .
 25587.sock-qa1.marketingcloudqaops.com CNAME .
@@ -1815,7 +1962,9 @@ $TTL 300
 2571.connector-qa1.marketingcloudqaapis.com CNAME .
 2571.sfap-qa1.marketingcloudqaops.com CNAME .
 2573.connector-qa1.marketingcloudqaapis.com CNAME .
+25735.connector-qa1.marketingcloudqaapis.com CNAME .
 25735.editor-qa1.marketingcloudqaapis.com CNAME .
+25739.editor-qa1.marketingcloudqaapis.com CNAME .
 25741.editor-qa1.marketingcloudqaapis.com CNAME .
 25741.sock-qa1.marketingcloudqaops.com CNAME .
 2576.sock-qa1.marketingcloudqaops.com CNAME .
@@ -1827,8 +1976,10 @@ $TTL 300
 2584.sock-qa1.marketingcloudqaops.com CNAME .
 25860.connector-qa1.marketingcloudqaapis.com CNAME .
 25860.editor-qa1.marketingcloudqaapis.com CNAME .
+25873.ftp-qa1.marketingcloudqaops.com CNAME .
 25882.editor-qa1.marketingcloudqaapis.com CNAME .
 25893.editor-qa1.marketingcloudqaapis.com CNAME .
+25899.connector-qa1.marketingcloudqaapis.com CNAME .
 25931.editor-qa1.marketingcloudqaapis.com CNAME .
 25942.connector-qa1.marketingcloudqaapis.com CNAME .
 25942.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -1837,6 +1988,7 @@ $TTL 300
 25945.connector-qa1.marketingcloudqaapis.com CNAME .
 25945.editor-qa1.marketingcloudqaapis.com CNAME .
 25945.ftp-qa1.marketingcloudqaops.com CNAME .
+25954.ftp-qa1.marketingcloudqaops.com CNAME .
 25962.connector-qa1.marketingcloudqaapis.com CNAME .
 2598.editor-qa1.marketingcloudqaapis.com CNAME .
 2598.sock-qa1.marketingcloudqaops.com CNAME .
@@ -1848,17 +2000,20 @@ $TTL 300
 26016.ftp-qa1.marketingcloudqaops.com CNAME .
 26041.editor-qa1.marketingcloudqaapis.com CNAME .
 26042.editor-qa1.marketingcloudqaapis.com CNAME .
+26047.sock-qa1.marketingcloudqaops.com CNAME .
 26048.editor-qa1.marketingcloudqaapis.com CNAME .
 2609.editor-qa1.marketingcloudqaapis.com CNAME .
 2609.ftp-qa1.marketingcloudqaops.com CNAME .
 2609.sock-qa1.marketingcloudqaops.com CNAME .
 26092.editor-qa1.marketingcloudqaapis.com CNAME .
 26107.editor-qa1.marketingcloudqaapis.com CNAME .
+26149.sock-qa1.marketingcloudqaops.com CNAME .
 26155.connector-qa1.marketingcloudqaapis.com CNAME .
 26155.editor-qa1.marketingcloudqaapis.com CNAME .
 26155.sfap-qa1.marketingcloudqaops.com CNAME .
 26178.editor-qa1.marketingcloudqaapis.com CNAME .
 26185.editor-qa1.marketingcloudqaapis.com CNAME .
+26185.ftp-qa1.marketingcloudqaops.com CNAME .
 26187.editor-qa1.marketingcloudqaapis.com CNAME .
 26187.sock-qa1.marketingcloudqaops.com CNAME .
 26203.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1873,6 +2028,7 @@ $TTL 300
 26368.connector-qa1.marketingcloudqaapis.com CNAME .
 26368.editor-qa1.marketingcloudqaapis.com CNAME .
 26368.ftp-qa1.marketingcloudqaops.com CNAME .
+26369.connector-qa1.marketingcloudqaapis.com CNAME .
 26369.sfap-qa1.marketingcloudqaops.com CNAME .
 26417.connector-qa1.marketingcloudqaapis.com CNAME .
 26417.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1888,6 +2044,7 @@ $TTL 300
 26494.connector-qa1.marketingcloudqaapis.com CNAME .
 26494.editor-qa1.marketingcloudqaapis.com CNAME .
 2653.editor-qa1.marketingcloudqaapis.com CNAME .
+26531.sfap-qa1.marketingcloudqaops.com CNAME .
 26541.sock-qa1.marketingcloudqaops.com CNAME .
 26547.sfap-qa1.marketingcloudqaops.com CNAME .
 26549.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1899,6 +2056,7 @@ $TTL 300
 2664.sock-qa1.marketingcloudqaops.com CNAME .
 2665.sfap-qa1.marketingcloudqaops.com CNAME .
 26694.sfap-qa1.marketingcloudqaops.com CNAME .
+26695.editor-qa1.marketingcloudqaapis.com CNAME .
 267.editor-qa1.marketingcloudqaapis.com CNAME .
 267.sfap-qa1.marketingcloudqaops.com CNAME .
 2671.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1923,6 +2081,7 @@ $TTL 300
 2684.editor-qa1.marketingcloudqaapis.com CNAME .
 2684.sock-qa1.marketingcloudqaops.com CNAME .
 26850.editor-qa1.marketingcloudqaapis.com CNAME .
+26877.connector-qa1.marketingcloudqaapis.com CNAME .
 269.connector-qa1.marketingcloudqaapis.com CNAME .
 269.editor-qa1.marketingcloudqaapis.com CNAME .
 26918.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1957,13 +2116,18 @@ $TTL 300
 27253.ftp-qa1.marketingcloudqaops.com CNAME .
 2726.editor-qa1.marketingcloudqaapis.com CNAME .
 2726.sock-qa1.marketingcloudqaops.com CNAME .
+2728.connector-qa1.marketingcloudqaapis.com CNAME .
 2728.editor-qa1.marketingcloudqaapis.com CNAME .
 27289.sfap-qa1.marketingcloudqaops.com CNAME .
 27316.connector-qa1.marketingcloudqaapis.com CNAME .
+27328.editor-qa1.marketingcloudqaapis.com CNAME .
 27369.editor-qa1.marketingcloudqaapis.com CNAME .
 2738.connector-qa1.marketingcloudqaapis.com CNAME .
 2738.sock-qa1.marketingcloudqaops.com CNAME .
 27382.editor-qa1.marketingcloudqaapis.com CNAME .
+27387.connector-qa1.marketingcloudqaapis.com CNAME .
+27399.ftp-qa1.marketingcloudqaops.com CNAME .
+27406.editor-qa1.marketingcloudqaapis.com CNAME .
 27435.editor-qa1.marketingcloudqaapis.com CNAME .
 27449.editor-qa1.marketingcloudqaapis.com CNAME .
 27454.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -1985,6 +2149,7 @@ $TTL 300
 27723.editor-qa1.marketingcloudqaapis.com CNAME .
 27726.editor-qa1.marketingcloudqaapis.com CNAME .
 27737.editor-qa1.marketingcloudqaapis.com CNAME .
+27737.sfap-qa1.marketingcloudqaops.com CNAME .
 27742.editor-qa1.marketingcloudqaapis.com CNAME .
 27742.ftp-qa1.marketingcloudqaops.com CNAME .
 27742.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -2012,8 +2177,10 @@ $TTL 300
 27921.editor-qa1.marketingcloudqaapis.com CNAME .
 27939.connector-qa1.marketingcloudqaapis.com CNAME .
 27939.editor-qa1.marketingcloudqaapis.com CNAME .
+27963.ftp-qa1.marketingcloudqaops.com CNAME .
 27990.connector-qa1.marketingcloudqaapis.com CNAME .
 27991.ftp-qa1.marketingcloudqaops.com CNAME .
+28022.sfap-qa1.marketingcloudqaops.com CNAME .
 28056.sock-qa1.marketingcloudqaops.com CNAME .
 28059.editor-qa1.marketingcloudqaapis.com CNAME .
 28059.sock-qa1.marketingcloudqaops.com CNAME .
@@ -2032,11 +2199,13 @@ $TTL 300
 282.sfap-qa1.marketingcloudqaops.com CNAME .
 282.sock-qa1.marketingcloudqaops.com CNAME .
 28206.connector-qa1.marketingcloudqaapis.com CNAME .
+28206.sock-qa1.marketingcloudqaops.com CNAME .
 28251.editor-qa1.marketingcloudqaapis.com CNAME .
 28267.editor-qa1.marketingcloudqaapis.com CNAME .
 28276.editor-qa1.marketingcloudqaapis.com CNAME .
 28287.ftp-qa1.marketingcloudqaops.com CNAME .
 28290.editor-qa1.marketingcloudqaapis.com CNAME .
+28290.sock-qa1.marketingcloudqaops.com CNAME .
 28293.editor-qa1.marketingcloudqaapis.com CNAME .
 28294.sfap-qa1.marketingcloudqaops.com CNAME .
 28302.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -2062,10 +2231,12 @@ $TTL 300
 2850.editor-qa1.marketingcloudqaapis.com CNAME .
 28520.sfap-qa1.marketingcloudqaops.com CNAME .
 28571.editor-qa1.marketingcloudqaapis.com CNAME .
+28571.ftp-qa1.marketingcloudqaops.com CNAME .
 28610.editor-qa1.marketingcloudqaapis.com CNAME .
 28626.editor-qa1.marketingcloudqaapis.com CNAME .
 28626.ftp-qa1.marketingcloudqaops.com CNAME .
 28638.editor-qa1.marketingcloudqaapis.com CNAME .
+2865.connector-qa1.marketingcloudqaapis.com CNAME .
 2865.editor-qa1.marketingcloudqaapis.com CNAME .
 28658.editor-qa1.marketingcloudqaapis.com CNAME .
 28663.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -2079,12 +2250,15 @@ $TTL 300
 28773.connector-qa1.marketingcloudqaapis.com CNAME .
 28773.sock-qa1.marketingcloudqaops.com CNAME .
 2883.sfap-qa1.marketingcloudqaops.com CNAME .
+28831.ftp-qa1.marketingcloudqaops.com CNAME .
 28832.editor-qa1.marketingcloudqaapis.com CNAME .
 28890.sfap-qa1.marketingcloudqaops.com CNAME .
 28890.sock-qa1.marketingcloudqaops.com CNAME .
 28902.editor-qa1.marketingcloudqaapis.com CNAME .
 28917.sock-qa1.marketingcloudqaops.com CNAME .
 28932.editor-qa1.marketingcloudqaapis.com CNAME .
+2894.sfap-qa1.marketingcloudqaops.com CNAME .
+2894.sock-qa1.marketingcloudqaops.com CNAME .
 28950.editor-qa1.marketingcloudqaapis.com CNAME .
 28987.editor-qa1.marketingcloudqaapis.com CNAME .
 29005.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -2102,6 +2276,7 @@ $TTL 300
 29139.sock-qa1.marketingcloudqaops.com CNAME .
 29156.editor-qa1.marketingcloudqaapis.com CNAME .
 29156.sock-qa1.marketingcloudqaops.com CNAME .
+2916.connector-qa1.marketingcloudqaapis.com CNAME .
 2916.editor-qa1.marketingcloudqaapis.com CNAME .
 29165.connector-qa1.marketingcloudqaapis.com CNAME .
 29170.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -2123,6 +2298,7 @@ $TTL 300
 2935.connector-qa1.marketingcloudqaapis.com CNAME .
 2935.editor-qa1.marketingcloudqaapis.com CNAME .
 2935.sock-qa1.marketingcloudqaops.com CNAME .
+29375.connector-qa1.marketingcloudqaapis.com CNAME .
 29375.editor-qa1.marketingcloudqaapis.com CNAME .
 29380.editor-qa1.marketingcloudqaapis.com CNAME .
 29383.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2134,6 +2310,7 @@ $TTL 300
 29412.sock-qa1.marketingcloudqaops.com CNAME .
 29421.editor-qa1.marketingcloudqaapis.com CNAME .
 29428.editor-qa1.marketingcloudqaapis.com CNAME .
+29428.sfap-qa1.marketingcloudqaops.com CNAME .
 29451.editor-qa1.marketingcloudqaapis.com CNAME .
 29455.connector-qa1.marketingcloudqaapis.com CNAME .
 29455.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2143,6 +2320,7 @@ $TTL 300
 29481.sfap-qa1.marketingcloudqaops.com CNAME .
 2950.connector-qa1.marketingcloudqaapis.com CNAME .
 29505.editor-qa1.marketingcloudqaapis.com CNAME .
+29505.sfap-qa1.marketingcloudqaops.com CNAME .
 29557.editor-qa1.marketingcloudqaapis.com CNAME .
 29560.connector-qa1.marketingcloudqaapis.com CNAME .
 29560.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2151,6 +2329,7 @@ $TTL 300
 29629.editor-qa1.marketingcloudqaapis.com CNAME .
 29651.ftp-qa1.marketingcloudqaops.com CNAME .
 29668.connector-qa1.marketingcloudqaapis.com CNAME .
+29707.connector-qa1.marketingcloudqaapis.com CNAME .
 29712.ftp-qa1.marketingcloudqaops.com CNAME .
 29727.editor-qa1.marketingcloudqaapis.com CNAME .
 2977.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2162,16 +2341,23 @@ $TTL 300
 2982.editor-qa1.marketingcloudqaapis.com CNAME .
 29820.sock-qa1.marketingcloudqaops.com CNAME .
 2983.editor-qa1.marketingcloudqaapis.com CNAME .
+29830.sfap-qa1.marketingcloudqaops.com CNAME .
+29830.sock-qa1.marketingcloudqaops.com CNAME .
 29861.editor-qa1.marketingcloudqaapis.com CNAME .
 29865.connector-qa1.marketingcloudqaapis.com CNAME .
 29865.editor-qa1.marketingcloudqaapis.com CNAME .
 29870.connector-qa1.marketingcloudqaapis.com CNAME .
 29877.editor-qa1.marketingcloudqaapis.com CNAME .
+29877.sfap-qa1.marketingcloudqaops.com CNAME .
 299.editor-qa1.marketingcloudqaapis.com CNAME .
 29908.editor-qa1.marketingcloudqaapis.com CNAME .
+29918.connector-qa1.marketingcloudqaapis.com CNAME .
+29918.sfap-qa1.marketingcloudqaops.com CNAME .
 2992.editor-qa1.marketingcloudqaapis.com CNAME .
 29935.connector-qa1.marketingcloudqaapis.com CNAME .
+29957.connector-qa1.marketingcloudqaapis.com CNAME .
 29970.ftp-qa1.marketingcloudqaops.com CNAME .
+29970.sock-qa1.marketingcloudqaops.com CNAME .
 29978.editor-qa1.marketingcloudqaapis.com CNAME .
 29979.connector-qa1.marketingcloudqaapis.com CNAME .
 29979.sock-qa1.marketingcloudqaops.com CNAME .
@@ -2182,10 +2368,13 @@ $TTL 300
 30030.editor-qa1.marketingcloudqaapis.com CNAME .
 30042.editor-qa1.marketingcloudqaapis.com CNAME .
 30048.connector-qa1.marketingcloudqaapis.com CNAME .
+30055.connector-qa1.marketingcloudqaapis.com CNAME .
+30065.sock-qa1.marketingcloudqaops.com CNAME .
 30071.connector-qa1.marketingcloudqaapis.com CNAME .
 30075.editor-qa1.marketingcloudqaapis.com CNAME .
 30083.editor-qa1.marketingcloudqaapis.com CNAME .
 30117.sock-qa1.marketingcloudqaops.com CNAME .
+30130.connector-qa1.marketingcloudqaapis.com CNAME .
 30133.editor-qa1.marketingcloudqaapis.com CNAME .
 30134.editor-qa1.marketingcloudqaapis.com CNAME .
 30143.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2208,6 +2397,7 @@ $TTL 300
 30413.ftp-qa1.marketingcloudqaops.com CNAME .
 30423.editor-qa1.marketingcloudqaapis.com CNAME .
 30438.editor-qa1.marketingcloudqaapis.com CNAME .
+30452.sock-qa1.marketingcloudqaops.com CNAME .
 30454.sfap-qa1.marketingcloudqaops.com CNAME .
 30476.connector-qa1.marketingcloudqaapis.com CNAME .
 30484.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2229,6 +2419,7 @@ $TTL 300
 3058.ftp-qa1.marketingcloudqaops.com CNAME .
 3058.sfap-qa1.marketingcloudqaops.com CNAME .
 30587.sfap-qa1.marketingcloudqaops.com CNAME .
+30598.connector-qa1.marketingcloudqaapis.com CNAME .
 3060.editor-qa1.marketingcloudqaapis.com CNAME .
 3062.editor-qa1.marketingcloudqaapis.com CNAME .
 3062.sock-qa1.marketingcloudqaops.com CNAME .
@@ -2243,6 +2434,7 @@ $TTL 300
 30788.ftp-qa1.marketingcloudqaops.com CNAME .
 30798.connector-qa1.marketingcloudqaapis.com CNAME .
 3088.connector-qa1.marketingcloudqaapis.com CNAME .
+3088.sfap-qa1.marketingcloudqaops.com CNAME .
 30880.editor-qa1.marketingcloudqaapis.com CNAME .
 30900.editor-qa1.marketingcloudqaapis.com CNAME .
 30900.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -2295,6 +2487,7 @@ $TTL 300
 3145.editor-qa1.marketingcloudqaapis.com CNAME .
 31463.editor-qa1.marketingcloudqaapis.com CNAME .
 31468.editor-qa1.marketingcloudqaapis.com CNAME .
+31468.sfap-qa1.marketingcloudqaops.com CNAME .
 31480.connector-qa1.marketingcloudqaapis.com CNAME .
 31482.editor-qa1.marketingcloudqaapis.com CNAME .
 31489.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2308,6 +2501,7 @@ $TTL 300
 316.sfap-qa1.marketingcloudqaops.com CNAME .
 316.sock-qa1.marketingcloudqaops.com CNAME .
 31604.editor-qa1.marketingcloudqaapis.com CNAME .
+31604.sfap-qa1.marketingcloudqaops.com CNAME .
 31697.connector-qa1.marketingcloudqaapis.com CNAME .
 3173.ftp-qa1.marketingcloudqaops.com CNAME .
 3173.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -2323,12 +2517,16 @@ $TTL 300
 31892.sfap-qa1.marketingcloudqaops.com CNAME .
 31893.ftp-qa1.marketingcloudqaops.com CNAME .
 31918.editor-qa1.marketingcloudqaapis.com CNAME .
+31919.connector-qa1.marketingcloudqaapis.com CNAME .
 31919.editor-qa1.marketingcloudqaapis.com CNAME .
 31921.sock-qa1.marketingcloudqaops.com CNAME .
 31939.sock-qa1.marketingcloudqaops.com CNAME .
+31942.ftp-qa1.marketingcloudqaops.com CNAME .
 31945.ftp-qa1.marketingcloudqaops.com CNAME .
 31945.sfap-qa1.marketingcloudqaops.com CNAME .
 31957.sfap-qa1.marketingcloudqaops.com CNAME .
+31962.connector-qa1.marketingcloudqaapis.com CNAME .
+31962.ftp-qa1.marketingcloudqaops.com CNAME .
 31964.connector-qa1.marketingcloudqaapis.com CNAME .
 31968.editor-qa1.marketingcloudqaapis.com CNAME .
 31968.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -2372,12 +2570,15 @@ $TTL 300
 32283.connector-qa1.marketingcloudqaapis.com CNAME .
 32292.editor-qa1.marketingcloudqaapis.com CNAME .
 32297.connector-qa1.marketingcloudqaapis.com CNAME .
+32317.connector-qa1.marketingcloudqaapis.com CNAME .
 32317.sfap-qa1.marketingcloudqaops.com CNAME .
 32334.editor-qa1.marketingcloudqaapis.com CNAME .
+32347.sfap-qa1.marketingcloudqaops.com CNAME .
 32372.editor-qa1.marketingcloudqaapis.com CNAME .
 32372.sfap-qa1.marketingcloudqaops.com CNAME .
 32385.sock-qa1.marketingcloudqaops.com CNAME .
 3240.editor-qa1.marketingcloudqaapis.com CNAME .
+3240.sfap-qa1.marketingcloudqaops.com CNAME .
 32424.editor-qa1.marketingcloudqaapis.com CNAME .
 32484.editor-qa1.marketingcloudqaapis.com CNAME .
 32489.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2387,6 +2588,7 @@ $TTL 300
 32538.sfap-qa1.marketingcloudqaops.com CNAME .
 32554.editor-qa1.marketingcloudqaapis.com CNAME .
 32554.ftp-qa1.marketingcloudqaops.com CNAME .
+32590.sfap-qa1.marketingcloudqaops.com CNAME .
 32634.connector-qa1.marketingcloudqaapis.com CNAME .
 32634.editor-qa1.marketingcloudqaapis.com CNAME .
 32645.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -2423,6 +2625,7 @@ $TTL 300
 3438.editor-qa1.marketingcloudqaapis.com CNAME .
 3447.editor-qa1.marketingcloudqaapis.com CNAME .
 3481.editor-qa1.marketingcloudqaapis.com CNAME .
+3493.sock-qa1.marketingcloudqaops.com CNAME .
 3499.editor-qa1.marketingcloudqaapis.com CNAME .
 3501.editor-qa1.marketingcloudqaapis.com CNAME .
 3503.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2471,6 +2674,7 @@ $TTL 300
 3917.ftp-qa1.marketingcloudqaops.com CNAME .
 3917.sock-qa1.marketingcloudqaops.com CNAME .
 3920.connector-qa1.marketingcloudqaapis.com CNAME .
+3929.sfap-qa1.marketingcloudqaops.com CNAME .
 3930.ftp-qa1.marketingcloudqaops.com CNAME .
 3933.editor-qa1.marketingcloudqaapis.com CNAME .
 3944.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -2497,6 +2701,7 @@ $TTL 300
 4053.connector-qa1.marketingcloudqaapis.com CNAME .
 4053.editor-qa1.marketingcloudqaapis.com CNAME .
 4053.sfap-qa1.marketingcloudqaops.com CNAME .
+4057.connector-qa1.marketingcloudqaapis.com CNAME .
 4069.editor-qa1.marketingcloudqaapis.com CNAME .
 4088.sfap-qa1.marketingcloudqaops.com CNAME .
 4098.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -2536,12 +2741,14 @@ $TTL 300
 4375.ftp-qa1.marketingcloudqaops.com CNAME .
 4375.sock-qa1.marketingcloudqaops.com CNAME .
 4388.editor-qa1.marketingcloudqaapis.com CNAME .
+4409.ftp-qa1.marketingcloudqaops.com CNAME .
 4431.editor-qa1.marketingcloudqaapis.com CNAME .
 4433.editor-qa1.marketingcloudqaapis.com CNAME .
 4436.sfap-qa1.marketingcloudqaops.com CNAME .
 445.editor-qa1.marketingcloudqaapis.com CNAME .
 4458.connector-qa1.marketingcloudqaapis.com CNAME .
 4477.connector-qa1.marketingcloudqaapis.com CNAME .
+4477.sfap-qa1.marketingcloudqaops.com CNAME .
 449.connector-qa1.marketingcloudqaapis.com CNAME .
 4491.connector-qa1.marketingcloudqaapis.com CNAME .
 4491.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2559,6 +2766,7 @@ $TTL 300
 4536.connector-qa1.marketingcloudqaapis.com CNAME .
 460.connector-qa1.marketingcloudqaapis.com CNAME .
 460.editor-qa1.marketingcloudqaapis.com CNAME .
+460.ftp-qa1.marketingcloudqaops.com CNAME .
 460.sock-qa1.marketingcloudqaops.com CNAME .
 4600.connector-qa1.marketingcloudqaapis.com CNAME .
 4600.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2589,12 +2797,14 @@ $TTL 300
 4789.ftp-qa1.marketingcloudqaops.com CNAME .
 4821.sock-qa1.marketingcloudqaops.com CNAME .
 4837.connector-qa1.marketingcloudqaapis.com CNAME .
+4866.sock-qa1.marketingcloudqaops.com CNAME .
 4931.ftp-qa1.marketingcloudqaops.com CNAME .
 4931.sfap-qa1.marketingcloudqaops.com CNAME .
 4931.sock-qa1.marketingcloudqaops.com CNAME .
 4933.sfap-qa1.marketingcloudqaops.com CNAME .
 4948.connector-qa1.marketingcloudqaapis.com CNAME .
 4948.sock-qa1.marketingcloudqaops.com CNAME .
+4968.connector-qa1.marketingcloudqaapis.com CNAME .
 4968.editor-qa1.marketingcloudqaapis.com CNAME .
 4968.sfap-qa1.marketingcloudqaops.com CNAME .
 4973.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -2662,6 +2872,7 @@ $TTL 300
 51dkim1._domainkey.infos.carrefour-banque.fr CNAME .
 51dkim1._domainkey.insurance.carrefour.com CNAME .
 51dkim1._domainkey.mail.carrefour-banque.fr CNAME .
+51dkim1._domainkey.mail.winwin.at CNAME .
 51dkim1._domainkey.web.wtf.pt CNAME .
 5222.connector-qa1.marketingcloudqaapis.com CNAME .
 5235.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -2675,6 +2886,7 @@ $TTL 300
 5281.sfap-qa1.marketingcloudqaops.com CNAME .
 5281.sock-qa1.marketingcloudqaops.com CNAME .
 5315.editor-qa1.marketingcloudqaapis.com CNAME .
+5320.sfap-qa1.marketingcloudqaops.com CNAME .
 5325.sfap-qa1.marketingcloudqaops.com CNAME .
 5327.editor-qa1.marketingcloudqaapis.com CNAME .
 5357.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -2690,6 +2902,7 @@ $TTL 300
 5372.sfap-qa1.marketingcloudqaops.com CNAME .
 5372.sock-qa1.marketingcloudqaops.com CNAME .
 5373.editor-qa1.marketingcloudqaapis.com CNAME .
+5373.sfap-qa1.marketingcloudqaops.com CNAME .
 5381.connector-qa1.marketingcloudqaapis.com CNAME .
 5381.sfap-qa1.marketingcloudqaops.com CNAME .
 5382.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -2773,11 +2986,13 @@ $TTL 300
 5912.connector-qa1.marketingcloudqaapis.com CNAME .
 5912.sfap-qa1.marketingcloudqaops.com CNAME .
 5920.sock-qa1.marketingcloudqaops.com CNAME .
+5930.ftp-qa1.marketingcloudqaops.com CNAME .
 5959.connector-qa1.marketingcloudqaapis.com CNAME .
 5959.editor-qa1.marketingcloudqaapis.com CNAME .
 5959.ftp-qa1.marketingcloudqaops.com CNAME .
 5982.connector-qa1.marketingcloudqaapis.com CNAME .
 6017.connector-qa1.marketingcloudqaapis.com CNAME .
+6017.sock-qa1.marketingcloudqaops.com CNAME .
 602.editor-qa1.marketingcloudqaapis.com CNAME .
 602.sfap-qa1.marketingcloudqaops.com CNAME .
 602.sock-qa1.marketingcloudqaops.com CNAME .
@@ -2806,6 +3021,7 @@ $TTL 300
 621.editor-qa1.marketingcloudqaapis.com CNAME .
 6216.editor-qa1.marketingcloudqaapis.com CNAME .
 6216.ftp-qa1.marketingcloudqaops.com CNAME .
+6216.sock-qa1.marketingcloudqaops.com CNAME .
 6250.sock-qa1.marketingcloudqaops.com CNAME .
 63.connector-qa1.marketingcloudqaapis.com CNAME .
 63.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -2816,9 +3032,11 @@ $TTL 300
 6350.connector-qa1.marketingcloudqaapis.com CNAME .
 6350.sock-qa1.marketingcloudqaops.com CNAME .
 6352.ftp-qa1.marketingcloudqaops.com CNAME .
+6357.sfap-qa1.marketingcloudqaops.com CNAME .
 6374.sock-qa1.marketingcloudqaops.com CNAME .
 6411.editor-qa1.marketingcloudqaapis.com CNAME .
 643.editor-qa1.marketingcloudqaapis.com CNAME .
+643.ftp-qa1.marketingcloudqaops.com CNAME .
 643.sfap-qa1.marketingcloudqaops.com CNAME .
 643.sock-qa1.marketingcloudqaops.com CNAME .
 6442.sock-qa1.marketingcloudqaops.com CNAME .
@@ -2832,12 +3050,14 @@ $TTL 300
 6536.sfap-qa1.marketingcloudqaops.com CNAME .
 654.sfap-qa1.marketingcloudqaops.com CNAME .
 654.sock-qa1.marketingcloudqaops.com CNAME .
+6554.connector-qa1.marketingcloudqaapis.com CNAME .
 6562.connector-qa1.marketingcloudqaapis.com CNAME .
 658.connector-qa1.marketingcloudqaapis.com CNAME .
 658.sfap-qa1.marketingcloudqaops.com CNAME .
 6600.ftp-qa1.marketingcloudqaops.com CNAME .
 6600.sfap-qa1.marketingcloudqaops.com CNAME .
 661.editor-qa1.marketingcloudqaapis.com CNAME .
+661.ftp-qa1.marketingcloudqaops.com CNAME .
 661.sfap-qa1.marketingcloudqaops.com CNAME .
 6624.connector-qa1.marketingcloudqaapis.com CNAME .
 6624.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -2884,6 +3104,7 @@ $TTL 300
 7067.editor-qa1.marketingcloudqaapis.com CNAME .
 7067.sfap-qa1.marketingcloudqaops.com CNAME .
 708.connector-qa1.marketingcloudqaapis.com CNAME .
+7081.editor-qa1.marketingcloudqaapis.com CNAME .
 7098.ftp-qa1.marketingcloudqaops.com CNAME .
 7150.connector-qa1.marketingcloudqaapis.com CNAME .
 7150.sock-qa1.marketingcloudqaops.com CNAME .
@@ -2892,10 +3113,12 @@ $TTL 300
 7171.connector-qa1.marketingcloudqaapis.com CNAME .
 718.editor-qa1.marketingcloudqaapis.com CNAME .
 7200.editor-qa1.marketingcloudqaapis.com CNAME .
+7200.sock-qa1.marketingcloudqaops.com CNAME .
 7213.editor-qa1.marketingcloudqaapis.com CNAME .
 7215.sfap-qa1.marketingcloudqaops.com CNAME .
 722.editor-qa1.marketingcloudqaapis.com CNAME .
 722.sock-qa1.marketingcloudqaops.com CNAME .
+7225.editor-qa1.marketingcloudqaapis.com CNAME .
 7225.ftp-qa1.marketingcloudqaops.com CNAME .
 7243.sfap-qa1.marketingcloudqaops.com CNAME .
 7251.sock-qa1.marketingcloudqaops.com CNAME .
@@ -2905,6 +3128,7 @@ $TTL 300
 7291.connector-qa1.marketingcloudqaapis.com CNAME .
 7291.editor-qa1.marketingcloudqaapis.com CNAME .
 7291.sock-qa1.marketingcloudqaops.com CNAME .
+7319.ftp-qa1.marketingcloudqaops.com CNAME .
 732.sock-qa1.marketingcloudqaops.com CNAME .
 735.sock-qa1.marketingcloudqaops.com CNAME .
 7351.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -2914,14 +3138,19 @@ $TTL 300
 74.editor-qa1.marketingcloudqaapis.com CNAME .
 74.sfap-qa1.marketingcloudqaops.com CNAME .
 74.sock-qa1.marketingcloudqaops.com CNAME .
+7402.editor-qa1.marketingcloudqaapis.com CNAME .
+7402.sock-qa1.marketingcloudqaops.com CNAME .
 741.connector-qa1.marketingcloudqaapis.com CNAME .
 741.editor-qa1.marketingcloudqaapis.com CNAME .
 741.sock-qa1.marketingcloudqaops.com CNAME .
 7417.editor-qa1.marketingcloudqaapis.com CNAME .
 7444.editor-qa1.marketingcloudqaapis.com CNAME .
 7468.connector-qa1.marketingcloudqaapis.com CNAME .
+7468.editor-qa1.marketingcloudqaapis.com CNAME .
 7468.sock-qa1.marketingcloudqaops.com CNAME .
+7511.sock-qa1.marketingcloudqaops.com CNAME .
 7539.sock-qa1.marketingcloudqaops.com CNAME .
+7541.sfap-qa1.marketingcloudqaops.com CNAME .
 7557.sfap-qa1.marketingcloudqaops.com CNAME .
 7572.sfap-qa1.marketingcloudqaops.com CNAME .
 7572.sock-qa1.marketingcloudqaops.com CNAME .
@@ -2942,10 +3171,12 @@ $TTL 300
 7749.editor-qa1.marketingcloudqaapis.com CNAME .
 7775.editor-qa1.marketingcloudqaapis.com CNAME .
 780.ftp-qa1.marketingcloudqaops.com CNAME .
+7800.connector-qa1.marketingcloudqaapis.com CNAME .
 7800.editor-qa1.marketingcloudqaapis.com CNAME .
 7800.sock-qa1.marketingcloudqaops.com CNAME .
 7855.sock-qa1.marketingcloudqaops.com CNAME .
 7863.connector-qa1.marketingcloudqaapis.com CNAME .
+7863.editor-qa1.marketingcloudqaapis.com CNAME .
 7878.connector-qa1.marketingcloudqaapis.com CNAME .
 7888.sfap-qa1.marketingcloudqaops.com CNAME .
 7893.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -2953,6 +3184,7 @@ $TTL 300
 79.editor-qa1.marketingcloudqaapis.com CNAME .
 79.sfap-qa1.marketingcloudqaops.com CNAME .
 79.sock-qa1.marketingcloudqaops.com CNAME .
+8031.sock-qa1.marketingcloudqaops.com CNAME .
 8055.sfap-qa1.marketingcloudqaops.com CNAME .
 8092.sfap-qa1.marketingcloudqaops.com CNAME .
 8134.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -2980,13 +3212,16 @@ $TTL 300
 8387.sfap-qa1.marketingcloudqaops.com CNAME .
 8397.connector-qa1.marketingcloudqaapis.com CNAME .
 8430.ftp-qa1.marketingcloudqaops.com CNAME .
+8437.sfap-qa1.marketingcloudqaops.com CNAME .
 8489.connector-qa1.marketingcloudqaapis.com CNAME .
 8489.editor-qa1.marketingcloudqaapis.com CNAME .
 8489.ftp-qa1.marketingcloudqaops.com CNAME .
 8489.sfap-qa1.marketingcloudqaops.com CNAME .
 8515.sfap-qa1.marketingcloudqaops.com CNAME .
 8547.sfap-qa1.marketingcloudqaops.com CNAME .
+8561.sock-qa1.marketingcloudqaops.com CNAME .
 857.editor-qa1.marketingcloudqaapis.com CNAME .
+8571.sfap-qa1.marketingcloudqaops.com CNAME .
 8601.editor-qa1.marketingcloudqaapis.com CNAME .
 8601.sfap-qa1.marketingcloudqaops.com CNAME .
 8601.sock-qa1.marketingcloudqaops.com CNAME .
@@ -2998,6 +3233,7 @@ $TTL 300
 8656.connector-qa1.marketingcloudqaapis.com CNAME .
 8671.ftp-qa1.marketingcloudqaops.com CNAME .
 8705.ftp-qa1.marketingcloudqaops.com CNAME .
+8705.sfap-qa1.marketingcloudqaops.com CNAME .
 8723.ftp-qa1.marketingcloudqaops.com CNAME .
 8735.editor-qa1.marketingcloudqaapis.com CNAME .
 8735.ftp-qa1.marketingcloudqaops.com CNAME .
@@ -3013,7 +3249,9 @@ $TTL 300
 8860.ftp-qa1.marketingcloudqaops.com CNAME .
 8867.sock-qa1.marketingcloudqaops.com CNAME .
 8876.editor-qa1.marketingcloudqaapis.com CNAME .
+8891.sfap-qa1.marketingcloudqaops.com CNAME .
 8930.sock-qa1.marketingcloudqaops.com CNAME .
+8931.connector-qa1.marketingcloudqaapis.com CNAME .
 8931.ftp-qa1.marketingcloudqaops.com CNAME .
 8934.editor-qa1.marketingcloudqaapis.com CNAME .
 896.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -3042,17 +3280,21 @@ $TTL 300
 9219.connector-qa1.marketingcloudqaapis.com CNAME .
 9219.sfap-qa1.marketingcloudqaops.com CNAME .
 9219.sock-qa1.marketingcloudqaops.com CNAME .
+9227.editor-qa1.marketingcloudqaapis.com CNAME .
 9227.ftp-qa1.marketingcloudqaops.com CNAME .
 9240.connector-qa1.marketingcloudqaapis.com CNAME .
 9243.sfap-qa1.marketingcloudqaops.com CNAME .
 9256.connector-qa1.marketingcloudqaapis.com CNAME .
 932.connector-qa1.marketingcloudqaapis.com CNAME .
+9360.sfap-qa1.marketingcloudqaops.com CNAME .
 9371.sfap-qa1.marketingcloudqaops.com CNAME .
 9375.editor-qa1.marketingcloudqaapis.com CNAME .
 9375.sfap-qa1.marketingcloudqaops.com CNAME .
 9380.connector-qa1.marketingcloudqaapis.com CNAME .
+9407.connector-qa1.marketingcloudqaapis.com CNAME .
 943.connector-qa1.marketingcloudqaapis.com CNAME .
 943.editor-qa1.marketingcloudqaapis.com CNAME .
+9447.ftp-qa1.marketingcloudqaops.com CNAME .
 9451.sock-qa1.marketingcloudqaops.com CNAME .
 9465.connector-qa1.marketingcloudqaapis.com CNAME .
 9467.connector-qa1.marketingcloudqaapis.com CNAME .
@@ -3074,13 +3316,20 @@ $TTL 300
 9650.editor-qa1.marketingcloudqaapis.com CNAME .
 9650.ftp-qa1.marketingcloudqaops.com CNAME .
 972.connector-qa1.marketingcloudqaapis.com CNAME .
+9764.ftp-qa1.marketingcloudqaops.com CNAME .
 977.sock-qa1.marketingcloudqaops.com CNAME .
+9782.connector-qa1.marketingcloudqaapis.com CNAME .
 9796.ftp-qa1.marketingcloudqaops.com CNAME .
 9808.ftp-qa1.marketingcloudqaops.com CNAME .
 9808.sfap-qa1.marketingcloudqaops.com CNAME .
 9812.sfap-qa1.marketingcloudqaops.com CNAME .
 9812.sock-qa1.marketingcloudqaops.com CNAME .
+9816.connector-qa1.marketingcloudqaapis.com CNAME .
+9816.editor-qa1.marketingcloudqaapis.com CNAME .
+9816.ftp-qa1.marketingcloudqaops.com CNAME .
 9816.sfap-qa1.marketingcloudqaops.com CNAME .
+9831.connector-qa1.marketingcloudqaapis.com CNAME .
+9831.editor-qa1.marketingcloudqaapis.com CNAME .
 9845.editor-qa1.marketingcloudqaapis.com CNAME .
 9849.editor-qa1.marketingcloudqaapis.com CNAME .
 990.editor-qa1.marketingcloudqaapis.com CNAME .
@@ -3090,6 +3339,7 @@ $TTL 300
 9908.ftp-qa1.marketingcloudqaops.com CNAME .
 9922.editor-qa1.marketingcloudqaapis.com CNAME .
 9928.editor-qa1.marketingcloudqaapis.com CNAME .
+9985.sfap-qa1.marketingcloudqaops.com CNAME .
 9996.editor-qa1.marketingcloudqaapis.com CNAME .
 9996.sfap-qa1.marketingcloudqaops.com CNAME .
 abyoc-test2.venafi.testqa.02022024.sfmc-tlsprovisioningqa.com CNAME .
@@ -3115,6 +3365,7 @@ cl.ebsco-email.com CNAME .
 cl.email-kildarevillage.com CNAME .
 cl.email-larocavillage.com CNAME .
 cl.email-lasrozasvillage.com CNAME .
+cl.email-wertheimvillage.com CNAME .
 cl.email.logitech.com CNAME .
 cl.email.schwabpt.com CNAME .
 cl.emailinfo2.bestbuy.com CNAME .
@@ -3135,6 +3386,7 @@ click-old.email.realestate.com.au CNAME .
 click.013.tmmsg.com CNAME .
 click.1-800-tocover.com CNAME .
 click.1893news.vfb.de CNAME .
+click.2occupationalenglishtest.org CNAME .
 click.a.amaysim.com.au CNAME .
 click.absarbb.absa.africa CNAME .
 click.acronis.email CNAME .
@@ -3258,6 +3510,7 @@ click.ccg.nintendo.net CNAME .
 click.cciio-spidr.cms.gov CNAME .
 click.cee.foodpanda.com CNAME .
 click.cfd1.commsec.com.au CNAME .
+click.chainpump.motordlr.com CNAME .
 click.chairishnewsletter.com CNAME .
 click.chasing-fireflies-email.com CNAME .
 click.choc-childrens.org CNAME .
@@ -3269,6 +3522,7 @@ click.cirroenergy-service.com CNAME .
 click.citycon-marketing.com CNAME .
 click.classicvacationsemail.com CNAME .
 click.click.hermanmiller.com CNAME .
+click.click.imediaconnection.com CNAME .
 click.clientes.liberbank.es CNAME .
 click.clientes.unicaja.es CNAME .
 click.cloud.uniminuto.edu CNAME .
@@ -3276,6 +3530,7 @@ click.cloudninehospitals.com CNAME .
 click.club.total.fr CNAME .
 click.cnectgpo-email.com CNAME .
 click.com.graduateinstitute.ch CNAME .
+click.combustion.motordlr.com CNAME .
 click.comedyfestival.tmmsg.com CNAME .
 click.comm.americanfunds.com CNAME .
 click.comm.metropolisindia.net CNAME .
@@ -3308,11 +3563,13 @@ click.communications.neteller.com CNAME .
 click.communications.nortonway.com CNAME .
 click.communications.prodemar.com CNAME .
 click.communications.securetrust.com CNAME .
+click.communications.sunnova.com CNAME .
 click.communications.vetsuccess.com CNAME .
 click.communitye-mail.com CNAME .
 click.company.angieslist.com CNAME .
 click.comunica.mdprecatorios.com.br CNAME .
 click.comunicacao.altbank.com.br CNAME .
+click.comunicacaolibertyseguros.com.br CNAME .
 click.comunicacion.wibe.com CNAME .
 click.comunicaciones-suraim.com CNAME .
 click.comunicaciones.auna.org CNAME .
@@ -3334,7 +3591,6 @@ click.connectnotifications.intuit.com CNAME .
 click.conservationminnesota-email.org CNAME .
 click.conservativemagas.com CNAME .
 click.consumermarketing.time.com CNAME .
-click.contact.abodo.com CNAME .
 click.contact.disneystore.com CNAME .
 click.contact.flycorsair.com CNAME .
 click.contact.gvb.nl CNAME .
@@ -3348,7 +3604,6 @@ click.contactosuperxtra.com CNAME .
 click.contacts.pagesjaunes.fr CNAME .
 click.contato.catho.com.br CNAME .
 click.contato.serasa.com.br CNAME .
-click.content.dorel-juvenile.com CNAME .
 click.content.jdrf.org CNAME .
 click.content.trace.tv CNAME .
 click.contenu-information.com CNAME .
@@ -3400,10 +3655,8 @@ click.dermhs.abbvie.com CNAME .
 click.deutscheawm.db.com CNAME .
 click.deutschebankwm.db.com CNAME .
 click.diabetes.roche.com CNAME .
-click.diesel.motordlr.com CNAME .
 click.digital.allcare.com.br CNAME .
 click.digital.halldata.com CNAME .
-click.digital.nmg.de CNAME .
 click.digital.sientra.com CNAME .
 click.digitalengagementsolution.com CNAME .
 click.digitaljoevs.com CNAME .
@@ -3414,6 +3667,7 @@ click.directa.buenosaires.gob.ar CNAME .
 click.directpathhealth-email.com CNAME .
 click.discover.coterieinsurance.com CNAME .
 click.discover.nyit.edu CNAME .
+click.disney-email.com CNAME .
 click.disneydebit.com CNAME .
 click.divulga.atlanticahotels.com.br CNAME .
 click.divulga.mktsebrae.com.br CNAME .
@@ -3443,7 +3697,6 @@ click.e-mail.sorteonline.com.br CNAME .
 click.e-mail.specialistholidays.com CNAME .
 click.e-marketing.element14.com CNAME .
 click.e-meineke.com CNAME .
-click.e-nastygal.com CNAME .
 click.e-news.epocrates.com CNAME .
 click.e-notifications.myuhc.com CNAME .
 click.e-penfed.org CNAME .
@@ -3453,7 +3706,6 @@ click.e-uwba.org CNAME .
 click.e-uwgkc.org CNAME .
 click.e.accuity.com CNAME .
 click.e.acegroup.com CNAME .
-click.e.aldoshoes.com CNAME .
 click.e.amf.com CNAME .
 click.e.asrc.org.au CNAME .
 click.e.astrologyanswers.com CNAME .
@@ -3464,7 +3716,6 @@ click.e.bbcmail.co.uk CNAME .
 click.e.bellflight.com CNAME .
 click.e.berlei.com.au CNAME .
 click.e.bosswatches.co.uk CNAME .
-click.e.brighton.com CNAME .
 click.e.brookfieldproperties.com CNAME .
 click.e.bs2.com CNAME .
 click.e.business.officedepot.com CNAME .
@@ -3504,7 +3755,6 @@ click.e.fox5dc.com CNAME .
 click.e.fox9.com CNAME .
 click.e.foxla.com CNAME .
 click.e.fuelforfans.com CNAME .
-click.e.gamingmails.com CNAME .
 click.e.giftcards.com CNAME .
 click.e.gifts.com CNAME .
 click.e.gilt.com CNAME .
@@ -3541,6 +3791,7 @@ click.e.muface.es CNAME .
 click.e.mwave.com.au CNAME .
 click.e.mychoice.com CNAME .
 click.e.nba.com CNAME .
+click.e.newsletter.nurofen.co.uk CNAME .
 click.e.nextiva.com CNAME .
 click.e.neyber.co.uk CNAME .
 click.e.novavax.com CNAME .
@@ -3552,9 +3803,11 @@ click.e.orangebank.es CNAME .
 click.e.pearle.nl CNAME .
 click.e.pennstatehealth.psu.edu CNAME .
 click.e.personalcreations.com CNAME .
+click.e.pharmaprix.ca CNAME .
 click.e.photoanswers.co.uk CNAME .
 click.e.planlend.com.au CNAME .
 click.e.plowhearth.com CNAME .
+click.e.positivelendingsolutions.com.au CNAME .
 click.e.preemptivelove.org CNAME .
 click.e.producernews.metlife.com CNAME .
 click.e.pxg.com CNAME .
@@ -3568,14 +3821,15 @@ click.e.rippersupport.com CNAME .
 click.e.risd.edu CNAME .
 click.e.rivian.com CNAME .
 click.e.sacramentokings.com CNAME .
-click.e.safaribooksonline.com CNAME .
 click.e.saje.com CNAME .
 click.e.seagen.com CNAME .
+click.e.seagullsclub.com.au CNAME .
 click.e.seawindfoods.com CNAME .
 click.e.seniormarketadvisors.com CNAME .
 click.e.sheridan.com.au CNAME .
 click.e.snsgrills.com CNAME .
 click.e.starbucks.com.mx CNAME .
+click.e.supercuts.com CNAME .
 click.e.surveymonkey.com CNAME .
 click.e.tartecosmetics.com CNAME .
 click.e.thepunch.com.au CNAME .
@@ -3583,6 +3837,7 @@ click.e.ticketweb.co.uk CNAME .
 click.e.travelocity.ca CNAME .
 click.e.travelocity.com CNAME .
 click.e.travelpass.com CNAME .
+click.e.trenery.com.au CNAME .
 click.e.trithouse.com.au CNAME .
 click.e.trustedshops.com CNAME .
 click.e.tulsafederalcu.org CNAME .
@@ -3612,7 +3867,6 @@ click.ecomm.tennis.com.au CNAME .
 click.ecommunication.tpt.org CNAME .
 click.econsumerconnection.com CNAME .
 click.edm.carsguide.com.au CNAME .
-click.edm.colonialfirststate.com.au CNAME .
 click.edm.educationmalaysia.gov.my CNAME .
 click.edm.nothing.tech CNAME .
 click.edsouth-email.com CNAME .
@@ -3620,7 +3874,6 @@ click.edu.mindhubweb.com CNAME .
 click.efamilydollar.com CNAME .
 click.eg.expediagroup.com CNAME .
 click.elcompanies.com CNAME .
-click.elektrowagen.motordlr.com CNAME .
 click.em-commercial.keurig.com CNAME .
 click.em-parallelwireless.com CNAME .
 click.em-scs.sel.sony.com CNAME .
@@ -3634,7 +3887,6 @@ click.em.blizzard.com CNAME .
 click.em.bmwgroup.ca CNAME .
 click.em.colorfulimages.com CNAME .
 click.em.currentcatalog.com CNAME .
-click.em.diabetesselfmanagement.com CNAME .
 click.em.dometic.com CNAME .
 click.em.freightwaves.com CNAME .
 click.em.gamestop.com CNAME .
@@ -3694,6 +3946,7 @@ click.email-kildarevillage.com CNAME .
 click.email-king.org CNAME .
 click.email-kingstonfrontenacs.com CNAME .
 click.email-larocavillage.com CNAME .
+click.email-lasereye.com CNAME .
 click.email-lasikexperts.com CNAME .
 click.email-lasikmd.us CNAME .
 click.email-lasrozasvillage.com CNAME .
@@ -3718,9 +3971,9 @@ click.email-peruvianconnection.com CNAME .
 click.email-pln.org CNAME .
 click.email-reedexpo.com CNAME .
 click.email-risepartnership.com CNAME .
-click.email-rushcard.com CNAME .
 click.email-saiglobal.com CNAME .
 click.email-sap.pgcc.edu CNAME .
+click.email-scjohnson.com CNAME .
 click.email-scrubsandbeyond.com CNAME .
 click.email-sdpb.org CNAME .
 click.email-seabags.com CNAME .
@@ -3729,11 +3982,13 @@ click.email-slidesgo.com CNAME .
 click.email-sourcesupport.com CNAME .
 click.email-sperotherapeutics.com CNAME .
 click.email-starbucksstore.ca CNAME .
+click.email-starbucksstore.com CNAME .
 click.email-straine.com CNAME .
 click.email-sugarbugdental.com CNAME .
 click.email-surprise.katespade.com CNAME .
 click.email-tlclasik.ca CNAME .
 click.email-townandcountrybank.com CNAME .
+click.email-ubyuniworld.com CNAME .
 click.email-updates.history.com CNAME .
 click.email-urovant.com CNAME .
 click.email-uway.org CNAME .
@@ -3741,7 +3996,6 @@ click.email-uwcentralcarolinas.org CNAME .
 click.email-visiongroupcanada.ca CNAME .
 click.email-vitecimagingsolutions.com CNAME .
 click.email-wcmu.org CNAME .
-click.email-wwt.com CNAME .
 click.email.1a.ee CNAME .
 click.email.505games.com CNAME .
 click.email.6pm.com CNAME .
@@ -3751,7 +4005,6 @@ click.email.abbviecare.ca CNAME .
 click.email.abercrombie.com CNAME .
 click.email.academyofchiropractic.com CNAME .
 click.email.acmeunited.com CNAME .
-click.email.actrol.com.au CNAME .
 click.email.adventuresbydisney.com CNAME .
 click.email.aetnasbc.com CNAME .
 click.email.agbirthdaycalendar.com CNAME .
@@ -3790,8 +4043,8 @@ click.email.beaba.com CNAME .
 click.email.beachbody.com CNAME .
 click.email.beehivemoney.co.uk CNAME .
 click.email.besthealthsystem.com CNAME .
-click.email.bethpagefcu.com CNAME .
 click.email.betterment.com CNAME .
+click.email.betterplaceforests.com CNAME .
 click.email.bikkembergs.com CNAME .
 click.email.bitz.com.br CNAME .
 click.email.bizjournals.com CNAME .
@@ -3804,6 +4057,7 @@ click.email.businessspectator.com.au CNAME .
 click.email.buyr.com CNAME .
 click.email.bylinebank.com CNAME .
 click.email.caesars.co.uk CNAME .
+click.email.capalphadc.com CNAME .
 click.email.capstone-companies.com CNAME .
 click.email.carclarity.com.au CNAME .
 click.email.cardstore.com CNAME .
@@ -3833,7 +4087,6 @@ click.email.citi.com.ph CNAME .
 click.email.citibank.com.hk CNAME .
 click.email.citibank.com.sg CNAME .
 click.email.cmpmedica-usa.com CNAME .
-click.email.comeuntochrist.org CNAME .
 click.email.commercialrealestate.com.au CNAME .
 click.email.comms.barclays.com CNAME .
 click.email.compusystems.com CNAME .
@@ -3873,6 +4126,7 @@ click.email.ecosa.com CNAME .
 click.email.edenred.co.uk CNAME .
 click.email.eintracht.de CNAME .
 click.email.element3health.club CNAME .
+click.email.elevatingamerica.org CNAME .
 click.email.elmejornido.com CNAME .
 click.email.emedco.com CNAME .
 click.email.eqbank.ca CNAME .
@@ -3881,6 +4135,7 @@ click.email.europavillage.com CNAME .
 click.email.events.canadarunningseries.com CNAME .
 click.email.everydayrewards.com.au CNAME .
 click.email.exoduscapitalcre.com CNAME .
+click.email.externaled.hms.harvard.edu CNAME .
 click.email.farmersagent.com CNAME .
 click.email.federalpremium.com CNAME .
 click.email.fei.com.br CNAME .
@@ -3895,6 +4150,7 @@ click.email.fortuneloungemail.com CNAME .
 click.email.four-paws.org.za CNAME .
 click.email.foxsports.com CNAME .
 click.email.francebillet.com CNAME .
+click.email.freemedicare101guide.com CNAME .
 click.email.fseonline.it CNAME .
 click.email.g2esports.com CNAME .
 click.email.galvanizeit.org CNAME .
@@ -3949,24 +4205,29 @@ click.email.joracredit.com CNAME .
 click.email.jornada.allianz.com.br CNAME .
 click.email.just-eat.com CNAME .
 click.email.just-eat.fr CNAME .
+click.email.jwine.com CNAME .
 click.email.kasanova.com CNAME .
 click.email.kellerpostman.com CNAME .
 click.email.kidshealth.org CNAME .
 click.email.king.com CNAME .
 click.email.konnect.com CNAME .
+click.email.kortingscode.nl CNAME .
 click.email.lasvegas.com CNAME .
 click.email.latimes.com CNAME .
 click.email.laurelroad.com CNAME .
 click.email.lawson.jp CNAME .
 click.email.ldschurch.org CNAME .
+click.email.leetchi.com CNAME .
 click.email.leiturinha.com.br CNAME .
 click.email.lidl.be CNAME .
+click.email.lidl.cz CNAME .
 click.email.lidl.pl CNAME .
 click.email.lifetimefitness.com CNAME .
 click.email.linksys.com CNAME .
 click.email.littleleague.org CNAME .
 click.email.littlepassports.com CNAME .
 click.email.lively.com CNAME .
+click.email.livenation.me CNAME .
 click.email.liveparallel.com CNAME .
 click.email.loblaws.ca CNAME .
 click.email.logitech.com CNAME .
@@ -4006,20 +4267,21 @@ click.email.mypharmacy.shoppersdrugmart.ca CNAME .
 click.email.myrealestate.co.in CNAME .
 click.email.myriad.com CNAME .
 click.email.nationalofficefurniture.com CNAME .
+click.email.nau.edu CNAME .
 click.email.neupro.com CNAME .
 click.email.newburycomics.com CNAME .
 click.email.newindfoods.com CNAME .
 click.email.ngsmedicare.com CNAME .
 click.email.niumba.com CNAME .
 click.email.nn-group.com CNAME .
-click.email.nnnpro.com CNAME .
 click.email.northeast.aaa.com CNAME .
+click.email.nuvisionautoglass.com CNAME .
 click.email.nwohio.aaa.com CNAME .
-click.email.nzz.ch CNAME .
 click.email.oberlo.com CNAME .
 click.email.oklahoma.aaa.com CNAME .
 click.email.ondecksports.com CNAME .
 click.email.onduo.com CNAME .
+click.email.openbank.de CNAME .
 click.email.opentable.co.uk CNAME .
 click.email.opentable.com CNAME .
 click.email.opentable.com.au CNAME .
@@ -4033,9 +4295,11 @@ click.email.patientfusion.com CNAME .
 click.email.patientslikeme.com CNAME .
 click.email.patpat.com CNAME .
 click.email.paymentsolutions.intuit.com CNAME .
+click.email.pernod-ricard-peru.com CNAME .
 click.email.personalcapital.com CNAME .
 click.email.petinsurance.com CNAME .
 click.email.phideltatheta.org CNAME .
+click.email.pipersandler.com CNAME .
 click.email.pistons.com CNAME .
 click.email.planurevents.com CNAME .
 click.email.pluralpublishing.com CNAME .
@@ -4052,6 +4316,7 @@ click.email.pyramidhc.com CNAME .
 click.email.quickcredit.com CNAME .
 click.email.quiveutdufromage.com CNAME .
 click.email.radins.com CNAME .
+click.email.rapsodia.com.ar CNAME .
 click.email.realestateview.com.au CNAME .
 click.email.reason.org CNAME .
 click.email.reedexpo.com CNAME .
@@ -4081,6 +4346,7 @@ click.email.silverjeans.com CNAME .
 click.email.skipbarber.com CNAME .
 click.email.skype.com CNAME .
 click.email.smartline.com.au CNAME .
+click.email.snapshot.fairfax.com.au CNAME .
 click.email.sonos.com CNAME .
 click.email.soriana.com CNAME .
 click.email.southdakota.aaa.com CNAME .
@@ -4099,6 +4365,7 @@ click.email.tandon.nyu.edu CNAME .
 click.email.teachersoftomorrow.org CNAME .
 click.email.technology.fairfax.com.au CNAME .
 click.email.telepass.com CNAME .
+click.email.terlato.com CNAME .
 click.email.tesla.com CNAME .
 click.email.thehipstore.co.uk CNAME .
 click.email.thekrazycouponlady.com CNAME .
@@ -4127,6 +4394,7 @@ click.email.truecapitalmgmt.com CNAME .
 click.email.uhgrd.com CNAME .
 click.email.uhsm.org CNAME .
 click.email.uk.westfield.com CNAME .
+click.email.unexpected-shopping.com CNAME .
 click.email.unifi.com.my CNAME .
 click.email.usa.avon.com CNAME .
 click.email.ussoccer.com CNAME .
@@ -4148,6 +4416,7 @@ click.email.webinarpanel.com CNAME .
 click.email.webpremios.com.br CNAME .
 click.email.wedbush.com CNAME .
 click.email.wendys.com CNAME .
+click.email.winthefuturefund.org CNAME .
 click.email.womens-forum.com CNAME .
 click.email.worldit.pt CNAME .
 click.email.worldpadeltour.com CNAME .
@@ -4182,6 +4451,7 @@ click.emails.arrowheadadvance.com CNAME .
 click.emails.bakerhughes.com CNAME .
 click.emails.boots.com CNAME .
 click.emails.brooksbrothers.com CNAME .
+click.emails.budgettravel.com CNAME .
 click.emails.business.com CNAME .
 click.emails.businessinteriors.com.au CNAME .
 click.emails.comparethemarket.com CNAME .
@@ -4192,6 +4462,7 @@ click.emails.disneyworld.com CNAME .
 click.emails.entertainmentbenefits.com CNAME .
 click.emails.evertonfc.com CNAME .
 click.emails.golo.com CNAME .
+click.emails.karmaloop.com CNAME .
 click.emails.lifeisgood.com CNAME .
 click.emails.mancity.com CNAME .
 click.emails.marshallheadphones.com CNAME .
@@ -4210,9 +4481,9 @@ click.emails.tgifridays.co.uk CNAME .
 click.emails.themobileshop.ca CNAME .
 click.emails.ticketmaster.com.mx CNAME .
 click.emails.trip.com CNAME .
-click.emails.turbodebitcard.intuit.com CNAME .
 click.emails.vermontteddybear.com CNAME .
 click.emails.vikingcruises.com.au CNAME .
+click.emails.volotea.com CNAME .
 click.emails.wyndhamhotelgroup.com CNAME .
 click.emailsf.sheahomes.com CNAME .
 click.emailsouthshoreskincenter.com CNAME .
@@ -4221,6 +4492,7 @@ click.emailupsmychoicedeals.com CNAME .
 click.emailyeticoolers.com CNAME .
 click.emanuelsf-email.org CNAME .
 click.emarketing.musicarts.com CNAME .
+click.emasia.avnet.com CNAME .
 click.emessage.wccucreditunion.coop CNAME .
 click.emkt-idashop.com CNAME .
 click.emkt-souqshop.com CNAME .
@@ -4251,6 +4523,7 @@ click.enotice-comcast.com CNAME .
 click.enoticesystem.com CNAME .
 click.envio2.ciahering.com.br CNAME .
 click.envios.buscape.com.br CNAME .
+click.envios.cityexpress.com CNAME .
 click.envios.zoom.com.br CNAME .
 click.eodb.grangeagent.com CNAME .
 click.epost.mestergronn.no CNAME .
@@ -4359,6 +4632,7 @@ click.hello.runiondentalgroup.com CNAME .
 click.hello.rustica.fr CNAME .
 click.hello.teachable.com CNAME .
 click.hello.wiris.com CNAME .
+click.helloaesinternational.com CNAME .
 click.helsinkifestival.info CNAME .
 click.hfecorp.net CNAME .
 click.hifk.tmmsg.com CNAME .
@@ -4376,6 +4650,7 @@ click.htlmail.com CNAME .
 click.hubspotemail.com CNAME .
 click.hwahomewarranty-email.com CNAME .
 click.i.aramex.com CNAME .
+click.i.hepsiburada.com CNAME .
 click.i.selinafinance.co.uk CNAME .
 click.i.southwesternrailway.com CNAME .
 click.idaho.optum.com CNAME .
@@ -4391,7 +4666,6 @@ click.in.tridentindia.com CNAME .
 click.inbox.bissell.ca CNAME .
 click.indigoroadhospitality.com CNAME .
 click.indonesia.mercedes-benz.asia CNAME .
-click.induction.motordlr.com CNAME .
 click.info-business.myhermes.de CNAME .
 click.info-usdaesra.org CNAME .
 click.info.2026victory.net CNAME .
@@ -4417,6 +4691,7 @@ click.info.cursosccc.com CNAME .
 click.info.darrensmithmd.com CNAME .
 click.info.darwinspet.com CNAME .
 click.info.dkms.pl CNAME .
+click.info.eatica.com CNAME .
 click.info.eightcap.com CNAME .
 click.info.epec.com.ar CNAME .
 click.info.fandisentinel.com CNAME .
@@ -4428,6 +4703,7 @@ click.info.getaroommarketing.com CNAME .
 click.info.ggmgastro.com CNAME .
 click.info.gm.ca CNAME .
 click.info.gumtree.com CNAME .
+click.info.hairskin.com CNAME .
 click.info.healthcoachinstitute.com CNAME .
 click.info.hikaritv.net CNAME .
 click.info.icex.es CNAME .
@@ -4435,7 +4711,6 @@ click.info.imadeya.co.jp CNAME .
 click.info.imaginaenergia.com CNAME .
 click.info.intertitres.natixis.com CNAME .
 click.info.kiausa.com CNAME .
-click.info.lazada.com CNAME .
 click.info.lightship.dev CNAME .
 click.info.livenation.be CNAME .
 click.info.livenation.co.uk CNAME .
@@ -4471,6 +4746,7 @@ click.info.stadtenergie.de CNAME .
 click.info.supermercadosmas.com CNAME .
 click.info.tatacapital.co.in CNAME .
 click.info.theaa.ie CNAME .
+click.info.ticketmaster.com.br CNAME .
 click.info.ticketmaster.com.mx CNAME .
 click.info.ticketmaster.de CNAME .
 click.info.truniagen.com CNAME .
@@ -4501,6 +4777,7 @@ click.jacwestcc-email.com CNAME .
 click.jardineriepoullain-news.com CNAME .
 click.job.crossover.com CNAME .
 click.join-tempo.co.il CNAME .
+click.jokerit-markkinointi.com CNAME .
 click.jokerit.info CNAME .
 click.journey.damyller.com.br CNAME .
 click.jrtokaitours.com CNAME .
@@ -4522,6 +4799,7 @@ click.legacyscs-mail.com CNAME .
 click.leinsterrugby.mobi CNAME .
 click.leolandiadigital.it CNAME .
 click.linnateatteri.info CNAME .
+click.list.lonelyplanet.com CNAME .
 click.lists.biblegateway.com CNAME .
 click.lizhobbs.tmmsg.com CNAME .
 click.lmhhealth.cerner.com CNAME .
@@ -4585,6 +4863,7 @@ click.mail.aig.com CNAME .
 click.mail.almustafatrust.org CNAME .
 click.mail.amazoncareers.jobs CNAME .
 click.mail.assh.org CNAME .
+click.mail.automobili-pininfarina.com CNAME .
 click.mail.avisos-lafise.com CNAME .
 click.mail.baars-bloemhoff.nl CNAME .
 click.mail.bancodelsol.com CNAME .
@@ -4614,7 +4893,6 @@ click.mail.europebet.com CNAME .
 click.mail.fadente.es CNAME .
 click.mail.familysearch.org CNAME .
 click.mail.firstlite.com CNAME .
-click.mail.fmasfarmacias.es CNAME .
 click.mail.gbc-team.com CNAME .
 click.mail.gobicashmere.com CNAME .
 click.mail.goldsgym.jp CNAME .
@@ -4625,10 +4903,12 @@ click.mail.guardian.co.uk CNAME .
 click.mail.guardianjobs.com CNAME .
 click.mail.hipages.com.au CNAME .
 click.mail.homemadesimple.com CNAME .
+click.mail.hotelcustomercare.com CNAME .
 click.mail.indychamber.com CNAME .
 click.mail.is24.at CNAME .
 click.mail.justfab.com CNAME .
 click.mail.keops.fi CNAME .
+click.mail.kurser.se CNAME .
 click.mail.leaguepick6.kayosports.com.au CNAME .
 click.mail.linebiz.com CNAME .
 click.mail.macmillan.com CNAME .
@@ -4639,7 +4919,7 @@ click.mail.melco.com CNAME .
 click.mail.menmd.com CNAME .
 click.mail.metropolismusic.com CNAME .
 click.mail.mimfg.org CNAME .
-click.mail.modelo.com.mx CNAME .
+click.mail.msnbc.com CNAME .
 click.mail.myhousedeals.com CNAME .
 click.mail.nbcnews.com CNAME .
 click.mail.nicematin.fr CNAME .
@@ -4679,7 +4959,6 @@ click.mail.tiendamolinos.com CNAME .
 click.mail.torfx.com.au CNAME .
 click.mail.toysrus.com CNAME .
 click.mail.trophikos.com CNAME .
-click.mail.uwcsea.edu.sg CNAME .
 click.mail.vca.com CNAME .
 click.mail.vctrainings.com CNAME .
 click.mail.vijayrajagroup.com CNAME .
@@ -4728,7 +5007,6 @@ click.mailsf.coinpayments.net CNAME .
 click.mailusa.coca-cola.com CNAME .
 click.mailvicpark.com CNAME .
 click.manchester.livenation.co.uk CNAME .
-click.marcuscar.motordlr.com CNAME .
 click.marineatlantic.ca CNAME .
 click.marinerfinance-email.com CNAME .
 click.market.chilli.se CNAME .
@@ -4750,6 +5028,7 @@ click.marketing.axs.com CNAME .
 click.marketing.bakerhughes.com CNAME .
 click.marketing.bluran.co.il CNAME .
 click.marketing.cashcrusaders.co.za CNAME .
+click.marketing.crossbreedholsters.com CNAME .
 click.marketing.ekmtc.com CNAME .
 click.marketing.enelx.com CNAME .
 click.marketing.farmalisto.com CNAME .
@@ -4769,6 +5048,7 @@ click.marketing.mcdonalds.no CNAME .
 click.marketing.mcdonalds.se CNAME .
 click.marketing.meridianbet.rs CNAME .
 click.marketing.myorbit.id CNAME .
+click.marketing.nordwest.com CNAME .
 click.marketing.palacasino.com CNAME .
 click.marketing.plus.com.sg CNAME .
 click.marketing.shophumm.com CNAME .
@@ -4881,7 +5161,6 @@ click.morning7.theskimm.com CNAME .
 click.mortgage.arvest.com CNAME .
 click.motorcar.motordlr.com CNAME .
 click.motorpoint-email.co.uk CNAME .
-click.motorwagen.motordlr.com CNAME .
 click.motosport-email.com CNAME .
 click.ms.aboardtheworld.com CNAME .
 click.msg.makuake.co.jp CNAME .
@@ -4896,6 +5175,7 @@ click.my.natixis.com CNAME .
 click.mycomputercareer-email.com CNAME .
 click.mymedicare.bcbsm.com CNAME .
 click.myoffers.verizonwireless.com CNAME .
+click.myonlinesuccess.com.au CNAME .
 click.myprosperitymail.com CNAME .
 click.myretirementsolutionsinfo.com CNAME .
 click.myrjlig.com CNAME .
@@ -4906,6 +5186,7 @@ click.nanaco-net.jp CNAME .
 click.naspa.org CNAME .
 click.neureca.ucb.com CNAME .
 click.news-aidexa.com CNAME .
+click.news-h5g.com CNAME .
 click.news.activtrades.info CNAME .
 click.news.adairs.com.au CNAME .
 click.news.alfursan-online.com CNAME .
@@ -4922,10 +5203,12 @@ click.news.bmw.de CNAME .
 click.news.bowl.com CNAME .
 click.news.bringmeister.de CNAME .
 click.news.camperdays.com CNAME .
+click.news.cataloniahotels.com CNAME .
 click.news.clubnissanfinance.com CNAME .
 click.news.condis.es CNAME .
 click.news.coop-mineraloel.ch CNAME .
 click.news.cving.com CNAME .
+click.news.daraz.com.bd CNAME .
 click.news.daraz.pk CNAME .
 click.news.ds-privilege.fr CNAME .
 click.news.eatoye.pk CNAME .
@@ -4943,7 +5226,6 @@ click.news.lidl.co.uk CNAME .
 click.news.lidl.sk CNAME .
 click.news.loft.com.br CNAME .
 click.news.mambomerge.app CNAME .
-click.news.medela.com.au CNAME .
 click.news.merkur-sports.de CNAME .
 click.news.mini.de CNAME .
 click.news.niumba.com CNAME .
@@ -4954,6 +5236,7 @@ click.news.pureology.com CNAME .
 click.news.purina.com CNAME .
 click.news.royalairmaroc.com CNAME .
 click.news.salonemilano.it CNAME .
+click.news.schutz.com.br CNAME .
 click.news.shop.com.mm CNAME .
 click.news.standprive.com CNAME .
 click.news.superbid.com.co CNAME .
@@ -4965,7 +5248,6 @@ click.news.tienda.com CNAME .
 click.news.vamos.shop CNAME .
 click.newschillibeans.com.br CNAME .
 click.newscrmdigital.com.br CNAME .
-click.newsfromted.com CNAME .
 click.newsletter.adidas.co.za CNAME .
 click.newsletter.agorastore.fr CNAME .
 click.newsletter.erborian.ae CNAME .
@@ -4974,7 +5256,6 @@ click.newsletter.medscape.fr CNAME .
 click.newsletter.on-running.com CNAME .
 click.newsletter.rakuten.com CNAME .
 click.newsletter.spell.co CNAME .
-click.newsletter.weekendesk.com CNAME .
 click.newsletter.worldvision.org CNAME .
 click.newsletteroasishoteles.com CNAME .
 click.newsletters.coca-colacompany.com CNAME .
@@ -4987,7 +5268,6 @@ click.nl.travaux.com CNAME .
 click.non-profit.online CNAME .
 click.noreply.michiganlottery.com CNAME .
 click.noreply.safeco.com CNAME .
-click.noreplyslatergordon-email.com.au CNAME .
 click.northpier.tmmsg.com CNAME .
 click.northstartravelmail.com CNAME .
 click.nothingbundtcakes-email.com CNAME .
@@ -5039,6 +5319,8 @@ click.ow.chalhoub.com CNAME .
 click.ownerservices.onstar.com CNAME .
 click.pagatodo.co CNAME .
 click.page-contenu.com CNAME .
+click.pages.touticosmetics.com.br CNAME .
+click.pages.trimble.com CNAME .
 click.partner.doordash.com CNAME .
 click.partner.nianticlabs.com CNAME .
 click.partnerapp1.myworld.com CNAME .
@@ -5120,6 +5402,7 @@ click.relacionamento.folha.com.br CNAME .
 click.relacionamento.gleventsbrasil.com.br CNAME .
 click.relacionamento.spcbrasil.org.br CNAME .
 click.relacionamentoaccamargo.org CNAME .
+click.renoaces-mail.com CNAME .
 click.rentacenter-marketing.com CNAME .
 click.reply-iccamericas.com CNAME .
 click.reply.agoda-rewards.com CNAME .
@@ -5150,7 +5433,9 @@ click.s11.candymcnall.com CNAME .
 click.s11.sfmctest.com CNAME .
 click.s12.candymcnall.com CNAME .
 click.s12.sfmctest.com CNAME .
+click.s13.candymcnall.com CNAME .
 click.s2.glambox.com.br CNAME .
+click.s3.qa1.customertestdomain.com CNAME .
 click.s5.deeplinking.sfmctest.com CNAME .
 click.s5.sfmctest.com CNAME .
 click.s50.candymcnall.com CNAME .
@@ -5172,7 +5457,6 @@ click.saxomail.com CNAME .
 click.sc.hks.harvard.edu CNAME .
 click.scgacomms.org CNAME .
 click.schedule.longhome.com CNAME .
-click.scotchoakburncollege.com CNAME .
 click.sea.foodpanda.com CNAME .
 click.search.realtystore.com CNAME .
 click.secretlair.teamsnap.com CNAME .
@@ -5226,7 +5510,6 @@ click.sfmc.onlinemba.du.edu CNAME .
 click.sfmcdradvice.asia CNAME .
 click.sfmcemail.digitalturbine.com CNAME .
 click.sfwateroutreach.org CNAME .
-click.sfxii-em.com CNAME .
 click.sheffield.livenation.co.uk CNAME .
 click.ship.vercel.com CNAME .
 click.shop.lids.com CNAME .
@@ -5243,6 +5526,7 @@ click.smc2.spectrumhealth.org CNAME .
 click.smcemail.zynga.com CNAME .
 click.smiles.menchies.com CNAME .
 click.smsplanningretirements.com CNAME .
+click.social.bodytech.com.co CNAME .
 click.softwaresubscription2.bestbuy.com CNAME .
 click.solutions.nitaac.nih.gov CNAME .
 click.songza-email.com CNAME .
@@ -5261,6 +5545,7 @@ click.stg-transactions.canadapost-postescanada.ca CNAME .
 click.stockholmsmassan-email.se CNAME .
 click.stockmarketsresearch.com CNAME .
 click.store.currys.co.uk CNAME .
+click.store.pcworld.co.uk CNAME .
 click.storm.melbournestorm.com.au CNAME .
 click.stripes.tigerair.com CNAME .
 click.stt-lg.com CNAME .
@@ -5314,9 +5599,11 @@ click.threeins.com CNAME .
 click.ticketmaster.tmmsg.com CNAME .
 click.ticketmasterbiletix.com CNAME .
 click.ticketsnow-email.com CNAME .
+click.tim.sf.celulardireto.com.br CNAME .
 click.timesfreepress-email.com CNAME .
 click.tlcnotifications.com CNAME .
 click.tmclient.tmm.ticketmaster.co.uk CNAME .
+click.tmmessenger.ticketmaster.com CNAME .
 click.tmresale.ticketmaster.com.au CNAME .
 click.tqdfmail.topqualitydogfood.com CNAME .
 click.tracking2.geeksquad.com CNAME .
@@ -5381,6 +5668,7 @@ click.updates.privatemoneygoldmine.com CNAME .
 click.updates.seek-now.com CNAME .
 click.updates.tea.texas.gov CNAME .
 click.updates.tntdrama.com CNAME .
+click.updates.tuckercarlson.com CNAME .
 click.uq.uniqlo.com.my CNAME .
 click.uq.uniqlo.com.sg CNAME .
 click.us-news.chivas.com CNAME .
@@ -5397,7 +5685,6 @@ click.uscomms.wal-mart.com CNAME .
 click.usincomereports.com CNAME .
 click.utmb.world CNAME .
 click.uusiiloinenteatteri.info CNAME .
-click.uwce-email.com CNAME .
 click.uwwc-email.org CNAME .
 click.v25.eautodlr.com CNAME .
 click.value.mt.com CNAME .
@@ -5413,9 +5700,9 @@ click.victory.cagop.org CNAME .
 click.view.manncardmannings.hk CNAME .
 click.viewstream-v.com CNAME .
 click.villagevoice-insider.com CNAME .
-click.virtue-email.com CNAME .
 click.vista.ge CNAME .
 click.vl.regions.com CNAME .
+click.volkswagen.es CNAME .
 click.votre-magasin.fresh.fr CNAME .
 click.vox.cartaotenda.com.br CNAME .
 click.vphcp.abbvie.com CNAME .
@@ -5429,7 +5716,6 @@ click.welcome-email.asurion.com CNAME .
 click.welcome.coca-cola.com CNAME .
 click.wfae.info CNAME .
 click.willofarm.com CNAME .
-click.wilmingtongroup-email.com CNAME .
 click.winnersinvestings.com CNAME .
 click.wirtschaftspolitik.coop.ch CNAME .
 click.wm.chmedia.ch CNAME .
@@ -5446,6 +5732,7 @@ click.wupay.westernunion.com CNAME .
 click.wwmarquis.com CNAME .
 click.www.shakeyspizza.online CNAME .
 click.www.welciamembermc.welcia.co.jp CNAME .
+click.xcaret.vacations CNAME .
 click.xcelenergy-emailnews.com CNAME .
 click.xoxo.popsugar.com CNAME .
 click.xtm.warbyparker.com CNAME .
@@ -5472,7 +5759,9 @@ cloud.abbottlaboratoriesrussia.ru CNAME .
 cloud.act.allianceforlifetimeincome.org CNAME .
 cloud.activate.urosario.edu.co CNAME .
 cloud.acumed.marketing CNAME .
+cloud.advantageprogram.com CNAME .
 cloud.aftco-email.net CNAME .
+cloud.aljazirahford.com CNAME .
 cloud.allsoppandallsopp.com CNAME .
 cloud.alohaunitedway.gives CNAME .
 cloud.americanhartfordg.com CNAME .
@@ -5509,6 +5798,7 @@ cloud.butterflygroupbd.net CNAME .
 cloud.byoc.mar14.test1.sfmc-tlsprovisioningqa.com CNAME .
 cloud.caanet.org CNAME .
 cloud.callofdutyleague.com CNAME .
+cloud.calltonna.com CNAME .
 cloud.campaigns.wltic.com CNAME .
 cloud.capitalistsnmoney.com CNAME .
 cloud.care.cevpharma.com.vn CNAME .
@@ -5521,6 +5811,7 @@ cloud.cciio-spidr.cms.gov CNAME .
 cloud.cherokee-federal.com CNAME .
 cloud.choa.org CNAME .
 cloud.choc-childrens.org CNAME .
+cloud.ciclic.com.br CNAME .
 cloud.ciplausa.com CNAME .
 cloud.classicvacationsemail.com CNAME .
 cloud.client.fr-eni.com CNAME .
@@ -5547,13 +5838,17 @@ cloud.contact.flycorsair.com CNAME .
 cloud.contact.shopdisney.com CNAME .
 cloud.contact.stores-discount.com CNAME .
 cloud.contactmyeasysante.com CNAME .
+cloud.contactoaxahk.com CNAME .
 cloud.contactosuperxtra.com CNAME .
 cloud.contactvauxhall.co.uk CNAME .
 cloud.contato.serasa.com.br CNAME .
 cloud.conteudo.microtecnica.com.br CNAME .
+cloud.convr.com CNAME .
+cloud.copecorrales.com CNAME .
 cloud.corp.nurtec.com CNAME .
 cloud.correspondence.carlyle.com CNAME .
 cloud.corrigansports-email.com CNAME .
+cloud.covu.com CNAME .
 cloud.credabl-email.com CNAME .
 cloud.crm-cervezacorona-ar.com CNAME .
 cloud.crm.bmw-motorrad.ca CNAME .
@@ -5567,6 +5862,7 @@ cloud.customerlicensing.transport.nsw.gov.au CNAME .
 cloud.cxmonoff0.com CNAME .
 cloud.dailymarketsreviews.com CNAME .
 cloud.dallascountypromise-email.org CNAME .
+cloud.daptoleagues.net CNAME .
 cloud.dcbrands-email.com CNAME .
 cloud.deeplinking.sfmctest.com CNAME .
 cloud.desincha.com.br CNAME .
@@ -5575,6 +5871,7 @@ cloud.devry.edu CNAME .
 cloud.diamondbanc.biz CNAME .
 cloud.digital-jetaviation.com CNAME .
 cloud.digitalengagementsolution.com CNAME .
+cloud.dio-clinic.com CNAME .
 cloud.discover.nyit.edu CNAME .
 cloud.divulga.mktsebrae.com.br CNAME .
 cloud.dkbmc.com CNAME .
@@ -5604,6 +5901,7 @@ cloud.e.community.twitch.tv CNAME .
 cloud.e.computershare-loan-services.com CNAME .
 cloud.e.eddiebygiddy.com CNAME .
 cloud.e.elfcosmetics.co.uk CNAME .
+cloud.e.elfcosmetics.com CNAME .
 cloud.e.equifax.com CNAME .
 cloud.e.fox13news.com CNAME .
 cloud.e.fox2detroit.com CNAME .
@@ -5772,7 +6070,6 @@ cloud.email.helenarubinstein.com.tw CNAME .
 cloud.email.hoefe-am-bruehl.de CNAME .
 cloud.email.hydrother.com CNAME .
 cloud.email.ibuypower.com CNAME .
-cloud.email.ied.it CNAME .
 cloud.email.inspire.com CNAME .
 cloud.email.ipb.citibank.com.sg CNAME .
 cloud.email.irwintools.ca CNAME .
@@ -5901,6 +6198,7 @@ cloud.finhockey.info CNAME .
 cloud.firstboca-email.net CNAME .
 cloud.france.brut.media CNAME .
 cloud.frn-mail.com CNAME .
+cloud.fueguia.com CNAME .
 cloud.fullssl.securethemails.com CNAME .
 cloud.fundacionbancopopular.org CNAME .
 cloud.gabelliniautomobili.com CNAME .
@@ -5918,6 +6216,7 @@ cloud.goikolove.com CNAME .
 cloud.govtech.catconsult.com CNAME .
 cloud.grad.georgebrown.ca CNAME .
 cloud.gravie-email.com CNAME .
+cloud.greenmotion.com CNAME .
 cloud.grupoctoformacion.com CNAME .
 cloud.hannamfertility-email.com CNAME .
 cloud.hartmann.fr CNAME .
@@ -5937,6 +6236,7 @@ cloud.humanasaude.com.br CNAME .
 cloud.i.southwesternrailway.com CNAME .
 cloud.i.studyonline.rmit.edu.au CNAME .
 cloud.i2max.co.kr CNAME .
+cloud.ieb.es CNAME .
 cloud.iel-ce.org.br CNAME .
 cloud.ilhomestores.com CNAME .
 cloud.ilveshockey.info CNAME .
@@ -6010,6 +6310,7 @@ cloud.lovewellness-email.com CNAME .
 cloud.lucrativemarkets.net CNAME .
 cloud.lurn.com CNAME .
 cloud.lygiavien.com CNAME .
+cloud.m-mtrustcompany.com CNAME .
 cloud.m.solarturbines.com CNAME .
 cloud.m.tokyu-hands.co.jp CNAME .
 cloud.m.tripletex.no CNAME .
@@ -6074,6 +6375,7 @@ cloud.mail.luxuryretreats.com CNAME .
 cloud.mail.manncardmannings.hk CNAME .
 cloud.mail.modelo.com.mx CNAME .
 cloud.mail.myeva.com CNAME .
+cloud.mail.natwestbusinesshub.com CNAME .
 cloud.mail.online.villanova.edu CNAME .
 cloud.mail.p-antiaging.co.jp CNAME .
 cloud.mail.phelpsgamecalls.com CNAME .
@@ -6085,6 +6387,7 @@ cloud.mail.stjoeshealth.org CNAME .
 cloud.mail.themeateater.com CNAME .
 cloud.mail.toysrus.com CNAME .
 cloud.mail.vermant.be CNAME .
+cloud.mail.voltatec.com CNAME .
 cloud.mail.zoover.com CNAME .
 cloud.mailer.23andme.com CNAME .
 cloud.mailer.airmusictech.com CNAME .
@@ -6100,6 +6403,7 @@ cloud.mailing-globtrex.com CNAME .
 cloud.mailing.blokker.be CNAME .
 cloud.mailingcarroya.com CNAME .
 cloud.mailingclasificados.com CNAME .
+cloud.mailingeltiempo.com CNAME .
 cloud.mailingloencontraste.com CNAME .
 cloud.mailingmetrocuadrado.com CNAME .
 cloud.mailings.vso.nl CNAME .
@@ -6159,6 +6463,7 @@ cloud.mc.wm.auone.jp CNAME .
 cloud.mcld.salesforce.com CNAME .
 cloud.mcloud.gnp.net.au CNAME .
 cloud.mcpro.maison.fr CNAME .
+cloud.mcs.wolford.com CNAME .
 cloud.mdwisemarketing.org CNAME .
 cloud.meatme.info CNAME .
 cloud.medicalert-email.org CNAME .
@@ -6171,6 +6476,7 @@ cloud.metrounitedway-email.org CNAME .
 cloud.mgruppenemail.com CNAME .
 cloud.miamiclubnews.com CNAME .
 cloud.minha.portocred.com.br CNAME .
+cloud.mistermenuiserie-email.com CNAME .
 cloud.mkt.better.com CNAME .
 cloud.mkt.boavistaservicos.com.br CNAME .
 cloud.mkt.cpb.com.br CNAME .
@@ -6200,6 +6506,7 @@ cloud.mwaa-airports.com CNAME .
 cloud.my.3plearning.com CNAME .
 cloud.my.ianmartin.com CNAME .
 cloud.my.leica-camera.com CNAME .
+cloud.mybrickhouse.com CNAME .
 cloud.mycommunityfinance.co.uk CNAME .
 cloud.myoffers.verizonwireless.com CNAME .
 cloud.myralis.com.br CNAME .
@@ -6208,6 +6515,7 @@ cloud.myyellow.com CNAME .
 cloud.naspa.org CNAME .
 cloud.navistarcapital.com CNAME .
 cloud.news-aidexa.com CNAME .
+cloud.news.alpine-rrg.com CNAME .
 cloud.news.amedigital.com CNAME .
 cloud.news.aramis.com.br CNAME .
 cloud.news.artigianoinfiera.com CNAME .
@@ -6215,6 +6523,7 @@ cloud.news.bmw-motorrad.de CNAME .
 cloud.news.bmw.de CNAME .
 cloud.news.bringmeister.de CNAME .
 cloud.news.carrefour.ro CNAME .
+cloud.news.cataloniahotels.com CNAME .
 cloud.news.cving.com CNAME .
 cloud.news.daraz.com.np CNAME .
 cloud.news.daraz.lk CNAME .
@@ -6236,6 +6545,7 @@ cloud.news.tsgco.com CNAME .
 cloud.news.uniqlo.com.au CNAME .
 cloud.newsletter.aeccglobal.com CNAME .
 cloud.newsthecorner.com CNAME .
+cloud.nordea.lu CNAME .
 cloud.nossl.securethemails.com CNAME .
 cloud.notifications.att-mail.com CNAME .
 cloud.notificationstest.att-mail.com CNAME .
@@ -6257,6 +6567,8 @@ cloud.oulunkarpat.info CNAME .
 cloud.oup.com CNAME .
 cloud.outreach.barclays.com CNAME .
 cloud.outreach.cares.cwds.ca.gov CNAME .
+cloud.page-contenu.com CNAME .
+cloud.paraiso-peru.com CNAME .
 cloud.partner.nianticlabs.com CNAME .
 cloud.partnerexchange.att-mail.com CNAME .
 cloud.peoples-gas-emails.com CNAME .
@@ -6275,6 +6587,7 @@ cloud.premium.world.co.jp CNAME .
 cloud.prhge-mail.com CNAME .
 cloud.primeair.amazon.com CNAME .
 cloud.pubsec.salesforce.com CNAME .
+cloud.pucpr.br CNAME .
 cloud.qe.mc.salesforce.com CNAME .
 cloud.qstock.info CNAME .
 cloud.rabbitohs.com.au CNAME .
@@ -6301,6 +6614,7 @@ cloud.s12.customertestdomain.com CNAME .
 cloud.s12.sfmctest.com CNAME .
 cloud.s1test.candymcnall.com CNAME .
 cloud.s3.qa1.inboundtestdomain.com CNAME .
+cloud.s50.inboundtestdomain.com CNAME .
 cloud.s50.subscribertestdomain.com CNAME .
 cloud.s7.sfmctest.com CNAME .
 cloud.s8test.candymcnall.com CNAME .
@@ -6358,6 +6672,7 @@ cloud.stratech.co.uk CNAME .
 cloud.success.intelligentworld.org CNAME .
 cloud.summerdiscovery-email.com CNAME .
 cloud.suncommunities.com CNAME .
+cloud.sunoutdoors.com CNAME .
 cloud.suomenkomediateatteri.info CNAME .
 cloud.t.atlassian.com CNAME .
 cloud.t.clearme.com CNAME .
@@ -6404,6 +6719,7 @@ cloud.unitedwayofshr.com CNAME .
 cloud.update.just-eat.co.uk CNAME .
 cloud.updates.foxmovies.com CNAME .
 cloud.updates.funko.com CNAME .
+cloud.updates.mightyhive.com CNAME .
 cloud.updates.tea.texas.gov CNAME .
 cloud.us.state.gov CNAME .
 cloud.usabasketball-email.com CNAME .
@@ -6421,6 +6737,7 @@ cloud.vibepaymail.com CNAME .
 cloud.victory.cagop.org CNAME .
 cloud.victory.teamscalise.com CNAME .
 cloud.vl.regions.com CNAME .
+cloud.volkswagen-comerciales.es CNAME .
 cloud.volkswagen.es CNAME .
 cloud.volkswagenbank.de CNAME .
 cloud.votre-magasin.fresh.fr CNAME .
@@ -6504,7 +6821,6 @@ elastic-16.cloud.s11.sfmc-osl.com CNAME .
 elib-globalid3.click.s11.sfmc-osl.com CNAME .
 email-courriel.stg-transactions.canadapost-postescanada.ca CNAME .
 email-courriel.transactions.canadapost-postescanada.ca CNAME .
-email.1tks.com CNAME .
 email.argusleader.com CNAME .
 email.bristan.com CNAME .
 email.chiroone.net CNAME .
@@ -6517,6 +6833,7 @@ email.eesus.jnj.com CNAME .
 email.fnamerica.com CNAME .
 email.gruslabs.com CNAME .
 email.medullallc.com CNAME .
+email.news-press.com CNAME .
 email.realtymogul.com CNAME .
 email.tenthousandvillages.com CNAME .
 email.trousseaunews.com.br CNAME .
@@ -6534,7 +6851,9 @@ eu-west-api-beta.cloud.s11.sfmc-osl.com CNAME .
 eu-west-domain.cloud.s11.sfmc-osl.com CNAME .
 eu-west-gateway.cloud.s11.sfmc-osl.com CNAME .
 eu-west-ui.cloud.s11.sfmc-osl.com CNAME .
+events.epicbrokers.com CNAME .
 events.lamartina.com CNAME .
+events.rio.cloud CNAME .
 eventslobalid3.click.s11.sfmc-osl.com CNAME .
 faglobalid3.click.s11.sfmc-osl.com CNAME .
 faq3.cloud.s11.sfmc-osl.com CNAME .
@@ -7035,7 +7354,6 @@ hejlobalid3.click.s11.sfmc-osl.com CNAME .
 hx360.himss.org CNAME .
 i2lobalid3.click.s11.sfmc-osl.com CNAME .
 ils.click.s11.sfmc-osl.com CNAME .
-images.emails.united.com CNAME .
 indonesia.click.s11.sfmc-osl.com CNAME .
 info.dfs.com CNAME .
 info.e.maccas.com.au CNAME .
@@ -7043,6 +7361,7 @@ info.mktg-atlasparts.ca CNAME .
 info.mktg-columbiaequip.ca CNAME .
 info.mktg-cubcadet.ca CNAME .
 info.mktg-troybilt.ca CNAME .
+info.profsolutions.com CNAME .
 intranet2.click.s11.sfmc-osl.com CNAME .
 iplobalid3.click.s11.sfmc-osl.com CNAME .
 irclobalid3.click.s11.sfmc-osl.com CNAME .
@@ -7057,6 +7376,7 @@ learn.copyright.com CNAME .
 leave.experienciasbolivar.segurosbolivar.com.cdn.cloudflare.net CNAME .
 link.deerfield.edu CNAME .
 longhorn.click.s11.sfmc-osl.com CNAME .
+lp.naba.it CNAME .
 lp.propertyinvestmentagents.com.au CNAME .
 lunalobalid3.click.s11.sfmc-osl.com CNAME .
 m.activehealth.com CNAME .
@@ -7071,6 +7391,7 @@ mail.zenwork.com CNAME .
 mailer.brmobile.com.br CNAME .
 mailsid3.click.s11.sfmc-osl.com CNAME .
 maintenance-7.cloud.s11.sfmc-osl.com CNAME .
+marketing.ucs.br CNAME .
 marketingcloud-np.delltechnologies.com CNAME .
 mc.pldthome.com CNAME .
 mca468ab.view-qa1.sfmc-marketingqa.com CNAME .
@@ -7910,6 +8231,7 @@ pages.email.interepargne.natixis.com CNAME .
 pages.email.internationalsos.com CNAME .
 pages.email.ipb.citibank.com.sg CNAME .
 pages.email.irobot.com CNAME .
+pages.email.itmta-test.com CNAME .
 pages.email.jag.com.au CNAME .
 pages.email.jaguarlandrover.ie CNAME .
 pages.email.jansport.com CNAME .
@@ -7943,6 +8265,7 @@ pages.email.maxi.rs CNAME .
 pages.email.mediacomcable.com CNAME .
 pages.email.merchantcenter.intuit.com CNAME .
 pages.email.merial.com CNAME .
+pages.email.microsoftonline.com CNAME .
 pages.email.midstates.aaa.com CNAME .
 pages.email.miovision.com CNAME .
 pages.email.mlg.com CNAME .
@@ -8017,6 +8340,7 @@ pages.email.shopee.tw CNAME .
 pages.email.shopee.vn CNAME .
 pages.email.sj.aaa.com CNAME .
 pages.email.skinbetter.com CNAME .
+pages.email.skype.com CNAME .
 pages.email.smartline.com.au CNAME .
 pages.email.smh.com.au CNAME .
 pages.email.southdakota.aaa.com CNAME .
@@ -8137,6 +8461,7 @@ pages.emea.invisalign.com CNAME .
 pages.emea.kitchenaid.com CNAME .
 pages.emergencias.com.ar CNAME .
 pages.emkt.clip.mx CNAME .
+pages.emktabbvie.com.br CNAME .
 pages.eml.aerogarden.com CNAME .
 pages.eml.ecobee.com CNAME .
 pages.eml.expediaagents.com CNAME .
@@ -8392,6 +8717,7 @@ pages.jacwestcc-email.com CNAME .
 pages.join.me CNAME .
 pages.jokerit.info CNAME .
 pages.kaplan.com CNAME .
+pages.kcsouthern-email.com CNAME .
 pages.kenworthpartsmail.com CNAME .
 pages.kh.mkt.grab.com CNAME .
 pages.kkr.com CNAME .
@@ -8628,7 +8954,6 @@ pages.marketing.brake.co.uk CNAME .
 pages.marketing.giftnow.com CNAME .
 pages.marketing.goodrx.com CNAME .
 pages.marketing.hellolanding.com CNAME .
-pages.marketing.id.me CNAME .
 pages.marketing.kraken.com CNAME .
 pages.marketing.lge.com CNAME .
 pages.marketing.myorbit.id CNAME .
@@ -8732,6 +9057,7 @@ pages.my.jobs.ch CNAME .
 pages.my.mkt.grab.com CNAME .
 pages.my.natixis.com CNAME .
 pages.my.share-now.com CNAME .
+pages.myfloridaprepaidemail.com CNAME .
 pages.mymkt.lge.com CNAME .
 pages.mynt.com.br CNAME .
 pages.myoffers.verizonwireless.com CNAME .
@@ -8739,6 +9065,7 @@ pages.myriad-email.com CNAME .
 pages.mytrips.americanexpress.com CNAME .
 pages.myvethospital.com CNAME .
 pages.mywelldyne.com CNAME .
+pages.n.beiersdorf.com CNAME .
 pages.n.ebookers.com CNAME .
 pages.naacpcommunity.org CNAME .
 pages.nationalexpress.com CNAME .
@@ -8842,6 +9169,8 @@ pages.notices.cvs.com CNAME .
 pages.notificacoes.br.starbucksathome.com CNAME .
 pages.notificacoes.kitkatchocolatory.com.br CNAME .
 pages.notificacoes.nestlebabyandme.com.br CNAME .
+pages.notificacoes.nutricaoatevoce.com.br CNAME .
+pages.notification-naviextras.com CNAME .
 pages.notifications-np.dell.com CNAME .
 pages.notifications.asurion.com CNAME .
 pages.notifications.att-mail.com CNAME .
@@ -8878,6 +9207,7 @@ pages.offers.caseys.com CNAME .
 pages.offers.meredith.com CNAME .
 pages.offers.neteller.com CNAME .
 pages.offersbahiaprinciperesidences.com CNAME .
+pages.officeliveemail.com CNAME .
 pages.ohdoddcommunication.com CNAME .
 pages.ohiobaremail.org CNAME .
 pages.ohsuhealthmarketing.com CNAME .
@@ -9629,6 +9959,7 @@ signup-globalid3.click.s11.sfmc-osl.com CNAME .
 site.email.oberlo.com CNAME .
 smlobalid3.click.s11.sfmc-osl.com CNAME .
 social.memberemail.com CNAME .
+social.teachtci.com CNAME .
 spb.click.s11.sfmc-osl.com CNAME .
 springlobalid3.click.s11.sfmc-osl.com CNAME .
 srs.click.s11.sfmc-osl.com CNAME .
@@ -9654,6 +9985,7 @@ svtid3.click.s11.sfmc-osl.com CNAME .
 sz2n9jn1ryr1jyek.cloud.s11.sfmc-osl.com CNAME .
 taskid3.click.s11.sfmc-osl.com CNAME .
 test11lobalid3.click.s11.sfmc-osl.com CNAME .
+test12345.connector-qa1.marketingcloudqaapis.com CNAME .
 test12345.editor-qa1.marketingcloudqaapis.com CNAME .
 test12345.sock-qa1.marketingcloudqaops.com CNAME .
 test123456789.sfap-qa1.marketingcloudqaops.com CNAME .
@@ -9665,6 +9997,7 @@ tl-2q3ckq9x5p35jv9-5vhr1h6g1.cp-sap.sfmc-content.com CNAME .
 tl-2w5577vzhnkf5wjk85wtkq60y.click-sap.sfmc-marketing.com CNAME .
 tl-6y3k4hcgpwjw1xw4jnrkpfkq0.click-sap.sfmc-marketing.com CNAME .
 tl-77y1mhd0qv9zx3jtj1-dt5g10.click-sap.sfmc-marketing.com CNAME .
+tl-97pn39y7k8jj253n6swfjpckm.click-sap.sfmc-marketing.com CNAME .
 tl-b7h23h244jh1b9pt-j7k25vzq.click-sap.sfmc-marketing.com CNAME .
 tl-bjpgsm4mrfj1dw1qw1hc62lk8.view-sap.sfmc-marketing.com CNAME .
 tl-d-2z8cyzyg055vrvpklrqh8p4.cp-sap.sfmc-content.com CNAME .
@@ -9681,6 +10014,7 @@ tl-zmhbm9qdtp-rh3j4yw2jtjyg1.cp-sap.sfmc-content.com CNAME .
 tl000lytk6gm32zsg6sh8ryx56w1.cp-sap.sfmc-content.com CNAME .
 tl007vz529rddrpqn46d0s-7zw6m.cp-sap.sfmc-content.com CNAME .
 tl00kb23523hwjcq1fjq4wtj23t8.click-sap.sfmc-marketing.com CNAME .
+tl02tll229w05f8wxltf67xcb9t4.cp-sap.sfmc-content.com CNAME .
 tl03lncpszx6pxxlhjhmlftz70w4.view-sap.sfmc-marketing.com CNAME .
 tl05ycvbjrkspq442lrbh7572tmy.cp-sap.sfmc-content.com CNAME .
 tl08rf2zf70l7-2--g851b9hp1wy.view-sap.sfmc-marketing.com CNAME .
@@ -9693,6 +10027,7 @@ tl0mh4mb0zyd4346w5xfj27jp210.cp-sap.sfmc-content.com CNAME .
 tl0ms9-n6spdznmx3538wz028x38.cp-sap.sfmc-content.com CNAME .
 tl0pt1n55pp93mzjvjdpmy1yzr20.click-sap.sfmc-marketing.com CNAME .
 tl0px2j0w0fnddhjtxzxgl4twtyq.cp-sap.sfmc-content.com CNAME .
+tl0t4bxrjtt4lsrxl8twmy917bh4.click-sap.sfmc-marketing.com CNAME .
 tl0x5ltzqkj9d8jy8zlyshptmzp4.view-sap.sfmc-marketing.com CNAME .
 tl0ycp96jk0qsjc7241qksdhjbr1.click-sap.sfmc-marketing.com CNAME .
 tl13f6z-ylv9-lksjyl9zvlxccqq.cp-sap.sfmc-content.com CNAME .
@@ -9708,6 +10043,7 @@ tl1p-n204gxtrbcsvttxp71qyyx0.click-sap.sfmc-marketing.com CNAME .
 tl1s7m8nrlbkdb1tvg62686wqt40.click-sap.sfmc-marketing.com CNAME .
 tl1ympnr99r3dt1wl1kfjl4gkmn0.click-sap.sfmc-marketing.com CNAME .
 tl20lvk2yvxh6ndv2vh57g6913y4.view-sap.sfmc-marketing.com CNAME .
+tl22993z29h7fhq62ckxs4xr64g8.cp-sap.sfmc-content.com CNAME .
 tl237kfw34p6hl4fz-4vhhqsr5d4.cp-sap.sfmc-contentqa.com CNAME .
 tl239brm39vx3lczkmpwzt37-52m.cp-sap.sfmc-content.com CNAME .
 tl2674rkf5h9drqs1j86xjs5m78m.cp-sap.sfmc-content.com CNAME .
@@ -9760,18 +10096,20 @@ tl5bzr31nv92lyfrfj804l254l4m.click-sap.sfmc-marketing.com CNAME .
 tl5hmf9js0cccngcrvcsmwcqdhbq.cp-sap.sfmc-content.com CNAME .
 tl5hr7gt64l-xxb7v9wm3l7m2w81.cp-sap.sfmc-content.com CNAME .
 tl5hxcnsc1jlxlyytnjvx725bw18.click-sap.sfmc-marketing.com CNAME .
+tl5hyg4zgfjvcgl3hmf23t4zm5f8.click-sap.sfmc-marketing.com CNAME .
 tl5lg3g31r43rglvzr2v0jg7-j-1.click-sap.sfmc-marketing.com CNAME .
 tl5n6zp835m7jthtmqt70-y4bt0q.click-sap.sfmc-marketing.com CNAME .
 tl5rs7-907xnzfs7hrmgsnqfvmz4.cp-sap.sfmc-content.com CNAME .
 tl5vs7qnkf68srq6dw694yv0dr40.click-sap.sfmc-marketing.com CNAME .
+tl5zs522wknwr-83j8sjb8x2g5yy.click-sap.sfmc-marketing.com CNAME .
 tl6-vlrchhbqyz3tkshjntcgl3xy.cp-sap.sfmc-content.com CNAME .
 tl61j79y40hjrg85bvw1xm71szs0.click-sap.sfmc-marketing.com CNAME .
+tl64938g8tgkc2tr402fmwmw-cd1.click-sap.sfmc-marketing.com CNAME .
 tl654tr0bps0gqs-54wk2w75q5h0.cp-sap.sfmc-content.com CNAME .
 tl679r4m8mqwn28b1jst1qyfzq44.view-sap.sfmc-marketing.com CNAME .
 tl67t46fg2xl407bjsxg0c2fjbzy.view-sap.sfmc-marketing.com CNAME .
 tl68zvr6x-jpn4c91d11689t0y90.view-sap.sfmc-marketing.com CNAME .
 tl6bbz98s427bx01pw-8v1zlhptm.click-sap.sfmc-marketing.com CNAME .
-tl6jf5jw59qnsxlvh86qk-0kzbkq.click-sap.sfmc-marketing.com CNAME .
 tl6jg6l42jccs4fk27w8zd6pk74q.cp-sap.sfmc-content.com CNAME .
 tl6l8msg7nqs55m-gj0h-3g86qr8.cp-sap.sfmc-content.com CNAME .
 tl6l9n72rbm0vtc2mblft3-v1wf4.view-sap.sfmc-marketing.com CNAME .
@@ -9788,7 +10126,6 @@ tl74m35s1xqtpzqvy2v3ltq9-xwq.click-sap.sfmc-marketing.com CNAME .
 tl75xt59f91mtmzjsnnphtxplmxq.click-sap.sfmc-marketing.com CNAME .
 tl76cvk9c0t778-3lt2kbzl13x4m.click-sap.sfmc-marketing.com CNAME .
 tl77qr9rpwf9st--1gy537h3vtq4.cp-sap.sfmc-content.com CNAME .
-tl7jx72jmd5q55trm1ksdq77hs41.click-sap.sfmc-marketing.com CNAME .
 tl7kbwnnxpbx7ydg3q8v1mf8dcvq.cp-sap.sfmc-content.com CNAME .
 tl7kft48tpblt5nh3x2yj44bg9g1.click-sap.sfmc-marketing.com CNAME .
 tl7qlxnm2rk6znp2hbwykhvy8sg8.cp-sap.sfmc-content.com CNAME .
@@ -9830,6 +10167,7 @@ tlb43ycsb7h-8xrrhn83fhsj9tn8.cp-sap.sfmc-content.com CNAME .
 tlb5h9gwghgknlxxt9f83k6c0k-y.click-sap.sfmc-marketing.com CNAME .
 tlb5hncj9h30zmq2tzbc7b1nxcl8.cp-sap.sfmc-content.com CNAME .
 tlb6-l5yn6r4l98w05484-0lb3f0.click-sap.sfmc-marketing.com CNAME .
+tlb7ypmf-thh8pr25gt6mj8xrp04.view-sap.sfmc-marketing.com CNAME .
 tlb8-p6bv0xm07w21bhhb8p-ng-4.click-sap.sfmc-marketing.com CNAME .
 tlb9ycx2chhh7c747nj7p1cwc481.cp-sap.sfmc-content.com CNAME .
 tlbfmbpzdt1x15nb3j4b2mm1t3w4.cp-sap.sfmc-content.com CNAME .
@@ -9900,6 +10238,7 @@ tlg1946m085sj-dc6td73k0jwcrm.cp-sap.sfmc-content.com CNAME .
 tlg3qhdfp0vr8fvpbg5vncq-v1w8.cp-sap.sfmc-content.com CNAME .
 tlg4wc-ql29p78j3mdvrdkftdgh1.view-sap.sfmc-marketing.com CNAME .
 tlg4z3vmjsmkrdyvydfh0hpyqxh4.click-sap.sfmc-marketing.com CNAME .
+tlg5fg6y4h-6knc-1s95bwynmt2q.cp-sap.sfmc-content.com CNAME .
 tlgc6vt4rvjrj0pz47ljj2hw86mq.click-sap.sfmc-marketing.com CNAME .
 tlgjfv-q5srw32m8ll265h68hflm.click-sap.sfmc-marketing.com CNAME .
 tlgjh0mvfshv4ltg0ycjpv7bbtq8.cp-sap.sfmc-content.com CNAME .
@@ -9921,6 +10260,7 @@ tlh6xh--ql2n5qnx-2j4m5hs5pc4.click-sap.sfmc-marketing.com CNAME .
 tlh8bjgj766q70956mvk2-ymrqn1.view-sap.sfmc-marketing.com CNAME .
 tlhc120sr66t9wtjqc8-3f3-66q1.cp-sap.sfmc-content.com CNAME .
 tlhfhygs1qpg620ckm40z0dc44b0.cp-sap.sfmc-content.com CNAME .
+tlhg4fwhnn4m78bm1t1x2wcy1nv4.click-sap.sfmc-marketing.com CNAME .
 tlhh8l9kcx68756jwxytw6g6dl90.click-sap.sfmc-marketing.com CNAME .
 tlhhgy75v6ds6f5yqjg80sr0jdbm.cp-sap.sfmc-content.com CNAME .
 tlhl94l6bdg10023557-mlv08v-4.cp-sap.sfmc-contentqa.com CNAME .
@@ -9933,6 +10273,8 @@ tlhsqnjsd06yn620th2xd2gjqbv0.click-sap.sfmc-marketing.com CNAME .
 tlhx2yk9nl3d0mf7d81q2th9hdkm.view-sap.sfmc-marketing.com CNAME .
 tlhzqkt6kdg2ljb2wnp7g6wndxb1.cp-sap.sfmc-content.com CNAME .
 tlj1ncqfzdm21smglk4lhkd-m28m.click-sap.sfmc-marketing.com CNAME .
+tlj24gg8kdz137r8c5kf1wmq32dy.view-sap.sfmc-marketing.com CNAME .
+tlj4dtctr0dns4dc-t4tqcs2t0q4.cp-sap.sfmc-content.com CNAME .
 tlj6r64y42m7mfx4ht775-mj1-bq.cp-sap.sfmc-contentqa.com CNAME .
 tlj7sbjjqrgd002j7xhspb2wd3t0.click-sap.sfmc-marketing.com CNAME .
 tlj9l2vhgczr9q2-wbc2rp4xtgny.cp-sap.sfmc-content.com CNAME .
@@ -9956,12 +10298,14 @@ tljy8m2f0k22qscg7ym5w4lf94xm.cp-sap.sfmc-contentqa.com CNAME .
 tljzpht5nwz5gnrm06dm8jfp1t14.cp-sap.sfmc-content.com CNAME .
 tljzzz95hjsgkx2kcnj15z16plm8.click-sap.sfmc-marketing.com CNAME .
 tlk-cknmw3m-qqqntc8hcst13vd4.click-sap.sfmc-marketing.com CNAME .
+tlk2ry7jx0x8br2thcy2yv0-ml3q.click-sap.sfmc-marketing.com CNAME .
 tlk5rfgqrxm7hkfb8j0r-ct7mg-1.cp-sap.sfmc-content.com CNAME .
 tlk7s0jmbv0-nb323z16s28dbmtq.click-sap.sfmc-marketing.com CNAME .
 tlk8v-bcffndxrbdpqct-bl1c8qy.cp-sap.sfmc-content.com CNAME .
 tlkbbmxljclzgn2m4m4xrq90b1ym.cp-sap.sfmc-content.com CNAME .
 tlkbtx13gj2wl5vpkl2wrmjvfk84.click-sap.sfmc-marketing.com CNAME .
 tlkcvt9qlzljnbjkx8dpsl5r7vc4.click-sap.sfmc-marketing.com CNAME .
+tlkd3q3r7kxsdtfbrlt96lsp5n44.click-sap.sfmc-marketing.com CNAME .
 tlkh0nnzl0jtq29zssp3dsfmwy9y.click-sap.sfmc-marketing.com CNAME .
 tlkjx6dpd6nlltb0c40cwsc9nf2m.cp-sap.sfmc-content.com CNAME .
 tlkkch75dvj7gjb7s1vzcpz0x0qq.view-sap.sfmc-marketing.com CNAME .
@@ -10040,14 +10384,13 @@ tlp2w5ls37nbxkn-1-gg-81sgj3q.cp-sap.sfmc-content.com CNAME .
 tlp4413ktwd-8g-t6ft8vmxn5sn8.cp-sap.sfmc-content.com CNAME .
 tlp8mcq71bbj8ctspwtzs69zv6jy.cp-sap.sfmc-content.com CNAME .
 tlp8tf1gd6xxw4l2mfy89-v946yy.cp-sap.sfmc-content.com CNAME .
-tlpcb0n9vb7dtj0xdpmxzwzdmvsm.click-sap.sfmc-marketing.com CNAME .
 tlphb7939hn2mb24kd9hrtcghgfy.view-sap.sfmc-marketing.com CNAME .
-tlpj211lbds17x16xh58l52qc9-4.click-sap.sfmc-marketing.com CNAME .
 tlpj2s4kvcjzj58znn73fby232fm.view-sap.sfmc-marketing.com CNAME .
 tlpsjjcf61gbqmh3kl97-q1wb708.cp-sap.sfmc-content.com CNAME .
 tlptm-c7999y1c7glh6vcngdxxdy.cp-sap.sfmc-content.com CNAME .
 tlpwdly0bq3t25djwtrpl-zwms-8.click-sap.sfmc-marketing.com CNAME .
 tlpxz-21r4kjcjn59lbfvp0v4tyq.click-sap.sfmc-marketing.com CNAME .
+tlpy0mmcm-bcpbhybs54wwppd248.cp-sap.sfmc-content.com CNAME .
 tlq00dm3y-14hr-18zv1xrl7wtzq.cp-sap.sfmc-contentqa.com CNAME .
 tlq0d5jn0xn63h0zjqyywj1lwwl4.cp-sap.sfmc-content.com CNAME .
 tlq299qw6td4wmhm20nbc7dqnj60.view-sap.sfmc-marketing.com CNAME .
@@ -10057,6 +10400,7 @@ tlq3ybr67gpds22yk238dbs5vyp1.click-sap.sfmc-marketing.com CNAME .
 tlq4zrhm0r9fm41xz9gpn379y5y4.cp-sap.sfmc-content.com CNAME .
 tlq602jchs-pc2v9lhwqyyl5phv1.view-sap.sfmc-marketing.com CNAME .
 tlq62qg2b87x8dp6zk95cs9b4qx8.cp-sap.sfmc-content.com CNAME .
+tlq797wznl8r3vl0p85s4rxvz6z0.click-sap.sfmc-marketing.com CNAME .
 tlq8nj3qchq0xm183w4tddrnxxtm.view-sap.sfmc-marketing.com CNAME .
 tlq9qv7f-yzfw2dhj026s1hp2dpm.cp-sap.sfmc-content.com CNAME .
 tlqdnd5wc217br11z307qvghm7h4.view-sap.sfmc-marketing.com CNAME .
@@ -10122,6 +10466,7 @@ tlsqdbp0nz9147wb-jvwnc5w7g7m.cp-sap.sfmc-content.com CNAME .
 tlt2hw05yc42l85lcf8rmq3q2ffm.cp-sap.sfmc-content.com CNAME .
 tlt4--3qh9m61pd59tp51vqp1wk8.click-sap.sfmc-marketing.com CNAME .
 tlt6x61yq78yg2qvh4hxj528dp-4.view-sap.sfmc-marketing.com CNAME .
+tlt75srrc7c44b4fkpdzbgxz707q.view-sap.sfmc-marketing.com CNAME .
 tltc76kktxnmmdbzdt0ylq90hl5q.cp-sap.sfmc-contentqa.com CNAME .
 tltcl08bg-ldwt4prhsgys-4xjy0.click-sap.sfmc-marketing.com CNAME .
 tltd0mz8xhxhs4xwfjcr5zn15l64.cp-sap.sfmc-content.com CNAME .
@@ -10134,6 +10479,7 @@ tlttffb668qn3yrqjq9xzn90-px1.click-sap.sfmc-marketing.com CNAME .
 tltw07j4ttq6hwzlhkwrz27pjk44.cp-sap.sfmc-content.com CNAME .
 tltwvs2vs7kzrq2pjv1tjwvj2v4q.click-sap.sfmc-marketing.com CNAME .
 tltynlr-v59tttr9kjsq4t8y708y.click-sap.sfmc-marketing.com CNAME .
+tlv2n9gvs1ckx0bs9nrzlrytqqt1.cp-sap.sfmc-content.com CNAME .
 tlv2rf7r3k2bz-r4vj01kbq549z8.click-sap.sfmc-marketing.com CNAME .
 tlv5d8pbf0fymqtg8cjtsxt30rjy.cp-sap.sfmc-contentqa.com CNAME .
 tlv5jfynw5rg88sc7xv5f16rs-c4.cp-sap.sfmc-content.com CNAME .
@@ -10150,6 +10496,7 @@ tlvw9b2q0v6y-mjx3x0tj7jd6251.cp-sap.sfmc-content.com CNAME .
 tlvx0srcdfw7gmqg3f2b9-pt28s1.click-sap.sfmc-marketing.com CNAME .
 tlvzgjv40pds2s12y-nycylqvr-0.cp-sap.sfmc-content.com CNAME .
 tlw-956w0720jmcksbnzjv162vy8.view-sap.sfmc-marketing.com CNAME .
+tlw-l8d0g1016bs09nxrdd604sc1.cp-sap.sfmc-content.com CNAME .
 tlw13j29rqgtvvn9cx-w9wb6-fb4.click-sap.sfmc-marketing.com CNAME .
 tlw1vjhvhydvvx30yknynlc0khky.view-sap.sfmc-marketing.com CNAME .
 tlw3vrkn-mf-98p1j51ptvb28df4.cp-sap.sfmc-content.com CNAME .
@@ -10169,7 +10516,6 @@ tlwq8lpjb5v38fclndxprdr0fdkq.click-sap.sfmc-marketing.com CNAME .
 tlwtt-k99rc7db3fzmyb57-6b391.cp-sap.sfmc-content.com CNAME .
 tlwwcxgl1dylgg83z9dj4bq3f92y.cp-sap.sfmc-content.com CNAME .
 tlx-xd1qb-wdv8dfs2lyt195rfp8.cp-sap.sfmc-content.com CNAME .
-tlx0yz28wq0mgqj3fn5mf8qyhck1.click-sap.sfmc-marketing.com CNAME .
 tlx816gj2jp1pllqcdfn39pzmr34.cp-sap.sfmc-content.com CNAME .
 tlx8dh055pfw3h0n-ms1vwqs4s-y.cp-sap.sfmc-content.com CNAME .
 tlxbfp6hvjmrmmdx5r1nlpl613d4.cp-sap.sfmc-content.com CNAME .
@@ -10177,7 +10523,6 @@ tlxct4-17wx6jp8rqz0zbpq2-n9y.view-sap.sfmc-marketing.com CNAME .
 tlxf0x83pw7b2ky4w1b5bktxwy1q.click-sap.sfmc-marketing.com CNAME .
 tlxgsmmjyhsq-x-flhcpqjh5h918.click-sap.sfmc-marketing.com CNAME .
 tlxkjdbyjcwwpnv0xtbhx8c890j0.cp-sap.sfmc-content.com CNAME .
-tlxmk2yzzmdmrzjg0hzkmm164mk1.click-sap.sfmc-marketing.com CNAME .
 tlxsybqpslpqczsl717y3d2jwhm4.click-sap.sfmc-marketingqa.com CNAME .
 tlxt5pmrmvb21bdl71lh9-ls55my.cp-sap.sfmc-content.com CNAME .
 tly0sqgnyrc-mzvh9zmjkvfhqksm.view-sap.sfmc-marketing.com CNAME .
@@ -10195,6 +10540,7 @@ tlyth6ccd6p2fb40y77cr-8y8zq8.cp-sap.sfmc-content.com CNAME .
 tlyvfl-v024s31dtbkjppc03t510.cp-sap.sfmc-content.com CNAME .
 tlyxx3myzm2370yj6pb7jjv27ph4.cp-sap.sfmc-content.com CNAME .
 tlyzg7-9p-282152gkpbwtgrr094.click-sap.sfmc-marketing.com CNAME .
+tlz-p46q081dw3n14ks3nwddrc-y.cp-sap.sfmc-content.com CNAME .
 tlz374ssxlzrk0974-3142c6-x81.cp-sap.sfmc-content.com CNAME .
 tlz53jd1dvrtx2r1g2r3k4c4tn94.click-sap.sfmc-marketing.com CNAME .
 tlz5h-1s2d07sckpgxtzs7r6cwdq.cp-sap.sfmc-content.com CNAME .
@@ -10204,6 +10550,7 @@ tlz9vl69qm2l2m-v2818359htyl4.cp-sap.sfmc-content.com CNAME .
 tlzbvx--vymkh0jy6drhpjnlttg8.cp-sap.sfmc-content.com CNAME .
 tlzdrlvktl2xwvkkjkt8r33w-hly.cp-sap.sfmc-content.com CNAME .
 tlzf4fyccy4j5yk05gpmykkcd5d1.cp-sap.sfmc-content.com CNAME .
+tlzk9cp5f8hxmkcsrl4kmzfpc00m.click-sap.sfmc-marketing.com CNAME .
 tlzvtp2bkz12z1sm22b46f4qzdy4.click-sap.sfmc-marketing.com CNAME .
 tlzy2s3p56rdnxcfb72mpy9-mx3q.view-sap.sfmc-marketing.com CNAME .
 tst0-0.cloud.s11.sfmc-osl.com CNAME .
@@ -10263,6 +10610,7 @@ view.apply.gocoastguard.com CNAME .
 view.appointment.bankofamerica.com CNAME .
 view.aps.att-mail.com CNAME .
 view.apusmail.apus.edu CNAME .
+view.arrasaprecos.com.br CNAME .
 view.arrisemail.com CNAME .
 view.arsenal.com.mx CNAME .
 view.artikaforliving.ca CNAME .
@@ -10352,6 +10700,7 @@ view.care.comcast.com CNAME .
 view.care.orbitz.com CNAME .
 view.careerbuilder-email.com CNAME .
 view.carroll-tire.com CNAME .
+view.carteiradigital.ifood.com.br CNAME .
 view.caryconnected.org CNAME .
 view.cbsconnect.paramount.com CNAME .
 view.cc.casio.info CNAME .
@@ -10394,6 +10743,7 @@ view.commercialbank.bankofamerica.com CNAME .
 view.commercialtire-email.com CNAME .
 view.commonsense-email.org CNAME .
 view.comms.bsf.co.nz CNAME .
+view.comms.c21.com CNAME .
 view.comms.electricireland.com CNAME .
 view.comms.gocardless.com CNAME .
 view.comms.gumtree.com CNAME .
@@ -10565,12 +10915,15 @@ view.e.clifbar.com CNAME .
 view.e.cloroxpool.com CNAME .
 view.e.coh.org CNAME .
 view.e.community.twitch.tv CNAME .
+view.e.countryroad.com.au CNAME .
 view.e.dettol.com.au CNAME .
 view.e.digital-rb.com CNAME .
 view.e.draftkings.com CNAME .
 view.e.durexcanada.com CNAME .
+view.e.elfcosmetics.co.uk CNAME .
 view.e.envisionhealth.com CNAME .
 view.e.f-secure.com CNAME .
+view.e.fanatics.com CNAME .
 view.e.fox13news.com CNAME .
 view.e.fox2detroit.com CNAME .
 view.e.fox32chicago.com CNAME .
@@ -10628,6 +10981,8 @@ view.e.seniormarketadvisors.com CNAME .
 view.e.starbucks.com.mx CNAME .
 view.e.surveymonkey.com CNAME .
 view.e.synergystaffing.org CNAME .
+view.e.tcufinancialgroup.com CNAME .
+view.e.theverandahbeecroft.com.au CNAME .
 view.e.travelocity.ca CNAME .
 view.e.travelocity.com CNAME .
 view.e.trustedshops.com CNAME .
@@ -10642,6 +10997,7 @@ view.e.westernunion.com CNAME .
 view.e.westgatehotel.com CNAME .
 view.e.witchery.com.au CNAME .
 view.e.woolloo.com CNAME .
+view.e.xperthr.com CNAME .
 view.e.yelp.com CNAME .
 view.e.zurich.co.uk CNAME .
 view.e2.aicpastore.com CNAME .
@@ -10779,6 +11135,8 @@ view.email.aldersonloop.com CNAME .
 view.email.aldi.dk CNAME .
 view.email.alerus.com CNAME .
 view.email.allerganrussia.com CNAME .
+view.email.americastestkitchen.com CNAME .
+view.email.ampcapital.com.au CNAME .
 view.email.anthem.com CNAME .
 view.email.apopro.dk CNAME .
 view.email.ardija.co.jp CNAME .
@@ -10796,6 +11154,7 @@ view.email.bcbsga.com CNAME .
 view.email.beaba.com CNAME .
 view.email.beallsflorida.com CNAME .
 view.email.beautyboutique.ca CNAME .
+view.email.belnickinc.com CNAME .
 view.email.betterment.com CNAME .
 view.email.bigheartpetbrands.com CNAME .
 view.email.blackanddecker.com.au CNAME .
@@ -10804,6 +11163,7 @@ view.email.bountyhunterrarewine.com CNAME .
 view.email.bradyid.com CNAME .
 view.email.branchenergy.com CNAME .
 view.email.callcommand.com CNAME .
+view.email.capalphadc.com CNAME .
 view.email.catho.com.br CNAME .
 view.email.centerpointenergy.com CNAME .
 view.email.centraldeconcursos.com.br CNAME .
@@ -10845,9 +11205,12 @@ view.email.espnwwos.com CNAME .
 view.email.euralille.fr.westfield.com CNAME .
 view.email.eurekareport.com.au CNAME .
 view.email.eveonline.com CNAME .
+view.email.ezra.com CNAME .
 view.email.federalpremium.com CNAME .
 view.email.floenergy.sg CNAME .
 view.email.foxsports.com CNAME .
+view.email.freemedicare101guide.com CNAME .
+view.email.glories.com CNAME .
 view.email.grandvision.it CNAME .
 view.email.gregabbott.com CNAME .
 view.email.greyhound.com CNAME .
@@ -10897,6 +11260,7 @@ view.email.lotteryplus.com CNAME .
 view.email.louismartini.com CNAME .
 view.email.magairports.net CNAME .
 view.email.mainstartrust.com CNAME .
+view.email.mainstreet.com CNAME .
 view.email.manhunt.net CNAME .
 view.email.marvinreplacement.com CNAME .
 view.email.maxi-cosi.com CNAME .
@@ -10907,13 +11271,16 @@ view.email.merial.com CNAME .
 view.email.microsoftonline.com CNAME .
 view.email.microsoftrewards.com CNAME .
 view.email.mixbook.com CNAME .
+view.email.mknorth.eu CNAME .
 view.email.mktagilidade.pt CNAME .
 view.email.mmp.michigancompletehealth.com CNAME .
 view.email.modon.ae CNAME .
 view.email.moparextended.com CNAME .
+view.email.movemove.com CNAME .
 view.email.msd-salud-animal.cl CNAME .
 view.email.mtw.aaa.com CNAME .
 view.email.mullinforamerica.com CNAME .
+view.email.multiopticas.pt CNAME .
 view.email.mybambu.com CNAME .
 view.email.mychariotenergy.com CNAME .
 view.email.myhermes.de CNAME .
@@ -11042,6 +11409,7 @@ view.email.unexpected-shopping.com CNAME .
 view.email.unifi.com.my CNAME .
 view.email.universalpictures.co.uk CNAME .
 view.email.usa.avon.com CNAME .
+view.email.usifund.com CNAME .
 view.email.ussoccer.com CNAME .
 view.email.vakantiediscounter.nl CNAME .
 view.email.vans.com CNAME .
@@ -11315,7 +11683,6 @@ view.hhgreggemail.com CNAME .
 view.hi.ownr.eu CNAME .
 view.hifi-mail.lu CNAME .
 view.hifk.tmmsg.com CNAME .
-view.highquestllc.com CNAME .
 view.hitedigitalcommunications.com CNAME .
 view.hkt.tmmsg.com CNAME .
 view.hola.poncebank.com CNAME .
@@ -11345,6 +11712,7 @@ view.infiniticonnection-email.com CNAME .
 view.info-business.myhermes.de CNAME .
 view.info-codehunter.com CNAME .
 view.info-contenu.com CNAME .
+view.info-edchoice.org CNAME .
 view.info-gwynniebee.com CNAME .
 view.info-hinessecurities.com CNAME .
 view.info-mymabplex.com CNAME .
@@ -11379,6 +11747,7 @@ view.info.galliardhomes.com CNAME .
 view.info.genesis.com CNAME .
 view.info.getaroommarketing.com CNAME .
 view.info.gm.ca CNAME .
+view.info.greasepro.com CNAME .
 view.info.gumtree.com CNAME .
 view.info.healthcoachinstitute.com CNAME .
 view.info.icex.es CNAME .
@@ -11608,8 +11977,10 @@ view.mail.linebiz.com CNAME .
 view.mail.macmillan.com CNAME .
 view.mail.mattel.com CNAME .
 view.mail.mazda.ca CNAME .
+view.mail.monarch.edu.au CNAME .
 view.mail.msdanz.com CNAME .
 view.mail.msdp.cn CNAME .
+view.mail.nautica.com CNAME .
 view.mail.nextdayoption.com CNAME .
 view.mail.nyxcosmetics.co CNAME .
 view.mail.oddset.de CNAME .
@@ -11725,6 +12096,7 @@ view.marketing.zellepay.com CNAME .
 view.marketing2.alliancehcm.com CNAME .
 view.marketingbmdp.org CNAME .
 view.marketingcloud.valuepaymentsystems.com CNAME .
+view.marketingcloud.velasresorts.com CNAME .
 view.marketingcloud.wiredscore.com CNAME .
 view.marketingrci.com.br CNAME .
 view.marketmeltdown.net CNAME .
@@ -11745,7 +12117,6 @@ view.mc.christiesdirect.com CNAME .
 view.mc.ecotricity.co.uk CNAME .
 view.mc.epson.jp CNAME .
 view.mc.food-service.de CNAME .
-view.mc.havefunsolving.com CNAME .
 view.mc.hitachi-sunrockers.co.jp CNAME .
 view.mc.innquest.com CNAME .
 view.mc.iqos.by CNAME .
@@ -11802,6 +12173,7 @@ view.mkt.boavistaservicos.com.br CNAME .
 view.mkt.breederscupexperiences.com CNAME .
 view.mkt.cerveceriacielitolindo.com CNAME .
 view.mkt.ciudadelatextil.com CNAME .
+view.mkt.conekta.com CNAME .
 view.mkt.crehana.com CNAME .
 view.mkt.elo7.com.br CNAME .
 view.mkt.evolutionwellness.com CNAME .
@@ -11923,6 +12295,7 @@ view.newsletter.aeccglobal.com CNAME .
 view.newsletter.fiverr.com CNAME .
 view.newsletter.icesports.com CNAME .
 view.newsletter.kanui.com.br CNAME .
+view.newsletter.madavor.com CNAME .
 view.newsletter.on-running.com CNAME .
 view.newsletter.outlet.marksandspencer.com CNAME .
 view.newsletter.rakuten.com CNAME .
@@ -12444,7 +12817,9 @@ view2.email.ticketmaster.com CNAME .
 virtual-www.click.s11.sfmc-osl.com CNAME .
 vmware.click.s11.sfmc-osl.com CNAME .
 vxtxxv7cxa664vjf.cloud.s11.sfmc-osl.com CNAME .
+wealthgridchiefstableattain.xyz CNAME .
 web.audi.it CNAME .
+web.magnamail.com.au CNAME .
 web.mitsubishi-motors.it CNAME .
 web.volkswagen-veicolicommerciali.it CNAME .
 web2.merial.com CNAME .
@@ -12563,21 +12938,19 @@ click.campanhas.kinoplex.com.br CNAME .
 click.camshaft.motordlr.com CNAME .
 click.capcenteremail.com CNAME .
 click.carriage.motordlr.com CNAME .
-click.chainpump.motordlr.com CNAME .
 click.claro.sf.celulardireto.com.br CNAME .
 click.click-services.total.be CNAME .
 click.client-airfrance.com CNAME .
 click.cloud.fi.edu CNAME .
 click.cm.lohaco.jp CNAME .
 click.cmail.nokia.com CNAME .
-click.combustion.motordlr.com CNAME .
 click.comms-ioof.com.au CNAME .
 click.communications.deserres.ca CNAME .
-click.communications.sunnova.com CNAME .
 click.communications.trustpower.co.nz CNAME .
 click.comunica.unifor.br CNAME .
-click.comunicacaolibertyseguros.com.br CNAME .
+click.contact.abodo.com CNAME .
 click.contact.qredits.nl CNAME .
+click.content.dorel-juvenile.com CNAME .
 click.coralhospitality-email.com CNAME .
 click.correoselempleo.com CNAME .
 click.correoseltiempo.com CNAME .
@@ -12587,25 +12960,30 @@ click.customerlicensing.transport.nsw.gov.au CNAME .
 click.delivery.magazinediscountcenter.com CNAME .
 click.deutscheam.db.com CNAME .
 click.dexcom-email.com CNAME .
+click.diesel.motordlr.com CNAME .
 click.digital.citylink.com.au CNAME .
 click.digital.govia.com.au CNAME .
+click.digital.nmg.de CNAME .
 click.discover.questel.com CNAME .
-click.disney-email.com CNAME .
 click.e-mail.crayola.com CNAME .
 click.e-mail.swanson-vitamins.com CNAME .
+click.e-nastygal.com CNAME .
 click.e-natsem.com CNAME .
 click.e.aceuae.com CNAME .
+click.e.aldoshoes.com CNAME .
 click.e.asu.edu CNAME .
 click.e.audi.nl CNAME .
 click.e.bauer-media.com.au CNAME .
 click.e.bgca.org CNAME .
 click.e.boeingservices.com CNAME .
+click.e.brighton.com CNAME .
 click.e.carnet.vw.com CNAME .
 click.e.cervejariacolorado.com.br CNAME .
 click.e.daytonacollege.edu CNAME .
 click.e.eatstreet.com CNAME .
 click.e.footballfamily.com.au CNAME .
 click.e.freddysusa.com CNAME .
+click.e.gamingmails.com CNAME .
 click.e.groupsuper.com.au CNAME .
 click.e.libertytravel.com CNAME .
 click.e.metricon.com.au CNAME .
@@ -12614,15 +12992,16 @@ click.e.mygmfprotection.com CNAME .
 click.e.nationwidefinancial.com CNAME .
 click.e.oranjefonds.nl CNAME .
 click.e.pcid.ca CNAME .
-click.e.pharmaprix.ca CNAME .
 click.e.proflowers.com CNAME .
 click.e.proplants.com CNAME .
+click.e.safaribooksonline.com CNAME .
 click.e.saltlake.littleamerica.com CNAME .
-click.e.supercuts.com CNAME .
 click.e.universaltraveller.com.au CNAME .
 click.e2.cgma.org CNAME .
+click.edm.colonialfirststate.com.au CNAME .
 click.efashion-wholesaleronline.com CNAME .
 click.ekit.connectmiles.com CNAME .
+click.elektrowagen.motordlr.com CNAME .
 click.em.davidsbridal.com CNAME .
 click.em.overwatchleague.com CNAME .
 click.email-anbholding.com CNAME .
@@ -12632,7 +13011,10 @@ click.email-fordpass.com CNAME .
 click.email-irusa.org CNAME .
 click.email-orvis.co.uk CNAME .
 click.email-puma.com CNAME .
+click.email-rushcard.com CNAME .
 click.email-thermalpaperdirect.com CNAME .
+click.email-wwt.com CNAME .
+click.email.actrol.com.au CNAME .
 click.email.adler.edu CNAME .
 click.email.aloyoga.com CNAME .
 click.email.architecturalceramics.com CNAME .
@@ -12651,6 +13033,7 @@ click.email.casting.cirquedusoleil.com CNAME .
 click.email.churchofjesuschrist.org CNAME .
 click.email.codicisconto.gazzetta.it CNAME .
 click.email.collaw.com CNAME .
+click.email.comeuntochrist.org CNAME .
 click.email.compassion.com.au CNAME .
 click.email.coupons.nine.com.au CNAME .
 click.email.craftsman.ca CNAME .
@@ -12664,7 +13047,6 @@ click.email.esker.net CNAME .
 click.email.eveonline.com CNAME .
 click.email.exetel.com.au CNAME .
 click.email.expomarkers.com CNAME .
-click.email.externaled.hms.harvard.edu CNAME .
 click.email.familyprotect.com CNAME .
 click.email.fastmed.com CNAME .
 click.email.greyhoundaustralia.com.au CNAME .
@@ -12681,14 +13063,14 @@ click.email.irwintools.ca CNAME .
 click.email.kameramann.de CNAME .
 click.email.keno.com.au CNAME .
 click.email.kitandace.com CNAME .
-click.email.kortingscode.nl CNAME .
-click.email.leetchi.com CNAME .
 click.email.leffe.com CNAME .
 click.email.littlevillage.johnsonsbaby.com CNAME .
 click.email.lomadee.com CNAME .
 click.email.merial.com CNAME .
 click.email.mormon.org CNAME .
+click.email.nnnpro.com CNAME .
 click.email.novartis.fr CNAME .
+click.email.nzz.ch CNAME .
 click.email.origamiowl.com CNAME .
 click.email.page-online.de CNAME .
 click.email.pcplus.ca CNAME .
@@ -12720,9 +13102,8 @@ click.email2.microsoft.com CNAME .
 click.emailgpp.bauer.uh.edu CNAME .
 click.emailladbrokes.com CNAME .
 click.emails.broadwaygaming.com CNAME .
-click.emails.budgettravel.com CNAME .
 click.emails.novartisotc.com CNAME .
-click.emails.volotea.com CNAME .
+click.emails.turbodebitcard.intuit.com CNAME .
 click.emkt.disalconsorcio.com.br CNAME .
 click.emktabbvie.com.br CNAME .
 click.enews.visitcalifornia.com CNAME .
@@ -12730,7 +13111,6 @@ click.enews.wkcda.hk CNAME .
 click.engage.ferris.edu CNAME .
 click.engage.microfocus.com CNAME .
 click.engage.pharma.novartis.ca CNAME .
-click.envios.cityexpress.com CNAME .
 click.es.abbvie.com CNAME .
 click.et.lids.com CNAME .
 click.et.thelimited.com CNAME .
@@ -12762,15 +13142,15 @@ click.hcpspaceinfo.com CNAME .
 click.hearing-sensation.com CNAME .
 click.helix-email.com CNAME .
 click.hfemail.sjm.com CNAME .
-click.highquestllc.com CNAME .
 click.homecreditus-mail.com CNAME .
 click.homestarfc-connect.com CNAME .
 click.huckaufnews.de CNAME .
-click.i.hepsiburada.com CNAME .
 click.ie.abbvie.com CNAME .
+click.induction.motordlr.com CNAME .
 click.info.californiabankofcommerce.com CNAME .
 click.info.faradayfuture.com CNAME .
 click.info.histoiredor.com CNAME .
+click.info.lazada.com CNAME .
 click.info.marcorian.com CNAME .
 click.info.pureinsurance.com CNAME .
 click.info.trasmediterranea.es CNAME .
@@ -12778,7 +13158,6 @@ click.infos.sncf.com CNAME .
 click.inspire.integrativenutrition.com CNAME .
 click.jp.novartis.com CNAME .
 click.lakeblackshearresort-email.com CNAME .
-click.list.lonelyplanet.com CNAME .
 click.lottery.ohio.gov CNAME .
 click.m.mos.jp CNAME .
 click.m30.mileonedlr.com CNAME .
@@ -12788,6 +13167,7 @@ click.magneto.motordlr.com CNAME .
 click.mail.cedyna.co.jp CNAME .
 click.mail.dermoskinbeauty.com.mx CNAME .
 click.mail.evino.com.br CNAME .
+click.mail.fmasfarmacias.es CNAME .
 click.mail.gerbergear.com CNAME .
 click.mail.grupovaughan.com CNAME .
 click.mail.laroche-posay.cl CNAME .
@@ -12796,6 +13176,7 @@ click.mail.lepape.com CNAME .
 click.mail.listerine-jp.com CNAME .
 click.mail.mattel.com CNAME .
 click.mail.mcarthurglen.com CNAME .
+click.mail.modelo.com.mx CNAME .
 click.mail.msdanz.com CNAME .
 click.mail.patient-message.com CNAME .
 click.mail.pflege.de CNAME .
@@ -12806,6 +13187,7 @@ click.mail.sling.com CNAME .
 click.mail.stylistbeauty-centroamerica.com CNAME .
 click.mail.sunglasswarehouse.com CNAME .
 click.mail.tommy.com CNAME .
+click.mail.uwcsea.edu.sg CNAME .
 click.mail03.goalunited.org CNAME .
 click.mail03.kingdoms.travian.com CNAME .
 click.mail03.travian.com CNAME .
@@ -12816,6 +13198,7 @@ click.mailing.leenbakker.nl CNAME .
 click.mailing.omoda.com CNAME .
 click.mailing.telus.com CNAME .
 click.manifold.motordlr.com CNAME .
+click.marcuscar.motordlr.com CNAME .
 click.marcusfurniturestores.com CNAME .
 click.marellaorders.com CNAME .
 click.marketing-sportsmansguide.com CNAME .
@@ -12839,6 +13222,7 @@ click.messages.plymouth.edu CNAME .
 click.messages.postmates.com CNAME .
 click.mktg.cwfncl.com CNAME .
 click.motorcab.motordlr.com CNAME .
+click.motorwagen.motordlr.com CNAME .
 click.msfmail.ouicar.com CNAME .
 click.my.loanpal.com CNAME .
 click.n.bodynature.fr CNAME .
@@ -12860,20 +13244,24 @@ click.news.linio.com.pe CNAME .
 click.news.loggi.com CNAME .
 click.news.medela.ca CNAME .
 click.news.medela.co.uk CNAME .
+click.news.medela.com.au CNAME .
 click.news.medela.de CNAME .
 click.news.medela.it CNAME .
 click.news.moneyhouse.ch CNAME .
 click.news.netpincer.hu CNAME .
 click.news.pimkie.com CNAME .
 click.news.swift.com.br CNAME .
+click.newsfromted.com CNAME .
 click.newsletter.icesports.com CNAME .
 click.newsletter.kanui.com.br CNAME .
 click.newsletter.nyra.com CNAME .
 click.newsletter.reebok.co.za CNAME .
+click.newsletter.weekendesk.com CNAME .
 click.nl.abbvie.com CNAME .
 click.nl.coop-vitality.ch CNAME .
 click.nl.lumimart.ch CNAME .
 click.no.abbvie.com CNAME .
+click.noreplyslatergordon-email.com.au CNAME .
 click.nowgallery.co.uk CNAME .
 click.nzme-mail.co.nz CNAME .
 click.o.toysrusmena.com CNAME .
@@ -12887,7 +13275,6 @@ click.pulley.motordlr.com CNAME .
 click.quattro.motordlr.com CNAME .
 click.redrover-alerts.org CNAME .
 click.regions.sncf.com CNAME .
-click.renoaces-mail.com CNAME .
 click.reply.calpol.co.uk CNAME .
 click.reply.ien.com CNAME .
 click.rotary.motordlr.com CNAME .
@@ -12895,6 +13282,7 @@ click.s7.inboundtestdomain.com CNAME .
 click.s7.sfmc-demo.com CNAME .
 click.salesforce.thaiunion.com CNAME .
 click.savoymiami-email.com CNAME .
+click.scotchoakburncollege.com CNAME .
 click.se.abbvie.com CNAME .
 click.se.sportsenginestudio.com CNAME .
 click.seminar.axa.co.jp CNAME .
@@ -12913,6 +13301,7 @@ click.sfmc.haventreebank.com CNAME .
 click.sfmcmail.bankersinsurance.com CNAME .
 click.sfmcmail.indochino.com CNAME .
 click.sfmcmail.vanwagenen.com CNAME .
+click.sfxii-em.com CNAME .
 click.shokuiki.tokiomarine-nichido.co.jp CNAME .
 click.simplify.vivint.com CNAME .
 click.smarteyes.com CNAME .
@@ -12930,20 +13319,20 @@ click.t.connect.transportnsw.info CNAME .
 click.teamzakelijk.essent.nl CNAME .
 click.teliab2b.no CNAME .
 click.thriftbooks-email.com CNAME .
-click.tim.sf.celulardireto.com.br CNAME .
-click.tmmessenger.ticketmaster.com CNAME .
 click.travel.cruiseabout.com.au CNAME .
 click.twocycle.motordlr.com CNAME .
 click.unitedwaychattanooga-email.com CNAME .
 click.unitedwayofshr.com CNAME .
+click.uwce-email.com CNAME .
 click.uwci.online CNAME .
 click.v26.eautodlr.com CNAME .
 click.verabradleyemail.com CNAME .
+click.virtue-email.com CNAME .
 click.vivo.sf.celulardireto.com.br CNAME .
 click.votreprofil.pagesjaunes.fr CNAME .
 click.washercampaign.whirlpool.com CNAME .
+click.wilmingtongroup-email.com CNAME .
 click.worldsbestcatlitter.info CNAME .
-click.xcaret.vacations CNAME .
 click.xdexnews.com.br CNAME .
 click.xpasset-news.com.br CNAME .
 click.yesnetwork-info.com CNAME .
@@ -12951,7 +13340,9 @@ tl-v49cbqtg9s0pfj9pl8q2tyh1y.click-sap.sfmc-marketing.com CNAME .
 tl09jtg1v230cqt0pz7lw1ff2n2m.click-sap.sfmc-marketing.com CNAME .
 tl1bpky6gdd427pcn813821px4v8.click-sap.sfmc-marketing.com CNAME .
 tl275vgsxyth4w-rfnk9nr1b4j70.click-sap.sfmc-marketing.com CNAME .
+tl6jf5jw59qnsxlvh86qk-0kzbkq.click-sap.sfmc-marketing.com CNAME .
 tl7cxbmztjy6sxpvr42chzh0fbmy.click-sap.sfmc-marketing.com CNAME .
+tl7jx72jmd5q55trm1ksdq77hs41.click-sap.sfmc-marketing.com CNAME .
 tl8m6xvgjt9yrr2gl6xlswplqqj8.click-sap.sfmc-marketing.com CNAME .
 tl967l29wn4h92sbtwmx1f4w53v0.click-sap.sfmc-marketing.com CNAME .
 tlbn5090-2gmw0lct0bq717vfg14.click-sap.sfmc-marketing.com CNAME .
@@ -12961,21 +13352,23 @@ tlf76jk17gz68vr6jhh8p7j79qwq.click-sap.sfmc-marketing.com CNAME .
 tlgvz8r5p9l-yzsd95qpm922lm71.click-sap.sfmc-marketing.com CNAME .
 tlhb6bbxxbvrqj9f52g78qd-ns91.click-sap.sfmc-marketing.com CNAME .
 tlhx-r7s82jj8w-cdwj0z1w-pnmy.click-sap.sfmc-marketing.com CNAME .
-tlkd3q3r7kxsdtfbrlt96lsp5n44.click-sap.sfmc-marketing.com CNAME .
 tlm03w78z9r2y9t-h39wm2d9sh8q.click-sap.sfmc-marketing.com CNAME .
 tlm059kf-yj606k5w13527cnghdq.click-sap.sfmc-marketing.com CNAME .
+tlpcb0n9vb7dtj0xdpmxzwzdmvsm.click-sap.sfmc-marketing.com CNAME .
+tlpj211lbds17x16xh58l52qc9-4.click-sap.sfmc-marketing.com CNAME .
 tlpvsc2v4hpnw9y9vpfmrw40gd5y.click-sap.sfmc-marketing.com CNAME .
 tlpx0wkxx3lw2r161cft86x170f0.click-sap.sfmc-marketing.com CNAME .
 tlq05c08gcdnkj-q7gmsxk6m3xm1.click-sap.sfmc-marketing.com CNAME .
-tlq797wznl8r3vl0p85s4rxvz6z0.click-sap.sfmc-marketing.com CNAME .
 tls78j1vb6ppvq2hcy-nqf14jz00.click-sap.sfmc-marketing.com CNAME .
 tlsnzltqjs-y580m3xn51lmlcr94.click-sap.sfmc-marketing.com CNAME .
 tlt57g-ctp6ct4f2vjw6y4m1t4-8.click-sap.sfmc-marketing.com CNAME .
 tlv62s5plsdnvvm8hcdkq3g64hr4.click-sap.sfmc-marketing.com CNAME .
 tlvppnd4jwlk6hvdhhczgc85w2fm.click-sap.sfmc-marketing.com CNAME .
 tlw5-zjh2wthp07h9bljv2yyyt60.click-sap.sfmc-marketing.com CNAME .
+tlx0yz28wq0mgqj3fn5mf8qyhck1.click-sap.sfmc-marketing.com CNAME .
 tlx640bx93-t3fvw0vw9g8x3pr-4.click-sap.sfmc-marketing.com CNAME .
 tlx74195-s439xl4hhdrqr524mgq.click-sap.sfmc-marketing.com CNAME .
+tlxmk2yzzmdmrzjg0hzkmm164mk1.click-sap.sfmc-marketing.com CNAME .
 tlynv7j4kj-6jks081hk5r6y42v4.click-sap.sfmc-marketing.com CNAME .
 click.agy.newyorklife.com CNAME .
 click.comunicacao.casasbahiapay.com.br CNAME .
@@ -12992,9 +13385,9 @@ click.redvw.mx CNAME .
 click.sfmc-tlsprovisioning.com CNAME .
 click.steamboat.uwyo.edu CNAME .
 click.whs.questdiagnostics.com CNAME .
-cloud.ieb.es CNAME .
 cloud.university.haifa.ac.il CNAME .
 image.s1.qa1.inboundtestdomain.com CNAME .
+images.emails.united.com CNAME .
 mktcloud.imagin.com CNAME .
 view.comunicacao.casasbahiapay.com.br CNAME .
 view.informa.zurich.es CNAME .

@@ -210,6 +210,7 @@
     * 95e65062-vpau4sdp.cname.ebis.ne.jp
     * 95e65062-y5awr3vc.cname.ebis.ne.jp
     * 95e7c514-cb9pban5.cname.ebis.ne.jp
+    * 95e9a461-memwrhsw.cname.ebis.ne.jp
     * 97f837ca-gwbfzy7a.cname.ebis.ne.jp
     * 98123393-x6zeryuc.cname.ebis.ne.jp
     * 98322136-yc6thrwp.cname.ebis.ne.jp
@@ -582,6 +583,7 @@
 | adebis.juku.st | 95e65062-vpau4sdp.cname.ebis.ne.jp |
 | adebis02.juku.st | 95e65062-y5awr3vc.cname.ebis.ne.jp |
 | aaa.aqualink.tv | 95e7c514-cb9pban5.cname.ebis.ne.jp |
+| ae.kango-oshigoto.jp | 95e9a461-memwrhsw.cname.ebis.ne.jp |
 | ebistoppan4.velox-nobooster.com | 97f837ca-gwbfzy7a.cname.ebis.ne.jp |
 | cnameforitp.dermed.jp | 98123393-x6zeryuc.cname.ebis.ne.jp |
 | hoxsin-ad.hoxsin.co.jp | 98322136-yc6thrwp.cname.ebis.ne.jp |

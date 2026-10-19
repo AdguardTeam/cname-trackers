@@ -216,7 +216,6 @@ s.cuoresportivo.no
 s.cybercompass.io
 s.ergotherapieblog.de
 s.fraservotes.com
-s.freelanceratecalculator.com
 s.glimesh.tv
 s.hueman.vision
 s.innoq.com
@@ -449,7 +448,6 @@ stats.iscc-system.org
 stats.isthispoisonivy.website
 stats.ivs.rocks
 stats.jacksonwel.sh
-stats.jamesevers.co.uk
 stats.jamesilesantiques.com
 stats.jamhouse.app
 stats.jansix.at

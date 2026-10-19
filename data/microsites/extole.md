@@ -269,6 +269,7 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
@@ -441,7 +442,6 @@
     * pottery-barn.extole.io
     * princess.extole.io
     * princessau.extole.io
-    * princesscruises.em.extole.io
     * princessuk.extole.io
     * prokeds.extole.io
     * propark.extole.io
@@ -486,7 +486,6 @@
     * savers.extole.io
     * seabourn.extole.io
     * sesamecare.extole.io
-    * sftp.extole.io
     * shark-clean.extole.io
     * sharkninja.extole.io
     * shibumishade.extole.io
@@ -862,6 +861,7 @@
 | share.firstleaf.com | firstleaf.extole.io |
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
@@ -1196,7 +1196,6 @@
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
 | refer-au.princess.com | princessau.extole.io |
-| em1476.princesscruises.com | princesscruises.em.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
@@ -1256,7 +1255,6 @@
 | refer.seabourn.com | seabourn.extole.io |
 | refer.seniorhelpers.com | seniorhelpers.extole.com |
 | share.sesamecare.com | sesamecare.extole.io |
-| sftp.extole.com | sftp.extole.io |
 | friend.sharefile.com | sharefile-ssl.extole.com |
 | refer.sharkclean.com | shark-clean.extole.io |
 | refer.sharkninja.com | sharkninja.extole.io |
@@ -1430,6 +1428,7 @@
 | refer.whitehouseblackmarket.com | whitehouseblackmarket.extole.io |
 | share.wimp.no | wimp.extole.com |
 | refer.wine.com | wine.extole.io |
+| share.mydogdna.com | wisdompanel.extole.io |
 | share.optimal-selection.com | wisdompanel.extole.io |
 | share.wisdompanel.com | wisdompanel.extole.io |
 | share.wombatinvest.com | wombat.extole.io |

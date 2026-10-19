@@ -65,7 +65,6 @@ cdn.datateam.co.uk
 cdn.headlinesmart.com
 cdn.leightonbroadcasting.com
 cdn.mequoda.com
-cdn.myadsmyanmar.com
 cdn.personare.com.br
 cdn.pinktriangle.ca
 cdn.revive-adserver.net
@@ -118,11 +117,13 @@ console.pinktriangle.ca
 console.polity.org.za
 console.postandparcel.info
 console.pppmag.com
+console.quirks.com
 console.revive-adserver.net
 console.rlnads.net
 console.sacommunications.com
 console.schrotundkorn.de
 console.swiss-equestrian.ch
+console.tahoe.com
 console.thedailyhorn.com
 console.trackandfieldnews.com
 console.unionesarda.it
@@ -178,7 +179,6 @@ questico-ads.reviveservers.com
 revive-console.worldscreen.com
 revive-static.worldscreen.com
 revive.ahk.de
-revive.teck.com.br
 revive.worldscreen.com
 reviveapi.geenstijl.nl
 rtvutrecht-static.reviveservers.com
@@ -213,7 +213,6 @@ servedby.mannixmarketing.com
 servedby.medlabmag.com
 servedby.miningweekly.com
 servedby.mondiale.co.uk
-servedby.myadsmyanmar.com
 servedby.palmbeachmedia.com
 servedby.personare.com.br
 servedby.pinktriangle.ca
@@ -243,6 +242,7 @@ static.ads.fantasanremo.com
 static.ahk.de
 static.ammoland.com
 static.aqua-adserver.com
+static.bidspotter.co.uk
 static.biohandel.de
 static.blulab.net
 static.ceramicartsnetwork.org

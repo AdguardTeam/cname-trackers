@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791806551628        ; Serial
+           1792414101648        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -67,6 +67,7 @@ data.babista.nl CNAME .
 data.campaign.prenatal.com CNAME .
 data.campaign.toyscenter.it CNAME .
 data.charles-colby.com CNAME .
+data.cuadernosdeseguridad.com CNAME .
 data.email.riverford.co.uk CNAME .
 data.engelhorn.com CNAME .
 data.engelhorn.de CNAME .
@@ -350,6 +351,7 @@ web.tummytox.es CNAME .
 web.tummytox.fr CNAME .
 web.tummytox.it CNAME .
 web.tummytox.pt CNAME .
+web.tummytox.ro CNAME .
 web.tummytox.sk CNAME .
 web.update.sandiego.org CNAME .
 web.updates.ditano.com CNAME .

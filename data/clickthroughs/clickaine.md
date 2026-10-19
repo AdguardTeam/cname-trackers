@@ -75,7 +75,8 @@
 | ddd.contoseroticoscnn.com | api.clickaine.com |
 | ddd.sexstories69.com | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
-| excavajo52.gimmeporn.xyz | api.clickaine.com |
+| ejjjkil2112.gimmeporn.xyz | api.clickaine.com |
+| excavajo54.gimmeporn.xyz | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
 | fotos.brandnewapp.pro | api.clickaine.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791803560435        ; Serial
+           1792414101648        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -786,6 +786,7 @@ data-60d896f23d.maz-online.de CNAME .
 data-60d896f23d.ndz.de CNAME .
 data-60d896f23d.neuepresse.de CNAME .
 data-60d896f23d.oaz-online.de CNAME .
+data-60d896f23d.ostsee-zeitung.de CNAME .
 data-60d896f23d.ovz-online.de CNAME .
 data-60d896f23d.paz-online.de CNAME .
 data-60d896f23d.radiome.at CNAME .
@@ -1633,6 +1634,7 @@ data-d3b7b07de5.apps.iocnt.de CNAME .
 data-d3b9450695.tv-media.at CNAME .
 data-d410bbe8e2.apps.iocnt.de CNAME .
 data-d47b934372.regionalheute.de CNAME .
+data-d4cb803d00.uni-bremen.de CNAME .
 data-d4db30a18b.borkumer-zeitung.de CNAME .
 data-d4db30a18b.ga-online.de CNAME .
 data-d4db30a18b.on-online.de CNAME .
@@ -1841,6 +1843,7 @@ data-f10a591664.caraworld.de CNAME .
 data-f10a591664.promobil.de CNAME .
 data-f13c34cd1a.scienceblogs.de CNAME .
 data-f13c34cd1a.wissen.de CNAME .
+data-f15e5b2d9d.apps.iocnt.de CNAME .
 data-f16abe2047.daskochrezept.de CNAME .
 data-f19e72ba06.dmax.de CNAME .
 data-f1c47705fc.profi.de CNAME .
@@ -2037,10 +2040,10 @@ pool2.ioam.de CNAME .
 pool4.ioam.de CNAME .
 pool5.ioam.de CNAME .
 report.oewa.at CNAME .
+source-66584305d5.mainpost.de CNAME .
 source-ed91a21bf0.dastelefonbuch.de CNAME .
 vorausweisung.report.oewa.at CNAME .
 vote.apps.iocnt.de CNAME .
 www.apps.iocnt.de CNAME .
 www2.dk-online.de CNAME .
 xnasldata-63224ea7ba.apps.iocnt.de CNAME .
-source-66584305d5.mainpost.de CNAME .

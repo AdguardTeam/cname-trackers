@@ -775,6 +775,7 @@
 ||data-60d896f23d.ndz.de^
 ||data-60d896f23d.neuepresse.de^
 ||data-60d896f23d.oaz-online.de^
+||data-60d896f23d.ostsee-zeitung.de^
 ||data-60d896f23d.ovz-online.de^
 ||data-60d896f23d.paz-online.de^
 ||data-60d896f23d.radiome.at^
@@ -1622,6 +1623,7 @@
 ||data-d3b9450695.tv-media.at^
 ||data-d410bbe8e2.apps.iocnt.de^
 ||data-d47b934372.regionalheute.de^
+||data-d4cb803d00.uni-bremen.de^
 ||data-d4db30a18b.borkumer-zeitung.de^
 ||data-d4db30a18b.ga-online.de^
 ||data-d4db30a18b.on-online.de^
@@ -1830,6 +1832,7 @@
 ||data-f10a591664.promobil.de^
 ||data-f13c34cd1a.scienceblogs.de^
 ||data-f13c34cd1a.wissen.de^
+||data-f15e5b2d9d.apps.iocnt.de^
 ||data-f16abe2047.daskochrezept.de^
 ||data-f19e72ba06.dmax.de^
 ||data-f1c47705fc.profi.de^
@@ -2026,10 +2029,10 @@
 ||pool4.ioam.de^
 ||pool5.ioam.de^
 ||report.oewa.at^
+||source-66584305d5.mainpost.de^
 ||source-ed91a21bf0.dastelefonbuch.de^
 ||vorausweisung.report.oewa.at^
 ||vote.apps.iocnt.de^
 ||www.apps.iocnt.de^
 ||www2.dk-online.de^
 ||xnasldata-63224ea7ba.apps.iocnt.de^
-||source-66584305d5.mainpost.de^

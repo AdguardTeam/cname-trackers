@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791809010955        ; Serial
+           1792417596571        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,6 +44,8 @@ te.sieh-an.de CNAME .
 te.universal.at CNAME .
 te.waeschepur.de CNAME .
 te.witt-international.cz CNAME .
+te.witt-international.nl CNAME .
+te.witt-international.sk CNAME .
 te.witt-weiden.at CNAME .
 te.witt-weiden.ch CNAME .
 te.witt-weiden.de CNAME .

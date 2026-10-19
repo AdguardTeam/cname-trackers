@@ -254,8 +254,6 @@
 ||ensighten.staging2.cedar.digital^
 ||ensightenone.danskespil.dk^
 ||fcone.demo-charitablegift.com^
-||fcone.fidelity.com^
-||fcone.fidelitycharitable.org^
 ||fctms.demo-charitablegift.com^
 ||fctms.fidelity.com^
 ||fctms.fidelitycharitable.org^

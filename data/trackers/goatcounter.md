@@ -58,6 +58,7 @@
     * denatlahise.goatcounter.com
     * dheinemann.goatcounter.com
     * digitaleyes.goatcounter.com
+    * dijugar.goatcounter.com
     * dungeon.goatcounter.com
     * eithel.goatcounter.com
     * elkobraas.goatcounter.com
@@ -140,6 +141,7 @@
     * neverhill.goatcounter.com
     * ngdangtu.goatcounter.com
     * niravraval.goatcounter.com
+    * northshoreuke.goatcounter.com
     * noscirep.goatcounter.com
     * novi.goatcounter.com
     * nullbit5.goatcounter.com
@@ -282,6 +284,7 @@
 | stats.denatlahi.se | denatlahise.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
 | analytics.digitaleyes.ai | digitaleyes.goatcounter.com |
+| stats.dijugar.com | dijugar.goatcounter.com |
 | gc.securitydungeon.sk | dungeon.goatcounter.com |
 | stats.eithel.org | eithel.goatcounter.com |
 | statistic.elkobraas.com | elkobraas.goatcounter.com |
@@ -377,6 +380,7 @@
 | goat.neverhill.net | neverhill.goatcounter.com |
 | stats.ngdangtu.com | ngdangtu.goatcounter.com |
 | stats.niravraval.com | niravraval.goatcounter.com |
+| stats.northshoreuke.ca | northshoreuke.goatcounter.com |
 | gc.noscirep.com | noscirep.goatcounter.com |
 | novi.webnovi.eu | novi.goatcounter.com |
 | stats.azeroths-most-wanted.eu.org | nullbit5.goatcounter.com |

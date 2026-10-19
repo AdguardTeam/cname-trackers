@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791809781708        ; Serial
+           1792408218274        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -46,6 +46,7 @@ content03.genius.tv CNAME .
 controlling.bartenbach.de CNAME .
 ct.krauss.app CNAME .
 ctrl.guenther.de CNAME .
+customer.fenster-gawelda.de CNAME .
 customer.growmart.de CNAME .
 data.diekuechedirekt.de CNAME .
 data.drhauschka.de CNAME .
@@ -59,6 +60,7 @@ defabc.black-label-coffee.de CNAME .
 dev.schmutte.com CNAME .
 dts.suchmeisterei.de CNAME .
 dzt.germany.travel CNAME .
+e.buechnerbarella.de CNAME .
 e.heimat.style CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
@@ -331,6 +333,7 @@ tracking.chio.hu CNAME .
 tracking.drs.de CNAME .
 tracking.formaxx.de CNAME .
 tracking.gruener-soelden.com CNAME .
+tracking.haf.agency CNAME .
 tracking.holter.at CNAME .
 tracking.lanxess.com CNAME .
 tracking.lotto-sh.de CNAME .
@@ -366,6 +369,7 @@ vault.raiffeisen-bio-brennstoffe.de CNAME .
 vault.raiffeisenmarkt.de CNAME .
 wa.heimatlinse.de CNAME .
 wbtr.chgmeridian.com CNAME .
+wcon.eppi.cz CNAME .
 wctr.aures.ag CNAME .
 wctr.bodenverkauf.de CNAME .
 wctr.hoeping.de CNAME .
@@ -390,7 +394,9 @@ web.satiata-med.de CNAME .
 web.sihl-direct.de CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
+webaus.test.dw-shop.de CNAME .
 webcon.se-legal.de CNAME .
+webcon.tomphillipzenker.de CNAME .
 webcont.zorge.com CNAME .
 webcontr-erbe.mein-erbe-tut-gutes.de CNAME .
 webcontr-magazin.mein-erbe-tut-gutes.de CNAME .
@@ -406,6 +412,7 @@ webcontr.beautyavenue.de CNAME .
 webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .
 webcontr.bonbonladenundfeines.de CNAME .
+webcontr.cargocover.de CNAME .
 webcontr.caso-design.de CNAME .
 webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
@@ -521,6 +528,7 @@ webstt0024.onofficeom.com CNAME .
 webstt0027.onofficeom.com CNAME .
 webstt0028.onofficeom.com CNAME .
 webstt0029.onofficeom.com CNAME .
+webstt0030.onofficeom.com CNAME .
 webstt0031.onofficeom.com CNAME .
 webstt0032.onofficeom.com CNAME .
 webstt0033.onofficeom.com CNAME .

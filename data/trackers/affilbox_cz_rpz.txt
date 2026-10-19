@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791803553806        ; Serial
+           1792414101648        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -74,7 +74,6 @@ affil.snadnejsizivot.cz CNAME .
 affil.somavedic.cz CNAME .
 affil.sportinator.cz CNAME .
 affil.spravnykrok.cz CNAME .
-affil.stastnavovztahu.sk CNAME .
 affil.supervykon.cz CNAME .
 affil.svepomoci.cz CNAME .
 affil.svj-info.cz CNAME .
@@ -127,7 +126,6 @@ affiliate.ckslniecko.sk CNAME .
 affiliate.cocowoods.cz CNAME .
 affiliate.cojestpocviceni.sk CNAME .
 affiliate.compik.cz CNAME .
-affiliate.coolcredit.cz CNAME .
 affiliate.craftholsters.com CNAME .
 affiliate.cryptokingdom.cz CNAME .
 affiliate.czc.cz CNAME .
@@ -270,6 +268,7 @@ ambassadors.childhoodpotential.club CNAME .
 ambassadors.childhoodpotential.com CNAME .
 ambassadors.guideandgrow.com CNAME .
 analytics.algomoneo.com CNAME .
+app.axl.cz CNAME .
 box.kryptotrejder.sk CNAME .
 champions.betubetu.com CNAME .
 collab.zdravetricko.cz CNAME .
@@ -451,6 +450,7 @@ partner.bydlimekrasne.cz CNAME .
 partner.bylinkovysvet.com CNAME .
 partner.cakemarket.eu CNAME .
 partner.candy.cz CNAME .
+partner.caricia.sk CNAME .
 partner.caskrmeni.cz CNAME .
 partner.cbdcko.cz CNAME .
 partner.cbdstar.cz CNAME .
@@ -643,7 +643,6 @@ partner.nanolab.cz CNAME .
 partner.nanolab.sk CNAME .
 partner.nanotech-europe.cz CNAME .
 partner.naplne.cz CNAME .
-partner.naseano.cz CNAME .
 partner.naslouchamesrdcem.cz CNAME .
 partner.natubea.cz CNAME .
 partner.naturinka.cz CNAME .
@@ -680,14 +679,12 @@ partner.poporostem.cz CNAME .
 partner.porovnejsito.cz CNAME .
 partner.pozitivnerozpravky.sk CNAME .
 partner.ppb-pohary.cz CNAME .
-partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .
 partner.premavita.sk CNAME .
 partner.premiove-matrace.cz CNAME .
 partner.probione.com CNAME .
 partner.prodejniakademie.cz CNAME .
 partner.prohrejeme.cz CNAME .
-partner.prosperity-vision.com CNAME .
 partner.prosperk.cz CNAME .
 partner.psidetektiv.cz CNAME .
 partner.pureharmony.cz CNAME .
@@ -700,7 +697,6 @@ partner.robotworld.sk CNAME .
 partner.root.cz CNAME .
 partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
-partner.rozvoj-osobny.sk CNAME .
 partner.ruzovyslon.cz CNAME .
 partner.salibandy.shop CNAME .
 partner.sambalshop.cz CNAME .
@@ -854,7 +850,6 @@ partneri.lucie-konigova.cz CNAME .
 partneri.majstervposteli.sk CNAME .
 partneri.manazujmehravo.sk CNAME .
 partneri.mariorozensky.cz CNAME .
-partneri.mebline.cz CNAME .
 partneri.metodajih.cz CNAME .
 partneri.minshop.cz CNAME .
 partneri.minus-age.cz CNAME .
@@ -897,6 +892,7 @@ partneri.sportfotbal.cz CNAME .
 partneri.sportmentor.cz CNAME .
 partneri.stastnamysl.cz CNAME .
 partneri.supportbox.cz CNAME .
+partneri.suri.cz CNAME .
 partneri.svetfitness.cz CNAME .
 partneri.sviicka.cz CNAME .
 partneri.tanahavlickova.cz CNAME .
@@ -931,7 +927,6 @@ partnerzy.styrcon.pl CNAME .
 plus.bezvavlasy.cz CNAME .
 plus.mameradivlasy.cz CNAME .
 promo.smskouc.cz CNAME .
-promo.vyzkousejhizero.cz CNAME .
 provize.3dfitness.cz CNAME .
 provize.brilas.cz CNAME .
 provize.dzumdzum.cz CNAME .
@@ -976,6 +971,7 @@ spoluprace.narozlucku.cz CNAME .
 spoluprace.nordictelecom.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
+spoluprace.prehrajto.cz CNAME .
 spoluprace.prostor8.cz CNAME .
 spoluprace.sikland.cz CNAME .
 spoluprace.skolnitriko.cz CNAME .

@@ -10,6 +10,7 @@
 ||analytics.effectory.com^
 ||analytics.ferrero.com^
 ||analytics.hr.nl^
+||analytics.kuka.com^
 ||analytics.ravelz.com^
 ||analytics.wavelz.com^
 ||analytics.webanalytics.op.europa.eu^
@@ -28,6 +29,7 @@
 ||logfiles.storck.com^
 ||metrics.equans.ch^
 ||mphdd.multipharma.be^
+||old.piwikpro.fr^
 ||p-k.kuka.com^
 ||p-pan.triodos.com^
 ||p.klett-vorschau.de^

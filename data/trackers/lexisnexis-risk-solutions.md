@@ -169,6 +169,7 @@
     * h-6do2934n.online-metrix.net
     * h-6ej4o5iw.online-metrix.net
     * h-6fg6rcgd.online-metrix.net
+    * h-6hpsl0li.online-metrix.net
     * h-6i24djkv.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
     * h-6mlhprq2-1.online-metrix.net
@@ -372,6 +373,8 @@
     * h-betmgm.online-metrix.net
     * h-bewnb8q4.online-metrix.net
     * h-beyondbank.online-metrix.net
+    * h-bfcgurq6.online-metrix.net
+    * h-bfcsa.online-metrix.net
     * h-bfiiada3-a.online-metrix.net
     * h-bh34215h.online-metrix.net
     * h-bhs5fatf-2.online-metrix.net
@@ -540,8 +543,6 @@
     * h-dstssc.online-metrix.net
     * h-dubkxo24.online-metrix.net
     * h-dvuqc0gt.online-metrix.net
-    * h-dwiy84jk-a.online-metrix.net
-    * h-dwiy84jk.online-metrix.net
     * h-dx4dn1mq.online-metrix.net
     * h-dxmw0w7i.online-metrix.net
     * h-dy06hdpq.online-metrix.net
@@ -623,7 +624,6 @@
     * h-interaconline.online-metrix.net
     * h-intuit.online-metrix.net
     * h-investorsbank.online-metrix.net
-    * h-ipayment.online-metrix.net
     * h-ipp-services.online-metrix.net
     * h-jenius.online-metrix.net
     * h-johnlewisfinance.online-metrix.net
@@ -642,7 +642,6 @@
     * h-k8vif92e-jm.online-metrix.net
     * h-k8vif92e-lulu.online-metrix.net
     * h-k8vif92e-m2pfintech.online-metrix.net
-    * h-k8vif92e-menards.online-metrix.net
     * h-k8vif92e-mo.online-metrix.net
     * h-k8vif92e-pa.online-metrix.net
     * h-k8vif92e-pay.online-metrix.net
@@ -886,7 +885,6 @@
     * h-warrior.online-metrix.net
     * h-webftm.rbc.online-metrix.net
     * h-welabbank.online-metrix.net
-    * h-wepay.online-metrix.net
     * h-werally.online-metrix.net
     * h-westcreek.online-metrix.net
     * h-westpac.online-metrix.net
@@ -979,6 +977,7 @@
 | prod-dccuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-demo.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-dexsta.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-efcu-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-elements-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-ffcuin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-figfcu-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1233,6 +1232,7 @@
 | secure-collector.zen.com | h-6do2934n.online-metrix.net |
 | content.affinityfcu.com | h-6ej4o5iw.online-metrix.net |
 | provider-services.openbank.mx | h-6fg6rcgd.online-metrix.net |
+| tmboi.bol-na.bankofirelanddigital.com | h-6hpsl0li.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
 | tblsdp.tonybetalberta.ca | h-6mlhprq2-1.online-metrix.net |
@@ -1641,6 +1641,10 @@
 | assessment.nj.betmgm.com | h-betmgm.online-metrix.net |
 | secure.idbank.it | h-bewnb8q4.online-metrix.net |
 | tmx.beyondbank.com.au | h-beyondbank.online-metrix.net |
+| ln.bellring.betamerica.com | h-bfcgurq6.online-metrix.net |
+| ln.bellring.keenelandselect.com | h-bfcgurq6.online-metrix.net |
+| ln.bellring.twinspires.com | h-bfcgurq6.online-metrix.net |
+| gateway.bcfsa.ca | h-bfcsa.online-metrix.net |
 | jplspr.jackpot.com | h-bfiiada3-a.online-metrix.net |
 | secure-hub.procreditbank.md | h-bh34215h.online-metrix.net |
 | content.byabcd.com | h-bhs5fatf-2.online-metrix.net |
@@ -1728,6 +1732,7 @@
 | content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| content.prev.connexion.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion.monespace.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
@@ -1777,6 +1782,7 @@
 | content22.citibank.com | h-citibank.online-metrix.net |
 | content22.olb-usmtu2web1.citi.com | h-citibank.online-metrix.net |
 | content22.online.citibank.com | h-citibank.online-metrix.net |
+| contentcmktmx.citigroup.com | h-citibank.online-metrix.net |
 | content22.citibankonline.com | h-citibankonline.online-metrix.net |
 | content22.citicards.com | h-citicards.online-metrix.net |
 | img4.portal.citidirect.com | h-citidirect.online-metrix.net |
@@ -1885,8 +1891,6 @@
 | content.ssctech.com | h-dstssc.online-metrix.net |
 | xmt.paze.com | h-dubkxo24.online-metrix.net |
 | profiling.horizonblue.com | h-dvuqc0gt.online-metrix.net |
-| servicesdp.spinaway.ca | h-dwiy84jk-a.online-metrix.net |
-| servicesdp.luckydays.ca | h-dwiy84jk.online-metrix.net |
 | tfet.claimyourcashfl.gov | h-dx4dn1mq.online-metrix.net |
 | cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
 | rqt-cl-cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
@@ -2050,7 +2054,6 @@
 | content.interaconline.com | h-interaconline.online-metrix.net |
 | pf.intuit.com | h-intuit.online-metrix.net |
 | log.open.investorsbank.com | h-investorsbank.online-metrix.net |
-| res.pay.ionos.com | h-ipayment.online-metrix.net |
 | tags.ipp-services.eu | h-ipp-services.online-metrix.net |
 | device-profile.jeniusbank.com | h-jenius.online-metrix.net |
 | cdntm.johnlewisfinance.com | h-johnlewisfinance.online-metrix.net |
@@ -2071,7 +2074,6 @@
 | cdncy.jmbullion.com | h-k8vif92e-jm.online-metrix.net |
 | checkout-df.lululemon.com | h-k8vif92e-lulu.online-metrix.net |
 | dm-visapay.m2pfintech.com | h-k8vif92e-m2pfintech.online-metrix.net |
-| c.menards.com | h-k8vif92e-menards.online-metrix.net |
 | mobile.du.ae | h-k8vif92e-mo.online-metrix.net |
 | verify.philippineairlines.com | h-k8vif92e-pa.online-metrix.net |
 | rs.pay.com | h-k8vif92e-pay.online-metrix.net |
@@ -2325,7 +2327,6 @@
 | fp.corporatetravelmoney.com | h-trlx.online-metrix.net |
 | check2.tsb.co.uk | h-tsb.online-metrix.net |
 | lnths.twc.texas.gov | h-twctexas.online-metrix.net |
-| content.ezaem.ru | h-twino.online-metrix.net |
 | content.incredit.pl | h-twino.online-metrix.net |
 | content.moneza.ru | h-twino.online-metrix.net |
 | content.netcredit.pl | h-twino.online-metrix.net |
@@ -2369,7 +2370,6 @@
 | cache2.warriortrading.com | h-warrior.online-metrix.net |
 | webftm.rbc.com | h-webftm.rbc.online-metrix.net |
 | t1.welab.bank | h-welabbank.online-metrix.net |
-| t.wepay.com | h-wepay.online-metrix.net |
 | assets.werally.co | h-werally.online-metrix.net |
 | content.westcreekfin.com | h-westcreek.online-metrix.net |
 | cdn1.thm.bankofmelbourne.com.au | h-westpac.online-metrix.net |

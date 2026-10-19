@@ -158,7 +158,6 @@
 ||black-cat.crypto.com^
 ||bland.starone.org^
 ||business.cebuanalhuillier.com^
-||c.menards.com^
 ||cache2.warriortrading.com^
 ||catalyst.mashreq.com^
 ||caveo.boost-my.com^
@@ -380,7 +379,6 @@
 ||content.espace-client.hellobank.fr^
 ||content.etransfer.interac.ca^
 ||content.evisa.mofa.go.jp^
-||content.ezaem.ru^
 ||content.ezbills.com^
 ||content.familyprepaiddebit.com^
 ||content.fig.ca^
@@ -465,6 +463,7 @@
 ||content.presentment.com^
 ||content.prev-espace-client.hellobank.fr^
 ||content.prev.connexion-mabanque.bnpparibas^
+||content.prev.connexion.hellobank.fr^
 ||content.prev.connexion.monespace.bnpparibas^
 ||content.qudosbank.com.au^
 ||content.quicken.com^
@@ -549,6 +548,7 @@
 ||content4c.iberia.com^
 ||content55.getupgraded.com^
 ||content9.lendingtree.com^
+||contentcmktmx.citigroup.com^
 ||contentdna.pemco.com^
 ||contentfd.directcapital.com^
 ||contentimage.fretebras.com.br^
@@ -705,6 +705,7 @@
 ||fsta.leboncoin.info^
 ||ftd.quodxx.com.br^
 ||fulfillment-ups.squareup.com^
+||gateway.bcfsa.ca^
 ||gateway.jmbullion.com^
 ||geo.linq.gg^
 ||ghisa.subito.it^
@@ -815,6 +816,9 @@
 ||lght.loberon.com^
 ||line.bd.com^
 ||ln.acornfun.com^
+||ln.bellring.betamerica.com^
+||ln.bellring.keenelandselect.com^
+||ln.bellring.twinspires.com^
 ||ln.betboom.com^
 ||ln.cash.app^
 ||ln.cidercasino.com^
@@ -960,6 +964,7 @@
 ||prod-dccuva.chaperone.lumindigitalhosting.com^
 ||prod-demo.chaperone.lumindigitalhosting.com^
 ||prod-dexsta.chaperone.lumindigitalhosting.com^
+||prod-efcu-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-elements-mercury2023.chaperone.lumindigitalhosting.com^
 ||prod-ffcuin.chaperone.lumindigitalhosting.com^
 ||prod-figfcu-mercury2023.chaperone.lumindigitalhosting.com^
@@ -1082,7 +1087,6 @@
 ||regstat.skyvegas.com^
 ||req.secured-content.com^
 ||res.1wcommon.com^
-||res.pay.ionos.com^
 ||rfp.intuit.com^
 ||rhino.gocardless.com^
 ||rm-3d84e791.payby.com^
@@ -1141,8 +1145,6 @@
 ||security.vanquis.com^
 ||service.riverscontent.com^
 ||services-tmx.cofidis.cz^
-||servicesdp.luckydays.ca^
-||servicesdp.spinaway.ca^
 ||sess.vippreferred.com^
 ||session.fhlb.com^
 ||sfp.intuit.com^
@@ -1197,7 +1199,6 @@
 ||t.openbankpay.com^
 ||t.sunrise.ch^
 ||t.us.williamhill.com^
-||t.wepay.com^
 ||t.yallo.ch^
 ||t.yt-guard.com^
 ||t.zinia.com^
@@ -1336,6 +1337,7 @@
 ||tm.thescore.bet^
 ||tm.uship.com^
 ||tm4.debsdemo.com^
+||tmboi.bol-na.bankofirelanddigital.com^
 ||tmcdn.7sultanscasino.com^
 ||tmcdn.alljackpotscasino.com^
 ||tmcdn.allslotscasino.com^

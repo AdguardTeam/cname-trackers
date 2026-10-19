@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791803553806        ; Serial
+           1792414101648        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -169,7 +169,6 @@ bkt-prod.sbishinseibank.co.jp CNAME .
 black-cat.crypto.com CNAME .
 bland.starone.org CNAME .
 business.cebuanalhuillier.com CNAME .
-c.menards.com CNAME .
 cache2.warriortrading.com CNAME .
 catalyst.mashreq.com CNAME .
 caveo.boost-my.com CNAME .
@@ -391,7 +390,6 @@ content.energbank.com CNAME .
 content.espace-client.hellobank.fr CNAME .
 content.etransfer.interac.ca CNAME .
 content.evisa.mofa.go.jp CNAME .
-content.ezaem.ru CNAME .
 content.ezbills.com CNAME .
 content.familyprepaiddebit.com CNAME .
 content.fig.ca CNAME .
@@ -476,6 +474,7 @@ content.pnbank.com.au CNAME .
 content.presentment.com CNAME .
 content.prev-espace-client.hellobank.fr CNAME .
 content.prev.connexion-mabanque.bnpparibas CNAME .
+content.prev.connexion.hellobank.fr CNAME .
 content.prev.connexion.monespace.bnpparibas CNAME .
 content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
@@ -560,6 +559,7 @@ content3.risk.lexisnexis.com CNAME .
 content4c.iberia.com CNAME .
 content55.getupgraded.com CNAME .
 content9.lendingtree.com CNAME .
+contentcmktmx.citigroup.com CNAME .
 contentdna.pemco.com CNAME .
 contentfd.directcapital.com CNAME .
 contentimage.fretebras.com.br CNAME .
@@ -716,6 +716,7 @@ fss.glbank.com CNAME .
 fsta.leboncoin.info CNAME .
 ftd.quodxx.com.br CNAME .
 fulfillment-ups.squareup.com CNAME .
+gateway.bcfsa.ca CNAME .
 gateway.jmbullion.com CNAME .
 geo.linq.gg CNAME .
 ghisa.subito.it CNAME .
@@ -826,6 +827,9 @@ lexis.ourtrip.com.br CNAME .
 lght.loberon.com CNAME .
 line.bd.com CNAME .
 ln.acornfun.com CNAME .
+ln.bellring.betamerica.com CNAME .
+ln.bellring.keenelandselect.com CNAME .
+ln.bellring.twinspires.com CNAME .
 ln.betboom.com CNAME .
 ln.cash.app CNAME .
 ln.cidercasino.com CNAME .
@@ -971,6 +975,7 @@ prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-dccuva.chaperone.lumindigitalhosting.com CNAME .
 prod-demo.chaperone.lumindigitalhosting.com CNAME .
 prod-dexsta.chaperone.lumindigitalhosting.com CNAME .
+prod-efcu-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-elements-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-ffcuin.chaperone.lumindigitalhosting.com CNAME .
 prod-figfcu-mercury2023.chaperone.lumindigitalhosting.com CNAME .
@@ -1093,7 +1098,6 @@ regstat.skypoker.com CNAME .
 regstat.skyvegas.com CNAME .
 req.secured-content.com CNAME .
 res.1wcommon.com CNAME .
-res.pay.ionos.com CNAME .
 rfp.intuit.com CNAME .
 rhino.gocardless.com CNAME .
 rm-3d84e791.payby.com CNAME .
@@ -1152,8 +1156,6 @@ secured.netflix.com CNAME .
 security.vanquis.com CNAME .
 service.riverscontent.com CNAME .
 services-tmx.cofidis.cz CNAME .
-servicesdp.luckydays.ca CNAME .
-servicesdp.spinaway.ca CNAME .
 sess.vippreferred.com CNAME .
 session.fhlb.com CNAME .
 sfp.intuit.com CNAME .
@@ -1208,7 +1210,6 @@ t.liberty.com.au CNAME .
 t.openbankpay.com CNAME .
 t.sunrise.ch CNAME .
 t.us.williamhill.com CNAME .
-t.wepay.com CNAME .
 t.yallo.ch CNAME .
 t.yt-guard.com CNAME .
 t.zinia.com CNAME .
@@ -1347,6 +1348,7 @@ tm.telecharge.com CNAME .
 tm.thescore.bet CNAME .
 tm.uship.com CNAME .
 tm4.debsdemo.com CNAME .
+tmboi.bol-na.bankofirelanddigital.com CNAME .
 tmcdn.7sultanscasino.com CNAME .
 tmcdn.alljackpotscasino.com CNAME .
 tmcdn.allslotscasino.com CNAME .

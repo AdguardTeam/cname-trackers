@@ -1,6 +1,7 @@
 #
 # Company name: kib.hu
 adat.888.hu
+adat.agrariumonline.hu
 adat.aradon.ro
 adat.astronet.hu
 adat.automotor.hu

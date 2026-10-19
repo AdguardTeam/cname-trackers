@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791803553806        ; Serial
+           1792411265671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,7 +30,6 @@ $TTL 300
 2aa6f9qgrh9.acc.evservice.nl CNAME .
 2e718yf5jypb.test.digitalsurge.io CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
-2yqcaqbfnv.nextgen.shareablee.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .

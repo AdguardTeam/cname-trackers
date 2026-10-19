@@ -142,6 +142,7 @@
 ||adtrack.kireibiz.jp^
 ||adtrack.loracle.jp^
 ||adtrack.maisonlexia.com^
+||ae.kango-oshigoto.jp^
 ||aesus.so-net.ne.jp^
 ||analyse.hinemos.info^
 ||analytics.pcnext.shop^

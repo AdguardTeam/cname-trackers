@@ -7,13 +7,10 @@
     * akvo.piwik.pro
     * amrest.piwik.pro
     * amsterdam.piwik.pro
-    * ari.piwik.pro
     * aumago.piwik.pro
-    * betus.piwik.pro
     * ch-equans.piwik.pro
     * com-on.piwik.pro
     * czgroep.piwik.pro
-    * dorier-group.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
     * ec-test-infra.piwik.pro
@@ -21,15 +18,18 @@
     * eib.piwik.pro
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
+    * fse.piwik.pro
     * helen.piwik.pro
     * hogeschool.piwik.pro
     * ind.piwik.pro
+    * intennet.piwik.pro
     * klett.piwik.pro
     * kuka.piwik.pro
     * manz.piwik.pro
     * masterworks.piwik.pro
     * multipharma.piwik.pro
     * ns-epublisher.piwik.pro
+    * old.piwik.pro
     * opanalytics.piwik.pro
     * pp-public-p-aea.piwik.pro
     * pp-public-p-euw.piwik.pro
@@ -44,11 +44,9 @@
     * sozialversicherung.piwik.pro
     * stateofohio.piwik.pro
     * storck.piwik.pro
-    * svc-test.piwik.pro
     * tigital.piwik.pro
     * triodos.piwik.pro
     * tweedekamer.piwik.pro
-    * twyzle-prod.piwik.pro
     * uninstalled.piwik.pro
     * uwhealth.piwik.pro
     * uwv.piwik.pro
@@ -64,14 +62,11 @@
 | analytics.akvo.org | akvo.piwik.pro |
 | piwikpro.amrest.eu | amrest.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
-| stats.arinet.com | ari.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
 | tagadmin.aumago.com | aumago.piwik.pro |
-| piwik.slotsparadise.com | betus.piwik.pro |
 | metrics.equans.ch | ch-equans.piwik.pro |
 | piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
-| analytics.digiplace.site | dorier-group.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
 | www.webanalytics-az.acc.fpfis.tech.ec.europa.eu | ec-test-infra.piwik.pro |
@@ -80,17 +75,20 @@
 | piwik.eif.org | eib.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
+| fse.piwikpro.pl | fse.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
 | analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
-| p.klett-vorschau.de | klett.piwik.pro |
+| intranetstats.tennet.eu | intennet.piwik.pro |
 | p.klett.de | klett.piwik.pro |
+| analytics.kuka.com | kuka.piwik.pro |
 | p-k.kuka.com | kuka.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
 | epiphany.masterworks.digital | masterworks.piwik.pro |
 | gmn.gloo.com | masterworks.piwik.pro |
 | mphdd.multipharma.be | multipharma.piwik.pro |
 | statistieken.ns-epublisher.com | ns-epublisher.piwik.pro |
+| old.piwikpro.fr | old.piwik.pro |
 | analytics.webanalytics.op.europa.eu | opanalytics.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
 | analytics.ravelz.com | pp-public-p-aea.piwik.pro |
@@ -100,6 +98,7 @@
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.hr.nl | pp-public-p-euw.piwik.pro |
 | analytics.hr.nl | pp-public-p-euw.piwik.pro |
+| analytics.kuka.com | pp-public-p-euw.piwik.pro |
 | analytics.webanalytics.op.europa.eu | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
@@ -112,7 +111,6 @@
 | piwik.eib.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
-| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwikpro.amrest.eu | pp-public-p-euw.piwik.pro |
@@ -138,12 +136,10 @@
 | analytics.witglobal.net | pp-public-p-gwc.piwik.pro |
 | d.hypobank.ch | pp-public-p-gwc.piwik.pro |
 | d.hypovbg.at | pp-public-p-gwc.piwik.pro |
-| d.hypovbg.at | pp-public-p-gwc.piwik.pro |
 | dgm.imaway.fr | pp-public-p-gwc.piwik.pro |
 | dnsbl.test.tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | game.tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | logfiles.storck.com | pp-public-p-gwc.piwik.pro |
-| p.klett-vorschau.de | pp-public-p-gwc.piwik.pro |
 | p.klett-vorschau.de | pp-public-p-gwc.piwik.pro |
 | p.klett.de | pp-public-p-gwc.piwik.pro |
 | p.zwilling.com | pp-public-p-gwc.piwik.pro |
@@ -166,7 +162,6 @@
 | gmn.gloo.com | pp-public-p-use.piwik.pro |
 | site-analytics.iop.ohio.gov | pp-public-p-use.piwik.pro |
 | analytics.digiplace.site | public-p-swe.piwik.pro |
-| analytics.digiplace.site | public-p-swe.piwik.pro |
 | intranetstats.tennet.eu | public-p-swe.piwik.pro |
 | piwik.com-online.com | public-p-swe.piwik.pro |
 | statistiek.rechtspraak.nl | rechtspraak.piwik.pro |
@@ -176,20 +171,15 @@
 | analytics.dx.ohio.gov | stateofohio.piwik.pro |
 | site-analytics.iop.ohio.gov | stateofohio.piwik.pro |
 | logfiles.storck.com | storck.piwik.pro |
-| analysis-test.sozialversicherung.at | svc-test.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
-| d.hypobank.ch | tigital.piwik.pro |
-| d.hypovbg.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
 | pwk.tweedekamer.nl | tweedekamer.piwik.pro |
-| piwik.twyzle.com | twyzle-prod.piwik.pro |
 | analytics.akvo.org | uninstalled.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | fse.piwikpro.pl | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
-| stats.arinet.com | uninstalled.piwik.pro |
 | stats.arinet.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |
 | a.uwhealth.org | uwhealth.piwik.pro |

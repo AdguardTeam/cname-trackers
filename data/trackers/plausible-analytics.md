@@ -228,7 +228,6 @@
 | s.cybercompass.io | custom.plausible.io |
 | s.ergotherapieblog.de | custom.plausible.io |
 | s.fraservotes.com | custom.plausible.io |
-| s.freelanceratecalculator.com | custom.plausible.io |
 | s.glimesh.tv | custom.plausible.io |
 | s.hueman.vision | custom.plausible.io |
 | s.innoq.com | custom.plausible.io |
@@ -461,7 +460,6 @@
 | stats.isthispoisonivy.website | custom.plausible.io |
 | stats.ivs.rocks | custom.plausible.io |
 | stats.jacksonwel.sh | custom.plausible.io |
-| stats.jamesevers.co.uk | custom.plausible.io |
 | stats.jamesilesantiques.com | custom.plausible.io |
 | stats.jamhouse.app | custom.plausible.io |
 | stats.jansix.at | custom.plausible.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791809781708        ; Serial
+           1792410697665        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -76,7 +76,6 @@ cdn.datateam.co.uk CNAME .
 cdn.headlinesmart.com CNAME .
 cdn.leightonbroadcasting.com CNAME .
 cdn.mequoda.com CNAME .
-cdn.myadsmyanmar.com CNAME .
 cdn.personare.com.br CNAME .
 cdn.pinktriangle.ca CNAME .
 cdn.revive-adserver.net CNAME .
@@ -129,11 +128,13 @@ console.pinktriangle.ca CNAME .
 console.polity.org.za CNAME .
 console.postandparcel.info CNAME .
 console.pppmag.com CNAME .
+console.quirks.com CNAME .
 console.revive-adserver.net CNAME .
 console.rlnads.net CNAME .
 console.sacommunications.com CNAME .
 console.schrotundkorn.de CNAME .
 console.swiss-equestrian.ch CNAME .
+console.tahoe.com CNAME .
 console.thedailyhorn.com CNAME .
 console.trackandfieldnews.com CNAME .
 console.unionesarda.it CNAME .
@@ -189,7 +190,6 @@ questico-ads.reviveservers.com CNAME .
 revive-console.worldscreen.com CNAME .
 revive-static.worldscreen.com CNAME .
 revive.ahk.de CNAME .
-revive.teck.com.br CNAME .
 revive.worldscreen.com CNAME .
 reviveapi.geenstijl.nl CNAME .
 rtvutrecht-static.reviveservers.com CNAME .
@@ -224,7 +224,6 @@ servedby.mannixmarketing.com CNAME .
 servedby.medlabmag.com CNAME .
 servedby.miningweekly.com CNAME .
 servedby.mondiale.co.uk CNAME .
-servedby.myadsmyanmar.com CNAME .
 servedby.palmbeachmedia.com CNAME .
 servedby.personare.com.br CNAME .
 servedby.pinktriangle.ca CNAME .
@@ -254,6 +253,7 @@ static.ads.fantasanremo.com CNAME .
 static.ahk.de CNAME .
 static.ammoland.com CNAME .
 static.aqua-adserver.com CNAME .
+static.bidspotter.co.uk CNAME .
 static.biohandel.de CNAME .
 static.blulab.net CNAME .
 static.ceramicartsnetwork.org CNAME .

@@ -41,6 +41,7 @@
     * 112686412066259.wt-eu02.net
     * 117490221505998.wt-eu02.net
     * 125611812418194.wt-eu02.net
+    * 131461696734151.wt-eu02.net
     * 135786637466873.wt-eu02.net
     * 142740387607140.wt-eu02.net
     * 144997442123603.wt-eu02.net
@@ -252,6 +253,7 @@
 | t.radiomediaset.it | 112686412066259.wt-eu02.net |
 | mit.deutschewealth.com | 117490221505998.wt-eu02.net |
 | intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
+| data.cuadernosdeseguridad.com | 131461696734151.wt-eu02.net |
 | web.news.bottegaverde.com | 135786637466873.wt-eu02.net |
 | data.email.riverford.co.uk | 142740387607140.wt-eu02.net |
 | web.email.bricocenter.it | 144997442123603.wt-eu02.net |
@@ -328,6 +330,7 @@
 | web.tummytox.fr | 366003812072969.wt-eu02.net |
 | web.tummytox.it | 366003812072969.wt-eu02.net |
 | web.tummytox.pt | 366003812072969.wt-eu02.net |
+| web.tummytox.ro | 366003812072969.wt-eu02.net |
 | web.tummytox.sk | 366003812072969.wt-eu02.net |
 | data.mediaworld.it | 367128732629814.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |

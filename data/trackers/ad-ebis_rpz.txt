@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791809010955        ; Serial
+           1792411265671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -153,6 +153,7 @@ adtrack.alchemy-web.jp CNAME .
 adtrack.kireibiz.jp CNAME .
 adtrack.loracle.jp CNAME .
 adtrack.maisonlexia.com CNAME .
+ae.kango-oshigoto.jp CNAME .
 aesus.so-net.ne.jp CNAME .
 analyse.hinemos.info CNAME .
 analytics.pcnext.shop CNAME .

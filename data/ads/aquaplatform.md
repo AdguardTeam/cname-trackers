@@ -79,6 +79,7 @@
     * livingmag-console.aquaplatform.com
     * livingmag-delivery.aquaplatform.com
     * livingmag-static.aquaplatform.com
+    * localmatchmaker-console.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
     * localmatchmaker-static.aquaplatform.com
     * mannix-api.aquaplatform.com
@@ -97,8 +98,6 @@
     * mondiale-console.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
     * mondiale-static.aquaplatform.com
-    * myadsmyanmar-delivery.aquaplatform.com
-    * myadsmyanmar-static.aquaplatform.com
     * ngtu-static.aquaplatform.com
     * oneboat-console.aquaplatform.com
     * oneboat-delivery.aquaplatform.com
@@ -133,7 +132,6 @@
     * sacomm-static.aquaplatform.com
     * sonicplug-delivery.aquaplatform.com
     * sonicplug-static.aquaplatform.com
-    * tecklabs-delivery.aquaplatform.com
     * tfn-console.aquaplatform.com
     * tfn-delivery.aquaplatform.com
     * tfn-static.aquaplatform.com
@@ -212,6 +210,7 @@
 | api.aqua-adserver.com | console.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
+| console.quirks.com | console.aquaplatform.com |
 | console.rlnads.net | console.aquaplatform.com |
 | console.walaplusadserver.com | console.aquaplatform.com |
 | www.api.metrike.com | console.aquaplatform.com |
@@ -310,6 +309,7 @@
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | www.static.livingmagonline.com | livingmag-static.aquaplatform.com |
+| console.rlnads.net | localmatchmaker-console.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
 | ad-api.mannixmarketing.com | mannix-api.aquaplatform.com |
@@ -330,12 +330,11 @@
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | static.mondiale.co.uk | mondiale-static.aquaplatform.com |
-| servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
-| cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
 | static.notgoingtouni.co.uk | ngtu-static.aquaplatform.com |
 | console.everythingcolorado.com | oneboat-console.aquaplatform.com |
 | console.everythingnevada.com | oneboat-console.aquaplatform.com |
 | console.imagineobx.com | oneboat-console.aquaplatform.com |
+| console.tahoe.com | oneboat-console.aquaplatform.com |
 | servedby.everythingcolorado.com | oneboat-delivery.aquaplatform.com |
 | servedby.everythingnevada.com | oneboat-delivery.aquaplatform.com |
 | servedby.imagineobx.com | oneboat-delivery.aquaplatform.com |
@@ -411,6 +410,7 @@
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |
 | ads.the-saleroom.com | proxibid-delivery.aquaplatform.com |
 | www.ads.proxibid.com | proxibid-delivery.aquaplatform.com |
+| static.bidspotter.co.uk | proxibid-static.aquaplatform.com |
 | static.i-bidder.com | proxibid-static.aquaplatform.com |
 | static.proxibid.com | proxibid-static.aquaplatform.com |
 | static.the-saleroom.com | proxibid-static.aquaplatform.com |
@@ -464,7 +464,6 @@
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | www.adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |
-| revive.teck.com.br | tecklabs-delivery.aquaplatform.com |
 | console.trackandfieldnews.com | tfn-console.aquaplatform.com |
 | servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
 | www.servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |

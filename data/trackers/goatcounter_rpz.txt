@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791803560435        ; Serial
+           1792414101648        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -130,6 +130,7 @@ stats.dalinwilliams.com CNAME .
 stats.davidjuhasz.dev CNAME .
 stats.degrandi.dev CNAME .
 stats.denatlahi.se CNAME .
+stats.dijugar.com CNAME .
 stats.docs.semio-tech.com CNAME .
 stats.dwermke.com CNAME .
 stats.eithel.org CNAME .
@@ -181,6 +182,7 @@ stats.msakg.com CNAME .
 stats.msol.io CNAME .
 stats.ngdangtu.com CNAME .
 stats.niravraval.com CNAME .
+stats.northshoreuke.ca CNAME .
 stats.nullzwo.dev CNAME .
 stats.oidc-provider.dev CNAME .
 stats.opensurge2d.org CNAME .
