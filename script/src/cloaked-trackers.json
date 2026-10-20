@@ -434,6 +434,14 @@
         ]
     },
     {
+        "company_name": "ProxyHog",
+        "type": "tracker",
+        "domains": [
+            "proxyhog.com",
+            "europehog.com"
+        ]
+    },
+    {
         "company_name": "RealBig",
         "type": "ad",
         "domains": [
