@@ -106,6 +106,7 @@
 ||al.shiffon-online.jp^
 ||al.shinfulife.com^
 ||al.shop-hotelgrandphenix.com^
+||al.shop.inaba-foods.jp^
 ||al.sl-creations.store^
 ||al.softbankselection.jp^
 ||al.sotouba.net^

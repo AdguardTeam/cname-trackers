@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792414101648        ; Serial
+           1792512550799        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 0186141170.apps.iocnt.de CNAME .
 39db8b138f.apps.iocnt.de CNAME .
 5bf0fdacd2.apps.iocnt.de CNAME .
-acksrc.chip.de CNAME .
 at_w_atexxpressdata-c3a3188a23.exxpress.at CNAME .
 c4b720ded1.apps.iocnt.de CNAME .
 data-0034231193.apps.iocnt.de CNAME .
@@ -73,6 +72,7 @@ data-05bc1a27ba.apps.iocnt.de CNAME .
 data-05c346d0b0.gea.de CNAME .
 data-05f15c0145.runnersworld.de CNAME .
 data-0622b98dbe.apps.iocnt.de CNAME .
+data-06d20d5dfa.addradio.de CNAME .
 data-06d20d5dfa.radiobielefeld.de CNAME .
 data-06d20d5dfa.radiobielefeldhilft.de CNAME .
 data-06d9d19ba0.filmdienst.de CNAME .
@@ -303,6 +303,7 @@ data-236c420b67.glamourshopping.de CNAME .
 data-23c20dac87.tophotel.de CNAME .
 data-2403aac25b.integrale-planung.de CNAME .
 data-24d7667a6a.apps.iocnt.de CNAME .
+data-2572d220f8.motorsport-total.com CNAME .
 data-26457755f1.apps.iocnt.de CNAME .
 data-26d7316678.gewinn.com CNAME .
 data-26e104754d.hgtv.com CNAME .
@@ -453,6 +454,7 @@ data-3f9c4f5eb9.automotive.at CNAME .
 data-3fb5262fad.unsersalzburg.at CNAME .
 data-40370dcf13.emsdettenervolkszeitung.de CNAME .
 data-40370dcf13.ev-online.de CNAME .
+data-40370dcf13.mv-digital.de CNAME .
 data-40370dcf13.mv-online.de CNAME .
 data-40370dcf13.newssquare.de CNAME .
 data-40370dcf13.verlag-altmeppen.de CNAME .
@@ -563,6 +565,7 @@ data-47ee1b0882.movietown-openair.de CNAME .
 data-47ee1b0882.neue-filmbuehne.de CNAME .
 data-47ee1b0882.nickel-odeon.de CNAME .
 data-47ee1b0882.osnabrueck.hall-of-fame.online CNAME .
+data-47ee1b0882.ostseekino-doberan.de CNAME .
 data-47ee1b0882.ostseekino-kuehlungsborn.de CNAME .
 data-47ee1b0882.roxy-kino.de CNAME .
 data-47ee1b0882.saarfilm.net CNAME .
@@ -826,6 +829,7 @@ data-62e93c650b.hannover.de CNAME .
 data-62e93c650b.landheime.de CNAME .
 data-62e93c650b.visit-hannover.com CNAME .
 data-62e93c650b.visit-niedersachsen.de CNAME .
+data-63015eaef7.apps.iocnt.de CNAME .
 data-631fe157dc.gesund.at CNAME .
 data-63224ea7ba.apps.iocnt.de CNAME .
 data-6345746ba5.nwzonline.de CNAME .
@@ -1737,6 +1741,7 @@ data-e392d35d53.kino-zeit.de CNAME .
 data-e3af19e759.apps.iocnt.de CNAME .
 data-e3d4300b49.teleboerse.de CNAME .
 data-e44d38afc3.apps.iocnt.de CNAME .
+data-e4689287ec.derpatriot.com CNAME .
 data-e4689287ec.derpatriot.de CNAME .
 data-e47ac57521.jobs26.de CNAME .
 data-e47ac57521.lokal26.de CNAME .
@@ -2040,10 +2045,11 @@ pool2.ioam.de CNAME .
 pool4.ioam.de CNAME .
 pool5.ioam.de CNAME .
 report.oewa.at CNAME .
-source-66584305d5.mainpost.de CNAME .
 source-ed91a21bf0.dastelefonbuch.de CNAME .
 vorausweisung.report.oewa.at CNAME .
 vote.apps.iocnt.de CNAME .
 www.apps.iocnt.de CNAME .
 www2.dk-online.de CNAME .
 xnasldata-63224ea7ba.apps.iocnt.de CNAME .
+acksrc.chip.de CNAME .
+source-66584305d5.mainpost.de CNAME .

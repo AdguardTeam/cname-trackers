@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792414101648        ; Serial
+           1792518230160        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -122,6 +122,7 @@ analytics.breathlessresorts.com CNAME .
 analytics.cheapcaribbean.com CNAME .
 analytics.dreamsresorts.com CNAME .
 analytics.funjet.com CNAME .
+analytics.iinet.net.au CNAME .
 analytics.inteflow.com.au CNAME .
 analytics.lebara.com.au CNAME .
 analytics.nowresorts.com CNAME .
@@ -165,6 +166,7 @@ bank.bnpl.c24.de CNAME .
 banque.banque-casino.fr CNAME .
 barnacle.tommybahama.com CNAME .
 bifpt.pepperfinance.es CNAME .
+biometrics-dm.chase.com CNAME .
 bkt-prod.sbishinseibank.co.jp CNAME .
 black-cat.crypto.com CNAME .
 bland.starone.org CNAME .
@@ -476,6 +478,7 @@ content.prev-espace-client.hellobank.fr CNAME .
 content.prev.connexion-mabanque.bnpparibas CNAME .
 content.prev.connexion.hellobank.fr CNAME .
 content.prev.connexion.monespace.bnpparibas CNAME .
+content.primesports.com CNAME .
 content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
 content.readiness.consumercardaccess.com CNAME .
@@ -822,6 +825,7 @@ jpubs.zodia.io CNAME .
 jytrnq.cm-cic.com CNAME .
 kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
+larson.plata.com CNAME .
 lexengine.kamet.mx CNAME .
 lexis.ourtrip.com.br CNAME .
 lght.loberon.com CNAME .
@@ -951,6 +955,7 @@ portal-fp-qaperf2.qa.threatmetrix.com CNAME .
 portal-fp.threatmetrix.com CNAME .
 posture.mtoken.zand.ae CNAME .
 pov.spectrum.net CNAME .
+preprod.content.connect.medicaid.ncdhhs.gov CNAME .
 prod-acutx.chaperone.lumindigitalhosting.com CNAME .
 prod-addition.chaperone.lumindigitalhosting.com CNAME .
 prod-afcutn.chaperone.lumindigitalhosting.com CNAME .
@@ -1318,6 +1323,7 @@ tm.gumtree.co.za CNAME .
 tm.gumtree.com.au CNAME .
 tm.humanesociety.org CNAME .
 tm.humaneworld.org CNAME .
+tm.id-validation.ch CNAME .
 tm.kotak.com CNAME .
 tm.nowfinance.com.au CNAME .
 tm.okinushub.com CNAME .

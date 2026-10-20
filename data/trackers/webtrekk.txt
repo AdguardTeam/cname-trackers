@@ -73,6 +73,7 @@
 ||data.news.juventus.com^
 ||data.newsletter.iqstudentaccommodation.com^
 ||data.obermain.de^
+||data.saarbruecker-zeitung.de^
 ||data.vdi-wissensforum.de^
 ||data.volksfreund.de^
 ||data.westlotto.de^

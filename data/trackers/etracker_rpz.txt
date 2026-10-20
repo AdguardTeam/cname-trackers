@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792408218274        ; Serial
+           1792512550799        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -53,6 +53,7 @@ data.drhauschka.de CNAME .
 data.fitx.de CNAME .
 data.moebel-style.de CNAME .
 data.moebelnavi.de CNAME .
+data.regale-lbl.de CNAME .
 data.runners-kitchen.com CNAME .
 data.soristudios.de CNAME .
 data.uk.kutchenhaus.com CNAME .
@@ -67,6 +68,7 @@ e.medikamente-per-klick.de CNAME .
 e.pflegecampus.de CNAME .
 e.preisapo.de CNAME .
 e.vector.com CNAME .
+eanalytics.linqi.de CNAME .
 eck.brettspieleck.de CNAME .
 ecm.agravis.de CNAME .
 ect.ensmann.com CNAME .
@@ -182,6 +184,10 @@ gus.ihlenfeldt.de CNAME .
 insides.honic.eu CNAME .
 insights.bertelsmann-stiftung.de CNAME .
 js.edingershops.de CNAME .
+kkanalytics.fria-immobilien.de CNAME .
+kkanalytics.rfox.de CNAME .
+kkanalytics.terravis-biogas.de CNAME .
+kkanalytics.veravis.de CNAME .
 kkavde.agravis.de CNAME .
 link.vhs-gl.de CNAME .
 lolly.needforsweet.de CNAME .
@@ -192,6 +198,7 @@ me.golfclub-bruchsal.de CNAME .
 mensch.ekd.de CNAME .
 met.form-werkzeug.de CNAME .
 met.hanser-automotive.de CNAME .
+met.hanser-esolutions.de CNAME .
 met.hanser-kundencenter.de CNAME .
 met.hanser-literaturverlage.de CNAME .
 met.kunststoffe.de CNAME .
@@ -200,7 +207,6 @@ met.werkstatt-betrieb.de CNAME .
 meter.rhinobag.de CNAME .
 metrics.bauwerk.de CNAME .
 metrics.cannamedical.com CNAME .
-metrics.catchandkeep.de CNAME .
 metrics.cnag.de CNAME .
 metrics.die-bibel.de CNAME .
 metrics.einfachiso.de CNAME .
@@ -257,6 +263,7 @@ s.hamburg.de CNAME .
 s.lotto-hessen.de CNAME .
 s.materna.de CNAME .
 salzburg.semsea.at CNAME .
+sas2.arrowforge.de CNAME .
 services.rotho.com CNAME .
 sf.schufa.de CNAME .
 show.gruppedrei.com CNAME .
@@ -286,6 +293,7 @@ stats.inselloft-norderney.de CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.krauss-gmbh.com CNAME .
 stats.landgasthaus.de CNAME .
+stats.lisio.de CNAME .
 stats.marienhoehe-norderney.de CNAME .
 stats.milchbar-norderney.de CNAME .
 stats.mopo.de CNAME .
@@ -510,6 +518,7 @@ webstt0003.onofficeom.com CNAME .
 webstt0004.onofficeom.com CNAME .
 webstt0005.onofficeom.com CNAME .
 webstt0007.onofficeom.com CNAME .
+webstt0008.onofficeom.com CNAME .
 webstt0009.onofficeom.com CNAME .
 webstt0010.onofficeom.com CNAME .
 webstt0011.onofficeom.com CNAME .
@@ -560,6 +569,7 @@ webstt0078.onofficeom.com CNAME .
 webstt0079.onofficeom.com CNAME .
 webstt0083.onofficeom.com CNAME .
 webstt0090.onofficeom.com CNAME .
+webstt0096.onofficeom.com CNAME .
 webstt0102.onofficeom.com CNAME .
 webstt0103.onofficeom.com CNAME .
 webstt0111.onofficeom.com CNAME .
@@ -568,6 +578,7 @@ webtr.cc-egov.de CNAME .
 webtr.codearchitekten.de CNAME .
 webtr.dachser.com CNAME .
 webtr.elearning-cc-egov.de CNAME .
+webtr.pdv.blue CNAME .
 webtr.pdv.de CNAME .
 webtr.regisafe.de CNAME .
 webtrack.lotto-thueringen.de CNAME .

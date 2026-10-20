@@ -90,6 +90,7 @@
     * pa-lesarcs-peiseyvallandry-com-cddc.at-o.net
     * pa-leveil-fr-cddc.at-o.net
     * pa-lyonne-fr-cddc.at-o.net
+    * pa-ouik-serrechevalier-ski-cddc.at-o.net
     * pa-parcasterix-fr-cddc.at-o.net
     * pa-serrechevalier-pass-com-cddc.at-o.net
     * pa-skipass-grand-massif-com-cddc.at-o.net
@@ -247,6 +248,7 @@
 | pa.lesarcs-peiseyvallandry.com | pa-lesarcs-peiseyvallandry-com-cddc.at-o.net |
 | pa.leveil.fr | pa-leveil-fr-cddc.at-o.net |
 | pa.lyonne.fr | pa-lyonne-fr-cddc.at-o.net |
+| pa.ouik-serrechevalier.ski | pa-ouik-serrechevalier-ski-cddc.at-o.net |
 | pa.parcasterix.fr | pa-parcasterix-fr-cddc.at-o.net |
 | pa.serrechevalier-pass.com | pa-serrechevalier-pass-com-cddc.at-o.net |
 | pa.skipass-grand-massif.com | pa-skipass-grand-massif-com-cddc.at-o.net |

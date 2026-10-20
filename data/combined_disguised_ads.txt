@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME disguised ads list
 ! Description: The list of unique ads domains that disguise the real trackers by using CNAME records.
-! TimeUpdated: 2026-10-19T15:12:08+00:00
+! TimeUpdated: 2026-10-20T18:38:48+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 ||*.exaapi.com^
@@ -107,6 +107,7 @@
 ||1643.5imr6oz792gi1jh9ml8m.cyou^
 ||16775c6f0c.e427d04a02.com^
 ||16ca862ee4.a3f1bd6bc8.com^
+||17084727b1.61d1b409d4.com^
 ||1718ced2e5.9c6d95b6b3.com^
 ||176a7dbbe4.5355b252cf.com^
 ||178d4a7678.11b5e84fb9.com^
@@ -219,6 +220,7 @@
 ||28c47a5183.ab045d5856.com^
 ||28c9492ebe.309e7ed67e.com^
 ||28fe4575ab.fb53d9afaf.com^
+||28hrwelv17kg4.er1kz2j8x3cohtn8npx.cyou^
 ||292a92eb58.50d46dda05.com^
 ||298b7856d1.ea0e8330c0.com^
 ||298fb33b69.c51722c218.com^
@@ -722,6 +724,7 @@
 ||35b51a2474.5ac36d146b.com^
 ||35c785e0ba.db41cbaf55.com^
 ||35ee2ca7d5.92a98a2163.com^
+||35vtr.x9wy12ljtk8yz9nmrlzop2cculy1mrlwte.cfd^
 ||35yp8ot6.xyz^
 ||3603119.notifysrv.com^
 ||3607715.notify6.com^
@@ -949,7 +952,6 @@
 ||3i9i83eleqz.ojrbibibynq66y58k4h4on9.cyou^
 ||3j31.6lq3ziufj5nq34ptrxz81texpinyvg.cyou^
 ||3jux3x6n.xgv6nvb3htofxib39zooggyl7h.cfd^
-||3krujww3z31l4def.bloblohub.com^
 ||3m3vmyfg5ew8.8x3hooqfp5hme63yviqpece.cyou^
 ||3mnh.ln5n7gu14yikp189jgpjvok42nqk32x.cyou^
 ||3mvhb1o5iy4pxuxwvg.1nu49ifwrp2v88t4y.cyou^
@@ -976,6 +978,7 @@
 ||4.n8mqz1u273he3piu.cyou^
 ||4.notify.bizonads-ssp.com^
 ||4.xipgfr3juc49mcipo7r.cfd^
+||4.ycbl5btx8q1whvkgvhr.cyou^
 ||4003022.notify6.com^
 ||4003752.notify6.com^
 ||4004510.notify6.com^
@@ -1192,6 +1195,7 @@
 ||4e459a72cc.d4bd4c34af.com^
 ||4e4684750e.8eaec95a29.com^
 ||4ea83ab453.dec1daff38.com^
+||4eafcef105.b7644e75ce.com^
 ||4ef55c331f.6dca8ddc4d.com^
 ||4ef8c1bbed.223001ca2c.com^
 ||4f622bfb81.10f8fc8a55.com^
@@ -1246,6 +1250,7 @@
 ||5280188.notify6.com^
 ||5289086.notify6.com^
 ||5289342.notify6.com^
+||52d8c123b5.98f496bbc2.com^
 ||52f077e9dc.9e9cb445eb.com^
 ||5339253c7f.39448710fa.com^
 ||5345090e71.65ae01603e.com^
@@ -1287,6 +1292,7 @@
 ||5885k8e19ecvbo.orxbkni8u3fkx46g.cyou^
 ||58a8b8672e.14bd82eba6.com^
 ||58bf902565.8e111120ff.com^
+||5921c7c895.a3daf46323.com^
 ||5947bd8bc0.04b9055b2a.com^
 ||59671f8773.993d52a9bd.com^
 ||596fa58bab.570dad652f.com^
@@ -1302,7 +1308,6 @@
 ||5b7dbdbc95.079355fe4b.com^
 ||5bd0c58299.78dcd1933c.com^
 ||5bh.zovt2uiwqxm8rnj4b691.cyou^
-||5bs4y5e7.xyz^
 ||5byo37n.y5xgo8yjhgebnng6.cyou^
 ||5c153522d2.c99d76b8c9.com^
 ||5c2d02d6b7.f85fd721ad.com^
@@ -1318,13 +1323,13 @@
 ||5fll5qac.xyz^
 ||5fz7.3o5ozfhzbpytnh6uoh9.cyou^
 ||5kflgiu.eg59mvbxykwqqf4i3x.cyou^
-||5kov1f2o.xyz^
 ||5l4f8bq.2lyikhpb5bigj64nj7.cyou^
 ||5leosgto.xyz^
 ||5mn7cf73.xyz^
 ||5po228.19hekoc4x6bfpo557u6y.cyou^
 ||5q6oj.942xnmm3gfno7ghve2ulf.cyou^
 ||5qryjrx3.xyz^
+||5qtcc.h57ozk5mkk8z62fmumtkm.cyou^
 ||5rgh87i44.zo5etlmx5mzx7wxcw.cyou^
 ||5stars.yeesshh.com^
 ||5tgkx4vff.qe1zwooolvi6tozubf.cyou^
@@ -1336,6 +1341,7 @@
 ||6003ed4af4.947e33602e.com^
 ||6020236.notify6.com^
 ||6027471f0e.d6b1c430ca.com^
+||6059634.notify6.com^
 ||6093ac4972.82067251a6.com^
 ||6118a9c9fe.171c856581.com^
 ||6129489a51.cb4a57f9c7.com^
@@ -1384,7 +1390,6 @@
 ||6aec26cade.917d078238.com^
 ||6b0085df88.0bc457ce1f.com^
 ||6b35e006cb.99892220ca.com^
-||6b387ccb0e.ff35f7a0b5.com^
 ||6b73ee69e0.dea21aeefc.com^
 ||6b899f30bf.08d59ed715.com^
 ||6buueioe.xyz^
@@ -1484,6 +1489,8 @@
 ||7af77eb68a.3100056af7.com^
 ||7b315e2e97.e608df03d6.com^
 ||7b455af0a3.dba1bc1fdf.com^
+||7b4lxqtj.xyz^
+||7b76345aa9.63cf61e813.com^
 ||7b89edc5b7.70eb07b991.com^
 ||7b8f3592cd.9d4a486df8.com^
 ||7bd3d001ff6.clicknplay.to^
@@ -1589,6 +1596,7 @@
 ||8mp.2vlg1rg5fjyuycrm674b.cyou^
 ||8mv.jf7y5erhc86g62ozvlbj.cyou^
 ||8nqp2.ur5tyhny69q53nntcz.cyou^
+||8ov48h83.tbmj7q95mbrw5ctv.cfd^
 ||8t968n3q7.6lilx8mohgkbqegl.cfd^
 ||8wp91cpf.xyz^
 ||8xykxu7.jfgrpuy5f326nlcovcg.cyou^
@@ -1675,6 +1683,8 @@
 ||9kz6crbuc96z.cq3gblk8lq9co826kvn.cfd^
 ||9kz9cttz76.antonsten.com^
 ||9lwl6rsk.xyz^
+||9n89mwfq3l1wen79.po6o4mxkqfwvit5.cyou^
+||9nugb4.orxo5m9nwcy4xk6w2n5jug8ve.cfd^
 ||9nxp54lhhoez.vbnji2n837hiogntp6t.cfd^
 ||9ohyhwyt4qrh.etzej1fu6q755opovuwz.cyou^
 ||9pmufxiivog3mn.l9f7pjkhkcn2x21fet.cfd^
@@ -1712,7 +1722,6 @@
 ||a.bdutrfpls.com^
 ||a.bebont.xyz^
 ||a.begony.xyz^
-||a.bloblohub.com^
 ||a.blonte.xyz^
 ||a.boget.xyz^
 ||a.boostlo.xyz^
@@ -1720,7 +1729,6 @@
 ||a.cant3am.com^
 ||a.carolynservice.kro.kr^
 ||a.catchlucky.cc^
-||a.ceget.xyz^
 ||a.celeb.st^
 ||a.celit.xyz^
 ||a.celoe.xyz^
@@ -1884,7 +1892,6 @@
 ||a66fcca10a.fef49e81cc.com^
 ||a6a1c6ffd0.35c82e35f3.com^
 ||a6f50f55d7.0fbee846c6.com^
-||a6iemt79.xyz^
 ||a7225d1b53.9db168b3bd.com^
 ||a73c1d6c00.039858f297.com^
 ||a74036e70e.8e1fb7aeb7.com^
@@ -2099,8 +2106,6 @@
 ||anaconda.venturearc.io^
 ||anaconda.webitizeicts.com^
 ||anaconda.zephyrus.gg^
-||analytics-uat.bloblohub.com^
-||analytics.bloblohub.com^
 ||android.notifysrv.com^
 ||andy.notifysrv.com^
 ||angelfish.dpya.com^
@@ -2142,7 +2147,6 @@
 ||aphid.smartjournal.no^
 ||aphid.thyself.me^
 ||aphrodite.notifysrv.com^
-||api-dev.bloblohub.com^
 ||api.ad.logic-prod.viasat.io^
 ||api.ad.logic-test.viasat.io^
 ||api.ad.logic.viasat.io^
@@ -2151,6 +2155,7 @@
 ||api.aqua-adserver.com^
 ||api.brandlabs.ai^
 ||api.bukerin.com^
+||api.cm9srv.com^
 ||api.eunow4u.com^
 ||api.h24.news^
 ||api.jetsetz.com^
@@ -2171,6 +2176,7 @@
 ||app.phimvu.app^
 ||app.yrotary.com^
 ||apple.arabtoons.net^
+||apps.go-static.info^
 ||apps.h24.news^
 ||aptqpcaw.xyz^
 ||apu.hentaibox.xyz^
@@ -2204,7 +2210,6 @@
 ||armadillo.axeneo7.qc.ca^
 ||armadillo.oceandecadenortheastpacific.org^
 ||armadillo.superpeak.dk^
-||ars.bloblohub.com^
 ||as.ebacdn.com^
 ||as.ebalovo.adult^
 ||as.hobby.porn^
@@ -2222,6 +2227,7 @@
 ||asg.dormtapes.com^
 ||asg.earn150.com^
 ||asg.faperoni.com^
+||asg.hobby.porn^
 ||asg.hornygrail.com^
 ||asg.irontube.net^
 ||asg.laivue.com^
@@ -2271,7 +2277,6 @@
 ||az6a8nmuz5vbrgd2.exasrv.com^
 ||azlej8cdm.pragmaticwebsecurity.com^
 ||b.72ckgctit6mngwqbbo2ln.cyou^
-||b.bloblohub.com^
 ||b.comihon.com^
 ||b.f9jpibcv6ytoh8.cyou^
 ||b.filexan.com^
@@ -2390,11 +2395,9 @@
 ||beetle.enlacepermanente.es^
 ||beta.ad-maven.com^
 ||beta.adkernel.com^
-||beta.bloblohub.com^
 ||beta.looksmartppc.com^
 ||beta.tbadni.com^
 ||bf4fa209bf.7a2731790d.com^
-||bf76d9778b.7c52629d53.com^
 ||bf7a65c961.3632ca5b41.com^
 ||bf7e9baa53.bf002bbbbb.com^
 ||bfa1ecaf8e.077ef2133b.com^
@@ -2446,7 +2449,6 @@
 ||bobcat.snapshooter.io^
 ||bocaiyouxiwangzhi.goasrv.com^
 ||bocaiyulechengkaihu18.go-static.info^
-||bocaizhixingliyanhong.goasrv.com^
 ||bocaizixunjiaoliuluntan.goaserv.com^
 ||bocaizixunpingtai.go-static.info^
 ||bodanpeilv.goaserv.com^
@@ -2477,7 +2479,6 @@
 ||bp.6298i8c3ehjxrjcq.cyou^
 ||bp.817ihrbxg9nf1pr9.cfd^
 ||bp.bescornsummas.cyou^
-||bpis.goasrv.com^
 ||bppsdmk.goaserv.com^
 ||br.h24.news^
 ||br.m3fyrj9viihlbevn.cyou^
@@ -2507,7 +2508,6 @@
 ||build1.goasrv.com^
 ||bullen.goasrv.com^
 ||bulletinsretard.goaserv.com^
-||bullyingsinfronteras.goasrv.com^
 ||bulten.goaserv.com^
 ||bundle.ppass.xyz^
 ||burclar12.goaserv.com^
@@ -2534,7 +2534,6 @@
 ||bzpi5.fim7hbcei2vt2gp.cfd^
 ||c.6tuna.com^
 ||c.bdutrfpls.com^
-||c.bloblohub.com^
 ||c.gzupload.com^
 ||c.leparisien.fr^
 ||c021b14e0782ad7ef6d74.clicknplay.to^
@@ -2624,7 +2623,6 @@
 ||campusedge.goasrv.com^
 ||campushorizontes2010.goasrv.com^
 ||campusjobboard.go-static.info^
-||campusservicecenter.goaserv.com^
 ||canakkale.goaserv.com^
 ||canalcity.goasrv.com^
 ||canaragua.goaserv.com^
@@ -2660,7 +2658,6 @@
 ||carp.amespacios.com^
 ||carp.spotonevent.no^
 ||carpici.clicknplay.to^
-||cart.bloblohub.com^
 ||casablanca.go-static.info^
 ||casaderafael.goaserv.com^
 ||cat.beunitedinchrist.com^
@@ -2696,12 +2693,10 @@
 ||cccu.goaserv.com^
 ||ccf8c55f34.63794fc885.com^
 ||ccfebb7661.38b75d2c1e.com^
-||cd.bloblohub.com^
 ||cd03a8c790.f247dab479.com^
 ||cd2a2e582c.0e091251b2.com^
 ||cd607a72c0.7277af1ba3.com^
 ||cdaef97ff5.31ab988f3b.com^
-||cdigital.goaserv.com^
 ||cdkmail.go-static.info^
 ||cdkoiilqus.exasrv.com^
 ||cdl.goaserv.com^
@@ -2927,7 +2922,6 @@
 ||ceb.f53kzx5xr214nbhz4uoh.cfd^
 ||ceda5a0ae1.7f853d11fc.com^
 ||centipede.davimug.com^
-||centraali.goaserv.com^
 ||central.us.h24.news^
 ||centralcalifornia-dignity.go-static.info^
 ||centralcanada.goasrv.com^
@@ -2959,7 +2953,6 @@
 ||chavannichap.goasrv.com^
 ||cheat-games-page.goasrv.com^
 ||cheatmap.goasrv.com^
-||cheddar.goasrv.com^
 ||cheetah.gaptry.com^
 ||cheetah.songrender.com^
 ||cheetah.stolenboats.info^
@@ -3216,7 +3209,6 @@
 ||clima1.cptec.goasrv.com^
 ||clit.lewdl.com^
 ||clk.pdn-eu.com^
-||clo1p7jd.xyz^
 ||clone.goaserv.com^
 ||cloud9games2.goasrv.com^
 ||cloudinsky70009.tian.go-static.info^
@@ -3235,6 +3227,7 @@
 ||cmpe.go-static.info^
 ||cmpsci.hubhubhub.name^
 ||cms.h24.news^
+||cn.go-static.info^
 ||cn.hotclips.click^
 ||cnlr.thepornstar.com^
 ||co1i1c6com7.j76bzj49x3kiexb.cfd^
@@ -3352,7 +3345,6 @@
 ||coreads-static.cambridge.org^
 ||coreads.cambridge.org^
 ||corelab.go-static.info^
-||corp.bloblohub.com^
 ||corporate.go-static.info^
 ||cot.nomarax.com^
 ||cougar.augmentedmindapp.com^
@@ -3401,6 +3393,7 @@
 ||cpm.felixads.com^
 ||cpm.fmlabsonline.com^
 ||cpm.foremedia.net^
+||cpm.frequency33media.com^
 ||cpm.geoadserver.com^
 ||cpm.globalsun.io^
 ||cpm.gwmexchange.com^
@@ -3470,9 +3463,7 @@
 ||creatives.x2lt.com^
 ||creta.hubhubhub.name^
 ||crewing.goasrv.com^
-||crewweb.goaserv.com^
 ||crimespace.go-static.info^
-||crm.bloblohub.com^
 ||crm.notify6.com^
 ||crocodile.rapid-sale.co.uk^
 ||crow.centresustains.com^
@@ -3502,7 +3493,6 @@
 ||cygwin.goasrv.com^
 ||cyhz131.goasrv.com^
 ||cz.jorramcark.cfd^
-||d.bloblohub.com^
 ||d.love4porn.com^
 ||d00c559d5d.3de9c07b91.com^
 ||d07e62e281.510a62f1a2.com^
@@ -3565,6 +3555,7 @@
 ||dashboard.adopsify.com^
 ||dashboard.alcancemg.com^
 ||dashboard.andbeyond.media^
+||dashboard.ausdoc.com.au^
 ||dashboard.digita.media^
 ||dashboard.entravision.com^
 ||dashboard.grapemedia.cz^
@@ -3577,6 +3568,7 @@
 ||data.bvsrv.com^
 ||data.goasrv.com^
 ||data.streamtape.com^
+||database.h24.news^
 ||db27652f6f.4c8b0c080b.com^
 ||db79e8d7fe.18651885bc.com^
 ||dc608237a3.d97e3715f9.com^
@@ -3609,14 +3601,9 @@
 ||deployment-umbrella.goasrv.com^
 ||depotstatustool.go-static.info^
 ||detallefacturas.go-static.info^
-||dev-api.bloblohub.com^
-||dev-reporting.bloblohub.com^
-||dev.bloblohub.com^
 ||dev.runtimeflow.net^
 ||dev.tbllprem.com^
-||development-.bloblohub.com^
-||development-viz.bloblohub.com^
-||development.bloblohub.com^
+||dev2.go-static.info^
 ||df035428b5.d8ff1e73bd.com^
 ||df75dd25ba.9b5efc2b0e.com^
 ||df7d4eecab.ccc9c93083.com^
@@ -3626,12 +3613,10 @@
 ||dgyy59yc.xyz^
 ||dh.sewarsremeets.cfd^
 ||dialogo.go-static.info^
-||dialogodiarioseguranca.goasrv.com^
 ||dicasinclusivas.goasrv.com^
 ||dicesuki.goasrv.com^
 ||dichvuonline.goasrv.com^
 ||diedreifragezeichen.goaserv.com^
-||diegomenjura.goasrv.com^
 ||dierakete.goaserv.com^
 ||dietaizawl.goaserv.com^
 ||dietamediteraneana.goasrv.com^
@@ -3655,7 +3640,6 @@
 ||dnsbl.test.g2.gsrv.dev^
 ||dntcl.qualaroo.com^
 ||dnus40re.xyz^
-||doc.bloblohub.com^
 ||doc.tbllad.com^
 ||docker.stat.goaserv.com^
 ||doctorditoiu.goaserv.com^
@@ -3697,7 +3681,6 @@
 ||dragonfly.jala-one.com^
 ||dragonflycap.go-static.info^
 ||dropbox.cs.goasrv.com^
-||drosssel.goasrv.com^
 ||drowsymochi.goaserv.com^
 ||drtonywu.go-static.info^
 ||druki.go-static.info^
@@ -3745,7 +3728,6 @@
 ||dunia-panas.go-static.info^
 ||duniaicip-icip.go-static.info^
 ||dunovteck.goasrv.com^
-||dunya-uzerindeki-okyanuslar.goaserv.com^
 ||duoduoshipinqipaiyouxi.go-static.info^
 ||duolingo.go-static.info^
 ||duq8bcrl.xyz^
@@ -3760,7 +3742,6 @@
 ||dzqtn.lesbianbliss.com^
 ||e-uprava.go-static.info^
 ||e.blitz.bg^
-||e.bloblohub.com^
 ||e.buqnocco62uwbnvxho7r6z8r1f5g41.cyou^
 ||e.cekp9j31krnh4ff2frx4n6ncgbupc7.cyou^
 ||e.fe.go-static.info^
@@ -3780,7 +3761,6 @@
 ||e1nfgit1p9xlfcv9f.5l6t4nzgfvyo2ty3yk1.cyou^
 ||e226.go-static.info^
 ||e22e08d77a.b8d682e30f.com^
-||e243.goasrv.com^
 ||e2a0595802.291cf7aa0b.com^
 ||e2f1f1a158.20a5d573f6.com^
 ||e2sqc.go-static.info^
@@ -3857,7 +3837,6 @@
 ||ed3c81eb3a.c83ff46cc3.com^
 ||eda3cf1f7e.e4d190f9dd.com^
 ||edgeadserver-delivery.reviveservers.com^
-||edzj9b6fjmhw3kt4.production.bloblohub.com^
 ||ee.sportacentrs.com^
 ||ee3127c96c.34c7655983.com^
 ||eeby8ge5n69.fvluyczy4t2mtloqblry.cyou^
@@ -3900,7 +3879,6 @@
 ||elejido.goasrv.com^
 ||elementaryadmission.blog.goaserv.com^
 ||elephant.superdense.com^
-||eletrica.cpdee.goasrv.com^
 ||elevate.spacenews.com^
 ||eliseyu122.goaserv.com^
 ||elk.andrewfomera.com^
@@ -3929,6 +3907,7 @@
 ||emohotties.go-static.info^
 ||emorales9.goasrv.com^
 ||emperor.go-static.info^
+||emtxknnfii.mtzc88nenz4ftqctnnum64t.cyou^
 ||emu.blitzpower.com^
 ||emu.cortexfutura.com^
 ||emu.pin13.net^
@@ -3995,7 +3974,6 @@
 ||esperanzasays.goasrv.com^
 ||ess.surin.goaserv.com^
 ||essay-bed.goasrv.com^
-||essayinurdu.goasrv.com^
 ||essential.awmcash.com^
 ||essic.goaserv.com^
 ||estadio97.goaserv.com^
@@ -4060,7 +4038,6 @@
 ||ezycsflow.com^
 ||f-g-l-j.22yy6.com^
 ||f.57n51vgw9rtufg4t6w.cyou^
-||f.bloblohub.com^
 ||f.kz4uwomq4jnu6h.cfd^
 ||f.mkhnjpxt1jnpql.cfd^
 ||f.mme1lzgyb4plvh.cyou^
@@ -4096,6 +4073,7 @@
 ||f46563a525.5bd3cec305.com^
 ||f466d57b45.1154036d79.com^
 ||f525e08dd8.93553ec9d6.com^
+||f5iq9.1m9unllxqggoyb.cyou^
 ||f5w.prettytube.net^
 ||f6.y1cbl972mr99mw4ck1.cyou^
 ||f612938337.7ce48c6052.com^
@@ -4207,7 +4185,6 @@
 ||ff.avacharms.top^
 ||ff.buspar.click^
 ||ff.electricoz.life^
-||ff.finaster.top^
 ||ff.greensite.click^
 ||ff.nadache.top^
 ||ff.nolvade.top^
@@ -4370,6 +4347,7 @@
 ||filter-eu.tenxads.com^
 ||filter-eu.teriflicmedia.com^
 ||filter-eu.thebidex.net^
+||filter-eu.theflowads.com^
 ||filter-eu.themediapoint.xyz^
 ||filter-eu.thenetwork18.com^
 ||filter-eu.topdealad.com^
@@ -4698,7 +4676,6 @@
 ||fox.visionaudiovisual.com^
 ||fp.ploceglider.cfd^
 ||fp.uxi9f4pxvmvzhf.cyou^
-||fr.bloblohub.com^
 ||fr.h24.news^
 ||francebienvenue1.goaserv.com^
 ||frankies-pizza-maplevalley.go-static.info^
@@ -4708,7 +4685,6 @@
 ||freedomclear.go-static.info^
 ||frog.borgs.app^
 ||frown080227.shop^
-||ftp.bloblohub.com^
 ||ftp.tsukuba.go-static.info^
 ||ftrr.ceidjaq.life^
 ||fuckers.nieuws.xxx^
@@ -4726,7 +4702,6 @@
 ||fy.deponerbacury.cyou^
 ||fyber.com4539496.notify6.com^
 ||fykook.go-static.info^
-||g.bloblohub.com^
 ||g.ggoo8lgnve72qt73yxmew.cyou^
 ||g.seksohub.com^
 ||g16bppleh.ywkz83zbmecv7mqgl.cyou^
@@ -4797,6 +4772,7 @@
 ||gf3mt.okz4p1nb1lgo7ub9.cyou^
 ||gfny7e.v37cviyje9vwn37.cyou^
 ||gg.myalgicappl.cfd^
+||gg12p4oo.4pxbxqzp98wmte.cfd^
 ||gh.koumispleonal.cyou^
 ||gh8fiugo.xyz^
 ||ghostlightning.goaserv.com^
@@ -4807,7 +4783,6 @@
 ||gift.notifysrv.com^
 ||gil8.3rl7272l84w17jvogj.cyou^
 ||giraffe.viatorci.com^
-||gitlab.bloblohub.com^
 ||gj.btwk1tpcrl8o3g8lbfhf.cyou^
 ||gj.milseyratfink.qpon^
 ||gj7.hyv9me7oi765pxzuhy6.cyou^
@@ -4849,6 +4824,7 @@
 ||go.mc-doualiya.com^
 ||go.meretmarine.com^
 ||go.novirtb.com^
+||go.panotads.com^
 ||go.publicsenat.fr^
 ||go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com^
 ||go.redanemone.xyz^
@@ -4875,6 +4851,7 @@
 ||go1.ecre.work^
 ||go1.lire.work^
 ||go1.lore.work^
+||go1.reacheffect.com^
 ||go1.reacheffecti.work^
 ||go1.reachsrv.com^
 ||go1.spre.work^
@@ -4997,7 +4974,6 @@
 ||gz.budgingtusseh.qpon^
 ||gzs.notifysrv.com^
 ||gzvn3i4fq.9giu6n7klrgf7pkbg.cyou^
-||h.bloblohub.com^
 ||h.jbfwec4rwf8i9qj3nj19e1y1rj1f5.cyou^
 ||h031.goasrv.com^
 ||h20168.www2.go-static.info^
@@ -5104,6 +5080,7 @@
 ||horse.zwei-bags.com^
 ||hortintl.cals.goasrv.com^
 ||host-134.goaserv.com^
+||host-206.goasrv.com^
 ||host-override.ad-shield.dev^
 ||host128.go-static.info^
 ||host199.go-static.info^
@@ -5131,7 +5108,6 @@
 ||hq691k.vom13o1kie157mc3iop98wzc2q.cyou^
 ||hqpornpro.com^
 ||hrms.notifysrv.com^
-||hrqecm0d.xyz^
 ||hs.hentaislayer.net^
 ||hs5nhe45.xyz^
 ||hssoe.go-static.info^
@@ -5163,7 +5139,6 @@
 ||hzru7559kovfhj8ilmq8.r1hy7kmzoivnh8.cfd^
 ||i-0c8d1bb4c1a648ae1.hubhubhub.name^
 ||i.8knr271u7y5ve8q13.cfd^
-||i.bloblohub.com^
 ||i.cdnfimgs.com^
 ||i.cdnkimg.com^
 ||i.imgkcdn.com^
@@ -5232,6 +5207,7 @@
 ||iki2559yhvz6il.lqjyzbp7rxz9ifmtv6lbu3bwe.cyou^
 ||ildeboscio.goasrv.com^
 ||ildr3vij.xyz^
+||illw1u4f5.m5epm48q1een36et9utu4g1ugupc8z.cyou^
 ||iloveraknarok.goasrv.com^
 ||ilunugnqpnrvro3i1ktnleql.h8j323lxqxkztxu.cyou^
 ||ilviaggionellatesta.hubhubhub.name^
@@ -5275,9 +5251,7 @@
 ||informed.belocalnwa.com^
 ||infospace-val.looksmart.com^
 ||infotorg-delivery.reviveservers.com^
-||insight.beta.bloblohub.com^
 ||inspiradonapalavra.go-static.info^
-||integration-insight.bloblohub.com^
 ||internal-ui.central.go-static.info^
 ||internal.notifysrv.com^
 ||intimatediary.com^
@@ -5286,13 +5260,11 @@
 ||intranet.notifysrv.com^
 ||inventory-useast.rtbanalytica.com^
 ||investigations.go-static.info^
-||invoice.bloblohub.com^
 ||io.anselmohioan.cyou^
 ||io.fapnado.xxx^
 ||io.fapnow.xxx^
 ||io3qicfnkho47ikfmqoczq6j4.env4v6b9mw438uu.cyou^
 ||ioruwh09.xyz^
-||ip176-194.bloblohub.com^
 ||ip52.go-static.info^
 ||ipgeaif.blairmacintyre.me^
 ||ipk8.i469r3ukrhjokmzrh77oqt7pwuvzfhhv8x42.cyou^
@@ -5327,7 +5299,6 @@
 ||iz.vtkjuypbnpzvgt.cyou^
 ||j-venture.go-static.info^
 ||j.3i14731otmefimmxbotnpgvi.cyou^
-||j.bloblohub.com^
 ||j.ckixtul6tb65cv2hje.cfd^
 ||j.jikx3jh7vfx3mfy1pk5.cyou^
 ||j.k9vg9jt8b29gkvh4ermc.cyou^
@@ -5433,6 +5404,7 @@
 ||jssdk.sixapypyfynela.com^
 ||jssdk.tsyndicate.com^
 ||jssdk.tubexazimebeze.com^
+||jssdk.zuzegolatehowo.com^
 ||jt.canteenalvite.cfd^
 ||jt.chowsesschouw.qpon^
 ||jtrn.tn4xfihlp3i8r89vmr8.cyou^
@@ -5440,6 +5412,7 @@
 ||ju.bo1iyp73z387o91neu29u.cyou^
 ||ju.pipeagepory.cfd^
 ||jup9.com^
+||jw.y8mu9iqtrbuxiocow9iig.cyou^
 ||jwm1klv.f72ipkzu8ob5ku15.cyou^
 ||jx.trumphgroundy.cyou^
 ||jx3.freepornobook.com^
@@ -5450,12 +5423,12 @@
 ||jzduxkeumwnrfp6x.exasrv.com^
 ||jzo.bb1fm9cu612nz6ro4654h.cyou^
 ||k.33p3v9fte86o99kl9gqf7wnb7eu3v85u.cfd^
-||k.bloblohub.com^
 ||k.j1ewk1l6obggtm125fqm1bo7qlm.cyou^
 ||k15h3ogwkkl83.uzpxgfhwl3ejlegh1u4.cfd^
 ||k22svnk2.xyz^
 ||k2e9u7.ukclugv21zero4vfwq6tz64wpue.cyou^
 ||k2oez6.om7jm29izqk8wtfp2uzgiecxe2o.cyou^
+||k3lu4jt5.y814vfu5uenqwo7cbjml71lcg.cyou^
 ||k4jf249qq1.ynx1f66v5trpiumu1orcbcm.cyou^
 ||k5.levit8mzhwt4yk9nbwz1bfbw8h55exl.cyou^
 ||k5ij14j54iqlpzr.olio4n1jxvcntcw867.cyou^
@@ -5502,6 +5475,7 @@
 ||kjhbeer.go-static.info^
 ||kknrpqp1.4wppcr4tenfwjfl72vm2v.cfd^
 ||kkt.e5l7fq2pbhye1u7mbv5j32kc5b.cyou^
+||kl.yangaliofar.cfd^
 ||kly.tcfz84v8qh1iertxuq7owff3ym.cyou^
 ||km.xxmvids.site^
 ||knajpy.go-static.info^
@@ -5592,7 +5566,6 @@
 ||l.bfmtv.com^
 ||l.bibamagazine.fr^
 ||l.blissim.fr^
-||l.bloblohub.com^
 ||l.bon-esprit.fr^
 ||l.bourseinside.fr^
 ||l.caminteresse.fr^
@@ -6013,7 +5986,6 @@
 ||loc.nsfwadds.com^
 ||loc.sexymilfspics.com^
 ||loc.xtr2020.com^
-||localhost.bloblohub.com^
 ||localhost.tbllrej.com^
 ||locust.ausrebellion.earth^
 ||log.ads-m.net^
@@ -6041,6 +6013,7 @@
 ||login.adquint.com^
 ||login.adqva.com^
 ||login.adright.com^
+||login.adsaay.com^
 ||login.adsailor.com^
 ||login.adscholars.com^
 ||login.adsfloow.net^
@@ -6235,15 +6208,16 @@
 ||lx5.homeporntuber.com^
 ||lxax.com^
 ||lxwkl87ff2gyi.cle38jfzoop9fyii8rwgiy59hzi.cfd^
+||ly.rugosediactin.qpon^
 ||lynn-library.goasrv.com^
 ||lynx.inovo.io^
 ||lynx.lumy.network^
 ||lynx.simpleparish.com^
+||m.1xhutg27xghu8mhl6lnvh.cfd^
 ||m.6bnbt9kx42z2lrtz792qj8c.cyou^
 ||m.89cz84fg8ibw1r8x5l4qm8q.cfd^
 ||m.athletics.goaserv.com^
 ||m.atyrau.goaserv.com^
-||m.bloblohub.com^
 ||m.cwi71qq321fi5z2b.cyou^
 ||m.gep843hy9675xtbkv.cyou^
 ||m.go-static.info^
@@ -6398,7 +6372,6 @@
 ||mm.4z8b6b5uix2nz3645.cyou^
 ||mn.attidaepilosis.shop^
 ||mna.jasjas.site^
-||mnfk059nmyfhq8js.analytics.bloblohub.com^
 ||mnqh.429men.com^
 ||mo.backhoemoya.cfd^
 ||mobac.goaserv.com^
@@ -6489,6 +6462,7 @@
 ||n2yju89pe.tlbkbkm2cq18lp9l1xjxe6.cyou^
 ||n30m.byehd3.life^
 ||n4x2yq3gxp1vqpeej.41e23q892bwpqg.cyou^
+||n5.i3tukfk1bwvebhvq6oznk2ugqx23j.cfd^
 ||n5eburo7gn.ir8ofm5xbnwjg1ybzk76h.cyou^
 ||n62vgkvmecgpiw.mj35ntghqhg8rzvro3.cyou^
 ||n82bkk8zou53xc5.lc6y1ex4oxp8fkoz1.cyou^
@@ -6523,7 +6497,7 @@
 ||news.coveringkaty.com^
 ||news.jennydanny.com^
 ||newt.javier.dev^
-||nextcloud.bloblohub.com^
+||nextcloud.hubhubhub.name^
 ||nf1nknlw.mateforevents.com^
 ||nfs8nsaf.xyz^
 ||nhf1oe587v3l.w1ptgymrqpkqq1.cyou^
@@ -6586,6 +6560,7 @@
 ||nvjk.faptor.com^
 ||nw.duncishwhuffle.cfd^
 ||nw7xxwbb5t3n.biw65m3cxu3crfuzo.cfd^
+||nwyq5kmwfl.1hwbnu4kzc9rrphmfci.cyou^
 ||nx.lawedfractur.qpon^
 ||nx7.hdxxxclips.com^
 ||ny9u56zrr11g64cf.v259u9gbo2cejv.cyou^
@@ -6661,6 +6636,7 @@
 ||okvirtuallibrary.goaserv.com^
 ||ol.verneukcoman.help^
 ||olawa.goaserv.com^
+||old.rtxplatform.com^
 ||oljzzc14.xyz^
 ||om13c74q.g5g8cojziyg5k3bpmhcvv98243z.cyou^
 ||ome4mukj.qm26htyni5ytyutyxjz6oj63j3y.cfd^
@@ -6691,7 +6667,7 @@
 ||orangutan.equaliteam.com^
 ||orangutan.renovare.org^
 ||orca.overbold.co^
-||origin-www.bloblohub.com^
+||order.notify6.com^
 ||orionpax09.goasrv.com^
 ||orissa.goaserv.com^
 ||orlapolana.goasrv.com^
@@ -6819,7 +6795,6 @@
 ||pheasant.ampapageorgiou.gr^
 ||pheasant.sonistaging.com^
 ||pho.heo69.name^
-||phobos.n.bloblohub.com^
 ||phoebewu822.goasrv.com^
 ||photos.kiyonosaki.info^
 ||phpformgen.goasrv.com^
@@ -6921,7 +6896,6 @@
 ||pre.porno102.com^
 ||pre.pornobaton.com^
 ||pre.pornuxaxa.com^
-||preview.bloblohub.com^
 ||prias.everydayporn.com^
 ||primate.logology.co^
 ||primate.oleggera.com^
@@ -6935,18 +6909,14 @@
 ||prod-2.moarty.com^
 ||prod-3.moarty.com^
 ||prod-4.moarty.com^
-||prod.bloblohub.com^
-||production-.bloblohub.com^
 ||production.go-static.info^
 ||profile.everydayporn.com^
-||projects.bloblohub.com^
 ||proll.shemrec.cc^
 ||promote.melangeandco.com^
 ||proxena-images.reviveservers.com^
 ||proxena-secure.reviveservers.com^
 ||prsogokfqspc.cdnvideo3.com^
 ||psaqzhkc.xyz^
-||pt.bloblohub.com^
 ||pt.desi69.cyou^
 ||pt.momclips.cyou^
 ||ptarmigan.codebycorey.com^
@@ -6958,6 +6928,7 @@
 ||pu.18qgfv6xk62y3zinr.cyou^
 ||pu.bayetacaul.cyou^
 ||pu.columelsalon.cyou^
+||pu.triflysidest.cfd^
 ||pue7r.1ohcgwwn6y5rrt.cyou^
 ||puffin.leemoody.co.uk^
 ||puffin.nex4.net^
@@ -7039,6 +7010,7 @@
 ||questico-ads.reviveservers.com^
 ||question.hot-step-mom.com^
 ||quote.bloblohub.com^
+||qutmzl.t3gvot8nxp7z3cb9vri8r.cfd^
 ||qv.kbxukt3mmjflj7vj3t74gw73t.cyou^
 ||qwgn27.42x3177nnbzyrne5nprib.cyou^
 ||qwo2megh2y.bj9oo31oomni2o28z.cyou^
@@ -7069,6 +7041,7 @@
 ||r.zpnlh2qkvxzqjkln8yv1k4tq97ppozo4izi.cyou^
 ||r2.bzl4ymobfn8j69kog835xvoq7q81olmhl8j.cyou^
 ||r6m5lqwgjvtbjzoleirl3t.q1mb27ixttgn9jpq.cyou^
+||r6rew8t.7mgy2523zo2hotfjrzkgwzctez78yo1.cyou^
 ||r8l.c6z68f48gklgru273uqh6owi42qpv9ijxkb.cyou^
 ||r9efr.pf95ewyr24qqtgx2zn1r67n8u7hju5l44.cyou^
 ||r9ioiipjq3p87.itubglwvthjwop6qtukfjfbnw.cfd^
@@ -7108,7 +7081,6 @@
 ||reload.hotscopes.org^
 ||remark.dirtyships.net^
 ||remote.h24.news^
-||report.beta.bloblohub.com^
 ||reptile.delopoulos.gr^
 ||reptile.o-lit.fr^
 ||reryn3ce.com^
@@ -7410,6 +7382,7 @@
 ||rtb-eu.foremedia.net^
 ||rtb-eu.freevpnplanet.com^
 ||rtb-eu.frequency33media.com^
+||rtb-eu.globlemath.com^
 ||rtb-eu.houseofpubs.com^
 ||rtb-eu.hueadsortb.com^
 ||rtb-eu.infinity-info.com^
@@ -7420,6 +7393,7 @@
 ||rtb-eu.mobidick.xyz^
 ||rtb-eu.mobipromote.com^
 ||rtb-eu.mobuppsrtb.com^
+||rtb-eu.moola.network^
 ||rtb-eu.motionspots.com^
 ||rtb-eu.nasrev.com^
 ||rtb-eu.nativeads.com^
@@ -7709,6 +7683,7 @@
 ||rtb-uswest-v4.infinityexplorers.com^
 ||rtb-uswest-v4.jambojar.com^
 ||rtb-uswest-v4.kigoras.com^
+||rtb-uswest-v4.liftmyads.com^
 ||rtb-uswest-v4.mobidick.xyz^
 ||rtb-uswest-v4.pixelpluses.com^
 ||rtb-uswest-v4.prertbdir.com^
@@ -7806,6 +7781,7 @@
 ||rtb.adventurefeeds.com^
 ||rtb.advertrek.com^
 ||rtb.allureanews.com^
+||rtb.clickmi.net^
 ||rtb.clixportal.com^
 ||rtb.clixwells.com^
 ||rtb.eunow4u.com^
@@ -7906,7 +7882,6 @@
 ||rtbstatic.clickmi.net^
 ||rtslxo3a.xyz^
 ||rtvutrecht-static.reviveservers.com^
-||ru.bloblohub.com^
 ||run.go-track.net^
 ||ruradura.com^
 ||rveuy6j1.776447822241qk4yjjkrj4mrh1z.cfd^
@@ -8001,6 +7976,7 @@
 ||s.dsccgm.com^
 ||s.dscenn.com^
 ||s.dscgcu.com^
+||s.dscjbq.com^
 ||s.dscjnr.com^
 ||s.dscoxk.com^
 ||s.dscpxz.com^
@@ -8288,6 +8264,7 @@
 ||s.elnz21.com^
 ||s.elnz23.com^
 ||s.elpbbuqu.com^
+||s.eokuowbvy.com^
 ||s.eqviczq.com^
 ||s.etology.com^
 ||s.eunow4u.com^
@@ -8452,6 +8429,8 @@
 ||s.yhslqeecgm.com^
 ||s.yjuxuvcryc.com^
 ||s.ynwsxvtfm.com^
+||s.yokvqzoeh.com^
+||s.zcexuriph.com^
 ||s.zfurfq.com^
 ||s.zikmlg.com^
 ||s.zline0.com^
@@ -8498,8 +8477,6 @@
 ||salmon.thespiritualpsychologist.co.uk^
 ||samba.notifysrv.com^
 ||samsung.notifysrv.com^
-||sandbox-insight.bloblohub.com^
-||sandbox.bloblohub.com^
 ||saprouter.notifysrv.com^
 ||satmon.neekstore.com^
 ||saucon-sponsors.streetinteractive.com^
@@ -8738,7 +8715,6 @@
 ||st.korlumo.com^
 ||st.lautureforge.cfd^
 ||stacy.hubhubhub.name^
-||stage.bloblohub.com^
 ||stage2.goasrv.com^
 ||staging.tbadni.com^
 ||staging.yeesshh.com^
@@ -8833,6 +8809,7 @@
 ||static.adtapmedia.com^
 ||static.advertruth.com^
 ||static.advlistings.com^
+||static.advolt.in^
 ||static.adxfactory.com^
 ||static.adxnexus.com^
 ||static.afkwa.com^
@@ -8937,6 +8914,7 @@
 ||static.goodgamer.gg^
 ||static.greedygame.com^
 ||static.gsrv.dev^
+||static.hb.hyperbrainz.com^
 ||static.hiswashiscourts.com^
 ||static.hollandhortimedia.nl^
 ||static.hoomeeyesmanbest.org^
@@ -9021,6 +8999,7 @@
 ||static.regalrisemedia.com^
 ||static.reklama.network^
 ||static.reload.ad^
+||static.revantagex.com^
 ||static.revbid.net^
 ||static.rocoads.com^
 ||static.rtbfactory.com^
@@ -9117,7 +9096,6 @@
 ||stingray.reform.app^
 ||stingray.tagedraussen-film.at^
 ||stommeplaatjes.geenstijl.nl^
-||store.bloblohub.com^
 ||store.harajukustyle.live^
 ||store.nipponmall.online^
 ||store4porn.com^
@@ -9151,7 +9129,6 @@
 ||sur.corsematin.com^
 ||sur.laprovence.com^
 ||surstrom.com^
-||survey.bloblohub.com^
 ||survey.notifysrv.com^
 ||sv-pval.looksmart.com^
 ||sv-query.looksmart.com^
@@ -9297,8 +9274,6 @@
 ||termite.queerburners.org^
 ||tern.daffy.org^
 ||tern.xebel.co^
-||test-insight.bloblohub.com^
-||test.bloblohub.com^
 ||test.go-static.info^
 ||test2.notify6.com^
 ||testcommon.soundrussian.com^
@@ -9589,11 +9564,11 @@
 ||ua.daito.io^
 ||ua.shikosharply.shop^
 ||uacabilqlgpw.cdnvideo3.com^
-||uat.bloblohub.com^
 ||uauvamoscasar.goaserv.com^
 ||ubagutobr.go-static.info^
 ||ubbcluj.go-static.info^
 ||uc5gbql.c1qoyyyjlnkx4h.cyou^
+||uc768.wk7oecq4nzen7pvf.cyou^
 ||ucb.1rjm53pqcyjmb632jq.cyou^
 ||ucdn.adgebra.co^
 ||udclum1.newday.goasrv.com^
@@ -9627,7 +9602,6 @@
 ||uncch.pure.goaserv.com^
 ||uncle-johns-room.at.goasrv.com^
 ||undertale-underfell.go-static.info^
-||unicorn.bloblohub.com^
 ||unix.notifysrv.com^
 ||unkqf.goaserv.com^
 ||unlimitedskil.blog.goaserv.com^
@@ -9690,7 +9664,6 @@
 ||v1.selecttopoff.com^
 ||v1.sellbuy.click^
 ||v1.statelinear.com^
-||v2.bloblohub.com^
 ||v2.goaserv.com^
 ||v2.selecttopoff.com^
 ||v250.goaserv.com^
@@ -9710,6 +9683,7 @@
 ||varikoz.goaserv.com^
 ||vast.aimedads.com^
 ||vatandas.goasrv.com^
+||vault.hubhubhub.name^
 ||vaytieudungonline.goaserv.com^
 ||vb.irbisforcing.qpon^
 ||vb.meatheechoes.cfd^
@@ -9762,7 +9736,6 @@
 ||virginstarfm.go-static.info^
 ||virgoboy520.goaserv.com^
 ||virtual2.notifysrv.com^
-||visualize-beta.bloblohub.com^
 ||vitezamea.go-static.info^
 ||vivien640215.go-static.info^
 ||vivirmasymejor.goaserv.com^
@@ -9795,7 +9768,6 @@
 ||vozesencarnadas.hubhubhub.name^
 ||vp4159o5p5.tp2vz96fzxp47juvkl5c8v.cyou^
 ||vpkxxhloef.w3iyciznevej29fuwncw7o.cyou^
-||vpn.bloblohub.com^
 ||vpn.exasrv.com^
 ||vpn.tbllrej.com^
 ||vpn2.hubhubhub.name^
@@ -9843,6 +9815,7 @@
 ||w0973320589.go-static.info^
 ||w1.2ch-d.fun^
 ||w124.goaserv.com^
+||w2.umv4un51hvzze92.cyou^
 ||w4.ctps.go-static.info^
 ||wa.hamelmug.cfd^
 ||wa.presignhuarizo.cfd^
@@ -9886,12 +9859,10 @@
 ||wb.onflowmayfair.cyou^
 ||wb2.rgvh8uvn9t11jupkn8y7oiu1pzwun9mtwt.cyou^
 ||wb3nh.xpex769p5rt2e3hv8r2ur3ehrjxqqik6.cyou^
-||wblkp4ae.xyz^
 ||wbq5pzt.pi559hyp7l1i67tll1ehmej81vrxtk.cyou^
 ||wcvunl9fjg.4mz8b15fh5weebn7fvg2w6g4fuc.cyou^
 ||weasel.madebytune.be^
 ||weasel.sharethegoods.ca^
-||weather.bloblohub.com^
 ||web.bloblohub.com^
 ||web02.notifysrv.com^
 ||web111.goaserv.com^
@@ -10126,12 +10097,10 @@
 ||www.b.hubhubhub.name^
 ||www.bidvance.com^
 ||www.bigboy.monster^
-||www.bloblohub.com^
 ||www.blyger.hubhubhub.name^
 ||www.branchdsp.io^
 ||www.breakabletrip.com^
 ||www.budlite.hubhubhub.name^
-||www.c.bloblohub.com^
 ||www.castle.go-static.info^
 ||www.cdn-adv.unionesarda.it^
 ||www.cdn.datateam.co.uk^
@@ -10190,6 +10159,7 @@
 ||www.images.fnch.ch^
 ||www.images.hour-media.com^
 ||www.images.informatm.com^
+||www.insecure-brief.com^
 ||www.interim.go-static.info^
 ||www.iskustvenny-intellekt.ru^
 ||www.ithaca.hubhubhub.name^
@@ -10206,7 +10176,6 @@
 ||www.mpp.go-static.info^
 ||www.mred.go-static.info^
 ||www.mt.avellinfo.sbs^
-||www.n.bloblohub.com^
 ||www.n.hubhubhub.name^
 ||www.neuroc.go-static.info^
 ||www.ngfhkglghgdjliwgh.online^
@@ -10214,12 +10183,10 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.online-adnetwork.com^
-||www.p.bloblohub.com^
 ||www.packsitracks.com3419733.notifysrv.com^
 ||www.panoramy360.go-static.info^
 ||www.phuket.go-static.info^
 ||www.pickard.hubhubhub.name^
-||www.potisje.xyz^
 ||www.racun.go-static.info^
 ||www.rbp-gen1.site^
 ||www.rbp1.ru^
@@ -10333,6 +10300,7 @@
 ||xb.angiamarrers.cyou^
 ||xe.almucestabira.shop^
 ||xe.ipomeatiptop.qpon^
+||xf.cereouslooeys.qpon^
 ||xg4zw7.zuhrn4xjhyq5wm.cyou^
 ||xghpo.2ppghrgnk4qb6lv.cyou^
 ||xgn7p6.6wemoccmovpt6v.cyou^
@@ -11437,7 +11405,6 @@
 ||xml.purestreamads.com^
 ||xml.push-sense.com^
 ||xml.pushub.net^
-||xml.pyrrhicmechntech.com^
 ||xml.qualiclicks.com^
 ||xml.quiet-071b.info^
 ||xml.rapidhypercart.pro^
@@ -11574,6 +11541,7 @@
 ||xml3-v4.danarimedia.com^
 ||xml3.danarimedia.com^
 ||xmlads.adpalladium.com^
+||xmln6re.y6hhuyu13pl19h.cyou^
 ||xmlsearch.adxfactory.com^
 ||xmlserving.mobagent.com^
 ||xmlstatic.pubsfusion.com^
@@ -11581,17 +11549,16 @@
 ||xmlv4.reklama.network^
 ||xmlv6.aimkweb.com^
 ||xmrqo.2y2z3bpqp1trkh9k.cyou^
-||xn--q1a.bloblohub.com^
 ||xn.carverarist.qpon^
 ||xn.gombeencistron.cyou^
 ||xo.lucilecrined.rest^
 ||xp.26vz1uwr3qgfotgk9vuu.cyou^
 ||xp.poodleshocuses.cyou^
 ||xp.wiwiremold.cyou^
-||xp6wsv4c.xyz^
 ||xppx1662.xyz^
 ||xq.b2w8berhhkbp3bk51zh4.cyou^
 ||xr.rillekizil.cfd^
+||xr5llg7.wu3hp3ifn2ro6yk.cyou^
 ||xree6ed5.xyz^
 ||xs213.javgg.club^
 ||xtits.name^
@@ -11660,6 +11627,7 @@
 ||yibopingtai.go-static.info^
 ||yicheng0828.goasrv.com^
 ||yilinpan.go-static.info^
+||yiltp12m.ft8kmgi9u1qlym718rih.cyou^
 ||yingchaojinghua.goaserv.com^
 ||yingchaozuqiutuijie.go-static.info^
 ||yinghezuqiukaihu.go-static.info^
@@ -11670,6 +11638,8 @@
 ||yju5.v1kovnyyfzw6jyo1i4hiejwz.cyou^
 ||ykokfoyc1v.v6fxgcjj6wk58ftiytm.cyou^
 ||ykukx.1z962eokwutk7rpi2n6legcm.cyou^
+||yl.p77xhk514uizilxooptznv8jehx.cfd^
+||yl3kbhm44i.tu46lzh724l2ofewip1.cyou^
 ||ylfqm4t2b9j.1qmhlwziglrh1x4hbr.cyou^
 ||ymihc9.ponqykyn2f8zn1t78jhte8f.cyou^
 ||yn.sutteeprattle.cyou^
@@ -11689,6 +11659,7 @@
 ||yt6k33.x3xxm8i5h935ryubgpyc3b1kv.cyou^
 ||yt7ztgi0.xyz^
 ||yu.perlasuppose.qpon^
+||yuc8w9rvobiww1wlj.u7q79l7inf4jxr.cyou^
 ||yueyangwangluobaijiale.goaserv.com^
 ||yujjf6eqhrp.wnwvv2xjlf8q41oigi51.cfd^
 ||yukikoroom.blog.go-static.info^

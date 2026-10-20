@@ -26,13 +26,13 @@
 ||12b860b0f8.384b0a562f.com^
 ||12ecc9c6fe.7d7eab9082.com^
 ||1461ff57a0.3f38ffbdb5.com^
+||17084727b1.61d1b409d4.com^
 ||1b055640f0.9ab8ff816c.com^
 ||1b56948df7.0832fddfc8.com^
 ||1c46639b8d.aff15e203a.com^
 ||1ca6e3e357.a8ca394de0.com^
 ||1cbd637d10.2c8eb505eb.com^
 ||1d7179cda7.9b82388aa0.com^
-||1d7e60f18a.33cd95e164.com^
 ||1e8c293107.cf20334dc1.com^
 ||201c741203.c40e234db8.com^
 ||20be5d130c.53ed6897af.com^
@@ -85,6 +85,7 @@
 ||4bd36e6f9b.c6f5e532ff.com^
 ||4c4710bfc9.23f30d7ca1.com^
 ||4ea83ab453.dec1daff38.com^
+||4eafcef105.b7644e75ce.com^
 ||4ef55c331f.6dca8ddc4d.com^
 ||4ef8c1bbed.223001ca2c.com^
 ||4f8ebb0eef.603b61d91d.com^
@@ -114,7 +115,6 @@
 ||6aafb03a0e.c4f59ba59b.com^
 ||6aec26cade.917d078238.com^
 ||6b0085df88.0bc457ce1f.com^
-||6b387ccb0e.ff35f7a0b5.com^
 ||6b899f30bf.08d59ed715.com^
 ||6c71340b42.4b0541a1c9.com^
 ||6cec1c41da.539daa1a50.com^
@@ -267,7 +267,6 @@
 ||0160dd12b9.bc48fa9adc.com^
 ||01c6000639.48cc0c0e07.com^
 ||01d449a2ad.26e8841da4.com^
-||0241190085.2b178ee32a.com^
 ||0282ecdaf0.5b4c971817.com^
 ||03111beda1.28cb84740b.com^
 ||035bebe184.c02a1b8438.com^
@@ -562,7 +561,6 @@
 ||bb0e516729.2250c8daae.com^
 ||bb374653e7.0256d2ea99.com^
 ||bd8efddf81.6f218410f7.com^
-||bf76d9778b.7c52629d53.com^
 ||c1d4c9c1ce.2c4b614013.com^
 ||c2a7e16670.3bc2a6115d.com^
 ||c2dac81ff8.e765b97f5b.com^
@@ -785,10 +783,12 @@
 ||4fde272183.ed49f13aad.com^
 ||50eaa1d8d4.2d86bbe43f.com^
 ||51da4797bb.186494d0e1.com^
+||52d8c123b5.98f496bbc2.com^
 ||53c29bb7b5.5008677d85.com^
 ||54c1aae895.f4cd8a8bf0.com^
 ||565ddd0acd.4c4a520279.com^
 ||5872e54e6d.48f39e1095.com^
+||5921c7c895.a3daf46323.com^
 ||5947bd8bc0.04b9055b2a.com^
 ||59e6d2b66d.d1e65c72ee.com^
 ||5b73b91489.1b3472f772.com^
@@ -829,6 +829,7 @@
 ||7a3a4ea153.6a7eac2034.com^
 ||7aa4bcab99.92ab2d5ac3.com^
 ||7b455af0a3.dba1bc1fdf.com^
+||7b76345aa9.63cf61e813.com^
 ||7c92c1ceff.5394aeb3d4.com^
 ||7d2e9d0cd9.5761b6af55.com^
 ||7d55f566a6.abf0864b1b.com^
@@ -961,8 +962,10 @@
 ||fd7c9241c8.3d7b481b4d.com^
 ||fe7cc13f95.21f5f01ad3.com^
 ||v2.selecttopoff.com^
-||12114200.pix-cdn.org^
+||0241190085.2b178ee32a.com^
+||1d7e60f18a.33cd95e164.com^
 ||41b5a9e1ab.02228640b9.com^
+||12114200.pix-cdn.org^
 ||assets.ahmybid.net^
 ||bid.mbidtg.com^
 ||bid.onclcktg.com^
@@ -1057,6 +1060,7 @@
 ||jssdk.sixapypyfynela.com^
 ||jssdk.tsyndicate.com^
 ||jssdk.tubexazimebeze.com^
+||jssdk.zuzegolatehowo.com^
 ||media.accdn.dev^
 ||t97.nudevista.com^
 ||t98.nudevista.com^
@@ -1066,5 +1070,6 @@
 ||www.elderly-craft.com^
 ||www.fancy-officer.com^
 ||www.farflungeffective.com^
+||www.insecure-brief.com^
 ||www.misty-president.com^
 ||www.untimely-promotion.com^

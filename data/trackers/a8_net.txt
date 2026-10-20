@@ -374,7 +374,6 @@
 ||a8clk.17skin.jp^
 ||a8clk.1osechi.com^
 ||a8clk.292957.jp^
-||a8clk.9factor.com^
 ||a8clk.account.matsui.co.jp^
 ||a8clk.adeliv.treasure-f.com^
 ||a8clk.adventkk.co.jp^
@@ -1491,6 +1490,7 @@
 ||lp.kumamoto4510.com^
 ||mvc.shopjapan.co.jp^
 ||nccaf.ncc-mens.com^
+||nisii.resiliencelabo.com^
 ||ntt-fletscv.ntt-flets.com^
 ||onenet.gakujutsu.com^
 ||p004.raffi-hair.com^

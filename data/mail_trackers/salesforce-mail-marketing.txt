@@ -213,6 +213,7 @@
 ||10525.sock-qa1.marketingcloudqaops.com^
 ||10542.sock-qa1.marketingcloudqaops.com^
 ||10546.connector-qa1.marketingcloudqaapis.com^
+||10546.ftp-qa1.marketingcloudqaops.com^
 ||10546.sock-qa1.marketingcloudqaops.com^
 ||1055.connector-qa1.marketingcloudqaapis.com^
 ||1055.editor-qa1.marketingcloudqaapis.com^
@@ -254,6 +255,7 @@
 ||10685.sfap-qa1.marketingcloudqaops.com^
 ||10693.sfap-qa1.marketingcloudqaops.com^
 ||10703.connector-qa1.marketingcloudqaapis.com^
+||10703.ftp-qa1.marketingcloudqaops.com^
 ||10703.sock-qa1.marketingcloudqaops.com^
 ||10710.sfap-qa1.marketingcloudqaops.com^
 ||10720.connector-qa1.marketingcloudqaapis.com^
@@ -261,6 +263,7 @@
 ||10724.editor-qa1.marketingcloudqaapis.com^
 ||10728.editor-qa1.marketingcloudqaapis.com^
 ||10734.editor-qa1.marketingcloudqaapis.com^
+||10734.sfap-qa1.marketingcloudqaops.com^
 ||10735.editor-qa1.marketingcloudqaapis.com^
 ||10764.editor-qa1.marketingcloudqaapis.com^
 ||10776.sock-qa1.marketingcloudqaops.com^
@@ -328,6 +331,7 @@
 ||11196.connector-qa1.marketingcloudqaapis.com^
 ||11196.editor-qa1.marketingcloudqaapis.com^
 ||11196.ftp-qa1.marketingcloudqaops.com^
+||11214.connector-qa1.marketingcloudqaapis.com^
 ||11214.editor-qa1.marketingcloudqaapis.com^
 ||11247.sfap-qa1.marketingcloudqaops.com^
 ||11252.connector-qa1.marketingcloudqaapis.com^
@@ -451,6 +455,7 @@
 ||11880.editor-qa1.marketingcloudqaapis.com^
 ||11884.editor-qa1.marketingcloudqaapis.com^
 ||11897.editor-qa1.marketingcloudqaapis.com^
+||11916.connector-qa1.marketingcloudqaapis.com^
 ||11916.sock-qa1.marketingcloudqaops.com^
 ||11927.editor-qa1.marketingcloudqaapis.com^
 ||11927.sfap-qa1.marketingcloudqaops.com^
@@ -462,6 +467,7 @@
 ||11976.connector-qa1.marketingcloudqaapis.com^
 ||11978.editor-qa1.marketingcloudqaapis.com^
 ||11dkim1._domainkey.biz.maxis.com.my^
+||11dkim1._domainkey.e.affirm.ca^
 ||11dkim1._domainkey.e.ulta.com^
 ||11dkim1._domainkey.ealerts2.bankofamerica.com^
 ||11dkim1._domainkey.email.lively.com^
@@ -540,6 +546,7 @@
 ||12415.editor-qa1.marketingcloudqaapis.com^
 ||1243.connector-qa1.marketingcloudqaapis.com^
 ||1243.editor-qa1.marketingcloudqaapis.com^
+||12465.sfap-qa1.marketingcloudqaops.com^
 ||12489.editor-qa1.marketingcloudqaapis.com^
 ||12493.sfap-qa1.marketingcloudqaops.com^
 ||12503.editor-qa1.marketingcloudqaapis.com^
@@ -644,6 +651,7 @@
 ||13224.editor-qa1.marketingcloudqaapis.com^
 ||1323.connector-qa1.marketingcloudqaapis.com^
 ||13236.editor-qa1.marketingcloudqaapis.com^
+||13236.sfap-qa1.marketingcloudqaops.com^
 ||13238.connector-qa1.marketingcloudqaapis.com^
 ||13238.editor-qa1.marketingcloudqaapis.com^
 ||13238.ftp-qa1.marketingcloudqaops.com^
@@ -710,8 +718,11 @@
 ||13802.sfap-qa1.marketingcloudqaops.com^
 ||13811.sfap-qa1.marketingcloudqaops.com^
 ||13813.editor-qa1.marketingcloudqaapis.com^
+||13813.ftp-qa1.marketingcloudqaops.com^
 ||13813.sock-qa1.marketingcloudqaops.com^
+||13818.connector-qa1.marketingcloudqaapis.com^
 ||13818.editor-qa1.marketingcloudqaapis.com^
+||13818.ftp-qa1.marketingcloudqaops.com^
 ||1383.connector-qa1.marketingcloudqaapis.com^
 ||1383.sfap-qa1.marketingcloudqaops.com^
 ||13839.connector-qa1.marketingcloudqaapis.com^
@@ -848,6 +859,7 @@
 ||1491.sock-qa1.marketingcloudqaops.com^
 ||14923.editor-qa1.marketingcloudqaapis.com^
 ||1493.editor-qa1.marketingcloudqaapis.com^
+||1493.sfap-qa1.marketingcloudqaops.com^
 ||14932.editor-qa1.marketingcloudqaapis.com^
 ||14933.connector-qa1.marketingcloudqaapis.com^
 ||14933.editor-qa1.marketingcloudqaapis.com^
@@ -885,6 +897,7 @@
 ||15238.connector-qa1.marketingcloudqaapis.com^
 ||15241.ftp-qa1.marketingcloudqaops.com^
 ||15252.editor-qa1.marketingcloudqaapis.com^
+||15263.editor-qa1.marketingcloudqaapis.com^
 ||15266.ftp-qa1.marketingcloudqaops.com^
 ||15314.editor-qa1.marketingcloudqaapis.com^
 ||15314.sock-qa1.marketingcloudqaops.com^
@@ -916,6 +929,7 @@
 ||15527.sfap-qa1.marketingcloudqaops.com^
 ||15539.sfap-qa1.marketingcloudqaops.com^
 ||15544.editor-qa1.marketingcloudqaapis.com^
+||15544.sfap-qa1.marketingcloudqaops.com^
 ||15544.sock-qa1.marketingcloudqaops.com^
 ||1555.sfap-qa1.marketingcloudqaops.com^
 ||1555.sock-qa1.marketingcloudqaops.com^
@@ -1013,6 +1027,7 @@
 ||16377.sfap-qa1.marketingcloudqaops.com^
 ||16387.editor-qa1.marketingcloudqaapis.com^
 ||16403.editor-qa1.marketingcloudqaapis.com^
+||16405.sfap-qa1.marketingcloudqaops.com^
 ||16406.editor-qa1.marketingcloudqaapis.com^
 ||16415.editor-qa1.marketingcloudqaapis.com^
 ||16464.connector-qa1.marketingcloudqaapis.com^
@@ -1074,6 +1089,7 @@
 ||1711.sfap-qa1.marketingcloudqaops.com^
 ||17114.connector-qa1.marketingcloudqaapis.com^
 ||17137.editor-qa1.marketingcloudqaapis.com^
+||17153.ftp-qa1.marketingcloudqaops.com^
 ||17158.sfap-qa1.marketingcloudqaops.com^
 ||1716.connector-qa1.marketingcloudqaapis.com^
 ||1716.sfap-qa1.marketingcloudqaops.com^
@@ -1110,6 +1126,7 @@
 ||17489.sfap-qa1.marketingcloudqaops.com^
 ||17489.sock-qa1.marketingcloudqaops.com^
 ||17500.editor-qa1.marketingcloudqaapis.com^
+||17507.sfap-qa1.marketingcloudqaops.com^
 ||17514.ftp-qa1.marketingcloudqaops.com^
 ||17523.editor-qa1.marketingcloudqaapis.com^
 ||1756.connector-qa1.marketingcloudqaapis.com^
@@ -1159,6 +1176,7 @@
 ||18057.ftp-qa1.marketingcloudqaops.com^
 ||18082.editor-qa1.marketingcloudqaapis.com^
 ||18082.sfap-qa1.marketingcloudqaops.com^
+||18091.connector-qa1.marketingcloudqaapis.com^
 ||18091.ftp-qa1.marketingcloudqaops.com^
 ||18105.editor-qa1.marketingcloudqaapis.com^
 ||1812.editor-qa1.marketingcloudqaapis.com^
@@ -1181,6 +1199,7 @@
 ||1833.editor-qa1.marketingcloudqaapis.com^
 ||1833.ftp-qa1.marketingcloudqaops.com^
 ||1833.sfap-qa1.marketingcloudqaops.com^
+||18331.sock-qa1.marketingcloudqaops.com^
 ||18341.connector-qa1.marketingcloudqaapis.com^
 ||18341.editor-qa1.marketingcloudqaapis.com^
 ||18360.sock-qa1.marketingcloudqaops.com^
@@ -1219,7 +1238,9 @@
 ||18683.editor-qa1.marketingcloudqaapis.com^
 ||18715.editor-qa1.marketingcloudqaapis.com^
 ||18715.ftp-qa1.marketingcloudqaops.com^
+||18760.sock-qa1.marketingcloudqaops.com^
 ||18770.editor-qa1.marketingcloudqaapis.com^
+||18770.sfap-qa1.marketingcloudqaops.com^
 ||18774.sock-qa1.marketingcloudqaops.com^
 ||18794.editor-qa1.marketingcloudqaapis.com^
 ||18799.sock-qa1.marketingcloudqaops.com^
@@ -1261,11 +1282,13 @@
 ||1919.sock-qa1.marketingcloudqaops.com^
 ||19203.editor-qa1.marketingcloudqaapis.com^
 ||19205.ftp-qa1.marketingcloudqaops.com^
+||19205.sfap-qa1.marketingcloudqaops.com^
 ||19207.editor-qa1.marketingcloudqaapis.com^
 ||19207.sfap-qa1.marketingcloudqaops.com^
 ||1924.connector-qa1.marketingcloudqaapis.com^
 ||1924.editor-qa1.marketingcloudqaapis.com^
 ||1924.sfap-qa1.marketingcloudqaops.com^
+||1924.sock-qa1.marketingcloudqaops.com^
 ||19243.editor-qa1.marketingcloudqaapis.com^
 ||19263.editor-qa1.marketingcloudqaapis.com^
 ||19265.editor-qa1.marketingcloudqaapis.com^
@@ -1481,6 +1504,7 @@
 ||20998.editor-qa1.marketingcloudqaapis.com^
 ||210.ftp-qa1.marketingcloudqaops.com^
 ||21013.connector-qa1.marketingcloudqaapis.com^
+||21057.ftp-qa1.marketingcloudqaops.com^
 ||21062.connector-qa1.marketingcloudqaapis.com^
 ||21077.editor-qa1.marketingcloudqaapis.com^
 ||21077.ftp-qa1.marketingcloudqaops.com^
@@ -1514,11 +1538,13 @@
 ||21440.ftp-qa1.marketingcloudqaops.com^
 ||21482.editor-qa1.marketingcloudqaapis.com^
 ||21493.editor-qa1.marketingcloudqaapis.com^
+||21504.editor-qa1.marketingcloudqaapis.com^
 ||21510.ftp-qa1.marketingcloudqaops.com^
 ||21513.editor-qa1.marketingcloudqaapis.com^
 ||21531.editor-qa1.marketingcloudqaapis.com^
 ||21536.sock-qa1.marketingcloudqaops.com^
 ||2154.connector-qa1.marketingcloudqaapis.com^
+||21542.ftp-qa1.marketingcloudqaops.com^
 ||21545.editor-qa1.marketingcloudqaapis.com^
 ||21553.editor-qa1.marketingcloudqaapis.com^
 ||21553.sfap-qa1.marketingcloudqaops.com^
@@ -1543,6 +1569,7 @@
 ||21914.editor-qa1.marketingcloudqaapis.com^
 ||21930.editor-qa1.marketingcloudqaapis.com^
 ||21943.connector-qa1.marketingcloudqaapis.com^
+||21943.ftp-qa1.marketingcloudqaops.com^
 ||21946.sfap-qa1.marketingcloudqaops.com^
 ||2195.editor-qa1.marketingcloudqaapis.com^
 ||2195.sfap-qa1.marketingcloudqaops.com^
@@ -1557,7 +1584,9 @@
 ||2206.sock-qa1.marketingcloudqaops.com^
 ||22068.ftp-qa1.marketingcloudqaops.com^
 ||22085.editor-qa1.marketingcloudqaapis.com^
+||22100.sock-qa1.marketingcloudqaops.com^
 ||22105.editor-qa1.marketingcloudqaapis.com^
+||22105.sfap-qa1.marketingcloudqaops.com^
 ||22124.editor-qa1.marketingcloudqaapis.com^
 ||22138.editor-qa1.marketingcloudqaapis.com^
 ||22146.editor-qa1.marketingcloudqaapis.com^
@@ -1652,6 +1681,7 @@
 ||22938.editor-qa1.marketingcloudqaapis.com^
 ||22938.sfap-qa1.marketingcloudqaops.com^
 ||22938.sock-qa1.marketingcloudqaops.com^
+||22947.sock-qa1.marketingcloudqaops.com^
 ||22949.editor-qa1.marketingcloudqaapis.com^
 ||22957.editor-qa1.marketingcloudqaapis.com^
 ||22957.ftp-qa1.marketingcloudqaops.com^
@@ -1669,6 +1699,7 @@
 ||23080.editor-qa1.marketingcloudqaapis.com^
 ||23085.connector-qa1.marketingcloudqaapis.com^
 ||23100.editor-qa1.marketingcloudqaapis.com^
+||23100.ftp-qa1.marketingcloudqaops.com^
 ||23113.sfap-qa1.marketingcloudqaops.com^
 ||23117.editor-qa1.marketingcloudqaapis.com^
 ||23130.ftp-qa1.marketingcloudqaops.com^
@@ -1698,11 +1729,13 @@
 ||23443.sock-qa1.marketingcloudqaops.com^
 ||23454.editor-qa1.marketingcloudqaapis.com^
 ||23454.sfap-qa1.marketingcloudqaops.com^
+||23456.connector-qa1.marketingcloudqaapis.com^
 ||2348.editor-qa1.marketingcloudqaapis.com^
 ||2348.ftp-qa1.marketingcloudqaops.com^
 ||2348.sfap-qa1.marketingcloudqaops.com^
 ||2350.connector-qa1.marketingcloudqaapis.com^
 ||2350.sfap-qa1.marketingcloudqaops.com^
+||23501.sock-qa1.marketingcloudqaops.com^
 ||2353.connector-qa1.marketingcloudqaapis.com^
 ||2353.editor-qa1.marketingcloudqaapis.com^
 ||2353.sfap-qa1.marketingcloudqaops.com^
@@ -1746,6 +1779,7 @@
 ||23844.sock-qa1.marketingcloudqaops.com^
 ||23860.editor-qa1.marketingcloudqaapis.com^
 ||23860.ftp-qa1.marketingcloudqaops.com^
+||23896.connector-qa1.marketingcloudqaapis.com^
 ||23906.editor-qa1.marketingcloudqaapis.com^
 ||2391.connector-qa1.marketingcloudqaapis.com^
 ||2391.sock-qa1.marketingcloudqaops.com^
@@ -1805,6 +1839,7 @@
 ||24391.editor-qa1.marketingcloudqaapis.com^
 ||24391.sfap-qa1.marketingcloudqaops.com^
 ||24406.editor-qa1.marketingcloudqaapis.com^
+||24406.ftp-qa1.marketingcloudqaops.com^
 ||24434.editor-qa1.marketingcloudqaapis.com^
 ||24488.editor-qa1.marketingcloudqaapis.com^
 ||2452.editor-qa1.marketingcloudqaapis.com^
@@ -1848,6 +1883,7 @@
 ||24911.editor-qa1.marketingcloudqaapis.com^
 ||24911.ftp-qa1.marketingcloudqaops.com^
 ||24911.sfap-qa1.marketingcloudqaops.com^
+||24921.ftp-qa1.marketingcloudqaops.com^
 ||24953.editor-qa1.marketingcloudqaapis.com^
 ||24957.sock-qa1.marketingcloudqaops.com^
 ||24964.sfap-qa1.marketingcloudqaops.com^
@@ -1857,6 +1893,7 @@
 ||25002.editor-qa1.marketingcloudqaapis.com^
 ||25002.ftp-qa1.marketingcloudqaops.com^
 ||25002.sfap-qa1.marketingcloudqaops.com^
+||25029.sock-qa1.marketingcloudqaops.com^
 ||25046.connector-qa1.marketingcloudqaapis.com^
 ||25046.editor-qa1.marketingcloudqaapis.com^
 ||25046.ftp-qa1.marketingcloudqaops.com^
@@ -1934,6 +1971,7 @@
 ||25615.connector-qa1.marketingcloudqaapis.com^
 ||25615.editor-qa1.marketingcloudqaapis.com^
 ||25635.connector-qa1.marketingcloudqaapis.com^
+||25638.sock-qa1.marketingcloudqaops.com^
 ||2564.connector-qa1.marketingcloudqaapis.com^
 ||2564.editor-qa1.marketingcloudqaapis.com^
 ||2564.ftp-qa1.marketingcloudqaops.com^
@@ -2007,6 +2045,7 @@
 ||26187.sock-qa1.marketingcloudqaops.com^
 ||26203.editor-qa1.marketingcloudqaapis.com^
 ||26206.sfap-qa1.marketingcloudqaops.com^
+||26227.sock-qa1.marketingcloudqaops.com^
 ||26251.editor-qa1.marketingcloudqaapis.com^
 ||26252.editor-qa1.marketingcloudqaapis.com^
 ||26264.editor-qa1.marketingcloudqaapis.com^
@@ -2071,6 +2110,7 @@
 ||2684.sock-qa1.marketingcloudqaops.com^
 ||26850.editor-qa1.marketingcloudqaapis.com^
 ||26877.connector-qa1.marketingcloudqaapis.com^
+||26877.sock-qa1.marketingcloudqaops.com^
 ||269.connector-qa1.marketingcloudqaapis.com^
 ||269.editor-qa1.marketingcloudqaapis.com^
 ||26918.editor-qa1.marketingcloudqaapis.com^
@@ -2150,6 +2190,7 @@
 ||27821.sfap-qa1.marketingcloudqaops.com^
 ||27829.editor-qa1.marketingcloudqaapis.com^
 ||27839.sock-qa1.marketingcloudqaops.com^
+||27873.connector-qa1.marketingcloudqaapis.com^
 ||27873.editor-qa1.marketingcloudqaapis.com^
 ||27876.connector-qa1.marketingcloudqaapis.com^
 ||27876.sock-qa1.marketingcloudqaops.com^
@@ -2249,6 +2290,7 @@
 ||2894.sfap-qa1.marketingcloudqaops.com^
 ||2894.sock-qa1.marketingcloudqaops.com^
 ||28950.editor-qa1.marketingcloudqaapis.com^
+||28966.sock-qa1.marketingcloudqaops.com^
 ||28987.editor-qa1.marketingcloudqaapis.com^
 ||29005.ftp-qa1.marketingcloudqaops.com^
 ||29005.sfap-qa1.marketingcloudqaops.com^
@@ -2451,11 +2493,13 @@
 ||31153.ftp-qa1.marketingcloudqaops.com^
 ||31160.connector-qa1.marketingcloudqaapis.com^
 ||31168.editor-qa1.marketingcloudqaapis.com^
+||31183.connector-qa1.marketingcloudqaapis.com^
 ||31183.editor-qa1.marketingcloudqaapis.com^
 ||31187.editor-qa1.marketingcloudqaapis.com^
 ||31203.editor-qa1.marketingcloudqaapis.com^
 ||31218.editor-qa1.marketingcloudqaapis.com^
 ||31226.connector-qa1.marketingcloudqaapis.com^
+||31246.editor-qa1.marketingcloudqaapis.com^
 ||31246.sfap-qa1.marketingcloudqaops.com^
 ||31322.editor-qa1.marketingcloudqaapis.com^
 ||31333.sfap-qa1.marketingcloudqaops.com^
@@ -2481,6 +2525,7 @@
 ||31482.editor-qa1.marketingcloudqaapis.com^
 ||31489.editor-qa1.marketingcloudqaapis.com^
 ||3150.ftp-qa1.marketingcloudqaops.com^
+||3150.sfap-qa1.marketingcloudqaops.com^
 ||3151.connector-qa1.marketingcloudqaapis.com^
 ||3151.sock-qa1.marketingcloudqaops.com^
 ||31510.ftp-qa1.marketingcloudqaops.com^
@@ -2602,6 +2647,7 @@
 ||3355.connector-qa1.marketingcloudqaapis.com^
 ||3355.editor-qa1.marketingcloudqaapis.com^
 ||3356.connector-qa1.marketingcloudqaapis.com^
+||3356.sfap-qa1.marketingcloudqaops.com^
 ||3369.connector-qa1.marketingcloudqaapis.com^
 ||3369.editor-qa1.marketingcloudqaapis.com^
 ||3369.sock-qa1.marketingcloudqaops.com^
@@ -2703,6 +2749,7 @@
 ||4164.ftp-qa1.marketingcloudqaops.com^
 ||4164.sfap-qa1.marketingcloudqaops.com^
 ||4172.connector-qa1.marketingcloudqaapis.com^
+||4177.connector-qa1.marketingcloudqaapis.com^
 ||4181.sfap-qa1.marketingcloudqaops.com^
 ||4182.connector-qa1.marketingcloudqaapis.com^
 ||4182.sock-qa1.marketingcloudqaops.com^
@@ -2784,6 +2831,7 @@
 ||4745.sock-qa1.marketingcloudqaops.com^
 ||475.connector-qa1.marketingcloudqaapis.com^
 ||4789.ftp-qa1.marketingcloudqaops.com^
+||4801.sfap-qa1.marketingcloudqaops.com^
 ||4821.sock-qa1.marketingcloudqaops.com^
 ||4837.connector-qa1.marketingcloudqaapis.com^
 ||4866.sock-qa1.marketingcloudqaops.com^
@@ -2951,6 +2999,7 @@
 ||5742.sfap-qa1.marketingcloudqaops.com^
 ||5742.sock-qa1.marketingcloudqaops.com^
 ||5778.connector-qa1.marketingcloudqaapis.com^
+||5779.sock-qa1.marketingcloudqaops.com^
 ||5786.connector-qa1.marketingcloudqaapis.com^
 ||5797.connector-qa1.marketingcloudqaapis.com^
 ||5813.connector-qa1.marketingcloudqaapis.com^
@@ -2973,9 +3022,11 @@
 ||5901.ftp-qa1.marketingcloudqaops.com^
 ||5901.sock-qa1.marketingcloudqaops.com^
 ||5912.connector-qa1.marketingcloudqaapis.com^
+||5912.editor-qa1.marketingcloudqaapis.com^
 ||5912.sfap-qa1.marketingcloudqaops.com^
 ||5920.sock-qa1.marketingcloudqaops.com^
 ||5930.ftp-qa1.marketingcloudqaops.com^
+||5945.ftp-qa1.marketingcloudqaops.com^
 ||5959.connector-qa1.marketingcloudqaapis.com^
 ||5959.editor-qa1.marketingcloudqaapis.com^
 ||5959.ftp-qa1.marketingcloudqaops.com^
@@ -3043,6 +3094,7 @@
 ||6562.connector-qa1.marketingcloudqaapis.com^
 ||658.connector-qa1.marketingcloudqaapis.com^
 ||658.sfap-qa1.marketingcloudqaops.com^
+||6587.ftp-qa1.marketingcloudqaops.com^
 ||6600.ftp-qa1.marketingcloudqaops.com^
 ||6600.sfap-qa1.marketingcloudqaops.com^
 ||661.editor-qa1.marketingcloudqaapis.com^
@@ -3055,6 +3107,8 @@
 ||6671.connector-qa1.marketingcloudqaapis.com^
 ||6671.sfap-qa1.marketingcloudqaops.com^
 ||6673.sfap-qa1.marketingcloudqaops.com^
+||6675.ftp-qa1.marketingcloudqaops.com^
+||6675.sfap-qa1.marketingcloudqaops.com^
 ||6676.connector-qa1.marketingcloudqaapis.com^
 ||6676.ftp-qa1.marketingcloudqaops.com^
 ||6681.editor-qa1.marketingcloudqaapis.com^
@@ -3125,6 +3179,7 @@
 ||7352.ftp-qa1.marketingcloudqaops.com^
 ||7369.ftp-qa1.marketingcloudqaops.com^
 ||74.editor-qa1.marketingcloudqaapis.com^
+||74.ftp-qa1.marketingcloudqaops.com^
 ||74.sfap-qa1.marketingcloudqaops.com^
 ||74.sock-qa1.marketingcloudqaops.com^
 ||7402.editor-qa1.marketingcloudqaapis.com^
@@ -3150,6 +3205,7 @@
 ||7599.editor-qa1.marketingcloudqaapis.com^
 ||7599.ftp-qa1.marketingcloudqaops.com^
 ||7606.sfap-qa1.marketingcloudqaops.com^
+||7629.sfap-qa1.marketingcloudqaops.com^
 ||7655.editor-qa1.marketingcloudqaapis.com^
 ||7658.editor-qa1.marketingcloudqaapis.com^
 ||7697.connector-qa1.marketingcloudqaapis.com^
@@ -3164,6 +3220,7 @@
 ||7800.editor-qa1.marketingcloudqaapis.com^
 ||7800.sock-qa1.marketingcloudqaops.com^
 ||7855.sock-qa1.marketingcloudqaops.com^
+||7856.editor-qa1.marketingcloudqaapis.com^
 ||7863.connector-qa1.marketingcloudqaapis.com^
 ||7863.editor-qa1.marketingcloudqaapis.com^
 ||7878.connector-qa1.marketingcloudqaapis.com^
@@ -3193,6 +3250,7 @@
 ||8271.sfap-qa1.marketingcloudqaops.com^
 ||829.editor-qa1.marketingcloudqaapis.com^
 ||829.sock-qa1.marketingcloudqaops.com^
+||8326.sock-qa1.marketingcloudqaops.com^
 ||8330.connector-qa1.marketingcloudqaapis.com^
 ||8346.connector-qa1.marketingcloudqaapis.com^
 ||8353.connector-qa1.marketingcloudqaapis.com^
@@ -3308,6 +3366,7 @@
 ||9764.ftp-qa1.marketingcloudqaops.com^
 ||977.sock-qa1.marketingcloudqaops.com^
 ||9782.connector-qa1.marketingcloudqaapis.com^
+||9782.editor-qa1.marketingcloudqaapis.com^
 ||9796.ftp-qa1.marketingcloudqaops.com^
 ||9808.ftp-qa1.marketingcloudqaops.com^
 ||9808.sfap-qa1.marketingcloudqaops.com^
@@ -3325,6 +3384,7 @@
 ||990.sfap-qa1.marketingcloudqaops.com^
 ||990.sock-qa1.marketingcloudqaops.com^
 ||9900.editor-qa1.marketingcloudqaapis.com^
+||9902.sfap-qa1.marketingcloudqaops.com^
 ||9908.ftp-qa1.marketingcloudqaops.com^
 ||9922.editor-qa1.marketingcloudqaapis.com^
 ||9928.editor-qa1.marketingcloudqaapis.com^
@@ -3378,7 +3438,6 @@
 ||click.2occupationalenglishtest.org^
 ||click.a.amaysim.com.au^
 ||click.absarbb.absa.africa^
-||click.acronis.email^
 ||click.action.shsforgov.com^
 ||click.activate.urosario.edu.co^
 ||click.admissions.hawkeyecollege.edu^
@@ -3499,7 +3558,6 @@
 ||click.cciio-spidr.cms.gov^
 ||click.cee.foodpanda.com^
 ||click.cfd1.commsec.com.au^
-||click.chainpump.motordlr.com^
 ||click.chairishnewsletter.com^
 ||click.chasing-fireflies-email.com^
 ||click.choc-childrens.org^
@@ -3529,6 +3587,7 @@
 ||click.commonsense-email.org^
 ||click.comms.9saver.com.au^
 ||click.comms.betr.com.au^
+||click.comms.cynergybank.co.uk^
 ||click.comms.gocardless.com^
 ||click.comms.gumtree.com^
 ||click.comms.homes.co.nz^
@@ -3583,6 +3642,7 @@
 ||click.contact.disneystore.com^
 ||click.contact.flycorsair.com^
 ||click.contact.gvb.nl^
+||click.contact.intellicloudconnect.com^
 ||click.contact.shopdisney.com^
 ||click.contact.stores-discount.com^
 ||click.contactmyeasysante.com^
@@ -3591,7 +3651,7 @@
 ||click.contactopel.com^
 ||click.contactosuperxtra.com^
 ||click.contacts.pagesjaunes.fr^
-||click.contato.catho.com.br^
+||click.contato.estadao.com.br^
 ||click.contato.serasa.com.br^
 ||click.content.jdrf.org^
 ||click.content.trace.tv^
@@ -3599,6 +3659,7 @@
 ||click.contenu-sante.info^
 ||click.conteudo.microtecnica.com.br^
 ||click.conviveoffers.com^
+||click.convoymarketing-email.com^
 ||click.coosaludeps.com^
 ||click.cornmarketgroup.ie^
 ||click.correo.newmanchile.cl^
@@ -3624,6 +3685,7 @@
 ||click.crm.kaplaninternational.com^
 ||click.crm.lexus.ru^
 ||click.crm.pharmacity.io^
+||click.crm.toyota.ie^
 ||click.crm.virgingalactic.com^
 ||click.crmsf.colombo.com.br^
 ||click.crownlovehome.com^
@@ -3642,7 +3704,6 @@
 ||click.dallascountypromise-email.org^
 ||click.dermhs.abbvie.com^
 ||click.deutscheawm.db.com^
-||click.deutschebankwm.db.com^
 ||click.diabetes.roche.com^
 ||click.digital.allcare.com.br^
 ||click.digital.halldata.com^
@@ -3656,7 +3717,6 @@
 ||click.directpathhealth-email.com^
 ||click.discover.coterieinsurance.com^
 ||click.discover.nyit.edu^
-||click.disney-email.com^
 ||click.disneydebit.com^
 ||click.divulga.atlanticahotels.com.br^
 ||click.divulga.mktsebrae.com.br^
@@ -3704,6 +3764,7 @@
 ||click.e.bbcmail.co.uk^
 ||click.e.bellflight.com^
 ||click.e.berlei.com.au^
+||click.e.bonds.com.au^
 ||click.e.bosswatches.co.uk^
 ||click.e.brookfieldproperties.com^
 ||click.e.bs2.com^
@@ -3791,6 +3852,7 @@
 ||click.e.orangebank.es^
 ||click.e.pearle.nl^
 ||click.e.pennstatehealth.psu.edu^
+||click.e.pepper.money^
 ||click.e.personalcreations.com^
 ||click.e.pharmaprix.ca^
 ||click.e.photoanswers.co.uk^
@@ -3801,6 +3863,7 @@
 ||click.e.producernews.metlife.com^
 ||click.e.pxg.com^
 ||click.e.q13fox.com^
+||click.e.qlmortgageservices.com^
 ||click.e.reclamador.es^
 ||click.e.recordrentacar.com^
 ||click.e.redrocksonline.com^
@@ -3817,8 +3880,8 @@
 ||click.e.seniormarketadvisors.com^
 ||click.e.sheridan.com.au^
 ||click.e.snsgrills.com^
+||click.e.spark.co.nz^
 ||click.e.starbucks.com.mx^
-||click.e.supercuts.com^
 ||click.e.surveymonkey.com^
 ||click.e.tartecosmetics.com^
 ||click.e.thepunch.com.au^
@@ -3856,8 +3919,10 @@
 ||click.ecommunication.tpt.org^
 ||click.econsumerconnection.com^
 ||click.edm.carsguide.com.au^
+||click.edm.colonialfirststate.com.au^
 ||click.edm.educationmalaysia.gov.my^
 ||click.edm.nothing.tech^
+||click.edm.sony.tw^
 ||click.edsouth-email.com^
 ||click.edu.mindhubweb.com^
 ||click.efamilydollar.com^
@@ -4004,6 +4069,7 @@
 ||click.email.alerus.com^
 ||click.email.alibre.com^
 ||click.email.allerganrussia.com^
+||click.email.aloyoga.com^
 ||click.email.american-equity.com^
 ||click.email.americastestkitchen.com^
 ||click.email.amfamconnect.com^
@@ -4044,6 +4110,7 @@
 ||click.email.bulq.com^
 ||click.email.businessspectator.com.au^
 ||click.email.buyr.com^
+||click.email.buysub.com^
 ||click.email.bylinebank.com^
 ||click.email.caesars.co.uk^
 ||click.email.capalphadc.com^
@@ -4124,7 +4191,8 @@
 ||click.email.events.canadarunningseries.com^
 ||click.email.everydayrewards.com.au^
 ||click.email.exoduscapitalcre.com^
-||click.email.externaled.hms.harvard.edu^
+||click.email.expressnews.com^
+||click.email.fairfax.com.au^
 ||click.email.farmersagent.com^
 ||click.email.federalpremium.com^
 ||click.email.fei.com.br^
@@ -4152,6 +4220,7 @@
 ||click.email.getsporttrade.com^
 ||click.email.gitlab.cn^
 ||click.email.glories.es.westfield.com^
+||click.email.golfplus.fr^
 ||click.email.goutalparis.com^
 ||click.email.grandcanyonlodges.com^
 ||click.email.grandoptical.pt^
@@ -4166,6 +4235,7 @@
 ||click.email.hatley.com^
 ||click.email.healthnet.com^
 ||click.email.hindawi.com^
+||click.email.hirezstudios.net^
 ||click.email.hispanicstar.org^
 ||click.email.hollandandbarrett.com^
 ||click.email.hollisterco.com^
@@ -4261,6 +4331,7 @@
 ||click.email.newburycomics.com^
 ||click.email.newindfoods.com^
 ||click.email.ngsmedicare.com^
+||click.email.nikkihaley.com^
 ||click.email.niumba.com^
 ||click.email.nn-group.com^
 ||click.email.northeast.aaa.com^
@@ -4275,6 +4346,7 @@
 ||click.email.opentable.com^
 ||click.email.opentable.com.au^
 ||click.email.opentable.de^
+||click.email.orinswift.com^
 ||click.email.pacers.com^
 ||click.email.packers.com^
 ||click.email.pamperedchef.com^
@@ -4293,6 +4365,7 @@
 ||click.email.planurevents.com^
 ||click.email.pluralpublishing.com^
 ||click.email.popsockets.com^
+||click.email.ppgac.com^
 ||click.email.practicefusion.com^
 ||click.email.prenatal.nl^
 ||click.email.prezzorestaurants.co.uk^
@@ -4352,6 +4425,8 @@
 ||click.email.suunto.com^
 ||click.email.tandon.nyu.edu^
 ||click.email.teachersoftomorrow.org^
+||click.email.techdata.co.uk^
+||click.email.techdata.no^
 ||click.email.technology.fairfax.com.au^
 ||click.email.telepass.com^
 ||click.email.terlato.com^
@@ -4367,6 +4442,7 @@
 ||click.email.ticketmaster.be^
 ||click.email.ticketmaster.co.uk^
 ||click.email.ticketmaster.com.au^
+||click.email.ticketmaster.com.br^
 ||click.email.ticketmaster.de^
 ||click.email.ticketmaster.es^
 ||click.email.ticketmaster.fr^
@@ -4455,6 +4531,7 @@
 ||click.emails.lifeisgood.com^
 ||click.emails.mancity.com^
 ||click.emails.marshallheadphones.com^
+||click.emails.membersccu.org^
 ||click.emails.orange-business.com^
 ||click.emails.pajamagram.com^
 ||click.emails.patelco.org^
@@ -4512,7 +4589,6 @@
 ||click.enoticesystem.com^
 ||click.envio2.ciahering.com.br^
 ||click.envios.buscape.com.br^
-||click.envios.cityexpress.com^
 ||click.envios.zoom.com.br^
 ||click.eodb.grangeagent.com^
 ||click.epost.mestergronn.no^
@@ -4547,6 +4623,7 @@
 ||click.f-semparar.com.br^
 ||click.familia.ptvtelecom.com^
 ||click.familysearch.ldschurch.org^
+||click.fanmail.chicago-fire.com^
 ||click.fanshop.mlblists.com^
 ||click.farmloyalty.com^
 ||click.faw.tmmsg.com^
@@ -4562,6 +4639,8 @@
 ||click.flash.mylio.com^
 ||click.flipkeyrentals.com^
 ||click.flynas-email.com^
+||click.fm.firstmedia.id^
+||click.frhicommunications.com^
 ||click.frl-research.facebookmail.com^
 ||click.ft.money-media.com^
 ||click.fully.holmesmurphy.com^
@@ -4620,7 +4699,6 @@
 ||click.hello.runiondentalgroup.com^
 ||click.hello.rustica.fr^
 ||click.hello.teachable.com^
-||click.hello.wiris.com^
 ||click.helloaesinternational.com^
 ||click.helsinkifestival.info^
 ||click.hfecorp.net^
@@ -4639,7 +4717,6 @@
 ||click.hubspotemail.com^
 ||click.hwahomewarranty-email.com^
 ||click.i.aramex.com^
-||click.i.hepsiburada.com^
 ||click.i.selinafinance.co.uk^
 ||click.i.southwesternrailway.com^
 ||click.idaho.optum.com^
@@ -4724,7 +4801,6 @@
 ||click.info.olx.com.pk^
 ||click.info.olx.in^
 ||click.info.pixelbylabcorp.com^
-||click.info.rent-toyota.jp^
 ||click.info.s-pankki.fi^
 ||click.info.satellic.be^
 ||click.info.sealand.com^
@@ -4786,9 +4862,9 @@
 ||click.leasing.bankofamerica.com^
 ||click.legacyscs-mail.com^
 ||click.leinsterrugby.mobi^
+||click.lenovo-comms.lenovo.com^
 ||click.leolandiadigital.it^
 ||click.linnateatteri.info^
-||click.list.lonelyplanet.com^
 ||click.lists.biblegateway.com^
 ||click.lizhobbs.tmmsg.com^
 ||click.lmhhealth.cerner.com^
@@ -4882,6 +4958,7 @@
 ||click.mail.fadente.es^
 ||click.mail.familysearch.org^
 ||click.mail.firstlite.com^
+||click.mail.fmasfarmacias.es^
 ||click.mail.gbc-team.com^
 ||click.mail.gobicashmere.com^
 ||click.mail.goldsgym.jp^
@@ -4935,7 +5012,6 @@
 ||click.mail.secure-tix.com^
 ||click.mail.service.optus.com.au^
 ||click.mail.shacombank.com.hk^
-||click.mail.sho.com^
 ||click.mail.shopdisney.asia^
 ||click.mail.skyperfectv.co.jp^
 ||click.mail.stiho.nl^
@@ -4945,6 +5021,7 @@
 ||click.mail.theguardian.com^
 ||click.mail.themeateater.com^
 ||click.mail.tiendamolinos.com^
+||click.mail.tomorrowland.co.jp^
 ||click.mail.torfx.com.au^
 ||click.mail.toysrus.com^
 ||click.mail.trophikos.com^
@@ -4991,7 +5068,6 @@
 ||click.mailmkt.saopaulomania.com.br^
 ||click.mailroom.lincolncenter.org^
 ||click.mails.autoscout24.fr^
-||click.mails.glenans.asso.fr^
 ||click.mailsf.coinpayments.net^
 ||click.mailusa.coca-cola.com^
 ||click.mailvicpark.com^
@@ -5067,6 +5143,7 @@
 ||click.mc.epson.jp^
 ||click.mc.financeit.io^
 ||click.mc.innovation.co.jp^
+||click.mc.kellogg.northwestern.edu^
 ||click.mc.kyusai.co.jp^
 ||click.mc.meliuz.com.br^
 ||click.mc.roompot.nl^
@@ -5080,6 +5157,7 @@
 ||click.mc.wm.auone.jp^
 ||click.mc.zoo.dk^
 ||click.mcdev.skillsfuture.gov.sg^
+||click.mcemail.hbfdental.com.au^
 ||click.mcld.salesforce.com^
 ||click.mcloud.pikolinos.com^
 ||click.mcuat.skillsfuture.gov.sg^
@@ -5097,8 +5175,10 @@
 ||click.memories.bluemountain.ca^
 ||click.menolippu.net^
 ||click.mercadeoemaileltiempo.com^
+||click.merck.com^
 ||click.merzaestheticsbrasil.com^
 ||click.message.georgetown.edu^
+||click.message.promega.com^
 ||click.message.sclhealth.org^
 ||click.message.uvm.edu^
 ||click.messages.fwaction.org^
@@ -5192,7 +5272,6 @@
 ||click.news.bowl.com^
 ||click.news.bringmeister.de^
 ||click.news.camperdays.com^
-||click.news.cataloniahotels.com^
 ||click.news.clubnissanfinance.com^
 ||click.news.condis.es^
 ||click.news.coop-mineraloel.ch^
@@ -5206,6 +5285,7 @@
 ||click.news.gatorade.com^
 ||click.news.getmostofcoins.com^
 ||click.news.giuseppezanotti.com^
+||click.news.gordonbrothers.com^
 ||click.news.gruppofarmacieitaliane.it^
 ||click.news.homegate.ch^
 ||click.news.integralmedica.com.br^
@@ -5215,6 +5295,7 @@
 ||click.news.lidl.sk^
 ||click.news.loft.com.br^
 ||click.news.mambomerge.app^
+||click.news.medela.de^
 ||click.news.merkur-sports.de^
 ||click.news.mini.de^
 ||click.news.niumba.com^
@@ -5228,6 +5309,7 @@
 ||click.news.schutz.com.br^
 ||click.news.shop.com.mm^
 ||click.news.standprive.com^
+||click.news.student-factory.com^
 ||click.news.superbid.com.co^
 ||click.news.superbid.com.pe^
 ||click.news.szigetfestival.com^
@@ -5240,6 +5322,7 @@
 ||click.newsletter.adidas.co.za^
 ||click.newsletter.agorastore.fr^
 ||click.newsletter.erborian.ae^
+||click.newsletter.fiverr.com^
 ||click.newsletter.madavor.com^
 ||click.newsletter.medscape.fr^
 ||click.newsletter.on-running.com^
@@ -5253,6 +5336,7 @@
 ||click.newsout.polo-motorrad.com^
 ||click.newsthecorner.com^
 ||click.nl.aramisauto.com^
+||click.nl.lumimart.ch^
 ||click.nl.travaux.com^
 ||click.non-profit.online^
 ||click.noreply.michiganlottery.com^
@@ -5325,6 +5409,7 @@
 ||click.phillysjunited.info^
 ||click.photoemail.walgreens.com^
 ||click.pilotflyingj.com^
+||click.plads.aflac.com^
 ||click.plainte-en-ligne.masecurite.interieur.gouv.fr^
 ||click.playstationmail.net^
 ||click.pmcu-email.org^
@@ -5400,7 +5485,6 @@
 ||click.reply.fridays.com^
 ||click.reply.marketingsherpa.com^
 ||click.reply.mktmarathonkids.org^
-||click.reply.pacificsmiles.com.au^
 ||click.reply.spie.org^
 ||click.respond.imshealth.com^
 ||click.response.ebags.com^
@@ -5503,6 +5587,7 @@
 ||click.ship.vercel.com^
 ||click.shop.lids.com^
 ||click.shpteam.com^
+||click.simplify.vivint.com^
 ||click.sk.mercedes-benz.eu^
 ||click.sleepcountrycanada.com^
 ||click.slotonews.com^
@@ -5551,6 +5636,7 @@
 ||click.suncountry.email^
 ||click.suomenkomediateatteri.info^
 ||click.supportmmf.org.nz^
+||click.swissotelcommunications.com^
 ||click.synexus-email.com^
 ||click.t.atlassian.com^
 ||click.t.choc.org^
@@ -5569,6 +5655,7 @@
 ||click.teammccluskey.com^
 ||click.teatteri.tmmsg.com^
 ||click.teatteririo.live^
+||click.techdata.pl^
 ||click.tecnichenuove.info^
 ||click.telenorarena.info^
 ||click.telethonkids-email.org^
@@ -5588,11 +5675,9 @@
 ||click.ticketmaster.tmmsg.com^
 ||click.ticketmasterbiletix.com^
 ||click.ticketsnow-email.com^
-||click.tim.sf.celulardireto.com.br^
 ||click.timesfreepress-email.com^
 ||click.tlcnotifications.com^
 ||click.tmclient.tmm.ticketmaster.co.uk^
-||click.tmmessenger.ticketmaster.com^
 ||click.tmresale.ticketmaster.com.au^
 ||click.tqdfmail.topqualitydogfood.com^
 ||click.tracking2.geeksquad.com^
@@ -5696,6 +5781,7 @@
 ||click.vox.cartaotenda.com.br^
 ||click.vphcp.abbvie.com^
 ||click.wakasa-seikatsu.com^
+||click.wamos.info^
 ||click.warnermusiclive.info^
 ||click.wawa-email.com^
 ||click.weare.delirium.ro^
@@ -5757,10 +5843,12 @@
 ||cloud.amex.davidjones.com.au^
 ||cloud.amicalolafallslodge-email.com^
 ||cloud.amplificapital.com^
+||cloud.ampp.org^
 ||cloud.apderm-email.com^
 ||cloud.aps.att-mail.com^
 ||cloud.arsenal.com.mx^
 ||cloud.artikaforliving.ca^
+||cloud.ascensiadiabetes.com^
 ||cloud.astrowi-email.com^
 ||cloud.audi.es^
 ||cloud.awhr-email.com^
@@ -6091,6 +6179,7 @@
 ||cloud.email.pistons.com^
 ||cloud.email.prideindustries.com^
 ||cloud.email.proactiveforher.com^
+||cloud.email.relationclient-matmut.fr^
 ||cloud.email.riemarcaden.de^
 ||cloud.email.rondesantis.com^
 ||cloud.email.smartline.com.au^
@@ -6104,8 +6193,10 @@
 ||cloud.email.t-fal.com.mx^
 ||cloud.email.taggermedia.com^
 ||cloud.email.tcmevents.org^
+||cloud.email.techdata.co.uk^
 ||cloud.email.theralogix.com^
 ||cloud.email.ticketera.com^
+||cloud.email.tonya.co.jp^
 ||cloud.email.tooa.com^
 ||cloud.email.topocentras.lt^
 ||cloud.email.totalwellbeingdiet.com^
@@ -6159,8 +6250,10 @@
 ||cloud.enews.wgvu.org^
 ||cloud.engage.surface.com^
 ||cloud.engage.virginia.edu^
+||cloud.engagys.com^
 ||cloud.enphants-edm.com^
 ||cloud.envio.sistemapoliedro.com^
+||cloud.epssanitas.com^
 ||cloud.erabelgium-mail.be^
 ||cloud.escada.news^
 ||cloud.esp.foxnation.com^
@@ -6259,6 +6352,7 @@
 ||cloud.info.rothelec.com^
 ||cloud.info.s-pankki.fi^
 ||cloud.info.slec.org.sg^
+||cloud.info.smithbucklin.com^
 ||cloud.info.softbankselection.jp^
 ||cloud.info.ticketmaster.com.br^
 ||cloud.info.ticketmaster.de^
@@ -6405,6 +6499,7 @@
 ||cloud.mails.autoscout24.nl^
 ||cloud.mailvicpark.com^
 ||cloud.manras-tech.com^
+||cloud.marineatlantic.ca^
 ||cloud.marketing-cassinelli.com^
 ||cloud.marketing-chevalier-conservation.com^
 ||cloud.marketing-gms-store.com^
@@ -6466,6 +6561,7 @@
 ||cloud.miamiclubnews.com^
 ||cloud.minha.portocred.com.br^
 ||cloud.mistermenuiserie-email.com^
+||cloud.mixedssl.securethemails.com^
 ||cloud.mkt.better.com^
 ||cloud.mkt.boavistaservicos.com.br^
 ||cloud.mkt.cpb.com.br^
@@ -6551,6 +6647,7 @@
 ||cloud.onecrmsfpoc.com^
 ||cloud.oneguard-mail.com^
 ||cloud.orchardemail.com^
+||cloud.orogoldmxcrm.com.mx^
 ||cloud.oseana.info^
 ||cloud.oulunkarpat.info^
 ||cloud.oup.com^
@@ -6818,11 +6915,14 @@
 ||email.detroitnews.com^
 ||email.dnj.com^
 ||email.donatos.com^
+||email.doublevpartners.com^
 ||email.eesus.jnj.com^
 ||email.fnamerica.com^
 ||email.gruslabs.com^
 ||email.medullallc.com^
+||email.mtdproducts.ca^
 ||email.news-press.com^
+||email.opencourse.com^
 ||email.realtymogul.com^
 ||email.tenthousandvillages.com^
 ||email.trousseaunews.com.br^
@@ -6840,6 +6940,7 @@
 ||eu-west-domain.cloud.s11.sfmc-osl.com^
 ||eu-west-gateway.cloud.s11.sfmc-osl.com^
 ||eu-west-ui.cloud.s11.sfmc-osl.com^
+||event.rio.cloud^
 ||events.epicbrokers.com^
 ||events.lamartina.com^
 ||events.rio.cloud^
@@ -7343,7 +7444,9 @@
 ||hx360.himss.org^
 ||i2lobalid3.click.s11.sfmc-osl.com^
 ||ils.click.s11.sfmc-osl.com^
+||images.emails.united.com^
 ||indonesia.click.s11.sfmc-osl.com^
+||info.allinclusivemarketing.com^
 ||info.dfs.com^
 ||info.e.maccas.com.au^
 ||info.mktg-atlasparts.ca^
@@ -7389,6 +7492,7 @@
 ||mca4693b.view-qa1.sfmc-marketingqa.com^
 ||mca4693f.view-qa1.sfmc-marketingqa.com^
 ||mca46954.view-qa1.sfmc-marketingqa.com^
+||mca4698e.view-qa1.sfmc-marketingqa.com^
 ||mca469a0.view-qa1.sfmc-marketingqa.com^
 ||mca46a12.view-qa1.sfmc-marketingqa.com^
 ||mca46a2d.view-qa1.sfmc-marketingqa.com^
@@ -7421,6 +7525,7 @@
 ||pages.1-800-tocover.com^
 ||pages.13.mail.salesforce.com^
 ||pages.92yemail.org^
+||pages.99only.com^
 ||pages.a.altrarunning.com^
 ||pages.a.amaysim.com.au^
 ||pages.a.e.monash.edu^
@@ -7518,12 +7623,14 @@
 ||pages.bju-press.com^
 ||pages.bkhacken.tmmsg.com^
 ||pages.blackburn.tmm.ticketmaster.co.uk^
+||pages.blackpool.tmm.ticketmaster.co.uk^
 ||pages.blackpoolfc.tmmsg.com^
 ||pages.blog.trivago.com^
 ||pages.bluefetchfast.com^
 ||pages.blues.tmmsg.com^
 ||pages.bluewavesolar-email.com^
 ||pages.bluhomesevents.com^
+||pages.bmocreditcards.bmo.com^
 ||pages.bnlx.hellofresh.link^
 ||pages.bodyandsoul.email^
 ||pages.boletines.helvetia.es^
@@ -7697,6 +7804,7 @@
 ||pages.crocs-email.com^
 ||pages.cryptogossip.info^
 ||pages.csf.carrefoursolucoes.com.br^
+||pages.cshlnews.com^
 ||pages.cswg-email.com^
 ||pages.cta-mailings.org^
 ||pages.cta-tech.org^
@@ -8369,6 +8477,7 @@
 ||pages.email.walmarttoday.com^
 ||pages.email.wework.com^
 ||pages.email.whirlpool.eu^
+||pages.email.yammer.com^
 ||pages.email.yeezy.gap.com^
 ||pages.email.yourhairnews.com^
 ||pages.email.zalando-lounge.com^
@@ -8417,6 +8526,7 @@
 ||pages.emails.jp.skechers.com^
 ||pages.emails.key.com^
 ||pages.emails.nationalgridus.com^
+||pages.emails.natwest.com^
 ||pages.emails.nestle.co.uk^
 ||pages.emails.nl.skechers.com^
 ||pages.emails.norton.com^
@@ -8666,6 +8776,7 @@
 ||pages.info.mnh.fr^
 ||pages.info.mobilepay.dk^
 ||pages.info.naviance.com^
+||pages.info.olx.pt^
 ||pages.info.pathe.fr^
 ||pages.info.pixiv.net^
 ||pages.info.polestar.com^
@@ -8782,6 +8893,7 @@
 ||pages.mail-westsystem.com^
 ||pages.mail.aig.com^
 ||pages.mail.all.com^
+||pages.mail.americanfunds.com^
 ||pages.mail.armani-beauty.ca^
 ||pages.mail.ascendex.com^
 ||pages.mail.att-mail.com^
@@ -8864,6 +8976,7 @@
 ||pages.mail.ralphlaurenfragrances.com^
 ||pages.mail.sbtpg.com^
 ||pages.mail.schwab.com^
+||pages.mail.scion.com^
 ||pages.mail.service.optus.com.au^
 ||pages.mail.service.thehartford.com^
 ||pages.mail.shopdisney.asia^
@@ -8927,6 +9040,7 @@
 ||pages.mails.autoscout24.nl^
 ||pages.mails.leasingmarkt.de^
 ||pages.mails.schwab.com^
+||pages.mails.takealot.com^
 ||pages.mailsf.coinpayments.net^
 ||pages.mailvicpark.com^
 ||pages.mallconfirmation.com^
@@ -9186,6 +9300,7 @@
 ||pages.nva.target.com^
 ||pages.nvgaming.nvidia.com^
 ||pages.nyrrmail.org^
+||pages.oce.abdiibrahim.com.tr^
 ||pages.oceanhome.online^
 ||pages.ocrm1.pearson.com^
 ||pages.odexperience.wal-mart.com^
@@ -9205,6 +9320,7 @@
 ||pages.onecrmsfpoc.com^
 ||pages.onefifty.warnermedia.com^
 ||pages.oneguard-mail.com^
+||pages.online.rmit.edu.au^
 ||pages.onlineservices.intuit.com^
 ||pages.open4serv-email.org^
 ||pages.operaciones-cla.cl^
@@ -9243,6 +9359,7 @@
 ||pages.phillysjunited.info^
 ||pages.phmkt.lge.com^
 ||pages.photoemail.walgreens.com^
+||pages.playstationmail.net^
 ||pages.pmcu-email.org^
 ||pages.points.aircanada.com^
 ||pages.politik.coop.ch^
@@ -9519,6 +9636,7 @@
 ||pages.theatreclub.tmmsg.com^
 ||pages.thebowesmuseum.com^
 ||pages.theconcierge.info^
+||pages.thedailylaunch-email.com^
 ||pages.theinvestingboxes.com^
 ||pages.thmkt.lge.com^
 ||pages.ticket.klm.com^
@@ -9946,9 +10064,12 @@
 ||shop2.click.s11.sfmc-osl.com^
 ||signup-globalid3.click.s11.sfmc-osl.com^
 ||site.email.oberlo.com^
+||site.shoppingitaquera.com.br^
 ||smlobalid3.click.s11.sfmc-osl.com^
+||social.fitnessmarket.com.co^
 ||social.memberemail.com^
 ||social.teachtci.com^
+||southafricawest.click.s11.sfmc-osl.com^
 ||spb.click.s11.sfmc-osl.com^
 ||springlobalid3.click.s11.sfmc-osl.com^
 ||srs.click.s11.sfmc-osl.com^
@@ -9986,7 +10107,6 @@
 ||tl-2w5577vzhnkf5wjk85wtkq60y.click-sap.sfmc-marketing.com^
 ||tl-6y3k4hcgpwjw1xw4jnrkpfkq0.click-sap.sfmc-marketing.com^
 ||tl-77y1mhd0qv9zx3jtj1-dt5g10.click-sap.sfmc-marketing.com^
-||tl-97pn39y7k8jj253n6swfjpckm.click-sap.sfmc-marketing.com^
 ||tl-b7h23h244jh1b9pt-j7k25vzq.click-sap.sfmc-marketing.com^
 ||tl-bjpgsm4mrfj1dw1qw1hc62lk8.view-sap.sfmc-marketing.com^
 ||tl-d-2z8cyzyg055vrvpklrqh8p4.cp-sap.sfmc-content.com^
@@ -10003,6 +10123,7 @@
 ||tl000lytk6gm32zsg6sh8ryx56w1.cp-sap.sfmc-content.com^
 ||tl007vz529rddrpqn46d0s-7zw6m.cp-sap.sfmc-content.com^
 ||tl00kb23523hwjcq1fjq4wtj23t8.click-sap.sfmc-marketing.com^
+||tl016-cxmhfpm7pmgtlwlmdzccs1.cp-sap.sfmc-content.com^
 ||tl02tll229w05f8wxltf67xcb9t4.cp-sap.sfmc-content.com^
 ||tl03lncpszx6pxxlhjhmlftz70w4.view-sap.sfmc-marketing.com^
 ||tl05ycvbjrkspq442lrbh7572tmy.cp-sap.sfmc-content.com^
@@ -10082,10 +10203,10 @@
 ||tl57zy3wtjqlj3f9tn7gtxfv7y70.click-sap.sfmc-marketing.com^
 ||tl59vz0m50twcyzrsn3k35b0c6ry.view-sap.sfmc-marketing.com^
 ||tl5bzr31nv92lyfrfj804l254l4m.click-sap.sfmc-marketing.com^
+||tl5dpmp5y-h37sf311cy5v0vvwf1.cp-sap.sfmc-content.com^
 ||tl5hmf9js0cccngcrvcsmwcqdhbq.cp-sap.sfmc-content.com^
 ||tl5hr7gt64l-xxb7v9wm3l7m2w81.cp-sap.sfmc-content.com^
 ||tl5hxcnsc1jlxlyytnjvx725bw18.click-sap.sfmc-marketing.com^
-||tl5hyg4zgfjvcgl3hmf23t4zm5f8.click-sap.sfmc-marketing.com^
 ||tl5lg3g31r43rglvzr2v0jg7-j-1.click-sap.sfmc-marketing.com^
 ||tl5n6zp835m7jthtmqt70-y4bt0q.click-sap.sfmc-marketing.com^
 ||tl5rs7-907xnzfs7hrmgsnqfvmz4.cp-sap.sfmc-content.com^
@@ -10155,7 +10276,6 @@
 ||tlb43ycsb7h-8xrrhn83fhsj9tn8.cp-sap.sfmc-content.com^
 ||tlb5h9gwghgknlxxt9f83k6c0k-y.click-sap.sfmc-marketing.com^
 ||tlb5hncj9h30zmq2tzbc7b1nxcl8.cp-sap.sfmc-content.com^
-||tlb6-l5yn6r4l98w05484-0lb3f0.click-sap.sfmc-marketing.com^
 ||tlb7ypmf-thh8pr25gt6mj8xrp04.view-sap.sfmc-marketing.com^
 ||tlb8-p6bv0xm07w21bhhb8p-ng-4.click-sap.sfmc-marketing.com^
 ||tlb9ycx2chhh7c747nj7p1cwc481.cp-sap.sfmc-content.com^
@@ -10256,6 +10376,7 @@
 ||tlhlvx-227-kdfwyxwc91cw32hc0.cp-sap.sfmc-content.com^
 ||tlhqszlv7y0krprdlk8m8-60dg-4.click-sap.sfmc-marketing.com^
 ||tlhqz77dxvqf1ggz0k-wcmwks9wm.view-sap.sfmc-marketing.com^
+||tlhrcfxq6qylrbhkwm-g88z5rwfm.cp-sap.sfmc-content.com^
 ||tlhrhpg-kwc8wzf0vhds-h4px6jm.cp-sap.sfmc-content.com^
 ||tlhsbh94dz904-676-6vcd33q478.click-sap.sfmc-marketing.com^
 ||tlhsqnjsd06yn620th2xd2gjqbv0.click-sap.sfmc-marketing.com^
@@ -10294,7 +10415,6 @@
 ||tlkbbmxljclzgn2m4m4xrq90b1ym.cp-sap.sfmc-content.com^
 ||tlkbtx13gj2wl5vpkl2wrmjvfk84.click-sap.sfmc-marketing.com^
 ||tlkcvt9qlzljnbjkx8dpsl5r7vc4.click-sap.sfmc-marketing.com^
-||tlkd3q3r7kxsdtfbrlt96lsp5n44.click-sap.sfmc-marketing.com^
 ||tlkh0nnzl0jtq29zssp3dsfmwy9y.click-sap.sfmc-marketing.com^
 ||tlkjx6dpd6nlltb0c40cwsc9nf2m.cp-sap.sfmc-content.com^
 ||tlkkch75dvj7gjb7s1vzcpz0x0qq.view-sap.sfmc-marketing.com^
@@ -10350,6 +10470,7 @@
 ||tlngdbs6dmpkj8gwl-kmlnh6bn-4.click-sap.sfmc-marketing.com^
 ||tlnh14j096d7lcbp5qztf6qrbl84.cp-sap.sfmc-content.com^
 ||tlnhl-xspp4wkwwcb-gvwy-j5rw0.click-sap.sfmc-marketing.com^
+||tlnj66vf02sm90q6krn0f4514fw8.cp-sap.sfmc-content.com^
 ||tlnl3701zg8nr33xhk9v7jk1g6hm.view-sap.sfmc-marketing.com^
 ||tlnln5h5xfm4060xwlj007fp6sg4.cp-sap.sfmc-content.com^
 ||tlnmh-0d5-vzqskc198p-1x333t4.click-sap.sfmc-marketing.com^
@@ -10389,7 +10510,6 @@
 ||tlq4zrhm0r9fm41xz9gpn379y5y4.cp-sap.sfmc-content.com^
 ||tlq602jchs-pc2v9lhwqyyl5phv1.view-sap.sfmc-marketing.com^
 ||tlq62qg2b87x8dp6zk95cs9b4qx8.cp-sap.sfmc-content.com^
-||tlq797wznl8r3vl0p85s4rxvz6z0.click-sap.sfmc-marketing.com^
 ||tlq8nj3qchq0xm183w4tddrnxxtm.view-sap.sfmc-marketing.com^
 ||tlq9qv7f-yzfw2dhj026s1hp2dpm.cp-sap.sfmc-content.com^
 ||tlqdnd5wc217br11z307qvghm7h4.view-sap.sfmc-marketing.com^
@@ -10466,6 +10586,7 @@
 ||tltpr4kr8-p8jy7stzzvz1k1-czq.cp-sap.sfmc-content.com^
 ||tlttffb668qn3yrqjq9xzn90-px1.click-sap.sfmc-marketing.com^
 ||tltw07j4ttq6hwzlhkwrz27pjk44.cp-sap.sfmc-content.com^
+||tltwbtfgrpfs7m22p6x1qz9pcq71.click-sap.sfmc-marketing.com^
 ||tltwvs2vs7kzrq2pjv1tjwvj2v4q.click-sap.sfmc-marketing.com^
 ||tltynlr-v59tttr9kjsq4t8y708y.click-sap.sfmc-marketing.com^
 ||tlv2n9gvs1ckx0bs9nrzlrytqqt1.cp-sap.sfmc-content.com^
@@ -10719,6 +10840,7 @@
 ||view.citycon-marketing.com^
 ||view.classicvacationsemail.com^
 ||view.click-services.total.be^
+||view.client-airfrance.com^
 ||view.clientes.unicaja.es^
 ||view.clientlink.mckinsey.com^
 ||view.cloud.flowfact.de^
@@ -10748,6 +10870,7 @@
 ||view.communications.gitam.edu^
 ||view.communications.intuit.net^
 ||view.communications.neteller.com^
+||view.communications.rustomjee.com^
 ||view.communications.securetrust.com^
 ||view.communitye-mail.com^
 ||view.company.angieslist.com^
@@ -10989,7 +11112,9 @@
 ||view.e.xperthr.com^
 ||view.e.yelp.com^
 ||view.e.zurich.co.uk^
+||view.e1.commentsold.com^
 ||view.e2.aicpastore.com^
+||view.e2.overtons.com^
 ||view.e3.tripadvisor.cn^
 ||view.ecmcnews.org^
 ||view.ecole-rubika-edu.com^
@@ -11194,6 +11319,7 @@
 ||view.email.euralille.fr.westfield.com^
 ||view.email.eurekareport.com.au^
 ||view.email.eveonline.com^
+||view.email.externaled.hms.harvard.edu^
 ||view.email.ezra.com^
 ||view.email.federalpremium.com^
 ||view.email.floenergy.sg^
@@ -11215,6 +11341,7 @@
 ||view.email.hoteles.com^
 ||view.email.hotels.com^
 ||view.email.hsfcu.com^
+||view.email.hylte-lantman.com^
 ||view.email.iconfitness.com^
 ||view.email.ilfattosocialclub.it^
 ||view.email.indy.gov^
@@ -11282,6 +11409,7 @@
 ||view.email.nationalofficefurniture.com^
 ||view.email.ncbc.com^
 ||view.email.neupro.com^
+||view.email.newburycomics.com^
 ||view.email.ngsmedicare.com^
 ||view.email.nicklpass.com^
 ||view.email.niumba.com^
@@ -11321,6 +11449,7 @@
 ||view.email.personalcapital.com^
 ||view.email.petinsurance.com^
 ||view.email.pfchangs.com^
+||view.email.phideltatheta.org^
 ||view.email.pistons.com^
 ||view.email.piwi.com.br^
 ||view.email.planurevents.com^
@@ -11985,6 +12114,7 @@
 ||view.mail.rj.org^
 ||view.mail.rr.com.au^
 ||view.mail.sbtpg.com^
+||view.mail.scion.com^
 ||view.mail.servermonkey.com^
 ||view.mail.service.optus.com.au^
 ||view.mail.shopdisney.asia^
@@ -12167,6 +12297,7 @@
 ||view.mkt.elo7.com.br^
 ||view.mkt.evolutionwellness.com^
 ||view.mkt.iotmart.com^
+||view.mkt.lesmills.mx^
 ||view.mkt.lojadomecanico.com.br^
 ||view.mkt.lojasmarisa.com.br^
 ||view.mkt.looxloo.com^
@@ -12186,8 +12317,10 @@
 ||view.mortgage.arvest.com^
 ||view.motoristsgroup-email.com^
 ||view.motosport-email.com^
+||view.msd.com^
 ||view.msfmail.ouicar.com^
 ||view.msg-interdent.com^
+||view.msg.akcpetinsurance.com^
 ||view.msg.salesforce.com^
 ||view.msig-insurance.com^
 ||view.mtb.com^
@@ -12238,6 +12371,7 @@
 ||view.news.cving.com^
 ||view.news.daraz.com^
 ||view.news.eatoye.pk^
+||view.news.ekstrasens.fr^
 ||view.news.epicgames.com^
 ||view.news.europecomics.com^
 ||view.news.fermob.com^
@@ -12410,6 +12544,7 @@
 ||view.reply.carle.com^
 ||view.reply.fridays.com^
 ||view.reply.homeadvantage.com^
+||view.reply.ien.com^
 ||view.reply.instaflex.com^
 ||view.reply.lexisnexis.com^
 ||view.reply.lww.com^
@@ -12530,6 +12665,7 @@
 ||view.sfcoe.shell.com^
 ||view.sfdcemail.massmutual.com^
 ||view.sfemail.kimball.com^
+||view.sfemail.layeronemedia.com^
 ||view.sfitrucksfinancing.com^
 ||view.sfm.bebeboutik.com^
 ||view.sfmail.indo.es^
@@ -12807,6 +12943,7 @@
 ||vmware.click.s11.sfmc-osl.com^
 ||vxtxxv7cxa664vjf.cloud.s11.sfmc-osl.com^
 ||wealthgridchiefstableattain.xyz^
+||web.albinigroup.com^
 ||web.audi.it^
 ||web.magnamail.com.au^
 ||web.mitsubishi-motors.it^
@@ -12905,6 +13042,7 @@
 ||zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com^
 ||click.a32.amsidlr.com^
 ||click.a33.asburydlr.com^
+||click.acronis.email^
 ||click.adv.kent.edu^
 ||click.afs-usa.org^
 ||click.airfrance.klm-corporatetravel-email.com^
@@ -12927,6 +13065,7 @@
 ||click.camshaft.motordlr.com^
 ||click.capcenteremail.com^
 ||click.carriage.motordlr.com^
+||click.chainpump.motordlr.com^
 ||click.claro.sf.celulardireto.com.br^
 ||click.click-services.total.be^
 ||click.client-airfrance.com^
@@ -12948,12 +13087,14 @@
 ||click.customerlicensing.transport.nsw.gov.au^
 ||click.delivery.magazinediscountcenter.com^
 ||click.deutscheam.db.com^
+||click.deutschebankwm.db.com^
 ||click.dexcom-email.com^
 ||click.diesel.motordlr.com^
 ||click.digital.citylink.com.au^
 ||click.digital.govia.com.au^
 ||click.digital.nmg.de^
 ||click.discover.questel.com^
+||click.disney-email.com^
 ||click.e-mail.crayola.com^
 ||click.e-mail.swanson-vitamins.com^
 ||click.e-nastygal.com^
@@ -12985,9 +13126,9 @@
 ||click.e.proplants.com^
 ||click.e.safaribooksonline.com^
 ||click.e.saltlake.littleamerica.com^
+||click.e.supercuts.com^
 ||click.e.universaltraveller.com.au^
 ||click.e2.cgma.org^
-||click.edm.colonialfirststate.com.au^
 ||click.efashion-wholesaleronline.com^
 ||click.ekit.connectmiles.com^
 ||click.elektrowagen.motordlr.com^
@@ -13005,7 +13146,6 @@
 ||click.email-wwt.com^
 ||click.email.actrol.com.au^
 ||click.email.adler.edu^
-||click.email.aloyoga.com^
 ||click.email.architecturalceramics.com^
 ||click.email.babyjogger.com^
 ||click.email.beallsflorida.com^
@@ -13036,6 +13176,7 @@
 ||click.email.eveonline.com^
 ||click.email.exetel.com.au^
 ||click.email.expomarkers.com^
+||click.email.externaled.hms.harvard.edu^
 ||click.email.familyprotect.com^
 ||click.email.fastmed.com^
 ||click.email.greyhoundaustralia.com.au^
@@ -13043,7 +13184,6 @@
 ||click.email.handshake.com^
 ||click.email.harristeeterbymarianos.com^
 ||click.email.hartmann.info^
-||click.email.hirezstudios.net^
 ||click.email.id90travel.com^
 ||click.email.imaginarium.info^
 ||click.email.integralads.com^
@@ -13100,6 +13240,7 @@
 ||click.engage.ferris.edu^
 ||click.engage.microfocus.com^
 ||click.engage.pharma.novartis.ca^
+||click.envios.cityexpress.com^
 ||click.es.abbvie.com^
 ||click.et.lids.com^
 ||click.et.thelimited.com^
@@ -13134,6 +13275,7 @@
 ||click.homecreditus-mail.com^
 ||click.homestarfc-connect.com^
 ||click.huckaufnews.de^
+||click.i.hepsiburada.com^
 ||click.ie.abbvie.com^
 ||click.induction.motordlr.com^
 ||click.info.californiabankofcommerce.com^
@@ -13142,11 +13284,13 @@
 ||click.info.lazada.com^
 ||click.info.marcorian.com^
 ||click.info.pureinsurance.com^
+||click.info.rent-toyota.jp^
 ||click.info.trasmediterranea.es^
 ||click.infos.sncf.com^
 ||click.inspire.integrativenutrition.com^
 ||click.jp.novartis.com^
 ||click.lakeblackshearresort-email.com^
+||click.list.lonelyplanet.com^
 ||click.lottery.ohio.gov^
 ||click.m.mos.jp^
 ||click.m30.mileonedlr.com^
@@ -13156,7 +13300,6 @@
 ||click.mail.cedyna.co.jp^
 ||click.mail.dermoskinbeauty.com.mx^
 ||click.mail.evino.com.br^
-||click.mail.fmasfarmacias.es^
 ||click.mail.gerbergear.com^
 ||click.mail.grupovaughan.com^
 ||click.mail.laroche-posay.cl^
@@ -13172,6 +13315,7 @@
 ||click.mail.playstation.com.cn^
 ||click.mail.prodigyfinance.com^
 ||click.mail.resona-gr.co.jp^
+||click.mail.sho.com^
 ||click.mail.sling.com^
 ||click.mail.stylistbeauty-centroamerica.com^
 ||click.mail.sunglasswarehouse.com^
@@ -13186,6 +13330,7 @@
 ||click.mailing.leenbakker.nl^
 ||click.mailing.omoda.com^
 ||click.mailing.telus.com^
+||click.mails.glenans.asso.fr^
 ||click.manifold.motordlr.com^
 ||click.marcuscar.motordlr.com^
 ||click.marcusfurniturestores.com^
@@ -13198,14 +13343,12 @@
 ||click.mathforamerica.org^
 ||click.mba.grupo-primo.com^
 ||click.mc.blacklane.com^
-||click.mc.kellogg.northwestern.edu^
 ||click.mc.livable.jp^
 ||click.mc2.3plearning.com^
 ||click.mcemail.renterswarehouse.com^
 ||click.medicalupdate.novartis.at^
 ||click.melissaanddoug-email.com^
 ||click.member.kylottery.com^
-||click.merck.com^
 ||click.message.vanityfairlingerie.com^
 ||click.messages.plymouth.edu^
 ||click.messages.postmates.com^
@@ -13221,10 +13364,10 @@
 ||click.news.bioritmo.com.br^
 ||click.news.boerding.org^
 ||click.news.bolia.com^
+||click.news.cataloniahotels.com^
 ||click.news.corello.com.br^
 ||click.news.daraz.com^
 ||click.news.foodpanda.com.mx^
-||click.news.gordonbrothers.com^
 ||click.news.hrmri.com^
 ||click.news.instantluxe.com^
 ||click.news.jnjmedicaldevicescompaniescommslatam.com^
@@ -13234,7 +13377,6 @@
 ||click.news.medela.ca^
 ||click.news.medela.co.uk^
 ||click.news.medela.com.au^
-||click.news.medela.de^
 ||click.news.medela.it^
 ||click.news.moneyhouse.ch^
 ||click.news.netpincer.hu^
@@ -13248,7 +13390,6 @@
 ||click.newsletter.weekendesk.com^
 ||click.nl.abbvie.com^
 ||click.nl.coop-vitality.ch^
-||click.nl.lumimart.ch^
 ||click.no.abbvie.com^
 ||click.noreplyslatergordon-email.com.au^
 ||click.nowgallery.co.uk^
@@ -13292,7 +13433,6 @@
 ||click.sfmcmail.vanwagenen.com^
 ||click.sfxii-em.com^
 ||click.shokuiki.tokiomarine-nichido.co.jp^
-||click.simplify.vivint.com^
 ||click.smarteyes.com^
 ||click.smartpower.vivintsolar.com^
 ||click.smc.cordvida.com.br^
@@ -13308,6 +13448,8 @@
 ||click.teamzakelijk.essent.nl^
 ||click.teliab2b.no^
 ||click.thriftbooks-email.com^
+||click.tim.sf.celulardireto.com.br^
+||click.tmmessenger.ticketmaster.com^
 ||click.travel.cruiseabout.com.au^
 ||click.twocycle.motordlr.com^
 ||click.unitedwaychattanooga-email.com^
@@ -13325,15 +13467,18 @@
 ||click.xdexnews.com.br^
 ||click.xpasset-news.com.br^
 ||click.yesnetwork-info.com^
+||tl-97pn39y7k8jj253n6swfjpckm.click-sap.sfmc-marketing.com^
 ||tl-v49cbqtg9s0pfj9pl8q2tyh1y.click-sap.sfmc-marketing.com^
 ||tl09jtg1v230cqt0pz7lw1ff2n2m.click-sap.sfmc-marketing.com^
 ||tl1bpky6gdd427pcn813821px4v8.click-sap.sfmc-marketing.com^
 ||tl275vgsxyth4w-rfnk9nr1b4j70.click-sap.sfmc-marketing.com^
+||tl5hyg4zgfjvcgl3hmf23t4zm5f8.click-sap.sfmc-marketing.com^
 ||tl6jf5jw59qnsxlvh86qk-0kzbkq.click-sap.sfmc-marketing.com^
 ||tl7cxbmztjy6sxpvr42chzh0fbmy.click-sap.sfmc-marketing.com^
 ||tl7jx72jmd5q55trm1ksdq77hs41.click-sap.sfmc-marketing.com^
 ||tl8m6xvgjt9yrr2gl6xlswplqqj8.click-sap.sfmc-marketing.com^
 ||tl967l29wn4h92sbtwmx1f4w53v0.click-sap.sfmc-marketing.com^
+||tlb6-l5yn6r4l98w05484-0lb3f0.click-sap.sfmc-marketing.com^
 ||tlbn5090-2gmw0lct0bq717vfg14.click-sap.sfmc-marketing.com^
 ||tldtt8kj41klrk430x3r0s8mvpjq.click-sap.sfmc-marketing.com^
 ||tlf2cytzsmgykvttt1zb2dnlz9b4.click-sap.sfmc-marketing.com^
@@ -13348,6 +13493,7 @@
 ||tlpvsc2v4hpnw9y9vpfmrw40gd5y.click-sap.sfmc-marketing.com^
 ||tlpx0wkxx3lw2r161cft86x170f0.click-sap.sfmc-marketing.com^
 ||tlq05c08gcdnkj-q7gmsxk6m3xm1.click-sap.sfmc-marketing.com^
+||tlq797wznl8r3vl0p85s4rxvz6z0.click-sap.sfmc-marketing.com^
 ||tls78j1vb6ppvq2hcy-nqf14jz00.click-sap.sfmc-marketing.com^
 ||tlsnzltqjs-y580m3xn51lmlcr94.click-sap.sfmc-marketing.com^
 ||tlt57g-ctp6ct4f2vjw6y4m1t4-8.click-sap.sfmc-marketing.com^
@@ -13376,7 +13522,6 @@
 ||click.whs.questdiagnostics.com^
 ||cloud.university.haifa.ac.il^
 ||image.s1.qa1.inboundtestdomain.com^
-||images.emails.united.com^
 ||mktcloud.imagin.com^
 ||view.comunicacao.casasbahiapay.com.br^
 ||view.informa.zurich.es^

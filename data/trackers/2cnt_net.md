@@ -8,6 +8,7 @@
 
 * 1und1.vgwort-de.2cnt.net
 * slb-vgwort-de-pool03.vgwort-de.2cnt.net
+* abendblatt.vgwort-de.2cnt.net
 * slb-vgwort-de-pool02.vgwort-de.2cnt.net
 * beck.vgwort-de.2cnt.net
 * berliner-kurier.vgwort-de.2cnt.net
@@ -85,6 +86,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | 1und1.met.vgwort.de | 1und1.vgwort-de.2cnt.net |
+| abendblatt.met.vgwort.de | abendblatt.vgwort-de.2cnt.net |
 | beck.met.vgwort.de | beck.vgwort-de.2cnt.net |
 | berliner-kurier.met.vgwort.de | berliner-kurier.vgwort-de.2cnt.net |
 | berliner-zeitung.met.vgwort.de | berliner-zeitung.vgwort-de.2cnt.net |
@@ -164,6 +166,7 @@
 | vision.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | welt.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | wolterskluwer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| abendblatt.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | abendblatt.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | amica.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | beck.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792408218274        ; Serial
+           1792518230160        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,7 +33,6 @@ td.popularmechanics.com CNAME .
 td.prevention.com CNAME .
 td.roadandtrack.com CNAME .
 td.runnersworld.com CNAME .
-td.seventeen.com CNAME .
 td.thepioneerwoman.com CNAME .
 td.townandcountrymag.com CNAME .
 td.veranda.com CNAME .

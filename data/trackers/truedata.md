@@ -30,7 +30,6 @@
 | td.prevention.com | e.truedata.co |
 | td.roadandtrack.com | e.truedata.co |
 | td.runnersworld.com | e.truedata.co |
-| td.seventeen.com | e.truedata.co |
 | td.thepioneerwoman.com | e.truedata.co |
 | td.townandcountrymag.com | e.truedata.co |
 | td.veranda.com | e.truedata.co |

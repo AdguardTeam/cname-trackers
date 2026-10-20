@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792411265671        ; Serial
+           1792518230160        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ client.h24.news CNAME .
 cms.h24.news CNAME .
 confluence.h24.news CNAME .
 customer.h24.news CNAME .
+database.h24.news CNAME .
 de.h24.news CNAME .
 ec.h24.news CNAME .
 fitness.h24.news CNAME .

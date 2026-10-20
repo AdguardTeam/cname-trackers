@@ -3,7 +3,6 @@
 0186141170.apps.iocnt.de
 39db8b138f.apps.iocnt.de
 5bf0fdacd2.apps.iocnt.de
-acksrc.chip.de
 at_w_atexxpressdata-c3a3188a23.exxpress.at
 c4b720ded1.apps.iocnt.de
 data-0034231193.apps.iocnt.de
@@ -62,6 +61,7 @@ data-05bc1a27ba.apps.iocnt.de
 data-05c346d0b0.gea.de
 data-05f15c0145.runnersworld.de
 data-0622b98dbe.apps.iocnt.de
+data-06d20d5dfa.addradio.de
 data-06d20d5dfa.radiobielefeld.de
 data-06d20d5dfa.radiobielefeldhilft.de
 data-06d9d19ba0.filmdienst.de
@@ -292,6 +292,7 @@ data-236c420b67.glamourshopping.de
 data-23c20dac87.tophotel.de
 data-2403aac25b.integrale-planung.de
 data-24d7667a6a.apps.iocnt.de
+data-2572d220f8.motorsport-total.com
 data-26457755f1.apps.iocnt.de
 data-26d7316678.gewinn.com
 data-26e104754d.hgtv.com
@@ -442,6 +443,7 @@ data-3f9c4f5eb9.automotive.at
 data-3fb5262fad.unsersalzburg.at
 data-40370dcf13.emsdettenervolkszeitung.de
 data-40370dcf13.ev-online.de
+data-40370dcf13.mv-digital.de
 data-40370dcf13.mv-online.de
 data-40370dcf13.newssquare.de
 data-40370dcf13.verlag-altmeppen.de
@@ -552,6 +554,7 @@ data-47ee1b0882.movietown-openair.de
 data-47ee1b0882.neue-filmbuehne.de
 data-47ee1b0882.nickel-odeon.de
 data-47ee1b0882.osnabrueck.hall-of-fame.online
+data-47ee1b0882.ostseekino-doberan.de
 data-47ee1b0882.ostseekino-kuehlungsborn.de
 data-47ee1b0882.roxy-kino.de
 data-47ee1b0882.saarfilm.net
@@ -815,6 +818,7 @@ data-62e93c650b.hannover.de
 data-62e93c650b.landheime.de
 data-62e93c650b.visit-hannover.com
 data-62e93c650b.visit-niedersachsen.de
+data-63015eaef7.apps.iocnt.de
 data-631fe157dc.gesund.at
 data-63224ea7ba.apps.iocnt.de
 data-6345746ba5.nwzonline.de
@@ -1726,6 +1730,7 @@ data-e392d35d53.kino-zeit.de
 data-e3af19e759.apps.iocnt.de
 data-e3d4300b49.teleboerse.de
 data-e44d38afc3.apps.iocnt.de
+data-e4689287ec.derpatriot.com
 data-e4689287ec.derpatriot.de
 data-e47ac57521.jobs26.de
 data-e47ac57521.lokal26.de
@@ -2029,10 +2034,11 @@ pool2.ioam.de
 pool4.ioam.de
 pool5.ioam.de
 report.oewa.at
-source-66584305d5.mainpost.de
 source-ed91a21bf0.dastelefonbuch.de
 vorausweisung.report.oewa.at
 vote.apps.iocnt.de
 www.apps.iocnt.de
 www2.dk-online.de
 xnasldata-63224ea7ba.apps.iocnt.de
+acksrc.chip.de
+source-66584305d5.mainpost.de

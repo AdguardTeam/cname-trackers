@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792414101648        ; Serial
+           1792518230160        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -88,6 +88,7 @@ goatcounter.thedave.me CNAME .
 goatcounter.thedave.photos CNAME .
 goatstats.fiesta.plus CNAME .
 gtcntr.enamya.me CNAME .
+metrics.auspexai.network CNAME .
 moo.geopogs.party CNAME .
 novi.webnovi.eu CNAME .
 pageviews.unbegames.com CNAME .

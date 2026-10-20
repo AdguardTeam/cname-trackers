@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792417596571        ; Serial
+           1792516860156        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -970,6 +970,7 @@ lpoim.ubeauty.com CNAME .
 lpsuu.coastpay.com CNAME .
 lpulp.livom.ch CNAME .
 lqako.hatclub.com CNAME .
+lqgne.4patriots.net CNAME .
 lqkuq.viphaircare.com CNAME .
 lqtbe.whitneyhouston.com CNAME .
 lraaa.necessaire.com CNAME .
@@ -1487,7 +1488,6 @@ scncc.sistaco.us CNAME .
 scnon.perpetualtraffic.com CNAME .
 scsej.beboe.com CNAME .
 sdacg.paulevansny.com CNAME .
-sdgbg.carcan.com CNAME .
 senut.illesteva.com CNAME .
 setck.aroma360.fr CNAME .
 sfcbl.mejuri.com CNAME .
@@ -1819,7 +1819,6 @@ zerii.untiltimesup.com CNAME .
 zevdh.plug.tech CNAME .
 zfccd.mylifeforce.com CNAME .
 zfdzp.eatrotten.com CNAME .
-zfhvk.messengerinternational.org CNAME .
 zfljc.obrolabs.com CNAME .
 zfojm.knixteen.com CNAME .
 zgsuj.orboils.com CNAME .
@@ -1945,6 +1944,7 @@ apaff.oneplus.com CNAME .
 aphtn.dsw.ca CNAME .
 apzce.pcrichard.com CNAME .
 aqczs.footlocker.co.nz CNAME .
+aqkbm.ccmusic.com CNAME .
 aqmra.millets.co.uk CNAME .
 aqpkf.amandauprichard.com CNAME .
 aqzkl.ergopouch.com CNAME .
@@ -2245,6 +2245,7 @@ drsbf.hannaandersson.com CNAME .
 druhu.amerisleep.com CNAME .
 drven.kintsugihair.com CNAME .
 drzzg.mallet.com CNAME .
+dsedi.ccvideo.com CNAME .
 dsifi.toms.com CNAME .
 dsnfo.pokemoncenter.com CNAME .
 dspil.jcp.com CNAME .
@@ -2330,6 +2331,7 @@ eunzi.beistravel.com CNAME .
 euomc.pcaskin.com CNAME .
 euzjz.modlily.com CNAME .
 evhpf.skinnydiplondon.com CNAME .
+ezcgi.deepdiscount.com CNAME .
 ezrcd.uniforms4healthcare.com CNAME .
 ezzdk.lectricebikes.com CNAME .
 famhe.westandwillow.com CNAME .
@@ -2425,6 +2427,7 @@ fvtck.yepoda.de CNAME .
 fvzva.frankandeileen.com CNAME .
 fwpdj.kazoo.com.au CNAME .
 fykqm.sqairz.com CNAME .
+fymtk.poppyandpeonies.com CNAME .
 fzksk.moderntribe.com CNAME .
 fztwv.casabey.com CNAME .
 gahkj.zomasleep.com CNAME .
@@ -2887,6 +2890,7 @@ kwkcb.mrbigandtall.ca CNAME .
 kwxpl.the7virtues.com CNAME .
 kyvmg.iluvcolors.com CNAME .
 kzgcq.hero.co CNAME .
+kzgqt.poppyandpeonies.com CNAME .
 kzgst.campingsurvival.com CNAME .
 kzhvv.spiritualgangster.com CNAME .
 kzqcy.gamechanger.la CNAME .
@@ -2964,6 +2968,7 @@ lqzqz.us.p448.com CNAME .
 lrlzb.mishimoto.co.uk CNAME .
 lrose.wilcoskybluesky.com CNAME .
 lrqho.gldn.com CNAME .
+lrrli.petsuppliesplus.com CNAME .
 lsbsg.entertainmentearth.com CNAME .
 lspvo.weldernation.com CNAME .
 lsrke.marcos.com CNAME .
@@ -3185,6 +3190,7 @@ nwxjn.pramworld.co.uk CNAME .
 nwzzw.upfulblends.com CNAME .
 nxfzr.layeredlounge.com CNAME .
 nybrz.loonmtn.com CNAME .
+nydfz.gog.com CNAME .
 nyfpt.cuddleandkind.com CNAME .
 nymjb.chicme.com CNAME .
 nympl.cwspirits.com CNAME .
@@ -3311,6 +3317,7 @@ pmtqp.wyndhamdestinations.com CNAME .
 pnqxx.tunercult.com CNAME .
 pnvhv.peachandlily.com CNAME .
 podph.mielleorganics.com CNAME .
+poefd.bigbarker.com CNAME .
 pogbd.suzannesfashions.ca CNAME .
 popln.rci.com CNAME .
 pozdl.bigfigmattress.com CNAME .
@@ -3539,6 +3546,7 @@ rsjkv.brunomagli.com CNAME .
 rspeo.rotita.com CNAME .
 rstil.vionicshoes.com CNAME .
 rsvll.marcellanyc.com CNAME .
+rszpw.elixserpeptides.com CNAME .
 rtmbz.anthropologie.com CNAME .
 rtnmr.bohme.com CNAME .
 rtqft.elysiumhealth.com CNAME .
@@ -3550,6 +3558,7 @@ rvgbs.safelifedefense.com CNAME .
 rvkee.sigmabeauty.com CNAME .
 rvpjv.commodityfragrances.com CNAME .
 rvvkb.mizzenandmain.com CNAME .
+rwfhc.cleens.co.uk CNAME .
 rxwdv.neoprocycling.com.au CNAME .
 rydmw.heydude.com.au CNAME .
 rypfb.saleehair.com CNAME .
@@ -3564,6 +3573,7 @@ saige.boinclo.co.uk CNAME .
 sbikm.mercimamanboutique.com CNAME .
 sbkbb.chiccousa.com CNAME .
 sbkpo.clarks.com CNAME .
+sbvpn.gshock.com CNAME .
 sbvsb.inspiranzadesigns.com CNAME .
 sbwkj.palmettomoononline.com CNAME .
 scfql.marleylilly.com CNAME .
@@ -4138,6 +4148,7 @@ zspph.ballerinafarm.com CNAME .
 zspza.snapsupplements.com CNAME .
 zsrda.snagtights.ca CNAME .
 zsthu.thefryeandco.com CNAME .
+zswbl.buildabear.com CNAME .
 ztoch.cozyearth.com CNAME .
 ztqbj.rattandirect.co.uk CNAME .
 ztuec.nutrabio.com CNAME .
@@ -4406,6 +4417,7 @@ jfook.bokksumarket.com CNAME .
 jfzis.cpapninja.com CNAME .
 jjghu.biohmhealth.com CNAME .
 jkaqa.themodilawfirm.com CNAME .
+jkcmm.therfpsuccesscompany.com CNAME .
 jmman.virtuehealthcandles.com CNAME .
 jqpsi.evinature.com CNAME .
 jrhrn.cushionsource.com CNAME .

@@ -43,6 +43,7 @@
 ||s.dsccgm.com^
 ||s.dscenn.com^
 ||s.dscgcu.com^
+||s.dscjbq.com^
 ||s.dscjnr.com^
 ||s.dscoxk.com^
 ||s.dscpxz.com^
@@ -255,6 +256,7 @@
 ||s.ekhsvsp.com^
 ||s.elhclr.com^
 ||s.elpbbuqu.com^
+||s.eokuowbvy.com^
 ||s.eqviczq.com^
 ||s.euvdyv.com^
 ||s.fboirhttd.com^
@@ -349,6 +351,8 @@
 ||s.yhslqeecgm.com^
 ||s.yjuxuvcryc.com^
 ||s.ynwsxvtfm.com^
+||s.yokvqzoeh.com^
+||s.zcexuriph.com^
 ||s.zfurfq.com^
 ||s.zikmlg.com^
 ||s.zoxyxrmbk.com^

@@ -70,6 +70,7 @@
 ||elq.accuity.com^
 ||elq.banyansecurity.io^
 ||elq.brightmine.com^
+||elq.cgs-gems.com^
 ||elq.efront.com^
 ||elq.egi.co.uk^
 ||elq.flukebiomedical.com^
@@ -590,6 +591,7 @@
 ||tracking.choosemylo.com^
 ||tracking.cignaglobal.com^
 ||tracking.cleanharbors.com^
+||tracking.clearfieldcanola.ca^
 ||tracking.clement.com^
 ||tracking.cleviprex.com^
 ||tracking.coloradoavalanche.com^
@@ -716,7 +718,6 @@
 ||tracking.tuftsmedicine.org^
 ||tracking.tulsadrillers.com^
 ||tracking.umms.org^
-||tracking.virginmediao2business.co.uk^
 ||tracking.vitalant.org^
 ||tracking.wellsense.org^
 ||tracking.wida.wisc.edu^
@@ -884,8 +885,10 @@
 ||trck.ricoh.co.uk^
 ||trck.ricoh.co.za^
 ||trck.ricoh.com.tr^
+||trck.ricoh.cz^
 ||trck.ricoh.de^
 ||trck.ricoh.dk^
+||trck.ricoh.hu^
 ||trck.ricoh.it^
 ||trck.ricoh.lu^
 ||trck.ricoh.nl^
@@ -1380,6 +1383,7 @@
 ||unsubscribe.datadelivers.com^
 ||user.relationshipone.com^
 ||www.adpinfo.com^
+||www.economies.adp.ca^
 ||www.info.avalara.com^
 ||www.infos-experts.adp.com^
 ||www.nationalaccounts.adp.com^
@@ -1692,6 +1696,7 @@
 ||etscampaign.motorola.com^
 ||eu.ironmountain.com^
 ||event.ortec.com^
+||event.standardandpoors.com^
 ||events.centex.com^
 ||events.compellent.com^
 ||events.coniferhealth.com^
@@ -1772,6 +1777,7 @@
 ||info.box.net^
 ||info.compasslearning.com^
 ||info.compucom.com^
+||info.cornerstoneondemand.com^
 ||info.dailyfx.com^
 ||info.dowjones.com^
 ||info.eedinc.com^
@@ -1847,6 +1853,7 @@
 ||meeting.nuance.com^
 ||micro.workplaceinvesting.fidelity.com^
 ||microsite.standardandpoors.com^
+||mim-event.mfg.macquarie.com^
 ||mobile.vmware.com^
 ||mortgage.inform.equifax.com^
 ||mortgage.leads360.com^
@@ -1876,6 +1883,7 @@
 ||offer.sj1.omniture.com^
 ||offer.sjo.omniture.com^
 ||offers.vovici.com^
+||officesweepstakes.ironmountain.com^
 ||oilandgas.opentext.com^
 ||optimize.mcafee.com^
 ||oracletechnology.arrow.com^
@@ -2065,6 +2073,7 @@
 ||inqueritos.cp.pt^
 ||kampanje.info.estatenyheter.no^
 ||landingfrance.americanexpress.com^
+||landingpage.lesarcs.com^
 ||learn.o2business.com^
 ||news.mazars.nl^
 ||newsletters.bancsabadell.com^
@@ -2466,6 +2475,7 @@
 ||app.gobison.com^
 ||app.godrakebulldogs.com^
 ||app.gopack.com^
+||app.goutrgv.com^
 ||app.goxavier.com^
 ||app.gseagles.com^
 ||app.hawkeyesports.com^
@@ -2558,6 +2568,7 @@
 ||digital.adt.com.mx^
 ||digital.adt.ie^
 ||go.cyberdefense.cisco.com^
+||info.hortondoors.com^
 ||info.ohdparts.com^
 ||info.sg2.com^
 ||info.todco.com^
@@ -2572,6 +2583,7 @@
 ||resources.vizientinc.com^
 ||tracking.opentable.com^
 ||tracking.reillyarch.com^
+||trk.catersource-cfp.com^
 ||trk.catersource.com^
 ||trk.greenbuildexpo.com^
 ||trk.informaconnect.com^
@@ -2623,6 +2635,7 @@
 ||images.care.southeasthealth.org^
 ||images.care.ssmhealth.com^
 ||images.care.tgh.org^
+||images.careers.thomsonreuters.info^
 ||images.cargomarketing.email.aa.com^
 ||images.carte-gr.total.fr^
 ||images.cartermachinery.com^
@@ -2647,7 +2660,6 @@
 ||images.connect.cebglobal.com^
 ||images.connect.globalservices.arrow.com^
 ||images.connect.hpe.com^
-||images.connect.o2.co.uk^
 ||images.connect.omron.eu^
 ||images.connect.portofrotterdam.com^
 ||images.connect.veritivcorp.com^
@@ -2996,6 +3008,7 @@
 ||images.query.adelaide.edu.au^
 ||images.reach.tmf-group.com^
 ||images.register.lighthouse-media.com^
+||images.resources.cetera.com^
 ||images.respond.macktrucks.com^
 ||images.respons.aftenposten.no^
 ||images.response.aberdeenstandard.com^
@@ -3086,9 +3099,8 @@
 ||response.quest.com^
 ||yourporscheimg.nabooda-auto.com^
 ||zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com^
-||images.careers.thomsonreuters.info^
-||images.e.congressionalfcu.org^
-||images.resources.cetera.com^
+||images.connect.o2.co.uk^
+||images.link.pentonmanufacturing.com^
 ||admin.darnelgroup.com^
 ||archived.first.eloqua.extrahop.com^
 ||archived.learn.eloqua.extrahop.com^
@@ -3995,6 +4007,7 @@
 ||link.halifax.co.uk^
 ||link.lloydsbank.com^
 ||link.mbna.co.uk^
+||lkr-trk.reply.com^
 ||lkr.reply.eu^
 ||marketing.seatrade-maritime.com^
 ||news.seatrade-maritime.com^
@@ -4240,6 +4253,7 @@
 ||eng.info.mouser.com^
 ||engage.agventure.com^
 ||engage.dairylandseed.com^
+||engage.granular.ag^
 ||engage.hamiltoncaptel.com^
 ||engage.seedconsultants.com^
 ||engage.therightseed.com^
@@ -4714,6 +4728,7 @@
 ||application.ricoh.co.uk^
 ||application.ricoh.co.za^
 ||application.ricoh.de^
+||application.ricoh.fi^
 ||application.ricoh.ie^
 ||asset-app.discover.jll.com^
 ||blue-pages.levelblue.com^
@@ -4791,6 +4806,7 @@
 ||events.ricoh.de^
 ||events.ricoh.ie^
 ||gestiondocumentaire.ricoh.fr^
+||go.em-apexit.com^
 ||go.haymarketmedicalnetwork.com^
 ||go.maxcyte.com^
 ||go.pearsonvue.com^
@@ -4875,6 +4891,7 @@
 ||workplace.ricoh.de^
 ||workplace.ricoh.ie^
 ||workplace.ricoh.it^
+||www.discover.jll.com^
 ||xchangeatbedford-devapp.discover.jll.com^
 ||app.collinscenterforthearts.com^
 ||app.gobearkats.com^
@@ -4911,6 +4928,7 @@
 ||go.dp.intuit.com^
 ||go.labcorp.com^
 ||hipaa.wellsense.org^
+||info.cws.cc^
 ||learn.amplypower.com^
 ||learn.aqmd.gov^
 ||learn.hyliion.com^
@@ -4968,6 +4986,7 @@
 ||info.clarivate.jp^
 ||info.digitaltveurope.com^
 ||info.gamedeveloper.com^
+||info.tbivision.com^
 ||landing.rasi.com^
 ||lp.go.toyobo.co.jp^
 ||lp.response.deloitte.com^
@@ -4983,6 +5002,7 @@
 ||reg.gdconf.com^
 ||reg.informationweek.com^
 ||reg.insecurity.com^
+||reg.interop.com^
 ||reg.nojitter.com^
 ||reg.techweb.com^
 ||reg.vrdconf.com^
@@ -5082,6 +5102,7 @@
 ||programmes-skema.skema.edu^
 ||secure.digital.mandg.com^
 ||securedigital.prudential.co.uk^
+||sites.siemens-info.com^
 ||sites.siemens.com^
 ||sme.proximus.be^
 ||t.fermion.fi^
@@ -5154,6 +5175,7 @@
 ||retail-test.oci.veikkaus.fi^
 ||site.comunicaciones.iesa.es^
 ||solutions.dbschenker.com^
+||test.sseairtricity.com^
 ||track.postkodlotteriet.se^
 ||tracking.alexanderstreet.com^
 ||tracking.almax.com^
@@ -5380,6 +5402,7 @@
 ||eu.cignaglobalhealth.com^
 ||firex.ubm-events.com^
 ||go.cf.labanquepostale.fr^
+||go.send.fibia.dk^
 ||go.send.waoo.dk^
 ||go.ubm-events.com^
 ||join.informa-events.com^
@@ -5536,6 +5559,7 @@
 ||mon.xactware.com^
 ||my.verisk.com^
 ||my.xactware.co.uk^
+||now.informamail10.com^
 ||offers.desertschools.org^
 ||reach.ironmountain.com^
 ||response.xactware.com^

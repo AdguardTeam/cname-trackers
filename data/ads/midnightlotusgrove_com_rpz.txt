@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792419316167        ; Serial
+           1792509191770        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -87,6 +87,7 @@ ju.pipeagepory.cfd CNAME .
 jx.trumphgroundy.cyou CNAME .
 kb.unamendpongids.qpon CNAME .
 ki.raconsvermont.qpon CNAME .
+kl.yangaliofar.cfd CNAME .
 kp.daynetgown.cfd CNAME .
 ky.jammybuboes.cfd CNAME .
 ky.kuttayarner.qpon CNAME .
@@ -97,6 +98,7 @@ ll.spiderycankers.cyou CNAME .
 lo.doveyzoetic.qpon CNAME .
 lr.caulisspacing.cfd CNAME .
 lv.hubertbeveled.shop CNAME .
+ly.rugosediactin.qpon CNAME .
 mn.attidaepilosis.shop CNAME .
 mo.backhoemoya.cfd CNAME .
 mw.numinefidding.cfd CNAME .
@@ -128,6 +130,7 @@ pl.postboyerick.cyou CNAME .
 pr.luckykraaled.cyou CNAME .
 pu.bayetacaul.cyou CNAME .
 pu.columelsalon.cyou CNAME .
+pu.triflysidest.cfd CNAME .
 qa.ingravefennels.qpon CNAME .
 qc.pouncetdiddy.cfd CNAME .
 qs.nasialsomaten.cfd CNAME .
@@ -186,6 +189,7 @@ xa.actoswelts.rest CNAME .
 xb.angiamarrers.cyou CNAME .
 xe.almucestabira.shop CNAME .
 xe.ipomeatiptop.qpon CNAME .
+xf.cereouslooeys.qpon CNAME .
 xi.pristisold.cfd CNAME .
 xj.vowlesshegaris.qpon CNAME .
 xk.euouaepiraty.cfd CNAME .

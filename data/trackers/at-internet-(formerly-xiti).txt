@@ -88,6 +88,7 @@
 ||pa.lesarcs-peiseyvallandry.com^
 ||pa.leveil.fr^
 ||pa.lyonne.fr^
+||pa.ouik-serrechevalier.ski^
 ||pa.parcasterix.fr^
 ||pa.serrechevalier-pass.com^
 ||pa.skipass-grand-massif.com^

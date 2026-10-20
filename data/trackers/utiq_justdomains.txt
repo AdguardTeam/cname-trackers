@@ -285,6 +285,7 @@ utiq.le-pays.fr.cdn.cloudflare.net
 utiq.le10sport.com
 utiq.lebenindeutschland.eu
 utiq.leberry.fr
+utiq.leberry.fr.cdn.cloudflare.net
 utiq.leboncoin.fr
 utiq.lechorepublicain.fr
 utiq.lechorepublicain.fr.cdn.cloudflare.net

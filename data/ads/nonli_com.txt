@@ -18,6 +18,7 @@
 ||cms.h24.news^
 ||confluence.h24.news^
 ||customer.h24.news^
+||database.h24.news^
 ||de.h24.news^
 ||ec.h24.news^
 ||fitness.h24.news^

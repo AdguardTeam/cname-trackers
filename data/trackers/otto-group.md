@@ -17,7 +17,7 @@
     * te-heine-de.oghub.io
     * te-heine-shop-nl.oghub.io
     * te-jelmoli-shop-ch.oghub.io
-    * te-lascana-at.oghub.io
+    * te-lascana-ch.oghub.io
     * te-limango-de.oghub.io
     * te-myhermes-de.oghub.io
     * te-otto-de.oghub.io
@@ -27,7 +27,6 @@
     * te-sieh-an-at.oghub.io
     * te-sieh-an-de.oghub.io
     * te-universal-at.oghub.io
-    * te-waeschepur-de.oghub.io
     * te-witt-international-nl.oghub.io
     * te-witt-international-sk.oghub.io
     * te-witt-weiden-at.oghub.io
@@ -41,21 +40,14 @@
     * tp-frankonia-com.oghub.io
     * tp-frankonia-de.oghub.io
     * tp-frankoniamoda-ch.oghub.io
-    * tp-heine-ch.oghub.io
     * tp-jelmoli-shop-ch.oghub.io
     * tp-limango-de.oghub.io
-    * tp-mirapodo-de.oghub.io
     * tp-myhermes-de.oghub.io
     * tp-otto-de.oghub.io
     * tp-ottoversand-at.oghub.io
     * tp-quelle-de.oghub.io
-    * tp-sheego-de.oghub.io
     * tp-universal-at.oghub.io
     * tp-witt-weiden-at.oghub.io
-    * tp-witt-weiden-ch.oghub.io
-    * tp-yomonda-de.oghub.io
-    * tp-your-look-for-less-nl.oghub.io
-    * tp-your-look-for-less-se.oghub.io
 
 ## Cloaking domains
 
@@ -75,7 +67,6 @@
 | tp.heine-shop.nl | js.oghub.io |
 | tp.heine.at | js.oghub.io |
 | tp.heine.ch | js.oghub.io |
-| tp.heine.ch | js.oghub.io |
 | tp.heine.de | js.oghub.io |
 | tp.helline.fr | js.oghub.io |
 | tp.imwalking.de | js.oghub.io |
@@ -83,7 +74,6 @@
 | tp.lascana.at | js.oghub.io |
 | tp.lascana.ch | js.oghub.io |
 | tp.limango.de | js.oghub.io |
-| tp.mirapodo.de | js.oghub.io |
 | tp.mirapodo.de | js.oghub.io |
 | tp.myhermes.de | js.oghub.io |
 | tp.mytoys.de | js.oghub.io |
@@ -104,9 +94,7 @@
 | tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.ch | js.oghub.io |
-| tp.witt-weiden.ch | js.oghub.io |
 | tp.witt-weiden.de | js.oghub.io |
-| tp.yomonda.de | js.oghub.io |
 | tp.yomonda.de | js.oghub.io |
 | tp.your-look-for-less.nl | js.oghub.io |
 | tp.your-look-for-less.se | js.oghub.io |
@@ -137,6 +125,7 @@
 | te.waeschepur.de | te-forwarder.oghub.io |
 | te.witt-international.cz | te-forwarder.oghub.io |
 | te.witt-international.nl | te-forwarder.oghub.io |
+| te.witt-international.nl | te-forwarder.oghub.io |
 | te.witt-international.sk | te-forwarder.oghub.io |
 | te.witt-weiden.at | te-forwarder.oghub.io |
 | te.witt-weiden.ch | te-forwarder.oghub.io |
@@ -151,7 +140,7 @@
 | te.heine.de | te-heine-de.oghub.io |
 | te.heine-shop.nl | te-heine-shop-nl.oghub.io |
 | te.jelmoli-shop.ch | te-jelmoli-shop-ch.oghub.io |
-| te.lascana.at | te-lascana-at.oghub.io |
+| te.lascana.ch | te-lascana-ch.oghub.io |
 | te.limango.de | te-limango-de.oghub.io |
 | te.myhermes.de | te-myhermes-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
@@ -161,7 +150,6 @@
 | te.sieh-an.at | te-sieh-an-at.oghub.io |
 | te.sieh-an.de | te-sieh-an-de.oghub.io |
 | te.universal.at | te-universal-at.oghub.io |
-| te.waeschepur.de | te-waeschepur-de.oghub.io |
 | te.witt-international.nl | te-witt-international-nl.oghub.io |
 | te.witt-international.sk | te-witt-international-sk.oghub.io |
 | te.witt-weiden.at | te-witt-weiden-at.oghub.io |
@@ -172,7 +160,6 @@
 | te.helline.fr | te.oghub.io |
 | te.imwalking.de | te.oghub.io |
 | te.jelmoli-shop.ch | te.oghub.io |
-| te.lascana.at | te.oghub.io |
 | te.lascana.at | te.oghub.io |
 | te.lascana.ch | te.oghub.io |
 | te.limango.de | te.oghub.io |
@@ -195,18 +182,11 @@
 | tp.frankonia.com | tp-frankonia-com.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
 | tp.frankoniamoda.ch | tp-frankoniamoda-ch.oghub.io |
-| tp.heine.ch | tp-heine-ch.oghub.io |
 | tp.jelmoli-shop.ch | tp-jelmoli-shop-ch.oghub.io |
 | tp.limango.de | tp-limango-de.oghub.io |
-| tp.mirapodo.de | tp-mirapodo-de.oghub.io |
 | tp.myhermes.de | tp-myhermes-de.oghub.io |
 | tp.otto.de | tp-otto-de.oghub.io |
 | tp.ottoversand.at | tp-ottoversand-at.oghub.io |
 | tp.quelle.de | tp-quelle-de.oghub.io |
-| tp.sheego.de | tp-sheego-de.oghub.io |
 | tp.universal.at | tp-universal-at.oghub.io |
 | tp.witt-weiden.at | tp-witt-weiden-at.oghub.io |
-| tp.witt-weiden.ch | tp-witt-weiden-ch.oghub.io |
-| tp.yomonda.de | tp-yomonda-de.oghub.io |
-| tp.your-look-for-less.nl | tp-your-look-for-less-nl.oghub.io |
-| tp.your-look-for-less.se | tp-your-look-for-less-se.oghub.io |

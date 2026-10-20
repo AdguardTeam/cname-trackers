@@ -14,7 +14,6 @@
 ||analytics.churchthemes.com^
 ||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
-||analytics.eikko.ai^
 ||analytics.hambleden-capital.com^
 ||analytics.hiome.com^
 ||analytics.lifestyledemocracy.com^
@@ -198,11 +197,6 @@
 ||plsbl-staging.edison.se^
 ||plsbl.edison.se^
 ||plsbl.martinkriegeskorte.de^
-||prism.drivingkyoto.com^
-||prism.netherlandlines.com^
-||prism.pablonouvelle.com^
-||prism.tramclockmunich.com^
-||prism.villageneva.com^
 ||pstat.akathists.com^
 ||pstat.goodremotejobs.com^
 ||pstats.cloudpal.app^

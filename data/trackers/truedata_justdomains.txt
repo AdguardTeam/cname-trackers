@@ -22,7 +22,6 @@ td.popularmechanics.com
 td.prevention.com
 td.roadandtrack.com
 td.runnersworld.com
-td.seventeen.com
 td.thepioneerwoman.com
 td.townandcountrymag.com
 td.veranda.com

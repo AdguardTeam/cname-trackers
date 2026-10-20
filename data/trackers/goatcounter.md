@@ -20,6 +20,7 @@
     * arredofrigo.goatcounter.com
     * artero.goatcounter.com
     * artur.goatcounter.com
+    * auspexai.goatcounter.com
     * beadhive.goatcounter.com
     * benjaminmorris.goatcounter.com
     * bestasciitable.goatcounter.com
@@ -246,6 +247,7 @@
 | stats.arredofrigo.net | arredofrigo.goatcounter.com |
 | stats.artero.dev | artero.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
+| metrics.auspexai.network | auspexai.goatcounter.com |
 | stats.beadhive.ai | beadhive.goatcounter.com |
 | stats.benjaminmorris.com | benjaminmorris.goatcounter.com |
 | stats.bestasciitable.com | bestasciitable.goatcounter.com |

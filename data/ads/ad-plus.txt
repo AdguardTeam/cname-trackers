@@ -8,6 +8,7 @@
 ||dashboard.adopsify.com^
 ||dashboard.alcancemg.com^
 ||dashboard.andbeyond.media^
+||dashboard.ausdoc.com.au^
 ||dashboard.digita.media^
 ||dashboard.entravision.com^
 ||dashboard.grapemedia.cz^

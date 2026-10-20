@@ -269,7 +269,6 @@
     * firstleaf.extole.io
     * fitnessconnection.extole.io
     * forddrive.extole.io
-    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
@@ -401,6 +400,7 @@
     * newtonbaby.extole.io
     * nfhs-network.extole.io
     * ngfcu.extole.io
+    * notifications.acorns.em.extole.io
     * nutribullet.extole.io
     * nuts.extole.io
     * nymcu.extole.io
@@ -450,6 +450,7 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
+    * quickbooks.em.extole.io
     * quickbooks.extole.io
     * quickbooksintuituk.extole.io
     * quickstart.extole.io
@@ -861,7 +862,6 @@
 | share.firstleaf.com | firstleaf.extole.io |
 | share.fitnessconnection.com | fitnessconnection.extole.io |
 | refer.forddrive.com | forddrive.extole.io |
-| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
@@ -1133,6 +1133,7 @@
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | share.ngfcu.us | ngfcu.extole.io |
+| em8642.notifications.acorns.com | notifications.acorns.em.extole.io |
 | share.nutribullet.com | nutribullet.extole.io |
 | share.nuts.com | nuts.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
@@ -1208,6 +1209,7 @@
 | recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
+| em2279.referral.quickbooks.co.uk | quickbooks.em.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
 | referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
