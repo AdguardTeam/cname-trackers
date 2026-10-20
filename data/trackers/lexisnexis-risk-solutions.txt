@@ -111,6 +111,7 @@
 ||analytics.cheapcaribbean.com^
 ||analytics.dreamsresorts.com^
 ||analytics.funjet.com^
+||analytics.iinet.net.au^
 ||analytics.inteflow.com.au^
 ||analytics.lebara.com.au^
 ||analytics.nowresorts.com^
@@ -154,6 +155,7 @@
 ||banque.banque-casino.fr^
 ||barnacle.tommybahama.com^
 ||bifpt.pepperfinance.es^
+||biometrics-dm.chase.com^
 ||bkt-prod.sbishinseibank.co.jp^
 ||black-cat.crypto.com^
 ||bland.starone.org^
@@ -465,6 +467,7 @@
 ||content.prev.connexion-mabanque.bnpparibas^
 ||content.prev.connexion.hellobank.fr^
 ||content.prev.connexion.monespace.bnpparibas^
+||content.primesports.com^
 ||content.qudosbank.com.au^
 ||content.quicken.com^
 ||content.readiness.consumercardaccess.com^
@@ -811,6 +814,7 @@
 ||jytrnq.cm-cic.com^
 ||kyc.usend.com^
 ||lab4.lloydsbank.com^
+||larson.plata.com^
 ||lexengine.kamet.mx^
 ||lexis.ourtrip.com.br^
 ||lght.loberon.com^
@@ -940,6 +944,7 @@
 ||portal-fp.threatmetrix.com^
 ||posture.mtoken.zand.ae^
 ||pov.spectrum.net^
+||preprod.content.connect.medicaid.ncdhhs.gov^
 ||prod-acutx.chaperone.lumindigitalhosting.com^
 ||prod-addition.chaperone.lumindigitalhosting.com^
 ||prod-afcutn.chaperone.lumindigitalhosting.com^
@@ -1307,6 +1312,7 @@
 ||tm.gumtree.com.au^
 ||tm.humanesociety.org^
 ||tm.humaneworld.org^
+||tm.id-validation.ch^
 ||tm.kotak.com^
 ||tm.nowfinance.com.au^
 ||tm.okinushub.com^

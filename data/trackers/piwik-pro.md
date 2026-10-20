@@ -18,7 +18,6 @@
     * eib.piwik.pro
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
-    * fse.piwik.pro
     * helen.piwik.pro
     * hogeschool.piwik.pro
     * ind.piwik.pro
@@ -46,7 +45,6 @@
     * storck.piwik.pro
     * tigital.piwik.pro
     * triodos.piwik.pro
-    * tweedekamer.piwik.pro
     * uninstalled.piwik.pro
     * uwhealth.piwik.pro
     * uwv.piwik.pro
@@ -75,11 +73,11 @@
 | piwik.eif.org | eib.piwik.pro |
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
-| fse.piwikpro.pl | fse.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
 | analytics.hr.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
 | intranetstats.tennet.eu | intennet.piwik.pro |
+| p.klett-vorschau.de | klett.piwik.pro |
 | p.klett.de | klett.piwik.pro |
 | analytics.kuka.com | kuka.piwik.pro |
 | p-k.kuka.com | kuka.piwik.pro |
@@ -136,10 +134,12 @@
 | analytics.witglobal.net | pp-public-p-gwc.piwik.pro |
 | d.hypobank.ch | pp-public-p-gwc.piwik.pro |
 | d.hypovbg.at | pp-public-p-gwc.piwik.pro |
+| d.hypovbg.at | pp-public-p-gwc.piwik.pro |
 | dgm.imaway.fr | pp-public-p-gwc.piwik.pro |
 | dnsbl.test.tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | game.tag.aumago.com | pp-public-p-gwc.piwik.pro |
 | logfiles.storck.com | pp-public-p-gwc.piwik.pro |
+| p.klett-vorschau.de | pp-public-p-gwc.piwik.pro |
 | p.klett-vorschau.de | pp-public-p-gwc.piwik.pro |
 | p.klett.de | pp-public-p-gwc.piwik.pro |
 | p.zwilling.com | pp-public-p-gwc.piwik.pro |
@@ -172,9 +172,9 @@
 | site-analytics.iop.ohio.gov | stateofohio.piwik.pro |
 | logfiles.storck.com | storck.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
+| d.hypovbg.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
-| pwk.tweedekamer.nl | tweedekamer.piwik.pro |
 | analytics.akvo.org | uninstalled.piwik.pro |
 | analytics.ferrero.com | uninstalled.piwik.pro |
 | fse.piwikpro.pl | uninstalled.piwik.pro |

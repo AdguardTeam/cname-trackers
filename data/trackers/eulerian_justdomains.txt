@@ -3,6 +3,7 @@
 0sbm.consobaby.co.uk
 16ao.mathon.fr
 1bva.sg.fr
+5fm.985fm.ca
 6pal.consobaby.com
 6swu.cpa-france.org
 7lbd4.armandthiery.fr
@@ -38,6 +39,7 @@ ab.oney.es
 abe1.letartistsbe.com
 ac1.amphitheatrecogeco.com
 ae35oceb.eulerian.io
+af1.artikfest.com
 agzx.terrassewilliamgray.com
 al.futuroscope.com
 am.belambra.co.uk
@@ -78,6 +80,7 @@ cm8.co-motion.ca
 co8386c3.eulerian.io
 cpgo.avatacar.com
 cq1.contequebec.ca
+cs4.cultureshawinigan.ca
 csa2.centre-sainte-anne.nb.ca
 cse3.chausport.com
 csm.magnetintell.com
@@ -246,6 +249,7 @@ fbu8.montecarloseasonalsale.com
 fbu8.ticket-online.montecarlolive.com
 fc5.festivalcinemania.com
 fe.futuroscope.com
+ff4.francofest.ca
 fl5dpe.oui.sncf
 flmb.cheapcaribbean.com
 fma7.aegon.es
@@ -335,6 +339,7 @@ nmu3.destinia.be
 noa0.compteczam.fr
 nqsm.medicus.ca
 nrg.red-by-sfr.fr
+nym5c.laura.ca
 nyt1.biosens-leanature.fr
 o35e79f2.eulerian.io
 o69cab6a.eulerian.io
@@ -405,7 +410,6 @@ rqnn.funjet.com
 rup5.destinia.ru
 rvz9.destinia.co.ro
 rxzz.metcalfehotel.com
-ry0.rythmefm.com
 s4e8.cascades.com
 sa.lesselectionsskoda.fr
 sa.skoda.fr
@@ -421,6 +425,7 @@ sl4.signelaval.com
 slm1.leministere.ca
 sno1.snowrental.com
 snr4.canalplus.com
+social.eulerian.io
 srm4.destinia.co.no
 sso.eulerian.io
 ssrlot.lotoquebec.com
@@ -485,8 +490,15 @@ www.dataholics.tech
 www.erdev5.eulerian.io
 www.eulerian.ch
 www.eulerian.cloud
+www.euleriantech.com
+www.euleriantech.fr
+www.euleriantechnologies.com
+www.euleriantechnologies.fr
 www.fasttrack.fr
 www.fasttracker.fr
+www.master-tag.com
+www.master-tag.fr
+www.mastertag.fr
 www.tag-master.fr
 www.tagmaster.fr
 xay5o.toscane-boutique.fr
@@ -509,7 +521,6 @@ zs.voyage-prive.com
 zsi7.destinia.do
 zum7cc.oui.sncf
 zyq2.destinia.sk
-5fm.985fm.ca
 b1n.carabins.umontreal.ca
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
@@ -521,9 +532,9 @@ hk2d.tourismemauricie.com
 l2i.qualityinnlevis.com
 nym5c.bonlook.com
 rwl.tremblant.ca
+ry0.rythmefm.com
 su1.les-suites.ca
 www.mis.tourisme-montreal.org
 yio.tremblant.ca
 ea.mnt.fr
 gi7a.structube.com
-nym5c.laura.ca

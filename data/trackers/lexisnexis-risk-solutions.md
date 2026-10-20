@@ -45,6 +45,7 @@
     * h-1srvxxv9.online-metrix.net
     * h-1v2qttg8.online-metrix.net
     * h-1vjjer2n.online-metrix.net
+    * h-1xl1yrh3.online-metrix.net
     * h-22outib0.online-metrix.net
     * h-22vdduyk.online-metrix.net
     * h-230dqcou.online-metrix.net
@@ -91,6 +92,7 @@
     * h-39zuido3.online-metrix.net
     * h-3bee349h.online-metrix.net
     * h-3ch524y7.online-metrix.net
+    * h-3cllov1n.online-metrix.net
     * h-3egydtt8.online-metrix.net
     * h-3f6c1fk9.online-metrix.net
     * h-3fb27s7b.online-metrix.net
@@ -195,6 +197,7 @@
     * h-71i2mvka.online-metrix.net
     * h-73e8orvb.online-metrix.net
     * h-748xxcci-1.online-metrix.net
+    * h-748xxcci-2.online-metrix.net
     * h-748xxcci.online-metrix.net
     * h-75h6hbtl.online-metrix.net
     * h-76s5kqie.online-metrix.net
@@ -225,7 +228,9 @@
     * h-80eyqe5f.online-metrix.net
     * h-84sv8qof.online-metrix.net
     * h-855iprp2.online-metrix.net
+    * h-86bctdvh.online-metrix.net
     * h-86m8xdhf.online-metrix.net
+    * h-87dpgbbe.online-metrix.net
     * h-87rxrdob.online-metrix.net
     * h-884tnrtj.online-metrix.net
     * h-88r8fbe3.online-metrix.net
@@ -640,6 +645,7 @@
     * h-k8vif92e-gr4vy.online-metrix.net
     * h-k8vif92e-helz.online-metrix.net
     * h-k8vif92e-jm.online-metrix.net
+    * h-k8vif92e-jpmc.online-metrix.net
     * h-k8vif92e-lulu.online-metrix.net
     * h-k8vif92e-m2pfintech.online-metrix.net
     * h-k8vif92e-mo.online-metrix.net
@@ -1048,6 +1054,7 @@
 | contentdna.pemco.com | h-1srvxxv9.online-metrix.net |
 | prod-tmx.cofidis.hu | h-1v2qttg8.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
+| preprod.content.connect.medicaid.ncdhhs.gov | h-1xl1yrh3.online-metrix.net |
 | mtx.thirdstream.ca | h-22outib0.online-metrix.net |
 | ghisa.subito.it | h-22vdduyk.online-metrix.net |
 | content-a.finchoice.mobi | h-230dqcou.online-metrix.net |
@@ -1113,6 +1120,7 @@
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | analytics.lebara.com.au | h-3bee349h.online-metrix.net |
 | fss.glbank.com | h-3ch524y7.online-metrix.net |
+| content.primesports.com | h-3cllov1n.online-metrix.net |
 | xmt.wallet.cat.earlywarning.io | h-3egydtt8.online-metrix.net |
 | lght.loberon.com | h-3f6c1fk9.online-metrix.net |
 | common.1win.com | h-3fb27s7b.online-metrix.net |
@@ -1263,6 +1271,7 @@
 | tmcontent.zoom.com | h-73e8orvb.online-metrix.net |
 | tmcontent.zoom.us | h-73e8orvb.online-metrix.net |
 | analytics.tpg.com.au | h-748xxcci-1.online-metrix.net |
+| analytics.iinet.net.au | h-748xxcci-2.online-metrix.net |
 | analytics.vodafone.com.au | h-748xxcci.online-metrix.net |
 | poirot.chase.com | h-75h6hbtl.online-metrix.net |
 | cdna.kspers.gov | h-76s5kqie.online-metrix.net |
@@ -1330,7 +1339,9 @@
 | ltxup.sumup.io | h-84sv8qof.online-metrix.net |
 | ltxup.sumupstore.com | h-84sv8qof.online-metrix.net |
 | afr.jogajunto.bet.br | h-855iprp2.online-metrix.net |
+| larson.plata.com | h-86bctdvh.online-metrix.net |
 | content.lumen.cards | h-86m8xdhf.online-metrix.net |
+| tm.id-validation.ch | h-87dpgbbe.online-metrix.net |
 | tm.production.eu1.tmfp.klarna.net | h-87rxrdob.online-metrix.net |
 | tmfp.klarna.com | h-87rxrdob.online-metrix.net |
 | phyon.visit-x.net | h-884tnrtj.online-metrix.net |
@@ -2072,6 +2083,7 @@
 | cdn-f.gr4vy.com | h-k8vif92e-gr4vy.online-metrix.net |
 | payments.helzberg.com | h-k8vif92e-helz.online-metrix.net |
 | cdncy.jmbullion.com | h-k8vif92e-jm.online-metrix.net |
+| biometrics-dm.chase.com | h-k8vif92e-jpmc.online-metrix.net |
 | checkout-df.lululemon.com | h-k8vif92e-lulu.online-metrix.net |
 | dm-visapay.m2pfintech.com | h-k8vif92e-m2pfintech.online-metrix.net |
 | mobile.du.ae | h-k8vif92e-mo.online-metrix.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792408218274        ; Serial
+           1792516860156        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,13 +37,13 @@ $TTL 300
 12b860b0f8.384b0a562f.com CNAME .
 12ecc9c6fe.7d7eab9082.com CNAME .
 1461ff57a0.3f38ffbdb5.com CNAME .
+17084727b1.61d1b409d4.com CNAME .
 1b055640f0.9ab8ff816c.com CNAME .
 1b56948df7.0832fddfc8.com CNAME .
 1c46639b8d.aff15e203a.com CNAME .
 1ca6e3e357.a8ca394de0.com CNAME .
 1cbd637d10.2c8eb505eb.com CNAME .
 1d7179cda7.9b82388aa0.com CNAME .
-1d7e60f18a.33cd95e164.com CNAME .
 1e8c293107.cf20334dc1.com CNAME .
 201c741203.c40e234db8.com CNAME .
 20be5d130c.53ed6897af.com CNAME .
@@ -96,6 +96,7 @@ $TTL 300
 4bd36e6f9b.c6f5e532ff.com CNAME .
 4c4710bfc9.23f30d7ca1.com CNAME .
 4ea83ab453.dec1daff38.com CNAME .
+4eafcef105.b7644e75ce.com CNAME .
 4ef55c331f.6dca8ddc4d.com CNAME .
 4ef8c1bbed.223001ca2c.com CNAME .
 4f8ebb0eef.603b61d91d.com CNAME .
@@ -125,7 +126,6 @@ $TTL 300
 6aafb03a0e.c4f59ba59b.com CNAME .
 6aec26cade.917d078238.com CNAME .
 6b0085df88.0bc457ce1f.com CNAME .
-6b387ccb0e.ff35f7a0b5.com CNAME .
 6b899f30bf.08d59ed715.com CNAME .
 6c71340b42.4b0541a1c9.com CNAME .
 6cec1c41da.539daa1a50.com CNAME .
@@ -278,7 +278,6 @@ ff007d4959.9fcd0e3ecc.com CNAME .
 0160dd12b9.bc48fa9adc.com CNAME .
 01c6000639.48cc0c0e07.com CNAME .
 01d449a2ad.26e8841da4.com CNAME .
-0241190085.2b178ee32a.com CNAME .
 0282ecdaf0.5b4c971817.com CNAME .
 03111beda1.28cb84740b.com CNAME .
 035bebe184.c02a1b8438.com CNAME .
@@ -573,7 +572,6 @@ ba4f24e107.edd41b7f68.com CNAME .
 bb0e516729.2250c8daae.com CNAME .
 bb374653e7.0256d2ea99.com CNAME .
 bd8efddf81.6f218410f7.com CNAME .
-bf76d9778b.7c52629d53.com CNAME .
 c1d4c9c1ce.2c4b614013.com CNAME .
 c2a7e16670.3bc2a6115d.com CNAME .
 c2dac81ff8.e765b97f5b.com CNAME .
@@ -796,10 +794,12 @@ vjs.selecttopoff.com CNAME .
 4fde272183.ed49f13aad.com CNAME .
 50eaa1d8d4.2d86bbe43f.com CNAME .
 51da4797bb.186494d0e1.com CNAME .
+52d8c123b5.98f496bbc2.com CNAME .
 53c29bb7b5.5008677d85.com CNAME .
 54c1aae895.f4cd8a8bf0.com CNAME .
 565ddd0acd.4c4a520279.com CNAME .
 5872e54e6d.48f39e1095.com CNAME .
+5921c7c895.a3daf46323.com CNAME .
 5947bd8bc0.04b9055b2a.com CNAME .
 59e6d2b66d.d1e65c72ee.com CNAME .
 5b73b91489.1b3472f772.com CNAME .
@@ -840,6 +840,7 @@ vjs.selecttopoff.com CNAME .
 7a3a4ea153.6a7eac2034.com CNAME .
 7aa4bcab99.92ab2d5ac3.com CNAME .
 7b455af0a3.dba1bc1fdf.com CNAME .
+7b76345aa9.63cf61e813.com CNAME .
 7c92c1ceff.5394aeb3d4.com CNAME .
 7d2e9d0cd9.5761b6af55.com CNAME .
 7d55f566a6.abf0864b1b.com CNAME .
@@ -972,8 +973,10 @@ fd2c05ba60.83c62d9964.com CNAME .
 fd7c9241c8.3d7b481b4d.com CNAME .
 fe7cc13f95.21f5f01ad3.com CNAME .
 v2.selecttopoff.com CNAME .
-12114200.pix-cdn.org CNAME .
+0241190085.2b178ee32a.com CNAME .
+1d7e60f18a.33cd95e164.com CNAME .
 41b5a9e1ab.02228640b9.com CNAME .
+12114200.pix-cdn.org CNAME .
 assets.ahmybid.net CNAME .
 bid.mbidtg.com CNAME .
 bid.onclcktg.com CNAME .
@@ -1068,6 +1071,7 @@ jssdk.runative-syndicate.com CNAME .
 jssdk.sixapypyfynela.com CNAME .
 jssdk.tsyndicate.com CNAME .
 jssdk.tubexazimebeze.com CNAME .
+jssdk.zuzegolatehowo.com CNAME .
 media.accdn.dev CNAME .
 t97.nudevista.com CNAME .
 t98.nudevista.com CNAME .
@@ -1077,5 +1081,6 @@ www.defensive-cross.com CNAME .
 www.elderly-craft.com CNAME .
 www.fancy-officer.com CNAME .
 www.farflungeffective.com CNAME .
+www.insecure-brief.com CNAME .
 www.misty-president.com CNAME .
 www.untimely-promotion.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792414101648        ; Serial
+           1792515392170        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,7 +25,6 @@ analytics.certifriedit.com CNAME .
 analytics.churchthemes.com CNAME .
 analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
-analytics.eikko.ai CNAME .
 analytics.hambleden-capital.com CNAME .
 analytics.hiome.com CNAME .
 analytics.lifestyledemocracy.com CNAME .
@@ -209,11 +208,6 @@ pls.ambue.com CNAME .
 plsbl-staging.edison.se CNAME .
 plsbl.edison.se CNAME .
 plsbl.martinkriegeskorte.de CNAME .
-prism.drivingkyoto.com CNAME .
-prism.netherlandlines.com CNAME .
-prism.pablonouvelle.com CNAME .
-prism.tramclockmunich.com CNAME .
-prism.villageneva.com CNAME .
 pstat.akathists.com CNAME .
 pstat.goodremotejobs.com CNAME .
 pstats.cloudpal.app CNAME .

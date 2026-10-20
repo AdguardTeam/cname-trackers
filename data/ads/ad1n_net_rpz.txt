@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792417596571        ; Serial
+           1792515392170        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,6 +54,7 @@ s.dsbuzs.com CNAME .
 s.dsccgm.com CNAME .
 s.dscenn.com CNAME .
 s.dscgcu.com CNAME .
+s.dscjbq.com CNAME .
 s.dscjnr.com CNAME .
 s.dscoxk.com CNAME .
 s.dscpxz.com CNAME .
@@ -266,6 +267,7 @@ s.efryqqbee.com CNAME .
 s.ekhsvsp.com CNAME .
 s.elhclr.com CNAME .
 s.elpbbuqu.com CNAME .
+s.eokuowbvy.com CNAME .
 s.eqviczq.com CNAME .
 s.euvdyv.com CNAME .
 s.fboirhttd.com CNAME .
@@ -360,6 +362,8 @@ s.ygdwvwept.com CNAME .
 s.yhslqeecgm.com CNAME .
 s.yjuxuvcryc.com CNAME .
 s.ynwsxvtfm.com CNAME .
+s.yokvqzoeh.com CNAME .
+s.zcexuriph.com CNAME .
 s.zfurfq.com CNAME .
 s.zikmlg.com CNAME .
 s.zoxyxrmbk.com CNAME .

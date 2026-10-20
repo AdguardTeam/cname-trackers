@@ -42,6 +42,7 @@
 ||data.fitx.de^
 ||data.moebel-style.de^
 ||data.moebelnavi.de^
+||data.regale-lbl.de^
 ||data.runners-kitchen.com^
 ||data.soristudios.de^
 ||data.uk.kutchenhaus.com^
@@ -56,6 +57,7 @@
 ||e.pflegecampus.de^
 ||e.preisapo.de^
 ||e.vector.com^
+||eanalytics.linqi.de^
 ||eck.brettspieleck.de^
 ||ecm.agravis.de^
 ||ect.ensmann.com^
@@ -171,6 +173,10 @@
 ||insides.honic.eu^
 ||insights.bertelsmann-stiftung.de^
 ||js.edingershops.de^
+||kkanalytics.fria-immobilien.de^
+||kkanalytics.rfox.de^
+||kkanalytics.terravis-biogas.de^
+||kkanalytics.veravis.de^
 ||kkavde.agravis.de^
 ||link.vhs-gl.de^
 ||lolly.needforsweet.de^
@@ -181,6 +187,7 @@
 ||mensch.ekd.de^
 ||met.form-werkzeug.de^
 ||met.hanser-automotive.de^
+||met.hanser-esolutions.de^
 ||met.hanser-kundencenter.de^
 ||met.hanser-literaturverlage.de^
 ||met.kunststoffe.de^
@@ -189,7 +196,6 @@
 ||meter.rhinobag.de^
 ||metrics.bauwerk.de^
 ||metrics.cannamedical.com^
-||metrics.catchandkeep.de^
 ||metrics.cnag.de^
 ||metrics.die-bibel.de^
 ||metrics.einfachiso.de^
@@ -246,6 +252,7 @@
 ||s.lotto-hessen.de^
 ||s.materna.de^
 ||salzburg.semsea.at^
+||sas2.arrowforge.de^
 ||services.rotho.com^
 ||sf.schufa.de^
 ||show.gruppedrei.com^
@@ -275,6 +282,7 @@
 ||stats.kaerntnerjobs.at^
 ||stats.krauss-gmbh.com^
 ||stats.landgasthaus.de^
+||stats.lisio.de^
 ||stats.marienhoehe-norderney.de^
 ||stats.milchbar-norderney.de^
 ||stats.mopo.de^
@@ -499,6 +507,7 @@
 ||webstt0004.onofficeom.com^
 ||webstt0005.onofficeom.com^
 ||webstt0007.onofficeom.com^
+||webstt0008.onofficeom.com^
 ||webstt0009.onofficeom.com^
 ||webstt0010.onofficeom.com^
 ||webstt0011.onofficeom.com^
@@ -549,6 +558,7 @@
 ||webstt0079.onofficeom.com^
 ||webstt0083.onofficeom.com^
 ||webstt0090.onofficeom.com^
+||webstt0096.onofficeom.com^
 ||webstt0102.onofficeom.com^
 ||webstt0103.onofficeom.com^
 ||webstt0111.onofficeom.com^
@@ -557,6 +567,7 @@
 ||webtr.codearchitekten.de^
 ||webtr.dachser.com^
 ||webtr.elearning-cc-egov.de^
+||webtr.pdv.blue^
 ||webtr.pdv.de^
 ||webtr.regisafe.de^
 ||webtrack.lotto-thueringen.de^

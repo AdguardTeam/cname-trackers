@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792408218274        ; Serial
+           1792509191770        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -806,13 +806,12 @@ $TTL 300
 5861194.notify6.com CNAME .
 5873906.notify6.com CNAME .
 6020236.notify6.com CNAME .
+6059634.notify6.com CNAME .
 8.notify.bizonads-ssp.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
-a.6hd49jng.com CNAME .
 a.advantageclicks.net CNAME .
 a.am7srv.com CNAME .
-a.asvsm.com CNAME .
 a.b2bstars.com CNAME .
 a.b7q9v8z.com CNAME .
 a.cant3am.com CNAME .
@@ -828,7 +827,6 @@ a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.pinkads.org CNAME .
 a.playa.to CNAME .
-a.q88z1s3.com CNAME .
 a.smartfloralab.com CNAME .
 a.tf4srv.com CNAME .
 a.vws4brkfst.com CNAME .
@@ -859,6 +857,7 @@ android.notifysrv.com CNAME .
 andy.notifysrv.com CNAME .
 aphrodite.notifysrv.com CNAME .
 api.adxnow.com CNAME .
+api.cm9srv.com CNAME .
 api.eunow4u.com CNAME .
 api.jetsetz.com CNAME .
 api.klico.co CNAME .
@@ -952,6 +951,7 @@ minecraftcodes.info3164603.notifysrv.com CNAME .
 mini.notifysrv.com CNAME .
 netlife.demdex.net4615884.notify6.com CNAME .
 online3209271.notifysrv.com CNAME .
+order.notify6.com CNAME .
 partners.notify6.com CNAME .
 pl-pay.surf4623404.notify6.com CNAME .
 pl3432573.notify6.com CNAME .
@@ -1339,13 +1339,16 @@ www.voltcp.3323174.notifysrv.com CNAME .
 zooplus.it3440403.notify6.com CNAME .
 zooplus.it3524339.notify6.com CNAME .
 zooplus.it4060008.notify6.com CNAME .
+a.6hd49jng.com CNAME .
 a.adsession.com CNAME .
 a.advertrek.com CNAME .
 a.allureanews.com CNAME .
+a.asvsm.com CNAME .
 a.flirtads.net CNAME .
 a.humnert.com CNAME .
 a.klico.link CNAME .
 a.mikbaken.com CNAME .
+a.q88z1s3.com CNAME .
 a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
 a.santabrowser.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792414101648        ; Serial
+           1792512550799        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -84,6 +84,7 @@ data.mediaworld.it CNAME .
 data.news.juventus.com CNAME .
 data.newsletter.iqstudentaccommodation.com CNAME .
 data.obermain.de CNAME .
+data.saarbruecker-zeitung.de CNAME .
 data.vdi-wissensforum.de CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .

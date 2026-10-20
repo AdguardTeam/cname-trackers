@@ -212,6 +212,7 @@
     * data-inbank01.wt-eu02.net
     * data-leipzig.wt-eu02.net
     * data-vdi-wissen01.wt-eu02.net
+    * data.saarbruecker-zeitung.wt-eu02.net
     * de-card01.wt-eu02.net
     * emp01.wt-eu02.net
     * endresshauser01.wt-eu02.net
@@ -495,6 +496,7 @@
 | data.inbank.it | data-inbank01.wt-eu02.net |
 | data.leipzig.de | data-leipzig.wt-eu02.net |
 | data.vdi-wissensforum.de | data-vdi-wissen01.wt-eu02.net |
+| data.saarbruecker-zeitung.de | data.saarbruecker-zeitung.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
 | pix.eads.com | eads-com01.webtrekk.net |
 | track.emeza.ch | emeza-ch01.webtrekk.net |

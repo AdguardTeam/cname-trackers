@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792417596571        ; Serial
+           1792516860156        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -296,6 +296,7 @@ utiq.le-pays.fr.cdn.cloudflare.net CNAME .
 utiq.le10sport.com CNAME .
 utiq.lebenindeutschland.eu CNAME .
 utiq.leberry.fr CNAME .
+utiq.leberry.fr.cdn.cloudflare.net CNAME .
 utiq.leboncoin.fr CNAME .
 utiq.lechorepublicain.fr CNAME .
 utiq.lechorepublicain.fr.cdn.cloudflare.net CNAME .

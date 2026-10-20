@@ -77,6 +77,7 @@ goatcounter.thedave.me
 goatcounter.thedave.photos
 goatstats.fiesta.plus
 gtcntr.enamya.me
+metrics.auspexai.network
 moo.geopogs.party
 novi.webnovi.eu
 pageviews.unbegames.com

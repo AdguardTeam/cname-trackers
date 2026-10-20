@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792419316167        ; Serial
+           1792513799104        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 0sbm.consobaby.co.uk CNAME .
 16ao.mathon.fr CNAME .
 1bva.sg.fr CNAME .
+5fm.985fm.ca CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
 7lbd4.armandthiery.fr CNAME .
@@ -49,6 +50,7 @@ ab.oney.es CNAME .
 abe1.letartistsbe.com CNAME .
 ac1.amphitheatrecogeco.com CNAME .
 ae35oceb.eulerian.io CNAME .
+af1.artikfest.com CNAME .
 agzx.terrassewilliamgray.com CNAME .
 al.futuroscope.com CNAME .
 am.belambra.co.uk CNAME .
@@ -89,6 +91,7 @@ cm8.co-motion.ca CNAME .
 co8386c3.eulerian.io CNAME .
 cpgo.avatacar.com CNAME .
 cq1.contequebec.ca CNAME .
+cs4.cultureshawinigan.ca CNAME .
 csa2.centre-sainte-anne.nb.ca CNAME .
 cse3.chausport.com CNAME .
 csm.magnetintell.com CNAME .
@@ -257,6 +260,7 @@ fbu8.montecarloseasonalsale.com CNAME .
 fbu8.ticket-online.montecarlolive.com CNAME .
 fc5.festivalcinemania.com CNAME .
 fe.futuroscope.com CNAME .
+ff4.francofest.ca CNAME .
 fl5dpe.oui.sncf CNAME .
 flmb.cheapcaribbean.com CNAME .
 fma7.aegon.es CNAME .
@@ -346,6 +350,7 @@ nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nqsm.medicus.ca CNAME .
 nrg.red-by-sfr.fr CNAME .
+nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o35e79f2.eulerian.io CNAME .
 o69cab6a.eulerian.io CNAME .
@@ -416,7 +421,6 @@ rqnn.funjet.com CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
 rxzz.metcalfehotel.com CNAME .
-ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
 sa.skoda.fr CNAME .
@@ -432,6 +436,7 @@ sl4.signelaval.com CNAME .
 slm1.leministere.ca CNAME .
 sno1.snowrental.com CNAME .
 snr4.canalplus.com CNAME .
+social.eulerian.io CNAME .
 srm4.destinia.co.no CNAME .
 sso.eulerian.io CNAME .
 ssrlot.lotoquebec.com CNAME .
@@ -496,8 +501,15 @@ www.dataholics.tech CNAME .
 www.erdev5.eulerian.io CNAME .
 www.eulerian.ch CNAME .
 www.eulerian.cloud CNAME .
+www.euleriantech.com CNAME .
+www.euleriantech.fr CNAME .
+www.euleriantechnologies.com CNAME .
+www.euleriantechnologies.fr CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
+www.master-tag.com CNAME .
+www.master-tag.fr CNAME .
+www.mastertag.fr CNAME .
 www.tag-master.fr CNAME .
 www.tagmaster.fr CNAME .
 xay5o.toscane-boutique.fr CNAME .
@@ -520,7 +532,6 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
-5fm.985fm.ca CNAME .
 b1n.carabins.umontreal.ca CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
@@ -532,9 +543,9 @@ hk2d.tourismemauricie.com CNAME .
 l2i.qualityinnlevis.com CNAME .
 nym5c.bonlook.com CNAME .
 rwl.tremblant.ca CNAME .
+ry0.rythmefm.com CNAME .
 su1.les-suites.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
-nym5c.laura.ca CNAME .

@@ -863,6 +863,7 @@
 | 5861194.notify6.com | tk6if76q.ab1n.net |
 | 5873906.notify6.com | tk6if76q.ab1n.net |
 | 6020236.notify6.com | tk6if76q.ab1n.net |
+| 6059634.notify6.com | tk6if76q.ab1n.net |
 | 8.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | _sips._tcp.3323174.notifysrv.com | tk6if76q.ab1n.net |
 | a.mx.notifysrv.com | tk6if76q.ab1n.net |
@@ -947,6 +948,7 @@
 | mini.notifysrv.com | tk6if76q.ab1n.net |
 | netlife.demdex.net4615884.notify6.com | tk6if76q.ab1n.net |
 | online3209271.notifysrv.com | tk6if76q.ab1n.net |
+| order.notify6.com | tk6if76q.ab1n.net |
 | partners.notify6.com | tk6if76q.ab1n.net |
 | pl-pay.surf4623404.notify6.com | tk6if76q.ab1n.net |
 | pl3432573.notify6.com | tk6if76q.ab1n.net |
@@ -1324,16 +1326,12 @@
 | admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.landingtrk.com | v3j9t5q9.ab1n.net |
 | admin.paradoxgroup.co | v3j9t5q9.ab1n.net |
-| admin.traffic-gold.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
-| admin.vrumeads.com | v3j9t5q9.ab1n.net |
 | s.dsjbna.com | viwbpyx6.ad1n.net |
 | s.dsqqnt.com | viwbpyx6.ad1n.net |
 | a.18ramp.com | w2u4v9e1.ab1n.net |
-| a.6hd49jng.com | w2u4v9e1.ab1n.net |
 | a.advantageclicks.net | w2u4v9e1.ab1n.net |
 | a.am7srv.com | w2u4v9e1.ab1n.net |
-| a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.b2bstars.com | w2u4v9e1.ab1n.net |
 | a.b7q9v8z.com | w2u4v9e1.ab1n.net |
 | a.cant3am.com | w2u4v9e1.ab1n.net |
@@ -1347,7 +1345,6 @@
 | a.n4m5x60.com | w2u4v9e1.ab1n.net |
 | a.pinkads.org | w2u4v9e1.ab1n.net |
 | a.playa.to | w2u4v9e1.ab1n.net |
-| a.q88z1s3.com | w2u4v9e1.ab1n.net |
 | a.smartfloralab.com | w2u4v9e1.ab1n.net |
 | a.tf4srv.com | w2u4v9e1.ab1n.net |
 | a.vws4brkfst.com | w2u4v9e1.ab1n.net |
@@ -1366,13 +1363,12 @@
 | admin.rocoads.net | x0xmrxm4.ab1n.net |
 | admin.traf-gold.com | x0xmrxm4.ab1n.net |
 | admin.traffic-gold.com | x0xmrxm4.ab1n.net |
-| admin.traffic-gold.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.valuemedia-ltd.com | x0xmrxm4.ab1n.net |
 | admin.vrumeads.com | x0xmrxm4.ab1n.net |
-| admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | adrepository.opoxv.com | x0xmrxm4.ab1n.net |
 | api.adxnow.com | x0xmrxm4.ab1n.net |
+| api.cm9srv.com | x0xmrxm4.ab1n.net |
 | api.eunow4u.com | x0xmrxm4.ab1n.net |
 | api.jetsetz.com | x0xmrxm4.ab1n.net |
 | api.klico.co | x0xmrxm4.ab1n.net |

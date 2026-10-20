@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792410697665        ; Serial
+           1792513799104        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -444,6 +444,7 @@ tr.evenements.inpi.fr CNAME .
 tr.events-europa-organisation.com CNAME .
 tr.expresofferte.be CNAME .
 tr.fg3p.espmp-cufr.net CNAME .
+tr.fid.solocalms.fr CNAME .
 tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
 tr.finance.coheris.com CNAME .
@@ -852,7 +853,6 @@ tr.news.lentimenocare.it CNAME .
 tr.news.libranoo.com CNAME .
 tr.news.linxea.com CNAME .
 tr.news.lisez.com CNAME .
-tr.news.maisons-du-monde.com CNAME .
 tr.news.manutan-collectivites.fr CNAME .
 tr.news.mdbp.fr CNAME .
 tr.news.mediametrie.fr CNAME .

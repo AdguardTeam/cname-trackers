@@ -290,6 +290,7 @@
 | utiq.le10sport.com | frontend.prod.utiq-aws.net |
 | utiq.lebenindeutschland.eu | frontend.prod.utiq-aws.net |
 | utiq.leberry.fr | frontend.prod.utiq-aws.net |
+| utiq.leberry.fr.cdn.cloudflare.net | frontend.prod.utiq-aws.net |
 | utiq.leboncoin.fr | frontend.prod.utiq-aws.net |
 | utiq.lechorepublicain.fr | frontend.prod.utiq-aws.net |
 | utiq.lechorepublicain.fr.cdn.cloudflare.net | frontend.prod.utiq-aws.net |

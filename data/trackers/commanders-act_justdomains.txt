@@ -17,11 +17,11 @@ tagcommander.laredoute.es
 tagcommander.laredoute.it
 tagcommander.laredoute.pt
 tagcommander.laredoute.ru
-tc.europcar.com
 tc.europcar.com.au
-tc.europcar.de
 configure.adlermode.com
 data.e-immobilier.credit-agricole.fr
 tag.boulanger.fr
+tc.europcar.com
+tc.europcar.de
 tc.europcar.es
 tcdata.fnac.com

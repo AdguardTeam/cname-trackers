@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792408218274        ; Serial
+           1792516860156        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -99,6 +99,7 @@ pa.lepopulaire.fr CNAME .
 pa.lesarcs-peiseyvallandry.com CNAME .
 pa.leveil.fr CNAME .
 pa.lyonne.fr CNAME .
+pa.ouik-serrechevalier.ski CNAME .
 pa.parcasterix.fr CNAME .
 pa.serrechevalier-pass.com CNAME .
 pa.skipass-grand-massif.com CNAME .

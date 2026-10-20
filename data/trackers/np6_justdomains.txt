@@ -433,6 +433,7 @@ tr.evenements.inpi.fr
 tr.events-europa-organisation.com
 tr.expresofferte.be
 tr.fg3p.espmp-cufr.net
+tr.fid.solocalms.fr
 tr.fidal.pro
 tr.fidalformation.pro
 tr.finance.coheris.com
@@ -841,7 +842,6 @@ tr.news.lentimenocare.it
 tr.news.libranoo.com
 tr.news.linxea.com
 tr.news.lisez.com
-tr.news.maisons-du-monde.com
 tr.news.manutan-collectivites.fr
 tr.news.mdbp.fr
 tr.news.mediametrie.fr

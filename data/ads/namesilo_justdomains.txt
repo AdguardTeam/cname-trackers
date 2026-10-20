@@ -795,13 +795,12 @@
 5861194.notify6.com
 5873906.notify6.com
 6020236.notify6.com
+6059634.notify6.com
 8.notify.bizonads-ssp.com
 _sips._tcp.3323174.notifysrv.com
 a.18ramp.com
-a.6hd49jng.com
 a.advantageclicks.net
 a.am7srv.com
-a.asvsm.com
 a.b2bstars.com
 a.b7q9v8z.com
 a.cant3am.com
@@ -817,7 +816,6 @@ a.n4m5x60.com
 a.ns.notifysrv.com
 a.pinkads.org
 a.playa.to
-a.q88z1s3.com
 a.smartfloralab.com
 a.tf4srv.com
 a.vws4brkfst.com
@@ -848,6 +846,7 @@ android.notifysrv.com
 andy.notifysrv.com
 aphrodite.notifysrv.com
 api.adxnow.com
+api.cm9srv.com
 api.eunow4u.com
 api.jetsetz.com
 api.klico.co
@@ -941,6 +940,7 @@ minecraftcodes.info3164603.notifysrv.com
 mini.notifysrv.com
 netlife.demdex.net4615884.notify6.com
 online3209271.notifysrv.com
+order.notify6.com
 partners.notify6.com
 pl-pay.surf4623404.notify6.com
 pl3432573.notify6.com
@@ -1328,13 +1328,16 @@ www.voltcp.3323174.notifysrv.com
 zooplus.it3440403.notify6.com
 zooplus.it3524339.notify6.com
 zooplus.it4060008.notify6.com
+a.6hd49jng.com
 a.adsession.com
 a.advertrek.com
 a.allureanews.com
+a.asvsm.com
 a.flirtads.net
 a.humnert.com
 a.klico.link
 a.mikbaken.com
+a.q88z1s3.com
 a.r8lnet.com
 a.rocoads.net
 a.santabrowser.com
