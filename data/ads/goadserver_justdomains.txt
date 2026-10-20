@@ -145,11 +145,9 @@ calculator-rate-credit.goasrv.com
 caliban.goasrv.com
 califano.c2b2.goaserv.com
 camping-car.goaserv.com
-campingcar-taka.goaserv.com
 campus.goaserv.com
 campusdigital.sertao.goasrv.com
 campusedge.goasrv.com
-campushorizontes2010.goasrv.com
 canakkale.goaserv.com
 canalcity.goasrv.com
 canaragua.goaserv.com
@@ -229,7 +227,6 @@ confluence.goaserv.com
 conhecendoseumicro.goaserv.com
 conky.goaserv.com
 connect.goasrv.com
-construnormas.goaserv.com
 contenedor-digital.goasrv.com
 contenido.goaserv.com
 contonuvolastore.goaserv.com
@@ -302,7 +299,6 @@ dubojipojie.goaserv.com
 dubojuliujitian.goasrv.com
 ducasses-du-nord.goasrv.com
 dukelist.goaserv.com
-dunovteck.goasrv.com
 duqiuzuigaopeilv.goasrv.com
 duyduyfx.goaserv.com
 dvac.goaserv.com
@@ -362,7 +358,6 @@ epotoku.goaserv.com
 eprel.goaserv.com
 epsa.goaserv.com
 epsilon.goaserv.com
-eresume.goasrv.com
 es.arte.goasrv.com
 es.avatar.goaserv.com
 es.blackclover.goaserv.com
@@ -387,7 +382,6 @@ etax.tax.goasrv.com
 euamochanel.goasrv.com
 euc.goasrv.com
 euroservice.goaserv.com
-evabra.goasrv.com
 evaeleven.blogs.goasrv.com
 event.tbllem.com
 ever123.goaserv.com
@@ -397,7 +391,6 @@ exch080.goaserv.com
 exonewsvn.goaserv.com
 expansion-fan-comics.goaserv.com
 expe01.goasrv.com
-expertsudeb.goasrv.com
 exploreoakville.maps.goasrv.com
 explorimmobox.goaserv.com
 extender.goasrv.com

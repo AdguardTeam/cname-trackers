@@ -2218,6 +2218,7 @@
 | hcjpbc.okmagazine.com | dnsdelegation.io |
 | hcjpbc.okmagazine.com | dnsdelegation.io |
 | hcjpbc.radaronline.com | dnsdelegation.io |
+| hcjpbc.radaronline.com | dnsdelegation.io |
 | hcjpbc.snowboarder.com | dnsdelegation.io |
 | hcjpbc.snowboarder.com | dnsdelegation.io |
 | hcjpbc.soapoperadigest.com | dnsdelegation.io |
@@ -2819,6 +2820,7 @@
 | jdgtgb.maz-online.de | dnsdelegation.io |
 | jdgtgb.meineorte.com | dnsdelegation.io |
 | jdgtgb.mopo.de | dnsdelegation.io |
+| jdgtgb.mz-web.de | dnsdelegation.io |
 | jdgtgb.mz-web.de | dnsdelegation.io |
 | jdgtgb.ndz.de | dnsdelegation.io |
 | jdgtgb.op-marburg.de | dnsdelegation.io |

@@ -907,6 +907,7 @@
 | horizon.coursehorse.com | ha-horizon.sailthru.com |
 | horizon.crafts-beautiful.com | ha-horizon.sailthru.com |
 | horizon.craftsy.com | ha-horizon.sailthru.com |
+| horizon.craftsy.com | ha-horizon.sailthru.com |
 | horizon.crunchbase.com | ha-horizon.sailthru.com |
 | horizon.dayspring.com | ha-horizon.sailthru.com |
 | horizon.deindeal.ch | ha-horizon.sailthru.com |
@@ -955,6 +956,7 @@
 | horizon.huffingtonpost.kr | ha-horizon.sailthru.com |
 | horizon.info.brooksrunning.com | ha-horizon.sailthru.com |
 | horizon.interactiveone.com | ha-horizon.sailthru.com |
+| horizon.interactiveone.com | ha-horizon.sailthru.com |
 | horizon.investigationdiscovery.com | ha-horizon.sailthru.com |
 | horizon.investigationdiscovery.com | ha-horizon.sailthru.com |
 | horizon.investopedia.com | ha-horizon.sailthru.com |
@@ -992,6 +994,7 @@
 | horizon.nbc29.com | ha-horizon.sailthru.com |
 | horizon.nbcchicago.com | ha-horizon.sailthru.com |
 | horizon.nbcnews.com | ha-horizon.sailthru.com |
+| horizon.nbcsandiego.com | ha-horizon.sailthru.com |
 | horizon.nbcsandiego.com | ha-horizon.sailthru.com |
 | horizon.nbcsports.com | ha-horizon.sailthru.com |
 | horizon.nbcwashington.com | ha-horizon.sailthru.com |
@@ -1916,6 +1919,7 @@
 | aremedia.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | australiantransportnews.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | aww.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| aww.e.bauer-media.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | babylink.zola.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | beautycrew.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | beautyheaven.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -1939,6 +1943,8 @@
 | click.cyclegear.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | click.henrys.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | clubbdlinks.nfl.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| confluence.townsquaremedia.info | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| corp.townsquaremedia.info | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | countrystyle.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | danbury.townsquarenewsletters.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | dealsonwheels.e.bauertrader.co.nz | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -1973,7 +1979,9 @@
 | emails.khanacademy.org | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | empire.e.bauer-media.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | evansville.townsquaremedia.info | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| farmtrader.e.bauertrader.co.nz | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | foodtolove.e.bauermedia.co.nz | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| git.townsquaremedia.info | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | gourmettraveller.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | grandjunction.townsquaremedia.info | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | home.e.bauermedia.co.nz | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -1993,6 +2001,7 @@
 | link-dev.biopharmadive.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link-dev.ciodive.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link-dev.customerexperiencedive.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link-dev.facilitiesdive.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link-dev.greetz.nl | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link-dev.grocerydive.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link-dev.k12dive.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -2102,6 +2111,7 @@
 | link.bbgi.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.beartrapsummerfestival.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.beaumontenterprise.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.beautydirectory.co.nz | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.behindthehedges.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.behindthemarkets.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.bemidjipioneer.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -2150,6 +2160,7 @@
 | link.boxed.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.bozeman.townsquarenewsletters.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.brainerddispatch.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.bravoinsider.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.bravotv.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.breitbart.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.brilliantearth.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -2256,6 +2267,7 @@
 | link.condenast.jp | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.condenastamericas.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.condenastframe.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.condenastint.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.connect.collins.co.uk | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.connect.districtgov.org | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.connect.lovb.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -2536,6 +2548,7 @@
 | link.hardwarestore.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.harlequin.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.harlequin.com.br | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.harlequin.dk | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.harlequin.fi | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.harlequin.fr | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.harlequin.se | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -2570,6 +2583,7 @@
 | link.hearst.es | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.hearst.tw | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.hearstmagazines.co.uk | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.hellbendernewsroom.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.hellobeautiful.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.hellobooks.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.hellomagazine.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -2811,6 +2825,7 @@
 | link.msnbc.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.murder-mayhem.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.muscleandfitness.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.muscleandfitnesshers.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.my-store.ch | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.myclassixatl.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.mycolumbusmagic.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3051,6 +3066,7 @@
 | link.sciencechannel.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.sdtoday.6amcity.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.seatoday.6amcity.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.seattlemet.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.seattlepi.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.secondariesinvestor.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.section8assistancepath.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3123,6 +3139,7 @@
 | link.sweeps.usmagazine.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.sweeps.womansworld.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.swflrelocationguide.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.syfy.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.syracuse.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.talkabouthealth.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.tallahasseemagazine.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3232,9 +3249,11 @@
 | link.tlcnaptown.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.today.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.todaysparent.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.topcrochetpatterns.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.torontolife.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.torontosun.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.toryburch.co.uk | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| link.toryburch.de | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.toryburch.eu | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.touchdown.co.uk | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | link.touchdownfrance.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3392,6 +3411,7 @@
 | linkch.info.brooksrunning.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkcouk.info.brooksrunning.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkde.info.brooksrunning.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| linkdev.globalspec.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkdev.trends.co | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkdi.nymag.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkem.calpers.ca.gov | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3407,12 +3427,14 @@
 | linkmktg.alm.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.benefitspro.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.clecenter.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| linkmktg.consultingmag.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.cutimes.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.event.benefitspro.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.event.globest.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.event.law.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.globest.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.law.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| linkmktg.lawjournalnewsletters.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.nationalunderwriter.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.onlinelibrary.nuco.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | linkmktg.propertycasualty360.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3519,6 +3541,7 @@
 | newslink.sandbox.reuters.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | newslink.theinsurer.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | newslink.uk.reuters.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| nextcloud.townsquaremedia.info | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nl.reckon.news | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | noted.e.bauermedia.co.nz | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nowtolove.e.bauer-media.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3578,6 +3601,7 @@
 | nxslink.myfox8.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.myhighplains.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.mypanhandle.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| nxslink.mystateline.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.mysterywire.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.mytwintiers.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.mywabashvalley.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3589,6 +3613,7 @@
 | nxslink.ozarksfirst.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.phl17.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.pix11.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| nxslink.qcnews.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.rochesterfirst.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.savornation.tv | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.siouxlandproud.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3601,6 +3626,7 @@
 | nxslink.wboy.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.wbtw.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.wcia.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| nxslink.wdhn.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.wdtn.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.wearecentralpa.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.wearegreenbay.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3612,6 +3638,7 @@
 | nxslink.wgntv.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.whnt.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.whotv.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| nxslink.wiproud.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.wivb.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.wjbf.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | nxslink.wjhl.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3655,6 +3682,7 @@
 | sailthrulink.si.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | sailthruredirect.icetrends.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | segment-test-link.sailthrulabs.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| shop.hardtofind.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | signup.360.harpercollins.co.uk | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | signup.afterglowbooks.co.uk | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | signup.bloggers.hqstories.co.uk | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3692,6 +3720,7 @@
 | who.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | womansday.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | womensweeklyfood.e.aremedia.com.au | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
+| wordpress.townsquaremedia.info | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | yourhomeandgarden.e.aremedia.co.nz | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | yourhomeandgarden.e.bauermedia.co.nz | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
 | zelda.paperlesspost.com | haproxy-prod-link-nlb-9484743b55d7f6b1.elb.us-east-1.amazonaws.com |
@@ -3748,4 +3777,3 @@
 | horizon2.on.com | horizon.sailthru.com |
 | elink.fabletics.com | link-vip.sailthru.com |
 | link.statesman.com | unavailable.hearstnp.com |
-| linkst.dallasnews.com | unavailable.hearstnp.com |

@@ -3517,7 +3517,6 @@
 ||a135.wsbtv.com^
 ||a135.wsoctv.com^
 ||a235.aleteia.org^
-||a235.sfgate.com^
 ||a614.al.com^
 ||a614.mlive.com^
 ||a614.nj.com^
@@ -11587,6 +11586,5 @@
 ||zimbrainstylecorp.share.ntv.io^
 ||zimbraphoenix.15.apollo.share.ntv.io^
 ||a135.htvnativeadsolutions.com^
-||a235.ctpost.com^
 ||a235.htvnativeadsolutions.com^
 ||a235.timesunion.com^

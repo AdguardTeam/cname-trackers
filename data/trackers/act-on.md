@@ -1648,6 +1648,7 @@
 | a29330.actonservice.com | adepci1.actonsoftware.com |
 | a29421.actonservice.com | adepci1.actonsoftware.com |
 | a29425.actonservice.com | adepci1.actonsoftware.com |
+| a29425.actonservice.com | adepci1.actonsoftware.com |
 | a29546.actonservice.com | adepci1.actonsoftware.com |
 | a29547.actonservice.com | adepci1.actonsoftware.com |
 | a29655.actonservice.com | adepci1.actonsoftware.com |
@@ -2405,6 +2406,7 @@
 | cinos.actonservice.com | adepci5.actonsoftware.com |
 | cleanservices.actonservice.com | adepci5.actonsoftware.com |
 | cliftons.actonservice.com | adepci5.actonsoftware.com |
+| connect.redk.net | adepci5.actonsoftware.com |
 | connect.redk.net | adepci5.actonsoftware.com |
 | construsoft.actonservice.com | adepci5.actonsoftware.com |
 | content.demand-on.com | adepci5.actonsoftware.com |
@@ -3845,6 +3847,7 @@
 | marketing.summittruckgroup.com | aorpci10.actonsoftware.com |
 | marketing.symbolarts.com | aorpci10.actonsoftware.com |
 | marketing.targetedonc.com | aorpci10.actonsoftware.com |
+| marketing.teamknowledge.co.uk | aorpci10.actonsoftware.com |
 | marketing.teamknowledge.co.uk | aorpci10.actonsoftware.com |
 | marketing.thebasiccompanies.com | aorpci10.actonsoftware.com |
 | marketing.theredchecker.com | aorpci10.actonsoftware.com |
@@ -5661,6 +5664,7 @@
 | pietrositaly.actonservice.com | aorpci12.actonsoftware.com |
 | polypak.actonservice.com | aorpci12.actonsoftware.com |
 | production.actonservice.com | aorpci12.actonsoftware.com |
+| production.actonservice.com | aorpci12.actonsoftware.com |
 | proffiliatesinc.actonservice.com | aorpci12.actonsoftware.com |
 | promos.libertyoffice.com | aorpci12.actonsoftware.com |
 | pscunow.fmservice.com | aorpci12.actonsoftware.com |
@@ -6207,6 +6211,7 @@
 | marketing.firstpac.com | aorpci3.actonsoftware.com |
 | marketing.flashtalking.com | aorpci3.actonsoftware.com |
 | marketing.fluentco.com | aorpci3.actonsoftware.com |
+| marketing.gcaaltium.com | aorpci3.actonsoftware.com |
 | marketing.gcaaltium.com | aorpci3.actonsoftware.com |
 | marketing.genpak.com | aorpci3.actonsoftware.com |
 | marketing.globalmed.com | aorpci3.actonsoftware.com |
@@ -6812,6 +6817,7 @@
 | www.healthcare-distribution.com | aorpci4.actonsoftware.com |
 | www2.aerodynamic-solutions.com | aorpci4.actonsoftware.com |
 | www2.red8.com | aorpci4.actonsoftware.com |
+| www2.red8.com | aorpci4.actonsoftware.com |
 | yoursolution.tapes.averydennison.com | aorpci4.actonsoftware.com |
 | a.highroadsolution.com | aorpci5.actonsoftware.com |
 | a11052.actonservice.com | aorpci5.actonsoftware.com |
@@ -7027,6 +7033,7 @@
 | info.election-america.com | aorpci5.actonsoftware.com |
 | info.energizect.com | aorpci5.actonsoftware.com |
 | info.energyriskassessment.com | aorpci5.actonsoftware.com |
+| info.eskycity.net | aorpci5.actonsoftware.com |
 | info.eskycity.net | aorpci5.actonsoftware.com |
 | info.executivetravel.com | aorpci5.actonsoftware.com |
 | info.formiik.com | aorpci5.actonsoftware.com |
@@ -7767,6 +7774,7 @@
 | woodward.actonservice.com | aorpci6.actonsoftware.com |
 | workspacesolutions.gos1.com | aorpci6.actonsoftware.com |
 | wsandco.actonservice.com | aorpci6.actonsoftware.com |
+| www.gogreen.hyliion.com | aorpci6.actonsoftware.com |
 | www.gogreen.hyliion.com | aorpci6.actonsoftware.com |
 | www.success.etgroup.ca | aorpci6.actonsoftware.com |
 | www1.cynergysolutions.net | aorpci6.actonsoftware.com |
@@ -12036,7 +12044,6 @@
 | a14774.actonservice.com | forpci84.actonsoftware.com |
 | a14797.actonservice.com | forpci84.actonsoftware.com |
 | a14835.actonservice.com | forpci84.actonsoftware.com |
-| biznews.oregon.gov | forpci84.actonsoftware.com |
 | info.jobpac.com.au | forpci84.actonsoftware.com |
 | marketing.petsit.com | forpci84.actonsoftware.com |
 | marketing.whitehallofdeerfield.com | forpci84.actonsoftware.com |

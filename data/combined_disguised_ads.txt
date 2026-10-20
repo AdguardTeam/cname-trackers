@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME disguised ads list
 ! Description: The list of unique ads domains that disguise the real trackers by using CNAME records.
-! TimeUpdated: 2026-10-20T18:38:48+00:00
+! TimeUpdated: 2026-10-20T23:58:27+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 ||*.exaapi.com^
@@ -393,7 +393,6 @@
 ||3204865.notify6.com^
 ||3204885.notify6.com^
 ||3205143.notifysrv.com^
-||3205513.notifysrv.com^
 ||3205733.notifysrv.com^
 ||3205919.notify6.com^
 ||3205971.notify6.com^
@@ -716,7 +715,6 @@
 ||3591075.notifysrv.com^
 ||3593847.notifysrv.com^
 ||3595711.notifysrv.com^
-||3598457.notifysrv.com^
 ||3599613.notifysrv.com^
 ||3599727.notify6.com^
 ||359ee5b1d7.790e74d0c5.com^
@@ -733,7 +731,6 @@
 ||3617853.notify6.com^
 ||3618719.notifysrv.com^
 ||3618945.notify6.com^
-||3618947.notify6.com^
 ||3619313.notifysrv.com^
 ||3621331.notifysrv.com^
 ||3622691.notifysrv.com^
@@ -746,10 +743,8 @@
 ||3648599.notifysrv.com^
 ||365.freeonlinegayporn.com^
 ||3653677.notifysrv.com^
-||3653689.notifysrv.com^
 ||3654845.notify6.com^
 ||3661193.notify6.com^
-||3662557.notifysrv.com^
 ||3662593.notifysrv.com^
 ||3662839.notify6.com^
 ||3662845.notify6.com^
@@ -2613,7 +2608,6 @@
 ||camel.warvik.no^
 ||campinas.jovempanfm.go-static.info^
 ||camping-car.goaserv.com^
-||campingcar-taka.goaserv.com^
 ||campmat.go-static.info^
 ||campolimpopaulista.sp.go-static.info^
 ||campsoutherngrd.go-static.info^
@@ -2621,7 +2615,6 @@
 ||campus360.go-static.info^
 ||campusdigital.sertao.goasrv.com^
 ||campusedge.goasrv.com^
-||campushorizontes2010.goasrv.com^
 ||campusjobboard.go-static.info^
 ||canakkale.goaserv.com^
 ||canalcity.goasrv.com^
@@ -3322,7 +3315,6 @@
 ||console.walaplusadserver.com^
 ||console.worldofshowjumping.com^
 ||console.wwoz.org^
-||construnormas.goaserv.com^
 ||contact-gloss-production.accelerator.net^
 ||contacts.kakuyomu.life^
 ||contenedor-digital.goasrv.com^
@@ -3727,7 +3719,6 @@
 ||dungeonofsigns.go-static.info^
 ||dunia-panas.go-static.info^
 ||duniaicip-icip.go-static.info^
-||dunovteck.goasrv.com^
 ||duoduoshipinqipaiyouxi.go-static.info^
 ||duolingo.go-static.info^
 ||duq8bcrl.xyz^
@@ -3951,7 +3942,6 @@
 ||eqope9mmbrenl.vnhjw2obvx3t13i624q28.cfd^
 ||equity-dev.hubhubhub.name^
 ||erdagotomotiv.go-static.info^
-||eresume.goasrv.com^
 ||ergebnis-dienst.de3323174.notifysrv.com^
 ||ericabohrer.go-static.info^
 ||ery7i2ca.xyz^
@@ -3996,7 +3986,6 @@
 ||euolx.pl-pay.surf4623404.notify6.com^
 ||euroservice.goaserv.com^
 ||euz8m.74n1nr5lwgfgk1ghk2fi88cjq15cpq.cyou^
-||evabra.goasrv.com^
 ||evaeleven.blogs.goasrv.com^
 ||event.tbllem.com^
 ||ever123.goaserv.com^
@@ -4017,7 +4006,6 @@
 ||expansion-fan-comics.goaserv.com^
 ||expe01.goasrv.com^
 ||experience.theassemblync.com^
-||expertsudeb.goasrv.com^
 ||exploreoakville.maps.goasrv.com^
 ||explorimmobox.goaserv.com^
 ||extender.goasrv.com^
@@ -10136,7 +10124,6 @@
 ||www.enjoymediafile.hubhubhub.name^
 ||www.exaapi.com^
 ||www.exasrv.com^
-||www.f.bloblohub.com^
 ||www.fancy-officer.com^
 ||www.farflungeffective.com^
 ||www.fasder12.ru^

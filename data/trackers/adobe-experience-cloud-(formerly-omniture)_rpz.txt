@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792521528601        ; Serial
+           1792540707741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -2063,7 +2063,6 @@ smetrics.www.apus.edu CNAME .
 smetrics.wyndham.com CNAME .
 smetrics.wyndhampartyweekends.com CNAME .
 smetrics.wyndhamvacationresorts.com CNAME .
-smetrics.xavier.edu CNAME .
 smetrics.ybs.co.uk CNAME .
 smetrics.yellowbook.com CNAME .
 smetrics.yesterdaysnews.com CNAME .
@@ -2397,7 +2396,6 @@ stats.onelambda.com CNAME .
 stats.onetime.com CNAME .
 stats.ooshop.com CNAME .
 stats.optionsxpress.com CNAME .
-stats.organizeit.com CNAME .
 stats.oxfordclub.com CNAME .
 stats.pacificdentalservices.com CNAME .
 stats.partstrain.com CNAME .
@@ -39282,7 +39280,6 @@ securetags.geotecnologias.com CNAME .
 securetags.gisbaltic.eu CNAME .
 securetags.igeo.com.bo CNAME .
 securetags.maps.com CNAME .
-securetags.openware.com.kw CNAME .
 securian.tt.omtrdc.net CNAME .
 securitymetrics.tt.omtrdc.net CNAME .
 sedge.aarp.org CNAME .
@@ -41876,7 +41873,6 @@ stats.inps.it CNAME .
 stats.oasis.supportinsights.adobe.com CNAME .
 stats.radley.co.uk CNAME .
 stats.radleylondon.com CNAME .
-stats.refurbished-handys.de CNAME .
 stats.sim24.de CNAME .
 stats.southernphone.com.au CNAME .
 stats.unlimited24.de CNAME .
@@ -53044,7 +53040,6 @@ metric.baitoru.com CNAME .
 metric.barclaycardus.com CNAME .
 metric.biogen.com CNAME .
 metric.bizjournals.com CNAME .
-metric.caixabank.es CNAME .
 metric.carview.co.jp CNAME .
 metric.cb2.com CNAME .
 metric.changiairport.com CNAME .
@@ -58106,7 +58101,6 @@ stats.oneilglobaladvisors.com CNAME .
 stats.oui.sncf CNAME .
 stats.oyster.com CNAME .
 stats.paymypremiums.com CNAME .
-stats.phonex.de CNAME .
 stats.postescanada-canadapost.ca CNAME .
 stats.postescanada.ca CNAME .
 stats.premiumsim.de CNAME .
@@ -60487,10 +60481,7 @@ mbox.wegmans.com CNAME .
 mcdmetrics2.aaa.com CNAME .
 metrics-target.siriusxm.com CNAME .
 metrics.adobeprimetime.com CNAME .
-metrics.cartoonnetworkla.com CNAME .
 metrics.greenstate.com CNAME .
-metrics.mysanantonio.com CNAME .
-x.timesunion.com CNAME .
 omni.bcg.com CNAME .
 oopt.norauto.es CNAME .
 oopt.norauto.fr CNAME .

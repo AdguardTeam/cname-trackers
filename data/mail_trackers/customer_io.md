@@ -255,6 +255,7 @@
 | customer.wave.co | edge-east.customer.io |
 | customer_email.flowjin.com | edge-east.customer.io |
 | customerio-links.snip.ly | edge-east.customer.io |
+| customerio.alura.com.br | edge-east.customer.io |
 | customerio.casecamp.com | edge-east.customer.io |
 | customerio.cloud66.com | edge-east.customer.io |
 | customerio.cursos.impacta.com.br | edge-east.customer.io |
@@ -567,6 +568,7 @@
 | email.cohere.com | edge-east.customer.io |
 | email.colemurray.co.nz | edge-east.customer.io |
 | email.collabsoft.net | edge-east.customer.io |
+| email.collegejourney.ai | edge-east.customer.io |
 | email.collegevine.com | edge-east.customer.io |
 | email.collinsfinance.com.au | edge-east.customer.io |
 | email.comicplaycasino.com | edge-east.customer.io |
@@ -610,6 +612,7 @@
 | email.customersuccess.channelwill.com | edge-east.customer.io |
 | email.dacast.com | edge-east.customer.io |
 | email.dancechurch.com | edge-east.customer.io |
+| email.dancemedia.com | edge-east.customer.io |
 | email.dapi.digital | edge-east.customer.io |
 | email.datapad.io | edge-east.customer.io |
 | email.davincieyeapp.com | edge-east.customer.io |
@@ -813,6 +816,7 @@
 | email.gofinito.com | edge-east.customer.io |
 | email.gold8.co.nz | edge-east.customer.io |
 | email.gopass.com.co | edge-east.customer.io |
+| email.gotvantage.com | edge-east.customer.io |
 | email.govini.com | edge-east.customer.io |
 | email.govisibly.com | edge-east.customer.io |
 | email.govpredict.com | edge-east.customer.io |
@@ -924,6 +928,7 @@
 | email.invisiblehat.ventures | edge-east.customer.io |
 | email.ionos-online-marketing.es | edge-east.customer.io |
 | email.irsextension.com | edge-east.customer.io |
+| email.ismo-app.com | edge-east.customer.io |
 | email.ispeedtolead.net | edge-east.customer.io |
 | email.it.barkibu.com | edge-east.customer.io |
 | email.ittech.com.sg | edge-east.customer.io |
@@ -1414,6 +1419,7 @@
 | email.simplyactiv8.com | edge-east.customer.io |
 | email.simplyinsured.com | edge-east.customer.io |
 | email.sitter.com | edge-east.customer.io |
+| email.sizzl.com | edge-east.customer.io |
 | email.skaraudio.com | edge-east.customer.io |
 | email.skillfactory.ru | edge-east.customer.io |
 | email.skybridgecapital.com.au | edge-east.customer.io |
@@ -1429,6 +1435,7 @@
 | email.smsdelivery.ru | edge-east.customer.io |
 | email.smu.edu | edge-east.customer.io |
 | email.smylen.com | edge-east.customer.io |
+| email.smythfinancial.com.au | edge-east.customer.io |
 | email.smythloanco.com.au | edge-east.customer.io |
 | email.snasningen.no | edge-east.customer.io |
 | email.snusdiscount.pl | edge-east.customer.io |
@@ -1634,6 +1641,7 @@
 | email.wealthlinkfinance.com.au | edge-east.customer.io |
 | email.wealthmarket.com | edge-east.customer.io |
 | email.wearesuma.com | edge-east.customer.io |
+| email.web24.com.au | edge-east.customer.io |
 | email.webintellects.com | edge-east.customer.io |
 | email.weddinghero.ca | edge-east.customer.io |
 | email.weekendhealth.com | edge-east.customer.io |
@@ -1779,6 +1787,7 @@
 | mail.assuredhomeloans.com.au | edge-east.customer.io |
 | mail.attri.ai | edge-east.customer.io |
 | mail.beek.io | edge-east.customer.io |
+| mail.blacktechpipeline.com | edge-east.customer.io |
 | mail.bolna.ai | edge-east.customer.io |
 | mail.dropi.co | edge-east.customer.io |
 | mail.dropi.mx | edge-east.customer.io |
@@ -1795,6 +1804,7 @@
 | mail.happyspins.com | edge-east.customer.io |
 | mail.hellotech.com | edge-east.customer.io |
 | mail.heycasino.com | edge-east.customer.io |
+| mail.hypotenuse.ai | edge-east.customer.io |
 | mail.incluirtec.co | edge-east.customer.io |
 | mail.joinbloom.co | edge-east.customer.io |
 | mail.joingivers.com | edge-east.customer.io |
@@ -1866,4 +1876,5 @@
 | email.finizens.com | trk-e.customer.io |
 | email.petsdeli.de | trk-e.customer.io |
 | email.vetto.ai | trk-e.customer.io |
+| email.wmmajors.com | trk-e.customer.io |
 | email2.guitartricks.com | trk-e.customer.io |

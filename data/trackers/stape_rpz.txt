@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792521528601        ; Serial
+           1792540707741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -5141,7 +5141,6 @@ load.api.gtmarketingconsultoria.com.br CNAME .
 load.api.isolarelacasa.click CNAME .
 load.api.locoscooters.ie CNAME .
 load.api.luzamor.com.br CNAME .
-load.api.monkmachine.digital CNAME .
 load.api.neuroprotetor.com.br CNAME .
 load.api.southbeachofficial.com CNAME .
 load.apimateriais.maximustecidos.com.br CNAME .
@@ -24269,7 +24268,6 @@ data.troyramey.com CNAME .
 data.trusthomecareinc.org CNAME .
 data.tryavia.com CNAME .
 data.trycornbread.com CNAME .
-data.trydentite.com CNAME .
 data.tunaizakat.my CNAME .
 data.tutopress.co CNAME .
 data.tuttocartucce.com CNAME .
@@ -26094,7 +26092,6 @@ gkbdess.geekbuying.com CNAME .
 gkbfrss.geekbuying.com CNAME .
 gkbhuss.geekbuying.com CNAME .
 gkm.eriklopez.com.br CNAME .
-glcyaewq.chinabusinessimmersion.com.br CNAME .
 gloriva.glorivabeauty.com CNAME .
 glsokkaw.shoplegalgreens.com CNAME .
 gm.greekmarket.com CNAME .
@@ -26327,7 +26324,6 @@ gtm.aceleraarqui.com.br CNAME .
 gtm.aceleracaodelivery.com.br CNAME .
 gtm.aceleradorcomercial.com CNAME .
 gtm.aceleraia.ia.br CNAME .
-gtm.acelereevoe.com CNAME .
 gtm.aceletapetszeus.com CNAME .
 gtm.acesaarquitetas.com.br CNAME .
 gtm.acomig.com.br CNAME .
@@ -39648,7 +39644,6 @@ load.stape.lowstresstrading.com CNAME .
 load.stape.lp.agentesdesonhos.com.br CNAME .
 load.stape.lp.guiainglesabordo.com CNAME .
 load.stape.lulofouet.com CNAME .
-load.stape.lumartinsterapias.com.br CNAME .
 load.stape.luvelozzo.com CNAME .
 load.stape.lyonsvipexecutivo.com.br CNAME .
 load.stape.m2noticias.com.br CNAME .
@@ -43608,7 +43603,6 @@ server.aptyca.com CNAME .
 server.aqtocycling.com CNAME .
 server.aquinolopes.com.br CNAME .
 server.ar-hard.com.ar CNAME .
-server.aramghor.com CNAME .
 server.arbabeautycare.com CNAME .
 server.arcohof.com CNAME .
 server.ardreamltd.com CNAME .
@@ -50764,7 +50758,6 @@ ss.www.kennedy.edu.ar CNAME .
 ss.www.sharkindicators.com CNAME .
 ss.www.solven.com.au CNAME .
 ss.wyld.health CNAME .
-ss.xn--frskringsklok-dfb1y.se CNAME .
 ss.xogangbrazil.com CNAME .
 ss.xoryn.com.bd CNAME .
 ss.ybm.agency CNAME .
@@ -52625,7 +52618,6 @@ sst.maiden-art.com CNAME .
 sst.mailbon.com CNAME .
 sst.mainstreetmotors.org CNAME .
 sst.maiscorreios.com.br CNAME .
-sst.maison-stickers-muraux.com CNAME .
 sst.maisondebouchard.com CNAME .
 sst.maisonducaviar.paris CNAME .
 sst.maisonft.com CNAME .

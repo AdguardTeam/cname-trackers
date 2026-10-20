@@ -134,7 +134,6 @@
 3204865.notify6.com
 3204885.notify6.com
 3205143.notifysrv.com
-3205513.notifysrv.com
 3205733.notifysrv.com
 3205919.notify6.com
 3205971.notify6.com
@@ -442,7 +441,6 @@
 3591075.notifysrv.com
 3593847.notifysrv.com
 3595711.notifysrv.com
-3598457.notifysrv.com
 3599613.notifysrv.com
 3599727.notify6.com
 3603119.notifysrv.com
@@ -452,7 +450,6 @@
 3617853.notify6.com
 3618719.notifysrv.com
 3618945.notify6.com
-3618947.notify6.com
 3619313.notifysrv.com
 3621331.notifysrv.com
 3622691.notifysrv.com
@@ -464,10 +461,8 @@
 3632607.notifysrv.com
 3648599.notifysrv.com
 3653677.notifysrv.com
-3653689.notifysrv.com
 3654845.notify6.com
 3661193.notify6.com
-3662557.notifysrv.com
 3662593.notifysrv.com
 3662839.notify6.com
 3662845.notify6.com

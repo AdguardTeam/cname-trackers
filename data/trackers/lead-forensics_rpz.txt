@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792509191770        ; Serial
+           1792532422159        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -423,7 +423,6 @@ secure.etym6cero.com CNAME .
 secure.game9time.com CNAME .
 secure.gard4mass.com CNAME .
 secure.herb2warn.com CNAME .
-secure.imaginativeacute52.com CNAME .
 secure.information-52business.com CNAME .
 secure.intelligence-7-creative.com CNAME .
 secure.intelligence-insight-24.com CNAME .
@@ -465,7 +464,6 @@ www.dhenr54m.com CNAME .
 www.doll9jiva.com CNAME .
 www.dtc-330d.com CNAME .
 www.enterpriseforesight247.com CNAME .
-www.enterprisingoperation-7.com CNAME .
 www.eue21east.com CNAME .
 www.eventcapture03.com CNAME .
 www.ever-track-51.com CNAME .

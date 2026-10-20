@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792509191770        ; Serial
+           1792534229022        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -162,7 +162,6 @@ tags.bmwusa.com CNAME .
 tags.booker.com CNAME .
 tags.bunte.de CNAME .
 tags.bupa.co.nz CNAME .
-tags.caixabank.com CNAME .
 tags.caixabank.es CNAME .
 tags.caixabankamlux.com CNAME .
 tags.caixabanklab-campus.com CNAME .

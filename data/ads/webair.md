@@ -2437,6 +2437,7 @@
 | static.adtapmedia.com | a550.dscg2.akamai.net |
 | static.advertruth.com | a550.dscg2.akamai.net |
 | static.advlistings.com | a550.dscg2.akamai.net |
+| static.advolt.in | a550.dscg2.akamai.net |
 | static.adxfactory.com | a550.dscg2.akamai.net |
 | static.adxnexus.com | a550.dscg2.akamai.net |
 | static.afkwa.com | a550.dscg2.akamai.net |
@@ -2517,6 +2518,7 @@
 | static.goclickz.net | a550.dscg2.akamai.net |
 | static.goodgamer.gg | a550.dscg2.akamai.net |
 | static.greedygame.com | a550.dscg2.akamai.net |
+| static.hb.hyperbrainz.com | a550.dscg2.akamai.net |
 | static.hiswashiscourts.com | a550.dscg2.akamai.net |
 | static.hoomeeyesmanbest.org | a550.dscg2.akamai.net |
 | static.hotmaracas.fun | a550.dscg2.akamai.net |
@@ -2578,6 +2580,7 @@
 | static.regalrisemedia.com | a550.dscg2.akamai.net |
 | static.reklama.network | a550.dscg2.akamai.net |
 | static.reload.ad | a550.dscg2.akamai.net |
+| static.revantagex.com | a550.dscg2.akamai.net |
 | static.revbid.net | a550.dscg2.akamai.net |
 | static.rocoads.com | a550.dscg2.akamai.net |
 | static.rtbfactory.com | a550.dscg2.akamai.net |

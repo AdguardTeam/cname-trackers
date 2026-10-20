@@ -1432,6 +1432,7 @@
 | images.link.pentonfinancialservices.com | e74319.x.akamaiedge.net |
 | images.link.pentonfoodnews.com | e74319.x.akamaiedge.net |
 | images.link.pentonlsm.com | e74319.x.akamaiedge.net |
+| images.link.pentonmanufacturing.com | e74319.x.akamaiedge.net |
 | images.link.pentonnews.com | e74319.x.akamaiedge.net |
 | images.liqimg.com | e74319.x.akamaiedge.net |
 | images.livecreative.creativecircle.com | e74319.x.akamaiedge.net |
@@ -3397,6 +3398,7 @@
 | my.verisk.com | p01j.hs.eloqua.com |
 | my.xactware.co.uk | p01j.hs.eloqua.com |
 | now.informamail10.com | p01j.hs.eloqua.com |
+| now.informamail10.com | p01j.hs.eloqua.com |
 | offers.desertschools.org | p01j.hs.eloqua.com |
 | reach.ironmountain.com | p01j.hs.eloqua.com |
 | reach.ironmountain.com | p01j.hs.eloqua.com |
@@ -3699,6 +3701,7 @@
 | application.ricoh.co.za | p03a.hs.eloqua.com |
 | application.ricoh.de | p03a.hs.eloqua.com |
 | application.ricoh.fi | p03a.hs.eloqua.com |
+| application.ricoh.fi | p03a.hs.eloqua.com |
 | application.ricoh.ie | p03a.hs.eloqua.com |
 | asset-app.discover.jll.com | p03a.hs.eloqua.com |
 | blue-pages.levelblue.com | p03a.hs.eloqua.com |
@@ -3783,6 +3786,7 @@
 | events.ricoh.de | p03a.hs.eloqua.com |
 | events.ricoh.ie | p03a.hs.eloqua.com |
 | gestiondocumentaire.ricoh.fr | p03a.hs.eloqua.com |
+| go.em-apexit.com | p03a.hs.eloqua.com |
 | go.em-apexit.com | p03a.hs.eloqua.com |
 | go.haymarketmedicalnetwork.com | p03a.hs.eloqua.com |
 | go.maxcyte.com | p03a.hs.eloqua.com |
@@ -3882,6 +3886,7 @@
 | workplace.ricoh.de | p03a.hs.eloqua.com |
 | workplace.ricoh.ie | p03a.hs.eloqua.com |
 | workplace.ricoh.it | p03a.hs.eloqua.com |
+| www.discover.jll.com | p03a.hs.eloqua.com |
 | www.discover.jll.com | p03a.hs.eloqua.com |
 | xchangeatbedford-devapp.discover.jll.com | p03a.hs.eloqua.com |
 | eloqua.certiport.com | p03a.t.eloqua.com |
@@ -4617,6 +4622,7 @@
 | app.godrakebulldogs.com | p03h.hs.eloqua.com |
 | app.gopack.com | p03h.hs.eloqua.com |
 | app.goutrgv.com | p03h.hs.eloqua.com |
+| app.goutrgv.com | p03h.hs.eloqua.com |
 | app.goxavier.com | p03h.hs.eloqua.com |
 | app.goxavier.com | p03h.hs.eloqua.com |
 | app.gseagles.com | p03h.hs.eloqua.com |
@@ -4802,6 +4808,7 @@
 | engage.agventure.com | p03i.hs.eloqua.com |
 | engage.agventure.com | p03i.hs.eloqua.com |
 | engage.dairylandseed.com | p03i.hs.eloqua.com |
+| engage.granular.ag | p03i.hs.eloqua.com |
 | engage.granular.ag | p03i.hs.eloqua.com |
 | engage.hamiltoncaptel.com | p03i.hs.eloqua.com |
 | engage.seedconsultants.com | p03i.hs.eloqua.com |
@@ -6357,7 +6364,6 @@
 | ble.ubm-licensing.com | p04k.hs.eloqua.com |
 | childrensclub.ubmfashion.com | p04k.hs.eloqua.com |
 | connect.care.muschealth.org | p04k.hs.eloqua.com |
-| connect.care.orthovirginia.com | p04k.hs.eloqua.com |
 | connect.mmgnetgroup.com | p04k.hs.eloqua.com |
 | contacto.gtc.com.gt | p04k.hs.eloqua.com |
 | contacto.gtc.com.gt | p04k.hs.eloqua.com |
@@ -7218,6 +7224,7 @@
 | kampanje.info.estatenyheter.no | p06h.hs.eloqua.com |
 | landingfrance.americanexpress.com | p06h.hs.eloqua.com |
 | landingpage.lesarcs.com | p06h.hs.eloqua.com |
+| landingpage.lesarcs.com | p06h.hs.eloqua.com |
 | learn.o2business.com | p06h.hs.eloqua.com |
 | news.mazars.nl | p06h.hs.eloqua.com |
 | newsletters.bancsabadell.com | p06h.hs.eloqua.com |
@@ -7267,6 +7274,7 @@
 | eu.cignaglobalhealth.com | p06i.hs.eloqua.com |
 | firex.ubm-events.com | p06i.hs.eloqua.com |
 | go.cf.labanquepostale.fr | p06i.hs.eloqua.com |
+| go.send.fibia.dk | p06i.hs.eloqua.com |
 | go.send.fibia.dk | p06i.hs.eloqua.com |
 | go.send.waoo.dk | p06i.hs.eloqua.com |
 | go.ubm-events.com | p06i.hs.eloqua.com |
@@ -7332,6 +7340,7 @@
 | trck.ricoh.co.uk | p06i.t.eloqua.com |
 | trck.ricoh.co.za | p06i.t.eloqua.com |
 | trck.ricoh.com.tr | p06i.t.eloqua.com |
+| trck.ricoh.cz | p06i.t.eloqua.com |
 | trck.ricoh.cz | p06i.t.eloqua.com |
 | trck.ricoh.de | p06i.t.eloqua.com |
 | trck.ricoh.dk | p06i.t.eloqua.com |

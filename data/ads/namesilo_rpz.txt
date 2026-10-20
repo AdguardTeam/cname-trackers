@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792509191770        ; Serial
+           1792534229022        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -145,7 +145,6 @@ $TTL 300
 3204865.notify6.com CNAME .
 3204885.notify6.com CNAME .
 3205143.notifysrv.com CNAME .
-3205513.notifysrv.com CNAME .
 3205733.notifysrv.com CNAME .
 3205919.notify6.com CNAME .
 3205971.notify6.com CNAME .
@@ -453,7 +452,6 @@ $TTL 300
 3591075.notifysrv.com CNAME .
 3593847.notifysrv.com CNAME .
 3595711.notifysrv.com CNAME .
-3598457.notifysrv.com CNAME .
 3599613.notifysrv.com CNAME .
 3599727.notify6.com CNAME .
 3603119.notifysrv.com CNAME .
@@ -463,7 +461,6 @@ $TTL 300
 3617853.notify6.com CNAME .
 3618719.notifysrv.com CNAME .
 3618945.notify6.com CNAME .
-3618947.notify6.com CNAME .
 3619313.notifysrv.com CNAME .
 3621331.notifysrv.com CNAME .
 3622691.notifysrv.com CNAME .
@@ -475,10 +472,8 @@ $TTL 300
 3632607.notifysrv.com CNAME .
 3648599.notifysrv.com CNAME .
 3653677.notifysrv.com CNAME .
-3653689.notifysrv.com CNAME .
 3654845.notify6.com CNAME .
 3661193.notify6.com CNAME .
-3662557.notifysrv.com CNAME .
 3662593.notifysrv.com CNAME .
 3662839.notify6.com CNAME .
 3662845.notify6.com CNAME .

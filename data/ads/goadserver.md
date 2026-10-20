@@ -236,11 +236,9 @@
 | caliban.goasrv.com | dtb.goadserver.com |
 | califano.c2b2.goaserv.com | dtb.goadserver.com |
 | camping-car.goaserv.com | dtb.goadserver.com |
-| campingcar-taka.goaserv.com | dtb.goadserver.com |
 | campus.goaserv.com | dtb.goadserver.com |
 | campusdigital.sertao.goasrv.com | dtb.goadserver.com |
 | campusedge.goasrv.com | dtb.goadserver.com |
-| campushorizontes2010.goasrv.com | dtb.goadserver.com |
 | canakkale.goaserv.com | dtb.goadserver.com |
 | canalcity.goasrv.com | dtb.goadserver.com |
 | canaragua.goaserv.com | dtb.goadserver.com |
@@ -322,7 +320,6 @@
 | conhecendoseumicro.goaserv.com | dtb.goadserver.com |
 | conky.goaserv.com | dtb.goadserver.com |
 | connect.goasrv.com | dtb.goadserver.com |
-| construnormas.goaserv.com | dtb.goadserver.com |
 | contenedor-digital.goasrv.com | dtb.goadserver.com |
 | contenido.goaserv.com | dtb.goadserver.com |
 | contonuvolastore.goaserv.com | dtb.goadserver.com |
@@ -399,7 +396,6 @@
 | dubojuliujitian.goasrv.com | dtb.goadserver.com |
 | ducasses-du-nord.goasrv.com | dtb.goadserver.com |
 | dukelist.goaserv.com | dtb.goadserver.com |
-| dunovteck.goasrv.com | dtb.goadserver.com |
 | duqiuzuigaopeilv.goasrv.com | dtb.goadserver.com |
 | duyduyfx.goaserv.com | dtb.goadserver.com |
 | dvac.goaserv.com | dtb.goadserver.com |
@@ -459,7 +455,6 @@
 | eprel.goaserv.com | dtb.goadserver.com |
 | epsa.goaserv.com | dtb.goadserver.com |
 | epsilon.goaserv.com | dtb.goadserver.com |
-| eresume.goasrv.com | dtb.goadserver.com |
 | es.arte.goasrv.com | dtb.goadserver.com |
 | es.avatar.goaserv.com | dtb.goadserver.com |
 | es.blackclover.goaserv.com | dtb.goadserver.com |
@@ -484,7 +479,6 @@
 | euamochanel.goasrv.com | dtb.goadserver.com |
 | euc.goasrv.com | dtb.goadserver.com |
 | euroservice.goaserv.com | dtb.goadserver.com |
-| evabra.goasrv.com | dtb.goadserver.com |
 | evaeleven.blogs.goasrv.com | dtb.goadserver.com |
 | event.tbllem.com | dtb.goadserver.com |
 | ever123.goaserv.com | dtb.goadserver.com |
@@ -494,7 +488,6 @@
 | exonewsvn.goaserv.com | dtb.goadserver.com |
 | expansion-fan-comics.goaserv.com | dtb.goadserver.com |
 | expe01.goasrv.com | dtb.goadserver.com |
-| expertsudeb.goasrv.com | dtb.goadserver.com |
 | exploreoakville.maps.goasrv.com | dtb.goadserver.com |
 | explorimmobox.goaserv.com | dtb.goadserver.com |
 | extender.goasrv.com | dtb.goadserver.com |
@@ -607,6 +600,7 @@
 | go.gosrv.cl | dtb.goadserver.com |
 | go.gsrv.dev | dtb.goadserver.com |
 | go.novirtb.com | dtb.goadserver.com |
+| go.panotads.com | dtb.goadserver.com |
 | go.qf3lfzqkktcd2auhx3xx3pzlxlj6j1nj.com | dtb.goadserver.com |
 | go.redgifs.com | dtb.goadserver.com |
 | go.tbllad.com | dtb.goadserver.com |
@@ -626,6 +620,7 @@
 | go1.ecre.work | dtb.goadserver.com |
 | go1.lire.work | dtb.goadserver.com |
 | go1.lore.work | dtb.goadserver.com |
+| go1.reacheffect.com | dtb.goadserver.com |
 | go1.reacheffecti.work | dtb.goadserver.com |
 | go1.reachsrv.com | dtb.goadserver.com |
 | go1.spre.work | dtb.goadserver.com |
@@ -708,6 +703,7 @@
 | horror.4.goasrv.com | dtb.goadserver.com |
 | hortintl.cals.goasrv.com | dtb.goadserver.com |
 | host-134.goaserv.com | dtb.goadserver.com |
+| host-206.goasrv.com | dtb.goadserver.com |
 | host44.goasrv.com | dtb.goadserver.com |
 | hotels-rates.goaserv.com | dtb.goadserver.com |
 | huangguangaidanqinaliyoudemai.goaserv.com | dtb.goadserver.com |

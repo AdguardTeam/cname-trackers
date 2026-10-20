@@ -13,6 +13,7 @@
 * tlq-775nrhhwlhtndb31k9ddgf64.click-sap.sfmc-marketing.com
 * l.engage.canva.com.cdn.cloudflare.net
 * trk-e.customer.io
+* join.robinhood.com
 
 ## Cloaking domains
 
@@ -5065,6 +5066,7 @@
 | e.synchronybank.com | epsilon.thirdparty.bnc.lt |
 | email-epsilon.branch.rocks | epsilon.thirdparty.bnc.lt |
 | sephora-qa.branch.rocks | epsilon.thirdparty.bnc.lt |
+| share.robinhood.com | join.robinhood.com |
 | l.engage.canva.com | l.engage.canva.com.cdn.cloudflare.net |
 | email-bronto-stage.branch.rocks | thirdparty-staging.bnc.lt |
 | email-campmon.branch.rocks | thirdparty-staging.bnc.lt |

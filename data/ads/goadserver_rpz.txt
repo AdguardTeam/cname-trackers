@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792515392170        ; Serial
+           1792532422159        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -156,11 +156,9 @@ calculator-rate-credit.goasrv.com CNAME .
 caliban.goasrv.com CNAME .
 califano.c2b2.goaserv.com CNAME .
 camping-car.goaserv.com CNAME .
-campingcar-taka.goaserv.com CNAME .
 campus.goaserv.com CNAME .
 campusdigital.sertao.goasrv.com CNAME .
 campusedge.goasrv.com CNAME .
-campushorizontes2010.goasrv.com CNAME .
 canakkale.goaserv.com CNAME .
 canalcity.goasrv.com CNAME .
 canaragua.goaserv.com CNAME .
@@ -240,7 +238,6 @@ confluence.goaserv.com CNAME .
 conhecendoseumicro.goaserv.com CNAME .
 conky.goaserv.com CNAME .
 connect.goasrv.com CNAME .
-construnormas.goaserv.com CNAME .
 contenedor-digital.goasrv.com CNAME .
 contenido.goaserv.com CNAME .
 contonuvolastore.goaserv.com CNAME .
@@ -313,7 +310,6 @@ dubojipojie.goaserv.com CNAME .
 dubojuliujitian.goasrv.com CNAME .
 ducasses-du-nord.goasrv.com CNAME .
 dukelist.goaserv.com CNAME .
-dunovteck.goasrv.com CNAME .
 duqiuzuigaopeilv.goasrv.com CNAME .
 duyduyfx.goaserv.com CNAME .
 dvac.goaserv.com CNAME .
@@ -373,7 +369,6 @@ epotoku.goaserv.com CNAME .
 eprel.goaserv.com CNAME .
 epsa.goaserv.com CNAME .
 epsilon.goaserv.com CNAME .
-eresume.goasrv.com CNAME .
 es.arte.goasrv.com CNAME .
 es.avatar.goaserv.com CNAME .
 es.blackclover.goaserv.com CNAME .
@@ -398,7 +393,6 @@ etax.tax.goasrv.com CNAME .
 euamochanel.goasrv.com CNAME .
 euc.goasrv.com CNAME .
 euroservice.goaserv.com CNAME .
-evabra.goasrv.com CNAME .
 evaeleven.blogs.goasrv.com CNAME .
 event.tbllem.com CNAME .
 ever123.goaserv.com CNAME .
@@ -408,7 +402,6 @@ exch080.goaserv.com CNAME .
 exonewsvn.goaserv.com CNAME .
 expansion-fan-comics.goaserv.com CNAME .
 expe01.goasrv.com CNAME .
-expertsudeb.goasrv.com CNAME .
 exploreoakville.maps.goasrv.com CNAME .
 explorimmobox.goaserv.com CNAME .
 extender.goasrv.com CNAME .

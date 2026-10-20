@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792512550799        ; Serial
+           1792534229022        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11498,7 +11498,6 @@ view.email.skype.com CNAME .
 view.email.smartfoodservice.com CNAME .
 view.email.smartline.com.au CNAME .
 view.email.solarbuzz.com CNAME .
-view.email.sonos.com CNAME .
 view.email.southdakota.aaa.com CNAME .
 view.email.southpa.aaa.com CNAME .
 view.email.spacewhite.com CNAME .
@@ -12082,7 +12081,6 @@ view.mail.eos.io CNAME .
 view.mail.etihadguest.com CNAME .
 view.mail.evooq.ch CNAME .
 view.mail.familysearch.org CNAME .
-view.mail.fite.tv CNAME .
 view.mail.gerbergear.com CNAME .
 view.mail.gomedigap.com CNAME .
 view.mail.gottman.com CNAME .

@@ -2325,7 +2325,6 @@ aladdinupdate.blackrock.com
 ble.ubm-licensing.com
 childrensclub.ubmfashion.com
 connect.care.muschealth.org
-connect.care.orthovirginia.com
 connect.mmgnetgroup.com
 contacto.gtc.com.gt
 content.hydraulicsproducts.com
@@ -2903,6 +2902,7 @@ images.link.pentoncem.com
 images.link.pentonfinancialservices.com
 images.link.pentonfoodnews.com
 images.link.pentonlsm.com
+images.link.pentonmanufacturing.com
 images.link.pentonnews.com
 images.liqimg.com
 images.livecreative.creativecircle.com
@@ -3100,7 +3100,6 @@ response.quest.com
 yourporscheimg.nabooda-auto.com
 zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com
 images.connect.o2.co.uk
-images.link.pentonmanufacturing.com
 admin.darnelgroup.com
 archived.first.eloqua.extrahop.com
 archived.learn.eloqua.extrahop.com

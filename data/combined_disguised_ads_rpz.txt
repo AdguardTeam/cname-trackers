@@ -1,12 +1,12 @@
 ; Title: AdGuard CNAME disguised ads list
 ; Description: The list of unique ads domains that disguise the real trackers by using CNAME records.
-; TimeUpdated: 2026-10-20T18:38:48+00:00
+; TimeUpdated: 2026-10-20T23:58:27+00:00
 ; Homepage: https://github.com/AdguardTeam/cname-trackers
 ;
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792521528601        ; Serial
+           1792540707741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -404,7 +404,6 @@ $TTL 300
 3204865.notify6.com CNAME .
 3204885.notify6.com CNAME .
 3205143.notifysrv.com CNAME .
-3205513.notifysrv.com CNAME .
 3205733.notifysrv.com CNAME .
 3205919.notify6.com CNAME .
 3205971.notify6.com CNAME .
@@ -727,7 +726,6 @@ $TTL 300
 3591075.notifysrv.com CNAME .
 3593847.notifysrv.com CNAME .
 3595711.notifysrv.com CNAME .
-3598457.notifysrv.com CNAME .
 3599613.notifysrv.com CNAME .
 3599727.notify6.com CNAME .
 359ee5b1d7.790e74d0c5.com CNAME .
@@ -744,7 +742,6 @@ $TTL 300
 3617853.notify6.com CNAME .
 3618719.notifysrv.com CNAME .
 3618945.notify6.com CNAME .
-3618947.notify6.com CNAME .
 3619313.notifysrv.com CNAME .
 3621331.notifysrv.com CNAME .
 3622691.notifysrv.com CNAME .
@@ -757,10 +754,8 @@ $TTL 300
 3648599.notifysrv.com CNAME .
 365.freeonlinegayporn.com CNAME .
 3653677.notifysrv.com CNAME .
-3653689.notifysrv.com CNAME .
 3654845.notify6.com CNAME .
 3661193.notify6.com CNAME .
-3662557.notifysrv.com CNAME .
 3662593.notifysrv.com CNAME .
 3662839.notify6.com CNAME .
 3662845.notify6.com CNAME .
@@ -2624,7 +2619,6 @@ camel.gastro-plan.app CNAME .
 camel.warvik.no CNAME .
 campinas.jovempanfm.go-static.info CNAME .
 camping-car.goaserv.com CNAME .
-campingcar-taka.goaserv.com CNAME .
 campmat.go-static.info CNAME .
 campolimpopaulista.sp.go-static.info CNAME .
 campsoutherngrd.go-static.info CNAME .
@@ -2632,7 +2626,6 @@ campus.goaserv.com CNAME .
 campus360.go-static.info CNAME .
 campusdigital.sertao.goasrv.com CNAME .
 campusedge.goasrv.com CNAME .
-campushorizontes2010.goasrv.com CNAME .
 campusjobboard.go-static.info CNAME .
 canakkale.goaserv.com CNAME .
 canalcity.goasrv.com CNAME .
@@ -3333,7 +3326,6 @@ console.unionesarda.it CNAME .
 console.walaplusadserver.com CNAME .
 console.worldofshowjumping.com CNAME .
 console.wwoz.org CNAME .
-construnormas.goaserv.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 contacts.kakuyomu.life CNAME .
 contenedor-digital.goasrv.com CNAME .
@@ -3738,7 +3730,6 @@ dukunsantetampuhjarakjauh8.go-static.info CNAME .
 dungeonofsigns.go-static.info CNAME .
 dunia-panas.go-static.info CNAME .
 duniaicip-icip.go-static.info CNAME .
-dunovteck.goasrv.com CNAME .
 duoduoshipinqipaiyouxi.go-static.info CNAME .
 duolingo.go-static.info CNAME .
 duq8bcrl.xyz CNAME .
@@ -3962,7 +3953,6 @@ eq52.zclxvr99xuqzfvo2cvtwi2zf728f4x.cyou CNAME .
 eqope9mmbrenl.vnhjw2obvx3t13i624q28.cfd CNAME .
 equity-dev.hubhubhub.name CNAME .
 erdagotomotiv.go-static.info CNAME .
-eresume.goasrv.com CNAME .
 ergebnis-dienst.de3323174.notifysrv.com CNAME .
 ericabohrer.go-static.info CNAME .
 ery7i2ca.xyz CNAME .
@@ -4007,7 +3997,6 @@ eucdm.go-static.info CNAME .
 euolx.pl-pay.surf4623404.notify6.com CNAME .
 euroservice.goaserv.com CNAME .
 euz8m.74n1nr5lwgfgk1ghk2fi88cjq15cpq.cyou CNAME .
-evabra.goasrv.com CNAME .
 evaeleven.blogs.goasrv.com CNAME .
 event.tbllem.com CNAME .
 ever123.goaserv.com CNAME .
@@ -4028,7 +4017,6 @@ exonewsvn.goaserv.com CNAME .
 expansion-fan-comics.goaserv.com CNAME .
 expe01.goasrv.com CNAME .
 experience.theassemblync.com CNAME .
-expertsudeb.goasrv.com CNAME .
 exploreoakville.maps.goasrv.com CNAME .
 explorimmobox.goaserv.com CNAME .
 extender.goasrv.com CNAME .
@@ -10147,7 +10135,6 @@ www.elderly-craft.com CNAME .
 www.enjoymediafile.hubhubhub.name CNAME .
 www.exaapi.com CNAME .
 www.exasrv.com CNAME .
-www.f.bloblohub.com CNAME .
 www.fancy-officer.com CNAME .
 www.farflungeffective.com CNAME .
 www.fasder12.ru CNAME .

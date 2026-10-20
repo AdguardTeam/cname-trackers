@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792509191770        ; Serial
+           1792532422159        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire

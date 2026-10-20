@@ -1,12 +1,12 @@
 ; Title: AdGuard CNAME disguised clickthroughs list
 ; Description: The list of unique clickthroughs domains that disguise the real trackers by using CNAME records.
-; TimeUpdated: 2026-10-20T18:38:48+00:00
+; TimeUpdated: 2026-10-20T23:58:27+00:00
 ; Homepage: https://github.com/AdguardTeam/cname-trackers
 ;
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792521528601        ; Serial
+           1792540707741        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14763,7 +14763,6 @@ go.questintegrity.com CNAME .
 go.questone.com CNAME .
 go.quickbooks.intuit.ca CNAME .
 go.quickconsulting.co.jp CNAME .
-go.quickfee.com.au CNAME .
 go.quickfi.com CNAME .
 go.quicklaunchanalytics.com CNAME .
 go.quicktapsurvey.com CNAME .
@@ -31815,7 +31814,6 @@ www2.idwholesaler.com CNAME .
 www2.idzone.com CNAME .
 www2.iesnyc.com CNAME .
 www2.ifboa.aero CNAME .
-www2.ifsa-butler.org CNAME .
 www2.ignitionone.com CNAME .
 www2.ignyto.com CNAME .
 www2.ikey.com CNAME .

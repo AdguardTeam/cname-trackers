@@ -39,6 +39,8 @@
 | academy.kdpwizard.app | email.kdpwizard.app |
 | bot.kdpwizard.app | email.kdpwizard.app |
 | cache.kdpwizard.app | email.kdpwizard.app |
+| call.kdpwizard.app | email.kdpwizard.app |
+| campaigns.kdpwizard.app | email.kdpwizard.app |
 | cart.kdpwizard.app | email.kdpwizard.app |
 | cases.kdpwizard.app | email.kdpwizard.app |
 | cb9eeca1-e88c-4e7e-a134-38a4313a82e2.random.kdpwizard.app | email.kdpwizard.app |
@@ -49,7 +51,9 @@
 | f9ccb1e3-5b4e-4e22-92e2-73d4fd25d146.random.kdpwizard.app | email.kdpwizard.app |
 | home.kdpwizard.app | email.kdpwizard.app |
 | it.kdpwizard.app | email.kdpwizard.app |
+| k8s.kdpwizard.app | email.kdpwizard.app |
 | kafka-test.kdpwizard.app | email.kdpwizard.app |
+| meet.kdpwizard.app | email.kdpwizard.app |
 | nexus.kdpwizard.app | email.kdpwizard.app |
 | online.kdpwizard.app | email.kdpwizard.app |
 | ops.kdpwizard.app | email.kdpwizard.app |
@@ -1559,7 +1563,6 @@
 | email.bright-mail.ljusdalenergi.se | eu.mailgun.org |
 | email.bright-mail.seom.se | eu.mailgun.org |
 | email.bright-mail.sevab.com | eu.mailgun.org |
-| email.brightinnovation.co | eu.mailgun.org |
 | email.brights.io | eu.mailgun.org |
 | email.brigittekoch.nl | eu.mailgun.org |
 | email.brikks.com | eu.mailgun.org |
@@ -19112,7 +19115,6 @@
 | email.101email.unthinkretirement.com | mailgun.org |
 | email.10202.reminders.business | mailgun.org |
 | email.10228.reminders.business | mailgun.org |
-| email.10230.reminders.business | mailgun.org |
 | email.1024terabox.com | mailgun.org |
 | email.10262.reminders.business | mailgun.org |
 | email.1099.thelocumos.com | mailgun.org |
@@ -22759,7 +22761,6 @@
 | email.aliciamckay.co.nz | mailgun.org |
 | email.alifaa.org | mailgun.org |
 | email.alifehealingagency.org | mailgun.org |
-| email.align.lpmail.gr | mailgun.org |
 | email.align.startrepublicfinance.com | mailgun.org |
 | email.alignbusiness-m.com | mailgun.org |
 | email.aligndanceco.enrollioapp1.com | mailgun.org |
@@ -27576,7 +27577,6 @@
 | email.bkmail.bankklaten.co.id | mailgun.org |
 | email.bkpt.com.au | mailgun.org |
 | email.blackbirdsa.com.au | mailgun.org |
-| email.blackboxtheorygrowth.com | mailgun.org |
 | email.blackbrookbarns.venueflow.co.uk | mailgun.org |
 | email.blackbusiness.academy | mailgun.org |
 | email.blackcab.ro | mailgun.org |
@@ -31065,7 +31065,6 @@
 | email.centerforloss.com | mailgun.org |
 | email.centergrid.com | mailgun.org |
 | email.centermarkplacements.com | mailgun.org |
-| email.centernet.com.au | mailgun.org |
 | email.centerpoint.faith | mailgun.org |
 | email.centerpointkzoo.org | mailgun.org |
 | email.centertheatregroup.org | mailgun.org |
@@ -46748,7 +46747,6 @@
 | email.demo.emmydrafts.com | mailgun.org |
 | email.demo.everspr.ing | mailgun.org |
 | email.demo.faithhubcrm.com | mailgun.org |
-| email.demo.forgebusiness.co | mailgun.org |
 | email.demo.freethinkfriday.com | mailgun.org |
 | email.demo.funneltechie.com | mailgun.org |
 | email.demo.garagesite.co.uk | mailgun.org |
@@ -60561,7 +60559,6 @@
 | email.email.covenantrewrite.com | mailgun.org |
 | email.email.covermypregnancy.com | mailgun.org |
 | email.email.coversure.co.uk | mailgun.org |
-| email.email.covherconsultores.com | mailgun.org |
 | email.email.cowenlandscapes.co.uk | mailgun.org |
 | email.email.coyelitecoach.com | mailgun.org |
 | email.email.coyogi.com | mailgun.org |
@@ -62479,7 +62476,6 @@
 | email.email.enrichaestheticstraining.co.uk | mailgun.org |
 | email.email.enrichedhomesaz.com | mailgun.org |
 | email.email.enriquehinojosa.com | mailgun.org |
-| email.email.enriqueibanez.com | mailgun.org |
 | email.email.enrolledge.marketing | mailgun.org |
 | email.email.enrollredu.com | mailgun.org |
 | email.email.enroperating.com | mailgun.org |
@@ -63810,7 +63806,6 @@
 | email.email.gobeilsyndic.com | mailgun.org |
 | email.email.gobeyondmultifamily.com | mailgun.org |
 | email.email.gobeyondthepolicy.com | mailgun.org |
-| email.email.gobigcontractor.com | mailgun.org |
 | email.email.gobigresale.com | mailgun.org |
 | email.email.gobizfuel.com | mailgun.org |
 | email.email.gobizsuite.com | mailgun.org |
@@ -68009,7 +68004,6 @@
 | email.email.meho-ecom.com | mailgun.org |
 | email.email.meinewerkstatt.digital | mailgun.org |
 | email.email.meinpraeventionskurs.de | mailgun.org |
-| email.email.mejoratusurfonline.com | mailgun.org |
 | email.email.melaniedoucette.com | mailgun.org |
 | email.email.melaniemgn.com | mailgun.org |
 | email.email.meldflow.com | mailgun.org |
@@ -76208,7 +76202,6 @@
 | email.email.yourenergypros.com | mailgun.org |
 | email.email.yourengineeringsuccess.co.uk | mailgun.org |
 | email.email.yourexpatjourney.com | mailgun.org |
-| email.email.youreyeguardian.com | mailgun.org |
 | email.email.yourfeedbacktoday.com | mailgun.org |
 | email.email.yourfirstaidtrainer.com.au | mailgun.org |
 | email.email.yourfootballonline.it | mailgun.org |
@@ -76232,7 +76225,6 @@
 | email.email.yourlocalmedspa.com | mailgun.org |
 | email.email.yourmagicmap.com | mailgun.org |
 | email.email.yourmatflow.com | mailgun.org |
-| email.email.yourmdm.co | mailgun.org |
 | email.email.yourmedicarebasics.com | mailgun.org |
 | email.email.yourmktgteam.co | mailgun.org |
 | email.email.yourneighborcindy.com | mailgun.org |
@@ -78315,7 +78307,6 @@
 | email.emails.meal-a-day.org | mailgun.org |
 | email.emails.mediaprotech.com | mailgun.org |
 | email.emails.medicallinkus.com | mailgun.org |
-| email.emails.mejoratusurfonline.com | mailgun.org |
 | email.emails.melbournegreenworks.com.au | mailgun.org |
 | email.emails.mentoringyoungminds.com.au | mailgun.org |
 | email.emails.merinio.com | mailgun.org |
@@ -78525,7 +78516,6 @@
 | email.emails.prodigyfunding.com | mailgun.org |
 | email.emails.professorlorenzen.com | mailgun.org |
 | email.emails.profitnowwithjerry.com | mailgun.org |
-| email.emails.programabelarfitlife.com | mailgun.org |
 | email.emails.programaementory.com | mailgun.org |
 | email.emails.programahombresfenix.com | mailgun.org |
 | email.emails.prolegis.ca | mailgun.org |
@@ -92512,7 +92502,6 @@
 | email.glendaledental.com | mailgun.org |
 | email.glendoralaw.com | mailgun.org |
 | email.glenferriegroup.com.au | mailgun.org |
-| email.glenferriessc.com.au | mailgun.org |
 | email.glenn.localhomeslist.com | mailgun.org |
 | email.glenora.com | mailgun.org |
 | email.glenoracircledental.info | mailgun.org |
@@ -106486,7 +106475,6 @@
 | email.info.ismaelcala.com | mailgun.org |
 | email.info.ismaelreyreyes.com | mailgun.org |
 | email.info.issa-assaf.com | mailgun.org |
-| email.info.itcareertransition.com | mailgun.org |
 | email.info.itchypalmslandscapes.com.au | mailgun.org |
 | email.info.itgcommunicationsgroup.com | mailgun.org |
 | email.info.itgconsultantgroup.com | mailgun.org |
@@ -118643,7 +118631,6 @@
 | email.kw.northstarlending.com | mailgun.org |
 | email.kwara.com.br | mailgun.org |
 | email.kwentra.com | mailgun.org |
-| email.kwevolution.com | mailgun.org |
 | email.kwickfind.com | mailgun.org |
 | email.kwiltart.com | mailgun.org |
 | email.kwmgutterman.com | mailgun.org |
@@ -120674,7 +120661,6 @@
 | email.lc.calmcollegeplanning.com | mailgun.org |
 | email.lc.calmlock.online | mailgun.org |
 | email.lc.calmmindsparentcoaching.com | mailgun.org |
-| email.lc.calusa.edu | mailgun.org |
 | email.lc.calvinware.com | mailgun.org |
 | email.lc.calysstewartnotary.com | mailgun.org |
 | email.lc.camarillogunstore.com | mailgun.org |
@@ -122914,7 +122900,6 @@
 | email.lc.go.socialsaleslab.com | mailgun.org |
 | email.lc.goalguiders.net | mailgun.org |
 | email.lc.goappointify.com | mailgun.org |
-| email.lc.gobigcontractor.com | mailgun.org |
 | email.lc.gobizacademy.com | mailgun.org |
 | email.lc.gobotai.com | mailgun.org |
 | email.lc.gocascaderoofing.com | mailgun.org |
@@ -126109,7 +126094,6 @@
 | email.lc.peoplesvictorysolutions.com | mailgun.org |
 | email.lc.peoriacosmeticsurgery.com | mailgun.org |
 | email.lc.pepandgusto.com.au | mailgun.org |
-| email.lc.perfectaenergia.com.br | mailgun.org |
 | email.lc.perfectedcoffee.ca | mailgun.org |
 | email.lc.perfectionvillage.com | mailgun.org |
 | email.lc.perfectlybeautiful.com.au | mailgun.org |
@@ -142056,7 +142040,6 @@
 | email.mail.gobarkloud.com | mailgun.org |
 | email.mail.gobedostay.com | mailgun.org |
 | email.mail.gobiernatudolor.com | mailgun.org |
-| email.mail.gobigcontractor.com | mailgun.org |
 | email.mail.gobigsmallbiz.com | mailgun.org |
 | email.mail.goblinseptic.com | mailgun.org |
 | email.mail.gobodegaai.com | mailgun.org |
@@ -148642,7 +148625,6 @@
 | email.mail.pavalue.net | mailgun.org |
 | email.mail.pavingmarketers.net | mailgun.org |
 | email.mail.pawradise.com | mailgun.org |
-| email.mail.pawspoopatrol.com | mailgun.org |
 | email.mail.pay-back.co.il | mailgun.org |
 | email.mail.payam.com.ng | mailgun.org |
 | email.mail.paybackcardgame.com | mailgun.org |
@@ -158245,7 +158227,6 @@
 | email.marinemasseline.com | mailgun.org |
 | email.marinemax.aimbase.com | mailgun.org |
 | email.mariner.playmetrics.com | mailgun.org |
-| email.marinercomputer.com | mailgun.org |
 | email.marinermarine.com | mailgun.org |
 | email.marinesurveyor.com | mailgun.org |
 | email.marineverse.com | mailgun.org |
@@ -171315,7 +171296,6 @@
 | email.mg.yourwealthmentor.com.au | mailgun.org |
 | email.mg.yousemble.co.za | mailgun.org |
 | email.mg.youtubeshortsdominance.com | mailgun.org |
-| email.mg.youwin.kz | mailgun.org |
 | email.mg.yoyogames.com | mailgun.org |
 | email.mg.yoyotricks.com | mailgun.org |
 | email.mg.yukollella.com | mailgun.org |
@@ -180038,7 +180018,6 @@
 | email.nottinghamwaterside.f45teamtraining.com | mailgun.org |
 | email.noty.ai | mailgun.org |
 | email.nou-pou.gr | mailgun.org |
-| email.nourddtech.com | mailgun.org |
 | email.nouveaucinema.ca | mailgun.org |
 | email.nouvel.org | mailgun.org |
 | email.nouvelles.brainzyme.fr | mailgun.org |
@@ -191251,7 +191230,6 @@
 | email.reply.axiomchiropractic.com | mailgun.org |
 | email.reply.axiomhealthmanagement.com | mailgun.org |
 | email.reply.ayce.ai | mailgun.org |
-| email.reply.ayurvedicwellness.center | mailgun.org |
 | email.reply.az-video.com | mailgun.org |
 | email.reply.azhomeexperts.com | mailgun.org |
 | email.reply.azielarts.com | mailgun.org |
@@ -191742,7 +191720,6 @@
 | email.reply.coachalaa.com | mailgun.org |
 | email.reply.coachbewaved.com | mailgun.org |
 | email.reply.coachchriscobb.com | mailgun.org |
-| email.reply.coachcoreymac.org | mailgun.org |
 | email.reply.coachcraigboyd.com | mailgun.org |
 | email.reply.coachdez.com | mailgun.org |
 | email.reply.coachdhavalpatel.com | mailgun.org |
@@ -197616,7 +197593,6 @@
 | email.rizzar.premiumfinancegroupllc.com | mailgun.org |
 | email.rj.nsw.edu.au | mailgun.org |
 | email.rjcoatings.com | mailgun.org |
-| email.rjgoldsborough.com | mailgun.org |
 | email.rjm.mn-restoration.com | mailgun.org |
 | email.rjmartindale.uk | mailgun.org |
 | email.rjonetworks.com | mailgun.org |
@@ -202911,7 +202887,6 @@
 | email.setapp.com | mailgun.org |
 | email.setc-reply.taxprepadvocates.com | mailgun.org |
 | email.setc.ronhaslam.com | mailgun.org |
-| email.setfinancial.com | mailgun.org |
 | email.setfly.arcticres.com | mailgun.org |
 | email.sethc.olivercharlessports.com | mailgun.org |
 | email.sethirealestateteam.com | mailgun.org |
@@ -203622,7 +203597,6 @@
 | email.siegen.dorint.com | mailgun.org |
 | email.siena-group.com | mailgun.org |
 | email.siennabyronbay.com | mailgun.org |
-| email.sierpexplorer.com | mailgun.org |
 | email.sierrachevrolet.purecarstam.com | mailgun.org |
 | email.sierrahubliving.com | mailgun.org |
 | email.sierraridge.mail.welcomehomesoftware.com | mailgun.org |
@@ -223006,7 +222980,6 @@
 | lwmail.leansixsigmapro.com.au | mailgun.org |
 | lwmail.learn-empathy.com | mailgun.org |
 | lwmail.learn.aihm.org | mailgun.org |
-| lwmail.learn.crugerconsultingservices.com | mailgun.org |
 | lwmail.learn.infuse.com | mailgun.org |
 | lwmail.learn.lolc.com | mailgun.org |
 | lwmail.learn.metariskeducation.com | mailgun.org |

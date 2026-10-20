@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792513799104        ; Serial
+           1792527583227        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -3528,7 +3528,6 @@ a135.wpxi.com CNAME .
 a135.wsbtv.com CNAME .
 a135.wsoctv.com CNAME .
 a235.aleteia.org CNAME .
-a235.sfgate.com CNAME .
 a614.al.com CNAME .
 a614.mlive.com CNAME .
 a614.nj.com CNAME .
@@ -11598,6 +11597,5 @@ zimbra.share.ntv.io CNAME .
 zimbrainstylecorp.share.ntv.io CNAME .
 zimbraphoenix.15.apollo.share.ntv.io CNAME .
 a135.htvnativeadsolutions.com CNAME .
-a235.ctpost.com CNAME .
 a235.htvnativeadsolutions.com CNAME .
 a235.timesunion.com CNAME .

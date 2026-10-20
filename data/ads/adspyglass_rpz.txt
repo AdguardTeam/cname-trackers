@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792512550799        ; Serial
+           1792527585060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -450,7 +450,6 @@ creta.hubhubhub.name CNAME .
 crumpet.xxxpornhd.pro CNAME .
 cx6.lastxxxmovies.com CNAME .
 d.love4porn.com CNAME .
-dash.bloblohub.com CNAME .
 data.bangtubevideos.com CNAME .
 data.streamtape.com CNAME .
 dca-ems.hubhubhub.name CNAME .
@@ -565,7 +564,6 @@ icahm62q.xyz CNAME .
 ignore.hot-bbw-tube.com CNAME .
 ildr3vij.xyz CNAME .
 ilviaggionellatesta.hubhubhub.name CNAME .
-imail.bloblohub.com CNAME .
 imbdemfjjduu.cdnvideo3.com CNAME .
 in.fuckhardclips.com CNAME .
 intimatediary.com CNAME .
@@ -670,7 +668,6 @@ mydomainbest.com CNAME .
 myr8h1k1.xyz CNAME .
 n.bloblohub.com CNAME .
 n.hubhubhub.name CNAME .
-n20dj6rv6ru1qewt.analytics.bloblohub.com CNAME .
 n2nc9u5l.xyz CNAME .
 n30m.byehd3.life CNAME .
 net.contoscn.com CNAME .
@@ -757,7 +754,6 @@ pop.lovingsiren.com CNAME .
 porn18.me CNAME .
 portal.tastejapan.life CNAME .
 potisje.xyz CNAME .
-power1.bloblohub.com CNAME .
 ppu.adasgsts.cc CNAME .
 ppu.adasgxsp.cc CNAME .
 ppu.asgadmp.cc CNAME .
@@ -800,7 +796,6 @@ qoqv.com CNAME .
 qovua60gue.tubewolf.com CNAME .
 qr08uw9e.xyz CNAME .
 question.hot-step-mom.com CNAME .
-quote.bloblohub.com CNAME .
 qx0.xnxxtubevideos.com CNAME .
 r.archertube.com CNAME .
 r.tropictube.com CNAME .
@@ -888,7 +883,6 @@ ssp.asiaflix.net CNAME .
 ssp.semuadisini.xyz CNAME .
 st.asiaxbit.com CNAME .
 stacy.hubhubhub.name CNAME .
-staging2.bloblohub.com CNAME .
 static.bucketflare.xyz CNAME .
 static.cloud-suites.xyz CNAME .
 static.content-sync.xyz CNAME .
@@ -1004,7 +998,6 @@ www.creta.hubhubhub.name CNAME .
 www.csicskalangos.com CNAME .
 www.dca-ems.hubhubhub.name CNAME .
 www.enjoymediafile.hubhubhub.name CNAME .
-www.f.bloblohub.com CNAME .
 www.go.showmeyouradsnow.com CNAME .
 www.h4o565egjgi0v4bz.hubhubhub.name CNAME .
 www.hubhubhub.name CNAME .
@@ -1089,3 +1082,9 @@ perfectvids.com CNAME .
 store4porn.com CNAME .
 topsexmovs.com CNAME .
 video.cdnako.com CNAME .
+dash.bloblohub.com CNAME .
+imail.bloblohub.com CNAME .
+n20dj6rv6ru1qewt.analytics.bloblohub.com CNAME .
+power1.bloblohub.com CNAME .
+quote.bloblohub.com CNAME .
+staging2.bloblohub.com CNAME .

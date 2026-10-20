@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792513799104        ; Serial
+           1792527585060        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -669,7 +669,6 @@ z5xjpv2gdo3atep-c.adktrack11.xyz CNAME .
 100011578.collect.igodigital.com CNAME .
 100011881.collect.igodigital.com CNAME .
 100012449.collect.igodigital.com CNAME .
-100012768.collect.igodigital.com CNAME .
 100014069.collect.igodigital.com CNAME .
 100014588.collect.igodigital.com CNAME .
 100014861.collect.igodigital.com CNAME .

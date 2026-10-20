@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792515392170        ; Serial
+           1792532422159        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -2336,7 +2336,6 @@ aladdinupdate.blackrock.com CNAME .
 ble.ubm-licensing.com CNAME .
 childrensclub.ubmfashion.com CNAME .
 connect.care.muschealth.org CNAME .
-connect.care.orthovirginia.com CNAME .
 connect.mmgnetgroup.com CNAME .
 contacto.gtc.com.gt CNAME .
 content.hydraulicsproducts.com CNAME .
@@ -2914,6 +2913,7 @@ images.link.pentoncem.com CNAME .
 images.link.pentonfinancialservices.com CNAME .
 images.link.pentonfoodnews.com CNAME .
 images.link.pentonlsm.com CNAME .
+images.link.pentonmanufacturing.com CNAME .
 images.link.pentonnews.com CNAME .
 images.liqimg.com CNAME .
 images.livecreative.creativecircle.com CNAME .
@@ -3111,7 +3111,6 @@ response.quest.com CNAME .
 yourporscheimg.nabooda-auto.com CNAME .
 zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com CNAME .
 images.connect.o2.co.uk CNAME .
-images.link.pentonmanufacturing.com CNAME .
 admin.darnelgroup.com CNAME .
 archived.first.eloqua.extrahop.com CNAME .
 archived.learn.eloqua.extrahop.com CNAME .

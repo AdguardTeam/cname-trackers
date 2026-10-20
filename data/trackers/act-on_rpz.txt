@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792515392170        ; Serial
+           1792532422159        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -3524,7 +3524,6 @@ bioanalyticalmarketing.eurofins-info.com CNAME .
 biophysicsgroup.actonservice.com CNAME .
 bison.actonservice.com CNAME .
 biworldwide.actonservice.com CNAME .
-biznews.oregon.gov CNAME .
 bizz.cochraneco.com CNAME .
 bke.actonservice.com CNAME .
 bkifg.actonservice.com CNAME .

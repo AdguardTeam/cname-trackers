@@ -5130,7 +5130,6 @@
 ||load.api.isolarelacasa.click^
 ||load.api.locoscooters.ie^
 ||load.api.luzamor.com.br^
-||load.api.monkmachine.digital^
 ||load.api.neuroprotetor.com.br^
 ||load.api.southbeachofficial.com^
 ||load.apimateriais.maximustecidos.com.br^
@@ -24258,7 +24257,6 @@
 ||data.trusthomecareinc.org^
 ||data.tryavia.com^
 ||data.trycornbread.com^
-||data.trydentite.com^
 ||data.tunaizakat.my^
 ||data.tutopress.co^
 ||data.tuttocartucce.com^
@@ -26083,7 +26081,6 @@
 ||gkbfrss.geekbuying.com^
 ||gkbhuss.geekbuying.com^
 ||gkm.eriklopez.com.br^
-||glcyaewq.chinabusinessimmersion.com.br^
 ||gloriva.glorivabeauty.com^
 ||glsokkaw.shoplegalgreens.com^
 ||gm.greekmarket.com^
@@ -26316,7 +26313,6 @@
 ||gtm.aceleracaodelivery.com.br^
 ||gtm.aceleradorcomercial.com^
 ||gtm.aceleraia.ia.br^
-||gtm.acelereevoe.com^
 ||gtm.aceletapetszeus.com^
 ||gtm.acesaarquitetas.com.br^
 ||gtm.acomig.com.br^
@@ -39637,7 +39633,6 @@
 ||load.stape.lp.agentesdesonhos.com.br^
 ||load.stape.lp.guiainglesabordo.com^
 ||load.stape.lulofouet.com^
-||load.stape.lumartinsterapias.com.br^
 ||load.stape.luvelozzo.com^
 ||load.stape.lyonsvipexecutivo.com.br^
 ||load.stape.m2noticias.com.br^
@@ -43597,7 +43592,6 @@
 ||server.aqtocycling.com^
 ||server.aquinolopes.com.br^
 ||server.ar-hard.com.ar^
-||server.aramghor.com^
 ||server.arbabeautycare.com^
 ||server.arcohof.com^
 ||server.ardreamltd.com^
@@ -50753,7 +50747,6 @@
 ||ss.www.sharkindicators.com^
 ||ss.www.solven.com.au^
 ||ss.wyld.health^
-||ss.xn--frskringsklok-dfb1y.se^
 ||ss.xogangbrazil.com^
 ||ss.xoryn.com.bd^
 ||ss.ybm.agency^
@@ -52614,7 +52607,6 @@
 ||sst.mailbon.com^
 ||sst.mainstreetmotors.org^
 ||sst.maiscorreios.com.br^
-||sst.maison-stickers-muraux.com^
 ||sst.maisondebouchard.com^
 ||sst.maisonducaviar.paris^
 ||sst.maisonft.com^

@@ -2052,7 +2052,6 @@
 ||smetrics.wyndham.com^
 ||smetrics.wyndhampartyweekends.com^
 ||smetrics.wyndhamvacationresorts.com^
-||smetrics.xavier.edu^
 ||smetrics.ybs.co.uk^
 ||smetrics.yellowbook.com^
 ||smetrics.yesterdaysnews.com^
@@ -2386,7 +2385,6 @@
 ||stats.onetime.com^
 ||stats.ooshop.com^
 ||stats.optionsxpress.com^
-||stats.organizeit.com^
 ||stats.oxfordclub.com^
 ||stats.pacificdentalservices.com^
 ||stats.partstrain.com^
@@ -39271,7 +39269,6 @@
 ||securetags.gisbaltic.eu^
 ||securetags.igeo.com.bo^
 ||securetags.maps.com^
-||securetags.openware.com.kw^
 ||securian.tt.omtrdc.net^
 ||securitymetrics.tt.omtrdc.net^
 ||sedge.aarp.org^
@@ -41865,7 +41862,6 @@
 ||stats.oasis.supportinsights.adobe.com^
 ||stats.radley.co.uk^
 ||stats.radleylondon.com^
-||stats.refurbished-handys.de^
 ||stats.sim24.de^
 ||stats.southernphone.com.au^
 ||stats.unlimited24.de^
@@ -53033,7 +53029,6 @@
 ||metric.barclaycardus.com^
 ||metric.biogen.com^
 ||metric.bizjournals.com^
-||metric.caixabank.es^
 ||metric.carview.co.jp^
 ||metric.cb2.com^
 ||metric.changiairport.com^
@@ -58095,7 +58090,6 @@
 ||stats.oui.sncf^
 ||stats.oyster.com^
 ||stats.paymypremiums.com^
-||stats.phonex.de^
 ||stats.postescanada-canadapost.ca^
 ||stats.postescanada.ca^
 ||stats.premiumsim.de^
@@ -60476,10 +60470,7 @@
 ||mcdmetrics2.aaa.com^
 ||metrics-target.siriusxm.com^
 ||metrics.adobeprimetime.com^
-||metrics.cartoonnetworkla.com^
 ||metrics.greenstate.com^
-||metrics.mysanantonio.com^
-||x.timesunion.com^
 ||omni.bcg.com^
 ||oopt.norauto.es^
 ||oopt.norauto.fr^

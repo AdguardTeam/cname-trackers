@@ -170,6 +170,7 @@
 * lbsp.stpsl.net
 * fi-perko.seravo.com
 * eu.sgtm.space
+* ga-sgtm.b-cdn.net
 * pl-foodango-prd-main-2049787397.eu-west-1.elb.amazonaws.com
 * w01e3951.kasserver.com
 * track.pixelfly.io
@@ -14967,7 +14968,6 @@
 | ss.viretta.de | eun.stape.io |
 | ss.virtasenkauppa.fi | eun.stape.io |
 | ss.weathergoodssweden.com | eun.stape.io |
-| ss.xn--frskringsklok-dfb1y.se | eun.stape.io |
 | ss.zeeksack.nl | eun.stape.io |
 | ss.zeeksack.pl | eun.stape.io |
 | ssgtm.zefirchat.com | eun.stape.io |
@@ -15002,7 +15002,6 @@
 | sst.jeanerica.com | eun.stape.io |
 | sst.junibacken.se | eun.stape.io |
 | sst.kostholdsendring.no | eun.stape.io |
-| sst.maison-stickers-muraux.com | eun.stape.io |
 | sst.meyoubeauty.com | eun.stape.io |
 | sst.mikehausmann.com | eun.stape.io |
 | sst.montrahotels.dk | eun.stape.io |
@@ -22997,6 +22996,11 @@
 | zahyqcrd.thefloatingroom.dk | eux.stape.net |
 | load.ssgtm.kiilto.lv | fi-perko.seravo.com |
 | capig.monologo.pl | fskiwbzb.stape.io |
+| load.sstrk.green-acres.co.il | ga-sgtm.b-cdn.net |
+| load.sstrk.green-acres.co.uk | ga-sgtm.b-cdn.net |
+| load.sstrk.green-acres.com | ga-sgtm.b-cdn.net |
+| load.sstrk.green-acres.gr | ga-sgtm.b-cdn.net |
+| load.sstrk.green-acres.hr | ga-sgtm.b-cdn.net |
 | data.coliseumtheatre.com.au | gapn.stape.io |
 | data.randyfox.com.au | gapn.stape.io |
 | ga.lubd.com | gapn.stape.io |
@@ -23700,7 +23704,6 @@
 | server.alshifabd.shop | in.stape.io |
 | server.alternatemart.com | in.stape.io |
 | server.amaraoutfit.com | in.stape.io |
-| server.aramghor.com | in.stape.io |
 | server.arbabeautycare.com | in.stape.io |
 | server.ardreamltd.com | in.stape.io |
 | server.arizalife.com | in.stape.io |
@@ -32113,7 +32116,6 @@
 | load.altid.hvidovrec.dk | leuq.stape.net |
 | load.analytics.weldeye.com | leuq.stape.net |
 | load.analyticsmumbai.abbeyroadinstitute.in | leuq.stape.net |
-| load.api.monkmachine.digital | leuq.stape.net |
 | load.app.delegate-group.com | leuq.stape.net |
 | load.app.kliklekarz.pl | leuq.stape.net |
 | load.app.leidenfrost.at | leuq.stape.net |
@@ -36709,7 +36711,6 @@
 | load.stape.emporiodasrendas.com.br | lsam.stape.io |
 | load.stape.facesteam.com.br | lsam.stape.io |
 | load.stape.lulofouet.com | lsam.stape.io |
-| load.stape.lumartinsterapias.com.br | lsam.stape.io |
 | load.stape.mastechtecnologia.com.br | lsam.stape.io |
 | load.stape.mercadopago.com.br | lsam.stape.io |
 | load.stape.nucletech.com.br | lsam.stape.io |
@@ -42213,6 +42214,7 @@
 | dados.quintalvivo.com.br | sab.stape.io |
 | dados.subestacaodozero.com.br | sab.stape.io |
 | danny.dannyclosetboutique.com.br | sab.stape.io |
+| data.01apenasteste.com | sab.stape.io |
 | data.clubarqexpress.com.br | sab.stape.io |
 | data.correntedaneusa.com | sab.stape.io |
 | data.fastpodbc.com | sab.stape.io |
@@ -42663,6 +42665,7 @@
 | server.drajanicemartins.com | sab.stape.io |
 | server.drareginaantonelli.com.br | sab.stape.io |
 | server.dravitoriacosta.com.br | sab.stape.io |
+| server.drjoaodinali.com.br | sab.stape.io |
 | server.ekkotec.com.br | sab.stape.io |
 | server.ekonatal.com.br | sab.stape.io |
 | server.elber.ind.br | sab.stape.io |
@@ -45430,7 +45433,6 @@
 | go.versyaapp.com | sae.stape.io |
 | gtm-server.maripetry.com.br | sae.stape.io |
 | gtm.aceleraia.ia.br | sae.stape.io |
-| gtm.acelereevoe.com | sae.stape.io |
 | gtm.acyberguru.com.br | sae.stape.io |
 | gtm.adoredrinks.com.br | sae.stape.io |
 | gtm.agenciaalcantara.com.br | sae.stape.io |
@@ -48318,7 +48320,6 @@
 | fast.scarpazi.com.br | sal.stape.io |
 | fbapi.correspondentejuridicocap.com.br | sal.stape.io |
 | floripa.cursodetti.com.br | sal.stape.io |
-| glcyaewq.chinabusinessimmersion.com.br | sal.stape.io |
 | gmm.drmarcelcasagrande.com.br | sal.stape.io |
 | gt.estimulodemae.com.br | sal.stape.io |
 | gtm-dyve.dior.com.br | sal.stape.io |
@@ -55305,7 +55306,6 @@
 | data.rw-clinic.com | usd.stape.io |
 | data.saltedseas.com | usd.stape.io |
 | data.softballtradingpins.net | usd.stape.io |
-| data.trydentite.com | usd.stape.io |
 | data.veggimins.com | usd.stape.io |
 | data.vintagemodern.co | usd.stape.io |
 | datos.drmonsameday.com | usd.stape.io |

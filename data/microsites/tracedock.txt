@@ -658,7 +658,6 @@
 ||100011578.collect.igodigital.com^
 ||100011881.collect.igodigital.com^
 ||100012449.collect.igodigital.com^
-||100012768.collect.igodigital.com^
 ||100014069.collect.igodigital.com^
 ||100014588.collect.igodigital.com^
 ||100014861.collect.igodigital.com^

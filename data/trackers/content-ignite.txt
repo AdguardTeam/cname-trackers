@@ -151,7 +151,6 @@
 ||tags.booker.com^
 ||tags.bunte.de^
 ||tags.bupa.co.nz^
-||tags.caixabank.com^
 ||tags.caixabank.es^
 ||tags.caixabankamlux.com^
 ||tags.caixabanklab-campus.com^

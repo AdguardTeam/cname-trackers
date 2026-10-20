@@ -11487,7 +11487,6 @@ view.email.skype.com
 view.email.smartfoodservice.com
 view.email.smartline.com.au
 view.email.solarbuzz.com
-view.email.sonos.com
 view.email.southdakota.aaa.com
 view.email.southpa.aaa.com
 view.email.spacewhite.com
@@ -12071,7 +12070,6 @@ view.mail.eos.io
 view.mail.etihadguest.com
 view.mail.evooq.ch
 view.mail.familysearch.org
-view.mail.fite.tv
 view.mail.gerbergear.com
 view.mail.gomedigap.com
 view.mail.gottman.com

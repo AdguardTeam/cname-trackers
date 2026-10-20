@@ -1288,7 +1288,6 @@
     * oreck.com.112.112.2o7.net
     * oreilly.com.122.2o7.net
     * oreillyauto.com.122.2o7.net
-    * organizeit.com.112.2o7.net
     * otrestaurant.com.112.2o7.net
     * otto.de.112.2o7.net
     * outrigger.com.102.112.2o7.net
@@ -6068,7 +6067,6 @@
     * onkxo4gfey.data.adobedc.net
     * oo2g3jc2vn.data.adobedc.net
     * openinnovationnetwork.gov.sg.data.adobedc.net
-    * openware.com.kw.data.adobedc.net
     * opinmppdpq.data.adobedc.net
     * opnme.com.data.adobedc.net
     * oprah.com.data.adobedc.net
@@ -6480,7 +6478,6 @@
     * rxpygseqbg.data.adobedc.net
     * rxwlyvggjx.data.adobedc.net
     * ry07zyf9ar.data.adobedc.net
-    * ryh083wtdm.data.adobedc.net
     * ryjiaj1jeb.data.adobedc.net
     * ryka.com.data.adobedc.net
     * rzb0zlereb.data.adobedc.net
@@ -11925,7 +11922,6 @@
     * philosophyskincare.co.uk.ssl.d2.sc.omtrdc.net
     * phoenix.edu.d1.sc.omtrdc.net
     * phoenix.edu.ssl.d1.sc.omtrdc.net
-    * phonex.de.ssl.sc.omtrdc.net
     * pidecita.com.ssl.sc.omtrdc.net
     * pinkribbonbottle.com.sc.omtrdc.net
     * pinkribbonbottle.com.ssl.sc.omtrdc.net
@@ -13885,7 +13881,6 @@
 * aaanortheast.tt.omtrdc.net
 * siriusxmradio.tt.omtrdc.net
 * metrics.hb.omtrdc.net
-* cartoonnetworkla.com
 * unavailable.hearstnp.com
 * bcg.com.d1.omtrdc.net
 * norauto.tt.omtrdc.net
@@ -61590,7 +61585,6 @@
 | nsmetrics.cairnspost.com.au | cairnspost.com.au.sc.omtrdc.net |
 | metrics.cairnspost.com.au | cairnspost.com.au.ssl.sc.omtrdc.net |
 | mdws.caissepopclare.com | caissepopclare.com.102.112.2o7.net |
-| metric.caixabank.es | caixabank.es.ssl.sc.omtrdc.net |
 | metrics.caixabank.es | caixabank.es.ssl.sc.omtrdc.net |
 | metrics.calbaptist.edu | calbaptist.edu.sc.omtrdc.net |
 | smetrics.calbaptist.edu | calbaptist.edu.ssl.sc.omtrdc.net |
@@ -61787,7 +61781,6 @@
 | sanalytics.cartoonnetworkindia.com | cartoonnetworkindia.com.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetworkkorea.com | cartoonnetworkkorea.com.data.adobedc.net |
 | sanalytics.cartoonnetworkkorea.com | cartoonnetworkkorea.com.data.adobedc.net |
-| metrics.cartoonnetworkla.com | cartoonnetworkla.com |
 | analytics.cartoonnetworkla.com | cartoonnetworkla.com.sc.omtrdc.net |
 | sanalytics.cartoonnetworkla.com | cartoonnetworkla.com.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetworkme.com | cartoonnetworkme.com.ssl.sc.omtrdc.net |
@@ -63239,7 +63232,6 @@
 | smetrics.visitphoenix.com | data.102.122.2o7.net |
 | smetrics.winespectator.com | data.102.122.2o7.net |
 | smetrics.www.apus.edu | data.102.122.2o7.net |
-| smetrics.xavier.edu | data.102.122.2o7.net |
 | smetrics.yesterdaysnews.com | data.102.122.2o7.net |
 | smetrics.yola.com | data.102.122.2o7.net |
 | som.abritel.fr | data.102.122.2o7.net |
@@ -73781,7 +73773,6 @@
 | so.opentable.co.uk | opentable.co.uk.ssl.d1.sc.omtrdc.net |
 | so.opentable.com | opentable.com.102.112.2o7.net |
 | o.opentable.com | opentable.com.112.2o7.net |
-| securetags.openware.com.kw | openware.com.kw.data.adobedc.net |
 | adobemetrics.cluballiance.aaa.com | opinmppdpq.data.adobedc.net |
 | adobemetrics.cluballiance.aaa.com | opinmppdpq.data.adobedc.net |
 | smetrics.opnme.com | opnme.com.data.adobedc.net |
@@ -73817,7 +73808,6 @@
 | ssc.vmaj.jp | oregcnh9ee.data.adobedc.net |
 | metrics.oreilly.com | oreilly.com.122.2o7.net |
 | metrics.oreillyauto.com | oreillyauto.com.122.2o7.net |
-| stats.organizeit.com | organizeit.com.112.2o7.net |
 | anmet.originenergy.com.au | originenergy.com.au.ssl.sc.omtrdc.net |
 | sanmet.originenergy.com.au | originenergy.com.au.ssl.sc.omtrdc.net |
 | metrics.orlandofuntickets.com | orlandofuntickets.com.d2.sc.omtrdc.net |
@@ -74202,7 +74192,6 @@
 | analytics.phn.com | phn.com.102.122.2o7.net |
 | metrics.phoenix.edu | phoenix.edu.d1.sc.omtrdc.net |
 | smetrics.phoenix.edu | phoenix.edu.ssl.d1.sc.omtrdc.net |
-| stats.phonex.de | phonex.de.ssl.sc.omtrdc.net |
 | metrics.photos.com | photos.com.122.2o7.net |
 | scnd.landsend.fr | phvcbhyt5i.data.adobedc.net |
 | scnd.landsend.fr | phvcbhyt5i.data.adobedc.net |
@@ -75348,7 +75337,6 @@
 | smetrics.mealmixfordogs.com | ry07zyf9ar.data.adobedc.net |
 | smetrics.ryanhomes.com | ryanhomes.com.102.112.2o7.net |
 | metrics.ryanhomes.com | ryanhomes.com.112.2o7.net |
-| stats.refurbished-handys.de | ryh083wtdm.data.adobedc.net |
 | analytics.uhhospitals.org | ryjiaj1jeb.data.adobedc.net |
 | analytics.uhhospitals.org | ryjiaj1jeb.data.adobedc.net |
 | smetrics.ryka.com | ryka.com.data.adobedc.net |
@@ -77775,8 +77763,6 @@
 | caterpillarsigns.bannerbuzz.co.uk | umvzauoveo.data.adobedc.net |
 | analytics.cyrillus.com | un23rg3zpx.data.adobedc.net |
 | metrics.greenstate.com | unavailable.hearstnp.com |
-| metrics.mysanantonio.com | unavailable.hearstnp.com |
-| x.timesunion.com | unavailable.hearstnp.com |
 | smetrics.uncommonegfrmutations.com | uncommonegfrmutations.com.data.adobedc.net |
 | smetrics.uncoverpkd.com | uncoverpkd.com.data.adobedc.net |
 | sdome.underarmour.co.jp | underarmour.co.jp.ssl.sc.omtrdc.net |
