@@ -33,6 +33,7 @@ a8.b-cafe.net
 a8.bambi-craft.com
 a8.bandel.jp
 a8.banninkun.com
+a8.bassaijp.com
 a8.beachaccesssurf.com
 a8.beerowle.com
 a8.benro.jp
@@ -580,7 +581,6 @@ a8clk.osoujihonpo.com
 a8clk.owners-age.com
 a8clk.p-bandai.jp
 a8clk.pages.supporterz.jp
-a8clk.patpat.com
 a8clk.petelect.jp
 a8clk.petitjob.jp
 a8clk.ph-10.com
@@ -916,7 +916,6 @@ a8cv.global-dive.jp
 a8cv.global-link-seminar.com
 a8cv.glocalnet.jp
 a8cv.glow-clinic.com
-a8cv.gmo-connect.com
 a8cv.goods-station.jp
 a8cv.grace-grace.info
 a8cv.grassbeaute.jp
@@ -1181,6 +1180,7 @@ a8cv.spacioshop.com
 a8cv.spalab-chintai.uk-corp.co.jp
 a8cv.spot-pj.com
 a8cv.ssl24.net
+a8cv.sslcoupon.jp
 a8cv.staff-manzoku.co.jp
 a8cv.staffagent.co.jp
 a8cv.star-color.jp

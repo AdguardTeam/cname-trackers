@@ -14,6 +14,7 @@
     * fpa-cdn-arstechnica-com.parsely.com
     * fpa-cdn-atozsports-com.parsely.com
     * fpa-cdn-centralmaine-com.parsely.com
+    * fpa-cdn-cfr-org.parsely.com
     * fpa-cdn-chronicle-com.parsely.com
     * fpa-cdn-dailymemphian-com.parsely.com
     * fpa-cdn-decrypt-co.parsely.com
@@ -25,6 +26,7 @@
     * fpa-cdn-kveller-com.parsely.com
     * fpa-cdn-missionlocal-org.parsely.com
     * fpa-cdn-myjewishlearning-com.parsely.com
+    * fpa-cdn-nbcnews-com.parsely.com
     * fpa-cdn-newsday-com.parsely.com
     * fpa-cdn-newsweek-com.parsely.com
     * fpa-cdn-olympic-ca.parsely.com
@@ -36,13 +38,17 @@
     * fpa-cdn-slate-com.parsely.com
     * fpa-cdn-spectator-com-au.parsely.com
     * fpa-cdn-tampabay28-com.parsely.com
+    * fpa-cdn-texasmonthly-com.parsely.com
     * fpa-cdn-thedailybeast-com.parsely.com
     * fpa-cdn-thetrace-org.parsely.com
+    * fpa-cdn-thinkglobalhealth-org.parsely.com
+    * fpa-cdn-today-com.parsely.com
     * fpa-events-adweek-com.parsely.com
     * fpa-events-apollo-magazine-com.parsely.com
     * fpa-events-arstechnica-com.parsely.com
     * fpa-events-atozsports-com.parsely.com
     * fpa-events-centralmaine-com.parsely.com
+    * fpa-events-cfr-org.parsely.com
     * fpa-events-chronicle-com.parsely.com
     * fpa-events-dailymemphian-com.parsely.com
     * fpa-events-decrypt-co.parsely.com
@@ -54,6 +60,7 @@
     * fpa-events-kveller-com.parsely.com
     * fpa-events-missionlocal-org.parsely.com
     * fpa-events-myjewishlearning-com.parsely.com
+    * fpa-events-nbcnews-com.parsely.com
     * fpa-events-newsday-com.parsely.com
     * fpa-events-newsweek-com.parsely.com
     * fpa-events-olympic-ca.parsely.com
@@ -65,8 +72,11 @@
     * fpa-events-spectator-com-au.parsely.com
     * fpa-events-sunjournal-com.parsely.com
     * fpa-events-tampabay28-com.parsely.com
+    * fpa-events-texasmonthly-com.parsely.com
     * fpa-events-thedailybeast-com.parsely.com
     * fpa-events-thetrace-org.parsely.com
+    * fpa-events-thinkglobalhealth-org.parsely.com
+    * fpa-events-today-com.parsely.com
 
 ## Cloaking domains
 
@@ -83,6 +93,7 @@
 | fpa-cdn.arstechnica.com | fpa-cdn-arstechnica-com.parsely.com |
 | fpa-cdn.atozsports.com | fpa-cdn-atozsports-com.parsely.com |
 | fpa-cdn.centralmaine.com | fpa-cdn-centralmaine-com.parsely.com |
+| fpa-cdn.cfr.org | fpa-cdn-cfr-org.parsely.com |
 | fpa-cdn.chronicle.com | fpa-cdn-chronicle-com.parsely.com |
 | fpa-cdn.dailymemphian.com | fpa-cdn-dailymemphian-com.parsely.com |
 | fpa-cdn.decrypt.co | fpa-cdn-decrypt-co.parsely.com |
@@ -94,6 +105,7 @@
 | fpa-cdn.kveller.com | fpa-cdn-kveller-com.parsely.com |
 | fpa-cdn.missionlocal.org | fpa-cdn-missionlocal-org.parsely.com |
 | fpa-cdn.myjewishlearning.com | fpa-cdn-myjewishlearning-com.parsely.com |
+| fpa-cdn.nbcnews.com | fpa-cdn-nbcnews-com.parsely.com |
 | fpa-cdn.newsday.com | fpa-cdn-newsday-com.parsely.com |
 | fpa-cdn.newsweek.com | fpa-cdn-newsweek-com.parsely.com |
 | fpa-cdn.olympic.ca | fpa-cdn-olympic-ca.parsely.com |
@@ -105,13 +117,17 @@
 | fpa-cdn.slate.com | fpa-cdn-slate-com.parsely.com |
 | fpa-cdn.spectator.com.au | fpa-cdn-spectator-com-au.parsely.com |
 | fpa-cdn.tampabay28.com | fpa-cdn-tampabay28-com.parsely.com |
+| fpa-cdn.texasmonthly.com | fpa-cdn-texasmonthly-com.parsely.com |
 | fpa-cdn.thedailybeast.com | fpa-cdn-thedailybeast-com.parsely.com |
 | fpa-cdn.thetrace.org | fpa-cdn-thetrace-org.parsely.com |
+| fpa-cdn.thinkglobalhealth.org | fpa-cdn-thinkglobalhealth-org.parsely.com |
+| fpa-cdn.today.com | fpa-cdn-today-com.parsely.com |
 | fpa-events.adweek.com | fpa-events-adweek-com.parsely.com |
 | fpa-events.apollo-magazine.com | fpa-events-apollo-magazine-com.parsely.com |
 | fpa-events.arstechnica.com | fpa-events-arstechnica-com.parsely.com |
 | fpa-events.atozsports.com | fpa-events-atozsports-com.parsely.com |
 | fpa-events.centralmaine.com | fpa-events-centralmaine-com.parsely.com |
+| fpa-events.cfr.org | fpa-events-cfr-org.parsely.com |
 | fpa-events.chronicle.com | fpa-events-chronicle-com.parsely.com |
 | fpa-events.dailymemphian.com | fpa-events-dailymemphian-com.parsely.com |
 | fpa-events.decrypt.co | fpa-events-decrypt-co.parsely.com |
@@ -123,6 +139,7 @@
 | fpa-events.kveller.com | fpa-events-kveller-com.parsely.com |
 | fpa-events.missionlocal.org | fpa-events-missionlocal-org.parsely.com |
 | fpa-events.myjewishlearning.com | fpa-events-myjewishlearning-com.parsely.com |
+| fpa-events.nbcnews.com | fpa-events-nbcnews-com.parsely.com |
 | fpa-events.newsday.com | fpa-events-newsday-com.parsely.com |
 | fpa-events.newsweek.com | fpa-events-newsweek-com.parsely.com |
 | fpa-events.olympic.ca | fpa-events-olympic-ca.parsely.com |
@@ -134,5 +151,8 @@
 | fpa-events.spectator.com.au | fpa-events-spectator-com-au.parsely.com |
 | fpa-events.sunjournal.com | fpa-events-sunjournal-com.parsely.com |
 | fpa-events.tampabay28.com | fpa-events-tampabay28-com.parsely.com |
+| fpa-events.texasmonthly.com | fpa-events-texasmonthly-com.parsely.com |
 | fpa-events.thedailybeast.com | fpa-events-thedailybeast-com.parsely.com |
 | fpa-events.thetrace.org | fpa-events-thetrace-org.parsely.com |
+| fpa-events.thinkglobalhealth.org | fpa-events-thinkglobalhealth-org.parsely.com |
+| fpa-events.today.com | fpa-events-today-com.parsely.com |

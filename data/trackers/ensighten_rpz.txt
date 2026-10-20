@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791803560435        ; Serial
+           1792410697665        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -265,8 +265,6 @@ ensighten.safeauto.com CNAME .
 ensighten.staging2.cedar.digital CNAME .
 ensightenone.danskespil.dk CNAME .
 fcone.demo-charitablegift.com CNAME .
-fcone.fidelity.com CNAME .
-fcone.fidelitycharitable.org CNAME .
 fctms.demo-charitablegift.com CNAME .
 fctms.fidelity.com CNAME .
 fctms.fidelitycharitable.org CNAME .

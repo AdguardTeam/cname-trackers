@@ -482,7 +482,6 @@
 | hyena.m1guelpf.blog | deprecated-custom-domains.b-cdn.net |
 | hyena.wearegray.co | deprecated-custom-domains.b-cdn.net |
 | i5ixiwch2f.themakersmob.com | deprecated-custom-domains.b-cdn.net |
-| iguana.cypressridge-pca.org | deprecated-custom-domains.b-cdn.net |
 | iguana.delbaoliveira.com | deprecated-custom-domains.b-cdn.net |
 | iguana.indigospot.com | deprecated-custom-domains.b-cdn.net |
 | ijogkae.churchserviceplanner.co.uk | deprecated-custom-domains.b-cdn.net |
@@ -545,7 +544,6 @@
 | leopon.originalmineral.com | deprecated-custom-domains.b-cdn.net |
 | limpet.pioneerlandscapingllc.com | deprecated-custom-domains.b-cdn.net |
 | limpet.yago.dev | deprecated-custom-domains.b-cdn.net |
-| lion.lastfrontiermagazine.com | deprecated-custom-domains.b-cdn.net |
 | llama.eniston.io | deprecated-custom-domains.b-cdn.net |
 | llama.growthinkers.nl | deprecated-custom-domains.b-cdn.net |
 | llama.lobbly.com | deprecated-custom-domains.b-cdn.net |
@@ -565,7 +563,6 @@
 | macaw.ianmitchell.dev | deprecated-custom-domains.b-cdn.net |
 | mackerel.passiveincome.io | deprecated-custom-domains.b-cdn.net |
 | magpie.onething.org | deprecated-custom-domains.b-cdn.net |
-| manatee.biodom.bio | deprecated-custom-domains.b-cdn.net |
 | manatee.wemaketechsimple.com | deprecated-custom-domains.b-cdn.net |
 | mandrill.castingcollective.net | deprecated-custom-domains.b-cdn.net |
 | mandrill.hamptonbeach.live | deprecated-custom-domains.b-cdn.net |
@@ -662,7 +659,6 @@
 | partridge.antonius.me | deprecated-custom-domains.b-cdn.net |
 | peafowl.prod.fyi | deprecated-custom-domains.b-cdn.net |
 | penguin.craftpeak.io | deprecated-custom-domains.b-cdn.net |
-| penguin.revolana.com | deprecated-custom-domains.b-cdn.net |
 | perch.luckydiff.com | deprecated-custom-domains.b-cdn.net |
 | pheasant.ampapageorgiou.gr | deprecated-custom-domains.b-cdn.net |
 | pheasant.sonistaging.com | deprecated-custom-domains.b-cdn.net |
@@ -818,7 +814,6 @@
 | tahr.happydev.fm | deprecated-custom-domains.b-cdn.net |
 | tahr.rasen.dev | deprecated-custom-domains.b-cdn.net |
 | takin.cors.digital | deprecated-custom-domains.b-cdn.net |
-| takin.revolana.fr | deprecated-custom-domains.b-cdn.net |
 | tapir.albertaguardtraining.ca | deprecated-custom-domains.b-cdn.net |
 | tarantula.searchbox.tech | deprecated-custom-domains.b-cdn.net |
 | tarantula.tuxedo.media | deprecated-custom-domains.b-cdn.net |
@@ -1082,5 +1077,6 @@
 | cdn.stoic-media.com | unibotscdn.b-cdn.net |
 | cdn.unibotscdn.com | unibotscdn.b-cdn.net |
 | ucdn.adgebra.co | unibotscdn.b-cdn.net |
+| p.vanderplanki.com | vanderplanki-plausible.b-cdn.net |
 | adserve.bongocdn.com | video-ad.b-cdn.net |
 | stats.yootheme.com | yootheme-stats.b-cdn.net |

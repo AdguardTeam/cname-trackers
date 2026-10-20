@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791806046514        ; Serial
+           1792408218274        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ analytics.dx.ohio.gov CNAME .
 analytics.effectory.com CNAME .
 analytics.ferrero.com CNAME .
 analytics.hr.nl CNAME .
+analytics.kuka.com CNAME .
 analytics.ravelz.com CNAME .
 analytics.wavelz.com CNAME .
 analytics.webanalytics.op.europa.eu CNAME .
@@ -39,6 +40,7 @@ inzicht.cz.nl CNAME .
 logfiles.storck.com CNAME .
 metrics.equans.ch CNAME .
 mphdd.multipharma.be CNAME .
+old.piwikpro.fr CNAME .
 p-k.kuka.com CNAME .
 p-pan.triodos.com CNAME .
 p.klett-vorschau.de CNAME .

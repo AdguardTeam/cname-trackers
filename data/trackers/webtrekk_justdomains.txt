@@ -56,6 +56,7 @@ data.babista.nl
 data.campaign.prenatal.com
 data.campaign.toyscenter.it
 data.charles-colby.com
+data.cuadernosdeseguridad.com
 data.email.riverford.co.uk
 data.engelhorn.com
 data.engelhorn.de
@@ -339,6 +340,7 @@ web.tummytox.es
 web.tummytox.fr
 web.tummytox.it
 web.tummytox.pt
+web.tummytox.ro
 web.tummytox.sk
 web.update.sandiego.org
 web.updates.ditano.com

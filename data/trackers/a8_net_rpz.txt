@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791806046514        ; Serial
+           1792411265671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,6 +44,7 @@ a8.b-cafe.net CNAME .
 a8.bambi-craft.com CNAME .
 a8.bandel.jp CNAME .
 a8.banninkun.com CNAME .
+a8.bassaijp.com CNAME .
 a8.beachaccesssurf.com CNAME .
 a8.beerowle.com CNAME .
 a8.benro.jp CNAME .
@@ -591,7 +592,6 @@ a8clk.osoujihonpo.com CNAME .
 a8clk.owners-age.com CNAME .
 a8clk.p-bandai.jp CNAME .
 a8clk.pages.supporterz.jp CNAME .
-a8clk.patpat.com CNAME .
 a8clk.petelect.jp CNAME .
 a8clk.petitjob.jp CNAME .
 a8clk.ph-10.com CNAME .
@@ -927,7 +927,6 @@ a8cv.global-dive.jp CNAME .
 a8cv.global-link-seminar.com CNAME .
 a8cv.glocalnet.jp CNAME .
 a8cv.glow-clinic.com CNAME .
-a8cv.gmo-connect.com CNAME .
 a8cv.goods-station.jp CNAME .
 a8cv.grace-grace.info CNAME .
 a8cv.grassbeaute.jp CNAME .
@@ -1192,6 +1191,7 @@ a8cv.spacioshop.com CNAME .
 a8cv.spalab-chintai.uk-corp.co.jp CNAME .
 a8cv.spot-pj.com CNAME .
 a8cv.ssl24.net CNAME .
+a8cv.sslcoupon.jp CNAME .
 a8cv.staff-manzoku.co.jp CNAME .
 a8cv.staffagent.co.jp CNAME .
 a8cv.star-color.jp CNAME .

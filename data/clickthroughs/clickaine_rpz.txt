@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791806046514        ; Serial
+           1792414101648        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -78,7 +78,8 @@ dashww.hotscopes.net CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 drt.cliomovies.com CNAME .
-excavajo52.gimmeporn.xyz CNAME .
+ejjjkil2112.gimmeporn.xyz CNAME .
+excavajo54.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 fotos.brandnewapp.pro CNAME .

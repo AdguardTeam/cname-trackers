@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791809010955        ; Serial
+           1792417596571        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -173,6 +173,7 @@ utiq.entrenous.fr CNAME .
 utiq.epe.es CNAME .
 utiq.espinof.com CNAME .
 utiq.esquire.de CNAME .
+utiq.eulerian.wiki CNAME .
 utiq.europapress.es CNAME .
 utiq.europapress.tv CNAME .
 utiq.eventfinder.at CNAME .

@@ -401,6 +401,7 @@
 ||tr.emailing.canalplus-reunion.com^
 ||tr.emailing.canalplus.ch^
 ||tr.emailing.canalplus.fr^
+||tr.emailing.canalplusbusiness-telecom.com^
 ||tr.emailing.canalpro.fr^
 ||tr.emailing.canalsat.ch^
 ||tr.emailing.cifea-mkg.com^
@@ -1184,6 +1185,7 @@
 ||tr1.mailperformance.com^
 ||tr1.mperf.com^
 ||tr1.peugeot-ipsos.com^
+||tr2.mailperf.com^
 ||tr2.mperf.com^
 ||tr4.mailperf.com^
 ||tr5.mailperf.com^

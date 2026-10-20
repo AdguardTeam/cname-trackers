@@ -64,6 +64,7 @@
 ||al.kbwine.com^
 ||al.keymemory.co.jp^
 ||al.kimonomodern.com^
+||al.kokode.jp^
 ||al.kosei.com^
 ||al.maikon.jp^
 ||al.marukajozo-shop.jp^
@@ -135,4 +136,5 @@
 ||al.yokumoku.jp^
 ||al.yslabo.net^
 ||al.zenjirou.jp^
+||al.zuica.jp^
 ||m.aclk.jp^

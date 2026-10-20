@@ -20,6 +20,7 @@
 ||s.dsaaxf.com^
 ||s.dsabva.com^
 ||s.dsagsl.com^
+||s.dsahuo.com^
 ||s.dsajrx.com^
 ||s.dsamfe.com^
 ||s.dsapgq.com^
@@ -57,6 +58,7 @@
 ||s.dsdpnx.com^
 ||s.dsdria.com^
 ||s.dsdxyk.com^
+||s.dsdxyl.com^
 ||s.dseedc.com^
 ||s.dsefow.com^
 ||s.dsehdh.com^
@@ -76,6 +78,7 @@
 ||s.dsfzqo.com^
 ||s.dsgdef.com^
 ||s.dsgeln.com^
+||s.dsgldf.com^
 ||s.dsgnbu.com^
 ||s.dsgnjf.com^
 ||s.dsgqie.com^
@@ -99,10 +102,12 @@
 ||s.dsjejt.com^
 ||s.dsjggm.com^
 ||s.dsjmjv.com^
+||s.dsjofl.com^
 ||s.dsjtel.com^
 ||s.dskanj.com^
 ||s.dskbzo.com^
 ||s.dskgna.com^
+||s.dskmoo.com^
 ||s.dskptf.com^
 ||s.dskrgl.com^
 ||s.dskylp.com^
@@ -155,6 +160,7 @@
 ||s.dsqlyc.com^
 ||s.dsqnnx.com^
 ||s.dsqokj.com^
+||s.dsqpog.com^
 ||s.dsqqez.com^
 ||s.dsqqnt.com^
 ||s.dsqrig.com^
@@ -170,6 +176,7 @@
 ||s.dsrznm.com^
 ||s.dssiaj.com^
 ||s.dsspbw.com^
+||s.dsswdz.com^
 ||s.dstdff.com^
 ||s.dstfrx.com^
 ||s.dstinb.com^
@@ -179,6 +186,7 @@
 ||s.dsucet.com^
 ||s.dsuhyg.com^
 ||s.dsujvd.com^
+||s.dsumyd.com^
 ||s.dsungi.com^
 ||s.dsungx.com^
 ||s.dsvhko.com^
@@ -253,6 +261,7 @@
 ||s.fnjdphpor.com^
 ||s.fzioggf.com^
 ||s.gjkrwpafad.com^
+||s.greixcv.com^
 ||s.gyptgkij.com^
 ||s.gzugqzgsfr.com^
 ||s.gzynllfiy.com^
@@ -268,15 +277,19 @@
 ||s.jeiwumcsw.com^
 ||s.jpwrwxvm.com^
 ||s.jwjtbna.com^
+||s.jxjlbgxxov.com^
+||s.jxkwmejcxw.com^
 ||s.jxwaghvsdx.com^
 ||s.jzuivotw.com^
 ||s.kofopib.com^
 ||s.kqnoczl.com^
 ||s.kxencag.com^
+||s.lanpeatced.com^
 ||s.lkdykbudv.com^
 ||s.ltarebldw.com^
 ||s.luoxpdawva.com^
 ||s.lwlcflypc.com^
+||s.mfiomoaa.com^
 ||s.mvvtyyqmpm.com^
 ||s.ndgibjk.com^
 ||s.nekgbv.com^
@@ -311,12 +324,14 @@
 ||s.svzpgxz.com^
 ||s.thgqdglxj.com^
 ||s.tqabqqej.com^
+||s.tzgjzzhj.com^
 ||s.udgzgdb.com^
 ||s.usfduc.com^
 ||s.ustivofcu.com^
 ||s.uyepkdfmrt.com^
 ||s.vcqzjs.com^
 ||s.vdxaxf.com^
+||s.vfnexom.com^
 ||s.vhkjhflp.com^
 ||s.vmgcueznn.com^
 ||s.vubmzx.com^
@@ -333,6 +348,8 @@
 ||s.ygdwvwept.com^
 ||s.yhslqeecgm.com^
 ||s.yjuxuvcryc.com^
+||s.ynwsxvtfm.com^
 ||s.zfurfq.com^
+||s.zikmlg.com^
 ||s.zoxyxrmbk.com^
 ||s.zrimyxvxbn.com^

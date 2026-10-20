@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791806551628        ; Serial
+           1792411265671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -508,7 +508,6 @@ hyena.kitafund.com CNAME .
 hyena.m1guelpf.blog CNAME .
 hyena.wearegray.co CNAME .
 i5ixiwch2f.themakersmob.com CNAME .
-iguana.cypressridge-pca.org CNAME .
 iguana.delbaoliveira.com CNAME .
 iguana.indigospot.com CNAME .
 ijogkae.churchserviceplanner.co.uk CNAME .
@@ -571,7 +570,6 @@ leopon.luckycasts.com CNAME .
 leopon.originalmineral.com CNAME .
 limpet.pioneerlandscapingllc.com CNAME .
 limpet.yago.dev CNAME .
-lion.lastfrontiermagazine.com CNAME .
 llama.eniston.io CNAME .
 llama.growthinkers.nl CNAME .
 llama.lobbly.com CNAME .
@@ -591,7 +589,6 @@ lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
 mackerel.passiveincome.io CNAME .
 magpie.onething.org CNAME .
-manatee.biodom.bio CNAME .
 manatee.wemaketechsimple.com CNAME .
 mandrill.castingcollective.net CNAME .
 mandrill.hamptonbeach.live CNAME .
@@ -688,7 +685,6 @@ parrot.lovably.com CNAME .
 partridge.antonius.me CNAME .
 peafowl.prod.fyi CNAME .
 penguin.craftpeak.io CNAME .
-penguin.revolana.com CNAME .
 perch.luckydiff.com CNAME .
 pheasant.ampapageorgiou.gr CNAME .
 pheasant.sonistaging.com CNAME .
@@ -844,7 +840,6 @@ tahr.componentsui.com CNAME .
 tahr.happydev.fm CNAME .
 tahr.rasen.dev CNAME .
 takin.cors.digital CNAME .
-takin.revolana.fr CNAME .
 tapir.albertaguardtraining.ca CNAME .
 tarantula.searchbox.tech CNAME .
 tarantula.tuxedo.media CNAME .
@@ -1053,6 +1048,7 @@ metrics.groupdocs.com CNAME .
 mp2y3.sm20j.xyz CNAME .
 msrvt.net CNAME .
 ompe2.7u6h8.xyz CNAME .
+p.vanderplanki.com CNAME .
 pa.firefox.com CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .

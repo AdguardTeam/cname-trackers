@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791806551628        ; Serial
+           1792419316167        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ r.fluxora1.space CNAME .
 r.maintoast.com CNAME .
 r.maintrck.com CNAME .
 r.nexoraid1.space CNAME .
+r.quantivo1.space CNAME .
 r.scraperib.com CNAME .
 r.silvertrck.com CNAME .
 r.smttrck.com CNAME .
@@ -41,6 +42,7 @@ t.marktrck.space CNAME .
 t.maxtrck.shop CNAME .
 t.metrivo.website CNAME .
 t.nettrck.store CNAME .
+t.nexustrck.site CNAME .
 t.pathtrck.website CNAME .
 t.peaktrck.uno CNAME .
 t.plantrck.space CNAME .

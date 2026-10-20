@@ -11,6 +11,7 @@
 | ---- | ---- |
 | adat.baon.hu | adat.kib.hu |
 | adat.888.hu | kib.hu |
+| adat.agrariumonline.hu | kib.hu |
 | adat.aradon.ro | kib.hu |
 | adat.astronet.hu | kib.hu |
 | adat.automotor.hu | kib.hu |

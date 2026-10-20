@@ -33,6 +33,8 @@ te.sieh-an.de
 te.universal.at
 te.waeschepur.de
 te.witt-international.cz
+te.witt-international.nl
+te.witt-international.sk
 te.witt-weiden.at
 te.witt-weiden.ch
 te.witt-weiden.de

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791803553806        ; Serial
+           1792411265671        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,9 +27,11 @@ central.us.h24.news CNAME .
 ch-fr.h24.news CNAME .
 client.h24.news CNAME .
 cms.h24.news CNAME .
+confluence.h24.news CNAME .
 customer.h24.news CNAME .
 de.h24.news CNAME .
 ec.h24.news CNAME .
+fitness.h24.news CNAME .
 flow-prod.h24.news CNAME .
 fr.h24.news CNAME .
 genai.h24.news CNAME .
@@ -127,6 +129,7 @@ l.echo-ouest.fr CNAME .
 l.echoancenis.fr CNAME .
 l.echoduberry.fr CNAME .
 l.eclypsia.com CNAME .
+l.edimark.fr CNAME .
 l.elle.fr CNAME .
 l.elleadore.com CNAME .
 l.en-vols.com CNAME .
@@ -209,6 +212,7 @@ l.larepubliquedespyrenees.fr CNAME .
 l.largus.fr CNAME .
 l.larvf.com CNAME .
 l.lasanteauquotidien.com CNAME .
+l.laterredecheznous.com CNAME .
 l.latribune.fr CNAME .
 l.laviecorrezienne.fr CNAME .
 l.lavoixdunord.fr CNAME .
@@ -276,6 +280,7 @@ l.motorpasion.com.mx CNAME .
 l.mouv.fr CNAME .
 l.moviepilot.de CNAME .
 l.mrfixitstips.co.uk CNAME .
+l.mysweetimmo.com CNAME .
 l.neonmag.fr CNAME .
 l.netmums.com CNAME .
 l.nextplz.fr CNAME .
@@ -379,6 +384,7 @@ mail11.h24.news CNAME .
 manage.h24.news CNAME .
 mobile.h24.news CNAME .
 mx3.h24.news CNAME .
+new.h24.news CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
 panel.h24.news CNAME .
@@ -389,6 +395,7 @@ pop.h24.news CNAME .
 portal.h24.news CNAME .
 prod-0.moarty.com CNAME .
 prod-1.moarty.com CNAME .
+prod-2.moarty.com CNAME .
 prod-3.moarty.com CNAME .
 prod-4.moarty.com CNAME .
 relay.h24.news CNAME .
@@ -410,9 +417,11 @@ sur.laprovence.com CNAME .
 tools.h24.news CNAME .
 u.ie.h24.news CNAME .
 uk.h24.news CNAME .
+us.h24.news CNAME .
 uy.h24.news CNAME .
 www.20min.fr CNAME .
 www.altereco.media CNAME .
 www.h24.news CNAME .
 www.moarty.com CNAME .
+www.verso.news CNAME .
 zmail.h24.news CNAME .

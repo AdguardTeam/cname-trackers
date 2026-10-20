@@ -90,7 +90,6 @@
 | affil.somavedic.cz | cz.affilbox.cz |
 | affil.sportinator.cz | cz.affilbox.cz |
 | affil.spravnykrok.cz | cz.affilbox.cz |
-| affil.stastnavovztahu.sk | cz.affilbox.cz |
 | affil.supervykon.cz | cz.affilbox.cz |
 | affil.svepomoci.cz | cz.affilbox.cz |
 | affil.svj-info.cz | cz.affilbox.cz |
@@ -143,7 +142,6 @@
 | affiliate.cocowoods.cz | cz.affilbox.cz |
 | affiliate.cojestpocviceni.sk | cz.affilbox.cz |
 | affiliate.compik.cz | cz.affilbox.cz |
-| affiliate.coolcredit.cz | cz.affilbox.cz |
 | affiliate.craftholsters.com | cz.affilbox.cz |
 | affiliate.cryptokingdom.cz | cz.affilbox.cz |
 | affiliate.czc.cz | cz.affilbox.cz |
@@ -286,6 +284,7 @@
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
 | ambassadors.guideandgrow.com | cz.affilbox.cz |
 | analytics.algomoneo.com | cz.affilbox.cz |
+| app.axl.cz | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | champions.betubetu.com | cz.affilbox.cz |
 | collab.zdravetricko.cz | cz.affilbox.cz |
@@ -467,6 +466,7 @@
 | partner.bylinkovysvet.com | cz.affilbox.cz |
 | partner.cakemarket.eu | cz.affilbox.cz |
 | partner.candy.cz | cz.affilbox.cz |
+| partner.caricia.sk | cz.affilbox.cz |
 | partner.caskrmeni.cz | cz.affilbox.cz |
 | partner.cbdcko.cz | cz.affilbox.cz |
 | partner.cbdstar.cz | cz.affilbox.cz |
@@ -659,7 +659,6 @@
 | partner.nanolab.sk | cz.affilbox.cz |
 | partner.nanotech-europe.cz | cz.affilbox.cz |
 | partner.naplne.cz | cz.affilbox.cz |
-| partner.naseano.cz | cz.affilbox.cz |
 | partner.naslouchamesrdcem.cz | cz.affilbox.cz |
 | partner.natubea.cz | cz.affilbox.cz |
 | partner.naturinka.cz | cz.affilbox.cz |
@@ -696,14 +695,12 @@
 | partner.porovnejsito.cz | cz.affilbox.cz |
 | partner.pozitivnerozpravky.sk | cz.affilbox.cz |
 | partner.ppb-pohary.cz | cz.affilbox.cz |
-| partner.pradoch.cz | cz.affilbox.cz |
 | partner.pravopisne.cz | cz.affilbox.cz |
 | partner.premavita.sk | cz.affilbox.cz |
 | partner.premiove-matrace.cz | cz.affilbox.cz |
 | partner.probione.com | cz.affilbox.cz |
 | partner.prodejniakademie.cz | cz.affilbox.cz |
 | partner.prohrejeme.cz | cz.affilbox.cz |
-| partner.prosperity-vision.com | cz.affilbox.cz |
 | partner.prosperk.cz | cz.affilbox.cz |
 | partner.psidetektiv.cz | cz.affilbox.cz |
 | partner.pureharmony.cz | cz.affilbox.cz |
@@ -716,7 +713,6 @@
 | partner.root.cz | cz.affilbox.cz |
 | partner.rozhladna.sk | cz.affilbox.cz |
 | partner.roztouzeny.cz | cz.affilbox.cz |
-| partner.rozvoj-osobny.sk | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
 | partner.salibandy.shop | cz.affilbox.cz |
 | partner.sambalshop.cz | cz.affilbox.cz |
@@ -870,7 +866,6 @@
 | partneri.majstervposteli.sk | cz.affilbox.cz |
 | partneri.manazujmehravo.sk | cz.affilbox.cz |
 | partneri.mariorozensky.cz | cz.affilbox.cz |
-| partneri.mebline.cz | cz.affilbox.cz |
 | partneri.metodajih.cz | cz.affilbox.cz |
 | partneri.minshop.cz | cz.affilbox.cz |
 | partneri.minus-age.cz | cz.affilbox.cz |
@@ -913,6 +908,7 @@
 | partneri.sportmentor.cz | cz.affilbox.cz |
 | partneri.stastnamysl.cz | cz.affilbox.cz |
 | partneri.supportbox.cz | cz.affilbox.cz |
+| partneri.suri.cz | cz.affilbox.cz |
 | partneri.svetfitness.cz | cz.affilbox.cz |
 | partneri.sviicka.cz | cz.affilbox.cz |
 | partneri.tanahavlickova.cz | cz.affilbox.cz |
@@ -947,7 +943,6 @@
 | plus.bezvavlasy.cz | cz.affilbox.cz |
 | plus.mameradivlasy.cz | cz.affilbox.cz |
 | promo.smskouc.cz | cz.affilbox.cz |
-| promo.vyzkousejhizero.cz | cz.affilbox.cz |
 | provize.3dfitness.cz | cz.affilbox.cz |
 | provize.brilas.cz | cz.affilbox.cz |
 | provize.dzumdzum.cz | cz.affilbox.cz |
@@ -992,6 +987,7 @@
 | spoluprace.nordictelecom.cz | cz.affilbox.cz |
 | spoluprace.obchod-setrilek.cz | cz.affilbox.cz |
 | spoluprace.potravinyarax.cz | cz.affilbox.cz |
+| spoluprace.prehrajto.cz | cz.affilbox.cz |
 | spoluprace.prostor8.cz | cz.affilbox.cz |
 | spoluprace.sikland.cz | cz.affilbox.cz |
 | spoluprace.skolnitriko.cz | cz.affilbox.cz |

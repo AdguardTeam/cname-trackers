@@ -51,9 +51,11 @@
 | ch-fr.h24.news | tls.non.li |
 | client.h24.news | tls.non.li |
 | cms.h24.news | tls.non.li |
+| confluence.h24.news | tls.non.li |
 | customer.h24.news | tls.non.li |
 | de.h24.news | tls.non.li |
 | ec.h24.news | tls.non.li |
+| fitness.h24.news | tls.non.li |
 | flow-prod.h24.news | tls.non.li |
 | fr.h24.news | tls.non.li |
 | genai.h24.news | tls.non.li |
@@ -147,6 +149,7 @@
 | l.echoancenis.fr | tls.non.li |
 | l.echoduberry.fr | tls.non.li |
 | l.eclypsia.com | tls.non.li |
+| l.edimark.fr | tls.non.li |
 | l.elle.fr | tls.non.li |
 | l.elleadore.com | tls.non.li |
 | l.en-vols.com | tls.non.li |
@@ -227,6 +230,7 @@
 | l.largus.fr | tls.non.li |
 | l.larvf.com | tls.non.li |
 | l.lasanteauquotidien.com | tls.non.li |
+| l.laterredecheznous.com | tls.non.li |
 | l.latribune.fr | tls.non.li |
 | l.laviecorrezienne.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |
@@ -293,6 +297,7 @@
 | l.mouv.fr | tls.non.li |
 | l.moviepilot.de | tls.non.li |
 | l.mrfixitstips.co.uk | tls.non.li |
+| l.mysweetimmo.com | tls.non.li |
 | l.neonmag.fr | tls.non.li |
 | l.netmums.com | tls.non.li |
 | l.nextplz.fr | tls.non.li |
@@ -391,6 +396,7 @@
 | manage.h24.news | tls.non.li |
 | mobile.h24.news | tls.non.li |
 | mx3.h24.news | tls.non.li |
+| new.h24.news | tls.non.li |
 | panel.h24.news | tls.non.li |
 | partners.h24.news | tls.non.li |
 | pe.h24.news | tls.non.li |
@@ -398,6 +404,7 @@
 | portal.h24.news | tls.non.li |
 | prod-0.moarty.com | tls.non.li |
 | prod-1.moarty.com | tls.non.li |
+| prod-2.moarty.com | tls.non.li |
 | prod-3.moarty.com | tls.non.li |
 | prod-4.moarty.com | tls.non.li |
 | relay.h24.news | tls.non.li |
@@ -410,9 +417,11 @@
 | tools.h24.news | tls.non.li |
 | u.ie.h24.news | tls.non.li |
 | uk.h24.news | tls.non.li |
+| us.h24.news | tls.non.li |
 | uy.h24.news | tls.non.li |
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |
 | www.h24.news | tls.non.li |
 | www.moarty.com | tls.non.li |
+| www.verso.news | tls.non.li |
 | zmail.h24.news | tls.non.li |

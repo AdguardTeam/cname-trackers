@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791809010955        ; Serial
+           1792419316167        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -75,6 +75,7 @@ al.kawashima-ya.jp CNAME .
 al.kbwine.com CNAME .
 al.keymemory.co.jp CNAME .
 al.kimonomodern.com CNAME .
+al.kokode.jp CNAME .
 al.kosei.com CNAME .
 al.maikon.jp CNAME .
 al.marukajozo-shop.jp CNAME .
@@ -146,4 +147,5 @@ al.yokumoku.co.jp CNAME .
 al.yokumoku.jp CNAME .
 al.yslabo.net CNAME .
 al.zenjirou.jp CNAME .
+al.zuica.jp CNAME .
 m.aclk.jp CNAME .

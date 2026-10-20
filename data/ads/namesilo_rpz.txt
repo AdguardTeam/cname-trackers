@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791803560435        ; Serial
+           1792408218274        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -224,6 +224,7 @@ $TTL 300
 3290454.notifysrv.com CNAME .
 3290472.notifysrv.com CNAME .
 3291002.notifysrv.com CNAME .
+3292164.notify6.com CNAME .
 3292172.notifysrv.com CNAME .
 3294260.notify6.com CNAME .
 3294260.notifysrv.com CNAME .
@@ -234,6 +235,7 @@ $TTL 300
 3300998.notify6.com CNAME .
 3302396.notify6.com CNAME .
 3302404.notify6.com CNAME .
+3303294.notifysrv.com CNAME .
 3304350.notifysrv.com CNAME .
 3304354.notify6.com CNAME .
 3304354.notifysrv.com CNAME .
@@ -624,6 +626,7 @@ $TTL 300
 4022280.notify6.com CNAME .
 4022504.notify6.com CNAME .
 4031266.notify6.com CNAME .
+4035148.notify6.com CNAME .
 4035244.notify6.com CNAME .
 4037382.notify6.com CNAME .
 4037426.notify6.com CNAME .
@@ -802,13 +805,14 @@ $TTL 300
 5842114.notify6.com CNAME .
 5861194.notify6.com CNAME .
 5873906.notify6.com CNAME .
+6020236.notify6.com CNAME .
 8.notify.bizonads-ssp.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.18ramp.com CNAME .
 a.6hd49jng.com CNAME .
 a.advantageclicks.net CNAME .
-a.allureanews.com CNAME .
 a.am7srv.com CNAME .
+a.asvsm.com CNAME .
 a.b2bstars.com CNAME .
 a.b7q9v8z.com CNAME .
 a.cant3am.com CNAME .
@@ -816,17 +820,15 @@ a.chmsrv.com CNAME .
 a.crme7srv.com CNAME .
 a.etology.com CNAME .
 a.eunow4u.com CNAME .
-a.flirtads.net CNAME .
 a.gentlefieldpattern.com CNAME .
 a.happyleafmotion.com CNAME .
-a.klico.link CNAME .
 a.ma3ion.com CNAME .
-a.mikbaken.com CNAME .
 a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.pinkads.org CNAME .
 a.playa.to CNAME .
+a.q88z1s3.com CNAME .
 a.smartfloralab.com CNAME .
 a.tf4srv.com CNAME .
 a.vws4brkfst.com CNAME .
@@ -1213,6 +1215,7 @@ syndication0.exoclick.com CNAME .
 tap.notifysrv.com CNAME .
 tele.notifysrv.com CNAME .
 ten.notifysrv.com CNAME .
+test2.notify6.com CNAME .
 testshop.notifysrv.com CNAME .
 tgp.notifysrv.com CNAME .
 tommy.notifysrv.com CNAME .
@@ -1338,9 +1341,11 @@ zooplus.it3524339.notify6.com CNAME .
 zooplus.it4060008.notify6.com CNAME .
 a.adsession.com CNAME .
 a.advertrek.com CNAME .
-a.asvsm.com CNAME .
+a.allureanews.com CNAME .
+a.flirtads.net CNAME .
 a.humnert.com CNAME .
-a.q88z1s3.com CNAME .
+a.klico.link CNAME .
+a.mikbaken.com CNAME .
 a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
 a.santabrowser.com CNAME .

@@ -119,6 +119,7 @@
 ||stats.davidjuhasz.dev^
 ||stats.degrandi.dev^
 ||stats.denatlahi.se^
+||stats.dijugar.com^
 ||stats.docs.semio-tech.com^
 ||stats.dwermke.com^
 ||stats.eithel.org^
@@ -170,6 +171,7 @@
 ||stats.msol.io^
 ||stats.ngdangtu.com^
 ||stats.niravraval.com^
+||stats.northshoreuke.ca^
 ||stats.nullzwo.dev^
 ||stats.oidc-provider.dev^
 ||stats.opensurge2d.org^

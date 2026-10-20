@@ -11,6 +11,7 @@
 ||fpa-cdn.arstechnica.com^
 ||fpa-cdn.atozsports.com^
 ||fpa-cdn.centralmaine.com^
+||fpa-cdn.cfr.org^
 ||fpa-cdn.chronicle.com^
 ||fpa-cdn.dailymemphian.com^
 ||fpa-cdn.decrypt.co^
@@ -22,6 +23,7 @@
 ||fpa-cdn.kveller.com^
 ||fpa-cdn.missionlocal.org^
 ||fpa-cdn.myjewishlearning.com^
+||fpa-cdn.nbcnews.com^
 ||fpa-cdn.newsday.com^
 ||fpa-cdn.newsweek.com^
 ||fpa-cdn.olympic.ca^
@@ -33,13 +35,17 @@
 ||fpa-cdn.slate.com^
 ||fpa-cdn.spectator.com.au^
 ||fpa-cdn.tampabay28.com^
+||fpa-cdn.texasmonthly.com^
 ||fpa-cdn.thedailybeast.com^
 ||fpa-cdn.thetrace.org^
+||fpa-cdn.thinkglobalhealth.org^
+||fpa-cdn.today.com^
 ||fpa-events.adweek.com^
 ||fpa-events.apollo-magazine.com^
 ||fpa-events.arstechnica.com^
 ||fpa-events.atozsports.com^
 ||fpa-events.centralmaine.com^
+||fpa-events.cfr.org^
 ||fpa-events.chronicle.com^
 ||fpa-events.dailymemphian.com^
 ||fpa-events.decrypt.co^
@@ -51,6 +57,7 @@
 ||fpa-events.kveller.com^
 ||fpa-events.missionlocal.org^
 ||fpa-events.myjewishlearning.com^
+||fpa-events.nbcnews.com^
 ||fpa-events.newsday.com^
 ||fpa-events.newsweek.com^
 ||fpa-events.olympic.ca^
@@ -62,5 +69,8 @@
 ||fpa-events.spectator.com.au^
 ||fpa-events.sunjournal.com^
 ||fpa-events.tampabay28.com^
+||fpa-events.texasmonthly.com^
 ||fpa-events.thedailybeast.com^
 ||fpa-events.thetrace.org^
+||fpa-events.thinkglobalhealth.org^
+||fpa-events.today.com^

@@ -63,7 +63,6 @@ affil.snadnejsizivot.cz
 affil.somavedic.cz
 affil.sportinator.cz
 affil.spravnykrok.cz
-affil.stastnavovztahu.sk
 affil.supervykon.cz
 affil.svepomoci.cz
 affil.svj-info.cz
@@ -116,7 +115,6 @@ affiliate.ckslniecko.sk
 affiliate.cocowoods.cz
 affiliate.cojestpocviceni.sk
 affiliate.compik.cz
-affiliate.coolcredit.cz
 affiliate.craftholsters.com
 affiliate.cryptokingdom.cz
 affiliate.czc.cz
@@ -259,6 +257,7 @@ ambassadors.childhoodpotential.club
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 analytics.algomoneo.com
+app.axl.cz
 box.kryptotrejder.sk
 champions.betubetu.com
 collab.zdravetricko.cz
@@ -440,6 +439,7 @@ partner.bydlimekrasne.cz
 partner.bylinkovysvet.com
 partner.cakemarket.eu
 partner.candy.cz
+partner.caricia.sk
 partner.caskrmeni.cz
 partner.cbdcko.cz
 partner.cbdstar.cz
@@ -632,7 +632,6 @@ partner.nanolab.cz
 partner.nanolab.sk
 partner.nanotech-europe.cz
 partner.naplne.cz
-partner.naseano.cz
 partner.naslouchamesrdcem.cz
 partner.natubea.cz
 partner.naturinka.cz
@@ -669,14 +668,12 @@ partner.poporostem.cz
 partner.porovnejsito.cz
 partner.pozitivnerozpravky.sk
 partner.ppb-pohary.cz
-partner.pradoch.cz
 partner.pravopisne.cz
 partner.premavita.sk
 partner.premiove-matrace.cz
 partner.probione.com
 partner.prodejniakademie.cz
 partner.prohrejeme.cz
-partner.prosperity-vision.com
 partner.prosperk.cz
 partner.psidetektiv.cz
 partner.pureharmony.cz
@@ -689,7 +686,6 @@ partner.robotworld.sk
 partner.root.cz
 partner.rozhladna.sk
 partner.roztouzeny.cz
-partner.rozvoj-osobny.sk
 partner.ruzovyslon.cz
 partner.salibandy.shop
 partner.sambalshop.cz
@@ -843,7 +839,6 @@ partneri.lucie-konigova.cz
 partneri.majstervposteli.sk
 partneri.manazujmehravo.sk
 partneri.mariorozensky.cz
-partneri.mebline.cz
 partneri.metodajih.cz
 partneri.minshop.cz
 partneri.minus-age.cz
@@ -886,6 +881,7 @@ partneri.sportfotbal.cz
 partneri.sportmentor.cz
 partneri.stastnamysl.cz
 partneri.supportbox.cz
+partneri.suri.cz
 partneri.svetfitness.cz
 partneri.sviicka.cz
 partneri.tanahavlickova.cz
@@ -920,7 +916,6 @@ partnerzy.styrcon.pl
 plus.bezvavlasy.cz
 plus.mameradivlasy.cz
 promo.smskouc.cz
-promo.vyzkousejhizero.cz
 provize.3dfitness.cz
 provize.brilas.cz
 provize.dzumdzum.cz
@@ -965,6 +960,7 @@ spoluprace.narozlucku.cz
 spoluprace.nordictelecom.cz
 spoluprace.obchod-setrilek.cz
 spoluprace.potravinyarax.cz
+spoluprace.prehrajto.cz
 spoluprace.prostor8.cz
 spoluprace.sikland.cz
 spoluprace.skolnitriko.cz

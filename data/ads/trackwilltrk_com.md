@@ -15,6 +15,7 @@
 | r.maintoast.com | r.trackwilltrk.com |
 | r.maintrck.com | r.trackwilltrk.com |
 | r.nexoraid1.space | r.trackwilltrk.com |
+| r.quantivo1.space | r.trackwilltrk.com |
 | r.scraperib.com | r.trackwilltrk.com |
 | r.silvertrck.com | r.trackwilltrk.com |
 | r.smttrck.com | r.trackwilltrk.com |
@@ -39,6 +40,7 @@
 | t.maxtrck.shop | r.trackwilltrk.com |
 | t.metrivo.website | r.trackwilltrk.com |
 | t.nettrck.store | r.trackwilltrk.com |
+| t.nexustrck.site | r.trackwilltrk.com |
 | t.pathtrck.website | r.trackwilltrk.com |
 | t.peaktrck.uno | r.trackwilltrk.com |
 | t.plantrck.space | r.trackwilltrk.com |

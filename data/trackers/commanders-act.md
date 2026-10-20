@@ -8,7 +8,9 @@
     * redirect342.tagcommander.com
     * redirect343.tagcommander.com
     * redirect357.tagcommander.com
+    * redirect378.tagcommander.com
     * redirect384.tagcommander.com
+    * redirect39.tagcommander.com
     * redirect398.tagcommander.com
     * redirect476.tagcommander.com
     * redirect495.tagcommander.com
@@ -47,7 +49,9 @@
 | data.decathlon.co.uk | redirect342.tagcommander.com |
 | data.decathlon.it | redirect343.tagcommander.com |
 | tc.europcar.com | redirect357.tagcommander.com |
+| tc.europcar.de | redirect378.tagcommander.com |
 | tc.europcar.com.au | redirect384.tagcommander.com |
+| data.castorama.fr | redirect39.tagcommander.com |
 | data.decathlon.pl | redirect398.tagcommander.com |
 | sales.disneylandparis.com | redirect476.tagcommander.com |
 | tagcommander.laredoute.ch | redirect495.tagcommander.com |

@@ -6,6 +6,7 @@ r.fluxora1.space
 r.maintoast.com
 r.maintrck.com
 r.nexoraid1.space
+r.quantivo1.space
 r.scraperib.com
 r.silvertrck.com
 r.smttrck.com
@@ -30,6 +31,7 @@ t.marktrck.space
 t.maxtrck.shop
 t.metrivo.website
 t.nettrck.store
+t.nexustrck.site
 t.pathtrck.website
 t.peaktrck.uno
 t.plantrck.space

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791806046514        ; Serial
+           1792414101648        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -227,7 +227,6 @@ s.cuoresportivo.no CNAME .
 s.cybercompass.io CNAME .
 s.ergotherapieblog.de CNAME .
 s.fraservotes.com CNAME .
-s.freelanceratecalculator.com CNAME .
 s.glimesh.tv CNAME .
 s.hueman.vision CNAME .
 s.innoq.com CNAME .
@@ -460,7 +459,6 @@ stats.iscc-system.org CNAME .
 stats.isthispoisonivy.website CNAME .
 stats.ivs.rocks CNAME .
 stats.jacksonwel.sh CNAME .
-stats.jamesevers.co.uk CNAME .
 stats.jamesilesantiques.com CNAME .
 stats.jamhouse.app CNAME .
 stats.jansix.at CNAME .

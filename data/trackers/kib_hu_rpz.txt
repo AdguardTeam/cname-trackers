@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1791809781708        ; Serial
+           1792408218274        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 adat.888.hu CNAME .
+adat.agrariumonline.hu CNAME .
 adat.aradon.ro CNAME .
 adat.astronet.hu CNAME .
 adat.automotor.hu CNAME .
