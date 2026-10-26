@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792537382270        ; Serial
+           1793019754115        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -124,13 +124,15 @@ acq.discovercard.com CNAME .
 businessreferrals.lumen.com CNAME .
 circleofjoy.circlesurrogacy.com CNAME .
 demo.extole.com CNAME .
+dev.refer.forddrive.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em2279.referral.quickbooks.co.uk CNAME .
 em2287.theory.com CNAME .
 em3007.wagwalking.com CNAME .
 em4504.mail.raf.xfinity.com CNAME .
 em5230.rewards.dailypay.com CNAME .
 em5231.mail.propertyperks.xfinity.com CNAME .
+em5807.turbotax.refer.intuit.com CNAME .
+em767.forgetrust.com CNAME .
 em7952.dailypay.com CNAME .
 em8031.soundcloud.com CNAME .
 em8642.notifications.acorns.com CNAME .
@@ -140,7 +142,6 @@ friend.discoverstudentloans.com CNAME .
 friends.uvacreditunion.org CNAME .
 gabbie.extoleu.com CNAME .
 get.lull.com CNAME .
-gift.getfreed.ai CNAME .
 go.joinsizigi.com CNAME .
 groomrefer.petco.com CNAME .
 indique-um-amigo.hostgator.com.br CNAME .
@@ -154,9 +155,11 @@ love.columbiacu.org CNAME .
 loyalty.glowbar.com CNAME .
 my.kotn.com CNAME .
 offers.wecu.com CNAME .
+ollama.extoleu.com CNAME .
 owncloud.extoleu.com CNAME .
 pals.petco.com CNAME .
 parrainage.dyson.fr CNAME .
+pfsense.extoleu.com CNAME .
 prepod.refer.intuit.com CNAME .
 promos.zinli.com CNAME .
 propertyperks.xfinity.com CNAME .
@@ -244,6 +247,7 @@ refer.everlywell.com CNAME .
 refer.ez2290.com CNAME .
 refer.fahw.com CNAME .
 refer.familysavingscu.com CNAME .
+refer.fandangonow.com CNAME .
 refer.fellahealth.co.uk CNAME .
 refer.fellahealth.com CNAME .
 refer.firstaidbeauty.com CNAME .
@@ -755,6 +759,7 @@ share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
 share.sturgisjournal.com CNAME .
 share.suffolkcu.org CNAME .
+share.summitcreditunion.com CNAME .
 share.sundaysfordogs.com CNAME .
 share.suneast.org CNAME .
 share.swordhealth.com CNAME .
@@ -810,8 +815,10 @@ share.wsecu.org CNAME .
 share.zenbusiness.com CNAME .
 shareflightpass.alaskaair.com CNAME .
 stgreferral.moneybase.com CNAME .
+superset.extoleu.com CNAME .
 surrogatereferral.growinggenerations.com CNAME .
 ufsmdjkg1zhzcx9i.extoleu.com CNAME .
+waf.extoleu.com CNAME .
 www.extoleu.com CNAME .
 www.parrainage-quickbooks.fr CNAME .
 www.refer.marinerfinance.com CNAME .
@@ -823,10 +830,9 @@ www.rob2.extoleu.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em2279.referral.quickbooks.co.uk CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em5807.turbotax.refer.intuit.com CNAME .
 em7147.love.suncoastcreditunion.com CNAME .
-em767.forgetrust.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
 em9129.lightstream.com CNAME .

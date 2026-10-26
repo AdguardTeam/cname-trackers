@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792531593704        ; Serial
+           1793016595541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -245,6 +245,7 @@ metrics.treudelberg-resort.com CNAME .
 metrics.ultra-med.de CNAME .
 metrics.vorreiter-hotels.com CNAME .
 metrics.walter-cmp.de CNAME .
+metrics.zapfhahn.de CNAME .
 metrics.zaun-star.com CNAME .
 mktg.activemind.legal CNAME .
 monitoring.medizinbedarf.eu CNAME .
@@ -303,6 +304,7 @@ stats.pilz.com CNAME .
 stats.rumundco.de CNAME .
 stats.salzburgerjobs.at CNAME .
 stats.seesteg-norderney.de CNAME .
+stats.sew-eurodrive.com CNAME .
 stats.steirerjobs.at CNAME .
 stats.suedtirolerjobs.it CNAME .
 stats.tirolerjobs.at CNAME .
@@ -312,6 +314,7 @@ stats.vorarlbergerjobs.at CNAME .
 stats.wasserfilteroase.de CNAME .
 stats.wienerjobs.at CNAME .
 stgstats.die-bibel.de CNAME .
+strapi.onofficeom.com CNAME .
 stream.joe-nimble.com CNAME .
 sun.solar-haus.de CNAME .
 system.affiliate-marketing-hamburg.de CNAME .
@@ -475,6 +478,7 @@ webcontr.pegasus-actuators.com CNAME .
 webcontr.prokon.energy CNAME .
 webcontr.reisprinzen.de CNAME .
 webcontr.renovaid.de CNAME .
+webcontr.rheinenergie-trading.com CNAME .
 webcontr.rheinenergie.com CNAME .
 webcontr.roewa.com CNAME .
 webcontr.rollytoys.de CNAME .
@@ -568,7 +572,9 @@ webstt0077.onofficeom.com CNAME .
 webstt0078.onofficeom.com CNAME .
 webstt0079.onofficeom.com CNAME .
 webstt0083.onofficeom.com CNAME .
+webstt0086.onofficeom.com CNAME .
 webstt0090.onofficeom.com CNAME .
+webstt0094.onofficeom.com CNAME .
 webstt0096.onofficeom.com CNAME .
 webstt0102.onofficeom.com CNAME .
 webstt0103.onofficeom.com CNAME .

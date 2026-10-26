@@ -138,6 +138,7 @@
     * 531ea578-esqb2ypb.cname.ebis.ne.jp
     * 538e5738-scxitlgt.cname.ebis.ne.jp
     * 543c99ed-th0o4wui.cname.ebis.ne.jp
+    * 552a5207-bxd3nsfc.cname.ebis.ne.jp
     * 55ce18c7-ppn7hhsn.cname.ebis.ne.jp
     * 55f9731d-yghwwxr9.cname.ebis.ne.jp
     * 57ec4b6d-thlsfh6z.cname.ebis.ne.jp
@@ -186,6 +187,7 @@
     * 82590653-c7rwefvl.cname.ebis.ne.jp
     * 83064757-4fakfckr.cname.ebis.ne.jp
     * 8401391a-6pusefyf.cname.ebis.ne.jp
+    * 84c8cc9f-cb9pban5.cname.ebis.ne.jp
     * 852e231d-ct0ymnok.cname.ebis.ne.jp
     * 852e357a-0a5i81lv.cname.ebis.ne.jp
     * 87bfa869-gchgrbwl.cname.ebis.ne.jp
@@ -511,6 +513,7 @@
 | ebis.2jikaikun.com | 531ea578-esqb2ypb.cname.ebis.ne.jp |
 | cs0010sbeda.theory-kumatarumi.com | 538e5738-scxitlgt.cname.ebis.ne.jp |
 | adebis-trk-wedding.official-wedding.net | 543c99ed-th0o4wui.cname.ebis.ne.jp |
+| cv-adebis.ca-japan.org | 552a5207-bxd3nsfc.cname.ebis.ne.jp |
 | cname.polestar-m.jp | 55ce18c7-ppn7hhsn.cname.ebis.ne.jp |
 | ad.320320.net | 55f9731d-yghwwxr9.cname.ebis.ne.jp |
 | itpebis03.deep2031.com | 57ec4b6d-thlsfh6z.cname.ebis.ne.jp |
@@ -559,6 +562,7 @@
 | urerucname.manara.jp | 82590653-c7rwefvl.cname.ebis.ne.jp |
 | marketing.zwei.com | 83064757-4fakfckr.cname.ebis.ne.jp |
 | ebis-tracking.aoki-tsuyoshi.com | 8401391a-6pusefyf.cname.ebis.ne.jp |
+| bbb.aqualink.ink | 84c8cc9f-cb9pban5.cname.ebis.ne.jp |
 | maz.zba.jp | 852e231d-ct0ymnok.cname.ebis.ne.jp |
 | cname.sognando.jp | 852e357a-0a5i81lv.cname.ebis.ne.jp |
 | ebis.ce-parfait.com | 87bfa869-gchgrbwl.cname.ebis.ne.jp |

@@ -259,6 +259,7 @@
     * experian.extole.io
     * extoleu.extole.io
     * familysavingscu.extole.io
+    * fandangonow.extole.io
     * fastbridgefiber.extole.io
     * fellahealth.extole.io
     * fetchpet.extole.io
@@ -268,7 +269,9 @@
     * first-tech-federal.extole.io
     * firstleaf.extole.io
     * fitnessconnection.extole.io
+    * forddrive-sandbox.extole.io
     * forddrive.extole.io
+    * forgetrust.em.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
     * gainbridge.extole.io
@@ -276,7 +279,6 @@
     * gap-canada.extole.io
     * garnethill.extole.io
     * gc.extole.io
-    * getfreed.extole.io
     * getsetup.extole.io
     * gfafcu.extole.io
     * giantfood.extole.io
@@ -450,7 +452,6 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
-    * quickbooks.em.extole.io
     * quickbooks.extole.io
     * quickbooksintuituk.extole.io
     * quickstart.extole.io
@@ -521,6 +522,7 @@
     * stridehealth.extole.io
     * studiosashiko.extole.io
     * suffolkcu.extole.io
+    * summitcreditunion.extole.io
     * sundancevacations.extole.io
     * sundaysfordogs.extole.io
     * suneast.extole.io
@@ -556,6 +558,7 @@
     * trafalgar.extole.io
     * travelzoo.extole.io
     * truwest.extole.io
+    * turbotax.em.extole.io
     * turbotax.extole.io
     * turbotaxdemo.extole.io
     * tweglobal.extole.io
@@ -838,14 +841,19 @@
 | izoncl2caorfnn6o.extoleu.com | extoleu.extole.io |
 | jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
 | kenn.extoleu.com | extoleu.extole.io |
+| ollama.extoleu.com | extoleu.extole.io |
 | owncloud.extoleu.com | extoleu.extole.io |
+| pfsense.extoleu.com | extoleu.extole.io |
 | rob.extoleu.com | extoleu.extole.io |
 | rob2.extoleu.com | extoleu.extole.io |
+| superset.extoleu.com | extoleu.extole.io |
 | ufsmdjkg1zhzcx9i.extoleu.com | extoleu.extole.io |
+| waf.extoleu.com | extoleu.extole.io |
 | www.extoleu.com | extoleu.extole.io |
 | www.rob.extoleu.com | extoleu.extole.io |
 | www.rob2.extoleu.com | extoleu.extole.io |
 | refer.familysavingscu.com | familysavingscu.extole.io |
+| refer.fandangonow.com | fandangonow.extole.io |
 | share.fastbridgefiber.com | fastbridgefiber.extole.io |
 | jumpstart.boltpharmacy.co.uk | fellahealth.extole.io |
 | refer.baddie.health | fellahealth.extole.io |
@@ -861,7 +869,9 @@
 | share.firstleaf.club | firstleaf.extole.io |
 | share.firstleaf.com | firstleaf.extole.io |
 | share.fitnessconnection.com | fitnessconnection.extole.io |
+| dev.refer.forddrive.com | forddrive-sandbox.extole.io |
 | refer.forddrive.com | forddrive.extole.io |
+| em767.forgetrust.com | forgetrust.em.extole.io |
 | refer.foodkick.com | freshdirect.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
@@ -959,7 +969,6 @@
 | refer.gapcanada.ca | gap-canada.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
 | share.gc.com | gc.extole.io |
-| gift.getfreed.ai | getfreed.extole.io |
 | share.getsetup.io | getsetup.extole.io |
 | refer.gevalia.com | gevalia.extole.com |
 | refer.gfafcu.com | gfafcu.extole.io |
@@ -1209,7 +1218,6 @@
 | recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
-| em2279.referral.quickbooks.co.uk | quickbooks.em.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
 | referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
@@ -1299,6 +1307,7 @@
 | share.stridehealth.com | stridehealth.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | share.suffolkcu.org | suffolkcu.extole.io |
+| share.summitcreditunion.com | summitcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | share.suneast.org | suneast.extole.io |
@@ -1347,6 +1356,7 @@
 | share.travelzoo.com | travelzoo.extole.io |
 | refer.truwest.org | truwest.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
+| em5807.turbotax.refer.intuit.com | turbotax.em.extole.io |
 | refer.intuit.com | turbotax.extole.io |
 | prepod.refer.intuit.com | turbotaxdemo.extole.io |
 | share.beringer.com | tweglobal.extole.io |

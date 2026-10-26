@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792532422159        ; Serial
+           1793018717010        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,10 +28,10 @@ cdn.bahswl.com CNAME .
 cdn.bhlph.com CNAME .
 cdn.bnmkl.com CNAME .
 cdn.borhaj.com CNAME .
-cdn.buram.xyz CNAME .
 cdn.caahwq.com CNAME .
 cdn.calcpol.com CNAME .
 cdn.cjlph.com CNAME .
+cdn.cjrlsw.info CNAME .
 cdn.clbaf.com CNAME .
 cdn.crsope.com CNAME .
 cdn.cryjun.com CNAME .
@@ -239,7 +239,6 @@ beetle.enlacepermanente.es CNAME .
 bird.brondby.com CNAME .
 bird.webitizevoice.com CNAME .
 bison.ainslieart.com CNAME .
-bison.joshhanley.com.au CNAME .
 bison.stuffmatic.com CNAME .
 bison.weitweit.at CNAME .
 blackbird.docstation.co CNAME .
@@ -251,7 +250,6 @@ bluejay.wearegray.com CNAME .
 boa.auaesthetics.com CNAME .
 boar.hopehollow.com CNAME .
 boar.indieweb.org CNAME .
-boar.kostholdsveilederen.no CNAME .
 bobcat.pronounce.technology CNAME .
 bobcat.snapshooter.io CNAME .
 bonobo.nola.today CNAME .
@@ -335,7 +333,6 @@ coyote.pbnbuilds.com CNAME .
 coyote.txet.ch CNAME .
 crab.dunkeldbutchers.co.uk CNAME .
 crane.auctic.com CNAME .
-crane.maggsgroup.com CNAME .
 crawdad.craiga.id.au CNAME .
 crawdad.dillonerhardt.com CNAME .
 crawdad.impacttk.com CNAME .
@@ -476,7 +473,6 @@ hare.startupbootcamp.com.au CNAME .
 harrier.haircation.com CNAME .
 harrier.progress.fyi CNAME .
 hawk.makroskop.eu CNAME .
-hawk.mjsarfatti.com CNAME .
 hedgehog.fightforthefuture.org CNAME .
 heron.joel.is CNAME .
 heron.notability.com CNAME .
@@ -836,7 +832,6 @@ swordfish.thefloofs.com CNAME .
 swordtail.hnh.digital CNAME .
 swordtail.rockface.io CNAME .
 t0ikowg7jg.serverlesslaravelcourse.com CNAME .
-tahr.componentsui.com CNAME .
 tahr.happydev.fm CNAME .
 tahr.rasen.dev CNAME .
 takin.cors.digital CNAME .
@@ -909,7 +904,6 @@ whale.gdebrauwer.dev CNAME .
 whippet.miniforetak.no CNAME .
 whitefish.antonopoulos-stores.gr CNAME .
 whitefish.autharmor.com CNAME .
-whitefish.johnsandtaylor.com CNAME .
 whitefish.kenku.fm CNAME .
 wildcat.fspy.io CNAME .
 wildcat.longviewforecasting.com CNAME .
@@ -945,6 +939,7 @@ carlsonmedia.streetinteractive.com CNAME .
 community.jerseyshoreonline.com CNAME .
 community.noozhawk.com CNAME .
 community.richlandsource.com CNAME .
+connect.spacenews.com CNAME .
 connected.ashrae.org CNAME .
 connected.county10.com CNAME .
 daily.abasto.com CNAME .
@@ -1043,6 +1038,7 @@ icon.eu.twrmnd.com CNAME .
 live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
 matomo-cdn-bunny.ramsalt.com CNAME .
+media.masque.com CNAME .
 metrics.aspose.com CNAME .
 metrics.groupdocs.com CNAME .
 mp2y3.sm20j.xyz CNAME .

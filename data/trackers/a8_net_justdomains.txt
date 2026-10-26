@@ -41,7 +41,6 @@ a8.big-hikari.com
 a8.biglobe.openplat.jp
 a8.biz.ne.jp
 a8.biziphone.com
-a8.boco.co.jp
 a8.bousui-pro.com
 a8.brandcosme.com
 a8.brandkaimasu.com
@@ -267,6 +266,7 @@ a8.shokubun.net
 a8.shop-jp.technogelworld.com
 a8.shop.basefood.co.jp
 a8.shop.dreammug.co.jp
+a8.shop.jele.co.jp
 a8.shop.nicosuma.com
 a8.shop.scrop-coffee-roasters.com
 a8.shop.tsukijiwadatsumi.com
@@ -326,7 +326,6 @@ a8.vinew.jp
 a8.vtuber.sexy
 a8.watero.pet
 a8.web-hikari.net
-a8.webdeki.com
 a8.wemotion.co.jp
 a8.wifi-fami.com
 a8.wifi-tokyo-rentalshop.com
@@ -455,7 +454,6 @@ a8clk.digicafe.jp
 a8clk.doda.jp
 a8clk.dospara.co.jp
 a8clk.dr-10.com
-a8clk.dr-40.com
 a8clk.dr-8.com
 a8clk.drivee.ne.jp
 a8clk.e-ninniku.jp
@@ -463,7 +461,6 @@ a8clk.ec.halmek.co.jp
 a8clk.ec.oreno.co.jp
 a8clk.ectool.jp
 a8clk.englead.jp
-a8clk.es.akyrise.jp
 a8clk.ex-wifi.jp
 a8clk.excellence-aoyama.com
 a8clk.famm.us
@@ -720,7 +717,6 @@ a8clkapply.mycredit.nexuscard.co.jp
 a8clkcd.ecostorecom.jp
 a8clkcv.lognavi.com
 a8clkcv.pcr.tokyo-brain.clinic
-a8cname.cloudwifi-nc.com
 a8cname.nj-e.jp
 a8cnv.rmsbeauty.jp
 a8cv.012grp.co.jp
@@ -761,7 +757,6 @@ a8cv.aruci.jp
 a8cv.assign-inc.com
 a8cv.atami-box.com
 a8cv.atgp.jp
-a8cv.auhikari-bykddi.com
 a8cv.b-concept.tokyo
 a8cv.b-noix.jp
 a8cv.babybjorn.jp
@@ -814,6 +809,7 @@ a8cv.cloud-wi-fi.jp
 a8cv.cloudthome.com
 a8cv.coco-gourmet.com
 a8cv.codmon.com
+a8cv.coloris.shop
 a8cv.contents-sales.net
 a8cv.control.cloudphotobook.com
 a8cv.coopnet.or.jp
@@ -928,6 +924,7 @@ a8cv.harasawa.co.jp
 a8cv.hardwarewallet-japan.com
 a8cv.hariocorp.co.jp
 a8cv.hariti.shop
+a8cv.heyawari.com
 a8cv.heybit.io
 a8cv.hi-tailor.jp
 a8cv.highclassmoney.net
@@ -1021,10 +1018,12 @@ a8cv.ma-cp.com
 a8cv.machi-ene.jp
 a8cv.machicon.jp
 a8cv.macloud.jp
+a8cv.maenomerinacareer.jp
 a8cv.maenomery.jp
 a8cv.magniflexk.com
 a8cv.mai.dk-lab.jp
 a8cv.mamarket.co.jp
+a8cv.marc.college
 a8cv.mashumaro-bra.com
 a8cv.mbb-inc.com
 a8cv.mcc-lazer-hr.com
@@ -1174,6 +1173,7 @@ a8cv.somenoya.com
 a8cv.somresta.jp
 a8cv.sotsuenalbum.com
 a8cv.soundfun.co.jp
+a8cv.souzoku-no-madoguchi.net
 a8cv.soyafarm.com
 a8cv.spacioshop.com
 a8cv.spalab-chintai.uk-corp.co.jp
@@ -1277,6 +1277,7 @@ a8cv.yui.gift
 a8cv.yuyu-tei.jp
 a8cv.zacc.jp
 a8cv.zeal-agent.com
+a8cv.zeal-k-agent.com
 a8cv.zeal-shushoku-agent.com
 a8cv.zeroen-denki.com
 a8cv.zerorenovation.com

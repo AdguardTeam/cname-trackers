@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792537382270        ; Serial
+           1793027475289        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,4 +60,5 @@ t.traxivo.uno CNAME .
 t.trckforge.site CNAME .
 t.trcktr.com CNAME .
 t.trkav.name CNAME .
+t.vectortrck.uno CNAME .
 t.wintrck.com CNAME .

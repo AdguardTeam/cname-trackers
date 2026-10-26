@@ -17,10 +17,10 @@
 ||cdn.bhlph.com^
 ||cdn.bnmkl.com^
 ||cdn.borhaj.com^
-||cdn.buram.xyz^
 ||cdn.caahwq.com^
 ||cdn.calcpol.com^
 ||cdn.cjlph.com^
+||cdn.cjrlsw.info^
 ||cdn.clbaf.com^
 ||cdn.crsope.com^
 ||cdn.cryjun.com^
@@ -228,7 +228,6 @@
 ||bird.brondby.com^
 ||bird.webitizevoice.com^
 ||bison.ainslieart.com^
-||bison.joshhanley.com.au^
 ||bison.stuffmatic.com^
 ||bison.weitweit.at^
 ||blackbird.docstation.co^
@@ -240,7 +239,6 @@
 ||boa.auaesthetics.com^
 ||boar.hopehollow.com^
 ||boar.indieweb.org^
-||boar.kostholdsveilederen.no^
 ||bobcat.pronounce.technology^
 ||bobcat.snapshooter.io^
 ||bonobo.nola.today^
@@ -324,7 +322,6 @@
 ||coyote.txet.ch^
 ||crab.dunkeldbutchers.co.uk^
 ||crane.auctic.com^
-||crane.maggsgroup.com^
 ||crawdad.craiga.id.au^
 ||crawdad.dillonerhardt.com^
 ||crawdad.impacttk.com^
@@ -465,7 +462,6 @@
 ||harrier.haircation.com^
 ||harrier.progress.fyi^
 ||hawk.makroskop.eu^
-||hawk.mjsarfatti.com^
 ||hedgehog.fightforthefuture.org^
 ||heron.joel.is^
 ||heron.notability.com^
@@ -825,7 +821,6 @@
 ||swordtail.hnh.digital^
 ||swordtail.rockface.io^
 ||t0ikowg7jg.serverlesslaravelcourse.com^
-||tahr.componentsui.com^
 ||tahr.happydev.fm^
 ||tahr.rasen.dev^
 ||takin.cors.digital^
@@ -898,7 +893,6 @@
 ||whippet.miniforetak.no^
 ||whitefish.antonopoulos-stores.gr^
 ||whitefish.autharmor.com^
-||whitefish.johnsandtaylor.com^
 ||whitefish.kenku.fm^
 ||wildcat.fspy.io^
 ||wildcat.longviewforecasting.com^
@@ -934,6 +928,7 @@
 ||community.jerseyshoreonline.com^
 ||community.noozhawk.com^
 ||community.richlandsource.com^
+||connect.spacenews.com^
 ||connected.ashrae.org^
 ||connected.county10.com^
 ||daily.abasto.com^
@@ -1032,6 +1027,7 @@
 ||live-tag.creatopy.net^
 ||log.ads-m.net^
 ||matomo-cdn-bunny.ramsalt.com^
+||media.masque.com^
 ||metrics.aspose.com^
 ||metrics.groupdocs.com^
 ||mp2y3.sm20j.xyz^

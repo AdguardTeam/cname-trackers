@@ -34,6 +34,7 @@
     * h-1l9wdiww.online-metrix.net
     * h-1lc506lh.online-metrix.net
     * h-1lsdhefu.online-metrix.net
+    * h-1mpbowj3.online-metrix.net
     * h-1ngztxrl-obp.online-metrix.net
     * h-1ngztxrl.online-metrix.net
     * h-1qbwo7fx.online-metrix.net
@@ -80,6 +81,7 @@
     * h-32rts1pk.online-metrix.net
     * h-3375wwy7.online-metrix.net
     * h-34mvnza6-2.online-metrix.net
+    * h-34mvnza6-3.online-metrix.net
     * h-34mvnza6-4.online-metrix.net
     * h-34mvnza6-5.online-metrix.net
     * h-34mvnza6-luckxpress.online-metrix.net
@@ -113,6 +115,7 @@
     * h-40347ghm4.online-metrix.net
     * h-422d8x7f.online-metrix.net
     * h-42guvm37.online-metrix.net
+    * h-42lmkgm9.online-metrix.net
     * h-460nu0c9.online-metrix.net
     * h-47blm1l4.online-metrix.net
     * h-47z24dz9.online-metrix.net
@@ -160,6 +163,7 @@
     * h-5xjzypxf.online-metrix.net
     * h-5xx71132.online-metrix.net
     * h-5zqq8fly.online-metrix.net
+    * h-62ephe4v.online-metrix.net
     * h-63ep99l5.online-metrix.net
     * h-63wvm5gr.online-metrix.net
     * h-6719uhzs.online-metrix.net
@@ -228,6 +232,7 @@
     * h-80eyqe5f.online-metrix.net
     * h-84sv8qof.online-metrix.net
     * h-855iprp2.online-metrix.net
+    * h-86bctdvh-1.online-metrix.net
     * h-86bctdvh.online-metrix.net
     * h-86m8xdhf.online-metrix.net
     * h-87dpgbbe.online-metrix.net
@@ -446,7 +451,6 @@
     * h-ceurt9zj.online-metrix.net
     * h-cfi32dc4.online-metrix.net
     * h-cfmqsw7v.online-metrix.net
-    * h-ch968hx6.online-metrix.net
     * h-charter.online-metrix.net
     * h-chase.online-metrix.net
     * h-chubb.online-metrix.net
@@ -498,6 +502,7 @@
     * h-cpuoahbo.online-metrix.net
     * h-cq1yg9a5.online-metrix.net
     * h-cqjaju73.online-metrix.net
+    * h-crazgsid.online-metrix.net
     * h-credilikeme.online-metrix.net
     * h-credit-reporting-agency.online-metrix.net
     * h-credit24.online-metrix.net
@@ -759,6 +764,7 @@
     * h-optumid.online-metrix.net
     * h-optummahix.online-metrix.net
     * h-optus.online-metrix.net
+    * h-ordoro.online-metrix.net
     * h-ottobv.online-metrix.net
     * h-paddypower.online-metrix.net
     * h-parcelmonkey.online-metrix.net
@@ -956,6 +962,7 @@
 | cnt.dllpayment.com | h-1l9wdiww.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
 | fulfillment-ups.squareup.com | h-1lsdhefu.online-metrix.net |
+| content.vivus.es | h-1mpbowj3.online-metrix.net |
 | t.openbankpay.com | h-1ngztxrl-obp.online-metrix.net |
 | t.zinia.com | h-1ngztxrl.online-metrix.net |
 | content.nycers.org | h-1qbwo7fx.online-metrix.net |
@@ -1054,6 +1061,7 @@
 | contentdna.pemco.com | h-1srvxxv9.online-metrix.net |
 | prod-tmx.cofidis.hu | h-1v2qttg8.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
+| content.connect.medicaid.ncdhhs.gov | h-1xl1yrh3.online-metrix.net |
 | preprod.content.connect.medicaid.ncdhhs.gov | h-1xl1yrh3.online-metrix.net |
 | mtx.thirdstream.ca | h-22outib0.online-metrix.net |
 | ghisa.subito.it | h-22vdduyk.online-metrix.net |
@@ -1099,6 +1107,7 @@
 | cim-idc-cdn.account.bcbsok.com | h-2xb5ezda.online-metrix.net |
 | cim-idc-cdn.account.bcbstx.com | h-2xb5ezda.online-metrix.net |
 | cim-idc-cdn.account.hcsc.net | h-2xb5ezda.online-metrix.net |
+| cim-idc-cdn.account.healthspring.com | h-2xb5ezda.online-metrix.net |
 | cim-idc-cdn.account.wellontarget.com | h-2xb5ezda.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | validacion.rayo.com.co | h-2yf5pvfu.online-metrix.net |
@@ -1108,6 +1117,7 @@
 | secure.freshbooks.com | h-32rts1pk.online-metrix.net |
 | login-verification.dol.ct.gov | h-3375wwy7.online-metrix.net |
 | d0796fef.monkeyspins.com | h-34mvnza6-2.online-metrix.net |
+| edge2.doublespin.com | h-34mvnza6-3.online-metrix.net |
 | edge2.luxiprize.com | h-34mvnza6-4.online-metrix.net |
 | edge2.lavaslots.com | h-34mvnza6-5.online-metrix.net |
 | lsdpdp.luckxpress.com | h-34mvnza6-luckxpress.online-metrix.net |
@@ -1142,6 +1152,7 @@
 | diff4.yoigo.com | h-40347ghm4.online-metrix.net |
 | cdn-a.telus.com | h-422d8x7f.online-metrix.net |
 | ivaacontent.ers.ga.gov | h-42guvm37.online-metrix.net |
+| tools.citruscollege.edu | h-42lmkgm9.online-metrix.net |
 | dmo-services-tmx.cofidis.cz | h-460nu0c9.online-metrix.net |
 | services-tmx.cofidis.cz | h-460nu0c9.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
@@ -1229,6 +1240,7 @@
 | content.nhrs.org | h-5xjzypxf.online-metrix.net |
 | lncdn.goosehead.com | h-5xx71132.online-metrix.net |
 | id-check.boostmobile.com | h-5zqq8fly.online-metrix.net |
+| my.ich.app | h-62ephe4v.online-metrix.net |
 | applibs.fglife.com | h-63ep99l5.online-metrix.net |
 | rba.ve.m.cfg.smt.docomo.ne.jp | h-63wvm5gr.online-metrix.net |
 | content.otpinternetbanking.md | h-6719uhzs.online-metrix.net |
@@ -1339,6 +1351,7 @@
 | ltxup.sumup.io | h-84sv8qof.online-metrix.net |
 | ltxup.sumupstore.com | h-84sv8qof.online-metrix.net |
 | afr.jogajunto.bet.br | h-855iprp2.online-metrix.net |
+| larson.bambooloans.com | h-86bctdvh-1.online-metrix.net |
 | larson.plata.com | h-86bctdvh.online-metrix.net |
 | content.lumen.cards | h-86m8xdhf.online-metrix.net |
 | tm.id-validation.ch | h-87dpgbbe.online-metrix.net |
@@ -1648,7 +1661,6 @@
 | regstat.betfair.es | h-betfair.online-metrix.net |
 | regstat.betfair.it | h-betfair.online-metrix.net |
 | regstat.betfair.ro | h-betfair.online-metrix.net |
-| regstat.dibz.co.uk | h-betfair.online-metrix.net |
 | assessment.nj.betmgm.com | h-betmgm.online-metrix.net |
 | secure.idbank.it | h-bewnb8q4.online-metrix.net |
 | tmx.beyondbank.com.au | h-beyondbank.online-metrix.net |
@@ -1744,7 +1756,9 @@
 | content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev.connexion.hellobank.fr | h-cco37scf.online-metrix.net |
+| content.prev.connexion.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev.connexion.monespace.bnpparibas | h-cco37scf.online-metrix.net |
+| content.prev.connexion.monespace.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.hellobank.fr | h-cco37scf.online-metrix.net |
@@ -1767,7 +1781,6 @@
 | dp.barclaycardus.com | h-cfi32dc4.online-metrix.net |
 | dp.barclaysus.com | h-cfi32dc4.online-metrix.net |
 | lexis.ourtrip.com.br | h-cfmqsw7v.online-metrix.net |
-| neo.cdx-bankislam.com | h-ch968hx6.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
 | h.chase.co.uk | h-chase.online-metrix.net |
 | rauth.chubb.com | h-chubb.online-metrix.net |
@@ -1841,6 +1854,7 @@
 | crmg-fraudmgmt-stg.bayad.com | h-cq1yg9a5.online-metrix.net |
 | crmg-fraudmgmt.bayad.com | h-cq1yg9a5.online-metrix.net |
 | dfp.mcdonalds.fr | h-cqjaju73.online-metrix.net |
+| did.access.service.gov.uk | h-crazgsid.online-metrix.net |
 | appscore.credilike.me | h-credilikeme.online-metrix.net |
 | log.checkmyfile.co.uk | h-credit-reporting-agency.online-metrix.net |
 | log.checkmyfile.com | h-credit-reporting-agency.online-metrix.net |
@@ -2206,6 +2220,7 @@
 | t11.identity.aikyam.com | h-optumid.online-metrix.net |
 | rba.login.mahix.org | h-optummahix.online-metrix.net |
 | optm.optus.com.au | h-optus.online-metrix.net |
+| linetime.ordoro.com | h-ordoro.online-metrix.net |
 | img2.otto.nl | h-ottobv.online-metrix.net |
 | regstat.paddypower.com | h-paddypower.online-metrix.net |
 | page1.parcelmonkey.com | h-parcelmonkey.online-metrix.net |

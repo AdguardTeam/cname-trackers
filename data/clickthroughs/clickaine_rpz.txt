@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792527583227        ; Serial
+           1793018717010        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,6 +33,8 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.oneptp.com CNAME .
 asg.pienude.com CNAME .
+bch.brandnewapp.pro CNAME .
+c.teenseks.com CNAME .
 c0n.tubestash.com CNAME .
 c4n.85xvideo.com CNAME .
 c4n.allporncomics.co CNAME .
@@ -78,9 +80,8 @@ dashww.hotscopes.net CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 drt.cliomovies.com CNAME .
-ejjjkil2112.gimmeporn.xyz CNAME .
+ejjjkil2121.gimmeporn.xyz CNAME .
 en.rtnews.pro CNAME .
-excavajo54.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 fotos.brandnewapp.pro CNAME .

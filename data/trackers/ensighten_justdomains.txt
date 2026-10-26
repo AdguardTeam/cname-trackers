@@ -115,6 +115,7 @@ assets1.vero.com.au
 attribution.batesfootwear.com
 attribution.grasshoppers.com
 attribution.hushpuppies.com
+attribution.keds.com
 attribution.lebara.com
 attribution.sperry.com
 attribution.tescomobile.com
@@ -161,6 +162,7 @@ cookies.jll.com.br
 cookies.jll.com.co
 cookies.jll.com.hk
 cookies.jll.com.lk
+cookies.jll.com.mo
 cookies.jll.com.mx
 cookies.jll.com.my
 cookies.jll.com.ph
@@ -287,6 +289,7 @@ p.pulse.buyatoyota.com
 p.pulse.lexus.com
 p.pulse.toyota.com
 pfa.levexis.com
+privacy-digital.ascentric.co.uk
 privacy-digital.diip.co.uk
 privacy-digital.infracapital.co.uk
 privacy-digital.mandg.com

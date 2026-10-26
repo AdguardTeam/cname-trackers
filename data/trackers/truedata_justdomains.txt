@@ -1,13 +1,15 @@
 #
 # Company name: TrueData
+td.deepsync.com
+td.eatwsk.com
+td.milkjamcreamery.com
+td.myrthada.com
 td.bestproducts.com
 td.bicycling.com
 td.caranddriver.com
 td.cosmopolitan.com
 td.countryliving.com
-td.deepsync.com
 td.delish.com
-td.eatwsk.com
 td.elle.com
 td.elledecor.com
 td.esquire.com
@@ -15,8 +17,6 @@ td.goodhousekeeping.com
 td.harpersbazaar.com
 td.housebeautiful.com
 td.menshealth.com
-td.milkjamcreamery.com
-td.myrthada.com
 td.oprahdaily.com
 td.popularmechanics.com
 td.prevention.com

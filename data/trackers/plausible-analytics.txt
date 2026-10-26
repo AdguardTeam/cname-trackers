@@ -8,7 +8,6 @@
 ||ana.grumpygamer.com^
 ||analytics.adam.page^
 ||analytics.andrewsmith.com.au^
-||analytics.arunraghavan.net^
 ||analytics.betterplaces.nl^
 ||analytics.certifriedit.com^
 ||analytics.churchthemes.com^
@@ -65,7 +64,6 @@
 ||ds.webprojectslab.com^
 ||eliteclng.ericksonbuilt.com^
 ||events.mikescerealshack.co^
-||explore.bytelab.uk^
 ||extramilefloorcare.ericksonbuilt.com^
 ||galop.leferacheval-saintcloud.com^
 ||hi.baudot.io^
@@ -530,7 +528,6 @@
 ||stats.orbitalhealth.co^
 ||stats.ordinarypuzzles.com^
 ||stats.ortussolutions.com^
-||stats.osiemsiedem.com^
 ||stats.osteo-kessler.de^
 ||stats.otsohavanto.net^
 ||stats.ownpath.xyz^

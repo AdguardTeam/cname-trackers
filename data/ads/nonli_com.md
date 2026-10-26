@@ -15,11 +15,16 @@
 | l.aufeminin.com | non.li |
 | l.blissim.fr | non.li |
 | l.bon-esprit.fr | non.li |
+| l.destimed.fr | non.li |
 | l.heidi.news | non.li |
+| l.lephoceen.fr | non.li |
+| l.moarty.com | non.li |
 | l.monacomatin.mc | non.li |
 | l.nicematin.com | non.li |
 | l.ouifm.fr | non.li |
 | l.paris-turf.com | non.li |
+| l.parismatch.com | non.li |
+| l.tierce-magazine.com | non.li |
 | l.traxmag.com | non.li |
 | l.varmatin.com | non.li |
 | nr.lanouvellerepublique.fr | non.li |
@@ -48,6 +53,7 @@
 | buy.h24.news | tls.non.li |
 | ca-fr.h24.news | tls.non.li |
 | central.us.h24.news | tls.non.li |
+| cf-le-test.9to16.io | tls.non.li |
 | ch-fr.h24.news | tls.non.li |
 | client.h24.news | tls.non.li |
 | cms.h24.news | tls.non.li |
@@ -55,11 +61,13 @@
 | customer.h24.news | tls.non.li |
 | database.h24.news | tls.non.li |
 | de.h24.news | tls.non.li |
+| directory.co.h24.news | tls.non.li |
 | ec.h24.news | tls.non.li |
 | fitness.h24.news | tls.non.li |
 | flow-prod.h24.news | tls.non.li |
 | fr.h24.news | tls.non.li |
 | genai.h24.news | tls.non.li |
+| git.h24.news | tls.non.li |
 | go.3ds.com | tls.non.li |
 | go.france24.com | tls.non.li |
 | go.lenouveaudetective.com | tls.non.li |
@@ -398,6 +406,7 @@
 | mobile.h24.news | tls.non.li |
 | mx3.h24.news | tls.non.li |
 | new.h24.news | tls.non.li |
+| nexus.h24.news | tls.non.li |
 | panel.h24.news | tls.non.li |
 | partners.h24.news | tls.non.li |
 | pe.h24.news | tls.non.li |

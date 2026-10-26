@@ -4,6 +4,7 @@
 ||39db8b138f.apps.iocnt.de^
 ||5bf0fdacd2.apps.iocnt.de^
 ||at_w_atexxpressdata-c3a3188a23.exxpress.at^
+||boa.apps.iocnt.de^
 ||c4b720ded1.apps.iocnt.de^
 ||data-0034231193.apps.iocnt.de^
 ||data-00460c60fa.eurotransport.de^
@@ -376,6 +377,7 @@
 ||data-3839bfef3b.diesteirerin.at^
 ||data-389b910202.moenchengladbach.de^
 ||data-38a6e3d7f2.domradio.de^
+||data-38add85f50.apps.iocnt.de^
 ||data-38f98ee2dd.apps.iocnt.de^
 ||data-397bf6a16b.stadtbibliothek-bielefeld.de^
 ||data-39822b659f.allgemeine-zeitung.de^
@@ -729,6 +731,7 @@
 ||data-5a078ffbef.westfalen-blatt.de^
 ||data-5a2bbd7d77.apps.iocnt.de^
 ||data-5a9f6e282a.ingenieur.de^
+||data-5a9f6e282a.ingenieurstage.de^
 ||data-5aab0af339.apps.iocnt.de^
 ||data-5ab0f5b45f.dk-online.de^
 ||data-5ab0f5b45f.noz.de^
@@ -912,6 +915,7 @@
 ||data-7023b17a38.onetz.de^
 ||data-7023b17a38.weiden24.de^
 ||data-706868203b.partytimer.at^
+||data-707aff899d.donna-magazin.de^
 ||data-707aff899d.funke.fun^
 ||data-707aff899d.myself.de^
 ||data-70f37c510a.jobs-im-suedwesten.de^
@@ -1038,13 +1042,7 @@
 ||data-85dba8a916.fupa.net^
 ||data-85dba8a916.schwaebische.de^
 ||data-861bbf2127.bild.de^
-||data-861bbf2127.bz-berlin.de^
-||data-861bbf2127.fitbook.de^
-||data-861bbf2127.myhomebook.de^
-||data-861bbf2127.petbook.de^
 ||data-861bbf2127.stylebook.de^
-||data-861bbf2127.techbook.de^
-||data-861bbf2127.travelbook.de^
 ||data-8629f7a423.4players.de^
 ||data-86943486de.laendleauto.at^
 ||data-86d2aee9fa.sueddeutsche.de^
@@ -1161,7 +1159,6 @@
 ||data-98b5a11c9b.radiolippe.de^
 ||data-992b9a20ea.competitionline.com^
 ||data-99329e3cb2.bilanz.de^
-||data-99329e3cb2.welt.de^
 ||data-997fc825f1.bkz.de^
 ||data-997fc825f1.fupa.net^
 ||data-997fc825f1.murrhardter-zeitung.de^
@@ -1451,16 +1448,11 @@
 ||data-bab9a31794.shz.de^
 ||data-bae5a0a55a.apps.iocnt.de^
 ||data-bb21a2f11b.bild.de^
-||data-bb21a2f11b.bz-berlin.de^
-||data-bb21a2f11b.fitbook.de^
+||data-bb21a2f11b.fitbook-magazine.com^
 ||data-bb21a2f11b.myhomebook-magazine.com^
-||data-bb21a2f11b.myhomebook.de^
 ||data-bb21a2f11b.petbook-magazine.com^
-||data-bb21a2f11b.petbook.de^
 ||data-bb21a2f11b.sportbild.de^
 ||data-bb21a2f11b.stylebook.de^
-||data-bb21a2f11b.techbook.de^
-||data-bb21a2f11b.travelbook.de^
 ||data-bb4ada6163.travelbook.de^
 ||data-bc153aec3e.addradio.de^
 ||data-bc153aec3e.radioguetersloh.de^
@@ -1735,7 +1727,6 @@
 ||data-e47ac57521.jobs26.de^
 ||data-e47ac57521.lokal26.de^
 ||data-e4997adf31.bilanz.de^
-||data-e4997adf31.welt.de^
 ||data-e4cfccd10c.freundin.de^
 ||data-e54efb31a3.aachen-gedenkt.de^
 ||data-e54efb31a3.aachener-nachrichten.de^
@@ -2028,6 +2019,7 @@
 ||data-nl.tageskarte.io^
 ||eia.apps.iocnt.de^
 ||fwd.apps.iocnt.de^
+||good.apps.iocnt.de^
 ||member.oewa.at^
 ||pool1.ioam.de^
 ||pool2.ioam.de^

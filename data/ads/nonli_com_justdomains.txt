@@ -13,6 +13,7 @@ buy.h24.news
 c.leparisien.fr
 ca-fr.h24.news
 central.us.h24.news
+cf-le-test.9to16.io
 ch-fr.h24.news
 client.h24.news
 cms.h24.news
@@ -20,11 +21,13 @@ confluence.h24.news
 customer.h24.news
 database.h24.news
 de.h24.news
+directory.co.h24.news
 ec.h24.news
 fitness.h24.news
 flow-prod.h24.news
 fr.h24.news
 genai.h24.news
+git.h24.news
 go.3ds.com
 go.france24.com
 go.lenouveaudetective.com
@@ -106,6 +109,7 @@ l.cuisineaz.com
 l.cuisinezauquotidien.com
 l.dailysports.fr
 l.deco.fr
+l.destimed.fr
 l.diapasonmag.fr
 l.directoalpaladar.com.mx
 l.diverto.tv
@@ -225,6 +229,7 @@ l.lemagauquotidien.com
 l.lemoniteurdespharmacies.fr
 l.lensois.com
 l.leparisien.fr
+l.lephoceen.fr
 l.lepoint.fr
 l.lepopulaire.fr
 l.lequipe.fr
@@ -263,6 +268,7 @@ l.medisite.fr
 l.melty.fr
 l.midilibre.fr
 l.minhavida.com.br
+l.moarty.com
 l.modesettravaux.fr
 l.monacomatin.mc
 l.moselle.tv
@@ -292,6 +298,7 @@ l.ozap.com
 l.paris-jetequitte.com
 l.paris-normandie.fr
 l.paris-turf.com
+l.parismatch.com
 l.paroledemamans.com
 l.passeportsante.net
 l.peaches.fr
@@ -344,6 +351,7 @@ l.tf1.fr
 l.tf1info.fr
 l.theafricareport.com
 l.thegoodlife.fr
+l.tierce-magazine.com
 l.topmercato.com
 l.topmusic.fr
 l.topsante.com
@@ -375,6 +383,7 @@ manage.h24.news
 mobile.h24.news
 mx3.h24.news
 new.h24.news
+nexus.h24.news
 nr.lanouvellerepublique.fr
 on.qobuz.com
 panel.h24.news

@@ -8,7 +8,6 @@
 
 * 1und1.vgwort-de.2cnt.net
 * slb-vgwort-de-pool03.vgwort-de.2cnt.net
-* abendblatt.vgwort-de.2cnt.net
 * slb-vgwort-de-pool02.vgwort-de.2cnt.net
 * beck.vgwort-de.2cnt.net
 * berliner-kurier.vgwort-de.2cnt.net
@@ -20,6 +19,7 @@
 * burda-forward.vgwort-de.2cnt.net
 * chip.vgwort-de.2cnt.net
 * degruyter.vgwort-de.2cnt.net
+* econa.vgwort-de.2cnt.net
 * eltern.vgwort-de.2cnt.net
 * express.vgwort-de.2cnt.net
 * faz.vgwort-de.2cnt.net
@@ -27,10 +27,13 @@
 * fr-online.vgwort-de.2cnt.net
 * gala.vgwort-de.2cnt.net
 * geo.vgwort-de.2cnt.net
+* golem.vgwort-de.2cnt.net
 * handelsblatt.vgwort-de.2cnt.net
+* hanser.vgwort-de.2cnt.net
 * helpster.vgwort-de.2cnt.net
 * hogrefe.vgwort-de.2cnt.net
 * juris.vgwort-de.2cnt.net
+* kohlhammer.vgwort-de.2cnt.net
 * kr.vgwort-de.2cnt.net
 * ksta.vgwort-de.2cnt.net
 * manager.vgwort-de.2cnt.net
@@ -43,6 +46,7 @@
 * rtl.vgwort-de.2cnt.net
 * spiegel.vgwort-de.2cnt.net
 * springer.vgwort-de.2cnt.net
+* ssl-berliner-zeitung.vgwort-de.2cnt.net
 * ssl-econa.vgwort-de.2cnt.net
 * ssl-focus.vgwort-de.2cnt.net
 * ssl-golem.vgwort-de.2cnt.net
@@ -50,6 +54,8 @@
 * ssl-heise.vgwort-de.2cnt.net
 * ssl-idgbusiness.vgwort-de.2cnt.net
 * ssl-idgmagazine.vgwort-de.2cnt.net
+* ssl-kr.vgwort-de.2cnt.net
+* ssl-ksta.vgwort-de.2cnt.net
 * ssl-nwb.vgwort-de.2cnt.net
 * ssl-rp-online.vgwort-de.2cnt.net
 * ssl-t-online.vgwort-de.2cnt.net
@@ -64,6 +70,7 @@
 * tagesspiegel.vgwort-de.2cnt.net
 * taz.vgwort-de.2cnt.net
 * sl-demo-de-pool01.2cnt.net
+* thieme.vgwort-de.2cnt.net
 * tz.vgwort-de.2cnt.net
 * vg00.vgwort-de.2cnt.net
 * vg01.vgwort-de.2cnt.net
@@ -86,7 +93,6 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | 1und1.met.vgwort.de | 1und1.vgwort-de.2cnt.net |
-| abendblatt.met.vgwort.de | abendblatt.vgwort-de.2cnt.net |
 | beck.met.vgwort.de | beck.vgwort-de.2cnt.net |
 | berliner-kurier.met.vgwort.de | berliner-kurier.vgwort-de.2cnt.net |
 | berliner-zeitung.met.vgwort.de | berliner-zeitung.vgwort-de.2cnt.net |
@@ -96,6 +102,7 @@
 | burda-forward.met.vgwort.de | burda-forward.vgwort-de.2cnt.net |
 | chip.met.vgwort.de | chip.vgwort-de.2cnt.net |
 | degruyter.met.vgwort.de | degruyter.vgwort-de.2cnt.net |
+| econa.met.vgwort.de | econa.vgwort-de.2cnt.net |
 | eltern.met.vgwort.de | eltern.vgwort-de.2cnt.net |
 | express.met.vgwort.de | express.vgwort-de.2cnt.net |
 | faz.met.vgwort.de | faz.vgwort-de.2cnt.net |
@@ -103,10 +110,13 @@
 | fr-online.met.vgwort.de | fr-online.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | gala.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | geo.vgwort-de.2cnt.net |
+| golem.met.vgwort.de | golem.vgwort-de.2cnt.net |
 | handelsblatt.met.vgwort.de | handelsblatt.vgwort-de.2cnt.net |
+| hanser.met.vgwort.de | hanser.vgwort-de.2cnt.net |
 | helpster.met.vgwort.de | helpster.vgwort-de.2cnt.net |
 | hogrefe.met.vgwort.de | hogrefe.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | juris.vgwort-de.2cnt.net |
+| kohlhammer.met.vgwort.de | kohlhammer.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | kr.vgwort-de.2cnt.net |
 | ksta.met.vgwort.de | ksta.vgwort-de.2cnt.net |
 | manager.met.vgwort.de | manager.vgwort-de.2cnt.net |
@@ -126,6 +136,7 @@
 | chip.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | degruyter.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | econa.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| econa.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | eltern.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | faz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | faz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -136,6 +147,7 @@
 | idgentertain.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | idgmagazine.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| kohlhammer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | kohlhammer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | mopo.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | rtl.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -166,7 +178,6 @@
 | vision.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | welt.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | wolterskluwer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
-| abendblatt.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | abendblatt.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | amica.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | beck.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -236,6 +247,8 @@
 | ssl-golem.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-handelsblatt.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-kr.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
+| ssl-kr.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
+| ssl-ksta.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-ksta.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-merkur.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-nwb.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
@@ -254,6 +267,7 @@
 | zeit.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | spiegel.vgwort-de.2cnt.net |
 | springer.met.vgwort.de | springer.vgwort-de.2cnt.net |
+| ssl-berliner-zeitung.met.vgwort.de | ssl-berliner-zeitung.vgwort-de.2cnt.net |
 | ssl-econa.met.vgwort.de | ssl-econa.vgwort-de.2cnt.net |
 | ssl-focus.met.vgwort.de | ssl-focus.vgwort-de.2cnt.net |
 | ssl-golem.met.vgwort.de | ssl-golem.vgwort-de.2cnt.net |
@@ -261,6 +275,8 @@
 | ssl-heise.met.vgwort.de | ssl-heise.vgwort-de.2cnt.net |
 | ssl-idgbusiness.met.vgwort.de | ssl-idgbusiness.vgwort-de.2cnt.net |
 | ssl-idgmagazine.met.vgwort.de | ssl-idgmagazine.vgwort-de.2cnt.net |
+| ssl-kr.met.vgwort.de | ssl-kr.vgwort-de.2cnt.net |
+| ssl-ksta.met.vgwort.de | ssl-ksta.vgwort-de.2cnt.net |
 | ssl-nwb.met.vgwort.de | ssl-nwb.vgwort-de.2cnt.net |
 | ssl-rp-online.met.vgwort.de | ssl-rp-online.vgwort-de.2cnt.net |
 | ssl-t-online.met.vgwort.de | ssl-t-online.vgwort-de.2cnt.net |
@@ -274,6 +290,7 @@
 | sz.met.vgwort.de | sz.vgwort-de.2cnt.net |
 | tagesspiegel.met.vgwort.de | tagesspiegel.vgwort-de.2cnt.net |
 | taz.met.vgwort.de | taz.vgwort-de.2cnt.net |
+| thieme.met.vgwort.de | thieme.vgwort-de.2cnt.net |
 | tz.met.vgwort.de | tz.vgwort-de.2cnt.net |
 | vg00.met.vgwort.de | vg00.vgwort-de.2cnt.net |
 | vg01.met.vgwort.de | vg01.vgwort-de.2cnt.net |

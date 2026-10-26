@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792527585060        ; Serial
+           1793019754115        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -326,6 +326,7 @@ web.powgen.es CNAME .
 web.redazione.italiaoggi.it CNAME .
 web.redazione.milanofinanza.it CNAME .
 web.sensilab.at CNAME .
+web.sensilab.be CNAME .
 web.sensilab.com CNAME .
 web.sensilab.cz CNAME .
 web.sensilab.de CNAME .

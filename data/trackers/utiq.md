@@ -105,6 +105,7 @@
 | utiq.comunidadmsm.es | frontend.prod.utiq-aws.net |
 | utiq.corsematin.com | frontend.prod.utiq-aws.net |
 | utiq.courrier-picard.fr | frontend.prod.utiq-aws.net |
+| utiq.crossplan-deutschland.de | frontend.prod.utiq-aws.net |
 | utiq.cuerpomente.com | frontend.prod.utiq-aws.net |
 | utiq.cuisineactuelle.fr | frontend.prod.utiq-aws.net |
 | utiq.cz.de | frontend.prod.utiq-aws.net |
@@ -558,6 +559,7 @@
 | bgtfr-test.mno.link | frontend.test.utiq-aws.net |
 | dtpen-test.mno.link | frontend.test.utiq-aws.net |
 | esca-test.mno.link | frontend.test.utiq-aws.net |
+| fakexa-test.mno.link | frontend.test.utiq-aws.net |
 | logger-test.mno.link | frontend.test.utiq-aws.net |
 | orangefr-test.mno.link | frontend.test.utiq-aws.net |
 | utiq-test.utest1.work | frontend.test.utiq-aws.net |

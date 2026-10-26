@@ -71,6 +71,7 @@
 ||cdn.reviveservers.com^
 ||cdn.rlnads.net^
 ||championads.midtc.com^
+||console-thinkresult.revive-adserver.net^
 ||console.ad.logic-prod.viasat.io^
 ||console.ad.logic-test.viasat.io^
 ||console.ad.logic.viasat.io^

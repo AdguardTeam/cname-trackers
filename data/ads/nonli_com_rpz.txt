@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792534229022        ; Serial
+           1793024395472        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ buy.h24.news CNAME .
 c.leparisien.fr CNAME .
 ca-fr.h24.news CNAME .
 central.us.h24.news CNAME .
+cf-le-test.9to16.io CNAME .
 ch-fr.h24.news CNAME .
 client.h24.news CNAME .
 cms.h24.news CNAME .
@@ -31,11 +32,13 @@ confluence.h24.news CNAME .
 customer.h24.news CNAME .
 database.h24.news CNAME .
 de.h24.news CNAME .
+directory.co.h24.news CNAME .
 ec.h24.news CNAME .
 fitness.h24.news CNAME .
 flow-prod.h24.news CNAME .
 fr.h24.news CNAME .
 genai.h24.news CNAME .
+git.h24.news CNAME .
 go.3ds.com CNAME .
 go.france24.com CNAME .
 go.lenouveaudetective.com CNAME .
@@ -117,6 +120,7 @@ l.cuisineaz.com CNAME .
 l.cuisinezauquotidien.com CNAME .
 l.dailysports.fr CNAME .
 l.deco.fr CNAME .
+l.destimed.fr CNAME .
 l.diapasonmag.fr CNAME .
 l.directoalpaladar.com.mx CNAME .
 l.diverto.tv CNAME .
@@ -236,6 +240,7 @@ l.lemagauquotidien.com CNAME .
 l.lemoniteurdespharmacies.fr CNAME .
 l.lensois.com CNAME .
 l.leparisien.fr CNAME .
+l.lephoceen.fr CNAME .
 l.lepoint.fr CNAME .
 l.lepopulaire.fr CNAME .
 l.lequipe.fr CNAME .
@@ -274,6 +279,7 @@ l.medisite.fr CNAME .
 l.melty.fr CNAME .
 l.midilibre.fr CNAME .
 l.minhavida.com.br CNAME .
+l.moarty.com CNAME .
 l.modesettravaux.fr CNAME .
 l.monacomatin.mc CNAME .
 l.moselle.tv CNAME .
@@ -303,6 +309,7 @@ l.ozap.com CNAME .
 l.paris-jetequitte.com CNAME .
 l.paris-normandie.fr CNAME .
 l.paris-turf.com CNAME .
+l.parismatch.com CNAME .
 l.paroledemamans.com CNAME .
 l.passeportsante.net CNAME .
 l.peaches.fr CNAME .
@@ -355,6 +362,7 @@ l.tf1.fr CNAME .
 l.tf1info.fr CNAME .
 l.theafricareport.com CNAME .
 l.thegoodlife.fr CNAME .
+l.tierce-magazine.com CNAME .
 l.topmercato.com CNAME .
 l.topmusic.fr CNAME .
 l.topsante.com CNAME .
@@ -386,6 +394,7 @@ manage.h24.news CNAME .
 mobile.h24.news CNAME .
 mx3.h24.news CNAME .
 new.h24.news CNAME .
+nexus.h24.news CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
 panel.h24.news CNAME .

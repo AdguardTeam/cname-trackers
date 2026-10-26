@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792534229022        ; Serial
+           1793024395472        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,14 +11,16 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+td.deepsync.com CNAME .
+td.eatwsk.com CNAME .
+td.milkjamcreamery.com CNAME .
+td.myrthada.com CNAME .
 td.bestproducts.com CNAME .
 td.bicycling.com CNAME .
 td.caranddriver.com CNAME .
 td.cosmopolitan.com CNAME .
 td.countryliving.com CNAME .
-td.deepsync.com CNAME .
 td.delish.com CNAME .
-td.eatwsk.com CNAME .
 td.elle.com CNAME .
 td.elledecor.com CNAME .
 td.esquire.com CNAME .
@@ -26,8 +28,6 @@ td.goodhousekeeping.com CNAME .
 td.harpersbazaar.com CNAME .
 td.housebeautiful.com CNAME .
 td.menshealth.com CNAME .
-td.milkjamcreamery.com CNAME .
-td.myrthada.com CNAME .
 td.oprahdaily.com CNAME .
 td.popularmechanics.com CNAME .
 td.prevention.com CNAME .

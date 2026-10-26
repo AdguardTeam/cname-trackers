@@ -277,7 +277,6 @@ doporuc.krmimkvalitne.cz
 doporuc.necojakocola.cz
 doporuc.promujdomov.cz
 doporuc.shopiam4u.cz
-doporuc.slevomat.group
 doporucim.zjistitcenu.cz
 equilist.raj-ohlavek.cz
 hcbox.antiradary.net
@@ -657,6 +656,7 @@ partner.palstorm.cz
 partner.patchworkparty.cz
 partner.patchworkparty.sk
 partner.patizon.com
+partner.patrondeti.cz
 partner.perfect-dress.eu
 partner.pesar.cz
 partner.pinkasistent.sk
@@ -904,7 +904,6 @@ partneri.zaprovizi.cz
 partneri.zhubnichytre.cz
 partneri.zijchytre.cz
 partners.almaf.cz
-partners.bonyacademy.com
 partners.gingles.co
 partners.henrysmusic.com
 partners.lawofattraction.cz
@@ -970,6 +969,7 @@ spoluprace.vcelarstvi-domovina.cz
 spoluprace.vivobarefoot.cz
 udrzitelny-nakup.mydlia.cz
 udrzitelny-nakup.tierraverde.cz
+vpn.algomoneo.com
 vydelavejtesnami.pg.cz
 www.partner.hubatacernoska.cz
 www.partneri.zuzanaondrisova.sk

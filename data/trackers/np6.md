@@ -474,6 +474,7 @@
 | tr.forum.veuveclicquot.fr | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
 | tr.france.plimsoll.fr | tracking.bp01.net |
+| tr.freetrial.np6.com | tracking.bp01.net |
 | tr.futuramedia.fr | tracking.bp01.net |
 | tr.future-commerce.mhdfrance.fr | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
@@ -572,7 +573,6 @@
 | tr.info.parlons-incontinence.fr | tracking.bp01.net |
 | tr.info.perl.fr | tracking.bp01.net |
 | tr.info.ph-bpifrance.fr | tracking.bp01.net |
-| tr.info.phsolidaire-bpifrance.fr | tracking.bp01.net |
 | tr.info.pret-bpifrance.fr | tracking.bp01.net |
 | tr.info.pretflashtpe-bpifrance.fr | tracking.bp01.net |
 | tr.info.projeo-finance.fr | tracking.bp01.net |
@@ -586,6 +586,7 @@
 | tr.info.valfrejus.com | tracking.bp01.net |
 | tr.info.vip-mag.co.uk | tracking.bp01.net |
 | tr.info.webikeo.fr | tracking.bp01.net |
+| tr.infoclients.prevoir.com | tracking.bp01.net |
 | tr.infolettre.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.infolettres.groupama.com | tracking.bp01.net |
 | tr.infomarche.hennessy.fr | tracking.bp01.net |
@@ -630,6 +631,7 @@
 | tr.italia.plimsoll.it | tracking.bp01.net |
 | tr.jend.espmp-pofr.net | tracking.bp01.net |
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
+| tr.jeux-yvesrocher.fr | tracking.bp01.net |
 | tr.jevote.simplivote.fr | tracking.bp01.net |
 | tr.jevoteenligne.fr | tracking.bp01.net |
 | tr.jimb.espmp-cufr.net | tracking.bp01.net |
@@ -913,7 +915,6 @@
 | tr.news.vraaguwofferte.be | tracking.bp01.net |
 | tr.news.vraaguwofferte.com | tracking.bp01.net |
 | tr.news.xxl.fr | tracking.bp01.net |
-| tr.news.younited-coach.com | tracking.bp01.net |
 | tr.news.younited-credit.com | tracking.bp01.net |
 | tr.news2pjms.fr | tracking.bp01.net |
 | tr.news5.cdiscount.com | tracking.bp01.net |
@@ -1086,7 +1087,6 @@
 | tr.serviceclient.smecso.fr | tracking.bp01.net |
 | tr.serviceclient.somgaz.fr | tracking.bp01.net |
 | tr.serviceclient.thermogaz.fr | tracking.bp01.net |
-| tr.serviceclient.younited-coach.com | tracking.bp01.net |
 | tr.serviceclient.younited-credit.com | tracking.bp01.net |
 | tr.servicerisque.bforbank.com | tracking.bp01.net |
 | tr.services.caradisiac.com | tracking.bp01.net |

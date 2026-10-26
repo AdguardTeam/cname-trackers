@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792527585060        ; Serial
+           1793019754115        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -126,6 +126,7 @@ assets1.vero.com.au CNAME .
 attribution.batesfootwear.com CNAME .
 attribution.grasshoppers.com CNAME .
 attribution.hushpuppies.com CNAME .
+attribution.keds.com CNAME .
 attribution.lebara.com CNAME .
 attribution.sperry.com CNAME .
 attribution.tescomobile.com CNAME .
@@ -172,6 +173,7 @@ cookies.jll.com.br CNAME .
 cookies.jll.com.co CNAME .
 cookies.jll.com.hk CNAME .
 cookies.jll.com.lk CNAME .
+cookies.jll.com.mo CNAME .
 cookies.jll.com.mx CNAME .
 cookies.jll.com.my CNAME .
 cookies.jll.com.ph CNAME .
@@ -298,6 +300,7 @@ p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
+privacy-digital.ascentric.co.uk CNAME .
 privacy-digital.diip.co.uk CNAME .
 privacy-digital.infracapital.co.uk CNAME .
 privacy-digital.mandg.com CNAME .

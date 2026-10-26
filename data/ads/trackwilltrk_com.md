@@ -58,4 +58,5 @@
 | t.trckforge.site | r.trackwilltrk.com |
 | t.trcktr.com | r.trackwilltrk.com |
 | t.trkav.name | r.trackwilltrk.com |
+| t.vectortrck.uno | r.trackwilltrk.com |
 | t.wintrck.com | r.trackwilltrk.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792527583227        ; Serial
+           1793018717010        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -69,6 +69,7 @@ s.dsdgtf.com CNAME .
 s.dsdnhj.com CNAME .
 s.dsdpnx.com CNAME .
 s.dsdria.com CNAME .
+s.dsdwlk.com CNAME .
 s.dsdxyk.com CNAME .
 s.dsdxyl.com CNAME .
 s.dseedc.com CNAME .
@@ -111,6 +112,7 @@ s.dsimnq.com CNAME .
 s.dsivor.com CNAME .
 s.dsixzz.com CNAME .
 s.dsjbna.com CNAME .
+s.dsjdyv.com CNAME .
 s.dsjejt.com CNAME .
 s.dsjggm.com CNAME .
 s.dsjmjv.com CNAME .
@@ -168,6 +170,7 @@ s.dspyzx.com CNAME .
 s.dsqcfy.com CNAME .
 s.dsqdbi.com CNAME .
 s.dsqgga.com CNAME .
+s.dsqgyn.com CNAME .
 s.dsqjkc.com CNAME .
 s.dsqlyc.com CNAME .
 s.dsqnnx.com CNAME .
@@ -197,6 +200,7 @@ s.dsttcr.com CNAME .
 s.dsttpi.com CNAME .
 s.dsucet.com CNAME .
 s.dsuhyg.com CNAME .
+s.dsuije.com CNAME .
 s.dsujvd.com CNAME .
 s.dsumyd.com CNAME .
 s.dsungi.com CNAME .
@@ -294,8 +298,10 @@ s.jxjlbgxxov.com CNAME .
 s.jxkwmejcxw.com CNAME .
 s.jxwaghvsdx.com CNAME .
 s.jzuivotw.com CNAME .
+s.kfcupwsdhu.com CNAME .
 s.kofopib.com CNAME .
 s.kqnoczl.com CNAME .
+s.kvkqwgbgw.com CNAME .
 s.kxencag.com CNAME .
 s.lanpeatced.com CNAME .
 s.lkdykbudv.com CNAME .
@@ -333,6 +339,7 @@ s.sflryh.com CNAME .
 s.sjmhrsauof.com CNAME .
 s.skiqyd.com CNAME .
 s.smazuntm.com CNAME .
+s.srabwiroq.com CNAME .
 s.ssafzpcia.com CNAME .
 s.svzpgxz.com CNAME .
 s.thgqdglxj.com CNAME .

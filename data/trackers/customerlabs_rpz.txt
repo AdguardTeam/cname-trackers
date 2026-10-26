@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792532422159        ; Serial
+           1793019754115        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,6 +30,7 @@ gslclvw.lackorecouture.com CNAME .
 hnvrprl.getmainelobster.com CNAME .
 hodhvai.goodbodyclinic.com CNAME .
 ijgtudf.kozii.com CNAME .
+ivgsktp.sartoro.co CNAME .
 kpdignp.trumerholz.com CNAME .
 lumhdco.mykitsch.com CNAME .
 msnpurf.themjewelersny.com CNAME .

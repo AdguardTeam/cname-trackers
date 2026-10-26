@@ -443,6 +443,7 @@
 ||tr.forum.veuveclicquot.fr^
 ||tr.fr.pro.accor.com^
 ||tr.france.plimsoll.fr^
+||tr.freetrial.np6.com^
 ||tr.futuramedia.fr^
 ||tr.future-commerce.mhdfrance.fr^
 ||tr.futurecommerce.moethennessy.com^
@@ -541,7 +542,6 @@
 ||tr.info.parlons-incontinence.fr^
 ||tr.info.perl.fr^
 ||tr.info.ph-bpifrance.fr^
-||tr.info.phsolidaire-bpifrance.fr^
 ||tr.info.pret-bpifrance.fr^
 ||tr.info.pretflashtpe-bpifrance.fr^
 ||tr.info.projeo-finance.fr^
@@ -555,6 +555,7 @@
 ||tr.info.valfrejus.com^
 ||tr.info.vip-mag.co.uk^
 ||tr.info.webikeo.fr^
+||tr.infoclients.prevoir.com^
 ||tr.infolettre.securite-routiere.gouv.fr^
 ||tr.infolettres.groupama.com^
 ||tr.infomarche.hennessy.fr^
@@ -599,6 +600,7 @@
 ||tr.italia.plimsoll.it^
 ||tr.jend.espmp-pofr.net^
 ||tr.jesuis.enformedelotus.com^
+||tr.jeux-yvesrocher.fr^
 ||tr.jevote.simplivote.fr^
 ||tr.jevoteenligne.fr^
 ||tr.jimb.espmp-cufr.net^
@@ -882,7 +884,6 @@
 ||tr.news.vraaguwofferte.be^
 ||tr.news.vraaguwofferte.com^
 ||tr.news.xxl.fr^
-||tr.news.younited-coach.com^
 ||tr.news.younited-credit.com^
 ||tr.news2pjms.fr^
 ||tr.news5.cdiscount.com^
@@ -1055,7 +1056,6 @@
 ||tr.serviceclient.smecso.fr^
 ||tr.serviceclient.somgaz.fr^
 ||tr.serviceclient.thermogaz.fr^
-||tr.serviceclient.younited-coach.com^
 ||tr.serviceclient.younited-credit.com^
 ||tr.servicerisque.bforbank.com^
 ||tr.services.caradisiac.com^

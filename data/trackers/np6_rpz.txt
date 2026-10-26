@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792531593704        ; Serial
+           1793016595541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -454,6 +454,7 @@ tr.fortuneo.com CNAME .
 tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
+tr.freetrial.np6.com CNAME .
 tr.futuramedia.fr CNAME .
 tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
@@ -552,7 +553,6 @@ tr.info.onboarding.corporatecards.bnpparibas CNAME .
 tr.info.parlons-incontinence.fr CNAME .
 tr.info.perl.fr CNAME .
 tr.info.ph-bpifrance.fr CNAME .
-tr.info.phsolidaire-bpifrance.fr CNAME .
 tr.info.pret-bpifrance.fr CNAME .
 tr.info.pretflashtpe-bpifrance.fr CNAME .
 tr.info.projeo-finance.fr CNAME .
@@ -566,6 +566,7 @@ tr.info.valcenis.com CNAME .
 tr.info.valfrejus.com CNAME .
 tr.info.vip-mag.co.uk CNAME .
 tr.info.webikeo.fr CNAME .
+tr.infoclients.prevoir.com CNAME .
 tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.infolettres.groupama.com CNAME .
 tr.infomarche.hennessy.fr CNAME .
@@ -610,6 +611,7 @@ tr.it4brands-com.moethennessy.com CNAME .
 tr.italia.plimsoll.it CNAME .
 tr.jend.espmp-pofr.net CNAME .
 tr.jesuis.enformedelotus.com CNAME .
+tr.jeux-yvesrocher.fr CNAME .
 tr.jevote.simplivote.fr CNAME .
 tr.jevoteenligne.fr CNAME .
 tr.jimb.espmp-cufr.net CNAME .
@@ -893,7 +895,6 @@ tr.news.voyamar.fr CNAME .
 tr.news.vraaguwofferte.be CNAME .
 tr.news.vraaguwofferte.com CNAME .
 tr.news.xxl.fr CNAME .
-tr.news.younited-coach.com CNAME .
 tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
 tr.news5.cdiscount.com CNAME .
@@ -1066,7 +1067,6 @@ tr.serviceclient.ochauffage.fr CNAME .
 tr.serviceclient.smecso.fr CNAME .
 tr.serviceclient.somgaz.fr CNAME .
 tr.serviceclient.thermogaz.fr CNAME .
-tr.serviceclient.younited-coach.com CNAME .
 tr.serviceclient.younited-credit.com CNAME .
 tr.servicerisque.bforbank.com CNAME .
 tr.services.caradisiac.com CNAME .

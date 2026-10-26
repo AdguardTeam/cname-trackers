@@ -113,13 +113,15 @@
 ||businessreferrals.lumen.com^
 ||circleofjoy.circlesurrogacy.com^
 ||demo.extole.com^
+||dev.refer.forddrive.com^
 ||earn-and-refer.extoleu.com^
-||em2279.referral.quickbooks.co.uk^
 ||em2287.theory.com^
 ||em3007.wagwalking.com^
 ||em4504.mail.raf.xfinity.com^
 ||em5230.rewards.dailypay.com^
 ||em5231.mail.propertyperks.xfinity.com^
+||em5807.turbotax.refer.intuit.com^
+||em767.forgetrust.com^
 ||em7952.dailypay.com^
 ||em8031.soundcloud.com^
 ||em8642.notifications.acorns.com^
@@ -129,7 +131,6 @@
 ||friends.uvacreditunion.org^
 ||gabbie.extoleu.com^
 ||get.lull.com^
-||gift.getfreed.ai^
 ||go.joinsizigi.com^
 ||groomrefer.petco.com^
 ||indique-um-amigo.hostgator.com.br^
@@ -143,9 +144,11 @@
 ||loyalty.glowbar.com^
 ||my.kotn.com^
 ||offers.wecu.com^
+||ollama.extoleu.com^
 ||owncloud.extoleu.com^
 ||pals.petco.com^
 ||parrainage.dyson.fr^
+||pfsense.extoleu.com^
 ||prepod.refer.intuit.com^
 ||promos.zinli.com^
 ||propertyperks.xfinity.com^
@@ -233,6 +236,7 @@
 ||refer.ez2290.com^
 ||refer.fahw.com^
 ||refer.familysavingscu.com^
+||refer.fandangonow.com^
 ||refer.fellahealth.co.uk^
 ||refer.fellahealth.com^
 ||refer.firstaidbeauty.com^
@@ -744,6 +748,7 @@
 ||share.studiosashiko.com^
 ||share.sturgisjournal.com^
 ||share.suffolkcu.org^
+||share.summitcreditunion.com^
 ||share.sundaysfordogs.com^
 ||share.suneast.org^
 ||share.swordhealth.com^
@@ -799,8 +804,10 @@
 ||share.zenbusiness.com^
 ||shareflightpass.alaskaair.com^
 ||stgreferral.moneybase.com^
+||superset.extoleu.com^
 ||surrogatereferral.growinggenerations.com^
 ||ufsmdjkg1zhzcx9i.extoleu.com^
+||waf.extoleu.com^
 ||www.extoleu.com^
 ||www.parrainage-quickbooks.fr^
 ||www.refer.marinerfinance.com^
@@ -812,10 +819,9 @@
 ||www.styleitforwardreward.com^
 ||em1476.princesscruises.com^
 ||em225.codecademy.com^
+||em2279.referral.quickbooks.co.uk^
 ||em4367.raf-studentloans.discover.com^
-||em5807.turbotax.refer.intuit.com^
 ||em7147.love.suncoastcreditunion.com^
-||em767.forgetrust.com^
 ||em8561.go2bank.com^
 ||em8928.em.petco.com^
 ||em9129.lightstream.com^

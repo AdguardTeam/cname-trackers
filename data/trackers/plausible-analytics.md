@@ -20,7 +20,6 @@
 | ana.grumpygamer.com | custom.plausible.io |
 | analytics.adam.page | custom.plausible.io |
 | analytics.andrewsmith.com.au | custom.plausible.io |
-| analytics.arunraghavan.net | custom.plausible.io |
 | analytics.betterplaces.nl | custom.plausible.io |
 | analytics.certifriedit.com | custom.plausible.io |
 | analytics.churchthemes.com | custom.plausible.io |
@@ -77,7 +76,6 @@
 | ds.webprojectslab.com | custom.plausible.io |
 | eliteclng.ericksonbuilt.com | custom.plausible.io |
 | events.mikescerealshack.co | custom.plausible.io |
-| explore.bytelab.uk | custom.plausible.io |
 | extramilefloorcare.ericksonbuilt.com | custom.plausible.io |
 | galop.leferacheval-saintcloud.com | custom.plausible.io |
 | hi.baudot.io | custom.plausible.io |
@@ -542,7 +540,6 @@
 | stats.orbitalhealth.co | custom.plausible.io |
 | stats.ordinarypuzzles.com | custom.plausible.io |
 | stats.ortussolutions.com | custom.plausible.io |
-| stats.osiemsiedem.com | custom.plausible.io |
 | stats.osteo-kessler.de | custom.plausible.io |
 | stats.otsohavanto.net | custom.plausible.io |
 | stats.ownpath.xyz | custom.plausible.io |

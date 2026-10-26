@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792531593704        ; Serial
+           1793019754115        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -75,6 +75,7 @@ insights.sport1.de CNAME .
 iris.reparstores.com CNAME .
 johannes.voith.com CNAME .
 kiki.rireetchansons.fr CNAME .
+kvfqewz.pileje.fr CNAME .
 lem.nouvelobs.com CNAME .
 leo.goplay.be CNAME .
 leo.play.tv CNAME .
@@ -85,6 +86,7 @@ musique.puydufou.com CNAME .
 orchestre.macif.fr CNAME .
 pa.belantis.de CNAME .
 pa.bellewaerde.be CNAME .
+pa.centrefrance.com CNAME .
 pa.familypark.at CNAME .
 pa.franceminiature.fr CNAME .
 pa.futuroscope.com CNAME .

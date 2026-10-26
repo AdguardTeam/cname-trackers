@@ -66,6 +66,7 @@
     * iris-reparstores-com-cddc.at-o.net
     * johannes-voith-com-cddc.at-o.net
     * kiki-rireetchansons-fr-cddc.at-o.net
+    * kvfqewz-pileje-fr-cddc.at-o.net
     * lem-nouvelobs-com-cddc.at-o.net
     * leo-goplay-be-cddc.at-o.net
     * leo-play-tv-cddc.at-o.net
@@ -76,6 +77,7 @@
     * orchestre-macif-fr-cddc.at-o.net
     * pa-belantis-de-cddc.at-o.net
     * pa-bellewaerde-be-cddc.at-o.net
+    * pa-centrefrance-com-cddc.at-o.net
     * pa-familypark-at-cddc.at-o.net
     * pa-franceminiature-fr-cddc.at-o.net
     * pa-futuroscope-com-cddc.at-o.net
@@ -224,6 +226,7 @@
 | iris.reparstores.com | iris-reparstores-com-cddc.at-o.net |
 | johannes.voith.com | johannes-voith-com-cddc.at-o.net |
 | kiki.rireetchansons.fr | kiki-rireetchansons-fr-cddc.at-o.net |
+| kvfqewz.pileje.fr | kvfqewz-pileje-fr-cddc.at-o.net |
 | lem.nouvelobs.com | lem-nouvelobs-com-cddc.at-o.net |
 | leo.goplay.be | leo-goplay-be-cddc.at-o.net |
 | leo.play.tv | leo-play-tv-cddc.at-o.net |
@@ -234,6 +237,7 @@
 | orchestre.macif.fr | orchestre-macif-fr-cddc.at-o.net |
 | pa.belantis.de | pa-belantis-de-cddc.at-o.net |
 | pa.bellewaerde.be | pa-bellewaerde-be-cddc.at-o.net |
+| pa.centrefrance.com | pa-centrefrance-com-cddc.at-o.net |
 | pa.familypark.at | pa-familypark-at-cddc.at-o.net |
 | pa.franceminiature.fr | pa-franceminiature-fr-cddc.at-o.net |
 | pa.futuroscope.com | pa-futuroscope-com-cddc.at-o.net |

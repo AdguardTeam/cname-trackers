@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792527583227        ; Serial
+           1793013638746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -288,7 +288,6 @@ doporuc.krmimkvalitne.cz CNAME .
 doporuc.necojakocola.cz CNAME .
 doporuc.promujdomov.cz CNAME .
 doporuc.shopiam4u.cz CNAME .
-doporuc.slevomat.group CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
 hcbox.antiradary.net CNAME .
@@ -668,6 +667,7 @@ partner.palstorm.cz CNAME .
 partner.patchworkparty.cz CNAME .
 partner.patchworkparty.sk CNAME .
 partner.patizon.com CNAME .
+partner.patrondeti.cz CNAME .
 partner.perfect-dress.eu CNAME .
 partner.pesar.cz CNAME .
 partner.pinkasistent.sk CNAME .
@@ -915,7 +915,6 @@ partneri.zaprovizi.cz CNAME .
 partneri.zhubnichytre.cz CNAME .
 partneri.zijchytre.cz CNAME .
 partners.almaf.cz CNAME .
-partners.bonyacademy.com CNAME .
 partners.gingles.co CNAME .
 partners.henrysmusic.com CNAME .
 partners.lawofattraction.cz CNAME .
@@ -981,6 +980,7 @@ spoluprace.vcelarstvi-domovina.cz CNAME .
 spoluprace.vivobarefoot.cz CNAME .
 udrzitelny-nakup.mydlia.cz CNAME .
 udrzitelny-nakup.tierraverde.cz CNAME .
+vpn.algomoneo.com CNAME .
 vydelavejtesnami.pg.cz CNAME .
 www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .

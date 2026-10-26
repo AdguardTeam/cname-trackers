@@ -79,7 +79,6 @@
     * livingmag-console.aquaplatform.com
     * livingmag-delivery.aquaplatform.com
     * livingmag-static.aquaplatform.com
-    * localmatchmaker-console.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
     * localmatchmaker-static.aquaplatform.com
     * mannix-api.aquaplatform.com
@@ -309,7 +308,6 @@
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | www.static.livingmagonline.com | livingmag-static.aquaplatform.com |
-| console.rlnads.net | localmatchmaker-console.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
 | ad-api.mannixmarketing.com | mannix-api.aquaplatform.com |
@@ -432,6 +430,7 @@
 | www.cdn.metrike.com | reservoir.aquaplatform.com |
 | adconsole.sniffies.com | revivehosted-console.aquaplatform.com |
 | api.revive-adserver.net | revivehosted-console.aquaplatform.com |
+| console-thinkresult.revive-adserver.net | revivehosted-console.aquaplatform.com |
 | console.cricketworld.com | revivehosted-console.aquaplatform.com |
 | console.falconstudios.com | revivehosted-console.aquaplatform.com |
 | console.isn.nl | revivehosted-console.aquaplatform.com |

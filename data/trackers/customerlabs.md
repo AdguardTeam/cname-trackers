@@ -22,6 +22,7 @@
     * hnvrprl.customers.1p-data.co
     * hodhvai.customers.1p-data.co
     * ijgtudf.customers.1p-data.co
+    * ivgsktp.customers.1p-data.co
     * kpdignp.customers.1p-data.co
     * lumhdco.customers.1p-data.co
     * msnpurf.customers.1p-data.co
@@ -69,6 +70,7 @@
 | hnvrprl.getmainelobster.com | hnvrprl.customers.1p-data.co |
 | hodhvai.goodbodyclinic.com | hodhvai.customers.1p-data.co |
 | ijgtudf.kozii.com | ijgtudf.customers.1p-data.co |
+| ivgsktp.sartoro.co | ivgsktp.customers.1p-data.co |
 | kpdignp.trumerholz.com | kpdignp.customers.1p-data.co |
 | lumhdco.mykitsch.com | lumhdco.customers.1p-data.co |
 | msnpurf.themjewelersny.com | msnpurf.customers.1p-data.co |

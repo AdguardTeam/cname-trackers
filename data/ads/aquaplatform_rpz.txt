@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792532422159        ; Serial
+           1793013638746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -82,6 +82,7 @@ cdn.revive-adserver.net CNAME .
 cdn.reviveservers.com CNAME .
 cdn.rlnads.net CNAME .
 championads.midtc.com CNAME .
+console-thinkresult.revive-adserver.net CNAME .
 console.ad.logic-prod.viasat.io CNAME .
 console.ad.logic-test.viasat.io CNAME .
 console.ad.logic.viasat.io CNAME .

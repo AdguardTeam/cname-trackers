@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792531593704        ; Serial
+           1793016595541        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -158,6 +158,7 @@ aesus.so-net.ne.jp CNAME .
 analyse.hinemos.info CNAME .
 analytics.pcnext.shop CNAME .
 axjfkc.kobayashi.co.jp CNAME .
+bbb.aqualink.ink CNAME .
 bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
 c.cbdselect.shop CNAME .
@@ -211,6 +212,7 @@ cs2087sbeda.aspex.co.jp CNAME .
 cs2087sbeda.haken-kanri.net CNAME .
 cs2087sbeda.manage-tempstaffing.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
+cv-adebis.ca-japan.org CNAME .
 cv-adebis.my-studies.net CNAME .
 cv-adebis.nlp-coaching.co.jp CNAME .
 cv-adebis.nlpjapan.co.jp CNAME .

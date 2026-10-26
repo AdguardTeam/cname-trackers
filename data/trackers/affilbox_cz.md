@@ -304,7 +304,6 @@
 | doporuc.necojakocola.cz | cz.affilbox.cz |
 | doporuc.promujdomov.cz | cz.affilbox.cz |
 | doporuc.shopiam4u.cz | cz.affilbox.cz |
-| doporuc.slevomat.group | cz.affilbox.cz |
 | doporucim.zjistitcenu.cz | cz.affilbox.cz |
 | equilist.raj-ohlavek.cz | cz.affilbox.cz |
 | hcbox.antiradary.net | cz.affilbox.cz |
@@ -684,6 +683,7 @@
 | partner.patchworkparty.cz | cz.affilbox.cz |
 | partner.patchworkparty.sk | cz.affilbox.cz |
 | partner.patizon.com | cz.affilbox.cz |
+| partner.patrondeti.cz | cz.affilbox.cz |
 | partner.perfect-dress.eu | cz.affilbox.cz |
 | partner.pesar.cz | cz.affilbox.cz |
 | partner.pinkasistent.sk | cz.affilbox.cz |
@@ -931,7 +931,6 @@
 | partneri.zhubnichytre.cz | cz.affilbox.cz |
 | partneri.zijchytre.cz | cz.affilbox.cz |
 | partners.almaf.cz | cz.affilbox.cz |
-| partners.bonyacademy.com | cz.affilbox.cz |
 | partners.gingles.co | cz.affilbox.cz |
 | partners.henrysmusic.com | cz.affilbox.cz |
 | partners.lawofattraction.cz | cz.affilbox.cz |
@@ -997,6 +996,7 @@
 | spoluprace.vivobarefoot.cz | cz.affilbox.cz |
 | udrzitelny-nakup.mydlia.cz | cz.affilbox.cz |
 | udrzitelny-nakup.tierraverde.cz | cz.affilbox.cz |
+| vpn.algomoneo.com | cz.affilbox.cz |
 | vydelavejtesnami.pg.cz | cz.affilbox.cz |
 | www.partner.hubatacernoska.cz | cz.affilbox.cz |
 | www.partneri.zuzanaondrisova.sk | cz.affilbox.cz |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792532422159        ; Serial
+           1793019754115        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,15 +14,26 @@ $TTL 300
 fpa-api.adweek.com CNAME .
 fpa-api.arstechnica.com CNAME .
 fpa-api.golfdigest.com CNAME .
+fpa-api.missionlocal.org CNAME .
+fpa-api.prideofdetroit.com CNAME .
+fpa-api.rollingstone.com CNAME .
 fpa-api.sportstravelmagazine.com CNAME .
 fpa-api.thecityreporter.nyc CNAME .
+fpa-api.thetrace.org CNAME .
+fpa-api.travelagewest.com CNAME .
+fpa-api.travelpulse.ca CNAME .
+fpa-api.travelpulsequebec.ca CNAME .
+fpa-api.travelweekly.com CNAME .
 fpa-cdn.adweek.com CNAME .
+fpa-cdn.amimagazine.global CNAME .
 fpa-cdn.amontalenti.com CNAME .
 fpa-cdn.apollo-magazine.com CNAME .
 fpa-cdn.arstechnica.com CNAME .
 fpa-cdn.atozsports.com CNAME .
+fpa-cdn.businesstravelnews.com CNAME .
 fpa-cdn.centralmaine.com CNAME .
 fpa-cdn.cfr.org CNAME .
+fpa-cdn.chinaopensourceobservatory.org CNAME .
 fpa-cdn.chronicle.com CNAME .
 fpa-cdn.dailymemphian.com CNAME .
 fpa-cdn.decrypt.co CNAME .
@@ -48,15 +59,19 @@ fpa-cdn.spectator.com.au CNAME .
 fpa-cdn.tampabay28.com CNAME .
 fpa-cdn.texasmonthly.com CNAME .
 fpa-cdn.thedailybeast.com CNAME .
+fpa-cdn.themarshallproject.org CNAME .
 fpa-cdn.thetrace.org CNAME .
 fpa-cdn.thinkglobalhealth.org CNAME .
 fpa-cdn.today.com CNAME .
+fpa-cdn.travelagentacademy.com CNAME .
+fpa-cdn.travelagewest.com CNAME .
 fpa-events.adweek.com CNAME .
 fpa-events.apollo-magazine.com CNAME .
 fpa-events.arstechnica.com CNAME .
 fpa-events.atozsports.com CNAME .
 fpa-events.centralmaine.com CNAME .
 fpa-events.cfr.org CNAME .
+fpa-events.chinaopensourceobservatory.org CNAME .
 fpa-events.chronicle.com CNAME .
 fpa-events.dailymemphian.com CNAME .
 fpa-events.decrypt.co CNAME .
@@ -82,6 +97,10 @@ fpa-events.sunjournal.com CNAME .
 fpa-events.tampabay28.com CNAME .
 fpa-events.texasmonthly.com CNAME .
 fpa-events.thedailybeast.com CNAME .
+fpa-events.themarshallproject.org CNAME .
 fpa-events.thetrace.org CNAME .
 fpa-events.thinkglobalhealth.org CNAME .
 fpa-events.today.com CNAME .
+fpa-events.travelagentacademy.com CNAME .
+fpa-events.travelweekly-asia.com CNAME .
+fpa-events.travelweekly.com CNAME .

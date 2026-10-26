@@ -57,6 +57,7 @@
 | community.jerseyshoreonline.com | bs-adserver.b-cdn.net |
 | community.noozhawk.com | bs-adserver.b-cdn.net |
 | community.richlandsource.com | bs-adserver.b-cdn.net |
+| connect.spacenews.com | bs-adserver.b-cdn.net |
 | connected.ashrae.org | bs-adserver.b-cdn.net |
 | connected.county10.com | bs-adserver.b-cdn.net |
 | daily.abasto.com | bs-adserver.b-cdn.net |
@@ -213,7 +214,6 @@
 | bird.brondby.com | deprecated-custom-domains.b-cdn.net |
 | bird.webitizevoice.com | deprecated-custom-domains.b-cdn.net |
 | bison.ainslieart.com | deprecated-custom-domains.b-cdn.net |
-| bison.joshhanley.com.au | deprecated-custom-domains.b-cdn.net |
 | bison.stuffmatic.com | deprecated-custom-domains.b-cdn.net |
 | bison.weitweit.at | deprecated-custom-domains.b-cdn.net |
 | blackbird.docstation.co | deprecated-custom-domains.b-cdn.net |
@@ -225,7 +225,6 @@
 | boa.auaesthetics.com | deprecated-custom-domains.b-cdn.net |
 | boar.hopehollow.com | deprecated-custom-domains.b-cdn.net |
 | boar.indieweb.org | deprecated-custom-domains.b-cdn.net |
-| boar.kostholdsveilederen.no | deprecated-custom-domains.b-cdn.net |
 | bobcat.pronounce.technology | deprecated-custom-domains.b-cdn.net |
 | bobcat.snapshooter.io | deprecated-custom-domains.b-cdn.net |
 | bonobo.nola.today | deprecated-custom-domains.b-cdn.net |
@@ -309,7 +308,6 @@
 | coyote.txet.ch | deprecated-custom-domains.b-cdn.net |
 | crab.dunkeldbutchers.co.uk | deprecated-custom-domains.b-cdn.net |
 | crane.auctic.com | deprecated-custom-domains.b-cdn.net |
-| crane.maggsgroup.com | deprecated-custom-domains.b-cdn.net |
 | crawdad.craiga.id.au | deprecated-custom-domains.b-cdn.net |
 | crawdad.dillonerhardt.com | deprecated-custom-domains.b-cdn.net |
 | crawdad.impacttk.com | deprecated-custom-domains.b-cdn.net |
@@ -450,7 +448,6 @@
 | harrier.haircation.com | deprecated-custom-domains.b-cdn.net |
 | harrier.progress.fyi | deprecated-custom-domains.b-cdn.net |
 | hawk.makroskop.eu | deprecated-custom-domains.b-cdn.net |
-| hawk.mjsarfatti.com | deprecated-custom-domains.b-cdn.net |
 | hedgehog.fightforthefuture.org | deprecated-custom-domains.b-cdn.net |
 | heron.joel.is | deprecated-custom-domains.b-cdn.net |
 | heron.notability.com | deprecated-custom-domains.b-cdn.net |
@@ -810,7 +807,6 @@
 | swordtail.hnh.digital | deprecated-custom-domains.b-cdn.net |
 | swordtail.rockface.io | deprecated-custom-domains.b-cdn.net |
 | t0ikowg7jg.serverlesslaravelcourse.com | deprecated-custom-domains.b-cdn.net |
-| tahr.componentsui.com | deprecated-custom-domains.b-cdn.net |
 | tahr.happydev.fm | deprecated-custom-domains.b-cdn.net |
 | tahr.rasen.dev | deprecated-custom-domains.b-cdn.net |
 | takin.cors.digital | deprecated-custom-domains.b-cdn.net |
@@ -883,7 +879,6 @@
 | whippet.miniforetak.no | deprecated-custom-domains.b-cdn.net |
 | whitefish.antonopoulos-stores.gr | deprecated-custom-domains.b-cdn.net |
 | whitefish.autharmor.com | deprecated-custom-domains.b-cdn.net |
-| whitefish.johnsandtaylor.com | deprecated-custom-domains.b-cdn.net |
 | whitefish.kenku.fm | deprecated-custom-domains.b-cdn.net |
 | wildcat.fspy.io | deprecated-custom-domains.b-cdn.net |
 | wildcat.longviewforecasting.com | deprecated-custom-domains.b-cdn.net |
@@ -922,6 +917,7 @@
 | icon.eu.ptmnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.rfxmnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.twrmnd.com | impressions-ico-eu.b-cdn.net |
+| media.masque.com | masque-ads.b-cdn.net |
 | matomo-cdn-bunny.ramsalt.com | matomo.b-cdn.net |
 | metrics.aspose.com | metrics-aspose-com.b-cdn.net |
 | metrics.groupdocs.com | metrics-groupdocs-com.b-cdn.net |
@@ -946,10 +942,10 @@
 | cdn.bhlph.com | popcashjs.b-cdn.net |
 | cdn.bnmkl.com | popcashjs.b-cdn.net |
 | cdn.borhaj.com | popcashjs.b-cdn.net |
-| cdn.buram.xyz | popcashjs.b-cdn.net |
 | cdn.caahwq.com | popcashjs.b-cdn.net |
 | cdn.calcpol.com | popcashjs.b-cdn.net |
 | cdn.cjlph.com | popcashjs.b-cdn.net |
+| cdn.cjrlsw.info | popcashjs.b-cdn.net |
 | cdn.clbaf.com | popcashjs.b-cdn.net |
 | cdn.crsope.com | popcashjs.b-cdn.net |
 | cdn.cryjun.com | popcashjs.b-cdn.net |

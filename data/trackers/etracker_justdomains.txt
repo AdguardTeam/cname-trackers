@@ -234,6 +234,7 @@ metrics.treudelberg-resort.com
 metrics.ultra-med.de
 metrics.vorreiter-hotels.com
 metrics.walter-cmp.de
+metrics.zapfhahn.de
 metrics.zaun-star.com
 mktg.activemind.legal
 monitoring.medizinbedarf.eu
@@ -292,6 +293,7 @@ stats.pilz.com
 stats.rumundco.de
 stats.salzburgerjobs.at
 stats.seesteg-norderney.de
+stats.sew-eurodrive.com
 stats.steirerjobs.at
 stats.suedtirolerjobs.it
 stats.tirolerjobs.at
@@ -301,6 +303,7 @@ stats.vorarlbergerjobs.at
 stats.wasserfilteroase.de
 stats.wienerjobs.at
 stgstats.die-bibel.de
+strapi.onofficeom.com
 stream.joe-nimble.com
 sun.solar-haus.de
 system.affiliate-marketing-hamburg.de
@@ -464,6 +467,7 @@ webcontr.pegasus-actuators.com
 webcontr.prokon.energy
 webcontr.reisprinzen.de
 webcontr.renovaid.de
+webcontr.rheinenergie-trading.com
 webcontr.rheinenergie.com
 webcontr.roewa.com
 webcontr.rollytoys.de
@@ -557,7 +561,9 @@ webstt0077.onofficeom.com
 webstt0078.onofficeom.com
 webstt0079.onofficeom.com
 webstt0083.onofficeom.com
+webstt0086.onofficeom.com
 webstt0090.onofficeom.com
+webstt0094.onofficeom.com
 webstt0096.onofficeom.com
 webstt0102.onofficeom.com
 webstt0103.onofficeom.com

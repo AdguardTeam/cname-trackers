@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792527585060        ; Serial
+           1793018717010        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,3 +11,64 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+a.aimlroles.com CNAME .
+a.benchlm.ai CNAME .
+a.biblemarriages.org CNAME .
+a.blazehive.io CNAME .
+a.clearbarmac.app CNAME .
+a.dailygram.me CNAME .
+a.devopsroles.co CNAME .
+a.dropcourse.com CNAME .
+a.edepost.ro CNAME .
+a.faceless.so CNAME .
+a.financeroles.co CNAME .
+a.fivemonitor.com CNAME .
+a.fontpair.co CNAME .
+a.gbpn.com CNAME .
+a.growthroles.com CNAME .
+a.hanooot.com CNAME .
+a.jjgerrish.com CNAME .
+a.kolayimar.com CNAME .
+a.mailyond.com CNAME .
+a.meeters.org CNAME .
+a.minecraftafk.com CNAME .
+a.oviowellness.com CNAME .
+a.poster.ly CNAME .
+a.prototable.gg CNAME .
+a.pssale.ru CNAME .
+a.refgrow.com CNAME .
+a.salonsenfrance.fr CNAME .
+a.sitegpt.ai CNAME .
+a.solta.now CNAME .
+a.squad.so CNAME .
+a.stashr.me CNAME .
+a.stealthseller.co CNAME .
+a.studyquest.app CNAME .
+a.subtrends.io CNAME .
+a.trustmrr.com CNAME .
+a.tweetapi.com CNAME .
+a.useratio.app CNAME .
+a.vocalize.fm CNAME .
+a.vodmora.com CNAME .
+a.wannathis.one CNAME .
+a.waveup.com CNAME .
+a.webclaw.io CNAME .
+analytics.enxovaly.com CNAME .
+b.ra8m.com CNAME .
+b.resolvr.com CNAME .
+cdn.gratitude-journal.dayruler.mx CNAME .
+cdn.hypeproxies.com CNAME .
+cdn.pinpasta.hehe.studio CNAME .
+cdn.proxyon.io CNAME .
+croissant.adkit.so CNAME .
+d.salaryindex.ng CNAME .
+df.ocasta.com CNAME .
+df.shadcnstudio.com CNAME .
+df.sumly.cy CNAME .
+df.workin.space CNAME .
+dtf.capgo.app CNAME .
+dtfst.goblin.tools CNAME .
+i.verbatik.com CNAME .
+proxy.arkangel.ai CNAME .
+t.briandoylewealth.com CNAME .
+v9pc.sparkl.gg CNAME .

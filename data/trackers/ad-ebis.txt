@@ -147,6 +147,7 @@
 ||analyse.hinemos.info^
 ||analytics.pcnext.shop^
 ||axjfkc.kobayashi.co.jp^
+||bbb.aqualink.ink^
 ||bbbb.goace.jp^
 ||beeline.beeline-tire.co.jp^
 ||c.cbdselect.shop^
@@ -200,6 +201,7 @@
 ||cs2087sbeda.haken-kanri.net^
 ||cs2087sbeda.manage-tempstaffing.net^
 ||cs2113sbeda.hokto-onlineshop.jp^
+||cv-adebis.ca-japan.org^
 ||cv-adebis.my-studies.net^
 ||cv-adebis.nlp-coaching.co.jp^
 ||cv-adebis.nlpjapan.co.jp^

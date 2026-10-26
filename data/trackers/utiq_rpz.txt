@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1792527583227        ; Serial
+           1793013638746        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ dtpen.mno.link CNAME .
 esca-test.mno.link CNAME .
 esca.mno.link CNAME .
 fakexa-post.mno.link CNAME .
+fakexa-test.mno.link CNAME .
 fakexa.mno.link CNAME .
 freefr-fixed.mno.link CNAME .
 logger-test.mno.link CNAME .
@@ -111,6 +112,7 @@ utiq.computerfrage.net CNAME .
 utiq.comunidadmsm.es CNAME .
 utiq.corsematin.com CNAME .
 utiq.courrier-picard.fr CNAME .
+utiq.crossplan-deutschland.de CNAME .
 utiq.cuerpomente.com CNAME .
 utiq.cuisineactuelle.fr CNAME .
 utiq.cz.de CNAME .

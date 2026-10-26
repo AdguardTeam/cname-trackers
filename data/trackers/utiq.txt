@@ -8,6 +8,7 @@
 ||esca-test.mno.link^
 ||esca.mno.link^
 ||fakexa-post.mno.link^
+||fakexa-test.mno.link^
 ||fakexa.mno.link^
 ||freefr-fixed.mno.link^
 ||logger-test.mno.link^
@@ -100,6 +101,7 @@
 ||utiq.comunidadmsm.es^
 ||utiq.corsematin.com^
 ||utiq.courrier-picard.fr^
+||utiq.crossplan-deutschland.de^
 ||utiq.cuerpomente.com^
 ||utiq.cuisineactuelle.fr^
 ||utiq.cz.de^

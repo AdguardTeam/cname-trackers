@@ -49,4 +49,5 @@
 ||t.trckforge.site^
 ||t.trcktr.com^
 ||t.trkav.name^
+||t.vectortrck.uno^
 ||t.wintrck.com^

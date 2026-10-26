@@ -299,6 +299,7 @@
 ||cim-idc-cdn.account.bcbstx.com^
 ||cim-idc-cdn.account.hcsc.net^
 ||cim-idc-cdn.account.hcsctest.net^
+||cim-idc-cdn.account.healthspring.com^
 ||cim-idc-cdn.account.test.bcbsil.com^
 ||cim-idc-cdn.account.test.bcbsok.com^
 ||cim-idc-cdn.account.test.bcbstx.com^
@@ -360,6 +361,7 @@
 ||content.clubpremier.com^
 ||content.cofidis.pt^
 ||content.conapcg.com^
+||content.connect.medicaid.ncdhhs.gov^
 ||content.connexion-mabanque.bnpparibas^
 ||content.connexion.hellobank.fr^
 ||content.connexion.mabanque.bnpparibas^
@@ -466,7 +468,9 @@
 ||content.prev-espace-client.hellobank.fr^
 ||content.prev.connexion-mabanque.bnpparibas^
 ||content.prev.connexion.hellobank.fr^
+||content.prev.connexion.mabanque.bnpparibas^
 ||content.prev.connexion.monespace.bnpparibas^
+||content.prev.connexion.monespace.hellobank.fr^
 ||content.primesports.com^
 ||content.qudosbank.com.au^
 ||content.quicken.com^
@@ -503,6 +507,7 @@
 ||content.varetire.org^
 ||content.vb24.md^
 ||content.vi.gov^
+||content.vivus.es^
 ||content.westcreekfin.com^
 ||content.wizink.es^
 ||content002.bet365.bet.ar^
@@ -620,6 +625,7 @@
 ||dfp.t-mobile.at^
 ||dfp.telering.at^
 ||dicontent.ckapis.com^
+||did.access.service.gov.uk^
 ||did.fashionworld.co.uk^
 ||did.koempf24.de^
 ||diff3.jazztel.com^
@@ -650,6 +656,7 @@
 ||ecomm.thegiftcardshop.com^
 ||edge.privacy.com.br^
 ||edge.snappibank.com^
+||edge2.doublespin.com^
 ||edge2.lavaslots.com^
 ||edge2.luxiprize.com^
 ||ela1.bankofscotland.co.uk^
@@ -814,11 +821,13 @@
 ||jytrnq.cm-cic.com^
 ||kyc.usend.com^
 ||lab4.lloydsbank.com^
+||larson.bambooloans.com^
 ||larson.plata.com^
 ||lexengine.kamet.mx^
 ||lexis.ourtrip.com.br^
 ||lght.loberon.com^
 ||line.bd.com^
+||linetime.ordoro.com^
 ||ln.acornfun.com^
 ||ln.bellring.betamerica.com^
 ||ln.bellring.keenelandselect.com^
@@ -894,9 +903,9 @@
 ||mobilecontent.projectdrgn.com^
 ||msimkpups.michaels.com^
 ||mtx.thirdstream.ca^
+||my.ich.app^
 ||myuw5.nj.gov^
 ||nav.sciencedirect.com^
-||neo.cdx-bankislam.com^
 ||neo.fashionette.de^
 ||netinf.curemd.com^
 ||nexus-svc.sc.com^
@@ -1081,7 +1090,6 @@
 ||regstat.betfair.es^
 ||regstat.betfair.it^
 ||regstat.betfair.ro^
-||regstat.dibz.co.uk^
 ||regstat.paddypower.com^
 ||regstat.pokerstars.com^
 ||regstat.skybet.com^
@@ -1427,6 +1435,7 @@
 ||tmximg.draftkings.com^
 ||tmxjs.tokyodisneyresort.jp^
 ||tooling.ynap.biz^
+||tools.citruscollege.edu^
 ||tprofile.goldmansachs.tech^
 ||tracking.psecu.com^
 ||transactionrisk.cashfree.com^
