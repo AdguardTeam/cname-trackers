@@ -76,6 +76,7 @@
 | affil.nanospace.cz | cz.affilbox.cz |
 | affil.netbiznis.sk | cz.affilbox.cz |
 | affil.nutriadapt.cz | cz.affilbox.cz |
+| affil.onlinegastro.cz | cz.affilbox.cz |
 | affil.peliskydog.cz | cz.affilbox.cz |
 | affil.plkshop.cz | cz.affilbox.cz |
 | affil.progamingshop.sk | cz.affilbox.cz |
@@ -136,6 +137,7 @@
 | affiliate.bikeplan.org | cz.affilbox.cz |
 | affiliate.biocare.sk | cz.affilbox.cz |
 | affiliate.biooo.cz | cz.affilbox.cz |
+| affiliate.branakbohatstvu.sk | cz.affilbox.cz |
 | affiliate.childhoodpotential.com | cz.affilbox.cz |
 | affiliate.chytryhonza.cz | cz.affilbox.cz |
 | affiliate.ckslniecko.sk | cz.affilbox.cz |
@@ -177,7 +179,6 @@
 | affiliate.fapi.cz | cz.affilbox.cz |
 | affiliate.ferratum.cz | cz.affilbox.cz |
 | affiliate.fightstuff.cz | cz.affilbox.cz |
-| affiliate.fotbalpartner.cz | cz.affilbox.cz |
 | affiliate.fotopasti-bunaty.cz | cz.affilbox.cz |
 | affiliate.geoweb.easy.cz | cz.affilbox.cz |
 | affiliate.golfplan.org | cz.affilbox.cz |
@@ -207,6 +208,7 @@
 | affiliate.lentiamo.fr | cz.affilbox.cz |
 | affiliate.lentiamo.it | cz.affilbox.cz |
 | affiliate.lentiamo.nl | cz.affilbox.cz |
+| affiliate.lentiamo.ro | cz.affilbox.cz |
 | affiliate.lentiamo.se | cz.affilbox.cz |
 | affiliate.levsalonu.cz | cz.affilbox.cz |
 | affiliate.lg-store.cz | cz.affilbox.cz |
@@ -284,6 +286,7 @@
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
 | ambassadors.guideandgrow.com | cz.affilbox.cz |
 | analytics.algomoneo.com | cz.affilbox.cz |
+| api.algomoneo.com | cz.affilbox.cz |
 | app.axl.cz | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | champions.betubetu.com | cz.affilbox.cz |
@@ -294,6 +297,7 @@
 | cooperation.mitochondriak.pl | cz.affilbox.cz |
 | cooperation.mitochondriak.sk | cz.affilbox.cz |
 | cryptonow.algomoneo.com | cz.affilbox.cz |
+| dashboard.algomoneo.com | cz.affilbox.cz |
 | dbsaysnba4ygmwav.algomoneo.com | cz.affilbox.cz |
 | demo.affilbox.com | cz.affilbox.cz |
 | devaff.bitcoinzmenaren.sk | cz.affilbox.cz |
@@ -306,6 +310,7 @@
 | doporuc.shopiam4u.cz | cz.affilbox.cz |
 | doporucim.zjistitcenu.cz | cz.affilbox.cz |
 | equilist.raj-ohlavek.cz | cz.affilbox.cz |
+| gitlab.algomoneo.com | cz.affilbox.cz |
 | hcbox.antiradary.net | cz.affilbox.cz |
 | hcbox.bikemax.cz | cz.affilbox.cz |
 | hcbox.fitness-zone.cz | cz.affilbox.cz |
@@ -380,6 +385,7 @@
 | my.weplaybasketball.lv | cz.affilbox.cz |
 | my.weplaybasketball.ro | cz.affilbox.cz |
 | my.weplaybasketball.si | cz.affilbox.cz |
+| my.weplaybasketball.sk | cz.affilbox.cz |
 | my.weplayhandball.bg | cz.affilbox.cz |
 | my.weplayhandball.ch | cz.affilbox.cz |
 | my.weplayhandball.cz | cz.affilbox.cz |
@@ -631,8 +637,6 @@
 | partner.marketingacademy.sk | cz.affilbox.cz |
 | partner.martinafallerova.cz | cz.affilbox.cz |
 | partner.martinreznicek.cz | cz.affilbox.cz |
-| partner.massada.cz | cz.affilbox.cz |
-| partner.massada.sk | cz.affilbox.cz |
 | partner.mbytshop.cz | cz.affilbox.cz |
 | partner.medela.cz | cz.affilbox.cz |
 | partner.medela.sk | cz.affilbox.cz |
@@ -652,6 +656,7 @@
 | partner.motoobchod.cz | cz.affilbox.cz |
 | partner.muffik.cz | cz.affilbox.cz |
 | partner.muffik.eu | cz.affilbox.cz |
+| partner.mujdisk.cloud | cz.affilbox.cz |
 | partner.mumijo.cz | cz.affilbox.cz |
 | partner.muzskykruh.cz | cz.affilbox.cz |
 | partner.nanolab.cz | cz.affilbox.cz |
@@ -756,6 +761,7 @@
 | partner.tattoomania.cz | cz.affilbox.cz |
 | partner.taxomat.cz | cz.affilbox.cz |
 | partner.terrapotheka.cz | cz.affilbox.cz |
+| partner.textie.ai | cz.affilbox.cz |
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.thelisteningworld.com | cz.affilbox.cz |
 | partner.tinecostore.cz | cz.affilbox.cz |
@@ -811,6 +817,7 @@
 | partneri.bestargroup.cz | cz.affilbox.cz |
 | partneri.bigon.sk | cz.affilbox.cz |
 | partneri.biorganica.cz | cz.affilbox.cz |
+| partneri.bondfolio.cz | cz.affilbox.cz |
 | partneri.bonmoto.cz | cz.affilbox.cz |
 | partneri.bornature.cz | cz.affilbox.cz |
 | partneri.cannor.cz | cz.affilbox.cz |

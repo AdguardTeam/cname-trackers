@@ -202,7 +202,6 @@
 ||reporting.autographapp.me^
 ||retention.ankidecks.com^
 ||s.allbootdisks.com^
-||s.cameratico.com^
 ||s.crackedthecode.co^
 ||s.cuoresportivo.no^
 ||s.cybercompass.io^
@@ -226,7 +225,6 @@
 ||sats.mailbrew.com^
 ||see.wasteorshare.com^
 ||server.japanbyrivercruise.com^
-||server.officeclowns.live^
 ||server.olliehorn.com^
 ||server.olliehorncooks.com^
 ||site-stats.supernotes.app^
@@ -374,7 +372,6 @@
 ||stats.executebig.org^
 ||stats.extramilefloorcare.com^
 ||stats.eyehelp.co^
-||stats.fabiofranchino.com^
 ||stats.faluninfo.at^
 ||stats.faluninfo.ba^
 ||stats.faluninfo.mk^
@@ -431,7 +428,6 @@
 ||stats.ingenerator.com^
 ||stats.innoforge.com.au^
 ||stats.innoq.com^
-||stats.interactjs.io^
 ||stats.interruptor.pt^
 ||stats.intheloop.dev^
 ||stats.intothebox.org^
@@ -486,14 +482,12 @@
 ||stats.maferland.com^
 ||stats.magarantie5ans.fr^
 ||stats.malte-bartels.de^
-||stats.martyntaylor.com^
 ||stats.mashword.com^
 ||stats.mastermeup.com^
 ||stats.masterybits.com^
 ||stats.matthiasloibl.com^
 ||stats.maximaconsulting.xyz^
 ||stats.mein-futterlexikon.org^
-||stats.metamorphium.com^
 ||stats.michaeloliver.dev^
 ||stats.mindhive.ca^
 ||stats.missionrabies.com^
@@ -502,7 +496,6 @@
 ||stats.mrtnvh.com^
 ||stats.multiplelenses.com^
 ||stats.multiply.cloud^
-||stats.murrayhometextiles.ie^
 ||stats.napaconnect.ca^
 ||stats.navedislam.com^
 ||stats.nerdbusiness.com^
@@ -602,7 +595,6 @@
 ||stats.simplinetworks.com^
 ||stats.sirdata.com^
 ||stats.ski.com^
-||stats.southswindon-pc.gov.uk^
 ||stats.sparkloop.app^
 ||stats.spreadtheworld.net^
 ||stats.sprune.com^
@@ -657,7 +649,6 @@
 ||stats.voltimum.com^
 ||stats.walkiees.co.uk^
 ||stats.warrantynowvoid.com^
-||stats.websnap.app^
 ||stats.wecodeni.com^
 ||stats.world.hey.com^
 ||stats.wvs.org.uk^

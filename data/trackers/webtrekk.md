@@ -604,6 +604,8 @@
 | img.salem-net.de | salem02.webtrekk.net |
 | trail-001.schleich-s.com | schleich-trail001.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
+| tr.suedkurier.info | sdkurier-de01.wt-eu02.net |
+| tr.suedkurier.tv | sdkurier-de01.wt-eu02.net |
 | www7.springer.com | springergmbh01.webtrekk.net |
 | tracking.shop.hunter.easynet.de | tchibo01.webtrekk.net |
 | tracking.tchibo.ch | tchibo02.webtrekk.net |

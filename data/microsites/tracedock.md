@@ -29,7 +29,6 @@
 * alb-analytics-1725256854.us-west-2.elb.amazonaws.com
 * p-dany-analytics-1643478883.us-west-2.elb.amazonaws.com
 * matomo-lb-1189108675.us-east-2.elb.amazonaws.com
-* ce-data-collector-api-prod-alb2-1611447619.ap-south-1.elb.amazonaws.com
 * ad-stage-356375666.us-east-1.elb.amazonaws.com
 * ad-al-apilo-160ykgavw0ib-1586165360.us-west-2.elb.amazonaws.com
 * ad-network-click-sg-688545960.ap-southeast-1.elb.amazonaws.com
@@ -708,7 +707,6 @@
 | beacon.us-east-2.internal.dradis.netflix.com | apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-2.amazonaws.com |
 | beacon.us-east-1.internal.dradis.netflix.com | apiproxy-log-nlb-72c5f7ae51b322e8.elb.us-east-1.amazonaws.com |
 | presentationtracking.eu-west-1.internal.dradis.netflix.com | apiproxy-log-nlb-d0872ab45f5e09a4.elb.eu-west-1.amazonaws.com |
-| analytics.angelone.in | ce-data-collector-api-prod-alb2-1611447619.ap-south-1.elb.amazonaws.com |
 | mobile-appdyn.absa.africa | collector-proxy-alb-1167645830.eu-central-1.elb.amazonaws.com |
 | vodacom.eum-appdynamics.com | collector-proxy-alb-1167645830.eu-central-1.elb.amazonaws.com |
 | dse-collector.prod.gopro-platform.com | dse-collector-prod-759036150.us-west-2.elb.amazonaws.com |

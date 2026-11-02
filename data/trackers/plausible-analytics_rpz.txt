@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793016595541        ; Serial
+           1793617659137        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -213,7 +213,6 @@ reddwarf.till-sanders.de CNAME .
 reporting.autographapp.me CNAME .
 retention.ankidecks.com CNAME .
 s.allbootdisks.com CNAME .
-s.cameratico.com CNAME .
 s.crackedthecode.co CNAME .
 s.cuoresportivo.no CNAME .
 s.cybercompass.io CNAME .
@@ -237,7 +236,6 @@ s.vejenerhverv.dk CNAME .
 sats.mailbrew.com CNAME .
 see.wasteorshare.com CNAME .
 server.japanbyrivercruise.com CNAME .
-server.officeclowns.live CNAME .
 server.olliehorn.com CNAME .
 server.olliehorncooks.com CNAME .
 site-stats.supernotes.app CNAME .
@@ -385,7 +383,6 @@ stats.evenchilada.com CNAME .
 stats.executebig.org CNAME .
 stats.extramilefloorcare.com CNAME .
 stats.eyehelp.co CNAME .
-stats.fabiofranchino.com CNAME .
 stats.faluninfo.at CNAME .
 stats.faluninfo.ba CNAME .
 stats.faluninfo.mk CNAME .
@@ -442,7 +439,6 @@ stats.infoboard.de CNAME .
 stats.ingenerator.com CNAME .
 stats.innoforge.com.au CNAME .
 stats.innoq.com CNAME .
-stats.interactjs.io CNAME .
 stats.interruptor.pt CNAME .
 stats.intheloop.dev CNAME .
 stats.intothebox.org CNAME .
@@ -497,14 +493,12 @@ stats.madethis.gallery CNAME .
 stats.maferland.com CNAME .
 stats.magarantie5ans.fr CNAME .
 stats.malte-bartels.de CNAME .
-stats.martyntaylor.com CNAME .
 stats.mashword.com CNAME .
 stats.mastermeup.com CNAME .
 stats.masterybits.com CNAME .
 stats.matthiasloibl.com CNAME .
 stats.maximaconsulting.xyz CNAME .
 stats.mein-futterlexikon.org CNAME .
-stats.metamorphium.com CNAME .
 stats.michaeloliver.dev CNAME .
 stats.mindhive.ca CNAME .
 stats.missionrabies.com CNAME .
@@ -513,7 +507,6 @@ stats.mostlycoding.com.au CNAME .
 stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
 stats.multiply.cloud CNAME .
-stats.murrayhometextiles.ie CNAME .
 stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
 stats.nerdbusiness.com CNAME .
@@ -613,7 +606,6 @@ stats.shiftx.com CNAME .
 stats.simplinetworks.com CNAME .
 stats.sirdata.com CNAME .
 stats.ski.com CNAME .
-stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
 stats.spreadtheworld.net CNAME .
 stats.sprune.com CNAME .
@@ -668,7 +660,6 @@ stats.visions.ch CNAME .
 stats.voltimum.com CNAME .
 stats.walkiees.co.uk CNAME .
 stats.warrantynowvoid.com CNAME .
-stats.websnap.app CNAME .
 stats.wecodeni.com CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793013638746        ; Serial
+           1793617659137        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,6 +60,7 @@ affil.nanoshop.cz CNAME .
 affil.nanospace.cz CNAME .
 affil.netbiznis.sk CNAME .
 affil.nutriadapt.cz CNAME .
+affil.onlinegastro.cz CNAME .
 affil.peliskydog.cz CNAME .
 affil.plkshop.cz CNAME .
 affil.progamingshop.sk CNAME .
@@ -120,6 +121,7 @@ affiliate.batteryshop.cz CNAME .
 affiliate.bikeplan.org CNAME .
 affiliate.biocare.sk CNAME .
 affiliate.biooo.cz CNAME .
+affiliate.branakbohatstvu.sk CNAME .
 affiliate.childhoodpotential.com CNAME .
 affiliate.chytryhonza.cz CNAME .
 affiliate.ckslniecko.sk CNAME .
@@ -161,7 +163,6 @@ affiliate.faceyogainstitute.eu CNAME .
 affiliate.fapi.cz CNAME .
 affiliate.ferratum.cz CNAME .
 affiliate.fightstuff.cz CNAME .
-affiliate.fotbalpartner.cz CNAME .
 affiliate.fotopasti-bunaty.cz CNAME .
 affiliate.geoweb.easy.cz CNAME .
 affiliate.golfplan.org CNAME .
@@ -191,6 +192,7 @@ affiliate.lentiamo.es CNAME .
 affiliate.lentiamo.fr CNAME .
 affiliate.lentiamo.it CNAME .
 affiliate.lentiamo.nl CNAME .
+affiliate.lentiamo.ro CNAME .
 affiliate.lentiamo.se CNAME .
 affiliate.levsalonu.cz CNAME .
 affiliate.lg-store.cz CNAME .
@@ -268,6 +270,7 @@ ambassadors.childhoodpotential.club CNAME .
 ambassadors.childhoodpotential.com CNAME .
 ambassadors.guideandgrow.com CNAME .
 analytics.algomoneo.com CNAME .
+api.algomoneo.com CNAME .
 app.axl.cz CNAME .
 box.kryptotrejder.sk CNAME .
 champions.betubetu.com CNAME .
@@ -278,6 +281,7 @@ cooperation.mitochondriak.cz CNAME .
 cooperation.mitochondriak.pl CNAME .
 cooperation.mitochondriak.sk CNAME .
 cryptonow.algomoneo.com CNAME .
+dashboard.algomoneo.com CNAME .
 dbsaysnba4ygmwav.algomoneo.com CNAME .
 demo.affilbox.com CNAME .
 devaff.bitcoinzmenaren.sk CNAME .
@@ -290,6 +294,7 @@ doporuc.promujdomov.cz CNAME .
 doporuc.shopiam4u.cz CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
+gitlab.algomoneo.com CNAME .
 hcbox.antiradary.net CNAME .
 hcbox.bikemax.cz CNAME .
 hcbox.fitness-zone.cz CNAME .
@@ -364,6 +369,7 @@ my.weplaybasketball.hu CNAME .
 my.weplaybasketball.lv CNAME .
 my.weplaybasketball.ro CNAME .
 my.weplaybasketball.si CNAME .
+my.weplaybasketball.sk CNAME .
 my.weplayhandball.bg CNAME .
 my.weplayhandball.ch CNAME .
 my.weplayhandball.cz CNAME .
@@ -615,8 +621,6 @@ partner.malujpodlecisel.cz CNAME .
 partner.marketingacademy.sk CNAME .
 partner.martinafallerova.cz CNAME .
 partner.martinreznicek.cz CNAME .
-partner.massada.cz CNAME .
-partner.massada.sk CNAME .
 partner.mbytshop.cz CNAME .
 partner.medela.cz CNAME .
 partner.medela.sk CNAME .
@@ -636,6 +640,7 @@ partner.moravite.cz CNAME .
 partner.motoobchod.cz CNAME .
 partner.muffik.cz CNAME .
 partner.muffik.eu CNAME .
+partner.mujdisk.cloud CNAME .
 partner.mumijo.cz CNAME .
 partner.muzskykruh.cz CNAME .
 partner.nanolab.cz CNAME .
@@ -740,6 +745,7 @@ partner.t-shock.eu CNAME .
 partner.tattoomania.cz CNAME .
 partner.taxomat.cz CNAME .
 partner.terrapotheka.cz CNAME .
+partner.textie.ai CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.thelisteningworld.com CNAME .
 partner.tinecostore.cz CNAME .
@@ -795,6 +801,7 @@ partneri.bazaroveregaly.cz CNAME .
 partneri.bestargroup.cz CNAME .
 partneri.bigon.sk CNAME .
 partneri.biorganica.cz CNAME .
+partneri.bondfolio.cz CNAME .
 partneri.bonmoto.cz CNAME .
 partneri.bornature.cz CNAME .
 partneri.cannor.cz CNAME .

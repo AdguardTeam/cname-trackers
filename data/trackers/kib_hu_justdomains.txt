@@ -23,6 +23,7 @@ adat.haon.hu
 adat.heol.hu
 adat.hevesmegyeihirlap.hu
 adat.hirdessemeg.hu
+adat.hirnyolc.hu
 adat.hirtv.hu
 adat.ingatlanbazar.hu
 adat.jurnalbihorean.ro

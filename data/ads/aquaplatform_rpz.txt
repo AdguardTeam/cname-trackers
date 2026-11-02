@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793013638746        ; Serial
+           1793628865127        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,6 +137,7 @@ console.schrotundkorn.de CNAME .
 console.swiss-equestrian.ch CNAME .
 console.tahoe.com CNAME .
 console.thedailyhorn.com CNAME .
+console.thinkresult.in CNAME .
 console.trackandfieldnews.com CNAME .
 console.unionesarda.it CNAME .
 console.walaplusadserver.com CNAME .
@@ -152,6 +153,7 @@ edgeadserver-delivery.reviveservers.com CNAME .
 etnomedia-static.reviveservers.com CNAME .
 growthtrac-delivery.reviveservers.com CNAME .
 hlipublishing-static.reviveservers.com CNAME .
+hyadserver-delivery.reviveservers.com CNAME .
 images.addurance.com CNAME .
 images.cavalier-romand.ch CNAME .
 images.cricketworld.com CNAME .
@@ -270,6 +272,7 @@ static.i-bidder.com CNAME .
 static.imagineobx.com CNAME .
 static.insideradverts.com CNAME .
 static.isn.nl CNAME .
+static.lawbulletin.com CNAME .
 static.livingmagonline.com CNAME .
 static.lot-tissimo.com CNAME .
 static.mannixmarketing.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793016595541        ; Serial
+           1793628865127        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,7 +11,6 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-a.relayto.com CNAME .
 a.uwhealth.org CNAME .
 analysis-test.sozialversicherung.at CNAME .
 analysis.sozialversicherung.at CNAME .

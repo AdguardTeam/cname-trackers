@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793018717010        ; Serial
+           1793626042397        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+s.apfegemz.com CNAME .
 s.awryau.com CNAME .
 s.azebzuomgb.com CNAME .
 s.bdkscuti.com CNAME .
@@ -53,6 +54,7 @@ s.dsbuiu.com CNAME .
 s.dsbuzs.com CNAME .
 s.dsccgm.com CNAME .
 s.dscenn.com CNAME .
+s.dsceri.com CNAME .
 s.dscgcu.com CNAME .
 s.dscjbq.com CNAME .
 s.dscjnr.com CNAME .
@@ -65,6 +67,7 @@ s.dscykd.com CNAME .
 s.dsdaji.com CNAME .
 s.dsdbdt.com CNAME .
 s.dsdend.com CNAME .
+s.dsderq.com CNAME .
 s.dsdgtf.com CNAME .
 s.dsdnhj.com CNAME .
 s.dsdpnx.com CNAME .
@@ -96,6 +99,7 @@ s.dsgnbu.com CNAME .
 s.dsgnjf.com CNAME .
 s.dsgqie.com CNAME .
 s.dsgsif.com CNAME .
+s.dsgwoa.com CNAME .
 s.dsgwqe.com CNAME .
 s.dshbju.com CNAME .
 s.dshbxx.com CNAME .
@@ -149,6 +153,7 @@ s.dsnbym.com CNAME .
 s.dsndcg.com CNAME .
 s.dsneim.com CNAME .
 s.dsngwj.com CNAME .
+s.dsngws.com CNAME .
 s.dsnhfu.com CNAME .
 s.dsnhpm.com CNAME .
 s.dsnhsz.com CNAME .
@@ -185,6 +190,7 @@ s.dsrcxs.com CNAME .
 s.dsrddz.com CNAME .
 s.dsrdyw.com CNAME .
 s.dsrgva.com CNAME .
+s.dsrjiz.com CNAME .
 s.dsrkxg.com CNAME .
 s.dsrodv.com CNAME .
 s.dsruaa.com CNAME .
@@ -218,6 +224,7 @@ s.dswklo.com CNAME .
 s.dswmrn.com CNAME .
 s.dswrqh.com CNAME .
 s.dswyio.com CNAME .
+s.dsxgma.com CNAME .
 s.dsxguh.com CNAME .
 s.dsxilh.com CNAME .
 s.dsxpzd.com CNAME .
@@ -233,6 +240,7 @@ s.dsyqua.com CNAME .
 s.dsysuf.com CNAME .
 s.dsyypg.com CNAME .
 s.dsyyte.com CNAME .
+s.dszcnw.com CNAME .
 s.dszdcm.com CNAME .
 s.dszkfk.com CNAME .
 s.dszkvm.com CNAME .
@@ -291,6 +299,7 @@ s.hoyonx.com CNAME .
 s.iadbsntna.com CNAME .
 s.iiwvrnwxtr.com CNAME .
 s.iqhfpu.com CNAME .
+s.jcgdhqusv.com CNAME .
 s.jeiwumcsw.com CNAME .
 s.jpwrwxvm.com CNAME .
 s.jwjtbna.com CNAME .
@@ -306,6 +315,7 @@ s.kxencag.com CNAME .
 s.lanpeatced.com CNAME .
 s.lkdykbudv.com CNAME .
 s.ltarebldw.com CNAME .
+s.ltnktuzzjq.com CNAME .
 s.luoxpdawva.com CNAME .
 s.lwlcflypc.com CNAME .
 s.mfiomoaa.com CNAME .
@@ -325,6 +335,7 @@ s.oyluepai.com CNAME .
 s.pehvwzyx.com CNAME .
 s.pmmdhc.com CNAME .
 s.pmmjoxhunb.com CNAME .
+s.ppytbzff.com CNAME .
 s.pyyokibh.com CNAME .
 s.qhjgwwok.com CNAME .
 s.qhyftzqknm.com CNAME .
@@ -343,6 +354,7 @@ s.srabwiroq.com CNAME .
 s.ssafzpcia.com CNAME .
 s.svzpgxz.com CNAME .
 s.thgqdglxj.com CNAME .
+s.tltsbsp.com CNAME .
 s.tqabqqej.com CNAME .
 s.tzgjzzhj.com CNAME .
 s.udgzgdb.com CNAME .

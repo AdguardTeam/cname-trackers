@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793013638746        ; Serial
+           1793626042397        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,7 +36,9 @@ tmi.mno.link CNAME .
 tmi.vodafone.de CNAME .
 u.20minutes.fr CNAME .
 u.20mn.it CNAME .
+utiq-test.utest1-prod.work CNAME .
 utiq-test.utest1.work CNAME .
+utiq-test.utest2-prod.work CNAME .
 utiq-test.utest3.work CNAME .
 utiq.11freunde.de CNAME .
 utiq.20minutos.es CNAME .
@@ -236,6 +238,7 @@ utiq.heimatsport.de CNAME .
 utiq.hellorayo.co.uk CNAME .
 utiq.helpster.de CNAME .
 utiq.hersfelder-zeitung.de CNAME .
+utiq.historyextra.com CNAME .
 utiq.hna.de CNAME .
 utiq.hola.com CNAME .
 utiq.holidaycheck.at CNAME .
@@ -290,6 +293,7 @@ utiq.larepubliquedespyrenees.fr CNAME .
 utiq.larioja.com CNAME .
 utiq.lasprovincias.es CNAME .
 utiq.lauterbacher-anzeiger.de CNAME .
+utiq.lavanguardia.com CNAME .
 utiq.laverdad.es CNAME .
 utiq.lavoixdunord.fr CNAME .
 utiq.lavozdigital.es CNAME .
@@ -446,6 +450,8 @@ utiq.radio.se CNAME .
 utiq.regio7.cat CNAME .
 utiq.reisefrage.net CNAME .
 utiq.reisereporter.de CNAME .
+utiq.release.bbcgoodfood.com CNAME .
+utiq.release.im-slate.com CNAME .
 utiq.remszeitung.de CNAME .
 utiq.renault.fr CNAME .
 utiq.renew.auto CNAME .
@@ -507,6 +513,7 @@ utiq.telva.com CNAME .
 utiq.terrafemina.com CNAME .
 utiq.testfaz.net CNAME .
 utiq.thenewretail.es CNAME .
+utiq.thescottishsun.co.uk CNAME .
 utiq.thestar.com CNAME .
 utiq.thewatmag.com CNAME .
 utiq.thueringen24.de CNAME .
@@ -523,6 +530,7 @@ utiq.tuobenessere.it CNAME .
 utiq.tvspielfilm.de CNAME .
 utiq.tvtoday.de CNAME .
 utiq.tvzap.it CNAME .
+utiq.two.utest1.work CNAME .
 utiq.tz.de CNAME .
 utiq.usinger-anzeiger.de CNAME .
 utiq.utest1-prod.work CNAME .

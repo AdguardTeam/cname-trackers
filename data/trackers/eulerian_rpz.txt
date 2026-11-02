@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793027475289        ; Serial
+           1793628865127        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -72,6 +72,7 @@ bja2.destinia.cz CNAME .
 bk.brookeo.fr CNAME .
 bm22.baronmag.com CNAME .
 bn.voyage-prive.com CNAME .
+bo2.bordee.qc.ca CNAME .
 bpe2.destinia.co.il CNAME .
 brv0.bravomusique.com CNAME .
 bum7.bymycar.fr CNAME .
@@ -104,7 +105,6 @@ ct6.chansontadoussac.com CNAME .
 ctr5.culture3r.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d0f.le-dauphin.com CNAME .
 d62e9cfa.eulerian.io CNAME .
 da3.delicesdautomne.com CNAME .
 da85edd2.eulerian.io CNAME .
@@ -204,6 +204,7 @@ ef.futuroscope.mobi CNAME .
 efbdcd3b.eulerian.io CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
+erb.tremblant.ca CNAME .
 erdev-next.eulerian.io CNAME .
 erdev1.eulerian.io CNAME .
 erdev3.eulerian.io CNAME .
@@ -222,7 +223,6 @@ eule3.pmu.fr CNAME .
 eule4.pmu.fr CNAME .
 eule5.pmu.fr CNAME .
 euler.pmu.fr CNAME .
-eulerian.belambra.be CNAME .
 eulerian.belambra.fr CNAME .
 eulerian.canal-plus.com CNAME .
 eulerian.eidershop.com CNAME .
@@ -310,7 +310,6 @@ jj2.festivalquebecjazzenjuin.com CNAME .
 kc47c6fa.eulerian.io CNAME .
 kep6.destinia.ie CNAME .
 kwsjy9.oui.sncf CNAME .
-l2i.qualityinnlevis.com CNAME .
 lbc.lesbonscommerces.fr CNAME .
 lbu3.labibleurbaine.com CNAME .
 lc5.leschutes.ca CNAME .
@@ -356,6 +355,7 @@ nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nqsm.medicus.ca CNAME .
 nrg.red-by-sfr.fr CNAME .
+nt1.taniere.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o35e79f2.eulerian.io CNAME .
 o69cab6a.eulerian.io CNAME .
@@ -424,6 +424,7 @@ rmp4.destinia.uy CNAME .
 rqnn.funjet.com CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
+rwl.tremblant.ca CNAME .
 rxzz.metcalfehotel.com CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
@@ -447,6 +448,7 @@ ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
 st2.sat.qc.ca CNAME .
 st9.sorstu.ca CNAME .
+su1.les-suites.ca CNAME .
 sxbj.gasparmtl.com CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
@@ -461,6 +463,7 @@ tdf1.easyvoyage.de CNAME .
 tdf1.vivabox.fr CNAME .
 tdp1.vivabox.es CNAME .
 tds1.vivabox.be CNAME .
+tg2.tangentedanse.ca CNAME .
 th3.tripdhumour.com CNAME .
 th4.tohu.ca CNAME .
 tlc8.touslescontes.com CNAME .
@@ -538,13 +541,12 @@ zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
+d0f.le-dauphin.com CNAME .
 d2u.dauphinquebec.com CNAME .
-erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
+l2i.qualityinnlevis.com CNAME .
 nym5c.bonlook.com CNAME .
-rwl.tremblant.ca CNAME .
 ry0.rythmefm.com CNAME .
-su1.les-suites.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 yio.tremblant.ca CNAME .
 ea.mnt.fr CNAME .

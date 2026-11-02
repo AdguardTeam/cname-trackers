@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793019754115        ; Serial
+           1793617659137        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 fpa-api.adweek.com CNAME .
 fpa-api.arstechnica.com CNAME .
 fpa-api.golfdigest.com CNAME .
+fpa-api.hip2keto.com CNAME .
 fpa-api.missionlocal.org CNAME .
 fpa-api.prideofdetroit.com CNAME .
 fpa-api.rollingstone.com CNAME .
@@ -96,6 +97,7 @@ fpa-events.spectator.com.au CNAME .
 fpa-events.sunjournal.com CNAME .
 fpa-events.tampabay28.com CNAME .
 fpa-events.texasmonthly.com CNAME .
+fpa-events.thebeat.travel CNAME .
 fpa-events.thedailybeast.com CNAME .
 fpa-events.themarshallproject.org CNAME .
 fpa-events.thetrace.org CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793016595541        ; Serial
+           1793617659137        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -386,6 +386,7 @@ tr.email.distributor-expo.com CNAME .
 tr.email.gap-france.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.janedeboy.com CNAME .
+tr.email.jlrfrance.fr CNAME .
 tr.email.kinvent.com CNAME .
 tr.email.np6.com CNAME .
 tr.email.pointfranchise.co.uk CNAME .
@@ -425,6 +426,7 @@ tr.emailing.tvcaraibes.tv CNAME .
 tr.emailing.uda.fr CNAME .
 tr.emailium.fr CNAME .
 tr.emc.moethennessy.com CNAME .
+tr.emea.moethennessy.com CNAME .
 tr.enews.customsolutions.fr CNAME .
 tr.enquetes.actionlogement.fr CNAME .
 tr.enquetevrs.fr CNAME .
@@ -533,6 +535,7 @@ tr.info.fulli.com CNAME .
 tr.info.galian.fr CNAME .
 tr.info.grapp-hennessy.com CNAME .
 tr.info.harmonie-mutuelle.fr CNAME .
+tr.info.imaprotect.com CNAME .
 tr.info.la-norma.fr CNAME .
 tr.info.lacentrale.fr CNAME .
 tr.info.libranoo.com CNAME .
@@ -964,6 +967,7 @@ tr.oferta-firmy.pl CNAME .
 tr.ofertas-companeo.es CNAME .
 tr.offer-companeo.co.uk CNAME .
 tr.offerta-companeo.com CNAME .
+tr.offerte.migliorifornitori.it CNAME .
 tr.offre-btob.fr CNAME .
 tr.offre-companeo.com CNAME .
 tr.offre.devisdirect.com CNAME .

@@ -59,6 +59,7 @@
 ||a8.clarah.jp^
 ||a8.classicalelf.shop^
 ||a8.clubgets.com^
+||a8.coaching.agaroot.jp^
 ||a8.cocomeister.jp^
 ||a8.coloria.jp^
 ||a8.cookbiz.jp^
@@ -169,7 +170,6 @@
 ||a8.kireiyu.com^
 ||a8.kizuna-link.jp^
 ||a8.kland.shop^
-||a8.kojyo-worker.com^
 ||a8.kotei-denwa.com^
 ||a8.kougu-kaitoriyasan.com^
 ||a8.kujo-service.com^
@@ -487,7 +487,6 @@
 ||a8clk.gurutas.jp^
 ||a8clk.hags-ec.com^
 ||a8clk.hikakaku.com^
-||a8clk.hikarinobe.com^
 ||a8clk.hoiku-hiroba.com^
 ||a8clk.hoiku.fine.me^
 ||a8clk.hoken-minaoshi-lab.jp^
@@ -634,7 +633,6 @@
 ||a8clk.starwifi.jp^
 ||a8clk.stken.owners-age.com^
 ||a8clk.store.mago-ch.com^
-||a8clk.stst-used.com^
 ||a8clk.stylestore.jp^
 ||a8clk.suguchoku.jp^
 ||a8clk.sumafuri.jp^
@@ -1161,6 +1159,7 @@
 ||a8cv.shop.solve-grp.com^
 ||a8cv.sibody.co.jp^
 ||a8cv.signalift.com^
+||a8cv.silktherich.com^
 ||a8cv.sirusi.jp^
 ||a8cv.sitecreation.co.jp^
 ||a8cv.sl-creations.store^
@@ -1291,7 +1290,6 @@
 ||a8cvt.care-wing.jp^
 ||a8cvtrack.tokai.jp^
 ||a8dev.hikarinet-s.com^
-||a8dns.webcircle.co.jp^
 ||a8enquete.eventos.tokyo^
 ||a8hokuro.ike-sunshine.co.jp^
 ||a8itp.bitoka-japan.com^
@@ -1326,6 +1324,7 @@
 ||a8trck.helloactivity.com^
 ||a8trck.j-sen.jp^
 ||a8trck.sibody.co.jp^
+||a8trck.staging-meguru.helloactivity.com^
 ||a8trck.tolot.com^
 ||a8trck.worldone.to^
 ||a8trck.ws.formzu.net^
@@ -1358,7 +1357,6 @@
 ||acv.xn--dckf5a1e821s9i7b.com^
 ||acv.xn--lck7b0fy49k9y1b.com^
 ||ad-a8.www.zeiri4.com^
-||ad.belleeau.jp^
 ||ad.e-dpe.jp^
 ||ad.houkei-shinjuku.com^
 ||ad.ichiban-boshi.com^
@@ -1551,5 +1549,4 @@
 ||webcv.advan-corp.co.jp^
 ||webtest.lpio.jp^
 ||www.a8clk.amelia.ne.jp^
-||www.ad.ehello.jp^
 ||yoiku-sub.yoiku.support^

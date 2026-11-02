@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793013638746        ; Serial
+           1793626042397        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -35,12 +35,10 @@ rbm.tbmods.ru CNAME .
 rbthre.work CNAME .
 rdv.naruto-base.tv CNAME .
 real.delovoemesto.ru CNAME .
-rott.mazlspqnn.ru CNAME .
 servw.bid CNAME .
 spush.olmiweb.com CNAME .
 workerhome.click CNAME .
 www.fasder12.ru CNAME .
-www.iskustvenny-intellekt.ru CNAME .
 www.rbp-gen1.site CNAME .
 www.rbp1.ru CNAME .
 www.rbp2.ru CNAME .
@@ -53,4 +51,3 @@ www.realbi5.ru CNAME .
 www.rekl1.com CNAME .
 www.rlrt.ru CNAME .
 xxx.extrablocks.ru CNAME .
-zbs.etodomendlyareklamy.ru CNAME .

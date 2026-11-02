@@ -72,6 +72,7 @@
     * im-static.aquaplatform.com
     * khn-console.aquaplatform.com
     * lawbulletin-delivery.aquaplatform.com
+    * lawbulletin-static.aquaplatform.com
     * lb-console.aquaplatform.com
     * lb-delivery.aquaplatform.com
     * lb-media.aquaplatform.com
@@ -79,6 +80,7 @@
     * livingmag-console.aquaplatform.com
     * livingmag-delivery.aquaplatform.com
     * livingmag-static.aquaplatform.com
+    * localmatchmaker-console.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
     * localmatchmaker-static.aquaplatform.com
     * mannix-api.aquaplatform.com
@@ -298,6 +300,7 @@
 | console.khn.nl | khn-console.aquaplatform.com |
 | display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
 | www.display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
+| static.lawbulletin.com | lawbulletin-static.aquaplatform.com |
 | console.leightonbroadcasting.com | lb-console.aquaplatform.com |
 | www.console.leightonbroadcasting.com | lb-console.aquaplatform.com |
 | banners.leightonbroadcasting.com | lb-delivery.aquaplatform.com |
@@ -308,6 +311,7 @@
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | www.static.livingmagonline.com | livingmag-static.aquaplatform.com |
+| console.rlnads.net | localmatchmaker-console.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
 | ad-api.mannixmarketing.com | mannix-api.aquaplatform.com |
@@ -379,6 +383,7 @@
 | brandmovers-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | edgeadserver-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | growthtrac-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
+| hyadserver-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | infotorg-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | omropfryslan-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | opx.webtool.net | platformiq-del.aquaplatform.com |
@@ -435,6 +440,7 @@
 | console.falconstudios.com | revivehosted-console.aquaplatform.com |
 | console.isn.nl | revivehosted-console.aquaplatform.com |
 | console.revive-adserver.net | revivehosted-console.aquaplatform.com |
+| console.thinkresult.in | revivehosted-console.aquaplatform.com |
 | www.console.falconstudios.com | revivehosted-console.aquaplatform.com |
 | adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | servedby-thinkresult.revive-adserver.net | revivehosted-delivery.aquaplatform.com |

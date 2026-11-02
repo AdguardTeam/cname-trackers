@@ -32,6 +32,7 @@
 | adat.heol.hu | kib.hu |
 | adat.hevesmegyeihirlap.hu | kib.hu |
 | adat.hirdessemeg.hu | kib.hu |
+| adat.hirnyolc.hu | kib.hu |
 | adat.hirtv.hu | kib.hu |
 | adat.ingatlanbazar.hu | kib.hu |
 | adat.jurnalbihorean.ro | kib.hu |

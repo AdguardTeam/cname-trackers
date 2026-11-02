@@ -395,7 +395,6 @@
   "analytics.5milesapp.com": "alb-analytics-1725256854.us-west-2.elb.amazonaws.com",
   "analytics.airtv.net": "p-dany-analytics-1643478883.us-west-2.elb.amazonaws.com",
   "analytics.amwell.systems": "matomo-lb-1189108675.us-east-2.elb.amazonaws.com",
-  "analytics.angelone.in": "ce-data-collector-api-prod-alb2-1611447619.ap-south-1.elb.amazonaws.com",
   "analytics2.airtv.net": "p-dany-analytics-1643478883.us-west-2.elb.amazonaws.com",
   "api-stage.facturacionmcdonalds.com.mx": "ad-stage-356375666.us-east-1.elb.amazonaws.com",
   "api.ariadirect.com": "ad-al-apilo-160ykgavw0ib-1586165360.us-west-2.elb.amazonaws.com",

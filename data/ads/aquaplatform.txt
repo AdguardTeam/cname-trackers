@@ -126,6 +126,7 @@
 ||console.swiss-equestrian.ch^
 ||console.tahoe.com^
 ||console.thedailyhorn.com^
+||console.thinkresult.in^
 ||console.trackandfieldnews.com^
 ||console.unionesarda.it^
 ||console.walaplusadserver.com^
@@ -141,6 +142,7 @@
 ||etnomedia-static.reviveservers.com^
 ||growthtrac-delivery.reviveservers.com^
 ||hlipublishing-static.reviveservers.com^
+||hyadserver-delivery.reviveservers.com^
 ||images.addurance.com^
 ||images.cavalier-romand.ch^
 ||images.cricketworld.com^
@@ -259,6 +261,7 @@
 ||static.imagineobx.com^
 ||static.insideradverts.com^
 ||static.isn.nl^
+||static.lawbulletin.com^
 ||static.livingmagonline.com^
 ||static.lot-tissimo.com^
 ||static.mannixmarketing.com^

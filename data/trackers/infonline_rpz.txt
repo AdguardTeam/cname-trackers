@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793013638746        ; Serial
+           1793628865127        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -138,7 +138,6 @@ data-11c63b1cbc.mz.de CNAME .
 data-11c63b1cbc.rblive.de CNAME .
 data-11c63b1cbc.sao.de CNAME .
 data-11c63b1cbc.volksstimme.de CNAME .
-data-11eb4b2a24.deutsche-startups.de CNAME .
 data-12025f91cc.uibk.ac.at CNAME .
 data-1203b7acd3.mopo.de CNAME .
 data-125f69cccb.eppelheim.de CNAME .
@@ -367,6 +366,7 @@ data-34565915dd.firmenwissen.com CNAME .
 data-34565915dd.firmenwissen.de CNAME .
 data-34c9d32b77.apps.iocnt.de CNAME .
 data-353c1c8501.falstaff.com CNAME .
+data-35b9638d7b.bibdia-hosts.de CNAME .
 data-35b9638d7b.bibdia-mobil.de CNAME .
 data-366a248b14.film.at CNAME .
 data-367bcf5bd6.german-retail-blog.com CNAME .
@@ -670,6 +670,7 @@ data-53ba3c279a.apps.iocnt.de CNAME .
 data-53ce61d695.bike-x.de CNAME .
 data-5400382129.kunststoff-magazin.de CNAME .
 data-545e23e607.kosmo.at CNAME .
+data-5492b7d422.abschied-nehmen.de CNAME .
 data-5492b7d422.azubis.de CNAME .
 data-5492b7d422.fupa.net CNAME .
 data-5492b7d422.mz-jobs.de CNAME .
@@ -792,6 +793,7 @@ data-60d896f23d.maz-online.de CNAME .
 data-60d896f23d.ndz.de CNAME .
 data-60d896f23d.neuepresse.de CNAME .
 data-60d896f23d.oaz-online.de CNAME .
+data-60d896f23d.op-marburg.de CNAME .
 data-60d896f23d.ostsee-zeitung.de CNAME .
 data-60d896f23d.ovz-online.de CNAME .
 data-60d896f23d.paz-online.de CNAME .
@@ -1167,6 +1169,7 @@ data-975521d9ad.horizontjobs.de CNAME .
 data-97d159685e.bbheute.de CNAME .
 data-97d159685e.gemeinsam-gedenken.de CNAME .
 data-97d159685e.szbz.de CNAME .
+data-98b5a11c9b.addradio.de CNAME .
 data-98b5a11c9b.radiolippe.de CNAME .
 data-992b9a20ea.competitionline.com CNAME .
 data-99329e3cb2.bilanz.de CNAME .
@@ -1407,6 +1410,7 @@ data-b4d5de22d2.mehr-tanken.de CNAME .
 data-b4df3518e0.haustec.de CNAME .
 data-b50e0279d5.meinbezirk.at CNAME .
 data-b55c944924.brandeins.de CNAME .
+data-b5689af0d0.aerotelegraph.com CNAME .
 data-b59e228e1d.apps.iocnt.de CNAME .
 data-b640a0ce46.connect.de CNAME .
 data-b640a0ce46.wmp-dev.de CNAME .
@@ -1464,6 +1468,8 @@ data-bb21a2f11b.myhomebook-magazine.com CNAME .
 data-bb21a2f11b.petbook-magazine.com CNAME .
 data-bb21a2f11b.sportbild.de CNAME .
 data-bb21a2f11b.stylebook.de CNAME .
+data-bb21a2f11b.techbook-magazine.com CNAME .
+data-bb21a2f11b.travelbook-magazine.com CNAME .
 data-bb4ada6163.travelbook.de CNAME .
 data-bc153aec3e.addradio.de CNAME .
 data-bc153aec3e.radioguetersloh.de CNAME .
@@ -2037,6 +2043,7 @@ pool2.ioam.de CNAME .
 pool4.ioam.de CNAME .
 pool5.ioam.de CNAME .
 report.oewa.at CNAME .
+source-66584305d5.mainpost.de CNAME .
 source-ed91a21bf0.dastelefonbuch.de CNAME .
 vorausweisung.report.oewa.at CNAME .
 vote.apps.iocnt.de CNAME .
@@ -2044,4 +2051,3 @@ www.apps.iocnt.de CNAME .
 www2.dk-online.de CNAME .
 xnasldata-63224ea7ba.apps.iocnt.de CNAME .
 acksrc.chip.de CNAME .
-source-66584305d5.mainpost.de CNAME .

@@ -890,7 +890,6 @@
 ||analytics.airtv.net^
 ||analytics2.airtv.net^
 ||analytics.amwell.systems^
-||analytics.angelone.in^
 ||api-stage.facturacionmcdonalds.com.mx^
 ||api.ariadirect.com^
 ||app.appone.link^

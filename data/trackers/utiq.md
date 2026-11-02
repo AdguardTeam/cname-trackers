@@ -229,6 +229,7 @@
 | utiq.hellorayo.co.uk | frontend.prod.utiq-aws.net |
 | utiq.helpster.de | frontend.prod.utiq-aws.net |
 | utiq.hersfelder-zeitung.de | frontend.prod.utiq-aws.net |
+| utiq.historyextra.com | frontend.prod.utiq-aws.net |
 | utiq.hna.de | frontend.prod.utiq-aws.net |
 | utiq.hola.com | frontend.prod.utiq-aws.net |
 | utiq.holidaycheck.at | frontend.prod.utiq-aws.net |
@@ -283,6 +284,7 @@
 | utiq.larioja.com | frontend.prod.utiq-aws.net |
 | utiq.lasprovincias.es | frontend.prod.utiq-aws.net |
 | utiq.lauterbacher-anzeiger.de | frontend.prod.utiq-aws.net |
+| utiq.lavanguardia.com | frontend.prod.utiq-aws.net |
 | utiq.laverdad.es | frontend.prod.utiq-aws.net |
 | utiq.lavoixdunord.fr | frontend.prod.utiq-aws.net |
 | utiq.lavozdigital.es | frontend.prod.utiq-aws.net |
@@ -438,6 +440,8 @@
 | utiq.regio7.cat | frontend.prod.utiq-aws.net |
 | utiq.reisefrage.net | frontend.prod.utiq-aws.net |
 | utiq.reisereporter.de | frontend.prod.utiq-aws.net |
+| utiq.release.bbcgoodfood.com | frontend.prod.utiq-aws.net |
+| utiq.release.im-slate.com | frontend.prod.utiq-aws.net |
 | utiq.remszeitung.de | frontend.prod.utiq-aws.net |
 | utiq.renault.fr | frontend.prod.utiq-aws.net |
 | utiq.renew.auto | frontend.prod.utiq-aws.net |
@@ -499,6 +503,7 @@
 | utiq.terrafemina.com | frontend.prod.utiq-aws.net |
 | utiq.testfaz.net | frontend.prod.utiq-aws.net |
 | utiq.thenewretail.es | frontend.prod.utiq-aws.net |
+| utiq.thescottishsun.co.uk | frontend.prod.utiq-aws.net |
 | utiq.thestar.com | frontend.prod.utiq-aws.net |
 | utiq.thewatmag.com | frontend.prod.utiq-aws.net |
 | utiq.thueringen24.de | frontend.prod.utiq-aws.net |
@@ -562,9 +567,12 @@
 | fakexa-test.mno.link | frontend.test.utiq-aws.net |
 | logger-test.mno.link | frontend.test.utiq-aws.net |
 | orangefr-test.mno.link | frontend.test.utiq-aws.net |
+| utiq-test.utest1-prod.work | frontend.test.utiq-aws.net |
 | utiq-test.utest1.work | frontend.test.utiq-aws.net |
+| utiq-test.utest2-prod.work | frontend.test.utiq-aws.net |
 | utiq-test.utest3.work | frontend.test.utiq-aws.net |
 | utiq.one.utest1.work | frontend.test.utiq-aws.net |
+| utiq.two.utest1.work | frontend.test.utiq-aws.net |
 | utiq.utest2.work | frontend.test.utiq-aws.net |
 | utiq.utest3.work | frontend.test.utiq-aws.net |
 | vfdemsp.mno.link | frontend.test.utiq-aws.net |

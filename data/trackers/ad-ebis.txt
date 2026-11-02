@@ -133,7 +133,6 @@
 ||adebiscname.sumirin-ht.co.jp^
 ||adebisu.wowow.co.jp^
 ||adex.kintetsu-re.co.jp^
-||adex.naruko333.jp^
 ||adex.predear.com^
 ||admeasure.hh-online.jp^
 ||adnl.bk.mufg.jp^
@@ -154,6 +153,7 @@
 ||c.lypo-c.jp^
 ||c.lypo-c.shop^
 ||campaign-direct.eisai.jp^
+||capi.proactiv.jp^
 ||ccc.aqualink.tokyo^
 ||cdn00.sanko.ac.jp^
 ||cdn01.sanko.ac.jp^

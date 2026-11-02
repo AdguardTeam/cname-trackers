@@ -61,6 +61,7 @@ bja2.destinia.cz
 bk.brookeo.fr
 bm22.baronmag.com
 bn.voyage-prive.com
+bo2.bordee.qc.ca
 bpe2.destinia.co.il
 brv0.bravomusique.com
 bum7.bymycar.fr
@@ -93,7 +94,6 @@ ct6.chansontadoussac.com
 ctr5.culture3r.com
 cvi6.destinia.qa
 cyf9.destinia.cl
-d0f.le-dauphin.com
 d62e9cfa.eulerian.io
 da3.delicesdautomne.com
 da85edd2.eulerian.io
@@ -193,6 +193,7 @@ ef.futuroscope.mobi
 efbdcd3b.eulerian.io
 eit3.destinia.nl
 ek8.voyage-prive.com
+erb.tremblant.ca
 erdev-next.eulerian.io
 erdev1.eulerian.io
 erdev3.eulerian.io
@@ -211,7 +212,6 @@ eule3.pmu.fr
 eule4.pmu.fr
 eule5.pmu.fr
 euler.pmu.fr
-eulerian.belambra.be
 eulerian.belambra.fr
 eulerian.canal-plus.com
 eulerian.eidershop.com
@@ -299,7 +299,6 @@ jj2.festivalquebecjazzenjuin.com
 kc47c6fa.eulerian.io
 kep6.destinia.ie
 kwsjy9.oui.sncf
-l2i.qualityinnlevis.com
 lbc.lesbonscommerces.fr
 lbu3.labibleurbaine.com
 lc5.leschutes.ca
@@ -345,6 +344,7 @@ nmu3.destinia.be
 noa0.compteczam.fr
 nqsm.medicus.ca
 nrg.red-by-sfr.fr
+nt1.taniere.ca
 nyt1.biosens-leanature.fr
 o35e79f2.eulerian.io
 o69cab6a.eulerian.io
@@ -413,6 +413,7 @@ rmp4.destinia.uy
 rqnn.funjet.com
 rup5.destinia.ru
 rvz9.destinia.co.ro
+rwl.tremblant.ca
 rxzz.metcalfehotel.com
 s4e8.cascades.com
 sa.lesselectionsskoda.fr
@@ -436,6 +437,7 @@ ssrlot.lotoquebec.com
 ssy7.destinia.com.ua
 st2.sat.qc.ca
 st9.sorstu.ca
+su1.les-suites.ca
 sxbj.gasparmtl.com
 t.pmu.fr
 t.voyages-sncf.com
@@ -450,6 +452,7 @@ tdf1.easyvoyage.de
 tdf1.vivabox.fr
 tdp1.vivabox.es
 tds1.vivabox.be
+tg2.tangentedanse.ca
 th3.tripdhumour.com
 th4.tohu.ca
 tlc8.touslescontes.com
@@ -527,13 +530,12 @@ zum7cc.oui.sncf
 zyq2.destinia.sk
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
+d0f.le-dauphin.com
 d2u.dauphinquebec.com
-erb.tremblant.ca
 hk2d.tourismemauricie.com
+l2i.qualityinnlevis.com
 nym5c.bonlook.com
-rwl.tremblant.ca
 ry0.rythmefm.com
-su1.les-suites.ca
 www.mis.tourisme-montreal.org
 yio.tremblant.ca
 ea.mnt.fr

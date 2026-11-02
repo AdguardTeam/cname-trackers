@@ -73,6 +73,7 @@
   "l.automobile-magazine.fr": "tls.non.li",
   "l.autonews.fr": "tls.non.li",
   "l.autoplus.fr": "tls.non.li",
+  "l.basketeurope.com": "tls.non.li",
   "l.be.com": "tls.non.li",
   "l.beaute-test.com": "tls.non.li",
   "l.beauxarts.com": "tls.non.li",
@@ -422,5 +423,6 @@
   "www.h24.news": "tls.non.li",
   "www.moarty.com": "tls.non.li",
   "www.verso.news": "tls.non.li",
+  "za.h24.news": "tls.non.li",
   "zmail.h24.news": "tls.non.li"
 }

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793027475289        ; Serial
+           1793621301591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -106,7 +106,6 @@ stats.abdodaoud.com CNAME .
 stats.adaliaworks.com CNAME .
 stats.alextecplayz.com CNAME .
 stats.alxwrd.co.uk CNAME .
-stats.animals.im CNAME .
 stats.apitman.com CNAME .
 stats.applizi.com CNAME .
 stats.arredofrigo.net CNAME .
@@ -121,6 +120,7 @@ stats.brandontoner.ca CNAME .
 stats.brendanhanke.com CNAME .
 stats.calculusmadeeasy.org.ua CNAME .
 stats.carlomega.it CNAME .
+stats.cartoonrecruit.com CNAME .
 stats.cassie.omg.lol CNAME .
 stats.celerry.com CNAME .
 stats.certidiritti.org CNAME .
@@ -130,6 +130,7 @@ stats.coderjoe.net CNAME .
 stats.coderscompass.org CNAME .
 stats.consteval.ca CNAME .
 stats.cormier.co CNAME .
+stats.cosminworks.com CNAME .
 stats.crosshair.dev CNAME .
 stats.cynicalsignals.com CNAME .
 stats.dalinwilliams.com CNAME .
@@ -154,6 +155,7 @@ stats.hedy.dev CNAME .
 stats.hinduismdebunked.com CNAME .
 stats.homecompanion.io CNAME .
 stats.how.wtf CNAME .
+stats.ifknow.ru CNAME .
 stats.ignatuque.xyz CNAME .
 stats.interactiveprimer.com CNAME .
 stats.isaacfreund.com CNAME .
@@ -162,6 +164,7 @@ stats.jakebailey.dev CNAME .
 stats.jameswolman.dev CNAME .
 stats.janmr.com CNAME .
 stats.jasm1nii.xyz CNAME .
+stats.jdkba.com CNAME .
 stats.jessesquires.com CNAME .
 stats.jmmr.dev CNAME .
 stats.johanneswienke.de CNAME .
@@ -169,6 +172,7 @@ stats.jonaslieb.de CNAME .
 stats.justasimple.app CNAME .
 stats.k94.ch CNAME .
 stats.kc.ie CNAME .
+stats.kelly4frostburg.com CNAME .
 stats.kev.bar CNAME .
 stats.konfou.xyz CNAME .
 stats.ksmets.be CNAME .
@@ -185,6 +189,7 @@ stats.mathematikos.sk CNAME .
 stats.matteocroce.it CNAME .
 stats.mausoleum.me CNAME .
 stats.merrell.dev CNAME .
+stats.mijntool.nl CNAME .
 stats.mmn.ca CNAME .
 stats.msakg.com CNAME .
 stats.msol.io CNAME .
@@ -197,7 +202,7 @@ stats.opensurge2d.org CNAME .
 stats.otbivnoe.ru CNAME .
 stats.pamcarter.net CNAME .
 stats.paperarrow.com CNAME .
-stats.pdfcreate.cc CNAME .
+stats.paytix.lu CNAME .
 stats.pedrovicente.pt CNAME .
 stats.pi4li.net CNAME .
 stats.plugin-docs.mstrhakr.com CNAME .
@@ -210,6 +215,7 @@ stats.rama.nz CNAME .
 stats.raycordlegends.com CNAME .
 stats.realestate.cv.ua CNAME .
 stats.realestate.kyiv.ua CNAME .
+stats.realestate.net.ua CNAME .
 stats.realestate.uz.ua CNAME .
 stats.reallybyte.com CNAME .
 stats.rewindmtv.com CNAME .
@@ -218,6 +224,7 @@ stats.risanne.nl CNAME .
 stats.rocketgoboom.lol CNAME .
 stats.ryanchmelir.com CNAME .
 stats.sebastianzehner.com CNAME .
+stats.seds.nl CNAME .
 stats.semipol.de CNAME .
 stats.showthesteps.org CNAME .
 stats.sophia.fish CNAME .
@@ -226,6 +233,7 @@ stats.stegzero.com CNAME .
 stats.studiodeerenberg.nl CNAME .
 stats.svc.lol CNAME .
 stats.swimblueprint.com CNAME .
+stats.szittai.cloud CNAME .
 stats.szorty.space CNAME .
 stats.tdurand.com CNAME .
 stats.textstat.org CNAME .
@@ -233,6 +241,7 @@ stats.theadnyeusarchive.app CNAME .
 stats.timothechau.vet CNAME .
 stats.tinkerer.tools CNAME .
 stats.tomo.codes CNAME .
+stats.ton-chyod-s.me CNAME .
 stats.toughersports.org CNAME .
 stats.trainsley69.me CNAME .
 stats.transactional.blog CNAME .
@@ -240,15 +249,18 @@ stats.tungjung.nz CNAME .
 stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .
 stats.vamsi-alluri.me CNAME .
+stats.villajoanna.online CNAME .
 stats.waytosmile.fr CNAME .
 stats.webmeasurements.org CNAME .
 stats.whatacools.com CNAME .
 stats.wjmallard.net CNAME .
 stats.ybbond.id CNAME .
+stats.yolandakeiser.ch CNAME .
 stats.yunseo.kim CNAME .
 stats.zbahn.de CNAME .
 stats.zgo.at CNAME .
 stats.zl2edh.com CNAME .
+stats2.cartoonrecruit.com CNAME .
 tik.terokarvinen.com CNAME .
 trackerstats.davidthe.dev CNAME .
 tracking.burningbutter.com CNAME .

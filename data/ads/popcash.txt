@@ -51,7 +51,6 @@
 ||cdn.hjklq.com^
 ||cdn.holenhw.com^
 ||cdn.htkcm.com^
-||cdn.ianjumb.com^
 ||cdn.iople.com^
 ||cdn.isgost.com^
 ||cdn.jandaqwe.com^
@@ -95,7 +94,6 @@
 ||cdn.ptomw.com^
 ||cdn.puysis.com^
 ||cdn.qgerr.com^
-||cdn.quagfa.com^
 ||cdn.rapolok.com^
 ||cdn.rausfml.com^
 ||cdn.rgrd.xyz^
@@ -110,7 +108,6 @@
 ||cdn.syinga.com^
 ||cdn.tahwox.com^
 ||cdn.tazlo.cloud^
-||cdn.timsef.com^
 ||cdn.tsepyk.com^
 ||cdn.tzaho.com^
 ||cdn.ugopkl.com^
@@ -165,7 +162,6 @@
 ||angelfish.dpya.com^
 ||angelfish.grayscale.design^
 ||angelfish.shorehamlife.com^
-||anglerfish.luminfire.com^
 ||anglerfish.pfolios.net^
 ||ant.b13.com^
 ||ant.prefinery.com^
@@ -554,7 +550,6 @@
 ||leopon.luckycasts.com^
 ||leopon.originalmineral.com^
 ||limpet.pioneerlandscapingllc.com^
-||limpet.yago.dev^
 ||llama.eniston.io^
 ||llama.growthinkers.nl^
 ||llama.lobbly.com^
@@ -702,7 +697,6 @@
 ||porpoise.fruittreecottage.com.au^
 ||porpoise.kristinholl.com^
 ||prairiedog.freemusic.com.au^
-||prairiedog.hashnode.com^
 ||prairiedog.health-improvement.uk^
 ||prairiedog.xview.us^
 ||prawn.lionsmouth.digital^
@@ -1043,6 +1037,8 @@
 ||ss.nwmnd.com^
 ||stat.guidebot.org^
 ||stats.yootheme.com^
+||sudoku24.rumbleapp.gg^
+||sudoku25.rumbleapp.gg^
 ||thirty-good.lugg.com^
 ||ua.daito.io^
 ||video.adsninja.ca^

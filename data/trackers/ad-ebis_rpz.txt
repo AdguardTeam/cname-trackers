@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793016595541        ; Serial
+           1793617659137        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -144,7 +144,6 @@ adebiscname.auone.jp CNAME .
 adebiscname.sumirin-ht.co.jp CNAME .
 adebisu.wowow.co.jp CNAME .
 adex.kintetsu-re.co.jp CNAME .
-adex.naruko333.jp CNAME .
 adex.predear.com CNAME .
 admeasure.hh-online.jp CNAME .
 adnl.bk.mufg.jp CNAME .
@@ -165,6 +164,7 @@ c.cbdselect.shop CNAME .
 c.lypo-c.jp CNAME .
 c.lypo-c.shop CNAME .
 campaign-direct.eisai.jp CNAME .
+capi.proactiv.jp CNAME .
 ccc.aqualink.tokyo CNAME .
 cdn00.sanko.ac.jp CNAME .
 cdn01.sanko.ac.jp CNAME .

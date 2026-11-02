@@ -74,6 +74,7 @@
 ||l.automobile-magazine.fr^
 ||l.autonews.fr^
 ||l.autoplus.fr^
+||l.basketeurope.com^
 ||l.be.com^
 ||l.beaute-test.com^
 ||l.beauxarts.com^
@@ -423,4 +424,5 @@
 ||www.h24.news^
 ||www.moarty.com^
 ||www.verso.news^
+||za.h24.news^
 ||zmail.h24.news^

@@ -39,6 +39,7 @@ t.primtrck.fun
 t.quanttrck.space
 t.rallytrck.website
 t.ranktrck.uno
+t.risetrck.website
 t.snaptrckr.fun
 t.sptrck.com
 t.steptrck.site

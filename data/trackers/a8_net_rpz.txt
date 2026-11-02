@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793016595541        ; Serial
+           1793624908238        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -70,6 +70,7 @@ a8.chuo-estate.net CNAME .
 a8.clarah.jp CNAME .
 a8.classicalelf.shop CNAME .
 a8.clubgets.com CNAME .
+a8.coaching.agaroot.jp CNAME .
 a8.cocomeister.jp CNAME .
 a8.coloria.jp CNAME .
 a8.cookbiz.jp CNAME .
@@ -180,7 +181,6 @@ a8.kireisalone.style CNAME .
 a8.kireiyu.com CNAME .
 a8.kizuna-link.jp CNAME .
 a8.kland.shop CNAME .
-a8.kojyo-worker.com CNAME .
 a8.kotei-denwa.com CNAME .
 a8.kougu-kaitoriyasan.com CNAME .
 a8.kujo-service.com CNAME .
@@ -498,7 +498,6 @@ a8clk.grirose.jp CNAME .
 a8clk.gurutas.jp CNAME .
 a8clk.hags-ec.com CNAME .
 a8clk.hikakaku.com CNAME .
-a8clk.hikarinobe.com CNAME .
 a8clk.hoiku-hiroba.com CNAME .
 a8clk.hoiku.fine.me CNAME .
 a8clk.hoken-minaoshi-lab.jp CNAME .
@@ -645,7 +644,6 @@ a8clk.star-mall.net CNAME .
 a8clk.starwifi.jp CNAME .
 a8clk.stken.owners-age.com CNAME .
 a8clk.store.mago-ch.com CNAME .
-a8clk.stst-used.com CNAME .
 a8clk.stylestore.jp CNAME .
 a8clk.suguchoku.jp CNAME .
 a8clk.sumafuri.jp CNAME .
@@ -1172,6 +1170,7 @@ a8cv.shop.pixela.jp CNAME .
 a8cv.shop.solve-grp.com CNAME .
 a8cv.sibody.co.jp CNAME .
 a8cv.signalift.com CNAME .
+a8cv.silktherich.com CNAME .
 a8cv.sirusi.jp CNAME .
 a8cv.sitecreation.co.jp CNAME .
 a8cv.sl-creations.store CNAME .
@@ -1302,7 +1301,6 @@ a8cvhoiku.kidsmate.jp CNAME .
 a8cvt.care-wing.jp CNAME .
 a8cvtrack.tokai.jp CNAME .
 a8dev.hikarinet-s.com CNAME .
-a8dns.webcircle.co.jp CNAME .
 a8enquete.eventos.tokyo CNAME .
 a8hokuro.ike-sunshine.co.jp CNAME .
 a8itp.bitoka-japan.com CNAME .
@@ -1337,6 +1335,7 @@ a8trck.aisatsujo.jp CNAME .
 a8trck.helloactivity.com CNAME .
 a8trck.j-sen.jp CNAME .
 a8trck.sibody.co.jp CNAME .
+a8trck.staging-meguru.helloactivity.com CNAME .
 a8trck.tolot.com CNAME .
 a8trck.worldone.to CNAME .
 a8trck.ws.formzu.net CNAME .
@@ -1369,7 +1368,6 @@ acv.softbank-hikaricollabo.com CNAME .
 acv.xn--dckf5a1e821s9i7b.com CNAME .
 acv.xn--lck7b0fy49k9y1b.com CNAME .
 ad-a8.www.zeiri4.com CNAME .
-ad.belleeau.jp CNAME .
 ad.e-dpe.jp CNAME .
 ad.houkei-shinjuku.com CNAME .
 ad.ichiban-boshi.com CNAME .
@@ -1562,5 +1560,4 @@ trialapp.live-english.co.jp CNAME .
 webcv.advan-corp.co.jp CNAME .
 webtest.lpio.jp CNAME .
 www.a8clk.amelia.ne.jp CNAME .
-www.ad.ehello.jp CNAME .
 yoiku-sub.yoiku.support CNAME .

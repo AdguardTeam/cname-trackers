@@ -32,12 +32,10 @@
 | rbthre.work | park.realbig.online |
 | rdv.naruto-base.tv | park.realbig.online |
 | real.delovoemesto.ru | park.realbig.online |
-| rott.mazlspqnn.ru | park.realbig.online |
 | servw.bid | park.realbig.online |
 | spush.olmiweb.com | park.realbig.online |
 | workerhome.click | park.realbig.online |
 | www.fasder12.ru | park.realbig.online |
-| www.iskustvenny-intellekt.ru | park.realbig.online |
 | www.rbp-gen1.site | park.realbig.online |
 | www.rbp1.ru | park.realbig.online |
 | www.rbp2.ru | park.realbig.online |
@@ -50,4 +48,3 @@
 | www.rekl1.com | park.realbig.online |
 | www.rlrt.ru | park.realbig.online |
 | xxx.extrablocks.ru | park.realbig.online |
-| zbs.etodomendlyareklamy.ru | park.realbig.online |

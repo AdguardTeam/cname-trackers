@@ -1,6 +1,5 @@
 #
 # Company name: Piwik PRO
-a.relayto.com
 a.uwhealth.org
 analysis-test.sozialversicherung.at
 analysis.sozialversicherung.at

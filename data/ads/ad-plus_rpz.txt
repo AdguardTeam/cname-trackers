@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793018717010        ; Serial
+           1793617659137        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,8 +22,10 @@ dashboard.andbeyond.media CNAME .
 dashboard.ausdoc.com.au CNAME .
 dashboard.digita.media CNAME .
 dashboard.entravision.com CNAME .
+dashboard.evonixtech.com CNAME .
 dashboard.grapemedia.cz CNAME .
 dashboard.lookverin.com CNAME .
+dashboard.platformance.io CNAME .
 dashboard.regiealfa.com CNAME .
 dashboard.srmg.com CNAME .
 dashboard.viewtraff.com CNAME .
@@ -48,5 +50,6 @@ serving.thebeglobal.com CNAME .
 serving.viewtraff.com CNAME .
 serving.webtradingspot.com CNAME .
 stream.kolorowey.com CNAME .
+video.profitsence.com CNAME .
 video.waardex.com CNAME .
 vidops.zeeker.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793019754115        ; Serial
+           1793624908238        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -219,6 +219,7 @@ dc.volkswagen.de CNAME .
 dc.volkswagen.es CNAME .
 dc.volkswagen.fr CNAME .
 dc.volkswagen.ie CNAME .
+dc.volkswagen.nl CNAME .
 dc.volkswagen.no CNAME .
 dc.volkswagen.pl CNAME .
 dc.vw.co.za CNAME .
@@ -266,7 +267,6 @@ ensighten.postoffice.co.uk CNAME .
 ensighten.safeauto.com CNAME .
 ensighten.staging2.cedar.digital CNAME .
 ensightenone.danskespil.dk CNAME .
-fcone.demo-charitablegift.com CNAME .
 fctms.demo-charitablegift.com CNAME .
 fctms.fidelity.com CNAME .
 fctms.fidelitycharitable.org CNAME .
@@ -319,6 +319,7 @@ privacy.blade.app CNAME .
 privacy.buyersedge.com.au CNAME .
 privacy.easyjet.com CNAME .
 privacy.eazle.at CNAME .
+privacy.eazle.com CNAME .
 privacy.gemfinance.co.nz CNAME .
 privacy.gemvisa.co.nz CNAME .
 privacy.gemvisa.com.au CNAME .
@@ -426,6 +427,7 @@ tms.nabtrade.com.au CNAME .
 tms.nationaltrust.org.uk CNAME .
 tms.rsa.com CNAME .
 tms.securid.com CNAME .
+tms.suzuki.hu CNAME .
 tms.suzukibusinesscloud-qa.com CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .

@@ -115,16 +115,13 @@ circleofjoy.circlesurrogacy.com
 demo.extole.com
 dev.refer.forddrive.com
 earn-and-refer.extoleu.com
+em225.codecademy.com
 em2287.theory.com
 em3007.wagwalking.com
-em4504.mail.raf.xfinity.com
 em5230.rewards.dailypay.com
-em5231.mail.propertyperks.xfinity.com
-em5807.turbotax.refer.intuit.com
-em767.forgetrust.com
+em7147.love.suncoastcreditunion.com
 em7952.dailypay.com
-em8031.soundcloud.com
-em8642.notifications.acorns.com
+em8071.share.uniti.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -454,6 +451,7 @@ referral.shiseido.com
 referralrewards.brightspeed.com
 referrals.lumen.com
 reward.first-online.bank
+rewards.valleyfiber.ca
 rewards.westlakedermatology.com
 rob.extoleu.com
 rob2.extoleu.com
@@ -465,6 +463,7 @@ share.3riversfcu.org
 share.aarp.org
 share.activations.com
 share.adelfibanking.com
+share.adt.com
 share.advanceamerica.net
 share.adventurecu.org
 share.affinityfcu.com
@@ -504,6 +503,7 @@ share.bose.co.nz
 share.bose.com.au
 share.brava.com
 share.brunettethelabel.com
+share.buckscountycouriertimes.com
 share.buildertrend.com
 share.burlingtonfreepress.com
 share.burpee.com
@@ -680,6 +680,7 @@ share.pnj.com
 share.policygenius.com
 share.postcrescent.com
 share.poughkeepsiejournal.com
+share.press-citizen.com
 share.pressconnects.com
 share.princess.com
 share.qustodio.com
@@ -742,6 +743,7 @@ share.starnewsonline.com
 share.starone.org
 share.statesmanjournal.com
 share.staugustine.com
+share.sterlingvineyards.com
 share.stiltzlifts.com
 share.stopagingnow.com
 share.stridehealth.com
@@ -772,6 +774,7 @@ share.theoryoutlet.com
 share.theprisonerwinecompany.com
 share.thestarpress.com
 share.thewineshop.com
+share.timesonline.com
 share.tincan.kids
 share.tireagent.com
 share.tmnews.com
@@ -779,6 +782,7 @@ share.tonies.com
 share.trafalgar.com
 share.travelzoo.com
 share.treasurywineevent.com
+share.twinlakes.net
 share.uk.boden.com
 share.uk.theory.com
 share.unchartedsociety.com
@@ -818,11 +822,15 @@ www.rob.extoleu.com
 www.rob2.extoleu.com
 www.styleitforwardreward.com
 em1476.princesscruises.com
-em225.codecademy.com
 em2279.referral.quickbooks.co.uk
 em4367.raf-studentloans.discover.com
-em7147.love.suncoastcreditunion.com
+em4504.mail.raf.xfinity.com
+em5231.mail.propertyperks.xfinity.com
+em5807.turbotax.refer.intuit.com
+em767.forgetrust.com
+em8031.soundcloud.com
 em8561.go2bank.com
+em8642.notifications.acorns.com
 em8928.em.petco.com
 em9129.lightstream.com
 em924.refer.starbucks.com

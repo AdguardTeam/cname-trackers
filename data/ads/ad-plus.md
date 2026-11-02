@@ -20,12 +20,15 @@
 | dashboard.ausdoc.com.au | dashboard.stat-rock.com |
 | dashboard.digita.media | dashboard.stat-rock.com |
 | dashboard.entravision.com | dashboard.stat-rock.com |
+| dashboard.evonixtech.com | dashboard.stat-rock.com |
 | dashboard.grapemedia.cz | dashboard.stat-rock.com |
 | dashboard.lookverin.com | dashboard.stat-rock.com |
+| dashboard.platformance.io | dashboard.stat-rock.com |
 | dashboard.regiealfa.com | dashboard.stat-rock.com |
 | dashboard.srmg.com | dashboard.stat-rock.com |
 | dashboard.viewtraff.com | dashboard.stat-rock.com |
 | dashboard.xqubemedia.com | dashboard.stat-rock.com |
+| video.profitsence.com | dashboard.stat-rock.com |
 | video.waardex.com | dashboard.stat-rock.com |
 | ad-serving.iocreate.cloud | serving.stat-rock.com |
 | adserving.menatech.net | serving.stat-rock.com |

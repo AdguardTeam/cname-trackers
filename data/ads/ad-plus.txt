@@ -11,8 +11,10 @@
 ||dashboard.ausdoc.com.au^
 ||dashboard.digita.media^
 ||dashboard.entravision.com^
+||dashboard.evonixtech.com^
 ||dashboard.grapemedia.cz^
 ||dashboard.lookverin.com^
+||dashboard.platformance.io^
 ||dashboard.regiealfa.com^
 ||dashboard.srmg.com^
 ||dashboard.viewtraff.com^
@@ -37,5 +39,6 @@
 ||serving.viewtraff.com^
 ||serving.webtradingspot.com^
 ||stream.kolorowey.com^
+||video.profitsence.com^
 ||video.waardex.com^
 ||vidops.zeeker.com^

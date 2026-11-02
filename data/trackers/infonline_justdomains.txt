@@ -127,7 +127,6 @@ data-11c63b1cbc.mz.de
 data-11c63b1cbc.rblive.de
 data-11c63b1cbc.sao.de
 data-11c63b1cbc.volksstimme.de
-data-11eb4b2a24.deutsche-startups.de
 data-12025f91cc.uibk.ac.at
 data-1203b7acd3.mopo.de
 data-125f69cccb.eppelheim.de
@@ -356,6 +355,7 @@ data-34565915dd.firmenwissen.com
 data-34565915dd.firmenwissen.de
 data-34c9d32b77.apps.iocnt.de
 data-353c1c8501.falstaff.com
+data-35b9638d7b.bibdia-hosts.de
 data-35b9638d7b.bibdia-mobil.de
 data-366a248b14.film.at
 data-367bcf5bd6.german-retail-blog.com
@@ -659,6 +659,7 @@ data-53ba3c279a.apps.iocnt.de
 data-53ce61d695.bike-x.de
 data-5400382129.kunststoff-magazin.de
 data-545e23e607.kosmo.at
+data-5492b7d422.abschied-nehmen.de
 data-5492b7d422.azubis.de
 data-5492b7d422.fupa.net
 data-5492b7d422.mz-jobs.de
@@ -781,6 +782,7 @@ data-60d896f23d.maz-online.de
 data-60d896f23d.ndz.de
 data-60d896f23d.neuepresse.de
 data-60d896f23d.oaz-online.de
+data-60d896f23d.op-marburg.de
 data-60d896f23d.ostsee-zeitung.de
 data-60d896f23d.ovz-online.de
 data-60d896f23d.paz-online.de
@@ -1156,6 +1158,7 @@ data-975521d9ad.horizontjobs.de
 data-97d159685e.bbheute.de
 data-97d159685e.gemeinsam-gedenken.de
 data-97d159685e.szbz.de
+data-98b5a11c9b.addradio.de
 data-98b5a11c9b.radiolippe.de
 data-992b9a20ea.competitionline.com
 data-99329e3cb2.bilanz.de
@@ -1396,6 +1399,7 @@ data-b4d5de22d2.mehr-tanken.de
 data-b4df3518e0.haustec.de
 data-b50e0279d5.meinbezirk.at
 data-b55c944924.brandeins.de
+data-b5689af0d0.aerotelegraph.com
 data-b59e228e1d.apps.iocnt.de
 data-b640a0ce46.connect.de
 data-b640a0ce46.wmp-dev.de
@@ -1453,6 +1457,8 @@ data-bb21a2f11b.myhomebook-magazine.com
 data-bb21a2f11b.petbook-magazine.com
 data-bb21a2f11b.sportbild.de
 data-bb21a2f11b.stylebook.de
+data-bb21a2f11b.techbook-magazine.com
+data-bb21a2f11b.travelbook-magazine.com
 data-bb4ada6163.travelbook.de
 data-bc153aec3e.addradio.de
 data-bc153aec3e.radioguetersloh.de
@@ -2026,6 +2032,7 @@ pool2.ioam.de
 pool4.ioam.de
 pool5.ioam.de
 report.oewa.at
+source-66584305d5.mainpost.de
 source-ed91a21bf0.dastelefonbuch.de
 vorausweisung.report.oewa.at
 vote.apps.iocnt.de
@@ -2033,4 +2040,3 @@ www.apps.iocnt.de
 www2.dk-online.de
 xnasldata-63224ea7ba.apps.iocnt.de
 acksrc.chip.de
-source-66584305d5.mainpost.de

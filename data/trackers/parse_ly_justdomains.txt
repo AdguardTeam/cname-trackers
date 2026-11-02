@@ -3,6 +3,7 @@
 fpa-api.adweek.com
 fpa-api.arstechnica.com
 fpa-api.golfdigest.com
+fpa-api.hip2keto.com
 fpa-api.missionlocal.org
 fpa-api.prideofdetroit.com
 fpa-api.rollingstone.com
@@ -85,6 +86,7 @@ fpa-events.spectator.com.au
 fpa-events.sunjournal.com
 fpa-events.tampabay28.com
 fpa-events.texasmonthly.com
+fpa-events.thebeat.travel
 fpa-events.thedailybeast.com
 fpa-events.themarshallproject.org
 fpa-events.thetrace.org

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793024395472        ; Serial
+           1793626042397        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -901,7 +901,6 @@ analytics.5milesapp.com CNAME .
 analytics.airtv.net CNAME .
 analytics2.airtv.net CNAME .
 analytics.amwell.systems CNAME .
-analytics.angelone.in CNAME .
 api-stage.facturacionmcdonalds.com.mx CNAME .
 api.ariadirect.com CNAME .
 app.appone.link CNAME .

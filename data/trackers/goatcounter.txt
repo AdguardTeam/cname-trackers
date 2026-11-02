@@ -95,7 +95,6 @@
 ||stats.adaliaworks.com^
 ||stats.alextecplayz.com^
 ||stats.alxwrd.co.uk^
-||stats.animals.im^
 ||stats.apitman.com^
 ||stats.applizi.com^
 ||stats.arredofrigo.net^
@@ -110,6 +109,7 @@
 ||stats.brendanhanke.com^
 ||stats.calculusmadeeasy.org.ua^
 ||stats.carlomega.it^
+||stats.cartoonrecruit.com^
 ||stats.cassie.omg.lol^
 ||stats.celerry.com^
 ||stats.certidiritti.org^
@@ -119,6 +119,7 @@
 ||stats.coderscompass.org^
 ||stats.consteval.ca^
 ||stats.cormier.co^
+||stats.cosminworks.com^
 ||stats.crosshair.dev^
 ||stats.cynicalsignals.com^
 ||stats.dalinwilliams.com^
@@ -143,6 +144,7 @@
 ||stats.hinduismdebunked.com^
 ||stats.homecompanion.io^
 ||stats.how.wtf^
+||stats.ifknow.ru^
 ||stats.ignatuque.xyz^
 ||stats.interactiveprimer.com^
 ||stats.isaacfreund.com^
@@ -151,6 +153,7 @@
 ||stats.jameswolman.dev^
 ||stats.janmr.com^
 ||stats.jasm1nii.xyz^
+||stats.jdkba.com^
 ||stats.jessesquires.com^
 ||stats.jmmr.dev^
 ||stats.johanneswienke.de^
@@ -158,6 +161,7 @@
 ||stats.justasimple.app^
 ||stats.k94.ch^
 ||stats.kc.ie^
+||stats.kelly4frostburg.com^
 ||stats.kev.bar^
 ||stats.konfou.xyz^
 ||stats.ksmets.be^
@@ -174,6 +178,7 @@
 ||stats.matteocroce.it^
 ||stats.mausoleum.me^
 ||stats.merrell.dev^
+||stats.mijntool.nl^
 ||stats.mmn.ca^
 ||stats.msakg.com^
 ||stats.msol.io^
@@ -186,7 +191,7 @@
 ||stats.otbivnoe.ru^
 ||stats.pamcarter.net^
 ||stats.paperarrow.com^
-||stats.pdfcreate.cc^
+||stats.paytix.lu^
 ||stats.pedrovicente.pt^
 ||stats.pi4li.net^
 ||stats.plugin-docs.mstrhakr.com^
@@ -199,6 +204,7 @@
 ||stats.raycordlegends.com^
 ||stats.realestate.cv.ua^
 ||stats.realestate.kyiv.ua^
+||stats.realestate.net.ua^
 ||stats.realestate.uz.ua^
 ||stats.reallybyte.com^
 ||stats.rewindmtv.com^
@@ -207,6 +213,7 @@
 ||stats.rocketgoboom.lol^
 ||stats.ryanchmelir.com^
 ||stats.sebastianzehner.com^
+||stats.seds.nl^
 ||stats.semipol.de^
 ||stats.showthesteps.org^
 ||stats.sophia.fish^
@@ -215,6 +222,7 @@
 ||stats.studiodeerenberg.nl^
 ||stats.svc.lol^
 ||stats.swimblueprint.com^
+||stats.szittai.cloud^
 ||stats.szorty.space^
 ||stats.tdurand.com^
 ||stats.textstat.org^
@@ -222,6 +230,7 @@
 ||stats.timothechau.vet^
 ||stats.tinkerer.tools^
 ||stats.tomo.codes^
+||stats.ton-chyod-s.me^
 ||stats.toughersports.org^
 ||stats.trainsley69.me^
 ||stats.transactional.blog^
@@ -229,15 +238,18 @@
 ||stats.umcconnell.net^
 ||stats.uygar.sh^
 ||stats.vamsi-alluri.me^
+||stats.villajoanna.online^
 ||stats.waytosmile.fr^
 ||stats.webmeasurements.org^
 ||stats.whatacools.com^
 ||stats.wjmallard.net^
 ||stats.ybbond.id^
+||stats.yolandakeiser.ch^
 ||stats.yunseo.kim^
 ||stats.zbahn.de^
 ||stats.zgo.at^
 ||stats.zl2edh.com^
+||stats2.cartoonrecruit.com^
 ||tik.terokarvinen.com^
 ||trackerstats.davidthe.dev^
 ||tracking.burningbutter.com^

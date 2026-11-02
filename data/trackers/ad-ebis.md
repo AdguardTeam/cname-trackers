@@ -124,6 +124,7 @@
     * 4b12e83b-scxitlgt.cname.ebis.ne.jp
     * 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp
     * 4c291f26-leoqufvo.cname.ebis.ne.jp
+    * 4c3705e7-ngyedd03.cname.ebis.ne.jp
     * 4c937bae-xvkp4hsy.cname.ebis.ne.jp
     * 4cd0f380-sh2isfez.cname.ebis.ne.jp
     * 4d5e2130-zqngsxhf.cname.ebis.ne.jp
@@ -238,7 +239,6 @@
     * a2f5fc0f-fwkvhpci.cname.ebis.ne.jp
     * a30db63a-h0sqxtcz.cname.ebis.ne.jp
     * a32c8a4f-h0sqxtcz.cname.ebis.ne.jp
-    * a39324ce-fgpe2gow.cname.ebis.ne.jp
     * a4ba7b93-e2mmxp45.cname.ebis.ne.jp
     * a5ede5f5-sn9wfkl3.cname.ebis.ne.jp
     * a60ae4bd-makeshop.cname.ebis.ne.jp
@@ -499,6 +499,7 @@
 | cs1470sbeda.schoolasp.com | 4b12e83b-scxitlgt.cname.ebis.ne.jp |
 | ncc.nip-col.jp | 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp |
 | itp.phoebebeautyup.com | 4c291f26-leoqufvo.cname.ebis.ne.jp |
+| capi.proactiv.jp | 4c3705e7-ngyedd03.cname.ebis.ne.jp |
 | ureruadebis.papawash.com | 4c937bae-xvkp4hsy.cname.ebis.ne.jp |
 | adebis.sokamocka.com | 4cd0f380-sh2isfez.cname.ebis.ne.jp |
 | ebis.ayura.co.jp | 4d5e2130-zqngsxhf.cname.ebis.ne.jp |
@@ -613,7 +614,6 @@
 | cdn00.sanko.ac.jp | a2f5fc0f-fwkvhpci.cname.ebis.ne.jp |
 | adtrack.maisonlexia.com | a30db63a-h0sqxtcz.cname.ebis.ne.jp |
 | adtrack.alchemy-web.jp | a32c8a4f-h0sqxtcz.cname.ebis.ne.jp |
-| adex.naruko333.jp | a39324ce-fgpe2gow.cname.ebis.ne.jp |
 | cnameebis.usagi-online.com | a4ba7b93-e2mmxp45.cname.ebis.ne.jp |
 | adebis01.job-con.jp | a5ede5f5-sn9wfkl3.cname.ebis.ne.jp |
 | ebis.makeshop.jp | a60ae4bd-makeshop.cname.ebis.ne.jp |

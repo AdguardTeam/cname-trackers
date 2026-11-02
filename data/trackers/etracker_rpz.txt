@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793016595541        ; Serial
+           1793628865127        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ ct.krauss.app CNAME .
 ctrl.guenther.de CNAME .
 customer.fenster-gawelda.de CNAME .
 customer.growmart.de CNAME .
+customer.useratio.io CNAME .
 data.diekuechedirekt.de CNAME .
 data.drhauschka.de CNAME .
 data.fitx.de CNAME .
@@ -57,6 +58,7 @@ data.regale-lbl.de CNAME .
 data.runners-kitchen.com CNAME .
 data.soristudios.de CNAME .
 data.uk.kutchenhaus.com CNAME .
+debug.onofficeom.com CNAME .
 defabc.black-label-coffee.de CNAME .
 dev.schmutte.com CNAME .
 dts.suchmeisterei.de CNAME .
@@ -184,6 +186,7 @@ gus.ihlenfeldt.de CNAME .
 insides.honic.eu CNAME .
 insights.bertelsmann-stiftung.de CNAME .
 js.edingershops.de CNAME .
+kkanalytics.desintec.de CNAME .
 kkanalytics.fria-immobilien.de CNAME .
 kkanalytics.rfox.de CNAME .
 kkanalytics.terravis-biogas.de CNAME .
@@ -265,6 +268,9 @@ s.lotto-hessen.de CNAME .
 s.materna.de CNAME .
 salzburg.semsea.at CNAME .
 sas2.arrowforge.de CNAME .
+services.ch.rotho.com CNAME .
+services.it.rotho.com CNAME .
+services.rotho-babydesign.com CNAME .
 services.rotho.com CNAME .
 sf.schufa.de CNAME .
 show.gruppedrei.com CNAME .
@@ -275,6 +281,7 @@ sst.cannapoli.de CNAME .
 sst.grasrezept-vergleich.de CNAME .
 st1.mg-prime.com CNAME .
 stat.beetfreunde.de CNAME .
+statistics.ampack-solutions.com CNAME .
 statistics.bergland.de CNAME .
 statistics.finkhof.de CNAME .
 statistics.firmengruppe-burk.de CNAME .
@@ -464,6 +471,7 @@ webcontr.lindy.com CNAME .
 webcontr.lindy.de CNAME .
 webcontr.lmz-bw.de CNAME .
 webcontr.lotto-hh.de CNAME .
+webcontr.lottosachsenanhalt.de CNAME .
 webcontr.luftwassertechnik.de CNAME .
 webcontr.luxentu.de CNAME .
 webcontr.madena.de CNAME .
@@ -512,7 +520,6 @@ webcontr.wolkenlosundheiter.de CNAME .
 webcontr.yourfashionplace.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
 webctrl.dalimed.de CNAME .
-webdat.mai-estate.com CNAME .
 webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
 webstats.kawentsmann.de CNAME .
@@ -562,23 +569,33 @@ webstt0056.onofficeom.com CNAME .
 webstt0057.onofficeom.com CNAME .
 webstt0059.onofficeom.com CNAME .
 webstt0060.onofficeom.com CNAME .
+webstt0061.onofficeom.com CNAME .
 webstt0063.onofficeom.com CNAME .
+webstt0064.onofficeom.com CNAME .
 webstt0067.onofficeom.com CNAME .
 webstt0068.onofficeom.com CNAME .
 webstt0069.onofficeom.com CNAME .
 webstt0071.onofficeom.com CNAME .
 webstt0073.onofficeom.com CNAME .
+webstt0074.onofficeom.com CNAME .
+webstt0075.onofficeom.com CNAME .
+webstt0076.onofficeom.com CNAME .
 webstt0077.onofficeom.com CNAME .
 webstt0078.onofficeom.com CNAME .
 webstt0079.onofficeom.com CNAME .
+webstt0082.onofficeom.com CNAME .
 webstt0083.onofficeom.com CNAME .
 webstt0086.onofficeom.com CNAME .
+webstt0089.onofficeom.com CNAME .
 webstt0090.onofficeom.com CNAME .
 webstt0094.onofficeom.com CNAME .
 webstt0096.onofficeom.com CNAME .
+webstt0100.onofficeom.com CNAME .
 webstt0102.onofficeom.com CNAME .
 webstt0103.onofficeom.com CNAME .
 webstt0111.onofficeom.com CNAME .
+webstt0113.onofficeom.com CNAME .
+webstt0114.onofficeom.com CNAME .
 websy.skillyofficial.com CNAME .
 webtr.cc-egov.de CNAME .
 webtr.codearchitekten.de CNAME .

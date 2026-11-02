@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793024395472        ; Serial
+           1793621301591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -85,6 +85,7 @@ l.autojournal.fr CNAME .
 l.automobile-magazine.fr CNAME .
 l.autonews.fr CNAME .
 l.autoplus.fr CNAME .
+l.basketeurope.com CNAME .
 l.be.com CNAME .
 l.beaute-test.com CNAME .
 l.beauxarts.com CNAME .
@@ -434,4 +435,5 @@ www.altereco.media CNAME .
 www.h24.news CNAME .
 www.moarty.com CNAME .
 www.verso.news CNAME .
+za.h24.news CNAME .
 zmail.h24.news CNAME .

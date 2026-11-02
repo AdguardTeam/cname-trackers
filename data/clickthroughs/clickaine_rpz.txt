@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793018717010        ; Serial
+           1793626042397        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,12 +23,12 @@ a3.hotpornfile.org CNAME .
 a4.hotpornfile.org CNAME .
 aabclkane.bachelorarchive.com CNAME .
 add.luffy.my.id CNAME .
-ads.imgdesu.art CNAME .
 ads.luffy.my.id CNAME .
 adsv.cki.name CNAME .
 api.hugemedia.cz CNAME .
 api.ngamgaixinh.art CNAME .
 api.rtnews.pro CNAME .
+api1.golink.cc CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.oneptp.com CNAME .
@@ -77,11 +77,13 @@ cn4.animehdl.net CNAME .
 cvk.supklik.com CNAME .
 cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
 dashww.hotscopes.net CNAME .
+daws4-3.brandnewapp.pro CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 drt.cliomovies.com CNAME .
 ejjjkil2121.gimmeporn.xyz CNAME .
 en.rtnews.pro CNAME .
+excavajo55.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 fotos.brandnewapp.pro CNAME .
@@ -129,11 +131,15 @@ www.brandnewapp.pro CNAME .
 www.daws4-3.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.hapenny.brandnewapp.pro CNAME .
+www.hostmaster.brandnewapp.pro CNAME .
+www.m.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
+www.s2.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
 www.telford.brandnewapp.pro CNAME .
 www.web5603.brandnewapp.pro CNAME .
 www.wp.brandnewapp.pro CNAME .
+www.xn--www-hn0a.rtnews.pro CNAME .
 xd3r.javgg.eu CNAME .
 yandex.31vaktiamp.pp.ua CNAME .
 z37.web.core.brandnewapp.pro CNAME .

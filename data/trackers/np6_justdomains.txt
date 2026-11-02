@@ -375,6 +375,7 @@ tr.email.distributor-expo.com
 tr.email.gap-france.fr
 tr.email.harmonie-mutuelle.fr
 tr.email.janedeboy.com
+tr.email.jlrfrance.fr
 tr.email.kinvent.com
 tr.email.np6.com
 tr.email.pointfranchise.co.uk
@@ -414,6 +415,7 @@ tr.emailing.tvcaraibes.tv
 tr.emailing.uda.fr
 tr.emailium.fr
 tr.emc.moethennessy.com
+tr.emea.moethennessy.com
 tr.enews.customsolutions.fr
 tr.enquetes.actionlogement.fr
 tr.enquetevrs.fr
@@ -522,6 +524,7 @@ tr.info.fulli.com
 tr.info.galian.fr
 tr.info.grapp-hennessy.com
 tr.info.harmonie-mutuelle.fr
+tr.info.imaprotect.com
 tr.info.la-norma.fr
 tr.info.lacentrale.fr
 tr.info.libranoo.com
@@ -953,6 +956,7 @@ tr.oferta-firmy.pl
 tr.ofertas-companeo.es
 tr.offer-companeo.co.uk
 tr.offerta-companeo.com
+tr.offerte.migliorifornitori.it
 tr.offre-btob.fr
 tr.offre-companeo.com
 tr.offre.devisdirect.com

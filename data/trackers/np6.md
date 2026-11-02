@@ -9,6 +9,7 @@
 * form.bp01.net
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
+* forms.bp01.net
 * web-ro.np6.com
 
 ## Cloaking domains
@@ -25,6 +26,7 @@
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
+| www.jeu.heliades.fr | forms.bp01.net |
 | m.uneo.fr | shortener.bp01.net |
 | s.allopneus.com | shortener.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
@@ -406,6 +408,7 @@
 | tr.email.gap-france.fr | tracking.bp01.net |
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
+| tr.email.jlrfrance.fr | tracking.bp01.net |
 | tr.email.kinvent.com | tracking.bp01.net |
 | tr.email.np6.com | tracking.bp01.net |
 | tr.email.pointfranchise.co.uk | tracking.bp01.net |
@@ -445,6 +448,7 @@
 | tr.emailing.uda.fr | tracking.bp01.net |
 | tr.emailium.fr | tracking.bp01.net |
 | tr.emc.moethennessy.com | tracking.bp01.net |
+| tr.emea.moethennessy.com | tracking.bp01.net |
 | tr.enews.customsolutions.fr | tracking.bp01.net |
 | tr.enquetes.actionlogement.fr | tracking.bp01.net |
 | tr.enquetevrs.fr | tracking.bp01.net |
@@ -553,6 +557,7 @@
 | tr.info.galian.fr | tracking.bp01.net |
 | tr.info.grapp-hennessy.com | tracking.bp01.net |
 | tr.info.harmonie-mutuelle.fr | tracking.bp01.net |
+| tr.info.imaprotect.com | tracking.bp01.net |
 | tr.info.la-norma.fr | tracking.bp01.net |
 | tr.info.lacentrale.fr | tracking.bp01.net |
 | tr.info.libranoo.com | tracking.bp01.net |
@@ -984,6 +989,7 @@
 | tr.ofertas-companeo.es | tracking.bp01.net |
 | tr.offer-companeo.co.uk | tracking.bp01.net |
 | tr.offerta-companeo.com | tracking.bp01.net |
+| tr.offerte.migliorifornitori.it | tracking.bp01.net |
 | tr.offre-btob.fr | tracking.bp01.net |
 | tr.offre-companeo.com | tracking.bp01.net |
 | tr.offre.devisdirect.com | tracking.bp01.net |

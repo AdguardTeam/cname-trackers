@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793018717010        ; Serial
+           1793621301591        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -62,7 +62,6 @@ cdn.hhmako.cloud CNAME .
 cdn.hjklq.com CNAME .
 cdn.holenhw.com CNAME .
 cdn.htkcm.com CNAME .
-cdn.ianjumb.com CNAME .
 cdn.iople.com CNAME .
 cdn.isgost.com CNAME .
 cdn.jandaqwe.com CNAME .
@@ -106,7 +105,6 @@ cdn.posawaj.com CNAME .
 cdn.ptomw.com CNAME .
 cdn.puysis.com CNAME .
 cdn.qgerr.com CNAME .
-cdn.quagfa.com CNAME .
 cdn.rapolok.com CNAME .
 cdn.rausfml.com CNAME .
 cdn.rgrd.xyz CNAME .
@@ -121,7 +119,6 @@ cdn.sslph.com CNAME .
 cdn.syinga.com CNAME .
 cdn.tahwox.com CNAME .
 cdn.tazlo.cloud CNAME .
-cdn.timsef.com CNAME .
 cdn.tsepyk.com CNAME .
 cdn.tzaho.com CNAME .
 cdn.ugopkl.com CNAME .
@@ -176,7 +173,6 @@ anaconda.zephyrus.gg CNAME .
 angelfish.dpya.com CNAME .
 angelfish.grayscale.design CNAME .
 angelfish.shorehamlife.com CNAME .
-anglerfish.luminfire.com CNAME .
 anglerfish.pfolios.net CNAME .
 ant.b13.com CNAME .
 ant.prefinery.com CNAME .
@@ -565,7 +561,6 @@ leopon.jmk.wtf CNAME .
 leopon.luckycasts.com CNAME .
 leopon.originalmineral.com CNAME .
 limpet.pioneerlandscapingllc.com CNAME .
-limpet.yago.dev CNAME .
 llama.eniston.io CNAME .
 llama.growthinkers.nl CNAME .
 llama.lobbly.com CNAME .
@@ -713,7 +708,6 @@ porpoise.azettl.net CNAME .
 porpoise.fruittreecottage.com.au CNAME .
 porpoise.kristinholl.com CNAME .
 prairiedog.freemusic.com.au CNAME .
-prairiedog.hashnode.com CNAME .
 prairiedog.health-improvement.uk CNAME .
 prairiedog.xview.us CNAME .
 prawn.lionsmouth.digital CNAME .
@@ -1054,6 +1048,8 @@ ss.nwemnd.com CNAME .
 ss.nwmnd.com CNAME .
 stat.guidebot.org CNAME .
 stats.yootheme.com CNAME .
+sudoku24.rumbleapp.gg CNAME .
+sudoku25.rumbleapp.gg CNAME .
 thirty-good.lugg.com CNAME .
 ua.daito.io CNAME .
 video.adsninja.ca CNAME .

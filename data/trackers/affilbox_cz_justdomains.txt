@@ -49,6 +49,7 @@ affil.nanoshop.cz
 affil.nanospace.cz
 affil.netbiznis.sk
 affil.nutriadapt.cz
+affil.onlinegastro.cz
 affil.peliskydog.cz
 affil.plkshop.cz
 affil.progamingshop.sk
@@ -109,6 +110,7 @@ affiliate.batteryshop.cz
 affiliate.bikeplan.org
 affiliate.biocare.sk
 affiliate.biooo.cz
+affiliate.branakbohatstvu.sk
 affiliate.childhoodpotential.com
 affiliate.chytryhonza.cz
 affiliate.ckslniecko.sk
@@ -150,7 +152,6 @@ affiliate.faceyogainstitute.eu
 affiliate.fapi.cz
 affiliate.ferratum.cz
 affiliate.fightstuff.cz
-affiliate.fotbalpartner.cz
 affiliate.fotopasti-bunaty.cz
 affiliate.geoweb.easy.cz
 affiliate.golfplan.org
@@ -180,6 +181,7 @@ affiliate.lentiamo.es
 affiliate.lentiamo.fr
 affiliate.lentiamo.it
 affiliate.lentiamo.nl
+affiliate.lentiamo.ro
 affiliate.lentiamo.se
 affiliate.levsalonu.cz
 affiliate.lg-store.cz
@@ -257,6 +259,7 @@ ambassadors.childhoodpotential.club
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 analytics.algomoneo.com
+api.algomoneo.com
 app.axl.cz
 box.kryptotrejder.sk
 champions.betubetu.com
@@ -267,6 +270,7 @@ cooperation.mitochondriak.cz
 cooperation.mitochondriak.pl
 cooperation.mitochondriak.sk
 cryptonow.algomoneo.com
+dashboard.algomoneo.com
 dbsaysnba4ygmwav.algomoneo.com
 demo.affilbox.com
 devaff.bitcoinzmenaren.sk
@@ -279,6 +283,7 @@ doporuc.promujdomov.cz
 doporuc.shopiam4u.cz
 doporucim.zjistitcenu.cz
 equilist.raj-ohlavek.cz
+gitlab.algomoneo.com
 hcbox.antiradary.net
 hcbox.bikemax.cz
 hcbox.fitness-zone.cz
@@ -353,6 +358,7 @@ my.weplaybasketball.hu
 my.weplaybasketball.lv
 my.weplaybasketball.ro
 my.weplaybasketball.si
+my.weplaybasketball.sk
 my.weplayhandball.bg
 my.weplayhandball.ch
 my.weplayhandball.cz
@@ -604,8 +610,6 @@ partner.malujpodlecisel.cz
 partner.marketingacademy.sk
 partner.martinafallerova.cz
 partner.martinreznicek.cz
-partner.massada.cz
-partner.massada.sk
 partner.mbytshop.cz
 partner.medela.cz
 partner.medela.sk
@@ -625,6 +629,7 @@ partner.moravite.cz
 partner.motoobchod.cz
 partner.muffik.cz
 partner.muffik.eu
+partner.mujdisk.cloud
 partner.mumijo.cz
 partner.muzskykruh.cz
 partner.nanolab.cz
@@ -729,6 +734,7 @@ partner.t-shock.eu
 partner.tattoomania.cz
 partner.taxomat.cz
 partner.terrapotheka.cz
+partner.textie.ai
 partner.thechillidoctor.cz
 partner.thelisteningworld.com
 partner.tinecostore.cz
@@ -784,6 +790,7 @@ partneri.bazaroveregaly.cz
 partneri.bestargroup.cz
 partneri.bigon.sk
 partneri.biorganica.cz
+partneri.bondfolio.cz
 partneri.bonmoto.cz
 partneri.bornature.cz
 partneri.cannor.cz

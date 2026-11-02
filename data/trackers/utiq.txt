@@ -25,7 +25,9 @@
 ||tmi.vodafone.de^
 ||u.20minutes.fr^
 ||u.20mn.it^
+||utiq-test.utest1-prod.work^
 ||utiq-test.utest1.work^
+||utiq-test.utest2-prod.work^
 ||utiq-test.utest3.work^
 ||utiq.11freunde.de^
 ||utiq.20minutos.es^
@@ -225,6 +227,7 @@
 ||utiq.hellorayo.co.uk^
 ||utiq.helpster.de^
 ||utiq.hersfelder-zeitung.de^
+||utiq.historyextra.com^
 ||utiq.hna.de^
 ||utiq.hola.com^
 ||utiq.holidaycheck.at^
@@ -279,6 +282,7 @@
 ||utiq.larioja.com^
 ||utiq.lasprovincias.es^
 ||utiq.lauterbacher-anzeiger.de^
+||utiq.lavanguardia.com^
 ||utiq.laverdad.es^
 ||utiq.lavoixdunord.fr^
 ||utiq.lavozdigital.es^
@@ -435,6 +439,8 @@
 ||utiq.regio7.cat^
 ||utiq.reisefrage.net^
 ||utiq.reisereporter.de^
+||utiq.release.bbcgoodfood.com^
+||utiq.release.im-slate.com^
 ||utiq.remszeitung.de^
 ||utiq.renault.fr^
 ||utiq.renew.auto^
@@ -496,6 +502,7 @@
 ||utiq.terrafemina.com^
 ||utiq.testfaz.net^
 ||utiq.thenewretail.es^
+||utiq.thescottishsun.co.uk^
 ||utiq.thestar.com^
 ||utiq.thewatmag.com^
 ||utiq.thueringen24.de^
@@ -512,6 +519,7 @@
 ||utiq.tvspielfilm.de^
 ||utiq.tvtoday.de^
 ||utiq.tvzap.it^
+||utiq.two.utest1.work^
 ||utiq.tz.de^
 ||utiq.usinger-anzeiger.de^
 ||utiq.utest1-prod.work^

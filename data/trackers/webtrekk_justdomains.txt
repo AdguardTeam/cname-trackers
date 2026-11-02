@@ -204,6 +204,8 @@ text.rahmenvereinbarungen.de
 tippcom01.tipp24.com
 tr.computeruniverse.net
 tr.suedkurier.de
+tr.suedkurier.info
+tr.suedkurier.tv
 trail-001.schleich-s.com
 trk.blume2000.de
 w.ilfattoquotidiano.it

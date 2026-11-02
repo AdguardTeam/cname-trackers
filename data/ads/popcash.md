@@ -151,7 +151,6 @@
 | angelfish.dpya.com | deprecated-custom-domains.b-cdn.net |
 | angelfish.grayscale.design | deprecated-custom-domains.b-cdn.net |
 | angelfish.shorehamlife.com | deprecated-custom-domains.b-cdn.net |
-| anglerfish.luminfire.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.pfolios.net | deprecated-custom-domains.b-cdn.net |
 | ant.b13.com | deprecated-custom-domains.b-cdn.net |
 | ant.prefinery.com | deprecated-custom-domains.b-cdn.net |
@@ -540,7 +539,6 @@
 | leopon.luckycasts.com | deprecated-custom-domains.b-cdn.net |
 | leopon.originalmineral.com | deprecated-custom-domains.b-cdn.net |
 | limpet.pioneerlandscapingllc.com | deprecated-custom-domains.b-cdn.net |
-| limpet.yago.dev | deprecated-custom-domains.b-cdn.net |
 | llama.eniston.io | deprecated-custom-domains.b-cdn.net |
 | llama.growthinkers.nl | deprecated-custom-domains.b-cdn.net |
 | llama.lobbly.com | deprecated-custom-domains.b-cdn.net |
@@ -688,7 +686,6 @@
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
 | porpoise.kristinholl.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.freemusic.com.au | deprecated-custom-domains.b-cdn.net |
-| prairiedog.hashnode.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.health-improvement.uk | deprecated-custom-domains.b-cdn.net |
 | prairiedog.xview.us | deprecated-custom-domains.b-cdn.net |
 | prawn.lionsmouth.digital | deprecated-custom-domains.b-cdn.net |
@@ -976,7 +973,6 @@
 | cdn.hjklq.com | popcashjs.b-cdn.net |
 | cdn.holenhw.com | popcashjs.b-cdn.net |
 | cdn.htkcm.com | popcashjs.b-cdn.net |
-| cdn.ianjumb.com | popcashjs.b-cdn.net |
 | cdn.iople.com | popcashjs.b-cdn.net |
 | cdn.isgost.com | popcashjs.b-cdn.net |
 | cdn.jandaqwe.com | popcashjs.b-cdn.net |
@@ -1020,7 +1016,6 @@
 | cdn.ptomw.com | popcashjs.b-cdn.net |
 | cdn.puysis.com | popcashjs.b-cdn.net |
 | cdn.qgerr.com | popcashjs.b-cdn.net |
-| cdn.quagfa.com | popcashjs.b-cdn.net |
 | cdn.rapolok.com | popcashjs.b-cdn.net |
 | cdn.rausfml.com | popcashjs.b-cdn.net |
 | cdn.rgrd.xyz | popcashjs.b-cdn.net |
@@ -1035,7 +1030,6 @@
 | cdn.syinga.com | popcashjs.b-cdn.net |
 | cdn.tahwox.com | popcashjs.b-cdn.net |
 | cdn.tazlo.cloud | popcashjs.b-cdn.net |
-| cdn.timsef.com | popcashjs.b-cdn.net |
 | cdn.tsepyk.com | popcashjs.b-cdn.net |
 | cdn.tzaho.com | popcashjs.b-cdn.net |
 | cdn.ugopkl.com | popcashjs.b-cdn.net |
@@ -1068,6 +1062,8 @@
 | ss.mrmnd.com | ss-mndsrv.b-cdn.net |
 | ss.nwemnd.com | ss-mndsrv.b-cdn.net |
 | ss.nwmnd.com | ss-mndsrv.b-cdn.net |
+| sudoku24.rumbleapp.gg | sudoku-ads2.b-cdn.net |
+| sudoku25.rumbleapp.gg | sudoku-ads2.b-cdn.net |
 | a.th.gl | thgl-analytics.b-cdn.net |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.stoic-media.com | unibotscdn.b-cdn.net |

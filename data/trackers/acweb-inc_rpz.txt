@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793024395472        ; Serial
+           1793624908238        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,7 +21,6 @@ l.citylife-new.com CNAME .
 l.da-te.jp CNAME .
 l.dosugoi.net CNAME .
 l.e-iwate.com CNAME .
-l.eshizuoka.jp CNAME .
 l.ffsagami.com CNAME .
 l.gunmablog.net CNAME .
 l.hama1.jp CNAME .
