@@ -641,6 +641,7 @@
 | a8clk.skyoffice.info | trck.a8.net |
 | a8clk.smart-keiri.com | trck.a8.net |
 | a8clk.smile-zemi.jp | trck.a8.net |
+| a8clk.sozow-park.com | trck.a8.net |
 | a8clk.sp.move-ebike.co.jp | trck.a8.net |
 | a8clk.staff.mynavi.jp | trck.a8.net |
 | a8clk.star-mall.net | trck.a8.net |

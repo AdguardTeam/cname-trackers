@@ -10,6 +10,7 @@ analytics.dx.ohio.gov
 analytics.effectory.com
 analytics.ferrero.com
 analytics.hr.nl
+analytics.hro.nl
 analytics.kuka.com
 analytics.ravelz.com
 analytics.wavelz.com
@@ -58,6 +59,7 @@ t-pan.triodos.com
 tag.aumago.com
 tag2.uwv.nl
 tagadmin.aumago.com
+test.piwiksandbox.com
 tracking.we-online.com
 webanalytics.helen.fi
 www.webanalytics-az.acc.fpfis.tech.ec.europa.eu

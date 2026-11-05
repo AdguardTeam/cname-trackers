@@ -248,6 +248,7 @@
 | static.ads.fanta-olimpiadi.com | fsr-cdn.aquaplatform.com |
 | static.ads.fantasanremo.com | fsr-cdn.aquaplatform.com |
 | console.ads.fanta-olimpiadi.com | fsr-console.aquaplatform.com |
+| delivery.ads.fanta-olimpiadi.com | fsr-delivery.aquaplatform.com |
 | delivery.ads.fantagiroditalia.it | fsr-delivery.aquaplatform.com |
 | delivery.ads.fantasanremo.com | fsr-delivery.aquaplatform.com |
 | adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
@@ -389,6 +390,7 @@
 | opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | questico-ads.reviveservers.com | platformiq-del.aquaplatform.com |
+| rtvutrecht-delivery.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.addurance.com | platformiq-del.aquaplatform.com |
 | servedby.hlipublishing.com | platformiq-del.aquaplatform.com |
 | servedby.hollandhortimedia.nl | platformiq-del.aquaplatform.com |

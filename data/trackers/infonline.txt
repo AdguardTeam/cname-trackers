@@ -635,7 +635,6 @@
 ||data-4f99163f5e.bludenz.com^
 ||data-4fa18eb5e3.zvw.de^
 ||data-4fec147c37.agrarheute.com^
-||data-501446ac98.einfachtierisch.de^
 ||data-501446ac98.stayfriends.de^
 ||data-501446ac98.t-online.de^
 ||data-504bba0c00.tlc.de^
@@ -857,6 +856,7 @@
 ||data-6ccf929934.recovery-worldwide.com^
 ||data-6cfdf9f979.lebensmittelzeitung.net^
 ||data-6dbef37a3c.apps.iocnt.de^
+||data-6dde45f576.aller-zeitung.de^
 ||data-6dde45f576.augusto-sachsen.de^
 ||data-6dde45f576.cz.de^
 ||data-6dde45f576.dewezet.de^
@@ -1456,6 +1456,7 @@
 ||data-bb21a2f11b.myhomebook-magazine.com^
 ||data-bb21a2f11b.petbook-magazine.com^
 ||data-bb21a2f11b.sportbild.de^
+||data-bb21a2f11b.stylebook-magazine.com^
 ||data-bb21a2f11b.stylebook.de^
 ||data-bb21a2f11b.techbook-magazine.com^
 ||data-bb21a2f11b.travelbook-magazine.com^
@@ -2032,7 +2033,6 @@
 ||pool4.ioam.de^
 ||pool5.ioam.de^
 ||report.oewa.at^
-||source-66584305d5.mainpost.de^
 ||source-ed91a21bf0.dastelefonbuch.de^
 ||vorausweisung.report.oewa.at^
 ||vote.apps.iocnt.de^
@@ -2040,3 +2040,4 @@
 ||www2.dk-online.de^
 ||xnasldata-63224ea7ba.apps.iocnt.de^
 ||acksrc.chip.de^
+||source-66584305d5.mainpost.de^

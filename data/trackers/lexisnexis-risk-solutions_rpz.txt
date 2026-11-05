@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793626042397        ; Serial
+           1793882711520        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -129,6 +129,7 @@ analytics.nowresorts.com CNAME .
 analytics.southwestvacations.com CNAME .
 analytics.sunscaperesorts.com CNAME .
 analytics.tpg.com.au CNAME .
+analytics.tpgi.com.au CNAME .
 analytics.triseptsolutions.com CNAME .
 analytics.vaxvacationaccess.com CNAME .
 analytics.vodafone.com.au CNAME .
@@ -313,6 +314,7 @@ cim-idc-cdn.account.hcsc.net CNAME .
 cim-idc-cdn.account.hcsctest.net CNAME .
 cim-idc-cdn.account.healthspring.com CNAME .
 cim-idc-cdn.account.test.bcbsil.com CNAME .
+cim-idc-cdn.account.test.bcbsnm.com CNAME .
 cim-idc-cdn.account.test.bcbsok.com CNAME .
 cim-idc-cdn.account.test.bcbstx.com CNAME .
 cim-idc-cdn.account.test.healthspring.com CNAME .
@@ -377,6 +379,7 @@ content.connect.medicaid.ncdhhs.gov CNAME .
 content.connexion-mabanque.bnpparibas CNAME .
 content.connexion.hellobank.fr CNAME .
 content.connexion.mabanque.bnpparibas CNAME .
+content.connexion.monespace.bnpparibas CNAME .
 content.connexion.monespace.hellobank.fr CNAME .
 content.consumercardaccess.com CNAME .
 content.covantagecu.org CNAME .
@@ -604,6 +607,7 @@ d0796fef.monkeyspins.com CNAME .
 d3tracking.rbc.com CNAME .
 daotm-1.firstcitizens.com CNAME .
 daotm.firstcitizens.com CNAME .
+dap.my.shiprush.com CNAME .
 ddata.huntingtonbank.com CNAME .
 ddc-test.worldpay.com CNAME .
 ddc.worldpay.com CNAME .
@@ -663,8 +667,10 @@ dpcontent.locationsmart.net CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dt.extrakarte.com CNAME .
+dti.klar.mx CNAME .
 dtrust.atratopago.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
+eaf.uat.mille-services.pl CNAME .
 ebcontent.mcbankny.com CNAME .
 ecomm.thegiftcardshop.com CNAME .
 edge.privacy.com.br CNAME .
@@ -998,6 +1004,7 @@ prod-ffcuin.chaperone.lumindigitalhosting.com CNAME .
 prod-figfcu-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-firstcity-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-firstmark.chaperone.lumindigitalhosting.com CNAME .
+prod-firstnorcal-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-fortcomm-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-freedom-mercury2023.chaperone.lumindigitalhosting.com CNAME .
 prod-frontier.chaperone.lumindigitalhosting.com CNAME .
@@ -1289,6 +1296,7 @@ tcontent.auchantelecom.fr CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.astro.space CNAME .
 telempdf.vepormas.com CNAME .
+test-cl-tmx.cofidis.hu CNAME .
 tfet.claimyourcashfl.gov CNAME .
 tfet.fltreasurehunt.gov CNAME .
 tfp.intuit.com CNAME .
@@ -1529,6 +1537,10 @@ ww3.peacsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www.content.connexion-mabanque.bnpparibas CNAME .
+www.content.connexion.hellobank.fr CNAME .
+www.content.connexion.mabanque.bnpparibas CNAME .
+www.content.connexion.monespace.bnpparibas CNAME .
+www.content.connexion.monespace.hellobank.fr CNAME .
 www.content.espace-client.hellobank.fr CNAME .
 www.content.hellobank.fr CNAME .
 www.content.mabanque.bnpparibas CNAME .
@@ -1536,6 +1548,7 @@ www.content.mabanqueprivee.bnpparibas CNAME .
 www.content.mabanquepro.bnpparibas CNAME .
 www.content.prev-espace-client.hellobank.fr CNAME .
 www.content.prev.connexion-mabanque.bnpparibas CNAME .
+www.content.prev.connexion.hellobank.fr CNAME .
 www.df.thumbtack.com CNAME .
 www.tag.findmassmoney.gov CNAME .
 xfp.intuit.com CNAME .

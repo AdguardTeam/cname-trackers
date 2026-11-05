@@ -3,7 +3,6 @@
 0sbm.consobaby.co.uk
 16ao.mathon.fr
 1bva.sg.fr
-5fm.985fm.ca
 6pal.consobaby.com
 6swu.cpa-france.org
 7lbd4.armandthiery.fr
@@ -94,6 +93,7 @@ ct6.chansontadoussac.com
 ctr5.culture3r.com
 cvi6.destinia.qa
 cyf9.destinia.cl
+d0f.le-dauphin.com
 d62e9cfa.eulerian.io
 da3.delicesdautomne.com
 da85edd2.eulerian.io
@@ -183,7 +183,6 @@ ea.voyage-prive.co.uk
 ea.voyage-prive.es
 ea.voyage-prive.it
 ea.warnerbros.fr
-eat9.thebeat925.ca
 ecorp.eulerian.io
 ed2.ledq.qc.ca
 ed7e8cec.eulerian.io
@@ -237,6 +236,7 @@ eulerian.tgv-europe.nl
 eulerian.thalasseo.com
 eulerian.voyage-prive.com
 eultech.fnac.com
+exchange.eulerian.io
 exd4.destinia.com.au
 f0nn.oney.fr
 f2.voyage-prive.com
@@ -299,6 +299,7 @@ jj2.festivalquebecjazzenjuin.com
 kc47c6fa.eulerian.io
 kep6.destinia.ie
 kwsjy9.oui.sncf
+l2i.qualityinnlevis.com
 lbc.lesbonscommerces.fr
 lbu3.labibleurbaine.com
 lc5.leschutes.ca
@@ -339,12 +340,12 @@ ncx2.voyage-prive.it
 ne.futuroscope.com
 net1.netski.com
 netc.sfr.fr
-ni8.lafuma.com
 nmu3.destinia.be
 noa0.compteczam.fr
 nqsm.medicus.ca
 nrg.red-by-sfr.fr
 nt1.taniere.ca
+nym5c.bonlook.com
 nyt1.biosens-leanature.fr
 o35e79f2.eulerian.io
 o69cab6a.eulerian.io
@@ -372,6 +373,7 @@ ouk7.grantalexander.com
 p.pmu.fr
 pcnphysio-com.ca-eulerian.net
 pda7.placedesarts.com
+pdv2.lepointdevente.com
 pgt1.voyage-prive.es
 pi2.pieuvre.ca
 piq4.inseec.education
@@ -385,6 +387,7 @@ pp.promocionesfarma.com
 ppp7.destinia.kr
 pqn7.cheque-dejeuner.fr
 prod.eulerian.io
+prometheus.eulerian.io
 prx6.destinia.ch
 ps.pmu.fr
 pu.pretunique.fr
@@ -413,7 +416,6 @@ rmp4.destinia.uy
 rqnn.funjet.com
 rup5.destinia.ru
 rvz9.destinia.co.ro
-rwl.tremblant.ca
 rxzz.metcalfehotel.com
 s4e8.cascades.com
 sa.lesselectionsskoda.fr
@@ -437,7 +439,6 @@ ssrlot.lotoquebec.com
 ssy7.destinia.com.ua
 st2.sat.qc.ca
 st9.sorstu.ca
-su1.les-suites.ca
 sxbj.gasparmtl.com
 t.pmu.fr
 t.voyages-sncf.com
@@ -528,14 +529,15 @@ zs.voyage-prive.com
 zsi7.destinia.do
 zum7cc.oui.sncf
 zyq2.destinia.sk
+5fm.985fm.ca
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
-d0f.le-dauphin.com
 d2u.dauphinquebec.com
+eat9.thebeat925.ca
 hk2d.tourismemauricie.com
-l2i.qualityinnlevis.com
-nym5c.bonlook.com
+rwl.tremblant.ca
 ry0.rythmefm.com
+su1.les-suites.ca
 www.mis.tourisme-montreal.org
 yio.tremblant.ca
 ea.mnt.fr

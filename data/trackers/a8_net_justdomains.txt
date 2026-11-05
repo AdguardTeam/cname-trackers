@@ -627,6 +627,7 @@ a8clk.skynet-c.jp
 a8clk.skyoffice.info
 a8clk.smart-keiri.com
 a8clk.smile-zemi.jp
+a8clk.sozow-park.com
 a8clk.sp.move-ebike.co.jp
 a8clk.staff.mynavi.jp
 a8clk.star-mall.net

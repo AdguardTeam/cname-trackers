@@ -52,6 +52,7 @@
     * fpa-cdn-tampabay28-com.parsely.com
     * fpa-cdn-texasmonthly-com.parsely.com
     * fpa-cdn-thedailybeast-com.parsely.com
+    * fpa-cdn-theintercept-com.parsely.com
     * fpa-cdn-themarshallproject-org.parsely.com
     * fpa-cdn-thetrace-org.parsely.com
     * fpa-cdn-thinkglobalhealth-org.parsely.com
@@ -91,6 +92,7 @@
     * fpa-events-texasmonthly-com.parsely.com
     * fpa-events-thebeat-travel.parsely.com
     * fpa-events-thedailybeast-com.parsely.com
+    * fpa-events-theintercept-com.parsely.com
     * fpa-events-themarshallproject-org.parsely.com
     * fpa-events-thetrace-org.parsely.com
     * fpa-events-thinkglobalhealth-org.parsely.com
@@ -152,6 +154,7 @@
 | fpa-cdn.tampabay28.com | fpa-cdn-tampabay28-com.parsely.com |
 | fpa-cdn.texasmonthly.com | fpa-cdn-texasmonthly-com.parsely.com |
 | fpa-cdn.thedailybeast.com | fpa-cdn-thedailybeast-com.parsely.com |
+| fpa-cdn.theintercept.com | fpa-cdn-theintercept-com.parsely.com |
 | fpa-cdn.themarshallproject.org | fpa-cdn-themarshallproject-org.parsely.com |
 | fpa-cdn.thetrace.org | fpa-cdn-thetrace-org.parsely.com |
 | fpa-cdn.thinkglobalhealth.org | fpa-cdn-thinkglobalhealth-org.parsely.com |
@@ -191,6 +194,7 @@
 | fpa-events.texasmonthly.com | fpa-events-texasmonthly-com.parsely.com |
 | fpa-events.thebeat.travel | fpa-events-thebeat-travel.parsely.com |
 | fpa-events.thedailybeast.com | fpa-events-thedailybeast-com.parsely.com |
+| fpa-events.theintercept.com | fpa-events-theintercept-com.parsely.com |
 | fpa-events.themarshallproject.org | fpa-events-themarshallproject-org.parsely.com |
 | fpa-events.thetrace.org | fpa-events-thetrace-org.parsely.com |
 | fpa-events.thinkglobalhealth.org | fpa-events-thinkglobalhealth-org.parsely.com |

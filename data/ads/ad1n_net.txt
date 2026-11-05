@@ -68,6 +68,7 @@
 ||s.dsefow.com^
 ||s.dsehdh.com^
 ||s.dseisg.com^
+||s.dseivh.com^
 ||s.dsekhf.com^
 ||s.dsekhn.com^
 ||s.dserdo.com^
@@ -80,6 +81,7 @@
 ||s.dsfnvh.com^
 ||s.dsfsfp.com^
 ||s.dsftcd.com^
+||s.dsfvsn.com^
 ||s.dsfzqo.com^
 ||s.dsgdef.com^
 ||s.dsgeln.com^
@@ -95,6 +97,7 @@
 ||s.dshdly.com^
 ||s.dshfbd.com^
 ||s.dshoam.com^
+||s.dshsxy.com^
 ||s.dshtlw.com^
 ||s.dsiblb.com^
 ||s.dsicxo.com^
@@ -219,6 +222,7 @@
 ||s.dsxpzd.com^
 ||s.dsxsyt.com^
 ||s.dsxtea.com^
+||s.dsxtny.com^
 ||s.dsxwbg.com^
 ||s.dsyatr.com^
 ||s.dsybif.com^
@@ -233,6 +237,7 @@
 ||s.dszdcm.com^
 ||s.dszkfk.com^
 ||s.dszkvm.com^
+||s.dszlbx.com^
 ||s.dszmeo.com^
 ||s.dszmga.com^
 ||s.dszmtq.com^
@@ -274,6 +279,7 @@
 ||s.fboirhttd.com^
 ||s.fnjdphpor.com^
 ||s.fzioggf.com^
+||s.gfwiwi.com^
 ||s.gjkrwpafad.com^
 ||s.greixcv.com^
 ||s.gyptgkij.com^
@@ -322,11 +328,13 @@
 ||s.owemcnw.com^
 ||s.oyluepai.com^
 ||s.pehvwzyx.com^
+||s.pibikakrg.com^
 ||s.pmmdhc.com^
 ||s.pmmjoxhunb.com^
 ||s.ppytbzff.com^
 ||s.pyyokibh.com^
 ||s.qhjgwwok.com^
+||s.qhngmav.com^
 ||s.qhyftzqknm.com^
 ||s.qlkmasrw.com^
 ||s.qmapdnf.com^

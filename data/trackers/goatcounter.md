@@ -40,7 +40,9 @@
     * cassie.goatcounter.com
     * celerry.goatcounter.com
     * certidiritti.goatcounter.com
+    * chocolatemoo53.goatcounter.com
     * chuniversiteit.goatcounter.com
+    * clavesolutions.goatcounter.com
     * coderjoe-net.goatcounter.com
     * coderscompass.goatcounter.com
     * codinggrace.goatcounter.com
@@ -136,14 +138,17 @@
     * localhosed.goatcounter.com
     * low-quality-transcripts.goatcounter.com
     * lspeed.goatcounter.com
+    * lukas.goatcounter.com
     * maik-dev.goatcounter.com
     * maikroservice.goatcounter.com
     * manakin.goatcounter.com
     * mathematikos.goatcounter.com
+    * matmanna.goatcounter.com
     * mausoleum.goatcounter.com
     * maxbenner.goatcounter.com
     * meestermac.goatcounter.com
     * merrelldev.goatcounter.com
+    * mersch.goatcounter.com
     * mindenugyved.goatcounter.com
     * mine.goatcounter.com
     * mlcet.goatcounter.com
@@ -182,7 +187,6 @@
     * repath-studio.goatcounter.com
     * reticulatednet.goatcounter.com
     * reuzua.goatcounter.com
-    * rewindmtv.goatcounter.com
     * rezha.goatcounter.com
     * riggraz.goatcounter.com
     * risanne.goatcounter.com
@@ -238,11 +242,14 @@
     * vamsialluri.goatcounter.com
     * vault.goatcounter.com
     * villajoanna.goatcounter.com
+    * vinlam.goatcounter.com
+    * waardevol.goatcounter.com
     * whatacools.goatcounter.com
     * wjmallard.goatcounter.com
     * worldwideshen.goatcounter.com
     * wts.goatcounter.com
     * wy3di4xcbj.goatcounter.com
+    * xr-com.goatcounter.com
     * ybbond.goatcounter.com
     * ygoprint.goatcounter.com
     * yolandakeiser.goatcounter.com
@@ -292,7 +299,9 @@
 | stats.cassie.omg.lol | cassie.goatcounter.com |
 | stats.celerry.com | celerry.goatcounter.com |
 | stats.certidiritti.org | certidiritti.goatcounter.com |
+| analytics.chocolatemoo53.com | chocolatemoo53.goatcounter.com |
 | stats.chuniversiteit.nl | chuniversiteit.goatcounter.com |
+| webtracking.clavesolutions.co.uk | clavesolutions.goatcounter.com |
 | stats.coderjoe.net | coderjoe-net.goatcounter.com |
 | stats.coderscompass.org | coderscompass.goatcounter.com |
 | goatcounter.codinggrace.com | codinggrace.goatcounter.com |
@@ -394,14 +403,17 @@
 | stats.svc.lol | localhosed.goatcounter.com |
 | stats.issues.cooking | low-quality-transcripts.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
+| stats.kolletzki.me | lukas.goatcounter.com |
 | webstats.maik.dev | maik-dev.goatcounter.com |
 | stats.maikroservice.com | maikroservice.goatcounter.com |
 | stats.manakin.fi | manakin.goatcounter.com |
 | stats.mathematikos.sk | mathematikos.goatcounter.com |
+| stats.matmanna.dev | matmanna.goatcounter.com |
 | stats.mausoleum.me | mausoleum.goatcounter.com |
 | goatcounter.maximilianbenner.com | maxbenner.goatcounter.com |
 | api.meestermac.nl | meestermac.goatcounter.com |
 | stats.merrell.dev | merrelldev.goatcounter.com |
+| stats.fabianmersch.com | mersch.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
 | analytics.carnelian.cc | mine.goatcounter.com |
 | analytics.wendoverds.org.uk | mine.goatcounter.com |
@@ -449,7 +461,6 @@
 | analytics.repath.studio | repath-studio.goatcounter.com |
 | analytics.reticulated.net | reticulatednet.goatcounter.com |
 | stats.realestate.uz.ua | reuzua.goatcounter.com |
-| stats.rewindmtv.com | rewindmtv.goatcounter.com |
 | stats.rezhajul.io | rezha.goatcounter.com |
 | analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.risanne.nl | risanne.goatcounter.com |
@@ -506,11 +517,14 @@
 | stats.vamsi-alluri.me | vamsialluri.goatcounter.com |
 | vault-stats.sladewatkins.net | vault.goatcounter.com |
 | stats.villajoanna.online | villajoanna.goatcounter.com |
+| stats.vinlam.com | vinlam.goatcounter.com |
+| stats.waardevolmuziek.nl | waardevol.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
 | stats.wjmallard.net | wjmallard.goatcounter.com |
 | counter.shens.world | worldwideshen.goatcounter.com |
 | stats.waytosmile.fr | wts.goatcounter.com |
 | stats.webmeasurements.org | wy3di4xcbj.goatcounter.com |
+| stats.xavierroy.com | xr-com.goatcounter.com |
 | stats.ybbond.id | ybbond.goatcounter.com |
 | science.ygoprint.org | ygoprint.goatcounter.com |
 | stats.yolandakeiser.ch | yolandakeiser.goatcounter.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793617659137        ; Serial
+           1793886555940        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,6 +60,7 @@ fpa-cdn.spectator.com.au CNAME .
 fpa-cdn.tampabay28.com CNAME .
 fpa-cdn.texasmonthly.com CNAME .
 fpa-cdn.thedailybeast.com CNAME .
+fpa-cdn.theintercept.com CNAME .
 fpa-cdn.themarshallproject.org CNAME .
 fpa-cdn.thetrace.org CNAME .
 fpa-cdn.thinkglobalhealth.org CNAME .
@@ -99,6 +100,7 @@ fpa-events.tampabay28.com CNAME .
 fpa-events.texasmonthly.com CNAME .
 fpa-events.thebeat.travel CNAME .
 fpa-events.thedailybeast.com CNAME .
+fpa-events.theintercept.com CNAME .
 fpa-events.themarshallproject.org CNAME .
 fpa-events.thetrace.org CNAME .
 fpa-events.thinkglobalhealth.org CNAME .

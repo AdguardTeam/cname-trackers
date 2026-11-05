@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793626042397        ; Serial
+           1793888525868        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -79,6 +79,7 @@ s.dseedc.com CNAME .
 s.dsefow.com CNAME .
 s.dsehdh.com CNAME .
 s.dseisg.com CNAME .
+s.dseivh.com CNAME .
 s.dsekhf.com CNAME .
 s.dsekhn.com CNAME .
 s.dserdo.com CNAME .
@@ -91,6 +92,7 @@ s.dsfmzp.com CNAME .
 s.dsfnvh.com CNAME .
 s.dsfsfp.com CNAME .
 s.dsftcd.com CNAME .
+s.dsfvsn.com CNAME .
 s.dsfzqo.com CNAME .
 s.dsgdef.com CNAME .
 s.dsgeln.com CNAME .
@@ -106,6 +108,7 @@ s.dshbxx.com CNAME .
 s.dshdly.com CNAME .
 s.dshfbd.com CNAME .
 s.dshoam.com CNAME .
+s.dshsxy.com CNAME .
 s.dshtlw.com CNAME .
 s.dsiblb.com CNAME .
 s.dsicxo.com CNAME .
@@ -230,6 +233,7 @@ s.dsxilh.com CNAME .
 s.dsxpzd.com CNAME .
 s.dsxsyt.com CNAME .
 s.dsxtea.com CNAME .
+s.dsxtny.com CNAME .
 s.dsxwbg.com CNAME .
 s.dsyatr.com CNAME .
 s.dsybif.com CNAME .
@@ -244,6 +248,7 @@ s.dszcnw.com CNAME .
 s.dszdcm.com CNAME .
 s.dszkfk.com CNAME .
 s.dszkvm.com CNAME .
+s.dszlbx.com CNAME .
 s.dszmeo.com CNAME .
 s.dszmga.com CNAME .
 s.dszmtq.com CNAME .
@@ -285,6 +290,7 @@ s.euvdyv.com CNAME .
 s.fboirhttd.com CNAME .
 s.fnjdphpor.com CNAME .
 s.fzioggf.com CNAME .
+s.gfwiwi.com CNAME .
 s.gjkrwpafad.com CNAME .
 s.greixcv.com CNAME .
 s.gyptgkij.com CNAME .
@@ -333,11 +339,13 @@ s.orckdewf.com CNAME .
 s.owemcnw.com CNAME .
 s.oyluepai.com CNAME .
 s.pehvwzyx.com CNAME .
+s.pibikakrg.com CNAME .
 s.pmmdhc.com CNAME .
 s.pmmjoxhunb.com CNAME .
 s.ppytbzff.com CNAME .
 s.pyyokibh.com CNAME .
 s.qhjgwwok.com CNAME .
+s.qhngmav.com CNAME .
 s.qhyftzqknm.com CNAME .
 s.qlkmasrw.com CNAME .
 s.qmapdnf.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793628865127        ; Serial
+           1793890329314        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ analytics.dx.ohio.gov CNAME .
 analytics.effectory.com CNAME .
 analytics.ferrero.com CNAME .
 analytics.hr.nl CNAME .
+analytics.hro.nl CNAME .
 analytics.kuka.com CNAME .
 analytics.ravelz.com CNAME .
 analytics.wavelz.com CNAME .
@@ -69,6 +70,7 @@ t-pan.triodos.com CNAME .
 tag.aumago.com CNAME .
 tag2.uwv.nl CNAME .
 tagadmin.aumago.com CNAME .
+test.piwiksandbox.com CNAME .
 tracking.we-online.com CNAME .
 webanalytics.helen.fi CNAME .
 www.webanalytics-az.acc.fpfis.tech.ec.europa.eu CNAME .

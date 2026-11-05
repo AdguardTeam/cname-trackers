@@ -334,6 +334,7 @@
 ||3440159.notify6.com^
 ||3440403.notify6.com^
 ||3440407.notifysrv.com^
+||3440409.notify6.com^
 ||3440409.notifysrv.com^
 ||3440411.notify6.com^
 ||3442145.notifysrv.com^
@@ -374,6 +375,7 @@
 ||3505963.notifysrv.com^
 ||3505983.notifysrv.com^
 ||3506005.notify6.com^
+||3508759.notifysrv.com^
 ||3512011.notifysrv.com^
 ||3512423.notifysrv.com^
 ||3512929.notifysrv.com^
@@ -402,6 +404,7 @@
 ||3566695.notifysrv.com^
 ||3566697.notifysrv.com^
 ||3568955.notify6.com^
+||3569081.notify6.com^
 ||3569513.notifysrv.com^
 ||3570727.notifysrv.com^
 ||3570741.notifysrv.com^
@@ -622,6 +625,7 @@
 ||4031266.notify6.com^
 ||4035148.notify6.com^
 ||4035244.notify6.com^
+||4037374.notify6.com^
 ||4037382.notify6.com^
 ||4037426.notify6.com^
 ||4037428.notify6.com^
@@ -829,12 +833,12 @@
 ||a.humnert.com^
 ||a.klico.link^
 ||a.ma3ion.com^
-||a.mikbaken.com^
 ||a.mx.notifysrv.com^
 ||a.n4m5x60.com^
 ||a.ns.notifysrv.com^
 ||a.pinkads.org^
 ||a.playa.to^
+||a.q88z1s3.com^
 ||a.r8lnet.com^
 ||a.rocoads.net^
 ||a.rw10srv.com^
@@ -1105,7 +1109,6 @@
 ||s.linkw2g.com^
 ||s.ma3ion.com^
 ||s.magsrv.com^
-||s.mikbaken.com^
 ||s.n4m5x60.com^
 ||s.native7.com^
 ||s.nowsrv.com^
@@ -1309,6 +1312,7 @@
 ||www.3982708.notify6.com^
 ||www.4.notify.bizonads-ssp.com^
 ||www.4031264.notify6.com^
+||www.4037374.notify6.com^
 ||www.4062424.notify6.com^
 ||www.4065194.notify6.com^
 ||www.4067890.notify6.com^
@@ -1347,8 +1351,6 @@
 ||www.packsitracks.com3419733.notifysrv.com^
 ||www.survey.notifysrv.com^
 ||www.voltcp.3323174.notifysrv.com^
-||xn--3207695-o06c.notifysrv.com^
 ||zooplus.it3440403.notify6.com^
 ||zooplus.it3524339.notify6.com^
 ||zooplus.it4060008.notify6.com^
-||a.q88z1s3.com^

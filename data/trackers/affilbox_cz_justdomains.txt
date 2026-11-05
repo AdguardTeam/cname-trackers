@@ -1,6 +1,7 @@
 #
 # Company name: affilbox.cz
 abox.simpleshop.cz
+adfs.algomoneo.com
 aff.faircredit.cz
 aff.pujckajonatan.cz
 aff.realwoman.sk
@@ -293,6 +294,7 @@ hcbox.tesla-electronics.eu
 hcbox.tlamka.cz
 hcbox.verapostele.sk
 hcbox1.warriorboat.sk
+identity.algomoneo.com
 isic.kopirkaostrava.cz
 isicpartner.mamechut.cz
 kaocko.swaglift.com
@@ -444,7 +446,6 @@ partner.bydlimekrasne.cz
 partner.bylinkovysvet.com
 partner.cakemarket.eu
 partner.candy.cz
-partner.caricia.sk
 partner.caskrmeni.cz
 partner.cbdcko.cz
 partner.cbdstar.cz
@@ -825,7 +826,6 @@ partneri.hopsaj.sk
 partneri.incacollagen.eu
 partneri.interiery.cz
 partneri.intimfitness.cz
-partneri.jakofenix.cz
 partneri.jazykovavyzva.cz
 partneri.jazykovedarky.cz
 partneri.jazykyodpiky.cz
@@ -983,6 +983,7 @@ www.partneri.zuzanaondrisova.sk
 affil.myface.cz
 affiliate.kulturistika.com
 login.affiliatesit.cz
+partner.caricia.sk
 partner.eliteways.cz
 partner.janapekna.cz
 partner.mojalekaren.sk

@@ -4,6 +4,7 @@ anal.sataniskwijt.be
 analytics.applycreatures.com
 analytics.boxunix.com
 analytics.carnelian.cc
+analytics.chocolatemoo53.com
 analytics.code.dccouncil.gov
 analytics.codes.baltimorecity.gov
 analytics.demo.plateau.ng.open.law
@@ -130,6 +131,7 @@ stats.dijugar.com
 stats.docs.semio-tech.com
 stats.dwermke.com
 stats.eithel.org
+stats.fabianmersch.com
 stats.fieald.com
 stats.fischr.org
 stats.forest-school.am
@@ -163,6 +165,7 @@ stats.k94.ch
 stats.kc.ie
 stats.kelly4frostburg.com
 stats.kev.bar
+stats.kolletzki.me
 stats.konfou.xyz
 stats.ksmets.be
 stats.ksr.onl
@@ -175,6 +178,7 @@ stats.lspeed.org
 stats.maikroservice.com
 stats.manakin.fi
 stats.mathematikos.sk
+stats.matmanna.dev
 stats.matteocroce.it
 stats.mausoleum.me
 stats.merrell.dev
@@ -207,7 +211,6 @@ stats.realestate.kyiv.ua
 stats.realestate.net.ua
 stats.realestate.uz.ua
 stats.reallybyte.com
-stats.rewindmtv.com
 stats.rezhajul.io
 stats.risanne.nl
 stats.rocketgoboom.lol
@@ -239,10 +242,13 @@ stats.umcconnell.net
 stats.uygar.sh
 stats.vamsi-alluri.me
 stats.villajoanna.online
+stats.vinlam.com
+stats.waardevolmuziek.nl
 stats.waytosmile.fr
 stats.webmeasurements.org
 stats.whatacools.com
 stats.wjmallard.net
+stats.xavierroy.com
 stats.ybbond.id
 stats.yolandakeiser.ch
 stats.yunseo.kim
@@ -262,4 +268,5 @@ visit.hijacklibs.net
 visits.iloveuobgold.com
 website-stats.sladew.org
 webstats.maik.dev
+webtracking.clavesolutions.co.uk
 www.stats.spflow.com

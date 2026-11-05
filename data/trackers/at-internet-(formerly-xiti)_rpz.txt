@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793628865127        ; Serial
+           1793888525868        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,9 +48,12 @@ culture.intermedes.com CNAME .
 d.deloitte.fr CNAME .
 d.m-net.de CNAME .
 d.santemagazine.fr CNAME .
+da.defam.nl CNAME .
 da.freo.nl CNAME .
+da.lendris.nl CNAME .
 da.maif.fr CNAME .
 da.rabobank.nl CNAME .
+da.sprankr.nl CNAME .
 dadi.gandi.net CNAME .
 data.lelivrescolaire.fr CNAME .
 dfr.deloitte.com CNAME .
@@ -67,6 +70,7 @@ ignis.kicker.at CNAME .
 ignis.kicker.ch CNAME .
 ignis.kicker.de CNAME .
 ignis.nn.de CNAME .
+ignis.nordbayern.de CNAME .
 image.ard.de CNAME .
 image.mdr.de CNAME .
 images.kika.de CNAME .

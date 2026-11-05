@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793628865127        ; Serial
+           1793886555940        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -345,6 +345,7 @@ $TTL 300
 3440159.notify6.com CNAME .
 3440403.notify6.com CNAME .
 3440407.notifysrv.com CNAME .
+3440409.notify6.com CNAME .
 3440409.notifysrv.com CNAME .
 3440411.notify6.com CNAME .
 3442145.notifysrv.com CNAME .
@@ -385,6 +386,7 @@ $TTL 300
 3505963.notifysrv.com CNAME .
 3505983.notifysrv.com CNAME .
 3506005.notify6.com CNAME .
+3508759.notifysrv.com CNAME .
 3512011.notifysrv.com CNAME .
 3512423.notifysrv.com CNAME .
 3512929.notifysrv.com CNAME .
@@ -413,6 +415,7 @@ $TTL 300
 3566695.notifysrv.com CNAME .
 3566697.notifysrv.com CNAME .
 3568955.notify6.com CNAME .
+3569081.notify6.com CNAME .
 3569513.notifysrv.com CNAME .
 3570727.notifysrv.com CNAME .
 3570741.notifysrv.com CNAME .
@@ -633,6 +636,7 @@ $TTL 300
 4031266.notify6.com CNAME .
 4035148.notify6.com CNAME .
 4035244.notify6.com CNAME .
+4037374.notify6.com CNAME .
 4037382.notify6.com CNAME .
 4037426.notify6.com CNAME .
 4037428.notify6.com CNAME .
@@ -840,12 +844,12 @@ a.happyleafmotion.com CNAME .
 a.humnert.com CNAME .
 a.klico.link CNAME .
 a.ma3ion.com CNAME .
-a.mikbaken.com CNAME .
 a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.pinkads.org CNAME .
 a.playa.to CNAME .
+a.q88z1s3.com CNAME .
 a.r8lnet.com CNAME .
 a.rocoads.net CNAME .
 a.rw10srv.com CNAME .
@@ -1116,7 +1120,6 @@ s.linkw2e.com CNAME .
 s.linkw2g.com CNAME .
 s.ma3ion.com CNAME .
 s.magsrv.com CNAME .
-s.mikbaken.com CNAME .
 s.n4m5x60.com CNAME .
 s.native7.com CNAME .
 s.nowsrv.com CNAME .
@@ -1320,6 +1323,7 @@ www.3972246.notify6.com CNAME .
 www.3982708.notify6.com CNAME .
 www.4.notify.bizonads-ssp.com CNAME .
 www.4031264.notify6.com CNAME .
+www.4037374.notify6.com CNAME .
 www.4062424.notify6.com CNAME .
 www.4065194.notify6.com CNAME .
 www.4067890.notify6.com CNAME .
@@ -1358,8 +1362,6 @@ www.notifysrv.com CNAME .
 www.packsitracks.com3419733.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 www.voltcp.3323174.notifysrv.com CNAME .
-xn--3207695-o06c.notifysrv.com CNAME .
 zooplus.it3440403.notify6.com CNAME .
 zooplus.it3524339.notify6.com CNAME .
 zooplus.it4060008.notify6.com CNAME .
-a.q88z1s3.com CNAME .

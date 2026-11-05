@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793617659137        ; Serial
+           1793890329314        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -175,6 +175,7 @@ bpiuo.bohemianskin.com.au CNAME .
 bpkte.cincodemayorimdip.com CNAME .
 bpktf.visitoredge.com CNAME .
 bpvou.hotelcollection.co.za CNAME .
+bqoeg.thebeardstruggle.com CNAME .
 bquvm.performancebyie.com CNAME .
 brdja.creatorluck.io CNAME .
 bremg.onnocollection.com CNAME .
@@ -606,6 +607,7 @@ gzees.theperfumebox.com CNAME .
 gzjnc.kewlioo.com CNAME .
 gzjqb.warmies.com CNAME .
 gzlsz.simmonsfirm.com CNAME .
+gzvgk.the-guided-path.com CNAME .
 haakz.shopaspengreen.com CNAME .
 haiio.eshopygo.hr CNAME .
 hasqg.swarm.com CNAME .
@@ -1104,6 +1106,7 @@ mropd.lussocloud.com CNAME .
 mrphr.mixhers.com CNAME .
 mrprt.standardandstrange.com CNAME .
 mrqmn.oilperfumery.com CNAME .
+mrvca.drinkcann.com CNAME .
 msfpa.solawoodflowers.com CNAME .
 mshhc.sigmabeauty.com CNAME .
 mtaul.coverland.com CNAME .
@@ -1299,6 +1302,7 @@ pgtrh.alicelanehome.com CNAME .
 phezh.xsuit.com CNAME .
 phgpa.muddymat.com CNAME .
 phncc.kunjae.com CNAME .
+phssl.svibe.com CNAME .
 piacg.zox.co CNAME .
 piids.vendigoshop.com CNAME .
 piqcg.sokolovelaw.com CNAME .
@@ -1539,6 +1543,7 @@ sftqh.ascentixil.com CNAME .
 sfvva.viiahemp.com CNAME .
 sgejc.mooselabs.us CNAME .
 sghug.jonesroadbeauty.com CNAME .
+sgngp.customfitzgreekz.com CNAME .
 sgpsa.quince.com CNAME .
 sihca.elevenaustralia.com CNAME .
 sjhzp.etrgovinca.hr CNAME .
@@ -1586,6 +1591,7 @@ ssuzg.everythingfor420.com CNAME .
 stmzj.pelicanhydration.com CNAME .
 stoen.solacebands.com CNAME .
 stqce.thousandfell.com CNAME .
+stsmi.tingebeauty.com CNAME .
 sudcj.steepcycling.com CNAME .
 suouo.sageparts.com CNAME .
 supiz.dosaze.com CNAME .
@@ -1678,6 +1684,7 @@ tzehd.directmeds.com CNAME .
 tzipd.rockemsocks.com CNAME .
 tzmaa.precisiontax.com CNAME .
 tzpiz.racecraftaus.com CNAME .
+u.getevo.ai CNAME .
 uaete.kendallscollection.com CNAME .
 uakhc.easyyesoffer.io CNAME .
 uanoa.rebelstork.com CNAME .
@@ -1830,6 +1837,7 @@ vscoh.sokolovelaw.com CNAME .
 vsevs.budclubshop.com CNAME .
 vsfgd.searchatlas.com CNAME .
 vsima.chattanoogabeard.co CNAME .
+vsktv.hercasematters.com CNAME .
 vsogz.sokolovelaw.com CNAME .
 vtmmn.ancientaurajewelry.com CNAME .
 vtpjt.calisibeauty.co.uk CNAME .
@@ -2096,6 +2104,7 @@ bpeez.bikeathletic.com CNAME .
 bpipf.hatheaven.com CNAME .
 bpjdk.werenotreallystrangers.com CNAME .
 bpjft.abathhouse.com CNAME .
+bprzy.designstuff.dk CNAME .
 bpwmy.thepoplight.com CNAME .
 bpxnc.rontomson.com CNAME .
 bqfdp.stringsandsol.com CNAME .
@@ -2206,6 +2215,7 @@ cphyd.carlyjeanlosangeles.com CNAME .
 cpiai.victoriassecret.com CNAME .
 cpknn.sugarlands.com CNAME .
 cpqic.charleskeith.com CNAME .
+cpsml.redletterdays.co.uk CNAME .
 cpvnv.localsonlyli.com CNAME .
 cqjrs.jjill.com CNAME .
 cqnnp.tginatural.com CNAME .
@@ -2446,6 +2456,7 @@ fkakp.ekster.com CNAME .
 fkihr.wantable.com CNAME .
 flcnu.preciousmoments.com CNAME .
 flhqn.oatsovernight.com CNAME .
+flhvv.theproteinworks.com CNAME .
 flnjn.coachoutlet.com CNAME .
 flspf.mysupplementstore.com CNAME .
 flwgx.gethommey.com.au CNAME .
@@ -2455,6 +2466,7 @@ fmqhr.shayandblue.com CNAME .
 fmsjh.sugarmedical.com CNAME .
 fnbtt.cleanmama.com CNAME .
 fndmg.personalizationmall.com CNAME .
+fnent.quarter-tank.com CNAME .
 fnnpl.wineenthusiast.com CNAME .
 fnual.brooksbrothers.com CNAME .
 fnvoi.shapermint.com CNAME .
@@ -2582,6 +2594,7 @@ grmfa.slomins.com CNAME .
 grvzc.varley.com CNAME .
 gsbsr.cloudninehair.it CNAME .
 gslrf.goodnightmate.com CNAME .
+gswxb.31philliplim.com CNAME .
 gszau.thefryecompany.com CNAME .
 gtbpy.jennikayne.com CNAME .
 gtfcy.oddmuse.co.uk CNAME .
@@ -2611,6 +2624,7 @@ hbpvm.lapolicegear.com CNAME .
 hbtdb.dangelos.com CNAME .
 hbzaa.duckdonuts.com CNAME .
 hcbqa.wonderskin.com CNAME .
+hcqhb.macreneactives.com CNAME .
 hcuvb.ordolife.com CNAME .
 hdnin.blissy.com CNAME .
 hdnse.newtonbaby.com CNAME .
@@ -2860,6 +2874,7 @@ jqjvj.makewellness.com CNAME .
 jqmft.pyramidcollection.com CNAME .
 jqsnt.cafepress.com CNAME .
 jqycz.rosasgreekboutique.com CNAME .
+jrgsr.revolve.com CNAME .
 jrjel.whitemountainpuzzles.com CNAME .
 jrpvx.cecilandlou.com CNAME .
 jrqet.catholiccompany.com CNAME .
@@ -2883,6 +2898,7 @@ jvzsn.laneige.com CNAME .
 jwlcj.marketviewliquor.com CNAME .
 jwmyw.drakes.com CNAME .
 jxfbr.bfreeusa.com CNAME .
+jxnhr.transparentmeds.co CNAME .
 jxsjb.pursuefitness.com CNAME .
 jzfhh.aquasana.com CNAME .
 jzhkc.federalpremium.com CNAME .
@@ -2916,6 +2932,7 @@ kgynr.charlesclinkard.co.uk CNAME .
 khgpx.nautica.com CNAME .
 khgtb.yepoda.co.uk CNAME .
 khmms.allbirds.com CNAME .
+khzjw.fryeboots.co.uk CNAME .
 kifvf.babylisspro.com CNAME .
 kigio.cambridgesatchel.com CNAME .
 kikuz.crowdcow.com CNAME .
@@ -3032,7 +3049,6 @@ ljfqg.savannahsevens.com CNAME .
 lkhez.aveneusa.com CNAME .
 lkhpb.marciano.com CNAME .
 lkqce.dermaflash.com CNAME .
-lkqhy.evergreenvisioncarellc.com CNAME .
 lkwdm.donaghybros.co.uk CNAME .
 llacb.jollypets.com CNAME .
 llalp.omijewelry.com CNAME .
@@ -3133,6 +3149,7 @@ mmimb.itzyritzy.com CNAME .
 mmkkl.brokentopcandleco.com CNAME .
 mmmtl.marshallsgarden.com CNAME .
 mmqap.intimatesforall.com CNAME .
+mmrcg.feelreformed.com CNAME .
 mmvse.incommonbeauty.com CNAME .
 mnaom.luckybrand.com CNAME .
 mnjvh.tipperarycrystal.ie CNAME .
@@ -3208,6 +3225,7 @@ nfnca.rufflebutts.com CNAME .
 nfthe.goclove.com CNAME .
 ngcdc.charleskeith.eu CNAME .
 ngdjv.childsplayclothing.com CNAME .
+ngdwt.nativepath.com CNAME .
 nggli.sweethoneyclothing.com CNAME .
 nggzy.baschieri-pellagriusa.com CNAME .
 ngjjt.havaianas.com CNAME .
@@ -3216,6 +3234,7 @@ nhddn.cloudninehair.com CNAME .
 nhglm.everydayyoga.com CNAME .
 nhids.farmacybeauty.com CNAME .
 nhqff.dolcevita.com CNAME .
+nhscf.bebonia.com CNAME .
 nhslg.thenimetyou.com CNAME .
 nhtrw.burgerville.com CNAME .
 nijml.amsoil.com CNAME .
@@ -3650,6 +3669,7 @@ rsjkv.brunomagli.com CNAME .
 rspeo.rotita.com CNAME .
 rstil.vionicshoes.com CNAME .
 rsvll.marcellanyc.com CNAME .
+rsvzw.buyagift.co.uk CNAME .
 rszpw.elixserpeptides.com CNAME .
 rtmbz.anthropologie.com CNAME .
 rtnmr.bohme.com CNAME .
@@ -3666,6 +3686,7 @@ rwfhc.cleens.co.uk CNAME .
 rxmld.manieredevoir.com CNAME .
 rxwdv.neoprocycling.com.au CNAME .
 rydmw.heydude.com.au CNAME .
+ryngd.revitalizeme.com CNAME .
 rypfb.saleehair.com CNAME .
 rytrs.roman.co.uk CNAME .
 rzcsz.carolinaherrera.com CNAME .
@@ -3790,7 +3811,6 @@ tcvhz.joahbrown.com CNAME .
 tdedv.tires-easy.com CNAME .
 tdgii.loft.com CNAME .
 tdnel.tend.com CNAME .
-tdpfe.lalignenyc.com CNAME .
 tebts.mishimoto.com CNAME .
 tevck.ca.coachoutlet.com CNAME .
 tfkic.worldmarket.com CNAME .
@@ -4008,9 +4028,11 @@ vlquz.gasmonkeygarage.com CNAME .
 vltjn.bucketsquad.com CNAME .
 vlzad.gsfcarparts.com CNAME .
 vlzuz.bcbg.com CNAME .
+vmjes.cci-ammunition.com CNAME .
 vmtsv.henckels.com CNAME .
 vmzok.plouise.co.uk CNAME .
 vnfcg.maxandlily.com CNAME .
+vnfjj.mtgdstudios.com CNAME .
 vnlxp.sportinglife.ca CNAME .
 vnuqu.fentybeauty.co.uk CNAME .
 vnuqz.seattlecoffeegear.com CNAME .
@@ -4072,6 +4094,7 @@ wfznj.jillmartin.com CNAME .
 wghkr.icelinkwatch.com CNAME .
 whktr.runrocknroll.com CNAME .
 whzqk.legendarywallart.com CNAME .
+wjcfl.memobottle.com.au CNAME .
 wkdcv.teriyakimadness.com CNAME .
 wkffb.247blinds.co.uk CNAME .
 wkmgb.skatie.com CNAME .
@@ -4650,6 +4673,7 @@ obguj.wishgardenherbs.com CNAME .
 ocdnk.humanfoodbar.com CNAME .
 oeclu.craftedelements.com CNAME .
 ogaep.steelhorseleather.com CNAME .
+oijzp.phdfinancial.com CNAME .
 oinhg.pacificroots.com CNAME .
 ojiem.fabricmegastore.com CNAME .
 olhrj.americanvisionwindowsaz.com CNAME .
@@ -4662,6 +4686,7 @@ otdor.theprofitlab.biz CNAME .
 ovlkc.shoprongrong.com CNAME .
 ozcid.kolkatachai.co CNAME .
 pajsb.coopsleepgoods.com CNAME .
+pbaff.zumgarden.com CNAME .
 pbrvf.daybreakskin.com CNAME .
 pcgkg.beaudindesigns.com CNAME .
 pcptq.mtangelvitamins.com CNAME .
@@ -4676,6 +4701,7 @@ phjik.clintonhilltownhouse.com CNAME .
 pikoj.g2gbar.com CNAME .
 pjtmj.miraiclinical.com CNAME .
 plnmf.lovebyemi.com CNAME .
+plvau.terraqueabeachproperties.com CNAME .
 pmmzh.playapochomil.com CNAME .
 pncqz.quince.com CNAME .
 ppnat.ivamfg.com CNAME .
@@ -4755,6 +4781,7 @@ ukvnr.glamrdip.com CNAME .
 ulspj.defendershield.com CNAME .
 umuiz.heritagecares.com CNAME .
 uoird.jiujitsu.com CNAME .
+uorio.smartmoneytrading.com CNAME .
 uormn.cellitas.com CNAME .
 uposz.procoffeegear.com CNAME .
 uqfkr.helloryse.com CNAME .
@@ -4762,6 +4789,7 @@ uqztj.umbrellasource.com CNAME .
 urdam.hillcrestmemorialgarden.com CNAME .
 utqfh.dermdude.com CNAME .
 uvuap.stampington.com CNAME .
+vbptk.childcarebusinessgrowthlive.com CNAME .
 vbsrb.hoveround.com CNAME .
 vcdzh.lizzyjames.com CNAME .
 vchmn.revo.com CNAME .

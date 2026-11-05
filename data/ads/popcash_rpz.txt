@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793621301591        ; Serial
+           1793888525868        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,7 +12,6 @@ $TTL 300
 @    IN   NS    localhost.
 
 cdn.adevbom.com CNAME .
-cdn.adevppl.com CNAME .
 cdn.afwpc.com CNAME .
 cdn.agajx.com CNAME .
 cdn.alcatza.com CNAME .
@@ -60,6 +59,7 @@ cdn.gpcrn.com CNAME .
 cdn.hhjow.com CNAME .
 cdn.hhmako.cloud CNAME .
 cdn.hjklq.com CNAME .
+cdn.hogmc.net CNAME .
 cdn.holenhw.com CNAME .
 cdn.htkcm.com CNAME .
 cdn.iople.com CNAME .
@@ -190,6 +190,7 @@ antelope.journeyofanurse.com CNAME .
 antelope.targetinternet.com CNAME .
 antelope.u3a.com.au CNAME .
 antlion.codivores.com CNAME .
+antlion.duo.agency CNAME .
 antlion.hendrikhaack.de CNAME .
 ape.mfj.se CNAME .
 ape.pytch.co.uk CNAME .
@@ -238,7 +239,6 @@ bison.ainslieart.com CNAME .
 bison.stuffmatic.com CNAME .
 bison.weitweit.at CNAME .
 blackbird.docstation.co CNAME .
-bluejay.edgesoftware.cloud CNAME .
 bluejay.fivefold.vc CNAME .
 bluejay.postmediagroup.com CNAME .
 bluejay.schreinerei-virnich.de CNAME .
@@ -918,6 +918,8 @@ y5qhzz3q.designdetails.fm CNAME .
 yak.auclantis.com CNAME .
 yak.gregsullivan.com CNAME .
 yak.juicydevils.gr CNAME .
+a.nanoq.org CNAME .
+matomo-cdn-bunny.ramsalt.com CNAME .
 a.th.gl CNAME .
 ads.adsvtm.com CNAME .
 ads.cdn.bndlapi.com CNAME .
@@ -1011,10 +1013,13 @@ consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 creative-bunny.bidease.com CNAME .
 dntcl.qualaroo.com CNAME .
+icon.eu.admndx.com CNAME .
 icon.eu.afmndx.com CNAME .
+icon.eu.agmndx.com CNAME .
 icon.eu.armndx.com CNAME .
 icon.eu.atmnd.com CNAME .
 icon.eu.atmndx.com CNAME .
+icon.eu.avdomnd.com CNAME .
 icon.eu.awmndw.com CNAME .
 icon.eu.bbmnd.com CNAME .
 icon.eu.bmndx.com CNAME .
@@ -1023,6 +1028,7 @@ icon.eu.eemnd.com CNAME .
 icon.eu.jramnd.com CNAME .
 icon.eu.kyomnd.com CNAME .
 icon.eu.mndsrv.com CNAME .
+icon.eu.mvdomnd.com CNAME .
 icon.eu.nwmnd.com CNAME .
 icon.eu.ofmndx.com CNAME .
 icon.eu.plmndw.com CNAME .
@@ -1030,8 +1036,10 @@ icon.eu.ptmnd.com CNAME .
 icon.eu.rfxmnd.com CNAME .
 icon.eu.twrmnd.com CNAME .
 live-tag.creatopy.net CNAME .
+load.sstrk.green-acres.co.uk CNAME .
+load.sstrk.green-acres.com CNAME .
+load.sstrk.green-acres.gr CNAME .
 log.ads-m.net CNAME .
-matomo-cdn-bunny.ramsalt.com CNAME .
 media.masque.com CNAME .
 metrics.aspose.com CNAME .
 metrics.groupdocs.com CNAME .

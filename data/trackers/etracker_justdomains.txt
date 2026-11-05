@@ -27,6 +27,7 @@ click.easycosmetic.be
 click.easycosmetic.ch
 click.easycosmetic.de
 click.easycosmetic.nl
+connect.exportarts.io
 connect.glowtox.de
 connect.peter-bringts.de
 content01.genius.tv
@@ -175,9 +176,11 @@ gus.ihlenfeldt.de
 insides.honic.eu
 insights.bertelsmann-stiftung.de
 js.edingershops.de
+kkanalytics.crystalyx.de
 kkanalytics.desintec.de
 kkanalytics.fria-immobilien.de
 kkanalytics.rfox.de
+kkanalytics.silierung.de
 kkanalytics.terravis-biogas.de
 kkanalytics.veravis.de
 kkavde.agravis.de
@@ -281,6 +284,7 @@ statistics.xpedite-dx.com
 stats.brune-company.de
 stats.die-bibel.de
 stats.eliveshop.de
+stats.fingerhut-wald.de
 stats.folienmarkt.de
 stats.haus-am-meer-norderney.de
 stats.hilscher.com
@@ -477,6 +481,7 @@ webcontr.reisprinzen.de
 webcontr.renovaid.de
 webcontr.rheinenergie-trading.com
 webcontr.rheinenergie.com
+webcontr.rheinnetz.de
 webcontr.roewa.com
 webcontr.rollytoys.de
 webcontr.ryzon.net
@@ -508,6 +513,7 @@ webcontr.wnxe.de
 webcontr.wolkenlosundheiter.de
 webcontr.yourfashionplace.de
 webcontrol.brenners-altholz.at
+webctr.ayurveda-wagner.de
 webctrl.dalimed.de
 webstats.arbeitskleidung-expert.de
 webstats.hutdirekt.de
@@ -572,11 +578,15 @@ webstt0076.onofficeom.com
 webstt0077.onofficeom.com
 webstt0078.onofficeom.com
 webstt0079.onofficeom.com
+webstt0080.onofficeom.com
 webstt0082.onofficeom.com
 webstt0083.onofficeom.com
+webstt0085.onofficeom.com
 webstt0086.onofficeom.com
+webstt0088.onofficeom.com
 webstt0089.onofficeom.com
 webstt0090.onofficeom.com
+webstt0092.onofficeom.com
 webstt0094.onofficeom.com
 webstt0096.onofficeom.com
 webstt0100.onofficeom.com

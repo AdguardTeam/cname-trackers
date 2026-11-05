@@ -102,6 +102,7 @@
 ||adebis.reruju.com^
 ||adebis.rishiria-furel.com^
 ||adebis.s-toushi.jp^
+||adebis.sastty.com^
 ||adebis.satori.marketing^
 ||adebis.sbishinseibank.co.jp^
 ||adebis.sbpayment.jp^

@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME original trackers list
 # Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-# TimeUpdated: 2026-11-02T15:16:41+00:00
+# TimeUpdated: 2026-11-05T15:48:54+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 #
@@ -115,6 +115,9 @@ eulerian.net
 # Company: Extole
 extole.com
 extole.io
+#
+# Company: Eyepin
+post.eyepinnews.com
 #
 # Company: Fathom
 fathomdns.com

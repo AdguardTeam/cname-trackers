@@ -9,6 +9,7 @@
 * c2309.affilbox.cz
 * c4924.affilbox.cz
 * affiliatesit.cz
+* partner-origin.riseduct.com
 * c7158.affilbox.cz
 * c771.affilbox.cz
 * c1776.affilbox.cz
@@ -28,6 +29,7 @@
 | partner.eliteways.cz | c7158.affilbox.cz |
 | partner.janapekna.cz | c771.affilbox.cz |
 | abox.simpleshop.cz | cz.affilbox.cz |
+| adfs.algomoneo.com | cz.affilbox.cz |
 | aff.faircredit.cz | cz.affilbox.cz |
 | aff.pujckajonatan.cz | cz.affilbox.cz |
 | aff.realwoman.sk | cz.affilbox.cz |
@@ -320,6 +322,7 @@
 | hcbox.tlamka.cz | cz.affilbox.cz |
 | hcbox.verapostele.sk | cz.affilbox.cz |
 | hcbox1.warriorboat.sk | cz.affilbox.cz |
+| identity.algomoneo.com | cz.affilbox.cz |
 | isic.kopirkaostrava.cz | cz.affilbox.cz |
 | isicpartner.mamechut.cz | cz.affilbox.cz |
 | kaocko.swaglift.com | cz.affilbox.cz |
@@ -471,7 +474,6 @@
 | partner.bylinkovysvet.com | cz.affilbox.cz |
 | partner.cakemarket.eu | cz.affilbox.cz |
 | partner.candy.cz | cz.affilbox.cz |
-| partner.caricia.sk | cz.affilbox.cz |
 | partner.caskrmeni.cz | cz.affilbox.cz |
 | partner.cbdcko.cz | cz.affilbox.cz |
 | partner.cbdstar.cz | cz.affilbox.cz |
@@ -852,7 +854,6 @@
 | partneri.incacollagen.eu | cz.affilbox.cz |
 | partneri.interiery.cz | cz.affilbox.cz |
 | partneri.intimfitness.cz | cz.affilbox.cz |
-| partneri.jakofenix.cz | cz.affilbox.cz |
 | partneri.jazykovavyzva.cz | cz.affilbox.cz |
 | partneri.jazykovedarky.cz | cz.affilbox.cz |
 | partneri.jazykyodpiky.cz | cz.affilbox.cz |
@@ -1007,3 +1008,4 @@
 | vydelavejtesnami.pg.cz | cz.affilbox.cz |
 | www.partner.hubatacernoska.cz | cz.affilbox.cz |
 | www.partneri.zuzanaondrisova.sk | cz.affilbox.cz |
+| partner.caricia.sk | partner-origin.riseduct.com |

@@ -4,7 +4,6 @@
 ||a.linkz.ai^
 ||aloha.getoperand.com^
 ||also.greatsecuritydebate.net^
-||an.xavierrosee.com^
 ||ana.grumpygamer.com^
 ||analytics.adam.page^
 ||analytics.andrewsmith.com.au^
@@ -152,7 +151,6 @@
 ||plausible.giveatip.io^
 ||plausible.golfbreaks.com^
 ||plausible.gryka.net^
-||plausible.gymglish.com^
 ||plausible.help.exploreandcreate.com^
 ||plausible.holderbaum-academy.de^
 ||plausible.hopecanebay.com^
@@ -642,7 +640,6 @@
 ||stats.urbanfinn.com^
 ||stats.useeffect.dev^
 ||stats.v4.agirpourlenvironnement.org^
-||stats.vali-pod.io^
 ||stats.vegamuze.be^
 ||stats.vinkkaa.fi^
 ||stats.visions.ch^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793628865127        ; Serial
+           1793886555940        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ click.easycosmetic.be CNAME .
 click.easycosmetic.ch CNAME .
 click.easycosmetic.de CNAME .
 click.easycosmetic.nl CNAME .
+connect.exportarts.io CNAME .
 connect.glowtox.de CNAME .
 connect.peter-bringts.de CNAME .
 content01.genius.tv CNAME .
@@ -186,9 +187,11 @@ gus.ihlenfeldt.de CNAME .
 insides.honic.eu CNAME .
 insights.bertelsmann-stiftung.de CNAME .
 js.edingershops.de CNAME .
+kkanalytics.crystalyx.de CNAME .
 kkanalytics.desintec.de CNAME .
 kkanalytics.fria-immobilien.de CNAME .
 kkanalytics.rfox.de CNAME .
+kkanalytics.silierung.de CNAME .
 kkanalytics.terravis-biogas.de CNAME .
 kkanalytics.veravis.de CNAME .
 kkavde.agravis.de CNAME .
@@ -292,6 +295,7 @@ statistics.xpedite-dx.com CNAME .
 stats.brune-company.de CNAME .
 stats.die-bibel.de CNAME .
 stats.eliveshop.de CNAME .
+stats.fingerhut-wald.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.haus-am-meer-norderney.de CNAME .
 stats.hilscher.com CNAME .
@@ -488,6 +492,7 @@ webcontr.reisprinzen.de CNAME .
 webcontr.renovaid.de CNAME .
 webcontr.rheinenergie-trading.com CNAME .
 webcontr.rheinenergie.com CNAME .
+webcontr.rheinnetz.de CNAME .
 webcontr.roewa.com CNAME .
 webcontr.rollytoys.de CNAME .
 webcontr.ryzon.net CNAME .
@@ -519,6 +524,7 @@ webcontr.wnxe.de CNAME .
 webcontr.wolkenlosundheiter.de CNAME .
 webcontr.yourfashionplace.de CNAME .
 webcontrol.brenners-altholz.at CNAME .
+webctr.ayurveda-wagner.de CNAME .
 webctrl.dalimed.de CNAME .
 webstats.arbeitskleidung-expert.de CNAME .
 webstats.hutdirekt.de CNAME .
@@ -583,11 +589,15 @@ webstt0076.onofficeom.com CNAME .
 webstt0077.onofficeom.com CNAME .
 webstt0078.onofficeom.com CNAME .
 webstt0079.onofficeom.com CNAME .
+webstt0080.onofficeom.com CNAME .
 webstt0082.onofficeom.com CNAME .
 webstt0083.onofficeom.com CNAME .
+webstt0085.onofficeom.com CNAME .
 webstt0086.onofficeom.com CNAME .
+webstt0088.onofficeom.com CNAME .
 webstt0089.onofficeom.com CNAME .
 webstt0090.onofficeom.com CNAME .
+webstt0092.onofficeom.com CNAME .
 webstt0094.onofficeom.com CNAME .
 webstt0096.onofficeom.com CNAME .
 webstt0100.onofficeom.com CNAME .

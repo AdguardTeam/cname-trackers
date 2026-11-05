@@ -15,7 +15,6 @@
     * flaconi02.webtrekk.net
     * flatex-at01.webtrekk.net
     * heise02.webtrekk.net
-    * img01.webtrekk.net
     * ingnl04.webtrekk.net
     * interhyp02.webtrekk.net
     * kfw-07.webtrekk.net
@@ -111,6 +110,7 @@
     * 484879729086450.wt-eu02.net
     * 487143832382979.wt-eu02.net
     * 492778793747615.wt-eu02.net
+    * 495967780350059.wt-eu02.net
     * 516595732855224.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
@@ -364,6 +364,7 @@
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.news.coccinelle.com | 487143832382979.wt-eu02.net |
 | web.news.absurdbeauty.com | 492778793747615.wt-eu02.net |
+| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | web2.updates.ditano.com | 516595732855224.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
@@ -559,7 +560,6 @@
 | scout.bergfreunde.nl | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.no | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
-| service.hcob-bank.de | img01.webtrekk.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | wtm.interhyp.de | interhyp02.webtrekk.net |
 | data.charles-colby.com | janvanderstorm-01.wt-eu02.net |

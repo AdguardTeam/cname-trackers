@@ -1,7 +1,6 @@
 !
 ! Company name: PopCash
 ||cdn.adevbom.com^
-||cdn.adevppl.com^
 ||cdn.afwpc.com^
 ||cdn.agajx.com^
 ||cdn.alcatza.com^
@@ -49,6 +48,7 @@
 ||cdn.hhjow.com^
 ||cdn.hhmako.cloud^
 ||cdn.hjklq.com^
+||cdn.hogmc.net^
 ||cdn.holenhw.com^
 ||cdn.htkcm.com^
 ||cdn.iople.com^
@@ -179,6 +179,7 @@
 ||antelope.targetinternet.com^
 ||antelope.u3a.com.au^
 ||antlion.codivores.com^
+||antlion.duo.agency^
 ||antlion.hendrikhaack.de^
 ||ape.mfj.se^
 ||ape.pytch.co.uk^
@@ -227,7 +228,6 @@
 ||bison.stuffmatic.com^
 ||bison.weitweit.at^
 ||blackbird.docstation.co^
-||bluejay.edgesoftware.cloud^
 ||bluejay.fivefold.vc^
 ||bluejay.postmediagroup.com^
 ||bluejay.schreinerei-virnich.de^
@@ -907,6 +907,8 @@
 ||yak.auclantis.com^
 ||yak.gregsullivan.com^
 ||yak.juicydevils.gr^
+||a.nanoq.org^
+||matomo-cdn-bunny.ramsalt.com^
 ||a.th.gl^
 ||ads.adsvtm.com^
 ||ads.cdn.bndlapi.com^
@@ -1000,10 +1002,13 @@
 ||contact-gloss-production.accelerator.net^
 ||creative-bunny.bidease.com^
 ||dntcl.qualaroo.com^
+||icon.eu.admndx.com^
 ||icon.eu.afmndx.com^
+||icon.eu.agmndx.com^
 ||icon.eu.armndx.com^
 ||icon.eu.atmnd.com^
 ||icon.eu.atmndx.com^
+||icon.eu.avdomnd.com^
 ||icon.eu.awmndw.com^
 ||icon.eu.bbmnd.com^
 ||icon.eu.bmndx.com^
@@ -1012,6 +1017,7 @@
 ||icon.eu.jramnd.com^
 ||icon.eu.kyomnd.com^
 ||icon.eu.mndsrv.com^
+||icon.eu.mvdomnd.com^
 ||icon.eu.nwmnd.com^
 ||icon.eu.ofmndx.com^
 ||icon.eu.plmndw.com^
@@ -1019,8 +1025,10 @@
 ||icon.eu.rfxmnd.com^
 ||icon.eu.twrmnd.com^
 ||live-tag.creatopy.net^
+||load.sstrk.green-acres.co.uk^
+||load.sstrk.green-acres.com^
+||load.sstrk.green-acres.gr^
 ||log.ads-m.net^
-||matomo-cdn-bunny.ramsalt.com^
 ||media.masque.com^
 ||metrics.aspose.com^
 ||metrics.groupdocs.com^

@@ -280,6 +280,7 @@
 ||ntms-test.coles.com.au^
 ||ntms-test.creditcards.money.qantas.com^
 ||ntms-test.koganmoney.com.au^
+||ntms-test.virginmoney.com.au^
 ||ntms.boq.com.au^
 ||ntms.coles.com.au^
 ||ntms.creditcards.money.qantas.com^

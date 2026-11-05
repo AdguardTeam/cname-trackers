@@ -41,6 +41,7 @@
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
+| access.h24.news | tls.non.li |
 | account.h24.news | tls.non.li |
 | admin.h24.news | tls.non.li |
 | api.h24.news | tls.non.li |
@@ -430,6 +431,7 @@
 | uk.h24.news | tls.non.li |
 | us.h24.news | tls.non.li |
 | uy.h24.news | tls.non.li |
+| ve.h24.news | tls.non.li |
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |
 | www.h24.news | tls.non.li |

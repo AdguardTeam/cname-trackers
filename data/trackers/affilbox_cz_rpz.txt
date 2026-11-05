@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793617659137        ; Serial
+           1793890329314        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 abox.simpleshop.cz CNAME .
+adfs.algomoneo.com CNAME .
 aff.faircredit.cz CNAME .
 aff.pujckajonatan.cz CNAME .
 aff.realwoman.sk CNAME .
@@ -304,6 +305,7 @@ hcbox.tesla-electronics.eu CNAME .
 hcbox.tlamka.cz CNAME .
 hcbox.verapostele.sk CNAME .
 hcbox1.warriorboat.sk CNAME .
+identity.algomoneo.com CNAME .
 isic.kopirkaostrava.cz CNAME .
 isicpartner.mamechut.cz CNAME .
 kaocko.swaglift.com CNAME .
@@ -455,7 +457,6 @@ partner.bydlimekrasne.cz CNAME .
 partner.bylinkovysvet.com CNAME .
 partner.cakemarket.eu CNAME .
 partner.candy.cz CNAME .
-partner.caricia.sk CNAME .
 partner.caskrmeni.cz CNAME .
 partner.cbdcko.cz CNAME .
 partner.cbdstar.cz CNAME .
@@ -836,7 +837,6 @@ partneri.hopsaj.sk CNAME .
 partneri.incacollagen.eu CNAME .
 partneri.interiery.cz CNAME .
 partneri.intimfitness.cz CNAME .
-partneri.jakofenix.cz CNAME .
 partneri.jazykovavyzva.cz CNAME .
 partneri.jazykovedarky.cz CNAME .
 partneri.jazykyodpiky.cz CNAME .
@@ -994,6 +994,7 @@ www.partneri.zuzanaondrisova.sk CNAME .
 affil.myface.cz CNAME .
 affiliate.kulturistika.com CNAME .
 login.affiliatesit.cz CNAME .
+partner.caricia.sk CNAME .
 partner.eliteways.cz CNAME .
 partner.janapekna.cz CNAME .
 partner.mojalekaren.sk CNAME .

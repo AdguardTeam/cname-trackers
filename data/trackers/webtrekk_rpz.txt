@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793624908238        ; Serial
+           1793885533569        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,7 +22,6 @@ pix.telekom-dienste.de CNAME .
 pix.telekom.de CNAME .
 pixel.augsburger-allgemeine.de CNAME .
 prophet.heise.de CNAME .
-service.hcob-bank.de CNAME .
 startrekk.flaconi.de CNAME .
 sub1.cosmosdirekt.de CNAME .
 text.mitarbeiterangebote.de CNAME .
@@ -301,6 +300,7 @@ web.mapp.tretti.se CNAME .
 web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
+web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.absurdbeauty.com CNAME .
 web.news.bottegaverde.com CNAME .
@@ -397,4 +397,3 @@ wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
 www.a.jaz-hotel.com CNAME .
-web.marketing.jellybelly.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793621301591        ; Serial
+           1793882711520        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+access.h24.news CNAME .
 account.h24.news CNAME .
 admin.h24.news CNAME .
 api.h24.news CNAME .
@@ -430,6 +431,7 @@ u.ie.h24.news CNAME .
 uk.h24.news CNAME .
 us.h24.news CNAME .
 uy.h24.news CNAME .
+ve.h24.news CNAME .
 www.20min.fr CNAME .
 www.altereco.media CNAME .
 www.h24.news CNAME .

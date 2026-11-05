@@ -39,9 +39,12 @@
     * d-deloitte-fr-cddc.at-o.net
     * d-m-net-de-cddc.at-o.net
     * d-santemagazine-fr-cddc.at-o.net
+    * da-defam-nl-cddc.at-o.net
     * da-freo-nl-cddc.at-o.net
+    * da-lendris-nl-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
     * da-rabobank-nl-cddc.at-o.net
+    * da-sprankr-nl-cddc.at-o.net
     * dadi-gandi-net-cddc.at-o.net
     * data-lelivrescolaire-fr-cddc.at-o.net
     * dfr-deloitte-com-cddc.at-o.net
@@ -58,6 +61,7 @@
     * ignis-kicker-ch-cddc.at-o.net
     * ignis-kicker-de-cddc.at-o.net
     * ignis-nn-de-cddc.at-o.net
+    * ignis-nordbayern-de-cddc.at-o.net
     * image-ard-de-cddc.at-o.net
     * image-mdr-de-cddc.at-o.net
     * images-kika-de-cddc.at-o.net
@@ -199,9 +203,12 @@
 | d.deloitte.fr | d-deloitte-fr-cddc.at-o.net |
 | d.m-net.de | d-m-net-de-cddc.at-o.net |
 | d.santemagazine.fr | d-santemagazine-fr-cddc.at-o.net |
+| da.defam.nl | da-defam-nl-cddc.at-o.net |
 | da.freo.nl | da-freo-nl-cddc.at-o.net |
+| da.lendris.nl | da-lendris-nl-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
 | da.rabobank.nl | da-rabobank-nl-cddc.at-o.net |
+| da.sprankr.nl | da-sprankr-nl-cddc.at-o.net |
 | dadi.gandi.net | dadi-gandi-net-cddc.at-o.net |
 | data.lelivrescolaire.fr | data-lelivrescolaire-fr-cddc.at-o.net |
 | dfr.deloitte.com | dfr-deloitte-com-cddc.at-o.net |
@@ -218,6 +225,7 @@
 | ignis.kicker.ch | ignis-kicker-ch-cddc.at-o.net |
 | ignis.kicker.de | ignis-kicker-de-cddc.at-o.net |
 | ignis.nn.de | ignis-nn-de-cddc.at-o.net |
+| ignis.nordbayern.de | ignis-nordbayern-de-cddc.at-o.net |
 | image.ard.de | image-ard-de-cddc.at-o.net |
 | image.mdr.de | image-mdr-de-cddc.at-o.net |
 | images.kika.de | images-kika-de-cddc.at-o.net |

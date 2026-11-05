@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793624908238        ; Serial
+           1793886555940        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,6 +137,7 @@ a.friont.xyz CNAME .
 a.fwsso.com CNAME .
 a.gebir.xyz CNAME .
 a.gelor.xyz CNAME .
+a.gentoz.xyz CNAME .
 a.gixto.xyz CNAME .
 a.globity.xyz CNAME .
 a.glonte.xyz CNAME .
@@ -148,6 +149,7 @@ a.gunont.xyz CNAME .
 a.gzupload.com CNAME .
 a.havenyl.xyz CNAME .
 a.helib.xyz CNAME .
+a.hentoe.xyz CNAME .
 a.hilar.xyz CNAME .
 a.hirony.xyz CNAME .
 a.hlonte.xyz CNAME .
@@ -413,6 +415,7 @@ carpici.clicknplay.to CNAME .
 cba.cda-hd.co CNAME .
 ccsq.cogninotow.site CNAME .
 cdn.007moms.com CNAME .
+cdn.netyra.info CNAME .
 cdn.sphinxtube.com CNAME .
 cdn.throatbulge.com CNAME .
 cdn.tia-tanaka.blog CNAME .
@@ -440,14 +443,17 @@ contacts.kakuyomu.life CNAME .
 content.scrollx.org CNAME .
 conuber.getyoursafelink.com CNAME .
 cool.gaygo.tv CNAME .
+core.netyra.info CNAME .
 cot.nomarax.com CNAME .
 cpanel.hubhubhub.name CNAME .
+cr9y8xbt.xyz CNAME .
 creatives.x2lt.com CNAME .
 creta.hubhubhub.name CNAME .
 crumpet.xxxpornhd.pro CNAME .
 cx6.lastxxxmovies.com CNAME .
 d.love4porn.com CNAME .
 data.bangtubevideos.com CNAME .
+data.netyra.info CNAME .
 data.streamtape.com CNAME .
 dca-ems.hubhubhub.name CNAME .
 ddos.tabooland.site CNAME .
@@ -484,6 +490,7 @@ eob9wz0y.xyz CNAME .
 equity-dev.hubhubhub.name CNAME .
 ery7i2ca.xyz CNAME .
 essential.awmcash.com CNAME .
+esxi.hubhubhub.name CNAME .
 evil.infinitybet.win CNAME .
 ewrerwe.s3m4m.lol CNAME .
 ex8.lostporntube.com CNAME .
@@ -536,6 +543,7 @@ gpt.tubetruck.com CNAME .
 great.xxxbanglavideo.com CNAME .
 green.endpoint2532.com CNAME .
 gsa24.giaythethaonuhcm.com CNAME .
+gss.rstrix.com CNAME .
 gvbt3xwg.xyz CNAME .
 gvqml.starwank.com CNAME .
 gx0.funfuckmovies.com CNAME .
@@ -575,6 +583,7 @@ ithaca.hubhubhub.name CNAME .
 iu3pprwz.xyz CNAME .
 ix2.deepsexvids.com CNAME .
 jg43iqqd.xyz CNAME .
+jkc0idkv.xyz CNAME .
 jnps3tlw.xyz CNAME .
 jo.429men.com CNAME .
 jo.fapnado.xxx CNAME .
@@ -728,7 +737,6 @@ okku84mt.xyz CNAME .
 okurka.xxxdasi.net CNAME .
 oljzzc14.xyz CNAME .
 onsen.japanstartup.info CNAME .
-ontj.com CNAME .
 otaku.otakusphere.online CNAME .
 ox8.topsexhdvideos.com CNAME .
 ozoj.com CNAME .
@@ -763,6 +771,7 @@ pre.myfuck.club CNAME .
 pre.porno102.com CNAME .
 pre.pornobaton.com CNAME .
 pre.pornuxaxa.com CNAME .
+preprod.hubhubhub.name CNAME .
 prias.everydayporn.com CNAME .
 prl.adasgsts.cc CNAME .
 prl.adasgxsp.cc CNAME .
@@ -798,11 +807,13 @@ r.tropictube.com CNAME .
 reklama.teenfuckhd.com CNAME .
 reload.hotscopes.org CNAME .
 remark.dirtyships.net CNAME .
+resources.netyra.info CNAME .
 rest.sexypornvideo.net CNAME .
 rfxqu0v7.xyz CNAME .
 rmq.lesbianbliss.com CNAME .
 rnb4bxd0.xyz CNAME .
 rocket08062025.shop CNAME .
+roi.rstrix.com CNAME .
 rs.picmega.com CNAME .
 rst.pornyhd.com CNAME .
 rtslxo3a.xyz CNAME .
@@ -864,6 +875,7 @@ sk.transhero.com CNAME .
 sk.trashreality.com CNAME .
 sk.zatube.com CNAME .
 slit.lewd.rip CNAME .
+soberlis.com CNAME .
 sol.tlcgher.com CNAME .
 solo.chinese-sex-tube.com CNAME .
 sp.kaizclick.com CNAME .
@@ -937,6 +949,7 @@ uacabilqlgpw.cdnvideo3.com CNAME .
 udjkl.tyktbewsdvrgnhjyu.world CNAME .
 uh5p93ia.xyz CNAME .
 ui.videojav.com CNAME .
+uisa.radargaymen.com CNAME .
 ujlxkxgfl3.creativelandings.xyz CNAME .
 ujpcgbe9.xyz CNAME .
 uk.boffinsoft.com CNAME .
@@ -946,6 +959,7 @@ unpydqpidsfb.cdnvideo3.com CNAME .
 uoydzaom.xyz CNAME .
 up.nextfunup.com CNAME .
 upperoh.hubhubhub.name CNAME .
+uptime.hubhubhub.name CNAME .
 v.xvds.tv CNAME .
 v1.sellbuy.click CNAME .
 vads.stellaplus.xyz CNAME .
@@ -1046,6 +1060,7 @@ xxxlove.rooski.net CNAME .
 xzqw.4wank.com CNAME .
 y.crazyporn.xxx CNAME .
 y.sphinxtube.com CNAME .
+y2ehvxgs.xyz CNAME .
 y7bo6nwk.xyz CNAME .
 yaanom.tentenhunukwa.space CNAME .
 yegprnemph.creativelandings.xyz CNAME .

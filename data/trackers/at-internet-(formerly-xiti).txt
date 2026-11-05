@@ -37,9 +37,12 @@
 ||d.deloitte.fr^
 ||d.m-net.de^
 ||d.santemagazine.fr^
+||da.defam.nl^
 ||da.freo.nl^
+||da.lendris.nl^
 ||da.maif.fr^
 ||da.rabobank.nl^
+||da.sprankr.nl^
 ||dadi.gandi.net^
 ||data.lelivrescolaire.fr^
 ||dfr.deloitte.com^
@@ -56,6 +59,7 @@
 ||ignis.kicker.ch^
 ||ignis.kicker.de^
 ||ignis.nn.de^
+||ignis.nordbayern.de^
 ||image.ard.de^
 ||image.mdr.de^
 ||images.kika.de^

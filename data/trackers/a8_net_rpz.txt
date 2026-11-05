@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793624908238        ; Serial
+           1793890329314        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -638,6 +638,7 @@ a8clk.skynet-c.jp CNAME .
 a8clk.skyoffice.info CNAME .
 a8clk.smart-keiri.com CNAME .
 a8clk.smile-zemi.jp CNAME .
+a8clk.sozow-park.com CNAME .
 a8clk.sp.move-ebike.co.jp CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793624908238        ; Serial
+           1793885533569        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -291,6 +291,7 @@ nexus.virginholidays.co.uk CNAME .
 ntms-test.coles.com.au CNAME .
 ntms-test.creditcards.money.qantas.com CNAME .
 ntms-test.koganmoney.com.au CNAME .
+ntms-test.virginmoney.com.au CNAME .
 ntms.boq.com.au CNAME .
 ntms.coles.com.au CNAME .
 ntms.creditcards.money.qantas.com CNAME .

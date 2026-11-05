@@ -1008,7 +1008,6 @@
 | logger.unsplash.com | snowplow-collector-load-balancer-156346584.us-east-1.elb.amazonaws.com |
 | data.guardianbikes.com | sp-collector-lb-1049040380.us-west-2.elb.amazonaws.com |
 | 100002077.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
-| 510000007.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | 510000044.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | 510000047.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |
 | 510000628.collect.igodigital.com | tau-collector-2141062151.eu-west-1.elb.amazonaws.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793621301591        ; Serial
+           1793886555940        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,7 @@ anal.sataniskwijt.be CNAME .
 analytics.applycreatures.com CNAME .
 analytics.boxunix.com CNAME .
 analytics.carnelian.cc CNAME .
+analytics.chocolatemoo53.com CNAME .
 analytics.code.dccouncil.gov CNAME .
 analytics.codes.baltimorecity.gov CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
@@ -141,6 +142,7 @@ stats.dijugar.com CNAME .
 stats.docs.semio-tech.com CNAME .
 stats.dwermke.com CNAME .
 stats.eithel.org CNAME .
+stats.fabianmersch.com CNAME .
 stats.fieald.com CNAME .
 stats.fischr.org CNAME .
 stats.forest-school.am CNAME .
@@ -174,6 +176,7 @@ stats.k94.ch CNAME .
 stats.kc.ie CNAME .
 stats.kelly4frostburg.com CNAME .
 stats.kev.bar CNAME .
+stats.kolletzki.me CNAME .
 stats.konfou.xyz CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
@@ -186,6 +189,7 @@ stats.lspeed.org CNAME .
 stats.maikroservice.com CNAME .
 stats.manakin.fi CNAME .
 stats.mathematikos.sk CNAME .
+stats.matmanna.dev CNAME .
 stats.matteocroce.it CNAME .
 stats.mausoleum.me CNAME .
 stats.merrell.dev CNAME .
@@ -218,7 +222,6 @@ stats.realestate.kyiv.ua CNAME .
 stats.realestate.net.ua CNAME .
 stats.realestate.uz.ua CNAME .
 stats.reallybyte.com CNAME .
-stats.rewindmtv.com CNAME .
 stats.rezhajul.io CNAME .
 stats.risanne.nl CNAME .
 stats.rocketgoboom.lol CNAME .
@@ -250,10 +253,13 @@ stats.umcconnell.net CNAME .
 stats.uygar.sh CNAME .
 stats.vamsi-alluri.me CNAME .
 stats.villajoanna.online CNAME .
+stats.vinlam.com CNAME .
+stats.waardevolmuziek.nl CNAME .
 stats.waytosmile.fr CNAME .
 stats.webmeasurements.org CNAME .
 stats.whatacools.com CNAME .
 stats.wjmallard.net CNAME .
+stats.xavierroy.com CNAME .
 stats.ybbond.id CNAME .
 stats.yolandakeiser.ch CNAME .
 stats.yunseo.kim CNAME .
@@ -273,4 +279,5 @@ visit.hijacklibs.net CNAME .
 visits.iloveuobgold.com CNAME .
 website-stats.sladew.org CNAME .
 webstats.maik.dev CNAME .
+webtracking.clavesolutions.co.uk CNAME .
 www.stats.spflow.com CNAME .

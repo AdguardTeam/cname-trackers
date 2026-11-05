@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793617659137        ; Serial
+           1793888525868        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -217,7 +217,6 @@ tr.cgpme.medef-gironde.fr CNAME .
 tr.chapsdata.chapsvision.com CNAME .
 tr.christmas.petit-bateau.com CNAME .
 tr.chronodrive.com CNAME .
-tr.ciblexo.fr CNAME .
 tr.cifa.espmp-nifr.net CNAME .
 tr.cifa02b.espmp-aufr.net CNAME .
 tr.cifa02d.espmp-aufr.net CNAME .
@@ -766,6 +765,7 @@ tr.news.alcyon.com CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.apotamox.com CNAME .
 tr.news.aramisauto.com CNAME .
+tr.news.armanddebrignac.com CNAME .
 tr.news.assuragency.net CNAME .
 tr.news.beaugrenelle-paris.com CNAME .
 tr.news.bruneau.fr CNAME .
@@ -778,6 +778,7 @@ tr.news.casino.fr CNAME .
 tr.news.casinodrive.fr CNAME .
 tr.news.casinomax.fr CNAME .
 tr.news.cci-puydedome.com CNAME .
+tr.news.cdiscount-pro.com CNAME .
 tr.news.cdiscount.com CNAME .
 tr.news.cdiscountpro.com CNAME .
 tr.news.celine.fr CNAME .

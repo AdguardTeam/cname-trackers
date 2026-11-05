@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793626042397        ; Serial
+           1793890329314        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -84,6 +84,7 @@ drt.cliomovies.com CNAME .
 ejjjkil2121.gimmeporn.xyz CNAME .
 en.rtnews.pro CNAME .
 excavajo55.gimmeporn.xyz CNAME .
+excavajo56.gimmeporn.xyz CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 fotos.brandnewapp.pro CNAME .
@@ -125,6 +126,7 @@ web5603.brandnewapp.pro CNAME .
 webmail.brandnewapp.pro CNAME .
 wl0nmmdg95w6.s4.rtnews.pro CNAME .
 wp.brandnewapp.pro CNAME .
+www.1qrsumhcuudhkt4c.brandnewapp.pro CNAME .
 www.api.rtnews.pro CNAME .
 www.app.rtnews.pro CNAME .
 www.brandnewapp.pro CNAME .
@@ -135,12 +137,14 @@ www.hostmaster.brandnewapp.pro CNAME .
 www.m.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 www.s2.rtnews.pro CNAME .
+www.s5.rtnews.pro CNAME .
 www.station54k.brandnewapp.pro CNAME .
 www.telford.brandnewapp.pro CNAME .
 www.web5603.brandnewapp.pro CNAME .
 www.wp.brandnewapp.pro CNAME .
 www.xn--www-hn0a.rtnews.pro CNAME .
 xd3r.javgg.eu CNAME .
+xn--icn-hn0a.brandnewapp.pro CNAME .
 yandex.31vaktiamp.pp.ua CNAME .
 z37.web.core.brandnewapp.pro CNAME .
 zone1.bestbdsm24.com CNAME .

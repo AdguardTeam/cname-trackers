@@ -7,10 +7,9 @@
     * akvo.piwik.pro
     * amrest.piwik.pro
     * amsterdam.piwik.pro
-    * ari.piwik.pro
     * aumago.piwik.pro
-    * betus.piwik.pro
     * ch-equans.piwik.pro
+    * com-on.piwik.pro
     * czgroep.piwik.pro
     * ec-prod-infra.piwik.pro
     * ec-prod.piwik.pro
@@ -20,9 +19,9 @@
     * ferreroanalytics.piwik.pro
     * fitchconnect.piwik.pro
     * helen.piwik.pro
+    * hogeschool.piwik.pro
     * ind.piwik.pro
     * intennet.piwik.pro
-    * kela.piwik.pro
     * klett.piwik.pro
     * kuka.piwik.pro
     * manz.piwik.pro
@@ -45,12 +44,12 @@
     * sozialversicherung.piwik.pro
     * stateofohio.piwik.pro
     * storck.piwik.pro
+    * svc-test.piwik.pro
     * tigital.piwik.pro
     * triodos.piwik.pro
     * tweedekamer.piwik.pro
     * twyzle-prod.piwik.pro
     * uninstalled.piwik.pro
-    * uwhealth.piwik.pro
     * uwv.piwik.pro
     * wavelz.piwik.pro
     * witglobal.piwik.pro
@@ -64,12 +63,9 @@
 | analytics.akvo.org | akvo.piwik.pro |
 | piwikpro.amrest.eu | amrest.piwik.pro |
 | dap.amsterdam.nl | amsterdam.piwik.pro |
-| stats.arinet.com | ari.piwik.pro |
 | tag.aumago.com | aumago.piwik.pro |
-| tagadmin.aumago.com | aumago.piwik.pro |
-| piwik.slotsparadise.com | betus.piwik.pro |
-| piwik.vegasaces.com | betus.piwik.pro |
 | metrics.equans.ch | ch-equans.piwik.pro |
+| piwik.com-online.com | com-on.piwik.pro |
 | inzicht.cz.nl | czgroep.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod-infra.piwik.pro |
 | www.webanalytics.europa.eu | ec-prod.piwik.pro |
@@ -80,9 +76,10 @@
 | analytics.ferrero.com | ferreroanalytics.piwik.pro |
 | purple.fitchconnect.com | fitchconnect.piwik.pro |
 | webanalytics.helen.fi | helen.piwik.pro |
+| analytics.hr.nl | hogeschool.piwik.pro |
+| analytics.hro.nl | hogeschool.piwik.pro |
 | statistics.ind.nl | ind.piwik.pro |
 | intranetstats.tennet.eu | intennet.piwik.pro |
-| stat.kela.fi | kela.piwik.pro |
 | p.klett.de | klett.piwik.pro |
 | p-k.kuka.com | kuka.piwik.pro |
 | stats.manz.at | manz.piwik.pro |
@@ -100,6 +97,8 @@
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.effectory.com | pp-public-p-euw.piwik.pro |
 | analytics.hr.nl | pp-public-p-euw.piwik.pro |
+| analytics.hr.nl | pp-public-p-euw.piwik.pro |
+| analytics.hro.nl | pp-public-p-euw.piwik.pro |
 | analytics.kuka.com | pp-public-p-euw.piwik.pro |
 | analytics.webanalytics.op.europa.eu | pp-public-p-euw.piwik.pro |
 | dap.amsterdam.nl | pp-public-p-euw.piwik.pro |
@@ -114,8 +113,6 @@
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.eif.org | pp-public-p-euw.piwik.pro |
 | piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
-| piwik.slotsparadise.com | pp-public-p-euw.piwik.pro |
-| piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwik.vegasaces.com | pp-public-p-euw.piwik.pro |
 | piwikpro.amrest.eu | pp-public-p-euw.piwik.pro |
 | piwikpro.amrest.eu | pp-public-p-euw.piwik.pro |
@@ -160,7 +157,6 @@
 | www.webengage.ae | pp-public-p-uan.piwik.pro |
 | www.webengage.ae | pp-public-p-uan.piwik.pro |
 | a.uwhealth.org | pp-public-p-use.piwik.pro |
-| a.uwhealth.org | pp-public-p-use.piwik.pro |
 | analytics.dx.ohio.gov | pp-public-p-use.piwik.pro |
 | analytics.dx.ohio.gov | pp-public-p-use.piwik.pro |
 | epiphany.masterworks.digital | pp-public-p-use.piwik.pro |
@@ -176,7 +172,9 @@
 | analytics.dx.ohio.gov | stateofohio.piwik.pro |
 | site-analytics.iop.ohio.gov | stateofohio.piwik.pro |
 | logfiles.storck.com | storck.piwik.pro |
+| analysis-test.sozialversicherung.at | svc-test.piwik.pro |
 | analytics.arz.at | tigital.piwik.pro |
+| d.hypobank.ch | tigital.piwik.pro |
 | d.hypovbg.at | tigital.piwik.pro |
 | p-pan.triodos.com | triodos.piwik.pro |
 | t-pan.triodos.com | triodos.piwik.pro |
@@ -187,11 +185,9 @@
 | fse.piwikpro.pl | uninstalled.piwik.pro |
 | piwik.twyzle.com | uninstalled.piwik.pro |
 | stat.kela.fi | uninstalled.piwik.pro |
-| stat.kela.fi | uninstalled.piwik.pro |
-| stats.arinet.com | uninstalled.piwik.pro |
 | stats.arinet.com | uninstalled.piwik.pro |
 | stats.netdriven.com | uninstalled.piwik.pro |
-| a.uwhealth.org | uwhealth.piwik.pro |
+| test.piwiksandbox.com | uninstalled.piwik.pro |
 | tag2.uwv.nl | uwv.piwik.pro |
 | analytics.ravelz.com | wavelz.piwik.pro |
 | analytics.wavelz.com | wavelz.piwik.pro |

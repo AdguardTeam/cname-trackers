@@ -7,6 +7,7 @@
 ### Rarely active trackers
 
 * deprecated-custom-domains.b-cdn.net
+* matomo.b-cdn.net
 * thgl-analytics.b-cdn.net
 * adss.b-cdn.net
 * ads-bndlapi.b-cdn.net
@@ -168,6 +169,7 @@
 | antelope.targetinternet.com | deprecated-custom-domains.b-cdn.net |
 | antelope.u3a.com.au | deprecated-custom-domains.b-cdn.net |
 | antlion.codivores.com | deprecated-custom-domains.b-cdn.net |
+| antlion.duo.agency | deprecated-custom-domains.b-cdn.net |
 | antlion.hendrikhaack.de | deprecated-custom-domains.b-cdn.net |
 | ape.mfj.se | deprecated-custom-domains.b-cdn.net |
 | ape.pytch.co.uk | deprecated-custom-domains.b-cdn.net |
@@ -216,7 +218,6 @@
 | bison.stuffmatic.com | deprecated-custom-domains.b-cdn.net |
 | bison.weitweit.at | deprecated-custom-domains.b-cdn.net |
 | blackbird.docstation.co | deprecated-custom-domains.b-cdn.net |
-| bluejay.edgesoftware.cloud | deprecated-custom-domains.b-cdn.net |
 | bluejay.fivefold.vc | deprecated-custom-domains.b-cdn.net |
 | bluejay.postmediagroup.com | deprecated-custom-domains.b-cdn.net |
 | bluejay.schreinerei-virnich.de | deprecated-custom-domains.b-cdn.net |
@@ -896,10 +897,16 @@
 | yak.auclantis.com | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
 | yak.juicydevils.gr | deprecated-custom-domains.b-cdn.net |
+| load.sstrk.green-acres.co.uk | ga-sgtm.b-cdn.net |
+| load.sstrk.green-acres.com | ga-sgtm.b-cdn.net |
+| load.sstrk.green-acres.gr | ga-sgtm.b-cdn.net |
+| icon.eu.admndx.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.afmndx.com | impressions-ico-eu.b-cdn.net |
+| icon.eu.agmndx.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.armndx.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.atmnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.atmndx.com | impressions-ico-eu.b-cdn.net |
+| icon.eu.avdomnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.awmndw.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.bbmnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.bmndx.com | impressions-ico-eu.b-cdn.net |
@@ -908,6 +915,7 @@
 | icon.eu.jramnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.kyomnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.mndsrv.com | impressions-ico-eu.b-cdn.net |
+| icon.eu.mvdomnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.nwmnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.ofmndx.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.plmndw.com | impressions-ico-eu.b-cdn.net |
@@ -915,6 +923,7 @@
 | icon.eu.rfxmnd.com | impressions-ico-eu.b-cdn.net |
 | icon.eu.twrmnd.com | impressions-ico-eu.b-cdn.net |
 | media.masque.com | masque-ads.b-cdn.net |
+| a.nanoq.org | matomo.b-cdn.net |
 | matomo-cdn-bunny.ramsalt.com | matomo.b-cdn.net |
 | metrics.aspose.com | metrics-aspose-com.b-cdn.net |
 | metrics.groupdocs.com | metrics-groupdocs-com.b-cdn.net |
@@ -923,7 +932,6 @@
 | cdn.myth.dev | mythdev.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
-| cdn.adevppl.com | popcashjs.b-cdn.net |
 | cdn.afwpc.com | popcashjs.b-cdn.net |
 | cdn.agajx.com | popcashjs.b-cdn.net |
 | cdn.alcatza.com | popcashjs.b-cdn.net |
@@ -971,6 +979,7 @@
 | cdn.hhjow.com | popcashjs.b-cdn.net |
 | cdn.hhmako.cloud | popcashjs.b-cdn.net |
 | cdn.hjklq.com | popcashjs.b-cdn.net |
+| cdn.hogmc.net | popcashjs.b-cdn.net |
 | cdn.holenhw.com | popcashjs.b-cdn.net |
 | cdn.htkcm.com | popcashjs.b-cdn.net |
 | cdn.iople.com | popcashjs.b-cdn.net |

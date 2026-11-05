@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793617659137        ; Serial
+           1793890329314        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,7 +15,6 @@ a-api.skz.dev CNAME .
 a.linkz.ai CNAME .
 aloha.getoperand.com CNAME .
 also.greatsecuritydebate.net CNAME .
-an.xavierrosee.com CNAME .
 ana.grumpygamer.com CNAME .
 analytics.adam.page CNAME .
 analytics.andrewsmith.com.au CNAME .
@@ -163,7 +162,6 @@ plausible.flowcv.io CNAME .
 plausible.giveatip.io CNAME .
 plausible.golfbreaks.com CNAME .
 plausible.gryka.net CNAME .
-plausible.gymglish.com CNAME .
 plausible.help.exploreandcreate.com CNAME .
 plausible.holderbaum-academy.de CNAME .
 plausible.hopecanebay.com CNAME .
@@ -653,7 +651,6 @@ stats.unusualtourist.com CNAME .
 stats.urbanfinn.com CNAME .
 stats.useeffect.dev CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
-stats.vali-pod.io CNAME .
 stats.vegamuze.be CNAME .
 stats.vinkkaa.fi CNAME .
 stats.visions.ch CNAME .

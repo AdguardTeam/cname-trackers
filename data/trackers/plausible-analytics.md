@@ -16,7 +16,6 @@
 | a.linkz.ai | custom.plausible.io |
 | aloha.getoperand.com | custom.plausible.io |
 | also.greatsecuritydebate.net | custom.plausible.io |
-| an.xavierrosee.com | custom.plausible.io |
 | ana.grumpygamer.com | custom.plausible.io |
 | analytics.adam.page | custom.plausible.io |
 | analytics.andrewsmith.com.au | custom.plausible.io |
@@ -164,7 +163,6 @@
 | plausible.giveatip.io | custom.plausible.io |
 | plausible.golfbreaks.com | custom.plausible.io |
 | plausible.gryka.net | custom.plausible.io |
-| plausible.gymglish.com | custom.plausible.io |
 | plausible.help.exploreandcreate.com | custom.plausible.io |
 | plausible.holderbaum-academy.de | custom.plausible.io |
 | plausible.hopecanebay.com | custom.plausible.io |
@@ -654,7 +652,6 @@
 | stats.urbanfinn.com | custom.plausible.io |
 | stats.useeffect.dev | custom.plausible.io |
 | stats.v4.agirpourlenvironnement.org | custom.plausible.io |
-| stats.vali-pod.io | custom.plausible.io |
 | stats.vegamuze.be | custom.plausible.io |
 | stats.vinkkaa.fi | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |

@@ -64,6 +64,7 @@
     * h-2gssvh01.online-metrix.net
     * h-2hr2ixbz.online-metrix.net
     * h-2i27mb7r.online-metrix.net
+    * h-2ivmoc9o.online-metrix.net
     * h-2j7qo8vb.online-metrix.net
     * h-2lg00mry.online-metrix.net
     * h-2lrwrk15.online-metrix.net
@@ -521,6 +522,7 @@
     * h-cyiil4dz.online-metrix.net
     * h-czmm8tx9.online-metrix.net
     * h-d1kh7jfh.online-metrix.net
+    * h-d39wd7n9.online-metrix.net
     * h-d3tracking.rbc.online-metrix.net
     * h-d43ho3ge.online-metrix.net
     * h-d5xcbob5.online-metrix.net
@@ -820,6 +822,7 @@
     * h-segpay.online-metrix.net
     * h-sfbli.online-metrix.net
     * h-sheerid.online-metrix.net
+    * h-shiprush.online-metrix.net
     * h-signifyd.online-metrix.net
     * h-skipcash.online-metrix.net
     * h-skrill.online-metrix.net
@@ -997,6 +1000,7 @@
 | prod-figfcu-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-firstcity-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-firstmark.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-firstnorcal-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-fortcomm-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-freedom-mercury2023.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-frontier.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1064,6 +1068,7 @@
 | fp.salamair.com | h-1snn5n9w.online-metrix.net |
 | contentdna.pemco.com | h-1srvxxv9.online-metrix.net |
 | prod-tmx.cofidis.hu | h-1v2qttg8.online-metrix.net |
+| test-cl-tmx.cofidis.hu | h-1v2qttg8.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
 | content.connect.medicaid.ncdhhs.gov | h-1xl1yrh3.online-metrix.net |
 | preprod.content.connect.medicaid.ncdhhs.gov | h-1xl1yrh3.online-metrix.net |
@@ -1088,6 +1093,7 @@
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | img4.cargurus.com | h-2hr2ixbz.online-metrix.net |
 | meox.allianceonline.com.my | h-2i27mb7r.online-metrix.net |
+| eaf.uat.mille-services.pl | h-2ivmoc9o.online-metrix.net |
 | ersriln.hroffice.com | h-2j7qo8vb.online-metrix.net |
 | ln.jackpotgo.club | h-2lg00mry.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
@@ -1264,6 +1270,7 @@
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | cim-idc-cdn.account.hcsctest.net | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbsil.com | h-6ne0huru.online-metrix.net |
+| cim-idc-cdn.account.test.bcbsnm.com | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbsok.com | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.bcbstx.com | h-6ne0huru.online-metrix.net |
 | cim-idc-cdn.account.test.healthspring.com | h-6ne0huru.online-metrix.net |
@@ -1287,6 +1294,7 @@
 | tmcontent.zoom.com | h-73e8orvb.online-metrix.net |
 | tmcontent.zoom.us | h-73e8orvb.online-metrix.net |
 | analytics.tpg.com.au | h-748xxcci-1.online-metrix.net |
+| analytics.tpgi.com.au | h-748xxcci-1.online-metrix.net |
 | analytics.iinet.net.au | h-748xxcci-2.online-metrix.net |
 | analytics.vodafone.com.au | h-748xxcci.online-metrix.net |
 | poirot.chase.com | h-75h6hbtl.online-metrix.net |
@@ -1751,6 +1759,7 @@
 | content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | content.connexion.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.connexion.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| content.connexion.monespace.bnpparibas | h-cco37scf.online-metrix.net |
 | content.connexion.monespace.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.hellobank.fr | h-cco37scf.online-metrix.net |
@@ -1765,6 +1774,10 @@
 | content.prev.connexion.monespace.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev.connexion.monespace.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| www.content.connexion.hellobank.fr | h-cco37scf.online-metrix.net |
+| www.content.connexion.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| www.content.connexion.monespace.bnpparibas | h-cco37scf.online-metrix.net |
+| www.content.connexion.monespace.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
@@ -1772,6 +1785,7 @@
 | www.content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | www.content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| www.content.prev.connexion.hellobank.fr | h-cco37scf.online-metrix.net |
 | imagesmx.cdscdn.com | h-cdiscount.online-metrix.net |
 | fp.cdn-scripts.com | h-cdn-scripts.online-metrix.net |
 | cdn.coastcapitalsavings.com | h-cdn.coastcapitalsavings.online-metrix.net |
@@ -1880,6 +1894,7 @@
 | assets.signup.ifxpayments.com | h-cyiil4dz.online-metrix.net |
 | content.nu.com.co | h-czmm8tx9.online-metrix.net |
 | content.sportscheck.ch | h-d1kh7jfh.online-metrix.net |
+| dti.klar.mx | h-d39wd7n9.online-metrix.net |
 | d3tracking.rbc.com | h-d3tracking.rbc.online-metrix.net |
 | detect.clearme.com | h-d43ho3ge.online-metrix.net |
 | apicorporativops.portoseguro.com.br | h-d5xcbob5.online-metrix.net |
@@ -2309,6 +2324,7 @@
 | secure3.segpay.com | h-segpay.online-metrix.net |
 | content.sfbli.com | h-sfbli.online-metrix.net |
 | content.sheerid.com | h-sheerid.online-metrix.net |
+| dap.my.shiprush.com | h-shiprush.online-metrix.net |
 | imgs.cdn-btsg.com | h-signifyd.online-metrix.net |
 | imgs.signifyd.com | h-signifyd.online-metrix.net |
 | tmx.cdn-btsg.com | h-signifyd.online-metrix.net |

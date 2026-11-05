@@ -11,7 +11,6 @@
 ||pix.telekom.de^
 ||pixel.augsburger-allgemeine.de^
 ||prophet.heise.de^
-||service.hcob-bank.de^
 ||startrekk.flaconi.de^
 ||sub1.cosmosdirekt.de^
 ||text.mitarbeiterangebote.de^
@@ -290,6 +289,7 @@
 ||web.mapp.whiteaway.com^
 ||web.mapp.whiteaway.no^
 ||web.mapp.whiteaway.se^
+||web.marketing.jellybelly.com^
 ||web.mytoys.de^
 ||web.news.absurdbeauty.com^
 ||web.news.bottegaverde.com^
@@ -386,4 +386,3 @@
 ||wttd.madeleine.fr^
 ||wttd.madeleine.gr^
 ||www.a.jaz-hotel.com^
-||web.marketing.jellybelly.com^

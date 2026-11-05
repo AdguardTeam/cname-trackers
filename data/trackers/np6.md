@@ -9,7 +9,6 @@
 * form.bp01.net
 * shortener.bp01.net
 * 145656177.group0.sites.hscoscdn-eu1.net
-* forms.bp01.net
 * web-ro.np6.com
 
 ## Cloaking domains
@@ -26,7 +25,6 @@
 | infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
-| www.jeu.heliades.fr | forms.bp01.net |
 | m.uneo.fr | shortener.bp01.net |
 | s.allopneus.com | shortener.bp01.net |
 | s.gemy.fr | shortener.bp01.net |
@@ -239,7 +237,6 @@
 | tr.chapsdata.chapsvision.com | tracking.bp01.net |
 | tr.christmas.petit-bateau.com | tracking.bp01.net |
 | tr.chronodrive.com | tracking.bp01.net |
-| tr.ciblexo.fr | tracking.bp01.net |
 | tr.cifa.espmp-nifr.net | tracking.bp01.net |
 | tr.cifa02b.espmp-aufr.net | tracking.bp01.net |
 | tr.cifa02d.espmp-aufr.net | tracking.bp01.net |
@@ -788,6 +785,7 @@
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.apotamox.com | tracking.bp01.net |
 | tr.news.aramisauto.com | tracking.bp01.net |
+| tr.news.armanddebrignac.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
 | tr.news.beaugrenelle-paris.com | tracking.bp01.net |
 | tr.news.bruneau.fr | tracking.bp01.net |
@@ -800,6 +798,7 @@
 | tr.news.casinodrive.fr | tracking.bp01.net |
 | tr.news.casinomax.fr | tracking.bp01.net |
 | tr.news.cci-puydedome.com | tracking.bp01.net |
+| tr.news.cdiscount-pro.com | tracking.bp01.net |
 | tr.news.cdiscount.com | tracking.bp01.net |
 | tr.news.cdiscountpro.com | tracking.bp01.net |
 | tr.news.celine.fr | tracking.bp01.net |

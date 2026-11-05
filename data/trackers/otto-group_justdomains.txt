@@ -16,7 +16,6 @@ te.heine.de
 te.helline.fr
 te.imwalking.de
 te.jelmoli-shop.ch
-te.lascana.at
 te.lascana.ch
 te.limango.de
 te.mirapodo.de
@@ -29,6 +28,7 @@ te.ottoversand.at
 te.quelle.de
 te.sheego.de
 te.sieh-an.at
+te.sieh-an.ch
 te.sieh-an.de
 te.universal.at
 te.waeschepur.de

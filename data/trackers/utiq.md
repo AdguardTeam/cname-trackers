@@ -103,6 +103,7 @@
 | utiq.computerbild.de | frontend.prod.utiq-aws.net |
 | utiq.computerfrage.net | frontend.prod.utiq-aws.net |
 | utiq.comunidadmsm.es | frontend.prod.utiq-aws.net |
+| utiq.congstar.de | frontend.prod.utiq-aws.net |
 | utiq.corsematin.com | frontend.prod.utiq-aws.net |
 | utiq.courrier-picard.fr | frontend.prod.utiq-aws.net |
 | utiq.crossplan-deutschland.de | frontend.prod.utiq-aws.net |
@@ -169,6 +170,7 @@
 | utiq.espinof.com | frontend.prod.utiq-aws.net |
 | utiq.esquire.de | frontend.prod.utiq-aws.net |
 | utiq.eulerian.wiki | frontend.prod.utiq-aws.net |
+| utiq.euronews.com | frontend.prod.utiq-aws.net |
 | utiq.europapress.es | frontend.prod.utiq-aws.net |
 | utiq.europapress.tv | frontend.prod.utiq-aws.net |
 | utiq.eventfinder.at | frontend.prod.utiq-aws.net |

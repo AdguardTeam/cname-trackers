@@ -135,6 +135,7 @@
 ||coreads-static.cambridge.org^
 ||coreads.cambridge.org^
 ||creatives.goldseek.com^
+||delivery.ads.fanta-olimpiadi.com^
 ||delivery.ads.fantagiroditalia.it^
 ||delivery.ads.fantasanremo.com^
 ||display.lawbulletin.com^
@@ -184,6 +185,7 @@
 ||revive.ahk.de^
 ||revive.worldscreen.com^
 ||reviveapi.geenstijl.nl^
+||rtvutrecht-delivery.reviveservers.com^
 ||rtvutrecht-static.reviveservers.com^
 ||serve.faithlifeads.com^
 ||servedby-thinkresult.revive-adserver.net^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1793628865127        ; Serial
+           1793882711520        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -146,6 +146,7 @@ console.wwoz.org CNAME .
 coreads-static.cambridge.org CNAME .
 coreads.cambridge.org CNAME .
 creatives.goldseek.com CNAME .
+delivery.ads.fanta-olimpiadi.com CNAME .
 delivery.ads.fantagiroditalia.it CNAME .
 delivery.ads.fantasanremo.com CNAME .
 display.lawbulletin.com CNAME .
@@ -195,6 +196,7 @@ revive-static.worldscreen.com CNAME .
 revive.ahk.de CNAME .
 revive.worldscreen.com CNAME .
 reviveapi.geenstijl.nl CNAME .
+rtvutrecht-delivery.reviveservers.com CNAME .
 rtvutrecht-static.reviveservers.com CNAME .
 serve.faithlifeads.com CNAME .
 servedby-thinkresult.revive-adserver.net CNAME .

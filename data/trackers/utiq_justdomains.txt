@@ -101,6 +101,7 @@ utiq.compradiccion.com
 utiq.computerbild.de
 utiq.computerfrage.net
 utiq.comunidadmsm.es
+utiq.congstar.de
 utiq.corsematin.com
 utiq.courrier-picard.fr
 utiq.crossplan-deutschland.de
@@ -167,6 +168,7 @@ utiq.epe.es
 utiq.espinof.com
 utiq.esquire.de
 utiq.eulerian.wiki
+utiq.euronews.com
 utiq.europapress.es
 utiq.europapress.tv
 utiq.eventfinder.at
