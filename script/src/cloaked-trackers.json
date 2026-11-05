@@ -244,6 +244,13 @@
         ]
     },
     {
+        "company_name": "Eyepin",
+        "type": "mail_tracker",
+        "domains": [
+            "post.eyepinnews.com"
+        ]
+    },
+    {
         "company_name": "Fathom",
         "type": "tracker",
         "domains": [
